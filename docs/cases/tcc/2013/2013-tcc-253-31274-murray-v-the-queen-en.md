@@ -1,0 +1,370 @@
+---
+title: "Murray v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31274/index.do"
+last_modified: "2013-08-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 253"
+citation2: ""
+neutral_citation: "2013 TCC 253"
+decision_date: "2013-08-20"
+language: "en"
+item_id: "31274"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5115
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:56:37.847000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3ff260414c3f1441727bf718706b8771b892f124ba3c9b46c167f26b41110942"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Murray v. The Queen
+
+- Citation: 2013 TCC 253
+- Decision date: 2013-08-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5115, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murray v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-08-20
+Neutral citation
+2013 TCC 253
+File numbers
+2009-1943(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1943(IT)G
+BETWEEN:
+ROBERT MURRAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 17, 18 and 19, 2012, at Ottawa, Ontario.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+André LeBlanc
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made pursuant to the Income Tax Act for the 2001, 2002 and 2003 taxation years is dismissed with costs.
+Signed at Toronto, Ontario, this 20th day of August 2013.
+"Johanne D’Auray"
+D'Auray J.
+Translation certified true
+Francois Brunet, Revisor
+Citation: 2013 TCC 253
+Date: 20130820
+Docket: 2009-1943(IT)G
+BETWEEN:
+ROBERT MURRAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D'Auray J.
+OVERVIEW
+[1] Mr. Murray is a status Indian and a member of the Mohawks of Kanesatake First Nation in Quebec.
+[2] In 1993, Mr. Murray opened an office supply store on the Kanesatake reserve, doing business as Produits de Bureau MTC.
+[3] In 1995, the federal government decided to privatize 17 of its office supply stores. Mr. Murray acquired one of these stores in Gatineau.
+[4] In 1996, the federal government implemented the Aboriginal Business Procurement Policy (the ABPP), the purpose of which was to increase the participation of Aboriginal business in the procurement process by encouraging and, in certain situations, requiring federal departments and agencies to grant contracts to Aboriginal businesses.
+[5] During the period in question, the 2001, 2002 and 2003 taxation years, Mr. Murray was the sole shareholder and director of the companies The Mohawk Trading Company Inc. / La Compagnie de Commerce Mohawk Inc. (MTC) and Mohawk Contract Furniture Inc. / Les Meubles de Bureau Mohawk Inc. (MCF). MTC sold office supplies and MCF, office furniture. The primary places of business of both companies were in Gatineau.
+[6] Because of Mr. Murray's business sense and incentives offered through the ABPP to Aboriginal businesses, MTC and MCF became successful and reached sales levels that surpassed all expectations.
+[7] Mr. Murray received management fees from the companies at the end of each fiscal year. The amount of the management fees Mr. Murray received was equal to the retained earnings of the companies, namely, profits minus personal expenses incurred by the companies for Mr. Murray.
+[8] Mr. Murray argues that the management fees received were only for the work he carried out on the reserve. He submits that the management fees are located on the reserve. As a result, pursuant to his Indian status, he did not have to pay taxes on these fees, which could be considered property. As for the personal expenses paid by the companies, he submits that he cannot be assessed on personal taxable benefits received when the amounts that constituted these taxable benefits were tax exempt.
+[9] The Minister of National Revenue (the Minister) notes that the exemption provided under the Income Tax Act (ITA) and the Indian Act (IA) does not apply to the management fees. As for the taxable personal benefits conferred by MTC and MCF, the Minister submits they were rightly included in the calculation of Mr. Murray's income.
+ISSUES
+[10] Were the management fees Mr. Murray received from MTC and MCF for the 2001, 2002 and 2003 taxation years, under the combined application of section 87 of the IA and section 81 of the ITA, tax exempt as personal property situated on a reserve?
+[11] Were the amounts included in the calculation of Mr. Murray's income as taxable benefits also tax exempt as personal property situated on a reserve?
+[12] Were the penalties imposed by the Minister for the late filing of tax returns for 2001 and 2002 warranted?
+FACTS
+[13] Mr. Murray was born on the Kanesatake reserve at 204 Sainte-Sophie Street, and lived there until he was around 16. At 16, he left the reserve to work in a circus in Saint-Eustache.
+[14] Later, he lived in Ottawa, Montréal, Calgary and the United States, and held various jobs. In the 1980s, Mr. Murray left Canada for Florida. From 1980 to 1985, he worked in bars and motels in Miami Beach as manager, bartender and doorman. During this period, he became the owner of many restaurants. Between 1985 and 1990, he left Florida to work in Texas for a friend's oil company. It was also during this period that he met his wife, Glynn House Murray. Mr. Murray's absence lasted a total of more than 15 years.
+[15] In 1988, he began thinking about returning to his home reserve to encourage economic development. In 1990, at around 33, he left the US and moved to Montreal to study management at McGill University. Through various research and readings, he realized there was a demand for office supply businesses. Moreover, he was familiar with this field because his wife worked for a company that sold paper.
+[16] In 1991, he returned to the reserve to live with his wife in his family home at 204 Sainte-Sophie Street, in Oka, where his mother also lived.
+[17] In 1992, he purchased a building at 84 Notre-Dame Street, in Oka, and began operating a paper supply business. At that time, the business, Produits de Bureau MTC, was operated as a sole proprietorship.
+[18] In 1993, Mr. Murray purchased the house and ancestral land (ancestral home) at 204 Sainte-Sophie Street, in Oka, from his mother for one dollar.
+[19] From 1993 to 1999, he lived in a house with his wife at St‑Paul Street in the village of Oka. During this period, Mr. Murray was still the owner of the ancestral home, but did not reside there. His mother lived there until her death, after which Mr. Murray's niece moved in with her six children.
+[20] In 1995, the federal government decided to privatize 17 of its office supply stores. On April 17, 1995, Mr. Murray acquired one of these stores, located at 1 Promenade du Portage, at Terrasses de la Chaudière, in Gatineau.
+[21] On March 8, 1996, Mr. Murray incorporated 3236871 Canada Inc., which would then become MTC. MTC conducted retail sales of office supplies.
+[22] On March 27, 1996, the federal government announced the ABPP.
+[23] The ABPP is described in Contracting Policy Notice 1996-2, as an initiative "to promote Aboriginal business participation in government procurement." This initiative consists of the following elements:
+• greater emphasis on Aboriginal economic development when planning procurements;
+• mandatory setasides in procurements above a threshold which are destined for Aboriginal populations;
+• selective setasides for specific procurements;
+• provision for subcontracting with Aboriginal firms when the primary requirement is outside of NAFTA and WTOAGP;
+• related changes to the Contracting and Procurement Review policies to support these initiatives; and
+• under phase two of this initiative, each department and agency with an annual contracting budget in excess of $1.0 million shall develop multiyear performance objectives for contracting with Aboriginal businesses. Details of how this goal will be pursued will be announced in the near future.
+[24] Because of the ABPP, MTC grew by leaps and bounds. Through the ABPP, MTC was able to participate in offers reserved for Aboriginal businesses, which was very lucrative for MTC.
+[25] On June 25, 2002, Mr. Murray incorporated a second company, 4087771 Canada Inc., which would become MCF. MCF sold office furniture.
+[26] During the years in question, the companies had three stores, one showroom and one warehouse. Two of the three stores were in Gatineau: one in the Terrasses de la Chaudière building at 1 Promenade du Portage, and the other at Place Vincent‑Massey at 351 St‑Joseph Boulevard. The third store was on the reserve at 84 Notre-Dame Street, in Oka. The showroom was at 25 Eddy Street, in Gatineau, and the warehouse, at 35 and 45 Villebois Street, in Gatineau.
+[27] The sales figures for MTC and MCF in Gatineau were $7,774,796 in 2001, $11,849,459 in 2002 and $3,763,130 in 2003, whereas sales at the Oka store were around $300,000, according to Mr. Murray's testimony.
+[28] During the 2001, 2002 and 2003 taxation years, the companies paid Mr. Murray management fees and paid for his personal expenses. Mr. Murray did not include these amounts in the calculation of his income, claiming to be entitled to an exemption in view of his Indian status. In notices dated March 30, 2006, the Minister assessed Mr. Murray as follows:
+2001
+Benefits conferred
+$243,594.00
+Management fees
+$532,000.00
+Total
+$775,594.00
+CPP and QPP deductions
+$1,496.00
+Total income
+$774,098.00
+2002
+Benefits conferred
+$218,281.00
+Management fees - MTC
+$932,574.00
+Management fees - MCF
+$98,143.00
+$1,030,717.00
+Total
+$1,248,998.00
+CPP and QPP deductions
+$1,673.00
+Total income
+$1,247,325.00
+2003
+Income as reported
+$648,570.00
+Benefits conferred
+$94,400.00
+Total
+$742,970.00
+CPP and QPP deductions
+$1,802.00
+Total income
+$741,168.00
+[29] Two witnesses appeared at the hearing: Mr. Murray and Ms. Thibeault, the Canada Revenue Agency auditor responsible for the file.
+[30] Mr. Murray was honest and the majority of his testimony was clear and credible. However, certain uncollaborated statements were contradictory or unlikely in the light of the circumstances.
+[31] For example, he considers 204 Sainte-Sophie Street, in Oka, to be his residence, even though he lived in the US for 10 years.[1] From the start, Mr. Murray admitted that he knew of the tax exemption for registered Indians and the importance of maintaining a connection with the reserve.
+[32] Mr. Murray stated that during the years in question, he received management fees from the companies for his work with the financial and strategic planning of the companies. Although he made decisions both on and off the reserve, he did not keep any records, reports or time sheets showing the proportion of work performed on the reserve and that performed off the reserve. He claims that he spent around 25% of his time on the reserve, whereas the respondent claims that Mr. Murray spent around 5% of his time on the reserve. Mr. Murray was also unable to state the hourly wage he was paid for his services, either for those provided on the reserve or those provided off the reserve. He did not have a contract or agreement with the companies that set out the terms in this regard. The evidence showed that the management fees Mr. Murray received yearly were equal to the retained earnings the companies had accumulated through the year.
+[33] Mr. Murray stated many times that it was [translation] "by design" and for tax purposes[2] that he chose to bill the companies only for the work performed on the reserve. During his testimony, he stated that he did not receive any compensation for the work performed in Gatineau.
+[34] However, in his testimony, Mr. Murray was much more specific about the work he performed in Gatineau. For example, he met with deputy ministers and directors general from various departments to encourage them to set aside some orders for Aboriginal businesses pursuant to the ABPP. He implemented marketing strategies at his Gatineau stores to encourage public servants responsible for procurement to go to the stores to purchase their office supplies. He oversaw the daily management of the stores and made the decisions required to increase sales of office supplies and furniture. He admitted that he was present at the store in Promenade du Portage almost every day and had an office to work in at the showroom at 25 Eddy Street. During the audit, Ms. Thibault spent a significant amount of time there. In her testimony, she stated that Mr. Murray was very present and active in his business. The clients knew him well and he often knew them by their first names.
+[35] Mr. Murray stated that his wife, Mrs. House Murray, also worked at the Gatineau stores. She was even the vice-president of the companies for a certain period. Mrs. House Murray did not testify at the hearing to corroborate any of Mr. Murray's testimony. It must be noted, however, that Mrs. House Murray does not have registered Indian status. Moreover, she did not receive any compensation for the work performed for the companies.
+[36] The evidence also established that during the years in question, Mr. Murray lived in residences located in the national capital region, namely:
+• from 2000 to 2002, in a penthouse at 259 Champlain Street in Gatineau; Mr. Murray's wife is the owner;
+• in 2002, in a rental apartment at 221 Lyon Street in Ottawa;
+• from the winter of 2002 to October 2003, in a country home he rented in Val-des-Monts;
+• at the end of 2003, at 113 des Montagnais Road in Gatineau; Mr. Murray and his wife are the owners.
+[37] The evidence submitted at the hearing shows that Mr. Murray was present in the national capital region not only for his business activities, but also for his personal activities. He was a member of a golf club and a yacht club in Gatineau. The credit card statements submitted in evidence also show that Mr. Murray spent the majority of his time in the national capital region. Indeed, from January 1, 2001, to July 1, 2003, the credit card statements show hundreds of transactions in the national capital region whereas only eight could be found that were conducted on or near the reserve.
+[38] With regard to the companies' activities, the evidence shows that all or almost all of the sales are attributable to the two stores in Gatineau. Moreover, the sales generated at 84 Notre-Dame Street in Oka do not appear to be included in the financial records presented by the corporation's accountant, because under the inventory listing, 84 Notre-Dame Street does not appear as one of the companies' establishments.
+PARTIES' POSITIONS
+Mr. Murray's position
+[39] Mr. Murray submits that, in view of the connecting factors stated in Williams v. R,[3] the management fees and taxable benefits are income earned on a reserve and are, therefore, tax exempt.
+[40] He also submits that one of the relevant connecting factors to determine the situs of the management fees is the place where he made important and strategic decisions for the companies.
+[41] He also submits that the important and strategic decisions related to the management fees were made on the reserve. MTC and MCF had their head offices on the Kanesetake reserve, where the management fees were generated. Mr. Murray is also connected to the reserve through the store he ran at 84 Notre-Dame Street. He was the owner of the building that housed the store and accommodations. At one time, he allegedly kept the "small apartment" for personal use. He is also the owner of the ancestral home located on the reserve at 204 Sainte‑Sophie Street.
+[42] He submits that the ABPP is another relevant connecting factor because, without it, the companies would not have been able to participate in setaside orders. MTC's and MCF's income is from the ABPP. The companies were able to participate in offers set aside for Aboriginal businesses because of Mr. Murray's Indian status. As a result, the management fees and benefits conferred were granted because of his Indian status. Moreover, he submits that the companies' profits related to the ABPP are not part of the commercial mainstream.
+[43] With regard to the amounts the Minister included as taxable benefits, Mr. Murray submits that the companies were only acting as intermediaries and gave him no taxable benefit. The amounts incurred by the companies to pay his personal expenses are therefore non-taxable. Moreover, Mr. Murray submits he could have chosen to pay himself higher management fees instead of paying for his personal expenses with the credit cards belonging to the companies.
+[44] Mr. Murray also submits that the management fees and benefits conferred on him were deemed to be property situated on a reserve under paragraph 90(1)(a) of the IA. He states that Her Majesty purchased the property, namely office supplies and furniture, with money or funds destined for the use and benefit of Indians, in accordance with the ABPP. Therefore, the resulting income, namely, the management fees and taxable benefits, must be tax exempt.
+Respondent's position
+[45] According to the Respondent, Mr. Murray admitted he deliberately ("by design") chose not to be compensated for the management work he performed for the companies outside the reserve, in order to benefit from the exemption under section 87 of the IA.
+[46] The respondent also submits that Mr. Murray ignored the corporate structures of MTC and MCF, claiming that the amounts he took from these companies to pay for personal expenses are indirect management fees because if not for the expenses paid by the companies, the management fees would have been higher.
+[47] As for the connecting factors, the respondent submits that the situs of the management fees granted to Mr. Murray is Gatineau and not the reserve, for the following reasons:
+• the main establishments of MTC and MCF are situated in Gatineau;
+• the sales for MTC and MCF are generated in Gatineau;
+• the companies' bank accounts are in Ottawa, at the Royal Bank of Canada;
+• the daily management of and decision making for MTC and MCF and the control of these companies take place in Gatineau;
+• the management fees are generated by Mr. Murray in Gatineau and deposited by the debtor companies MTC and MCF to Mr. Murray's bank account at the Royal Bank in Ottawa;
+• during the years in question, Mr. Murray resided in the national capital region and all his activities and lifestyle are connected to this region.
+[48] Moreover, the respondent submits that paragraph 90(1)(a) of the IA does not apply for the following reasons:
+• Pursuant to paragraph 90(1)(a), the property to which the paragraph applies must be defined. In this appeal, it is the management fees and benefits conferred on Mr. Murray; therefore, even if the office supplies and furniture had been purchased by MTC and MCF with Indian moneys by federal departments and agencies, it cannot be claimed that they were purchased for the benefit of Indians and bands. Additionally, it would be the office supplies and furniture that were considered to be situated on the reserve and not the management fees. Therefore, this would not give Mr. Murray any advantage.
+• It cannot be claimed that Her Majesty purchased the management fees and the taxable benefits Mr. Murray received. Contrary to Mr. Murray's claims, one cannot lift the corporate veil and ignore the corporate structure of the companies.
+• Section 2 of the IA defines the words "Indian moneys". This money is subject to a strict administrative regime under sections 61 to 69 of the IA. The ABPP does not make any reference to this regime. Mr. Murray did not present any evidence to show that it was "Indian moneys" within the meaning of the IA that was used by the public servants to purchase the office supplies and furniture.
+• Moreover, there is no evidence in the record that shows that the funds were voted by Parliament for the use and profit of Indians or bands.
+ANALYSIS
+Section 87 of the IA
+[49] The ITA excludes certain tax-exempt amounts from a taxpayer's income under specific federal statutes. It is the interaction between paragraph 81(1)(a) of the ITA and section 87 of the IA that leads to the tax-exemption of property situated on a reserve and belonging to a registered Indian:
+Income Tax Act
+81. (1) There shall not be included in computing the income of a taxpayer for a taxation year,
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada;
+Indian Act
+87. (1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal Management Act, the following property is exempt from taxation:
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+[50] The parties agree that the management fees and benefits conferred on Mr. Murray by the companies are property within the meaning of section 87 of the IA.
+[51] In the present appeal, to decide whether this property is tax exempt, I must determine whether the management fees and benefits conferred on Mr. Murray were situated on the reserve.
+[52] In Bastien Estate v. Canada, [4] Cromwell J. of the Supreme Court of Canada recently considered the analysis the courts must conduct to determine whether property is tax exempt under section 87 of the IA.
+[53] In short, Cromwell J. proposed the following analytical grid, which consists of two parts:
+• The analysis must take into consideration the substance and the plain and ordinary meaning of the terms used at subsection 87(1) of the IA. In accordance with the words used at section 87 of the IA, "personal property of an Indian ...situated on a reserve", the analysis must address the issue of whether the property is situated on a reserve.
+• When the location of the property is objectively difficult to determine because of the nature of the property or the type of exemption in question, the courts must consider the connecting factors described in Williams to determine where the property is situated. These factors are only relevant to the extent that they lead to the identification of the location of the property for the purposes of section 87.
+• The relevance of the connecting factors will vary depending on the type of property and the nature of the tax treatment reserved for this income.
+[54] Once the connecting factors have been determined, the Court must proceed with a purposive analysis to determine the weight to grant each connecting factor. There are not necessarily any overriding factors. All the factors must be analyzed and weighed, and the location associated with the income must be determined in the light of the type of property in question and the nature of the taxation of that property.
+[55] I will begin as Cromwell J. did in Bastien Estate at paragraph 21, where he began with determining the purpose of the exemption, the type of property and the nature of the taxation. Then, he determined the relevant connecting factors and analyzed them in the light of the purpose of the exemption, the type of property and the nature of the taxation.
+Purpose of the exemption
+[56] With regard to the purpose of the exemption, at paragraph 21, Cromwell J. reproduces the comment made by La Forest J. in Mitchell v Peguis Indian band[5]:
+...With respect to the exemption from taxation, he observed that it serves to “guard against the possibility that one branch of government, through the imposition of taxes, could erode the full measure of the benefits given by that branch of government entrusted with the supervision of Indian affairs” (p. 130). He summed up his discussion of the purpose of the provisions by noting that since the Royal Proclamation of 1763, R.S.C. 1985, App. II, No. 1, “the Crown has always acknowledged that it is honour-bound to shield Indians from any efforts by non-natives to dispossess Indians of the property which they hold qua Indians”. He added an important qualification: the purpose of the exemptions is to preserve property reserved for their use, “not to remedy the economically disadvantaged position of Indians by ensuring that [they could] acquire, hold and deal with property in the commercial mainstream on different terms than their fellow citizens”: p. 131. As La Forest J. put it:
+These provisions are not intended to confer privileges on Indians in respect of any property they may acquire and possess, wherever situated. Rather, their purpose is simply to insulate the property interests of Indians in their reserve lands from the intrusions and interference of the larger society so as to ensure that Indians are not dispossessed of their entitlements. [Emphasis added; p. 133.]
+Cromwell J. made two additional comments in Bastien Estate regarding the purpose of the exemption. First, consideration of the purpose of the exemption does not give the court licence to ignore the words of the Act.[6] Second, the application of the exemption does not depend on the issue of whether the property is integral to life on the reserve or to the preservation of the traditional Indian way of life. Thus, the words "property which Indians hold qua Indians" should be interpreted on the basis of the need to establish a connection between the property and the reserve such that it may be said that the property is situated there for the purposes of the IA.
+The type of property
+[57] As mentioned above, the case law clearly holds that, for the purposes of section 87 of the IA, income is personal property.
+[58] In their pleadings and at the hearing, the parties made submissions to the effect that the management fees and benefits conferred on Mr. Murray constituted employment income. Considering the evidence, and with respect, it seems to me that in this specific case, the management fees Mr. Murray received should instead be considered business income.
+[59] Under article 2085 of the Civil Code of Québec[7]:
+A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+Also, section 248 of the ITA defines the words employment and business:
+“employment” means the position of an individual in the service of some other person (including Her Majesty or a foreign state or sovereign) and “servant” or “employee” means a person holding such a position;
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment;
+[60] In view of the evidence, the parameters of the relationship between Mr. Murray and the companies do not match those normally found in a contract of employment. First, there is no contract in this case. Second, there is no pre‑determined compensation and no work schedule. Concretely, Mr. Murray is the sole shareholder, director and officer of the companies. His compensation, every year, consists of the companies' profits minus personal expenses incurred by the companies for Mr. Murray (which, moreover, constituted taxable benefits pursuant to the ITA). Therefore, in the light of the evidence, the management fees are, for Mr. Murray, considered business income. It was as business income that the fees were included in Mr. Murray's income when the first draft assessment was made.
+[61] As mentioned above, the evidence presented at the hearing shows that the management fees essentially correspond to the companies' annual profits. These fees were paid as follows: through the year, Mr. Murray paid his own personal expenses with the corporation's liquid assets, mainly using credit cards belonging to the companies; at the end of the year, the companies paid Mr. Murray the difference between the annual profit and the personal expenses incurred throughout the year. This "balance" corresponded to the management fees Mr. Murray chose to exclude from the calculation of his income.
+[62] First, I will conduct an analysis considering the management fees as business income, and second, considering them as employment income. As for the benefits, I will analyze them as benefits conferred on a shareholder pursuant to section 15 of the ITA and then as benefits in respect of employment pursuant to section 6 of the ITA.
+[63] It is also important to determine the nature of the management fees and benefits conferred on Mr. Murray. The management fees were received by Mr. Murray for the work he performed for the companies MTC and MCF. This includes all the duties Mr. Murray carried out for the companies such as meetings with deputy ministers and directors general to promote the companies, developing marketing strategies, daily management of the stores by being present in the Gatineau stores, making strategic decisions, financial planning, developing financial strategies (including income and expenditure projections) and preparing submissions for the selective tendering set aside for Aboriginal businesses. With regard to the benefits conferred, they were personal expenditures paid for by the companies. Contrary to Mr. Murray's submissions, the management fees he received cannot be only from the work he performed on the reserve. I will address Mr. Murray's submissions on this subject below, in these reasons.
+Nature of the taxation
+[64] If not for the exemption, the business income that the management fees represent would have been included in Mr. Murray's income under the joint application of sections 3 and 9 of the ITA. If, as Mr. Murray submitted at the hearing, the management fees constituted employment income, they would be taxable under the joint application of sections 3 and 5 of the ITA. As for the benefits conferred on Mr. Murray, namely the personal expenditures paid for by the companies, if not for the exemption, these would have been taxable, either as a benefit conferred on a shareholder pursuant to subsection 15(1) of the ITA, or as an employment benefit pursuant to subsection 6(1) of the ITA.
+Analysis of connecting factors from the business income perspective
+[65] The Supreme Court has not yet had an opportunity to analyze the relevant connecting factors when determining the situs of business income. The Federal Court of Appeal, however, has had to propose and apply certain factors in Southwind.[8] These factors were also considered by the same court in Ballantyne v Canada[9] and Canada v Robertson,[10] both of which followed Bastien Estate.
+[66] In a recent unanimous Federal Court of Appeal decision, Kelly v Canada,[11] Stratas J.A. not only provides a detailed analysis of Bastien Estate, but also guidelines regarding the analysis for business income.
+[67] In the light of this case law, I will review the following connecting factors to determine the situs of the management fees and benefits conferred on Mr. Murray by the companies:
+(i) place of operation of the management services business;
+(ii) place where the services were provided and type of services provided;
+(iii) place where the management fees are generated;
+(iv) place where the decisions are made;
+(v) location of the debtors (clients), location of those receiving the services, place payments are made;
+(vi) place of residence of the person operating the business;
+(vii) place where the books are kept and location of the banks holding the bank accounts;
+(viii) the commercial mainstream.
+[68] From the start, it is important that the following clarification be made. The business income to be qualified as "on or off reserve" is the income Mr. Murray receives for the activities he carries out for the companies. These should not be confused with the companies' activities, as they have a distinct legal personality and separate assets.[12] In the light of the above, it is Mr. Murray's management services business that must be analyzed, not the companies' activities of selling office supplies and furniture. This must be done with care. It is impossible to analyze Mr. Murray's management activities in a vacuum, ignoring the context in which the activities are carried out. These activities consist of operating a business that sells office furniture and supplies almost exclusively off reserve by a sole director, shareholder and manager.
+[69] I will review the first three connecting factors together because they are interrelated:
+(i) place of operation of the management services business;
+(ii) place where the services were provided and type of services provided;
+(iii) place where the management fees are generated.
+[70] Mr. Murray performs various management duties for the two companies. The nature of these activities are inherently connected to Mr. Murray because he personally provides the services, so the business is operated at the place Mr. Murray can be found, where he makes his decisions and where he takes care of the management of the companies in order to generate income. There is no distinct physical location where the business can be situated.
+[71] The evidence shows that Mr. Murray operates his management services business in the Outaouais region. He spends the vast majority of his time carrying out his management activities in the Gatineau stores. According to the evidence, the time he spends working for the companies on the reserve is closer to 5% than the 25% Mr. Murray stated. At any rate, even if I accepted Mr. Murray's 25%, the majority of his work was carried out off reserve. It is simply not logical or likely that Mr. Murray, the majority of whose personal and professional activities were conducted in the Outaouais, would return to his store on the reserve at 84 Notre-Dame Street when important decisions had to be made, or to carry out management duties. Mr. Murray's sister Ginette was the one who took care of the daily management of the store on the reserve. I am not saying that Mr. Murray did not go to the reserve to carry out management duties and ensure the store was operating properly on the reserve. However, with reference to the evidence that the management services Mr. Murray provided for the companies were entirely or almost entirely provided in Gatineau, I find that Mr. Murray's business was operated in Gatineau.
+[72] The near majority of the companies' clients, federal departments and agencies, are located in the Outaouais region and it is with and for these clients that Mr. Murray performed his management activities.
+[73] Having determined that Mr. Murray's business is operated in Gatineau, I also find that the management fees and benefits conferred on Mr. Murray are generated in Gatineau; this is where the management fees are earned. The management fees Mr. Murray received are equal to the retained earnings that are almost entirely generated by the profits of the Gatineau stores. Mr. Murray spends by far the majority of his time in the Gatineau stores. It follows that the management fees are generated through the management services physically provided by Mr. Murray in Gatineau. The benefits conferred on Mr. Murray are also located in Gatineau; the source of these benefits is the income from the stores that operate and are located in Gatineau. As for the destination of these benefits, the bulk of the expenses incurred by Mr. Murray occur in the national capital region and not on the reserve.
+(iv) Place where the decisions are made
+[74] The majority of the decisions for the companies are made in Gatineau. Mr. Murray was physically present in the stores and made decisions there that were required for the companies to function properly. I do not accept Mr. Murray's testimony that (indicated) he went to the reserve to make important decisions and carry out management duties. First, he became much more talkative when speaking about his management activities in Gatineau than those carried out on the reserve. As indicated above, Mr. Murray did not leave Gatineau every time an important decision had to be made.
+[75] I also do not accept Mr. Murray's claim that he received management fees only for the management activities carried out and decisions made on the reserve. In my opinion, he created an economic fiction that is not supported by the evidence. I cannot accept this practice that does not reflect reality.
+[76] Moreover, Mr. Murray did not have any records regarding the management activities carried out on the reserve and off reserve. Aside from Mr. Murray's testimony, there is no evidence regarding the proportion of activities performed on or off reserve. Additionally, since Mr. Murray was paid all the retained earnings as management fees at the end of each year, it is impossible for me to attribute certain amounts to the place the management activities were performed.
+(v) Location of the debtors (clients) and place payments are made
+[77] Mr. Murray received management fees from the companies in consideration for the management activities he performed. To analyze this connecting factor, it must be determined whether the companies are located on reserve or off reserve. At the hearing, the parties made submissions regarding the residence of the companies. Determining the residence of a corporation is essentially a question of facts and circumstances. According to De Beers Consolidated Mines Ltd v How,[13] "a company resides for purposes of income tax where its real business is carried on ... and the real business is carried on where the central management and control actually abides." This criterion refers to the power to control and manage the corporation that is held by the board of directors at the location where important decisions are made.
+[78] Mr. Murray was the sole director of the companies, except for a short period during which he had appointed his wife as vice-president. The evidence shows that he was the only one who made the important decisions regarding the companies. As mentioned above, the evidence shows that Mr. Murray spent the majority of his time off the reserve in the Outaouais region. He even admitted that he made most of his decisions off reserve because he not only lived in the Outaouais region but was also present in his Gatineau stores or office. Therefore, in view of the evidence, I am convinced that the central management and control of the companies was off reserve, namely in Gatineau. As a result, the residence of the debtors of the management fees, namely the companies MTC and MCF, were located off reserve.
+[79] As for where the payment of the management fees took place, the evidence shows that they took place in Mr. Murray's bank account at a branch of the Royal Bank in Ottawa. The funds remained in that account. Moreover, the evidence showed that the accountants who acted for the companies and for Mr. Murray were also located in Ottawa.
+(vi) Residence of the person operating the business
+[80] At the hearing, the parties did not hold back in their efforts to present a variety of evidence regarding Mr. Murray's residence. However, I must note certain contradictions between Mr. Murray's pleadings and his testimony:
+• In his first notice of appeal dated May 27, 2009, Mr. Murray stated at subparagraph 6(f) that he resided on the reserve at 204 Sainte-Sophie Street, in Oka.
+• In his re-amended notice of appeal dated September 17, 2012, Mr. Murray stated he resided on the reserve in the family home at 204 Sainte‑Sophie Street and/or at 84 Notre-Dame Street, in Oka.
+• At the hearing, Mr. Murray stated he owned the ancestral home and store located at 84 Notre-Dame Street. However, he resided in the Outaouais region, but only received management fees for the management activities her carried out when physically present on the reserve.
+[81] As to the determination of the situs of business income, the residence of the debtor is not a preponderant factor.[14] It is, however, important to take it into consideration for the analysis. The leading case on this issue is Thomson v Canada[15] in which the Supreme Court of Canada indicated that the residence of a taxpayer is an issue of fact that depends on the specific circumstances of each case. Although the criteria usually apply in an international context, I believe it is possible to apply them here. Among the criteria that help determine whether a person resides or usually resides in a place, the general way of life and physical presence must be considered. In an article called "La résidence des particuliers au Canada : critères jurisprudentiels"[16] ["Residence of taxpayers in Canada: legal criteria"], Professor Marie‑Pierre Allard makes a distinction between [translation] "significant connections"[17] and [translation] "secondary connections"[18] regarding residence. After analyzing all the case law regarding the residence of taxpayers in the past 20 years, she comes to the conclusion that the courts almost always base their decision on the primary connections and that secondary connections are not considered deciding factors in themselves when there are no strong primary connections. Therefore, primary connections including available accommodations, presence of a spouse or dependent children and place of employment are very important factors when determining the residence of a taxpayer.
+[82] The evidence shows that Mr. Murray always maintained an available residence at 204 Sainte-Sophie Street on the reserve. However, from 1999 to 2003, he lived in many residences off reserve, mainly in the Outaouais region. Throughout his testimony, Mr. Murray emphasized the fact he considered his residence to be, and to always have been, the ancestral house at 204 Sainte-Sophie Street, even during his stay in the United States. He stated that his intention is for this to be his residence for his entire life. Mr. Murray's intention, however, is not supported by the facts. On one hand, the evidence shows that Mr. Murray is very rarely present at 204 Saint-Sophie Street. During the years in question, he resided in four houses or apartments, all located in the national capital region. On the other hand, during the years in question, Mr. Murray's wife and her daughter also lived in properties off reserve. In terms of secondary connections, the evidence showed that Mr. Murray's entire way of life revolved around the national capital region. His various affiliations with sporting clubs, his bank accounts and his numerous credit card statements submitted to evidence all clearly show that Mr. Murray's general and usual way of life was very closely linked to this region. Therefore, in light of the evidence, I find that Mr. Murray resided in the Outaouais region. Although he has a driver's licence and health insurance card indicating 204 Sainte-Sophie Street, I feel that 204 Saint-Sophie is merely a postal address for Mr. Murray. All the determining factors for a residence point in the same direction and situate Mr. Murray's residence in the Outaouais region for the years in question.
+(vii) Place where the books are kept and location of the banks holding the bank accounts
+[83] Aside from a few documents submitted during the hearing,[19] Mr. Murray did not keep any records or books regarding the operation of his management services business for the companies. This factor, therefore, does not apply in this case. Mr. Murray stated that the companies' books and records were located on the reserve, but did not specify which ones. According to Ms. Thibault's testimony, the books and records were kept at the offices at 25 Eddy Street, in Hull. Moreover, the evidence showed that the companies' affairs were administered by accountants in Ottawa. Mr. Murray had even hired a comptroller who also worked in the stores located in the Outaouais.
+(viii) The commercial mainstream
+[84] In Bastien Estate,[20] Cromwell J. warns against using the "commercial mainstream" ("marché ordinaire") principle as a key connecting factor when determining that income is not situated on a reserve. At paragraph 54, the Court indicates that even if earned in the commercial mainstream, the income could be sufficiently connected to the reserve to be tax exempt. Mr. Murray notes that this connecting factor is not relevant because, in the light of the ABPP, the companies are not part of the commercial mainstream. I agree with Mr. Murray that this connecting factor is not relevant. However, the companies MTC and MCF must not be confused with Mr. Murray's management services business. The ABPP applies to the companies and not to Mr. Murray's management services business. The contracts resulting from the setasides under the ABPP are entered into by the companies MTC and MCF and a federal government department. I do not have to determine the situs of the companies' income in this appeal; therefore, I do not have to determine whether the income of the companies is part of the commercial mainstream. At any rate, if the connection between the management fees and the reserve were strong enough for me to confirm that they are situated on the reserve, the management fees would be tax exempt regardless of whether they are part of the commercial mainstream or not.
+The ABPP as connecting factor
+[85] Mr. Murray submits that the ABPP is also a relevant connecting factor since it was because of the ABPP that MTC and MCF were profitable and he received the management fees. According to Mr. Murray, the ABPP encourages Aboriginal businesses; it thereby encourages Aboriginal development and the resulting income should not be taxed.
+[86] The ABPP is not a connecting factor in this appeal.
+[87] The ABPP policy established by the Treasury Board aims to encourage the development of Aboriginal businesses by increasing their share of the contracts entered into with federal departments and organizations. This is a policy that appeals to the federal government procurement system to help Aboriginal businesses expand. Under it, federal departments and organizations are required to set aside orders for Aboriginal businesses if the goods and services are destined for Aboriginal populations and if their value is greater than a given threshold. In cases where the goods and services are not destined for Aboriginal populations, the policy allows for setasides; in these cases, the departments can set aside orders for the Aboriginal businesses, but it is not mandatory. That being said, departments are encouraged to participate and must establish objectives with regard to this policy. In the present appeal, the companies bid on setasides, since the products sold by MTC and MCF were not destined for Aboriginal markets.
+[88] According to the policy, it is not essential for the setaside bidders to be situated on a reserve. The ABPP does not require that the goods be sold on a reserve or for the income from these goods to be generated on a reserve.
+[89] Additionally, Mr. Murray's claim disregards the corporate and legal reality of the companies. It was the companies that bid on the contracts under the ABPP, not Mr. Murray. The companies are legal vehicles and have a character that is different from that of their shareholders and directors. Mr. Murray, as the companies' shareholder, cannot rely on the ABPP, even if it connected the companies' income to the reserve. The companies' profits are not legally equivalent to the management fees and benefits conferred on Mr. Murray; their tax treatment is different.
+Analysis of connecting factors from the employment income perspective
+[90] At paragraphs 58 et. seq. of these reasons, I concluded that, under the circumstances of this case, the property in question must be considered as business income rather than employment income. However, even if the property were considered employment income, this income would still be situated off reserve according to the criteria established by the case law.
+[91] By applying the specific connecting factors to employment income, we reach the same conclusion. On one hand, the place the management duties were performed has already been established. The vast majority of management duties were performed in the Outaouais region. The nature of the duties and the circumstances, namely the management of the off-reserve companies, were similarly performed. The activities generating employment income also take place off reserve in Gatineau.
+[92] The location of the debtor companies is off reserve in Gatineau. The majority of the companies' income is generated by the Gatineau stores. The nature of the work Mr. Murray performed is such that he is present in his Gatineau stores. Because of the magnitude of the Gatineau establishments' income, Mr. Murray must ensure their proper operation and must be physically present in Gatineau. His employment income was generated by the work performed at the Gatineau establishments. Mr. Murray makes more decisions in Gatineau than on the reserve. The companies' and Mr. Murray's bank accounts are at a branch of the Royal Bank in Ottawa. The debtor companies MTC and MCF deposited the management fees to Mr. Murray's bank accounts in Ottawa. The companies' and Mr. Murray's accountants are also in Ottawa. During the years in question, Mr. Murray also resided off reserve in the national capital region.
+[93] The benefits conferred, or their source, come from the income of the Gatineau companies. Moreover, the expenses were incurred for Mr. Murray's benefit. As shown by the evidence, almost all the expenses were incurred by Mr. Murray off reserve.
+[94] Regardless of the significance of one or the other of these various factors, they all situate the employment income off reserve. Finally, the argument regarding the ABPP cannot apply in an employment income context. Therefore, my finding in this case would not be different even if it were employment income.
+Section 90 of the IA
+[95] Subsection 90(1) of the IA provides for a presumption under which certain property, in certain circumstances, are situated on a reserve:
+90. (1) For the purposes of sections 87 and 89, personal property that was
+(a) purchased by Her Majesty with Indian moneys or moneys appropriated by Parliament for the use and benefit of Indians or bands, or
+(b) given to Indians or to a band under a treaty or agreement between a band and Her Majesty,
+shall be deemed always to be situated on a reserve.
+[96] The words "Indian moneys" is defined as follows at section 2 of the IA:
+“Indian moneys” means all moneys collected, received or held by Her Majesty for the use and benefit of Indians or bands.
+[97] In the present appeal, for paragraph 90(1)(a) of the IA to apply, Mr. Murray must show that the management fees and advantages conferred were purchased by Her Majesty with Indian moneys or moneys appropriated by Parliament for the use and benefit of Indians or bands. My view is that paragraph 90(1)(a) does not apply in the present appeal.
+[98] First, Mr. Murray did not submit any evidence that the money used by the federal departments and agencies to purchase the office supplies and furniture was "Indian moneys" according to the definition at section 2, namely moneys collected, received or held by Her Majesty for the use and benefit of Indians or bands.
+[99] Second, no evidence was submitted during the hearing showing that the moneys were appropriated by Parliament for the use and benefit of Indians or bands pursuant to the ABPP. The ABPP is a Treasury Board policy that encourages federal departments and agencies to participate in the development of Aboriginal businesses by purchasing from these businesses. There is no mention in this policy that moneys had been voted by Parliament for the purposes of the ABPP. Considering the lack of such evidence, it is logical to assume that the amounts the federal departments and agencies used to purchase the furniture and supplies from the Aboriginal businesses were amounts that were part of the "existing" budget envelope of these departments and agencies.
+[100] Moreover, as the respondent noted, even if the federal departments and agencies had been considered to have used Indian moneys within the meaning of section 2 to purchase office supplies and furniture from the companies, it would be this property that is deemed to be situated on the reserve and not the management fees and benefits conferred on the shareholder. Once again, the corporate structure of the companies cannot be ignored.
+[101] Lastly, a point to remember is that the property that must be situated on the reserve consists of the management fees and benefits conferred on Mr. Murray and not the office supplies and furniture sold by the companies. Section 90 simply does not apply in this case.
+Conclusion
+[102] To determine whether the management fees and amounts representing the benefits conferred on Mr. Murray are situated on the reserve, I reviewed and assessed the weight to be granted to the relevant connecting factors, while keeping in mind the purpose of the exemption, the type of property in question and the nature of the taxation of that property.
+[103] The connecting factors that are relevant in the present appeal, those that will assist us in determining the location of the management fees and benefits conferred on Mr. Murray, are the place where the income is generated, the place the business operates, the place where services are rendered, the location of those receiving the services, the location of the debtor businesses, the place where payments are made and the place where decisions are made. The other connecting factors, such as Mr. Murray's residence and the place the companies' books are kept, do not play an important role in this appeal, although they help confirm the decision made regarding the situs of the property.
+[104] Contrary to the Supreme Court of Canada decision in Bastien Estate, which held that the place the income is generated was not a relevant connecting factor, I am of the view that the place where the income is generated is an important connecting factor in this appeal. This is not passive income as was the case in Bastien Estate, but business or employment income, or "active income".
+[105] Mr. Murray spends the majority of his time in the Outaouais; he lives in the Outaouais and the nature of his management activities requires him to be close to his businesses. The majority of the work that leads to the management fees is performed in the stores located in Gatineau. As I have indicated above, the activities that generate Mr. Murray's business income are, by their very nature, inseparable from the individual.
+[106] As for the other relevant connecting factors, I found that the majority of the management services were performed in Gatineau by Mr. Murray. The same reasoning would apply if it were employment income. Mr. Murray worked mainly in Gatineau for the benefit of the companies MTC and MCF. We must note that the debtor companies MTC and MCF not only had their business establishments in Gatineau, but they were also residents of Gatineau. These establishments generated nearly all of the income for the years in question. It would be difficult to find that the management services were not performed predominantly for the companies in Gatineau, particularly because the evidence established that Mr. Murray spends the majority of his time in the Outaouais. With regard to the decision making, Mr. Murray admitted he made more decisions off reserve than on reserve. Moreover, the companies MTC and MCF deposited the management fees to Mr. Murray's bank account situated in Ottawa. The clients of the debtor companies MTC and MCF, the federal departments and agencies, are also situated in the Outaouais region.
+[107] As for the other connecting factors, such as Mr. Murray's place of residence, the companies' books and bank accounts, the applicability of section 87 depends on whether the property in question, not its owner, is situated on a reserve. Therefore, Mr. Murray's place of residence is not a determining connecting factor although the evidence shows that, during the years in question, Mr. Murray resided in the national capital region. As for the companies' bank accounts, the evidence also shows that they are situated in Ottawa. With regard to the companies' books, the evidence is contradictory. Although these connecting factors are not determinative because they do not help determine whether the property is situated on reserve, they support my finding that the income Mr. Murray earned was not situated on a reserve.
+[108] With regard to the ABPP as a connecting factor, I explained in these reasons why I am of the view the ABPP is not a connecting factor. I also explained in these reasons why section 90 does not apply in the present appeal.
+[109] The only connecting factors between Mr. Murray and the reserve are the companies' head offices, which are situated on the reserve, the fact Mr. Murray is the owner of the ancestral house situated on the reserve and the fact the companies operate an office supplies store on the reserve in a building owned by Mr. Murray. The first two connecting factors are not determinative, because they do not determine the location of the property.
+[110] With regard to the business establishment situated on the reserve, unfortunately, aside from Mr. Murray's testimony alleging that he spent 25% of his time on the reserve performing management activities, which is challenged by the respondent, there is no record or description of the on-reserve activities. I cannot make any determinations about time or finances with regard to Mr. Murray's on‑reserve activities. Testimony by his sister Ginette and his wife would surely have been useful here. I also cannot determine whether the management fees are partially from the store situated on the reserve since the income from this store does not seem to be included in the companies' financial statements. Therefore, in the light of the evidence, it is impossible for me to conclude that part of the management fees were generated on the reserve.
+[111] During the hearing, Mr. Murray said that it was "by design" that he received management fees only for the management activities performed when he was present on the reserve, and he submitted that the Canadian tax law allowed him to organize his business in such a way as to minimize his taxes.
+[112] I cannot agree with this argument. As I mentioned above, Mr. Murray's testimony indicates that he created an economic fiction that does not correspond to factual reality; this allowed him to obtain a tax-exempt income under section 87 of the IA. In this appeal, the only issue to address was whether the management fees and amounts representing the benefits conferred on Mr. Murray were situated on a reserve pursuant to the method stated by the Supreme Court of Canada in Bastien Estate.
+[113] Regarding the penalties for late filing, they are maintained, because Mr. Murray neglected to file his tax returns for 2001 and 2002 within the prescribed timelines.
+[114] In the light of these reasons, the appeal is dismissed for the 2001, 2002 and 2003 taxation years, with costs.
+Signed at Toronto, Ontario, this 20th day of August 2013.
+"Johanne D’Auray"
+D'Auray J.
+Translation certified true
+Francois Brunet, Revisor
+CITATION: 2013 TCC 253
+COURT FILE NO.: 2009-1943(IT)G
+STYLE OF CAUSE: ROBERT MURRAY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: September 17, 18 and 19, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Johanne D'Auray
+DATE OF JUDGMENT: August 20, 2013
+APPEARANCES:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+André LeBlanc
+COUNSEL OF RECORD:
+For the appellant:
+Name: Chantal Donaldson
+Firm: LeBlanc Donaldson
+Gatineau, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcripts, page 156.
+[2] Ibid., pages 48, 49, 245 and 325.
+[3] Williams v Canada, [1992] 1 SCR 877, hereinafter "Williams".
+[4] Bastien Estate v Canada, 2011 SCC 38, [2011] 2 SCR 710, hereinafter "Bastien Estate".
+[5] Mitchell v. Peguis Indian Band, [1990] 2 SCR 85, hereinafter "Mitchell".
+[6] Bastien Estate, supra footnote 4 above, para. 25.
+[7] Civil Code of Québec, SQ 1991, c. 64.
+[8] Southwind v Canada, [1999] FCJ No 15 (QL), 1998 CanLII 7300 (FCA). Note that this decision was rendered before the Supreme Court decision in Bastien Estate.
+[9] Ballantyne v Canada, 2012 FCA 95, [2012] FCJ No 359.
+[10] Canada v Robertson, 2012 FCA 94, [2012] FCJ No 358 (QL). Hereinafter "Robertson".
+[11] Kelly v Canada, 2013 FCA 171.
+[12] Article 302 of the Civil Code of Québec, footnote 7 above.
+[13] De Beers Consolidated Mines Ltd v Howe, [1906] AC 455 (House of Lords) at p. 458.
+[14] Robertson, footnote 10 above, at para. 57.
+[15] Thomson v Minister of National Revenue, [1946] SCR 209.
+[16] Revue de planification fiscale et financière, Vol. 32, No 1, at pp. 7 to 62.
+[17] Available accommodations, presence of spouse and dependent children, place of employment.
+[18] Driver's licence, bank accounts, credit cards, ownership of a house not available for the taxpayer, extended family, etc.
+[19] See Exhibit A-6.
+[20] Footnote 4 above, para. 54.

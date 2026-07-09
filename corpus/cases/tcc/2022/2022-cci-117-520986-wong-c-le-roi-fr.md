@@ -1,0 +1,168 @@
+---
+title: "Wong c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520986/index.do"
+last_modified: "2022-10-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 117"
+citation2: ""
+neutral_citation: "2022 CCI 117"
+decision_date: "2022-10-13"
+language: "fr"
+item_id: "520986"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4508
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:03:23.989000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d381d0de330312eeffb88a05ee1b35280c98ad5217d4c36e5c58ccd820891444"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wong c. Le Roi
+
+- Citation: 2022 CCI 117
+- Decision date: 2022-10-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4508, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wong c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-10-13
+Référence neutre
+2022 CCI 117
+Numéro de dossier
+2019-3538(IT)APP, 2019-3539(IT)APP
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-3538(IT)APP
+ENTRE :
+ALBERT WONG,
+demandeur,
+et
+SA MAJESTÉ LE ROI,
+défendeur;
+Dossier : 2019-3539(IT)APP
+ET ENTRE :
+AMY WONG,
+demanderesse,
+et
+SA MAJESTÉ LE ROI,
+défendeur.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 28 septembre 2022, à Calgary (Alberta)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour les demandeurs :
+Les demandeurs eux-mêmes
+Avocate du défendeur :
+Me Lora Falkenberg Walsh
+ORDONNANCE
+ATTENDU QUE la Cour, à cette date, a publié ses motifs de l’ordonnance;
+PAR CONSÉQUENT, LES DEMANDES de prorogation du délai de dépôt des avis d’opposition contestant les avis de cotisation simultanés datés du 2 mai 2017 établis aux termes de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1, en sa version modifiée (la « Loi »), sont rejetées parce que les demandeurs n’ont ni signifié un avis d’opposition au ministre, ni signifié ou déposé une demande de prorogation du délai de présentation d’un avis d’opposition au ministre ou à la Cour, selon le cas, dans les délais prescrits par la Loi.
+Signé à Toronto (Ontario), ce 13e jour d’octobre 2022.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2022 CCI 117
+Date : 20221013
+Dossier : 2019-3538(IT)APP
+ENTRE :
+ALBERT WONG,
+demandeur,
+et
+SA MAJESTÉ LE ROI,
+défendeur;
+Dossier : 2019-3539(IT)APP
+ET ENTRE :
+AMY WONG,
+demanderesse,
+et
+SA MAJESTÉ LE ROI,
+défendeur.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS COMMUNS DE L’ORDONNANCE
+Le juge Bocock
+I. LES FAITS
+[1] Les demandeurs, M. et Mme Wong, ont reçu des avis de cotisation simultanés datés du 2 mai 2017 (les « AC »). Les AC portaient sur des cotisations établies aux termes de l’article 160 à leur encontre concernant des transferts de titres de propriété entre M. et Mme Wong et leur fils, Alex.
+[2] Les Wong ne contestent pas la réception des AC. M. Wong fait plutôt valoir ceci :
+(i) [traduction] Les AC n’étaient pas suffisamment détaillés pour permettre le dépôt d’un avis d’opposition;
+(ii) Le formulaire d’opposition n’a pas été fourni par l’ARC avec les AC, ni par la suite;
+(iii) Les appels initiaux des Wong à l’agent de l’ARC, M. Markowski, sont restés sans réponse;
+(iv) Une réunion tenue en octobre 2017 avec M. Markowski (la « réunion d’octobre 2017 ») n’a pas permis d’obtenir des renseignements supplémentaires, bien que les Wong aient clairement exprimé leur désaccord avec les AC et aient demandé des renseignements supplémentaires;
+(v) M. Markowski n’a pas avisé, lors de la réunion d’octobre 2017, de la nécessité de déposer une opposition par écrit ou, ce qui était alors pertinent, une demande de prorogation du délai; et,
+(vi) Ni M. Markowski ni personne d’autre de l’ARC n’a communiqué avec les Wong ou ne leur a écrit après la réunion d’octobre 2017 pour leur fournir des renseignements supplémentaires, jusqu’à ce qu’une procédure de recouvrement soit engagée au début de 2018.
+Quelques ajouts de renseignements
+[3] Lors de l’audition de la demande, M. Wong, et, brièvement, Mme Wong, ont tous deux témoigné. À partir de ce témoignage, la Cour en arrive à certaines conclusions de fait, dont aucune n’est contestée de manière importante par les parties.
+[4] Il ne fait aucun doute que les Wong ont contesté ou, du moins, ont souhaité contester les cotisations fondées sur l’article 160 communiquées dans les AC. La Cour est seulement appelée à décider si les Wong ont suffisamment transmis ce message au ministre dans les délais prescrits par la Loi. Tout d’abord, l’ont-ils fait sous la forme d’une opposition acceptable dans les 90 premiers jours suivant la réception des AC (conformément au paragraphe 165(1) de la Loi), soit le 31 juillet 2017 (la « date limite d’opposition »)? À défaut, l’ont-ils fait en présentant une demande de prorogation dans la période de 12 mois suivant les 90 jours (aux termes des paragraphes 166.1(1) ou 166.2(1) de la Loi), soit le 31 juillet 2018 (la « date limite de prorogation »)? Il s’agit également de savoir si une demande a été déposée devant la Cour pour contester le rejet du ministre du 8 avril 2019 dans le délai de 90 jours, lui-même expirant le 8 juillet 2019 (conformément à l’alinéa 166.2(1)b) de la Loi). Compte tenu des motifs et de la décision ci-dessous, la Cour n’a pas à se prononcer sur cette question.
+[5] La Cour admet que les Wong étaient perplexes et incrédules devant les AC qu’ils ont reçus. M. Wong a tenté de téléphoner à M. Markowski pendant la période qui a suivi la réception des AC. Il existe une preuve non contestée qu’une réunion entre les Wong, une amie (Mme Mah), un comptable (du nom de John, amené par Mme Mah) et certains représentants de l’ARC, dont M. Markowski, a eu lieu en octobre 2017. Ce qui s’est passé lors de cette réunion semble incertain. La réunion s’est déroulée en anglais; M. et Mme Wong parlent le cantonais et seulement un anglais rudimentaire. La nécessité de recourir à un interprète cantonais en est la preuve devant la Cour. La réunion s’est déroulée de manière déductive afin d’obtenir des renseignements supplémentaires sur les AC.
+[6] Le témoignage de M. Wong permet à la Cour de mieux comprendre ce qui ne s’est pas passé lors de la réunion d’octobre 2017. Aucun avis écrit d’opposition n’a été signifié, transmis ou déposé. Il convient de noter que le délai d’opposition de 90 jours était dépassé. En outre, aucune demande de prorogation de la date de dépôt d’une opposition n’a été signifiée, transmise ou déposée. Selon M. Wong, cette question n’a même pas été soulevée, du moins dans la mesure où il a compris ou observé la discussion.
+[7] Après la réunion d’octobre 2017, M. Wong a témoigné n’avoir reçu aucun suivi ni aucune communication de M. Markowski ou d’autres personnes de l’ARC. Aucune autre communication ni aucun autre contact mémorisé n’a été envoyé ou reçu avant la date limite de prorogation.
+II. ANALYSE ET DÉCISION
+[8] Il ressort clairement des faits qu’aucun avis d’opposition écrit, aussi insuffisant ou limité soit-il, n’a été signifié au ministre ou à quiconque y étant vaguement affilié. Le principal argument de M. Wong est que les AC n’étaient pas clairs sur ce qu’il fallait faire, car les détails de la cotisation étaient manquants. Après qu’il a affirmé cela pour la quatrième fois au cours de l’audience, la Cour a examiné les AC avec M. Wong. La Cour a souligné qu’il y avait deux choix possibles immédiatement après la cotisation de 110 000 $ : payer l’impôt ou déposer un avis d’opposition. Cette utilisation peu fréquente d’un langage clair et succinct par l’ARC se retrouve de manière flagrante dans les AC, où l’ARC elle déclare ce qui suit :
+[traduction] Vous êtes tenu de payer immédiatement la somme visée par la cotisation. Tout défaut de paiement pourrait mener à d’autres mesures d’exécution de la loi. Vous avez le droit de vous opposer à cette cotisation en déposant, auprès du ministre du Revenu national, un avis d’opposition officiel dans un délai de 90 jours suivant la date d’envoi du présent avis de cotisation. Vous pouvez obtenir des formulaires d’avis d’opposition en communiquant avec la Division des appels de votre bureau des services fiscaux local.
+[9] De toute évidence, M. et Mme Wong n’ont pas payé la cotisation. Ils n’ont pas déposé non plus d’avis d’opposition.
+[10] La question restante concerne le délai de prorogation, qui expire le 31 juillet 2018. Il n’y a aucune preuve de quoi que ce soit par écrit représentant une demande de prorogation du délai ou s’en approchant. M. Wong indique que les discussions verbales d’octobre 2017 constituent en connaissance de cause une telle demande. Là encore, la Cour ne peut pas se prononcer sur ce qui s’est passé lors de cette réunion, car M. Wong ne peut pas le relater de manière fiable.
+[11] Ce qui est plus curieux, c’est ce qui ne s’est pas passé lors de la réunion d’octobre 2017, où un comptable et Mme Mah étaient présents pour aider les Wong; M. Wong et Mme Wong étaient mécontents des AC. Ils savaient qu’il s’agissait de questions sérieuses. Ils ont amené des conseillers avec eux. M. Wong affirme que M. Markowski aurait dû mentionner l’opposition ou la demande de prorogation. Il a raison de dire que les déclarations auraient dû être soulevées et discutées lors de la réunion. Il a tort quant à savoir qui aurait dû prendre l’initiative. Ses conseillers disposaient des AC. Ils étaient là pour en discuter au nom des Wong. Si quelqu’un avait une obligation envers M. et Mme Wong, c’était Mme Mah ou le comptable qui avaient tous deux la charge de soulever la question lors de la réunion. D’après les renseignements fournis par M. Wong, ils ne l’ont pas fait. M. Wong semble être passé à côté d’un point important. Il aurait été potentiellement utile pour les Wong que M. Markowski poursuive la demande de prorogation par écrit; il n’y aurait pas eu non plus d’obligation. Les AC exécutoires indiquaient déjà ce qu’il fallait faire : payer ou s’opposer. Les AC et les options qu’ils contiennent imposaient à M. et Mme Wong, les parties auxquelles incombaient l’obligation et le choix, les deux options. Leurs conseillers étaient les obligés les plus proches qui auraient dû demander aux Wong de leur donner des instructions pour déposer l’opposition ou la demande de prorogation.
+[12] Là encore, ces conseillers étaient présents à la réunion d’octobre 2017 pour aider et soutenir M. et Mme Wong. Ce n’était tout simplement pas le rôle ou la responsabilité légale ou pratique de M. Markowski de le faire. En fin de compte, il n’y a aucune opposition ou demande écrite de quelque nature que ce soit portée à la connaissance de la Cour, soumise ou offerte par les Wong.
+[13] On ne peut reprocher au ministre les omissions unilatérales et l’inattention des contribuables et il ne peut être désavantagé par celle-ci : Xu c. HMK, 2022 CCI 108, par. 26. Il n’existe tout simplement aucune trace écrite de la contestation ou de l’opposition des AC par les Wong. Les contribuables doivent se concentrer sur la simple étape qui consiste à déposer le document d’une page comprenant une opposition dans les 90 jours suivant l’AC. Comme en témoignent ces demandes, les conseillers des contribuables doivent être particulièrement attentifs aux délais, car la conformité technique est la raison pour laquelle leurs services sont sollicités en premier lieu. S’ils ne respectent pas ce délai d’opposition, ils doivent présenter une demande de prorogation. La Cour se livre fréquemment à des contorsions pour trouver suffisant tout document écrit déposé dans ces « délais » ou avant. Cependant, elle ne peut pas, d’un coup de baguette magique, transformer la discussion en un dépôt écrit. C’est ce qu’elle doit faire dans les présentes demandes. C’est tout simplement un pas de trop.
+III. CONCLUSION
+[14] Lorsque l’on écoute attentivement M. Wong pendant un certain temps, on comprend exactement ce qui s’est passé. M. Wong avait un désir constant de contrôler le mécanisme, le calendrier et le processus du différend fiscal. M. Wong souhaite traiter ces questions, mais uniquement sur le bien-fondé et non sur le processus. Il voulait résoudre le différend, mais uniquement par la discussion et à l’exclusion de tout ce qui est écrit dans le dossier. Il n’a pas accepté et, d’après ses déclarations devant la Cour, il n’accepte toujours pas que la procédure exige une simple opposition ou demande écrite.
+[15] Le contribuable doit se conformer à ce processus. C’est assez simple. Un contribuable doit s’opposer par écrit d’une manière ou d’une autre, ou presque. Mais il faut que ce soit par écrit. Si le contribuable ne le fait pas, une demande de prorogation doit être introduite par écrit dans un délai d’un an. M. Wong n’a fait ni l’un ni l’autre et n’acceptera probablement jamais qu’il ait raté l’occasion de le faire.
+[16] De temps à autre, il arrive au ministre d’occulter par inadvertance des communications. Toutefois, dans les présentes demandes, la nécessité de s’opposer n’a pas été cachée ou dissimulée aux Wong. Cette nécessité a juste été obstinément laissée de côté. La Cour n’a pas le pouvoir d’aider.
+[17] En l’absence d’un document, quel qu’il soit, déposé durant les périodes exigées et attestant d’un litige, les présentes demandes sont rejetées pour les motifs indiqués. Il n’y aura aucune adjudication de dépens.
+Signé à Toronto (Ontario), ce 13e jour d’octobre 2022.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2022CCI117
+NOS DES DOSSIERS DE LA COUR :
+2019-3538(IT)APP; 2019-3539(IT)APP;
+INTITULÉ :
+ALBERT WONG ET SA MAJESTÉ LE ROI; AMY WONG ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 28 septembre 2022
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 13 octobre 2022
+COMPARUTIONS :
+Pour les demandeurs :
+Les demandeurs eux-mêmes
+Avocate du défendeur :
+Me Lora Falkenberg Walsh
+AVOCATS INSCRITS AU DOSSIER :
+Pour les demandeurs :
+Nom :
+En blanc
+Cabinet :
+En blanc
+Pour le défendeur :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

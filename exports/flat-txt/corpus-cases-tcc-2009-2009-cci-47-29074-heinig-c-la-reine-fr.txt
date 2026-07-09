@@ -1,0 +1,180 @@
+Title: Heinig c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29074/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-47-29074-heinig-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-01-29
+
+# Heinig c. La Reine
+
+- Citation: 2009 CCI 47
+- Decision date: 2009-01-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6820, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heinig c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-29
+Référence neutre
+2009 CCI 47
+Numéro de dossier
+2007-2125(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2007-2125(IT)G, 2007-2126(GST)G
+ENTRE :
+DONNA HEINIG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 11 décembre 2008, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelante :
+Me Franklyn Cappell
+Avocats de l’intimée :
+Me Bobby Sood et Me Paolo Torchetti
+____________________________________________________________________
+ORDONNANCE
+La Cour statue sur la requête de l’appelante de la façon suivante :
+1. La demande de l’appelante visant à obtenir une ordonnance obligeant l’intimée à déposer tous les documents énumérés à l’annexe « A » de la liste des documents (communication intégrale) qu’elle a produite dans le cadre de l’appel en matière d’impôt no 2007‑2125(IT)G (et une déclaration selon laquelle la production d’un document énuméré qui a, en tout ou en partie, été modifié, révisé ou noirci ne constitue pas la production de ce document) est refusée.
+2. La demande de l’appelante visant à obtenir une ordonnance obligeant l’intimée à déposer, à des fins d’examen, tous les documents énumérés dans la liste de documents (communication intégrale) qu’elle a produite dans le cadre de l’appel en matière de taxe sur les produits et services no 2007‑2126(GST)G (et une déclaration selon laquelle la production d’un document énuméré qui a, en tout ou en partie, été modifié, révisé ou noirci ne constitue pas la production de ce document) est refusée.
+3. La demande de l’appelante visant à obtenir une ordonnance portant qu’aucun des documents énumérés à l’annexe « B » (prétention à un privilège) de la liste de documents (communication intégrale) produite par l’intimée dans le cadre de l’appel en matière d’impôt no 2007-2125(IT)G n’est visé par un privilège et que tous ces documents doivent être produits à des fins d’examen est refusée.
+4. Il est ordonné à Tara Le de se présenter, aux temps et lieu convenus par les avocats de l’intimée et l’avocat de l’appelante (et, faute d’une telle entente, aux temps et lieu fixés par l’avocat de l’appelante sous réserve de son obligation de donner un avis préalable d’au moins dix jours de ces temps et lieu), pour être contre‑interrogée au sujet de ses déclarations sous serment déposées relativement aux listes de documents produites pour le compte de l’intimée.
+5. Il est ordonné à l’appelante de se présenter, aux temps et lieu convenus par les avocats de l’intimée et l’avocat de l’appelante (et, faute d’une telle entente, aux temps et lieu fixés par les avocats de l’intimée sous réserve de leur obligation de donner un avis préalable d’au moins dix jours de ces temps et lieu), pour être contre‑interrogée au sujet de sa déclaration sous serment déposée relativement à sa liste de documents produite dans la présente affaire.
+6. Les deux recueils de documents reliés qui ont été présentés par les avocats de l’intimée lors de l’audition de la requête doivent être envoyés à l’avocat de l’appelante.
+7. Afin de donner aux parties suffisamment de temps pour régler la question de savoir si d’autres documents doivent être communiqués, l’ordonnance du 21 février 2008 est modifiée, en partie, de la façon suivante :
+a) Les interrogatoires préalables doivent être terminés au plus tard le 30 juin 2009;
+b) Les engagements pris au moment des interrogatoires préalables doivent être remplis au plus tard le 31 juillet 2009;
+c) Les parties doivent communiquer par écrit avec le coordonnateur des audiences au plus tard le 31 août 2009 pour faire savoir à la Cour si l’affaire fera l’objet d’une transaction, si une conférence préparatoire à l’audience serait utile ou si une date d’audience doit être fixée. Dans cette dernière éventualité, les parties peuvent faire une demande commune pour que soient fixés la date, l’heure et le lieu de l’audition conformément à l’article 123 des Règles de la Cour canadienne de l’impôt (procédure générale).
+Les dépens afférents à la présente requête suivent l’issue de la cause.
+Signé à Toronto (Ontario), ce 29e jour de janvier 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 27e jour de mars 2009.
+D. Laberge, LL.L.
+Référence : 2009CCI47
+Date : 20090129
+Dossiers : 2007-2125(IT)G, 2007-2126(GST)G
+ENTRE :
+DONNA HEINIG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] L’appelante a présenté une requête par laquelle elle demande ce qui suit :
+[traduction]
+1. Une ordonnance obligeant l’intimée à déposer tous les documents énumérés à l’annexe « A » de la liste de documents (communication intégrale) qu’elle a produite dans le cadre de l’appel en matière d’impôt no 2007-2125(IT)G (et une déclaration selon laquelle la production d’un document énuméré qui a, en tout ou en partie, été modifié, révisé ou noirci ne constitue pas la production de ce document);
+2. Une ordonnance obligeant l’intimée à déposer, à des fins d’examen, tous les documents énumérés dans la liste de documents (communication intégrale) qu’elle a produite dans le cadre de l’appel en matière de taxe sur les produits et services no 2007‑2126(GST)G (et une déclaration selon laquelle la production d’un document énuméré qui a, en tout ou en partie, été modifié, révisé ou noirci ne constitue pas la production de ce document);
+3. Une ordonnance portant qu’aucun des documents énumérés à l’annexe « B » (prétention à un privilège) de la liste de documents (communication intégrale) produite par l’intimée dans le cadre de l’appel en matière d’impôt no 2007-2125(IT)G n’est visé par un privilège, et que tous ces documents doivent être produits à des fins d’examen;
+4. Une ordonnance portant que Tara Le, auteure des déclarations sous serment de documents déposées en ce qui concerne la liste de documents (communication intégrale) dans le cadre de l’appel en matière d’impôt no 2007–2125(IT)G et de l’appel en matière de taxe sur les produits et services no 2007–2126(GST)G, soit contre‑interrogée au sujet de ces déclarations;
+5. Une ordonnance modifiant les ordonnances antérieures de la Cour relatives au calendrier des mesures à prendre dans le cadre de ces appels;
+6. Les autres ordonnances que l’avocat propose ou que la Cour estime justes.
+[2] L’appelante a fait l’objet de nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu (la « LIR ») et de la Loi sur la taxe d’accise (la « LTA ») relativement à certains paiements qui, selon l’intimée, lui ont été versés en 2000, en 2001, en 2002 et en 2003 par l’exploitant d’un salon de massage situé à Mississauga. Des pénalités ont en outre été imposées en application du paragraphe 163(2) de la LIR et de l’article 280 de la LTA.
+[3] Earl Heinig, le mari de l’appelante, a signé un affidavit qui a été produit dans le cadre de la présente requête. Dans cet affidavit, il affirme que les nouvelles cotisations établies à l’égard de l’appelante se fondent sur le fait que le revenu tiré de l’exploitation du salon de massage a été inclus dans le revenu de l’appelante. L’appelante avance qu’elle était titulaire du permis d’exploitation de l’entreprise pour le compte de celle‑ci, mais qu’elle n’exploitait pas l’entreprise, et qu’elle recevait des paiements à intervalles réguliers de l’exploitant de l’entreprise simplement parce qu’elle était titulaire du permis d’exploitation d’un salon de massage.
+[4] Or, il paraît manifeste à la lumière des réponses déposées en l’espèce que l’appelante a fait l’objet de nouvelles cotisations visant à inclure dans son revenu les paiements que Heather Mailow (faisant affaire sous le nom de Mailow Enterprises) a versés à l’appelante, selon ce que soutient l’intimée, durant les années frappées d’appel. Aucune des réponses ne permet de penser que l’appelante a fait l’objet de nouvelles cotisations visant à inclure dans son revenu le revenu allégué qui aurait été tiré de l’exploitation de l’entreprise. Il semble donc que le litige en l’espèce se rapporte au montant des paiements que Heather Mailow a versés à l’appelante pendant les années en cause.
+[5] Voici les sommes que l’appelante a déclaré avoir reçues de Heather Mailow et celles que, selon l’intimée, l’appelante a reçues de Heather Mailow :
+Année
+Paiements (selon l’appelante)
+Paiements (selon l’intimée)
+Différence
+2000
+87 300 $
+224 299 $
+136 999 $
+2001
+88 500 $
+224 299 $
+135 799 $
+2002
+103 775 $
+228 972 $
+125 197 $
+2003
+120 000 $
+209 625 $
+89 625 $
+[6] Il existe donc une différence appréciable entre les sommes que l’appelante affirme avoir reçues de Heather Mailow et les sommes qui ont été reçues par l’appelante selon les allégations de l’intimée.
+[7] L’appelante soutient que l’intimée n’a pas fourni des doubles de tous les documents pertinents énumérés à l’annexe « A » des listes de documents puisqu’elle a noirci certains renseignements contenus dans les documents qui ont été remis à l’appelante. De même, l’intimée invoque un privilège relativement à plusieurs documents qui se trouvent en sa possession et ces documents sont énumérés à l’annexe « B » de la liste des documents produite dans le cadre de l’appel interjeté sous le régime de la LIR. Le privilège invoqué se fonde sur le fait que les documents contiennent des renseignements confidentiels relatifs à un tiers contribuable.
+[8] L’article 241 de la LIR et l’article 295 de la LTA prévoient certaines restrictions en matière de communication de renseignements confidentiels. Chacun de ces textes de loi comporte une exception relative aux procédures judiciaires ayant trait à l’application ou à l’exécution de ses dispositions. Le paragraphe 241(3) de la LIR est ainsi rédigé :
+(3) Les paragraphes (1) et (2) ne s’appliquent :
+[…]
+b) ni aux procédures judiciaires ayant trait à l’application ou à l’exécution de la présente loi, du Régime de pensions du Canada, de la Loi sur l’assurance‑chômage ou de la Loi sur l’assurance‑emploi ou de toute autre loi fédérale ou provinciale qui prévoit l’imposition ou la perception d’un impôt, d’une taxe ou d’un droit.
+[9] Dans l’arrêt Minister of National Revenue v. Huron Steel Fabricators (London) Limited and Herman Fratschko, 73 DTC 5347, la Cour d’appel fédérale a confirmé que les déclarations de revenus d’un tiers sur lesquelles le ministre s’était fondé pour établir une cotisation à l’égard du contribuable dans cette affaire devaient être communiquées au contribuable. Dans la décision Oro Del Norte, S.A. v. The Queen, [1990] 2 C.T.C. 67, 35 F.T.R. 107, 90 DTC 6373, le juge en chef adjoint Jerome (tel était alors son titre) de la Section de première instance de la Cour fédérale était saisi d’une demande que le contribuable présentait afin d’obtenir une ordonnance obligeant l’intimée à produire des documents et à fournir des renseignements relatifs à des tiers. Il a tenu les propos suivants :
+8 Le contribuable doit donc avoir accès à tous les documents sur lesquels le ministre du Revenu national se fonde pour établir une nouvelle cotisation ou qui sont pertinents à celle‑ci. L’avocat de la défenderesse admet que le critère large de la pertinence énoncé par le juge McEachern, juge en chef, dans Boxer and Boxer Holdings Ltd. c. Reesor, et al., (1983) 43 B.C.L.R. 352, 35 C.P.C. 68, et adopté par le juge Urie dans Everest & Jennings Canadian Ltd. c. Invacare Corporation, [1984] 1 C.F. 856 (C.A.F.) s’applique :
+[TRADUCTION] Les demandeurs ont incontestablement le droit de consulter tout document susceptible de les lancer dans une enquête qui pourra, directement ou indirectement, bénéficier à leur cause ou nuire à celle du défendeur, particulièrement sur la question vitale de la probabilité que la version du contrat donnée par une partie soit plus exacte que celle de l’autre. Tel étant le cas, il me semble que les demandeurs doivent avoir gain de cause sur certains aspects de la demande.
+Pour déterminer si la demanderesse a respecté ce critère de la pertinence, il faut examiner les motifs fondamentaux de l’appel qu’a interjeté la demanderesse à l’égard de la nouvelle cotisation établie par la défenderesse.
+[Non souligné ni en caractères gras dans l’original.]
+[10] Il ne me semble pas que les termes « à tous les documents » signifient nécessairement que l’intégralité d’un document doit être divulguée à un appelant si uniquement une partie de ce document est pertinente à l’appel et une autre partie comportant des renseignements confidentiels relatifs à un tiers ne l’est pas. À mon avis, il serait inopportun de divulguer l’intégralité du document si ces parties peuvent être séparées. Seule la partie pertinente doit être communiquée s’il est possible de l’isoler de la partie non pertinente sans la rendre incompréhensible. Si la partie non pertinente où figurent les renseignements confidentiels relatifs à un tiers ne peut être isolée de la partie pertinente sans rendre celle‑ci incompréhensible, il faut alors communiquer l’intégralité du document.
+[11] L’intimée avait fourni à l’appelante des doubles des documents énumérés à l’annexe « A » de chacune des listes de documents dans lesquelles le revenu de Heather Mailow et les numéros d’assurance sociale de cette dernière et d’autres tiers avaient été noircis. L’avocat de l’appelante a refusé ces documents et il tente d’obtenir une ordonnance portant que l’intégralité de leur contenu soit divulguée. Cependant, je n’accepte pas que le numéro d’assurance sociale de Heather Mailow ou d’un tiers, quel qu’il soit, puisse être pertinent au regard des questions en litige. Le litige en l’espèce intéresse le montant des paiements que Heather Mailow a versés à l’appelante. Quel que soit le numéro d’assurance sociale de Heather Mailow ou d’un quelconque autre tiers, ce point n’a aucune pertinence pour déterminer les sommes que Heather Mailow a payées à l’appelante. Noircir les numéros d’assurance sociale de Heather Mailow et des autres tiers n’a pas eu pour effet de rendre le reste du document incompréhensible. J’estime donc qu’il était approprié pour l’intimée de noircir le numéro d’assurance sociale de Heather Mailow et des autres tiers.
+[12] Quant au revenu allégué que Heather Mailow aurait tiré du salon de massage, il s’agit, à mon sens, d’un renseignement pertinent dans le cadre de l’instance. La somme que, selon les allégations de l’intimée, Heather Mailow a versée à l’appelante est importante et totaliserait entre 209 625 $ et 228 972 $ par année. Pour trois des années en cause, la somme que Heather Mailow aurait payée, selon ce que soutient l’intimée, est plus de deux fois supérieure à la somme que l’appelante allègue avoir reçue. Il me semble que le revenu généré (ou qui aurait été généré selon ce qui est allégué) par le salon de massage constitue un facteur pertinent pour décider si ces paiements ont ou non été versés comme il est allégué. À mon avis, le montant du revenu de Heather Mailow n’aurait donc pas dû être noirci sur les documents. Dans la présente affaire, ce point est toutefois dénué d’intérêt pratique. En effet, bien que le revenu ait été noirci dans un des documents, il ne l’a pas été dans un autre, et l’appelante a donc été informée du revenu qui, selon l’intimée, a été gagné par Heather Mailow.
+[13] En conséquence, l’appelante ne peut avoir gain de cause en ce qui concerne les deux premières questions visées par la requête puisque l’intimée a fourni des doubles satisfaisants des documents. Comme les avocats de l’intimée ont produit les deux recueils reliés qu’ils ont envoyés à l’avocat de l’appelante (et qui leur ont été retournés), ces deux recueils seront envoyés à ce dernier.
+[14] Le point suivant soulevé par la requête touche à la demande voulant que l’intimée fournisse des doubles complets de tous les documents énumérés à l’annexe « B » de la liste des documents que l’intimée a produite dans le cadre de l’appel interjeté sous le régime de la LIR. Plus de 60 documents figurent dans cette annexe. Même si, selon son libellé, la liste de documents se trouvant dans cette annexe comporte 43 documents, le document numéro 25 comprend une description de huit documents et le document numéro 39 comprend une description de 15 documents.
+[15] Dans le présent appel, la question en litige intéresse le montant des paiements que Heather Mailow a versés à l’appelante. L’avocat de cette dernière a signalé que tous les paiements avaient été faits en espèces, dans une enveloppe livrée par un messager. Il est donc difficile de savoir quels documents seraient susceptibles d’étayer la thèse de l’appelante ou celle de l’intimée. Il n’existerait aucun chèque payé et, vraisemblablement, aucun reçu.
+[16] L’article 88 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») énonce ce qui suit :
+88. Si elle est convaincue qu’une partie n’a pas mentionné dans sa déclaration sous serment un document pertinent qui se trouve en sa possession, sous son contrôle ou sous sa garde ou que la prétention au privilège n’est pas fondée, la Cour peut :
+a) ordonner qu’il y ait contre‑interrogatoire sur la déclaration sous serment de documents;
+b) ordonner la signification d’une autre déclaration sous serment de documents plus complète;
+c) ordonner la divulgation ou la production, à des fins d’examen, du document, en tout ou partie, si celui‑ci n’est pas privilégié;
+d) examiner le document afin d’établir sa pertinence ou de décider si la prétention au privilège est fondée.
+[17] L’article 88 s’applique si la Cour est convaincue qu’une prétention à un privilège pourrait ne pas être fondée. En l’espèce, un des documents énumérés à l’annexe « B » de la liste de documents produite dans le cadre de l’appel interjeté sous le régime de la LIR (document no 26) est présenté en ces termes :
+[TRADUCTION]
+Double d’une lettre adressée à Macille Poon, ARC, par John Agostinelli – Objet : Donna Heinig […]
+[18] Comme on précise que la lettre concerne l’appelante, il est difficile de savoir pourquoi ce document (en tout ou en partie) n’est pas pertinent au regard de la présente instance. Pour une raison ou pour une autre, l’intimée avance que cette lettre comporte des renseignements confidentiels relatifs à un tiers et qu’elle ne doit pas être divulguée. Cependant, il est impossible, sans voir la lettre, de déterminer si la prétention au privilège est fondée pour l’ensemble du document.
+[19] Aucun des documents énumérés à l’annexe « B » de la liste de documents produite dans le cadre de l’appel interjeté sous le régime de la LIR n’a été présenté à la Cour. La liste de documents ne comporte qu’une description sommaire des documents qui y figurent. En l’espèce, il me semble que la prétention à un privilège pourrait ne pas être fondée mais, sans examen des documents, il est impossible de le savoir avec certitude. J’estime toutefois inopportun de divulguer à l’appelante l’ensemble des documents énumérés à cette annexe « B » sans connaître leur contenu. À mon avis, il n’y a donc pas lieu de rendre l’ordonnance demandée par l’appelante en vue d’obtenir de communication intégrale de tous les documents énumérés dans cette annexe « B ».
+[20] Cependant, l’article 88 des Règles prévoit différentes possibilités. En premier lieu, la Cour peut ordonner la tenue d’un contre‑interrogatoire sur la déclaration sous serment de documents. Cette mesure fait d’ailleurs partie des demandes formulées par l’appelante et il me paraît approprié d’y recourir à ce moment‑ci. Une fois qu’elle aura contre‑interrogé Tara Le sur ses déclarations sous serment, l’appelante sera peut‑être mieux placée pour savoir quels documents, parmi ceux énumérés à l’annexe « B », sont susceptibles de contenir des renseignements pertinents ou d’avoir servi de fondement aux nouvelles cotisations établies par l’intimée. Si la question n’est pas réglée à la satisfaction des parties après le contre‑interrogatoire de Tara Le et que l’appelante soutient qu’il reste toujours des documents susceptibles de contenir des renseignements pertinents ou d’avoir servi de fondement aux nouvelles cotisations établies par l’intimée et que cette dernière refuse toujours de divulguer, elle aurait alors la possibilité, à mon avis, de présenter une requête afin d’obtenir que la Cour examine ces documents pour décider si la prétention au privilège est fondée et si ces documents doivent être divulgués, en tout ou en partie.
+[21] L’avocat de l’intimée a également demandé l’autorisation de contre‑interroger l’appelante sur sa déclaration sous serment qu’elle a jointe à sa liste de documents. Le paragraphe 82(6) des Règles est libellé comme suit :
+82(6) La Cour peut ordonner à une partie de se présenter et d’être contre‑interrogée sur une déclaration sous serment produite sous le régime du présent article.
+[22] Selon moi, il est opportun de rendre une telle ordonnance en l’espèce.
+[23] En conséquence :
+a) La demande présentée par l’appelante pour obtenir l’ordonnance mentionnée au paragraphe 1(1) est refusée;
+b) La demande présentée par l’appelante pour obtenir l’ordonnance mentionnée au paragraphe 1(2) est refusée;
+c) La demande présentée par l’appelante pour obtenir l’ordonnance mentionnée au paragraphe 1(3) est refusée;
+d) Il est ordonné à Tara Le de se présenter, aux temps et lieu convenus par les avocats de l’intimée et l’avocat de l’appelante (et, faute d’une telle entente, aux temps et lieu fixés par l’avocat de l’appelante sous réserve de son obligation de donner un avis préalable d’au moins dix jours de ces temps et lieu), pour être contre‑interrogée au sujet de ses déclarations sous serment déposées relativement aux listes de documents produites pour le compte de l’intimée;
+e) Il est ordonné à l’appelante de se présenter, aux temps et lieu convenus par les avocats de l’intimée et l’avocat de l’appelante (et, faute d’une telle entente, aux temps et lieu fixés par les avocats de l’intimée sous réserve de leur obligation de donner un avis préalable d’au moins dix jours de ces temps et lieu), pour être contre‑interrogée au sujet de sa déclaration sous serment déposée relativement à sa liste de documents produite dans la présente affaire;
+f) Les deux recueils de documents reliés qui ont été présentés par les avocats de l’intimée lors de l’audition de la requête doivent être envoyés à l’avocat de l’appelante.
+[24] L’appelante avait en outre demandé à la Cour de rendre une ordonnance modifiant les ordonnances antérieures relatives au calendrier des mesures à prendre dans le cadre des appels. Afin de donner aux parties suffisamment de temps pour régler la question de savoir si d’autres documents doivent être communiqués, l’ordonnance du 21 février 2008 est modifiée, en partie, de la façon suivante :
+a) Les interrogatoires préalables doivent être terminés au plus tard le 30 juin 2009;
+b) Les engagements pris au moment des interrogatoires préalables doivent être remplis au plus tard le 31 juillet 2009;
+c) Les parties doivent communiquer par écrit avec le coordonnateur des audiences au plus tard le 31 août 2009 pour faire savoir à la Cour si l’affaire fera l’objet d’une transaction, si une conférence préparatoire à l’audience serait utile ou si une date d’audience doit être fixée. Dans cette dernière éventualité, les parties peuvent faire une demande commune pour que soient fixés la date, l’heure et le lieu de l’audition conformément à l’article 123 des Règles de la Cour canadienne de l’impôt (procédure générale).
+[25] Les dépens afférents à la présente requête suivent l’issue de la cause.
+Signé à Toronto (Ontario), ce 29e jour de janvier 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 27e jour de mars 2009.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2009CCI47
+No DU DOSSIER DE LA COUR : 2007-2125(IT)G
+INTITULÉ : Donna Heinig et La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 11 décembre 2008
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE : Le 29 janvier 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Franklyn Cappell
+Avocats de l’intimée :
+Me Bobby Sood et Me Paolo Torchetti
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Franklyn Cappell
+Cabinet : Cappell Parker LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

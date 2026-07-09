@@ -1,0 +1,139 @@
+Title: Lau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26173/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-74-26173-lau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-01-21
+
+# Lau c. La Reine
+
+- Citation: 2003 CCI 74
+- Decision date: 2003-01-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3971, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-01-21
+Référence neutre
+2003 CCI 74
+Numéro de dossier
+2000-1594(GST)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Date : 20030121
+Dossier : 2000-1594(GST)G
+ENTRE :
+AGATHA KIT CHUN LAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu avec l'appel de Patrick Wing Chu Lau (2000-1596(GST)G)
+les 4 et 5 septembre 2002 et requête à l'égard des dépens entendue
+le 20 janvier 2003, à Toronto (Ontario).
+Devant : L'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Avocat de l'appelante :
+Me Robert J. Morris
+Avocate de l'intimée :
+Me J. Michelle Farrell
+_______________________________________________________________
+JUGEMENT
+Attendu que les motifs du jugement ont été rendus le 25 novembre 2002,
+Et attendu que l'avocat de l'appelante a demandé qu'on lui accorde la possibilité de faire des observations sur la question des dépens avant le prononcé du jugement officiel,
+Et vu les observations présentées par les avocats des deux parties sur la question des dépens le 20 janvier 2003,
+La Cour ordonne que l'appel à l'encontre de la cotisation établie en vertu du paragraphe 323(1) de la Loi sur la taxe d'accise soit accueilli avec dépens et que la cotisation soit annulée.
+La Cour ordonne en outre qu'un montant forfaitaire de 52 000 $ soit adjugé à l'appelante et à Patrick Wing Chu Lau au titre d'un seul mémoire de frais, des débours et des dépens relatifs à la requête.
+Signé à Toronto (Ontario), ce 21e jour de janvier 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 23e jour de février 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Date : 20030121
+Dossier : 2000-1596(GST)G
+ENTRE :
+PATRICK WING CHU LAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu avec l'appel de Agatha Kit Chun Lau (2000-1594(GST)G)
+les 4 et 5 septembre 2002 et requête à l'égard des dépens entendue
+le 20 janvier 2003, à Toronto (Ontario).
+Devant : L'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Avocat de l'appelant :
+Me Robert J. Morris
+Avocate de l'intimée :
+Me J. Michelle Farrell
+_______________________________________________________________
+JUGEMENT
+Attendu que les motifs du jugement ont été rendus le 25 novembre 2002,
+Et attendu que l'avocat de l'appelant a demandé qu'on lui accorde la possibilité de faire des observations sur la question des dépens avant le prononcé du jugement officiel,
+Et vu les observations présentées par les avocats des deux parties sur la question des dépens le 20 janvier 2003,
+La Cour ordonne que l'appel à l'encontre de la cotisation établie en vertu du paragraphe 323(1) de la Loi sur la taxe d'accise soit accueilli avec dépens et que la cotisation soit annulée.
+La Cour ordonne en outre qu'un montant forfaitaire de 52 000 $ soit adjugé à l'appelant et à Agatha Kit Chun Lau au titre d'un seul mémoire de frais, des débours et des dépens relatifs à la requête.
+Signé à Toronto (Ontario), ce 21e jour de janvier 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 23e jour de février 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossiers 2000-1594(GST)G
+2000-1596(GST)G
+COUR CANADIENNE DE L'IMPÔT
+Loi de l'impôt sur le revenu
+ENTRE :
+AGATHA KIT CHUN LAU, PATRICK WING CHU LAU,
+appelants,
+‑ et ‑
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+‑‑‑ Affaire entendue par l'honorable juge en chef adjoint Bowman de la Cour canadienne de l'impôt, dans la salle d'audience no 1, 9e étage, 200, rue King Ouest, Toronto (Ontario), le 20e jour de janvier 2003.
+DÉCISION SUR LA QUESTION DES DÉPENS
+(Rendue oralement à l'audience
+à Toronto, le 20 janvier 2003.)
+‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑
+COMPARUTIONS :
+Me Robert J. Morris Pour les appelants
+Me J. Michelle Farrell Pour l'intimé
+Le greffier audiencier : William O'Brien
+Par : Penny Stewart
+-‑‑ L'audience commence à 15 h 45.
+M. LE JUGE : Il s'agit d'une requête en vue d'accorder des dépens supplémentaires.
+La Cour a entendu les appels de Agatha Kit Chun Lau et de son époux Patrick Wing Chu Lau. J'ai accueilli les deux appels et j'ai retenu la suggestion de l'avocat des appelants de prendre la question des dépens en délibéré jusqu'à ce qu'il soit possible de faire des observations, et j'ai accepté de le faire.
+Dans le cas de Agatha Kit Chun Lau, je partage le point de vue de Me Morris : je ne crois pas que cette affaire aurait dû être portée devant les tribunaux. Sans vouloir critiquer le moins du monde l'avocate, elle était obligée de prendre des directives, du moins elle croyait qu'elle était obligée de prendre des directives du ministère du Revenu national. Néanmoins, essentiellement, le ministère du Revenu national, ou l'ADRC comme on l'appelle maintenant, n'a pas accepté l'argument de Agatha selon lequel elle n'avait jamais été un dirigeant de Nikiko Restaurant Incorporated. La preuve de Me Hui, le procureur, n'a pas été acceptée. Je crois qu'on aurait dû l'accepter dès le début de l'affaire.
+En fait, la seule personne à l'ADRC qui semble s'être penchée sur ces appels, c'est un agent de recouvrement, et, à mon sens, ce n'est pas à cette personne‑là qu'il revient d'examiner des appels.
+Je crois, par ailleurs, que la cotisation établie par la Couronne à l'égard de Patrick Wing Chu Lau était davantage justifiée. Il y avait des montants considérables en cause. Les comptables ont traité une très grande partie du montant, qui a fait l'objet d'une cotisation de TPS, comme des honoraires d'expert‑conseil. J'ai été obligé d'accepter cette preuve bien que, comme je l'ai indiqué à l'avocat, je ne suis pas sûr qu'il s'agisse réellement d'honoraires d'expert‑conseil.
+J'ai décidé d'accorder un montant forfaitaire de 52 000 $ dans les deux cas. Je tiens compte de plusieurs facteurs pour exercer mon pouvoir discrétionnaire.
+En premier lieu, la Couronne a fait en sorte que les appels soient entendus sous le régime de la procédure générale. Il en résulte une lourde charge pour les appelants. Je crois que la Couronne devrait être obligée de payer pour cela.
+En deuxième lieu, je ne crois pas que la cotisation établie à l'égard de Agatha Lau était fondée.
+En troisième lieu, une offre de règlement a été faite après que le juge qui a présidé la conférence préparatoire eut fait une recommandation en ce sens. Cette offre a été rejetée. Je crois que la Couronne aurait dû se montrer un peu plus disposée à l'accepter. Il ne s'agissait pas que d'un compromis sans fondement. L'offre aurait pu se justifier vu la question des honoraires d'expert‑conseil, qui a toujours semblé douteuse.
+Le tarif aurait permis d'adjuger environ 16 000 $ sur la base partie‑partie. Les dépens procureur‑client établis par le cabinet Lerner se seraient établis à 103 157,01 $. Je crois que c'est trop élevé. Je ne doute pas qu'on ait consacré toutes les heures indiquées, mais je me demande si elles étaient réellement nécessaires. Je crois qu'il y en a beaucoup.
+Je n'adjuge pas les dépens procureur‑client. J'adjuge un montant forfaitaire qui tient compte, je crois, de la difficulté de l'affaire, des heures qui y ont été consacrées et des autres facteurs que je viens de mentionner.
+Il ne faut pas oublier que l'article 147 des Règles de la procédure générale établit un grand nombre de critères sur lesquels la Cour peut s'appuyer pour exercer son pouvoir discrétionnaire, et j'en fais la lecture : le résultat de l'instance, les sommes en cause, l'importance des questions en litige, toute offre de règlement présentée par écrit.
+Je m'arrête à ce facteur car je crois que je dois, en exerçant mon pouvoir discrétionnaire, tenir compte au moins de l'offre de règlement. Je ne crois pas qu'une offre de règlement qui est inférieure au montant qui a été déterminé à l'audience justifie l'adjudication des dépens procureur‑client. Cette question a été réglée, je crois, par le juge Lamarre dans l'affaire Miller. Cependant, ce n'est pas un facteur dont on peut faire totalement abstraction.
+La charge de travail. L'affaire en cause a nécessité beaucoup de travail.
+La complexité des questions en litige. Bien, je ne suis pas si sûr que les questions étaient complexes. Il y a eu toute une évolution dans les affaires de responsabilité des administrateurs, dans lesquelles la Cour d'appel fédérale, avec tout le respect que je lui dois, a assoupli avec raison, selon moi, les critères rigoureux appliqués par notre cour.
+On n'a certainement pas prétendu que l'une ou l'autre des parties a abrégé ou prolongé l'instance. Il n'y a eu aucune conduite répréhensible, selon moi. On a fait valoir que les dépens procureur‑client ne peuvent être adjugés que lorsque l'une ou l'autre des parties s'est conduite de manière répréhensible. Or, je n'adjuge pas les dépens procureur‑client.
+Je crois qu'une solution juste dans l'affaire qui nous occupe, et une solution qui indemnise en partie les appelants pour avoir été contraints de défendre leur position devant la Cour, est de leur adjuger un montant de 52 000 $. Ce montant englobe les débours et les dépens relatifs à la requête.
+‑‑‑ L'audience prend fin à 15 h 55.
+Traduction certifiée conforme
+ce 23e jour de février 2005.
+Yves Bellefeuille, réviseur

@@ -1,0 +1,276 @@
+---
+title: "9041-6868 Québec Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26358/index.do"
+last_modified: "2004-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 648"
+citation2: ""
+neutral_citation: "2004 TCC 648"
+decision_date: "2004-09-27"
+language: "en"
+item_id: "26358"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3371
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:58:59.139000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "63bdf7ad80352a11b3090ba506c068de2fd51e3d1db719fd1b3fe0cea353564e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9041-6868 Québec Inc. c. M.R.N.
+
+- Citation: 2004 TCC 648
+- Decision date: 2004-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3371, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9041-6868 Québec Inc. c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-27
+Neutral citation
+2004 TCC 648
+File numbers
+2003-1279(EI)
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-1279(EI)
+BETWEEN:
+9041-6868 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+________________________________________________________________
+Appeal heard on January 26, 2004, at Montreal, Quebec.
+Before: The Honourable Justice P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Jean-Félix Racicot
+Counsel for the Respondent:
+Mélanie Bélec
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act from a decision of the Minister of National Revenue (the "Minister") dated January 8, 2003, is allowed and the Minister's decision is amended to the effect that the employment of Hermann Tambeau with the Appellant, 9041-6868 Québec Inc., was insurable employment from August 31, 2000 to April 12, 2002, based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of September 2004.
+"P.R. Dussault"
+Dussault, J.
+Translation certified true
+on this 6th day of January 2005.
+Wendy Blagdon, Translator
+Citation: 2004TCC648
+Date: 20040927
+Docket: 2003-1279(EI)
+BETWEEN:
+9041-6868 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault, J.
+[1] This is an appeal from a decision of the Respondent dated January 8, 2003, to the effect that Hermann Tambeau (the "worker") held insurable employment from August 18, 2000 to April 12, 2002, on the grounds that there was a contract of service between him and the Appellant during the period at issue. Further, mention is made in the decision that "[TRANSLATION] no document validates the fact that Hermann Tambeau held more than 40% of the shares at a given time during the period at issue."
+[2] The Appellant challenged the decision rendered by arguing that Hermann Tambeau controlled more than 40% of the voting shares of the Appellant's capital stock and that there was no contract of service between him and the Appellant during the period at issue.
+[3] The Minister of National Revenue (the "Minister") based the decision on the de facto hypotheses set out in subparagraphs (a) to (s) in paragraph 14 of the Reply to the Notice of Appeal. These subparagraphs read as follows:
+a) the Appellant was incorporated on September 26, 1996;
+b) based on the register of the Inspecteur Général des Institutions Financières [inspector general of financial institutions], the following are the registered shareholders:
+Alphonse Verreault
+Symphony Telecom
+Michel Mondoux
+majority shareholder
+second shareholder
+third shareholder
+c) the Appellant claims that the worker held and controlled during the period at issue more than 40% of its voting shares, but despite the Respondent's requests, it had not provided the Respondent with his company book;
+d) during the period at issue, Michel Mondoux acted as the worker's nominee shareholder;
+e) during the period at issue, the worker held, through Michel Mondoux, an indeterminate number of the Appellant's voting shares out of an indeterminate number of shares issued by the Appellant;
+f) during the period at issue, the worker never directly or indirectly controlled more than 40% of the Appellant's voting shares;
+g) the Appellant conducted business using a number of company names, including Directory Management America Point Com;
+h) the Appellant ran a firm that sold advertising space in telephone books;
+i) under the terms of a written contract, the worker was hired on August 18, 2000, to be the Appellant's Executive Vice-President for a four-year period;
+j) the worker's main duties involved recruiting buyers for the advertising space in telephone books;
+k) under the written contract, the worker received $6,000 a month the first year, $7,916 the second, $8,075 the third, and $8,237 the fourth;
+l) the worker was paid on the first and fifteenth day of the month;
+m) the Appellant gave the worker 20 paid days of vacation a year;
+n) the worker had to report to the Appellant regularly on sales made and customers met;
+o) the Appellant provided the worker with an automobile and a cellular telephone;
+p) the Appellant reimbursed the worker's lodging expenses and paid him a per diem when he travelled to remote areas;
+q) the worker did not pay any expenses as part of his duties with the Appellant;
+r) the worker did not have any chance of profit or risk of loss as part of his duties with the Appellant;
+s) the worker's duties were fully integrated into the Appellant's activities.
+[4] The first issue is therefore to determine whether there was a contract of service between the worker, Hermann Tambeau, and the Appellant within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the "Act") from August 18, 2000 to April 12, 2002.
+[5] If the response to this first question is yes, it must then be determined whether the employment is excluded from insurable employment pursuant to paragraph 5(2)(b) of the Act on the grounds that the worker controlled more than 40% of the Appellant's voting shares.
+[6] Let us first look at the context of this case.
+[7] Pierre Lupien and Alphonse Verreault testified for the Appellant. Clermont Poulin, from the Canada Customs and Revenue Agency (the "CCRA"), testified on behalf of the Respondent.
+[8] Pierre Lupien described himself as the Appellant's legal advisor since June or July 2000. He said that the Appellant, whose shares had until that point been held by Michel Mondoux, had been inactive for a few years. Messrs Verreault, Mondoux and Tambeau, who wanted to form a business partnership and sell advertising space in telephone books (Yellow Pages), allegedly requested a capital stock alteration. Further to the request, 4,000,000 Class A voting shares were issued on July 25, 2000, as follows:
+Michel Mondoux
+Alphonse Verreault
+Michel Mondoux
+- Certificate No 6 =
+- Certificate No 7 =
+- Certificate No 8 =
+1,900,000 shares
+1,900,000 shares
+200,000 shares
+[9] According to Mr. Lupien, the 1,900,000 shares represented by Certificate No 6 in Michel Mondoux's name were in fact owned by Hermann Tambeau, who was, at that time, an undischarged bankrupt. Thus, Mr. Mondoux allegedly acted as Mr. Tambeau's nominee shareholder for these 1,900,000 shares.
+[10] Since the shareholders were looking for additional financing to get the business up and running, a group from Toronto showed interest and a corporation, Symphony Telecom Corp. ("Symphony") agreed to invest $500,000 in consideration for 4,163,265 Class A shares issued in its name which gave it control over the Appellant with 51.02% of voting rights.
+[11] The shares issued to Symphony on August 31, 2000 are represented by the following certificates:
+Certificate No 9 =
+Certificate No 10 =
+Certificate No 11 =
+Certificate No 12 =
+1,648,320 shares
+824,160 shares
+824,160 shares
+866,625 shares
+[12] The $500,000 was payable by Symphony as $200,000 in cash and $100,000 on each of the following dates: September 30, October 31 and November 30, 2000. Symphony paid the $200,000 and made the first $100,000 payment on September 30, 2000, but failed to make the $100,000 payment due on October 31, 2000 and the $100,000 on November 30, 2000. The Appellant instituted legal proceedings against Symphony for the unpaid $200,000 and a decision was rendered in the Appellant's favour on February 21, 2003 (Longueuil district S.C., No: 505-17-001186-024).
+[13] The Appellant issued 1,665,306 new Class A shares to Alphonse Verreault on April 3, 2001. These shares are represented by Certificate No 13.
+[14] Also on April 3, 2001, Certificate No 6 representing the 1,900,000 shares in the name of Michel Mondoux was cancelled and the shares were distributed as follows:
+Michel Mondoux
+Michel Mondoux
+Bala Capital Management
+Teltech Capital Management
+- Certificate No 14 =
+- Certificate No 15 =
+- Certificate No 16 =
+- Certificate No 17 =
+940,000 shares
+834,000 shares
+63,000 shares
+63,000 shares
+[15] We know nothing about the transactions that resulted in this new distribution of the 1,900,000 shares formerly represented by Certificate No 6 in the name of Michel Mondoux.
+[16] In an affidavit dated November 23, 2001, Mr. Tambeau stated that he owned the 940,000 shares represented by Certificate No 14 in the name of Michel Mondoux and Alphonse Verreault was allegedly not given a proxy for the voting right associated with these shares (Exhibit A-5).
+[17] On April 12, 2002, during an examination on discovery before the filing of the defence between Mr. Mondoux and the Appellant, the latter simply stated without elaborating that certain shares that he held were owned by Mr. Tambeau (Exhibit A-6).
+[18] Based on Mr. Poulin's CCRA CPT 110 report, Mr. Tambeau allegedly told him during an interview on December 16, 2002, that only 12% of the shares were held for him by a nominee shareholder. However, during the same interview, Mr. Tambeau allegedly stated that he had not invested anything personally in the company, but that his wife had invested $40,000 (Exhibit I-3, Page 4).
+[19] Finally, on December 10, 2001, the Appellant issued 7,000,000 new Class A shares to Alphonse Verreault. These shares are represented by Certificate No 18.
+[20] The foregoing information was in large part in the "Compte de capital-actions émis et payé [capital stock issued and paid account]" register that counsel for the Appellant provided at my request after the hearing of the case at hand. I must note here that the distribution of shares of the Appellant's capital stock Mr. Tambeau gave Mr. Clermont Poulin, CCRA, at a meeting on December 16, 2002, is completely different from that indicated above and is not the same as in the register provided by counsel for the Appellant (Exhibit I-3, Page 4).
+[21] What is the relationship between the Appellant and Mr. Tambeau in terms of the latter's work?
+[22] A contract of employment was signed on August 18, 2000, by Mr. Tambeau, identified as the Executive Vice-President and the Appellant represented by its President, Alphonse Verreault. Provision is made in this four-year contract for the fixed monthly remuneration to be payable every two weeks, the bonus to be based on new business done and a commission paid on gross sales (Exhibit I-1).
+[23] Mr. Verreault said that Mr. Tambeau's work essentially involved "developing sales", which, in his opinion, he did not do. At the request of Symphony, a similar contract was allegedly signed with the three initial shareholders, that is, with him, Mr. Mondoux and Mr. Tambeau, to ensure that these key people continued to work for the Appellant. Mr. Verreault pointed out that the signed contract was valid provided that Symphony fulfilled it obligations which it did not do because it failed to pay the total price of the shares issued in its name.
+[24] Reference is made in a document dated April 1, 2000 and signed by Messrs. Verreault, Mondoux and Tambeau of a contract of employment signed by each of the men and pointed out that it was fully enforceable provided that the business plan objectives were met. Provision is made that if the objectives are not met, salaries would be reviewed based on the Appellant's ability to meet its obligations.
+[25] It is clear that disputes cropped up relatively quickly between the three parties of primary interest with regard to the financing of the Appellant's activities. It is also clear that other disputes among these individuals gave rise to a number of legal proceedings.
+[26] Thus, according to Mr. Verreault, Mr. Tambeau allegedly did not carry out any work for the Appellant starting in November 2001. Under the pretext that he wanted to work from home for health reasons, Mr. Verreault said that Mr. Tambeau tried to start up a competing business in conjunction with Symphony. Mr. Tambeau's parallel activities allegedly continued until April 2002. Curiously, Mr. Verreault stated that Mr. Tambeau was not accountable to anyone for his work with the Appellant.
+[27] According to Mr. Verreault, Mr. Tambeau was not paid regularly and allegedly received advances based on the Appellant's ability to pay. Further, he allegedly did not receive anything during the months of February and March 2001. No documents or records of any sort were provided in support of these statements concerning Mr. Tambeau's remuneration.
+[28] On April 12, 2002, the Appellant obtained an interlocutory decision against Michel Mondoux and Hermann Tambeau (Exhibit A-3). The following is an excerpt from this decision:
+[...]
+[TRANSLATION]
+The Defendants, Michel Mondoux, Hermann Tambeau and 9111-2482 Québec Inc. are hereby ORDERED for a period of 10 days to:
+STOP soliciting clients wanting to place advertising in the telephone book;
+STOP acting or trying to act as a telephone book advertisement placement agency (CMR);
+PROVIDE the Plaintiff with all the confidential information and client lists belonging to the Plaintiff;
+RETURN the keys to the Plaintiff's premises and surrender the possession and keys to the Plaintiff's Oldsmobile Aurora automobile with which the Defendant Tambeau was provided;
+RETURN to the Plaintiff a complete copy of the hard drive from the Defendant Tambeau's computer and the cellular telephone (number (514) 707-9835) that the Plaintiff provided;
+[...]
+[29] The Appellant pursued its application for an injunction against Messrs. Mondoux and Tambeau with a view to preventing them from disclosing confidential information obtained to date and to forcing them to comply with the non-disclosure and non-competition clauses in their contracts of employment (Exhibit I-1). Pursuant to the decision rendered in the Appellant's favour on April 24, 2002, Mr. Tambeau was also ordered to provide a complete copy of the hard drive on his computer and of any other document in his possession or that he used when he worked for the Appellant.
+[30] Mr. Tambeau was found guilty of contempt of court on April 4, 2003. A decision on the sanction was rendered on June 5, 2003.
+[31] For his part, Mr. Clermont Poulin, from the CCRA, gathered information concerning the working conditions of Mr. Tambeau (Exhibit I-3). First, during a telephone conversation with Mr. Verreault and his counsel, Jean-Félix Racicot, representing the Appellant, Mr. Poulin learned that the Appellant provided Mr. Tambeau with an automobile and a cellular telephone, reimbursed Mr. Tambeau's living expenses and paid a $40 per diem for his meals. The Appellant's representatives allegedly stated that Mr. Tambeau had received advances on request, but could not explain the various amounts he was given.
+[32] The Appellant's representatives also told Mr. Poulin that the Appellant had no control over Mr. Tambeau and were unaware of his comings and goings. According to the Appellant's representatives, Mr. Tambeau did what he wanted in the firm. Although his duties involved finding customers and bringing his personal clients to the firm, he allegedly brought only $500,000 of the projected $6,000,000 because he was working for other firms. At meetings, Mr. Tambeau provided a list of customers, but the Appellant's representatives stated that there was no way to check.
+[33] The Appellant's representatives told Mr. Poulin that the Appellant assumed responsibility for bad debts and Mr. Tambeau was not charged any of these amounts because he never received commissions, only advances.
+[34] Mr. Racicot also told Mr. Poulin that Mr. Tambeau owned 47.5% of the Appellant's shares between July 2000 and April 2001. However, no documents were provided in support of this statement.
+[35] Mr. Poulin also interviewed Mr. Tambeau on December 16, 2002.
+[36] Based on Mr. Poulin's report, Mr. Tambeau told him he owned 45% of the Appellant's shares in August 2000, 23% of these shares between September and December 2000, and only 12% as of January 2001. Mr. Tambeau also allegedly stated that only 12% of the shares were owned for him by Michel Mondoux acting as nominee shareholder.
+[37] Mr. Tambeau also allegedly stated that he normally had to work 40 hours a week from 8:30 a.m. to 5:00 p.m., Monday to Friday, and sometimes on the weekend; his work involved meeting customers with a view to selling advertising space in telephone books; he could not work for other people; his work was supervised by Mr. Verreault; and he had to report orally on the customers met and solicited.
+[38] Based on Mr. Poulin's report, Mr. Tambeau also told him that Mr. Verreault drew up a description of his duties, but he planned his work himself based on Mr. Verreault's suggestions. Mr. Tambeau also stated that he had to meet an annual $300,000 sales objective and that his sales had totalled $1,700,000.
+[39] Mr. Tambeau stated that his remuneration differed from that indicated in the contract, that it was $6,000 a month from September to February 2001, $2,600 every two weeks from March to November 2001, and $1,700 every two weeks from December 2001 to April 2002. His remuneration was payable every two weeks and he was allegedly not paid for a one-month period.
+[40] Based on Mr. Poulin's report, the Appellant leased an automobile for Mr. Tambeau and provided him with an Ultramar credit card for gas. The Appellant also provided him with a cellular telephone.
+[41] Mr. Tambeau was reimbursed his lodging expenses and was paid a $40 per diem for his meals.
+[42] Finally, according to Mr. Poulin, Mr. Tambeau mentioned his disputes with the Appellant and various legal proceedings both at the civil and criminal levels in this regard.
+[43] Mr. Verreault's version of the facts and Mr. Tambeau's version as reported by Mr. Poulin are diametrically opposed not only with regard to the work Mr. Tambeau actually carried out for the Appellant, but also with regard to the results obtained and the remuneration he was paid.
+[44] However, certain facts are indisputable. Mr. Tambeau signed a contract of employment with the Appellant on August 18, 2000. Although Mr. Verreault tried to minimize its significance, the fact remains that the Appellant's request for an injunction against Mr. Tambeau in April 2002 was based on this same contract. As for the control the Appellant had over Mr. Tambeau's activities, it is hard to believe that the latter could do and did what he wanted without being accountable to anyone as Mr. Verreault more or less stated. The authority the Appellant could exercise as a result of the fact that the contract had been signed can hardly be ignored even if it was not in fact exercised very effectively.
+[45] It is also clear that Mr. Tambeau's main work for the Appellant involved selling advertising space in telephone books (Yellow Pages) and to this end, the Appellant provided him with an automobile and cellular telephone. The Appellant reimbursed his lodging expenses and paid him a daily allowance for meals. Mr. Tambeau provided his computer.
+[46] I highly doubt that Mr. Tambeau was able only to receive advances between August 18, 2000 and April 12, 2002, a nearly 20-month period. No records or other documents were submitted as evidence to support Mr. Verreault's statement in this regard.
+[47] Similarly, the Appellant did not provide any evidence whatsoever of the amounts Mr. Tambeau was actually paid for one reason or another during this period.
+[48] If Mr. Tambeau could, under the terms and conditions of the contract, benefit from the sales he made as a result of the bonus provided for in the contract, and he could also receive a commission on the total sales, it therefore seems that the Appellant itself assumed the risks of loss in the case of bad debts.
+[49] In Wiebe Door Services Ltd. v. Canada (Minister of National Revenue - M.N.R.) [1986] 3 F.C. 553, the Federal Court of Appeal analyzed the criteria the courts traditionally use to differentiate between contracts of employment and contracts for services. They include control, ownership of tools, chance of profit and risk of loss, and integration. In this analysis, the Federal Court of Appeal emphasized the need to examine the various criteria in light of the overall relationship among the parties. This analysis was more recently used again by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. [2001] 2 S.C.R. 983.
+[50] In the case at hand, the various above-mentioned components lead to the conclusion that Mr. Tambeau did not personally run his own business. On the contrary, I feel that his relationship with the Appellant is based on a contract of service. Further, the fact that the contract of employment was signed on August 18, 2000 leaves little doubt as to the nature of the relationship the parties wanted to have. The fact that the Appellant provided Mr. Tambeau with an automobile, credit car and cellular telephone and the fact that the Appellant reimbursed his lodging expenses and gave him a daily meal allowance also indicate that their relationship was an employer-employee relationship. If Mr. Tambeau could indeed profit from his activities given that the structure of his remuneration was in part based on his performance, the Appellant runs the risk of losses associated with bad debts. It should be borne in mind that the important thing about control is not determining the extent of the actual control exerted, but rather, the control the payer had over the worker's activities given the parties' obligations (see inter alia Hennick v. M.N.R., [1995] 179 N.R. 315, [1995] F.C.J. no 294 (Q.L.)). In this regard, we can refer to the contract signed by the parties and more specifically to clauses 9 and 10 concerning confidentiality and the non-competition the Appellant wanted enforced when it requested an injunction against Mr. Tambeau in April 2002 (Exhibit A-3). These clauses demonstrate the extent to which Mr. Tambeau's activities were closely connected with and completely integrated into the Appellant's business. All in all, I feel that there was a contract of service between Mr. Tambeau and the Appellant from August 18, 2000 to April 12, 2002.
+[51] Now, what about the exception provided for in paragraph 5(2)(b) of the Act? Counsel for the Appellant basically claims that Mr. Tambeau controlled more than 40% of the Appellant's voting shares during the period at issue. The argument is based firstly on the fact that Michel Mondoux was a nominee shareholder for Hermann Tambeau and that he owned 1,900,000 of the Appellant's Class A shares for him issued on July 25, 2000 and represented by Certificate No. 6. Secondly, counsel for the Appellant claims that the 4,163,265 shares issued to Symphony on August 31, 2000, should not be included in the calculation because these shares are not voting shares, Symphony having defaulted on the $200,000 payment owing on these shares. This part of the argument is based on section 102 of the Quebec Companies Act.
+[52] Counsel for the Appellant feels that the Federal Court of Appeal decision in A.G.C. v. Cloutier, [1987] 2 F.C. 222, [1986] F.C.J. No 778 (QL)) is not applicable in the case at hand. In this decision, the Federal Court of appeal ruled that the voting shares in trust in connection with which the vote could not be exercised could not constitute "controlled" shares even if they subsequently had to be considered issued shares for the purposes of calculating the 40% required pursuant to subsection 14(a) of the Employment Insurance Regulations applicable at the time.
+[53] For her part, counsel for the Respondent argued that there is no proof that Mr. Mondoux was holding Certificate No 6 representing 1,900,000 Class A shares as Hermann Tambeau's nominee shareholder. Although the Respondent recognized in the Reply to the Notice of Appeal that Mr. Mondoux was acting as Mr. Tambeau's nominee shareholder, she felt that the only evidence provided is that Mr. Mondoux held only Certificate No 14 representing 940,000 shares for Mr. Tambeau. Certificate No 4 was not issued until April 3, 2001.
+[54] Counsel for the Respondent relies on the Federal Court of Appeal decision in Cloutier (supra) to confirm that although Symphony could not, pursuant to section 102 of the Quebec Companies Act, exercise its right to vote in connection with the 4,163,265 shares issued in its name on August 31, 2000 (Certificate Nos 9, 10, 11 and 12) as of October 31, 2000, because it had not paid the balance owing on these shares, the latter should nonetheless have been considered issued voting shares for the purposes of calculating the 40% required pursuant to paragraph 5(2)(b) of the Act.
+[55] Thus, according to counsel for the Respondent, if the issued shares of the Appellant's capital stock as of August 31, 2000 and April 3, 2001 were taken into account, it is clear that Mr. Tambeau did not control more than 40% of the Appellant's voting shares at any time between August 31, 2000 and April 12, 2001, whether or not the 4,163,265 shares issued to Symphony are included after it defaulted on the payment, that is, after October 31, 2000.
+[56] In his testimony, Mr. Lupien stated that when the 4,000,000 shares were issued to the initial shareholders on July 25, 2000, 1,900,000 shares were issued to Michel Mondoux as nominee shareholder for Hermann Tambeau. These shares are represented by Certificate No 6. This fact is confirmed in a document signed by Michel Mondoux personally dated May 27, 2002 (documents Jean-Félix Racicot provided the Court on May 26, 2004). Further, in an affidavit signed on November 23, 2001, Hermann Tambeau stated that he was the actual owner of the 940,000 shares represented by Certificate No 14 (Exhibit A-5). It should be noted that when this statement was made, Certificate No 6 had already been cancelled and replaced by Certificate Nos 14, 15, 16 and 17 dated April 3, 2001. However, it is somewhat surprising to note that Mr. Tambeau allegedly told Mr. Poulin from the CCRA that he had not invested anything personally in the Appellant corporation, but that his wife had invested $40,000 (Exhibit I-3, page 4, paragraph 44).
+[57] Given the transactions that occurred on April 3, 2001 concerning the 1,900,000 shares until then represented by Certificate No 6 and the new distribution of these 1,900,000 shares evidenced by Certificate Nos 14, 15, 16 and 17, it is very possible that Michel Mondoux had acted as Mr. Tambeau's nominee shareholder from the outset, that is, from July 25, 2000, when the shares were issued, as Mr. Lupien testified. If I operate under this hypothesis, the most likely and most logical conclusion, despite the contradictory evidence provided, is that Mr. Tambeau controlled more than 40% of the Appellant's voting shares from July 25, 2000 to August 30, 2000, since he then controlled 1,900,000 shares of the 4,000,000 issued on July 25, 2000.
+[58] On August 31, 2000, 4,163,265 new shares were issued to Symphony in consideration for $500,000, a portion of which was paid in cash. Since Symphony had not at that point defaulted on the payment of the balance, it could exercise the vote associated with its shares. Still under the same hypothesis, since Mr. Tambeau would control only 1,900,000 shares of the 8,463,265 shares issued, it is clear that he would not then have controlled more than 40% of the voting shares issued for the period from August 31 to October 31, 2000.
+[59] Symphony did not default on the payment of the shares issued on August 31, 2000 until October 31, 2000, when it failed to pay the $100,000 payable on that date. We also know that Symphony failed to pay the $100,000 payable on November 30, 2000. It was therefore not until after October 31, 2000 that Symphony was able to be prevented from exercising the right to vote related to its shares pursuant to section 102 of the Quebec Companies Act. Section 102 is applicable to corporations incorporated under Part 1A pursuant to section 123.6 of this legislation.
+[60] The parties recognize that section 102 is applicable under the circumstances in the case at hand. Thus, since Symphony had defaulted on the $100,000 payment on October 31, 2000, it was subsequently prevented from exercising its right to vote associated with the shares it owned after that date. This was the conclusion reached by Mr. Justice Jean-Jude Chabot of the Quebec Superior Court in a judgment dated April 13, 2004 (Jean-Félix Racicot provided the Court with a copy of the judgment on April 14, 2004).
+[61] The only issue is whether the 4,163,265 Class A shares with voting rights in Symphony's name must be considered voting shares of the issued shares for the purposes of calculating the 40% required pursuant to paragraph 5(2)(b) of the Act.
+[62] I feel that the only response to this question can be affirmative and that the conclusion of the Federal Court of Appeal in Cloutier (supra) should be applied.
+[63] This Federal Court of Appeal decision involved the application of subsection 14(a) of the Employment Insurance Regulations which at the time read as follows:
+"14. The following employments are excepted from insurable employment:
+(a) employment of a person by a corporation if he or his spouse, individually or in combination, controls more than 40% of the voting shares of that corporation;"
+[64] Mr. Justice Marceau wrote that the Court determined that the word "control" for the purposes of this Act meant "de facto" control and "de jure" control. Thus, it was decided that the voting shares held in trust so that their holder could not exercise his or her right to vote were not shares "controlled" by him or her. However, the Court clearly indicated that the calculation of "controlled" shares had to be based on the total number of voting shares issued.
+[65] Subsection 14(a) of the Unemployment Insurance Regulations was abrogated on November 18, 1990 (SOR/90-756) and replaced by paragraph 3(2)(d) of the Unemployment Insurance Act in which any reference to a spouse was eliminated. No other substantive change was made. The word "corporation" in French was simply replaced by "personne morale" and "actions donnant droit de vote" was replaced by "actions avec droit de vote." Paragraph 3(2)(d) was then repeated in paragraph 5(2)(b) of the Employment Insurance Act. This provision now reads:
+"5(2) Insurable employment does not include
+(b) the employment of a person by a corporation if the person controls more than 40% of the voting shares of the corporation;"
+[66] In Cloutier (supra), the deposit in trust of certain shares in connection with which the right of vote cannot be exercised by their holder had been approved contractually. In the case at hand, section 102 of the Quebec Companies Act prevents a shareholder in default of a payment owing to exercise the right to vote in connection with the shares it holds. In my opinion, whether the restriction on the voting right stems from a contract or legislation should not result in different treatment. The restriction on the voting right is important, not its source.
+[67] Thus, in the case at hand, since Mr. Tambeau allegedly controlled 1,900,000 voting shares out of a total of 8,163,265 voting shares issued, he would not have controlled more than 40% of the voting shares for the period from November 1, 2000 to April 3, 2001.
+[68] As at April 3, 2001, 1,665,306 new shares were issued to Mr. Verreault. It is then more than clear that as of that date, Mr. Tambeau would not have controlled more than 40% of the voting shares especially since the evidence shows that as of that date, Mr. Mondoux held 940,000 shares represented by Certificate No 14 as nominee shareholder for Mr. Tambeau.
+[69] Finally, the issuing of 7,000,000 new Class A shares represented by Certificate No 18 to Mr. Verreault on December 10, 2001, further diluted Mr. Tambeau's interest in the Appellant.
+[70] In conclusion, even using the hypothesis the most favourable for the Appellant, that is, that the 1,900,000 shares represented by Certificate No 6 in Michel Mondoux's name which he was in fact holding as a nominee shareholder for Mr. Tambeau, the latter would have controlled more than 40% of the Appellant's voting shares only from July 25 to August 30, 2000. Since the period at issue is from August 18, 2000 to April 12, 2002, Mr. Tambeau's employment would have only been excluded from insurable employment from August 18 to 30, 2000.
+[71] Consequently, the appeal is allowed and the Minister's decision is amended to the effect that Hermann Tambeau's employment with the Appellant was insurable employment for the period starting on August 31, 2000 and ending on April 12, 2002.
+Signed at Ottawa, Canada, this 27th day of September 2004.
+"P.R. Dussault"
+Dussault, J.
+Translation certified true
+on this 6th day of January 2005.
+Wendy Blagdon, Translator
+CITATION:
+2004TCC648
+COURT DOCKET NO:
+2003-1729(EI)
+STYLE OF CAUSE:
+9041-6868 Québec Inc. and M.N.R.
+PLACE OF HEARING:
+Montreal, Quebec
+DATES
+OF HEARING:
+Appellant's Arguments:
+Respondent's Arguments:
+Appellant's Response:
+January 26, 2004
+February 13, 2004
+February 19, 2004
+February 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice P.R. Dussault
+DATE OF JUDGMENT:
+September 27, 2004
+APPEARANCES:
+For the Appellant:
+Jean-Félix Racicot
+For the Respondent:
+Mélanie Bélec
+SOLICITOR OF RECORD:
+For the Appellant:
+Jean-Félix Racicot, Counsel
+St-Lambert, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

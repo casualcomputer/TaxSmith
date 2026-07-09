@@ -1,0 +1,162 @@
+Title: Coughlin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25958/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-524-25958-coughlin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-07-13
+
+# Coughlin v. The Queen
+
+- Citation: 2004 TCC 524
+- Decision date: 2004-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3756, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coughlin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-13
+Neutral citation
+2004 TCC 524
+File numbers
+2003-1795(IT)I
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1795(IT)I
+BETWEEN:
+WARREN COUGHLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 1, 2004 at Brandon, Manitoba
+Before: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+Robert Johnston, Q.C.
+Counsel for the Respondent:
+Penny Piper
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Ottawa, Canada this 13th day of August, 2004.
+"R.D. Bell"
+Bell, J.
+Citation: 2004TCC524
+Date: 20040713
+Docket: 2003-1795(IT)I
+BETWEEN:
+WARREN COUGHLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.
+ISSUE
+[1] The issue, with respect to the Appellant's 2001 taxation year is whether a Confirmation Order from The Queen's Bench (Family Division) Brandon Centre in May 2000 has the effect of creating a "commencement day" within the meaning of subsection 56.1(4) of the Income Tax Act ("Act") thereby determining that under paragraph 60(b) of the Act the Appellant would not be entitled to deduct monthly payments of $225, thereby totalling $2,700 in that year.
+FACTS
+[2] The parties agreed to the facts set forth in the written submission of the Appellant. They are reported, verbatim, as follows:
+1. Married parents signed a (Pre-Child Support Guideline) Separation Agreement resolving all parenting, support, and property issues between them.
+2. Three years later, still pre-guidelines, a Manitoba Justice pronounced a Divorce Judgment pursuant to the Divorce Act but no corollary relief Judgment or Final Order was sought or obtained.
+3. The Payor parent "paid impeccably for several years", pursuant to the contract, which had been registered for the benefit/protection of both parents with the Manitoba Maintenance Enforcement Program.
+4. The payee parent relocated to British Columbia and eventually qualified for and obtained Provincial Social Assistance in that Province.
+5. Some eight years later, now Post-Child Support Guidelines (May 1, 1997), the Minister, under the B.C. Benefits (Income Assistance) Act, as a statutory assignee of the "current" child support being paid by the payor pursuant to the contract and/or entitlement under the Divorce Act, obtained an ex parte Provisional Variation Order from a Provincial Court Judge in British Columbia ordering child support in the "guideline" amount.
+6. When the Minister responsible for Income Security in British Columbia retained the Manitoba Department of Justice to have the "Provisional" order confirmed in Manitoba, a negotiated settlement was reached.
+[3] The "Married parents" referred to in the Appellant's written submission were the Appellant, and Donna Marie Coughlin ("Donna"). The Separation Agreement shown as being made on December 9, 1988 provided with respect to their children, namely:
+SHANNON MARIE COUGHLIN, born on May 25, 1973,
+STEVEN JAMES COUGHLIN, born on August 27, 1975 and
+SHARON LYNN COUGHLIN, born on February 16, 1985.
+that the Appellant would pay to Donna for the maintenance of the children the sum of $225 each month per child on the 1st day of each and every month commencing on November 1, 1988 and continuing for each child until one of the following occurs:
+(a) the child ceases to be in full time attendance at a school, university or college, unless the child continues to be a dependent by reason of any mental or physical disability;
+(b) the child ceases to reside with the wife, provided that the child is not in full time attendance at a school, college or university, or dependent by reason of any mental or physical disability;
+(c) the child becomes 18 years old, unless the child continues to be dependent by reason of any mental or physical disability;
+(d) the child marries;
+(e) the child dies.
+[4] The pertinent portions of the above referred to Confirmation Order read as follows:
+This matter having proceeded at the Court House, 1104 Princess Avenue, Brandon, Manitoba R7A 0L9, at the request of The Minister under the B.C. Benefits (Income Assistance) Act on behalf of Donna Marie Coughlin;
+This matter being a request for confirmation of the Provisional Variation Order pronounced May 16, 2000 by the Honourable Judge Gill of the Provincial Court of British Columbia, which provisionally varies a Separation Agreement dated December 9, 1988;
+Warren Merle Coughlin and Donna Marie Coughlin, by her lawful assignee, having no objection to the content of all paragraphs of this Order;
+THIS COURT ORDERS pursuant to The Reciprocal Enforcement of Maintenance Orders Act that:
+1. The Provisional Order of The Honourable Judge G.S. Gill pronounced May 16, 2000 of the Provincial Court of British Columbia is confirmed with variation and, accordingly:
+a) Child Support pursuant to the Separation Agreement dated December 9, 1988 is not varied;
+b) The Annual Income of Warren Merle Coughlin is $52,852;
+c) Warren Merle Coughlin pay Donna Marie Coughlin support for Sharon Lynn Coughlin, born February 16, 1985 the sum of $200.00 per month on the 1st day of each month commencing January 1, 2001 so long as Sharon Lynn Coughlin is a "child" pursuant to The Family Relations Act of British Columbia;
+d) Special Provisions in the Separation Agreement dated December 9, 1988 providing for child support of $225.00 per month directly benefit the child and are not varied by this order, therefore application of the applicable guidelines would result in an amount of child support that is inequitable given those special provisions;
+e) The Amount of Child Support ordered is different from the amount that would be determined in accordance with the applicable guidelines and the reasons for having done so are hereby recorded as above set forth;
+f) The amount payable in paragraph 1(c) of this Order shall change to $425.00 per month and child support pursuant to the Separation Agreement shall terminate effective upon notice to Warren Merle Coughlin and the Maintenance Enforcement Program that Donna Marie Coughlin has terminated her assignment of maintenance rights to the Minister under the British Columbia Benefits Act;
+g) The periodic payments of support ordered be made by cash or by cheque or by money order payable to Donna Marie Coughlin and be sent to the Designated Officer, Maintenance Enforcement Program, 1104 Princess Avenue, Brandon, Manitoba R7A 6C2 pursuant to Part V of The Family Maintenance Act.
+APPELLANT'S SUBMISSIONS
+[5] A portion of the written submission of Appellant's counsel is reproduced here as follows:
+Issues to be Decided
+1. Does a Child Support "Top Up" Order of a Court, taint the deductibility of periodic contractual payments of child support settled by the parents pre-guidelines?
+2. Should the Federal Income Tax Act trump the Federal Child Support Guidelines Objectives?
+Taxpayer/Appellant's Position
+1. The Income Tax Act s. 60(1) provisions are ambiguous and therefore in interpreting them, the Court is entitled to examine the purpose of the legislation.
+Larsson 09 July 96 O'Connor J.T.C.C.
+2. The stated objectives of the Federal Child Support Guidelines are not (respectfully) to generate tax revenue (Government "tax-grab") but are to establish a fair standard, to reduce parental conflict and tension through objectivity, encourage settlement through predictability, and ensure consistency.
+F.C.S.G. Objectives s. 1
+3. The B.C. Provincial Judge's Order was "provisional" only and therefore could not affect the "commencement date" of the payments.
+4. The Manitoba High Court Judge's Order confirmed the "commencement date" and all other terms of the Separation Agreement.
+5. Child Support paid under a pre-May 1, 1997 agreement continue to be subject to the inclusion/deduction regime for income tax purposes, unless the agreement is changed on or after May 1, 1997 to increase or decrease child support.
+6. The case at bar is distinguishable, with respect, from the caselaw attached, in that here we have:
+a) an unvaried pre-guideline agreement
+b) a top-up or free standing order, not radically changing or superseding the agreement but (admittedly) changing the total amount payable (not determinative).
+[6] Appellant's counsel, in essence, argued that the Agreement was not varied to change the child support amounts and that the Order did not "change the commencement date". He submitted that the Confirmation Order confirmed the provisional Order of the Provincial Court of British Columbia, that it specifically provided that child support pursuant to the Separation Agreement dated December 9, 1998 was not varied and that the $2,700 (being $225 a month for 2001) was paid pursuant to the aforesaid Separation Agreement and was not varied within subparagraph 56.1(4)(b)(ii) of the definition of "commencement day". His basis for that submission was that the Agreement was not varied after April 1997 to change the child support amounts payable to the recipient.
+[7] Counsel sought to buttress that argument by adding that the monthly payment had to be "topped up" by $200 because of the Federal Support Guidelines which were not in existence in 1988.
+ANALYSIS AND CONCLUSION
+[8] While I have sympathy with the Appellant's argument respecting the superimposition of federal guidelines and new tax legislation, I conclude that the Appellant cannot succeed. The definition of "commencement day" reads as follows:
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+Subparagraph (iii) cannot be read to assist the Appellant. In other words, the opening portion of the definition of "commencement day" speaks of "an agreement or order". Subparagraph (i) refers to "a subsequent agreement or order...made after April 1997." One could argue that the term "a subsequent agreement or order" would require an agreement subsequent to a previous agreement or an order subsequent to a previous order and would not include an order subsequent to a prior agreement. Such interpretation would assist the Appellant. Obviously, this legislative language is poorly drafted, and therefore resulting in dis-ease of interpretation. However, the intent of the legislation, regardless of its philosophical acceptability, appears to be that any change of an arrangement, either mutually agreed to or created by Court order is meant to create a commencement day.
+[9] Even though the Confirmation Order states that child support pursuant to the Separation Agreement is not varied, the Appellant's circumstances fall within the ambit of subparagraph (iii) because the effect of the Confirmation Order, made after April 1997:
+is to change the total child support amounts payable to
+Donna by the Appellant. The total amount so payable before this Order was made was $225 per month. The total amount after this Order was made is $425 per month, albeit $225 of that sum is payable pursuant to the Separation Agreement.
+[10] Accordingly, and regrettably, the appeal is dismissed.
+Signed at Ottawa, Canada this 13th day of August, 2004.
+"R.D. Bell"
+Bell, J.
+CITATION:
+2004TCC524
+COURT FILE NO.:
+2003-1795(IT)I
+STYLE OF CAUSE:
+Warren Coughlin v. The Queen
+PLACE OF HEARING:
+Brandon, Manitoba
+DATE OF HEARING:
+June 1, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice R.D. Bell
+DATE OF JUDGMENT:
+August 13, 2004
+APPEARANCES:
+For the Appellant:
+Robert Johnston, Q.C.
+Counsel for the Respondent:
+Penny Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert Johnston, Q.C.
+Firm:
+Roy, Johnston & Co.
+Brandon, Manitoba
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

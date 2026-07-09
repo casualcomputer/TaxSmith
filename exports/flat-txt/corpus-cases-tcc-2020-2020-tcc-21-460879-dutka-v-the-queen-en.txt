@@ -1,0 +1,177 @@
+Title: Dutka v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/460879/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-21-460879-dutka-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-02-12
+
+# Dutka v. The Queen
+
+- Citation: 2020 TCC 21
+- Decision date: 2020-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4257, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dutka v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-02-12
+Neutral citation
+2020 TCC 21
+File numbers
+2019-2141(IT)APP
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2141(IT)APP
+BETWEEN:
+TERRI DUTKA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 9, 2019, at Calgary, Alberta
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Agent for the Applicant:
+Blaine V. Alward
+Counsel for the Respondent:
+Matthew Chao
+JUDGMENT
+The Application for an Order extending the time within which a Notice of Objection from the reassessments made under the Income Tax Act for the Applicant’s 2011 and 2012 taxation years may be filed is dismissed, without costs.
+Signed at Toronto, Ontario, this 3rd day of February 2020.
+“R. MacPhee”
+MacPhee J.
+Citation: 2020 TCC 21
+Date: 20200131
+Docket: 2019-2141(IT)APP
+BETWEEN:
+TERRI DUTKA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+MacPhee J.
+[1] Terri Dutka (the Applicant) has applied for an extension of time to institute an Appeal from the reassessment of her 2011 and 2012 taxation years pursuant to section 167 of the Income Tax Act (the “ITA”).
+BACKGROUND
+[2] On September 24, 2015, the Minister of National Revenue (the “Minister”) reassessed the Applicant for her 2011 and 2012 taxation years.
+[3] On December 24, 2015, the Applicant filed a Notice of Objection with the Minister.
+[4] On January 22, 2016, the Canada Revenue Agency (the “CRA”) rejected the Notice of Objection as it was not filed within 90 days from the mailing date of the reassessments.
+[5] On March 2, 2016, the Applicant filed an Application for extension to file a Notice of Objection with the Minister. On March 16, 2016, the Minister granted this extension of time.
+[6] On July 6, 2017, the CRA provided a Notice of Confirmation which disallowed the Objection and confirmed the reeassessments. No issue has been raised concerning its receipt.
+[7] For reasons that have not been explained, on July 12, 2017 the Applicant received correspondence from the CRA telling her that her Notice of Objection had been received and that she would be contacted when her Objection was assigned.
+[8] Based on the date of the Notice of Confirmation, the Applicant had until October 4, 2017 to file a Notice of Appeal.
+[9] On May 13, 2019, the Applicant filed an Application for an extension of time to file a Notice of Appeal from the reassessment of her 2013 taxation year pursuant to section 167 of the ITA.
+ISSUES
+[10] The issue is whether the Applicant can be granted an Order extending the time to file a Notice of Appeal with this Court pursuant to section 167 of the ITA because of the Applicant’s reliance on the Minister’s letter dated July 12, 2017.
+ANALYSIS
+Extension of time to appeal:
+[11] The relevant provisions to decide whether to grant or dismiss the Application are subsection 169(1) and section 167 of the ITA:
+Appeals to the Tax Court of Canada and the Federal Court of Appeal
+169 (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been sent to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+Extension of time to appeal
+167 (1) Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an Application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+(…)
+(5) No order shall be made under this section unless:
+(a) the Application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the Application and the circumstances of the case, it would be just and equitable to grant the Application,
+(iii) the Application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[12] The way to calculate deadlines is not specified in the ITA. However, the Interpretation Act [1] speaks to the issue.
+[13] Subsection 27(5) of the Interpretation Act explains that where anything is to be done within a time from a specified day, the time does not include the initial day. For the Applicant, the 90 day countdown started on July 7, 2017.
+[14] Ninety days from July 7, 2017 falls on October 4, 2017. This day is not excluded in the calculation of the deadline. Consequently, the Applicant had until October 4, 2017 to file a Notice of Appeal.
+[15] Subsection 167(5) explains that the Application for extension of time to appeal must be made within one year after the expiration of the time determined by section 169 to appeal.
+[16] This means that the Applicant had one year and ninety days after the Notice of Confirmation dated July 6, 2017 to file the Application for an extension of time. She therefore had until October 4, 2018.
+[17] Since the Application for an extension to file a Notice of Appeal was filed on May 13, 2019, the Applicant did not comply with the condition set out in paragraph 167(5)(a) of the ITA.
+A survey of relevant case law:
+[18] The leading authority on an Application for extension of time to file a Notice of Objection or a Notice of Appeal is the Federal Court of Appeal decision in Canada v Carlson. This decision provides that:
+Both the Minister and the Tax Court are precluded under paragraphs 166.1(7)(a) and 166.2(5)(a) of the Act from extending the time in which to file a notice of objection unless the Application is made within one year after the expiry of the time in which a notice of objection could have been made. [2]
+[19] In the Moon v R [3] decision, Justice Lamarre, as she then was, stated:
+Once it has been found that the Application for an extension of time was not made within the one-year limit imposed by paragraph 167(5)(a) of the ITA, this Court has no discretion to extend that time and the question whether it would be just and equitable to grant an extension of time may not be raised (see Minister of National Revenue v Minuteman Press of Canada Co., [1988] 1 CTC 440, 88 DTC 6278 (FCA), and Lamothe v The Queen, 2002 DTC 1559 (TCC).
+[20] In the Edgelow v R [4] decision, Justice Miller denied an Application for extension of time to file a notice of objection which was one day late. She noted that as harsh as this may be, she has no discretion to grant an extension of time outside of what is provided for in the Act.
+[21] As Justice Lyons explained in Odebala-Fregene v Canada [5] :
+The language is clear. The requirements are strict. The time limit cannot be waived. An extension of time to file a notice of objection cannot be granted unless the Application is made within one after the expiration of the time for serving an objection or making a request under the Act. These principles have been consistently noted at the appellate level and applied by this Court.
+[22] In the Dubois v R [6] case , Justice Tardif cited the Sunil Lighting Products v Minister of National Revenue [7] decision in which Justice Sobier found that the Tax Court is not entitled to grant equitable remedies:
+The jurisprudence clearly affirms that the Tax Court of Canada is not a court of equity and its jurisdiction is based within its enabling statute. In addition, the Court cannot grant declaratory relief given that such relief is beyond the jurisdiction of the Court. In an income tax appeal, the Court's powers are spelled out in subsection 171(1) of the Income Tax Act. Consequently, these powers essentially entail the determination of whether the assessment was made in accordance with the provisions of the Income Tax Act.
+[23] Justice Rothstein, as he then was, of the Federal Court of Appeal in Chaya v R noted that:
+[…] It is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity. If the applicant considers the law unfair, his remedy is with Parliament, not with the Court. [8]
+[24] Based on the jurisprudence, an appropriate treatment of a request for an extension of time to appeal to the Tax Court of Canada (the “Tax Court”) is to determine whether the taxpayer has elapsed the one year plus 90 days threshold. If so, to deny the request as no further analysis is usually necessary. The request is denied on the basis that the taxpayer has not met the first requirement set out in subsection 167(5) of the ITA.
+[25] The Tax Court is a statutory court. It has no jurisdiction to grant an extension of time if the Application is filed after the one year plus 90-day deadline prescribed by the ITA. [9] It is not an equitable court and has no power to address unfairness. [10]
+[26] As is briefly canvassed above, the Tax Court of Canada and the Federal Court of Appeal have held on numerous occasions that when a taxpayer is unable to meet the deadline prescribed by the ITA they cannot be saved by section 167.
+Case Law that deal with misleading information from the CRA:
+[27] The complicating factor in the case at hand is the fact that, for reasons that have not been explained, on July 12, 2017 the Applicant received a follow-up letter stating that the CRA was about to review her Notice of Objection. Both the Applicant and accountant understood the letter to mean that a Notice of Appeal did not need to be filed as the Minister was still reviewing the Notice of Objection. As noted above, this letter came after the Notice of Confirmation was served on the Applicant.
+[28] In general, the fact that the Notice of Confirmation was never received by the taxpayer [11] or that false information was provided by the CRA [12] does not allow the Court to grant an extension of time after the time limit, as long as the Minister can prove that Notice was sent [13] .
+[29] In the Michaud v Canada [14] case, Justice Woods stated:
+Unfortunately, the deadline for making this Application cannot be ignored on grounds of fairness, even if the fault lies with the CRA: Carlson v The Queen, 2002 DTC 6893 (FCA) at para 13 and Moulton v The Queen, [2002] 2 CTC 2395. As stated by Bowman C.J. in Moulton, it may be shocking for taxpayers to learn that they cannot rely on advice provided by the CRA.
+The agent for Mr. Michaud submitted that the condition in s. 166.2(5)(b)(ii) is satisfied because it is just and equitable that the Application be granted. The problem with this submission is that this is an additional requirement, not an alternate requirement. All of the conditions in s. 166.2(5) must be satisfied.
+[30] Even where incorrect information is provided by the CRA, I am bound by the provisions set out in the Act. In Wellington v R [15] , Justice Bowie stated this principle clearly and cited the Supreme Court’s decision in MNR v Inland Industries Ltd.: [16]
+The agent of CRA gave the Applicant wrong advice. A taxpayer’s obligation to pay tax is not vitiated if the Minister has negligently advised the taxpayer that he or she will not have to pay tax. Justice Pigeon, in Minister of National Revenue v Inland Industries Ltd., stated the rule in terms particularly relevant to the current case: “. . . the Minister cannot be bound by any approval given when the conditions prescribed by law were not met.”
+[31] Given the wording of the legislation, there is no discretion that allows me to find in favour of the Applicant. [17] The Tax Court is a statutory court, not an equitable court. It has no power to address unfairness. [18] Allowing this Application is neither supported by the legislation nor the jurisprudence.
+[32] The wording of section 167 and paragraph 167(5)(a) of the ITA is clear and unambiguous. The language of paragraph 167(5)(a) does not allow the Tax Court to conclude that the time stopped running because the Applicant was under the impression that the CRA would contact her when her Objection was assigned.
+[33] For the reasons set forth above, I must dismiss the Application.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated February 3, 2020.
+Signed at Ottawa, Canada, this 12th day of February 2020.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2020 TCC 21
+COURT FILE NO.:
+2019-2141(IT)APP
+STYLE OF CAUSE:
+TERRI DUTKA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+December 9, 2019
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF AMENDED REASONS FOR JUDGMENT:
+February 12, 2020
+DATE OF JUDGMENT:
+February 3, 2020
+APPEARANCES:
+Agent for the Applicant:
+Blaine V. Alward
+Counsel for the Respondent:
+Matthew Chao
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Interpretation Act, RCS 1985, c. I-21.
+[2] Canada v Carlson, 2002 FCA 145 at para 10 [Carlson].
+[3] Moon v R, 2010 TCC 393.
+[4] Edgelow v R, 2011 TCC 255.
+[5] Odebala-Fregene v Canada, 2015 TCC 44, at para 11.
+[6] Dubois v R, 2006 TCC 403.
+[7] Sunil Lighting Products v Minister of National Revenue, [1993] TCJ No 666 at para 18.
+[8] Chaya v R, 2004 FCA 327 at para 4.
+[9] Carlson, supra note 2 at para 14; See also O’Byrne v Canada, 2015 FCA 239 at paras 9 and 12.
+[10] Smith v MNR, [1989] 1 CTC 2413.
+[11] Vigier v The Queen, 2004 TCC 763 at para 7; Carvalho v The Queen, 2007 TCC 709; Rossi v Canada, 2015 FCA 267 at para 7.
+[12] Michaud v The Queen, 2011 TCC 573 at para 13 [Michaud].
+[13] Aztec Industries Inc. v Canada, [1995] 1 CTC 327 (FCA) at para 21; Lambo v The Queen, 2011 TCC 293.
+[14] Michaud, supra note 14 at paras 13-14.
+[15] Wellington v R, 2004 TCC 313 at para 16.
+[16] MNR v Inland Industries Ltd., [1974] SCR 514 (SCC).
+[17] In Lambo v R, 2011 TCC 293 [Lambo] the Tax Court found in favour of the Applicant where the CRA had provided a misleading letter. But in that matter the facts are different in that the Notices of Reassessment in issue were also sent to the wrong address.
+[18] Smith v MNR, [1989] 1 CTC 2413.

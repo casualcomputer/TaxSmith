@@ -1,0 +1,241 @@
+Title: Merrins v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26526/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-470-26526-merrins-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-07-28
+
+# Merrins v. The Queen
+
+- Citation: 2005 CCI 470
+- Decision date: 2005-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3209, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merrins v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-28
+Référence neutre
+2005 CCI 470
+Numéro de dossier
+2004-2898(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2898(IT)I
+ENTRE :
+HUGH MERRINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L'honorable D.G.H. Bowman, juge en chef
+Observations écrites :
+Pour l'appelant : L'appelant lui-même
+Avocat de l'intimée : Me Michael Ezri
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés contre les nouvelles cotisations établies aux termes de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont rejetés.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2005.
+« D.G.H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 26e jour de janvier 2006.
+Joanne Robert, traductrice
+Référence : 2005CCI470
+Date : 20050728
+Dossier : 2004-2898(IT)I
+ENTRE :
+HUGH MERRINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les appels sont interjetés contre de nouvelles cotisations établies pour les années d'imposition 2000 et 2001 de l'appelant. L'affaire a été instruite à la lumière d'observations écrites, sans comparution des parties.
+[2] L'appelant était un résident de l'Irlande au moment donné et l'est toujours. Pendant les années en cause, l'appelant avait trois sources de revenu; les trois sources provenaient du Canada, et deux d'entre elles étaient exonérées d'impôt en vertu de la Loi de 1967 sur la Convention entre le Canada et l'Irlande en matière d'impôt sur le revenu[1] (la « Convention » ). Le litige en l'espèce découle de la présumée imposition de ce revenu exonéré en vertu d'une convention fiscale.
+[3] Les questions et les faits visés dans ces appels sont presque identiques aux questions et faits que l'appelant a soulevés dans l'affaire Merrins v. R., [2002] 4 C.T.C. 2085 (C.C.I.), qui portait sur l'année d'imposition 1998 de l'appelant. Dans l'affaire Merrins, le juge Rip a examiné les questions avec circonspection et a rendu une décision qui a ensuite été confirmée par la Cour d'appel fédérale, [2003] 4 C.T.C. 259. Les appels dont je suis saisi visent les années d'imposition 2000 et 2001, et méritent un examen indépendant des faits et des questions.
+[4] Voici le revenu de toutes provenances que l'appelant a gagné pendant les années d'imposition en cause :
+2000 2001
+Prestations de pension de retraite 9 241,08 $ 9 472,00 $
+Prestations du Régime de pensions 6 929,26 6 313,00
+du Canada (le « RPC » )
+Prestations de la Sécurité de 5 079,51 5 232,00
+la vieillesse (la « SV » )
+Total 21 249,85 $ 21 017,00 $
+[5] Comme l'appelant est un non-résident, les sources de revenu ci-dessus sont assujetties à une retenue d'impôt selon la partie XIII de la Loi de l'impôt sur le revenu[2]. Toutefois, pour chacune des années d'imposition en cause, l'appelant a exercé le choix prévu à l'article 217 pour que son obligation fiscale à l'égard des sommes en question soit plutôt déterminée selon la partie I de la Loi.
+[6] Deux grandes questions se posent :
+1) Comment les cotisations d'impôt de l'appelant devraient-elles être établies si le choix prévu à l'article 217 n'a pas été exercé? Bien que dans les faits, l'appelant ait exercé le choix prévu à l'article 217, le fait d'examiner ce qui se serait produit s'il ne l'avait pas fait est utile dans le cadre de l'analyse.
+2) Quelles sont les répercussions de l'exercice du choix prévu à l'article 217 sur les cotisations de l'appelant?
+Voici les questions incidentes qui découlent des deux grandes questions susmentionnées :
+a) Les prestations de la SV de l'appelant sont-elles des « pensions » au sens de l'article XI de la Convention, de sorte qu'elles sont exonérées d'impôt?
+b) Si le revenu de l'appelant fait l'objet d'une cotisation aux termes de la partie XIII de la Loi, l'appelant peut-il demander les crédits d'impôt non remboursables prévus à l'article 118 de la partie I de la Loi?
+c) Si le revenu de l'appelant fait l'objet d'une cotisation conformément au choix exercé en vertu de l'article 217 de la Loi, l'appelant peut-il également faire valoir que les modalités de la Convention s'appliquent?
+d) L'appelant a-t-il droit au crédit pour pension prévu au paragraphe 118(3) de la Loi?
+J'aborderai chacune de ces questions incidentes à la lumière des deux grandes questions.
+1. Comment les cotisations de l'appelant devraient-elles être établies si le choix prévu à l'article 217 n'a pas été exercé?
+[7] Selon la partie XIII, une personne non-résidente est tenue de payer une retenue d'impôt de 25 % sur certains genres de revenu de source canadienne. En règle générale, cette retenue d'impôt s'applique aux sources de revenu gagné sans activité, y compris les prestations de pension de retraite et les prestations de pension. La disposition qui est pertinente dans la présente affaire se trouve à l'alinéa 212(1)h), qui est libellé comme suit :
+212(1) Toute personne non-résidente doit payer un impôt sur le revenu de 25 % sur toute somme qu'une personne résidant au Canada lui paie ou porte à son crédit, ou est réputée en vertu de la partie I lui payer ou porter à son crédit, au titre ou en paiement intégral ou partiel :
+[...]
+h) - d'un paiement d'une prestation de retraite ou de pension, autre :
+[...]
+(iii.2) qu'un montant visé à l'alinéa 110(1)f) dans la mesure où le montant serait, si la personne non-résidente avait résidé au Canada tout au long de l'année d'imposition dans laquelle le montant a été versé, déductible dans le calcul de son revenu imposable ou du revenu imposable de son époux ou conjoint de fait,
+[...]
+[8] Comme l'alinéa 212(1)h) s'applique aux trois sources de revenu de l'appelant, les trois sources sont assujetties à une retenue d'impôt de 25 %[3].
+[9] Le sous-alinéa 212(1)h)(iii.2) n'est pas utile pour l'appelant. Le sous-alinéa 110(1)f)(i) permet de déduire « une somme exonérée de l'impôt sur le revenu au Canada par l'effet d'une disposition de quelque convention ou accord fiscal avec un autre pays qui a force de loi au Canada » . Toutefois, le sous-alinéa 212(1)h)(iii.2) précise que cela ne s'applique que dans la mesure où le montant serait déductible « si la personne non-résidente avait résidé auCanada tout au long de l'année d'imposition » . Seul un « résident d'Irlande » , que la Convention définit comme « toute personne qui réside en Irlande, aux fins de l'impôt irlandais et qui ne réside pas au Canada, aux fins de l'impôt canadien » (sous-alinéa II(1)e)), peut bénéficier de l'exonération d'impôt pour les pensions qui est prévue par la Convention. Par conséquent, si l'appelant avait « résidé au Canada tout au long de l'année d'imposition » , il n'aurait pas pu bénéficier de l'exonération prévue par la Convention. Voilà pourquoi je ne pense pas que l'appelant puisse se prévaloir du sous-alinéa 212(1)h)(iii.2) pour réduire les montants devant être considérés comme des prestations de retraite ou de pension aux termes de l'alinéa 212(1)h).
+[10] Beaucoup de non-résidents peuvent bénéficier d'une convention fiscale entre le Canada et leur pays de résidence. Sauf disposition contraire, en cas d'incompatibilité entre une disposition de la convention fiscale et une disposition de la Loi, la convention fiscale l'emporte généralement[4].
+[11] Dans le cas présent, l'appelant peut bénéficier de la Convention entre le Canada et l'Irlande, dont les parties pertinentes sont libellées comme suit :
+Article VI
+1. Le taux de l'impôt canadien sur le revenu (autre que le revenu provenant d'affaires exercées au Canada ou de fonctions remplies au Canada) tiré de sources situées au Canada par un résident d'Irlande n'excédera pas 15 p. 100.
+[...]
+Article XI
+1. Toute pension ou annuité tirée de sources situées au Canada par un particulier résidant en Irlande sera exonérée de l'impôt canadien.
+[...]
+3. L'expression « pension » signifie des paiements périodiques effectués en considération de services antérieurs.
+[...]
+[12] La Convention l'emporte sur le paragraphe 212(1) de la Loi de deux façons : premièrement, elle réduit le taux de retenue d'impôt de 25 % à 15 %; et deuxièmement, elle exonère d'impôt les « pensions » . Pour l'application de la Convention, le terme « pension » désigne « des paiements périodiques effectués en considération de services antérieurs » . Bien que cela comprenne les prestations de pension de retraite et du RPC de l'appelant, selon le juge Rip dans l'arrêt Merrins, cela ne comprend pas ses prestations de la SV. Voici ce que le juge Rip a écrit :
+[14] [...] l'admissibilité à la SV est liée non pas à la prestation de services antérieurs, mais plutôt à des exigences en matière d'âge et de résidence.
+[...]
+[16] Dans le présent appel, l'admissibilité de l'appelant à la SV est basée sur le fait que l'appelant a plus de 65 ans et que, avant de devenir un non-résident, il a résidé au Canada pendant au moins 20 ans après avoir eu 18 ans. Donc, les paiements que l'appelant a reçus au titre de la SV ne sont pas des paiements qui étaient effectués en considération de services antérieurs de sorte qu'ils seraient admissibles comme paiements de « pension » au sens de l'article XI de la Convention Canada-Irlande et qu'ils seraient exonérés d'impôt.
+[13] Comme les prestations de pension de retraite et du RPC de l'appelant sont exonérées d'impôt en vertu de la Convention, seules les prestations de la SV de l'appelant sont assujetties à la retenue d'impôt prévue à l'article 212, et ce, seulement au taux d'imposition réduit prévu par la Convention, soit 15 %. Par conséquent, les obligations fiscales de l'appelant pour les années 2000 et 2001 selon la partie XIII s'élèvent respectivement à 761,92 $ (5 079,51 $ x 15 %) et à 784,80 $ (5 232 $ x 15 %).
+[14] Souhaitant réduire davantage ses obligations fiscales, l'appelant fait valoir qu'il a droit aux crédits d'impôt non remboursables de la partie I, plus particulièrement le crédit personnel de base, le crédit en raison de l'âge et le crédit pour pension. Ce n'est pas le cas, pour deux raisons. Premièrement, le paragraphe 214(1) interdit toute déduction quelconque de l'impôt exigible sous le régime de l'article 212. Deuxièmement, le préambule des paragraphes 118(1), (2) et (3) indique clairement que les crédits d'impôt non remboursables ne peuvent être utilisés que pour réduire l'impôt exigible aux termes de la partie I (arrêt Merrins, paragraphes 7 à 10).
+2. Quelles sont les répercussions de l'exercice du choix prévu à l'article 217 sur les cotisations de l'appelant?
+[15] En vertu du paragraphe 217(2), un contribuable non résident peut choisir de ne pas être assujetti à la retenue d'impôt de la partie XIII et, plutôt, faire calculer son impôt selon la partie I de la Loi. L'appelant a fait ce choix pour chacune de ses années d'imposition 2000 et 2001 en produisant une déclaration de revenus (TI - Générale) pour l'année.
+[16] Avant de passer au fonctionnement du choix prévu à l'article 217, il serait bon d'examiner comment la partie I s'applique normalement aux non-résidents.
+[17] Selon la partie I de la Loi, les résidents canadiens sont assujettis à l'impôt sur leur « revenu imposable » pour l'année (paragraphes 2(1) et (2)). Le revenu imposable d'un résident canadien correspond à son revenu déterminé selon la partie I, conformément à la section B, moins les déductions permises par la section C.
+[18] En revanche, les non-résidents sont assujettis à l'impôt de la partie I uniquement si certaines conditions sont remplies, et ce, sur certains genres de revenu seulement. Le paragraphe 2(3) stipule qu'une personne non-résidente est assujettie à l'impôt de la partie I seulement si, à un moment donné de l'année ou d'une année antérieure, elle a occupé un emploi au Canada, a exploité une entreprise au Canada ou a disposé d'un bien canadien imposable. En outre, un non-résident n'est assujetti à l'impôt que sur son « revenu imposable gagné au Canada » (le « RIGC » ) pour l'année. Le RIGC d'un non-résident pour l'année est déterminé conformément à la section D. L'article 115 de la section D énumère les divers montants qui doivent être inclus dans le calcul du RIGC du non-résident[5]. Certains genres de revenu gagné sans activité qui sont habituellement assujettis à l'impôt de la partie XIII, comme les prestations de pension de retraite et les prestations de pension, ne font pas partie de cette liste, ce qui me ramène au choix prévu à l'article 217.
+[19] En vertu du paragraphe 217(2), un non-résident peut choisir que son obligation fiscale à l'égard de certains montants soit déterminée selon la partie I plutôt que la partie XIII. Les contribuables non résidents font généralement ce choix lorsque leur obligation fiscale se trouve à être inférieure si elle est calculée aux termes de la partie I en raison de la série de déductions et de crédits qu'ils peuvent demander aux termes de cette partie. Les montants qui sont admissibles aux fins de ce choix sont définis au paragraphe 217(1) et sont collectivement appelés les « prestations canadiennes » . Étant donné que les trois sources de revenu de l'appelant sont considérées comme des « prestations canadiennes » , elles sont admissibles aux fins de ce choix.
+[20] Lorsque le choix prévu à l'article 217 est exercé, certaines conditions importantes s'appliquent. Par exemple, l'alinéa 217(3)b) indique comment le RIGC du non-résident pour l'année sera déterminé. L'alinéa 217(3)b) stipule ce qui suit :
+217(3) Lorsqu'une personne non-résidente fait le choix prévu à l'alinéa (2)b) pour une année d'imposition, les présomptions suivantes s'appliquent dans le cadre de la partie I :
+[...]
+b) son revenu imposable gagné au Canada pour l'année est réputé égal au plus élevé des montants suivants :
+(i) le montant qui, n'était le sous-alinéa (ii), correspondrait à son revenu imposable gagné au Canada pour l'année si, à la fois :
+(A) l'alinéa 115(1)a) comprenait le sous-alinéa suivant :
+« (i.1) que ses prestations canadiennes pour l'année, au sens du paragraphe 217(1), » ,
+(B) l'alinéa 115(1)f) était remplacé par ce qui suit :
+« f) les autres déductions permises pour le calcul du revenu imposable et qu'il est raisonnable de considérer comme étant entièrement applicables aux montants visés aux sous-alinéas a)(i) à (vi); »
+(ii) le revenu de la personne pour l'année (calculé compte non tenu du paragraphe 56(8)), moins le total des déductions permises pour le calcul du revenu imposable et qu'il est raisonnable de considérer comme étant entièrement applicables aux montants visés aux sous-alinéas 115(1)a)(i) à (vi).
+[21] Ainsi, de façon générale, aux termes de l'alinéa 217(3)b), le RIGC du non-résident est réputé être égal au plus élevé des deux montants suivants :
+(i) son RIGC pour l'année, tel qu'il a été déterminé selon la section D, plus ses « prestations canadiennes » (sous-alinéa 217(3)b)(i));
+(ii) son revenu (de toutes provenances) pour l'année (sous-alinéa 217(3)b)(ii)).
+[22] Le sous-alinéa 217(3)b)(i) prévoit que le RIGC d'un non-résident pour l'année doit être déterminé conformément à la section D (c.-à-d. de la manière dont le revenu d'un non-résident est habituellement déterminé selon la partie I)[6]. Toutefois, pour l'application de ce sous-alinéa, l'article 115 de la section D a été modifié de façon que les prestations canadiennes du non-résident soient incluses dans son RIGC pour l'année (division 217(3)b)(i)(A)). L'objet de cette modification est évident : il s'agit de la méthode qui permet à des montants qui sont habituellement assujettis à l'impôt de la partie XIII d'être assujettis à l'impôt de la partie I.
+[23] En vertu du sous-alinéa 217(3)b)(i), le non-résident a également droit à toutes les déductions qui sont prévues à la section D, notamment les suivantes :
+115(1)d) [...] dans la mesure où elles se rapportent à des montants inclus dans le calcul du montant déterminé selon l'un des alinéas a) à c), les déductions permises par l'un des alinéas 110(1)d) à d.2) et f) ou par le paragraphe 100.1(1); [...]
+[...]
+f) lorsque la totalité, ou presque, du revenu de la personne non-résidente pour l'année est incluse dans le calcul de son revenu imposable gagné au Canada pour l'année, les autres déductions permises pour le calcul du revenu imposable et qu'il est raisonnable de considérer comme étant entièrement applicables aux montants visés aux sous-alinéas a)(i) à (vi) (tel qu'il a été modifié par la disposition 217(3)b)(i)(B).
+Le sous-alinéa 110(1)f)(i) stipule ce qui suit :
+110(1) Pour le calcul du revenu imposable d'un contribuable pour une année d'imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+[...]
+f) [...] toute somme dans la mesure où elle a été incluse dans le calcul du revenu du contribuable pour l'année, représentant, selon le cas :
+(i) une somme exonérée de l'impôt sur le revenu au Canada par l'effet d'une disposition de quelque convention ou accord fiscal avec un autre pays qui a force de loi au Canada,
+[...]
+[24] En l'espèce, le ministre a fixé, en application du sous-alinéa 217(3)b)(i), le RIGC de l'appelant à 5 079,51 $ pour 2000 et à 5 232 $ pour 2001. Ces montants représentent le revenu de l'appelant qui n'est pas exonéré en vertu d'une convention fiscale, c'est-à-dire ses prestations de la SV.
+[25] Le sous-alinéa 217(3)b)(ii) est beaucoup plus général que le sous-alinéa (i) : il tient compte du revenu de toutes provenances du non-résident. Cela comprend non seulement les montants déterminés conformément au sous-alinéa 217(3)b)(i) (à savoir les sources canadiennes de revenus imposables selon la partie I et les sources canadiennes de revenus imposables selon la partie XIII, mais admissibles aux fins du choix prévu à l'article 217), mais également tous les autres montants, tels que ceux qui ne sont pas admissibles aux fins du choix prévu à l'article 217, les revenus étrangers et les revenus exonérés en vertu d'une convention fiscale.
+[26] Dans le cas présent, le ministre a fixé, en application du sous-alinéa 217(3)b)(ii), le RIGC de l'appelant à 21 249,85 $ pour 2000 et à 21 017 $ pour 2001. Ces montants représentent les trois sources de revenu de l'appelant. Vu que le RIGC de l'appelant est réputé être égal au plus élevé des montants déterminés conformément aux sous-alinéas 217(3)b)(i) et (ii), le ministre a fixé le RIGC de l'appelant pour les années d'imposition 2000 et 2001 à 21 249,85 $ et 21 017 $ respectivement.
+[27] Voici le raisonnement que l'avocat de l'intimée a fourni pour justifier le fait de tenir compte du revenu exonéré en vertu d'une convention fiscale lorsque le choix prévu à l'article 217 est exercé[7] :
+[TRADUCTION]
+L'article 217 de la Loi a pour objet de permettre à un non-résident de payer de l'impôt sur son revenu non exonéré en vertu d'une convention fiscale, calculé selon la partie I de la Loi, lorsque des crédits d'impôt non remboursables peuvent être utilisés pour réduire l'impôt exigible. Le revenu exonéré en vertu d'une convention fiscale n'est inclus dans le calcul du revenu aux termes de l'article 217 que pour faire en sorte que le bon montant d'impôt soit payé à l'égard des sources de revenu sur lesquelles le Parlement est en droit de percevoir de l'impôt. (Ministère des Finances, notes techniques, article 217)
+[28] L'article 217 existe uniquement pour le bien des non-résidents qui sont assujettis à un taux d'imposition plus élevé selon la partie XIII que celui auquel ils seraient assujettis aux termes de la partie I s'ils résidaient au Canada. Toutefois, pour faire en sorte qu'un non-résident soit assujetti à un taux d'imposition qui correspond au taux auquel il serait assujetti s'il résidait au Canada, l'article 217 porte que le revenu de toutes provenances du non-résident doit être pris en considération (comme ce serait le cas pour un résident canadien)[8].
+[29] Bien entendu, le revenu de toutes provenances d'un non-résident comprend souvent des montants qui ne sont pas normalement assujettis à l'impôt de la partie I, comme les revenus étrangers, les revenus exonérés en vertu d'une convention fiscale ou d'autres montants qui ne sont pas admissibles aux fins du choix prévu à l'article 217 (collectivement appelés les « montants non imposables » ). Bien que ces montants non imposables soient pris en considération pour veiller à ce que le bon taux d'imposition soit appliqué aux montants imposables, les montants non imposables ne sont pas supposés être assujettis à l'impôt. C'est pour cette raison que le paragraphe 217(6) prévoit un crédit d'impôt spécial qui a pour but de compenser cette portion de l'impôt de la partie I qui est attribuable à ces montants non imposables. Le paragraphe 217(6) est libellé comme suit :
+217(6) Le résultat du calcul ci-après est déductible dans le calcul de l'impôt payable en vertu de la partie I pour une année d'imposition de la personne non-résidente qui fait le choix prévu à l'alinéa (2)b) pour l'année :
+A × [(B - C) / B]
+où :
+A représente l'impôt qui, n'était le présent paragraphe, serait payable par elle pour l'année en vertu de la partie I;
+B le montant déterminé selon le sous-alinéa (3)b)(ii) à son égard pour l'année;
+C le montant déterminé selon le sous-alinéa (3)b)(i) à son égard pour l'année.
+[30] Conformément à l'article 217, le ministre a établi de nouvelles cotisations[9] à l'égard de l'appelant aux termes de la partie I, comme suit[10] :
+2000 2001
+Prestations de pension de retraite 9 241,08 $ 9 472,00 $
+Prestations du RPC 6 929,26 $ 6 313,00 $ Prestations de la SV 5 079,51 $ 5 232,00 $
+Revenu de toutes provenances net 21 249,85 $ 21 017,00 $
+conformément au sous-alinéa 217(3)b)(ii)
+Taux d'imposition de la partie I 17 % 16 %
+Impôt de la partie I 3 612,33 $ 3 362,72 $
+Crédits d'impôt non remboursables (1 829,00) (1 764,00)
+prévus à l'article 118[11]
+Impôt de la partie I avant le redressement 1 783,33 1 598,72
+prévu au paragraphe 217(6)
+Redressement prévu au paragraphe 217(6) (1 357,00) (1 200,00)
+Total partiel 426,33 398,72
+Surtaxe des non-résidents
+(48 % du total partiel)[12] 204,67 191,38
+Impôt net 631,00 $ 590,10 $
+Les redressements d'impôt prévus au paragraphe 217(6) ont été calculés comme suit :
+2000 2001
+[1] Revenu de toutes provenances net 21 249,85 $ 21,017,00 $
+conformément au sous-alinéa 217(3)b)(ii)
+[2] Revenu imposable conformément (5 079,51) (5 232,00)
+au sous-alinéa 217(3)b)(i)
+[3] Total partiel 16 170,34 $ 15 785,00 $
+Impôt de la partie I avant le redressement 1 783,33 $ 1 598,72 $ prévu au paragraphe 217(6)
+Ligne [3] divisée par ligne [1] 76 % 75 %
+Redressement prévu au paragraphe 217(6)
+(impôt attribuable à la ligne [3]) 1 357,00 $ 1 200,00 $
+[31] Pour les années d'imposition 2000 et 2001, les obligations fiscales nettes de l'appelant selon la partie I s'élevaient respectivement à 631 $ et à 590,10 $. Ces sommes sont inférieures aux sommes qui auraient été déterminées selon la partie XIII (761,92 $ et 784,80 $ pour 2000 et 2001 respectivement).
+[32] L'appelant conteste les nouvelles cotisations établies par le ministre, car il considère que son revenu exonéré en vertu d'une convention fiscale a été assujetti à l'impôt qui n'a pas été entièrement compensé par le crédit spécial prévu au paragraphe 217(6). Voici les calculs de l'appelant :
+2000 2001
+Prestations de pension de retraite 9 241,08 $ 9 472,00 $
+Prestations du RPC 6 929,26 6 313,00
+Revenu exonéré en vertu d'une 16 170,34 $ 15 785,00 $
+convention fiscale
+Taux d'imposition de la partie I 17 % 16 %
+Impôt de la partie I sur le revenu exonéré 2 748,90 $ 2 525,60 $
+en vertu d'une convention fiscale[13]
+Redressement prévu au paragraphe 217(6) (1 546,21) (1 200,00)
+Impôt net sur le revenu exonéré 1 202,69 $ 1 325,60 $
+en vertu d'une convention fiscale
+[33] Selon l'appelant, le crédit spécial prévu au paragraphe 217(6) ne compense qu'environ la moitié de l'impôt perçu sur son revenu exonéré en vertu d'une convention fiscale. Pour remédier au problème, l'appelant demande soit que son revenu exonéré en vertu d'une convention fiscale soit exclu de son RIGC (en vertu de l'alinéa 217(3)b)), soit que les redressements prévus au paragraphe 217(6) soient augmentés pour correspondre à l'impôt perçu sur son revenu exonéré en vertu d'une convention fiscale (c.-à-d. 2 748,90 $ et 2 525,60 $ respectivement).
+[34] Bien que je comprenne le point de vue de l'appelant, sauf le respect que je lui dois, je n'approuve pas les conclusions qu'il a tirées. En effet, je n'ai pas le pouvoir d'effectuer les redressements qu'il demande.
+[35] En ce qui concerne à la fois les années d'imposition 2000 et 2001 de l'appelant, le fait d'exercer le choix prévu à l'article 217 a permis à celui-ci de bénéficier de crédits d'impôt non remboursables dont il n'aurait pas pu bénéficier autrement, et, par le fait même, de réduire son impôt à payer. Le fait d'inclure ses sommes exonérées en vertu d'une convention fiscale dans son revenu a simplement eu pour effet d'augmenter le taux d'imposition appliqué à son revenu imposable. Le crédit d'impôt spécial prévu au paragraphe 217(6) compense entièrement cette partie de l'impôt à payer qui était attribuable au revenu exonéré en vertu d'une convention fiscale. Par conséquent, l'appelant a entièrement bénéficié de l'avantage prévu par la Convention.
+[36] En ce qui concerne le crédit pour pension prévu au paragraphe 118(3), le juge Rip a écrit ce qui suit dans l'arrêt Merrins :
+[37] Le paragraphe 118(8) définit aux fins du paragraphe 118(3) le « revenu de pension » qui est admissible au crédit pour pension. Le paragraphe 18(8) exclut de la définition de « revenu de pension » les prestations de la SV et du RPC et les montants inclus dans le revenu qui représenteraient par ailleurs un « revenu de pension » mais à l'égard desquels le contribuable s'est prévalu d'une déduction en vertu d'une autre disposition de la Loi. Le passage pertinent du paragraphe 118(8) se lit comme suit :
+Pour l'application du paragraphe (3), ni le revenu de pension ni le revenu de pension admissible ne comprennent les montants reçus :
+a) au titre de la pension ou du supplément prévu par la Loi sur la sécurité de la vieillesse ou d'un paiement analogue prévu par une loi provinciale;
+b) au titre d'une prestation prévue par le Régime de pensions du Canada ou par un régime provincial de pensions au sens de l'article 3 de cette loi;
+[...]
+d) au titre de l'excédent éventuel d'un montant à inclure dans le calcul du revenu du particulier pour l'année sur l'excédent éventuel de ce montant sur le total des montants déduits par le particulier pour l'année au titre de ce montant;
+[...]
+[38] Le paragraphe 118(8) dit clairement qu'une prestation de la SV ou du RPC n'est pas un « revenu de pension » . L'appelant n'a donc pas droit au crédit relativement à ces deux éléments.
+[39] Lorsqu'il choisit d'être imposé en vertu de l'article 217 de la Loi, un contribuable peut quand même indiquer des « déductions supplémentaires » à la ligne 256 de la T1 Générale pour un revenu exonéré par voie de convention. Dans le présent appel, le montant indiqué à la ligne 256 est de 15 031,56 $, ce qui inclut une déduction de 9 023,28 $ au titre d'un revenu de pension de retraite.
+[40] En l'espèce, l'appelant a indiqué une déduction à la ligne 256 de sa T1 Générale en vertu de l'alinéa 110(1)f) au titre de son revenu de pension de retraite qui est exonéré en vertu de la Convention Canada-Irlande. Ainsi, son revenu de pension de retraite qui serait normalement admissible à un crédit pour pension n'est pas admissible, et le crédit est refusé en conséquence.
+[41] De prime abord, il pourrait sembler que l'appelant se voit erronément refuser le crédit pour pension à l'égard de son revenu de pension de retraite parce que la déduction de son revenu de pension de retraite (à la ligne 256 de sa déclaration de revenu) ne figure pas dans le calcul de l'impôt payable par l'appelant à l'annexe 1 de sa déclaration de revenu. Toutefois, conformément au paragraphe 217(6) de la Loi, l'appelant a reçu un rajustement d'impôt de 1 015 $. En raison du rajustement d'impôt, est en fait crédité l'impôt calculé en vertu de l'article 217 de la Loi sur le revenu exonéré par voie de convention.
+[37] Dans ses déclarations de revenus de 2000 et de 2001, l'appelant a de nouveau déduit ses prestations du RPC et ses prestations de retraite aux termes du sous-alinéa 110(1)f)(i), et il a de nouveau reçu un crédit d'impôt en vertu du paragraphe 217(6), lequel a effectivement compensé l'impôt calculé sur son revenu exonéré en vertu d'une convention fiscale. Par conséquent, l'appelant n'a pas droit au crédit pour pension prévu au paragraphe 118(3).
+[38] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2005.
+« D.G.H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 26e jour de janvier 2006.
+Joanne Robert, traductrice
+[1] S.C. 1966-1967, partie II, ch. 75.
+[2] L.R.C. 1985, ch. 1 (5e suppl.).
+[3] Les prestations de la SV et du RPC sont considérées comme des « pensions » pour l'application de la Loi. D'après la définition qui se trouve au paragraphe 248(1), les « prestations de retraite ou de pension » comprennent « les sommes reçues dans le cadre d'une caisse ou d'un régime de retraite ou de pension [...] » . Comme l'expression « caisse de retraite » n'est pas définie dans la Loi, cette définition n'est pas très utile. Toutefois, il est évident, à la lumière des dispositions de la Loi, que le législateur voulait que les prestations de la SV et du RPC soient considérées comme des pensions pour l'application de la Loi. Par exemple, avant 1996, l'alinéa 212(1)h) était libellé comme suit :
+h) - d'un paiement d'une prestation de retraite ou de pension, autre :
+(i) qu'une pension ou un supplément prévus par la Loi sur la sécurité de la vieillesse ou un paiement semblable prévu par une loi provinciale,
+(ii) qu'une prestation versée en vertu du Régime de pensions du Canada ou d'un régime de pensions ou de rentes d'une province selon la définition qu'en donne l'article 3 de cette loi,
+[...]
+Cette disposition présume que les prestations de la SV et du RPC sont des pensions et les exclut expressément de l'application de la retenue d'impôt prévue à l'article 212. Les termes employés dans cet article sont semblables à ceux qui sont utilisés à l'alinéa 118(8)b). Voir aussi l'alinéa 56(1)a), qui inclut les prestations de la SV et du RPC dans la catégorie des pensions, de même que les termes employés aux paragraphes 56(2) et (4), à l'article 74.1 et au paragraphe 180.2(2).
+[4] Le paragraphe 5(2) de la partie II de la Loi de 1967 sur la Convention entre le Canada et l'Irlande en matière d'impôt sur le revenu est libellé comme suit :
+« En cas d'incompatibilité entre la présente Partie ou la Convention et l'application de toute autre loi, la présente Partie et la Convention l'emportent dans la mesure de cette incompatibilité. »
+[5] Par exemple, le revenu tiré d'un emploi occupé au Canada (sous-alinéa 115(1)a)(i)), le revenu tiré d'une entreprise exploitée au Canada (sous-alinéa 115(1)a)(ii)), et les gains en capital imposables tirés de la disposition de biens canadiens imposables (sous-alinéa 115(1)a)(iii) et alinéa 115(1)b)). L'article 115 permet également à un non-résident de déduire certaines pertes et de demander des déductions qui sont liées à ces montants.
+[6] Dans une déclaration T1 - Générale, il s'agirait du « revenu imposable » du non-résident, qui est indiqué à la ligne 260.
+[7] Observations écrites de l'intimée, paragraphe 26.
+[8] Avant 1997, l'article 217 ne tenait compte que des revenus de source canadienne du non-résident. Par conséquent, le revenu de pension était souvent assujetti à un taux d'imposition inférieur dans les mains d'un non-résident ayant exercé le choix prévu à l'article 217 pour que la partie I s'applique, au taux d'imposition qui s'y appliquerait dans les mains d'un résident canadien ayant le même niveau de revenu de toutes provenances. Pour « assurer une imposition équitable de tous les pensionnés » , le Budget de 1996 a modifié l'article 217 de façon que « les pensions des non-résidents [soient] imposées en fonction du revenu de toutes provenances » . Les modifications apportées avaient pour objet d'éliminer l' « avantage fiscal auquel les résidents canadiens n'[avaient] pas accès » . (Ministre des Finances, Paul Martin, Budget en bref, le 6 mars 1996) Cette intention a été confirmée dans les Notes explicatives du 6 décembre 1996 relativement à ces modifications, qui sont libellés comme suit :
+Par suite des modifications apportées à l'article 217 et applicables aux années d'imposition 1997 et suivantes, le revenu gagné à l'étranger du non-résident (de même que son revenu gagné au Canada mais non admissible pour l'application du choix en vertu de l'article 217) est pris en compte aux fins de la détermination du taux d'imposition en vertu de la partie I applicable. Cela ne signifie pas que le revenu gagné à l'étranger sera assujetti à l'impôt en vertu de la partie I au Canada, mais simplement que ce revenu peut entraîner une augmentation du taux d'imposition en vertu de la partie applicable aux revenus gagnés au Canada.
+[9] Il s'agit des nouvelles cotisations finales pour les années d'imposition 2000 et 2001 datant respectivement du 22 septembre 2003 et du 15 août 2003.
+[10] Données tirées de la réponse du ministre, paragraphe 7, et des annexes B et C de la réponse.
+[11] Ce montant comprend le crédit d'impôt personnel de base (alinéa 118(1)c)) et le crédit en raison de l'âge (paragraphe 118(2)), mais ne comprend pas le crédit pour pension (paragraphe 118(3)).
+[12] Le paragraphe 120(1) impose une surtaxe sur les montants non gagnés dans une province qui se rapproche du montant de l'impôt provincial qui serait normalement exigible.
+[13] À l'exclusion de la surtaxe de 48 % prévue au paragraphe 120(1).

@@ -1,0 +1,267 @@
+Title: Mageau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144724/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-142-144724-mageau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-06-02
+
+# Mageau c. La Reine
+
+- Citation: 2016 CCI 142
+- Decision date: 2016-06-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3097, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mageau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-06-02
+Référence neutre
+2016 CCI 142
+Numéro de dossier
+2015-1537(IT)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1537(IT)I
+ENTRE :
+Angelic Mageau,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE]
+Appel entendu le 10 décembre 2015 à Ottawa (Ontario).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Mélanie Sauriol
+JUGEMENT
+Les appels des décisions rendues en vertu de la Loi de l’impôt sur le revenu pour les années de référence 2012 et 2013 sont accueillis et les décisions sont renvoyées au ministre du Revenu national pour réexamen et nouvelle cotisation pour le motif que :
+i) L’appelante et le père étaient des parents ayant la garde partagée à l’égard de A et de C durant le mois de janvier 2014;
+ii) L’appelante était le particulier admissible à l’égard de C pour le mois de juillet 2014.
+À tous les autres égards, la décision du ministre, telle qu’elle est établie dans les avis de détermination du 20 octobre 2014, 20 mars 2015 et 20 mai 2015, est confirmée.
+Signé à Toronto (Ontario), ce 2e jour de juin 2016.
+« Guy Smith »
+Le juge Smith
+Référence : 2016 CCI 142
+Date : 20160602
+Dossier : 2015-1537(IT)I
+ENTRE :
+Angelic Mageau,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée
+MOTIFS DU JUGEMENT
+Le juge Smith
+[1] Angelic Mageau (l’« appelante ») interjette appel sous le régime de la procédure informelle découlant d’un avis de détermination daté du 20 octobre 2014, par lequel le ministre du Revenu national (le « ministre ») a déterminé qu’elle n’était pas le particulier admissible aux fins de la Prestation fiscale canadienne pour enfants (« PFCE » ) à l’égard de ses deux enfants (A et C) pour l’année de référence 2012 (de décembre 2013 à juin 2014) et l’année de référence 2013 (de juillet 2014 à novembre 2014).
+[2] Le ministre a aussi émis un avis de détermination daté du 20 mars 2015 pour l’année de référence 2013 (de décembre 2014 à mars 2015), ainsi qu’un autre avis de détermination daté du 20 mai 2015 pour, encore une fois, l’année de référence 2013 (d’avril 2015 à juin 2015).
+[3] Bien qu’il soit admis que l’appelante était un particulier admissible à l’égard de ses deux enfants aux fins de la PFCE jusqu’en novembre 2013, le ministre indique qu’elle n’était pas le particulier admissible pendant la période de douze mois qui a suivi (de décembre 2013 à novembre 2014) et que le père était le particulier admissible durant cette période.
+[4] Le ministre a également fait valoir que l’appelante était le particulier admissible à l’égard d’un enfant (C) de décembre 2014 à juin 2015, qu’elle était un parent ayant la garde partagée à l’égard de l’autre enfant (A) pendant la période allant de décembre 2014 à mars 2015 et le particulier admissible à l’égard de A pour la période qui a suivi et qui s’est achevée en juin 2015.
+[5] Afin d’établir les avis de détermination, le ministre a émis les hypothèses suivantes :
+a. L’appelante et le père sont les parents de A, né en 1999 et de C, né en 2002.
+b. L’appelante et le père vivent séparés depuis 2005.
+c. À compter du 19 novembre 2013 ou aux alentours de cette date :
+i. A et C vivaient avec leur père à temps plein.
+ii. C fréquentait l’école située à proximité du domicile du père.
+iii. A prenait un autobus scolaire pour se rendre à l’école, depuis le domicile de son père.
+iv. La résidence de A et C, telle qu’elle était enregistrée aux écoles qu’ils fréquentaient, était celle de leur père.
+d. En décembre 2014, l’appelante vivait avec C à temps plein.
+e. De décembre 2014 à février 2015, l’appelante partageait avec le père la garde de A, et les deux parents vivaient avec A sur une base d’égalité ou de quasi‑égalité.
+f. En mars 2015, l’appelante vivait avec A à temps plein.
+[6] L’appelante affirme qu’elle était en tout temps le particulier admissible à l’égard des deux enfants et elle conteste les éléments de preuve présentés par le père au ministre qui ont donné lieu aux avis de détermination.
+[7] En l’espèce, la question en litige consiste donc à savoir si l’évaluation faite par le ministre et résumée dans le tableau suivant est appropriée :
+Année de référence 2012 (de juillet 2013 à juin 2014)
+Juil.
+Août
+Sept.
+Oct.
+Nov.
+Déc.
+Janv.
+Févr.
+Mars
+Avr.
+Mai
+Juin
+Enfant A
+A
+A
+A
+A
+A
+I
+I
+I
+I
+I
+I
+I
+Enfant C
+A
+A
+A
+A
+A
+I
+I
+I
+I
+I
+I
+I
+Légende : I = Inadmissible A = Admissible
+Année de référence 2013 (de juillet 2014 à juin 2015)
+Juil.
+Août
+Sept.
+Oct.
+Nov.
+Déc.
+Janv.
+Févr.
+Mars
+I
+I
+I
+I
+I
+½
+½
+½
+½
+I
+I
+I
+I
+I
+A
+A
+A
+A
+Avr.
+Mai
+Juin
+Enfant A
+A
+A
+A
+Enfant C
+A
+A
+A
+Légende : I = Inadmissible A = Admissible ½ = Garde partagée
+[8] L’appel est accueilli, mais seulement dans la mesure décrite ci-dessous.
+I. Contexte factuel A. Version des faits de l’appelante [9] L’appelante a témoigné à l’audience. Elle a expliqué qu’elle avait la garde complète de A et C depuis la date de séparation d’avec leur père en 2005.
+[10] Avant les événements décrits dans les présentes, elle résidait avec ses deux enfants et son second époux à Montpellier, à environ une heure de Gatineau (Québec). C’est également à Montpellier qu’étaient scolarisés ses enfants.
+[11] Le 19 novembre 2013, elle est partie en vacances pendant deux semaines avec son second époux et a confié ses enfants aux soins et sous la garde d’une amie qui vivait à proximité.
+[12] À son retour, elle a constaté que les enfants vivaient avec leur père et fréquentaient une école à Gatineau. Cependant, étant donné qu’elle avait décidé de quitter son époux et de s’installer à Gatineau, elle a demandé au père de continuer de s’occuper des deux enfants pendant qu’elle cherchait un appartement et organisait son déménagement.
+[13] Elle prétend que les enfants sont venus vivre avec elle lorsqu’elle a été installée dans son appartement à Gatineau. Étant donné qu’elle vivait à environ 15 minutes de l’école, elle soutient qu’elle empruntait le véhicule de son voisin pour conduire C à l’école primaire située près de la résidence du père et de l’arrêt d’autobus également situé à proximité, ce qui permettait à A de prendre l’autobus scolaire.
+[14] L’appelante a produit plusieurs documents, y compris des reçus de médicaments, une facture de l’école secondaire de A indiquant son nom et son adresse, un reçu de livres empruntés à la bibliothèque locale et un reçu de vêtements datés de novembre 2014.
+[15] L’appelante a soutenu qu’elle payait toutes les activités, l’alimentation, les vêtements, les médicaments et les frais scolaires des enfants et qu’elle donnait souvent de l’argent à leur père lorsqu’il organisait des activités pour eux.
+[16] Lors du contre-interrogatoire, elle a admis avoir eu un différend avec C à la fin du mois de janvier 2014, mais elle a soutenu que sa fille n’était restée avec son père que pendant trois semaines, tandis que A était resté avec elle.
+[17] Elle a aussi affirmé que C prenait des cours de danse chaque vendredi soir et que A faisait partie de l’Organisation des cadets et qu’elle les conduisait à ces activités, puis revenait les chercher, chaque semaine.
+[18] En décembre 2014, l’appelante a inscrit C dans une autre école et en mars 2015, elle a également inscrit A dans une autre école. Le père ne s’est pas opposé à ces changements d’école.
+B. Version des faits du père [19] Le père reconnaît avoir déposé une demande de PFCE en juin 2014 pour le motif que, depuis novembre 2013, il avait la garde principale des deux enfants.
+[20] Il a expliqué qu’après le départ en vacances de l’appelante en novembre 2013, il a reçu un appel de l’école de C quant au fait qu’elle n’était pas suffisamment vêtue compte tenu de la météo. Il lui a acheté un manteau d’hiver. Il a pensé que c’était irresponsable de la part de l’appelante et n’était pas satisfait des dispositions prises concernant la garde des enfants. Il s’est senti contraint d’intervenir et l’a fait en assumant la garde complète de A et C et en organisant leur emménagement dans sa résidence à Gatineau. C’est pourquoi il devait effectuer, chaque jour, des allers-retours de Gatineau à Montpellier où l’école se trouvait. Cette situation ne pouvait pas durer et il a envisagé un changement d’école.
+[21] Dans l’impossibilité de joindre l’appelante afin de discuter de cette question, il a décidé que la meilleure manière d’agir était d’inscrire les enfants dans des écoles situées à Gatineau. Il l’a fait en fournissant son adresse résidentielle à l’école et aux sociétés de transport. Il allègue que l’appelante a accepté le changement à son retour de vacances.
+[22] Il reconnaît que les deux enfants sont retournés vivre avec leur mère en janvier 2014, mais il explique qu’il existait un conflit, en particulier avec C, qui a conduit à des accusations criminelles portées contre l’appelante. Les deux enfants sont revenus vivre avec lui.
+[23] Les accusations portées contre l’appelante ont été retirées en mars 2014 et A et C lui ont de nouveau rendu visite. C est restée avec l’appelante durant le mois de juillet 2014.
+[24] Selon le père, les situations conflictuelles se sont amplifiées à la fin du mois d’août ou au début du mois de septembre, et les deux enfants ont principalement habité avec lui de septembre à décembre 2014, tout en voyant l’appelante la plupart du temps les fins de semaine.
+[25] Divers documents ont été déposés en preuve, y compris une lettre du conseil scolaire et de la société de transport d’autobus confirmant que l’adresse figurant dans les dossiers était celle du père. Une lettre signée par un voisin, ainsi que d’autres lettres provenant de l’école, accompagnées des bulletins scolaires des enfants pour la période de novembre 2013 à février 2014 et de septembre à décembre 2014, ont été fournies. Tous les documents contiennent l’adresse résidentielle du père.
+[26] Le père reconnaît que C est retournée vivre avec l’appelante en décembre 2014 et qu’il partageait la garde de A avec l’appelante, de décembre 2014 à la fin de mars 2015. Il admet qu’à compter d’avril 2015, les deux enfants sont retournés vivre avec l’appelante à temps plein.
+[27] En résumé, le père affirme qu’il a acheté des vêtements pour les enfants, payé certains frais scolaires, acheté des laissez-passer d’autobus, préparé leurs repas et qu’il les a aidés à faire leurs devoirs. Il reconnaît que le temps que les enfants ont passé avec lui a beaucoup varié pendant la période en question, mais il soutient qu’à quelques exceptions près, il était la principale personne ayant la charge des enfants et que ceux-ci ont passé environ 75 % de leur temps avec lui, de novembre 2013 à décembre 2014. Ce temps a par la suite diminué, comme cela a été décrit précédemment.
+C. La loi [28] Le régime de la PFCE est défini à l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi »). En l’espèce, la question essentielle en litige consiste à déterminer qui, aux fins de cette disposition, répond à la définition de « particulier admissible ».
+[29] Avant la période contestée, il est évident que l’appelante bénéficiait de la présomption énoncée à l’alinéa 122.6 particulier admissible (f), car A et C résidaient avec elle et, étant la mère, elle était présumée être le parent qui assumait principalement la responsabilité pour leur soin et leur éducation.
+[30] Cependant, la présomption mentionnée précédemment est réfutable dans deux cas importants : i) lorsque les deux parents répondent à la définition de « parents ayant la garde partagée » ou lorsque ii) un autre parent a déposé une demande afin d’être le principal fournisseur de soins (alinéa 6301(1)d) du Règlement de l’impôt sur le revenu.
+[31] L’article 122.6 contient plusieurs définitions clés :
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge – qui :
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+(ii) est un parent ayant la garde partagée à l’égard de la personne à charge,
+c) elle réside au Canada ou, si elle est l’époux ou conjoint de fait visé d’une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l’année d’imposition qui comprend ce moment, y a résidé au cours d’une année d’imposition antérieure;
+. . .
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+« parent ayant la garde partagée » S’entend, à l’égard d’une personne à charge admissible à un moment donné, dans le cas où la présomption énoncée à l’alinéa f) de la définition de « particulier admissible » ne s’applique pas à celle-ci, du particulier qui est l’un des deux parents de la personne à charge qui, à la fois :
+a) ne sont pas, à ce moment, des époux ou conjoints de fait visés l’un par rapport à l’autre;
+b) résident avec la personne à charge sur une base d’égalité ou de quasi‑égalité;
+c) lorsqu’ils résident avec la personne à charge, assument principalement la responsabilité pour le soin et l’éducation de celle-ci, ainsi qu’il est déterminé d’après des critères prévus par règlement.
+[32] Lorsque la Cour conclut que les deux parents répondent à la définition de « parents ayant la garde partagée », y compris l’exigence voulant que les enfants résident avec les deux parents « sur une base d’égalité ou de quasi-égalité » et que les deux parents « assument principalement la responsabilité pour le soin et l’éducation » des enfants lorsqu’ils résident avec eux, la PFCE sera partagée équitablement entre eux, sous réserve d’un changement de leur revenu. Cependant, lorsque les enfants ou les « personnes à charge admissibles » ne résident pas avec les deux parents « sur une base d’égalité ou de quasi-égalité », la Cour doit examiner les critères prévus énoncés à l’article 6302 du Règlement de l’impôt sur le revenu :
+6302. Critères — Pour l’application de l’alinéa h) de la définition de « particulier admissible » à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[33] Étant donné que la Cour doit déterminer quel parent était le « particulier admissible », il est évident que la présente affaire est fondée presque entièrement sur la crédibilité de l’appelante et du père. À première vue, les deux versions des faits présentées par les parents semblent être diamétralement opposées.
+[34] La question de crédibilité a été abordée par la Cour dans Daimsis c. La Reine 2014 CCI 118 (au paragraphe 24) :
+[traduction]
+[24] Il est acquis en matière jurisprudentielle que je peux accepter tous les éléments de preuve du témoin, aucun élément de preuve du témoin ou que je peux accepter certains éléments de preuve du témoin et rejeter d’autres parties des éléments de preuve du témoin. La remarque souvent citée du juge O’Halloran de la Cour d’appel de la Colombie-Britannique dans l’arrêt Faryna c. Chorny, [1952] 2 D.L.R. 344 (B.C.C.A.), aux pages 356 et 357, vient également à l’esprit :
+[traduction]
+Si l’acceptation de la crédibilité d’un témoin par un juge de première instance dépendait uniquement de son opinion quant à l’apparence de sincérité de chaque personne qui se présente à la barre des témoins, on se retrouverait avec un résultat purement arbitraire, et l’administration de la justice dépendrait des talents d’acteur des témoins. Réflexion faite, il devient presque évident que l’apparence de sincérité n’est qu’un des éléments qui entre en ligne de compte lorsqu’il s’agit d’apprécier la crédibilité d’un témoin. Les possibilités qu’avait le témoin d’être au courant des faits, sa capacité d’observation, son jugement, sa mémoire, son aptitude à décrire avec précision ce qu’il a vu et entendu contribuent, de concert avec d’autres facteurs, à créer ce qu’on appelle la crédibilité, voir Raymond c. Bosanquet (1919), 50 D.L.R. 560, à la p. 566, 59 R.C.S. 452, à la p. 460, 17 O.W.N. 295. Par son attitude, un témoin peut créer une impression très défavorable quant à sa sincérité, alors que les circonstances permettent de conclure de façon indubitable qu’il dit la vérité. Je ne songe pas ici aux cas somme toute assez peu fréquents où l’on surprend le témoin en train de dire un mensonge maladroit.
+La crédibilité de témoins intéressés, notamment dans les cas de preuves contradictoires, ne peut être évaluée uniquement en fonction de la question de savoir si le comportement du témoin en cause semblait naturel. Il convient d’examiner de manière raisonnable la cohérence de l’exposé des faits du témoin à la lumière des probabilités se rapportant aux conditions qui existent à l’heure actuelle. Bref, pour déterminer si la version d’un témoin est conforme à la vérité dans un cas de cette nature, il faut déterminer si le témoignage est compatible avec celui qu’une personne sensée et informée, selon la prépondérance des probabilités, reconnaîtrait d’emblée comme un témoignage raisonnable, compte tenu des conditions et de l’endroit. C’est alors seulement qu’une cour peut évaluer de façon satisfaisante le témoignage de personnes alertes, expérimentées et assurées, et celui de ces personnes habiles qui sont adeptes dans les demi-vérités et qui ont une longue expérience dans l’art de combiner une exagération habile avec une suppression partielle de la vérité. Il pourrait arriver qu’une personne témoigne de ce qu’elle croit sincèrement être vrai, en se trompant tout à fait honnêtement. Le juge du procès qui dit : « Je le crois parce que je juge qu’il dit la vérité » tire essentiellement une conclusion en examinant la moitié seulement du problème. En vérité, il pourrait facilement s’agir d’une orientation personnelle dangereuse.
+Le juge de première instance devrait aller plus loin et dire que la preuve du témoin qu’il croit est conforme avec la prépondérance des probabilités dans le cas et, si son avis est d’inspirer confiance, il devrait également énoncer ses motifs pour en arriver à cette conclusion. Le droit ne revêt pas le juge de première instance d’une connaissance divine des cœurs et des esprits des témoins. Une cour d’appel doit être convaincue que la conclusion sur la crédibilité tirée en première instance repose non pas sur un seul élément de preuve, à l’exclusion de tout autre, mais bien sur l’ensemble des éléments permettant d’apprécier la crédibilité dans le cas considéré.
+C’est sous cet angle jurisprudentiel que j’évalue la crédibilité des deux principaux témoins. En outre, j’évalue la crédibilité des témoins en m’appuyant sur mon expérience d’être humain, sur la connaissance de la condition humaine, sur la conscience que les souvenirs s’estompent avec le temps et sur le fait que les êtres humains sont les créatures les plus imparfaites.
+[Non souligné dans l’original.]
+[35] Malgré les contradictions apparentes, le témoignage de l’appelante concorde avec celui du père sur certains points. Plus précisément, l’appelante ne conteste pas qu’elle a demandé au père de continuer à s’occuper de A et de C à son retour de vacances, étant donné qu’elle cherchait un appartement. Tous les deux ont convenu que les enfants retourneraient vivre avec l’appelante une fois cette dernière installée dans son appartement en janvier 2014, mais un conflit avec C a conduit celle-ci à retourner vivre chez son père. La durée de cette période est contestée.
+[36] Aussi, l’appelante ne conteste pas le fait que les enfants ont changé d’école, en passant de Montpellier à Gatineau, et que l’arrêt d’autobus de A et l’école de C se trouvaient près de la résidence du père située à environ 15 minutes de l’appartement de l’appelante à Gatineau.
+[37] L’appelante a affirmé qu’elle conduisait les deux enfants tous les matins et qu’elle s’organisait pour venir les chercher à la fin de la journée. Elle a indiqué qu’elle utilisait le véhicule de son voisin, mais aucun élément de preuve n’a été présenté pour corroborer cette affirmation. Bien que je n’aie pas de mal à croire que l’appelante l’ait fait à plusieurs reprises, je pense qu’il est peu probable qu’elle l’ait fait lors de chaque journée d’école, pendant toute la période en question.
+[38] Bien qu’il puisse sembler que le père essaie simplement de tirer parti du fait qu’il a pris des mesures pour changer les enfants d’école, en fournissant à la Cour les documents recueillis pendant cette procédure, je trouve que sa position est plus nuancée et, par conséquent, plus crédible. Il admet que le temps passé par les enfants avec l’un ou l’autre parent n’était en aucune façon régulier, mais de son point de vue, les enfants ont, dans l’ensemble, habité avec lui pendant environ 75 % du temps. Le père a également reconnu que les deux enfants étaient revenus, pendant un temps, vivre avec l’appelante en janvier 2014 et que C est retournée vivre avec l’appelante pendant le mois de juillet 2014, et à temps plein à partir de décembre 2014.
+[39] Le témoignage de l’appelante était beaucoup moins nuancé. Elle était catégorique et sur la défensive, et soutenait que le père mentait. Bien qu’elle ait soutenu qu’elle assumait la plupart des dépenses liées aux enfants, elle semblait faire abstraction des événements qui avaient eu lieu durant les mois en question. Bien qu’elle ait admis, lors du contre-interrogatoire, l’existence de conflits avec C qui ont mené à des accusations portées contre elle, elle a simplement fait abstraction de cet événement. Cela laisse supposer que dans sa version des faits, elle n’a pas dit toute la vérité et était loin d’être franche et que la Cour n’a pas obtenu un tableau complet de la situation.
+[40] Même si j’étais tenté d’accorder à l’appelante le bénéfice du doute, elle doit encore présenter des éléments de preuve et convaincre la Cour (par rapport aux facteurs énoncés à l’article 6302 du Règlement de l’impôt sur le revenu) que les enfants résidaient avec elle et qu’elle assumait principalement la responsabilité pour leur soin et leur éducation. Insister simplement sur le fait qu’elle payait la plupart des dépenses liées aux enfants ne suffit pas.
+[41] De plus, il incombe à l’appelante de réfuter et de démolir les présomptions sur lesquelles l’évaluation se fonde : Hickman Motors Ltd. c. Canada, (1999) 2 R.C.S. 336. Je suis d’avis qu’elle n’a pas réussi à le faire.
+[42] Comme la juge Lamarre-Proulx, dans l’arrêt Robitaille c. La Reine, [1997] A.C.I. no 6, paragraphe 15 (Cour canadienne de l’impôt), à moins que l’appelant soit en mesure de convaincre la Cour selon la prépondérance des probabilités, la Cour est liée par l’arrêt La Reine c. Marshall, 96 D.T.C. 6292, selon lequel les hypothèses du ministre doivent être confirmées :
+[traduction]
+15 Selon les règles de la preuve de longue date en matière de contentieux fiscal, pour obtenir l’annulation de cette décision, le fardeau de démontrer qu’elle était la personne qui assumait principalement la responsabilité pour le soin des enfants à charge admissibles incombe à l’appelante. . . .
+[43] En d’autres termes, étant donné que l’appelante n’a pas réussi à convaincre la Cour qu’elle était le parent qui assumait principalement la responsabilité pour le soin des enfants, les avis de détermination du ministre, comme on l’a décrit plus haut, doivent être maintenus, sauf s’il existe une autre raison permettant de les modifier.
+II. Conclusion [44] En fin de compte, je conclus que bien que l’appelante ait fait plus que sa part pour ce qui est des dépenses liées aux enfants et aux activités en fin de semaine, son affirmation selon laquelle les enfants résidaient exclusivement avec elle n’est tout simplement pas étayée par les éléments de preuve. Après avoir entendu les témoignages des deux parents, je conclus que la « prépondérance des probabilités » (Daimsis, supra) joue en faveur de la version des faits du père.
+[45] Pour conclure, je ne suis pas prêt à modifier les conclusions tirées par le ministre, sauf dans les deux cas suivants en fonction des déclarations du père :
+i) L’appelante et le père étaient des parents ayant la garde partagée à l’égard de A et de C durant le mois de janvier 2014;
+ii) L’appelante était le particulier admissible à l’égard de C pour le mois de juillet 2014.
+Signé à Toronto (Ontario), ce 2e jour de juin 2016.
+« Guy Smith »
+Le juge Smith
+RÉFÉRENCE :
+2006 CCI 142
+No DU DOSSIER DE LA COUR :
+2015-1537(IT)I
+INTITULÉ :
+Angelic Mageau c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 décembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 2 juin 2016
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Mélanie Sauriol
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

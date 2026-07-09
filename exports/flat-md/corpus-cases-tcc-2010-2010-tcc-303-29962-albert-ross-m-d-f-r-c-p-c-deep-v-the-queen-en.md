@@ -1,0 +1,115 @@
+---
+title: "Albert Ross M.D. F.R.C.P.(C) Deep v The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29962/index.do"
+last_modified: "2010-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 303"
+citation2: ""
+neutral_citation: "2010 TCC 303"
+decision_date: "2010-06-03"
+language: "en"
+item_id: "29962"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6447
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:18:31.327000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "079fa602e58af20ccbaadcaec0b867d860269fb5e064aa79cf8e1cb3f1c18540"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Albert Ross M.D. F.R.C.P.(C) Deep v The Queen
+
+- Citation: 2010 TCC 303
+- Decision date: 2010-06-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6447, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Albert Ross M.D. F.R.C.P.(C) Deep v The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-03
+Neutral citation
+2010 TCC 303
+File numbers
+2002-2009(IT)G
+Judges and Taxing Officers
+Bruce Preston
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2009(IT)G
+BETWEEN:
+ALBERT ROSS M.D. F.R.C.P.(C) DEEP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $16,318.51.
+Signed at Toronto, Ontario, this 3rd day of June 2010.
+“Bruce Preston”
+Taxing Officer
+Citation: 2010 TCC 303
+Date: 20100603
+Docket: 2002-2009(IT)G
+BETWEEN:
+ALBERT ROSS M.D. F.R.C.P.(C) DEEP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Bruce Preston, T.O., T.C.C.
+[1] This matter came on for hearing by way of a telephone conference call on Thursday, May 27, 2010. It follows a Judgment of the Honourable Mr. Justice Miller of this Court issued on June 5, 2007, dismissing the appeal, with costs to the Respondent.
+[2] The Appellant was self-represented, and the Respondent was represented by Ms. Annette Evans.
+[3] At the outset of the hearing the Appellant requested an adjournment of the hearing. The request was predicated on the existence of an outstanding matter in the Court of Appeal for Ontario. It was proposed that the Taxation of Costs be adjourned until the conclusion of the matter before the Court of Appeal for Ontario. The Appellant submitted that the matter before the Court of Appeal for Ontario was a proceeding to set aside the decision of the Tax Court of Canada in this file and the subsequent appeal to the Federal Court of Appeal. It was submitted that should the decisions be set aside, the taxation of costs would become redundant.
+[4] In response to the Appellant’s request for an adjournment, counsel for the Respondent argued that the award of costs which is the subject of this hearing results from a decision of the Tax Court of Canada. Counsel submitted that the subsequent appeal of the Tax Court decision has been dismissed by the Federal Court of Appeal and the Supreme Court of Canada has denied leave to appeal. Counsel argued that the Court of Appeal for Ontario matter is separate from the Tax Court of Canada matter. Counsel further argued that the Federal Court of Appeal and the Supreme Court of Canada have already issued Certificates of Assessment.
+[5] In response, the Appellant reiterated that the Court of Appeal for Ontario proceeding was to set aside the decisions of the Tax Court of Canada and Federal Court of Appeal on the grounds that the Tax Court matter was fraudulent and the Federal Court of Appeal failed to recognized the fraudulent nature of the decision. It was argued that once these decisions have been set aside any award of costs would become redundant.
+[6] The taxation of the Respondent’s cost was originally scheduled for May 6, 2010. Prior to the hearing the Appellant requested an adjournment in order to better prepare for the taxation. The Appellant agreed that an adjournment to May 20, 2010 was sufficient. The taxation was subsequently adjourned to May 27, 2010 at the request of the Respondent.
+[7] This taxation of costs emanates from a decision of the Tax Court of Canada rendered almost three years ago. The Appellant has exhausted all avenues of appeal available to him. I find that his decision to pursue a favourable decision in the Court of Appeal for Ontario is in no way related to the matter before me. Furthermore, the Appellant’s request for an adjournment was not predicated on a requirement for more time to prepare for the Taxation. For these reasons the Appellant’s request for an adjournment is denied.
+[8] Concerning the taxation of costs, counsel for the Respondent submits that the judgment of this Court awarded costs to the Crown and these costs have not been paid. It was further submitted that the fees are consistent with the Tariff B and that the disbursements are reasonable. Counsel also submits that the letter of May 26, 2010 from the Appellant does not address the issue of costs but merely reargues the matter that was before The Honourable Mr. Justice Miller.
+[9] In response, the Appellant argues that the services under 1(1)(b) are not relevant as there was no inspection of property. The Appellant indicated that there was some inspection of documents but no inspection of property.
+[10] In rebuttal, counsel for the Respondent submits that there is no distinction between the discovery of documents and the inspection of property.
+[11] Concerning 1(1)(c), the Appellant submits that $500.00 per day is adequate for the Examination for Discovery. The Appellant further submits that $150.00 to $200.00 is adequate for preparation and attendance at a pre-hearing conference under 1(1)(d).
+[12] By way of rebuttal the Respondent argues that the claims under 1(1)(c) and 1(1)(d) are consistent with the amounts allowed under Class C of Tariff B.
+[13] The Appellant argues that there is some duplication between 1(1)(a) and 1(1)(g) as counsel should not have to prepare the same material twice for the discovery and the hearing.
+[14] Respondent’s counsel submits that 1(1)(a) relates to services rendered prior to discovery. Counsel argues that this is not the same as the services rendered during the preparation for hearing allowed for under 1(1)(g).
+[15] The Appellant contends that $1,200.00 per day is reasonable for attendance at the hearing of the appeal.
+[16] In rebuttal counsel for the Respondent submits that $2,000.00 per day is allowable under Class C of Tariff B.
+[17] I have reviewed the Appellants written submissions filed May 26, 2010 and I am in agreement with counsel for the Respondent. The submissions appear to address the subject matter of the appeal, not the taxation.
+[18] The Appellant’s proceeding before the Tax Court of Canada is a Class C proceeding. Pursuant to Rule 154 of the Tax Court of Canada Rules (General Procedure), a taxing officer shall tax and allow the cost in accordance with Schedule II, Tariff B. The Rule also states that the taxing officer shall consider: the amounts in issue, the importance of the issues, the complexity of the issues, the volume of work, and any other matter that the Court has directed.
+[19] Having reviewed the judgment of the Court and the documentation filed by both parties, and having considered the factors set out in Rule 154, I find that the amounts claimed by the Respondent are in line with the amounts allowed under Tariff B for a Class C proceeding.
+[20] The Appellant has argued that 1(1)(b) should not be allowed as there was no inspection of property. A careful reading of section 1(1)(b) reveals that it is applicable to the discovery of documents or the inspection of property. For the Appellant’s submission to be correct section 1(1)(b) would have to stipulate the discovery of documents and the inspection of property. As the parties agree that there was some discovery of documents the claim under 1(1)(b) is allowed.
+[21] Further, I am in agreement with counsel for the Respondent that the services under 1(1)(a) and 1(1)(g) are mutually exclusive as they address separate services rendered at different stages of the proceeding. Consequently, the claims under section 1(1)(a) and 1(1)(g) are both allowed.
+[22] Therefore, for the above reasons, all the amounts claimed for services of counsel are allowed as submitted.
+[23] Having regard to disbursements, the Appellant’s submissions were limited to the Respondent’s expenditures for photocopies. Concerning photocopies the appellant submits that in the provincial courts the photocopies are produced in house and not claimed at the excessive rate the Respondent has claimed.
+[24] In rebuttal, the Respondent submits that the only photocopies included in the Bill of Costs were those produced by an external service provider. All copies produced in house were not included in the Bill. Counsel further submits that the expenditures for photocopies are supported by the Affidavit of Disbursements of Erin Kilmartin sworn December 22, 2009 and that the expenditures are reasonable.
+[25] Concerning photocopies, I find the disbursements claimed to be reasonable and well supported by the Affidavit of Erin Kilmartin. I inquired as to the necessity of copying the discovery transcripts as these were claimed as a separate disbursement. Counsel for the Respondent submitted that the photocopies claimed were for the use of the Court. Concerning the photocopies of the transcripts the Appellant submitted that they were small amounts.
+[26] Having been satisfied by the explanation of the Respondent concerning the copying of the discovery transcripts, the disbursement for photocopies is allowed as claimed.
+[27] As the Appellant did not object to the disbursements for the Discovery Transcripts and Process Server, these are allowed as claimed.
+[28] The Bill of Costs is taxed, and I allow the sum of $16,318.51.
+Signed at Toronto, Ontario, this 3rd day of June 2010.
+“Bruce Preston”
+Taxing Officer

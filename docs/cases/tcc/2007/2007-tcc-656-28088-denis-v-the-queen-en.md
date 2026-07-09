@@ -1,0 +1,215 @@
+---
+title: "Denis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28088/index.do"
+last_modified: "2007-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 656"
+citation2: ""
+neutral_citation: "2007 TCC 656"
+decision_date: "2007-11-01"
+language: "en"
+item_id: "28088"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1673
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:35:03.374000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dda5b2ba4985d5e720d28d28cd07d4299afe86fd548616f0e0452e6ab42b7fb5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Denis v. The Queen
+
+- Citation: 2007 TCC 656
+- Decision date: 2007-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1673, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Denis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-01
+Neutral citation
+2007 TCC 656
+File numbers
+2006-907(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-907(IT)G
+BETWEEN:
+PATRICIA DENIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together with the appeals of Pache Denis (2006‑908(IT)G)
+on October 22, 2007 at Vancouver, British Columbia.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant: Richard B. Wong
+Counsel for the Respondent: Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2003 taxation years are allowed with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+There should be one set of counsel fee for both appellants.
+Signed at Ottawa, Canada this 1st day of November 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Docket: 2006-908(IT)G
+BETWEEN:
+PACHE DENIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together with the appeals of Patricia Denis (2006‑907(IT)G)
+on October 22, 2007 at Vancouver, British Columbia.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant: Richard B. Wong
+Counsel for the Respondent: Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are allowed with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+There should be one set of counsel fee for both appellants.
+Signed at Ottawa, Canada this 1st day of November 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2007TCC656
+Date: 20071101
+Docket: 2006-907(IT)G
+BETWEEN:
+PATRICIA DENIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+- AND –
+Docket: 2006-908(IT)G
+BETWEEN:
+PACHE DENIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals were heard together. Mr. and Mrs. Denis are partners in a bed and breakfast (“B&B”) business that they carried on in Ashcroft, British Columbia. In computing his income for the 2001, 2002 and 2003 taxation years, Mr. Denis calculated losses from that partnership on the basis that the partnership sustained non‑capital losses for those years of $43,598, $41,153 and $35,149, respectively. Only Mrs. Denis’ 2001 and 2003 taxation years were before the Court. They also attributed 50%, 98% and 60% of the loss to Mr. Pache Denis for the three years.
+[2] The Minister of National Revenue reassessed them for these years:
+(a) to disallow a portion of the losses claimed pursuant to subsection 18(12) of the Income Tax Act;
+(b) to reallocate the losses equally to Mr. and Mrs. Denis.
+[3] There is no issue between the parties that the proper allocation of losses between the spouses is 50/50. Moreover, there is no dispute that the revenues, expenses and losses of the partnership were properly calculated, subject only to the application of subsection 18(12).
+[4] Subsection 18(12) reads as follows:
+(12) Work space in home — Notwithstanding any other provision of this Act, in computing an individual’s income from a business for a taxation year,
+(a) no amount shall be deducted in respect of an otherwise deductible amount for any part (in this subsection referred to as the “work space”) of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the individual’s principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business;
+(b) where the conditions set out in subparagraph (a)(i) or (ii) are met, the amount for the work space that is deductible in computing the individual’s income for the year from the business shall not exceed the individual’s income for the year from the business, computed without reference to the amount and sections 34.1 and 34.2; and
+(c) any amount not deductible by reason only of paragraph (b) in computing the individual’s income from the business for the immediately preceding taxation year shall be deemed to be an amount otherwise deductible that, subject to paragraphs (a) and (b), may be deducted for the year for the work space in respect of the business.
+(12) Travail à domicile. Malgré les autres dispositions de la présente loi, dans le calcul du revenu d’un particulier tiré d’une entreprise pour une année d’imposition :
+a) un montant n’est déductible pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie d’établissement :
+(i) soit est son principal lieu d’affaires,
+(ii) soit lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise;
+b) si une partie de l’établissement domestique autonome où le particulier réside est son principal lieu d’affaires ou lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise, le montant déductible pour cette partie d’établissement ne peut dépasser le revenu du particulier tiré de cette entreprise pour l’année, calculé compte non tenu de ce montant et des articles 34.1 et 34.2;
+c) tout montant qui, par le seul effet de l’alinéa b), n’est pas déductible pour une partie d’établissement domestique autonome dans le calcul du revenu d’entreprise du particulier pour l’année d’imposition précédente est déductible dans le calcul du revenu d’entreprise du particulier pour l’année, sous réserve des alinéas a) et b).
+[5] “Self-contained domestic establishment” (« établissement domestique autonome ») is defined as follows in section 248:
+"self-contained domestic establishment" means a dwelling-house, apartment or other similar place of residence in which place a person as a general rule sleeps and eats;
+« établissement domestique autonome » Habitation, appartement ou autre logement de ce genre dans lequel, en règle générale, une personne prend ses repas et couche.
+[6] The sole issue is whether the Minister was justified in applying subsection 18(12) and restricting the losses claimed under that provision.
+[7] The parties entered into an Agreed Statement of Facts (“ASF”). It is attached as Schedule A to these reasons. It was supplemented by oral evidence of Mr. Denis.
+[8] There have been a number of cases of this type decided in this Court. I see no inconsistency between them but the judges have reached different conclusions depending on the facts of each case.
+[9] One thing is quite clear and that is that subsection 18(12) of the Act can on its plain wording apply to a B&B operation. Whether it does so in a particular case depends on a determination of fact. In this case the question is whether the appellants “resided” in the entire two‑storey building or, put differently, whether the entire house was the “self-contained domestic establishment” or only the 540 square feet which the appellants say was a private area for their own use. (Area 1 on the plan of Level 1 attached to the ASF). The appellants constructed the building with the intention of running a B&B.
+[10] Paragraph 38 of the ASF reads:
+38. The building was built with the intention of running an efficient bed and breakfast business. The 540 square feet private area was designed and built to serve the personal needs of the Denises and was built without its own living room, dining room, in suite laundry, kitchen and storage room because by duplicating these areas inside the 540 square foot private area, the Denises would have wasted a lot of space that would be been [sic] required to build what they thought would be a profitable bed and breakfast business.
+[11] The building was not constructed as a private residence with the intention that the Denises would live in the 4,448 square feet making up the two levels. It was built to house a commercial operation which contained an area in which they would live. This fact distinguishes it from a B&B operation in which some rooms in an existing home are used to run a B&B after the children have left home.
+[12] The essential question is not whether the 540 square feet which the appellants called their private living space is a self‑contained domestic establishment; rather it is whether the rest of the 4,448 square feet that was intended to be used and was in fact used for the B&B operation forms part of the “self-contained domestic establishment”. For subsection 18(12) to apply the “work space” must be part of a self-contained domestic establishment. I have concluded that the appellants did not reside in that portion of the building that was devoted to and used for the accommodation of guests in the B&B operation.
+[13] Counsel for the Respondent contends that the entire building is a self‑contained domestic establishment because occasionally friends or family would be allowed to sleep in the guest rooms free of charge and sometimes at family gatherings they would eat in the sitting area (10.4). I do not think that the occasional use for such purposes amounts to residing. I do not think that the occasional use of the B&B facilities made it a place in which the appellants “as a general rule sleep[s] and eat[s]”. Moreover, it is quite unreasonable to suggest that the appellants would construct a two-storey building of 4,448 square feet for use as a private residence where that structure has separate entrances from outside for each of the five private guest rooms. Of the five guest rooms, one has a private ensuite bathroom and two on level one have a bathroom between them and two on level two share a bathroom.
+[14] So far as the use of the guest facilities by family and friends is concerned, this is minimal. (ASF para. 51) Family and friends in 2001, 2002 and 2003, stayed overnight in guest rooms, less than seven nights per year.
+[15] As stated, the cases fall on both sides of the line depending on the facts. They depend essentially on the extent to which the B&B operation impinges upon or is integrated with the ordinary living arrangements of the family that is carrying on the business. For example in Maitland and Konduc v. The Queen, 2000 DTC 3622, Porter D.J. appears to have focused primarily on the question whether the B&B operation was a hotel. However, the finding of fact that was crucial to Porter D.J.’s dismissal of the appeal was found in paragraph 26.
+Upon considering all of the evidence, I find that this was not a “hotel” operation, but indeed was a “bed and breakfast” operation within the normal meaning of that word; that is to say that guests came and stayed in the home of the Appellants. It is true that there was more of a commercial nature to the operation than is often the case. Nonetheless, the Appellants occupied exclusively, with family members, a major part of the premises and shared with their guests other common areas. It is clear that it was originally a dwelling house. It had been used for intervening purposes, but during the time in question, it was occupied as a residence by the Appellants. When no one else was there, they still occupied it as their residence. Although they had other places available to them to stay from time to time, as a general rule, they slept and ate on these premises. It was a dwelling house or a similar place of residence. It was not a commercial office building or regularly constructed hotel or motel. In my view, it clearly falls within the definition of a “self-contained domestic establishment”, set out in the ITA. In my opinion, it is not realistic to draw an analogy between this situation and a manager living in a suite in a regular motel or hotel. In that situation, the operation is clearly a hotel or motel in which the manager lives in a small part. Here, this was clearly their home into which they received paid guests and that remained so despite the high quality of their operation, the hard work they put in, and their original plans to operate it as a bed and breakfast operation.
+[16] The finding of fact made by Porter D.J. is simply not open to me on the evidence and agreed facts in this case. Obviously the B&B operation in that case was carried on in the portion of the dwelling house used by the appellants Maitland and Konduc. That is simply not the case here. The Denises did not use the guest areas as their residence.
+[17] Similarly in Broderick v. The Queen, 2001 DTC 3722, Justice Campbell, in dismissing the appeal made the following findings of fact:
+. . . In respect to the present case before me the primary function of this property was a residence for the Appellant and his family and for a portion of each of the years in question it was used as a bed and breakfast. Three bedrooms were rented out but for whatever reasons, it ended up being a part time seasonal operation despite the intention and hard work of the Appellant. When guests were present, they confined themselves to the basement apartment for the majority of the time but except for keeping the three bedrooms clean and available, there was little need to restrict the balance of the upstairs portions particularly when months would pass with no guests or the potential for any. When guests were there, common areas of the house saw business and family life converge.
+[18] In three other cases different factual conclusions led to different results. In Sudbrack v. The Queen, 2000 DTC 2521, the following was said at page 5:
+[19] I think the better view, on the facts of this case, is that the separate living quarters of the family, which are essentially a separate apartment within the inn, constitute the self-contained domestic establishment. This appears to be the more reasonable approach and is, I believe, more consonant with what subsection 18(12) is seeking to achieve. Counsel for the Appellant referred to a decision of the Supreme Court of Canada in Bell v. Ontario (Human Rights Commission), [1971] S.C.R. 756. That case dealt with the meaning of "self-contained dwelling". It is not of much assistance in this case because here we are dealing with a statutory definition.
+[20] The Crown's position is that the inn as a whole is the self-contained domestic establishment. Tab 17 of Exhibit R-1 contains a detailed summary of the adjustments made under subsection 18(12). It allocates between expenses not related to the work area and the expenses related to the work area. No challenge is made to the arithmetical calculation if the fundamental assumption that the self-contained domestic establishment is the inn as a whole and the "work space" in that self-contained domestic establishment is the inn as a whole as well is correct.
+[21] In my view that basic assumption is wrong. The self-contained domestic establishment is the family apartment. Moreover, if the inn as a whole is the "work space" that work space is "the individual's principal place of business". Accordingly there is, in effect, excised from the area to which the limitation in paragraph (a) applies the 85% of the inn in which the family does not live.
+[22] The work space within the "self-contained domestic establishment" (the family apartment) would consist of the kitchen which served the dual function as the family cooking space and the restaurant cooking space and the small room where Mr. Sudbrack kept his computer, records and other equipment for the purposes of the business.
+I think the same conclusion is justified here, subject to what I propose to say below with respect to the kitchen and laundry.
+[19] In Moczulski v. The Queen, 2003 DTC 3982, Justice Bell in allowing the appeal said this at page 4:
+[15] The Appellants' apartment is, in my judgment, a self-contained domestic establishment. The fact that the Appellants used the kitchen which produced food for guests and the laundry facilities which they used for guest linens does not prevent the apartment from being a "self-contained domestic establishment". That definition includes an apartment or other similar place of residence. The Appellants, as a general rule, sleep in this apartment. There was no evidence that they eat in the apartment. However, the definition does not exclude an apartment or similar place of residence where the occupant or occupants do not eat. The definition uses the qualifying term "as a general rule".
+[16] One should keep in mind the purpose of this provision. The Department of Finance in Explanatory Notes relating to the legislative guidelines for deduction of expenses in respect of space used as an office or other workplace in taxpayers' residences reads as follows:
+New subsection 18(12) of the Act restricts the deduction of expenses incurred by an individual in respect of a home office. No amount may be deducted in respect of a "work space" in a self-contained domestic establishment in which the individual resides unless certain conditions are met. The work place must be either the principal place of business of the individual or used by him exclusively for the purpose of earning income from business and be used on a regular and continuous basis for meeting his clients, customers or patients in respect of the business. Where these conditions are met, the individual may deduct otherwise allowable amounts, but only to the extent of his income from the business for the year. To the extent that this latter requirement restricts the deduction of a portion of work space expenses for a particular year, such expense are treated as work space expenses incurred in the immediately following year, thus permitting an indefinite carryforward of this type of expense. This amendment is applicable to fiscal periods commencing after 1987.
+It is noted that the emphasis of the above explanatory note respects a "work space" in an ordinary domestic establishment. This normally includes reserving and equipping a room or other space for business purposes. The circumstances in the instant appeal do not fall into that category.
+[17] The Appellants, in this case, bought a commercial building and commenced operating it for the purposes described. The use of the main entry to the building and of the main hall leading to the doorway to the Appellants' residential quarters does not diminish the description of such quarters being a self-contained domestic establishment. With respect to use of laundry facilities shared with the business, ordinary apartment buildings routinely share such facilities. There are many persons who live in apartments or houses and do not eat there as they have no interest in shopping or preparing food or washing dishes or cleaning the premises after such use. Surely they cannot be said not to be living in a self-contained domestic establishment.
+[20] A case that is somewhat similar on the facts to this one is a decision by Justice McArthur in Rudiak v. The Queen, 2002 DTC 3901. At page 4 he said:
+. . .The Respondent referred to the following areas of the entire structure that had mixed use (my observations are included after each reference):
+(a) the garage was used in part for the bed and breakfast storage; (this was obviously a limited business use);
+(b) the kitchen was used to make the breakfast for guests of the bed and breakfast; (the guest did not use or occupy the kitchen. The prepared breakfast was served in the guest's dining room);
+(c) the laundry room served both the bed and breakfast and personal use; (this is accurate but again the guests did not use the Appellant's laundry room);
+(d) the office in the Appellant's apartment was used for the needs of both; (it was the Appellant's private office and used exclusively by him);
+(e) two weeks annually the bed and breakfast area was used to accommodate friends and family; (while this is accurate, it is insignificant in the overall scheme);
+(f) four months of the year, the off-season, the Appellant and his wife had access to the bed and breakfast area; (same comments as in item (e));
+(g) heating and electrical services were common to both areas; (I do not believe this is significant);
+(h) the City of Stratford did not recognize a separate apartment in their municipal tax bill; (What does that prove?);
+(i) the Appellant was obligated to live on the bed and breakfast premises to comply with municipal zoning requirements; (not relevant);
+(j) the Appellant's bed and breakfast brochure advertised "Welcome to our home". (advertising puffing and privilege).
+[21] Which side does this case fall on? In my view clearly it falls on the Rudiak, Sudbrack, Moczulski side. I emphasize several points that I think are important.
+(a) The appellants did not reside in the entire house. They resided in areas which they designed, built and used as their personal living quarters and did not reside in the area designed, built and used for the B&B operation.
+(b) The self‑contained domestic establishment was the living area, the 544 square feet, not the entire house.
+(c) The fact that they occasionally let friends or family stay in the guest rooms does not turn the entire house into a self-contained domestic establishment.
+(d) With respect to the fact that they used the kitchen and laundry for both business and personal use does not turn the entire house into a self-contained domestic establishment, or conversely prevent the living area (the 544 square feet Area 1 on the sketch of Level 1) from being a self-contained domestic establishment. I respectfully adopt the reasoning of Bell J. in Moczulski and McArthur J. in Rudiak.
+[22] The appeals are therefore allowed with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+[23] There should be one set of counsel fee for both appellants.
+Signed at Ottawa, Canada, this 1st day of November 2007.
+“D.G.H. Bowman”
+Bowman C.J.
+CITATION: 2007TCC656
+COURT FILES NOS.: 2006-907(IT)G
+2006-908(IT)G
+STYLE OF CAUSE: PATRICIA DENIS AND
+PACHE DENIS
+V. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, B.C.
+DATES OF HEARING: October 22, 2007
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman
+Chief Justice
+DATE OF JUDGMENT: November 1, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Richard B. Wong
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

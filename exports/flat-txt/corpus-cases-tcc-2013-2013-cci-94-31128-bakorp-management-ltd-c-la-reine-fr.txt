@@ -1,0 +1,184 @@
+Title: Bakorp Management Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31128/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-94-31128-bakorp-management-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-04-02
+
+# Bakorp Management Ltd. c. La Reine
+
+- Citation: 2013 CCI 94
+- Decision date: 2013-04-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4776, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bakorp Management Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-02
+Référence neutre
+2013 CCI 94
+Numéro de dossier
+2012-4029(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4029(IT)G
+ENTRE :
+BAKORP MANAGEMENT LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue le 6 mars 2013, à Toronto (Ontario)
+Par : L'honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l'appelante :
+Me Matthew Williams
+Me Rebecca Potter
+Avocates de l'intimée :
+Me Jenny Mboutsiadis
+Me Marie-Thérèse Boris
+________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l'intimée en vue d'obtenir :
+1. une ordonnance rejetant l'appel;
+2. si le redressement demandé au paragraphe 1 n'est pas accordé, une ordonnance prorogeant le délai imparti pour déposer une réponse à l'avis d'appel à 60 jours suivant la date de la décision de la Cour relativement à la présente requête;
+3. les dépens afférents à la présente requête;
+4. tout autre redressement que la Cour pourra juger à propos;
+ET VU les observations des parties;
+LA COUR ORDONNE CE QUI SUIT :
+La requête de l'intimée est accueillie;
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 1995 est rejeté avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 2e jour d'avril 2013.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 25e jour de juin 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 94
+Date : 20130402
+Dossier : 2012-4029(IT)G
+ENTRE :
+BAKORP MANAGEMENT LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge C. Miller
+[1] Le ministre a présenté une requête en rejet de l'appel en application des alinéas 58(3)a) ou b) ou de l'alinéa 53c) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») au motif que l'appelante ne s'est pas conformée au paragraphe 169(2.1) de la Loi de l'impôt sur le revenu (la « Loi »). Au lieu de procéder de la façon habituelle et de tout d'abord passer les faits en revue, j'énoncerai en premier lieu ce que j'appelle les règles relatives aux grandes sociétés, qui se trouvent aux paragraphes 165(1.11), 169(2.1) et 152(4.4) de la Loi :
+165(1.11) Oppositions par les grandes sociétés. Dans le cas où une société qui était une grande société au cours d'une année d'imposition, au sens du paragraphe 225.1(8), s'oppose à une cotisation établie en vertu de la présente partie pour l'année, l'avis d'opposition doit, à la fois :
+a) donner une description suffisante de chaque question à trancher;
+b) préciser, pour chaque question, le redressement demandé, sous la forme du montant qui représente la modification d'un solde, au sens du paragraphe 152(4.4), ou d'un solde de dépenses ou autres montants non déduits applicable à la société;
+c) fournir, pour chaque question, les motifs et les faits sur lesquels se fonde la société.
+169(2.1) Restriction touchant l'appel d'une grande société. Malgré les paragraphes (1) et (2), la société qui était une grande société au cours d'une année d'imposition, au sens du paragraphe 225.1(8) et qui signifie un avis d'opposition à une cotisation établie en vertu de la présente partie pour l'année ne peut interjeter appel devant la Cour canadienne de l'impôt pour faire annuler ou modifier la cotisation qu'à l'égard des questions suivantes :
+a) une question relativement à laquelle elle s'est conformée au paragraphe 165(1.11) dans l'avis, mais seulement à l'égard du redressement, tel qu'il est exposé dans l'avis, qu'elle demande relativement à cette question;
+b) une question visée au paragraphe 165(1.14), dans le cas où elle n'a pas, à cause du paragraphe 165(7), signifier [sic] d'avis d'opposition à la cotisation qui a donné lieu à la question.
+152(4.4) Sens de solde. Pour l'application du paragraphe (4.3), le solde applicable à un contribuable pour une année d'imposition correspond au revenu, au revenu imposable, au revenu imposable gagné au Canada ou à une perte du contribuable pour l'année, à l'impôt ou autre montant payable par lui pour l'année, à un montant qui lui est remboursable pour l'année ou à un montant réputé avoir été payé, ou payé en trop, par lui pour l'année.
+[2] Comme on peut le voir, les grandes sociétés doivent être assez précises dans leurs avis d'opposition et doivent faire preuve de cette même précision lors de leurs appels devant la Cour canadienne de l'impôt.
+[3] Les deux parties m'ont renvoyé aux motifs rendus par la Cour d'appel fédérale dans l'arrêt R. c. Potash Corporation of Saskatchewan Inc., 2003 CAF 471 :
+[4] Les Règles relatives aux grandes sociétés ont été prises en 1995 en vue de décourager les grandes sociétés de réorganiser complètement leurs déclarations de revenu pour une année particulière, après que la procédure d'opposition ou d'appel a été engagée, en se fondant sur de nouvelles interprétations et sur le résultat de décisions judiciaires rendues dans des litiges intéressant d'autres contribuables. R. M. Beith a bien établi la raison d'être de ces dispositions dans le document intitulé « Draft Legislation on Income Tax Objections and Appeals » figurant dans le Report of Proceedings of the Forty‑Sixth Tax Conference, 1994 Conference Report (Toronto : Association canadienne d'études fiscales, 1995), 34:2 :
+[TRADUCTION]
+La législation en question vise notamment à définir beaucoup plus tôt les questions contestées, de façon que l'obligation fiscale finale se rapportant à une année d'imposition puisse être déterminée en temps opportun.
+Étant donné la complexité de la législation et le nombre de questions soulevées, les années d'imposition d'un nombre important de grandes sociétés sont longtemps demeurées en suspens pendant que des oppositions ou des appels étaient en instance, de sorte que ces sociétés ont pu soulever de nouvelles questions en se fondant sur de nouvelles interprétations et sur le résultat de décisions judiciaires contestées par d'autres contribuables.
+Récemment, le vérificateur général et le Comité des comptes publics ont décelé un problème particulier. Une affaire portant sur le calcul de la « déduction relative aux ressources » qui avait abouti à une décision défavorable au ministère a donné lieu à des demandes qui étaient non seulement fondées sur les faits particuliers sur lesquels la cour s'était prononcée, mais aussi sur une nouvelle question se rapportant au calcul de la « déduction relative aux ressources ». Ces demandes, découlant directement et indirectement de la décision rendue par le tribunal, mettaient en cause des montants élevés, au titre de l'impôt et des intérêts.
+En résumé, il est essentiel que les revenus soient davantage prévisibles et que les obligations potentielles soient donc déterminées et réglées dans un délai plus raisonnable.
+Bref, le Parlement veut que le ministre du Revenu national (le ministre) puisse établir le plus tôt possible la nature et le montant de l'obligation fiscale en souffrance et ses effets fiscaux possibles.
+[4] Il est clair que ces règles pourraient entraîner de dures conséquences en empêchant une grande société d'interjeter appel à l'égard de questions qui peuvent se présenter après le dépôt de l'avis d'opposition. Cela dépend toutefois de la mesure dans laquelle la description de la question dans l'avis d'opposition est suffisante. Comme la Cour d'appel fédérale l'a affirmé dans l'arrêt Potash :
+[22] [...] Contrairement à ce que le juge a dit, une grande société n'est pas tenue de décrire la question « de façon précise », mais elle est tenue de donner une description « suffisante ». Or, ce qui est suffisant diffère d'un cas à l'autre et dépend du degré de précision nécessaire pour permettre au ministre de connaître chaque question à trancher.
+[5] Dans l'affaire Potash, l'appelante a soutenu qu'elle avait omis par inadvertance certains éléments de revenu dans le calcul de ses bénéfices relatifs à des ressources à l'étape de l'opposition et qu'elle voulait les inclure à l'étape de l'appel. La Cour d'appel fédérale a déclaré ce qui suit :
+[24] [...] il n'aurait pas été suffisant de se contenter de dire que c'était la question de la détermination de la « déduction relative aux ressources » ou des « bénéfices relatifs à des ressources » qui était en litige sans préciser les éléments particuliers qui devaient être déterminés par le ministre ou par la Cour de l'impôt. Une description aussi générale aurait pour effet de rendre inutiles les Règles relatives aux grandes sociétés et irait à l'encontre de leur objet.
+[6] Enfin, dans des remarques incidentes faites concernant le montant en litige, la Cour d'appel a mentionné ce qui suit :
+[27] Le juge a fait un certain nombre de remarques au sujet de l'exigence légale voulant qu'un « montant » soit précisé pour chaque question. S'il avait conclu, comme il aurait dû le faire, que PCS n'a pas le droit d'inclure les cinq éléments contestés dans l'avis d'appel, il n'aurait pas été nécessaire de traiter de la quantification. Je n'ai pas non plus de remarques à faire à ce sujet. Je préfère remettre à plus tard la question de savoir si l'obligation de « préciser, pour chaque question, le redressement demandé, sous la forme du montant qui représente la modification d'un solde, au sens du paragraphe 152(4.4), ou d'un solde de dépenses ou autres montants non déduits applicables à la société » lie nécessairement une grande société pour ce qui est du montant mentionné, ou pour un montant inférieur. Il est possible de soutenir que, dans certains cas, la modification d'un avis d'appel serait permise si la modification portait uniquement sur le montant sans qu'une nouvelle question soit soulevée.
+[7] J'examinerai maintenant les faits de l'espèce pour décider comment les règles relatives aux grandes sociétés, telles qu'elles ont été interprétées par la Cour d'appel fédérale, doivent s'appliquer.
+[8] Tout d'abord, il n'est pas contesté que l'appelante était une grande société pour l'application de la Loi.
+[9] En mars 1992, cinq actions ordinaires de catégorie A d'une société non liée à l'appelante ont été rachetées par cette société pour la somme de 338 213 849 $, ce qui a donné lieu à un dividende réputé au titre du paragraphe 84(3) de la Loi.
+[10] L'appelante a supposé qu'une partie du produit du rachat ne devenait payable qu'au cours de l'année d'imposition 1995 et a déclaré une partie du dividende réputé (52 912 264 $) comme revenu imposable en 1995, ce qui s'est traduit par un impôt de 13 333 059 $ au titre de la partie IV.
+[11] Le ministre a établi une nouvelle cotisation à l'égard de l'année d'imposition 1995 de l'appelante par un avis de nouvelle cotisation daté du 31 janvier 2000 pour réduire de 25 332 237 $ le montant du dividende réputé inclus dans le revenu imposable de l'appelante pour cette année d'imposition. L'impôt de la partie IV qui en découlait a été réduit en conséquence.
+[12] L'appelante s'est opposée par un avis d'opposition du 29 mai 2000. Sous le titre [TRADUCTION] « Point en litige », l'appelante a décrit la question de la manière suivante :
+[TRADUCTION]
+1. Le produit du rachat des actions ajouté au revenu à titre de dividende réputé.
+Année d'imposition
+Rajustement du dividende réputé
+10 mars 1995
+(25 332 237 $)
+10 mars 1994
+(8 154 757 $)
+10 mars 1993
+154 224 784 $
+120 737 790 $
+[13] L'appelante a affirmé qu'elle avait à juste titre inclus dans son revenu pour 1995 la partie du produit du rachat qui était devenu payable au cours de l'année d'imposition 1995.
+[14] Sous le titre [TRADUCTION] « Conclusions recherchées », l'appelante a décrit le redressement demandé de la manière suivante :
+[TRADUCTION]
+Par un avis de nouvelle cotisation du 31 janvier 2000, le ministre a établi une nouvelle cotisation à l'égard de Bakorp Management Ltd., anciennement Seven‑Up Canada Inc. (la « contribuable »), pour le montant qui fait l'objet du résumé ci-dessous concernant la question susmentionnée.
+10 mars 1995
+Réduction de l'impôt de la partie IV
+6 333 059,00 $
+Intérêt sur remboursement
+2 444 334,06 $
+Paiement en trop selon la nouvelle cotisation
+8 707 393,06 $
+La contribuable s'oppose à la nouvelle cotisation d'impôt susmentionnée, de même qu'à l'intérêt et aux pénalités relatifs à l'élément visé par la nouvelle cotisation pour la période d'imposition ayant pris fin le 10 mars 1995.
+[15] En fait, l'appelante s'opposait à ce que le ministre réduise de 25 332 237 $ le dividende réputé en 1995. L'appelante a soutenu qu'elle avait inclus à juste titre le dividende réputé de 52 912 284 $ dans son revenu pour l'année d'imposition 1995. Elle a poursuivi en disant, dans l'avis d'opposition, [TRADUCTION] qu'« il lui était impossible de savoir comment l'ADRC avait établi le rajustement à apporter au revenu imposable » et [TRADUCTION] qu'« elle ne souscrit pas à la position prise par l'ADRC ».
+[16] Le ministre a établi un avis de ratification le 26 mars 2012 :
+[TRADUCTION]
+Au cours de l'année d'imposition 1993, les actions ont été rachetées pour un produit de 338 213 849 $. De ce montant que vous avez reçu, une somme de 187 062 571 $ est réputée être un dividende suivant le paragraphe 84(3) de la Loi de l'impôt sur le revenu (la « LIR »). De plus, il s'agit d'un « dividende imposable » au sens du paragraphe 89(1) de la LIR. Nous avons admis qu'une somme de 28 000 000 $ devrait être incluse dans votre revenu pour l'année 1995 au titre de ce dividende réputé.
+[17] Le ministre a rejeté l'opposition et a réduit le dividende réputé en incluant dans le revenu de l'appelante une somme de 28 000 000 $ à titre de dividende réputé au lieu des quelque 53 000 000 $ que l'appelante voulait inclure dans son revenu pour 1995.
+[18] L'appelante a déposé un avis d'appel en décembre 2012, rédigé en partie en ces termes :
+[TRADUCTION]
+8. De ce dividende réputé, une somme de 28 000 000 $ n'a été incluse dans le revenu de l'appelante qu'en 1995 (la « somme reçue en 1995 »).
+[...]
+13. La question qui se pose relativement à la cotisation est celle de savoir si la somme reçue en 1995 est imposable à juste titre au cours de l'année 1995 de l'appelante.
+[...]
+15. Le dividende réputé, notamment la somme reçue en 1995, était payable à l'appelante en 1993. Il devrait donc être inclus dans le revenu imposable de l'appelante pour 1993.
+[19] L'intimée soutient que l'appelante ne s'est pas conformée aux règles relatives aux grandes sociétés pour les raisons suivantes :
+1. la question énoncée dans l'avis d'appel n'est pas décrite dans l'avis d'opposition;
+2. le redressement précisé dans l'avis d'appel n'est pas le redressement précisé dans l'avis d'opposition.
+[20] L'intimée soutient que, dans l'avis d'opposition, l'appelante précise qu'elle veut qu'une somme d'environ 25 000 000 $ soit incluse dans son revenu pour 1995 à titre de dividende réputé, alors que, dans l'avis d'appel, l'appelante veut maintenant souscrire à la position prise par le ministre concernant la somme de 25 000 000 $ et porter le solde de 28 000 000 $ en réduction du montant du dividende réputé inclus dans son revenu en 1995.
+[21] L'appelante fait valoir qu'il ressort très clairement de l'avis d'opposition que la question est de savoir quelle somme doit être incluse dans son revenu pour 1995 en tant que dividende réputé au titre du produit du rachat visé. Comme l'appelante l'a dit, telle est la nature du litige. Elle a toujours été la même, que ce soit à l'étape de l'opposition ou à l'étape de l'appel. L'appelante n'a tout simplement pas accepté les calculs du ministre et soutient que cela ne peut pas être décrit comme une réorganisation complète, pour reprendre les termes de la Cour d'appel fédérale, de la déclaration de revenus de l'appelante pour 1995. Je ne suis pas d'accord.
+[22] Je ne puis imaginer réorganisation plus complète que le fait de faire volte‑face quant à ce qui doit être inclus dans le revenu.
+[23] L'appelante adopte une démarche trop générale pour déterminer la question en litige. Selon une telle démarche, on rédigerait les actes de procédure en fonction de ce qui est le montant de revenu approprié, ce qui aurait pour effet de vider de tout leur sens les exigences figurant dans les règles relatives aux grandes sociétés, selon lesquelles il faut donner une description suffisante des questions et fournir des précisions à l'égard de celles‑ci. L'appelante dit que l'appel n'est que la suite de l'examen du traitement fiscal qu'il convient d'accorder à un produit de rachat clairement énoncé, et l'appelante entend par là la totalité du produit. Toutefois, il n'est pas mentionné dans l'avis d'opposition que la totalité du produit est visée par la question. Seule la somme de 25 000 000 $ y est mentionnée, et ce, en tant que montant à inclure dans le revenu. À mon avis, il est déraisonnable d'affirmer que la question peut être interprétée de façon aussi large que l'appelante le prétend.
+[24] Si j'avais conclu que l'appelante avait eu raison de dire que la question formulée dans l'avis d'appel était la même que celle énoncée dans l'avis d'opposition, il aurait été nécessaire de décider si le redressement demandé en appel était le même que celui demandé par la société dans l'avis d'opposition. Pour être conforme à l'alinéa 165(1.11)b), l'avis d'opposition doit faire état de la modification du solde du revenu, du revenu imposable ou de l'impôt. L'avis d'opposition de l'appelante fait état d'une modification d'environ 25 000 000 $ au titre du revenu et d'une modification de 6,3 millions de dollars au titre de l'impôt. L'appelante soutient que le redressement qu'elle demande en appel est le même : elle veut que soit déterminé le montant approprié à inclure dans son revenu pour 1995 en tant que dividende réputé. Seul le montant a changé. Encore une fois, je ne suis pas d'accord.
+[25] Il ne s'agit pas d'une situation où l'appelante a découvert une erreur, un oubli ou un fait nouveau qui a des répercussions sur le montant visé. Il s'agit d'une volte‑face radicale. L'appelante, qui voulait qu'une somme de 53 000 000 $ soit incluse dans son revenu, veut maintenant que rien ne soit inclus dans son revenu. L'appelante, qui disait au ministre qu'il avait eu tort de réduire de 25 000 000 $ le montant inclus dans le revenu, dit maintenant au ministre qu'il a eu raison de réduire de 25 000 000 $ le montant inclus dans le revenu et qu'il aurait par ailleurs dû exclure du revenu la totalité de la somme de 53 000 000 $. Comme la Cour d'appel fédérale l'a souligné dans l'arrêt Potash, il peut y avoir des situations où une modification du montant ne fait pas intervenir les règles relatives aux grandes sociétés. Nous ne sommes pas en présence d'une telle situation en l'espèce.
+[26] L'appelante a porté le ministre à croire que l'opposition pour l'année 1995 portait sur une partie du dividende réputé, soit 25 000 000 $, et non sur la totalité de celui‑ci, soit 53 000 000 $. Le redressement demandé était l'augmentation du revenu, pas la réduction de celui‑ci. Il n'est pas simplement question de modifier le montant visé. Les règles relatives aux grandes sociétés ont été conçues pour éviter que ce genre de situation se produise.
+[27] L'appelante souligne que le paragraphe 169(2.1) ne comporte aucune mention expresse du montant de la modification du solde et que, par conséquent, elle dispose d'une certaine latitude quant au montant. Je ne souscris pas à cette interprétation. Le paragraphe 169(2.1) fait état du « redressement, tel qu'il est exposé dans l'avis, qu'elle demande relativement à cette question ». Le paragraphe 165(1.11) exige que soit précisé le montant de la modification du solde, tel que ce terme est défini. On ne peut donc pas faire fi du caractère précis de la modification du solde.
+[28] Je pourrais accueillir la requête en application de plus d'une des dispositions des Règles invoquées par l'intimée, mais je conclus que l'alinéa 58(3)b) est la disposition la plus pertinente, étant donné que l'appelante n'a pas satisfait à une condition préalable pour interjeter appel. L'appel est donc rejeté avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 2e jour d'avril 2013.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 25e jour de juin 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2013 CCI 94
+NO DU DOSSIER DE LA COUR : 2012-4029(IT)G
+INTITULÉ : BAKORP MANAGEMENT LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 6 mars 2013
+MOTIFS DE L'ORDONNANCE : L'honorable juge Campbell J. Miller
+DATE DE L'ORDONNANCE : Le 2 avril 2013
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Matthew Williams
+Me Rebecca Potter
+Avocates de l'intimée :
+Me Jenny Mboutsiadis
+Me Marie-Thérèse Boris
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Matthew Williams
+Cabinet : Thorsteinssons
+Toronto (Ontario)
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

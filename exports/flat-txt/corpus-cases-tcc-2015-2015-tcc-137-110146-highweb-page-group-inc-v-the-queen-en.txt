@@ -1,0 +1,231 @@
+Title: Highweb & Page Group Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110146/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-137-110146-highweb-page-group-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-06-08
+
+# Highweb & Page Group Inc. v. The Queen
+
+- Citation: 2015 TCC 137
+- Decision date: 2015-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2739, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Highweb & Page Group Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-08
+Neutral citation
+2015 TCC 137
+File numbers
+2014-1703(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1703(IT)I
+BETWEEN:
+HIGHWEB & PAGE GROUP INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 1 and 2, 2015, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+Todd Louie and Ryan Wagman
+Counsel for the Respondent:
+Aaron Tallon
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal in respect of the 2007 and 2008 taxation years is dismissed on the basis that the Appellant did not undertake scientific research and experimental development beyond that already recognized by the Minister of National Revenue.
+Signed at Edmonton, Alberta, this 8th day of June 2015.
+“R.S. Bocock”
+Bocock J.
+Citation: 2015 TCC 137
+Date: 2015-06-08
+Docket: 2014-1703(IT)I
+BETWEEN:
+HIGHWEB & PAGE GROUP INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction and Issues [1] The Appellant, Highweb & Page Group Inc. (“HPGI”), appeals the Minister of National Revenue’s (the “Minister”) disallowance of certain scientific research and experimental development (“SR-ED”) expenditures. The sum of $25,200 was disallowed in the 2007 taxation year (Phase I) and $37,975 in the 2008 taxation year (Phase II). The Minister did allow SR-ED investment tax credits (“ITCs”) of $2,704 in the 2008 taxation year (“STA2 - Phase II”).
+[2] HPGI appeals on the basis that it undertook technological investigation or experiments to resolve identified technological uncertainties. Specifically, HPGI asserts it conducted the required systematic investigation which yielded 6 technological advancements in Phase I and a total of 4 technological advancements in Phase II, 3 more than the 1 allowed by the Minister (STA2 – Phase II). There is no dispute as to the amounts, dates, or other criteria.
+[3] Therefore the one issue before the Court is: does the work undertaken by the Appellant beyond STA2 – Phase II constitute SR-ED?
+II. Law [4] To qualify for SR-ED ITCs, a taxpayer must expend amounts on scientific research and experimental development related to the business of the taxpayer, carried on in Canada and directly undertaken by the taxpayer, pursuant to section 37(1)(a)(i) of the Income Tax Act, RSC 1985, c.1 (5th Supp.) (the “Act”).
+[5] Relevant to the Appellant’s claim is the definition of scientific research and experimental development within subsection 248(1) of the Act which reads as follows (with relevant emphasis added by underscoring):
+…
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+…
+[6] The definition is broad and somewhat circuitous in subparagraphs (a), (b), (c), and (d). Further, that broad definition is subject to exclusions in subparagraphs (e) through (k). Not surprisingly and appropriately then, jurisprudence providing a methodological approach has necessarily developed.
+[7] In Northwest Hydraulic Consultants Ltd. v. Her Majesty The Queen, [1998] 3 CTC 2520 (“Northwest Hydraulic”), Justice Bowman outlined five criteria, summarized by this Court below, to assist in assessing whether the “experiments” constitute SR-ED expenditures:
+1. Is there technical risk or uncertainty?
+2. Are there hypotheses which target the uncertainty?
+3. Did the procedures employ the scientific method bearing the usual hallmarks: trained and systematic observation, measurement and experiment, and the iterative modification of the hypotheses?
+4. Was an advancement made; simply, was knowledge gained?
+5. Were all of the above steps contemporaneously recorded in detailed records?
+III. The Project Generally [8] With any SR-ED claim, the facts related to the undertaken experiments are critical and central to any analysis by the Court.
+[9] HPGI’s business is the marketing and design of digital software and web-based accessibility systems. These products and services assist small- and medium-sized businesses to manage internal server and web-based applications, content, and business processes through the use of HPGI’s “iFactum” software suite (“iFactum”). The program iFactum was being sold prior to the SR-ED work being undertaken.
+[10] HPGI’s president and principal, Mr. Sarmiento, together with one assistant undertook the work. Mr. Sarmiento testified at the hearing. Mr. Sarmiento has a Bachelor of Science degree in electrical engineering and many years’ experience with his company in developing and marketing software related to business information management and integration. He seemed sufficiently qualified to otherwise carry out the work undertaken.
+[11] Generally, and as described by the Appellant in its initial SR-ED application, Phase I (the 2007 SR-ED) and Phase II (the 2008 SR-ED) involved enhancing the Appellant’s product by “universalizing” the iFactum web content management system compatibility with other commercial operating system platform programs (Phase I) and commercial web-based server platforms (Phase II). In short, to update and modify iFactum’s utility with updated or new third-party system server and web-based software.
+[12] In argument, the Appellant’s agent ultimately provided the actual overriding hypothesis or proposal to the Court for each of Phase I and II. They were as follows:
+Phase I: The software design language “J#” could achieve interoperability, communication, and/or functionality between various software product platforms by the modification of iFactum code utilizing various operating systems.
+Phase II: That iFactum could achieve compatibility across multiple web-based platforms or web service content by modifying iFactum code.
+[13] Deductively, there is a targeted difference between the proposed technological advancement in Phase I and II: the first (Phase I) enhancements target actual operating systems on a user’s own computer systems and the second (Phase II) target compatibility across web- or internet-based platforms. Frequently, this is described as a business’ own “intranet” system (Phase I) as opposed to the publically available “internet” (Phase II). Although the targets are different, the advancement is theoretically achieved through modifying and/or redesigning the underlying iFactum code. The code is simply the binary sequence language embedded within the program or operating language of iFactum which provides the commands, directions, and scheme for the program.
+IV. Specifics of the Work Undertaken [14] While it may be logical to look at the technological uncertainty and experimental procedures as a whole, in light of the overarching two hypotheses however, the most practical and common sense analysis must occur more elementally. Since each alleged proposed technological investigation or experiment must focus on the technological uncertainty, each of 2007 and 2008 shall be analyzed segmentally. This is consistent with both the analysis undertaken by the Minister in denying most of the claimed SR-ED ITCs and with the manner in which HPGI presented its appeal at the hearing. It is also consistent with the authorities: Les Abeilles Service de Conditionnement Inc. c. Sa Majesté la Reine, 2014 CCI 313 at paragraph 138. As well, such an analysis distills the otherwise insular and unique language of software development. It is noted that two books of documents (actually entitled “Book of Evidence” and “Book of Documents”) were entered by HPGI into evidence. Only those documents referenced in these Reasons were described and referenced by viva voce evidence during the hearing and therefore comprise the documentary record before the Court. Such specific documents were identified to the parties at the outset and clarified at the conclusion of hearing testimony and prior to submissions.
+[15] Therefore, the chart attached hereto as Appendix 1 summarizes the Phase I and Phase II experiments and steps of the undertaking as originally described and analyzed by the Canada Revenue Agency (the “CRA”). The synthesized summaries are gleaned from the testimony of two witnesses: on behalf of the Appellant, Mr. Sarmiento, the president of HPGI, and on behalf of the Respondent, Mr. Pelissero, a research and technology advisor with the CRA.
+[16] The onus lies with the Appellant to show more likely than not, that the work undertaken within the experiments was SR-ED: Zeuter Development Corporation v. Her Majesty The Queen, 2006 TCC 597 (“Zeuter Development”) at paragraph 26. To that end, HPGI’s documentary evidence consisted of time tracking sheets for Mr. Sarmiento and the other HPGI employee and approximately 37 trouble ticket entries by date for Phase I and 17 trouble ticket entries by date for Phase II. These trouble tickets were computer based “post-its” which identified challenges and next steps in very general computer nomenclature. On the other hand, the substantive 16-page SR-ED Technical Review Report (the “Technical Review Report”) was prepared by Mr. Pelissero of the CRA. An analysis of the evidence regarding compliance with the scientific method and recordal will be determined by specific assessment of the alleged technological uncertainty, proposed experiments, and claimed advancement, again lifted almost entirely from the CRA’s Technical Review Report referred to above.
+V. Analysis and Decision [17] For the following reasons the appeal is dismissed.
+(1) Technological Uncertainty and Technological Advancement Absent [18] For technological uncertainty to exist there must be a gap in knowledge. It was described by the Appellant’s agent as “a missing piece of a jigsaw puzzle”. It cannot be that the knowledge exists, but is merely unknown to an ITC claimant, or that the gap is soluble by the application of another product through usual techniques applied by, in this case, skilled and experienced software developers. Simply applying such skills with generally available knowledge and/or other products is not scientific or experimental development. It is product research and development. The fact that readily available programs such as J# and JavaScript formed the bedrock of such undertakings suggests the uncertainty was not of a technological unknown, in the sense of a knowledge gap, but rather that of selective trial and procedural sequencing errors: knowing which available products applied in the correct sequence utilizing routine, standard or customary modifications would accomplish the best enhancement to the existing, but outdated, iFactum software.
+[19] This point is further demonstrated by the SR-ED ITCs allowed by the Minister in STA2 - Phase II. Considerably more recordal information was generated and referable to this technological uncertainty, technological experiment, and technological advancement. Further, there was a resolution of identified technological uncertainties within the differential encoding of .NET and Java platforms. Individual testing and modification, duly recorded, modified the functions in phased protocols. The STA2 – Phase II undertaking generated learning around the uncertainty of reconciling data-type mapping of QueryBeans. It had been incompatible. A technique was devised to discover a reconciliation of shared data types between .NET and JavaScript based platforms. The knowledge was not gained in the positive achievement of the postulate or hypothesis, but in learning an outcome in the context of the uncertainty proved by a negative result. No other detailed technological experiment or technological advancement of another claimed technological advancement in either of Phase I or Phase II was so defined, examined, analyzed, and/or resolved. HPGI’s agent suggested that Information Circular 86-4R3 provided assistance where, at first glance, technological uncertainty might not exist. He submitted that “system uncertainty” existed. It required “work on combining technologies, devices, and/or processes” since “non-trivial combinations of established (well-known) technologies and principles for their integration carry a major element” of system uncertainty. This is factually not apparent from the evidence. The Appellant did not tender sufficient concurrent documentation or records to show that the challenge of system and internet incompatibility (beyond STA2 - Phase II) was analyzed sufficiently to establish a need for technological experiments or investigation to solve the alleged technological gap related to iFactum.
+(2) No Clear Hypotheses or Technological Investigations Revealed in Evidence Support the SR-ED Claim [20] At the conclusion of one-and-a-half days of evidence, HPGI, through its agent, after precise questioning from the Bench, assembled the two hypotheses referenced above: one operating system based and the other based upon web or internet interfaces. It was also not clear from Mr. Sarmiento’s testimony that these precise hypotheses were documented at the time the work was undertaken. The presence of the hypotheses, at the outset, is essential to otherwise provide the Court with demonstrable evidence that the technological experiments/investigations existed at the outset to overcome the uncertainty. The one exception to this existed within STA2 - Phase II of the Technical Review Report. In STA2 – Phase II the common use by HPGI of the words “incompatibility”, “not resolvable with existing products”, and “required research” were hallmarks of existing technological uncertainty which intuitively led to a developed hypothesis and undertaken detailed technological investigations. The Minister allowed this claim, but denied the others. For the Court, it is consistent with the authorities which logically state that for technological uncertainty to be overcome, a “detailed record of the hypotheses … be kept as the work progresses” (Northwest Hydraulic at paragraph 16). This was inconsistent with HPGI’s factual record; the scant concurrently recorded documentary evidence prepared and marshalled by the Appellant was not sufficient to show the technological investigation/experiment to prove or disprove the hypotheses beyond STA2 - Phase II.
+[21] Evidence was not offered to indicate that the work undertaken was, on balance, more than HPGI’s core business of software design and modification of its existing product. The program, iFactum, required usual and customary updating, a task prolific in the industry. The evidence did not show that the work undertaken went beyond applying standard practices and procedures, albeit with newly released or updated, third-party products. Little evidence suggested such work was more than enhancing the iFactum product, with existing, but newly released products through computer programming manipulated by the skills of a person suitably trained: C.W. Agencies Inc. v. Canada, 2002 DTC 6740 at paragraph 18. On balance, based upon the evidence, the enhancement of iFactum was the deployment of steps constituting the application of existing products and the debugging of code deficiencies and incompatibilities between iFactum and other platforms by using usual software design techniques. These products and skills were applied to iFactum to commercially enhance its marketability.
+(3) Insufficiency of Relevant Record Keeping [22] Quite apart from anything else, the evidence of having followed scientific procedures was simply not sufficient in the disallowed technological investigation, experiments, and advancements. This was demonstrated by Mr. Sarmiento’s need at the hearing to describe the technological uncertainty, technological advancement, and work undertaken not through any cogent, recognizable or organized technical records generated by HPGI, but rather by extensive, and almost exclusive reference in his evidence-in-chief to the CRA Technical Review Report. The Technical Review Report was helpful because it referenced Mr. Sarmiento’s commentary at interviews during the CRA audit and review phase which, notably, occurred after the work. This is not a suitable substitute for contemporaneous record keeping. Nothing approaching similar records or documents created by HPGI at the time the SR-ED work was undertaken was before the Court. While evidence of the outcome is important, it is critical to technological advancement that the rigours of adherence to the scientific and experimental method be kept on a detailed and concurrent basis with the conduct of the experiments. Since a negative answer to the hypothesis is a more frequent outcome and frequently as helpful in advancing technological knowledge, detailed step-by-step logging, analysis, and measurement is a mandatory requirement, not an optional addendum. It is the roadmap. If one loses the way and failure results, retracing through these accurate records provides one with the deductive process for developing a different direction, speed or mode to create, locate, size, and arrange the “missing piece in the puzzle”. The “only reliable method of demonstrating that scientific research was undertaken in a systematic fashion is to produce documentary evidence”: Zeuter Development at paragraph 28. Factually, that necessary recordal process was not present in this appeal.
+VI. Summary and Costs [23] In summary, it may well be that some incremental technological uncertainty and technological advancement occurred within additional components of Phase II and within any of the Phase I work. However, the precise nature of the technological uncertainty, hypotheses or experiments on how these challenges would be solved and the advancement of knowledge gained through the research cannot be identified from HPGI’s evidence of undertaken work. Factually, there was manifest disregard and non-compliance with the essential and well-known procedural requirements of the scientific method and its fundamental requirement for detailed and current recordkeeping in order to document the technological uncertainty, the hypotheses, the experiments, the results, and achievements.
+[24] Since the Appellant elected to proceed with both years under the Informal Procedure, there shall be no order as to costs.
+Signed at Edmonton, Alberta, this 8th day of June 2015.
+“R.S. Bocock”
+Bocock J.
+Summary of Technical Review Report, Appellant’s Testimony, and Records of Technological Advancement
+[emphasis through underscoring added]
+Phase of Research
+Technological Advance Claimed
+Appellant’s Testimony of Methodology Deployed / Records
+Respondent’s Position on Technological Advancement
+STA1
+Phase I
+This project advanced the underlying technology in software development for web application by rendering iFactum fully interoperable with the full spectrum of commercial software and hardware platforms. This breakthrough in system flexibility created unlimited scalability. These overall technological advancements resulted from a combination of key subordinate technological advancement.
+The basis of the experiment was to enable iFactum to work on multiple software platforms with a single or uniform code base. Different languages between Microsoft (C++) and others (IBM, Oracle). The goal was to run on all with the same code. Decided to employ J# after experiment. This opening step was to identify the operating system.
+• A review of the contemporaneous documentation (“CD”) (Weekly work journals, trouble tickets) identified industry programming techniques and problem determination/resolution scenarios that a trained information technology (“IT”) professional would perform under similar circumstances.
+• The CD did not substantiate a Systematic Investigation or Search by means of Experiment or Analysis that provided new Scientific or Technological Knowledge, or a Scientific or Technological Advancement.
+STA2
+Phase I
+To elaborate, HPGI advanced the underlying technology in programming web applications by developing the methodology – compiling Java without Java classes specific to Windows or Linux – to alleviate Java incompatibility with the Linux application server without comprising Java’s compatibility with Windows.
+Undertaken to write 150 iFactum business functions, manually converted to J# (for each of .NET and Java).
+• This work consisted of using the Java technology as intended.
+• There was no new Scientific or Technological Knowledge in the field of IT or computer science (“CS”).
+• There are many documentations for C#, J#, C++, and Java porting/migrating that are publicly available with plenty of sample code (these can be found in: 1. tutorials within books, 2. the internet, and 3. MSDN). There are also books written about porting C#/C++/J# to/from Java or vice versa.
+• A review of the CD (Weekly work journals, trouble tickets) identified industry programming techniques and problem determination/resolution scenarios that a trained IT professional would perform under similar circumstances.
+• The CD did not substantiate a Systematic Investigation or Search by means of Experiment or Analysis that provided new Scientific or Technological Knowledge, or a Scientific or Technological Advancement.
+STA3
+Phase I
+The team also advanced the underlying technology in web application software by rendering iFactum fully interoperable with the Linux operating system (OS) and its filing system structure that conflicted with its Windows counterpart. HPGI achieved this interoperability by inventing an iFactum programming that automatically identified the OS it connected to and then activated the corresponding internal filing system.
+Upon identifying the host operating system, the file would be retrieved using the uniform, newly developed iFactum code written in J#.
+• These are the correct techniques that a trained IT professional would perform under the same circumstances.
+• There was no new Scientific or Technological Knowledge in the field of IT or CS.
+• There are many well-known techniques of identifying the OS that an application is running on such as checking for a special DLL, .so (for AIX, Sun Solaris), .a (for Solaris), *SRVPGM in an O/S specific directory for the specific operating system and determining if it exists or not.
+• Refers to running a different, customized code not a uniform or universal code.
+STA4
+Phase I
+Innovating an automatic process to electronically identify the engaged platform and corresponding database and then harmonize the iFactum database’s Data Definition Language (DDL) and Database Manipulation Language (DML) thereto advanced the technology underlying database manipulation and software programming for web applications. This innovation also rendered iFactum universally compatible with commercial database systems across the platform spectrum, as well as all versions thereof.
+To update iFactum in order for compatibility with different host databases: SQL server, Oracle, and DBZ, and their unique DDL and DML code.
+• These are the correct techniques that a trained IT professional would perform under the same circumstances.
+• There was no new Scientific or Technological Knowledge in the field of IT or CS.
+• This STA is better understood as a statement of business fact and what had to be done (update iFactum so it would be compatible with different databases (SQL Server, Oracle and DB2) and their associated DDL and DML).
+STA5
+Phase I
+Rendering iFactum interoperable with the aforementioned SME (Small and Medium Enterprises) and high-end platforms advanced the underlying technology in software reprogramming and reconfiguration for web applications.
+To update iFactum to afford compatibility and interoperability with IBM platforms.
+• There was no new Scientific or Technological Knowledge in the field of IT or CS.
+• The STA is better understood as a statement of business fact and what had to be done (have iFactum operate on specific IBM platforms). There was no Science or Technology identified.
+• A review of the CD (Weekly work journals, trouble tickets) identified industry programming techniques and problem determination/resolution scenarios that a trained IT professional would perform under similar circumstances.
+• The CD did not substantiate a Systematic Investigation or Search by means of Experiment or Analysis that provided new Scientific or Technological Knowledge, or a Scientific or Technological Advancement.
+STA6
+Phase I
+HPGI achieved secondary technological advancements underlying web content management systems by equipping iFactum with limitless external data retrieval capabilities and improving user interaction. Specifically, the team leveraged the newly introduced program for automatic database creation with data repositories where website visitors could enter information on a user-friendly interface automatically transmitted to the iFactum database.
+To update iFactum to allow customized reports from other host databases: Oracle, DBZ, and SQL servers.
+• The framework of the code was:
+1. Read iFactum’s configuration file to determine if the database is Local or remote and its type (Oracle, DB2 or SQL Server);
+2. Have the user enter their UID and Password (this would allow permissions to specific data). Read the Metadata (to determine file layout) for the purpose of retrieving data;
+3. The data (tables and fields) would be presented to the user. The user would then select (drag and drop) the appropriate data for report generation.
+• These are the correct techniques (writing code within the limits of the software) that a trained IT professional would perform under the same circumstances.
+• There was no new Scientific or Technological Knowledge in the field of IT or CS.
+STA1
+Phase II
+Universalizing iFactum interoperability with commercial applications and hypothesized resolving it by systematically reprogramming iFactum to comply with Web Services (WS) in a SOA … encoded some 150 Web Service-compliant software functions to automate business process that communicate with Windows- and Linux-based commercial applications.
+This STA corresponds roughly with STA2 for Phase I, but for web-based services rather than host-based: to make 150 iFactum business functions web-service compliant.
+• These are the correct techniques (retrofitting/changing code to comply with specifications) that a trained IT professional would perform under the same circumstances.
+• There was no new Scientific or Technological Knowledge in the field of IT or CS.
+• The STA is better understood as a statement of business fact and what had to be done (make the 150 iFactum business functions WS compliant). There was no Science or Technology identified. There was no new Scientific of Technological Knowledge.
+STA2
+Phase II
+Allowed by Minister
+Allowed by Minister
+Allowed by Minister
+In the process, resolved myriad technological uncertainties underpinning the differential encoding of .NET and Java platform by individually testing and modifying the foregoing functions in phased experimental protocols. Through systematic experimental innovation, the team also surmounted complex uncertainties to rectify data-type mapping issues.
+There existed an incompatibility, not readily resolvable with existing, accessible products, between data type mapping of QueryBeans and .NET and Java, which required research to devise code to allow sharing of such data between .NET and Java.
+The work started February 18, 2008 and ended April 6, 2008. According to the CD and discussions with the claimant the following people performed work associated to this TA:
+• VS: 246 hours; Role: Supervision, Experimentation, Programming
+• “Person B”: 153 hours; Role: Tester/programmer
+Compliance and Eligibility Issues:
+• The above two people along with their associated time, performed eligible SR&ED work.
+Supporting documentation examined:
+• The review the Request Ticket History and Time Tracking log (citing people and hours claimed). Both had details of the work done.
+STA3
+Phase II
+HPGI next experimentally programmed each iFactum function to interoperate with high-end platforms remotely accessed from IBM’s Innovation Centre.
+To render iFactum operable on IBM web-based platforms by altering or reconfiguring iFactum code using QueryBeans data type.
+• These are the correct techniques that a trained IT professional would perform under the same circumstances.
+• There was no new Scientific or Technological Knowledge in the field of IT or CS.
+• The STA is better understood as a statement of business fact and what had to be done (make the 150 iFactum business functions run on IBM platforms). There was no Science or Technology identified. There was no new Scientific of Technological Knowledge.
+• A review of the CD (Weekly work journals, Trouble tickets) identified industry programming techniques and problem determination/resolution scenarios that a trained IT professional would perform under similar circumstances.
+• The CD did not substantiate a Systematic Investigation or Search by means of Experiment or Analysis that provided new Scientific or Technological Knowledge, or a Scientific or Technological Advancement.
+STA4
+Phase II
+The project team then further modified the software to perfect iFactum interoperability with IBM’s SOA Foundation Products.
+To achieve IBM certification of iFactum as SOA compliant by changing iFactum code to compliant SOA standards which would communicate with third-party applications, achieved through use of IBM enterprise and business server software tools.
+• These are the correct techniques that a trained IT professional would perform under the same circumstances.
+• There was no new Scientific or Technological Knowledge in the field of IT or CS. The technology (e.g. J#, SOA(rchitecture) is being used as intended.
+• The STA is better understood as a statement of business fact and what had to be done (make iFactum (IBM) SOA compliant). There was no Science or Technology identified. There was no new Scientific of Technological Knowledge.
+CITATION:
+2015 TCC 137
+COURT FILE NO.:
+2014-1703(IT)I
+STYLE OF CAUSE:
+HIGHWEB & PAGE GROUP INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 1 and 2, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+June 8, 2015
+APPEARANCES:
+Agent for the Appellant:
+Todd Louie and Ryan Wagman
+Counsel for the Respondent:
+Aaron Tallon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,242 @@
+---
+title: "Paes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27672/index.do"
+last_modified: "2007-05-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 311"
+citation2: ""
+neutral_citation: "2007 TCC 311"
+decision_date: "2007-05-30"
+language: "en"
+item_id: "27672"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 493
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:03:53.910000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4d0aa1a758dd70b70815e5fc928cd157f6c1fa2af158deeaf5df5f66a39932df"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paes v. The Queen
+
+- Citation: 2007 TCC 311
+- Decision date: 2007-05-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 493, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-30
+Neutral citation
+2007 TCC 311
+File numbers
+2006-2272(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2272(IT)I
+BETWEEN:
+KEN PAES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 18, 2007 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Nabi Khandaker
+Counsel for the Respondent:
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed for the reasons set forth in the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 30th day of May, 2007.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2007TCC311
+Date: 20070530
+Docket: 2006-2272(IT)I
+BETWEEN:
+KEN PAES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The issue in this appeal is whether in the 2003 taxation year the Appellant, a commissioned salesman employed by Superpages or Yellow Pages specializing in the business of advertising, is entitled to deduct certain expenses.
+[2] The principle data and the expenses denied by the Minister are set forth in Schedule A of the Reply to the Notice of Appeal, which reads as follows:
+Schedule A
+Taxation Year 2003
+As filed
+Allowed
+Reassessed
+Employment income
+Base salary
+52,817
+0
+Commissions
+42,314
+0
+Total employment income
+$95,131
+0
+Employment expenses
+$27,404
+$13,547
+$13,857
+Items under objection and appeal
+As filed
+Disallowed
+A. Office expenses
+Cabinet
+115
+115
+Printer
+549
+549
+Phone
+34
+34
+Phone connector
+57
+57
+Presentation equipment
+1,418
+1,418
+Total office expenses
+$2,173
+$2,173
+As filed
+Disallowed
+B. Seminar and training
+Seminar on real estate sales
+2294
+2294
+Seminar on sales
+35
+35
+Motivational lecture
+214
+214
+Basic HTML course
+400
+400
+Total seminar and training expenses
+$2,943
+$2,943
+Total amount under appeal
+$5,116
+Position of the Minister:
+[3] The position of the Minister is that the office expenses are capital in nature and the deduction of same is not permitted to the Appellant.
+[4] With respect to seminar and training, the Minister’s Reply states as follows:
+…
+c) Seminar and training:
+- seminar and training expenses were not incurred for business purposes;
+- the Appellant was not required to attend seminars and motivational lectures;
+…
+13. He further submits that the Minister has correctly determined that the Appellant is not entitled to claim additional personal expenses as per Schedule A in the amount of $2,943.00 pursuant to subparagraph 8(1)(i)(iii) of the Act in computing income for the 2003 taxation year.
+…
+Position of the Appellant:
+[5] The position of the Appellant is set forth in the following paragraphs of the Notice of Appeal:
+In order to earn income as salesperson he needed to use Table, chairs, cabinet, computer, printer, telephone among other equipment.
+He used his home as his office. He attended seminar in real estate sales and in motivational lecture.
+…
+The taxpayer would respectfully submit to the court that the taxpayer needed to use a computer and internet to find sales leads, establish contacts by telephone and letters to the prospective clients and needed telephone and printer, among other office equipment, for that purpose. He needed the presentation equipment to present the background information of his employer and convince thr [sic] the prospective clients the benefit of advertising through “Superpages”.
+In 2003 more than half of his income was from commission. The taxpayer was one of the top salesman of the company in that year. The taxpayer was highly motivated to succeed in his career as salesperson.
+He attended a motivational seminar and a real estate sales seminar. He learnt sales technique and sold advertising to real estate agents. Furthermore his training in those seminars has directly helped the taxpayer in his present position as salesperson of Goldbook, a company specialising in the same line of business as yellow page. …
+It is taxpayer’s opinion that ITA sec. 8(1)f, although not very clear, does not explicitly rejects [sic] notion of legitimate expenses arising out of capital outlay provided it directly contributes to taxpayer’s income. In many instances it drew a parallel to commissioned salesman’s deductible expenses and business expenses. One example would be motor vehicle expense. In both cases i.e. commissioned salesman & business, capital outlay on motor vehicle is not deductible from income, but the capital cost allowance is deductible as expense from income.
+The taxpayer fails to see any rational why there is discrepancy in the treatment of deductibility between motor vehicle expenses and office equipment expenses. Both are critical elements in earning income.
+[6] It will be seen later that capital cost allowance is only allowed with respect to autos and airplanes. Thus, an employee such as the Appellant can not claim capital cost allowance on the office expenditures.
+Analysis:
+[7] The following are extracts from the most relevant provisions of the Income Tax Act:
+8. (1) Deductions allowed -- In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+f) sales expenses [of commission employee] -- where the taxpayer was employed in the year in connection with the selling of property or negotiating of contracts for the taxpayer's employer, and
+(i) under the contract of employment was required to pay the taxpayer's own expenses,
+(ii) was ordinarily required to carry on the duties of the employment away from the employer's place of business,
+(iii) was remunerated in whole or part by commissions or other similar amounts fixed by reference to the volume of the sales made or the contracts negotiated, and
+(iv) was not in receipt of an allowance for travel expenses in respect of the taxation year that was, by virtue of subparagraph 6(1)(b)(v), not included in computing the taxpayer's income,
+amounts expended by the taxpayer in the year for the purpose of earning the income from the employment (not exceeding the commissions or other similar amounts referred to in subparagraph (iii) and received by the taxpayer in the year) to the extent that such amounts were not
+(v) outlays, losses or replacements of capital or payments on account of capital, except as described in paragraph (j),
+…
+(2) General limitation -- Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+[8] In Gifford v. R., [2004] 1 S.C.R. 411 the Supreme Court of Canada discussed certain factors to consider in relation to deduction of expenses. Major J., stated as follows:
+V. Analysis
+11 Before turning to the specific issues raised by this appeal, it is useful to review the general scheme for allowing deductions under the Act. The appellant taxpayer here earned income from employment and under the Act could only make deductions, as a result of s. 8(2), if the deduction was expressly allowed under s. 8.
+12 If an employee meets the requirements of s. 8(1)(f)(i) to (iv), he is then allowed to deduct any expense made for the purpose of "earning the income from the employment". If the expense is a payment "on account of capital", s. 8(1)(f)(v) removes it from the scope of expenses that can be deducted.
+13 When the source of income is a business or property as opposed to employment, the scope of available deductions is much broader because s. 9 states that the taxpayer's income will be the profit from the business or property. In calculating the profit from a business or property a taxpayer can make deductions in accordance with generally accepted accounting principles unless precluded by some other section of the Act. Sections 18(1)(a) and (b) are similar to the portions of s. 8(1)(f) that act as general limits on what can be deducted. Section 18(1)(a) states that only those expenses incurred for the purpose of gaining or producing income from a business or property can be deducted, and s. 18(1)(b) uses similar language as s. 8(1)(f)(v) to, among other things, preclude deductions of payments "on account of capital".
+14 While the general rules are similar, the exceptions create differences in the ability of taxpayers who earn their income from employment as opposed to from business or property to claim deductions in what appear to be similar circumstances.
+15 If an employee otherwise meets the requirements of s. 8(1)(f) but is prohibited from making a deduction because the expense is a payment "on account of capital" within s. 8(1)(f)(v), the only exception provided by the Act is s. 8(1)(j). This section allows for the deduction of payments on account of capital where the item purchased is either a motor vehicle or an aircraft in a manner similar to the capital cost allowance deduction under s. 20(1)(a) discussed below. The employee taxpayer is also allowed to deduct the interest paid on money borrowed to purchase either of these items.
+16 In contrast, a taxpayer earning income from business or property may be able to deduct expenses that fall within s. 8(1)(b) pursuant to a number of exceptions in the Act. Two of the more common exceptions are in ss. 20(1)(a) and (b). Section 20(1)(a) allows a portion of the capital cost of certain property to be deducted from this income, if the regulations provide for a capital cost allowance in relation to that type of property. Section 20(1)(b) provides a similar deduction for expenditures to purchase certain intangible capital assets, such as goodwill. Section 20(1)(c) is a specific provision that allows interest to be deducted when it is paid on money borrowed for certain purposes.
+17 That employees are treated differently than taxpayers earning income from business or property under the Act is not novel nor readily seen as fair. It has resulted in significant litigation when taxpayers attempted, with limited success, to cast themselves as independent business owners as opposed to employees to attempt to get the advantage of the more favourable deductions.
+18 If the payment to Bentley or the interest payment are payments "on account of capital", the appellant, as an employee, will not be able to make any deductions from his income for these expenses. Conversely, if the appellant was earning income from a business and not from employment, he would likely be able to deduct both these payments in calculating his profit for the year. This seemingly inequitable result for the appellant is the result of the structure of the Act but cannot alter the characterization of these payments.
+[9] As to training expenses, reference is made to the case of Neville v. The Minister of National Revenue, 88 DTC 1546. Taylor, T.C.J., stated as follows:
+…
+(b) that, while the amount at issue would very likely be deductible if this appellant was in business, under the circumstances where Mrs. Neville was an employee, it was not deductible. For this view counsel relied upon a quotation from Chapter 6 Taxation of Employees (supra):
+. . .Unlike taxpayers carrying on a business, whose ability to deduct expenses and outlays is relatively unfettered by paragraph 18(1)(a), employees are expressly restricted by subsection 8(2) to the deductions specified in that provision.
+and a comment from IT Bulletin 357R (supra):
+There is no provision in the Income Tax Act for an employee to deduct training expenses (other than tuition fees) in calculating income from employment.
+The Court will refer to this point later.
+…
+So whether termed 'training fees' or something else the deductions claimed here is for registration, enrolment and attendance at a course recommended and designed to upgrade this taxpayer's skills as a real estate salesperson who was remunerated on a commission basis -- an employee, but nevertheless a special kind of employee -- virtually a hybrid between a straight salaried employee and an independent contractor. The deduction, if any is to be allowed, must come under paragraph 8(1)(f) of the Act. I have said at other occasions that a commission remunerated employee, who qualifies under paragraph 8(1)(f), for deductions, need not seek support for deductions under any other subparagraph of section 8 -- because paragraph 8(1)(f) of the Act provides all the latitude required and available if properly interpreted. Mrs. Neville's properly filed statement of income and expenses covered a wide range of expenses -- a total of $4,668.97 out of commission income of $16,576.87, no problem there. But Mrs. Neville also used line 213 of the income tax return, entitled 'Tuition Fees' and deducted the $525.00 at issue, including as support the receipt for it. Since line 213 indicates the caution 'claimable by student only', and since Mrs. Neville considered herself a 'student' for the courses she was taking attempting to deduct, the amount there was understandable. I am quite satisfied it would have been equally proper -- perhaps more so, to have included it in the regular statement of expenses, at least to highlight the question of its deductibility.
+I have long held that the only unusual restriction on deductions for expenses of commission sales persons who qualify under paragraph 8(1)(f) of the Act is that C.C.A. is only (4) allowed on an automobile or an aircraft (not on office equipment, etc.) -- See Quesnel v. M.N.R., 77 DTC 92. Other than that, for the purpose of deductions from income, it is difficult to see that the phrase 'expended by him in the year for the purpose of earning income from the employment', paragraph 8(1)(f) can be read as a materially different restriction than the similar phrase in paragraph 18(1)(a) ' . . .made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property.' I fail to see that the Minister's second argument above noted as (b) can be taken seriously. If a deduction could be made under section 18 of the Act for the amount at issue here (and counsel agreed that according to IT Bulletin 357R it was very probably deductible) then I would not bar a similar deduction for this taxpayer.
+…
+Turning to argument (c) above, IT Bulletin 357R quite properly recognizes the difficulty facing the Minister in allowing or disallowing a deduction like the one at issue here -- and indeed I accept that there is probably a wide range of courses, seminars, 'week-ends', etc., to which the term 'training expenses' could be applied. I would suggest that all 'training courses' might contain some elements of acquisition of skills as well as upgrading of skills, but generally speaking I can think of no more apt distinction between 'capital' and 'current' than that made in the Bulletin for the guidance of taxpayers, and I quote:
+. . .Thus, the expenses in connection with any course which gives a credit towards a degree, diploma, professional qualification or similar certificate may not be deducted. On the other hand reasonable expenses in connection with a course which, for example enables a professional to learn the latest methods of carrying on his profession are allowable.
+[10] Furthermore, the following are extracts from the Interpretation Bulletin IT‑357R2 – Expenses of Training:
+…
+Self-employed Individuals
+2. Where a training or educational course results in a lasting benefit to the taxpayer, the costs incurred in connection with the course are considered to be capital in nature. The deduction of these capital expenditures as current expenses is disallowed by paragraph 18(1)(b); however, where these expenditures were incurred in respect of a business of the taxpayer, they would qualify as "eligible capital expenditures" (see the current versions of IT-123 and IT-143). A lasting benefit to the taxpayer is considered to occur where a new skill or qualification for a business is acquired. Thus, training costs incurred by the taxpayer in connection with a course which he or she takes to obtain a credit for a degree, diploma, professional qualification or similar certificate would be considered capital in nature. Where, on the other hand, the taxpayer takes a training course merely to maintain, update or upgrade an already existing skill or qualification with respect to his or her business or profession, expenses incurred in connection with such a course are not considered to be capital in nature and their deduction as current expenses is not disallowed by paragraph 18(1)(b). Thus, for example, costs incurred in connection with a course taken to enable a professional to learn the latest methods of carrying on his or her profession may be allowable, even if the course relates to an area of the profession in which the professional was not previously involved actively though qualified to be so involved.
+…
+8. Although a tax credit in respect of tuition fees paid to certain educational institutions is available to taxpayers (see the current version of IT-516) including those who are employees, the Income Tax Act generally does not provide for an employee to deduct training expenses. However, an exception to this general rule can occur under paragraph 8(1)(f). That is, a taxpayer who is employed in connection with the selling of property or negotiating of contracts for his or her employer and who is remunerated in whole or part by commissions or other similar amounts may be entitled to deduct training expenses under paragraph 8(1)(f), as was found by the Tax Court of Canada in the case of Doris J. Neville v. M.N.R., 88 D.T.C. 1546, [1988] 2 C.T.C. 2201. In order to deduct training expenses under paragraph 8(1)(f), all the requirements thereof must be satisfied. …
+Conclusion:
+[11] In my opinion the expenses claimed and denied by the Minister as indicated on said Schedule A are capital in nature and have been properly disallowed by the Minister. Consequently, the appeal is dismissed.
+Signed at Ottawa, Canada this 30th day of May, 2007.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2007TCC311
+COURT FILE NO.: 2006-2272(IT)I
+STYLE OF CAUSE: Ken Paes v. The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 18, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: May 30, 2007
+APPEARANCES:
+Agent for the Appellant:
+Nabi Khandaker
+Counsel for the Respondent:
+Brandon Siegal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,194 @@
+---
+title: "Richard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26796/index.do"
+last_modified: "2003-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 774"
+citation2: ""
+neutral_citation: "2003 CCI 774"
+decision_date: "2003-10-24"
+language: "fr"
+item_id: "26796"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3476
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:36:58.638000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "756a7a49e2539526ef2f223d3e47452d3caed1c61f4c827e10219c69b012a41a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Richard c. La Reine
+
+- Citation: 2003 CCI 774
+- Decision date: 2003-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3476, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-24
+Référence neutre
+2003 CCI 774
+Numéro de dossier
+2003-1332(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1332(IT)I
+ENTRE :
+CHRISTINE RICHARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 11 septembre 2003 à Ottawa (Ontario)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+Les appels des déterminations par lesquelles le ministre du Revenu national a refusé à l'appelante un crédit d'impôt pour la taxe sur les produits et services ( « TPS » ) ainsi que la prestation fiscale canadienne pour enfants en vertu des articles 122.5 et 122.6 de la Loi de l'impôt sur le revenu pour les années de base 2000 et 2001, sont rejetés.
+Signé à Ottawa, Canada, ce 24e jour d'octobre 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Référence : 2003CCI774
+Date : 20031024
+Dossier : 2003-1332(IT)I
+ENTRE :
+CHRISTINE RICHARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s'agit d'appels de déterminations du ministre du Revenu national ( « Ministre « ) par lesquelles il a été décidé que l'appelante avait reçu un paiement en trop au titre d'un crédit d'impôt pour la taxe sur les produits et services ( « TPS » ) pour les années d'imposition 2000 et 2001 et au titre de la prestation fiscale pour enfants pour les années de base 2000 et 2001. Les déterminations du Ministre ont été faites sur la base que le revenu rajusté et le revenu modifié dont on doit tenir compte pour calculer le crédit d'impôt pour la TPS et la prestation fiscale pour enfants, aux termes des articles 122.5 et 122.6 de la Loi de l'impôt sur le revenu ( « Loi » ), doivent inclure le revenu de monsieur Robert Dumont. Les définitions de « revenu rajusté » et de « proche admissible » au paragraphe 122.5(1) et de « revenu modifié » et de « conjoint visé » à l'article 122.6 se lisent comme suit :
+ARTICLE 122.5: Définitions.
+(1) Les définitions qui suivent s'appliquent au présent article.
+« proche admissible » - « proche admissible » : Est un proche admissible d'un particulier par rapport à un mois déterminé d'une année d'imposition la personne qui, au début de ce mois, est l'époux ou le conjoint de fait visé du particulier.
+Historique: Le paragraphe 122.5(1), la définition de « proche admissible » a été modifiée par L.C. 2002, ch. 9, par. 38(1), applicable aux montants réputés être payés au cours des mois déterminés des années d'imposition 2001 et suivantes. Cette définition se lisait antérieurement comme suit:
+« « proche admissible » : S'agissant du proche admissible d'un particulier pour une année d'imposition, la personne qui est l'époux ou le conjoint de fait visé, au sens de l'article 122.6, du particulier à la fin de l'année. »
+Historique: Le paragraphe 122.5(1), la définition de « proche admissible » a été modifiée par L.C. 2000, ch. 12, art. 142, en remplaçant « conjoint » et « conjoints » par « époux ou conjoint de fait » et « époux ou conjoints de fait » , avec les adaptations grammaticales nécessaires, applicable aux années d'imposition 2001 et suivantes.
+« revenu rajusté » - « revenu rajusté » En ce qui concerne un particulier pour une année d'imposition par rapport à un mois déterminé de l'année, la somme de son revenu pour l'année et du revenu de son proche admissible pour l'année par rapport à ce mois, calculés chacun comme si aucun montant n'était inclus au titre d'un gain provenant d'une disposition de bien à laquelle s'applique l'article 79.
+Historique: Le paragraphe 122.5(1), de la définition de « revenu rajusté » a été modifiée par L.C. 2002, ch. 9, par. 38(1), applicable aux montants réputés être payés au cours des mois déterminés des années d'imposition 2001 et suivantes. Cette définition se lisait antérieurement comme suit: « « revenu rajusté » Quant à un particulier pour une année d'imposition, le total des montants qui représenteraient chacun le revenu pour l'année du particulier ou de son proche admissible pour l'année si aucun montant n'était inclus dans le calcul de ce revenu au titre d'un gain provenant d'une disposition de bien à laquelle s'applique l'article 79. »
+ARTICLE 122.6: Définitions.
+Les définitions qui suivent s'appliquent à la présente sous-section.
+« conjoint visé » - « conjoint visé » Personne qui, à un moment donné, est l'époux ou le conjoint de fait d'un particulier dont il ne vit pas séparé à ce moment. Pour l'application de la présente définition, une personne n'est considérée comme vivant séparée d'un particulier à un moment donné que si elle vit séparée du particulier à ce moment, pour cause d'échec de leur mariage ou union de fait, pendant une période d'au moins 90 jours qui comprend ce moment.
+Historique: La définition de « conjoint visé » à l'article 122.6 a été modifiée par L.C. 2000, ch. 12, art. 142, en remplaçant « mariage » par « mariage ou union de fait » , avec les adaptations grammaticales nécessaires, applicable aux années d'imposition 2001 et suivantes.
+« revenu modifié » - « revenu modifié » Quant à un particulier pour une année d'imposition, le total des montants qui représenteraient chacun le revenu pour l'année du particulier ou de la personne qui était son époux ou conjoint de fait visé à la fin de l'année si aucun montant n'était inclus dans le calcul de ce revenu au titre d'un gain provenant d'une disposition de bien à laquelle s'applique l'article 79.
+Historique: Le paragraphe 122.6, la définition de « revenu modifié » a été modifiée par L.C. 2000, ch. 12, art. 142, en remplaçant « conjoint » et « conjoints » par « époux ou conjoint de fait » et « époux ou conjoints de fait » , avec les adaptations grammaticales nécessaires, applicable aux années d'imposition 2001 et suivantes.
+[2] Le Ministre a pris la position que monsieur Robert Dumont était le conjoint de fait de l'appelante au cours des périodes en litige, aux fins du calcul du revenu rajusté et du revenu modifié, ce que conteste l'appelante.
+[3] Les faits sur lesquels le Ministre fonde sa position sont les suivants :
+1. Quant à l'avis d'appel, il admet les faits suivants :
+a) que l'appelante et Robert Dumont ont eu un enfant, [le prénom et la date de naissance de l'enfant mineur sont gardés confidentiels. Le prénom est simplement remplacé par X]; et
+b) que l'appelante a également un enfant, [le prénom et la date de naissance de l'enfant sont gardés confidentiels. Le prénom est simplement remplacé par Y].
+[...]
+8. Pour établir la re-détermination de la PFCE [prestation fiscale canadienne pour enfants] pour les « années de base » 2000 et 2001 et la re-détermination pour le crédit de taxe pour les produits et services pour les années de base 2000 et 2001, le Ministre a tenu notamment pour acquis les faits suivants:
+a) les faits énoncés et admis au paragraphe 1 de la Réponse à l'avis d'appel;
+b) au cours de l'année d'imposition 1999 jusqu'à environ au mois de juin 2000, l'appelante et Robert Dumont demeuraient ensemble au 66 Du Ravin-Bleu à Hull; [admis]
+c) l'appelante et Robert Dumont ont acquis conjointement le 28 juin 2000 une propriété située au 56 rue Isabelle à Hull (la « résidence matrimoniale » ); [admis]
+d) l'appelante et Robert Dumont demeurent ensemble depuis le ou vers le 28 juin 2000 à la résidence matrimoniale; [admis]
+e) pour les périodes sous appel, l'appelante a reçu en son nom les factures d'Hydro-Québec et de Bell Canada relativement à la résidence matrimoniale; [admis]
+f) il n'y a pas d'indication que la résidence matrimoniale a été modifiée quant à sa structure pour permettre à l'appelante et à Robert Dumont de vivre séparément; [admis]
+g) pour les périodes sous appel, l'appelante et Robert Dumont ont partagé conjointement les responsabilités parentales à l'égard de leur fils X; [admis]
+h) pour les périodes sous appel, l'appelante a bénéficié de l'assurance dentaire et médicaments de Robert Dumont; [admis]
+i) durant les périodes sous appel, l'appelante et Robert Dumont ne vivaient pas séparés;
+j) l'appelante est considérée conjointe de fait de Robert Dumont pour les années de base 2000 et 2001;
+k) le revenu de l'appelante et de Robert Dumont constitue du revenu rajusté; et
+l) l'appelante devait inclure le revenu net familial [le revenu rajusté] dans le calcul du crédit pour la taxe sur les produits et services et le « revenu rajusté » [revenu modifié] dans le calcul de la prestation fiscale pour enfant.
+[4] La seule question en litige est de déterminer si monsieur Robert Dumont était le conjoint de fait de l'appelante au cours des années 2000 et 2001.
+[5] Les termes « conjoint » et « conjoint de fait » sont définis comme suit au paragraphe 252(4) de la Loi (applicable en 2000) et au paragraphe 248(1) de la Loi (applicable en 2001) :
+4252(4)3
+Historique: Le paragraphe 252(4) a été abrogé par L.C. 2000, ch. 12, [...] applicable aux années d'imposition 2001 et suivantes. [...]
+Ce paragraphe se lisait antérieurement comme suit:
+« (4) Idem. Dans la présente loi:
+a) les mots se rapportant au conjoint d'un contribuable à un moment donné visent également la personne de sexe opposé qui, à ce moment, vit avec le contribuable en union conjugale et a vécu ainsi durant une période de douze mois se terminant avant ce moment ou qui, à ce moment, vit avec le contribuable en union conjugale et est le père ou la mère d'un enfant dont le contribuable est le père ou la mère, [...]; pour l'application du présent alinéa, les personnes qui, à un moment quelconque, vivent ensemble en union conjugale sont réputées vivre ainsi à un moment donné après ce moment, sauf si elles ne vivaient pas ensemble au moment donné, pour cause d'échec de leur union, pendant une période d'au moins 90 jours qui comprend le moment donné.
+Art. 248(1)
+« conjoint de fait » -- « conjoint de fait » Quant à un contribuable à un moment donné, personne qui, à ce moment, vit dans une relation conjugale avec le contribuable et qui, selon le cas:
+a) a vécu ainsi tout au long d'une période d'un an se terminant avant ce moment;
+b) est le père ou la mère d'un enfant dont le contribuable est le père ou la mère [...]
+Pour l'application de la présente définition, les personnes qui, à un moment quelconque, vivent ensemble dans une relation conjugale sont réputées, à un moment donné après ce moment, vivre ainsi sauf si elles ne vivaient pas ensemble au moment donné, pour cause d'échec de leur relation, pendant une période d'au moins 90 jours qui comprend le moment donné.
+Historique: Le paragraphe 248(1), la définition de « conjoint de fait » a été ajoutée par L.C. 2000, ch. 12, par 139(2), applicable aux années d'imposition 2001 et suivantes.
+[6] L'appelante, qui est préposée aux renseignements pour le ministère du Revenu du Québec depuis 1991, a expliqué qu'elle avait eu un premier enfant, Y, avant de rencontrer monsieur Robert Dumont. Monsieur Dumont est venu habiter avec l'appelante alors que son fils Y était encore en bas âge. Ils ont habité ensemble dans le même logement pendant une période d'environ 11 ans, période durant laquelle leur fils X est né. L'appelante soutient qu'en novembre 1999, ils auraient mis un terme à leur union conjugale et elle aurait avisé le propriétaire qu'elle quitterait le logement. L'appelante a fait des démarches auprès de l'Office municipal d'habitation de Gatineau-Hull afin de se trouver un nouveau logement comprenant deux chambres à coucher. Le 3 mars 2000, on accusait réception de sa demande (pièce A-1). Selon l'appelante, monsieur Dumont de son côté faisait des démarches pour s'acheter une propriété.
+[7] En mars 2000, le fils aîné de l'appelante alors âgé de 15 ans, a commencé à avoir des problèmes de comportement. Il a laissé l'école, s'est associé à des groupes de jeunes délinquants, et a commis des méfaits et des voies de fait entre le 2 mai 2000 et le 10 janvier 2001 (pièce A-2).
+[8] Face à cette situation, l'appelante a réalisé que son fils aîné n'accepterait pas d'emménager avec elle dans un logement de deux chambres à coucher. Elle a donc demandé à monsieur Dumont de déménager avec lui dans une nouvelle maison, beaucoup plus grande, qu'ils ont acquise conjointement en juin 2000. Ils ont acquis cette propriété pour la somme de 97 000 $ après avoir obtenu conjointement un emprunt hypothécaire de 89 687 $ (pièce I-1). L'appelante et monsieur Dumont sont solidairement responsables du remboursement de ce prêt hypothécaire. Cette propriété est un bungalow avec un sous-sol dans lequel le fils aîné de l'appelante occupe une chambre et une salle de bain. Selon le témoignage de cette dernière, monsieur Dumont occupe la chambre du haut et l'autre chambre du haut est réservée à leur fils X.
+[9] L'appelante se serait installée dans le sous-sol sur un divan lit. Selon son témoignage, elle prépare les repas de ses enfants qu'elle mange avec eux dans le salon. Monsieur Dumont fait ses propres repas qu'il mange dans la salle à dîner qui lui est réservée. Il se servirait du barbecue pour lui seul. Elle dit qu'elle fait les courses pour elle et ses enfants. Il fait ses propres courses et il peut arriver qu'il aille chez le dépanneur pour acheter ce qui manque pour la maison. Lorsqu'ils partagent des aliments, ils calculent de façon précise ce qui est dû par l'un ou par l'autre.
+[10] L'appelante dit faire le lavage, y compris celui de monsieur Dumont s'il y en a. Monsieur Dumont a dit qu'il faisait son propre lavage.
+[11] L'appelante a dit qu'elle faisait seule le ménage. Monsieur Dumont dit qu'ils faisaient tous les deux le ménage. L'appelante dit avoir un copain qu'elle retrouve tous les vendredis en soirée. Elle dit coucher chez lui et rentrer le samedi en après-midi. Monsieur Dumont n'a pas de nouvelle amie, mais sort régulièrement les samedis en soirée. Il peut arriver qu'il n'entre pas ces soirs là. L'appelante ne participe plus aux activités familiales avec les amis de monsieur Dumont. Madame Annick Labelle, une amie de l'ancien couple a témoigné. Cette dernière a dit qu'elle et son mari avaient continué à faire des activités à l'extérieur avec monsieur Dumont et son fils, mais que l'appelante ne s'y joignait plus.
+[12] Tous ont dit que les amis pouvaient se retrouver à la résidence commune de l'appelante et monsieur Dumont et que si l'appelante était là, elle se joignait à la bande pour le repas.
+[13] L'appelante ne participe plus aux fêtes familiales dans la famille de monsieur Dumont et le contraire est semble-t-il aussi vrai.
+[14] L'appelante a expliqué qu'elle acceptait de vivre une telle situation pour le bien de ses enfants auxquels elle voulait assurer un foyer sécuritaire. L'appelante et monsieur Dumont ont dit ne pas avoir eu de relations sexuelles depuis 1999. C'est seulement en 2002, après la vérification de l'Agence des douanes et du revenu Canada ( « ADRC » ), que l'appelante a changé les bénéficiaires de ses polices d'assurance au nom de ses enfants. Depuis 1998, c'était monsieur Dumont qui en était le bénéficiaire et elle n'a pas pensé faire un changement de bénéficiaire avant 2002. Au moment de faire les changements en décembre 2002, monsieur Dumont apparaissait encore comme le conjoint de fait et bénéficiaire de l'assurance-vie prise par l'appelante (pièce I-4). L'appelante n'avait pas non plus de testament et c'est seulement en 2002, lors de cette même vérification, qu'elle a réalisé l'importance d'en faire un pour protéger ses enfants.
+[15] Monsieur Dumont a eu la même attitude. Il n'a pas pensé modifier le bénéficiaire de son fonds de pension avant cette vérification de l'ADRC. Au cours des années en litige et encore à ce jour, c'est l'appelante qui en est la bénéficiaire.
+[16] Pour déterminer si deux personnes vivent en union conjugale, la majorité de la Cour Suprême du Canada dans M. c. H., [1999] 2 R.C.S. 3, aux pages 50-51, a endossé les facteurs énoncés par la Cour de district de l'Ontario dans l'affaire Molodowich v. Penttinen, (1980) 17 R.F.L. (2d) 376, (lesquels facteurs ont été repris à quelques occasions par la Cour d'appel fédérale et par notre Cour[1]) comme suit :
+Molodowich c. Penttinen (1980), 17 R.F.L. (2d) 376 (C. dist. Ont.), énonce les caractéristiques généralement acceptées de l'union conjugale, soit le partage d'un toit, les rapports personnels et sexuels, les services, les activités sociales, le soutien financier, les enfants et aussi l'image sociétale du couple. Toutefois, il a été reconnu que ces éléments peuvent être présents à des degrés divers et que tous ne sont pas nécessaires pour que l'union soit tenue pour conjugale [...] Pour être visés par la définition, ni les couples de sexe différent ni les couples de même sexe n'ont besoin de se conformer parfaitement au modèle matrimonial traditionnel afin de prouver que leur union est « conjugale » .
+Un couple de sexe différent peut certainement, après de nombreuses années de vie commune, être considéré comme formant une union conjugale, même sans enfants ni relations sexuelles. Évidemment, le poids à accorder aux divers éléments ou facteurs qui doivent être pris en considération pour déterminer si un couple de sexe différent forme une union conjugale variera grandement, presque à l'infini [...] Les tribunaux ont eu la sagesse d'adopter une méthode souple pour déterminer si une union est conjugale. Il doit en être ainsi parce que les rapports dans les couples varient beaucoup.
+[17] Ici, non seulement l'appelante et monsieur Dumont vivent sous le même toit mais ils sont co-propriétaires et partagent toutes leurs dépenses. Ils ont acquis ensemble la propriété en juin 2000 alors que l'appelante prétend qu'elle ne vivait plus en union conjugale avec monsieur Dumont depuis novembre 1999. Ils ont gardé les meubles qui leur appartenaient à tous deux. Ils ont un enfant en commun dont ils s'occupent également. Quand il s'agit de leur enfant, il arrive qu'ils font des activités les trois ensemble (monsieur Dumont a donné l'exemple d'une activité récente avec les Scouts). L'appelante bénéficiait encore au cours des années en litige de l'assurance-dentaire et l'assurance-médicaments de monsieur Dumont. Au cours de ces mêmes années, monsieur Dumont était le bénéficiaire des polices d'assurance de l'appelante et l'appelante était bénéficiaire du fonds de pension de monsieur Dumont. Aucune institution financière ou compagnie d'assurances ne semble avoir été avisée d'un changement quelconque dans le statut conjugal de l'appelante et de monsieur Dumont.
+[18] De plus, il y a certaines contradictions dans les témoignages. L'appelante dit qu'elle fait seule le ménage; monsieur Dumont dit qu'il participe également à cette tâche. L'appelante dit faire le lavage de monsieur Dumont; ce dernier dit qu'il s'en occupe lui-même. Ces petits détails, joints aux éléments mentionnés ci-haut montrent à mon avis que l'appelante et monsieur Dumont se considèrent encore dans une certaine mesure en union conjugale.
+[19] Il est vrai que l'appelante a dit qu'elle avait un nouvel ami qu'elle voyait les vendredis soirs. Je note toutefois que cet ami n'était pas présent en cour pour confirmer cette situation de faits. Madame Labelle a dit que l'appelante ne participait plus aux activités sociales de monsieur Dumont. Toutefois, elle a reconnu que lorsque tous se retrouvaient à la résidence conjointe de l'appelante et monsieur Dumont, l'appelante se joignait au groupe. De plus, madame Labelle qui est allée souvent chez l'appelante et monsieur Dumont, n'a pu confirmer que l'appelante était installée au sous-sol.
+[20] À mon avis, l'arrangement tel que décrit par l'appelante me semble peu vraisemblable. Dans l'affaire Légaré c. The Shawinigan Water and Power Co. Ltd., [1972] C.A. 372, la Cour d'appel du Québec disait ceci aux pages 373-374 :
+[...] Mais, les tribunaux ne sont pas tenus de croire les témoins, même s'ils ne sont pas contredits par d'autres témoins. Leur version peut être invraisemblable par suite de circonstances révélées par la preuve ou par suite des règles du simple bon sens.
+[21] Dans le cas actuel, j'ai peine à croire que depuis juin 2000, l'appelante vit dans le sous-sol en se contentant d'un divan-lit, et qu'elle mange tous ses repas dans le salon, laissant la salle à dîner à monsieur Dumont. J'ai peine à croire également que monsieur Dumont se faisait des barbecues pour lui seul sans en faire profiter le reste de la maisonnée alors qu'en présence d'amis, l'appelante pouvait se joindre au groupe. Un tel arrangement peut convenir pour une période temporaire si vraiment l'on ne vit plus en union conjugale, mais il m'apparaît louche pour une si longue période qui d'ailleurs semble s'éterniser. D'autant plus que l'appelante partage à parts égales toutes les dépenses de la maison (tout comme elle le fait maintenant depuis 14 ans avec monsieur Dumont), et il est difficile de concevoir qu'elle puisse accepter de vivre dans des conditions beaucoup moins avantageuses que monsieur Dumont.
+[22] Il incombait à l'appelante de démontrer, par prépondérance des probabilités, qu'elle ne vivait pas avec monsieur Dumont en union conjugale durant les années 2000 et 2001. Je suis d'avis que l'appelante n'a pas réussi à faire une telle preuve. D'une part, je ne trouve pas l'histoire de l'appelante tout à fait crédible. Certaines lacunes dans la preuve (telles l'omission d'aviser les différentes institutions du changement de statut conjugal, l'absence de témoins importants qui auraient pu donner du poids à la version de l'appelante, de même que l'invraisemblance de la situation décrite dans leur façon de vivre au cours des années en litige et qui perdure, compte tenu des responsabilités financières égales de l'appelante et monsieur Dumont) me font douter de la crédibilité de l'appelante et de monsieur Dumont.[2] D'autre part, à la lumière des différents facteurs énoncés par les tribunaux, je considère que la preuve devant moi démontre plutôt que l'appelante et monsieur Dumont ont certes adopté un style de vie différent de la norme des couples, mais néanmoins demeurent en union conjugale aux termes de la Loi. Tel que le disait la Cour Suprême du Canada dans l'arrêt M. c. H., précité, les rapports dans les couples peuvent varier beaucoup et le poids à accorder aux divers éléments à être pris en considération pour déterminer si un couple forme une union conjugale peut varier grandement selon chaque situation particulière.
+[23] Dans le contexte de la présente affaire, outre la question de la crédibilité de l'appelante et monsieur Dumont, je suis d'avis qu'il y a suffisamment d'éléments en preuve pour conclure qu'elle était, au cours des années 2000 et 2001, la conjointe de fait de monsieur Dumont.
+[24] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 24e jour d'octobre 2003.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE :
+2003CCI774
+No DU DOSSIER DE LA COUR :
+2003-1332(IT)I
+INTITULÉ DE LA CAUSE :
+Christine Richard c. La Reine
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATE DE L'AUDIENCE :
+le 11 septembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+le 24 octobre 2003
+COMPARUTIONS :
+Pour l'appelant(e) :
+l'appelante elle-même
+Pour l'intimé(e) :
+Me Nicolas Simard
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir Lavoie c. M.R.N., [2000] A.C.F. no 2124 (Q.L.), conf. [1999] A.C.I. no 688 (Q.L.); Milot c. Canada, [1995] A.C.I. no 412 (Q.L.); Gagné c. Canada, [2001] A.C.I. no 527 (Q.L.); Topala-Pirau c. La Reine, 2002 A.C.I. no 475 (Q.L.).
+[2] Je note ici que monsieur Dumont semble avoir un intérêt égal à ne pas avoir le statut de conjoint de fait puisque je crois comprendre qu'il est également en appel d'une cotisation établie, eu égard au même point en litige.

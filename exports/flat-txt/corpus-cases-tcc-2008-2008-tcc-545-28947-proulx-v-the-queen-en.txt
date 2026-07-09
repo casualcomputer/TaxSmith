@@ -1,0 +1,203 @@
+Title: Proulx v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28947/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-545-28947-proulx-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-11-06
+
+# Proulx v. The Queen
+
+- Citation: 2008 TCC 545
+- Decision date: 2008-11-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1387, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Proulx v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-06
+Neutral citation
+2008 TCC 545
+File numbers
+2008-721(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-721(IT)I
+BETWEEN:
+DIANE PROULX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on September 17, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Agent for the Appellant:
+Nicole Rivard
+Counsel for the Respondent:
+Benoît Mandeville
+____________________________________________________________________
+JUDGMENT The appeals from the assessments made under the Income Tax Act (“the Act”) for the 2000 to 2004 and 2006 taxation years are dismissed.
+The appeal from the assessment made under the Act for the 2005 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment.
+The whole in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of November 2008.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 9th day of January 2009.
+Bella Lewkowicz, Translator
+Citation: 2008 TCC 545
+Date: 20081106
+Docket: 2008-721(IT)I
+BETWEEN:
+DIANE PROULX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] The Appellant is instituting an appeal for the years 2000-2006. However, for these years, with the exception of 2005, no Notice of Objection was served on the Minister of National Revenue (“the Minister”) pursuant to section 165 of the Income Tax Act (“the Act”), which states the following:
+165(1) Objections to assessment -- A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer’s filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+[2] The Respondent presented a preliminary exception in the Reply to the Notice of Appeal seeking the dismissal of the appeals for these years as the Notices of Appeal for these years are inadmissible pursuant to section 169 of the Act, which states that an appeal cannot be instituted with the Court if a Notice of Objection has not been served. Subsection 169(1) of the Act reads as follows:
+169(1) Appeal -- Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[3] In this regard, the Agent for the Appellant produced a document from the Canada Revenue Agency (“CRA”), entitled “How to change your return”. She referred more specifically to the following excerpt:
+…
+Only requests relating to tax years ending in any of the 10 calendar years before the year you make the request will be considered. For example, a request made in 2008 must relate to the 1998 or a subsequent tax year to be considered.
+…
+[4] She submitted that, according to the information text, it is possible to go back up to 10 years to make amendments to income tax returns and, according to the text, serving a Notice of Opposition is not necessary. This is what the Appellant is seeking through the Notice of Appeal.
+[5] I will dispose of this preliminary point immediately. The measure described in this CRA document is part of the measures called “Taxpayer Relief Provisions”. These provisions are found in the Act but are subject to discretionary power granted to the Minister by the Act. These measures are described and explained in Information Circular No. 07-1. If a taxpayer is of the opinion that the Minister’s discretionary power was not correctly exercised, he/she must apply for judicial review to the Federal Court.
+[6] The appeal before the Court is in relation to section 169 of the Act. According to subsection 169(1) of the Act, a taxpayer may appeal an assessment only if the taxpayer has served a Notice of Objection to an assessment on the Minister under section 165. This was done only for the year 2005. As a result, the appeals with respect to the years 2000-2004 and the year 2006 are dismissed for failure to comply with the Act.
+[7] I now return to the main point of the appeal. For the year 2005, the Appellant is claiming a clergy residence deduction in the calculation of her income pursuant to section 8 of the Act.
+8(1) Deductions allowed -- In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+...
+(c) Clergy residence -- where, in the year, the taxpayer
+(i) is a member of the clergy or of a religious order or a regular minister of a religious denomination, and
+(ii) is
+(A) in charge of a diocese, parish or congregation,
+(B) ministering to a diocese, parish or congregation, or
+(C) engaged exclusively in full-time administrative service by appointment of a religious order or religious denomination,
+the amount, not exceeding the taxpayer’s remuneration for the year from the office or employment, equal to
+...
+[8] Paragraph 10 of the Reply to the Notice of Appeal explains the Minister’s reasons for disallowing the deduction as follows:
+[TRANSLATION]
+10. In making and confirming the May 11, 2006 Notice of Assessment for the 2005 taxation year, the Minister relied on the same facts, which are as follows:
+a) the Appellant, with respect to the period from August 1, 2003, to July 31, 2006, held the position of pastoral and Christian values educational leader for the members of the Christian community of the parishes of Saint-Augustin and Sainte-Scholastique;
+b) the Appellant, for the members of the Christian community of the parishes of Saint-Janvier, Saint-Augustin and Sainte-Scholastique, and with respect the period from August 1, 2005 to July 31, 2006, held the position of pastoral and Christian values educational leader, and was a member of the pastoral team for the aforementioned parishes;
+c) the pastoral mandates and their duration, as described in previous clauses, with respect to the taxation year in issue, were given to the Appellant by the Bishop of Saint-Jérôme of the Roman Catholic Church and cosigned on June 25, 2003, and June 8, 2005, respectively, by Mr. Claude Massicotte, Priest Chancellor;
+d) in response to a request for adjustment, claiming a clergy residence deduction, the Minister, on March 20, 2007, reminded the Appellant in writing that for a lay pastoral associate to be considered a regular minister of a religious denomination, he/she must be empowered or authorized to perform these spiritual duties, conduct religious services, administer sacraments and carry out other similar religious functions;
+e) in the same letter of March 20, 2007, the Minister advised the Appellant that he did not recognize her as a regular minister because she was not authorized to administer most of the Roman Catholic Church sacraments;
+f) with respect to the amount of the clergy residence deduction claimed, the Minister did not evaluate the merits of the $10,000 claim.
+[9] The Minister’s decision to disallow the deduction is based on the fact that a pastoral associate is not authorized to conduct religious services or to administer most sacraments of the Roman Catholic Church.
+[10] For the purpose of her testimony, the Appellant prepared a text to which she referred. Below are excerpts from this text:
+[TRANSLATION]
+I am currently finishing a bachelor’s degree (63 credits completed) at the Université de Montréal for a specialized degree in theology and religious studies.
+I have 9 years experience as a pastoral associate at the Saint-Jérôme diocese (since December 1999).
+I have 3 years experience as president of the Saint-Eustache pastoral zone.
+…
+Parish Pastoral Leader:
+- Catechesis, teaching youth and adults, spiritual coaching and assistance (christening, Eucharist, confirmation). This involves preparatory work for the assistance and leadership provided during sacraments and follow-up.
+- Offering assistance. People coming to the rectory are often in a state of crisis following a hardship: death, finding out about a serious illness, domestic violence, etc.
+- Organizing religious services – family mass, sacraments of forgiveness, distribution of ashes, parish retreats, etc. (adults and youth).
+- Preparing religious liturgy for holy periods during the year: Advent, Christmas, Lent, Easter.
+- Spiritual guidance and leadership (spiritual growth) for adults individually or in groups.
+- Preparing and leading forgiveness celebrations for young adults.
+- Teaching in three schools in the Saint-Augustin and Ste-Scholastique à Mirabel area from 2000 until present day, even though religious teaching has been replaced by religious ethical and cultural teaching.
+- Seven years ago, I started and continue to supervise a group for teens (12-17 years of age).
+- Seven years ago, I started and continue to raise spiritual awareness in children (5-8 years of age).
+- My experience as co-author of four catechesis courses for primary-age students was recognized and authenticated by our bishop, Mgr. Gilles Cazabon, O.M.I.
+- Co-leader of the June 2008 diocesan retreat for administrative and pastoral personnel of the diocese.
+- I do my work in the following places: places of worship, rectories, church basements and private residences, and in my own home (computer work, answering calls and meeting people).
+[11] Counsel for the Respondent referred to a Vatican document called Instruction on certain questions regarding the collaboration of the non-ordained faithful in the sacred ministry of priest, 1997 (“Instruction”). It would seem that, according to this Instruction, the Vatican establishes a clear distinction between priests, ordained ministers and the lay faithful, non-ordained extraordinary ministers, collaborating by way of supply to the ministry of priests. It also states that the lay faithful do not hold a higher spiritual rank within the Roman Catholic Church.
+[12] To indicate the importance of this superior ranking in the evaluation of the nature of a regular minister, Counsel referred to paragraphs 19 and 20 of the judgment Côté v. Canada, [1998] T.C.J. No. 762:
+19 The meaning of "regular minister" was considered in depth in Walsh v. Lord Advocate, [1956] 3 All E.R. 129 (H.L.). Under a provision of Great Britain's military service legislation, a regular minister of a religious denomination could be exempted from military service. The question thus was what was meant by "regular minister". Mr. Walsh was a Jehovah's Witness. Among Jehovah's Witnesses all members have the title of minister or servant of God and his Gospel, and that religious denomination makes no distinction between clergy and lay members. The House of Lords unanimously ruled, as the lower courts had done, that "regular minister" within the meaning of the Act refers to a member of the religious denomination having superior and distinct standing in that denomination in spiritual matters and that, if a religious domination makes no distinction between clergy and lay members, the concept of a regular minister of a religious denomination cannot apply.
+20 I quote the following extracts from the reasons for judgment of Lord MacDermott in Walsh, supra, at p. 135:
+In my opinion the words "a regular minister" connote a class which forms but a part of the denomination in question and is acknowledged by that denomination as having a superior and distinct standing of its own in spiritual matters. . . . LORD MACKINTOSH puts this requirement very clearly when, speaking of the "regular minister", he says:
+". . . he must have by virtue of his appointment as a minister what might be called a clergyman status' which sets him apart from and places him over the laity of his denomination in spiritual matters."
+[13] The Agent for the Appellant admitted that pastoral associates were not members of the clergy but insisted that pastoral associates are part of a group within the Roman Catholic Church recognized equally by bishops and the lay faithful as having a higher spiritual rank.
+[14] The Agent for the Appellant pointed out that over the last couple of decades the role and action of pastoral associates has become essential to fulfilling the evangelical mission of the Church. Bishops define the role and action of associates in their pastoral mandates and require associates to lead a lifestyle in accordance with the principles of the Christian faith.
+[15] The Agent for the Appellant referred to a document called “Lay Pastoral Associates in Parish Settings” from the Ontario Conference of Catholic Bishops (“OCCB”) dated September 1999. Counsel for the Respondent objected to the production of this document as evidence on the ground that this evidence should be made by expert witnesses instead. I accepted the document subject to this objection.
+[16] I am now of the opinion that the Appellant had the right to produce this document. This kind of evidence falls within judicial notice or judicial knowledge, not within expert evidence. I will quote in this regard paragraph 15 of the article by Danielle Pinard called [TRANSLATION] “The Traditional Concept of Judicial Notice of Facts”, in Revue juridiqueThémis (1997) 31 R.J.T. 87-148:
+[TRANSLATION]
+15 According to the classical theory, for which we find the formulation in the works of Sopinka, Lederman and Bryant,17 facts are either so notorious as not to be the subject of dispute, or capable of immediate and accurate demonstration by resorting to readily accessible sources of indisputable accuracy.18
+17 John SOPINKA, Sydney N. LEDERMAN and Alan W. BRYANT, The Law of Evidence in Canada, Toronto, Butterworths, 1992.
+18 Id., p. 976: "Facts which are (a) so notorious as not to be the subject of dispute among reasonable persons, or (b) capable of immediate and accurate demonstration by resorting to readily accessible sources of indisputable accuracy, may be noticed by the court without proof of them by any party." See also the proposed formulation of the FEDERAL/PROVINCIAL TASK FORCE ON UNIFORM RULES OF EVIDENCE, op. cit., note 16, p. 53: "In a proceeding judicial notice may be taken of facts (a) that are so generally known and accepted within the area pertinent to the event that they cannot reasonably be disputed; or (b) that are capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned."
+[17] I quote article 2808 of the Civil Code of Québec:
+2808. Judicial notice shall be taken of any fact that is so generally known that it cannot reasonably be questioned.
+[18] I refer to paragraph 60 of the reasons of the Supreme Court of Canada per Lamer J. in R. v. Sioui [1990] 1 S.C.R. 1025:
+60 I should first mention that the admissibility of certain documents submitted by the intervener the National Indian Brotherhood/Assembly of First Nations in support of its arguments was contested. The intervener was relying on documents that were not part of the record in the lower courts. The appellant agreed that certain of these documents, namely Murray's Journal, letters and instructions, should be included in the record provided this Court considered that their admissibility was justified by the concept of judicial notice. I am of the view that all the documents to which I will refer, whether my attention was drawn to them by the intervener or as a result of my personal research, are documents of a historical nature which I am entitled to rely on pursuant to the concept of judicial knowledge. As Norris J.A. said in White and Bob (at p. 629):
+The Court is entitled "to take judicial notice of the facts of history whether past or contemporaneous" as Lord du Parcq said in Monarch Steamship Co., Ld. v. Karlshamns Oljefabriker (A/B), [1949] A.C. 196 at p. 234, [1949] 1 All E.R. 1 at p. 20, and it is entitled to rely on its own historical knowledge and researches, Read v. Bishop of Lincoln, [1892] A.C. 644, Lord Halsbury, L.C., at pp. 652‑4.
+The documents I cite all enable the Court, in my view, to identify more accurately the historical context essential to the resolution of this case.
+[19] The document in question comes from a reliable source. It is an important OCCB document. The beginning states that, prior to final version, there was a white book, followed by a green one. This book may be useful in explaining the role and position of pastoral associates within the Church. It is not a document requiring expert interpretation, nor do I believe that the Respondent can reasonably question the remarks within it. In fact, I do not believe she questions them.
+[20] The Agent for the Appellant referred to several passages from this document. I will quote a few:
+...
+Part of this acceptance also involves an appreciation for the growing leadership role that women can exercise in the Church.
+...
+The declining number and energy of the clergy opened a space that allowed for this natural transition to evolve and, for some, served to justify the presence of lay pastoral associates in parish ministry. Yet we recognize that, in a more fundamental way, the concept of priest, prophet and king fostered a growing awareness of one's individual responsibility toward the building up of the whole Church. From that grew the desire to embrace the call to truly be the 'People of God'. Given this renewed context, we believe the lay pastoral associate is called to play a growing and distinct role in our parish settings.
+...
+The presence of lay men and women as members of parish pastoral teams allows for the exercise of true partnership between priests and lay people, fostering a distinct yet interdependent responsibilities for the Church.
+...
+This recognition by the diocese should include a process by which the aptitude of the candidate for service within the diocese could be discerned. Elements to be considered by the diocese and the candidate in this discernment process could include the following: human equilibrium and psychological maturity, an adult faith, moral and social behaviour in a life-style that corresponds to Gospel values and the teachings of the Church, an awareness and experience of the Church that manifests one's maturity, a history of involvement in the life of a Christian community and the recognition by this community of a person's gift through letters of reference from members of the community.
+Analysis and conclusion
+[21] I have already conducted a thorough analysis of a similar issue in Lefebvre v. Canada, 2008 D.T.C. 4272. I will quote paragraphs 61 through 73 of this judgment:
+61 With respect to the place of pastoral agents in the Roman Catholic Church, counsel for the Respondent adduced the Instruction, and the Appellants' representatives adduced scholarly and Church writing that analyzes and defines the role of pastoral agents.
+62 In the Instruction, the Vatican reiterates that pastoral agents are extraordinary ministers, and are different from members of the clergy, who have received the Sacrament of Orders and are ordinary ministers. At a time when there is a shortage of priests, which the Vatican hopes is temporary, the Vatican is allowing lay persons to minister, and has established a legal framework in which they may do so.
+63 Under this legal framework, pastoral agents can carry out certain ecclesial responsibilities or duties that are indispensible in carrying out the Church's mission. They perform these duties in the place of ordained ministers, and do not perform all such ministers' duties. Pastoral agents derive their legitimacy from an official delegation by the bishop, and, in carrying out their duties, they are under ecclesiastical authority. It is the responsibility of the competent Church authority, that is to say, the diocesan bishop, to assign and regulate pastoral ministries. Diocesan bishops assign pastoral ministries to people who have the requisite qualifications: suitability, charisma and theological formation.
+64 According to the rules of the Roman Catholic Church, pastoral agents are not clergy. In fact, the Appellants do not claim to be clergy. However, they claim to be regular ministers of the Church.
+65 The courts have consistently held that in order for a person to be a regular minister of a religious denomination, there must be an appointment by the lawful authority of that church, authorizing the person to minister spiritually to the faithful of that church or to others, under the terms of the assigned mission or mandate, on an essentially ongoing basis, in accordance with the beliefs and dogmas of the church in question.
+66 Does such an appointment require a specific investiture? In my opinion, one must refer to the rules of the church, as one would do with respect to the investiture of clergy. In the Roman Catholic Church, pastoral mandates or mission letters fulfil the function of an investiture document for the extraordinary ministers in issue.
+67 Must a person be appointed as a minister for life in order to be a regular minister of a church? Must a person have the right to administer all the sacraments of his or her church in order to be a regular minister?
+68 Is there something in paragraph 8(2)(b) that prevents a church from having members of the clergy and regular ministers? I see no such bar in that provision. It is true that some of the cases equate the two terms. However, I prefer to remain true to the main principle established by the case law, namely, that the terms are defined by the structure of the denomination in issue.
+69 In order to determine whether a denomination permits clergy and regular ministers to co-exist for the purposes of its ministries, one must examine its structure. In the Roman Catholic Church, we have seen that there is such co‑existence, and we have also seen that priests are appointed for life, and that extraordinary ministers are appointed for the duration of their mandate, and carry out the pastoral ministries assigned to them.
+70 The evidence discloses that the bishops of the two dioceses in issue work within the legal framework that the Vatican has established for this class of persons. The bishops, taking into consideration the needs of the Church's mission and the person's qualifications (suitability, charisms and formation), issue a mandate describing the pastoral ministry that the person is assigned, and setting out the duration of the person's mandate, which is normally a few years. These mandates are usually renewed, and are therefore frequently exercised for the person's entire active life. Pastoral agents must work with ordained ministers as a team in carrying out pastoral action.
+71 The evidence discloses that pastoral agents, called extraordinary ministers, are regular ministers of the Church. Their ministry is completely integrated, on a regular basis, into the Church's ministries, including the Ministry of the Word, catechesis, visiting the sick, sacramental preparation and mystagogia, ministry for those who are preparing for a funeral and to the bereaved, hospitality, solidarity with the poor, and charitable or humanitarian action. Without the ministry of lay persons, the Church would be unable to go on. The Bishop of the Longueuil diocese stated that their role is essential, the various authors that were cited are in agreement, and the Vatican itself has expressed the same opinion by providing a legal framework for these non-ordained lay persons.
+72 To paraphrase Lord MacDermott in Walsh v. Lord Advocate, [1956] 3 All E.R. 129 (H.L.), it is clear that, in carrying out their ministries, pastoral agents have a status that sets them apart from and places them over the laity of their denomination. They constitute a class which forms part of the denomination in question, and which is acknowledged by that denomination as having a distinct and superior standing in spiritual matters.
+73 I therefore conclude that, according to the current regulatory structure of the Roman Catholic Church, pastoral agents act as regular ministers within the Church. That status is conferred on them by a pastoral mandate in which they are assigned a pastoral ministry for a determinate term. Thus, they have the status of regular ministers within the meaning of paragraph 8(2)(c) of the Act for the duration of that mandate.
+[22] I am of the same opinion with respect to the Appellant.
+[23] It is true the Vatican wanted to reserve the administration of most sacraments for ordained ministers and makes a distinction between ordained and non-ordained ministers. However, I am of the opinion that we do not have to declare that non-ordained ministers are not regular ministers of the Church as a result of this distinction. We must instead acknowledge, using the Vatican and bishops’ documents, an understanding of the fact that there is now a shortage of religious vocations and the acceptance and integration of pastoral associates within the Church in an essential ministerial role.
+[24] It is a known social fact that there is a shortage of ordained minsters. It is also a known social fact that all pastoral associates are now part of the structure of the Church in terms of ministerial actions. It is a group of people who, as a result of need and reality, have been integrated by the Vatican and the bishops into the pastoral action of the Church. This pastoral action includes the ministry of the Word, catechesis, spiritual guidance for the sick and those who are in mourning, the ministry of sacraments, the ministry of religious services, reception services, solidarity with the poor, and charitable and humanitarian action. Moreover, these people must lead exemplary lives.
+[25] It therefore seems evident that the Appellant is part of a class of Church faithful, recognized by the ecclesiastical authorities and the non-ordained lay faithful as having a superior and distinctive rank on the spiritual level. She exercises this role regularly in accordance with the terms of the pastoral mandate attributed to her. I therefore find that she has the status and role of a regular minister with the Roman Catholic Church.
+[26] The appeal for the year 2005 is therefore allowed.
+Signed at Ottawa, Canada, this 6th day of November 2008.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 9th day of January 2009.
+Bella Lewkowicz, Translator
+CITATION: 2008 TCC 545
+COURT FILE NO.: 2008-721(IT)I
+STYLE OF CAUSE: DIANE PROULX V. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 17, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: November 6, 2008
+APPEARANCES:
+Agent for the Appellant:
+Nicole Rivard
+Counsel for the Respondent:
+Benoît Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,225 @@
+---
+title: "Aubaines Yves Croteau 111 inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29051/index.do"
+last_modified: "2008-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 610"
+citation2: ""
+neutral_citation: "2008 TCC 610"
+decision_date: "2008-12-19"
+language: "en"
+item_id: "29051"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6859
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:30:53.542000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb2877c80a7fb7f074f050e55599d2ef86f089b7e3b05d64a5833124bd6d9b97"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aubaines Yves Croteau 111 inc. v. M.N.R.
+
+- Citation: 2008 TCC 610
+- Decision date: 2008-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6859, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aubaines Yves Croteau 111 inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-19
+Neutral citation
+2008 TCC 610
+File numbers
+2008-1155(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-1155(EI)
+BETWEEN:
+AUBAINES YVES CROTEAU 111 INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 22, 2008, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Mélanie Bélec
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("the Act") is dismissed on the ground that the employments of Émilie Croteau, Valérie Croteau and Jean-Martin Paulin with the Appellant from January 1, 2007, to September 11, 2007, constituted insurable employment under the provisions of the Act, for the attached reasons.
+Signed at Ottawa, Canada, this 19th day of December 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of January 2009.
+Brian McCordick, Translator
+Citation: 2008 TCC 610
+Date: 20081219
+Docket: 2008-1155(EI)
+BETWEEN:
+AUBAINES YVES CROTEAU 111 INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal concerning the insurability of the work done by Émilie and Valérie Croteau and by Jean-Martin Paulin for the Appellant Aubaines Yves Croteau 111 Inc. from January 1, 2007, to September 11, 2007.
+[2] The legal basis for the decision is paragraph 5(2)(i) of the Employment Insurance Act ("the Act"). That provision begins by stating that work done by a person related to the employer, within the meaning of the Income Tax Act, is not insurable.
+[3] However, Parliament has enacted an exception, under which the same employment will be insurable if it is reasonable to conclude that persons dealing with each other at arm's length could have entered into a substantially similar contract. The exception reads as follows:
+5. (3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] Thus, where the parties are not dealing with each other at arm's length, the person responsible for the file must carry out an analysis that is much broader and deeper than simply verifying whether the classic terms and conditions, that is to say, the performance of work in exchange for remuneration, and a relationship of subordination, exist.
+[5] Indeed, the Act gives the person responsible for the file the discretion to decide whether the arm's-length relationship has had an effect on the employment contract; in other words, the person's analysis must enable him or her to determine whether the disputed work would have been done in a similar manner by a third party, and whether the terms and conditions of employment would have been similar if the worker had been dealing with the employer at arm's length.
+[6] The files in the case at bar are unusual in another respect, because it is settled law that the Tax Court of Canada has no jurisdiction to review such a decision if the discretion was correctly and lawfully exercised.
+[7] In other words, if the discretion was exercised responsibly and judiciously, all the relevant facts have been taken into account, and the conclusion is reasonable, the Court cannot amend the decision, even if it does not necessarily agree with it.
+[8] In making the decision under appeal, the Respondent relied on numerous assumptions of fact.
+[9] The Appellant admitted to many of these assumptions, including the following:
+[TRANSLATION]
+5. (a) The Appellant was incorporated on December 21, 1981.
+(b) The Appellant runs three clothing businesses: one in Lévis, at a store that has been operating since 1969; one in St-Rédempteur, at a store that has been operating since April 25, 2001; and one in Beauport, at a store that has been operating since September 5, 2007.
+(c) Yves Croteau, the Appellant's sole shareholder, also owns the three buildings in which the businesses are located, and he rents them to the Appellant.
+(d) The Appellant reported gross income of $5,374,422 in 2005, $4,613,291 in 2006, and $4,479,045 in 2007.
+(e) Yves Croteau entrusted the management of his three stores to the workers.
+(j) Each of the workers' terms and conditions of employment can be summarized as follows:
+ÉMILIE CROTEAU
+(k) She began working for the Appellant part-time at the age of 15, and has been working full-time since completing her studies in 2004.
+(l) She finished learning about the stores' operations in 2005, and, in 2006, she replaced the store manager in Lévis.
+(m) She devotes roughly 25% of her time to merchandising (rearranging merchandise) during the evening, when there are no customers.
+(n) Since May 2007, her main duty has been to look after the new store in Beauport.
+(o) As manager, she was responsible for personnel, worked on the floor, and communicated with suppliers when there was not enough merchandise.
+(r) She received fixed remuneration of $450 per week in 2007 and $550 in 2008 and was paid by direct deposit.
+(s) In addition to her remuneration, she received a $5,000 bonus in each of the years 2006 and 2007.
+(t) She used her car to travel from store to store and her expenses were reimbursed by the Appellant.
+VALÉRIE CROTEAU
+(u) She began working for the Appellant part-time at the age of 13, and has been working full-time since 1998.
+(v) Her main duties were to
+- look after purchasing for the three stores,
+- look after merchandising for the three stores,
+- manage the managers of the three stores, with the help of the other two workers,
+- decide on end-of-season discounts for all the divisions, and
+- look after procurement from 800 foreign and domestic suppliers.
+(y) During the period in issue, she received fixed gross remuneration of $1,000 per week.
+(z) In 2007, the Appellant paid her an $8,000 bonus because of the company's good performance.
+(aa) The Appellant reimburses her travel expenses.
+JEAN-MARTIN PAULIN
+(bb) He has been working for the Appellant since the year 2000.
+(cc) His first position involved transporting merchandise between the stores.
+(dd) His main responsibilities can be summarized as follows:
+- advertising for the stores,
+- building equipment and maintenance, and
+- interior setup of the stores
+(ee) For the opening of the new store in Beauport, he looked after the procurement and placement of the cash counters, photocopiers, electronic cash registers, etc.
+(gg) He received fixed weekly remuneration, but was unable to specify how much he earned each week.
+(hh) According to the T-4 slips issued by the Appellant, his annual remuneration was $36,566 in 2005, $33,550 in 2005, and $50,946 in 2006.
+(ii) At his request, he received end-of-year bonuses of $22,000 in 2006 and $14,000 in 2007, and these amounts were included in his annual remuneration.
+6. (a) Yves Croteau was the Appellant's sole shareholder.
+(b) Émilie and Valérie Croteau are Yves Croteau's daughters.
+(c) Jean-Martin Paulin is Valérie Croteau's husband and Yves Croteau's son‑in-law.
+(d) The workers were related to a person who controlled the Appellant.
+7. (f) The work done by each of the workers was indispensible to the Appellant's sound operation.
+(h) The workers have been working for the Appellant for a number of years, they perform their duties throughout the year, and their work is consistent with the Appellant's operational requirements.
+[10] The Appellant denied other assumptions of fact. The assumptions in question are as follows:
+[TRANSLATION]
+5. (f) The Appellant's bookkeeping is done by a secretary, and Yves Croteau controls the expenses and looks over the Appellant's purchase and sale reports.
+(g) Yves Croteau remains the sole signing officer for the Appellant's cheques; the workers must always get his consent before incurring expenses.
+(i) Yves Croteau does not know the workers' schedules, but was involved in determining their salaries and bonuses.
+ÉMILIE CROTEAU
+(p) She had no fixed work schedule to comply with, but she estimates that she generally worked 40-50 hours per week.
+(q) She began at approximately 8:00 or 9:00 a.m. and sometimes left at 6:00 or 7:00 p.m.
+VALÉRIE CROTEAU
+(w) She normally worked Monday to Friday from 8 a.m. to 6 p.m., and rarely worked evenings or weekends.
+(x) She had no work schedule to comply with, but she estimates that she averaged 60 hours per week.
+JEAN-MARTIN PAULIN
+(ff) He had no fixed work schedule to comply with, but he estimates that he averaged 50 hours per week.
+(jj) The workers had a great deal of flexibility in their work schedules and in the performance of their duties, but they had to consult with the Appellant's sole shareholder on any important issues related to the operation of the business.
+(kk) The Appellant's shareholder had the ability to direct and control all the workers' work.
+7. (a) The workers had flexibility with their work schedules, but were subject to the Appellant's authority, which was exercised by Yves Croteau, its sole shareholder.
+(b) The workers received reasonable remuneration based on their number of years of experience and the duties assigned to them by the Appellant.
+(c) The workers' annual bonuses were greater than those received by the Appellant's other employees (all of whom received one) but were reasonable having regard to the responsibilities entrusted to them.
+(d) Jean-Martin Paulin's bonus was higher than that of the other two workers, but it was his choice to receive a lower monthly salary. His overall remuneration was similar to that of the other two workers.
+(e) Each of the workers remained responsible for his or her area of activity and rendered services to the Appellant as an employee in addition to being a senior executive.
+(g) If the workers had special terms and conditions of employment, this was not by virtue of their non-arm's length relationship with the Appellant, but, rather, by virtue of their status as executives with the Appellant.
+[11] Valérie Croteau and her spouse Jean‑Martin Paulin testified. Ms. Croteau went over the history of Croteau stores in Québec, which over the years have become a major player in their economic sector, selling clothing for the whole family.
+[12] She explained that, over the years, the business launched several divisions. The Croteau family has worked in the field for more than four generations.
+[13] As for the Appellant's business, it owns three stores, located in Lévis, St‑Rédempteur and Beauport. Yves Croteau, the sole shareholder, is Valérie and Émilie's father. Mr. Croteau owns the buildings in which the three stores operate. Valérie Croteau explained her work, that of her sister and that of her spouse Jean‑Martin Paulin, who joined the group when he became her boyfriend, and, subsequently, her spouse.
+[14] She explained and described their responsibilities, often stressing the fact that she, her spouse and her sister had a great deal of flexibility and complete autonomy in the context of their employment.
+[15] She illustrated this freedom and autonomy by means of numerous examples, ranging from decisions regarding salaries, setting bonuses, and including discretion over purchases, advertising, store layout, choice of inventory, etc. She also asserted that the decision to open the third store was hers, and that her father was rather lukewarm about the idea.
+[16] To substantiate the position that the workers had a great deal of freedom and independence, she asserted that her father was often absent and that he was not particularly concerned, and was in fact indifferent, about the decisions that she made with her sister and her spouse.
+[17] She said that her father came to the store so rarely that, for several years, including the period in issue, she and her sister had the impression that they were acting as owners of the business. In other words, she devoted numerous hours to her work — up to roughly 100 hours a week during certain periods, such as when the third store was opened.
+[18] She organized, managed, planned and made decisions exactly as she would have done if she and her sister had been co-owners. She said that her father went to the store to sign the cheques and that he was indeed the only person authorized to sign them.
+[19] Ms. Dessureault gathered the relevant information and carried out the analysis that resulted in the decision under appeal.
+[20] I have noticed significant differences between the information obtained during telephone conversations while the file was under consideration, and the testimony given by Ms. Croteau and her spouse at the hearing.
+[21] These differences do not cause me to conclude that the Court is faced with untruthful statements, but rather a very different interpretation of the facts.
+[22] Although the Croteau sisters are acting like co-owners of the three stores, they are not legally co-owners. Although they feel that they have independence, they do not sign the business's cheques. This prerogative is held by their father, who has more than 40 years of experience running the business.
+[23] It must be understood that Mr. Croteau, the father, receives a substantial sum for the rental of the premises where the three stores are operated. Those premises are located in buildings of which he is the sole owner. Moreover, he receives a substantial salary in consideration of very little work, and his wife receives a salary as well.
+[24] He has two daughters, of whom he is undoubtedly proud. He sees them as the future of the business, and they are at the heart of his estate planning.
+[25] This is probably an ideal scenario for a father. The daughters are conscious of this, and it is easy to understand why they think and act like owners.
+[26] Although the Croteau sisters' perceptions may be justified, the Court must examine the real situation that existed during the period in issue. In addition, the Court acknowledges that the Croteau sisters are talented, hard-working, dynamic, determined and even bold, that they contribute to the success of the business, and that it is completely normal for their father to wish to retire, and thus to trust them almost absolutely.
+[27] However, the power to sign cheques in a business of this type is no secondary detail. The fact that a person with 40 years of experience is signing the cheques means that he retains a right to supervise the quantity and quality of inventory, the reasonableness of the costs and their appropriateness to the activities of the business. In other words, his cheque-signing authority enables him to examine thoroughly all operations, and all embryonic or potential problems, and to intervene rapidly and substantially when necessary.
+[28] In his testimony, Valérie's spouse made an interesting assertion intended to explain the independence that the Croteau sisters enjoyed. He said that Mr. Croteau was a bit like a banker or financier.
+[29] The comparison is an excellent one, because financiers or bankers generally trust the people to whom they advance money. The funds that are lent are used as the borrower sees fit. If things go well, the relationship with the banker will be smooth.
+[30] However, if the results do not meet the parties' expectations, or the situation gives rise to some concerns, the relationship with the banker will get harder and cooler, to the point where the banker might hamper the borrowers' efforts and impose choices on them which, if not made, could enable the banker to terminate the agreement.
+[31] In the case at bar, Ms. Dessureault carried out her analysis judiciously, taking all relevant facts into consideration, and her finding is completely reasonable given the evidence.
+[32] Indeed, the significance of the father's role in the business cannot be measured by how assiduously he goes to the stores or by how often he intervenes in the day-to-day management of the business.
+[33] Ms. Dessureault assessed the situation well, and her decision is reasonable. A great deal of subjectivity is involved in assessing freedom, independence, and decision-making power.
+[34] Moreover, the scope of those rights is strictly circumscribed by the person in authority — in this instance, the father — whose control over the business is real; the evidence has not shown that that he gave up that control. In such a context, freedom and independence are rights that can easily be taken away.
+[35] For these reasons, I must confirm that the decision was well-founded, and dismiss the appeal.
+Signed at Ottawa, Canada, this 19th day of December 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of January 2009.
+Brian McCordick, Translator
+CITATION: 2008 TCC 610
+COURT FILE NO.: 2008-1155(EI)
+STYLE OF CAUSE: AUBAINES YVES CROTEAU 111 INC. AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: October 22, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: December 19, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Nadia Golmier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+Firm: Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

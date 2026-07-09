@@ -1,0 +1,298 @@
+Title: Newell c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29743/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-196-29743-newell-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-04-12
+
+# Newell c. La Reine
+
+- Citation: 2010 CCI 196
+- Decision date: 2010-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6550, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Newell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-12
+Référence neutre
+2010 CCI 196
+Numéro de dossier
+2006-2137(GST)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006­2137(GST)I
+ENTRE :
+GARY NEWELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 21 avril et le 19 octobre 2009,
+à Prince George (Colombie‑Britannique).
+Devant : L'honorable juge T. E. Margeson
+Comparutions :
+Pour l'appelant :
+L'appelant lui­même
+Avocate de l'intimée :
+Me Laura Zumpano
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations suivantes établies en vertu de la Loi sur la taxe d'accise sont rejetés et les cotisations établies par le ministre sont ratifiées :
+a) la cotisation dont l'avis est daté du 12 août 2004, porte le numéro 11DU8000272 et vise la période allant du 1er janvier 2001 au 31 décembre 2003;
+b) la cotisation dont l'avis est daté du 22 décembre 2004 et vise la période allant du 1er avril au 30 juin 2004;
+c) la cotisation dont l'avis est daté du 22 décembre 2004 et vise la période allant du 1er juillet au 30 septembre 2004;
+Aucuns dépens ne sont adjugés.
+Signé à New Glasgow (Nouvelle­Écosse), ce 12e jour d'avril 2010.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 8e jour de juin 2010.
+Yves Bellefeuille, réviseur
+Dossier : 2006­2140(IT)I
+ENTRE :
+GARY NEWELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 21 avril et le 19 octobre 2009,
+à Prince George (Colombie­Britannique).
+Devant : L'honorable juge T. E. Margeson
+Comparutions :
+Pour l'appelant :
+L'appelant lui­même
+Avocate de l'intimée :
+Me Laura Zumpano
+________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 de l'appelant sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que l'appelant a le droit de déduire des dépenses d'entreprise de 10 279,23 $ pour l'année 2001 et de 10 979,54 $ pour l'année 2002.
+Aucuns dépens ne sont adjugés.
+Signé à New Glasgow (Nouvelle­Écosse), ce 12e jour d'avril 2010.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 8e jour de juin 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 196
+Date : 20100412
+Dossiers : 2006­2137(GST)I
+2006­2140(IT)I
+ENTRE :
+GARY NEWELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] L'appelant a déposé un avis d'appel à l'encontre des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») pour les années d'imposition 2001 et 2002. Dans ces nouvelles cotisations, le ministre a refusé toutes les dépenses qui avaient été déduites, soit 39 997 $ pour l'année 2001 et 42 715 $ pour l'année 2002.
+[2] Le ministre a en outre établi de nouvelles cotisations à l'égard de l'appelant en vue de supprimer le revenu d'entreprise brut de 2 363 $ pour l'année 2001 et de 3 696 $ pour l'année 2002.
+[3] Ces nouvelles cotisations ont été ratifiées par un avis daté du 12 avril 2006.
+[4] L'appelant a également déposé un avis d'appel à l'égard d'avis de cotisation délivrés par le ministre au sujet des crédits de taxe sur les intrants demandés en vertu de la Loi sur la taxe d'accise, L.R.C. 1985, ch. E‑15, dans sa version modifiée (la « LTA »), pour les périodes allant du 1er janvier 2001 au 31 décembre 2003 (la « première période »), du 1er avril au 30 juin 2004 (la « deuxième période »), et du 1er juillet au 30 septembre 2004 (la « troisième période »).
+Les points litigieux
+[5] Comme l'avocate de l'intimée l'a dit dans son argumentation, ce que l'appelant n'a pas contesté et qui est confirmé par la preuve, les questions en litige sont les suivantes :
+En ce qui concerne les appels interjetés en vertu de la Loi de l'impôt sur le revenu (la « Loi ») :
+(1) L'appelant exploitait‑il une entreprise au cours des années d'imposition 2001 et 2002?
+(2) Dans l'affirmative, l'appelant peut‑il déduire les dépenses qu'il demande au cours de ces périodes?
+En ce qui concerne les appels interjetés en vertu de la Loi sur la taxe d'accise :
+(1) Les montants ont‑ils été dépensés en raison de l'activité commerciale de l'appelant, ou s'agissait‑il de dépenses de nature personnelle? Si une activité commerciale était exercée, l'appelant peut‑il demander les crédits de taxe sur les intrants ici en cause?
+La preuve
+[6] Il a été convenu que la preuve soumise dans une cause sera considérée comme s'appliquant à l'autre cause, le cas échéant.
+[7] Gary Newell a témoigné être mineur‑prospecteur. Il avait une case postale, à Prince George, où il recevait son courrier, mais il a changé d'adresse postale, en ce qui concerne l'administration du Régime de pensions du Canada, de la case postale 2107, à Prince George, à l'adresse suivante : 28310, chemin Telachick, Prince George. L'administration du Régime de pensions du Canada avait accepté d'acheminer tout le courrier, jusqu'au 25 août 2004, à la nouvelle adresse.
+[8] Au cours de cette période, tous ceux avec qui l'appelant traitait ont été avisés du changement d'adresse, sauf Praxair.
+[9] Lorsqu'il a reçu des renseignements de Revenu Canada, l'appelant lui a envoyé un avis de changement d'adresse, le 10 mars 2004. Il ne se rappelait pas comment il l'avait fait, mais il supposait que c'était par téléphone. Toute la correspondance avec Revenu Canada, à compter du mois de janvier 2004, indiquait la nouvelle adresse.
+[10] Au mois d'août 2004, l'appelant a reçu, à la nouvelle adresse, un avis de cotisation pour la taxe sur les produits et services (la « TPS »).
+[11] Au mois d'avril 2005, l'appelant a reçu un appel téléphonique d'une agente du bureau chargé du recouvrement au sujet de ses obligations concernant la TPS. Il a fait savoir que la question faisait l'objet d'un appel et l'agente lui a répondu qu'aucun avis d'opposition n'avait été déposé. L'appelant a fait savoir que l'avis avait été déposé par son comptable le 15 octobre 2004, mais l'agente a répondu que l'avis n'avait pas été reçu. L'appelant a télécopié des copies de l'avis, mais on a de nouveau communiqué avec lui par téléphone, le 5 avril 2005, pour demander de l'argent, étant donné qu'aucun avis d'appel n'avait été reçu. L'appelant a envoyé au bureau chargé du recouvrement, par télécopieur, des copies de l'avis d'appel concernant la TPS. L'agente a informé l'appelant qu'il devait déposer de nouveaux avis d'opposition et une demande de prorogation du délai, à laquelle il a été fait droit.
+[12] Le 28 janvier 2004, l'appelant recevait des lettres aux deux adresses, mais il utilisait la même adresse pour toutes les lettres échangées avec Revenu Canada. Le 5 avril 2005, lorsqu'il a appelé Mme Taylor, cette dernière lui a dit qu'il devait 20 000 $ au titre de l'impôt sur le revenu, et l'appelant a répondu : [TRADUCTION] « C'est impossible. » Il a demandé comment le délai de 90 jours pouvait être expiré alors qu'il n'avait pas reçu d'avis de nouvelle cotisation. Madame Taylor lui a fait savoir qu'elle essaierait d'obtenir une copie de l'avis de nouvelle cotisation, mais l'appelant n'a jamais reçu de copie.
+[13] Lorsque la question de la TPS s'est posée, la question de l'impôt sur le revenu s'est également posée. L'appelant a décidé de la résoudre. Le 5 avril 2005, on savait que l'appelant contestait les avis de cotisation concernant les années 2001 et 2002.
+[14] Au mois d'avril 2006, l'appelant a reçu des avis de ratification relativement à la vérification de la TPS. Il croyait avoir également reçu une lettre disant que les cotisations d'impôt relatives aux années 2001 et 2002 étaient ratifiées.
+[15] Au mois de juillet 2006, l'appelant a envoyé à la Cour canadienne de l'impôt une lettre disant qu'il voulait appeler des cotisations relatives à la TPS pour les années d'imposition 2001 à 2003, pour le deuxième trimestre de l'année 2004, et pour le troisième trimestre de l'année 2004. L'appelant a ajouté qu'il voulait appeler des cotisations d'impôt sur le revenu mentionnées dans la lettre du 12 août 2004 du bureau de Prince George de Revenu Canada. Ces cotisations se rapportaient aux années d'imposition 2001 et 2002. L'appelant a fait savoir qu'il ne connaissait pas les numéros de cotisation parce qu'il n'avait pas reçu les avis de cotisation.
+[16] À compter du mois de janvier 2004, toute la correspondance de Revenu Canada portait la bonne adresse et, après le mois de juin 2004, tout le courrier reçu de Revenu Canada au sujet de la TPS indiquait la bonne adresse.
+[17] La première indication de l'existence d'un avis de cotisation d'impôt sur le revenu datait du 5 avril 2005. L'appelant croyait que ses cotisations d'impôt sur le revenu pour les années 2001 et 2002 devaient être annulées parce qu'il n'avait pas reçu d'avis de cotisation.
+Le contre­interrogatoire concernant la requête visant l'accueil de l'appel
+[18] Le comptable de l'appelant préparait les déclarations de celui‑ci depuis le début des années 1990. Le code postal approprié était le V2N 2J8, bien que, auparavant, il n'en était pas certain.
+[19] L'appelant a changé son adresse postale le 25 février 2004. Il a avisé Postes Canada, qui a avisé les intéressés du changement, mais en a oublié certains. L'appelant n'a pas oublié d'aviser l'Agence du revenu du Canada (l'« ARC »). Il a ensuite dit qu'il croyait avoir avisé l'ARC du changement d'adresse le 10 mars 2004.
+[20] La vérification a débuté au mois de janvier 2004. On a dit à l'appelant que la vérificatrice, Barbara Tompkins, lui avait envoyé une lettre, ou avait envoyé une lettre à sa case postale, au sujet d'une offre de règlement et qu'elle lui avait parlé au téléphone. L'appelant ne se rappelait pas avoir parlé à la vérificatrice le 10 mars 2004.
+[21] L'appelant a ensuite affirmé avoir peut‑être parlé à la réceptionniste, lorsqu'il avait appelé l'ARC, et ce, bien qu'il ait eu le numéro de téléphone de Mme Tompkins. L'appelant a obtenu des renseignements au sujet des cotisations à la suite d'une demande d'accès à l'information. Il s'est fondé sur le dossier concernant la TPS.
+[22] Au mois d'août 2004, l'appelant recevait encore des lettres adressées à la case postale.
+[23] On a dit à l'appelant qu'il avait fait connaître sa nouvelle adresse lorsqu'il avait parlé à l'agente au mois d'avril 2005. L'appelant a affirmé qu'on lui avait dit que les avis de cotisation avaient été envoyés à la case postale et qu'on lui enverrait une nouvelle copie de l'avis de cotisation.
+[24] La pièce R‑1 a été admise sur consentement. Il s'agissait d'un état des résultats des activités de l'entreprise. L'avis d'opposition aux cotisations relatives à l'impôt sur le revenu et à la TPS a été produit sous la cote R‑2.
+[25] Jusqu'au 19 mai 2005, l'appelant n'avait jamais informé le ministère des Forêts de sa nouvelle adresse. Il ne savait pas trop à quel moment il l'avait informé, ou s'il l'avait fait par télécopieur ou par téléphone.
+[26] La pièce R­3 a été admise sur consentement. On a dit à l'appelant qu'il avait reçu, au mois de décembre 2004, les avis de cotisation qui avaient été envoyés de la façon régulière au mois d'octobre. L'appelant a nié la chose.
+[27] On a dit à l'appelant qu'il n'avait pas informé l'ARC de son changement d'adresse au mois de décembre 2004. L'appelant a nié la chose.
+[28] On a en outre dit à l'appelant qu'il avait informé l'ARC du changement d'adresse au mois d'avril 2005 seulement. L'appelant a nié la chose. Il a affirmé qu'il s'agissait d'une nouvelle confirmation.
+La preuve concernant la requête présentée par l'intimée
+[29] Barbara Jean Tompkins était vérificatrice à l'ARC. Le dossier de l'appelant lui a été assigné au mois de décembre 2003 et elle s'est occupée du dossier jusqu'au mois de juin 2004. Il y a eu des lettres, des appels téléphoniques et des rencontres. L'appelant n'a pas informé la vérificatrice de son changement d'adresse le 10 mars 2004. La vérificatrice avait examiné ses notes avant de se présenter devant la Cour. La pièce R‑4 a été admise sur consentement. La vérificatrice a parlé à l'appelant pendant tout le mois de mars au sujet de la vérification et du revenu de celui‑ci.
+[30] La pièce R‑5 a été admise sur consentement. Elle indiquait l'adresse de l'appelant au 1er mars 2004 comme étant celle de la case postale.
+[31] La vérificatrice a déclaré que c'était le bureau de Surrey qui avait produit les cotisations. Le 10 ou le 11 août, le dossier a été fermé. On a envoyé la dernière lettre, disant que les cotisations seraient établies en temps et lieu.
+[32] L'avis de cotisation du 7 octobre 2004 a été produit sous la cote R‑6.
+[33] Jusqu'en 2005, les déclarations T‑1 que l'appelant a produites indiquaient l'adresse de la case postale. Le code postal, V2N 2J8, n'était pas le bon; le système a relevé l'erreur et a enregistré le code approprié, V2M 2J6.
+[34] Le 4 avril 2005, l'adresse a été changée dans le système. C'est Glenda Conners qui a effectué le changement. Madame Taylor avait demandé à Mme Conners de changer l'adresse étant donné qu'elle avait parlé au contribuable.
+[35] Le 6 décembre 2004, les cotisations ont de nouveau été établies et envoyées, accompagnées d'une note indiquant que l'on avait essayé d'autres adresses, mais que Postes Canada avait renvoyé les cotisations.
+[36] La pièce R‑8 a été produite sur consentement.
+[37] Lors du contre‑interrogatoire, Mme Tompkins a déclaré qu'il faut moins d'une semaine pour effectuer le changement d'adresse si l'adresse est donnée à une réceptionniste. Le système n'accepte pas un changement d'adresse effectué par téléphone. Il existait un formulaire de changement d'adresse, mais il ne s'agissait pas de celui qui avait été imprimé. Ce formulaire était utilisé pour les déclarations relatives à la TPS.
+[38] Lors du réinterrogatoire, Mme Tompkins a déclaré qu'aucune lettre n'avait été retournée après le 6 décembre 2004. Le système de la TPS et le système de l'impôt sur le revenu ne sont pas interactifs. Il faut changer l'adresse dans chacun des systèmes.
+L'argumentation présentée par l'intimée au sujet de la requête
+[39] Lors de l'argumentation, l'avocate de l'intimée a déclaré que le ministre avait fait tout ce qu'il lui était possible de faire. Il s'était fondé sur une adresse inexacte donnée par l'appelant.
+[40] L'appelant lui‑même a dit qu'il n'avait pas informé tous les intéressés du changement d'adresse. Il affirme avoir appelé l'ARC au sujet du changement, mais il ne savait pas à qui il avait parlé. Il n'a informé l'ARC qu'au mois d'avril 2005. C'est à ce moment‑là qu'il a mis son adresse à jour. Il ne sert à rien aux fins de l'impôt sur le revenu d'informer le service responsable de la TPS. Il s'agit de deux services distincts.
+[41] L'appelant a uniquement communiqué avec la vérificatrice au mois de mars 2005 et il a changé son adresse au mois d'avril 2005, après que des mesures de recouvrement eurent été entamées. Le ministre s'est fondé sur les derniers renseignements connus au sujet du contribuable, figurant dans la déclaration qui avait été produite le 15 juin 2004 pour l'année 2003. Le comptable du contribuable indiquait encore le mauvais code postal.
+[42] Le ministre s'est conformé au paragraphe 165(3) de la Loi.
+[43] L'appelant a reçu la lettre au mois d'août; il était au courant des cotisations. Les avis ont suivi.
+[44] Les avis ont été envoyés conformément aux exigences et ils ont ensuite été de nouveau envoyés.
+La décision relative à la requête visant l'annulation des cotisations
+[45] La Cour est convaincue que la requête ne peut pas être accueillie. La Cour est convaincue que le ministre s'est conformé au paragraphe 165(3) de la Loi.
+[46] La Cour retient le témoignage présenté par le témoin de l'intimée et, lorsqu'il existe une contradiction entre cette preuve et celle de l'appelant, la preuve de ce témoin, qui est plus digne de foi, est retenue.
+[47] L'appelant lui‑même ne se rappelait pas qui il avait appelé. Il n'a pas parlé à la vérificatrice. Il a parlé à quelqu'un au sujet de la vérification relative à la TPS, mais non au sujet de la question de l'impôt sur le revenu. Il s'agissait de deux questions distinctes et il fallait, dans les deux cas, donner un avis de changement d'adresse. La Cour est convaincue que si l'appelant a donné un avis à quelqu'un, cet avis se rapportait à la vérification relative à la TPS.
+[48] Le ministre a envoyé l'avis de nouvelle cotisation à la dernière adresse connue fournie par l'appelant dans sa déclaration de revenus de l'année 2003, produite le 15 juin 2004. Le comptable de l'appelant avait encore une fois inscrit le mauvais code postal, ce qui indique un manque de communication avec l'appelant.
+La preuve relative aux questions principales
+[49] Arthur James Burrows a été désigné comme étant le comptable qui avait préparé et produit les déclarations de l'appelant. Il a déclaré que l'appelant [TRADUCTION] « jalonnait des concessions minières ». Il croyait que, sur une période de quinze ans, l'appelant avait investi environ 200 000 $ dans cette entreprise. La plupart des entreprises minières ont lieu là où l'extraction a été fructueuse. Le comptable avait de la difficulté à accepter la position du ministre selon laquelle l'appelant n'exploitait pas d'« entreprise ».
+[50] Lors du contre‑interrogatoire, M. Burrows a reconnu qu'il n'avait pas de titre professionnel comptable. L'appelant possédait énormément de machinerie minière. Avant l'année 2001, au cours des années 1960, l'appelant avait vendu de l'or, mais il ne savait pas combien d'or avait été vendu.
+[51] Monsieur Burrows n'était pas mineur de métier, mais il a affirmé qu'à sa connaissance, aucun mineur n'établit de projections formelles et qu'aucun mineur ne dresse de plan d'affaires.
+[52] Monsieur Burrows n'examinait pas les déductions demandées par l'appelant. Il a convenu que l'appelant avait inclus des dépenses personnelles dans ses déclarations relatives aux années en question.
+[53] Gary Newell a déclaré que l'ARC lui avait dit qu'il n'avait pas encore établi d'entreprise, mais il s'était livré à des activités minières, à la recherche de minéraux, dans la chaîne Cariboo, à 100 kilomètres à l'est de Quesnel (Colombie‑Britannique), dans la ceinture aurifère. Il possédait des concessions minières à cet endroit. Il s'occupait des deux types d'exploitation minière, à savoir l'exploitation minière en roche dure, et l'exploitation des placers, où l'on travaille le gravier. En 2001 et en 2002, ses activités étaient axées sur l'exploitation des placers. L'appelant avait vendu de l'or à trois reprises au cours des années 1990. Il avait en sa possession de l'or récupéré invendu d'une valeur de 11 000 $.
+[54] La pièce A‑3 a été produite en preuve; elle énumérait les concessions minières de l'appelant en 2001 et en 2002. La pièce A‑4 était une liste de ses droits aux minéraux pour les années 2002 à 2005.
+[55] L'appelant était tenu de donner avis des travaux qu'il exécutait à l'égard des concessions minières en vue de les maintenir, ou il était tenu de verser certaines sommes à la province de la Colombie‑Britannique.
+[56] Les pièces A‑5 à A‑16 étaient des copies de ses avis, ainsi que de ses permis d'utilisation pour les années 2001 et 2002 et du permis d'utilisation d'eau pour les années 1994, 2001 et 2002.
+[57] L'appelant travaillait à plus de 4 000 pieds d'altitude et il travaillait uniquement pendant l'été, entre le mois de mai et la fin de semaine prolongée du mois d'octobre. Il était normalement dans un campement pendant 100 jours chaque année, et il effectuait chaque année environ 2 000 heures de travail.
+[58] L'appelant possédait le premier droit d'entrée et, en 2002, il avait également effectué des travaux d'exploitation forestière; une infestation de dendroctones l'avait empêché d'en faire davantage en 2003.
+[59] Pendant l'hiver, l'appelant s'occupe de travaux d'écritures; il examine les cartes et rédige des rapports à l'intention du ministre. Il emporte chez lui pour l'hiver tout ce qu'il y a dans le campement, et il répare également son équipement à ce moment de l'année.
+[60] La pièce A‑20 était composée du questionnaire de l'ARC auquel l'appelant avait répondu.
+[61] Une autre entreprise se chargeait de déboiser le terrain de l'appelant, de façon que celui‑ci puisse y travailler.
+[62] La pièce A‑21 était composée de photos du campement minier de l'appelant. La pièce A‑22 était une liste du matériel d'exploitation minière de l'appelant. La pièce A‑23 était la liste de ses documents pour les années 2000, 2001 et 2002.
+[63] L'appelant possédait également du matériel léger qui ne figurait pas sur la liste. L'appelant ne considérait pas cette initiative comme un passe‑temps.
+[64] La pièce A‑25 était une carte du ruisseau Antler. L'appelant effectue des travaux à cet endroit. Il y possède un campement, à 4 500 pieds d'altitude. Il s'agit d'un « bon » secteur pour l'exploitation minière. Il y a différents sites d'« exploitation des placers » à cet endroit.
+[65] Au ruisseau California, situé à proximité, une découverte avait été faite, laquelle a été décrite comme étant une [TRADUCTION] « percée ». D'autres progrès ont été accomplis à cet endroit. Le ruisseau California passe par le terrain de l'appelant.
+[66] La pièce A‑25 était une carte du ruisseau Grouse, où l'on a fait l'une des plus importantes découvertes au monde.
+[67] La pièce A‑26 était une carte du district minier de Cariboo. Elle montre que l'appelant est au milieu de riches placers. Contrairement à ce qu'affirme le ministre, les activités de l'appelant ne sont pas de nature spéculative. Les activités de l'appelant visent à lui permettre de trouver de l'or et d'établir une entreprise rentable. Il est inutile de faire une étude de marché étant donné qu'il est possible de vendre de l'or n'importe où.
+[68] Les connaissances de l'appelant, ses cartes et les renseignements qu'il possédait constituaient le plan d'affaires de l'appelant. L'appelant allait consacrer à l'entreprise les fonds qu'il avait les moyens d'investir.
+[69] Lors du contre‑interrogatoire, l'appelant a déclaré avoir jalonné sa première concession minière en 1988, lorsqu'il travaillait encore dans une usine. À ce moment‑là, il s'adonnait à des activités minières pendant ses vacances et pendant la fin de semaine. L'appelant a suivi un cours de prospection en 1973, parce qu'il s'intéressait aux activités minières. Il a quitté son emploi à plein temps pour cause d'invalidité et il a commencé à s'occuper à plein temps d'exploitation minière. S'il n'exerçait pas d'activités minières à son compte, il le ferait pour quelqu'un d'autre. Il détenait des permis d'exploitation minière avant de se lancer à plein temps dans les activités minières.
+[70] L'appelant avait un projet. Il passait des heures à faire des recherches sur les ventes et sur d'autres aspects de l'exploitation minière.
+[71] D & G Placer Mining appartient à 50 p. 100 à la femme de l'appelant. Toutes les « concessions de placers » appartiennent à l'appelant et à sa femme. Les dépenses en question se rapportent toutes aux « concessions de placers ». Les pièces R‑2 et R‑3 ont été produites sur consentement. Il s'agissait [TRADUCTION] d'« avis d'achèvement des travaux ».
+[72] Les stocks d'or de l'appelant s'élèvent à 11 000 $. Au cours des années 1990, l'appelant a vendu une certaine quantité d'or. Il peut vendre l'or aux affineurs, sur le marché, ou à des particuliers. Il n'y a pas de concurrents parce qu'il existe un marché pour n'importe quelle quantité d'or.
+[73] L'appelant déduit des pertes chaque année depuis qu'il s'occupe d'exploitation minière. En ce moment, il ne dépense pas d'argent pour du matériel. Il n'a pas acheté de matériel important en 2001 ou en 2002.
+[74] Les pièces R‑4 et R‑5 indiquent les pertes subies en 2001 et en 2002, et les pièces R‑6 et R‑7 sont des états révisés des pertes pour ces années‑là.
+[75] On a renvoyé l'appelant à un certain nombre de dépenses qu'il avait déduites, mais qui, de son propre aveu, étaient de toute évidence de nature personnelle, ou qu'il ne pouvait pas justifier à titre de dépenses d'entreprise, notamment : achats de boissons alcoolisées données en cadeau, achats de produits de boulangerie, paiements de réparations, achats chez Costco, Wal‑Mart et Zellers, paiements pour des hôtels, achats de cigarettes, voyage à Vancouver (lequel était clairement d'une nature personnelle), achats au Superstore, et autres achats pour lesquels l'appelant n'a pas pu établir de lien avec l'entreprise.
+[76] Lors du réinterrogatoire, l'appelant a admis que tout montant peu élevé pour l'essence se rapportait à des fins personnelles, ainsi que certains frais concernant du propane.
+[77] L'intimée a cité Mme Tompkins, vérificatrice à l'ARC qui s'est occupée des dossiers ici en cause. Madame Tompkins avait demandé des documents à l'appelant; elle avait personnellement traité avec lui. Elle avait conclu à l'absence de revenu. Elle avait conclu que des activités minières étaient exercées, mais qu'il n'y avait pas d'entreprise. L'appelant utilisait ses crédits de taxe sur les intrants comme revenu. Il déduisait des pertes depuis 1988.
+[78] La pièce R‑9 était composée des feuillets T‑4, indiquant les profits et les pertes. La vérificatrice avait examiné le dossier relatif à la TPS et elle avait conclu qu'aucun revenu n'était déclaré, mais que l'appelant payait des dépenses afférentes aux crédits de taxe sur les intrants demandés. La vérificatrice avait refusé toutes les dépenses parce qu'il n'y avait pas d'entreprise.
+[79] Aucune pénalité pour faute lourde n'avait été imposée et la vérificatrice avait en partie renoncé aux intérêts. Elle avait admis un crédit au titre des frais d'exploration au Canada (« FEC »), mais elle ne pouvait pas dire quelles dépenses se rattachaient aux activités minières.
+[80] En appel, le crédit pour FEC a été admis, ainsi que le coût des permis d'utilisation d'eau et les « frais de transfert ». Le crédit d'impôt à l'exploration de la Colombie‑Britannique a également été admis. L'appelant a uniquement le droit de demander le crédit pour FEC ou le crédit d'impôt à l'exploration de la Colombie‑Britannique. La vérificatrice a tenu compte de la chose.
+[81] La vérificatrice a examiné tous les reçus et les a ventilés. L'appelant faisait passer des dépenses personnelles pour des dépenses d'entreprise. La vérificatrice a comparé la liste révisée de dépenses réclamées par l'appelant à sa propre liste et certains montants ont été supprimés ou réduits.
+[82] À l'onglet 7 du recueil de documents figure le total des montants que la vérificatrice aurait pu admettre s'il y avait eu une entreprise. Le document versé à l'onglet 6 a été pris en compte. Le recueil de documents a été produit sous la cote R‑11. L'appelant n'avait pas de compte bancaire.
+[83] L'année 2001 n'a pas fait l'objet d'un examen, mais s'il y avait eu une entreprise, un montant similaire aurait été admis.
+[84] Lors du contre‑interrogatoire, Mme Tompkins a déclaré avoir conclu qu'il n'y avait pas d'entreprise parce qu'il n'y avait pas de revenu.
+[85] Il n'y a pas eu de rencontre afin d'examiner les supposés éléments personnels dans le compte de frais révisé de la vérificatrice. Le total des déductions concernant le carburant ne comprenait pas tous les frais se rattachant à l'essence, à l'huile, au carburant et au propane.
+Arguments présentés pour le compte de l'intimée
+[86] Dans ses observations, l'avocate de l'intimée a déclaré qu'il y avait deux appels, soit un appel en matière d'impôt sur le revenu et un appel concernant la TPS, et que la preuve s'appliquait aux deux cas.
+[87] Dans l'appel en matière d'impôt sur le revenu, deux questions se posent : 1) Y avait‑il une entreprise en 2001 et en 2002? 2) L'appelant peut‑il déduire les dépenses qu'il a demandées pour les années 2001 et 2002?
+[88] Dans l'appel concernant la LTA, y avait­il une activité commerciale pendant les trois périodes en cause, soit du 1er janvier 2001 au 31 décembre 2003, du 1er avril au 30 juin 2004, et du 1er juillet au 30 septembre 2004? Dans l'affirmative, l'appelant a‑t‑il droit aux crédits de taxe sur les intrants qu'il a demandés?
+[89] En réponse, l'avocate a exprimé l'avis selon lequel il n'y avait pas de source de revenu ni aucune entreprise ou activité commerciale selon la LTA.
+[90] L'appelant a uniquement le droit de déduire des FEC.
+[91] Sous le régime de la LTA, le degré de preuve nécessaire à l'égard de l'« activité commerciale » est plus élevé.
+[92] L'article 66 de la Loi autorise l'appelant à déduire les dépenses faites, notamment les frais de prospection. Ces crédits peuvent s'accumuler en application de l'article 66.13, en ce qui concerne les particuliers.
+[93] Le paragraphe 66.1(6) de la Loi renferme la définition.
+[94] En outre, la Loi prévoit qu'une fois la production commencée, l'appelant peut déduire les dépenses d'entreprise ordinaires. Ces montants peuvent être reportés prospectivement pour une période indéfinie et peuvent compenser des dépenses futures. La Loi n'exige pas qu'il y ait une attente raisonnable de profit. Cependant, le crédit d'impôt à l'exploration de la Colombie‑Britannique réduit le montant que l'appelant peut déduire au titre des dépenses. L'appelant a obtenu un crédit de 4 563,83 $ en 2001, de 4 506,99 $ en 2002 et de 4 586,94 $ en 2003.
+[95] Cela a pour effet de donner un montant négatif lorsque le montant reçu au cours d'une année est appliqué en réduction du montant reçu pour une autre année.
+[96] L'appelant a néanmoins obtenu le crédit d'impôt à l'exploration de la Colombie‑Britannique, au complet, mais il n'a obtenu aucun crédit additionnel, parce que le montant était négatif.
+[97] Selon l'intimée, les dépenses qui ont été déduites doivent, dans une proportion de 25 p. 100, être déduites au titre de FEC.
+[98] Les activités de l'appelant étaient un passe‑temps et l'appelant n'en était pas encore au stade commercial.
+[99] L'avocate a cité l'arrêt Stewart c. Canada, [2002] 2 R.C.S. 645; elle a soutenu que, s'il existe un élément personnel, la Cour doit tenir compte de l'indice d'une activité commerciale. Il ne s'agit pas d'une question purement subjective; il faut également tenir compte de facteurs objectifs. L'activité était‑elle menée d'une manière commerciale ou de façon professionnelle?
+[100] Dans ce cas‑ci, l'activité comportait un élément personnel. Les activités minières passionnaient l'appelant. Il y consacrait tout son temps libre. Il n'existe aucun indice d'activité commerciale. L'appelant n'exerçait pas l'activité d'une manière commerciale.
+[101] L'appelant a déduit, depuis 1992, un montant d'au moins 25 000 $ au titre des dépenses. Il s'agit de grosses dépenses. L'appelant estimait que le seul revenu qu'il avait reçu provenait des crédits de taxe sur les intrants qu'il avait obtenus en vertu des dispositions de la LTA relatives à la TPS. L'appelant n'a jamais vendu d'or, ou rien ne prouve qu'il en ait vendu. Les pertes indiquent que l'appelant n'exerçait pas l'activité en vue d'en tirer un bénéfice. L'appelant n'avait pas établi de plan d'affaires clair et il n'avait pas tenté de lancer son produit sur le marché. Il n'avait pas adopté de stratégie commerciale. L'élément personnel l'emporte sur l'élément commercial.
+[102] L'avocate a cité la décision Spasic c. Canada, 2009 CCI 193; elle se demandait si une entreprise avait été lancée. Des pertes continues avaient été subies (voir les paragraphes 10 et 13 de la décision susmentionnée).
+[103] L'appelant a agi de bonne foi, mais il n'avait pas établi d'entreprise. Les mesures qu'il a prises, comme le dépôt de demandes de concessions minières, devaient être prises, et ce, qu'il soit en affaires ou non. Le seul plan d'affaires de l'appelant était qu'il s'attendait à découvrir un gros gisement d'or, mais il n'avait pas élaboré de plan ordonné en vue d'y arriver. L'appelant ne satisfaisait pas aux normes de comportement d'un homme d'affaires sérieux.
+[104] Il est vrai que l'appelant a eu de grosses dépenses, mais le législateur a déjà pris la chose en considération en autorisant ces dépenses avant qu'une entreprise soit établie (même s'il n'était pas nécessaire d'avoir une attente raisonnable de profit).
+[105] En ce qui concerne les exigences relatives à la TPS, l'appelant n'a pas satisfait au critère de l'indice d'une activité commerciale. On accorde plus de poids au critère de l'attente raisonnable de profit dans les affaires de TPS.
+[106] L'affaire Stewart n'a pas aboli le critère de l'attente raisonnable de profit, et la loi en matière de TPS comprend le critère de l'attente raisonnable de profit.
+[107] Il y avait toujours eu des pertes et le seul revenu déclaré se rapportait aux crédits relatifs à la TPS. Or, ce revenu n'est pas tiré de l'activité de l'appelant. L'appelant n'a pas droit à des crédits de taxe sur les intrants.
+[108] Un autre point à prendre en considération se rapporte aux pertes. Si l'appelant a droit aux crédits d'impôt à l'exploration au Canada ou à des dépenses d'entreprise, il ne peut pas déduire toutes les dépenses qu'il a demandées. L'appelant a révisé les montants qu'il déduisait dans les pièces R‑6 et R‑7. Il a reconnu que le loyer de 4 187 $ en 2001 et de 2 865,83 $ en 2002 ne pouvait pas être déduit. Il a également convenu que les montants qui avaient été déduits pour les boissons alcoolisées, soit 1 447,20 $ en 2001 et 1 081,56 $ en 2002, devaient être refusés.
+[109] Le total des montants révisés s'élevait à 31 271,56 $ en 2001 et à 23 306,82 $ en 2002.
+[110] L'avocate a affirmé qu'il existe un doute raisonnable quant à la question de savoir si ces montants se rattachaient à l'activité liée à l'or de l'appelant.
+[111] Il est arrivé à plusieurs reprises que l'appelant ne puisse pas établir de lien entre ces dépenses et le revenu. L'appelant a déduit la totalité de montants qui n'avaient rien à voir avec une entreprise.
+[112] La vérificatrice a procédé à un examen minutieux de l'année 2002; elle a conclu que les montants étaient déductibles dans une proportion d'environ 20 p. 100 seulement s'il existait une entreprise (voir l'onglet 7, pièce R‑11).
+[113] Des frais supplémentaires de carburant devraient être admis pour l'année 2002 s'il existait une entreprise.
+[114] En l'espèce, l'appelant avait l'habitude de déduire des dépenses inappropriées.
+[115] Si les dépenses sont admises à titre de dépenses d'entreprise, elles doivent s'élever, selon le rapport de la vérificatrice, à 10 979,54 $ pour l'année 2002 et à 10 279,23 $ pour l'année 2001.
+[116] Toutefois, il n'y avait pas d'entreprise et, par conséquent, seuls les crédits d'impôt à l'exploration au Canada, de 5 742,40 $ en 2001 et de 6 472,55 $ en 2002, doivent être admis.
+[117] En ce qui concerne la TPS, il n'y avait pas d'activité commerciale, de sorte qu'aucun montant ne devrait être admis pour cette année‑là.
+Arguments présentés par l'appelant
+[118] L'appelant n'était pas d'accord pour dire que son activité ne constituait qu'un passe‑temps. Il a affirmé y consacrer beaucoup plus de temps et a affirmé que son épouse et lui‑même y consacraient beaucoup plus d'argent que ce qu'ils auraient consacré à des vacances. L'appelant possédait du matériel d'une valeur d'environ 250 000 $ et il consacre chaque année environ 2 000 heures à son initiative minière.
+[119] L'appelant entreprend ses activités dès le début du printemps si le temps le permet, normalement vers la fin de semaine de la fête de la Reine, à une altitude de 4 500 pieds, pour descendre peu à peu à une altitude de 4 000 pieds, vers le congé de l'Action de grâces. En se fondant sur ses recherches, il essaie de mettre en valeur une mine exploitable. Il s'agit d'une entreprise.
+[120] Quant à la question du crédit d'impôt à l'exploration de la Colombie‑Britannique, il s'applique uniquement aux impôts payés et non aux dépenses. Le montant qui est calculé est défalqué des impôts qu'il a payés ou lui est remis.
+[121] L'appelant n'a pas demandé de crédit d'impôt à l'exploration au Canada et il ne le fera pas. Il demande uniquement le crédit d'impôt à l'exploration de la Colombie‑Britannique.
+[122] L'appelant a choisi les activités minières par goût personnel, mais cela ne veut pas pour autant dire qu'il s'agit d'un passe‑temps. Il s'agit pour lui d'un travail à plein temps.
+[123] L'appelant a abandonné tout argument se rapportant aux délais applicables aux cotisations. Quant à la question de la TPS, il a affirmé exploiter une entreprise et avoir le droit de demander des crédits de taxe sur les intrants.
+[124] Selon lui, l'appel doit être accueilli.
+Analyse et décision
+[125] La plupart des problèmes qui se posent dans le présent dossier sont attribuables au fait que l'appelant ne tenait pas de registres et qu'il n'avait pas de reçus adéquats. En outre, l'appelant n'a pas fait de distinction satisfaisante entre les dépenses qui pourraient être considérées comme déductibles, s'il y avait une entreprise, et les dépenses qui étaient clairement de nature personnelle et qui n'étaient clairement pas déductibles à titre de dépenses d'entreprise.
+[126] Si l'appelant doit subir les conséquences de cette omission, il ne peut s'en prendre qu'à lui‑même.
+[127] La Cour est convaincue que l'appelant a été traité avec respect par les fonctionnaires de l'ARC, qui se sont en fait mis en quatre pour l'aider.
+[128] La première question à trancher est de savoir s'il existait une entreprise au cours des années pertinentes, dans le cas de l'appel en matière d'impôt sur le revenu, et s'il y avait une activité commerciale, dans le cas de l'appel concernant la TPS. La Cour est convaincue que la charge qui incombe à l'appelant n'est pas la même dans chaque cas. La Cour examinera d'abord la question de savoir si l'appelant exploitait une « entreprise » selon la Loi de l'impôt sur le revenu, de façon à avoir le droit de déduire des dépenses et, dans l'affirmative, elle décidera des dépenses que l'appelant avait le droit de déduire au cours des périodes visées par l'appel.
+[129] L'avocate de l'intimée a soutenu que les activités de l'appelant, au cours des années en question, étaient un passe‑temps et qu'elles n'avaient pas atteint le stade d'une entreprise.
+[130] Il n'y avait certes aucun revenu au cours des années en question et il existait un certain élément personnel, puisque l'appelant s'intéressait depuis longtemps aux mines d'or et aux régions dans lesquelles on avait trouvé de l'or par le passé. Toutefois, cela ne veut pas pour autant dire que ce qu'il faisait constituait uniquement un « passe‑temps ».
+[131] Les connaissances que possédait l'appelant au sujet de ce type d'exploitation minière et son excellente connaissance du terrain ont impressionné la Cour. De toute évidence, l'appelant a passé énormément de temps à étudier les cartes des régions où il travaillait et il avait jalonné un grand nombre de concessions minières dans les régions où il avait conclu, d'une façon passablement justifiée, que l'on avait déjà trouvé de l'or et où il croyait qu'il pourrait faire une découverte importante.
+[132] L'appelant avait consacré d'importantes ressources à l'acquisition du matériel et à l'établissement des installations là où il avait des concessions minières et il avait exécuté des travaux considérables en tentant d'y trouver de l'or. Il est vrai qu'au fil des ans, il a uniquement extrait de l'or d'une valeur d'environ 11 000 $, mais il s'attendait de toute évidence à trouver beaucoup plus d'or dans l'avenir.
+[133] L'appelant s'occupait d'exploitation minière en roche dure et d'exploitation des placers et il avait de bonnes connaissances au sujet des deux types d'exploitation. Il était au courant des exigences provinciales, selon lesquelles il fallait donner avis des travaux qu'il faisait à l'égard des concessions minières, et il a payé les frais de permis d'utilisation d'eau pour ses travaux d'exploration.
+[134] L'appelant consacrait chaque année environ 2 000 heures à son entreprise et il travaillait une centaine de jours, ce qui représentait tout le temps dont il disposait au cours d'une année compte tenu des contraintes imposées par les conditions météorologiques dans ces régions.
+[135] En hiver, l'appelant s'occupait des travaux d'écritures, il examinait les cartes et il rédigeait les rapports qui devaient être soumis à la province. Il réparait également l'équipement. Il était obligé de retenir les services d'une autre entreprise pour abattre les arbres, de façon à pouvoir exécuter ses travaux d'exploitation minière. Il a produit une liste de documents qu'il utilise pour ses travaux d'exploration et il avait une bonne connaissance de ce qui était arrivé par le passé dans les endroits où il travaillait; il connaissait les endroits où les travaux d'exploration avaient été fructueux. La Cour estime que les activités de l'appelant n'étaient pas simplement « spéculatives » et l'appelant a témoigné que ses activités avaient lieu au milieu de régions où il y avait de riches placers. Le plan de l'appelant consistait à chercher de l'or et à entreprendre une activité rentable.
+[136] L'appelant prend la position selon laquelle il est inutile de procéder à une étude de marché parce qu'il est possible de vendre de l'or n'importe où. Il avait un plan, qui était composé de ses connaissances, de ses cartes et des renseignements qu'il possédait, et il était prêt à engager dans l'activité tout ce qu'il avait les moyens d'y investir.
+[137] La Cour est convaincue que lorsque M. Newell exerçait un emploi, il s'adonnait à des activités minières pendant ses vacances et pendant la fin de semaine, mais qu'au cours des périodes en question, il avait de beaucoup dépassé ce stade.
+[138] En 1973, l'appelant a suivi un cours de prospection, par goût personnel, mais après avoir quitté son emploi, il a commencé à s'occuper à plein temps d'exploitation minière.
+[139] L'appelant a passé des heures à effectuer des recherches sur les ventes et sur d'autres aspects de l'exploitation minière. À l'heure actuelle, il ne dépense pas d'argent pour du matériel lourd et il ne l'a pas fait depuis les années 2001 et 2002.
+[140] En appliquant le critère que le juge en chef Bowman a mentionné dans la décision Kaye c. La Reine, no 97‑2772(IT)I, 9 avril 1998 (C.C.I.), il faut simplement se demander s'il existait réellement une entreprise.
+[141] Selon ce critère, le juge en chef Bowman examinerait des choses telles que la structure du capital, les connaissances du participant et le temps consacré à l'activité et, en outre, la question de savoir si la personne qui prétend exploiter une entreprise a procédé de façon ordonnée et méthodique, comme le ferait une personne en affaires.
+[142] La Cour est convaincue qu'en appliquant ces facteurs au présent appelant, il faut conclure que celui‑ci exploitait une entreprise et que, contrairement au contribuable dans l'affaire Spasic dont le juge Boyle était saisi, l'appelant, dans ce cas‑ci, avait commencé à exploiter une entreprise au cours des années ici en cause, selon la preuve dans son ensemble.
+[143] Le ministre a conclu qu'il n'y avait pas d'entreprise parce qu'il n'y avait pas de revenu, mais cela n'est pas pour autant concluant.
+[144] Même si la Cour a conclu qu'il y avait une entreprise au cours des années en question et que des dépenses à juste titre déductibles ont été faites, il est clair que les dépenses qui ont été déduites n'étaient pas toutes déductibles au titre de dépenses d'entreprise.
+[145] Un grand nombre de dépenses étaient mal documentées, ou ne l'étaient pas du tout, et un grand nombre d'entre elles n'avaient rien à voir avec l'entreprise. Un grand nombre de dépenses étaient clairement de nature personnelle.
+[146] Il est bien établi que l'appelant avait tendance à déduire un grand nombre de dépenses inappropriées. Si ce n'était de la force de la preuve que l'appelant a présentée au sujet de la question de savoir s'il existait une entreprise, ces déductions inappropriées auraient fort bien pu vicier la totalité de la preuve de l'appelant.
+[147] Heureusement pour l'appelant, l'intimée a produit des calculs indiquant les montants que la vérificatrice pouvait associer aux activités de l'appelant au cours des années en question.
+[148] La Cour est convaincue qu'il s'agit de la meilleure preuve disponible, de sorte que l'appelant a le droit de déduire des dépenses de 10 279,23 $ en 2001 et de 10 979,54 $ en 2002.
+[149] Quant à l'appel concernant la TPS, la Cour est convaincue qu'il existe, selon la loi, un critère d'« attente raisonnable de profit ».
+[150] La Cour est convaincue, compte tenu de la preuve, que l'appelant n'a pas satisfait à ce critère. Cela est conforme à l'argument de l'avocate de l'intimée selon lequel il n'y avait pas d'indice d'activité commerciale permettant à l'appelant de satisfaire au critère voulant qu'il démontre qu'il était raisonnable de s'attendre à ce que l'entreprise soit rentable au cours des années en question.
+[151] La Cour n'est pas convaincue que l'appelant ait établi, pour l'application de la LTA, qu'il exerçait une activité commerciale au sens du paragraphe 123(1) de la LTA et que les dépenses dont la déduction a été refusée ont été effectuées pour consommation, utilisation ou fourniture dans le cadre des activités commerciales, comme l'exige le paragraphe 169(1) de la LTA.
+[152] La Cour est en outre convaincue que la demande de crédits de taxe sur les intrants de l'appelant n'était pas justifiée au moyen de documents comme l'exige le paragraphe 169(4) de la LTA et le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants.
+[153] L'appel est rejeté et la cotisation établie par le ministre est ratifiée.
+[154] Quant aux dépens, l'appelant a uniquement eu partiellement gain de cause dans l'appel en matière d'impôt sur le revenu; de plus, un bon nombre des problèmes étaient attribuables à l'omission de l'appelant de tenir des registres complets et exacts et à l'omission de faire une distinction entre les dépenses personnelles et les dépenses d'entreprise. À cause de ces lacunes, une bonne partie du temps de la Cour et du ministre a été gaspillée. L'appelant n'a pas droit aux dépens.
+[155] Quant à l'appel concernant la TPS, l'appelant n'a pas non plus droit aux dépens.
+[156] Après l'instruction, les deux parties ont déposé des observations au sujet de la question des FEC. Toutefois, la Cour est convaincue qu'elle n'a pas à examiner cette question étant donné que si les observations de l'appelant étaient retenues, le montant dû par l'appelant au titre de l'impôt serait plus élevé que le montant établi dans la cotisation.
+Signé à New Glasgow (Nouvelle­Écosse), ce 12e jour d'avril 2010.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 8e jour de juin 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 196
+Nos DES DOSSIERS DE LA COUR : 2006­2137(GST)I et 2006­2140(IT)I
+INTITULÉ : GARY NEWELL c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Prince George (Colombie­Britannique)
+DATE DE L'AUDIENCE : Le 21 avril et le 19 octobre 2009
+MOTIFS DU JUGEMENT : L'honorable juge T. E. Margeson
+DATE DU JUGEMENT : Le 12 avril 2010
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui­même
+Avocate de l'intimée :
+Me Laura Zumpano
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant : S/O
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous­procureur général du Canada
+Ottawa, Canada

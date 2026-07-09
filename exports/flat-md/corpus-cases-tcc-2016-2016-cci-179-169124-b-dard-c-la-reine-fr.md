@@ -1,0 +1,343 @@
+---
+title: "Bédard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/169124/index.do"
+last_modified: "2016-08-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 179"
+citation2: ""
+neutral_citation: "2016 CCI 179"
+decision_date: "2016-08-04"
+language: "fr"
+item_id: "169124"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2904
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:56:17.079000+00:00"
+cases_cited_count: 11
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "40fce5a8c1d901a4253e8d237c08516ac46c366d8a1665ecd10a74c8dcd51dfd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bédard c. La Reine
+
+- Citation: 2016 CCI 179
+- Decision date: 2016-08-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2904, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bédard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-08-04
+Référence neutre
+2016 CCI 179
+Numéro de dossier
+2014-2108(IT)I, 2014-2110(IT)I, 2014-2111(IT)I, 2014-2127(IT)I, 2014-2140(IT)I, 2014-2149(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2108(IT)I
+ENTRE :
+YVON BÉDARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Cléo Vallée (2014‑2110(IT)I), de Roger Ortiz (2014-2111(IT)I), de Linda Desrosiers (2014‑2127(IT)I), de Cécile Frenette (2014-2140(IT)I) et de Gisèle Michaud (2014‑2149(IT)I), les 4, 5, 6, 7 et 8 avril 2016, à Québec (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me Bobby Doyon
+Avocate de l’intimée :
+Me Anne-Marie Desgens
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de la cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+Signé à Ottawa, Canada ce 4e jour d’août 2016.
+« Patrick Boyle »
+Juge Boyle
+Dossier : 2014-2110(IT)I
+ENTRE :
+CLÉO VALLÉE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels d’Yvon Bédard (2014‑2108(IT)I), de Roger Ortiz (2014-2111(IT)I), de Linda Desrosiers (2014‑2127(IT)I), de Cécile Frenette (2014-2140(IT)I) et de Gisèle Michaud (2014‑2149(IT)I), les 4, 5, 6, 7 et 8 avril 2016, à Québec (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me Bobby Doyon
+Avocate de l’intimée :
+Me Anne-Marie Desgens
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+Signé à Ottawa, Canada ce 4e jour d’août 2016.
+« Patrick Boyle »
+Juge Boyle
+Dossier : 2014-2111(IT)I
+ENTRE :
+ROGER ORTIZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels d’Yvon Bédard (2014‑2108(IT)I), de Cléo Vallée (2014-2110(IT)I), de Linda Desrosiers (2014‑2127(IT)I), de Cécile Frenette (2014-2140(IT)I) et de Gisèle Michaud (2014‑2149(IT)I), les 4, 5, 6, 7 et 8 avril 2016, à Québec (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me Bobby Doyon
+Avocate de l’intimée :
+Me Anne-Marie Desgens
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+Signé à Ottawa, Canada ce 4e jour d’août 2016.
+« Patrick Boyle »
+Juge Boyle
+Dossier : 2014-2127(IT)I
+ENTRE :
+LINDA DESROSIERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels d’Yvon Bédard (2014‑2108(IT)I), de Cléo Vallée (2014-2110(IT)I), de Roger Ortiz (2014‑2111(IT)I), de Cécile Frenette (2014-2140(IT)I) et de Gisèle Michaud (2014‑2149(IT)I), les 4, 5, 6, 7 et 8 avril 2016, à Québec (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Bobby Doyon
+Avocate de l’intimée :
+Me Anne-Marie Desgens
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est accueilli.
+Signé à Ottawa, Canada ce 4e jour d’août 2016.
+« Patrick Boyle »
+Juge Boyle
+Dossier : 2014-2140(IT)I
+ENTRE :
+CÉCILE FRENETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels d’Yvon Bédard (2014‑2108(IT)I), de Cléo Vallée (2014-2110(IT)I), de Roger Ortiz (2014‑2111(IT)I), de Linda Desrosiers (2014-2127(IT)I) et de Gisèle Michaud (2014‑2149(IT)I), les 4, 5, 6, 7 et 8 avril 2016, à Québec (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Bobby Doyon
+Avocate de l’intimée :
+Me Anne-Marie Desgens
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est accueilli.
+Signé à Ottawa, Canada ce 4e jour d’août 2016.
+« Patrick Boyle »
+Juge Boyle
+Dossier : 2014-2149(IT)I
+ENTRE :
+GISÈLE MICHAUD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels d’Yvon Bédard (2014‑2108(IT)I), de Cléo Vallée (2014-2110(IT)I), de Roger Ortiz (2014‑2111(IT)I), de Linda Desrosiers (2014-2127(IT)I) et de Cécile Frenette (2014-2140(IT)I), les 4, 5, 6, 7 et 8 avril 2016, à Québec (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Bobby Doyon
+Avocate de l’intimée :
+Me Anne-Marie Desgens
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est accueilli.
+Signé à Ottawa, Canada ce 4e jour d’août 2016.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2016 CCI 179
+Date : 20160804
+Dossiers : 2014-2108(IT)I, 2014-2110(IT)I
+2014-2111(IT)I, 2014-2127(IT)I
+2014-2140(IT)I, 2014-2149(IT)I
+ENTRE :
+YVON BÉDARD, CLÉO VALLÉE,
+ROGER ORTIZ, LINDA DESROSIERS,
+CÉCILE FRENETTE, GISÈLE MICHAUD,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+Aperçu [1] Les six présents appels interjetés sous le régime de la procédure informelle ont été entendus ensemble à Québec. Les contribuables ont tous participé à des stratagèmes qui ont eu pour effet de dépouiller des sommes d’argent d’un REÉR (ou d’un autre régime enregistré) au moyen de l’utilisation de placements non admissibles dans un REÉR autogéré.
+[2] Le seul point en litige dans les présentes affaires est de savoir si l’intimée avait le droit d’établir une cotisation après l’expiration de la période normale de nouvelle cotisation. Les opérations visées ont eu lieu en 2001. Les périodes normales de nouvelle cotisation ont pris fin en 2005. Les avis de nouvelle cotisation ont été établis en 2009. La preuve de l’intimée doit donc convaincre la Cour que l’Agence du revenu du Canada (l’« ARC ») pouvait établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation, qui est de trois ans. Cela nécessite à son tour qu’il y ait eu une présentation erronée des faits par négligence, inattention ou omission volontaire.
+Le stratagème [3] Le principal promoteur‑escroc du stratagème présenté à ces contribuables était Claude Lavigne. Il n’agissait pas seul et il travaillait avec des arnaqueurs semblables. M. Lavigne a été déclaré coupable d’évasion fiscale et a été condamné à une peine d’emprisonnement de 21 mois ainsi qu’à une amende s’élevant à presque deux millions de dollars par la Cour du Québec (2014 QCCQ 6891 et 2015 QCCQ 923). La Cour du Québec l’avait antérieurement déclaré coupable de violations de la Loi sur les valeurs mobilières du Québec pour de tels stratagèmes, dont une portait sur un des clubs d’investissement visés en l’espèce (2007 QCCQ 8). Notre Cour a rendu plusieurs décisions, notamment deux concernant M. Lavigne, qui se rapportent à des stratagèmes similaires portant sur des REÉR dont la promotion était assurée par des arnaqueurs. Notre Cour a également entendu récemment d’autres affaires portant sur le dépouillement de REÉR : voir Demers c. Canada, 2014 CCI 368 (le juge Jorré); Gougeon c. Canada, 2010 CCI 359 (le juge Tardif); Bonavia c. Canada, 2009 CCI 289 (le juge Favreau), conf. par 2010 CAF 129; Astorino c. Canada, 2010 CCI 144 (le juge C. Miller); Succession Noiseux c. Canada, 2016 CCI 51 (le juge Paris), et Filiatrault c. Canada, 2016 CCI 58 (le juge Paris).
+[4] Les appelants et l’intimée ont déposé une entente partielle sur les faits, dont une copie est jointe aux présents motifs. En outre, deux vérificateurs de l’ARC ont témoigné, tout comme l’ont fait les six contribuables. L’un des vérificateurs de l’ARC était chargé de la vérification de l’ensemble des structures mises sur pied par M. Lavigne. L’autre était l’un des trois vérificateurs chargés de la vérification des contribuables investisseurs. Il a fait la vérification relativement à deux de ces six contribuables; deux autres vérificateurs ont procédé à la vérification relativement aux quatre autres contribuables. Les deux avocats ont aussi renvoyé aux décisions judiciaires visant M. Lavigne à titre personnel ainsi qu’aux autres affaires fiscales portant sur des dépouillements de REÉR concernant M. Lavigne, qui traitent notamment de la manière dont les stratagèmes de clubs d’investissement de M. Lavigne étaient structurés et de la manière dont il en avait assuré la promotion.
+[5] Pour les besoins des présents motifs, il suffit de donner un aperçu général de l’exposé conjoint des faits et des autres éléments de preuve portant sur la manière dont fonctionnait ce stratagème de clubs d’investissement. Comme il n’est pas surprenant dans des situations comme celles en l’espèce, les « investisseurs » éventuels qui y participaient allaient de personnes qui y participeraient de plein gré à des personnes moins averties qui semblent avoir été trompées. Les participants ne disent pas tous avoir reçu, ou avoir accepté, la même offre ou avoir entendu les mêmes affirmations ou avoir tenté de concilier ce qu’on leur disait avec ce que les documents indiquaient. Cependant, on peut résumer en général les trois clubs d’investissement de la manière suivante :
+1. Le participant transférait son régime enregistré préexistant à un nouveau REÉR autogéré à la B2B Trust, une filiale de la Banque Laurentienne. Rien ne donne à penser que la B2B Trust ou la Banque Laurentienne étaient complices du stratagème de M. Lavigne.
+2. Le conseiller financier du participant, avec lequel le participant n’avait jamais collaboré auparavant, donnait à la B2B Trust la directive d’investir dans l’un des trois clubs d’investissement suivants : Club d’investissement HT104, Club d’investissement HT106 et Club d’investissement GPS. Ce conseiller était lié à M. Lavigne et à ses complices, et il était désigné dans les documents signés au début de la participation du contribuable. La totalité, ou la quasi-totalité, des montants transférés dans le nouveau REÉR autogéré était ensuite investie dans des parts A, B ou C du club d’investissement. Les parts A étaient toutes émises selon le montant investi par le REÉR autogéré. Cela faisait en sorte que la B2B Trust indiquait le montant total comme le coût et la valeur de ces parts au relevé du REÉR du contribuable.
+3. L’émission de parts A au REÉR du contribuable donnait au contribuable le droit de recevoir des parts B, qui étaient des parts « de rendement », ainsi que des parts C, qui étaient des parts avec droit de vote (exposé conjoint des faits au paragraphe 16). Les participants comprenaient que leurs parts B seraient achetées d’eux‑mêmes par un groupe lié qui dirigeait les clubs d’investissement, soit le « Club des présidents », et que les investisseurs recevraient ce montant à titre de paiement anticipé ou incitatif pour avoir permis aux clubs d’investissement de placer les fonds transférés de leur REÉR ou d’un autre régime enregistré. Les participants recevraient un certain nombre de semaines plus tard, de 40 % à 50 % du montant transféré à titre de paiement anticipé ou incitatif au titre des bénéfices prévus des fonds transférés de leur REÉR ou d’un autre régime enregistré à leur nouveau REÉR autogéré, puis placés auprès du club d’investissement. On avait dit aux participants que ce montant serait imposable entre leurs mains à titre personnel plusieurs années plus tard, à titre de gain en capital admissible à l’exonération des gains en capital. Deux conventions relatives à l’option d’achat de parts B ont été déposées en preuve. Les documents semblent décrire le paiement reçu comme étant le prix de levée minimal payé par anticipation pour l’option accordée par l’appelant au Club des présidents à l’égard des parts B ainsi que pour la cession au Club des présidents des droits de vote afférents aux parts C. Les deux documents déposés en preuve visent M. Vallée; l’un de ces documents mentionne que M. Vallée a demandé et obtenu des conseils relativement à l’option. Un des documents dispose aussi que l’appelant était autorisé par la suite à organiser et planifier la vente en vertu de l’option comme il le souhaitait, pour son avantage juridique et fiscal. L’un de ces documents traitait de la planification relative à l’exonération des gains en capital.
+4. Les parts C étaient les seules parts avec droit de vote, et personne ne semble leur avoir accordé beaucoup d’attention (sauf pour les mentionner dans les conventions d’option d’achat de M. Vallée).
+5. Les relevés de REÉR émis par la B2B Trust aux investisseurs continuaient d’indiquer les parts A dans le club d’investissement comme ayant une valeur comptable et une valeur marchande égales au prix d’achat initial.
+6. Les participants n’ont pas déclaré les montants qu’ils avaient reçus relativement à leurs parts B dans l’année où ils les avaient reçus, que ce soit à titre personnel ou dans leur REÉR. Aucun feuillet T4RSP ne leur a été émis relativement à ces montants.
+7. Peu après le placement dans un club d’investissement, ce dernier transférait l’argent par chèque à une ou à plusieurs sociétés québécoises à dénomination numérique qui étaient liées à M. Lavigne. Les chèques renvoyaient au rachat des parts B (exposé conjoint des faits au paragraphe 22). Ces sociétés québécoises à dénomination numérique semblent avoir été la source des montants versés aux participants à l’égard des parts B.
+[6] Je suis convaincu, compte tenu de la preuve, qu’il est plus probable qu’improbable que le montant de 40 % à 50 % a été offert à tous les investisseurs. Le fait que, selon les notes de vérification, les investisseurs n’ont pas tous fait l’objet d’une nouvelle cotisation peut bien être attribuable au fait que certains d’entre eux sont décédés ou ont quitté le pays à leur retraite avant que les vérifications ou les nouvelles cotisations aient eu lieu, ou au fait que la mise en scène de M. Lavigne a pris fin avant qu’ils reçoivent ou encaissent leur chèque pour leurs parts B. Ce dernier groupe pourrait de plus comprendre les personnes auxquelles la Cour du Québec a renvoyé dans ses paragraphes d’introduction généraux.
+Le point en litige [7] Pour que l’intimée puisse procéder à une nouvelle cotisation valide après l’expiration de la période normale de nouvelle cotisation, la Loi de l’impôt sur le revenu (la « Loi ») exige (i) qu’une « prestation » ait été reçue par un appelant « dans le cadre » du REÉR de la B2B Trust, prestation qui aurait dû être déclarée lors de l’année où elle a été reçue, et (ii) que cette prestation n’ait pas été déclarée en raison d’une négligence, d’une inattention ou d’une omission volontaire.
+[8] Bien que la version française de la Loi prévoit qu’« est comprise dans une prestation toute somme reçue dans le cadre d’un régime d’épargne-retraite » (non souligné dans l’original), on pourrait prétendre que le libellé de la version anglaise est quelque peu moins large que celui de la version française : la version anglaise prévoit que « benefit includes any amount received out of or under a retirement savings plan » (non souligné dans l’original). La Cour a examiné cette question dans la décision Lavoie c. La Reine, 2009 CCI 293. Le juge Bowie a écrit ce qui suit :
+16 La réponse à la deuxième question de la juge Charron doit donc dépendre du traitement fiscal qui s’appliquerait à une partie du régime enregistré si, au cours de l’année, il était entre les mains du rentier plutôt que du fiduciaire. Le paragraphe 146(8) incorpore dans le revenu du contribuable pour l’année
+[…] le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne‑retraite […]
+[…]
+Pour l’application de cette disposition, le mot « prestation » est défini au paragraphe 146(1) :
+« prestation » Est comprise dans une prestation toute somme reçue dans le cadre d’un régime d’épargne-retraite, à l’exception :
+[les exceptions sont inapplicables]
+sans préjudice de la portée générale de ce qui précède, le terme vise toute somme versée à un rentier en vertu du régime :
+“benefit” includes any amount received out of or under a retirement savings plan other than
+[exceptions are inapplicable]
+and without restricting the generality of the foregoing includes any amount paid to an annuitant under the plan
+d) soit conformément aux conditions du régime;
+(d) in accordance with the terms of the plan,
+e) soit à la suite d’une modification du régime;
+(e) resulting from an amendment to or modification of the plan, or
+f) soit à la suite de l’expiration du régime.
+(f) resulting from the termination of the plan;
+Le juge suppléant Rowe a signalé, dans la décision Kaiser v. The Queen, la portée accordée à cette définition par l’inclusion du mot « under » dans la version anglaise, et l’expression « dans le cadre », dans la version française, a un effet similaire. L’application aux paiements du principe de la substitution m’amène à conclure que lorsque l’appelant a encaissé les chèques et qu’il a affecté les fonds à des fins autres que le rétablissement de la valeur des parts détenues dans ses REER, ces sommes devaient être traitées comme des sommes qu’il avait reçues au cours de l’année à titre de prestations dans le cadre de ses REER, et elles étaient donc imposables entre ses mains.
+[Non souligné dans l’original.]
+Les appelants ne prétendent pas que l’expression « dans le cadre de » doit être interprétée de manière plus restreinte ou limitée en raison de l’emploi, dans la version anglaise, de l’expression « out of or under ».
+[9] Les contribuables en l’espèce ne se sont pas fait imposer de pénalités pour avoir omis de déclarer les montants reçus à titre personnel. De plus, ni les contribuables, ni leur REÉR n’ont fait l’objet d’une cotisation du fait que les REÉR autogérés avaient acheté des placements qui n’étaient pas admissibles.
+Le droit applicable [10] Les dispositions de la Loi qui s’appliquent en l’espèce sont les suivantes :
+[Alinéa 56(1)h)]
+[Paragraph 56(1)(h)]
+Sommes à inclure dans le revenu de l’année
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+h) toutes sommes relatives à un régime enregistré d’épargne-retraite ou à un fonds enregistré de revenu de retraite et qui doivent, en vertu de l’article 146, être incluses dans le calcul du revenu du contribuable pour l’année;
+Amounts to be included in income for year
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+(h) amounts required by section 146 in respect of a registered retirement savings plan or a registered retirement income fund to be included in computing the taxpayer’s income for the year;
+[Paragraphe 146(1)]
+[Subsection 146(1)]
+Définitions
+146(1) Les définitions qui suivent s’appliquent au présent article.
+prestation Est comprise dans une prestation toute somme reçue dans le cadre d’un régime d’épargne-retraite, à l’exception :
+[…]
+Sans préjudice de la portée générale de ce qui précède, le terme vise toute somme versée à un rentier en vertu du régime :
+d) soit conformément aux conditions du régime;
+e) soit à la suite d’une modification du régime;
+f) soit à la suite de l’expiration du régime.
+Definitions
+146(1) In this section,
+benefit includes any amount received out of or under a retirement savings plan other than
+. . .
+and without restricting the generality of the foregoing includes any amount paid to an annuitant under the plan
+(d) in accordance with the terms of the plan,
+(e) resulting from an amendment to or modification of the plan, or
+(f) resulting from the termination of the plan;
+[Paragraphe 146(8)]
+[Subsection 146(8)]
+Prestations imposables
+(8) Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite […].
+Benefits taxable
+(8) There shall be included in computing a taxpayer’s income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans . . . .
+[Sous-alinéa 152(4)a)(i)]
+[Subparagraph 152(4)(a)(i)]
+Cotisation et nouvelle cotisation
+(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition […]. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[…]
+Assessment and reassessment
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties . . . except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+. . .
+[11] Dans les présents appels, c’est à l’intimée qu’il incombe de convaincre la Cour, selon la prépondérance des probabilités, qu’une cotisation était fondée aux termes du sous‑alinéa 154(2)a)(i), c’est‑à‑dire (i) il y a eu une présentation erronée des faits, (ii) par négligence, inattention ou omission volontaire.
+[12] Il y aura négligence s’il est démontré que le contribuable n’a pas fait preuve d’une diligence raisonnable dans la préparation de sa déclaration : voir la décision Venne c. Canada, [1984] A.C.F. no 314 (QL). La question de savoir si un contribuable a été raisonnable lorsqu’il a rempli sa déclaration de revenus est en grande partie tributaire des faits propres à chaque affaire. En règle générale, on s’attend des contribuables à ce qu’ils agissent de manière réfléchie, soignée et prudente et à ce qu’ils soient de bonne foi dans la préparation de leur déclaration de revenus. Cela comprend la manière dont les contribuables choisissent de décrire les montants qu’ils reçoivent.
+Analyse et conclusion Prestation [13] Tout montant reçu par ces contribuables à titre personnel relativement à leurs parts B, à titre indicatif pour placer leur REÉR dans un club d’investissement, à titre de paiement anticipé ou au titre des gains qui seraient tirés du fait qu’ils ont placés leur REÉR dans un club d’investissement constitue manifestement une prestation qui devait être incluse dans le revenu de l’année au cours de laquelle elle a été reçue.
+[14] L’expression « dans le cadre de » a une portée suffisante pour inclure sans aucun doute la relation ou le lien entre le montant reçu par chacun des appelants et les placements de leur REÉR autogéré dans le club d’investissement.
+[15] L’omission de déclarer un tel montant constituait clairement une présentation erronée des faits.
+Négligence, inattention ou omission volontaire [16] Il faut donc décider, pour chacun des six appelants, s’ils ont effectivement reçu un tel montant et, le cas échéant, s’ils ont fait, par négligence, inattention ou omission volontaire, une présentation erronée des faits dans leur déclaration de revenus pour l’année où ils ont reçu le montant en question.
+Yvon Bédard [17] M. Bédard soutient qu’il n’a jamais reçu un tel montant à titre personnel. Il a communiqué avec l’ARC par téléphone pour se plaindre lorsqu’il a reçu son avis de nouvelle cotisation, en invoquant qu’il n’avait jamais reçu un montant à titre personnel, ni endossé de chèque. Il n’avait pas répondu au questionnaire de vérification que l’ARC lui avait envoyé précédemment, lequel était évidemment facultatif. Il faut relever qu’il n’a pas fait état de sa thèse dans son avis d’opposition. L’avis d’opposition en question, qui a été préparé par son ancien avocat, confirme que M. Bédard a reçu le montant en question.
+[18] J’ai d’autres réserves en ce qui concerne la crédibilité de M. Bédard à cet égard. Il a témoigné qu’il n’avait qu’un seul compte bancaire lorsqu’il a déposé en preuve des relevés bancaires choisis, à l’appui de son témoignage selon lequel il n’avait pas effectué de dépôts d’argent inhabituellement importants lors de la période en question. Cependant, lors du contre‑interrogatoire, la Cour a découvert qu’il disposait aussi d’un compte d’entreprise et que les fonds circulaient assez régulièrement entre son compte personnel et son compte d’entreprise. Ce n’est que lors du contre‑interrogatoire qu’il a admis cela, après que j’eus fait remarquer que, après un examen adéquat des relevés bancaires qu’il avait produits en preuve, ceux-ci visaient à la fois son compte bancaire personnel et sa marge de crédit. Si on les examinait attentivement, ces relevés faisaient état d’une situation plutôt à l’opposé de ce qu’il croyait, puisque les colonnes de débit et de crédit sont inversées sur ces deux relevés. Il y avait en fait eu un dépôt d’un montant important, de l’ampleur d’un paiement pour des parts B ou d’environ 50 % de son placement dans son REÉR, lors de la période où il s’est engagé à participer à la proposition d’investissement de M. Lavigne. Cela s’est produit plusieurs semaines après qu’il eut signé les documents pour ouvrir son REÉR autogéré auprès de la B2B Trust. Le montant a été utilisé pour rembourser sa marge de crédit personnelle. Son explication, selon laquelle c’était peut‑être, c’est sans doute et c’était sûrement un dividende ou un versement fiscal de son compte d’entreprise, ne semble pas très crédible. Le versement effectué sur la marge de crédit n’a pas été consigné comme provenant de son compte d’entreprise. L’avocat de M. Bédard ne lui a pas posé de question sur ce dépôt important lors du réinterrogatoire.
+[19] En outre, le débat concernant la question de savoir si c’était ou non sa signature qui avait été apposée au verso du chèque de paiement pour les parts B qui lui était payable et qui avait été encaissé à un centre d’encaissement de chèques portait uniquement sur la question de savoir si sa signature comprenait trois lignes, car il soutient qu’il faisait toujours une telle chose lorsqu’il apposait sa signature. Dans l’hypothèse oo) de sa réponse, l’intimée a mentionné que M. Bédard avait encaissé ce chèque. M. Bédard a produit des copies de son testament et de son permis de conduire à l’appui de sa position voulant qu’il ne l’avait pas encaissé. Bien qu’il ait apporté des documents bancaires choisis, il n’a pas produit sa signature sur l’un ou l’autre des côtés des chèques qu’il avait tirés ou endossés, ce qui aurait permis d’étayer la comparaison. Je ne peux certes pas conclure qu’il y a eu contrefaçon dans de telles circonstances. Ni l’une ni l’autre des parties n’a convoqué de graphologue. Cependant, j’ai d’importantes réserves à propos de la position de M. Bédard, étant donné qu’il a choisi de ne pas présenter à la Cour un exemple d’un chèque qu’il avait tiré ou endossé au cours de la période pertinente, ou au cours de n’importe quelle période.
+[20] M. Bédard est un homme d’affaires chevronné et prospère. Il a été propriétaire d’un certain nombre d’entreprises. Il est notamment propriétaire d’un parc immobilier à Saint‑Hyacinthe dont la valeur, d’après lui, se situe dans les millions de dollars. Il a été propriétaire‑exploitant d’une entreprise de vente aux enchères d’automobiles. Il a aussi été propriétaire d’autres édifices commerciaux. Cela n’a guère de sens que, alors que tous les autres contribuables semblent s’être fait offrir des versements incitatifs de 40 % à 50 %, notamment en ce qui a trait aux parts B, en contrepartie de leur placement par l’intermédiaire de leur REÉR dans un club d’investissement, seul M. Bédard était tout à fait satisfait du bien‑fondé du placement dans les parts A, après, selon ses souvenirs, une seule rencontre avec une ou deux autres personnes dans un restaurant. Il a mentionné qu’on ne lui avait donné aucun document et qu’il n’avait pas pris de notes lors de la rencontre. Il a affirmé qu’il n’avait posé aucune question lors de la rencontre d’une demi‑heure. Il semblait en savoir bien peu à propos de la structure, du régime de placement ou de la qualité du club d’investissement. Je rejette son témoignage quant au fait qu’on ne lui avait pas offert de paiement pour les parts B, parce qu’il était incorrect et incomplet. Il semble n’avoir effectué aucune vérification ou analyse, ni avoir réellement songé aux placements proposés. Il affirme qu’il a été convaincu surtout par deux choses : les allégations selon lesquelles les placements sous‑jacents du club d’investissement feraient boule de neige, et le fait que le promoteur est arrivé dans une voiture Lincoln Continental noire. Cela ne ressemble pas du tout au raisonnement qu’aurait adopté un homme d’affaires prospère comme lui. De plus, si le témoignage devait être considéré comme véridique et exhaustif, il ne pourrait être considéré comme raisonnablement suffisant, quoi qu’il en soit.
+[21] Mes réserves en ce qui concerne la crédibilité de M. Bédard font en sorte que la Cour rejette sa preuve au sujet de tout point important qui n’est pas corroboré par d’autres éléments de preuve. Il ne suffit pas que son témoignage ne soit pas incompatible avec les autres éléments de preuve.
+[22] Dans les circonstances, je conclus, selon la prépondérance des probabilités, qu’il était un participant de plein gré à ce qu’il savait être un stratagème de placement risqué et douteux et qu’il a fait preuve d’aveuglement volontaire. De plus, je conclus, selon la prépondérance des probabilités, qu’il a bel et bien reçu une prestation, soit un paiement, de son placement dans son REÉR et qu’il n’a pas déclaré cette prestation. Son omission de la déclarer dans sa déclaration de revenus constituait une présentation erronée des faits et une omission volontaire. Pour ces motifs, l’appel interjeté par M. Bédard est rejeté.
+Cléo Vallée [23] M. Vallée est un homme d’affaires chevronné. Dans ses fonctions professionnelles auprès d’une importante société transnationale, il examinait, achetait, vendait et plaçait des produits financiers d’assurance. Il était bien au fait de sa propre planification financière pour la retraite alors qu’il changeait d’employeur. Au moment où il a participé au stratagème de M. Lavigne, il était stagiaire à une institution d’assurance importante pour compléter sa formation en vue d’obtenir son inscription professionnelle ainsi que le titre de conseiller financier. Il comprenait manifestement l’incidence fiscale de base d’un REÉR, il était capable de lire et de comprendre ce que prévoyaient et ne prévoyaient pas les documents qu’il avait signés et il savait que tous qui lui parlaient de ce produit tireraient un avantage financier du placement de son REÉR dans le club d’investissement.
+[24] M. Vallée aurait facilement reconnu qu’aucun des présentateurs n’était indépendant du promoteur. Il a dit que la participation de la B2B Trust, de la Banque Laurentienne ainsi que des avocats fiscalistes du promoteur avait été importante dans sa décision d’investir. Cela est difficile à croire, compte tenu du fait qu’il a en fait exonéré chacun de ceux‑ci de leur responsabilité dans la documentation qu’il a signée. Dans sa lettre d’indemnisation à la B2B Trust, il l’a expressément indemnisée, il a reconnu qu’il serait seul responsable de confirmer que ces placements précis étaient des placements admissibles, et il a déclaré qu’il obtiendrait des conseils juridiques, fiscaux et financiers de sources indépendantes, s’il le jugeait approprié. Dans ses affirmations aux avocats, il a mentionné qu’il n’avait aucune entente avec le club d’investissement ou avec des personnes liées, hormis l’entente liée à l’émission des parts en son nom, et ce, bien qu’il disposât aussi de deux conventions d’options d’achat de parts B.
+[25] Les montants indiqués dans les conventions d’options d’achat étaient supérieurs d’environ quatre mille dollars au montant du chèque qu’il a reçu. Il a dit qu’il ne se souvenait pas s’il avait posé des questions à ce sujet, ni s’il avait reçu la différence séparément.
+[26] Je conclus, selon la prépondérance des probabilités, qu’il y avait assez d’avertissements et d’alarmes dans la présentation et dans les documents des promoteurs du club d’investissement de sorte que M. Vallée a, à tout le moins, fait preuve de négligence en allant de l’avant sans essayer de confirmer, de quelque manière que ce soit, les allégations, les observations, les recommandations et les conseils des promoteurs d’un tel stratagème au sujet de l’impôt qu’il aurait à payer avant de décider de ne pas déclarer les prestations qu’il a reçues à titre personnel dans sa déclaration de revenus pour l’année au cours de laquelle il les a reçues.
+[27] M. Vallée n’a pas contesté qu’il avait reçu à titre personnel un montant à l’égard des parts B, et qu’il comprenait parfaitement que ce montant lui était versé pour tenir compte des bénéfices prévus du placement de son REÉR dans les parts A, lequel serait géré par le club d’investissement. L’explication qu’il a donnée, à savoir qu’il avait compris que le placement était structuré comme un prêt qu’il n’aurait pas réellement à rembourser, ne l’a pas aidé, quoique cette explication soit quelque peu compatible avec l’une des conventions d’options d’achat qu’il avait signées.
+[28] Pour les motifs énoncés ci‑dessus, son appel est rejeté.
+Linda Desrosiers [29] Mme Desrosiers, dans son témoignage non contredit, a affirmé qu’elle était accompagnée de son père, qui était comptable, lorsqu’elle avait assisté pour la première fois à une présentation donnée par M. Lavigne et ses complices. Elle a gardé une copie de la trousse de renseignements et elle a pris des notes lors de la rencontre. Lorsqu’elle a assisté à une deuxième présentation, elle a emmené le comptable fiscaliste qui préparait ses déclarations de revenus depuis neuf ans. Ces deux comptables avaient aussi reçu les documents de la présentation et ils disposaient des documents qui étaient distribués avec la trousse de renseignements lors des présentations. C’est ce même comptable qui a préparé ses déclarations de revenus pour l’année en question. Il était présent avec elle lors de la deuxième rencontre, au cours de laquelle elle a signé les documents la première fois. Elle ne lui a pas donné de copies d’autres documents qu’elle pourrait avoir signés après cela, mais rien ne démontre qu’il lui en avait formulé la demande. Le comptable fiscaliste de Mme Desrosiers n’était pas lié aux promoteurs, et il lui semblait être convaincu par les présentations. Peu importe la question de savoir si le comptable a commis une erreur par sa négligence, je ne suis pas convaincu, selon la prépondérance des probabilités, que cette contribuable a fait preuve de négligence ou d’inattention dans cette situation bien précise.
+[30] Ces stratagèmes de clubs d’investissement comportaient ce qui aurait semblé être des transactions réelles pour les investisseurs éventuels. La fraude se déroulait surtout dans les coulisses. Les investisseurs n’essayaient pas de se décrire comme étant plus d’une personne juridique et ils ne réclamaient pas de reconnaissance fiscale pour des activités à l’égard desquelles ils savaient n’avoir jamais pris part. À cet égard, un tel stratagème de type pyramidal est différent d’un stratagème de contestation du fisc de citoyens souverains ou de type Fiscal Arbitrators.
+[31] La question à trancher dans le cas de Mme Desrosiers est de savoir s’il était raisonnable de sa part de remplir sa déclaration de revenus comme elle l’a fait. Dans son cas, d’après la preuve dont la Cour dispose, elle a pris de bonne foi des mesures raisonnables pour que les observations du promoteur à propos de la conformité fiscale soient confirmées par un comptable digne de confiance et indépendant, qui s’était occupé de ses impôts pendant des années.
+[32] L’appel de Mme Desrosiers est accueilli.
+Gisèle Michaud [33] C’est le frère d’un ami, qui est aussi conseiller financier, qui a recommandé à Mme Michaud les placements dans les clubs d’investissement. Elle le percevait comme une personne indépendante.
+[34] Lorsque Mme Michaud a reçu le chèque à titre de paiement pour les parts B de l’un des promoteurs de l’arnaque, elle a, d’après la seule preuve dont je dispose à cet égard, signé le verso du chèque, et immédiatement après, on a exercé des pressions sur elle pour qu’elle remette sur-le-champ le chèque à celui qui le lui avait donné, qui devait se rendre immédiatement à l’aéroport, pour qu’il se place à nouveau au nom de Mme Michaud. Mme Michaud a acquiescé et elle n’a jamais revu le chèque par la suite. Ce montant n’a jamais été porté au crédit de l’un de ses comptes. Cela n’a pas été contesté par l’intimée. Rien ne démontre que ce chèque aurait été accepté s’il avait été présenté le jour où Mme Michaud l’avait reçu, ou à n’importe quel autre moment après cela. Il n’y avait aucune preuve que les parts B de Mme Michaud aient eu quelque valeur réelle que ce soit. De plus, rien ne démontrait que le chèque ait été compensé dans le compte du tireur.
+[35] Selon cette preuve, je ne peux pas conclure que l’intimée s’est acquittée de son fardeau de la preuve et qu’elle a établi que, pendant les deux minutes au cours desquelles la contribuable a eu le chèque en question entre les mains, celui‑ci ait eu quelque valeur que ce soit pour elle, ou même pour quiconque. Une promesse de verser un montant, même si ce versement est effectué par chèque, ne peut être présumée avoir une valeur si cette promesse fait partie d’une escroquerie, d’un stratagème ou d’une arnaque financière illégale. La preuve n’établit pas, selon la prépondérance des probabilités, que Mme Michaud ait reçu une prestation dans le cadre de son REÉR. Pour ce motif, l’appel interjeté par Mme Michaud est accueilli.
+Cécile Frenette [36] Mme Frenette m’a donné l’impression d’être un témoin extrêmement sincère et crédible. Son témoignage était franc et il n’était pas tendancieux. Elle n’était ni fière, ni sur la défensive, au sujet de ce qu’elle avait fait, mais elle ne se percevait certainement pas comme l’une des coupables dans cette histoire. Lors de son témoignage, elle a été simple et directe à propos de ce qui s’était passé et de comment cela s’était passé, de qui lui avait dit quoi, de ce qu’elle croyait et de la raison pour laquelle il en était ainsi. Il me semble qu’elle était clairement une victime dans ce stratagème et qu’elle a été dupée.
+[37] Mme Frenette a pris sa retraite plusieurs années avant l’année visée. C’est une personne qu’elle connaissait et qu’elle respectait qui lui avait recommandé d’envisager de placer son REÉR dans le club d’investissement. Rien ne prouve ni ne donne à penser qu’il n’était pas complètement indépendant des promoteurs du stratagème.
+[38] Mme Frenette a assisté à deux présentations données par les promoteurs du stratagème. Elle a été rassurée par les allégations selon lesquelles la Banque Laurentienne et la Sun Life, en plus de la B2B Trust, participaient à ce stratagème. Elle a aussi été rassurée par la surveillance exercée par l’inspecteur général des institutions financières de la province, dont le nom apparaissait sur certains des documents d’enregistrement provinciaux. Elle a été impressionnée par l’accréditation du club d’investissement par la Fédération canadienne des clubs d’investissement. En fait, nous savons maintenant que la Banque Laurentienne était simplement la société mère de la B2B Trust, qu’elle n’a jamais été liée au nouveau conseiller financier que Mme Frenette a désigné pour son REÉR autogéré, malgré les affirmations écrites à l’effet contraire, et que la Sun Life ne participait pas au stratagème. Les promoteurs ont aussi fourni des avis juridiques justifiant la possibilité d’investissement, en vue de tromper des investisseurs éventuels à propos de la légitimité de leur placement, quoique nous sachions maintenant qu’au moins certains de ces avocats et cabinets n’ont jamais joué quelque rôle que ce soit et que les avis juridiques fournis aux investisseurs par les promoteurs étaient frauduleux.
+[39] Mme Frenette a laissé une grande partie de son REÉR où celui‑ci était géré de manière professionnelle, et elle ne l’a pas transféré au complet à la B2B Trust pour que cette dernière le place auprès du club d’investissement.
+[40] Compte tenu de la preuve, je suis convaincu que Mme Frenette était véritablement une victime très naïve, mais innocente, d’escrocs très futés qui avaient gagné sa confiance et qui en ont abusé. Ils ont habilement dissipé toutes ses préoccupations raisonnables à propos de la sécurité du placement, des bénéfices possibles tirés du placement et des conséquences fiscales ainsi que de la déclaration du placement. Ils lui ont habilement fait des présentations erronées selon lesquelles des institutions financières réputées et indépendantes, des avocats et d’autres personnes participaient au stratagème et en étaient satisfaits.
+[41] Il ne fait aucun doute que Mme Frenette a reçu la part qui lui revenait et qu’elle comprenait que celle‑ci était directement liée au placement fait à partir de son REÉR dans le club d’investissement. Cependant, la nouvelle cotisation a été établie après l’expiration de la période normale de nouvelle cotisation. Il s’agit d’un cas limite, et l’intimée ne s’est pas acquittée de son fardeau de la preuve pour me permettre de conclure, selon la prépondérance des probabilités, que Mme Frenette avait fait preuve de négligence ou d’inattention dans sa situation particulière. Pour ce motif, l’appel interjeté par Mme Frenette est accueilli.
+Roger Ortiz [42] M. Ortiz a témoigné que la possibilité de placement lui avait été présentée et recommandée par un de ses amis, qui l’avait accompagné à un souper de travail avec M. Lavigne et un autre promoteur. M. Ortiz savait que son ami gagnait sa vie en vendant de tels produits et qu’il recevrait une commission ou une autre contrepartie pour un placement effectué au moyen du REÉR de M. Ortiz. M. Ortiz comprenait que le montant qu’il avait reçu était incitatif et que celui‑ci avait pour objet de tenir compte du rendement que produirait le placement de son REÉR dans le club d’investissement.
+[43] Cela est suffisant pour conclure qu’il a reçu une prestation dans le cadre de son REÉR, et ce, même s’il n’était peut‑être pas au courant que cette prestation était structurée comme un rachat des parts B, comme cela a été décrit dans l’exposé conjoint des faits.
+[44] M. Ortiz travaillait pour Cossette inc. à titre de concepteur graphique. Il a affirmé qu’il comprenait depuis longtemps le fonctionnement des REÉR. D’après ce que M. Ortiz savait au sujet de la possibilité qui lui était offerte par le club d’investissement, il aurait à tout le moins dû voir vaguement des avertissements ou des alarmes. Son omission de solliciter une confirmation indépendante au sujet de quoi que ce soit qu’on lui avait dit au cours de ce souper ou à un autre moment n’était clairement pas suffisante ni raisonnable dans sa situation particulière. Il me semble que M. Ortiz a cru ce qu’il voulait croire et qu’il espérait ne pas être dans l’erreur, et c’est ce que ces promoteurs lui disaient. Il a affirmé que les documents qu’il avait signés étaient tellement bien expliqués qu’il ne s’était peut‑être même pas donné la peine de les lire. Le fait qu’il soit allé de l’avant avec une telle désinvolture constituait à tout le moins de la négligence. Pour ce motif, l’appel interjeté par M. Ortiz est rejeté.
+[45] À titre d’observation finale, je veux faire remarquer qu’il est malheureux pour le fisc, ainsi que pour nombre de Canadiens, que de tels stratagèmes visant à frauder ou à escroquer le fisc sont régulièrement mis sur pied par des escrocs et arnaqueurs créatifs, mais sans scrupules. Dans le cas des REÉR et des autres régimes enregistrés qui font l’objet d’une réglementation exhaustive, il semble quelque peu surprenant que des contrôles administratifs plus solides ne soient pas mis en œuvre pour protéger le fisc à l’égard de situations comme celle‑ci, ainsi que pour protéger les Canadiens d’eux‑mêmes, surtout puisque tous les Canadiens peuvent gérer eux‑mêmes leur REÉR s’ils le veulent. Le concept de placements admissibles semble exister, au moins partiellement, précisément pour cette raison — pour que l’on puisse vérifier la conformité à ces exigences. Je fais valoir, avec égards, qu’il semble exister un problème de nature systémique qui doit être réglé, sans quoi le fisc continuera de perdre de l’argent au profit de fraudeurs, argent qui ne pourra jamais être pleinement recouvré auprès d’eux ou de tiers. Tous les Canadiens en subissent les conséquences.
+Signé à Ottawa, Canada ce 4e jour d’août 2016.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE :
+2016 CCI 179
+NOS DES DOSSIERS DE LA COUR :
+2014-2108(IT)I, 2014-2110(IT)I
+2014-2111(IT)I, 2014-2127(IT)I
+2014-2140(IT)I, 2014-2149(IT)I
+INTITULÉS :
+YVON BÉDARD, CLÉO VALLÉE,
+ROGER ORTIZ, LINDA DESROSIERS,
+CÉCILE FRENETTE, GISÈLE MICHAUD c. LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATES DE L’AUDIENCE :
+Les 4, 5, 6, 7 et 8 avril 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 4 août 2016
+COMPARUTIONS :
+Avocat des appelants :
+Me Bobby Doyon
+Avocate de l’intimée :
+Me Anne-Marie Desgens
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelants :
+Me Bobby Doyon
+Cabinet :
+Joli-Cœur Lacasse
+Québec (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

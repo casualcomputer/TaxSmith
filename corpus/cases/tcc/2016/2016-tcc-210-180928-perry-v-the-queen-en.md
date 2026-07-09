@@ -1,0 +1,158 @@
+---
+title: "Perry v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/180928/index.do"
+last_modified: "2016-10-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 210"
+citation2: ""
+neutral_citation: "2016 TCC 210"
+decision_date: "2016-10-05"
+language: "en"
+item_id: "180928"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2935
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:40:47.377000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2780f5a5c71b34b38e10375c25d8946462b7c3c8f32553b5839e00247e69b839"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perry v. The Queen
+
+- Citation: 2016 TCC 210
+- Decision date: 2016-10-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2935, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-05
+Neutral citation
+2016 TCC 210
+File numbers
+2015-2548(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2548(IT)I
+BETWEEN:
+JUNIOR PERRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 22 and decision rendered on August 26, 2016,
+at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself (August 22, 2016)
+Counsel for the Respondent:
+Caroline Ahn
+Peter Swanstrom (August 22, 2016)
+JUDGMENT
+In accordance with the reasons delivered orally at the hearing (a copy of which is attached hereto), the appeal from the assessments made under the Income Tax Act for the 2005 and 2006 taxation years is dismissed, without costs.
+Signed at Montreal, Quebec, this 5th day of October 2016.
+“Patrick Boyle”
+Boyle J.
+Docket: 2015-2548(IT)I
+BETWEEN:
+JUNIOR PERRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+Let the attached edited transcript of the reasons for judgment delivered orally from the bench at Toronto, Ontario, on August 26, 2016 be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Montreal, Quebec, this 5th day of October 2016.
+“Patrick Boyle”
+Boyle J.
+Citation: 2016 TCC 210
+Date: 20161005
+Docket: 2015-2548(IT)I
+BETWEEN:
+JUNIOR PERRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Appeal heard on August 22, 2016 and decision rendered
+orally from the bench on August 26, 2016 at Toronto, Ontario)
+Boyle J.
+[1] These are my reasons for judgment in the Junior Perry appeal heard earlier this week in Toronto in respect of his 2005 and 2006 charitable donations to PanAfrican Canadian Multicultural Center.
+[2] He testified that he made donations in cash and kind in each year on the recommendation of a tax accountant, George someone, who had been recommended to him by a friend.
+[3] The Minister assumed in his reply that “George” was one George Gudu, and the Appellant did not make out any case that it was not, though he professed that he did not recall George’s last name.
+[4] The charity was a registered charity in 2005 and 2006 and was deregistered in 2007.
+[5] Mr. Perry was a welder and, in 2006, earned less than $60,000 as an employee.
+[6] The Appellant’s evidence was limited to his own testimony and the two charitable receipts. His testimony was very limited. It was at best vague, general and unclear. He appeared to change his version of events as needed, as the evidence progressed. His version appears to be inconsistent with the receipts in a number of respects.
+[7] Mr. Perry said he made donations each year in part in cash or cheque and in part in‑kind. The cash portion was said to be about $5,000 in 2005, paid monthly by postdated cheques averaging $200. He added there was also cash of perhaps $1,500 he donated in 2004 that must have been deferred to his 2005 receipt; that would total less than $4,000. No cheques were produced and he did not contact his bank for copies.
+[8] He testified he thought 2005 was mostly cash but the $8,415 receipt says nil cash and all in kind.
+[9] Mr. Perry thought his 2006 donations were mostly in-kind donations. He claimed $9,130.
+[10] He continued to make his monthly postdated cheque donation of $200 in 2006. His sole 2006 receipt is for $5,980. It suggests it was all in cash and it says the full donation was made on a single day in October.
+[11] There is no explanation given by Mr. Perry for the additional $3,150 claimed in 2006. His 2006 return suggests there was a donation in that amount to a different charity.
+[12] Mr. Perry had no idea if, how or by whom his in-kind donations were appraised. He only knew he paid $5,000 at The Brick for the furniture and appliance portion two or three years earlier. Even that was not corroborated with a receipt or even an itemized listing.
+[13] I am not satisfied on a balance of probabilities with credible, consistent evidence that Mr. Perry made any donations to a registered charity in 2005 or 2006. For this reason, the appeal must fail.
+[14] It appears that the receipts were not attached to the paper returns he filed. What was attached was the invoice for his 2006 tax return preparation fee. The fee was $910. Beside the fee, in parentheses, it is written, “$9,130.00”. That is the exact amount of his charitable donations claimed in that year. It can be seen that the fee of $910 is within $3 of being 10% of these donations.
+[15] This evidence, considered with whatever other evidence I had, leads me to conclude that it is more likely than not that Mr. Perry purchased his receipts from Mr. Gudu for 10% of the face amounts.
+[16] Further, the appeal must also fail because the receipts are deficient in multiple respects and do not contain the information required by the regulations.
+[17] The name of the charity on the receipts has two spelling dissimilarities to the charity’s name on its registration. These are minor and, in normal circumstances, might be overlooked. However, neither receipt includes any description of the in-kind property donated nor the name and address of the appraiser.
+[18] The 2006 receipt is dated December 31, 2006, but lists an address that differs from any the charity had given CRA until later in 2007. The 2006 receipt has a single date shown for the donation, which is not what the Appellant testified happened.
+[19] The 2006 receipt appears to show an all-cash donation, which is also not what the Appellant said happened. Neither receipt reflects that cash was given in 2004 and receipted in a later year.
+[20] This appeal is dismissed for both years.
+Signed at Montreal, Quebec, this 5th day of October 2016.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2016 TCC 210
+COURT FILE NO.:
+2015-2548(IT)I
+STYLE OF CAUSE:
+JUNIOR PERRY v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+August 22 and 26, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+October 5, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself (August 22, 2016)
+Counsel for the Respondent:
+Caroline Ahn
+Peter Swanstrom (August 22, 2016)
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

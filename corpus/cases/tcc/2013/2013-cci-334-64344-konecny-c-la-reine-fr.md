@@ -1,0 +1,158 @@
+---
+title: "Konecny c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64344/index.do"
+last_modified: "2013-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 334"
+citation2: ""
+neutral_citation: "2013 CCI 334"
+decision_date: "2013-09-12"
+language: "fr"
+item_id: "64344"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5919
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:04:31.550000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c998c90a432b30b5b0b29d823f51c2b01f3a19a6ccf80a05a35529b2d76fe22"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Konecny c. La Reine
+
+- Citation: 2013 CCI 334
+- Decision date: 2013-09-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5919, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Konecny c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-09-12
+Référence neutre
+2013 CCI 334
+Numéro de dossier
+2013-2108(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2013 CCI 334
+Date : 20131023
+Dossier : 2013-2108(IT)G
+ENTRE :
+JOHN EDWARD KONECNY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Révisés à partir de la transcription des motifs de l’ordonnance rendus oralement à l’audience le 12 septembre 2013, à Toronto (Ontario).)
+La juge Campbell
+[1] Bon après-midi à tous. Je remercie les deux parties d’être de nouveau présentes en cour, alors que je m’apprête à exposer de vive voix mes motifs relativement à l’appel que vous avez interjeté, Monsieur, et que j’ai instruit il y a de cela deux jours.
+[2] Mes motifs portent sur les diverses requêtes dont j’ai été saisie, et non sur l’appel même.
+[3] Le 1er mai 2013, l’appelant a déposé à la Cour un avis d’appel conformément aux Règles de la Cour canadienne de l’impôt (Procédure générale). Dans son avis d’appel, il conteste la cotisation établie par le ministre du Revenu national (le « ministre ») relativement à l’année d’imposition 2011. Dans le calcul du revenu de l’appelant pour cette année, le ministre a refusé à ce dernier la déduction de frais de déménagement s’élevant à 2 694 $.
+[4] L’appelant est un enseignant du secteur public. Pendant les dix mois de l’année scolaire, il enseigne à Whitby, en Ontario. Puis, durant les vacances d’été, il enseigne pendant un mois à Ottawa. Au paragraphe 67 de son avis d’appel, l’appelant explique ce qui lie sa famille à la ville d’Ottawa, outre le fait qu’il y travaille pendant un mois chaque été.
+[5] Les frais de déménagement demandés se rapportent au déplacement qu’il a effectué au cours du mois où il a enseigné à Ottawa en 2011. Cette pratique qu’il a d’enseigner à Ottawa pendant un mois chaque été dure depuis 1980. Par le passé, il a toujours été autorisé à déduire ses frais de déménagement, et ce, jusqu’en 2011.
+[6] Normalement, l’instruction d’un litige de cet ordre portant sur le montant de la déduction demandée au titre des frais de déménagement se déroulerait conformément aux Règles de la Cour canadienne de l’impôt (Procédure informelle) (les « Règles »). Toutefois, dans la présente affaire, l’appelant a également soumis un certain nombre d’arguments d’ordre constitutionnel fondés sur diverses dispositions de la Charte canadienne des droits et libertés, qui constitue la partie 1 de la Loi constitutionnelle de 1982 (la « Charte »), en plus d’invoquer une abondante jurisprudence.
+[7] Par ailleurs, il a fait part de son intention de présenter une demande d’accès à l’information en vue de préparer des questions concernant la Base de données de simulation de politiques sociales de Statistique Canada. Il souhaite obtenir, par exemple, des données comparatives sur les couples mariés et les célibataires qui se sont réinstallés ailleurs au Canada. Il compte également demander de l’information qui lui permettrait d’établir des comparaisons entre les nombreux déménagements qu’il a effectués depuis 1989 afin de déterminer quel groupe témoin serait avantagé ou désavantagé par l’application des critères formulés par la Cour suprême du Canada.
+[8] Aux paragraphes 91 et 92 de son avis d’appel, l’appelant demande l’annulation de la cotisation par laquelle le ministre a refusé sa demande de frais de déménagement et, à titre subsidiaire, semble-t-il, quoique je n’en aie pas la certitude, il laisse entendre que, si la Cour n’accueille pas sa demande d’annulation, elle devrait lui accorder une indemnisation pour la négligence dont aurait fait preuve l’Agence du revenu du Canada (l’« ARC ») en acceptant chacune des demandes de frais de déménagement qu’il a présentées relativement aux années 1989 à 2010.
+[9] Le 7 août 2013, l’intimée a présenté une requête dans laquelle elle demande à la Cour :
+1. la radiation des paragraphes de l’avis d’appel comportant des conclusions d’ordre constitutionnel, au motif qu’ils ne révèlent aucun moyen raisonnable d’appel : paragraphes 2(1), 5, 6, 7, 8, 9, 18, 70, 71, 77, 78, 84 et 97;
+2. la radiation des paragraphes comportant des conclusions quant à la conduite des fonctionnaires de l’ARC et au manque de cohésion dans leur traitement des dossiers ainsi que des paragraphes où est demandée une réparation injustifiée, au motif qu’ils ne révèlent aucun moyen raisonnable d’appel : paragraphes 2(3), 5, 6, 8, 12 (intertitre uniquement), 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 34, 35, 36, 37, 38, 39, 46, 47, 48, 79, 80, 84 et 92;
+3. la radiation des paragraphes qui sont sans rapport avec l’avis d’appel : paragraphes 17, 18, 19, 35, 39, 56, 64, 72, 93 et 98;
+4. la radiation des paragraphes comportant des arguments relatifs à la preuve et à des conjectures : paragraphes 26, 27, 28, 64 et 79;
+5. la prolongation du délai imparti pour déposer et signifier la réponse à l’avis d’appel;
+6. les dépens.
+[10] Par suite du dépôt de la requête de l’intimée, l’appelant a déposé une réponse à la requête en radiation, ainsi qu’une requête par laquelle il sollicite une ordonnance de jugement par défaut. Il allègue que la Couronne a manqué aux Règles en ne déposant pas sa réponse dans le délai prévu, c’est‑à‑dire, selon l’appelant, dans les 60 jours suivant la signification de son avis d’appel.
+[11] Le critère principal régissant la requête en radiation est bien établi dans la jurisprudence. Une demande ne doit pas être radiée d’un acte de procédure, à moins qu’il ne soit évident et manifeste, aux yeux du juge des requêtes, qu’elle ne révèle aucune cause d’action valable et qu’elle aurait peu de chances de succès s’il était permis d’y donner suite aux diverses étapes préliminaires à l’audience. La Cour n’est autorisée à recourir à son pouvoir de radiation que si la demande ne résiste pas à ce critère du caractère évident et manifeste, et ce, dans le but d’élaguer les litiges en écartant les demandes vaines, pour reprendre l’expression employée dans les motifs de l’arrêt La Reine c Imperial Tobacco Canada, 2011 CSC 42. Cette mesure permet au tribunal de procéder à une instruction efficace de la demande en se concentrant sur ceux de ses aspects qui sont bien fondés.
+[12] Après avoir examiné l’ensemble de la documentation et de la jurisprudence et écouté les observations des parties, qui ont duré plus de trois heures, je suis arrivée à la conclusion qu’il est évident et manifeste que les allégations se rapportant à des arguments d’ordre constitutionnel devraient être radiées, de même que les passages de l’acte de procédure de l’appelant qui soit ne révèlent aucun moyen raisonnable d’appel, soit sont sans rapport avec l’affaire ou sont injustifiés.
+[13] Bien que, dans ses observations, l’appelant donne à entendre qu’il a été consterné et atterré à la lecture des observations faites par l’intimée concernant le contenu de son avis d’appel, qu’elle a jugé par moments inintelligible, vexatoire et frivole, il me faut me ranger au point de vue de l’intimée. Cela vaut d’autant plus si l’on considère ce qui est véritablement en jeu dans le cadre du présent appel : une unique année d’imposition, un litige qui, du fait de la valeur de la somme en cause, devrait normalement être régi par la procédure informelle et un avis d’appel dont le contenu témoigne du fait que l’appelant connaît les lois applicables, l’abondante jurisprudence et le fardeau de preuve dont il doit s’acquitter dans cet appel.
+[14] En marge de ses arguments d’ordre constitutionnel, l’appelant demande une longue série de renseignements variés, notamment des déclarations de la part des quelque dix-sept ministres qui ont dirigé l’ARC entre 1984 et 2011 et des décisions rendues par certains fonctionnaires de l’ARC, de façon à ce qu’il puisse établir des comparaisons avec l’information trouvée dans la Base de données nationale de politiques sociales.
+[15] Il est évident que bon nombre des allégations de l’appelant sont sans intérêt en l’espèce et que les demandes d’information qu’il a présentées concernant des années d’imposition remontant à aussi loin qu’aux années 1980 ont fait dévier sans raison valable son attention vers des aspects qui ne lui seront d’aucune utilité quant au règlement de la question de la déductibilité des frais de déménagement pour 2011.
+[16] L’article 7 de la Charte énonce, entre autres, que chacun a droit à la vie et à la liberté de sa personne et qu’il ne peut être porté atteinte à ce droit.
+[17] Après avoir passé en revue l’ensemble des arguments que l’appelant invoque dans ses divers documents en se fondant sur l’article 7, je ne saisis toujours pas exactement quelle est la thèse qu’il défend. Mais disons que pour l’essentiel, il se fonde sur des déclarations faites par des fonctionnaires de l’ARC pour affirmer que ceux-ci, à son avis, ont établi une distinction sur le fondement de son état matrimonial et qu’il a, par conséquent, été traité différemment en raison de cette caractéristique personnelle. Par ailleurs, son argumentation sur ce point semble inclure son conjoint et sa famille. S’il prétend par là qu’il y a eu atteinte aux droits qui leur sont garantis par l’article 7, cet argument n’a aucune chance de réussir, car ni son conjoint ni les autres membres de sa famille n’ont fait l’objet d’une cotisation. Seul l’appelant a fait l’objet d’une cotisation, et la Cour n’est saisie que des questions se rapportant à cette cotisation.
+[18] Je ne constate aucune violation de l’article 7. Dans l’arrêt Gratl c La Reine, 2012 CAF 88, la juge Sharlow déclare, au paragraphe 8, que je reprends ici :
+[…] une cotisation relative à l’impôt est une affaire de nature civile qui ne touche que des intérêts économiques. Elle ne prive pas la personne à l’égard de laquelle elle est établie de sa vie, de sa liberté ou de la sécurité de sa personne au sens de l’article 7 de la Charte […]
+[19] Par conséquent, tous les paragraphes de l’avis d’appel comportant des arguments s’appuyant sur l’article 7 de la Charte seront radiés, car ils ne présentent aucune possibilité de succès.
+[20] L’appelant soulève également un argument fondé sur l’article 6 de la Charte, qui protège la liberté de circulation et le droit de se déplacer et de s’établir dans tout le pays. Si je saisis bien son argument, il se fonde sur certaines déclarations provenant, encore une fois, de l’ARC pour affirmer que sa demande de frais de déménagement lui a été refusée, parce que sa famille n’a pas déménagé avec lui à Ottawa à l’été 2011. Selon son interprétation, cela témoigne du fait que l’ARC a imposé aux membres de la famille une sanction économique contraire à la Constitution en portant atteinte à leur liberté de circulation.
+[21] Le paragraphe 6(2) garantit à l’appelant le droit de se déplacer et de gagner sa vie dans la province de son choix. Toutefois, il ressort clairement de la jurisprudence que ce droit ne confère pas à l’appelant le droit à ce que l’État finance automatique son déménagement de Whitby jusqu’en Ontario afin d’y travailler pendant un mois. Il obtiendra la déduction de ses frais de déménagement uniquement s’il satisfait aux conditions énoncées à l’article 62 de la Loi de l’impôt sur le revenu (la « Loi »).
+[22] Il n’y a aucun argument fondé sur l’article 6 de la Charte à faire valoir dans le présent appel. L’appelant a déménagé d’une ville de l’Ontario à une autre, et non d’une province à une autre. On ne l’a pas empêché d’obtenir un emploi dans un autre lieu et, au bout du compte, les membres de sa famille n’ont pas plus de droit que lui‑même en a en ce qui concerne la protection accordée à l’article 6.
+[23] Une fois de plus, les paragraphes de l’avis d’appel s’appuyant sur l’article 6 de la Charte seront radiés, car ils n’ont aucune chance de succès.
+[24] L’appelant a aussi invoqué un argument fondé sur l’article 15 de la Charte. Cet article accorde une protection contre la discrimination fondée sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge et la déficience mentale ou physique. Ici encore, l’appelant mêle son conjoint et ses enfants à ses allégations de discrimination. Il prétend que, du fait de son état matrimonial, les membres de sa famille et lui ont subi les effets du processus discriminatoire appliqué par l’ARC.
+[25] Il semble que l’appelant ait présumé à tort que la déduction de ses frais de déménagement lui a été refusée en raison du sexe de son conjoint. Pour reprendre les termes de l’avocat de l’intimée, l’appelant a imaginé une [traduction] « confrontation fictive » entre son droit à la mobilité et le droit de son conjoint de ne pas le suivre dans son déménagement.
+[26] Dans la décision Astley c La Reine, 2012 CCI 155, le juge Webb se fonde sur l’arrêt Withler c Canada (Procureur général), 2011 CSC 12. Dans cet arrêt, la Cour suprême du Canada a résumé ainsi le critère à deux volets établi par la jurisprudence pour juger de la validité d’un argument fondé sur l’article 15 : (1) la loi crée‑t‑elle une distinction fondée sur un motif énuméré ou analogue? (2) La distinction crée‑t‑elle un désavantage par la perpétuation d’un préjugé ou l’application de stéréotypes?
+[27] L’appelant soutient qu’il a fait l’objet de discrimination en raison du fait qu’il est marié et du sexe de son conjoint. Or, les dispositions de la Loi ne prévoient aucune distinction de cet ordre. La déduction des frais de déménagement s’applique de la même façon à tous les contribuables, indépendamment du fait qu’ils sont mariés et du sexe de leur époux ou de leur conjoint. On trouve dans la jurisprudence une liste non exhaustive des facteurs à prendre en compte pour juger de la validité d’une demande de déduction des frais de déménagement. L’obtention de la déduction dépend donc de la situation particulière de chaque contribuable. S’il est vrai qu’une telle approche peut mener à des conclusions différentes d’un contribuable à un autre selon les divers facteurs qui lui sont propres, je ne pense pas qu’elle puisse produire le genre de discrimination alléguée par l’appelant.
+[28] Le fait que la cellule familiale ait ou non suivi l’appelant dans sa réinstallation constitue l’un des facteurs dont la Cour peut tenir compte pour juger de la déductibilité des frais de déménagement, mais ce n’est là qu’un des nombreux éléments factuels entrant dans le cadre de cette analyse. Le genre de discrimination et de préjugé allégué par l’appelant ne saurait être perpétué de la sorte. Je ne vois pas sur quoi l’appelant pourrait s’appuyer pour faire valoir avec succès un argument de cet ordre fondé sur la Charte, parce qu’il n’y a pas eu discrimination fondée sur la distinction qu’il entend invoquer.
+[29] Par conséquent, tous les paragraphes de l’avis d’appel s’appuyant sur l’article 15 seront radiés.
+[30] L’intimée a consacré plusieurs minutes aux questions relevant du paragraphe 24(1), qui porte sur la réparation d’un manquement à la Charte, ainsi qu’à celles relevant du paragraphe 52(1) de la Loi constitutionnelle de 1982. Cela dit, puisque je suis arrivée à la conclusion qu’il n’y a pas eu manquement aux dispositions de la Charte en l’espèce, je n’ai pas l’intention de traiter de ces dispositions, si ce n’est pour souligner que la lettre de l’ARC datée du 6 novembre 2012, sur laquelle repose bon nombre des arguments de l’appelant fondés sur la Charte, a été envoyée, en réalité, avant que la cotisation ne soit établie.
+[31] C’est donc de la question de la validité de la cotisation même que la Cour se saisira, et l’appelant aura droit à la communication intégrale des fondements de cette cotisation en prenant connaissance des hypothèses de fait énoncées dans la réponse à l’avis d’appel.
+[32] Tout au long de ses actes de procédure, l’appelant fait allusion à la quarantaine d’autres déménagements semblables qu’il a effectués pour enseigner au cours des étés 1989 à 2010 et pour lesquels l’ARC lui a accordé la déduction qu’il demandait au titre de ses frais de déménagement. Je crois que l’appelant veut faire valoir non seulement que la façon dont le ministre a traité les nombreux déménagements qu’il a effectués avant 2011 constitue une admission qui lie le ministre pour les années d’imposition ultérieures, mais aussi, à titre subsidiaire, que si la Cour rejette l’appel de l’appelant pour l’année d’imposition 2011, cela signifie que toutes les déductions qui ont été accueillies pour les années antérieures l’ont été à tort. Autrement dit, l’appelant tente implicitement de saisir la Cour de toutes ces années d’imposition.
+[33] Une jurisprudence abondante confirme que le ministre a le droit, en vertu de la Loi, d’établir des cotisations et de nouvelles cotisations à l’égard d’un contribuable à tout moment et pour toute année d’imposition, sans tenir compte des autres années. Évidemment, ce droit est toutefois assujetti aux délais de prescription prévus dans la Loi. Ainsi, rien n’interdit au ministre d’adopter une approche différente lors d’une ou plusieurs années subséquentes et la Cour n’est pas tenue de tenir compte de la façon dont le ministre a traité les demandes de déduction de même nature dans les déclarations de revenus de l’appelant lors des années d’imposition antérieures.
+[34] L’appelant tente aussi de saisir la Cour de la question de la conduite du ministre et des fonctionnaires de l’ARC et de celle du traitement qu’il prétend avoir subi en conséquence. Or, il est bien établi que la Cour n’a pas compétence sur ces questions dans la mesure où elles se rapportent au processus d’établissement de la cotisation.
+[35] Pour ces motifs, je conclus que les paragraphes faisant référence aux années d’imposition antérieures, au traitement réservé à l’appelant par les fonctionnaires de l’ARC et à leur conduite devraient être radiés de l’avis d’appel.
+[36] En dernier lieu, je me propose de traiter de la requête que l’appelant a présentée en réponse à la requête en radiation de l’intimée, et dans laquelle il demande à la Cour de rendre un jugement par défaut en sa faveur et de rejeter la cotisation de la Couronne pour non-respect du délai qui lui est imparti pour déposer sa réponse à l’avis d’appel.
+[37] L’appelant a déposé son avis d’appel à la Cour le 1er mai 2013. D’après ce qui est indiqué dans la requête de l’appelant, l’avis d’appel a été signifié à la Couronne par courrier adressé au ministre et au sous‑ministre, à Ottawa. D’après les observations présentées par l’intimée, la Couronne aurait reçu signification de l’avis d’appel le 10 juin 2013.
+[38] Ayant pris connaissance du contenu de l’avis d’appel, l’intimée a décidé de présenter une requête en radiation avant de déposer sa réponse. Dans ses observations, elle affirme avoir informé l’appelant de son intention de présenter cette requête. La requête a été déposée le 7 août 2013, soit un mois avant la date fixée pour son audition et bien avant le délai de sept jours prévu dans les Règles.
+[39] Ce dépôt anticipé de la requête était avantageux pour l’appelant, qui a ainsi pu disposer de plus de temps pour se préparer en vue de l’audition de la requête. Contrairement à ce que prétend l’appelant, rien dans la preuve ne permet d’affirmer que l’intimée a usé de moyens dilatoires ou que lui‑même a subi quelque préjudice que ce soit. L’intimée a fait un choix sensé et prudent en présentant cette requête au lieu de déposer immédiatement sa réponse à l’avis d’appel : dans les circonstances, cette mesure favorisait l’efficacité.
+[40] Les actes accomplis par l’intimée démontrent qu’elle n’a ménagé aucun effort pour répondre rapidement à l’avis d’appel de l’appelant. Par conséquent, l’intimée se verra accorder une prolongation du délai prévu pour le dépôt de la réponse à l’avis d’appel.
+[41] En résumé :
+1. La requête présentée par l’intimée en vue d’obtenir la radiation de certains passages de l’avis d’appel est accueillie, et, en particulier, les paragraphes comportant des conclusions d’ordre constitutionnel, à savoir, les paragraphes 2(1), 5, 6, 7, 8, 9, 18, 70, 71, 77, 78, 84 et 97, seront radiés, car ils ne révèlent aucun moyen raisonnable d’appel.
+2. Les renvois aux articles 6, 7, 15 et 24 de la Charte canadienne des droits et libertés, qui constitue la partie I de la Loi constitutionnelle de 1982, LC 1982, ch. 11 (R.‑U.), annexe B, seront radiés, car ils ne s’appliquent pas à l’appel.
+3. Les paragraphes comportant des arguments relatifs à la conduite des fonctionnaires de l’ARC et du ministre et au manque de cohésion dans leur traitement des dossiers, à savoir, les paragraphes 2(3), 12 (intertitre uniquement), 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 34, 35, 36, 37, 38, 39, 46, 47, 48, 79, 80 et 92 de l’avis d’appel, seront radiés, car ils ne révèlent aucun moyen raisonnable d’appel. Il existe un certain recoupement entre les paragraphes en ce qui concerne les motifs de radiation. Par conséquent, en plus des paragraphes susmentionnés, les paragraphes 5, 6, 8, 18 et 34 radiés au point 1 du présent résumé parce qu’ils comportent des renvois constitutionnels sont également radiés suivant le point 3, car ils comportent eux aussi des conclusions quant à la conduite des fonctionnaires de l’ARC et du ministre et au manque de cohésion dans leur traitement des dossiers.
+4. Les paragraphes qui sont sans rapport avec les actes de procédure, à savoir, les paragraphes 17, 18, 19, 35, 39, 56, 64, 72, 93 et 98, seront radiés. Les paragraphes 18, 19, 35 et 39 sont également radiés suivant les points 1 et 3 du présent résumé.
+5. Les paragraphes comportant des arguments relatifs à la preuve et à des conjectures, à savoir, les paragraphes 26, 27, 28, 64 et 79 de l’avis d’appel, seront radiés. Tous ces paragraphes sont également radiés pour les motifs exposés, selon le cas, aux points 1, 3 ou 4 du présent résumé.
+6. Le délai imparti à l’intimée pour le dépôt et la signification d’une réponse à l’avis d’appel est prolongé. La réponse devra être déposée et signifiée au plus tard le 15 octobre 2013.
+7. La requête en jugement par défaut de l’appelant est rejetée.
+8. L’appelant devra verser à l’intimée des dépens de 1 500 $ au plus tard le 30 septembre 2013.
+[42] Ceci conclut l’exposé des motifs relatifs aux requêtes. La Cour suspend l’audience jusqu’à 14 heures. Je vous remercie de vous être présentés de nouveau en cour.
+Signé à Ottawa, Canada, ce 23e jour d’octobre 2013.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 4e jour de décembre 2013.
+C. Laroche
+RÉFÉRENCE : 2013 CCI 334
+No DU DOSSIER DE LA COUR : 2013-2108(IT)G
+INTITULÉ : JOHN EDWARD KONECNY et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 10 septembre 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge Diane Campbell
+DATE DES MOTIFS RENDUS
+ORALEMENT : Le 12 septembre 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Thang Trieu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

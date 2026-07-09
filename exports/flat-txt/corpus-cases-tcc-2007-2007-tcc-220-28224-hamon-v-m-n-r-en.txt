@@ -1,0 +1,139 @@
+Title: Hamon v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28224/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-220-28224-hamon-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-04-16
+
+# Hamon v. M.N.R.
+
+- Citation: 2007 TCC 220
+- Decision date: 2007-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2071, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hamon v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-16
+Neutral citation
+2007 TCC 220
+File numbers
+2006-1311(EI)
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-1311(EI)
+BETWEEN:
+PAUL E. HAMON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 26, 2007, at Ottawa, Ontario.
+Before: The Honourable Associate Chief Justice Gerald J. Rip
+Appearances:
+Agent for the Appellant:
+Jean Maisonneuve
+Counsel for the Respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue dated December 19, 2005, involving the period from January 1, 2005, to January 28, 2005, is vacated.
+Signed at Ottawa, Canada, this 16th day of April 2007.
+“Gerald J. Rip”
+Rip A.C.J.
+Translation certified true
+on this 17th day of September 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC220
+Date: 20070416
+Docket: 2006-1311(EI)
+BETWEEN:
+PAUL E. HAMON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Rip A.C.J.
+[1] Paul Hamon is appealing from the decision of the Minister of National Revenue (the “Minister”) that he was employed in insurable employment within the meaning of subsection 5(1) of the Employment Insurance Act (the “EIA”) during the period from January 1, 2005, to January 28, 2005, whereas he was working for the Groupe Financier Hamon Financial Group Inc. (the “Payor”).
+[2] The Payor was incorporated on August 9, 2004, under the name Gestion Hamon Inc. to acquire André Hamon Agence d'Assurance Ltée, a life insurance and investment agency, of which the sole shareholder was André Hamon, the Appellant’s father.
+[3] Throughout the relevant period, the Payor’s shareholders were as follows:
+André Hamon Agence d'Assurance Ltée
+1 Class B Ordinary Share
+Suzanne Hamon (mother)
+50 Class A shares[1]
+Appellant
+50 Class C Shares
+André Hamon (father)
+200 Class D Special Shares
+[4] The parties are not contesting the fact that the Appellant and the Payor are related persons and that they are not dealing with each other at arm’s length. Nevertheless, the Minister decided that, in accordance with subsection 5(3) of the EIA, the Appellant and the Payor were deemed to deal with each other at arm’s length because he was satisfied that it was reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length, having regard to the following circumstances:
+(a) the Appellant rendered services to the Payor as a director;
+(b) As a director and shareholder of the Payor, the Appellant’s responsibilities included but were not limited to
+- hiring and firing employees,
+- managing the company’s daily operations,
+- managing revenues and expenses,
+- participating in decision-making processes relating to the purchase of capital items.
+(c) the Appellant worked at the Payor’s place of business;
+(d) the Appellant had to be present and available during the Payor’s regular business hours, 8:30 a.m. to 4 p.m., Monday to Friday;
+(e) despite his authority within the Payor, he had to comply with the Payor’s instructions and directives;
+(f) the Appellant’s work was supervised and his deadlines were set by the Payor;
+(g) as part of his job, the Appellant used materials and equipment made available to him by the Payor;
+(h) the Appellant occasionally used his automobile and was reimbursed for his long-distance travel expenses by the Payor;
+(i) despite a variable work schedule and as a result of his responsibilities, the Appellant generally worked between 60 and 65 hours per week;
+(j) the Appellant received an annual salary of $55,000.00, payable twice a month by cheque;
+(k) the Appellant rendered services to the Payor under a contract of service;
+(l) the Payor hired a sales director whose annual salary was $50,000;
+(m) the salary paid to the Appellant was reasonable considering his duties and responsibilities;
+(n) the Appellant was responsible for reporting to the Payor and his work was supervised by the Payor;
+(o) the Appellant rendered full-time services to the Payor;
+(p) the Appellant rendered services to the Payor as a director and his work was essential to and directly linked to the Payor’s activities.
+[5] The Appellant stated in his testimony that the Payor was incorporated for financial planning purposes. In 1995, at the age of 21, the Appellant began working for his father’s company, helping him manage the business with the expectation that he would one day take over the company. As I have already mentioned, the Payor was incorporated to that end and, on December 1, 2004, it changed its name to Groupe Financier Hamon Financial Group Inc. The Payor began its business activities on January 1, 2005.
+[6] On January 10, 2005, the Appellant’s parents went to Florida on vacation. Before leaving for Florida, the Appellant’s parents and the Appellant signed a temporary agreement whereby in the event of the father’s death, the deceased’s shares would be transferred to his wife, and that upon his mother’s death, or if both parents were to die together, the shares would be sold to the Appellant. Payment of the purchase price for the shares would have to be funded out of the insurance policy in effect at the time.
+[7] One factor that had a major influence on the Minister’s decision was the fact that in 2005, the Payor paid the Appellant a salary of $57,200. During that same time period, the Payor agreed to pay Gilles Carrière, his sales director, an annual salary of $50,000. I presume the Minister considered that a related person, the Appellant, and an unrelated person, Mr. Carrière, received the same salary for the same work.
+[8] The Appellant indicated in his testimony that, even if he and Mr. Carrière shared certain duties, the nature of the overall duties he performed for the Payor and responsibilities they had was very different. They both recruited employees, conducted interviews with prospective employees and were responsible for the training of new employees. Premiums could be added to Mr. Carrière’s salary. Mr. Carrière worked 35 to 45 hours per week and was entitled to additional remuneration if he worked on a holiday. He did not receive telephone calls from representatives at home. Mr. Carrière was only in charge of sales; the Appellant did not get involved in sales.
+[9] The Appellant testified that he worked 60 to 65 hours per week and that he received telephone calls at all hours. He did not receive any vacation pay nor was he entitled to additional remuneration if he worked on a holiday. He was the one who ultimately decided whether to hire an employee. He paid the invoices. He negotiated contracts with representatives. He determined the employees’ salary. He was the one who decided whether the business should expand and it was also he who prepared the annual budget.
+[10] When the Appellant’s father vacationed in Florida for three or four months, the Appellant ran the business. His father, who suffered a heart attack in 1999, was semi‑retired. When he went to the Payor’s offices, he only worked 10 to 20 hours per week and did not manage any files or deal with the Payor’s representatives. The Appellant’s father spent summer months at the family cottage. The Appellant held the requisite life insurance licences for Quebec and Ontario; his father only held the licence for Ontario. It was the Appellant who dealt with the insurers and made investments.
+[11] The Appellant testified that he set his own working hours and that he was only accountable to himself. Prior to 2005, he answered to his father.
+[12] When he took over from his father in January 2005, recalled the Appellant, he had to obtain approval from the life insurance companies to ensure they would deal with him.
+[13] In 2005, the Payor paid the Appellant’s father and mother a salary. In fact, the Payor paid the directors salaries totalling $199,000, of which $57,200 went to the Appellant and the remainder to his parents. The Appellant explained that he never paid for the business and that the salaries were a way to compensate them.
+[14] According to the evidence, when he exercised his discretionary power, the Minister did not take into account the importance of the Appellant’s role to the business carried on by the Payor. The Minister was content simply to compare the Appellant’s salary to that of Mr. Carrière. He did not take into account the fact that the Appellant worked longer hours, that the Appellant carried a high degree of responsibility in terms of running the Payor’s businesss and that the Appellant would one day own the Payor’s shares. A person dealing at arm’s length with the Payor would not have devoted to the Payor’s business all the hours the Appellant devoted to it nor would he or she have accepted to assume all responsibility for running the business in consideration of a salary similar to that of a person who worked almost half the hours he or she did and had no additional responsibilities after hours.
+[15] The appeal is allowed.
+Signed at Ottawa, Canada, this 16th April 2007.
+“Gerald J. Rip”
+Rip A.C.J.
+Translation certified true
+on this 17th day of September 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC220
+COURT FILE NO.: 2006-1311(EI)
+STYLE OF CAUSE: PAUL E. HAMON v. M.N.R.
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: January 26, 2007
+REASONS FOR JUDGMENT BY: The Honourable Associate Chief Justice Gerald J. Rip
+DATE OF JUDGMENT: April 16, 2007
+APPEARANCES:
+Agent for the Appellant:
+Jean Maisonneuve
+Counsel for the Respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Class A and C shares are non-voting shares.

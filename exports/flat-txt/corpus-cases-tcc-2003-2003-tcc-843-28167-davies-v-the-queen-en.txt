@@ -1,0 +1,108 @@
+Title: Davies v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28167/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-843-28167-davies-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-11-14
+
+# Davies v. The Queen
+
+- Citation: 2003 TCC 843
+- Decision date: 2003-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2013, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davies v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-14
+Neutral citation
+2003 TCC 843
+File numbers
+2003-1784(EI)APP
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-1784(EI)APP
+BETWEEN:
+PATRICIA DAVIES,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on October 28, 2003 at London, Ontario.
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Jennifer Neill
+____________________________________________________________________
+ORDER
+Upon application for an Order under the Employment Insurance Act extending the time within which to file a notice of appeal from the decision of the Minister of National Revenue dated October 25, 2002, for the period April 1, 2001 to August 25,2001 may be served;
+The application is dismissed.
+Signed at Ottawa, Canada, this 14th day of November, 2003.
+"Gerald J. Rip"
+Rip, J.
+Citation: 2003TCC843
+Date: 20031114
+Docket: 2003-1784(EI)APP
+BETWEEN:
+PATRICIA DAVIES,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS
+Rip, J.
+[1] Patricia Davies has applied for an extension of time to file a notice of appeal pursuant to section 103 of the Employment Insurance Act ("Act")
+[2] Subsections 103(1) and (1.1) of the Act reads as follows:
+(1) The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Court of Canada in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder within 90 days after the decision is communicated to the Commission or the person, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+(1.1) Section 167, except paragraph 167(5)(a), of the Income Tax Act applies, with such modifications as the circumstances require, in respect of applications made under subsection (1).
+[3] Ms. Davies appealed a ruling to the Minister for the determination of the question of whether or not her earnings from Globe Risk Institute Inc. were insurable, for the period April 1, 2001 to August 25, 2001, within the meaning of the Act. On October 25, 2002, the Minister informed Ms. Davies that it had been determined that her earnings from Globe Risk Institute Inc. were not insurable and that she had 90 days of the mailing date to appeal the decision to this Court.
+[4] The last day to appeal the decision of the Minister was January 23, 2003. She did not do so.
+[5] In accordance with subsection 103(1) Ms. Davies had until April 23, 2003 to file an application for extension of time to file a notice of appeal. Ms. Davies' application was received by the Court on May 12, 2003.
+[6] It is quite clear that Ms. Davies' application was not made within the 90 days limited by subsection 103(1) of the Act, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+[7] Ms. Davies testified that since November, 2002 she was extremely ill and under her doctor's care. She was being treated with morphine and was "out of it" for most of the time until May, 2003. She declared that she was unable to act during this time and was unaware and unable to comprehend that a time limit might have existed to any appeal under the Act.
+[8] Towards the end of the hearing of the application, I asked counsel for the Minister to get in touch with the Minister's officials to determine whether there was any administrative remedy available to Ms. Davies. I mentioned that when people cannot act due to natural disasters such as floods or ice storms, the Minister occasionally agrees to delay the filing of returns required to be filed or extends the deadline for contributions to registered retirement savings plans.
+[9] The Minister's counsel informed me by letter dated November 7, 2003 that Canada Customs and Revenue Agency can only use their discretion to allow an extension of time to file an appeal when the application is made within the 90 days, limited by subsection 103(1) of the Act, or within such longer time as the Court may allow on application made to it within 90 days after the expiration of those 90 days.
+[10] Subsection 103(1.1) provides that section 167, except section 167(5)(a), of the Income Tax Act applies, with such modifications as the circumstances require to appeal under the Act. The one‑year period in subsection 167(5)(a) of the Income Tax Act is not available to persons who wish to apply for an extension of time to appeal the Minister's decision under the Act. A resident of Canada should have the comfort of knowing that statutory delays for similar remedies, for example, the right to extend time to appeal, under various statues do not vary. Unfortunately, this is not so.
+[11] This exclusion in subsection 103(1.1) works to Ms. Davies' prejudice and I must dismiss her application.
+Signed at Ottawa, Canada, this 14th day of November, 2003.
+"Gerald J. Rip"
+Rip, J.
+CITATION:
+2003TCC843
+COURT FILE NO.:
+2003-1784(EI)APP
+STYLE OF CAUSE:
+Patricia Davies v. The Queen
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+October 28, 2003
+REASONS BY:
+The Honourable Justice Gerald J. Rip
+DATE OF ORDER:
+November 14, 2003
+APPEARANCES:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Jennifer Neill
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

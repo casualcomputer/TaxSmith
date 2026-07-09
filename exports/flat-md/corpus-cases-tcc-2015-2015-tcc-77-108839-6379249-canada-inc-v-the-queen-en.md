@@ -1,0 +1,343 @@
+---
+title: "6379249 Canada Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108839/index.do"
+last_modified: "2015-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 77"
+citation2: ""
+neutral_citation: "2015 TCC 77"
+decision_date: "2015-03-31"
+language: "en"
+item_id: "108839"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2854
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:25:54.879000+00:00"
+cases_cited_count: 0
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5730a345d99f9d020c10167bb9ff324070ad59c628ffc844496affba849a26d6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 6379249 Canada Inc. v. The Queen
+
+- Citation: 2015 TCC 77
+- Decision date: 2015-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2854, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6379249 Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-03-31
+Neutral citation
+2015 TCC 77
+File numbers
+2012-3634(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3634(IT)G
+BETWEEN:
+6379249 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 3, 4 and 11, 2014, at Montreal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Alain Gareau
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2009 and 2010 taxation years is allowed, with costs. The assessments are therefore vacated.
+Signed at Ottawa, Canada, this 31st day of March 2015.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2015 TCC 77
+Date: 20150331
+Docket: 2012-3634(IT)G
+BETWEEN:
+6379249 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+Overview [1] In 2006, the appellant undertook the development of a miniature self‑contained wireless portable printer (“the printer”). The printer’s dimensions were to be 1.5” x 1.5” x 10”. It would have been the smallest such printer in the world.
+[2] Following an audit by the Canada Revenue Agency (“CRA”), for the 2006 and 2007 taxation years, the Minister of National Revenue (the “Minister”) accepted that the work performed by the appellant with respect to the printer constituted scientific research and experimental development (“SR&ED”). Accordingly, the appellant was granted the SR&ED investment tax credit (“ITC”) for those years. The appellant was also granted the SR&ED ITC for its 2008 taxation year, although the 2008 taxation year was not audited by CRA.
+[3] At the end of 2008, Mr. Raja Tuli, the Chief Executive Officer (“CEO”) of the appellant, was of the view that the technological objectives of the printer had been met; namely the printer could print 20 pages without having to recharge the battery.
+[4] Accordingly, 200 printers were released onto the market for sale.
+[5] After its commercial release, the manufacturer of the printer informed the appellant that it was receiving complaints from customers who had purchased the printers.
+[6] The appellant investigated the customers’ complaints by testing approximately 50 printers and determined that the complaints were well-founded. The appellant noticed that the paper was coming out of the printer curled and the battery stopped after five to ten pages had been printed. Although this did not occur on a regular basis, the occurrence was high enough that the appellant decided to stop manufacturing the printers and removed them from the market.
+[7] In 2009, the appellant undertook a new SR&ED project with respect to the printer and claimed a SR&ED ITC in the amount of $103,628 for its 2009 taxation year and $49,688 for its 2010 taxation year.
+[8] The position of the appellant is that the work performed on the printer in the 2009 and 2010 taxation years constituted SR&ED. The appellant argued that technological uncertainties still remained with respect to the printer in 2009 and 2010.
+[9] By notices of assessment dated December 24, 2010 and November 25, 2011, the Minister denied the appellant’s claim for a SR&ED ITC for the 2009 and 2010 taxation years. The basis for the assessments was that, at the time of commercial production, there were no longer technological uncertainties with respect to the printer. In addition, the Minister took the position that the work performed on the printer during the 2009 and 2010 taxation years was routine engineering.
+[10] For the appellant’s 2010 taxation year, the Minister also took the position that the appellant did not file the prescribed information with his Form T661 within the time limits provided for by subsection 37(11) of the Income Tax Act (“ITA”). The appellant was therefore not entitled to claim a SR&ED ITC for its 2010 taxation year. The appellant argued that it had filed the prescribed information with the Form T661 within the time limits.
+Issues A. Is the appellant entitled to claim a SR&ED ITC for its 2009 and 2010 taxation years?
+B. As to its 2010 taxation year, did the appellant file the prescribed information with its Form T661 within the time limits prescribed by subsection 37(11) of the ITA?
+Facts A. Is the appellant entitled to claim a SR&ED ITC for its 2009 and 2010 taxation years? [11] At the hearing, the appellant called Mr. Tuli and Ms. Deborah Frail, an expert witness, to testify on its behalf. Mr. Ted Wierzbica gave expert evidence on behalf of the respondent.
+Testimony of Mr. Tuli [12] Mr. Tuli is the CEO of the appellant. He is a well-known developer of computer and office equipment products. He is recognised as the world’s leading expert in the miniaturization of computers and hi-tech office equipments. He incorporated the appellant for the purposes of developing a miniature printer.
+[13] Mr. Tuli graduated in 1988 from the University of Alberta in computer engineering. He has many inventions to his credit. He holds approximately 100 patents in different technologies, software and mechanical designs.
+[14] Mr. Tuli stated that he holds at least nine patents in the field of printing technology. Before developing the miniature printer, he had previously designed and developed printers and slip clutches, which are components of printers.
+[15] Mr. Tuli stated that in the early 1990s, as the CEO and Chief Technology Officer of Widecom, he had developed a fax machine that was capable of transmitting blueprints, which are large engineering drawings. Widecom was successful and eventually went public and was listed on the NASDAQ and the New York Stock Exchanges in 1995. The fax machine was recognized by the Guinness Book of World Records as the biggest fax machine in the world.
+[16] After Widecom, Mr. Tuli started a company named Docuport. He was the CEO of Docuport. Due to his reputation in developing technologies, Docuport was able to raise ten million dollars to develop a scanner pen. The pen is able to scan and store 300 pages in its memory and can be connected with a computer for downloading purposes. The pen was recognized by the Guinness Book of World Records as the biggest—smallest scanner.
+[17] After Widecom, Mr. Tuli started a company named Datawind. He was also the CEO of Datawind. Datawind developed a low-cost tablet. The tablet was aimed primarily at providing people in third World markets with access to the internet. It was the lowest cost tablet in the world. Mr. Tuli raised over 30 million dollars for this company. It took six years to develop the tablet. The company went public on the Toronto Stock Exchange in 2014. At that time, Datawind was valued at 150 million dollars.
+[18] He also started a company named Ola Display which developed touch screen technology for phones. The touch screens are manufactured in Montreal and shipped to China and India to be integrated into phones.
+[19] With the exception of Ola Display, all of the above corporations made SR&ED claims. Mr. Tuli explained that there was no technological uncertainty arising from the development of the telephone screens. In his view, the work undertaken at Ola Display was standard engineering.
+[20] Around 2005-2006, since the trend was for small hi-tech devices, Mr. Tuli decided to develop a miniature printer. He invested between $300,000-$400,000 and another investor advanced $300,000. He then incorporated the appellant for the purpose of developing the printer.
+[21] The appellant worked on the development of the printer during the 2006, 2007 and 2008 taxation years. In developing the printer, the appellant set the following specifications:
+− the printer had to be small and light, the dimensions were to be 1.5” x 1.5” x 10”;
+− the printer had to deliver a full-sized 8” x 11.5” sheet of copy or graphic;
+− the printer had to connect to a data source such as cellular phone, PDA or a laptop via the Bluetooth;
+− the printer had to use wireless technology permitting it to print without the need for a cable connection;
+− the printer had to be self-contained, meaning that the paper had to be inside the printer on a reel in a very tightly curled compact roll;
+− the paper cartridge had to consist of 20 sheets of paper;
+− the printer had to be battery operated and the battery had to function for a full cartridge of paper between recharges.
+[22] Since the paper in the printer was rolled very tightly, the printer had an anti-curl system designed to ensure that the paper would be flat when it came out of the printer.
+[23] In 2008, the appellant tested some prototype printers in its laboratory. At that point, the appellant was of the view that the printer was ready to be commercially released.
+[24] 200 printers were manufactured and released onto the market. When the appellant decided to commercially release the printer, Mr. Tuli explained that he and his team of engineers and technicians[1] thought that the printer met the specifications and that the technological uncertainties that they had encountered in 2006 and 2007 had been resolved. However, not long after the commercial release, the manufacturer informed Mr. Tuli that it was receiving complaints from customers - over 20 percent were not pleased with the printer’s performance.
+[25] The appellant did its own testing of the printer. It tested approximately 50 printers and determined that more than 20 percent were not meeting the specifications: the paper was sometimes coming out of the printer curled and the battery often drained after five or ten pages had been printed. These problems were so severe that the appellant and its marketing partners decided to remove the printer from the market until the deficiencies were remedied.
+[26] Mr. Tuli stated that they were facing the same issues that they had faced in 2006 and 2007. Although he had thought in 2008 that the printer was ready to be commercially released, he stated that his assessment as to the readiness of the printer was wrong.
+[27] Mr. Tuli stated that, as of the date of the hearing, the appellant has not been able to overcome the technological challenges completely.
+[28] In 2009, the appellant opened a SR&ED project. Mr. Tuli started to work on the printer to determine why it did not consistently meet specifications.
+Testimony of Ms. Frail [29] Ms. Frail graduated from McGill University in 1988 with a Bachelor of Engineering, Mechanical and in 1995 with a Master in Business Administration.
+[30] Ms. Frail is currently employed by R&D Partners, a company which assists Canadian-based companies in applying for the SR&ED ITC program.
+[31] Ms. Frail has been with R&D Partners since its establishment in 2002. She is a partner and a consultant.
+[32] Before working for R&D Partners, Ms. Frail was employed by Rafna Industries Limited for just over ten years. Rafna Industries Limited was a manufacturer of equipment for the railroad industry. She was Vice-President of operations and responsible for manufacturing and engineering design.
+[33] Prior to working with Rafna Industries Limited, Ms. Frail was employed by Shell Canada as a project engineer.
+[34] Ms. Frail is of the opinion that the work that the appellant performed in the years 2009 and 2010 qualify as SR&ED since there were still technological uncertainties with respect to the printer. She also stated that the appellant carried out a systematic process in the field of technology and that the work performed on the printer was undertaken for the purpose of achieving technological advancements. In her view, the problems encountered with the printer could not be resolved by standard engineering.
+[35] Ms. Frail stated that the fact that the printer was released commercially in 2008 should not prevent the appellant from claiming a SR&ED ITC for its 2009 and 2010 taxation years.
+[36] In her opinion, although the prototype printers were functioning well in the appellant’s laboratory, it became obvious that the technological uncertainties that the appellant thought it had overcome during the 2006 and 2007 taxation years remained. The printer was not functioning according to its specifications: the paper was still coming out of the printer curled and the battery died before 20 sheets of paper could be printed.
+[37] In Ms. Frail’s view, if Mr. Tuli, the world’s leading expert in miniaturisation of computer products and hi-tech equipment, thought that he had developed a printer that met the project’s objectives and subsequently determined that it did not, this only demonstrated that the technological uncertainties were even greater than what Mr. Tuli had first thought and that technological uncertainties still existed in 2009 and 2010.
+[38] Ms. Frail opined that the SR&ED project for 2009 and 2010 should have been analysed at the system level (that is, at the printer level), since a printer with such a small geometry entails a multidisciplinary development, each activity being inter-related and having an effect on the other. She stated that she does not agree with the method chosen by the Minister, who analyzed the work performed by the appellant at the activity level and then determined if each activity constituted a SR&ED. In Ms. Frail’s view, the overall technological advancement would be the capability of printing in such a limited geometry. Therefore, she stated that the work had to be analyzed at the system/printer level.
+[39] In addition, Ms. Frail did not agree with the Minister’s conclusion that the work performed by the appellant was standard engineering. She stated that there is no standard technology available for the application of portable printing. She stated at page four of her report that:
+There is no standard technology available for the application of portable printing systems and the technology that had been previously developed did not meet the project objectives following longer term testing, therefore the taxpayer would have to undertake a systematic investigation into the problems presented and attempt to overcome these challenges using experimental development in order to further advance technology in the area of portable printing.
+[40] In her testimony, Ms. Frail stated that she did not look in detail at how the appellant tested each hypothesis it made; that being said, she understood from Mr. Tuli’s explanation the process that the appellant had followed. She was satisfied that a systematic investigation had been followed. At page four of her report, Ms. Frail described how the work was performed by the appellant:
+The purpose of this section of the report is to re-iterate the fact that the taxpayer followed a systematic process when attempting to overcome the technological challenges presented and therefore to attempt to achieve the technological advancement of portable printing capability which has already been rightfully accepted by CRA. This systematic process of development was iterative in nature and followed the following process; each time gaining knowledge but not necessarily resolving the technological challenges presented. This process again serves to demonstrate that the challenges could not be resolved using routine development or standard engineering practice and that the taxpayer was systematic in the process followed. The general steps followed by the taxpayer in each instance were:
+a. Development of a hypothesis to attempts to resolve the technological uncertainties including a potential solution to a problem
+b. Development of methods to test the hypothesis
+c. Testing of the potential solution (Note that all tests results are available at the taxpayers location; samples could not be provided to demonstrate the testing carried out at the request of CRA)
+d. Analysis and documentation of test results
+e. Modification of hypothesis if necessary as a result of testing and subsequent analysis.
+[41] At Part C of her report, Ms. Frail explained in detail the work undertaken by the appellant in order to solve the technological uncertainties and to achieve technological advancements. She concluded that by the end of 2009, improvements had been made in both areas of technological uncertainty, namely paper curling and battery life. The paper curling had been reduced in many cases due to a more consistent force being applied in the straightening process and battery life had been improved through the addition of an improved printer driver which reduced the power requirements and a change in materials which reduced the power required to overcome static friction when starting to print.
+[42] Ms. Frail did not review the 2010 taxation year of the appellant. She stated that at the end of the 2009 taxation year, the system uncertainties still remained as the problems had not been completely resolved.
+[43] She concluded her report by stating that the appellant had clearly demonstrated that the work carried out fell within the ambit of the definition of SR&ED under section 248 of the ITA.
+Testimony of Mr. Wierzbica
+[44] Mr. Wierzbica has a doctorate in electrical engineering and technology, more specifically in metrology from the University of Technology in Warsaw, Poland. In Warsaw, he was employed as a professor assistant and as post-doctorate lecturer by the University of Technology in the field of Digital Instrumentation and Metrology. Metrology is the science and engineering techniques related to how to measure things. An example applicable to this appeal would be measuring the coefficient of friction.
+[45] After immigrating to Canada in 1980, Mr. Wierzbica became a member of the Order of Engineers in 1981. He was employed for almost 20 years by Canadian companies in the high tech industry. For example, at Dash Tecsult, he participated in the computerization of a traditional pulp paper mill. He also dealt with the issue of measuring moisture on the paper machine at the mill. At Phillips Information Systems, he designed intelligent cards for PC technology. At Escher‑Grad, Mr. Wierzbica, as Vice-President, Engineering successfully developed, with a team of engineers, a low cost photoplotter. A photoplotter is a printer used primarily for the production of PCB's (printed circuit boards). At AdelTech, Mr. Wierzbica was involved in the development of software products. At that time, the data for GPS systems from US satellites was scrambled. Mr. Wierzbica and his team had to remove the scramble allowing products to be developed for police forces and emergencies forces to track their cars on a screen.
+[46] In 2000, Mr. Wierzbica joined the directorate of SR&ED of CRA as policy advisor. Two years later, Mr. Wierzbica was promoted to the position of National Technology Sector Specialist for information technology, in Ottawa. In that capacity, Mr. Wierzbica advised Research Technology Advisors (“RTA”) on a national basis on CRA’s policies with respect to the SR&ED and also assisted RTA’s in their work, also on a national basis.
+[47] After working ten years in that position, in June of 2012, Mr. Wierzbica took a RTA position in Montreal. As a RTA, his main task was to determine whether or not the projects submitted by taxpayers qualified for the SR&ED ITC.
+[48] Mr. Wierzbica became involved in the appellant’s SR&ED project while he was working in Ottawa, as a National Technology Sector Specialist. He was consulted by the local RTA with respect to the appellant’s claim for the 2006 and 2007 taxation years.
+[49] As for the 2006 and 2007 taxation years, Mr. Wierzbica stated that the development of the printer by the appellant constituted SR&ED. The printer was a multidisciplinary development project combining several contributing technologies. In his report, Mr. Wierzbica wrote that the work performed on the printer by the appellant in 2006 and in 2007 faced a system uncertainty in the SR&ED context, since some of the technologies contained in the printer were not conceived to work together, the technologies needed to be individually improved in order to work and fit in a very limited geometry. Mr. Wierzbica stated that there was no publicly available technical information at the time that would provide guidance on how to build such a small device with printing capability. In Mr. Wierzbica’s view, the capability of printing with such a small device was a technological advancement in the SR&ED context.
+[50] With respect to the 2009 and 2010 years, Mr. Wierzbica opined that the appellant was not entitled to a SR&ED ITC. He stated that if Mr. Tuli, the appellant’s technical expert, considered the attempted functionality accomplished in 2008, and accordingly released the printer onto the market, the technological uncertainty at the system/printer level had been resolved and could no longer exist in 2009 and 2010.
+[51] Mr. Wierzbica stated that a taxpayer’s claim will not be denied because a product is released commercially. However, he stated that in the SR&ED context, commercial release has a bearing on the decision as to whether a project constitutes SR&ED. He stated that in order to determine if the appellant’s project constituted SR&ED, he followed a three-step approach:
+− the first question was whether the same technological uncertainty still existed in 2009 and 2010. Mr. Wierzbica stated that there was no longer a technological uncertainty at the system/printer level, since the system uncertainty had been overcome by the time the printer was commercially released;
+− the second question was whether new uncertainties existed at the system/printer level in 2009 and 2010. Mr. Wierzbica’s answer was that no new uncertainties existed at the system printer level. It could not be said that the paper curling and the battery exhausting too quickly were new technological uncertainties in the SR&ED context;
+− the third question was whether the work performed by the appellant activity by activity constituted SR&ED. Mr. Wierzbica opined that each activity performed by the appellant viewed separately constituted standard engineering and not SR&ED.
+[52] Mr. Wierzbica’s view is summarized at page two of his report, where he wrote:
+P2. of Mr. Wierzbica’s report […] that the work performed by the appellant on each activity, namely the sourcing of felt material, the clutch surface, the analysis of static vs. dynamic friction regime, optimisation of electric motor control algorithm and analysis of moisture content was standard engineering work.
+and
+Page 89 of the transcript of the trial, lines 13-20. […] I admit that there were some refinements, but they were in the realm of refinements. Or I would say quality oriented work, in order to improve quality
+[53] Therefore, Mr. Wierzbica was of the view the appellant was not entitled to claim the SR&ED tax credits for the 2009 and 2010 taxation years.
+Law and Discussion [54] SR&ED is defined in paragraph 248(1) of the ITA as follows:
+“scientific research and experimental development”
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view;
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto ,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work in respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+[55] The appellant invokes paragraph (c) of the definition, or alternatively on paragraph (d) of the definition.
+[56] As was stated by Chief Justice Bowman in Northwest Hydraulic Consultants Ltd v R, [1998] TCJ No 340, 98 DTC 1839, in SR&ED ITC cases it is important to keep in mind that the tax incentives given for doing SR&ED are intended to encourage scientific research in Canada. The legislation providing for such incentives must be given “such fair, large and liberal construction and interpretation as best ensure the attainment of its objects”.
+[57] In Northwest Hydraulic Consultants Ltd, Chief Justice Bowman refers to Information Circular 86-4R3 (“IC 86-4R3”) as a useful tool for determining whether a taxpayer qualifies for a SR&ED ITC since it is the result of extensive consultations between government and the scientific community both in industry and at universities. He stated at paragraph 15 of his reasons:
+In light of the extensive consultation and the impressive credentials of the persons who participated in the process, the document that emerged, IC 86-4R3 is a generally useful and reliable guide.
+[58] The same can be said for the CRA document dated December 19, 2012 entitled “Eligibility of work for SR&ED Investment Tax Credits Policy” which replaced IC 86-4R3. Therefore, where appropriate, I will rely upon this document. However, if there is any conflict between the document and the ITA, the latter of course, will govern.
+[59] If a project is to constitute SR&ED under the ITA, an appellant has to prove that following criteria are met:
+1. There is scientific or technological uncertainty;
+2. The appellant has carried out a systematic investigation in a field of technology by means of experiment or analysis. (ie. did the effort involve formulating hypothesis specifically aimed at reducing or eliminating that uncertainty? Was the adopted procedure consistent with the total discipline of the scientific method, including formulating testing and modifying hypothesis?)
+3. The work has to be undertaken for the purposes of achieving a technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental.
+1. The existence of a scientific or technological uncertainty [60] The parties have a different perspective as to whether a technological uncertainty existed in the 2009 and 2010 taxation years.
+[61] The appellant submitted that, even if its CEO, Mr. Tuli was under the impression that when the printer was commercially released in 2008, the technological uncertainties had been resolved, this was obviously not the case since the printer did not function in accordance with its specifications. The problems were serious enough that the printer had to be removed from the market. Accordingly, the appellant argued that it is clear that there was still a technological uncertainty at the system level in 2009 and 2010.
+[62] On the other hand, Mr. Wierzbica stated that since the appellant chose to commercially release the printer in 2008, it is clear that technological uncertainty no longer existed at the system/printer level at that time.
+[63] In Northwest Hydraulic Consultants Ltd, relying on IC 86-4R3, Chief Justice Bowman at paragraph 16 of his decision explained what is meant by technological uncertainty:
+(a) Implicit in the term “technological risk or uncertainty” in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+(b) What is “routine engineering”? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+[64] Also in Northwest Hydraulic Consultants Ltd, Chief Justice Bowman stated that technological uncertainty is something that exists in the mind of the specialist. At paragraph 82 of his reasons for judgment, he explained:
+The technological uncertainty is something that exists in the mind of the specialist such as the appellant, who identifies and articulates it and applies its methods to remove that uncertainty.
+[65] Mr. Tuli is recognized as the world’s leading expert with respect to miniaturization of hi-tech equipments. Mr. Wierzbica admitted in cross‑examination that Mr. Tuli was the “number one expert” in the field of miniaturization of hi-tech equipments such as the printer.
+[66] During his testimony, Mr. Tuli clearly stated that, in his view, technological uncertainties existed in 2009 and 2010 at the system/printer level. The paper was still curling and the battery died out too rapidly. Mr. Tuli stated that these were the same technological uncertainties that had been encountered in 2006 and 2007.
+[67] Mr. Tuli stated that existing standard engineering procedures were not available to competent professionals in the field to solve the technological problems with the printer. If they had been available, the printer would be functioning by now.
+[68] In my view, Mr. Wierzbica put too much emphasis on the commercial release of the printer. In doing so, he ignored an essential element, namely, that, concretely, the printer did not function and had to be removed from the market. During cross-examination, Mr. Wierzbica stated that if the printer had not been commercially released, the project would most probably have been accepted for 2009 and 2010. He stated as follows:
+In term of SR&ED evaluation, if they have still claimed it prior to sending it to manufacturing, most probably this project would be accepted. It would be just continuation of unresolved—there would be no, clearly there would be no indication for me to assume that they solved technological uncertainty. Which is in place when they release it to manufacturing. That’s the difference.
+[69] In light of the evidence, I am of the view that the appellant has demonstrated that there was a system uncertainty at the system/printer level for the 2009 and 2010 taxation years.
+2. Systematic investigation that is carried out in a field of technology by means of experiment or analysis [70] A systematic investigation is an approach that includes defining a problem, formulating clear objectives, identifying technological uncertainty, and formulating hypothesis towards resolving the technological uncertainty. These elements must operate within the total discipline of the scientific method, characterized by trained and systematic observation, measurement and experiment.
+[71] The appellant did not file any documents describing its systematic investigation. Although, the ITA does not require a taxpayer to file such documents, in my view, it would have been better if the appellant had produced such records or, if too voluminous, at least a sample of such records.
+[72] That being said, in his testimony Mr. Tuli explained in detail the systematic investigation that was carried out by the appellant with respect to the printer.
+[73] He started by describing the appellant’s objectives with respect to the printer for the 2009 and 2010 taxation years. The printer had to meet its specifications and the size of the printer had to remain the same, namely 10” x 1.5” x 1.5”.
+[74] Mr. Tuli stated that when he first investigated what had gone wrong with the printer, it was clear that two technological uncertainties still existed. The first one was that the paper did not come out flat from the printer and the second was that the battery died out too rapidly. After printing many pages, they observed that the felt on the slip clutch was degrading more rapidly than had been anticipated. They also observed that the motor stalled prematurely and the issue with the dynamic and static friction had not been resolved.
+[75] With that in mind, they started to make hypotheses in order to solve the technological uncertainties. Before testing each hypothesis, Mr. Tuli stated that they looked at the current state of the art to see what was being done worldwide. Mr. Tuli stated that there was no published information with respect to a miniature printer with so many embedded technologies. He also stated that he recorded each hypothesis, the testing of the hypothesis and the result and that he had boxes of such records.
+[76] Mr. Tuli explained in detail the systematic investigation that the appellant carried out for each hypothesis put forward for solving the technological uncertainty and achieving technological advancement.
+Felt on the Slip Clutch and the Impact of Static vs. Dynamic Friction Regimes [77] The purpose of the slip clutch in the printer was to provide back tension to straighten the paper. The slip clutch was composed of two concentric disks that were pressed against each other with a piece of felt in between. The first hypothesis was that the felt disc was degrading too quickly and this had an effect on the slip clutch and the paper straightening. Although it was recognized that felt would degrade over time, the appellant did not expect that the felt would degrade so rapidly. Mr. Tuli analysed different felt materials to determine how they potentially compressed or degraded over time within the anti-curl system and what effect the felts had on the curling of the paper. The test results with respect to the felt materials were documented and an analysis of the testing led to the conclusion that the best quality felt material was producing the worst results, namely the motor was stalling even more frequently than before.
+[78] After observing the behaviour of the motor, Mr. Tuli realized that until now, they had failed to consider the effects of the static and dynamic regimes separately, since all testing had been dynamic tests. They noticed that a felt with a lower static friction coefficient combined with a more consistent dynamic friction coefficient would better resist compression over time. The difference in the motor’s power consumption between the static and dynamic regimes could be minimized with the proper selection of the felt material. The tests performed allowed the appellant to select a better balanced felt and properly balance the motor’s power consumption between the static and dynamic regimes. The minimization of the difference in power consumption between the two regimes minimized the frequency of motor stalling.
+[79] Mr. Tuli stated that they looked for literature on how the felt could affect the paper tension (the slip clutch) and the motor. Mr. Tuli stated that they did not find any literature on the impact of the felt on the slip clutch and on the motor.
+[80] Although Mr. Tuli had designed printers and slip clutches before, he stated that this type of experiment had never been done before. If they had not done the experiment, they would have never known that the choice of felt used in the disk had an effect on the paper tension and the power of the motor. This was not known by people versed in the art.
+[81] In addition in Mr. Tuli’s view, the identification of the static versus dynamic load aspect of the electric motor as the main factor to adjust the battery life is a technological advancement with respect to the previous technology.
+Redesign of the slip clutch [82] Mr. Tuli then decided to circumvent the degradation of the felt with another hypothesis, the redesigning of the slip clutch.
+[83] A redesigned slip clutch could reduce the impact of the felt degradation and ensure longer term efficacy of the clutch mechanism to maintain paper straightening. An investigation was carried out to determine methods to increase the surface area of the clutch component that was in direct contact with the felt disk. By making the slip clutch bigger, less force would be applied to it. However, it was important not to increase the overall diameter of the clutch in order not to modify the size of the printer. Various options were considered, the slip clutch was redesigned whereby the two surfaces of the clutch and the reel in contact with the felts would have a series of concentric interlocking grooves or ridges that would increase the effective surface area of the clutch. Mr. Tuli stated that they could not find any publication on this. In his view, that type of slip clutch had never been done before. The test results demonstrated that the new design reduced the force applied on the felt, therefore allowing the felt to maintain its friction force for longer periods of time.
+[84] The conclusion was the new clutch design led to an increase in tension on paper when passing through the anti-curl system, resulting in improved paper straightness.
+[85] In Mr. Tuli’s view, these improved design features of the aforementioned elements of the anti-curl system represented technological advancements over the previous base of technology.
+New printer driver [86] Although there was an improvement in paper straightness, the problem was not yet resolved. The next phase of the development was to focus on the other major problem reported by the users, which was that the battery was draining too quickly.
+[87] Further advancement was then sought by contemplating the mitigation of power consumption problems caused by the difference between the static and dynamic regimes of the electric motor by electronic means that would control the supply of power to the motor. Until then, they had been using a simple motor control algorithm referred to as the old printer driver. The old printer driver did not make the difference between the static and dynamic regimes. Mr. Tuli introduced in the design of the new printer driver a means for regulating the amount of electric power from the battery to the motor. The hypothesis was that by introducing a means to ensure that the power supply profile would continually match the expected power demand, overall power consumption would decrease and the printer’s battery charge would last for a full cartridge of 20 pages.
+[88] A new printer driver algorithm was developed. It was concluded that the new printer driver was able to reduce the power consumption on the battery. The new printer driver considers the time elapsed since the last movement of the electric motor and the last registered speed of the paper and inferred the presence of static friction from these variables to control the power requirements. Mr. Tuli hypothesized that once calibrated the new printer driver would manage the boosting of the electric motor so that additional energy would be applied only when strictly necessary for preventing the motor to stall. Once calibrated, tests were performed to verify the effectiveness of this anti-stalling tool. The test results confirmed the validity of the initial hypothesis, the calibrated power management algorithm (new printer driver) effectively prevented the motor from stalling. In addition, the printer driver improved the life of the battery and the motor applied the required force to the anti-curl mechanism. Unlike the old printer, the new printer driver followed a complex curve not found in the typical printer driver.
+[89] In Mr. Tuli’s view, the calibrated new printer driver was a technological advancement with respect to the previous technology.
+Paper Moisture Analysis [90] Mr. Tuli stated that further testing was performed to determine whether the new technological advancements had improved the efficacy of the printer. Mr. Tuli stated that even though the back tension force of the anti-curling mechanism was consistently up to specification, the tests provided occasional evidence of paper curling in some units after some time. It was hypothesized that the printing paper would eventually become curled because the paper’s physical properties were changing over time. Mr. Tuli decided to investigate the problem of variation of the moisture content of the printing paper stock over time.
+[91] It was hypothesized that there could be external factors that had an effect on the paper curling after extended periods of time on the paper reel. It was further hypothesized that humidity could significantly contribute to the changes in the characteristics of the paper over time. A jig (moisture chamber) was developed to test the paper moisture content. Mr. Tuli wanted to see if the moisture content could cause the paper to degrade and prevent the anti-curl mechanism from working. Since the paper was curled in a tight roll, it was hard to simulate the real environment with a jig. Mr. Tuli stated that they were not able to apply the moisture to the paper evenly. Mr. Tuli stated that they tried many techniques but they were not able to apply the moisture evenly on each page of the roll of paper. Research was done in order to find literature that could assist the appellant but nothing was found. At that point, they thought another solution would be to render the anti-curl mechanism in the printer even stronger.
+[92] The respondent stated that the appellant had not filed in evidence any documents demonstrating that it had followed a systematic approach in performing its SR&ED’s work. As I have stated earlier, the filing of the documents proving a systematic investigation is not a requirement in the ITA. The ITA requires that the appellant prove that he has followed a systematic investigation in order to resolve a technological uncertainty with the purposes of achieving a technological advancement.
+[93] Mr. Tuli is a credible witness. In light of his testimony, I am satisfied that a systematic investigation was carried out in the field of technology by means of experiment and analysis.
+3. The work has to be undertaken for the purposes of achieving a technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental [94] The respondent submitted that since the printer had been released commercially in 2008, the objective of developing a small printer with many contributing technologies in a limited space had been achieved. In 2009 and in 2010, the work performed by the appellant was only aimed at fixing the problems reported by the users. Accordingly, the work performed by the appellant at the system/printer level was not carried for the purpose of achieving a technological advancement.
+[95] The respondent submitted that, for the appellant to succeed, it had to prove that a technological advancement had to be achieved within the SR&ED context for each activity. The respondent submitted that the work performed by the appellant for each activity was routine engineering.
+[96] For the respondent, trying to find the best felt was not SR&ED. The respondent also submitted that the new design slip clutch remained almost the same as the previous slip clutch. The only changes were the modifications of the two plates in order to increase the surface area so the pressure would be smaller on the felt. The respondent did not see any value in having concentric interlocking grooves or ridges. With respect to the analysis of static versus dynamic friction regime, the respondent submitted that, in electrical engineering, it is common knowledge that the power consumption of an electric motor differs significantly in its dynamic condition from its static condition. The respondent also submitted that the development of the new printer driver was also common knowledge, algorithms had been in existence for a very long time and no new scientific knowledge was gained with the new printer driver. With respect to the tests performed by the appellant to determine the impact of the moisture on paper, the respondent submitted that the impact of moisture on the paper is a very well-known phenomenon and that there was nothing scientific about building a jig.
+[97] As to whether a process resulted in a technological advancement, Chief Justice Bowman, in Northwest Hydraulic Consultants Ltd, stated as follows at paragraph 16-4 of his reasons:
+Did the process result in a technological advance, that is to say an advancement in the general understanding?
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+[98] It is also important to analyze the language of paragraph (c) of the definition of SR&ED under section 248 of the ITA, which is:
+Experimental development is work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto.
+[My emphasis.]
+[99] In French, that provision reads as follows:
+c) le développement expérimental, à savoir les travaux entrepris dans l'intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l'amélioration, même légère, de ceux qui existent.
+[My emphasis.]
+[100] The French version is clear: the work will qualify for SR&ED ITC purposes, if there is a slight improvement to materials, devices, products or processes.
+[101] In view of that language, I am of the view that the work performed by the appellant was undertaken for the purpose of achieving technological advancements; indeed:
+− the experiment with respect to the felt allowed the appellant to discover that the felt used in the disk between the paper reel and the clutch had a positive effect on the paper tension and the power of the motor;
+− the identification of the static versus dynamic load aspect of the electric motor as the main factor to adjust the battery life is a technological advancement with respect to the previous technology;
+− the new clutch design using concentric ridges, led to an increase in tension on paper when passing through the anti-curl system, resulting in improved paper straightness. This improved feature is a technological advancement with respect to the previous technology. Mr. Tuli stated that he had designed many slip clutches and such a design had never been done before;
+− the calibrated power management algorithm (new printer driver) effectively prevented the motor from stalling. In addition, the printer driver improved the life of the battery and the motor applied the required force to the anti-curl mechanism. Unlike the old printer, the new printer driver followed a complex curve not found in the typical printer driver. The calibrated new printer driver is a technological advancement with respect to the previous technology;
+− the building of jig for a small printer and trying to find a technique to apply moisture evenly into a roll of paper was also performed to remove one of the technological uncertainties, namely the paper curling. Mr. Tuli stated that building a jig for such a small roll of paper was far from been obvious. Finding a technique to apply the moisture evenly was not known by people versed in the art. If it was known, the appellant would still not be working on it. In any event, in my view, if the work performed in 2010 did not fall within the ambit of paragraph (c), it would be caught by paragraph (d) of the definition of SR&ED under section 248 of the ITA.
+[102] In my view, the work performed on the system/printer level qualified for the SR&ED ITC in 2009 and in 2010; the device was improved. I was convinced by the testimonies of Mr. Tuli who is the expert in the field of miniaturization for hi-tech products and Ms. Frail who served as the expert for the appellant, when they both stated that technological advancements were achieved in the context of the SR&ED.
+[103] I do not agree with the respondent’s analytical approach, namely that each activity had to be analyzed separately. That being said, for the reasons stated above, I am of the view the appellant met the SR&ED definition for each activity undertaken.
+B. Did the appellant file the prescribed information with its Form T661 within the time limits prescribed by subsection 37(11) of the ITA for its 2010 taxation year? [104] Subsections 37(11) and 37 (12) of the ITA read as follows:
+37. (11) Subject to subsection 37(12), no amount in respect of an expenditure that would be incurred by a taxpayer in a taxation year that begins after 1995 if this Act were read without reference to subsection 78(4) may be deducted under subsection 37(1) unless the taxpayer files with the Minister a prescribed form containing prescribed information in respect of the expenditure on or before the day that is 12 months after the taxpayer's filing-due date for the year.
+37. (12) If a taxpayer has not filed a prescribed form in respect of an expenditure in accordance with subsection 37(11), for the purposes of this Act, the expenditure is deemed not to be an expenditure on or in respect of scientific research and experimental development.
+[105] From paragraphs 37(11) and 37(12), it is clear that if a taxpayer does not file its Form T661 containing the prescribed information within 12 months after the taxpayer’s filing-due date for the year, the taxpayer will not be entitled to claim the expenditures incurred in respect of SR&ED.
+[106] Ms. Grant from the CRA and Mr. Tuli testified as to whether the appellant filed the prescribed information, namely the scientific report, with its Form T661 for the 2010 taxation year by September 30, 2011.
+Ms. Grant [107] At the time of the trial, Ms. Grant was a Litigation Officer with the Appeals Division of the CRA.
+[108] In 2012, she was working for the Appeals Division of the CRA but as an Objection Officer. In that position, her role was to review the Notice of Objection and to either confirm the assessment, or allow the objection.
+[109] She testified that when she received the Notice of Objection, she noticed that there was no attachment to the Form T661. She decided to confirm the assessment. In her testimony, she stated:
+So on the T661, there was supposed to be attachments and it specifically said, “see attached” and that attachment was missing. Therefore, the T661 form was not deemed to be filed with the required attachment.
+[110] In making her decision to confirm the assessment, Ms. Grant also relied on a letter dated November 30, 2011 from the father of Mr. Tuli, Mr. L.S. Tuli (Mr. Tuli Senior), to the Quebec Revenue Agency (“QRA”).This letter was forwarded by the QRA to the CRA on January 25, 2012. In the letter, Mr. Tuli Senior wrote as follows:
+30.11.2011
+To,
+The Assessing Officer
+Ministry of Revenue Quebec
+MONTREAL
+Ref: 1. Business Number XXXXXXXX
+2. NEQ: XXXXXXXX
+3. Tax Year End – March 31, 2010
+Dear Sir,
+As required by you, we are again filing the Scientific Report as required with T661 for claiming the Tax credit for SR&ED for the year ending 31st March, 2010. The return was duly filed on 30th September, 2011.
+You are very kindly requested to kindly allow our claim for SR&ED in light of the above.
+Thanks
+L.S. Tuli
+Authorized Person
+[111] Ms. Grant was of the view that this letter confirmed her position that the appellant was late in filing its prescribed information with the CRA, since the appellant was facing the same late filing issue with the QRA.
+[112] Ms. Grant stated that she excluded the hypothesis that the scientific report may have been separated from the Form T 661 by the CRA. She was of the view that it was more likely that the report had not been filed.
+[113] Ms. Grant did not seem to be aware of the letter dated November 30, 2011, sent by Mr. Tuli Senior to the CRA. In that letter, Mr. L.S. Tuli stated the following with respect to the filing of the scientific report:
+30.11.2011
+To,
+The Assessing Officer
+Canada Revenue Agency
+MONTREAL
+Ref: 1. Business Number XXXXXXXX
+2. Tax Year End – March 31, 2010
+3. Your letter Dt. 25th November, 2011 (Corporation Notice of Assessment)
+Dear Sir,
+We are in receipt of your above mentioned Assessment wherein you have disallowed our claim for Scientific Research (SR&ED) on the basis that ‘the prescribed Form T661 was not filed within 12 months after the filing due date of our Income Tax Return’.
+We are enclosing herewith the copy of receipt of return evidencing that the return was filed on September, 30th, 2011 at 16:16 hrs.
+You are very kindly requested to kindly allow our claim for SR&ED as we had filed the return in time.
+Thanks
+L.S. Tuli
+Authorized Person
+[114] Ms. Grant could not explain why the copy of the receipt of return was not attached to the above letter. She could not tell where the copy of the receipt was.
+Mr. Tuli [115] Mr. Tuli stated that he wrote the scientific report for the 2010 taxation year. Since it was the last day for the appellant to claim the SR&ED ITC, Mr. Tuli stated that they put everything in a sealed envelope provided by the accountants, and then had one of the accountants deliver the envelope to the CRA.
+[116] The appellant’s T2 Corporate Income Tax Return was stamped by the CRA as having been received on September 30, 2011 at 4:16 pm. The appellant introduced the return and the scientific report that it claimed accompanied the return as an exhibit. Every page of the return was stamped. However, the scientific report was not stamped.
+[117] Not having delivered the documents to the CRA, Mr. Tuli could not explain why the scientific report was not stamped by the CRA. He stated, however, that the appellant would never have filed the return without the scientific report.
+[118] Mr. Tuli stated that they filed five or six SR&ED ITCs every year and always did it the same way, namely that they filed the Form T661 and the scientific report with the T2 return. Although in 2010, Mr. Tuli admitted that he only filed the SR&ED ITC for the appellant.
+Discussion [119] It is important to note that the parties introduced little evidence on the issue of timeliness and what little evidence they did introduce was largely hearsay evidence. That being said, I find it difficult to understand why the appellant would have filed the Form T661 without the scientific report. An analysis of the appellant’s T2 return for 2010 showed that the appellant had incurred a loss from its operations; the SR&ED ITC was therefore a major incentive for the appellant.
+[120] It would also be somewhat unusual for someone like Mr. Tuli, who was well aware of the requirements for filing SR&ED claims, to miss the time limit for filing the appellant’s claim. Mr. Tuli stated that he had the T2 return and the scientific report delivered by hand by his accountant, since that was the last day. In addition, Mr. Tuli stated that the T2 return would never have been filed without the scientific report.
+[121] Mr. Tuli was a credible witness and I have no reason to doubt his testimony on this point. On the other hand, I do not understand why the accountant who delivered the documents to the CRA on September 30, 2011 on behalf of the appellant was not called to testify as to the contents of the documents that he or she filed with the CRA. No explanation was offered by the appellant as to why the accountant did not testify.
+[122] The respondent introduced in evidence two letters both dated November 30, 2011 from Mr. Tuli Senior, one addressed to the CRA and the other to the QRA that seem to indicate that the T661 and the scientific report were filed with the T2 return.
+Letter to the CRA. We would like to put on record that the above condition was duly met and we had filed the Form T661 along with our T2 on 30th September, 2011 which was the last date for filing of Form T661 for a claim for SR&ED.
+Letter to the QRA. As required by you, we are again filing the Scientific Report as required with T661 for claiming the Tax credit for SR&ED for the year ending 31st March, 2010. The return was duly filed on 30th September, 2011.
+[123] The respondent submits that the letter to the QRA supports its position that the scientific report was not filed with the appellant’s Quebec return and it follows the appellant’s CRA return. I do not agree with that interpretation of the letter. In my view, the word “again” used in the letter indicates that the appellant had already filed its scientific report with the QRA and using the respondent’s logic was timely in filing with the CRA. In any event, it is hearsay evidence as Mr. Tuli Senior was not called as a witness at trial.
+[124] In addition, it cannot be said that there is no possibility that the CRA did not separate the scientific report from the T2 return by the time that the appellant’s paper file was transferred to the Appeals Division and it was reviewed by Ms. Grant. At trial, there was an example where the CRA had separated documents. The copy of the receipt of the T2 return sent by the CRA to the appellant was no longer with the letter of November 30, 2011 from Mr. L.S. Tuli to CRA.
+[125] I find unusual that the counsel for the respondent submitted that the appellant was advised by CRA by way of letter that the Form T661 did not include the scientific report, but did not file in evidence the said letter. Mr. Tuli stated that the appellant never received this letter.
+[126] In summary, Mr. Tuli is asking me to believe his version of the facts, namely that the appellant would never file his T2 return and the Form T661 without the scientific report. He had the documents hand delivered to CRA to ensure that the time limits were met, since it was the last day for filing the Form T661 with the scientific report. On the other hand, the respondent relied on the two letters from Mr. Tuli Senior to show that the appellant was late in filing its scientific report. The tenor of the two letters does not support this finding. The respondent also relied on Ms. Grant’s testimony; I find her testimony not determinative. She did not take into account the possibility that the scientific report could have been separated by the time the documents were forwarded to her. In addition, the letter of Mr. Tuli Senior to QRA was not relevant in her determination. As I stated earlier, Mr. Tuli Senior was not called as a witness. In addition, Mr. Tuli stated that in the past they did not file a scientific report with QRA since it do not audit SR&ED.
+[127] As stated by the parties, in this appeal, the question as to whether the scientific report was filed within the time limits must be decided according to the balance of probabilities. This is not an easy call, since most of the evidence submitted by both parties was hearsay evidence. In light of the facts that Mr. Tuli was a credible witness and I do not have any reasons to doubt his testimony, I decided to give the benefit of the doubt to the appellant and accept that the scientific report was filed with the T661 on September 30, 2011.
+Disposition [128] The appeal is allowed with costs against the respondent.
+Signed at Ottawa, Canada, this 31st day of March 2015.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2015 TCC 77
+COURT FILE NO.:
+2012-3634(IT)G
+STYLE OF CAUSE:
+6379249 CANADA INC. v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+September 3, 4 and 11, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+March 31, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Aaron Rodgers
+Firm:
+Garfinkle Nelson-Wiseman Bilmes Rodgers
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I will refer to Mr. Tuli and his team of engineers and technicians as Mr. Tuli.

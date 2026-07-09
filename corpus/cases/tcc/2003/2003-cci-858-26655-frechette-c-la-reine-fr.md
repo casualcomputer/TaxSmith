@@ -1,0 +1,152 @@
+---
+title: "Frechette c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26655/index.do"
+last_modified: "2003-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 858"
+citation2: ""
+neutral_citation: "2003 CCI 858"
+decision_date: "2003-12-12"
+language: "fr"
+item_id: "26655"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3597
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:24:12.419000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a723796485ee63a7d800d40d21400821b632bf7d17d5c90475e2ad1ca7949758"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Frechette c. La Reine
+
+- Citation: 2003 CCI 858
+- Decision date: 2003-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3597, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Frechette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-12
+Référence neutre
+2003 CCI 858
+Numéro de dossier
+2003-2680(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2680(IT)I
+ENTRE :
+GAÉTAN FRÉCHETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 6 novembre 2003 à Trois-Rivières (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1999 et 2000 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Edmundston, Canada, ce 12e jour de décembre 2003.
+« François Angers »
+Juge Angers
+Référence : 2003CCI858
+Date : 20031212
+Dossier : 2003-2680(IT)I
+ENTRE :
+GAÉTAN FRÉCHETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'appels de cotisations pour les années d'imposition 1999 et 2000 de l'appelant. Le ministre du Revenu national a établi des nouvelles cotisations pour ces deux années par la méthode de l'avoir net, l'appelant ayant perdu ses registres et autres documents lorsque le feu a détruit sa résidence en septembre 2001.
+[2] L'appelant n'a pas contesté dans son avis d'appel le résultat de la vérification selon l'avoir net par suite de laquelle ont été ajoutées à ses revenus pour les années d'imposition en litige les sommes de 26 019 $ et de 36 608 $ respectivement. Son avis d'appel concerne uniquement l'imposition d'une pénalité pour chacune de ces années. Il a d'ailleurs admis toutes les hypothèses de fait sur lesquelles le ministre s'est fondé pour établir les nouvelles cotisations. Au début de l'audience, il a réitéré sa position, sauf que la preuve présentée ne s'est pas limitée à la question des pénalités et a donc soulevé des questions concernant le résultat de la vérification.
+[3] L'appelant exploite une entreprise agricole spécialisée dans l'élevage de bovins et de brebis. En produisant ses déclarations de revenus pour les années en litige, l'appelant a déclaré des revenus bruts de 86 407 $ pour 1999 et de 85 920 $ pour 2000. Après avoir soustrait de ses revenus les pertes nettes et après avoir fait un rajustement facultatif de l'inventaire de l'année, ses revenus nets d'agriculture se sont chiffrés à 7 027 $ pour l'année 1999 et à 9 807 $ pour l'année 2000.
+[4] Comme l'appelant n'avait plus de documents et de registres comptables, la vérificatrice a obtenu de tiers, avec l'autorisation de l'appelant, les montants d'actifs et de passifs attribuables à l'appelant pour chacune des années en litige. L'analyse de cette information a conduit à l'ajout des sommes de 26 019 $ et de 36 608 $ respectivement aux revenus déjà déclarés de l'appelant pour chacune des années d'imposition en litige.
+[5] L'appelant, qui utilisait la méthode de la comptabilité de caisse pour calculer ses revenus d'agriculture, a fait le choix, pour chacune des années en litige, d'ajouter à son revenu un rajustement facultatif de l'inventaire, et il a accepté les modifications apportées par le ministre à ce rajustement.
+[6] Les pénalités ont donc été calculées sur les sommes de 26 019 $ et de 36 608 $ non déclarées par l'appelant ajoutées à ses revenus pour les deux années d'imposition en litige.
+[7] Les questions concernant le résultat de la vérification qui ont été soulevées à l'audience ont rapport à deux prêts que l'appelant aurait consentis à ses enfants. Le premier prêt de 10 500 $, remonterait au 1er mai 1993 et aurait été fait à sa fille. Le deuxième prêt, de 13 800 $, aurait été fait à son fils le 1er juin 1996.
+[8] L'appelant a témoigné que chacun de ces prêts lui a été remboursé en totalité durant les deux années d'imposition en litige. Le prêt consenti à sa fille lui aurait été remboursé en versements dont le montant variait mais qui totalisaient 5 000 $ en 1999 et 5 500 $ en 2000. La pièce A-1 déposée par l'appelant contient les détails de ces remboursements. Le premier chiffre du paiement de mars 1999 pourrait être soit un deux ou un huit. Selon le ministre, il s'agirait d'un deux, de sorte que seulement 9 900 $ aurait été remboursé. S'il s'agit d'un huit, le plein montant du prêt a été remboursé, ce qui est d'ailleurs ce que prétend l'appelant.
+[9] En ce qui concerne le prêt au fils, il a été remboursé en deux versements, soit un de 5 500 $ fait le 9 novembre 1999 et un autre de 8 300 $ fait le 8 décembre 2000. L'appelant a expliqué que son fils a utilisé cet argent pour faire l'achat d'une maison. À la suite de difficultés matrimoniales, il aurait vendu la maison et en aurait acheté une autre qu'il aurait revendue. Durant les années en litige, le fils demeurait chez l'appelant et aurait ainsi réussi à ramasser l'argent nécessaire au remboursement. Quant au prêt à la fille de l'appelant, ce sont elle et son conjoint qui ont remboursé l'argent.
+[10] L'appelant a témoigné s'être servi de l'argent de ces remboursements de prêts pour l'entretien et la constuction de ses bâtiments de ferme. Il n'a déposé l'argent dans aucun compte de caisse populaire ou de banque. La seule preuve de la réception de cet argent est les deux états de compte de la pièce A-1.
+[11] En contre-interrogatoire, l'appelant a admis qu'aux fins de l'impôt, il évaluait de façon approximative son stock de bétail et sa machinerie et communiquait cette information à son comptable. Il avait aussi fait part de cette façon de faire à la vérificatrice. Il a expliqué que l'augmentation substantielle de ses stocks à partir de l'année 1999 était due à son acquisition de moutons durant cette année et aussi à l'achat de machinerie agricole. Quoique ces explications puissent justifier cette augmentation, les chiffres obtenus du comptable de l'appelant sont loin de la justifier. En effet, en 1999, les achats de bétail totalisent seulement 3 100 $.
+[12] La conjointe de l'appelant a expliqué, sans toutefois fournir de précisions, que la valeur marchande du bétail pouvait varier de façon importante d'une année à l'autre. Elle a confirmé que les prêts aux enfants avaient été remboursés dans les deux années en litige et que ceux-ci avaient la capacité financière de faire ces remboursements.
+[13] La vérificatrice responsable du dossier de l'appelant était madame Nancy Geoffrion. Cette dernière a brièvement expliqué les démarches qu'elle a entreprises pour faire ses calculs de l'écart de l'avoir net. Elle a précisé que l'augmentation de la valeur des stocks est ce qui, avec la façon dont on évaluait les stocks - c'est à dire qu'il n'y avait pas de méthode précise, de sorte que leur valeur était déterminée selon des données approximatives -, a le plus attiré son attention. Pour 1999, la valeur des stocks indiquée était un chiffre rond de 100 000 $. Madame Geoffrion a obtenu son information de tiers et a reçu de l'appelant les chiffres qui lui ont permis d'évaluer les dépenses personnelles de celui-ci.
+[14] Durant l'entrevue de madame Geoffrion avec l'appelant, ce dernier ne lui a pas mentionné les remboursements des prêts faits aux enfants.
+[15] L'agent des appels, madame Claude Rony, a, de son côté, été informée des remboursements de ces prêts. Elle a donc obtenu les relevés bancaires des enfants pour l'année 2000. Selon l'information qu'ils contiennent, il n'y aurait pas eu suffisamment d'argent dans le compte de la fille pour justifier un remboursement de 5 500 $ en l'an 2000.
+[16] En ce qui concerne le compte en banque du fils, madame Rony a constaté que ce dernier avait fait, à différents moments de l'année, plusieurs retraits successifs de 100 $ avec sa carte de débit, qu'il les avait faits durant la nuit, à des intervalles variant de 20 minutes à une heure, et que ces retraits avaient totalisé 8 000 $ pour l'année. Cependant, elle se demande si ces retraits peuvent expliquer un remboursement de 8 300 $ en argent comptant effectué le 8 décembre 2000.
+[17] Madame Rony s'est également fait dire par l'appelant, lors d'une entrevue, que le prêt à son fils était pour ses études. Il ne lui a jamais fait mention d'un prêt pour l'achat d'une maison.
+[18] Le ministre pouvait-il donc à juste titre, en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu( « la Loi » ), imposer une pénalité sur les revenus additionnels d'agriculture pour chacune des années en litige? De plus, dois-je prendre en considération les remboursements des prêts faits aux enfants?
+[19] Sur cette dernière question, la preuve produite par l'appelant est insuffisante pour me permettre de conclure que ces remboursements devraient avoir un impact sur le calcul de l'écart de l'avoir net. Il me paraît étrange que de tels remboursements n'aient pas été dévoilés à madame Geoffrion au stade de la vérification, d'autant plus qu'il s'agissait d'une vérification par la méthode de l'avoir net. En fait, ce n'est qu'en parlant à l'agent des appels que l'appelant a soulevé la question du remboursement de prêts faits aux enfants pour leurs études. Au procès, il a parlé plutôt d'un prêt fait au fils pour l'achat d'une maison.
+[20] Cette première contradiction combinée avec la preuve présentée par l'intimée au sujet de la capacité de payer des enfants, et plus particulièrement celle du fils, soulève un doute sur la vraisemblance de toute cette histoire. Les retraits successifs d'argent par carte de débit faits durant la nuit et échelonnés sur une période d'une année peuvent difficilement être rattachés à un versement en argent comptant de 8 300 $ effectué le 8 décembre 2000 pour rembourser un prêt. Il en va de même dans le cas de la fille, qui, selon l'agent des appels, n'aurait pas eu les moyens financiers de rembourser 5 500 $ en 2000.
+[21] Le témoignage des enfants aurait pu éclaircir certains doutes sur cette histoire. Dans son ensemble, la preuve est insuffisante pour me permettre de conclure que le remboursement des prêts en question peut avoir un impact sur le calcul de l'écart de l'avoir net. L'appelant ne s'est pas acquitté du fardeau qui lui incombait à cet égard.
+[22] Il incombe par ailleurs à l'intimée d'établir selon la prépondérance des probabilités que l'imposition d'une pénalité est justifiée en l'espèce. Le paragraphe 163(2) de la Loi se lit comme suit :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants [. . .]
+[23] La notion de faute lourde a été expliquée par le juge Strayer dans la décision Venne c. Canada, [1984] A.C.F. no 314 (Q.L.) (C.F., 1re inst.), où il dit :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [...]
+[24] En l'espèce, la preuve démontre clairement que la valeur des stocks était basée sur des approximations, de sorte que les rajustements facultatifs du stock d'animaux étaient faits sans tenir compte de la véritable juste valeur marchande de ce stock. De plus, l'appelant, au moment de la préparation de ses déclarations de revenus pour les années en litige, avait ses documents en sa possession mais a quand même utilisé des valeurs approximatives. La juste valeur marchande a, en raison des dispositions de l'article 28 de la Loi, son importance dans le calcul du revenu d'un contribuable tiré d'une entreprise agricole.
+[25] Pour les deux années en litige, l'inventaire n'a pas été fait avec soin, ce qui dénote une indifférence au respect de la Loi, et cela constitue, à mon avis, un cas de négligence du genre évoqué par le juge Strayer dans la décision Venne.
+[26] Il ne faut pas négliger l'importance de l'écart entre les revenus établis par la méthode de l'avoir net et les revenus initialement déclarés par l'appelant. Même si l'appelant confiait à son comptable la tâche de préparer ses déclarations de revenus, il n'était pas sans connaître l'importance de lui fournir des chiffres et des valeurs exacts et des renseignements appropriés. Pour ces raisons, je conclus que l'intimée a établi selon la prépondérance des probabilités que l'imposition d'une pénalité pour chacune des années en litige est justifiée.
+[27] Les appels sont donc rejetés.
+Signé à Edmundston, Canada, ce 12e jour de décembre 2003.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2003CCI858
+No DU DOSSIER DE LA COUR :
+2003-2680(IT)I
+INTITULÉ DE LA CAUSE :
+Gaétan Fréchette et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+le 6 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 12 décembre 2003
+COMPARUTIONS :
+Pour l'appelant(e) :
+L'appelant lui-même
+Pour l'intimé(e) :
+Me Claude Lamoureux
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

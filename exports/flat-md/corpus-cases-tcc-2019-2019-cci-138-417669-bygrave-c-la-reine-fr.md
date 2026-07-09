@@ -1,0 +1,208 @@
+---
+title: "Bygrave c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/417669/index.do"
+last_modified: "2019-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 138"
+citation2: ""
+neutral_citation: "2019 CCI 138"
+decision_date: "2019-06-25"
+language: "fr"
+item_id: "417669"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4377
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:15:06.156000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "46af58910d7648605b7e5fee74636810e701a4602cd9f1ab6e4dfa328e3007f5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bygrave c. La Reine
+
+- Citation: 2019 CCI 138
+- Decision date: 2019-06-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4377, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bygrave c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-06-25
+Référence neutre
+2019 CCI 138
+Numéro de dossier
+2016-2201(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2201(IT)I
+ENTRE :
+STEPHEN BYGRAVE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 mars 2019, à Toronto (Ontario)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Avocat de l’appelant :
+Me Glenroy K. Bastien
+Avocat de l’intimée :
+Me Derek Edwards
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie aux termes de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est accueilli sans dépens, et la nouvelle cotisation établie par le ministre du Revenu national le 18 décembre 2014 est annulée.
+Signé à Toronto (Ontario), ce 25e jour de juin 2019.
+« Susan Wong »
+La juge Wong
+Référence : 2019 CCI 138
+Date : 20190625
+Dossier : 2016-2201(IT)I
+ENTRE :
+STEPHEN BYGRAVE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction
+[1] L’appelant, Stephen Bygrave, interjette appel de la nouvelle cotisation établie par le ministre du Revenu national le 12 janvier 2016 pour son année d’imposition 2010. Dans cette nouvelle cotisation, le ministre a inclus un revenu d’entreprise net non déclaré de 13 412 $ et a imposé des pénalités pour faute lourde au titre du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la Loi).
+[2] La nouvelle cotisation découle de la vente en 2010, par l’appelant, d’un logement en copropriété, étant l’appartement 214 du 8, Maison Parc à Vaughan, en Ontario (la propriété).
+[3] L’appelant et son frère, Patrick Bygrave, ont témoigné pour le compte de l’appelant. Personne n’a témoigné pour le compte de l’intimée.
+Questions en litige
+[4] Les questions soumises à notre Cour sont les suivantes :
+(i) déterminer si le gain de 13 412 $ tiré de la vente constituait un revenu d’entreprise provenant d’un projet à risques de caractère commercial ou un gain en capital;
+(ii) déterminer si le gain constituait un revenu d’entreprise et si les pénalités imposées au titre du paragraphe 163(2) étaient appropriées dans les circonstances.
+Critère
+[5] La question de savoir si le gain tiré de la vente d’un bien immobilier est imputable au revenu ou au capital est une question de fait.
+[6] De manière générale, la Cour devrait tenir compte des circonstances, et particulièrement de l’intention.
+[7] Les arrêts Friesen c. Canada, [1995] 3 RCS 103, Canada Safeway Limited c. Canada, 2008 CAF 24, 2008 DTC 6074 et Happy Valley Farms Ltd v. Her Majesty the Queen (1986), 7 FTR 3 sont souvent cités pour les facteurs à considérer.
+[8] La Cour suprême du Canada a relevé la liste des facteurs énoncés dans le Bulletin d’interprétation IT‑218R du ministre du Revenu national et a reformulé la plupart d’entre eux de la façon suivante, au paragraphe 17 de l’arrêt Friesen :
+(i) L’intention du contribuable relativement au bien immeuble au moment de l’achat, ses possibilités de réalisation et la mesure dans laquelle cette intention est réalisée. L’intention de revendre la propriété avec bénéfice la rendra plus susceptible d’être qualifiée de projet comportant un risque de caractère commercial.
+(ii) La nature de l’entreprise, de la profession, du métier ou de l’occupation du contribuable et des associés. Plus l’entreprise ou la profession d’un contribuable est liée aux transactions immobilières, plus il est probable que le revenu réalisé sera considéré comme un revenu tiré d’une entreprise plutôt que comme un gain en capital.
+(iii) La nature du bien et l’usage qu’en fait le contribuable.
+(iv) La mesure dans laquelle l’argent emprunté a servi à financer l’acquisition du bien immeuble et la période pendant laquelle le bien immeuble a été détenu par le contribuable. Les opérations impliquant emprunt et revente rapide sont plus susceptibles d’être des projets comportant un risque de caractère commercial.
+[9] En ce qui concerne l’intention, la Cour suprême du Canada a également déclaré qu’un projet à risques de caractère commercial exige d’abord l’existence d’un [traduction] « plan visant la réalisation d’un bénéfice » et qu’il doit y avoir une intention légitime de tirer un profit de l’opération en question : voir l’arrêt Friesen, au paragraphe 16.
+[10] Toujours en ce qui a trait à l’intention, la Cour d’appel fédérale s’est exprimée en ces termes :
+[...] bien que les tribunaux appliquent divers facteurs, à savoir ceux qui sont énumérés dans le bulletin d’interprétation IT‑218R, pour déterminer si une opération constitue un projet comportant un risque de caractère commercial ou une opération en capital, le facteur le plus déterminant est l’intention qu’avait le contribuable au moment de l’acquisition du bien. Si cette intention révèle l’existence d’un plan visant la réalisation d’un bénéfice, le tribunal conclura que l’opération répond à la définition de projet comportant un risque de caractère commercial.
+(Voir Canada Safeway Limited, au paragraphe 43)
+[11] Dans la décision Happy Valley Farms Ltd., la Section de première instance de la Cour fédérale a examiné l’« intention secondaire », et a reproduit le résumé suivant du critère énoncé dans la décision Racine et al v. Minister of National Revenue, [1965] D.T.C. 150 :
+[…] le seul fait qu’une personne achetant une propriété dans le but de l’utiliser à titre de capital pourrait être induite à la revendre si un prix suffisamment élevé lui était offert n’est pas suffisant pour changer une acquisition de capital en une initiative d’une nature ou caractère commercial. Ce n’est pas en effet ce que l’on doit entendre par une “intention secondaire” si l’on veut utiliser cette phraséologie.
+Pour donner à une transaction qui comporte l’acquisition d’un capital le double caractère d’être aussi en même temps une initiative d’une nature commerciale, l’acquéreur doit avoir, au moment de l’acquisition, dans son esprit, la possibilité de revendre comme motif qui le pousse à faire cette acquisition: c’est-à-dire qu’il doit avoir dans son esprit l’idée que si certaines circonstances surviennent il a des espoirs de pouvoir la revendre à profit au lieu d’utiliser la chose acquise pour des fins de capital. D’une façon générale, une décision qu’une telle motivation existe devrait être basée sur des inférences découlant des circonstances qui entourent la transaction plutôt que d’une preuve directe de ce que l’acquéreur avait en tête.
+(Voir Happy Valley Farms Ltd., au paragraphe 16)
+Contexte factuel
+1) L’appelant
+[12] L’appelant est un opérateur de véhicules de transport en commun employé par la Commission de transport de Toronto, où il travaille depuis mai 2005. Son frère Patrick effectue également le même travail auprès du même employeur depuis 2006.
+[13] L’appelant a obtenu son diplôme d’études secondaires aux environs de 1988. Quelques années plus tard, il a terminé la formation nécessaire à l’obtention d’un grade d’associé auprès d’un collège biblique en ligne, mais il n’a pas poursuivi le processus visant l’obtention du diplôme. Il a ensuite suivi des cours dans le cadre du programme de musique de l’Université York, où il a également suivi certains cours généraux en science. À l’heure actuelle, il étudie au programme de baccalauréat en commerce de l’Université York, dans le cadre duquel il suit un cours par semestre tout en continuant à travailler à temps plein à la Commission de transport de Toronto.
+[14] Avant de se joindre à son employeur actuel, pendant deux ou trois ans, l’appelant a travaillé au service à la clientèle de la General Motors Acceptance Corporation (comme on l’appelait à l’époque). Il a également travaillé comme pasteur auprès des jeunes pendant quelques années, et a occupé divers emplois à court terme par l’intermédiaire d’agences de placement temporaire.
+2) 310, avenue Cranston Park
+[15] L’appelant a acheté cette maison de ville située à Vaughan, en Ontario, aux environs de 1998 et a déclaré qu’il s’agissait de la première propriété qu’il achetait. Patrick Bygrave a déclaré avoir contribué au versement initial à hauteur de 7 000 $. L’appelant a indiqué que leur cousine, Doris Simpson, avait cosigné la convention d’achat, et qu’aux fins du crédit, elle détenait un pour cent de la propriété. Il a mentionné que le nom de Mme Simpson figurait sur le titre, avec le sien, mais que selon l’entente, son frère et lui seraient propriétaires à parts égales du 310, avenue Cranston Park, tandis que leur cousine n’aurait pas un intérêt continu dans la propriété. Patrick a déclaré que lui et l’appelant partageaient l’ensemble des dépenses du ménage, y compris les versements hypothécaires, à parts égales.
+[16] L’appelant a affirmé que lui et Patrick vivaient sous le même toit depuis l’enfance et qu’ils ont tous deux emménagé au 310, avenue Cranston Park, en 1999. Ils ont tous deux décrit cette propriété comme étant une maison de ville de deux étages comprenant trois chambres à coucher et un sous-sol non fini.
+[17] Lorsqu’ils vivaient au 310, avenue Cranston Park, Patrick Bygrave a rencontré une femme aux alentours de 2003 et l’a épousée en avril 2007. Son épouse a emménagé au 310, avenue Cranston Park, ils ont eu un enfant en février 2008 et ont tous les trois continué à habiter à cet endroit.
+[18] En décembre 2008, le père de l’appelant et de Patrick est décédé en Jamaïque (pièce A-1, onglet 7). Patrick a déclaré que leurs parents s’étaient rencontrés en Jamaïque, qu’ils s’étaient mariés au Canada en 1965 ou 1966 et qu’ils avaient vécu au Canada par la suite. Il a indiqué qu’au moment de leur retraite, ses parents ont acheté une maison en Jamaïque en 2005 ou en 2006 et qu’ils y avaient passé six mois chaque année. Il a souligné qu’au moment où leurs parents sont arrivés au Canada, ils vivaient au 310, avenue Cranston Park. Le fait que l’adresse de leurs parents était le 310, avenue Cranston Park depuis 1999, aux fins du calcul de l’impôt sur le revenu, constitue également une présomption de fait n’ayant pas été réfutée [réponse à l’avis d’appel, au paragraphe 9(n)].
+[19] L’appelant a déclaré qu’après le décès de leur père, leur mère ne se sentait pas en sécurité de vivre seule en Jamaïque, et elle s’est installée définitivement au 310, avenue Cranston Park aux environs de mars 2009. Il a souligné que Patrick et sa famille partageaient la chambre principale, tandis que sa mère et lui occupaient chacun une des deux autres chambres.
+[20] Il a de plus déclaré avoir refinancé l’hypothèque grevant le 310, avenue Cranston Park en vue d’acquérir la part de Patrick dans cette propriété, mais qu’il n’a rien versé à leur cousine Doris. Patrick a déclaré qu’il a alors utilisé les fonds pour acheter une maison pour sa propre famille, au 1749, rue Angus, à Innisfil (Ontario), aux environs de septembre 2009.
+3) 8, Maison Parc Court, Suite 214 (la propriété)
+[21] Selon l’appelant, en 2005 ou en 2006, Patrick et lui se sont mis à discuter de la possibilité d’emprunter des chemins séparés en raison des changements survenus dans la situation personnelle de Patrick. L’appelant a déclaré vouloir vendre la propriété située au 310, avenue Cranston Park et emménager dans une maison plus petite et plus proche de son lieu de travail.
+[22] Il a décrit la propriété comme étant un appartement de deux chambres à coucher sur un seul étage, et qu’elle était plus petite que la maison du 310, avenue Cranston Park.
+[23] Il a déclaré qu’en 2006, il a présenté une offre d’achat de la propriété qui était, à ce moment-là, à l’étape préalable à la construction (pièce R-1, onglet 16). La date d’occupation envisagée de la propriété était le 27 avril 2008, mais les 15 juin 2007, 30 avril 2008 et 2 septembre 2009, le constructeur a avisé l’appelant qu’il reportait la date d’occupation au 27 novembre 2008, au 1er août 2009 et au 28 octobre 2009, respectivement (pièce A-1, onglets 17, 18 et 19).
+[24] En contre-interrogatoire, lorsqu’on a demandé à l’appelant s’il avait eu le temps de planifier ces événements, il a répondu qu’au moment où sa mère a emménagé avec lui, il n’avait pas encore pris possession de la propriété, mais qu’il savait qu’elle serait trop petite. Il a déclaré que ses plans avaient changé : il allait plutôt vendre la propriété au lieu de celle située au 310, avenue Cranston Park. Il a soutenu que la propriété située au 310, avenue Cranston Park comportait plusieurs étages : outre une chambre à coucher à l’étage principal, il y avait les chambres du deuxième étage et un sous-sol non fini avec un espace pour faire de l’exercice.
+[25] Le 10 août 2010, l’appelant a pris possession de la propriété et en est devenu le propriétaire inscrit. Il a indiqué que, même si la décision de vendre avait été prise en 2009, il n’avait fait aucune démarche pour vendre la propriété avant la conclusion de la vente. Il a déclaré qu’un agent immobilier lui avait dit que la meilleure chose à faire était d’attendre que le titre soit enregistré à son nom avant d’agir.
+[26] Il a de plus soutenu qu’après avoir pris possession de la propriété, il a immédiatement pris des mesures pour la mettre en vente. Il a indiqué que dans l’intervalle, personne n’y vivait. En octobre 2010, il a conclu une convention d’achat-vente (pièce A-1, onglet 6) dont la date de clôture avait été fixée au 19 novembre 2010. L’appelant a vendu la propriété pour 343 000 $, donnant lieu à un gain net de 13 412 $.
+[27] L’appelant et son frère, Patrick Bygrave, ont déclaré qu’en mai 2014, leur mère a emménagé avec Patrick dans sa maison de la rue Angus afin de s’occuper de son petit-enfant après l’échec du mariage de Patrick.
+[28] L’appelant habite toujours au 310, avenue Cranston Park.
+Application du critère
+1) Intention
+[29] L’appelant a mentionné avoir acheté la propriété avec l’intention d’y habiter après le départ de son frère de la résidence qu’ils partageaient au 310, avenue Cranston Park. Lorsque leur père est décédé et que leur mère a souhaité revenir au Canada pour y vivre de façon permanente, l’appelant a déclaré qu’il avait changé ses projet de déménager pour que sa mère puisse vivre avec lui dans la maison du 310, avenue Cranston Park, qui était plus grande. Dans son témoignage, il a affirmé qu’il n’avait pas les moyens de garder les deux maisons; il a donc vendu la propriété peu de temps après l’avoir achetée. Il a indiqué que n’eût été du décès de son père et du retour de sa mère au Canada, il aurait poursuivi son projet de vendre la maison du 310, avenue Cranston Park et d’habiter dans la propriété comme lieu de résidence principale.
+[30] L’appelant a présenté une copie du Relevé de la sécurité de la vieillesse, relevé T4A (OAS), de sa mère pour l’année d’imposition 2013 (pièce A-1, onglet 10), établissant que l’adresse de sa mère était le 310, avenue Cranston Park. Il a également présenté une copie de la confirmation de la rente du HOOPP (Healthcare of Ontario Pension Plan) datée du 16 mars 2011, adressée à sa mère au 310, avenue Cranston Park.
+[31] L’appelant a subi un interrogatoire principal au sujet de la reproduction d’un avis de cotisation à l’égard de l’année d’imposition 2005 de sa mère (pièce A­1, onglet 12) sur lequel figure le 1749, rue Angus Street (la maison familiale de Patrick) comme étant l’adresse de sa mère.
+[32] Il a fait référence à une note au bas de l’avis de cotisation indiquant que l’avis avait été communiqué conformément à l’article 241 de la Loi de l’impôt sur le revenu, et que la date de la note était le « 2016-04-05 ». Dans son témoignage, il a mentionné qu’il a par la suite téléphoné aux bureaux de l’Agence du revenu du Canada pour s’enquérir de l’adresse de sa mère figurant sur l’avis et qu’on lui a dit que le système de l’Agence inscrivait automatiquement les adresses actuelles des contribuables dans les documents.
+[33] Il a indiqué qu’après confirmation du ministre de la nouvelle cotisation pour l’année 2010, en janvier 2016, il a commencé à demander des copies des documents fiscaux auprès de l’Agence en vue de préparer son appel devant la Cour canadienne de l’impôt. En plus de l’avis de cotisation de 2005 de sa mère, on a soumis à la Cour à une reproduction de l’avis de confirmation daté du 4 mai 2016 (pièce A-1, onglet 15) et à un état de compte détaillé daté du 31 août 2016 (pièce A-1, onglet 16) à l’appui de cette explication.
+[34] Selon la prépondérance des probabilités, j’estime qu’il est fort probable qu’en 2005, l’adresse de sa mère n’était pas le 1749, rue Angus, et que son adresse actuelle avait été automatiquement inscrite dans la reproduction de son avis de cotisation de 2005 par l’Agence.
+[35] L’appelant a subi un interrogatoire principal et un contre-interrogatoire au sujet des renseignements fournis par son comptable à l’Agence, verbalement et par écrit (pièce R-1, onglet 10 ainsi qu’une note précédant l’onglet 1). Les explications fournies par son comptable relativement à la transaction et aux circonstances s’y rattachant contenaient des contradictions apparentes, notamment:
+(i) la mère de l’appelant détenait la moitié de la propriété située au 310, avenue Cranston Park;
+(ii) en tant que copropriétaire, elle devait payer sa part à l’appelant pour le 310, Cranston Park, mais n’était pas en mesure de le faire;
+(iii) l’appelant n’avait pas les moyens de garder les deux propriétés et a été contraint de vendre la propriété.
+[36] L’appelant a mentionné que son comptable avait fait ses déclarations d’impôt pendant un certain nombre d’années, et que les renseignements qu’il a fournis au sujet de sa mère étaient inexacts. Il a déclaré que le témoignage du comptable évoquait par ailleurs ses projets et ceux de son frère avant le décès de leur père. Il a mentionné que s’ils avaient vendu la propriété située au 310, avenue Cranston Park, il aurait reçu sa part du produit de la vente et l’aurait appliquée sur l’achat de la propriété. Il a également convenu qu’il était vrai qu’il n’était pas en mesure de garder les deux propriétés et qu’il avait été contraint de vendre la propriété. En ce qui a trait aux contradictions relevées entre le récit du comptable et son propre récit, il a déclaré que son comptable était au courant du décès de son père et du fait que sa mère emménageait chez lui. Son comptable était toutefois d’avis que ces circonstances personnelles ne devraient pas faire partie du récit fourni à l’Agence en raison de leur caractère superflu.
+[37] J’estime que l’appelant et son frère sont des témoins crédibles. Bien qu’un manque de précision peut être un indicateur de malhonnêteté, ce n’est pas toujours le cas. En l’espèce, où nous sommes en présence d’une famille très unie, le manque de précision indique davantage une aisance dans la prise de décisions lorsque surviennent des événements majeurs imprévus, soit le décès du père et la nécessité de veiller sur leur mère. Je suis d’avis que les déclarations inexactes du comptable étaient simplement des erreurs.
+[38] Selon la prépondérance des probabilités, je conclus que l’intention de l’appelant en ce qui concerne la propriété était d’y habiter et d’en faire sa résidence principale. Je conclus également que la possibilité de revente n’était pas une intention secondaire au moment où l’appelant a acheté la propriété. Je conclus que l’intention de l’appelant de vivre dans la propriété a été compromise par le décès imprévu de son père, ce qui a donné lieu à une nouvelle obligation familiale, soit celle de prendre soin de sa mère, à un changement dans ses projets personnels et à la vente de la propriété.
+[39] Par conséquent, ce facteur milite en faveur d’une conclusion selon laquelle le gain tiré de la vente est imputable au capital.
+2) Nature de l’entreprise, de la profession, du métier ou de l’occupation du contribuable et des associés
+[40] L’appelant et son frère Patrick sont tous les deux opérateurs de véhicules de transport en commun employés par la Commission de transport de Toronto depuis 2005 et 2006, respectivement. L’appelant a déclaré que la propriété située au 310, avenue Cranston Park était la première propriété qu’il avait achetée. Aucun élément de preuve ne porte à croire qu’il a acheté d’autres propriétés que la propriété et celle située au 310, avenue Cranston Park.
+[41] Avant d’obtenir un emploi auprès de la Commission de transport de Toronto, l’appelant a occupé divers emplois, dont aucun n’était étroitement lié aux transactions immobilières. Le témoignage de Patrick portant sur les emplois antérieurs comportait moins de détails, mais il a mentionné qu’il avait occupé divers petits emplois avant de se joindre à la Commission de transport de Toronto. Le certificat de décès de leur père (pièce A-1, onglet 7) indique qu’il était un ébéniste à la retraite.
+[42] Les occupations de l’appelant et de son frère ne sont pas étroitement liées aux transactions immobilières. À part les agents immobiliers qui ont pris part à l’achat de la propriété et de celle située au 310, avenue Cranston Park, aucun élément de preuve n’indique que l’appelant était associé à quiconque dans des activités de transactions immobilières. Le métier d’ébéniste de leur père est lié à l’aménagement intérieur résidentiel ou commercial, mais le lien avec les transactions immobilières est éloigné.
+[43] Par conséquent, ce facteur milite en faveur d’une conclusion selon laquelle le gain tiré de la vente est imputable au capital.
+3) La nature du bien et l’usage qu’en fait le contribuable
+[44] La propriété est un appartement résidentiel en copropriété qui s’est vendu assez rapidement après son inscription. L’appelant n’y a même jamais vécu, et l’a mise en vente immédiatement après sa prise de possession et l’acquisition de son titre de propriété, en août 2010.
+[45] Par conséquent, ce facteur milite en faveur d’une conclusion selon laquelle le gain tiré de la vente est imputable au revenu.
+4) La mesure dans laquelle l’argent emprunté a été utilisé et la période pendant laquelle le bien immeuble a été détenu
+[46] L’offre d’achat et la convention d’achat de la propriété par l’appelant sont datées de septembre 2006 (pièce R-1, onglet 16). La date d’occupation a été reportée à au moins trois reprises (pièce A-1, onglets 17, 18 et 19), et l’appelant a finalement pris possession de la propriété et acquis son titre de propriété en août 2010.
+[47] Quant à l’argent emprunté, le seul élément de preuve était le témoignage de l’appelant selon lequel il a refinancé l’hypothèque grevant la propriété située au 310, avenue Cranston Park afin d’acquérir la part de Patrick dans cette propriété, de façon à ce que ce dernier puisse, à son tour, acheter sa nouvelle maison familiale située au 1749, rue Angus.
+[48] Du mois d’août au mois de novembre 2010, l’appelant détenait les titres sur la propriété et celle située au 310, avenue Cranston Park. Aucun élément de preuve n’a été présenté quant au financement de l’achat de la propriété, mais l’appelant a déclaré qu’il n’avait pas les moyens de garder les deux propriétés.
+[49] Bien que la période entre l’acquisition du titre et la revente de la propriété ait été relativement brève (un peu plus de trois mois), la période entre la conclusion de la convention d’achat et l’acquisition du titre a été assez longue (un peu moins de quatre ans).
+[50] Par conséquent, j’estime que ce facteur est neutre.
+5) Résumé
+[51] D’après mon analyse de ces facteurs, plus particulièrement celui de l’intention, je conclus que la vente de la propriété était une transaction imputable au capital.
+Pénalités pour faute lourde
+[52] Vu mes conclusions quant à la vente en cause, les pénalités ne s’appliquent pas.
+Conclusion
+[53] Le gain de 13 412 $ réalisé par l’appelant tiré de la vente de la propriété était un gain en capital et l’appelant l’a adéquatement déclaré comme tel. Par conséquent, la nouvelle cotisation établie par le ministre du Revenu national le 18 décembre 2014 est annulée.
+[54] L’appel est accueilli sans dépens.
+Signé à Toronto (Ontario), ce 25e jour de juin 2019.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2019 CCI 138
+NO DU DOSSIER DE LA COUR :
+2016-2201(IT)I
+INTITULÉ :
+STEPHEN BYGRAVE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 mars 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 25 juin 2019
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Glenroy K. Bastien
+Avocat de l’intimée :
+Me Derek Edwards
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Glenroy K. Bastien
+Cabinet :
+Bastien’s Professional Corporation
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

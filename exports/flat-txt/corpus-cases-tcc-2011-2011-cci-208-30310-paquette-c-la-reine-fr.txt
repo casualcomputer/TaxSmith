@@ -1,0 +1,125 @@
+Title: Paquette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30310/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-208-30310-paquette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-04-18
+
+# Paquette c. La Reine
+
+- Citation: 2011 CCI 208
+- Decision date: 2011-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8078, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paquette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-18
+Référence neutre
+2011 CCI 208
+Numéro de dossier
+2010-470(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-470(IT)I
+ENTRE :
+ALEXANDRE PAQUETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 21 janvier 2011, à Ottawa (Ontario).
+Devant : L'honorable Gerald J. Rip, juge en chef
+Comparutions :
+Représentant de l'appelant :
+Michel Bédard
+Avocate de l'intimée :
+Me Marie-France Camiré
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu (« Loi ») pour l'année d'imposition 2008 est accueilli et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que la pénalité imposée en vertu du paragraphe 163(1) de la Loi est annulée.
+Signé à Ottawa, Canada, ce 18e jour d'avril 2011.
+« Gerald J. Rip »
+Juge en chef Rip
+Référence : 2011 CCI 208
+Date : 20110418
+Dossier : 2010-470(IT)I
+ENTRE :
+ALEXANDRE PAQUETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Il n'y a pas de litige quant au fait qu'Alexandre Paquette, l'appelant, a omis de déclarer un montant de 955 $ de revenu d'emploi reçu de Protect Security Services Ltd. dans l'année d'imposition 2006 et que, deux ans après, en 2008, il a omis de déclarer un montant de 18 941 $ de revenu d'emploi reçu de Greyhound Canada Transportation Corp. (« Greyhound »). Ces omissions ont eu pour conséquence qu'en vertu du paragraphe 163(1) de la Loi de l'impôt sur le revenu (« Loi »), le ministre du Revenu national (« Ministre ») a imposé une pénalité de 1 779,10 $ à l'appelant pour 2008, c'est-à-dire 10 pour 100 de 17 791 $, qui représente la différence entre la somme non déclarée en 2008 (18 941 $) et le montant de la cotisation pour régimes de pensions agréés (757 $) de la cotisation syndicale (393 $). Le litige porte sur la défense de diligence raisonnable pouvant être invoquée à l'égard du paragraphe 163(1) de la Loi, qui prévoit ce qui suit :
+Toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l'article 150 pour une année d'imposition donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d'imposition précédentes est passible d'une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d'une pénalité en application du paragraphe (2) sur ce montant.
+Every person who
+(a) fails to report an amount required to be included in computing the person's income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[2] L’appelant avait presque 30 ans à la date du procès. En 2008, l’appelant travaillait pour Greyhound à titre d’« homme de service » à Ottawa. Il travaille toujours pour Greyhound. Son travail consiste à faire le ménage dans les autocars et à vérifier le niveau d'huile des moteurs et la pression des pneus. Il réside maintenant chez son père.
+[3] Lors de son témoignage, très crédible et empreint d’une honnêteté certaine, l’appelant a expliqué qu’il a toujours eu beaucoup de difficultés en français et en mathématique et qu’il ne comprenait pas grand-chose à la fiscalité, si ce n’est que le gouvernement prélève de l’impôt sur son salaire. Son père, Michel Bédard, qui travaille aussi pour Greyhound, remplit ses déclarations de revenus depuis qu’il a commencé à travailler.
+[4] D’ailleurs, c'est M. Bédard qui représentait l’appelant lors de l’appel. Il a mis en preuve une évaluation d’une orthopédagogue faisant état des difficultés d’apprentissage de son fils et datant d’une vingtaine d’années. Malgré ces problèmes, l’appelant a pu terminer sa douzième année dans une classe adaptée. Il détient un compte Facebook et un compte courriel.
+[5] Vers le 15 avril 2009, l’appelant, par l’entremise de son père, a produit sa déclaration de revenus pour l’année 2008. La déclaration a été transmise par voie électronique. L’appelant a toujours remis à son père tous les documents pertinents tels que les feuillets T4, mais il ne lui a jamais remis ses bordereaux de paie. Le père a toujours déclaré les revenus de son fils selon les informations contenues dans les feuillets T4 qu’il avait à sa disposition.
+[6] Au moment de faire sa déclaration en 2008, l’appelant n’avait pas reçu le feuillet T4 de Greyhound faisant état d’un revenu d’emploi de 18 941,66 $. À l’hiver 2009, l’appelant a fait des demandes à son employeur pour obtenir son feuillet T4, sans succès. Il avait également fait des démarches auprès du propriétaire du logement où il habitait à l’époque. Il n’a toujours pas reçu son feuillet T4.
+[7] M. Bédard a dit qu'il savait quand il a produit la déclaration pour 2008 que le feuillet T4 de son fils avait été omis. Il a décidé de produire la déclaration de son fils avant la date d’échéance du 30 avril 2009 sans inclure le revenu d’emploi de Greyhound, se disant que l'on établirait ultérieurement une nouvelle cotisation en tenant compte du revenu en question. Il a dit qu’il n’avait pas jugé important d’inscrire ce montant de revenu puisqu’il avait déjà fait l’objet de retenues à la source. Le père n’a fait aucune démarche afin d’informer l’Agence du revenu du Canada (« ARC ») de la situation. Le père de l'appelant a témoigné que son fils n'a jamais reçu d'avis de cotisation; il attendait l'avis de cotisation. Il n'a reçu qu'un avis de nouvelle cotisation. C'est seulement après avoir reçu l'avis de nouvelle cotisation qu'il a communiqué avec l'ARC. Son fils n'était pas au courant de la situation. Les témoignages de M. Bédard et de son fils sont très crédibles et n'ont pas été contestés en contre‑interrogatoire.
+[8] L'intimée a fait valoir que l'appelant n'avait pas fait preuve de diligence raisonnable en déclarant ses revenus dans sa déclaration de revenus de 2008. Comme il a été indiqué plus haut, l'appelant reconnaît avoir omis de déclarer des revenus en 2006 et encore une fois en 2008[1]. L'intimée soutient que l'appelant a été négligent en n'informant pas son employeur de sa nouvelle adresse, ce qui a contribué au fait qu'il n'a pas reçu son feuillet T4 en temps opportun.
+[9] La Cour d'appel fédérale dans les affaires Résidences Majeau Inc. c. Canada[2] et Corporation de l'école polytechnique c. Canada[3] a dit qu'un défendeur bénéficie de la défense de diligence raisonnable s'il établit l'une ou l'autre des deux choses suivantes : soit qu'il a commis une erreur de fait raisonnable, soit qu'il a pris des précautions raisonnables pour empêcher que ne se produise l'événement qui donne naissance à la pénalité. Dans l'affaire Résidences Majeau, le juge Létourneau explique :
+8 Selon l'arrêt Corporation de l'école polytechnique c. Canada, 2004 CAF 127, un défendeur bénéficie de la défense de diligence raisonnable s'il établit l'une ou l'autre des deux choses suivantes : soit qu'il a commis une erreur de fait raisonnable, soit qu'il a pris des précautions raisonnables pour empêcher que ne se produise l'évènement qui donne naissance à la pénalité.
+9 L'erreur de fait raisonnable emporte un double test : subjectif et objectif. Le test subjectif est satisfait si le défendeur établit qu'il s'est mépris en ce qu'il a cru en une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission. En outre, pour que cet aspect de la défense opère, il faut aussi que l'erreur soit raisonnable, i.e. une erreur qu'une personne raisonnable placée dans les mêmes circonstances aurait commise. Il s'agit là du test objectif.
+[10] M. Paquette n'a jamais rempli de déclaration de revenus. Quand il avait neuf ans, les autorités scolaires reconnaissaient qu'il éprouvait des difficultés en lecture et en mathématiques. Bien qu'il ait terminé sa douzième année, c'était dans le cadre d'un programme destiné aux élèves en difficulté. Se croyant non compétent pour remplir ses déclarations de revenus, l'appelant comptait sur d'autres personnes pour le faire. Depuis 2008, c'est son père qui remplit et produit les déclarations de l'appelant.
+[11] L'avocate de la Couronne a soutenu que M. Payette savait que sa déclaration de revenus de 2008 avait été produite sans que soit indiqué un montant substantiel de revenus, soit 18 941 $, mais n'a rien fait pour remédier à la situation avant de recevoir l'avis de nouvelle cotisation qui incluait dans ses revenus le montant de 18 941 $.
+[12] L'appelant a témoigné qu'il avait essayé d'obtenir le feuillet T4. Il a dit avoir demandé à son ancien propriétaire s'il l'avait reçu. Avant de déménager, il avait rempli un formulaire de changement d'adresse de Greyhound. En fin de compte, il n'a jamais reçu le feuillet T4 ni l'avis de cotisation. Suivant les instructions du Guide d'impôt de 2008, il a attendu de recevoir un avis de cotisation. Ce qu'il a reçu, en fait, c'était un avis de nouvelle cotisation.
+[13] Greyhound avait retenu de l'impôt sur le salaire de 18 941 $ payé à M. Paquette en 2008 et a versé cet impôt à l'Agence du revenu du Canada (« ARC »). M. Paquette et son père savaient que le montant d'impôt avait été versé à l'ARC.
+[14] Il n'y a pas de doute que M. Bédard aurait pu faire quelque chose pour prévenir l'imposition de la pénalité. Par exemple, il aurait pu être plus agressif et informer l'ARC de la nouvelle adresse de son fils et de l'omission du montant de revenu. M. Bédard était responsable des affaires financières de son fils, et plus particulièrement de ses affaires fiscales.
+[15] La déclaration de revenus de M. Paquette a été transmise électroniquement. M. Bédard a répété que son fils n'avait jamais reçu d'avis de cotisation pour l'année 2008. Je ne peux que présumer que l'avis a été envoyé à son ancienne adresse. Le Guide pour 2008 informe les contribuables qui désirent modifier leur déclaration de revenus d'attendre d'avoir reçu un avis de cotisation avant de faire une modification quelconque. Ni M. Bédard ni le contribuable n'ont reçu d'avis de cotisation. Ce n'est que lorsqu'il a reçu un avis de nouvelle cotisation que M. Bédard a pris contact avec l'ARC. M. Bédard a dit qu'il n'était pas inquiet puisque Greyhound avait retenu l'impôt payable sur le salaire de M. Paquette.
+[16] Le père affirme avoir procédé de la manière suggérée pour le cas où manquerait un feuillet T4. En cours d’instance, il a reconnu qu’il avait commis des erreurs dans la gestion de la déclaration de revenus de son fils, mais a dit que ce dernier ne devrait pas être pénalisé pour ces erreurs. Jamais M. Bédard n’a pensé que ses décisions auraient de telles conséquences.
+ANALYSE
+[17] Le paragraphe 163(3) de la Loi prévoit que le ministre a la charge d’établir les faits qui justifient l’imposition d’une pénalité. Il revient néanmoins au contribuable d’établir une défense de diligence raisonnable. Il doit donc mettre en preuve des faits tendant à démontrer que, dans la production de sa déclaration, il a fait preuve de la diligence requise ou qu’il a commis une erreur de fait raisonnable.
+[18] Le contexte de la présente affaire est particulier. Il s'agit de deux personnes ayant des capacités différentes, soit l’appelant et son père. Il importe de regarder les actes du père et du fils séparément, car la pénalité vise à sanctionner un comportement fautif du contribuable, soit l’omission de déclarer des revenus pour deux années. C’est donc la preuve de diligence raisonnable de sa part et non de la part de son père qui permettra à M. Paquette d’échapper à la sanction.
+[19] À cet égard, l’affaire Dunlop[4] présente des faits semblables à ceux du présent appel. M. Dunlop était un étudiant universitaire qui travaillait à temps partiel en 2005 et en 2006. Pour 2005, M. Dunlop a omis de déclarer des revenus d’emploi parce qu'il n’avait pas reçu son feuillet T4. Pour 2006, il n’a pas non plus reçu de feuillet T4. Il s’était donc rendu au magasin où il travaillait pour essayer d'obtenir son feuillet T4, sans succès. À l’époque de ses études, M. Dunlop avait une adresse temporaire; de plus, ses parents, eux, avaient déménagé en 2007. Le père de M. Dunlop a rempli la déclaration de revenus de 2006 de son fils. Le père a inscrit sur la déclaration une estimation des revenus tirés de l'emploi. Il appert que l’estimation était exacte à 1 000 $ près. Afin de déterminer si M. Dunlop avait fait preuve de diligence raisonnable, le juge Boyle s’est enquis de la façon dont l’ARC demande au contribuable de procéder lorsque un feuillet T4 est manquant.
+[20] Mon collègue s'est référé, dans l'affaire Dunlop, au Guide d'impôt de 2006. Sous la rubrique « Que faire s'il vous manque des feuillets ou des reçus? », il est écrit :
+Si vous devez produire une déclaration pour 2006 (lisez les détails à la page 7), vous devez l'envoyer au plus tard à la date limite (lisez les détails à la page 8), même s'il vous manque des feuillets ou des reçus. Si vous savez que vous ne recevrez pas un feuillet avant la date limite, annexez à votre déclaration sur papier une note indiquant le nom et l'adresse du payeur, le type de revenu en question ainsi que les démarches que vous avez entreprises pour obtenir le feuillet manquant. Utilisez vos talons de chèques pour calculer le revenu que vous devez déclarer ainsi que les déductions et crédits que vous pouvez demander pour l'année. Joignez vos talons de chèques à votre déclaration sur papier. Si vous transmettez votre déclaration par voie électronique conservez toutes vos pièces justificatives pour pouvoir nous les fournir sur demande.
+[21] Sous la rubrique « Comment faire modifier une déclaration? », il est écrit :
+Pour faire modifier une déclaration que vous avez déjà envoyée, ne produisez pas une autre déclaration pour cette année d'imposition. De plus, vous devriez attendre d'avoir reçu votre avis de cotisation avant de faire votre demande de modification. [...]
+[22] Les indications sont les mêmes dans le Guide de 2008, que M. Bédard a d'ailleurs consulté. De plus, il existe dans cet appel des circonstances particulières.
+[23] J'accueillerai l'appel. M. Paquette est peu instruit. Il connaît ses limites et pour cette raison demandait à son père de remplir et de produire ses déclarations de revenus. Son père, M. Bédard, a suivi les instructions du Guide d'impôt de 2008. Bien sûr, M. Bédard ou M. Paquette aurait pu faire de plus grands efforts pour obtenir le feuillet T4 et l'avis de cotisation. Compte tenu, toutefois, des circonstances et faits particuliers en l'espèce, il convient d'accueillir l'appel.
+[24] L'appel est accueilli.
+Signé à Ottawa, Canada, ce 18e jour d'avril 2011.
+« Gerald J. Rip »
+Juge en chef Rip
+RÉFÉRENCE : 2011 CCI 208
+Nº DU DOSSIER DE LA COUR : 2010-470(IT)I
+INTITULÉ DE LA CAUSE : ALEXANDRE PAQUETTE c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 21 janvier 2011
+MOTIFS DU JUGEMENT PAR : L'honorable Gerald J. Rip, juge en chef
+DATE DU JUGEMENT : Le 18 avril 2011
+COMPARUTIONS :
+Représentant de l'appelant :
+Michel Bédard
+Avocate de l'intimée :
+Me Marie-France Camiré
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir Paul c. La Reine, 2008 CCI 159.
+[2] 2010 CAF 28.
+[3] 2004 CAF 127.
+[4] Dunlop c. Canada, [2009] A.C.I. no 127 (QL), 2009 CCI 177.

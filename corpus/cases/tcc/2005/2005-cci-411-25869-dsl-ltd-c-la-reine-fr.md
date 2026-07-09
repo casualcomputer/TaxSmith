@@ -1,0 +1,166 @@
+---
+title: "DSL Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25869/index.do"
+last_modified: "2005-06-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 411"
+citation2: ""
+neutral_citation: "2005 CCI 411"
+decision_date: "2005-06-24"
+language: "fr"
+item_id: "25869"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3863
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:47:23.038000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8aee827ef145e7e8fbb341b204d3bbedf48fb3cb007fe363a7ed0c0fd6aa645b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DSL Ltd. c. La Reine
+
+- Citation: 2005 CCI 411
+- Decision date: 2005-06-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3863, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DSL Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-24
+Référence neutre
+2005 CCI 411
+Numéro de dossier
+2004-3104(GST)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+2004-3704(GST)I
+ENTRE :
+DSL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Summ It Corporation (2004-3705(GST)I), le 7 avril 2005 à Edmonton (Alberta)
+Devant : L'honorable juge E.A. Bowie
+Comparutions :
+Avocat de l'appelante :
+Me Gordon Beck
+Avocat de l'intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 12 septembre 2003 et porte le numéro 10BT0105102, visant la période du 1er juillet 2000 au 31 décembre 2000, est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+« E.A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 12e jour de décembre 2005.
+Joanne Robert, traductrice
+2004-3705(GST)I
+ENTRE :
+SUMM IT CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de DSL Ltd. (2004-3704(GST)I), le 7 avril 2005, à Edmonton (Alberta)
+Devant : L'honorable juge E.A. Bowie
+Comparutions :
+Avocat de l'appelante :
+Me Gordon Beck
+Avocat de l'intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 12 septembre 2003 et porte le numéro 10BT0105101, visant la période du 1er janvier 1998 au 31 décembre 2000, est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+« E.A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 12e jour de décembre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI411
+Date : 20050624
+Dossier : 2004-3704(GST)I
+2004-3705(GST)I
+ENTRE :
+DSL LTD. et SUMM IT CORPORATION,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Les appels de ces deux sociétés ont été entendus ensemble sur preuve commune. Ces sociétés ont maintenant été fusionnées sous le nom de Summ It Corporation, mais en 1999 et en 2000, elles étaient exploitées séparément. Le 12 septembre 2003, elles ont fait l'objet de cotisations distinctes pour la taxe sur les produits et services (TPS), ainsi que pour les pénalités et intérêts s'y rapportant. Ensemble, les cotisations de TPS s'élèvent à environ 39 357 $. Une fois les pénalités et intérêts ajoutés, le montant en litige se chiffrait à un peu plus de 52 500 $ à la date des cotisations. Étant donné que les appelantes sont maintenant fusionnées, je ne parlerai que de la société Summ It dans les présents motifs pour signifier les deux anciennes sociétés.
+[2] L'entreprise de la société Summ It consiste à fournir, à installer et à entretenir des congélateurs commerciaux et du matériel semblable utilisés dans la distribution de produits alimentaires. La plupart du matériel qu'elle vend est fabriqué par la société Taylor Company de Rockton, dans l'État de l'Illinois (États-Unis). Une quantité beaucoup moins importante provient d'une autre société américaine appelée Henny Penny. On m'a dit que les faits pertinents concernant le matériel de la société Henny Penny ne sont pas différents des faits se rapportant au matériel de la société Taylor. L'audience s'est déroulée selon ce principe, et je traiterai la cause comme si les témoignages que j'ai entendus concernant le matériel de la société Taylor s'appliquaient à toutes les opérations ayant donné lieu aux cotisations. La taxe en question a été imposée en vertu de la partie IX de la Loi sur la taxe d'accise[1] (la Loi).
+[3] Le matériel de la société Taylor est distribué par trois concessionnaires au Canada, soit l'appelante dans les quatre provinces de l'Ouest et les territoires, un concessionnaire à Toronto pour l'Ontario et la région de l'Atlantique et un concessionnaire à Montréal pour le Québec. Ces territoires sont presque, mais non tout à fait, exclusifs. Cela est évident d'après le contrat de l'appelante avec la société Taylor (pièce A-1), particulièrement le paragraphe suivant :
+[TRADUCTION]
+La société Taylor fera tous les efforts raisonnables pour diriger à votre entreprise tous les clients des ventes et de l'entretien de votre région. Cependant, les deux parties reconnaissent que la société Taylor a certaines politiques de vente concernant les clients nationaux qui permettent aux distributeurs de vendre dans la région d'autres distributeurs (selon ce qui est établi par la société Taylor de temps à autre et qui vous est communiqué), et que la société Taylor pourrait ne pas être en mesure de limiter les ventes d'autres distributeurs dans votre région. Vous recevrez une indemnité conformément aux politiques établies pour les services rendus à l'égard de congélateurs vendus dans votre région par d'autres distributeurs. Vous acceptez une responsabilité inconditionnelle pour ce qui est de fournir des services pour tous les congélateurs Taylor neufs et usagés, conformément aux politiques de service de la société Taylor, qui sont installés dans votre région, qu'ils soient ou non vendus par vous.
+[4] Comme l'indique ce paragraphe, le matériel de la société Taylor était parfois vendu par un autre concessionnaire pour être installé dans des locaux dans le territoire de l'appelante. Souvent, mais pas toujours semble-t-il, ces ventes visaient des installations dans des succursales de chaînes nationales de restaurants-minute ou de dépanneurs dont le siège social était situé dans l'Est. Lorsque de telles ventes avaient lieu, le matériel était expédié à l'endroit où il devait être installé, et l'appelante avait alors la responsabilité de voir à son installation et à sa mise au point, ainsi qu'au service après-vente. Selon les cotisations visées par l'appel, les services d'installation et de mise au point sont considérés comme une fourniture taxable. L'appelante est d'avis que cela n'est pas correct et que les cotisations devraient être annulées. M. Beck a présenté quatre arguments distincts à l'appui de cet avis. Avant d'examiner ces arguments, je veux préciser les faits pertinents. Il n'y a pas de désaccord important au sujet des faits, même si les avocats des parties font certainement des interprétations très différentes de certains des documents.
+[5] Le matériel en question est, de par sa nature, plutôt complexe. Il doit être installé, mis au point, inspecté et ajusté par des techniciens qualifiés. Les employés de l'acheteur doivent recevoir une formation sur le fonctionnement et l'entretien du matériel. Lorsque l'appelante fournissait ces services après-vente relativement au matériel vendu par d'autres concessionnaires, ou par la société Taylor directement, elle était indemnisée conformément à l'extrait du contrat que j'ai cité ci-dessus. Cette indemnisation se faisait sous forme de notes de crédit, dont deux exemples sont donnés à la pièce A-7. Ces notes énumèrent les endroits où l'appelante a fourni des services d'installation et de mise au point après-vente, ainsi que la valeur du crédit dans chaque cas. Dans un cas, le crédit s'élève à 12 976 $ pour dix services d'installation. M. Ryder, le président de l'appelante, a témoigné que ces notes de crédit étaient par la suite appliquées en réduction des montants dus par l'appelante à la société Taylor relativement à ses achats de matériel ou de pièces auprès de cette dernière. Dans son grand livre général, pour au moins une partie sinon l'ensemble de la période visée par les cotisations en question, l'appelante a porté ces montants au crédit d'un compte intitulé [TRADUCTION] « Empiètements de territoire » . J'ai également cru comprendre, d'après M. Ryder, que l'appelante a rendu compte de ces montants, du moins pour une partie de la période visée, comme étant des rajustements du coût de produits vendus. Le matériel vendu par l'appelante, et problablement par d'autres distributeurs de la société Taylor, est expédié à partir de l'installation de la société Taylor dans l'Illinois, et conformément aux conditions de l'entente entre l'appelante et la société Taylor, le titre du matériel est cédé par la société Taylor à l'appelante lorsque l'expédition a lieu. Les notes de crédit en question ont en fait été appliquées en réduction du coût de ces expéditions et des expéditions de pièces de rechange à l'appelante.
+[6] La question soulevée dans ces appels est celle de savoir si les montants représentés par ces notes de crédit sont la contrepartie de services qui constituent des fournitures taxables à l'égard desquelles la TPS s'applique au taux de 7 %. M. Beck décrit ces montants comme une indemnité pour les empiètements de territoire, mais il présente aussi trois arguments distincts à titre subsidiaire pour soustraire ces montants à la taxe en soutenant qu'ils sont la contrepartie de fournitures détaxées. Selon lui, s'il s'agit en fait de fournitures, celles-ci sont détaxées parce qu'elles sont visées par les articles 5, 7 ou 13 de la partie V de l'annexe VI de la Loi. Si elles sont visées par l'une ou l'autre partie de l'annexe VI, elles sont détaxées[2], ce qui signifie que la taxe s'applique à ces fournitures au taux de 0 %[3]. L'argument principal, toutefois, est que les montants en question ne sont pas la contrepartie d'une fourniture; ils sont simplement une réduction du prix du matériel acheté par l'appelante de la société Taylor, un non-résident qui n'est pas un inscrit selon la Loi, et de qui l'appelante fait des achats à ses locaux aux États-Unis.
+[7] La position de M. Heseltine est simplement que les notes de crédit sont la contrepartie de la fourniture d'un service, effectuée dans le cadre d'une activité commerciale, au Canada, à un acquéreur, et que la fourniture est donc visée par la disposition d'assujettissement de la Loi, soit le paragraphe 165(1), de sorte que la taxe de 7 % s'applique à la valeur de la contrepartie, qui correspond à l'ensemble des notes de crédit. Aucune disposition ne les exonère de la taxe, et aucune ne prévoit leur détaxation.
+[8] Je ne vois aucune légitimité dans les arguments de l'appelante. D'après le témoignage de M. Ryder, et la preuve documentaire présentée par l'appelante, certaines conclusions sont inévitables. D'abord, l'appelante n'a pas de droit exclusif de vendre les produits de la société Taylor dans son territoire. L'extrait de la pièce A-1 que j'ai reproduit ci-dessus, soit la convention d'achat et de service entre l'appelante et la société Taylor, indique clairement que des ventes de produits de la société Taylor seront faites à l'occasion par d'autres distributeurs dans le territoire de l'appelante. En fait, la convention non seulement prévoit cette possibilité, mais indique en outre que lorsque cela se produit, l'appelante est tenue, aux termes du contrat, de fournir les services d'installation et de mise au point, services pour lesquels l'appelante est payée. Ensuite, les paiements reçus par l'appelante, et qui sont l'objet de ces appels, sont [TRADUCTION] « l'indemnisation des services rendus » , comme le prévoit la convention. Le fait qu'ils prennent la forme d'un crédit dans le compte courant de l'appelante auprès de la société Taylor, et qu'ils soient par conséquent appliqués en diminution d'achats ultérieurs auprès de la société Taylor, ne change pas la réalité, qui est que l'appelante est payée pour le travail d'installation du matériel et de formation des utilisateurs de ce matériel. Des preuves indiquent que, sur le plan comptable, l'appelante inscrivait les notes de crédit qui lui étaient délivrées comme une réduction du prix de produits achetés de la société Taylor, mais ce ne sont pas les écritures comptables de l'appelante qui déterminent le vrai caractère des paiements, mais plutôt la nature même des opérations. L'argument de l'appelante selon lequel ces notes de crédit ne sont pas des paiements pour des services mais simplement des réductions de prix ne peut être retenu.
+[9] Il est peut-être moins facile de déterminer à qui l'appelante fournit les services pour lesquels elle est payée. Le bénéficiaire immédiat du service est le client qui a acheté le matériel d'un autre distributeur. Cet autre distributeur serait normalement tenu d'exécuter le service, puisque celui-ci est habituellement inclus dans le prix d'achat, selon le témoignage de M. Ryder. La preuve ne révèle pas si le concessionnaire rembourse la société Taylor du paiement qu'elle fait à l'appelante; cependant, le seul lien contractuel pour lequel je dispose de preuves est celui entre l'appelante et la société Taylor. Comme on le verra, ces preuves ne sont pas déterminantes pour ce qui est de déterminer si l'appelante rend le service au client, à l'autre distributeur ou à la société Taylor.
+[10] La prétention subsidiaire de l'appelante est que si les montants en question sont la contrepartie de services, ils ne sont néanmoins pas assujettis à la taxe aux termes de la Loi parce qu'il s'agit de services visés par les articles 5, 7 ou 13 de la partie V de l'annexe VI de la Loi, et sont donc des fournitures détaxées, conformément à la définition de cette expression donnée à l'article 123. L'article 5 est libellé comme suit :
+5. La fourniture, effectuée au profit d'une personne non-résidente, d'un service de mandataire ou d'un service consistant à faire passer des commandes pour des fournitures à effectuer par la personne ou à son profit, à obtenir de telles commandes ou à faire des démarches pour en obtenir, dans le cas où le service se rapporte :
+a) soit à une fourniture effectuée au profit de la personne, incluse dans un autre article de la présente partie;
+b) soit à une fourniture effectuée à l'étranger par la personne ou à son profit.
+[11] La seule personne non résidente à laquelle l'appelante pourrait avoir effectué la fourniture des services d'installation et de mise au point est la société Taylor. Les acheteurs et les concessionnaires qui ont fait les ventes exploitent leur entreprise au Canada, et rien dans la preuve ne laisse entendre que l'un ou l'autre d'entre eux est une personne non résidente. La fourniture en question n'est pas non plus du genre décrit dans cet article. Même si le mot « mandataire » peut à l'occasion avoir été utilisé dans son sens courant pour décrire l'appelante, celle-ci n'est pas un mandataire de la société Taylor. Lorsqu'elle vend les produits de la société Taylor, elle le fait en son propre nom et pour son propre compte. Elle achète les produits de la société Taylor et le titre est transféré à l'appelante à la sortie de l'usine de la société Taylor. L'appelante vend les produits à des clients au Canada, et le titre est transféré de l'appelante à ces clients. Rien dans la preuve ne laisse entendre que l'appelante est le mandataire de la société Taylor, même lorsque ce mot est utilisé dans son sens le moins technique. L'article 5 ne s'applique tout simplement pas.
+[12] L'article 7 est libellé comme suit :
+7. La fourniture d'un service au profit d'une personne non-résidente, à l'exclusion des fournitures suivantes :
+a) un service fourni à un particulier qui se trouve au Canada lorsqu'il communique avec le fournisseur concernant la fourniture;
+a.1) un service rendu à un particulier pendant qu'il se trouve au Canada;
+b) un service consultatif ou professionnel;
+c) un service postal;
+d) un service lié à un immeuble situé au Canada;
+e) un service lié à un bien meuble corporel qui est situé au Canada au moment de l'exécution du service;
+f) un service de mandataire de la personne ou un service consistant à faire passer des commandes pour des fournitures à effectuer par la personne ou à son profit, à obtenir de telles commandes ou à faire des démarches en vue d'en obtenir;
+g) un service de transport;
+h) un service de télécommunication.
+Même si l'on suppose que les fournitures dont il est question ici sont effectuées à la société Taylor, un non-résident, elles ne peuvent aucunement être visées par cet article parce qu'elles sont exclues selon l'alinéa e). Les services fournis sont nettement liés à du matériel qui est situé dans les locaux des clients au Canada, et ce fait à lui seul est suffisant pour exclure l'application de l'article 7.
+[13] L'article 13 est libellé comme suit :
+13. La fourniture, au profit d'une personne non-résidente qui n'est pas inscrite en vertu de la sous-section d de la section V de la partie IX de la loi :
+a) de biens meubles corporels, ou de services exécutés relativement à des biens meubles corporels ou des immeubles, si la personne acquiert le bien ou le service en vue d'exécuter ses obligations relativement à une garantie;
+b) d'un bien meuble corporel, dans le cas où la fourniture est réputée par l'article 179 de la loi avoir été effectuée par suite du transfert de la possession du bien dans le cadre de l'exécution des obligations de la personne relativement à une garantie.
+Dans cette cause, les fournitures consistent en des travaux d'installation et de mise au point. Il ne s'agit pas de travaux relatifs à une garantie. M. Beck a tenté de s'appuyer sur le fait que le matériel de la société Taylor est couvert par une garantie, et que cette garantie dépend de l'installation et de la mise au point effectuées par un technicien employé par un distributeur autorisé de la société Taylor. Le technicien doit remplir une liste de vérification incluse dans le document d'enregistrement de la garantie, ce document devant être rempli par le client et retourné à la société Taylor avant que la garantie n'entre en vigueur. Cependant, cela ne fait pas du service d'installation et de mise au point des « services exécutés [...] en vue d'exécuter ses obligations [celles de la société Taylor] relativement à une garantie » . Pour être des travaux relatifs à une garantie, les travaux doivent viser à corriger un défaut du matériel ou de l'exécution, ce qui n'est pas le cas du service en question ici. L'article 13 ne peut lui non plus s'appliquer.
+[14] Les appels sont rejetés. Il ne s'agit pas d'une cause où je peux accorder les dépens.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+Le juge Bowie
+Traduction certifiée conforme
+ce 12e jour de décembre 2005.
+Joanne Robert, traductrice
+[1] L.R.C. 1985 ch. E-15, modifié.
+[2] Paragraphe 123(1), définition de « fourniture détaxée » .
+[3] Paragraphe 165(3).

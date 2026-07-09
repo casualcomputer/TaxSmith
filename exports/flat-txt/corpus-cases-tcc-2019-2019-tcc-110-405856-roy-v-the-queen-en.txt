@@ -1,0 +1,124 @@
+Title: Roy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/405856/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-110-405856-roy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-05-09
+
+# Roy v. The Queen
+
+- Citation: 2019 TCC 110
+- Decision date: 2019-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4414, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-09
+Neutral citation
+2019 TCC 110
+File numbers
+2017-2709(IT)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-2709(IT)I
+BETWEEN:
+SHAIBAL THEODORE ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 11, 2018, at Toronto, Ontario and
+written submissions made on January 15 and February 25, 2019.
+Judgment and Reasons for Judgment dated March 5, 2019 and
+Amended Reasons for Judgment dated March 18, 2019.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Derek Edwards
+ORDER
+In accordance with the attached Reasons for Order, the Appellant’s request made pursuant to subsection 147(7) of the Tax Court of Canada Rules (General Procedure), SOR/90‑688a, for a reconsideration of the award of costs, is hereby dismissed.
+Signed at Ottawa, Canada, this 9th day of May 2019.
+“Guy R. Smith”
+Smith J.
+Citation: 2019 TCC 110
+Date: 20190509
+Docket: 2017-2709(IT)I
+BETWEEN:
+SHAIBAL THEODORE ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Smith J.
+[1] On March 5, 2019, the Court delivered written Reasons for Judgment (2019 TCC 50) allowing the appeal and finding that the Minister of National Revenue (the “Minister”) had improperly reduced the Appellant’s unused RRSP contributions. The Court awarded costs against the Crown fixed in the amount of $1,000 finding that it had not articulated a proper legal position and that, more importantly, it had failed to provide an accurate accounting of the Appellant’s RRSP contributions over time, despite the Court’s request.
+[2] By letter dated April 7, 2019, the Appellant made written submissions, requesting that the Court reconsider its award of costs and assess damages or a penalty against the Canada Revenue Agency (“CRA”) for alleged breaches of the Taxpayer Bill of Rights.
+[3] By letter dated May 2, 2019, the Respondent argues simply that the Court “does not have the jurisdiction to interpret the Appellant’s letter as a basis for reconsideration”, relying on Bibby v. Canada, 2010 TCC 111 (“Bibby”), wherein Bowie J. saw no merit in the request in any event, but indicated in obiter that it should have been made by application pursuant to Section 69 of the Rules.
+[4] While no statutory provision was cited by the Appellant, it appears that subsection 147(7) of the Tax Court of Canada Rules (General Procedure), SOR/90‑688a (the “Rules”), provides that such a request may be made:
+147(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+(My Emphasis.)
+[5] The concluding words of paragraph 147(7) clearly provide that the Court may reconsider an award of costs. I find that this is the proper forum for so doing, even if there was no formal “Application”, as mentioned in Bibby, supra.
+[6] The Appellant submits that the award of costs is wholly inadequate given the Court’s finding that he had gone through “a long and frustrating battle” with the CRA. He seeks an increase to reflect the inordinate amount of time spent trying to resolve the various issues relating to his RRSP account. He is extremely critical of the way that CRA has handled this matter and feels that as a result of their alleged incompetence, he has spent in excess of 200 hours “since 2013” when the matter was first raised by CRA. At an assumed rate of $250 per hour which he might have otherwise paid to a junior lawyer, according to his argument, he calculates that his lost time can be quantified at about $50,000.
+[7] Before turning to the issue of costs and the request for damages, it is worth reviewing, yet again, the background facts that have given rise to this situation.
+[8] Firstly, it is not disputed that in 2006, the Appellant made an RRSP contribution of $43,000 which he then deducted over the ensuing years within the permissible limits. The source of that contribution was not explained to the Court. However, it is well-known that RRSP contributions can only be made in “after-tax” dollars consisting of savings (including a gift or inheritance, on which someone else has presumably paid tax) or borrowed funds, where neither the principal reimbursements nor the interest are deductible for tax purposes.
+[9] The Appellant struck me as an intelligent individual able to understand and articulate complex tax concepts and calculations. On that basis, the Court must conclude that he knew or ought to have known in 2006 that his rather large contribution – large in relation to his employment income, was an “excess contribution” as defined in the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.) (the “Act”). He offered no explanation as to why he had made that contribution and did not suggest that he had received any legal, accounting or investment advice prior to doing so. The Court must therefore conclude that it was the Appellant’s own decision. In any event it was clearly made in error and contrary to the provisions of the Act.
+[10] Secondly, according to the Appellant’s testimony, the RRSP contributions made in 2006 were then “invested” in securities that quickly became worthless. It was not suggested that he received any kind of professional investment advice prior to doing so. In fact the Appellant admitted quite candidly that he made some very bad investment decisions. As a result, having made some presumably high-risk investments, as the Appellant seems to acknowledge, he must personally assume responsibility for the resulting loss of capital.
+[11] Thirdly, having made the excess RRSP contribution in 2006, the Appellant then failed to file a T1‑OVP information return on an annual basis, and failed to do so for several years, as further detailed in the Reasons for Judgement. This lead to an assessment of taxes calculated at the rate of 1% per month on the excess contributions followed by interest and filing penalties. It appears the Appellant was not aware of his obligation to do so but again, he has not suggested that he sought professional, legal or accounting, advice to determine if he was under a statutory obligation to do so.
+[12] Since Canadians live under a tax regime where taxpayers are expected to self-assess and self-report, I find that the Appellant must also assume responsibility for his failure to file the T1-OVP form.
+[13] As detailed in the Reasons for Judgement, the Appellant filed a relief application in connection with the accumulating 1% tax and on June 19, 2015, the Minister accepted the application and waived taxes, interest and penalties of $38,193.08. While it is true that the CRA then erroneously reduced his unused RRSP contributions — which was the issue addressed in the appeal, the Minister’s decision to accept the relief application should not be interpreted as a victory — though it certainly was, that somehow shifts unto the Minister responsibility for the actions of the Appellant which the Court has described above.
+[14] And the fact that the Court has sided with the Appellant in connection with the narrow issue raised in the appeal, should also not be interpreted as a victory — though it certainly was, that somehow provides the Appellant with a clean slate and again shifts responsibility for his mistakes, as noted above, unto the CRA.
+[15] On the basis of this review, the Court concludes that the Appellant is and was, by a large measure, the author of his own misfortune.
+[16] I now turn to the issue of costs.
+[17] The Court has a wide discretion to award costs. It generally follows the well-established rule that a successful party is entitled to costs but must consider a wide range of issues, most of which are set out in paragraphs 147(3)(a) to (j) of the Rules. It is not necessary to set out those provisions.
+[18] In this instance, the appeal was dealt with under the Informal Procedure where the well-established rule is “not” to award costs or to do so only in exceptional circumstances. Further, it is noteworthy that an award of costs in favour of the Crown — which is not the case here, is only permissible where the Court is satisfied that “the actions of the appellant have unduly delayed the prompt and effective resolution of the appeal” and further, as provided for in section 10(2) of Informal Procedure rules, the amount of party and party costs is limited to $810.00. That is the upper limit of the amount that can be awarded.
+[19] It follows, that the award of costs against the Minister fixed in the amount of $1,000, as set out in the Reasons for Judgment, was exceptional in the context of an appeal under the Informal Procedure.
+[20] Further, costs are generally only awarded where a litigant is represented by legal counsel. As admitted by the Appellant, he has no legal training.
+[21] Thus the Appellant is no different from any other taxpayer who seeks to have his day in Court, without legal representation. Win or lose, that taxpayer must necessarily spend large amounts of time to be able to explain the underlying facts and articulate the legal position relied upon.
+[22] As noted above, the Appellant also requests damages for alleged breach of his rights under the Taxpayer Bill of Rights. In the Reasons for Judgement, the Court explained at paragraph 25, that it did not have the jurisdiction to award damages arising out of CRA conduct or for alleged “lost-opportunity costs”. Its jurisdiction is to determine whether the income tax assessment was correct in law and in fact.
+[23] To conclude, the Court does not have the jurisdiction to award damages nor to impose any kind of “penalty” against CRA, as requested by the Appellant for alleged “egregious repeat violations of the (…) Taxpayer Bill of Rights”, though the Appellant is at liberty to pursue that remedy in another Court.
+[24] As a result, the Appellant’s request for an increase of costs and for an award of damages or penalty against the CRA, is hereby dismissed.
+Signed at Ottawa, Canada, this 9th day of May 2019.
+“Guy R. Smith”
+Smith J.
+CITATION:
+2019 TCC 110
+COURT FILE NO.:
+2017-2709(IT)I
+STYLE OF CAUSE:
+SHAIBAL THEODORE ROY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 11, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice Guy R. Smith
+DATE OF ORDER:
+May 9, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Derek Edwards
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

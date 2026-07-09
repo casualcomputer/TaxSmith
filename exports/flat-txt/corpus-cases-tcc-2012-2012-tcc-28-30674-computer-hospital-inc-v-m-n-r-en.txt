@@ -1,0 +1,139 @@
+Title: Computer Hospital Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30674/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-28-30674-computer-hospital-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2012-01-20
+
+# Computer Hospital Inc. v. M.N.R.
+
+- Citation: 2012 TCC 28
+- Decision date: 2012-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7171, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Computer Hospital Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-20
+Neutral citation
+2012 TCC 28
+File numbers
+2010-311(EI)APP
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2010-311(EI)APP
+2010-312(CPP)APP
+BETWEEN:
+COMPUTER HOSPITAL INC.,
+applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent.
+____________________________________________________________________
+Application heard on March 25, 2011, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the applicant:
+Silverio Ferrari
+Counsel for the respondent:
+Sandra K.S. Tsui
+____________________________________________________________________
+JUDGMENT
+Upon considering the application for an order extending the time within which appeals from the assessments made under the Employment Insurance Act and the Canada Pension Plan may be instituted;
+And upon hearing the parties;
+In accordance with the attached reasons for judgment, the application is dismissed.
+Signed at Winnipeg, Manitoba, this 20th day of January 2012.
+“Gaston Jorré”
+Jorré J.
+Citation: 2012 TCC 28
+Date: 20120120
+Dockets: 2010-311(EI)APP
+2010-312(CPP)APP
+BETWEEN:
+COMPUTER HOSPITAL INC.,
+applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] This is an application to extend the time to file notices of appeal with respect to assessments for employment insurance (EI) and Canada Pension Plan (CPP) premiums.[1]
+[2] The evidence in this matter consisted of the testimony of Silverio Ferrari, the sole shareholder and the sole director of the applicant, the affidavit and supplementary affidavit of Danny Ducas and the affidavit and supplementary affidavit of Scott Cowell as well as three exhibits.[2]
+[3] When one reviews all the evidence, it eventually emerges that the applicant is applying for an extension in relation to:
+(a) an assessment dated March 20, 2002 of unremitted EI and CPP premiums in the amount of $4,704 (plus penalty and interest thereon) in respect of the 2001 taxation year;
+(b) an assessment dated March 20, 2002 of unremitted EI and CPP premiums in the amount of $392 (plus penalty and interest thereon) in respect of the 2002 taxation year;[3]
+(c) an assessment dated January 8, 2007 of unremitted EI premiums in the amount of $66.53 (plus interest thereon) in respect of the 2003 taxation year;
+(d) an assessment dated January 8, 2007 of unremitted EI premiums in the amount of $107.42 (plus interest thereon) in respect of the 2004 taxation year. Both of the January 8, 2007 assessments relate to Roman Kowalczuk.[4]
+The two March 20, 2002 assessments
+[4] Under section 92 of the Employment Insurance Act (EIA), an employer who has been assessed for EI premiums may appeal to the Minister of National Revenue (Minister) for reconsideration of the assessment within 90 days after being notified of the assessment. The same is true under section 27.1 of the CPP.
+[5] With respect to the first two assessments dated March 20, 2002, the applicant filed, on or about March 30, 2007, a notice of objection dated September 10, 2006. The Minister wrote back by letter dated August 21, 2008 and stated that he did not accept the objection because it was out of time.[5]
+[6] Under subsection 103(1) of the EIA, a person who is affected by a decision on an appeal to the Minister under section 92 may appeal from the Minister’s decision to this Court. Subsection 28(1) of the CPP is essentially the same.
+[7] The letter of August 21, 2008 from the Minister stating that he did not accept the objection is not a decision.[6]
+[8] Given that, and given that the appeal right created in subsection 103(1) is a right to appeal from the Minister’s decision, there is nothing which can be appealed to this Court and therefore nothing in respect of which a time extension application could be granted.[7] The same result is true under subsection 28(1) of the CPP.
+[9] Accordingly, the time extension application in respect of the March 20, 2002 assessments must be dismissed.[8]
+The two January 8, 2007 assessments
+[10] On October 19, 2006 the Minister sent to the applicant a letter ruling that Mr. Kowalczuk was an employee. At trial the applicant agreed that it did not bother appealing that ruling.[9]
+[11] The two assessments of January 8, 2007 were for a total of about $174 plus interest. There is nothing in the evidence showing that the applicant appealed these two assessments to the Minister under section 92 of the EIA.
+[11]
+[12] As explained above there cannot be a valid appeal to this Court in the absence of a decision by the Minister. Accordingly and for the same reasons as with respect to the March 20, 2002 assessments, there is nothing which can be appealed to this Court and therefore nothing in respect of which a time extension application could be granted.[10]
+[13] The application in respect of the January 8, 2007 assessments will also be dismissed.
+Conclusion[11]
+[14] For these reasons the application will be dismissed.
+Signed at Winnipeg, Manitoba, this 20th day of January 2012.
+“Gaston Jorré”
+Jorré J.
+CITATION: 2012 TCC 28
+COURT FILE NOS.: 2010-311(EI)APP, 2010-312(CPP)APP
+STYLE OF CAUSE: COMPUTER HOSPITAL INC. v. M.N.R.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 25, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: January 20, 2012
+APPEARANCES:
+Agent for the applicant:
+Silverio Ferrari
+Counsel for the respondent:
+Sandra K.S. Tsui
+COUNSEL OF RECORD:
+For the applicant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The applicant filed with the Court many pages of copies of documents and submissions together with its time extension application dated January 23, 2010; it also filed other documents and submissions in respect of this matter at other times. In all these pages it is not that clear in respect of what assessments or decisions the applicant is seeking a time extension, but at page 7 of 27 of the application, sent in by fax, one sees quite clearly on the standard notice of appeal form, in the box “Type of Appeal”: “Employment Insurance, Canada Pension Plan Act”. Further, in the box “Date of Reassessment, Confirmation or Decision received from CCRA (dd/mm/yyyy)” the applicant put the date “23/06/2009”. This is a reference to a letter, at page 10 of 27 of the application, from the CPP/EI Appeals Division. I also note that the applicant has a separate application before this Court relating to income tax; that application was filed shortly before the hearing of this matter.
+[2] I would add that I examined all the various papers that the applicant filed with the Court and, although their contents are not evidence, I would note that I saw nothing in the contents which would change the outcome of this application even if they had been evidence and I had accepted the evidence. I also wish to note that the Crown did have Mr. Cowell available at the hearing to be cross‑examined by the applicant, but the applicant declined the opportunity to do so.
+[3] See Tab A of the affidavit of Danny Ducas. I would note that while the two March 20, 2002 assessments of EI and CPP premiums are in the same notice as assessments of the income tax withholdings, legally they are separate assessments under the Employment Insurance Act and the CPP which are distinct from the source deduction assessments under the Income Tax Act.
+[4] See Tab G of the affidavit of Scott Cowell.
+[5] See paragraphs 36 and 37 and Tabs M and N of the affidavit of Danny Ducas.
+[6] See Power v. M.N.R., 2005 TCC 200, especially at paragraph 5.
+[7] See Wenngatz v. M.N.R., 2009 TCC 454, especially at paragraph 15.
+[8] I would note that even if the letter of August 21, 2008 were a decision, I would reach the same end result.
+Unless the applicant was not notified of the assessments, the notice of objection was clearly out of time ― even if it had been filed on September 10, 2006.
+At times the applicant seemed to be taking the position that it had not received the assessments. For example, at one point Mr. Ferrari said: “However, I don’t remember receiving any Notices of Assessment for the years 1998, 1999, 2000, 2001, and 2002.” See the transcript at page 8, lines 6-8. At another point he testified that he was not aware of the assessments in August 2006. See the transcript at page 12, line 19, to page 13, line 2.
+To the extent that it is the applicant’s position that it was not notified of the assessments, I have not been persuaded of that by the applicant. I am satisfied that the applicant was notified at the time of the issue of the two notices of assessment.
+I do not believe Mr. Ferrari when he says that he was unaware of the assessments in August 2006. Indeed, I am satisfied that he was aware of the assessment “years” before September 2006 for a number of reasons.
+First, in the applicant’s notice of objection dated September 10, 2006 signed by Mr. Ferrari in the section where the person objecting is asked to state the relevant facts and reasons for the objection, it is mentioned, in part:
+I Silverio Ferrari should not be liable for these arbitrary assessments made against Computer Hospital Inc.
+The Computer Hospital Inc. has never been in receipt of any source deductions because it has never had any salaried employees. Any and all work done for or on behalf of the Computer Hospital was performed on a CONTRACT BASIS.
+I have been trying to explain this to the CRA and many of its representatives for years now. Unfortunately . . . .
+Secondly, there was quite a bit of interaction between the applicant and the Canada Revenue Agency (CRA) between, inter alia, March 20, 2002 and February 2005 including phone calls, letters and, in particular, a meeting on June 13, 2003 between two officers of the CRA and Mr. Ferrari to discuss the applicant’s payroll deductions. The CRA wanted to do a trust examination and was having difficulty obtaining books and records. It is inconceivable that during such a meeting the notices of assessment would not have come up; at this point, the applicant had been assessed for some $60,000 in withholdings, most of which were income tax source deductions. See paragraphs 17 to 26 of the affidavit of Danny Ducas. More generally, in the affidavit it is disclosed that there was a pattern of the applicant postponing producing records being requested by the CRA. In addition, the applicant was incorporated on December 6, 1996. Its 1998, 1999, 2000 and 2001 corporate tax returns were filed on May 5, 2003; the applicant’s 2002, 2003 and 2004 corporate tax returns were filed on October 27, 2006.
+This conclusion is consistent with the allegation in the fourth paragraph of the first page of the applicant’s time extension application dated January 23, 2010 (page 2 of 27 of the faxed pages) where it says: “During the time of the original assessment I was much too preoccupied to pay full attention to the niceties of time limited CRA assessments.”
+Consequently, the notice of objection was out of time.
+[9] See the transcript at page 25, line 3, to page 26, line 2.
+[10] I would also note that, at the second page of the applicant’s time extension application (page 3 of 27 of the faxed pages), in the first four paragraphs, the following is alleged with respect to Mr. Kowalczuk:
+I did not bother to appeal either the decision made by the woman of the subsequent assessment made . . . for the following reasons.
+1. The amount was so trivial it was not worth the bother.
+. . .
+The word “of” appears to be a typographical error; “or” fits more logically into the text.
+[11] The applicant made an argument related to the “reasonable discovery rule”. While no specific case was named, in the applicant’s written submission entitled “Statement of Defence for Extension of Time” it quotes the following: “. . . a cause of action arises for purposes of a limitation period when the material facts on which it is based have been discovered or ought to have been discovered by the plaintiff by the exercise of reasonable diligence, . . . .” This passage appears to be a quote from Central Trust Co. v. Rafuse, [1986] 2 S.C.R. 147, at page 224. That is not the test here. However, if it were, the material fact to be discovered would be the existence of the assessments and that was known to the applicant from the time the assessments were issued; further, even if the applicant had not been aware of the assessments, I am satisfied that the existence of the March 20, 2002 assessments would have been discoverable by reasonable diligence no later than June 2003. See paragraphs 1 to 19 of the affidavit of Danny Ducas.

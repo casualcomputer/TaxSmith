@@ -1,0 +1,137 @@
+---
+title: "Brown c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28387/index.do"
+last_modified: "2004-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 387"
+citation2: ""
+neutral_citation: "2004 CCI 387"
+decision_date: "2004-05-28"
+language: "fr"
+item_id: "28387"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1906
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:24:07.166000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c985d65d4d96eaf813706f54f0c5ba1c5b5046856700ff4a39a52db425fe410"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brown c. La Reine
+
+- Citation: 2004 CCI 387
+- Decision date: 2004-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1906, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-28
+Référence neutre
+2004 CCI 387
+Numéro de dossier
+2004-461(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004‑461(IT)I
+ENTRE :
+KENTON BROWN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 mai 2004 à Grande Prairie (Alberta)
+Devant : L’honorable juge D. W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me John‑Paul Hargrove
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 28e jour de mai 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 17e jour d’août 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI387
+Date : 20040528
+Dossier : 2004‑461(IT)I
+ENTRE :
+KENTON BROWN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté sous le régime de la procédure informelle a été entendu à Grande Prairie, en Alberta, le 20 mai 2004. L’appelant a été l’unique témoin.
+[2] Les paragraphes 2 à 10 inclusivement de la Réponse à l’avis d’appel donnent un sommaire des questions en litige. Les voici :
+[TRADUCTION]
+2. En calculant son revenu pour l’année d’imposition 1999, l’appelant a appliqué une déduction à titre de perte nette d’entreprise de 20 133 $ dans le cadre d’une entreprise dont la raison sociale est Mulberry Lane Variety (ci‑après l’« entreprise »). La perte nette d’entreprise déclarée par l’appelant a été calculée ainsi :
+Perte nette pour l’année 1999 au compte de l’entreprise
+40 267 $
+50 p. 100 déclaré par l’appelant
+20 133 $
+3. La déclaration de revenus de l’appelant pour l’année 1999 a été cotisée initialement le 11 septembre 2001 et la perte nette d’entreprise déclarée par l’appelant a été admise par le ministre.
+4. Par la suite, le ministre du Revenu national (le « ministre ») a refusé la perte d’entreprise de 20 133 $ dans un Avis de nouvelle cotisation daté du 13 janvier 2003, au motif que l’appelant n’a pas pris part à l’entreprise en qualité d’associé ou autrement.
+5. Le 9 avril 2003, l’appelant a déposé un Avis d’opposition à l’Avis de nouvelle cotisation du 13 janvier 2003.
+6. Le ministre a confirmé la nouvelle cotisation pour l’année d’imposition 1999 par l’envoi d’un Avis de ratification daté du 12 novembre 2003.
+7. En établissant ainsi la nouvelle cotisation à l’égard de l’appelant dans le cadre de l’année d’imposition 1999 et en ratifiant ainsi cette nouvelle cotisation, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) pendant l’année 1999, l’épouse de l’appelant, Beverly Brown, était la propriétaire unique de l’entreprise;
+b) dans sa déclaration de revenus pour l’année 1999, Beverly Brown a déclaré, notamment, une perte nette d’entreprise de 40 267 $, soit 100 p. 100 de la perte nette de l’entreprise;
+c) en produisant ses déclarations de revenus correspondant aux années 1996, 1997 et 1998, Beverly Brown a déclaré 100 p. 100 des pertes relatives à l’entreprise;
+d) en produisant ses déclarations de revenus correspondant aux années 1996, 1997 et 1998, l’appelant n’a déclaré aucun montant relatif à l’entreprise;
+e) pendant l’année 1999, l’appelant n’était pas un associé de l’entreprise et n’avait aucun droit dans l’entreprise.
+B. QUESTIONS EN LITIGE
+8. La question est de savoir si l’appelant est en droit de demander une partie de la perte relative à l’entreprise.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES ET MESURES DE REDRESSEMENT DEMANDÉES
+9. Il invoque les articles 9, 96 et 103 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »), dans sa version modifiée pour l’année d’imposition 1999.
+10. Il soumet que l’appelant n’est en droit de déduire aucune fraction des pertes subies par l’entreprise puisqu’il ne détenait aucune participation dans la société de personnes, ni aucun autre droit dans l’entreprise pendant l’année 1999.
+[3] Les hypothèses 7 b), c) et d) n’ont pas été réfutées.
+[4] Selon la preuve, l’appelant et son épouse Beverly ont ensemble acheté l’entreprise le 10 janvier 1996 (pièce A‑2). Ils ont inscrit l’entreprise en vertu de la Loi sur la taxe d’accise sous les deux noms et on leur a attribué le numéro d’inscription aux fins de la TPS 891717852RT (pièce A‑1).
+[5] Malgré cela, Beverly a toujours inclus dans sa déclaration de revenus tout ce qui concernait l’entreprise, y compris la vente de celle‑ci, comme si l’entreprise lui appartenait exclusivement. Après la vente, l’appelant a inclus 50 p. 100 additionnels de la perte finale de l’entreprise dans sa déclaration comme s’il s’agissait de la sienne.
+[6] Aucun des documents portant sur la vente de l’entreprise, ni aucun document de déclaration de la TPS, n’a été présenté en preuve.
+[7] Si on se fonde sur les déclarations produites par Beverly selon les hypothèses 7 b), c) et d), ainsi que sur l’absence de documentation relative à la période ultérieure à la date d’achat, il est entièrement possible que l’intégralité de l’entreprise ait été transférée à Beverly après son achat.
+[8] L’appelant a déclaré que toutes leurs autres entreprises étaient à leurs deux noms conjoints, mais que c’était par erreur que leur comptable avait fait toutes les déclarations relatives à l’entreprise, dans le cadre des années 1996 à 1999, uniquement sur le compte de Beverly. Si toutes leurs entreprises étaient au nom des deux et qu’ils faisaient appel au même comptable pour toutes leurs affaires (comme ils l’ont déclaré) une telle « erreur » semble d’autant plus incroyable que leur comptable aurait rempli les formulaires de toutes les autres entreprises en leurs deux noms, sauf – inhabituellement – pour Mulberry Lane Variety dont il aurait rempli les formulaires au nom de Beverly.
+[9] En outre, Kenton et Beverly ont signé des déclarations de revenus semblables pendant toutes ces années et ils prétendent ne pas avoir remarqué ce fait plutôt inhabituel.
+[10] Dans ces circonstances, en l’absence de corroboration par le témoignage du comptable, par les documents relatifs à la TPS portant sur les années en question et par aucune autre preuve, il est tout à fait possible que l’entreprise ait appartenu dans son intégralité à Beverly, comme il a été présumé. Le seul témoignage de Kenton n’a pas réussi à réfuter les autres hypothèses. En fait, il n’est pas inhabituel de citer à témoigner des comptables ou d’autres professionnels pour admettre ce genre d’erreur.
+[11] Pour tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de mai 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 17e jour d’août 2004.
+Ingrid B. Miranda, traductrice

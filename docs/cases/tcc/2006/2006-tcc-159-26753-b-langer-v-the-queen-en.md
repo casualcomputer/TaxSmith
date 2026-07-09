@@ -1,0 +1,181 @@
+---
+title: "Bélanger v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26753/index.do"
+last_modified: "2006-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 159"
+citation2: ""
+neutral_citation: "2006 TCC 159"
+decision_date: "2006-05-18"
+language: "en"
+item_id: "26753"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3499
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:05:08.384000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e637b26465b9654dc9c48fe6e941056216b3b93fe300004ce8d3a62be05639f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bélanger v. The Queen
+
+- Citation: 2006 TCC 159
+- Decision date: 2006-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3499, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bélanger v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-18
+Neutral citation
+2006 TCC 159
+File numbers
+2005-2119(GST)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-2119(GST)I
+BETWEEN:
+PIERRE BÉLANGER,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 1, 2006, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Daniel Cantin
+Counsel for the Respondent:
+Robert Poupart
+____________________________________________________________________
+JUDGMENT
+The appeal from the Goods and Services Tax assessment made pursuant to Part IX of the Excise Tax Act, notice of which is dated December 3, 2004, and bears the number 231670, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of May 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of February 2008.
+Brian McCordick, Translator
+Citation: 2006TCC159
+Date: 20060518
+Docket: 2005-2119(GST)I
+BETWEEN:
+PIERRE BÉLANGER,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a Goods and Services Tax ("GST") assessment dated December 3, 2004, and bearing the number 231670. The assessment was made under the Excise Tax Act ("the Act") and pertains to input tax credits in respect of the rental of vehicles during the periods from January 1, 2001, to December 31, 2001, January 1, 2002, to December 31, 2002, and January 1, 2003, to December 31, 2003.
+[2] The issue to be determined is whether, for the purposes of computing the input tax credit, the Appellant chiefly used the following vehicles, to an extent greater than 50%, for personal purposes: a Cadillac Seville for the period of January 1, 2001 to July 21, 2002; and a 2003 Jaguar for the period from July 22, 2002 to September 30.
+[3] During the periods in issue, the Appellant operated a gas station on an independent basis in Beauport. He had been operating the station since 1972.
+[4] In this capacity, during the periods in issue, he carried out all the duties involved in the operation of such a business, which sold fuel only. He was responsible for the management and maintenance of the equipment and premises.
+[5] He stated that, as the owner of such a business, he had to drive around several times a day in order to check how much his competitors were charging per litre of fuel so that he could react quickly. In other words, he had to ensure that he was selling his fuel for the same price as the competition.
+[6] In support of his testimony, the Appellant produced maps showing the locations of the various gas stations that he considered reference points for competition. The Appellant drove the stated distance between his business and his competitors two or three times a day, five days a week; the distance of one itinerary was 14 km, and the distance of the other was 9 km.
+[7] The Appellant claims to have made three 9-km trips a day, 20 days per month, for a total of 540 km per month. To this he adds trips from his home office to the gas station and back (which account for 60 km per month) plus 50 km per month to meet with representatives, go to the bank, drive attendants and employees, deliver gas for vehicles in emergencies, purchase parts and stationery, and run other errands, for an overall total of 650 km per month. For all this travel, he claims to have used a Cadillac Seville from the beginning of the first period in issue until July 21, 2002, after which he allegedly used a 2003 Jaguar.
+[8] The Appellant kept no business‑related mileage log during the periods in issue; he began to keep one after the assessment.
+[9] Based on his journal for the year 2005, which, he says, records essentially the same use, he claims that he used his vehicle primarily for business purposes, and that personal use was utterly marginal, ranging from two to five percent of the kilometres driven each year.
+[10] He went to the barber for personal purposes six times and visited his chiropractor ten times, which was a long trip and was followed by a drive to his place of business. The trip to the chiropractor was 15 km and the trip to the barber was 3 km. Thus, he drove 10 x 15 km and 6 x 3 km, for a total of 168 km in the course of the year. He also stated that after he visited the chiropractor, he would take the opportunity to visit the gas station, thereby considerably reducing the distance of personal travel.
+[11] When the Court asked him which vehicle he used for business travel and which one he used for personal travel, the Appellant responded that the vast majority of his personal travel was done in his girlfriend's Ford Focus in order to avoid parking his Cadillac Seville or his Jaguar in public lots.
+[12] As justification for this rather unusual conduct, the Appellant claimed to be a fine-car enthusiast and said that the cars in question were collector vehicles.
+[13] As far as this was concerned, the Court did not understand how a leased car could be a collector vehicle.
+[14] During the audit, the Appellant explained that he retired subsequent to the period in issue. He had worked for a while during the period in issue. At that time, his work was 35 km from his home, which meant that he had to drive 70 km round‑trip. He said that he did not actually work each business day because he had accumulated many days of sick leave and vacation over the years and over the course of his career and had not taken them, which is why, during the last six months, he took advantage, if you will, of his accumulated leave. The other claim that he made was that he was part of a carpool. The evidence did not disclose whether he used his spouse's car when it was his turn to drive the group, or whether he was exempt from his responsibility because of the kind of car that he drove.
+[15] When asked to do so, the Appellant was unable to describe the vehicles that his co‑workers pooled. He added that time had taken its toll and that he could no longer recall. This is very unusual for someone who describes himself as a car enthusiast.
+[16] The provisions of the Excise Tax Act that pertain to this question are in Part IX, Division II. They state:
+170. (1) Restriction — In determining an input tax credit of a registrant, no amount shall be included in respect of the tax payable by the registrant in respect of
+. . .
+(c) a supply made in or before a reporting period of the registrant of property, by way of lease, licence or similar arrangement, primarily for the personal consumption, use or enjoyment in that period of:
+(i) where the registrant is an individual, the registrant or another individual related to the registrant,
+(ii) where the registrant is a partnership, an individual who is a member of the partnership or another individual who is an employee, officer or shareholder of, or related to, a member of the partnership,
+(iii) where the registrant is a corporation, an individual who is a shareholder of the corporation or another individual related to the shareholder, and,
+(iv) where the registrant is a trust, an individual who is a beneficiary of the trust or another individual related to the beneficiary,
+except where the registrant makes a taxable supply of the property in that period to such an individual for consideration that becomes due in that period and that is equal to the fair market value of the supply at the time the consideration becomes due.
+(2) Further restriction — In determining an input tax credit of a registrant, no amount shall be included in respect of the tax payable by the registrant in respect of property or a service acquired, imported or brought into a participating province by the registrant, except to the extent that
+(a) the consumption or use of property or services of such quality, nature or cost is reasonable in the circumstances, having regard to the nature of the commercial activities of the registrant; and
+. . .
+280. (1) Penalty and interest — Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid
+. . .
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid
+. . .
+Analysis
+[17] First, I must acknowledge that counsel for the Appellant prepared his case very well. In support of the evidence, he tendered a photograph of the location, various maps, a copy of the daily form that the Appellant completed for the year 2005, a "Value Plus" program participation agreement setting out the nature and type of obligations between the Appellant and the oil company with which he was associated, and the transaction register which showed how frequently gas prices changed as well as the revenues for the years in issue.
+[18] Unfortunately, good preparation cannot make credible or plausible that which is neither. Indeed, I lend no credence to the explanations, which I find utterly implausible, to the effect that a reasonable person would lease a Cadillac Seville for a certain period, and a 2003 Jaguar for a subsequent period, at a cost of more than $800 per month — a cost that would have been even higher but for the fact that down payments had been made in order to keep the monthly costs as low as possible — and that more than 95% of the use of the vehicle was related to the operation of a gas station and was essentially devoted to visiting competing gas stations to check their prices.
+[19] In my view, this harsh assessment of the quality of the Appellant's testimony is warranted by a string of explanations that are as implausible as they are outlandish. I refer, among other things, to the fact that the Appellant claimed that his personal use of the vehicle was completely marginal, and perhaps even symbolic. As stated, this is completely implausible, especially since any automobile enthusiast would generally take pleasure in using a vehicle that he his proud of whenever the ideal opportunity arises.
+[20] When the Court asked him which car was used for personal and family outings, the Appellant claimed that it was his wife's car — an ordinary, low-end compact or subcompact, because he did not want to park his Cadillac or Jaguar in public shopping centre lots.
+[21] However, vehicles are not used solely to get to shopping centres. There are several opportunities for outings in which the vehicle can be parked in a safe place where there is no risk of it getting scratched. In fact, such outings are generally more numerous and frequent when one is retired.
+[22] While the year 2005 is not in issue, it is relevant in that the Appellant said that his pattern of vehicle use was essentially the same as it was during the years in issue. And, in 2005, he allegedly used his vehicle ten times to visit the chiropractor (carefully noting that this was on the way to the gas station, where he drove after the visit to do the weekly bookkeeping) and six times (for a total of 18 km) to visit the barber.
+[23] The Appellant explained that this situation was due to the fact that he was practically obsessed with preventing damage to his vehicle, which, as stated, was leased. The Appellant, who was retired most of the time during the three periods in issue, allegedly used a vehicle of subcompact or similar class for his personal travel. It would probably have been better for him not to go quite that far with a description that bordered on the ridiculous.
+[24] The evidence does not enable me reliably to ascertain any percentage of use. In contrast, the estimate of the Minister of National Revenue is not only reasonable, but actually very generous under the circumstances, so there is no reason for me to intervene. As for the penalties, I confirm them given the Appellant's patently exaggerated representations.
+[25] The person responsible for auditing this file said that she came to this conclusion because the vehicle was the only one registered under the Appellant's name and there was no log; she said that she took account of the type of vehicle and the number of visits, and correctly determined that abuse was clearly involved.
+[26] The use of a log is a validating element of sorts; it is a relevant reference document that may permit a more reliable assessment, but it is certainly not sufficient to protect a vehicle user from a challenge against the merits of a description that is totally unreasonable on its face.
+[27] A log is a useful and appropriate instrument with which the use of a motor vehicle can be measured mathematically. The mere existence of such a log is not in itself a sufficient basis on which to make an absolute determination.
+[28] Essentially, it is an appropriate document to illustrate with greater accuracy and reliability the extent to which a vehicle is being used.
+[29] Like any bookkeeping, report or document, a log can be analyzed to gauge its quality and reliability. In fact, the effect of having a log can be the complete opposite of the effect that had been sought, where, for example, it is clear that the log was filled out after the fact or in a totally arbitrary manner. Such a finding would show that the person who made the report might have wished to hide or mask the true use of the vehicle involved.
+[30] In the case at bar, the explanations struck me as far-fetched and simply implausible for the many reasons discussed. Thus, I do not accept the claims made and the explanations given by the Appellant in support of his appeal, and I find that the Appellant did not discharge his burden of proof. Consequently, his appeal is dismissed and the assessment, including the penalties, is confirmed.
+Signed at Ottawa, Canada, this 18th day of May 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of February 2008.
+Brian McCordick, Translator
+CITATION:
+2006TCC159
+COURT FILE NO.:
+2005-2119(GST)I
+STYLE OF CAUSE:
+Pierre Bélanger and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+March 1, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+May 18, 2006
+APPEARANCES:
+For the Appellant:
+Daniel Cantin
+For the Respondent:
+Robert Poupart
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Daniel Cantin
+Firm:
+City:
+Gagné et LeTarte
+Québec, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

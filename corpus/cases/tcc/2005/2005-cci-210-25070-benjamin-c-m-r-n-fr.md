@@ -1,0 +1,146 @@
+---
+title: "Benjamin c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25070/index.do"
+last_modified: "2005-03-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 210"
+citation2: ""
+neutral_citation: "2005 CCI 210"
+decision_date: "2005-03-22"
+language: "fr"
+item_id: "25070"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2494
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:05:45.544000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "97806e743e05fd089cd34c8baad73fda5592dd98fc648fc02a4ebc662fb88feb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Benjamin c. M.R.N.
+
+- Citation: 2005 CCI 210
+- Decision date: 2005-03-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2494, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benjamin c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-22
+Référence neutre
+2005 CCI 210
+Numéro de dossier
+2004-4210(EI)
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-4210(EI)
+ENTRE :
+NORMAND BENJAMIN,
+Appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 14 mars 2005, à Montréal (Québec)
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+L'appel, en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant une décision du ministre du Revenu national en date du 6 octobre 2004, pour l'année 2003, est admis et l'évaluation des cotisations d'assurance-emploi est annulée.
+Signé à Ottawa, Canada, ce 22e jour de mars, 2005.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2005CCI210
+Date : 20050322
+Dossier : 2004-4210(EI)
+ENTRE :
+NORMAND BENJAMIN,
+Appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'un appel d'une évaluation de cotisation d'assurance-emploi au montant de 1 281,78 $ incluant pénalité et intérêts à l'encontre de Fermes Normand Benjamin inc. (le « payeur ») pour l'année 2003. Selon cette évaluation, l'appelant aurait occupé un emploi assurable auprès du payeur.
+[2] Les paragraphes 6 à 8 de la Réponse à l'avis d'appel énoncent les hypothèses de fait et les conclusions du ministre du Revenu national (« ministre ») à cet égard. Ils se lisent comme suit :
+6. Pour rendre sa décision, le ministre a déterminé que des cotisations d'assurance-emploi étaient payables puisque l'appelant exerçait un emploi auprès du payeur aux termes d'un contrat de louage de services; en s'appuyant sur les faits présumés suivants :
+a) le payeur, constitué en société en 1988, exploite une ferme laitière, porcine et céréalière;
+b) la ferme compte environ 120 bovins dont 60 vaches en lactation et environ 265 truies en sevrage hâtif;
+c) le payeur cultive du blé, du maïs, du soja et du fourrage;
+d) l'appelant rend des services au payeur;
+e) durant la saison estivale, l'appelant s'occupe des porcs et de la porcherie, il travaille aux champs et répare les bâtiments et la machinerie alors que, durant la saison hivernale, il prend soin des porcs et répare la machinerie pour qu'elle soit prête au printemps;
+f) l'appelant travaille 7 jours sur 7, généralement entre 6 h. et 18h., et ne comptabilise pas ses heures de travail;
+g) le conseil d'administration du payeur prend toutes les grandes décisions;
+h) pour exécuter son travail, l'appelant utilise tous les équipements et la machinerie du payeur;
+i) l'appelant recevait une rémunération fixe annuelle et il était rémunéré par chèque;
+j) l'appelant était couvert par une assurance groupe du payeur (assurance médicaments et soins de santé);
+7. De plus, l'appelant et le payeur étaient des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+(a) durant l'année en litige, les actions avec droit de vote du payeur étaient réparties ainsi :
+-l'appelant : 36,67 % des actions,
+-Fernande Bricault : 23,33 % des actions,
+-Pascal Benjamin : 20 % des actions,
+-David Benjamin : 20 % des actions;
+(b) Fernande Bricault est la conjointe de l'appelant;
+(c) Pascal Benjamin et David Benjamin sont les fils de l'appelant;
+(d) l'appelant était membre d'un groupe lié qui contrôlait le payeur;
+8. Le ministre a aussi déterminé que l'appelant et le payeur étaient réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi car il a été convaincu qu'il était raisonnable de conclure que l'appelant et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+(a) l'appelant rend des services au payeur à l'année longue;
+(b) les tâches de l'appelant sont directement reliées aux activités du payeur;
+(c) l'appelant recevait une rémunération fixe annuelle de 24 000 $.
+[3] Les faits énoncés aux paragraphes 6 et 7 sont admis. L'appelant conteste la décision du ministre énoncée au paragraphe 8, bien qu'il reconnaisse la véracité des faits exposés aux alinéas (a), (b) et (c) de ce paragraphe.
+[4] L'appelant et sa conjointe madame Fernande Bricault ont témoignés.
+[5] L'appelant a affirmé qu'il travaillait sept jours par semaine de 6 h à 19 h ou 20 h à chaque jour et que personne ne travaillerait au salaire de 24 000 $ par année pour un aussi grand nombre d'heures. Il a expliqué que la compagnie est à lui, que son salaire a été fixé par le comptable et qu'il est toujours demeuré le même. Selon les chiffres qu'il dit avoir obtenus de son avocat et de l'Union des producteurs agricoles (« UPA »), un travail de 35 heures par semaine commande une rémunération pouvant se chiffrer de 35 000 $ à 38 000 $ par année.
+[6] Dans son témoignage, madame Fernande Bricault a affirmé que le salaire de 35 000 $ par année pour 35 heures de travail par semaine était le salaire de référence utilisé aux fins du Programme canadien de stabilisation du revenu agricole (« PCSRA ») pour établir les coûts de production. Selon elle, sur les fermes, personne sauf les grandes entreprises ne paie des salaires aussi élevés et il arrive même que les gens ne se prennent que 10 000 $ par année. Par ailleurs, elle a expliqué que le payeur avait déjà engagé un travailleur agricole il y a cinq ou six ans et qu'il était rémunéré 450 $ par semaine au terme d'une période de cinq ans. Toutefois, selon elle, il n'était pas question de le faire travailler de 70 à 80 heures par semaine comme son conjoint le faisait pour un salaire de 24 000 $ par année. De plus, il fallait accorder une heure pour le dîner et une heure pour le souper, les jours fériés, une fin de semaine sur deux de congé et deux semaines de vacances l'été, ce qui représente des conditions de travail très différentes de celles de l'appelant qui travaillait sept jours sur sept, sans congé et sans vacances annuelles sauf récemment. Il appert également que le salaire de l'appelant est le même depuis plusieurs années et que la décision a été prise d'augmenter plutôt le salaire de leurs deux fils qui travaillent aussi pour le payeur et dont l'un gagne actuellement 450 $ par semaine et l'autre 325 $ par semaine. Selon madame Bricault le payeur ne peut se permettre de payer des salaires plus élevés et la décision a été prise de leur accorder des augmentations de salaire plutôt que d'augmenter celui de l'appelant, car ils constituent la relève pour l'entreprise familiale alors qu'elle-même et l'appelant se dirigent vers la retraite. Comme elle l'a dit, dans ces conditions, il faut faire des sacrifices.
+[7] L'avocate de l'intimé estime que le ministre a mal exercé sa discrétion puisqu'il n'avait pas d'éléments de comparaison. Toutefois, elle estime que l'analyse de l'ensemble des circonstances de l'emploi de l'appelant mis en preuve, soit la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli fait en sorte qu'il est raisonnable de conclure que le payeur et l'appelant auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance. L'avocate de l'intimé soutient que c'est l'intérêt de l'appelant comme actionnaire du payeur qui fait en sorte qu'il ne s'autorise pas à prendre congé les jours fériés ou des vacances annuelles.
+[8] Je suis en désaccord avec la position exprimée par l'avocate de l'intimé. Si la rémunération de 24 000 $ par année n'est pas hors norme comme la preuve l'a démontrée encore faut-il reconnaître que l'ensemble des conditions de travail de l'appelant dont les heures de travail, l'absence de jours fériés, de fins de semaine, de vacances et d'augmentation de sa rémunération résultent du fait que le payeur exploite une entreprise familiale dont l'appelant est le principal actionnaire. Son intérêt à la viabilité de l'entreprise et son souci à lui et à sa conjointe, madame Bricault à ce que leurs fils assurent la relève dans l'entreprise et les obligent à certains sacrifices, sont des motivations qu'on ne peut ignorer et qui ont dicté, à n'en pas douter, les conditions de travail de l'appelant. Je ne crois pas qu'on puisse raisonnablement conclure que les conditions de travail de l'appelant auraient été à peu près semblables si lui et le payeur n'avaient pas eu de lien de dépendance.
+[9] En conséquence de ce qui précède, l'appel est admis et l'évaluation des cotisations d'assurance-emploi est annulée.
+Signé à Ottawa, ce 22e jour de mars 2005.
+« P. R. Dussault »
+Le juge Dussault
+RÉFÉRENCE : 2005CCI210
+Nº DU DOSSIER DE LA COUR : 2004-4210(EI)
+INTITULÉ DE LA CAUSE : NORMAND BENJAMIN ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 14 mars 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT : le 22 mars 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

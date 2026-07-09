@@ -1,0 +1,209 @@
+---
+title: "GlaxoSmithKline Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25213/index.do"
+last_modified: "2003-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 258"
+citation2: ""
+neutral_citation: "2003 CCI 258"
+decision_date: "2003-06-03"
+language: "fr"
+item_id: "25213"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2573
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:07:19.202000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0420fcd1a15c6b50ccbeab24525d7003053407c3d6f616c9c30302b3cd99a07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# GlaxoSmithKline Inc. v. The Queen
+
+- Citation: 2003 CCI 258
+- Decision date: 2003-06-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2573, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+GlaxoSmithKline Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-03
+Référence neutre
+2003 CCI 258
+Numéro de dossier
+98-712(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 98-712(IT)G
+ENTRE :
+GLAXO SMITHKLINE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue les 26 et 27 février 2003 à Ottawa (Ontario)
+Devant : L'honorable juge E. A. Bowie
+Comparutions
+Avocats de l'appelante :
+Mes Pierre Barasalou, Sébastien Rheault et Zoltan Ambrus
+Avocates de l'intimée :
+Mes Naomi Goldstein et Laurel Irvine
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l'intimée aux fins d'obtenir une ordonnance refusant le dépôt en preuve par l'appelante de tout renseignement ou document étranger visé par une mise en demeure, au motif que ces renseignements et documents n'ont pas été fournis en totalité, ou presque, en application du paragraphe 231.6(8) de la Loi de l'impôt sur le revenu;
+APRÈS AVOIR PRIS CONNAISSANCE des actes de procédure, des déclarations sous serment et des autres documents déposés;
+ET APRÈS AVOIR ENTENDU les avocats des parties;
+IL EST ORDONNÉ à l'appelante de ne pas déposer en preuve, dans le cadre de la présente procédure, du procès ou d'une autre instance, des renseignements ou documents étrangers visés par la mise en demeure qui lui a été signifiée le 16 mars 1995 en vertu de l'article 231.6 de la Loi, sauf en contre-preuve ou en contre-interrogatoire, et uniquement avec l'autorisation du juge qui entendra la cause. Les dépens de la requête suivront le sort de la cause.
+Signé à Ottawa, Canada, ce 3e jour de juin 2003.
+« E. A. Bowie »
+J.C.C.I.
+Traduction certifiée conforme
+ce 17e jour d'octobre 2003.
+Mario Lagacé, réviseur
+Citation : 2003CCI258
+Date : 20030603
+Dossier : 98-712(IT)G
+ENTRE :
+GLAXO SMITHKLINE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Bowie
+[1] Le présent appel, interjeté en vertu de la Loi de l'impôt sur le revenu (la « Loi » ), concerne le prix payé par l'appelante ( « Glaxo » ) pour acquérir auprès de certaines sociétés étrangères affiliées (les « sociétés affiliées » ) le composé chimique appelé ranitidine en vue de l'importer au Canada au cours de ses années d'imposition 1990, 1991, 1992 et 1993. L'appelante et les sociétés affiliées font partie d'un important groupe multinational de sociétés, le groupe Glaxo, qui fabrique différents produits pharmaceutiques et en assure la distribution à l'échelle mondiale. L'appelante est la société active du groupe au Canada, où elle fabrique un médicament très fréquemment prescrit pour le traitement des ulcères. Dans le cadre de cette activité, elle se procure, par l'intermédiaire d'une société affiliée suisse, de la ranitidine fabriquée par les sociétés affiliées afin de l'utiliser dans ses installations de fabrication canadiennes. La question en litige concerne le caractère raisonnable de la contrepartie versée par l'appelante aux sociétés affiliées pour la ranitidine. Le ministre du Revenu national a indiqué que la contrepartie n'était pas raisonnable dans les circonstances et a tenu compte de cette conclusion lors de l'établissement des cotisations. Les appels sont interjetés à l'encontre de ces cotisations. Outre les sociétés affiliées à Glaxo, il y a d'importants fabricants étrangers de ranitidine qui fournissent ce produit à des fabricants de produits génériques au Canada et à l'étranger. Les fabricants canadiens de produits génériques sont des concurrents de l'appelante; ils vendent leurs produits finis sur le marché canadien. L'appelante a fait valoir que, pour l'application de la Loi, il convient d'établir le prix de facturation interne à l'aide de la méthode du prix de revente, tandis que l'intimée estime plutôt qu'il faut utiliser la méthode du prix comparable non contrôlé ou, sinon, la méthode du coût d'achat majoré. Chacune des parties a produit des milliers de documents, et les interrogatoires préalables ont duré des semaines. Le procès n'aura pas lieu avant la fin de l'année. Je précise tout cela afin de situer en contexte la requête que je dois examiner.
+[2] L'intimée demande que soit rendue une ordonnance en vertu du paragraphe 231.6(8) de la Loi. L'ordonnance interdirait à l'appelante de déposer en preuve au procès un grand nombre de documents ainsi que certains témoignages oraux non précisés (et qu'il sera peut-être impossible de délimiter). Ainsi que cela m'a été indiqué au cours de l'audition de la requête, tant l'appelante que l'intimée sont d'accord à propos de quelque 200 documents qui seraient visés par l'ordonnance - et l'intimée avance, pour sa part, qu'il faudrait y ajouter jusqu'à 40 000 documents additionnels. Ni l'une ni l'autre des parties n'a cherché à préciser les témoignages oraux qui seraient visés ni à évaluer la somme de témoignages en question, et je ne connais aucun moyen pratique de le faire.
+[3] La vérification de Glaxo qui a abouti aux nouvelles cotisations en cause a débuté en 1993. L'un des principaux éléments auxquels s'est intéressé M. Tom Burkimsher, le vérificateur du ministre, était le prix de facturation interne appliqué dans le cadre de la vente de la ranitidine à l'appelante par la société affiliée suisse. Le vérificateur a proposé de voir, relativement à ce prix, ce que l'on obtiendrait avec la méthode du prix comparable non contrôlé. Le 14 octobre 1994, il a demandé à M. Ray Willis, de Glaxo, de lui communiquer certains renseignements. Voici ce qu'il demandait :
+[TRADUCTION]
+1) Est-ce que Glaxo, que ce soit au Canada ou à l'étranger, a déjà procédé à des analyses comparatives entre sa ranitidine et celle utilisée par les fabricants de médicaments génériques ou celle que l'on peut se procurer sur le marché?
+2) Si tel est le cas, veuillez fournir ces analyses.
+[4] Il y a eu d'autres échanges entre MM. Burkimsher et Willis au cours des mois suivants mais, en mars 1995, M. Burkimsher n'avait toujours pas reçu de réponse à sa demande. Étant donné que la déclaration de revenu de 1990 allait être frappée de prescription à la fin du mois de juin, M. Burkimsher a signifié deux mises en demeure à Glaxo, l'une en vertu de l'article 231.2 pour exiger la présentation de renseignements, et de documents situés au Canada, l'autre en vertu de l'article 231.6 pour exiger la présentation de renseignements et de documents étrangers. C'est uniquement la dernière mise en demeure qui importe relativement à la question qui est portée à mon attention dans la présente requête.
+[5] Avant de poursuivre, je reproduis intégralement l'article 231.6 de la Loi.
+231.6(1) Pour l'application du présent article, un renseignement ou document étranger s'entend d'un renseignement accessible, ou d'un document situé, à l'étranger, qui peut être pris en compte pour l'application ou l'exécution de la présente loi, y compris la perception d'un montant payable par une personne en vertu de la présente loi.
+231.6(2) Malgré les autres dispositions de la présente loi, le ministre peut, par avis signifié à personne ou envoyé par courrier recommandé ou certifié, exiger d'une personne résidant au Canada ou d'une personne n'y résidant pas mais y exploitant une entreprise de fournir des renseignements ou documents étrangers.
+231.6(3) L'avis doit:
+a) indiquer le délai raisonnable, d'au moins 90 jours, dans lequel les renseignements ou documents étrangers doivent être fournis;
+b) décrire les renseignements ou documents étrangers recherchés;
+c) préciser les conséquences prévues au paragraphe (8) du défaut de fournir les renseignements ou documents étrangers recherchés dans le délai ci-dessus.
+231.6(4) La personne à qui l'avis est signifié ou envoyé peut, dans les 90 jours suivant la date de signification ou d'envoi, contester, par requête à un juge, la mise en demeure du ministre.
+231.6(5) À l'audition de la requête, le juge peut:
+a) confirmer la mise en demeure;
+b) modifier la mise en demeure de la façon qu'il estime indiquée dans les circonstances;
+c) déclarer sans effet la mise en demeure s'il est convaincu que celle-ci est déraisonnable.
+231.6(6) Pour l'application de l'alinéa (5)c), le fait que des renseignements ou documents étrangers soient accessibles ou situés chez une personne non-résidente qui n'est pas contrôlée par la personne à qui l'avis est signifié ou envoyé, ou soient sous la garde de cette personne non-résidente, ne rend pas déraisonnable la mise en demeure de fournir ces renseignements ou documents, si ces deux personnes sont liées.
+231.6(7) Le délai qui court entre le jour où une requête est présentée conformément au paragraphe (4) et le jour où il est décidé de la requête ne compte pas dans le calcul:
+a) du délai indiqué dans l'avis correspondant à la mise en demeure qui a donné lieu à la requête;
+b) du délai dans lequel une cotisation peut être établie conformément au paragraphe 152(4).
+231.6(8) Si une personne ne fournit pas la totalité, ou presque, des renseignements ou documents étrangers visés par la mise en demeure signifiée conformément au paragraphe (2) et si la mise en demeure n'est pas déclarée sans effet par un juge en application du paragraphe (5), tout tribunal saisi d'une affaire civile portant sur l'application ou l'exécution de la présente loi doit, sur requête du ministre, refuser le dépôt en preuve par cette personne de tout renseignement ou document étranger visé par la mise en demeure.
+231.6(1) For the purposes of this section, "foreign-based information or document" means any information or document that is available or located outside Canada and that may be relevant to the administration or enforcement of this Act, including the collection of any amount payable under this Act by any person.
+231.6(2) Notwithstanding any other provision of this Act, the Minister may, by notice served personally or by registered or certified mail, require that a person resident in Canada or a non-resident person carrying on business in Canada provide any foreign-based information or document.
+231.6(3) The notice referred to in subsection (2) shall set out
+(a) a reasonable period of time of not less than 90 days for the production of the information or document;
+(b) a description of the information or document being sought; and
+(c) the consequences under subsection (8) to the person of the failure to provide the information or documents being sought within the period of time set out in the notice.
+231.6(4) The person on whom a notice of a requirement is served under subsection (2) may, within 90 days after the service of the notice, apply to a judge for a review of the requirement.
+231.6(5) On hearing an application under subsection (4) in respect of a requirement, a judge may
+(a) confirm the requirement;
+(b) vary the requirement as the judge considers appropriate in the circumstances; or
+(c) set aside the requirement if the judge is satisfied that the requirement is unreasonable.
+231.6(6) For the purposes of paragraph (5)(c), the requirement to provide the information or document shall not be considered to be unreasonable because the information or document is under the control of or available to a non-resident person that is not controlled by the person served with the notice of the requirement under subsection (2) if that person is related to the non-resident person.
+231.6(7) The period of time between the day on which an application for review of a requirement is made pursuant to subsection (4) and the day on which the review is decided shall not be counted in the computation of
+(a) the period of time set out in the notice of the requirement; and
+(b) the period of time within which an assessment may be made pursuant to subsection 152(4).
+231.6(8) If a person fails to comply substantially with a notice served under subsection (2) and if the notice is not set aside by a judge pursuant to subsection (5), any court having jurisdiction in a civil proceeding relating to the administration or enforcement of this Act shall, on motion of the Minister, prohibit the introduction by that person of any foreign-based information or document covered by that notice.
+Le libellé exact de la mise en demeure est lui aussi important. Le voici :
+[TRADUCTION]
+Livré en mains propres
+Glaxo Canada Inc.
+7333, chemin Mississauga nord
+Mississauga (Ontario)
+L5N 6L4
+B.D. de Mississauga
+et
+B.P. 6000
+Michael McTeague
+77, promenade City Centre
+Membre de la direction de
+Mississauga (Ontario)
+Glaxo Canada Inc.
+L5A 4E9
+Le 16 mars 1995
+Monsieur McTeague,
+Aux termes du paragraphe 231.6(2) de la Loi de l'impôt sur le revenu, vous êtes tenu de fournir les renseignements et documents étrangers suivants d'ici le 15 juin 1995 :
+i) Toutes les études comparatives et autres (pour l'application de l'impôt et toute autre fin) que votre société, l'une de ses sociétés affiliées ou toute autre partie a effectuées, qu'elle a en sa possession ou dont elle connaît l'existence, qui porte sur l'hydrochlorure de ranitidine produit par Glaxochem (PTE) Ltd. à Singapour, par rapport à l'hydrochlorure de ranitidine pouvant être obtenu d'autres sources ou fournisseurs. Veuillez préciser toutes les différences observées et, le cas échéant, indiquer si ces différences ont une incidence sur les effets cliniques des ingrédients actifs. Veuillez aussi déterminer la pertinence thérapeutique et clinique associée à chaque différence observée.
+ii) Une explication du rapport existant entre les différences mentionnées au paragraphe i) et l'établissement du prix de l'hydrochlorure de ranitidine. Veuillez fournir toutes les analyses effectuées pour mesurer les répercussions de chacune des différences en question sur les prix.
+iii) Toute autre différence d'ordre scientifique ou technique non mentionnée au paragraphe i) qui a des répercussions sur l'établissement des prix, ainsi que l'explication de chaque différence, le cas échéant.
+iv) Des exemplaires complets et lisibles de la totalité des données, des rapports, des résumés et autres documents d'appoint préparés en vue de se conformer aux paragraphes i) et iii). Si la documentation comporte des photographies ou des épreuves prêtes pour la reproduction, il faut fournir des duplicatas de ces photographies et épreuves plutôt que des photocopies.
+De façon à vous conformer à cette mise en demeure, veuillez fournir ces renseignements et documents à Ian Thompson ou à Tom Burkimsher, du bureau de district mentionné précédemment, qui se présenteront à votre bureau à cette fin.
+Nous attirons votre attention sur le paragraphe 231.6(8) de la Loi de l'impôt sur le revenu, qui établit que, si une personne ne fournit pas la totalité, ou presque, des renseignements et documents étrangers visés par la mise en demeure signifiée conformément au paragraphe 231.6(2) et si la mise en demeure n'est pas déclarée sans effet par un juge en application du paragraphe 231.6(5), tout tribunal saisi d'une affaire civile portant sur l'application ou l'exécution de la Loi de l'impôt sur le revenu devra, sur requête du ministre, refuser le dépôt en preuve par cette personne de tout renseignement ou document étranger visé par la mise en demeure.
+Veuillez agréer l'expression de mes sentiments distingués.
+Barbara Hébert
+Directrice
+Bureau de district de Mississauga
+Ministère du Revenu national
+Date de signification : ____16-03-1995
+Reçu par : [Illisible]
+Agent ayant signifié l'avis : « Tom Burkimsher »
+[6] L'appelante ne conteste pas que la mise en demeure prévue à l'article 231.6 a été dûment signifiée ni que son contenu était conforme à ce que prescrit ledit article. De plus, elle n'a pas demandé à un juge de modifier la mise en demeure ou de la déclarer sans effet comme l'y autorisait le paragraphe 231.6(4). Toutefois, un seul document[1] a été produit en réponse à celle-ci dans le délai imparti. Selon ce qui ressort du grand nombre de déclarations sous serment et de contre-interrogatoires présentés lors de l'audition de la requête, la thèse de la société mère de l'appelante est qu'il n'était pas souhaitable de fournir les documents visés par la mise en demeure, pour des raisons n'ayant rien à voir avec la vérification en cours. Il semble en outre que l'appelante se soit fait une fausse idée de la portée de la mise en demeure en supposant que les renseignements et documents visés étaient les mêmes que ceux ayant fait l'objet précédemment d'une demande informelle de la part de M. Burkimsher.
+Thèses des parties
+[7] La thèse de l'intimée est simple. La mise en demeure est valide; elle n'a pas été modifiée ni déclarée sans effet en application du paragraphe 231.6(4), et les renseignements et documents requis n'ont pas été fournis en totalité, ou presque, dans le délai imparti. Selon l'intimée, des milliers de documents auraient dû être produits; une liste de ces documents, épaisse de 8 centimètres, a été déposée lors de l'audition de la requête. Même en tenant compte de la lecture plus limitative de la mise en demeure par l'appelante, des centaines de documents visés n'ont pas été produits. Le paragraphe 231.6(8) a force exécutoire, et je dois donc rendre l'ordonnance que requiert l'intimée en vue d'interdire à l'appelante de déposer au procès des renseignements et documents étrangers qui étaient visés par la mise en demeure. Ni moi ni le juge qui entendra la cause n'avons de pouvoir discrétionnaire sur ce point, à partir du moment où il a été démontré qu'il n'avait pas été satisfait, en totalité ou presque, à la mise en demeure.
+[8] Les arguments de l'appelante peuvent être examinés selon deux grands axes. D'abord, l'appelante soutient que l'article 231.6 ne peut être interprété et appliqué sans que cela ait pour effet de la priver de son droit à une audition impartiale de sa cause, selon les principes de justice fondamentale. Cet article est dès lors rendu inopérant par l'alinéa 2e) de la Déclaration canadienne des droits[2]. Puis, elle fait valoir subsidiairement que le libellé général de la disposition doit faire l'objet d'une lecture limitative, à la lumière de l'ensemble des rapports entre M. Burkimsher et les représentants de l'appelante avec lesquels il a traité avant la signification de la mise en demeure. La plus grande partie des déclarations sous serment et les contre-interrogatoires dont elles ont fait l'objet avaient pour objet de démontrer que les représentants de l'appelante avaient été amenés à croire que, en réponse à la mise en demeure, ils étaient censés produire toute analyse comparative existante de la ranitidine du groupe Glaxo et de celle d'autres fabricants. Les avocats de l'appelante ont aussi soutenu que, étant donné ces discussions passées, l'intimée était précluse d'élargir la portée de la mise en demeure.
+[9] Je me propose d'examiner d'abord la question de la portée qu'a la mise en demeure. Je ne souscris pas à l'argument de l'appelante voulant que les discussions entre les représentants des deux parties aient pour effet de restreindre la portée de la mise en demeure écrite. La Loi a été élaborée avec soin de manière qu'il soit précisé que la mise en demeure doit être formulée par écrit et établir par écrit les renseignements et documents visés. Des modifications peuvent y être apportées, mais uniquement si un juge rend une ordonnance à cet effet. Le législateur a de toute évidence été conscient que le degré de certitude offert par un instrument écrit était requis aux fins de circonscrire l'application d'une mise en demeure de fournir des renseignements et des documents. À mon avis, toute modification du libellé de la mise en demeure devrait elle aussi être formulée par écrit et faire part sans la moindre équivoque de l'intention de modifier le document d'origine. Je ne trouve rien de tel dans la documentation qui m'a été soumise. Aux fins de la présente requête, je conviens qu'un contribuable auquel est signifiée une mise en demeure en application de l'article 231.6 puisse faire opposition à une ordonnance rendue en vertu du paragraphe (8) s'il est démontré qu'un représentant du ministre a délibérément amené ce contribuable à croire qu'il n'aurait pas à se conformer, en totalité ou presque, à la mise en demeure et si ce dernier omet pour cette raison de s'y conformer. Ce n'est pas une situation de ce genre que révèlent les déclarations sous serment et les transcriptions déposées. Tout au plus, les déclarations sous serment de MM. Willis et Winterborn, ainsi que le contre-interrogatoire de M. Burkimsher, établissent-ils que M. Willis avait supposé que, de par son libellé, la mise en demeure n'avait pas une portée plus vaste que la demande informelle faite par M. Burkimsher en octobre 1994. Même si le libellé de la mise en demeure manque de soin, notamment au paragraphe (iii), il demeure certain que sa portée est plus large que celle de la demande faite en octobre 1994. On peut comprendre que M. Willis ait pu avoir de la difficulté à comprendre le paragraphe (iii). Mais, dans ce cas, il aurait dû demander des précisions à M. Burkimsher et, en cas de nécessité, demander que la mise en demeure soit modifiée en vertu du paragraphe (4) afin qu'un libellé plus précis soit utilisé. Puisque cela n'a pas été fait, l'appelante doit se fonder sur la signification raisonnable du paragraphe (iii). Elle ne peut simplement choisir de ne pas en tenir compte.
+[10] Je vais maintenant me pencher sur la portée de la mise en demeure. Les renseignements et documents à fournir sont décrits dans quatre paragraphes, que je vais étudier l'un après l'autre. Mais avant, je tiens à observer que le libellé du document laisse passablement à désirer. Si l'on considère que la mise en demeure a été rédigée par le ministre et que le fait de ne pas s'y conformer est lourd de conséquence pour le contribuable, elle doit être interprétée selon la règle contra proferentem (toute ambiguïté est interprétée contre la partie qui a rédigé le document).
+[11] Le premier paragraphe mentionne d'abord les études comparatives et autres sur la ranitidine produite par la société affiliée de Glaxo par rapport à celle pouvant être obtenue auprès d'autres sources; on y demande ensuite de préciser toutes les « différences » observées et de fournir des renseignements particuliers sur ces différences. Il est impossible de donner un sens précis au mot « autres » dans la première phrase, considérant que celle-ci se termine par les mots [TRADUCTION] « par rapport au hydrochlorure de ranitidine pouvant être obtenu d'autres sources ou fournisseurs » . Si j'ajoute à cela la mention des « différences » dans les phrases suivantes, j'en conclus qu'il n'y a pas lieu d'interpréter le paragraphe (i) comme s'il signifiait qu'il y a d'autres renseignements et documents à fournir que les études qui comparent la ranitidine de Glaxo à celle provenant d'autres sources, ainsi que les détails portant sur les différences constatées par ces études.
+[12] La portée du deuxième paragraphe est limitée par la mention des [TRADUCTION] « différences mentionnées au point (i) » . Ce paragraphe vise donc uniquement les explications portant sur les différences entre la ranitidine de Glaxo et celle d'autres sources selon les études comparatives visées au paragraphe (i).
+[13] Le paragraphe (iii) fait mention de [TRADUCTION] « toute autre différence d'ordre scientifique ou technique non mentionnée au paragraphe (i) qui a des répercussions sur l'établissement des prix, ainsi que l'explication de chaque différence, le cas échéant » . Dans le contexte, ces mots peuvent seulement désigner des documents, autres que les études comparatives visées au paragraphe (i), fournissant des preuves ou des données sur des différences d'ordre scientifique ou technique entre la ranitidine de Glaxo et celle d'autres sources dont Glaxo ou ses sociétés affiliées avaient connaissance, ou contenant des renseignements sur la manière dont ces différences peuvent influer sur les prix relatifs de la ranitidine de Glaxo et de celle d'autres sources. À mon avis, le paragraphe (iii) ne peut être interprété comme visant tous les documents qui, s'ils étaient lus de concert, auraient tendance à montrer qu'il y a des différences d'ordre scientifique ou technique entre la ranitidine de Glaxo et celle d'autres sources. Si c'est là ce que l'on souhaitait, il aurait fallu le dire de façon plus précise, peut-être en mentionnant tous les documents contenant des renseignements sur les propriétés d'ordre scientifique ou technique de la ranitidine de Glaxo et ceux contenant de tels renseignements sur la ranitidine d'autres sources. Il se peut que la portée de ce paragraphe tel que libellé ne soit pas plus large, ou si peu, que celle du paragraphe (i) relativement aux documents visés. Par contre, elle peut englober les connaissances dont disposent un ou plusieurs employés des sociétés affiliées de Glaxo. Je ne suis pas disposé à interpréter ce paragraphe de manière telle qu'il vise tous les documents qui, s'ils étaient lus de concert, révéleraient l'existence d'autres [TRADUCTION] « différence[s] [...] [ayant] des répercussions sur l'établissement des prix » . Ainsi que je l'ai dit, il convient d'interpréter de façon restrictive la mise en demeure là où il y a ambiguïté.
+[14] Le paragraphe (iv) ne contient aucune autre exigence importante.
+[15] Les parties ont convenu au cours de l'audition de la requête qu'il ne me serait pas possible de me prononcer sur chacun des documents en litige, qui se comptent par milliers, en vue d'établir lesquels sont visés par la mise en demeure. J'ai étudié la description des documents faisant partie des pièces jointes aux déclarations sous serment produites. À quelques exceptions près, je n'y trouve pas suffisamment de renseignements pour pouvoir dire si ces documents sont visés ou non. Il appartiendra à l'appelante, à la lumière des présents motifs, et sous réserve bien sûr de toute modification apportée lors de l'appel, de déterminer les documents qu'elle souhaite produire en preuve, et à l'intimée d'établir lesquels de ces documents sont selon elle visés par la mise en demeure et ne peuvent de ce fait être produits par l'appelante lors du procès. C'est seulement à ce moment qu'une décision pourra être rendue concernant les documents en litige.
+[16] Examinons maintenant l'argument de l'appelante reposant sur l'alinéa 2e) de la Déclaration canadienne des droits, qui se lit ainsi :
+2. Toute loi du Canada, à moins qu'une loi du Parlement du Canada ne déclare expressément qu'elle s'appliquera nonobstant la Déclaration canadienne des droits, doit s'interpréter et s'appliquer de manière à ne pas supprimer, restreindre ou enfreindre l'un quelconque des droits ou des libertés reconnus et déclarés aux présentes, ni à en autoriser la suppression, la diminution ou la transgression, et en particulier, nulle loi du Canada ne doit s'interpréter ni s'appliquer comme
+2. Every law of Canada shall, unless it is expressly declared by an Act of the Parliament of Canada that it shall operate notwithstanding the Canadian Bill of Rights, be so construed and applied as not to abrogate, abridge or infringe or to authorize the abrogation, abridgment or infringement of any of the rights or freedoms herein recognized and declared, and in particular, no law of Canada shall be construed or applied so as to
+e) privant une personne du droit à une audition impartiale de sa cause, selon les principes de justice fondamentale, pour la définition de ses droits et obligations;
+(e) deprive a person of the right to a fair hearing in accordance with the principles of fundamental justice for the determination of his rights and obligations;
+[17] L'appelante fait valoir que le paragraphe 231.6(8) porte atteinte au droit qu'a un appelant devant notre cour à une audition impartiale de sa cause, selon les principes de justice fondamentale, étant donné qu'une ordonnance rendue aux termes de ce paragraphe l'empêche de produire des éléments de preuve pertinents qui seraient admissibles par ailleurs, tandis que l'intimé peut présenter la totalité ou une partie de ces éléments de preuve. De fait, l'intimé a toute latitude pour présenter certains éléments de preuve visés par l'ordonnance qui peuvent servir sa thèse, mais non d'autres éléments pertinents venant les contredire ou les nuancer. Supposons par exemple que, parmi les documents visés par une ordonnance, on retrouve deux opinions émises par un scientifique au sujet de la qualité du produit en cause, la seconde de ces opinions venant contredire ou nuancer la première en raison d'une erreur qui s'y trouve : l'intimé pourrait alors invoquer la première opinion au procès, et l'appelant n'aurait pas la possibilité de présenter la seconde à la Cour. On soutient que cette situation priverait l'appelant de son droit à une audition impartiale de sa cause, selon les principes de justice fondamentale. Les avocats de l'appelante ont aussi exposé des situations où le contribuable peut être sous le coup d'une ordonnance rendue aux termes du paragraphe (8) sans avoir eu la possibilité de se conformer à la mise en demeure qui lui a été signifiée. Prenons l'exemple d'un dirigeant du contribuable à qui la mise en demeure a été signifiée, et supposons qu'il met cette dernière dans son porte-documents, qu'il prend l'avion et que celui-ci s'écrase. Il se pourrait alors que le délai imparti s'écoule sans qu'aucun autre représentant du contribuable sache qu'une mise en demeure avait été signifiée. Je suppose de même qu'un contribuable qui a fait tout ce qui était nécessaire pour se conformer à une mise en demeure puisse voir ses efforts réduits à néant par suite de la perte des documents en cours d'expédition lors du dernier jour avant l'expiration du délai imparti.
+[18] L'avocate de l'intimée a soutenu que le paragraphe (4) suffit à garantir le respect du droit qu'a le contribuable à une audition impartiale de sa cause. Si une mise en demeure est trop astreignante de par son libellé, elle peut être modifiée par un juge à la demande du contribuable. Elle convient toutefois, par la force des choses, que, une fois expiré le délai de 90 jours prévu au paragraphe (4), ni le juge qui entend une requête présentée en vertu du paragraphe (8), ni celui qui entend la cause ne peuvent soustraire le contribuable aux conséquences du non-respect de la mise en demeure, peu importent les circonstances. Ainsi que cela est indiqué expressément dans la Loi, le juge qui entend une requête d'ordonnance en application du paragraphe (8) peut uniquement établir si la totalité, ou presque, des renseignements et documents visés par la mise en demeure ont été fournis; si tel n'est pas le cas, il doit rendre l'ordonnance requise, sans tenir compte des circonstances. À partir du moment où l'ordonnance a été rendue, le juge qui entend la cause a les mains liées; il ne peut en aucun cas autoriser l'appelant à produire en preuve des documents visés par l'ordonnance.
+[19] Il ressort de ce qui précède que, lorsqu'il s'agit de déterminer l'assujettissement d'un contribuable à l'impôt, l'article 231.6 peut, dans certaines circonstances, violer le droit de ce contribuable à une audition impartiale de sa cause, selon les principes de justice fondamentale. Cela ne règle toutefois pas la question. Lors de l'audition de la requête, les avocats des deux parties ont présenté des observations sur la question de savoir si l'application d'un critère analogue à celui que l'on retrouve à l'article premier de la Charte canadienne des droits et libertés permettrait de conclure que l'incidence de l'article 231.6 sur le droit à une audition impartiale est justifiable dans le cadre d'une société libre et démocratique[3]. Cependant, avant d'examiner cet aspect de la présente affaire, je vais étudier la question des redressements qu'il convient d'apporter en cas de violation de la Déclaration canadienne des droits.
+[20] Dans l'affaire MacBain c. Lederman[4], la Cour d'appel fédérale a souscrit à l'argument de l'appelant selon lequel les dispositions de la Loi canadienne sur les droits de la personne[5] régissant les audiences du Tribunal des droits de la personne portaient atteinte à son droit à une audition impartiale de sa cause en contravention à l'alinéa 2e) de la Déclaration canadienne des droits. Le juge Heald de la Cour d'appel, dans le cadre de son examen des redressements à apporter, a étudié les causes où la Cour suprême avait appliqué la Déclaration canadienne des droits relativement à des dispositions législatives qu'elle avait jugées inopérantes et a conclu que les effets des redressements touchant les dispositions qui vont à l'encontre de la Déclaration doivent se limiter aux circonstances particulières de l'affaire examinée par les tribunaux. Contrairement à la Charte, la Déclaration canadienne des droits ne confère aux tribunaux aucun pouvoir de portée générale les autorisant à prévoir des redressements, par exemple déclarer une loi invalide; elle les autorise uniquement à conclure qu'il y a eu violation de ses dispositions dans les circonstances en cause, puis à « remédier aux lacunes constitutionnelles de la loi dans les circonstances de l'espèce » [6]. C'est le juge Heald qui a souligné ici. J'en conclus que je n'ai pas pour mandat de conclure que, dans l'une des situations hypothétiques formulées lors des plaidoiries, l'article 231.6 pourrait tôt ou tard violer l'alinéa 2e) et juger de ce fait qu'il est inopérant. En l'espèce, l'appelante avait 90 jours pour demander que la mise en demeure soit modifiée ou même déclarée sans effet en vertu du paragraphe (4). Je n'ai pas entendu maître Barsalou soutenir qu'il y a eu jusqu'à maintenant quelque atteinte que ce soit aux droits de l'appelante en vertu de l'alinéa 2e). Le point sur lequel il insiste est le fait que moi-même, relativement à la présente requête, et plus tard le juge qui entendra la cause, n'avons aucun pouvoir discrétionnaire nous permettant d'éviter qu'une injustice soit commise lors du procès.
+[21] Au cours de sa plaidoirie, maître Barsalou a convenu qu'une disposition du genre de l'article 231.6 était nécessaire pour prévenir les abus dans le cadre des différends portant sur l'établissement des prix de facturation interne. Il est clair selon moi que, à défaut de cette disposition, on aurait bien des raisons de craindre que les répartiteurs de l'impôt au service du ministre ne puissent avoir accès aux renseignements et documents dont ils ont besoin pour établir comme il se doit les cotisations dans de tels cas. L'avantage que peut obtenir un groupe multinational de sociétés en transférant des bénéfices d'un pays où les impôts sont élevés à un autre où ils sont plus bas, voire inexistants, se passe de commentaire, tout comme la tentation de conserver par-devers soi, dans des pays où les autorités fiscales ne peuvent y accéder, des documents et d'autres éléments de preuve qui ne serviraient pas la cause du contribuable, et de ne fournir au répartiteur menant une vérification que les documents utiles au contribuable. La véritable question à trancher consiste à savoir si l'absence de tout pouvoir discrétionnaire de la part du juge qui entend une requête en application du paragraphe (8) ou du juge qui entend la cause peut être justifiée. À mon avis, la réponse est non, pour la raison que j'ai mentionnée précédemment. Si je devais rendre l'ordonnance requise selon le sens strict du paragraphe (8), le juge qui entendra la cause n'aurait aucune possibilité d'éviter un abus du genre de ceux que j'ai décrits précédemment, d'où le risque que l'audition de la cause ne soit pas impartiale. L'intimée m'a présenté des éléments de preuve, soit une déclaration sous serment de M. Ernewein, afin d'établir le caractère nécessaire d'une disposition comme l'article 231.6 pour l'application de la Loi. Cependant, aucune preuve ne laisse croire que cet article ne pourrait donner le résultat escompté tout en laissant au juge qui entend la cause un pouvoir discrétionnaire ultime lui permettant d'admettre des éléments de preuve qui seraient par ailleurs exclus dans les circonstances où il est démontré que la chose est nécessaire pour prévenir une injustice. L'avocate de l'intimée n'a pas non plus présenté d'arguments en ce sens lors de sa plaidoirie. Selon ce que j'ai compris, elle soutenait simplement que, de l'avis du législateur, aucun pouvoir discrétionnaire de ce genre n'est nécessaire. Je dois respectueusement exprimer mon désaccord avec sa position. Je conclus que cet article, sous sa forme actuelle, peut s'avérer indûment limitatif, étant donné que, dans certains cas, le juge qui entend une cause peut être dans l'impossibilité de prévenir une injustice.
+[22] Dès lors, quel est le redressement qui convient au vu des faits en l'espèce? Le Congrès américain a adopté une loi similaire[7]. Cette loi interdit de façon générale la présentation de documents étrangers visés par une demande officielle de production de documents, mais prévoit une exception d'application générale si le contribuable peut invoquer des causes raisonnables justifiant le défaut de produire les documents demandés. Toutefois, dans la présente affaire, aucune cause raisonnable ne peut être avancée. L'appelante n'a fait à peu près aucun effort pour se conformer à la mise en demeure, pour des raisons qui la regardent, elle ou sa société mère. Aucune exception au titre de causes raisonnables n'est nécessaire ici. Il suffit que le juge qui entendra la cause puisse autoriser l'appelante à produire en contre-preuve des éléments dont le dépôt serait par ailleurs refusé aux termes de l'article 231.6 si la chose est nécessaire en vue de prévenir une injustice. L'ordonnance portera donc que l'appelante ne peut déposer dans le cadre de la présente instance, du procès ou d'une autre instance, quelque renseignement ou document étranger que ce soit visé par l'avis qui lui a été signifié le 16 mars 1995 en application de l'article 231.6 de la Loi, sauf en contre-preuve ou en contre-interrogatoire, et uniquement sur autorisation du juge qui entendra la cause. Les dépens de la requête suivront le sort de la cause.
+Signé à Ottawa, Canada, ce 3e jour de juin 2003.
+« E. A. Bowie »
+J.C.C.I.
+Traduction certifiée conforme
+ce 17e jour d'octobre 2003.
+Mario Lagacé, réviseur
+[1] La question de savoir s'il y a un seul document ou s'il y en a deux fait l'objet d'une certaine contestation, mais cela est sans importance pour l'examen de la présente requête.
+[2] L.R.C. 1985, app. III.
+[3] Voir Air Canada c. La Procureure générale du Canada, 2003qcca10010, [2003] J.Q. no 21 (Q.L.).
+[4] [1985] 1 C.F. 856 (C.A.F.).
+[5] S.C. 1976-1977, ch. 33.
+[6] MacBain, précité, p. 884.
+[7] Titre 26, sous-titre A, chapitre 1, section de chapitre N, partie III, sous-partie I, art. 982.

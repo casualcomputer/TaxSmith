@@ -1,0 +1,147 @@
+---
+title: "McBrearty c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/453718/index.do"
+last_modified: "2019-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 268"
+citation2: ""
+neutral_citation: "2019 CCI 268"
+decision_date: "2019-11-28"
+language: "fr"
+item_id: "453718"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4286
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:05:32.835000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86073bcc20e8d87498d7388b9740d99b7d38c1a648a2c2ec85c5c9a513788e91"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McBrearty c. La Reine
+
+- Citation: 2019 CCI 268
+- Decision date: 2019-11-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4286, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McBrearty c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-11-28
+Référence neutre
+2019 CCI 268
+Numéro de dossier
+2019-1601(IT)APP
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1601(IT) APP
+ENTRE :
+SHAWN PATRICK MCBREARTY,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 24 octobre 2019, à Toronto (Ontario).
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour le demandeur :
+Le demandeur lui-même
+Avocat de l’intimée :
+Me Eric Myles
+ORDONNANCE
+ATTENDU QUE la Cour, à cette date, a rendu ses motifs d’ordonnance concernant la présente demande;
+PAR CONSÉQUENT, la demande visant les cotisations établies aux termes de la Loi de l’impôt sur le revenu, LRC 1985, ch.1, dans sa version modifiée (la Loi), relativement aux avis de cotisations nos 4298001 et 4298046, tous deux datés du 28 mars 2017, est rejetée, sans dépens.
+Signé à Edmonton (Alberta), ce 28e jour de novembre 2019.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2019 CCI 268
+Date : 20191128
+Dossier : 2019-1601(IT) APP
+ENTRE :
+SHAWN PATRICK MCBREARTY,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+[1] Le demandeur, M. McBrearty, soumet la présente demande de prorogation du délai pour déposer une opposition à deux avis de cotisation. Les avis de cotisation ont été envoyés à la même date, soit le 28 mars 2017. Ils portent sur la dette fiscale impayée et non perçue de Logoed Goods Inc. (LGI).
+[2] Les arriérés s’élèvent à environ 56 000 $ et 52 500 $. Le ministre a établi une cotisation à l’égard de M. McBrearty à titre d’administrateur de LGI au moment où l’obligation fiscale a pris naissance. À ce jour, M. McBrearty est toujours légalement l’administrateur de LGI.
+[3] M. McBrearty ne conteste pas l’envoi des avis de cotisation. Il ne conteste pas s’être opposé aux avis de cotisation pour la première fois le 10 octobre 2018. Enfin, il a confirmé à la Cour que sa demande de prorogation du délai pour présenter un avis d’opposition a été présentée au ministre le 22 février 2019, et que le ministre l’a rejetée le 22 mars 2019. De plus, il n’est pas contesté que M. McBrearty a déposé sa demande de prorogation du délai pour déposer un avis d’opposition le 26 avril 2019.
+[4] Selon le libellé impératif du paragraphe 166.1(7), « [i]l n’est fait droit à la demande que si [...] la demande est présentée dans l’année suivant l’expiration du délai [...] pour signifier un avis d’opposition [...] ». Ainsi, le ministre n’accordera aucune latitude au contribuable lorsque sa demande de prorogation est présentée après l’expiration du délai d’un an suivant la période de 90 jours au cours de laquelle un avis d’opposition peut être déposé (le « délai de prescription »). Cette interdiction s’applique également à notre Cour, d’après le paragraphe 166.2(5) de la Loi qui est formulé de la même manière.
+[5] La Cour d’appel fédérale a confirmé le caractère inflexible de cette interdiction claire. Dans l’arrêt Vo c. Canada, 2015 CAF 246, aux paragraphes 7 et 8, le juge Ryer a confirmé que le Parlement, par l’entremise de la Loi, empêche le ministre et notre Cour d’accueillir une demande lorsqu’elle est présentée après le délai de prescription.
+[6] M. McBrearty soutient que sa demande est différente pour plusieurs raisons. Le directeur de LGI, le père de M. McBrearty, était atteint d’une maladie en phase terminale pendant la période de nouvelle cotisation et d’opposition. LGI étant l’entreprise de son père, M. McBrearty s’est fié à ce dernier. M. McBrearty n’avait aucun contrôle sur l’opposition parce qu’il ne traitait aucun des documents requis pour contester les avis de cotisation. Enfin, le décès du père de M. McBrearty avant la date d’expiration du délai pour obtenir une prorogation a compliqué davantage la situation.
+[7] Certains faits de l’espèce ne sont pas contestés. Au début du mois d’avril 2018, le père de M. McBrearty a présenté des symptômes de la maladie de Creutzfeldt-Jakob, une maladie mortelle du système nerveux central. Le diagnostic a été confirmé en mai 2018. Le père de M. McBrearty a été hospitalisé en juin 2018. Il n’a plus jamais quitté l’hôpital. Il est décédé le 4 août 2018.
+[8] M. McBrearty a indiqué à la Cour du rôle qu’il avait joué quant aux avis de cotisation. La dette fiscale de LGI remonte à la période de 2008 à 2010. M. McBrearty reconnaît que les dispositions de la Loi font de lui un débiteur fiscal par procuration; toutefois, il n’était pas informé des affaires financières de LGI. Au cours de la période visée, le seul rôle de M. McBrearty dans l’entreprise était celui de graphiste. Il n’avait connaissance d’aucune difficulté financière. Il a quitté LGI définitivement à la fin de 2009 et n’a plus eu d’autre lien avec l’entreprise par la suite.
+[9] M. McBrearty a été mis au courant de la dette fiscale lorsqu’il a reçu les avis de cotisation en mars 2017. Il est allé voir son père. Ce dernier lui a assuré qu’il résoudrait l’affaire et qu’il n’avait pas lieu de s’inquiéter. Or, il ne s’est pas occupé de la dette. Une ordonnance de saisie-arrêt a été signifiée à M. McBrearty au milieu de 2017. Il s’est une nouvelle fois adressé à son père, qui l’a assuré que la question serait réglée. La maladie est intervenue en juin 2018, et le père de M. McBrearty est décédé en août 2018.
+[10] La question dont la Cour est saisie est de savoir si les circonstances de la présente demande permettent de repousser la limite infranchissable établie par les articles 166.1 et 166.2 de la Loi. Existe-t-il un fondement juridique, d’après les faits entourant la présente demande, permettant de décréter une sorte de moratoire sur l’expiration du délai de prescription fixé par le législateur pour présenter une telle demande au ministre ou à la Cour canadienne de l’impôt?
+[11] Un examen plus approfondi des faits révèle que l’analyse de M. McBrearty est erronée. M. McBrearty n’a fait aucune tentative démontrable, même imparfaite, pour s’opposer aux avis de cotisation ou demander une prorogation du délai avant octobre 2018, soit quelque 18 mois complets après l’envoi des avis de cotisation à son attention. Bien que la maladie du père de M. McBrearty ait pu brouiller le dossier ou en [traduction] « réduire la priorité », on ne peut tout simplement pas la prendre en compte puisqu’elle est seulement intervenue 13 mois complets après l’envoi des avis de cotisation.
+[12] La décision de M. McBrearty de se fier à son père pendant 13 mois lui appartient. Les avis de cotisation relatifs à la responsabilité de l’administrateur sont sans équivoque et les mémoires de cotisation d’une page sont plus clairs et nets que tout autre type d’avis habituellement envoyés aux contribuables. Les deux avis de cotisation en question, produits par l’intimée par voie d’affidavit à l’audition, mentionnaient notamment ce qui suit :
+[traduction]
+Montant de la cotisation : 53 436,71 $
+Vous êtes tenu de payer immédiatement le montant établi. Tout défaut de paiement pourrait mener à d’autres mesures d’exécution de la loi. Vous avez le droit de vous opposer à cette cotisation en déposant, auprès du ministre du Revenu national, un avis d’opposition officiel DANS UN DÉLAI DE 90 jours suivant la date d’envoi du présent avis de cotisation. Vous pouvez obtenir des formulaires d’avis d’opposition en communiquant avec la Division des appels de votre bureau des services fiscaux local.
+[13] Alors que son père allait bien, M. McBrearty ne s’est pas opposé aux avis de cotisation pendant la période de 90 jours. Pendant 10 mois supplémentaires, M. McBrearty n’a pas présenté de demande de prorogation du délai pour présenter une demande de prorogation de délai. Compte tenu du libellé clair et évident des avis de cotisation, on aurait raisonnablement pu s’attendre à ce que M. McBrearty réagisse une fois son père atteint d’une maladie débilitante sur le plan mental. Or, cela ne s’est pas produit; ni pendant les 13 mois au cours desquels le père de M. McBrearty allait bien, ni pendant les cinq mois supplémentaires qui ont suivi le diagnostic. En outre, ce n’est que plus de deux mois après le décès de son père que M. McBrearty s’est décidé à agir. Il y a là une grave incohérence chronologique qui ne cadre pas avec la prétention selon laquelle l’absence de réponse aux avis de cotisation était due à la maladie et au décès de père de M. McBrearty. Ainsi, les arguments de M. McBrearty concernant l’incidence de la maladie ne sont pas logiques.
+[14] Il me semble également incongru que M. McBrearty allègue qu’il n’avait pas connaissance de la situation financière de l’entreprise : ce n’est pas son manque de connaissances qui est à l’origine du problème, c’est plutôt le manque d’attention et d’action. Les avis de cotisation étaient adressés uniquement à M. McBrearty à son adresse domiciliaire. Ils n’étaient adressés ni LGI ou ni à son père. Il s’agit de sommes importantes. Pour protéger ses droits, il aurait suffi à M. McBrearty d’effectuer un seul appel et de déposer un simple formulaire, un avis d’opposition, comme il est clairement indiqué dans les avis de cotisation. M. McBrearty ne peut expliquer ce manque d’attention et d’action en affirmant avoir fait confiance à la personne même qui, selon ses propres indications, était responsable de la dette.
+[15] Cette demande est semblable à bien d’autres dont la Cour est saisie, c’est-à-dire des cas de contribuables qui choisissent, par inattention, de ne pas tenir compte de l’expéditeur de la lettre, l’Agence du revenu du Canada. Une action, quelle qu’elle soit, adressée à l’Agence dans les 90 jours ou dans l’année qui suit, indiquant une opposition, un désaccord et une contestation de la cotisation, amène souvent notre Cour, sinon l’Agence elle-même, à déterminer qu’une telle manifestation constitue une opposition ou une demande de prorogation, selon le cas.
+[16] Or, pendant les 15 mois décisifs, soit du 28 mars 2017 au 26 juin 2018, M. McBrearty n’a rien fait. Même si la Cour ajoutait un moratoire de 60 jours pour tenir compte de l’incapacité d’un tiers, ce qu’elle ne peut pas faire en l’espèce, ceci ne serait d’aucune aide à M. McBrearty. Il demeure qu’il n’a quand même pas déposé d’opposition (ce qui n’aurait en fait même pas suffi) avant le 10 octobre 2018 ni de demande de prorogation avant le 26 avril 2019.
+[17] Malheureusement, l’inaction de M. McBrearty à l’égard de sa propre dette fiscale par procuration constitue un obstacle insurmontable pour sa demande. La Cour ne dispose d’aucun pouvoir discrétionnaire pour proroger les délais prescrits au paragraphe 166.2(5) de la Loi lorsqu’un contribuable, comme le demandeur en l’espèce, a omis de respecter les délais de prescription fixés à l’alinéa 166.2(5)a) de la Loi : Riley c. La Reine, 2012 CCI 208, aux paragraphes 6 et 7.
+[18] Par conséquent, la demande est rejetée sans dépens.
+Signé à Edmonton (Alberta), ce 28e jour de novembre 2019.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2019 CCI 268
+No DU DOSSIER DE LA COUR :
+2019-1601(IT)APP
+INTITULÉ :
+SHAWN PATRICK MCBREARTY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 octobre 2019
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 28 novembre 2019
+COMPARUTIONS :
+Pour le demandeur :
+Le demandeur lui-même
+Avocat de l’intimée :
+Me Eric Myles
+AVOCATS INSCRITS AU DOSSIER :
+Pour le demandeur :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

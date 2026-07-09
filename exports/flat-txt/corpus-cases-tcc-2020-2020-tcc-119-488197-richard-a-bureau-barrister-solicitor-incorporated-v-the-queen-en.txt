@@ -1,0 +1,137 @@
+Title: Richard A. Bureau Barrister & Solicitor Incorporated v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/488197/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-119-488197-richard-a-bureau-barrister-solicitor-incorporated-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-11-05
+
+# Richard A. Bureau Barrister & Solicitor Incorporated v. The Queen
+
+- Citation: 2020 TCC 119
+- Decision date: 2020-11-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4642, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richard A. Bureau Barrister & Solicitor Incorporated v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-11-05
+Neutral citation
+2020 TCC 119
+File numbers
+2019-3607(GST)APP
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-3607(GST)APP
+BETWEEN:
+RICHARD A. BUREAU BARRISTER
+& SOLICITOR INCORPORATED,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on September 3, 2020, at Halifax, Nova Scotia
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Applicant:
+Richard Bureau
+Counsel for the Respondent:
+Terence Katerynych
+ORDER
+The Applicant’s application per section 305 of the federal Excise Tax Act for an extension of time within which to institute an appeal to this Court of the reassessment raised August 21, 2018 of its February 1, 2016 – April 30, 2016 reporting period is granted, without costs.
+Accordingly, the time within which an appeal may be filed is extended to the date of this Order, and the notice of appeal received with the application materials is deemed to have been filed on the date of this Order and the Respondent shall serve and file a reply within 60 days of service of the Notice of Appeal.
+Signed at Toronto, Ontario, this 5th day of November 2020.
+“B. Russell”
+Russell J.
+Citation: 2020 TCC 119
+Date: 20201105
+Docket: 2019-3607(GST)APP
+BETWEEN:
+RICHARD A. BUREAU BARRISTER
+& SOLICITOR INCORPORATED,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Russell J.
+Introduction:
+[1] The applicant corporation, Richard A. Bureau Barrister & Solicitor Incorporated (RBBSI), has applied per section 305 of the federal Excise Tax Act (ETA) for an order extending time within which to institute an appeal to this Court (done by the filing of a notice of appeal). The respondent opposes, asserting that RBBSI failed to meet four conditions specified in subsection 305(5) ETA, that are necessary for such an order to be made. Except as otherwise indicated, statutory references herein are provisions of the ETA.
+[2] Under the marginal heading, “When order to be made”, subsection 305(5) provides:
+(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Part for appealing; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Part for appealing,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted it to be made, and
+(iv) there are reasonable grounds for appealing from the assessment.
+[3] The respondent asserts that the following four requirements specified in subsection 305(5) were unmet:
+subparagraph 305(5)(b)(i) – the applicant must demonstrate that within the 90-day period for appealing … it had a bona fide intention to appeal;
+subparagraph 305(5)(b)(ii) – given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application;
+subparagraph 305(5)(b)(iii) – the application was made as soon as circumstances permitted; and
+subparagraph 305(5)(b)(iv) – there are reasonable grounds for appealing …
+Factual overview:
+[4] At the hearing, an amended affidavit of Canada Revenue Agency (CRA) officer S. Faria was entered in evidence per subsection 335(5). It provides inter alia that RBBSI’s harmonized sales tax (HST) quarterly reporting period of February 1 – April 30, 2016, per the ETA, was assessed May 2, 2017, objected to July 28, 2017 and reassessed August 21, 2018. It is that reassessment that RBBSI per its proposed notice of appeal seeks to appeal. RBBSI’s section 305 application, filed August 21, 2019, consists of the following three documents: (1) a covering letter dated August 20, 2019, (2) this Court’s consent judgment issued May 17, 2017 under the federal Income Tax Act (ITA) regarding an appeal respecting RBBSI’s taxation years ended April 30, 2010, 2011 and 2012, and (3) the proposed notice of appeal.
+[5] The proposed notice of appeal claims, per the ETA, additional input tax credits (ITCs) for RBBSI’s said February 1 – April 30, 2016 HST reporting period. The May 17, 2017 consent judgment provided for further reassessment under the ITA so as to allow additional deductible expenses for RBBSI’s 2010 taxation year (totalling, with earlier allowed expenses, $110,386).
+[6] RBBSI did not file a notice of appeal regarding that August 21, 2018 reassessment within the 90 day period available for doing so as of right (section 302), which 90 days ran from August 21 to November 19, 2018. Paragraph 305(5)(a) allows a year following expiration of that 90 day period, in which to apply for an extension of time to file a notice of appeal. That one year period commenced November 19, 2018, and would have run to November 19, 2019. As noted, well within that period this application for an extension of time was made (August 21, 2019).
+[7] The August 20, 2019 covering letter included in the application materials explains why the extension of time is sought. It provides that:
+… [the May 17, 2017 ITA consent judgment] supported the ITCs claimed by the corporation but denied by the CRA. However, the corporation did not receive the [re]assessment(s) that were to follow and the HST file was never adjusted.
+Also, personal T1-Adjustments were filed by the corporation’s owner. These adjustments were accepted and processed by the CRA. They also support the ITCs claimed by the corporation. These reassessments were issued June 15, 2018 – two months before the [reassessment] allowing the HST objection in part.
+Given the many issues surrounding the file and the many CRA delays, the corporation waited for the reassessments based on the Court [consent] judgment, but they never arrived. The reassessments of the corporate return(s) as well as my personal returns should have resolved the issue, but the corporation can wait no longer.
+[8] In the proposed notice of appeal, the applicant RBBSI pleads at paragraph 13 under the heading “Reasons the Appellant intends to rely upon” that, “A Court Order resulting from a Consent to Judgment [i.e., the May 17, 2017, consent judgment] as well as reassessments of the owner’s personal tax returns support the ITCs as filed”.
+[9] Additionally, at paragraph 8 of the proposed notice of appeal, RBBSI pleads that, “RBBSI has waited as long as possible for the CRA to correct the situation based on the Consent to Judgment for the RC account and the reassessments processed for the owner’s personal tax returns.”
+[10] At the hearing Mr. Richard Bureau, a lawyer and the principal of RBBSI, testified and made representations as counsel for RBBSI generally to the same effect as provided in the August 20, 2019 covering letter and proposed notice of appeal, above referenced. Also, he testified that the awaited notice of reassessment dated March 5, 2018, issued pursuant to the May 7, 2017 consent judgment, was addressed to what recently had become a previous address of RBBSI and so it was not received on a timely basis. Mr. Bureau testified that several months later he became aware of it through communications with CRA Collections. (Mr. Bureau acknowledged that CRA had not specifically been notified of the change of address, but argued that in the circumstances CRA knew of the new address anyway.)
+Legal analysis:
+[11] The first of the four above-noted issues is whether per subparagraph 305(1)(b)(i) RBBSI has demonstrated that within the 90 day period for appealing (August 23 to November 21, 2018), it was unable to act or to give a mandate for someone else to act in its name; or, that it had a bona fide intention to appeal.
+[12] Mr. Bureau testified that throughout that 90 day period RBBSI did have a bona fide intention to appeal. Respondent’s counsel asserts rightly that there is little if any evidence particularly corroborating that statement. Nevertheless, in considering the matter in its entirety, indicating a general propensity to challenge CRA assessments and reassessments, and giving RBBSI the benefit of a doubt, I accept Mr. Bureau’s statement that within the applicable 90 day period RBBSI had formulated a bona fide intention to take the matter further, by appealing the subject HST reassessment. But it did not do so within that 90 day period, as it continued firstly to await receipt of ITA reassessments of both RBBSI and Mr. Bureau personally, expecting they would assist the HST argument.
+[13] The second of the above noted four issues is, per subparagraph 305(5)(b)(ii), whether given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application. The respondent reasonably urged the contrary of this proposition. I have looked at the application materials to a greater extent than were addressed at the hearing. I have described them above. They do both refer to the ITA consent judgment that Mr. Bureau also prominently addressed at the hearing. Thus, there is consistency in RBBSI’s position.
+[14] That position appears to be that allowing certain additional expenses as business deductions per the ITA consent judgment, opens the door for recognizing additional ITCs as having arisen in the course of commercial, rather than personal, activities. This position was not to any great extent spelled out by Mr. Bureau at the hearing. However, I do not consider that this position lacks merit generally, notwithstanding that the relevant time periods (2010 taxation year per the ITA; February 1 – April 30, 2016 reporting period per the ETA) do not coincide or overlap and indeed are separated by a several year period.
+[15] Of course it is for the trial judge, with the benefit of a detailed record of evidence and representations, to adjudicate the specific merits. As motions judge, I consider it just and equitable to permit an entity its day in court absent a clear rationale for declining to do so. As well, in the circumstances of this matter procedural gaffes are not so egregious as to require or demand denial of this application. For these reasons I conclude per subparagraph 305(5)(b)(ii) that it would be just and equitable to grant this application.
+[16] The third of the four above-indicated issues is whether, per subparagraph 305(5)(b)(iii), this application was made as soon as circumstances permitted. I understand that RBBSI’s approach was to wait to see whether other matters also before the Minister, regarding recognition of additional corporate expenses per the ITA, including expenses in relation to Mr. Bureau’s own personal income tax position as well in relation to RBBSI itself, would resolve in such a way the disputed ITCs issue could more readily be resolved in RBBSI’s favour.
+[17] This would explain why at paragraph 8 of the proposed notice of appeal it is pleaded that RBBSI, “has waited as long as possible”. (RBBSI apparently considered it had reached the end of the applicable one year period when in fact only nine of the twelve months comprising that statutory period for launching a time extension application had passed.) In light of this I consider that RBBSI has provided some justification that this application was brought as soon as, in Mr. Bureau’s not unreasonably held view as the directing mind of RBBSI, circumstances permitted. The circumstances were that Mr. Bureau was dealing with the Minister on three fronts – RBBSI, both income tax and HST and Mr. Bureau personally as to income tax – and Mr. Bureau’s apparent strategy was to see if anticipated income tax reassessments (corporate and personal) might assist RBBSI’s HST position in an appeal launched in this Court. With due respect to the respondent’s contrary position, including that RBBSI still could have instituted the appeal without waiting to know these awaited ITA determinations, I find for RBBSI on this third issue as well.
+[18] The fourth and final issue is per subparagraph 305(5)(b)(iv) – are there reasonable grounds for appealing the subject reassessment? I discussed this point in the second issue above, and there found that I could not say, as a motion judge, that RBBSI’s position on appeal was without merit. In my view, there is a semblance of logic to its position, sufficient to constitute reasonable grounds for appealing to this Court.
+[19] I have reviewed Sapi v. R., 2016 TCC 239, cited by the respondent. It addresses a quite different factual situation. Indeed this Court over the years has issued many, many decisions regarding applications for an extended time to file notices of appeal under both the ETA and ITA, all dealing with their own unique fact situations, as does this decision.
+Conclusion:
+[20] Thus, I find for RBBSI on the four disputed grounds. While acknowledging Mr. Katerynych’s able representations on behalf of the respondent, the application will be granted, without costs.
+Signed at Toronto, Ontario, this 5th of November 2020.
+“B. Russell”
+Russell J.
+CITATION:
+2020 TCC 119
+COURT FILE NO.:
+2019-3607(GST)APP
+STYLE OF CAUSE:
+RICHARD A. BUREAU BARRISTER & SOLICITOR INCORPORATED AND THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+September 3, 2020
+REASONS FOR ORDER BY:
+The Honourable Justice B. Russell
+DATE OF ORDER:
+November 5th, 2020
+APPEARANCES:
+For the Applicant:
+Richard Bureau
+Counsel for the Respondent:
+Terence Katerynych
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Richard Bureau
+Firm:
+[Blank]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

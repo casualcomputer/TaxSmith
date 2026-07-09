@@ -1,0 +1,135 @@
+Title: Claveau c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27574/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-446-27574-claveau-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-07-28
+
+# Claveau c. M.R.N.
+
+- Citation: 2005 CCI 446
+- Decision date: 2005-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 69, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Claveau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-28
+Référence neutre
+2005 CCI 446
+Numéro de dossier
+2004-2225(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-2225(EI)
+ENTRE :
+MARC CLAVEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 4 juillet 2005, à Chicoutimi (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (la « Loi » ) est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI446
+Date : 20050728
+Dossier : 2004-2225(EI)
+ENTRE :
+MARC CLAVEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel portant sur le caractère assurable d'un emploi. Les périodes en litige visées par la décision du ministre du Revenu national (le « ministre » ) sont du 18 juin au 16 novembre 2001, du 21 janvier au 28 juin 2002, du 1er juillet au 18 octobre 2002 et du 28 octobre 2002 au 11 juillet 2003.
+[2] La question en litige consiste à décider quel était le véritable employeur de l'appelant lors des périodes en litige: la Coopérative forestière de Ferland-Boileau ou la société 9066-2107 Québec inc., dont l'appelant était détenteur de la totalité des actions avec droit de vote au moment des périodes en litige.
+[3] Pour rendre la décision dont il est fait appel, le ministre a tenu pour acquis les hypothèses de faits suivantes :
+a) L'appelant est l'actionnaire unique de la compagnie 9066-2107 Québec Inc. depuis 5 ans. (admis)
+b) 9066-2107 Québec Inc. possède un camion et une remorque pour une valeur d'environ 100 000 $. (admis)
+c) 9066-2107 Québec Inc. loue son camion et sa remorque à la Coopérative Forestière Ferland-Boileau (le payeur). (admis)
+d) le payeur est une entreprise sylvicole qui a besoin de transporteurs forestiers pour ses activités. (admis)
+e) Le payeur loue le camion de 9066-2107 Québec Inc. environ 9 mois par année. (admis)
+f) Le payeur loue environ une douzaine de camions. (admis)
+g) Au cours de la période en litige, l'appelant était uniquement le chauffeur du camion loué à 9066-2107 Québec Inc. (admis)
+h) L'appelant n'a pas été réassigné à d'autres tâches lors de bris du camion de 9066-2107 Québec Inc. (admis)
+i) Un contrat de transport a été conclu entre 9066-2107 Québec Inc. (locateur) et le payeur (locataire) en date effective du 1er octobre 1999 pour une période de 5 ans. (admis)
+j) Le contrat de transport prévoit que les bris du camion sont à la charge du locateur, soit 9066-2107 Québec Inc. (admis)
+k) L'horaire de travaille [sic] de l'appelant était 9 demi-quarts par semaine soit 2 demi-quarts par jour du lundi au jeudi et un seul le vendredi. (admis)
+l) En hiver, il y a une période où le camion de 9066-2107 Québec Inc. exigeait deux chauffeurs pour un fonctionnement de 24 heures sur 24 heures. (admis)
+m) Le deuxième chauffeur, M. Yannick Barbeau, était payé directement par 9066-2107 Québec Inc. (nié)
+n) Les revenus de location du camion étaient établis en fonction du nombre de jours de location et il variait en fonction du tonnage. (admis)
+o) Le salaire de l'appelant et les avantages sociaux de l'appelant étaient déduits des revenus de location du camion loué de 9066-2107 Québec Inc. (admis)
+p) Les frais de carburant pour le camion ou les salaires versés étaient déduits du revenu de location du camion. (admis)
+q) Lors de déplacement à l'extérieur de l'appelant pour le payeur, les frais d'hébergement et de repas étaient déduits du revenu de location du camion. (admis)
+r) Le salaire-machine n'était pas distinct du salaire homme durant les périodes en litige. (nié)
+s) Depuis septembre 2002, le payeur paie de la TPS et de la TVQ sur les salaires de l'appelant. (nié)
+t) La compagnie 9066-2107 Québec Inc. n'a pas conclu d'autres contrats de transport forestier que ceux avec le payeur. (admis)
+u) Depuis 2003, l'appelant n'est plus chauffeur pour le payeur, suite à une décision de celui-ci. (admis)
+v) 9066-2170 Québec Inc. loue toujours son camion au payeur avec M. Yannick Barbeau comme chauffeur. (admis)
+w) Le véritable contrat de travail de l'appelant, était entre lui et 9066-2107 Québec Inc. et non entre lui et le payeur. (nié)
+[4] Presque toutes les hypothèses de faits ont été admises; seulement les alinéas m), r), s) et w) ont été niés.
+[5] Au soutien de son appel, où il avait le fardeau de la preuve, l'appelant a témoigné et a fait comparaître monsieur Éric Simard, directeur administratif de la Coopérative forestière de Ferland-Boileau.
+[6] Lors de leurs témoignages, ils ont essentiellement repris les faits tenus pour acquis pour justifier la détermination dont le présent appel fait l'objet.
+[7] À la lumière de tous les faits admis, notamment les alinéas a), b), c), g), h), i), j), n), o), p), q) et s), il ressort que le contrat présenté comme un contrat de louage de services avait plutôt des attributs propres à un véritable contrat d'entreprise.
+[8] Les parties ont, de toute évidence, voulu s'organiser pour rendre le travail effectué par l'appelant assurable en décrivant le contrat comme un contrat de louage de services et non un contrat d'entreprise.
+[9] En soi, cela était tout à fait légitime, pourvu que les faits s'inscrivent dans cette direction d'une façon réelle et cohérente.
+[10] Créer ou imaginer une structure juridique qui correspond à l'intention des parties ne suffit pas pour conclure à la présence d'un véritable contrat de louage de services.
+[11] En l'espèce, la rémunération provenait essentiellement de la contrepartie prévue dans un contrat de location d'un camion et d'une remorque. La rémunération que recevait l'appelant correspondait à une partie du montant payable pour la location du camion et de la remorque de la société qu'il contrôlait pour y détenir 100 % des actions avec droit de vote.
+[12] Le début et la fin de la rémunération de l'appelant coïncidaient avec le début et la fin de l'utilisation du camion dont la société qu'il contrôlait était propriétaire.
+[13] En fin de compte, le montant déboursé pour la location était le montant net, c'est-à-dire ce qui restait une fois toutes les dépenses payées.
+[14] Parmi les dépenses, il y avait le carburant diesel et les frais d'entretien, mais aussi toutes les cotisations ou contributions habituellement payées par l'employeur outre les salaires.
+[15] En fait, la société dont l'appelant détenait la totalité des actions avec droit de vote avait un contrat d'entreprise avec la Coopérative forestière de Ferland-Boileau. L'appelant effectuait son travail pour le compte de la société qu'il contrôlait entièrement et à son bénéfice.
+[16] Même si les parties ont voulu et ont prévu dans divers documents la nature de la relation juridique qu'ils voulaient voir régir leur relation de travail, cela n'est pas suffisant d'une part, et d'autre part, le ministre n'est aucunement lié par une telle entente.
+[17] Il semble que certains propriétaires de camions qui avaient conclu des ententes semblables avec la Coopérative forestière de Ferland-Boileau ont vu leur travail déterminé assurable.
+[18] Bien que les tribunaux aient très souvent indiqué que chaque dossier sur le caractère assurable d'un emploi constitue un cas d'espèce où la détermination doit tenir compte exclusivement des faits relatifs à ce dossier, je voudrais cependant rappeler que le travail de l'appelant pour le compte de la société qu'il contrôlait et à son bénéfice aurait pu, en principe, être déterminé assurable si le pourcentage d'actions détenues avait été inférieur à 40 %. En l'espèce, l'appelant détenait 100 % des actions avec droit de vote.
+[19] Son travail doit donc être exclu des emplois assurables conformément aux dispositions de l'alinéa 5 (2)b) de la Loi sur l'assurance-emploi, qui se lit comme suit :
+5(2) N'est pas un emploi assurable :
+[...]
+b) l'emploi d'une personne au service d'une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+[20] La coopérative agissait essentiellement comme mandataire de l'appelant pour la gestion de toutes les dépenses qu'il aurait dû acquitter lui-même n'eut été l'objectif ultime que l'appelant exécute un travail dans le cadre d'un contrat de louage de services.
+[21] Il n'y a aucun doute que la relation juridique qui régissait l'entreprise que contrôlait l'appelant - étant donné qu'il possédait plus de 40 % des actions avec droit de vote, soit la totalité - et la coopérative forestière était un contrat de service. En d'autres termes, il y avait d'un véritable contrat d'entreprise entre la coopérative forestière et la société que contrôlait l'appelant.
+[22] L'appelant ne pouvant pas être éligible à des prestations d'assurance-emploi en étant employé de l'entreprise dont il détenait plus de 40 % des actions, les parties ont fait des arrangements afin que le travail de l'appelant soit considéré comme étant fait pour le compte de la coopérative et à son bénéfice.
+[23] Dans les faits, les parties n'ont pas été cohérentes dans la gestion et le traitement du dossier; même si certains éléments pouvaient laisser croire qu'il s'agissait d'un contrat de louage de services, la réalité était tout autre. La coopérative était essentiellement l'employeur apparent de l'appelant; d'ailleurs, la coopérative n'assumait aucune des charges que tout employeur véritable doit acquitter normalement. Je fais notamment référence aux cotisations payables pour le programme d'assurance-emploi.
+[24] Même si je ne doute aucunement de la volonté des parties et de leur bonne foi en affirmant qu'il s'agissait d'un contrat de louage de services, le travail et les modalités de l'exécution et le lien direct qui existait entre le travail et la location du camion et de la remorque font en sorte que le véritable employeur de l'appelant était la société dont il détient plus de 40 % des actions, rendant ainsi le travail exécuté exclu des emplois assurables conformément à l'alinéa 5(2)b) de la Loi.
+[25] En conséquence, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI446
+NO DU DOSSIER DE LA COUR : 2004-2225(EI)
+INTITULÉ DE LA CAUSE : Marc Claveau et M.R.N.
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATE DE L'AUDIENCE : le 4 juillet 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 28 juillet 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Stéphanie Côté
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

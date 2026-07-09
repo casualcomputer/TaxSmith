@@ -1,0 +1,168 @@
+---
+title: "Bayliss v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27758/index.do"
+last_modified: "2007-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 387"
+citation2: ""
+neutral_citation: "2007 TCC 387"
+decision_date: "2007-03-29"
+language: "en"
+item_id: "27758"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 311
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:16:13.684000+00:00"
+cases_cited_count: 4
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1cb19cacc47bdedb2adca56160e1ce4320acb2f450faa49a2fcacbd5b275c1a5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bayliss v. The Queen
+
+- Citation: 2007 TCC 387
+- Decision date: 2007-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 311, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bayliss v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-29
+Neutral citation
+2007 TCC 387
+File numbers
+2006-2301(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2301(IT)I
+BETWEEN:
+BRIAN BAYLISS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 29, 2007, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Lawrence E. Hull
+Counsel for the Respondent:
+Sonia Akibo-Betts
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to deduct $16,800 as spousal support.
+The appeal from the reassessment made under the Act for the 2004 taxation year is dismissed.
+Signed at Ottawa, Canada, this 10th day of July, 2007.
+“E.A. Bowie”
+Bowie J.
+Citation: 2007TCC387
+Date: 20070710
+Docket: 2006-2301(IT)I
+BETWEEN:
+BRIAN BAYLISS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Baylis appeals his income tax assessments for the taxation years 2003 and 2004. He claims to be entitled to deduct payments made to his former wife in the amounts of $16,800 for 2003 and $9,152 for 2004. So far as the 2003 year is concerned, the issue is whether the payment in question comes within the definition of a “support payment” that is found in subsection 56.1(4) of the Income Tax Act (the Act). If it does then the appellant is entitled to the deduction; otherwise he is not. The appeal for 2004 was not pursued by the appellant, and it will be dismissed.
+[2] Mr. Baylis and his spouse separated in August 2001. They lived apart for a year before she began proceedings in the Ontario Superior Court for support and other relief in 2002. He paid no support to her during that year. After the commencement of proceedings in 2002, the Ontario Court made three separate orders dealing with, among other things, interim spousal support.
+(1) On September 27, 2002, Wood J. ordered that the appellant pay interim spousal support of $2,400 per month, beginning September 1, 2002;
+(2) On April 22, 2003, Olah J. ordered that the spousal support payments be reduced to $2,000 per month, retroactive to the date of the order of Wood J., and that the spousal support be reduced to $1,450 for the months of January, February and March, 2003, and further reduced to $850 per month from April 2003 forward during the appellant’s period of unemployment;
+(3) On June 19, 2003, Wood J. ordered the appellant to pay:
+i) $850 per month beginning April 1, 2003, while unemployed;
+ii) $1,400 per month on the first month after employment begins, and the 1st of each month thereafter;
+iii) $1,650 per month on January 1, 2004 and monthly thereafter;
+iv) $1,250 per month on July 1, 2004 and monthly thereafter.
+v) [Provision for review of spousal support from time to time]
+and further ordered:
+vi) THIS COURT FURTHER ORDERS that the Respondent-Husband shall pay the Applicant-Wife on account of retroactive support for the period commencing August 1, 2001 to August 1, 2002 the amount of $1,400 per month for the 12 months, for a total sum of $16,800.00 and this amount shall be deducted from the monies the Respondent-Husband will receive on account of proceeds from the sale of the matrimonial home and the Respondent-Husband shall execute any direction required by the real estate lawyer to give effect to the order and the amount shall be taxable to the Applicant-Wife and tax deductible to the Respondent-Husband.
+I have reproduced the sixth paragraph of that order in full as it is the one that is at the heart of the issue in this case.
+[3] The house was in fact sold in 2003, and the proceeds were distributed according to the order of June 19, 2003. The real estate lawyer’s account[1] makes it quite clear that the proceeds of the sale were divided evenly between the appellant and his ex-wife, before the adjustments provided for in that order, including the payment of $16,800 for retroactive spousal support for the period August 1, 2001 to August 1, 2002, were made.
+[4] The appellant’s position is that the order of Wood J. establishes that the $16,800 payment was a payment of arrears of spousal support that his order made payable on a periodic basis, and that his order should be given effect by this Court. The respondent argues that the payments cannot be said to have been payable on a periodic basis; they were not payable at all until the order was signed, and by the terms of the order there was one lump sum payment made. I should make it clear at this point that the question whether the payment is deductible by the appellant (and taxable in the hands of the recipient) must be decided on the basis of the applicable provisions of the Act, as interpreted by the Courts. The concluding words in the order of Wood J. are surplusage and totally ineffective.
+[5] The relevant definition reads as follows:
+56.1(4) The definitions in this subsection apply in this section and section 56.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[6] Counsel referred me to the cases of Aceti v. The Queen[2] and Stoikos v. The Queen[3] but in my view, they have no application here. Both those cases were concerned with separation agreements that purported to provide that the taxpayer was to make periodic payments during a period beginning before the contract had been entered into. Those payments had in fact been made at the time the contract provided for them to be made, but they were held not to be deductible because the payments, although made, could not have been made, or receivable, under the provisions of the separation agreement, because in each case the separation agreement did not exist at the time the payments were made.
+[7] This case, in my opinion, is materially different in that the retroactive obligation to make the payments from August 1, 2001 to August 1, 2002 is created by the order of the Superior Court of Justice, not simply by an agreement between the parties. The authority invoked by Wood J. to make such an order is specifically given by the Family Law Act:[4]
+33(1) A court may, on application, order a person to provide support for his or her dependants and determine the amount of support.
+34(1) In an application under section 33, the court may make an interim or final order,
+(f) requiring that support be paid in respect of any period before the date of the order;
+[8] The principle applicable here is that expressed by the Federal Court of Appeal in Dale v. The Queen.[5] It was held in that case that an order made by a Superior Court is not subject to collateral attack in subsequent proceedings, and when that order purports to operate retroactively that must be taken as effectively changing history. When Wood J. issued his order, one effect of it was to create a liability on the part of the appellant to pay accumulated arrears of spousal support from 2001 and 2002 in the total amount of $16,800. When that liability was satisfied by a payment from Mr. Baylis’s share of the proceeds from the sale of the home, that payment was a payment of accumulated arrears of periodic payments. As a single payment of arrears of unpaid periodic payments, that payment falls within the principle expressed by the Federal Court of Appeal in The Queen v. Sills,[6] which is that those payments, although made late and all at once, maintain the character of periodic payments.
+[9] Nor is there any constitutional impediment to the retroactive order of the provincial Superior Court having the effect of making the single payment of $16,800 in 2003 a payment of accumulated arrears from 2001 and 2002 in this way. In Fraser v. Canada,[7] the Federal Court of Appeal said this:
+9 The relevant part of the statutory definition of "support amount" in the Income Tax Act asks whether child support payments have been made under "an order made by a competent tribunal in accordance with the laws of a province". Parliament has thus indicated that the question of whether there is an order meeting that description is a matter of provincial law.
+10 Laws respecting child support are within the legislative authority of the provinces, as are the laws establishing the formalities for obtaining court orders for child support. In my view, the phrase "in accordance with the laws of a province" is broad enough to refer to all provincial laws regarding the legal obligation to pay child support, including the provincial laws governing the procedure by which such a legal obligation is made enforceable. The interpretation proposed by the Crown would limit those words in a manner that excludes some procedural aspects of the provincial law relating to child support. I see no justification for such a narrow interpretation.
+11 This is not a case where a provincial legislature has attempted to amend the Income Tax Act, or alter its effect, to meet some provincial objective that does not accord with the objectives of the Income Tax Act. On the contrary, the Legislature of Alberta has simply streamlined the procedure for obtaining court orders for child support so that a "deemed" judgment of the Court of Queen's Bench, as in this case, is the legal equivalent of an "actual" judgment made by that Court on consent. In practical terms, the only difference is that a consent order probably would require the expenditure of more time and money by the parties, and more judicial resources.
+In the present case, the payment was made and received under the order of a competent tribunal, the Superior Court of Justice, according to the Family Law Act.
+[10] I have not overlooked the judgment of the Federal Court of Appeal in Tossell v. Canada,[8] where Sharlow J.A. said at paragraphs 36-42:
+36 In my view, a written agreement or court order cannot be interpreted as obliging a person to pay arrears of child support unless, at the time the written agreement or court order is made, there is (1) an express or implied recognition of a pre-existing obligation to pay child support for a prior period, (2) an express or implied recognition of a complete or partial breach of that obligation, resulting in arrears of child support, and (3) an obligation set out in the written agreement or court order to pay the arrears in whole or in part.
+37 There is no express recognition in the Minutes of Settlement, or the subsequent Court Order, of a pre-existing child support obligation, or the existence of arrears of child support. On December 16, 1996, when the Minutes of Settlement were signed, Ms. Tossell and Mr. Peterson had not agreed as to what Mr. Peterson's child support obligations were under the 1991 separation agreement, after March of 1993. If Pardu J. had a view on that point, there is no evidence as to what it was, except the recollections of Ms. Tossell and Mr. Peterson's lawyer, which are far from conclusive.
+38 The other evidence in the record does not establish an implicit recognition that Mr. Peterson had an obligation to pay arrears of child support; on the contrary, the parties maintained their disagreement on this point until at least December 16, 1996. However, if I were to assume that the Judge was correct to find that Mr. Peterson was in default of his child support obligations, the arrears would have accrued at the rate of $1,000 per month for approximately 43 months. This suggests at least two important questions that are not answered. If section 6 of the Minutes of Settlement was intended to refer to arrears of child support, why are the arrears quantified at $36,000, which would be the equivalent of arrears for only 36 months? Why does section 6 of the Minutes of Settlement state that the $36,000 payment relates to 1996 only, a period for which the arrears of child support could not have been more than $12,000?
+39 In my view, there is no basis for concluding that there is any implicit recognition, as of December 16, 1996, that Mr. Peterson was in arrears of child support. That is sufficient, in my view, to establish that section 6 of the Minutes of Settlement cannot be interpreted as requiring a payment of arrears of child support.
+40 However, I would reach the same conclusion even if there had been an implicit recognition that Mr. Peterson was in arrears of child support because, in my view, section 6 of the Minutes of Settlement cannot reasonably be interpreted as an obligation to pay $36,000 as arrears of child support. I base that conclusion on the fact that section 6 describes the payment as "retroactive". The word "retroactive" does not simply mean "based on the past", as the Judge stated in paragraph 52 of his reasons. On the contrary, to describe the payment of a past due obligation as a "retroactive payment" is a misuse of the language.
+34(1) In an application under section 33, the court may make an interim or final order ...
+(f) requiring that support be paid in respect of any period before the date of the order. ...
+42 It is clear from this statutory description of retroactive support payments that a legal obligation to pay retroactive child support is a new obligation. It could be, for example, a new obligation to pay child support for a specified prior period for which there was no pre-existing obligation. Or, it could be a new obligation to pay child support for a specified prior period in addition to child support payable under a previous agreement that has been found inadequate. Either way, a legal obligation to pay retroactive child support is the converse of a legal obligation to pay arrears of child support.
+It is difficult to conceive of Wood J. making the order that he did without being well aware that he was creating not only a preexisting obligation, but also a breach of that obligation. His order quite unequivocally required the appellant to pay the full arrears created. In any event, what was said in Tossell is, as far as it concerns Court-ordered payments, obiter dicta, as the payment in that case was made before the minutes of settlement acquired the force of a Court order. I note, too, that there is no reference in Tossell to the Court’s earlier judgments in either Dale[9] or Canada v. Sussex Square Apartments Ltd v. The Queen.[10]
+[11] The appeal for 2003 will therefore be allowed, and the reassessment will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to deduct in computing his income the payment of $16,800 made pursuant to the order of Wood J. He is also entitled to his costs. The appeal for 2004 is dismissed.
+Signed at Ottawa, Canada, this 10th day of July 2007.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2007TCC387
+COURT FILE NO.: 2006-2301(IT)I
+STYLE OF CAUSE: BRIAN BAYLISS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 29, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: July 10, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Lawrence E. Hull
+Counsel for the Respondent:
+Sonia Akibo-Betts
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Lawrence E. Hull
+Firm: Smith & Associates
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1, tab 8.
+[2] 92 DTC 1893.
+[3] 2006 TCC 631.
+[4] R.S.O. 1990, c 70.
+[5] [1997] 3 F.C. 235.
+[6] [1985] 2 F.C. 200.
+[7] 2004 FCA 128.
+[8] 2005 FCA 223.
+[9] Supra.
+[10] 2000 DTC 6548.

@@ -1,0 +1,167 @@
+---
+title: "Virani v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30332/index.do"
+last_modified: "2011-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 236"
+citation2: ""
+neutral_citation: "2011 TCC 236"
+decision_date: "2011-05-03"
+language: "en"
+item_id: "30332"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8036
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:37:57.303000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "84da2d75cc266fc76ca570ad6fb18a65602459cc477da27660312fa6babee6a2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Virani v. The Queen
+
+- Citation: 2011 TCC 236
+- Decision date: 2011-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8036, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Virani v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-03
+Neutral citation
+2011 TCC 236
+File numbers
+2009-553(IT)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-553(IT)G
+BETWEEN:
+AZIM M. VIRANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Azim M. Virani 2009-554(GST)G on April 11, 2011 and
+Reasons for Judgment delivered from the bench on April 14, 2011
+at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kristian DeJong
+Selena Sit
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons set out in the attached Reasons for Judgment.
+Costs inclusive of those awarded in respect of appeal 2009-554(GST)G are awarded to the Appellant in the fixed amount of $850.
+Signed at Ottawa, Canada this 3rd day of May 2011.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2009-554(GST)G
+BETWEEN:
+AZIM M. VIRANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Azim M. Virani 2009-553(IT)G on April 11, 2011 and
+Reasons for Judgment delivered from the bench on April 14, 2011
+at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kristian DeJong
+Selena Sit
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Excise Tax Act for the reporting period from January 1, 2003 to December 31, 2005 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons set out in the attached Reasons for Judgment.
+Costs inclusive of those awarded in respect of appeal 2009-553(IT)G are awarded to the Appellant in the fixed amount of $850.
+Signed at Ottawa, Canada this 3rd day of May 2011.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2011 TCC 236
+Date: 20110503
+Dockets: 2009-553(IT)G
+2009-554(GST)G
+BETWEEN:
+AZIM M. VIRANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered from the Bench on April 14, 2011 at Vancouver, British Columbia)
+Hershfield J.
+[1] The appeals heard on April 11, 2011 were under the Excise Tax Act (GST Portion) (the “ETA”) and the Income Tax Act (the “ITA”). They were heard on common evidence. I will deal firstly with the appeals under the ITA.
+[2] The Appellant appeals assessments made in respect of his 2003, 2004 and 2005 taxation years. They were essentially net worth assessments triggered after invocation of an audit by the Enforcement Division of the Vancouver Tax Services Office. The audit was conducted without notifying the Appellant. Information was obtained by issuing requirements to provide banking records of the Appellant. The requirements were served on two banks known to the Enforcement Division as having accounts for the Appellant. Requirements were also served to obtain the banking records of the Appellant’s mother. A realty company and a car company’s finance arm were also issued requirements to provide information. I have to assume that the requirements were authorized under section 231.2 of the ITA. The assessments were done with minimal or no contact with the Appellant. No full explanation was offered as to why this manner of proceeding was adopted although the Appellant obtained, through Access To Information, a Canada Revenue Agency (“CRA”) internal memorandum setting out some of the background. There is no need to review it. I bring it up, at this point, only to note that that document confirms that the subject assessments were tied to other issues not presently raised in the present appeals, issues such as not reporting a capital gain on the disposition of a property in 2005. Related to that disposition was yet another separate matter under the ETA where a September 2005 assessment denied a new housing rebate application. The Appellant appealed that assessment and the case was heard in February, 2008. Justice Campbell allowed the appeal in her Judgment signed in March, 2008.
+[3] Turning back to the subject assessments under the ITA, the first assessment was issued on August 21, 2006. That assessment was replaced with a second issued on October 16, 2007. That reassessment added over $23,000 of unreported business income to his 2003 taxation year in respect of which he had reported only some $20,000. It added some $9,000 to his reported $18,500 for the 2004 taxation year and $68,000 to his reported $17,000 for the 2005 taxation year. Further, it added an unreported taxable portion of a capital gain of some $90,000 and assessed gross negligence penalties on all the additional assessed income.
+[4] On November 21, 2008, following objections by the taxpayer, the Minister of National Revenue (the “Minister”) confirmed the assessments and penalties for the three years in question except that the inclusion of the taxable portion of the asserted unreported capital gain of $90,000 was dropped in respect of the 2005 year. This is noteworthy as the CRA internal memorandum, referred to above appears, to some extent at least, to have relied upon this unreported gain to justify proceeding with the audit in the manner that it did. The reason for abandoning the inclusion was Justice Campbell’s March, 2008 decision on the ETA new housing rebate issue which concerned the same capital property. She found that the property was or was intended to be his primary place of residence which in the context of the current appeal suggests that the subject capital property qualified as a principal residence. As such, the disposition of the property was not a taxable transaction. There was no unreported capital gain. That left the unreported business income to be dealt with.
+[5] The Notice of Appeal was filed on February 16, 2009. Lists of Documents were filed and Examinations for Discovery were held. The Appellant represented himself throughout the appeal process. At the hearing, the Crown presented a revised assessing position. The 2003 unreported business income was reduced from some $23,000 to some $5,300. The 2004 unreported business income was reduced from some $9,000 to approximately $4,400 and the 2005 unreported business income was reduced from some $68,000 to $24,900. All the adjustments were made as a result of information provided by the Appellant after the litigation process started. That is, after the appeal was filed.
+[6] At this point, I will provide just a few details on the net worth assessing approach employed for the assessments as revised for the hearing. It started with a net worth calculated for the 2002 taxation year based on the information compiled from information collected from the requirements issued. That net worth was measured against the net worth calculations for the next year which in turn were compared with the net worth calculations for the next succeeding year. The assessing approach showed little if any net worth growth for 2003 and 2004 but it showed a net worth increase of over $142,000 for 2005. It then examined personal living expenses and came up with $25,800 for 2005 and assumed the amounts for both 2003 and 2004. These were obtained from a 2005 bank statement analysis where most withdrawals were pegged as representing personal living expenses. Further personal expenses were added, as well, based on other documentation obtained from the audit, including an additional $21,000 of rental expense for 2003.
+[7] The revised assessing position, amongst other things, reduced the 2003 personal rental expense to $6,000 and the 2005 taxable sources by almost $53,000 based on a verified accessed line of credit provided by his mother on a new house purchase in 2005. As noted above, as a result of the revisions we end up with the 2003 unreported business income being some $5,300, the 2004 unreported business income being $4,400 and the 2005 unreported business income being $24,900.
+[8] I am only now at the stage of considering the evidence adduced at trial to deal with the post revised assessing position. Once that evidence was in, with all but a few questions yet to be asked of the auditor who appeared on behalf of the Crown, Respondent’s counsel conceded that the Crown was abandoning the assessment in respect of 2003 and 2004 and was abandoning its position regarding the gross negligence penalties for all three years. For this, I do offer some praise to counsel. Too many lawyers watch their case evaporate and hold their ground, nonetheless. The assessing approach for 2003 and 2004 was clearly flawed.
+[9] I will mention the flaws only briefly. Some $5,000 of furniture purchases in 2005 had been assumed to be personal expenditures in 2003 and 2004 when it was clear no such purchases would likely have occurred. Indeed, almost all the 2005 bank withdrawal amounts that were assumed to be personal living expense amounts in 2005 were assumed to be personal living expense amounts in 2003 and 2004 on a theory that lifestyles would be the same and that that theory was necessary to apply as the banking records for 2003 and 2004 were inadequate to do a comparable reconstruction. Attempts to deny the theory made the crown witness look somewhat sheepish when faced with a transcript of his examination of discovery. Given that theory, his assessing position made virtually no sense in light of a record of the totally different living circumstances that arose in 2005. This pretty much undermined the validity of the 2003 and 2004 assessments; hence the Respondent’s concession for these years.
+[10] For 2005, the Appellant established that $5,000 had in all likelihood been double counted. In addition, he established that the unreported income amount had ignored deductible expenses related to an amount that the Respondent’s witness confirmed would be included in that unreported income amount. That brought the unreported income to under $10,000 (subject to some GST adjustments arising from corresponding adjustments that would have to be made to the GST assessments). Based on this evidence, the Respondent also conceded to such a revised number for 2005.
+[11] However, the Appellant had additional evidence that the Crown was not so willing to accept. His mother testified she gave him $20,000 from the sale of her motor vehicle to put down on her son’s purchase of a car in 2005. This deposit had been included in his unreported income amount for 2005. As well, she testified she advanced him over $30,000 in loans/gifts in 2005. Her negotiated cheques in favour of her son were in evidence. This is over $50,000 of non-taxable sources to off-set less than $10,000 of unreported income.
+[12] The Crown would not concede these non-taxable sources. The testimony of the Appellant’s mother as to the $20,000 was essentially uncorroborated and was weak since she could not recall if she got cash on the sale of her vehicle or whether it would have been a cheque. There was no banking record of such a deposit. I agree her testimony was weak and if the demeanour of a witness ever told a story, I would have to say she was less than convincing on this point.
+[13] As to the $30,000 in cheques to her son in 2005, her testimony was corroborated and further if the demeanour of a witness ever told a story, I would have to say she was quite convincing on this point. Her son always needed money and she always gave him money. You could call them loans, she said, but she almost laughed when the question of repayment was raised.
+[14] In spite of this evidence that the entire net worth assessment had to be vacated, the Crown revealed its concern in not accepting the $30,000 in loan/gifts. There was no evidence of what he did with the money. He was the payee of negotiated cheques in respect of which there were no deposits into his known bank accounts. Whatever the suspicions were that caused the audit, lingered.
+[15] The Appellant is a sharp young man and I too am left wondering if I have heard the whole story, but suspicions here are not sufficient to deny the appeals. The Appellant has met the burden of proof imposed on him. The assessment, using a blunt instrument approach, is difficult to defend but it was shown to be flawed in major ways in this case. Further, the Appellant’s access to what appears to be non- taxable funds in 2005 has been proven beyond a simple probability. The appeals must be allowed.
+[16] As to the GST assessment, it flowed from the income tax assessments. Unreported income was assumed to be from taxable supplies. Once the unreported business income is reduced to nil, the GST assessment is similarly reduced to nil. Accordingly, the GST appeals are allowed.
+[17] As to costs, the Crown relies on the fact that the Appellant’s victory, and more particularly on the fact that concessions made to the Appellant, were based on evidence produced after the litigation process started. Early disclosure would have resulted in earlier concessions. The Appellant argues that the need for litigation was entirely the fault of the CRA’s unwarranted, undisclosed audit process.
+[18] In fact, the assessments were open for answer long before the litigation started. The reassessments were issued October 16, 2007. The confirmation was November 21, 2008 and the appeal was filed February 16, 2009. The objection period alone was over a year. While that is not a lot of time and there was a lot going on considering he represented himself at his hearing before Justice Campbell, in February 2008, I agree that the Appellant might have done more in the way of providing the CRA with more evidence earlier. Still, costs for the Appellant are warranted. I am fixing those costs at $425.00 in respect of the appeals under the ITA and an additional $425.00 in respect of the appeals under the ETA. Judgment will be signed accordingly.
+Signed at Ottawa, Canada this 3rd day of May 2011.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2011 TCC 236
+COURT FILE NO.: 2009-553(IT)G; 2009-554(GST)G
+STYLE OF CAUSE: AZIM M. VIRANI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: April 11, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: May 3, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kristian DeJong
+Selena Sit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,244 @@
+Title: Zhang c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28049/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-634-28049-zhang-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-10-24
+
+# Zhang c. La Reine
+
+- Citation: 2007 CCI 634
+- Decision date: 2007-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1569, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-24
+Référence neutre
+2007 CCI 634
+Numéro de dossier
+2005-3867(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3867(IT)I
+ENTRE :
+WENCHENG ZHANG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 juin 2007, à Windsor (Ontario)
+Devant : L’honorable juge G.A. Sheridan
+Comparutions :
+Avocat de l’appelant :
+Me John Mill
+Avocat de l’intimée :
+Me Steven Leckie
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2002 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de novembre 2007.
+Hélène Tremblay, traductrice
+Référence : 2007CCI634
+Date : 20071024
+Dossier : 2005-3867(IT)I
+ENTRE :
+WENCHENG ZHANG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Wencheng Zhang, appelle de la cotisation établie par le ministre du Revenu national (le « ministre ») à l’égard de son année d’imposition 2002.
+[2] La question est litige concerne le montant du crédit pour impôt étranger que l’appelant devrait avoir le droit de déduire relativement à l’impôt payé sur ses revenus d’emploi gagnés aux États‑Unis.
+[3] L’appelant a proposé M. Max Koss, un certified public accountant[1] (comptable agréé), comme témoin expert pour venir témoigner quant à son interprétation des dispositions pertinentes de la loi fiscale des États‑Unis. L’intimée a remis en question la compétence de M. Koss pour ce qui est de faire la preuve du droit étranger en partant du principe qu’il était un comptable et non un avocat. En soi, cet argument n’est cependant pas suffisant pour disqualifier M. Koss à titre de témoin expert, comme cette détermination doit être faite selon le contexte factuel de chaque affaire[2]. L’avocat de l’intimée a longuement contre‑interrogé M. Koss au sujet de ses titres de compétence. Étant donné que le présent appel est entendu sous le régime de la procédure informelle, et comme je suis convaincue que M. Koss possède une bonne expérience de l’application des dispositions pertinentes de la loi fiscale des États‑Unis, j’ai finalement accepté que M. Koss témoigne à titre d’expert. Pendant le témoignage, il s’est cependant avéré évident que M. Koss n’était pas en mesure de fournir une analyse juridique de la loi ou bien de formuler une opinion utile quant à l’interprétation à donner à la loi. Les dispositions comme telles n’ont pas été présentées en preuve. Donc, je le répète, hormis la connaissance pratique de l’aspect comptable, je n’ai pas accordé une très grande importance au témoignage de M. Koss.
+[4] Même si les parties ont des interprétations divergentes, les hypothèses de fait sur lesquelles le ministre s’est fondé lorsqu’il a établi la cotisation[3] ne sont pas contestées :
+[traduction]
+19. Lorsqu’il a établi la nouvelle cotisation à l’égard de la déclaration de revenus de l’appelant pour l’année 2002 et lorsqu’il a ratifié cette nouvelle cotisation, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) pendant toute la période en cause, l’appelant était un résident canadien qui habitait Windsor (Ontario) et qui travaillait à Southfield (Michigan), aux États‑Unis;
+b) dans sa déclaration T1 pour l’année d’imposition 2002, l’appelant a dûment déclaré d’autres revenus s’élevant à 104 529,19 $ en fonction du calcul suivant :
+- revenu d’emploi total -
+66 566,38 $
+- conversion en monnaie canadienne -
+x 1,5704
+=
+104 529,19 $
+c) conformément au feuillet W-2 « Wage and Tax Statement » (déclaration de revenus et d’impôt), l’employeur de l’appelant a retenu les montants suivants :
+- impôt fédéral -
+7 299,27 $
+- taxe pour la sécurité sociale -
+4 127,12 $
+- taxe pour le régime d’assurance‑maladie -
+965,21 $
+- impôt de l’état -
+2 263,20 $
+d) l’appelant a produit une déclaration de revenus des particuliers 1040A aux États‑Unis pour l’année d’imposition 2002 et a rempli la page 2 de la façon suivante :
+- Impôt, y compris tout impôt minimum subsidiaire -
+5 959 $
+- moins : crédit d’impôt pour enfant -
+(1 800 $)
+- impôt total -
+4 159 $
+moins : impôt fédéral retenu -
+(7 229 $)
+Montant remboursé à l’appelant -
+3 070 $
+[Tel que souligné dans la réponse à l’avis d’appel.]
+e) l’appelant a produit une déclaration de revenus Mi‑1040 au Michigan pour l’année d’imposition 2002 et a rempli la page 2 de la façon suivante :
+- Impôt -
+2 040 $
+- moins : impôt du Michigan retenu
+(2 263 $)
+- montant remboursé à l’appelant -
+223 $
+f) l’impôt étranger payé s’élevant à 17 730,78 $ sur lequel le ministre a fondé son calcul pour le crédit pour impôt étranger, selon ce qui a déjà été indiqué au paragraphe 9 ci‑dessus, a été calculé en fonction de ce qui suit :
+- impôt fédéral payé selon la déclaration 1040 des États‑Unis -
+4 159 $
+- impôt de l’état selon la déclaration 1040 de l’état -
+2,040 $
+- taxe pour la sécurité sociale retenue -
+4 127,12 $
+- taxe pour le régime d’assurance‑maladie retenue -
+965,21 $
+- sous-total -
+11 291,33 $
+- taux de change pour la conversion en monnaie canadienne -
+x 1,5704
+-
+17 730,78 $
+[5] Lorsqu’il a produit sa déclaration de revenus pour l’année d’imposition 2002, l’appelant a demandé un crédit pour impôt étranger en application du paragraphe 126(1) de la Loi de l’impôt sur le revenu (la « Loi ») :
+ARTICLE 126 : déduction pour impôt étranger.
+(1) Le contribuable qui résidait au Canada à un moment donné d'une année d'imposition peut déduire de l'impôt payable par ailleurs par lui pour l'année en vertu de la présente partie une somme égale à :
+a) la partie de tout impôt sur le revenu ne provenant pas d'entreprises qu'il a payé pour l'année au gouvernement d'un pays étranger (sauf, lorsque le contribuable est une société, tout impôt, ou toute partie d'impôt, de ce genre qu'il est raisonnable de considérer comme ayant été payé par le contribuable relativement au revenu qu'il a tiré d'une action du capital-actions d'une société étrangère affiliée lui appartenant) dont il peut demander la déduction;
+[...]
+[6] Le libellé de cette disposition renvoie à l’« impôt sur le revenu ne provenant pas d’entreprises » payé par l’appelant au sens de l’alinéa 126(1)a).
+[7] Personne ne conteste le fait que l’admissibilité à la prestation fiscale pour enfants, le calcul du montant payable au contribuable et le paiement de ce montant soient régi par la loi fiscale des États‑Unis. Conformément aux dispositions pertinentes, si un contribuable est admissible à la prestation fiscale pour enfants, le montant doit d’abord être porté à l’impôt en souffrance. Le solde résiduel du crédit d’impôt pour enfants, le cas échéant, est alors, pour ainsi dire, remboursé au contribuable. La partie pertinente de la déclaration de revenus des États‑Unis pour l’année d’imposition 2002 de l’appelant est reproduite à la pièce A-2 :
+[traduction]
+28
+Impôt, y compris tout impôt minimum subsidiaire
+(voir les instructions) ................................
+28
+5 959
+29
+Crédit pour dépenses relatives au soin d’enfants et de personnes à charge
+Joindre annexe 2 ................
+29
+30
+Crédit pour personnes âgées ou handicapées
+Joindre annexe 3 ................
+30
+31
+Crédits pour études
+Joindre formulaire 8863 ...............
+31
+32
+Crédit pour cotisation à un régime d’épargne‑retraite
+Joindre formulaire 8880 ...............
+32
+33
+Crédit d’impôt pour enfants
+(voir les instructions) ..................
+33
+1 800
+34
+Crédit pour adoption
+Joindre formulaire 8839 ...............
+34
+35
+Additionner les lignes 29 à 34
+Total des crédits ....................................
+35
+1 800
+36
+Soustraire la ligne 35 de la ligne 28
+Si le montant à la ligne 35 est plus élevé que le montant à la ligne 28, entrer 0 .......................
+36
+4 159
+37
+Paiements anticipés du crédit pour revenu gagné selon le(s) formulaire(s) W-2 ......................................................
+37
+38
+Additionner les lignes 36 et 37
+Impôt total ..............>
+38
+4 159
+39
+Impôt fédéral retenu des formulaires W-2 et 1099 ....
+39
+7 229
+40
+Paiements estimatifs d’impôt pour l’année 2002 et montant porté à la déclaration de 2001 .........................
+40
+41
+Crédit pour revenu gagné ............................
+41
+42
+Crédit d’impôt supplémentaire pour enfants
+Joindre formulaire 8812 ...............
+42
+43
+Additionner les lignes 39 à 42
+Total des paiements ..............................>
+43
+7 229
+44
+Si le montant à la ligne 43 est plus élevé que le montant à la ligne 38, soustraire le montant à la ligne 38 du montant à la ligne 43.
+Montant payé en trop ........................
+44
+3 070
+45a
+Montant à la ligne 44 qui doit vous être remboursé ............>
+45a
+3 070
+[8] L’appelant est d’avis qu’il devrait avoir le droit de déduire 5 959 $, soit le montant indiqué à la ligne 28 comme [traduction] « impôt », avant de le porter au crédit d’impôt pour enfants. Suivant la loi fiscale des États‑Unis, il était tenu de payer ce montant et, suivant la même loi, il devait porter à ce montant tout montant de prestation fiscale pour enfants lui étant dû, ainsi que tout l’impôt retenu à la source. Son impôt à payer était tout de même de 5 959 $ et, par conséquent, c’est ce montant qu’il devrait pouvoir déduire en application de l’alinéa 126(1)a) de la Loi.
+[9] Le ministre fait valoir que l’alinéa 126(1)a) limite le montant du crédit pour impôt étranger au montant d’impôt ayant réellement été payé par le contribuable. En ce qui concerne les calculs ci‑dessus, l’intimée observe que l’[traduction] « impôt » de 5 959 $ indiqué à la ligne 28 ne représente pas l’impôt réellement payé par l’appelant. En application de la loi fiscale des États‑Unis, 1 800 $ ont été soustraits de ce montant après qu’on lui ait porté le montant de crédit d’impôt pour enfants auquel l’appelant avait droit en 2002. Comme il est indiqué aux lignes 36 et 38 ci‑dessus, l’[traduction] « impôt total » à payer était donc de 4 159 $. Ce montant a ensuite été soustrait à l’impôt fédéral de 7 229 $ qui avait déjà été retenu des revenus d’emploi de l’appelant pour l’année 2002, ce qui donne un remboursement de 3 070 $ pour l’appelant. Ce montant représente la somme de 1 800 $, soit le montant maximal de crédit d’impôt pour enfants payable à l’appelant pour l’année 2002, et de 1 270 $ (7 229 $ - 5 959 $), soit le montant d’impôt payé en trop retenu à la source pour cette même année. Je souligne que ce dernier montant est qualifié à la ligne 44 comme étant le [traduction] « montant payé en trop [par le contribuable] ». Par conséquent, l’« impôt sur le revenu ne provenant pas d’entreprises » payé par l’appelant au sens de l’alinéa 126(1)a) était de 4 159 $.
+[10] À mon avis, l’interprétation adoptée par l’intimée est la bonne. Le but du crédit pour impôt étranger est d’éviter la double imposition[4] en déduisant de l’impôt à payer par un contribuable au Canada un montant égal à l’impôt payé « au gouvernement d’un pays étranger ». « Un impôt est un prélèvement, susceptible d'exécution forcée en vertu de la loi, imposé en vertu de l'autorité d'une législature par un organisme public et perçu à des fins publiques »[5]. En l’espèce, le montant du prélèvement établi à l’égard de l’appelant par le gouvernement des États‑Unis en application de la loi fiscale du pays était de 4 159 $. Il semble donc qu’il s’agit‑là du seul montant qui soit déductible en vertu de l’alinéa 126(1)a) de la Loi. Par conséquent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2007.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 16e jour de novembre 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI634
+N° DE DOSSIER : 2005-3867(IT)I
+INTITULÉ : WENCHENG ZHANG ET
+SA MAJESTÉ LA REINE
+LIEU : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 26 juin 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 24 octobre 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me John Mill
+Avocat de l’intimée :
+Me Steven Leckie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me John Mill
+Cabinet : Mill Professional Corporation Windsor (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièces A-1 et A-2.
+[2] Canada v. Capitol Life Insurance Co., [1986] 1 C.T.C. 388 (C.A.F.).
+[3] Paragraphe 19 de la réponse à l’avis d’appel.
+[4] Dagenais v. Canada, [2000] 2 C.T.C. 2022.
+[5] Kempe v. Canada, [2001] 1 C.T.C. 2060, au paragraphe 9, citant l’arrêt de la Cour suprême du Canada Lawson v. Interior Tree Fruit and Vegetable Committee of Direction, [1931] R.C.S. 357.

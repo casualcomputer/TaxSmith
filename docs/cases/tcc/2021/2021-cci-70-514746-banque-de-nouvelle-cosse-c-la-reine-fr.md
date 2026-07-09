@@ -1,0 +1,246 @@
+---
+title: "Banque de Nouvelle-Écosse c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/514746/index.do"
+last_modified: "2021-10-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 70"
+citation2: ""
+neutral_citation: "2021 CCI 70"
+decision_date: "2021-10-20"
+language: "fr"
+item_id: "514746"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4471
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:54:59.588000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7a1cd4e79f2cd6ee92f57650bc0efe92de81f6f6f01f2d0c70bf4ad0d64936f8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Banque de Nouvelle-Écosse c. La Reine
+
+- Citation: 2021 CCI 70
+- Decision date: 2021-10-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4471, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Banque de Nouvelle-Écosse c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-10-20
+Référence neutre
+2021 CCI 70
+Numéro de dossier
+2018-834(IT)G
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-834(IT)G
+ENTRE :
+LA BANQUE DE NOUVELLE-ÉCOSSE
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 septembre 2020, à Calgary (Alberta)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Avocats de l’appelante :
+Me Gerald Grenon
+Me Kaitlin Gray
+Avocats de l’intimée :
+Me Chang Du
+Me Alexander Millman
+JUGEMENT
+[1] L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 de l’appelante est rejeté avec dépens.
+[2] Les parties ont jusqu’au 10 janvier 2022 pour parvenir à un accord sur les dépens, faute de quoi l’intimée devra déposer des observations écrites au plus tard le 10 février 2022, après quoi l’appelante aura jusqu’au 10 mars 2022 pour déposer sa réponse par écrit. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’il n’y a pas de dépôt d’observations dans les délais mentionnés précédemment, les dépens seront adjugés à l’intimée selon le tarif B.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2021.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 29e jour de juillet 2022.
+François Brunet, réviseur
+Référence : 2021 CCI 70
+Date : 20211020
+Dossier : 2018-834(IT)G
+ENTRE :
+LA BANQUE DE NOUVELLE-ÉCOSSE
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+I. Introduction/survol
+[1] Suivant une vérification de la Banque de Nouvelle-Écosse pour les années d’imposition 2006 à 2010, le ministre du Revenu national a envoyé une lettre de proposition concernant l’année 2006. Avant que des lettres de propositions soient envoyées pour les années restantes, le 13 mars 2015, les parties ont conclu une entente de règlement prévoyant l’inclusion de certaines sommes dans le revenu à titre de redressement de prix de transfert pour les années d’imposition 2006 à 2014. Ces redressements auraient notamment pour résultat d’accroître le revenu de l’appelante aux termes de la partie I pour l’année 2006.
+[2] Le 12 mars 2015, l’appelante a écrit au ministre pour lui demander qu’une perte autre qu’en capital de 2008 soit reportée rétrospectivement afin de compenser l’augmentation de son revenu pour l’année d’imposition 2006. C’est donc ce qu’a fait le ministre et, dans le cadre de sa nouvelle cotisation, l’intérêt a été calculé à partir de la date de la demande écrite (c’est-à-dire le 12 mars 2015). L’appelante affirme que l’intérêt devrait plutôt être calculé à partir de la date de dépôt de la déclaration de l’année ayant enregistré une perte (soit le 28 avril 2009).
+II. Question préliminaire
+[3] Au début de l’audience, j’ai accueilli la requête de l’appelante en confidentialité, en application de l’article 16.1 des Règles de la Cour canadienne de l’impôt (procédure générale). L’ordonnance a pour effet de sceller certains documents ou certaines parties de documents comportant des renseignements relatifs au règlement. J’ai accordé l’ordonnance demandée afin de protéger la nature confidentielle des règlements, et après avoir constaté que les renseignements en question ne se rapportaient pas expressément aux questions de fond visées par l’appel. L’intimée ne s’est pas opposée à la demande.
+III. Contexte factuel
+[4] Les faits étant relativement simples, les parties ont déposé un exposé conjoint des faits [1] . Cet exposé est bref et se lit en partie comme suit :
+[traduction] Exposé conjoint des faits
+A. Vérification du prix de transfert par l’ARC et entente de règlement
+1) Le 27 avril 2007, l’appelante, la Banque de Nouvelle-Écosse (la « Banque ») a produit sa déclaration annuelle pour l’année d’imposition se terminant le 31 octobre 2006 (l’« année d’imposition 2006 »). La Banque y déclare un revenu net de 1 941 328 290 $ et un revenu imposable de 800 246 606$. Elle a payé les impôts qu’elle a calculé devoir en temps utile.
+2) Le 28 avril 2009, la Banque a produit sa déclaration annuelle pour l’année d’imposition se terminant le 31 octobre 2008 (l’« année d’imposition 2008 »). La Banque y déclare une perte autre qu’en capital de 3 972 885 321 $, comprenant les conséquences d’une désignation aux termes de l’article 110.5 de 528 000 000 $. De nouvelles cotisations subséquentes établies par le ministre du Revenu national (le « ministre ») jusqu’au 9 juin 2014 ont réduit cette perte autre qu’en capital de 667 754 539 $ (elle est donc passée de 3 972 885 321 $ à 3 305 130 782 $).
+3) En 2012, la Banque a appris que l’Agence du revenu du Canada (l’« ARC ») prévoyait effectuer une vérification des activités de l’une des filiales étrangères de la Banque à l’égard, notamment, des années d’imposition 2006, 2007, 2008, 2009 et 2010 de la Banque se terminant le 31 octobre (la « vérification en matière de prix de transfert »).
+4) En 2013 et en 2014, l’ARC a réalisé la vérification en matière de prix de transfert.
+5) La nouvelle cotisation établie par le ministre pour l’année d’imposition 2006 jusqu’au 6 janvier 2014 a eu pour effet de réduire le revenu imposable de la Banque de 1 750 567 $, pour le faire passer de 800 246 606 $ à 798 496 039 $ en raison d’éléments non liés à la vérification en matière de prix de transfert.
+6) Le 12 février 2015, l’ARC a envoyé une lettre de proposition concernant la vérification en matière de prix de transfert pour l’année d’imposition 2006 (la « lettre de proposition »).
+7) Avant que l’ARC n’envoie des lettres de proposition pour les années d’imposition 2007, 2008, 2009 et 2010, la Banque a conclu une entente de règlement avec le ministre du Revenu national (le « ministre ») concernant la vérification en matière de prix de transfert datée du 13 mars 2015 (l’« entente de règlement »).
+8) L’entente de règlement prévoyait que le ministre établirait une nouvelle cotisation à l’égard de la Banque pour inclure dans ses revenus certaines sommes à titre de redressements en matière de prix de transfert pour les années d’imposition 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 et 2014. Ainsi, l’entente de règlement avait pour effet d’accroître de 54 916 616 $ le revenu de la Banque au titre de la partie I pour l’année d’imposition 2006 (le « redressement en matière de prix de transfert »).
+Report de la perte de 2008
+9) Le 12 mars 2015, la Banque écrit au ministre (la « lettre du 12 mars ») dans le but de reporter une perte autre qu’en capital de 54 000 000 $ enregistrée pour son année d’imposition s’étant terminée le 31 octobre 2008 à son année d’imposition 2006 afin de compenser le redressement en matière de prix de transfert en attente de 54 916 616 $ (le « report de la perte de 2008 »).
+La nouvelle cotisation
+10) Le 20 mars 2015, le ministre a établi un avis de nouvelle cotisation pour l’année d’imposition 2006 (la « nouvelle cotisation »). La nouvelle cotisation comportait les redressements suivants :
+a. Ajout d’un montant de 54 916 616 $ au revenu de la Banque au titre de la partie I pour l’année d’imposition visée par le redressement en matière de prix de transfert, conformément aux modalités établies par l’entente de règlement
+b. Application du report de la perte de 2008 de 54 000 000 $ à titre de déduction du revenu imposable de la Banque
+c. Calcul des intérêts à partir de la date d’entrée en vigueur du 12 mars 2015, conformément au sous-alinéa 161(7)b)iv) de la Loi
+d. Cotisation d’intérêts débiteurs de 7 931 087,49 $ et restitution d’intérêts créditeurs de 180 323,87 $ versés précédemment à la Banque, ces deux sommes étant calculées à partir de la date applicable de calcul des intérêts du 12 mars 2015.
+[5] Le ministre a employé la date de la demande écrite de la Banque (soit le 12 mars 2015) pour calculer les intérêts créditeurs et les intérêts débiteurs. Ce faisant, le ministre a omis d’ajouter 30 jours à ses calculs (c’est-à-dire le 11 avril 2015) comme l’exige la Loi [2] , sans égard à la date réputée employée. En raison de cette erreur, 30 jours d’intérêt de moins ont été cotisés à la Banque.
+IV. Questions en litige
+[6] Comment établit-on la date de paiement réputée aux fins du calcul des intérêts débiteurs dus lorsque le contribuable fait une demande écrite de report de pertes autres qu’en capital pour compenser l’impôt payable à la suite d’une nouvelle cotisation?
+[7] En utilisant la date de la demande écrite de la Banque, le ministre cherchait à appliquer le sous-alinéa 161(7)b)iv) de la Loi de l’impôt sur le revenu. Par contre, la Banque affirme que le ministre aurait dû appliquer le sous-alinéa 161(7)b)ii) et utiliser la date de dépôt de la déclaration enregistrant une perte (2008), c’est-à-dire le 28 avril 2009.
+[8] Une seconde question en litige se pose à l’égard de la date applicable au calcul des intérêts créditeurs devant être payés au ministre par suite de la même nouvelle cotisation. Comme nous le verrons ci-après, le libellé de la disposition est identique; les principes applicables sont donc les mêmes.
+V. Cadre législatif
+Intérêts sur les soldes en retard
+[9] Le paragraphe 161(7) porte sur les effets de divers reports sur le calcul des intérêts pour les soldes en retard; aux termes du sous-alinéa 161(7)a)iv), les reports à l’égard d’une perte autre qu’en capital [3] sont compris. L’impôt payable est réputé être du montant qu’il devrait être si le report en question n’était pas appliqué [4] . La différence en impôt payable qui en résulte (c’est-à-dire entre l’application et la non-application du report en question) est ensuite réputée avoir été payée le 30e jour suivant le dernier jour des jours prévus à survenir [5] , et l’intérêt est calculé en fonction de la date de paiement réputée [6] .
+[10] Les parties pertinentes du paragraphe 161(7) sont les suivantes :
+(7) Effet du report d’une perte sur une année antérieure – Pour le calcul des intérêts à verser en application des paragraphes (1) ou (2) sur l’impôt ou sur une partie d’un acompte provisionnel pour une année d’imposition [...] :
+a) l’impôt payable par le contribuable pour l’année en vertu de la présente partie et des parties I.3, VI et VI.1 est réputé être égal à la somme qui serait payable à ce titre si les conséquences de la déduction, de la réduction ou de l’exclusion des montants ci-après n’étaient pas prises en compte :
+[...]
+(iv) un montant déduit, en application de l’article 118.1, à l’égard d’un don fait au cours d’une année d’imposition ultérieure ou, en application de l’article 111, à l’égard d’une perte subie pour une année d’imposition ultérieure, [Non souligné dans l’original]
+[...]
+b) la somme qui est appliquée en réduction de l’impôt payable par le contribuable pour l’année en vertu de la présente partie et des parties I.3, VI et VI.1 par suite de la déduction ou de l’exclusion de montants visés à l’alinéa a) est réputée avoir été versée au titre de son impôt payable pour l’année en vertu de la présente partie le trentième jour suivant le dernier en date des jours suivants :
+(i) le premier jour qui suit cette année d’imposition ultérieure,
+(ii) le jour où la déclaration de revenu [sic] du contribuable ou de son représentant légal pour cette année d’imposition ultérieure a été produite,
+(iii) le jour où une déclaration de revenu [sic] modifiée du contribuable pour l’année a été produite ou un formulaire prescrit modifiant sa déclaration de revenu pour l’année a été présenté conformément au paragraphe 49(4) ou 152(6) ou (6.1) ou à l’alinéa 164(6)e), dans le cas où il y a une telle production ou présentation,
+(iv) le jour de la demande écrite à la suite de laquelle le ministre établit une nouvelle cotisation concernant l’impôt du contribuable pour l’année et qui tient compte de la déduction ou de l’exclusion, dans le cas où il y a une telle nouvelle cotisation.
+[11] La version de l’alinéa 161(7)b) prévoyant les quatre différents jours comme dates de paiement réputé a été adoptée en 1985 [7] et appliquée aux années enregistrant des pertes après 1984 [8] . En 2003, la période de 30 jours a été ajoutée [9] et quelques modifications mineures ont suivi, lesquelles ne sont pas pertinentes aux fins du présent appel. Cette disposition n’a pas été modifiée depuis 2009.
+Intérêt créditeurs
+[12] Le paragraphe 164(5) porte sur les effets de divers reports sur le calcul des intérêts créditeurs; aux termes de l’alinéa 164(5)d), les reports à l’égard d’une perte autre qu’en capital [10] sont visés par cette disposition. La partie de paiement en trop de l’impôt payable résultant de la déduction d’une perte autre qu’en capital reportée est réputée avoir été faite le 30e jour suivant le dernier jour des jours prévus à survenir [11] , ce qui est identique au libellé des sous-alinéas 161(7)b)i) à iv) précités.
+[13] La version du paragraphe 164(5) comprenant les quatre jours distincts réputés constituer les dates du paiement en trop a également été adoptée en 1985 [12] . En 2003, la période de 30 jours a été ajoutée [13] et quelques modifications mineures ont suivi, lesquelles ne sont pas pertinentes aux fins du présent appel. Cette disposition n’a pas été modifiée depuis 2013.
+VI. Les thèses des parties
+[14] L’appelante affirme que le législateur n’avait pas l’intention d’assujettir le un contribuable à des intérêts pendant la période où une perte pouvait être reportée lorsque le contribuable ne savait pas, avant la conclusion d’une vérification, qu’il y avait lieu de le faire. À l’appui de son argument, l’appelante note que les déductions discrétionnaires prévues par la Loi ne sont pas soumises à un tel calcul de l’intérêt lorsqu’elles sont appliquées pour compenser un redressement découlant d’une vérification. L’appelante fait valoir que la nouvelle cotisation du ministre a été établie en vue de refléter les redressements découlant de la vérification en matière de prix de transfert plutôt qu’en conséquence de la demande écrite de report et que, à ce titre, le sous-alinéa 161(7)b)ii) joue. À l’appui de son argument, l’appelante renvoie à la version française de la disposition et se fonde sur la jurisprudence Methanex [14] de la Cour d’appel de l’Alberta.
+[15] L’intimée soutient que le libellé de la disposition est clair et que la Cour doit donc s’en remettre au sens ordinaire des mots. Elle affirme que le report de la perte ne crée pas une fiction juridique par laquelle les impôts des années antérieures n’ont jamais été dus. Les impôts sont plutôt dus jusqu’à ce que le contribuable demande le report d’une perte à titre de compensation. En l’espèce, les intérêts ont couru jusqu’au 30e jour de la date de demande de report de l’appelante, car il s’agit de la dernière des quatre dates possibles. L’intimée soutient que les faits de l’arrêt Methanex diffèrent de l’espèce et qu’en cette matière, l’arrêt-clé est Connaught [15] . À l’appui de son argument, l’intimée note que si le ministre avait établi deux avis de nouvelle cotisation distincts, soit un pour le redressement en matière de prix de transfert, puis un autre pour le report de la perte, le sous-alinéa 161(7)b)iv) aurait joué. Selon l’intimée, il n’y a aucun fondement pour conclure à un résultat différent en fonction du nombre d’avis établis.
+VII. Analyse
+[16] Mon analyse portera essentiellement sur la question des intérêts débiteurs, à l’instar des représentations faites par les parties. Il n’est pas controversé entre ells que les mêmes principes jouent en matière d’intérêt créditeur.
+[17] L’approche moderne en matière d’interprétation des lois est fondée sur le principe que le libellé d’une loi doit être interprété au regard de son contexte global, en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur [16] . La Cour suprême du Canada enseigne que : a) le caractère détaillé et précis de nombreuses dispositions fiscales incite souvent à mettre l’accent sur l’interprétation textuelle [17] ; et b) lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions [18] .
+[18] Lorsqu’une disposition est susceptible de plus d’une interprétation raisonnable, il peut s’avérer nécessaire de s’attarder davantage au contexte et à l’objet qu’au sens ordinaire des mots [19] . L’objet de la loi ne sert pas à mettre de côté le langage clair d’une loi, mais plutôt à donner l’interprétation la plus plausible à une disposition ambiguë [20] . Le contexte et l’objet de la loi peuvent révéler ou dissiper des ambiguïtés latentes même lorsque le sens de certaines dispositions peut paraître non ambigu [21] .
+[19] Il faut également considérer le degré de précision et de clarté du libellé d’une disposition fiscale; lorsque le sens d’une telle disposition ou son application aux faits ne présente aucune ambiguïté, il suffit de l’appliquer [22] . Le juge doit par conséquent faire preuve de prudence lorsqu’il s’agit d’attribuer au législateur, à l’égard d’une disposition claire de la Loi, une intention non explicite, car, ce faisant, on risque de rompre l’équilibre que le législateur a tenté d’établir dans la Loi [23] .
+[20] Vu les principes précités, je ne puis souscrire à l’interprétation défendue par l’appelante de la disposition visée en l’espèce. Je vois la distinction qu’elle opère entre la situation où un contribuable établit le montant d’impôt qu’il doit au moment où il produit sa déclaration de revenus et la situation où le ministre établit une nouvelle cotisation pour effectuer un redressement entraînant une dette fiscale. Toutefois, bien que ces circonstances soient différentes, elles ne résultent pas en traitements distincts aux termes des dispositions relatives à l’intérêt. La Loi prévoit une responsabilité rétroactive et rétrospective suivant une nouvelle cotisation dans un système d’autocotisation. Le paragraphe 152(3) dispose que le fait qu’une cotisation soit inexacte ou incomplète ou qu’aucune cotisation n’ait été effectuée n’a pas d’effet sur l’obligation fiscale du contribuable. En d’autres termes, le contribuable est responsable de sa dette fiscale, peu importe l’état de la nouvelle cotisation.
+[21] Les Notes techniques du ministre des Finances précisent ce qui suit à l’égard de la modification de 1985 :
+Selon le paragraphe 161(7) de la loi, si l’impôt payable pour une année est réduit par suite du report d’une perte, d’un crédit d’impôt ou d’un autre montant sur une année antérieure, les intérêts sur tout impôt impayé pour cette année antérieure sont calculés, sans tenir compte du montant du report, pour la période se terminant à la date d’échéance de production de la déclaration d’impôt pour l’année ultérieure ou à la date effective de production de la déclaration, si cette date est postérieure à l’autre. Selon l’amendement apporté à l’alinéa 161(7)b), les intérêts ne sont exigés que pour la période se terminant à la date de production de la déclaration du contribuable pour l’année ultérieure. Toutefois, lorsque le contribuable produit, à une date ultérieure, un formulaire prescrit pour demander un report rétrospectif ou que le ministre du Revenu national accède à la demande écrite du contribuable d’établir une nouvelle cotisation pour l’année antérieure, les intérêts sont calculés pour la période se terminant à la date de production du formulaire ou d’envoi de la demande. Cet amendement s’applique dans le cas où un montant est reporté d’une année d’imposition se terminant après 1984. [24] [Non souligné dans l’original]
+[22] Il ressort des Notes techniques démontrent que le législateur avait l’intention d’établir quatre jours distincts comme dates possibles de paiement réputé et semblait s’attendre à ce que les jours représentés par les sous-alinéas 161(7)b)iii) et iv) soient les derniers des quatre scénarios. Au regard de la responsabilité générale à l’égard de l’impôt prévue par le paragraphe 152(3), je ne vois aucune intention d’opérer une distinction entre une cotisation d’impôt établie conformément au calcul d’un contribuable en première instance et une cotisation d’impôt établie après une vérification par le ministre ou après conclusion d’un règlement avec le contribuable.
+[23] Voici la version française du sous-alinéa 61(7)b)iv) :
+(iv) le jour de la demande écrite à la suite de laquelle le ministre établit une nouvelle cotisation concernant l’impôt du contribuable pour l’année et qui tient compte de la déduction ou de l’exclusion, dans le cas où il y a une telle nouvelle cotisation. [Non souligné dans l’original]
+[24] L’appelante note que l’expression « à la suite de » est notamment employée dans la Loi comme équivalent à l’expression anglaise « as a consequence of » et « as a result of » et que cette formulation connote un lien de causalité et non simplement deux événements se suivant. Je ne vois toutefois pas comment l’aspect temporel peut être séparé de la composante causale dans cette situation. Par exemple, selon le dictionnaire Larousse, l’expression « à la suite de laquelle » signifie « following which » [25] .
+[25] Si je lis littéralement la version française de la disposition, elle renvoie au jour de la demande écrite suivant laquelle le ministre a établi une nouvelle cotisation concernant l’impôt du contribuable pour l’année et qui tient compte de la déduction ou de l’exclusion, lorsqu’il y a nouvelle cotisation. Elle prévoit un élément temporel au moyen d’une nouvelle cotisation d’impôt suivant une demande écrite.
+[26] Les faits de la présente affaire sont plus semblable à ceux de l’arrêt Connaught qu’à ceux de l’arrêt Methanex. Dans l’arrêt Connaught, l’appelante a produit une déclaration de revenus déclarant aucun impôt à payer alors qu’après l’établissement de la nouvelle cotisation, elle avait un gain net en capital pour l’année en question. L’appelante a demandé que sa perte en capital d’une année subséquente soit reportée pour compenser totalement le gain net en capital de l’année antérieure [26] . La Cour fédérale a retenu les arguments du ministre selon lesquels des intérêts débiteurs étaient dus à l’égard de l’année antérieure. En tirant cette conclusion, la Cour a observé que les impôts étaient payables en raison du gain en capital non déclaré, que le libellé du paragraphe 161(7) n’était pas ambigu et que l’interprétation du ministre n’allait pas à l’encontre de l’objet ou des objectifs de la Loi [27] .
+[27] Dans l’arrêt Methanex, la cour de l’Alberta analyse l’alinéa 39(3)b) de la Alberta Corporate Tax Act [28] . Le ministre du Revenu national a établi trois nouvelles cotisations faisant en sorte que Methanex avait un solde d’impôt provincial et fédéral. À la demande de la société, le trésorier provincial de l’Alberta a reporté rétrospectivement les pertes pour compenser l’impôt provincial dû en application de ces trois nouvelles cotisations. L’alinéa 39(3)b) n’est pas identique, mais ressemble beaucoup aux quatre jours distincts prévus par l’alinéa 161(7)b) pour établir la date de paiement réputée pour le calcul des intérêts débiteurs. Le trésorier provincial a appliqué la date à laquelle les demandes de report des pertes ont été présentées, alors que Methanex faisait valoir que la date applicable était la date à laquelle les déclarations avaient été produites.
+[28] La Cour du Banc de la Reine a souscrit aux arguments de Methanex et a conclu que pour chacune des trois nouvelles cotisations, soit Methanex n’avait pas présenté de demande écrite, soit la nouvelle cotisation n’avait pas été établie conséquemment à sa demande. En tirant cette conclusion, la Cour note que l’interprétation du trésorier provincial met le contribuable dans une position vulnérable où il pourrait payer de l’intérêt selon une décision du Trésor de l’Alberta et non simplement en fonction de ses propres décisions. La Cour d’appel de l’Alberta n’a constaté aucune erreur manifeste et dominante.
+[29] Je crois que la jurisprudence Methanex était erronée, ou que son raisonnement ne peut valoir pour un appel interjeté en application de la Loi de l’impôt sur le revenu fédérale. Cette décision contredit l’essence même du système fiscal d’autocotisation aux termes de la Loi fédérale, dont les dispositions abondent en exemples où le fardeau repose sur le contribuable. Par exemple, le ministre n’est pas lié par une déclaration ou des renseignements fournis par le contribuable lorsqu’il établit une cotisation [29] , les contribuables exploitant une entreprise doivent tenir des livres et registres qui puissent permettre au ministre d’établir l’impôt payable [30] , et la responsabilité fiscale ne dépend pas du fait qu’une cotisation soit inexacte ou incomplète ou qu’aucune cotisation n’ait été effectuée [31] .
+[30] Dans le cadre du présent appel, les quatre jours prévus par l’alinéa 161(7)b) sont les suivants :
+le premier jour suivant immédiatement l’année d’imposition enregistrant une perte, soit le 1er novembre 2008;
+le jour du dépôt de la déclaration de revenus de la Banque pour l’année d’imposition enregistrant une perte, soit le 28 avril 2009;
+si une déclaration de revenus modifiée du contribuable pour l’année a été produite ou un formulaire prescrit modifiant sa déclaration de revenus pour l’année a été présenté conformément au paragraphe 152(6), le jour où la déclaration de revenus modifiée a été produite ou la formule prescrite a été présentée – cette situation n’étant pas survenue, aucune date n’est applicable;
+le jour de la demande écrite à la suite de laquelle le ministre établit une nouvelle cotisation concernant l’impôt du contribuable pour l’année et qui tient compte de la déduction pour perte, soit le 12 mars 2015.
+[31] Le libellé de la disposition n’est pas ambigu et, lorsqu’il est appliqué aux faits de l’espèce, la date exacte de paiement réputé est le 11 avril 2015, ce qui correspond à 30 jours après le 11 mars 2015, au sens du sous-alinéa 161(7)b)iv). Aux fins de l’intérêt créditeur, la date réputée de trop-payé exacte est également le 11 avril 2015, aux termes de l’alinéa 164(5)l). L’erreur du ministre, qui a utilisé le 12 mars 2015 pour ses calculs plutôt que celle du 11 avril 2015, a eu pour effet de réduire de 30 jours les intérêts cotisés. La Cour ne peut mettre le contribuable dans une situation moins favorable [32] .
+VIII. Conclusion
+[32] Pour tous les motifs qui précèdent, l’appel est rejeté avec dépens.
+[33] Les parties ont jusqu’au 10 janvier 2022 pour parvenir à un accord sur les dépens, faute de quoi l’intimée devra déposer des observations écrites sur les dépens au plus tard le 10 février 2022, après quoi l’appelante aura jusqu’au 10 mars 2022 pour déposer sa réponse par écrit. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’il n’y a pas de dépôt d’observations dans les délais mentionnés précédemment, les dépens seront adjugés à l’intimée selon le tarif B.
+Signé à Ottawa, Canada, ce 20e jour d’octobre 2021.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 29e jour de juillet 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2021 CCI 70
+No DU DOSSIER DE LA COUR :
+2018-834(IT)G
+INTITULÉ :
+BANQUE DE NOUVELLE-ÉCOSSE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 30 septembre 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 20 octobre 2021
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Gerald Grenon
+Me Kaitlin Gray
+Avocats de l’intimée :
+Me Chang Du
+Me Alexander Millman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Gerald Grenon
+Cabinet :
+Osler, Hoskin & Harcourt S.E.N.C.R.L./s.r.l.
+Calgary (Alberta)
+Pour l’intimée :
+Me François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1 : Exposé conjoint des faits
+[2] Loi de l’impôt sur le revenu, alinéa 16(7)b) et paragraphe 164(5).
+[3] Loi de l’impôt sur le revenu, alinéa 111(1)a).
+[4] Loi de l’impôt sur le revenu, alinéa 161(7)a).
+[5] Loi de l’impôt sur le revenu, sous-alinéas 161(7)b)i), ii), iii) et iv).
+[6] Loi de l’impôt sur le revenu, paragraphe 161(1).
+[7] Lois du Canada (1985), chapitre 45, paragraphe 91(3).
+[8] Lois du Canada (1985), chapitre 45, paragraphe 91(4).
+[9] Lois du Canada (2003), chapitre 15, paragraphe 116(2).
+[10] Loi de l’impôt sur le revenu, alinéa 111(1)a).
+[11] Loi de l’impôt sur le revenu, alinéas 164(5)i), j), k) et l).
+[12] Lois du Canada (1985), chapitre 45, paragraphe 93(10).
+[13] Lois du Canada (2003), chapitre 15, paragraphe 118(3).
+[14] Alberta (Provincial Treasurer) c. Methanex Corporation, 2004 ABCA 304 (CanLII), confirmant Methanex Corp c. Alberta (Provincial Treasurer), 2003 ABQB 157 (CanLII).
+[15] Connaught Laboratories Ltd. c. Canada, 1994 CarswellNat 1133 (C.F. 1re inst.).
+[16] Hypothèques Trustco Canada c. Canada, 2005 CSC 54, par. 10; Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 RCS 27, par 21.
+[17] Hypothèques Trustco Canada c. Canada, 2005 CSC 54, par. 11 (CanLII); A.Y.S.A. Amateur Youth Soccer Association c. Canada (Agence du revenu), 2007 CSC 42, par. 16.
+[18] Hypothèques Trustco Canada c. Canada, 2005 CSC 54, par. 11.
+[19] Hypothèques Trustco Canada c. Canada, 2005 CSC 54, par. 10; Placer Dome Canada Ltd. c. Ontario (Ministre des Finances), 2006 CSC 20, par. 22.
+[20] Placer Dome Canada Ltd. c. Ontario (Ministre des Finances), 2006 CSC 20, par. 23.
+[21] Hypothèques Trustco Canada c. Canada, 2005 CSC 54, par. 47; Placer Dome Canada Ltd. c. Ontario (Ministre des Finances), 2006 CSC 20, par. 22.
+[22] Placer Dome Canada Ltd. c. Ontario (Ministre des Finances), 2006 CSC 20, par. 23.
+[23] Shell Canada Ltée c. Canada, [1999] 3 RCS 622, par. 43.
+[24] Notes techniques sur l’Avis de motion des voies et moyens concernant l’impôt sur le revenu (9 septembre 1985), article 91.
+[25] Larousse Concise Dictionary, 2e éd. (2001), sous les mots « suite » et « lequel ».
+[26] Connaught Laboratories Ltd. c. Canada, 1994 CarswellNat 1133 (C.F. 1re inst.), par 2.
+[27] Connaught Laboratories Ltd. c. Canada, 1994 CarswellNat 1133 (C.F. 1re inst.), par. 7 et 10. Voir également Wallace c. The Queen, [1996] 2 CTC 2497, par. 10.
+[28] Revised Statutes of Alberta 2000, chapitre A-15.
+[29] Loi de l’impôt sur le revenu, par. 152(7).
+[30] Loi de l’impôt sur le revenu, par. 230(1).
+[31] Loi de l’impôt sur le revenu, par. 152(3).
+[32] Harris c. Minister of National Revenue, [1964] CTC 562, par. 17 (cour de l’Échiquier du Canada).

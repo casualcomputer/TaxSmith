@@ -1,0 +1,186 @@
+---
+title: "Soja c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27036/index.do"
+last_modified: "2007-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 61"
+citation2: ""
+neutral_citation: "2007 CCI 61"
+decision_date: "2007-01-26"
+language: "fr"
+item_id: "27036"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 646
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:00:30.997000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0fca3bfbf4dba4a9028a7d71c9b02f8f475966cb0445d0e9b100e68c93903f4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Soja c. La Reine
+
+- Citation: 2007 CCI 61
+- Decision date: 2007-01-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 646, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Soja c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-26
+Référence neutre
+2007 CCI 61
+Numéro de dossier
+2003-140(IT)G
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-140(IT)G
+ENTRE :
+WALTER T. SOJA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 août 2006, à Toronto (Ontario)
+Devant : L’honorable juge A.A. Sarchuk
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Craig Maw
+__________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 1999 est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 26e jour de janvier 2007.
+« A.A. Sarchuk »
+Juge suppléant Sarchuk
+Traduction certifiée conforme
+ce 16e jour de mars 2007.
+Hélène Tremblay, traductrice
+Référence : 2007CCI61
+Date : 20070126
+Dossier : 2003-140(IT)G
+ENTRE :
+WALTER T. SOJA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Sarchuk
+[1] Dans sa déclaration de revenu pour l’année 1999, l’appelant a demandé une déduction de 22 000 $ au titre de « pertes en capital nettes d’autres années », une déduction de 22 588,60 $ au titre de frais financiers et de frais d’intérêt, ainsi qu’une déduction de 1 106,78 $ au titre de perte nette de société de personnes. Le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’année d’imposition 1999 de l’appelant et lui a fait parvenir un avis de cotisation, daté du 27 novembre 2000, selon lequel les demandes de déduction étaient refusées.
+[2] Le 22 janvier 2001, l’appelant a produit un avis d’opposition visant la cotisation établie par le ministre à l’égard de l’année d’imposition 1999. Dans son avis d’opposition, l’appelant a demandé, pour la première fois, une déduction pour perte déductible au titre d’un placement d’entreprise (une « PDTPE ») (perte qui, à ce moment-là, n’était pas quantifiée) à l’égard de Security Trading Inc. (« STI »). L’appelant n’a fourni aucune information ni aucun des documents nécessaires pour étayer sa demande de déduction pour PDTPE et ses autres demandes de déduction pour l’année d’imposition 1999. Par conséquent, le 18 octobre 2002, le ministre a produit un avis de ratification de la cotisation initiale.
+[3] Pour tirer sa conclusion, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[TRADUCTION]
+a) pendant toute la période en litige, la totalité des actions émises et en circulation de Security Trading Inc. (« STI ») étaient détenues par Westwil Investments Inc. (« Westwil »);
+b) pendant toute la période en litige, l’appelant détenait 40 % des actions émises et en circulation de Westwil;
+c) il n’y a pas eu de disposition d’un bien par l’appelant, aux termes de l’alinéa 39(1)c) de la Loi, au cours de l’année d’imposition 1999 de l’appelant ou de toute autre année;
+d) pendant ses années d’imposition de 1994 à 1999, l’appelant n’avait aucune créance sur une société privée sous contrôle canadien répondant aux exigences énoncées aux divisions 39(1)c)(iv)(A), 39(1)c)(iv)(B) et 39(1)c)(iv)(C) de la Loi;
+Contexte
+[4] En décembre 1991, Westwil Investments Inc. (« Westwil ») a acheté STI à Joronda Investments. Les actionnaires de Westwil étaient Adriatic Insurance Brokers, une compagnie d’assurances, avec une participation de 40 %, et Walter T. Soja and Company Inc. (« Soja Inc. »), avec une participation de 60 %[1]. Soja Inc. a fourni la somme de 180 000 $ par l’entremise d’un prêt consenti à Westwil dans le but de simplifier son achat de STI[2]. Cette transaction est partiellement consignée dans un billet à ordre daté du 15 juillet 1993 pour un montant de 150 000 $, avec un taux d’intérêt égal au taux préférentiel plus 2 %.
+[5] Par la suite, plusieurs autres prêts, s’élevant à 315 000 $, ont été consentis à STI. Ils sont répartis de la façon suivante : le 4 février 1994 – 125 000 $; le 14 février 1994 – 125 000 $; le 19 juillet 1994 – 30 000 $; le 27 octobre 1994 –10 000 $[3]; ainsi qu’un autre prêt, sans appui documentaire, de 25 000 $ daté du 8 octobre 1993. L’appelant qualifie ces sommes d’avances de prêt subordonné.
+[6] Le 3 mai 1994, le conseil d’administration de la Bourse de Toronto (la « Bourse ») a ordonné que les droits et les privilèges de STI soient révoqués et que celle‑ci soit liquidée, conformément à certaines conditions. STI a demandé à la Commission des valeurs mobilières de l’Ontario (la « Commission ») de tenir une audience et de procéder à la révision de la décision du conseil d’administration. Le 16 décembre 1994, la Commission a modifié la décision du conseil d’administration dans la mesure où STI a pu conserver ses droits de négocier sous réserve de certaines conditions. Notamment, STI devait payer une amende de 50 000 $ à la Bourse au plus tard le 20 janvier 1995. STI n’a pas rempli cette condition et a demandé une prorogation du délai pour payer l’amende. La Commission n’était pas disposée à accueillir la demande. Les droits et privilèges de STI ont donc été révoqués et celle‑ci a été liquidée le 31 mars 1995[4].
+Position de l’appelant
+[7] L’appelant soutient avoir personnellement consenti des prêts s’élevant à 315 000 $ à STI, et fait valoir que la PDTPE demandée découle de pertes subies en raison du caractère maintenant irrécouvrable de ces prêts. L’appelant a évoqué les divers chèques et billets à ordre, la correspondance qu’il a entretenue avec des vérificateurs et les administrateurs de Westwil et de STI, ainsi que ses échanges avec l’ARC. Il soutient que ces documents permettent d’établir son admissibilité à la PDTPE à l’égard des prêts qu’il a consentis à Westwil et à STI à un taux d’intérêt égal au taux préférentiel plus 2 %. Dans ce contexte, il affirme ce qui suit :
+[TRADUCTION]
+À mon avis, c’est à eux (c.‑à‑d. l’ARC) d’être en mesure de réfuter ces prêts. D’autre part, il m’incombait à moi d’établir que j’avais consenti ces prêts, que j’avais prêté l’argent à une société, à des sociétés. On a accordé beaucoup d’importance à la question de savoir si j’étais actionnaire de Security Trading. De toute évidence, Security Trading était détenue par l’entremise de Westwil. Je ne crois pas que ceci vienne remettre en question quelque aspect que ce soit de mon investissement direct dans Security Trading.
+Tout a été fait ainsi pour une raison précise. Les chèques ont été faits à l’ordre de Security Trading parce que je ne voulais pas qu’ils passent par Westwil. Je suis membre de la Bourse de Toronto. À ce titre, j’ai l’obligation, envers la Bourse et ses autres membres, de fournir le capital en question, et c’est la raison pour laquelle je l’ai fait ainsi. C’est très loin de ce qu’a affirmé M. Freedhoff à notre directeur financier lorsque, dans sa vérification, il a cherché à corroborer les prêts importants que j’avais faits.
+[8] De plus, l’appelant soutient avoir établi qu’il y avait eu une disposition, de par le fait que la créance était irrécouvrable, et il a évoqué les états financiers de Westwil et de STI qui, selon lui, indiquaient clairement que cette dernière était insolvable. Il soutient également qu’en fournissant les documents pertinents aux [traduction] « fonctionnaires de l’ARC dans la mesure où ils avaient reçu suffisamment d’information », il avait établi qu’il remplissait les conditions lui permettant de demander une PDTPE, que c’était [traduction] « une erreur de la part de Justice d’examiner les éléments précis concernant certains critères ou certaines conditions d’une PDTPE qui n’étaient pas remplis », et que [traduction] « honnêtement, les éléments présentés en preuve viennent étayer la thèse contraire ».
+[9] En ce qui concerne le dernier point du litige, l’appelant soutient que [traduction] « la déclaration de revenu à l’égard de l’année 1999, en plus du formulaire T1A modifié pour la déclaration de 1999, indique que le montant du revenu imposable était nul » et que le montant de 45 861 $ représentait [traduction] « au fond, le rajustement du T1A pour le report prospectif d’une perte découlant de prêts, de frais d’intérêts et d’autres éléments relatifs à l’investissement direct et indirect de Walter Soja dans Security Trading et dans Westwil ». Donc, selon l’appelant, il est possible de demander une déduction de 45 861 $ à l’égard du rajustement du T1A au titre de perte autre qu’en capital en vertu de l’alinéa 111(1)a) de la Loi de l’impôt sur le revenu (la « Loi »).
+Position de l’intimée
+[10] L’avocat de l’intimée a cité les dispositions suivantes de la Loi qui s’appliquent à la question en litige :
+39(1) Pour l’application de la présente loi :
+a) […]
+c) une perte au titre d’un placement d’entreprise subie par un contribuable, pour une année d’imposition, résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition, après 1977 :
+(i) soit à laquelle le paragraphe 50(1) s’applique,
+(ii) soit en faveur d’une personne avec laquelle il n’avait aucun lien de dépendance,
+d’un bien qui est :
+[…]
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli, au sens du paragraphe 128(3), qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l’article 6 de la Loi
+sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+[…]
+50(1) Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+b) une action du capital-actions d’une société […] appartient au contribuable à la fin d’une année d’imposition et :
+(i) soit la société est devenue au cours de l’année un failli au sens du paragraphe 128(3),
+(ii) soit elle est une personne morale visée à l’article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l’année,
+(iii) soit les conditions suivantes sont réunies à la fin de l’année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu’elle contrôle n’exploite d’entreprise,
+(C) la juste valeur marchande de l’action est nulle,
+(D) il est raisonnable de s’attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[11] L’avocat a fait valoir que pour son année d’imposition 1999, l’appelant n’a pas fait de choix dans sa déclaration de revenu, comme les dispositions du paragraphe 50(1) lui prescrivaient de faire. Par conséquent, il est impossible d’appliquer ce paragraphe pour déclencher la présomption selon laquelle il y a eu disposition d’une créance aux fins d’une demande de déduction d’une PDTPE. L’avis du ministre est donc qu’en 1999, il n’y a pas eu de disposition d’une quelconque créance due à l’appelant aux termes des sous-alinéas 39(1)c)(ii) et 39(1)c)(iv). L’avocat souligne qu’il se peut que la disposition d’une créance ait eu lieu en 1995 et/ou en 1996[5], ou que la créance ait continué d’exister, mais rien ne vient prouver qu’il y a eu une disposition en 1999.
+[12] L’avocat a ajouté que pour que l’appelant obtienne gain de cause, il doit être en mesure d’établir qu’il y a eu disposition d’une créance lui étant due par une société exploitant une petite entreprise. L’avocat a cité l’ordonnance de mise en liquidation[6] datant du 31 mars 1995 dans laquelle il est indiqué notamment que STI [traduction] « n’était pas une entreprise exploitée activement et menant les activités pour lesquelles elle avait été établie ».
+[13] De surcroît, l’avocat a cité l’avis d’appel et, plus précisément, les annexes de celui‑ci concernant le montant de 180 000 $ que l’appelant cherche à déduire comme perte au titre d’un placement d’entreprise. L’avocat a fait valoir que cet élément de preuve permet clairement d’établir que les prêts ont été consentis par Walter T. Soja Inc. et ne constituent pas un investissement de la part du contribuable, et qu’ils ne peuvent donc pas être déduits par l’appelant à titre personnel.
+[14] Le rajustement de la T1 demandé par l’appelant, s’élevant à 45 861 $[7], a été désigné par l’avocat de l’intimée comme représentant des pertes autres que des pertes en capital d’autres années. L’intimée soutient que l’appel concernant l’année d’imposition 1999 n’est pas le recours approprié pour demander la déduction de montants devant être déterminés pour l’année d’imposition 1996 et pour demander à la Cour de permettre à l’appelant de reporter prospectivement les montants en question à l’année 1999. L’avocat de l’intimée a également souligné qu’en date de l’audience, le ministre n’avait pas encore établi de cotisation à l’égard de l’année d’imposition 1996 étant donné que la déclaration de revenu pour cette année-là n’a été produite que récemment. Il a fait valoir qu’il [traduction] « n’est pas approprié, à ce moment-ci, que la Cour établisse s’il existe un montant à reporter prospectivement, alors que les revenus et les dépenses pour l’année 1996 n’ont pas encore été déterminés, et il est impossible de savoir si un report prospectif pourrait s’appliquer à cette année d’imposition, par exemple ».
+Conclusion
+[15] On peut conclure qu’une perte au titre d’un placement d’entreprise a été subie seulement si l’appelant est en mesure de prouver qu’il y a eu disposition d’un bien qui était une créance lui étant due par STI. L’alinéa 39(1)c) de la Loi traite de deux types de disposition. Cependant, à mon avis, il n’est pas nécessaire d’examiner la disposition expliquée au sous-alinéa 39(1)c)(ii) parce qu’elle ne s’applique pas en l’espèce. Donc, étant donné les faits du présent appel, une perte au titre d’un placement d’entreprise n’a été subie selon l’alinéa 39(1)c) que s’il y a eu disposition d’un bien qui est une créance due à l’appelant par STI. De même, nul ne conteste que l’alinéa 50(1)b) prévoit qu’un contribuable doit faire un choix dans sa déclaration de revenu pour l’année d’imposition en cause pour que le paragraphe s’applique. En l’espèce, l’appelant n’a pas fait un tel choix, et son avis d’opposition, ainsi que l’avis d’appel qui a suivi, ne constituent aucunement un tel choix. De surcroît, je remarque que l’appelant n’a pas demandé de prorogation du délai imparti pour faire le choix, comme il aurait eu le droit de le faire en vertu du paragraphe 220(3.2) de la Loi. Comme il n’a pas fait le choix prévu au paragraphe 50(1), l’appelant ne peut pas déduire la perte pour l’année d’imposition en litige.
+[16] Je tiens aussi à souligner que l’appel aurait échoué sur ce point même si l’appelant avait pu déduire sa perte, étant donné que ce dernier n’a pas réussi à établir qu’une disposition avait eu lieu en 1999.
+Demande de rajustement de la T1
+[17] En plus de la question portant sur la PDTPE, il y a une autre question qui se pose. Le 25 mai 2006, le comptable de l’appelant a envoyé le formulaire de déclaration de revenu des particuliers de l’appelant pour l’année 1996 en plus d’une demande de rajustement de la T1 de l’année 1999, demande datée du 18 mai 2006. Dans cette dernière, le détail du rajustement concerne des pertes autres que des pertes en capital d’autres années s’élevant à 45 861 $.
+[18] L’avocat de l’intimée ne s’est pas opposé à la présentation en preuve de ces documents. Il a tout de même tenu à souligner que la mention des pertes autres que des pertes en capital d’autres années concernait la détermination d’une perte à l’égard de l’année d’imposition 1996, et que l’appelant demande à la Cour de lui permettre de reporter prospectivement les montants à l’année d’imposition en litige. L’avocat a fait observer qu’en date de l’audience, l’année d’imposition 1996 n’avait pas encore fait l’objet d’une cotisation, comme l’appelant venait à peine d’en produire la déclaration de revenu. En outre, l’avocat de l’intimée a indiqué que si le ministre établissait une cotisation à l’égard l’année d’imposition 1996, et qu’il accordait la déduction de pertes, ces dernières devraient d’abord être appliquées à l’année 1996 et les montants à reporter prospectivement [traduction] « seraient étalés sur les années subséquentes conformément à la loi ». Je suis du même avis que l’avocat de l’intimée. La Cour n’est pas le lieu approprié, à ce moment‑ci, pour trancher la question de savoir s’il y a un montant à reporter prospectivement, étant donné qu’on n’a pas encore déterminé les revenus et les dépenses pour l’année 1996 et qu’il est impossible de savoir s’il existe vraiment un montant à reporter.
+[19] Pour tous ces motifs, l’appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 26e jour de janvier 2007.
+« A.A. Sarchuk »
+Juge suppléant Sarchuk
+Traduction certifiée conforme
+ce 16e jour de mars 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI61
+N° DU DOSSIER : 2003-140(IT)G
+INTITULÉ : WALTER T. SOJA ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 28 août 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge A.A. Sarchuk
+DATE DU JUGEMENT : Le 26 janvier 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Craig Maw
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : S.O.
+Cabinet : S.O.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’appelant et ses enfants détenaient 75 % et 25 % de Soja Inc., respectivement.
+[2] Dans son avis d’opposition et dans son témoignage, l’appelant a indiqué qu’il s’agissait d’un investissement personnel de sa part. Cependant, la preuve vient contredire cette affirmation et, finalement, l’appelant a concédé qu’il s’agissait plutôt d’un [traduction] « prêt personnel consenti par l’entremise de la société, soit Walter J. Soja and Company ».
+[3] Pièce A-3, onglet 9.
+[4] Selon le témoignage de l’appelant, STI a choisi de ne pas payer l’amende de 50 000 $ et, de son plein gré, a cessé ses activités.
+[5] L’appelant n’avait pas produit de déclaration de revenu à l’égard de ces années-là.
+[6] Pièce A-7.
+[7] Pièce A-10.

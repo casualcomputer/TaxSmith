@@ -1,0 +1,227 @@
+---
+title: "Schreiner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25018/index.do"
+last_modified: "2006-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 234"
+citation2: ""
+neutral_citation: "2006 CCI 234"
+decision_date: "2006-04-13"
+language: "fr"
+item_id: "25018"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2525
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:41:46.715000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e32bd6f5dd63cbc02cf321669e672f82096c52f9e64bc9373833f1aa7cbff3ee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schreiner v. The Queen
+
+- Citation: 2006 CCI 234
+- Decision date: 2006-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2525, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schreiner v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-13
+Référence neutre
+2006 CCI 234
+Numéro de dossier
+2004-3071(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2004‑3071(IT)I
+2005‑362(IT)I
+ENTRE :
+NADINE SCHREINER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 14 octobre 2005 à Saskatoon (Saskatchewan)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Beaty Beaubier
+Avocate de l’intimée :
+Me Brooke Sittler
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu visant l’année de base 2001 est rejeté sans frais, et l’appel visant l’année d’imposition 2002 est rejeté sans frais conformément aux motifs de jugement ci-joints.
+Signé à Vancouver (Colombie‑Britannique), ce 13e jour d’avril 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 22e jour de juin 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI234
+Date : 20060413
+Dossiers : 2004‑3071(IT)I
+2005‑362(IT)I
+ENTRE :
+NADINE SCHREINER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L’appelante et Eric Schreiner (ci‑après « Eric ») se sont mariés le 30 septembre 1983.
+[2] L’appelante et Eric se sont séparés et réconciliés plusieurs fois et ils se sont séparés de façon permanente en 1998. L’appelante et Eric ont divorcé en juin 2000.
+[3] L’appelante et Eric ont un enfant, Jessica, née le 1er juin 1988.
+[4] L’appelante (ci‑après « Nadine ») a déposé une requête devant la Cour du Banc de la Reine de la Saskatchewan (Division du droit de la famille). Le 22 août 2001, M. le juge F.G.W. Dickson de la cour en question a rendu une ordonnance prévoyant ce qui suit :
+[traduction]
+APRÈS AVOIR LU LES DOCUMENTS déposés devant la Cour en l’espèce et avec le consentement des parties, LA COUR ORDONNE :
+1. Il n’y aura pas d’ordonnance de garde à l’égard de Jessica Schreiner, née le 1er juin 1988. Elle vivra avec son père et passera une partie significative et importante de son temps avec sa mère. Sans préjudice de la portée générale de ce qui précède, les parties conviennent et reconnaissent que :
+a) Jessica passera avec sa mère une fin de semaine sur deux, laquelle sera prolongée les longues fins de semaine;
+b) Jessica passera le soir et la nuit de mardi et de mercredi avec sa mère ainsi que toute autre période qu’elle désire. La transition se fera après l’école, et à 19 h les jours où il n’y a pas d’école;
+c) Les vacances estivales et scolaires seront divisées comme il a été convenu, soit équitablement (à peu près également) en tenant compte de la maturité de Jessica et de ses désirs;
+d) Jessica aura un contact maximum avec chacun de ses deux parents et passera environ 40 % à 60 % de son temps avec chacun d’eux;
+e) L’horaire « A » s’appliquera au mois de juin; l’horaire normal continuera de s’appliquer sous réserve des modifications prévues à l’horaire « A ».
+2. Aucun des deux parents ne paiera de pension alimentaire pour enfants à l’autre parent. Chacun d’eux s’occupera de Jessica et subviendra aux besoins de celle-ci pendant qu’elle sera confiée à ses soins. Il est possible que la question de la pension alimentaire pour enfants soit réexaminée en octobre 2001. Les frais et les dépenses scolaires de base seront partagés également entre les deux parents.
+(pièce R‑1)
+[5] L’appelante a demandé la prestation fiscale canadienne pour enfants (la « PFCE ») à l’égard de Jessica pour l’année de base 2000. Le ministre du Revenu national (le « ministre ») a délivré un avis de nouvelle cotisation dans lequel il refusait à l’appelante la PFCE demandée. L’appelante a interjeté appel devant la Cour canadienne de l’impôt, et son appel à l’égard de la PFCE pour l’année de base 2000 a été accueilli par le juge Beaubier.
+[6] Eric a lui aussi produit une déclaration de revenus pour les années de base 2000 et 2001. Le ministre a délivré des avis de nouvelle cotisation dans lesquels il refusait à Eric la PFCE qu’il demandait. Eric a interjeté appel devant la Cour canadienne de l’impôt. Dans un jugement daté du 18 mai 2004, la juge Sheridan a statué que Eric était le particulier admissible qui avait droit à la PFCE pour les années de base 2000 et 2001. La juge Sheridan a conclu que Nadine Schreiner était le particulier qui avait droit à la PFCE pour l’année de base 2002.
+[7] Dans le calcul de ses impôts à payer pour l’année d’imposition 2002, l’appelante a déduit 6 482 $ à titre de crédit pour personne entièrement à charge. (L’appelante a affirmé que Jessica était une personne entièrement à charge.)
+B. POINTS EN LITIGE
+[8] 1. Si l’appelante doit être considérée comme un particulier admissible à l’égard de Jessica pour la période de juillet 2002 à juin 2003 (la « période ») de l’année de base 2001 et, par conséquent, si elle a droit à la PFCE pour la période en vertu de l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi »).
+2. Si l’appelante a droit au crédit pour taxe sur les produits et services (le « CTPS ») à l’égard de Jessica pour les trimestres suivants :
+a) le trimestre commençant en juillet 2002,
+b) le trimestre commençant en octobre 2003,
+c) le trimestre commençant en janvier 2003,
+d) le trimestre commençant en avril 2003,
+3. Si l’appelante a droit, en vertu de l’alinéa 118(1)b) de la Loi, à un crédit pour personne entièrement à charge, à savoir Jessica, de 6 482 $ pour l’année d’imposition 2002.
+C. ANALYSE ET DÉCISION
+I. Prestation fiscale canadienne pour enfants
+[9] Dans la décision Eric Schreiner c. La Reine, [2004] A.C.I. nº 262, c’est ma collègue la juge Sheridan qui a prononcé les motifs du jugement. Les paragraphes 8, 9 et 10 des motifs en question sont ainsi rédigés :
+[8] Je constate que pendant les années de base 2000 et 2001, chaque parent a joué un rôle équivalent dans le cadre des facteurs a) à g) de l’article 6302. Cependant, dans le cadre du facteur h), je conclus que l’ordonnance prévoyant que Jessica réside avec son père 8 jours sur 14, fait pencher la balance légèrement en faveur de M. Schreiner. Par conséquent, je statue que ce dernier est le « particulier admissible » et qu’il a droit à la prestation fiscale pour enfants pour les périodes et les montants indiqués ci‑dessous :
+Année de base 2000
+de juillet 2001 à septembre 2001
+553,81 $
+Année de base 2000
+d’octobre 2001 à juin 2002
+1 661,42 $
+Année de base 2001
+de juillet 2002 à juin 2003
+2 444,00 $
+L’année de base 2002
+[9] Pour l’année de base 2002, je suis de l’avis que selon la preuve, M. Schreiner n’était pas le « particulier admissible ». Durant la période en question, Jessica a atteint ses quinze ans et, par conséquent, son degré de dépendance à l’égard de chaque parent a changé. Bien qu’elle résidât encore avec son père, Jessica a commencé à avoir un peu plus confiance en sa mère. Plus particulièrement, pour cette période, la preuve concernant l’alinéa 6302f), c’est‑à‑dire « le fait de veiller à son hygiène corporelle de façon régulière » et l’alinéa 6302g), c’est‑à‑dire « de façon générale, le fait d’être présent auprès d’elle et de la guider », dépassent quelque peu en valeur l’alinéa 6302h) concernant l’importance de l’« ordonnance de la Cour ». À son âge actuel, Jessica est naturellement plus disposée à parler avec sa mère des sujets abordés dans l’alinéa 6302f). Quant à l’alinéa 6302g), M. Schreiner a indiqué qu’une jeune adolescente ne désire pas vraiment aller acheter des vêtements ou aller au salon de beauté en traînant son père derrière elle. Pour sa part, Mme Schreiner a témoigné qu’avec Jessica, elles consacraient du temps ensemble à ce type d’activités et passaient du temps à parler de ce qu’on appelait autrefois, quand il y avait moins de rectitude politique, des « choses de femmes ». Tout comme pour les années de base 2000 et 2001, chaque parent a joué un rôle équivalent au niveau des facteurs a) à e) de l’article 6302. La différence réside dans les facteurs f) et g) qui, dans la détermination du « particulier admissible », font pencher la balance légèrement en faveur de Mme Schreiner pour la période allant de juillet 2003 à octobre 2003.
+[10] L’appel est accueilli et la détermination est déférée au ministre afin qu’elle soit réexaminée conformément aux motifs ci-joints.
+[10] Après avoir examiné attentivement la preuve qui m’a été présentée et les commentaires de la juge Sheridan formulés dans la décision Eric Schreiner c. La Reine, je conclus que l’appelante n’était pas le particulier qui avait droit à la PFCE pour les années de base 2000 et 2001. Cependant, je souscris à la conclusion de la juge Sheridan selon laquelle l’appelante était le particulier qui avait droit à la PFCE pour l’année de base 2002.
+[11] L’appel visant l’année de base 2001 est rejeté sans frais.
+II. Crédit pour taxe sur les produits et services
+[12] L’article 122.5 de la Loi contient les définitions applicables au crédit pour taxe sur les produits et services (ci‑après « CTPS »).
+[13] La définition de l’expression « personne à charge admissible » donnée à l’article 122.5 de la Loi est ainsi rédigée :
+« personne à charge admissible » Est une personne à charge admissible d'un particulier par rapport à un mois déterminé d'une année d'imposition la personne qui, au début de ce mois, répond aux conditions suivantes :
+a) elle est l'enfant du particulier ou est à sa charge ou à la charge de l'époux ou du conjoint de fait visé du particulier;
+b) elle vit avec le particulier;
+c) elle est âgée de moins de 19 ans;
+d) elle n'est pas un particulier admissible par rapport au mois déterminé;
+e) elle n'est pas le proche admissible d'un particulier par rapport au mois déterminé.
+[14] L’appelante a déposé une requête devant la Cour du Banc de la Reine de la Saskatchewan (Division du droit de la famille). Le 22 août 2001, M. le juge F.G.W. Dickson de la cour en question a rendu une ordonnance prévoyant ce qui suit :
+[traduction]
+1. Il n’y aura pas d’ordonnance de garde à l’égard de Jessica Schreiner, née le 1er juin 1988. Elle vivra avec son père et passera une partie significative et importante de son temps avec sa mère […] (pièce R‑1)
+[15] Eric Schreiner a été appelé à témoigner par l’avocate de l’intimée. Il s’est fait poser les questions suivantes au sujet de l’ordonnance de la Cour du Banc de la Reine de la Saskatchewan :
+[traduction]
+Q. [...] On utilise le mot « vivra » lorsqu’on parle de vous, mais on n’emploie pas de mot semblable lorsqu’il est question de la mère?
+R. C’est dû au résultat de l’évaluation en matière de garde et de visite.
+Q. D’accord. Voulez-vous me parler un peu de ça?
+R. Elle s’appelait Bonnie Clements. Elle est venue aux deux maisons et a effectué une évaluation en matière de garde et de visite, et, après qu’elle a conclu son évaluation, il a été décidé dans l’ordonnance de garde que j’aurais la garde exclusive de Jessica et que sa mère aurait un droit de visite généreux à son égard (Transcription, Nadine Schreiner c. La Reine, p. 93, lignes 6 à 20).
+[16] Pour que Jessica tombe sous le coup de la définition de « personne à charge admissible », elle doit vivre avec Nadine. Selon l’ordonnance de la Cour du Banc de la Reine de la Saskatchewan (pièce R‑1), Jessica vivait avec Eric.
+[17] Compte tenu du témoignage donné sous serment et des documents déposés devant la Cour, et en particulier de l’ordonnance de la Cour du Banc de la Reine de la Saskatchewan (pièce R‑1), j’arrive à la conclusion que l’appelante n’a pas droit au CTPS au motif que la condition prévue à l’article 122.5 de la Loi selon laquelle la personne à charge admissible doit vivre avec le particulier n’est pas remplie.
+[18] L’appel portant sur le CTPS pour les trimestres spécifiés au point 2 du paragraphe [8] ci-dessus est rejeté sans frais.
+III. Crédit pour personne entièrement à charge – alinéa 118(1)b) de la Loi
+[19] L’alinéa 118(1)b) de la Loi est ainsi rédigé :
+118(1) Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l'année est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition;
+[…]
+b) Crédit équivalent pour personne entièrement à charge –
+la somme de 7 131 $ et du résultat du calcul suivant :
+6 055 $ - (D – 606 $)
+où :
+D représente 606 $ ou, s'il est plus élevé, le revenu d'une personne à charge pour l'année,
+si le particulier ne demande pas de déduction pour l'année par l'effet de l'alinéa a) et si, à un moment de l'année :
+(i) d'une part, il n'est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui-ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+(ii) d'autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d'une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s'il s'agit d'un enfant du particulier,
+(B) elle est entièrement à la charge soit du particulier, soit du particulier et d'une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) sauf s'il s'agit du père, de la mère, du grand-père ou de la grand-mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d'une infirmité mentale ou physique;
+[20] Il convient de souligner que le sous‑alinéa 118(1)b)(i) prévoit ce qui suit :
+b) Crédit équivalent pour personne entièrement à charge –
+[...]
+si le particulier ne demande pas de déduction pour l'année par l'effet de l'alinéa a) et si, à un moment de l'année :
+(i) d'une part, il n'est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui-ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins [...]
+[21] J’ai examiné attentivement toute la preuve qui m’a été présentée. Je juge que la preuve soumise par l’appelante n’est pas crédible. Je conclus donc que la cotisation établie par le ministre doit être confirmée, car l’appelante ne s'est pas acquittée du fardeau qui lui incombait de prouver que la cotisation était incorrecte.
+[22] Je me fonde également sur l’alinéa 118(4)b) de la Loi, qui énonce qu’un seul particulier a droit à l'équivalent du montant pour conjoint prévu à l'alinéa 118(1)b) de la Loi à l’égard d’une personne donnée.
+[23] Dans la décision Eric Schreiner c. La Reine, 2006CCI231, datée du 13 avril 2006, j’ai reconnu à Eric Schreiner le droit de bénéficier du crédit d’impôt prévu à l’alinéa 118(1)b). Il s’ensuit que l’alinéa 118(4)b) empêche toute autre personne de demander le crédit pour personne entièrement à charge pour l’année d’imposition 2002.
+[24] L’appel interjeté par Nadine relatif à l’affirmation que Jessica était une personne entièrement à charge en 2002 est rejeté sans frais.
+Signé à Ottawa, Canada, ce 13e jour de mars 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 22e jour de juin 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2006CCI234
+Nos DES DOSSIERS DE LA COUR :
+2004‑3071(IT)I
+2005‑362(IT)I
+INTITULÉ :
+Nadine Schreiner et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 14 octobre 2005
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 13 avril 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Beaty Beaubier
+Avocate de l’intimée :
+Me Brooke Sittler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Beaty Beaubier
+Cabinet :
+Priel Stevenson Hood & Thornton
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

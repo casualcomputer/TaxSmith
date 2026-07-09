@@ -1,0 +1,359 @@
+---
+title: "Duffy v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/367360/index.do"
+last_modified: "2019-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 75"
+citation2: ""
+neutral_citation: "2019 TCC 75"
+decision_date: "2019-04-04"
+language: "en"
+item_id: "367360"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4325
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:16:17.610000+00:00"
+cases_cited_count: 10
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "06dca563f5af1baff54ad797801511f30efef8394c6b06eb82f96c269ead5a9b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duffy v. The Queen
+
+- Citation: 2019 TCC 75
+- Decision date: 2019-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4325, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duffy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-04
+Neutral citation
+2019 TCC 75
+File numbers
+2016-1697(IT)G, 2016-1703(IT)G, 2016-1705(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1697(IT)G
+BETWEEN:
+MICHAEL DUFFY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1703(IT)G
+BETWEEN:
+PAMELA DUFFY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1705(IT)G
+BETWEEN:
+1218769 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on March 13, 2018, at Hamilton, Ontario
+Written submissions filed on April 13, 2018
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Stan W. McDonald
+JUDGMENT
+The Appeals are allowed, with costs, and the reassessments that are the subject of the Appeals are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons, including the concessions made by the respective Parties, all as set out in those Reasons.
+The Parties shall have 30 days from the date of this Judgment to reach an agreement on costs and to so advise the Court, failing which the Appellants shall have a further 30 days to file written submissions on costs, and the Respondent shall have yet a further 30 days to file a written response. Any such submissions shall be limited to five pages in length. If, within the applicable time limits, the Parties do not advise the Court that they have reached an agreement and no submissions are received from the Parties, costs shall be awarded to the Appellants in accordance with the Tariff.
+Signed at Ottawa, Canada, this 4th day of April 2019.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2019 TCC 75
+Date: 20190404
+Docket: 2016-1697(IT)G
+BETWEEN:
+MICHAEL DUFFY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1703(IT)G
+BETWEEN:
+PAMELA DUFFY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1705(IT)G
+BETWEEN:
+1218769 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to the Appeals commenced by Michael Duffy, Pamela Duffy and 1218769 Ontario Inc. (“121ON”) in respect of various reassessments (the “Reassessments”) issued against them by the Canada Revenue Agency (the “CRA”) on behalf of the Minister of National Revenue (the “Minister”), after the CRA had conducted a net worth analysis. At issue in these Appeals are various items of allegedly unreported income, allegedly mischaracterized income and disallowed expenses, as well as questions as to whether the CRA was entitled to reassess certain taxation years that were statute-barred and whether the CRA was justified in assessing penalties under subsection 163(2) of the Income Tax Act (the “ITA”). [1] The Appeals relate to the 2010, 2011 and 2012 taxation years of the Appellants, as well as the 2009 taxation year of 121ON, which has a September 30 year-end.
+II. REASSESSMENTS
+[2] The Minister issued the initial notices of assessment to Mr. Duffy in respect of the 2010, 2011 and 2012 taxation years on May 3, 2011, June 14, 2012 and May 9, 2013 respectively. By Notices of Reassessment dated March 6, 2015, the Minister reassessed Mr. Duffy’s income tax liability for 2010, 2011 and 2012.
+[3] The Minister issued the initial notices of assessment to Mrs. Duffy in respect of the 2010, 2011 and 2012 taxation years on May 3, 2011, June 14, 2012 and May 9, 2013 respectively. By Notices of Reassessment dated March 6, 2015, the Minister reassessed Mrs. Duffy’s income tax liability for 2010, 2011 and 2012.
+[4] The Minister issued the initial notices of assessment to 121ON in respect of the 2009, 2010, 2011 and 2012 taxation years on November 6, 2009, April 4, 2011, December 15, 2011 and March 18, 2013 respectively. By Notices of Reassessment dated May 5, 2015, the Minister reassessed 121ON’s income tax liability for 2009, 2010, 2011 and 2012.
+[5] The Parties acknowledge that the Notices of Reassessment issued to Mr. and Mrs. Duffy for the 2010 taxation year and to 121ON for the 2009, 2010 and 2011 taxation years were issued after the normal reassessment period of each Appellant in respect of those taxation years.
+III. CONCESSIONS
+[6] At the commencement of the hearing of these Appeals, counsel for the Respondent advised the Court that the Respondent was making a number of concessions, as follows:
+a) With respect to 121ON, the Respondent conceded that:
+i. the Appeals for the 2009, 2010 and 2011 taxation years (which were statute-barred) should be allowed in their entirety;
+ii. the amount of the unreported business income for the 2012 taxation year (as determined by reference to the net worth analysis completed by the CRA in respect of Mr. and Mrs. Duffy) should be reduced to $27,237.90; and
+iii. 121ON should be allowed to deduct, in computing its income for 2012, additional vehicle expenses in the amount of $900.
+b) With respect to Mr. Duffy, the Respondent conceded that:
+i. the Appeal for 2010 (which was statute-barred) should be allowed in its entirety;
+ii. the amount of Mr. Duffy’s unreported shareholder benefits in 2012, as determined by the net worth analysis, should be reduced to $13,618.90;
+iii. in computing his income for 2012, Mr. Duffy should be allowed to deduct additional rental expenses in the amount of $4,000; and
+iv. the gains arising on the sale of two properties (the “Pelham Properties”) on Pelham Street in Fonthill, Ontario should be recharacterized as capital gains, rather than as business income.
+c) With respect to Mrs. Duffy, the Respondent conceded that:
+i. the Appeal for 2010 (which was statute-barred) should be allowed in its entirety;
+ii. the amount of Mrs. Duffy’s unreported shareholder benefits in 2012, as determined by the net worth analysis, should be reduced to $13,618.90;
+iii. in computing her income for 2012, Mrs. Duffy should be allowed to deduct additional rental expenses in the amount of $4,000; and
+iv. the gains arising on the sale of the Pelham Properties should be recharacterized as capital gains, rather than as business income. [2]
+[7] As well, the Appellants made several concessions, as follows:
+a) Mr. and Mrs. Duffy realized various gains in a Q-Trade account, which they had reported as being capital gains and which the CRA had reassessed as business income. Mr. and Mrs. Duffy conceded that those gains may be taxed as business income (rather than as capital gains). [3]
+b) During the hearing, counsel for the Appellants advised the Court that Mr. and Mrs. Duffy had decided not to seek to deduct further rental expenses in 2012 beyond the additional rental expenses in the amount of $4,000 conceded by the Respondent in respect of each of them. [4]
+c) As explained below, during the hearing, Mr. and Mrs. Duffy decided to concede that the rental rebate that they had deducted in computing their income for 2012 was not, in fact, deductible. [5]
+IV. ISSUES
+[8] The issues that remain, after the above concessions, are as follows:
+a) Did 121ON have unreported income in the amount of $27,237.90 in the taxation year ending September 30, 2012?
+b) In computing its income for 2012, was 121ON entitled to deduct vehicle expenses in excess of the $900 conceded by the Respondent?
+c) In 2012, did Mr. Duffy have unreported income, derived from shareholder benefits, in the amount of $13,618.90?
+d) In 2012, did Mrs. Duffy have unreported income, derived from shareholder benefits, in the amount of $13,618.90?
+e) Were the penalties assessed against the Appellants under subsection 163(2) of the ITA for 2012 justified?
+V. FACTUAL BACKGROUND
+[9] During the relevant taxation years, Mr. and Mrs. Duffy each owned 50% of the issued shares of the capital stock of 121ON, which carried on a roofing business under the tradename “Duffy Roofing.”
+[10] In auditing the 2010, 2011 and 2012 taxation years of Mr. and Mrs. Duffy, the CRA undertook a net worth analysis and ultimately concluded that in 2010 and 2012 (but not 2011) Mr. and Mrs. Duffy had obtained various shareholder benefits that they had not included in computing their income for the purposes of the income tax returns that they filed for those years. Accordingly, the CRA issued reassessments so as to include the alleged shareholder benefits in computing the income of Mr. and Mrs. Duffy. As well, the CRA assumed that the source of those shareholder benefits was income earned by 121ON and that 121ON had failed to report the income from which the shareholder benefits were derived. Thus, the CRA reassessed the tax payable by 121ON in respect of its allegedly unreported income.
+[11] In preparing the Reassessments, the CRA divided the alleged shareholder benefits equally between Mr. and Mrs. Duffy. The amount of the allegedly unreported income of 121ON was equal to the aggregate of the shareholder benefits. Similarly, after the concessions made by the Respondent, the amount of the alleged shareholder benefits for each of Mr. and Mrs. Duffy in 2012 was $13,618.90 and the amount of the allegedly unreported income of 121ON for its 2012 taxation year was $27,237.90 (approximately 2 Ч $13,618.90). [6]
+[12] In 2009, Mr. and Mrs. Duffy used borrowed money (secured by a mortgage on their jointly owned home) to fund a $200,000 investment in a Q‑Trade investment account. Over the course of three years, 564 trades were made in that account. Mr. and Mrs. Duffy reported the gains in the account as capital gains, but, as noted above, the Minister reassessed on the basis that the gains were ordinary income. Also as noted above, Mr. and Mrs. Duffy have conceded this point and are no longer challenging the Minister’s classification of the gains as income.
+[13] At some point in time, Mr. and Mrs. Duffy acquired four lots in Fonthill, Ontario, municipally described as 1127, 1129, 1131 and 1133 Pelham Street. They constructed rental properties at 1131 and 1133 Pelham Street. When Mr. and Mrs. Duffy acquired the lots, they also intended to construct rental properties at 1127 and 1129 Pelham Street, but, due to an economic downturn and the softening of 121ON’s roofing business, Mr. and Mrs. Duffy accepted an unsolicited offer from Mr. Duffy’s brother (who operated a home construction business) to purchase the lots at 1127 and 1129 Pelham Street. Those lots had not been listed for sale, and Mr. Duffy indicated that he sold them reluctantly. Mr. and Mrs. Duffy reported the gains as capital gains, but, as noted above, the CRA reassessed on the basis that the gains were realized on income account. As indicated above, the Respondent has now conceded that the gains should be taxed as capital gains.
+VI. LEGAL PRINCIPLES
+A. Net Worth Assessments
+[14] The principles underlying the net worth method of assessment were summarized by Justice Bonner as follows:
+A net worth assessment involves an indirect measurement of income over a period. The net worth of an individual, that is to say, the excess of his assets over his liabilities[,] is calculated at the end of a period and at the beginning of the period. The assessment proceeds on the assumption that the total of any increase in net worth over the period (to the extent that such increase cannot be attributed to non-taxable sources such as gifts and inheritances) plus expenditures made during the period for personal consumption is the amount of the individual’s income for the period. [7]
+In Hsu, the Federal Court of Appeal adopted the following statement of the methodology of a net worth assessment, as set out by Justice Bowman (as he then was) in Bigayan:
+… [The net worth method of assessment] is a based on an assumption that if one subtracts a taxpayer’s net worth at the beginning of a year from that at the end, adds the taxpayer’s expenditures in the year, deletes non-taxable receipts and accretions to value of existing assets, the net result, less any amount declared by the taxpayer, must be attributable to unreported income earned in the year, unless the taxpayer can demonstrate otherwise. [8]
+[15] Where an assessment, including a net worth assessment, is made by the Minister under subsection 152(7) of the ITA, there is a presumption of validity in favour of the assessment. [9] In other words, a net worth assessment is presumed to be valid unless the taxpayer can prove that the Minister’s calculations are incorrect. [10]
+[16] To prove that a net worth assessment is incorrect, a taxpayer must produce specific, [11] cogent [12] and credible evidence showing the error in the assessment. [13]
+B. Penalties
+[17] The opening portion of subsection 163(2) of the ITA states:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return … filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of ….
+Paragraphs 163(2)(a) through (g) of the ITA then go on to set out a formulaic method for calculating the amount of the penalty.
+[18] Concerning the burden of proof in respect of a penalty under subsection 163(2) of the ITA, subsection 163(3) states:
+163(3) Where, in an appeal under this Act, a penalty assessed by the Minister under this section … is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+VII. ANALYSIS
+[19] During his examination-in-chief, Mr. Duffy challenged the CRA’s net worth analysis by presenting evidence concerning a number of the assets, liabilities and personal expenditures that were taken into consideration by the CRA in conducting that analysis. [14] Those items are summarized below in the order in which they were discussed during the hearing.
+A. Q-Trade Account – Currency conversion
+[20] In 2012, Mr. Duffy’s Q-Trade account was a margin account, with Canadian investments and debt and US investments and debt. [15] At the end of 2011, the asset values in the Canadian margin account and the US margin account were C$191,177 and US$248,098 respectively, and the liability amounts were C$466 and US$248,123 respectively. Those amounts also constituted the opening balances for 2012.
+[21] In conducting its net worth assessment, the CRA converted the liability amount in the US margin account from US currency to Canadian currency, using an exchange rate of $1.0183.
+[22] The CRA did not convert the value of the investments in the US margin account on December 31, 2011 from US currency to Canadian currency. Accordingly, the result was to reduce the value used by the CRA as its opening balance for 2012 in respect of the combined margin account. The CRA showed the value of the combined margin account as being C$439,275, whereas Mr. Duffy, after converting both the assets and the liabilities in the US margin account from US currency to Canadian currency, showed the value as being C$443,837.
+[23] On December 31, 2012 the assets in the Canadian and US margin accounts were C$196,663 and US$265,102 respectively, and the liabilities were C$52,286 and US$217,399 respectively. The CRA used a conversion rate of 0.9938 to convert the US liabilities from US$217,399 to C$216,051. However, the CRA did not convert the value of the assets in the US margin account from US currency to Canadian currency. Therefore, the CRA showed the asset value of the combined margin account on December 31, 2012 as being C$461,765, whereas Mr. Duffy showed it as being C$460,121.
+[24] During her direct examination, the CRA auditor acknowledged that the asset values in the US margin account on December 31, 2011 and December 31, 2012 should have been converted from US currency to Canadian currency. [16] Accordingly, the opening balance used by the CRA was too low by the amount of $4,562 (i.e., $443,837 − $439,275), and the closing balance was too high by the amount of $1,644 ( i.e., $461,765 − $460,121). Thus, the increase in the net worth of the combined margin account in 2012, as computed by the CRA, was excessive to the extent of $6,206 (i.e., $4,562 + $1,644).
+B. Visa Account and Bank Account
+[25] One of the liabilities considered by the CRA in conducting its net worth analysis was Mr. and Mrs. Duffy’s Visa credit cards. The monthly statement that was issued by Visa in early January 2013, covering the period from December 5, 2012 to January 4, 2013, showed the outstanding statement balance as being $4,588.80. Two of the charges on that statement were incurred on January 1, 2013, in the respective amounts of $90.75 and $62.14, for a combined total of $152.89. [17] As these expenditures were incurred after 2012, the liabilities should be reduced accordingly.
+[26] On December 31, 2012 Mr. Duffy made a payment in the amount of $1,700, which was applied against the outstanding balance in the Visa account. That payment was not posted to his Visa account until January 2, 2013. [18] It is Mr. Duffy’s submission that, as the payment was not posted to his Visa account until January 2, 2013, the amount of his Visa liability on December 31, 2012 was greater than $4,588.80. It is my view that, for the purposes of a net worth analysis, generally the transaction date, rather than the posting date, should be used.
+[27] Mr. Duffy also made an additional point in respect of the $1,700 payment. He referred the Court to his RBC personal bank account statement for the period from December 7, 2012 to January 8, 2013. [19] That statement shows that an online banking transfer in the amount of $1,700 occurred on January 2, 2013. Mr. Duffy identified that transfer as relating to the payment in respect of his Visa account. The balance in the personal account on December 31, 2012 was $26,782.88. The CRA used the amount of $26,783 as the year-end asset value for this account in conducting its net worth analysis. Thus, the amount used by the CRA as the account balance included the $1,700 that was used to pay the Visa. It is the position of Mr. Duffy that there was double-counting by the CRA, and that the liability, as represented by his Visa account, should be increased by $1,700 or the amount of his assets, as represented by his personal bank account, should be decreased by $1,700.
+[28] In discussing this situation during her examination-in-chief, the CRA auditor stated:
+Well, the net worth is a statement of the balances at a particular date, and as of December 31st the statement balance was as indicated on the net worth statement. I do realize that there is an adjustment for the 152, which is two transactions from January 1st, but my information is based on what I have, and the documentation provided as December 31st had that balance. [20]
+It is my understanding that the auditor’s reference to “the 152” was a reference to the amount of $152.89, representing the total of the two charges that were incurred on January 1, 2013 (see paragraph 25 above). It also appears that she may be acknowledging that an adjustment should be made for the $152.89 amount, particularly as she subsequently acknowledged that she used the Visa account balance shown as of January 4, 2013, rather than calculating the Visa account balance as of December 31, 2012. [21]
+[29] As I have reviewed Mr. Duffy’s Visa statement and personal bank account statement, [22] it is clear that the CRA treated the $1,700 payment as having reduced Mr. Duffy’s liabilities as of December 31, 2012. However, the CRA also included the $1,700 amount as being part of Mr. Duffy’s assets on December 31, 2012. I do not think that the CRA can have it both ways. Therefore, it is my view that Mr. Duffy’s assets as of December 31, 2012 should be adjusted so as to decrease those assets by the amount of $1,700, recognizing that the CRA treated the $1,700 payment as having reduced his liabilities as of December 31, 2012. As well, Mr. Duffy’s liabilities as of December 31, 2012 should be adjusted so as to decrease the liabilities by the amount of $152.89 (i.e., $90.75 + $62.14), given that those liabilities were incurred in 2013. This results in a decrease in Mr. Duffy’s net worth as of December 31, 2012 in the amount of $1,547.11 (i.e., $1,700 − $152.89).
+C. Pelham Property Taxes
+[30] In 2012, Mr. and Mrs. Duffy owned two rental properties, located at 1131 and 1133 Pelham Street, Fonthill, Ontario. Mr. Duffy produced printouts from the Town of Pelham tax department, showing that the outstanding property tax balances for the two properties as of December 31, 2012 were $2,766.66 and $1,118.66 respectively, resulting in a total outstanding liability of $3,952.32. [23] According to Mr. Duffy, the CRA did not take the above property tax liability into consideration in conducting its net worth analysis.
+[31] During her examination-in-chief, the CRA auditor stated that, when the audit was conducted, Mr. and Mrs. Duffy did not provide to the CRA any information concerning the property tax liability in respect of the above properties. She stated that she was “not sure what this amount [i.e., $3,952.32] pertains to.” [24] While her evidence on this point was inconclusive, she did acknowledge that it was possible that the property tax liability in the amount of $3,952.32 may not have been taken into account by the CRA.
+[32] As the CRA auditor did not provide any evidence to indicate that the property tax liability of $3,952.32 had been taken into consideration by the CRA in performing its net worth analysis, I accept the evidence of Mr. Duffy (who was not cross-examined) that the property tax liability was not considered by the CRA when it calculated the outstanding liabilities of Mr. and Mrs. Duffy as of December 31, 2012. I do not fault the CRA for this omission, as it appears that Mr. and Mrs. Duffy may not have provided the property tax documentation to the CRA on a timely basis during the course of the audit. Nevertheless, for the purposes of these Appeals, the combined outstanding liabilities of Mr. and Mrs. Duffy as of December 31, 2012 should be increased by $3,952.32, representing the outstanding property tax liability.
+D. Q-Trade Account – Interest Expense
+[33] In 2012, Mr. Duffy incurred interest expense in his Canadian margin account in the amount of C$3,392.47 and in his US margin account in the amount of US$9,533.56. [25] Mr. Duffy stated that the CRA treated the amount of $12,926.03 (i.e., $3,392.47 + $9,533.56) [26] as a personal expenditure for the purposes of the net worth analysis. Mr. Duffy testified that the interest was paid automatically in the account, such that he did not have to use funds from outside that account to pay the interest. He expressed the view that the amount of $12,926.03 should not have been treated as a personal expenditure, given that he did not use any personal funds external to the Q-Trade account in order to pay such interest. He also expressed the view that the CRA had included the amount of $12,926.03 as both an expense to the brokerage account and as a personal expense, which he considered to be double counting. [27]
+[34] The CRA auditor explained that, in conducting the net worth analysis, the CRA considered the Q-Trade interest to be a personal expenditure, but also increased Mr. and Mrs. Duffy’s liabilities by the same amount. According to the auditor, the personal expenditure in respect of the interest and the liability in respect of the interest offset one another. [28]
+[35] While Mr. Duffy is of the view that the CRA’s treatment of the interest expense in the Q-Trade account resulted in double counting rather than a setoff, he has not directed me to any of the CRA’s working papers or other documents to demonstrate that there actually was a double counting. In the absence of a clear demonstration that there was double counting, I accept the CRA auditor’s explanation that the expenditure for the Q-Trade interest was offset by the increased liability.
+E. Income Tax Liability
+[36] The T1 General Income Tax and Benefit Return filed by Mr. Duffy for 2012 showed that the balance owing by him for that year was $6,014.35. [29] The 2012 T1 General Income Tax and Benefit Return filed by Mrs. Duffy for 2012 showed her balance owing for that year as being $5,362.44. [30]
+[37] Mr. Duffy testified that he and his wife had outstanding arrears of income tax in respect of previous years, which, when added to the amounts owed by them for 2012 (including interest), resulted in a combined outstanding tax liability as of December 31, 2012 in the amount of $26,819, which, according to Mr. Duffy, the CRA failed to take into consideration in performing its net worth analysis. [31]
+[38] The CRA auditor testified that the CRA does not take income tax payable into consideration when performing a net worth analysis, since it would require the CRA to show an offsetting personal expenditure in the same amount as the tax payable. Rather, in performing a net worth analysis, the CRA accounts for income tax when it is paid, rather than when it becomes payable. [32]
+[39] In the context of a net worth assessment, one way of discerning the appropriate treatment of a current income tax liability (i.e., the tax payable for the year under audit) is to consider a hypothetical taxpayer who is the subject of a net worth analysis and whose average combined federal-provincial income tax rate is 40%. Assume that, at the beginning of the particular taxation year, his net worth is $500,000. Also assume that during the year the taxpayer earns $100,000 of income, but has no other change in his net worth, such that, at the end of the year, his net worth is $600,000 (i.e., $500,000 + $100,000). Further assume that during the year there are no expenditures related to personal consumption. The tax payable in respect of the $100,000 of income is $40,000 (i.e., 40% of $100,000).
+[40] It is the position of Mr. Duffy that the current year’s income tax liability should be treated like any other liability and subtracted in calculating the year-end net worth. If Mr. Duffy’s position is correct, the $40,000 income tax liability would be subtracted from the hypothetical taxpayer’s year-end net worth, which would result in that net worth becoming $560,000 (i.e., $600,000 − $40,000). This would lead to the conclusion that his income for the year is only $60,000 (i.e., $560,000 − $500,000), rather than the $100,000 noted in the previous paragraph.
+[41] A further difficulty is that Mr. Duffy’s position leads to circularity, as the tax liability in respect of $60,000 of income would be $24,000 (i.e., 40% of $60,000), and a question would arise as to whether the tax liability of $24,000 should be subtracted from a preliminary year-end net worth of $600,000 or $560,000. Each approach would lead to a different year-end net worth, which would lead to a different amount of income for the year and a different amount of tax payable, and so on. Accordingly, I prefer the position of the CRA auditor, as explained above, to the effect that the current year’s income tax payable should not be taken into consideration when performing a net worth analysis.
+[42] As far as income tax arrears for previous taxation years are concerned, if the same amount of arrears exists at both the beginning and the end of the taxation year that is the subject of the net worth analysis, there will be no net effect on the calculation of the taxpayer’s net worth, regardless of whether the income tax arrears are taken into consideration or not in performing the net worth analysis.
+[43] The above approach is consistent with a statement made in the above-mentioned paper presented at the 2007 British Columbia Tax Conference:
+Income tax debts should be ignored as liabilities. This is true even if they existed at the beginning of the audit period. The reason for this exclusion is that the CRA chooses to treat income tax payments as personal expenditures in the year in which they are paid so also treating them as a liability would result in double counting when the liability was reduced. [33] [Footnotes omitted.]
+In the context of the income tax liability that arises for the taxation year that is the subject of the net worth assessment, that paper states:
+Income tax debts arising from the net worth assessment itself do not fall into any of the 4 categories of acceptable liabilities and thus should be ignored. [34]
+Hence, the Appellants have not shown that the CRA’s disregard of either the 2012 income tax liability or the income tax arrears for prior years was incorrect.
+F. Mexican Expenditures
+[44] In 2012, Mr. and Mrs. Duffy owned a condominium in Mexico, which they visited five or six times that year. To ensure that he would have available cash when he was in Mexico, before leaving Canada, Mr. Duffy typically deposited or transferred funds to a personal account at the Bank of Nova Scotia (“Scotiabank”). Then, when he or his wife needed funds in Mexico, they would withdraw pesos from an automatic teller machine (“ATM”). It appears that the Canadian-currency equivalent of the total peso withdrawals in 2012 from ATMs in Mexico was approximately $4,694. [35]
+[45] Whenever Mr. and Mrs. Duffy returned to Canada from Mexico, if there were funds in the Scotiabank account at that time that were needed elsewhere, they would withdraw dollars in Canada or transfer them to another Canadian bank account. In 2012, the total of the dollar withdrawals and transfers was $3,703. Mr. Duffy suggested that this amount included a $3 service charge, and that the balance of $3,700 represented the Canadian withdrawals. [36]
+[46] In conducting the net worth analysis, the CRA treated the total amount withdrawn from the Scotiabank account in 2012, i.e., $8,897 (i.e., $4,694 + $3,703), as being personal expenditures.
+[47] It is the position of Mr. Duffy that, as he only withdrew pesos having a Canadian-currency equivalency of $4,694 in Mexico, it is only that amount which should be considered as a personal expenditure.
+[48] The CRA auditor stated that, in performing the net worth analysis, the CRA considered all the money withdrawn from the Scotiabank account as being used for personal expenditures. According to the CRA, it did not matter, for the purposes of the net worth analysis, whether the money was withdrawn in Mexico or in Canada. [37]
+[49] In considering how the withdrawals in Canada of $3,700 in aggregate may have been relevant to the net worth analysis, the following exchange ensued during the hearing:
+Court: …the $3,700 that was withdrawn in Canada, how did that factor into the net worth analysis?
+Counsel for the Appellants: Well, we don’t know … this summary of personal expenditures is –– …. the numbers there under the heading “CRA” are the CRA’s analysis of personal expenditures. And they’re saying these are the things you spent money on. And they’re saying in Mexico you spent $8,897. The other $3,000, there is no slot to put it in. They don’t allege that there is any other personal expense. We presume the other expenses are covered by the other lines. [38]
+While Mr. Duffy and his counsel have suggested that the $3,700 was counted twice as personal expenditures, they have not provided me with any documentation to show that such double counting actually occurred. In the absence of corroborating evidence, the mere speculation that it may have occurred is insufficient to alter this aspect of the net worth analysis. [39]
+G. Reimbursed Employment Expenses
+[50] Mr. Duffy explained that in October 2012, 121ON implemented a new procedure for reimbursing its employees (including Mr. Duffy) for expenditures incurred by them on behalf of 121ON. Mr. Duffy produced copies of receipts for the expenditures that he made personally on behalf of 121ON in September and October 2012, in the aggregate amount of $1,434.05. [40] On October 31, 2012, 121ON issued to Mr. Duffy a cheque in the amount of $1,434.05 to reimburse him in respect of those expenses.
+[51] It is the position of Mr. Duffy that this reimbursement constituted additional non-taxable funds that he acquired in 2012 and that should have been taken into account by the CRA when conducting the net worth analysis.
+[52] The CRA auditor testified that, when the net worth analysis was performed, it did not include a cash analysis for cash expenses. Therefore, according to her, the reimbursement of expenses in October 2012 would not have had any impact on the net worth analysis.
+[53] As indicated above, it is the position of Mr. Duffy that the reimbursed amount of $1,434.05 represented “additional means” that he had and that was not taken into account by the CRA in its net worth analysis. [41] The difficulty that I have with Mr. Duffy’s argument is that he did not provide any evidence to show how the CRA’s disregard of the reimbursement had an impact on his net worth analysis. As I understand it, before Mr. Duffy used his personal funds to pay $1,434.05 of expenses on behalf of 121ON, his financial resources included the $1,434.05 that he later used to pay those expenses. Upon paying the expenses, his cash was depleted by $1,434.05, but it was replaced by a receivable in the same amount (i.e., the right to be reimbursed by 121ON to the extent of $1,434.05). When that reimbursement was made on October 31, 2012, the receivable was replaced by the reimbursed cash and his overall financial resources were in the same situation as they were before he incurred the expenses. Therefore, I have not been persuaded that the CRA’s handling of the reimbursed expenses had an impact on the calculation of his net worth on December 31, 2012.
+H. Q-Trade Account – Return of Capital
+[54] Mr. Duffy testified that in 2012 his Q-Trade margin account held investments in certain mutual fund trusts that paid fixed amounts on a periodic basis. The expectation was that the periodic payments would be made out of the income of each trust, but if there was not sufficient income earned during a particular period, the trust would cover the shortfall by including in the payment a distribution of capital. Mr. Duffy testified that the amount of capital distributed in 2012 was shown by an entry in Box 42 on the T3 Statements of Trust Income Allocations or Designations issued to him by the trusts. Mr. Duffy produced two T3 slips, showing Box 42 amounts of $11,649.36 and $987.56 respectively, resulting in a total Box 42 distribution of $12,636.92. [42] It is the position of Mr. Duffy that the CRA should not have included that distribution of capital in his income.
+[55] The CRA auditor stated that a T3 slip indicated a taxable source of income and that she did not believe that a tax slip would be used to show a return of an investor’s own money. She also said that she did not know the impact of showing an amount in Box 42. [43]
+[56] The copies of the two T3 slips put into evidence by Mr. Duffy show only the first page of the form, and not the page setting out the accompanying instructions and the descriptions of the various boxes. As Form T3 Statement of Trust Income Allocations or Designations is a prescribed form, I am of the view that I may consider the second page of the form, notwithstanding that it was not put into evidence. On the second page of the form, Box 42 is described as follows:
+Box 42 – Amount resulting in cost base adjustment – This amount represents a distribution or return of capital from the trust. [44]
+[57] Thus, the description, in the prescribed form, of Box 42 corresponds with the evidence given by Mr. Duffy, to the effect that the amount of $12,636.92 (i.e., $11,649.36 + $987.56) represented a distribution or return of capital, rather than an allocation of income. Accordingly, the amount of Mr. Duffy’s income for 2012, as calculated by the CRA, should be reduced by the amount of $12,636.92.
+I. Potential Rental Rebate
+[58] As noted above, one of Mr. and Mrs. Duffy’s rental properties was located at 1133 Pelham Street, Fonthill, Ontario. That property was leased to a tenant from approximately July 2012 to September 2013, when the tenant purchased the property. Mr. Duffy testified that, when he initially made the arrangements to lease the property to the tenant, the rent was set at $1,500 per month, with the proviso that, if the tenant purchased the property, the tenant would be given a credit of $500 for each month that rent had been paid. In 2012, Mr. and Mrs. Duffy received rent in the amount of $9,000 (i.e., $1,500 Ч 6). When the tenant purchased the property in September 2013, he was given a credit of $7,500 (i.e., $500 Ч 15). Mr. Duffy took the position that only $6,000 (i.e., $1,000 Ч 6) of rental income should have been included in computing his income for 2012.
+[59] The CRA auditor took the position that the option was not exercisable until 2013, and that, as the tenant did not purchase the property until September 2013, in 2012 the rebate of $500 per month was only contingent, such that the appropriate amount to include in income for 2012 was $9,000.
+[60] After the CRA auditor had testified, counsel for the Appellants advised, in essence, that Mr. and Mrs. Duffy had decided to concede this point, [45] and to acknowledge that the rental income for 1133 Pelham in 2012 was $9,000 (and not $6,000).
+J. Motor Vehicle Expenses
+[61] In conducting its audit for 2012, the CRA determined that 121ON had incurred vehicle expenses as follows:
+Gas and oil
+$16,059.97
+Repairs and maintenance
+1,388.67
+Total vehicle expenses
+$17,448.64
+As well, the CRA determined that Mr. and Mrs. Duffy, as the shareholders of 121ON, had personally incurred vehicle expenses in the amount of $10,635.44, for which they had been reimbursed by 121ON. [46]
+[62] Mr. Duffy testified that Mrs. Duffy owned a Nissan which she drove for personal purposes. Mr. Duffy also testified that, if he needed to drive a vehicle for personal purposes, he would borrow the Nissan or he would borrow his son’s Jeep, which was parked at one of Mr. Duffy’s properties.
+[63] Mr. Duffy testified that 121ON owned four vehicles in 2012, a 1992 pickup, a 2004 van, a 2007 pickup and a 2011 pickup. He drove the 2011 pickup for employment-related purposes. He testified that he did not, on even a single occasion, drive any of the corporate-owned vehicles (including the 2011 pickup) for personal purposes.
+[64] Mr. Duffy testified that all of the expenses pertaining to Mrs. Duffy’s Nissan were paid by Mr. and Mrs. Duffy personally and were not reimbursed by 121ON. Accordingly, Mr. Duffy took the position that the full amount of $17,448.64 was deductible by 121ON in computing its income for 2012. They did not at any time submit any invoices or bills pertaining to the Nissan to 121ON for payment or reimbursement.
+[65] The CRA auditor testified that the majority of the motor vehicle expenses had been paid for by Mr. and Mrs. Duffy, but deducted as vehicle expenses by 121ON. In conducting the audit, she determined that the motor vehicle expenses should be allocated between 121ON and its shareholders (i.e., Mr. and Mrs. Duffy). The purpose of the allocation was to allocate some of the motor vehicle expenses to Mr. and Mrs. Duffy as personal expenditures. The amount so allocated for 2012 was $3,265, which was then disallowed as a deduction by 121ON. [47] In explaining the allocation during her direct examination, the following exchange occurred:
+Q. Why that amount [i.e., $3,265]? How did you come to that amount?
+A. I believe it was just an allocation.
+Q. By what do you mean?
+A. I don’t have the documentation here to support those documents. It was included in my audit and I don’t have the complete audit file here. [48]
+[66] Given that the CRA auditor did not explain the basis for which $3,265 was disallowed as an expense by 121ON and included as personal expenditures by Mr. and Mrs. Duffy in the net worth analysis, and as the auditor did not have her audit file with her at the hearing, such that she could not provide any greater explanation of this allocation, I am inclined to conclude that there was not a supportable basis for allocating $3,265 to Mr. and Mrs. Duffy as personal expenditures. Furthermore, as indicated above, counsel for the Respondent did not cross-examine Mr. Duffy; therefore, Mr. Duffy was not challenged in his assertion that Mrs. Duffy and he paid all of their own motor vehicle expenses personally and were not reimbursed therefor by 121ON. Therefore, for the purposes of the net worth analysis, Mr. and Mrs. Duffy’s combined income for 2012 should be reduced by $3,265 for 2012, and the income of 121ON should also be reduced by the same amount.
+K. Summary
+[67] The Appellants were successful in proving that the combined income of Mr. and Mrs. Duffy for 2012, as determined pursuant to the CRA’s net worth analysis, should be reduced to the extent of the following items:
+Q-Trade account: currency conversion
+$6,206.00
+Visa account and bank account
+1,547.11
+Pelham property taxes
+3,952.32
+Q-Trade account: return of capital
+12,636.92
+Motor vehicle expenses
+3,265.00
+Total
+$27,607.35
+[68] As indicated above, after taking into consideration the concessions made by the Respondent at the commencement of the hearing, the amount of Mr. and Mrs. Duffy’s combined income that remained in dispute was $27,237.80 (i.e., $13,618.90 Ч 2). Similarly, the amount of 121ON’s income that remained in dispute was $27,237.90 (or perhaps $27,237.80, depending on whose calculation one uses). As I have found that the amount of income determined by the CRA pursuant to its net worth analysis was excessive to the extent of $27,607.35, it follows that the Appeals of the Appellants, insofar as the unreported income is concerned, should be allowed.
+L. Penalties
+[69] As I have concluded that none of the Appellants failed to report fully his, her or its income for 2012, it follows that none of the Appellants made a false statement or omission in his, her or its 2012 income tax return. Accordingly, there was no basis for the imposition of penalties under subsection 163(2) of the ITA in respect of 2012.
+[70] Furthermore, as noted above, by reason of subsection 163(3) of the ITA, the Minister has the burden of establishing the facts justifying the assessment of a penalty under subsection 163(2). Counsel for the Respondent did not cross-examine Mr. Duffy, nor did the Respondent provide any evidence suggesting that any of the Appellants had knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of, a false statement or omission in an income tax return. Accordingly, the penalties assessed against the Appellants were not justified and should be cancelled.
+VIII. CONCLUSION
+[71] The Appeals are allowed, with costs, and the Reassessments are referred back to the Minister for reconsideration and reassessment in accordance with these Reasons, including the concessions made by the respective Parties, all as set out above.
+[72] The Parties shall have 30 days from the date of the Judgment in respect of these Appeals to reach an agreement on costs and to so advise the Court, failing which the Appellants shall have a further 30 days to file written submissions on costs, and the Respondent shall have yet a further 30 days to file a written response. Any such submissions shall be limited to five pages in length. If, within the applicable time limits, the Parties do not advise the Court that they have reached an agreement and no submissions are received from the Parties, costs shall be awarded to the Appellants in accordance with the Tariff.
+Signed at Ottawa, Canada, this 4th day of April 2019.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2019 TCC 75
+COURT FILE NO.:
+2016-1697(IT)G, 2016-1703(IT)G,
+2016-1705(IT)G
+STYLE OF CAUSE:
+MICHAEL DUFFY, PAMELA DUFFY and 1218769 ONTARIO INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+March 13, 2018
+SUBMISSIONS FILING DATE:
+April 13, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+April 4, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Stan W. McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Glen W. McCann
+Firm:
+Sullivan Mahoney LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c. 1 (5th supplement), as amended.
+[2] Letter dated March 28, 2018 from counsel for the Respondent to the Registrar of the Court; and Transcript, p. 4, line 16 to p. 8, line 3.
+[3] Letter dated April 13, 2018 from counsel for the Appellants to the Registrar of the Court, p. 2, ¶(b).
+[4] Ibid., p. 2, ¶(a); and Transcript, p. 78, line 3 to p. 79, line 4. Although the hearing did not focus on the 2011 taxation year, based on comments by counsel for the Appellants, it is my understanding that the amount of the rental expenses deductible made by Mr. and Mrs. Duffy in computing their income for 2011 is limited to $2,131.50 for each of them.
+[5] Ibid., p. 102, lines 9-24. See also paragraphs 58-60 below.
+[6] I think that, strictly speaking, the amount of the allegedly unreported income of 121ON should be $27,237.80 (i.e., 2 Ч $13,618.90).
+[7] Fletcher v The Queen, [1995] 1 CTC 2274 at 2275-2276, 95 DTC 134 at 135 (TCC). See also Luprypa v The Queen, [1997] 3 CTC 2363 (TCC), ¶19; and Trieu v The Queen, [2000] 1 CTC 2163, 2000 DTC 1422 (TCC), ¶4.
+[8] Hsu v The Queen, 2001 FCA 240, ¶17, quoting from Bigayan v The Queen, [2000] 1 CTC 2229 at 2230, 2000 DTC 1619 at 1619 (TCC).
+[9] Morrow v The Queen, [1992] 2 CTC 111 at 113, 92 DTC 6380 at 6381 (FCA); Hsu, supra note 8, ¶23; Boroumand v The Queen, 2015 TCC 239, ¶52; and Mehravaran v The Queen, 2015 TCC 209, ¶10.
+[10] Lai v The Queen, 2005 TCC 774, [2006] 1 CTC 2441, 2005 DTC 1823, ¶29.
+[11] Malik v The Queen, 2011 TCC 224, ¶25.
+[12] Luprypa, supra note 7, ¶22.
+[13] Lai, supra note 10, ¶29.
+[14] Counsel for the Respondent did not cross-examine Mr. Duffy. See Transcript, p. 85, line 21-24; and p. 88, lines 13-15.
+[15] In performing a net worth analysis, complications may arise if a brokerage account is treated as a single asset. According to David E. Graham, “Anatomy of a Net Worth Assessment,” 2007 British Columbia Tax Conference (Canadian Tax Foundation, 2007), 11:1 at 11:12-13, it is generally preferable to deal separately with each investment and liability in a brokerage account. As that approach was not suggested by either the Appellants or the Respondent, I will not apply that approach here. I do not think that the use of a composite approach, rather than an item-by-item approach, will be problematic here, as the only issue relates to the CRA’s failure to use consistent treatment in converting investments and liabilities in the US margin account from US currency to Canadian currency.
+[16] Transcript, p. 90, lines 13-27.
+[17] Exhibit A-1, Tab 37, p.2.
+[18] Ibid.
+[19] Exhibit A-1, Tab 38.
+[20] Transcript, p. 91, lines 3-9. It appears that, when she was conducting her audit, the auditor may not have had access to all of the bank-account documentation.
+[21] Ibid., lines 16-27.
+[22] Exhibit A-1, Tabs 37-38.
+[23] Exhibit A-1, Tab 36. During Mr. Duffy’s examination-in-chief, both he and his counsel indicated that 1131 and 1133 Pelham Street were located in Fonthill, Ontario; however, the property tax documents were issued by the tax department of the Town of Pelham. It appears as though Fonthill may be a community in the Town of Pelham.
+[24] Transcript, p. 92, lines 8-9.
+[25] Exhibit A-1, Tab 20.
+[26] The CRA did not convert the US$9,533.56 into Canadian currency, but rather, treated the amount of the interest in the US margin account as being C$9,533.56.
+[27] Transcript, p. 54, lines 7-9.
+[28] Transcript, p. 93, lines 5-23. Assuming that this offset relationship existed, I do not think that there is any need to adjust for the failure of the CRA to convert the US interest in the amount of US$9,533.56 into Canadian currency.
+[29] Exhibit A-1, Tab 61, 2012 Return, p. 4. The documents behind Tab 61 in Exhibit A-1 are the 2010 and 2011 Income Tax and Benefit Returns of Mrs. Duffy and the 2012 Income Tax and Benefit Return of Mr. Duffy.
+[30] Exhibit A-1, Tab 60, 2012 Return, p. 4. The documents behind Tab 60 in Exhibit A-1 are the 2010 and 2011 Income Tax and Benefit Returns of Mr. Duffy and the 2012 Income Tax and Benefit Return of Mrs. Duffy.
+[31] Transcript, p. 56, line 10 to p. 59, line 9.
+[32] Ibid., p. 93, line 24 to p. 94, line 15; and p. 99, line 26 to p. 101, line 15.
+[33] Graham, supra note 15, 11:20.
+[34] Ibid., 11:20, fn 22. The Graham paper notes that the only four categories of liabilities that should be included in a net worth analysis are liabilities that existed at the beginning of the audit period, liabilities that arose from the acquisition of assets during the audit period, liabilities that arose from paying other liabilities during the audit period, and liabilities that arose from personal expenditures during the audit; ibid., 11:15.
+[35] Transcript, p. 59, line 14 to p. 62, line 5; and Exhibit A-1, Tab 65. The second page behind Tab 65 in Exhibit A-1, shows two numbers that are almost the same, $4,693.67 and $4,693.87, as being the amount of the total withdrawals in Mexico in 2012. I think that the correct amount might possibly be a third number, $4,693.69. Given the uncertainty in respect of this amount, I will simply round it to $4,694.
+[36] Transcript, p. 61, lines 23-27.
+[37] Transcript, p. 94, lines 22-25.
+[38] Transcript, p. 63, lines 6-17.
+[39] See Haniff v The Queen, 2011 TCC 112, ¶19-22; Baker v The Queen, 2007 TCC 106, ¶24-25; and 620247 Ontario Ltd. v The Queen, [1995] GSTC 22, ¶8 & 12.
+[40] Exhibit A-1, Tab 67.
+[41] Transcript, p. 65, lines 13-14. This particular statement was made by Mr. Duffy’s counsel.
+[42] Exhibit A-1, Tab 66, last two pages.
+[43] Transcript, p. 95, line 24 to p. 96, line 26.
+[44] Generic prescribed Form T3 Statement of Trust Income Allocations and Designations for 2012, p. 2.
+[45] Transcript, p. 102, lines 10-24. See subparagraph 7(c) above.
+[46] Exhibit A-1, Tab 53.
+[47] Transcript, p. 97, line 21 to p. 98, line 16.
+[48] Ibid., p. 98, lines 17-23.

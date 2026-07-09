@@ -1,0 +1,222 @@
+---
+title: "Savory c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28443/index.do"
+last_modified: "2008-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 69"
+citation2: ""
+neutral_citation: "2008 CCI 69"
+decision_date: "2008-01-31"
+language: "fr"
+item_id: "28443"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1176
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:12:10.803000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "660eb9fea50987fdf2a729b8e31381d8701a218b669d5a0759c33bdb541f3382"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Savory c. La Reine
+
+- Citation: 2008 CCI 69
+- Decision date: 2008-01-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1176, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Savory c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-31
+Référence neutre
+2008 CCI 69
+Numéro de dossier
+2007-1790(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1790(IT)I
+ENTRE :
+MARY ANNE SAVORY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 26 septembre 2007, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Lindsay D. Holland
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2004 est rejeté.
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi pour les années d’imposition 2002 et 2003 sont accueillis sans dépens, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant pour acquis que l’appelante ne vivait pas dans une relation conjugale et n’avait pas de « conjoint visé » pendant les années d’imposition 2002 et 2003 et que l’appelante a le droit de demander l’équivalent du crédit pour conjoint en application de l’alinéa 118(1)b) de la Loi et de déduire des frais de garde d’enfants en application du paragraphe 63(2) de la Loi.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2008.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 14e jour de février 2008.
+Marie-Christine Gervais, traductrice
+Référence : 2008CCI69
+Date : 20080129
+Dossier : 2007-1790(IT)I
+ENTRE :
+MARY ANNE SAVORY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+Introduction
+[1] Le présent appel est interjeté à l’encontre des cotisations établies par le ministre du Revenu national (le « ministre ») à l’égard de l’appelante pour les années d’imposition 2002, 2003 et 2004. Le ministre a établi de nouvelles cotisations d’impôt à l’égard de l’appelante pour la période en litige dans lesquelles il a refusé de déduire les frais de garde d’enfants et d’accorder l’équivalent du crédit pour conjoint parce que l’appelante vivait dans une relation conjugale. Un montant de 2 454 $[1] a été établi à son égard pour le recouvrement des montants de Prestation fiscale canadienne pour enfants (la « PFCE ») payés en trop, de même qu’un montant de 522 $ pour le crédit de taxe sur les produits et services / taxe de vente harmonisée (le « CTPS ») qui aurait été payé en trop.
+[2] Les points en litiges sont les suivants :
+(i) la question de savoir si l’appelante vivait dans une relation conjugale avec Philip Lamy (ci‑après « M. Lamy ») pendant la période en litige;
+(ii) la question de savoir si l’appelante avait le droit de déduire des frais de garde d’enfants pour les années d’imposition 2002, 2003 et 2004;
+(iii) la question de savoir si l’appelante avait cessé de résider avec les enfants en avril 2005.
+FAITS
+[3] L’issue du présent appel est en grande partie tributaire des faits. Pour trancher la question de savoir si l’appelante vivait dans une relation conjugale, il est nécessaire d’examiner certains aspects du passé de l’appelante. Aucune des parties n’a exigé que l’ancien conjoint de fait de l’appelante, M. Lamy, témoigne à l’audience. L’appelante avait obtenu une ordonnance de non‑communication, et les deux parties voulaient éviter une confrontation peut‑être difficile, voire même explosive. Même si cela a rendu les conclusions de fait plus difficiles à tirer, l’argumentation des parties était raisonnable, et je ne tire aucune conclusion défavorable de cela.
+[4] L’appelante a témoigné avoir commencé à fréquenter M. Lamy au cours des années 1990. Ils ont eu deux enfants ensemble : Chloe‑Mae, née le 9 août 1996, et Anthony, né le 11 octobre 1998.
+[5] Elle a décrit leurs rapports comme une relation [traduction] « où se succédaient les ruptures et les réconciliations »[2] et elle a ajouté que M. Lamy n’a jamais fait partie du ménage de façon continue. Elle admet qu’ils ont vécu ensemble de septembre 1998 à décembre 1998, où il est parti. Comme elle ne savait pas où il se trouvait, elle faisait suivre son courrier à l’adresse de sa mère.
+[6] En août 2001, l’appelante a déménagé dans un autre appartement situé au 2836, rue Connolly, à Halifax. Elle a indiqué que, peu de temps après, M. Lamy a déménagé dans le même immeuble d’habitation qu’elle, mais dans un appartement différent : elle était dans l’appartement B et lui, dans l’appartement A. Seul le nom de l’appelante figurait sur le contrat de location et elle payait la totalité du loyer et des services publics. Elle a demeuré là jusqu’en septembre 2004, et pendant cette période (août 2001 à septembre 2004), M. Lamy a demeuré à différentes adresses. Il était « du genre à partir et à revenir »[3]. On peut comprendre que l’intimée mette en doute la véracité du témoignage de l’appelante en ce qui concerne les numéros des appartements et qu’elle conclue que l’appelante et M. Lamy vivaient dans le même appartement. Je conclus qu’ils ont effectivement vécu ensemble à la même adresse pendant au moins un certain temps pendant la période allant d’août 2001 à septembre 2004.
+[7] Les parties ne contestent pas le fait que, de septembre 2004 à février 2005, l’appelante et M. Lamy ont vécu ensemble dans le même appartement. Le 25 septembre 2004, ils ont déménagé dans un autre appartement situé sur l’avenue Rowe, à Halifax. À la fin de février 2005, M. Lamy a déménagé pour cause d’échec de leur union de fait.
+[8] C’était l’appelante qui prenait soin des enfants pendant la période en litige. M. Lamy n’assumait que très peu de responsabilités domestiques et familiales. C’était elle qui était le principal soutien économique et qui subvenait aux besoins des enfants. Il n’a fait aucune contribution monétaire importante pour aider l’appelante à subvenir aux besoins quotidiens des enfants. Je crois qu’elle était et qu’elle est encore cuisinière dans un établissement résidentiel. Lorsque l’appelante et M. Lamy se sont séparés en février 2005, les deux enfants ont vécu en alternance avec leur père et leur mère jusqu’en juin de la même année. À partir de juin 2005, les enfants ont vécu uniquement avec leur père. Ce n’est seulement qu’un an plus tard que l’appelante a obtenu la garde des deux enfants[4].
+[9] Pour toutes les années en litige, son revenu net était supérieur à celui de M. Lamy. Elle a déduit des frais de garde d’enfants de 1 630 $; de 3 036 $ et de 3 389 $ et demandé un équivalent du crédit pour conjoint de 6 482 $; de 6 586 $ et de 6 803 $ pour les années d’imposition 2002, 2003 et 2004, respectivement.
+[10] Le ministre veut recouvrer 2 454 $ de l’appelante à l’égard de montants de PFCE qui lui auraient été payés en trop pendant la période de juillet 2003 à août 2005 inclusivement. Le montant provient de l’addition des trois montants suivants :
+Année de base 2002 : 108,71 $
+Année de base 2003 : 1 427,76 $
+Année de base 2004 : 918,04 $
+[11] De plus, le ministre a calculé de la manière suivante un total de 522,33 $ pour le recouvrement du CTPS qui aurait été payé en trop à l’appelante pendant la période de juillet 2004 à juillet 2005, inclusivement :
+Année de base 2003 : 435,58 $
+Année de base 2004 : 86,75 $
+POSITION DE L’APPELANTE
+[12] L’appelante allègue qu’elle ne vivait pas en union de fait avec M. Lamy et qu’ils ne demeuraient pas dans le même appartement. Elle ajoute que, pendant les années en litige, ils n’ont jamais eu une relation stable et n’ont vécu ensemble en tant que couple que pendant moins de quatre mois. De plus, elle a témoigné que c’était principalement elle qui subvenait aux besoins affectifs et financiers des enfants. Finalement, elle soutien que M. Lamy n’a jamais fait partie du ménage de façon continue et qu’il ne lui a jamais fourni de soutien financier ou toute autre forme de soutien. Ce sont ces moyens qu’elle invoque pour soutenir qu’elle ne vivait pas dans une relation conjugale avec M. Lamy et qu’il n’était pas son conjoint de fait.
+POSITION DE L’INTIMÉE
+[13] L’appelante vivait dans une relation conjugale avec M. Lamy pendant la période en litige et elle est visée par la définition de l’expression « conjoint de fait » au sens de la Loi de l’impôt sur le revenu (la « Loi »)[5]. L’intimée dit qu’il faut tenir compte du revenu de M. Lamy dans le calcul des montants de CTPS et de PFCE auxquels l’appelante a droit. De plus, cela a aussi pour effet d’invalider la demande de l’appelante à l’égard de l’équivalent du crédit pour conjoint en application de l’alinéa 118(1)b) de la Loi.
+[14] Ensuite, l’intimée soutien que, étant donné que l’appelante vivait en union de fait et que son revenu était supérieur à celui de son conjoint de fait, et ce pour toutes les années en litige, elle n’a pas le droit de déduire des frais de garde d’enfants en application du paragraphe 63(2) de la Loi.
+[15] Finalement, l’intimée ajoute que l’appelante a perdu la garde de ses deux enfants pendant un an à compter d’avril 2005 et qu’elle ne résidait donc pas avec une « personne à charge admissible » au sens des articles 122.5 et 122.6 de la Loi. Par conséquent, cela a également une incidence sur l’admissibilité de l’appelante au CTPS et à la PFCE pour au moins une partie des années en litige.
+ANALYSE
+[16] La première question est de savoir si l’appelante vivait en union de fait avec M. Lamy pendant la période en litige. Même s’il s’agit surtout d’une question de fait, la Loi est utile pour ce qui est de la détermination du terme « conjoint de fait » et de la compréhension des répercussions fiscales relatives à cette notion assez vague.
+[17] Selon les dispositions législatives concernant le CTPS et la PFCE, le revenu de l’époux ou du conjoint de fait doit être pris en compte et l’équivalent du crédit pour conjoint ne doit pas s’appliquer si le contribuable vit avec un époux ou un conjoint de fait. À cet effet, le paragraphe 248(1) de la Loi prévoit la définition suivante pour le terme « conjoint de fait » :
+« conjoint de fait » Quant à un contribuable à un moment donné, personne qui, à ce moment, vit dans une relation conjugale avec le contribuable et qui, selon le cas :
+a) a vécu ainsi tout au long d'une période d'un an se terminant avant ce moment;
+b) est le père ou la mère d'un enfant dont le contribuable est le père ou la mère, compte non tenu des alinéas 252(1)c) et e) ni du sous‑alinéa 252(2)a)(iii).
+Pour l'application de la présente définition, les personnes qui, à un moment quelconque, vivent ensemble dans une relation conjugale sont réputées, à un moment donné après ce moment, vivre ainsi sauf si elles ne vivaient pas ensemble au moment donné, pour cause d'échec de leur relation, pendant une période d'au moins 90 jours qui comprend le moment donné.[6]
+[18] L’expression « conjoint visé » est définie ainsi pour les questions relatives à l’équivalent du crédit pour conjoint, au CTPS et à la PFCE à l’article 122.6 de la Loi :
+« conjoint visé » Personne qui, à un moment donné, est l'époux ou conjoint de fait d'un particulier dont il ne vit pas séparé à ce moment. Pour l'application de la présente définition, une personne n'est considérée comme vivant séparée d'un particulier à un moment donné que si elle vit séparée du particulier à ce moment, pour cause d'échec de leur mariage ou union de fait, pendant une période d'au moins 90 jours qui comprend ce moment.[7]
+[19] La notion « vivre dans une relation conjugale » n’est pas expressément définie dans la Loi. Le terme « relation conjugale » se rapporte plus particulièrement au droit de la famille et sa signification a été longuement examinée par les tribunaux provinciaux. Le libellé utilisé dans la Loi de l’impôt sur le revenu est semblable à celui des définitions des termes « conjoint » et « cohabiter » dans la Loi sur le droit de la famille de l’Ontario[8].
+[20] La Cour a souvent examiné le sens de l’expression « vivre dans une relation conjugale ». La décision Milot v. R.[9] est utile à cet égard. Dans cette décision, la juge Lamarre Proulx a adopté les critères suivants :
+1. Logement
+2. Comportement sexuel et personnel
+3. Services
+4. Relations sociales
+5. Attitude de la société
+6. Soutien (économique)
+7. Enfants
+[21] Dans M v. H[10], la Cour suprême du Canada a mentionné ce qui suit :
+Évidemment, le poids à accorder aux divers éléments ou facteurs qui doivent être pris en considération pour déterminer si un couple de sexe différent forme une union conjugale variera grandement, presque à l’infini. Cela doit s’appliquer aussi aux couples de même sexe. Les tribunaux ont eu la sagesse d’adopter une méthode souple pour déterminer si une union est conjugale. Il doit en être ainsi parce que les rapports dans les couples varient beaucoup.
+[Non souligné dans l’original.]
+[22] Cela étant dit, je vais m’efforcer d’appliquer ces critères aux faits de l’espèce.
+Logement
+[23] L’appelante et M. Lamy vivaient‑ils dans le même appartement pendant la période en litige? Cette question est fortement en cause. Comme il a été mentionné, l’appelante a témoigné que, lorsqu’elle et M. Lamy vivaient dans le même immeuble d’habitation, ils avaient chacun leur propre appartement jusqu’en septembre 2004. À cet effet, elle a présenté une copie des contrats de location, des factures de services publics et d’autres documents sur lesquels il ne figurait que son nom. Elle a également fourni une copie du relevé d’emploi de M. Lamy et d’un relevé d’assurance‑emploi mensuel envoyé par le gouvernement du Canada, et dans lequel il est indiqué que l’adresse de M. Lamy est le 2836, rue Connolly, appartement A. L’intimée soutient que les documents sur lesquels il est indiqué que M. Lamy vivait dans l’appartement A ont été modifiés et a produit des éléments de preuve indiquant le contraire, ce qui semble indiquer que l’adresse de M. Lamy était la même que celle de l’appelante, soit le 2836, rue Connolly, appartement B. Même si elle a nié que M. Lamy vivait avec elle, elle a admis qu’il passait la nuit chez elle de temps en temps. Le logement n’est qu’un des critères dont il faut tenir compte. De toute évidence, il est possible que des conjoints vivent ensemble sans toutefois être considérés comme des personnes vivant dans une relation conjugale[11].
+[24] Actuellement, les parties ne contestent pas le fait que l’appelante et M. Lamy ont vécu dans le même immeuble d’habitation pendant au moins une partie de la période en litige. Cependant, la question de savoir s’ils ont vécu dans le même appartement demeure incertaine, et sans preuve convaincante, je conclus qu’ils vivaient au même endroit pendant au moins une partie de la période en litige. Même si cette conclusion ne joue pas en faveur de l’appelante, comme je l’ai indiqué, il ne s’agit‑là que d’une partie de l’analyse et d’autres critères jouent également un rôle important.
+[25] Le deuxième critère porte sur le comportement sexuel et personnel du demandeur. Pendant l’interrogatoire, l’avocate de l’intimée a interrogé l’appelante au sujet de sa relation avec M. Lamy. Celle‑ci a témoigné que, lorsqu’il vivait dans le même immeuble d’habitation qu’elle, ils leurs arrivaient de passer la nuit ensemble et ils avaient également des relations sexuelles. Elle a ajouté que, pendant cette période, elle n’a fréquenté personne d’autre régulièrement. Elle a également mentionné dans son témoignage qu’ils s’étaient engagés l’un envers l’autre. Par contre, M. Lamy ne semble pas l’avoir aidé lorsqu’elle avait besoin de lui, comme lorsque les enfants étaient malades. Lorsqu’elle était malade, elle s’occupait des enfants. Il ne l’aidait pas à faire les tâches ménagères, et ils ne se sont jamais offerts de cadeaux lors d’occasions spéciales. Ils ne prenaient pas leurs repas ensemble en famille et la communication quotidienne ne semblait pas être considérée comme un élément essentiel de leur relation. Le deuxième critère tend à indiquer que l’appelante et M. Lamy avaient plutôt une relation fonctionnelle qui ne présentait aucun des éléments essentiels d’une relation conjugale. Leur relation personnelle est loin d’être une histoire d’amour idéale. Dans l’ensemble, je conclus que le critère relatif au comportement sexuel et personnel joue en faveur de l’appelante. J’examinerai maintenant le troisième critère de l’analyse, qui concerne les services fournis par les parties.
+Services
+[26] Pour analyser cet élément, il faut examiner la conduite et les habitudes des parties concernant les services rendus dans la maison. D’habitude, cela comprendrait des tâches comme la préparation des repas, le lavage et la réparation des vêtements, le magasinage, l’entretien de la maison et d’autres services domestiques. Pendant son plaidoyer, l’avocate de l’intimée a accepté le fait que ce critère n’indique pas qu’il y a une relation conjugale et cela joue en faveur de l’appelante. Je suis d’accord.
+Je crois le témoignage de l’appelante et je suis certain qu’elle était la principale responsable des soins des enfants et des tâches domestiques. Le troisième critère indique clairement qu’il n’y avait pas de relation conjugale, et ce point est en faveur des prétentions de l’appelante.
+Relations sociales
+[27] Le quatrième critère à examiner est la façon dont l’appelante et M. Lamy se considéraient et se décrivaient dans un contexte social. À cet égard, l’appelante a témoigné qu’elle participait à des activités sociales avec M. Lamy. De plus, l’appelante avait des rapports avec la famille de M. Lamy et parlait régulièrement avec la mère de M. Lamy. Elle a convenu que leurs familles et leurs amis les considéraient comme un couple. Ce critère indique qu’il y avait une relation conjugale.
+Attitude de la société
+[28] Peu de renseignements sont disponibles à ce sujet, mais compte tenu du point qui précède, j’aurais tendance à conclure qu’ils étaient considérés comme un couple.
+Soutien économique
+[29] Ce critère peut être traité très rapidement, étant donné que l’avocate de l’appelante a admis que rien dans la preuve n’indique que M. Lamy a contribué à subvenir aux besoins essentiels, comme la nourriture, les vêtements, le logement et ainsi que suite. Ce critère ne me donne aucune raison de croire qu’il y avait une relation conjugale.
+Enfants
+[30] Comme je l’ai déjà souligné, l’appelante a témoigné que, pendant les années en litige, c’était elle qui s’occupait principalement des deux enfants. Toutefois, il ne fait aucun doute que M. Lamy était présent dans leur vie, même si ce n’est que de façon minime. Il a vécu pendant au moins un certain temps dans le même immeuble d’habitation que les enfants, ce qui pourrait indiquer qu’il voulait être près d’eux pour faire partie de leur vie. Après leur séparation en février 2005, l’appelante et M. Lamy ont convenu de façon informelle de se partager la garde de leurs enfants. Cet arrangement est tombé à l’eau, et à peu près de juin 2005 à juin 2006, les deux enfants vivaient seulement avec leur père. Pendant ce temps, les enfants n’ont eu aucun contact avec l’appelante. De toute évidence, M. Lamy a dû avoir une certaine interaction et un certain contact avec les enfants avant qu’ils vivent avec lui, et peut‑être même avant qu’il déménage chez l’appelante. Toutefois, l’appelante a obtenu de nouveau la garde des enfants en juin 2006. Encore une fois, je crois l’appelante lorsqu’elle affirme que, pendant la période en litige, elle était la principale responsable des soins des deux enfants. Après tout, d’un point de vue strictement financier, c’était elle le principal soutien économique. Elle a également témoigné que la contribution de M. Lamy à l’égard des besoins des enfants était négligeable. Cependant, dans son ensemble, le dernier élément semble indiquer que M. Lamy s’occupait des enfants au moins dans une certaine mesure, et le critère n’est pas concluant.
+[31] Dans son ensemble, le critère fonctionnel donne lieu à des résultats variés, mais il indique qu’à certains moments, l’appelante semblait vivre dans une relation conjugale avec M. Lamy. Il y a toutefois plusieurs éléments qui indiquent qu’il n’y avait pas de relation conjugale. Je souscris au commentaire suivant formulé par la juge Lamarre Proulx dans la décision Sigouin c. R.[12] :
+Les critères de l'union conjugale sont normalement la cohabitation et le comportement conjugal. Ce comportement se constate par les relations sexuelles, l'échange affectif et intellectuel, le soutien financier et la notoriété.
+À mon avis, il faut aussi prendre en compte dans les appels de cette nature que les dispositions, dont il est question dans ces appels, sont des dispositions d'assistance financière pour les personnes économiquement faibles ou de revenus modestes. La décision de cette Cour peut avoir des répercussions sur toute l'aide monétaire qu'une personne peut avoir reçue et, d'assistance, ces dispositions peuvent devenir extrêmement onéreuses pour cette personne à qui l'on exige le remboursement sur quelques années de cette aide. Pour rejeter l'appel, il me faut être bien convaincue que l'appelante vivait en union conjugale.[13]
+[32] Il ne fait aucun doute que l’appelante ne vivait pas dans une relation conjugale avec M. Lamy pendant au moins une partie de la période en litige. Il est toutefois clair que, à partir du 25 septembre 2004, ils ont vécu dans une relation conjugale. Il est raisonnable de conclure qu’ils avaient une relation conjugale avant la date où ils ont effectivement déménagé. Il est évident que l’appelante a consciemment décidé d’essayer une nouvelle fois de vivre avec M. Lamy et que sa décision devait être motivée par leur relation passée immédiate. La date du déménagement ne devrait pas être un facteur déterminant.
+[33] Selon la prépondérance des probabilités, je conclus que pendant l’année 2004, l’appelante avait un conjoint de fait au sens du paragraphe 248(1) de la Loi. De plus, pour le reste de la période en litige, soit les années d’imposition 2002 et 2003, elle ne vivait pas dans une relation conjugale. Le calcul de l’équivalent du crédit pour conjoint, du CTPS et de la PFCE pour les années d’imposition en litige doit être effectué conformément à ces conclusions.
+[34] La deuxième question en litige est de savoir si l’appelante avait le droit de déduire des frais de garde d’enfants pour les années d’imposition 2002, 2003 et 2004 en application du paragraphe 63(1) de la Loi. Le paragraphe 63(2) de la Loi prévoit que lorsque les deux contribuables subviennent aux besoins d’un enfant, seul le contribuable dont le revenu net est moins élevé peut déduire les frais de garde d’enfants. J’ai conclu que l’appelante vivait dans une relation conjugale avec M. Lamy pour l’année d’imposition 2004 et que, comme le revenu net de l’appelante était plus élevé que celui de M. Lamy, elle ne peut pas déduire de frais de garde d’enfants pour l’année d’imposition 2004. Elle a toutefois le droit de déduire ces frais pour les années d’imposition 2002 et 2003.
+[35] La troisième et dernière question en litige en l’espèce est de savoir si l’appelante avait cessé de vivre avec les enfants en avril 2005. La conclusion qui sera tirée de la réponse à cette question aura aussi une incidence sur les montants de CTPS et de PFCE de l’appelante.
+[36] En ce qui concerne le CTPS, le par. 122.5(1) de la Loi définit l’expression « personne à charge admissible » ainsi :
+« personne à charge admissible » Est une personne à charge admissible d'un particulier par rapport à un mois déterminé d'une année d'imposition la personne qui, au début de ce mois, répond aux conditions suivantes :
+a) elle est l'enfant du particulier ou est à sa charge ou à la charge de l'époux ou du conjoint de fait visé du particulier;
+b) elle vit avec le particulier;
+c) elle est âgée de moins de 19 ans;
+d) elle n'est pas un particulier admissible par rapport au mois déterminé;
+e) elle n'est pas le proche admissible d'un particulier par rapport au mois déterminé.[14]
+[37] De plus, le par. 122.5(4) de la Loi fournit l’explication suivante concernant les « mois déterminés »:
+(4) Pour l'application du présent article, les mois déterminés d'une année d'imposition sont juillet et octobre de l'année d'imposition suivante et janvier et avril de la deuxième année d'imposition suivante.[15]
+[38] La structure est semblable pour ce qui est de la PFCE.
+[39] La résidence des enfants devient pertinente pour ce qui est du calcul du CTPS et de la PFCE. À la fin du mois de février 2005, M. Lamy a déménagé de l’appartement de l’appelante et, à partir de cette date et jusqu’en juin 2005, les enfants vivaient en alternance avec leur père et leur mère. Après juin 2005, et ce jusqu’à environ un an plus tard, M. Lamy avait la garde exclusive des enfants. Depuis, l’appelante a obtenu de nouveau la garde juridique des deux enfants. La seule période en litige est celle allant de mars à juin 2005. Pendant ce temps, les enfants vivaient alternativement avec leur père et leur mère. Compte tenu du fait que l’appelante semble être la principale responsable des enfants, sauf pour une année, je conclus que les enfants vivaient avec l’appelante jusqu’au 1er juin 2005.
+[40] Les appels sont accueillis sans dépens, et les nouvelles cotisations sont déférées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux conclusions énoncées dans les présents motifs.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2008.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 14e jour de février 2008.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2008CCI69
+NO DU DOSSIER : 2007-1790(IT)I
+INTITULÉ : Mary Anne Savory c. La Reine
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 26 septembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 29 janvier 2008
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Lindsay D. Holland
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans tous les cas, il n’a pas été tenu compte des cents.
+[2] Transcription de l’audience tenue le 26 septembre 2007, à Halifax (Nouvelle‑Écosse), à la p. 12.
+[3] Ibid.
+[4] Ibid. à la p. 21.
+[5] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.).
+[6] Ibid. au par. 248(1).
+[7] Ibid. à l’art. 122.6.
+[8] L.R.O. 1990, ch. F.3. et David M. Sherman, Till Tax Do Us Part: The New Definition of “Spouse”, 1992 Tax Conference (Association canadienne d'études fiscales), p. 20:27.
+[9] [1996] 1 C.T.C. 2247.
+[10] [1999] 2 R.C.S. 3.
+[11] Voir par exemple : Kelner v. R., [1996] 1 C.T.C. 2687; Rangwala v. R., [2000] 4 C.T.C. 2430; Sigouin c. R., [2002] 1 C.T.C. 2596; Uwasomba v. R., [2003] 2 C.T.C. 2295.
+[12] [2002] 1 C.T.C. 2596.
+[13] Ibid. aux par. 11 et 12.
+[14] Ci-dessus, note 4 au par. 122.5(1).
+[15] Ibid. au par. 122.5(4).

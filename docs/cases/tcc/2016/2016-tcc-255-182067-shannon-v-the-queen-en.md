@@ -1,0 +1,308 @@
+---
+title: "Shannon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/182067/index.do"
+last_modified: "2016-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 255"
+citation2: ""
+neutral_citation: "2016 TCC 255"
+decision_date: "2016-11-08"
+language: "en"
+item_id: "182067"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2998
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:37:14.433000+00:00"
+cases_cited_count: 10
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "074f195de1f0e0ea262e0206aa3b91828cd22b8a932e3017f86e19614bdfd3a0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shannon v. The Queen
+
+- Citation: 2016 TCC 255
+- Decision date: 2016-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2998, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shannon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-08
+Neutral citation
+2016 TCC 255
+File numbers
+2016-4412(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4412(IT)G
+In the Matter of
+CHRIS SHANNON
+On the Court’s own motion brought September 13, 2016
+in Winnipeg, Manitoba
+Before: The Honourable Justice David E. Graham
+ORDER
+This Court orders that:
+[1] Chris Shannon is prohibited from representing any taxpayer as an agent before this Court without first obtaining written permission from the Court.
+[2] If Mr. Shannon wishes to obtain permission to act as an agent on a specific matter or on all future matters on which he is retained, he shall apply in writing setting out the reasons why permission should be granted. Any such application shall not be longer than 10 pages. Any application that is longer than 10 pages will not be considered. The Court shall grant permission if it is satisfied that Mr. Shannon’s involvement in the matter or matters will not harm the proper administration of justice. A decision of the Court to deny permission shall be final and shall not be subject to appeal.
+[3] Nothing in this Order prevents Mr. Shannon from acting on his own behalf in a dispute concerning any matter over which this Court has jurisdiction.
+[4] Mr. Shannon shall be removed as the agent of any taxpayer for whom he is currently listed as agent. The address for service on any such matter shall be changed to the taxpayer’s address. A copy of this Order and the Reasons for Order shall be provided to each such taxpayer.
+[5] A copy of this Order and the Reasons for Order shall be provided to any taxpayer for whom Mr. Shannon has previously acted as agent and to the Crown.
+Signed at Ottawa, Canada, this 8th day of November 2016.
+“David E. Graham”
+Graham J.
+Citation: 2016 TCC 255
+Date: 20161108
+Docket: 2016-4412(IT)G
+In the Matter of
+CHRIS SHANNON
+REASONS FOR ORDER
+Graham J.
+[1] A taxpayer appearing before the Tax Court of Canada on a matter under the Informal Procedure may be represented by an agent. [1] Such agents are not required to possess any particular qualifications. Agents are often spouses, family members or friends. These people appear without compensation for the simple purpose of helping the taxpayer present his or her case. Other agents are individuals who are paid for their services. They may have accounting designations, may be former CRA employees or, like Chris Shannon, may simply be people who hold themselves out as having knowledge of tax matters.
+[2] The Court has the power to control its own process. Part of that control includes controlling those who appear before the Court as agents. In rare circumstances, it may be appropriate for the Court to exercise that power to prohibit an individual from acting as an agent in this Court without permission. This is one of those rare circumstances.
+[3] Mr. Shannon has acted as an agent for taxpayers on six different appeals. After reviewing all of the relevant factors, it is clear that Mr. Shannon should be prohibited from acting as an agent without first obtaining permission from the Court.
+[4] I will review the source of the Court’s power to prohibit agents from acting, the process for doing so, the factors that should be considered, and the terms of any prohibition. I will then apply those factors to Mr. Shannon’s situation and determine the appropriate terms for his prohibition.
+I. Power to Prohibit Agents From Acting
+[5] Neither the Tax Court of Canada Act, the Tax Court of Canada Rules (General Procedure), nor the Tax Court of Canada Rules (Informal Procedure) gives the Court the power to remove an agent from an appeal or to prohibit an agent from acting. Nonetheless, the Court has that power.
+[6] The Tax Court of Canada is a statutory court. The Supreme Court of Canada has held that a statutory court has the implied power to control its own process (R. v. Cunningham [2] ). The Ontario Court of Appeal has held that a court’s power to control its own process includes the power to prevent agents from representing litigants if their continued representation would harm the proper administration of justice (R. v. Romanowicz [3] ). That power exists even when legislation contemplates agents acting on behalf of a party and there is no express rule in that legislation for their removal (Romanowicz). That power can extend to prohibiting agents from acting not just in a given matter but in all matters before the relevant court (Ontario v. Deutsch [4] ).
+[7] The Tax Court has previously exercised its power to control its own process to remove counsel or agents from acting on specific appeals. The Court has removed counsel who had a conflict of interest (Attisano v. The Queen; [5] Williamson v. The Queen [6] ), an agent who had a conflict of interest [7] and counsel who had been suspended by the Law Society of Upper Canada (Spillman v. The Queen [8] ).
+[8] In the case of Davitt v. The Queen, [9] Justice Boyle exercised this power to prevent counsel from acting in certain types of appeals. Mr. Davitt was a lawyer who represented himself. Justice Boyle found Mr. Davitt to be a vexatious litigant and, at the same time, ordered that Mr. Davitt not act as counsel without permission on any matter that raised similar issues to the ones in respect of which Mr. Davitt had been declared a vexatious litigant.
+[9] I am only aware of one case where this Court has prohibited an agent from representing taxpayers on all matters. In 2004, the Federal Court of Appeal issued an order prohibiting a particularly vexatious and abusive agent named Maurice Prefontaine from representing anyone before the Federal Court of Appeal. [10] Later that same year, Justice Paris issued an almost identical order preventing Mr. Prefontaine from representing anyone in the Tax Court. [11]
+[10] Based on all of the foregoing, I conclude that the Court has the power to prohibit an agent from acting on all matters pursuant to its implied power to control its own process.
+II. Process for Prohibiting an Agent From Acting on Any Matter
+[11] An application to have an agent prohibited from acting may be brought either on the Court’s own motion or by motion by the Crown. The motion need not be connected to a specific matter already before the Court. The normal rules of evidence need not necessarily apply to evidence that the Court considers on such a motion. [12] However, it is essential that interested parties be given an opportunity to make representations in respect of any such motion.
+On the Court’s Own Motion
+[12] There are three times at which the Court might bring an application on its own motion to prohibit an agent from acting:
+a) Before the hearing of a particular matter: If, before the hearing of a particular matter, the Court determines that it may be appropriate to prohibit an agent from acting in both the particular matter and all other matters, the Court should advise all interested parties that it is considering making such an order, advise those parties of the concerns that are causing the Court to consider making that order and give those parties an opportunity to make representations. The interested parties would be the agent, the taxpayer in the particular matter, the Crown and any other taxpayers whom the agent currently represents in any other matters before the Court. The Court may direct that the motion be dealt with in a separate hearing, at the commencement of the hearing of the particular matter or in writing. Any resulting order should be in the name of the agent, not the name of the taxpayer in the particular matter or the names of the taxpayers whom the agent currently represents in any other matters. This will ensure that the agent can appeal the order without the involvement of such taxpayers.
+b) After the hearing of a particular matter: If, after the hearing of a particular matter, the Court determines that it may be appropriate to prohibit an agent from acting in all matters, the Court should advise all interested parties that it is considering making such an order, advise those parties of the concerns that are causing the Court to consider making that order and give those parties an opportunity to make representations. The interested parties would be the agent, the Crown and any taxpayers whom the agent currently represents in any other matters before the Court. The taxpayer in the particular matter would only be an interested party if judgment had not already been issued in that matter. The Court may direct that the motion be dealt with in a separate hearing or in writing. Any resulting order should be in the name of the agent, not the names of any taxpayers whom the agent currently represents. This will ensure that the agent can appeal the order without the involvement of such taxpayers.
+c) During the hearing of a particular matter: If, during the hearing of a particular matter, the Court determines that it may be appropriate to prohibit an agent from acting in both the particular matter and in all other matters, the Court should bring a motion to remove the agent from the particular matter and then immediately hear representations from the agent, the taxpayer and the Crown. If the Court decides to remove the agent from the particular matter, the Court should make an interlocutory order in the particular matter. After reaching a decision on the agent’s representation in the particular matter, the Court should then decide whether it should also consider prohibiting the agent from acting in all other matters. If so, the Court should either immediately hear representations from the agent and the Crown or choose to receive those representations either at a separate hearing or in writing. If the agent is currently representing other taxpayers, the Court should avoid making any order until those taxpayers have had the opportunity to make submissions. Any resulting order should be in the name of the agent, not the name of the taxpayer in the particular matter or the names of the taxpayers whom the agent currently represents in any other matters. This will ensure that the agent can appeal the order without the involvement of such taxpayers.
+On Motion by the Crown
+[13] If an application to prohibit an agent from acting is brought by the Crown, it should be brought in accordance with the rules for motions under the Tax Court of Canada Rules (General Procedure). The named parties should be the Crown as applicant and the agent as respondent. The Crown should ask the Registry to create a new docket number for the motion separate from any existing docket numbers of any taxpayers currently represented by the agent. For the purposes of section 67 of the Tax Court of Canada Rules (General Procedure), the agent and any taxpayers currently represented by the agent in any matters before the Court should be considered persons or parties who will be affected by the order sought. Any resulting order should be in the style of cause of the motion.
+III. Test for Prohibiting an Agent From Acting
+[14] To paraphrase the Ontario Court of Appeal in Romanowicz, it is not enough that the Court believes that the taxpayers currently represented by an agent would be better off with another agent or representing themselves. It is similarly not enough that the Court believes the process would operate more smoothly and effectively if the agent were not involved. Prohibiting a taxpayer’s chosen agent from acting is a serious matter that is warranted only where it is necessary to protect the proper administration of justice. [13]
+[15] The following is a non-exhaustive list of factors that I believe the Court should consider when deciding whether it is necessary to prohibit an agent from acting in order to protect the proper administration of justice. I draw this list from the case law and from specific experiences that the Court has had with agents:
+a) Is the agent’s involvement causing or facilitating an abuse of the Court’s process?
+b) Is the agent’s involvement causing or facilitating the making of scandalous, frivolous or vexatious arguments?
+c) Is the agent’s involvement causing or facilitating the bringing of appeals that disclose no reasonable grounds for appeal?
+d) Is the agent’s involvement causing or facilitating the bringing of appeals concerning matters over which the Court has no jurisdiction?
+e) Has the agent shown contempt for the Court or encouraged his or her clients to show contempt for the Court?
+f) Has the agent acted in a threatening or verbally abusive manner towards Registry staff?
+g) Does the agent exhibit an unacceptable level of ignorance of court processes and the law?
+h) Can the agent be trusted to conduct the matters on which he or she will appear ethically and honourably?
+i) Is the agent acting in circumstances where he or she is in a conflict of interest?
+j) Does the relationship between the agent and the client suggest that the agent is taking undue advantage of the client?
+k) Would the agent’s participation otherwise bring the administration of justice into disrepute?
+l) What are the views of the agent’s current clients?
+[16] I will describe each of these factors in more detail before moving on to consider their application to Mr. Shannon’s case.
+Abuse of Process
+[17] This factor speaks for itself. If an agent abuses the Court’s process or makes it easier for his or her clients to abuse the Court’s process, that would certainly be a relevant factor to consider in deciding whether to prohibit him or her from acting. Obviously, the more frequent and more extreme the abuse, the more significance this factor would have.
+Scandalous, Frivolous or Vexatious Arguments
+[18] If an agent puts forward scandalous, frivolous or vexatious arguments or makes it easier for his or her clients to put forward such arguments, that would certainly be a relevant factor to consider in deciding whether to prohibit him or her from acting. An agent who routinely makes or facilitates the making of scandalous, frivolous or vexatious arguments would be of concern. An agent who wilfully raises arguments that he or she knows have previously been unsuccessful or who demonstrates indifference as to whether his or her arguments are scandalous, frivolous or vexatious would be of even greater concern.
+No Reasonable Grounds for Appeal
+[19] If an agent demonstrates a pattern of filing notices of appeal or facilitating his or her clients in filing notices of appeal that disclose no reasonable grounds for appeal, that would certainly be a factor to consider in deciding whether to prohibit him or her from acting. An agent who occasionally files or facilitates the filing of notices of appeal that disclose no reasonable grounds for appeal may not be of concern. However, an agent who routinely files or facilitates the filing of notices of appeal that contain arguments that are so hopeless as to be a complete waste of the Court’s time and resources would certainly be of concern.
+[20] There may sometimes be overlap between this factor and the one immediately above. I would suggest that pleadings that raise no reasonable grounds for appeal should be considered under this factor while pleadings that raise scandalous, frivolous or vexatious arguments but still contain at least one reasonable ground for appeal should be considered under the above factor.
+No Jurisdiction
+[21] If an agent demonstrates a pattern of filing notices of appeal or facilitating his or her clients in filing notices of appeal concerning matters over which the Court has no jurisdiction, that would certainly be a factor to consider in deciding whether to prohibit him or her from acting. An agent who occasionally confuses the jurisdiction of the Court with the jurisdiction of the Federal Court or who sometimes misunderstands the different roles of Parliament and the Court should not be of concern. However, an agent who routinely files or facilitates the filing of notices of appeal that primarily seek relief that the Court does not have the jurisdiction to grant would be of concern. An agent who wilfully seeks primary relief that he or she knows the Court does not have jurisdiction to grant would be of even greater concern.
+Contempt of Court
+[22] This factor speaks for itself. If an agent demonstrates contempt for the Court or encourages such contempt in his or her clients, that would certainly be a relevant factor to consider in deciding whether to prohibit him or her from acting. This was a significant factor in both the Tax Court and Federal Court of Appeal decisions in Prefontaine. Obviously, the more frequent and more extreme the contempt, the more significance this factor will have.
+Threatening or Verbally Abusive Behaviour Towards Registry Staff
+[23] The Federal Court of Appeal’s decision to prevent Mr. Prefontaine from acting as an agent was significantly influenced by Mr. Prefontaine’s verbal abuse of Registry staff, the need for security to attend at the Registry and physical damage that Mr. Prefontaine caused to Registry property. The Court ultimately concluded that Mr. Prefontaine should be prohibited not only from acting as an agent, but also from attending the Registry. The Court ordered that Mr. Prefontaine’s communications with the Court be limited to sending materials by courier or registered mail.
+Unacceptable Level of Ignorance
+[24] The majority of agents who appear before the Court provide quality services to their clients. Unfortunately, some agents provide their clients with poor quality services which leave the Court thinking that the taxpayer might have been better off representing himself or herself. Those are not the type of agents that should be of concern.
+[25] It is not the Court’s role to protect taxpayers from choosing poor quality representatives. Agents are, by definition, not lawyers and should not be expected to have advanced knowledge of the law or of court processes. Hiring an agent is like purchasing any other service. Taxpayers must beware of whom they are hiring. If they are unhappy with the services they receive, that is a matter best resolved between the client and the agent. There are many reasons why a taxpayer may be willing to accept lower quality representation. A taxpayer may not have the resources to pay a particularly knowledgeable representative. A taxpayer may be more concerned about the quality of the work that the agent does outside of the courtroom to assist the taxpayer in marshalling his or her case or negotiating a settlement than the quality of the work the agent does in the courtroom. A taxpayer may be more concerned about having an agent who speaks his or her language than the quality of the agent’s work.
+[26] The type of agent that the Court should be concerned with is an agent who repeatedly demonstrates an unacceptable level of ignorance in his or her conduct. I am thinking here of someone who is so unfamiliar with tax law or court processes that he or she does not just fail to make the best arguments for his or her client or fail to put the client’s best case forward, but also repeatedly harms the client’s case through his or her ignorance. Finding that an agent falls into this category should be the exception, not the rule. I would be reluctant to conclude that an agent fell into this category without being aware of multiple examples of his or her incompetence.
+Ethical and Honourable Conduct of the Matter
+[27] It is rare that agents appearing before this Court are disreputable individuals. In Romanowicz, the Ontario Court of Appeal described the following as the types of individuals Courts should be concerned with: [14]
+…representation by an agent facing criminal charges involving interference with the administration of justice and representation by an agent whose background demonstrates pervasive dishonesty or a blatant disrespect for the law. Representation by persons who have convictions for crimes of dishonesty or who have otherwise demonstrated a lack of good character...
+[28] The Court emphasized that these types of people should not automatically be disqualified from acting as agents. However, the Court stated that it should cause concern if it appears that an agent will not be able to conduct himself or herself ethically and honourably. This is true even if the agent has the necessary skills to represent his or her client. [15]
+[29] In the tax context, I would suggest that the following individuals may be particularly unsuited to acting as agents:
+a) individuals facing criminal charges for tax evasion;
+b) individuals facing criminal charges for fraud in respect of acts that could otherwise have been prosecuted as tax evasion;
+c) individuals facing criminal charges under subsection 238(1) of the Income Tax Act (e.g. charges for failure to comply with a requirement or for failure to file a return); and
+d) individuals facing contempt proceedings under subsection 231.7(4) of the Income Tax Act (i.e. proceedings for failing to comply with a compliance order issued by the Federal Court or the superior court of a province).
+Conflict of Interest
+[30] A conflict of interest is enough by itself to justify removing an agent. An agent who has a conflict of interest would normally have that conflict with a particular client or group of clients rather than with the world at large. The Court would, as it has done in the past, simply direct that the agent step down from the particular matter or matters on account of the conflict. The conflict would prevent the agent from acting for the particular client or clients but would have no impact on his or her representing other clients, so there would be no reason to go through the process of considering whether the agent should be prohibited from acting on all matters.
+[31] That said, the fact that the agent has repeatedly acted for clients when he or she was in a clear conflict of interest is a factor that the Court could consider in determining whether the agent should be prohibited from acting on all matters.
+Taking Undue Advantage
+[32] While it is not the Court’s role to protect taxpayers from unscrupulous agents, neither should the Court turn a blind eye to the actions of such individuals. If, in addition to other factors, an agent appears to be duping naïve or desperate clients, this may be an aggravating factor that argues in favour of prohibiting him or her from acting on all matters.
+Otherwise Bringing the Administration of Justice into Disrepute
+[33] This factor is designed to catch concerns that have not already been identified in the previous factors.
+Views of the Agent’s Current Clients
+[34] The views of the agent’s clients may assist the Court in understanding why, despite the concerns that the Court may have, taxpayers are prepared to retain the agent. Conversely, these views may reveal information about the agent’s fitness that was previously unknown to the Court.
+[35] In certain circumstances, the Court may choose to take the client’s wishes into account. A client, upon being informed of all of the Court’s concerns may, nonetheless, want to proceed with that agent. In such circumstances, the Court may choose to prohibit the agent from acting in other matters but allow him or her to continue representing the particular client.
+[36] In other circumstances, the clients’ views or wishes may not carry much weight with the Court. For example, the Court is unlikely to allow a client who is complicit in his or her agent’s abuse of process, contempt of court or scandalous, frivolous or vexatious arguments to use that agent as a means of amplifying the client’s inappropriate views. The Court is similarly unlikely to follow the wishes of a client if the Court believes the agent is taking undue advantage of the client.
+[37] There is no need for the Court to seek the views of the agent’s clients who are not yet before the Court. The Court has the power to control its own process. That power does not extend to controlling the CRA’s audit and objection processes. The Court does not have the jurisdiction to prohibit an agent from representing taxpayers who have not yet entered the court process. The Court will therefore generally not be concerned with obtaining the views of those taxpayers even if those taxpayers are clients of the agent and may ultimately appeal to the Court. That said, the fact that an agent has a number of clients who may ultimately appeal to the Court and be represented by the agent is something that the Court may weigh in deciding whether to prohibit an agent from acting.
+IV. Terms of the Prohibition
+[38] The following are factors which the Court should consider in ordering a prohibition.
+Less Drastic Remedy
+[39] There may be situations where an appropriate outcome can be achieved without prohibiting an agent from acting on all matters. For example, it may be sufficient to prohibit an agent from acting for a particular class of people, in respect of a particular type of transaction or in respect of a certain type of issue.
+Permission to Act
+[40] Any prohibition should not be absolute. The agent should be given the option of applying to the Court in writing for permission to act on a specific matter or on all future matters on which he or she is retained. That permission should be granted if the Court is satisfied that the prohibition is not necessary to protect the proper administration of justice. Any determination of the Court to deny permission to act should be final and should not be subject to appeal. [16]
+[41] Recognizing that some agents that the Court may prohibit from acting may be vexatious, it may be appropriate for the Court to limit the number of pages that may be submitted in support of any such application. [17]
+Appearing on Own Behalf
+[42] Generally, the prohibition against an agent acting should not prevent an agent from appearing on his or her own behalf in a dispute concerning any matter over which the Court has jurisdiction. However, there may be circumstances where such a prohibition would be appropriate. In each of the Prefontaine orders, Mr. Prefontaine was required to be represented by a lawyer in any future matter before the relevant court unless he first obtained permission to represent himself.
+[43] To be clear, a prohibition against an agent acting for others does not prevent the agent from filing appeals in respect of his or her own tax assessments. If an agent’s actions on his or her own appeals become concerning, the Crown can always move to have the agent declared a vexatious litigant.
+Attending Registry
+[44] As set out in both Prefontaine decisions, there may be circumstances where it is appropriate to order that an agent be prohibited from attending the Registry.
+Right of Appeal
+[45] In my view, an agent has a right, pursuant to paragraph 27(1.1)(c) of the Federal Courts Act, to appeal any order prohibiting him or her from acting. If I am wrong, then an appeal to the Federal Court of Appeal must lie as of right. If the Tax Court has implied jurisdiction to make an order, the Federal Court of Appeal must have implied jurisdiction to hear an appeal of that order.
+Notifying Previous Clients
+[46] Sometimes it may take a number of appeals before the Court becomes aware of the need to prohibit an agent from acting. Often it will only be the agent’s actions on previous matters that make the need for the prohibition apparent. In those circumstances, it may be in the interests of justice that a copy of the Order prohibiting the agent from acting and of the related Reasons for Order be provided to some or all of the taxpayers for whom the agent has previously acted.
+V. Application of the Factors to Mr. Shannon
+[47] I will now consider the application of each of the foregoing factors to Mr. Shannon. In doing so, I will make reference to six appeals in which Mr. Shannon has acted as agent: Bekkerus v. The Queen; [18] Heroux v. The Queen; [19] Chaudhry v. The Queen; [20] Hernandez v. The Queen; [21] Mazo v. The Queen; [22] and Track v. The Queen. [23] Mr. Shannon appeared before me on only the last two appeals.
+[48] At the hearing of Ms. Mazo’s appeal, I advised Mr. Shannon that I was considering using the Court’s power to control its own process to prohibit him from acting as an agent. I asked Mr. Shannon if he would like the opportunity to make written or oral representations on the matter. He indicated that he would not. I also sought input from Crown counsel.
+[49] As Mr. Shannon is not currently acting as agent for any taxpayer in any matter before this Court, it was unnecessary to seek input from anyone else.
+[50] On October 19, 2016, I directed the Registry to write to Mr. Shannon, with a copy to Crown counsel. I outlined my concerns and provided both Mr. Shannon and Crown counsel with the opportunity to make written representations on this matter. I did so out of an abundance of caution because Mr. Shannon had stormed out of the courtroom before I had a chance to explain to him the reasons why I was considering prohibiting him from acting.
+[51] The Registry received responses from both the Crown and Mr. Shannon. The Crown agreed with my observations about Mr. Shannon’s conduct. Mr. Shannon’s response did nothing to relieve my concerns.
+Abuse of Process
+[52] The organized pseudo-legal commercial arguments discussed below under the heading “No Reasonable Grounds for Appeal” have sometimes been characterized as an abuse of the Court’s process. However, since these are the only arguments that Mr. Shannon ever makes, I think it is better to consider them under that factor rather than this one.
+Scandalous, Frivolous or Vexatious Arguments
+[53] The organized pseudo-legal commercial arguments discussed below under the heading “No Reasonable Grounds for Appeal” could certainly be characterized as being scandalous, frivolous or vexatious. However, since these are the only arguments that Mr. Shannon ever makes, I think it is better to consider them under that factor rather than this one.
+No Reasonable Grounds for Appeal
+[54] In each of the appeals in which he has appeared as agent, Mr. Shannon has relied exclusively on what have been described as “organized pseudo-legal commercial arguments”. That term comes from the Alberta Court of Queen’s Bench decision in Meads v. Meads. [24] That case thoroughly analyzed and discredited the wide range of such arguments.
+[55] Mr. Shannon’s organized pseudo-legal commercial arguments were rejected in Bekkerus, Heroux, Chaudhry and Hernandez. Although Ms. Track’s and Ms. Mazo’s notices of appeal relied exclusively on such arguments, they abandoned these arguments after dismissing Mr. Shannon.
+[56] In brief, Mr. Shannon has argued that: [25]
+a) the Income Tax Act fails to describe a taxpayer as a person who gains his or her livelihood in the private sector and thus people who do are not subject to tax (Bekkerus; Chaudhry; Heroux; Hernandez);
+b) residents of Manitoba or Ontario are not residents of Canada and are thus not subject to tax (Heroux; Track; Hernandez);
+c) the taxpayer is not the same person as the “legal name” [26] and thus the taxpayer is not subject to tax (Track);
+d) the Tax Court does not have jurisdiction to hear appeals of income tax assessments from anyone who does not reside on federal Crown lands (Mazo; Track; Hernandez);
+e) the Minister of National Revenue has not produced a certified copy of the Income Tax Act nor has the Respondent’s counsel made a request of the Clerk of the Senate for a copy (Chaudhry; Mazo); [27]
+f) the tax collection agreements that the Minister has with the provinces do not apply to the taxpayer and thus the taxpayer does not have to pay tax (Mazo);
+g) the government cannot, without enacting the War Measures Act, compel members of the private sector to be subject to the Income Tax Act (Bekkerus; Chaudhry; Heroux);
+h) the preamble to the Canadian Charter of Rights and Freedoms recognizes the supremacy of God and the tenth commandment in the Bible prohibits taxation thus the Charter prohibits taxation; [28] and
+i) the Income Tax Act only applies to people who fall into the following categories:
+i. civil servants (Bekkerus;Track; Mazo; Hernandez);
+ii. people who hold federal, provincial or municipal employment (Bekkerus; Chaudhry; Heroux; Hernandez);
+iii. people who “hold an internal affairs office” (Heroux);
+iv. people who “hold an internal office” (Bekkerus; Chaudhry);
+v. people who hold “employment for profit” (Bekkerus; Chaudhry; Heroux);
+vi. people who “perform a function of government” (Bekkerus; Chaudhry; Heroux; Hernandez);
+vii. people who hold federal offices (Bekkerus; Track; Mazo; Hernandez);
+viii. people who reside on federal Crown lands (Bekkerus; Chaudhry; Heroux; Track; Mazo; Hernandez);
+ix. people who contract with the federal government (Track; Hernandez); and
+x. people whose employment falls under the Canada Labour Code or who are employed in federal works, undertakings or businesses (Mazo; Hernandez).
+[57] None of Mr. Shannon’s clients appear to have adopted these arguments when they filed their tax returns. These arguments appear to have been something that was introduced to them after their troubles with the CRA began. Ms. Track and Ms. Mazo both explained that these arguments were introduced to them by Mr. Shannon.
+[58] Mr. Shannon continued to raise these arguments in notices of appeal even after his clients had lost in court using the same arguments. The notices of appeal in Bekkerus, Heroux and Chaudhry are virtually identical yet the decision in Bekkerus was issued before the notice of appeal was filed in Heroux and the decision in Heroux was issued before the notice of appeal was filed in Chaudhry. Mr. Shannon does not appear to be dissuaded by losing.
+[59] Mr. Shannon’s belief in organized pseudo-legal commercial arguments and the fact that, in each case, those arguments have been the sole arguments he raised or proposed to raise at trial are very troubling to me. The fact that these arguments are coming from him rather than his clients is also troubling.
+[60] As set out in more detail below, two of Mr. Shannon’s clients have demonstrated that they were able to have their reassessments reduced when they abandoned those arguments. A third client would likely have been able to have her reassessments reduced had she abandoned those arguments. I find it very concerning that Mr. Shannon’s organized pseudo-legal commercial arguments are preventing his clients from litigating the actual merits of their appeals.
+[61] I place significant weight on this factor.
+No Jurisdiction
+[62] I am not aware of Mr. Shannon acting as agent in any appeals where the Court did not have jurisdiction to hear the appeal. On the contrary, Mr. Shannon frequently argues (with no hint of irony) that this Court lacks jurisdiction to hear whatever appeal he has brought before it.
+Contempt of Court
+[63] In his appearance before me, Mr. Shannon showed little but contempt for the Court. He refused to listen when I spoke, preferring instead to shout over me. He stormed out of the courtroom twice in the middle of the proceedings. He refused to acknowledge that the Court had any jurisdiction over appeals of tax assessments against anyone who did not reside on federal Crown lands. Both leaving in the middle of proceedings and refusing to acknowledge the jurisdiction of the court are common strategies employed by organized pseudo-legal commercial argument litigants.
+[64] This Court is not so thin-skinned as to prohibit an agent from acting where the Court’s sole concern is that the agent has, on occasion, acted with contempt. I place little weight on this factor.
+Threatening or Verbally Abusive Behaviour Towards Registry Staff
+[65] Mr. Shannon has not, to my knowledge, been threatening or verbally abusive towards Registry staff.
+Unacceptable Level of Ignorance
+[66] Mr. Shannon’s apparent belief that it is a good decision for his clients to not attend their own trials, [29] to not give evidence on their own behalf, [30] or to not call other evidence [31] is very troubling. This approach has the potential to do incredible damage to his clients’ chances of success. The fact that the approach is consistent with Mr. Shannon’s strategy not to raise any issues other than organized pseudo-legal commercial arguments does not make it any less concerning.
+[67] I acknowledge that there are times where a taxpayer might, for strategic reasons, choose not to testify or call evidence. However, those instances are unusual. While such an approach may be common in criminal trials, it would certainly not be the default position in the Tax Court where the Minister has the benefit of assuming the facts that she needs to win.
+[68] When Ms. Track dismissed Mr. Shannon and focused on the true issues underlying her reassessments, she was able to negotiate a settlement that provided her with significant savings. Her income was reduced by $35,000 and her gross negligence penalties were dropped. When Ms. Mazo dismissed Mr. Shannon and ultimately placed her evidence before the Court, she too was able to achieve significant savings. Her income was reduced by $33,000.
+[69] It is unlikely that these savings would have been achieved in either case had Mr. Shannon continued to represent Ms. Track and Ms. Mazo, continued to pursue his organized pseudo-legal commercial arguments, and continued to follow his strategy of not introducing any evidence. The fact that Mr. Shannon had not told Ms. Mazo and Ms. Track to bring their supporting documents to court may have reduced the amount of savings that they were able to achieve.
+[70] My understanding is that Ms. Hernandez was reassessed in respect of the same pyramid scheme as Ms. Track and Ms. Mazo. Given that they both fared better than Ms. Hernandez did after they dismissed Mr. Shannon, it seems likely that she would have fared better too had she represented herself.
+[71] An agent may only represent a taxpayer in the Informal Procedure. A taxpayer may elect to have the Informal Procedure apply to his or her appeal if the federal taxes and penalties in dispute for each year are less than $25,000 or the taxpayer is prepared to cap his or her potential savings at $25,000 per year. I am concerned that Mr. Shannon may be causing his clients to elect to use the Informal Procedure in order to ensure that he is allowed to represent them despite the fact that, in making the election, his clients have accepted a cap on their potential savings.
+[72] In Bekkerus, one of the two taxpayers was disputing a section 160 assessment of approximately $51,500. Roseann Bekkerus elected to have the Informal Procedure apply to her appeal. This assured that Mr. Shannon could act, but also meant that Ms. Bekkerus was giving up more than half of the amount in dispute. This seems an odd strategy given that Mr. Shannon was convinced that the entire amount was not owing. I acknowledge that there are strategic or financial reasons why a taxpayer may sometimes choose to have the Informal Procedure apply to an appeal where more than $25,000 is at stake, but I am not convinced that such reasons were present in Bekkerus.
+[73] I place significant weight on this factor.
+Ethical and Honourable Conduct of the Matter
+[74] Mr. Shannon grossly misrepresented Justice Ouimet’s decision in Hernandez when describing it to me. [32] I have no doubt that he did so knowingly. This is not conduct that the Court should expect from agents. That said, I am not aware of Mr. Shannon attempting to mislead other judges.
+[75] I am not aware of any charges, convictions or similar issues involving Mr. Shannon.
+[76] While this factor adds to my concerns, I place little weight on it.
+Conflict of Interest
+[77] I am not aware of any matters in which Mr. Shannon has acted despite being in a conflict of interest.
+Taking Undue Advantage
+[78] It is clear to me that Mr. Shannon took undue advantage of at least Ms. Track and Ms. Mazo.
+[79] Ms. Track and Ms. Mazo both stated that they hired Mr. Shannon on the recommendation of a friend. They explained that they had been reassessed significant amounts of money and that they were desperate. They said he sounded knowledgeable, they believed he could help them, and they trusted him to do so. Ms. Track stated that she believed Mr. Shannon was an expert in the field and that he had always appeared rational and professional.
+[80] These illusions came crashing down when Ms. Mazo and Ms. Track appeared in court. Both matters were called on the same day. Ms. Mazo’s appeal was called first. Mr. Shannon advised me that the Court did not have any jurisdiction to hear either appeal. I explained that the Court did have jurisdiction and that the cases would be proceeding. I then spoke directly to Ms. Mazo. I explained to her that Mr. Shannon’s organized pseudo-legal commercial arguments were nonsense, that he had used them in four previous appeals and had lost each time, that in each of those appeals the taxpayer either had not been present or had not testified, that in each of those appeals the taxpayer might have had an arguable case on the underlying issue but that I could not determine that because they never told their stories, that she did not need an agent, that she could proceed without Mr. Shannon, and that I would be pleased to guide her through the trial process as I would any self-represented taxpayer. At that point Mr. Shannon, his entourage of at least ten supporters, Ms. Mazo and Ms. Track all left the courtroom. The trial continued in Ms. Mazo’s absence as it had already commenced and the Crown had the onus of proof in respect of a statute barred year and in respect of gross negligence penalties assessed against Ms. Mazo.
+[81] Ms. Track’s appeal was eventually called and, because she was no longer present, was dismissed for failure to appear.
+[82] Sometime later that afternoon, after Ms. Mazo’s trial had finished, Ms. Mazo and Ms. Track both returned to the Registry. Mr. Shannon was not with them. Their matters were both recalled. Ms. Mazo and Ms. Track both explained variously that they had been surprised, stunned, appalled, embarrassed and mortified by Mr. Shannon’s conduct and that, on reflection, they had come to realize that they had made a huge mistake in hiring him.
+[83] Ms. Track explained that she was unsure what to do and had felt coerced and bullied into leaving the courtroom. This matches the observations of the CRA auditor who was in the courtroom at the time and was watching Ms. Track and the observations of the Registrar who, although she did not know Ms. Track, observed that the last woman to leave the room had appeared to hesitate before leaving.
+[84] Ms. Mazo explained that she felt bullied by Mr. Shannon. This matches both the Registrar’s and my own observations. Ms. Mazo looked scared: not of me, not of being in court, but rather of Mr. Shannon. I watched as Mr. Shannon repeatedly pressed his fingertips on her shoulder, directed her not to speak to me and then ushered her out of the courtroom.
+[85] Ms. Track and Ms. Mazo both stated that Mr. Shannon charged them a percentage of the amount that they had been reassessed. Ms. Mazo believed that Mr. Shannon was entitled to that fee regardless of the success he achieved on her behalf. In other words, he was paid for the problem, not the solution. She had regrettably already paid him in full before she came to court. Ms. Track said that the fee arrangement was vague and she was unsure whether Mr. Shannon was entitled to the full fee if he did not save her any money. She had already paid Mr. Shannon approximately $8,000 of the $19,000 he wanted. In the end, it appears that all that Mr. Shannon did for the money he received from these clients was to show up in court, announce that he and his clients had no need to be there, throw up his hands and leave. He did not even wait around for Ms. Track’s appeal to be called.
+[86] Both Ms. Track and Ms. Mazo asked to have new trials. The Crown had flown a witness in from Ontario for the trials (for the second time in Ms. Track’s case) and I was not prepared to put the Crown to the expense of having to do so again. I agreed to set aside Ms. Track’s dismissal on the condition that her trial go ahead the next day. Ms. Track settled her appeal before that trial. I agreed to re-open Ms. Mazo’s appeal immediately, summarize the evidence that had been introduced and then give her a chance to testify. The re-opening of Ms. Mazo’s appeal unnecessarily required some registry staff and Crown counsel to have to continue working until 7:00 p.m. An appeal that should have taken half a day turned into a full-day appeal.
+[87] I note again that Mr. Shannon’s choice to have Ms. Track and Ms. Mazo use the Informal Procedure ensured that he could be retained but also capped the amount of savings that he could achieve for them.
+[88] Should Ms. Track and Ms. Mazo have realized that Mr. Shannon’s promises of never having to pay tax were simply too good to be true and his arguments too nonsensical to believe? Yes. Should Ms. Mazo, who sat through Ms. Hernandez’s trial and saw Mr. Shannon in action, have realized that something was wrong? Probably. Should Ms. Track, who, following an earlier adjournment of her trial, received an Order from me that made it abundantly clear that Mr. Shannon’s arguments had no merit, have realized that something was wrong? Yes. Should they have questioned his unconventional billing arrangement? Yes. All that said, Ms. Track’s and Ms. Mazo’s foolish actions do not justify Mr. Shannon’s behaviour. What he did to them was wrong no matter how easy they made it for him to do.
+[89] I find Mr. Shannon’s taking undue advantage of his clients to be a significant aggravating factor. I have serious concerns that, if the Court does not prohibit Mr. Shannon from acting as an agent, he will use his organized pseudo-legal commercial arguments to take advantage of other desperate and naïve taxpayers.
+[90] I think that it is important to highlight that my decision to consider whether to prohibit Mr. Shannon from acting was based on my own observations of Mr. Shannon and on his history. Ms. Track and Ms. Mazo neither asked nor encouraged me to consider a prohibition. If Mr. Shannon wishes to blame anyone for the resulting prohibition, he should blame me, not them.
+Otherwise Bringing the Administration of Justice into Disrepute
+[91] There is nothing to consider that has not already been set out in the above factors.
+Views of Current Clients
+[92] As set out above, Mr. Shannon does not currently act as agent for any other taxpayers in this Court.
+VI. Decision to Prohibit
+[93] Based on all of the foregoing, I conclude that Mr. Shannon should be prohibited from acting as an agent before this Court without first obtaining written permission from the Court. I believe that if Mr. Shannon is not prohibited from acting as an agent he will continue to waste the Court’s time by making organized pseudo-legal commercial arguments, will continue to harm his clients by making those arguments, will continue to fail to call evidence or raise legitimate issues thus harming his clients’ chances of success, will continue to have clients elect to use the Informal Procedure when it may not be in their interest to do so and will continue to take advantage of his clients’ naïveté or desperation for his own financial gain. All of these things will harm the proper administration of justice.
+[94] I do not think that any remedy short of prohibition will address the foregoing concerns. I acknowledge that, in Davitt, Justice Boyle only prohibited Mr. Davitt from acting as counsel in matters that raised issues which were substantially similar to those raised by Mr. Davitt in his own appeal. The concerns that I have regarding Mr. Shannon taking undue advantage of his clients do not appear to have been present in Davitt. Mr. Davitt also appears to have been focused on a very specific issue, albeit one that he litigated over and over again. By contrast, Mr. Shannon has constantly invented new arguments.
+[95] In the circumstances, it seems more appropriate to err on the side of the proper administration of justice than to risk drawing too narrow a prohibition and having Mr. Shannon peddle new nonsense to naïve and desperate taxpayers.
+[96] Although I do not believe that Mr. Shannon is currently acting as agent for any taxpayer in this Court, I will nonetheless order that Mr. Shannon be removed as the agent of any taxpayer for whom he is currently listed as agent. The address for service in any such matter shall be changed to the taxpayer’s address. A copy of the Order and these Reasons shall be provided to each such taxpayer.
+Obtaining Permission
+[97] If Mr. Shannon wishes to obtain permission to act as an agent on a specific matter or on all future matters on which he is retained, he shall apply in writing to the Registry setting out the reasons why permission should be granted. Any such application shall not be longer than 10 pages. The Court will not consider any application that is longer than 10 pages. The Court will grant permission if it is satisfied that Mr. Shannon’s involvement in the matter or matters will not harm the proper administration of justice. A decision of the Court to deny permission shall be final and shall not be subject to appeal.
+No Restriction on Representing Self
+[98] If Mr. Shannon practises what he preaches, he is very likely to end up defending himself in this Court one day. The prohibition against Mr. Shannon acting as agent does not prevent him from appearing on his own behalf in a dispute concerning any matter over which this Court has jurisdiction.
+Notifying Previous Clients and the Crown
+[99] I believe that all of Mr. Shannon’s former clients should receive copies of these Reasons and the Order. If Mr. Shannon has pulled the wool over their eyes, they should be made aware of what has happened. A copy of these Reasons and the Order should also be given to the Crown.
+Signed at Ottawa, Canada, this 8th day of November 2016.
+“David E. Graham”
+Graham J.
+CITATION:
+2016 TCC 255
+COURT FILE NO.:
+2016-4412(IT)G
+STYLE OF CAUSE:
+In the Matter of CHRIS SHANNON
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+November 8 , 2016
+[1] Tax Court of Canada Act, section 18.14
+[2] 2010 SCC 10
+[3] 1999 CarswellOnt 2671
+[4] 2004 CanLII 9401 (ON SC)
+[5] 2016 CarswellNat 966
+[6] 2009 TCC 222
+[7] In an unpublished interlocutory decision, Justice Hogan removed an agent named Harold Coombs from an appeal in which Mr. Coombs had a clear conflict of interest.
+[8] 1998 CarswellNat 372
+[9] 2010 TCC 555
+[10] Prefontaine v. The Queen 2004 FCA 52
+[11] Prefontaine v. The Queen 2004 TCC 775
+[12] Romanowicz at para 79
+[13] Romanowicz at para 76
+[14] Romanowicz at para 74
+[15] Romanowicz at para 74
+[16] This is consistent with the procedure under the Tax Court of Canada Act for dealing with vexatious litigants (subsection 19.1(5)).
+[17] This approach was followed by Justice Boyle in Davitt.
+[18] 2014 TCC 311
+[19] 2015 TCC 183
+[20] 2016 TCC 28
+[21] 2015-4873(IT)I (not reported; currently under appeal to the Federal Court of Appeal)
+[22] 2016 TCC 232
+[23] 2015-4776(IT)I. Track was settled by Consent to Judgment after Mr. Shannon ceased to represent Ms. Track.
+[24] 2012 ABQB 571
+[25] I have drawn these arguments both from the relevant notices of appeal and from the arguments Mr. Shannon actually raised at trial. Many of Mr. Shannon's arguments are incomprehensible. I have done my best to describe his positions. Many of them overlap.
+[26] This appears to be a reference to the name which would appear on a taxpayer's driver's licence or similar documents. The suggestion is not that the taxpayer is someone else but rather that the taxpayer and the “legal name” are two distinct entities. This splitting of identities is a classic organized pseudo-legal commercial argument.
+[27] The reliance on certified copies of documents and, in particular of legislation, is another classic organized pseudo-legal commercial argument.
+[28] The tenth commandment prohibits coveting your neighbour's property.
+[29] Bekkerus; Heroux; Track; and Mazo. Ms. Track was not present the first time her trial was called for hearing. I was concerned that she might be being duped by Mr. Shannon so I adjourned the trial and ordered that she must attend on the new date. Ms. Mazo was not planning on attending her trial. On my instructions, the Registry contacted her and insisted that she be present.
+[30] Chaudhry; Hernandez; Track and Mazo. Even when Ms. Mazo did attend her hearing, Mr. Shannon indicated that he was not planning on calling her as a witness. Although Ms. Track was no longer in the courtroom when her appeal was called, Mr. Shannon had previously indicated that he was not intending to call her as a witness.
+[31] All appeals
+[32] I had previously read the decision but, even if I had not, I would have been quite certain that Justice Ouimet had not ruled that the Court’s jurisdiction was limited to appeals of tax assessments issued against people living on federal Crown lands.

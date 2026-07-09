@@ -1,0 +1,258 @@
+---
+title: "Vigeant c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29234/index.do"
+last_modified: "2009-05-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 143"
+citation2: ""
+neutral_citation: "2009 CCI 143"
+decision_date: "2009-05-21"
+language: "fr"
+item_id: "29234"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7035
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:53:59.053000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6f268b762f2da6dacd88828c0838ead809330d995b321aae233e7f57fb0e459e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vigeant c. La Reine
+
+- Citation: 2009 CCI 143
+- Decision date: 2009-05-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7035, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vigeant c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-21
+Référence neutre
+2009 CCI 143
+Numéro de dossier
+2007-2286(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2286(IT)G
+ENTRE :
+BERNARD VIGEANT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 19 et 20 janvier 2009 à Québec (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu (Loi) pour l'année d'imposition 1998 est accueilli et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis que la pénalité doit être annulée.
+Les appels des cotisations établies en vertu de la Loi relativement aux années d'imposition 1999 et 2000 sont rejetés. L’intimée a droit aux deux-tiers des dépens.
+Signé à Ottawa, Canada, ce 21e jour de mai 2009.
+Pierre Archambault
+Juge Archambault
+Référence : 2009 CCI 143
+Date : 20090521
+Dossier : 2007-2286(IT)G
+ENTRE :
+BERNARD VIGEANT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Monsieur Bernard Vigeant interjette appel de cotisations établies par le ministre du revenu national (ministre) à l’égard des années d’imposition 1998, 1999 et 2000. Le ministre a ajouté aux revenus de monsieur Vigeant des revenus additionnels déterminés selon la méthode indirecte de calcul des revenus appelée méthode de « l’écart par avoir net » (méthode de l’avoir net).
+[2] Les montants déterminés par cette méthode sont de 29 381,63 $ pour 1998, de 96 955,83 $ pour 1999 et de 55 352,80 $ pour l’année 2000. Sur ces montants, le ministre a soustrait des montants représentant des redressements précis, soit à l’égard de certains revenus ou de dépenses refusées. Le solde constitue des revenus d’entreprise non déclarés, auxquels une pénalité a été appliquée en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu (Loi). Les revenus non déclarés s’élèvent à 6 512,99 $ pour 1998, à 74 548,53 $ pour 1999 et à 41 043,92 $ pour 2000. Dans son avis d’appel, monsieur Vigeant attaque certains calculs de l’avoir net effectués par le ministre. En particulier, il se plaint que le ministre n’ait pas tenu compte de certains biens personnels dont il a hérité et de dons qu’il aurait reçus de son père avant le décès de celui-ci. Il conteste également la proportion de l’utilisation de certains biens aux fins d’affaires et celle de leur utilisation aux fins personnelles, établies pour le calcul de certaines dépenses, comme les dépenses d’automobile, les frais téléphoniques, les frais de service Internet, les frais postaux et les frais de déplacement.
+Contexte factuel
+[3] Pour établir les nouvelles cotisations, le ministre a tenu pour acquis certains faits qui sont énoncés au paragraphe 23 de la réponse à l’avis d’appel. Je les reproduis ici :
+a) en tout temps pertinent entre 1997 et 2001, l’appelant a œuvré comme chiropraticien; (nié[1])
+b) entre 1997 et 2001, l’appelant a opéré à titre personnel la Clinique chiropratique de la Rive-Sud, à Saint-Nicolas; (admis)
+c) entre 1997 et le 31 mars 2000, l’appelant a opéré à titre personnel la Clinique chiropratique de Saint-Prosper, à Saint-Prosper; (admis)
+d) entre le 8 février 1998 et le 31 octobre 1999, l’appelant a dirigé les opérations de la Chiro-Clinique Rive-Sud, à Longueuil, propriété de la société Les Entreprises Dumavi inc.; (admis)
+e) entre le 8 février 1998 et le 31 octobre 1999, l’appelant était le président et l’actionnaire unique de la société Les Entreprises Dumavi inc.; (admis)
+f) les revenus des cliniques proviennent des traitements chiropratiques, des examens chiropratiques, des radiographies ainsi que de la vente d’oreillers orthopédiques; (admis)
+g) l’appelant a déclaré un revenu total de 51 506 $ pour l’année 1998, de 83 343 $ pour l’année 1999 et de 71 995 $ pour l’année 2000; (ignoré)
+h) suite au décès de son père le 7 février 1998, l’appelant a reçu en 1998 un héritage d’une valeur de 421 836 $; (admis)
+i) en 1998, l’appelant a gagné un montant de 25 000 $ à la loterie; (admis)
+j) à la suite des cotisations initiales et des nouvelles cotisations qui ne sont pas en litige, le revenu total de l’appelant a été établi à 56 740 $ pour l’année 1998 et à 83 341 $ pour l’année 1999; (ignoré)
+Vérification par avoir net
+k) entre 1997 et 2001, aucun compte bancaire n’était désigné spécifiquement pour la Clinique chiropratique de la Rive-sud, à Saint-Nicolas; (admis)
+l) le ministre a procédé à une vérification de l’appelant par la méthode de l’écart par avoir net; (admis)
+m) l’appelant avait un avoir net de 239 454 $ au 31 décembre 1997, de 746 780 $ au 31 décembre 1998, de 779 417 $ au 31 décembre 1999 et de 811 407 $ au 31 décembre 2000, le tout tel qu’étayé au tableau intitulé « Bilan personnel » et aux feuilles explicatives y afférentes joints comme annexe A afin de faire partie intégrante de la présente; (nié)
+n) l’appelant a encouru des dépenses personnelles de 24 132 $ pour l’année 1998, de 55 496 $ pour l’année 1999 et de 65 245 $ pour l’année 2000, le tout tel qu’étayé aux feuilles de dépenses personnelles jointes comme annexe B afin de faire partie intégrante de la présente; (nié)
+o) le revenu total par avoir net de l’appelant était de 86 121 $ pour l’année 1998, de 180 296 $ pour l’année 1999 et de 127 347 $ pour l’année 2000, le tout tel qu’étayé au tableau intitulé « Calcul de l’écart par avoir net » joint comme annexe C afin de faire partie intégrante de la présente; (nié)
+p) l’écart par avoir net de l’appelant était de 29 381 $ pour l’année 1998, de 96 955 $ pour l’année 1999 et de 55 352 $ pour l’année 2000; (nié)
+q) ces écarts sont notamment composés de revenus d’entreprise non déclarés de 6 513 $ pour l’année 1998, de 74 549 $ pour l’année 1999 et de 41 044 $ pour l’année 2000; (nié)
+r) la balance de chaque écart par avoir net, soit le montant de 22 868 $ pour l’année 1998, de 22 407 $ pour l’année 1999 et de 14 308 $ pour l’année 2000 s’expliquent par des redressements spécifiques tel qu’étayé au tableau intitulé « Analyse de l’écart par avoir net » joint comme annexe D afin de faire partie intégrante de la présente; (nié)
+Redressements spécifiques
+s) en 1999, l’appelant a reçu un revenu de fiducie au montant de 4 997 $, qu’il n’a pas inclus dans le calcul de son revenu; (ignoré)
+t) en 1999, l’appelant a encouru une perte en capital de 2 456 $ suite à la disposition de placements provenant de la succession de son père, qu’il n’a pas déclaré [ sic ]; (ignoré)
+u) en 2000, l’appelant a encouru une perte en capital de 7 987 $ suite à la disposition de placements provenant de la succession de son père, qu’il n’a pas déclaré [ sic ]; (ignoré)
+Amortissement de la catégorie 10
+v) en 1998, l’appelant a disposé d’une automobile BMW 318IS 1994 pour un montant de 14 000 $ et il ne l’a pas considéré dans le calcul de sa déduction pour amortissement de 1998; (admis)
+w) l’automobile BMW 318IS 1994 était le seul bien amortissable de l’appelant dans la catégorie 10;
+x) la fraction non amortie du coût en capital de la catégorie 10 au 31 décembre 1997 était de 11 556 $; (admis)
+y) l’appelant a réclamé une déduction pour amortissement de 1 733 $ en 1998 à l’égard de la catégorie 10; (admis)
+z) en 1998 l’appelant n’avait droit à aucune déduction pour amortissement à l’égard de l’auto BMW 318IS 1994; (admis)
+aa) la disposition de l’automobile BMW 318IS 1994 a donné lieu à une récupération d’amortissement de 2 444 $; (admis)
+Amortissement de la catégorie 10.1
+bb) en 1997, l’appelant a acquis un véhicule Mercedes ML 320 1998 pour un montant de 55 000 $; (admis)
+cc) le véhicule Mercedes ML 320 1998 de l’appelant est un bien amortissable de la catégorie 10.1; (admis)
+dd) pour chacune des années 1998, 1999, et 2000 l’appelant a utilisé le véhicule Mercedes ML 320 1998 pour fin d’affaires dans une proportion ne dépassant jamais 50%; (nié)
+ee) l’appelant a réclamé une déduction pour amortissement à l’égard de la catégorie 10.1 de 4 037 $ pour l’année 1998, de 6 864 $ pour l’année 1999 et de 4 804 $ pour l’année 2000; (ignoré)
+ff) l’appelant ne pouvait pas réclamer une déduction pour amortissement à l’égard de la catégorie 10.1 supérieure à 2 137 $ en 1998, à 3 632 $ en 1999 et à 2 314 $ en 2000; (nié)
+Triax Resource Limited Partnership
+gg) à l’égard de l’année 1999, l’appelant a reçu un feuillet fiscal (T5013) de la société de personnes Triax Resource Limited Partnership qu’il n’a pas déclaré; (ignoré)
+hh) en 1999, l’appelant a encouru une perte d’entreprise de 509 $ attribuable à sa participation dans la société de personnes Triax Resource Limited Partnership; (ignoré)
+ii) en 1999, l’appelant a réalisé un gain en capital de 2 456 $ attribuable à sa participation dans la société de personnes Triax Resource Limited Partnership [;] (ignoré)
+Nesbitt Burns
+jj) en 1998, l’appelant n’a pas déclaré un gain en capital de 5 357 $ réalisé en raison de ses placements chez Nesbitt Burns; (ignoré)
+kk) à l’égard de l’année 1999, l’appelant a reçu un feuillet fiscal (T5) de Nesbitt Burns qu’il n’a pas déclaré; (ignoré)
+ll) en 1999, l’appelant n’a pas déclaré un revenu de dividendes de 1 674 $, à l’égard de ses placements chez Nesbitt Burns; (ignoré)
+mm) en 1999, l’appelant n’a pas déclaré un revenu d’intérêts de 440 $, à l’égard de ses placements chez Nesbitt Burns; (ignoré)
+Amortissement de la catégorie 8
+nn) pendant l’année 2000, l’appelant a disposé de biens amortissables de catégorie 8 pour un montant de 20 000 $, soit des équipements de la Clinique chiropratique de Saint-Prosper et il n’a pas comptabilisé cette disposition dans le calcul de sa déduction pour amortissement de 2000; (admis)
+oo) l’appelant a réclamé une déduction pour amortissement de 5 941 $ en 2000 à l’égard de la catégorie 8, soit moins de 20% de la fraction non amortie du coût en capital déclaré de 30 073 $; (ignoré)
+pp) en 2000, l’appelant ne pouvait pas réclamer une déduction pour amortissement à l’égard de la catégorie 8 supérieure à 2 015 $; (ignoré)
+Dépenses d’entreprise refusées
+qq) en 1998, l’appelant a réclamé des dépenses d’entreprise au montant de 124 384 $;
+rr) parmi les dépenses de 1998 le montant de 12 774 $ constitue des frais personnels qui comprennent notamment des frais de repas, des frais d’hébergement, des achats de médicaments, des dépenses de bateau, des frais de téléphone résidentiel, des frais de téléphone cellulaire, des frais de poste, des frais d’automobiles et d’autres dépenses de nature personnelle; (ignoré)
+ss) en 1999, l’appelant a réclamé des dépenses d’entreprise au montant de 145 054 $; (ignoré)
+tt) parmi les dépenses de 1999 le montant de 12 154 $ constitue des frais personnels qui comprennent notamment des frais de repas, des frais d’hébergement, des achats de médicaments, des dépenses de bateau, des frais de téléphone résidentiel, des frais de téléphone cellulaire, des frais de poste, des frais d’automobiles et d’autres dépenses de nature personnelle; (ignoré)
+uu) en 2000, l’appelant a réclamé des dépenses d’entreprise au montant de 84 192 $;
+vv) parmi les dépenses de 2000 le montant de 13 218 $ constitue des frais personnels qui comprennent notamment des frais de repas, des frais d’hébergement, des achats de médicaments, des dépenses de bateau, des frais de téléphone résidentiel, des frais de téléphone cellulaire, des frais de poste, des frais d’automobiles et d’autres dépenses de nature personnelle;
+ww) pour chacune des années d’imposition en litige, l’appelant a réclamé 90% de ses dépenses automobiles;
+xx) pour chacune des années d’imposition en litige, l’appelant a utilisé ses véhicules pour fin d’affaires dans une proportion ne dépassant jamais 50%.
+[4] Pour justifier les pénalités, le ministre a énoncé au paragraphe 24 de la réponse à l’avis d’appel les faits suivants :
+a) les faits énoncés au paragraphe 23 ci-dessus;
+b) quotidiennement, les employés des cliniques chiropratiques dressaient un rapport sur lequel figurait le nom de chaque patient et les montants encaissés afin de balancer l’encaisse des cliniques; (admis)
+c) les montants encaissés ainsi que les rapports quotidiens étaient remis à l’appelant en fin de journée; (admis, sauf pour période de congé de maladie)
+d) l’appelant a été l’objet de mandats de perquisition qui ont été exécutés le 15 juin 2004; (admis)
+e) aucun rapport quotidien, ni livre de reçus, n’a été retrouvé à la suite des perquisitions; (ignoré)
+f) l’appelant n’a pas transmis de rapport quotidien ou de livre de reçus aux agents du ministre; (admis)
+g) l’état des revenus et dépenses combiné des cliniques de Saint-Prosper et de Saint-Nicolas a été dressé à partir d’une feuille sommaire manuscrite remise par l’appelant à son comptable; (admis)
+h) le seul registre comptable tenu par l’appelant était un livre à colonne dans lequel les achats et dépenses d’entreprise étaient manuellement inscrits; (admis)
+i) l’appelant n’a pas conservé de registre des revenus bruts des cliniques de Saint-Nicolas et de Saint-Prosper; (ignoré)
+j) une perquisition à la résidence de l’appelant a révélé qu’il avait conservé des feuillets de renseignements fiscaux dans une boîte identifiée « Impôt 1999 » qu’il n’avait pas déclarés; (ignoré)
+k) l’appelant connaissait le contenu de ses déclarations de revenus; (ignoré)
+l) l’appelant a signé ses déclarations de revenus des années d’imposition 1998 et 2000; (admis)
+m) les revenus non déclarés sont importants par rapport aux revenus déclarés; (nié)
+n) pendant les années d’imposition 1998 à 2000, l’appelant avait un niveau de vie incompatible aux revenus déclarés; (nié)
+o) l’appelant avait connaissance de revenus qu’il ne déclarait pas. (nié)
+Analyse
+[5] Il est important de mentionner que le ministre a établi ses cotisations en dehors de la période normale de nouvelle cotisation. Par conséquent, il lui incombait d’établir que monsieur Vigeant avait fait une présentation erronée des faits par négligence, inattention ou omission volontaire. Bien évidemment, le ministre avait aussi le fardeau d’établir les faits justifiant l’application de la pénalité en vertu du paragraphe 163(2) de la Loi[2]. J’ai eu à traiter des règles applicables à cet égard ainsi que de celles applicables aux cotisations selon l’avoir net dans l’affaire Léger c. La Reine, 2001 DTC 471, [2003] 1 C.T.C. 2437. Voici ce que j’ai écrit :
+Fardeau de la preuve
+[13] Tout d'abord, il faut traiter du fardeau de la preuve qui incombe à monsieur Léger dans ses appels. Mon collègue le juge Tardif a eu l'occasion de traiter du fardeau de la preuve dans une affaire soulevant, comme c'est le cas ici, la question de l'application de la méthode de l'avoir net.
+[14] Dans l'affaire Bastille c. Sa Majesté la Reine, 99 DTC 431 ([1999] 4 C.T.C. 2155), il écrit aux paragraphes 5 et suivants:
+[5] Il m'apparaît important de rappeler qu'en cette matière, le fardeau de la preuve incombe aux appelants, à l'exception toutefois de la question des pénalités où le fardeau de preuve est imputable à l'intimée.
+[6] Une cotisation établie en vertu de la formule AVOIR NET ne peut jamais découler de la rigueur mathématique souhaitée et souhaitable en matière de cotisation. Il y a généralement une certaine partie d'arbitraire provenant de la détermination de la valeur des composantes. Le Tribunal doit décider de la raisonnabilité de cet arbitraire.
+[7] Le recours à ce procédé n'est d'ailleurs pas la règle. Il constitue en quelque sorte une exception utilisée dans les situations où le contribuable n'a pas en sa possession toutes les informations, documents et pièces justificatives pour permettre une vérification plus conforme aux règles de l'art et surtout plus précise quant au résultat.
+[8] Les assises ou fondements des calculs élaborés dans le cadre d'un avoir net sont tributaires en très grande partie des informations transmises par le contribuable faisant l'objet de la vérification.
+[9] La qualité, la vraisemblance, la raisonnabilité des informations ont donc une importance absolument fondamentale.
+[15] Un autre de mes collègues, le juge Bowman, tenait les propos suivants dans l'affaire Ramey c. la Reine, [1993] A.C.I. no 142 (QL) ([1993] 2 C.T.C. 2119, 93 DTC 791), au paragraphe 6:
+Je ne sous-estime pas les difficultés énormes, sinon pratiquement insurmontables, auxquelles l'appelant et son avocat se heurtent dans leur tenttive [sic] de contester les cotisations d'actif net établies à l'égard d'un contribuable décédé. Estimer le revenu annuel d'un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C'est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d'actif net repose sur une comparaison de l'actif net du contribuable, à savoir la valeur de l'actif moins le passif au début d'une année, avec son actif net à la fin de l'année. À la différence ainsi obtenue, on ajoute les dépenses qu'il a engagées pendant l'année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu'à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l'année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d'actif net s'impose est souvent l'artisan de son propre malheur.
+[16] Dans ces appels, seul monsieur Léger a témoigné à l'appui de sa position et, pour l'intimée, la vérificatrice qui était à l'origine des cotisations a témoigné. Dans l'appréciation de la preuve fournie par monsieur Léger, il est nécessaire de commenter l'omission de faire comparaître certains témoins qui auraient pu confirmer les affirmations de monsieur Léger. Dans l'affaire Huneault c. la Reine, 98 DTC 1488, ma collègue la juge Lamarre rappelle à la page 1491 certains propos que tiennent les auteurs Sopinka et Lederman dans leur livre The Law of Evidence in Civil Cases et qui sont cités par le juge Sarchuk de notre cour dans l'affaire Enns v. M.N.R. , 87 DTC 208, à la page 210:
+Dans l'ouvrage de Sopinka et Lederman, The Law of Evidence in Civil Cases, les auteurs font remarquer ce qui suit au sujet des conséquences de l'omission de faire comparaître un témoin, je cite:
+Dans l'affaire Blatch v. Archer, (1774) 1 Cowp 63, à la p. 65, Lord Mansfield a déclaré:
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l'une des parties était en mesure de produire et que l'autre partie était en mesure de réfuter.
+L'application de ce principe a conduit à établir une règle bien connue selon laquelle l'omission d'une partie ou d'un témoin de produire une preuve que la partie ou le témoin était en mesure de produire et qui aurait peut-être permis d'élucider les faits, fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l'omission a été attribuée.
+Dans le cas d'un demandeur auquel il incombe d'établir un point, l'effet de cette déduction peut être que la preuve produite sera insuffisante pour s'acquitter du fardeau de la preuve. (Lévesque et al. c. Comeau et al. [1970] R.C.S. 1010, (1971), 16 D.L.R. (3e) édition 425.)
+[Je souligne.]
+[6] La procureure de l’intimée a cité les paragraphes 29 à 33 de la décision rendue par la Cour d’appel fédérale sous la plume du juge Pelletier dans l’affaire Lacroix c. Sa Majesté la Reine, 2008 A.C.F. no 1092 (QL), 2008 CAF 241 :
+29 Ce dernier passage met en relief la dialectique propre à certaines nouvelles cotisations par l'application de la méthode de l'avoir net. En l'instance, le ministre constate un revenu non déclaré qu'il demande au contribuable de justifier. Celui-ci fournit une explication que ni le ministre ni la Cour canadienne de l'impôt ne jugent crédible. Il n'y a donc pas d'hypothèse viable et raisonnable qui pourrait porter le décideur à accorder le bénéfice du doute au contribuable. La seule hypothèse offerte est jugée non crédible.
+30 Les faits en preuve, dans un tel cas, sont que la déclaration de revenu du contribuable fait une présentation erronée des faits et que la seule explication offerte par le contribuable est jugée non crédible. Évidemment, il doit y avoir une autre explication pour ce revenu. Il faut donc conclure que le contribuable a une source de revenu qu'il n'a pas déclarée, qu'il est au courant de cette source et qu'il refuse de la divulguer puisque les explications qu'il a offertes n'ont pas été jugées crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalant à faute lourde me semble inéluctable. Cela justifie non seulement l'imposition d'une pénalité mais aussi l'établissement de la nouvelle cotisation hors de la période statutaire.
+31 Le paragraphe 20 des motifs du juge Bédard, cité ci-dessus, fait état de cette situation précise, ce qui justifie amplement ses conclusions quant aux pénalités et à la nouvelle cotisation hors de la période statutaire.
+32 Qu'en est-il alors du fardeau du ministre? Comment s'en acquitte-t-il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l'état d'esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu'il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l'impôt est persuadée que le contribuable touche un revenu qu'il n'a pas déclaré et que l'explication offerte par le contribuable pour l'écart constaté entre son revenu déclaré et l'accroissement de son actif est non crédible, le ministre s'est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3).
+33 Comme le dit si bien le juge Létourneau dans Molenaar c. Canada, 2004 CAF 349, 2004 D.T.C. 6688, au paragraphe 4 :
+4. À partir du moment où le ministère établit selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d'un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. Il appartient alors au contribuable d'identifier la source et d'établir la nature non imposable de ses revenus.
+[Je souligne.]
+[7] Je cite également les propos du juge Tardif dans la décision Ruest c. Canada, [1999] A.C.I. no 586 (QL) :
+27 Les cotisations ayant résulté de l'écart constaté entre les revenus et dépenses en corrélation avec le capital ou les actifs, la justification desdits écarts devenait la responsabilité exclusive de l'appelant. Pour convaincre le Tribunal, il devait, au moyen d'une preuve prépondérante, établir la vraisemblance, la raisonnabilité, la justesse et la cohérence de ses prétentions. Il ne suffisait pas de critiquer et soulever certains griefs mineurs pour conclure que tout balançait, grâce au montant reçu à un certain moment donné.
+28 Il s'agissait peut-être là d'un travail colossal nécessitant beaucoup de travail, j'en conviens, mais il faut cependant rappeler que le contribuable cotisé par "avoir net" a lui-même été l'artisan de la façon dont il a été cotisé, en ce qu'il a lui-même choisi délibérément, sciemment de ne pas avoir de comptabilité et de ne tenir aucunement compte de ses revenus et dépenses.
+[Je souligne.]
+[8] Avant d’aborder de façon plus détaillée certaines des questions en litige dans ces appels, des commentaires généraux s’imposent quant à la valeur probante de la preuve présentée par monsieur Vigeant.
+[9] Seulement monsieur Vigeant a témoigné. Il n’a pas assigné d’autre témoin pour venir corroborer ses dires. Il existe des contradictions importantes entre la preuve qu’il a présentée devant la Cour et celle qu’il a fournie au ministre. Notamment, dans une lettre envoyée par télécopie (télécopie) le 15 décembre 2006 au Service des oppositions du ministre, monsieur Vigeant déclare qu’il a reçu de son père deux dons de 40 000 $ chacun, l’un le 20 octobre 1997 et l’autre à Noël 1997 (pièce I‑1, onglet 13). De toute évidence, ce document est écrit de la main de monsieur Vigeant. Il a réitéré la même affirmation dans son avis d’appel aux paragraphes 6 et 7. Par contre, le 16 février 2005, lors d’une rencontre au ministère avec l’enquêteuse, madame Nadeau, ainsi qu’avec le chef d’équipe de celle-ci, il a affirmé que les dons faits en octobre et en décembre 1997 s’élevaient chacun à 10 000 $, soit un total de 20 000 $. Lors de son témoignage devant la Cour, monsieur Vigeant a présenté une toute autre version : il a indiqué qu’il avait reçu deux dons de 20 000 $ chacun.
+[10] Pour établir que le ministre n’avait pas tenu compte, aux fins du calcul de l’avoir net, de certains biens qu’il possédait, notamment des biens acquis par héritage de sa sœur ou de son père, monsieur Vigeant a déposé un sommaire (sommaire) de biens dont il aurait disposé en 1998, en 1999 et en 2000 avec indication du produit de disposition dans chaque cas (pièce A-1, P-3). Ce document a été préparé par monsieur Vigeant pour être remis à la Cour. Il ne constitue pas une preuve de la disposition de ces biens ni du produit de disposition. Le sommaire indique notamment la vente, pour un montant de 4 500 $, d’un piano reçue de sa sœur, mais ne précise pas la date. Or, le montant qu’il avait indiqué sur la télécopie du 15 décembre 2006 était de 4 000 $.
+[11] Sur le sommaire, il indique une disposition de meubles pour un montant de 5 000 $, sans en mentionner la date, alors que, sur la télécopie, il indique une valeur de 8 000 $. Lors de son contre-interrogatoire, il a indiqué qu’il avait oublié 3 000 $ reçus pour du mobilier de chambre à coucher. De la même façon, il justifie par un oubli l’écart de 500 $ existant entre le montant de 3 500 $ indiqué sur le sommaire pour des outils électriques et celui de 4 000 $ apparaissant sur la télécopie. Il existe un autre écart relatif à la valeur d’un dinghy (avec moteur) provenant de la succession de son père, indiquée à 6 000 $ sur le sommaire et à 5 500 $ sur la télécopie, soit un écart de 500 $.
+[12] Ces contradictions dans les différents témoignages ou différentes preuves documentaires de monsieur Vigeant illustrent bien que la mémoire peut nous jouer de bien mauvais tours lorsqu’on ne prend pas soin de garder les pièces justificatives ou qu’on ne les produit pas en Cour pour corroborer ses dires.
+[13] À l’égard des biens dont la valeur totale indiquée sur le sommaire s’élève à 55 000 $, monsieur Vigeant n’a aucun document pouvant corroborer la vente de ces biens et le produit de disposition. Les ventes se seraient effectuées en espèces. Il en est de même en ce qui a trait aux dons totalisant 40 000 $ effectués par son père avant son décès, puisque ces sommes lui auraient été remises en espèces, sans aucun témoin, et monsieur Vigeant ne les aurait déposées dans aucun compte bancaire. Par conséquent, il est impossible de confirmer la version de monsieur Vigeant.
+[14] Ajoutons qu’au bilan successoral du père de monsieur Vigeant, on indique 26 000 $ comme valeur du legs particulier fait à monsieur Bernard Vigeant, legs se composant de « livres, outils, ordinateur et accessoires, 2 peintures ou aquarelles de son choix, bateaux et moteur, droits à la marina Club Nautique de Longueuil » (pièce I-1, onglet 10.50, à la page 10.) Or, le bateau a été vendu le 3 juillet 1998 pour un montant de 33 000 $ (voir pièce I-1, onglet 10.23). Toujours selon le bilan successoral, la valeur de ce bateau au 7 février 1998 s’élève à 25 000 $ (voir pièce I‑1, onglet 10.50, page 8). Par conséquent, cela ne laisse qu’une valeur de 1 000 $ pour tous les autres biens. Voilà qui permet de douter sérieusement qu’il y ait eu un produit de disposition de 6 000 $ pour le dinghy et de 3 500 $ pour les outils électriques.
+[15] Il existe un autre exemple de la mémoire vacillante de monsieur Vigeant. En effet, dans son témoignage, ce dernier a affirmé qu’il n’avait pas engagé durant la période pertinente, notamment en 2000, de dépenses à l’égard de l’utilisation de son bateau — dont le coût d’achat s’était élevé à 155 000 $ — parce qu’il était en cale sèche. Lorsque l’enquêteuse a témoigné et qu’elle a été en mesure de relater l’existence de nombreuses dépenses d’essence, notamment l’achat, à Cap‑à‑l’Aigle, de 442 litres d’essence pour une somme de 389 $, monsieur Vigeant a reconnu qu’il est possible que son bateau n’ait été en cale sèche qu’en 2001, soit une année qui est subséquente à la période pertinente.
+[16] Si le ministre a dû procéder à la détermination du revenu de monsieur Vigeant par la méthode de l’avoir net, c’est en raison du manque de registres comptables pour l’entreprise professionnelle de monsieur Vigeant. En effet, le seul livre comptable tenu par monsieur Vigeant est un livre en huit colonnes dans lequel sont indiqués les achats et les dépenses de son entreprise. Par contre, il ne tenait aucun livre semblable pour les revenus de l’entreprise. Selon ce qui ressort du rapport préparé par l’enquêteuse, monsieur Vigeant a affirmé avoir établi les revenus en fonction des reçus qu’il remettait aux patients de sa clinique. Or, monsieur Vigeant n’a été en mesure de fournir aucun reçu lors de la vérification et de l’enquête.
+[17] En outre, seulement le chiffre total des revenus bruts était communiqué par monsieur Vigeant à son comptable. Ce dernier n’était donc pas en mesure de vérifier l’exactitude et la provenance de ces revenus. D’anciens employés de la clinique de monsieur Vigeant ont indiqué, lors de l’enquête du ministre, avoir préparé un rapport journalier sur lequel figurait le nom de chaque patient et le montant payé pour le traitement. Ce rapport était balancé avec la caisse par l’adjointe de monsieur Vigeant. Les rapports journaliers et les recettes étaient remis à monsieur Vigeant à la fin de la journée. Il n’existe aucun livre comptable dans lequel étaient consignées ces données.
+[18] Pour justifier le défaut de production des rapports journaliers, monsieur Vigeant a indiqué qu’il les avait perdus par suite d’un refoulement des eaux d’égout survenu en décembre 1999, un mois après la délivrance de sa nouvelle résidence située sur le chemin Marie-Victorin à Saint-Nicolas. Lorsque je lui ai demandé s’il avait quelque preuve que ce soit pour établir le refoulement des eaux d’égouts ainsi que la perte de ces documents de l’entreprise professionnelle, monsieur Vigeant a dit qu’il n’avait aucune facture ni aucune réclamation faite auprès de son assureur relativement au dégât. Il n’avait qu’un chèque de 115,02 $ en date du 23 décembre 1999 payable à Net Plus inc. (pièce A‑1, P‑1.). Sur ce chèque, il n’y a aucune explication, sauf la mention du chiffre 12269. Il n’a fourni aucune facture de l’entreprise Net Plus pour établir le service ou le bien qui aurait pu être fourni en contrepartie de la somme en question.
+[19] En outre, monsieur Vigeant a indiqué qu’il avait dû remplacer une partie du placoplâtre installé dans son sous-sol. Pour justifier le manque de facture, il a indiqué qu’il avait effectué une partie du travail lui-même. Par contre, lorsque monsieur Vigeant a tenté d’établir qu’il avait été en congé de maladie en raison d’une déchirure du rotateur de l’épaule en décembre 1999 et qu’il avait dû engager un chiropraticien pour le remplacer, il a produit le contrat d’engagement. Le contrat est en date du 23 décembre 1999. Or, cette date correspond à celle du chèque pour le prétendu service de nettoyage de Net Plus. Il est difficile d’imaginer comment monsieur Vigeant aurait pu participer activement au nettoyage du dégât causé par un refoulement des eaux d’égout dans l’état où il était.
+[20] Quand je lui ai demandé s’il avait des pièces comptables pour justifier son calcul de ses revenus professionnels pour la période subséquente aux dégâts survenus en décembre 1999 — puisque l’année 2000 est en litige —, il m’a indiqué qu’il y avait eu un autre dégât en décembre 2000. À l’égard de ce deuxième dégât non plus, il n’avait aucune preuve, comme une réclamation faite à sa société d’assurance. Il est troublant que monsieur Vigeant ait subi un deuxième dégât qui justifierait, dit-il, l’absence des rapports journaliers des recettes alors que le registre des achats était disponible. En outre, la perquisition effectuée le 15 juin 2004 a permis de trouver dans la chambre des maîtres une boîte de Bernard Vigeant marquée « impôt 1999 » dans laquelle on a trouvé des feuillets préparés par Nesbitt Burns, dont, notamment, un T-5 faisant état de revenus que monsieur Vigeant n’a pas déclarés dans sa déclaration de revenus (voir pièce I‑1, onglet 9, page 4).
+[21] On ne peut que constater que monsieur Vigeant est, au moins en partie, l’artisan de son propre malheur. En effet, n’ayant pas tenu de registres comptables relativement à ses recettes brutes provenant des différentes cliniques, il lui était presque impossible d’attaquer la cotisation du ministre. Comme le disait le juge Bowman dans l’affaire Ramey, au paragraphe 15 :
+[…] Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l’année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d’actif net s’impose est souvent l’artisan de son propre malheur.
+[Je souligne.]
+[22] En raison des nombreuses failles du témoignage de monsieur Vigeant, il est difficile de lui accorder une grande valeur probante et de s’en servir pour justifier des modifications aux calculs du ministre. En outre, il faut le souligner, les calculs effectués par l’enquêteuse pour établir les revenus de monsieur Vigeant selon la méthode de l’avoir net ne l’ont pas été selon les règles de l’art. En effet, au lieu d’obtenir de monsieur Vigeant des renseignements permettant d’établir son coût de vie et de le comparer avec les statistiques gouvernementales, l’enquêteuse s’est limitée à n’inclure dans son coût de vie que les dépenses pour lesquelles elle avait des pièces justificatives, notamment des dépenses personnelles déduites dans le calcul du revenu professionnel de monsieur Vigeant. Elle croyait cette approche justifiée parce que son travail visait à établir une fraude criminelle et qu’elle voulait se limiter à des chiffres étayés par des éléments de la preuve. Elle a donc sous‑estimé le coût de vie de monsieur Vigeant.
+[23] Pour illustrer cet état de fait, mentionnons que le total des frais annuels d’épicerie et de restaurant, selon l’enquêteuse, s’élève à 1 264 $ pour 1998, à 761 $ pour 1999 et à 1 132 $ pour 2000. Le coût annuel du logement — notamment le loyer, les frais reliés à l’entretien de la propriété et les assurances — établi par l’enquêteuse s’élève à 1 166 $ pour 1998, dont 705 $ sont des dépenses d’hôtel payées par l’entreprise professionnelle de monsieur Vigeant! Quant à l’année 1999, sur un montant de 18 779 $, 15 465 $ représentent des dépenses de capital relatives à l’acquisition de sa nouvelle résidence ou des dépenses de voyage. Ainsi, seulement 3 314 $ pourraient représenter des frais de propriété. Le coût du logement pour 2000 est plus raisonnable puisqu’il s’élève à un total d’environ 10 250 $. Par ailleurs, le calcul du coût de vie de monsieur Vigeant ne comprend que des montants très minimes (souvent rien) aux postes des soins personnels, des divertissements, des journaux, revues et livres, de l’éducation, du tabac et de l’alcool, de l’assurance-vie, des cadeaux et des dons. Au poste des vêtements, seulement une somme de 448 $ apparaît pour 1998, rien pour 1999 et 310 $ pour 2000.
+[24] Dans ces circonstances, il est n’est pas justifié, à mon avis, de ne demander des corrections que pour certaines erreurs de calcul possibles du ministre — notamment, en ce qui concerne les frais reliés à l’usage d’une automobile, la proportion correspondant à l’utilisation aux fins d’affaires et celle correspondant à l’utilisation aux fins personnelles — alors que monsieur Vigeant n’a produit aucune preuve pour établir son véritable coût de vie. Un contribuable ne peut pas se contenter de ne demander que la rectification des erreurs qui le désavantagent. Ajoutons que monsieur Vigeant n’a même pas tenté de reconstituer de façon complète son revenu pour les l’années en cause. Pour ces raisons, je n’ai pas été convaincu que le montant de l’impôt établi dans les cotisations est erroné.
+[25] Il faut maintenant traiter de la question de savoir si le ministre était justifié d’établir des cotisations pour la période pertinente étant donné qu’elles ont été établies en dehors de la période normale de nouvelle cotisation. Pour réussir relativement à cette question, le ministre devait établir que monsieur Vigeant avait fait une présentation erronée des faits par négligence, inattention ou omission volontaire. Or, la preuve a amplement démontré que monsieur Vigeant a à tout le moins fait une présentation erronée des faits par négligence ou inattention à l’égard de la période pertinente. Pour l’année 1998, il n’a pas déclaré un gain en capital de 5 357 $ et a réclamé une déduction pour amortissement à l’égard d’un bien qu’il ne possédait plus à la fin de l’année, soit son automobile BMW. Pour 1999, des revenus de 4 997 $ provenant de la succession n’ont pas été déclarés. Il en est de même pour des revenus dont Nesbitt Burns avait fait état sur un T‑5 qui a été trouvé par les enquêteurs lors de la perquisition. Il s’agit notamment de dividendes imposables de 2 093 $ et de revenus d’intérêts de 439 $. À l’égard de chacune des trois années de la période pertinente, monsieur Vigeant a réclamé dans le calcul de son revenu d’entreprise la déduction de dépenses nettement personnelles, notamment des frais de médicaments. Pour 1998, il y a une somme de 300 $ versée à la Paroisse St‑Antoine pour une messe en souvenir de son père et une somme de 215 $ payée au cimetière Côte-des-Neiges. Il y a aussi, pour 1999, des frais d’assurance de 2 220 $ pour sa moto BMW.
+[26] En ce qui a trait aux pénalités, je crois qu’elles sont justifiées à l’égard des années 1999 et 2000 compte tenu de l’importance des sommes déterminées par la méthode de l’avoir net. En ce qui a trait à l’année 1998, l’écart de 6 512 $ m’apparaît beaucoup moins clair. En effet, je crois qu’il faut donner le bénéfice du doute à monsieur Vigeant puisque la méthode de l’avoir net peut être imprécise et il se pourrait que les revenus d’entreprise non déclarés soient presque nuls pour cette année. Par contre, un autre motif pour confirmer les pénalités pour les années 1999 et 2000 est le fait que monsieur Vigeant a fait preuve de faute lourde en n’adoptant pas un système adéquat pour comptabiliser les recettes provenant de son entreprise professionnelle au cours de la période pertinente. De plus, il est troublant de constater que monsieur Vigeant ne détenait pas un compte bancaire distinct pour ses activités professionnelles à Saint‑Nicolas. Son compte bancaire servait tant à ses activités professionnelles qu’à ses opérations personnelles. Il y a dans le comportement de monsieur Vigeant un désintérêt total en ce qui concerne la prise des mesures nécessaires pour s’assurer de l’intégrité des données financières relatives à son entreprise professionnelle. J’ai pris connaissance du rapport recommandant l’imposition de pénalités et la réouverture des années prescrites. Sauf pour ce qui est de la pénalité pour l’année 1998, je crois que ce rapport justifie amplement les conclusions adoptées par l’enquêteuse.
+[27] Pour tous ces motifs, l’appel de monsieur Vigeant à l’égard de 1998 est accueilli et la cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation en tenant pour acquis que la pénalité doit être annulée. Les appels relatifs aux années 1999 et 2000 sont rejetés. L’intimée a droit aux deux-tiers des dépens.
+Signé à Ottawa, Canada, ce 21e jour de mai 2009.
+Pierre Archambault
+Juge Archambault
+RÉFÉRENCE : 2009 CCI 143
+Nº DU DOSSIER DE LA COUR : 2007-2286(IT)G
+INTITULÉ DE LA CAUSE : BERNARD VIGEANT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : les 19 et 20 janvier 2009
+MOTIFS DU JUGEMENT PAR : l'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 21 mai 2009
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Nancy Dagenais
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Monsieur Vigeant reconnait avoir été chiropraticien, mais déclare avoir suspendu ses activités professionnelles pour quelques mois à partir de décembre 1999 en raison d’un problème de santé.
+[2] 163(2) Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50% du total des montants suivants :
+a) l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+(i) l’excédent éventuel de l’impôt qui serait payable par cette personne pour l’année en vertu de la présente loi sur les sommes qui seraient réputées par les paragraphes 120(2) et (2.2) payées au titre de l’impôt de la personne pour l’année, s’il était ajouté au revenu imposable déclaré par cette personne dans la déclaration pour l’année la partie de son revenu déclaré en moins pour l’année qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission et si son impôt payable pour l’année était calculé en soustrayant des déductions de l’impôt payable par ailleurs par cette personne pour l’année, la partie de ces déductions qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission,
+(ii) l’excédent éventuel de l’impôt qui aurait été payable par cette personne pour l’année en vertu de la présente loi sur les sommes qui auraient été réputées par les paragraphes 120(2) et (2.2) payées au titre de l’impôt de la personne pour l’année, si l’impôt payable pour l’année avait fait l’objet d’une cotisation établie d’après les renseignements indiqués dans la déclaration pour l’année;
+[…]
+163(3) Charge de la preuve relativement aux pénalités − Dans tout appel interjeté,
+en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu
+du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui
+justifient l’imposition de la pénalité.
+[Je souligne.]

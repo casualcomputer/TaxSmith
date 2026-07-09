@@ -1,0 +1,480 @@
+---
+title: "Brand c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520977/index.do"
+last_modified: "2022-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 92"
+citation2: ""
+neutral_citation: "2022 CCI 92"
+decision_date: "2022-09-28"
+language: "fr"
+item_id: "520977"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4502
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:03:41.627000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3b62288d4e15ecb057991d370479f9df40a5da1b602738b11b80a2856de5e04a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brand c. Le Roi
+
+- Citation: 2022 CCI 92
+- Decision date: 2022-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4502, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brand c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-09-28
+Référence neutre
+2022 CCI 92
+Numéro de dossier
+2018-4262(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4262(IT)I
+ENTRE :
+STEVE BRAND,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 23 septembre 2021 et le 26 octobre 2021 (séance virtuelle), à Toronto (Ontario)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Avocats de l’appelant :
+Me Boris Stanislav
+Me Leigh Somerville Taylor
+Avocats de l’intimé :
+Me Gerard K. Westland
+Me Craig Maw
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2012 et 2013 est rejeté, sans dépens.
+Le présent jugement modifié remplace le jugement rendu le 12 août 2022.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2022.
+« Susan Wong »
+La juge Wong
+Référence : 2022CCI92
+Date : 20220928
+Dossier : 2018-4262(IT)I
+ENTRE :
+STEVE BRAND,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DU JUGEMENT
+La juge Wong
+Introduction/survol
+[1] La question en litige est de savoir si le ministre du Revenu national a refusé à juste titre les dépenses d’entreprise déclarées par l’appelant pour les années d’imposition 2012 et 2013.
+[2] Le présent appel porte essentiellement sur l’importance de tenir des livres et registres adéquats ou suffisants à des fins fiscales.
+Contexte factuel
+Antécédents professionnels
+[3] L’appelant a eu une longue carrière militaire qu’il a quittée pour prendre sa retraite en 2010, après 40 ans de service dans la Force de réserve [1] . Il a obtenu un diplôme en gestion d’entreprise de véhicules récréatifs et de marina au Sir Sandford Fleming College de Peterborough en 1977 [2] . Il a travaillé dans le domaine de la vente dans l’industrie des sports motorisés (motocyclettes et motoneiges) à partir de 1975 environ, et est devenu directeur commercial de district en 1977. En 1979, il est passé chez Bombardier Inc. en tant que directeur commercial de district pour l’équipement et les véhicules de sports motorisés (motoneiges, motocyclettes, motomarines).
+[4] Il a démissionné de son poste de vendeur salarié vers 1990 et a commencé à travailler comme consultant en développement de produits, également pour Bombardier Inc. Il a fourni ces services d’expert-conseil en tant qu’entrepreneur et a facturé Bombardier sous le nom de Riley Enterprises, qui était son entreprise individuelle établie à cette fin [3] . Pendant les cinq années où il a été expert-conseil pour Bombardier Inc., il a été fortement impliqué dans tous les aspects des courses de motoneiges, depuis les essais des véhicules jusqu’à la direction des courses.
+[5] Vers 1995, il a laissé derrière lui sa carrière d’expert-conseil chez Bombardier pour lancer les activités commerciales de 1181676 Ontario Ltd, faisant affaire sous le nom de Tekrider. Tekrider se spécialise dans les vêtements de sports motorisés de haute performance [4] . L’appelant et sa désormais ex-épouse étaient administrateurs et actionnaires à parts égales jusqu’à leur séparation à la fin de 2012. Aux termes de leur accord de séparation du 14 décembre 2012, l’appelant est devenu administrateur unique et actionnaire à 100 % de la société [5] .
+[6] Il travaille également en tant qu’agent immobilier pour la région des chalets pour le compte de Re/Max Country Living Realty Inc. Brokerage.
+Aperçu des revenus et des dépenses
+[7] Les déclarations T1 de 2012 [6] et de 2013 [7] de l’appelant montrent que son revenu d’entreprise et professionnel est constitué de trois sources : a) à titre d’agent immobilier Steve Brand; b) à titre d’expert-conseil Steve Brand; et c) par l’intermédiaire de Riley Enterprises. Au cours de ces deux années, l’exploitation immobilière a été la seule activité qui a permis de déclarer des revenus bruts, soit 105 607 $ en 2012 [8] et 156 916 $ en 2013 [9] . Les dépenses d’entreprise ont été déduites à la fois au titre de l’exploitation immobilière et de Riley Enterprises, cette dernière ayant entraîné une perte déclarée de 80 214 $ en 2012 [10] et de 56 053 $ en 2013 [11] . Aucun revenu ni aucune dépense n’ont été déclarés au titre de l’activité d’expert-conseil. Pour ces deux années, la déclaration de l’appelant indiquait que le principal produit ou service de Riley Enterprises était le Tekvest [12] qui est un produit Tekrider [13] .
+[8] Le ministre a refusé la totalité des dépenses d’entreprise déclarées dans le cadre l’exploitation de Riley Enterprises, soit 80 214 $ en 2012 et 56 053 $ en 2013. En ce qui concerne l’exploitation immobilière, le ministre a refusé ce qui suit : a) 12 013 $ des 56 871 $ déclarés pour 2012; et b) 18 894 $ des 67 640 $ déclarés pour 2013 [14] . L’annexe A de la réponse est jointe en tant qu’annexe A des présents motifs; elle indique les revenus et les dépenses d’entreprise déclarés par l’appelant par catégorie pour son exploitation immobilière au cours des deux années d’imposition, de même que les montants accordés par le ministre. L’annexe B de la réponse est jointe en tant qu’annexe B des présents motifs; elle montre les dépenses commerciales déclarées par l’appelant par catégorie pour Riley Enterprises au cours des deux années en cause.
+Mouvements de fonds au profit de Tekrider
+[9] L’appelant a expliqué que les dépenses engagées par Riley Enterprises étaient un investissement dans Tekrider, qu’il comptait faire croître dans l’espoir que celle-ci soit rachetée par une plus grande entreprise. Il a témoigné qu’il était agent immobilier depuis 15 ans et que Riley Enterprises tirait ses revenus de son activité immobilière.
+[10] Il a mentionné qu’en 2012 et en 2013, Riley Enterprises a développé des produits pour Tekrider, s’est occupé de la planification commerciale de Tekrider et a engagé des experts-conseils pour promouvoir les intérêts de Tekrider. Il a affirmé que Tekrider n’avait pas assez d’argent pour effectuer la recherche et le développement nécessaires à la conception de nouveaux produits par ses propres moyens. Il a expliqué qu’en d’autres termes, Riley Enterprises a payé pour des services d’experts-conseils qui ont bénéficié à Tekrider sans que cela coûte quoi que ce soit à cette dernière. Par exemple, des sommes de 48 517 $ et 46 472 $ en frais de consultation ont été déduits au titre de Riley Enterprises pour 2012 et 2013, respectivement [15] .
+[11] Autre exemple, l’appelant a déclaré qu’en 2012, il était nécessaire de reconstruire le site Web de Tekrider. Cependant, sa future ex-épouse n’approuvant aucune dépense pour Tekrider, il a commencé à investir massivement dans la société pour faire ce qu’il fallait. Par conséquent, l’appelant a déduit des sommes de 4 704 $ et 2 871 $ en frais de publicité au titre de Riley Enterprises pour 2012 et 2013 [16] .
+[12] Certaines des factures de fournisseurs et d’experts-conseils pour les dépenses refusées indiquaient que Tekrider était la cliente aux fins de facturation et d’expédition [17] . Lors de son contre-interrogatoire, l’appelant a affirmé qu’il a depuis appris l’importance de séparer les dépenses et qu’il a effectué ces paiements personnellement même si Tekrider était la cliente désignée.
+[13] Lors de son contre-interrogatoire, il a reconnu qu’il n’avait pas facturé Tekrider en tant que Riley Enterprises (c’est-à-dire de la même manière que lorsqu’il fournissait des services à Bombardier) et que, rétrospectivement, il aurait dû faire certaines choses différemment sur le plan administratif. Il a affirmé que 2012 était une année charnière sur le plan personnel et professionnel, son espoir à terme étant de tirer des profits en tant qu’actionnaire de Tekrider. Il a mentionné qu’au cours des années en question, Riley Enterprises ne s’occupait que d’activités liées à Tekrider, bien que, cinq ou six ans plus tard, son entreprise ait fourni des services dans le cadre d’un contrat conclu avec Yamaha.
+Utilisation du véhicule à moteur
+[14] L’appelant a expliqué qu’en tant qu’agent immobilier dans une région de chalets, il pouvait parcourir 200 km en une journée pour faire visiter six chalets. Il a estimé qu’il parcourait de 50 000 à 100 000 km par an en tant qu’agent immobilier. Il a affirmé qu’il louait généralement trois véhicules simultanément et qu’il les utilisait à tour de rôle pour demeurer en dessous des limites de kilométrage respectives des contrats de location, soit 40 000 km en trois ans. Il a expliqué qu’il ne tenait pas de registre de kilométrage et que, pour les besoins de la vérification de l’Agence du revenu du Canada, son directeur général/comptable l’a aidé à compiler ses listes de propriétés et a utilisé Google Maps pour déterminer les distances [18] .
+[15] Pour 2012, l’appelant a déduit des dépenses pour une Jetta 2006 et une camionnette Ford F-150 2009 à un taux de 90 % d’utilisation à des fins professionnelles, en fonction d’un kilométrage total estimé (professionnel et personnel) de 10 000 km et de 50 000 km, respectivement [19] . Le ministre a considéré qu’un taux de 73 % d’utilisation de la camionnette F-150 à des fins commerciales seulement était raisonnable et a accordé 13 501 $ des 22 067 $ déclarés pour cette année.
+[16] Sur le contrat de location de la Jetta 2006, la case [traduction] « Principalement pour un usage personnel, familial ou domestique » était cochée [20] . Lors de son contre-interrogatoire, l’appelant a affirmé qu’il avait coché cette case pour avoir droit à un financement et qu’il avait compris que la case [traduction] « Utilisation à des fins professionnelles » concernait les situations dans lesquelles le propriétaire était une entité distincte du particulier. Il a mentionné que ses deux fils utilisaient principalement ce véhicule pour se rendre à l’université à Oshawa et en revenir, mais que leur kilométrage représentait tout de même 10 % du kilométrage total de ce véhicule.
+[17] Sur le contrat de vente à tempérament pour la camionnette F-150 2009, l’appelant y est désigné comme étant l’acheteur [21] . Cependant, les paiements mensuels de 1 164,28 $ figurent dans le grand livre général de Tekrider comme des paiements effectués [22] . Lors de son contre-interrogatoire, l’appelant a affirmé que Tekrider avait payé le véhicule qui était utilisé pour les activités immobilières de l’appelant, et que les coûts d’entretien ou de service étaient probablement payés par Riley Enterprises.
+[18] Pour 2013, il a déduit les dépenses pour les deux mêmes véhicules plus une Ford Escape 2014 à un taux de 90 % d’utilisation professionnelle en fonction d’un kilométrage total estimé (professionnel et personnel) de 8 000 km pour la Jetta, 65 000 km pour la camionnette F-150 et 5 000 km pour la Ford Escape [23] . Le ministre a considéré qu’un taux de 76 % d’utilisation de la camionnette F-150 à des fins commerciales seulement était raisonnable et a accordé 10 207 $ des 25 756 $ déclarés pour l’année en question.
+Utilisation de la résidence aux fins d’exploitation de l’entreprise
+[19] L’appelant a affirmé qu’il a maintenu un bureau à domicile pendant 30 ans. Il a témoigné qu’en tant qu’agent immobilier, il payait des frais de bureau obligatoires à Re/Max pour maintenir un bureau sur place, mais qu’il était parfois plus pratique de travailler à domicile. Lors de son contre-interrogatoire, il a mentionné qu’il ne savait pas pourquoi aucune dépense liée à l’utilisation de la maison aux fins d’exploitation de son entreprise n’avait été déclarée dans le cadre de son activité immobilière [24] .
+[20] Au titre de Riley Enterprises, il a déduit les dépenses liées à l’utilisation de sa maison aux fins d’entreprise à un taux de 39 %, en se basant sur l’utilisation d’environ 700 pieds carrés de sa maison de 1 800 pieds carrés à des fins commerciales [25] . Lors de son contre-interrogatoire, il a affirmé que les 700 pieds carrés se composent de ce qui suit : a) d’un bureau à domicile d’environ 400 pieds carrés, b) d’un atelier mécanique au sous-sol où il fait le montage des véhicules, et c) d’un garage à une voiture où il fait fonctionner des motos et des motoneiges et qui contient tous ses outils. Il a affirmé qu’il n’avait plus de bureau chez Tekrider, car il n’y était pas physiquement présent.
+Bateau
+[21] L’appelant a témoigné qu’en tant qu’agent immobilier, il fait visiter annuellement une demi-douzaine de chalets dont l’accès se fait uniquement par voie navigable Pour les chalets situés sur de petits lacs sans marina, il utilise son propre bateau pour s’y rendre. Il a déclaré que le bateau a 35 ans et qu’il en est le propriétaire depuis 15 ans. Il a expliqué que, pour des raisons de responsabilité, le bateau du vendeur ne peut généralement pas être utilisé pour montrer ces chalets.
+[22] Si le chalet est situé sur un lac plus grand, il prend généralement un bateau-taxi depuis la marina, car cette solution est moins coûteuse et ne l’oblige pas à transporter son bateau jusqu’au point de départ. Il a affirmé qu’il paie un mécanicien pour l’hivernage et l’estivage du bateau, et que les déductions refusées de 859 $ pour 2012 et 394 $ pour 2013 étaient des primes d’assurance annuelles [26] . Il a mentionné que la quantité annuelle de carburant utilisée pour ces voyages était négligeable (c’est-à-dire moins de 100 $) et qu’il n’a donc pas demandé de déduction à cet égard. D’autre part, les primes d’assurance avaient été déclarées à 100 %.
+[23] Il a témoigné que, sans regarder ses descriptions de propriété pour les années en question, il estimait que son utilisation personnelle du bateau s’élevait à environ 75 %. Il a déclaré que le bateau est un modèle classique et qu’il en est le seul conducteur.
+Frais de déplacement
+[24] L’appelant a affirmé que les frais de déplacement refusés au titre de Riley Enterprises auraient été engagés pour assister à des salons professionnels pour Tekrider. Il a affirmé qu’il se rendait également à Oakville pour rencontrer un concepteur Tekrider de longue date qui y habite.
+Déneigement
+[25] L’appelant a payé 450 $ pour le déneigement en 2013, et cette somme a été déclarée (et refusée) comme dépense de publicité en 2013. Il a mentionné que son ex-épouse vivait à côté de sa maison de location et que son camion s’embourbait dans la neige; il a donc payé les services de déneigement pour les deux maisons.
+Analyse et discussion
+[26] J’ai reporté le prononcé de ma décision dans le présent appel parce que je souhaitais examiner de plus près les documents de l’appelant, comme ils étaient plutôt volumineux. En examinant les documents et en entendant son témoignage, je ne vois aucune raison d’autoriser plus que ce qui a déjà été accordé par le ministre. La tenue des registres de l’appelant ne répondait pas à la norme exigée par le paragraphe 230(1) de la Loi de l’impôt sur le revenu.
+[27] En règle générale, une dépense est déductible du revenu d’entreprise si elle est effectuée dans le but de gagner ou de produire un revenu de cette entreprise [27] . Les frais personnels ou de subsistance ne sont pas déductibles du revenu d’entreprise, à l’exception des frais de déplacement engagés dans le cadre de l’exploitation de l’entreprise du contribuable [28] . Il est tout aussi important que toute personne qui exploite une entreprise tienne des livres et des registres suffisants pour permettre au ministre de déterminer les impôts à payer [29] .
+[28] L’appelant a affirmé que, dans son esprit, Riley Enterprises et Steve Brand sont les mêmes. Il ressort clairement des documents et des témoignages que les différentes activités de l’appelant ont été confondues entre elles et avec Tekrider en 2012 et en 2013. Il est également manifeste que l’appelant a connu des changements importants dans sa vie personnelle et professionnelle au cours de ces années et que, tout bien considéré, ces bouleversements ont probablement contribué à son inattention à la façon dont il tenait ses dossiers.
+[29] Par exemple, les factures de l’expert-conseil Helmut Siepmann indiquent que Tekrider est le client et ont été pour la plupart déclarées comme des déductions au titre de Riley Enterprises [30] . L’appelant a affirmé que Tekrider a payé les services de M. Siepmann jusqu’en 2010 ou 2011, après quoi c’est Riley Enterprises ou Steve Brand qui les a payés. Cependant, la facture de services de M. Siepmann du 26 avril 2012 n’a pas été déclarée comme une déduction au titre de Riley Enterprises et figure plutôt dans le grand livre général de Tekrider comme une dépense de recherche et développement [31] . Une copie de la facture du 26 avril 2012 n’a pas été présentée en preuve; cependant, j’estime que, selon la prépondérance des probabilités, M. Siepmann fournissait des services identiques ou similaires à ceux indiqués sur les autres factures. Par conséquent, les distinctions étaient obscures et appliquées de manière incohérente dans les livres et registres, de sorte qu’elles ne permettaient pas de déterminer les impôts dus.
+[30] La loi exige qu’il y ait une corrélation motivée entre une dépense et l’entreprise pour laquelle elle est engagée. Bien que l’on puisse comprendre pourquoi il est possible que l’appelant confonde ses entreprises personnelles avec celles de Tekrider, il faut les distinguer aux fins de la détermination de la déductibilité des dépenses d’entreprise. Les sommes déclarées comme déductions au titre de Riley Enterprises étaient, à juste titre, des dépenses d’entreprise de Tekrider, car elles ont été engagées pour gagner ou produire un revenu de Tekrider, et Riley Enterprises n’a pas eu d’activité commerciale propre en 2012 ni en 2013.
+[31] Les états financiers de Tekrider pour les exercices 2012, 2013 et 2014 présentent des prêts d’actionnaires de 365 971 $, de 325 021 $ et de 370 866 $, respectivement [32] . La note annexée à l’état financier de 2012 décrit le prêt d’actionnaire comme [traduction] « des sommes prêtées à la société par les actionnaires pour ses activités et qui consistent en des soldes de cartes de crédit personnelles des actionnaires, une marge de crédit personnelle et un prêt personnel [...] » [33] . Cette description s’aligne sur la description que l’appelant fait des dépenses déclarées comme dépenses d’entreprise au titre de Riley Enterprises en 2012 et en 2013, c’est-à-dire qu’il s’agit plutôt d’une augmentation des prêts des actionnaires à Tekrider que de dépenses d’entreprise de l’appelant.
+[32] Autre exemple, les dépenses liées à l’utilisation de la maison à des fins commerciales ont été déclarées au titre de Riley Enterprises, bien que le témoignage de l’appelant ait porté sur l’avantage de disposer d’un bureau à domicile pour ses activités immobilières. Peut-être que cette déduction a été demandée au titre de Riley Enterprises en partie parce que l’appelant avait un bureau chez Re/Max. Son témoignage indique que l’atelier mécanique et le garage étaient utilisés pour les besoins de Tekrider. Là encore, il y a une confusion des buts de l’utilisation et un manque de précision qui font qu’il est difficile de conclure que l’hypothèse du ministre a été réfutée à cet égard.
+[33] Il y avait également un manque de précision dans les livres et registres de l’appelant, ce qui rendait difficile la détermination des impôts dus. Par exemple, l’appelant n’a pas tenu de registre de kilométrage pour ses véhicules, de sorte que la seule information disponible sur le kilométrage est le tableau des distances de 2012 créé par son directeur général ou comptable aux fins de l’audit. Lors de son témoignage, l’appelant a estimé qu’il parcourait à la fois de 50 000 à 75 000 km et de 75 000 à 100 000 km par année pour son exploitation immobilière; comme l’écart est important, il est difficile de conclure que l’hypothèse du ministre a été réfutée à cet égard.
+[34] Il y a également eu une confusion des objectifs en ce qui concerne la camionnette F-150 2009, par exemple. Tekrider a effectué les paiements mensuels du véhicule tandis que les coûts d’entretien ou de service ont probablement été payés par Riley Enterprises (d’après le témoignage de l’appelant), et la majorité des dépenses liées aux véhicules à moteur ont été déclarées dans le cadre de l’exploitation immobilière. Cette confusion des buts de l’utilisation et le manque de précision font qu’il est difficile là encore de conclure que l’hypothèse du ministre a été réfutée à cet égard.
+[35] De même, en ce qui concerne le bateau, l’appelant a témoigné en termes généraux quant au nombre de voyages qu’il effectuait annuellement pour montrer des chalets avec accès par voie navigable seulement. Toutefois, aucune information précise n’a été fournie en ce qui concerne les inscriptions réelles et les voyages effectués au cours des années visées par l’appel. Cette information permettrait de déterminer la proportion d’utilisation personnelle par rapport à l’utilisation professionnelle, et donc le facteur de multiplication approprié à appliquer aux dépenses liées au bateau. Cette confusion des buts de l’utilisation et le manque de précision font qu’il est difficile là encore de conclure que l’hypothèse du ministre a été réfutée à cet égard.
+[36] Bien que la dépense associée aux frais de déneigement en 2013 ait été faible, elle ne semble pas avoir un but commercial d’après le témoignage de l’appelant.
+Conclusion
+[37] L’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2022.
+« Susan Wong »
+La juge Wong
+ANNEXE A
+Annexe A
+[traduction]
+DÉCLARATION DES ACTIVITÉS COMMERCIALES
+Steve Brand, agent immobilier
+2012
+2013
+Somme déclarée
+Somme autorisée par l’auditeur
+Somme autorisée par l’opposition
+Somme déclarée
+Somme autorisée par l’auditeur
+Somme autorisée par l’opposition
+Revenu brut*
+105 607 $
+113 556 $
+105 607 $
+156 916 $
+165 479 $
+156 916 $
+Calcul du coût des biens vendus
+Coût des biens vendus
+-
+-
+-
+-
+-
+-
+Marge brute*
+105 607
+113 556
+105 607
+156 916
+165 479
+156 916
+Dépenses*
+Publicité
+3 448
+-
+2 748
+5 496
+-
+5 046
+Taxes, droits, licences, cotisations professionnels, etc.
+2 225
+-
+2 225
+1 040
+-
+1 040
+Frais de gestion et d’administration
+-
+-
+-
+5 578
+-
+5 578
+Repas et divertissement (50 %)
+438
+-
+438
+2 009
+-
+2 009
+Frais liés aux véhicules à moteur
+22 067
+-
+13 501
+25 756
+-
+10 207
+Frais de bureau
+3 772
+-
+3 772
+4 347
+-
+4 347
+Frais juridiques et comptables et autres liés à des services de professionnels
+2 000
+-
+2 000
+2 000
+-
+2 000
+Frais de déplacement
+77
+-
+77
+191
+-
+191
+Téléphone et services publics
+4 463
+-
+4 463
+2 436
+-
+2 436
+Autres dépenses : frais et intérêts bancaires
+1 510
+-
+1 510
+1 626
+-
+1 626
+Autres dépenses : courtier
+14 125
+-
+14 125
+14 266
+-
+14 266
+Autres dépenses : frais immobiliers
+810
+-
+-
+2 016
+-
+-
+Autres dépenses : bateau
+859
+-
+-
+394
+-
+-
+Autres dépenses :
+-
+-
+-
+-
+-
+-
+Total partiel
+55 793
+-
+44 858
+67 155
+-
+48 746
+Déduction des immobilisations admissibles
+Déduction pour amortissement
+1 079
+-
+-
+485
+-
+-
+Dépenses totales de l’entreprise*
+56 871
+-
+44 858
+67 640
+-
+48 746
+Revenu net (perte) avant rajustements*
+48 736
+113 556
+60 749
+89 276
+165 479
+108 170
+Moins dépenses liées à l’utilisation professionnelle du domicile**
+-
+-
+-
+-
+-
+-
+Revenu (perte) net(te)*
+48 736 $
+113 556 $
+60 749 $
+89 276 $
+165 479 $
+108 170 $
+* Les sommes ont été arrondies.
+ANNEXE B
+Annexe B
+DÉCLARATION DES ACTIVITÉS COMMERCIALES
+Riley Enterprises
+2012
+2013
+Somme déclarée
+Somme autorisée par l’auditeur
+Somme autorisée par l’opposition
+Somme déclarée
+Somme autorisée par l’auditeur
+Somme autorisée par l’opposition
+Revenu brut*
+- $
+- $
+- $
+- $
+- $
+- $
+Calcul du coût des biens vendus
+Coût des biens vendus
+-
+-
+-
+-
+-
+-
+Marge brute*
+-
+-
+-
+-
+-
+-
+Dépenses*
+Publicité
+4 704
+2 871
+Repas et divertissement (50 %)
+74
+-
+Frais liés aux véhicules à moteur
+2 049
+845
+Frais de bureau
+4 338
+-
+Frais de déplacement
+2 810
+1 128
+Téléphone et services publics
+-
+-
+Autres dépenses : frais et intérêts bancaires
+1 510
+1 626
+Autres dépenses : frais de recherche et développement
+7 895
+949
+Autres dépenses : honoraires d’expert-conseil en recherche et développement
+48 517
+46 472
+Autres dépenses :
+-
+-
+Total partiel
+71 896
+53 891
+Déduction des immobilisations admissibles
+Déduction pour amortissement
+8 318
+2 162
+Dépenses totales de l’entreprise*
+80 214
+56 053
+Revenu net (perte) avant rajustements*
+(80 214)
+(56 053)
+Moins dépenses liées à l’utilisation professionnelle du domicile**
+11 678
+8 853
+Revenu (perte) net(te)*
+(80 214 $)
+- $
+- $
+(56 053 $)
+- $
+- $
+* Les sommes ont été arrondies.
+** Non utilisées. Sommes reportées
+RÉFÉRENCE :
+2022 CCI 92
+NO DU DOSSIER DE LA COUR :
+2018-4262(IT)I
+INTITULÉ :
+Steve Brand c. Sa Majesté le Roi
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 septembre 2021 et le 26 octobre 2021
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 28 septembre 2022
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Leigh Somerville Taylor
+Me Boris Stanislav
+Avocats de l’intimé :
+Me Gerard Westland
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Leigh Somerville Taylor
+Cabinet :
+Leigh Somerville Taylor Professional Corporation, Toronto (Ontario)
+Pour l’intimé :
+Me François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1, onglet 1
+[2] Pièce A-1, onglet 1
+[3] Pièce A-1, onglets 4, 5 et 6.
+[4] Pièce A-1, onglet 1
+[5] Pièce A-1, onglet 36
+[6] Pièce A-1, onglet 24, à la page 171.
+[7] Pièce A-1, onglet 25, à la page 383.
+[8] Pièce A-1, onglet 24, à la page 172.
+[9] Pièce A-1, onglet 25, à la page 385.
+[10] Pièce A-1, onglet 24, à la page 307.
+[11] Pièce A-1, onglet 25, à la page 494.
+[12] Pièce A-1, onglet 24, à la page 305; onglet 25, à la page 492.
+[13] Pièce A-1, onglet 8.
+[14] Réponse à l’avis d’appel, annexes A et B.
+[15] Réponse à l’avis d’appel, annexe B.
+[16] Réponse à l’avis d’appel, annexe B.
+[17] Pièces A-1, onglet 24, aux pages 184, 185, 345, 347, 356 à 364; onglet 25, à la page 506.
+[18] Pièce A-1, onglet 28.
+[19] Réponse à l’avis d’appel, alinéa 17h)(viii); pièce A-1, onglet 24, à la page 167.
+[20] Pièce A-1, onglet 24, à la page 263.
+[21] Pièce A-1, onglet 25, à la page 467.
+[22] Pièce A-2, onglet 40, à la page 613.
+[23] Réponse à l’avis d’appel, alinéa 17i)(ix); pièce A-1, onglet 25, à la page 380.
+[24] Pièce A-1, onglet 24, à la page 175; onglet 25, à la page 387.
+[25] Avis d’appel, paragraphe 27; pièce A-1, onglet 24, à la page 308; pièce A-1, onglet 25, à la page 495.
+[26] Pièce A-1, onglet 24, aux pages 302 et 303.
+[27] Loi de l’impôt sur le revenu, alinéa 18(1)a)
+[28] Loi de l’impôt sur le revenu, alinéa 18(1)h)
+[29] Loi de l’impôt sur le revenu, paragraphe 230(1)
+[30] Pièce A-1, onglet 24, aux pages 356 à 363.
+[31] Pièce A-2, onglet 40, à la page 675; onglet 41, à la page 952.
+[32] Pièce A-1, onglets 13, 14 et 15.
+[33] Pièce A-1, onglet 13, à la page 52.

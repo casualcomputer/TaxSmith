@@ -1,0 +1,190 @@
+Title: Beninger c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29881/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-301-29881-beninger-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-06-30
+
+# Beninger c. La Reine
+
+- Citation: 2010 CCI 301
+- Decision date: 2010-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6389, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beninger c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-30
+Référence neutre
+2010 CCI 301
+Numéro de dossier
+2009-2348(IT)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2348(IT)I
+ENTRE :
+MICHAEL BENINGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus le 25 mars 2010, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Pierre Archambault
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Max Matas
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés relativement aux années d’imposition 2006 et 2007 sont accueillis, avec dépens, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse des nouvelles cotisations en tenant pour acquis que M. Beninger a droit aux trois déductions suivantes :
+a) 9 000 $ au titre de pension alimentaire pour conjoint pour l’année d’imposition 2006;
+b) 10 000 $ au titre de pension alimentaire pour conjoint pour l’année d’imposition 2007;
+c) 4 943,50 $ pour l’année d’imposition 2007.
+Signé à Ottawa, Canada, ce 30e jour de juin 2010.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 19e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 301
+Date : 20100630
+Dossier : 2009-2348(IT)I
+ENTRE :
+MICHAEL BENINGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 16 juin 2010, à Québec (Québec), puis révisés par souci de clarté et d’exactitude, mais sans modification importante)
+Le juge Archambault
+[1] M. Michael Beninger a interjeté appel des nouvelles cotisations d’impôt sur le revenu établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’impositions 2006 et 2007. En l’espèce, la question est de savoir si, au titre des paiements de pension alimentaire pour conjoint qu’il a faits en 2006 et 2007, M. Beninger a droit à des déductions supérieures à celles que lui a accordées le ministre et, plus précisément, si un paiement fait au titre d’un arriéré de pension alimentaire pour conjoint – arriéré qui avait précédemment été réduit par l’ordonnance d’un tribunal – peut néanmoins être déduit dans le calcul des revenus de M. Beninger. Les sommes en litige sont 9 000 $ pour 2006 et 10 000 $ pour 2007. Il convient de noter qu’au début de l’audience, le représentant du ministre a reconnu que l’appel de M. Beninger relatif à l’année d’imposition 2007 devait être accueilli pour qu’une somme de 4 943,50 $ puisse être déduite dans le calcul des revenus de M. Beninger pour cette année‑là.
+[2] Avant de prononcer mes motifs, je tiens à souligner que la Loi permet à la partie perdante (l’intimée en l’espèce) de porter ma décision en appel devant la Cour d’appel fédérale. Dans un tel cas, cette partie pourra demander une transcription des présents motifs. La Cour a pour pratique d’attendre que l’une des parties demande la transcription, après quoi la Cour présente immédiatement une demande de transcription au sténographe officiel de la Cour. Une fois réalisée, la transcription est envoyée pour examen au juge qui a entendu l’appel. Le juge peut alors soit demander au personnel de la Cour de transmettre la transcription aux parties, soit décider d’y apporter des modifications mineures. Dans le deuxième cas, le juge signe des motifs écrits, qui sont ensuite transmis aux parties, et la transcription est conservée par la Cour. Comme l’a affirmé la Cour d’appel fédérale au paragraphe 24 de Breslaw c. Canada (Procureur général), 2005 CAF 355, de telles modifications ne peuvent pas être importantes. En l’espèce, j’ai l’intention de rendre des motifs écrits signés. Si, après leur lecture, une partie est d’avis que les motifs que j’ai rendus oralement ont été modifiés de façon importante, ils pourront me demander de leur faire transmettre par la Cour la transcription, établie par le sténographe, des motifs que j’ai rendus oralement afin de les déposer devant la Cour d’appel fédérale pour permettre à celle‑ci d’exercer efficacement sa compétence en matière d’appel.
+[3] À titre informatif, contrairement à ce qu’a écrit la Cour d’appel fédérale dans Fortin c. Canada, 2008 CAF 248, je n’ai pas – ni dans Fortin ni dans Brunet c. Canada, 2007 CAF 196 (une décision citée dans Fortin) – refusé de fournir une copie de la transcription de mes motifs réalisée par le sténographe. Dans Brunet, c’est le personnel de la Cour qui avait refusé de fournir la transcription, et ce, sans m’avoir d’abord consulté. La lettre de refus du greffier de la Cour canadienne de l’impôt, reproduite dans les motifs de la Cour d’appel fédérale dans Brunet, puis dans Fortin, avait été envoyée à Mme Brunet après consultation du juge en chef de l’époque.
+[4] Toujours à titre informatif, dans Fortin, les appelants avaient demandé une transcription des motifs que j’avais rendus oralement, mais ils l’avaient seulement fait le jour où ils avaient présenté leur appel à la Cour d’appel fédérale. Par conséquent, contrairement à ce qu’a affirmé la Cour d’appel fédérale au paragraphe 4 de ses motifs, ce n’est pas « [e]n raison du dépôt tardif des motifs » du juge Archambault que les appelants avaient inscrit dans leur avis d’appel qu’ils se réservaient le droit de le modifier. De plus, contrairement à ce qu’a avancé la Cour d’appel fédérale au paragraphe 11 de Fortin, la transcription des motifs que j’avais rendus oralement existait bel et bien, tout comme dans Brunet, et ces transcriptions n’ont jamais été supprimées.
+[5] Les rectifications présentées dans les deux paragraphes précédents n’ont pas pu être faites avant aujourd’hui, car il fallait d’abord franchir certaines étapes.
+Contexte factuel
+[6] En l’espèce, les faits ne sont pas vraiment en litige. D’ailleurs, M. Beninger a admis toutes les hypothèses de fait sur lesquelles le ministre s’était fondé pour établir les nouvelles cotisations en cause (ces hypothèses sont exposées au paragraphe 13 de la réponse à l’avis d’appel), exception faite de la dernière. En fait, cette dernière hypothèse n’en est pas vraiment une – il s’agit plutôt d’une conclusion de droit au sujet de la déduction maximale à laquelle M. Beninger a droit, à savoir une somme correspondant à la pension alimentaire pour conjoint normale (payée à temps).
+[7] Diverses ordonnances judiciaires ont été déposées en preuve et elles ont permis de mieux comprendre la situation des anciens époux. Cependant, aux fins des présents motifs, il est seulement nécessaire de faire référence aux libellés de l’ordonnance accordant la pension alimentaire pour conjoint, de l’ordonnance réduisant l’arriéré de pension alimentaire pour conjoint et des motifs de cette dernière ordonnance. Le passage suivant est tiré de l’ordonnance datée du 6 juillet 2004 (l’« ordonnance de juillet 2004 ») par laquelle le juge Cole a réduit l’arriéré de 69 416 $[1] à 20 000 $ :
+[traduction]
+L’arriéré de pension alimentaire pour la demanderesse dû par le défendeur est réduit à 20 000 $ et le solde est annulé. Le montant réduit sera payé par versements mensuels de 500 $, à compter du 1er décembre 2005.
+[8] Au paragraphe 1 de ses motifs, le juge Cole s’est exprimé de la sorte : [traduction] « Le défendeur, Michael John Beninger, demande la modification rétroactive de la pension alimentaire pour conjoint fixée par le juge Curtis dans son ordonnance du 11 février 2003[2]. En fait, le défendeur cherche à faire annuler l’arriéré de pension alimentaire pour conjoint et à faire modifier l’ordonnance en ce qui a trait à la pension alimentaire pour conjoint. » Le juge Cole a ensuite examiné les critères légaux permettant d’annuler ou de réduire un arriéré de pension alimentaire. Au paragraphe 31 de ses motifs, il a cité le passage suivant, tiré d’Earle v. Earle, [1999] B.C.J. no 383 (QL) (C.S.C.‑B.) :
+[traduction]
+Pour qu’un juge puisse modifier une ordonnance alimentaire déjà rendue, les circonstances doivent avoir changé de façon importante depuis que l’ordonnance initiale a été rendue. Ainsi, il faut que le changement soit tel que, si le juge qui a rendu l’ordonnance initiale en avait eu connaissance, il aurait rendu une ordonnance différente. Le changement doit être significatif et durable. Autrement, la modification entraînera de l’incertitude, ce qui est contraire aux intérêts des enfants.
+[Non souligné dans l’original.]
+[9] Lorsqu’il a exposé les faits de l’affaire au paragraphe 5 de ses motifs, le juge Cole a affirmé que le juge Curtis avait conclu que le revenu annuel de M. Beninger s’élevait à 312 000 $. Même après avoir reconnu que M. Beninger avait des problèmes de santé qui nuisaient à sa capacité de gagner des revenus, qu’il avait fait faillite, qu’il avait perdu son emploi le 31 décembre 2002 et que, par conséquent, sa situation d’emploi future était incertaine, le juge Curtis a affirmé que M. Beninger [traduction] « réussirait probablement à travailler avec succès comme avocat ». Le juge Curtis a ensuite fixé la pension alimentaire pour conjoint à 6 500 $ par mois (pièce A‑12, paragraphe 4).
+[10] Cependant, les espoirs du juge Curtis ne se sont jamais concrétisés. Pour plusieurs raisons, M. Beninger n’a pas réussi à trouver de travail comme avocat. En fait, il a dû s’endetter pour payer ses frais de subsistance. Comme on pourrait s’y attendre, il n’a pas réussi à faire ses paiements de pension alimentaire pour conjoint à temps. Le juge Cole a calculé qu’en date de juin 2004, l’arriéré dû par M. Beninger totalisait 69 416 $.
+[11] Au paragraphe 42 de ses motifs, le juge Cole a justifié sa décision de réduire l’arriéré de pension alimentaire à 20 000 $ et d’annuler le solde de la façon suivante :
+[traduction]
+Pour ce qui est de l’arriéré de pension alimentaire pour conjoint, j’ai tenu compte de l’arriéré de pension alimentaire pour enfant, des paiements faits depuis la date de l’ordonnance initiale et du fait que le défendeur a demandé en juillet 2003 la modification des pensions alimentaires pour conjoint et pour enfant. J’ai aussi pris en compte le fait que la demanderesse a dû s’endetter et vendre des actifs pour subvenir à ses besoins et à ceux de sa fille.
+Position du ministre
+[12] Bien que cela ne soit pas affirmé dans la réponse à l’avis d’appel, l’intimée soutient que la réduction de l’arriéré à 20 000 $ a changé la nature du paiement dû par M. Beninger. En fait, selon l’intimée, la somme de 20 000 $ ne constitue pas une pension alimentaire payable périodiquement à l’ex‑épouse de M. Beninger, mais plutôt un montant payé pour être libéré de son obligation de payer l’arriéré. À l’appui de sa position, l’avocat de l’intimée a cité la décision rendue par ma collègue la juge Campbell dans Gill c. La Reine, 2008 CCI 473, 2008 DTC 4769, [2009] 1 C.T.C. 2286. Les passages clés[3] du raisonnement de la juge Campbell se trouvent aux paragraphes 14, 15, 17, 19 et 23 de Gill :
+[14] L’intimée s’est également fondée sur un arrêt de la Cour d’appel fédérale, La Reine v. Sills, 85 DTC 5096, rendu avant les modifications législatives de 1997. Je crois que l’arrêt Sills est conforme au droit, mais qu’il est inapplicable ici. La Cour d’appel fédérale y écrivait que si un contribuable fait une série de paiements forfaitaires, bien que par sommes irrégulières, lui permettant ainsi de réduire ses arriérés, alors la somme payée sera déductible parce que sa nature et son caractère sont restés les mêmes. Cependant, je crois que si le contribuable paie une somme qui est inférieure au montant des arriérés, mais qui réglera sa dette au regard de tels arriérés, alors la somme payée n’est pas déductible car la nature du paiement s’est modifiée. Dans le présent appel, l’appelant a payé la somme de 100 000 $US au lieu des 370 000 $ qu’il devait. Il s’agissait là d’une modification des arriérés initiaux et, selon l’accord de 2005 et la preuve produite, cette somme était payée en règlement des arriérés totaux et dégageait l’appelant de toute responsabilité additionnelle au regard de tels arriérés. Je souscris à la manière dont le juge Mogan analysait l’arrêt Sills dans la décision Widmer c. Canada, [1995] A.C.I. nº 1115. Le juge Mogan faisait une distinction entre l’espèce Sills et les faits qui lui étaient soumis. Il écrivait ce qui suit, au paragraphe 17 de la décision Widmer :
+D’après ce que je crois comprendre du jugement Sills, aucun des paiements d’un millier de dollars n’était un paiement forfaitaire; chacun avait plutôt la nature d’un paiement de rattrapage. De plus, comme l’avocat de l’intimée l’a déclaré dans son argumentation, il n’y avait pas de seconde ordonnance de tribunal dans l’affaire Sills, contrairement à ce qu’il en était en l’espèce.
+Il y a similitude entre l’espèce Widmer et les faits dont il s’agit ici. Au paragraphe 15 de la décision Widmer, le juge Mogan écrit ce qui suit :
+Lorsque le montant effectivement reçu (15 000 $) diffère à ce point du montant dû (50 590 $) ou lui est à ce point inférieur, je ne peux le considérer comme ayant le même caractère que le montant dû. En d’autres termes, je ne peux considérer les 15 000 $ reçus par l’appelante comme ayant été reçus pour l’entretien des trois enfants. À mon avis, David a versé ce petit montant en une somme forfaitaire premièrement pour être libéré de son obligation très réelle de payer les 35 590 $ restants et, deuxièmement, pour que le montant total de ses paiements mensuels d’entretien soit ramené de 795 $ à 600 $ par mois. En bref, le montant de 15 000 $ a été versé pour l’obtention d’une libération d’obligations existantes et l’obtention d’une réduction d’obligations futures et non pour l’entretien des trois enfants.
+[15] Dans la décision Soldera v. M.R.N., 91 DTC 987, rendue elle aussi avant les modifications de 1997, le juge Garon avait estimé que le paiement forfaitaire fait conformément à une ordonnance de 1986 réduisait les sommes dues en vertu d’une ordonnance de 1983. L’ordonnance de 1986 réduisait l’obligation de l’appelant au 31 mai 1986 pour ce qui concernait les arriérés de pension alimentaire, mais ne modifiait pas son obligation au titre des pensions alimentaires existantes ou futures. Le juge Garon s’exprime ainsi, à la page 990 :
+Tout d’abord, l’ordonnance de 1986 ne renferme aucune disposition libérant expressément l’appelant de ses obligations existantes ou futures de subvenir aux besoins de ses enfants.
+La décision Soldera s’appuie sur les principes exprimés dans les arrêts Armstrong et Sills (page 989 de la décision Soldera). L’avocat de l’intimée a fait une distinction entre la décision Soldera et le présent appel parce que, dans l’espèce Soldera, les documents ne renfermaient aucune disposition libérant le contribuable d’une obligation existante ou future de payer des pensions alimentaires pour les enfants. Dans le présent appel, l’appelant a été libéré de toute obligation portant sur les arriérés de 370 000 $, une fois payée la somme de 100 000 $US.
+[…]
+[17] Nombre des jugements rendus par la Cour sur cette question pourraient devoir être écartés au motif qu’il s’agissait à la fois d’arriérés et de paiements futurs de pension alimentaire (voir aussi Bégin v. Canada, 2005 DTC 949, et MacBurnie v. Canada, 95 DTC 686). Le point commun de tous ces jugements, c’est qu’ils ont été rendus d’après la procédure informelle, et je ne suis pas tenue de suivre l’un quelconque d’entre eux. Je n’ai pas à me demander s’il y a une différence entre l’obligation relative à des arriérés et l’obligation relative à des paiements futurs de pension alimentaire, car le présent appel ne concerne que des arriérés. Je crois cependant que les mêmes principes devraient s’appliquer, sans égard à la question de savoir si le paiement forfaitaire effectué se rapporte à la somme due maintenant ou à une somme qui sera due dans l’avenir.
+[…]
+[19] Même si j’avais conclu que le paiement de la somme de 100 000 $US était une « pension alimentaire », en accord avec la définition donnée dans le paragraphe 56.1(4), le résultat étant que la somme aurait également été une « pension alimentaire pour enfant », l’accord de 2005 modifiait manifestement l’ordonnance de 1993, déclenchant une « date d’exécution »[4], la somme de 100 000 $US étant alors payable à cette date ou après. Par conséquent, même si les faits dont il s’agit ici pouvaient autoriser la conclusion selon laquelle la somme était une « pension alimentaire pour enfant », selon les définitions, elle ne serait pas déductible du revenu de l’appelant d’après l’alinéa 60b).
+[…]
+[23] L’appelant s’est fondé sur une décision récente du juge Hershfield, Stephenson v. Canada, 2007 DTC 1608. Dans cette affaire, le contribuable avait accumulé des arriérés de pension alimentaire pour conjoint, selon la somme de 25 000 $, pension qui découlait d’une ordonnance rendue en 1998. Par jugement convenu, l’obligation du contribuable de payer la pension alimentaire pour conjoint fut ramenée à 7 500 $, somme devant être payée en 2003 en deux tranches déductibles d’impôt. Le juge Hershfield a estimé que la somme de 7 500 $ était une pension alimentaire déductible. Que la décision Stephenson soit fondée ou non, plusieurs facteurs importants autorisent une distinction entre ce précédent et le présent appel. Dans l’affaire Stephenson, il s’agissait d’une pension alimentaire pour conjoint et non d’une pension alimentaire pour enfant. Aucune date d’exécution n’était cruciale dans l’affaire Stephenson. En tout état de cause, cette affaire ayant été jugée d’après la procédure informelle, je ne suis pas tenue de la suivre.
+[Non souligné dans l’original.]
+Analyse
+[13] Pour trancher les questions en litige dans la présente affaire, le point de départ est le libellé de la Loi. La disposition qui permet la déduction des pensions alimentaires que M. Beninger devait payer est l’alinéa 60b) de la Loi, qui est ainsi rédigé :
+60. Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+[…]
+[Non souligné dans l’original.]
+[14] En application du paragraphe 60.1(4) de la Loi, la définition de « pension alimentaire » figurant au paragraphe 56.1(4) de la Loi s’applique à l’article 60 de la Loi :
+56.1(4) Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+[…]
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+[…]
+[Non souligné dans l’original.]
+[15] Ainsi, la question est de savoir si les 9 000 $ payés en 2006 et les 10 000 $ payés en 2007 au titre de l’arriéré accumulé à l’égard de la pension alimentaire pour conjoint qui avait été fixée initialement par l’ordonnance de février 2003 du juge Curtis constituaient encore un « [m]ontant payable […] à titre d’allocation périodique pour subvenir aux besoins […] de [l’ex-épouse] » après que l’arriéré a été réduit par l’ordonnance de juillet 2004 du juge Cole.
+[16] Il n’est pas contesté que, si les paiements avaient été faits à temps, ils auraient constitué une pension alimentaire et le ministre n’aurait pas refusé leur déduction. Ce que le ministre soutient, c’est que les sommes payées en application de l’ordonnance de juillet 2004 – par laquelle l’arriéré de 69 416 $ avait été réduit à 20 000 $ – ne représentaient pas un montant payé pour subvenir aux besoins de l’ex‑épouse, mais plutôt un montant payé pour être libéré d’une obligation existante. La position du ministre est fondée sur une remarque incidente faite par la juge Campbell au paragraphe 14 de Gill : « si le contribuable paie une somme qui est inférieure au montant des arriérés, mais qui réglera sa dette au regard de tels arriérés, alors la somme payée n’est pas déductible car la nature du paiement s’est modifiée ».
+[17] Comme le ministre n’a énoncé aucune hypothèse au sujet de la nature des paiements faits par M. Beninger, je suis d’avis que la conclusion formulée par la juge Woods dans McLaren c. La Reine, 2009 CCI 514, est tout à fait applicable en l’espèce :
+[26] En l’espèce, lorsque le ministre du Revenu national a établi la cotisation en cause, il ne s’est fondé sur aucune hypothèse de fait portant sur la nature des versements. Par conséquent, c’est lui qui a le fardeau d’établir que la nature des versements a changé quand l’ordonnance définitive a été rendue.
+[27] Le ministre n’a pas su se décharger de ce fardeau. L’ensemble de la preuve qui m’a été présentée est conforme à la position voulant que les versements, qui totalisaient 1 672 $, ont conservé leur nature de paiement d’un arriéré de pension alimentaire. Cette conclusion concorde avec la formulation de l’ordonnance définitive et avec les explications fournies par l’appelant quant à la négociation de l’entente conclue avec son ex‑épouse.
+[28] Je conclus donc que la somme de 1 672 $ est déductible. L’appel est accueilli dans cette mesure.
+[Non souligné dans l’original.]
+[18] Les faits en cause dans McLaren sont semblables aux faits de la présente affaire. Dans cette affaire, une ordonnance provisoire fixant la pension alimentaire pour conjoint à 1 200 $ par mois avait été rendue en 2004. Lorsqu’il a ensuite rendu l’ordonnance de divorce définitive en 2006, le juge a modifié les exigences relatives au paiement de la pension alimentaire. La juge Woods a décrit les circonstances de la façon suivante :
+[5] Conformément à une entente conclue par l’appelant et son épouse, une ordonnance de divorce définitive a été rendue le 27 juin 2006 (l’« ordonnance définitive »). En plus de prononcer le divorce, le juge de la Cour supérieure de justice de l’Ontario a modifié les modalités de la pension alimentaire. Les passages pertinents de cette ordonnance sont rédigés de la sorte :
+[traduction]
+2. La Cour ordonne que l’arriéré de pension alimentaire pour conjoint est fixé à 11 781 $, et que le reste de l’arriéré de pension alimentaire est annulé entièrement.
+3. La Cour ordonne aussi que l’arriéré de pension alimentaire pour conjoint fixé au paragraphe 1 [sic] ci‑dessus sera versé par l’intimé à la demanderesse à raison de 400 $ par mois le 1er jour de chaque mois, à compter du 1er octobre 2006 et jusqu’à ce que l’arriéré ait été payé entièrement.
+[…]
+8. La Cour ordonne aussi que l’obligation qu’avait l’intimé de verser une pension alimentaire pour conjoint est annulée.
+[6] Lorsque l’ordonnance définitive a été rendue, l’arriéré de pension alimentaire pour conjoint dû par l’appelant en application de l’ordonnance provisoire s’élevait à quelque 19 000 $ ou 20 000 $ (voir pièce A‑2). L’ordonnance définitive a modifié l’ordonnance provisoire de trois façons : (1) elle a réduit l’arriéré de pension alimentaire pour conjoint à 11 781 $, (2) elle a modifié les modalités de paiement de l’arriéré de façon à ce que les versements mensuels soient ramenés à 400 $ et à ce qu’ils doivent être faits à compter du 1er octobre 2006, et (3) elle a annulé, en date de l’ordonnance définitive, l’obligation qu’avait l’appelant de verser une pension alimentaire pour conjoint.
+[Non souligné dans l’original.]
+[19] Dans la présente affaire, l’ordonnance de février 2003 rendue par le juge Curtis reposait sur la présomption selon laquelle M. Beninger réussirait à travailler avec succès comme avocat. Cependant, cette présomption s’est révélée incorrecte, et le juge Cole a tenu compte de ce qui s’était vraiment passé. Il a décidé qu’il fallait réduire l’arriéré à 20 000 $ et annuler le solde. Il n’y a donc aucune preuve d’un changement de la nature des paiements. Au contraire, M. Beninger a bel et bien été tenu de payer la pension alimentaire fixée initialement par l’ordonnance de février 2003, mais le montant de cette pension a été réduit parce que les situations des parties avaient changé de façon importante.
+[20] En l’espèce, la situation n’est pas la même que dans Widmer, une décision du juge Mogan que la juge Campbell avait cité dans Gill. Dans Widmer, la réduction du montant avait été négociée par les ex‑époux, et l’on pouvait donc soutenir que le montant avait été payé pour être libéré d’une obligation existante et pour réduire une obligation future. Dans la présente affaire, M. Beninger n’a pas accepté de payer un tel montant. Il demandait plutôt l’annulation complète de toutes ses obligations passées. C’est le juge Cole qui a décidé que l’obligation de M. Beninger devait être le paiement d’un montant réduit. Ce n’est pas pour obtenir la réduction de ses obligations passées que M. Beninger a été obligé à payer le montant en question.
+[21] Ma conclusion voulant que, dans la présente affaire, l’arriéré constituait une pension alimentaire pour conjoint déductible est conforme à l’arrêt Sills c. MRN, 1984 CarswellNat 514, [1985] 1 C.T.C. 49, [1985] 2 C.F. 200, 85 DTC 5096, de la Cour d’appel fédérale, où le juge Heald a conclu de la sorte : « [p]ourvu que l’accord prévoie que les montants d’argent sont payables périodiquement, l’exigence contenue à l’alinéa est respectée. Les paiements ne changent pas de nature pour la seule raison qu’ils ne sont pas effectués à temps. » (Non souligné dans l’original.) De plus, comme aucune somme n’a été payée en règlement complet de tous les montants qui étaient payables ou qui allaient devenir payables en application d’une ordonnance précise, le principe énoncé par la Cour suprême du Canada dans MNR v. Armstrong, 1956 CarswellNat 212, [1956] C.T.C. 93, [1956] S.C.R. 446, 56 DTC 1044, ne s’applique pas. En outre, les descriptions des faits de l’affaire Armstrong présentées dans les décisions des tribunaux inférieurs montrent clairement que la somme de 4 000 $ avait été payée pour se libérer d’obligations futures et non pour rembourser un arriéré. Par exemple, à la page 1104 de MNR v. Armstrong, 54 DTC 1104, le juge Armstrong a affirmé que les paiements avaient été faits en application d’un jugement conditionnel au plus tard le 30 juin 1950 et que l’accord de libération était aussi daté du 30 juin 1950.
+[22] En toute déférence pour l’opinion contraire, je ne crois pas que, dès qu’un contribuable paye un montant inférieur à l’arriéré de pension alimentaire pour conjoint (ou l’arriéré de tout autre montant déductible ou imposable), il faut conclure que ce montant n’est pas déductible ou imposable parce que sa nature a changé. Par exemple, si un employé poursuivait son employeur pour recouvrer un salaire impayé et acceptait plus tard de recevoir une somme inférieure en règlement de sa réclamation initiale, il serait faux d’affirmer que le montant reçu par l’employé, ou payé par l’employeur, ne représentait pas un salaire. Le même raisonnement s’applique au créancier qui poursuit son débiteur pour recouvrer des intérêts impayés et qui, pour une raison donnée, accepte un paiement inférieur en règlement complet de l’arriéré.
+[23] À mon avis, la situation est différente lorsqu’une personne accepte de faire un paiement pour être libérée d’obligations futures, y compris le paiement d’une pension, d’une annuité ou de tout autre type de revenu futur. Dans un tel cas, il y a « capitalisation ». Comme l’ont expliqué J. P. Hannan et A. Farnsworth, les auteurs de The Principles of Income Taxation Deduced from the Cases, (Londres : Stevens & Sons Limited, 1952) à la page 287 : [traduction] « la capitalisation est simplement le fait de convertir en capital ce qui aurait été un revenu ». Il est aussi instructif de citer les observations sur le fonctionnement du processus de capitalisation qu’ils ont présentées à la page 288 de leur ouvrage :
+[traduction]
+La capitalisation est prospective – autrement dit, elle agit sur un droit à un revenu futur. Elle ne peut pas s’appliquer à l’arriéré de ce qui aurait été un revenu s’il avait été reçu. Il n’y a pas de capitalisation si un créancier hypothécaire reçoit un paiement au titre des intérêts accumulés pendant (par exemple) dix années ou s’il accepte en règlement complet une somme inférieure à ce qui lui est dû. Dans ces deux derniers cas, il y a simplement remboursement d’une dette. Évidemment, ce paiement est dérivé d’un revenu par le créancier hypothécaire.
+[Non souligné dans l’original.]
+[24] Au paragraphe 7 de l’arrêt rendu par la Cour suprême du Canada dans Armstrong, précité, le juge Kellock a adopté cette conception de la capitalisation : [traduction] « [u]ne telle dépense faite en échange des sommes périodiques payables en application du jugement est de la nature d’un paiement de capital auquel la loi ne s’applique pas »[5].
+[25] Pour tous ces motifs, les appels de M. Beninger sont accueillis et les cotisations établies pour les années d’imposition 2006 et 2007 sont déférées au ministre pour qu’il procède à un nouvel examen et établisse des nouvelles cotisations en tenant pour acquis que M. Beninger a droit aux trois déductions suivantes :
+a) 9 000 $ au titre de pension alimentaire pour conjoint pour l’année d’imposition 2006;
+b) 10 000 $ au titre de pension alimentaire pour conjoint pour l’année d’imposition 2007;
+c) 4 943,50 $ pour l’année d’imposition 2007.
+M. Beninger a droit aux dépens.
+Signé à Ottawa, Canada, ce 30e jour de juin 2010.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 19e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2010 CCI 301
+No DU DOSSIER DE LA COUR :
+2009-2348(IT)I
+INTITULÉ :
+Michael Beninger c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 25 mars 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge Pierre Archambault
+DATE DU JUGEMENT :
+Le 30 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Max Matas
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir le paragraphe 6 de la pièce A‑7 et le paragraphe 21 de la pièce A‑12.
+[2] Ci‑après, l’« ordonnance de février 2003 ».
+[3] Ces passages sont aussi pertinents parce qu’ils font référence à plusieurs décisions où la position contraire avait été adoptée.
+[4] M. Beninger s’est fondé sur cette conclusion pour affirmer que le passage des motifs de la juge Campbell portant sur le changement de la nature du paiement de la pension alimentaire était une remarque incidente.
+[5] Comme je l’ai déjà expliqué, il n’y avait pas d’arriéré dans Armstrong.

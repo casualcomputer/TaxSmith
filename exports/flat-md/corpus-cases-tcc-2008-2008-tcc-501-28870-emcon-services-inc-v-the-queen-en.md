@@ -1,0 +1,187 @@
+---
+title: "Emcon Services Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28870/index.do"
+last_modified: "2008-09-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 501"
+citation2: ""
+neutral_citation: "2008 TCC 501"
+decision_date: "2008-09-09"
+language: "en"
+item_id: "28870"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1313
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:51:45.139000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b38ee66aefea8428401cc907f22225dc8491b1e309d14edc238c7b6d4cc7d273"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Emcon Services Inc. v. The Queen
+
+- Citation: 2008 TCC 501
+- Decision date: 2008-09-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1313, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Emcon Services Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-09
+Neutral citation
+2008 TCC 501
+File numbers
+2008-83(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-83(IT)I
+BETWEEN:
+EMCON SERVICES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 26, 2008, at Kamloops, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Kenneth R. Hauser
+Counsel for the Respondent:
+Andrew Majawa
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2005 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 9th day of September 2008.
+“L.M. Little”
+Little J.
+Citation: 2008 TCC 501
+Date: 20080909
+Docket: 2008-83(IT)I
+BETWEEN:
+EMCON SERVICES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] The Appellant is a company incorporated under the laws of the Province of British Columbia.
+[2] For its fiscal year ending October 31, 2005, the Appellant was required to make monthly tax instalments of $150,930.83. The said instalment payments were to commence in November 2004.
+[3] Since the Appellant had a credit balance in its instalment account for the fiscal year ending October 31, 2004, the Appellant did not make an instalment payment with respect to its fiscal year ending October 31, 2005 until September 12, 2005 when the Appellant made a lump sum payment of $800,000.00.
+[4] Pursuant to a Notice of Assessment dated February 24, 2006, the Appellant was assessed for Federal and Provincial tax in the total amount of $1,812,418.00 for the fiscal year ending October 31, 2005.
+[5] The Appellant filed a Notice of Appeal to the Reassessment.
+[6] Prior to the Hearing, the Parties filed an Agreed Statement of Facts. The Agreed Statement of Facts reads as follows:
+AGREED STATEMENT OF FACTS
+The Appellant and the Respondent agree to the facts set out herein, and the documents in the Joint Book of Documents, for the purposes of these appeals and for the purposes of any appeals from decisions rendered by the Court herein.
+1. In 2004 and 2005, Emcon Services Inc. (the “Company”) was required to pay its income taxes on an instalment basis pursuant to section 157 of the Income Tax Act (the “Act”).
+The 2004 Taxation Year
+2. The Company’s 2004 fiscal year end was October 31, 2004.
+3. The Company’s first monthly instalment payment for the 2004 taxation year was due on November 30, 2003. The Company’s first instalment payment with respect to the 2004 taxation year was made on June 15, 2004, in the amount of $2,362,000.
+4. Since the Company had made no payments to its instalment account between November 30, 2003, and June 15, 2004, instalment interest accrued on the unpaid balance during that time. Tab 1 of the Joint Book of Documents is a print-out of the electronically generated reproduction of the Company’s Statement of Interest Calculated for the 2004 taxation year.
+5. The June 15, 2004, payment for $2,362,000 was for more than what the Company owed to that date; consequently, the Company’s instalment account was put into a credit position. As a result, the Company accrued credit interest on its declining credit balance for the remainder of the 2004 taxation year as detailed in Tab 1 of the Joint Book of Documents.
+6. On December 23, 2004, the Company made a second payment to the 2004 instalment account, this time in the amount of $500,000. Consequently, the total amount paid to the Company’s 2004 instalment account for the 2004 taxation year was $2,862,000.
+7. The Appellant filed its 2004 T2 Tax Return on April 20, 2005, (the “2004 Return”). In its 2004 Return, the Appellant reported total tax payable of $1,841,122 on line 770 and reported tax instalments paid of $2,862,000, resulting in an overpayment of $1,020,878 (the “2004 Overpayment”).
+8. The Company entered the refund code “2” on line 894 of the 2004 Return. Tab 2 of the Joint Book of Documents is a copy of the Company’s electronically filed 2004 T2 Return. Tab 3 of the Joint Book of Documents is a copy of the Agency’s 2004 Corporate Instalment Guide.
+9. The Company’s 2004 Return was assessed pursuant to a Notice of Assessment dated June 3, 2005, (the “2004 Assessment”). Tab 4 of the Joint Book of Documents is the print-out of the electronically generated reproduction of the 2004 Assessment.
+10. The 2004 Assessment resulted in the Company having a net credit balance for its 2004 taxation year of $1,020,878 as a result of the 2004 Overpayment. Also, as a result of the Overpayment, the Company accrued refund interest of $13,371.30 resulting in a total credit balance for the 2004 taxation year of $1,034,249.30 (the “2004 Credit Balance”).
+11. The 2004 Assessment showed the 2004 Credit Balance as an “amount transferred” and stated “We have transferred your credit to the instalment segment of your next reporting period as requested.”
+12. The 2004 Credit Balance was transferred and applied to the Company’s 2005 taxation year on the date of the 2004 Assessment, which was June 3, 2005.
+The 2005 Taxation Year
+13. The Company’s 2005 fiscal year end was October 31, 2005.
+14. The Company’s first monthly instalment payment for the 2005 taxation year was due on November 30, 2004. There were two credits posted to the Company’s 2005 instalment account:
+a) the 2004 Credit Balance transferred to the 2005 instalment account on June 3, 2005; and
+b) an $800,000 payment made by the Company on September 12, 2005.
+15. Instalment interest began to accrue on the Company’s 2005 instalment account after November 30, 2004, on the basis that the 2004 Credit Balance was not transferred to the 2005 taxation year until the 2004 Assessment date on June 3, 2005. Instalment interest continued to accrue until the Company made the September 12, 2005, payment. Tab 5 of the Joint Book of Documents is a print-out of the electronically generated reproduction of the Company’s Statement of Interest Calculated for the 2005 taxation year.
+16. The $800,000 payment on September 12, 2005, was for more than the Company owed at that time. Consequently, the Company began to accrue credit instalment interest on its credit balance as detailed in Tab 5 of the Joint Book of Documents.
+17. The Company’s 2005 taxation year was assessed pursuant to a Notice of Assessment dated February 24, 2006, (the “2005 Assessment”). Tab 6 of the Joint Book of Documents is the print-out of the electronically generated reproduction of the 2005 Assessment. Pursuant to the 2005 Assessment:
+a) the Company was assessed for total federal and provincial taxes owing of $1,812,418 (the “2005 Tax Liability”);
+b) the Company was assessed for instalment interest of $21,897.39, instalment penalties of $741.50, and arrears interest of $8.56 for a total of $22,647.45 (cumulatively, the “2005 Interest and Penalties”);
+c) the 2005 Tax Liability and the 2005 Interest and Penalties totalled $1,835,065.45;
+d) the Company was credited for having remitted $1,834,249.30 against its 2005 balance which amount consisted of the 2004 Credit Balance which the Agency transferred on June 3, 2005, and the $800,000 payment made on September 12, 2005; and
+e) the Company’s total amount owing for the 2005 taxation year on the assessment date was $816.15 ($1,835,065.45 - $1,834,249.30).
+18. Before the 2005 Interest and Penalties were applied, the Company’s instalment account had a credit balance of $21,831.30.
+Fairness Request
+19. The Company made a first and second level fairness request to the Minister under subsection 220(3.1) of the Act to waive the 2005 Interest and Penalties (the “Fairness Request”). The Minister denied the Company’s Fairness Request and the Company applied to the Federal Court of Appeal for judicial review of the Minister’s decision. The judicial review proceedings have been held in abeyance pending the outcome of the Company’s Tax Court appeal. Tab 7 of the Joint Book of Documents is a copy of the Company’s Fairness Request. Tab 8 of the Joint Book of Documents is a copy of the Agency’s first Fairness Report.
+B. Issue
+[7] The issue is whether the Minister of National Revenue (the “Minister”) properly assessed instalment interest, instalment penalties and arrears interest with respect to the Appellant’s 2005 taxation year.
+C. Analysis
+[8] In this situation we are dealing with the following amounts:
+1. Instalment interest $21,897.39
+2. Instalment penalties 741.50
+3. Arrears interest 8.56
+$22,647.45
+[9] Appellant’s Counsel maintains that the Appellant has complied with the obligations set out in the guides regarding transfer of the overpayment.
+[10] Counsel for the Respondent maintains that the Minister properly assessed the Company pursuant to the Income Tax Act (the “Act”). Counsel for the Respondent said that the Tax Court does not have jurisdiction to determine whether section 221.2 of the Act should have been applied because a decision under that section is made separate from the assessment of tax, interest, or penalties.
+[11] Counsel for the Respondent stated that the Tax Court’s jurisdiction is limited to determining the correctness of an assessment. Counsel said that the manner in which a refund is paid or credited to a taxpayer is not part of the assessment and is not within the jurisdiction of the Tax Court. In support of his position counsel for the Respondent referred to Paradis v. The Queen, 2004 TCC 676 and said:
+… This Court's jurisdiction is, pursuant to section 12 of the Tax Court of Canada Act ("TCCA") and sections 169 and 171 of Income Tax Act, restricted to having assessments vacated or varied if the amounts assessed are erroneous. If they are not, this Court can only confirm the assessment. The collection of taxes or the manner in which the government handles tax refunds are not matters within this Court's jurisdiction under the legislation.
+4 As mentioned above, the appellant does not challenge the validity of the assessment made by the Minister of National Revenue ("Minister") insofar as the computation of tax, interest or penalty for his 2002 taxation year is concerned, but rather he challenges how the federal government handled his tax refund.
+[12] Counsel for the Respondent said that in the case at bar the Appellant is challenging the way in which the Canada Revenue Agency (the “CRA”) handled the Company’s refund and is in effect asking the Court to direct the Minister to handle it differently. As in Hrab v. Canada, [1996] 2 C.T.C. 2239 (TCC), this is not a challenge to the way in which the tax liability was calculated. Rather, it is “… a challenge to the manner in which the taxpayer’s liability will be paid and thus is a question of collection of tax, not the assessment of tax”. Counsel for the Respondent said: “this Court lacks jurisdiction to give the relief sought”.
+[13] Counsel for the Respondent also said that decision by the Minister to “re‑appropriate an amount” is discretionary.
+[14] Counsel for the Respondent noted that the modern approach to the interpretation of taxing statutes, like all statutes, required “the words of an Act … to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.”[1] However, where the words of an Act are “precise and unequivocal” there is no need to resort to a purposive analysis; rather, the particular words are to play a dominant role and the provision should be simply applied.[2]
+[15] Counsel for the Respondent submits that the Minister is not required to re‑appropriate the amount. This is because the words of section 221.2 state that “… on application, the Minister may, appropriate…”. The word “may” gives the Minister the discretion to do a particular thing but does not require the Minister to do that thing. He said that this interpretation is consistent with the ordinary meaning of the word “may” and the Supreme Court of Canada’s decision in R. v. Johnson, 2003 SCC 46 at paragraph 16, where the Court stated “…on its face, the word “may” denotes a discretion, while the word “shall” is commonly used to denote an obligation”.
+[16] Counsel for the Respondent said that interpreting the word “may” as connoting a discretion is consistent with section 11 of the Interpretation Act which reads: “…the expression “shall” is to be construed as imperative and the expression “may” as permissive”.[3] He said that Parliament would have used the word “shall” instead of “may” if it had intended the provisions of section 221.2 to be mandatory.
+[17] Respondent’s counsel submits that it is not necessary to resort to the context of the provision, or to extrinsic aids to interpret the purpose of the precise and unequivocal words of section 221.2. He said that additional support for the Respondent’s interpretation is found in two documents which, in addition to the Act, were available to the Appellant:
+i. the Agency’s Corporation Instalment Guide;[4] and
+ii. The Agency’s Technical Note dated June 1992 which states in part:
+New section 221.2 is intended to provide explicit authority for the Minister of National Revenue to accept transfers of payments from one tax account to another, and from one year to another. Under this new provision, any amount transferred – at the taxpayer’s request and with the Minister’s concurrence – from one account to another will be treated as though it had never been paid on account of the first account, and had initially been a payment made in respect of the second[5]. [Emphasis added]
+[18] Respondent’s counsel further said that “… interpreting section 221.2 as being a discretionary section is consistent with the scheme of the Act”. Section 221.2 is found in Part XV of the Act which is entitled “Administration and Enforcement”. More precisely, it is found under the sub‑heading, “Administration” along with sections 220, 221 and 221.1. Section 220 sets out the duties of the Minister and provides the Minister with a number of discretionary powers including waiving the filing of documents, extending the time for filing returns or making various elections.[6] The waiver of interest and penalties, which are undisputedly discretionary, are also found here in subsection 220(3.1); these are commonly referred to as the Taxpayer Relief or Fairness Provisions. Section 221 provides the authority for the promulgation of regulations and section 221.1 provides for some special rules concerning the application of interest where amendments have been made to the Act or its regulations.
+[19] A taxpayer’s liability for interest or penalties is calculated pursuant to sections found in Part I, Division I, under the specific subheadings, “Interest” and “Penalties”. The Respondent submits that to be consistent with the scheme of the Act, section 221.2 would be found in Part I, Division I, instead of in Part XV, if it was in fact intended to be applied as part of the mandatory calculation of the Appellant’s tax liability.
+Conclusion
+[20] I have concluded that the Tax Court’s jurisdiction is limited to determining the correctness of an assessment and therefore the manner in which a refund is paid or credited is not within the jurisdiction of the Tax Court. In the event that I am not correct in my determination that the Tax Court lacks jurisdiction, I have also concluded that the decision by the Minister to “re‑appropriate” is discretionary for the reasons outlined above.
+[21] This appeal is dismissed with costs.
+Signed at Vancouver, British Columbia, this 9th day of September 2008.
+“L.M. Little”
+Little J.
+CITATION: 2008 TCC 501
+COURT FILE NO.: 2008-83(IT)I
+STYLE OF CAUSE: EMCON SERVICES INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kamloops, British Columbia
+DATE OF HEARING: May 26, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: September 9, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Kenneth R. Hauser
+Counsel for the Respondent:
+Andrew Majawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kenneth R. Hauser
+Firm: Kenneth R. Hauser Law Corporation
+Kamloops, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Placer Dome Canada Ltd. v. Ontario (Minister of Finance), 2006 SCC 20 at paragraph 21, Respondent’s Book of Authorities, Tab 10
+[2] Placer Dome, supra, at paragraphs 21-23
+[3] Interpretation Act, R.S.C. 1985, c. I-21, s. 11, Respondent’s Book of Authorities, Tab 3
+[4] Joint Book of Documents, Tab 3
+[5] Respondent’s Book of Authorities, Tab 12
+[6] For example, see subsections 220(2.1), (3), (3.2) of the Act

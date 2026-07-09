@@ -1,0 +1,166 @@
+---
+title: "Huskinson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26787/index.do"
+last_modified: "2005-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 798"
+citation2: ""
+neutral_citation: "2005 CCI 798"
+decision_date: "2005-12-19"
+language: "fr"
+item_id: "26787"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3467
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:12:18.052000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f7400421a819c4fcc8ee68dfe6b32d66c6151fff5900096fb23dda3001dfda2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Huskinson v. The Queen
+
+- Citation: 2005 CCI 798
+- Decision date: 2005-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3467, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Huskinson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-19
+Référence neutre
+2005 CCI 798
+Numéro de dossier
+2005-1914(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1914(IT)I ENTRE :
+LINDA HUSKINSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Belleville (Ontario), le 30 novembre 2005
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Cheryl Cruz
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en application de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2005.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 27e jour de septembre 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI798
+Date : 20051219
+Dossier : 2005-1914(IT)I
+ENTRE :
+LINDA HUSKINSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Le présent appel a été entendu à Belleville (Ontario) le 30 novembre 2005. Comme le montrent l'avis d'appel et la réponse, la question fondamentale (le « fond » ) est de savoir si, pour l'année d'imposition 2003, l'appelante doit inclure dans son revenu imposable, en application de la Loi de l'impôt sur le revenu ( « la Loi » ), la pension alimentaire pour enfants, s'élevant en tout à 24 000 $, qu'elle a reçue de son ex-époux, ce qui dépend à son tour de la question de savoir si l'appelante a reçu cette pension aux termes d'un accord écrit comme le prévoit l'alinéa 56(1)b) de la Loi, toutes les autres conditions pertinentes étant présentes aux fins de l'imposition, à savoir que les paiements représentent une allocation périodique payable pour subvenir aux besoins des enfants issus du mariage et que l'appelante vit séparée de son ex-époux.
+[2] Au début de l'audience, l'avocate de l'intimée a soulevé, au moyen d'une requête préliminaire, la thèse selon laquelle cette cour ne devrait pas entendre l'appel au fond parce que l'appelante était visée par la préclusion découlant d'une question déjà tranchée, la question ayant déjà été tranchée au fond à l'encontre de l'appelante par le juge Mogan, de la Cour, dans un jugement daté du 14 avril 2004 (il s'agit d'un jugement non publié, 2004 UDTC 78 et 2004 CCI 233; une copie certifiée a été déposée en tant que partie intégrante du recueil de jurisprudence de l'avocate). Ledit jugement a été porté en appel devant la Cour d'appel fédérale, qui a rejeté l'appel (2004 DTC 6677). Voir également l'ordonnance de la Cour d'appel fédérale en date du 24 novembre 2004. En outre, la même question a été entendue et tranchée à l'encontre de l'appelante dans un jugement rendu par le juge Hamlyn, de la présente cour, lequel est publié à 1999 DTC 3510.
+[3] L'avocate de l'intimée a mentionné les décisions Wierbicki v. Canada, 2000 DTC 6243 (C.A.F.) et Sokolowska c. Canada [2002] A.C.I. no 32, respectivement rendues par la Cour d'appel fédérale et par la présente cour, dans lesquelles le principe de la préclusion découlant d'une question déjà tranchée a été appliqué.
+[4] J'ai demandé à l'appelante de débattre la requête et d'expliquer les différences qui existent entre le présent appel au fond et la question que le juge Mogan a tranchée. L'appelante a indiqué que cela nécessiterait probablement un examen au fond. Elle a déposé trois avis de ratification délivrés par le ministre. Le premier est daté du 10 mars 2003 et se rapporte à l'année d'imposition 1996. Le deuxième est daté du 17 juillet 2003 et se rapporte aux années d'imposition 2001 et 2002. Le troisième est daté du 15 mars 2005 et se rapporte à l'année d'imposition 2003. (Le juge Mogan examinait les années 1996, 2000, 2001 et 2002.) L'appelante a expliqué que le libellé de ces avis ainsi que des autres lettres et documents fournis par le ministre prêtait à confusion et n'expliquait pas clairement les motifs de rejet de la demande. Toutefois, l'examen des avis de ratification ainsi que de l'avis d'appel de l'appelante et des documents qui y étaient joints ne m'a pas permis de discerner facilement quelles étaient les différences exactes entre la question au fond, pour l'année 2003, soulevée dans le présent appel et la question au fond tranchée par le juge Mogan pour les années dont il avait été saisi.
+[5] J'ai décidé d'ajourner l'audition sur le fond et j'ai entrepris de me prononcer sur la requête préliminaire, en faisant savoir que si la requête était accueillie, l'appel serait rejeté, et que si elle était rejetée, les parties en seraient avisées et qu'une nouvelle date serait fixée aux fins de l'audition sur le fond.
+[6] La requête soulève la question de savoir si l'appelante est empêchée de débattre la question au fond en raison du principe de la préclusion découlant d'une question déjà tranchée ou du principe connexe, la chose jugée.
+[7] Dans son avis d'appel, l'appelante déclarait ce qui suit :
+[TRADUCTION] J'aborde cet appel du rejet, par l'Agence du revenu du Canada, de mon opposition pour l'année d'imposition 2003 en me fondant sur la prémisse selon laquelle l'Agence du revenu du Canada est tenue d'honorer ce qu'elle consigne par écrit. Je me reporte à la page intitulée : « Vos droits » , qui figure sur la couverture arrière du Guide général d'impôt et de prestations publié par l'Agence du revenu du Canada à l'intention des contribuables canadiens. L'Agence du revenu du Canada sera ci-après appelée l'ARC.
+1. Compte tenu de ce qui est imprimé sous la rubrique « Information » à la page intitulée « Vos droits » , l'ARC est tenue de fournir au contribuable de l'information complète, exacte et claire au sujet de ses droits et obligations.
+[...]
+4. Compte tenu de ce qui est imprimé sous la rubrique « Traitement équitable » à la page intitulée « Vos droits » , l'ARC est tenue d'appliquer la loi de façon équitable et impartiale. Les mots clés sont « vous êtes en droit de vous attendre à ce que nous appliquions la loi de façon équitable et impartiale » .
+Pendant le reste du présent appel, je démontrerai comment l'ARC a omis d'appliquer la loi de façon équitable et impartiale pour en arriver à la décision par laquelle elle rejetait l'opposition que j'avais soulevée pour l'année d'imposition 2003.
+5. L'ARC a fondé le rejet de mon opposition concernant l'année d'imposition 2003 sur le fait qu'il y avait un accord écrit, selon l'alinéa 56(1)b) et le paragraphe 56.1(4) de la Loi de l'impôt sur le revenu, soit la seule source légale que l'ARC a mentionnée.
+6. L'ARC a finalement identifié l'accord écrit comme étant le procès-verbal de transaction du 8 juin 1993 versé dans mon dossier. C'est le seul document.
+7. Selon l'alinéa 56(1)b), l' « accord écrit » et l' « ordonnance » sont les deux seuls documents qui permettent à l'ARC de faire en sorte que les paiements périodiques appelés pension alimentaire pour enfants soient imposables entre les mains du bénéficiaire et déductibles entre les mains de l'auteur du paiement.
+8. L'alinéa 56(1)b) lui-même ne définit pas ce qu'est l' « accord écrit » et l' « accord écrit » n'est défini nulle part dans la Loi de l'impôt sur le revenu, comme l'a confirmé Mme Brown, de la Division des appels à l'ARC. Dans deux lettres, l'une en date du 19 mai 2005 (pièce 3) et l'autre en date du 3 juin 2005 (pièce 4), elle disait ceci : « La Loi de l'impôt sur le revenu ne renferme aucune définition de l' « accord écrit » que nous puissions copier et vous transmettre. »
+9. Étant donné que les mots « accord écrit » ne sont pas définis dans la législation fiscale, les décisions que le juge Mogan et l'ARC ont rendues ne sont pas fondées sur le droit, mais elles sont plutôt fondées sur leurs propres interprétations de ces mots. Étant donné qu'il s'agit d'interprétations strictement personnelles, elles risquent d'être inéquitables et partiales. Par conséquent, le droit n'a pas été appliqué, contrairement à ce que l'ARC promet aux contribuables à la page intitulée « Vos droits » et le droit d'être traitée de façon équitable et égale en vertu de la loi qui m'est garanti par la Charte des droits et libertés a été dénié.
+10. À ce jour, dans ma seule cause, cinq interprétations différentes des mots « accord écrit » ont été utilisées, lesquelles se contredisent mutuellement. Dans le jugement qu'il a prononcé en 2004, le juge Mogan a donné les interprétations suivantes des mots « accord écrit » en tentant de faire en sorte que mon procès-verbal de transaction de 1993 soit considéré comme un accord écrit.
+[8] L'appelante cite ensuite divers paragraphes de la décision rendue par le juge Mogan.
+[9] Au paragraphe 26 de l'avis d'appel, il est dit ce qui suit :
+[TRADUCTION] 26. Étant donné les renseignements que j'ai reçus de l'ARC et l'incapacité de celle-ci de démontrer qu'elle a appliqué le droit et qu'elle a été équitable et impartiale en arrivant à la décision par laquelle on rejetait l'opposition que j'avais soulevée pour l'année d'imposition 2003 et les autres oppositions que j'avais antérieurement soulevées au sujet des mêmes points litigieux et des mêmes documents, j'ai conclu que de 1989 à maintenant, l'ARC a imposé entre mes mains le montant que j'ai reçu de mon ex-époux et a permis sa déduction par mon ex-époux sans qu'une ordonnance ait été rendue ou qu'un accord écrit ait été conclu. Il n'est pas fondé en droit de qualifier de « pension alimentaire pour enfants » , selon l'alinéa 56(1)b) de la Loi de l'impôt sur le revenu, le montant que j'ai reçu de mon ex-époux et ce montant n'est donc pas imposable entre mes mains et ne peut pas être déduit par mon ex-époux. Compte tenu de ce que l'ARC a fourni et dit, je crois que toutes les cotisations concernant les années d'imposition 1989 jusqu'à l'année courante peuvent à bon droit être rouvertes par le ministre et qu'elles doivent être ainsi rouvertes.
+[10] La position de l'avocate de l'intimée est brièvement exposée au paragraphe 11 de la réponse, qui est rédigé comme suit :
+[TRADUCTION] Quant à la préclusion découlant d'une question déjà tranchée, [...] en ce qui concerne la position de l'appelante selon laquelle il n'existe pas de contrat signé entre l'appelante et son ex-époux, le ministre se fonde sur les faits suivants :
+a) l'appelante a déjà interjeté appel devant la Cour à l'encontre des nouvelles cotisations établies par le ministre à l'égard du revenu tiré de la pension alimentaire pour enfants qu'elle avait reçue de son ex-époux pour les années d'imposition 1996, 2000, 2001 et 2002;
+b) dans la décision du 28 janvier 2004 par laquelle il rejetait l'appel, le juge Mogan, qui présidait l'audience, a statué que l'appelante et son ex-époux avaient signé une entente de séparation, que ces paiements étaient effectués conformément à cette entente et que les montants étaient donc correctement inclus dans le revenu de l'appelante;
+c) l'appelante a interjeté appel de la décision rendue par le juge Mogan devant la Cour d'appel fédérale, qui a rejeté l'appel;
+d) les questions soulevées devant la Cour dans la présente action sont les mêmes que celles qui ont déjà été débattues devant le juge Mogan, si ce n'est que l'année en cause est différente;
+e) la décision que le juge Mogan a rendue le 28 janvier 2004 était une décision finale;
+f) les parties aux deux actions antérieures intentées devant la Cour ainsi que dans la présente action sont les mêmes.
+[11] L'avocate de l'intimée a mentionné l'arrêt Toronto (Ville) c. Syndicat canadien de la fonction publique (S.C.F.P.), section locale 79, [2003] 3 R.C.S. 77, dans lequel la Cour suprême du Canada a analysé comme suit la préclusion découlant d'une question déjà tranchée et la chose jugée :
+23 La préclusion découlant d'une question déjà tranchée est un volet du principe de l'autorité de la chose jugée [...], qui interdit de soumettre à nouveau aux tribunaux des questions déjà tranchées dans une instance antérieure. Pour que le tribunal puisse accueillir la préclusion découlant d'une question déjà tranchée, trois conditions préalables doivent être réunies : (1) la question doit être la même que celle qui a été tranchée dans la décision antérieure; (2) la décision judiciaire antérieure doit avoir été une décision finale; (3) les parties dans les deux instances doivent être les mêmes ou leurs ayants droit; [...]
+[12] La Cour suprême du Canada a cité une décision rendue par le juge Goudge, de la Cour d'appel de l'Ontario :
+37 Dans le contexte qui nous intéresse, la doctrine de l'abus de procédure fait intervenir [TRADUCTION] « le pouvoir inhérent du tribunal d'empêcher que ses procédures soient utilisées abusivement, d'une manière [...] qui aurait [...] pour effet de discréditer l'administration de la justice » .
+[13] La Cour a conclu ce qui suit :
+Ainsi qu'il ressort du commentaire du juge Goudge, les tribunaux canadiens ont appliqué la doctrine de l'abus de procédure pour empêcher la réouverture de litiges dans des circonstances où les exigences strictes de la préclusion découlant d'une question déjà tranchée (généralement les exigences de lien de droit et de réciprocité) n'étaient pas remplies, mais où la réouverture aurait néanmoins porté atteinte aux principes d'économie, de cohérence, de caractère définitif des instances et d'intégrité de l'administration de la justice. [...]
+Analyse et conclusion
+[14] L'appelante est-elle empêchée de présenter sa cause quant à la question au fond? En répondant à cette question, je me fonde sur les trois éléments analysés ci-dessus dans la décision de la Cour suprême du Canada.
+[15] Le juge Mogan a décidé que le procès-verbal de transaction constituait un accord écrit. L'appelante a porté cette décision en appel devant la Cour d'appel fédérale, qui a rejeté l'appel. À vrai dire, le rejet était fondé sur une question de procédure découlant d'un défaut de la part de l'appelante, mais il reste néanmoins que l'appel a été rejeté. La décision du juge Mogan était une décision finale et le juge a procédé à une analyse détaillée et exhaustive. Il a examiné le long litige qui a été à l'origine du procès-verbal de transaction ainsi que tous les paragraphes pertinents du procès-verbal de transaction et les faits qui ont entraîné sa signature. Il a analysé les signatures elles-mêmes. Il a examiné la teneur du document et il a conclu ce qui suit :
+[12] Le Procès verbal de transaction constitue un accord écrit. Je n'ai aucune difficulté à en arriver à cette conclusion. En fait, si je tiens compte de tout le témoignage de l'appelante et des documents déposés, je ne peux arriver à aucune autre conclusion que le fait que le Procès verbal de transaction constitue un accord écrit. [...]
+[23] Il n'existe aucun bien-fondé à ces appels. La preuve est accablante et montre que l'appelante et son ex-conjoint ont signé un accord écrit (onglet 2 de la pièce R-1). On ne lui avait pas donné le nom d'entente de séparation. On ne l'appelait pas accord écrit, mais il s'agissait d'un document écrit de quatre pages sur lequel quelqu'un avait travaillé, annulant certains passages et ajoutant des dispositions. Il avait été signé par l'appelante, son ex-conjoint et sa mère en juin 1993. Il s'agissait des trois personnes les plus intéressées à établir ce que serait leur relation financière à l'avenir en ce qui a trait aux biens.
+[24] Enfin, les faits ont montré qu'avec ou sans autre procédure judiciaire, ils devaient se conformer à ce qui avait été établi dans le Procès verbal de transaction. Par conséquent le Procès verbal constitue un accord écrit. En fait, il s'agit de l'entente selon laquelle la pension alimentaire pour enfants a été versée pour les années faisant l'objet des présents appels et les montants doivent être inclus dans le calcul des revenus de l'appelante pour les années d'imposition 1996, 2000, 2001 et 2002. Les appels sont rejetés.
+[16] L'appelante a expliqué pourquoi la position prise par l'ARC et le jugement rendu par le juge Mogan ne lui convenaient pas. Les avis de ratification et les autres lettres que l'ARC lui avaient envoyés ont peut-être causé de la confusion tout en ne constituant peut-être pas une explication complète et satisfaisante de la raison pour laquelle la nouvelle cotisation avait été établie. Toutefois, il s'agit de savoir si la nouvelle cotisation est correcte et non de savoir si l'ARC a clairement expliqué les raisons pour lesquelles une nouvelle cotisation était établie. La seule question qui se pose au fond est de savoir si le procès-verbal de transaction en cause constitue un accord écrit au sens de l'alinéa 56(1)b) de la Loi. Cette question a déjà été clairement tranchée par un jugement de la Cour. Il s'agit d'un jugement final. Si j'applique les principes ci-dessus analysés que la Cour suprême du Canada a énoncés, je n'hésite pas à conclure que le principe de la préclusion découlant d'une question déjà tranchée ainsi que celui de la chose jugée s'appliquent en l'espèce et que l'affaire ne peut pas être de nouveau soumise aux tribunaux à l'égard de l'année d'imposition 2003. L'appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2005.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 27e jour de septembre 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE : 2005CCI798
+No DU DOSSIER DE LA COUR : 2005-1914(IT)I
+INTITULÉ : Linda Huskinson
+c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Belleville (Ontario)
+DATE DE L'AUDIENCE : Le 30 novembre 2005
+MOTIFS DU JUGEMENT : L'honorable juge T. O'Connor
+DATE DU JUGEMENT : Le 19 décembre 2005
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Cheryl Cruz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

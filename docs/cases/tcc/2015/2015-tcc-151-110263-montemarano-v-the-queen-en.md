@@ -1,0 +1,153 @@
+---
+title: "Montemarano  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110263/index.do"
+last_modified: "2015-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 151"
+citation2: ""
+neutral_citation: "2015 TCC 151"
+decision_date: "2015-06-18"
+language: "en"
+item_id: "110263"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2649
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:18:56.805000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4bc18439767dc9965d6a0821c6fa9853dceae5f4449ba0708208984c3efb7be2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Montemarano  v. The Queen
+
+- Citation: 2015 TCC 151
+- Decision date: 2015-06-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2649, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Montemarano v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-18
+Neutral citation
+2015 TCC 151
+File numbers
+2013-2521(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Notes
+A correction was made on July 24, 2017.
+Decision Content
+Docket: 2013-2521(GST)I
+BETWEEN:
+ANTHONY G. MONTEMARANO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 11, 2015, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Renzo Isabella
+Counsel for the Respondent:
+Katie Beahen
+JUDGMENT
+The appeal from the assessment under Part IX of the Excise Tax Act dated March 1, 2012 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant has met the conditions required to qualify for the housing rebates at issue.
+Signed at Ottawa, Canada, this 18th day of June 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC151
+Date: 20170719
+Docket: 2013-2521(GST)I
+BETWEEN:
+ANTHONY G. MONTEMARANO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the Appellant is entitled to new housing rebates in the amount of $27,297.85. The rebates consist of a New Housing Rebate of $6,254.72 pursuant to subsection 254(2) of the Excise Tax Act (“ETA”) and a New Housing Rebate (Ontario) of $21,043.13 pursuant to subsection 256.21 of the ETA (the “Rebates”).
+Preliminary Matter [2] There were two preliminary matters at the beginning of this hearing. Counsel for the Respondent made a motion to file an Amended Reply with the Court. It had been sent to counsel for the Appellant prior to the hearing and he consented to its being filed. It is ordered that the Amended Reply is filed.
+[3] Counsel for the Appellant asked to file an affidavit of an individual who is employed by the Region of Peel Water and Wastewater Service. The Respondent objected on the basis that she had received the affidavit the day before the hearing and she was not given any contact information with respect to the affiant. Consequently, she was unable to cross examine the affiant. I did not allow the Appellant to file the affidavit.
+Facts [4] From August 2014 to the present, the Appellant has been employed as a construction supervisor with Brookfield Residential. As such, he supervises the construction of houses from excavation to drywall.
+[5] The Appellant testified that in 2009 he was in a serious relationship with his girlfriend L.M. and he planned on marrying her. In anticipation of getting engaged and married, he decided to buy a home. He chose to live in the city of Brampton because it was close to his parents’ home and to the highway for his work and to his girlfriend’s parents’ home. For a period of three to four weeks, he visited various building sites in Brampton in his search for a home. He went to the sales office at the building sites and looked at house plans. On June 22, 2009, he signed an Agreement of Purchase and Sale with Country Wide Homes to purchase the property at 117 Fairwood Circle, Brampton, Ontario (the “Property”). The purchase included a four bedroom house which was to be constructed on the Property. The Appellant’s offer was accepted on July 27, 2009 and the closing date for the sale was December 30, 2010. The purchase price of the Property was $362,000. The Appellant stated that his down payment on the Property was $100,000 which consisted of $50,000 which he received from his parents, $25,000 which he withdrew from his RRSPs and $25,000 which he paid to the builder as a series of deposits.
+[6] On December 10, 2010, the Appellant assigned the Rebates to the builder.
+[7] The Appellant was a first-time homebuyer. Prior to purchasing the Property, he lived at home with his parents. He stated that when he purchased this Property he intended that it would be his primary residence and it would later become his matrimonial home. He had been dating L.M. for a few years and not only were they serious but their families had become very close. He intended to get engaged to L.M. and then to marry her.
+[8] It was the Appellant’s evidence that L.M. helped him choose the décor for the Property. Whereas, he chose the construction details because he was experienced in that field. He testified that since the Property was going to be his primary residence, he paid for upgrades in the kitchen, bathroom and family room which cost $7,507.50. Both he and L.M. chose these upgrades.
+[9] The Appellant stated that the sale of the Property did not close until December 30, 2010 because he had asked for an “extended closing” so that the driveway and lawn would be complete when he moved into the Property. This would ensure that the construction of the houses in the immediate vicinity of his Property would also be finished and the dirt and debris in the neighbourhood would be minimized. The Appellant bought insurance for the Property as of December 30, 2010 and the insurance included coverage of $277,500 for his personal property.
+[10] The Appellant moved into the Property in January 2011. He didn’t own any furniture and his parents gave him some extra furniture which they had. His furniture consisted of a bed and dresser; a table and four chairs; and, dishes, glasses and cutlery. It was the Appellant’s evidence that he didn’t buy any furniture because he knew that when he and L.M. married they would choose new furniture for the Property. He also stated that it was customary in his culture that the parents would give gifts of furniture when a couple married.
+[11] Two of the Appellant’s friends testified that they helped him move into his new home in January 2011. They also visited the Appellant from time to time at the Property to play poker.
+[12] In March 2011, the Appellant and his girlfriend broke up. The Appellant stated that he just didn’t feel the same about the Property and it was too large for one person. He listed it for sale in July 2011. The Property sold in September 2011 for a gain of approximately $130,000.
+[13] It was the Respondent’s position that the Appellant did not acquire the Property as his primary place of residence and that the Appellant did not live in the Property.
+Law [14] The relevant paragraph in subsection 254(2) of the ETA reads:
+(2) Where
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+[15] According to the legislation, the question is whether at the time the Appellant became liable under the agreement of purchase and sale for the Property, he intended to use the Property as his primary place of residence. In this appeal, the Appellant became liable under the agreement of purchase and sale in July 2009.
+Analysis [16] It is my view that the Appellant purchased the Property with the intention of making it his primary residence and he has provided sufficient evidence of this intention. The Appellant has established to my satisfaction that he lived in the Property from January to July 2011. He stated that he decided to sell the Property after his relationship with his girlfriend ended. The Appellant gave his evidence in a straightforward manner and I found him to be credible.
+[17] Aside from the evidence of his two friends, the Appellant’s testimony about moving into the Property was supported by his hydro bills and a letter from his real estate agent. The letter from his real estate agent was dated July 2011 and in it the agent made several suggestions about how the Appellant could make his home ready for a quick sale. The agent recommended that the Appellant should remove all the furniture from his home and either have it staged or leave it vacant. It was the agent’s opinion that the Appellant’s style of furniture did not show his home well. The agent also recommended, among other things, that the Appellant should have all the carpets professionally cleaned; the paint touched- up in the bedrooms and all garbage cleaned out of the garage.
+[18] In assuming that the Appellant did not move into the Property, the Minister of National Revenue (the “Minister”) relied on the fact that the Appellant did not change his address on record with the Canada Revenue Agency (“CRA”), the Ministry of Transportation for his driver’s licence and the Ministry of Health for his health card. However, in the circumstances of this case, this factor is not very important because the Appellant’s former residence is his parent’s home and he could obtain his mail from them.
+[19] At the objection stage of this appeal, the Appellant sent various documents to the CRA. One such document was his water bill from the Region of Peel. Relying on this bill, the Minister assumed that “no water had been used at the Property as of February 28, 2011”. The Appellant explained that the bills were not obvious to read and that there was no charge for water when the usage was less than 10,000 litres. I have accepted the Appellant’s evidence.
+[20] Although it was not explicitly stated in the Reply, I have inferred from the Reply and from the questions asked by counsel for the Respondent that the Minister believed that the Appellant was aware of the real estate market and that he purchased the Property to “flip” it.
+[21] The Appellant worked for Madison Homes Holdings Ltd. (“Madison”) in 2009 as a construction supervisor. He stated that he had no interactions with the purchasers of the properties. His work with Madison was the same as that with his present employer. It was his evidence that he knew little about the real estate market.
+[22] Counsel for the Respondent argued that, at the hearing, the Appellant gave a different reason for selling the Property than he gave to the auditor when he was contacted by the CRA. Initially, the Appellant told the CRA that he sold the Property because he could not afford it. The Appellant explained that when he received the telephone call from the CRA, he was at work and he thought that the call was a joke. I find that the Appellant’s explanation is acceptable. As I stated earlier, I found that the Appellant was credible and his explanation for selling the Property was plausible.
+[23] In my opinion, the Appellant has met the conditions required to qualify for the housing rebates at issue. The appeal is allowed.
+These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment dated June 18, 2015
+The only amendment is that subsection 256.2(1) has been changed to 256.21
+Signed at Halifax, Nova Scotia, this 19th day of July 2017.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC151
+COURT FILE NO.:
+2013-2521(GST)I
+STYLE OF CAUSE:
+ANTHONY G. MONTEMARANO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 11, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+June 18, 2015
+DATE OF AMENDED REASONS
+FOR JUDGMENT: July 19, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Renzo Isabella
+Counsel for the Respondent:
+Katie Beahen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Renzo Isabella
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

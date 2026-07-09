@@ -1,0 +1,147 @@
+Title: Okeke v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127046/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-301-127046-okeke-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-12-01
+
+# Okeke v. The Queen
+
+- Citation: 2015 TCC 301
+- Decision date: 2015-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2703, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Okeke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-12-01
+Neutral citation
+2015 TCC 301
+File numbers
+2015-123(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-123(IT)I
+BETWEEN:
+BENJAMIN OKEKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 28, 2015, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tony Cheung
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the Appellant’s 2008 taxation year is dismissed.
+Signed at Ottawa, Canada, this 1st day of December 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC301
+Date: 20151201
+Docket: 2015-123(IT)I
+BETWEEN:
+BENJAMIN OKEKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] This appeal relates to the Appellant’s 2008 taxation year in which he claimed a non-refundable tax credit for charitable donations of $5,400 to Revival Time Ministries Int. (“RTM”) and $4,400 to Operation Save Canada Teenagers (“OSCT”).
+[2] In reassessing the Appellant, the Minister of National Revenue (the “Minister”) allowed his claim for a charitable donation of $800 to RTM because the Appellant was able to provide a cancelled cheque payable to RTM for that amount. The Minister disallowed the Appellant’s claim for a charitable donation of $9,000 on the basis that (i) he was not able to provide proof that he made cash donations of $9,000; and, (ii) the receipts which the Appellant provided from RTM and OSCT did not contain information which is prescribed by the Income Tax Regulations (the “Regulations”).
+[3] The witnesses at the hearing were the Appellant and Tony P. Thomas who is an auditor in the Charities Audit Section of the Canada Revenue Agency (“CRA”) in Kitchener, Ontario.
+Facts Cash Donations [4] It was the Appellant’s evidence that, in 2008, he attended church services which RTM held at the Days Inn at Jane Street and Weston Road in Toronto. His charitable donations to RTM were tithes which he gave during these church services. He stated that he placed his donation in an envelope; wrote his name on the envelope; and, then placed the envelope in the offering plate. All of the tithes were in cash except the amount of $800 which was donated by way of a cheque.
+[5] The Appellant testified that he gave his charitable donations to OSCT at their office which was located on Finch Avenue. These donations were in cash and he gave them to the person working in the office. He did not receive a receipt at the time that he gave the donation but he received a receipt at the end of the year by mail from the charities.
+[6] In 2009, the CRA asked the Appellant to prove that he made the donations to RTM and OSCT. He stated that he contacted the charities and they wrote letters acknowledging that he had made the donations. The letters were addressed to Gary Huenemoeder, the Team Leader in the Charities Audit Section of the CRA, and signed by Daniel Mokwe. One letter was dated August 30, 2009 and written on OSCT’s letterhead. It read that the Appellant made cash donations of $4,400 and it listed the day and month in 2008 on which the donations were made. The other letter was dated September 4, 2009 and written on RTM’s letterhead. It read that the Appellant had made a donation of $5,400; it listed the months in 2008 on which the donations were made; and, it included a copy of a cheque for a donation of $800.
+[7] The Appellant stated that other than his testimony and the letters from Mr. Mokwe, he had no other way to prove that he had made the donations at issue.
+[8] Mr. Thomas testified that he was involved in the audit of OSCT and RTM. He stated that in September 2008, CRA requested the records for OSCT and RTM for the 2006 and 2007 fiscal years. These fiscal years covered the periods July 1, 2006 to June 30, 2007 and July 1, 2007 to June 30, 2008. Mr. Mokwe, the founder of both organizations, told Mr. Thomas that all of the records had been stored in a warehouse and the contents were sold when the charities failed to pay arrears rent. The records were lost. In 2009, the CRA asked Mr. Mokwe for computer access to the records of OSCT and RTM and was told that there had been a malfunction of the computers and all records were lost. Therefore, according to Mr. Thomas neither OSCT nor RTM had any records which could have been used to produce the letters dated August 30 and September 4, 2009.
+[9] Mr. Thomas also testified that Mr. Mokwe gave him false bank statements for the charities. He stated that he then requested the bank statements from the banks and the combined deposits for OSCT and RTM for 2006, 2007 and 2008 were $12,000. For this same period, the total donation receipts issued by RTM was $4.1 million and by OSCT was $3.7 million.
+Details of Receipts [10] It was the Appellant’s position that the assumptions of fact relied on by the Minister of National Revenue (the “Minister”) with respect to the details on the receipts were not the same as those facts stated in the Notice of Confirmation.
+[11] In the Notice of Confirmation, the Minister wrote that the receipts did not satisfy the requirements of the Regulations because:
+• The name on the receipts does not match the Charity name as recorded by the Minister.
+• The date on which the receipt was issued is not indicated.
+[12] Whereas, in the Reply to Notice of Appeal (the “Reply”), the Minister stated that she relied on the following assumptions of fact in confirming the reassessment:
+The RTM receipt provided by the Appellant for the 2008 taxation year in support of his purported donation was missing the following contents:
+i) The day on which the donation was received;
+ii) The address of the organization issuing the receipt does not match the address of the organization as registered with the Minister;
+iii) The serial number of the receipt;
+iv) A statement that it is an official receipt for income tax purposes.
+[13] The Reply contained a similar paragraph with respect to the OSCT receipt.
+Legislation [14] Paragraph 118.1(2)(a) of the Act provides that proof of a charitable gift shall be made by filing a receipt for the gift which contains prescribed information. That paragraph reads:
+118.1(2) An eligible amount of a gift is not to be included in the total charitable gifts, total cultural gifts or total ecological gifts of an individual unless the making of the gift is evidenced by filing with the Minister
+(a) a receipt for the gift that contains prescribed information;
+[15] Regulation 3500 provides, in part:
+“official receipt”
+“official receipt” means a receipt for the purposes of subsection 110.1(2) or (3) or 118.1(2), (6) or (7) of the Act, containing information as required by section 3501 or 3502;
+[16] The prescribed information which must be contained on a receipt is contained in section 3501 of the Regulations which reads:
+1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the donation is a cash donation, the day on which or the year during which the donation was received;
+(e.1) where the donation is a gift of property other than cash
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (e) or (e.1);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations; and
+(j) the name and Internet website of the Canada Revenue Agency.
+Analysis Cash Donations [17] The Minister assumed that in 2008 the Appellant did not make cash donations of $4,600 to RTM and $4,400 to OSCT. It is my view that the Appellant has not shown that the Minister’s assumption was incorrect. The Appellant stated that he kept a record of each of his donations and yet he didn’t bring that record to the hearing of his appeal. He did not bring any bank statements, withdrawal slips or any personal documents to support the alleged cash donations.
+[18] The Appellant relied on the letters written by Dan Mokwe in 2009. However, it was clear from Mr. Thomas’ evidence that the details in these letters were fabricated. In 2009, OSCT and RTM did not have the necessary records to produce these letters.
+[19] The Appellant insisted that he made a donation of $4,400 to OSCT and a donation of $4,600 to RTM. He stated that it was not his fault that the charities did not have records to give to the CRA.
+[20] However, the onus was on the Appellant to show that he made the cash donations and in the circumstances of this case, he needed more than his testimony. It was best stated by Sheridan, J. in Patel v R, 2011 TCC 555 at paragraph 16 where she said:
+…However, when a taxpayer chooses to deal only in cash, whether for charitable donations or any other matters likely to come under the scrutiny of the Minister of National Revenue, she imposes on herself the burden of having some means of verifying the otherwise untraceable transactions. The present case provides a perfect illustration of why the Act strictly regulates the conditions of eligibility for charitable donation deductions. As Tardif J. explained in Plante v. The Queen, [1999] T.C.J. No. 51:
+[46] The requirements in question are not frivolous or unimportant; on the contrary, the information required is fundamental, and absolutely necessary for checking both that the indicated value is accurate and that the gift was actually made.
+[47] The purpose of such requirements is to prevent abuses of any kind. They are the minimum requirements for defining the kind of gift that can qualify the taxpayer making it for a tax deduction.
+Receipts [21] Proof of a charitable donation is made by filing a receipt for the donation and it is mandatory that the receipt contain the information prescribed in section 3501 of the Regulations: Afovia v The Queen, 2012 TCC 391.
+[22] In this case, the receipts submitted by the Appellant were deficient. Contrary to paragraph 3501(1)(a) of the Regulations, the name of the charity on each receipt did not match the charity name as recorded by the Minister. In the case of the receipt for RTM, the name on the receipt was “Revival Time Ministries” whereas the name recorded by the Minister was “Revival Time Ministries Int., Toronto, Ont.”. In the case of OSCT, the name on the receipt was “Operation Save Canada Teens” whereas the name recorded by the Minister was “Operation Save Canada’s Teenagers, Toronto, Ont.”. In addition, neither receipt indicated the day on which the receipt was issued as is required by paragraph 3501(1)(f) of the Regulations.
+[23] The Appellant argued that in the Reply, the Minister listed different deficiencies in the receipts than she had stated in the Notice of Confirmation. This may be true. However, it is not a reason to allow this appeal. It is clear that both the Notice of Confirmation and the Reply raise the issue that the receipts did not contain the information prescribed by section 3501 of the Regulations. The Appellant knew the burden he had to meet.
+[24] In conclusion, the Appellant did not provide evidence to support that he made charitable donations of $9,000 in 2008 and the receipts which he tendered did not meet the requirements of section 3501 of the Regulations. The appeal is dismissed.
+Signed at Ottawa, Canada, this 1st day of December 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC301
+COURT FILE NO.:
+2015-123(IT)I
+STYLE OF CAUSE:
+BENJAMIN OKEKE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 28, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+December 1, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

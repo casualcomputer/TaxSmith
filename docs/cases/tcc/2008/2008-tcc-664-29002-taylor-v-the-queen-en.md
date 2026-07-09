@@ -1,0 +1,150 @@
+---
+title: "Taylor v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29002/index.do"
+last_modified: "2008-12-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 664"
+citation2: ""
+neutral_citation: "2008 TCC 664"
+decision_date: "2008-12-04"
+language: "en"
+item_id: "29002"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6751
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:33:40.178000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fc70b278ec25168170681ef7c52a679f739f6e7fabfddeaa140e5e1ebba83fcf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Taylor v. The Queen
+
+- Citation: 2008 TCC 664
+- Decision date: 2008-12-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6751, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taylor v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-04
+Neutral citation
+2008 TCC 664
+File numbers
+2008-1091(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1091(IT)I
+BETWEEN:
+BRIAN JOHN TAYLOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 24, 2008 at Calgary, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Meier
+____________________________________________________________________
+JUDGMENT
+In respect of assessments made under the Income Tax Act for the 2005 and 2006 taxation years, it is ordered that:
+1. the appeal in respect of the 2005 taxation year is quashed; and
+2. the appeal in respect of the 2006 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that legal fees in the amount of $ 200 are deductible in computing income.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada this 4th day of December 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC664
+Date: 20081204
+Docket: 2008-1091(IT)I
+BETWEEN:
+BRIAN JOHN TAYLOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Brian Taylor, appeals assessments made under the Income Tax Act in respect of his 2005 and 2006 taxation years.
+[2] The 2005 taxation year will be considered first. The appeal with respect to this year will have to be quashed because Mr. Taylor did not take the necessary procedural steps to file a notice of objection with respect to this year. Mr. Taylor conceded at the hearing that no objection had been filed.
+[3] I now turn to the 2006 taxation year. Mr. Taylor seeks two adjustments with respect to this year.
+[4] The first concerns withdrawals that Mr. Taylor made from RRSPs in the amount of $33,657.78. This amount was included in Mr. Taylor’s income and he seeks to have it excluded.
+[5] The second item in dispute is a deduction that Mr. Taylor claimed for legal fees in the amount of $8,108.90. The Minister has disallowed this deduction in its entirety.
+[6] Mr. Taylor filed separate notices of appeal for each of the issues. In each, the reasons stated for the appeal concern alleged improper actions by employees of the Canada Revenue Agency.
+[7] In regards to the RRSP issue, the notice of appeal states:
+I feel I have a right to not pay the tax on the RRSPs I had to take out to investigate what should have been promptly investigated by the CRA. I had to take RRSPs out and pay the CRA that was breaking their own laws.
+[8] In regards to the legal expense issue, the other notice of appeal states:
+The Appellant submits a claim to legal fees on grounds the Respondent breached the Privacy Act and the Income Tax Act.
+[9] At the hearing, Mr. Taylor provided an organized and detailed account of the events surrounding alleged misconduct by certain employees of the Canada Revenue Agency.
+[10] In general, the events include alleged improper access to CRA computer records of tax information regarding Mr. Taylor and his relatives. The persons alleged to have taken this action were CRA employees, including an employee who is related to Mr. Taylor’s former wife.
+[11] Following complaints registered by the alleged victims, an investigation was conducted by the CRA, which concluded that a relative had indeed improperly accessed the CRA computer records relating to Mr. Taylor and his brother.
+[12] Meanwhile, the 2004 taxation year of Mr. Taylor was under review by the CRA, in a process that Mr. Taylor described as the “nasty audit.” The tax returns of other relatives were also being reviewed.
+[13] The problem that Mr. Taylor has in the appeal for the 2006 taxation year is that the jurisdiction of this Court is limited. The only matter that can be decided in relation to the assessment for the 2006 taxation year is whether the tax assessed has properly determined in accordance with the provisions of the Income Tax Act.
+[14] Several judicial decisions of the Federal Court of Appeal that are binding on this Court have held that improper conduct of CRA employees during an audit is not sufficient grounds to vacate or reduce the assessment: Superior Filter Recycling Inc. v. The Queen, 2006 DTC 6491; 2006 FCA 248. That principle is applicable here.
+[15] Mr. Taylor raised several arguments, including arguments under the Taxpayers’ Bill of Rights and sections 7 and 24 of the Canadian Charter of Rights and Freedoms.
+[16] I make no finding as to whether there have been breaches of these rights. Even if there had been breaches, it would not be a sufficient reason to give the relief that Mr. Taylor seeks.
+[17] That is not the end of the matter, however, because the respondent raised the issue of whether all or part of the legal fees were deductible under paragraph 60(o) of the Income Tax Act.
+[18] Paragraph 60(o) permits a deduction in computing income for fees paid in the year in preparing, instituting or prosecuting an objection or appeal to an assessment. The relevant part of paragraph 60(o) provides:
+60(o) legal [or other] expenses [of objection or appeal] amounts paid by the taxpayer in the year in respect of fees or expenses incurred in preparing, instituting or prosecuting an objection to, or an appeal in relation to,
+(i) an assessment of tax, interest or penalties under this Act or an Act of a province that imposes a tax similar to the tax imposed under this Act,
+[19] During cross-examination, Mr. Taylor testified that the legal fees that are claimed relate to an objection of an income tax assessment for the 2004 taxation year.
+[20] The legal fees that were incurred relate to family law matters and privacy complaints. I am not satisfied that there were significant legal fees paid in 2006 that reasonably relate to the income tax assessment of Mr. Taylor’s 2004 taxation year. However, I do think that it would be appropriate to allocate a small amount of the legal fees paid in 2006 to the objection process.
+[21] Mr. Taylor submitted into evidence an invoice for legal services by Pierre Boileau dated March 15, 2006 in the amount of $638.41. The detail in the invoice contained one entry relating to the equivalent-to-spouse deduction, which was the subject matter of the income tax objection. As this was only one of nine entries in the invoice, I have concluded that $100 of these legal fees are deductible on the basis that they relate to the prosecution of the objection.
+[22] Mr. Taylor also submitted an invoice for legal services from Lacourciere Associates dated May 31, 2006. The total amount of the invoice was $1,070. This invoice appears to relate entirely to pursuing a complaint regarding alleged misconduct by CRA employees.
+[23] The privacy matter is not directly related to the income tax matter, but there is some connection because Mr. Taylor staunchly believes that the CRA misconduct led to the audit of his 2004 taxation year. Nevertheless, Mr. Taylor admits that Mr. Lacourciere was only tangentially involved with the income tax objection. I have decided to allow a modest allocation of Mr. Lacourciere’s invoice to advice regarding the income tax objection. $100 will be allocated.
+[24] In the result, the following orders will be issued:
+1. the appeal in respect of the 2005 taxation year will be quashed; and
+2. the appeal in respect of the 2006 taxation year will be allowed, and the assessment will be referred back to the Minister of National Revenue for reassessment on the basis that legal fees in the amount of $200 should be allowed.
+[25] Since Mr. Taylor was for the most part unsuccessful in the appeal, there will be no order as to costs.
+Signed at Ottawa, Canada this 4th day of December 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC664
+COURT FILE NO.: 2008-1091(IT)I
+STYLE OF CAUSE: BRIAN JOHN TAYLOR AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: November 24, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: December 4, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

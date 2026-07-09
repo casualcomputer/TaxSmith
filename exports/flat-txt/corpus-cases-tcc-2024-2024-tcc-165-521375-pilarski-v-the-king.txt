@@ -1,0 +1,188 @@
+Title: Pilarski v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521375/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-165-521375-pilarski-v-the-king.md
+Document type: case_law
+Last modified: 2024-12-20
+
+# Pilarski v. The King
+
+- Citation: 2024 TCC 165
+- Decision date: 2024-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6038, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pilarski v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-12-20
+Neutral citation
+2024 TCC 165
+File numbers
+2015-355(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-355(IT)G
+BETWEEN:
+JOSEPH PILARSKI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard in writing
+The Honourable Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carrie Calabrese
+ORDER
+UPON REVIEW of the parties’ submissions and upon publishing its Reasons for Order attached;
+NOW THEREFORE THIS COURT ORDERS THAT:
+1. The Respondent’s motion to quash the appeal, identified for clarity as docket: 2015-355(IT)G, is granted because the issues under appeal have been resolved pursuant to subsection 169(3) of the Income Tax Act and any appeal from the consequential reassessment dated September 13, 2013 has been irrevocably waived under subsection 169(2.2); and,
+The circumstances warrant no costs are awarded; however should the Respondent dispute this preliminary determination, brief written submissions by the Respondent must be submitted to the Court within 30 days of the date of this Order whereupon the Court should further direct the Appellant regarding an opportunity to provide reply submissions.
+Signed at Ottawa, Canada, this 20th day of December 2024.
+“R.S. Bocock”
+Bocock J.
+Citation: 2024 TCC 165
+Date: 20241220
+Docket: 2015-355(IT)G
+BETWEEN:
+JOSEPH PILARSKI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+[1] The Appellant, (“Mr. Pilarski”), filed a notice of appeal on January 20, 2015 (the “second appeal”) seeking to appeal a notice of confirmation dated October 22, 2014.
+[2] That notice of confirmation itself arose from purported minutes of settlement (“Minutes”) executed by both counsel of record in counterpart in July of 2013. The Minutes settled an appeal opened as Tax Court file docket number 2008-1829(IT)G (the “first appeal”). The issues and taxation year(s) in the first appeal and the second appeal are identical.
+[3] Mr. Pilarski asserts that he did not consent to, or authorize his listed counsel of record to agree to, the Minutes which settled and resulted in the discontinuance of the first appeal.
+Motion to quash and “counter-motion to dismiss motion” [4] The Respondent disagrees and moves (or moved accurately given the time lapsed) moved to quash the second appeal by notice of motion (“Respondent’s Motion”) dated April 10, 2015.
+[5] When the Respondent’s Motion was called by the Court for oral hearing on June 24, 2015, Mr. Pilarski requested an adjournment to further prepare for the motion and, upon consent, the Court directed that the motion be heard by written representations with this judge remaining seized and materials to be served and filed according to dates in an order. In response, Mr. Pilarski served and filed his own notice of motion on November 30, 2015. His motion requested the dismissal of the Respondent’s Motion.
+The record before the Court [6] The various materials concerning the two motions were filed with the Court on the following dates in 2015 by the respective parties:
+PARTY FILING
+MATERIALS
+DATE FILED
+I. Respondent
+Respondent’s motion record:
+a) Notice of Motion
+b) Affidavit of David I. Besler
+c) Respondent’s Written Submissions
+d) Authorities
+e) Legislation
+May 20, 2015
+II. Appellant
+Appellant’s motion record:
+a) Notice of Motion
+b) Affidavit of Joseph Pilarski
+c) Appellant’s Written Submissions
+November 30, 2015
+III. Respondent
+Respondent’s supplementary motion record:
+a) Respondent’s Reply Submissions
+b) Additional Authorities
+December 18, 2015
+Abeyance ordered because similar matter appealed [7] After the filing of the above materials, the parties jointly requested that the motion be held in abeyance until the hearing and decision on appeal of this Court’s order in Davies v. HMQ, 2016 TCC 104 (“Davies TCC Order”). The requested abeyance was granted by Order dated June 6, 2016.
+Davies dismissed by Federal Court of Appeal; further leave denied [8] The Davies appeal was dismissed by the Federal Court of Appeal on June 25, 2019: Davies v. HMQ, 2019 FCA 191 (“Davies Appeal”); a subsequent leave application to the Supreme Court of Canada was denied by that Court on January 11, 2020: CanLii 1836 (SCC).
+Time to hear Mr. Pilarski’s motion [9] On February 13, 2020, the Respondent requested that the two motions held in abeyance be heard and decided. At the Appellant’s specific written request, on February 21, 2021, the Court directed an oral hearing of the motions. The COVID-19 pandemic prevented the holding of any hearing during much of 2020 and 2021.
+[10] On September 28, 2021, a conference call was held to discuss various hearing procedures. The Court directly advised Mr. Pilarski that: i) the COVID-19 pandemic continued to prevent immediate scheduling of an oral hearing of the motion before the seized judge; ii) Mr. Pilarski’s health and travel distance complicated the holding of an oral hearing anytime before the Spring of 2022; and, iii) the motion was suitable for hearing by written representations since all materials had already been filed with the Court.
+Mr. Pilarski seeks an “in person” hearing [11] In response, Mr. Pilarski adamantly requested that he be given an in person oral hearing before the Court and accommodated. As a result, the Court accommodated Mr. Pilarski. It made special arrangements that any hearing of the motion start later in the day, indicated the Respondent’s Motion, the motion to quash, was the central focus and allowed freshened materials to be filed.
+Mr. Pilarski adjourns for illness [12] Upon Mr. Pilarski’s receipt of the scheduling order, Mr. Pilarski requested an adjournment for medical reasons.
+[13] Mr. Pilarski’s physician confirmed by letter that Mr. Pilarski, in the doctor’s opinion, should not for a period of 4 months be involved in the preparation and participation “in a trial”. Respondent’s counsel consented to the adjournment request.
+Court felt tele-hearing best in circumstances [14] As a result, the Court ordered the hearing of the motion in person at the court in Toronto on May 31, 2022 be adjourned and converted the hearing of the motions by written representations.
+Mr. Pilarski disagrees and appeals; FCA says TCC correct [15] Mr. Pilarski disagreed with the Court’s decision to hear the motion in writing and, as was his right, appealed the Court’s order to the Federal Court of Appeal. The Federal Court of Appeal dismissed Mr. Pilarski’s appeal: Pilarski v. HMK 2024 FCA 60.
+[16] That dismissal means this Court is again charged with determining the Respondent’s Motion to dismiss the second appeal, and Mr. Pilarski’s recorded opposition by virtue of Mr. Pilarski’s motion.
+At last, deciding this motion to quash [17] The Respondent requests that the appeal represented by the second appeal be dismissed because the taxation years, 2000 and 2001, and the issues described - capital cost allowance deductibility for software - are identical to the previously dismissed first appeal: Court File No. 2008-1829(IT)G.
+Respondent’s position in brief [18] The Respondent submits that quashing the second appeal is the only proper decision because:
+Mr. Pilarski had retained counsel, Osler, Hoskin and Harcourt LLP (“Osler”) in regards to the original appeal;
+Osler represented to the Respondent throughout that Mr. Pilarski was a client who had retained Osler’s services;
+Osler settled the first appeal and filed the notice of discontinuance after the consequential reassessment dated October 22, 2014;
+the Respondent was at no material time (i.e. prior to the issuance of any consequential reassessment) aware of any impediment, impairment or discontinuance by Mr. Pilarski of Osler’s retainer as counsel;
+all related appellants in the group, including Mr. Pilarski through Osler, settled the appeals, including the original appeal pursuant to subsection 169(3) of the Act; and,
+once settlement was affected through counsel and a consequential assessment was issued in conformity with the Minutes, Mr. Pilarski legally waived his right to appeal the issues and taxation years settlement.
+Mr. Pilarski’s position in brief [19] In opposition to the Respondent’s motion, Mr. Pilarski asserts that:
+he was not privy or knowledgeable of the basis upon which the first appeal was settled because he was not included in such discussion by Osler;
+after November 23, 2010, Mr. Pilarski provided no instructions to Osler to settle;
+after December 15, 2010 and until January 9, 2014, Mr. Pilarski had no communications with Osler;
+when Osler signed the Minutes ostensibly on Mr. Pilarski’s behalf, it had no authority to do so;
+other counsel retained by Mr. Pilarski emailed Respondent’s counsel on January 7, 2014, before the notice of discontinuance was filed to advise Mr. Pilarski had not consented to settlement; and,
+Respondent’s counsel ignored that plea of other counsel, Mr. Pilarski and ultimately Osler’s that the notice of discontinuance not be filed.
+[20] Mr. Pilarski also incorporated by reference the previous motion brought in the Davies TCC Appeal and Davies Appeal (supra), to assert that Mr. Pilarski “believe(s) Crown Counsel acted in a similar manner… by filing a Notice of Discontinuance after being expressly advised by the taxpayer that he had not been aware of and had not approved the settlement, and that the filing of any Notice of Discontinuance was not authorized.”.
+[21] Mr. Pilarski’s assertion that he had no communication with Osler’s from early December 2010 until 2014 is, on balance, likely the case. This accords more or less with the Court’s finding in the Davies TCC Order at paragraph 5 where such a period of no communication existed.
+“Silent Period” during settlement discussions [22] To illustrate the litigation and settlement discussions in detail, the chart from Davies TCC order detailing the “Silent Period” is repeated below:
+Silent Period Activities
+Date
+Nature of Activity
+Consequence
+January 25, 2012
+Litigation Counsel writes the Respondent and proposes basis for resolution of all appeals in the group.
+Respondent’s counsel receives and considers the proposal.
+January 18, 2013
+Letter in which the Respondent’s counsel proposes a counter-offer for resolution of all appeals in the group.
+Litigation Counsel receives counter-offer.
+April 30, 2013
+Letter in which Respondent’s counsel requests confirmation of Litigation Counsel’s continued retainer for individual appellants in group to act.
+Litigation Counsel receives request.
+May 30, 2013
+Letter from Litigation Counsel confirming continued retainer and full capacity as counsel for the appellants including the Appellant.
+The letter clarifies the basis of resolving the appeals prior to subsequent litigation steps.
+June 18, 2013
+Respondent’s counsel forwards draft Minutes of Settlement and Notices of Discontinuance.
+Litigation Counsel receives documents and proceeds to collate and execute.
+July 8, 2013
+Litigation Counsel executes the Minutes of Settlement and Notices of Discontinuance as counsel.
+After execution the documents are forwarded to Respondent’s counsel.
+July 31, 2013
+Respondent’s counsel completes execution of Minutes of Settlement and Notices of Discontinuance.
+The Minutes of Settlement provide for 10% capital cost deductibility and provides executed discontinuances are to be filed after conforming Notices of Reassessment are issued by the Minister.
+September 13, 2013
+The Minister issues Notices of Reassessments and forwards same to each Appellant, including the Appellant, by regular mail.
+This completes the Minister’s obligations under the Minutes of Settlement.
+Mr. Pilarski et.al. react after reassessment and discontinuance [23] Further the “Rescission Period” activities below describe the combined efforts of Mr. Pilarski, his other deployed legal counsel and Osler to attempt to countermand any consent to the appeal reflected in the Minutes. These details are not materially in dispute:
+Rescission Activities
+January 7, 2014
+In response Mr. Pilarski’s other counsel writes to Osler. He advises that Mr. Pilarski’s view is that he did not retain Osler or agree to the executed Minutes of Settlement and Notice of Discontinuance.
+January 9, 2014
+Mr. Pilarski emails Respondent’s counsel to advise that he did not retain Osler or authorize settlement. A second email the same date requests that Respondent’s counsel not file the notice of discontinuance.
+January 10, 2014
+Respondent’s counsel writes Osler to advise Mr. Pilarski’s assertions are too late because of the binding solicitor/client relationship of Osler and Mr. Pilarski
+[24] The sequence of events concerning Mr. Pilarski’s filing of the discontinuance roughly reflect those facts outlined in paragraph 7 of the Davies TCC Order, save for one element: the reaction time of Mr. Davies versus Mr. Pilarski. As seen above, the notices of confirmation were issued on September 13, 2013, Mr. Pilarski first reacted some 4 months later. In contrast, Mr. Davies reacted within 30 days. In any event, the notices of confirmation arose from and conformed to the Minutes.
+Resolution unaffected by unknown solicitor/client breakdown [25] The Court’s rationale in quashing Mr. Pilarski’s second appeal may be summarized below and is entirely consistent with its reasons articulated in the Davies TCC Order:
+the Court cannot set aside the discontinuance; it was executed by a lawful agent, the conditions for satisfying its filing were fulfilled and it was consequentially filed;
+the consequential reassessment (October 22, 2014), a condition precedent to the discontinuance being filed, conformed exactly to the Minutes; and,
+the Minutes were also executed by both a lawful agent and counter-party, the counter-party (the Crown) had no timely knowledge of any deficiency and relied upon the Minutes in fulfilling the counter-party’s obligations.
+[26] Foremost and finally, no facts move the Court to discard the settlements which also affected many related appellants, many of whom also retained Osler. The Tax Court has no jurisdiction to provide restitution to Mr. Pilarski should it be that he has suffered loss from counsel’s actions or omissions. Possibly, there are other venues for such recompense from judicial bodies clothed with that jurisdiction.
+[27] Many -- the Court, litigants and counsel -- rely daily on the unassailability of these settlement procedures: to wit, this Court stated in the Davies TCC Order at paragraph 24 [parentheses added for context]:
+To conduct such an inquiry and rescind the Minutes in these factual circumstances ignores the obvious and consequential responsibility and omissions of Litigation Counsel [Osler]: no communication with a client for 3 years, no fresh contact within 54 days of execution of the Minutes, the day delay in contacting Respondent’s counsel and then only by voicemail and no advice by Appellant’s counsel directly to the Court. These omissions clearly impact the solicitor-client relationship, but their time of discovery was simply too late to allow this Court to exercise its discretion to invalidate the Minutes and the resolution of this settled litigation. To so lately pierce this veil of solicitor-client agency also ignores: (i) the non-compensable prejudice to be suffered by the Respondent - such prejudice itself identified by the Appellant at the outset of the discovery - who settled all other appeals in the group: (ii) the doubt to be cast upon the reliability of subsection 169(3) of the Act and related sections of the Tax Court’s rules for future litigants and, (iii) the otherwise more contained and proximate remedies available elsewhere to the Appellant for compensation arising from Litigation Counsel’s [Osler’s] omissions.
+[28] For all of these reasons, the Respondent’s motion is granted and the second appeal identified as Court File No. 2015-355(IT)G is quashed.
+[29] Given the circumstances, there shall be no costs, unless within 45 days, the Respondent files and serves brief written submissions requesting otherwise, whereupon the Court shall further direct the Appellant regarding reply submissions, if necessary.
+Signed at Ottawa, Canada, this 20th day of December 2024.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2024 TCC 165
+COURT FILE NO.:
+2015-355(IT)G
+STYLE OF CAUSE:
+JOSEPH PILARSKI AND HIS MAJESTY THE KING
+REASONS FOR ORDER BY:
+The Honourable Justice Randall S. Bocock
+DATE OF ORDER:
+December 20, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carrie Calabrese
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

@@ -1,0 +1,176 @@
+---
+title: "725685 Alberta Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28657/index.do"
+last_modified: "2008-06-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 301"
+citation2: ""
+neutral_citation: "2008 CCI 301"
+decision_date: "2008-06-05"
+language: "fr"
+item_id: "28657"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1121
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:42:01.170000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1dd32482786b7c3965fe531a81665be542e6477c48a46b7a6bd501eec902b86d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 725685 Alberta Ltd. c. La Reine
+
+- Citation: 2008 CCI 301
+- Decision date: 2008-06-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1121, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+725685 Alberta Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-05
+Référence neutre
+2008 CCI 301
+Numéro de dossier
+2007-2054(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI301
+Date : 20080605
+Dossier : 2007-2054(IT)I
+ENTRE :
+725685 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Calgary (Alberta), le 28 novembre 2007)
+Le juge Paris
+[1] Le présent appel a été interjeté à l’égard d’une nouvelle cotisation établie pour l’année d’imposition de l’appelante se terminant le 30 juin 2002, par laquelle le ministre du Revenu national (le « ministre ») a refusé la déduction de 62 723 $ demandée à l’égard de créances irrécouvrables dans le calcul des revenus de l’appelante tirés d’une entreprise.
+[2] Les hypothèses sur lesquelles le ministre s’est fondé pour établir la nouvelle cotisation se trouvent au paragraphe 8 de la réponse à l’avis d’appel, et elles sont ainsi rédigées :
+[TRADUCTION]
+a) l’appelante exploite une entreprise d’inspection de champs pétrolifères et de pipelines;
+b) les actions avec droit de vote de l’appelante appartiennent aux personnes suivantes :
+Actionnaire
+Pourcentage des actions
+Marge Stephan
+67 %
+Ryan Stephan
+33 %
+c) l’exercice de l’appelante prend fin le 30 juin;
+d) dans le calcul de son revenu pour son année d’imposition 2002, l’appelante a demandé la déduction de 62 723 $ à titre de créances irrécouvrables;
+e) dans son bilan, l’appelante avait à l’origine classé la somme de 62 723 $ dans les investissements, mais, en 2002, elle a reclassé la somme dans les créances irrécouvrables;
+f) la demande de déduction de créances irrécouvrables de l’appelante était ventilée de la façon suivante :
+Prêts à 609574 BC Ltd. (« 609574 »)
+57 573,00 $
+Prêt à Indigenous Consulting & Environmental Ltd. (« ICE »)
+4 150,00 $
+Frais de sous‑traitance mal classés n’étant pas en cause dans le présent appel
+1 000,00 $
+Total
+62 723,00 $
+609574
+g) l’appelante détient 100 % des actions avec droit de vote de 609574;
+h) les prêts avaient été faits à 609574 pour payer les frais d’exploitation de 609574;
+i) les prêts faits à 609574 n’ont pas été inclus dans le calcul du revenu de l’appelante pour l’année d’imposition 2002 ou pour une année d’imposition antérieure;
+j) bien que 609574 ait cessé ses activités, elle est toujours inscrite au registre des sociétés de la Colombie‑Britannique;
+k) l’appelante n’a pas démontré que sa créance à l’endroit de 609574 était irrécouvrable;
+l) les prêts n’ont pas été faits à 609574 en vue de tirer un revenu d’un bien ou d’une entreprise;
+m) les prêts faits à 609574 étaient imputables au capital;
+ICE
+n) les actions avec droit de vote de ICE appartiennent aux personnes suivantes :
+Actionnaire
+Pourcentage des actions
+Appelante
+50 %
+D.K. Oilfield Services Ltd.
+50 %
+o) les prêts faits à ICE n’ont pas été inclus dans le calcul du revenu de l’appelante pour l’année d’imposition 2002 ou pour une année d’imposition antérieure;
+p) ICE est une entreprise en exploitation;
+q) l’appelante n’a pas démontré que sa créance à l’endroit de ICE était irrécouvrable;
+r) les prêts n’ont pas été faits à ICE en vue de tirer un revenu d’un bien ou d’une entreprise;
+s) les prêts faits à ICE étaient imputables au capital.
+À l’audience, l’appelante était représentée par M. Ted Stephan, l’un de ses administrateurs.
+[3] Lors de l’audience, M. Stephan a reconnu que le montant en litige s’élevait à 57 573 $, soit le total des prêts faits à 609574 BC Limited (« 609 »). Cette dernière exploitait une agence de voyages à White Rock (Colombie‑Britannique) sous le nom de Cruises Unlimited.
+[4] Les actions de l’appelante appartenaient à parts égales à Marge Stephan, l’épouse de Ted Stephan, et à leur fils Ryan Stephan. L’appelante détenait les actions de 609 en fiducie jusqu’au remboursement des prêts que l’appelante avait consentis à 609. Une fois les prêts remboursés, les actions de 609 devaient être transférées à Michael Stephan, un autre fils de M. et de Mme Stephan. Michael Stephan dirigeait l’entreprise exploitée par 609.
+[5] Les prêts faits à 609 par l’appelante ont été consentis en application d’un accord conclu le 20 septembre 2000. 609 se servait de ce prêt pour combler au besoin les écarts entre ses revenus et ses frais d’exploitation. Les sommes prêtées ont été avancées à 609 à divers moments en 2000 et 2001, lorsque 609 en avait besoin. L’accord de prêt prévoyait un taux d’intérêt de 15 % sur le capital prêté. 609 devait rembourser les fonds empruntés et payer les intérêts après la première période où elle aurait été rentable durant six mois.
+[6] À la suite des attentats terroristes du 11 septembre 2001, l’entreprise de 609 s’est effondrée et 609 a été incapable de rembourser les fonds empruntés à l’appelante et de payer les intérêts connexes.
+[7] Dans le calcul de son revenu pour l’année d’imposition en cause, l’appelante a demandé la déduction, à titre de créance irrécouvrable, de la partie non remboursée du prêt qu’elle avait fait à 609. Le ministre a refusé cette déduction au motif que le prêt était imputable au capital et qu’il n’avait pas été fait pour tirer un revenu d’un bien ou d’une entreprise. Le ministre a aussi soutenu que l’appelante n’avait pas démontré que le prêt était devenu irrécouvrable pendant son année d’imposition 2002. L’avocate de l’intimée a abandonné cette dernière position à l’audience, quand elle a reconnu que l’effondrement de l’entreprise de 609 avait rendu le prêt irrécouvrable. L’intimée a aussi soutenu que l’appelante n’avait droit à aucune déduction pour créances irrécouvrables parce qu’elle ne satisfaisait pas aux critères de l’alinéa 20(1)p) de la Loi de l’impôt sur le revenu (la « Loi »). Plus précisément, l’intimée a dit qu’aucune partie de la créance n’avait préalablement été incluse dans le calcul du revenu de l’appelante, et que les activités d’entreprise habituelles de l’appelante n’incluaient pas le prêt d’argent.
+[8] La preuve montre que l’appelante s’attendait à obtenir un rendement, sous forme d’intérêt, du prêt qu’elle avait fait à 609. Ainsi, le prêt constituait pour l’appelante une dépense en capital, dont la déduction serait initialement interdite par l’alinéa 18(1)b) de la Loi.
+[9] L’article 20 de la Loi prévoit certaines exceptions à l’interdiction de la déduction des dépenses en capital prévue à l’alinéa 18(1)b). L’une de ces exceptions figure à l’alinéa 20(1)p) de la Loi, et elle admet la déduction des créances irrécouvrables. Il s’agit là de la seule disposition qui permettrait à l’appelante de déduire la somme en litige. L’alinéa 20(1)p) est ainsi rédigé :
+20. (1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+Créances irrécouvrables
+p) le total des montants suivants :
+(i) les créances du contribuable qu’il a établies comme étant devenues irrécouvrables au cours de l’année et qui sont incluses dans le calcul de son revenu pour l’année ou pour une année d’imposition antérieure,
+(ii) les montants représentant chacun la partie du coût amorti, pour le contribuable à la fin de l’année, d’un prêt ou d’un titre de crédit (sauf un bien évalué à la valeur du marché, au sens du paragraphe 142.2(1)) que le contribuable a établie, au cours de l’année, comme étant devenue irrécouvrable, lequel prêt ou titre, selon le cas :
+(A) si le contribuable est un assureur ou si son activité d’entreprise habituelle consiste en tout ou en partie à prêter de l’argent, a été consenti ou acquis dans le cours normal des activités de son entreprise d’assurance ou de prêt d’argent,
+(B) si le contribuable est une institution financière au sens du paragraphe 142.2(1) au cours de l’année, compte parmi ses titres de créance déterminés au sens de ce paragraphe;
+[10] L’avocate de l’intimée a raison de dire que le sous‑alinéa 20(1)p)(i) de la Loi ne permet aucune déduction à l’appelante, parce que la preuve montre qu’elle n’avait inclus aucune somme prêtée à 609 dans le calcul de son revenu pour l’année d’imposition 2002 ou pour une année d’imposition antérieure.
+[11] La division 20(1)p)(ii)(B) de la Loi ne s’applique pas non plus, parce que l’appelante n’est pas une institution financière au sens du paragraphe 142.2(1) de la Loi.
+[12] La seule question restante est de savoir si, durant l’année d’imposition en cause, l’activité d’entreprise habituelle de l’appelante consistait en tout ou en partie à prêter de l’argent. Dans l’affirmative, l’appelante aurait droit à une déduction en vertu de la division 20(1)p)(ii)(A) de la Loi.
+[13] Lorsque le ministre a établi la nouvelle cotisation à l’égard de l’appelante, il a supposé que l’appelante [TRADUCTION] « exploit[ait] une entreprise d’inspection de champs pétrolifères et de pipelines ». Cependant, M. Stephan a témoigné que l’appelante avait fait d’autres prêts que celui qu’elle avait consenti à 609, et qu’elle [TRADUCTION] « faisait tout pour produire des revenus, y compris le prêt d’argent ».
+[14] Les documents présentés à la Cour pour le compte de l’appelante montrent que des prêts avaient été faits à deux particuliers : un prêt de 1 400 $ en août 2002 et un prêt de 600 $ de février 2005. M. Stephan a aussi mentionné un prêt de plus de 45 000 $ qui aurait été fait pour une période de deux mois en 2006, mais aucun document n’a été présenté à l’appui.
+[15] M. Stephan a dit que tous les prêts portaient intérêt, et que d’autres petits prêts avaient été faits à ICE, une société liée, pour l’aider à payer ses frais de démarrage avant qu’elle n’ouvre un compte bancaire. Mis à part ces prêts, M. Stephan a affirmé que les gens savaient que l’appelante prêtait de l’argent, bien qu’elle ne s’affichait pas comme prêteuse.
+[16] Lorsqu’on a demandé à M. Stephan, lors de son contre‑interrogatoire, quelles étaient les activités de l’appelante, il a répondu qu’elle faisait l’inspection de champs pétrolifères et de pipelines en ayant recours à des entrepreneurs. M. Stephan a ajouté que la seule source de revenus de l’appelante avant le 30 juin 2002 (c’est‑à‑dire avant la fin de son année d’imposition) était son entreprise d’inspection de champs pétrolifères et de pipelines. Enfin, lorsqu’on lui a demandé si l’appelante avait fait des prêts avant le 30 juin 2002, il a affirmé ne pas en avoir souvenir, mais il a ajouté que cela était possible.
+[17] Il serait raisonnable de croire que, si le prêt d’argent constituait une activité d’entreprise habituelle de l’appelante pour l’année d’imposition en cause ou pour une année d’imposition antérieure, l’appelante aurait alors tiré un revenu de cette source ou, à tout le moins, M. Stephan aurait été capable d’affirmer avec certitude que l’appelante avait consenti des prêts de façon habituelle. La preuve ne révèle pas que le prêt d’argent constituait une activité d’entreprise de l’appelante avant la fin de l’année d’imposition 2001 de l’appelante. Je conclus donc que le prêt d’argent ne constituait pas une activité d’entreprise habituelle de l’appelante pour cette année d’imposition ou pour des années d’imposition antérieures. Ainsi, aucune déduction n’est admise en vertu de l’alinéa 20(1)p) de la Loi.
+[18] L’appel doit donc être rejeté.
+Signé à Ottawa, Canada, ce 5e jour de juin 2008.
+Juge Paris
+Traduction certifiée conforme
+ce 25e jour de juillet 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI301
+No DU DOSSIER DE LA COUR :
+2007-2054(IT)I
+INTITULÉ :
+725685 Alberta Ltd. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 28 novembre 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 5 juin 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+Edwin Ted Albert Stephan
+Avocate de l’intimée :
+Me Martha E. Burns
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

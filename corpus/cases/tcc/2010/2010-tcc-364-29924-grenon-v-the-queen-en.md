@@ -1,0 +1,162 @@
+---
+title: "Grenon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29924/index.do"
+last_modified: "2010-07-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 364"
+citation2: ""
+neutral_citation: "2010 TCC 364"
+decision_date: "2010-07-02"
+language: "en"
+item_id: "29924"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6472
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:12:17.566000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "508ea6a98c6bf2efa8d41af7739e58957395b6ba96d5e27135da248fea32fee7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grenon v. The Queen
+
+- Citation: 2010 TCC 364
+- Decision date: 2010-07-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6472, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grenon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-02
+Neutral citation
+2010 TCC 364
+File numbers
+2002-3842(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2010 TCC 364
+Date: 20100702
+Docket: 2002-3842(IT)G
+BETWEEN:
+JAMES GRENON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Miller J.
+[1] The Appellant, Mr. Grenon, brings a motion for an Order:
+i) compelling the Crown to provide answers to objected undertakings;
+ii) requiring the Crown to present a knowledgeable officer for further examinations for discovery; and
+iii) advice and directions regarding the appropriate scope of discovery in this appeal.
+[2] Mr. Grenon’s appeal concerns the denial by the Minister of National Revenue (“Minister”) of the deduction for significant legal expenses incurred by Mr. Grenon in litigation dealing with child support. The Minister’s position is that such expenses are personal expenses of the Appellant and not incurred for the purpose of gaining or producing income; consequently, paragraph 18(1)(a) of the Income Tax Act ("Act") applies to deny the deduction. Mr. Grenon’s primary argument is that if the legal fees are not deductible under paragraph 18(1)(a) of the Act then paragraph 18(1)(a) infringes his right to equal protection and equal treatment under the law, pursuant to subsection 15(1) of the Canadian Charter of Rights and Freedoms ("Charter").
+[3] In support of his Charter argument, Mr. Grenon relies heavily on the Federal Child Support Guidelines (the "Guidelines"). Under the submissions section of Mr. Grenon’s Third Amended Notice of Appeal, he states: [1]
+…
+25. The Guidelines are a central contextual factor in the systemic discrimination against men in the field of family law. The Guidelines created an inherent inequality between women as support recipients and men as support paying parents, creating an unconstitutional discriminatory effect on men. That unconstitutional effect arises from a violation of the Appellant’s (and all support paying parents, the vast majority of who are men), rights to equal protection and equal benefit under the law as required under s.15(1) and s.28 of the Charter. The particulars of the deficiencies in the Guidelines of the Divorce Act leading to this unequal treatment and unconstitutional discrimination include:
+(a) Failing to implement the principle under s.26.1 of the Divorce Act that spouses have a joint financial obligation to support their children by focusing only on a paying parent’s income and not adequately, or at all, taking into account the financial circumstances of the recipient parent;
+(b) An arbitrary focus on the income of the paying parent in the assessment of child support without an actual or reasonable assessment of the needs or true costs of children and thereby failing to provide a bona fide economic foundation for the Guidelines;
+(c) Failing to account adequately, or at all, for the costs of having custody of children at any level less than 40% of the time thereby failing to require the recipient custodial spouse to share in any of those costs. Further unequal treatment includes applying onerous factual presumptions and financial disclosure requirements on paying parents only;
+(d) Applying an unfairly simplistic linear formula connected to the paying parents after-tax income and not recognizing that the actual costs of raising children does not rise proportionately as income increases;
+(e) Causing an unwarranted transfer of wealth between paying and recipient parent aimed at an equalization of household income as opposed to the stated and legitimate aims of the joint financial support of children;
+(f) Arbitrarily dictating that the non-custodial parent (where custody is less than 40% of the time) is the paying parent, when financial circumstances may indicate that the opposite should be ordered;
+(g) Such further and other particulars as may be proven at the hearing of this appeal.
+…
+[4] Mr. Grenon goes on to suggest systemic discrimination in the Government of Canada as follows:
+26. The Appellant submits that the discrimination described herein arising from the Act results from and reinforces other unequal, discriminatory treatment of men and fathers in the field of divorce law, including that:
+a. the federal government has expressly adopted a policy of promoting the legal, social, economic and political interests of women, including informal and formal consultations between the federal Department of Justice and the federal Status of Women Canada agency, but has not adopted a similar policy with respect to men;
+b. the federal government funds and participates in private ex parte briefings to judges, including judges in matters of divorce, that promote the legal, social, economic and political interest of women, but do not address in an equal manner the interests of men;
+c. the federal government includes a Secretary of State cabinet position, together with a concomitant budget and bureaucracy with the mandate to promote the legal, social, economic and political interests of women, yet there is no cabinet member with the same mandate for men;
+c.1 the federal government funds non-governmental organizations promoting the legal, social, economic and political interests of women, yet does not fund, or does not fund at an equal level, groups promoting those same interests of men;
+d. according to a federal Department of Justice publication, women are awarded sole custody of children in divorce proceedings in 78.5% of cases. Fathers had sole custody in only 8.8% of cases and shared custody (where a child spends at least 40% of the time with each parent) was only in 6.7% of cases;
+e. according to a federal Department of Justice publication, men are the payers of child support in 92.8% of cases before the court;
+e.1 The Minister has also interpreted that spousal support recipients are entitled to deduct legal fees incurred in relation to such support, but that the payers of such support are not entitled to deductibility. According to a federal Department of Justice publication, men are the payers of spousal support in 98.7% of cases where such support is ordered for couples that had children, and men are the payers in the vast majority of cases where spousal support is paid where the couple had no children;
+h. Numerous laws and enforcement programs have been participated in by the federal government for the enforcement of child support payments, but none for the enforcement of court ordered child access by a non-custodial parent.
+[5] The Respondent states in the Reply to the Third Amended Notice of Appeal: [2]
+He further submits that ss. 3, 6, 9, 18 and 248(1) do not draw a formal distinction between the Appellant and others on the basis of one or more personal characteristics and do not fail to take into account the Appellant’s alleged disadvantaged position within Canadian society resulting in a substantively differential treatment between the Appellant and others on the basis of one or more personal characteristics. In the alternative, it is further submitted that there is no differential treatment of the Appellant for the purposes of s. 15(1) of the Charter.
+[6] The Respondent presented an Appeals Officer, Mr. Peturson, for examination for discovery. The Appeals Officer who reviewed Mr. Grenon’s objection and her team leader are both no longer employed with the Canada Revenue Agency ("CRA"). Mr. Peturson reviewed the pleadings, CRA’s files and the production of documents of each Party. In an affidavit in support of the Respondent’s response to the Appellant’s Motion, Mr. Peturson stated that the Minister did not rely upon the Guidelines in denying Mr. Grenon the deduction of legal expenses.
+[7] At the examination for discovery, Mr. Peturson was asked several questions in connection with the Guidelines. These are the questions Mr. Grenon seeks to compel the Respondent to answer. They are attached as Appendix A hereto.
+[8] Mr. Grenon, in his affidavit in support of the motion, identified Ms. Giliberti and Ms. Brazeau as the principal authors of the 1995 Federal/Provincial/Territorial Family Law Committee’s Report and Recommendation on Child
+Support , which Mr. Grenon suggests forms the basis for the Guidelines. Mr. Grenon also identified Ms. McRae as a co-chair of the Federal Family Law Committee in 2001. All three individuals are employed by the Government of Canada. Mr. Grenon desires to have any one of them appear for examinations for discovery to answer the questions with respect to the Guidelines.
+Motion to Compel
+[9] From a review of the Undertakings, it is clear that they all relate to the development, comprehensiveness and adequacy of the Guidelines. Are such questions proper in accordance with Rule 95 of the Tax Court of Canada Rules (General Procedure), which stipulates that a person "shall answer to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding"? The Appellant takes a broad and liberal interpretation to the scope of examination and answers this question affirmatively. The Respondent focuses on the requirement that the question must be relevant to a matter in issue based upon the pleadings and argues such questions do not so relate.
+[10] The Respondent draws a distinction between material facts relied upon in the pleadings versus argument or submissions in the pleadings, concluding that the Appellant cannot allege facts in its own argument and then turn around to discover the Respondent on such facts. In this regard, the Appellant referred to the case of Xu v. The Queen [3] where Justice Mogan stated:
+13. I will strike out paragraph 17 of the Reply because, under the heading "Statutory Provisions and Grounds relied On", the Respondent should not allege a new fact or make a new argument based on a fact not previously alleged.
+[11] The Respondent argues this is especially so where the questions do not relate to the issue – the constitutionality of paragraph 18(1)(a) of the Act. Justice Beaubier, in his decision of June 9, 2006 on a motion by Mr. Grenon stated:
+1. Advice and directions respecting the Court’s jurisdiction of the constitutionality of the Federal Child Support Guidelines. This is answered by stating that in this Appeal of an assessment under the Income Tax Act (the "Act"), this Court may rule as to matters affected by that assessment under the Act. But in and of themselves, the Federal Child Support Guidelines (the "Guidelines") are outside of the jurisdiction of this Court as set forth in the Tax Court of Canada Act.
+[12] The Respondent’s position is summarized in paragraphs 18 and 19 of her written submission:
+18. It is in this context the Appellant’s 3rd Amended Notice of Appeal must be examined. Paragraphs 16 through 26 of the "Submissions of the Appellant" portion of the 3rd Amended Notice of Appeal, do not give rise to discoverable allegations of material facts. The content of these paragraphs has not been plead as material facts, and therefore they have not been responded to as facts in the Reply to the 3rd Amended Notice of Appeal. These paragraphs represent only the arguments the Applicant intends to make at the hearing of the appeal and they do not have the character of allegations of fact.
+19. As is evident from the decision of the Tax Court and of the Federal Court of Appeal, the Federal Child
+Support Guidelines are not an issue before the Tax Court in this Appeal. The Appellant’s opinion that his arguments regarding these Guidelines are relevant to an interpretation of paragraph 18(1)(a) of the Act and section 15 of the Charter, does not transform what are otherwise only arguments into material facts or issues to be decided by the Tax Court, not otherwise plead.
+[13] Mr. Grenon’s counsel places little importance on the placement of facts in the pleadings, suggesting that if I find he has incurred some technical breach in putting the facts in paragraph 26 of the Third Amended Notice of Appeal in the wrong section of the pleadings, he will simply seek leave to amend pleadings. With respect, counsel is making light of the framing of pleadings. And the Appellant, in his own submissions, acknowledged that where a party objects to a question on the basis of relevancy, the questioned party must satisfy the Court that the information it seeks may be relevant to a fact in issue. The deficiencies in the Guidelines, that the Appellant refers to in his submissions portion of the Third Amended Notice of Appeal, are simply not facts in issue. They are the Appellant’s opinion of the Guidelines raised in argument. The Guidelines themselves are a fact. The Appellant’s view of them are not, and are not relevant to whether paragraph 18(1)(a) is discriminatory against men.
+[14] The Appellant’s counsel suggested that if I rule against him on this motion, I am effectively rendering his client’s constitutional challenge impossible. I was disappointed to hear him take that tact. The issue of deductibility of legal expenses in support payment litigation is an important one. It is certainly easy to appreciate why a litigant may find it unequal or unfair that he or she, the payer of support, may not be allowed to deduct legal fees, while the other litigant is allowed to deduct legal fees. I have not been convinced, however, that the extent of examination the Appellant seeks is the kind of full canvassing contemplated by the Rules, nor frankly, necessary for a fulsome Charter argument on whether paragraph 18(1)(a) of the Act contravenes section 15 of the Charter.
+[15] There have been several cases recently providing some guidance to litigants and to this Court as to the scope of examinations. Certainly, wide latitude is acceptable. But there are limits. I recognize that in the context of a Charter argument, the Courts are to make broad inquiries into the contextual factors: the Appellant suggests that in this case those factors include pre-existing disadvantage, stereotyping, prejudice or vulnerability experienced by men as child support payers. The Appellant attempts to draw a direct line between these factors and the role the Guidelines play in legal disputes over support, suggesting the need to delve into the very foundation of the Guidelines. I disagree. This approach goes beyond providing context in the paragraph 18(1)(a) dispute, and effectively, puts the constitutionality of the Guidelines in play, exactly what Justice Beaubier ruled against.
+[16] The Guidelines are indeed a factor. Their creation and development are not. Put another way, it is important context in this case involving a challenge to paragraph 18(1)(a) of the Act to understand whether the effect of the Guidelines has been discriminatory in the application of that income tax provision. So, for example, undertaking number 16 which asks if the Crown accepts that in 92.8% of cases men are the payers of child support, is a proper question in this regard. Undertaking number 16 was taken under advisement by the Crown and is not in dispute.
+[17] The Appellant appears to want to explore whether the Guidelines were created with an objective to be discriminatory against men or at the very least, that they were inadequately developed. That, however, is not the matter in issue. The Appellant, in providing context, may need to show a pre-existing disadvantage to men as a result of the application of the Guidelines, not as a result of any inadequacy in their development.
+[18] The Appellant, in paragraph 26 of his submissions in his Third Amended Notice of Appeal, argues that the discrimination in paragraph 18(1)(a) of the Act results from discriminatory treatment of men in the field of the divorce law generally and goes on to cite factors such as government policies promoting women and not men, judges’ training promoting women’s interest and not men’s, and government funding women’s organization. Given the Appellant’s approach to examinations regarding paragraph 25 of his Third Amended Notice of Appeal, I have grave concerns as to where he might go with respect to paragraph 26. It is an exercise to prove systemic discrimination against men by the Government of Canada. From a common-sense point of view alone, I fail to see how opening the door so wide, even at the examination stage, will provide the necessary context for a Charter challenge to paragraph 18(1)(a) of the Act, as it pertains to the deduction of legal fees.
+[19] It is important to bear in mind that paragraph 18(1)(a) of the Act is not a provision specific to legal fees, let alone legal fees in a family law dispute. It is an overriding restriction on the deduction of payments that are not incurred for the purpose of earning or producing income business or property. It is also important to note that it is the Court’s interpretation of this provision (see the Federal Court of Appeal decision Nadeau v. Canada [4] ) that has denied the deduction to a man in circumstances similar to the Appellant’s.
+[20] I interpret the Appellant’s theory to be along the lines that the Court’s interpretation of paragraph 18(1)(a) of the Act to date, to deny a deduction of legal fees to a male payer of support, is reinforcement of a government policy to discriminate against men. It is, therefore, according to the Appellant, necessary in this Charter challenge to provide the context of that overriding discriminatory policy to show the pre-existing disadvantage. I do not buy it. To be relevant to a challenge to paragraph 18(1)(a) of the Act, there must be some link between that alleged policy and that provision of the Act. This should be a matter of law, not politics, and should be about context surrounding the application of that particular law. An overall attack on government policy in the domain of family law is far beyond the scope of this challenge and, I find it would be an unnecessary fishing expedition to permit questioning regarding government policies with respect to funding, judicial training, etc. I trust these comments will serve as guidance to the parties for the completion of discoveries.
+Motion to require knowledgeable officer
+[21] I agree with the Respondent’s submission that the parties’ disagreement as to the discoverability of the Guidelines was really the dispute at the heart of this motion, not necessarily Mr. Peturson’s competence as an appropriate officer from the Crown. Given my conclusion that the detailed discovery on the Guidelines sought by the Appellant is not proper, it follows that the Appellant’s request to have officers of the Crown knowledgeable about the development of the Guidelines is to be denied. It is unnecessary for me, given that finding, to explore the reasons in the case of Simser v. Canada [5] for ordering the attendance of a different officer of the Crown.
+[22] The motion is denied. Costs will be in the cause.
+Signed at
+Ottawa ,
+Canada
+, this 2nd day of July, 2010.
+"
+Campbell
+J. Miller"
+C. Miller J.
+APPENDIX A
+CITATION: 2010 TCC 364
+COURT FILE NO.: 2002-3842(IT)G
+STYLE OF CAUSE: JAMES GRENON and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton ,
+Alberta
+DATE OF HEARING: June 18, 2010
+REASONS FOR ORDER BY: The Honourable Justice Campbell J. Miller
+DATE OF ORDER: June 28, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Ronald J. Robinson
+Counsel for the Respondent:
+Belinda Schmid
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ronald J. Robinson
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa, Canada
+[1] Tab C, Brief of the Appellant.
+[2] Tab D, Brief of the Appellant.
+[3] 2006 TCC 695.
+[4] [2003] F.C.J. No. 1611.
+[5] [2002] T.C.J. No. 432.

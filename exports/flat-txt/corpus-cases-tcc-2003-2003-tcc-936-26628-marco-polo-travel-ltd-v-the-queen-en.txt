@@ -1,0 +1,212 @@
+Title: Marco Polo Travel Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26628/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-936-26628-marco-polo-travel-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-19
+
+# Marco Polo Travel Ltd v. The Queen
+
+- Citation: 2003 TCC 936
+- Decision date: 2003-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3636, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marco Polo Travel Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-19
+Neutral citation
+2003 TCC 936
+File numbers
+2003-1918(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-1918(GST)I
+BETWEEN:
+MARCO POLO TRAVEL LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 11, 2003, at Vancouver, British Columbia,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Jackie Ma
+Counsel for the Respondent:
+Stacey M. Repas
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated December 11, 2002, and bears number 11BU-118652742 for the period December 1, 1999 to December 31, 2001, is dismissed.
+Signed at Ottawa, Canada, this 19th day of December, 2003.
+"Campbell J. Miller"
+Miller J.
+Citation: 2003TCC936
+Date: 20031219
+Docket: 2003-1918(GST)I
+BETWEEN:
+MARCO POLO TRAVEL LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] On December 11, 2002, the Minister of National Revenue ("the Minister") assessed the Appellant, Marco Polo Travel Ltd. ("Marco Polo") respecting goods and services tax ("GST") returns for the period from December 1, 1999 to December 31, 2001, on the basis that Marco Polo had understated GST by $63,259.46. The understatement arose as a result of the Minister's application of section 163 of the Excise Tax Act (the Act) to include, as part of the taxable portion of the price of a Marco Polo Las Vegas package tour, approximately 47% of Marco Polo's mark-up or profit margin. The Minister arrived at the 47% figure by averaging the cost of the taxable airfare on Marco Polo's Las Vegas package tours, compared to the total cost of airfare and the non-taxable US accommodation costs. Mr. Ma, the owner of Marco Polo, argued that none of the mark-up, the profit margin, related to the airfare, but only to the US hotels, and therefore none of it should be attributed to the taxable airfare portion of the tour package price, and consequently not subject to GST.
+[2] While Mr. Ma presents an intriguing, and indeed logical, argument, it does not accord with my interpretation of section 163, and his appeal must be dismissed.
+[3] Marco Polo sells package tours to Las Vegas from Vancouver on a wholesale basis. Its customers are travel agents. Marco Polo has a stable of approximately 15 three-to-five stars Las Vegas hotels, upon which to draw in packaging its tours. Marco Polo had a deal at the relevant time with Alaska Airlines for Vancouver - Las Vegas return flights at a certain price. Mr. Ma provided an internal company worksheet (although for 2003, he stated it would have been the same format in 2001), which illustrated the standard cost of airfare and the cost of each hotel for varying lengths of stay. By way of example, the following is the first line of the Aladdin Hotel package:[1]
+3 NIGHTS
+ALADDIN RESORT
+ADJUSTED PRICES
+OUT
+RETURN
+ROOM
+AIR
+HTL/AIR
+M/U
+TWIN
+EXTRA PERSON
+½ TWIN
+TRIPLE
+QUAD
+Mar 1
+5
+Mar 4
+1
+268
+250
+518
+40
+558
+499
+678
+648
+638
+[4] The room was estimated at $268, airfare at $250, Marco Polo's mark-up of $40 and the final price to the agent of $678: the additional $120 was the agent's estimated commission.
+[5] Mr. Ma testified that there was no room for profit for a wholesale tour operator on the airfare portion of the package. Indeed, according to Mr. Ma, the travel industry has changed so dramatically over the last few years, a customer is as likely to get a better airfare on the internet, than what Marco Polo can offer. There are no commissions on airfare anymore. Mr. Ma further testified that the attraction of Marco Polo's tours has nothing to do with airfare, and everything to do with getting a good Las Vegas hotel at a good price. He suggested that if just the hotel package was sold, without airfare included, in the Aladdin Hotel example above, the mark-up would remain at $40. Mr. Lyle Ralph Ware, the GST auditor from Canada Customs and Revenue Agency, first assessed Marco Polo simply relying on the ratio of air to hotel, in respect of just one hotel. On appeal, he averaged all 15 hotels' costs, compared to airfare, and came up with a percentage of 47.21% (see Appendix "A").[2] Mr. Ma made it clear that he had disagreed with this percentage, as it did not accurately reflect the actual percentage on a hotel-by-hotel basis, taking into account the volume of tour packages. More significantly, Mr. Ma maintains 0% was the applicable rate to be applied to the mark-up. He took exception to Mr. Ware's reliance on GST Memorandum 27.1, as that memo was issued in 1995, at a time prior to the tremendous change in the industry; at a time when a tour operator such as Marco Polo could have made some profit on the air portion of its package. By 2001 that was not possible.
+[6] What Mr. Ma is arguing is that the government should exercise some discretion in making a reasonable allocation of the mark-up between the taxable and non-taxable portion of the tour packages based on the realities of travel industry - the reality that the operator does not make money from the air portion.
+[7] It is necessary to dissect the provisions of subsection 163(1) to determine if indeed there is any room for an exercise in reasonableness vis-à-vis Marco Polo's allocation of the mark-up. The relevant provision is section 163:
+163(1) For the purposes of determining tax payable in respect of portions of a tour package, the consideration for a supply of the provincially taxable portion of the tour package or the non-provincially taxable portion of the tour package, as the case may be, (in this subsection referred to as the "relevant portion") is deemed to be
+(a) where the supply is made by the first supplier of the tour package, the amount determined by the formula
+A x B
+where
+A is the taxable percentage in respect of the relevant portion at the time the supply is made, and
+B is the total consideration for the entire tour package; and
+(b) where the supply is made by any other person, the amount determined by the formula
+A x B
+where
+A is the percentage that the consideration for the supply to the person of the relevant portion is of the total consideration paid or payable by the person for the entire tour package, and
+B is the total consideration paid or payable to the person for the entire tour package.
+163(3) In this section and in Part VI of Schedule VI,
+"base percentage", at any time, in respect of the provincially taxable portion of a tour package or the non-provincially taxable portion of a tour package, as the case may be, (in this definition referred to as the "relevant portion") means the percentage determined by the formula
+A/B
+where
+A is the part of the amount (in this definition referred to as the "base price") that would be charged by the first supplier of the tour package for a supply at that time of the tour package that is, at that time, reasonably attributable to the relevant portion, and
+B is the base price;
+"taxable percentage", at a particular time, in respect of the provincially taxable portion of a tour package or the non-provincially taxable portion of a tour package, as the case may be, (in this definition referred to as the "relevant portion") means
+(a) where the difference between the base percentage at that time in respect of the relevant portion and either the initial taxable percentage in respect of the relevant portion or the base percentage at an earlier time in respect of the relevant portion is more than 10 percentage points, the base percentage at the particular time in respect of the relevant portion, and
+(b) in any other case, the initial taxable percentage in respect of the relevant portion;
+"taxable portion" of a tour package means all property and service included in the tour package and in respect of which tax under Division II would be payable if the property or service were supplied otherwise than as part of a tour package;
+"tour package" means a combination of two or more service, or of property and service, that includes transportation service, accommodation, a right to use a campground or trailer park, or guide or interpreter service, where the property and service are supplied together for an all-inclusive price.
+[8] Subsection 163(1) is the operative deeming section: it deems the taxable portion of the entire tour package to be the total consideration for the package multiplied by something called the taxable percentage. This deeming provision on its face, affords no opportunity for a determination of reasonableness: it is strictly a mathematical calculation. Turn then to the definition of one element of the calculation, the taxable percentage. Unless there is a significant change in the percentage, which I will not delve into at this stage for the sake of simplicity, the taxable percentage will be the initial taxable percentage. The initial taxable percentage is the part of the amount to be charged by the tour operator which is reasonably attributable to the taxable portion, divided by the initial price. There is no question that it is reasonable to attribute the cost of airfare as being the taxable portion. That is the extent of the reasonableness determination. This definition is not framed in terms of a reasonable allocation of the mark-up to taxable or non-taxable. It is framed in terms of what reasonably is the taxable portion, and what reasonably is the taxable portion is the airfare. This is where I believe Mr. Ma is mistakenly interpreting the provisions. To accept Mr. Ma's interpretation would require a reading that "initial price" includes the mark-up. GST Memorandum 27.1 suggests the initial price is to be interpreted as only the cost of the airfare and the hotel. I believe that is the correct interpretation.
+[9] It is helpful to look at the meaning of "basic price", found in the definition of "base percentage". Basic price is not defined with great clarity in the definition. However, one can assume by the use of the word "base" that this implies a starting point - some amount before any add-ons. In the Marco Polo tour package scenario this would suggest the cost of the airfare and hotels and nothing else. To put some numbers to this, I will rely upon the example used in GST Memorandum 27.1: assume a Las Vegas package as follows:
+Return Airfare Vancouver to Las Vegas
+$200
+Aladdin Hotel (3 nights)
+$300
+Profit margin (mark-up)
+$50
+The base price in this example would be $500 and therefore the base percentage would be 200 divided by 500 or 40%. However, it is the taxable percentage, not the base percentage that is the definition used in the deeming section, subsection 163(1). Taxable percentage can be either the base percentage or the initial taxable percentage. It will only be the base percentage if there is a significant discrepancy between the base percentage and an initial taxable percentage, otherwise the taxable percentage will be the initial taxable percentage.
+[9] The initial taxable percentage is worded slightly differently than the base percentage: the initial price, as opposed to the base price, is the "amount to be charged by that supplier for a supply of the tour package". At first blush, one might assume this must mean something different from the "base price", yet that is not the case: the two may be the same. The definition of taxable percentage refers to the magnitude of the difference between the base percentage and the initial taxable percentage, which suggests these percentages can differ one way or another or, in fact, can be the same; in effect, the initial price and the base price can be the same. The two elements of the percentage in each case must be the taxable portion as the numerator and the sum of the taxable portion and non-taxable portion as the denominator. Only if one of those elements changes does the initial taxable percentage differ from the base percentage. The mark-up cannot form part of the denominator.
+[10] This review simply highlights that there is no room in working through these definitions for the exercise of any discretion in determining the percentage of the profit margin that is taxable. The formula is intended to simply prorate the profit margin or mark-up, with no capacity for an appraisal based on any other factors, such as those raised by Mr. Ma. The fact that GST Memorandum 27.1 was published in 1995 is not relevant, as changes in the travel industry since then have no impact on the section 163 calculation.
+[11] Notwithstanding Mr. Ma's understandable approach to an allocation of Marco Polo's mark-up, it is simply not in line with the requirements of section 163. Mr. Ma presented no detailed numbers for the tour packages in the years in question to allow me to more exactly verify the appropriate taxable percentage. I am therefore prepared to rely upon the Minister's taxable percentage based on the average calculation in Appendix "A". I suggest that in future the numbers on a tour package by tour package basis are more appropriate for the determination of the correct GST exigible.
+[12] The appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of December, 2003.
+"Campbell J. Miller"
+Miller J.
+APPENDIX "A"
+APPENDIX "F" - Air Portion Percentage
+Hotels as listed on our website: http://www.marcopolotours.com
+Aladdin Resort
+$8,265
+Bally's
+$7,521
+Ballagio
+$15,999
+Circus Circus
+$5,976
+Excalibur
+$8,472
+Flamingo Hilton
+$6,939
+Imperial Palace
+$5,298
+Luxor
+$6,229
+Mandalay Bay
+$10,413
+MGM Grand
+$9,081
+Mirage
+$11,316
+Monte Carlo
+$6,391
+New York New York
+$7,443
+Paris
+$9,873
+Treasure Island
+$10,781
+$129,997
+Hotel
+Air
+Hotel + Air
+$8,666
+$7,750
+$16,416
+Air Portion
+Percentage
+$7,750
+$16,416
+47.21%
+CITATION:
+2003TCC936
+COURT FILE NO.:
+2003-1918(GST)I
+STYLE OF CAUSE:
+Marco Polo Travel Ltd. and Her Majesty The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 11, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+December 19, 2003
+APPEARANCES:
+Agent for the Appellant:
+Jackie Ma
+Counsel for the Respondent:
+Stacey M. Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1.
+[2] Exhibit R-2.

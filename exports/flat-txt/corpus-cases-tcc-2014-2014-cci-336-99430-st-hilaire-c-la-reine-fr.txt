@@ -1,0 +1,232 @@
+Title: St-Hilaire c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99430/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-336-99430-st-hilaire-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-11-14
+
+# St-Hilaire c. La Reine
+
+- Citation: 2014 CCI 336
+- Decision date: 2014-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5270, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Hilaire c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-14
+Référence neutre
+2014 CCI 336
+Numéro de dossier
+2014-326(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-326(IT)I
+ENTRE :
+JACQUES ST-HILAIRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 25 juin 2014 à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentante de l'appelant :
+Sylvie Alarie
+Avocate de l'intimée :
+Me Christina Ham
+JUGEMENT
+L'appel à l’encontre des nouvelles cotisations établies par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu dont les avis montrent la date du 22 octobre 2012 concernant les années d’imposition 2005, 2006, 2008, 2009 et 2010 et la date du 19 septembre 2013 concernant l’année d’imposition 2008 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2014.
+« Réal Favreau »
+Juge Favreau
+Référence : 2014 CCI 336
+Date : 20141114
+Dossier : 2014-326(IT)I
+ENTRE :
+JACQUES ST-HILAIRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L'appelant a interjeté appel devant cette Cour en se prévalant de la procédure informelle à l’encontre de nouvelles cotisations établies le 22 octobre 2012 par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1, (5e suppl.), telle que modifiée (la « Loi ») concernant les années d’imposition 2005, 2006, 2008, 2009 et 2010 et le 19 septembre 2013 concernant l’année d’imposition 2008.
+[2] En vertu des nouvelles cotisations établies le 22 octobre 2012, les redressements suivants furent apportés aux déclarations de revenu de l’appelant :
+2005
+2006
+2008
+2009
+2010
+Frais financiers refusés
+-
+-
+15 010 $
+16 822 $
+15 872 $
+Perte au titre d’un placement d’entreprise refusée
+-
+-
+253 985 $
+-
+-
+Report de perte autre qu’en capital refusé
+58 751 $
+33 343 $
+-
+-
+-
+Perte en capital réalisée
+-
+-
+253 985 $
+-
+-
+[3] L’appelant a logé un avis d’opposition à l’encontre de ces nouvelles cotisations le ou vers le 7 novembre 2012.
+[4] Le 19 septembre 2013, le ministre a ratifié les nouvelles cotisations pour les années d’imposition 2005, 2006, 2009 et 2010 et a établi une nouvelle cotisation à l’égard de l’année d’imposition 2008 afin d’accorder à l’appelant un montant de 9 515 $ à titre de déduction pour frais financiers.
+[5] Pour déterminer l’impôt payable par l’appelant au cours des années d’imposition en litige, le ministre a tenu pour acquis les conclusions et les hypothèses de fait suivantes, énoncées au paragraphe 7 de la Réponse à l’avis d’appel :
+a) L’appelant était l’unique actionnaire de la société « La Radio Touristique de Québec Inc » (ci-après la « société »);
+b) la société a été constituée le 15 novembre 2001 et exploite depuis 2006 une station radiophonique FM d’accueil touristique dans la région de Québec;
+c) la société est une société privée sous contrôle canadien;
+d) la société est une société exploitant une petite entreprise;
+e) l’exercice financier de la société se terminait au 31 octobre de chaque année;
+f) au cours des années, l’appelant a consenti plusieurs avances à la société lesquelles totalisaient 253 985 $;
+g) la société étant incapable de faire face à ses obligations financières a déposé, en date du 8 août 2008 une proposition concordataire en vertu de la Loi sur la faillite et l’insolvabilité laquelle a été amendée en date du 19 août 2008;
+h) dans le but de faire accepter la proposition aux créanciers non garantis non liés, l’appelant a renoncé à tout dividende payable sur les avances de 253 985 $ qu’il avait consenties à la société;
+i) la proposition concordataire a été acceptée par les créanciers et la société a continué ses opérations;
+j) en date du 9 octobre 2008, la Cour Supérieure « chambre commerciale » a homologué et ratifié la proposition concordataire et a déclaré que ladite proposition lie tous et chacun des créanciers et la société;
+k) pour l’exercice financier se terminant au 31 octobre 2008, la société a radié de ses livres la créance de 253 985 $ due à l’appelant et s’est imposée sur un gain sur règlement de dette;
+l) à compter du 6 février 2009, la société était exploitée sous la raison sociale Sortir FM inc.;
+m) le 28 février 2011, les actions de la société ont été transférées à Mass-Média Capitale inc., une société détenue et contrôlée par Louis Massicotte;
+n) les frais d’intérêts de l’année 2008 ont été révisés de 15 010 $ à 9 515 $ afin d’accorder les intérêts payés dans l’année jusqu’à la date de la proposition concordataire et correspondant à 232/366 jours.
+[6] Les questions en litige sont les suivantes :
+a) Le ministre était-il justifié de refuser à l’appelant un montant de 253 985 $ qu’il a réclamé à titre de perte au titre de placement d’entreprise (PTPE) pour l’année d’imposition 2008?
+b) Le ministre était-il justifié de refuser à l’appelant un montant de 58 751 $ pour l’année d’imposition 2005 et un montant de 33 343 $ pour l’année 2006 qu’il a réclamés à titre de report de pertes autre qu’en capital provenant de l’année d’imposition 2008?
+c) Le ministre était-il justifié de refuser à l’appelant les montants de 5 495 $, 16 822 $ et 15 872 $ qu’il a réclamés à titre de frais financiers pour les années d’imposition 2008, 2009 et 2010 respectivement?
+La position des parties [7] L’intimée soutient que le ministre était justifié de refuser à l’appelant le montant de 253 985 $ qu’il a réclamé à titre de PTPE pour l’année d’imposition 2008 parce que les critères suivants énoncés au sous-alinéa 39(1)(c)(ii) et à l’alinéa 50(1)(a) de la Loi n’étaient pas rencontrés :
+a) l’appelant n’a pas disposé de sa créance en faveur d’une personne avec qui il n’avait aucun lien de dépendance; et
+b) suite à l’acceptation de la proposition, la créance due à l’appelant a été annulée et, par conséquent, aucune créance ne lui était due à la fin de l’année d’imposition 2008.
+[8] Puisque la déduction à titre de PTPE a été refusée, le ministre était justifié de ne pas accorder à l’appelant les reports de pertes autres qu’en capital de 58 751 $ pour l’année d’imposition 2005 et de 33 343 $ pour l’année d’imposition 2006.
+[9] Concernant les frais financiers, l’intimée soutient que le ministre était justifié de refuser à l’appelant la déduction qu’il a réclamée à titre de frais financiers à l’égard des montants de 5 495 $, de 16 822 $ et de 15 872 $ encourus au cours des années d’imposition 2008, 2009 et 2010 parce que l’appelant a renoncé à sa créance et que, par conséquent, l’obligation de l’appelant de payer des intérêts ne découlait pas de sommes d’argent empruntées dans le but de tirer un revenu de bien ou d’une entreprise, conformément à l’alinéa 20(1)(c) de la Loi.
+[10] Pour sa part, l’appelant soutient que la proposition concordataire de la société « La Radio Touristique de Québec Inc. » (ci-après la « société ») a affecté l’exigibilité de la dette de celle-ci envers l’appelant mais n’a eu pour effet de l’annuler ou de l’éliminer. Par conséquent, la créance de 253 985 $ due à l’appelant existait toujours à la fin de l’année d’imposition 2008 et était alors irrécouvrable, ce qui donnait alors droit à l’appelant de réclamer la déduction au titre de la PTPE.
+[11] Concernant la déduction des frais financiers, l’appelant soutient que les frais financiers payés sur les emprunts contractés par l’appelant pour effectuer les investissements dans la société sont déductibles dans le calcul de son revenu pour les années d’imposition 2008, 2009 et 2010 parce qu’ils ont été payés sur de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien.
+[12] Le montant de la perte réalisée lors de l’annulation de la créance de 253 985 $ et le montant des frais financiers supportés par l’appelant au cours des années d’imposition 2008, 2009 et 2010 ne sont pas contestés. Le ministre a traité la perte réalisée lors de l’annulation de la créance comme une perte en capital et il a alloué la déduction des frais financiers pour l’année d’imposition 2008 jusqu’à la date de la proposition concordataire de la société.
+Les témoignages [13] Ont témoigné à l’audience, messieurs Jacques St-Hilaire, Brian Friset, syndics de faillite, et Sylvain Dostie, comptable agréé, et madame Marie-Hélène Beaucage, agente des appels à l’Agence du revenu du Canada (l’« ARC »).
+[14] Fort de son expérience en journalisme à la radio et en vente de publicité, monsieur St-Hilaire a, à l’âge de 65 ans, décidé de se lancer à nouveau en affaires en oeuvrant à Québec deux stations de radio (une opérant en français et une autre opérant en anglais) dans le but d’offrir un service d’information aux touristes et aux résidents de Québec et de la région concernant les événements à venir et les choses à voir dans la région du Québec. La vente de publicité devait financer les opérations.
+[15] Monsieur St-Hilaire a utilisé la société pour exploiter ses stations de radio FM d’accueil touristique. Cette société a été constituée le 15 novembre 2001 en vertu de la Loi sur les sociétés par actions (régime fédéral). Monsieur St-Hilaire détenait, depuis le début de l’existence corporative de la société, 100% des actions émises et en cours, soit 100 actions de catégorie « A » ayant un capital versé et un prix de base rajusté de 100 $. En plus d’être le seul actionnaire de la société, il en était également le seul administrateur. L’exercice financier de la société se termine le 31 octobre de chaque année.
+[16] Monsieur St-Hilaire a financé les opérations de la société au moyen d’avances ne portant pas d'intérêts. Les avances se détaillent comme suit :
+Périodes
+Montants des avances
+Du 1er novembre 2005 au 31 octobre 2006
+95 156 $
+Du 1er novembre 2006 au 31 octobre 2007
+85 192 $
+Du 1er novembre 2007 au 8 août 2008
+73 637 $
+Total
+253 985 $
+[17] Pour consentir les avances à la société, monsieur St-Hilaire a dû grever la résidence familiale d’une nouvelle hypothèque; il a fait rehausser sa marge de crédit; il a utilisé ses cartes de crédit à pleine capacité; il a emprunté de l’argent à des amis et a encaissé son régime enregistré d’épargne-retraite.
+[18] Les stations de radio sont entrées en ondes le 3 mai 2006 suite à la décision de radiodiffusion CRTC 2006-53 par laquelle le Conseil de la radiodiffusion et des télécommunications canadiennes (le « CRTC ») a octroyé les licences d’exploitation pour les deux stations de radio. Les licences du CRTC ont été émises au nom de « La radio touristique de Québec inc. » mais monsieur St-Hilaire en était le titulaire responsable.
+[19] Le 8 août 2008, la société « La Radio touristique de Québec inc. » a déposé auprès de la firme Ginsberg, Gingras & Associés inc. une proposition concordataire à ses créanciers en vertu de la Loi sur la faillite et l’insolvabilité (la « LFI »). Ladite proposition concordataire prévoyait le versement d’un montant forfaitaire de 15 000 $ aux créanciers non garantis sans droit de priorité dans les trente (30) jours suivants l’homologation de la proposition par le tribunal, en l’occurrence la Cour supérieure du Québec (Chambre commerciale). Monsieur St-Hilaire faisait partie de la liste des créanciers non garantis de la société relativement à sa créance de 253 985 $ mais ce dernier a dû renoncer à tout dividende en tant que créancier non garanti pour les avances qu’il a effectuées à la société proposante.
+[20] Le 19 août 2008, la société a déposé une proposition concordataire amendée pour tenir compte des exigences possibles du CRTC relativement au transfert des permis d’exploitation des stations de radio. La proposition concordataire amendée n’apportait aucun changement dans les montants à être versés aux créanciers sauf (a) pour ce qui est du montant forfaitaire de 15 000 $ à verser aux créanciers non garantis qui devient conditionnel à l’acceptation de la proposition par ces derniers et à l’obtention de l’autorisation du CRTC de transférer la ou les deux licences d’exploitation d’une ou des deux stations de radio; et (b) pour ce qui de la date du versement du dividende de 15 000 $ qui devient payable aux créanciers non garantis dans les 15 jours suivants l’autorisation finale, sans appel, du CRTC de transférer la ou les licences d’exploitation d’une ou des deux stations de radio.
+[21] Le 2 septembre 2008, la majorité requise des créanciers a accepté la proposition concordataire amendée lors de l’assemblée des créanciers et, le 9 octobre 2008, la Cour supérieure du Québec (Chambre commerciale) a homologué et ratifié à toutes fins que de droit les décisions prises lors de l’assemblée des créanciers tenue le 2 septembre 2008 et a déclaré que la proposition concordataire amendée liait tous et chacun des créanciers de la partie débitrice/proposante.
+[22] Concurremment au dépôt de la proposition concordataire de la société, monsieur St-Hilaire a également déposé une proposition concordataire à ses créanciers auprès de la firme Ginsberg, Gingras & Associés en date du 19 août 2008. La proposition prévoyait notamment le versement d’un montant forfaitaire de 24 000 $, payable à même 24 versements mensuels égaux et consécutifs de 1 000 $, le premier versement étant payable 30 jours après l’homologation de la proposition concordataire par le tribunal. Une assemblée générale des créanciers du débiteur a été tenue le 9 septembre 2008 au cours de laquelle la proposition a été acceptée. La Cour supérieure du Québec (Chambre commerciale) a par la suite, homologué et ratifié les décisions prises lors de l’assemblée des créanciers.
+[23] Monsieur St-Hilaire a de plus relaté les circonstances entourant la vente de ses actions de la société à monsieur Louis Massicotte. Selon monsieur St-Hilaire, monsieur Massicotte lui a proposé d’acquérir la société et d’assumer les dépenses d’exploitation des stations de radio jusqu’au transfert des licences du CRTC. Monsieur St-Hilaire a accepté l’offre de monsieur Massicotte et il s’est engagé à assurer la transition jusqu’au transfert des licences. Grâce à l’offre d’achat de monsieur Massicotte, les deux stations de radio ont pu poursuivre leurs opérations commerciales suite à la proposition concordataire. Par contre, le nom de la société a été changé pour devenir « Sortir FM inc. » et les comptes bancaires de la société auprès de la Banque Royale du Canada, de la Banque Nationale du Canada et de la Caisse populaire Desjardins de Charlesbourg ont tous été fermés au cours des mois de septembre et d’octobre 2008.
+[24] Monsieur St-Hilaire a expliqué qu’il ne pouvait quitter ses fonctions dans l’entreprise parce qu’il était titulaire des deux licences de radiodiffusion. C’est pour cette raison qu’il est demeuré actif dans l’entreprise pendant deux ans et demi (2 ½) pour une rémunération minimale. Pendant cette période, monsieur St-Hilaire a préparé la documentation nécessaire pour le transfert des licences en plus de participer aux audiences publiques et de préparer les réponses aux objections. Le processus du transfert des licences a duré environ deux ans et demi (2 ½) pour être finalement accepté par le CRTC à certaines conditions.
+[25] Pendant la période de transition, monsieur St-Hilaire a disposé progressivement de ses actions de catégorie A de la société. Dans sa déclaration de revenu personnelle pour l’année d’imposition 2008, Monsieur St-Hilaire a déclaré un gain en capital de 9 980 $ suite à la disposition, survenue le 23 décembre 2008, de 20 actions de catégorie A de la société « La Radio Touristique de Québec inc. » en faveur de « Placements RJS inc. », une société de placement dont monsieur Massicotte était l’unique administrateur, pour un produit de disposition de 10 000 $. Dans sa déclaration de revenu personnelle pour l’année d’imposition 2009, monsieur St-Hilaire a déclaré un gain en capital de 39 920 $ suite à la disposition en faveur de « Placements RJS inc. » de 80 actions de catégorie A de la société « La Radio Touristique de Québec inc. » sur un produit de disposition total de 40 000 $.
+[26] Dans le cadre des transactions conclues entre l’appelant et monsieur Massicotte, l’appelant a souscrit, le 5 février 2009, 400 actions de catégorie B du capital-actions de « La Radio Touristique de Québec inc. » pour la somme globale de 400 $, soit 1,00 $ par action, et il a le même jour, consenti à Mass-Média Capitale inc. une option d’achat pour les 400 actions de catégorie B, laquelle pouvait être exercée au moment de la réception par « La Radio Touristique de Québec inc. » des approbations requises auprès du CRTC. L’option d’achat des 400 actions de catégorie B a été octroyée pour la somme globale de 400 $, soit 1,00 $ par action, mais le prix d’exercice de l’option d’achat des 400 actions de catégorie B était pour une somme globale de 40 000 $. L’option d’achat des 400 actions de catégorie B a été exercée le 1er novembre 2011 et monsieur St-Hilaire a cessé d’être administrateur de « Sortir FM inc. » en date du 10 octobre 2011.
+[27] Lors de son témoignage, monsieur Brian Fiset a expliqué que, si l’appelant avait fait faillite, il aurait eu droit de réclamer une PTPE à l’égard de sa créance de 253 985 $ mais les créanciers non garantis n’auraient rien obtenu. Avec la proposition concordataire, les créanciers non garantis ont obtenu 15 000 $. De ce 15 000 $, l’appelant aurait eu droit à 10 000 $ s’il n’avait pas renoncé au dividende de liquidation découlant de sa créance. Selon monsieur Fiset, la créance de l’appelant a été radiée par les termes de la proposition concordataire et elle a cessé d’exister.
+[28] Monsieur Sylvain Dostie a préparé les états financiers et les déclarations de revenus de la société « La Radio Touristique de Québec inc. » jusqu’au 31 octobre 2008. Ladite société a radié de ses livres la dette de 253 985 $ due à l’appelant et s’est imposée pour un gain sur règlement de dette lors de la production de ses déclarations de revenus pour l’exercice financier se terminant le 31 octobre 2008. Selon monsieur Dostie, la valeur des actions de « La Radio Touristique de Québec inc. » était de zéro vu que la société avait des bénéfices non répartis négatifs.
+Analyse [29] Les faits dans cette cause ne sont pas contestés. Le montant des frais financiers encourus par l’appelant après la date de la proposition concordataire et le montant des avances que l’appelant a consenties à « La Radio Touristique de Québec inc. » ne sont pas en litige.
+[30] Les articles pertinents de la Loi pour déterminer le droit à une PTPE sont reproduits ci-après :
+Sous-section c – Gains en capital imposables et pertes en capital déductibles
+ARTICLE 38 : Sens de gain en capital imposable et de perte en capital déductible
+Pour l’application de la présente loi :
+[…]
+c) la perte déductible au titre d’un placement d’entreprise d’un contribuable, pour une année d’imposition, résultant de la disposition d’un bien est égale à la moitié de la perte au titre d’un placement d’entreprise que ce contribuable a subie, pour l’année, à la disposition du bien.
+ARTICLE 39 : Sens de gain en capital et de perte en capital
+(1) Pour l’application de la présente loi :
+[…]
+c) une perte au titre d’un placement d’entreprise subie par un contribuable, pour une année d’imposition, résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition, après 1977 :
+(i) soit à laquelle le paragraphe 50(1) s’applique,
+(ii) soit en faveur d’une personne avec laquelle il n’avait aucun lien de dépendance,
+(iii) soit une action du capital-actions d’une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli, au sens du paragraphe 128(3), qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l’article 6 de la Loi sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+ARTICLE 40 : Règles générales
+(2) Restrictions. Malgré le paragraphe (1) :
+[…]
+g) est nulle la perte subie par un contribuable et résultant de la disposition d’un bien, dans la mesure où elle est :
+[…]
+(ii) une perte résultant de la disposition d’une créance ou d’un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu (qui n’est pas un revenu exonéré) d’une entreprise ou d’un bien, ou en contrepartie de la disposition d’une immobilisation en faveur d’une personne avec qui le contribuable n’avait aucun lien de dépendance,
+ARTICLE 50 : Créances reconnues comme irrécouvrables et actions d’une société en faillite
+50. (1) Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+b) une action du capital-actions d’une société (autre qu’une action reçue par un contribuable en contrepartie de la disposition d’un bien à usage personnel) appartient au contribuable à la fin d’une année d’imposition et :
+(i) soit la société est devenue au cours de l’année un failli au sens du paragraphe 128(3),
+(ii) soit elle est une personne morale visée à l’article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l’année,
+(iii) soit les conditions suivantes sont réunies à la fin de l’année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu’elle contrôle n’exploite d’entreprise,
+(C) la juste valeur marchande de l’action est nulle,
+(D) il est raisonnable de s’attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[31] Pour pouvoir déduire une PTPE en vertu des articles 38 et 39 de la Loi, l'appelant doit démontrer qu'il a subi une perte en capital résultant de la disposition d'un bien. Aux termes de l'article 50 de la Loi, le contribuable est réputé avoir disposé d'une créance qui lui est due à la fin de l'année pour un produit nul si cette créance s'est révélée irrécouvrable au cours de l'année. Pour que l'article 50 puisse s'appliquer, il faut que la créance existe à la fin de l'année d'imposition du contribuable, soit au 31 décembre 2008 dans ce cas-ci.
+[32] Pour déterminer si la créance de l'appelant envers la société existait toujours au 31 décembre 2008, la Cour doit décider à quel moment la société a été libérée de son obligation de rembourser les avances consenties par l'appelant suite à la proposition concordataire.
+[33] La LFI est muette sur le moment où un débiteur est libéré de ses obligations lorsqu'une proposition concordataire est acceptée par les créanciers. Deux thèses s'opposent à cet égard.
+[34] En matière de faillite, la LFI est sans ambiguïté et le débiteur failli est libéré au moment du prononcé de l'ordonnance de libération. Comme les dispositions de la LFI en matière de faillite jouent un rôle supplétif grâce auxquelles les dispositions relatives aux propositions concordataires sont précisées par analogie, certains auteurs avancent que l'extinction partielle d'une dette et la libération partielle du débiteur dans le cadre d'une proposition fondée sur la LFI ont lieu au moment du prononcé de l'ordonnance de libération du syndic ou au moment où le syndic remet le certificat selon laquelle la proposition a été exécutée intégralement. Cette thèse est celle qui a été retenue par la Cour d'appel fédérale dans l'arrêt Rita Congiu et 9100-7146 Québec Inc. c. La Reine, 2014 CAF 73, lorsqu'elle cite l'extrait suivant tiré de la décision de la Cour d'appel du Québec rendue le 7 février 2014 dans l'arrêt Rita Congiu c. L'Agence du Revenu du Québec, 2014 QCCA 242 :
+[42] La proposition concordataire de [Canada inc.] a peut-être eu l'effet de reporter dans le temps l'exigibilité de la dette de celle-ci, mais pas de l'éliminer. […]
+[35] L'autre thèse qui prévaut est celle à l'effet que la date de la libération partielle du débiteur et celle de la libération partielle de la dette initiale visée par la proposition fondée sur la LFI est celle de la ratification, par le tribunal, de la proposition à la suite de son acceptation par les créanciers. Cette thèse repose notamment sur les observations de Jacques Deslauriers dans un ouvrage intitulé « La faillite et l'insolvabilité au Québec », Montréal, Wilson et Lafleur, 2004 à la page 132, dans lequel il soutient que la date d'entrée en vigueur du règlement de la dette dans le cadre d'une proposition concordataire n'est pas celle à laquelle le tribunal prononce la libération du syndic :
+ii) Libération des dettes du débiteur
+La proposition peut avoir pour effet de libérer le débiteur de ses dettes. En effet, une proposition prévoyant le versement d'un certain pourcentage des créances (par exemple 30%) aura pour effet de libérer le débiteur pour le solde si ce concordat est accepté (article 62(2) L.f.i.). […]
+[36] Les observations de L.W. Houlden et G.B. Morawetz dans l'ouvrage intitulé « Bankruptcy and Insolvency Law of Canada », 3e éd. (révisée), vol. 2, Toronto. Carswell, à la page 2-166 abondent dans le même sens que celles de l'auteur Deslauriers :
+[TRADUCTION]
+Lorsqu'une proposition est acceptée par les créanciers et approuvée par le tribunal, le débiteur bénéficie du même avantage que celui qu'il obtiendrait s'il était libéré d'une faillite, à savoir l'extinction de l'ensemble des dettes et des obligations qu'il a envers les créanciers non garantis, à l'exception de celles énumérées à l'article 178 : [...]
+[37] Dans l'arrêt Réal Martel c. Sa Majesté la Reine, 2010 CCI 634, le juge Boyle a considéré les deux thèses et il a choisi de suivre les opinions exprimées par Houlden et Morawetz et de Deslauriers tout en se basant sur la décision Anderson c. Canadian Imperial Bank of Commerce (1999), 11 C.B.R. (4th) 157 de la Cour de justice de l'Ontario, ayant compétence en matière d'application de la LFI dans cette province.
+[38] Quelque soit le résultat de l'analyse des deux thèses ci-dessus décrites, la Cour doit également tenir compte de deux autres facteurs, soit la renonciation par l'appelant à tout dividende de liquidation à l'égard des avances consenties à la société et la radiation par la société de la dette de 253 985 $ et la reconnaissance d'un gain sur règlement de dette dans ses états financiers pour l'année d'imposition se terminant le 31 octobre 2008.
+[39] Comme l'a indiqué le syndic à la proposition, la renonciation au dividende de liquidation découlant de la créance de l'appelant a fait en sorte que la créance a été radiée par les termes mêmes de la proposition concordataire et a cessé d'exister. L'appelant a ainsi disposé de sa créance pour les fins fiscales. Sans cette renonciation, la proposition n'aurait pas acceptée par les créanciers.
+[40] La reconnaissance d'un gain sur règlement de dette par la société est la conséquence logique de l'extinction ou de l'annulation de la créance de l'appelant. À la fin de l'année d'imposition 2008, aucune dette n'était due par la société à l'appelant.
+[41] Comme la créance de l'appelant n'existait plus au 31 décembre 2008, les dispositions de l'article 50 de la Loi ne peuvent s'appliquer et l'appelant n'a pas droit à la PTPE.
+[42] Concernant les frais financiers, je suis d'avis que le ministre était justifié de refuser à l'appelant la déduction des sommes réclamées au cours des années d'imposition 2008, 2009 et 2010 parce que sa créance envers la société a cessé d'exister suite à la renonciation au dividende de liquidation fournie dans le cadre de la proposition concordataire. Les intérêts payés par l'appelant ne découlaient donc pas des sommes d'argent empruntées dans le but de tirer un revenu de biens comme l'exige l'alinéa 20(1)(c) de la Loi.
+[43] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2014.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2014 CCI 336
+Nº DU DOSSIER DE LA COUR :
+2014-326(IT)I
+INTITULÉ DE LA CAUSE :
+Jacques St-Hilaire et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 25 juin 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 14 novembre 2014
+COMPARUTIONS :
+Représentante de l'appelant :
+Sylvie Alarie
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

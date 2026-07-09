@@ -1,0 +1,140 @@
+---
+title: "Kostiuk c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30108/index.do"
+last_modified: "2010-11-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 630"
+citation2: ""
+neutral_citation: "2010 CCI 630"
+decision_date: "2010-11-29"
+language: "fr"
+item_id: "30108"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7640
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:24:40.287000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "49a36924222f3dc8dc3c7b8a5971bdd98c3cbf5f74272c9eb38e8cdf4edab98d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kostiuk c. La Reine
+
+- Citation: 2010 CCI 630
+- Decision date: 2010-11-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7640, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kostiuk c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-29
+Référence neutre
+2010 CCI 630
+Numéro de dossier
+2010-628(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-628(IT)I
+ENTRE :
+PETER KOSTIUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ___________________________________________________________________
+Requête de l’intimée entendue le 29 novembre 2010
+à Saskatoon (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocate de l’appelant :
+Me D. Heather Funk
+Avocate de l’intimée :
+Me Bryn Frape
+____________________________________________________________________
+ORDONNANCE
+Attendu que l’appelant a déposé un avis d’appel à l’égard d’un avis relatif au crédit pour taxe sur les produits et services délivré par le ministre du Revenu national et l’informant qu’il avait droit à un crédit pour taxe sur les produits et services pour l’année d’imposition 2006;
+Vu la requête présentée par l’intimée en vue d’obtenir une ordonnance rejetant l’avis d’appel de l’appelant compte tenu du fait qu’on ne peut pas faire appel d’une cotisation « néant »;
+Et après lecture des documents déposés, notamment la déclaration sous serment de Sandy Slight et celle de Peter Kostiuk, et après avoir entendu les observations des avocates des parties;
+La requête de l’intimée est accueillie, sans dépens, et l’appel portant sur l’année d’imposition 2006 est rejeté conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 630
+Date : 20101206
+Dossier : 2010-628(IT)I
+ENTRE :
+PETER KOSTIUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Sheridan
+[1] L’appelant, Peter Kostiuk, est un homme de 94 ans. Au moyen d’un avis relatif au crédit pour taxe sur les produits et services (l’« avis de crédit pour TPS ») délivré par le ministre du Revenu national (le « ministre ») et daté du 4 septembre 2009, l’appelant a été informé qu’il avait droit à un crédit pour taxe sur les produits et services (le « CTPS ») de 90,50 $ pour l’année 2006, pour les mois de juillet 2007, octobre 2007, janvier 2008 et avril 2008. La nouvelle détermination du ministre relativement au droit de M. Kostiuk au CTPS était fondée sur le fait qu’il était « séparé » et que son revenu familial net s’élevait à 24 124 $.
+[2] Avant de délivrer l’avis de crédit pour TPS visé par l’appel, le ministre avait délivré trois autres avis de crédit pour TPS pour la même période, à savoir : un avis daté du 7 septembre 2007 informant M. Kostiuk qu’il n’avait pas droit à un CTPS parce que son « épouse » avait présenté une demande de CTPS et qu’il ne pouvait y avoir qu’une demande par famille; un autre avis daté du 30 novembre 2007 informant l’appelant qu’il avait droit au CTPS parce qu’il était « séparé » et que le revenu familial se situait dans les limites permises; un troisième avis daté du 28 novembre 2008 informant l’appelant, là encore, qu’il n’avait pas droit au CTPS parce que son « épouse » avait présenté une demande et qu’il ne pouvait y avoir qu’une demande par famille.
+[3] C’est dans ce contexte que, le 1er octobre 2009, M. Kostiuk s’est opposé à la nouvelle détermination du ministre du 4 septembre 2009, en se fondant sur le fait qu’il était « marié », et non « séparé », comme le ministre l’avait conclu. Pour des raisons que la Cour ne connaît pas, le ministre avait maintenu la position selon laquelle M. Kostiuk était « séparé » et avait ratifié la nouvelle détermination relativement à l’avis de crédit pour TPS.
+[4] C’est de cette ratification que M. Kostiuk souhaite interjeter appel. L’appelant ne conteste pas le fait qu’aucun impôt n’a été établi selon l’avis de crédit pour TPS; ce qu’il conteste, c’est la conclusion du ministre selon laquelle son état civil était « séparé » alors qu’en fait, l’appelant dit qu’il est toujours « marié » et qu’il l’était pendant toute la période en cause. L’inquiétude de M. Kostiuk réside dans le fait que, s’il produit ses futures déclarations de revenu en tant que particulier « marié », il risque de voir à chaque fois de nouvelles cotisations établies à son égard, ou, pire encore, de se voir imposer des pénalités pour avoir produit une fausse déclaration. En interjetant appel, M. Kostiuk cherche à éviter de telles difficultés éventuelles et demande à la Cour de trancher une fois pour toutes la question de son état civil.
+[5] Selon l’intimée, étant donné qu’aucun impôt n’est payable selon l’avis de crédit pour TPS, il s’agit d’une cotisation « néant », et, par conséquent, aucun appel ne peut en découler.
+[6] Bien que la loi elle‑même ne mentionne nulle part le terme cotisation « néant », ce terme a depuis longtemps été défini par la jurisprudence pour désigner une cotisation dont on ne peut pas faire appel : lorsqu’aucun impôt n’a été établi, il n’y a pas de « cotisation » au sens où ce terme est utilisé par la loi, et il n’y a donc rien dont on puisse interjeter appel. La justification de cette interprétation a été donnée par le juge Noël dans la décision de la Cour d’appel fédérale Interior Savings Credit Union c. Sa majesté la Reine[1] de la manière suivante :
+17 […] Il existe deux raisons pour lesquelles ce type de cotisation ne peut faire l’objet d’un appel. Premièrement, l’appel doit viser une cotisation et la cotisation aux termes de laquelle aucun impôt n’est payable n’est pas une cotisation (voir l’arrêt Okalta Oils Limited c. MNR, 55 DTC 1176 (CSC), à la page 1178 : [traduction] « Aux termes de ces dispositions, il n’y a pas de cotisation si aucun impôt n’a été réclamé »). Deuxièmement, il n’existe aucun droit d’en appeler d’une cotisation portant qu’aucun impôt n’est payable puisque [traduction] “[t]oute opposition autre que celle qui se rapporte au montant réclamé [au titre des impôts] est dépourvue de l’objet dont découle le droit d’appel … » (Okalta Oils, précité, à la page 1178)[2].
+[7] Étant donné que M. Kostiuk reconnaît qu’aucun impôt n’était payable selon l’avis de crédit pour TPS, la Cour n’a aucune compétence pour connaître d’un appel qui en découle. M. Kostiuk est aussi confronté à une autre difficulté, en ce sens qu’il demande en fait, dans son appel, une décision sur la question de son état civil, une réparation que la Cour n’a pas de toutes façons la compétence d’accorder.
+[8] Pour les motifs mentionnés ci-dessus, la requête de l’intimée est accueillie, sans dépens, et l’appel est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 630
+NO DU DOSSIER DE LA COUR : 2010-628(IT)I
+INTITULÉ : PETER KOSTIUK
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 29 novembre 2010
+MOTIFS DE L’ORDONNANCE : L’honorable juge G. A. Sheridan
+DATE DE L’ORDONNANCE : Le 6 décembre 2010
+COMPARUTIONS :
+Avocate de l’appelant :
+Me D. Heather Funk
+Avocate de l’intimée :
+Me Bryn Frape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : D. Heather Funk
+Cabinet : Funk’s Law Office Prof. Corp.
+Saskatoon (Saskatchewan)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2007 CAF 151 (C.A.F.). En ce qui concerne la Loi sur la taxe d’accise, voir Bruner c. R., [2003] A.C.F. no 144. (C.A.F.).
+[2] Précité, au paragraphe 17.

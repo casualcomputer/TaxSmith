@@ -1,0 +1,265 @@
+---
+title: "Anchor Pointe Energy Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25134/index.do"
+last_modified: "2006-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 424"
+citation2: ""
+neutral_citation: "2006 TCC 424"
+decision_date: "2006-07-21"
+language: "en"
+item_id: "25134"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2590
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:53:48.299000+00:00"
+cases_cited_count: 2
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b951b3e0aab6c9603c1d4958e72a21ae60f8221757f0bf17767489f2f71d74f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anchor Pointe Energy Ltd v. The Queen
+
+- Citation: 2006 TCC 424
+- Decision date: 2006-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2590, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anchor Pointe Energy Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-21
+Neutral citation
+2006 TCC 424
+File numbers
+2000-2864(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-2864(IT)G
+BETWEEN:
+ANCHOR POINTE ENERGY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 8, 2006 at Vancouver, British Columbia.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Craig Sturrock
+Terry Gill
+Counsel for the Respondent:
+Wendy Burnham
+Deborah Horowitz
+____________________________________________________________________
+ORDER
+The answer to the question stated under section 58 of the Rules is "The Respondent".
+The costs of this motion will be in the cause.
+Signed at Ottawa, Canada, this 21st day of July 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC424
+Date: 20060721
+Docket: 2000-2864(IT)G
+BETWEEN:
+ANCHOR POINTE ENERGY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowman, C.J.
+[1] This is a determination of a question pursuant to paragraph 58(1)(a) of the Tax Court of Canada Rules (General Procedure). The question which the parties on consent asked be determined is:
+Who bears the onus of proof with respect to assumptions of fact first relied on by the Minister of National Revenue in confirming a reassessment pursuant to subsection 165(3) of the Income Tax Act?
+[2] The background to this matter should be stated briefly. According to the Notice of Appeal, predecessor companies of the appellant purchased seismic data from different vendors.
+[3] Paragraphs 12 to 19 of the Notice of Appeal read:
+12. Each Predecessor Company purchased the Seismic Data with the intention that it would be used for the purpose of determining the existence, location, extent and quality of accumulations of petroleum and natural gas in Canada, and it has been used for that purpose.
+13. The exploration activities undertaken by the Appellant and its Predecessor Companies in connection with the Seismic Data have included:
+(a) geological, geophysical and engineering analyses of the Seismic Data to determine potential prospects;
+(b) analysis of land availability;
+(c) farm-out agreements;
+(d) purchase of petroleum and natural gas leases; and
+(e) drilling of wells.
+14. In computing its income under Part I of the Act, each Predecessor Company:
+(a) treated the Purchase Price as a "Canadian exploration expense" ("CEE") and added that amount to its "cumulative Canadian exploration expense" (as those terms are defined in subsection 66.1(6) of the Act) in 1991; and
+(b) deducted cumulative Canadian exploration expenses in accordance with subsection 66.1(3) of the Act for its 1991 taxation year as follows:
+Predecessor Company Amount Deducted
+Anchor Pointe I $328,000
+Anchor Pointe II $820,000
+Anchor Pointe III $164,000
+Anchor Pointe IV $164,000
+Anchor Pointe V $164,000
+15. By Notices of Reassessment, the Minister reassessed the Appellant to tax for its 1991 taxation year by reducing its CEE as follows:
+Date of Notice of Reduction of CEE
+Reassessment
+February 17, 1994 from $328,000 to $92,000
+March 4, 1994 from $820,000 to $229,000
+March 4, 1994 from $164,000 to $46,000
+March 4, 1994 from $164,000 to $46,000
+March 4, 1994 from $164,000 to $46,000
+16. The Minister's explanation for the reassessments provided in the explanatory forms T7W-C and his proposal letters, was that the Appellant was entitled to claim only up to the fair market value of the Seismic Data as determined by the Business Equity Valuation Unit. No other reason was advanced in support of the reassessments.
+17. By notices dated March 10, 1994 and March 14, 1994, respectively, the Appellant objected to the February Reassessment and the March Reassessments.
+18. By notices dated March 28, 2000, the Minister confirmed his reassessments, stating the following:
+(a) Seismic data purchased for the purpose of resale or licensing does not qualify as CEE within the meaning of paragraph 66.1(6)(a) of the Act.
+(b) In addition, even if the activities satisfied the purpose test set out in paragraph 66.1(6)(a) of the Act, you have failed to establish that the seismic data in issue had a fair market value as claimed...
+19. The Minister initially raised the alternative argument set out at paragraph 18(a) above in his March 28, 2000 notice of confirmations which were issued after the expiration of the normal reassessment period for the Appellant's 1991 taxation year as determined under subsection 152(3.1) of the Act.
+[4] Subparagraphs 10(q), (r) and (z) of the Reply to Notice of Appeal read as follows:
+(q) API, APII, APIII, APIV and APV did not purchase the seismic data for the purpose of determining the existence, location, extent or quality of an accumulation of oil or gas;
+(r) the seismic was not used for exploration purposes;
+(z) the seismic data purchased by API, APII, APIII, APIV and APV does not qualify as a Canadian Exploration Expense ("CEE") within the meaning of s. 66.1(6)(a) of the Income Tax Act (the "Act").
+[5] These "assumptions" were based upon the Federal Court of Appeal decision in Global Communications Limited v. The Queen, 99 DTC 5377. The appellant moved to strike out certain portions of the reply. In the case of subparagraphs (q) and (r), those assumptions could not have been made on assessing because the Global case had not been decided at that time. In his reasons in which he struck out subparagraphs (q), (r) and (z) Justice Rip said:
+[7] The Minister then confirmed the reassessments "based on the findings in the Global case", according to the Canada Customs and Revenue Agency ("CCRA") Report on Objection or Appeal, dated March 17, 2000. The Minister was of the view that there was no evidence that any of the seismic data purchased by the predecessor corporations was to be used by the corporations themselves for the purpose of oil and gas exploration.
+[8] Had the tax authority originally reassessed applying the reasons in the Global Communications decision, it would have denied all CEE deductions claimed by the predecessor corporations. However, the CCRA permitted the CEE deductions, denying only the portion of the CEE deduction that related to the cost of the seismic data that was above fair market value. The author of the Report on Objection or Appeal acknowledges "our view of the law that upward reassessments to statute barred years are not to be done. This means we cannot increase the amount of tax payable . . . [w]e are prohibited from issuing a reassessment to disallow the CEE allowed by audit . . . for the 1991 taxation year".
+[9] The Notifications of Confirmation ("Notification" or "Notifications") sent to the applicant stated that the reassessments were confirmed on the basis that:
+Seismic data purchased for the purpose of resale or licensing does not qualify as Canadian exploration expense ("CEE") within the meaning of paragraph 66.1(6)(a) of the Act.
+In addition, even if the activities satisfied the purpose test set out in paragraph 66.1(6)(a) of the Act, you have failed to establish that the seismic data in issue had a fair market value as claimed of $328,000.
+[10] In other words, the main reason the reassessments were confirmed was because of the reasons in Global Communications; the original basis of the reassessments became the alternative basis for the confirmations. The applicant appealed and in its Notice of Appeal alleged that the predecessor corporations did not pay an excessive amount for the seismic data. The applicant also denied the primary basis of the confirmations stating that the seismic data was purchased "with the intention that it would be used for the purpose of determining the existence, location, extent and quality of accumulations of petroleum and national gas in Canada, and it has been used for that purpose". The applicant also described the exploration activities undertaken by it and its predecessor corporations in connection with the seismic data.
+...
+[26] The Crown has a serious obligation to set out honestly and fully the actual assumptions upon which the Minister acted in making the assessment, whether they support the assessment or not. Pleading that the Minister assumed facts that he could not possibly have assumed is not a fulfilment of that obligation.
+[27] Subparagraphs 10(q), (r) and (z) of the Reply, ought to be expunged. It is not true that "in assessing, the Minister assumed" the facts the Attorney General stated the Minister assumed in these provisions. This is, to my mind, an abuse of the process of the Court. The assessment process may include both the making of the assessment and the reconsideration of the assessment that may lead to a confirmation of the assessment but reference to an assessment itself is a reference to an administrative act distinct from a confirmation.
+[28] I am more than somewhat disturbed that the Attorney General constantly includes conclusions of law among the facts purportedly assumed by the Minister in assessing. Subparagraph 10(z) is one of these conclusions of law that has no place among the Minister's assumed facts and should be expunged in any event.
+[29] The Crown is not restricted in its Reply to alleging only facts the Minister assumed in assessing, as is its tendency. In accordance with subsection 49(1) of the Rules, a Reply shall state not only "the findings or assumptions of fact made by the Minister when making the assessment" but also "any other material fact". There is no reason the Attorney General could not have stated the facts in subparagraphs 10(q) and (r) elsewhere in the respondent's Statement of Facts of the Reply.
+[6] He refused to strike out other portions of the reply. Both parties appealed and the Federal Court of Appeal dismissed the appeal and cross appeal.
+[7] In the Federal Court of Appeal, Rothstein J.A. said:
+[21] The Crown argues that what was meant by the words "[I]n reassessing" in paragraph 10 is "the process of assessing tax liability". The Minister may view the entire process from his first action after a return is filed, to his last - in this case, confirmation of a reassessment, as the process of assessing tax liability. However, the Income Tax Act stipulates specific actions that the Minister may take - assessing, reassessing, confirming. The Act does not use the term "process of assessing tax liability".
+[22] Reassessment and confirmation are distinct actions engaged in by the Minister. Reassessment implies changing a previous assessment or reassessment. Confirmation implies that the previous assessment or reassessment stands unchanged. It is misleading for the Crown to say that the Minister made certain assumptions in reassessing, when those assumptions were made in confirming a reassessment.
+[23] The pleading of assumptions gives the Crown the powerful tool of shifting the onus to the taxpayer to demolish the Minister's assumptions. The facts pleaded as assumptions must be precise and accurate so that the taxpayer knows exactly the case it has to meet. There is no reason why the requirement for precision and accuracy does not apply to the Crown accurately stating the circumstances in which the assumptions arose, that is, on an assessment, reassessment or confirmation. For these reasons, I think Rip J. was correct when he found paragraphs 10(q), (r) and (z) to be inaccurate and struck them from the Reply.
+[24] Paragraph 10(z) was struck by Rip J. for an additional reason. He considered it to be a conclusion of law "that has no place among the Minister's assumed facts".
+[25] I agree that legal statements or conclusions have no place in the recitation of the Minister's factual assumptions. The implication is that the taxpayer has the onus of demolishing the legal statement or conclusion and, of course, that is not correct. The legal test to be applied is not subject to proof by the parties as if it was a fact. The parties are to make their arguments as to the legal test, but it is the Court that has the ultimate obligation of ruling on questions of law.
+[26] However, the assumption in paragraph 10(z) can be more correctly described as a conclusion of mixed fact and law. A conclusion that seismic data purchased does not qualify as CEE within the meaning of paragraph 66.1(6)(a) involves the application of the law to the facts. Paragraph 66.1(6)(a) sets out the test to be met for a CEE deduction. Whether the purchase of the seismic data in this case meets that test involves determining whether or not the facts meet the test. The Minister may assume the factual components of a conclusion of mixed fact and law. However, if he wishes to do so, he should extricate the factual components that are being assumed so that the taxpayer is told exactly what factual assumptions it must demolish in order to succeed. It is unsatisfactory that the assumed facts be buried in the conclusion of mixed fact and law.
+[27] In the present case, it appears that the assumptions contained in paragraphs 10(q) and (r) are the factual components of the mixed conclusion of fact and law in paragraph 10(z). If there are other factual components assumed in the conclusion in paragraph 10(z), the Minister should have extricated them and set them out explicitly.
+[28] If paragraphs 10(q) and (r) had been properly pleaded, they would be unobjectionable. However, paragraphs 10(q), (r) and (z) were not accurately pleaded. Rip J. was correct in striking them out. As I read his reasons, Rip J.'s sole reasons for striking paragraphs 10(q), (r) and (z) were inaccuracy and pleading conclusions of law. I do not understand him to say that assumptions of fact made on confirming a reassessment cannot be pleaded. The Minister, as a result of reading the Notice of Objection filed by a taxpayer or a subsequently decided case such as Global, may make assumptions of fact. I see no reason why such assumptions may not be included in the Crown's Reply. However, the assumptions must be pleaded accurately.
+[8] The Crown then filed an amended reply, adding paragraph 9.1. Paragraph 10 originally read "In reassessing, the Minister assumed the following facts." The amendment removed the word "reassessing" and substituted "confirming the reassessments". Also, the amendments removed a couple of "purported"s, and also subparagraph (2) which Justice Rip had struck out.
+[9] On the hearing of the question before me, the parties filed an agreed statement of facts setting out essentially the facts stated above. Paragraphs 12 and 13 of the agreed statement of facts read as follows:
+12. The Amended Reply states at paragraph 10:
+In confirming the reassessments, the Minister assumed the following facts;
+. . . . .
+(q) API, APII, APIII, APIV and APV did not purchase the seismic data for the purpose of determining the existence, location, extent or quality of an accumulation of oil and gas;
+(r) the seismic was not used for exploration purposes...
+13. The assumptions of fact included as subparagraphs 10(q) and (r) of the Amended Reply were first made by the Minister in confirming the reassessments under appeal and were made after the expiration of the normal reassessment period as set out in subsection 152(3.1) of the Act.
+[10] It is rather interesting that the amended reply does not state anywhere just what the Minister assumed on assessing. It seems to say that all the assumptions were made at the confirmation stage. Where does that leave the onus of proof on all of the assumptions that were not struck out? That, however, is not my concern on the determination of this question. I have to decide whether the appellant has the initial onus of disproving a conclusion reached by the Minister that was a basis for confirming the assessments, but that was not an assumption upon which the assessments were based. The assumption that the seismic data was not purchased for the purpose of determining an existing location, extent or quality of an accumulation of oil and gas is not a basis that is additional to that used on assessing. It is incompatible with it. An assessment that allows the deduction of Canadian exploration expense ("CEE") but limits the amount implicitly recognizes that the amount is CEE, but restricts the deduction. An assessment that denies any deduction as CEE of the cost of seismic data on the basis that it was not acquired for exploration purposes and was therefore not CEE is completely inconsistent with a deduction that is limited to the fair market value of the data. The question here is whether the new basis of disallowance is one that the Minister has the initial onus of proving.
+[11] I should mention in passing that there may, in theory at least, be grounds for confirming that are inconsistent with the original grounds for assessing and there may be grounds that are not inconsistent but are supplemental. I do not propose for the purposes of this question to draw a distinction between an inconsistent basis of assessment and a supplemental basis of assessment. In these reasons I shall treat the two types as the same so far as onus of proof is concerned.
+[12] There is a substantial body of case law and learned commentary on onus of proof in income tax litigation. Indeed the subject has occupied a great deal more time and attention than it probably deserves. I expressed a view to this effect in a footnote in The Cadillac Fairview Corporation Limited v. The Queen, 97 DTC 405 at page 407 (aff'd. 99 DTC 5121):
+The appellant pleaded that the payments were made pursuant to the guarantees and this allegation was denied. Counsel for the appellant argued that since the Minister had not pleaded that he "assumed" that the payments were not made pursuant to the guarantees the Minister had the onus of establishing that the payments were not made pursuant to the guarantees. The question is, if not a pure question of law, at least a mixed one of law and fact. In any event the basic assumption made on assessing was that the appellant was not entitled to the capital loss claimed and it was for the appellant to establish the several legal components entitling it to the deduction claimed. An inordinate amount of time is wasted in income tax appeals on questions of onus of proof and on chasing the will-o'-the-wisp of what the Minister may or may not have "assumed". I do not believe that M.N.R. v. Pillsbury Holdings Ltd. [1964] DTC 5184 has completely turned the ordinary rules of practice and pleading on their head. The usual rule - and I see no reason why it should not apply in income tax appeals - is set out in Odgers' Principles of Pleading and Practice, 22nd edition at p. 532:
+The "burden of proof" is the duty which lies on a party to establish his case. It will lie on A, whenever A must either call some evidence or have judgment given against him. As a rule (but not invariably) it lies upon the party who has in his pleading maintained the affirmative of the issue; for a negative is in general incapable of proof. Ei incumbit probatio qui dicit, non qui negat. The affirmative is generally, but not necessarily, maintained by the party who first raises the issue. Thus, the onus lies, as a rule, on the plaintiff to establish every fact which he has asserted in the statement of claim, and on the defendant to prove all facts which he has pleaded by way of confession and avoidance, such as fraud, performance, release, rescission, etc.
+[13] The fact nonetheless remains that onus of proof in tax cases occupies a rather unique place in Canadian jurisprudence. With the exception of certain specific statutory provisions relating to onus (for example subsection 163(2) of the Income Tax Act) virtually all of the rules relating to onus of proof, both in their genesis and in their evolution, are judge made. The usual rule is that a taxpayer who challenges an assessment has the onus "to demolish the basic fact on which the taxation rested" Johnston v. M.N.R., 3 DTC 1182 per Rand J. at p. 1183. The classic statement has been quoted many times but it is worth repeating:
+Notwithstanding that it is spoken of in section 63(2) as an action ready for trial or hearing, the proceeding is an appeal from the taxation; and since the taxation is on the basis of certain facts and certain provisions of law either those facts or the application of the law is challenged. Every such fact found or assumed by the assessor or the Minister must then be accepted as it was dealt with by these persons unless questioned by the appellant. If the taxpayer here intended to contest the fact that he supported his wife within the meaning of the Rules mentioned he should have raised that issue in his pleading, and the burden would have rested on him as on any appellant to show that the conclusion below was not warranted. For that purpose he might bring evidence before the Court notwithstanding that it had not been placed before the assessor or the Minister, but the onus was his to demolish the basic fact on which the taxation rested.
+[14] The focus in this passage is on the facts found or assumed by the assessor.
+[15] The rule with respect to onus predates Johnston. In Anderson Logging Co. v. British Columbia, [1925] S.C.R. 45 at p. 50, Duff J. said:
+First, as to the contention on the point of onus. If, on an appeal to the judge of the Court of Revision, it appears that, on the true facts, the application of the pertinent enactment is doubtful, it would, on principle, seem that the Crown must fail. That seems to be necessarily involved in the principle according to which statutes imposing a burden upon the subject have, by inveterate practice, been interpreted and administered. But, as concerns the inquiry into the facts, the appellant is in the same position as any other appellant. He must shew that the impeached assessment is an assessment which ought not to have been made; that is to say, he must establish facts upon which it can be affirmatively asserted that the assessment was not authorized by the taxing statute, or which bring the matter into such a state of doubt that, on the principles alluded to, the liability of the appellant must be negative. The true facts may be established, of course, by direct evidence or by probable inference. The appellant may adduce facts constituting a prima facie case which remains unanswered; but in considering whether this has been done it is important not to forget, if it be so, that the facts are, in a special degree if not exclusively, within the appellant's cognizance; although this last is a consideration which, for obvious reasons, must not be pressed too far.
+[16] The third Supreme Court case that has discussed onus of proof is Hickman Motors Limited v. The Queen, 97 DTC 5363 where L'Heureux-Dubé J. said at p. 5376:
+K. Onus of Proof
+As I have noted, the appellant adduced clear, uncontradicted evidence, while the respondent did not adduce any evidence whatsoever. In my view, the law on that point is well settled, and the respondent failed to discharge its burden of proof for the following reasons.
+It is trite law that in taxation the standard of proof is the civil balance of probabilities: Dobieco v. M.N.R., [1966] S.C.R. 95, and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter: Continental Insurance v. Dalton Cartage, [1982] 1 S.C.R. 164; Pallan v. M.N.R., 90 DTC 1102 (T.C.C.) at p. 1106. The Minister, in making assessments, proceeds on assumptions (Bayridge Estates v. M.N.R., 59 DTC 1098 (Ex. Ct.), at p. 1101) and the initial onus is on the taxpayer to "demolish" the Minister's assumptions in the assessment (Johnston v. M.N.R., [1948] S.C.R. 486; Kennedy v. M.N.R., 73 DTC 5359 (F.C.A.), at p. 5361). The initial burden is only to "demolish" the exact assumptions made by the Minister but no more: First Fund Genesis v. The Queen, 90 DTC 6337 (F.C.T.D.), at p. 6340.
+This initial onus of "demolishing" the Minister's exact assumptions is met where the appellant makes out at least a prima facie case: Kamin v. M.N.R., 93 DTC 62 (T.C.C.); Goodwyn v. M.N.R., 82 DTC 1679 (T.R.B.). In the case at bar, the appellant adduced evidence which met not only a prima facie standard, but also, in my view, even a higher one. In my view, the appellant "demolished" the following assumptions as follows: (a) the assumption of "two businesses", by adducing clear evidence of only one business; (b) the assumption of "no income", by adducing clear evidence of income. The law is settled that unchallenged and uncontradicted evidence "demolishes" the Minister's assumptions: see for example MacIsaac v. M.N.R., 74 DTC 6380 (F.C.A.), at p. 6381; Zink v. M.N.R., 87 DTC 652 (T.C.C.). As stated above, all of the appellant's evidence in the case at bar remained unchallenged and uncontradicted. Accordingly, in my view, the assumptions of "two businesses" and "no income" have been "demolished" by the appellant.
+Where the Minister's assumptions have been "demolished" by the appellant, "the onus shifts to the Minister to rebut the prima facie case" made out by the appellant and to prove the assumptions: Maglib Development Corp. v. The Queen, 87 DTC 5012 (F.C.T.D.), at p. 5018. Hence, in the case at bar, the onus has shifted to the Minister to prove its assumptions that there are "two businesses" and "no income".
+Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: see for example MacIsaac, supra, where the Federal Court of Appeal set aside the judgment of the Trial Division, on the grounds that (at pp. 6381-2) the "evidence was not challenged or contradicted and no objection of any kind was taken thereto". See also Waxstein v. M.N.R., 80 DTC 1348 (T.R.B.); Roselawn Investments Ltd. v. M.N.R., 80 DTC 1271 (T.R.B.). Refer also to Zink v. M.N.R., supra, at p. 653, where, even if the evidence contained "gaps in logic, chronology and substance", the taxpayer's appeal was allowed as the Minster failed to present any evidence as to the source of income. I note that, in the case at bar, the evidence contains no such "gaps". Therefore, in the case at bar, since the Minister adduced no evidence whatsoever, and no question of credibility was ever raised by anyone, the appellant is entitled to succeed.
+In the present case, without any evidence, both the Trial Division and the Court of Appeal purported to transform the Minister's unsubstantiated and unproven assumptions into "factual findings", thus making errors of law on the onus of proof. My colleague Iacobucci, J. defers to these so-called "concurrent findings" of the courts below, but, while I fully agree in general with the principle of deference, in this case two wrongs cannot make a right. Even with "concurrent findings", unchallenged and uncontradicted evidence positively rebuts the Minister's assumptions: MacIsaac, supra. As Rip, T.C.J., stated in Gelber v. M.N.R., 91 DTC 1030, at p. 1033, "[the Minister] is not the arbiter of what is right or wrong in tax law". As Brulé, T.C.J., stated in Kamin, supra, at p. 64:
+...
+the Minister should be able to rebut such [prima facie] evidence and bring forth some foundation for his assumptions.
+...
+The Minister does not have a carte blanche in terms of setting out any assumption which suits his convenience. On being challenged by evidence in chief he must be expected to present something more concrete than a simple assumption.
+[Emphasis added.]
+In my view, the above statement is apposite in the present case: the respondent, on being challenged by evidence in chief, failed to present anything more concrete than simple assumptions and failed to bring forth any foundation. The respondent chose not to rebut any of the appellant's evidence. Accordingly, the respondent failed to discharge her onus of proof.
+I note that, in upholding the Minister's unproven assumptions, my colleague Iacobucci, J. may be seen as reversing the above-stated line of caselaw, without explicitly providing the rationale for doing so. With respect for the contrary opinion, in my view, changes in the jurisprudence regarding the onus of proof in tax law should be left for another day. Furthermore, on the facts of the case at bar, sanctioning the respondent's total lack of evidence could seem unreasonable and perhaps even unjust, given that the appellant complied with a well-established line of jurisprudence as regards its onus of proof.
+[17] Finally, there is the recent decision of the Supreme Court of Canada in Placer Dome Canada Ltd. v. Ontario (Minister of Finance), 2006 SCC 20 a case that arose under the Ontario Mining Tax Act. LeBel J. said at paragraphs 25 and 26:
+25. The parties disagree on who bears the burden of proof in this case. The burden of proof under the Mining Tax Act is set out in s. 8(7). That section referentially incorporates s. 80(18) of the Corporations Tax Act, R.S.O. 1990, c. C.40, which provides that:
+...[a]n assessment, subject to being varied or vacated on an objection or appeal and subject to a reassessment, shall be deemed to be valid and binding despite any error, defect or omission therein or in any proceeding under this Act relating thereto.
+Thus, the taxpayer bears the burden of establishing that the factual findings upon which the Minister based the assessment are wrong. This is the same burden that applies under the Income Tax Act, s. 152(8): see V. Krishna, The Fundamentals of Canadian Income Tax (8th ed. 2004), at p. 35; Johnston v. M.N.R., [1948] S.C.R. 486 (S.C.C.).
+26. PDC and the majority of the Court of Appeal, cite Notre-Dame de Bon-Secours for the proposition that the party claiming the benefit of a legislative provision has the burden of showing that he or she is entitled to rely on it. Specifically, at p. 15, Gonthier J. held:
+The burden of proof thus rests with the tax department in the case of a provision imposing a tax obligation and with the taxpayer in the case of a provision creating a tax exemption
+Gonthier J.'s statement in Notre-Dame de Bon-Secours was obiter dicta, made in the context of explaining the traditional rule that tax legislation must be strictly construed. His point was simply that the residual presumption in favour of the taxpayer, which follows from the strict construction rule, was distinct from the concept of burden of proof. The burden of proof was not at issue in the case before him, and Gonthier J.'s comment was made in passing, without reference to the leading case law establishing the burden of proof in tax cases. The fundamental rules on the allocation of evidentiary burden in this matter remain valid. I cannot accept that, with this statement, he intended to overrule an established body of jurisprudence. The taxpayer bears the burden of displacing the Minister's factual assumptions, but the concept of burden of proof is not applicable to the interpretation of a statute, which is necessarily a question of law: Johnston.
+[18] I have cited these four decisions of the Supreme Court of Canada because it is those cases that have established or reaffirmed the basic ground rules in the matter of onus of proof in tax assessments. It is true, there has been a bit of fine-tuning of those rules but within the parameters of the rules established by the Supreme Court of Canada. As L'Heureux-Dubé said in Hickman Motors, changes in the jurisprudence regarding onus of proof in tax cases should be left for another day. I do not think she meant to leave to lower courts the function of changing the rules laid down by the Supreme Court of Canada. If the rules are to be changed it is only the Supreme Court of Canada that should change them.
+[19] As I mentioned, there have been a few necessary refinements in the application of the rules. One is found in M.N.R. v. Pillsbury Holdings Limited, 64 DTC 5184 where Cattanach J. of the Exchequer Court, in discussing the Minister's "assumptions", said at p. 5188:
+The relevance of this pleading appears from the decision of the Supreme Court of Canada in Johnston v. Minister of National Revenue, [1948] S.C. R. 186 [3 DTC 1182] per Rand J., delivering the judgment of the majority, at p. 489:
+Every such fact found or assumed by the assessor or the Minister must then be accepted as it was dealt with by these persons unless questioned by the appellant.
+(For the word "appellant" in that quotation, may be substituted "respondent" for the purpose of this appeal). The respondent could have met the Minister's pleading that, in assessing the respondent, he assumed the facts set out in paragraph 6 of the Notice of Appeal by:
+(a) challenging the Minister's allegation that he did assume those facts,
+(b) assuming the onus of showing that one or more of the assumptions was wrong, or
+(c) contending that, even if the assumptions were justified, they do not of themselves support the assessment.
+(The Minister could, of course, as an alternative to relying on the facts he found or assumed in assessing the respondent, have alleged by his Notice of Appeal further or other facts that would support or help in supporting the assessment. If he had alleged such further or other facts, the onus would presumably have been on him to establish them. In any event, the Minister did not choose such alternative in this case and relied on the facts that he had assumed at the time of the assessment).
+The respondent did not challenge the Minister's allegation that he had, in assessing, assumed the facts set out in paragraph 6 of the Notice of Appeal. Neither did the respondent attempt to show that the assumptions were wrong in fact. The respondent did however put evidence before the Court to show exactly what the facts were and contended that those facts did not support the assessments.
+[20] This statement does not mark a departure from the rules established by the Supreme Court of Canada in Johnston and Anderson Logging. It merely elaborates somewhat on them.
+[21] There have been a few other refinements of the rules. For example unpleaded assumptions do not cast an onus on the taxpayer, (R. v. Bowens, 96 DTC 6158) but it is reprehensible for the respondent to fail to plead assumptions that assist an appellant. The appellant can use such unpleaded favourable assumptions to support his or her case: Holm et al. v. The Queen, 2003 DTC 755. The Minister is not obliged to prove that he acted on the assumptions pleaded. It is sufficient to state that he did act on those assumptions. The assertion that the Minister acted on the assumptions as well as the pleaded assumptions themselves stand unless the appellant disproves them. The premise is that the respondent has in the Reply to the Notice of Appeal fully and with complete honesty pleaded the facts on which he relies in making the assessment. Another sub-rule that I have seen emerging is that the "reverse onus" relating to the taxpayer's burden to demolish the assumptions does not, as a matter of ordinary fairness, extend to requiring the taxpayer to disprove the assumptions of facts that are peculiarly or exclusively within the Minister's knowledge (Holm supra).
+[22] I revert then to the question whether factual conclusions forming the basis of confirming the assessment, when they differ from or are in addition to factual conclusions on which the assessing action was taken must be disproved by the taxpayer or proved by the Minister.
+[23] It is worthwhile to compare the Minister's function at the assessment level with his function at the objection level. At the assessment level the assessor considers the facts, makes certain factual and legal determinations and issues an assessment. As Thorson P. said in Pure Spring Co. Ltd. v. M.N.R., 2 DTC 844 at p. 857:
+The assessment is different from the notice of assessment; the one is an operation, the other a piece of paper. The nature of the assessment operation was clearly stated by the Chief justice of Australia, Isaacs, A.C.J., in Federal Commissioner of Taxation v. Clarke ((1927) 40 C.L.R. 246 at 277):
+An assessment is only the ascertainment and fixation of liability,
+a definition which he had previously elaborated in The King v. Deputy Federal Commissioner of Taxation (S.A.); ex parte Hooper ((1926) 37 C.L.R. 368 at 373):
+An "assessment" is not a piece of paper; it is an official act or operation; it is the Commissioner's ascertainment, on consideration of all relevant circumstances, including sometimes his own opinion, of the amount of tax chargeable to a given taxpayer. When he has completed his ascertainment of the amount he sends by post a notification thereof called a "notice of assessment" . . . But neither the paper sent nor the notification it gives is the "assessment". That is and remains the act of operation of the Commissioner.
+It is the opinion as formed, and not the material on which it was based, that is one of the circumstances relevant to the assessment. The assessment, as I see it, is the summation of all the factors representing tax liability, ascertained in a variety of ways, and the fixation of the total after all the necessary computations have been made.
+[24] It is from the assessment that the taxpayer appeals to this court after filing an objection. Where a taxpayer objects to an assessment under subsection 165(1), the Minister's obligation is as set out in subsection 165(3):
+(3) On receipt of a notice of objection under this section, the Minister shall, with all due dispatch, reconsider the assessment and vacate, confirm or vary the assessment or reassess, and shall thereupon notify the taxpayer in writing of the Minister's action.
+[25] It is clear that the focus is upon the assessment which the Minister may confirm or vary or he may reassess.
+[26] The right of appeal from an assessment to this court depends upon a notice of objection having been filed. Whether the Minister has confirmed or not the appeal is from the assessment. Had Parliament intended that a taxpayer should have to appeal from a confirmation it is perfectly capable of saying so.
+[27] I have concluded that the rules established by the Supreme Court of Canada for challenging an assessment followed for decades are so thoroughly entrenched that it would be inappropriate to impose an additional burden on a taxpayer of demolishing further "assumptions" or findings of fact made by the Minister in confirming the assessment at the objection level. The reverse onus of proof in tax litigation and the substantial body of jurisprudence that has been developed around it are unique. I am not prepared to drive a coach-and-four through those rules by adding a totally new dimension to the taxpayer's burden. If the rules are to be changed it is either Parliament or the Supreme Court of Canada that must do so. There is no reason, as a matter of principle, of law, of fairness or of common sense that would justify my requiring a taxpayer to take on the added onus of demolishing new reasons that the Minister has come up with in the course of what is essentially an administrative review of an assessment. To plead that the Minister, in confirming the assessment acted upon certain "assumptions" may in some circumstances be a useful piece of information but it casts no additional burden on the taxpayer. It is merely an assertion of additional facts or reasons that the Minister has relied upon in his administrative review of the assessment. Despite the great respect that I have for Justice Cattanach, I do not accept the correctness of his obiter dictum in Parsons v. M.N.R., [1984] 1 F.C. 804 that the Minister's reconsideration of the assessment on objection is "part and parcel of the assessment process". It is inconsistent with what Justice Rip said in paragraph 27 of his reasons in this case quoted above. That portion of his reasons was implicitly confirmed by Rothstein, J.A. in the Federal Court of Appeal.
+[28] Quite apart from the compelling precedential force of four Supreme Court of Canada judgments there are additional reasons for not saddling the taxpayer with the onus of disproving new "assumptions" that the Minister has come up with at the objection level. It is a simple matter of procedural fairness. The cards are already stacked in favour of the Crown, with the presumption of correctness of assessments, the Crown's right to plead unproved assumptions and the reverse onus of proof. I see no reason for stacking the cards any further by extending that reverse onus to "assumptions" made at the confirmation stage. The point was put very well by William I. Innes in the article Will-o'-the wisps and Other Exotic Tax Species: Recent Developments in the Rules of Crown Pleading in Tax Litigation, Volume XI, No. 2 Tax Litigation at page 686:
+...The underlying policy reason for the reverse onus rule is clear where facts are peculiarly within the knowledge of the taxpayer it is simply unfair to force the Minister to prove those facts. If the Minister makes assumptions which are incorrect, the taxpayer has the knowledge to demonstrate that error. The underlying premise of the rule, however, is that the Minister makes such factual assumptions in raising an assessment (which, in my view, can be done on an assessment, an initial reassessment or a reassessment arising out of a notice of objection). Where the assumptions arise in the course of confirming an original assessment or reassessment as part of the objection procedure, the fairness of the process is questionable at best. The objection process can take several years in more complex cases (slightly more than six years in the Anchor Pointe case). To allow the Minister to sit back and "cherry-pick" developments from recent cases and use them to bolster the rationale for the original assessment or reassessment under the guise of making assumptions which the taxpayer must then disprove seems an unduly nervous burden to place on the taxpayer. Clearly, the Crown should be able to plead such facts and arguments (subject to the issue of statute-barring which is discussed below) as long as the onus is on the Crown to adduce evidence to prove such assertions. Where, however, the Crown can cast such after-thoughts as assumptions this seems to go well beyond the "level playing field" rationale underlying the original rule and to skew the process clearly in favour of the Crown.
+[29] My conclusion that the respondent bears the onus of establishing the facts on which the confirmation was based may appear to contain a certain anomaly.
+[30] Paragraph 12 of the Notice of Appeal which is quoted above reads:
+12. Each Predecessor Company purchased the Seismic Data with the intention that it would be used for the purpose of determining the existence, location, extent and quality of accumulations of petroleum and natural gas in Canada, and it has been used for that purpose.
+[31] The assertion is denied by the respondent. In ordinary litigation the person who asserts a fact should have the onus of proving it, as stated in the footnote in Cadillac Fairview quoted above in paragraph 12 of these reasons. One might be inclined to say "if you are asserting a claim, prove the constituent elements necessary to your entitlement". That is, apparently, not how things work in the arcane world of tax litigation. The principle that a taxpayer's obligation is to demolish the assumptions made on assessing seems to displace the principle stated in Odgers (supra). One might rationalize this seemingly anomalous conclusion on the basis that by assessing as he did the Minister implicitly admitted the assertion in paragraph 12 of the Notice of Appeal and that while the Minister may have the right to withdraw such an admission in confirming the assessment on a basis that is inconsistent with it, it is only fair that the respondent have the burden of proving that the admission is wrong
+[32] The answer to the question stated under section 58 of the Rules is "The Respondent".
+[33] The costs of this motion will be in the cause.
+Signed at Ottawa, Canada, this 21st day of July 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC424
+COURT FILE NUMBER:
+2000-2864(IT)G
+STYLE OF CAUSE:
+Anchor Pointe Energy Ltd. v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 8, 2006
+REASONS FOR ORDER BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF ORDER AND REASONS FOR ORDER:
+July 21, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Craig Sturrock
+Terry Gill
+Counsel for the Respondent:
+Wendy Burnham
+Deborah Horowitz
+COUNSEL OF RECORD:
+Counsel for the Appellant
+Name:
+Thorsteinssons LLP
+Firm:
+27th Floor, 3 Bentall Centre
+595 Burrard Street
+P.O. Box 49123
+Vancouver, B.C. V7X 1J2
+Counsel for the Respondent
+John H. Sims, Q.C.
+Deputy Attorney General of Canada

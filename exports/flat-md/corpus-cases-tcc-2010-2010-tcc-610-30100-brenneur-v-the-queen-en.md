@@ -1,0 +1,216 @@
+---
+title: "Brenneur v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30100/index.do"
+last_modified: "2010-11-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 610"
+citation2: ""
+neutral_citation: "2010 TCC 610"
+decision_date: "2010-11-30"
+language: "en"
+item_id: "30100"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7648
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:48:37.710000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "250989311d3d4bb15acf3db696a6ab9175108209afffb2b46e981cd51aee2c3f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brenneur v. The Queen
+
+- Citation: 2010 TCC 610
+- Decision date: 2010-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7648, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brenneur v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-30
+Neutral citation
+2010 TCC 610
+File numbers
+2008-3222(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3222(IT)G
+BETWEEN:
+THIERRY BRENNEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on June 16, 2010, at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Pierre Zeppettini
+Counsel for the respondent:
+Simon‑Nicolas Crépin
+____________________________________________________________________
+ORDER
+UPON application made by counsel for the respondent pursuant to section 174 of the Income Tax Act to have a question determined by this Court;
+AND UPON hearing submissions from both parties;
+IT IS ORDERED THAT the respondent’s application is dismissed with costs.
+Signed at Ottawa, Canada, this 30th day of November 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 610
+Date: 20101130
+Docket: 2008-3222(IT)G
+BETWEEN:
+THIERRY BRENNEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Boyle J.
+[1] This is an application by the respondent pursuant to section 174 of the Income Tax Act (the “Act”) to have determined by this Court a question that is common to two taxpayers. Because one of the taxpayers, Thierry Brenneur, has instituted an appeal in this Court from reassessments by the Canada Revenue Agency (“CRA”) and the other taxpayer, Michael Batalha, has not been reassessed, this Court is effectively being asked to join Mr. Batalha to Mr. Brenneur’s court proceedings.
+[2] Mr. Brenneur’s 2004 and 2005 taxation years have been reassessed by the CRA, which denied in full the deduction of certain amounts Mr. Brenneur claims to have paid Mr. Batalha in cash for his work as a subcontractor in Mr. Brenneur’s computer technology consulting business based in the Montreal area. Mr. Brenneur filed his notice of appeal with this Court in French. The respondent’s reply is, of course, also in French.
+[3] According to Mr. Batalha, he was not paid the amounts claimed by Mr. Brenneur. Mr. Batalha says he was paid substantially less and that this is supported by his invoices, his time schedules and the e‑mails sent to and received from Mr. Brenneur. He maintains that he properly reported his revenues from Mr. Brenneur for tax purposes. Mr. Batalha has not been audited or reassessed by the CRA in respect of these amounts, nor has he received any indication from the CRA that a reassessment was being considered or was proposed at the time this application was filed. At this time, the CRA is outside the normal reassessment period with respect to Mr. Batalha and would have to show he misrepresented his income in circumstances amounting to neglect, carelessness, wilful default or fraud if it were to proceed to reassess Mr. Batalha.
+[4] The respondent’s application was served on Mr. Batalha as “mis‑en‑cause”, as required. The respondent’s application was submitted in French. Because Mr. Batalha’s abilities in French are limited, the respondent provided him with an unofficial translation of the application to have him joined to Mr. Brenneur’s court proceeding. Mr. Batalha did not receive an unofficial translation of the notice of appeal in the proceeding to which he is sought to be joined. Mr. Batalha filed his response to this application in English.
+[5] At the hearing of this application, counsel for Mr. Brenneur, counsel for the respondent and Mr. Batalha agreed to have the application argued in English. Mr. Brenneur was not present. Mr. Brenneur’s counsel indicated that he was not contesting the application which would result in Mr. Batalha being joined to Mr. Brenneur’s tax appeal. Mr. Batalha is representing himself without a lawyer in this proceeding, as he has the right to do.
+[6] The initial point to be addressed in this reference application is whether, in what circumstances, and subject to what conditions, this Court should consider joining a French language proceeding with an English language proceeding. This raises important questions of language rights for Canadians of both official languages, of procedural fairness for the parties involved, and of the efficient and effective use of the Court’s resources (as well as those of the respondent).[1]
+[7] This issue would not arise in the context of a party requiring or desiring an interpreter in a language other than French or English. Canadians enjoy and value the right to commence legal proceedings in the federal courts in either of our country’s two official languages.
+[8] It does not appear there is any doubt as to the bona fides of Mr. Brenneur or Mr. Batalha with respect to their chosen language for their proceedings.
+[9] There is a further issue in this case of whether there is a proposed reassessment of Mr. Batalha and whether the CRA has the intention of issuing it. Is a possible, conditional or contingent intention sufficient to constitute a proposed reassessment?
+[10] There is also the further issue of Mr. Batalha’s 2004 and 2005 taxation years being outside the normal reassessment period.
+Law
+[11] The relevant portions of section 174 of the Act dealing with references provide as follows:
+174(1) Reference of common questions to Tax Court of Canada — Where the Minister is of the opinion that a question of law, fact or mixed law and fact arising out of one and the same transaction or occurrence or series of transactions or occurrences is common to assessments or proposed assessments in respect of two or more taxpayers, the Minister may apply to the Tax Court of Canada for a determination of the question.
+(2) Application to Court — An application under subsection 174(1) shall set out
+(a) the question in respect of which the Minister requests a determination,
+(b) the names of the taxpayers that the Minister seeks to have bound by the determination of the question, and
+(c) the facts and reasons on which the Minister relies and on which the Minister based or intends to base assessments of tax payable by each of the taxpayers named in the application,
+and a copy of the application shall be served by the Minister on each of the taxpayers named in the application and on any other persons who, in the opinion of the Tax Court of Canada, are likely to be affected by the determination of the question.
+(3) Where Tax Court of Canada may determine question — Where the Tax Court of Canada is satisfied that a determination of the question set out in an application under this section will affect assessments or proposed assessments in respect of two or more taxpayers who have been served with a copy of the application and who are named in an order of the Tax Court of Canada pursuant to this subsection, it may
+(a) if none of the taxpayers so named has appealed from such an assessment, proceed to determine the question in such manner as it considers appropriate; or
+(b) if one or more of the taxpayers so named has or have appealed, make such order joining a party or parties to that or those appeals as it considers appropriate and proceed to determine the question.
+(4) Determination final and conclusive — Subject to subsection 174(4.1), where a question set out in an application under this section is determined by the Tax Court of Canada, the determination thereof is final and conclusive for the purposes of any assessments of tax payable by the taxpayers named by it pursuant to subsection 174(3).
+174(1) Renvoi à la Cour canadienne de l’impôt de questions communes — Lorsque le ministre est d’avis qu’une même opération ou un même événement ou qu’une même série d’opérations ou d’événements a donné naissance à une question de droit, de fait ou de droit et de fait qui se rapporte à des cotisations, réelles ou projetées, relatives à plusieurs contribuables, il peut demander à la Cour canadienne de l’impôt de se prononcer sur la question.
+(2) Présentation de la demande — Une demande présentée en vertu du paragraphe (1) doit faire état :
+a) de la question au sujet de laquelle le ministre demande une décision;
+b) des noms des contribuables que le ministre désire voir liés par la décision relative à cette question;
+c) des faits et motifs sur lesquels le ministre s’appuie et sur lesquels il s’est fondé ou a l’intention de se fonder pour établir la cotisation concernant l’impôt payable par chacun des contribuables nommés dans la demande;
+en outre, un exemplaire de la demande doit être signifié par le ministre à chacun des contribuables qui y sont nommés et à toutes autres personnes qui, de l’avis de la Cour canadienne de l’impôt, sont susceptibles d’être touchées par la décision rendue sur cette question.
+(3) Lorsque la Cour canadienne de l’impôt peut statuer sur une question — Lorsque la Cour canadienne de l’impôt est convaincue que la décision rendue concernant la question exposée dans une demande présentée en vertu du présent article influera sur des cotisations ou des cotisations éventuelles intéressant plusieurs contribuables à qui une copie de la demande a été signifiée et qui sont nommés dans une ordonnance de la Cour canadienne de l’impôt conformément au présent paragraphe, elle peut :
+a) si aucun des contribuables ainsi nommés n’en a appelé d’une de ces cotisations, entreprendre de statuer sur la question de la façon qu’elle juge appropriée;
+b) si un ou plusieurs des contribuables ainsi nommés se sont pourvus en appel, rendre une ordonnance groupant dans cet ou ces appels les parties appelantes comme elle le juge à propos et entreprendre de statuer sur la question.
+(4) Décision définitive — Sous réserve du paragraphe (4.1), lorsque la Cour canadienne de l’impôt statue sur une question exposée dans une demande dont elle a été saisie en vertu du présent article, la décision rendue est finale et sans appel pour l’établissement de toute cotisation concernant l’impôt payable par les contribuables nommés dans la décision, en vertu du paragraphe (3).
+[12] Subsections 16(1) and 19(1) of the Canadian Charter of Rights and Freedoms (the “Charter”) provide as follows:
+16(1) Official languages of Canada — English and French are the official languages of Canada and have equality of status and equal rights and privileges as to their use in all institutions of the Parliament and government of Canada.
+. . .
+19(1) Proceedings in courts established by Parliament — Either English or French may be used by any person in, or in any pleading in or process issuing from, any court established by Parliament
+16(1) Langues officielles du Canada — Le français et l'anglais sont les langues officielles du Canada; ils ont un statut et des droits et privilèges égaux quant à leur usage dans les institutions du Parlement et du gouvernement du Canada.
+[…]
+19(1) Procédures devant les tribunaux établis par le Parlement — Chacun a le droit d'employer le français ou l'anglais dans toutes les affaires dont sont saisis les tribunaux établis par le Parlement et dans tous les actes de procédure qui en découlent.
+[13] Section 14 of the Charter provides:
+14. Interpreter — A party or witness in any proceedings who does not understand or speak the language in which the proceedings are conducted or who is deaf has the right to the assistance of an interpreter.
+14. Interprète — La partie ou le témoin qui ne peuvent suivre les procédures, soit parce qu'ils ne comprennent pas ou ne parlent pas la langue employée, soit parce qu'ils sont atteints de surdité, ont droit à l'assistance d'un interprète.
+[14] The relevant provisions of the Official Languages Act are as follows:
+2. Purpose — The purpose of this Act is to
+(a) ensure respect for English and French as the official languages of Canada and ensure equality of status and equal rights and privileges as to their use in all federal institutions, in particular with respect to their use in parliamentary proceedings, in legislative and other instruments, in the administration of justice, in communicating with or providing services to the public and in carrying out the work of federal institutions;
+. . .
+14. Official languages of federal courts — English and French are the official languages of the federal courts, and either of those languages may be used by any person in, or in any pleading in or process issuing from, any federal court.
+15(1) Hearing of witnesses in official language of choice — Every federal court has, in any proceedings before it, the duty to ensure that any person giving evidence before it may be heard in the official language of his choice, and that in being so heard the person will not be placed at a disadvantage by not being heard in the other official language.
+(2) Duty to provide simultaneous interpretation — Every federal court has, in any proceedings conducted before it, the duty to ensure that, at the request of any party to the proceedings, facilities are made available for the simultaneous interpretation of the proceedings, including the evidence given and taken, from one official language into the other.
+(3) Federal court may provide simultaneous interpretation — A federal court may, in any proceedings conducted before it, cause facilities to be made available for the simultaneous interpretation of the proceedings, including evidence given and taken, from one official language into the other where it considers the proceedings to be of general public interest or importance or where it otherwise considers it desirable to do so for members of the public in attendance at the proceedings.
+16(1) Duty to ensure understanding without an interpreter — Every federal court, other than the Supreme Court of Canada, has the duty to ensure that
+(a) if English is the language chosen by the parties for proceedings conducted before it in any particular case, every judge or other officer who hears those proceedings is able to understand English without the assistance of an interpreter;
+(b) if French is the language chosen by the parties for proceedings conducted before it in any particular case, every judge or other officer who hears those proceedings is able to understand French without the assistance of an interpreter; and
+(c) if both English and French are the languages chosen by the parties for proceedings conducted before it in any particular case, every judge or other officer who hears those proceedings is able to understand both languages without the assistance of an interpreter.
+. . .
+18. Language of civil proceedings where Her Majesty is a party — Where Her Majesty in right of Canada or a federal institution is a party to civil proceedings before a federal court,
+(a) Her Majesty or the institution concerned shall use, in any oral or written pleadings in the proceedings, the official language chosen by the other parties unless it is established by Her Majesty or the institution that reasonable notice of the language chosen has not been given; and
+(b) if the other parties fail to choose or agree on the official language to be used in those pleadings, Her Majesty or the institution concerned shall use such official language as is reasonable, having regard to the circumstances.
+2. Objet — La présente loi a pour objet :
+a) d’assurer le respect du français et de l’anglais à titre de langues officielles du Canada, leur égalité de statut et l’égalité de droits et privilèges quant à leur usage dans les institutions fédérales, notamment en ce qui touche les débats et travaux du Parlement, les actes législatifs et autres, l’administration de la justice, les communications avec le public et la prestation des services, ainsi que la mise en oeuvre des objectifs de ces institutions;
+[…]
+14. Langues officielles des tribunaux fédéraux — Le français et l’anglais sont les langues officielles des tribunaux fédéraux; chacun a le droit d’employer l’une ou l’autre dans toutes les affaires dont ils sont saisis et dans les actes de procédure qui en découlent.
+15(1) Droits des témoins — Il incombe aux tribunaux fédéraux de veiller à ce que tout témoin qui comparaît devant eux puisse être entendu dans la langue officielle de son choix sans subir de préjudice du fait qu’il ne s’exprime pas dans l’autre langue officielle.
+(2) Services d’interprétation : obligation — Il leur incombe également de veiller, sur demande d’une partie, à ce que soient offerts, notamment pour l’audition des témoins, des services d’interprétation simultanée d’une langue officielle à l’autre langue.
+(3) Services d’interprétation : faculté — Ils peuvent faire aussi ordonner que soient offerts, notamment pour l’audition des témoins, des services d’interprétation simultanée d’une langue officielle à l’autre s’ils estiment que l’affaire présente de l’intérêt ou de l’importance pour le public ou qu’il est souhaitable de le faire pour l’auditoire.
+16(1) Obligation relative à la compréhension des langues officielles — Il incombe aux tribunaux fédéraux autres que la Cour suprême du Canada de veiller à ce que celui qui entend l’affaire :
+a) comprenne l’anglais sans l’aide d’un interprète lorsque les parties ont opté pour que l’affaire ait lieu en anglais;
+b) comprenne le français sans l’aide d’un interprète lorsque les parties ont opté pour que l’affaire ait lieu en français;
+c) comprenne l’anglais et le français sans l’aide d’un interprète lorsque les parties ont opté pour que l’affaire ait lieu dans les deux langues.
+[…]
+18. Cas où Sa Majesté est partie à l’affaire — Dans une affaire civile à laquelle elle est partie devant un tribunal fédéral, Sa Majesté du chef du Canada ou une institution fédérale utilise, pour les plaidoiries ou les actes de la procédure, la langue officielle choisie par les autres parties à moins qu’elle n’établisse le caractère abusif du délai de l’avis l’informant de ce choix. Faute de choix ou d’accord entre les autres parties, elle utilise la langue officielle la plus justifiée dans les circonstances.
+[15] In addition to Canadians’ language rights, the principles of fundamental justice referred to in section 7 of the Charter clearly establish a right for a litigant to be heard and understood by a court in the language of his or her choice. In Société des Acadiens du Nouveau‑Brunswick v. Association of Parents for Fairness in Education, [1986] 1 S.C.R. 549, Justice Beetz wrote, at p. 577:
+The common law right of the parties to be heard and understood by a court and the right to understand what is going on in court is not a language right but an aspect of the right to a fair hearing. It is a broader and more universal right than language rights. It extends to everyone including those who speak or understand neither official language. It belongs to the category of rights which in the Charter are designated as legal rights and indeed it is protected at least in part by provisions such as those of ss. 7 and 14 of the Charter . . .
+[16] This legal right is separate and distinct from language rights under the Charter, the Constitution Act, 1867, and the Official Languages Act. Justice Beetz went on to explain that while both legal rights and language rights belong to the category of fundamental rights, the two types of rights are conceptually different, and that in linking these two types of rights there would be a risk of distorting both rather than reinforcing either. Legal rights are seminal in nature because they are rooted in principle. In contrast, language rights, including those that have been enlarged and incorporated into the Charter, are founded on political compromise. The difference between these two types of rights dictates that a distinct judicial approach be taken with respect to each, and courts should approach language rights with more restraint than they would in construing legal rights.
+[17] The right of a litigant to understand what is going on in court and to be understood is but one aspect of the right to a fair hearing. It is neither a separate right nor a language right. See Justice Beetz in MacDonald v. City of Montreal, [1986] 1 S.C.R. 460, at p. 498. In that case, which was a criminal case, a defendant’s right to understand what is going on in court and to be understood is described as a fundamental right deeply and firmly embedded in the very fabric of the Canadian legal system. It is for that reason that certain aspects of this right are entrenched in general and specific provisions of the Charter. The Supreme Court of Canada went on to question whether Parliament could actually, through reliance on the notwithstanding clause, do away with the fundamental common law right itself.
+[18] This right to be tried, to be heard and to be understood in one’s own language or the language of one’s choosing is neither total nor complete. For example, this fundamental right to a fair trial requires that interpreters be available but not that they necessarily be provided at public expense. See, for example, the Quebec Superior Court’s decision in McCullock Finney c. Canada (Attorney General), [2009] Q.J. No. 11244 (QL), 2009 QCCS 4646, in which it was held that, while specific provisions of the Criminal Code settle that question in the field of criminal law, the same does not apply to other court proceedings. The availability of an interpreter provides access to justice. The issue of the costs involved in having access to the judicial system, however, is a separate question. Not only did the Court not think that the provision of an interpreter at public expense was required, but it went on to question whether it even had the power to impose upon either level of government the obligation to assume the cost of translation or interpretation services as a general principle.
+[19] In Marshall v. Gorge Vale Golf Club, [1987] B.C.J. No. 1299 (QL), the British Columbia Supreme Court held that it did not have the power to order the provincial government to provide free transcription services to a deaf litigant in a civil matter and that the right to an interpreter under section 14 of the Charter did not create an obligation on the respondent to pay for the services of an interpreter.
+[20] In R. v. Butler, [1997] N.B.J. No. 604 (QL), the New Brunswick Court of Queen’s Bench, Trial Division considered whether a unilingual anglophone who had made a formal request for disclosure in English in a criminal matter had the unqualified right to receive that disclosure in English. The Court was of the opinion that it was in fact incumbent upon the accused to establish that the refusal to provide translated disclosure resulted in actual prejudice to his ability to make full answer and defence. The Court relied upon the comments of Justice L’Heureux‑Dubé, in R. v. O’Connor, 103 C.C.C. (3d) 1. The Court was of the view that, in deciding whether translated disclosure should be ordered so as to avoid a violation of the accused’s Charter rights, it should consider such things as whether the accused understood the substance of what was communicated to him in French, whether or not his counsel had competency in French, whether or not the accused had available to him other avenues for obtaining the information that he sought, and whether or not the accused had the financial means to pay for translation out of his own pocket.
+[21] In this case, however, Mr. Batalha has neither commenced a legal process, for instance, by appealing an income tax assessment to this Court, nor been named as a defendant in a proceeding. In this case, it is the respondent who has asked this Court to exercise its discretion to join Mr. Batalha by virtue of his inchoate, contingent right to appeal a possible reassessment to this Court should the respondent choose to reassess him in the future. This Court should only exercise its discretion if it is satisfied that this would be just and equitable and in the interests of justice, having regard to such things as the efficiency, effectiveness, integrity and credibility of the judicial system in the area of tax disputes. Section 174 of the Act provides that any such order is to be made on terms the Court considers appropriate.
+[22] In this case, the principal consideration in support of granting the application and ordering a reference is that this Court might otherwise ultimately reach two inconsistent decisions. If Mr. Brenneur’s appeal is not binding upon Mr. Batalha and Mr. Batalha is reassessed by the CRA following a successful appeal by Mr. Brenneur on the merits, Mr. Batalha could nonetheless be successful in his own appeal. This would depend in part upon the differing evidence tendered in the second appeal, the arguments advanced and the second judge’s appraisal of the evidence and arguments. Furthermore, there is the additional cost to Canadian taxpayers of having multiple hearings.
+[23] But for the language issue affecting Mr. Batalha and the issue of whether there is a proposed reassessment of Mr. Batalha as required by section 174, both of which I address in detail below, this appears prima facie to be a case in which the Court should exercise its discretion to hear the common question, as permitted by section 174. Avoiding the risk of inconsistent decisions helps to maintain the integrity of, and public confidence in, our judicial system. However, the competing, conflicting issue to be considered is whether joining Mr. Batalha, who, if he were reassessed, would be bringing an English proceeding in this Court, as a party to Mr. Brenneur’s French proceeding can be done in a manner that is effective in allowing both taxpayers’ tax disputes to be resolved effectively, fairly and in a manner that is an efficient use of judicial time and money resources.
+[24] This Court has a long, well‑established and successful practice of conducting bilingual hearings of tax appeals when necessary. Due to volume, bilingual sitting weeks are scheduled regularly in Montreal, and individual cases proceed by way of bilingual hearings elsewhere when appropriate. In a bilingual hearing, the judge and both counsel, or counsel and the taxpayer, if the latter is self‑represented, are bilingual, French and English. Bilingual hearings are a helpful and efficient option but are never mandated by the Court and require the consent of the taxpayer appellant. In such a hearing, the need for a French‑English or English‑French translator is obviated. The taxpayer and counsel understand the evidence given by others in either language without the need for translation, and both counsel, the taxpayer and the judge are free to speak to one another or to witnesses in either language as they choose. An interpreter is not needed even in the case of a unilingual witness as both counsel and the judge are able to ask questions during examination and cross‑examination in the witness’s chosen language. Counsel can generally expect to have the judge speak to them in the language in which they have chosen to speak to him or her. Similarly, witnesses can generally expect to have the presiding judge ask his or her clarifying and informational questions in the language in which the witness is testifying.
+[25] Because of the availability of bilingual hearings and the Court’s practice of scheduling bilingual sitting weeks and allowing appellants to ask for a bilingual hearing when instituting their appeals, logistical issues involving French/English language rights do not often arise in this Court.
+[26] Mr. Batalha, however, is not bilingual and, just as importantly, the CRA has yet to even propose to him a reassessment of the years in question, which in his case are otherwise statute‑barred. He has, therefore, no reason to even consider retaining counsel to pursue a tax appeal on his behalf should he wish to dispute his tax payable for the years in question, much less to actually retain counsel. For this reason, simply ordering under section 174 that Mr. Brenneur and Mr. Batalha’s tax questions be heard together by way of a reference of common questions, on condition that the reference proceeding be scheduled as a bilingual hearing, is not, in my view, a sufficient balancing of Mr. Batalha’s right to be heard and understood as part of his legal fairness rights. For this Court to make such an order knowing that Mr. Batalha cannot on his own conduct a bilingual hearing or participate in one would be an outright violation of his fundamental legal fairness rights. I fail to see how such a breach of fundamental justice principles could be an appropriate price to pay for removing the risk of inconsistent decisions. Rather than enhancing Canadians’ perception of the fairness of the Canadian legal system in the area of tax disputes, such an order would surely have the net effect of eroding confidence in the system and bringing it into disrepute.
+[27] The only manner in which a bilingual hearing could be the solution in terms of providing an effective and efficient joint hearing for the common tax questions of Mr. Brenneur and Mr. Batalha would be for Mr. Batalha to be represented by a bilingual lawyer.[2]
+[28] In order to accomplish this, grant the application, and have both Mr. Brenneur and Mr. Batalha’s tax questions decided on a reference of common questions, this Court would have to either order Mr. Batalha to retain counsel, and bilingual counsel at that, or assume Mr. Batalha will choose of his own accord to retain counsel to assist him and to retain counsel who is bilingual. I do not find either of these options, in themselves, to be attractive, appropriate or effective. Taxpayers have the right under the legislation and rules applicable to tax proceedings to represent themselves without counsel. Indeed, this Court has a strong and successful history and practice of working with self‑represented taxpayers. It does not seem appropriate to force Mr. Batalha to retain counsel in order that the reference of common questions can proceed, that the risk of inconsistent decisions may be avoided, and that greater efficiency may perhaps be achieved. The costs of those benefits sought by the respondent and − if it exercises its discretion and grants the application − accorded by the Court are hardly something that any individual Canadian taxpayer should be expected to pay, especially when he or she is only a secondary player in the story according to the CRA’s own theory of the issues, as described below. I will therefore not make such an order.
+[29] It would only be appropriate for this Court to conclude that ordering a bilingual hearing is a satisfactory method of balancing both taxpayers’ rights to be heard in their own language with the respondent’s interest in having a reference of common questions and in having a decision that binds both taxpayers if the respondent agrees to pay the costs of Mr. Batalha retaining bilingual counsel to represent him at a bilingual hearing.
+[30] Mr. Zeppettini, counsel for Mr. Brenneur, has confirmed that Mr. Brenneur would be content with the respondent being ordered to pay Mr. Batalha’s counsel and would not insist that the respondent also pay for counsel already retained by him to represent him in his tax appeal. Mr. Brenneur is content to leave the matter of costs to be decided in the ordinary course of things at the end of the appeal.
+[31] The respondent has suggested that, and this Court has considered whether, interpreters could be used effectively and efficiently, in the hearing of the reference of common questions, to protect Mr. Batalha’s right to understand and his right to be heard and understood in English in the proceeding. Mr. Brenneur has indicated through his counsel that he would not be agreeable to his proceeding being converted to an English proceeding nor to the reference proceeding in English. If the common question reference hearing proceeds, this Court can expect to hear testimony from witnesses in both English and French. I fail to see how providing continual, effectively simultaneous translation in English or in French to one or other of the taxpayers, or even to Mr. Batalha alone if Mr. Brenneur is comfortable with the proceeding otherwise being bilingual, can be done either efficiently or effectively. Mr. Batalha will require English interpretation of everything said in French at a time where he is representing himself in a very significant and financially important income tax appeal. This means that every sentence spoken by counsel, the judge, or a witness, by way of testimony, in argument or on preliminary and procedural matters, will have to be translated. All steps of the proceeding which take place in French will require a pause every two or three sentences to allow an interpreter to discharge his duties. Mr. Batalha, especially in cross‑examination, will have to try to assess on the fly whether he is better off relying from time to time upon his limited understanding of what the witness or other speaker has just said in French or breaking his train of thought to listen to the accurate translation by the interpreter. Not only does this seem to place Mr. Batalha at a disadvantage in terms of his interest in and prospects for successfully putting forward his case, by comparison with his right, absent a reference of common question, to have his appeal heard in English, but I fail to see how it can result in any more efficient use of the Court’s time as compared to not hearing the two questions at the same time. I do not think it is fair to Mr. Batalha to make such an order, nor do I think it is either a realistic or an efficient way to proceed. It can be expected to be just as long as two separate proceedings, one in English and one in French.
+[32] No other approach to balancing Mr. Batalha’s right to a fair hearing with Mr. Brenneur’s right to a fair hearing, and the right of each of them to proceed in the language of his choosing, has been suggested that would make a Court‑ordered reference of common questions just, equitable or appropriate.
+[33] In these circumstances, if the Court were to grant the respondent’s application for the hearing of a reference on the common questions, it would have to be on the basis that Mr. Batalha will have the right to select bilingual counsel of his own choosing to represent him at the respondent’s expense. I would only do that with the respondent/applicant’s consent.
+[34] However, there is a further issue in this case, and that is whether there is a proposed reassessment of Mr. Batalha by the CRA. This Court can only order a reference under section 174 in respect of taxpayers who have been assessed in respect of a common question arising out of the same circumstances or in respect of taxpayers for whom an assessment is proposed. At this time, the CRA has neither reassessed Mr. Batalha nor even proposed to him in writing that he should be reassessed or indicated that he was being considered for reassessment. Indeed, after investigation, the CRA has accepted Mr. Batalha’s version of events and only reassessed Mr. Brenneur. The respondent’s counsel has gone so far as to say that the CRA accepts entirely Mr. Batalha’s version of events and would only be contingently or conditionally considering reassessing Mr. Batalha in the event this Court should decide Mr. Brenneur’s tax appeal in Mr. Brenneur’s favour. The respondent submits that the possibility of reassessment constitutes a proposed reassessment. No authority is cited in support of that proposition. The question thus arises whether this conditional, contingent intention to consider reassessing Mr. Batalha does in fact constitute a proposed reassessment or “cotisation projetée” of Mr. Batalha for the purposes of meeting the requirements of section 174. At least one of the reasons that the CRA can only say it will consider reassessing Mr. Batalha if the respondent loses in Mr. Brenneur’s tax appeal is that Mr. Batalha’s 2004 and 2005 taxation years are outside the “normal reassessment period” and thus statute‑barred unless the CRA can demonstrate misrepresentation or fraud for the purposes of subparagraph 152(4)(a)(i).[3]
+[35] I am not satisfied that such a contingent intention to consider reassessing a taxpayer constitutes a proposed assessment of that taxpayer for the purposes of section 174. It is often the case that a taxpayer and one of the other witnesses are adverse in fiscal interest and that they give conflicting testimony. It does not seem appropriate that each time that occurs the CRA should have the right to ask the Court to consider making the witness a party to the tax proceeding. It is the CRA’s responsibility to investigate and decide which version of the facts it believes is more likely than not correct. While it may be appropriate in a close or grey‑area case to permit the CRA to ask the Court to consider ordering a reference, this hardly seems appropriate where the CRA, after investigation, has concluded clearly in one direction and not the other. Again, while references in circumstances such as those in the present case would remove the risk of inconsistent decisions ultimately being issued by the Court in two different proceedings, that would come at a remarkable and unjustifiable price if all witnesses in tax appeals whose fiscal interests were adverse to the appellant’s were to be subject to applications for section 174 references to have them joined as parties to the appeal in which they are otherwise testifying or being compelled to testify. Since I do not accept that there is a proposed reassessment by the CRA of Mr. Batalha for the purposes of section 174, this Court has no jurisdiction to grant the respondent’s application for a reference of common questions and the application will be dismissed, with costs.
+[36] Although the application is being dismissed, I should add that, in my view, references should generally be encouraged in appropriate circumstances because they encourage the efficient use of the Court’s resources, avoid the risk of inconsistent Court decisions and of separate proceedings, ensure that the Court hears relevant evidence, and ensure the collection of taxes that are properly due. The advancement of those objectives enhances Canadians’ confidence in the integrity of the tax administration and collection system as well as in the Court.
+[37] The respondent’s application is dismissed with costs.
+Signed at Ottawa, Canada, this 30th day of November 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 610
+COURT FILE NO.: 2008-3222(IT)G
+STYLE OF CAUSE: THIERRY BRENNEUR v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: June 16, 2010
+REASONS FOR ORDER BY: The Honourable Justice Patrick Boyle
+DATE OF ORDER: November 30, 2010
+APPEARANCES:
+Counsel for the appellant:
+Pierre Zeppettini
+Counsel for the respondent:
+Simon‑Nicolas Crépin
+COUNSEL OF RECORD:
+For the appellant:
+Name: Pierre Zeppettini
+Firm:
+Longueuil, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This is not a criminal case in which other interests of the State and the accused may dictate a different analysis of the suitability of translation, etc. (though I note that no case on point was referred to in oral or written argument).
+[2] Both the respondent and Mr. Brenneur are represented by counsel who are fluently bilingual in French and English. Although Mr. Brenneur’s notice of appeal, the reply and the application for the reference were all filed in French, it was decided at the beginning of the hearing that, given Mr. Batalha’s inability to comprehend French adequately, the hearing of the application would be held primarily in English. The respondent’s counsel had earlier provided Mr. Batalha with unofficial English translations of the reply and the application, but was understandably loath to translate the appellant’s notice of appeal.
+[3] The issue of Mr. Batalha’s 2004 and 2005 taxation years being outside the normal reassessment period has been addressed by the Federal Court of Appeal in The Queen v. Miller et al., 2005 FCA 394, 2005 DTC 5716. In Miller, the court decided that this did not create a bar to ordering a reference and that, if otherwise appropriate, the reference should proceed to determine the common question even though the issue of the reassessment being outside the normal reassessment period would remain to be decided in that taxpayer’s appeal.

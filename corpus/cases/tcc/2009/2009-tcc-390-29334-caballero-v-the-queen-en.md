@@ -1,0 +1,158 @@
+---
+title: "Caballero v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29334/index.do"
+last_modified: "2009-08-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 390"
+citation2: ""
+neutral_citation: "2009 TCC 390"
+decision_date: "2009-08-06"
+language: "en"
+item_id: "29334"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7073
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:04:13.566000+00:00"
+cases_cited_count: 5
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86c82d74aa776aef5b46afae83aa5c15bff268fa7659eceb250c2762eac783ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Caballero v. The Queen
+
+- Citation: 2009 TCC 390
+- Decision date: 2009-08-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7073, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caballero v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-08-06
+Neutral citation
+2009 TCC 390
+File numbers
+2007-4945(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4945(IT)G
+BETWEEN:
+RICHARD CABALLERO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 14, 2009, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Paolo Torchetti
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act with respect to the appellant’s 2003 and 2004 taxation years is allowed in part, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons herein.
+Signed at Ottawa, Canada, this 6th day of August 2009.
+"Patrick Boyle"
+Boyle J.
+Citation: 2009 TCC 390
+Date: 20090806
+Docket: 2007-4945(IT)G
+BETWEEN:
+RICHARD CABALLERO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Mr. Caballero was employed as an executive at a major Canadian software company and earned a six-figure salary. In 2002, while still employed he began taking steps to start up a new business. At the beginning of 2003 he quit his job and devoted his full-time and attention, savings and credit to his new venture. By mid‑2003 he returned to full-time employment for financial reasons but continued to pursue his new venture. By the end of 2004 he concluded that his inability to obtain financing meant the business was not viable and he shut it down sometime thereafter. In 2003 and 2004 he incurred approximately $33,000 of expenses, primarily on obtaining professional accounting advice, market research information, branding services and similar intangibles from third-party professional firms. He seeks to deduct these expenses as a loss from the business. It is the position of the Canada Revenue Agency (“CRA”) that Mr. Caballero had not yet started to commence his business when he shut it down and, thus, he had no business from which any loss arose. Further, it is the Crown’s position that, even if there was a business, all of his expenses were on account of capital. By the end of the trial, there were no remaining disputes as to the quantum of the expenses related to the venture.
+[2] The business which Mr. Caballero was trying to get up and going was that of providing on-site mobile massage therapy services to corporate clients via large well-equipped and well-staffed massage buses. He went about this in an entirely commercial and business-like way.
+[3] Mr. Caballero is a certified fitness instructor and it is perhaps from this perspective that he thought he recognized a business opportunity. His plans were to have Registered Massage Therapists (“RMTs”) provide massage therapy services that are covered under many health plans. The buses to be used were to be large Prévost coaches costing approximately $500,000 each. The conversion and equipping costs would be another $500,000, with the result that each bus would cost approximately $1,000,000. This is the amount per bus that had to be financed. His business plan had aimed to have a number of buses on the streets in Toronto and in Vancouver within a few years, but was to start in Toronto with one bus followed quickly by a second.
+[4] Mr. Caballero recognized that financing was the key to getting his new business rolling and that a financing of the type needed would require a fully‑developed business plan together with firm business specifications and costs, a supply of RMTs, expressions of interest from business clients, and credible financial projections amongst other things. To this end Mr. Caballero undertook the following:
+1) He paid approximately $3,000 for market research survey work to be done and received a Market Research report at the end of October 2003.
+2) He developed a Business Plan dated November 3rd and obtained professional help to do so.
+3) He had a chartered accountancy firm prepare three-year projected financial results to assist him with his business plan. He paid approximately $6,000 to the C.A. firm for this and related advice.
+4) He paid almost $7,000 for professional corporate branding services relating to his business brands, Wellness Dimensions and Serenergy Health.
+5) He paid approximately $3,000 for mailing list type contact information.
+6) He used a broker to identify an available downtown property available for lease in a Toronto building suitable for parking the buses indoors together with providing a small amount of office space.
+7) He spoke to a Centennial College in Toronto which trained RMTs to develop a supply of credentialed and qualified employees. He made arrangements for a person who was an experienced RMT to join him when the business was operational.
+8) He worked with a coach conversion company to identify the appropriate coach and to prepare specifications and technical drawings for the converted and equipped buses. He obtained a written proposal or estimate for the buses and their conversion.
+9) He spoke with a number of key potential corporate clients to obtain their expressions of interest. Most corporations wanted to wait until they could see an operational bus before committing but he did obtain one confirmed expression of interest in writing.
+10) He spoke with potential lenders and potential investors, including potential suppliers of equipment, about possible financing of the buses for his business.
+11) He had a written Business Overview dated May 2004 prepared by the same organization that conducted his market research for this purpose.
+12) His business had a website as well as the usual business cards and stationary.
+[5] I am satisfied in this case Mr. Caballero’s business commenced in 2003 and was continued in 2004 notwithstanding that it was never operational. He pursued its start-up diligently and professionally over a short timeframe, mostly on a full-time basis. He spent almost all of the money in question on the purchase of intangible professional services from reputable third parties. There was no hobby or other personal aspect to his venture. The intangibles he purchased could not be sold for value if his pursuit did not materialize. (He was not making improvements to real estate or stocking up on equipment or inventory.) Without a doubt, Mr. Caballero intended to, and did, pursue things in an entirely business-like and commercial fashion.
+[6] It is possible to commence to carry on a business for purposes of the Income Tax Act (the “Act”) before the business is operational. A business can be expected to have different types and different levels of activities throughout its course. What it does during its start-up or winding-down phases can be expected to differ significantly from what it does during its operational phase. It may even have periods of relative dormancy when its normal operations are interrupted.
+[7] In Spasic v. The Queen, 2009 TCC 193, I wrote:
+[10] The Court’s former Chief Justice Bowman in his 1998 decision in Kaye v. The Queen, 98 DTC 1659, described the test to be applied simply as "Is there or is there not truly a business?" Of this he went on to write:
+. . . One must ask “Would a reasonable person, looking at a particular activity and applying ordinary standards of commercial common sense, say ‘yes, this is a business’?” In answering this question the hypothetical reasonable person would look at such things as capitalization, knowledge of the participant and time spent. He or she would also consider whether the person claiming to be in business has gone about it in an orderly, businesslike way and in the way that a business person would normally be expected to do.
+And:
+Ultimately, it boils down to a common sense appreciation of all of the factors, in which each is assigned its appropriate weight in the overall context. One must of course not discount entrepreneurial vision and imagination, but they are hard to evaluate at the outset. Simply put, if you want to be treated as carrying on a business, you should act like a businessman.
+[11] The Supreme Court of Canada in Stewart v. Canada, 2002 SCC 46, 2002 DTC 6969, describes this as the need to look at the commerciality of the activity in question.
+[8] In the oft-quoted decision of the former Chief Justice Bowman in Gartry v. The Queen, 94 DTC 1947, Bowman C.J. had occasion to consider whether a taxpayer had started to operate his commercial fishing business in circumstances where the boat he was in the process of buying for that purpose sank before he took ownership of it. The taxpayer thereafter gave up on the business and sought to deduct the money he had spent on a number of things including intangibles such as legal and accounting fees, insurance interest, etc. Bowman C.J. wrote in paragraph 16:
+. . . In determining when a business has commenced, it is not realistic to fix the time either at the moment when money starts being earned from the trading or manufacturing operation or the provision of services or, at the other extreme, when the intention to start the business is first formed. Each case turns on its own facts, but where a taxpayer has taken significant and essential steps that are necessary to the carrying on of the business it is fair to conclude that the business has started. That is certainly the case here. The appellant had borrowed money, agreed to buy the boat, arranged for a crew, obtained the necessary licences, arranged with a substantial number of owners of boats with "G" licences to utilize his services when the boat became available, arranged and paid for modifications to be made to the boat and placed insurance. In my view the business had been commenced and was well underway when the expenses in question were incurred. Interpretation bulletins are of course not the law and they should be referred to with some caution. However the observations in Interpretation Bulletin IT-364 as to when a business commences make eminently good sense both as a matter of law and as a matter of business reality. The appellant has met the criteria set out in that bulletin. . .
+[9] While Mr. Caballero’s business may not have been as “well underway” as Mr. Gartry’s, I am satisfied that it had commenced on the facts of this case.
+[10] The CRA’s Interpretation Bulletin IT-364 “Commencement of Business Operations” provides as follows under the heading “Date When Business Commences” in paragraph 2:
+It is not possible to be specific about the point in time when a contemplated business becomes an actual business. Generally speaking, it is the Department's view that a business commences whenever some significant activity is undertaken that is a regular part of the income-earning process in that type of business or is an essential preliminary to normal operations. In order that there be a finding that a business has commenced, it is necessary that there be a fairly specific concept of the type of activity to be carried on and a sufficient organizational structure assembled to undertake at least the essential preliminaries. . . Where an activity consists merely of a review of various business possibilities in the expectation or hope that information will be obtained to justify going into a business of some kind, such an activity does not represent the commencement of a business. A business would be reviewed as being merely contemplated for the future if no serious or reasonably continuous efforts are being made to begin normal business operations.
+[11] In this case it seems clear that Mr. Caballero’s business efforts went well past the contemplation stage and he was pursuing the essential preliminaries, not merely hopefully reviewing business possibilities. He was making serious and reasonable continuous efforts to begin normal operations. This was not a mere dream of Mr. Caballero as was the case in Brunet v. The Queen, 2008 DTC 4207 (affirmed 2008 DTC 5450).
+[12] In paragraph 3 of the Interpretation Bulletin the CRA provides:
+. . . the business would be viewed as having started if market surveys were undertaken on a reasonably extensive basis for the purpose of establishing the most appropriate way or place to carry on the business. Any positive and continuous steps taken to introduce a particular product to an intended market are activities of an operating nature even though they precede the creation of the sales organization of the business. . .
+[13] Mr. Caballero’s efforts satisfy this description by the CRA as well.
+[14] Having determined that Mr. Caballero had commenced to carry on business, there remains the issue of whether his business expenses are deductible as current expenses or if they are capital expenditures. The major expenditures incurred in the business as described above were in respect of services obtained for the preliminary efforts to create the business. In a case such as this, expenditures for the creation of a business entity or structure are on capital account. These are not properly deductible as current expenses because of their capital nature in this case even though similar expenses, incurred in respect of a business already operational, a business expansion or a new line of business, may be deductible when incurred by a taxpayer already carrying on business. Mr. Caballero’s other business expenses such as motor vehicle expenses and business and entertainment expenses all related to the obtaining of those same services and information which I have described as capital and thus should themselves also be regarded as expenditures of a capital nature.
+[15] While the expenditures are not deductible as current expenditures and are capital expenditures, it is also the case that they are eligible capital expenditures. The eligible capital expenditure characterization of the expenses was not argued extensively in this case. As it is generally well-summarized by the CRA in its Interpretation Bulletin IT‑143R3 “Meaning of Eligible Capital Expenditures” in paragraph 2 thereof:
+An "eligible capital expenditure", which is defined in subsection 14(5), may be broadly described as an outlay or expense made or incurred by a taxpayer:
+(a) in respect of a business;
+(b) as a result of a transaction occurring after 1971;
+(c) on account of capital; and
+(d) for the purpose of gaining or producing income from the business (whether or not income from the business was actually produced by such outlay or expense).
+[16] Interpretation Bulletin IT-364 on “Commencement of Business Operations” described above provides in paragraph 7:
+. . . Expenses incurred for the purpose of earning income normally are deductible in the year when incurred even if, after all the efforts made, the business has to be wound up before its normal operation ever does begin. Fees or other costs incurred in connection with the proposed acquisition of capital assets when acquired, are to be classed as eligible capital expenditures if the assets are not in fact acquired, perhaps because of an abandonment of the business. . .
+[17] Mr. Caballero’s appeal for 2003 and 2004 is allowed in part with costs.
+Signed at Ottawa, Canada, this 6th day of August 2009.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2009 TCC 390
+COURT FILE NO.: 2007-4945(IT)G
+STYLE OF CAUSE: RICHARD CABALLERO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 14, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: August 6, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Paolo Torchetti
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

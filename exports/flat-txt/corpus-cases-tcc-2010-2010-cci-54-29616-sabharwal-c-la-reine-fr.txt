@@ -1,0 +1,119 @@
+Title: Sabharwal c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29616/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-54-29616-sabharwal-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-01-28
+
+# Sabharwal c. La Reine
+
+- Citation: 2010 CCI 54
+- Decision date: 2010-01-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6185, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sabharwal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-01-28
+Référence neutre
+2010 CCI 54
+Numéro de dossier
+2009-1761(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009­1761(IT)I
+ENTRE :
+SATISH SABHARWAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 janvier 2010, à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Toks C. Omisade
+____________________________________________________________________
+JUGEMENT
+L’appel concernant les cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2006 est rejeté.
+Chaque partie supportera ses propres frais.
+Signé à Toronto (Ontario), ce 28e jour de janvier 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 54
+Date : 20100128
+Dossier : 2009­1761(IT)I
+ENTRE :
+SATISH SABHARWAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Satish Sabharwal interjette appel à l’égard de cotisations concernant les années d’imposition 2003 et 2006.
+[2] Selon la réponse, le ministre du Revenu national (le « ministre ») a établi, pour l’année d’imposition 2003, un impôt fédéral au montant de 3 756,22 $, un impôt provincial au montant de 1 413,11 $, un arriéré d’intérêts au montant de 426,98 $ et une pénalité pour production tardive au montant de 245,03 $.
+[3] Pour l’année d’imposition 2006, le ministre a établi un impôt fédéral au montant de 2 110,70 $, un impôt provincial au montant de 1 193,60 $ et un arriéré d’intérêts au montant de 8,47 $.
+[4] À l’audience, l’appelant a invoqué plusieurs moyens d’appel.
+[5] Premièrement, l’appelant a affirmé n’avoir jamais reçu de feuillet « T » pour certains revenus reçus en 2003. Il a mentionné, en particulier, un revenu de 4 131 $ de la Great West, Compagnie d’assurance‑vie, relatif à un régime d’assurance‑salaire. Or, le ministre a reçu un feuillet de renseignements T4A à l’égard de ce montant et l’appelant a reconnu avoir reçu ce revenu.
+[6] Le problème que pose la prétention de l’appelant est que l’obligation de payer l’impôt sur un élément particulier du revenu est déclenchée par la réception du revenu et non pas par la réception d’un feuillet T. Même si l’appelant n’a pas reçu de feuillet de renseignements, le revenu doit être déclaré et l’impôt y afférent doit être payé.
+[7] Deuxièmement, l’appelant a déclaré avoir droit à des remboursements d’impôt pour les années d’imposition 2000, 2001, 2002, 2004, 2005 et 2008. Il a soutenu que le ministre avait d’une façon inappropriée appliqué les remboursements en réduction de prêts étudiants.
+[8] Les conclusions que l’appelant semble rechercher consistent à éliminer tout montant dû pour les années d’imposition 2003 et 2006 parce que les remboursements se rapportant à d’autres années n’ont pas été effectués de façon inappropriée.
+[9] Je ne souscris pas à cette prétention. En premier lieu, l’appelant n’a pas établi au moyen d’éléments de preuve appropriés que les remboursements avaient été imputés de façon inappropriée. Toutefois, même s’il en était ainsi, la présente cour n’a pas compétence pour adjuger les conclusions recherchées par l’appelant. Les seules conclusions que la Cour peut adjuger consistent à décider si les montants qui ont été établis sont exacts. Le paiement d’impôts et de remboursements ne relève pas de la compétence de la Cour.
+[10] Troisièmement, l’appelant affirme que la cotisation concernant l’année d’imposition 2003 a été envoyée après une période de quatre ans se fut écoulée.
+[11] Si l’appelant fait valoir que la cotisation n’est pas valide parce qu’elle a été établie en retard, je ne suis pas d’accord. La cotisation visée par l’appel, qui a été établie le 7 mai 2007, était la première cotisation établie à l’égard de l’année d’imposition 2003. Or, la Loi de l’impôt sur le revenu prévoit certains délais aux fins de l’établissement de nouvelles cotisations, mais ces délais ne s’appliquent pas à une première cotisation. Cela étant, cet argument est rejeté.
+[12] Quatrièmement, l’appelant affirme qu’il ne devrait pas se voir imposer une pénalité et des intérêts puisque l’omission n’est pas attribuable à une faute de sa part.
+[13] Quant à la pénalité, le ministre a établi une pénalité pour production tardive à l’égard de l’année d’imposition 2003 compte tenu du fait que l’appelant n’avait pas produit de déclaration de revenu pour cette année‑là.
+[14] En revanche, l’appelant a témoigné qu’il avait bel et bien produit une déclaration de revenu pour l’année 2003 et que cette déclaration avait été produite dans les délais impartis. Lors du contre‑interrogatoire, l’appelant a déclaré qu’il ne conservait pas de copies des déclarations de revenu au‑delà d’une période de trois ans et qu’il n’avait donc pas de copie de la déclaration de revenu pour l’année 2003 à sa disposition à l’audience.
+[15] À mon avis, l’appelant n’a pas fourni suffisamment d’éléments de preuve pour établir que la déclaration de revenu pour l’année 2003 avait été produite. Une simple déclaration de sa part à cet effet ne suffit pas.
+[16] Si la preuve avait révélé que l’appelant avait toujours produit ses déclarations de revenu et payé l’impôt dans les délais impartis, il aurait peut‑être été raisonnable de présumer que la déclaration de revenu pour l’année 2003 avait été produite. Toutefois, la preuve donne à penser que des remboursements étaient dus pour un grand nombre d’années. Par conséquent, l’historique de la production des déclarations n’aide pas l’appelant.
+[17] Eu égard aux circonstances, je conclus, somme toute, que l’appelant n’a pas produit de déclaration de revenu pour l’année 2003. Par conséquent, la pénalité ne sera pas annulée.
+[18] L’appelant soutient également qu’il faut renoncer aux intérêts parce que tout impôt exigible ne résultait pas d’une faute de sa part.
+[19] Cet argument doit être rejeté pour des motifs de compétence. En effet, la Cour canadienne de l’impôt n’a pas compétence pour renoncer aux intérêts en se fondant sur des motifs de diligence raisonnable.
+[20] Enfin, l’appelant déclare que le ministre n’a pas communiqué d’une façon cohérente les montants dus.
+[21] Les montants dont l’appelant fait mention semblent être des soldes de montants dus de temps à autre. Or, la Cour n’a pas compétence sur la question, qui est une question de recouvrement. Elle peut uniquement décider de l’exactitude des montants qui ont été établis. Cet argument doit également être rejeté.
+[22] Par conséquent, l’appel sera rejeté. Chaque partie supportera ses propres frais.
+Signé à Toronto (Ontario), ce 28e jour de janvier 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 54
+No DU DOSSIER DE LA COUR : 2009­1761(IT)I
+INTITULÉ : SATISH SABHARWAL
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 25 janvier 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 28 janvier 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Toks C. Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

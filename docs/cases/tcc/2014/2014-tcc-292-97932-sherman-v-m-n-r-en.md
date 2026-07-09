@@ -1,0 +1,162 @@
+---
+title: "Sherman v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/97932/index.do"
+last_modified: "2014-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 292"
+citation2: ""
+neutral_citation: "2014 TCC 292"
+decision_date: "2014-09-30"
+language: "en"
+item_id: "97932"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5175
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:32:56.603000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "166bb68860a0b2fa259d7f795b492ffdfd67f1a8990c734dd2ab9595142d092e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sherman v. M.N.R.
+
+- Citation: 2014 TCC 292
+- Decision date: 2014-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5175, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sherman v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-30
+Neutral citation
+2014 TCC 292
+File numbers
+2014-839(EI)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2014-839(EI)
+BETWEEN:
+SIMONE SHERMAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on September 18, 2014, at Toronto, Ontario
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+David M. Sherman
+Counsel for the Respondent:
+Rita Araujo
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of September 2014.
+“Patrick Boyle”
+Boyle J.
+Citation: 2014 TCC 292
+Date: 20140930
+Docket: 2014-839(EI)
+BETWEEN:
+SIMONE SHERMAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] This appeal by Simone Sherman is from an Employment Insurance Ruling that ruled that she was employed in “insurable employment” by Canada Revenue Agency (“CRA”) in the years 2007 through 2010 for purposes of the Employment Insurance Act (“the EI Act”). Ms. Sherman is wanting to get her EI premiums refunded for those years.
+Facts [2] Ms. Sherman is a chartered accountant and has been a long time employee of the CRA. She commenced her employment with the CRA in 1985. Beginning in 1993 she had a very long‑running dispute with her employer relating to CRA’s alleged failure to accommodate her ability impairment which she testified resulted from having been injured at work.
+[3] The employment relationship was acrimonious and the subject of much litigation. Grievances were filed in respect of her employment in 1997, 1998 and 1999. A harassment complaint was filed by her against her employer and certain fellow employees in 1998. Ms. Sherman was twice terminated by CRA and twice reinstated. In 2003, she was reinstated with back pay. She disputed the CRA’s calculation of her back pay and pursued that successfully in the Federal Court. She disagreed with how interest was calculated by the CRA on the Court awarded back pay and unsuccessfully pursued a contempt order in the Federal Court against the CRA. She then unsuccessfully pursued a mandamus order in the Federal Court with respect to CRA’s interest calculation and payment. This was dismissed by the Federal Court and appealed to the Federal Court of Appeal. She brought multiple motions for issue estoppel relating to issues decided in her successful termination grievances, and judicial review applications in the Federal Court. She filed other grievances. She commenced objections and appeals of decisions of the Ontario Workplace Safety and Insurance Board.
+[4] In 2000, she filed a Human Rights complaint against her employer. This was referred to the Canadian Human Rights Tribunal. She brought an unsuccessful motion before the Tribunal for issue estoppel. She unsuccessfully sought judicial review of the decision on that motion in the Federal Court. The Canadian Human Rights Tribunal then set her complaint down for hearing.
+[5] Following mediation, Simone Sherman, her union, and the CRA and its involved employees entered into a Settlement Agreement in November 2006 in respect of the Human Rights complaint. By its terms, the Settlement Agreement was to be a full and final settlement of all issues between them.
+[6] The key provisions of the Settlement Agreement relevant to this appeal in respect of her EI contributions and withholdings are as follows:
+1. Ms. Sherman’s sick leave and vacation leave credits that had been used prior to the Settlement Agreement were reinstated. Sick leave credits and vacation leave credits during a period prior to the Settlement Agreement were accrued. These resulted in Ms. Sherman having 2,144.95 hours of vacation leave credits and 1,470.125 hours of sick leave credits, or approximately 100 work weeks of banked sick and vacation time.[1]
+2. The CRA would “continue its employment” of Ms. Sherman until June 7, 2010 “during which time she will be on leave with pay for other reasons”.
+3. Following June 7, 2010 CRA would “continue her leave from the office, during which she will be compensated by [CRA] by means of her accumulated vacation credits and sick pay”.
+4. Ms. Sherman continued “to accrue sick leave and vacation leave credits in accordance with the terms of her collective agreement” throughout the periods described above.
+5. Once her vacation credits and sick leave credits were exhausted, Ms. Sherman would “commence leave without pay for other reasons”. The evidence is that she had used all of her credits accumulated to the date of the Settlement Agreement, and those accrued thereafter in accordance with 4. above, in July 2013, slightly more than 3 years after the commencement of the period described in 3. above.
+6. Ms. Sherman agreed with the CRA and her union that “on June 22, 2015, the employment relationship between [Ms. Sherman] and the [CRA] will end, and [Ms. Sherman] agrees that she has hereby notified the [CRA] that she will retire from employment effective June 22, 2015”.
+7. The Settlement Agreement provides that the terms of Ms. Sherman’s collective agreement, as amended from time to time, will continue to apply to her except as otherwise provided in the Settlement Agreement.
+8. For the period from December 2006 until Ms. Sherman’s retirement, the Settlement Agreement specifies that Ms. Sherman will not enter any CRA premises “for purposes related to her employment relationship”, will “not perform any duties or work activities”, and will “not represent herself or hold herself out to be an active employee of [CRA]”.
+9. In addition, the Settlement Agreement provided that, following the withdrawal of her Human Rights complaint, CRA would pay to her $140,000 in respect of lost wages less applicable statutory deductions, $20,000 in respect of damages under the Canadian Human Rights Act, and $80,000 in respect of her legal fees.
+[7] The parties have abided by the provisions of the Settlement Agreement. In 2013, Ms. Sherman applied for a disability insurance benefit from SunLife which is CRA’s agent/insurer. The CRA maintains that is a breach of the Settlement Agreement, as was her attending at a CRA Taxation Services Office to hand deliver her disability insurance application documents. Ms. Sherman maintains these are not breaches and is still pursuing this claim.
+[8] Ms. Sherman has consistently reported this income as employment income for income tax purposes, including taking employment related deductions and credits. She does not dispute that this is the correct characterization of her work relationship and its income for income tax purposes.
+Law [9] Paragraph 5(1)(a) of the EI Act reads as follows:
+5. (1) Subject to subsection (2), insurable employment is
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+Analysis and conclusion [10] The Appellant did not seriously pursue an argument that she was not in an employment relationship in law throughout the period for purposes of the EI Act. Such an argument was not directly raised in the ruling request or the notice of appeal or in Appellant’s written argument; it was only addressed in response to my question on this point. Given the language consistently used throughout the Settlement Agreement, I see no merit whatsoever to any argument that her employment ceased as a matter of law before or upon its signing. “In tax law, form matters” per Linden J. in HMQ v. Friedberg, 92 DTC 6031 at 6032. While the relationship between the employer and the employee had clearly broken down, and perhaps even irretrievably so, by 2006, there was no other evidence that the parties ever behaved or maintained that there was no longer an employment relationship.
+[11] While it is possible, I see nothing to suggest that “employment” in paragraph 5(1)(a) of the EI Act was intended to, or should, from a statutory interpretation point of view, a policy point of view or otherwise, mean anything different than the word employment means for purposes of the Income Tax Act. Nor do I see any uncertainty or ambiguity that would warrant any statutory interpretation analysis of the word employment as used in paragraph 5(1)(a) of the EI Act in any event.
+[12] The principal position of the Appellant is that she was not employed under a “contract of service” as expressly required by the definition of insurable employment, because the terms of the Settlement Agreement precluded her from performing any duties or work activities, entering CRA premises for purposes related to her employment, or holding herself out to be an active employee of CRA after December 2006.
+[13] Her counsel’s argument is that the use of the phrase “contract of service” in the definition of “insurable employment” introduces a requirement for service or services, or that some work function or activity be provided within the employment during the relevant period, notwithstanding that “contract of service” is a term of art used in jurisprudence to describe an employment relationship as distinct from an independent contractor or self‑employed work relationship.
+[14] I do not agree with this position. There are several Federal Court of Appeal decisions and Tax Court decisions that very clearly deal with some of these very issues. I consider myself bound by the interpretation given to the meaning of “contract of service” for EI purposes by the Federal Court of Appeal in these decisions. Further, I agree with the interpretations in these court decisions.
+[15] In Canada v. Verreault, 86 NR 389 (1986), the Federal Court of Appeal quashed the decision of the Umpire relating to unemployment insurance claims made by employees whose employer closed its plant, and placed each of them on leave for two months after which they were to be dismissed. The employees claimed UI benefits during the period they were placed on leave. The Board of Referees found their employment continued through the leave period and the employees therefore did not have an interruption of earnings. The Umpire quashed the Board’s decision. In quashing the Umpire’s decision, the Federal Court of Appeal wrote “It seems quite certain that the parties to a contract of employment can legally agree to extend the contract for a period in which the employee will not be required to do any work.”
+[16] The Verreault decision was again considered and applied approvingly by the Federal Court of Appeal in its decision in Canada v. Sirois, 243 NR 212 (1999) when considering whether employees on pre‑retirement leave were under a contract of service for purposes of the definition of “insurable employment” in the former Unemployment Insurance Act. Paragraph 8 of Sirois reads:
+[8] In my opinion, the judge erred in concluding that no contract of service existed on the ground that the defendant was no longer providing any work. The courts have recognized that even if an employee, who is still receiving money from his or her employer, is no longer working it does not necessarily follow that there is no longer a contract of service between the employee and the employer. The Court has to consider whether the employment relationship has been broken.
+[17] In referring to its Verreault decision, the Federal Court of Appeal in Sirois said “the Court laid down the principle that the parties to a contract of service could legally agree to extend its duration for a period in which the employee would be excused from providing any work.”
+[18] In Serafini v. M.N.R., 89 DTC 653, the Federal Court of Appeal considered whether certain amounts received by an employee in a particular early retirement program were retiring allowances for income tax purposes. The Court wrote that “it is quite possible to be an employee without actually working. The fact that Mr. Serafini was no longer required to perform any duties is not per se determinative of the issue. If his situation requires characterization it can be likened to a pre‑retirement leave with full pay and benefits… It is neither unusual nor infrequent that one can remain employed without actually working. Instances come quickly come to mind such as sabbatical leave enjoyed by tenured university professors; leaves of absence, both with or without pay, for educational purposes; collective agreements permitting the utilization of excess sick leave as pre‑retirement or vacation leave, and so forth.”
+[19] In Canadian Pacific Ltd. v. M.N.R., [1995] T.C.J. No. 1755, this Court was considering an employee on a “bridging period” until he could elect early retirement and the definition of insurable employment for UI purposes. During this period, he was paid by his employer and received full benefits and accrued pension credit even though he did not perform any work. The Court’s conclusion was “It is well established that Mr. Oliver did not terminate his contract of employment when he chose the bridging agreement and that employees do not have to do employment duties to preserve their insurable employment when they are on leave of absence.”
+[20] In Community Living Huntsville v. M.N.R., 2003 TCC 932, and in Wronski v. M.N.R., [1999] T.C.J. No. 666 (QL), this Court referred to and applied the Federal Court Appeal position in Verreault.
+[21] Appellant’s counsel also sought to make reference to the Insurable Earnings Regulations to interpret the scope of the definition of “insurable employment”, including its use of the term “contract of service”. The Insurable Earnings Regulations are not directly relevant as they apply to the computation of insurable hours for one who is in insurable employment. They do not address the concept of insurable employment. Given the definition of insurable employment and its clear and consistent interpretation by the Federal Court of Appeal as it relates to the use of the word “employment” and the phrase “contract of service” in the defined term, there is no need to look to the Insurable Hours Regulations to understand or inform the definition of “insurable employment”. This was also the approach of the Federal Court of Appeal in Sirois. In any event, in Université Laval v. Canada, 2002 FCA 171, the Federal Court of Appeal, in considering employees on sick leave, expressly rejected “the employer’s legal argument that there can be no insurable earnings within the meaning of the regulations where no services are performed.”
+[22] The law on the point in issue in this appeal is very clear and has been consistently applied by the courts. I am therefore reminded somewhat of the comments of Cory J. of the Supreme Court of Canada in Alberta Treasury Branches v. M.N.R., [1996] 1 S.C.R. 963, that “agile legal minds can probably find an ambiguity in as simple a request as “close the door please” and most certainly in even the shortest and clearest of the ten commandments”. If I may also paraphrase the comments of Stephen J. in In Re Castioni, [1891] 1 QB 149: On many occasions people try to misunderstand legislation that is easy to understand. In drafting legislation it is not enough to attain a degree of precision which a person reading in good faith can understand, but it is necessary to attain if possible a degree of precision which a person reading it otherwise cannot misunderstand. It is all the better if he cannot pretend to misunderstand.
+[23] For these reasons, I conclude that Ms. Sherman was in “insurable employment” throughout the years 2007 through 2010 because throughout that period she continued to be employed by CRA under a contract of service within the meaning of the EI Act as interpreted by the Federal Court of Appeal and applied by this Court in previous decisions. The appeal is dismissed.
+Signed at Ottawa, Canada, this 30th day of September 2014.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2014 TCC 292
+COURT FILE NO.:
+2014-839(EI)
+STYLE OF CAUSE:
+SIMONE SHERMAN v. M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 18, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+September 30, 2014
+APPEARANCES:
+Counsel for the Appellant:
+David M. Sherman
+Counsel for the Respondent:
+Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David M. Sherman
+Firm:
+Tax Lawyer & Author
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I must note it is somewhat surprising that a government agency, a public sector union, and a chartered accountant would need to track these credits to the thousandths of an hour — which is less than four seconds. Canadian taxpayers would probably be even more disappointed by this given that the agency involved is the one responsible for collecting our taxes.

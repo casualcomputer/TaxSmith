@@ -1,0 +1,208 @@
+---
+title: "Clemmer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/23030/index.do"
+last_modified: "2004-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 691"
+citation2: ""
+neutral_citation: "2004 TCC 691"
+decision_date: "2004-10-15"
+language: "en"
+item_id: "23030"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2301
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:55:29.530000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "77ea33480769e595ad919279d7f4c31380d12b7441cd672cf6fb34c82b902388"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clemmer v. The Queen
+
+- Citation: 2004 TCC 691
+- Decision date: 2004-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2301, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clemmer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-15
+Neutral citation
+2004 TCC 691
+File numbers
+2001-2546(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2546(IT)G
+BETWEEN:
+ROBERT B. CLEMMER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 17 and 18, 2004 at St. Catharines, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Bobby Sood
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of reassessments made under the Income Tax Act for the 1997 and 1998 taxation years is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant's farming losses for those years are not subject to the restriction in section 31 of the Act.
+Costs are awarded to the appellant.
+Signed at Ottawa, Canada this 15th day of October, 2004.
+"J.M. Woods"
+Woods J.
+Citation: 2004TCC691
+Date: 20041015
+Docket: 2001-2546(IT)G
+BETWEEN:
+ROBERT B. CLEMMER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns the deductibility of farming losses from a business of racing, boarding and breeding racehorses. In the 1997 and 1998 taxation years, the appellant deducted losses totalling $163,891 and $153,723, respectively. Reassessments were issued applying the restricted farm loss provisions in section 31 of the Income Tax Act on the ground that farming was not the appellant's chief source of income in the relevant years.
+[2] In determining chief source of income for purposes of section 31, courts have consistently followed the guidelines set out by Mr. Justice Dickson (as he then was) in Moldowan v. The Queen, 77 D.T.C. 5213 (S.C.C.). He described three categories of farmers that were envisaged by the Act and stated that the applicable category should be determined by considering, inter alia, time spent, capital committed and profitability, actual or potential. The question in this appeal is whether the appellant was a category (1) farmer, who expected to earn his livelihood from farming and whose losses would be fully deductible, or whether he was a category (2) farmer who farmed as a sideline business and whose losses would be restricted by section 31.
+Facts
+[3] The appellant, Robert Clemmer, was the only witness at the hearing. His testimony was presented in a straightforward manner and I found him to be credible.
+[4] In 1994 at the age of 54, Mr. Clemmer retired after working for Bell Canada for 37 years. At the time of his retirement, he was vice president of operations, a significant step up from his humble start as a mail clerk in 1958. At the time of his retirement, Mr. Clemmer was living in Mississauga, Ontario.
+[5] Neither racehorses nor farming were a part of Mr. Clemmer's life until a few years before his retirement. His daughter, Krista, had attended veterinarian college and had been a groom at Woodbine racetrack in Toronto. In 1990, Krista rescued a racehorse that was about to be put down by purchasing it with funds provided by her father. That purchase turned out to be fortuitous not only for the horse but also for the Clemmers because the horse had some success at the track. Presumably that success buoyed the family's enthusiasm and Mr. Clemmer purchased a few more racehorses over the next few years. At first, Mr. Clemmer simply bankrolled the operation but over time he became involved with taking care of the horses and he would travel in his spare time to the racetracks where the horses were kept. Eventually, Mr. Clemmer became a registered groom and his daughter became a trainer.
+[6] As Mr. Clemmer's involvement with racehorses gradually increased, he began to consider the venture from a business perspective. Not having any previous experience, he tried to become as knowledgeable as he could by attending seminars, reading and consulting experts. He came to the view that there was potential in racing at Fort Erie because a proposal to add gaming there would likely result in increased purses. What he perhaps did not factor in sufficiently was that the calibre of the horses, and hence the cost, would similarly rise.
+[7] Shortly after his retirement in May 1994, Mr. Clemmer leased a farm property near the Fort Erie racetrack where the horses could be stabled. The property was purchased a year later. Because the farm was in a considerable state of disrepair, Mr. Clemmer undertook extensive renovations and expanded the horse stables, to 24 stalls in total. Krista Clemmer lived at the farm and shared farm duties with her father, who initially drove to the farm from Mississauga on a daily basis. After three years of daily commuting, Mr. Clemmer and his wife moved to a house in Fort Erie, separate from the farm.
+[8] The business operated under the name Blu Bye U. What started out as a small venture limited to racing horses for purse money was expanded over time to related activities that Mr. Clemmer thought would have greater income potential - boarding racehorses during the winter months when the track was closed and breeding horses for sale.
+[9] The business was described as a family affair. Mr. Clemmer's wife had some involvement but it appears that her role was minor. Krista and her father shared the work equally, except for periods that Mr. Clemmer was out of the country on consulting projects. While he was away, Mr. Clemmer would call home several times a week to deal with farm matters. In addition to employing his daughter, Mr. Clemmer hired various other people at the farm and the racetrack on an as needed basis. Since Krista lived at the farm, she took on greater responsibilities there, such as the early morning and evening feeds but this was balanced somewhat by Mr. Clemmer being responsible for the afternoon feed at the racetrack.
+[10] According to the testimony, Mr. Clemmer put in a regular work day at the farm and racetrack, from about 8:00 until 4:00, and was also be responsible for the administrative side of the business. He testified that he never took vacation in the ten years that the farming operation was carried on and estimated that he was engaged on farming business of one sort or another for seven hours a day, seven days a week, during racing season and about five hours a day during the off season. Overall it appears that the operation was substantial in terms of man hours required and that Mr. Clemmer was very actively involved in all aspects.
+[11] Notwithstanding Mr. Clemmer's efforts, the business incurred substantial losses. Mr. Clemmer explained his general business plan and his efforts to overcome these losses. He viewed racing as the most speculative of the three branches of the business. He had some success with racing in the early years but this did not continue and he did not view racing as being a source of predictable income. As for boarding, he managed to trim expenses by a significant amount so that this activity was helping the bottom line. Nevertheless, the boarding income seemed relatively small in comparison with the expenses incurred in the other activities. Consequently, the profitability of the business depends in a large measure on the breeding activity. It took Mr. Clemmer a period of years to manage the expenses in breeding, similar to his experience with boarding. Mr. Clemmer indicated that his costs were more under control in years subsequent to the appeal period. For example, he stated that he would not have suffered losses in 1999 and 2000 if he had been able to sell two yearlings at market prices. He also testified that it takes a period of four to five years between the time a stallion contract is entered into before revenue is generated by the sale of foals. The breeding business started in 1994 and so it had not really matured in the taxation years under appeal.
+[12] The losses that Mr. Clemmer incurred amounted to over $800,000 and were financed by his savings, a bank line of credit, a $180,000 retirement allowance, and $450,000 in consulting fees. He also had to use part of his $67,000 pension but this was also used for personal expenses. Over the life of the business, Mr. Clemmer's net worth plummeted from $500,000 to about $60,000. In the year 2000, Mr. Clemmer was left with few financial resources beyond his pension, he was being audited by the Canada Revenue Agency and his wife died. Not surprisingly, soon thereafter Mr. Clemmer did not have the inclination, let alone the means, to continue the business and it was wound down over the next couple of years. Mr. Clemmer testified that one more injury to a promising horse in 2000 was the straw that broke the camel's back.
+[13] I now turn to the consulting work that, together with an annual pension of $67,000, was the major competing source of income during the 1997 and 1998 taxation years. In 1996, two years after his retirement, Mr. Clemmer was approached by a former colleague at Bell Canada to assist on an international project in India. The project would start in October and Mr. Clemmer was assured that he would be home for Christmas. It is not difficult to see why Mr. Clemmer accepted the assignment. The racetrack was closed during these months and he badly needed money for the farming operation. The project ran into unforeseen problems, however, and Mr. Clemmer ended up staying in India quite a bit longer than anticipated although he managed to return to Fort Erie for most of the racing season. In subsequent winters, he accepted additional assignments in Mexico, Brazil and Venezuela. The Mexican project also experienced unforeseen difficulties that required Mr. Clemmer to be away much longer than anticipated. The projects in Brazil and Venezuela, which took place in years that are not under appeal, were finished on schedule.
+[14] Mr. Clemmer testified that he had no interest in pursuing the consulting work except as a means to finance the farming losses. He indicated that the work conditions in the foreign countries were difficult - the work days were long, he was away from his family for long periods, and the locations were not always safe.
+[15] The following two charts compare the farming and consulting businesses from the perspective of time spent and income earned. It will be noted that the two years under appeal, 1997 and 1998, were the most active for the consulting business and also produced the highest farming losses. In addition, the time chart, which is based on months, does not reflect the significant difference in work hours which were far greater in consulting than farming.
+Approximate Months Worked
+Farming
+Consulting
+1994
+6
+--
+1995
+12
+--
+1996
+10
+2
+1997
+6
+6
+1998
+7
+5
+1999
+9
+3
+2000
+9
+3
+Total
+59
+19
+Income/Loss
+Farming
+Consulting
+1994
+($90,117)
+--
+1995
+(74,555)
+--
+1996
+(130,000)
+$39,804
+1997
+(163,891)
+148,775
+1998
+(153,723)
+138,082
+1999
+(137,100)
+107,486
+2000
+( 82,195)
+27,500
+Analysis
+[16] The essential question is whether farming was pursued as a livelihood or as a sideline business. This will be considered from the perspective of time spent, capital committed and potential profitability.
+[17] As for time spent, Mr. Clemmer was clearly devoted to the farming operation, working the equivalent of a regular work day, not taking vacation, and being away from the farm only to earn consulting fees to support the farming operation. The Crown submits that the testimony with respect to time spent was questionable because Mr. Clemmer's daughter lived at the farm and it was not credible to believe that Mr. Clemmer would not take a day off now and again. While Mr. Clemmer presumably did take an occasional day off, I find his testimony credible with respect to his work routine. There would have been considerable administrative work involved in managing the racing, boarding and breeding activities, there were regular daily chores at the farm, and at the track during racing season, and there were other tasks such as transporting horses and attending horse sales.
+[18] Although during the taxation years in question Mr. Clemmer was out of the country for several months on consulting projects, it is significant that Mr. Clemmer was away much longer than he had contracted for. He had intended to spend about nine months a year on farming and three months on the consulting projects. In effect, the extra months in India and Mexico were beyond Mr. Clemmer's control and in my opinion do not significantly impact on whether Mr. Clemmer was looking to farming as a livelihood. The Crown suggests that since the consulting work paid handsomely that it is not credible to believe that Mr. Clemmer would not want to maximize his revenue from it. I disagree. Mr. Clemmer had moved on from his successful career at Bell Canada and I can well imagine that these tough international projects were something that he undertook reluctantly.
+[19] In terms of capital committed, Mr. Clemmer put almost his entire life savings into the venture. He could hardly have been more committed. The Crown suggests that one should not look at the entire $800,000 of losses as capital committed but instead one should only look at capital expenditures as that term is used for purposes of the Income Tax Act. In this case, the majority of the farming expenses appear to be current expenditures. The Crown's approach seems unduly restrictive and is not generally accepted in other cases (for example, The Queen v. Donnelly, 97 D.T.C. 5499 (F.C.A.)). When considering capital committed to the business, the focus should be on the entire monetary contribution to the business, not simply expenditures in the nature of capital. There is no question that Mr. Clemmer made a large financial sacrifice for this business.
+[20] As for profitability, counsel for Mr. Clemmer suggests that the business likely would have earned substantial profits if it had not run into a string of bad luck. Bad luck no doubt played a big part in the outcome. It also appears that inexperience took its toll in the earlier years as Mr. Clemmer was learning to bring costs under control, first with boarding and then with breeding. There is no question that Mr. Clemmer pursued farming as a serious business venture. From his testimony it is evident that the bottom line was foremost in his mind and he was very committed to making the business profitable. I am satisfied that Mr. Clemmer had a reasonable prospect of substantial profits if not in the taxation years under appeal, then in the years immediately following. He had managed to bring the costs under control and, assuming that not all his promising horses would collapse just before the finish line or be injured coming up to the sale block, he presumably was in a good position to start earning substantial profits. That is how Mr. Clemmer viewed the situation and in my opinion it was reasonable.
+[21] Counsel for the Crown referred to the Donnelly case which suggests that statements of subjective intent with respect to profitability should be viewed with caution and that a taxpayer should present objective evidence such as profit projections. Counsel also suggests that it is not sufficient for the taxpayer to establish potential profitability. The potential profits have to be substantial relative to the taxpayer's other sources of income. In the context of this case, it is suggested that Mr. Clemmer has to establish potential profits that are substantial relative to both the pension and the consulting income.
+[22] While it would be helpful to have reliable profit projections, that is not always possible.1 Many people embark on risky business ventures without them. Mr. Clemmer was an experienced businessman who committed most of his financial resources to this business in the belief that it would be a source of additional income to augment his pension. I do not think that it would be desirable for a court to second-guess his business judgment. Reference may be made to the following comment by Associate Chief Justice Bowman, cited with approval by the Supreme Court of Canada in Stewart v. The Queen, 2002 D.T.C. 6969:
+[The taxpayer] made what might, in retrospect, be seen as an error in judgment but it was a matter of business judgment and it was not one so patently unreasonable as to entitle this Court or the Minister of National Revenue to substitute its or his judgment for it, or penalize him for having made a judgment call that, with the benefit of 20-20 hindsight, that Monday morning quarterbacks always have, I or the Minister might not make today. ...
+I would conclude that Mr. Clemmer's potential income from farming was substantial relative to his other income sources. After a reasonable start up phase, the business realistically could have earned profits equivalent to the pension income, if it had not been the victim of so much bad luck.
+[23] In looking at the time, capital and profitability of the farming operation, I am satisfied that Mr. Clemmer pursued farming as a livelihood to augment his pension income and not as a sideline business. In looking at the circumstances of the consulting business, I am satisfied that it was an auxiliary business, undertaken for a short period to time to provide a temporary source of funding for the farming business. I am also of the opinion that the pension income was an auxiliary source of passive income that does not detract from farming being Mr. Clemmer's intended livelihood.
+[24] For the above reasons, I would conclude that farming was Mr. Clemmer's chief source of income in the relevant period. The appeal is allowed, with costs.
+Signed at Ottawa, Canada this 15th day of October, 2004.
+"J.M. Woods"
+Woods J.
+CITATION:
+2004TCC691
+COURT FILE NO.:
+2001-2546(IT)G
+STYLE OF CAUSE:
+Robert B. Clemmer v. The Queen
+PLACE OF HEARING:
+St. Catharines, Ontario
+DATE OF HEARING:
+June 17, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+October 15, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Glen W. McCann
+Counsel for the Respondent:
+Bobby Sood
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Glen W. McCann
+Firm:
+Sullivan, Mahoney
+St. Catharines, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+1
+There were profit projections introduced into evidence that were prepared for credit purposes. However, it was not established that these projections were realistic and little reliance was placed on them at the hearing.

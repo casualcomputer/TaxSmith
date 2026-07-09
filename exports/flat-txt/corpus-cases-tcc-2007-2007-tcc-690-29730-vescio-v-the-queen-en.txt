@@ -1,0 +1,149 @@
+Title: Vescio v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29730/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-690-29730-vescio-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-11-13
+
+# Vescio v. The Queen
+
+- Citation: 2007 TCC 690
+- Decision date: 2007-11-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6538, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vescio v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-13
+Neutral citation
+2007 TCC 690
+File numbers
+2007-3118(IT)APP
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3118(IT)APP
+BETWEEN:
+NICOLA VESCIO
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on October 15, 2007 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Applicant:
+Sarah J. O’Connor
+Counsel for the Respondent:
+Kate Leslie
+____________________________________________________________________
+ORDER
+Upon application for an Order extending the time within which Notices of Objection to the assessments made under the Income Tax Act for the 1999, 2000, 2001 and 2002 taxation years may be served;
+And upon reading the Affidavit of Warren O‘Dwyer filed;
+And upon hearing what was alleged by the parties;
+It is hereby concluded that the Court does not have the authority to extend the time within which to file Notices of Objection for the 1999, 2000, 2001 and 2002 taxation years.
+The application filed by the Applicant for an Order to extend the time to file Notices of Objection is dismissed.
+Signed at Ottawa, Ontario, this 13th day of November 2007.
+"L.M. Little"
+Little J.
+Citation: 2007TCC690
+Date: 20071113
+Docket: 2007-3118(IT)APP
+BETWEEN:
+NICOLA VESCIO,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. Facts:
+[1] The Applicant is a resident of the City of Etobicoke, Province of Ontario.
+[2] The Applicant moved to Canada from Italy in 1959.
+[3] The Applicant owns certain real estate assets and he has received rental income and incurred rental expenses in connection with the real estate assets.
+[4] On July 13, 1992, the Applicant appointed his son, Domenico Vescio (“Domenico”), as his Power of Attorney pursuant to the Powers of Attorney Act of Ontario.
+[5] The Applicant retained the services of Joseph Perconti of Perconti Bookkeeping Services Ltd. (“Perconti”) to prepare his T1 tax returns and to deal with any correspondence.
+[6] On December 17, 2003, a letter was sent by the Canada Revenue Agency (the “CRA”) to Perconti requesting a substantiation of the rental expenses incurred by the Applicant.
+[7] Perconti did not respond to the CRA letter, nor did Perconti inform the Applicant of the letter from the CRA.
+[8] On July 4, 2004, a proposal letter was sent by the CRA to Perconti.
+[9] Perconti did not respond to the proposal letter received from the CRA and Perconti did not inform the Applicant of the proposal letter.
+[10] On October 4, 2004, the CRA issued Notices of Reassessment (the “Reassessment”) for the Applicant’s 1999, 2000, 2001 and 2002 taxation years. The said Reassessment denied rental expenses that had been claimed by the Applicant.
+[11] Perconti did not file Notices of Objection to the Reassessments.
+[12] On July 14, 2005, Perconti attempted to file Amended Rental Income and Expense Statements plus T1 Adjustments with the CRA.
+[13] Domenico testified that in May 2006 he personally “hand delivered” T1 Adjustments for his father to the Toronto Centre Office of the CRA.
+[14] Domenico also testified that he had four meetings with Ms. Theresa Cortese, an official of the CRA, to discuss the T1 Adjustments and the Amended Rental Income and Expense Statements for his father.
+[15] Domenico also testified that during these four meetings with Ms. Cortese she never at any time indicated to him that a Notice of Objection should be filed in order to resolve the Applicant’s tax issues.
+[16] The deadline date on which Notices of Objection should have been filed by the Applicant was January 2, 2006.
+[17] On March 8, 2007, Mr. James McNamara, C.A., of the CRA sent a registered letter to the Applicant to the attention of Domenico. In his letter Mr. McNamara said that he was returning all of the T1 Adjustment Requests along with the supporting documents by registered mail without a review under the Fairness Legislation (emphasis added).
+[18] Domenico further testified that sometime during his four meetings with officials of the CRA he was told that the CRA had lost the Applicant’s file.
+B. Issue
+[19] The issue is whether the Applicant should be granted an extension of time within which to file Notices of Objection for the 1999, 2000, 2001 and 2002 taxation years.
+C. Analysis and Decision
+[20] Subsection 165(1) of the Income Tax Act (the “Act”) provides that a taxpayer who objects to an assessment may serve on the Minister of National Revenue (the “Minister”) a Notice of Objection within 90 days of the day that is after the day the Notices of Reassessment were mailed. In this situation all of the Notices of Reassessment were mailed on October 4, 2004.
+[21] Subsection 166.1(1) of the Act provides that a taxpayer may apply to the Minister to extend the time within which to serve a Notice of Objection. Paragraph 166.1(7)(a) provides that an application to extend the time must be made within one year after the expiration of the time in which to serve a Notice of Objection.
+[22] In this situation the Notices of Objection should have been served by the Applicant within 90 days of October 4, 2005, i.e. sometime before January 2, 2006. Domenico stated that Notices of Objection were not filed for his father because of the negligence of Perconti.
+[23] If the Applicant had made an application to extend the time under subsection 166.1(1) the application should have been made within one year of January 2, 2006, i.e. sometime before January 2, 2007. Counsel for the Applicant admitted that an application to extend the time for filing Notices of Objection was not made until April 23, 2007.
+[24] Since the Applicant did not serve Notices of Objection to the Reassessments within the 90-day period provided by section 165 of the Act and since the Applicant did not make an application to extend the time for objecting within the one year provided by paragraph 166.1(7)(a) of the Act, the Tax Court does not have the jurisdiction or authority to grant an extension of time to the Applicant.
+[25] In reaching this conclusion I have referred to a number of Court decisions. The Queen v. Carlson is a decision of the Federal Court of Appeal 2002 DTC 6893. In the Carlson case Mr. Justice Nadon said at paragraph 10:
+However, both the Minister and the TCC are precluded under paragraphs 166.1(7)(a) and 166.2(5)(a) of the Act from extending the time in which to file a notice of objection unless the application is made within one year after the expiry of the time in which a notice of objection could have been made.
+[26] I have reached this conclusion reluctantly because of various comments that were made by Domenico in his sworn and uncontradicted testimony. Domenico said:
+1. The Applicant is not fluent in English. He can neither read nor write nor speak English fluently.
+2. The Applicant has serious health problems. He was diagnosed with leukemia in 1985. He is a diabetic. He suffered a stroke in 2003. His memory is failing.
+3. Domenico said that he met with Ms. Cortese of the CRA on four occasions over 2 ½ years and he understood that he was providing her with the information that she required to resolve his father’s tax issue. Domenico said that during this period no one from the CRA mentioned that Notices of Objection should be filed.
+4. Domenico also said that he thought he was cooperating with the CRA to resolve the issue. However, he received a letter from Mr. McNamara dated March 8, 2007 in which Mr. McNamara stated the documents were being returned without a review under the Fairness Legislation.
+Note: Counsel for the Respondent did not produce Ms. Cortese or Mr. McNamara as witnesses to refute, clarify or deny any of the statements made by Domenico.
+[27] From an examination of the evidence, it appears that officials of the CRA were acting in an unusual, uncooperative and misleading way in their dealings with Domenico.
+[28] The Federal Cabinet has the authority under subsection 23(2) of the Financial Administration Act to remit or waive tax. Subsection 23(2) of the Financial Administration Act reads as follows:
+23. (2) The Governor in Council may, on the recommendation of the Treasury Board and when he considers it in the public interest, remit any tax, fees or penalty.
+[29] The Minister also has the power under the Fairness Legislation in the Act to waive interest or penalties. Information Circular No. 92-2 refers to the Fairness Legislation and provides as follows:
+1. … The legislation [i.e. the fairness legislation] gives discretion to cancel or waive all or a portion of any interest or penalties payable, and it applies to taxation years back to 1985.
+[30] I also refer to Paragraphs 11 and 12 of the Taxpayer Bill of Rights which reads as follows:
+11. You have the right to expect us to be accountable.
+You have the right to expect us to be accountable for what we do. When we make a decision about your tax or benefit affairs, we will explain that decision and inform you about your rights and obligations in respect of that decision. We are also accountable to Parliament, and through Parliament to Canadians, for what we do. We report to Parliament on our performance with respect to tax services and benefit programs and the results we achieve against our published service standards.
+12. You have the right to relief from penalties and interest under tax legislation because of extraordinary circumstances.
+You can expect us to consider your request to waive or cancel in whole or in part any penalty and interest charges if you were prevented from complying with your tax obligations because of circumstances beyond your control, e.g. a disaster such as a flood or fire, or if penalty or interest arose primarily because of erroneous actions of the CRA, e.g. material available to the public contained errors which led you to file incorrect returns or make incorrect payments based on incorrect information.
+[31] This may be a situation where the Minister should consider exercising his power either under the Financial Administration Act or the Fairness Legislation contained in the Income Tax Act.
+[32] The Motion filed by the Applicant is dismissed.
+Signed at Ottawa, Ontario, this 13th day of November 2007.
+"L.M. Little"
+Little J.
+CITATION:
+2007TCC690
+COURT FILE NO.:
+2007-3118(IT)APP
+STYLE OF CAUSE:
+Nicola Vescio and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 15, 2007
+REASONS FOR ORDER BY:
+The Honourable Justice L.M. Little
+DATE OF ORDER:
+November 13, 2007
+APPEARANCES:
+Counsel for the Applicant:
+Sarah J. O’Connor
+Counsel for the Respondent:
+Kate Leslie
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Sarah J. O’Connor
+Firm:
+Magrath O’Connor
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

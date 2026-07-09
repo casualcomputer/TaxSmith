@@ -1,0 +1,369 @@
+---
+title: "Quincaillerie Le Faubourg (1990) Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29360/index.do"
+last_modified: "2009-08-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 411"
+citation2: ""
+neutral_citation: "2009 CCI 411"
+decision_date: "2009-08-21"
+language: "fr"
+item_id: "29360"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6913
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:39:18.558000+00:00"
+cases_cited_count: 4
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4ecb044297fd52cbe49c117b4b0e4ee8c782fff8937913678e0aac5aff74cc8a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Quincaillerie Le Faubourg (1990) Inc. c. M.R.N.
+
+- Citation: 2009 CCI 411
+- Decision date: 2009-08-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6913, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quincaillerie Le Faubourg (1990) Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-21
+Référence neutre
+2009 CCI 411
+Numéro de dossier
+2008-2581(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-2581(EI)
+ENTRE :
+QUINCAILLERIE LE FAUBOURG (1990) INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ANDRÉE ROY,
+intervenante.
+____________________________________________________________________
+Appel entendu le 4 juin 2009, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentante de l'appelante :
+Sylvie Beaulieu
+Avocat de l'intimé :
+Me Dany Leduc
+Représentante de l’intervenante :
+Sylvie Beaulieu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est rejeté, au motif que l’emploi de madame Andrée Roy pour l’appelante du 4 janvier 2007 au 4 janvier 2008 n’était pas un emploi assurable aux termes de la Loi pour les motifs ci-après exposés.
+Signé à Ottawa, Canada, ce 21e jour d’août 2009.
+« Alain Tardif »
+Juge Tardif
+Référence : 2009 CCI 411
+Date : 20090821
+Dossier : 2008-2581(EI)
+ENTRE :
+QUINCAILLERIE LE FAUBOURG (1990) INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ANDRÉE ROY,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit de l’appel d’une décision relative au caractère assurable du travail de l’intervenante, madame Andrée Roy, du 4 janvier 2007 au 4 janvier 2008.
+[2] En vertu de la décision qui fait l’objet de l’appel, l’intimé a conclu que le travail de madame Andrée Roy pour la société Quincaillerie Le Faubourg (1990) inc. n’était pas assurable puisqu’elle avait détenu des actions de l’employeur donnant droit à 1025 voix sur 2100, soit 48,81 %, du 4 janvier au 1er mai 2007, des actions donnant droit à 1100 voix sur 2400, soit 45,83 %, du 2 mai au 16 juillet 2007, et des actions donnant droit à 1000 voix sur 2400, soit 41,67 %, du 17 juillet 2007 au 4 janvier 2008.
+[3] Tous les faits, y compris ceux au sujet des actions de la société, ont été admis par les parties. Je crois donc utile de reproduire l’exposé des faits annexé à l’avis d’appel :
+A. EXPOSÉ DES FAITS
+1. Au cours de la période en litige, soit du 4 janvier 2007 au 4 janvier 2008, Mme Andrée Roy était une employée de Quincaillerie Le Faubourg (1990) inc.
+2. Au cours de la période en litige, Mme Andrée Roy était également actionnaire de Quincaillerie Le Faubourg (1990) inc.
+3. Le capital-actions, émis et payé, de Quincaillerie Le Faubourg (1990) inc. pour la période concernée, était composé :
+- d’actions de catégorie « A », votantes à raison d’un (1) vote par action, participantes, de pair avec les actions de catégorie « AA » et comportant une clause restrictive de protection de la valeur de rachat des autres catégories d’actions;
+- d’actions de catégorie « AA », votantes à raison de deux (2) votes par action, participantes, de pair avec les actions de catégorie « A » et comportant une clause restrictive de protection de la valeur de rachat des autres catégories d’actions;
+- d’actions de catégorie « B », votantes à raison de 100 votes par action, non participantes, ne donnant droit à aucun dividende; rachetables au gré du détenteur ou de la société au montant versé;
+- d’actions de catégorie « C », non votantes (comportant un droit de veto), non participantes, donnant droit à un dividende non préférentiel et non cumulatif d’un maximum de 1 % par mois calculé sur la valeur de rachat; rachetables au gré du détenteur ou de la société au montant versé plus une prime et plus les dividendes déclarés et non payés;
+- d’actions de catégorie « F », non votantes (comportant un droit de veto), non participantes, donnant droit à un dividende non préférentiel et non cumulatif d’un maximum de 2/3 de 1 % par mois, calculé sur la valeur de rachat; rachetables au gré du détenteur ou de la société au montant de 1 $ par action plus les dividendes déclarés et non payés;
+- d’actions de catégorie « G », non votantes (comportant un droit de veto), non participantes, donnant droit à un dividende non préférentiel et non cumulatif d’un maximum de 2/3 de 1 % par mois, calculé sur la valeur de rachat; rachetables au gré du détenteur ou de la société au montant versé plus une prime et plus les dividendes déclarés et non payés;
+- d’actions de catégorie « H », non votantes (comportant un droit de veto), non participantes, donnant droit à un dividende non préférentiel et non cumulatif d’un maximum de 1/2 de 1 % par mois, calculé sur la valeur de rachat; rachetables au gré du détenteur ou de la société au montant versé plus une prime et plus les dividendes déclarés et non payés.
+4. Le capital-actions de Quincaillerie Le Faubourg (1990) inc. était détenu comme suit :
+Nombre et catégories d’actions détenues pendant la période en litige
+Détenteurs
+4 janvier 2007
+au 2 mai 2007
+2 mai 2007
+au 17 juillet 2007
+17 juillet 2007
+au 4 janvier2008
+Mme Andrée Roy
+25 « A »
+50 « AA »
+10 « B »
+10 « B »
+10 « B »
+4 800 « C »
+4 800 « C »
+4 800 « C »
+52 000 « F »
+52 000 « F »
+1 000 « G »
+1 000 « G »
+M. Jean-Yves Côté
+25 « A »
+50 « AA »
+10 « B »
+10 « B »
+10 « B »
+4 800 « C »
+4 800 « C »
+4 800 « C »
+52 000 « F »
+52 000 « F »
+1 000 « G »
+1 000 « G »
+M. Rémy Côté
+50 « A »
+100 « AA »
+100 « AA »
+200 « C »
+200 « C »
+200 « C »
+1 000 « H »
+1 000 « H »
+Mme Marie-Claude Côté
+200 « C »
+200 « C »
+100 « AA »
+200 « C »
+5. Les actions avec droit de vote de Quincaillerie Le Faubourg (1990) inc. se répartissent donc comme suit :
+Pourcentage
+Pourcentage
+Pourcentage
+4 janvier 2007
+d’actions
+2 mai 2007 au
+d’actions
+17 juillet 2007 au
+d’actions
+Détenteurs
+au 2 mai 2007
+votantes
+17 juillet 2007
+votantes
+4 janvier 2008
+votantes
+________________________________________________________________________________________________________________
+Mme Andrée Roy
+25 « A »
+10 « B »
+29,17
+50 « AA »
+10 « B »
+27,27
+10 « B »
+4,54
+M. Jean-Yves Côté
+25 « A »
+10 « B »
+29,17
+50 « AA »
+10 « B »
+27,27
+10 « B »
+4,54
+M. Rémy Côté
+50 « A »
+41,66
+100 « AA »
+45,46
+100 « AA »
+45,46
+Mme Marie-Claude
+Côté
+100 « AA »
+45,46
+__________________________________________________________________________________________________
+Actions votantes
+120
+100
+220
+100
+220
+100
+Les pourcentages sont établis en fonction du nombre d’actions avec droit de vote et non en fonction du nombre de votes.
+6. Mme Andrée Roy a, au cours de la période en litige, toujours détenu et contrôlé moins de 40 % des actions avec droit de vote de Quincaillerie Le Faubourg (1990) inc.
+7. Par une décision rendue le 6 mars 2008, l’Agence de revenu du Canada a déterminé que l’emploi de Mme Andrée Roy n’était pas assurable pour la période du 4 janvier 2007 au 4 janvier 2008 en vertu de l’alinéa 5(2)b) de la Loi sur l’assurance-emploi.
+8. L’appelante s’est dûment opposée à cette décision et, le 14 mai 2008, le Ministre du Revenu national émettait un avis confirmant que l’emploi de Mme Roy n’était pas assurable parce qu’elle contrôlait plus de 40 % des actions avec droit de vote de la société.
+[4] Je reproduis également le paragraphe 8 de la Réponse à l’avis d’appel.
+8. Pour rendre sa décision, le ministre a déterminé que, durant la période en litige, la travailleuse était une personne au service d’une personne morale qui contrôlait plus de 40 % des actions avec droit de vote de cette personne morale, en s’appuyant sur les faits présumés suivants :
+a) l’appelante a été constituée le 20 février 1990;
+b) l’appelante exploitait une quincaillerie sous la bannière « Unimat »;
+c) durant la période en litige, le capital actions (des actions comportant droit de vote), émis et payé, de l’appelante était composé ainsi :
+- d’actions de catégorie « A », votantes à raison d’un vote par action,
+- d’actions de catégorie « AA », votantes à raison de 2 votes par action,
+- d’actions de catégorie « B », votantes à raison de 100 votes par action;
+d) durant la période en litige, les actions comportant droit de vote de l’appelante étaient réparties ainsi :
+du 4 janvier au 1er mai 2007 :
+- Andrée Roy avec 25 actions de catégorie « A » et 10 actions de catégorie « B »,
+- Jean-Yves Côté avec 25 actions de catégorie « A » et 10 action de catégorie « B »,
+- Rémy Côté avec 50 actions de catégorie « A »
+du 2 mai au 16 juillet 2007 :
+-Andrée Roy avec 50 actions de catégorie « AA » et 10 actions de catégorie « B »,
+-Jean-Yves Côté avec 50 actions de catégorie « AA » et 10 actions de catégorie « B »,
+-Rémy Côté avec 50 actions de catégorie « AA »,
+- Marie-Claude Côté avec 50 actions de catégorie « AA »,
+du 17 juillet 2007 au 4 janvier 2008 :
+-Andrée Roy avec 10 actions de catégorie « B »,
+-Jean-Yves Côté avec 10 actions de catégorie « B »,
+-Rémy Côté avec 100 actions de catégorie « AA »,
+-Marie-Claude Côté avec 100 actions de catégorie « AA »;
+e) durant la période en litige, la travailleuse occupait un emploi assurable auprès de l’appelante à titre de secrétaire/comptable;
+f) durant la période en litige, la travailleuse détenait le contrôle effectif des actions comportant droit de vote de l’appelante dans les proportions suivantes :
+du 4 janvier au 1er mai 2007 :
+elle détenait 1 025 votes des 2 100 votes rattachés aux actions votantes de l’appelante ou 48,81 %;
+du 2 mai au 16 juillet 2007 :
+elle détenait 1 100 votes des 2 400 votes rattachés aux actions votantes de l’appelante ou 45,83 %;
+du 17 juillet 2007 au 4 janvier 2008 :
+elle détenait 1 000 votes des 2 400 votes rattachés aux actions votantes de l’appelante ou 41,67 %;
+g) en tout temps durant la période en litige, la travailleuse détenait et contrôlait plus de 40 % des actions comportant droit de vote de l’appelante.
+[5] L’appelante et l’intervenante soutiennent que le travail de madame Andrée Roy est assurable en vertu de l’alinéa 5(2)b) de la Loi sur l’assurance‑emploi (la « Loi »), qui se lit comme suit :
+(2) N’est pas un emploi assurable :
+[…]
+b) l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+[6] Les prétentions de l’appelante sont à l’effet que le tribunal doit appliquer cette disposition d’une manière stricte en s’en remettant au sens littéral. Elle prétend que la clarté du texte ne prête à aucune interprétation, ajoutant que le contexte ou l’intention du législateur n’ont pas à être pris en compte, étant donné la clarté du texte et l’absence totale d’équivoque quant aux termes utilisés.
+[7] De son côté l’intimé soumet que le législateur ciblait non pas le nombre d’actions mais plutôt le nombre de votes détenus par la même personne.
+[8] D’entrée de jeu, je crois pouvoir affirmer qu’il est manifeste qu’il s’agit d’une loi à caractère social dont l’objectif ultime est d’aider financièrement des particuliers qui perdent leur emploi pendant des périodes dont la durée peut varier.
+[9] Le législateur a prévu une série de conditions très précises pour bénéficier de l’appui financier mais aussi pour éviter les abus. Un des éléments fondamentaux liés à l’application de cette Loi est évidemment le caractère assurable du travail. La façon de déterminer le caractère assurable d’un travail a fait l’objet de milliers de décisions. Ainsi, une personne qui n’a pas d’employeur ne peut effectuer un travail assurable.
+[10] Pour être assurable, le travail doit être effectué en vertu d’un contrat de louage de services; le lien de subordination constitue un des éléments essentiels. Comment détermine-t-on s’il existe ou non un contrat de louage de services?
+[11] Il existe en cette matière deux approches, dont on a beaucoup discuté ces dernières années. Certains soutiennent que, dans la province de Québec, la seule approche possible est celle prévue par le Code civil du Québec, à l’article 2085, qui se lit comme suit :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[12] D’autres soutiennent que l’approche de la common law est tout aussi valable et ne doit pas être écartée. En fait, je crois qu’il s’agit là d’un débat plutôt théorique.
+[13] En effet, le problème ne se pose jamais quant aux exigences tout à fait essentielles, à savoir qu’il doit y avoir une prestation de travail d’une part et une rémunération d’autre part. Là où les choses se compliquent quelque peu, c’est quant au pouvoir de contrôle, au lien de subordination, à l’autorité qui doit exister.
+[14] L’approche civiliste exige trois éléments, soit la prestation de travail, la rémunération et le lien de subordination.
+[15] L’autre approche a recours à différents critères, à savoir l’intégration, la chance de profit et le risque de pertes, la propriété des outils, et le pouvoir de contrôle.
+[16] Certaines décisions rappellent que certains critères sont plus importants que d’autres. Toutes les décisions reconnaissent qu’il n’est pas nécessaire que tous les critères soient présents.
+[17] Pour déterminer si un travail est assurable, il faut donc décider s’il y a ou non un lien de subordination, s’il existe ou non un pouvoir de contrôle d’un patron, qu’il soit une personne physique ou morale. Le droit et le pouvoir de contrôle distinguent un contrat de louage de services d’un contrat d’entreprise, où les parties ont une autonomie comparable; en d’autres termes, l’autorité est un élément essentiel d’un contrat de louage de services assurable en vertu de la Loi.
+[18] Le législateur a également prévu certaines exceptions, où il a manifestement voulu décider lui-même du sort de certains travailleurs.
+[19] Il a ainsi exclu des emplois assurables les emplois où le travailleur a un lien de dépendance avec l’employeur. Cette exclusion est prévue par l’alinéa 5(2)i) de la Loi.
+[20] Le législateur a aussi exclu l’emploi d’une personne qui contrôle plus de 40 % des actions avec droit de vote de la personne morale qui est l’employeur. L’alinéa 5(2)b) se lit comme suit :
+(2) N’est pas un emploi assurable :
+[…]
+b) l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+[21] Je crois pouvoir affirmer que le fondement de ces exceptions est la question de l’autorité, de la subordination, du pouvoir de contrôle.
+[22] En effet, il est manifeste qu’une relation familiale peut avoir une influence déterminante sur une relation de travail, au point qu’il faille présumer que l’autorité est inexistante.
+[23] Il est tout aussi clair qu’une personne qui détient un grand nombre d’actions avec droit de vote a une influence déterminante sur le travail qu’elle fait pour la société dont elle détient des actions.
+[24] Or, l’importance du contrôle dépend non pas du nombre d’actions, mais du nombre de votes.
+[25] D’ailleurs, plusieurs décisions font état de la nécessité que l’actionnaire puisse exprimer les droits de vote liés aux actions détenues.
+[26] En terme d’autorité, de pouvoir, de contrôle, le nombre d’actions n’est pas déterminant; ce qui compte, ce qui confère l’autorité, le pouvoir et la capacité de décider, c’est essentiellement le nombre de votes.
+[27] En d’autres termes, le contrôle absolu appartient à celui qui possède 50 % des votes, plus un. Une personne qui détient 10 votes a moins de pouvoir qu’une personne qui en a 20, et une personne qui a 40 votes a plus de pouvoir que celle qui en détient 30, etc.
+[28] L’appelante soutient que le texte fait référence au nombre d’actions avec droit de vote et non pas au nombre de votes que chaque action confère. La lecture littérale peut permettre, j’en conviens, de conclure qu’il faut évaluer le nombre des actions et non des votes; par contre, le texte n’exclut pas nécessairement l’interprétation voulant que l’élément déterminant soit le nombre de votes plutôt que le nombre d’actions.
+[29] L’interprétation que fait l’appelante est-elle la seule approche possible? Exclut-elle l’interprétation de l’intimé, à savoir que ce qui est important au fond, ce n’est pas le nombre d’actions, mais le nombre de votes détenus?
+[30] Souscrire à l’interprétation de l’appelante aurait pour effet de rendre la disposition complètement inutile puisqu’il suffirait de créer des actions à votes multiples pour éviter l’exclusion évidente voulue par le législateur. Ainsi, une personne pourrait détenir une seule action et 99 % des droits de vote.
+[31] Certes, la loi est l’affaire du législateur et non des tribunaux, qui doivent essentiellement l’appliquer. Cela est-il suffisant pour accueillir l’appel? Pour répondre à cette question, il m’apparaît important de faire un bref survol de la situation en matière d’interprétation des lois.
+[32] La Cour d’appel fédérale a ainsi statué dans l’affaire Dupuis c. M.R.N., [1988] A.C.F. no 556 :
+Comme cette Cour l’a signalé dans l’arrêt Cloutier, (1987) 74 N.R. 396, ce texte législatif ne parle pas de contrôle de corporation mais de contrôle d’actions; l’on pourrait ajouter aujourd’hui qu’il ne parle pas non plus de propriété mais bien de contrôle. Il est de l’évidence que celui qui contrôle cent pour cent des actions d’une corporation qui, à son tour, contrôle plus de quarante pour cent des actions d’une seconde corporation contrôle plus de quarante pour cent des actions de cette dernière.
+[33] Dans son livre The 2008 Annotated Employment Insurance Statutes, T. Stephen Lavender a écrit ceci à la page 22 :
+The provision does not speak of control of a corporation but of control of shares. Control includes both de jure control and effective control. Effective control means control “that can be freely exercised and is not impeded by circumstances independent of the person having control.” Thus, shares deposited in a trust were not in the effective control of the registered owner, so the person’s employment was insurable.
+[34] On peut donc constater que le libellé de l’alinéa 5(2)b) ne parle pas de contrôle de la société, comme c’est le cas en matière fiscale, mais de contrôle des actions. Le contrôle en question est non seulement le contrôle de jure, mais aussi et surtout le contrôle effectif.
+[35] La cour d’appel fédérale a confirmé cette idée dans l’arrêt Cloutier aux pages 225 et 226 :
+La Commission d'appel des pensions dans la cause Jacqueline Pilon (NR 718) et les juges arbitres dans les affaires Thomas Higginson (NR 172), Ernest Bogaert (NR 564) et Thomas Mignault (NR 761) ont jugé qu'aux fins de l'alinéa 14a) (autrefois 55a)), un contrôle de facto suffisait pour conclure à l'exclusion d'un emploi. Je ne crois pas qu'il soit possible de renverser sans qualification une telle proposition et dire que l'absence d'un « contrôle de fait » dégage de l'application du texte : le législateur n'a pas pu vouloir qu'on tienne compte de toutes les situations factuelles pouvant découler des circonstances particulières tenant aux individus, et certes ne saurait-il être question de couvrir le caprice, l'indifférence ou le seul refus du titulaire de l'action d'exercer son droit. Mais je crois qu'on doit, pour respecter la lettre et l'esprit du texte en même temps que les exigences de l'équité, interpréter le contrôle comme étant non seulement le contrôle de jure mais aussi et surtout le contrôle effectif, ce qui implique un contrôle dont l'exercice est libre et non entravé par des circonstances indépendantes de son titulaire. Cloutier n'avait certes pas de « contrôle effectif » des 150 actions déposées en fiducie.
+[36] En matière d’interprétation des lois fiscales, il est difficile de mieux résumer les principes que l’a fait la Cour suprême dans l’affaire Cie pétrolière Impériale ltée c. Canada, [2006] 2 R.C.S. 447 :
+D. Principes d’interprétation applicables aux lois fiscales
+[24] Notre Cour a créé une jurisprudence considérable en matière d’interprétation des lois fiscales. Je n’ai pas l’intention de l’examiner au complet, et il n’est pas nécessaire que je le fasse non plus. Je me concentrerai sur quelques principes clés qui semblent s’en dégager, de même que sur l’évolution de ces principes.
+[25] La jurisprudence de notre Cour se fonde sur la méthode moderne d’interprétation législative. Depuis l’arrêt Stubart Investments Ltd. c. La Reine, [1984] 1 R.C.S. 536, la Cour a statué que l’interprétation stricte des lois fiscales n’est plus appropriée, et que la méthode moderne doit aussi s’appliquer à ces lois :
+[TRADUCTION] [I]l faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi …
+(E.A. Driedger, Construction of Statutes (2e éd. 1983), p. 87; Stubart, p. 578, le juge Estey; Entreprises Ludco Ltée c. Canada, [2001] 2 R.C.S. 1082, 2001 CSC 62, par. 36, le juge Iacobucci)
+[26] Malgré cette approbation de la méthode moderne, la nature particulière des lois fiscales et les caractéristiques de leurs structures souvent complexes expliquent pourquoi on a toujours mis l’accent sur la nécessité d’examiner attentivement le texte même de la LIR, de manière à permettre aux contribuables de se fonder sur celui-ci, sans risque d’erreur, pour exploiter leur entreprise et organiser leurs affaires fiscales. On ne devrait pas permettre que des considérations générales touchant l’objet de la loi se substituent aux termes précis employés par le législateur (Ludco, par. 38-39).
+[27] Bien qu’elle l’ait fait dans le contexte de la « règle générale anti-évitement » ou « RGAÉ », notre Cour a récemment réitéré les principes clés régissant l’interprétation des lois fiscales dans les arrêts Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601, 2005 CSC 54, et Mathew c. Canada, [2005] 2 R.C.S. 643, 2005 CSC 55. D’une part, la Cour a reconnu que l’interprétation textuelle de ces lois reste pertinente. D’autre part, elle a aussi insisté sur l’importance d’interpréter leurs dispositions dans leur contexte, c’’est-à-dire eu égard à l’esprit général de la loi, comme l’exige la méthode moderne.
+[28] Dans les motifs conjoints qu’ils ont rédigés dans l’affaire Trustco Canada, la Juge en chef et le juge Major ont affirmé, au départ, que la méthode moderne s’applique à l’interprétation des lois fiscales. Il faut lire les mots dans leur contexte, en tenant compte de l’ensemble de la loi, c’est-à-dire en conservant toujours à l’esprit les mots employés dans les autres dispositions de la loi :
+Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux. [par. 10]
+[29] La Juge en chef et le juge Major ont ensuite abordé le problème de la tension sous-jacente entre l’interprétation textuelle, les attentes des contribuables concernant la fiabilité de leurs arrangements fiscaux et commerciaux, les objectifs du législateur et les objets de certaines dispositions ou de la loi dans son ensemble :
+En raison du principe du duc de Westminster (Commissioners of Inland Revenue c. Duke of Westminster, [1936] A.C. 1 (H.L.)), selon lequel le contribuable a le droit d’organiser ses affaires de façon à réduire au maximum l’impôt qu’il doit payer, le droit fiscal canadien a reçu une interprétation stricte à une époque où l’interprétation littérale des lois était plus courante qu’aujourd’hui. De nos jours, il ne fait aucun doute que toutes les lois, y compris la Loi de l’impôt sur le revenu, doivent être interprétées de manière textuelle, contextuelle et téléologique. Cependant, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre l’accent sur l’interprétation textuelle. Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions pour obtenir le résultat qu’elles prescrivent. [par. 11]
+[37] La Cour d’appel fédérale a aussi dans la décision précitée, affirmé ce qui suit :
+D’abord, je ne crois pas qu’il convienne d’adopter pour l’interprétation d’une loi sociale comme la Loi sur l’assurance-chômage une approche semblable à celle requise pour la compréhension d’une loi fiscale, le motif étant que les mises-en-œuvre des deux genres de lois ne présentent pas les mêmes exigences. […]
+[38] À première vue, cette approche peut sembler valider l’interprétation de l’appelante et de l’intervenante. Par contre, dans la même affaire, la Cour affirme au même paragraphe :
+[…] Enfin et surtout, je considère que la raison d’être de l’exclusion – tirée de l’idée que celui qui exerce une influence prépondérante sur une corporation ne traite pas « à distance » avec cette corporation, un certain lien de dépendance existant entre les deux – n’a de valeur que si le contrôle dont il s’agit n’est pas en quelque sorte contredit dans les faits.
+[39] Dans la décision St-Onge c. Canada, 2006 CAF 109, la Cour d’appel fédérale a déclaré :
+2 Comme le disait cette Cour dans l’affaire Canada (Procureur Général c. Cloutier, [1987] 2 C.F. 222, à la page 225, la raison d’être de cette exclusion des bénéfices de l’assurance-emploi est tirée de l’idée que celui qui exerce une influence prépondérante sur une corporation ne traite pas à distance avec cette corporation. Au surplus, cette raison d’être « n’a de valeur que si le contrôle dont il s’agit n’est pas en quelque sorte contredit dans les faits » : ibidem. Ce contrôle peut être contredit dans les faits lorsque, comme en l’espèce, il y a allégation et preuve d’un simulacre ou d’un trompe-l’œil : voir Sexton c. Le Ministre du Revenu national et la Cour canadienne de l’impôt, A-723-90, 10 mai 1991 (C.A.F.).
+[40] La réconciliation entre ce qui en apparence peut sembler incohérent s’explique (voir Interprétation des lois, 3e édition, Pierre-André Côté, les Éditions Thémis, pages 478 à 492, 507 et 631) :
+Le texte de l’article 12 de la Loi d’interprétation fédérale et celui de l’article 41 de la Loi d’interprétation du Québec consacrent législativement la « règle de la situation à réformer » qui avait été énoncée dans l’arrêt Heydon.
+La disposition de la loi canadienne se lit ainsi :
+« Art. 12. Tout texte est censé apporter une solution de droit et s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet. »
+[…] À cet égard, il semble bien qu’en édictant ces dispositions, le législateur ait voulu réformer deux types d’abus courants dans les techniques d’interprétation traditionnelles : l’interprétation abusivement restrictive des lois et leur interprétation abusivement littérale.
+[…] les législateurs québécois et canadien paraissent donc avoir voulu faire échec aux divers principes d’interprétation restrictive des lois en édictant qu’on doit toutes les considérer comme favorables (remedial) et que, à ce titre, elles doivent toutes être interprétées de manière « large et libérale ».
+Mais le législateur visait, me semble-t-il, un autre objet, voulait réformer un autre abus : celui d’une interprétation trop attachée à la lettre de la loi et pas suffisamment soucieuse de son esprit, d’où l’insistance des articles sur la préférence à donner à l’interprétation la plus propre à assurer la réalisation ou l’accomplissement du ou des objets de la loi.
+[…]
+[…] les articles 12 et 41 ont toutefois eu le mérite de leur faire contrepoids : le juge qui a voulu justifier une interprétation large et libérale a pu trouver dans les lois d’interprétation un argument supplémentaire pour fonder sa conclusion. […]
+[…]
+La codification de la Mischief Rule a-t-elle contribué au progrès de la méthode d’interprétation téléologique? Il est indubitable que cette méthode est de plus en plus prônée par les tribunaux, alors que la méthode grammaticale, qu’on lui oppose souvent, paraît être en recul. […]
+[…]
+« Aujourd’hui, il n’y a qu’un principe ou qu’une approche : les termes de la loi doivent être lus dans leur contexte global, selon leur sens grammatical et ordinaire en harmonie avec l’économie générale de la loi, avec son objet et avec l’intention du législateur. »
+Cette solution mitoyenne semble justifiée : une interprétation qui n’insiste que sur le texte doit être rejetée, ne serait-ce que pour le motif que les mots n’ont pas de sens en eux-mêmes. Ce sens découle en partie du contexte de leur utilisation, et l’objet de la loi fait partie intégrante de ce contexte. Ajoutons que si l’interprétation strictement littérale présume beaucoup des possibilités du langage humain, elle surestime aussi la clairvoyance et l’habilité des rédacteurs de textes législatifs. La séparation des pouvoirs ne devrait pas exclure nécessairement la collaboration des pouvoirs. Le rédacteur, qui ne peut prévoir toutes les circonstances où son texte devra s’appliquer, doit pouvoir attendre des tribunaux autre chose que des critiques : il doit pouvoir compter sur leur collaboration dans l’accomplissement du but de la loi. Pour reprendre les paroles de Lord Denning, le juge, en raison de la nature particulière de sa fonction, ne peut pas changer le tissu dans lequel la loi est taillée, mais il devrait pouvoir en repasser les faux plis. C’est donc avec raison qu’Alain-François Bisson soutient que toute interprétation est, que l’on en soit conscient ou non, fondamentalement orientée vers les objectifs de la loi.
+[…]
+Par contre, « [u]ne interprétation littérale et rigoriste des textes […], si elle peut être acceptable en droit fiscal, n’a certes pas sa place en matière de droit civil ». Dans la tradition civiliste, l’esprit a toujours eu le pas sur la lettre et les tribunaux n’hésitent pas à s’écarter du texte afin de réaliser l’intention.
+[…]
+Étant donné le partage des opinions concernant la juste fonction d’un tribunal et l’accent qu’il doit mettre sur la lettre de la loi ou sur son esprit, il n’est pas étonnant de constater que l’étude de la jurisprudence révèle tantôt des décisions où le tribunal a accepté de parfaire le texte pour qu’il assure l’accomplissement de l’objet, et d’autres où le juge a refusé de prêter son concours au législateur et de combler les lacunes du texte.
+[…]
+Ainsi, la Cour suprême a appliqué une directive d’interprétation libérale à la Loi sur l’assurance-chômage. Dans Canadien Pacifique Ltée c. P.G. du Canada, le juge La Forest écrit qu’« une loi ayant pour objet la sécurité sociale doit être interprétée de manière à atteindre ce but. Il ne s’agit pas d’une loi fiscale ». L’interprétation libérale de cette même loi a été préconisée par la juge Wilson dans Abrahams c. P.G. du Canada ainsi que par la juge L’Heureux-Dubé dans Hills c. P.G. du Canada.
+[41] Il peut y avoir deux formes de contrôle, soit de jure, soit de facto; pour éviter la confusion, les tribunaux ont conclu qu’il fallait plutôt s’en remettre au contrôle effectif, ce qui évidemment a pour effet qu’il faut pousser l’analyse un peu plus loin que la simple prise en considération du contrôle de jure. Le contrôle de jure reste cependant pertinent en l’absence de preuve du contraire, puisqu’il est extrêmement difficile de prouver que le contrôle effectif est entre les mains d’une personne autre que celle qui a le pouvoir de jure. Conséquemment, à moins d’une preuve à l’effet contraire, le contrôle de jure confère le contrôle de facto.
+[42] En l’espèce, la question du contrôle de facto n’a pas été soulevée, les parties ont essentiellement traité de la question du pourcentage d’action versus le pourcentage de votes.
+[43] Il peut exister une multitude de catégories d’actions en raison de projets de planification de plus en plus populaires, notamment en matière successorale.
+[44] Les catégories d’actions n’ont aucune importance en vertu de l’alinéa 5(2)b) de la Loi; seules les actions avec droit de vote, peu importe la catégorie, doivent être prises en compte.
+[45] En conséquence, lorsqu’il est question de l’alinéa 5(2)b) de la Loi, il faut évaluer le nombre de votes peu importe le nombre ou la catégorie des actions, et cela, afin d’identifier le ou les détenteurs du pouvoir de contrôle de jure qui englobe évidemment le contrôle de facto à moins de preuve contraire.
+[46] En l’espèce, l’analyse est plus facile, puisque les parties ont d’une part soulevé que le nombre d’actions avec droit de vote devait être pris en considération, alors que, d’autre part, il est soutenu que le nombre d’actions est un élément secondaire, puisque le nombre de votes détenus doit être déterminant pour l’application de l’alinéa 5(2)b) de la Loi.
+[47] Pour toutes ces raisons, je suis d’avis que l’alinéa 5(2)b) de la Loi cible essentiellement la ou les personnes qui détiennent des actions avec droit de vote pouvant participer aux décisions dans une proportion de plus de 40 %; en d’autres mots, il s’agit de vérifier si la personne dont le travail est en cause détient plus de 40 % du contrôle effectif de la société. Or, le contrôle effectif, l’autorité, le pouvoir de contrôle découlent non pas du nombre d’actions, mais essentiellement du nombre de votes détenus par une personne.
+[48] La notion d’autorité est quelque chose d’essentiel en matière d’assurabilité d’un travail. Il s’agit également du fondement du lien de subordination ou du pouvoir de contrôle. À cet effet, le nombre d’actions n’a aucune importance; seul le nombre de votes peut et doit être pris en considération.
+[49] L’importance fondamentale et incontournable de l’autorité, discrédite totalement la théorie de l’appelante, mais valide la thèse de l’intimé, à laquelle je souscris.
+[50] Pour tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 21e jour d’août 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2009 CCI 411
+Nº DU DOSSIER DE LA COUR : 2008-2581(EI)
+INTITULÉ DE LA CAUSE : QUINCAILLERIE LE FAUBOURG (1990) INC. ET M.R.N. ET ANDRÉE ROY
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 4 juin 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 21 août 2009
+COMPARUTIONS :
+Représentante de l'appelante :
+Sylvie Beaulieu
+Avocat de l'intimé :
+Me Dany Leduc
+Représentante de l’intervenante :
+Sylvie Beaulieu
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Sylvie Beaulieu
+Cabinet : Gaignard et Associés, s.e.n.c.r.l.
+Ville : Québec (QC)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

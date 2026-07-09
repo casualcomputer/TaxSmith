@@ -1,0 +1,318 @@
+---
+title: "Bell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/169121/index.do"
+last_modified: "2016-07-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 175"
+citation2: ""
+neutral_citation: "2016 TCC 175"
+decision_date: "2016-07-27"
+language: "en"
+item_id: "169121"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2932
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:44:36.248000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f8972c5977f3cdd143c93d5a30f424093e5de37e4ef3b29f00a9176aa45d3981"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bell v. The Queen
+
+- Citation: 2016 TCC 175
+- Decision date: 2016-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2932, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-27
+Neutral citation
+2016 TCC 175
+File numbers
+2013-1806(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1806(IT)G
+BETWEEN:
+HELEN BELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 23, 24, 25 and 26, 2016 at Vancouver, British Columbia with written arguments received subsequently
+Before: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+William S. Maclagan
+Soraya Jamal
+Counsel for the Respondent:
+Raj Grewal
+Pavan Mahil Pandher
+JUDGMENT
+IT IS ORDERED THAT:
+1. the appeal with respect to assessments made under the Income Tax Act for the 2004, 2005 and 2006 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that shareholder benefits assessed under subsection 15(1) of the Act shall be reduced by $22,278, $52,975 and $30,201, respectively;
+2. the appeal with respect to assessments made under the Act for the 2007 and 2008 taxation years is dismissed; and
+3. the respondent is entitled to costs.
+Signed at Ottawa, Ontario this 27th day of July 2016.
+“J. Woods”
+Woods J.
+Citation: 2016 TCC 175
+Date: 20160727
+Docket: 2013-1806(IT)G
+BETWEEN:
+HELEN BELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+I. Introduction [1] During the relevant period, Helen Bell, a status Indian, was entitled to a tax exemption under the Indian Act in respect of personal property situate on a reserve.
+[2] This appeal under the Income Tax Act concerns Ms. Bell’s entitlement to the exemption with respect to annual bonuses received by her from Reel Steel Ltd. (“Reel Steel”). The question is whether the bonuses are situate on a reserve.
+[3] Reel Steel is a construction company that is owned and operated by Ms. Bell and her spouse, Michael Bell. Mr. Bell is not a status Indian and does not qualify for the tax exemption.
+[4] Reel Steel is a subcontractor that specializes in placing rebar (reinforcing steel) in high rise buildings. During the relevant period, which was from 2005 to 2008, Reel Steel employed up to 50 individuals on various construction sites, mainly in Greater Vancouver and in the B.C. southern interior. Almost none of the construction sites were located on reserves.
+[5] Mr. Bell worked on the construction sites in the Greater Vancouver area. Ms. Bell worked in Reel Steel’s office, which in the relevant period was located on a reserve.
+[6] Reel Steel paid regular bi-weekly employee remuneration to Ms. Bell and her spouse. During the years at issue, Reel Steel also paid the balance of its annual income to Ms. Bell in the form of year end bonuses.
+[7] For income tax purposes, Reel Steel claimed deductions for the regular pay and the bonuses and these deductions were allowed by the Minister. As for Ms. Bell, she claimed the tax exemption with respect to her regular pay and the bonuses. The Minister allowed the exemption with respect to the regular pay and disallowed the exemption with respect to the bonuses.
+[8] The issue to be decided is whether the Minister’s treatment of the bonuses was correct. The assessed amounts are slightly less than the actual bonuses paid but nothing turns on this in this appeal.
+[9] Ms. Bell was also reassessed with respect to alleged shareholder benefits and this issue was resolved by the parties prior to the hearing.
+[10] In order to limit confusion in the discussion below, I will refer to Ms. Bell as the “Appellant” and to Mr. Bell as “Mike.”
+II. Legislative framework [11] A tax exemption for property situate on a reserve is provided for in paragraph 87(1)(b) of the Indian Act. Subsection 87(1) reads:
+87 (1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal Management Act, the following property is exempt from taxation:
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+[12] The exemption has proven difficult to apply in respect of intangible property, and of course the bonuses at issue are intangible property. The Supreme Court of Canada last provided guidance with respect to this in Bastien Estate v. The Queen, 2011 SCC 38.
+[13] More recently, the Federal Court of Appeal encapsulated the general principles from Bastien Estate into seven basic propositions, although it noted that these are not exhaustive: Kelly v. The Queen, 2013 FCA 171.
+[14] The seven basic propositions are reproduced below.
+(a) Always implement the statutory language.
+(b) In cases of non-physical property, certain factors, known as connecting factors, are useful indicia of location.
+(c) The relevance and weight of the connecting factors depend on the type of property, the nature of the taxation of the property, and the purposes behind section 87.
+(d) The type of property must be properly identified and factored into the analysis of relevance and weight.
+(e) The nature of the taxation must be properly identified and factored into the analysis of relevance and weight.
+(f) The purposes of the section 87 exemption must be properly identified and factored into the analysis of relevance and weight. In general, the purpose is “to insulate the property interests of Indians in their reserve lands from the intrusions and interference of the larger society so as to ensure that Indians are not dispossessed of their entitlements” (Kelly, para. 42).
+(g) Beware of artificial or abusive connections. If there is an artificial or abusive connection it may be appropriate for the substance to predominate rather than the form (Kelly, para. 48).
+III. Background facts [15] A Partial Agreed Statement of Facts was filed by the parties and is reproduced below.
+A. THE APPELLANT
+1. At all times during 2005-2008 (the “Taxation Years”) and today, the Appellant was and is a status Indian under the Indian Act (Canada) (the “Indian Act”).
+2. The Appellant is not, and never has been, a member of the Capilano Indian Band.
+3. The Appellant is a member of the Dakelh (Carrier) First Nation and is a member of the Nak’azdli Band.
+4. At all times during the Taxation Years, the Appellant resided off-reserve for purposes of the Indian Act.
+5. During the Taxation Years, the Appellant was married to Michael Bell, often known as Mike (“Mike”).
+6. Mike is not an Indian under the Indian Act.
+7. The Appellant and Mike have three daughters: Angela (born in 1981), Jessica (born in 1983) and Teri-Ann (born in 1985).
+8. During the Taxation Years, the Appellant was the majority shareholder (51%), the sole director, the President, and an employee of Reel Steel Ltd. (the “Corporation”).
+9. During the Taxation Years, the Appellant’s husband, Mike, was a minority shareholder (49%), the Treasurer and Secretary, and an employee of the Corporation.
+B. THE CORPORATION
+10. The Corporation was incorporated in 1987 under the laws of British Columbia.
+11. The Corporation installs rebar for construction projects, which involves the placing of steel before concrete is poured.
+12. The Corporation operates in the Greater Vancouver and Southern Interior areas of British Columbia.
+13. Until November 15, 1996, the Appellant and Mike were equal shareholders of the Corporation, each owning 50% of its shares.
+14. In 1997, the Corporation moved its office from Coquitlam, British Columbia to 100 Park Royal South, West Vancouver, British Columbia, V7T 1A2 (the “Office”) and at all times during the Taxation years, the Office was located at 100 Park Royal South.
+15. At all times during the Taxation Years and today, 100 Park Royal S. was and is located on the Capilano Indian Reservation #5, which is a reserve as defined under the Indian Act.
+16. Until June 19, 2002, Mike was the sole director and President of the Corporation. On that date, Mike resigned and the Appellant became the sole director and President of the Corporation.
+17. At all times during the Taxation Years, the registered and records office of the Corporation was located off-reserve in Coquitlam.
+18. At all times during the Taxation Years, and since incorporation, the Corporation’s bank account was located off-reserve in Coquitlam.
+19. During the Taxation Years, all of the Corporation’s customers were located off-reserve.
+20. During the Taxation Years, the Corporation did not have any First Nations customers.
+C. INCOME OF THE APPELLANT
+21. At all times during the Taxation Years, the Appellant performed most of her duties of employment on a reserve at the Office.
+22. The Corporation paid the Appellant bi-weekly salary and lump sum amounts during the Taxation Years in the following amounts:
+Year
+Aggregate Bi-Weekly
+Salary
+Lump Sum Amounts
+2005
+$79,000
+$351,000
+2006
+$105,600
+$257,500
+2007
+$101,760
+$715,000
+2008
+$232,150
+$2,037,000
+23. For all the Taxation Years, the Taxpayer claimed such income was exempt from taxation pursuant to section 87 of the Indian Act.
+24. The lump sum amounts paid by the Corporation to the Appellant were close to or exceeded 100% of the Corporation’s net income.
+25. The Company’s net income, as per its financial statements, prior to the lump sum payments was $358,636 , $215,970, $697,870 and $1,959,405 in its taxation years ending in 2005, 2006, 2007 and 2008, respectively;
+26. The Corporation characterized the lump sum amounts as employment income to the Appellant.
+27. The Corporation paid Mike bi-weekly salary during the Taxation Years totalling the following amounts:
+Year
+Aggregate Bi-Weekly Salary
+2005
+$75,150
+2006
+$101,282
+2007
+$103,760
+2008
+$137,800
+28. During the Taxation Years, the Corporation did not pay any lump sum amounts to Mike.
+D. REASSESSMENTS UNDER APPEAL
+29. On May 27, 2005, June 1, 2006, May 31, 2007, July 17, 2008 and June 15, 2009, the Minister of National Revenue (the “Minister”) initially assessed the Appellant’s 2004, 2005, 2006, 2007 and 2008 taxation years, respectively, and accordingly issued notices on those dates.
+30. On April 3, 2009, the Minister reassessed the Appellant’s 2004, 2005 and 2006 taxation years and on March 25, 2010, the Minister reassessed the Appellant’s 2007 and 2008 taxation years, and accordingly issued notices on those dates, among other amounts no longer in issue in this appeal, so as to include in her taxable income in the lump sum amounts paid to the Appellant by the Corporation in the amounts of $351,000, $257,500, $613,240 and $1,804,850 for 2005, 2006, 2007 and 2008, respectively, under section 5 of the Income Tax Act.
+31. The Minister allowed the bi-weekly salary amounts paid to the Appellant by the Corporation to be exempt pursuant to section 87 of the Indian Act.
+32. For each of the relevant Taxation Years 2005, 2006, 2007 and 2008, the Minister assessed or reassessed the Corporation on the basis that the bi-weekly salary and lump sum amounts paid to the Appellant were deductible from the Corporation’s income under the Income Tax Act.
+33. On June 30, 2009, the Appellant served on the Minister a notice of objection to the above reassessments with respect to the 2004, 2005 and 2006 taxation years and on June 18, 2010, the appellant served on the Minister a notice of objection to the above reassessments with respect to the 2007 and 2008 taxation years.
+34. On February 19, 2013, the Minister confirmed the above reassessments, and accordingly issued a notification on that date which stated that the lump sum amounts “have been concluded to constitute business income, shareholder benefit or appropriations, or dividends”.
+[16] I will supplement the agreed facts with some background.
+[17] Reel Steel had a modest beginning as a 2 person company, Mike and the Appellant. Mike had been a rebar installer from a young age and in 1986 he was off work due to injury. After about six months, Mike was not given clearance to return to employment. This led to the decision that he and the Appellant start a rebar installation business together.
+[18] The idea was that Mike would work in the field placing rebar and the Appellant would take care of everything else that had to do with the legal and financial aspects of starting a company.
+[19] Initially, Reel Steel did small residential jobs for a corporation called Heritage Steel, following a lead from the Appellant’s brother.
+[20] Reel Steel then decided to undertake larger jobs and shifted its work from Heritage Steel to Lafarge and then its successor Harris Steel. In the relevant period, Harris Steel and its affiliates (collectively, “Harris Steel”) were Reel Steel’s main customers.
+[21] Reel Steel’s projects during the period at issue consisted mainly of high rise office and residential towers, and they had up to 50 employees working in the field. The business grew by word of mouth and Reel Steel had an excellent reputation in the industry. This was no doubt due to many factors but one thing stood out from the testimony – Mike had a prodigious work ethic and he expected much of himself and the other employees working in the field. Throughout Reel Steel’s history, all of the field employees, including Mike, continued to work as installers in addition to other duties they may have had (e.g. foremen, field supervisors).
+[22] In 2007 and 2008, Reel Steel obtained a very large project through Harris Steel which involved placing rebar for 10 high rise residential buildings as part of the Olympic Village for the Vancouver Olympic games. This project was responsible for Reel Steel’s significant jump in earnings in 2008.
+[23] As for the Appellant, for the first ten years of Reel Steel’s existence, she worked at various office locations for Reel Steel in Coquitlam, B.C., where the Bells resided.
+[24] The Appellant had been advised that her remuneration from Reel Steel would qualify for a tax exemption under the Indian Act if she worked on a reserve. She decided to act on this in 1996 at which time she obtained her status card as an Indian and Reel Steel’s office was moved to the Capilano Indian Reservation #5 (the “Capilano Reserve”) in West Vancouver. The location was not as convenient for the business but it was manageable. The Appellant did not have a prior connection with this reserve.
+[25] As mentioned earlier, Reel Steel’s construction work was located in two main locations – the Greater Vancouver area and the B.C. Southern Interior. Almost none of this work took place on a reserve.
+[26] In addition to the office on the reserve, Reel Steel had use of storage facilities on reserves. The main storage facility was a rental unit adjacent to the office which was used for general office storage and construction supplies. Another storage facility was rented on a reserve in the southern interior for the work in that part of the province.
+[27] Reel Steel also employed a long-time administrative assistant for the Appellant. The assistant, Lil Saranchuk, was originally a friend of the Appellant’s and she was employed full time in the office during the period at issue.
+[28] From the time of its incorporation, Reel Steel’s shares were held by the Appellant and Mike on a 50/50 basis. At that time, Mike was the sole director and President.
+[29] Beginning around the time of the move of the office to the reserve, certain changes were made to the management structure, as follows.
+(a) In November 1996, the shareholdings of Reel Steel were changed from 50/50 to 51 percent for the Appellant and 49 percent for Mike.
+(b) In 2002, the Appellant became the sole director and President of Reel Steel, replacing Mike in these roles.
+(c) Effective January 1, 1997, the Appellant and Mike each entered into services agreements with Reel Steel. Under these agreements, the Appellant’s services were to include the supervision and management of the business and financial activities of Reel Steel and Mike’s services were to include the planning and scheduling of the rebar activities and placing the rebar. For these services, the Appellant and Mike were each to be paid an equal sum of $4,500 per month, plus benefits. In addition, the Appellant was to be paid 50 percent of Reel Steel’s estimated annual income by way of bonus. Mike’s contract did not provide for bonuses.
+[30] The actual amounts paid as bonuses to the Appellant in the taxation years at issue were 100 percent of estimated income, which is twice the amount provided for in the 1997 agreement.
+[31] The bonuses were not paid in cash, but were made by way of an increase to the Appellant’s shareholder loan account with Reel Steel. This increase in debt was implemented by way of a ledger entry made by the accountant who annually prepared Reel Steel’s general ledger, financial statements and tax returns.
+IV. Issue [32] The only issue to be decided is whether the bonuses are sufficiently connected to the Capilano Reserve so as to be situated on a reserve for purposes of the exemption.
+V. Positions of the parties A. Position of the Respondent [33] The Respondent submits that the bonuses are not remuneration from employment but are business earnings from a rebar installing business. These earnings are included in the Appellant’s income as business income under section 9 of the Income Tax Act.
+[34] The Respondent further submits that the bonuses are not situate on a reserve regardless of whether they are characterized as employment income or business income.
+[35] The Respondent submits that, if the bonuses are characterized as business income, the business income lacks sufficient connecting factors to a reserve because Reel Steel’s business activities did not take place mainly on reserves.
+[36] The Respondent also submits that, if the bonuses are characterized as employment income, they are not strongly connected to a reserve. It is suggested that since the establishment of the office on the reserve was tax-motivated, it was an improper manipulation of the connecting factors test and the office should not be considered a significant connecting factor.
+B. Position of the Appellant [37] The Appellant submits that the Respondent should not be permitted to argue that the bonuses are business income. She submits that this would be unfair because she was assessed on the basis that the bonuses were employment income and the Respondent did not take a different position in the Reply.
+[38] As for whether the bonuses are situate on a reserve, the Appellant submits that the connecting factors point more toward the bonuses being situate on the Capilano Reserve. It is there, the Appellant suggests, that she predominately performed her employment duties and where important management decisions took place.
+[39] Finally, the Appellant submits that issues of impropriety and artificial connections have no bearing on a case such as this. They are only relevant if the Crown alleges sham or that the general anti-avoidance rule applies: Shilling v. The Queen, 2001 FCA 178.
+VI. Analysis
+[40] In order for the Appellant to succeed in this appeal, there must be significant substantive connections between the bonuses and the Capilano Reserve.
+[41] The Appellant submits that the duties she performed at the office and the important meetings that took place there between the Appellant and Mike are sufficient significant connections.
+[42] The relevance and weight of connecting factors depend on the type of property at issue, the nature of the taxation of the property, and the purpose of the exemption.
+A. Type of property [43] The property at issue is the bonuses that were paid to the Appellant in an amount equal to the balance of the estimated annual income of Reel Steel.
+[44] The Respondent submits that the bonuses are business income which are taxed under section 9 of the Income Tax Act. This argument, as I understand it, is that the Appellant was carrying on the rebar installing business that produced the income that enabled the bonuses to be paid.
+[45] The problem with this argument is that the rebar business was carried on by Reel Steel and not by the Appellant. This is a classic case of piercing the corporate veil which is not appropriate unless there are facts to support the finding that the Appellant was actually carrying on the rebar business. The evidence does not support this.
+[46] I would also comment that the judicial decision that the Respondent relied on was based on different facts. In that case, the taxpayer actually was carrying on a business: Pilfold Estate v. The Queen, 2013 TCC 181, aff’d. 2014 FCA 97. These are not the facts in this case.
+[47] Further, this argument is not in the Reply. To the contrary, there is an admission in the Reply that the bonuses are paid by virtue of employment (para. 1 of Reply). It would be unfair for the Respondent to take a different position at trial without setting forth the argument in the pleadings.
+[48] The Respondent submits that admissions are not binding on the Court (Hammill v. The Queen, 2005 FCA 252). This is no doubt true, but it does not address the problem that the issues between the parties should be set out in the pleadings. This was not done in this case with respect to the type of property. I would also note that in Hammill the Court comments that Courts will not generally look behind admissions made by a party.
+[49] For these reasons, I conclude that for the purpose of this appeal the property at issue is remuneration from employment.
+B. Nature of taxation of property [50] The bonuses are included in the Appellant’s income under subsection 5(1) of the Income Tax Act, which reads:
+5 (1) Subject to this Part, a taxpayer’s income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+C. Purpose of the exemption [51] As noted above, the general purpose of the exemption in paragraph 87(1)(b) of the Indian Act is “to insulate the property interests of Indians in their reserve lands from the intrusions and interference of the larger society so as to ensure that Indians are not dispossessed of their entitlements” (Kelly, para. 42).
+D. Weight of employment connecting factor Overview [52] The Appellant submits that her employment duties carried out at Reel Steel’s office are a strong connecting factor that link the bonuses to a reserve.
+[53] The problem with this submission is that, as discussed below, the Appellant already received adequate compensation for her employment in the form of bi-weekly pay. The bonuses are on top of reasonable compensation.
+[54] The purpose of the exemption is to protect an Indian’s entitlements from reserve land. On the facts of this case, the bonuses are not an entitlement from reserve land by virtue of the Appellant’s employment because there is no substantive connection between the land and the bonuses.
+[55] Further, I find that it is abusive of the exemption for the Appellant to receive bonuses which exceed reasonable remuneration. Reel Steel has undertaken a transaction that has the appearance of a strong connection between the bonuses and the employment. In reality, there is no substantive connection. This is abusive.
+Bonuses are not reasonable remuneration [56] In the previous section, I comment that the bonuses exceed reasonable remuneration. I now set out my reasons for this conclusion.
+[57] First, there was no evidence to support that the bonuses were reasonable remuneration or that the bonuses were even intended by the parties to reasonably compensate the Appellant for her duties of employment. The reasonable implication in all the circumstances, including the amount of the bonuses, is that they were paid for tax reasons, namely, to avoid income tax at both the corporate and shareholder level.
+[58] Second, the Appellant received remuneration through her bi-weekly pay that was roughly equivalent to Mike’s remuneration, except for 2008 when the Appellant’s regular pay exceeded Mike’s. In order for the bonuses to be reasonable in the circumstances, the Appellant should have made a greater contribution to Reel Steel than Mike. As discussed below, I find that the evidence does not support this.
+[59] Both the Appellant and Mike had important roles in Reel Steel. It was the combination of their hard work that made Reel Steel a success. But the evidence does not support that the Appellant’s role was greater.
+[60] Mike’s role, in addition to placing rebar alongside the other construction employees, was to manage the construction work, including dealing with customers, making sure that the projects were appropriately staffed which including the hiring of construction workers, and providing overall management at the sites.
+[61] The Appellant generally had two major roles. One was to be responsible for administrative functions, such as purchasing, invoicing, payables, receivables, payroll, banking and accounting. The other significant role was to look after the welfare of the employees, including arranging benefits, safety training, and reporting of injuries. The Appellant’s contribution with respect to employees went beyond this in that she was very active in instilling a positive corporate culture. The Appellant organized many social events such as dinners and lunches, and she even arranged flowers for spouses and girlfriends on Valentines’ Day.
+[62] As for the interaction between Mike and the Appellant, the evidence suggests that they worked closely together, mainly by phone, on daily administrative matters, such as purchasing construction-related items, renting trailers for the job sites, and arranging employee travel for out of town work. The nature of the business was that there were many administrative details – and Mike clearly depended on the Appellant to provide support.
+[63] Counsel for the Appellant submitted that the Appellant and Mike made important business decisions together. This somewhat overstates the Appellant’s role, in my view.
+[64] It is true that Mike valued the Appellant’s input on complex business decisions but I am not convinced that these types of decisions were made very often. There were two complex business decisions that Mike testified to – the contract for the Olympic Village, which occurred during the period at issue, and a potential contract for the Brentwood Mall, which arose more recently.
+[65] Reel Steel has operated for almost 30 years. My sense is that the vast majority of the construction work did not involve complex business decisions, and the decisions were made by Mike, with administrative input from the Appellant.
+[66] The testimony below by Mike illustrates this point (Transcript, p. 333-334).
+Q Okay. And at that time, what was your process involved in deciding whether or not you wanted to take a job or not from Harris?
+A Same scenario. He would -- we would -- I would look at the drawings, we'd determine whether or not it was something we were interested in. The timing was always a big thing, scheduling of jobs was a big thing. And then working it back to our man-hours per tonne. If we were doing residential jobs, and then we were doing five in a row, you already know by the first one where your tonnage has to be, allowing a little bit for, you know, price increase, wage, cost of living increase. So you'd be able to figure it out whether or not it made sense to do more at that same number, or if that number needed to change.
+Q And who was involved in that process?
+A Mostly me. Mostly, yeah.
+Q Okay. You would do it on your own, mostly? Or --
+A The actual -- if it was a residential building that was going, right, and we were just going to continue on, yes, I would be involved. If there was something that was different, a hiccough, we did some out of town work. When we get into stuff like that, with Harris, everything changes, because how you have to cost out living out, and you have to cost out all of that. And that was all done by Helen in the office. We'd do it together.
+Q Okay. And how would you do it together?
+A At the office, normally, or over the phone. I would phone her and say, "This is what we're going to be doing. We have to look at finding a place for a year in this town." I know we've rented -- or she rented, sorry, some out-of-town properties. We did some work in Vernon, some in Princeton, some in Whistler. And those were things that the company had to -- lodging for our guys while they were there.
+Q Okay. And that's the process involved in how you got jobs from Harris through 2005 to 2008.
+A Yes. Yeah.
+[67] I conclude that the Appellant played an administrative role with respect to the construction contracts, with very limited exceptions.
+[68] The key factual findings above are based to a large extent on Mike’s testimony, which I find to be generally reliable. On the other hand, I did not find the Appellant’s testimony to be generally reliable. She had a tendency to grossly downplay Mike’s role and to exaggerate her own role to the point that I had little confidence in key parts of her testimony.
+[69] Below are a few examples:
+(a) The Appellant testified that she was the owner of Reel Steel (Testimony, p. 32). This downplays Mike’s ownership interest.
+(b) The Appellant stated that Reel Steel got its jobs at first through cold calls (Testimony, p. 42). This was not mentioned in Mike’s testimony. He testified that Reel Steel’s business started with a contract with Heritage Steel following a lead from the Appellant’s brother.
+(c) The Appellant testified that construction workers were hired by field supervisors or foremen (Testimony, p. 46). According to Mike’s testimony, he was generally responsible for hiring the workers and determining their remuneration (Testimony, p. 343, 346).
+(d) The Appellant testified that she “ran” Reel Steel from the office. She then testified that Mike’s role was to lay rebar (Testimony, p. 57). The Appellant’s counsel then prompted the Appellant to answer more completely and he asked a question to confirm that Mike was also dealing with customers. These types of leading questions by the Appellant’s counsel to rein in her exaggerated testimony occurred more than once.
+(e) The Appellant referred to Reel Steel as “my” business (Testimony, p. 74).
+(f) Regarding the Olympic Village contract, the Appellant testified that she and Mike met at the office for two days to discuss whether it was feasible (Testimony, p. 88, 89). I accept this testimony, but the Appellant omitted to say that Mike also discussed the feasibility of the job with the other employees.
+[70] In light of this difficulty, I was skeptical of relying too much on the Appellant’s testimony for the key issues in this appeal.
+[71] I also comment that two witnesses who were employees of Reel Steel had a tendency to exaggerate the Appellant’s role in Reel Steel or to downplay Mike’s role. This is understandable given the employment relationship.
+[72] One of these witnesses was the administrative assistant, Lil Saranchuk. She testified that the Appellant made all the decisions and Mike answered to the Appellant (Transcript, p. 436, 437). The other witness was Glenn Watkins, a long time foreman with Reel Steel. He testified that the Appellant’s job consisted of everything to do with the business that does not involve picking up rebar and putting it into the slab. This testimony clearly exaggerates the Appellant’s role and understates Mike’s role.
+[73] Regarding the formalities of decision-making, the Appellant became the sole director and President of Reel Steel in 2002 and she signed an employment agreement effective in 1997 that stated she was to supervise and manage the business. I find that this paperwork did not reflect reality. When Reel Steel was incorporated, the Bells decided how the business would be operated and this division of duties did not materially change when the Appellant became the sole director and President in 2002. One exception to this was the signing of cheques, which was done less frequently by Mike (Testimony of Ms. Saranchuk). The decision for Mike to sign fewer cheques was likely influenced by the inconvenient location of the office.
+[74] It is also worth mentioning that Mike worked long hours in the business and there is no reliable evidence as to how many hours the Appellant worked. The Appellant was clearly very involved in the business, but it is not clear that her effort, in terms of hours, was nearly the same as Mike’s. I would note that the Appellant had other interests in addition to Reel Steel, including attending university and operating a leasing business with her daughter. In addition, Glenn Watkins testified that either the Appellant or Ms. Saranchuk were in the office on any given day.
+[75] Counsel for the Appellant comments that Reel Steel was permitted to deduct the bonuses in computing its income. This does not assist the Appellant in this appeal because the Minister allowed Reel Steel to deduct the bonuses even though, in the Minister’s view, they were not reasonable in relation to the duties performed.
+[76] Based on the evidence as a whole, I have concluded that the bi-weekly pay that the Appellant received was adequate (or more than adequate) compensation for the duties that she performed.
+Employment is not a significant connecting factor for bonuses [77] Based on the evidence as a whole, I find that the Appellant’s employment is not a strong connecting factor for the bonuses. As mentioned earlier, it would run counter to the purpose of the exemption in the Indian Act to give weight to remuneration that exceeds what is reasonably earned on the reserve.
+[78] Finally, I would comment that I do not agree with the Respondent’s submission that it was abusive to move Reel Steel’s office to a reserve. It is clear on the evidence that the office was moved for the purpose of taking advantage of the exemption. This is not abusive in my view. This is not a case where the office has little substance; Reel Steel’s office was substantial.
+[79] The Respondent’s argument attempts to read a business purpose test into the Indian Act exemption. This is neither explicit nor implicit in the legislation. If an Indian chooses to situate property on a reserve, the income should qualify for the exemption regardless of the individual’s motivation for doing so.
+[80] I have concluded that the payment of the bonuses is abusive, but it is not abusive to locate the office on a reserve.
+E. Are bonuses connected to business operations carried out on a reserve? [81] The Appellant acknowledges that the operation of the business may also be an important connecting factor since the bonuses are between non-arm’s length parties. Counsel submits that important management decisions were made on the reserve and that this is a key connecting factor which connects the bonuses to the reserve.
+[82] I agree that the operation of the business is an important connecting factor in this case. Given my finding that the bonuses are not reasonable, in substance the bonuses were simply corporate distributions to a key shareholder. In considering distributions to owner-managers, the operations of the business should be a key connecting factor for purposes of the exemption.
+[83] The problem is that I do not agree that the operations of the business are predominantly linked to a reserve. To the contrary, the operations are linked more closely to off reserve locations.
+[84] Virtually all of Reel Steel’s business is generated and performed off reserve. Mike arranges the business contracts and hires the employees off reserve. Reel Steel’s construction workers work mostly off reserve. There are only two employees that work mainly on the reserve and their role is primarily administrative.
+[85] Second, this is not a case in which joint actions taken by the owner-managers are the key drivers of the business. For the most part, business opportunities came to Reel Steel and it was not difficult for Mike to make business decisions with administrative input from the Appellant. These circumstances may be contrasted with the facts in Pilfold in which case a key driver of the business was the owner’s efforts to obtain business contracts which efforts took place on a reserve. Reel Steel’s business operated in an entirely different manner. For the most part, the work came to Mike and he arranged for it to be done, with the assistance of the office.
+[86] I find that the operation of the Reel Steel business was more closely connected to the off reserve locations. This factor weighs heavily in connecting the bonuses to the off reserve locations where the construction activities were managed and performed.
+F. Other connecting factors [87] Counsel for the Appellant referred to other connecting factors such as the residence of Reel Steel, the residence of the Appellant, and the location where the Appellant was paid.
+[88] In my view, the residence of Reel Steel is not a significant connecting factor in this case. The determination of corporate residence, which is the central management and control test, is a judge-made test designed to determine nexus for the ability of a country to impose income tax. The exemption in the Indian Act is essentially a search for substantive connections. This search would be needlessly muddied if the complex test for central management and control were imported into this analysis.
+[89] In any event, I find that the central management and control of Reel Steel is split between Mike and the Appellant. Each of them made decisions within their area of responsibility, and occasionally the decisions were joint. Further, the director’s role is not a substantive role in this case. Central management and control is not predominately on the reserve.
+[90] As for the residence of the Appellant, which is off reserve, I find that this is not a significant connecting factor with respect to the bonuses. The residence of the Appellant really has very little connection with the bonuses.
+[91] As for the place of payment of the bonuses, I find that this is also not a significant connecting factor. The act of paying is a clerical type of action that is easily manipulated. It would be contrary to the purpose of the exemption if this were to be given significant weight.
+G. Conclusion [92] I conclude that the bonuses paid to the Appellant do not qualify for the exemption in paragraph 87(1)(b) of the Indian Act. The appeal will be allowed only with respect to the issues agreed between the parties. The Respondent is entitled to costs.
+Signed at Ottawa, Ontario this 27th day of July 2016.
+“J. Woods”
+Woods J.
+CITATION:
+2016 TCC 175
+COURT FILE NO.:
+2013-1806(IT)G
+STYLE OF CAUSE:
+HELEN BELL and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 23, 24, 25 and 26, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+July 27, 2016
+APPEARANCES:
+Counsel for the Appellant:
+William S. Maclagan
+Soraya Jamal
+Counsel for the Respondent:
+Raj Grewal
+Pavan Mahil Pandher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+William S. Maclagan
+Firm:
+Blake, Cassels & Graydon LLP
+Vancouver, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,138 @@
+---
+title: "Landry c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/24971/index.do"
+last_modified: "2003-02-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 59"
+citation2: ""
+neutral_citation: "2003 CCI 59"
+decision_date: "2003-02-24"
+language: "fr"
+item_id: "24971"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2518
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:32:12.540000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2bbcb57c67370640f136d9a3d0568fd67c403906994c4de3251eeb4f9d9767ca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Landry c. La Reine
+
+- Citation: 2003 CCI 59
+- Decision date: 2003-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2518, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-24
+Référence neutre
+2003 CCI 59
+Numéro de dossier
+2000-3304(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2000-3304(GST)I
+ENTRE :
+RODRICK LANDRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 16 décembre 2002 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelant :
+Denis St-Pierre
+Avocate de l'intimée :
+Me Stéphanie Côté
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise daté du 11 juillet 2000 portant le numéro 01GE0100481 et couvrant la période du 1er janvier 1997 au 30 septembre 1999 est admis, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Signé à Edmundston (Nouveau-Brunswick), ce 24e jour de février 2003.
+« François Angers »
+J.C.C.I.
+Référence : 2003CCI59
+Date : 20030224
+Dossier : 2000-3304(GST)I
+ENTRE :
+RODRICK LANDRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Il s'agit d'un appel d'une nouvelle cotisation datée du 11 juillet 2000, par laquelle le ministre du Revenu national (le « ministre » ) a établi la responsabilité de l'appelant à l'égard de la TPS/TVH en vertu de la Loi sur la taxe d'accise (la « Loi » ) pour la période du 1er janvier 1997 au 30 septembre 1999 en faisant certains rajustements à la déclaration de l'appelant. L'appelant interjette appel à l'égard d'un de ces rajustements, soit celui visant un crédit de taxe sur les intrants relatif à l'acquisition par l'appelant d'une fourgonnette Ford Winstar.
+[2] L'appelant est un inscrit en vertu de la partie IX de la Loi et son activité principale durant la période en litige consistait en un service d'affûtage de scies. La fourgonnette en question a été achetée le 13 mai 1999 ou vers cette date. Lors de l'achat, l'appelant a payé la somme de 2 990,33 $ au titre de la taxe de vente harmonisée (TVH) et c'est ce montant qu'il réclame à titre de taxe sur les intrants.
+[3] L'appelant a acheté la fourgonnette afin de mieux répondre aux besoins croissants de ses activités commerciales et pour agrandir le territoire qu'il dessert et ainsi mieux répondre aux besoins de sa clientèle. En plus de faire l'affûtage de lames, de scies à ruban et d'outils semblables, l'appelant en faisait également la vente. Il a expliqué que le lundi, il fait la tournée pour effectuer les livraisons et également pour recueillir les lames et les scies à affûter. Il effectue son travail à son atelier les autres jours de la semaine et est disponible en cas d'urgence. La fourgonnette en question, qui a été décrite comme étant une fourgonnette pour sept passagers, est munie d'une portière sur le côté, ce qui accorde à l'appelant un accès facile pour montrer sa marchandise à ses clients. Avant l'acquisition de la fourgonnette, l'appelant utilisait une camionnette genre pick-up qu'il a conservée après l'acquisition de la fourgonnette. Il a expliqué qu'il se sert de la camionnette à des fins personnelles, sauf une fois par semaine, alors qu'il doit transporter une tondeuse pour effectuer son travail de concierge à la Caisse populaire de Petit-Rocher. Il doit parcourir trois quarts de mille pour s'y rendre. D'ailleurs, l'appelant se rend tous les soirs de semaine à ladite Caisse populaire pour y faire l'entretien et le ménage et il utilise sa fourgonnette comme moyen de transport.
+[4] L'appelant ne maintient pas de registre relativement à l'utilisation de la fourgonnette pour des fins personnelles ou des fins commerciales. Il explique cet état de choses en disant qu'il n'est pas nécessaire qu'il maintienne un registre, puisqu'il n'utilise la fourgonnette qu'à des fins commerciales. Pendant les fins de semaine, il utilise sa camionnette à des fins personnelles. Il explique que s'il devait utiliser sa fourgonnette à des fins personnelles, il devrait y retirer l'inventaire et que cela prendrait quarante-cinq minutes.
+[5] Monsieur Paul Haché, vérificateur à l'Agence des douanes et du revenu du Canada, a témoigné que, dans sa déclaration de revenus pour l'année 1997, l'appelant a déclaré qu'il utilisait sa camionnette, à l'époque, à 67 % pour des fins commerciales. L'appelant n'a pas fait mention de l'usage de sa camionnette dans ses déclarations de revenus de 1998 et 1999. En 1999, l'appelant n'a déduit de ses revenus aucune dépense liée à ces véhicules, sauf l'amortissement relativement aux deux véhicules en question.
+[6] Si la fourgonnette est utilisée à 100 % des fins commerciales, monsieur Haché se demande pourquoi l'amortissement a été déclaré relativement aux deux véhicules, alors qu'on aurait dû réduire en conséquence la valeur du véhicule dont l'appelant ne se servait plus à des fins commerciales. Lors du contre-interrogatoire, on a mis en évidence le fait que deux comptables différents avaient préparé les déclarations de revenus de l'appelant pour 1997 et pour 1999 et que l'appelant n'avait pas remarqué ces erreurs : comme plusieurs contribuables, l'appelant ne vérifie pas ses déclarations avant de les signer.
+[7] L'appelant soutient qu'en 1999, il utilisait la fourgonnette uniquement à des fins commerciales et la camionnette uniquement à des fins personnelles, sauf pour l'exception qu'on connaît. De plus, on a déduit l'amortissement pour les deux véhicules à cause d'une erreur comptable qui ne devrait pas priver l'appelant de son crédit pour intrants. L'intimée, pour sa part, affirme que l'activité commerciale doit être exclusive ou presque. Puisque l'appelant ne tenait pas un registre de l'utilisation de son véhicule, le ministre était en droit d'appliquer le pourcentage d'utilisation établi par l'appelant en 1997 et de faire le calcul selon la formule prévue au paragraphe 202(4) de la Loi.
+[8] Les parties ne mettent pas en question le fait que la fourgonnette est une voiture de tourisme aux fins de la Loi. La question en litige consiste à savoir si la fourgonnette a été utilisée exclusivement dans le cadre des activités commerciales de l'appelant.
+[9] Le paragraphe 202(2) de la Loi porte que la taxe payable par un particulier inscrit relativement à l'acquisition d'une voiture de tourisme n'est incluse dans le calcul de son crédit de taxe sur les intrants que s'il l'a acquise pour utilisation exclusive dans le cadre de ses activités commerciales. Le paragraphe 202(4) de la Loi prévoit, de son côté, la formule du calcul du crédit de taxe sur les intrants lorsqu'il y a utilisation non exclusive d'une voiture de tourisme par un particulier inscrit.
+[10] Le paragraphe 123(1) de la Loi donne la définition suivante du mot « exclusif » :
+S'entend, dans le cas des personnes autres que les institutions financières, de la totalité, ou presque, de la consommation, de l'utilisation ou de la fourniture d'un bien ou d'un service et, dans le cas des institutions financières, de la totalité de pareille consommation, utilisation ou fourniture.
+[11] En l'espèce, la fourgonnette en question a été achetée pour les activités commerciales de l'appelant. Ce dernier n'a pas maintenu de registre de l'utilisation parce que la fourgonnette ne sert qu'aux fins de ses activités commerciales. Non seulement il s'en sert pour faire la tournée de ses clients une fois par semaine, mais il s'en sert également pour y entreposer un inventaire d'accessoires pour scies et toupies afin de répondre aux besoins de sa clientèle. Il l'utilise chaque jour pour aller faire l'entretien et le ménage à la Caisse populaire et il peut également s'en servir en cas de besoin. Sa camionnette sert à ses besoins personnels et il ne l'utilise qu'une fois la semaine pour apporter sa tondeuse à la Caisse populaire. J'accepte le témoignage de l'appelant qu'il utilise sa fourgonnette exclusivement dans le cadre de ses activités commerciales. Les déclarations de revenus de l'appelant contiennent des erreurs qui, parfois, sont désavantageuses pour l'appelant et, parfois, lui sont avantageuses. Malgré le fait que les déclarations de revenus contredisent parfois la preuve présentée à l'audience par l'appelant, j'accepte sa version des faits comme étant véridique. Le fait d'avoir un véhicule pour ses fins personnelles modifie le pourcentage de l'utilisation qui avait été établi.
+[12] Pour ces motifs, je conclus que l'appelant a fait l'utilisation de la fourgonnette substantiellement dans le but de générer un revenu et qu'il l'a donc acquise pour utilisation exclusive dans le cadre de ses activités commerciales.
+[13] L'appel est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Signé à Edmundston (Nouveau-Brunswick), ce 24e jour de février 2003.
+« François Angers »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI59
+No DU DOSSIER DE LA COUR :
+2000-3304(GST)I
+INTITULÉ DE LA CAUSE :
+RODRICK LANDRY et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Bathurst (Nouveau-Brunswick)
+DATE DE L'AUDIENCE
+16 décembre 2002
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+24 février 2003
+COMPARUTIONS :
+Pour l'appelant :
+Denis St-Pierre
+Pour l'intimée :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

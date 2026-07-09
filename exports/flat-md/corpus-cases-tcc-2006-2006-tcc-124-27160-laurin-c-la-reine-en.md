@@ -1,0 +1,238 @@
+---
+title: "Laurin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27160/index.do"
+last_modified: "2006-03-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 124"
+citation2: ""
+neutral_citation: "2006 TCC 124"
+decision_date: "2006-03-17"
+language: "en"
+item_id: "27160"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1029
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:14:50.047000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1a325c4498dd94141b22f51864d2e79912e400eb1c1d2c2dc5f3e34838955ded"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laurin c. La Reine
+
+- Citation: 2006 TCC 124
+- Decision date: 2006-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1029, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laurin c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-17
+Neutral citation
+2006 TCC 124
+File numbers
+2005-3422(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3422(IT)I
+BETWEEN:
+FRANCINE LAURIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on February 13, 2006, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mounes Ayadi
+JUDGMENT
+The appeal from the notice of confirmation of February 18, 2005, by which the Minister of National Revenue denied the Appellant the Canada Child Tax Benefit for the 2001, 2002 and 2003 base years and the goods and services tax credit for the 2001, 2002 and 2003 taxation years, is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of March 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 16th day of August 2006.
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC124
+Date: 20060317
+Docket: 2005-3422(IT)I
+BETWEEN:
+FRANCINE LAURIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is the appeal from the confirmation of notices of determination respecting the Canada Child Tax Benefit made by the Minister of National Revenue (the "Minister") on February 18, 2005, in respect of the 2001, 2002 and 2003 base years, and respecting the goods and services tax credit for the 2001, 2002 and 2003 taxation years.
+[2] The Minister determined that the Appellant was not the eligible individual in respect of her children, Vincent and Marise, for the period from July 2002 to January 2005 inclusive.
+[3] After issuing the notices of redetermination of the Canada Child Tax Benefit in respect of the Appellant for the 2001, 2002 and 2003 base years on February 18, 2005, the Minister determined that the overpayments had totalled $13,303:
+(a) 2001 base year
+$4,910.00
+(b) 2002 base year
+$5,287.00
+(c) 2003 base year
+(July 2004 to January 2005 inclusive)
+$3,106.00
+$13,303.00
+[4] In notices of redetermination of the goods and services tax credit ("GSTC") made on January 28, 2005, for the 2001, 2002 and 2003 taxation years, the Minister revised the annual benefit for the goods and services tax at $295.40, $330 and $342 respectively.
+[5] Upon issuing the notices of redetermination of the GST credit for the 2001, 2002 and 2003 taxation years in respect of the Appellant on January 28, 2005, the Minister determined that the overpayments had totalled $941.10:
+(a) 2001
+$354.60
+(b) 2002
+$330.00
+(c) 2003 (July and October 2004, January 2005)
+$256.50
+$941.10
+[6] On August 29, 2005, the Minister confirmed the notices of redetermination of Canada Child Tax Benefit made on February 18, 2005, for the 2001, 2002 and 2003 base years, and the notices of redetermination of GSTC made on January 28, 2005, for the 2001, 2002 and 2003 taxation years.
+[7] In issuing the notices of redetermination in issue, the Minister assumed the same facts:
+[TRANSLATION]
+(a) before the period in issue, the Appellant was always considered as the parent who was primarily responsible for the care and upbringing of her children;
+(b) in November 2004, the father, Robert Gagné, filed a Child Tax Benefit claim stating that his two children, Vincent and Marise, had been living with him since September 2001;
+(c) on the form referred to in the previous paragraph, the Appellant had stated, as former beneficiary, that the children Vincent and Marise had no longer been her dependents since September 2001;
+(d) before taking any corrective action, the Minister telephoned the Appellant for confirmation that the two children had no longer been living with her since September 2001;
+(e) thus, in early 2005, the Minister made the required adjustments against the Appellant in respect of the Canada Child Tax Benefit and goods and services tax credit (GSTC) for the 2001, 2002 and 2003 base years and taxation years;
+(f) the Appellant had attached to her notice of objection a Superior Court judgment dated September 13, 2001, in which the Honourable Justice Ginette Piché approved an agreement signed by the two parties, who established, among other things, the following measures:
+(i) custody of the minor children was assigned to Robert Gagné;
+(ii) the Appellant's access to the children was defined;
+(iii) the beneficiary of the family allowance benefits would remain the Appellant.
+[8] The issue is whether the Minister correctly concluded that the Appellant was no longer the eligible individual in respect of her children, Vincent and Marise, for the period from July 2002 to January 2005 inclusive, for the purposes of the Canada Child Tax Benefit for the 2001, 2002 and 2003 base years, and for the GSTC for the 2001, 2002 and 2003 taxation years.
+[9] The Appellant stated at the hearing that she and her former spouse had always complied to the letter with the agreement that the parties had signed and that had been confirmed by a Superior Court judgment rendered by the Honourable Justice Ginette Piché of the Superior Court on September 13, 2001 (Exhibit I-1).
+[TRANSLATION]
+CUSTODY AND ACCESS
+6. Custody of the minor children is awarded to the father;
+7. The parties shall consult each other in making any important decision concerning the health, education and welfare of the children, in particular with regard to the choice of educational institutions;
+8. The mother's access rights shall be exercised as follows:
+(a) the mother shall have access rights to the children for one full weekend every other weekend, that is from Friday at the end of school until Sunday evening;
+(b) every Wednesday from the end of school, junior kindergarten, day care or day camp until the next morning when school begins;
+(c) the mother shall have the children on the school vacations preceding or following her weekends of access;
+(d) one week during the Christmas vacation, that is the Christmas week one year and the New Year's week the following year;
+(e) one month in the summer divided in two periods of two continuous weeks with two months' advance notice to the father; however, if there is any disagreement, the mother shall have the children in the first two weeks of July and the last two weeks of August;
+(f) the father shall have the children for two periods of two continuous weeks in the summer on two months' advance notice to the mother; however, if there is any disagreement, the father shall have the children in the last two weeks of July and the last two weeks of August;
+(g) the parties agree that, if the children have the opportunity to travel with the grandparents or uncles and aunts, paternal and maternal, once a year, the parents will allow the children to go on vacation with the aforementioned persons for a period of two weeks, to the extent that does not encroach on their school schedule;
+(h) the parties undertake to sign all the necessary documents to enable the children to travel with either parent;
+(i) the parties undertake to provide written advance notice of at least two months in the event either party changes place of residence;
+SUPPORT AND TAXATION
+9. As the mother is a welfare recipient, no child support shall be paid;
+10. To assist the mother in receiving the children, it is agreed that she will receive the family allowance benefits;
+(My emphasis)
+[10] In accordance with paragraph 10 of the agreement cited above, the Appellant contended that she had rightly received the Canada Child Tax Benefit during the years in issue, the whole in accordance with the judgment that granted her that right.
+[11] She added that the lawyers representing her and her spouse must have known the tax consequences of the agreement prepared by legal experts and confirmed by the Superior Court and that she should not have to suffer those consequences.
+[12] Unfortunately, this is not the first case in which a Superior Court judgment in matrimonial law has caused major disappointment to one of the parties concerned by the judgment when it comes to enforcing the provisions of the Income Tax Act (the "Act") with respect to financial measures such as support.
+[13] I find it hard to see how the Tax Court of Canada can confirm a child custody agreement in order to legitimize payment of the Canada Child Tax Benefit. That would definitely exceed its jurisdiction. The reverse is also true: a Superior Court judgment cannot alter the tax treatment of the Canada Child Tax Benefit.
+[14] At first glance, one may well wonder about the knowledge that certain lawyers may have of the provisions of the Act, knowledge that is nevertheless very important for their clients, particularly as regards the agreements they draft in matrimonial law.
+[15] However, the contrary may simply be the case; that is that some counsel are very much aware of the provisions of the Act.
+[16] In the instant case, in light of the Appellant's explanations, it appears that her former spouse had substantial income compared to hers. It was therefore advantageous to provide for clause 10, since the father's income clearly would have rendered him ineligible for the Child Tax Benefit and GSTC, hence the idea, no doubt, of assigning them to the mother, even though she did not have custody of the children. Such an agreement, however, is not binding on the Canada Customs and Revenue Agency ("CCRA").
+[17] Today, the Appellant, who clearly did not receive the relevant information at the time she agreed to sign the agreement at the origin of the instant case, is suffering the consequences of this situation.
+[18] It is not for me to wonder why the parties entered into such an agreement, confirmed by the Superior Court. The question of spousal and child support is not the jurisdiction of the Tax Court of Canada. It solely has jurisdiction to decide whether the assessment is valid under the provisions of the Act.
+[19] Had it not been for the notice concerning a change to the terms of the agreement, the situation would undoubtedly have lasted until the children had reached the age of majority.
+[20] The Appellant's former spouse ruined everything by filing an application for change respecting the Child Tax Benefit and GSTC and by describing the situation that had prevailed during the years in issue. The CCRA is strictly blameless in this matter; it essentially enforced the relevant provisions of the Act.
+[21] Today, the Appellant is facing a very large claim and is asking the Court to cancel it for the following reasons:
+· the Superior Court judgment rendered and signed by a judge;
+· the intervention of qualified lawyers in the drafting of the agreement that the parties signed;
+· the interests and welfare of the children;
+· all the amounts received were used for the children's welfare;
+· it is impossible to repay the amounts claimed;
+· the tragic consequences of such a debt on her health and the restrictions that that debt could cause, that is a one- or two-bedroom dwelling.
+[22] The provisions of the Act are very clear; I cite sections 122.5 and 122.6 of the Act below:
+122.5 (1) The following definitions apply in this section
+...
+"qualified dependant" of an individual, in relation to a month specified for a taxation year, means a person who at the beginning of the specified month:
+(a) is the individual's child or is dependent for support on the individual or on the individual's cohabiting spouse or common-law partner;
+(b) resides with the individual;
+(c) is under the age of 19 years;
+(d) is not an eligible individual in relation to the specified month;
+...
+122.6. In this subdivision,
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+...
+[23] There is no doubt that the determination in appeal in the instant case was made in accordance with the provisions of the Act. However, this is another case in which it is clear that the payment of the amount claimed will completely disrupt a taxpayer's life, possibly for a number of years. What is equally serious are the negative consequences that that claim will have on the Appellant's relationship with her children.
+[24] How can a mother stay calm and provide her children with the support they so need when she is the subject of such a claim and is financially incapable of meeting it? That, I agree, is a comment that exceeds my jurisdiction.
+[25] The provisions of the Act are very clear, and taxpayers must comply with them. To demonstrate how valid the assessment is, I cite the relevant passages of certain decisions.
+· In S. R. v. The Queen, 2003TCC649, docket 2003-602(IT)I, Bonner J. wrote at paragraph 12:
+12 The word "reside" with as used in the section 122.6 definition of the term "eligible individual" must be construed in a manner which reflects the purpose of the legislation. That legislation was intended to implement the child tax benefit. That benefit was introduced in 1993 with a view to providing a single non-taxable monthly payment to the custodial parent of a child. That payment was intended to benefit the child by providing funds to the parent who primarily fulfilled the responsibility for the care and upbringing of the child. The threshold test is whether the child resides with the parent. Physical presence of the child as a visitor in the residence of a parent does not satisfy the statutory requirement. The word "resident" as used in s. 122.6 connotes a settled and usual abode.
+· In Bachand v. Canada, [2004] T.C.J. No. 26, (Q.L.), O'Connor J. wrote at paragraph 7:
+7 ... It was also established that the father continued to pay child support to the Appellant in respect of Vinson and another child. Several cheques were filed as exhibits to establish this fact. However it is clear that the payment of child support is not sufficient to establish residence. The fact is that Vinson resided with his father during the relevant period. Although the Appellant did attend to the care and needs of Vinson on several occasions that is not sufficient to establish residence. As mentioned there are two conditions for entitlement one being residence with the qualified dependant and the other being the primary caregiver. It may be possible in certain circumstances to consider the Appellant as the primary caregiver but even if this is so the residence requirement was not met and consequently the Appellant is not the eligible individual.
+· In Picard v. Canada, [2005] T.C.J. No. 362. (Q.L.), Garon J. wrote at paragraphs 14 and 15:
+14 ... This is not a situation in which the word "resides" in paragraph (a) of the definition of "eligible individual" can be interpreted broadly, as it can be where the concept of "residence in Canada" is involved, for example. In the context of section 122.6, physical presence on the premises is required. In this regard, it is interesting - albeit not decisive because it is a regulatory enactment - to note the French wording of paragraph 6302(g) of the Income Tax Regulations, which states that one consideration for the purposes of the definition of paragraph (h) of the definition of "eligible individual" is "le fait d'être présent auprès d'elle", [being physically present for the person] where the person to whom the word "elle" refers is clearly the dependent.
+15 ... the Court held that the children spent the majority of their time with their father, and that the provision in issue relates to a quantitative measurement of time rather than a qualitative assessment of the capabilities of both parents in carrying out the functions set forth in section 6302 of the Income Tax Regulations, supra.
+· In Boutin v. Canada, [2004] T.C.J. No. 379 (Q.L.), Bédard J. of this Court stated at paragraph 12:
+12 The concept of "residing with the qualified dependant" has been defined on many occasions by the case law. The following is a brief review of the case law.
+· In Eliacin v. Canada, [1993] T.C.J. No. 144 (Q.L.), [1993] 2 C.T.C. 2635, Rip J. held, at pages 2637 and 2638:
+It may be said in light of this case law that the words "to reside with" have a broader definition and do not mean to live in a domestic relationship; they only mean to live in the same house as someone else. It also appears that Parliament should have used the word "cohabit" to denote the act of living as husband and wife.
+The Act uses only the words "reside with". The word "cohabitation" does not appear in the Act, and is of no relevance to the purposes of this appeal. Thus, the English case law does not help us.
+The word "résider" ([TRANSLATION] "reside") is defined by Le Petit Robert 1 as follows:
+[TRANSLATION]
+"10 To be established customarily in a place; to have one's residence there..."
+In English, The Shorter Oxford English Dictionary defines the word "reside" as:
+"... 2. To dwell permanently or for a considerable time, to have one's settled or usual abode, to live, in or at a particular place.
+The word "with", when used in the phrase "... the ... spouse ... resided with the taxpayer ..." in paragraph 63(3)(d) means two things: first, the spouse must reside customarily in the same building as the Appellant, and, second, there must be a domestic relationship between the two spouses and their children.
+· In Burton v. Canada, [1999] T.C.J. No. 833 (Q.L.) and Gibson v. Canada, [1999] T.C.J. No. 834 (Q.L.), Sarchuk J., cited in part this passage from Eliacin and added:
+I observe as well Black's Law Dictionary refers to "residence" as "personal presence at some place of abode with no present intention of definite and early removal and with the purpose to remain for undetermined period, not infrequently, but not necessarily combined with design to stay permanently".
+· In Lapierre v. Canada, [2005] T.C.J. No. 538 (Q.L.), Dussault J. wrote as follows:
+... All things considered, residence implies a certain constancy, a certain regularity or else a certain permanence according to a person's usual lifestyle in relation to a given place and is to be distinguished from what might be called visits or stays for specific purposes or of a sporadic nature. When the Act sets as a condition to reside with another person, I do not consider it appropriate to attribute to the verb "to reside" a meaning which deviates from the concept of residence as it has been developed by the courts. To reside with someone is to live or stay with someone in a given place with a certain constancy, a certain regularity or else in an habitual manner.
+[26] The Superior Court alone has jurisdiction to establish or restore the financial balance between parties who have chosen to end their marriage.
+[27] Consequently, the appeal is denied, without costs.
+Signed at Ottawa, Canada, this 17th day of March 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 16th day of August 2006.
+Monica F. Chamberlain, Reviser
+CITATION:
+2006TCC124
+COURT FILE NO.:
+2005-3422(IT)I
+STYLE OF CAUSE:
+Francine Laurin v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+February 13, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+March 17, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,168 @@
+Title: Misek c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/62746/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-278-62746-misek-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-09-10
+
+# Misek c. La Reine
+
+- Citation: 2013 CCI 278
+- Decision date: 2013-09-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6125, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Misek c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-09-10
+Référence neutre
+2013 CCI 278
+Numéro de dossier
+2012-2738(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2738(IT)I
+ENTRE :
+PETER MISEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 27 juin 2013, à Victoria (Colombie-Britannique)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelant :
+M. Frank Misek
+Avocate de l’intimée :
+Me Holly Popenia
+JUGEMENT
+Les appels relatifs aux nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007, 2008 et 2009 sont accueillis et ces nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu que :
+a) pour 2007, l’appelant a droit aux déductions supplémentaires suivantes :
+- des frais bancaires de 446,32 $;
+- des frais d’entretien et de réparation de 1 102,71 $;
+- des frais de carburant pour véhicule à moteur de 4 370 $;
+- des frais d’assurance automobile de 460 $;
+- une DPA de 2 422 $;
+b) pour 2008, l’appelant a droit aux déductions supplémentaires suivantes :
+- des frais d’entretien et de réparation de 1 022,19 $;
+- des frais de carburant pour véhicule à moteur de 2 913,92 $;
+- une DPA de 1 034 $;
+c) pour 2009, l’appelant a droit aux déductions supplémentaires suivantes :
+- des frais de carburant pour véhicule à moteur de 4 020,66 $;
+- des frais d’assurance automobile de 426 $;
+- une DPA de 1 317 $;
+d) une somme globale de 500 $ au titre des dépens est adjugée à l’appelant.
+Signé à Toronto (Ontario), ce 10e jour de septembre 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 10e jour d’octobre 2013.
+S. Tasset
+Référence : 2013 CCI 278
+Date : 20130910
+Dossier : 2012-2738(IT)I
+ENTRE :
+PETER MISEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] En 2007, en 2008 et en 2009, l’appelant, Peter Misek, était le propriétaire de Van Isle Artesian Springs, une entreprise de vente et de distribution d’eau embouteillée (l’« entreprise »). À cause de problèmes de santé, Peter Misek a laissé l’exploitation de l’entreprise à son fils, Frank. Après un long délai, et ce que Frank Misek qualifierait sans nul doute d’échanges tortueux avec l’Agence du revenu du Canada (l’« ARC »), le 17 décembre 2012 le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’endroit de Peter Misek. Au lieu des pertes de 9 002 $, de 8 284 $ et de 853 $ que ce dernier avait déduites, le ministre a ajouté des revenus de 10 957 $, de 13 075 $ et de 12 834 $ pour les années d’imposition 2007, 2008 et 2009, respectivement.
+[2] À l’instruction, Frank Misek a reconnu que les chiffres de revenu brut sur lesquels l’ARC s’était fondée étaient exacts, mais que certaines dépenses demeuraient en litige.
+[3] Il y a cinq grands chefs de dépenses contestés :
+Dépenses
+2007
+2008
+2009
+Frais bancaires/ frais d’intérêt
+446,32 $
+Entretien et réparations
+1 102,71 $
+1 022,19 $
+Carburant pour véhicule à moteur
+4 370,00 $
+2 913,92 $
+4 020,66 $
+Assurance automobile
+460,00 $
+426,00 $
+Déduction pour amortissement
+4 114,07 $
+2 919,84 $
+2 146,77 $
+TOTAL
+10 493,10 $
+6 855,95 $
+6 593,37 $
+L’intimée a concédé un certain nombre de ces points dans des observations écrites ultérieures, mais je souhaite traiter brièvement de toutes les questions en litige car M. Misek a passé un temps considérable à passer chacune d’elles en revue à l’instruction.
+Les frais bancaires/frais d’intérêt – 2007
+[4] L’appelant s’est servi de plusieurs cartes de crédit. Le ministre a refusé les frais bancaires liés à deux d’entre elles, Mosaic et MBNA, et n’a accepté que la moitié des dépenses liées à la carte GM de l’appelant, au motif que ces dépenses n’avaient pas été engagées en vue de tirer un revenu d’entreprise. Frank Misek a expliqué que les cartes Mosaic et MBNA comportaient des taux d’intérêt inférieurs et avaient donc servi à régler les soldes des autres cartes qui, a-t-il été admis, étaient utilisées à des fins commerciales. Frank Misek a produit des copies de documents originaux montrant que les cartes Mosaic et MBNA avaient servi à régler le solde des autres cartes. J’accepte que les frais liés à ces cartes ont bel et bien été engagés à des fins commerciales. Je conclus également que le fait que le ministre ait refusé 50 % des frais relatifs à la carte GM pour cause d’une certaine part d’usage personnel était arbitraire, et je suis convaincu, compte tenu de l’explication de Frank Misek sur l’usage de cette carte, que l’usage personnel a été minime. Je fais droit à ces frais bancaires de 446,32 $ à titre de dépense déductible.
+L’entretien et les réparations (1 102 $ en 2007 et 1 022 $ en 2008)
+[5] Ces frais étaient justifiés par des tableaux indiquant chacune des dépenses, de pair avec les factures justificatives. Le ministre a refusé les dépenses susmentionnées parce qu’elles n’avaient pas été engagées en vue de produire un revenu.
+[6] Les tableaux que Frank Misek a établis indiquent non seulement les articles achetés mais aussi le secteur dans lequel ils ont été utilisés; par exemple, la somme de 554 $ engagée en mai 2007 correspondait à un achat effectué auprès de Corix Water Products relativement à des tuyaux en PVC utilisés au puits. Voici une liste du genre d’articles qui ont été achetés : brides, scellants, peinture, acier inoxydable, raccords de tuyauterie, matériaux de couverture, colle, écrous et boulons, bobines et clous, etc. Je présume, d’après les rapports du vérificateur et de l’agent des appels qui ont été produits dans le cadre de la série de plus de 800 pages de documents de l’appelant, que le gouvernement s’est dit qu’une partie de l’entrepôt était peut-être réservée à un usage personnel ou destinée à être louée ultérieurement et que, de ce fait, une partie de ces achats n’étaient pas admissibles en tant que dépenses engagées dans le cadre de l’entreprise ou constituaient des dépenses en capital. Le gouvernement n’a appelé aucun témoin.
+[7] J’ai en main la preuve de Frank Misek que l’entrepôt était utilisé uniquement à des fins commerciales. Il a produit des photographies des locaux commerciaux. Il est vrai que les Misek ont aménagé une salle de bains et une cuisine (sans installations de cuisson) dans l’entrepôt (j’en dirai davantage sur le sujet plus loin) mais, étant donné que leur lieu de résidence se trouvait à une distance de quelques centaines de pieds, je ne considère pas que cet ajout était de nature personnelle. De plus, vu la nature des dizaines de petits montants qui composent ces dépenses, il m’est impossible de conclure que l’une quelconque de ces dernières soit une dépense en capital; il s’agit certainement plus de dépenses courantes. Je fais droit à ces déductions.
+Le carburant pour véhicule à moteur
+[8] Frank Misek a produit un calcul détaillé de la distance parcourue ainsi que des prix de l’essence qui ont été utilisés pour estimer les frais de carburant. Plus important encore, il a produit une liste des frais réels, plus les reçus connexes, en indiquant la date et la station-service. Le ministre n’a pas fait droit au plein montant de ces frais de carburant parce que l’estimation du vérificateur était inférieure et qu’un certain pourcentage des frais étaient liés à un usage personnel. Frank Misek a déclaré qu’un seul des véhicules, la Buick, avait été utilisé à des fins personnelles et que les frais connexes étaient déjà soustraits des dépenses d’entreprise déduites. Le ministre est d’avis que M. Misek n’a pas fourni assez de renseignements justificatifs pour prouver la ventilation des frais d’entreprise et des frais personnels. Tout bien considéré, j’accepte l’explication et les chiffres de Frank Misek, et je fais donc droit aux frais de carburant additionnels de 4 370 $, de 2 931,92 $ et de 4 020,60 $ pour 2007, 2008 et 2009, respectivement.
+L’assurance-automobile
+[9] Les frais d’assurance additionnels dont l’appelant a demandé la déduction ont trait à la Buick, le seul véhicule qui semble avoir servi à des fins à la fois commerciales et personnelles. Les frais d’assurance relatifs à ce véhicule (qui ont été prouvés par des pièces justificatives) s’élevaient à 919 $ en 2007 et à 850 $ en 2009, mais l’appelant ne cherche à déduire que la somme de 446,32 $ pour 2007 et de 426 $ pour 2009. Je conclus que l’usage personnel a déjà été pris en compte, et je fais donc droit aux frais additionnels de 446,32 $ et de 426 $ pour 2007 et 2009, respectivement.
+La déduction pour amortissement
+[10] En dernier lieu, voyons la déduction pour amortissement (« DPA ») additionnelle dont l’appelant souhaite se prévaloir. Il y a, à cet égard, deux points litigieux : premièrement, en rapport avec les véhicules à moteur non assurés pour la conduite, et donc non inclus par le ministre dans les calculs relatifs à la DPA, et deuxièmement, en rapport avec les rénovations effectuées à l’entrepôt qui, d’après le ministre, étaient destinées à un usage personnel plutôt que commercial.
+[11] En ce qui concerne les camions non assurés, il est ressorti du témoignage, étayé par des photographies, de Frank Misek que ces véhicules (un camion GMC de 1982, un camion International de 1981 et un camion International de six tonnes de 1988) servaient d’installations d’entreposage. Ils étaient isolés contre les intempéries et aussi plus faciles à charger et à décharger que si l’on stockait les articles dans l’entrepôt. D’après les photographies, il était évident aussi que, dans l’entrepôt, l’espace d’entreposage était restreint. J’accepte l’explication de Frank Misek et je conclus que ces vieux camions ont été ajoutés à juste titre au coût en capital de biens de la catégorie 10, à titre d’immobilisations valides de l’entreprise.
+[12] Quant aux rajouts immobiliers effectués à l’entrepôt, dans le cadre de la rénovation d’une salle de bains et d’une cuisine, je conclus que l’entrepôt était entièrement consacré à l’entreprise. La prétendue cuisine ne comportait pas de réfrigérateur ou de cuisinière, mais un évier avait été ajouté et un coin-repas créé. La salle de bains était munie d’une toilette et d’une douche. Dans un des rapports, le vérificateur indique qu’une pièce pouvait servir de chambre à coucher. Les photographies ainsi que le témoignage de Frank Misek me convainquent qu’il s’agissait de bureaux et non de chambres à coucher. Je conclus que le seul usage était de nature commerciale et que les rajouts immobiliers ont été ajoutés à juste titre à la catégorie 1.
+[13] L’intimée n’a pas mis en doute les chiffres de l’appelant qui se rapportaient à la DPA, à part un ajout de 29 149 $, pour 2003, à la catégorie 10 : l’appelant n’a demandé qu’un ajout de 9 798 $. Cela a eu pour effet de réduire la DPA additionnelle que l’appelant avait demandée pour 2007 de 4 114 $ à 2 422 $, pour 2008 de 2 219 $ à 1 034 $, et pour 2009 de 2 147 $ à 1 317 $. Ces réductions représentent la différence entre la DPA calculée au taux de 30 % sur la somme de 9 799 $, plutôt que sur celle de 29 149 $, pour 2003 (cela inclut une reconnaissance de la règle des 50 % en 2003). À tous autres égards, l’intimée s’est simplement fondée sur les deux bases susmentionnées pour ne pas inclure de biens dans les catégories 1 et 10. Compte tenu de ma conclusion, je fais droit aux déductions pour amortissement, sous réserve seulement des changements indiqués plus tôt.
+[14] L’analyse des dépenses contestées que Frank Misek a présentée est la plus minutieuse et détaillée qu’il m’ait été donné de voir dans une affaire plaidée sans la présence d’un avocat. Ses documents étaient bien structurés et exhaustifs. Il souhaitait s’étendre quelque peu sur les obstacles et le traitement inapproprié que, selon lui, des fonctionnaires de l’ARC lui avait fait subir mais, comme je le lui ai indiqué, la Cour ne s’occupe que de la justesse de la cotisation et je ne lui ai donc permis de traiter que des véritables questions litigieuses soumises à la Cour. Il est regrettable qu’il ait fallu engager autant de temps et d’argent pour faire trancher la présente affaire. Frank Misek a manifestement fait des efforts considérables pour prouver sa position, et c’est ce qu’il a fait. Dans ces circonstances, je conclus qu’il y a lieu d’ordonner l’octroi d’une somme globale de 500 $ à titre de dépens.
+[15] Les appels sont accueillis et renvoyés au ministre pour nouvel examen et nouvelle cotisation, étant entendu que :
+a) pour 2007, l’appelant a droit aux déductions supplémentaires suivantes :
+- des frais bancaires de 446,32 $;
+- des frais d’entretien et de réparation de 1 102,71 $;
+- des frais de carburant pour véhicule à moteur de 4 370 $;
+- des frais d’assurance automobile de 460 $;
+- une DPA de 2 422 $;
+b) pour 2008, l’appelant a droit aux déductions supplémentaires suivantes :
+- des frais d’entretien et de réparation de 1 022,19 $;
+- des frais de carburant pour véhicule à moteur de 2 913,92 $;
+- une DPA de 1 034 $;
+c) pour 2009, l’appelant a droit aux déductions supplémentaires suivantes :
+- des frais de carburant pour véhicule à moteur de 4 020,66 $;
+- des frais d’assurance automobile de 426 $;
+- une DPA de 1 317 $.
+Comme je l’ai indiqué, j’adjuge également à l’appelant une somme globale de 500 $ à titre de dépens.
+Signé à Toronto (Ontario), ce 10e jour de septembre 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 10e jour d’octobre 2013.
+S. Tasset
+RÉFÉRENCE : 2013 CCI 278
+No DU DOSSIER DE LA COUR : 2012-2738(IT)I
+INTITULÉ : PETER MISEK ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 27 juin 2013
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DES MOTIFS : Le 10 septembre 2013
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Frank Misek
+Avocate de l’intimée :
+Me Holly Popenia
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelant :
+Nom : S.O.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

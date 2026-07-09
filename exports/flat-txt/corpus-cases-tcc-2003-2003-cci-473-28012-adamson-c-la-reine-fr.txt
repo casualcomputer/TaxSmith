@@ -1,0 +1,63 @@
+Title: Adamson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28012/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-473-28012-adamson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-07-04
+
+# Adamson c. La Reine
+
+- Citation: 2003 CCI 473
+- Decision date: 2003-07-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1629, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adamson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-04
+Référence neutre
+2003 CCI 473
+Numéro de dossier
+2003-912(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI473
+Date : 20030704
+2003‑912(IT)G
+ENTRE :
+JAMES E. ADAMSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 17 juin 2003 à Toronto (Ontario), par
+l’honorable juge J. M. Woods
+COMPARUTIONS :
+Pour l’appelant : l’appelant lui‑même
+Avocat de l’intimée : Me A’Amer Ather
+ORDONNANCE ET MOTIFS DE L’ORDONNANCE
+ATTENDU QUE lors de la présentation de la requête de l’intimée en vue d’obtenir une ordonnance radiant certaines parties de l’avis d’appel, l’appelant a cherché à obtenir une ordonnance pour :
+1. suspendre toutes les étapes du présent appel; ou
+2. exiger de l’intimée qu’elle dépose et signifie un avis de réponse à l’avis d’appel d’ici le 20 juin 2003;
+ET ATTENDU QUE les observations écrites et orales faites à la Cour durant l’audience ont décrit les instances entre les parties devant la Cour fédérale du Canada, Division de première instance, et la Cour d’appel fédérale;
+ET ATTENDU qu’il semble juste, rapide et moins coûteux de différer l’audition de la requête de l’intimée jusqu’à ce qu’aient été tranchées les questions pendantes devant la Cour d’appel fédérale, de manière à ce que la Cour canadienne de l’impôt puisse bénéficier de l’assistance de la Cour d’appel fédérale;
+LA COUR ORDONNE :
+1. La requête de l’intimée en radiation de certaines parties de l’avis d’appel est ajournée jusqu’à ce que les questions pendantes devant la Cour d’appel fédérale, numéros du greffe A‑179‑02 et A‑180‑02, aient été tranchées.
+2. Le délai imparti pour signifier et déposer une réponse à l’avis d’appel est prorogé à une date se situant 60 jours après que la requête de l’intimée en radiation de certaines parties de l’avis d’appel aura fait l’objet d’une décision.
+Signé à Toronto (Ontario), ce 4e jour de juillet 2003.
+« J. M. Woods »
+Juge
+Traduction certifiée conforme
+ce 13e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur

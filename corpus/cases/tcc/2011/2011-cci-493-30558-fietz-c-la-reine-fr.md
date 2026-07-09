@@ -1,0 +1,244 @@
+---
+title: "Fietz c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30558/index.do"
+last_modified: "2011-10-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 493"
+citation2: ""
+neutral_citation: "2011 CCI 493"
+decision_date: "2011-10-20"
+language: "fr"
+item_id: "30558"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7299
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:32:02.832000+00:00"
+cases_cited_count: 5
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b5da9168c0e2baf8ca6cf37a2d3dfb1f7aca0a1e2992d1cce31922f42fe3a321"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fietz c. La Reine
+
+- Citation: 2011 CCI 493
+- Decision date: 2011-10-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7299, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fietz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-20
+Référence neutre
+2011 CCI 493
+Numéro de dossier
+2010-1738(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1738(IT)G
+ENTRE :
+GUY FIETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 8 septembre 2011, à Winnipeg (Manitoba).
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l'appelant :
+Me Mark Wallace
+Avocat de l'intimée :
+Me Julien Bédard
+__________________________________________________________________
+JUGEMENT
+Pour les motifs qui suivent, je conclus que la renonciation à l'application de la période normale de nouvelle cotisation signée par l'appelant le 2 février 2006, dont une copie constitue la pièce G de l'affidavit de Sally Yu déposé à la Cour le 31 mai 2011, a pour effet de permettre au ministre du Revenu national d'établir une nouvelle cotisation à l'égard de l'appelant (selon la nouvelle cotisation établie à l'égard de celui‑ci le 28 juillet 2006) conformément au sous‑alinéa 152(4)a)(ii) de la Loi de l'impôt sur le revenu (la « Loi ») relativement à l'année d'imposition 2002 après l'expiration de la période normale de nouvelle cotisation pour l'année en question.
+L'intimée a droit aux dépens, qui devront lui être payés quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 20e jour d'octobre 2011.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 20e jour de décembre 2011
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 493
+Date : 20111020
+Dossier : 2010-1738(IT)G
+ENTRE :
+GUY FIETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Les parties ont présenté une requête conjointe en vertu de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale), qui dispose ce qui suit :
+58(1) Une partie peut demander à la Cour,
+a) soit de se prononcer, avant l'audience, sur une question de droit, une question de fait ou une question de droit et de fait soulevée dans une instance si la décision pourrait régler l'instance en totalité ou en partie, abréger substantiellement l'audience ou résulter en une économie substantielle des frais;
+b) soit de radier un acte de procédure au motif qu'il ne révèle aucun moyen raisonnable d'appel ou de contestation de l'appel,
+et la Cour peut rendre jugement en conséquence.
+[2] Aux termes de l'ordonnance du 8 juin 2011, la Cour a énoncé de la manière suivante la question à trancher :
+[TRADUCTION]
+La renonciation à l'application de la période normale de nouvelle cotisation signée par l'appelant le 2 février 2006, dont une copie constitue la pièce G de l'affidavit de Sally Yu déposé à la Cour, a‑t‑elle pour effet de permettre au ministre du Revenu national d'établir une nouvelle cotisation à l'égard de l'appelant conformément au sous-alinéa 152(4)a)(ii) de la Loi de l'impôt sur le revenu (la « Loi ») relativement à l'année d'imposition 2002 après l'expiration de la période normale de nouvelle cotisation pour l'année en question?
+[3] L'affidavit de Sally Yu a été déposé au dossier de la Cour le 31 mai 2011.
+[4] Le paragraphe 152(4) de la Loi de l'impôt sur le revenu (la « Loi ») prévoit notamment ce qui suit :
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l'année;
+[...]
+[5] Si une renonciation lui a été présentée, le ministre peut établir une nouvelle cotisation à l'égard du contribuable après l'expiration de la période normale de nouvelle cotisation sans avoir à établir que le contribuable a fait une présentation erronée des faits au sens du sous‑alinéa 152(4)a)(i) de la Loi[1]. La nouvelle cotisation doit toutefois se rapporter à l'objet de la renonciation. Le paragraphe 152(4.01) de la Loi prévoyait notamment ce qui suit dans sa rédaction en vigueur en 2002 :
+152(4.01) Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s'appliquent les alinéas (4)a) ou b) relativement à un contribuable pour une année d'imposition ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans la mesure où il est raisonnable de considérer qu'elle se rapporte à l'un des éléments suivants :
+a) en cas d'application de l'alinéa (4)a) :
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenu de celui-ci pour l'année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de la présente loi,
+(ii) une question précisée dans une renonciation présentée au ministre pour l'année;
+[6] Comme nous le verrons plus loin, étant donné que la renonciation est liée à la nouvelle cotisation en raison des dispositions du paragraphe 152(4.01) de la Loi, la question qui m'est soumise en l'espèce est celle de savoir si la renonciation versée au dossier permet au ministre d'établir une nouvelle cotisation à l'égard de l'appelant selon la nouvelle cotisation qui a été établie le 28 juillet 2006. La question particulière que soulève la renonciation est le fait que le formulaire de renonciation ne précise pas l'objet de la renonciation. La case dans laquelle l'objet de la renonciation devait être précisé a été laissée en blanc. Aucun autre problème n'a été soulevé ou débattu en ce qui concerne la renonciation.
+[7] L'Agence du revenu du Canada (l'« ARC ») avait effectué une vérification des années d'imposition 2002 et 2003 de l'appelant. Le 2 mai 2005, la vérificatrice de l'ARC a adressé à l'appelant une lettre dans laquelle elle expliquait que l'ARC avait effectué un examen limité de sa déclaration de revenus de 2002. Dans cette lettre, la vérificatrice demandait à l'appelant de soumettre des documents justifiant les montants qu'il avait déclarés à titre de gains en capital à l'annexe 3 de sa déclaration de revenus.
+[8] Au cours des mois suivants, la vérificatrice de l'ARC et l'appelant ont échangé des appels téléphoniques et des messages téléphoniques. L'appelant a expliqué qu'il attendait que son avocat lui communique des renseignements complémentaires. L'appelant a soumis à la vérificatrice un formulaire de consentement indiquant que son avocat, Me Howard Morry[2], devait le représenter. À la suite de la réception du formulaire de consentement, Me Morry et la vérificatrice ont échangé des messages téléphoniques. Le 10 octobre 2005, Me Morry a laissé à la vérificatrice un message téléphonique lui indiquant [TRADUCTION] qu'« il recueillerait les documents à l'appui et les enverrait la semaine suivante »[3]. La vérificatrice n'a pas reçu les documents à l'appui que Me Morry avait dit qu'il communiquerait.
+[9] Le 18 novembre 2005, la vérificatrice a envoyé à l'appelant une lettre (la « lettre de proposition ») dans laquelle elle exposait les rajustements proposés au revenu de l'appelant et à ses crédits d'impôt pour dividendes pour 2002 et 2003. Voici les rajustements qui étaient proposés :
+a) augmenter le montant imposable des dividendes reçus;
+b) augmenter le montant imposable des dividendes réputés reçus;
+c) augmenter le montant du gain en capital imposable;
+d) augmenter le montant des revenus d'intérêts;
+e) augmenter le montant des avantages imposables;
+f) augmenter le montant du revenu d'emploi;
+g) augmenter le montant des crédits d'impôt pour dividendes.
+[10] Les rajustements ont, avec les notes s'y rapportant, trois pages et demie de longueur. Dans la lettre, il était indiqué que l'établissement des nouvelles cotisations projetées serait différé pour une période de 30 jours à compter de la date de la lettre pour permettre à l'appelant de soumettre des renseignements ou des explications complémentaires.
+[11] À la suite de cette lettre, Me Morry a laissé le 10 décembre 2005 un message téléphonique dans lequel il demandait une prorogation du délai imparti pour répondre à la lettre de proposition. Il a également formulé cette demande dans une lettre du 12 décembre 2005 dans laquelle il déclarait notamment ce qui suit : [TRADUCTION] « La présente demande est motivée par la complexité des cotisations projetées ainsi que par la période des Fêtes qui approche. Nous aimerions obtenir une prorogation au moins au 18 janvier 2006. »
+[12] La demande de prorogation a été accordée. Le 18 janvier 2006, Me Morry a envoyé par télécopieur une lettre dont voici un extrait :
+[TRADUCTION]
+J'ai passé la journée d'hier à Calgary à recueillir des renseignements complémentaires en vue de répondre aux nouvelles cotisations projetées relativement aux contribuables susmentionnés. Nous sommes en train de passer en revue les renseignements et les documents que nous avons reçus ainsi que les entretiens que nous avons eus avec les contribuables et leurs représentants. Nous avons besoin d'un peu plus de temps pour terminer notre examen. Toutefois, dans l'intervalle, nous tenons à signaler ce qui suit :
+1. En ce qui concerne Triton Global Business Services Inc., KPMG nous a confirmé qu'ils auraient dû rajouter la radiation comptable nette de 472 869 $ à l'égard de la filiale. Il s'agit d'un oubli de leur part.
+2. Nous n'avons pas de copie des lettres qui auraient pu être envoyées à Lori Fietz. Nous croyons toutefois comprendre qu'une lettre a pu être envoyée (vraisemblablement afin de réduire les dividendes inclus dans ses revenus pour l'année 2002). Pourriez‑vous nous envoyer une copie de cette lettre, si elle existe?
+3. Vous avez expliqué dans votre message téléphonique que nous devrions présenter une demande officielle pour obtenir une exonération des gains en capital. Veuillez considérer la présente lettre comme une demande formelle.
+Nous vous soumettrons sous peu nos observations au sujet des autres cotisations projetées. Nous tenons à vous remercier de votre patience.
+[13] Après avoir reçu la lettre de Me Morry envoyée par télécopie le 18 janvier 2006, la vérificatrice de l'ARC a laissé à ce dernier un message téléphonique dans lequel elle lui expliquait que, comme une partie des revenus pour lesquels l'appelant avait fait l'objet d'une nouvelle cotisation comprenait des montants qui avaient été inclus dans les revenus de Mme Fietz, la déclaration de revenus de Mme Fietz ferait, dès que les revenus de 2002 de l'appelant auraient été arrêtés, l'objet d'une nouvelle cotisation pour réduire les revenus de Mme Fietz en proportion du montant inclus dans le revenu de l'appelant.
+[14] Le 20 janvier 2006, l'assistante de Me Morry, Bobbi Fielding, a appelé la vérificatrice de l'ARC pour discuter d'une renonciation à la période normale de nouvelle cotisation dans le cas de Mme Fietz. La vérificatrice de l'ARC a expliqué que l'on pouvait se procurer le formulaire de renonciation sur le site Web de l'ARC et que toute nouvelle cotisation relative à Mme Fietz pour son année d'imposition 2002 établie le 23 mai 2006 ou après cette date serait établie après l'expiration de la période normale de nouvelle cotisation pour Mme Fietz pour l'année en question. La vérificatrice et Bobbi Fielding ont également discuté de la période normale de nouvelle cotisation applicable à la déclaration de revenus de 2002 de l'appelant et la vérificatrice a expliqué que cette période allait expirer le 23 mai 2006. Plus tard le même jour, la vérificatrice a rappelé Mme Fietz pour lui expliquer que le numéro du formulaire de renonciation était le T2029.
+[15] Des copies des renonciations ont été envoyées par télécopieur à la vérificatrice de l'ARC le 6 février 2006. La vérificatrice a examiné les copies des renonciations qu'elle avait reçues par télécopieur. La partie du formulaire de renonciation de l'appelant dans laquelle devait être indiqué l'objet de la renonciation avait été laissée en blanc.
+[16] Le 13 février 2006, Bobbi Fielding a appelé la vérificatrice de l'ARC parce qu'elle voulait obtenir des éclaircissements au sujet de la date à laquelle la période normale de nouvelle cotisation de l'appelant prendrait fin. La vérificatrice a répondu que la période normale de nouvelle cotisation relative à l'année d'imposition 2002 de l'appelant prendrait fin le 23 mai 2006. La vérificatrice a également expliqué que dès que l'ARC [TRADUCTION] « reçoit une renonciation signée, il était possible d'établir une nouvelle cotisation relativement à l'année 2002 après l'expiration de la période normale de nouvelle cotisation »[4].
+[17] Le 16 février 2006, la vérificatrice a expliqué que le délai imparti pour répondre à la lettre de proposition avait été prorogé au 27 février 2006.
+[18] Le 16 février 2006, Me Morry, l'avocat de l'appelant, a envoyé à la vérificatrice de l'ARC une lettre à laquelle étaient annexés les formulaires de renonciation originaux. Maître Morry a déclaré ce qui suit dans cette lettre :
+[TRADUCTION]
+Vous trouverez ci‑joints les originaux des documents suivants en réponse à votre demande :
+1. La renonciation portant sur la période normale de nouvelle cotisation signée par Guy Fietz le 2 février 2006;
+2. La renonciation relativement à la période normale de nouvelle cotisation signée par Lori Fietz le 2 février 2006;
+3. L'autorisation de divulguer des renseignements signée le 27 janvier 2006 par Lori Fietz.
+[19] La vérificatrice de l'ARC a reçu la lettre et les formulaires originaux de renonciation le 22 février 2006. Elle a accusé réception de ces documents en appelant Bobbi Fielding le 23 février 2006. Il n'a pas été question à ce moment‑là d'une prorogation du délai fixé au 27 février 2006 pour répondre à la lettre de proposition.
+[20] Le 10 avril 2006, la vérificatrice de l'ARC a appelé Gordon Ellison en lui expliquant qu'elle était sans nouvelles du cabinet de Me Morry depuis le 23 février 2006. La vérificatrice a demandé à Gordon Ellison si Me Morry avait d'autres renseignements à soumettre, et Gordon Ellison a répondu qu'il communiquerait avec Me Morry.
+[21] Le 14 avril 2006, Bobbi Fielding a présenté une autre demande de prorogation du délai imparti pour répondre à la lettre de proposition. Le délai a été de nouveau prorogé au 26 avril 2006. La vérificatrice a aussi demandé à Bobbi Fielding de demander à Me Morry de l'appeler le 1er mai 2006. Le 1er mai 2006 et le 4 mai 2006, la vérificatrice a laissé des messages téléphoniques à Me Morry lui demandant de la rappeler. Bobbi Fielding et la vérificatrice ont échangé des messages téléphoniques le 8 mai 2006. Le 9 mai 2006, Bobbi Fielding a appelé la vérificatrice pour lui dire que Me Morry était malade. On a fixé au 11 mai 2006 la date à laquelle Me Morry et la vérificatrice devaient discuter du dossier. Le 11 mai 2006, Me Morry et la vérificatrice ont discuté du dossier et Me Morry lui a dit qu'il lui ferait parvenir sa réponse à la lettre de proposition le 12 mai 2006.
+[22] Le 17 mai 2006, la vérificatrice a reçu une lettre écrite le 12 mai 2006 dans laquelle Me Morry déclarait ce qui suit :
+[TRADUCTION]
+La présente fait suite à la nouvelle cotisation projetée de Guy Fietz :
+1. En ce qui concerne la note 1, si vous n'acceptez pas les dividendes distincts, nous vous demandons de procéder au rajustement correspondant dans le cas de Lori Fietz.
+2. En ce qui concerne les notes 2 et 3, M. Fietz maintient que la contrepartie récupérée de Triton Global Business Services Inc. (« TGBSI ») à la suite de la vente des actions que M. Fietz détenait dans Triton Global Communications Inc. avait la valeur qui lui avait été attribuée dans ses déclarations de revenus. À titre d'élément de preuve complémentaire, les 2 775 000 actions de TGBSI qui ont été récupérées ont été échangées pour des actions d'une société cotée en bourse appelée NeoMedia Technologies Inc. (dont aucune des actions n'a été vendue), dont la valeur était de 374 000 dollars américains, soit une fraction (30 %) de la valeur de 1 248 750 $ que vous attribuez aux actions. Monsieur Fietz maintient également qu'il était titulaire de la moitié des actions au profit de sa femme, Lori. Si vous n'acceptez pas les affirmations de M. Fietz, nous vous demandons de nouveau d'appliquer la déduction pour gain en capital en réduisant d'autant les gains en capitaux de M. Fietz et de rajuster en conséquence la déclaration de revenus de Lori Fietz. Enfin, nous tenons pour acquis que les 2 775 000 actions que M. Fietz a récupérées lors de l'opération auront un prix de base rajusté de 1 940 932 $ en dépit de la réduction du capital versé. Veuillez confirmer.
+3. En ce qui concerne la note 4, les intérêts n'ont pas été versés et ne devraient donc pas être calculés dans les revenus de M. Fietz. Si toutefois ils sont inclus, nous vous demandons de procéder à une réduction correspondante en ce qui concerne le revenu de TGBSI.
+[23] L'appelant a par la suite fait l'objet d'une nouvelle cotisation pour les années 2002 et 2003. Le seul changement qui a été effectué par rapport au projet de nouvelle cotisation exposé dans la lettre de proposition était un montant qui a été accordé à titre de déduction pour gains en capital. À tout autre égard, la nouvelle cotisation correspondait à la cotisation projetée mentionnée dans la lettre.
+[24] L'appelant a affirmé que la renonciation était invalide en raison du passage suivant du formulaire T2029 :
+Pour qu'une renonciation soit valide, le ou les points qui font l'objet de la renonciation doivent être mentionnés dans l'espace prévu [...]
+[25] L'appelant a soutenu que puisque le formulaire T2029 qui a été produit ne mentionnait aucun objet, la renonciation n'était pas valide. Il me semble toutefois que la validité ou l'invalidité de la renonciation dépend des dispositions de la Loi et de la jurisprudence et non de ce qui est écrit dans le formulaire. Les mots d'un formulaire ne peuvent changer la Loi ou la jurisprudence ou rendre valide une renonciation par ailleurs invalide ou vice-versa.
+[26] L'appelant a également formulé un argument en se fondant sur les propos suivants tenus par le juge Sheridan dans le jugement Holmes c. La Reine, 2005 CCI 403 :
+19 [...] dans l'esprit de la Loi de l'impôt sur le revenu, alors que le pouvoir et l'obligation de prescrire la forme de la renonciation et de déterminer si la question a été correctement énoncée et si elle doit être acceptée telle qu'elle a été « présentée » incombent exclusivement au ministre [...] Si M. LeDuc avait rejeté la renonciation dans sa version modifiée, par exemple, Mme Holmes aurait été dans l'impossibilité d'exiger que le ministre l'accepte.
+[27] Voici l'argument formulé par l'appelant :
+[TRADUCTION]
+Monsieur Fietz estime que Mme Yu devait déterminer si l'objet de la renonciation était correctement indiqué. Monsieur Fietz affirme en outre que, comme la case dans laquelle l'objet de la renonciation devait être indiqué a été laissée en blanc, Mme Yu n'avait d'autre choix que de conclure que l'objet de la renonciation n'avait pas été correctement indiqué. La seule ligne de conduite raisonnable que pouvait adopter Mme Yu consistait à rejeter la renonciation au motif qu'elle était invalide.
+[28] Dans l'arrêt Mitchell c. La Reine, [2003] 2 C.F. 767, 2002 CAF 407, le juge Sexton, qui s'exprimait au nom de la Cour d'appel fédérale, a déclaré ce qui suit :
+40 Il me semble que Revenu Canada est obligé de considérer tout document comme une renonciation, à condition qu'il contienne les renseignements nécessaires. Revenu Canada n'a pas le choix lorsqu'il s'agit d'accepter ou de refuser une renonciation. Une renonciation est un privilège reconnu au contribuable et, si elle est envoyée, Revenu Canada ne peut pas omettre d'en tenir compte.
+[29] À la suite du contre‑interrogatoire de la vérificatrice de l'ARC par l'avocat de l'appelant (une copie de la transcription a été présentée à l'audience), l'avocat de l'intimée a posé quelques questions, qui ont donné lieu à l'échange suivant :
+[TRADUCTION]
+Q. Il vous a demandé plus tôt si vous aviez examiné la renonciation et si vous aviez appelé Bobby [sic] ou Howard pour les informer que la renonciation était incomplète, et vous avez répondu par la négative. Pouvez‑vous nous expliquer pourquoi?
+R. Eh bien, puisque le formulaire avait été rempli par un avocat, je n'ai pas prévu qu'il pouvait être invalide. Lorsque j'ai reçu la renonciation, j'ai vérifié le nom du contribuable, son numéro d'assurance sociale et l'année d'imposition. Ces renseignements étaient exacts. La renonciation portait aussi la signature du contribuable ou de son représentant légal et elle était datée.
+Q. Merci. Lorsque vous avez reçu la renonciation, sur quoi portait selon vous la renonciation?
+R. Tous les rajustements précisés dans mes lettres de proposition.
+[30] Il me semble que la vérificatrice de l'ARC a simplement tenu pour acquis que, comme la renonciation lui avait été soumise par l'avocat de l'appelant, elle était valide et que l'objet de la renonciation correspondait aux points indiqués dans la lettre de proposition. Il me semble qu'il est important de déterminer l'intention des parties en ce qui concerne la renonciation.
+[31] Dans l'affaire Holmes, le vérificateur de l'ARC avait préparé un formulaire de renonciation, mais les experts‑comptables de l'appelant y avaient apporté certaines modifications. La question qui se posait était celle de savoir si la nouvelle cotisation (qui avait été établie après l'expiration de la période normale de nouvelle cotisation) se rapportait au point précisé dans la renonciation. Ainsi que le juge Sheridan l'a fait observer :
+16 Quand on examine l'objet d'une renonciation, il convient de chercher à déterminer l'intention des parties. [...]
+[32] Le juge a renvoyé, dans une note de bas de page, au jugement Solberg c. La Reine, no T‑942‑89, 13 août 1992, [1992] A.C.F. no 709 (QL) (C.F. 1re inst.). Dans l'affaire Solberg, la question en litige était celle de savoir si une renonciation qui renvoyait à la partie III de la Loi pouvait justifier l'établissement d'une nouvelle cotisation en vertu de la partie I de la Loi. Le juge Reed a déclaré ce qui suit :
+Ayant conclu que la mention de la partie III dans la renonciation était une erreur, je dois examiner si la renonciation est nulle aux fins de l'établissement à l'égard du contribuable d'une nouvelle cotisation portant sur l'impôt visé à la partie I. Je ne suis pas disposée à conclure de la sorte. À mon avis, l'erreur est un vice matériel qui ne nuit pas à la substance de la renonciation. Pour interpréter ce document, il convient de vérifier l'intention que les parties y ont exprimée en tenant compte de toutes les circonstances pertinentes au sujet desquelles il existe une preuve. C'est la méthode qui a été adoptée pour l'interprétation des lois fiscales elles‑mêmes, voir, par exemple, l'arrêt Stubart Investments Ltd. v. The Queen, 84 D.T.C. 6305 à la page 6323 (C.S.C.).
+[33] La Cour d'appel fédérale a approuvé cette démarche dans l'arrêt Mitchell, précité. Le juge Sexton, qui s'exprimait au nom de la Cour d'appel fédérale, a déclaré ce qui suit :
+37 Troisièmement, dans la décision Solberg (S. J.) c. Canada, [1992] 2 C.T.C. 208 (C.F. 1re inst.), le contribuable avait signé une renonciation à l'égard du délai de quatre ans applicable à l'établissement d'une nouvelle cotisation pour l'année d'imposition 1979 conformément au sous‑alinéa 152(4)a)(ii) de la Loi de l'impôt sur le revenu, mais il s'était par la suite opposé à la nouvelle cotisation parce que la renonciation s'appliquait uniquement à l'impôt prévu à la partie III de la Loi, alors que la nouvelle cotisation concernait la partie I. Dans la décision Solberg, la Section de première instance de la Cour fédérale a statué que la mention de la partie III, dans la renonciation, avait été insérée par erreur, mais qu'il s'agissait uniquement d'une erreur de forme qui n'influait pas sur le fond de la renonciation. L'approche qu'il convient d'adopter à l'égard de l'interprétation de la renonciation consiste à chercher à déterminer l'intention des parties telle qu'elle est exprimée dans ce document ainsi que par les circonstances pertinentes pour lesquelles il existe des éléments de preuve. La Cour a conclu que la renonciation n'était pas nulle par suite de l'erreur parce que les circonstances de l'affaire et le texte de la renonciation dans son ensemble montraient que les deux parties savaient quelle était la question en litige. L'approche adoptée par la Cour dans la décision Solberg devrait s'appliquer dans le cas qui nous occupe.
+[34] Par conséquent, la méthode qu'il convient d'adopter consiste à décider si l'intention des parties peut être discernée du formulaire et des circonstances de l'affaire. Selon la thèse de l'appelant, l'on ne doit rien interpoler dans la renonciation en ce qui concerne l'objet relativement auquel on renonce à la période normale de nouvelle cotisation, et l'appelant n'a donc pas renoncé à l'application de la période normale de nouvelle cotisation relativement à quoi que ce soit en l'espèce. Il s'ensuivrait donc que l'appelant se retrouverait dans la même situation que si aucune renonciation n'avait été présentée, ce qui priverait de tout effet le document du 2 février 2006. Il me semble toutefois que l'appelant doit avoir eu l'intention de renoncer à l'application de la période normale de nouvelle cotisation pour une nouvelle cotisation proposée portant sur un objet quelconque. Comme la vérificatrice de l'ARC n'a communiqué que le numéro du formulaire à Bobbi Fielding, l'appelant ou quelqu'un qui agissait pour son compte a trouvé le formulaire et y a indiqué son nom, son adresse, son numéro d'assurance sociale, l'année d'imposition applicable (2002) et la date. Il semble que l'appelant ait signé le formulaire (bien que la signature ne soit pas claire et que la première lettre semble être un « G ») et que le formulaire ait été envoyé à la vérificatrice de l'ARC par l'avocat de l'appelant. Il ne me semble pas qu'en prenant toutes ces mesures, l'appelant entendait déposer un document sans valeur à l'ARC.
+[35] Dans le cas qui nous occupe, il me semble clair que l'intention de l'appelant était de déposer une renonciation portant sur la nouvelle cotisation projetée dont il était question dans la lettre de proposition. Un grand nombre de messages téléphoniques et de communications ont été échangés entre la vérificatrice de l'ARC et le représentant de l'appelant au sujet de la demande de renseignements complémentaires formulée par la vérificatrice de l'ARC relativement à la nouvelle cotisation proposée. La presque totalité des communications se rapportait aux demandes répétées de délais additionnels pour répondre à la nouvelle cotisation projetée qui avaient été formulées par Me Morry et par son assistante Bobbi Fielding, qui représentaient l'appelant.
+[36] Aucun élément de preuve n'a été présenté au sujet des intentions de Howard Morry, de Bobbi Fielding ou de l'appelant en ce qui concerne la renonciation. Aucune de ces personnes n'a témoigné à l'audience, et on n'a déposé en preuve l'affidavit d'aucune de ces personnes.
+[37] Dans l'arrêt Bernardi (c.o.b. Bruno's Pizzeria & Main Street Billiards) v. Guardian Royal Exchange Assurance Co., [1979] O.J. no 553 (QL), le juge Blair, qui écrivait au nom de la Cour suprême de l'Ontario (Cour d'appel), a déclaré ce qui suit :
+[TRADUCTION]
+28 [...] Lorsque l'administration de la preuve sur un point incombe à une partie, l'omission de cette partie de produire, dans certaines circonstances, des éléments de preuve nécessaires pour étayer ses prétentions justifie la déduction défavorable d'un tribunal de ce que la preuve du témoin qui aurait été appelé à l'audience aurait été défavorable à la partie. Le principe général sur lequel se fonde la règle est énoncé dans l'ouvrage Wigmore on Evidence (3e éd.), vol. II, à la page 162, de la manière suivante :
+L'omission de présenter au tribunal une circonstance, un document, ou un témoin, alors que la partie elle‑même ou son adversaire allègue que les faits seraient ainsi éclaircis, sert à montrer — ce qui est la déduction la plus naturelle — que la partie craint de le faire, et cette crainte prouve d'une certaine façon que la circonstance, le document ou le témoin, s'ils avaient été présentés, auraient mis au jour des faits défavorables à la partie. Ces déductions ne peuvent être faites à juste titre qu'à certaines conditions; de plus, il est toujours possible qu'elles s'expliquent par des circonstances qui rendent plus naturelle une autre hypothèse que la crainte de divulgation. Cependant, le bien‑fondé de pareille déduction en général n'est pas remis en question.
+[38] L'extrait ci‑dessus, tiré d'une édition antérieure de l'ouvrage Wigmore on Evidence, a été cité avec approbation par le juge Rothstein (tel était alors son titre) dans l'arrêt Milliken & Co. v. Interface Flooring Systems (Canada) Inc., no A‑120‑98, 26 janvier 2000, [2000] A.C.F. no 129 (QL) (C.A.F.).
+[39] Dans leur ouvrage Law of Evidence in Canada, troisième édition, les juges Lederman, Bryant et Fuerst de la Cour supérieure de justice de l'Ontario déclarent, à la page 377 :
+[TRADUCTION]
+§6.449 Dans les affaires civiles, on peut tirer une inférence défavorable lorsqu'une partie au litige, sans explication, omet de témoigner, de fournir une preuve par affidavit lors d'une demande ou encore d'appeler à témoigner un témoin susceptible d'avoir connaissance des faits et dont on pourrait penser qu'il consentirait à aider cette partie. De la même façon, il est possible de tirer une déduction défavorable à une partie lorsque celle-ci ne convoque pas un témoin pertinent sur lequel elle exerce un contrôle exclusif et ne fournit aucune explication à ce sujet. Une telle omission constitue une admission implicite que le témoignage du témoin absent serait défavorable à la partie en cause, ou du moins ne la favoriserait pas*.
+§6.450 Une inférence défavorable ne devrait être tirée qu'après qu'une preuve prima facie a été établie par la partie sur qui repose la charge de la preuve*.
+(Le signe * indique l'omission d'une note de bas de page.)
+[40] Ainsi qu'il est précisé dans le jugement Solberg, précité, il incombe au ministre de démontrer que l'appelant a signé une renonciation portant sur les points faisant l'objet de la nouvelle cotisation en litige[5]. Dans la présente affaire, la Couronne a effectivement établi prima facie que l'intention des parties était que l'objet de la renonciation corresponde à tous les points abordés dans la lettre de proposition. Si l'appelant devait ensuite alléguer que son intention était différente, il lui incombait alors d'établir cette intention différente. Il me semble qu'on peut tirer une inférence défavorable en l'espèce. L'inférence défavorable qui peut être tirée est que l'intention de l'appelant lorsqu'il a signé la renonciation était de la signer à l'égard de tous les points abordés dans la lettre de proposition. Comme la lettre de proposition comptait trois pages et demie, il me semble que je peux également tirer l'inférence défavorable que l'omission de l'appelant de préciser les points en question était une simple faute d'inadvertance et qu'elle s'est produite parce qu'il n'était pas certain de la façon de résumer les trois pages et demie en question et qu'il avait quand même l'intention de renoncer à la période normale de nouvelle cotisation à l'égard des points abordés dans la lettre de proposition.
+[41] L'avocat de l'appelant a soutenu que, même si l'on pouvait interpoler des éléments dans la renonciation, on ne pourrait le faire que pour les éléments mentionnés dans le message téléphonique que la vérificatrice de l'ARC avait laissé à l'intention de Me Morry peu de temps avant la signature de la renonciation et pour les questions dont ont discuté la vérificatrice de l'ARC et Bobbi Fielding immédiatement avant la signature de la renonciation. Ces discussions portaient sur le montant du revenu que Mme Fietz avait déclaré, mais que l'ARC se proposait d'inclure dans le revenu de l'appelant. Cela n'était qu'une partie de la nouvelle cotisation proposée. L'appelant n'a toutefois pas fait témoigner Bobbi Fielding, pas plus qu'il n'a déposé de transcription des messages téléphoniques que la vérificatrice de l'ARC avait laissés à l'intention de Me Morry. Il ne me semble pas que de brefs messages téléphoniques ou des conversations téléphoniques portant sur un sujet donné devraient être interprétés de manière à conclure que l'ARC ne voulait plus donner suite aux autres points abordés dans la lettre de proposition.
+[42] Par ailleurs, le 12 mai 2006 (c'est‑à‑dire près de trois mois après que Me Morry eut envoyé les formulaires originaux de renonciation à l'ARC), Me Morry a écrit à l'ARC une lettre qui [TRADUCTION] « fait suite à la nouvelle cotisation projetée de Guy Fietz » en mentionnant plus précisément « la note 1 », « les notes 2 et 3 » et « la note 4 ». Maître Morry faisait ainsi allusion aux notes se trouvant dans la lettre de proposition. Il semble que la note 4 ne se rapporte pas aux revenus que Mme Fietz avait déclarés et il est donc évident que Me Morry comprenait bien que tous les points soulevés dans la lettre de proposition étaient toujours à l'étude en vue de l'établissement d'une nouvelle cotisation relativement à l'appelant.
+[43] Cet argument repose également sur l'hypothèse (et non sur des faits établis) voulant que l'appelant ait tenu compte des messages téléphoniques et des discussions de la vérificatrice de l'ARC avec Bobbi Fielding et, par conséquent, que l'appelant ait souhaité que la renonciation ne vise que les revenus qui avaient été déclarés par Mme Fietz et que l'ARC se proposait d'inclure dans le revenu de l'appelant. Comme nous l'avons déjà signalé, il est nécessaire de déterminer l'intention des parties et cet argument ne saurait être accepté à moins que l'appelant n'ait eu l'intention de limiter la renonciation aux éléments en question. Comme je l'ai déjà signalé, il me semble qu'on puisse tirer une inférence défavorable du fait que l'appelant, Howard Morry et Bobbi Fielding n'ont pas témoigné. L'inférence défavorable qui peut être tirée est que l'intention qu'avait l'appelant en signant la renonciation n'était pas de restreindre la renonciation aux revenus réaffectés, mais de signer la renonciation pour tous les points abordés dans la lettre de proposition.
+[44] L'alinéa 152(4.01)a) de la Loi prévoit que la nouvelle cotisation doit se limiter aux questions précisées dans la renonciation présentée au ministre pour l'année en question. Ainsi que le juge Sheridan l'a fait observer dans le jugement Holmes :
+4 [...] Bien que la Loi fixe la forme que doit prendre la renonciation, elle ne prévoit ni ne définit autrement la façon dont elle doit être présentée; en conséquence, la question de savoir si une renonciation a été « présentée » sera déterminée par les preuves soumises.
+[45] Eu égard aux circonstances de la présente affaire, la lettre de proposition devrait être considérée comme ayant été présentée au ministre, étant donné qu'elle a été écrite et envoyée par la vérificatrice de l'ARC. Il me semble donc que la renonciation comportait en l'espèce deux parties, à savoir le formulaire de renonciation qui a été déposé en février 2006 et la lettre de proposition. Étant donné que ces deux documents ont été présentés au ministre, celui‑ci pouvait procéder à l'établissement d'une nouvelle cotisation conformément au sous‑alinéa 152(4)a)(ii) relativement aux points abordés dans la lettre de proposition. Étant donné que la nouvelle cotisation qui a été établie le 28 juillet 2006 se rapportait effectivement aux points en question, avec comme seule exception une déduction supplémentaire favorable à l'appelant (que l'appelant avait demandée), on peut raisonnablement considérer que la nouvelle cotisation qui a été établie le 28 juillet 2006 se rapportait au point précis mentionné dans la renonciation présentée par l'appelant en l'espèce.
+[46] La question qui a été posée n'établissait pas de lien entre la renonciation et la nouvelle cotisation établie le 28 juillet 2006. En raison des dispositions du paragraphe 152(4.01) de la Loi, il me semble qu'il est nécessaire de comparer une nouvelle cotisation déterminée avec les points faisant l'objet de la renonciation. Il me semble donc qu'on ne peut répondre à la question telle qu'elle est formulée sans se reporter à une nouvelle cotisation déterminée, étant donné qu'il est nécessaire de décider si l'on peut raisonnablement considérer une nouvelle cotisation spécifique comme se rapportant à un point précis faisant l'objet de la renonciation. Telle qu'elle a été formulée, la question (qui ne mentionne aucune nouvelle cotisation particulière) pourrait être une question valide si l'appelant avait renoncé à son droit de préciser un point déterminé, de sorte que le ministre pourrait établir une nouvelle cotisation pour tout point se rapportant à l'année 2002. Cela reviendrait à signer un chèque en blanc. Une telle situation soulèverait la question de savoir si les dispositions du paragraphe 152(4.01) de la Loi, qui restreignent le droit du ministre de procéder à une nouvelle cotisation après l'expiration de la période normale de nouvelle cotisation d'un contribuable aux points faisant expressément l'objet d'une renonciation, sont à l'avantage du contribuable. Il me semble que la restriction imposée quant aux points que le ministre peut viser dans une nouvelle cotisation en se fondant sur une renonciation (qui seraient des points défavorables au contribuable)[6] serait à l'avantage du contribuable, étant donné que, vraisemblablement, l'ARC préférerait jouir d'un pouvoir discrétionnaire illimité pour établir une nouvelle cotisation pour une année déterminée et que le contribuable préférerait, pour sa part, que seuls des points précis fassent l'objet d'une éventuelle nouvelle cotisation. Par conséquent, il s'agirait alors de savoir si l'appelant pourrait renoncer à cette restriction et s'il y a effectivement renoncé en l'espèce[7]. Étant donné que cette question n'a pas été soulevée et qu'il n'est pas nécessaire de l'aborder pour répondre à la question posée, cette question devra être tranchée lors d'une autre instance.
+[47] L'appelant a également cité l'arrêt rendu par la Cour d'appel fédérale dans l'affaire R. c. Honeywell Ltd., 2007 CAF 22. Dans cet arrêt, le juge Noël, qui écrivait au nom de la Cour d'appel fédérale, a déclaré ce qui suit :
+32 La renonciation présentée par le contribuable et acceptée par le ministre donne lieu à un compromis. Le contribuable renonce à l'avantage de la période normale de cotisation pour l'année particulière visée par la question précisée dans la renonciation et le ministre, en s'appuyant sur la renonciation, acquiert le droit d'établir une nouvelle cotisation passé la période normale de cotisation, mais exclusivement à l'égard de la question précisée dans la renonciation. Tout comme le contribuable ne peut modifier la renonciation qu'il a présentée, le ministre ne peut établir de nouvelle cotisation qui ne soit pas raisonnablement reliée à la question précisée dans la renonciation. Comme l'a souligné le juge en chef Bowman, la formulation du sous‑alinéa 152(4.01)a)(ii) établit clairement que lorsqu'il s'appuie sur une renonciation, le ministre ne peut établir de nouvelle cotisation « que dans la mesure où il est raisonnable de considérer qu[e la nouvelle cotisation] se rapporte à [...] une question précisée dans une renonciation présentée au ministre pour l'année [...] ». Par conséquent, dans le cas où est établie une nouvelle cotisation appuyée sur une renonciation, la mention « nouvelle cotisation » du paragraphe 152(4) ne peut s'interpréter que comme une nouvelle cotisation permise par la renonciation.
+[48] Étant donné qu'à mon avis, la renonciation consistait en l'espèce en deux documents, soit le formulaire T2029 signé par l'appelant et la lettre de proposition, le ministre pouvait établir une nouvelle cotisation portant sur les points énoncés dans la lettre de proposition.
+[49] En conséquence, je conclus que la renonciation à l'application de la période normale de nouvelle cotisation signée par l'appelant le 2 février 2006, dont une copie constitue la pièce G de l'affidavit de Sally Yu déposé à la Cour le 31 mai 2011, a pour effet de permettre au ministre du Revenu national d'établir une nouvelle cotisation à l'égard de l'appelant (selon la nouvelle cotisation établie à l'égard de celui‑ci le 28 juillet 2006) conformément au sous‑alinéa 152(4)a)(ii) de la Loi de l'impôt sur le revenu (la « Loi ») relativement à l'année d'imposition 2002 après l'expiration de la période normale de nouvelle cotisation pour l'année en question.
+[50] L'intimée a droit aux dépens, qui devront lui être payés quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 20e jour d'octobre 2011.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 20e jour de décembre 2011
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 493
+No DU DOSSIER DE LA COUR : 2010-1738(IT)G
+INTITULÉ : GUY FIETZ ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Winnipeg (Manitoba)
+DATE DE L'AUDIENCE : Le 8 septembre 2011
+MOTIFS DU JUGEMENT : L'honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 20 octobre 2011
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Mark Wallace
+Avocat de l'intimée :
+Me Julien Bédard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Mark Wallace
+Cabinet : Pitblado LLP
+Winnipeg (Manitoba)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le juge Bowman, alors juge en chef, a expliqué le fardeau qui incombait au ministre lorsqu'une nouvelle cotisation est fondée sur une présentation erronée des faits au sens du sous‑alinéa 152(4)a)(i) de la Loi dans la décision Mensah c. La Reine, 2008 CCI 378, au par. 8.
+[2] Dans le formulaire de consentement, le nom du représentant indiqué est « Howard Morey ».
+[3] Paragraphe 11 de l'affidavit de Sally Yu.
+[4] Paragraphe 16 de l'affidavit de Sally Yu.
+[5] Dans le jugement Solberg, le juge Reed a déclaré :
+J'accepte l'argument du demandeur selon lequel il incombe à la défenderesse de prouver que le demandeur a signé une renonciation relative à l'impôt payable en conséquence d'une augmentation du gain en capital imposé en vertu de la partie I de la Loi. [...]
+La défenderesse dans cette affaire était la Reine.
+[6] Le paragraphe 152(4.2) de la Loi permet au contribuable de demander l'établissement d'une nouvelle cotisation qui lui serait avantageuse. En conséquence, aucune renonciation ne serait nécessaire si la nouvelle cotisation serait avantageuse pour le contribuable.
+[7] Dans le jugement Johnston c. La Reine, 2009 CCI 327, j'ai examiné aux paragraphes 22 à 25 certains ouvrages de doctrine et certaines décisions se rapportant à la renonciation aux obligations prévues par la Loi.

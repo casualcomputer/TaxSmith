@@ -1,0 +1,176 @@
+---
+title: "Randall v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28965/index.do"
+last_modified: "2008-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 621"
+citation2: ""
+neutral_citation: "2008 TCC 621"
+decision_date: "2008-11-14"
+language: "en"
+item_id: "28965"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6775
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:38:20.864000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d88d1fab43c6cbcddcb4d5ba9642fd528296ea7835a31a237ced8b3c480ff4cf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Randall v. The Queen
+
+- Citation: 2008 TCC 621
+- Decision date: 2008-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6775, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Randall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-14
+Neutral citation
+2008 TCC 621
+File numbers
+2008-2448(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2448(IT)G
+2008-2449(GST)G
+BETWEEN:
+DALE RANDALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on November 4, 2008, at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+____________________________________________________________________
+JUDGMENT
+The motion to quash the appeal of the assessment made under the Income Tax Act for the 2005 taxation year is dismissed;
+The motion to quash the appeal of the assessment made under the Excise Tax Act is dismissed;
+The motion to strike is granted and the appeals 2008-2449(GST)G and 2008-2448(IT)G are dismissed in accordance with the attached Reasons for Judgment.
+The Respondent is granted costs in the amount of $820.00.
+Signed at Ottawa, Canada, this 14th day of November 2008.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2008TCC621
+Date: 20081114
+Docket: 2008-2448(IT)G
+2008-2449(GST)G
+BETWEEN:
+DALE RANDALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] These are motions brought by the Respondent for Orders to quash the GST appeal and the income tax appeal for the 2005 taxation year on the basis that the Appellant did not file Notices of Objections for these appeals. In the alternative, the Respondent requests Orders to strike both Notices of Appeal pursuant to paragraph 58(1)(b) and section 53 of the Tax Court of Canada Rules (General Procedure) (“the Rules”).
+MOTION TO QUASH
+(a) GST Appeal
+[2] In support of its motion to quash the GST appeal, the Respondent relied on the affidavit evidence of Vincent Ting, a Litigation Officer with the Canada Revenue Agency (“CRA”). Mr. Ting indicated that on March 21, 2007, the Appellant was assessed GST net tax of $9,456.39 plus penalty and interest for the periods January 1, 2003 to December 31, 2005. The CRA received a letter on
+June 18, 2007 from the Appellant in which the Appellant requested information about the reactivation of his GST number. The CRA concluded that this letter was not a Notice of Objection. The Appellant sent another letter dated December 27, 2007 to the CRA in which he referred to an alleged accounting error made by the CRA. This letter did not mention GST. The CRA concluded that this letter as well was not a Notice of Objection. Both of these letters were attached as exhibits to the affidavit.
+[3] It is the Respondent’s position that neither letter met the statutory requirements under section 301 of the Excise Tax Act (“the ETA”). There is no mention in either letter that the Appellant disputed whether the amount assessed was correct in terms of the ETA. The relevant parts of section 301 read as follows:
+(1.1) Objection to assessment -- Any person who has been assessed and who objects to the assessment may, within ninety days after the day notice of the assessment is sent to the person, file with the Minister a notice of objection in the prescribed form and manner setting out the reasons for the objection and all relevant facts.
+(2) Acceptance of objection -- The Minister may accept a notice of objection notwithstanding that it was not filed in the prescribed manner.
+[4] If a valid Notice of Objection was filed then it would be the letter received June 18 as it was filed with the Minister within ninety days after the day the notice of assessment was sent. I note that there is no a prescribed form for a notice of objection as referenced in subsection 301(1.1). The letter is signed by a social insurance number and refers to the CRA basing its decision on information concerning “a human being Dale Randall”. There was a profit/loss statement attached to the letter when it was sent to the CRA but it was not attached to the exhibit in the affidavit.
+[5] The Appellant stated that his letters were valid Notices of Objection. He relied on the decision of Judge Sobier in Wichartz v. Canada[1] to assert that the CRA has adopted a policy where any mention of a wish to dispute an assessment is considered a valid objection.
+[6] Obviously the CRA has not adopted the policy the Appellant has attributed to it as his letter was not accepted as a valid notice of objection. In Wichartz, the Appellant had filed a letter with Revenue Canada which was not accepted as a Notice of Objection. Judge Sobier found that in the letter the Appellant was objecting to the assessment of penalties and interest. He dismissed the Respondent’s motion to quash the appeal.
+[7] The facts of the present case are similar to those in Wichartz in that the letter of June 18 is a letter of complaint about the actions of the CRA officials. However, it is clear on reading the letter that the Appellant is objecting to the fact that he was reregistered as a GST registrant and that he was assessed for GST. The Appellant may not have stated his reasons for objecting in terms of the quantum of the assessment; but, a taxpayer does not have to be as precise in his notice of objection[2] as in the Notice of Appeal that he files with the Tax Court of Canada. In the present case the Appellant wrote a letter to the CRA in which he challenged the fact that the assessment was made[3]. It is my opinion that he filed a valid notice of objection for the GST assessment.
+[8] The motion to quash the GST appeal is dismissed.
+(b) Income Tax Appeal – 2005 taxation year
+[9] In support of its motion to quash the income tax appeal for the 2005 taxation year (“the 2005 appeal”), the Respondent relied on the affidavit evidence of Azmina Hirji, a Litigation Officer with the Canada Revenue Agency (“CRA”). Mr. Hirji indicated that on May 10, 2007 the Minister issued a nil assessment to the Appellant for the 2005 taxation year. On November 20, 2007, the Appellant was reassessed federal taxes, interest, gross negligence penalty and late filing penalty for his 2005 taxation year. The CRA received a letter from the Appellant on December 28, 2007 in which the Appellant stated that he objected to an assessment. It is not clear from the letter whether the Appellant is referring to the assessments under the Income Tax Act (the “ITA”) or the ETA. The CRA concluded that this letter was not a Notice of Objection for the 2005 income tax reassessment. The CRA received another letter on February 11, 2008 from the Appellant. The Appellant wrote that he was under the impression that he had objected to all three years in issue, that is 2003, 2004 and 2005. The letter was not accepted as a notice of objection and Mr. Bob Primeau, an Appeals Officer with the CRA, informed the Appellant by letter dated February 15, 2008 that no objection to the 2005 taxation year was under consideration. Bob Primeau confirmed that the Appellant had filed a valid notice of objection for his 2003 and 2004 taxation years.
+[10] I have reviewed the letter received on February 11, 2008 from the Appellant. It was filed within the 90 day limitation period specified in subsection 165(1) of the ITA and it clearly disputes the assessment. The motion to quash the 2005 income tax appeal is dismissed.
+MOTION TO STRIKE
+[11] The grounds for the motion to strike the Notices of Appeal are:
+a) They do not disclose a reasonable ground for appeal as they do not challenge the correctness of the assessment in terms of the ETA or the ITA;
+b) They are scandalous, frivolous or vexatious or an abuse of process;
+c) The facts alleged in the Notices of Appeal are irrelevant;
+d) The Appellant cannot obtain relief in the appeal on the basis of the allegations plead in the Notices of Appeal;
+e) It is plain and obvious that the Appellant’s appeals cannot succeed as plead;
+f) The Notices of Appeal are so defective that they cannot be cured by a simple amendment.
+[12] The Appellant has written the style of cause for his Notices of Appeal so that the “appellant” is his “Social Insurance Number” (SIN) and he is the Intervener. In the Notices of Appeal, the Appellant alleges that there was a contract-for-hire between him, as the Intervener, and the SIN as the appellant and that he was the agent for the SIN. He alleges that in 2003, 2004 and 2005 the SIN did not “carry out economic activity to bring in any monies, while still having a contractual obligation to compensate the Intervener for acting as its scribe”. The Appellant then refers to sections of the auditor’s report. He complains that the reactivation of his GST account was not authorized by the SIN and that his SIN was not attached to his bank account from which the Minister identified deposits. Identical facts are stated in both Notices of Appeal. In the last section of each Notice of Appeal the Appellant complains about the actions of the CRA.
+[13] The issues raised in the income tax Notice of Appeal are:
+a) if “the Doctrine of Necessity” applies.
+b) if the Tax Court is the court in which this case should be tried, or should it be moved to an Anglo-Saxon Court of Common Law, so as to not violate the rights of the Intervener.
+c) if the Federal Government of Canada owns the Appellant.
+d) if either the Appellant or the Intervener can be directly taxed by the Federal Government of Canada.
+e) whether the Appellant has Freedom of Contract.
+f) whether Canada Revenue Agency did commit both actus reus and mens rea in it’s conduct of this assessment/reassessment.
+g) whether Canada Revenue Agency can rely on the defense of “honest but mistaken belief since it did not take reasonable steps to ascertain that the victim was consenting.”
+h) whether Canada Revenue Agency can force joinder between the Appellant and the Intervener.
+i) whether Canada Revenue Agency used civil law to maliciously vex either the Appellant or the Intervener.
+j) whether Canada Revenue Agency used civil law to defame the name of the Intervener.
+k) whether Canada Revenue Agency used civil law to do harm to the Intervener, including but not limited to harming his ability to conduct his financial affairs.
+l) whether the contractual compensation to be paid to the Intervener by the Appellant is a legitimate expense.
+m) whether Supreme Court of Canada guidelines from previous rulings should be considered when assessing penalties, costs, etc.
+n) whether a contract not entered into voluntarily is legally binding.
+[14] Similar issues are raised in the GST Notice of Appeal.
+[15] The test that is applied before pleadings will be struck is whether, assuming the facts stated in the pleadings are true, is it “plain and obvious” that the appeal cannot succeed[4]? Only if the appeal is certain to fail should the Notice of Appeal be struck[5].
+[16] The question then is whether it is plain and obvious that the notices of appeal disclose no reasonable grounds for appeal[6].
+[17] It is my opinion that the facts in the Notices of Appeal, when taken as proven, do not challenge the correctness of the assessments. The quantum and computation of the tax is never questioned. The issues raised in the appeals are matters over which this court does not have jurisdiction.
+[18] In her argument, counsel for the Respondent asked that the Notices of Appeal be struck without leave to amend as they do not contain a cause of action. She relied on McKenzie v. R.[7] where Prothonotary Hargrave stated at paragraph 6:
+………a statement of claim should be a readable narrative so that by following it through to its conclusion both the defendant and the court may understand the plaintiff's claim. In the absence of such an understandable factual narrative, as is the case here, the statement of claim should be struck out as vexatious, frivolous, embarrassing to the Defendant and, overall, an abuse of process.
+[19] The Appellant anticipated this argument and tendered a document which represented the two appeals and which he called a readable narrative. In the document he acknowledged that the Tax Court does not have jurisdiction to grant the relief he seeks. He states that the appropriate court is an Anglo-Saxon court of common law. Part of the relief that he seeks is for the court to instruct the CRA to treat the two entities (the SIN and the human being) as two entities. The rewritten notices of appeal reinforce my decision that the appeals should be struck as they are vexatious, frivolous and an abuse of process.
+[20] The motions are granted and the appeals 2008-2449(GST)G and 2008-2448(IT)G are struck without leave to amend. The Respondent is granted her cost in the amount of $820.
+Signed at Ottawa, Canada, this 14th day of November 2008.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2008TCC621
+COURT FILE NO.: 2008-2448(IT)G
+2008-2449(GST)G
+STYLE OF CAUSE: DALE RANDALL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 4, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: November 14, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1994] 2 C.T.C. 2344
+[2] Subsection 301(1.1) of the ETA reads that the notice of objection must set out the reasons for the objection and all relevant facts
+[3] Lok v. R., [2001] 1 C.T.C. 2650 at paragraph 15.
+[4] Hunt v. T&N plc, [1990] 2 S.C.R. 959
+[5] Main Rehabilitation Co. v. R., 2004 FCA 403 at paragraph 3
+[6] Burleigh v. R., [2004] 2 C.T.C. 2797
+[7] 142 F.T.R. 218

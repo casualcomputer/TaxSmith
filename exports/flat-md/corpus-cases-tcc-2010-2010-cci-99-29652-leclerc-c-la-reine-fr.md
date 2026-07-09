@@ -1,0 +1,133 @@
+---
+title: "Leclerc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29652/index.do"
+last_modified: "2010-02-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 99"
+citation2: ""
+neutral_citation: "2010 CCI 99"
+decision_date: "2010-02-18"
+language: "fr"
+item_id: "29652"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6190
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:15:22.272000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bb9471dd3f0b928c07a27c2179a99bd00d5bdde9ebe79d1e311823643833ba9b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leclerc c. La Reine
+
+- Citation: 2010 CCI 99
+- Decision date: 2010-02-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6190, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leclerc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-18
+Référence neutre
+2010 CCI 99
+Numéro de dossier
+2009-1096(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 CCI 99
+Date : 20100309
+Dossier : 2009-1096(IT)I
+ENTRE :
+JEAN-CLAUDE LECLERC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Favreau
+[1] Il s’agit d’appels de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (la « Loi »). Par les cotisations datées du 9 avril 2008 pour l’année d’imposition 2003 et du 4 septembre 2008 pour l’année d’imposition 2006, le ministre du Revenu national (le « ministre ») a imposé des pénalités de 2 500 $ pour chacune des années d’imposition 2003 et 2006 pour retard à produire le formulaire T‑1135 intitulé « Bilan de vérification du revenu étranger ». Des intérêts de 895,17 $ pour 2003 et de 298,53 $ pour 2006 ont été exigés par l’Agence du revenu du Canada (l’« ARC »).
+[2] Pour établir et maintenir les cotisations du 9 avril 2008 et du 4 septembre 2008 à l’égard des années d’imposition 2003 et 2006, le ministre a tenu pour acquis les hypothèses suivantes, à savoir :
+a. L’appelant possède une unité de condominium située à Poitiers en France dont le coût indiqué dépasse 100 000 $; (admis)
+b. À ce titre, l’appelant est tenu de produire à chaque année un formulaire T1135 « Bilan de vérification du revenu étranger » au plus tard à la date limite pour produire sa déclaration de revenus; (admis)
+c. Pour les années d’imposition 2003 et 2006, l’appelant a joint ce formulaire à ses déclarations de revenus; (admis)
+d. L’appelant devait produire sa déclaration de revenu pour l’année d’imposition 2003 le 30 avril 2004; (admis)
+e. L’appelant a produit sa déclaration de revenu pour l’année d’imposition 2003 le 18 septembre 2007; (admis)
+f. L’appelant devait produire sa déclaration de revenu pour l’année d’imposition 2006 le 30 avril 2007; (admis)
+g. L’appelant a produit sa déclaration de revenu pour l’année d’imposition 2006 le 19 juin 2008. (admis)
+[3] Les faits sous-jacents au litige ne sont pas contestés mais il y a tout de même lieu de préciser que l’appelant a produit en retard ses déclarations de revenu pour 2003 et 2006, soit le 18 septembre 2007 et le 19 juin 2008 respectivement, et que l’appelant a joint le formulaire T‑1135 à chacune de ses déclarations de revenu sans que l'ARC le lui avait demandé. Selon les déclarations de revenu de l’appelant, ce dernier n’avait aucun solde d’impôt à payer et aucune pénalité n’était payable pour production tardive desdites déclarations de revenu.
+[4] La seule question en litige consiste à déterminer si le ministre a correctement imposé la pénalité pour retard à produire le formulaire T‑1135 pour les années d’imposition 2003 et 2006.
+[5] Le paragraphe 233.3(3) de la Loi prévoit ce qui suit :
+Déclarations concernant les biens étrangers -- Un déclarant pour une année d'imposition ou un exercice est tenu de présenter au ministre pour l'année ou l'exercice une déclaration sur le formulaire prescrit au plus tard à la date suivante :
+a) si le déclarant est une société de personnes, [. . .];
+b) sinon, la date d'échéance de production qui lui est applicable pour l'année.
+[6] L’expression « date d’échéance de production » est définie au paragraphe 248(1) de la Loi de façon suivante :
+Le jour où un contribuable est tenu de produire sa déclaration de revenu en vertu de la partie I pour une année d'imposition ou le jour où il serait tenu de la produire s'il avait un impôt à payer pour l'année en vertu de cette partie.
+[7] Dans le cas d’un particulier, la date d’échéance de production de sa déclaration de revenu pour une année d’imposition donnée est le 30 avril de l’année suivante selon les règles édictées au paragraphe 150(1) et au sous‑alinéa 150(1)(d)i) de la Loi.
+[8] La pénalité pour défaut de produire une déclaration de renseignements selon les modalités et dans le délai prévu par la Loi est prévue au paragraphe 162(7) de la Loi. Cette pénalité est égale au produit de la multiplication de 25 $ par le nombre de jours jusqu’à concurrence de 100 jours, où le défaut persiste, sans être inférieure à 100 $.
+Position de l’appelant
+[9] Dans ses avis d’appel à la Cour, l’appelant a reconnu que les dispositions législatives applicables sont très claires et qu’il ne peut invoquer son ignorance de la Loi. Par contre, il soutient que son défaut de respecter la date d’échéance de production du formulaire T‑1135 a résulté d'une omission bien involontaire de sa part, principalement attribuable à son retour aux études et à la maladie mentale de sa mère. L’appelant prétend également avoir été induit en erreur par l’article 162 de la Loi en vertu duquel un contribuable n’est pas passible d’une pénalité s’il produit en retard sa déclaration de revenu pour une année d’imposition donnée si aucun impôt est payable ou est impayé, ce qui était précisément sa situation.
+[10] L’appelant a, de plus, révélé n’avoir jamais eu l’intention de cacher des revenus étrangers et n’a jamais commis quelque fraude que ce soit. Pour confirmer ses dires, l’appelant a produit des photocopies de chèques de remboursement d’impôt sur le revenu de 850,85 $ et de 1 597,26 $ relatifs à ses années d’imposition 2002 et 2003. Il était simplement en retard de produire le formulaire T‑1135.
+[11] L’appelant a soumis des commentaires de David Sherman à l'égard du paragraphe 162(10) à l’effet que l’ARC avait pour politique administrative de donner une chance à un contribuable et de ne pas lui imposer la pénalité prévue aux paragraphes 162(7) ou 162(10) lorsqu’il en était à sa première omission volontaire de produire certains formulaires dont le formulaire T‑1135 relatif aux biens étrangers. L’extrait suivant de ces commentaires est particulièrement intéressant :
+Cette politique a été retirée en janvier 2006; le contribuable doit maintenant faire une demande dans le cadre du Programme des divulgations volontaires pour obtenir un allègement de la pénalité : [...]
+L’appelant allègue ne pas avoir été informé par l’ARC de ce changement de politique et ce, malgré le fait qu'il a déclaré des revenus de source étrangère depuis 1992.
+[12] L’ARC connaissait déjà l’existence du bien étranger déterminé de plus de 100 000 $ puisque l'appelant cochait la case appropriée dans ses déclarations de revenu pour indiquer qu’il possédait un bien étranger déterminé d’une valeur supérieure à 100 000 $ et que les formulaires T‑1135 étaient joints à ses déclarations de revenu. Concernant le contenu du formulaire T‑1135, l’appelant a indiqué qu’il était identique d’une année à l’autre et que la pénalité pour défaut ou retard de le produire (25 $ par jour) n’y était pas indiquée.
+[13] L’appelant a également déploré le fait que la Loi ne contenait pas d’exception à l’application de la pénalité en cas de retard. Les contribuables ne peuvent invoquer à l’encontre de l’application de la pénalité le moyen de défense de la diligence raisonnable. De plus, l’appelant a souligné le caractère déraisonnable de la pénalité. Dans son cas, pour l’année 2003, les pénalités et les intérêts représentent 148,4 % de l’impôt total à payer, soit 3 395,71 $ (au 9 avril 2009) sur un impôt fédéral total à payer de 2 288,68 $.
+[14] Finalement, l’appelant a critiqué la levée d'une charge d’intérêts sur la pénalité prévue au paragraphe 162(7) de la Loi et a déploré le fait que la seule façon d’éviter ladite pénalité était de procéder par le biais du programme des divulgations volontaires, i.e. comme s’il avait commis une fraude ou omis de payer les impôts sur ses revenus de source étrangère.
+Analyse et conclusion
+[15] Le texte des paragraphes 162(7) et 233.3(3) de la Loi sont très clairs et ne soulèvent aucune difficulté d'interprétation. L’intention recherchée par le législateur est d’inciter les contribuables ayant des biens étrangers déterminés de plus de 100 000 $ à déclarer leurs revenus de source étrangère.
+[16] Selon les principes généraux d’interprétation des lois dégagés par la Cour suprême du Canada dans l’arrêt Hypothèques Trustco Canada c. Canada, [2005] 2 R.S.C. 601, « l’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble » (page 610).
+[17] L’analyse textuelle, contextuelle et téléologique des paragraphes 162(7) et 233.3(3) dégage un sens qui s’harmonise avec la Loi dans son ensemble. Le texte de ces dispositions législatives est en harmonie avec les objectifs recherchés par le législateur. Malheureusement pour l’appelant, je ne crois pas que les principes d’interprétation des lois puissent lui être d’un quelconque secours.
+[18] L’appelant a commis une erreur de bonne foi causée par sa méconnaissance des conséquences de la non-production du formulaire T‑1135 dans le délai imparti. Les pénalités en vertu du paragraphe 162(7) de la Loi ont été correctement imposées et le moyen de défense de la diligence raisonnable n’est pas applicable dans ce cas.
+[19] L’appelant aurait pu éviter le paiement de ces pénalités en se prévalant du Programme des divulgations volontaires mais il ne l’a pas fait, probablement par ignorance. On ne peut toutefois blâmer l’appelant pour son manque de connaissances concernant ledit programme même s'il a fait des études en fiscalité. Il n’est pas évident en effet que ce programme puisse s’appliquer à des contribuables qui n’ont pas commis de fraude et qui ont déclaré tous leurs revenus de source étrangère depuis plusieurs années.
+[20] Ce n’est pas tellement l’assujettissement à la pénalité du paragraphe 162(7) de la Loi qui pose problème comme l’absence d’une disposition législative prévoyant un moyen de défense sans à avoir recours à un programme qui n'a pas été conçu pour s'occuper d'un simple retard à produire un formulaire. Cela est évidemment du ressort du législateur. La même observation pourrait être faite concernant le quantum de la pénalité; le législateur pourrait considérer apporter un allègement pour tenir compte des cas semblables à celui de l’appelant où la pénalité est démesurée par rapport aux impôts autrement payables.
+[21] Concernant les intérêts exigés sur les pénalités du paragraphe 162(7) de la Loi, il suffit de mentionner que notre Cour n’a pas juridiction pour traiter de cette question.
+[22] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour de mars 2010.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2010 CCI 99
+Nº DU DOSSIER DE LA COUR : 2009-1096(IT)I
+INTITULÉ DE LA CAUSE : Jean-Claude Leclerc et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 3 décembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 18 février 2010
+DATE DES MOTIFS DU
+JUGEMENT MODIFIÉS: le 9 mars 2010
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

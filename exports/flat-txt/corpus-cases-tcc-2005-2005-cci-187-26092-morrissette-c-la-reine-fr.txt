@@ -1,0 +1,312 @@
+Title: Morrissette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26092/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-187-26092-morrissette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-03-18
+
+# Morrissette c. La Reine
+
+- Citation: 2005 CCI 187
+- Decision date: 2005-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4153, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morrissette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-18
+Référence neutre
+2005 CCI 187
+Numéro de dossier
+2004-1902(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1902(IT)I
+ENTRE :
+ALAIN MORRISSETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 4 octobre 2004, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Alain Bolduc
+Avocate de l'intimée :
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997, 1998 et 1999 est admis en partie, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que le montant attribué aux vacances de l'appelant doit être retiré de ses dépenses pour les années en litige; de plus, le ministre devra tenir compte du fait que la dépanneuse acquise en 1996 au coût de 10 000 $ et entièrement financée par le vendeur n'a aucun effet sur l'avoir net de l'appelant pour les années en litige.
+Quant aux pénalités, elles sont bien fondées; cependant, elles devront être calculées de nouveau en tenant compte des nouvelles cotisations.
+Signé à Ottawa, Canada, ce 18e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI187
+Date : 20050318
+Dossier : 2004-1902(IT)I
+ENTRE :
+ALAIN MORRISSETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel des cotisations établies selon la méthode de l'avoir net pour les années d'imposition 1995, 1996, 1997, 1998 et 1999. L'appel porte également sur les pénalités imposées à l'appelant. Les pénalités sont, premièrement, des pénalités pour production tardive et, deuxièmement des pénalités pour omissions volontaires, en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] Pour établir et justifier les cotisations dont il est fait appel, le ministre du Revenu national (le « ministre » ) a tenu pour acquis les faits suivants :
+22. a) Au cours des années en litige, l'appelant exploitait une entreprise de vente et réparation de véhicules automobiles;
+b) Lors de la production de ses déclarations de revenus, l'appelant a déclaré des revenus d'entreprise nets de 8 120 $ pour l'année d'imposition 1996, de 6 951 $ pour l'année d'imposition 1997, de 4 094 $ pour l'année d'imposition 1998 et de 8 309 $ pour l'année d'imposition 1999;
+c) Les déclarations de revenus de l'appelant pour les années d'imposition en litige ont fait l'objet d'une vérification de la part du ministre du revenu national;
+d) En raison de l'absence de contrôle interne de l'entreprise exploitée par l'appelant, le ministre a utilisé la méthode de l'avoir net afin d'établir les nouvelles cotisations du 23 décembre 2002;
+e) Le sommaire des réajustements et l'établissement des revenus additionnels par le vérificateur pour les avis de nouvelle cotisation du 23 décembre 2002 est joint à la présente réponse comme Annexe A pour en faire partie intégrante;
+f) Le coût de vie de la famille de l'appelant a été établi par le vérificateur essentiellement sur la base des données de statistique Canada;
+g) L'appelant allègue avoir emprunté une somme de 10 000 $ de sa mère, Mme Louise Lefebvre au cours de l'année d'imposition 1998;
+h) Après examen des comptes bancaires de l'appelant et de Mme Lefebvre, le Ministre a conclu que cette dernière n'avait jamais prêté d'argent à l'appelant;
+i) Le vérificateur a tenu compte que l'appelante [sic] vivait seul avec sa conjointe pour les années d'imposition 1995 et 1996 et avec sa conjointe et le fils de celle-ci pour les années d'imposition 1997, 1998 et 1999.
+23. Suite à l'opposition de l'appelant à l'encontre des nouvelles cotisations du 23 décembre 2002 pour les années d'imposition 1995, 1996, 1997, 1998 et 1999, le ministre du revenu national a apporté les ajustements suivants :
+a) Il a émis une nouvelle cotisation pour l'année d'imposition 1995 annulant les revenus non déclarés et la pénalité s'y rattachant;
+b) Le montant de 2 500 $ inscrit dans le poste « autres actifs » pour les années d'imposition 1996, 1997, 1998 et 1999 a été annulé;
+c) Les montants attribués par la vérification pour les soins dentaires, les assurances, les coupes de cheveux, les jouets et jeux d'ordinateur et les journaux (sauf 1999) ont été annulés;
+d) Les dépenses relatives au coût de la vie établies par la vérification en fonction des données de Statistique Canada ont été révisées à la baisse selon les représentations de l'appelant de la manière suivante :
+1996
+1997
+1998
+1999
+Coût de la vie par la vérification
+33 953 $
+34 026 $
+32 525 $
+32 469 $
+Coût de la vie suite à l'opposition
+20 836 $
+24 093 $
+24 339 $
+25 513 $
+e) Le sommaire de la révision de chacun des éléments du coût de vie de l'appelant suite à l'opposition est joint à la présente réponse comme Annexe B pour en faire partie intégrante;
+f) La valeur de chacun des éléments d'actif et de passif a été établie à partir des documents ou de renseignements fournis par l'appelant;
+g) Le Ministre a réduit de 3 117 $ l'écart obtenu par le vérificateur pour l'année d'imposition 1995 pour tenir compte du gain en capital non imposable reçu par l'appelant;
+h) Le Ministre a ajouté au coût de la vie de l'appelant le montant des taxes foncières de sa résidence et a réduit le passif de celui-ci pour les années où ces taxes demeuraient impayées;
+i) Pour l'année d'imposition 1995, l'appelant a produit sa déclaration de revenus au ministre le 22 janvier 1997;
+j) Le sommaire des réajustements et l'établissement des revenus additionnels suite à l'opposition est joint à la présente réponse comme Annexe C pour en faire partie intégrante.
+(Souligné dans l'original)
+[3] L'appelant a admis les faits mentionnés aux paragraphes 22 b), c), f) et g) et 23 a), b), c), g) et i).
+[4] Il a déposé, avec le consentement de l'intimée, un avis d'appel modifié. Les nouveaux faits allégués dans la modification se limitent à ceux au paragraphe 23, qui se lit comme suit après la modification :
+23. De plus, l'intimée n'a pas déduit les montants d'amortissement pour les années d'imposition 1996 à 1999 inclusivement, soit une somme de 6 400 $ pour l'année 1996, une somme de 11 389 $ pour l'année 1997, une somme de 5 950 $ pour l'année 1998 et une somme de 7 238 $ pour l'année 1999.
+(Souligné dans l'original)
+[5] D'entrée de jeu, le procureur de l'appelant a indiqué que la preuve qu'il entendait soumettre ne portait que sur les trois éléments suivants.
+· L'appelant a bénéficié d'un prêt de 10 000 $ de sa mère, madame Louise Lefebvre.
+· L'appelant n'a fait aucun débours relatif à des vacances pour les années d'imposition.
+· L'appelant aurait dû bénéficier des dispositions relatives à l'amortissement.
+[6] Pour ce qui est du montant de 10 000 $, la mère de l'appelant est venue expliquer qu'elle avait avancé 10 000 $ à son fils, soit 3 000 $ pour l'année d'imposition 1997 et 7 000 $ pour l'année d'imposition 1998.
+[7] Elle a affirmé qu'elle exploitait un restaurant qui n'allait pas très bien en 1997. En plus des problèmes financiers qu'elle avait dans le cadre de l'exploitation de son propre restaurant, son fils, l'appelant, aurait insisté pour qu'elle lui vienne en aide financièrement. Pour combler ses besoins financiers et ceux de son fils, elle aurait obtenu un prêt de 10 000 $ de sa tante Louise Lefebvre (pièce A-27).
+[8] Dans un premier temps, elle a déposé le montant de 10 000 $ dans le compte pour l'exploitation de son restaurant; elle aurait ensuite prêté 3 000 $ à l'appelant, son fils, en deux versements de 1 500 $ chacun au cours de l'année d'imposition 1997. L'année suivante, en 1998, elle aurait fait trois versements à son fils pour un montant total de 7 000 $, soit 10 000 $ au total pour les deux années d'imposition.
+[9] Les sommes prêtées à l'appelant auraient été prises du compte pour l'exploitation de son restaurant et versées au comptant à son fils. Lors de son témoignage, ce dernier a repris les explications de sa mère.
+[10] L'appelant a indiqué que l'argent « au comptant » avait servi à faire l'acquisition d'une ou de plusieurs « minounes » (voitures d'occasion de peu de valeur), dont il n'était pas en mesure de faire la description. L'argent n'a fait l'objet d'aucun dépôt bancaire.
+[11] L'appelant n'a signé aucune reconnaissance de dette et les états financiers de son entreprise, à qui l'argent a profité, ne font aucune mention de la dette de l'appelant envers sa mère.
+[12] Les explications soumises n'ont pas permis de constater que le fils avait quelque besoin urgent que ce soit. Bien au contraire, l'argent était nécessaire, selon le témoignage de l'appelant lui-même, pour lui permettre d'acheter des voitures pour augmenter son stock.
+[13] Il s'agit là d'une explication totalement déraisonnable au point d'être tout simplement invraisemblable. En effet, comment reconnaître un minimum de vraisemblance et de rationalité à une explication selon laquelle l'appelant avait obtenu de l'argent de sa mère, argent qu'elle n'avait pas et qu'elle a dû emprunter, et ce, alors que sa propre situation était précaire selon son propre aveu?
+[14] Elle n'aurait ainsi aucunement bénéficié de l'argent emprunté, qui aurait servi à augmenter le stock du commerce de son fils, alors qu'elle en avait besoin d'une manière importante et urgente. Je crois qu'il s'agit d'une histoire inventée de toutes pièces.
+[15] L'explication manque de rigueur d'autant plus que toutes les opérations, au nombre de cinq, ont été faites « au comptant » et n'ont fait l'objet d'aucun dépôt ou d'aucune mention dans les états financiers de l'appelant. Finalement, l'appelant n'a jamais signé de reconnaissance de dette ou de billet en faveur de sa mère qui, je le rappelle, n'avait pas la capacité d'avancer une telle somme; bien au contraire, son restaurant, qui lui servait de gagne-pain, n'allait pas très bien financièrement.
+[16] L'appelant n'aurait pas donné ou remis de reconnaissance de dette à sa mère. Le fait que les divers prêts se soient effectués au comptant n'a rien d'illégal ou d'irrégulier. Par contre, l'absence d'écritures dans les livres de l'entreprise de l'appelant et l'absence de reconnaissance de dette et tout le contexte, dont la situation financière difficile de sa mère, rendent toute cette histoire d'apport de 10 000 $ invraisemblable, d'autant plus que les démarches visant à obtenir de l'argent auraient découlé en grande partie des besoins financiers de la mère de l'appelant en raison de son restaurant et qu'en fin de compte, elle n'aurait aucunement profité de son emprunt.
+[17] Le deuxième argument de l'appelant est qu'il n'avait fait aucun débours pour des vacances. Bien qu'il s'agisse de montants peu importants, le seul fondement de l'attribution de ces débours est sans doute les données statistiques auxquelles se réfère souvent l'Agence des douanes et du revenu du Canada lorsque les cotisations sont établies selon la méthode de l'avoir net. Il s'agissait donc d'ajouts essentiellement arbitraires. À cet égard, l'appelant a nié catégoriquement avoir dépensé quelque montant que ce soit pour des vacances.
+[18] Bien que je puisse avoir des doutes quant à la vraisemblance de cette négation, je retiens quand même l'explication puisque rien ne justifie l'attribution de ces dépenses. Il ne s'agit pas là de dépenses essentielles, telle la nourriture ou le logement, auquel cas il aurait été nécessaire de fournir une preuve plus claire pour que la Cour conclue que les dépenses n'avaient pas été faites.
+[19] Finalement, le dernier volet du litige concerne l'amortissement. Cette question de l'amortissement de certains éléments d'actif a occupé la majeure partie du temps de la preuve de part et d'autre.
+[20] Dans un premier temps, l'appelant s'est opposé à ce que l'intimée révise certaines données, au motif qu'il s'agissait là de faits nouveaux qui le plaçaient dans une situation difficile, au point où il n'était plus en mesure de faire une preuve adéquate.
+[21] L'intimée a répondu que la preuve de certaines corrections était nécessaire et découlait surtout des faits nouveaux introduits par le dépôt d'un avis d'appel modifié se lisant notamment comme suit :
+23. De plus, l'intimée n'a pas déduit les montants d'amortissement pour les années d'imposition 1996 à 1999 inclusivement, soit une somme de 6 400 $ pour l'année 1996, une somme de 11 389 $ pour l'année 1997, une somme de 5 950 $ pour l'année 1998 et une somme de 7 238 $ pour l'année 1999.
+(Souligné dans l'original)
+[22] Avec le consentement de l'intimée, l'appelant a donc déposé un avis d'appel modifié. En raison de cette modification, la question de l'amortissement devenait un aspect important de l'appel; la Cour était donc étonnée des affirmations que l'appelant était pris par surprise et n'était pas en mesure d'offrir une preuve adéquate alors qu'il était lui-même à l'origine des faits.
+[23] À l'audition du 4 octobre 2004, l'intimée a ainsi présenté des éléments de preuve afin de contredire la nouvelle position de l'appelant relativement à l'amortissement, sous réserve de la décision de la Cour sur le bien-fondé de l'objection, qui était prise en délibéré.
+[24] Je rejette l'objection soulevée par l'appelant. En effet, l'intimée peut présenter une preuve en réponse aux éléments soumis par l'appelant. Le paragraphe 152(9) de la Loi prévoit expressément cette situation :
+Nouvel argument à l'appui d'une cotisation.
+152(9) Le ministre peut avancer un nouvel argument à l'appui d'une cotisation après l'expiration de la période normale de nouvelle cotisation, sauf si, sur appel interjeté en vertu de la présente loi :
+a) d'une part, il existe des éléments de preuve que le contribuable n'est plus en mesure de produire sans l'autorisation du tribunal;
+b) d'autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[25] En l'espèce, l'intimée ne fait que répondre à un argument invoqué par l'appelant. Ce dernier ne peut soutenir subir de préjudice en raison de la preuve présentée par l'intimée en réponse à un argument qu'il invoque lui-même. Au contraire, le préjudice envers l'intimée serait considérable si on lui refusait le droit de répondre à un nouvel argument soulevé par l'appelant.
+[26] Dans l'affaire La Reine c. Loewen, [2004] 4 R.C.F. 3, la Cour d'appel fédérale a été appelée à étudier le paragraphe 152(9) de la Loi :
+11 Les contraintes imposées au ministre lorsqu'il invoque des hypothèses n'empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué dans la décision Schultz c. Canada, [1996] 1 C.F. 423 (C.A.), autorisation d'appel à la C.S.C. refusée, [1996] A.C.S.C. no 4).
+[...]
+13 Il existe un autre courant jurisprudentiel dans lequel sont posés les principes suivant lesquels il est loisible à Sa Majesté de défendre une cotisation en faisant valoir des arguments de droit qui ne faisaient pas partie de ceux qui avaient été invoqués pour justifier la cotisation. En règle générale, ces nouveaux moyens de droit peuvent être invoqués s'ils découlent de la preuve présentée au cours de l'instance qui s'est déroulée devant la Cour de l'impôt. L'étendue de la preuve présentée à la Cour de l'impôt est elle-même limitée par les actes de procédure. Il s'ensuit qu'il est possible d'invoquer de nouveaux arguments juridiques à condition qu'ils découlent des faits articulés dans les actes de procédure, y compris l'avis d'appel, les hypothèses formulées dans la réponse et tout fait complémentaire allégué dans la réponse.
+[...]
+21 Suivant mon interprétation du paragraphe 152(9), l'expiration du délai normalement prévu pour établir une nouvelle cotisation n'empêche pas Sa Majesté de défendre sa cotisation en invoquant quelque motif que ce soit, sous réserve uniquement des alinéas 152(9)a) et b). Les alinéas 152(9)a)et b) évoquent le préjudice que pourrait subir le contribuable si l'on permettait à Sa Majesté de formuler de nouvelles allégations factuelles de nombreuses années après les faits.
+[27] L'intimée pouvait donc présenter de nouveaux éléments de preuve et de nouveaux arguments à l'appui de sa nouvelle cotisation dans la mesure où ils n'ont pas pour effet d'augmenter le montant de la cotisation portée en appel. La Cour d'appel fédérale a permis cette façon de procéder dans la décision La Reine c. Anchor Pointe, [2002] A.C.I. no 502(Q.L.) :
+40 En l'espèce, le ministre ne cherche pas à s'appuyer sur Global pour faire croître les impôts à payer par Anchor Pointe au-delà de ce qui était inclus dans la nouvelle cotisation du ministre avant l'expiration de la période normale de nouvelle cotisation. La nouvelle cotisation faisait croître l'impôt payable en réduisant les déductions de FEC d'un montant correspondant à la différence entre le montant demandé et le montant établi en fonction de l'estimation par le ministre de la juste valeur marchande des données sismiques. En ratifiant la nouvelle cotisation, le ministre ne vise pas à augmenter l'impôt à payer. Il ne fait pas entrer en jeu une nouvelle transaction. Il ne fait qu'avancer un argument additionnel, soit que les données sismiques achetées pour fins de revente ou d'octroi de permis ne sont pas admissibles comme déductions au titre de FEC.
+41 Dans ces circonstances, je suis d'accord avec la conclusion du juge Rip selon laquelle il n'y a rien de répréhensible à ce que la réponse de la Couronne renferme un argument additionnel fondé sur la décision Global.
+[28] L'appelant soutient que le calcul de l'avoir net aurait dû contenir un rajustement pour tenir compte de la déduction pour amortissement réclamé par l'appelant pour chacune des années en litige.
+[29] Toutefois, il appert au bilan établi selon l'avoir net que les biens pour lesquels la déduction pour amortissement a été réclamée ne sont pas inclus dans le calcul de l'écart de l'avoir net.
+[30] Le bilan présenté par l'appelant à l'Agence des douanes et du revenu du Canada pour l'année d'imposition 1995 indique qu'il ne possède pas les biens auxquels il voudrait voir imputer une déduction pour amortissement.
+[31] Les états financiers soumis pour 1996 font cependant état de tels biens à la fin de l'année 1996.
+[32] Bien que l'appelant maintienne avoir eu ces biens avant l'année d'imposition 1996, la preuve soumise n'est pas très convaincante, d'autant plus que les premiers états financiers pour l'année d'imposition 1996 indiquent que l'entreprise exploitée par l'appelant en était à sa première année (pièce A-17). Les états financiers contiennent deux colonnes, soit celle intitulée ׂ « 1996 » et celle intitulée « ouverture » à titre de chiffres correspondants, plutôt que de référer à l'exercice précédent.
+[33] D'autre part, le moment de l'acquisition de ces biens est demeuré très nébuleux. À quelle date avaient-ils été acquis? Quelle en était la valeur en 1996? Ce sont deux questions importantes. Malgré la pertinence de ces questions, aucune explication valable et crédible n'a été présentée. La preuve sur cette question se résume aux questions et aux réponses suivantes (pages 126 à 128 de la transcription) :
+[...]
+Q. O.K. Puis mobilier de bureau, avez-vous acheté ça en 96?
+R. Non.
+Q. Ça vient d'où ce mobilier de bureau-là?
+R. Bien, c'est qu'est-ce que j'avais acheté pour mon autre entreprise.
+Q. Vous parlez de votre entreprise?
+R. De nettoyage à haute pression, hydrosablage.
+Q. O.K. Bon. Puis on voit dans le document qui a été produit tout à l'heure, ces biens-là, ça, c'est... document qui a été déposé sous I-5.
+LA GREFFIÈRE : États financiers au trente et un (31) décembre 99.
+Me ALAIN BOLDUC :
+Q. Excusez-moi! Ce n'est pas ça. Sous I-4. Ces biens-là n'apparaissent pas dans votre bilan qui avait été fait. Savez-vous pourquoi que ça n'apparaît pas ça?
+R. Aucune idée. Je sais que j'ai regardé, je sais que tous mes biens personnels apparaissent. Mais ce qui a rapport à l'entreprise, il n'y a rien qui apparaît.
+Q. Donc, les biens que vous venez de parler, il n'y a rien qui apparaît?
+R. Non.
+Q. Puis vous ne savez pas pourquoi?
+R. Aucune idée.
+Q. C'est votre témoin.
+[...]
+[34] Le procureur de l'appelant a bien résumé la question relative à l'amortissement aux paragraphes 19 et suivants de son argumentation écrite :
+19. Aux fins de ce nouveau calcul de l'avoir net, nous avons ajouté une somme de 49 000 $ à l'item « équipements commerce » pour les années 1994 et 1995 car l'appelant a dit lors de l'audition qu'à l'exception de la remorque acquise au montant de 10 000 $ en 1996, tous les biens indiqués aux états financiers de l'année 1996 (onglet 17) sont des biens qu'il possédait depuis de nombreuses années.
+20. Nous avons donc inscrit une somme de 59 000 $ à l'item « équipements commerce » au bilan de 1996 afin de tenir compte de l'acquisition de la remorque d'une valeur de 10 000 $. De plus, nous avons ajouté l'item « prêt remorque commerce » pour l'année 1996 car l'appelant a mentionné lors de l'audition que la remorque a été financée pour 10 000 $ lors de son acquisition.
+21. Nous avons inscrit 59 194 $ à l'item « équipements commerce » pour l'année 1997 car aux états financiers de 1997 (onglet 19), le mobilier de bureau est passé de 9 000 $ à 9 194 $.
+22. Pour l'année 1998, nous avons inscrit 49 352 $ à l'item « équipements commerce » car l'appelant a dit qu'il a disposé de la remorque et en raison du fait qu'à l'item « mobilier de bureau » aux états financiers de 1998 (onglet 21), le montant est de 9 352 $ au lieu de 9 194 $. Nous avons également inscrit 5 000 $ à l'item « prêt remorque commerce » car l'appelant a dit qu'il faisait des paiements au vendeur et que lors de la disposition en 1998, la dette avait été remboursée au complet.
+23. En ce qui concerne l'année 1999, nous avons inscrit un montant de 50 502 $ à l'item « équipements commerce » car à l'item « équipement nett. » le montant est de 16 150 $ au lieu de 15 000 $ aux états financiers de 1999 (onglet 23).
+24. Nous vous rappelons que même si la remorque apparaît aux états financiers de 1998 et 1999, la procureure de l'intimée a admis, suite au témoignage de l'appelant à l'effet qu'il avait disposé de la remorque en 1998, que la remorque ne devait plus apparaître aux états financiers de 1998 et 1999, ce qui nous a permis de ne pas faire témoigner la comptable de l'appelant. D'ailleurs, dans ces états financiers, la valeur a été mise à 0 $ afin de tenir compte de la disposition.
+25. Suite au nouveau calcul, nous obtenons un écart positif de 226 $ pour l'année 1996, un écart négatif de 3 928 $ pour l'année 1997, un écart négatif de 1 149 $ pour l'année 1998 et un écart positif de 10 741 $ pour l'année 1999.
+26. À cet égard, nous vous soumettons que les avis de nouvelle cotisation devraient être annulés à l'égard des années 1996, 1997 et 1998 et qu'ils devraient être modifiés en fonction d'un revenu non déclaré de 10 741 $ pour l'année 1999.
+27. Enfin, bien que l'intimée ait tenté de prouver au tribunal que l'appelant a acquis une valeur de 59 000 $ d'équipements pour son commerce en 1996 (avoir net I-1), ce qui porterait le revenu non déclaré à 59 539,96 $ pour cette année, nous vous soumettons que cela est tout à fait impossible car suivant la preuve, l'appelant avait des problèmes financiers qui l'ont obligé à emprunter de l'argent de sa mère et il accusait de nombreux retards dans le paiement de ses taxes municipales suivant les documents déposés sous la cote A-29.
+[35] La question fondamentale qui découle des observations de l'appelant est de déterminer si le tribunal accepte son explication quant à la valeur et au moment où les « équipements commerce » ont été acquis.
+[36] Eu égard à l'importance des montants en cause, mais surtout à cause de l'effet sur le dossier, il aurait été essentiel que la preuve soit plus étoffée et convaincante qu'une simple affirmation que l'appelant possédait le matériel de commerce depuis de nombreuses années.
+[37] La valeur de cet équipement n'a pas été établie; d'autre part, il s'agit souvent de biens dont le taux d'amortissement est très élevé ou dont la vie utile est très brève. On n'a qu'à penser au système informatique, qui devient désuet très rapidement.
+[38] Malgré cette réalité, l'appelant a essentiellement affirmé qu'il possédait ces biens depuis plusieurs années et que, de toute façon, sa capacité financière ne lui aurait pas permis de les acquérir pendant de la période en litige. Aucun fait objectif, aucun autre témoignage, aucun document n'est venu soutenir ou confirmer la seule et simple affirmation de l'appelant.
+[39] Par contre, les états financiers qu'il a lui-même produits en preuve au début de l'audience pour le moment au début des activités de l'entreprise en cause, ne font aucune mention de tels biens. L'appelant affirme ne pas connaître la raison de ce silence ou de cette absence, si ce n'est une erreur.
+[40] À cet égard, l'argument de l'appelant voulant que sa capacité de payer ne lui aurait jamais permis de s'offrir de tels biens se retourne contre lui; en effet, comment comprendre qu'une personne ayant une si faible capacité de payer ne se rende pas compte de l'absence de biens aussi importants dans son bilan?
+[41] L'explication verbale non confirmée contredit totalement un écrit dont la fiabilité doit être présumée et tenue pour acquis à moins d'une preuve déterminante et fiable à l'effet contraire. Je ne retiens pas les explications de l'appelant quant aux « équipements commerce » et, en conséquence, il n'y a pas lieu de prendre en considération les arguments de l'appelant quant à l'amortissement qu'il aurait voulu attribuer aux divers biens dont la propriété n'a pas été établie de façon à convaincre le tribunal.
+[42] Pour les raisons qui précèdent, la Cour n'accepte pas les prétentions de l'appelant quant aux « équipements commerce » . Je prends cependant acte de l'admission relative à la dépanneuse payée 10 000 $ et entièrement financée par le vendeur, le tout n'ayant aucun effet sur les années d'imposition 1998 et 1999.
+[43] L'admission a été formulée comme suit (transcription aux pages 123 à 125 et 128 à 129) :
+[...]
+Q. Une remorque que vous avez acquise... vous avez effectivement acquis une remorque en 96...
+R. Oui.
+Q. ... pour Action Remorquage 04?
+R. Oui.
+Q. Bon. Pouvez-vous dire de qui vous avez acheté cette remorque-là?
+R. Oui, de Marc Laroche Pièces d'autos.
+Q. O.K.
+MONSIEUR LE JUGE :
+Q. À Victoriaville?
+R. Non, à Pointe-du-Lac.
+Me ALAIN BOLDUC :
+Q. Vous avez payé ça 10 000 $, comme il apparaît aux états financiers?
+R. Oui.
+MONSIEUR LE JUGE : Juste une seconde.
+Q. Une remorque, il faut s'entendre, là. Une remorque, pour le commun des mortels comme moi, là, ça peut vouloir dire bien des choses; ça peut vouloir dire un « trailer » ...
+R. Non, c'est un « towing » , Monsieur le Juge.
+Q. ... puis ça peut vouloir dire un * towing + aussi.
+R. C'est un « towing » .
+Q. C'est un « towing » . O.K.
+Me ALAIN BOLDUC :
+Q. C'est quelque chose que je voulais poser également pour éclaircir ça. Parfait. Bon. Vous avez acquis ça en 96. Vous rappelez-vous comment vous avez payé ça? Est-ce qu'il y avait... Vous avez payé ça 10 000 $ au total? Avez-vous eu des modalités de paiement? Comment ça s'est fait?
+R. Ça, ça m'a été financé par Marc Laroche Pièces d'autos.
+Q. O.K. Quand vous avez acheté, la dette, par exemple, ça fait depuis 96, est-ce que vous vous rappelez du montant qui était financé?
+R. 10 000 $.
+Q. Il était financé au complet?
+R. Oui. Oui oui, au début, oui. J'ai donné de l'argent après, là. Mais au début, il était financé au complet.
+Q. Bon. Ensuite, vous aviez également dans les états financiers de... O.K. Par la suite, en 98, si on regarde, bon, à la page 7 des états financiers 98, c'est marqué « remorque : 10 000 $, valeur nette : zéro » . Qu'est-ce qui s'est passé avec ce « towing » là en 98?
+R. En 98, je l'ai ramené, moi, je l'ai revendu à Marc Laroche Pièces d'autos, je l'ai échangé parce que j'ai fini de le payer, si je ne me trompe pas, en 98, puis je l'ai échangé pour deux véhicules, deux autos.
+Q. O.K. Puis en 98. Puis 99, avez-vous racheté d'autres remorques, d'autres « towings » ?
+R. Non.
+[...]
+CONTRE-INTERROGÉ PAR Me ANNICK PROVENCHER :
+Q. Je vais avoir juste une question. Quand vous avez disposé de votre remorque en 98, vous avez dit avoir reçu des véhicules en échange. C'était quoi ces véhicules-là?
+R. Je ne me souviens pas exactement de la sorte, là, mais je pourrais faire sortir les papiers.
+Q. Non, mais à votre mémoire, là, qu'est-ce que vous avez fait avec ces véhicules-là?
+R. Ah! je les ai revendus.
+Q. O.K. Je n'ai pas d'autres questions.
+[...]
+Me ANNICK PROVENCHER : Bon, à la lumière de ce qu'on vient d'entendre, je pense que c'était le meilleur témoin pour venir témoigner, effectivement, des biens qu'il possédait en 98. Puis je suis content qu'il soit venu témoigner, puis on est satisfaits pour ce qui est de la question de l'amortissement en 98, qu'elle a été valablement déclarée dans sa déclaration d'impôt. Il en a effectivement disposée, puis il a eu deux voitures en échange. Je pense que ce n'est pas obligatoire d'entendre madame Cyr demain matin.
+[...]
+[44] Quant à la question de l'amortissement, la preuve a traité principalement d'une dépanneuse acquise au coût de 10 000 $, mais le montant a été financé en entier par le vendeur.
+[45] Les explications de l'appelant quant à cette dépanneuse ont été acceptées par l'intimée. À ce sujet, l'appelant a expliqué qu'il s'agissait d'une dépanneuse d'occasion qu'il avait payée 10 000 $, montant qui avait été financé en totalité par le vendeur. L'appelant a finalement affirmé qu'il avait ultérieurement échangé la dépanneuse pour des véhicules s'ajoutant à son stock.
+[46] Le bon fonctionnement de notre système fiscal repose sur le principe de l'auto cotisation. Le contribuable y joue donc un rôle déterminant, l'État prenant pour acquis que ses citoyens sont en mesure d'assumer cette responsabilité et les obligations inhérentes.
+[47] Pour assumer convenablement cette responsabilité, les citoyens, particulièrement lorsqu'ils exploitent une entreprise, doivent mettre en place un système comptable permettant de déterminer précisément quels sont les revenus imposables; cela implique une comptabilité complète permettant d'établir la provenance de tous les revenus, mais aussi les dépenses, le tout complété par la disponibilité de toutes les pièces justificatives pertinentes.
+[48] Lorsque cette lourde responsabilité n'est pas prise au sérieux et qu'il n'est pas possible de procéder à une vérification selon les règles de l'art habituelles, il est alors nécessaire d'utiliser la méthode de l'avoir net. Il s'agit là d'une approche et d'une méthode dont la principale faiblesse est l'arbitraire jusqu'à un certain point.
+[49] À la suite d'une cotisation raisonnablement établie par la méthode de l'avoir net et adéquatement soutenue et justifiée, le contribuable peut évidemment contester. Par contre, à défaut d'explications raisonnables et vraisemblables, il risque de voir son appel débouté.
+[50] L'absence de comptabilité, de registres, de livres comptables et de pièces justificatives peut également avoir des conséquences pénibles pour la personne négligente et imprudente ayant manifesté une certaine indifférence ou insouciance; en effet, elle s'expose en outre à devoir faire face à des pénalités si la preuve, dont le fardeau incombe au ministre, démontre une certaine incurie et un certain degré de négligence, selon la nature des pénalités.
+[51] En l'espèce, l'appelant s'est vu imposer des pénalités de deux ordres, soit l'une pour production tardive de ses déclarations et l'autre pour avoir omis de déclarer des revenus à la suite d'une négligence importante équivalant à une faute lourde.
+[52] Il est en effet très difficile de prétendre avoir agi de façon vigilante et responsable lorsqu'on n'est pas en mesure d'apporter des explications, mais surtout des pièces documentaires, à l'appui de ses dires. En l'espèce, l'appelant n'a soumis aucune preuve documentaire; ses explications verbales étaient tantôt vagues, tantôt incomplètes, tantôt tout simplement invraisemblables.
+Pour les années d'imposition en litige, l'appelant a déclaré les revenus nets suivants :
+1996
+1997
+1998
+1999
+8 120,00 $
+6 950,80 $
+4 094,25 $
+8 309,00 $
+Pièce A-17
+Pièce A-19
+Pièce A-21
+Pièce A-23
+Le 3 février 2004, le ministre ajoutait aux revenus de l'appelant les montants suivants :
+Année
+1996
+1997
+1998
+1999
+Montant
+5 840 $
+5 586 $
+16 946 $
+17 138 $
+Pourcentage du revenu déclaré
+72 %
+80 %
+414%
+206 %
+[53] Les écarts entre les revenus déclarés et les revenus attribués sont considérables. De plus, seuls certains éléments de la cotisation selon l'avoir net sont contestés par l'appelant.
+[54] La différence entre les avoirs déclarés et les avoirs établis par la méthode de l'avoir net est si importante qu'il n'y a aucun doute que l'appelant a sciemment choisi de ne pas déclarer une partie importante de ses revenus. Il ne s'agit pas d'un oubli isolé ou d'une banale erreur. L'écart constaté a découlé d'une volonté bien arrêtée, sans doute constante et continue, de se soustraire à ses obligations fiscales. La faiblesse des arguments au soutien de l'appel, encore là, démontre que l'appelant était manifestement peu préoccupé par la nécessité de soumettre un dossier du moins acceptable, sans être impeccable.
+[55] L'absence de pièces justificatives, les prétentions essentiellement verbales et certaines explications invraisemblables (provenance du montant de 10 000 $) constituent suffisamment d'éléments démontrant à quel point l'appelant ne faisait et n'a fait aucun effort pour mettre en place un quelconque système permettant un minimum de cohérence et de fiabilité.
+[56] Compte tenu de toutes ces raisons, je conclus que l'imposition des pénalités était appropriée et tout à fait justifiée. Leur annulation aurait pour effet de récompenser l'incurie et la négligence.
+[57] L'appel est admis en ce que le dossier est déféré au ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que le montant attribué aux vacances de l'appelant doit être retiré de ses dépenses pour les années en litige; de plus, le ministre devra tenir compte du fait que la dépanneuse acquise en 1996 au coût de 10 000 $ n'a aucun effet sur l'avoir net de l'appelant pour les années en litige.
+[58] Je confirme le bien-fondé des pénalités, qui devront cependant faire l'objet de corrections pour les rendre conformes aux nouvelles cotisations.
+Signé à Ottawa, Canada, ce 18e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2005CCI187
+No DU DOSSIER DE LA COUR :
+2004-1902(IT)I
+INTITULÉ DE LA CAUSE :
+Alain Morrissette c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATES
+Audience :
+Plaidoirie écrite de l'appelant :
+Réplique de l'intimée
+le 4 octobre 2004
+le 15 octobre 2004
+le 25 novembre 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 18 mars 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Alain Bolduc
+Avocate de l'intimée :
+Me Annick Provencher
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Ville :
+Me Alain Bolduc
+Joli-Coeur, Lacasse, Geoffrion, Jetté, St-Pierre
+Trois-Rivières (Québec)
+Pour l'intimée :
+John H. Sims, c.r. sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada

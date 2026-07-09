@@ -1,0 +1,150 @@
+Title: Shaw v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31280/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-256-31280-shaw-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2013-08-22
+
+# Shaw v. The Queen
+
+- Citation: 2013 CCI 256
+- Decision date: 2013-08-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5033, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shaw v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-08-22
+Référence neutre
+2013 CCI 256
+Numéro de dossier
+2011-2498(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2498(IT)G
+ENTRE :
+ROLLIE SHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 avril 2013, à Edmonton (Alberta).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me James C. Yaskowich
+Avocate de l’intimée :
+Me Donna Tomljanovic
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 est rejeté.
+Les dépens sont adjugés à l’intimée.
+Signé à Halifax (Nouvelle‑Écosse), ce 22e jour d’août 2013.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 15e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013CCI256
+Date : 20130822
+Dossier : 2011-2498(IT)G
+ENTRE :
+ROLLIE SHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] Le présent appel porte sur les années d’imposition 2006 et 2007 de M. Shaw. Le ministre du Revenu national (le « ministre ») a ajouté des montants de 47 000 $ et de 93 000 $ aux revenus gagnés par celui‑ci en 2006 et en 2007, respectivement, au motif qu’il s’agissait de revenus tirés d’un emploi au sens des paragraphes 5(1) et 6(1) de la Loi de l’impôt sur le revenu (la Loi). L’appelant soutient qu’il s’agit plutôt de dons reçus de son ex‑employeur.
+[2] À l’audience, deux personnes sont venues témoigner pour le compte de l’appelant : l’appelant lui‑même ainsi que Leo Robert.
+[3] Les parties ont déposé un exposé conjoint des faits dont voici un extrait :
+[traduction]
+1. À toutes les époques pertinentes, l’appelant était un particulier résidant au Canada, en Alberta, pour l’application de la Loi.
+2. Avant mai 2006, l’appelant était employé comme gestionnaire du matériel par L. Robert Enterprises Ltd. (« Robert Ltd. ») à Fort McMurray, en Alberta. Au début de 2006, il travaillait pour cette entreprise depuis au moins 14 ans, ayant occupé ce poste ainsi que d’autres.
+3. À toutes les époques pertinentes, Leo Robert (« M. Robert »), un particulier résidant au Canada, contrôlait Robert Ltd.
+4. Au cours de 2006, Robert Ltd. a convenu de vendre son entreprise et ses éléments d’actif (la « vente d’actifs ») à L. Robert Enterprises Corp. (« Robert Corp. »), filiale nouvellement constituée de CEDA International Corporation (« CEDA »).
+5. Le 1er mai 2006, par suite de la vente d’actifs, Robert Ltd. a changé sa dénomination sociale pour 236419 Alberta Ltd. (« 236419 »), et cette dernière a cessé d’exercer les activités que Robert Ltd. avait exercées jusque‑là. Aux fins du présent exposé conjoint des faits, nous continuerons d’employer « Robert Ltd. » pour désigner « 236419 ».
+6. Par suite de la vente d’actifs, l’appelant est devenu gestionnaire de matériel pour Robert Corp.
+7. Le ou vers le 28 septembre 2006, l’appelant a reçu une lettre l’informant qu’il recevrait un paiement. Une copie de la lettre comportant des inscriptions manuscrites de l’appelant est jointe au présent exposé conjoint des faits.
+8. M. Robert avait donné instruction à Robert Ltd. de faire des paiements (les « paiements ») à l’appelant ainsi qu’à d’autres anciens gestionnaires à compter de décembre 2006. Voici les paiements faits à l’appelant :
+a) Un paiement de 47 000 $, le 8 décembre 2006;
+b) Un paiement de 47 000 $, le 8 janvier 2007;
+c) Un paiement de 46 000 $, le 28 novembre 2007.
+9. Les paiements ont été tirés sur le compte d’un prêt d’actionnaire consenti à la société par M. Robert. Les paiements faits à l’appelant figurent dans le grand livre du prêt d’actionnaire de L. Robert Enterprises Ltd. dont copies ont été jointes à l’exposé conjoint des faits.
+10. L’impôt sur les sommes figurant dans le compte du prêt d’actionnaire dû par Robert Ltd. à M. Robert a été acquitté, c’est‑à‑dire que le solde du compte provenait des primes consenties à M. Robert et déclarées comme telles au cours des années précédentes, mais qui ne lui ont pas été payées en argent comptant.
+11. Robert Ltd. n’a effectué aucune retenue sur les paiements, puisque ces derniers correspondaient au remboursement du prêt que lui avait consenti M. Robert. En particulier :
+a) le compte du prêt d’actionnaire a été réduit des sommes correspondant aux paiements faits à l’appelant;
+b) Robert Ltd. n’a pas demandé de déductions d’impôt pour les paiements versés à l’appelant.
+12. Le ou vers le 24 juin 2009, l’appelant a reçu une lettre l’informant du fait que des paiements représentant au total 140 000 $ lui avaient été faits.
+[4] Dans le corps de la lettre datée du 28 septembre 2006 et dont il est fait mention au paragraphe 7 de l’exposé conjoint des faits, on peut lire ce qui suit :
+[traduction]
+La vente du groupe de sociétés L. Robert à CEDA International marque le début d’une nouvelle ère pour chacun d’entre nous. Pour moi, c’est un départ à la retraite qui me permettra de profiter de la vie à Kelowna. Pour vous, il s’agit d’un nouveau départ au sein du groupe CEDA, où les possibilités qui vous seront offertes seront nombreuses.
+Afin de vous témoigner ma gratitude pour vos années de service et pour votre contribution à la réussite de l’entreprise, je vous accorderai une prime qui vous sera versée au cours des trois prochaines années à la date anniversaire de la vente. La prime sera de 10 000 $ par année de service au sein de l’entreprise et vous sera payée uniquement si vous conservez votre emploi au sein du groupe CEDA. La prime que vous recevrez ne sera pas imposable, car l’entreprise aura déjà acquitté l’impôt à payer.
+[5] Voici également un extrait de la lettre datée du 24 juin 2009, dont il est question au paragraphe 12 de l’exposé conjoint des faits :
+[traduction]
+La présente lettre vise à confirmer la réception de la prime reçue de Leo Robert par suite de la vente de l’entreprise.
+Au total, 140 000 $ vous ont été payés, soit 47 000 $ en décembre 2006, 47 000 $ en janvier 2007 et les 46 000 $ restants en novembre 2007. Vous n’aviez pas à payer d’impôt sur ces sommes, puisqu’elles ont été payées à même les fonds de mon compte de prêt de l’actionnaire, et que l’entreprise avait déjà acquitté l’impôt sur ces fonds.
+[6] L’appelant était l’un des neuf gestionnaires employés par Robert Ltd. en 2006 lorsque l’entreprise a été vendue au groupe CEDA. M. Robert a versé à chacun de ces neuf gestionnaires 10 000 $ par année passée au service de Robert Ltd. La somme la plus élevée versée à un gestionnaire a été de 210 000 $ et la plus basse, de 30 000 $. M. Robert estime avoir donné 880 000 $ au total aux gestionnaires de Robert Ltd. L’appelant a reçu 140 000 $.
+[7] Je désignerai du terme « paiements » les sommes reçues par l’appelant et les autres gestionnaires.
+[8] Aux dires de l’appelant, M. Robert et lui étaient amis et c’est au nom de cette amitié qu’il a voulu lui faire cadeau des paiements. Son avocat a fait valoir que les 140 000 $ ont été donnés à l’appelant à titre personnel, et non en sa qualité d’employé de Robert Ltd.
+[9] Lors de son témoignage, l’appelant a relaté dans quelles circonstances il avait rencontré M. Robert et commencé à travailler pour Robert Ltd. Son discours était axé sur la relation qu’il entretenait avec M. Robert et les activités sociales auxquelles il prenait part en sa compagnie.
+[10] M. Robert a déclaré que, selon son intention, les paiements devaient être des dons faits à ses gestionnaires. Les lettres datées des 28 septembre 2006 et 24 juin 2009 avaient été écrites et signées en son nom par Kevin Shulko, directeur des finances de Robert Ltd. Dans ces lettres, M. Shulko avait écrit que les paiements représentaient des primes, mais M. Robert désavouait le choix de ce terme. Selon lui, la prime était ce que les gestionnaires recevaient à Noël. Or, les paiements faits aux gestionnaires n’avaient rien à voir avec le travail. Il avait déjà vendu Robert Ltd. et il leur a fait cadeau de ces paiements pour les remercier de lui avoir donné un « coup de main » durant leurs années de collaboration.
+[11] Les dispositions applicables de la Loi se trouvent en son alinéa 6(1)a), auquel le juge Linden, dans l’arrêt Blanchard c. Canada, [1995] A.C.F. no 1045; [1995] 2 CTC 262 (CAF), a attribué une portée générale. Dans l’arrêt Blanchard, le juge Linden a formulé des principes directeurs pour l’interprétation de l’alinéa 6(1)a), dressant en outre une liste de cas où il a été jugé ne pas s’appliquer. Il s’exprime en ces termes :
+3 […] [Cette disposition] prévoit l'inclusion des "avantages de quelque nature que ce soit" dans le revenu d'emploi si ceux-ci ont été reçus "au titre, dans l'occupation ou en vertu d'une charge ou d'un emploi". Sa portée est très large, étant donné qu'il regroupe deux locutions formulées en termes généraux. La première, "avantages de quelque nature que ce soit", est claire et sans ambiguïté : on doit inclure toutes les formes inimaginables d'avantages. Dans l'arrêt La Reine c. Savage, le juge Dickson (alors juge puîné), parlant pour la majorité, statuait que l'alinéa 6(1)(a) avait "un sens très large" et qu'il s'appliquait à toute "acquisition importante qui confère au contribuable un avantage économique"2
+4 La seconde locution se divise en trois syntagmes : "au titre de", "dans l'occupation de", et "en vertu de". Dans l'arrêt Nowegijick c. La Reine, la Cour suprême du Canada a interprété l'expression "au titre de" :
+À mon avis, les mots "quant à" ont la portée la plus large possible. Ils signifient, entre autres, "concernant", "relativement à" ou "par rapport à". Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c'est probablement l'expression "quant à" qui a la portée la plus large.3
+Les commentaires de la Cour sont pertinents aux fins de l'interprétation de l'alinéa 6(1)(a). Le législateur a ajouté à l'expression "à titre de" les expressions "dans l'occupation de" et "en vertu de" afin de souligner qu'il suffit d'un lien très ténu avec l'emploi pour que l'article s'applique.
+5 L'alinéa 6(1)(a) laisse très peu de place aux exceptions. Cependant, quelques-unes de celles-ci ont fait irruption dans la jurisprudence. Premièrement, les remboursements effectués par l'employeur à son employé, pour les dépenses faites par ce dernier ne sont pas imposables. Ces remboursements ne constituent pas des avantages. Ils n'ajoutent rien au pécule du contribuable, mais lui évitent simplement de payer de sa poche4. En d'autres mots, ils ne constituent que des paiements issus d'une opération totalisant une somme nulle. Dans l'arrêt Splane v. The Queen, le juge Cullen, au nom de la majorité, a déclaré ce qui suit :
+Ce dernier [le demandeur] est déménagé à la demande de son employeur, a engagé certaines dépenses lors du déménagement et a subi une perte. Le remboursement de ses dépenses ne peut pas être considéré comme étant un acte qui confère un avantage au sens de la Loi. On a tout simplement rétabli le demandeur dans la situation économique dans laquelle il se trouvait avant d'accepter d'aider son employeur en déménageant au bureau d'Edmonton.5
+Les remboursements pour les dépenses réellement engagées ne sont donc pas visées par l'alinéa 6(1)(a).
+6 Deuxièmement, l'avantage qui est entièrement "étranger" ou "accessoire" à l'emploi d'un particulier, c'est-à-dire l'avantage reçu uniquement "à titre personnel", peut ne pas être visé par l'alinéa 6(1)(a)6. Cette exception ne s'applique que dans très peu de cas et ne peut être invoquée que lorsqu'il n'y a aucun lien ni rapport avec la relation employeur-employé.
+[12] Dans La Reine c. Savage, [1983] 2 RCS 428, la Cour suprême a reconnu que l’avantage devait être conféré au contribuable en sa qualité d’employé pour être imposable. En revanche, toujours dans l’arrêt Savage, précité, le juge Dickson a précisé qu’il n’était pas nécessaire que l’avantage représente une forme de rémunération pour services rendus pour être inclus dans le calcul du revenu.
+[13] Comme je l’ai dit précédemment, la thèse de l’appelant est qu’il a reçu les paiements à titre personnel et qu’il s’agissait d’un cadeau de son ancien employeur. Il ne fait aucun doute que les paiements constituent un avantage reçu par l’appelant, mais il reste à déterminer s’ils étaient entièrement « étrangers » ou « accessoires » à son emploi.
+[14] S’appuyant sur la décision rendue par la Cour d’appel fédérale dans l’affaire La Reine c. Phillips, [1994] 2 CF 680 (CAF), l’avocat de l’appelant a fait valoir que, pour décider si les paiements étaient des dons ou le résultat de considérations étrangères à l’emploi de l’appelant, il fallait s’en remettre aux motifs pour lesquels M. Robert a fait ces paiements.
+[15] Dans son témoignage, M. Robert a indiqué que les paiements devaient être des dons faits aux gestionnaires et qu’il voulait que ceux-ci n’aient pas à payer d’impôt sur ces sommes.
+[16] Je signale que, dans sa lettre du 28 septembre 2006, M. Robert informait l’appelant qu’il n’aurait pas à payer d’impôt sur les paiements, puisque l’entreprise aurait déjà acquitté cet impôt. Bien que M. Robert désapprouve le choix du mot « prime » figurant dans la lettre, il ne conteste pas la teneur de ce passage. Cela dit, je relève que, dans la lettre du 24 juin 2009, M. Robert a donné une tout autre explication du caractère non imposable des paiements.
+[17] L’examen de la preuve, et notamment, du témoignage de M. Robert, m’amène à conclure que l’appelant n’a pas touché les paiements en raison de leur amitié. Il les a plutôt reçus parce qu’il était gestionnaire au sein de Robert Ltd. au moment de sa vente. Tous les gestionnaires ont reçu des paiements calculés en fonction de leurs années de service auprès de Robert Ltd. M. Robert a fait des paiements à chacun des gestionnaires en leur qualité d’employés et il n’a, par ailleurs, fait aucune distinction entre l’appelant et les autres gestionnaires.
+[18] La lettre du 28 septembre 2006 précisait que les paiements seraient faits à l’appelant sur une période de trois ans, et seulement à la condition que ce dernier demeure à l’emploi du groupe CEDA. M. Robert a expliqué qu’il avait inclus cette condition dans la lettre parce qu’il voulait que les gestionnaires restent au sein du groupe CEDA pour assurer une continuité dans leur vie. De plus, en 2006, il était difficile de trouver des employés à Fort McMurray et de les garder à son service; cette exigence rappelait au groupe CEDA qu’il se devait de traiter ses anciens gestionnaires avec respect. La preuve produite montre que l’appelant a travaillé pour le groupe CEDA jusqu’en juin 2011.
+[19] Quoique M. Robert ait affirmé avoir voulu que les paiements constituent un don, sa lettre du 28 septembre 2006 rattache manifestement ces paiements à l’emploi de l’appelant au sein de Robert Ltd.
+[20] Si j’applique les principes énoncés dans les décisions Savage, Phillips et Blanchard, j’arrive à la conclusion que l’appelant a reçu le paiement de 140 000 $ au titre, dans le cadre et en raison de son emploi. Lorsqu’un contribuable reçoit un paiement à la condition de continuer à travailler pour un employeur donné, on peut difficilement affirmer que ce paiement est attribuable à des considérations étrangères à son emploi : Phillips, précité, au paragraphe 19. Le fait qu’un des gestionnaires ait quitté son emploi au sein du groupe CEDA avant l’expiration des trois ans et qu’il ait reçu 10 000 $ directement de M. Robert ne modifie en rien la condition exigée et acceptée par l’appelant. Il était clairement spécifié, dans la lettre du 28 septembre 2006, que l’appelant recevait le paiement au titre et en raison de son emploi auprès de Robert Ltd. Le paiement était une marque de « gratitude » pour ses années de service.
+[21] Le fait que l’appelant n’était pas l’employé de M. Robert au moment de toucher le paiement ne modifie pas la conclusion à laquelle j’arrive. L’alinéa 6(1)a) traite des avantages à inclure dans le calcul du revenu « d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ». Bien que le contribuable doive nécessairement être titulaire d’un emploi ou d’une charge, il n’est pas obligatoire qu’il soit être lié par cet emploi ou cette charge à la personne qui lui a accordé l’avantage, au moment où l’avantage est conféré : C c. Ministre du Revenu national, 1950 CarswellNat 33 (CAI). Il suffit que le contribuable ait reçu l’avantage « au titre, dans le cadre ou en raison d’une charge ou d’un emploi ».
+[22] L’appel est rejeté avec dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 22e jour d’août 2013.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 15e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013CCI256
+No DU DOSSIER DE LA COUR : 2011-2498(IT)G
+INTITULÉ : ROLLIE SHAW ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 24 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 22 août 2013
+COMPARUTIONS :
+Avocat de l’appelant :
+Me James C. Yaskowich
+Avocate de l’intimée :
+Me Donna Tomljanovic
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : James C. Yaskowich
+Cabinet : Felesky Flynn LLP
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,253 @@
+---
+title: "Potvin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28725/index.do"
+last_modified: "2008-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 319"
+citation2: ""
+neutral_citation: "2008 TCC 319"
+decision_date: "2008-06-17"
+language: "en"
+item_id: "28725"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1448
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:05:40.264000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a80a193467d3378a80d7723207f9711e89d704528ec8f0363c6bd3c314dcf96"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Potvin v. The Queen
+
+- Citation: 2008 TCC 319
+- Decision date: 2008-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1448, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Potvin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-17
+Neutral citation
+2008 TCC 319
+File numbers
+2007-3413(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3413(IT)I
+BETWEEN:
+THÉRÈSE POTVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 28, 2008, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jérôme Théberge
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of June 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of July 2008.
+Susan Deichert, Reviser
+Citation: 2008TCC319
+Date: 20080617
+Docket: 2007-3413(IT)I
+BETWEEN:
+THÉRÈSE POTVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from reassessments that were confirmed on April 24, 2007. By means of the reassessments, the Minister of National Revenue ("the Minister") added to the Appellant's income, for each of the taxation years 1999 and 2000, the sum of $10,839 on account of a taxable benefit conferred on her by Les Excavations T. Potvin Inc., a corporation of which she was a shareholder.
+[2] In making and confirming the reassessments dated September 3, 2002, in respect of the 1999 and 2000 taxation years, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) After receiving documents from the Ministère du Revenu du Québec assessing the Appellant for the 1999 and 2000 taxation years, the Minister, in turn, commenced a limited audit in connection with those years.
+(b) On July 18, 2002, the Minister sent the Appellant a draft adjustment in writing in respect of the 1999 and 2000 taxation years:
+1999 2000
+(i) Taxable benefits received as a
+shareholder of
+Les Excavations T. Potvin Inc. $10,839 $10,839
+(c) The following facts were confirmed at the objection stage:
+(i) The Appellant was the sole shareholder of Les Excavations T. Potvin Inc. during the period in issue.
+(ii) On November 27, 1996, Les Excavations T. Potvin Inc. purchased a pickup truck.
+(iii) Les Excavations T. Potvin Inc. made the vehicle available to the Appellant's spouse, Fernand Potvin, for his personal use during the period in issue.
+(d) At the objection stage, the Minister decided to wait for the Quebec’s decision on the objection and for the expiry of the deadlines for subsequent recourse.
+(e) After receiving the memorandum on objection from Revenu Québec, the judgment of the Court of Québec, Small Claims Division, and the judgment of the Quebec Superior Court, the Minister confirmed the taxable benefits that had been assessed.
+[3] The issue is whether it was correct to add the amount of $10,839 to the Appellant's income, in respect of each of the taxation years 1999 and 2000, on account of benefits conferred on her as shareholder of Les Excavations T. Potvin Inc.
+[4] The sole witness was Fernand Potvin, the Appellant's spouse. He explained that he has been married to the Appellant for several years.
+[5] After holding 5% of the share capital of Les Excavations T. Potvin Inc., he sold his shares in 1998 for reasons that he characterized as personal.
+[6] At all times both before and after the sale of his shares, Fernand Potvin was the person in charge of the corporation's activities; in fact, he described himself as secretary, director and manager.
+[7] He explained that even though the Appellant was the sole shareholder of the corporation, she merely answered the telephone, and, where necessary, passed on the contents of those telephone calls. In other words, he explained that he was the directing mind of the corporation at all times.
+[8] He explained that the corporation had ceased its day-to-day operations during the taxation years in issue and that, as of 1999, his job, which was still that of corporate secretary and manager, essentially had consisted in closing the files that were still pending.
+[9] Prior to that, he was in charge of all of the activities of the business; he had performed all the tasks necessary to carry on the business, including the operation of its various pieces of equipment. In 1999, he received a salary of $2,400 for his work, which consisted in doing what was necessary to close all the files.
+[10] The business owned a truck that the Appellant's spouse used for his work.
+[11] Mr. Potvin explained that he had driven the truck in question on company business. He had used it for his work as secretary and manager. He was not required to ask for permission or authorization to use the vehicle, because he had had complete independence with respect to its use.
+[12] He also explained that he was the only one who used the vehicle that gave rise to the assessment. His spouse had another vehicle at her disposal during the period in issue, thereby corroborating the fact that he was the only one who used the truck.
+[13] There is no dispute of any kind about the facts. Essentially, the issue is whether the benefit should have been attributed to Mr. Potvin rather than the Appellant, especially because he was the company's employee.
+[14] Since Mr. Potvin is not a party to the instant case, I must determine whether the Appellant should be assessed under subsection 15(1) or, as the Appellant submits, under paragraph 6(1)(e).
+[15] The Appellant acknowledges that the situation might have been quite different if her spouse had not worked for the company. Furthermore, she submits that the provisions on which the assessment is based would lead to double taxation if the Minister's submissions were accepted.
+[16] Indeed, according to the Appellant, the Minister could attribute the income to the shareholder, as in the case at bar, or attribute it to the employee, or to both. She submits that this is so unreasonable and unacceptable that the assessment should accordingly be vacated.
+[17] As for the Respondent, she essentially submits that the assessments were made in accordance with the provisions of the Act and were well-founded in fact and in law.
+[18] The assessment made by Revenu Québec was confirmed on its merits in Potvin c. Québec (Sous-ministre du Revenu), 2006 QCCQ 1588, at paragraph 7 (it should be noted that this decision was affirmed by the Quebec Superior Court 2007 QCCS 1178); indeed, Bécu J. of the Court of Québec, who heard that appeal, stated as follows in his decision:
+[TRANSLATION]
+Mr. Potvin did not add the value of these benefits to his income for 1999 and 2000. This entitled the Respondent to add the benefits to the income of the Appellant Ms. Potvin, who is both a shareholder of Excavations and a person related to Mr. Potvin.
+[19] I am, of course, not bound by decisions of the Court of Québec. Moreover, Quebec's legislation is not the same, though several of its provisions are similar.
+[20] The conditions set out in the Act must be borne in mind before adding, to the income of a shareholder, a benefit conferred on a person related to that shareholder.
+[21] Subsection 15(1) and section 6 of the Act are the provisions that Parliament intended to apply to the instant matter.
+[22] In theory, there can actually be triple taxation. An assessment under subsection 15(1) normally triggers double taxation, in that it imposes an amount that ordinarily cannot be deducted by the corporation because it was not an expense incurred by the corporation for the purpose of gaining or producing income, as required by paragraph 18(1)(a). Moreover, the Minister could simultaneously assess a taxable benefit under section 6, thereby giving rise to triple taxation.
+[23] One could speculate about an even more outlandish situation, in which two individuals in a spousal relationship are both shareholders and employees of a corporation. A taxable benefit could be assessed against each person under the Act, even though just one benefit was actually conferred. This would stem from the fact that each spouse can be assessed tax under subsection 15(1) and section 6.
+[24] The Respondent cites the decision of the Federal Court of Appeal in Massicotte v. Canada, 2008 FCA 60, 2008 CarswellNat 334, in support of her assessment; based on the Minister's interpretation, the Minister is entitled to add the amount to the Appellant's income under subsection 15(1), or to her spouse's income under section 6.
+[25] The conditions under which section 15 and section 6 apply are not identical.
+[26] The relevant provisions of the Act with respect to benefits conferred on a shareholder and benefits conferred on an employee for the use of an automobile read as follows:
+6. (1) Amounts to be included as income from office or employment
+There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+. . .
+(e) Standby charge for automobile ─ where the taxpayer's employer or a person related to the employer made an automobile available to the taxpayer, or to a person related to the taxpayer, in the year, the amount, if any,
+(i) an amount that is a reasonable standby charge for the automobile for the total number of days in the year during which it was made so available
+exceeds
+(ii) the total of all amounts, each of which is an amount (other than an expense related to the operation of the automobile) paid in the year to the employer or the person related to the employer by the taxpayer or the person related to the taxpayer for the use of the automobile;
+. . .
+(k) Automobile operating expense benefit ─ where
+(i) an amount is determined under subparagraph 6(1)(e)(i) in respect of an automobile in computing the taxpayer’s income for the year,
+(ii) amounts related to the operation (otherwise than in connection with or in the course of the taxpayer’s office or employment) of the automobile for the period or periods in the year during which the automobile was made available to the taxpayer or a person related to the taxpayer are paid or payable by the taxpayer’s employer or a person related to the taxpayer’s employer (each of whom is in this paragraph referred to as the “payor”), and
+(iii) the total of the amounts so paid or payable is not paid in the year or within 45 days after the end of the year to the payor by the taxpayer or by the person related to the taxpayer,
+the amount in respect of the operation of the automobile determined by the formula
+A – B
+where
+A is
+(iv) where the automobile is used primarily in the performance of the duties of the taxpayer’s office or employment during the period or periods referred to in subparagraph (ii) and the taxpayer notifies the employer in writing before the end of the year of the taxpayer’s intention to have this subparagraph apply, 1/2 of the amount determined under subparagraph 6(1)(e)(i) in respect of the automobile in computing the taxpayer’s income for the year, and
+(v) in any other case, the amount equal to the product obtained when the amount prescribed for the year is multiplied by the total number of kilometres that the automobile is driven (otherwise than in connection with or in the course of the taxpayer’s office or employment) during the period or periods referred to in subparagraph 6(1)(k)(ii), and
+B is the total of all amounts in respect of the operation of the automobile in the year paid in the year or within 45 days after the end of the year to the payor by the taxpayer or by the person related to the taxpayer; and
+. . .
+(2) Reasonable standby charge ─ For the purposes of paragraph (1)(e), a reasonable standby charge for an automobile for the total number of days (in this subsection referred to as the "total available days") in a taxation year during which the automobile is made available to a taxpayer or to a person related to the taxpayer by the employer of the taxpayer or by a person related to the employer (both of whom are in this subsection referred to as the "employer") shall be deemed to be the amount determined by the formula:
+A/B × [2% × (C × D) + 2/3 × (E - F)]
+where
+A is the lesser of
+(a) the total number of kilometres that the automobile is driven (other than in connection with or in the course of the taxpayer's office or employment) during the total available days, and
+(b) the value determined for B for the year under this subsection in respect of the standby charge for the automobile during the total available days,
+except that the amount determined under paragraph (a) shall be deemed to be equal to the amount determined under paragraph (b) unless
+(c) the taxpayer is required by the employer to use the automobile in connection with or in the course of the office or employment, and
+(d) all or substantially all of the distance traveled by the automobile in the total available days is in connection with or in the course of the office or employment;
+B is the product obtained when 1,000 is multiplied by the quotient obtained by dividing the total available days by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+C is the cost of the automobile to the employer where the employer owns the vehicle at any time in the year;
+D is the number obtained by dividing such of the total available days as are days where the employer owns the automobile by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+E is the total of all amounts that may reasonably be regarded as having been payable by the employer to a lessor for the purpose of leasing the automobile during such of the total available days as are days when the automobile is leased to the employer; and
+F is the part of the amount determined for E that may reasonably be regarded as having been payable to the lessor in respect of all or part of the cost to the lessor of insuring against
+(a) the loss of, or damage to, the automobile, or
+(b) liability resulting from the use or operation of the automobile.
+15.(1) Benefit conferred on a shareholder ─ Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by
+(a) the reduction of the paid-up capital, the redemption, cancellation or acquisition by the corporation of shares of its capital stock or on the winding-up, discontinuance or reorganization of its business, or otherwise by way of a transaction to which section 88 applies,
+(b) the payment of a dividend or a stock dividend,
+(c) conferring, on all owners of common shares of the capital stock of the corporation at that time, a right in respect of each common share, that is identical to every other right conferred at that time in respect of each other such share, to acquire additional shares of the capital stock of the corporation, and, for the purpose of this paragraph,
+(i) where
+(A) he voting rights attached to a particular class of common shares of the capital stock of a corporation differ from the voting rights attached to another class of common shares of the capital stock of the corporation, and
+(B) there are no other differences between the terms and conditions of the classes of shares that could cause the fair market value of a share of the particular class to differ materially from the fair market value of a share of the other class,
+the shares of the particular class shall be deemed to be property that is identical to the shares of the other class, and
+(ii) rights are not considered identical if the cost of acquiring the rights differs, or
+(d) an action described in paragraph 84(1)(c.1), 84(1)(c.2) or 84(1)(c.3),
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+. . .
+(5) Automobile benefit — For the purposes of subsection 15(1), the value of the benefit to be included in computing a shareholder’s income for a taxation year with respect to an automobile made available to the shareholder, or a person related to the shareholder, by a corporation shall (except where an amount is determined under subparagraph 6(1)(e)(i) in respect of the automobile in computing the shareholder’s income for the year) be computed on the assumption that subsections 6(1), 6(1.1), 6(2) and 6(7) apply, with such modifications as the circumstances require, and as though the references therein to "the employer of the taxpayer", "the taxpayer's employer" and "the employer" were read as "the corporation".
+[27] There was no debate as to whether the vehicle giving rise to the assessment was an "automobile"; consequently, I will assume that it was one.
+[28] Moreover, the fact that the benefit was conferred on Mr. Potvin, the Appellant's spouse, and the value of the benefit, were not contested.
+[29] There does not appear to be any federal taxation case law concerning the criteria that must be used in a situation such as this, where the person related to the shareholder is also an employee of the corporation.
+[30] Nonetheless, I believe that the case law concerning shareholders who are also employees of a corporation can guide us with respect to the question of who should pay tax in a situation such as ours.
+[31] Lamarre J. explained the principles underlying subsection 15(1) of the Act in Bird v. The Queen, 2005 TCC 744, 2005 CarswellNat 6805, 2005 D.T.C. 1812, [2006] 1 C.T.C. 2241:
+37 In Youngman, supra, Pratte J.A. summarized the principles governing the application of subsection 15(1) as follows at page 6325 DTC:
+It is now well settled that paragraph 15(1)(c) applies only when a shareholder has received, qua shareholder, a benefit or advantage from a corporation. . . . A shareholder receives no benefit for the purposes of paragraph 15(1)(c) if, in the same circumstances, he would have received the same benefit from a company of which he is not a shareholder.
+. . .
+42. . . . It is obvious that, had he not been a shareholder of the corporation, such expenses would not have been reimbursed. Furthermore, even if the appellant was an employee of Renova, as the Federal Court of Appeal said in Servais, supra, the same analysis applies to an employee who receives a personal benefit, qua employee, from his employer. If not taxable under section 15, he would nonetheless be subject to tax under section 6 of the Act.
+[Emphasis added.]
+[32] In Kowalchuk v. The Queen, 2005 TCC 757, [2005] G.S.T.C. 185, 2006 G.T.C. 53, 2005 D.T.C. 1754, [2006] 1 C.T.C. 2278, Campbell J., for her part, properly identified the question that must be asked when the shareholder is also an employee:
+22 . . . The issue is whether the benefits are received by him in his capacity as a shareholder or an employee. Both types of benefits are taxable either as an employee benefit under subsection 6(1) of the Income Tax Act or as a shareholder benefit under subsection 15(1) of the Act. The difference in the characterization of the benefits will affect the deductibility by the Company because employee benefits will generally be deductible while shareholder benefits will not be.
+[33] The following passage from Strachan v. Canada, [2000] T.C.J. No. 408, [2000] 3 C.T.C. 2863, 7 B.L.R. (3d) 59, is also on point:
+29 In C. A. Crosbie Estate v. M.N.R., [1966] C.T.C. 648 (Ex. Ct.), the court had to decide whether a benefit was to be treated as part of a deceased's estate for estate tax purposes. Shortly before the deceased's death, a corporation controlled by him had granted stock options to two employees, one of whom was a blood relation of the deceased, in recognition of their services to the company, past and future. Jackett P. pointed out one aspect of the case that called for special attention, namely whether the benefit was conferred on the beneficiary as an employee of the company or as a blood relation of the deceased. In Jackett's view, the provisions of the Estate Tax Act as it then read, did not apply to a payment made by a company to an employee for services merely because that employee happened to be connected with the deceased, as long as the employer-employee relationship between the controlled company and the blood relation was not being used as a means of making to the blood relation a gift consisting in whole or in part of the amount of the payment or benefit (Crosbie Estate, supra, at p. 656-7).
+[Emphasis added.]
+[34] Thus, reasoning by analogy, I believe that a person related to a shareholder does not necessarily have to pay tax on a benefit that was conferred on the person. In my view, then, the issue boils down to deciding, based on the evidence adduced, whether the benefit was conferred on the Appellant's spouse by reason of her shareholder status or by reason of his employment.
+[35] With respect to the burden of proof, I would refer to the following excerpt from Kowalchuk, supra:
+24 The onus is on the Appellants to overcome and demolish the Minister's assumptions that the benefits were received by Kowalchuk as a shareholder and not as an employee. . . .
+[36] Reasoning by analogy once again, it was, in my view, up to the Appellant to show that her spouse received the benefit qua employee of Les Excavations T. Potvin Inc., and not because he was her spouse.
+[37] The evidence in this regard is not decisive; naturally, the Appellant's spouse submits that the benefit resulted solely from his employee status, not from the fact that he was the sole shareholder's spouse.
+[38] In my opinion, the mere potential for double taxation that is posed by a situation like this does not constitute a reason for vacating the assessment.
+[39] It is true that the Minister has a certain discretion, which he must use parsimoniously and judiciously. In the event of abusive or unreasonable enforcement, a vacation of the assessment might be the appropriate remedy.
+[40] In the case at bar, the Appellant was the cause of the assessment that she is contesting. Indeed, every taxpayer is entitled to organize his or her affairs in such a manner as to reduce his or her tax burden as much as possible. This is a legitimate, recognized and accepted practice.
+[41] According to her own arguments, the Appellant could have and should have made a choice with respect to the tax treatment of the automobile benefit. She did not make that choice, and the use of the automobile was not taxed at all, which resulted in the Minister making the choice in the Appellant's place.
+[42] After the fact, she is vigorously contesting the choice made by the Minister. The argument that it is the user who must pay the tax does have some merit, particularly when the user is an employee.
+[43] However, it has been shown that the business ceased operations and remained active only for the purpose of closing certain files; according to the Appellant's spouse, and based on his income, it appears that the work was really negligible. In fact, the amount of the benefit is considerably higher than the salary received.
+[44] I understand that the numbers have nothing to do with the applicable law. However, an analysis must be undertaken when a taxpayer, faced with a situation where two scenarios are possible, has deliberately chosen to take advantage by choosing neither.
+[45] This makes it necessary to consider all the facts in order to better understand the situation.
+[46] It appears that the Appellant in the instant case chose to play the mystery card by hoping for the ideal scenario, namely, a benefit that would simply not be taxed. An assessment was made following an audit and based on the facts in the file.
+[47] After the fact, the Appellant reacted, condemning how things were done. This somewhat undermines the theory that the Minister made a bad choice. The choice made by the Minister is provided for in the Act, and that is not only sufficient to justify the assessment, but decisive as well.
+[45] For all these reasons, the appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of June 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of July 2008.
+Susan Deichert, Reviser
+CITATION:
+2008TCC319
+COURT FILE NO.:
+2007-3413(IT)I
+STYLE OF CAUSE:
+Thérèse Potvin v. Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+February 28, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+June 17, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Théberge
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+Name: Jérôme Théberge
+Firm: Lemieux Parent Théberge
+City: Montmagny, Quebec
+For the Appellant:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

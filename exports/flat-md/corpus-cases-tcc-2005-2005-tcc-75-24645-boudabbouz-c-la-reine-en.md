@@ -1,0 +1,155 @@
+---
+title: "Boudabbouz c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/24645/index.do"
+last_modified: "2005-01-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 75"
+citation2: ""
+neutral_citation: "2005 TCC 75"
+decision_date: "2005-01-24"
+language: "en"
+item_id: "24645"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2180
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:07:13.974000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b01b89ebd71ce54cafb22d3c1e63968bc9274e0dc5434dc60062f76da0429e41"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boudabbouz c. La Reine
+
+- Citation: 2005 TCC 75
+- Decision date: 2005-01-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2180, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boudabbouz c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-24
+Neutral citation
+2005 TCC 75
+File numbers
+2004-3727(IT)APP
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3727(IT)APP
+BETWEEN:
+SAID BOUDABBOUZ,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Application heard on January 14, 2005, at Montréal, Quebec
+Before: The Honourable Justice P.R. Dussault
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+____________________________________________________________________
+ORDER
+The application for an order extending the time within which the notices of objection to the assessments made under the Income Tax Act for the 1999, 2000 and 2001 taxation years may be served is dismissed, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 24th day of January 2005.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 9th day of May 2005
+Aveta Graham, Translator
+Citation: 2005TCC75
+Date: 20050124
+Docket: 2004-3727(IT)APP
+BETWEEN:
+SAID BOUDABBOUZ,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Dussault J.
+[1] The Applicant applied for an extension of time for serving a notice of objection to the reassessments made on May 23, 2003, for the 1999, 2000 and 2001 taxation years since he had not done so within the 90-day time limit prescribed in subsection 165(1) of the Income Tax Act (the "Act"), which ended on August 21, 2003.
+[2] An application for an extension of the time for serving a notice of objection to the above-mentioned assessments was first sent to the Minister of National Revenue on August 13, 2004. That application was denied in a letter served on the Applicant on August 25, 2004. This application was filed with the Court on August 27, 2004. The Respondent submits that the application should be denied because the conditions set out in subparagraphs 166.2(5)(b)(i), (ii) and (iii) of the Act have not been met.
+[3] The Applicant and his accountant, Hassan Kachach, testified. Patrick Rondeau, a collection officer with Canada Customs and Revenue Agency ("CCRA"), testified for the Respondent.
+[4] In his testimony, the Applicant stated that he had always intended to object to the reassessments. He explained that his former accountant had all of his documents, that the accountant had left for Morocco where he stayed for 7 to 8 months and that he had not heard from him. It was only after this person's return in June 2004 that he was able to recover his documents and give them to his new accountant, Hassan Kachach, whom he had hired in early 2004. According to the Applicant, it was only as of that time that he was able to object to the reassessments because Mr. Kachach apparently told him that he had to have all of his documents to do so. The Applicant also indicated that he had been sick and that he had had a heart attack without providing further details and without specifying dates.
+[5] In his testimony, Mr. Kachach explained that the Applicant met with him in February or March 2004, but that he did not have any documents. Mr. Kachach apparently then contacted a Ms. Paradis from CCRA who informed him that the Applicant had been assessed without however being able to explain to him the nature of the assessments. Mr. Kachach stated that he only obtained the Applicant's documents in June or July 2004 and that he then realized that the assessments had been made without an audit because CCRA had tried to contact the Applicant's former accountant but could not reach him. When Mr. Kachach learned from the auditor that the file had been closed, he then sent a letter requesting an extension of time. That letter dated August 11, 2004, was signed by himself and the Applicant (Exhibit I-1). As the facts in the letter are presented rather differently than those set out in their testimony, in my view it is important to reproduce the letter as written:
+[translation]
+APPLICATION FOR EXTENSION
+MONTRÉAL, 11-08-2004
+. . .
+My client has received letters and notices of assessment following an audit. He acted somewhat poorly in neglecting the importance of the letters from the department. Many of them were left unopened for quite some time because he thought that they were not important. When he received a registered letter from the Canada Customs and Revenue Agency, he tried to contact his former accountant to resolve the problem. The accountant had neglected the file and my client had a lot of trouble getting his income tax returns and documents back. His former accountant did not act professionally and let things deteriorate. My client was recently able to wrestle his documents away from his former accountant.
+Currently, all the necessary documents are ready to demonstrate the validity and reasonableness of his expenses. My client has all of the supporting documents in his possession and he is ready to send them to the department at any time.
+Please accept this application for extension of time in order to allow this citizen to properly defend his rights.
+Yours truly,
+HASSAN KACHACH, CGA
+. . .
+[6] The first sentences of the letter speak for themselves and cast rather serious doubts regarding the Applicant's true intention to object to the assessments within the 90-day time limit.
+[7] The registered letter at issue that was received by the Applicant and made him react is, in all likelihood, the first letter from CCRA setting out the statutory collection procedures. As previously mentioned, Patrick Rondeau indicated that the first letter had been sent to the Applicant on December 1, 2003. Until then, nothing had indicated that the Applicant truly intended to object to the assessments; quite to the contrary. Furthermore, it should be noted that the time limit for objecting to the assessments had at that time already been expired for more than three months.
+[8] Moreover, Patrick Rondeau explained the different collection procedures used by CCRA in the Applicant's file as of December 2003 (Exhibit I-3, page 5). It should be noted that another CCRA collection officer was responsible for the file until April 8, 2004.
+[9] The notes in the file indicate that a first letter, indicating that CCRA was getting ready to initiate statutory procedures to collect the amount owing, was sent on December 1, 2003 (Exhibit I-3, page 5). Those notes also indicate that Mr. Kachach had left a message on January 12, 2004, and that on January 21, 2004, during a telephone conversation, "the accountant" (I assume that this could only be Mr. Kachach) apparently promised to pay the amount owing of approximately $14,500 with cheques, in 12 monthly payments of $1,216 each, as of the end of February 2004. He apparently also indicated that he was in the process of preparing, as requested, financial statements for his client (Exhibit I-3, page 4).
+[10] Mr. Rondeau was assigned responsibility for the file on April 8, 2004. As he had not received a cheque pursuant to the January 21 agreement, Mr. Rondeau sent the Applicant another letter indicating that statutory procedures would be taken to collect the amount owing. On June 29, 2004, he had the Applicant's bank account seized. (Exhibit I-3, page 3).
+[11] On July 6, 2004, Mr. Rondeau reached a new agreement with Mr. Kachach for payment of the amount owing, namely, through 15 monthly cheques for $1,000 each payable as of July 25, 2004, and a final cheque for $1,305. Pursuant to that agreement, the seizure on the Applicant's bank account was lifted and the collection file was closed on July 22, 2004 (Exhibit I-3, page 1).
+[12] As previously mentioned, the letter from Mr. Kachach, signed by himself and the Applicant, seeking an extension of time to file a notice of objection to the reassessments made on May 23, 2003, is dated August 11, 2004. (Exhibit I-1). That letter was received by CCRA on August 13, 2004.
+[13] Although, as I said above, the first sentences of that letter cast serious doubts regarding the Applicant's intention to object to the assessments within the time prescribed, the facts noted concerning the collection procedures taken and the two payment agreements with the authorities clearly indicate, in my view, that it was possible for the Applicant and his accountant, Mr. Kachach, to apply for an extension of time to object to the assessments from the beginning of 2004 or at least well before August 11, 2004, which they neglected to do. If in 2004 Mr. Kachach was already in the process of preparing financial statements for the Applicant and negotiating a first payment agreement that furthermore had not been respected, it is difficult to understand why the application for extension was not made until seven months later. They may well like to place the blame on an absent third party, but does that third party have to show the diligence that neither the Applicant nor Mr. Kachach showed?
+[14] Thus, I find that the Applicant did not meet the conditions set out in subparagraphs 166.2(5)(b)(i) and (iii) of the Act in that he did not demonstrate, on the balance of probabilities, that, first, within the time otherwise limited for serving a notice of objection, that he was unable to act or instruct another to act in his name or that he had a bona fide intention to object to the assessments and, second, that the application was made as soon as circumstances permitted.
+[15] Therefore, the application is dismissed.
+Signed at Ottawa, Canada, this 24th day of January 2005.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 9th day of May 2005
+Aveta Graham, Translator
+CITATION:
+2005TCC75
+COURT FILE NO.:
+2004-3727(IT)APP
+STYLE OF CAUSE:
+Said Boudabbouz v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 14, 2005
+REASONS FOR ORDER BY:
+The Honourable Justice P.R. Dussault
+DATE OF ORDER:
+January 24, 2005
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

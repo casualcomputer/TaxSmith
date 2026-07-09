@@ -1,0 +1,158 @@
+---
+title: "Poopathie Company Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25017/index.do"
+last_modified: "2006-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 195"
+citation2: ""
+neutral_citation: "2006 CCI 195"
+decision_date: "2006-03-28"
+language: "fr"
+item_id: "25017"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2524
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:45:54.085000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1c7ce4e2e4299c37155a09d294cb41e5f1a3f1be9623e96e0505cda3709b728c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poopathie Company Ltd. c. La Reine
+
+- Citation: 2006 CCI 195
+- Decision date: 2006-03-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2524, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poopathie Company Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-28
+Référence neutre
+2006 CCI 195
+Numéro de dossier
+2004-4439(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI195
+Date : 20060328
+Dossier : 2004-4439(IT)I
+ENTRE :
+POOPATHIE COMPANY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Toronto (Ontario),
+le 10 mars 2006.)
+La juge Woods
+[1] Il s’agit des motifs rendus oralement dans le cadre d’un appel interjeté par Poopathie Company Ltd. relativement à des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition se terminant les 28 février 1999 et 29 février 2000.
+[2] La société appelante exploite une épicerie située à Scarborough (Ontario), sous la raison sociale de Gemini Market. L’épicerie a ouvert ses portes en 1997. Elle est exploitée par l’actionnaire unique, Gunabalasingam Nadarajah, et son épouse. J’accepte que M. et Mme Nadarajah travaillent de longues heures pour que leur entreprise soit viable.
+[3] La présente affaire soulève deux questions. La première consiste à savoir si la société appelante est propriétaire d’un véhicule en vue de déterminer si elle a droit à une déduction pour amortissement. En second lieu, la Cour doit se demander si la société a déclaré son revenu en moins.
+[4] Je vais d’abord me pencher sur la question de la déduction pour amortissement. Le ministre fait valoir que le véhicule appartient à M. Nadarajah et non à la société, raison pour laquelle il a refusé la déduction pour amortissement demandée par cette dernière.
+[5] En 1998, un véhicule Nissan Pathfinder a été acheté principalement pour servir dans le cadre de l’entreprise de Gemini Market. M. Nadarajah a négocié l’achat et il a payé le prix de vente au moyen de fonds personnels. Une somme de 5 000 $ a été versée au moment de l’achat et le solde, 38 000 $, financé par l’intermédiaire de Nissan.
+[6] Le véhicule est immatriculé au nom de M. Nadarajah, à titre de propriétaire, mais les documents relatifs au financement portent la raison sociale de la société et le contrat de vente a été établi aux noms de la société et de M. Nadarajah.
+[7] Le fait que l’immatriculation du véhicule soit établie au nom de M. Nadarajah ne permet pas de trancher la question en litige. Il s’agit plutôt de savoir qui est le propriétaire bénéficiaire, et cette conclusion est tributaire de l’intention. À mon avis, le contrat de vente et les documents relatifs au financement montrent qu’il existait une intention assez manifeste que le véhicule appartienne à la société et non à M. Nadarajah. Il aurait été tout à fait inutile pour M. Nadarajah de demander au concessionnaire d’automobiles d’inscrire la raison sociale de l’entreprise sur les documents pertinents s’il avait eu l’intention d’acheter le véhicule à titre personnel. Les paiements faits pour le véhicule par M. Nadarajah ne constituent pas un facteur important en l’espèce puisque M. Nadarajah utilisait souvent son compte bancaire personnel pour régler des affaires de la société. De plus, les démarches pour l’immatriculation du véhicule ont probablement été prises par le concessionnaire et il n’est pas certain que M. Nadarajah a participé à la décision de l’immatriculer à son nom plutôt qu’à celui de la société.
+[8] Compte tenu de l’ensemble de la preuve, je suis convaincue, selon la prépondérance des probabilités, que la société était la propriétaire bénéficiaire du véhicule. Comme l’intimée reconnaît que la société a droit à une déduction pour amortissement si elle est propriétaire du véhicule, je conclus en faveur de la société appelante en ce qui concerne la question de la déduction pour amortissement.
+[9] Je vais maintenant examiner la question de savoir si la société a déclaré son revenu en moins. L’Agence du revenu du Canada s’est fondée sur une analyse de la valeur nette de M. Nadarajah pour conclure que la société avait omis de déclarer un revenu. L’Agence utilise l’analyse de la valeur nette lorsqu’un contribuable n’a pas de livres comptables suffisants pour permettre la vérification du revenu mentionné dans la déclaration de revenus. La jurisprudence reconnaît les faiblesses de la méthode fondée sur la valeur nette, mais il s’agit d’une méthode acceptée et jugée appropriée dans les cas où l’on omet de tenir des livres comptables. On peut supposer qu’il en est ainsi parce que le répartiteur de l’impôt n’a aucun autre moyen d’évaluer le revenu gagné. À la lumière de la preuve présentée, je conviens avec l’intimée que la méthode fondée sur la valeur nette est appropriée en l’espèce parce que les livres comptables de la société appelante sont insuffisants.
+[10] La société appelante a laissé entendre dans son avis d’appel – et cette allégation a été reprise dans les conclusions finales – qu’elle avait fourni toute la [TRADUCTION] « preuve » nécessaire à l’Agence du revenu du Canada au cours de la vérification et que cette « preuve » devrait être acceptée. L’appelante, que représentait un avocat expérimenté, n’a pas produit cette preuve devant la Cour. Elle ne peut se contenter d’affirmer qu’elle a des documents. Pour s’acquitter de la charge de la preuve, elle devait produire les documents à titre de preuve régulière devant la Cour.
+[11] Malgré l’insuffisance des documents présentés pour étayer le revenu de l’entreprise précisé dans la déclaration, la société appelante peut néanmoins obtenir gain de cause dans le présent appel si elle établit, selon la prépondérance des probabilités, que l’analyse de la valeur nette effectuée par l’Agence ne permet pas d’étayer la cotisation.
+[12] L’appelante soutient notamment que l’analyse de la valeur nette est erronée parce qu’elle se fonde sur la valeur nette de l’actionnaire plutôt que sur celle de la société. À mon sens, l’approche suivie par le ministre est légitime en l’espèce puisqu’il est impossible de déterminer la valeur nette de la société.
+[13] Pour calculer le revenu de la société, l’Agence a ajouté au revenu mentionné dans la déclaration de revenus de la société les augmentations annuelles de la valeur nette de M. Nadarajah. L’hypothèse sous‑jacente à ce calcul est la suivante : la valeur nette de M. Nadarajah découle du revenu gagné par la société et cette supposition est légitime en l’absence de preuve contraire. J’estime que le fait de procéder à l’analyse de la valeur nette de l’unique actionnaire constitue une approche appropriée en l’espèce.
+[14] Avant d’examiner les différents éléments de l’analyse de la valeur nette, j’ai quelques observations à formuler au sujet des périodes visées. Tout d’abord, l’année d’imposition de la société ne coïncidant pas avec l’année civile, il a donc fallu calculer le revenu de la société pour des périodes de 12 mois débutant le 1er mars.
+[15] Cela signifie que la valeur nette de l’actionnaire devait également être calculée pour des périodes de 12 mois débutant le 1er mars. Or, le vérificateur n’a pas procédé ainsi. Il a plutôt calculé la valeur nette de l’actionnaire par année civile pour ensuite calculer au prorata la valeur nette pour les périodes coïncidant avec l’année d’imposition de la société.
+[16] Je ne sais pas au juste pourquoi l’Agence a choisi cette façon de procéder. Toutefois, je ne crois pas que ce point ait de l’importance puisque l’appelante n’a pas réussi à établir que le revenu avait, de ce fait, été surévalué.
+[17] Je me penche maintenant sur les éléments particuliers qui, selon l’appelante, doivent être pris en compte dans le cadre de l’analyse de la valeur nette. Ces éléments sont exposés dans la pièce A6, de la façon suivante : placements, emprunt REER, automobile, argent reçu du père, emprunt privé et frais de nourriture.
+[18] La pièce A6 consiste en une série de tableaux ayant pour objet de montrer que le revenu précisé par la société dans les déclarations de revenus est assez compatible avec la valeur nette de l’actionnaire si les calculs effectués pour déterminer cette valeur tiennent compte des éléments proposés par l’appelante. Je vais examiner chacun de ces éléments successivement.
+[19] Le premier élément est l’emprunt REER. La Cour doit se demander si l’actif net de M. Nadarajah doit être réduit de manière à tenir compte d’emprunts totalisant 4 000 $. L’appelante laisse entendre que M. Nadarajah a contracté ces emprunts afin de financer des contributions à son REER. Comme aucun document ne lui a été fourni à cet égard, le vérificateur n’a pas pris cette dette en compte. Des documents ont toutefois été présentés à l’audience.
+[20] À mon avis, l’appelante a produit une preuve prima facie justifiant la prise en compte de ces emprunts. L’intimée laisse entendre qu’il pourrait y avoir des difficultés à cause des dates parce que les emprunts ont été contractés après la fin de l’année. Cependant, elle n’a pas fourni de preuve suffisante établissant que la date des emprunts fait problème. Je conclus que l’appelante s’est acquittée de son fardeau en ce qui a trait aux emprunts REER.
+[21] Le deuxième élément est l’automobile. Lorsqu’il a calculé la valeur nette, le vérificateur a supposé que le véhicule Nissan Pathfinder appartenait à M. Nadarajah. Pour les raisons susmentionnées, je suis arrivée à une conclusion différente. L’intimée admet que l’automobile et le montant en principal du financement connexe doivent être défalqués dans les calculs de la valeur nette si je conclus que l’automobile appartient à la société. Compte tenu de cette admission, il est inutile que j’examine cette question plus avant. Les calculs de la valeur nette doivent être redressés en supprimant le véhicule Nissan Pathfinder des éléments d’actif de M. Nadarajah et le montant en principal du financement de Nissan doit également être supprimé. Les calculs de la valeur nette tiennent aussi compte des paiements d’intérêt afférents au financement de Nissan. Par souci de cohérence, je conclus en outre que les paiements d’intérêt au titre du financement de Nissan doivent aussi être supprimés des calculs de la valeur nette.
+[22] Le point suivant intéresse les frais de nourriture. Selon le calcul de la valeur nette, la valeur nette de M. Nadarajah doit être augmentée du montant des prévisions relatives aux frais de nourriture. Il s’agit donc de savoir quelle somme doit être prise en compte à ce titre. L’appelante a d’abord proposé à l’Agence que les frais de nourriture annuels de M. Nadarajah s’élevaient à 3 600 $, chiffre que le vérificateur a accepté. L’appelante a par la suite proposé à l’Agence que ce chiffre devait être réduit à 2 400 $ par année. La Cour doit décider s’il convient de procéder à cette réduction.
+[23] J’arrive à la conclusion que l’appelante n’a pas présenté de preuve prima facie justifiant la réduction de la somme engagée pour les frais de nourriture, soit 3 600 $ par année. J’accepte la thèse de l’appelante voulant que les frais de nourriture de M. Nadarajah puissent être moins élevés que ceux d’autres familles parce qu’il exploite une épicerie, mais l’appelante a omis de me démontrer l’existence de raisons légitimes me justifiant de choisir une somme plutôt qu’une autre. Dans les circonstances, rien ne me fonde à conclure que les calculs de la valeur nette sont erronés en ce qui concerne les frais de nourriture.
+[24] Je passe maintenant à la question des sommes retirées du compte bancaire personnel de M. Nadarajah. La Cour doit se demander si ces retraits doivent être inclus dans le calcul de la valeur nette de M. Nadarajah. L’élément en litige figure à l’onglet 1 de la pièce R2 sous la rubrique [TRADUCTION] « placements/retraits indéterminés ». Les sommes en litige s’élèvent à 3 400 $ pour 1998, à 42 100 $ pour 1999 et à 32 000$ pour 2000.
+[25] Les raisons qui étayent la prise en compte de ces sommes dans le cadre de l’analyse de la valeur nette sont exposées dans une note en bas de page de l’annexe pertinente. Comme cette note présente les motifs sur lesquels le ministre s’est appuyé pour ajouter les sommes susmentionnées à la valeur nette de M. Nadarajah, je vais en reproduire le texte.
+[26] La note en bas de page est ainsi rédigée :
+[TRADUCTION] « Certains éléments sont admis. Pour régler la présente affaire, nous avons supprimé les chèques à l’égard desquels on peut établir qu’ils ont été émis à un fournisseur. Nous estimons que les documents fournis ne sont pas suffisants pour montrer que certains des retraits visés se rapportent à l’entreprise. Aucune preuve susceptible d’établir un lien entre les autres retraits et l’entreprise n’a été présentée.
+[27] L’appelante soutient qu’il n’est pas opportun de tenir compte de ces retraits dans le cadre de l’analyse de la valeur nette parce qu’ils ont tous un lien quelconque avec l’entreprise, à l’exception d’un chèque dont l’objet n’a pu être défini. Selon l’appelante, les retraits ont été faits pour les fins précises suivantes :
+1. Trois des retraits constituent des retraits en espèces effectués en vue de leur dépôt au compte bancaire de la société.
+2. Tous les retraits par chèque, sauf deux, constituent des paiements de fournitures.
+3. Des deux chèques restants, l’un visait le remboursement d’un emprunt contracté pour les besoins de l’entreprise tandis que l’autre a été émis on ne sait à quelle fin.
+[28] À l’appui de cette explication, l’appelante a produit en preuve des copies de relevés bancaires relatifs aux retraits et aux dépôts au compte de l’entreprise ainsi que des copies de la plupart des chèques. En outre, trois personnes ont témoigné qu’elles avaient reçu ces chèques et ont étayé l’explication donnée par l’appelante.
+[29] Je dois me demander si cette preuve est suffisante pour établir l’existence d’un lien entre l’entreprise et les retraits. J’ai examiné la preuve dans son ensemble et, pour les raisons énoncées ci‑dessous, j’ai estimé qu’elle n’était pas suffisante pour me permettre de tirer cette conclusion.
+[30] Mes observations porteront tout d’abord sur le transfert de fonds entre les comptes bancaires. L’appelante a produit des relevés bancaires qui montrent des retraits du compte bancaire personnel de M. Nadarajah et des dépôts effectués au compte bancaire de la société à peu près au même moment. Le principal problème que me pose l’assertion voulant que ces retraits aient servi à faire des dépôts au compte bancaire de la société tient au fait que les dépôts visaient des sommes importantes, mais que les billets eux‑mêmes étaient en coupures différentes et que ce n’était pas des grosses coupures.
+[31] Les dépôts ressemblent davantage à des dépôts provenant d’une caisse enregistreuse. Par exemple, un des dépôts s’élève à 10 500 $ et date du 14 décembre 1999. Il ressort du témoignage que, de cette somme, 10 000 $ ont été retirés du compte bancaire de M. Nadarajah le même jour. Le dépôt était constitué des coupures suivantes : 23 billets de 10 $, 361 billets de 20 $, 28 billets de 50 $ et 12 billets de 100 $. Or, il serait illogique de retirer une somme en pareilles coupures en vue de la déposer dans un autre compte.
+[32] Quant aux retraits par chèque, aucune preuve documentaire n’a été présentée pour étayer le témoignage de vive voix selon lequel la plupart des chèques visaient à payer des fournitures. Ni l’appelante ni les fournisseurs appelés à témoigner n’ont produit de factures ou d’autres documents en ce sens.
+[33] De plus, le témoignage concernant les paiements aux fournisseurs a laissé de nombreuses questions sans réponse. Les chèques étaient libellés en chiffres ronds pour des sommes se situant entre 5 000 $ et 15 000 $. L’appelante n’a pas allégué qu’il s’agissait de paiements de factures précises. Suivant le témoignage, les paiements ne correspondent pas à une facture particulière et c’est la façon habituelle de faire des affaires dans le pays d’origine de M. Nadarajah, le Sri Lanka. On a déclaré que l’entreprise en cause est fondée sur la confiance et qu’il y a très peu de documents. Si cela est exact, on peut se demander comment font les gens pour tenir leurs comptes. Comment fait‑on pour savoir quelle somme est due à une date donnée? Le témoignage n’était pas suffisamment détaillé pour fournir une explication satisfaisante de la façon dont l’entreprise était réellement dirigée. D’une manière générale, j’estime que le témoignage était trop vague et pas assez précis pour être convaincant.
+[34] À la lumière de l’ensemble de la preuve, j’arrive à la conclusion qu’elle est loin de suffire pour me persuader que les retraits devraient être supprimés dans les calculs de la valeur nette.
+[35] Je me penche maintenant sur l’élément figurant sous la rubrique [TRADUCTION] « argent reçu du père ». L’analyse de la valeur nette prend en compte une somme de 7 500 $ qui consiste en un chèque reçu d’un fournisseur, un certain M. Sivalingam.
+[36] L’appelante laisse entendre que cette somme correspond à une partie d’un emprunt d’environ 24 000 $ qui a été consenti à M. Nadarajah par son père au Sri Lanka. L’appelante allègue que l’état de la valeur nette devrait être redressé de manière à refléter cette dette.
+[37] À l’appui de cette assertion, l’appelante a produit en preuve une lettre signée par M. Sivalingam selon laquelle ces sommes étaient dues au père de M. Nadarajah et que le père avait donné instruction pour qu’elles soient payées à son fils. M. Sivalingam a également témoigné de vive voix.
+[38] J’estime qu’il m’est impossible d’accepter cette preuve. Premièrement, les témoignages de M. Nadarajah et de M. Sivalingam comportaient certaines incohérences, notamment en ce qui concerne le moment où ils ont tout d’abord fait connaissance. Deuxièmement, le témoignage de M. Sivalingam a été assez bref et ce dernier n’a donné aucune explication précise quant à l’entente intervenue entre lui et le père de M. Nadarajah. En outre, pendant son contre‑interrogatoire, M. Sivalingam a pris ses distances par rapport à l’exactitude de la lettre qu’il avait signée. Comme il avait du mal à expliquer le contenu de la lettre au cours de son contre‑interrogatoire, M. Sivalingam a déclaré que ce n’était pas lui qui l’avait écrite. Pour l’appelante, le fait de produire en preuve une lettre signée alors que le signataire de celle-ci n’est pas en mesure de répondre de son exactitude est un acte grave. Si M. Sivalingam ne connaissait pas suffisamment la langue anglaise pour répondre de l’exactitude de la lettre, celle‑ci n’aurait simplement pas dû être présentée en preuve. Pour ces raisons, je conclus qu’il n’y a pas lieu de redresser l’état de la valeur nette au titre d’un prêt de 7 500 $ consenti par le père de M. Nadarajah.
+[39] Le dernier élément sur lequel je dois me prononcer consiste en une somme qu’on a qualifiée d’emprunt privé. M. Nadarajah a soutenu qu’il avait bénéficié d’un prêt de 25 000 $ de la part d’un certain M. Suhdev et que sa valeur nette devait être réduite d’autant. M. Suhdev n’a pas témoigné et aucun élément n’a été présenté pour corroborer le prêt, à l’exception d’une copie d’un chèque certifié de 25 000 $. La preuve est insuffisante pour me fonder à conclure de façon légitime que cette somme a été donnée à M. Nadarajah. Aucun document n’étaye le prêt ou de quelconques remboursements au titre de celui‑ci.
+[40] De manière générale, je signale que l’un des principaux arguments avancés par l’appelante en l’espèce est qu’il existe une explication plausible pour l’absence de documents en ce qu’il s’agit d’une pratique commerciale habituelle au Sri Lanka, où vivait M. Nadarajah avant de venir au Canada. Même si je devais présumer qu’il existe une explication plausible pour l’absence de documents, cela n’aide en rien l’appelante. Tout notre régime fiscal se fonde sur le principe de l’autocotisation et les contribuables sont tenus de conserver des documents suffisants qui permettent de vérifier leur revenu au moment d’une vérification. L’exigence concernant la tenue de livres comptables appropriés est prévue par la loi et, si une société omet de tenir de tels livres, elle ne peut se disculper en affirmant qu’elle applique une méthode différente pour diriger son entreprise.
+[41] En dernière analyse, les seuls redressements qu’il convient d’apporter aux calculs de la valeur nette effectués pour établir les cotisations sont ceux qui visent les emprunts REER totalisant 4 000 $ en 2000 et la suppression des entrées relatives au véhicule Nissan Pathfinder et au financement connexe, y compris l’intérêt. À tous les autres égards, l’analyse de la valeur nette est confirmée.
+[42] En conclusion, l’appel sera accueilli et les cotisations seront renvoyées au ministre pour qu’il les examine à nouveau et établisse de nouvelles cotisations en tenant compte du fait que l’appelante a droit à une déduction pour amortissement au titre du véhicule Nissan Pathfinder et que les calculs de la valeur nette doivent être redressés de manière à tenir compte des emprunts REER de 4 000 $ et à supprimer les entrées relatives au véhicule Nissan Pathfinder et au financement connexe, y compris l’intérêt.
+[43] Comme aucune des parties n’a entièrement obtenu gain de cause dans le présent appel et que l’affaire a été entendue dans le cadre de la procédure informelle de la Cour, aucune ordonnance relative aux dépens ne sera rendue.
+Signé à Toronto (Ontario), ce 28e jour de mars 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 28e jour de mai 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE :
+2006CCI195
+NO DU DOSSIER DE LA COUR :
+2004-4439(IT)I
+INTITULÉ DE LA CAUSE :
+Poopathie Company Ltd. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Le 2 décembre 2005, les 9 et 10 février 2006 et le 8 mars 2006
+MOTIFS DU JUGEMENT PAR :
+Mme la juge Judith Woods
+DATE DU JUGEMENT :
+Le 13 mars 2006
+COMPARUTIONS :
+Avocat de l’appelante :
+Me V. Ross Morrison
+Avocate de l’intimée :
+Me Kandia Aird
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me V. Ross Morrison
+Cabinet :
+Morrison Brown Sosnovitch LLP
+Toronto (Ontario)
+Pour l’intimée :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,256 @@
+Title: Marine Atlantic S.C.C. c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521252/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-51-521252-marine-atlantic-s-c-c-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-04-26
+
+# Marine Atlantic S.C.C. c. Le Roi
+
+- Citation: 2024 CCI 51
+- Decision date: 2024-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5514, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marine Atlantic S.C.C. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-04-26
+Référence neutre
+2024 CCI 51
+Numéro de dossier
+2012-1765(GST)G, 2015-2123(GST)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2012-1765(GST)G
+2015-2123(GST)G
+ENTRE :
+MARINE ATLANTIQUE S.C.C.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations sur les dépens déposées les 7 et 8 septembre 2023 relativement au jugement rendu le 10 juillet 2023.
+Devant : L’honorable juge Steven D’Arcy
+Comparutions :
+Avocats de l’appelante :
+Me Kimberley Cook
+Me Florence Sauve
+Me Chris Canning
+Avocats de l’intimé :
+Me Selena Sit
+Me Spencer Landsiedel
+ORDONNANCE
+Conformément à mes motifs de l’ordonnance ci-joints :
+Un seul paiement forfaitaire de 895 731,40 $ est adjugé à l’appelante pour les dépens et débours comprenant ce qui suit :
+– 751 296,60 $, au titre des frais juridiques;
+– 92 618,42 $, au titre des débours;
+– 51 816,38 $, au titre de la TVH non recouvrable.
+Signé à Halifax (Nouvelle-Écosse), ce 26e jour d’avril 2024.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 13e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 51
+Date : 20240426
+Dossiers : 2012-1765(GST)G
+2015-2123(GST)G
+ENTRE :
+MARINE ATLANTIQUE S.C.C.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge D’Arcy
+[1] Le 10 juillet 2023, j’ai accueilli les présents appels avec dépens[1]. Les parties disposaient de 60 jours pour présenter leurs observations écrites sur le montant des dépens que la Cour devrait adjuger à l’appelante. Les deux parties ont déposé des observations écrites.
+[2] Dans ses observations écrites, l’appelante demande l’adjudication d’une somme forfaitaire de 1 298 180,81 $ au titre des dépens, comprenant ce qui suit :
+-1 095 444,90 $, au titre des frais juridiques, ce qui représente 90 % des honoraires des avocats de 1 217 161 $;
+-92 618,42 $, pour les débours effectués par l’appelante;
+-35 000 $, pour les honoraires des avocats pour préparer les observations sur les dépens de l’appelante;
+-75 117,49 $, pour la TVH non recouvrable.
+[3] L’intimé reconnaît que des dépens majorés devraient être adjugés à l’appelante, mais il soutient que ces dépens ne devraient pas dépasser 30 % des frais juridiques raisonnables, plus tous les débours raisonnables et nécessaires justifiés par des dossiers et factures.
+[4] La question en litige dans les présents appels porte sur le droit à des crédits de taxe sur les intrants conféré à l’appelante, en application de la partie IX de la Loi sur la taxe d’accise[2] (la « Loi »), relativement à la TPS/TVH qu’elle a payée sur les produits et services qu’elle a acquis au cours de ses activités de prestation de service de traversier entre Terre-Neuve-et-Labrador et la Nouvelle-Écosse. La somme en cause dans les deux appels dépasse 7 millions de dollars.
+[5] Les questions soulevées dans les appels sont notamment les suivantes :
+-si l’appelante a appliqué sa méthode d’une manière juste et raisonnable ou uniforme;
+-si les installations terminales de l’appelante et les ponts extérieurs des navires de l’appelante étaient des aires qui contribuent à la réalisation de fournitures à la fois taxables et exonérées ou étaient des aires qui n’étaient utilisées que pour effectuer des fournitures exonérées;
+-si les frais de carburant de l’appelante devraient être attribués à des fournitures taxables, compte tenu de la méthode de l’appelante.
+[6] L’appelante a eu gain de cause à l’égard de toutes ces questions.
+Droit applicable [7] Le paragraphe 147(1) des Règles de la Cour canadienne de l’impôt (procédure générale)[3] (les « Règles ») dispose que « [l]a Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter ».
+[8] Dans la décision Velcro Canada Inc. c. La Reine[4], au paragraphe 9, le juge en chef adjoint Rossiter (plus tard, juge en chef) a déclaré ce qui suit au sujet des principes que la Cour devrait suivre relativement à l’adjudication des dépens :
+[...] je suis d’avis que :
+1. Le tarif n’est nullement censé compenser entièrement les frais juridiques supportés par une partie lors d’un appel.
+2. Le tarif n’est pas censé non plus être dérisoire au point d’être négligeable et de jouer un rôle minime dans la façon dont les parties poursuivent les litiges. La Cour peut toujours exercer son pouvoir discrétionnaire pour fixer des montants appropriés.
+3. La Cour doit adjuger les dépens à son entière discrétion, après avoir examiné les facteurs énoncés au paragraphe 147(3) des Règles [de procédure générale].
+4. La Cour doit exercer son pouvoir discrétionnaire en se fondant sur des principes.
+5. Les facteurs énoncés au paragraphe 147(3) des Règles [de procédure générale] constituent les éléments clés dont la Cour doit tenir compte pour adjuger les dépens, en fixer le montant et décider si elle devrait s’écarter ou non du tarif.
+6. Habituellement, la Cour devrait appliquer les facteurs énoncés au paragraphe 147(3) des Règles [de procédure générale] en se fondant sur des principes et sur les observations des parties au sujet des dépens et invoquer le tarif uniquement s’il lui semble souhaitable de le faire.
+7. La façon dont le tarif est mentionné à l’article 147 des Règles [de procédure générale] montre le peu d’importance qu’il a dans les considérations ayant trait aux dépens.
+[Non souligné dans l’original.]
+[9] Plus récemment, dans la décision MacDonald c. La Reine[5], aux paragraphes 42 à 45, ma collègue, la juge Lafleur, a affirmé ce qui suit au sujet des principes clés :
+L’article 147 des Règles donne à la Cour beaucoup de latitude dans l’exercice de son pouvoir discrétionnaire en matière d’adjudication des dépens [...]. Cependant, la Cour doit exercer son pouvoir discrétionnaire dans le respect de principes et non pas de façon arbitraire (La Reine c Lau, 2004 CAF 10, au par. 5, [2004] GSTC 5, et La Reine c Landry, 2010 CAF 135, aux par. 22 et 54, 2010 DTC 5106).
+Aucun des facteurs énoncés au paragraphe 147(3) n’est décisif et la Cour doit prendre en compte tous les facteurs pertinents dans l’exercice de son pouvoir discrétionnaire (Velcro Canada Inc c La Reine, 2012 CCI 273, aux par. 12 et 13, [2012] 6 CTC 2049 [Velcro]).
+Généralement, l’adjudication des dépens ne vise pas à indemniser une partie de tous les frais qu’elle a réellement supportés (Velcro, précitée, au par. 29). Elle se veut compensatoire et contributive, et non punitive (Mariano et al c La Reine, 2016 CCI 161, aux par. 23 et 27, 2016 DTC 1146).
+Comme l’a expliqué le juge Boyle dans la décision Martin c La Reine, 2014 CCI 50, 2014 DTC 1072 (au par. 14) :
+14 [...] La question qu’il faut se poser est la suivante : quelle serait la contribution appropriée de la partie déboutée aux dépens de la partie ayant eu gain de cause dans l’appel où la position de cette dernière l’a emporté?
+[10] Le paragraphe 147(3) des Règles est ainsi rédigé :
+En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[11] J’examinerai à présent chacun des facteurs pertinents.
+Examen des facteurs pertinents A. Résultat de l’instance [12] Comme je l’ai fait remarquer précédemment, l’appelante a eu gain sur toutes les questions dont a été saisie la Cour. L’appelante et l’intimé conviennent que le résultat de l’instance milite en faveur d’une majoration de l’adjudication des dépens.
+[13] Le fait que la Cour a été saisie de plusieurs questions et que l’appelante a eu gain de cause sur toutes ces questions milite en faveur de l’adjudication de dépens plus élevés[6].
+B. Somme en cause [14] L’appelante affirme que la somme en cause, avant la prise en considération du remboursement à l’intention des organismes de services publics, était de 19 716 588 $, comprenant ce qui suit :
+-2 629 689 $ pour ses périodes de déclaration de TPS ayant pris fin entre le 1er janvier 2006 et le 31 mars 2010;
+-7 184 132 $ pour ses périodes de déclaration de TPS ayant pris fin entre le 1er avril 2010 et le 31 janvier 2012;
+- plus 9 902 767 $ de crédits de taxe sur les intrants que l’appelante a demandés pour ses périodes de déclaration de TPS ayant pris fin entre le 1er février 2012 et le 31 mars 2023. L’appelante fait remarquer que l’ARC a suspendu sa demande de crédits de taxe sur les intrants de 9 902 767 $ jusqu’à l’issue des présents appels.
+[15] L’intimé affirme que la somme en cause, après la prise en considération du remboursement à l’intention des organismes de services publics, était de 7 256 080 $, comprenant ce qui suit :
+-2 629 689 $ pour les périodes de déclaration de TPS de l’appelante ayant pris fin entre le 1er janvier 2006 et le 31 mars 2010;
+-9 252 782 $ pour les périodes de déclaration de TPS de l’appelante ayant pris fin entre le 1er avril 2010 et le 31 janvier 2012;
+- le remboursement de 50 % à l’intention des organismes de services publics.
+[16] L’intimé a supposé que le remboursement aux organismes de services publics était de 4 626 391 $ (2 629 689 $ plus 9 252 782 $ - 7 256 080 $).
+[17] Je suis d’accord avec l’appelante pour dire que la somme de 9 902 767 $ concernant les périodes de déclaration de l’appelante ayant pris fin entre le 1er février 2012 et le 31 mars 2023 devrait également être examinée, étant donné que le droit de l’appelante aux crédits de taxe sur les intrants qui se rapportent à cette somme dépend de l’issue des présents appels[7].
+[18] Je n’ai pas pu concilier les chiffres de l’appelante avec ceux de l’intimé relativement à la somme en cause. J’ai présumé que la somme en cause (avant la prise en considération du remboursement aux organismes de services publics) se situe entre la somme calculée par l’appelante (19 716 588 $) et celle calculée par l’intimé (21 785 238 $)[8].
+[19] Cette somme en cause est manifestement importante pour l’appelante et milite en faveur de l’adjudication de dépens majorés.
+C. Importance de la question en litige [20] L’importance de la question en litige n’est pas un facteur que l’appelante invoque pour appuyer sa demande de dépens majorés.
+[21] L’intimé affirme que ce facteur est habituellement neutre lorsqu’un appel, comme ceux devant la Cour, est tranché sur la base de conclusions de fait, les appels n’ayant guère de valeur jurisprudentielle.
+[22] Cependant, l’intimé affirme que la conclusion de la Cour relativement à la méthode de répartition de l’appelante pourrait créer un précédent pour d’autres fournisseurs de transport similaires et, à ce titre, ce facteur milite légèrement en faveur de dépens majorés.
+[23] Je ne pense pas que ce facteur est important dans les présents appels. Ma décision était principalement fondée sur des conclusions de fait. Ma conclusion en ce qui concerne la méthode de répartition de l’appelante n’a aucune valeur de précédent. Elle était fondée sur la jurisprudence existante.
+D. Charge de travail [24] L’appelante affirme que la charge de travail était importante et qu’elle appuie sa demande de dépens majorés. Elle a fait remarquer que le litige a nécessité plus de 1 700 heures de travail d’avocats, plus de 1 000 heures pour les employés de l’appelante, deux jours distincts d’interrogatoire préalable, de longues réponses à des engagements, onze jours d’audience et sept recueils de documents[9].
+[25] L’intimé reconnaît que la charge de travail était supérieure à la moyenne, avec sept recueils de documents, plusieurs jours d’interrogatoire préalable et de procès et des observations écrites détaillées. Il affirme que, bien que cela milite en faveur de dépens majorés, les parties ont pris des décisions concernant le litige qui nécessitaient du travail supplémentaire et, par conséquent, les deux parties assument une certaine part de responsabilité.
+[26] La charge de travail ne favorise que légèrement l’adjudication de dépens majorés. Dans un appel qui est lié aux faits, je m’attends à ce que la charge de travail soit supérieure à la moyenne.
+E. Complexité des questions en litige [27] La complexité des questions en litige n’est pas un facteur que l’appelante invoque pour appuyer sa demande de dépens majorés.
+[28] L’intimé affirme, au paragraphe 25 de ses observations écrites, que les appels impliquaient des dispositions techniques dans une loi technique et, [traduction] « par conséquent, le processus consistant à obtenir les faits pertinents et à appliquer les dispositions aux faits était un processus intrinsèquement complexe ». Selon lui, cela fait pencher la balance en faveur de la majoration des dépens.
+[29] Je suis d’accord avec l’intimé pour dire que l’article 141.01 de la Loi, qui est la disposition clé en ce qui concerne les coûts indirects, est complexe. Cependant, son application a été expliquée en détail dans des décisions antérieures de notre Cour.
+[30] J’estime que la complexité des questions en litige ne fait pas pencher la balance en faveur de l’adjudication de dépens majorés.
+F. Conduite des parties [31] Les facteurs qui viennent d’être examinés appuient à la fois la position de l’appelante et celle de l’intimé selon lesquelles des dépens majorés devraient être adjugés à l’appelante. La question en litige est de savoir si le montant des dépens majorés devrait être d’au plus 30 %, comme l’affirme l’intimé, ou considérablement plus, comme le soutient l’appelante.
+[32] On peut trouver la réponse à cette question dans la conduite des parties, plus précisément celle de l’intimé.
+[33] Le laps de temps très long qui s’est écoulé avant que l’intimé suive la jurisprudence existante et dépose l’affidavit souscrit par M. Jonathan Shimizu, spécialiste des appels en matière fiscale de l’ARC (l’« affidavit de M. Shimizu »), était le principal problème relatif à la conduite de l’intimé.
+[34] Le 21 juin 2013 et le 4 juillet 2013, l’appelante et l’intimé ont convenu d’être liés par la décision British Columbia Ferry Services Inc. c. La Reine[10] [« B.C. Ferry »] de notre Cour en ce qui concerne les questions suivantes :
+[traduction]
+-si les cabines passagers, les couchettes et les sièges réservés (les « espaces d’hébergement payants ») étaient utilisés exclusivement pour des activités taxables ou exclusivement pour des activités exonérées;
+-si l’infrastructure des navires comprenant des salles des machines, les cabines de l’équipage et des officiers et des ponts de navigation fait partie des zones mixtes servant tant aux activités taxables qu’aux activités exonérées ou si elle fait partie des zones qui sont exclusivement utilisées pour des activités exonérées;
+- si le carburant consommé par les navires est utilisé pour des activités tant taxables et qu’exonérées ou exclusivement pour des activités exonérées[11].
+[35] Le 14 octobre 2014, notre Cour a rendu sa décision B.C. Ferry en concluant que les espaces d’hébergement payants dans cet appel étaient utilisés exclusivement pour des activités taxables et que l’infrastructure des navires dans cet appel faisait partie des zones mixtes servant tant aux activités taxables qu’aux activités exonérées.
+[36] Malgré les demandes répétées de l’appelante, à partir de décembre 2014, faites à l’intimé pour qu’il accepte la décision B.C. Ferry[12] de notre Cour, l’intimé a maintenu sa position jusqu’au 30 novembre 2020, à savoir que les espaces d’hébergement payants et l’infrastructure mentionnée étaient utilisés exclusivement pour des activités exonérées[13].
+[37] Comme je l’ai mentionné au paragraphe 65 de mes motifs du jugement, l’intimé a déposé auprès de la Cour, juste avant le début de l’audience, en septembre 2021, une lettre de concession dans laquelle il concède que l’appelante a utilisé les espaces d’hébergement payants exclusivement pour des activités taxables et que l’infrastructure faisait partie des zones mixtes servant à la réalisation de fournitures tant taxables qu’exonérées.
+[38] L’appelante explique dans ses observations écrites (avec des exemples précis) que le laps de temps qui s’est écoulé avant que l’intimé tienne compte de la décision B.C. Ferry de notre Cour lui a fait perdre plus de 1 000 heures et lui a fait débourser inutilement des frais considérables. Un grand nombre de ces heures a été consacré à satisfaire aux engagements pris pour mesurer les zones mixtes du navire.
+[39] Les frais supplémentaires ont été dépensés pour notamment engager la firme d’ingénierie mentionnée au paragraphe 144 de mes motifs du jugement.
+[40] Comme je l’ai fait remarquer aux paragraphes 133 et 165 de mes motifs du jugement, selon la dernière méthode de répartition adoptée par l’appelante (une méthode que l’intimé avait acceptée), il n’était pas nécessaire de mesurer les zones mixtes des navires.
+[41] J’ai conclu, en me fondant sur les observations détaillées fournies par l’appelante, que celle-ci aurait évité de payer des frais considérables si l’intimé avait satisfait à son obligation selon l’entente d’être lié et s’il avait admis, fin 2014, que l’infrastructure faisait partie des zones mixtes des navires et que les espaces d’hébergement payants étaient utilisés exclusivement pour des activités taxables.
+[42] La conduite de l’intimé à l’égard des espaces d’hébergement payants et des zones mixtes permet de conclure à une nette majoration de plus de 30 % des dépens.
+[43] Au paragraphe 28 de ses observations écrites, l’intimé mentionne la conduite de l’appelante, en indiquant que cette dernière a refusé d’être liée par la décision B.C. Ferry. Je présume qu’il fait référence à la question de savoir si le carburant, qui était consommé pour propulser les navires, est utilisé pour des activités tant taxables qu’exonérées.
+[44] Il semble s’agir de l’une des trois occurrences où l’intimé se sert des observations sur les dépens pour contester une décision de notre Cour. Dans ce cas-ci, il s’agit de la décision de mon ancienne collègue, la juge Lyons, à l’égard d’une requête présentée par l’intimé.
+[45] En juin 2015, l’intimé a présenté une requête visant à obtenir une ordonnance selon laquelle [traduction] « l’appelante est liée par l’entente [voulant que] le carburant consommé pour la propulsion des navires (traversiers) [soit] utilisé exclusivement pour des activités exonérées ».
+[46] Au moment de rejeter la requête, la juge Lyons a indiqué au paragraphe 48, que « [c]ompte tenu de mes conclusions précédentes, il semble que Marine Atlantique n’a pas manqué à l’entente »[14].
+[47] Il est inapproprié pour l’intimé d’affirmer dans ses observations sur les dépens que l’appelante a refusé d’être liée par la décision B.C. Ferry, alors que la Cour a déjà conclu que l’appelante n’a pas manqué à l’entente.
+[48] Le deuxième cas où la conduite de l’intimé permet de conclure à une majoration des dépens est sa conduite relativement à l’affidavit de M. Shimizu.
+[49] J’ai longuement discuté du dépôt de l’affidavit aux paragraphes 23 à 56 de mes motifs du jugement. J’ai tiré les conclusions suivantes :
+-La conduite de l’intimé au moment de déposer l’affidavit a constitué une tentative flagrante de guet-apens au procès à l’égard d’une question clé dans les appels.
+-Un affidavit, comme celui de M. Shimizu, n’a pas sa place dans un procès où les faits sont en litige, comme c’était le cas dans le procès devant la Cour.
+- La conduite de l’intimé au moment de déposer l’affidavit de M. Shimizu a entraîné la perte de jours d’audience et nécessité la préparation et le dépôt d’observations écrites supplémentaires ainsi que l’ajout d’une journée supplémentaire de témoignage pour entendre deux témoins. En outre, l’argumentation initialement prévue pour le 1er octobre 2021 a été reportée à janvier 2022.
+[50] J’ai aussi indiqué ce qui suit, aux paragraphes 40 et 41 de mes motifs du jugement, en ce qui a trait à la pratique adoptée récemment par l’intimé qui consistait à ne pas convoquer de témoins à l’audition d’appels interjetés par des contribuables :
+Les actions de l’intimé en l’espèce s’inscrivent dans une tendance troublante de sa part consistant à ne pas convoquer de témoins à l’audition d’appels de contribuables pour ensuite tenter de présenter une preuve par affidavit. La Cour a observé cette tendance dans le cadre de plusieurs instances récentes régies par la procédure informelle. En l’espèce, l’intimé semble utiliser la même approche mal avisée dans une instance régie par la procédure générale.
+À mon avis, cette conduite doit cesser. La Cour rend des jugements fondés sur les éléments de preuve à sa disposition. Si l’intimé veut se fonder sur des faits qu’il ne peut pas obtenir en contre-interrogeant les témoins de l’appelante, il doit convoquer ses propres témoins. Compte tenu des vastes ressources de l’ARC, cela ne devrait poser aucun problème.
+[51] En résumé, j’estime que la conduite de l’intimé en ce qui concerne l’affidavit était inappropriée.
+[52] L’appelante affirme que la conduite de l’intimé concernant l’affidavit de M. Shimizu était répréhensible, scandaleuse et outrageante.
+[53] Bien qu’il reconnaisse que sa conduite concernant l’affidavit de M. Shimizu penche en faveur de l’adjudication de dépens majorés, étant donné qu’elle a eu pour effet de prolonger la durée de l’instance, l’intimé soutient que sa conduite n’était pas inappropriée, vexatoire ou inutile, qu’il n’a pas fait preuve de négligence, de trop de circonspection et qu’il n’a pas commis une erreur. L’intimé affirme, au paragraphe 30 de ses observations écrites : [traduction] « Au contraire, l’affidavit, notamment les témoignages et les arguments relativement à son contenu, était essentiel pour fournir le contexte plus que nécessaire des hypothèses du ministre concernant le carburant ».
+[54] L’intimé avance ensuite, au paragraphe 34 de ses observations, que le moment de la divulgation de la preuve par l’affidavit de M. Shimizu n’était pas inapproprié. Il signale que [traduction] « [t]ant le libellé du paragraphe 89(1) des Règles que la jurisprudence de la Cour révèlent que l’article 89 n’exclut pas totalement la présentation à l’audience d’affidavits, en application du paragraphe 335(5) de la Loi (et sa disposition correspondante, le paragraphe 244(9) de la Loi de l’impôt sur le revenu), sans préavis ».
+[55] De fait, l’intimé conteste ma conclusion selon laquelle sa conduite a entraîné un guet-apens au procès et l’affidavit de M. Shimizu n’avait pas sa place dans un procès comme celui devant la Cour. Cela est inapproprié. Une partie à un procès ne devrait jamais se servir des observations sur les dépens pour remettre en cause une conclusion rendue par la Cour dans l’appel connexe.
+[56] En outre, les observations de l’intimé révèlent qu’il est disposé à adopter une telle conduite offensante à l’avenir.
+[57] J’estime que la conduite inappropriée de l’intimé pour tendre un guet-apens au procès, associée aux facteurs précédemment examinés, permet de conclure à une majoration de plus de 30 % des dépens. J’estime que la conviction de l’intimé selon laquelle il n’a rien fait de répréhensible et qu’il pouvait se comporter ainsi à l’avenir permet de conclure à l’adjudication de dépens majorés substantiels. Il semble que c’est la seule façon de le dissuader d’adopter une telle conduite à l’avenir.
+[58] La partie des observations écrites de l’intimé qui commence par le sous-titre [traduction] « [l’]ARC n’a pas menacé d’imposer des pénalités » me pose aussi problème.
+[59] L’intimé répond aux paragraphes 140 et 141 de mes motifs du jugement. Au paragraphe 141, après avoir fait remarquer au paragraphe 140 qu’un témoin de l’appelante avait déclaré que l’appelante utilisait non pas son pourcentage calculé pour calculer ses crédits de taxe sur les intrants, mais bien le pourcentage déterminé par l’ARC, puisque cette dernière avait affirmé qu’elle imposerait des pénalités si l’appelante utilisait son pourcentage, j’ai indiqué ce qui suit :
+Je suis troublé par la conduite de l’ARC. Cette dernière ne devrait jamais menacer d’imposer des pénalités pour forcer un inscrit à accepter sa méthode d’attribution. Le droit est clair : l’ARC ne peut pas simplement substituer son approche à celle de l’appelante, et plus d’une méthode peut être juste et raisonnable dans des circonstances données. L’appelante a proposé une méthode élaborée à la suite d’un examen approfondi de ses activités. Dans cette situation, il est inconcevable que sa conduite justifie l’imposition d’une pénalité pour faute lourde. L’ARC semble avoir utilisé la menace de pénalités pour forcer l’appelante à accepter son pourcentage de 15,57 %, dont le calcul n’a été expliqué ni à la Cour ni à l’appelante.
+[60] Au paragraphe 33 de ses observations écrites sur les dépens, l’intimé semble contester ma conclusion de fait selon laquelle l’ARC menaçait d’imposer des pénalités pour faute lourde. Il déclare ce qui suit :
+[traduction]
+Au procès, le témoin de l’appelante a expliqué qu’elle utilisait les pourcentages de l’ARC « sous la menace de pénalités ». La Cour a, à juste titre, fait remarquer que l’ARC ne devrait jamais menacer d’imposer des pénalités pour obliger des inscrits à la TPS à accepter une méthode de répartition. Cependant, en tout respect, la Cour a tort d’émettre des doutes. Bien que l’article 280 de la Loi prévoie des intérêts sur les sommes impayées au titre de la partie IX, des versions antérieures de l’article 280 imposaient à la fois des intérêts et une pénalité automatique calculée à un taux de 6 % par an. Dans sa correspondance, l’ARC avise régulièrement les inscrits des intérêts et pénalités prévus par la loi et le fait que cela se soit produit en l’espèce ne devrait avoir aucune incidence sur l’analyse des dépens.
+[61] J’ai certaines réserves au sujet de ce paragraphe dans les observations écrites de l’intimé.
+[62] En premier lieu, la conduite de l’ARC avant le début du litige dans les présents appels n’est pas pertinente pour établir les dépens. Cela m’a amené à conclure qu’une fois encore, l’intimé soulève cette question pour contester mes conclusions de fait lorsque j’ai accueilli les appels.
+[63] J’émets aussi des réserves concernant l’argument de l’intimé au paragraphe 33 où il est fait mention de la pratique administrative de l’ARC à l’égard de l’article 280 de la Loi. Il s’agit d’une tentative d’introduire de nouveaux éléments de preuve, après la fin de l’audience, pour contester à tort mes conclusions de fait aux paragraphes 140 à 141 de mes motifs du jugement.
+[64] Ce que je trouve particulièrement troublant est que l’intimé a fondé le paragraphe 33 de ses observations écrites sur une hypothèse de fait erronée.
+[65] Au paragraphe 140 de mes motifs du jugement, je conclus qu’en raison de la menace faite par l’ARC, l’appelante n’a pas utilisé son pourcentage calculé pour les périodes de déclaration ayant pris fin entre le 1er avril 2010 et le 31 mars 2011. Cela signifie que l’ARC n’a pas menacé l’appelante avant mars ou avril 2010.
+[66] Au paragraphe 33 de ses observations écrites, l’intimé indique que l’ARC n’a non pas menacé l’appelante d’imposer une pénalité pour faute lourde, mais l’a plutôt avisée de l’intérêt de pénalité de 6 % perçu sur la taxe nette impayée selon des versions antérieures de l’article 280 de la Loi. L’intérêt de pénalité de 6 % était imposé en application du paragraphe 280(1) de la Loi.
+[67] Le paragraphe 280(1) a été modifié à compter du 1er avril 2007 afin de supprimer les intérêts de 6 % pour retard. Cette modification a été annoncée en juin 2006. Autrement dit, le législateur a supprimé la pénalité de 6 % au moins trois ans avant que l’ARC ne menace l’appelante de lui imposer des pénalités. Il est évident que l’ARC a fait des menaces concernant les intérêts de 6 % pour retard.
+[68] En résumé, l’intimé a contesté à tort une conclusion de fait formulée dans mes motifs du jugement, la question dont il fait mention dans ses observations écrites n’est pas pertinente pour déterminer les dépens que j’adjugerai et il a fondé ses observations sur des faits allégués qui ne se trouvent pas dans le dossier et qui sont directement contredits par la date d’entrée en vigueur de la modification du paragraphe 280(1) de la Loi.
+Conclusion [69] Après avoir tenu compte de tous les facteurs pertinents, en particulier la conduite inappropriée de l’intimé relativement au laps de temps qui s’est écoulé avant que l’intimé observe la décision B.C. Ferry de la Cour, sa tentative de guet-apens au procès et ses observations écrites qui indiquent qu’il pourrait continuer son comportement inapproprié à l’avenir, j’ai conclu que la conduite de l’intimé doit être découragée par l’adjudication de dépens importants. Par conséquent, j’adjuge à l’appelante des dépens représentant 60 % de ses frais juridiques.
+[70] J’ai examiné les documents de l’appelante qui étayent sa demande de 92 618,42 $ à titre de remboursement des débours. J’ai conclu que l’appelante a droit au remboursement de tous les débours mentionnés.
+[71] L’appelante a demandé que la TVH non recouvrable soit égale à 6,14 % de ses honoraires d’avocat, plus les débours. J’ai donc utilisé ce pourcentage pour établir les dépens que j’adjugerai au titre de la TVH non recouvrable.
+[72] Pour les motifs qui précèdent, un seul paiement forfaitaire de 895 731,40 est adjugé à l’appelante pour les dépens et débours comprenant ce qui suit :
+-751 296,60 $ au titre des frais juridiques de 1 252 161 $ (60 % de (1 217 161 $ plus 35 000 $))[15];
+-92 618,42 $, au titre des débours;
+-51 816,38 $ au titre de la TVH non recouvrable (6,14 % de (751 296,60 $ plus 92 618,42 $)).
+Signé à Halifax (Nouvelle-Écosse), ce 26e jour d’avril 2024.
+« S. D’Arcy »
+Le juge D’Arcy
+Traduction certifiée conforme
+ce 13e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+RÉFÉRENCE :
+2024 CCI 51
+NOS DES DOSSIERS DE LA COUR :
+2012-1765(GST)G
+2015-2123(GST)G
+INTITULÉ :
+Marine Atlantique S.C.C. c. Sa Majesté le Roi
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Steven K. D’Arcy
+DATE DE L’ORDONNANCE :
+Le 26 avril 2024
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Kimberley Cook
+Me Florence Sauve
+Me Chris Canning
+Avocats de l’intimé :
+Me Selena Sit
+Me Spencer Landsiedel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Kimberley Cook
+Me Florence Sauve
+Me Chris Canning
+Cabinet :
+Thorsteinssons LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Voir Marine Atlantique S.C.C. c. Le Roi, 2023 CCI 95.
+[2] Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15.
+[3] Règles de la Cour canadienne de l’impôt (procédure générale), DORS/90-688a.
+[4] 2012 CCI 273.
+[5] 2018 CCI 55.
+[6] Voir Lux Operating Limited Partnership c. La Reine, 2018 CCI 214, par. 10.
+[7] Voir la décision Invesco Canada Ltd. c. La Reine, 2014 CCI 375, par. 8 à 10.
+[8] 2 629 689 $ plus 9 252 782 $ plus les 9 902 767 $ en ce qui concerne les périodes de déclaration de l’appelante ayant pris fin entre le 1er février 2012 et le 31 mars 2023.
+[9] L’appelante mentionne six recueils, alors qu’il y avait en fait sept recueils conjoints de documents.
+[10] 2014 CCI 305.
+[11] Affidavit de Patrick Riley Murray (l’« affidavit de l’appelante »), pièce 2.
+[12] Affidavit de l’appelante, pièces 3, 7 et 9.
+[13] Précité, pièce 18.
+[14] Marine Atlantique S.C.C. c. La Reine, 2016 CCI 46.
+[15] Voir les observations écrites de l’appelante, par. 44.

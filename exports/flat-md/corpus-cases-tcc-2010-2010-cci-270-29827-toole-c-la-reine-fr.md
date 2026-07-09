@@ -1,0 +1,148 @@
+---
+title: "Toole c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29827/index.do"
+last_modified: "2010-05-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 270"
+citation2: ""
+neutral_citation: "2010 CCI 270"
+decision_date: "2010-05-31"
+language: "fr"
+item_id: "29827"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6569
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:58:03.939000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "db19f8792d35c7e01f34e5cb19c71e2ef8d3a66641e935df376bcf45693a6cfa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Toole c. La Reine
+
+- Citation: 2010 CCI 270
+- Decision date: 2010-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6569, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Toole c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-31
+Référence neutre
+2010 CCI 270
+Numéro de dossier
+2010-41(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010‑41(IT)I
+ENTRE :
+GIFFORD H. TOOLE,
+appelant
+et
+SA MAJESTÉ LA REINE
+Intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 7 mai 2010, à Toronto (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Rishma Bhimji
+Me Justin Kutyan
+____________________________________________________________________
+ORDONNANCE
+La requête de l’intimée visant à annuler le prétendu appel de l’appelant en vertu de la Loi de l’impôt sur le revenu est rejetée, mais le présent appel se poursuivra en tant qu’appel en vertu du Régime de pension du Canada et non en tant qu’appel en vertu de la Loi de l’impôt sur le revenu pour les motifs ci-joints.
+L’intimée aura jusqu’au 19 juillet 2010 pour déposer une réponse.
+Signée à Halifax, Nouvelle-Écosse, ce 31e jour de mai 2010.
+« Wyman W. Webb »
+Juge Webb
+Référence : 2010CCI270
+Date : 20100531
+Dossier : 2010‑41(IT)I
+ENTRE :
+GIFFORD H. TOOLE,
+appelant
+et
+SA MAJESTÉ LA REINE
+Intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] L’appelant a déposé un avis d’opposition auprès de l’Agence du revenu du Canada en janvier 2009. Il a utilisé le formulaire indiquant qu’il déposait un appel en vertu de la Loi de l’impôt sur le revenu et l’Agence du revenu du Canada a traité son appel en tant qu’appel en vertu de la Loi de l’impôt sur le revenu et une confirmation a été émise par l’Agence du revenu du Canada au nom du ministre du Revenu national.Toutefois, l’appelant appelait la décision qu’il n’avait l’obligation de ne verser aucune cotisation en vertu du Régime de pension du Canada (« RPC ») pour les années 1999, 2000 et 2001.
+[2] L’intimée a présenté une requête visant à annuler le prétendu appel de l’appelant en vertu de la Loi de l’impôt sur le revenu. L’appelant a reconnu à l’audience de la requête qu’il ne contestait le montant de sa dette fiscale sur son revenu pour aucune de ces années. Il ne contestait que la décision qu’il n’avait l’obligation de ne verser aucune cotisation en vertu du RPC pour les années 1999, 2000 et 2001.
+[3] Il me semble évident que c’est une affaire qui devrait être déterminée conformément aux dispositions du Régime de pensions du Canada.
+[4] L’article 26.1 du RPC prévoit ce qui suit :
+26.1 (1) Le ministre de l’Emploi et du Développement social, de même que tout employeur ou employé, ou toute personne prétendant être l’un ou l’autre peut demander à un fonctionnaire de l’Agence revenu du Canada autorisé par le ministre du Revenu national de rendre une décision sur les questions suivantes :
+a) le fait qu’un emploi est un emploi ouvrant ou non droit à pension;
+b) la détermination de la durée d’un emploi, y compris ses dates de début et de fin;
+c) la détermination du montant des gains obtenus au titre d’un emploi ouvrant droit à pension
+d) l’obligation ou non de verser une cotisation;
+e) la détermination du montant des cotisations à verser;
+f) l’identité de l’employeur d’un employé qui occupe un emploi ouvrant droit à pension.
+[5] La question de savoir si une cotisation est payable et le montant d’une cotisation qui est payable sont des questions qui peuvent faire l’objet d’une décision.
+[6] L’article 27 du RPC prévoit ce qui suit :
+27. Le ministre de l’Emploi et du Développement social peut porter la décision en appel devant le ministre à tout moment, tout autre intéressé ne pouvant le faire que dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit notification de cette décision.
+[7] L’article 28 du RPC prévoit ce qui suit :
+28 (1) La personne visée par la décision du ministre sur l’appel que prévoit les articles 27 ou 27.1, ou son représentant, peut, dans les quatre-vingt-dix jours qui suivent la date à laquelle la décision lui est communiquée, ou dans le délai supplémentaire que la Cour canadienne de l’impôt peut accorder sur demande qui lui est présentée dans les quatre-vingt-dix jours suivant l’expiration de ces quatre-vingt-dix jours, en appeler de la décision en question auprès de cette Cour en conformité avec la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+[8] Le paragraphe 30(5) du RPC prévoit ce qui suit :
+(5) Lorsque aucune déclaration des gains pour une année provenant du travail qu’une personne exécute pour son propre compte n’a été produite auprès du ministre, ainsi que l’exige le présent article, et ce au plus tard quatre ans après la date à laquelle elle est tenue de produire pour l’année en question la déclaration visée au paragraphe (1), le montant de toute cotisation qui, d’après la présente loi, doit être versé par elle pour l’année, à l’égard de semblables gains, est réputé nul sauf si, avant l’expiration de ces quatre ans, le ministre a évalué la cotisation pour l’année à l’égard de ces gains.
+[9] Il semble que l’appelant n’a pas produit ses déclarations de revenus pour les années 1999, 2000 et 2001 avant juin 2007, par conséquent, il a apparemment été décidé qu’aucune cotisation n’était payable par l’appelant pour ces années suite à l’application des dispositions du paragraphe 30(5) du RPC. L’avocat de l’intimée a soutenu que c’est ce qui distinguait l’espèce. Toutefois, la question dans la présente requête n’est pas si l’appelant obtiendra gain de cause, mais s’il fallait lui permettre de poursuivre son appel et de faire entendre sa cause en ce qui concerne l’interprétation et l’application du paragraphe 30(5) du RPC aux faits qui peuvent être établis à l’audience.
+[10] La thèse de l’intimée était également qu’il y a eu une cotisation, pas une décision. Toutefois, il me semble qu’une décision devait être prise par l’Agence du revenu du Canada qu’aucune cotisation n’était payable par l’appelant pour aucune de ces années afin d’établir une cotisation qui indique le montant nul de la cotisation. L’avis de cotisation était simplement le moyen par lequel l’appelant a été avisé de la décision qu’il n’était tenu de verser aucune cotisation pour ces années. La décision selon laquelle il n’était obligé de verser aucune cotisation pour les années 1999, 2000 et 2001 constituerait une décision liée à cette affaire et serait le type de décision mentionnée à l’article 26.1 du RPC. Par conséquent, l’appelant a le droit d’interjeter appel de cette décision. L’appel de la décision selon laquelle il n’y a pas d’obligation de verser des cotisations est interjeté auprès du ministre mentionné à l’article 27 du RPC. Le paragraphe 5(1) du RPC stipule que « ministre » aux fins de la Partie I du RPC désigne le ministre du Revenu national. L’article 27 se trouve à la Partie I du RPC. Bien que le formulaire présenté par l’appelant ait été traité par l’Agence du revenu du Canada comme une opposition en vertu de la Loi de l’impôt sur le revenu, étant donné qu’il a été traité par l’Agence du revenu du Canada agissant au nom du ministre du Revenu national, il me semble qu’il peut également être traité comme un appel en vertu de l’article 27 du RPC étant donné que le ministre du Revenu national est également le ministre auprès de qui un appel peut être interjeté en vertu de l’article 27 du RPC.
+[11] L’avocat de l’intimée a également soutenu que la cotisation indiquait une cotisation néant en vertu du RPC pour ces années-là et cite des affaires jugées en vertu de la Loi de l’impôt sur le revenu stipulant que l’appelant ne peut interjeter appel d’une cotisation néant. Comme l’indique la juge Campbell dans Esesson Canada Inc. c. La Reine 2009 CCI 336, [2009] 5 C.T.C. 2182, 2009 D.T.C. 1168 :
+5 Dans l’arrêt The Queen v. Interior Savings Credit Union, 2007 DTC 5342, la Cour d’appel fédérale conclut d’une façon définitive qu’une « cotisation néant » est une cotisation dont le contribuable ne peut pas interjeter appel. Aux paragraphes [17] et [18] de cette décision, la Cour d’appel fédérale énonce les deux raisons pour lesquelles un avis informant le contribuable qu’aucun impôt n’est payable ne peut pas faire l’objet d’un appel devant la Cour canadienne de l’impôt :
+[17] […] Premièrement, l’appel doit viser une cotisation et la cotisation aux termes de laquelle aucun impôt n’est payable n’est pas une cotisation (voir l’arrêt Okalta Oils Limited c. MNR, 55 DTC 1176 (CSC), à la page 1178 : [TRADUCTION] « Aux termes de ces dispositions, il n’y a pas de cotisation si aucun impôt n’a été réclamé »). Deuxièmement, il n’existe aucun droit d’en appeler d’une cotisation portant qu’aucun impôt n’est payable, puisque [TRADUCTION] « [t]oute opposition autre que celle qui se rapporte au montant réclamé [au titre des impôts] est dépourvue de l’objet dont découle le droit d’appel… » (Okalta Oils, précité, à la page 1178).
+[18] Ces deux volets de la règle sont présentés de manière succincte par la juge Lamarre‑Proulx dans Faucher c. Canada, 94 DTC 1575, à la page 1579 :
+En conclusion, il n’y a pas de droit d’appel d’une cotisation d’un montant néant, ni d’une cotisation dont on ne demande pas la réduction […]
+[12] Toutefois, l’appel en l’espèce est interjeté en vertu du RPC et non pas la Loi de l’impôt sur le revenu. Étant donné qu’un droit d’appel est précisément autorisé en vertu du RPC relativement à la question si une cotisation doit être versée en vertu du RPC et aussi en ce qui concerne le montant de toute cotisation de ce type qui doit être versée, il me semble qu’on peut distinguer en l’espèce des affaires portant sur la question de savoir si une personne a le droit d’appel d’une cotisation d’un montant néant en vertu de la Loi de l’impôt sur le revenu. Il me semble qu’une personne aura le droit d’appel en vertu du RPC d’une décision qu’il n’y a pas d’obligation de verser une contribution pour certaines années.
+[13] Par conséquent, je souscris à l’avis que le présent appel n’est pas approprié en vertu de la Loi de l’impôt sur le revenu. Toutefois, il me semble qu’il s’agisse d’un appel en vertu du RPC d’une décision du ministre du Revenu national et il devrait se poursuivre en tant que tel. Par conséquent, la requête de l’intimée est rejetée, mais l’affaire doit se poursuivre en tant qu’appel en vertu du RPC.
+[14] L’intimée a jusqu’au 19 juillet 2010 pour déposer une réponse.
+Signée à Halifax, Nouvelle-Écosse, ce 31e jour de mai 2010.
+« Wyman W. Webb »
+Juge Webb
+RÉFÉRENCE : 2010CCI270
+NO DU DOSSIER DE LA COUR : 2010-41[(IT)I
+INTITULÉ : GIFFORD H. TOOLE ET LA REINE
+LIEU DE L’AUDIENCE : Toronto, Ontario
+DATE DE L’AUDIENCE : Le 7 mai 2010
+MOTIFS DE L’ORDONNANCE PAR : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE : Le 31 mai 2010
+COMPARUTIONS :
+Pour l’appelante
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Rishma Bhimji
+Me Justin Kutyan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant
+Nom
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

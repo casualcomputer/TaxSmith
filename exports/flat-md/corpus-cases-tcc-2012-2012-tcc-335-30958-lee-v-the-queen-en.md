@@ -1,0 +1,151 @@
+---
+title: "Lee v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30958/index.do"
+last_modified: "2012-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 335"
+citation2: ""
+neutral_citation: "2012 TCC 335"
+decision_date: "2012-09-21"
+language: "en"
+item_id: "30958"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4832
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:09:57.540000+00:00"
+cases_cited_count: 3
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e518116ec0895ad95b40677f8f20517aa811a25dbc0e973ffb9230fee7611a1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lee v. The Queen
+
+- Citation: 2012 TCC 335
+- Decision date: 2012-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4832, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lee v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-21
+Neutral citation
+2012 TCC 335
+File numbers
+2012-1662(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-1662(GST)I
+BETWEEN:
+BRADMAN LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on August 28, 2012 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+AMENDED JUDGMENT
+UPON application by the respondent for an order quashing an appeal instituted by notice of appeal filed on April 30, 2012,
+IT IS ORDERED that the appeal with respect to an assessment made under the Excise Tax Act for the 1999, 2000, 2001 and 2002 reporting periods is dismissed. Each party shall bear their own costs.
+This Amended Judgment is issued in substitution of the Judgment dated September 21, 2012.
+Signed at Ottawa, Ontario this 25th day of October 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 335
+Date: 20121025
+Docket: 2012-1662(GST)I
+BETWEEN:
+BRADMAN LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Woods J.
+[1] The Crown has brought an application to quash an appeal which was instituted by Bradman Lee by way of a notice of appeal filed with the Court on April 30, 2012.
+[2] The appeal relates to a reassessment issued under the Excise Tax Act pursuant to a judgment of this Court. The Crown submits that since the cause of action and the issue have already been litigated, Mr. Lee should be estopped from pursuing a further appeal.
+Summary of prior proceedings
+[3] The subject matter of this appeal is net tax payable by Mr. Lee under the Excise Tax Act relating to his business as a commissioned real estate salesman during 1999, 2000, 2001 and 2002.
+[4] There have been several legal proceedings pertaining to this business activity for these years.
+[5] The first was a criminal action in the Ontario Court of Justice against Mr. Lee. The outcome of that proceeding was that Mr. Lee was convicted of tax offences under s. 239(1)(a) and (d) of the Income Tax Act and s. 327(1)(c) of the Excise Tax Act: R. v Lee, [2008] GSTC 65; [2008] 5 CTC 117 (OCJ) (Ex R-2, Tab 14). Oral reasons relating to the conviction were issued on November 23, 2007. Subsequent appeals of this decision by Mr. Lee were not successful.
+[6] The second proceeding was an appeal instituted by Mr. Lee in this Court (the “GST Appeal”) in respect of an assessment made under the Excise Tax Act by notice dated February 17, 2005 (the “2005 Assessment”). The appeal was governed by the informal procedure and was heard by me for four days over an eight month period. A judgment partially in Mr. Lee’s favour was issued on July 28, 2010. An appeal taken by Mr. Lee was not successful.
+[7] Mr. Lee also instituted an appeal of assessments made under the Income Tax Act. The income tax appeal is in the process of being heard.
+Procedural history of this appeal
+[8] This matter concerns a reassessment that was ordered by this Court in disposition of the GST Appeal. As Mr. Lee was partially successful in the GST Appeal, the judgment ordered the Minister to make a conforming reassessment as follows:
+(1) in calculating net tax, input tax credits should be allowed to the same extent that they were allowed for purposes of the criminal conviction, and
+(2) penalties under section 285 of the Excise Tax Act should be deleted.
+[9] After an appeal of this decision by Mr. Lee was dismissed, a reassessment was issued which gave effect to the judgment. The notice of reassessment is dated June 7, 2011 (the “2011 Reassessment”).
+[10] Mr. Lee then instituted this appeal in respect of the 2011 Reassessment. Prior to filing a reply, the Crown brought this motion seeking that the appeal be quashed.
+Analysis
+[11] The Crown submits that the doctrine known as res judicata should be applied to quash the appeal in respect of the 2011 Reassessment. The principle was described by the Judicial Committee of the Privy Council in Thomas v Trinidad and Tobago, (1990) 115 NR 313, at 316.
+[…] It is in the public interest that there should be finality to litigation and that no person should be subjected to action at the instance of the same individual more than once in relation to the same issue. […]
+[12] Res judicata is a form of estoppel recognized by the courts, which has two forms, issue estoppel and cause of action estoppel. In Angle v MNR, [1975] 2 SCR 248 (SCC), Laskin J. described the reason for the rule:
+The basis of issue estoppel as well as a cause of action estoppel has been variously explained; for example, that it is “founded on considerations of justice and good sense” (see New Brunswick Railway Co. v. British and French Trust Corp. Ltd., at p. 19); that it is “founded upon the twin principles so frequently expressed in Latin that there should be an end to litigation and justice demands that the same party shall not be harassed twice for the same cause” (Carl Zeiss case, per Lord Upjohm at p. 946, per Lord Guest at p. 933); that is founded on “the general interest of the community in the termination of disputes, and in the finality and conclusiveness of judicial decisions; and … the right of the individual to be protected from vexatious multiplication of suits and prosecutions … ” (Spencer-Bower and Turner, Res Judicata, (2nd ed. 1969), p.10). […]
+[13] There is precedent for application of the principle to appeals under the Income Tax Act in circumstances similar to this: The Queen v Chevron Canada Resources Limited, 98 DTC 6570 (FCA), at para 36 to 41; Armstrong v The Queen, 2006 DTC 6310 (FCA), para 28; and McFadyen v The Queen, 2008 TCC 441, 2008 DTC 4513.
+[14] I was not referred to any judicial precedent of its application to appeals under the Excise Tax Act but there is no reason that it should not apply. Absent special circumstances, a taxpayer should not be permitted to relitigate the same matters that were already decided by this Court.
+[15] In my view, the res judicata principle should be applied in respect of the appeal of the 2011 Reassessment. The issues which have been raised in the notice of appeal are issues that were already decided by the Court, or are issues that Mr. Lee should have raised at the earlier proceeding. There are no overriding reasons that would justify allowing this litigation to proceed.
+Was there lack of notice of the motion?
+[16] In response to the Crown’s argument, Mr. Lee stated that he was not aware of this motion or that it was scheduled. He was present in Court because the motion was scheduled to be heard on the same day that his income tax appeal was scheduled to be continued.
+[17] Mr. Lee stated that he never received a copy of the notice of motion. He also stated that although he received a book containing the Crown’s judicial authorities, without a covering letter or tabs, he was unaware that the book contained written submissions concerning the motion. He implied that he assumed the judicial authorities related to the income tax appeal.
+[18] I am not persuaded by Mr. Lee’s submissions. In particular, I do not accept that he did not receive a copy of the notice of motion or that he was unaware that the book of judicial authorities included the Crown’s written submissions.
+[19] For Mr. Lee’s submissions to be believed, I would have to find that there there were several problems with the material sent to Mr. Lee by the Crown: (1) the courier delivery of the notice of motion was not effected even though the Crown filed an affidavit relating to service, and (2) the book containing judicial authorities and written submissions received by Mr. Lee was deficient in that it did not contain the covering letter that Mr. Prevost read at the hearing, nor a cover page or tabs even though these are standard procedures and were contained in the book provided to the Court. Taken together, these circumstances are too improbable to be believed.
+[20] I would also comment that I had asked both parties at the beginning of the sitting whether they objected to proceeding with this motion first before the continuation of the income tax appeal. Mr. Lee asked for clarification about the motion and I indicated that it related to his GST appeal. Mr. Lee then indicated that he had no problem in proceeding with the motion. It was not until after the Crown had presented its argument that Mr. Lee stated that he had not been aware of the motion.
+[21] I am satisfied that Mr. Lee was aware of the motion and that there was no unfairness in proceeding with the hearing.
+Conclusion
+[22] It is appropriate to apply the doctrine of res judicata in these circumstances. The appeal in respect of the 2011 Reassessment will be dismissed.
+[23] The Crown sought costs in respect of the motion on grounds that the appeal was an abuse of process. I do not propose to order costs since Mr. Lee was not represented by counsel and the doctrine of res judicata is not something that lay litigants are likely to be familiar with. Each party shall bear their own costs.
+Signed at Ottawa, Ontario this 25th day of October 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 335
+COURT FILE NO.: 2012-1662(GST)I
+STYLE OF CAUSE: BRADMAN LEE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 28, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF AMENDED
+JUDGMENT: October 25, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

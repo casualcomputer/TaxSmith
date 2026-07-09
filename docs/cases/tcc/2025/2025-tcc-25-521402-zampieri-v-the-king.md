@@ -1,0 +1,208 @@
+---
+title: "Zampieri v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521402/index.do"
+last_modified: "2025-02-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 25"
+citation2: ""
+neutral_citation: "2025 TCC 25"
+decision_date: "2025-02-26"
+language: "en"
+item_id: "521402"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6029
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:41:29.494000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ab12210a9adf09579d984d428a4aca316c68c68306662198e9957d7a8232b58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zampieri v. The King
+
+- Citation: 2025 TCC 25
+- Decision date: 2025-02-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6029, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zampieri v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-02-26
+Neutral citation
+2025 TCC 25
+File numbers
+2024-463(GST)APP
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2024-463(GST)APP
+BETWEEN:
+PASQUALE ZAMPIERI,
+APPLICANT,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on January 30, 2025 at Vancouver, British Columbia
+Before: The Honourable Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Benjamin Roizes
+Ryan Liu
+ORDER
+WHEREAS the Court has published its reasons for order in this application on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The application for an extension of time to file a notice of appeal concerning a notice of confirmation dated February 19, 2015 is granted and the application to extend the time to file a notice of objection concerning a notice of assessment dated December 17, 2014 is allowed on the following respective bases:
+i)the notice of appeal filed with the application to extend the time to appeal is received as filed concerning the GST reporting periods January 1, 2011 to June 30, 2012;
+ii)the Appellant’s notice of objection in the application to extend concerning GST reporting periods July 1, 2012 to December 31, 2012 shall be returned to the Minister for (re)consideration and decision.
+Should the Applicant (now Appellant) wish to amend his notice of appeal concerning the first six reporting periods, he may do so by filing a fresh, as amended notice of appeal on or before April 21, 2025, whereupon the Respondent may file his reply on or before June 20, 2025;
+Should the Minister confirm or vary by decision the assessment for the last two reporting periods, any appeal of that decision by the Applicant may be joined to the appeal above pursuant to section 302(b) of the Excise Tax Act.
+There shall be no costs.
+Signed at Ottawa, Ontario, this 26th day of February 2025.
+“R.S. Bocock”
+Bocock J.
+Citation: 2025 TCC 25
+Date: 20250226
+Docket: 2024-463(GST)APP
+BETWEEN:
+PASQUALE ZAMPIERI,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+Introduction re: application for extension to file a notice of objection and notice of appeal
+[1] Pasquale Zampieri (“Mr. Zampieri”) brings this application to achieve two different outcomes: extend the time to file both a notice of appeal and also a notice of objection. The notice of appeal he seeks to file relates to certain Notices of Confirmation (“NoCs”) all dated February 19, 2015 and the objection he seeks to file relates to a Notice of (Re)Assessment (“NoA”) dated December 17, 2014. The NoCs confirmed submitted objections for the six quarterly reporting periods from January 1, 2011 to June 30, 2012 (“1st six reporting periods”). The NoA reassessed Mr. Zampieri’s GST returns for the last two quarters of 2012: July 1st to December 31st (“last two reporting periods”). These reasons, which would otherwise be delivered orally in such applications, are in writing because of the distinct remedies, multiple dates and evidentiary issues involved.
+Reasons of Mr. Zampieri’s lateness in filing application [2] For reasons described below, Mr. Zampieri did not file his Notice of Objection (“NOO”) for his reassessed GST returns with the Canada Revenue Agency (“CRA”) until October 20, 2023 and did not file his notice of appeal with this Court until March 6, 2024. Prior to that, Mr. Zampieri’s accountant file amended GST returns with the Minister for all 8 GST reporting periods on September 11, 2023. The Minister refused to accept the amended returns on the basis they were not filed in time. This rejection prompted Mr. Zampieri to then alternately object, appeal and apply for extensions.
+[3] By way of explanation, Mr. Zampieri recounted for the Court that in December, 2022 a settlement was concluded between Mr. Zampieri (acting on his own behalf) and the Minister (with Department of Justice counsel). It appears the Minister conceded both taxation years for income tax, as filed by Mr. Zampieri, for the years 2011 and 2012.
+[4] As a result, Mr. Zampieri applies to this Court for an extension of the time to file a notice of appeal for the 1st six reporting periods and a NOO for the last two reporting periods (“Extension Applications”).
+[5] Mr. Zampieri offered three primary reasons for his delay in filing the Extension Application. Below, the Court summarizes those reasons against Mr. Zampieri’s testimony.
+Income tax appeal coincides with all GST reporting periods now before the Court [6] Mr. Zampieri believes his outstanding GST dispute should be reassessed to accord with his resolved income tax appeal; the two taxation years coincide with the 8 GST reporting periods. He submits that resolving one without the other is neither reflective of the original dispute nor consistent with the outcome he negotiated. In short, as the Court confirmed during the hearing, he believes consequential reassessments, entirely based upon the income tax settlements, should be issued by the Minister.
+Addresses for NoR and NoC were incorrect [7] Mr. Zampieri testified that the addresses to which the relevant NoA and NoCs were sent by the Minister were incorrect. Hence, he says he did not receive them. His testimony regarding where he actually lived on January 28, 2013 and February 19, 2015 was not entirely clear, but he certainly asserts he did not live at the addresses used by the Minister’s agents in the notices. In contrast, he did not deny certain addresses used subsequently by the Minister were correct, but these did not align with the relevant dates when the NoA and the NoCs were sent and addressed to him. Further, during the period April 2013 to May 2017, he insisted he lived at 295 Tomahawk, West Vancouver (“295 Tomahawk”). This period also included the relevant period when the NoA and NoCs were sent; it is not disputed that 295 Tomahawk was not the address used by the Minister.
+[8] Cross-examination of Mr. Zampieri on the issue of addresses focused on an address relevant to the original notices of assessment concerning the 1st six reporting periods. After objection, notices were superceded by the NoCs. Mr. Zampieri was not cross-examined specifically concerning the address used, 308 – 2610 Grandview Highway, Vancouver (“Grandview”) by the Minister in the NoCs (all dated February 19, 2015) for the 1st six reporting periods. As well, no questioning approached the address used by the CRA for the NoA (December 17, 2014) for the last two reporting periods (July 1 to December 31, 2012). Of note, the Grandview address used for both the NoCs and the NoA was different again from the original (subsequently objected to) reassessments sent on January 28, 2013 for the 1st six reporting periods. The Minister filed no affidavit of service addressing the process, addresses or records relevant to the sending of the NoCs or NoA.
+Amended GST returns were only filed after Income tax dispute resolved [9] Mr. Zampieri argued implicitly that since he did not receive the separate NoCs or NoA for the GST, he believed the resolution of the income tax appeal in late 2023 would also resolve the related GST in his favour. Again, the basis of his GST application/appeal ultimately seeks consequential GST reassessments to follow and be informed by the income tax reassessments, now resolved.
+Statutory provisions applicable
+[10] The statutory references applicable to the Extension Application to file a notice of objection, relevant to the last two reporting periods, are found in the Excise Tax Act (“ETA”) as follows [emphasis added]:
+300. (1) After making an assessment, the Minister shall send to the person assessed a notice of the assessment.
+301(1.1) Any person who has been assessed and who objects to the assessment may, within ninety days after the day notice of the assessment is sent to the person, file with the Minister a notice of objection in the prescribed form and manner setting out the reasons for the objection and all relevant facts.
+303.(1) Where no objection to an assessment is filed under section 301 . . . within the time limit otherwise provided, a person may make an application to the Minister to extend the time for filing a notice of objection . . . and the Minister may grant the application.
+304.(1) A person who has made an application under section 303 may apply to the Tax Court to have the application granted after either
+(a) the Minister has refused the application, or
+[….]
+304(5) No application shall be granted under this section unless
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting . . . and
+[….]
+[11] Provisions in subsection 305(5) of the ETA mimic the same restrictions of time described above, save that they apply to an extension of time to file a notice of appeal. The subsection 305(5) provisions are relevant to the 1st six reporting periods because an objection had been previously filed by Mr. Zampieri, whereas section 301(1.1) applies to the NoA.
+[12] Respondent’s counsel asserts:
+i) The Minister is prejudiced by Mr. Zampieri’s assertion at the application hearing of the incorrect address used in the NoCs and NoA since Mr. Zampieri did not previously assert such grounds in the application notice;
+ii)Mr. Zampieri’s recollection of his address, particularly from 2009 to 2012 (and possibly 2013) is sketchy at best;
+iii)Mr. Zampieri’s application only requests an extension application to file an objection, but the NoCs for the 1st six periods do not permit this; Mr. Zampieri must seek extension to file a notice of appeal;
+iv)Mr. Zampieri had actual notice of the GST disputes because he filed his amended returns in 2023; and,
+v)The income tax dispute, the consent to judgment for which was provided for the Court, was resolved without any reference to GST and specifically limits its application to the income tax dispute.
+[13] In summary, Respondent’s counsel argues that the Minister has met her onus regarding the “sending” of the NoCs and NoA. The deadlines are engaged and operative and they should apply as follows:
+GST Reporting Periods
+Date of NoC or NoA
+Deadline to Appeal/Object
+Deadline for Extension Application
+January 1, 2011 to June 30, 2012
+(1st six reporting periods)
+February 19, 2015 (NoCs)
+May 20, 2015 (90 days to appeal)
+May 20, 2016 (one year to apply)
+July 1, 2012 to December 31, 2012
+(last two reporting periods)
+December 17, 2014 (NoA)
+March 17, 2015 (90 days to object)
+March 17, 2016 (one year to apply)
+Applicable case law
+[14] As an overview regarding the Minister’s obligation, the jurisprudence interpreting the above-noted deadlines concerning filing deadlines for objections and extension applications is longstanding and crystal clear. Once the Minister proves, on balance, the applicable notice has been sent to the correct address on file, no obligation or requirement exists that the taxpayer actually receive the notice: Rossi v HMQ 2015 FCA 267 at para. 7 referencing Canada v Bowen [1992] 1 FC 311 (CA); Schafer v Canada [2000] FCA No 1480; and Grunwald v HMQ 2005 FCA 421.
+[15] As submitted by Respondent’s counsel, the case of Mpamugo v. HMQ 2015-3908(IT)G is the recent touchstone reference where a taxpayer asserts any notice from the Minister’s agents was not sent or was incorrectly addressed. Specifically referable to this application are the following relevant excerpts [with appropriate insertions added] from that decision where Justice Graham summarizes the Court’s analysis of the evidence in such circumstances:
+Step 1: The taxpayer must assert that the Notice of Assessment was not mailed[1]. A taxpayer normally does so in one of two ways. […] Alternatively, the taxpayer may assert that the Notice was mailed to the wrong address through no fault of the taxpayer and was thus, in effect, not mailed.
+Step 2: If […] the taxpayer has asserted that it was mailed to the wrong address, [the Minister must produce sufficient evidence to prove] that it [the notice] was mailed to the address that the CRA properly had on file[2].
+Step 3: If the Minister is able to prove that the Notice of Assessment was indeed mailed, then the mailing is presumed to have occurred on the date set out on the Notice (subsection 244(14)). This is a rebuttable presumption[3]. The taxpayer may introduce evidence to prove that it was actually mailed on a different date. […]
+Step 4: Once the mailing date is established (either through the presumption or through proof of a different date), the assessment is deemed to have been made on that date (subsection 244(15)) and the Notice of Assessment is deemed to have been received on that date (subsection 248(7)). These deeming provisions are not rebuttable[4]. […]
+[…]
+[7] The main dispute between the parties regarding these steps is whether the taxpayer’s credibility is to be considered at Step 1 or Step 2. While this may, at first, appear to be a minor issue, one can see its importance if one considers a situation where the Minister has no evidence of mailing whatsoever but the Court does not believe the taxpayer’s assertion that the Notice was not mailed. If credibility is determined at Step 1, the taxpayer will lose as the test will never proceed to the point where the Minister has to prove mailing. If credibility is determined at Step 2, the Crown will lose as it will be unable to discharge its onus.
+The Minister’s evidence [16] Respondent’s counsel submits that Mr. Zampieri’s evidence concerning his address at the time of the sending of the NoA and NoCs is unreliable. The affidavit sworn by the Respondent’s agent and filed by counsel at the hearing did include the following summarized information:
+i)Appended photocopies of the original notices of assessment for the 1st six reporting periods, revealing Address A used, which was not the Grandview address;
+ii)Appended photocopy of the NoA “addressed and issued” dated December 17, 2014 for the last two reporting periods revealing the Grandview address, also identified as being sent by registered mail;
+iii)Appended photocopy of the NoCs (there were two using the same date – February 19, 2015) for an “issued” NoC for the 1st six reporting periods revealing the Grandview address, identified as being sent by registered mail;
+iv)Confirmation that the Minister maintains a computerized database storing “information and records relating to taxpayers”;
+v)No relevant filings by Mr. Zampieri in those records with the CRA and the relevant missed deadlines in response to the NoCs and NoA;
+vi)A statement that the Minister assessed and issued the NoCs and NoA on specific dates;
+vii)Information concerning the Tax Court’s records; and,
+viii)An attached copy of the consent to judgment concerning the income tax dispute covering the taxation years 2011 and 2012 coinciding with all relevant GST reporting periods; and,
+ix)Several paragraphs interpreting the provisions of the ETA and making conclusions of law.
+[17] In contrast, the affidavit did not include:
+i)Knowledge of CRA practices regarding the “sending” of notices of assessment or confirmation, generally;
+ii)Knowledge of or information regarding specifically the procedure, record review, how and on what specific dates or to which address the issued NoA or NoCs were sent by the Minister’s agents;
+iii)Any information from the Minister’s “computerized information and records” concerning Mr. Zampieri’s addresses on file, the operative dates and changes to such addresses at material times;
+iv)Why the Minister used the recorded addresses (should same have been provided in the affidavit) at the time the NoCs or NoA were sent;
+v)Any registered mail receipt, transmittal or counterfoil for the purportedly “registered” NoCs or NoA; and,
+vi)Any basic statement of the specific dates on which the NoCs or NoA was sent.
+[18] The gold standard of affidavit evidence usually describes a CRA officer’s familiarity with the address records, the system of mail dispatch, the recorded address, a copy of the registered mail receipt and reasons for its use corresponding to dates sent and a conclusion that all such information shows that, on balance, the NoC or NoA were sent. This would engage subsections 335(1) and (10), the analogous sections of the ETA to subsection 244(10) of the Income Tax Act: Mpamugo, supra, at paragraph 12. This kind of affidavit is invariably sworn and customarily filed with the Tax Court to obviate the repetitive need of repetitive viva voce evidence.
+[19] Even if the Minister cannot provide that specific affidavit evidence, some evidence, beyond a bland assertion of actual knowledge by the taxpayer some 8 years later, is required. Cross-examination at the hearing on the relevant addresses used, Grandview, may have assisted, but that is speculative since it did not occur.
+Less than perfect versus no evidence of correct address [20] The weighing of the evidence by the Court must focus on the evidence provided by the Minister against that of Mr. Zampieri, as it relates to the addresses used for the NoCs and NoA when sent. This is done in order to determine, on balance, whether the NoA was sent on or shortly after December 17, 2014 to Mr. Zampieri’s address on file with the Minister. The same analysis holds for the NoCs allegedly sent on or shortly after February 19, 2015.
+[21] Mr. Zampieri’s evidence concerning his address in December 2014 and February 2015 was not variable or uncertain. He waivered on a period several years before that. He was not cross-examined on the Grandview address, the address used in both the NoCs or NoA. He was also not cross-examined on his asserted address, applicable at the time of the NoCs and NoA.
+[22] In contrast, the Minister provided no topical evidence regarding the mailing process, the relevant recorded address, the address used, the registered mail receipt or its outcome. Thus, the statutory presumptions are not operative. Further, Respondent’s counsel did not respond as to why such an affidavit was not filed beyond the absence of Mr. Zampieri’s prior challenge. Notably, there was no request for an adjournment. A records, service and address affidavit is not exceptional, though provisionally necessary, should a self-represented applicant make the commonplace assertion that the notice has not been sent, was incorrectly addressed or was not received. The litigation risk connected with not filing such evidence is being met with a self-represented litigant whose sometimes vague assertions became more clear through evidence at the hearing.
+[23] In the absence of statutory presumptions, a court of law must author results based on the best evidence it gets, after absorbing testimony and balancing same against the countervailing facts offered in the alternative; the Tax Court also falls into that category where the statutory presumptions have not been met: Aztec Industries Inc. v. HMQ 1 CTC 327 (FCA); 95 DTC 5235 at page 5238. In this application, the Respondent did not offer any facts in reply to Mr. Zampieri’s evidence the Grandview address was not correct. There were tactical arguments, but on the relevant issue of whether the NoCs and NoA were sent in 2014 and early 2015 to the correct address the Minister had on file, there was nothing. This cannot satisfy the requirement clearly described in Step 2 of paragraph 6 in Mpamugo. For these reasons, the relief is granted.
+Disposition of the 1st six reporting periods
+[24] An implicit application for an extension of time to the appeal for the 1st six reporting periods is granted. While perhaps not explicitly pleaded, in these circumstances, the Court accepts the measurable materials filed as implicitly containing such an application. Therefore, the Court accepts the application materials as a notice of appeal for the 1st six reporting periods. They contain the amended GST returns rejected. Should Mr. Zampieri wish to amend his notice of appeal, he may do so within 60 days. Thereafter the Respondent shall have 60 days to file a reply.
+Disposition of the last two reporting periods [25] For the last two reporting periods, a (re)assessment was never effectively sent. The anomaly is that Mr. Zampieri knows precisely the Minister’s position and vice versa. The Court finds the NoA was effectively communicated by virtue of the Minister’s denial of the objection, dated February 8, 2024. In turn, the filing of the application on March 6, 2024 was within 30 days. As such, that matter is returned to the Minister for reconsideration as an objection since the NoA is determined by the Court to have been unsent. The Minister has not confirmed the objection and now may do so pursuant to subsection 301(1.1) of the ETA. If the Minister confirms or varies the last two reporting periods, they may be added to the appeal now subsisting by virtue of paragraph 24 above.
+[26] There shall be no costs.
+Signed at Ottawa, Ontario this 26th day of February 2025.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2025 TCC 25
+COURT FILE NO.:
+2024-463(GST)APP
+STYLE OF CAUSE:
+PASQUALE ZAMPIERI AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+January 30, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice Randall S. Bocock
+DATE OF ORDER:
+February 26, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Benjamin Roizes
+Ryan Liu
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Aztec Industries Inc. v. The Queen, (FCA) 1995 CarswellNat 278; Schafer v. The Queen, (FCA) 2000 CarswellNat 1948.
+[2] Schafer (FCA); Scott v. MNR (1960) [1961] Ex. C.R. 120; 236130 British Columbia Ltd. v. The Queen 2006 FCA 352; Bowen v. The Queen (FCA) 1991 CarswellNat 520.
+[3] McGowan v. The Queen (FCA) 1995 CarswellNat 381 in obiter at para 19.
+[4] Schafer (FCA).

@@ -1,0 +1,108 @@
+Title: Tcheng c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30903/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-276-30903-tcheng-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-07-18
+
+# Tcheng c. La Reine
+
+- Citation: 2012 CCI 276
+- Decision date: 2012-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7462, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tcheng c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-18
+Référence neutre
+2012 CCI 276
+Numéro de dossier
+2012-1677(IT)APP
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1677(IT)APP
+ENTRE :
+LILY TCHENG,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue sur preuve commune avec les demandes de
+Wei Ming Yee, 2012-1679(IT)APP et de Lily Tcheng, liquidatrice
+de la Succession Tsou Kang Tcheng, 2012-1680(IT)APP,
+le 19 juillet 2012 à Montréal (Québec)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de la requérante :
+Li Han Tcheng
+Avocates de l'intimée :
+Me Anne Poirier
+Me Amélia Fink
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite en vue d'obtenir une ordonnance prorogeant le délai dans lequel des appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu, (LIR) pour les années d'imposition 2000, 2001, 2002, 2003, 2004, 2005 et 2008 peuvent être interjetés;
+Et vu les allégations des parties;
+La demande de prorogation de délai pour produire des avis d’appel à l’encontre des cotisations établies en vertu de la LIR pour les années d’imposition 2000, 2001, 2002, 2003, 2004, 2005 et 2008 est rejetée.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2012 CCI 276
+Date : 20120726
+Dossier : 2012-1677(IT)APP
+ENTRE :
+LILY TCHENG,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+La juge Lamarre
+[1] La requérante a présenté en date du 24 avril 2012 une demande de prorogation de délai pour produire des avis d’appel à l’encontre des dernières cotisations établies par le Ministre du Revenu National (Ministre) pour les années d’imposition 2000, 2001, 2002, 2003, 2004, 2005 et 2008.
+[2] Les dernières cotisations établies pour les années 2000, 2001 et 2002 en date du 7 avril 2008 ont déjà été portées en appel et les appels ont été rejetés par le juge Archambault de cette Cour, le 26 janvier 2011.
+[3] En ce qui concerne les années 2003, 2004 et 2005, les dernières cotisations du 21 mai 2009, et pour l’année 2008, la dernière cotisation du 14 décembre 2009 ont été ratifiées par l’ARC le 4 février 2011. Aux termes du paragraphe 165(1) de la Loi de l’impôt sur le revenu (LIR), la requérante avait 90 jours pour produire des avis d’appel, soit avant le 5 mai 2011. Elle n’a déposé ses avis d’appel que le 24 avril 2012, soit tout près d’un an après l’expiration du délai par ailleurs imparti pour produire les avis d’appel.
+[4] Les conditions exigées pour avoir droit à une prorogation de délai sont énumérées au paragraphe 167(5) de la LIR et se lisent comme suit :
+167. (5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[5] Le représentant de la requérante, M. Li Han Tcheng, le frère de la requérante, a expliqué qu’il a tardé à faire cette demande parce qu’il a d’abord consulté son député, puis fait une plainte à l’Ombudsman. Il a dit qu’il était gêné de faire une demande devant notre Cour. Son député aurait répondu à ce dernier au mois d’août 2011. L’Ombudsman n’a pas encore donné suite. Dans le passé, M. Li Han Tcheng avait déjà fait une demande de prorogation de délai pour la requérante devant notre Cour et il connaissait les règles applicables (voir chronologie pour les années d’opposition 2000 à 2002, pièce I-2, onglet 1). J’estime que les raisons invoquées par lui ne peuvent expliquer tout le délai pour produire les avis d’appel. Entre autres, il n’a pas présenté la demande dès que les circonstances le permettaient.
+[6] La demande de prorogation de délai est donc rejetée.
+[7] Par ailleurs, en ce qui concerne les demandes d’allègement présentées par la requérante aux termes du paragraphe 152(4.2) et 220(3.1) de la LIR, je me réfère aux motifs que j’ai donnés dans les dossiers de ses parents (dossiers 2012‑1679(IT)APP et 2012-1680(IT)APP). Notre Cour n’a pas juridiction pour entendre un appel d’une cotisation établie par suite d’une décision rendue en vertu de ces dispositions.
+[8] La demande est donc rejetée.
+Signé à Ottawa, Canada, ce 26e jour de juillet 2012.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2012 CCI 276
+Nº DU DOSSIER DE LA COUR : 2012-1677(IT)APP
+INTITULÉ DE LA CAUSE : LILY TCHENG c. LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 19 juillet 2012
+MOTIFS DE L’ORDONNANCE PAR : L'honorable juge Lucie Lamarre
+DATE DE L’ORDONNANCE : Le 26 juillet 2012
+COMPARUTIONS :
+Représentant de la requérante :
+Li Han Tcheng
+Avocates de l'intimée :
+Me Anne Poirier
+Me Amélia Fink
+AVOCAT INSCRIT AU DOSSIER :
+Pour la requérante:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

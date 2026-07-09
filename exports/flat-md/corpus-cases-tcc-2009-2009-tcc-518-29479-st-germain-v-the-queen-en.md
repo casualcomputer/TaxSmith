@@ -1,0 +1,217 @@
+---
+title: "St-Germain v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29479/index.do"
+last_modified: "2009-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 518"
+citation2: ""
+neutral_citation: "2009 TCC 518"
+decision_date: "2009-10-19"
+language: "en"
+item_id: "29479"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6297
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:50:35.519000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "135d909e09619468824e63b7cdb86cc2857fcd0073a1361d3293122dce39e3bc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# St-Germain v. The Queen
+
+- Citation: 2009 TCC 518
+- Decision date: 2009-10-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6297, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Germain v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-19
+Neutral citation
+2009 TCC 518
+File numbers
+2008-3825(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3825(IT)I
+BETWEEN:
+PIERRE ST-GERMAIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard August 27, 2009, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments under the Income Tax Act for the 2000, 2001, 2002 and 2003 taxation years are allowed in part and are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+It is ordered that the filing fee of $100 be reimbursed to the appellant.
+Signed at Montréal, Quebec, this 19th day of October 2009.
+"François Angers"
+Angers J.
+Translation certified true
+on this 25th day of November 2009.
+Elizabeth Tan, Translator
+Citation: 2009 TCC 518
+Date: 20091019
+Docket: 2008-3825(IT)I
+BETWEEN:
+PIERRE ST-GERMAIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant is appealing from a reassessment made on October 22, 2007, for the 2000, 2001, 2002 and 2003 taxation years.
+[2] The Minister of National Revenue (the Minister) arbitrarily determined the appellant's income tax payable for the 2000 and 2001 taxation years on April 17, 2003, and for the 2002 and 2003 taxation years on August 22, 2005. Later, the appellant produced amended income tax returns for those taxation years in which he claimed expenses, credits and deductions as follows:
+2000
+$
+2001
+$
+2002
+$
+2003
+$
+(a) utilities (rental)
+(b) final loss
+(c) employment expenses
+(d) non-refundable tax credits
+- equivalent to spouse credit
+- pension credit
+(e) GST rebate (employees)
+1,828
+—
+15,661
+6,140
+—
+689
+1,778
+—
+4,747
+6,293
+—
+145
+2,085
+—
+7,083
+6,482
+1,000
+—
+—
+22,200
+6,036
+6,596
+1,000
+—
+[3] The Minister allowed the amounts of $6,448, $3,800, $1,302 and $5,384 as rental loss for each of the taxation years, respectively, and disallowed the other credits, expenses or rebates claimed.
+[4] The respondent also challenged the appellant's right to appeal before this court regarding the 2000 and 2001 taxation years on the ground that the Tax Court of Canada does not have jurisdiction to hear the appeal for the 2000 and 2001 taxation years since the reassessments for these years were made under subsection 152(4.2) of the Income Tax Act (the Act) and no objection is allowed against these reassessments in accordance with subsection 165(1.2) of the Act.
+[5] The evidence was submitted based on each of the items in question. On the issue of employment expenses, the appellant testified that until July 2002, he was the director of client services at Vidéotron. According to the testimony, all his travel expenses were reimbursed by Vidéotron until June 2000. At that time, Vidéotron decided to stop paying for travel fees and refused to provide him with a T2200 form, the declaration of conditions of employment by the employer.
+[6] The appellant admits that Vidéotron provided him with an office at its place of buisness. The appellant claims that he had to travel to other Vidéotron buildings on a regular basis, and sometimes to the call centres elsewhere in the province.
+[7] In July 2002, the appellant was appointed senior director of commercial and multiple unit sales at Vidéotron. Under the conditions of this new position, Vidéotron would reimburse him for reasonable expenses incurred for his employment, upon presentation of supporting documents. He would be paid 35 cents per kilometre to a maximum of $500 a month. In March 2003, Vidéotron decided to provide him with a car, which is considered a taxable benefit (Exhibit A‑8). The appellant was laid off on July 14, 2003.
+[8] The appellant claimed $15,661, $4,747, $7,083 and $6,036 respectively for each of the years in question according to the table in paragraph 2, and $689 and $145 under the goods and services tax (GST) rebate for employees for the 2000 and 2001 taxation years, respectively. The only T2200 form submitted was for the 2003 taxation year.
+[9] Diane Laberge is a pay analyst for executives at Vidéotron. She answered a questionnaire on the appellant's employment conditions and her replies, as with her testimony, do not indicate the appellant was required to incur expenses for his employment or that he was to perform his duties anywhere other than Vidéotron's place of business. There was no obligation in the employment conditions for the appellant to keep a home office and if work was carried out at the appellant's home, it was by choice.
+[10] According to the information Ms. Laberge collected, if the appellant had to incur travel expenses, he could submit an expense account. The appellant allegedly made no claim in 2000. He claimed hotel and meal expenses in 2001, 2002 and 2003, which were reimbursed by Vidéotron (Exhibit I-6).
+[11] Section 8 of the Act sets out what is deductable from a taxpayer's employment income. Under this section, for the 2000 taxation year, the appellant claimed $1,146.87 in advertising and promotion expenses, $548.48 in supplies, $1,656.13 in living expenses, $4,000 in accommodation expenses, and 60% of the motor vehicle expenses, or $8,310.40. For the 2002 taxation year, he claimed only the 60% of the motor vehicle expenses, for $4,747.06.
+[12] The appellant claims that in a unilateral decision, Vidéotron stopped reimbursing his travel expenses in June 2000, until July 2002 when he was promoted and signed an agreement accepting his promotion and new working conditions (Exhibit A-1). It is very surprising to me that no written agreement describing the appellant's working conditions existed prior to July 2002. One thing for sure is that, notwithstanding the appellant's claim that he had the right to the reimbursement, Vidéotron's documentation shows no reimbursement was paid to him, but he did have the right to be reimbursed for expenses, as indicated in the 2001 documentation (Exhibit I-6).
+[13] Ms. Laberge's testimony also confirms that the appellant was not usually required to carry out his employment duties anywhere other than at his employer's place of business nor was he expected to pay expenses. The appellant could, in my opinion, claim expenses from his employer. The Minister was therefore justified in disallowing the employment expenses claimed for the 2000 taxation year.
+[14] The same can be said for the motor vehicle expenses for the 2000 and 2001 taxation years. The appellant was not usually required to carry out his employment duties anywhere other than at the establishment or to pay expenses. On this, I accept Ms. Laberge's testimony. The appellant therefore does not have the right to a GST rebate for the 2000 and 2001 taxation years.
+[15] As for the 2002 taxation year, the respondent informed the Court that she agrees to grant the $7,083 the appellant claimed as motor vehicle expenses.
+[16] As for the 2003 taxation year, the appellant admits that this was not an employment expense related to his work at Vidéotron. Rather, they were expenses related to his job search. They were therefore not employment expenses and the appellant cannot claim the deduction.
+[17] Under the heading rental loss, the Minister disallowed the utilities expenses for the 2000, 2001 and 2002 taxation years. At the trial, the Minister agreed to allow this expense for the 2000 and 2001 taxation years for $1,828 and $1,778 respectively if the appellant had the right to appeal for those two years. The Minister maintained the refusal to allow the 2002 expense on the ground that the appellant did not show, on a balance of probabilities, that he was responsible for this expense according to the rental agreements. The appellant testified that he rented turnkey accommodations and he had to pay the utilities. I will allow this expense for the 2002 taxation year.
+[18] I informed the appellant at the trial that the evidence heard does not permit me to allow the wholly dependent person tax credit for the tax years in question in regard to his son, under section 118 of the Act on the ground that he paid child support during the years in question (see paragraph 118(1)(b) and subsection 118(5) of the Act).
+[19] The same can be said for the tax credit claims for the 2002 and 2003 taxation years for pension income. The appellant made a withdrawal from his RRSP in 2002 and received a retirement benefit in 2003. This is not considered eligible pension income under section 118 of the Act.
+[20] The Minister amended his calculation regarding the final loss claimed by the appellant for the 2003 taxation year. At the hearing, the Minister also amended the new calculation of the final loss and the capital loss regarding the appellant's rental building in Longueuil. This is the amendment:
+Building
+$
+Land
+$
+1. proceeds of disposition (allocation)
+2. minus adjusted cost base
+3. loss
+4. minus non-rental period (3/7)
+5. final loss
+6. capital loss
+7. deductible capital loss
+68,600
+84,140
+15,540
+6,660
+8,880
+—
+—
+29,400
+36,060
+6,660
+2,854
+—
+3,806
+1,903
+[21] In the end, the appellant no longer challenges the above calculation. He asks, however, to deduct the capital loss from the capital gain earned on the sale of another building. This request does not involve the validity of the assessment before me, and therefore, I cannot address this request.
+[22] These reasons address all the points in question regarding the deductions, credits and expenses the appellant is claiming. The respondent also raised as preliminary means the issue of whether the Court has jurisdiction to hear the appeal regarding the 2000 and 2001 taxation years. The respondent relies on sections 165 and 169 of the Act on the ground that the reassessments dated October 22, 2007, for the years in question, were made under subsection 152(4.2) and no objection is allowed against these reassessments pursuant to subsection 165(1.2) of the Act.
+[23] The original assessment for the 2000 and 2001 taxation years was made on April 17, 2003. The Minister made reassessments on request of the appellant for these two years on October 22, 2007, and the request was made further to an amended tax return filed on January 12, 2004. The legal effect of an amended tax return was reviewed by Sharlow J.A. of the Federal Court of Appeal in Armstrong v. Canada, 2006 FCA 119, at paragraph 8:
+An amended return for a taxation year that has already been the subject of a notice of assessment does not trigger the Minister's obligation to assess with all due dispatch (subsection 152(1) of the Income Tax Act), nor does it start anew any of the statutory limitation periods that commence when an income tax return for a particular year is filed and then assessed. An amended income tax return is simply a request that the Minister reassess for that year.
+[24] The normal reassessment period is three years (subsection 152(3.1) of the Act) when it is for an individual. This period begins on the date of the original assessment, which, in this case, was April 17, 2003. If the Minister wishes to reassess after the normal reassessment period, generally, he can only do so if he establishes that a taxpayer made a misrepresentation that is attributable to neglect, carelessness or wilful default when filing his or her income tax returns or if the taxpayer files a waiver with the Minister using the prescribed form.
+[25] In this case, however, the taxpayer requested the reassessments and this request was made within the normal reassessment period. Subsection 152(4.2) of the Act allows a taxpayer to ask the Minister to make a reassessment to reduce the income tax payable or grant a tax rebate for the prescribed year after the normal reassessment period. In my opinion, this is not the case here. The appellant's request (amended return) was made before the normal reassessment period ended and the fact reassessments were made by the Minister after the normal reassessment period does not result in assessments within the meaning of subsection 152(4.2).
+[26] The evidence does not clearly establish that the income tax returns the appellant filed for the 2000 and 2001 taxation years are amended returns. I make this statement because the evidence is that the original assessments for 2000 and 2001 were made arbitrarily by the Minister on the ground that no income tax return had been produced by the appellant for those years. It could simply have been a matter of returns that were filed late.
+[27] In my opinion, the appellant had the right to object to the assessments in question and appeal to this court.
+[28] The appeals are allowed in part and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Montréal, Quebec, this 19th day of October 2009.
+"François Angers"
+Angers J.
+Translation certified true
+on this 25th day of November 2009.
+Elizabeth Tan, Translator
+CITATION: 2009 TCC 518
+COURT FILE NO.: 2008-3825(IT)I
+STYLE OF CAUSE: Pierre St-Germain and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 27, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT : October 19, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Nathalie Labbé
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

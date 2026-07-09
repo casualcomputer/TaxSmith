@@ -1,0 +1,170 @@
+Title: Liang v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29511/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-567-29511-liang-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-11-04
+
+# Liang v. The Queen
+
+- Citation: 2009 TCC 567
+- Decision date: 2009-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6281, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Liang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-04
+Neutral citation
+2009 TCC 567
+File numbers
+2008-3864(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3864(IT)I
+BETWEEN:
+BIYU LIANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on August 10, 2009, at Edmonton, Alberta.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Joyce Young
+Counsel for the Respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act ("Act") for the 2002 and 2003 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment only:
+a) to include $100,000 in Ms. Liang's opening shareholder loan account in Bihai;
+b) to increase Ms. Liang's assets in 2002 by a gift of $35,000 she received from her mother;
+c) to value assets personally owned, or debt personally owing by a particular shareholder of Bihai in the calculation of that shareholder's net worth; therefore, the cost of the car purchased by Ms. Liang shall be included as her asset, subject to adjustment, and any debt or asset from gambling shall not be included in calculating her net worth; and
+d) to value her cost of travel to China in 2002 at $2,000
+provided that her tax liability for 2002 and 2003 shall not be increased as a result.
+The appeals from penalties assessed in accordance with subsection 163(2) of the Act are allowed to permit the Minister to calculate the penalties on the reduced amount of unreported income, if any, determined by this judgment.
+Costs of the appeal in favour of the respondent.
+Signed at Ottawa, Canada, this 4th day of November 2009.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2009 TCC 567
+Date: 20091104
+Docket: 2008-3864(IT)I
+BETWEEN:
+BIYU LIANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, C.J.
+[1] Biyu Liang appeals net worth assessments for 2002 and 2003 and penalties imposed pursuant to subsection 163(2) of the Income Tax Act ("Act"). The Minister of National Revenue ("Minister") increased the appellant's declared income for 2002 and 2003 by $20,813 and $40,667 respectively.
+[2] Ms. Liang and her husband, Hai Luc, each owned 50 per cent of the shares of the Bihai Food Services Inc. ("Bihai"), a corporation carrying on the business of a restaurant under the name "Shanghai Restaurant" in Leduc, Alberta, during the relevant years. Both the appellant and her husband were also the only directors of the corporation. Both worked full time at the restaurant.
+[3] At the time of the trial Ms. Liang was separated from Mr. Luc and was in the process of obtaining a divorce.
+[4] In assessing, the Minister calculated the purported increases in the joint net worth of both Ms. Liang and Mr. Luc. The Minister allocated 50 per cent of the increases in net worth to the incomes of each of Ms. Liang and Mr. Luc for 2002 and 2003. The Minister considered that the appellant and her husband were appropriating cash from the Bihai. However, the appellant was assessed only in accordance with sections 3, 9 and 152 of the Act.
+[5] Ms. Liang immigrated to Canada in May 1994 from China. She brought with her some clothing and between $30,000 and $40,000 in Canadian currency. In China she says, she worked as a cashier in a factory. She also worked as a bookkeeper in China. Ms. Liang stated she knew very little English on her arrival here but slowly learned the language by practicing with customers in a restaurant where she worked and by reading. She also took a six-month English language course in 1997 or 1998. She described her English language skills as late as 2002 as "poor". At trial, she was quite familiar and comfortable speaking English.
+[6] Although she did keep books in China she did not have any similar or accounting experience in Canada. She explained that in China all transactions were in cash; there were no credit or debit cards at the time. She took no accounting courses in Canada.
+[7] The Shanghai Restaurant opened for business in May 2000. Mr. Luc previously had operated a small Chinese restaurant from 1992 until he and the appellant opened Bihai. The Shanghai Restaurant had 145 seats. At the restaurant Ms. Liang "did everything". She worked as a waitress and dishwasher. She scheduled workers. Her husband, she said, taught her how to record sales and she did so every night. Her working hours were from eight or nine o'clock in the morning to eleven o'clock or midnight almost every day.
+[8] Ms. Liang stated that she received salary by monthly cheque of $3,000. She did not record the cheques. At the end of the year, she explained, she summarized payroll and gave the summary to the accountant, Mr. Paul Zhang, who "did the books". Ms. Liang said that she put all the receipts into a file which she gave to Mr. Zhang at the year‑end. Mr. Zhang was hired as the corporation's accountant in 2001 and continued his services in 2002 and 2003.
+[9] According to Ms. Liang it cost about $300,000 to open Shanghai Restaurant. Money came from savings of about $200,000 and about $50,000 borrowed from her father‑in‑law. About half of the savings was contributed by Ms. Liang. Costs of construction, leasehold improvements, furniture and equipment were all paid without any loan from a bank. Payments were made by both cash and cheque. Suppliers to the restaurant were paid by cheque, she recalled. Amounts contributed by her and Mr. Luc, the appellant says, were not recorded in the shareholders's loan account.
+[10] The corporation, according to Ms. Liang, wrote a cheque to reimburse Mr. Luc for his contribution but did not repay her.
+[11] Ms. Liang explained that the source of the $100,000 contribution to Bihai included the $30,000 to $40,000 she had with her on her arrival in Canada as well as another $40,000, "mostly in $100 bills, some $50 bills", her parents gave her in 1999 when she and her children visited her family in China. The $40,000 was carried in her luggage and a purse. The money was not declared to Canada customs since she did not know she had to.
+[12] In 2002, Ms. Liang again visited China and returned with $35,000 given to her by her parents. The money from China, Ms. Liang declared, was kept at her home in a "closet and under the bed". Her husband was aware she had money but not how much. Ms. Liang did not inform her husband of the money she had since he had "gambling issues". She attempted to hide the money from him. Ms. Liang used the money, in part, to purchase a car for about $28,000.
+[13] Ms. Liang explained that she was the only daughter in her family which included five brothers. Her parents had given her brothers cash in the past but she did not know how much.
+[14] After 2003, she said she received additional cash gifts from her mother on the latter's visit to Canada.
+[15] Ms. Liang declared that she always had about $30,000 to $40,000 in cash at home. This amount was increased in 2003 as a result of her mother's gift. When asked by respondent's counsel the reason she told the Canada Revenue Agency ("CRA") that she only had $1,000 or $2,000 in cash, Ms. Liang replied "I forgot". She estimated that at the end of 2003, she would have had $35,000 to $40,000 in cash.
+[16] Ms. Liang's mother now lives in Canada with Ms. Liang and she testified on behalf of her daughter through an interpreter. Wan Chun Zhang immigrated to Canada in 2005 bringing about $300,000 with her. Ms. Zhang had worked in a pot and pan factory in China until she retired in 1988. Upon her retirement from the factory, she began selling pots and pans from a pushcart and also sold pots to others selling from pushcarts. She said she made more money from this activity than working at the factory. She kept her profits at home since she did not trust banks.
+[17] Ms. Zhang corroborated her daughter's testimony that on Ms. Liang's visit to China with her children in 1999, she gave her daughter $40,000 in Canadian currency. She said she exchanged Chinese currency for Canadian currency at a market. Ms. Zhang said Ms. Liang visited China again in 2002 and she gave Ms. Liang $35,000 to buy a new car. Ms. Zhang visited Canada in 2003 when she gave her daughter $20,000 and helped her out with hydro and utility bills. Ms. Zhang did not inform her son‑in‑law of the gift. Ms. Liang had previously stated that she received money from her mother but did not recollect the amount.
+[18] While Ms. Liang was in China, Ms. Zhang recalled Ms. Liang stayed at her home and ate meals at her home, all without charge.
+[19] Under cross‑examination Ms. Zhang was unable to remember how much money she earned from selling pots since "it was a long time ago" and she did not keep records.
+[20] Ms. Zhang stated that she made gifts to her children in Canada every two or three months but could not say how much since she did not "keep track". However, she remembered the gifts to Ms. Liang because they were "big numbers". She gave her sons cash only when they need it and only "a little bit".
+[21] Respondent's counsel noted that Ms. Zhang deposited $103,850 to her bank account in March of this year and $50,000 in April. Ms. Zhang said she had kept the cash at home until the deposit. She had deposited $40,000 in her account before March; she said this was money for her grandson who moved to a different province and she was afraid he would be cheated.
+[22] Ms. Liang said that she did not smoke, drink or gamble, although Mr. Luc did smoke with customers and did gamble. She declared that she paid the household expenses, services, telephone and hydro and shopped for groceries. Mr. Luc may have paid for such expenditures if Ms. Liang were busy. He would make such payments for food perhaps four or five times a year, she suggested.
+[23] The appellant estimated family expenses for the period January 1, 2001 to September 30, 2004. She divided each calendar year into two periods, January 1 to September 30 ("period 1") and October 1 to December 31 ("period 2"). (Bihai's fiscal year ended on September 30.) For food, she estimated the cost at $3,762 for period 1 in each year and $1,254 for period 2 of each year. In fact, all expenses for shelter, house operations, clothing, transportation, healthcare, personal care, reading material, education and miscellaneous are the same for all years. For example, healthcare is $792 in period 1 and $264 in period 2, education is $150 in period 1 and $90 in period 2, for all years. Recreation expenses were $500 for 2001 and 2003 and $2,500 for 2002 when the appellant went to China. There are no expenses for tobacco, alcohol, security and gifts. There is no claim for mortgage interest, insurance, property and property tax. In all, she claimed expenses of $13,334 in 2001 and 2003 and $15,334 in 2002. For the period January 1 to September 30, 2004, her claim is $9,600.
+[24] In cross‑examination Ms. Liang said that in preparing her list of expenditures, she erred in omitting such items as mortgage interest, insurance, gifts to her children at Chinese New Year and Christmas; car maintenance and Canada Pension Plan, among others. Because she "hardly used" her credit card, she did not "mention" it to the CRA. The CRA calculated non‑business purchases by credit card for the 2002 calendar year aggregated $10,229. In 2003, such purchases totalled $25,234. Ms. Liang declared many of the purchases as "family purchases".
+[25] During the years in appeal, Ms. Liang's two children were five and seven years old.
+[26] All sales from the restaurant were recorded in a book, Ms. Liang recalled. Sales were added from the cash register; all debit and credit cards were entered on the cash register. Once or twice a week, Ms. Liang said she would reconcile deposits with sales records. Much of the deposits to the restaurant's bank account were in $20 bills. According to the CRA documentation produced through Irene Kennerfeldt, a CRA appeals officer, not all sales were "rung" through the cash register. Sales paid with a debit or credit card were recorded at the amount that was swiped and immediately deposited into the corporation's bank account. The cash sales were only recorded at what is entered into the cash register.
+[27] Ms. Liang testified she had a shareholder's loan account with Bihai but could not remember how much money she or Mr. Luc had advanced to the company. Respondent's counsel produced a history of the shareholder loan amounts for the company's 2002 to 2004 taxation years which Ms. Liang acknowledged, was "probably" correct. The shareholders account in Bihai prepared by the CRA personnel show opening balances owing to shareholders as of October 1 in 2001, 2002 and 2003 at $71,120; $47,487 and $96,581, respectively.
+[28] Ms. Liang was questioned by respondent's counsel as to certain statements she purportedly made to CRA officials at a meeting in April 2005. She denied telling CRA officials that her parent's gifts to her children were about $10 to $15; she insisted they were amounts in $50 bills. She denied receiving a gift of $40,000 from Mr. Luc's parents. She also asserted that her husband's parents contributed $50,000 to get the business started, not $25,000, as she stated earlier, as indicated in CRA documentation. Mr. Luc said his parents gave him $30,000 to $40,000. An affidavit of Ms. Liang's former lawyer indicated that Ms. Liang told him that she received a gift of $25,000 but did not tell her husband.
+[29] While Ms. Liang admitted that as a waitress in the restaurant she received tips, she did not report tips in her tax return which, she said, was prepared by her husband. Ms. Liang declared she did not know she had to report tips. On a good day, she said, she would get about $30 to $50 in tips, most days it varied between $20 and $30.
+[30] Ms. Liang testified that she prepared tax returns on the basis of what Mr. Luc taught her. Only after CRA started the audit of the years in appeal did she attempt to learn the correct way to prepare various tax returns. Ms. Liang reported income of $24,000 from her employment at the restaurant although she testified that she received monthly pay cheques of $3,000.
+[31] The starting costs of Bihai, Mr. Luc said, was $200,000 which, he said, was "saved up" by Ms. Liang and him; each had about $100,000 to $150,000 by the year 2000. He stated that his wife told him that she kept cash at home, approximately $25,000 to $30,000. However, he added, the cash at home was not from savings. The amounts saved had been deposited into bank accounts.
+[32] His parents' gift, Mr. Luc recalled, was "probably in 2001 or 2002". They would give him money "when I needed it", usually about $2,000 to $3,000 at a time. The money, he believed, was used for the restaurant although he did not keep track of it. Mr. Luc estimated the leasehold improvements for Bihai Restaurant cost about $100,000. He said he had "no clue" as to the exact amount or the origin of the money, although he did refer to the money coming from cash on hand and bank accounts. He indicated that his wife did the bookkeeping.
+[33] Mr. Luc confirmed that his wife was an accountant in China but had no accounting experience in Canada. In his view the accounting was a mess. Mr. Luc said he knew how to operate a restaurant but knows nothing about bookkeeping. He insisted Ms. Liang did the bookkeeping and it was she who kept track of the shareholder's loan to Bihai. He would sign what she put before him.
+[34] According to Mr. Luc, Ms. Liang gave him a monthly allowance of $500. This was what he lived on. He denied taking money out of the restaurant's cash register. Any cheques the company paid on his behalf for his Visa account was reported as wages, he stated. His wages in 2002 were from $2,000 to $3,000 per month. He reported income of $24,000 from Bihai in each of his 2002 and 2003 tax returns. Again, he said that his wife did all the accounting.
+[35] Mr. Luc testified that he has two brothers and four sisters. His parents gave gifts to all his brothers and sisters, including himself. Any money he received from his parents, he asserted, he gave to Ms. Liang. The gifts were in $100 bills, some in $20 bills, and were made every four or five months. His parents, now retired, still give him gifts from their savings. Mr. Luc said that he had no idea what Ms. Liang did with the money he gave her, although he knew that she visited China alone in 1998 or 1999 and with their two children later on. He had no idea if she brought money with her on her return to Canada.
+[36] Mr. Luc acknowledged that he gambled, about two or three times a month, and stated that he won more than he lost. Here too, he said, he gave the winnings to Ms. Liang.
+[37] Ms. Liang had bank accounts but, Mr. Luc stated, he did not. The Visa account was in both their names. When they first received the Visa card, he recalled that he used the card "most" for gambling but later on Ms. Liang used the card to pay bills. Mr. Luc also used the card to pay personal expenses such as gas and clothes "here and there". In 2002 and 2003, Mr. Luc estimated that he spent $200 a month on clothing. He volunteered that most of Ms. Liang's Visa charges were for purchases made for their children. Groceries for the restaurant were also paid by Visa.
+[38] Mr. Luc said he smoked a package of cigarettes a week, each package costing $7 or $8. He also contributed to a Registered Education Savings Plan for his children as well a contributing $4,000 to his registered retirement savings plan for 2002 and $6,000 for 2003.
+[39] Ms. Kennerfeldt testified that the appellant was assessed on a net worth basis on the recommendation of the auditor responsible for her file after interviews with the appellant and Mr. Luc and a review of the corporation's books and records as well as a review of Ms. Liang's and Mr. Luc's lifestyles. In the auditor's view, their lifestyle could not be supported by their assets at the time. Ms. Kennerfeldt prepared various working papers to support the assessments.
+[40] The appellant complained that the cash she brought with her from China was not included in the net worth statement. This, Ms. Kennerfeldt states is not an issue since the amount would have been included as an asset at the beginning of the period in issue and throughout, that is, it would not affect a change in net worth.
+[41] Ms. Kennerfeldt explained the various documents prepared by the CRA officials in support of the increases in net worth of the appellant. These included various working papers analyzing shareholders accounts and credit card statements as well as net worth working papers. The sources, Ms. Kennerfeldt stated, were the appellant's own documents. She could not tell from the auditor's working papers if the personal bank accounts at the Bank of Nova Scotia and the Royal Bank were joint accounts or in the name of Ms. Liang only. There were two accounts only at the Bank of Nova Scotia, one to make mortgage payments and one a daily interest savings account. The account at the Royal Bank was an interest savings account, as far as I can determine. Ms. Kennerfeldt explained that the family had three different cars and, when sold, their sales prices were added to the appellant's assets. The Liang‑Luc home was purchased for $191,000, with a cash payment of $120,000. Ms. Kennerfeldt testified that adjustments were made to schedules to reflect various discrepancies. Adjustments were made to personal expenditures, source deductions for tax and Canada Pension Plan for both Mr. Luc and Ms. Liang. Income was calculated on a calendar basis for each.
+[42] Ms. Kennerfeldt stated that at the assessment level no gifts were recognized by the CRA. Ms. Liang's Notice of Objection referred to a gift in 2002 of $25,000 from her parents but the auditor did not get any explanation from Ms. Liang as to the source of this gift. Thus, based on any representation from the appellant, it was difficult to reconcile what money was coming from whose parents, Ms. Kennerfeldt concluded.
+[43] The CRA calculated its own estimate of expenses for Ms. Liang based on Statistics Canada sources, to provide a four person household, two people over 20 years of age and two people under 20 years of age. According to CRA, Ms. Liang and Mr. Luc's expenses for 2002 and 2003 were $43,934 and $22,713 respectively. At the appeals level, these amounts were reduced to $43,934 and $22,713 for 2002 and 2003, respectively. This is quite a contrast to Ms. Liang's estimates of $15,334 in 2002 and $13,334 in 2003.
+[44] As far as gambling expenses by Mr. Luc are concerned, Ms. Kennerfeldt said the CRA gave a "zero in and out". Thus his winnings were considered to equal her winnings; there was no gain or loss. The CRA estimated the cost of food in each year at $10,800, shelter in 2002 at $15,951 and in 2003 at $14,976, household operation for both years at $1,020, healthcare at $2,250 for both years, for example.
+[45] The CRA assessed Ms. Liang subsection 163(2) penalties. Ms. Kennerfeldt produced the penalty recommendation report. The CRA had questioned Bihai's Goods and Services Tax ("GST") returns. The report included recommendations for penalties to the corporation under GST legislation and the shareholders personally. In short, the penalties were recommended since the shareholders increased "other net assets by purchasing a home, paying off the $60,000 mortgage in three years, buying a new car for cash, and increasing their bank account balances". Their personal living expenditures were "very low", half of Statistics Canada averages and the appellant could not supply her actual expenses. The appellant would reconcile cash and take daily cash sales home at the end of the day and deposit it later with cash sales from other days, sometimes months, without reconciling the amounts deposited; in the CRA's view "due care" was not taken by Ms. Liang.
+[46] In cross‑examination, counsel referred to Ms. Liang's evidence that $120,000 of the home purchase came from a bank account withdrawal, $40,000 from a parent and $46,621 from the sale of a previous residence. Ms. Kennerfeldt cited CRA working papers to the effect that the $20,000 came from a bank account and $117,000 was the down payment for the home; the residence had been included as an asset in Ms. Liang's net worth.
+[47] Appellant's counsel was concerned — rightly so — that the family expenses were divided equally between Ms. Liang and Mr. Luc even though one of them may have incurred more expenses than the other. Similarly any gift received by one of the spouses would reduce purported income accordingly. And if the company paid more expenses for one shareholder than another, that too should have been reflected in the preparation of the net worth statements. Also, Mr. Luc's gambling "wins" may have been more than his losses, but there is no evidence supporting this submission.
+[48] Counsel for the appellant concentrated on three items in her argument: shareholders' loan, gifts from the appellant's mother and personal expenses.
+[49] Counsel submitted that Ms. Liang and Mr. Luc used their personal savings to start up Bihai restaurant in the amount of approximately $200,000, or $100,000 each. The evidence of Mr. Luc was that the start up costs for the restaurant, including leasehold improvements, was the approximately $200,000 advanced by the shareholders, yet the CRA did not recognize the amount as a loan to the corporation by its two shareholders.
+[50] The appellant also submits that I recognize gifts of $35,000 the appellant received from her mother in China in 2002, and the $20,000 received from her mother in Canada in 2003 and that the gifts were made only for the benefit of Ms. Liang and not all for Mr. Luc.
+[51] Finally, counsel submits that Ms. Liang did not gamble. Any gambling losses and winnings are those of Mr. Luc. Also, as far as expenses are concerned, Ms. Liang's cost of travel to China in 2002 was approximately only $2,000.
+[52] Respondent's counsel argued that there was not enough evidence to rebut the net worth calculations or the penalties since Bihai did not report all its income in its financial statements. She referred to my colleague Woods J.'s remark in Poopathie Co. v. R.[1],
+… A net worth analysis is used by the Agency when a taxpayer does not have sufficient books and records to verify the income reported on the tax return. The frailties of the net worth approach have been recognized in judicial decisions but it is accepted as an appropriate method if proper books and records are not kept. Presumably the reason for this is that the assessor has no other way to estimate the income earned. Based on the evidence presented, I agree with the respondent that a net worth approach is appropriate in this case because the appellant corporation's books and records are inadequate.
+[53] Where a taxpayer has been assessed on the basis of increases in his or her net worth over the years, that taxpayer has the burden of proof as in any other tax appeal. At the same time, however, it is the Crown that has the onus of establishing that penalties assessed under subsection 163(2) were correctly assessed.
+[54] I am troubled by the testimonies of Ms. Liang, Ms. Zhang and Mr. Luc. Some of their evidence confirms that a significant portion of Ms. Liang's income was not reported and other evidence questions whether Ms. Liang or Mr. Luc was responsible for the financial "mess" in Bihai's books.
+[55] Both Ms. Liang and Mr. Luc reported employment income from Bihai for each of the years in appeal of $24,000. However, both Ms. Liang and Mr. Luc testified that Bihai was paying them by cheque $3,000 a month; Ms. Liang therefore ought to have reported $36,000 employment income from Bihai for 2002 and 2003. Also, Ms. Liang testified that she received tips working in the restaurant. Some days she would received as much as $50 in tips, but most days she would receive from $20 to $30. If she worked 300 days a year and received an average of $25 in tips, she would have received tips of $7,500. Based on these calculations she admitted under reporting $19,500 of income in each year.
+[56] Ms. Zhang testified that while she remembered the quantum of gifts she gave Ms. Liang, she did not remember the amounts of gifts she gave to her other children and grandchildren. She only could remember "big numbers", she stated she apparently did well in China since she entered Canada with $300,000 in 2005. I have no doubt that she did make gifts to Ms. Liang. It is possible that Ms. Liang purchased her car in 2002 for $28,000 with the proceeds of the $35,000 gift. Both Ms. Liang and her mother testified that a $35,000 gift was made and the Crown's cross-examinations did not weaken their testimony given in examinations‑in‑chief.
+[57] Ms. Liang testified that although she worked as a bookkeeper in China, she entered Canada with no knowledge of Canadian bookkeeping practices and that Mr. Luc taught her about bookkeeping and reporting for income tax and GST purposes. According to Mr. Luc, he knew nothing about bookkeeping and he left any bookkeeping to Ms. Liang.
+[58] I nevertheless do agree with the appellant that on the basis of reasonable probability the costs of starting up the restaurant were advanced by the corporation's shareholders. The real income from the Shanghai restaurant is not reflected in its financial statements or in any other document. However, it is doubtful that this restaurant could have generated over $200,000 of income in a period of months. The only reasonable sources of the start up costs were the shareholders of the corporation. Therefore, the CRA should recognize that Ms. Liang did advance $100,000 to the corporation in the year 2000. Whether this will assist Ms. Liang in reducing the assessments of income is questionable since it will be included in the opening of the shareholders' loan account.
+[59] With respect to personal expenses used in the calculation of Ms. Liang's net worth, the Minister erred in allocating family expenses equally between the appellant and Mr. Luc. For example, any amounts reflected in Ms. Liang's net worth concerning gambling should be deleted. Any gifts, in particular the gift of $35,000 received in 2002, given to Ms. Liang by her family belonged to her only and should not be divided with Mr. Luc. Related to the $35,000 gift is the purchase by Ms. Liang of an automobile in 2002 for $28,000 (from the gift of $35,000). In preparing a schedule of Ms. Liang's and Mr. Luc's assets, the CRA included the price of the car, $28,000; later it split the $28,000, allocating $14,000 to each of Ms. Liang and Mr. Luc. All of the $28,000 should be allocated to Ms. Liang.
+[60] The Minister should also recognize at $2,000 the cost of Ms. Liang's travel and stay in China.
+[61] Subsection 163(2) of the Act provides a penalty for every person who knowingly, or under circumstances amounting to gross negligence, has made or has participated in, asserted to or acquiesced in the making of a false statement or omission in a return … filed or made in respect of a taxation year for the purposes of the Act . The respondent has the burden of establishing the facts justifying the assessment of a penalty under subsection 163(2).
+[62] In the appeal at bar, it is clear that Ms. Liang made or participated in, asserted to or acquiesced in the making of a false statement or omission in her income tax returns for 2002 and 2003. It was Ms. Liang who was in charge of Bihai's books and records in 2002 and 2003. It was Ms. Liang who assembled the information for, and prepared, her tax returns for 2002 and 2003. Finally, it was Ms. Liang who knew she "under reported" her income for each year or, due to the admittedly poor state of the books and records for which she was responsible, ought to have known, that there were omissions of income in the tax returns for 2002 and 2003.
+[63] The facts in the appeal at bar do not resemble those in Fortis[2] where no evidence was led by the Minister to establish any fact justifying the assessment of subsection 163(2) penalties. The penalties were based on net worth assessments but at trial it became clear that the income tax assessed by the Minister was a minimum amount.
+[64] The appellant admitted, for example, that she received salary of $36,000 for each year but she reported employment income of $24,000 for each year and she failed to report the amount of tips she received in each of the two years in appeal. These are two items Ms. Liang knowingly omitted in filing her tax returns for 2002 and 2003 and increases in net worth would have reasonably included these amounts. I also found her estimates of personal expenses very low and not at all reasonable since, among other things, she omitted some important items such as mortgage and insurance costs. Any amounts of unreported income in excess of the amounts knowingly omitted by Ms. Liang in tax returns were due to circumstances caused by Ms. Liang's gross negligence in the making or participating in the making of a false statement or omission in her 2002 and 2003 tax returns. I am satisfied that the amounts to be added to Ms. Liang's income in accordance with these reasons are the minimum amounts she failed to report.
+[65] Therefore, the appeals will be allowed but only:
+a) to include $100,000 in Ms. Liang's shareholder opening loan account in Bihai;
+b) to increase Ms. Liang's assets in 2002 by a gift of $35,000 she received from her mother;
+c) to value assets personally owned, or personal debt owing by a particular shareholder of Bihai in the calculation of that shareholder's net worth; therefore, the cost of the car purchased by Ms. Liang shall be included as her asset, subject to adjustment, and any debt or asset from gambling shall not be included in calculating her net worth; and
+d) to value her cost of travel to China in 2002 at $2,000
+provided that her tax liability for 2002 and 2003 shall not be increased as a result.
+[66] The appeals from penalties assessed in accordance with subsection 163(2) of the Act are allowed to permit the Minister to calculate the penalties on the reduced amount of unreported income, if any, set out in these reasons.
+[67] Costs of the appeal in favour of the respondent.
+Signed at Ottawa, Canada, this 4th day of November 2009.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2009 TCC 567
+COURT FILE NO.: 2008-3864(IT)I
+STYLE OF CAUSE: BIYU LIANG v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: August 10, 2009
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: November 4, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Joyce Young
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Joyce Young
+Firm: Felesky Flynn LLP
+Edmonton (Alberta)
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2006 TCC 195, [2006] 3 C.T.C. 2392, 2006 D.T.C. 2935 at par. 9. See also Khullar Au Gourmet International Ltd. v. R., 2003 TCC 383, 2003 G.T.C. 808, at paras. 9-11, both cases heard under the Informal Procedure.
+[2] Fortis v. M.N.R., [1986] T.C.J. No. 924 (QL).

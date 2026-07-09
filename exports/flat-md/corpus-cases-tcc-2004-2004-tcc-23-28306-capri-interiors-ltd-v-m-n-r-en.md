@@ -1,0 +1,322 @@
+---
+title: "Capri Interiors Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28306/index.do"
+last_modified: "2004-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 23"
+citation2: ""
+neutral_citation: "2004 TCC 23"
+decision_date: "2004-02-03"
+language: "en"
+item_id: "28306"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1858
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:51:06.989000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5f2e1d3d680c23b9ff9fb806acbe2e29535c2887fb89503f599d4c69fed5e526"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Capri Interiors Ltd. v. M.N.R.
+
+- Citation: 2004 TCC 23
+- Decision date: 2004-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1858, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Capri Interiors Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-03
+Neutral citation
+2004 TCC 23
+File numbers
+2003-1477(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-1477(EI)
+BETWEEN:
+CAPRI INTERIORS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Capri Interiors Ltd. (2003‑1478(CPP)) on November 17, 18 and 19, 2003 at Winnipeg, Manitoba
+Before: The Honourable M.H. Porter, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Ted Spyracopoulos
+Counsel for the Respondent:
+Michael Van Dam
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 3rd day of February 2004.
+"M.H. Porter"
+Porter, D.J.
+Citation: 2004TCC23
+Date: 20040203
+Docket: 2003-1477(EI)
+2003-1478(CPP)
+BETWEEN:
+CAPRI INTERIORS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Porter, D.J.
+[1] These appeals were heard on common evidence by consent of the parties, on November 17, 18 and 19, 2003, at Winnipeg, Manitoba.
+[2] By Notice of Assessment dated May 9, 2002 the Appellant was assessed for, among other things, Canada Pension Plan contributions in the amount of $3,400.00 for the 2000 year in respect of Henry Funk and George Laurin, plus applicable penalties and interest.
+[3] By Notice of Assessment dated May 9, 2002 the Appellant was assessed for, among other things, employment insurance premiums in the amount of $22,958.62 for the 2001 year in respect of the individuals listed in Schedule "A" attached to and forming part of these Reasons for Judgment (hereinafter called "the Workers"), plus applicable penalties and interest.
+[4] By the same Notice of Assessment, the Appellant was further assessed for Canada Pension Plan contributions in the amount of $36,658.28 for the 2001 year in respect of Henry Funk, George Laurin and the Workers, plus applicable penalties and interest.
+[5] On August 1, 2002, the Appellant appealed to the Minister of National Revenue (hereinafter called the "Minister") for a reconsideration of the assessments for the years 2000 and 2001. By letter dated January 16, the Minister decided as follows:
+It has been decided to reduce the assessment for 2001 by decreasing Canada Pension Plan contributions and unemployment insurance premiums related to Ron Banash, Wesley Brinkman, Preston Brown, J. Arthur Carriere, Omer Carriere, Douglas Craik, Kelvin Elke, Istvan Horvath, Michael King, David McMillan, Mark Sealey, Jason Tetrault and Riley Wiebe. The reason is because the goods and services tax that you paid them were neither pensionable nor insurable earnings. Furthermore, the contributions related to Leo Dalke will be deleted because he received a retirement pension under the Canada Pension Plan. His earnings were not contributory wages.
+It has also been decided to confirm all other amounts of contributions and/or premiums assessed for 2000 and 2001 because the workers listed on Schedule 1, which is attached to and forms part of this notification letter, were employed under contracts of service with you, and therefore, they were in pensionable and/or insurable employment as your employees. Furthermore, the allowances received by Henry Funk and George Laurin were pensionable earnings because the allowances were not based solely on the number of kilometres for which the vehicles were used in the course of office or employment.
+The decisions were said to be issued respectively under subsection 27.2(3) of the Canada Pension Plan (the "CPP") and subsection 93(3) of the Employment Insurance Act (the "EI Act") and were based on paragraph 6(1)(a) and section 12 of the CPP and paragraph 5(1)(a) of the EI Act. The Appellant has now appealed from the second part of those decisions to this Court.
+[6] The material evidence reveals that during the years in question, Henry Funk and George Laurin were the principal shareholders and operators of the Appellant corporation which carried on an interior finishing business that consisted of erecting steel studs, dry walling and installing acoustic ceilings. The Workers were all individuals engaged by the corporation from time to time, sometimes project by project, to perform those services. The Minister has concluded that they were engaged as employees pursuant to individual contracts of service. The Appellant maintains otherwise, that they were engaged as independent contractors working under contracts for services. That is the issue before the Court.
+[7] The Rulings Officer, Linda Evecsyn, who worked on behalf of the Minister, stated during the course of her evidence, that she had simply reviewed a limited number of the working situations and then treated all the Workers alike. During the hearing of the appeal, the Court heard evidence from a number of the Workers. Counsel for the Minister conceded that it would again be appropriate to treat all the Workers alike despite there being no direct evidence from many of them.
+[8] Counsel for the Minister also conceded during the hearing of the appeals that the expenses of Funk and Laurin should not be treated as pensionable income and abandoned that issue, so that it no longer remained a decision for the Court to make. The sole issue left, is to decide globally, whether the Workers were engaged as employees or independent contractors.
+The Law
+Contracts Of Service/For Services
+[9] The manner in which the Court should go about deciding whether any particular working arrangement is a contract of service and thus an employer/employee relationship or a contract for services and thus an independent contractor relationship, has long been guided by the words of MacGuigan J. of the Federal Court of Appeal in the case of Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025. The reasoning in that case was amplified and explained further in cases emanating from that Court, namely in the cases of Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., 88 DTC 6099, Charbonneau v. Canada (M.N.R.) [1996] F.C.J. No. 1337, and Vulcain Alarme Inc. v. The Minister of National Revenue, (1999) 249 N.R. 1, all of which provided useful guidance to a trial Court in deciding these matters.
+[10] The Supreme Court of Canada has now revisited this issue in the case of 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. [2001] S.C.J. No. 61, 2001 SCC 59, 274 N.R. 366. The issue in that case arose in the context of a vicarious liability situation. However, the Court recognized that the same criteria applied in many other situations, including employment legislation. Mr. Justice Major speaking for the Court, approved the approach taken by MacGuigan J. in the Weibe Door case (above), where he had analyzed Canadian, English and American authorities, and, in particular, referred to the four tests, for making such a determination enunciated by Lord Wright in City of Montreal v. Montreal Locomotive Works Ltd., [1974] 1 D.L.R. 161 at 169-70. MacGuigan J. concluded at page 5028 that:
+Taken thus in context, Lord Wright's fourfold test [control, ownership of tools, chance of profit, risk of loss] is a general, indeed an overarching test, which involves "examining the whole of the various elements which constitute the relationship between the parties". In his own use of the test to determine the character of the relationship in the Montreal Locomotive Works case itself, Lord Wright combines and integrates the four tests in order to seek out the meaning of the whole transaction.
+At page 5029 he said:
+... I interpret Lord Wright's test not as the fourfold one it is often described as being but rather as a four-in-one test, with emphasis always retained on what Lord Wright, supra, calls "the combined force of the whole scheme of operations," even while the usefulness of the four subordinate criteria is acknowledged. (emphasis mine)
+At page 5030 he had this to say:
+What must always remain of the essence is the search for the total relationship of the parties…
+He also observed:
+There is no escape for the Trial Judge, when confronted with such a problem, from carefully weighing all of the relevant factors…
+[11] Justice MacGuigan also said this:
+Perhaps the best synthesis found in the authorities is that of Cooke J. in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732, 738-9:
+The observations of Lord Wright, of Denning L.J., and of the judges of the Supreme Court in the U.S.A. suggest that the fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account?" If the answer to that question is "yes", then the contract is a contract for services. If the answer is "no" then the contract is a contract of service. No exhaustive list has been compiled and perhaps no exhaustive list can be compiled of considerations which are relevant in determining that question, nor can strict rules be laid down as to the relative weight which the various considerations should carry in particular cases. The most that can be said is that control will no doubt always have to be considered, although it can no longer be regarded as the sole determining factor; and that factors, which may be of importance, are such matters as whether the man performing the services provides his own equipment, whether he hires his own helpers, what degree of financial risk be taken, what degree of responsibility for investment and management he has, and whether and how far he has an opportunity of profiting from sound management in the performance of his task. The application of the general test may be easier in a case where the person who engages himself to perform the services does so in the course of an already established business of his own; but this factor is not decisive, and a person who engages himself to perform services for another may well be an independent contractor even though he has not entered into the contract in the course of an existing business carried on by him.
+[12] In the case of Kinsmen Flying Fins Inc. case, above, the Federal Court of Appeal said this:
+... like MacGuigan J. we view the tests as being useful subordinates in weighing all of the facts relating to the operations of the Applicant. That is now the preferable and proper approach for the very good reason that in a given case, and this may well be one of them, one or more of the tests can have little or no applicability. To formulate a decision then, the overall evidence must be considered taking into account those of the tests which may be applicable and giving to all the evidence the weight which the circumstances may dictate.
+[13] The nature of the tests referred to by the Federal Court of Appeal can be summarized as:
+a) The degree or absence of control exercised by the alleged employer;
+b) Ownership of tools;
+c) Chance of profit;
+d) Risk of loss;
+In addition, the Court must consider the question of the integration, if any, of the alleged employee's work into the alleged employer's business.
+[14] In the Sagaz decision (above) Major J. said this:
+…control is not the only factor to consider in determining if a worker is an employee or an independent contractor…
+[15] He dealt with the inadequacy of the ‘control test’ by again approving the words of MacGuigan J. in the Wiebe Door case (above) as follows:
+A principal inadequacy [with the control test] is its apparent dependence on the exact terms in which the task in question is contracted for: where the contract contains detailed specifications and conditions, which would be the normal expectation in a contract with an independent contractor, the control may even be greater than where it is to be exercised by direction on the job, as would be the normal expectation in a contract with a servant, but a literal application of the test might find the actual control to be less. In addition, the test has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct.
+[16] He went on to say this:
+In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, …([1952] 1 The Times L.R. 101) that it may be impossible to give a precise definition of the distinction (p.111) and, similarly, Fleming observed that “no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations …” (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, … (Vicarious Liability in the Law of Torts. London: Butterworths, 1967), at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose…. The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[17] I also find guidance in the words of Décary J.A. in the Charbonneau case (above) when speaking for the Federal Court of Appeal he said this:
+The tests laid down by this Court ... are not the ingredients of a magic formula. They are guidelines which it will generally be useful to consider, but not to the point of jeopardizing the ultimate objective of the exercise, which is to determine the overall relationship between the parties. The issue is always, once it has been determined that there is a genuine contract, whether there is a relationship of subordination between the parties such that there is a contract of employment ... or, whether there is ... such a degree of autonomy that there is a contract of enterprise or for services. ... In other words, we must not pay so much attention to the trees that we lose sight of the forest. ... The parts must give way to the whole. (emphasis mine)
+[18] I also refer to the words of Létourneau J.A. in the Vulcain Alarme case (above), where he said this:
+… These tests derived from case law are important, but it should be remembered that they cannot be allowed to compromise the ultimate purpose of the exercise, to establish in general the relationship between the parties. This exercise involves determining whether a relationship of subordination exists between the parties such that the Court must conclude that there was a contract of employment within the meaning of art. 2085 of the Civil Code of Quebec, or whether instead there was between them the degree of independence which characterises a contract of enterprise or for services….
+[19] I am further mindful that as a result of the recent decisions of the Federal Court of Appeal in Wolf v. Canada, [2002] F.C.J. No. 375, and Precision Gutters Ltd. v. Canada (Minister of National Revenue-M.N.R.), [2002] F.C.J. No. 771, a considerable degree of latitude seems now to have been allowed to creep into the jurisprudence enabling consultants to be engaged in a manner in which they are not deemed to be employees as they might formerly been. I am particularly mindful of the words of Mr. Justice Décary in the Wolf decision (above) where he said:
+In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterised as a contract for services. If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility concerns. (my emphasis)
+[20] Thus, it seems to this Court that the pendulum has started to swing, so as to enable parties to govern their affairs more easily in relation to consulting work and so that they may more readily be able to categorize themselves, without interference by the Courts or the Minister, as independent contractors rather than employees working under contracts of service.
+[21] In conclusion, there is no set formula. All these factors bear consideration and as Major J. said in the Sagaz case (above), the weight of each will depend upon the particular facts and circumstances of the case. Many of the tests can be quite neutral and can apply equally to both types of situation. In such case, serious consideration has to be given to the intent of the parties. Thus is the task of the trial Judge.
+The Facts
+[22] In coming to his decision, the Minister was said, in the Replies to the Notices of Appeal signed on his behalf, to have relied on the following assumptions of fact. Although the Appellant, through his counsel, did not formally admit or deny these, I have indicated their position in parenthesis, taken from the evidence I heard. The assumptions are basically the same and I have taken them from the CPP Reply.
+a) the Appellant operates an interior finishing business which consists of erecting steel studs, drywalling, and installing acoustic ceilings; (Agreed)
+b) the shareholders of the Appellant were Funk and Laurin; (Agreed)
+c) Funk was hired as a general manager and his duties included estimating, sales, office work and checking job sites; (Agreed)
+d) Laurin was hired as a foreman and his duties included overseeing job sites, supervising workers, delivering materials and dealing with general contractors; (Agreed)
+e) the Workers' duties varied and included taping, sanding, drywalling, framing, insulating, ceiling installation and clean up; (Agreed)
+f) most of the Workers were paid a set hourly wage; (Not agreed)
+g) a few of the Workers were paid on a square footage basis; (Agreed, but this applied to most workers)
+h) the Appellant set the pay rates; (The evidence revealed that this was a matter if individual negotiation. Generally speaking, the workers found Henry Funk to be very fair and accepted what he offered; sometimes they negotiated for different rates.)
+i) the Workers' were paid bi-weekly; (Agreed)
+j) the Workers did not bid for jobs; (Agreed)
+k) the Workers normally worked 8 hours per day, Monday to Friday; (Agreed, although the Workers all indicated it was by their choice.)
+l) the Workers' hours and days were set and controlled by the Appellant; (Neither the Workers or Capri agreed)
+m) most of the Workers were required to keep track of their hours and submit timesheets; (Disagreed)
+n) the Appellant obtained the work and set all deadlines; (It was agreed that the Appellant obtained the work. The General Contractor set the deadlines which flowed down to the Workers.)
+o) the Appellant had the right to control the Workers; (Disagreed)
+p) the Appellant had the right to guide and direct how the Workers performed their services; (Disagreed)
+q) the Appellant organized and coordinated the Workers at the job sites; (Agreed to the extent he oversaw the work)
+r) the Appellant directed the Workers to the various job sites where the Appellant wanted work performed; (Agreed)
+s) the Appellant retained the right to control the usage of materials; (Agreed)
+t) most of the Workers worked as members of crews; (Agreed)
+u) the Workers were directed and monitored by, and answered to, a foreman, which was normally Laurin; (Disagreed)
+v) the Workers informed the Appellant of any leave required; (Most workers said they did so out of courtesy if they took time off from a job.)
+w) Funk, Laurin and the Workers did not replace themselves or hire their own helpers; (Disagreed – the evidence revealed some Workers did hire their own help.)
+x) Funk, Laurin and the Workers did not work for others while performing services for the Appellant; (Disagreed). Funk and Laurin did not – other Workers did and all felt free to do so.
+y) Funk, Laurin and the Workers performed their services at the Appellant's work sites; (Agreed)
+z) most of the Workers provided their own hand tools including screw guns, pouches, tin snips, levels, tape measures, taping tools and utility knives; (Agreed)
+aa) the Appellant provided the large tools including scaffolding, hilti guns, track benders and hammer drills; (Agreed)
+bb) Funk and Laurin provided their own vehicles; (Agreed)
+cc) the Appellant provided all of the supplies and materials including tape, poly, staples, drywall, ceiling tiles, and steel studs; (Agreed)
+dd) the most of the Workers provided their own transportation to in‑town job sites; (Agreed)
+ee) the Appellant paid the travel costs for some Workers while working out of town; (Agreed)
+ff) Funk, Laurin and the Workers did not have a chance of profit or risk of loss; (Disagreed)
+gg) the Appellant guaranteed the work; (Disagreed – the Workers said they would fix mistakes.)
+hh) the Appellant paid Funk and Laurin an allowance for the use of their vehicles (hereinafter "the Allowance"); (No longer an issue)
+ii) the Allowance was an arbitrary amount which was not required to be accounted for; (No longer an issue)
+jj) the Allowance was not based solely on prescribed per kilometer rates; (No longer an issue)
+kk) Funk and Laurin were in a position of economic gain from the Allowance; (No longer an issue)
+ll) Funk, Laurin and the Workers were employed under a contract of service with the Appellant, and (Funk and Laurin were under contracts of service. The Appellant disagreed that the same applied to the other Workers.)
+mm) wages paid by the Appellant to Funk, Laurin and the Workers, for the 2000 and 2001 years, are detailed on Schedule "C" attached to and forming part of the Reply to the Notice of Appeal. (Not disputed)
+[23] I heard evidence from Henry Funk, the Owner, as well as John Sanders, Istvan Horvath, John Wolowich, Todd Peter Derksen, Kelvin Elke, Walter Steinke, Allan Smith, Brian (Paul) Atkins, Lloyd Wazny, all of whom were Workers. I also heard from Linda Evecsyn, the Rulings Officer.
+[24] I was, generally speaking, impressed by the honesty and frankness of all the witnesses. They all described the situations as they saw them and I did not detect any attempts to try and make things appear differently from how they really were. The task of the Court was more sorting out the interpretations to be put on those facts, rather than having to decide between different versions of fact.
+[25] The general tenor of the evidence of all the Workers revealed that they were a fairly rugged, hard working but independent bunch of men who had worked in the industry for many years and knew their trades well. Either they would phone Henry Funk if they were looking for work or he would phone them if he had a project on the go and was looking for drywallers, whether they be tapers or boarders. They would generally speaking, settle on so much a foot or so much a square foot, as the case may be. They all knew roughly how long it would take to do a job. Sometimes it would be a suite in a new apartment building and they would take work suite by suite at a price they settled on. There was a certain honesty in the trade between the Workers and Henry Funk. They all knew the business and the worth of any project or part of a project, and that was so whether they were paid by the hour or by the foot.
+[26] They worked their own hours and Henry Funk did not try to interfere with them in any way. If there was a push on by the General Contractor and the work needed to be done, they would work harder to do it. John Sanders said that during the Easter weekend he worked 24 hours straight in order to get the project done on time. On the other hand, he often took afternoons off and at other times came back and worked during the evenings.
+[27] John Sanders described how sometimes he hired his own helpers and paid them himself. Others did the same.
+[28] All of the Workers submitted invoices in their own way. Some included GST if they had a number; others who had no number did not.
+[29] Most of them carried their own tools, which varied in value from a few hundred dollars to, in John Sanders’ case, $10,000.00.
+[30] In listening to John Sanders and how he went about his work, and the degree of independence he displayed, nothing could have been clearer than that he was in business for himself.
+[31] One only had to observe Istvan Horvath in the witness box to understand the degree of independence he obviously enjoyed. He had been a taper for 33 years. He had a bad back and would only take on the work that suited him, turning down offers of work that did not. He had about $9,000.00 worth of tools of his own. He was clear in his evidence that if Capri offered him work, he chose whether or not to accept it. If he did accept, he felt responsible for his own work and said Capri would never tell him how to do it. He also paid his own helpers from time to time. He said he worked at his own pace and did not care about deadlines. He had his own business name, "Horvath Drywall".
+[32] John Wolowich started to work for the Appellant in late 2000 or early 2001. He phoned Henry Funk. He was paid by the piece, generally 12 cents per foot. He said most people worked by the piece in his trade. If he thought what was offered was fair, he left it at that. He worked with a partner, also paid by Capri and they would set their own hours. He took sick days off and just phoned Henry Funk to let him know. He fixed his own mistakes at no cost to Capri. He submitted invoices for his work and was paid every two weeks. He at one time had another contract with a different business at the same time as he worked for Capri. He valued his own tools at $700.00.
+[33] Todd Derksen said he had been a drywaller for four or five years, three of which had been doing work for Capri. Sometimes he was paid by the square foot and sometimes by the hour, depending on the job. He never turned down work offered by Capri and worked continuously for them. He negotiated his prices on each project with Henry Funk.
+[34] He said he generally worked 8 hours, 7:00 a.m. to 3:30 p.m. but if he felt like going home earlier, he did. Nobody told him what hours he had to work. Any mistakes were fixed at his own cost. His invoices were prepared by Capri. He had no GST number. Generally speaking, he showed a lot less independence from Capri than the other Workers.
+[35] Kelvin Elke said he also worked by the piece and negotiated two jobs with Capri in 2001. Of great interest was that for two months, he had his own helper whom he paid out of his own funds, which is hardly a hallmark of an employee. He worked for various contractors in Manitoba and for a while worked in Alberta. On the whole, this witness displayed a great deal of independence, very much being his own man and not tied in at all with Capri.
+[36] Walter Steinke said he worked for a while for Capri. He did not recall exactly when. He said some jobs were piecework, e.g. by the suite, and sometimes by the hour depending again on the job. He set his own hours, generally eight hours per day but went home early whenever he wanted. He wrote out his own invoices and gave them to Henry Funk. He did not charge GST although he obtained a GST number in 2002. He worked for a while in Brandon where he stayed in a house rented by Capri. He would call in if he was not going to show up for a day. He had his own tools worth approximately $400.00. Nobody reviewed his work. He filed his tax return as a subcontractor and claimed expenses – he changed to payroll as an employee on May 10, 2001. His working conditions did not change greatly after that, save that he was thereafter generally paid by the hour. He said he had been a drywaller since 16 years of age and was now 62. He knew his work and it was not inspected. If he made a mistake, he corrected it himself at no charge to Capri. Sometimes he would turn down work if he did not like the job.
+[37] Again, this witness displayed a certain sense of rugged independence, although he did switch over to being an employee on the payroll in May 2001.
+[38] Brian (Paul) Atkins said he always worked by the piece and never by the hour. He handed Henry Funk a bill. He did not charge GST when he worked for Capri. He did not work for anybody else. He set his own hours but phoned in if he was not going to show up. His own tools he valued at $100.00. His work was not reviewed by Capri. His partner, Bob Berlitz had tools worth thousands of dollars, which he used. He also went onto payroll as an employee in May 2001. He did say that before that, he had sometimes paid his own helpers out of his own earnings. He paid them cash on a casual basis. He considered himself to be an independent contractor until he changed over to payroll in May 2001.
+[39] Lloyd Wazny said he had worked for Capri over a seven year period. In 2001, he was working for himself in his own house and carried out just a couple of other jobs for Capri. He also worked for one other person. He was paid both by the piece and by the hour depending on the job. He was registered for GST and charged GST on his invoice to Capri. He also had a farm and that is why he charged GST. His tools were worth $500.00 to $600.00. He picked and chose the jobs he would and would not do. He never hired a helper. He was never told by Capri how to do his job.
+[40] One other worker, Allan Smith, also gave evidence. I found his situation to be completely different. He was the clean-up person. He was told by Capri where to go. He drove a Capri truck. He was paid strictly by the hour. He did increase his own hourly rate when working in Brandon, and was paid the new rate. However, I detected that he worked very much under the wing of Capri as any ordinary employee might do.
+[41] Henry Funk himself gave evidence. He explained that in 2001, his accountant had become more and more worried about the situation of the various workers and suggested that they be all brought onto payroll as employees. Henry Funk approached his various workers and many of them agreed to become regular employees. Others did not. I sensed that those who did not very much considered themselves as independent contractors. Those that did, either wanted to be employees or at least wanted some clear understanding as to where they were at.
+[42] He explained his business, how he went about obtaining contracts, and then recruiting people to carry out the work. Whilst he had a number of people to whom he could turn and offer work, he did not have a standing pool of men whom he could simply assign. He would engage them as best as he could from project to project and negotiate a price, whether either by the piece or by the hour.
+[43] He made it quite clear that after May 2001, when they transposed a number of the workers onto the payroll as employees, he felt he had a lot more control over them and could simply direct them from one project to another. That appeared to make his life much easier.
+[44] That, then, is really the evidence on the ground, so to speak. I really had the impression, that up until May 2001, these Workers were very independent of Capri. They considered that they worked for themselves and were proud of that independence. They worked, generally speaking, by the piece. Whilst that is not at all conclusive of their true situation, they all seemed to think that it contributed to their independence and to their being independent contractors not employees. They considered they worked for themselves; if they worked well they made more; if they slacked off they made less. They could pick and chose and nobody told them what to do or how to do it.
+[45] Ms. Evecsyn also gave evidence. She explained to the Court, the criteria that she used in helping to frame the Minister’s decision. Many of these were the usual ones. She explained she put together her question sheets for doing telephone interviews with a number of workers. She then said she applied the Wiebe Door Services Ltd. case (above) tests and made her determinations accordingly. She made no reference to the Sagaz case (above) from the Supreme Court of Canada or the Wolf or Precision Gutters cases (above) from the Federal Court of Appeal. She was undoubtedly very thorough in doing her research of the Workers but I am far from sure that she applied the central question posed by Mr. Justice Major in Sagaz, namely whether the Workers had been engaged to perform the services, were performing them as persons in business on their own account.
+[46] That, then is the evidence that I must consider.
+Application of the Factors to the Evidence
+[47] Whilst the necessity of reviewing a number of the factors which, prior to the Sagaz case, were called the four-in-one test plus an integration test, is somewhat diminished by that case it is still perhaps a useful exercise to go through.
+[48] Title: It must still be clearly understood that even where the parties choose to put a title on their relationship, if the true nature and substance of the arrangement does not accord with that title, it is the substance to which the Court must have regard. Having said that, it is also fair to say that where the parties truly choose a particular method of setting up their working arrangement, it is not for the Minister or this Court to disregard that choice. Due deference must be given to the method chosen by the parties and if on the evidence as a whole there is no substantial reason to derogate from the title chosen by the parties, then it should be left untouched. The Wolf and Precision Gutter cases very much substantiate that proposition.
+[49] In my view, the general tenor and understanding of the relationship by both the Workers and Capri was that they were independent contractors, although there was never any written contract. On the whole, I am of the view that in this case considerable deference has to be given to the choice of arrangement chosen by the parties. Quite clearly, in May 2001 a definitive decision was taken in each case and some Workers changed to being employees whereupon their relationship with Henry Funk changed. That was a sort of line drawn in the sand. From that point on, it was clear that they were either in employment or out.
+[50] Control: As this aspect of the test has been traditionally applied, it has been consistently pointed out that it is not the actual control so much as the right to control that is important for the Court to consider. The more professional and competent a person is or the more experience they have in their field, the less likely there is to be any actual control, which creates difficulty in applying this test. Indeed as Major J. pointed out in the Sagaz case (above), there may be less control exercised in the case of a competent professional employee than in the case of an independent contractor. Nonetheless, it is another factor to be weighed in the balance.
+[51] It seemed to me that it was quite clear that no control whatsoever was exercised by Capri over these workers nor did they or Capri think that there was any right to control them; it simply was not in the books to think that control would ever be exercised.
+[52] It would be hard to imagine a group of workers less under control than those in this case. They were experts in their own field and they generally speaking, enjoyed their independence, their ability to set their own hours and pick and choose the jobs they would do or not do, their freedom to come and go as they chose and to do their work their own way.
+[53] I am of the view that this factor points clearly to an independent contractor arrangement.
+[54] There is one exception to this and that is Allan Smith who, in my view, was in a completely different boat. He, it seemed to me, was very much under the control of Capri. He used their equipment and basically did their bidding.
+[55] Tools and Equipment: Some of these Workers had an extensive quantity of tools worth a lot of money. Other had a more modest investment. However, as was pointed out in the Precision Gutters case (above), by Mr. Justice Sexton:
+The Tax Court Judge found that the personal tools owned by the installer were not specific to the gutter installation business in that they were simply drills and bits, saws and blades, plyers, small ladders, pry bars, measuring tapes and hammers. I do not feel that because such tools can be used in other occupations, this means that they are not important to the installers in this case. Because these are common tools, it can always be said that they are not peculiar to one business or another. Nevertheless, those tools require the expenditure of money on the part of the installers and are essential to the proper carrying out of the work of the installer.
+The Tax Court Judge placed great emphasis on the fact that the truck mounted units owned by Precision were essential in the manufacture of the gutters and that this component was the most significant aspect of the process and required the most capital outlay. There is no doubt that the truck mounted units were crucial to the manufacture of the gutters. However the tools owned by the installers were equally important to the installation of the gutters.
+It has been held that if the worker owns the tools of the trade which it is reasonable for him to own, this test will point to the conclusion that the individual is an independent contractor even though the alleged employer provides special tools for the particular business. See Bradford v. M.N.R. 88 D.T.C. 1661; Campbell v. M.N.R. 87 D.T.C. 47; Big Pond Publishing v. M.N.R. [1998] T.C.J. No. 935.
+I feel that the Tax Court Judge erred in refusing to place any meaningful emphasis on the importance of the tools owned by the installers, which were essential to the installation of the gutters.
+[56] I cannot help but think that there are many similarities in the case at bar to the situation in the Precision Gutters case, not the least of which, is the matter of tools. Although Capri owned and supplied major tools and equipment for particular and special projects, on the whole in their everyday work, the Workers supplied and used their own tools.
+[57] I am of the view that this factor points very much to independent contractors working under contracts for services.
+[58] Chance of Profit – Risk of Loss: As in the Precision Gutters case, I again, note that each worker in the case at bar used his own judgment to decide when to work and whether to accept or decline any particular job. They were each free to have jobs with other contractors. The price was negotiated on each job. As Mr. Justice Sexton said :
+The ability to negotiate the terms of a contract entails a chance of profit and risk of loss in the same way in that allowing an individual the right to accept or decline a job entails a chance of profit or risk of loss.
+[59] As in the Precision Gutters case, these Workers were not given any set time for performance of the contract and hence efficient performance might well lead to more profits. A worker could choose to work alone or employ others to help him, as some did. Obviously the more work a worker could do on his own, the more profits he could make. The Workers were responsible for any defects in their work and had to do repairs on their own time at their own expense.
+[60] Further, there was no guarantee of work and no fringe benefits. As was pointed out in the Precision Gutters case (above) all of these things have led other Courts to conclude that an independent contractor arrangement exists.
+[61] Integration: Since Sagaz (above), the question to be asked is "is the person who has engaged himself to perform the services performing them as a person in a business on his own account". That question has to be approached from the point of view of the Workers. Clearly, most of them considered themselves to be in business for themselves, as did Capri. I see no reason to derogate from that point of view. I see a number of businesses here. Capri was one business. Each of the Workers, except Allan Smith, was engaged in his own individual business, at least until they made a conscious choice to come into the fold in May 2001. None of them had any involvement in Capri except to the extent of independently providing a service to that company on an independent contractor basis. On the whole, employees do not hire their own personnel or decline to take on work.
+[62] This test also reveals to me that all the Workers, except for Allan Smith, were independent contractors operating their own drywall installation businesses.
+Conclusion
+[63] When I look at the individual trees as well as the forest as a whole, I am overwhelmingly of the view that all these workers with the exception of Allan Smith, were independent contractors working under contracts for services with Capri and not employees employed under contracts of service.
+[64] As conceded by counsel for the Minister, I also find that the expenses paid to Henry Funk and George Laurin were not pensionable earnings in their hands.
+[65] In the result, the appeals are allowed in part and the matter referred back to the Minister for reassessment in accordance with these reasons.
+Signed at Calgary, Alberta, this 3rd day of February 2004.
+"M.H. Porter"
+Porter, D.J.
+SCHEDULE A
+ARBORS, V
+ATKINS, PAUL
+BANASH, RON
+BOHONOS, GORDON
+BRINKMAN, WESLEY
+BROWN, PRESTON
+CAMPBELL, MAURICE
+CARDINAL, DON DAVID
+CARRIERRE, ARTHUR
+CARRIERRE, OMER
+CRAIK, DOUGLAS
+DALKE, LEO
+DEACON, RICHARD
+DERKSEN, TODD
+ELKE, KELVIN
+ERICKSON, CHARLIE
+FREEMAN, RON
+GOETZ, RANDY
+HENDRICKSON, RANDALL
+HODSON, DAVID
+HORVATH, ISTVAN
+HUPE, RICHARD
+JOHANSSON, WILLIAM
+KEREKGYARTO, IMRE
+KING, MICHAEL
+KLIPPENSTEIN, KYLE
+KORK, DANIEL
+LINKLATER, GREGORY
+MARCHUK, HARRY
+MCCRAE, JODY
+MCMILLAN, DAVID
+MEYERS, STUART
+MICHAUD, ERNEST
+OLSON, BRIAN
+PCHAJEK, GARY
+PENNER, RON
+PERLITZ, ROBERT
+PSHEDNOVAK, THOMAS
+REIMER, GERHART
+SANDERS, JOHN
+SEALEY, MARK
+SINCLAIR, EARL
+SMITH, ALLAN
+STEINKE, WALTER
+STRONG, DALE
+TETRAULT, BENOIT
+TETRAULT, JASON
+VIVIER, GEORGE
+WAZNY, LLOYD
+WHITFORD, RON
+WIEBE, RILEY
+WOLOWICH, JOHN
+CITATION:
+2004TCC23
+COURT FILE NO.:
+2003-1477(EI) and 2003-1478(CPP)
+STYLE OF CAUSE:
+Capri Interiors Ltd. and M.N.R.
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+November 19, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Deputy Judge
+Michael H. Porter
+DATE OF JUDGMENT:
+February 3, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Ted Spyracopoulos
+Counsel for the Respondent:
+Michael Van Dam
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ted Spyracopoulos
+Firm:
+Monk, Goodwin
+Winnipeg, Manitoba
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

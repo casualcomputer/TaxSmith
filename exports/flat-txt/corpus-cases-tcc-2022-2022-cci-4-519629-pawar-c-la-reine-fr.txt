@@ -1,0 +1,184 @@
+Title: Pawar c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/519629/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-4-519629-pawar-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-06-01
+
+# Pawar c. La Reine
+
+- Citation: 2022 CCI 4
+- Decision date: 2022-06-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4429, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pawar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-06-01
+Référence neutre
+2022 CCI 4
+Numéro de dossier
+2019-772(GST)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Attention : ce document est disponible en anglais seulement.
+Docket: 2019-772(GST)I
+BETWEEN:
+MANROOP PAWAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 16, 2021, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+Ashwin Kotamarti
+Counsel for the Respondent:
+Andrew Lawrence
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal made under the Excise Tax Act, RSC 1985, c-15 concerning the Minister’s denial of new residential rental property rebate is dismissed on the basis that the Appellant has not timely filed the rebate application;
+No costs are awarded.
+Signed at Ottawa, Canada, this 11th day of January, 2022.
+“R.S. Bocock”
+Bocock J.
+Citation: 2022TCC4
+Date: 20220601
+Docket: 2019-772(GST)I
+BETWEEN:
+MANROOP PAWAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION
+[1] The Minister of National Revenue has denied the Appellant, Ms. Pawar, two different GST/HST rebates relating to the construction of the same new residential unit. The first related to the GST/HST new residential housing rebate (the “New Housing Rebate”). The second, which is the subject of this appeal, related to the GST/HST new residential rental property rebate (the “New Rental Rebate”). After reassessment, Ms. Pawar repaid the first rebate concerning the New Housing Rebate and did not contest the related reassessment. She did object to the denial of the second, the New Rental Rebate. The sole basis for the Minister’s denial of the New Rental Rebate was that Ms. Pawar missed the two-year deadline provided for in subsection 256.2(7) of the Excise Tax Act, RSC 1985, c-15, as amended (the “ETA”). That is the critical issue before the court in this appeal.
+II. FACTS
+[2] Ms. Pawar testified before the court and outlined the relevant dates related to the two denials by the Minister concerning the New Housing Rebate and the New Rental Rebate. These dates are as follows:
+Item
+Date
+Document
+1.
+March 23, 2015
+New Housing Rebate Application
+2.
+January 22, 2016
+Denial of New Housing Rebate and Reassessment
+3.
+September 19, 2017
+Appellant’s Discovery of Reassessment and Arrears
+4.
+September 21, 2017
+Payment of Reassessment and Arrears by Appellant
+5.
+September 25, 2017
+New Rental Rebate Application
+6.
+October 25, 2017
+Denial of New Rental Rebate for late filing
+7.
+January 18, 2018
+Notice of Objection for New Rental Rebate Denial
+8.
+December 3, 2018
+Confirmation of New Rental Rebate Denial
+[3] The transition from a New Housing Rebate to New Rental Rebate is telling and consequential. When Ms. Pawar first entered into the agreement of purchase and sale to acquire a condominium unit located on Metcalfe St. in Ottawa, she intended to reside in, first occupy, and live in the unit. She changed her mind. Instead, she remained in Brampton where she presently lives. She leased the new unit and a tenant first occupied the unit on July 31, 2015 under a one year lease.
+[4] The original New Housing Rebate, filed by the builder on Ms. Pawar’s behalf, contained the address at Metcalfe St. in Ottawa as Ms. Pawar’s address for service. The denial of the New Housing Rebate and consequent reassessment were sent by the Minister to that address. At that time, Ms. Pawar lived in Brampton. The evidence before the court was that the tenant disposed of Ms. Pawar’s mail without forwarding it. The consequence is that Ms. Pawar, as is seen by the dates above, remained unaware of the denial and reassessment until September 19, 2017. When she discovered the reassessment and arrears, she paid the tax rather than object and/or appeal. Instead, she completed and submitted the New Rental Rebate application.
+III. LAW
+a) The Statute
+[5] The following excerpts from relevant sections of the ETA provide as follows:
+(i) regarding the prescribed time limitation and reassessment of unentitled rebate
+256.2(7) A rebate shall not be paid to a person under this section unless
+(a) the person files an application for the rebate within two years after
+(i) in the case of a rebate under subsection (5), the end of the month in which the person makes the exempt supply referred to in subparagraph (5)(a)(ii),
+(ii) in the case of a rebate under subsection (6), the end of the month in which the tax referred to in that subsection is deemed to have been paid by the person, and
+(iii) in any other case of a rebate in respect of a residential unit, the end of the month in which tax first becomes payable by the person, or is deemed to have been paid by the person, in respect of the unit or interest in the unit or in respect of the residential complex or addition, or interest therein, in which the unit is situated;
+(b) if the rebate is in respect of a taxable supply received by the person from another person, the person has paid all of the tax payable in respect of that supply; and
+(c) if the rebate is in respect of a taxable supply in respect of which the person is deemed to have collected tax in a reporting period of the person, the person has reported the tax in the person’s return under Division V for the reporting period and has remitted all net tax remittable, if any, as reported in that return.
+264(1) Where an amount is paid to … a person as a rebate under … this Division (other than section 253) … and the person is not entitled to the rebate … the person shall pay to the Receiver General an amount equal to the rebate, interest or excess, as the case may be, on the day the amount is paid to, or applied to a liability of, the person.
+(ii) regarding the Minister’s requirement to deduct allowable rebate from net tax
+296(2.1) Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the “overdue amount”) that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable rebate”) would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount,
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day,
+The Minister shall apply all or part of the allowable rebate against that net tax or overdue amount as if the person had, on the particular day, paid or remitted the amount so applied on account of that net tax or overdue amount
+b) Authorities
+[6] The Federal Court of Appeal opined on the two-year deadline described in in section 256.2(7) above. In the case of Liping Liu v. Canada, 2016 FCA 12, Justice Stratas stated the following:
+[7] The Tax Court also held that the Appellant could not receive another rebate for tax—one for an owner-built home—because she failed to claim it within the two-year legislative limitation period. Here again, the Tax Court did not err in its interpretation of the legislation, nor is there any palpable and overriding error in the Tax Court’s assessment of how the legislation applied to the evidence before it. I also note that the Canada Revenue Agency advised the Appellant to file for the rebate for an owner-built home in time but the Appellant did not do so.
+[7] When he spoke to the applicability of subsection 296(2.1), in the case of Dominika Zdzieblowska v. HMQ, 2019 TCC 40, Justice D’Arcy stated the following:
+[2] The issue that is frequently before the Court is in what situations subsection 296(2.1) applies to, in effect, allow a person to claim the Rental Property Rebate after the expiry of the two-year time limit.
+[3] As I will discuss, the determination of this issue is dependent, in the first instance, on whether the Appellant in a given case is appealing an assessment under subsection 297(2.1) of an amount payable in respect of a rebate that was previously paid to the Appellant in error, or whether the Appellant is appealing an assessment under subsection 297(1) that merely denies an application for the relevant rebate.
+[4] If the Appellant is appealing a subsection 297(2.1) assessment of an “amount payable” in respect of a rebate (as in the case of an appeal of the assessment, in the preceding example, in respect of the New Housing Rebate), then subsection 296(2.1) may apply to reduce the amount of the subsection 297(2.1) assessment by the amount of the Rental Property Rebate.
+[5] However, subsection 296(2.1) will not apply if the Appellant is appealing a subsection 297(1) assessment that does not assess an amount but merely denies an application for the relevant rebate (as in the case of an appeal of an assessment, in the preceding example, in respect of the Rental Property Rebate).
+[8] The Court is require to analyze this law through the specific facts and circumstances before it giving regard to the submissions of the parties.
+IV. SUBMISSIONS OF THE PARTIES
+a) The Appellant
+[9] The Appellant was represented by an accountant, a Mr. Kotamarti. The agent’s main argument is that the Minister ought to have taken into account the credit balance comprising of the Appellant’s payments concerning the New Housing Rebate when the Minister considered the application for the New Rental Rebate. In sequence then, he argued that the Minister has a duty under subsection 296(2.1) to consider unapplied, but payable rebates when calculating net tax. She is directed to construe the New Rental Rebate as an “allowable rebate”. At the time, Ms. Pawar had repaid the New Housing Rebate to satisfy the January 22, 2016 reassessment of net tax or overdue amount. In turn, the Minister “shall apply … the allowable rebate against that net tax or overdue amount as if the person had paid the amount so applied…”. The Minister did not do so and the appeal should be allowed.
+b) The Respondent
+[10] In contrast, the Respondent states that the two-year deadline is unassailable. The Court of Appeal has said so in Liu and the matter is at an end.
+[11] With respect to the assertion that the Minister must reconcile the “allowable rebate” of the New Rental Rebate with the reassessment to repay the New Housing Rebate, the Respondent submits two arguments:
+i) the Appellant did not object to the reassessment related to New Housing Rebate and it is not before the court; and,
+ii) subsection 296(2.1) is restricted to adjustments relating to assessments under Part IX of the ETA and not Part VI under which this appeal falls.
+V. ANALYSIS
+a) The two-year deadline in subsection 256.2(7)
+[12] As regards the deadline in subsection 256.2(7), the Federal Court of Appeal has definitively settled that issue. As binding authority on this Court, that Court has unequivocally stated that where the Court finds factually that a taxpayer has not filed a [new] rebate application within two years of the relevant commencement date such omission is fatal to the entitlement of the rebate. In this appeal, the relevant commencement date was at the latest August 1, 2015. It is undisputed that the New Rental Rebate application was filed no earlier than September 25, 2017. That is more than two years. The application was late filed; the words “shall not be paid … unless” provide no discretion to this Court, or the Minister for that matter, to countermand that clear, concise and direct prohibition.
+b) Does subsection 296(2.1) otherwise apply in this appeal?
+[13] There are two nuanced distinctions within this more general query. The first concerns the subject matter of the appeal before the Court. The second concerns the Part(s) of the ETA applicable, respectively, to rebates concerning certain supplies and returns required to be filed by registrants and others.
+i) Which appeal is before the Court?
+[14] The appeal before this Court concerns the New Rental Rebate. The New Housing Rebate, initially paid through the builder was reassessed and repaid by Ms. Pawar. It was not appealed. It is a settled issue as between the Minister and the taxpayer. It cannot now be argued that the Minister or this Court should have considered or consider the New Rental Rebate when assessing or validating the New Housing Rebate.
+[15] The New Housing Rebate is beyond the reach of the Minister and the Court. The Appellant’s own submitted authority and others do not help Ms. Pawar, as has been identified in those cases before this Court; the two year deadline is still relevant as is the nature of the subsisting assessment under consideration: Ahmad v. HMQ, 2017 TCC 195 at paragraphs 39-43; Poirier v. HMQ, 2019 TCC 8 at paragraphs 41, 47 and 48; 1089391 Ontario Inc. v. HMQ, 2020 TCC 129 at paragraphs 43-45 and 56.
+ii) The Part(ition)s of the ETA; subsections 296(2.1), 256.2 and 264(1)
+[16] To recap, through her agent, Ms. Pawar asserts the Minister should reduce the tax comprising the reassessed New Housing Rebate paid in September, 2017 by virtue of the out-of-time, not claimed, but “allowable” New Rental Rebate. She should rely on the mandate to the Minister under subsection 296(2.1) to do so. Regrettably, the appeal cannot succeed on that basis.
+[17] To fall within the ambit of 296(2.1), the assessment or overdue amount (tax) must be payable under Part IX of the ETA by virtue of a registrant filing her or his returns. The mechanics require both the registrant and the Minister to collect, calculate, remit and assess net GST/HST, as the case may be, for each applicable reporting period: Zdzieblowska v. HMQ, supra at paragraphs 22-25. The calculation, assessment and payments of GST/HST housing/rental/self-build rebates (or overpayments) fall within Division VI and specifically subsection 264(1). Any reassessment under section 264 has its own distinct assessing section: 297(2.1).
+[18] No amount has been paid to Ms. Pawar in respect of the New Rental Rebate and thereafter reassessed under Part IX of the ETA: Zdzieblowska, supra at paragraphs 35 and 38. Again, although subsection 296(2.1) could have possibly applied to the New Housing Rebate (although this is arguable itself), that denial is not before the Court since it no longer subsists as a contested matter: Zdzieblowska, supra at paragraph 37.
+VI. SUMMARY, CONCLUSION AND COSTS
+[19] In summary, Parliament has not provided the Minister or this Court with remedial jurisdiction to overcome the self-imposed oversights of Ms. Pawar and/or her advisers. There are three such oversights identifiable to the Court: (i) the wrong address was included for service, and no alternative address was provided, in the New Housing Rebate application; (ii) no mail forwarding direction reflecting the relocation from Ottawa to Brampton was filed with Canada Post or the Minister; and, (iii) the laudatory, but premature repayment of the New Housing Rebate and non-objection to that assessment failed to bring that appeal before the Court.
+[20] Accordingly, the appeal is dismissed. Given the express and clear intention of Parliament within section 18.3009 of the Tax Court of Canada Act, there are no costs awarded.
+[21] The Court regrets it cannot, through an absence of jurisdiction, respond to these taxpayer/advisor oversights. However, the Minister has, in the circumstances, properly considered and rejected both the New Housing Rebate and New Rental Rebate applications.
+These amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated January 11, 2022 in order to correct the figures underscored and bolded in paragraph 12 and the sub-heading thereabove.
+Signed at Toronto, Canada, this 1st day of June, 2022.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2022TCC4
+COURT FILE NO.:
+2019-772(GST)I
+STYLE OF CAUSE:
+MANROOP PAWAR AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 16, 2021
+AMEDNED REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF AMENDED JUDGMENT:
+June 1, 2022
+APPEARANCES:
+Agent for the Appellant:
+Ashwin Kotamarti
+Counsel for the Respondent:
+Andrew Lawrence
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,163 @@
+---
+title: "To c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/169119/index.do"
+last_modified: "2016-07-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 176"
+citation2: ""
+neutral_citation: "2016 CCI 176"
+decision_date: "2016-07-27"
+language: "fr"
+item_id: "169119"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2930
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:56:48.921000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a733f73578e053895fb6e0f0f4464c0fab8208ae0a137898e333b6d911313198"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# To c. La Reine
+
+- Citation: 2016 CCI 176
+- Decision date: 2016-07-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2930, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+To c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-07-27
+Référence neutre
+2016 CCI 176
+Numéro de dossier
+2014-2961(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2961(IT)I
+ENTRE :
+FAN HSUI TO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 11 mai 2016, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Samantha Hurst
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi sur l’impôt sur le revenu pour les années d’imposition 2006, 2007, 2008 et 2009 de l’appelante est accueilli et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouveaux examens et nouvelles cotisations en tenant compte des concessions consenties par le ministre du Revenu national à l’audience du présent appel, comme suit :
+a) Les montants de 18 615 $, 30 869,90 $ et 9 479,95 $ sont supprimés du revenu de l’appelante pour les années d’imposition 2006, 2007 et 2008, respectivement;
+b) Le montant du revenu non déclaré pour 2009 est réduit à 53 689 $;
+c) Les pénalités pour faute lourde sont supprimées du revenu de l’appelante pour les années 2006, 2007, 2008 et 2009.
+Signé à Halifax (Nouvelle-Écosse), ce 27e jour de juillet 2016.
+« V.A. Miller »
+La juge V.A. Miller
+Référence : 2016 CCI 176
+Date : 20160727
+Dossier : 2014-2961(IT)I
+ENTRE :
+FAN HSUI TO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Le 22 octobre 2009, le service de police de la ville de Toronto a exécuté un mandat de perquisition à la résidence de l’appelante. Il a saisi des drogues, des armes et de l’argent dans la chambre du fils de l’appelante, de même que 63 990 $CAN et 4 004 $US en argent dans la chambre de l’appelante. Dans un affidavit, l’appelante a prêté serment et a indiqué que l’argent saisi dans sa chambre appartenait à elle et à son époux. L’argent saisi dans sa chambre lui a été retourné. En dollars canadiens, cela représentait 69 273,19 $.
+[2] Le ministre du Revenu national (le « ministre ») a effectué une analyse de la valeur nette pour établir une nouvelle cotisation de la dette fiscale de l’appelante pour ses années d’imposition 2006, 2007, 2008 et 2009. Les nouvelles cotisations pour les années d’imposition 2006 et 2007 ont été établies après la période de prescription, conformément au paragraphe 152(4) de la Loi de l’impôt sur le revenu, et des pénalités pour faute lourde ont été imposées en application du paragraphe 163(2) pour chacune des années d’imposition en litige. Selon l’analyse de la valeur nette, l’appelante a omis d’ajouter les montants suivants à son revenu :
+Année d’imposition
+Revenu déclaré
+Revenu non déclaré
+2006
+9 393,00 $
+18 615,00 $
+2007
+9 843,00 $
+30 869,90 $
+2008
+9 127,00 $
+9 479,95 $
+2009
+10 318,00 $
+72 663,24 $
+Total
+38 681,00 $
+131 628,09 $
+[3] Le montant inclus dans le revenu de l’appelante à titre de revenu non déclaré a été calculé en déduisant le total de son passif du total de son actif et en ajoutant ses dépenses personnelles au résultat. Des rajustements ont été apportés à son remboursement d’impôt sur le revenu, à son remboursement du crédit de TPS/TVH et à ses prestations pour enfants.
+[4] L’actif total de l’appelante comprenait les résultats de l’analyse des dépôts bancaires et de l’argent trouvé dans sa maison. Elle n’avait aucun passif. Les dépenses personnelles ont été calculées au moyen des renseignements de Statistique Canada.
+[5] Au début de l’audience, l’avocate de l’intimée a admis que les montants inclus dans le revenu de l’appelante pour les dépenses personnelles étaient trop élevés. L’avocate a affirmé que les montants estimés par l’appelante en dépenses personnelles étaient plus justes et a présenté un document comportant ces montants. Le résultat de cette concession est qu’il n’y a pas de revenu non déclaré pour les années 2006, 2007 et 2008, et le revenu non déclaré pour 2009 est réduit à 53 689 $. En raison du retrait du revenu non déclaré pour les années 2006, 2007 et 2008, les pénalités pour faute lourde ont également été retirées pour ces années. L’intimée a admis que les pénalités pour faute lourde pour l’année 2009 devraient également être retirées.
+[6] Le volet principal du revenu non déclaré pour 2009 est le montant de 69 273,19 $, qui a été trouvé pendant la perquisition de la maison de l’appelante.
+[7] L’appelante a fait son témoignage par l’intermédiaire d’un interprète (cantonais).
+[8] L’appelante a immigré au Canada en 1985. Elle s’est mariée en 1988, mais elle et son époux sont maintenant séparés. L’appelante a mentionné que le fait que son mari était dans sa maison quand la police a exécuté son mandat de perquisition était une simple coïncidence. En 2009, l’appelante était célibataire avec trois enfants à charge.
+[9] Elle a affirmé qu’elle travaillait depuis qu’elle était arrivée au Canada; elle vivait simplement et elle avait toujours épargné son argent. Selon son témoignage, les 69 273,19 $ étaient son épargne. Elle a témoigné que tout l’argent lui appartenait. Aucun n’appartenait à son époux. Elle a ensuite expliqué que les 63 990 $CAN étaient de l’argent épargné qu’elle avait reçu en cadeaux à son mariage et à la naissance de ses enfants, et des sommes épargnées sur son revenu. Elle n’était pas certaine des sommes épargnées chaque année sur son revenu. Elle a affirmé que les 4 004 $US ne lui appartenaient pas; c’était l’argent de sa mère. Elle gardait l’argent de sa mère afin que cette dernière réussisse à l’épargner.
+[10] Lors du contre-interrogatoire, l’appelante a allégué qu’elle avait reçu environ 30 000 $ en cadeaux à son mariage. Elle a également mentionné qu’elle avait reçu 30 000 $ de sa belle-mère. Toutefois, elle était incapable de fournir des détails sur la date à laquelle elle avait reçu l’argent de sa belle-mère ni d’indiquer si elle avait reçu un montant forfaitaire ou plusieurs petits montants.
+[11] Lors du contre-interrogatoire, l’appelante a admis qu’elle avait travaillé comme vendeuse de billets de loterie en 2009 et qu’elle n’avait pas déclaré ce revenu. Elle a hésité à l’admettre parce que, durant cette période, l’appelante et sa famille obtenaient des prestations d’assistance sociale et avaient un logement subventionné. L’appelante avait peur que les services sociaux découvrent qu’elle avait un revenu qu’elle n’avait pas déclaré. Selon le témoignage de l’appelante, elle a gagné seulement 3 744 $ en 2009.
+Analyse [12] Je conclus que le témoignage de l’appelante était invraisemblable. Elle a affirmé qu’elle gardait les 4 400 $US pour sa mère, mais elle n’a pas demandé à sa mère de se présenter à l’audience pour corroborer son témoignage.
+[13] L’appelante a mentionné que 30 000 $ de la somme trouvée dans sa chambre étaient des cadeaux reçus à son mariage en 1988. Outre le témoignage intéressé de l’appelante, aucun autre élément de preuve n’a été fourni à l’appui de sa déclaration selon laquelle elle avait reçu 30 000 $ en cadeaux de mariage.
+[14] Pour plusieurs raisons, j’ai de la difficulté à croire que l’appelante a conservé 30 000 $ pendant 21 ans et qu’elle n’a pas utilisé cet argent pour l’aider à payer pour les besoins essentiels de subsistance. Premièrement, elle a déclaré qu’elle avait eu un revenu d’emploi très bas pendant plusieurs années et aucun revenu certaines années. Pendant la période de 18 ans de 1988 à 2005, l’appelante a déclaré un revenu net total de 119 848 $. Je souligne qu’en 1999 et en 1998, l’appelante a déclaré un revenu net de 1 $ chaque année. De 2006 à 2009, l’appelante n’a déclaré aucun revenu d’emploi ou d’entreprise. Son seul revenu déclaré provenait des prestations d’assistance sociale, des prestations fiscales pour enfants et des prestations universelles pour la garde d’enfants. Deuxièmement, l’appelante avait trois enfants à charge. Troisièmement, son époux ne subvenait pas à ses besoins ni à ceux de ses enfants depuis au moins 2002.
+[15] Je suis aussi d’avis qu’il est invraisemblable que l’appelante ait gagné seulement 3 744 $ en 2009. L’avocate de l’intimée a suggéré qu’il était raisonnable de conclure que l’appelante avait gagné 30 000 $ en 2009 et que le revenu non déclaré pour 2009 devrait être réduit pour tenir compte de ce montant. Toutefois, ce qui me pose le plus problème relativement à cette suggestion est le fait que l’appelante n’a fourni aucun élément de preuve qui me permettrait d’en arriver à cette conclusion. Selon son témoignage, les 69 273,19 $ provenaient principalement de cadeaux et je conclus que cette explication n’était pas crédible.
+[16] L’appel est accueilli seulement dans la mesure des concessions consenties par l’intimée, comme suit :
+a) Les montants de 18 615 $, 30 869,90 $ et 9 479,95 $ sont supprimés du revenu de l’appelante pour les années d’imposition 2006, 2007 et 2008, respectivement;
+b) Le montant du revenu non déclaré pour 2009 est réduit à 53 689 $;
+c) Les pénalités pour faute lourde sont supprimées du revenu de l’appelante pour les années 2006, 2007, 2008 et 2009.
+Signé à Halifax (Nouvelle-Écosse), ce 27e jour de juillet 2016.
+« V.A. Miller »
+La juge V.A. Miller
+RÉFÉRENCE :
+2016 CCI 176
+NO DU DOSSIER DE LA COUR :
+2014-2961(IT)I
+INTITULÉ :
+FAN HSUI TO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 mai 2016
+MOTIFS DU JUGEMEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 27 juillet 2016
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

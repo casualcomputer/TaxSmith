@@ -1,0 +1,150 @@
+---
+title: "Picard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27537/index.do"
+last_modified: "2005-08-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 509"
+citation2: ""
+neutral_citation: "2005 CCI 509"
+decision_date: "2005-08-15"
+language: "fr"
+item_id: "27537"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 99
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:39:26.886000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c36c3e19b25fa65d12e4779ac1f6c214239390bbb25d39df0fae63bf18c8f4d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Picard c. La Reine
+
+- Citation: 2005 CCI 509
+- Decision date: 2005-08-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 99, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Picard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-15
+Référence neutre
+2005 CCI 509
+Numéro de dossier
+2004-349(IT)I
+Juges et Officiers taxateurs
+Alban Garon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-349(IT)I
+ENTRE :
+HÉLÈNE PICARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 août 2005, à Rouyn-Noranda (Québec)
+Devant : L'honorable Alban Garon, juge suppléant
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel de la détermination du ministre du Revenu national en date du 18 juillet 2003 relative aux prestations fiscales pour enfants, établie en vertu de la Loi de l'impôt sur le revenu pour la période de septembre 2002 à juin 2003 relativement à l'année de base 2001, est rejeté.
+Signé à Ottawa, Canada, ce 15e jour d'août 2005.
+« Alban Garon »
+Juge suppléant Garon
+Référence : 2005CCI509
+Date : 20050815
+Dossier : 2004-349(IT)I
+ENTRE :
+HÉLÈNE PICARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Juge suppléant Garon
+[1] Il s'agit d'un appel d'une détermination du ministre du Revenu national ( « Ministre » ) en date du 18 juillet 2003 où l'année de base en cause est l'année 2001. Par cette détermination, le ministre a établi que l'appelante n'était plus admissible aux prestations fiscales pour sa fille Jenny-Eve Drolet pour la période commençant en septembre 2002 et se terminant en juin 2003. Il a aussi déterminé que l'appelante avait reçu un paiement en trop s'élevant à 2 036,67 $.
+[2] L'appelante et son ex-conjoint, monsieur Sylvain Drolet ont témoigné à l'audience. Ils sont tous deux enseignants.
+[3] L'appelante a témoigné qu'elle avait continué à avoir la garde de sa fille Jenny-Eve pendant la période en litige même si elle reconnaît avoir quitté la résidence familiale à Rouyn-Noranda le 15 août 2002 où avant cette date elle habitait avec sa fille. À compter du 15 août l'appelante est allée habiter dans une communauté autochtone située à plusieurs centaines de kilomètres de Rouyn-Noranda pour occuper un emploi dans l'agglomération de Kangiqsujuaq dans ce qu'on appelle communément le Grand Nord. Durant la période concernée, elle n'est revenue à Rouyn-Noranda que pour deux semaines, à l'occasion des Fêtes.
+[4] Quant à sa fille Jenny-Eve elle a continué à habiter la résidence familiale de Rouyn-Noranda et ainsi vécu avec son père qui avait emménagé dans cette résidence au début de la période en cause.
+[5] Selon le témoignage de l'appelante, monsieur Sylvain Drolet n'était pas en bons termes avec sa fille qui était à l'époque pertinente âgée de 16 ans.
+[6] L'appelante a déclaré qu'en dépit de son éloignement physique elle a continué à guider sa fille, à la conseiller et à s'occuper notamment de ses besoins d'ordre psychologique. Elle a affirmé qu'elle avait même pris certaines dispositions avec une autre famille de Rouyn-Noranda advenant le cas où sa fille aurait des difficultés avec son père et qu'il ne serait plus indiqué qu'elle continue à résider avec ce dernier. Durant cette période de septembre 2002 à juin 2003, l'appelante s'assurait que tous les besoins de sa fille étaient satisfaits.
+[7] Quant aux frais et dépenses qui pouvaient être nécessaires pour assurer le bien-être de sa fille, c'est l'appelante qui en assumait la responsabilité de façon générale. C'est toutefois le père qui défrayait les dépenses relatives au téléphone, à l'électricité et à la nourriture. Il y a lieu aussi de préciser que la résidence familiale était durant la période en question la propriété conjointe de l'appelante et de son ex-conjoint. L'appelante devait devenir plus tard la seule propriétaire de cette résidence.
+[8] La preuve révèle aussi que le père faisait les repas pour lui-même et sa fille. Cette dernière de temps à autre préparait elle-même ses repas. Le père s'occupait du transport de sa fille afin de permettre à cette dernière de poursuivre certaines activités sociales, sportives ou autres. Cependant en un certain nombre d'occasions, les moyens de transport de sa fille étaient fournis par des amis ou leurs parents.
+[9] Comme proposition générale, l'appelante a soutenu que c'est elle qui s'occupait principalement des soins et de l'éducation de sa fille même en dépit de son éloignement physique.
+[10] Pour l'intimée, on a fait valoir que l'appelante n'était pas le particulier admissible pour la période en question en s'appuyant sur les articles 122.6 et 122.61 de la Loi de l'impôt sur le revenu et sur l'article 6302 du Règlement de l'impôt sur le revenu.
+Analyse
+[11] De ce qui précède, il s'ensuit que la seule question en litige est de déterminer si l'appelante était un « particulier admissible » selon la définition de cette expression à l'article 122.6 de la Loi. La partie pertinente de cette définition est reproduite ci-après :
+122.6
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne - père ou mère de la personne à charge - qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+[...]
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[12] L'article 6302 du Règlement de l'impôt sur le revenu établit les critères dont il est question à l'alinéa h) de la définition de l'expression « particulier admissible » .
+6302. Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[13] D'après la preuve, il est indiscutable que l'appelante, malgré la distance considérable qui la séparait de sa fille durant la période en cause, s'occupait dans une grande mesure de l'éducation de sa fille. Elle avait en effet fait avant son départ pour le Grand Nord certains arrangements pour le maintien d'un lieu sécuritaire pour sa fille durant son absence et avait même pris des dispositions au cas où les arrangements mis en place qui impliquaient le père de Jenny-Eve ne se seraient pas avérés adéquats. À part les trois catégories de dépenses susmentionnées qui étaient prises à charge par l'ex-conjoint de l'appelante, c'est cette dernière qui avait la responsabilité de défrayer toutes les autres dépenses. Elle suivait de près les activités de sa fille et communiquait avec elle au besoin par téléphone.
+[14] Il y a toutefois un élément mentionné à la définition de l'expression « particulier admissible » auquel l'appelante ne satisfaisait pas à l'époque pertinente. C'est l'élément dont il est question à l'alinéa a) de la définition du « particulier admissible » qui exige que le particulier admissible réside avec la personne à charge. La preuve est claire que la mère ne résidait pas avec sa fille Jenny-Eve durant cette période en cause d'environ 10 mois. On n'est pas dans une situation où pourrait donner une interprétation libérale au mot « réside » figurant à l'alinéa a) de la définition de « particulier admissible » comme il y a lieu de le faire lorsqu'il s'agit, par exemple, du concept de « résidence au Canada » . Dans le contexte de l'article 122.6 il faut une présence physique sur les lieux. Il faut que la personne responsable habite avec la personne à charge. À cet égard, il est intéressant - mais non déterminant puisqu'il s'agit d'un texte règlementaire - de noter le libellé de l'alinéa g) de l'article 6302 du Règlement de l'impôt sur le revenu qui mentionne notamment pour l'application de l'alinéa h) de la définition de « particulier admissible » « le fait d'être présent auprès d'elle » , le mot « elle » se référant évidemment à la personne à charge.
+[15] Les circonstances dans lesquelles s'est trouvée l'appelante ressemblent en partie aux faits de l'affaire Walsh c. Canada, [2001] A.C.I. no 11 (Q.L.), qui fut décidée par cette Cour. Dans cette cause, la mère s'était beaucoup occupée de ses enfants, de leurs études, de leurs loisirs, en dépit de la séparation physique de cette dernière qui résidait à 180 kilomètres de l'endroit où les enfants vivaient avec leur père. Malgré cela, la Cour avait conclu que les enfants avaient passé la majorité du temps avec leur père et que la disposition législative en cause renvoie à la quantité du temps et non à une évaluation qualitative des capacités des deux parents d'assumer les fonctions dont il est question à l'article 6302 précité du Règlement de l'impôt sur le revenu.
+[16] J'en viens donc à la conclusion que la détermination du Ministre selon laquelle l'appelante n'avait pas droit aux prestations pour enfants pour la période en litige est bien fondée. Je me vois donc contraint de rejeter l'appel de l'appelante de cette détermination.
+Signé à Ottawa, Canada, ce 15e jour d'août 2005.
+« Alban Garon »
+Juge suppléant Garon
+RÉFÉRENCE : 2005CCI509
+N º DU DOSSIER DE LA COUR : 2004-349(IT)I
+INTITULÉ DE LA CAUSE : HÉLÈNE PICARD ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Rouyn-Noranda (Québec)
+DATE DE L'AUDIENCE : le 3 août 2005
+MOTIFS DE JUGEMENT PAR : L'honorable Alban Garon, juge suppléant
+DATE DU JUGEMENT : le 15 août 2005
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

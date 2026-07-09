@@ -1,0 +1,154 @@
+---
+title: "Pearce v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26147/index.do"
+last_modified: "2004-09-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 599"
+citation2: ""
+neutral_citation: "2004 TCC 599"
+decision_date: "2004-09-10"
+language: "en"
+item_id: "26147"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4142
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:03:50.980000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8e08b758a52611e08ebdd65a7c5bb9db4bb55a6432a7742b6b5af6e029ef7063"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pearce v. The Queen
+
+- Citation: 2004 TCC 599
+- Decision date: 2004-09-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4142, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pearce v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-10
+Neutral citation
+2004 TCC 599
+File numbers
+2004-992(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-992(IT)I
+BETWEEN:
+JENNIFER AILEEN PEARCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 13, 2004 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Craig Maw
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 base taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 10th day of September 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC599
+Date: 20040910
+Docket: 2004-992(IT)I
+BETWEEN:
+JENNIFER AILEEN PEARCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant is married and she and her husband have two children.
+[2] When the Appellant filed her income tax return for the 1999 taxation year she indicated on the tax return that she was married and was the mother of one child.
+[3] On June 20, 2001 the Minister of National Revenue (the "Minister") issued a Notice of Determination. The Notice indicated that the Appellant's marital status used to calculate the Appellant's Canada Child Tax Benefit ("CCTB") was single.
+[4] The Notice of Determination also contained the following statement:
+Please review the information and notify us if it is not correct.
+[5] The Appellant was initially issued a CCTB for the 1999 base taxation year on the basis that she was a single parent and the only income that she had for the base period was her personal income for that period.
+[6] The Appellant was paid a CCTB in the amount of $1,916.67 for the 1999 base taxation year.
+[7] By Notice of Determination issued on July 18, 2003 the Appellant's entitlement to a CCTB for the 1999 base taxation year was redetermined by the Minister. The Notice of Determination was issued by the Minister on the understanding at that time that the Appellant was married, had one child and the family income for the base period was $63,196.00. The Notice also indicated that the Appellant had received a CCTB overpayment in the amount of $1,505.67 for the 1999 base taxation year.
+B. ISSUES TO BE DETERMINED:
+[8] The issues to be determined are:
+(a) whether the Minister has properly redetermined the Appellant's entitlement to the CCTB for the 1999 base taxation year;
+(b) if the Redetermination by the Minister was correct, is the Appellant required to repay the overpayment of CCTB?
+C. ANALYSIS:
+[9] The Appellant made the following comments in the Notice of Appeal:
+1. When the CCTB determined my calculation of payment it was based on a single parents' income provided by the CCRA which was clearly their mistake as all my tax returns and applications indicate my marital status as married.
+2. This CCRA mistake has generated another debt owing to HRDC of $1,206.00. The HRDC put me in a higher bracket because the CCRA made the error regarding my marital status.
+3. To ask for repayment is unfair because all the money received was spent on feeding and caring for my son Spencer.
+[10] In Dionne v. Canada, [2002] T.C.J. No. 128 Justice Tardif of the Tax Court of Canada dealt with a problem where the facts were virtually identical. In the Dionne case the Minister had concluded that the CCTB was determined by taking into account Ms. Dionne's income alone even though she had properly recorded her marital status on her income tax return. In Dionne the Minister issued Notices of Redetermination of CCTB for the 1997 and 1998 base taxation years and claimed repayments of $1,536.25 and $2,232.00 for each of those years respectively. Ms. Dionne maintained that she had always acted properly, had always been in good faith and had concealed or omitted absolutely nothing when filing her returns for the years at issue. Ms. Dionne therefore concluded that she should not be penalized or have to suffer the consequences of an administrative error to which she did not contribute in any way. The Minister admitted the administrative error but relied on subsection 152(4) of the Income Tax Act (the "Act"), which reads as follows:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+. . .
+[11] After reviewing the facts in Dionne, Justice Tardif said:
+15 First of all, it should be made clear that, contrary to what she claims, the appellant is not being penalized in the slightest. The notices of redetermination of child tax benefit do not penalize her in any way or deprive her of anything. They merely re-establish, in accordance with the Income Tax Act ("the Act"), the amount actually owed to her after considering all the factors provided for in the Act.
+16 Admittedly, the claim has caused problems and inconvenience. It is unfortunate that the appellant has to be so inconvenienced because of an administrative error. However, this is not sufficient to cancel the claim or allow the appeal. Moreover, the error has benefited her to some extent since she has received amounts that have not been claimed because of the time limit.
+17 The only basis for the appellant's appeal is equity. The Tax Court of Canada has no authority to dispose of an appeal on that basis. Its jurisdiction is basically to decide whether the notices of redetermination comply with the relevant provisions of the Act.
+. . .
+18 In the case at bar, the appellant would like her appeal to be allowed solely because she had nothing to do with the error that was made and that has caused her much inconvenience. There is no doubt that the appellant has suffered some prejudice, but that is not the question. The only questions that I can and must answer are as follows: were the notices of redetermination correctly issued under the applicable provisions of the Act, and were they correctly calculated within the required time? Since the answer is yes, I must simply dismiss the appeal.
+[12] I agree with the conclusion reached by Justice Tardif in Dionne. I have concluded that the Minister was correct when he redetermined that the Appellant had received an overpayment of a CCTB benefit in the amount of $1,505.67 for the 1999 base taxation year.
+[13] I have also concluded that the Appellant is required to repay the CCTB overpayment in the amount of $1,505.67.
+[14] The appeal is dismissed without costs.
+Signed at Vancouver, British Columbia, this 10th day of September 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2004TCC599
+COURT FILE NO.:
+2004-992(IT)I
+STYLE OF CAUSE:
+Jennifer Aileen Pearce and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 13, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+September 10, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

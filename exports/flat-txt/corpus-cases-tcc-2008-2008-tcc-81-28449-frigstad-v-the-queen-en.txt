@@ -1,0 +1,114 @@
+Title: Frigstad v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28449/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-81-28449-frigstad-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-02-04
+
+# Frigstad v. The Queen
+
+- Citation: 2008 TCC 81
+- Decision date: 2008-02-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1182, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Frigstad v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-04
+Neutral citation
+2008 TCC 81
+File numbers
+2006-590(GST)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-590(GST)G
+BETWEEN:
+PAUL GUSTAV FRIGSTAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 21 and 28, 2008
+at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Jack A. Adelaar
+Counsel for the Respondent:
+Karen A. Truscott
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act for the period from January 1, 2000 to December 31, 2001 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that net tax should be reduced by a further amount of $1,665.
+The parties shall bear their own costs.
+Signed at Toronto, Ontario this 4th day of February, 2008.
+"J. Woods"
+Woods J.
+Citation: 2008TCC81
+Date: 20080204
+Docket: 2006-590(GST)G
+BETWEEN:
+PAUL GUSTAV FRIGSTAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on January 30, 2008.
+Addition noted in parentheses.)
+Woods J.
+[1] These are reasons delivered orally in the matter of Paul Frigstad and Her Majesty the Queen.
+[2] The appeal relates to a goods and services tax assessment for a period encompassing two calendar years, 2000 and 2001. The tax that is at issue has been provided for each year separately. It is $3,713.52 for the 2000 calendar year and $5,269.55 for 2001.
+[3] At the outset, I would comment that I do not intend to go into a lot of detail in these reasons. The facts and issues were confusing and unfortunately counsel did not clarify matters much. Much of the difficulty appears to stem from inadequate pleadings. Based on the notice of appeal I could not really tell what the issues were, and based on the reply I did not have a good understanding of how the assessment was arrived at.
+[4] In any event I have tried to sort this mess out as best I could. If my decision results in an inequity to one side or the other, I would simply say that the fault lies with counsel in not clearly communicating their position to me during the hearing.
+[5] The first issue relates to an alleged $50,000 settlement received by the appellant in 2001. The appellant submits that the assessment should be adjusted to remove GST with respect to this amount. In support of this position, the appellant’s counsel submits that the Canada Revenue Agency accepted that the settlement amount was not taxable for income tax purposes. He suggests that this supports the view that it is not taxable for GST purposes either.
+[6] The first question that needs to be considered with respect to this issue is whether the assessment did in fact impose GST on the settlement amount, or a portion of it. Counsel for the respondent suggested near the end of her argument that the appellant might not have been taxed on this amount. This came as a surprise to me because my reading of the respondent’s reply seems to suggest otherwise because it states that the respondent has no knowledge of a settlement.
+[7] I tried to find an answer to this question in the material before me but was unable to do so. I decided therefore to review the pleadings that were filed in a related income tax appeal. (The related appeal had been withdrawn and was not before me.) Based on a comparison of the replies filed in both matters, I concluded that the same calculations of revenue were used by the Minister in both the income tax assessment and the GST assessment. The reply filed by the Minister in the income tax matter provides a more detailed explanation of how the purported taxable revenues were determined. Based on this, I concluded that the GST assessment does not include GST on the settlement amount. The same numbers were used as the basis for the income tax and GST assessments. If the settlement amount was backed out of income tax assessment, as the appellant suggests, then it appears that it was backed out of the GST assessment as well.
+[8] I find, therefore, that the appellant’s position regarding the settlement should be rejected. If I am wrong in this conclusion, then the appellant has only himself to blame for not providing me with the relevant information.
+[9] I turn now to a second issue, which concerns GST on revenues from a spiritual healing business.
+[10] The appellant suggests that these revenues are not subject to GST because most of his customers reside in the United States.
+[11] The respondent on the other hand submits that the assessment has already factored in an exemption for U.S. customers. Specifically, the reply states that in making the assessment the Minister assumed that GST had been deducted in reference to spiritual healing revenues received from non-residents. The following amounts were stated to have been deducted: $1,520.86 for 2000 and $4,607.84 for 2001.
+[12] My conclusions with respect to this issue are as follows.
+[13] First, the appellant has not established to my satisfaction that most of the customers of the spiritual healing business are non-residents. The evidence presented by the appellant is far too weak to establish this, even on a prima facie basis. I would note that taxpayers are required to maintain books and records that are sufficient to enable the Canada Revenue Agency to determine the correct amount of tax payable. In reference to the spiritual healing revenues, the appellant’s records should include details such as names of customers and their addresses so that the GST exemption can be computed and verified. Nothing of that sort was tendered into evidence before me. Accordingly no adjustment to the assessment is warranted on that ground.
+[14] That is not the end of the matter, however.
+[15] As I mentioned earlier, the reply states by way of an assumption that a portion of the spiritual healing revenues were treated by the Minister as non-taxable. These amounts are $1,520.86 for 2000 and $4,607.84 for 2001. I have difficulty with this assumption because I am not able to reconcile it with the other assumptions that were made. For example, it is assumed that the appellant had zero-rated or exempt supplies totalling only $45,000 in 2001. This amount is not large enough to account for the alleged GST adjustment of $4,607.84.
+[16] The bottom line is that I am not able to reconcile the assumptions that are stated in the reply. It is certainly possible that there are explanations. For example, I suppose it is possible that timing differences account for the inconsistencies. But if that is the case, the respondent has failed to provide adequate disclosure in the reply. It is certainly not obvious from the reply how these calculations were made by the Minister.
+[17] Where does that leave us? Under the relevant legal principles regarding onus of proof, the appellant has the burden to demolish the assumptions of the Minister. I conclude that the Minister’s assumption concerning the GST adjustment for non-resident revenues, which is found in paragraph 10(l) of the reply, has been demolished. I would note though that the appellant played little part, if any, in the demolition.
+[18] With this assumption being successfully refuted, it remains to be considered what adjustment should be made for GST with respect to non-resident revenues. I have no way of determining from the material before me what adjustment is appropriate. In these circumstances, one approach would be to send the matter back to the Minister for a further determination. I have decided against this because I think that it is in everyone’s interest to have finality in this matter. Accordingly, I have decided that it is appropriate to make an adjustment that is favourable to the appellant.
+[19] The adjustment that I propose to make is that there be an additional adjustment for GST for 2001. The adjustment would be on the assumption that the Minister only made an adjustment for the GST on the zero-rated or exempt supplies of $45,000 which is stated in the reply. I have calculated this to be $2,943. The other assumption is that the Minister should have made an adjustment for the amount stated in paragraph 10(l) of the reply. This amount is $4,607.84. The difference is $1,665 and I conclude that this is an adjustment that the Minister should have made but did not. There is considerable arbitrariness in the approach that I am taking, but it is the best that I can do to bring some finality to this matter. As I said at the beginning of these reasons, if this result gives an inequity to one side or the other, I think that the fault lies with that party for not clearly communicating their position.
+[20] That concludes my findings on the second issue. The third issue does not relate to specific revenues. Rather, the appellant suggests that the assessment should be reversed in its entirety because the revenues were adequately reported. I do not think that it is appropriate to make any further adjustments to the assessment than what I have already proposed. The appellant’s position was based almost entirely on very brief explanations that were not corroborated. I did not find any of this testimony to be reliable.
+[21] This concludes my reasons in this appeal. In the result, the appeal will be allowed, and the assessment will be referred back to the Minister of National Revenue for reconsideration and reassessment to reduce net tax by a further amount of $1,665.
+[22] As for costs, I have decided to decline to exercise my discretion to award costs in this matter. The reason for this should be clear from my reasons.
+Signed at Toronto, Ontario this 4th day of February, 2008.
+"J. Woods"
+Woods J.
+CITATION: 2008TCC81
+COURT FILE NO.: 2006-590(GST)G
+STYLE OF CAUSE: PAUL GUSTAV FRIGSTAD AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATES OF HEARING: January 21 and 28, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Woods
+DATE OF JUDGMENT: February 4, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jack A. Adelaar
+Counsel for the Respondent:
+Karen A. Truscott
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jack A. Adelaar
+Firm: Jack A. Adelaar Law Corporation
+Vancouver, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

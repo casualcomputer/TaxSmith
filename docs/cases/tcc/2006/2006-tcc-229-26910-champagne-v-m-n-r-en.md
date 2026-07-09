@@ -1,0 +1,183 @@
+---
+title: "Champagne v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26910/index.do"
+last_modified: "2006-04-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 229"
+citation2: ""
+neutral_citation: "2006 TCC 229"
+decision_date: "2006-04-12"
+language: "en"
+item_id: "26910"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 716
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:09:51.795000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a72380d7b553ad6de31a4d5917191d143c9cb5789ff8173a2642e076aee9dfdb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Champagne v. M.N.R.
+
+- Citation: 2006 TCC 229
+- Decision date: 2006-04-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 716, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Champagne v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-12
+Neutral citation
+2006 TCC 229
+File numbers
+2005-2909(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-2909(EI)
+BETWEEN:
+STÉPHANE LABRECQUE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Stéphane Champagne (2005‑3156(EI)) and 9084‑5660 Québec Inc. (2005‑2916(EI))
+on March 7, 2006, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+the Appellant himself
+Counsel for the Respondent:
+Yannick Houle
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act concerning the decision of the Minister of National Revenue is allowed, and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of April 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 29th day of February 2008.
+Brian McCordick, Translator
+Citation: 2006TCC229
+Date: 20060412
+Dockets: 2005-3156(EI)
+2005-2909(EI)
+2005-2916(EI)
+BETWEEN:
+STÉPHANE CHAMPAGNE,
+STÉPHANE LABRECQUE,
+9084‑5560 QUÉBEC INC.,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+STÉPHANE CHAMPAGNE,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These appeals were heard on common evidence. The period in issue for the Appellant Champagne is January 1, 2001, to September 29, 2004, and the period in issue for the Appellant Labrecque is August 1, 2003, to September 29, 2004. The question to be determined is whether the Appellants Champagne and Labrecque were self-employed workers (as they and the Appellant corporation submit) or employees (as the Respondent submits) under the Employment Insurance Act ("the Act").
+[2] The Appellant corporation, namely 9084‑5660 Québec Inc. ("9084"), owns and manages 20 rental buildings containing roughly 200 commercial and residential units. It does business under the name Location Lyon.
+[3] George Weisz and Robert Wasserman are the two shareholders of 9084. Mr. Weisz testified. He explained how the rental business operates from an administrative standpoint. The two shareholders are the directors. The office staff consists of three employees. There are three superintendents, each of whom lives in one of the rental buildings. The superintendents also look after other buildings in their geographic area. Another person (a woman) supervises the superintendents and takes the tenants' phone calls. 9084 also uses the services of specialized contractors who look after plumbing, electrical work, sprinkler systems, heating, snow removal and cleaning.
+[4] Mr. Weisz explained that rental buildings often need renovation work. He was looking for a good worker. He got Stéphane Champagne's name from a friend who makes windows. He gave Mr. Champagne work renovating lofts. He was pleased with the work and retained Mr. Champagne's services on an ongoing basis, but always as a contractor or self-employed worker, he said. It appears that there was no written agreement between 9084 and Mr. Champagne. Their agreement was to continue the initial arrangement, namely a non-exclusive contract of enterprise.
+[5] Mr. Weisz says that any mistakes were rectified at Mr. Champagne's expense. He had his own tools and his own vehicle. 9084 did provide him with a cell phone so that it could contact him easily. Mr. Weisz claims that he, himself, is knowledgeable about renovations and could estimate the number of days or hours that a renovation project would take. He proceeded on this basis with Mr. Champagne. Both of them estimated the amount of time that a project would take. Mr. Champagne was paid for that number of hours, even if the work took less time to do. Mr. Weisz allegedly accepted this situation. What mattered was that the result was obtained in a reasonable amount of time.
+[6] The invoices tendered in evidence by the Respondent during Mr. Champagne's testimony do not specify any hours. The price is usually the same, namely $525 per week. The location of the work, which is stated on the invoices, varies over the course of the year. It sometimes stays the same for several weeks and then changes to another location for another period. The work is described on the invoices as [TRANSLATION] "interior renovation" or [TRANSLATION] "finishing". In his testimony, Mr. Champagne explained that he was paid a rate of $13.50 per hour for weeks of roughly 40 hours each.
+[7] Mr. Champagne wrote [TRANSLATION] "vacation" on the invoices of July 17, July 24, and August 1, 2003. The invoice of July 17 bears the inscription "Paid 2000". It appears that $2,000 was paid for the three "vacation" invoices. Based on the series of cheques issued in payment, one can see that the three weeks in question were not paid in the usual manner. Rather, they were paid by means of a $2,000 cheque dated July 11, 2003. Mr. Weisz explained that Mr. Champagne did not go on vacation but received a type of premium pay during that period. Then, on August 8, 2003, the cheques returned to the routine, i.e. $525 roughly every week. There were cheques for different amounts in September 2003 ($210 for the week of September 11, and $393.75 for the week of September 18) and for October 2 ($367), October 9 ($131.25) and December 4, 2003 ($347).
+[8] The variation in these amounts was not specifically explained. However, during his testimony, Mr. Weisz stated that Mr. Champagne could work for other companies, albeit companies related in some manner to 9084, because he and his partner held shares in other real estate companies and Mr. Champagne did work for those companies.
+[9] As far as the Appellant Labrecque is concerned, Mr. Weisz explained that his services were retained on a sporadic basis. Mr. Champagne had introduced him to the directors. Mr. Labrecque is also a musician, and therefore had his own specific scheduling requirements.
+[10] Mr. Labrecque's invoices are time-based. There are weeks in which he worked 9 hours, 22.5 hours, 37 hours and 7 hours. The location of the work is always stated. His hourly rate was $12. Based on a quick reading of the invoices, the two individual Appellants worked in the same locations.
+[11] There do not appear to have been any controls with respect to the number of hours that either worker actually worked. Mr. Weisz explained that he did not monitor Mr. Champagne's hours closely. He considered it economically advantageous and mutually beneficial to retain his services. Mr. Weisz was Mr. Champagne's only customer and had enough buildings to keep Mr. Champagne busy. Both of them had a good idea of the amount of time that the work would take. As for Mr. Labrecque, Mr. Weisz says that he relied on what was stated in his invoices as well.
+[12] The company paid for the supplies.
+[13] Mr. Champagne testified that he could enter into contracts with people other than the company, and he cited a recent event as an example. He has excellent tools. He said that he could build a house with those tools. He said that he once bought a scaffold. It was not profitable immediately, but became profitable later.
+[14] Mr. Champagne claims his expenses on his income tax return. He describes himself as a small renovation contractor. He confirmed Mr. Weisz's testimony that he did not go on vacation in July and August 2003 but that he was paid the $2,000 for the three weeks in question because he agreed to be on call during that period. On some jobs, he gets help from his teenage nephew, and shows him how to do the work. He decides whether his nephew is involved in a given job. Mr. Champagne received a $1,000 bonus at the end of 2003. Mr. Weisz explained that it is normal to give gifts at the end of the year to regular contractors who have done satisfactory work.
+[15] During his testimony, Mr. Labrecque described himself as a self-employed renovator. At the material time, he charged $12 per hour. He now charges $20. He has his own truck, pays for gas, is responsible for his mistakes and gets no vacation pay. He considers himself a business owner. He continues to be a singer and instrumentalist in addition to working in the renovation field.
+Arguments
+[16] Counsel for the Appellants referred to the following paragraphs from the Federal Court of Appeal's decision in Livreur Plus Inc. v. Canada (Minister of National Revenue), [2004] F.C.J. No. 267 (QL):
+17 What the parties stipulate as to the nature of their contractual relations is not necessarily conclusive, and the Court may arrive at a different conclusion based on the evidence before it: D & J Driveway Inc. v. The Minister of National Revenue, 2003 FCA 453. However, if there is no unambiguous evidence to the contrary, the Court should duly take the parties' stated intention into account: Mayne Nickless Transport Inc. v. The Minister of National Revenue, 97-1416-UI, February 26, 1999 (T.C.C.). Essentially, the question is as to the true nature of the relations between the parties. Thus, their sincerely expressed intention is still an important point to consider in determining the actual overall relationship the parties have had between themselves in a constantly changing working world: see Wolf v. Canada, [2002] 4 F.C. 396 (F.C.A.); Attorney General of Canada v. Les Productions Bibi et Zoé Inc., 2004 FCA 54.
+18 In these circumstances, the tests mentioned in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025, namely the degree of control, ownership of the work tools, the chance of profit and risk of loss, and finally integration, are only points of reference: Charbonneau v. Canada (Minister of National Revenue - M.N.R.) (1996), 207 N.R. 299, paragraph 3. Where a real contract exists, the Court must determine whether there is between the parties a relationship of subordination which is characteristic of a contract of employment, or whether there is instead a degree of independence which indicates a contract of enterprise: ibid.
+19 Having said that, in terms of control the Court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it: Vulcain Alarme Inc. v. The Minister of National Revenue, A-376-98, May 11, 1999, paragraph 10, (F.C.A.); D & J Driveway Inc. v. The Minister of National Revenue, supra, at paragraph 9. As our colleague Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), supra, followed in Jaillet v. Canada (Minister of National Revenue - M.N.R.), 2002 FCA 394, "It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker."
+[17] Counsel also referred to the decision in Wolf v. Canada, [2002] 4 F.C. 396, and, in particular, the comments made by Décary J.A. in the following paragraphs:
+117 The test, therefore, is whether, looking at the total relationship of the parties, there is control on the one hand and subordination on the other. I say, with great respect, that the courts, in their propensity to create artificial legal categories, have sometimes overlooked the very factor which is the essence of a contractual relationship, i.e the intention of the parties. Article 1425 of the Civil Code of Quebec establishes the principle that "[t]he common intention of the parties rather than the adherence to the literal meaning of the words shall be sought in interpreting a contract". Article 1426 C.C.Q. goes on to say that "[i]n interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account."
+. . .
+119 Taxpayers may arrange their affairs in such a lawful way as they wish. . . .
+In addition, he referred to the comments made by Noël J.A. in the following paragraph:
+124 This is not a case where the parties labelled their relationship in a certain way with a view of achieving a tax benefit. No sham or window dressing of any sort is suggested. It follows that the manner in which the parties viewed their agreement must prevail unless they can be shown to have been mistaken as to the true nature of their relationship. In this respect, the evidence when assessed in the light of the relevant legal tests is at best neutral. As the parties considered that they were engaged in an independent contractor relationship and as they acted in a manner that was consistent with this relationship, I do not believe that it was open to the Tax Court Judge to disregard their understanding (Compare Montreal v. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161 at 170).
+[18] Counsel for the Respondent referred to Robert P. Gagnon, Le droit du travail du Québec, pratiques et théories, 4th ed. (Cowansville: Yvon Blais) at pages 44-55. I will quote from page 53:
+[TRANSLATION]
+THE CONTRACT OF EMPLOYMENT
+. . .
+Judgments of the Tribunal du travail, a specialized court, have been receptive to the idea that economic dependence is an indicia of an employer-employee relationship. In Pétroles Inc., the fact that the business wanted to change the status of its delivery drivers from employees to independent contractors while continuing to impose certain obligations or constraints on them (general guidelines, uniforms, exclusivity of service and availability) was certainly taken into account. In addition, economic dependence has been held to be a factor in determining that sufficient subordination exists to warrant a finding of employee status:
+[TRANSLATION]
+It is based on economic criteria, and not, primarily, on a purely legal definition or a contract, that a person is considered self‑employed. The "entrepreneurial" status ascribed to the self-employed stems from their desire for independence and profit. Self-employment is an economic question. In a free-enterprise economy, the self-employed are those who, through their originality, approach, personal initiative, and dynamism, marshal various productive elements in order to make a profit. In order to do so, they must take risks and compete with others.
+Clearly, this is not the case here. The distributors did not marshal various productive elements. Basically, they do Irving's bidding by delivering its products. Marginal exceptions aside, they do not hire labour. They do not have places of business, and, as I have already noted, they do not possess means of production. They compete with no one. They essentially depend on the existence of a contract with Irving. If the contract were cancelled, these so-called contractors (if they ever truly were contractors) would disappear from the scene.
+Analysis and conclusion
+[19] Here, unlike the case discussed above, the workers do not essentially depend on the existence of a contract with 9084. They would not disappear from the scene as "contractors" if their agreement with 9084 were cancelled. They were self‑employed or independent contractors in the renovation field before 9084 sought out their services, and will remain so afterward. It is in this capacity that 9084 requested their services. 9084 was Mr. Champagne's main customer. However, under his agreement with 9084, he could do work for other customers. The instructions that he receives pertain to the work to be done. He decides how to go about performing it. The company does not monitor his hours of work. He records those hours, just as a contractor to whom renovation work has been assigned records the number of hours that he takes to do the work if the parties have selected this basis of payment. He owns his tools. The context of Mr. Labrecque's work is the same, except that his services are not required on a continuous basis.
+[20] The workers intended to be self-employed and to remain so. They had no desire to obtain employee status. The intention of 9084 was the same. The agreements were entered into freely and were not imposed on the workers. They were not calculated to unlawfully circumvent the provisions of the Act. Every person has the right to structure his affairs as he wishes provided the Act is complied with. See Inland Revenue Comrs v. Duke of Westminster, [1936] A.C. 1, [1935] All E. Rep. 259; Massey v. Crown Life Insurance, [1978] 2 All E.R. 576; Wolf v. Canada, [2002] 4 F.C. 396; and Royal Winnipeg Ballet v. Canada (Minister of National Revenue), 2006 FCA 87.
+[21] The common intention of the parties is an important factor in cases where the indicia do not point clearly toward a contract of enterprise or a contract of employment. However, I am of the opinion that the circumstances of the work done by the Appellants Champagne and Labrecque, as described above, are those of a contract of enterprise, as defined in articles 2098 et seq. of the Civil Code of Québec (C.C.Q.) and not those of a contract of employment, as defined in articles 2085 et seq. C.C.Q. The Appellants Champagne and Labrecque were free to choose how to perform the work, and 9084 did not direct or control them within the meaning of these provisions.
+[22] The appeals are allowed.
+Signed at Ottawa, Canada, this 12th day of April 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 29th day of February 2008.
+Brian McCordick, Translator
+CITATION: 2006TCC229
+COURT FILE NOS.: 2005‑3156(EI), 2005‑2909(EI), and 2005‑2916(EI)
+STYLES OF CAUSE: Stéphane Champagne v. M.N.R.
+Stéphane Labrecque v. M.N.R.
+9084‑5660 Québec Inc. v. M.N.R.
+and Stéphane Champagne
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 7, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice
+Louise Lamarre Proulx
+DATE OF JUDGMENT: April 12, 2006
+APPEARANCES:
+For the Appellants
+Champagne and Labrecque:
+The Appellants themselves
+Counsel for the Appellant
+9084-5560 Québec Inc.:
+Christopher Mostovac
+Counsel for the Respondent:
+Yannick Houle
+For the Intervener:
+The Intervener himself
+COUNSEL OF RECORD:
+For the Appellant
+9084-5560 Québec Inc.:
+Name: Christopher Mostovac
+Firm: Starnino Mostovac
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

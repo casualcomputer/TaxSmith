@@ -1,0 +1,120 @@
+Title: Gillespie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25923/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-538-25923-gillespie-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-07-31
+
+# Gillespie v. The Queen
+
+- Citation: 2003 TCC 538
+- Decision date: 2003-07-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3670, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gillespie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-31
+Neutral citation
+2003 TCC 538
+File numbers
+2003-1226(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1226(IT)I
+BETWEEN:
+GORDON D. GILLESPIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 10, 2003, at Winnipeg, Manitoba
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Perry Derksen
+____________________________________________________________________
+ORDER
+Upon motion made by the Respondent for an Order quashing the Appellant's Notice of Appeal filed on April 2nd, 2003;
+And upon hearing the Appellant and counsel for the Respondent;
+The motion to quash the subject appeals is granted, without costs, in accordance with the attached Reasons for Order.
+Signed at Toronto, Ontario, this 31st day of July 2003.
+"J.E. Hershfield"
+Hershfield, J.
+Citation: 2003TCC538
+Date: 20030731
+Docket: 2003-1226(IT)I
+BETWEEN:
+GORDON D. GILLESPIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR ORDER
+Hershfield, J.
+[1] The Respondent moved for an order quashing the Appellant's Notice of Appeal.
+[2] The Appellant's Notice of Appeal is in respect of his 1998 and 1999 taxation years.
+[3] The Notice of Appeal sets out particulars of a series of events concerning an alleged misuse by Revenue Canada employees of personal income tax information during the period commencing in or about June 1986 and continuing until about February 1987. The Notice of Appeal alleges a cover-up of findings of the Privacy Commissioner of Canada of violations of the Privacy Act.
+[4] The Notice of Appeal sets out various allegations respecting corruption in the Manitoba justice system resulting in asserted "trumped-up" charges and unlawful incarcerations and judicial cover-ups. The Appellant is apparently subject to an order preventing him from having any contact with any one in the Manitoba justice system.
+[5] The Notice of Appeal makes other allegations including criminal misconduct of provincially appointed judges, repeated refusals by the Chief Justice of Canada, the Prime Minister of Canada and the Minister of Justice to respond to complaints about federally appointed justices and the squandering of billions of dollars on improperly imposed programs. There are allegations of racist and genocidal policies.
+[6] The Notice of Appeal asserts that the Income Tax Act is unconstitutional and illegal.
+[7] In the face of all of the allegations set out in the Notice of Appeal, the Appellant asserts that he has a duty and responsibility not to pay taxes used to support corrupt, unaccountable and out-of-control actions of the executive and judicial branches of the Canadian justice system.
+[8] With respect to the years in question, the Notice of Appeal acknowledges that returns for the subject years were filed after receiving a demand to file. The returns were filed "without providing any confidential information". After a series of reassessments the Appellant was denied the Manitoba Education Property Tax Credit (MEPTC) having refused to provide rent receipts in the amount of $3,000.00 for each of the two years in question. Subject to comments below respecting penalties, this appears to be the only substantive issue arising directly from the reassessments for the subject years. The Appellant filed a timely Notice of Objection.
+[9] After filing the Notice of Appeal, the Appellant filed a copy of his Notice of Objection for the subject years asserting his intention that same was to have been included as an integral part of his appeal. The Notice of Objection set out no substantive issues directly arising from the reassessments for the subject years except under the heading "Tax, penalties and interest assessed are invalid and illegal". Under that heading the following reason is set out:
+Since there were no penalties for Revenue Canada officials who the Privacy Commissioner of Canada repeatedly found guilty of breaking the law, there should be none for me.
+[10] Under a different heading regarding "intention of breaking the law", the Appellant asserts that all he was doing (presumably by not filing returns) was protecting his privacy "since Revenue Canada won't".
+[11] At the hearing of the Respondent's motion to quash the Notice of Appeal, the Appellant requested that I recuse myself. Grounds relied on were that I was appointed by a Minister of Justice asserted in the Notice of Appeal as being guilty of wrongdoing and I was thereby compromised; that I was prior to being appointed as a Judge of this Court a member of a consultation and advisory committee of the Winnipeg District Office of Revenue Canada and thereby compromised; and, that I was prior to being appointed as a Judge of this Court a partner with the law firm that acted for Revenue Canada and/or individuals employed by Revenue Canada who the Appellant sued in respect of alleged wrongdoings and I was thereby compromised. I acknowledged at the hearing that I was appointed by the Minister of Justice named in a Notice of Appeal; that I had been on an advisory committee which was a forum for taxpayers' interests to be expressed to senior officials of Revenue Canada at the Winnipeg Office; and, that I had been a partner up until some three years ago at the law firm that represented certain Revenue Canada employees who had been sued but that I had no recollection of him as a plaintiff in such matters and in any event had no involvement in any such matters dealing, apparently, with the dispute between the Appellant and Revenue Canada which I understand, was disposed by the Courts over ten years ago.
+[12] It is not reasonable in my view to think that there should or would be an apprehension of bias in respect of my dealing with this motion to quash the subject appeal. No evidence is being called. The issues are to be decided strictly on the basis of the pleadings and submissions. I am dealing primarily with a question of law. There are no issues of credibility and in any event I have had no exposure to the Appellant or his past problems except as spelled out in documents filed in respect of the subject appeals and as represented at the hearing. The matter involving my former firm is a decade or more old. I had no dealings on the matter even then.
+[13] The Respondent's motion for an order quashing the Notice of Appeal is on the ground that this Court has no jurisdiction to hear the only substantive issue arising from the reassessments namely the MEPTC. The Appellant asserts that there was also the question of penalties. My decision on the motion was reserved pending submissions as to the nature of penalties assessed, if any, in the subject years.
+[14] The Respondent's counsel filed a submission with the Court on June 30, 2003 acknowledging that the Appellant was reassessed a late filing penalty of $203.96 and $396.36 for the 1998 and 1999 tax years respectively but asserts that the reasons for the subject appeals did not reveal, even in general terms, an intention to appeal the penalties and that the time for filing an appeal having expired, it is too late to appeal on new grounds.
+[15] I do not accept the Respondent's position that the Appellant did not intend to object to the penalty assessed. Although a postscript to the Notice of Appeal, the Notice includes the following:
+The letter and the Notice of Objection made it clear that Revenue Canada had repeatedly broken the law and that the government had covered up.
+Such reference is sufficient in my view to indicate an intention to include the Notice of Objection as an integral part of the appeal. An appeal such as this one, under the Informal Procedure, should be construed expansively to include potential substantive issues. As such, penalties in the subject years would be properly before this Court subject to a further assertion made by the Respondent. That assertion is that the subject appeals are a platform for the Appellant to pursue his allegations of wrongdoings and constitute an abuse of process.
+[16] I agree with the Respondent's submission on this latter point. The penalties objected to are on the basis of "if they don't pay penalties why should I". While the motion, as made, does not allow for a consideration of the merits of the subject appeals, the total absence of merit in the context of the appeals as framed underscores that the appeals are on their face nothing more than a platform for this Appellant to pursue his personal grievances and points of view all of which are unrelated to any substantive issues arising directly from the subject reassessments over which this Court has jurisdiction. To permit the appeal to proceed in such circumstances would be an abuse of the process governing this Court.
+[17] As to the MEPTC issue, this Court has no jurisdiction to hear such appeals. See Bowater Mersey Paper Co. v. The Queen, [1987] 2 C.T.C. 159 (F.C.A.); Hennick v. The Queen, [1998] 4 C.T.C. 2855 (T.C.C.) and Gardner v. The Queen, [2000] 4 C.T.C. 2531 (T.C.C.) and [2002] 1 C.T.C. 302 (F.C.A.) (leave to appeal refused 2002 CarswellNat 2541 (S.C.C.)).
+[18] Accordingly the motion to quash the subject appeals is granted, without costs.
+Signed at Toronto, Ontario, this 31st day of July 2003.
+"J.E. Hershfield"
+Hershfield, J.
+CITATION:
+2003TCC538
+COURT FILE NO.:
+2003-1226(IT)I
+STYLE OF CAUSE:
+Gordon D. Gillespie and
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+June 10, 2003
+REASONS FOR ORDER BY:
+The Honourable Justice
+J.E. Hershfield
+DATE OF JUDGMENT:
+July 31, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Perry Derksen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

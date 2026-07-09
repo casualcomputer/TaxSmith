@@ -1,0 +1,119 @@
+Title: Roper c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30803/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-157-30803-roper-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-05-11
+
+# Roper c. La Reine
+
+- Citation: 2012 CCI 157
+- Decision date: 2012-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7547, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roper c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-05-11
+Référence neutre
+2012 CCI 157
+Numéro de dossier
+2009-719(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-719(IT)G
+ENTRE :
+CHRISTOPHER J. ROPER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 28 mars 2012, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me John D. Buote
+Avocate de l’intimée :
+Me Dominique Gallant
+____________________________________________________________________
+ORDONNANCE
+La requête présentée par l’intimée afin d’obtenir le rejet de l’appel de l’appelant est accueillie sans dépens, et l’appel de l’appelant est rejeté.
+Signé à Halifax (Nouvelle-Écosse), ce 11e jour de mai 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 27e jour de juin 2012.
+Marie-Christine Gervais
+Référence : 2012 CCI 157
+Date : 20120511
+Dossier : 2009-719(IT)G
+ENTRE :
+CHRISTOPHER J. ROPER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] Il s’agit en l’espèce d’une affaire qui perdure. L’appelant, qui est avocat, a déposé son avis d’appel le 20 février 2009. L’intimée a présenté une demande de précisions et l’appelant a demandé trois prorogations de délai avant de produire ses réponses, lesquelles ont finalement été déposées le 16 juillet 2009. Une réponse à l’avis d’appel a été produite le 24 août 2009.
+[2] Les parties se sont entendues sur certaines dates pour franchir diverses étapes de l’instance et, le 2 février 2010, le juge Jorré a rendu une ordonnance faisant état de ces dates. En particulier, l’ordonnance prévoyait que les parties devaient produire et signifier des listes de documents au plus tard le 1er avril 2010. L’intimée a déposé et signifié une liste de documents le 1er avril 2010, mais, à cette date, l’appelant n’avait encore produit aucune liste de documents.
+[3] Les parties ont comparu devant M. le juge Archambault le 30 août 2010 par suite d’une requête de l’intimée visant à obtenir le rejet de l’appel de l’appelant en raison de son défaut de se conformer à l’ordonnance rendue par le juge Jorré.
+[4] La requête en rejet de l’appel de l’appelant a été rejetée et la Cour a ordonné à ce dernier de préparer une liste de documents et de la signifier à l’intimée au plus tard le 13 septembre 2010. L’appelant a signifié sa liste de documents avec un jour de retard, soit le 14 septembre 2010. Le 13 septembre 2010 était un lundi et aucune raison n’a été offerte pour expliquer la signification tardive de la liste de documents. Les seuls documents figurant sur la liste de documents de l’appelant étaient des copies de ses déclarations de revenus relatives à 2001 (pour la période postérieure à la faillite) et à 2002.
+[5] Dans son ordonnance (laquelle est datée du 13 septembre 2010), le juge Archambault signale ce qui suit :
+[traduction]
+Le défaut, par l’appelant, de se conformer à la présente ordonnance pourrait amener l’intimée à déposer une requête afin d’obtenir le rejet de l’appel de l’appelant et cette requête pourrait être accueillie par la Cour.
+[6] D’abord par lettre, puis par requête, l’intimée a demandé que l’appel de l’appelant soit rejeté pour défaut de se conformer à l’ordonnance du juge Archambault.
+[7] Le juge Boyle a entendu la requête de l’intimée le 7 février 2011 et l’a rejetée. Dans son ordonnance, il a prévu que l’appelant pouvait, jusqu’au 18 février 2011, ajouter des documents à sa liste de documents, et il lui a ordonné de payer des dépens de 1 000 $ au plus tard le 9 mars 2011.
+[8] Le 18 février 2011, l’appelant a fait parvenir une liste de documents à l’avocate de l’intimée et, le 9 mars 2011, il a envoyé un chèque de 1 000 $. Ce chèque a par la suite été refusé pour provision insuffisante.
+[9] Tandis que l’intimée demandait la tenue d’une audience pour entendre l’appel, l’appelant demandait quant à lui la tenue d’une conférence préparatoire à l’audience. Cette demande de l’appelant a été refusée et l’audition de l’appel a été fixée au 29 septembre 2011.
+[10] Le 27 septembre 2011, l’appelant a demandé que l’audience fixée au 29 septembre 2011 soit reportée afin de lui permettre de retenir les services d’un avocat. Les parties ont comparu devant le juge en chef adjoint Rossiter le 29 septembre 2011. Ce dernier a fait droit à la demande d’ajournement de l’appelant. Il a reporté l’audition de l’appel au 16 février 2012. Il a aussi ordonné à l’appelant de payer des dépens de 3 500 $ au plus tard le 30 novembre 2011.
+[11] Le 30 novembre 2011, l’appelant a envoyé un chèque de 3 500 $ à l’avocate de l’intimée. Ce chèque a subséquemment été refusé parce que le compte sur lequel il avait été tiré était fermé.
+[12] À la date fixée pour l’audition de l’appel de l’appelant, soit le 16 février 2012, les parties ont comparu devant le juge Jorré. L’avocat de l’appelant a tenté de produire des documents qui ne figuraient pas sur la liste de documents de l’appelant.
+[13] L’audition de l’appel a été ajournée. Dans l’ordonnance qu’il a rendue le 21 février 2012, le juge Jorré a exposé en partie le long historique de la présente affaire et il a condamné l’appelant à payer des dépens de 5 500 $ au plus tard le 16 mars 2012. Il a en outre précisé que si tout ou partie des dépens de 1 000 $ adjugés par le juge Boyle ou des dépens de 3 500 $ adjugés par le juge en chef adjoint Rossiter n’étaient pas payés, ils devaient aussi l’être au plus tard le 16 mars 2012. La totalité des dépens devait être acquittée par chèque certifié.
+[14] L’ordonnance prévoyait en outre ce qui suit :
+[traduction]
+6. Si les dépens ne sont pas payés au plus tard le 16 mars 2012, l’appel sera rejeté sur demande de l’intimée étayée d’une déclaration sous serment.
+[15] L’appelant n’a pas versé la somme de 10 000 $ au plus tard le 16 mars 2012 et l’intimée a produit la présente requête afin d’obtenir le rejet de l’appel de l’appelant. L’appelant a payé la somme de 10 000 $ après que l’intimée eut déposé sa requête.
+[16] Au cours de l’audition de cette requête, il est apparu clairement que l’appelant éprouvait de sérieuses difficultés financières et que cette situation durait depuis un certain temps. Il n’a ni maison, ni automobile, ni économies ni bien corporel de quelque nature que ce soit. Il a été expulsé du condominium qu’il louait. Il a déménagé dans un autre condominium (qu’il loue aussi) situé dans le même immeuble et il est en retard dans le paiement du loyer de cette unité. Il a perdu du personnel à son cabinet juridique en raison de son incapacité à payer ses dettes. Même s’il est difficile de savoir quand ses problèmes financiers ont commencé, il semble qu’il soit incapable, depuis au moins octobre 2011, de payer ses dettes au fur et à mesure qu’elles deviennent exigibles. Il a tenté, sans succès, d’emprunter les 10 000 $ à des membres de sa famille afin de payer les dépens exigibles le 16 mars 2012. Il a finalement réussi à emprunter cette somme au moyen d’une opération privée.
+[17] Avant la présente requête, l’appelant n’a jamais laissé entrevoir qu’il éprouvait de sérieuses difficultés financières. À l’audience tenue le 16 février 2012 (à la suite de laquelle la Cour a rendu l’ordonnance du 21 février 2012 enjoignant à l’appelant de verser les dépens impayés de 10 000 $ au plus tard le 16 mars 2012), l’appelant n’a pas mentionné qu’il ne serait pas en mesure de payer les 10 000 $ au plus tard le 16 mars 2012.
+[18] Il est trop tard à l’audience pour l’appelant en défaut de paiement des 10 000 $ au 16 mars 2012 de soulever pour la première fois la question de son incapacité de payer cette somme à temps, alors que ses difficultés financières ont commencé plusieurs mois avant que la Cour ne lui ordonne de verser la somme. L’appelant est avocat et il devrait donc très bien comprendre les conséquences de son défaut de se conformer à une ordonnance claire de la Cour. Il ressort sans équivoque de l’ordonnance prononcée par le juge Jorré que l’appel serait rejeté si l’appelant ne payait pas, au plus tard le 16 mars 2012, les dépens de 10 000 $ adjugés contre lui. L’appelant n’avait pas payé cette somme au 16 mars 2012 et, comme il est prévu dans l’ordonnance du juge Jorré, son appel est donc rejeté.
+[19] L’avocate de l’intimée a également demandé des dépens supplémentaires. Cependant, comme des dépens de 10 000 $ ont déjà été adjugés à l’intimée (lesquels sont maintenant payés) relativement à une affaire dans laquelle l’appel n’a pas été entendu, aucuns dépens supplémentaires ne seront accordés.
+[20] La requête présentée par l’intimée afin d’obtenir le rejet de l’appel de l’appelant est accueillie sans dépens, et l’appel de l’appelant est rejeté.
+Signé à Halifax (Nouvelle-Écosse), ce 11e jour de mai 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 27e jour de juin 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 157
+NO DU DOSSIER DE LA COUR : 2009-719(IT)G
+INTITULÉ : Christopher J. Roper c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 28 mars 2012
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE : Le 11 mai 2012
+COMPARUTIONS :
+Avocat de l’appelant :
+Me John D. Buote
+Avocate de l’intimée :
+Me Dominique Gallant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me John D. Buote
+Cabinet : McCabe Filkin, Garvie & Hein
+Brampton (Ontario)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

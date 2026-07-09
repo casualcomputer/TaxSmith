@@ -1,0 +1,362 @@
+Title: MP Western Properties Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/231280/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-82-231280-mp-western-properties-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-05-18
+
+# MP Western Properties Inc. v. The Queen
+
+- Citation: 2017 TCC 82
+- Decision date: 2017-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2126, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MP Western Properties Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-05-18
+Neutral citation
+2017 TCC 82
+File numbers
+2013-3885(IT)G, 2013-3888(IT)G, 2014-3959(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3885(IT)G
+BETWEEN:
+MP WESTERN PROPERTIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-3888(IT)G
+AND BETWEEN:
+1073774 PROPERTIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-3959(IT)G
+AND BETWEEN:
+MADISON PACIFIC PROPERTIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on November 17, 2016 at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+David Davies
+Natasha Reid
+Counsel for the Respondent:
+Robert Carvalho
+Perry Derksen
+ORDER
+UPON Motions made by counsel for the Appellants to compel the Respondent to produce documents which the Respondent had refused to produce;
+AND UPON hearing and reading the submissions of the parties;
+IT IS ORDERED THAT the Respondent shall produce the documents which the Court has directed the Respondent to produce in the Reasons for Order.
+The Court received two white binders and a brown envelope containing unredacted copies of the Refused Documents for its review. As this Motion has been determined, those documents must be sealed in the Court’s file.
+The parties shall communicate with the Hearings Coordinator in writing, on or before June 19, 2017, to advise the Court whether the appeals will settle, whether a Settlement Conference would be beneficial or whether a hearing date should be set. In the latter event, the parties shall file a joint application to fix a time and place for the hearing in accordance with section 123 of the Tax Court of Canada Rules (General Procedure) by said date.
+Signed at Ottawa, Canada, this 18th day of May 2017.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2017TCC82
+Date: 20170518
+Docket: 2013-3885(IT)G
+BETWEEN:
+MP WESTERN PROPERTIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-3888(IT)G
+AND BETWEEN:
+1073774 PROPERTIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-3959(IT)G
+AND BETWEEN:
+MADISON PRACIFIC PROPERTIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller J.
+[1] 1073774 Properties Inc. is a wholly owned subsidiary of MP Western Properties Inc. Together they brought a motion seeking an Order pursuant to sections 70, 95, 110 and subsections 105(2) and 107(3) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) to compel the Respondent to produce documents that were refused at the joint examination for discovery (the “Western Motion”). Madison Pacific Properties Inc. brought a separate motion seeking a similar Order (the “Madison Motion”). The two motions were heard at the same time.
+Background
+[2] MP Western Properties Inc. (“Western”), 1073774 Properties Inc. (“107”) and Madison Pacific Properties Ltd. (“Madison”) are part of the same corporate group.
+[3] The issue in each appeal relates to two separate but similar series of transactions that were carried out by the Appellants’ predecessors who had unused non-capital losses, net capital losses, scientific research & experimental development (“SRED”) expenses and/or investment tax credits (“ITCs”) (collectively referred to as the “Tax Attributes”).
+[4] The appeal by Madison is in respect of its taxation years ending December 31, 2009, December 31, 2011 and August 31, 2013 and relates to a series of transactions that occurred in 1998 (the “1998 Transactions”). The parties to the 1998 Transactions were Vanac Development Corp. (“Vanac”), Madison Venture Corp. (“Madison Venture”) and Princeton Mining Corporation (“Princeton”). In 1998, Princeton was a mining company whose shares were publicly-traded on the TSX. It was insolvent but it had $9.9 million of non-capital losses and $100 million of net capital losses. Princeton was the predecessor to the Appellant Madison.
+[5] The appeal by Western is in respect of its taxation year ending December 31, 2008 and the appeal by 107 is in respect of its taxation years ending December 31, 2008, 2009 and 2010. The Western and 107 appeals relate to a series of transactions that took place in 2006 (the “2006 Transactions”). At the time, the predecessor to Western, Fuel Cell Technology Corporation (“Old Western”) was publicly traded on the TSX Venture Exchange. Prior to the 2006 Transactions, Old Western together with its then wholly-owned subsidiary, Fuel Cell Technologies Ltd., the predecessor to 107 (“Old 107”) engaged in an unprofitable business of developing solid oxide fuel cells. Together, they had accumulated significant amounts of unused non-capital losses, SRED expenses and/or ITCs from prior years.
+[6] The predecessors to the Appellants, as the target companies in the 1998 Transactions and the 2006 Transactions, each entered into a similar court-sanctioned plan of arrangement and a subsequent asset vend-in agreement with the following entities (collectively called the “Purchasers”):
+a) in the 1998 Transactions, Princeton entered into agreements with Vanac, which carried on a profitable real estate business, and Madison Venture, which carried on a management and investment holding business, as well as their affiliates; and,
+b) in the 2006 Transactions, Old Western and Old 107 entered into agreements with the present Appellant Madison.
+[7] While the precise mechanisms and the entities involved in the two sets of transactions were different, the end result of the transactions share the following common elements:
+a) The Purchasers obtained either on their own or collectively, less than 50% of the voting shares of the target public companies, i.e. Princeton and Old Western, but more than 90% of the non-voting participating shares. Whereas, the pre-arrangement shareholders of Princeton and Old Western held more than 50% of their voting shares but less than 10% of the total equity of the companies.
+b) The non-voting shares had “coattail provisions” so they could be converted to voting shares, at the option of the shareholder, if a specified takeover bid was made to the holders of the voting shares.
+c) The predecessors to the Appellants, after changing their corporate names to their current names, carried on the existing profitable businesses of the Purchasers using the business assets that were transferred to them pursuant to the asset vend-in agreements.
+[8] In filing their income tax returns during the years in issue, the Appellants applied some or all of the Tax Attributes to shelter income derived from their profitable real estate businesses.
+[9] The Minister of National Revenue (the “Minister”) reassessed each of the Appellants to (i) deny the Tax Attributes claimed by them; and, (ii) “notionally” delete any unused Tax Attributes available for carry-forward.
+[10] In reassessing the Appellants, the Minister relied on the following alternative grounds:
+a) The primary reassessment position was that, notwithstanding that the Purchasers obtained less than 50% of the voting shares of the target companies in the 1998 and 2006 Transactions, they had acquired “control” of the Appellants’ predecessors such that the acquisition of control rules under subsections 111(1), 111(4) and 111(5) of the Income Tax Act (the “Act”) applied.
+b) The secondary ground of reassessment was that the “coattail provisions” on the non-voting shares gave rise to a right described in paragraph 251(5)(b) and subsection 256(8) of the Act applied to deem the rights to be exercised.
+c) The third assessing position was that the GAAR applied to deny the tax benefit obtained by using the Tax Attributes.
+The Motions
+[11] During the audit stage of these cases, counsel for the Appellants filed a request pursuant to the Access to Information Act, RSC 1985, c A-1 (the “ATIP” requests) with each of Finance and the Canada Revenue Agency (“CRA”) seeking all written communication for the period January 1, 2001 to 2012 between Finance and CRA that related to the utilization and/or trading of tax losses. The requests were not specific to the Appellants and were made in the name of counsel for the Appellants.
+[12] On January 3, 2014, counsel for the Appellants made another ATIP request to the CRA but in the name of Western for all records relating directly or indirectly to Western for taxation years ending December 31, 2008 and subsequent.
+[13] In response to the ATIP requests, counsel for the Appellants received hundreds of pages of documents. Many were redacted either in full or in part based on various exemptions under the ATIP legislation. The Appellants listed these documents in their Lists of Documents and, at the examination for discovery, requested unredacted copies of the documents. The Appellants now request that the Respondent be compelled to give them the unredacted version of many of those documents.
+[14] There were three main categories of documents that were requested and refused (the “Refused Documents”):
+a) In the case of Western and 107 only, the requests were for the production of all documents in the CRA’s audit file for the Appellants. The requests included draft documents but excluded documents protected by solicitor-client privilege. These are Requests #5 and #7 in the Western Motion.
+b) Requests to produce documents that related to policies underlying the provisions of the Act that the Minister said were abused so that the GAAR applied - the “CRA-Finance Loss Utilization Correspondence Record”.
+c) Requests to produce unredacted copies of documents that had been received as a result of the ATIP requests to CRA and Finance (Request #3 and #4 in the Western Motion and Request #20 and #21 in the Madison Motion).
+[15] It is the Appellants’ position that all documents which are specific to the Western Appeals should be disclosed. The Minister considered these documents relevant to the Appellants’ audit by the CRA and they should be produced for the purposes of discovery: HSBC Bank Canada v The Queen, 2010 TCC 228 at paragraph 15.
+[16] The Appellants stated that the unredacted portions of the documents received in response to the CRA and Finance ATIP requests indicated that the information is relevant to the issues in these appeals. The documents would allow the Appellants to probe the pleadings, determine the case it has to meet and any weaknesses in the Respondent’s case. These documents contain letters from CRA to Finance in which CRA lobbied Finance to amend the Act with respect to subsection 111(5). There is one letter dated February 1, 2001 in which CRA determined that GAAR did not apply to a “reverse takeover”. The transactions involved in the present appeals have been referred to as “reverse takeovers”.
+[17] In 2013, there were substantial amendments to the sections of the Act which are at issue in these appeals. It is the Appellants view that unredacted documents from the CRA and Finance would address the policy behind those sections prior to 2013.
+[18] The Respondent opposed the Motions on the following bases:
+a) Two of the ATIP requests were not specific to the Appellants. There was no evidence that the Refused Documents received as a result of these ATIP requests were prepared in the context of the Appellants’ audit or were considered by officials who were charged with the audit of the Appellants or who were consulted regarding the application of the GAAR. The Refused Documents received pursuant to these requests are not relevant in the circumstances of these appeals: Superior Plus Corp v The Queen, 2015 TCC 132 at paragraph 19; affirmed by The Queen v Superior Plus Corp, 2015 FCA 241 at paragraph 8. I will refer to this Tax Court decision as Superior Plus No. 1.
+b) The Appellants’ request for all correspondence between Finance and CRA for the period 2001 to 2012 is overbroad, vague, abusive and would place an undue hardship on the Respondent. It constitutes a fishing expedition: John Fluevog Boots & Shoes Ltd v The Queen, 2009 TCC 345 at paragraph 18. Moreover, the Appellants’ requests do not seek extrinsic aids in a GAAR case rather they seek opinions on the meaning of the term “control” which is a question of law.
+c) Some of the Refused Documents in Western’s audit file are draft proposal letters. Western has received the final proposal letter. The Minister or his employees’ mental process in making an assessment are not relevant: R v Riendeau, [1991] 2 CTC 64 (FCA) at paragraph 4; Rezek v Canada, [2000] 2 CTC 2476 (TCC) at paragraph 16.
+d) The only documents from Western’s audit file that were not disclosed were those covered by solicitor/client privilege; those that were draft documents; and, those that contained third party taxpayer information. Documents with third party taxpayer information are prohibited from disclosure by section 241 of the Act. In addition, the third party taxpayer information is not relevant in the circumstances of the Appellants’ appeals.
+General Principles of Discovery
+[19] There is considerable jurisprudence with respect to the principles applicable to an examination for discovery: Kossow v R, 2008 TCC 422 at paragraph 60; HSBC Bank Canada v R, 2010 TCC 228 at paragraph 13; Teelucksingh v R, 2010 TCC 94 at paragraph 15.
+[20] While these principles serve as guidelines, the analysis does not simply end with the application of a general principle. There is “no magic formula”. Whether, as here, a particular document ought to be produced at discovery is largely a fact-based inquiry that must be assessed on a case-by-case basis: R v Lehigh Cement Limited, 2011 FCA 120 at paragraphs 24 and 25.
+[21] The Appellants’ request for disclosure is supported by the following general principles:
+a) Relevancy on discovery ought to be “broadly and liberally construed and wide latitude should be given”: Baxter v Canada, 2004 TCC 636 at paragraph 13.
+b) Relevancy at discovery is a lower threshold than that at trial: 4145356 Canada Ltd v R, 2010 TCC 613. In fact, Rule 90 of the Rules expressly provides that the production of a document at discovery is not an admission of its relevance or admissibility.
+c) All documents relied on or reviewed by the Minister in making his assessment must be disclosed to the taxpayer: Amp of Canada v R, [1987] 1 CTC 256 (FCTD).
+d) Documents that lead to an assessment are relevant: HSBC v The Queen, (supra) at paragraph 15.
+e) Documents in CRA files on a taxpayer are prima facie relevant, and a request for those documents is itself not a broad or vague request: HSBC (supra) at paragraph 15.
+f) The examining party is entitled to have any information, and production of any documents, that may fairly lead to a train of inquiry that may directly or indirectly advance his case, or damage that of the opposing party: Lloyd M. Teelucksingh v The Queen, 2010 TCC 94 at paragraph 15.
+[22] Whereas, the Respondent’s refusal to disclose the documents is supported by the following general principles:
+a) An indiscriminate request for the production of documents in the hope of uncovering helpful information or the hope of it leading to a train of inquiry is not permitted: Harris v The Queen, 2001 DTC 5322 (FCA) at paragraph 45; Fluevog (supra) at paragraph 18.
+b) Earlier drafts of a final position paper do not have to be disclosed. The mental process of the Minister or his officials in raising the assessments is not relevant: Rezek (supra) at paragraph 16.
+c) A party is entitled to know the position of the other party with respect to an issue of law, but it is not entitled to have access to either the legal research or the reasoning by which that position is arrived at: Teelucksingh (supra) at paragraph 15.
+d) Even where relevance is established, the Court has a residual discretion to disallow the production of documents. This principle was described in Lehigh (supra) at paragraph 35 as follows:
+The exercise of this discretion requires a weighing of the potential value of the answer against the risk that a party is abusing the discovery process. See Bristol-Myers Squibb Co. v. Apotex Inc. at paragraph 34. The Court might disallow a relevant question where responding to it would place undue hardship on the answering party, where there are other means of obtaining the information sought, or where “the question forms part of a ‘fishing expedition’ of vague and far-reaching scope”: Merck & Co. v. Apotex Inc., 2003 FCA 438, 312 N.R. 273 at paragraph 10; Apotex Inc. v. Wellcome Foundation Ltd., 2008 FCA 131, 166 A.C.W.S. (3d) 850 at paragraph 3.
+[23] Maneuvering through these competing principles in the context of these motions present special challenges due to the unique nature of a GAAR assessment.
+Documentary Discovery in a GAAR Appeal
+[24] The starting point of any analysis concerning the relevancy of a document for the purposes of discovery requires an examination of the allegations of facts and the issues raised in the pleadings: Smithkline Animal Health Inc v Canada, 2002 FCA 229.
+[25] The Notices of Appeal define two issues:
+a) Whether the Appellants acquired “control” within the meaning of subsections 111(4) and (5) of the Act; and,
+b) Whether the GAAR applied to the 1998 transactions and the 2006 transactions.
+[26] The Respondent addressed these issues in the Replies and she pled the Policy underlying the relevant provisions.
+[27] In the pleadings for Western and 107, the Appellants did not raise an issue with respect to the Policy behind subsections 111(4) and (5). They did not file an Answer to the Respondent’s pleadings. However, Madison did question the Policy behind subsections 111(4) and (5) in its Notice of Appeal.
+[28] Most recently, in Superior Plus No.1, Hogan J. dealt with a very similar refusals motion in the context of a GAAR assessment where the policy behind the various Streaming Rules was at issue. In that case, Hogan J ordered the disclosure of all refused documents that either were prepared in the context of the taxpayer’s audit or were considered by the CRA officials who had charge of the audit or who were consulted during the audit: SuperiorPlus No.1 at paragraph 19.
+[29] In a GAAR case, documents, not specific to the taxpayer but relating to the policy of the Act, may be ordered to be disclosed in certain circumstances. In Lehigh (supra), the circumstances were that the Crown disclosed a memorandum which dealt with the development of the general policy concerning the section in issue in that appeal. The Crown was ordered to disclose all memoranda that were made subsequent to the disclosed memorandum. This decision was affirmed by the Federal Court of Appeal – R v Lehigh Cement Limited, 2011 FCA 120.
+[30] In Superior Plus (supra), the Federal Court of Appeal referred to its decision in Lehigh as follows:
+As was held by this Court in Lehigh Cement Ltd. v. R., 2011 FCA 120 (F.C.A.) [Lehigh] in like circumstances, information pertaining to the policy of the Act, even where it is not taxpayer specific, can be relevant on discovery. We accept that an important consideration in that case was that the Crown had itself established the relevance of the documents sought by disclosing an internal policy memorandum on the subject (Lehigh at para. 41). However, relevance in the present case is no less established by the Tax Court judge's finding that the refused documents were either prepared in the context of the audit of Superior Plus or considered by officials who were involved in the audit (Reasons at para. 19). We can see no basis for distinguishing Lehigh. As always, the trial judge will be the ultimate arbiter of information garnered at the discovery stage. (emphasis added)
+[31] In this appeal, there was evidence in the Western Motion that the auditor had considered one of the Refused Documents. I will speak to this document in paragraph 35 of my Reasons.
+[32] In tax appeals, the mental process of the Minister and her officials are normally not relevant and the Respondent may not be compelled to produce draft documents: Rezek (supra) paragraph 16. However, the issue in Rezek was not a GAAR assessment. It is my view that in a GAAR appeal, draft documents prepared in the context of a taxpayer’s audit or considered by officials involved in or consulted during the audit and assessment of the taxpayer should be disclosed. They inform the Minister’s mental process leading up to an assessment. They may also inform the Minister’s understanding of the policy at issue. As Hogan J stated, these documents in the end may or may not be relevant or admissible at trial, but they can certainly lead to a train of inquiry that meets the lower threshold of disclosure in discovery: Superior Plus No.1 at paragraph 35.
+[33] The draft proposal letters in the Western Motion are to be given to the Appellant Western.
+[34] At the hearing, counsel for the Respondent gave me sealed envelopes with unredacted copies of the Refused Documents. Counsel stated that he would keep the draft documents from the audit file for Western and he would produce them if I so ordered. However, there were several draft proposal letters in the sealed envelopes and I will speak to them individually in my reasons. If there were any other draft proposal letters in Western’s file, they are to be given to the Appellant Western.
+Refused Documents
+A. THE WESTERN MOTION
+[35] The Refused Documents in the Western Motion are as follows:
+Request #3: Provide unredacted versions of the following documents for Western
+Document 17: Copy of chain of emails dated January 31, 2008
+Objection: There is no evidence the document was prepared in the context of the audit of Western or considered by officials during the audit.
+Decision: Appellant received a redacted copy of Document 17 as a result of the CRA ATIP request which was not specific to the Appellants. The redacted portion of the document concerns irrelevant information of other taxpayers which is protected by section 241. The document does not have to be produced.
+Document 18: Copy of letter dated February 18, 2008 from Richard Montroy, CRA to Gerard Lalonde, Finance
+Objection: The Appellant obtained a redacted copy as a result of the CRA ATIP request which was not specific to the Appellants. There is no evidence the document was prepared in the context of the audit of Western or considered by the officials during the audit.
+Decision: Document 18 does not have to be produced for the same reason given for Document 17. I note that this document was reviewed by Hogan J in Superior Plus No.1 and was not produced. See p.21, Document 17 of that decision.
+Document 20 and
+Document 60: Copy of letter dated March 8, 2004 from Roy Shultis, CRA to Len Farber, Finance. Document E2004-006210
+Objection: There is no evidence the document was prepared in the context of the audit for the Appellants or was considered by the officials during the audit. Some of the redacted portion concerns other taxpayers. The document does not mention any of the Appellants.
+Decision: Document 20 was partially redacted and was received as a result of the CRA ATIP request that was not specific to the Appellants. However, this same document was received as a result of the Western ATIP request. It is Document 60 and it was totally redacted in Western’s ATIP request. This document was in Western’s file and it was considered by CRA during the audit of Western. The name of the taxpayer that is mentioned in the document should be redacted. Then, the document must be produced. There were no attachments to the letter and it was produced twice at Document 60.
+Document 21: Copy of letter dated February 1, 2001 from Roy Shultis, CRA to Len Farber, Finance. Document No. E2001-0068105
+Objection: The Appellants obtained a redacted copy of this letter as a result of the CRA ATIP request which was not specific to the Appellants. Some of the redacted portion of the document contains taxpayer information that is protected under section 241.
+Decision: There is no evidence that this document was considered by the CRA officials during the audit of Western. Some of the redactions contain protected taxpayer information. The document does not have to be produced.
+Document 22: Copy of chain of emails between Tom Britton, CRA, Beth Schnurr, CRA and Phil Tomsett, CRA dated November 5, 2009 to January 5, 2011. There is a draft proposal letter for Western attached to the emails.
+Objection: Draft Proposal Letter and the Appellants have the final Proposal Letter.
+Decision: The emails and draft proposal letter should be produced.
+Document 23: Chain of emails between Tom Britton, CRA and Yee Man Mui, CRA dated May 10, 2011 to July 27, 2011.
+Decision: There are no redactions on this document.
+Document 24: Copy of chain of emails between Tom Britton and Brent Percival dated July 21, 2011 attaching draft proposal letter dated March 25, 2013.
+Objection: Draft Proposal Letter and Western has the final Proposal Letter
+Decision: The draft proposal letter must be produced. I note that it is included twice in Document 24 – a copy as sent by Tom Britton and a copy with suggested changes.
+Document 26: Draft Proposal Letter dated July 27, 2011
+Decision: The draft proposal letter should be produced. There are 25 pages in this letter.
+Document 36: Memo for File
+Objection: The redacted portion of the document concerns other taxpayers; their information is protected under section 241.
+Decision: The redacted information is not relevant to the Appellants. It is irrelevant taxpayer information and does not have to be disclosed.
+Document 37: Audit Report for Western that relates to management fees and change in permanent establishment.
+Objection: The redacted portion of the document concerns other taxpayers and the information is protected under section 241.
+Decision: The redacted portions of the document contain third party information that is protected under section 241. The information is not relevant to the Appellants or to the issue in these appeals.
+Document 40: Copy of chain of emails between Tom Britton, CRA and Carole Benoit, Justice
+Objection: The Appellant obtained a redacted copy as a result of the Western ATIP request. The redacted portions concern other taxpayers. The document is subject to solicitor-client privilege.
+Decision: The redactions should not be produced. The document is subject to solicitor-client privilege.
+Document 45: Copy of emails between Mark Symes, CRA, Davine Roach, Finance, Gurinderpal Grewal and Robert Duong dated December 7, 2012 and attachment
+Objection: The Appellants obtained a copy as a result of the CRA ATIP request which was not specific to the Appellants. Some of the redacted portions of the document contain taxpayer information that is protected under section 241. There is no evidence that the document was prepared in the context of the audit of the Appellants or considered by the officials during the audit.
+Decision: There is no evidence that this document was prepared in the context of the Appellants audit or that it was considered by the officials during the audit. It contains protected taxpayer information. The redacted portions should not be produced.
+Document 47: Copy of document 2012-0472191, letter from Mark Symes, CRA to Shawn Porter, Finance dated December 21, 2012
+Objection: The Appellants obtained a copy as a result of the CRA ATIP request which was not specific to the Appellants. Some of the redacted portions of the document contain taxpayer information that is protected under section 241. There is no evidence that the document was prepared in the context of the audit of the Appellants or considered by the officials during the audit.
+Decision: The redacted portions should not be produced for the same reasons given in Document 45.
+Document 48: There are no redactions in this document
+Document 49: There are no redactions in this document
+Document 52: Draft proposal letter dated March 25, 2013
+Objection: Draft Proposal Letter
+Decision: The draft proposal letter should be produced. There are two draft letters dated March 4, 2013 and one draft letter dated March 25, 2013.
+Request #4 - Provide an unredacted version of the internal ruling letter referred to as an attachment in Document 40 as well as any other attachments to Documents 17,18, 20, 21, 22, 23, 24, 26, 36, 37, 40, 45, 47, 48, 49, 52 and 60.
+Objection: There were no attachments to the Documents 17, 20, 23, 36, 37, 45, and 48. The attachments to Documents 18, 21, 24, 26, 40, 47, and 60 were not produced for the same reasons the unredacted copies of the underlying documents were not produced. The attachment to Document 22 is a draft proposal letter. The attachment referred to in document 40 is identical to Document 60 and is not produced for the same reason that Document 60 was refused. There is no redaction to Documents 23 and 49. The attachment to Document 52 is a draft proposal letter.
+Decision: There are no attachments to the Documents 17, 18, 20, 23, 36, 37, 40, 45, 47, 48,
+The redactions to Document 21 do not have to be produced and the attachment does not have to be produced.
+The redactions to Document 40 do not have to be produced.
+Documents 22, 24, 26 should be produced with their attachments.
+Request #5 - Make best efforts to ensure that the Appellant is provided with complete correspondence between Mr. Britton and the officials in the CRA, the GAAR committee or head office.
+Objection – all correspondence, other than correspondence in relation to draft documents and documents protected by solicitor-client privilege was disclosed in response to Request #5.
+Decision - The correspondence in relation to draft proposal letters and the draft proposal letters in Request #5 in the Western Motion are to be given to Western.
+Request #6 - Provide unredacted version of Document 19 and provide full record of the correspondence during the period 2001 to 2012 between the Department of Finance and the CRA, including emails, memos and letters, with respect to the CRA’s perceived deficiency in the legislative scheme dealing with tax losses.
+Objection – Document 19 has not been redacted. This request is vague, overbroad and an impermissible fishing expedition. It will not lead to any permissible extrinsic aids but only to opinions of individuals regarding their opinions on a very broad legislative scheme.
+Decision – Document 19 was not in the binder with the unredacted documents. The Appellant received a copy of Documents 17, 18, 20, 21, 45 and 47 as a result of the CRA ATIP request that was not specific to the Appellants. There was no evidence that any of these documents were prepared in the context of the Appellants’ audit. There was evidence that only Document 20 was considered during the audit of Western. The Appellants request is a “fishing expedition of vague and far-reaching scope”. It is overly broad and it would be an onerous task to satisfy. Any documents obtained would contain the opinions of the writers who were not involved in the audit of the Appellants. This search does not have to be undertaken. The request is refused.
+Request #7 - To the extent not already provided, provide Mr. Britton’s complete audit file in terms of notes, correspondence and memoranda.
+Objection – Further documents were given to the Appellants in response to Request #7. Some correspondence was withheld on the basis of solicitor-client privilege and draft proposal letters were withheld.
+Decision - I have reviewed the documents marked Requests #5 and #7 in the sealed envelope and they are all covered by solicitor-client privilege except one. There was an email string between Brent Percival and Tom Britton dated February 22 and 27, 2013 with comments, questions and suggestions concerning Mr. Britton’s draft of his “closing letter”. This document should be produced.
+B. THE MADISON MOTION
+[36] The Refused Documents in the Madison Appeal are as follows:
+Request #20 - Produce unredacted copies of the documents at Tabs 77, 78, 80, 81 and 108.
+Document 77 –This document is the same as that at Document 17 in Request #3 and #4 in Western.
+Decision –The decision is the same as was given at Document 17 for Western.
+Document 78 –This document is the same as that at Document 18 in Request #3 and 4 in Western.
+Decision –The decision is the same as was given at Document 18 for Western.
+Document 80 –This document is the same as that at Document 20 in Request #3 and #4 in Western and Document 60 in Request #3.
+Decision –The decision has already been made for this document at Document 60 for Western.
+Document 81 –This document is the same as that at Document 21 in Request #3 Western.
+Decision –The decision has already been made for this document at Document 21 for Western.
+Document 108 –The Appellant obtained these documents as a result of the Finance ATIP request which was not specific to the Appellants. There were 26 documents included in Document 108.
+Document
+Decision
+#441
+Agenda for meeting between Finance and CRA, August 31, 2005 and email from Ryan Hall to Lawrence Purdy
+Agenda is not redacted. There is no evidence that the document was considered by officials of CRA during the audit of the Appellants. The redacted portions do not have to be produced.
+#444
+Letter dated December 6, 2004 from Jackson MacGillivray, CRA to Ryan Hall, Finance; E 2001-0068105, referral to Finance February 1, 2001; Letter dated October 22, 1992 from Len Farber to R.J.L. Read.
+The redacted portions do not have to be produced for the same reason given for #441. In addition, the redacted portions contain taxpayer information which is protected by s.241.
+#488
+Tax Loopholes Identified July 2011
+The redacted portions do not have to be produced for the same reason given for #441.
+#526
+Canada Revenue Agency Proposals for 2012 Legislative Priorities
+The redacted portions do not have to be produced for the same reason given for #441.
+#427
+Letter dated July 1, 2001 from Len Farber to Roy Shultis
+The redacted portion does not have to be produced for the same reason given for #441. In addition it contains taxpayer information which is protected by s.241.
+#429
+Letter dated August 20, 2002 from Len Farber to Roy Shultis.
+The redacted portion does not have to be produced for the same reason given for #441. In addition it contains taxpayer information which is protected by s.241.
+#192
+Document 2001-006790
+The redacted portion does not have to be produced for the same reason given for #441. In addition it contains taxpayer information which is protected by s.241.
+#199
+Chain of emails dated September 1, 2011 between Davine Roach, Finance and Grant Nash, Finance.
+The redacted portion does not have to be produced for the same reason given for #441.
+#202
+Email dated June 12, 2009 from Ed Short, Finance to Gerard Lalonde, Finance
+The redacted portion does not have to be produced for the same reason given for #441.
+#206
+Email dated May 21, 2009 from Lori Carruthers, Finance to Ed Short, Finance.
+There are no redactions in this document.
+#224
+Email chain dated November 20, 2012 between Davine Roach, Finance and Kerry Harnish, Finance
+The redacted portion does not have to be produced for the same reason given for #441.
+#225
+Email dated January 30, 2012 from Kerry Harnish to Davine Roach.
+The redacted portion does not have to be produced for the same reason given for #441. In addition it contains taxpayer information which is protected by s.241.
+#226
+Email dated December 20, 2011 from Gurinderpal Grewal to Fiona Harrison
+The redacted portion does not have to be produced for the same reason given for #441.
+#228
+Chain of emails dated March 20, 2009 between Kerry Harnish and Yves Moreno.
+The redacted portion is not relevant to the Appellants’ appeals.
+#243
+Chain of emails dated March 12, 2013 between Davine Roach and Grant Nash.
+There are no redactions in document #243.
+#262
+Letter dated February 22, 2011 from Brian McCauley, CRA to Geoff Trueman, Finance with an attachment.
+The redacted portions do not have to be produced for the same reason given for #441.
+#294
+Letter dated July 14, 2006 from Marc Vanasse, CRA to Brian Ernewein, Finance with an attached memorandum
+The redacted portion does not have to be produced for the same reason given for #441. In addition it contains taxpayer information which is protected by s.241.
+#303
+Document 2012-044556 (dated August 27, 2012) from Katie Campbell to the GAAR Committee.
+The redacted portion does not have to be produced for the same reason given for #441. In addition it contains taxpayer information which is protected by s.241.
+#325
+Document E 2004-0062101F11 dated March 8, 2004 authored by Jackson MacGillivray.
+The redacted portion does not have to be produced for the same reason given for #441.
+#334
+Memorandum dated May 25, 2004 from Fiona Harrison, CRA, to the GAAR Committee.
+The redacted portion does not have to be produced for the same reason given for #441. In addition it contains taxpayer information which is protected by s.241.
+#343
+Chain of emails dated May 26, 2004 from Fiona Francis, CRA, to Mark Symes.
+The redacted portion does not have to be produced for the same reason given for #441. In addition it contains taxpayer information which is protected by s.241.
+#350
+Email dated September 8, 2005 from Marc Vanasse, CRA to Brian Ernewein, Finance with an attachment.
+There were no redactions to this document.
+#128
+Chain of emails dated December 15, 2005 from Marc Symes, CRA to Ryan Hall, Finance with attachments
+The redacted portions at #128 do not have to be produced for the same reason given for #441. In addition it contains taxpayer information which is protected by s.241. Document E2004-006210 is an attachment to these emails and it has been ordered to be produced in Western document #60.
+#412
+Charts with taxpayer information
+The redacted portion does not have to be produced for the same reason given for #441. In addition it contains taxpayer information which is protected by s.241.
+#015
+Email chain dated January 7, 2013 from Gurinderpal Grewal, Finance to Mark Symes, CRA
+The redacted portion does not have to be produced for the same reason given for #441.
+#051
+Email chain dated May 19, 2011 from Venetia Putureanu, Finance to Davine Roach and Kerry Harnish, CRA with attachment
+The redacted portion does not have to be produced for the same reason given for #441. In addition, the redactions on pages 4 and 15 contain taxpayer information which is protected by s.241.
+Request #21 -Provide any attachments to the Access to Information Act documents
+I have already addressed this request within my decision for Request # 20.
+Request #23 -(i) Produce (unredacted) copies of correspondence between the legislative policy division, income tax rulings directorate and/or GAAR Committee of the CRA and the legislative division of the Department of Finance for the period 2001 through 2012 with respect to the legislative scheme within the Income Tax Act dealing with so-called corporate loss trading, tech wrecks, transfer of corporate losses or whatever the colloquial terms might be, including any emails, memos and letters.
+(ii) In producing the requested documents, identify the position(s) that each person (who is referenced in the documents, holds or held at the time to the extent that it is not ascertainable from the document.
+Decision: The redacted documents were produced pursuant to an ATIP request in counsel’s name. In the context of this ATIP request, there was no evidence that any of the documents were prepared in the context of the audit of the Appellants or considered by the officials during the audit. The Appellants request is a “fishing expedition of vague and far-reaching scope”. It is overly broad and it would be an onerous task to satisfy. Any documents obtained would contain the opinions of the writers who were not involved in the audit of the Appellants. This search does not have to be undertaken. The request is refused.
+[37] The motions are allowed in accordance with the above Reasons. There are no costs awarded in these motions as success is divided.
+Signed at Ottawa, Canada, this 18th day of May 2017.
+“V.A. Miller”
+V.A. Miller J.
+CITATION NO.:
+2017TCC82
+COURT FILE NO.:
+2013-3885(IT)G
+2013-3888(IT)G
+2014-3959(IT)G
+STYLE OF CAUSE:
+MP WESTERN PROPERTIES INC. AND THE QUEEN
+1073774 PROPERTIES INC. AND THE QUEEN
+MADISON PACIFIC PROPERTIES INC. AND THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+November 17, 2016
+REASONS FOR ORDER BY:
+The Honourable Justice Valerie Miller
+DATE OF ORDER:
+May 18, 2017
+APPEARANCES:
+Counsel for the Appellant:
+David Davies
+Natasha Reid
+Counsel for the Respondent:
+Robert Carvalho
+Perry Derksen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Davies
+Natasha Reid
+Firm:
+Thorsteinssons LLP Tax Lawyers
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

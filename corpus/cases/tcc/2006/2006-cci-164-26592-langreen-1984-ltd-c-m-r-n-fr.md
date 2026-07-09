@@ -1,0 +1,113 @@
+---
+title: "Langreen (1984) Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26592/index.do"
+last_modified: "2006-03-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 164"
+citation2: ""
+neutral_citation: "2006 CCI 164"
+decision_date: "2006-03-23"
+language: "fr"
+item_id: "26592"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3534
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:46:44.692000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4d4ec40ce2b7a820d1ddc5d1d97f80c42a32b6696b99553dd8446b3169de15d4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Langreen (1984) Ltd. c. M.R.N.
+
+- Citation: 2006 CCI 164
+- Decision date: 2006-03-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3534, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Langreen (1984) Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-23
+Référence neutre
+2006 CCI 164
+Numéro de dossier
+2005-1114(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2006CCI164
+Date : 20060323
+Dossier : 2005-1114(EI)
+ENTRE :
+LANGREEN (1984) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Rendus oralement à l’audience
+à Winnipeg (Manitoba), le 17 février 2006.)
+La juge Woods
+[1] Je vais maintenant prononcer les motifs d’une ordonnance rendue relativement à une requête présentée par l’intimé dans le cadre d’un appel interjeté par Langreen (1984) Ltd. sous le régime de la Loi sur l’assurance‑emploi.
+[2] La question en litige dans cet appel est celle de savoir si Victor Neudorf, qui est lié à l’appelante, exerçait un emploi assurable pour cette dernière.
+[3] L’intimé tente d’obtenir une ordonnance qui enjoint à l’appelante de répondre à la demande qui lui est faite dans une lettre datée du 4 janvier 2006 de fournir des doubles des documents sur lesquels elle entend s’appuyer à l’audience, et qui enjoint à l’appelante et à M. Neudorf de remplir les questionnaires qui leur ont été envoyés, mais qu’ils n’ont pas retournés. Par un message électronique daté du 27 janvier 2006, l’avocat de l’appelante a refusé d’accéder à la demande de l’intimé.
+[4] À titre subsidiaire, l’intimé demande à la Cour de prononcer une ordonnance l’autorisant à procéder à l’interrogatoire préalable de [traduction] « l’appelant, Victor Neudorf ». Selon l’article 18 des règles de la Cour canadienne de l’impôt applicables, la Cour peut ordonner qu’un dirigeant de l’appelante fasse l’objet d’un interrogatoire préalable. Je dois signaler que l’appelant n’est pas Victor Neudorf, mais l’employeur. Il semble s’agir d’une erreur faite par insouciance, dont personne n’a fait mention à l’audience.
+[5] L’intimé demande le prononcé de cette ordonnance pour connaître la thèse avancée par l’appelante et ne pas être pris au dépourvu à l’audience.
+[6] J’ai entendu la requête immédiatement après avoir rendu de vive voix les motifs concernant une requête analogue présentée dans le cadre d’un appel interjeté par Kowalchuk Electric & Mechanical Ltd. Dans cette affaire, j’ai accordé la demande d’interrogatoire préalable produite par la partie intimée.
+[7] À mon avis, il n’y a aucune raison, en l’espèce, de s’écarter de la conclusion que j’ai tirée dans l’affaire Kowalchuk. La difficulté tient au fait que l’appelante a omis de fournir à l’intimé des renseignements suffisants pour lui permettre de comprendre la thèse qu’elle avance. Pour les mêmes raisons que celles énoncées dans la décision Kowalchuk, il convient d’ordonner la tenue d’interrogatoires préalables en l’espèce.
+[8] Je devais d’abord prononcer les présents motifs il y a deux jours. Après avoir entendu la requête, j’ai mentionné aux parties que la présente affaire me paraissait semblable à l’affaire Kowalchuk, mais que j’attendrais au lendemain pour trancher la question. Juste au moment où je m’apprêtais à rendre les motifs, l’avocat de l’appelante, Me Deryk Coward, a déclaré qu’il souhaitait formuler des observations supplémentaires sur la requête dont je suis saisie et sur l’affaire Kowalchuk. Pour l’essentiel, Me Coward proposait une solution de compromis de manière à éviter les interrogatoires préalables. Il a signalé que la question était importante non seulement pour ces deux appels, mais aussi pour de nombreux autres dont il s’occupe.
+[9] La proposition faite par Me Coward vise des mesures analogues à celles que demande l’intimé dans la présente requête à titre de solution de rechange aux interrogatoires préalables. Je ne sais pas exactement pourquoi l’appelante n’a pas simplement fait savoir qu’elle acceptait ce que l’intimé demandait puisque ce dernier aurait alors vraisemblablement retiré la requête. Il n’en demeure pas moins que cela n’a pas été fait. À mon sens, la proposition de l’appelante a été présentée trop tardivement pour que la Cour examine une solution de compromis révisée.
+[10] Je vais donc rendre une ordonnance selon laquelle l’intimé peut procéder à un interrogatoire oral d’un dirigeant de l’appelante. L’ordonnance autorisera également l’appelante à effectuer un interrogatoire oral d’un dirigeant de l’intimé. Selon l’ordonnance, les interrogatoires préalables et les engagements en découlant devront être terminés au plus tard le 14 juillet 2006 et l’audition du présent appel est fixée à une nouvelle date, soit le 22 août 2006.
+[11] Au moment de l’audition de la présente requête, l’avocat de l’appelante a demandé que je précise dans mes motifs que les interrogatoires préalables ne sont pas automatiquement indiqués dans tous les appels interjetés sous le régime de la Loi sur l’assurance‑emploi. J’abonde dans ce sens. Dans la plupart des appels en matière d’assurance‑emploi dont la Cour est saisie, il est souhaitable que les parties travaillent ensemble de manière à éviter la tenue d’interrogatoires préalables.
+[12] L’avocat de l’appelante a en outre demandé à la Cour de prononcer une ordonnance d’adjudication des dépens relativement aux interrogatoires préalables. L’avocate de l’intimé a avancé que je n’avais pas compétence pour rendre une ordonnance de cette nature, mais elle a signalé que l’intimé paierait les frais afférents au sténographe judiciaire ainsi que l’allocation de présence versée à un appelant pour l’interrogatoire oral subi par le dirigeant de l’appelante.
+[13] À la lumière de l’ensemble des circonstances de la présente affaire, je refuse de rendre une ordonnance quant aux dépens.
+[14] Enfin, je signale que ma conclusion relative au retard de la proposition d’un compromis vise également l’affaire Kowalchuk.
+Signé à Toronto (Ontario), ce 23e jour de mars 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er jour de juin 2007
+D. Laberge, LL.L.
+RÉFÉRENCE : 2006CCI164
+NO DU DOSSIER DE LA COUR : 2005-1114(EI)
+INTITULÉ : Langreen (1984) Ltd. et le ministre du Revenu national
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 14 février 2006
+MOTIFS DE L’ORDONNANCE : L’honorable juge Judith Woods
+DATE DE L’ORDONNANCE : Le 17 février 2006
+COMPARUTIONS :
+Avocat de l’appelant : Me Deryk W. Coward
+Avocate de l’intimé : Me Naomi Goldstein
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Deryk W. Coward
+Cabinet : D’Arcy & Deacon LLP
+Winnipeg (Manitoba)
+Pour l’intimé : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

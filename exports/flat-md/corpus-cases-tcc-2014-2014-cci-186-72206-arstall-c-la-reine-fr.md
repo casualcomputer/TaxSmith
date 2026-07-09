@@ -1,0 +1,168 @@
+---
+title: "Arstall c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72206/index.do"
+last_modified: "2014-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 186"
+citation2: ""
+neutral_citation: "2014 CCI 186"
+decision_date: "2014-06-04"
+language: "fr"
+item_id: "72206"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5342
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:54:21.556000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eeeba935c56181814438e41696d1941acd4c78f38f5e67f70f6f515a74ab84fc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arstall c. La Reine
+
+- Citation: 2014 CCI 186
+- Decision date: 2014-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5342, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arstall c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-06-04
+Référence neutre
+2014 CCI 186
+Numéro de dossier
+2011-3077(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3077(IT)G
+ENTRE :
+ANNELORE ARSTALL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 25 avril 2014, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelante :
+Me Alistair Campbell
+Avocat de l’intimée :
+Me Raj Grewal
+ORDONNANCE
+CONFORMÉMENT aux motifs prononcés oralement aujourd’hui, au cours d’une conférence téléphonique, la requête de l’intimée en modification de la réponse est rejetée, à l’exception de la modification proposée du sous‑alinéa 24cc). Les dépens afférents à la requête sont adjugés à l’appelante sur une base procureur‑client, et devront être payés dans un délai de trente (30) jours après réception par l’intimée du mémoire de frais de l’avocat de l’appelante.
+Signé à Ottawa (Ontario), ce 20e jour de mai 2014.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 11e jour de septembre 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014CCI186
+Date : 20140604
+Dossier : 2011-3077(IT)G
+ENTRE :
+ANNELORE ARSTALL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(prononcés oralement par conférence téléphonique
+le 20 mai 2014, à Ottawa (Ontario).)
+Le juge Bocock
+[1] Sont reproduits ci‑après les motifs, prononcés oralement, d’une ordonnance rendue ce 20 mai 2014, à partir de notes prises au cours de l’audition d’une requête déposée dans l’appel 2011‑3077(IT)G entre Annelore Arstall et Sa Majesté la Reine, requête qui a été entendue à Vancouver (Colombie-Britannique) le 25e jour d’avril 2014.
+[2] L’intimée dépose cette requête contestée en modification supplémentaire de la réponse pour y ajouter de nouvelles hypothèses de fait, de nouvelles dispositions législatives concordantes ainsi que les moyens qui seront invoqués. Il y a une modification d’ordre général apportée à la réponse, modification à laquelle l’appelante ne s’oppose pas et qui sera donc traitée séparément dans l’ordonnance lorsqu’elle sera rendue. La base factuelle des modifications sollicitées est un rapport de vérification manuscrit (le « rapport de vérification ») qui aurait fait suite à une vérification menée pour les années d’imposition 1985 à 1987 et qui a été récemment découvert en septembre 2012.
+[3] La Cour emploie les mots « récemment découvert en septembre 2012 », à la fois en connaissance de cause et dans un sens relatif. Il est improbable que l’on ait ici affaire à la nouvelle cotisation remontant le plus loin en arrière dans l’histoire fiscale canadienne, mais c’est néanmoins une nouvelle cotisation dont l’origine ne date pas d’hier; elle est embrumée par le passage des ans, ce qui donne d’autant plus de souffle à l’opposition de l’appelante à cette requête en modification de la réponse. On ne s’étonnera donc pas des longueurs, complexités et obscurcissements qui caractérisent l’historique des faits et le cahier de documentation à l’origine de la nouvelle cotisation établie à l’encontre de cette contribuable. L’appelante conteste une cotisation au titre de l’article 160 portant sur un transfert de biens entre personnes ayant un lien de dépendance, et elle conteste aussi la cotisation sous-jacente établie à l’encontre du conjoint auteur du transfert (le « conjoint »). L’année en cause est l’année d’imposition 1987 du conjoint et résulte d’une nouvelle cotisation établie à l’encontre du conjoint en 2004 (la « nouvelle cotisation de 2004 »).
+[4] Les premiers actes de procédure ont été échangés à la fin de 2011. D’autres actes modifiés ont été échangés au début de 2012, et c’est alors que l’appelante a élargi sa contestation de la nouvelle cotisation de 2004 du conjoint. Au cours d’une période de quatre jours à la fin de septembre 2012, soit 25 ans après l’année d’imposition dont il est question, la cadence du litige s’est accélérée considérablement. Un peu avant les interrogatoires préalables, un représentant de l’intimée, un certain M. Folstad, s’est mis en quête du rapport de vérification après avoir été alerté par une référence apparaissant dans certains documents connexes.
+[5] Au 24 septembre 2012, aucun rapport de vérification n’avait été trouvé, comme on peut le lire dans un courriel confirmant son inexistence. Deux jours plus tard, alors qu’il préparait les interrogatoires préalables avec l’avocat de l’intimée, M. Folstad avait découvert le « rapport de vérification ». À l’étape de la communication des documents, le rapport de vérification fut produit, identifié par M. Folstad, pour devenir une pièce dans les interrogatoires préalables, comme en atteste la transcription. Les interrogatoires préalables ont été ajournés par l’appelante pour lui permettre de se conformer à des engagements. La cadence a encore une fois marqué quelque peu le pas. Deux appels connexes se sont finalement conclus par des arrangements. Par ailleurs, l’avocat de l’intimée faisait savoir en juin 2013 que l’intimée entendait modifier sa réponse dans le présent appel en invoquant des renseignements figurant dans le rapport de vérification. En novembre 2013, les discussions en vue d’un possible règlement ont été abandonnées, la requête a été signifiée en janvier 2014, et l’affaire en est là aujourd’hui et fait l’objet de la présente requête.
+[6] Au soutien de la requête, l’intimée a déposé un affidavit factuel de fond, émanant d’une secrétaire juridique qui travaille au bureau de l’avocat de l’intimée (l’« affidavit de la secrétaire »). L’affidavit de la secrétaire fait état de tous les faits susmentionnés, et y sont annexés le supposé courriel, la transcription des interrogatoires préalables de M. Folstad, d’autres pièces de correspondance ainsi que le rapport de vérification manuscrit. Comme il est d’usage, l’affidavit contient le préambule indiquant que l’auteur fonde ses affirmations sur sa connaissance directe ou, le cas échéant, sur des renseignements et des convictions.
+[7] L’avocat de l’intimée affirme que, vu la découverte récente et inévitable du rapport de vérification, la requête en modification de la réponse doit faire ressortir comme il convient la résolution du ministre, la thèse qu’il défend ainsi que le fondement du processus de nouvelle cotisation entrepris en ce qui concerne la responsabilité fiscale du conjoint. Les modifications apportées à la réponse permettront, de manière plus complète, d’établir, de révéler et d’élargir ce que l’appelante devra réfuter : le précédent invoqué est l’arrêt Sa Majesté la Reine c. Anchor Pointe Energy Ltd., 2007 CAF 188, au paragraphe 29. Par ailleurs, nul préjudice n’apparaît en ce qui concerne la nature tardive de la requête, vu l’ancienneté du cas et l’admission de l’appelante sur ce point. Par ailleurs, les modifications en tant que telles sont recevables, parce que l’affaire n’est pas exempte de doute, que leur inclusion permettra de présenter à la Cour les véritables points en litige et que leur inclusion n’entraîne ni injustice ni préjudice qui ne puisse par ailleurs faire l’objet d’une indemnisation par adjudication de dépens : mention est faite de l’arrêt Camoplast Inc. v. Soucy International Inc., 27 CPR (4th) 411 (arrêt Camoplast), aux paragraphes 15, 16 et 17.
+[8] Dans son opposition à la requête, l’avocat de l’appelante reconnaît qu’il n’y a aucun préjudice, mais les concessions s’arrêtent là. Comme premier moyen, l’appelante conteste les modifications, qu’elle considère comme des hypothèses de fait inopportunes, parce qu’il s’agit soit de conclusions de droit, soit d’énoncés amalgamés ou dissociés portant sur des questions mixtes de droit et de fait; les énoncés de ce genre sont généralement décrits, et exclus, en tant qu’hypothèses de fait, selon l’arrêt Banque Canadienne Impériale de Commerce c. Canada, 2013 CAF 122 (l’arrêt CIBC), aux paragraphes 92 et 93. Les sous‑alinéas contestés des modifications proposées à la réponse contiennent les expressions ou phrases incriminées suivantes :
+[traduction]
+[…] l’alinéa 24ee) est ainsi rédigé :
+à toutes les époques pertinentes, le conjoint agissait de concert avec Pioneer Metals et avait un lien de dépendance avec Pioneer Metals;
+[…]
+L’alinéa 24hh) proposé est ainsi formulé :
+le conjoint détenait des actions de Pioneer Metals et des actions de « Maverick » comme éléments d’inventaire, et il les négociait dans le cadre d’opérations à titre de revenu;
+[9] En réponse à cette affirmation, l’avocat de l’intimée concède que les sous‑alinéas kk) et mm) sont des conclusions de droit. Ils seront radiés. Quant aux expressions « agir de concert », « avait un lien de dépendance », « éléments d’inventaire » et « opérations à titre de revenu », l’avocat de l’intimée affirme que l’emploi de ces expressions juridiques permet d’abréger les actes de procédure et de ne pas s’étendre sur des faits qui allongent et compliquent indûment les actes en question. C’est bien possible, mais la Cour d’appel fédérale, dans l’arrêt CIBC, pense autrement. La Cour recommande le paragraphe 93 de cet arrêt à l’examen de l’intimée. Tout comme la Cour d’appel fédérale, elle ne croit pas qu’il soit difficile d’étoffer les fondements factuels élémentaires de ces termes techniques ou pratiques et, par là, de dévoiler les principales hypothèses de fait qui sont invoquées. Cela allongera sans doute quelque peu l’alinéa, mais le verbiage accru aura l’avantage d’accroître la clarté, la simplicité et la compréhension. L’exercice permettra aussi de dire si d’élémentaires hypothèses de fait existaient qui justifiaient de telles affirmations définitives et amalgamées, là encore ainsi que le prescrit le paragraphe 93 de l’arrêt CIBC. Les alinéas actuels, tel qu’ils sont formulés, ne sauraient donc faire partie de la réponse modifiée.
+[10] Comme deuxième moyen à l’encontre des modifications proposées à la réponse, l’appelante considère d’une manière plus générique la qualité et le fond de la preuve produite, afin de montrer pourquoi la réponse n’a pas été correctement rédigée au départ, et en quoi les modifications proposées n’y changeront rien : le critère énoncé dans la décision Labow c. Sa Majesté la Reine, 2008 CCI 511. L’appelante soutient que, compte tenu des nombreuses affirmations selon lesquelles il n’existait pas d’autres documents avant la découverte tardive du rapport de vérification, alors l’intimée se doit d’expliquer pourquoi l’existence du rapport lui a échappé deux fois. Outre ces deux obstacles, la preuve elle‑même ne suffit pas à en surmonter ne serait‑ce qu’un seul : plus précisément, il n’y a aucun souscripteur d’affidavit ayant une connaissance directe des faits; il n’y a aucun témoignage pouvant authentifier le rapport de vérification; il y a le large recours au ouï‑dire quand d’autres personnes pouvaient produire des témoignages meilleurs et plus conformes; il y a le recours à des interrogatoires préalables dans le cadre d’une requête; il y a le fait que la secrétaire juridique, auteure de l’affidavit, n’ait pas recouru à des déclarations confirmatives. Finalement, l’appelante soutient que rien ne prouve que les renseignements contenus dans le rapport de vérification soient rattachés aux hypothèses de fait que l’intimée voudrait ajouter à sa réponse, puisque ni la secrétaire juridique, auteur de l’affidavit, ni le M. Folstad susmentionné, ne semblent avoir été mêlés à la vérification ou à la nouvelle cotisation, ou, plus logiquement, ne semblent avoir examiné et référencé le rapport de vérification concernant la responsabilité fiscale du conjoint dans le contexte des modifications sollicitées.
+[11] L’intimée rétorque que la preuve par ouï‑dire est admissible dans le cadre de requêtes et que l’affidavit de la secrétaire est recevable, digne de foi et non controversé. Par ailleurs, si des faits attestés dans l’affidavit sont contestés, un contre-interrogatoire aurait dû avoir lieu sur ces aspects. La teneur du rapport de vérification et la découverte de ce rapport par M. Folstad ont été plus avantageusement considérées lors des interrogatoires préalables et les choses en sont restées là. Le rapport de vérification fut le résultat de la demande même du conjoint. En outre, l’opposition aux modifications est un jeu stratégique de la part de l’appelante, qui en réalité sera servie par des hypothèses de fait mieux étoffées dans la réponse.
+[12] La Cour est disposée à admettre que le passage du temps commande une certaine indulgence en faveur de l’intimée quant à ce qui suit :
+a) les modifications proposées à la réponse, sur le fondement du rapport de vérification, ont été déposées dès que les circonstances l’ont permis, parce que les réponses antérieures avaient précédé la découverte du rapport de vérification;
+b) l’affidavit, bien que loin d’être parfait, suffit à établir les circonstances entourant la découverte du rapport de vérification, sa probable authenticité (qui devra être étayée au procès) et la validité des observations antérieures touchant l’absence d’autres documents;
+c) l’existence probable du rapport de vérification à la date de la nouvelle cotisation sous-jacente du conjoint, nouvelle cotisation qui fait l’objet de l’appel.
+La Cour est donc disposée à tirer ces conclusions de fait connexes.
+[13] Cependant, le critère permettant de dire s’il convient ou non d’autoriser la modification d’un acte de procédure bien après la clôture de la procédure écrite et des interrogatoires préalables n’est pas assimilable à une requête en radiation de certains alinéas des actes de procédure. Pour persuader la Cour de l’opportunité d’ajouter les alinéas demandés, l’intimée doit non seulement établir la preuve factuelle prima facie de l’existence du document, les causes de sa révélation tardive et sa probable authenticité, mais encore, à l’aide de témoignages, être en mesure d’invoquer ces éléments pour valider les modifications demandées : mention est faite de la décision Goldman Holdings Ltd. c. Sa Majesté la Reine, 2011 CCI 250.
+[14] La Cour sait que la découverte par l’intimée du rapport de vérification suscite un vif désir de modifier la réponse. C’est la raison de la requête. Cependant, la Cour doit se poser la question suivante : la Cour a‑t‑elle la preuve que le rapport de vérification contient des faits, des affirmations ou une analyse qui montrent que ces modifications proposées corrigeront l’erreur ou la lacune antérieure? L’affidavit de la secrétaire, qui est la seule preuve présentée à la Cour (une preuve à laquelle a été conférée la valeur la plus élevée possible) n’explique nulle part, que ce soit en termes généraux ou spécifiques, ou qu’il s’agisse de ouï‑dire ou de conjectures, la raison pour laquelle la teneur du rapport de vérification constitue le fondement factuel des nouvelles hypothèses dont l’ajout est maintenant demandé. Il en va de même de la transcription des interrogatoires préalables de M. Folstad dont il est fait état dans l’affidavit de la secrétaire. Il n’y a non plus aucun autre document référencé, ni, qui plus est, aucun fait mentionné dans un tel document, susceptible de justifier les modifications au motif que ce document ou ce fait corrigera la lacune ou l’omission.
+[15] Il ne suffit pas de prouver qu’un document qui date a été récemment découvert. La Cour ne saurait présumer le lien entre le rapport de vérification et les modifications souhaitées en l’absence d’une déclaration précise selon laquelle ce rapport renferme certains énoncés qui ne figuraient pas auparavant dans le dossier de l’intimée lorsque celle‑ci avait rédigé les réponses antérieures, à savoir les énoncés suivants : quels étaient les faits historiques additionnels qui étayaient la nouvelle cotisation en cause et qui sont aujourd’hui révélés par la découverte du rapport? La simple existence du rapport de vérification ne suffit pas. Les hypothèses, les faits et les détails qui y figurent pourraient suffire. Quelqu’un doit dire à la Cour, sous la foi du serment, et brièvement, la nature des faits en question, dire brièvement pourquoi ils diffèrent des faits énoncés dans la réponse actuelle, ou pourquoi ils les renforcent, et aussi pourquoi ils contribueront à ce que la réponse fasse ressortir fidèlement les fondements historiques de la cotisation. L’avocat de l’intimée pourrait alors soutenir que les modifications rattachées au rapport de vérification corrigeront la lacune. Sans la preuve d’un tel lien, comment la Cour peut-elle conclure que le rapport de vérification contient des faits qui contribueront à « déterminer les véritables questions litigieuses entre les parties » (arrêt Camoplast, au paragraphe 16)?
+[16] Eu égard à l’indulgence que la Cour a montrée envers l’affidavit de la secrétaire, même quelques énoncés factuels superficiels en ce sens auraient pu suffire. Comme il n’y en a pas, il n’est pas prouvé que la seule découverte du rapport de vérification permettait la révélation de faits additionnels et d’hypothèses justifiant les modifications proposées à la réponse. La Cour ne peut établir ce lien en l’absence d’une telle preuve et des observations qui s’y rattachent.
+[17] La requête en modification de la réponse à cette étape de l’appel postérieure à l’enquête préalable est donc rejetée pro tempore, sauf en ce qui concerne la modification d’ordre général, destinée à corriger une erreur typographique. Il n’est pas établi devant la Cour que le rapport de vérification, découvert tardivement, renferme des hypothèses ou des faits qui intéressent la nouvelle cotisation de 2004, ni que leurs ajouts à la réponse corrigeront ou répareront les lacunes ou omissions initiales de la réponse. Ainsi modifiée, la réponse peut en venir à refléter beaucoup plus obséquieusement le rapport de vérification. Pour l’heure, il n’existe tout simplement aucun élément de preuve donnant à penser que tel serait le cas. En l’état actuel des choses, cet obstacle n’a pas été surmonté.
+[18] Puisque cette requête est rejetée pour insuffisance ou absence de preuve, on pourrait soutenir logiquement que ce rejet est sous réserve du droit de l’intimée de présenter à nouveau la requête, accompagnée de la preuve dont la présente requête est dépourvue. C’est un droit sur lequel la Cour ne statuera pas à ce stade.
+[19] Quant aux dépens, la Cour note les facteurs suivants exposés dans les principes directeurs énoncés à l’article 147 des Règles, principes qui conduisent la Cour à adjuger à l’appelante (la partie intimée dans la requête) des dépens au‑delà du tarif :
+a) l’appelante a obtenu gain de cause sur tous les moyens invoqués;
+b) cette requête est pertinente quant à savoir ce que l’appelante doit réfuter, et les sommes en cause revêtent donc pour l’appelante une importance personnelle;
+c) le volume de travail ne semble pas très inhabituel, ni d’ailleurs le niveau de complexité des points en litige;
+d) en ce qui concerne la conduite de l’intimée, un certain nombre de ses actes de procédure étaient d’inopportuns énoncés de droit et auraient dû être radiés avec son consentement avant l’audition de la requête. La Cour est quelque peu sensible aux contraintes de temps qui pèsent aujourd’hui sur l’exercice du droit et sur le dépistage de l’information à l’ARC, mais on a le sentiment que l’on aurait fait l’économie de cette procédure contestée, ou à tout le moins qu’on aurait pu en réduire la portée tout en la menant à terme d’une manière satisfaisante, si l’on avait pris le temps de compulser les dossiers, si les avocats et les clients s’étaient préparés en prévision des interrogatoires préalables (lesquels, après tout, avaient conduit à la découverte très tardive du rapport de vérification) et si l’on avait préparé, examiné et analysé les pièces de la requête avant que celle‑ci ne soit signifiée et déposée.
+[20] Tout bien considéré, l’intimée devra payer des dépens à l’appelante, à savoir l’intégralité de ses débours ainsi que ses dépens procureur‑client, et cela, dans un délai de 30 jours après avoir reçu le mémoire de frais de l’avocat de l’appelante. La Cour relève que, même si la requête de l’intimée avait été intégralement accueillie, l’appelante aurait pu faire valoir l’argument imparable selon lequel les dépens ne devraient pas, en tout état de cause, être adjugés à l’intimée, ni même à l’appelante, compte tenu du contexte de la requête en premier lieu. Sur ce fondement également, l’adjudication de dépens se justifie.
+Signé à Ottawa (Ontario), ce 4e jour de juin 2014.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 11e jour de septembre 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2014CCI186
+No DU DOSSIER DE LA COUR :
+2011-3077(IT)G
+INTITULÉ :
+ANNELORE ARSTALL ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 mai 2014
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 4 juin 2014
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Alistair G. Campbell
+Avocat de l’intimée :
+Me Raj Grewal
+AVOCATS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Alistair G. Campbell
+Cabinet :
+Legacy Tax + Trust Lawyers
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

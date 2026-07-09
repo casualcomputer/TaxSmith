@@ -1,0 +1,246 @@
+---
+title: "Bailey c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30330/index.do"
+last_modified: "2011-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 233"
+citation2: ""
+neutral_citation: "2011 CCI 233"
+decision_date: "2011-04-28"
+language: "fr"
+item_id: "30330"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8034
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:54:48.487000+00:00"
+cases_cited_count: 18
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "63038f6c41629e304268cff31c7eda905cf34c8c50bab0de129b5f626957bf60"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bailey c. La Reine
+
+- Citation: 2011 CCI 233
+- Decision date: 2011-04-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8034, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bailey c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-28
+Référence neutre
+2011 CCI 233
+Numéro de dossier
+2009-2324(GST)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-2324(GST)G
+ENTRE :
+RONALD BAILEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête présentée par écrit et tranchée sur la base des observations écrites et sans comparution des parties.
+Par: L’honorable juge Patrick Boyle
+Avocat de l’appelant :
+Me Richard Généreux
+Avocat de l’intimée :
+Me Gérald Danis
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l’appelant du 20 septembre 2010 en radiation de la réponse de l’intimée;
+ET VU les observations des parties et les documents à l’appui qui ont été déposés;
+LA COUR ORDONNE que la requête soit rejetée, avec dépens.
+Signé à Toronto, Ontario, ce 28e jour d’avril 2011.
+« Patrick Boyle »
+Juge Boyle
+Dossier : 2009-1576(GST)I
+ENTRE :
+GABRIEL PAYEUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête présentée par écrit et tranchée sur la base des observations écrites et sans comparution des parties.
+Par: L’honorable juge Patrick Boyle
+Avocat de l’appelant :
+Me Richard Généreux
+Avocat de l’intimée :
+Me Gérald Danis
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l’appelant du 21 juin 2010 en radiation de la réponse de l’intimée;
+ET VU les observations des parties et les documents à l’appui qui ont été déposés;
+LA COUR ORDONNE que la requête soit rejetée, avec dépens.
+Signé à Toronto, Ontario, ce 28e jour d’avril 2011.
+« Patrick Boyle »
+Juge Boyle
+Dossier : 2009-2591(GST)I
+ENTRE :
+SÉBASTIEN DION,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête présentée par écrit et tranchée sur la base des observations écrites et sans comparution des parties.
+Par: L’honorable juge Patrick Boyle
+Avocat de l’appelant :
+Me Richard Généreux
+Avocats de l’intimée :
+Me Gérald Danis
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l’appelant du 2 septembre 2010 en radiation de la réponse de l’intimée;
+ET VU les observations des parties et les documents à l’appui qui ont été déposés;
+LA COUR ORDONNE que la requête soit rejetée, avec dépens.
+Signé à Toronto, Ontario, ce 28e jour d’avril 2011.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2011 CCI 233
+Date : 20110428
+Dossier : 2009-2324(GST)G
+ENTRE :
+RONALD BAILEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2009-1576(GST)I
+GABRIEL PAYEUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2009-2591(GST)I
+SÉBASTIEN DION,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Boyle
+[1] Les trois appelants ont présenté des requêtes en radiation des réponses de l’intimée à leurs avis d’appel au motif que ces réponses ne révèlent aucun moyen raisonnable de contestation des appels ou, subsidiairement, qu’elles compromettront ou retarderont l’instruction équitable de l’appel. Comme il est expliqué plus longuement ci‑dessous, chaque appelant a fait l’objet d’une nouvelle cotisation parce qu’il a omis de verser la taxe sur les produits et services (la « TPS ») à l’égard de ses revenus tirés de la vente illégale de cocaïne ou de cannabis. Les appelants soutiennent dans leurs avis d’appel et dans les présentes requêtes que, même s’ils avaient effectivement tiré des revenus de la vente illégale de cocaïne ou de cannabis et même si leur trafic de drogue était une fourniture taxable aux fins de la TPS, le produit qu’ils vendaient – M. Bailey vendait de la cocaïne, et MM. Dion et Payeur vendaient du cannabis – était détaxé en application des dispositions de la Loi sur la taxe d’accise (Canada) régissant la TPS (la « loi relative à la TPS »).
+I. Les faits
+[2] L’appel de M. Ronald Bailey est régi par les Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), et sa requête a été présentée en vertu des alinéas 53a) et 58(1)b). M. Bailey et son fils Sylvain ont fait l’objet de cotisations parce qu’ils ont vendu de la cocaïne ensemble de 2005 à 2007. Il est allégué dans la réponse à l’avis d’appel que M. Bailey a plaidé coupable à des accusations de trafic de drogue. M. Bailey soutient dans son avis d’appel qu’il ne pouvait pas être le mandataire de la Couronne aux fins de la perception de la TPS vu qu’il se livrait à des activités illégales contraires à l’ordre public. En outre, selon l’avis d’appel, le contrat établissant la société de personnes faisant l’objet de la cotisation ne pouvait pas exister vu les lois du Québec parce que sa cause et son objet auraient été prohibés par la loi et par l’ordre public. Subsidiairement encore, l’avis d’appel soulève le moyen des fournitures détaxées qui fait l’objet de la présente requête. Enfin, M. Bailey soutient dans son avis d’appel que les montants sur lesquels repose la cotisation sont inexacts parce qu’ils sont fondés sur des preuves tirées d’écoutes téléphoniques effectuées pendant quelques mois seulement et sur l’extrapolation de ces preuves pour période de deux ans.
+[3] L’appel de Gabriel Payeur est régi par les Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur la taxe d’accise (procédure informelle). Selon la réponse modifiée, les cotisations établies à l’égard de M. Payeur découlent de sa participation à la production et à la vente de cannabis en 2006. M. Payeur, toujours selon la réponse modifiée, a été accusé au pénal de production et de culture de cannabis ainsi que de trafic de drogue. Il était allégué que M. Payeur tirait des revenus de deux plantations extérieures. Les questions soulevées dans l’avis d’appel modifié de M. Payeur sont les suivantes : (i) la fourniture du cannabis est‑elle détaxée?; (ii) une société en participation liant M. Payeur et d’autres personnes aurait‑elle pu exister vu que sa cause et son objet auraient été illégaux et contraires à l’ordre public?; (iii) si M. Payeur est déclaré coupable, les montants qui lui sont attribués sont‑ils trop élevés et reposent‑ils uniquement sur les résultats de l’enquête policière?
+[4] L’appel de Sébastien Dion est également régi par la procédure informelle. Selon la réponse modifiée visant M. Dion, les cotisations établies à son égard découlent aussi de sa participation, avec d’autres personnes, à la production et à la vente de cannabis de 2003 à 2006. Selon la réponse à l’avis d’appel, M. Dion a été accusé au pénal de trafic de drogue et de production de cannabis. Les questions soulevées dans l’avis d’appel modifié de M. Dion sont les suivantes : (i) la fourniture du cannabis est‑elle détaxée?; (ii) s’il est reconnu coupable, les montants et la taxe concernant ses fournitures ont‑ils été correctement calculés vu que les seules preuves des ventes à son égard proviennent d’une enquête policière?
+[5] Les requêtes de MM. Dion et Payeur ont été entendues le 9 septembre 2010. Cependant, leurs avis d’appel ont été modifiés, du consentement des parties, par leur avocat le jour même afin que puisse être soulevé le moyen des fournitures détaxées. Vu ces modifications, il a été accordé à l’intimée un délai afin qu’elle puisse modifier ses réponses. C’est pourquoi il aurait alors été prématuré d’entendre les requêtes en radiation des réponses au motif qu’elles ne révélaient aucun moyen raisonnable de contestation des appels. Il a donc été nécessaire d’ajourner l’audience fixée, et il a été convenu et ordonné que des observations écrites seraient présentées à l’égard des requêtes, qu’une requête semblable serait présentée par M. Bailey et que les trois requêtes seraient plaidées de concert.
+II. Le droit
+[6] Les appelants soutiennent que les fournitures de cannabis et de cocaïne sont détaxées. La notion de fourniture détaxée est définie au paragraphe 123(1) de la loi relative à la TPS comme une fourniture figurant à l’annexe VI.
+[7] Le titre de la partie I de l’annexe VI est « Médicaments sur ordonnance et substances biologiques ». L’article 2 de la partie I vise la fourniture suivante : « d) les drogues contenant un stupéfiant figurant à l’annexe du Règlement sur les stupéfiants, à l’exception d’une drogue et d’un mélange de drogues qui peuvent être vendus au consommateur sans ordonnance conformément à la Loi réglementant certaines drogues et autres substances […] ». (L’alinéa d) a été modifié en 2008 afin que soit ajouté aux exceptions un renvoi aux exemptions accordées par le ministre de la Santé à l’égard de la consommation de marijuana à des fins dites médicales.)
+[8] Le Règlement sur les stupéfiants pris en vertu de la Loi réglementant certaines drogues et autres substances contient notamment les textes suivants :
+2. Coca (érythroxylone), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
+(1) feuilles de coca
+(2) cocaïne (ester méthylique de la benzoylecgonine)
+(3) ecgonine (acide hydroxy‑3 tropane‑2 carboxylique)
+[...]
+17. Chanvre indien (Cannabis), ainsi que ses préparations et dérivés et les préparations synthétiques semblables, notamment :
+(1) résine de cannabis
+(2) cannabis (marihuana)
+(3) cannabidiol ([méthyl‑3 (méthyl‑1 éthenyl)‑6 (cyclohexènyl‑1)‑2]‑2 pentyl‑5 benzènediol‑1, 3)
+(4) cannabinol (n‑amyl‑3 hydroxy‑1 triméthyl‑6, 6, 9 6H‑dibenzopyranne)
+(5) nabilone (d, 1‑trans (diméthyl‑1, 1 heptyl)‑3 hexahydro‑6, 6a, 7, 8, 10, 10a hydroxy‑1 diméthyl‑6, 6 9H‑dibenzo [b, d] pyrannone‑9)
+(6) pyrahexyl (n‑hexyl‑3 hydroxy‑1 triméthyl‑6, 6, 9 tétrahydro‑7, 8, 9, 10 6H‑dibenzopyranne)
+(7) tetrahydrocannabinol (tétrahydro hydroxy‑1 triméthyl‑6, 6, 9 pentyl‑3 6H‑dibenzo [b, d] pyranne)
+(7.1) (diméthyl‑1, 2 heptyl)‑3 hydroxy‑1 tétrahydro‑7, 8, 9, 10 triméthyl‑6,
+6, 9 6H‑dibenzo [b, d]pyranne (DMHP)
+mais non compris :
+(8) graines de cannabis stériles — à l’exception des dérivés de ces graines
+(9) tige de cannabis mature — à l’exception des branches, des feuilles, des fleurs et des graines — ainsi que les fibres obtenues de cette tige
+[9] L’Agence du revenu du Canada (l’« ARC ») a publié un document intitulé « Série des mémorandums sur la TPS/TVQ : 4.1 Médicaments et substances biologiques ». Les mémorandums sur la TPS/TVH n’ont pas force de loi, mais il s’agit de commentaires généraux administratifs sur la loi émanant de l’organisme de réglementation. Le paragraphe 12 du mémorandum porte sur la détaxation de drogues qui contiennent une substance visée par le Règlement sur les stupéfiants. Les appelants relèvent que le paragraphe 12 contient la phrase suivante : « Ces drogues ou substances sont détaxées tout au long du processus de fabrication et de distribution (peu importe qui les vend). » Les appelants soutiennent que ce texte va dans le sens de leur interprétation selon laquelle la vente illégale de drogue est également détaxée. Ils allèguent plus précisément que le ministère du Revenu du Québec (le « MRQ »), qui administre la TPS au Québec au nom du fédéral, a contrevenu à l’interprétation administrative de l’ARC lorsqu’il a établi les cotisations des appelants.
+[10] La jurisprudence est bien fixée : la vente illégale de drogue constitue une transaction taxable (une fourniture taxable aux fins de la TPS). Voir Molenaar c. La Reine, 2003 CCI 468, 2003 DTC 1174, [2003] G.S.T.C. 136, confirmé par la Cour d’appel fédérale, 2004 CAF 349, 2004 DTC 6688, [2004] G.S.T.C. 142, et Ouellette c. La Reine, 2009 CCI 443, [2009] G.S.T.C. 132.
+[11] La décision de notre Cour dans l’affaire Lavie c. La Reine, 2006 CCI 655, [2006] G.S.T.C. 155, portait sur le calcul des revenus tirés de la vente illégale de drogue; il s’agit d’un exemple d’affaire où l’appelant a été capable de réfuter les hypothèses du ministre qui étaient presque entièrement fondées sur l’issue d’une enquête policière visant des activités illégales concernant des drogues.
+[12] La décision de notre Cour dans l’affaire Centre hospitalier Le Gardeur c. La Reine, 2007 CCI 425, [2007] G.S.T.C. 91, portait sur un certain nombre d’hôpitaux au Québec qui soutenaient que les trousses de diagnostic in vitro étaient détaxées en application de l’alinéa 2a) de la partie I de l’annexe VI de la loi relative à la TPS parce qu’elles étaient des drogues visées par l’annexe D de la Loi sur les aliments et drogues. Il convient de noter que, dans l’affaire Centre hospitalier, ces fournitures étaient vendues en toute légalité. Dans cette affaire, la Cour a donné aux termes « drogue » et « drug » employés dans la loi relative à la TPS le sens que la Loi sur les aliments et drogues leur donne parce qu’ils ont été définis aux fins de cette loi. Plus précisément, la Cour a assimilé les termes « drogue » et « drug » à « médicament ». Il faut souligner que, dans cette affaire, la Loi réglementant certaines drogues et autres substances emploie les termes « drogue » et « drug » dans son titre et dans son préambule, mais qu’elle ne les définit pas par ailleurs. De même, ces termes sont utilisés dans la loi relative à la TPS pour décrire les fournitures détaxées en question. On note également que la version française de la partie I de l’annexe VI emploie le terme « médicament » pour rendre son équivalent anglais « drug ».
+[13] La décision de la Cour du Québec dans l’affaire Robitaille c. Québec (Sous‑ministre du Revenu), [2010] J.Q. no 11046 (QL), 2010 QCCQ 9283, a été rendue après le jour d’abord prévu pour l’audition des requêtes. Était en cause dans l’affaire Robitaille la vente illégale de cocaïne liée au trafic illégal de stupéfiants au regard de l’impôt sur le revenu du Québec et de la taxe de vente du Québec (la « TVQ »).
+[14] Dans l’affaire Robitaille, la Cour du Québec a de nouveau suivi des jurisprudences telles que Molenaar et Ouellette et elle a conclu que la vente illégale de drogue constituait une transaction taxable et que la vente de cocaïne était une fourniture taxable aux fins de la TVQ. La Cour du Québec semble avoir expressément rejeté, du moins dans une observation incidente, l’argument selon lequel les personnes qui contreviennent à la loi ne peuvent pas être considérées comme mandataires du MRQ aux fins de la perception de la TVQ.
+[15] Il importe de souligner que la Cour du Québec, dans l’affaire Robitaille, a dû se pencher sur la thèse selon laquelle la vente de cocaïne était une fourniture détaxée aux fins de la TVQ. Le régime de détaxation applicable aux drogues à l’égard de la TVQ est semblable à celui de la loi relative à la TPS. La Cour du Québec a ainsi rejeté de la thèse selon laquelle la cocaïne était détaxée :
+81 Par ailleurs, l’article 16 L.T.V.Q. prévoit que toute fourniture taxable effectuée au Québec est assujettie à la TVQ au taux de 7,5 % à moins d’être considérée comme une fourniture détaxée, auquel cas le taux de la TVQ est nul.
+82 Selon l’article 1 L.T.V.Q., une fourniture est détaxée lorsqu’elle est visée au chapitre IV de la Loi. Or, l’article 174(1)d) L.T.V.Q. énonce :
+174. « Les fournitures suivantes sont détaxées :
+1. La fourniture d’une des drogues suivantes, sauf si elle est étiquetée ou fournie uniquement pour être utilisée en agriculture ou en médecine vétérinaire;
+d) Une drogue contenant une substance visée à l’annexe du Règlement sur les stupéfiants adopté en vertu de la Loi réglementant certaines drogues et autres substances (Loi du Canada, 1996, chapitre 19), sauf une drogue ou un mélange de drogues pouvant être vendu à un consommateur sans prescription conformément à cette loi à tout règlement adopté en vertu de cette loi. »
+83 À cet égard, le paragraphe de l’annexe 1 adopté en vertu de l’article 60 de la Loi réglementant certaines drogues et autres substances mentionne explicitement la cocaïne.
+84 Ainsi, selon ces dispositions, la volonté du législateur est de détaxer non pas les stupéfiants, telle la cocaïne, mais un médicament c’est‑à‑dire une drogue au sens de la Loi sur les aliments et drogues qui contient un stupéfiant et qui est prescrit par un médecin.
+85 En ce sens, la Cour canadienne de l’impôt dans Centre hospitalier Le Gardeur c. La Reine, s’exprime comme suit :
+« [49] L’exemple de l’alinéa 2d) nous aidera en partie à comprendre le sens grammatical et ordinaire à octroyer à « drogue » à l’alinéa 2a). L’alinéa 2d) indique « les drogues contenant un stupéfiant figurant à l’annexe du Règlement sur les stupéfiants [...] ». La Cour ne voit pas comment elle pourrait alors donner la signification restrictive à « drogue », que veut lui donner l’intimée. En effet, si une drogue correspond à la définition de « matière première » comme le propose l’intimée, comment pourrait-elle contenir autre chose tel un stupéfiant, tel qu’on le dit à l’alinéa 2d)? Une matière première est une substance provenant de la nature ou produite par la nature en totalité. Lorsqu’on commence à y intégrer autre chose, elle n’est plus un « matériau d’origine naturelle » mais bien un autre produit, un produit transformé. En ce sens, la définition de « drogue » qui peut contenir un stupéfiant est celle de la LAD. De plus, la même logique peut trouver une application à l’article 3 de la partie I de l’Annexe VI. En effet, dans cet article on vise la « fourniture de drogues destinées à la consommation humaine et délivrées par un médecin [...] ». Selon la définition de l’intimée, on viserait la fourniture de « matière première employée pour les préparations médicamenteuses », destinée à la consommation humaine. Selon la définition des appelants, on viserait plutôt un mélange de substances vendu comme pouvant servir au traitement d’une maladie, soit une drogue au sens de la LAD. À notre avis, puisque la matière première est destinée à la fabrication d’un médicament, elle ne peut donc être du même coup destinée à la consommation humaine. Nous devrions donc privilégier la définition de « drogue » de la LAD pour l’article 3 de la partie I de l’Annexe VI. En ce sens, en considérant le sens grammatical et ordinaire de « drogue » à l’alinéa 2a), en fonction de son contexte, et en privilégiant une signification commune de « drogue » à l’intérieur de la partie I de l’Annexe VI, il semble bien que la Cour doive privilégier la définition de « drogue » contenue à la LAD proposée par les appelants au détriment de la définition de « matière première » préconisée par l’intimée. »
+« [50] L’alinéa 2a) fait partie de la partie I de l’Annexe VI. Le titre de la partie I de l’Annexe VI de la LTA s’intitule « Médicaments sur ordonnance et substances biologiques » (en anglais « Prescription drugs and biologicals »). L’auteur Pierre‑André Côté indique que le titre d’une partie contenant une disposition ambiguë, comme c’est le cas en l’espèce, est pertinent quand il s’agit d’interpréter cette disposition. Puisque le titre de la partie en question traite de médicaments sur ordonnance et de substances biologiques, il est logique de penser que l’on traitera de ces deux thèmes à l’intérieur de la dite partie. En ce qui concerne les substances biologiques, on sait que cette partie du titre fut ajoutée en raison de l’ajout de l’article 5 à cette partie. En ce qui concerne les autres articles de la Partie I, on en déduit donc que ce sont des médicaments sur ordonnance qu’on voulait traiter. Puisque le législateur n’a utilisé à aucun endroit le terme « médicament » dans la partie I, on peut penser que d’autres termes jouent alors ce rôle. À notre avis, comme le laissent entendre les appelants avec la définition de « drogue » et de « drug » dans la LAD, et la définition de « drug » dans les dictionnaires, nous croyons que « drogue » telle qu’utilisée à l’alinéa 2a) signifie alors « médicament ». C’est là une conclusion logique à laquelle on peut en arriver de manière à concilier le titre français de la partie I avec le contenu de cette même partie. En anglais, la question ne se pose pas vraiment, puisque « drug » peut vouloir signifier « médicament » tant en vertu des dictionnaires que de la LAD. »
+[16] La décision de la Cour du Québec n’a pas été portée en appel et le délai pour le faire est expiré. Les appelants soutiennent que la jurisprudence Robitaille est erronée.
+III. Les considérations pertinentes quant aux requêtes
+[17] Il n’est pas demandé à la Cour de statuer sur un renvoi présenté du consentement des parties en vertu de l’article 310 de la loi relative à la TPS, ni de statuer sur une question faisant l’objet d’un renvoi par le ministre suivant l’article 311. La requête de M. Bailey a été présentée en vertu des articles 53 et 58 des règles de la procédure générale. Il s’agit de requêtes en radiation des réponses de l’intimée présentées par les appelants au motif qu’elles ne révèlent aucun moyen raisonnable de contestation des appels ou qu’elles retarderaient l’instruction. Le critère est très strict : une telle requête ne peut être accueillie que si la Cour conclut qu’il est évident et manifeste que les réponses ne révèlent aucun moyen raisonnable de contestation des appels. Comme l’ont mentionné les appelants au paragraphe 7 de leurs observations écrites :
+Les critères applicables concernant le rejet ou la radiation d’un avis d’appel selon les articles 53 et 58b) des Règles ne sont pas différents. L’avis d’appel sera rejeté ou radié lorsqu’il est évident et manifeste qu’il n’y a aucune chance de succès. Voici ce que le juge Miller précise dans l’affaire Gauthier (Gisborn) c. La Reine, 2006 CCI 290 :
+[5] Quel est donc le critère d’application de l’article 53 des Règles? Je pense qu’il n’est pas différent du critère de l’article 58 des Règles, selon lequel un acte de procédure sera radié s’il est évident et manifeste qu’il n’a aucune chance de succès. Contrairement à de nombreuses autres cours, les Règles de la Cour canadienne de l’impôt comprennent des dispositions différentes pour, d’une part, radier un acte de procédure entier au motif qu’il ne révèle aucun moyen raisonnable d’action (article 58 des Règles) et pour, d’autre part, radier des parties d’un acte de procédure aux motifs énumérés à l’article 53 des Règles cité ci‑dessus. L’arrêt de principe en la matière est la décision de la Cour suprême du Canada dans l’affaire Hunt c. Carey Canada Inc., dans laquelle le critère a été énoncé de la façon suivante :
+Ainsi, au Canada, le critère régissant l’application de dispositions comme la règle 19(24)a) des Rules of Court de la Colombie‑Britannique est le même que celui régissant une requête présentée en vertu de la règle 19 de l’ordonnance 18 des R.S.C. : dans l’hypothèse où les faits mentionnés dans la déclaration peuvent être prouvés, est‑il « évident et manifeste » que la déclaration du demandeur ne révèle aucune cause d’action raisonnable? Comme en Angleterre, s’il y a une chance que le demandeur ait gain de cause, alors il ne devrait pas être « privé d’un jugement ». La longueur et la complexité des questions, la nouveauté de la cause d’action ou la possibilité que les défendeurs présentent une défense solide ne devraient pas empêcher le demandeur d’intenter son action. Ce n’est que si l’action est vouée à l’échec parce qu’elle contient un vice fondamental qui se range parmi les autres énumérés à la règle 19(24) des Rules of Court de la Colombie‑Britannique que les parties pertinentes de la déclaration du demandeur devraient être radiées en application de la règle 19(24)a).
+[18] Dans la décision rendue par notre Cour dans l’affaire Carma Developers Ltd. c. La Reine, 96 DTC 1803, le juge en chef adjoint Christie a fait les observations suivantes :
+Dans la décision Moriarity et al. v. Slater et al., 67 O.R. (2d) 758, monsieur le juge White a dit ceci, à la page 764 :
+[traduction]
+À mon avis, comme dans le cas d’une demande présentée en vertu de l’alinéa 21.01(1)b) (des Règles de procédure civile de l’Ontario), c’est‑à‑dire d’une demande visant à faire radier un acte de procédure au motif qu’il ne révèle aucune cause raisonnable d’action, la Cour doit faire preuve de prudence en exerçant son pouvoir discrétionnaire dans le cadre d’une demande présentée en vertu de l’alinéa 21.01(1)a), c’est-à-dire d’une demande visant à faire régler avant l’audience une question de droit soulevée par un acte de procédure.
+Bref, à mon avis, l’alinéa 58(1)a) des Règles n’est pas destiné à servir de solution de rechange à laquelle il est facilement possible de recourir, à la place d’une audience aux fins du règlement de points litigieux complexes se rapportant aux droits et obligations des parties à un litige. Cette disposition doit être invoquée lorsqu’il est clair qu’il serait essentiellement superflu de faire régler le litige en totalité ou en partie au moyen d’une audience [...]
+[19] La jurisprudence Carma Developers a été citée et retenue par la Cour d’appel fédérale dans l’arrêt R. c. Jurchison et al., 2001 CAF 126, 2001 DTC 5301.
+[20] La Cour fédérale, dans l’arrêt O’Neil c. La Reine, 95 DTC 5060, a dit que, selon le critère applicable à une règle semblable, il faut rechercher (i) s’il est manifeste et évident que l’acte de procédure ne révèle aucune cause raisonnable d’action et (ii) si l’action est futile au point qu’elle n’a pas la moindre chance d’être accueillie ou ne donnera lieu à aucun résultat pratique.
+[21] Dans l’arrêt R. c. Special Risks Holdings Inc., 89 DTC 5039, la Cour d’appel fédérale a dit que, selon ce critère, le juge doit rechercher s’il est au moins possible qu’il existe une cause d’action compte tenu des allégations énoncées dans l’acte de procédure. Dans la décision Glenmaroon Holdings (1986) Limited c. La Reine, 97 DTC 857 (C.C.I.), conf. 99 DTC 5185 (C.A.F.), notre Cour a observé que, selon le critère applicable, le juge doit rechercher s’il n’y a aucun doute raisonnable quant à l’issue de l’affaire. De même, la Cour fédérale, dans l’affaire R. c. Ferner, 74 DTC 6216, a dit que le juge doit rechercher si la thèse en cause est au moins défendable.
+[22] Dans la décision Main Rehabilitation Co. Ltd. c. La Reine, 2003 TCC 454, 2004 DTC 2099, conf. 2004 CAF 403, 2004 DTC 6762 (autorisation de pourvoi à la Cour suprême du Canada refusée), notre Cour a conclu que le critère d’application de l’article 53 des Règles était strict : cette disposition ne peut jouer que si la question soulevée dans l’avis d’appel est clairement dénuée de tout fondement.
+[23] Dans la décision Sentinel Hill Productions (1999) Corporation c. La Reine, 2007 TCC 742, 2008 DTC 2544, le juge Bowman, ancien juge en chef de la Cour, a observé ce qui suit : [TRADUCTION] « Pour qu’un acte de procédure soit radié, en tout ou en partie, en vertu de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure. »
+[24] En ce qui a trait à la question du retard indu de l’instruction de l’appel, les appelants avancent que, compte tenu des méthodes utilisées par le MRQ pour estimer, dans les cotisations, les revenus tirés de la vente, les preuves que les contribuables devront produire pour s’acquitter de leur fardeau de preuve en ce qui concerne les montants en jeu seront considérables; il faudra peut‑être même faire appel à des expertises.
+[25] Les requêtes de MM. Dion et Payeur ont été entendues sous le régime de la procédure informelle. Cependant, lorsque la Cour applique les articles 53 et 58 de la procédure générale à ces requêtes par analogie, à titre supplétif suivant les paragraphes 19(1) et (4) de la procédure informelle, les critères applicables sont essentiellement les mêmes.
+[26] La thèse de l’intimée dans les réponses aux avis d’appel – à savoir que la vente illégale de drogue n’est pas une fourniture détaxée – a déjà convaincu la Cour du Québec. Il ne serait donc pas approprié que la Cour conclue que cette même thèse n’a aucun fondement et n’a aucune chance de succès. Il se peut bien que la jurisprudence de la Cour du Québec ne sera pas, en définitive, suivie par la Cour pour une raison quelconque. Cependant, il est trop tôt pour conclure qu’il est manifeste et évident que les réponses de l’intimée ne révèlent aucun moyen raisonnable de contestation des appels. La courtoisie judiciaire[1] exige que la Cour prenne, à tout le moins, acte d’une jurisprudence émanant d’une cour provinciale qui a, pour l’essentiel, une compétence concurrente dans le même domaine, et qui retient la thèse de l’intimée. Comment peut‑il être évident et manifeste qu’aucun moyen raisonnable ayant une chance de succès n’a été avancé alors que la Cour du Québec a, dans la décision Robitaille, confirmé une cotisation semblable sous le régime des lois sur la taxe de vente du Québec? Dans la décision Robitaille, la Cour du Québec a expressément rejeté la thèse selon laquelle la vente de cannabis était une fourniture détaxée. Elle s’est fondée, pour ce faire, sur une jurisprudence de notre Cour, soit sur la décision Centre hospitalier, par laquelle on avait assimilé le terme « drogue » au terme « médicament ».
+[27] Je cite de nouveau les observations du juge en chef Bowman dans la décision Sentinel Hill :
+[TRADUCTION]
+Lorsque des avocats chevronnés avancent, dans un acte de procédure, un énoncé des faits ou du droit qui mérite un examen sérieux de la part du juge du procès, il est pour le moins présomptueux, sinon fort insultant et offensant, de contraindre l’avocat à faire face à l’argument selon lequel cette position est dénuée de fondement à un point tel qu’elle ne mérite même pas d’être examinée lors d’une instruction.
+[28] Cela vaut a fortiori pour une jurisprudence de la Cour du Québec.
+[29] Pour les motifs exposés ci‑dessus, en l’espèce, il ne serait pas indiqué de trancher la question soulevée par les appelants à l’occasion d’une requête. Sauf si les parties conviennent de soumettre un renvoi à la Cour ou si le ministre renvoie une question à la Cour, il faut laisser au juge de l’instruction le soin de statuer sur la question soulevée dans ces requêtes. Même si le ministre renvoyait cette question à la Cour en vertu de l’article 311, rien ne garantit que la Cour se pencherait sur la question vu que, si elle répondait par la négative à la question et concluait que la vente illégale de drogue n’était pas une fourniture détaxée, il resterait de toute façon d’importantes questions litigieuses entre les parties, lesquelles questions devront être tranchées lors de l’instruction.
+[30] En outre, il convient de noter que, en ce qui a trait aux appels de MM. Dion et Payeur, la définition du terme « cannabis » dans le Règlement sur les stupéfiants exclut plusieurs formes de cannabis, alors qu’il n’est question que de cannabis dans les actes de procédure. Vu la définition du terme « cannabis », il sera peut‑être nécessaire de produire d’autres éléments de preuve afin d’établir que le cannabis en question ne faisait pas partie de l’une des trois formes de cannabis exclues.
+[31] Les requêtes sont rejetées, avec dépens.
+Signé à Toronto, Ontario, ce 28e jour d’avril 2011.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE : 2011 CCI 233
+Nos DES DOSSIERS DE LA COUR : 2009-2324(GST)G, 2009-1576(GST)I, 2009‑2591(GST)I
+INTITULÉS : RONALD BAILEY c. SMR ET GABRIEL PAYEUR c. SMR ET SÉBASTIEN DION c. SMR
+LIEU DE L’AUDIENCE :
+DATE DE L’AUDIENCE :
+MOTIFS DE L’ORDONNANCE : L’honorable juge Patrick Boyle
+DATE DES ORDONNANCES : Le 28 avril 2011
+Avocat des appelants :
+Me Richard Généreux
+Avocat de l’intimée :
+Me Gérald Danis
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Richard Généreux
+Cabinet :
+Drummondville (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour une analyse de la courtoisie judiciaire, voir la décision de notre Cour dans l’affaire Houda International Inc. c. La Reine, 2010 CCI 622.

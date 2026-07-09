@@ -1,0 +1,18 @@
+---
+title: "EDM8-1-1 CANCELLED Excise Warehouses"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm8-1-1.html
+last_modified: 2013-10-04
+---
+# EDM8-1-1 CANCELLED Excise Warehouses
+
+## This publication was cancelled
+
+This publication was cancelled as of 2026-04-15 and replaced with [EDM8-1-1 Excise warehouses](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty/excise-duty-memoranda/edm8-1-1-excise-warehouses.html).
+
+The Excise Act, 2001 requires a person to obtain an excise warehouse licence in order to store alcohol and tobacco products. This memorandum provides an overview of the obligations and entitlements of persons who may become excise warehouse licensees
+
+## Related documents
+
+- [B262 Excise Duty Return - Excise Warehouse Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b262.html)
+
+- [EDN40 Semi-Annual Reporting Period for Certain Licensees](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edn40.html)

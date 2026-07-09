@@ -1,0 +1,167 @@
+---
+title: "Sweetman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/496054/index.do"
+last_modified: "2021-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 32"
+citation2: ""
+neutral_citation: "2021 CCI 32"
+decision_date: "2021-06-29"
+language: "fr"
+item_id: "496054"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4630
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:56:36.562000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "58b23a29eb901f8b3a4694d3d7f17956c6ccdc064e0d3c8527b2f89b347c8d4f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sweetman c. La Reine
+
+- Citation: 2021 CCI 32
+- Decision date: 2021-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4630, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sweetman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-06-29
+Référence neutre
+2021 CCI 32
+Numéro de dossier
+2018-1524(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-1524(IT)G
+ENTRE :
+GARY SWEETMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée par voie d’observations écrites
+Devant : L’honorable juge David E. Graham
+Participants :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me John Chapman
+Me Jenna Clark Me Priya Bains
+ORDONNANCE
+La requête de l’appelant est rejetée.
+Les dépens de cette dernière suivront l’issue de la cause.
+Les parties devront fournir à la Cour le calendrier d’achèvement des étapes restantes de leur contentieux au plus tard le 31 mai 2021.
+Signé à Ottawa, Canada, ce 23e jour d’avril 2021.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 21e jour de juin 2021.
+François Brunet, réviseur
+Référence : 2021 CCI 32
+Date : 20210423 Dossier : 2018-1524(IT)G
+ENTRE :
+GARY SWEETMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] Gary Sweetman a demandé des crédits d’impôt pour des dons qu’il affirme avoir faits par l’intermédiaire d’un abri fiscal connu sous le nom de la Global Learning Gifting Initiative (« GLGI »). Le ministre du Revenu national a établi de nouvelles cotisations à l’égard de M. Sweetman, par lesquelles il a refusé ces crédits. Il a interjeté appel de ces refus.
+[2] Des dizaines de milliers d’autres contribuables ont également demandé des crédits d’impôt pour des dons prétendument faits à la GLGI. La Couronne a instruit deux causes principales. M. Sweetman a choisi de ne pas être lié par ces deux affaires principales. Dans la décision Mariano c. La Reine (Mariano) [1] , le juge Pizzitelli a rejeté les appels. Il a conclu, entre autres choses, que les appelants « n’avaient pas l’intention libérale de faire leurs dons, qu’ils n’ont pas possédé ou transféré les biens qui étaient l’objet du don en nature, [...] et que le programme était un trompe-l’œil » [2] .
+A. Mesure de redressement demandée
+[3] M. Sweetman demande que son appel soit mis en suspens jusqu’à ce que le ministre s’acquitte de toutes ses [traduction] « obligations envers les participants à la GLGI, y compris les nombreux manquements relatifs à [ses] propres déclarations de revenus ». Dans sa requête, M. Sweetman énumère de nombreux manquements présumés. Je les discuterai séparément.
+Non-confirmation des nouvelles cotisations établies à l’égard de la GLGI
+[4] Environ 17 000 contribuables ont reçu une nouvelle cotisation relativement à la GLGI, se sont opposés à cette nouvelle cotisation, n’ont pas accepté d’être liés par l'issue de la procédure Mariano et n’ont pas encore obtenu de confirmation de leurs oppositions de la part du ministre du Revenu national [3] . Je ferai référence aux nouvelles cotisations établies à l’égard de ces contribuables comme étant les « nouvelles cotisations reliées à la GLGI ».
+[5] M. Sweetman ne veut pas donner suite à ses appels tant que le ministre n’aura pas confirmé toutes les nouvelles cotisations reliées à la GLGI. Je n’ai pas la compétence d’ordonner au ministre de confirmer les nouvelles cotisations relatives à la GLGI. En conséquence, M. Sweetman souhaite que je maintienne son appel en suspens jusqu’à ce que le ministre le fasse. Il soutient que forcer ses appels à procéder avant que les nouvelles cotisations reliées à la GLGI soient confirmées lui serait extrêmement préjudiciable.
+[6] Un contribuable du nom de Jason Foroglou a également présenté une requête en suspens de son appel relatif à la GLGI jusqu’à ce que le ministre confirme les nouvelles cotisations associées à la GLGI. J’ai rejeté la requête de M. Foroglou [4] . M. Sweetman présente des arguments très similaires à ceux de M. Foroglou. Je rejette sa requête pour les mêmes motifs.
+Défaut de fournir un montant à payer
+[7] M. Sweetman allègue également que le ministre a omis de [traduction] « [...] fournir un montant définitif à payer pour [ses] déclarations de revenus en cause, car le ministre n’a pas traité les demandes de redressement en suspens concernant les pertes autres qu’en capital et les demandes d’exemption d’intérêts ».
+[8] M. Sweetman a déjà fait part de ses préoccupations concernant ces points [5] . Comme je l’ai déjà expliqué à M. Sweetman, s’il veut déposer un avis d’appel modifié pour soulever une question concernant l’utilisation des pertes autres qu’en capital pour les années en question, il peut le faire. Ses préoccupations concernant les pertes autres qu’en capital sont une raison pour lui d’envisager de modifier ses actes de procédure, et non une raison pour la Cour de mettre son appel en suspens.
+[9] Quant à l’argument de M. Sweetman concernant l’exemption d’intérêts, la Cour canadienne de l’impôt n’a pas compétence en cette matière. Cette compétence revient à la Cour fédérale [6] .
+Conduite du ministre
+[10] M. Sweetman soulève également d’autres manquements allégués concernant la conduite du ministre à l’étape de la vérification ou de l’opposition. Il ne s’agit pas de questions appropriées pour la Cour [7] .
+[11] M. Sweetman fait en particulier référence à un prétendu manquement à [traduction] « l’application uniforme de la législation fiscale à l’égard des contribuables liés à la GLGI dans tout le pays ». M. Sweetman n’explique pas pourquoi il croit que la loi n’a pas été appliquée de façon uniforme. D’après les documents qu’il a déjà déposés, je suppose qu’il fait référence à la conduite décrite par le juge Phelan de la Cour fédérale dans la décision Ficek c. Canada (Procureur général) [8] . Si tel est le cas, alors, comme il est indiqué ci-dessus, la Cour n’a pas compétence pour examiner la conduite du ministre.
+[12] Si l’application incohérente de la Loi soutenue par M. Sweetman fait référence au fait qu’il n’est plus en mesure de profiter d’une offre de règlement limitée dans le temps que le ministre a faite à d’autres contribuables, alors, là encore, la Cour canadienne de l’impôt n’a pas compétence pour examiner ces questions [9] . De même, la Cour canadienne de l’impôt n’a pas compétence pour examiner une différence de traitement entre d’autres contribuables, même si ces derniers se trouvent dans une situation identique à celle de M. Sweetman [10] .
+Autres allégations
+[13] M. Sweetman soutient également que le ministre a jeté le discrédit sur l’administration de la justice, qu’il a gravement entravé sa capacité de présenter une défense pleine et entière et qu’il s’est engagé dans une poursuite vexatoire. Ces allégations ne sont que de simples affirmations non étayées par des éléments de preuve. Il n’y a aucun fondement sur lequel je pourrais considérer ces affirmations et je m'abstiendrai de le faire.
+Conclusion
+[14] Compte tenu de tout ce qui précède, je rejette la requête de M. Sweetman.
+B. Dépens
+[15] M. Sweetman n’a pas demandé les dépens à l’égard de sa requête, pas plus que l’intimée. Par conséquent, les dépens de cette dernière suivront l’issue de la cause.
+C. Prochaines étapes
+[16] Compte tenu de tout ce qui précède, je ne vois pas pourquoi l’appel de M. Sweetman ne devrait pas être traité maintenant. Les parties sont tenues de fournir à la Cour des dates pour l’achèvement des étapes restantes de leur contentieux au plus tard le 31 mai 2021.
+Signé à Ottawa, Canada, ce 23e jour d’avril 2021.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 21e jour de juin 2021.
+François Brunet, réviseur
+RÉFÉRENCE :
+2021 CCI 32
+NO DU DOSSIER DE LA COUR :
+2018-1524(IT)G
+INTITULÉ :
+GARY SWEETMAN c. LA REINE
+DATE DE L’AUDIENCE :
+Requête tranchée par voie d’observations écrites
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 23 avril 2021
+PARTICIPANTS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me John Chapman
+Me Jenna Clark
+Me Priya Bains
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Avocate de l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 2015 CCI 244.
+[2] Mariano, par. 146.
+[3] Observations écrites de l’intimée datées du 30 janvier 2020, par. 6.
+[4] Foroglou c. La Reine, 2020 CCI 117, par. 20 à 40.
+[5] Voir Sweetman c. La Reine, 2020 CCI 36, par. 8.
+[6] Pour une discussion précise sur l’exemption d’intérêts dans le contexte de la GLGI, voir Wiegers c. La Reine, 2019 CCI 260, par. 18 à 24.
+[7] Main Rehabilitation c. La Reine, 2004 CAF 403, autorisation d’interjeter appel refusée 30739 (5 mai 2005) et Addison &Leyen Ltd. c. Canada, 2006 CAF 107, appel accueilli pour d’autres motifs 2007 CSC 33.
+[8] 2013 CF 502. M. Sweetman a renvoyé à cette décision dans une lettre adressée à la Cour en date du 12 février 2020.
+[9] Wiegers c. La Reine, 2019 CCI 260, par. 25 à 27.
+[10] Sinclair c. La Reine, 2002 DTC 1988 (CCI).

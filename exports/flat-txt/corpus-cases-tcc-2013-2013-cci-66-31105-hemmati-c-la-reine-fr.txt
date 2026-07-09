@@ -1,0 +1,135 @@
+Title: Hemmati c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31105/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-66-31105-hemmati-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-22
+
+# Hemmati c. La Reine
+
+- Citation: 2013 CCI 66
+- Decision date: 2013-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4691, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hemmati c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-22
+Référence neutre
+2013 CCI 66
+Numéro de dossier
+2012-2070(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2070(IT)I
+ENTRE :
+ESMAIL HEMMATI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 janvier 2013, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suzanne Bruce
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 de l’appelant est accueilli sans dépens, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant pour acquis que :
+a) en 2005, le revenu de l’appelant doit être réduit de 10 373 $;
+b) en 2006, le revenu de l’appelant doit être réduit de 1 084,83 $;
+c) en 2006, l’appelant a utilisé sa fourgonnette à des fins commerciales dans une proportion de 80 %.
+Signé à Ottawa, Canada, ce 22e jour de février 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour d’avril 2013.
+M.-C. Gervais
+Référence : 2013CCI66
+Date : 20130221
+Dossier : 2012-2070(IT)I
+ENTRE :
+ESMAIL HEMMATI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations relativement aux années d’imposition de 2005 et 2006 de l’appelant, conformément à ce qui suit :
+a) les sommes de 12 477 $ et de 12 304 $ ont été incluses dans son revenu relativement aux années d’imposition 2005 et 2006 respectivement;
+b) le montant de 1 758 $ a été refusé au titre de dépenses pour l’achat de fournitures en 2006;
+c) les dépenses et la déduction pour amortissement ayant trait à l’utilisation de son véhicule à des fins commerciales ont été réduites de 80 % à 50 %.
+[2] Au cours de la période, l’appelant a exploité deux entreprises à titre de propriétaire unique. Le ministre a conclu que l’appelant avait sous-estimé les revenus de chacune des entreprises. J’examinerai chaque entreprise séparément.
+[3] L’appelant s’est représenté lui-même à l’audience avec l’aide d’un interprète. Il a appelé deux témoins, son épouse Hitomi Ikeda Hemmati et son ami, Mohammad Koosha. L’intimée n’a appelé aucun témoin.
+L’épicerie « Dundas West Food Mart »
+[4] L’appelant exploitait une épicerie appelée Dundas West Food Mart (l’« épicerie ») du mois de janvier 2004 jusqu’au 3 août 2005. L’épicerie vendait principalement de la viande, mais aussi du pain et des aliments secs.
+[5] Dans sa déclaration de 2005, l’appelant a déclaré que le stock d’ouverture de l’épicerie était de 9 450 $. Il a aussi déclaré des achats de marchandises pour revente de 14 749 $ et des ventes de 39 127 $. Lors de la vérification, l’appelant a présenté des documents montrant que ses achats avaient en fait été de 31 309 $. La vérificatrice a accepté ces documents. Cependant, elle a supposé que, si les achats de l’appelant avaient été plus élevés que ce qu’il avait déclaré, ses ventes devaient être plus importantes que le montant déclaré. La vérificatrice a supposé que l’appelant avait déclaré des ventes inférieures à ses ventes réelles. En appliquant la moyenne du secteur d’activité (67,1 %) pour le [traduction] « coût des marchandises vendues exprimé comme un pourcentage des ventes », elle a estimé que les ventes de l’appelant avaient été de 66 060 $. La vérificatrice a alors calculé que l’appelant n’avait pas déclaré un revenu de 10 373 $ provenant de l’épicerie.
+[6] L’appelant soutient que la déclaration de ses ventes reposait sur les rubans de caisse enregistreuse et était exacte. L’appelant a subi de nombreuses pertes qui l’ont forcé à fermer l’entreprise en août 2005. Il allègue que ses pertes à l’épicerie étaient principalement attribuables au fait qu’il achetait trop de marchandises à vendre et que son entreprise était située dans un quartier pauvre. Il a témoigné qu’il était incapable de vendre tous les produits de viande qu’il achetait et qu’il devait donc jeter de nombreuses livres de viande avariée. Certains de ses aliments secs, dont les noix, s’abîmaient et il devait les jeter. Il n’a malheureusement pas pesé les marchandises perdues, ni tenu un registre des marchandises perdues.
+[7] Hitomi Ikeda Hemmati, l’épouse de l’appelant, de même que Mohammad Koosha, son ami, ont corroboré le témoignage de l’appelant selon lequel il avait dû jeter les marchandises qui s’étaient gâtées. M. Koosha était au courant des affaires de l’épicerie, car il vivait dans un appartement situé au sous‑sol de l’épicerie et visitait quotidiennement l’appelant à l’épicerie.
+[8] L’appelant a témoigné que c’était la première fois qu’il exploitait une épicerie et qu’il avait fait de nombreuses erreurs. La plus grosse de ces erreurs était l’emplacement qu’il avait choisi pour l’épicerie. Il est parvenu à la conclusion qu’il avait ouvert son épicerie dans un quartier pauvre. Dès 2005, il savait qu’il ne pourrait pas continuer à exploiter l’épicerie et il a fermé l’entreprise le 3 août 2005.
+[9] L’appelant fait valoir qu’il n’aurait pas fermé l’épicerie si ses ventes avaient été aussi élevées que les estimations de la vérificatrice. Il a fermé l’entreprise précisément parce que ses dépenses excédaient ses ventes.
+[10] J’ai conclu que le témoignage de l’appelant était digne de foi. Il a fait valoir que, contrairement à l’hypothèse du ministre, il avait des documents comptables. Il avait des factures de ses fournisseurs, des récépissés bancaires, un grand livre et des rubans de caisse enregistreuse. Je suis d’avis que la pièce R‑1 déposée par l’avocate de l’intimée confirme cette partie du témoignage de l’appelant.
+[11] L’appelant a expliqué en détail pourquoi il n’avait pas déclaré tous ses achats dans sa déclaration de 2005. C’est à son propre détriment qu’il a omis de déclarer une partie de ses achats. Il allègue que, bien qu’il ait déclaré un revenu d’entreprise net de 911 $ provenant de l’épicerie, il avait en fait subi une perte.
+[12] Le revenu non déclaré que le ministre a calculé était une estimation établie à l’aide d’une moyenne du secteur des marchés de viande pour 2006. La façon dont cette moyenne a été établie n’a pas été expliquée, ni comment elle s’appliquait à l’entreprise de l’appelant en 2005.
+[13] J’accepte le témoignage de l’appelant selon lequel l’épicerie était déficitaire en 2005 et qu’il a fermé l’entreprise après être parvenu à la conclusion qu’elle n’était pas viable. J’accepte également que, dans sa déclaration de 2005, l’appelant a déclaré correctement les ventes de l’épicerie.
+Arc Home
+Revenu et dépenses
+[14] À partir du mois d’octobre 2005, l’appelant a commencé à fournir des services de rénovation et de réparation dans des immeubles résidentiels et commerciaux. Il se livrait à ces activités à titre de propriétaire unique sous le nom d’Arc Home et il était payé comptant ou par chèque pour ses services.
+[15] Au stade de la vérification du présent appel, le ministre a conclu que l’appelant avait déclaré en moins ses revenus provenant d’Arc Home en 2005 et en 2006 et qu’il avait surestimé ses dépenses en 2006.
+[16] Le ministre a procédé à une analyse des dépôts bancaires effectués dans les comptes bancaires de l’appelant et a conclu que l’appelant avait des dépôts bancaires inexpliqués de 2 104,06 $ et de 12 303,70 $ en 2005 et en 2006 respectivement.
+[17] L’appelant a soutenu qu’il avait déposé dans son compte bancaire, en 2005, la somme de 2 000 $, qui provenait d’un montant en argent comptant qu’il conservait chez lui. Les sources de l’argent comptant étaient sa famille en Iran et la famille de son épouse au Japon. Cependant, l’appelant a déclaré qu’il n’avait pas de pièces justificatives pour étayer son témoignage et qu’il acceptait le calcul, effectué par le ministre, de ses revenus provenant d’Act Home en 2005.
+[18] Quant à l’année d’imposition de 2006, l’appelant a expliqué que les divers dépôts effectués dans son compte bancaire n’étaient pas des revenus d’entreprise, mais des remboursements pour du matériel dont il avait pris livraison pour ses clients. À l’appui de son témoignage, il a présenté des chèques et des courriels provenant de tiers. Le total des montants sur ces documents était de 7 999,19 $.
+[19] Je suis d’avis que l’appelant a démontré qu’un dépôt de 360 $ effectué le 30 octobre 2006 dans son compte correspondait au remboursement d’un prêt et non à un revenu d’entreprise. J’accepte également que les montants de 108 $, de 500 $ et de 116,83 $ n’étaient pas des revenus d’entreprise en 2006, mais des remboursements pour du matériel acheté pour ses clients. L’examen de la pièce R‑1 révèle que l’appelant n’a déclaré aucune dépense pour ce matériel. Je suis d’avis qu’un courriel sans pièce justificative provenant d’un tiers n’est pas suffisant pour établir que le montant de 6 914,36 $ n’était pas un revenu d’entreprise.
+[20] En 2006, l’appelant a déclaré des dépenses de fournitures s’élevant à 13 190,97 $. Cependant, seul le montant de 11 432,95 $ était étayé par des reçus et le ministre a refusé la différence de 1 758,02 $.
+[21] L’appelant a déclaré qu’il acceptait le calcul du ministre relativement à ses dépenses de fourniture.
+[22] Je suis bien consciente du fait que l’appelant n’a commencé à exploiter son entreprise qu’en 2005, mais lorsqu’un contribuable décide d’exploiter une entreprise, il doit tenir des registres détaillés pour étayer les revenus gagnés et les dépenses déduites relativement à ces revenus : Njenga v. R., [1997] 2 C.T.C. 8 (CAF).
+Utilisation d’un véhicule
+[23] L’appelant a acheté une fourgonnette en 2006, qu’il utilisait pour l’entreprise Arc Home. Il a déclaré qu’il utilisait la fourgonnette à des fins commerciales dans une proportion de 80 %. Le ministre n’a accepté qu’une utilisation de 50 % de la fourgonnette à des fins commerciales, parce que l’appelant n’avait pas présenté un registre étayant les déplacements effectués pour l’entreprise.
+[24] Je conclus que l’intimée a attribué une utilisation minimale de la fourgonnette de l’appelant à des fins commerciales. L’entreprise qu’exploitait l’appelant exigeait qu’il fasse un usage très fréquent de sa fourgonnette. Selon son témoignage, l’appelant utilisait la fourgonnette pour se rendre chez des clients potentiels et leur donner des estimations de travaux ainsi que pour aller chercher du matériel et le livrer afin d’exécuter les travaux prévus dans les contrats qu’il obtenait.
+[25] Même si l’appelant n’a pas tenu de registre des déplacements qu’il a effectués pour son entreprise en 2006, je suis convaincue qu’il utilisait sa fourgonnette à des fins commerciales dans une proportion de 80 %.
+Conclusion
+[26] Pour tous les motifs exposés ci-dessus, l’appel est accueilli compte tenu de ce qui suit :
+a) en 2005, le revenu de l’appelant doit être réduit de 10 373 $;
+b) en 2006, le revenu de l’appelant doit être réduit de 1 084,83 $;
+c) en 2006, l’appelant a utilisé sa fourgonnette à des fins commerciales dans une proportion de 80 %.
+Signé à Ottawa, Canada, ce 22e jour de février 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 3e jour d’avril 2013.
+M.-C. Gervais
+RÉFÉRENCE : 2013CCI66
+NO DU DOSSIER DE LA COUR : 2012-2070(IT)I
+INTITULÉ : ESMAIL HEMMATI c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 24 janvier 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 22 février 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suzanne Bruce
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney,
+Sous-procureur général du Canada
+Ottawa, Canada

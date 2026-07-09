@@ -1,0 +1,365 @@
+---
+title: "Hirjee v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521078/index.do"
+last_modified: "2023-01-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 4"
+citation2: ""
+neutral_citation: "2023 TCC 4"
+decision_date: "2023-01-12"
+language: "en"
+item_id: "521078"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5866
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-01-03T14:18:22.484000+00:00"
+cases_cited_count: 13
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "40524bcab4f89ff930355a16d18b48b9ad3034eb72e2de27cf4e9cea46a73699"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hirjee v. The King
+
+- Citation: 2023 TCC 4
+- Decision date: 2023-01-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5866, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hirjee v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-01-12
+Neutral citation
+2023 TCC 4
+File numbers
+2018-1012(GST)G
+Judges and Taxing Officers
+Monica Biringer
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018-1012(GST)G
+BETWEEN:
+ALYKHAN HABIB HIRJEE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 26 and 27, 2022 at Edmonton, Alberta
+Before: The Honourable Justice Monica Biringer
+Appearances:
+Counsel for the Appellant:
+Neil Mather
+Laura Jochimski
+Counsel for the Respondent:
+Paige MacPherson
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal from an assessment, no. 4197775, dated January 31, 2017 made under subsection 323(1) of the Excise Tax Act is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. The Appellant is not liable for any amounts that the Corporation was required to remit or pay after he ceased to be a director on February 2, 2015, namely for the quarterly reporting periods of the Corporation ending March 31, 2015, June 30, 2015, September 30, 2015 and December 31, 2015, as itemized in the Assessment;
+2. The Appellant is liable for the amounts that the Corporation was required to remit or pay for the reporting periods ending December 31, 2013, March 31, 2014, June 30, 2014, September 30, 2014 and December 31, 2014, as itemized in the Assessment; and
+There shall be no award of costs.
+Signed at Toronto, Ontario, this 12th day of January 2023.
+“Monica Biringer”
+Biringer J.
+Citation: 2023 TCC 4
+Date: 20230112
+Docket: 2018-1012(GST)G
+BETWEEN:
+ALYKHAN HABIB HIRJEE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Biringer J.
+I. THE APPEAL
+[1] Alykhan Habib Hirjee (the “Appellant”) appeals an assessment issued to him pursuant to subsection 323(1) of the Excise Tax Act,[1] in his capacity as a director of 1621844 Alberta Inc. (the “Corporation”). The underlying assessments issued to the Corporation were for unremitted GST/HST and interest, for reporting periods in 2013, 2014 and 2015.
+II. PRELIMINARY MATTERS
+A. Confidentiality Order
+[2] I issued an Order dated October 3, 2022 that the transcript of the hearing would be confidential. The basis for the Order was that intimate details of the Appellant’s mental health and other medical issues would be presented at trial and form the basis of the Appellant’s due diligence defence. I determined that the privacy of the Appellant in respect of these matters outweighed the public interest in having the transcript of the hearing made publicly available. For similar reasons, portions of this decision have been redacted.
+III. BACKGROUND FACTS
+[3] The Appellant, his brother, Nadim Hirjee, the Appellant’s wife, Dr. Alysha Hirjee, and the Corporation’s bookkeeper, Charmaine Moore, all testified. I found all of them to be credible. As the Appellant acknowledged, his memory of certain events lacked detail, which he attributed to his mental health challenges during the relevant period.
+A. The Bell Mobility Stores
+[4] The Appellant resides in Edmonton, Alberta. In 2003, the Appellant started work at a Bell Mobility store in Calgary. He moved to Edmonton to attend school, and graduated with a business management diploma in 2006. The Appellant worked for a Bell Mobility store in Edmonton while attending school. In or around 2006, the Appellant incorporated Connected Holdings Inc. to open two Bell Mobility stores in northern Alberta (Cold Lake and Bonnyville).
+[5] In or around 2009, the Appellant joined forces with Chehayeb Toufic and incorporated 1600013 Alberta Ltd. to operate Bell Mobility stores in Saskatchewan. Two stores were opened in 2010-2011. Both the Appellant and Mr. Toufic were directors, but Mr. Toufic was “99% responsible” for the operation of the Bell Mobility stores in Saskatchewan.
+[6] In or around 2011, Bell Mobility approached the Appellant to open new stores in Alberta and agreed to pay for the stores’ opening costs. The Corporation was incorporated under the laws of Alberta on August 3, 2011 for that purpose. The shareholders of the Corporation were Hirjee Holdings Inc. (a corporation owned by the Appellant’s mother and brother) and Secure Holdings Inc. (a corporation owned by the Appellant’s uncle and other investors). The Appellant had no shares in the Corporation but was the sole director.
+[7] The Corporation opened four new Bell Mobility stores in Alberta (Namao, Sherwood Park, Grand Prairie and Airdrie) in late 2012 and early 2013. Each of the Bell Mobility stores bought cellphones from Bell Mobility and sold them to customers who would sign up for cellphone packages with Bell Mobility. Revenues were derived in small part from phone sales and minor accessories, but largely from commissions paid by Bell Mobility in respect of service packages sold to customers. Local managers ran the stores, but the Appellant oversaw the operations, as he was very familiar with the Bell Mobility contracts and business model and dealt directly with Bell regarding inventory and contract terms.
+[8] The Corporation started to run into financial difficulty, in part because costs for the buildout of the stores were greater than anticipated and because Bell Mobility changed the commission structure. The timing of these events did not come out in the evidence although one would expect that the cost overruns occurred early in the life of the four stores.
+[9] The four stores operated from late 2012/early 2013 to sometime in 2016, when they were sold. From 2014 to 2016, the Corporation had 25-30 employees.
+B. Assessment of the Corporation
+[10] 2013: The Corporation filed a GST/HST return for the annual reporting period from January 1, 2013 to December 31, 2013, claiming a refund. The return was due to be filed on March 31, 2014. There was no evidence as to when the return was filed. The CRA conducted a pre-refund audit and on December 3, 2015 the Minister of National Revenue (the “Minister”) assessed the Corporation for unremitted net GST/HST for 2013 of $410,465.25 denying all claimed input tax credits.
+[11] 2014: On March 30, 2016, and April 4, 2016, the Minister assessed the Corporation “as filed” for the quarterly periods from January 1, 2014 to December 31, 2014, for unremitted net GST/HST of $167,129.40 in total. There was no evidence as to when the returns for the 2014 quarterly reporting periods were filed, but since the reassessments were issued on an “as filed” basis, and reflected interest charged for each period, it appears that all of the returns were late filed.
+[12] 2015: On April 25, 2016, the Minister assessed the Corporation for the quarterly reporting periods from January 1, 2015 to December 31, 2015 for unremitted net GST/HST of $167,129.40 in total. The assessment was based on the average amount of net GST/HST owed for each quarterly reporting period in 2014 on the basis that no GST returns had been filed for the 2015 reporting periods.
+[13] The Corporation did not object to the assessments. On January 17, 2017, the Minister registered the Corporation’s GST/HST liability by certificate with the Federal Court of Canada, which issued a writ for $584,520.15 (the “Writ”). The Corporation had no assets to seize, levy or take and the Writ was returned nulla bona. The debt registered in the Writ has not been satisfied.
+C. Assessment of the Appellant
+[14] On January 31, 2017, the Minister assessed the Appellant as director of the Corporation under subsection 323(1) of the Excise Tax Act for the unremitted net GST/HST and interest as follows (the “Assessment”):
+Reporting Period End Date
+Filing/
+Remittance Due Date
+Assessment Date
+Tax
+Interest
+Total
+December 31, 2013 (full year)
+March 31, 2014
+December 3, 2015
+$136,467.70
+$51,473.12
+$187,940.82[2]
+March 31, 2014
+April 30, 2014
+March 30, 2016
+$ 4,527.31
+$ 668.90
+$5,196.21
+June 30, 2014
+July 31, 2014
+March 30, 2016
+$ 38,885.40
+$ 5,186.20
+$44,071.60
+September 30, 2014
+October 31, 2014
+March 30, 2016
+$ 57,527.58
+$ 6,856.07
+$64,383.65
+December 31, 2014
+January 31, 2015
+April 4, 2016
+$ 66,189.11
+$ 6,960.65
+$73,149.76
+March 31, 2015
+April 30, 2015
+April 25, 2016
+$ 41,782.25
+$ 3,834.43
+$45,616.68
+June 30, 2015
+July 31, 2015
+April 25, 2016
+$ 41,782.25
+$ 3,263.18
+$45,045.43
+September 30, 2015
+October 31, 2015
+April 25, 2016
+$ 41,782.25
+$ 2,699.08
+$44,481.33
+December 31, 2015
+January 31, 2016
+April 25, 2016
+$ 41,782.25
+$ 2,142.58
+$43,924.83
+Total
+$470,726.10
+$83,084.21
+$553,810.31
+[15] On April 28, 2017, the Appellant duly objected. On December 5, 2017, the Minister confirmed the Assessment.
+D. Concession of the Respondent
+[16] At trial, an issue regarding the dissolution of the Corporation (on February 2, 2015) arose as potentially bearing on the periods in dispute. In a joint letter to the Court dated October 18, 2022, the parties agreed that as of the date of dissolution, the Appellant ceased to be a director and accordingly could not be liable as a director for tax liabilities of the Corporation arising after that time.[3] Accordingly, the Respondent concedes that the Appellant is not liable for amounts assessed in respect of the Corporation’s reporting periods ending March 31, 2015, June 30, 2015, September 30, 2015 and December 31, 2015. The total amount assessed for those periods is $179.068.27. The total amount assessed for the periods that remain in dispute is $374,742.04.
+E. The Expert Report
+[17] Dr. Pratap Chokka, MD, FRCPC was asked to provide an expert report by the Appellant’s counsel on the Appellant’s medical condition during the period December 31, 2013 to January 31, 2016 (the “Medically Assessed Period”). Dr. Chokka is a licensed psychiatrist in Alberta and a fellow of the Royal College of Physicians and Surgeons of Canada. At the time of the report, he was a clinical professor of psychiatry at the University of Alberta and an attending psychiatrist at the Grey Nuns Hospital in Edmonton. His main areas of interest in psychiatry include mood and anxiety disorders, specifically bipolar disorder, ADHD and reproductive psychiatry. Dr Chokka reviewed the Appellant’s medical records and met with the Appellant on March 3, 2020. The report is dated March 30, 2020 (the “Expert Report”).
+[18] Prior to the hearing, the Appellant requested an order, not contested by the Respondent, waiving the requirement in Rule 145(7)(c) of the Tax Court of Canada Rules (General Procedure)[4] that the expert be available for cross-examination at the hearing. The expert was not available on the scheduled hearing dates. I issued the Order with the caution that the expert’s absence might affect the weight given to the report, if admitted. The admissibility of the Expert Report would be determined at the hearing.
+[19] At the hearing, the Appellant addressed the criteria for admissibility of the Expert Report set out in Her Majesty the Queen v. Chikmaglur Mohan[5] (the “Mohan criteria”). The Respondent did not challenge the admissibility. I concluded that the Mohan criteria had been met: the Expert Report is central to the Appellant’s due diligence defence, outside the expertise of the Court, there is no relevant exclusionary rule and Dr. Chokka is professionally qualified to express the views in the report, subject to one caveat. The Expert Report draws conclusions about whether the Appellant was prevented from exercising “the degree of care, diligence, and skill that led to the Corporation’s failure to remit” and could not be “a reasonably prudent person”, which I reminded the Appellant were determinations for this Court to make, not Dr. Chokka.
+[20] The salient parts of the Expert Report are:
+1. ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | | || ||
+2. |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | | | | | | ||||||||||||||||| |||||||||||||||||
+3. ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | | | | | |
+4. ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | | ||||||||||||||||| |||||||||||||||||
+5. ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | | |||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+6. ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | | ||||||||||||||||| |||||||||||||||||
+7. |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||| ||||||
+8. ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | | | | | | | |
+IV. ISSUE
+[21] The issue in this appeal is whether the Appellant is jointly and severally, or solidarily, liable with the Corporation for the Corporation’s unremitted net GST/HST and interest in respect of the relevant periods. Given the Respondent’s concession, the remaining periods at issue are the 2013 annual reporting period and the four quarterly reporting periods in 2014.
+[22] At the hearing, the Appellant chose not to pursue various arguments put forward in the notice of appeal. The Appellant relies exclusively on the due diligence defence in subsection 323(3) of the Excise Tax Act and his diminished mental health during the relevant period.
+V. STATUTORY PROVISIONS
+[23] The central statutory provisions of the Excise Tax Act are subsections 323(1) and 323(3) which read as follows:
+323 (1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+…
+323 (3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+VI. POSITIONS OF THE PARTIES
+A. Position of the Appellant
+[24] The Appellant submits that he exercised the degree of care, diligence and skill to prevent the failure by the Corporation to remit GST/HST that a reasonably prudent person would have exercised in comparable circumstances. The Appellant submits that those “comparable circumstances” include the diminished capacity of someone experiencing the same degree of mental health impairment as Mr. Hirjee did during the relevant period.
+B. Position of the Respondent
+[25] The Respondent maintains that the Appellant’s mental health did not preclude him from meeting his responsibilities as a director and that the Appellant did not exercise the degree of care, diligence and skill to prevent the Corporation’s failure to remit GST/HST that a reasonably prudent person would have exercised in comparable circumstances. The Respondent submits that, during the relevant period, the Appellant knew that the Corporation’s remittance obligations were not being met and failed to take positive steps to prevent this from occurring.
+VII. ANALYSIS
+[26] The taxes and interest that remain in issue arise from reporting periods of the Corporation that start on January 1, 2013 and end on December 31, 2014. However, since a director’s liability arises under subsection 323(1) at the time the Corporation is required to remit or pay tax, the relevant period for the Appellant’s potential liability for those underlying reporting periods of the Corporation starts on March 31, 2014 and ends on January 31, 2015 (the “Relevant Period”).
+A. Buckingham v. R.
+[27] The case law analyzes the corporate director’s due diligence defence set out in subsection 323(3) of the Excise Tax Act and section 227.1(3) of the Income Tax Act[6] without distinction. In Buckingham v. R., the Federal Court of Appeal stated that there is “no fundamental conceptual difference between employee source deductions remittances and GST/HST remittances which justify a separate analysis of the duty of care, diligence and skill defence”.[7] The conclusions reached in the Income Tax Act decisions apply in the context of an assessment under the Excise Tax Act, and vice versa.
+[28] Buckingham is the leading authority regarding this due diligence defence. It was followed by the Federal Court of Appeal in Balthazard v. Canada[8] and, more recently, in Ahmar v. Canada.[9] In Buckingham, the Federal Court of Appeal held that the standard of care, skill and diligence required under subsection 323(3) of the Excise Tax Act is an objective standard as set out by the Supreme Court in Peoples Department Stores Inc. (Trustee of) v. Wise.[10] Peoples is a decision of the Supreme Court in relation to the standard of care, diligence and skill found in paragraph 122(1)(b) of the Canada Business Corporations Act,[11] which provides that every director and officer of a corporation shall, in exercising their powers and discharging their duties, “exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances”.
+[29] The Federal Court of Appeal in Buckingham concluded that with an objective standard, a director may no longer rely on his or her personal skills, knowledge or capacities to raise the due diligence defence:[12]
+[34] This caveat being stated, I agree with the trial judge that the “objective subjective” standard set out in Soper has been replaced by the objective standard laid down by the Supreme Court of Canada in Peoples Department Stores. I come to this conclusion in light of the language used in subsection 227.1(3) of the Income Tax Act and in subsection 323(3) of the Excise Tax Act, and also by applying the principle of the presumption of coherence between statutes.
+…
+[38] This objective standard has set aside the common law principle that a director’s management of a corporation is to be judged according to his own personal skills, knowledge, abilities and capacities: Peoples Department Stores at paras 59 to 62. To say that the standard is objective makes it clear that the factual aspects of the circumstances surrounding the actions of the director are important as opposed to the subjective motivations of the director: Peoples Department Stores at para 63. . . .
+[Emphasis added.]
+[30] Other key aspects of the Federal Court of Appeal’s reasoning in Buckingham are that a director’s conduct should be evaluated at the time that he or she became aware that the company was entering a period of financial difficulties[13] and that the director’s duty is to prevent the failure to remit rather than to correct the failure to do so:[14]
+[33] … The directors must thus establish that they exercised the degree of care, diligence and skill required “to prevent the failure”. The focus of these provisions is clearly on the prevention of failures to remit.
+…
+[49] The traditional approach has been that a director’s duty is to prevent the failure to remit, not to condone it in the hope that matters can be rectified subsequently: Wheeliker v. R., [1999] 3 F.C. 173 (Fed. C.A.) at para. 35, Ruffo c. R., 2000 D.T.C. 6317, [2000] 4 C.T.C. 39 (Fed. C.A.). Contrary to the suppliers of a corporation who may limit their financial exposure by requiring cash-in-advance payments, the Crown is an involuntary creditor. The level of the Crown’s exposure to the corporation can thus increase if the corporation continues its operations by paying the net salaries of the employees without effecting employee source deductions remittances, or if the corporation decides to collect GST/HST from customers without reporting and remitting these amounts in a timely fashion. In circumstances where a corporation is facing financial difficulties, it may be tempting to divert these Crown remittances in order to pay other creditors and thus ensure the continuation of the operations of the corporation. It is precisely such a situation which both section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act seek to avoid. The defence under subsection 227.1(3) of the Income Tax Act and under subsection 323(3) of the Excise Tax Act should not be used to encourage such failures by allowing a due diligence defence for directors who finance the activities of their corporation with Crown monies on the expectation that the failures to remit could eventually be cured.
+[Emphasis added.]
+[31] In Balthazard, the Federal Court of Appeal found that it is important for directors to act quickly in order to avail themselves of a due diligence defence; quick decisions are important because the farther a business falls behind in its taxes, the more difficult it becomes to argue that the business is not using Crown remittances to operate.[15]
+B. The Relevance of Mental Health Impairment
+[32] Subsection 323(3) of the Excise Tax Act provides that “comparable circumstances” must be considered in determining what a reasonably prudent person would have done. As the Court stated in Buckingham:[16]
+[39] An objective standard does not however entail that the particular circumstances of a director are to be ignored. These circumstances must be taken into account, but must be considered against an objective “reasonably prudent person” standard. As noted in Peoples Department Stores at paragraph 62:
+The statutory duty of care in s. 122(1)(b) of the CBCA emulates but does not replicate the language proposed by the Dickerson Report. The main difference is that the enacted version includes the words “in comparable circumstances”, which modifies the statutory standard by requiring the context in which a given decision was made to be taken into account. This is not the introduction of a subjective element relating to the competence of the director, but rather the introduction of a contextual element into the statutory standard of care. It is clear that s. 122(1)(b) requires more of directors and officers than the traditional common law duty of care outlined in, for example, Re City Equitable Fire Insurance, supra [[1925] 1 Ch. 407].
+[Emphasis added.]
+[33] As the standard is objective, attributes personal to a director, such as lack of experience or knowledge would not qualify as a “comparable circumstance”. By contrast, facts external to the director but which are part of the context in which the director acts are considered. These may include, for example, historical competence of staff and systemic compliance[17], a bank’s de facto control of a corporation’s finances[18] and the control of a corporation’s affairs by dangerous criminals.[19]
+[34] Here, the Appellant argues that the diminished mental health of the Appellant during the Relevant Period is to be considered a “comparable circumstance” applicable to the notional “reasonably prudent person”. Accordingly, I have considered whether this approach is appropriate or whether the Appellant’s mental health is otherwise relevant in determining the Appellant’s potential liability as a director for the failed remittances.
+[35] Decisions of this Court have considered a director’s mental health as relevant to the due diligence defence. In Attia v. R,[20] Justice Bédard took the director’s depression into account as well as the concrete and positive steps taken by the director to prevent the failure to remit GST. The appeal was allowed:
+[13] Indeed, the appellant was the sole director of the corporation, and until he became ill, the corporation had always met its tax obligations, even though it had sometimes been late. In addition, the fact that he appointed a competent manager to replace him until he got back on his feet shows that he was aware of his responsibilities.
+[14] The evidence adduced satisfied me that the appellant suffered from major depression during the periods at issue, and it is common knowledge that :depression is a disabling condition that affects the family life, the work, the eating habits, the sleep and the general well-being of those who suffer from it. Although it is not in itself a defence, I believe that this factor is one that must be taken into account in analyzing the appellant’s conduct.
+[15] … In this case, I believe that the appellant has shown a sufficient degree of diligence in delegating his duties to a competent manager, whose competence and honesty he had no reason to doubt, and I believe that a reasonable person placed in comparable circumstances would have done nothing more.
+[16] The appellant took a concrete and positive step to try to prevent the corporation’s failures to remit GST. He did not simply let his corporation decline …
+[Emphasis added.]
+[36] According to Justice Bédard, the director’s condition, although a relevant factor, would have been insufficient to relieve liability. By hiring a manager, the director took positive and concrete steps to remit GST. In doing so, the Court determined that he exercised his duty of care since a reasonably prudent person placed in comparable circumstances would not have done more to prevent the corporation’s failure to remit GST.
+[37] In Wiseman v R.,[21] the appellant director claimed that his depression and anxiety following his wife’s cancer diagnosis made it difficult for him to take over tasks previously handled by his wife, also a principal in the business. The Court did not accept that the appellant’s diminished mental health was sufficient to provide him with a due diligence defence since he “did nothing to prevent the failure by Microtax to remit GST.”[22]
+[38] This Court adopted similar reasoning in Doncaster v. R.[23] The appellant director in that case submitted that his attention deficit hyperactivity disorder should be taken into account in assessing the availability of the due diligence defence. The Court distinguished the facts from those in Attia:
+[84] While I am sympathetic to the problems caused by his medical conditions, I cannot ignore the fact that the appellant was aware for some time that DCI’s GST returns were not being filed and that net tax was not being remitted to the Receiver General.
+[85] … The appellant's disorders did not prevent him from seeking assistance when needed. I do not see any reason why the appellant could have not done the same with respect to filing DCI’s GST returns.
+…
+[87] In my view, Attia is distinguishable from the facts of this appeal. Unlike Mr. Attia, the appellant did not take any positive steps to prevent the failure of the corporation to pay its net tax.
+[Emphasis added.]
+[39] Attia suggests an approach which considers the director’s diminished mental health as a “comparable circumstance” and asks what a reasonably prudent person experiencing the same condition would do. I have concerns with this approach as it risks blurring the distinction made in Buckingham between the factual aspects of the circumstances surrounding the actions of the director (which are relevant) and the personal skills, knowledge, abilities or capacities of the director (which are not).[24] It potentially introduces a subjective diminished capacity test – based on the actual diminished capacity of the particular director - which Buckingham tells us is no longer appropriate.
+[40] That being said, I have concluded that even with an objective standard, there must be some departure in the case of serious mental illness to avoid attaching liability for failures which an individual is incapable of avoiding. In Peck v. Canada[25] this Court considered the relevance of the personal attributes of a taxpayer in the context of gross negligence penalties, where the similarly objective standard against which conduct is measured is that of a reasonable person in the same circumstances. In Peck, the Court relied on the “modified objective standard” set out in decisions of the Supreme Court, in the context of criminal negligence, for the proposition that where the test is objective, the personal attributes of an individual will be irrelevant unless they go to the individual’s “incapacity to appreciate or to avoid the risk”.[26]
+[41] Similarly, the Ontario Court of Appeal has articulated a modified standard to that of the reasonable person in the context of civil negligence where a person experiences mental illness. The Court enunciated a test which relieves an individual from liability if, by virtue of the mental health impairment, he or she does not have the capacity to understand or appreciate the duty of care owed or is unable to discharge that duty.[27]
+[42] I have determined that it is appropriate to apply a similar modification to the objective test set out in Buckingham as the standard asks what a reasonably prudent person would do in comparable circumstances. Stated with specific reference to a director’s duties to remit tax and mental illness, the question becomes whether the director can establish, on a balance of probabilities, that because of mental illness (a) he or she was incapable of understanding or appreciating the duty to prevent a failure of the Corporation to remit, or, (b) (even if this was understood) he or she was unable to discharge that duty.
+[43] I acknowledge that a director with mental health incapacity may be ineligible to hold office or cease to hold office as provided in the governing corporate law, rendering the director’s potential liability moot.[28] However, that is not the case here and there will no doubt be other circumstances in which a director remains in office but experiences serious mental illness.
+[44] Here, the Appellant did not argue that he lacked the capacity to appreciate the duty to prevent the Corporation’s failure to remit during the Relevant Period and there was no evidence to support that conclusion. I have therefore considered whether the Appellant’s diminished mental health during the Relevant Period was such that he was unable to avoid the failures to remit, as the Appellant submits.
+C. The Need to Take Steps
+[45] As the Federal Court of Appeal stated in Buckingham, “a director must carry out the duties of that function on an active basis and will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction”.[29] To put forward a due diligence defence, a director must be able to show that they took active identifiable steps to prevent the failure to remit.
+[46] Here, the Appellant’s expert determined that during the Medically Assessed Period, |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||| |||||||||||||||||||||||||. The Respondent does not contest this conclusion but submits that notwithstanding the Appellant’s medical condition, he was aware during the Relevant Period of the Corporation’s obligation to remit GST/HST and ought to have taken steps to prevent the failure to remit. The Respondent relies on the decisions in Attia and Doncaster and submits that this failure to take steps is fatal to the Appellant’s due diligence defence.
+[47] The Appellant acknowledges the obligation of a director to “take steps” to prevent failures to remit, but relies, in part, on the fact that the Appellant set up a system for the Corporation’s GST/HST compliance. The Appellant also relies on Labrecque in support of the position that a failure to take steps will not be fatal to a due diligence defence where the director is unable to act. The Appellant submits that his mental health rendered him unable to prevent the failures to remit GST/HST.
+[48] In Labrecque, the appellant director lost control of the corporation’s affairs to dangerous criminals who threatened retaliation if the appellant did not follow orders. The Tax Court observed:[30]
+[9] Thus, although it is insufficient in itself to exempt a director, the imposition of such external constraints on a director’s exercise of discretion still remains, in my opinion, part of the circumstances that should be taken into consideration when analyzing the standard of reasonable care, diligence and skill.
+…
+[13] In my opinion, the fact that no positive action was taken to attempt to prevent the failure to remit is not fatal if it has been determined that external constraints (such as psychological, economic and social control) were such that a reasonable person who was a victim of the same control would have done nothing.
+[Emphasis added.]
+[49] The Appellant submits that similarly, the “constraint” that made it “impossible” for the Appellant to discharge his duties as a director or “powerless to act” was the Appellant’s mental health impairment. The Appellant submits that it affected his ability to function, both personally and professionally.
+[50] Labrecque is not directly relevant to the Appellant’s situation, as that case involved factors external to the director that were considered to prevent the director from action. Nonetheless, the debate between the parties here boils down to a similar issue - whether during the Relevant Period the Appellant had become unable to take further steps to prevent the failures to remit, as a result of mental illness.
+D. The Corporation’s Process for Filing GST/HST Returns
+[51] The Appellant submits that during the Relevant Period he was unable to prevent the failures to remit, but relies, in part, on the “systems” put in place prior to that time to prevent the failures in support of a due diligence defence.
+[52] The Appellant and Ms. Moore testified about the process for the collection and remittance of GST/HST and filing of returns. In 2013, the Appellant hired Shu Ying Hu as an administrative assistant for the Corporation. Ms. Moore was hired in 2012 as an external bookkeeper. The process for the filing of GST/HST returns involved: Ms. Hu gathering information and documentation (including invoices and receipts) and providing the same to Ms. Moore. Ms. Moore prepared monthly financial information, using accounting software. This included a summary of GST/HST collected, remitted and payable. If information was missing, Ms. Moore would follow up with Ms. Hu and/or the Appellant. The Appellant’s input was needed particularly with respect to details of the business arrangement with Bell. As the Appellant and Ms. Moore testified, the Bell commission system was complicated.
+[53] Ms. Moore would then provide the information and documentation to the Corporation’s accountant, Mr. Adatia. Mr Adatia would prepare the GST/HST returns and then send them to the Appellant for signature and payment of the balance owing. The Appellant was the only person with signing authority for the Corporation’s bank account.
+[54] The Respondent argued that the Appellant’s condition did not prevent him from: (a) ensuring the Corporation was current on its payroll source deductions; (b) ensuring 1503264 Alberta Ltd. was current on its GST and payroll source deduction obligations; and (c) filing personal tax returns and paying personal taxes. These facts, while not disputed, are explained.
+[55] The Corporation used Ceridian, a payroll service company, to calculate and remit payroll taxes. Ms. Hu collected payroll information and provided it to Ceridian. The Appellant was not part of that process. 1503264 Alberta Ltd. was a corporation of which the Appellant’s brother and mother were shareholders and directors; the Appellant was neither. As for personal taxes, the Appellant’s spouse would arrange to have both of their personal tax returns prepared and would only need the Appellant to sign his return. As the Appellant was not materially involved in any of these filings or associated tax payments, I do not regard as significant the fact that these filings were timely made and associated liabilities paid.
+[56] The Respondent does not dispute the existence of a process for the filing of GST/HST returns, but emphasizes that the failure at issue is the remittance of tax. Only the Appellant had control over the Corporation’s bank account; only he could remit taxes. The Respondent submits that it was incumbent on the Appellant to delegate that authority or make other arrangements to ensure that GST/HST was remitted. The Respondent’s position is that a reasonably prudent person in comparable circumstances could have requested the appointment of another director, delegated signing authority over the Corporation’s bank account to another person, or set up a separate bank account for the collection and remittance of GST/HST so that the funds collected could not be used for another purpose. The Respondent’s position is that a reasonably prudent person would have taken action before the failures to remit occurred.
+[57] As the Federal Court of Appeal determined in Buckingham, a director’s conduct should be evaluated at the time that he or she became aware that the company was entering a period of financial difficulty. Where a corporation is in financial difficulty, and therefore subject to a greater risk of default in making tax remittances, the standard of care may be considered to rise and impose upon a director the duty to take positive action to prevent the failure to remit.
+[58] There was limited evidence on precisely when the Corporation’s financial difficulties arose or the impact of particular events. As noted earlier, the cost overruns were likely established early in the life of the four stores, which I have assumed to be sometime in 2013. There was no evidence as to when the Bell commission structure changed. I note that the GST/HST returns filed for the Corporation’s 2013 and 2014 years reflect increasing revenues from 2013 ($2,736,435) to 2014 ($3,085,042) and in each quarter in 2014 (Q1‑$670,488, Q2‑$756,909, Q3-$791,312, Q4-$866,333).
+[59] The first failure to remit in issue occurred on March 31, 2014 and the last on January 31, 2015. In light of the lack of evidence as to when the Corporation’s financial difficulties became serious, I have considered the Appellant’s conduct in 2013, 2014 and up to January 31, 2015.
+[60] The fact that the Appellant had set up a process in or around 2012-2013 for the filing of GST/HST returns and payment of taxes, likely before the Corporation started to experience financial difficulty, is relevant but not sufficient to provide the Appellant with a due diligence defence. The Appellant continued to be involved in the management and business of the Corporation in 2013 and 2014 and would have been aware of the Corporation’s financial difficulties. There was no evidence that the process for filing GST/HST returns and payment of taxes changed at all during the Relevant Period (or after) with the onset of increasing financial difficulties or decline in the Appellant’s mental health. The Appellant remained an essential part of the process for determining GST/HST payable, the filing of returns, and the remittance of tax. No corrective steps were taken after any of the failures to remit.
+[61] Where a director becomes aware or ought to have become aware that a corporation may fall behind on its remittances, the director must take positive steps to prevent the failures to remit in order to avail himself or herself of the due diligence defence. The Appellant did not take those steps and therefore unless he is able to prove, on a balance of probabilities, that he was unable to take those steps, will not be able to rely on the due diligence defence.
+E. The Decline in the Appellant’s Mental Health
+[62] A significant challenge with the evidence tendered at trial is that it reflects that the Appellant’s mental health was good in 2012, started to decline in the spring of 2013, and was severely compromised by 2015 and 2016, with limited evidence in respect of 2014. Yet the Relevant Period starts in 2014 and ends on January 15, 2015.
+[63] The Expert Report does not address any changes in the Appellant’s mental health and function during the Medically Assessed Period. That we heard through oral testimony.
+[64] 2013: ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||.
+[65] 2014: Things got worse in 2014, although the evidence in support of this is limited. The Appellant started missing appointments and deadlines. Ms. Moore describes things as “starting to unravel”. She notices that the Appellant takes longer to answer her emails and phone calls to the point where it affects her ability to fulfill her responsibilities. Nonetheless, Ms. Moore completed the regular financial reporting for the Corporation for 2014 including in respect of GST/HST, although the timing of this is unclear. As noted, GST/HST returns were filed for all of the 2014 quarterly reporting periods.
+[66] 2015: ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||
+[67] Both Ms. Moore and Mr. Adatia became increasingly aware of the Appellant’s condition. Both contacted the Appellant’s brother when they needed information with respect to the Corporation or wanted to get the Appellant to respond to emails or requests for information. The Appellant’s brother, who was also in business and used the same bookkeeper and accountant, became involved to answer their questions and fulfill some of the Appellant’s responsibilities.
+[68] In 2015, Ms. Moore was no longer engaged in the Corporation’s regular financial reporting; she was not getting instructions or responses from the Appellant. However, Ms. Moore was engaged in responding to the CRA GST/HST audit of 2012 and 2013. For example, in July 2015 Ms. Moore attempted to get responses from the Appellant in connection with the CRA Audit of 2012 and 2013.[31] Ms. Moore’s email dated July 17, 2015 closes with “CRA-VERY IMPORTANT SO ALY PLEASE GET BACK TO ME” which Ms. Moore explained was due to the Appellant’s continuing lack of responsiveness. Emails to the Appellant from Mr. Adatia and Ms. Hu around the same time also include requests to respond in capital letters, likely for the same reasons.
+[69] The Appellant did not respond to emails from Bell such that they started withholding on the Corporation’s line of credit. When the lines of credit reached a certain point, Bell suggested to the Appellant that they could find buyers for the stores that would assume the line of credit liability. The four stores run by the Corporation were sold on this basis in 2016.
+[70] 2016 and later years: The Namao Store was robbed at gunpoint in late 2015. An employee was tied up and phones were stolen with an aggregate value of about $50,000.[32] The Appellant never followed up to claim insurance proceeds in respect of the robbery, even though he believed he was entitled to a significant recovery. The Appellant testified that this was another example of his failure to act, even in circumstances where it would have been in the Corporation’s interest to do so.
+[71] |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | | |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||||
+[72] The Corporation’s accountant (Mr. Adatia) quit in April, 2016. In an email,[33] the accountant states as his reasons that the Appellant has been avoiding talking to CRA regarding audits (of the 2012 and 2013 years) for 2 years, ignoring calls and correspondence and failing to advise the accountant of any conversations with the CRA.
+[73] Also in 2016, the four stores were sold. As the Appellant’s brother testified, the Appellant had no capacity to operate the stores. Once the stores were sold, the Appellant’s health started to improve and continued to improve in 2017 and 2018. ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+[74] The period after January 31, 2015 is no longer in issue. However, the severe decline in the Appellant’s condition during 2015 and continuing into 2016 provides a clearer overall picture. The detailed evidence provided for 2015 and 2016 also highlights the absence of evidence for 2014 as to a decline in the Appellant’s mental health and the impact on his functioning.
+[75] I am sympathetic to the circumstances of the Corporation and Mr. Hirjee. I also recognize that the decline in the Appellant’s mental health from the spring of 2013 through 2016 was not linear. Nonetheless, I am required to determine the impact of the Appellant’s mental health during the Relevant Period.
+[76] As noted earlier, the Corporation’s revenues continued to increase in 2014. While Ms. Moore testified that things “started to unravel” in 2014, the GST/HST returns for 2013 and all of 2014 were ultimately filed. Given the testimony of Ms. Moore and the Appellant with respect to the process for compiling relevant information to complete the GST/HST returns, it appears likely that the Appellant would have been involved in the information gathering for the preparation of those returns. Once the returns were ready, the accountant would send them to the Appellant for signature. Yet the balance owing, reflected on those returns, was not paid. The GST/HST collected and not remitted might have been used to satisfy other obligations although it is unclear how that would have happened without involving the Appellant, as he was the only person with signing authority for the Corporation’s bank account.
+[77] ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||| |||||||||||||||||||||||||||| This is also reflected in the testimony of the Appellant’s brother and Ms. Moore, suggesting that the Appellant was often non-responsive to requests for information in mid-2015. This was also the timeframe for the CRA audit of the Corporation’s 2012 and 2013 taxation years, which the Expert Report indicates as one of the stressors causing the Appellant’s mental health to decline. Based on the evidence, I have concluded that the Appellant’s mental health became severely compromised during 2015, which continued in 2016 until the stores were sold. However, due to the Respondent’s concession that the Appellant is not liable for any failures to remit after February 2, 2015, I have not determined whether a different conclusion on the availability of the due diligence defence might have been reached in respect of periods ending after January 31, 2015.
+[78] For the Relevant Period, I have concluded that the Appellant has not demonstrated that he exercised the degree of care, diligence and skill necessary to prevent the failures to remit that would be exercised by a reasonably prudent person in comparable circumstances. The Appellant has not demonstrated, on a balance of probabilities, that he was “unable to act” or that it was “impossible” for him to act to prevent the failures to remit.
+[79] I accept that the Appellant may have had difficulty in completing small tasks at times during the Relevant Period. However, the evidence does not support a conclusion that the Appellant was incapable of taking further steps to prevent the failures to remit. The evidence suggests that during the Relevant Period the Appellant was still engaged in the business of running the stores and the preparation and filing of GST/HST returns for the relevant reporting periods. Steps to be taken to prevent the failures to remit could include those suggested by the Respondent, or other steps to address the fact that only the Appellant had signing authority over the corporation’s bank account. I agree with the Respondent that a reasonably prudent person in comparable circumstances would have taken further steps to prevent the failures to remit and that the failure to take those steps is fatal to the Appellant’s due diligence defence.
+[80] While there may be situations in which a director’s mental health is so incapacitating (objectively determined) that he or she may be excused from taking further steps to prevent the failure to remit, I have determined that this has not been established by the Appellant for the Relevant Period.
+VIII. CONCLUSION
+[81] As conceded by the Respondent, the Appellant is not liable for any amounts that the Corporation was required to remit or pay after he ceased to be a director on February 2, 2015, namely for the quarterly reporting periods of the Corporation ending March 31, 2015, June 30, 2015, September 30, 2015 and December 31, 2015, as itemized in the Assessment.
+[82] The Appellant is liable for the amounts that the Corporation was required to remit or pay for the reporting periods ending December 31, 2013, March 31, 2014, June 30, 2014, September 30, 2014 and December 31, 2014, as itemized in the Assessment.
+[83] There shall be no award of costs.
+Signed at Toronto, Ontario, this 12th day of January 2023.
+“Monica Biringer”
+Biringer J.
+CITATION:
+2023 TCC 4
+COURT FILE NO.:
+2018-1012(GST)G
+STYLE OF CAUSE:
+ALYKHAN HABIB HIRJEE v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+September 26 and 27, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Monica Biringer
+DATE OF JUDGMENT:
+January 12, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Neil Mather
+Laura Jochimski
+Counsel for the Respondent:
+Paige MacPherson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Neil Mather
+Firm:
+EY Law LLP Edmonton, Alberta
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada
+[1] RSC 1985, c E-15.
+[2] There was no evidence reconciling the difference between the amount assessed against the Appellant for the 2013 reporting period and the amount assessed against the Corporation for the same reporting period.
+[3] As this concession did not arise until after the trial, the evidence led and arguments made at trial were in respect of all of the reporting periods underlying the Assessment.
+[4] SOR/90-688a.
+[5] [1994] 2 SCR 9.
+[6] RSC 1985, c 1 (5th Supp).
+[7] 2011 FCA 142, 2011 CarswellNat 1295, at para 42 (“Buckingham”).
+[8] 2011 FCA 142 (“Balthazard”).
+[9] 2020 FCA 65 (“Ahmar”).
+[10] 2004 SCC 68 (“Peoples”).
+[11] RSC 1985, c C-44 (“CBCA”).
+[12] Buckingham at paras 34 and 38.
+[13] Buckingham at para 46.
+[14] Buckingham at paras 33 and 49; see also Newhook v. The Queen, 2021 TCC 1 at para 42; Ahmar at para 18.
+[15] Balthazard at para 50.
+[16] Buckingham at para 39.
+[17] McKenzie v. The Queen, 2013 TCC 239 at para 106.
+[18] Worrell v. R., 2000 DTC 6593 at para 79.
+[19] Labrecque v. R., 2012 TCC 339 (“Labrecque”) at paras 9 and 13.
+[20] 2014 TCC 46 (“Attia”).
+[21] 2011 TCC 215 (“Wiseman”).
+[22] Wiseman at para 26.
+[23] 2015 TCC 127 (“Doncaster”).
+[24] Buckingham at para 38.
+[25] 2018 TCC 52 (“Peck”).
+[26] Peck at para 51, referring to Canada v. Beatty, 2008 SCC 5 and quoting from Canada v. Roy, 2012 SCC 26 at para 38.
+[27] Buckley v Smith Transport Ltd. [1946] OJ No. 329; see also Fiala v. Cechmanek, [2001] AJ No. 823 (Alta CA).
+[28] See for example subsections 105(1) and 108(1) of the Alberta Business Corporations Act, RSA 2000, c B-9.
+[29] Buckingham at para 38.
+[30] Labrecque at paras 9 and 13.
+[31] Exhibit A-16, at tab H of Exhibit A-1.
+[32] Exhibit A-17, at tab J of Exhibit A-1.
+[33] Exhibit A-18, at tab K of Exhibit A-1.

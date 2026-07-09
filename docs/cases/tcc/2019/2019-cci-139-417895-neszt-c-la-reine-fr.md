@@ -1,0 +1,153 @@
+---
+title: "Neszt c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/417895/index.do"
+last_modified: "2019-07-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 139"
+citation2: ""
+neutral_citation: "2019 CCI 139"
+decision_date: "2019-07-11"
+language: "fr"
+item_id: "417895"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4379
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:13:56.234000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "62798f5e95ed6606c8e73abcb018d8bccb3901d23e774a43873d8e8269542d64"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Neszt c. La Reine
+
+- Citation: 2019 CCI 139
+- Decision date: 2019-07-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4379, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neszt c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-07-11
+Référence neutre
+2019 CCI 139
+Numéro de dossier
+2018-352(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-352(IT)I
+ENTRE :
+STEPHEN J NESZT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 janvier 2019, à Montréal (Québec)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gabriel Girouard
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2015 est rejeté, conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 27e jour de juin 2019.
+« Réal Favreau »
+Le juge Favreau
+Référence : 2019 CCI 139
+Date : 20190627
+Dossier : 2018-352(IT)I
+ENTRE :
+STEPHEN J NESZT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] La Cour est saisie d’un appel visant une nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa forme modifiée (la « Loi »), par le ministre du Revenu national (le ministre) à l’égard de l’appelant pour l’année d’imposition 2015.
+[2] Aux termes de la nouvelle cotisation établie le 31 octobre 2016, le ministre a inclus dans le calcul du revenu de l’appelant la somme de 26 361 $ à titre de revenu de source canadienne, en application de l’alinéa 56(1)j) de la Loi.
+[3] Pour déterminer l’obligation fiscale de l’appelant pour l’année d’imposition 2015, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+a) l’appelant est titulaire de deux polices d’assurance-vie (numéros 4701179-6 et 7435221-2), qui lui ont été délivrées en novembre 1977 et novembre 1982, respectivement, par la London Life, Compagnie d’Assurance-Vie (ci-après la London Life);
+b) durant l’année d’imposition 2015, l’appelant a contracté, auprès de la London Life, des prêts personnels sur ses polices d’assurance-vie;
+c) les avances sur police consenties par la London Life sont réputées être une disposition des intérêts dans les polices d’assurance-vie;
+d) le coût de base rajusté (CBR) des polices d’assurance-vie correspond essentiellement à la différence entre la somme des primes versées par l’appelant et les dividendes déclarés, le cas échéant, moins le coût net de l’assurance pure (CNAP);
+e) selon les calculs de la London Life, le CBR de la police numéro 4701179-6 est de 6 337,80 $ et il s’établit à 11 077,72 $ pour la police numéro 7435221-2;
+f) le revenu relatif à la disposition des intérêts de l’appelant dans ses polices d’assurance-vie s’élève à 7 190 $ et à 19 170,70 $, pour un montant total de 26 361 $;
+g) tout remboursement des avances sur police, le cas échéant, fait durant l’année d’imposition 2015 aurait réduit le montant précité du revenu.
+[4] Pour l’année d’imposition 2015, la London Life, Compagnie d’Assurance-Vie, a délivré deux feuillets T5 à l’appelant, de 7 190 $ et 19 170 $, respectivement, à titre d’« autre source de revenu ». Selon l’appelant, ces deux montants ne sont pas en soi imposables, car ils proviennent de prêts personnels sur deux polices d’assurance-vie entière souscrites en son nom. Il allègue que ces prêts se comparent à des prêts personnels contractés auprès d’une institution financière, comme une banque à charte. Or, les sommes provenant d’un prêt personnel contracté auprès d’une banque à charte ne sont pas, en soi, imposables.
+[5] En toute déférence, je ne conteste pas l’opinion de l’appelant, selon laquelle les avances sur polices d’assurance-vie devraient être considérées comme des prêts personnels d’une institution financière, car ces avances sont régies par des dispositions précises de la Loi.
+[6] Selon l’alinéa 56(1)j) de la Loi, le calcul du revenu d’un contribuable pour une année d’imposition donnée doit inclure toute somme qui doit l’être aux termes du paragraphe 248(1) ou (1.1) de la Loi.
+[7] Le paragraphe 248(1) de la Loi prévoit qu’il faut inclure dans le calcul du revenu l’excédent du produit de disposition de l’intérêt dans une police d’assurance-vie auquel le titulaire a droit au cours de l’année sur le coût de base rajusté, pour le titulaire de la police, de cet intérêt immédiatement avant la disposition. Les exceptions à cette règle, qui sont énumérées aux alinéas 148(1)a) à e), ne s’appliquent pas au présent appel.
+[8] Les termes et expressions utiles pour l’application de l’article 148 sont définis au paragraphe 148(9) de la Loi.
+[9] En ce qui concerne des intérêts dans une police d’assurance-vie, le terme « disposition » comprend les avances sur police consenties après le 31 mars 1978.
+[10] L’expression « avance sur police » s’entend d’une « [a]vance consentie par un assureur au titulaire d’une police en conformité avec les modalités de la police d’assurance-vie ».
+[11] L’expression « produit de disposition » des intérêts dans une police d’assurance-vie désigne le :
+montant du produit que le titulaire [...] a le droit de recevoir lors de la disposition d’intérêts dans la police; il est entendu que : [...] dans le cas d’une avance sur police consentie après le 31 mars 1978, le terme vise le moins élevé des montants suivants :
+(i) le montant de l’avance, à l’exclusion de la fraction de ce montant qui sert, immédiatement après que l’avance a été consentie, à payer une prime relative à la police, en conformité avec les modalités de la police,
+(ii) l’excédent éventuel de la valeur de rachat de la police immédiatement avant que l’avance ait été consentie sur le total des soldes impayés à ce moment de toute avance sur police à l’égard de la police.
+[12] La « valeur de rachat » d’une police d’assurance à un moment donné est « sa valeur de rachat à ce moment, calculée compte non tenu des avances sur police consenties aux termes de la police, des participations de polices (autres que les bonifications d’assurance libérée) payables aux termes de la police, ni des intérêts payables sur ces participations ».
+[13] Le « coût de base rajusté » des intérêts que possède un titulaire dans une police d’assurance-vie, à un moment donné, est déterminé par une formule très complexe qui, essentiellement, inclut les primes relatives à la police rajustées en fonction du coût net de l’assurance pure et le montant des avances sur police, ce qui réduit le coût de base rajusté de la police.
+[14] Essentiellement, ces règles complexes visent à s’assurer qu’un titulaire de police inclut dans le calcul de son revenu toute avance sur police dont le montant est supérieur au coût de base rajusté de ses intérêts dans la police.
+[15] Il pourrait être utile de mentionner ici que, lorsqu’une avance sur police est remboursée, le titulaire de la police peut déduire le total des remboursements faits durant l’année relativement à l’avance sur police (alinéa 60s) de la Loi). Si le montant des remboursements est supérieur aux montants inclus dans le calcul du revenu provenant de la disposition des intérêts dans une police d’assurance-vie, pour l’année d’imposition en cours ou une année d’imposition antérieure, l’excédent sera ajouté au coût de base rajusté de la police.
+[16] L’article 217 du Règlement de l’impôt sur le revenu prévoit que, lorsqu’une somme doit, en application de l’alinéa 56(1)j) de la Loi, être incluse dans le calcul du revenu d’un contribuable, l’assureur doit remplir une déclaration de renseignements à l’égard de la somme, selon le formulaire prescrit. Le formulaire prescrit est le feuillet T5. C’est précisément ce qu’a fait la London Life, Compagnie d’Assurance-Vie relativement aux avances consenties à l’appelant en 2015 sur ses deux polices d’assurance-vie.
+[17] Aucun élément de preuve ne porte à croire que les montants indiqués sur les feuillets T5 délivrés par la London Life ont été mal calculés. L’appelant a demandé au bureau de l’ombudsman de la London Life, Compagnie d’Assurance-Vie, de délivrer des feuillets T5 révisés aux fins de l’impôt sur le revenu, mais sa demande a été rejetée, car les montants indiqués sur les feuillets T5 avaient été bien calculés.
+[18] L’appel est rejeté pour l’ensemble de ces motifs.
+Signé à Montréal (Québec), ce 27e jour de juin 2019.
+« Réal Favreau »
+Le juge Favreau
+RÉFÉRENCE :
+2019 CCI 139
+NO DU DOSSIER DE LA COUR :
+2018-352(IT)I
+INTITULÉ :
+STEPHEN J NESZT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 15 janvier 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 27 juin 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Gabriel Girouard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

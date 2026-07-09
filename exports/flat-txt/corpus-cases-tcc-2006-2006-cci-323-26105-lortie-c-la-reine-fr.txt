@@ -1,0 +1,121 @@
+Title: Lortie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26105/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-323-26105-lortie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-08-08
+
+# Lortie c. La Reine
+
+- Citation: 2006 CCI 323
+- Decision date: 2006-08-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4166, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lortie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-08
+Référence neutre
+2006 CCI 323
+Numéro de dossier
+2005-2463(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2463(IT)I
+ENTRE :
+ALAIN LORTIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 31 mai 2006 à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l'année d’imposition 2003 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8ième jour du mois d’août 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI323
+Date :20060808
+Dossier : 2005-2463(IT)I
+ENTRE :
+ALAIN LORTIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu à Québec (Québec), le 31 mai 2006. Dans une nouvelle cotisation datée du 2 septembre 2004, le ministre du Revenu national (le « ministre ») a ajouté aux revenus de l’appelant la somme de 1074 $ pour l'année d'imposition 2003 à titre de revenu d'emploi. Le ministre a aussi imposé une pénalité de 100,00 $ en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi »).
+[2] Pour établir et ratifier la cotisation pour l'année d'imposition 2003, le ministre a tenu pour acquis les mêmes hypothèses de fait, à savoir :
+a) Au cours de l'année d'imposition en litige, l'appelant a travaillé pour la société « S.M. construction inc. »; (admis)
+b) De connivence avec l'appelant, l'employeur a rémunéré à celui-ci des heures supplémentaires travaillées en remboursant le montant des factures que l'appelant présentait à l'employeur; (nié)
+c) Ces montants n'ont pas été inclus par l'employeur sur le feuillet de renseignements T4 de l'appelant mais ont été réclamés par l'employeur dans ses dépenses; (nié)
+d) Au cours de l'année en litige, le montant payé à l'appelant par l'employeur mais non inclus sur son feuillet de renseignement s'élevait à 1 074 $; (nié)
+e) L'appelant n'a pas déclaré cette somme de 1 074 $ lors de la production de sa déclaration de revenus pour l'année en litige; (nié)
+[3] Pour établir et ratifier la pénalité imposée en vertu du paragraphe 163(2) de la Loi, le ministre a tenu pour acquis les hypothèses de fait suivantes :
+a) L'appelant était partie prenante au stratagème pour éviter de payer de l'impôt sur la rémunération des heures supplémentaires;
+b) L'appelant n'a pas déclaré la somme de 1 074 $ lors de la production de sa déclaration de revenus pour l'année en litige.
+Preuve de l'intimée
+[4] Monsieur Frédéric Huard, un enquêteur à l'Agence des douanes et du revenu du Canada (l'« Agence »), a témoigné que la présente cause découlait d'une enquête au sujet de la société Quincaillerie R. Durand inc., un fournisseur de la société Pagui inc., l'employeur de l'appelant. À la suite de cette enquête, le ministre a exécuté des mandats de perquisition dans les locaux des sociétés S.M. Construction inc., Pagui inc., Tardif Métal inc. et Les Installations Pétrolières S.M. inc., dont l'actionnaire majoritaire était la société Groupe S.M. Tardif inc.. Le président et unique actionnaire de cette dernière était monsieur Serge Tardif. Ces sociétés exploitaient des entreprises de construction. L'enquête concernait les avantages versés aux employés de ces sociétés. Lors des perquisitions, le ministre a mis la main notamment sur les fichiers informatiques de ces sociétés. Ces fichiers informatiques ont démontré que les sociétés avaient mis au point un stratagème qui consistait à enregistrer les informations relatives aux salaires de leurs employés dans plusieurs registres. Il y avait des registres des salaires pour chacune de ces sociétés. Dans ceux-ci, les données correspondant aux feuillets T4 et T4A étaient inscrites. De plus, il y avait un système parallèle aux registres des salaires. Il s'agissait d'un système de « banque de temps » utilisé pour enregistrer une partie des heures supplémentaires des employés ainsi que le mode de rémunération de ces heures supplémentaires. Les avantages versés aux employés par le biais de ce système parallèle n'étaient pas indiqués dans les feuillets T4 des employés et, par conséquent, aucun impôt n'était perçu sur ces avantages. Ce stratagème aurait permis à 148 employés d'éluder le paiement de l'impôt sur la rémunération que leur versait ces sociétés en contrepartie des heures de travail supplémentaires. En outre, les sociétés ne rémunéraient pas les heures supplémentaires de leurs employés au taux horaire prescrit par les conventions collectives auxquelles elles étaient assujetties. Les fichiers informatiques avaient permis d'identifier tous les bénéficiaires de ce stratagème et de connaître les montants qu'ils avaient reçus à titre d'avantages liés à leur emploi[1] et le détail des avantages pour chaque bénéficiaire. Leur rémunération était constituée généralement de biens personnels achetés auprès des fournisseurs de ces sociétés, d'allocations de subsistance excessives et de fourniture de carburant à des fins personnelles. Les avantages offerts aux bénéficiaires de cette « banque de temps » ont atteint près d'un million de dollars pour les années 1998 à 2001 et près de deux millions de dollars pour les années d'imposition 1998 à 2003. Aucune retenue à la source n’avait été effectuée sur ces sommes qui n'étaient pas incluses dans les feuillets T4 des employés visés. Les sociétés S.M. Construction inc., Pagui inc. et Tardif Métal inc., de même que leur président, Serge Tardif, ont plaidé coupable aux accusations d'évasion fiscale portées contre eux pour les années d'imposition 1998 à 2002.
+[5] Par la suite, le ministre a déposé en preuve un extrait du fichier informatique de la société S.M. Construction inc. qui visait l'appelant[2]. Monsieur Huard a expliqué que le fichier informatique démontrait que l'appelant avait reçu une rémunération de 1 114 $ de la société pour environ 41 heures de travail supplémentaires durant l'année d'imposition 2003 et que cette rémunération n'apparaissait pas dans le feuillet T4 de cet employé. Monsieur Huard a expliqué que la rémunération de l'appelant était constituée d'allocation de subsistance excessives d'un montant de 630 $, de fourniture d'essence à des fins personnelles d'une valeur de 50 $, d'une somme de 260,76 $ versée en argent comptant et du remboursement de factures que l'appelant avait présentées à son employeur.
+Témoignage de l'appelant
+[6] Lors de son témoignage, l'appelant a allégué qu'il avait séjourné en Arabie Saoudite du 9 janvier 2003 au 26 janvier 2003 dans le cadre de son emploi pour la société S.M. Construction inc. Il a expliqué qu'il avait travaillé sept jours par semaine pendant ce séjour en Arabie Saoudite, et ce, à raison de 10 heures par jour, à l'exception toutefois d'une journée de congé qu'il avait prise durant cette même période. Il a témoigné qu'il avait travaillé pendant seulement 113 heures durant ce séjour. Il a aussi admis que ses relevés d'emploi (pièce A‑3) étaient faux car son employeur avait réparti les 113 heures de travail sur trois semaines, dont 33 heures durant la semaine du 2 au 8 février 2003, alors qu'il n'avait tout simplement pas travaillé pendant cette période. L'appelant a reconnu que ce stratagème avait permis à son employeur de ne pas rémunérer les heures supplémentaires[3] qu'il avait faites durant ce séjour, au taux horaire prescrit par les conventions collectives auxquelles ils étaient assujettis. L'appelant a admis qu'il avait commis une erreur en acquiesçant à ce premier stratagème mis en place par son employeur. Je tiens immédiatement à souligner qu'en acquiesçant au stratagème, l'appelant devait s'attendre à ce que j'aie un sérieux doute sur sa probité. L’acquiescement à ce stratagème rendait d'autant plus vraisemblable la participation de l'appelant au système de banque de temps mis en place par son employeur qui, selon l'intimée, avait permis à l'appelant d'éluder l'impôt sur la rémunération qu'il avait reçue pour les 41 heures supplémentaires qu'il avait accumulées durant son séjour en Arabie Saoudite.
+Position de l'appelant
+[7] L'appelant a d'abord soutenu que les sommes qui lui avaient été versées telles qu'elles apparaissaient dans la banque de temps (pièce I-5) étaient déjà incluses dans son feuillet T4. De plus, il a prétendu qu'il était invraisemblable qu'il ait pu travailler pendant 154 heures durant son court séjour en Arabie Saoudite, soit 41 heures en plus des 113 heures pendant lesquelles il reconnaissait avoir travaillé durant ce séjour. Il a ajouté qu'il était impossible qu'il ait pu travailler plus de 10 heures par jour pendant ce court séjour, vu son âge le fait qu’il avait travaillé pendant 14 jours d’affilée.
+Analyse
+[8] D'abord, je constate que le témoignage de l'appelant lié aux heures de travail durant son séjour en Arabie Saoudite est incompatible avec sa prétention qu'il n'a travaillé que pendant 113 heures durant ce séjour. Je rappelle qu'il a témoigné qu'il avait travaillé 10 heures par jour[4] et qu'il n'avait pris qu'une seule journée de congé pendant son court séjour en Arabie Saoudite du 9 janvier 2003 au 26 janvier 2003[5]. Donc, si j'exclus de ce séjour le jour d'arrivée, le jour de départ et le jour de congé, l'appelant a vraisemblablement travaillé durant 15 jours lors de ce séjour. Puisqu'il a témoigné qu'il travaillait 10 heures par jour, il aurait ainsi travaillé pendant environ 150 heures durant ce séjour, et non pas 113 heures comme il l'a prétendu. Cela me paraît cohérent avec la position du ministre, qui a soutenu que l'appelant avait travaillé pendant environ 153 heures durant ce séjour.
+[9] L'appelant me demande de prêter foi à son témoignage qu'il croyait sincèrement que la rémunération versée (1 114 $) pour ses heures supplémentaires était incluse dans le feuillet T4 produit par son employeur pour l'année d'imposition 2003. Je ne peux prêter foi au témoignage de l'appelant qui non seulement s'est contredit sur le nombre d'heures de travail durant son séjour en Arabie Saoudite, mais qui en plus a acquiescé au premier stratagème de son employeur, dont le bulletin de paye indiquait que l’employé avait travaillé pendant 33 heures durant la semaine qui se terminait le 8 février 2003, alors que l'appelant n'avait tout simplement pas travaillé durant cette semaine-là.
+[10] À mon avis, le ministre s’est acquitté du fardeau de la preuve qui lui incombait relativement à la pénalité qu'il avait imposée à l'appelant en vertu du paragraphe 163(2) de la Loi. En effet, le ministre a démontré que, selon la prépondérance des probabilités, l'appelant avait fait sciemment une omission dans sa déclaration de revenus produite pour l'année d'imposition 2003. Le ministre a démontré sans équivoque que l'appelant avait sciemment acquiescé et participé au stratagème élaboré pour son employeur pour éluder l'impôt. Sa participation était un chaînon essentiel à la réalisation du stratagème et il en a tiré un avantage. Il faut nécessairement être deux pour danser le tango. Il m'est tout simplement impossible d’en arriver à une autre conclusion.
+[11] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 8ième jour du mois d’août 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2006CCI323
+No DU DOSSIER DE LA COUR :
+2005-2463(IT)I
+INTITULÉ DE LA CAUSE :
+Alain Lortie et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 31 mai 2006
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 8 août 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Claude Lamoureux
+AVOCAT(S) INSCRIT(S) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir la pièce I-4
+[2] Voir la pièce I-5
+[3] 33 heures (113 heures – 80 heures)
+[4] Voir page 51 des notes sténographiques
+[5] Voir page 33 des notes sténographiques

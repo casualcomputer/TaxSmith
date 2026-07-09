@@ -1,0 +1,133 @@
+---
+title: "Kinch v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25168/index.do"
+last_modified: "2003-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 811"
+citation2: ""
+neutral_citation: "2003 TCC 811"
+decision_date: "2003-11-12"
+language: "en"
+item_id: "25168"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2548
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:31:49.171000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bb1acf235f4a9ab7ee6cb3e14fdecd97fcc802251ceac48dd93975bf52301643"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kinch v. The Queen
+
+- Citation: 2003 TCC 811
+- Decision date: 2003-11-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2548, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kinch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-12
+Neutral citation
+2003 TCC 811
+File numbers
+2002-3442(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC811
+Date: 20031112
+Docket: 2002-3442(IT)I
+BETWEEN:
+JANICE L. KINCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Regina, Saskatchewan on October 3, 2003)
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Regina, Saskatchewan on October 2, 2003. The Appellant and her husband testified. Both the Appellant and the Respondent called the Auditor on the file.
+[2] At the opening of the hearing, Appellant's counsel withdrew the Appellant's claims except in respect to a claim for an allowable business investment loss respecting a shareholder's loan to Tobin Lake Resort Ltd., ("TLRL") a corporation formed by her father which operated a fishing and holiday camp, cabins and marina at Tobin Lake near Nipawin, Saskatchewan.
+[3] TLRL was an amalgamation on June 3, 1996 of two Saskatchewan corporations, namely:
+1. Tobin Lake Store Ltd. which at that time had the following members and interests:
+(a) two-thirds, Connie Anklovich, the Appellant's sister;
+(b) one-sixth, Marlene Larson, the Appellant's sister;
+(c) one-sixth, the Appellant.
+2. TLRL, of which each of the three sisters owned one-third.
+All of the sisters are directors of TLRL.
+[4] After the fiscal year of TLRL ending December 31, 1995, TLRL did not have accountants do its financial statements or income tax returns. The two sisters, other than the Appellant, operated TLRL and Marlene Larson did whatever financial work was done respecting TLRL.
+[5] In the subsequent years the Appellant commenced two actions in the Saskatchewan Court of Queen's Bench, the first for financial reports which the Court ordered. This Order was not complied with. The second was to allow the Appellant to take control of TLRL which the Court denied on the basis that the Appellant's interest was as prejudicial as her sisters'.
+[6] The Appellant claimed her allowable business investment losses in 1998 and the Court is satisfied that all of the prerequisites respecting an allowable business investment loss existed. In particular, any debt owed to her at that time was bad (and remains in the same state today). Further, the accumulative evidence respecting creditor proceedings, unpaid municipal taxes, mortgages, accounting bills, loans and various debts established that in 1998 any of TLRL's debts were likely doubtful or bad. Given the state of the relationship between the sisters, any debt owed to the Appellant appears to be not only unsecured, it was bad. On this basis, she would be entitled to an allowable business investment loss. Based upon the Appellant's and her husband's testimony, TLRL was unable to meet its liabilities as they came due in 1998. It was insolvent and could have been placed in bankruptcy in 1998.
+[7] However, there are a series of major legal entanglements that arise in this case. Chronologically they are:
+1. 1985 – The Appellant's mother's estate;
+2. 1985 – The Appellant's alleged one-sixth interest in Tobin Lake Store Ltd. which she inherited from her mother;
+3. September 12, 1990 – Exhibit A-1, the Appellant's father's transfer of his "capital stock" in TLRL;
+This does not refer to any loans or debts.
+4. November 18, 1990 – The death of the Appellant's father and the bequest of a 25 per cent interest in his estate to the Appellant (Exhibit A-2).
+5. December 31, 1995 – An accountant's last financial statement for TLRL (Exhibit A-8), dated June 24, 1996.
+6. June 3, 1996 – The amalgamation of Tobin Lake Store Ltd. and TLRL (Exhibit A-5).
+[8] All of these are serious and, especially in the case of the amalgamation, very sophisticated. The Appellant testified to her version of events which included the allegation that the September 12, 1990 transfer included her father's shareholder's loan. On the face of Exhibit A-1, it did not. Mr. Kinch gave accounting testimony which, in particular, is not verified or is contradicted by the following:
+1. Exhibit A-1.
+2. The amalgamation which he simply failed to face for any legitimate accounting purposes;
+3. Exhibit A-24, the 1995 accountant's printouts which contradict his testimony and raise innumerable questions as to the accounting arising from the estates, both corporations and the effect of the amalgamation;
+4. The fact that since the amalgamation any so-called accounting for TLRL has been non-existent, or sporadic at the very best, or on an alleged and obviously erroneous so-called cash basis.
+[9] The result is that the Appellant and her family are involved in serious legal matters, family litigation and sophisticated legal situations which were created by her parents for their own advantage, topped off by an amalgamation in which the Appellant participated and which should have created major accounting adjustments. (Often, that is why amalgamations occur.) The amalgamation was followed by litigation between the sisters, business failings and various self-advantageous actions.
+[10] Exhibit A-24 demonstrates the preliminary work for a set of adjustments following amalgamation. But of itself, it does not establish anything. Nor are the years since accounted for by any of the evidence. In particular, the testimony for the period since amalgamation is clearly inaccurate, pro Appellant, and at best, speculative and without foundation.
+[11] It is in light of this and a complete failure of any reliable accounting before the Court that the Appellant has failed to prove any loss or if in fact she has a loss.
+[12] For this reason the appeal is dismissed.
+Signed at Ottawa, Canada this 12th day of November 2003.
+"D. W. Beaubier"
+Beaubier, J.
+CITATION:
+2003TCC811
+COURT FILE NO.:
+2002-3442(IT)I
+STYLE OF CAUSE:
+Janice L. Kinch v. The Queen
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATE OF HEARING:
+October 2, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF REASONS FOR JUDGMENT:
+November 12, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Gregory A. Swanson
+Counsel for the Respondent:
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,169 @@
+---
+title: "Litowitz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27055/index.do"
+last_modified: "2005-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 557"
+citation2: ""
+neutral_citation: "2005 TCC 557"
+decision_date: "2005-10-06"
+language: "en"
+item_id: "27055"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 614
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:15:44.652000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "007e6350780ed56194ca3194501d039a53c8a943253f0d810ae17da40a4f1967"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Litowitz v. The Queen
+
+- Citation: 2005 TCC 557
+- Decision date: 2005-10-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 614, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Litowitz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-06
+Neutral citation
+2005 TCC 557
+File numbers
+2002-4744(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4744(IT)G
+BETWEEN:
+GERALD LITOWITZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 6 and 7, 2005, at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant: David E. Spiro
+Jennifer L. Marston
+Counsel for the Respondent: Suzanne M. Bruce
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made for the 1997 taxation year is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is allowed an allowable business investment loss of $429,222.
+Signed at Ottawa, Canada, this 6th day of October, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC557
+Date: 20051006
+Docket: 2002-4744(IT)G
+BETWEEN:
+GERALD LITOWITZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This is an appeal from an assessment for the 1997 taxation year whereby the Minister of National Revenue denied the appellant's claim to deduct an allowable business investment loss ("ABIL") in the amount of $429,222 (being three-quarters of a business investment loss of $572,296). The loan in respect of which the appellant claimed the ABIL was to Falconshire Investment Limited ("Falconshire"), a corporation controlled by Mr. Litowitz.
+[2] The appellant asserts that there was a debt owing to him by Falconshire in 1997 and that it became a bad debt in that year. The other statutory ingredients for the claiming of an ABIL appears to be present or are not put in issue by the Crown and therefore the sole issue is whether the debt became bad in 1997. Mr. Spiro, relying upon the decision of the majority of the Federal Court of Appeal in Rich v. The Queen, 2003 DTC 5115 at 5120, paragraph 24, states the issue as follows:
+The only matter at issue in this appeal is the last. In particular, the issue is whether it was honest and reasonable for Mr. Litowitz to consider the debt of $572,296 to be bad on December 31, 1997. Mr. Litowitz must demonstrate, on a balance of probabilities, that he made an honest and reasonable determination that the debt was bad as at that date. The question is whether the debt was uncollectible at that time.
+[3] Ultimately the question boils down to one of fact and in that determination the honest and reasonable judgement of the taxpayer is a factor. Rothstein J.A. in Rich stated at paragraphs 24 and 28:
+[24] Here, the question is whether it was honest and reasonable for the appellant to consider the debt to be bad on December 31, 1995. If there was some evidence to suggest that a work out or refinancing might have been available to enable collection of some or all of the loan, I would agree that the appellant, being intimately involved with the company, would have to show that he had at least attempted some proactive steps before declaring the loan bad.
+. . . . .
+[28] The test the appellant had to meet was that he made an honest and reasonable determination that the loan was bad. It follows that, in the absence of any evidence to suggest that proactive steps could reasonably result in collection of all or part of the loan, such proactive steps were not rationally connected to the determination of whether the assessment made by the appellant was honest and reasonable.
+[4] The standard is of course an objective one but, as was said in Borys v. The Queen, (2002-1996(IT)G), judgment issued July 7, 2005, a businessman's bona fide judgement is entitled to respect.
+The question of the year in which the debt went bad was not challenged by the respondent. The original claim was in 1995 but in the Notice of Appeal the appellant states that he can claim it in 1997. A businessman is entitled to a certain degree of judgemental discretion in the recognition of when a debt goes bad. As Jackett P. (as he then was) in Associated Investors of Canada Ltd. v. Minister of National Revenue(1967), 67 D.T.C. 5096 (Can. Ex. Ct.) at page 5101 said, speaking of the recognition of a loss, "In my view, it must be so taken into account in computing the profit for the business for the year in which the appellant, as a "businessman" recognized that the loss had occurred." This does not mean that a taxpayer has carte blanche to pick any year. There must be an element of common sense and reasonableness but some deference must be paid to the businessman's judgement.
+A similar view was stated by Hershfield J. in Deck et al. v. The Queen, 2002 DTC 1371, a decision with which I am in respectful agreement.
+[5] I am assuming that the Crown's sole position is that the debt did not become bad in 1997. Its pleading is ambiguous. The Crown says the Minister assumed, inter alia, "There was no debt owing to the appellant at the end of his 1997 taxation year that became a bad debt in that year." I was faced with precisely the same sort of pleading in Borys and I said at paragraph 10:
+(d) This type of pleading is ambiguous. It is difficult to know whether the respondent is saying that the appellant did not have a debt at all or that if he had a debt it did not become bad. Where assumptions (or for that matter any other assertion in a pleading) are pleaded in an ambiguous way, I think the benefit of any doubt arising from the ambiguity should be resolved in favour of the other party. At all events, whatever the statement may mean, it is clear that the appellant did have a debt and that the debt became bad. I note that the respondent does not put in issue the year in which the debt became bad. Having put forward as an assumption that the appellant did not have a debt at all, or, as an alternative reading of this portmanteau assumption, that if it did have a debt it did not become bad, I do not think it would be appropriate for the Crown to state as an alternative (and inconsistent) assumption that the debt became bad in a particular year. In any event it has not done so, either by way of assumption or as a separate assertion.
+[6] The same conclusion is appropriate here. I shall not go as far as I might have and followed what was said in Odgers on High Court Pleading and Practice, Twenty-Third Edition at page 170:
+It is in the power of the party either to admit or to deny each allegation in his opponent's plea, as he thinks fit. If he decides to deny it, he must do so clearly and explicitly. Any equivocal or ambiguous phrase will be construed into an admission of it. There is no third or intermediary stage. If the judge does not find in the pleading a specific denial or a definite refusal to admit, there is an end of the matter; the fact stands admitted.
+[7] Had I done so I would have treated that paragraph in the Reply to the Notice of Appeal as an admission that the appellant had a bad debt in 1997 that became bad in that year.
+[8] Here, in any event the appellant had a debt owing to him in 1997 by Falconshire and it clearly became a bad debt in that year. My reasons for this factual conclusion are as follows:
+[9] Mr. Litowitz is a lawyer and is also experienced and active in the management and development of real estate. He advanced funds to Falconshire which in turn advanced the funds to Bamburgh Holding Ltd. ("Bamburgh") which in turn used the funds to invest in a co-tenancy operating as Headway Property Investments 78-1 ("Headway"). By 1997 the value at least on the financial statements of the assets of Headway was substantially below its liabilities. This is clear from the audited financial statements for 1997 portions of which are attached hereto as Schedule "A".
+[10] Would a reasonable person, such as Mr. Litowitz, looking at these financial statements, conclude that the debt from Falconshire was bad? Falconshire's only asset was the debt from Bamburgh and Bamburgh's only asset was its investment in Headway. If Headway were wound up what would Bamburgh and, therefore, Falconshire and therefore the appellant receive? I think Mr. Litowitz reasonably concluded that he would receive nothing. Let us look at some of the salient figures.
+[11] The assets in 1997 had a book value of $11,115,478. The mortgages payable were $17,371,131 and the current liabilities were $2,260,250 for a total of $19,631,381. The result was a deficit before the unit holders contributions of $8,515,907. If we include in the deficiency the unit holders contributions of $4,565,500 we have a deficit of $13,081,407. The net operating loss, including interest, was $710,807.
+[12] What seemed to be keeping the operation afloat in 1997 were the contributions by the unit holders.
+[13] I shall set out portions of the T-401 report (the report prepared on an objection by the Canada Customs and Revenue Agency).
+(II) REASONS FOR OBJECTION
+(a) Facts
+Taxpayer's representative submitted the following:
+I) Allowable business investment loss $ 572,296.
+The allowable business investment loss claimed represents loans made by the taxpayer to Falconshire Investments Ltd, a small business corporation (CCPC). Falconshire in turn advanced these funds to Bamburgh Holding Ltd. Bamburgh Holding Ltd. in turn used these funds to acquire an investment in a co-tenancy, Headway Property Investments 78-1, which owns revenue producing real estate. Taxpayer submitted that there is a significant deficit in the real estate value. As a result, Bamburgh is in a negative equity position and would not be able to meet its debt obligation if the corporation wind up in 1997. As a result, Falconshire would not be able to collect the receivable from Bamburgh. Since Falconshire's main asset is its receivable from Bamburgh Holding, Falconshire would now also be in a deficit due to the diminution in value of its receivable from Bamburgh. There is no possibility of collection of such advances made by the taxpayer to Falconshire which forms the basis for the claim for a business investment loss.
+(III) APPEALS DECISION
+Issue #1 Allowable business investment loss $ 572,296.
+a) Facts
+In order to qualify for the ABIL deduction in a taxation year, the debt in question has to become bad debts in that year under paragraph 50(1)(a). The time at which a debt becomes a bad debt is a question of fact and any decision made must be dependent upon the circumstances in each case. A determination by a creditor that a debt becomes uncollectible in a particular year must be supported by all relevant and material facts. In IT-159R3- paragraph 10, CCRA states that for the purpose of section 50, a debt will not be uncollectible at the end of a particular year unless the creditor has exhausted all legal means of collecting it or where the debtor has become insolvent and has no means of paying it. A debt is considered bad only when the whole amount is uncollectible or when a portion of it has been settled and the remainder is uncollectible. Otherwise, where a portion of a debt can be considered to be uncollectible, this portion is not considered to be bad. The taxpayer submitted that due to a significant deficit in the real estate value, Bamburgh is in a negative equity position and would not be able to repay Falconshire and in turn Falconshire would not be able to repay him. Mr. Wayne Miller, our Real Estate Appraiser estimated the market value for the subject property is supported between $ 15 to 17 million. Had the property been sold in excess of $ 17 million, taxpayer will be repaid at least a portion of the debt. According to Mr. Miller, the area (Warden and Steeles) is an up and coming area. The apartment building in that area has flucated significantly since the values peaked in 1989. Mr. Miller had examined the property and found no permanent loss in the value of the apartment building in question. The decline in 1997 cannot be viewed as permanent. Mr. Miller also informed us that due to the increasing rent and other positive factors in the economy, the value of apartment building have been increasing during the past years. The market value at present is at least 20 million.
+During the year under review, Headway, the co-tenancy was still able to meet the majority of its debt obligation. Accounts payable had been reduced from $ 2.5 million in 1996 to $ 1.6 million in 1997. Part of the principal on the mortgage had also been repaid in 1998 to 1999. In addition to this, the unit holders had made contribution in the amount of $ 1.5 million. There is no evidence to support that Bamburgh Holding is insolvent. To date, Bamburgh Holding had not filed an assignment to bankruptcy. The Mortgage had not been default. The property was never foreclosing. During the objection, taxpayer's representative send us two title searches on the property owned by Headway Property which indicate judgments registered against the property. However, it only substantiate that Headway owed $ 119,000 to the Ontario Municipal employees retirement fund and $ 177,631 to Edgecombe Group. The agreement with Standared Life only confirmed the amount of loan they owned. All facts provided to us only indicated Headway was not doing well financially but not enough to support Headway is economically insolvent.
+In addition to this, Bamburgh Holding had not filed the T2 returns since 1995. All the financial information we received are non-audited financial statements submitted by the taxpayer's representative. Last but not least, Falconshire had not written off and set up allowance for the doubtful for the receivable from Headway
+Decision
+After reviewing all the facts available to us, we recommend to confirm the assessment to disallow the ABIL deduction on the ground that the debts had not become bad debts in the year 1997 under paragraph 50(1)(a) of the Act. Accordingly, they were not business investment losses under paragraph 39(1)(c) of the Act.
+[14] The assessor appears to have approached the question carefully and conscientiously. He was, however, obviously substituting his judgement for that of Mr. Litowitz. I think that Mr. Litowitz's judgement in this matter was reasonable and was one that a reasonable person would make in the circumstances. Quite apart from matters of commercial judgement, I think that objectively it has been established that the debt was uncollectible at the end of 1997.
+[15] There are other considerations that I think are germane to the appellant's decision. There was a significant loss in some litigation against Headway and substantial damages and costs awarded against it. After the leave application had been denied by the Supreme Court of Canada, Standard Life (the mortgagee of the building) in June of 1997, tried to take over the building. Also, the shareholders of Bamburgh cancelled a letter of credit they had given to Standard Life. Standard Life then drew down the balance of the Letter of Credit of $1,571,570. Mr. Litowitz stated that the other shareholders of Bamburgh simply walked away from the project. I am not sure just what this means but if the other investors were seen as abandoning the project, this lends considerable support to Mr. Litowitz's decision that the debt was bad.
+[16] The minutes of settlement between Headway and Canada Trust (Trustee for the mortgagee Standard Life) (Exhibit A-7) put a final nail in the coffin of the commercial value of Bamburgh's investment in Headway. The net result of this settlement was that to liquidate its assets and pay off Standard Life's mortgage would have necessitated an outlay of upwards of $27,000,000 - far in excess of even the highest fair market value assigned by the CCRA appraiser of $15 - 17 million. By the end of 1997, the situation looked hopeless and Falconshire's investment in Bamburgh appeared worthless.
+[17] One interesting twist to this story is that Mr. Litowitz, unlike the other investors, persevered. He or Falconshire acquired all of the remaining shares of Bamburgh and in 2002 the building was sold and the outstanding liabilities were satisfied. Does this make a difference? I do not think so. One should, in general, not apply the wisdom of hindsight in determining whether a debt is bad at a particular point in time. Time, at least in our human conception of it, is serial and a determination whether a debt is bad in 1997 cannot be based upon events five years later that could not possibly have been foreseen. It must be based upon past and present facts. (Rich v. The Queen, supra, 5118 - 5120). We may all know that real estate values are cyclical. This does not mean that they are predictable.
+[18] The appeal from the assessment made for the 1997 taxation year is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is allowed an allowable business investment loss of $429,222.
+Signed at Ottawa, Canada, this 6th day of October 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC557
+COURT FILE NO.:
+2002-4744(IT)G
+STYLE OF CAUSE:
+Gerald Litowitz v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 6 and 7, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+October 6, 2005
+APPEARANCES:
+Counsel for the Appellant:
+David E. Spiro
+Jennifer L. Marston
+Counsel for the Respondent:
+Suzanne M. Bruce
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+David E. Spiro &
+Jennifer L. Marston
+Barristers and Solicitors
+Blake Cassels & Graydon LLP
+Box 25, Commerce Court West
+Toronto, Ontario M5L 1A9
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

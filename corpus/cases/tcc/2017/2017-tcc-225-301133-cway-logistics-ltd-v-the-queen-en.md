@@ -1,0 +1,186 @@
+---
+title: "CWAY Logistics Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301133/index.do"
+last_modified: "2017-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 225"
+citation2: ""
+neutral_citation: "2017 TCC 225"
+decision_date: "2017-11-10"
+language: "en"
+item_id: "301133"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7633
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:07:16.176000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1b471c934cd4eb0aae4597898ce11fc45807385027f262109b54d62141cb9f7a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CWAY Logistics Ltd. v. The Queen
+
+- Citation: 2017 TCC 225
+- Decision date: 2017-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7633, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CWAY Logistics Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-10
+Neutral citation
+2017 TCC 225
+File numbers
+2016-4465(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-4465(GST)I
+BETWEEN:
+CWAY LOGISTICS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 5, 2017, at Kelowna, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+A.R. (Ron) Gunn
+Counsel for the Respondent:
+Jamie Hansen
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal with respect to an assessment dated September 2, 2015 made under the Excise Tax Act, RSC 1985, c. E-15, as amended, for the reporting period of August 1, 2014 to October 31, 2014 is hereby allowed, on the basis that the Appellant is entitled to an input tax credit in the amount of $4,935.00 and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Judgment.
+Costs are fixed at $150.00 in favour of the Appellant.
+Signed at Ottawa, Canada, this 10th day of November 2017.
+“R.S. Bocock”
+Bocock J.
+Citation: 2017 TCC 225
+Date: 20171110
+Docket: 2016-4465(GST)I
+BETWEEN:
+CWAY LOGISTICS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction [1] Registrants under the Excise Tax Act, RSC 1985, c. E-15, as amended (the “ETA”) are entitled to claim input tax credits (“ITCs”) for goods and services tax (“GST”) paid on taxable supplies and goods acquired in relation to business activities. Employers engaged in business may reimburse employees a reasonable vehicle allowance where such employees provide their own motor vehicles in the course of their employment duties. Where such a vehicle allowance is paid, the ETA specifically permits the employer to claim a prescribed or deemed input tax credit on the employee acquired supplies. This allows the employer to recover the ITCs concordant with the GST which it would have otherwise expended on the taxable supplies consumed in commercial activities had the employer directly purchased the goods and services rather than the employee.
+II. Facts [2] The present appeal involves the denial by the Minister of National Revenue (the “Minister”) of $4,935.00, being the amount of an otherwise statutorily permitted ITC calculated on certain paid vehicle allowances.
+[3] Most factual aspects of the appeal were agreed to by the parties within a partial agreed statement of facts presented at the outset of the hearing. Any further facts were quickly established and settled by concurrence after the commencement of the hearing.
+[4] The Appellant (“CWAY”) is a corporation which provides interline transport services to its only customer, Dynamex Canada (“Dynamex”).
+[5] CWAY has two employees, Ashley and Christopher. They drive the vehicles used to provide the transport services to Dynamex. Ashley and Christopher own the vehicles, not CWAY. Ashley and Christopher are also CWAY’s equal and only shareholders. In providing their transport services as employees, Ashley and Christopher accurately log the business versus personal use of their vehicles.
+[6] For their efforts as employees, Ashley and Christopher receive wages and a motor vehicle allowance from CWAY. The vehicle allowance is calculated using the rates prescribed by the Minister under the ETA and applicable regulations. The allowance is paid only on the business mileage driven. As shareholders, all transactions of the employees/shareholders are balanced and reconciled to ensure that among shareholder loan accounts, paid dividends and the personal use of vehicles there is no unaccounted for personal benefit accuring to the employees/shareholders.
+[7] The peculiarity of the arrangement arises from Dynamex’s provision of fuel cards. A fuel card is provided to each of Ashley and Christopher to pay for fuel on the personal vehicles which are, in turn, deployed for CWAY’s business. When Dynamex pays the invoices of CWAY for the transport services, it deducts the charges incurred by Ashley and Christopher on the fuel cards. In turn, the full invoices (including the set-off or withheld reimbursement for the fuel cards) is recorded as revenue by CWAY. In short, CWAY records the revenue on the invoices. However, CWAY receives the lesser amount as payment from Dynamex. This creates a deficiency between the lesser cash receipts and the greater recorded revenue of CWAY. This cash deficiency is exactly represented by the withheld fuel pre-payment on the fuel cards (the “fuel cost deduction”).
+[8] As noted above, CWAY claims the prescribed ITCs relating to the vehicle allowance paid to Ashley and Christopher. The Minister has disallowed those ITCs and hence, the appeal before the Court.
+III. Legislative Regime [9] The ETA specifically prescribes deemed ITCs on the travel and other allowances paid to employees incurring expense for the employer’s commercial activities.
+[10] Section 174 of the ETA, provides as follows [excerpted for relevance]:
+174 For the purposes of this Part, where
+(a) a person pays an allowance
+(i) to an employee of the person,
+… for
+(iv) supplies all or substantially all of which are taxable supplies (other than zero-rated supplies) of property or services acquired in Canada by the employee, member or volunteer in relation to activities engaged in by the person, or
+(v) the use in Canada, in relation to activities engaged in by the person of a motor vehicle
+…
+(b) an amount in respect of the allowance is deductible in computing the income of the person for a taxation year of the person for the purposes of the Income Tax Act, or would have been so deductible if the person were a taxpayer under that Act and the activity were a business, and
+(c) in the case of an allowance to which subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of that Act would apply
+(i) if the allowance were a reasonable allowance for the purposes of that subparagraph, and
+The following rules apply:
+…
+(d) the person is deemed to have received a supply of the property or service,
+…
+[11] Relevant to a vehicle allowance, section 174 of the ETA, as seen above, refers to subsection 6(1)(b)(vii.1) of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”) which exempts a taxpayer from including certain reasonable motor vehicle allowances from income by providing as follows [emphasis added]:
+Amounts to be included as income from office or employment
+6 (1) There shall be included in … income of a taxpayer …
+…
+Personal or living expenses
+…
+(b) all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+…
+(vii.1) reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment,
+IV. The Minister’s Arguments for Disallowance [12] Counsel for the Respondent submitted the following as the Minister’s rationale for denying the deemed ITCs.
+[13] Firstly, section 174 allows registrants to claim ITCs on employee allowances. Even though the allowances are paid to a registrant’s own employees, the provision deems certain prescribed pro rata ITCs to have arisen on the allowances, provided that the allowance is reasonable. The vehicle allowance that CWAY pays Ashley and Christopher is unreasonable because it is based on the inclusion of the cost of fuel when it should not be. CWAY receives its revenue from Dynamex net of the fuel cost deduction. However, Ashely and Christopher did not incur fuel costs because such expenses were prefunded by Dynamex to the extent of the fuel cost deduction. Definitionally, it is unreasonable for CWAY to pay a vehicle allowance which reimburses expenses, the bulk of which are already prepaid and not owed to and/or incurred by the employee.
+[14] Secondly, CWAY asks that the Minister (and now the Court) to conflate CWAY with its employees by improperly lifting the corporate veil in order to regard the Appellant as both CWAY (who received lesser revenue and reconcilies the shareholder loan and dividend accounts) and its employees (who qua employees do not incur the fuel costs) for the purposes of section 174.
+[15] In Meredith v. R., 2002 FCA 258 (CanLII), [2002] F.C.J. No. 1007 (QL), the Federal Court of Appeal stated at paragraph 12 that:
+Lifting the corporate veil is contrary to long-established principles of corporate law. Absent an allegation that the corporation constitutes a “sham” or a vehicle for wrongdoing on the part of putative shareholders, or statutory authorisation to do so, a court must respect the legal relationships created by a taxpayer (see Salomon v. Salomon & Co. (1896), [1897] A.C. 22 (U.K. H.L.); Kosmopoulos v. Constitution Insurance Co., 1987 CanLII 75 (SCC), [1987] 1 S.C.R. 2 (S.C.C.)). A court cannot recharacterize the bona fide relationships on the basis of what it deems to be economic realities underlying those relationships (see Continental Bank of Canada v. R., 1998 CanLII 794 (SCC), [1998] 2 S.C.R. 298 (S.C.C.); Shell Canada Ltd. v. R., 1999 CanLII 647 (SCC), [1999] 3 S.C.R. 622 (S.C.C.); Ludmer c. Ministre du Revenu National, 2001 SCC 62 (CanLII), 2001 SCC 62 (S.C.C.) at para. 51).
+[16] Without the inclusion of the fuel cost deduction as a component in the vehicle allowance, the rate of the allowance is too high and therefore, unreasonable. The fuel deduction cost contains a personal use component. Section 174 must take into account subparagraph 6(1)(b)(vii.1) of the ITA, which deals with the non-inclusion of motor vehicle allowances in employee income, to determine what is reasonable allowance: I-D Foods Corporation v. The Queen, 2013 TCC 15.
+[17] Lastly, subparagraph 6(1)(b) was applied in the Federal Court of Appeal case Ville de Beauport v. Minister of National Revenue, 2001 FCA 198 (CanLII), [2002] 2 C.T.C. 161. That case also, at paragraph 26, refers to section 7306 of the Income Tax Regulations as establishing a useful reference point for measure of a reasonable vehicle allowance. In this appeal, the allowance should not include fuel costs because the employees possessed and used pre-paid fuel cards for such expense to the extent of the fuel cost deduction. Implicit in this argument is that whatever accurate and elaborate mathematical calculations are used to ensure that no benefit or unreasonable vehicle allowance is ultimately paid, initially, the employee had not borne the costs.
+[18] In response, the Appellants simply argue that at the end of the reconciliation exercise, there is no slippage or leakage of an undeclared or unwarranted benefit. Although Ashley and Christopher used the fuel cards, all such value relating to those cards was ultimately posted to their personal tax-paid benefit through dividends and recognized by reduced cash receipts to CWAY reflected by the fuel cost deductions set-off by Dynamex. In short, the pro rata portion of the fuel cost reduction is both accurately allocated to the employees personally and reported as revenue corporately. There are no ITCs claimed beyond those relating to the rightfully and accurately allocated imputed taxable supplies consumed in commercial activities and acquired by Ashley and Christopher in the course of their employment.
+V. Decision and Analysis [19] The broad issue before the Court is whether the requirements of section 174 have been met. Are the amounts for the vehicle allowances paid reasonable given the facts of the case such that imputed ITCs may be claimed? To answer that question the court must pursue the somewhat unique facts and circumstances of this case as they match up against section 174.
+[20] The sub-issues for doing so are:
+a) is there an unreasonable component of the allowance based upon the methodology used? (i) the process followed [21] Respondent’s counsel does not dispute that the process followed by CWAY was meticulous or ultimately accurately reflective of the allowance paid. In due course, the process reconciled all otherwise necessary components for the payment of a reasonable vehicle allowance. Mileage was carefully tracked; mileage logs were used. CWAY received lesser revenue equal to the fuel card charges including GST; the fuel cost deduction was inclusive of GST. No shareholder received a non-taxable benefit from the fuel cards and the ITCs claimed were not inflated or inaccurate, save for the sole issue of the use at the outset by the employees of the fuel cards. One might logically ask, what did Ashley and Christopher ultimately receive? By year end an offsetting entry, accurately reflective of the personal component of the fuel cost deduction, was made to their respective shareholder loan accounts. Dividends were then declared to offset the reflected advances to shareholders. This removed any issue concerning an unaccounted shareholder benefit. This amount was relatively simple to calculate since it represented the difference between the “invoiced” services and the revenue received by CWAY. By definition, this is precisely and arithematically the fuel cost deduction. The paid vehicle allowance otherwise reimbursed a portion of this allocation, but solely to the mileage related to commercial activities.
+(ii) are the rates beyond those prescribed? [22] There was no dispute by the Respondent that the vehicle allowance amounts were anything other than reasonable amounts paid pursuant to the prescribed CRA rates under Regulation 7306. The essence of the disagreement is that the employees had not incurred the cost of the fuel at the time of procurement which, as asserted by the Respondent, is a component of the prescribed allowances under Regulation 7306.
+b) does the methodology followed otherwise offend or fall outside prescribed ITC in section 174? (i) the section itself [23] Section 174 is clear. In order for an employer to claim the deemed ITC on vehicle allowances, the section imposes certain conditions. The recipient must be an employee. The amount must relate to taxable supplies acquired by the employee in the course of the registrant’s commercial activities or the use of a motor vehicle for similar purposes. The amount must also be a reasonable allowance as if it were paid and non-taxable under sub-paragraph 6(1)(b)(vii.1) of the ITA.
+(ii) its context [24] Within section 174 of the ETA, reference is specifically made to sub-paragraph 6(1)(b)(vii.1) of the ITA. Beyond that, the section itself falls within Subdivision C, Special Cases, which creates input tax credits for registrants in circumstances where same would otherwise be unavailable.
+(iii) its purpose [25] The purpose of the section is not critically different from its stated textual object. The subsection creates a deemed ITC in respect of vehicle allowances falling within the statutory definition to ensure that where employees supply their own vehicles, maintenance, fuel and insurance in pursuit of their employer’s business, such commercial activity of the third party employer is not denied the ITCs in respect of such goods and services so consumed. Logically, were such services and goods acquired directly by CWAY under the ETA, ITCs would be available.
+[26] Specifically referable to the overall purpose of the statute and its incorporation by reference of the ITA, is the conclusion of Justice Archambault in I-D Foods Corporation at paragraphs 24 and 25:
+[24] In the Goods and Services Tax Reporter, in section 65-800 under the heading “Employee Allowances”, it is stated.
+Subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of the ITA applies. These subparagraphs apply to travelling allowances, including automobile allowances paid to salespersons . . . Therefore an allowance which is not reasonable under the per kilometre test in subparagraph 6(1)(b)(x) of the ITA and the duplicating reimbursement test in subparagraph 6(1)(b)(xi) would not be a reasonable allowance for purposes of section 174 of the Excise Tax Act (ETA). However, the individual may be able to pursue a rebate under section 253.
+[only those relevant emphasized sections are reproduced]
+[25]I also believe that this interpretation of section 174 is the most reasonable one given that the question to be answered under section 174 is whether the allowance would be a “reasonable allowance for those purposes,” i.e., for the purposes of subparagraph 6(1)(b)(v) of the ITA. The implicit reference to subparagraph 6(1)(b)(x) of the ITA is required because of the close relationship between sections 174 and 253 of the ETA and subparagraph 6(1)(b)(v) of the ITA. It is obvious that Parliament intended that the three provisions be closely connected. This is evident not only from the wording of paragraph 174(c) and subsection 253(1) of the ETA, but also from the explanatory notes which where issued by the Department of Finance when paragraph 174(c) was amended in 1993. To understand the context of these notes and the amendments, it is useful to reproduce here sections 174 and 253 as they read before the 1993 amendments:
+174. Travel and other allowances — For the purposes of this Part, where
+…
+(b) an amount in respect of the allowance is deductible in computing the income of the person for a taxation year of the person for the purposes of the Income Tax Act, or would have been so deductible if the person were a taxpayer under that Act and the activity were a business,
+the person shall be deemed to have received a taxable supply and …
+[27] While Justice Archambault was dealing with the override of subparagraph 6(1)(b)(x) (concerning the need for a per kilometre allowance) to subparagraph 6(1)(b)(v) of the ITA (the related general travel allowance provision), the statement nonetheless shows the need to harmoniously reconcile all the related components necessary to a successful claim of the deemed ITCs under section 174.
+VI. Further Analysis and Conclusion [28] The re-stated issue is whether the vehicle allowance, as measured within the context and purpose of section 174 of the ETA and subsection 6(1) of the ITA (the “operative sections”), is reasonable. The Court rejects the argument of the Respondent concerning the corporate veil. How the ultimate amount of the vehicle allowance is reconciled is not considered within the operative sections. The question is one of reasonableness, overall methodology and compliance. If incurred by the employee, could such an “allowance” be transformed, mutatis mutandis, into a subparagraph 6(1)(b)(vii.1) (in I-D Foods it was 6(1)(b)(v)) non-taxable allowance. The mileage calculation was in compliance, the actual allowance was lifted from the regulations and there was no double counting or unwarranted or unreported payment as a result of the meticulous year-end reconciliation.
+[29] Further, the fact that full reconciliation did not occur until the end of the year is also consistent with the analogous “duplicating reimbursement” test referred to by Justice Archambault in I-D Foods. The end of the year would be the very time when such an exclusion would be assessed and determined by the taxpayer. Suggesting that the calculation at any given point would be unreasonable because of the advance payment represented by the ultimately reconciled fuel cards is not accurate. By the year end, all was right. The fuel card personal benefit was fully in the hands of the employees as a taxable benefit, the vehicle allowance was reasonable and the imputed ITCs were claimed only on the commercial activities. The same could be said for any related year end determination related to a subparagraph 6(1)(b)(v) or 6(1)(b)(vii.1) exclusion.
+[30] With further reference to I-D Foods, Justice Archambault, although he disallowed the appeal because the company did not comply with sub-paragraph 6(1)(b)(x) (the per kilometre allowance override), stated the following:
+[29] In order for the determination made by IDF (that the allowance was a reasonable allowance at the time it was paid) to be reasonable, it had to be made in conformity with subparagraph 6(1)(b)(v), taking into account the deeming rule of subparagraph 6(1)(b)(x) of the ITA. The purpose of enabling an employer, under paragraph 174(c) of the ETA, to determine what is reasonable at the time of the payment is not to give the employer the power to define the legal concept of “reasonable allowance” but to give it the flexibility to conclude at that time (here, every two weeks), after taking into account all the adjustments made in the course of the year, including those at the end of the year, that the allowance will meet the legal definition of “reasonable allowance”.
+[31] The vehicle allowance was painstakingly accurate and compliant with those available guideposts. By year-end, it was fully reconciled, reasonable and accurate. While the ultimate methodology may have been a bit convoluted, circuitous and unorthodox, it ultimately complied with the legislation and regulations within the relevant measured period: annually. CWAY paid its employees a reasonable allowance for the use of their motor vehicles in CWAY’s commercial activities, which would otherwise have qualified for exclusion from the employees’ income under subparagraph 6(1)(b)(vii.1) at the conclusion of the year. As such, CWAY is entitled to the deemed ITCs for the calculable taxable supplies related to the vehicle expenses.
+[32] Costs shall be fixed at $150.00.
+Signed at Ottawa, Canada, this 10th day of November 2017.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2017 TCC 225
+COURT FILE NO.:
+2016-4465(GST)I
+STYLE OF CAUSE:
+CWAY LOGISTICS LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+October 5, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 10, 2017
+APPEARANCES:
+Agent for the Appellant:
+A.R. (Ron) Gunn
+Counsel for the Respondent:
+Jamie Hansen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

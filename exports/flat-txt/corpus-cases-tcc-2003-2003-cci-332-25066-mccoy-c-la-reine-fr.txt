@@ -1,0 +1,736 @@
+Title: McCoy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25066/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-332-25066-mccoy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-05-15
+
+# McCoy c. La Reine
+
+- Citation: 2003 CCI 332
+- Decision date: 2003-05-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2541, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCoy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-15
+Référence neutre
+2003 CCI 332
+Numéro de dossier
+1999-4555(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI332
+Date : 20030515
+Dossier : 1999‑4555(IT)G
+ENTRE :
+ALAN McCOY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation établie à l’égard de l’appelant pour l’année d’imposition 1995. La question en litige porte sur le droit de l’appelant de déduire la somme de 73 850 $ à titre de sa part d’une perte qu’une société en commandite, dont il était un associé, a subi, selon ce qu’il affirme.
+[2] Bien que l’audience ait duré environ 15 jours, l’essentiel des opérations donnant lieu au litige peut être résumé brièvement.
+[3] En 1994, Edward Furtak, qui vivait alors aux Bermudes, a élaboré, par l’entremise de sa société établie aux Bermudes, Trafalgar Research (Bermuda) Ltd. (« Trafalgar Research »), un progiciel comportant 34 programmes visant des contrats de devises de négociation et des contrats à terme sur instrument financier. Le progiciel était intitulé MarketVision et était la propriété d’une filiale de Trafalgar Research, soit Trafalgar Capital Ltd. (« Trafalgar Capital »), une autre société établie aux Bermudes. Je les appellerai collectivement sous le nom de Trafalgar.
+[4] Un certain nombre de sociétés en commandite ont été formées, notamment Trafalgar II Limited Partnership (« Trafalgar II » ou « la société de personnes »). En février 1995, elle a acquis une participation de 18,18 p. 100 dans MarketVision pour une contrepartie convenue de 10 000 000 $. Par la suite, le 31 décembre 1995, ce taux a été augmenté à une participation de 22,07 p. 100 pour une contrepartie convenue de 12 140 000 $. Ce chiffre représentait 22,07 p. 100 de 55 000 000 $, qui était considéré comme la valeur totale de MarketVision. Une évaluation a été effectuée par une firme, EMC Partners, indiquant une valeur entre la gamme de 55 500 000 $ et 59 980 000 $.
+[5] La contrepartie de 12 140 000 $ pour le logiciel devait être réglée par un billet à ordre au montant de 8 619 400 $ venant à échéance le 1er décembre 2005, et le solde de 3 520 600 $ devait être versé en espèces.
+[6] L’appelant a acheté 150 unités dans Trafalgar II pour un montant de 150 000 $. Ce montant était payable de la façon suivante :
+À la clôture (le 31 décembre 1995)
+19 500 $
+En espèces, le 15 mars 1996
+7 500 $ avec les intérêts de 150 $
+En espèces, le 15 juin 1996
+16 500 $ avec les intérêts de 750 $
+Billet à ordre arrivant à échéance le 30 octobre 2005, portant intérêt au taux annuel de 9 %
+106 500 $
+[7] En d’autres termes, 29 p. 100 ou 43 500 $ devaient être versés en espèces à la date de clôture ou immédiatement après, et 71 p. 100 au moyen d’un billet à ordre venant à échéance environ 10 années après la date de clôture. Ce rapport était le même que celui établi entre le versement en espèces et le billet à ordre à l’acquisition du logiciel par Trafalgar II.
+[8] La relation entre Trafalgar Research, sa filiale Trafalgar Capital et la société de personnes était régie par un accord quelque peu complexe en vertu duquel Trafalgar devait commercialiser des produits et négocier des contrats à terme, selon un certain volume, et partager les profits avec Trafalgar II. Elle devait utiliser une partie des produits perçus de la vente du logiciel à ses fins commerciales.
+[9] En 1995, la société de personnes a déclaré une perte fondée sur une déduction pour amortissement (DPA) à l’égard du logiciel, et l’appelant a déduit sa part proportionnelle de cette perte.
+[10] Le ministre du Revenu national a refusé cette perte pour de nombreux motifs qu’il a fait valoir, notamment :
+a) Trafalgar et Trafalgar II avaient un lien de dépendance et, en vertu de l’article 69 de la Loi de l’impôt sur le revenu, le logiciel était réputé avoir été acquis à sa juste valeur marchande qui, selon l’intimée, ne représente qu’une faible partie du prix de 55 000 000 $;
+b) le billet à ordre donné par la société de personnes est conditionnel et ne peut pas figurer dans le calcul de la contrepartie;
+c) en vertu de l’article 67 de la Loi de l’impôt sur le revenu, la demande d’une DPA n’est pas raisonnable;
+d) la société de personnes n’avait pas une expectative raisonnable de profit;
+f) le billet à ordre constituait un montant à recours limité au sens de l’article 143.2 de la Loi de l’impôt sur le revenu;
+g) le logiciel n’a pas été acquis en vue de tirer un revenu et, par conséquent, en vertu de l’alinéa 1102(1)c) du Règlement de l’impôt sur le revenu, il ne constituait pas un bien amortissable;
+h) la part de la perte de l’appelant déduite est supérieure à sa « fraction à risques » (paragraphe 96(2.2));
+i) le logiciel était un bien locatif et, par conséquent, la déduction de la société de personnes est limitée au revenu déterminé par ailleurs avant la DPA relativement au bien.
+[11] Les faits résumés ci‑dessus nécessitent une élaboration, mais je ne me propose pas de m’y attarder en détail, comme c’était le cas lors de la présentation de la preuve. Je crois que la résolution du présent litige dépend de la décision rendue à l’égard de trois ou quatre questions assez simples. Il importe de souligner, dès le début, que le ministre a permis à la société de personnes de déduire une DPA et, par conséquent, il a refusé la déduction de l’appelant relativement à la perte subie par la société de personnes. Cela est compatible avec l’hypothèse selon laquelle le logiciel n’a pas été acquis en vue de tirer un revenu et, par conséquent, il n’est pas un bien amortissable. Cela est également compatible avec l’hypothèse de l’expectative raisonnable de profit (ARP), un argument auquel les avocats de l’intimée n’ont pas explicitement renoncé. Il y a fait allusion et, compte tenu de l’arrêt Brian J. Stewart c. La Reine, [2002] 2 R.C.S. 645, de la Cour suprême du Canada, il est passé à autre chose. En général, toutes les autres hypothèses (la juste valeur marchande, le critère raisonnable, les événements incertains, le risque et le recours limité) accorderaient quelque chose à l’appelant (bien que je doive reconnaître que l’intimée soutient qu’en combinant le paragraphe 143.2(8) avec les paragraphes 96(2.1) et (2.2), on arrive à une fraction à risques de valeur négative de 201 178 $ (sous réserve de l’article 257 examiné ci‑dessous) et par conséquent, il n’existe pas de déduction). L’appelant ne soutient pas que le ministre n’a pas donné suite à toutes les 79 hypothèses plaidées, et je dois donc accepter qu’il l’a fait. Cependant, il semble difficile de croire que le ministre aurait eu l’aptitude mentale de fonder une cotisation sur un pot‑pourri d’hypothèses contradictoires et incompatibles.
+A. L’acquisition de la participation dans la société
+[12] Pendant la période pertinente, l’appelant était un courtier en placements à la maison de courtage Midland Walwyn. En décembre 1995, il a acheté 150 unités d’une société en commandite de l’Ontario (Trafalgar II). Une entreprise ontarienne faisant affaire sous le nom TSLP Management Inc. était le commandité de Trafalgar II, et toutes ses actions étaient détenues par Capital Vision Inc., une société ontarienne enregistrée en Ontario comme courtier sur le marché des valeurs dispensées. Toutes les actions de Capital Vision Inc. étaient détenues par Me Greg Coleman, un avocat de Toronto, qui était également l’unique administrateur et le président de TSLP Management Inc.
+[13] Les commanditaires, y compris l’appelant, étaient des investisseurs.
+[14] Le prix de la participation dans la société était de 150 000 $, payable de la façon suivante :
+– à la clôture (le 31 décembre 1995) : 19 500 $ en espèces;
+– un billet à ordre de 130 500 $ dont 7 500 $ était payable le 15 mars 1996, 16 500 $ le 15 juin 1996 et le solde de 106 500 $ le 30 octobre 2005. Des intérêts aux montants de 150 $ et de 750 $ étaient payables sur les deux premiers versements prévus au billet.
+[15] En conséquence, au 15 juin 1996, l’appelant avait versé 43 500 $ en espèces, et le solde était couvert par le billet à ordre qui arrivait à échéance le 30 octobre 2005.
+[16] Le billet à ordre remis à la société de personnes par l’appelant comportait les modalités suivantes :
+[traduction]
+BILLET À ORDRE
+Le 31 décembre 1995
+Toronto, Ontario
+DATE D’ÉCHÉANCE : le 30 octobre 2005
+CONTRE VALEUR REÇUE, le soussigné (le « souscripteur ») reconnaît son endettement envers Trafalgar II Limited Partnership (la « détentrice ») et s’engage à verser, aux dates précisées ci‑dessous à cette dernière située au 225, rue Richmond Ouest, bureau 400, Toronto (Ontario) M5V 1W2 (ou à toute autre adresse que la détentrice pourra, de temps à autre, désigner par voie d’une lettre à l’intention du souscripteur), le principal de 870 $ en monnaie ayant cours légal au Canada (le « principal ») pour chaque unité (une « unité ») de participation dans la société en commandite Trafalgar II Limited Partnership (la « société de personnes ») à laquelle a souscrit le souscripteur et que la détentrice a acceptée en vertu de la notice d’offre de la société de personnes datée du 1er septembre 1995, soit 150 unités avec les intérêts y afférents, conformément aux modalités susmentionnées.
+Le principal ainsi que les intérêts y afférents seront exigibles et payables à la détentrice par le souscripteur de la façon suivante :
+a) 50 $ par unité avec 1 $ d’intérêts payables le 15 mars 1996;
+c) 110 $ par unité avec 5 $ d’intérêts payables le 15 juin 1996;
+e) 710 $ par unité avec les intérêts le 30 octobre 2005.
+Le principal non versé portera intérêt à compter de la date susmentionnée et suivant celle‑ci au taux annuel de neuf pour cent (9 %), composé annuellement avant et après une demande, un manquement, une échéance et une décision avec un intérêt sur le principal en souffrance ainsi que des intérêts au même taux jusqu’à la date du remboursement intégral. Le souscripteur s’engage à payer les intérêts courus et impayés sur le montant du principal non versé, composés annuellement en fonction des arriérés le 30 janvier de chaque année ou avant cette date, et ce, à partir du 30 janvier 1996.
+[...]
+Par la présente, le souscripteur consent à la cession du présent billet à ordre à Trafalgar Capital Ltd. (« Trafalgar Capital ») à titre de garantie à l’égard d’un montant que la détentrice doit à Trafalgar Capital en vertu d’un billet d’acquisition daté du 30 décembre 1994 au montant de 10 000 000 $ et qui, par la présente, oblige la détentrice à remettre à Trafalgar Capital cent pour cent (100 %) de la part des sommes distribuables du souscripteur (à cet égard, ce terme est défini en vertu de la notice d’offre de la détentrice datée du 1er septembre 1995) jusqu’à ce que tous les intérêts que devait alors le souscripteur en vertu du présent billet à ordre aient été payés et, par la suite, à remettre à Trafalgar Capital 45 p. 100 des sommes distribuables du souscripteur jusqu’à ce que la totalité du principal que devait alors le souscripteur en vertu du présent billet à ordre ait été remboursée.
+B. Le logiciel
+[17] MarketVision est une suite logicielle aux fins des marchés de devises de négociation et des contrats à terme sur instrument financier. Elle a été créée par Edward Furtak, un Canadien qui résidait aux Bermudes, par l’entremise de sa compagnie Trafalgar Research. Il a obtenu son diplôme en 1989 de la McMaster University, à Hamilton, et a acquis une certaine expertise dans le domaine de l’analyse technique des marchés des capitaux et des valeurs mobilières ainsi qu’une compétence considérable dans le domaine de l’informatique. À la barre des témoins, il m’a donné l’impression d’être une personne qui s’exprime bien et qui, de toute évidence, possède les aptitudes nécessaires d’un fournisseur.
+[18] MarketVision est une suite logicielle visant à offrir des directives aux experts financiers portant sur le moment opportun d’acheter ou de vendre des contrats de devises et des contrats à terme sur instrument financier. Elle a été conçue pour analyser des données statistiques portant sur les marchés de devises et les marchés de contrats à terme sur instrument financier et pour susciter une décision commerciale en fonction de cette analyse.
+[19] La transaction à terme comprend l’achat de contrats d’opération à terme qui consistent essentiellement en des conventions d’achat d’un produit aux fins de livraison éventuelle à un prix fixé au moment de conclure la convention.
+[20] Le type d’analyse utilisé par MarketVision est appelé analyse technique et doit être distingué d’une analyse fondamentale. Le rapport de M. Jim Horvath, un évaluateur professionnel d’entreprise pour le compte du bureau Deloitte & Touche, comporte non seulement une définition utile de ces termes, mais également une description claire de ce qu’est une transaction à terme. Il est relativement bref et je reproduirai la partie complète de son rapport qui traite des transactions à terme, mais en omettant les notes en bas de page :
+[traduction]
+3.2 Transaction à terme
+Ce qui suit résume le contexte pertinent relativement à la transaction à terme et au logiciel de transaction à terme. Ces renseignements ont été tirés de diverses sources, notamment d’articles, d’entrevues publiées, de discussions tenues avec des participants et des représentants de l’industrie et d’organismes de réglementation et de différents sites Web, tel que cela est indiqué dans la portée de la présente étude.
+Un contrat d’opération à terme, tel que le définit la Commodities Futures Trading Commission (« CFTC »), consiste en « un accord visant à acheter ou à vendre un produit aux fins de livraison éventuelle : (1) à un prix qui est déterminé au moment de rédiger les modalités du contrat; (2) qui oblige chacune des parties au contrat à exécuter le contrat au prix précisé; (3) que l’on utilise pour assumer et déplacer le risque de prix et (4) qui peut être exécuté par la livraison ou par une contrepartie ». La transaction à terme comprend des produits de base autres que financiers, tels que les céréales, les viandes et les métaux, ainsi que les produits financiers tels que les taux d’intérêt (obligations du Trésor des É.‑U.), les devises et les indices boursiers.
+Les contrats d’opération à terme sont achetés sur marge. La National Futures Association (« NFA ») définit une marge ainsi : « une somme ou un dépôt d’argent versé par les acheteurs et les fournisseurs de contrats d’opération à terme pour assurer le respect des modalités du contrat (la livraison ou la prise de livraison de produits ou l’annulation de la position par une opération d’une contrepartie ultérieure). La marge relative aux produits de base ne consiste pas en un versement initial, comme c’est le cas relativement aux titres, mais plutôt en une garantie de bonne exécution ».
+L’effet de levier financier est le terme que l’on emploie pour décrire « la capacité d’exercer un contrôle sur des montants en dollars considérables d’un produit de base à l’aide d’un montant du capital comparativement peu élevé ». Comme il le sera mentionné ci‑dessous (article 3.4), l’effet de levier financier dans le cadre d’un investissement géré à terme revêt une autre signification.
+Dans sa publication intitulée A Guide to Understanding Opportunities and Risks in Futures Trading, à la page 14, la NFA donne l’exemple suivant du calcul de transaction à terme et de l’effet de levier financier :
+Par exemple, supposons qu’en prévision d’une augmentation des cours du marché, vous achetez un contrat d’opération à terme sur indice boursier de l’indice du Standard and Poor’s à un moment où l’indice de juin se transige à 1 200.
+Supposons également que votre exigence de couverture initiale est de 15 000 $. Puisque la valeur du contrat d’opération à terme correspond à 250 $ multiplié par l’indice, chaque fluctuation d’un point à l’indice représente un gain ou une perte de 250 $.
+Une augmentation de cinq pour cent à l’indice, soit de 1 200 à 1 260, produirait un profit de 15 000 $ (60 x 250 $). Réciproquement, une baisse de 60 points donnerait lieu à une perte de 15 000 $. Dans les deux cas, une augmentation ou une baisse de seulement cinq pour cent à l’indice produirait, dans le présent exemple, un gain ou une perte égal au dépôt total (100 p. 100) de la couverture initiale de 15 000 $.
+La réduction de la valeur nette d’un compte à partir du sommet jusqu'au creux de la vague résultant d'une opération ou d'une série d’opérations est également appelée un prélèvement.
+L'analyse des marchés de contrats à terme à laquelle procèdent les investisseurs en contrats à terme (et des approches commerciales connexes) peut, en règle générale, relever de deux catégories :
+• 1'analyse technique;
+• ou 1'analyse fondamentale.
+La NFA définit 1'analyse technique comme « une approche relative à l’analyse des marchés de contrats à terme qui examine les modèles de fluctuation des prix, les taux de variation, des changements du volume d'actions, des intérêts en cours ainsi que d'autres indicateurs statistiques ». Les analystes techniques ne tiennent pas compte des facteurs fondamentaux sous‑jacents, tels que les conditions économiques, mais analysent plutôt les modèles ou tendances, tels que ceux énoncés ci‑dessus, habituellement sous la forme d'un graphique. Une approche ou un style commercial fondé sur une analyse technique est quelquefois appelé une « opération commerciale mécanique » ou « systématique ». Les indices incitant à acheter, à vendre ou à détenir des actions sont souvent appelés des « signaux ». Quant à chacune des variables à l’intérieur d'un système, elle renvoie à des paramètres.
+La CFTC définit 1'analyse fondamentale comme « 1'étude des facteurs fondamentaux sous‑jacents qui auront une incidence sur 1'offre et la demande du produit de base qui fera 1'objet de négociation dans des contrats d’opération à terme ». Une approche ou un style commercial fondé sur une analyse fondamentale est souvent appelé une opération commerciale discrétionnaire.
+De nombreux investisseurs en contrats à terme choisissent de placer leurs fonds dans un compte de fonds de placement à terme géré, où le pouvoir de commerce est exercé et géré par un courtier ou un négociateur. Aux É.‑U., les conseillers ou les gestionnaires de fonds sont assujettis à des règlements et sont tenus de s'enregistrer auprès de la CFTC. Le terme « conseiller en matière d’opérations sur marchandises » s'emploie pour décrire ces conseillers ou gestionnaires. La CFTC définit ce terme ainsi : « particuliers ou firmes qui, contre rémunération, produisent des analyses ou des rapports portant sur des produits de base, notamment sur les avantages que comporte une opération commerciale sur contrats à terme normalisé de marchandises ou sur des options sur marchandises. »
+Les conseillers en matière de commerce des produits, les comptes de fonds de placement à terme géré et le concept de l’effet de levier financier dans un contexte de fonds de placement à terme géré sont approfondis dans la sous-section ci‑dessous (3.4).
+C. L’acquisition du logiciel par Trafalgar II
+[21] Trafalgar Capital, Trafalgar Research (quelquefois appelées collectivement « Trafalgar ») et la société de personnes Trafalgar II ont conclu un accord, le 24 février 1995, intitulé [traduction] « Accord relatif à l’acquisition du logiciel et au capital de roulement donné en gage » (l’« accord d’acquisition de logiciel »).
+[22] À mon avis, compte tenu de l’importance de cet accord qui régit les relations entre la société de personnes et les entreprises établies aux Bermudes, je reproduis ci‑dessous ce qui semble être quelques‑unes des dispositions essentielles de l’accord :
+[traduction]
+ATTENDU QUE Trafalgar Research a créé le logiciel et que Trafalgar Capital est le propriétaire exclusif d’une participation indivise de 73,82 p. 100 dans et sur les programmes informatiques;
+ET ATTENDU QUE la société de personnes souhaite acheter et que Trafalgar Capital souhaite vendre une participation de 18,18 p. 100 dans et sur les programmes informatiques;
+ET ATTENDU QU’à titre de paiement partiel du prix de vente pour les programmes informatiques, la société de personnes a l’intention de signer et de donner un billet d’acquisition à Trafalgar Capital;
+ET ATTENDU QUE Trafalgar et la société de personnes se sont entendues, pour former une filiale commune en vue d’exploiter les programmes informatiques;
+ET ATTENDU QU’en vue de cela, la société de personnes et Trafalgar Capital ont convenu que les programmes informatiques produiront des directives relatives aux contrats à terme sur instrument financier et que Trafalgar Research a accepté de permettre le commerce du capital de roulement donné en gage conformément aux directives produites par les programmes informatiques;
+ET ATTENDU QUE Trafalgar et la société de personnes ont convenu de solliciter activement le capital d’un tiers en vue de le commercialiser à l’aide des programmes informatiques;
+EN CONSÉQUENCE, en contrepartie de la somme de un dollar (1 $), et d’autre contreparties valables, maintenant payée par chacune des parties concernées à l’autre (dont la réception et la suffisance sont par les présentes reconnues), les parties conviennent de ce qui suit :
+1. DÉFINITIONS
+1.01 Aux fins du présent accord, les termes suivants auront les sens suivants :
+a) « billet d’acquisition » signifie un billet à ordre donné à Trafalgar Capital par la société de personnes conformément à l’article 2.02 du présent accord, dans la forme prévue à l’annexe A ci‑jointe;
+[...]
+i) « ajouts des dépenses en capital » signifient le capital de roulement additionnel donné en gage par Trafalgar en vertu de l’article 5 du présent accord;
+[...]
+k) « programmes informatiques » signifie MarketVision, une suite logicielle, créée par Trafalgar Research, visant à offrir des directives aux experts financiers portant sur le moment opportun d’acheter ou de vendre des contrats de devises et des contrats à terme sur instrument financier et plus précisément décrit à l’annexe B ci‑jointe, ainsi que les améliorations, les œuvres dérivées et les modifications au maintien;
+[...]
+q) « pertes » signifie tout dommage, perte, réclamation, demande, insuffisance, coût et dépense, y compris l’intérêt, les intérêts composés et les frais judiciaires sur une base de procureur‑client;
+[...]
+u) « contrat de nantissement » signifie le contrat daté à la date des présentes parmi la société de personnes, Trafalgar Capital et chacune des sociétés en commandite, en vertu de laquelle chacun des commanditaires a affecté ses unités à titre de garantie de l’exécution des obligations de la société de personnes découlant du billet d’acquisition;
+v) « capital de roulement donné en gage » signifie le capital que Trafalgar Research donnera en gage pour une période de 15 années conformément à l’article 4 du présent accord et les ajouts des dépenses en capital;
+w) « prix d’achat » signifie le prix d’achat payé à Trafalgar Capital, par la société de personnes, pour les programmes informatiques, tel que cela est déterminé conformément à l’article 2.02 du présent accord;
+[...]
+z) « capital d’un tiers » signifie tout capital qui ne constitue pas un capital de roulement donné en gage et qui est commercialisé à l’aide des programmes informatiques;
+aa) « bénéfice d’exploitation d’un tiers » signifie tous les revenus produits et retenus par Trafalgar Capital par l’utilisation des programmes informatiques et tout capital d’un tiers, comprenant les frais de gestion des tiers mais excluant les frais de courtage des tiers;
+ab) « bénéfices d’exploitation » signifient tous les revenus produits par Trafalgar Capital par l’utilisation des programmes informatiques et le capital de roulement donné en gage, excluant les frais de rapport de transactions, les frais de gestion de Trafalgar et les frais de courtage;
+ac) « rapport de transactions » signifie chacune des directives portant sur les contrats d’opération à terme (une directive d’acheter et une directive de vendre ensemble constitue une directive de transaction) produite par les programmes informatiques relativement au capital de roulement donné en gage;
+ad) « frais de rapport de transactions » signifie les 20 $US payables à la société de personnes par Trafalgar pour chacun des rapports de transactions obtenu par Trafalgar Capital de la société de personnes, payables en dollars canadiens à un taux de change égal au plus élevé des suivants : (i) 1,40 $CAN ou 1 $US et (ii) le taux de change en vigueur au moment où le paiement est effectué;
+[...]
+2. ENTENTES D’ACHAT ET DE VENTE
+2.01 En contrepartie du paiement du prix d’achat et de l’exécution des autres obligations de la société de personnes, par les présentes, Trafalgar Capital vend, cède et transfère à la société de personnes une participation indivise de 18,18 p. 100 à perpétuité, dans et sur les programmes informatiques.
+2.02 Le prix d’achat des programmes informatiques sera de 10 000 000 $, payable à Trafalgar Capital par la société de personnes de la façon suivante :
+a) en ce qui concerne XX $ par chèque ou par traite de banque dès la signature du présent accord;
+b) en ce qui concerne le solde du prix d’achat, par :
+(i) le billet d’acquisition signé,
+(ii) les billets à ordre au montant total de XX $,
+(iii) la directive irrévocable donnée par chacun des commanditaires de la société de personnes et de Trafalgar Capital autorisant la société de personnes à payer 45 p. 100 du profit net de la société de personnes à Trafalgar Capital à titre de paiement du principal sur les billets à ordre et sur le billet d’acquisition.
+2.03 Dès la signature du présent accord, Trafalgar Capital fournira à la société de personnes quatre copies complètes du code source des programmes informatiques desquelles :
+a) deux seront en forme lisible par machine sur un support lisible par une machine convenable pour un support à long terme et compatible avec les systèmes informatiques d’ordinateur personnel (OP) soit MacIntosh, soit IBM;
+b) deux seront en forme lisible aux humains avec des commentaires en langue anglaise sur du papier pour titres convenable pour l’archivage à long terme.
+3. FORMATION D’UNE FILIALE COMMUNE
+3.01 Les parties au présent accord conviennent de former une filiale commune qui aura comme objectif de participer au commerce des contrats à terme sur instrument financier en utilisant le capital de roulement donné en gage et les programmes informatiques et à la sollicitation active du capital de tiers aux fins de sa commercialisation par l’utilisation des programmes informatiques, conformément aux modalités du présent accord.
+3.02 La durée de la filiale commune commencera dès la clôture et continuera jusqu’au 30 novembre 2009.
+3.03 La durée du présent accord et de la filiale commune sera prolongée pour dix (10) années de plus sur avis écrit soit par la société de personnes, soit par Trafalgar, donné au moins 60 jours avant la date d’expiration du présent accord, de la filiale commune et de toute prolongation à cet égard.
+4. CONTRIBUTION DU CAPITAL DE ROULEMENT DONNÉ EN GAGE
+4.01 Dès la clôture, Trafalgar ordonnera que le capital de roulement donné en gage soit déposé dans un compte portant intérêt (le « compte ») à la banque.
+4.02 Le compte sera au nom de Trafalgar Research et, afin que l’on puisse retirer ou transférer des fonds de ce dernier, il exigera deux signatures, dont l’une sera celle du commandité de la société de personnes, et l’autre sera désignée par Trafalgar.
+4.03 Trafalgar Research, par les présentes, accorde à la société de personnes un droit de sûreté sur le capital de roulement donné en gage qui garantira l’exécution des obligations de Trafalgar découlant du présent accord. Le droit de sûreté susmentionné se terminera au moment du retrait du capital de roulement donné en gage conformément à l’article 4.06 du présent accord.
+4.04 Le capital de roulement donné en gage déposé dans le compte par Trafalgar sera égal à 95 p. 100 du produit net de l’offre à Trafalgar (le produit brut de l’offre moins les frais remboursables (pour un maximum de 100 000 $) engagés par Trafalgar aux fins de l’offre et de la vente des programmes informatiques à la société de personnes), payable par Trafalgar de la façon suivante :
+a) à raison de 24,14 p. 100, à la clôture;
+b) à raison de 20,69 p. 100, au plus tard le 15 juin 1995;
+c) à raison de 17,24 p. 100, au plus tard le 15 septembre 1995;
+d) à raison de 20,69 p. 100, au plus tard le 15 mars 1996;
+e) à raison de 17,24 p. 100, au plus tard le 15 juin 1996.
+4.05 Sous réserve de l’article 5 du présent accord, tous les intérêts payés par la banque sur le capital de roulement donné en gage seront payés à Trafalgar Research.
+4.06 Trafalgar Research aura droit de retirer le montant total du capital de roulement donné en gage le 1er février 2009 ou après cette date, nonobstant les prolongations de la durée du présent accord, selon l’article 3.03 de ce dernier.
+4.07 La société de personnes et Trafalgar Capital reconnaissent que, nonobstant les modalités du présent accord, Trafalgar Research demeurera le propriétaire en common law du capital de roulement donné en gage.
+5. AJOUTS DES DÉPENSES EN CAPITAL
+5.01 Jusqu’à ce que Trafalgar donne, à la société de personnes, une confirmation écrite selon laquelle tout le principal et l’intérêt exigibles en vertu du billet d’acquisition ont été remboursés intégralement, 30 p. 100 des intérêts payés à Trafalgar Research, en vertu de l’article 4.05 du présent accord, sera réputé être des ajouts des dépenses en capital et sera ajouté au capital de roulement donné en gage.
+5.02 Sous réserve de l’article 7.09 du présent accord, cinquante pour cent (50 %) de tous les montants payés, à titre d’intérêt sur le billet d’acquisition, à Trafalgar Capital en 1995 par la société de personnes sera réputé être des ajouts des dépenses en capital et sera ajouté au capital de roulement donné en gage.
+5.03 Jusqu’à ce que Trafalgar donne, à la société de personnes, une confirmation écrite selon laquelle tout le principal et l’intérêt exigibles en vertu du billet d’acquisition ont été remboursés intégralement, 30 p. 100 des bénéfices d’exploitation payés à Trafalgar Research, à l’article 7.05 du présent accord, sera réputé être des ajouts des dépenses en capital et sera ajouté au capital de roulement donné en gage.
+5.04 Tous les montants payés à Trafalgar Capital par la société de personnes en vertu du contrat de droits d'utilisation de logiciel relativement au principal du billet d’acquisition seront réputés être des ajouts de dépenses en capital et seront ajoutés au capital de roulement donné en gage.
+5.05 Tous les ajouts de dépenses en capital ajoutés au capital de roulement donné en gage sont assujettis aux modalités énoncées dans le présent accord portant sur le capital de roulement donné en gage.
+6. CAPITAL D’UN TIERS
+6.01 Tout au long de la durée du présent accord, Trafalgar et la société de personnes devront solliciter activement du capital d’un tiers afin d’être commercialisé à l’aide des programmes informatiques.
+6.02 La société de personnes et Trafalgar devront négocier de bonne foi une forme normale de contrat (un « contrat de dépôt entre les mains d’un tiers ») qui sera signée par les tiers relativement aux frais de gestion et à l’attribution des revenus produits par le capital d’un tiers, et Trafalgar ne conclura aucun autre accord à l’égard du capital d’un tiers et des programmes informatiques sans le consentement écrit préalable de la société de personnes, lequel ne pas peut être refusé sans motif valable.
+6.03 Sous réserve des modalités de tout contrat de dépôt entre les mains d’un tiers, tout le capital d’un tiers sera déposé dans un ou plusieurs comptes (les « comptes d’un tiers ») et le capital d’un tiers ne pourra, en aucun cas, être confondu avec le capital de roulement donné en gage.
+7. COMMERCE
+7.01 Trafalgar Capital gérera les affaires de la filiale commune et, aux fins de cette obligation, achètera et vendra des contrats à terme sur instrument financier :
+a) en utilisant le capital de roulement donné en gage en stricte conformité avec les rapports de transactions;
+b) sous réserve des modalités de tout contrat de dépôt entre les mains d’un tiers, en utilisant le capital d’un tiers en conformité avec les rapports de transactions.
+7.02 Dans le cadre du commerce en utilisant le capital de roulement donné en gage, Trafalgar Capital ne mettra pas à profit ce dernier à un ratio supérieur à celui de quatre pour un (4:1) fondé sur le capital de roulement donné en gage initial plus les ajouts de dépenses en capital nettes annuelles.
+7.03 Pour chacun des contrats d’opération à terme achetés et vendus par l’utilisation des programmes informatiques et du capital de roulement donné en gage, Trafalgar payera à la société de personnes des frais de rapport de transactions, et Trafalgar Capital aura droit aux frais de gestion de Trafalgar.
+7.04 Jusqu’à ce que Trafalgar donne, à la société de personnes, une confirmation écrite selon laquelle le principal et l’intérêt exigibles en vertu du billet d’acquisition ont été remboursés intégralement, Trafalgar Capital devra acheter au moins 2 850 rapports de transactions par année pour chaque 1 000 000 $ de capital de roulement donné en gage mise à profit.
+7.05 Jusqu’à ce que Trafalgar donne, à la société de personnes, une confirmation écrite selon laquelle le principal et l’intérêt exigibles en vertu du billet d’acquisition ont été remboursés intégralement, la société de personnes recevra 80 p. 100 des bénéfices d’exploitation, et le solde de ces derniers sera payé à Trafalgar Research.
+7.06 Après que Trafalgar donne, à la société de personnes, une confirmation écrite selon laquelle le principal et l’intérêt exigibles en vertu du billet d’acquisition ont été remboursés intégralement, la société recevra 20 p. 100 des bénéfices d’exploitation, et le solde de ces derniers sera payé à Trafalgar Research.
+7.07 Trafalgar Research reconnaît que, si les bénéfices d’exploitation sont inférieurs au montant total des frais de rapport de transactions, les frais de gestion de Trafalgar et les frais de courtage, Trafalgar Capital sera tenue de payer, par des fonds provenant du capital de roulement donné en gage, tous les frais de rapport de transactions à la société de personnes et tous les frais de courtage au courtier.
+7.08 Advenant l’obligation de Trafalgar Capital de verser une partie du capital de roulement donné en gage à un courtier, ce dernier sera avisé par écrit par Trafalgar Capital que tous les paiements et les transferts du compte établi par le courtier qui ne sont pas effectués directement au compte exigeront au moins deux signatures, dont l’une doit être celle du commandité.
+7.09 Nonobstant toute autre modalité du présent accord, si le capital de roulement donné en gage est réduit à un pourcentage inférieur à 9,5 p. 100 du principal impayé du billet d’acquisition :
+a) Trafalgar Capital devra cesser immédiatement tout commerce par utilisation du capital de roulement donné en gage, aviser immédiatement, par écrit, la société de personnes et ne devra pas recommencer le commerce sans le consentement explicite écrit de la société de personnes, lequel peut être refusé sans motif valable;
+b) jusqu’à ce que le capital de roulement donné en gage soit supérieur à 9,5 p. 100 du principal impayé du billet d’acquisition, cent pour cent (100 %) de tous les montants payés par la société de personnes à Trafalgar Capital en 1995 à titre d’intérêt sur le billet d’acquisition sera réputé être un ajout des dépenses en capital et sera ajouté au capital de roulement donné en gage.
+7.10 Jusqu’à ce que Trafalgar donne, à la société de personnes, une confirmation écrite selon laquelle le principal et l’intérêt exigibles en vertu du billet d’acquisition ont été remboursés intégralement, la société de personnes recevra 18,18 p. 100 des bénéfices d’exploitation d’un tiers, et le solde de ces derniers sera payé à Trafalgar Capital.
+7.11 Après que Trafalgar donne, à la société de personnes, une confirmation écrite selon laquelle le principal et l’intérêt exigibles en vertu du billet d’acquisition ont été remboursés intégralement, la société de personnes recevra 3,64 p. 100 des bénéfices d’exploitation d’un tiers, et le solde de ces derniers sera payé à Trafalgar Capital.
+[...]
+10. DÉCLARATIONS ET GARANTIES
+10.01 Trafalgar Capital et Trafalgar Research déclarent et garantissent chacune, par les présentes, à l’acheteur, qu’à la date des présentes, les déclarations et les garanties suivantes sont vraies et exactes, et chacune reconnaît que la société de personnes se fie sur de telles déclarations et garanties relativement à l’exécution de ses obligations découlant du présent accord :
+[...]
+n) Jusqu’à ce que tout le principal et l’intérêt exigibles en vertu du billet d’acquisition soient remboursés intégralement, les programmes informatiques produiront au moins 2 850 rapports de transactions par année pour chaque 1 000 000 $ du capital de roulement donné en gage mise à profit et, entre la présente date et le 30 novembre 2004, produiront un rendement général annuel d’au moins 18 p. 100 du capital de roulement donné en gage mise à profit.
+10.02 Les déclarations et garanties énoncées à l’article 10.01 ci‑dessus demeureront en vigueur à l’avantage de la société de personnes de personnes jusqu’à cinq années après l’expiration ou la fin du présent accord, y compris toutes ses modifications, ses prolongations et son renouvellement.
+[...]
+11. INDEMNISATION
+[...]
+11.02 Trafalgar Capital et Trafalgar Research, indemniseront et dégageront chacune la société de personnes de la responsabilité à l’égard de toutes pertes subies par cette dernière occasionnées par une imprécision ou une violation de toute déclaration ou garantie par Trafalgar Capital ou Trafalgar Research, ou de l’omission de ces dernières de respecter toute modalité ou d’exécuter son engagement tel que cela est prévu dans le présent accord.
+[...]
+11.05 Dans le cas où Trafalgar violerait les conditions de l’article 7.03 du présent accord ou dans le cas où les programmes informatiques ne produiraient pas un rendement général annuel d’au‑moins 16 p. 100 du capital de roulement donné en gage mise à profit pendant la période entre le 1er janvier 1995 et le 31 décembre 2004, la société de personnes aura le droit, mais non l’obligation, de remplacer la majorité des membres du conseil d’administration de Trafalgar Capital avec des personnes nommées de la société de personnes.
+[23] L’accord d’acquisition de logiciel initial envisageait une acquisition, par la société de personnes, d’une participation de 18,18 p. 100 dans MarketVision et définissait le terme « unité » comme visant l’une des 10 000 unités de participation dans la société en commandite dans Trafalgar II et un prix d’achat de 10 000 000 $. Un accord modificateur conclu le 31 décembre 1995 a modifié la définition d’« unité » pour signifier l’une des 12 140 unités de participation dans la société en commandite, a élevé le pourcentage de participation à être acquis par Trafalgar II à 22,07 p. 100 et a élevé le prix d’achat à 12 140 000 $.
+[24] Le billet d’acquisition mentionné dans l’accord est ainsi rédigé :
+[traduction]
+BILLET D’ACQUISITION
+Le 31 décembre 1995
+Toronto, Ontario
+DATE D’ÉCHÉANCE : le 1er décembre 2005
+CONTRE VALEUR REÇUE, la soussignée (la « souscriptrice ») reconnaît son endettement envers Trafalgar Capital Ltd., (la « détentrice ») et s’engage à verser, aux dates précisées ci‑dessous à cette dernière située au 225, rue Richmond Ouest, bureau 400, Toronto (Ontario) M5V 1W2 (ou à toute autre adresse que la détentrice pourra, de temps à autre, désigner par voie de lettre à l’intention de la souscriptrice), le principal de 8 619 400 $ (le « principal ») avec intérêts y afférents, tel que cela est établi dans le présent billet d’acquisition, en monnaie ayant cours légal au Canada.
+Le 1er décembre 2005, le principal, avec tout intérêt y afférent couru et impayé seront exigibles et payables en entier à la détentrice par la souscriptrice. Nonobstant ce qui précède, si la souscriptrice est financée conformément à l’offre effectuée en vertu de la notice d’offre (la « notice d’offre ») de la détentrice datée du 10 janvier 1995 et de toutes modifications à cette dernière, les modalités de paiement du présent billet devront être modifiées afin de refléter les modalités du financement établies en vertu de l’offre.
+Le principal de temps à autre non versé portera intérêt à compter de la date susmentionnée et après celle‑ci au taux annuel de neuf pour cent (9 p. 100), composé annuellement avant et après une demande, un manquement, une échéance et une décision avec un intérêt sur le principal en souffrance ainsi que des intérêts au même taux jusqu’à la date du règlement intégral. La souscriptrice s’engage à payer les intérêts courus et impayés sur le montant du principal de temps à autre non versé, composés annuellement en fonction des arriérés, le 30 janvier de chaque mois ou avant cette date, et ce, à partir de la date du présent billet d’acquisition.
+Dans le cas où la souscriptrice fait défaut de paiement de toute somme exigible en vertu de la présente et omettrait de corriger ce défaut dans les 30 jours de la réception d’un avis écrit provenant de la détentrice, le principal non versé avec l’intérêt couru mais non payé peut, à la discrétion de la détentrice, être accumulé et être exigible et payable immédiatement avec intérêt y afférent à partir d’une telle date au taux précisé dans les présentes.
+Tant que la souscriptrice n’est pas en défaut de paiement exigible en vertu de la présente, elle aura le droit, sans avis et sans prime ou pénalité, de payer par anticipation, à tout moment et de temps à autre, la totalité ou une partie du principal non versé à ce moment et tout intérêt y afférent, pourvu que le droit de la souscriptrice de faire de tels paiements par anticipation soit subordonné au paiement par la souscriptrice à la détentrice de tout intérêt couru et exigible à l’égard du principal à la date d’un tel paiement par anticipation.
+Les dispositions du présent billet à ordre s’appliqueront au profit et à la charge de la détentrice (qui ne peut pas transférer, céder, promettre ou autrement grever le présent billet à ordre sans le consentement explicite et écrit de la souscriptrice, lequel peut être refusé sans motif valable) et seront obligatoires pour la souscriptrice et ses successeurs et ayants droit. La détentrice renonce par les présentes à la présentation pour paiement, au protêt, à l’avis du protêt, à l’avis de refus du présent billet à ordre ou à toute demande et accepte expressément que le présent billet à ordre et tout paiement exigible en vertu des présentes peuvent, de temps à autre, être prolongés par la détentrice sans modifier la responsabilité de la souscriptrice.
+Le présent billet à ordre est émis par la souscriptrice et accepté par la détentrice à titre de paiement partiel de la contrepartie exigible en vertu du contrat de droits d'utilisation de logiciel daté du 30 janvier 1995 entre la souscriptrice, la détentrice et Trafalgar Research (Bermudes) Ltd., et le présent billet à ordre est assujetti aux modalités de cet accord.
+Le présent billet à ordre sera régi et interprété conformément aux lois de la province d’Ontario et aux lois du Canada applicables aux présentes.
+Signé à Toronto, Ontario, ce 31e jour de décembre 1995.
+TRAFALGAR II LIMITED
+PARTNERHSIP, par son commandité, TSLP MANAGEMENT INC.
+Par :
+__________(signé)_____________
+Greg Coleman – président
+[25] Par un document daté du 31 décembre 1995 intitulé [traduction] « Cession de billets à ordre », Trafalgar II a cédé à Trafalgar Capital les billets à ordre obtenus par les commanditaires. À mon avis, ce document est un lien important dans la série d’opérations dont il est question en l’espèce et, par conséquent, est reproduit en entier ci‑dessous.
+[traduction]
+CESSION DE BILLETS À ORDRE
+LE PRÉSENT ACCORD a été conclu le 31e jour de décembre 1995.
+ENTRE :
+TRAFALGAR II LIMITED PARTNERSHIP, une société en commandite créée conformément aux lois de la province d’Ontario (ci‑après la « société de personnes »)
+D’UNE PART
+–ET–
+TRAFALGAR CAPITAL LTD., une compagnie créée en vertu des lois des Bermudes (ci‑après la « fournisseuse »)
+D’AUTRE PART
+–ET–
+CHAQUE PARTIE qui a été ou qui peut être, de temps à autre, acceptée à titre de commanditaire de la société de personnes, ou qui est un successeur à une telle partie (ci‑après « commanditaire » individuellement et « commanditaires » collectivement).
+D’AUTRE PART
+ATTENDU QUE la société de personnes a acquis de la fournisseuse une participation indivise dans MarketVision, une suite logicielle de programmes (les « programmes informatiques »), en vertu des modalités de l’accord relatif à l’acquisition du logiciel et au capital de roulement donné en gage (« accord d’acquisition de logiciel ») daté du 24 février 1995 et modifié par l’accord du 31 décembre 1995;
+ET ATTENDU QU’en vertu des modalités de l’accord d’acquisition de logiciel, la société de personnes a signé et donné un billet d’acquisition (le « billet d’acquisition ») à la fournisseuse pour le montant principal de 9 300 000 $;
+ET ATTENDU QUE la société de personnes a accepté des souscriptions des commanditaires pour 12 140 unités de la société en commandite dans la société de personnes, et, en contrepartie partielle du prix de souscription des telles unités, chacun des commanditaires a signé et donné un billet à ordre à la société de personnes pour le montant principal de 900 $ par unité (les « billets à ordre » collectivement);
+ET ATTENDU QU’en vue d’acquitter la totalité du prix d’achat des programmes informatiques, la société de personnes souhaite céder à la fournisseuse tous les droits, titres et intérêts de la société de personnes à l’égard des billets à ordre;
+EN CONSÉQUENCE, en contrepartie du paiement de la somme de un dollar (1 $) et d’autres contreparties valables, dont la réception est reconnue par la présente, et des clauses liminaires et des engagements réciproques précisés dans les présentes, les parties conviennent de ce qui suit :
+1. La société de personnes cède et transfère, par les présentes, à la fournisseuse, tous les droits, titres et intérêts de la société de personnes dans et sur les billets à ordre.
+2. Chacun des commanditaires paiera, à la fournisseuse, située au 225, rue Richmond Ouest, bureau 400, Toronto (Ontario) M5V 1W2 (ou à toute autre adresse que la détentrice pourra, de temps à autre, désigner) tous montants, notamment tout le principal et les intérêts payables par chacun des commanditaires à la société de personnes en vertu des modalités du billet à ordre.
+3. En contrepartie de la cession des billets à ordre obtenus de la société de personnes par la fournisseuse, cette dernière libère et décharge la société de personnes de la responsabilité découlant du billet d’acquisition.
+4. Chacun des commanditaires ordonne irrévocablement, par les présentes, à la société de personnes de verser à la venderesse un montant égal à la totalité à même la fraction revenant à chaque commanditaire de la somme distribuable (tel que cela est défini dans le contrat de société de la société de personnes), tous les trois mois, jusqu’à ce que tous les intérêts exigibles en vertu du billet à ordre des commanditaires soient remboursés en entier, et, par la suite, de payer, à la fournisseuse, 45 p. 100 à même cette somme distribuable, encore une fois, chaque trois mois, jusqu’à ce que tout le principal exigible, en vertu d’un tel billet à ordre, soit remboursé en entier.
+5. La fournisseuse ne peut pas en outre céder, transférer, mettre en gage, hypothéquer, accorder une garantie ou autrement grever les billets à ordre sans le consentement explicite écrit de la société de personnes et de chacun des commanditaires, lequel peut être refusé sans motif valable.
+6. Dans le cas où un commanditaire vend, transfert ou cède ses unités dans la société de personnes, ce dernier aura également droit de céder ou de transférer son billet à ordre, en fonction des conditions suivantes :
+a) un tel transfert est effectué conformément aux modalités du contrat de société;
+b) le cessionnaire assume toutes les obligations découlant du billet à ordre.
+7. Rien, dans les présentes ne sera interprété comme rendant l’un ou l’autre des commanditaires responsable envers la fournisseuse pour tout montant supérieur à ce qui est exigible en vertu des billets à ordre des commanditaires ou comme libérant ou limitant la responsabilité de la société de personnes de toute autre responsabilité qu’elle a envers la fournisseuse, découlant de l’accord d’acquisition de logiciel.
+8. Le présent accord s’appliquera au profit et à la charge des parties aux présentes ainsi que de leurs héritiers, exécuteurs testamentaires, administrateurs et tout autre représentant légal, successeurs et ayants droit.
+9. Le présent accord sera régi et interprété conformément aux lois de la province d’Ontario et aux lois du Canada applicables, et les parties aux présentes reconnaissent la compétence des tribunaux de la province d’Ontario.
+10. Le présent accord peut être signé en deux contreparts ou plus ayant le même effet que si les parties avaient signé le même document. Le présent accord peut être adopté sous la forme de bulletins de souscription, de formule de transfert et de cession ou toute autre forme d’instrument semblable signé par un commanditaire ou par son avocat, ayant le même effet que si le commanditaire avait signé un contrepart du présent accord. Tous les contreparts et les instruments d’adoption seront interprétés ensemble et constitueront un seul et même accord.
+EN FOI DE QUOI le présent accord a été signé à la date et à l’année indiquées ci‑dessus.
+TRAFALGAR II LIMITED
+PARTNERSHIP, par son commandité
+TSLP MANAGEMENT INC.
+Par :
+___________(signé)________________
+Greg Coleman – président
+TRAFALGAR CAPITAL LTD.
+Par :
+___________(signé)________________
+Edward Furtak – président
+COMMANDITAIRES, par leur représentant et leur avocat
+TSLP MANAGEMENT INC.
+Par :
+___________(signé)_______________
+Greg Coleman – président
+[26] Je reviendrai à ce document plus loin, mais à ce stade, il existe plusieurs observations qui doivent être indiquées.
+a) L’un des attendus indique un montant principal de 9 300 000 $ en vertu du billet d’acquisition. Le billet d’acquisition indique le chiffre de 8 619 400 $.
+b) Un autre attendu indique que les commanditaires donnent les billets à ordre à la société de personnes pour 900 $ par unité. Le montant principal indiqué dans les billets à ordre était de 870 $.
+c) Dans les billets à ordre, les commanditaires donnent leur consentement à l’égard de la cession des billets à ordre à Trafalgar Capital à titre de « garantie » des montants exigibles de la détentrice [Trafalgar II] en vertu d’un billet d’acquisition daté du 30 décembre 1994 pour le montant de 10 000 000 $. Outre le fait que le billet d’acquisition était daté du 31 décembre 1995 et non du 30 décembre 1994 et que le montant de 10 000 000 $ n’est pas exact, il est évident, par les dispositions 1 et 3 du document de la cession des billets à ordre, que la cession est absolue et n’est pas effectuée à titre de garantie. En fait, la disposition 3 de la cession libère et décharge la société de personnes de la responsabilité découlant du billet d’acquisition. J’ai reproduis ci‑dessus un certain nombre d’articles de l’accord d’acquisition de logiciel. Lorsque le principal et les intérêts découlant du billet d’acquisition sont remboursés intégralement, les articles 5.01, 5.03, 7.04, 7.05 et 7.10 et l’alinéa 10.01n) de l’accord d’acquisition de logiciel précisent tous des modifications importantes et fondamentales aux relations commerciales entre Trafalgar Capital et Trafalgar II. C’est pourtant ce que la disposition 3 de la cession des billets à ordre indique avoir arrivé le 31 décembre 1995.
+d) La disposition 6 de la cession des billets à ordre prévoit que, si un commanditaire vend, transfère ou cède ses unités dans Trafalgar II, un tel commanditaire aura le droit de céder ou de transférer son billet à ordre, à condition que le transfert soit effectué en conformité avec les modalités du contrat de société et que le cessionnaire assume toutes les obligations découlant du billet.
+Parler de cession ou de transfert de billet à ordre par un commanditaire (le débiteur du billet) n’est pas vraiment convenable. La disposition 6 permet à un commanditaire de faire assumer son obligation découlant du billet à ordre par une autre personne, et Trafalgar Capital donne son consentement préalablement à ce qui constitue essentiellement une novation. Il me semble évident que la disposition 6 a pour effet de libérer le commanditaire originaire de toutes ses obligations découlant du billet si ce dernier « transfère » le billet à ordre à un tiers. À l’appui du point de vue selon lequel nonobstant « la cession ou le transfert » du billet à ordre à un tiers, le débiteur originaire est tenu responsable de ce dernier, l’avocat de l’appelant a invoqué l’arrêt National Trust Co. c. Mead, [1990] 2 R.C.S. 410, et la décision Paramount Life Insurance Co. v. Torgerson Development Corp., 51 Alta. L.R. (2d) 59. Dans l’arrêt National Trust Co. c. Mead, la Cour suprême du Canada a déclaré ce qui suit à la page 427 :
+Une novation est une convention trilatérale qui opère l'extinction d'un contrat existant et qui y substitue un contrat nouveau. De fait, pour qu'une convention effectue une novation valide, la contrepartie convenable consiste en l'extinction de la dette primitive en échange d'une promesse de s'acquitter d'une obligation quelconque. Il est crucial que le bénéficiaire (le créancier, hypothécaire ou autre) de ces obligations donne son consentement à l'extinction et à la substitution. La raison en est que la novation a pour conséquence que le créancier ne peut plus s'adresser au débiteur originaire si par la suite on ne s'acquitte pas des obligations conformément au contrat substitué.
+Puisque le consentement constitue l'élément essentiel de la novation, il est évident qu'on ne saurait imposer la novation à un créancier qui n'en veut pas et, en l'absence d'une entente expresse, un tribunal doit se montrer hésitant à conclure à la novation, à moins que les circonstances ne le commandent vraiment. Donc, bien que le tribunal puisse tenir compte des circonstances, y compris la conduite des parties, afin de déterminer s'il y a eu novation, il n'est pas facile de s'acquitter du fardeau de prouver la novation. Les tribunaux ont établi un critère comportant trois volets pour déterminer s'il y a eu novation. Ce critère, qui se trouve énoncé dans la décision Polson v. Wulffsohn (1890), 2 B.C.R. 39, est le suivant :
+[TRADUCTION]
+1. Le nouveau débiteur doit assumer totalement la responsabilité;
+2. Le créancier doit accepter le nouveau débiteur comme débiteur principal et non pas simplement en qualité de mandataire ou de garant; et
+3. Le créancier doit accepter le nouveau contrat en pleine satisfaction et substitution de l'ancien contrat.
+Je ne vois pas comment on peut donner effet à la disposition 6 si cela ne signifie pas que le fait qu’un tiers assume les obligations découlant du billet occasionne la libération du commanditaire originaire. Je suis conscient que le fardeau d’établir une novation et la libération du débiteur originaire conséquente en est un qui est lourd. Néanmoins, à mon avis, il est évident que l’intention de la disposition 6 consiste à libérer le débiteur originaire lors d’une cession du billet à ordre.
+D. La notice d’offre
+[27] La notice d’offre résume ce qui est offert aux commanditaires. Elle avertit soigneusement les investisseurs éventuels que les unités sont de nature spéculative, qu’elles n’ont aucun marché, qu’elles ne pourront probablement pas être de nouveau vendues, qu’ils peuvent perdre la totalité de leur investissement et qu’il n’y a aucune garantie que l’entreprise sera exploitée avec succès. Elle avise les investisseurs de considérer le bien‑fondé de l’investissement en plus de l’économie d’impôts de l’exercice anticipée.
+[28] Quelques extraits de la notice d’offre suffiront.
+[traduction]
+Investissement
+Les investisseurs deviendront des commanditaires de Trafalgar II Limited Partnership, une société en commandite de l’Ontario. La société de personnes a acquis jusqu’à 18,18 p. 100 d’une participation indivise dans MarketVision, une suite logicielle visant à offrir, aux experts financiers, des directives portant sur le moment opportun d’acheter ou de vendre des contrats de devises et des contrats à terme sur instrument financier. Les programmes informatiques seront utilisés par la société de personnes et Trafalgar Capital avec le capital de roulement donné en gage dans le cadre de transactions au cours d’une période de 15 années. (Voir également la « structure de l’offre ».)
+Logiciel
+MarketVision a été conçu pour analyser des données statistiques portant sur les marchés de devises de négociation et les contrats à terme sur instrument financier et pour susciter des décisions commerciales en fonction de cette analyse. Dans des simulations rétrospectives de 1989 à 1994, MarketVision a généré un rendement général annuel de plus de 32 p. 100. Pendant la même période, le rendement général pour des gestionnaires de 97 fonds internationaux était de 30 p. 100. (Voir le « Plan d’affaires de la société de personnes ».) MarketVision est utilisé actuellement en vue de commercialiser plus de 6 millions de dollars de fonds de négociation mis à profit aux Bermudes.
+[...]
+Filiale commune
+La société de personnes et Trafalgar Capital, les propriétaires des programmes informatiques, formeront une filiale commune en vue de participer au commerce des contrats à terme sur instrument financier à l’aide des programmes informatiques.
+Fonds de
+négociation
+En vertu des modalités de l’accord relatif au capital de roulement donné en gage, Trafalgar Research a donné en gage 2 000 000 $ de son propre capital, bloqués pour une période de 15 années, pour être commercialisés à l’aide des programmes informatiques. En utilisant un facteur d’amplification modéré de 4 à 1, les fonds donnés en gage par Trafalgar Research permettront à la société de personnes de gagner un revenu à partir d’un fonds de négociation de 8 000 000 $. Dans le cas où cela serait inférieur à l’offre maximale, le capital donné en gage par Trafalgar Research sera réduit au prorata.
+Revenus provenant de
+transactions
+Trafalgar Capital paiera 20 $US à la société de personnes pour chaque transaction suscitée par les programmes informatiques. Jusqu’à ce que le billet d’acquisition soit remboursé intégralement, Trafalgar Capital a accepté d’acheter au moins 2 850 rapports de transactions par année pour chaque montant de 250 000 $ de capital de roulement donné en gage.
+Revenus gagnés des bénéfices d’exploitation
+Jusqu’à ce que le billet d’acquisition soit remboursé intégralement, Trafalgar Capital paiera la société de personnes 80 p. 100 des bénéfices d’exploitation. Par la suite, Trafalgar Capital paiera à la société de personnes 20 p. 100 de ces bénéfices d’exploitation. Trafalgar Research a déclaré et garanti que les programmes informatiques produiront des bénéfices généraux d’exploitation d’au moins 19 p. 100 par année au cours des dix premières années d’investissement.
+Revenus produits par le capital d’un tiers
+La société de personnes et Trafalgar Capital solliciteront également, de façon active, le capital d’un tiers en vue de le commercialiser à l’aide des programmes informatiques. Jusqu’à ce que le billet d’acquisition soit remboursé intégralement, Trafalgar Capital paiera à la société de personnes sa part proportionnelle de 80 p. 100 des profits du tiers. Une fois que le billet d’acquisition sera remboursé intégralement, Trafalgar paiera à la société de personnes sa part proportionnelle de 20 p. 100 des profits du tiers. Jusqu’à présent, la société de personnes et Trafalgar Capital ont obtenu plus de 2 000 000 $ en capital d’un tiers.
+Analyse du flux d’encaisse par unité de 1 000 $
+1995
+1996
+Total
+SOMME PAR unité
+Clôture
+130 $
+0 $
+130 $
+Paiements postdatés
+0 $
+160 $
+160 $
+Intérêt sur les paiements postdatés
+0 $
+6 $
+6 $
+TOTAL
+130 $
+166 $
+296 $
+DÉDUCTIONS FISCALES
+Déduction pour amortissement
+500 $
+500 $
+1 000 $
+Intérêt sur le billet à ordre
+0 $
+6 $
+6 $
+TOTAL
+500 $
+506 $
+1 006 $
+ÉCONOMIES D’IMPÔTS
+266 $
+269 $
+535 $
+MOINS SOMME INVESTIE
+130 $
+166 $
+296 $
+EXCÉDENT DE TRÉSORERIE
+136 $
+103 $
+239 $
+Notes :
+1) Suppose un taux marginal d’imposition de l’Ontario de 53,19 p. 100 pour 1995 et 1996.
+2) Suppose que l’année d’imposition se termine le 31 décembre.
+3) Ne suppose aucun revenu pour la période indiquée.
+4) Suppose que l’intérêt sur le billet à ordre pour 1995 est payé des revenus de la société de personnes.
+[29] La notice d’offre comporte une partie de plus de cinq pages de [TRADUCTION] « Considérations fiscales canadiennes ». Selon l’avis de Fraser & Beatty, un grand cabinet d’avocats très reconnu, également produit en preuve, cette partie représente un [TRADUCTION] « résumé équitable et correct des conséquences fiscales découlant des lois du Canada relativement à l’acquisition, au placement et à la disposition d’unités » de la société de personnes. Je ne reproduirai pas cette partie. Elle est une présentation réservée et prudente habituelle des dispositions pertinentes de la Loi de l’impôt sur le revenu avec la clause de non‑responsabilité habituelle. Elle comprend une longue analyse des dispositions concernant la fraction à risques. Je reproduirai uniquement un ou deux extraits.
+[traduction]
+Il existe également la question de savoir si l’existence et la nature du billet d’acquisition ont, d’une façon ou d’une autre, une incidence sur les dispositions concernant la « fraction à risques ». À notre avis, la juste valeur marchande (et le caractère raisonnable du prix d’acquisition) toucheront plus probablement la déduction de revenu possible de la société de personnes et, à ce titre, le billet d’acquisition ne devrait pas être visé par la question portant sur la « fraction à risques ». En fait, on traite de la présente question sous la rubrique ci‑dessous intitulé « Calcul du revenu ».
+[...]
+La société de personnes a l’intention de demander une déduction pour amortissement à l’égard des programmes informatiques au motif que ces derniers constituent un logiciel autre qu’un logiciel de base (tel que cela est défini dans le Règlement) et, par conséquent, ils constituent un bien de la catégorie 12. Si les programmes informatiques constituent un bien de la catégorie 12 et, sous réserve de la règle de la réduction de 50 p. 100 pour la première année, la société de personnes aura droit à une déduction pour amortissement totale (au taux de 100 p. 100). À notre avis, les programmes informatiques répondent à un bien de la catégorie 12 aux fins du Règlement établi conformément à la Loi. Dans la mesure où le coût d’achat des programmes informatiques est raisonnable, la déduction pour amortissement est déductible par la société de personnes pendant deux années, tel que cela est décrit ci‑dessus.
+Les investisseurs devraient considérer le caractère raisonnable du coût d’achat des programmes informatiques (Voir « L’évaluation ».)
+[30] Évidemment, la Cour n’est pas liée par les avis juridiques figurant aux prospectus et aux notices d’offre, mais il est intéressant que les avocats ont identifié ce qui représente, à mon avis, l’une des principales questions du présent appel, à savoir le caractère raisonnable.
+[31] En plus de la notice d’offre, les investisseurs éventuels ont obtenu un dépliant portant sur Trafalgar II intitulé [traduction] « Comprendre le présent investissement ». Il est une description un peu moins officielle de l’investissement que celle qui est comprise dans la notice d’offre. On trouve ce qui suit dans le résumé.
+[traduction]
+[...]
+L’entreprise
+La société de personnes a acquis une participation indivise de 18,18 p. 100 dans Market Vision de Trafalgar Capital Ltd., une compagnie établie aux Bermudes et qui appartient indirectement à M. Furtak. La société de personnes a payé sa participation dans Market Vision en argent comptant et au moyen d’un billet d’acquisition.
+La société de personnes et Trafalgar Capital ont formé une filiale commune en vue d’utiliser Market Vision pour faire le commerce de contrats à terme sur instrument financier. Le capital (2 000 000 $) nécessaire pour faire le commerce sera fourni par Trafalgar Research (Bermudes) Ltd., la société en exploitation de M. Furtak. Trafalgar Research a accepté de bloquer le présent capital pour un minimum de 15 années.
+La société et Trafalgar Capital commercialiseront également, de façon active, l’usage de Market Vision à d’autres gestionnaires de fonds mondiaux, qui contrôlent collectivement environ 40 milliards de dollars d’actifs et dont un grand nombre exploite des sociétés commerciales et des fonds d’investissement aux Bermudes.
+Facteurs économiques de l’investissement
+On paye à la société de personnes des frais de rapport de transactions chaque fois que Market Vision produit une recommandation de transaction liée au fonds de négociation bloqué. Trafalgar Capital a garanti que ces frais de rapport de transactions seront suffisants pour payer tout l’intérêt sur le billet d’acquisition.
+Jusqu’à ce que le billet d’acquisition soit remboursé intégralement, Trafalgar Capital paiera aussi la société de personnes 80 p. 100 des bénéfices d’exploitation produits par Market Vision et le fonds de négociation. Par la suite, la société de personnes recevra 20 p. 100 des bénéfices d’exploitation. La société de personnes aura également droit à une partie des profits provenant de tout capital d’un tiers commercialisé en utilisant Market Vision.
+Revenus prévus
+Dans des simulations rétrospectives rigoureuses, Market Vision a produit des profits annuels d’environ 34 p. 100, taux qui est légèrement supérieur à la moyenne de cinq années des 97 fonds internationaux (Source : Managed Account Reports). Même si le rendement annuel produit par Market Vision est sensiblement inférieur à celui figurant dans les simulations, la société de personnes remboursera quand même le billet d’acquisition et produira un revenu suffisant pour les commanditaires :
+Profit annuel produit par MarketVision
+Nombre d’années avant que le billet d’acquisition ne soit remboursé intégralement
+Par la suite, revenus annuels avant impôt par unité de 1 000 $
+15 %
+14
+336 $
+20 %
+9
+375 $
+25 %
+7
+414 $
+30 %
+6
+456 $
+35 %
+5
+490 $
+[...]
+Revenus provenant de
+transactions
+Trafalgar Capital paiera 20 $US à la société de personnes pour chaque transaction suscitée par les programmes informatiques. Trafalgar Capital a déclaré et garanti que, jusqu’à ce que le billet d’acquisition soit remboursé intégralement, Trafalgar achètera au moins 2 850 rapports de transactions par année pour chaque montant de 250 000 $ de capital de roulement. Les revenus produits par la vente d’un rapport de transactions à Trafalgar Capital seront suffisants pour payer tout l’intérêt sur le billet d’acquisition.
+Revenus gagnés
+des bénéfices
+Jusqu’à ce que le billet d’acquisition soit remboursé intégralement, Trafalgar Capital paiera la société de personnes 80 p. 100 des bénéfices d’exploitation nets. Par la suite, Trafalgar Capital paiera à la société de personnes 20 p. 100 de ces bénéfices d’exploitation. Trafalgar Research a déclaré et garanti que le logiciel produira des bénéfices généraux d’exploitation d’au moins 19 p. 100 par année au cours des dix premières années d’investissement.
+Revenus produits par le capital d’un tiers
+La société de personnes et Trafalgar Capital solliciteront également, de façon active, le capital d’un tiers en vue de le commercialiser à l’aide des programmes informatiques. Jusqu’à ce que le billet d’acquisition soit remboursé intégralement, Trafalgar Capital paiera à la société de personnes sa part proportionnelle de 80 p. 100 des bénéfices d’exploitation du tiers. Une fois que le billet d’acquisition sera remboursé intégralement, Trafalgar paiera à la société de personnes sa part proportionnelle de 20 p. 100 de ces profits.
+Analyse du flux d’encaisse par investissement de 150 000 $
+1995
+1996
+TOTAL
+SOMME par investissement de 150 000 $
+Clôture
+19 500 $
+0 $
+19 500 $
+Paiements postdatés
+0 $
+24 000 $
+24 000 $
+Intérêt sur les paiements postdatés
+0 $
+900 $
+900 $
+TOTAL
+19 500 $
+24 900 $
+44 400 $
+DÉDUCTIONS FISCALES
+Déduction pour amortissement
+75 000 $
+75 000 $
+150 000 $
+Intérêt sur le billet à ordre
+0 $
+900 $
+900 $
+TOTAL
+75 000 $
+75 900 $
+150 900 $
+ÉCONOMIES D’IMPÔTS
+39 892 $
+40 371 $
+80 263 $
+MOINS SOMME INVESTIE
+19 500 $
+24 900 $
+44 400 $
+EXCÉDENT DE TRÉSORERIE
+20 392 $
+15 471 $
+35 863 $
+Taux de rendement en termes d’encaisse
+205 %
+162 %
+181 %
+*** Certaines hypothèses s’appliquent. Pour obtenir des renseignements détaillés, veuillez consulter la notice d’offre de la société.
+Billet à ordre
+Le billet à ordre donné par chacun des investisseurs porte intérêt au taux annuel de 9 p. 100. Tout intérêt sur le billet à ordre est payable au plus tard le 30 janvier de chaque année à l’égard de l’exercice précédent. Le billet à ordre est garanti par l’investissement et peut être remboursé en tout temps avant le 30 novembre 2009 sans avis, ni prime ni pénalité. À la clôture, la société de personnes cèdera les billets à ordre à Trafalgar Capital afin de payer les programmes informatiques. Il est prévu que le principal et l’intérêt sur le billet seront payés à même les revenus produits par l’utilisation des programmes informatiques et du fonds de négociation.
+[32] Un nombre considérable de notes manuscrites et de calculs de M. McCoy figurent dans ce document.
+[33] Avant d’aller plus loin, il est utile que je formule quelques brefs commentaires sur ces documents.
+a) Évidemment, M. McCoy était préoccupé par le côté économique de l’investissement et la garantie de revenu pendant dix ans.
+b) Un élément important du côté économique de l’investissement était l’économie d’impôts prévue pour les deux premières années. Cela est évident par l’analyse de flux d’encaisse reproduite ci‑dessus.
+c) Les prévisions de trésorerie étaient décidément prometteuses. En fait, il est indiqué, dans le document Comprendre le présent investissement, que Trafalgar Capital [traduction] « a déclaré et garanti que le logiciel produira des bénéfices d’exploitation moyens, d’au moins 19 p. 100 au cours des dix premières années d’investissement ». L’accord d’acquisition de logiciel indique à l’alinéa 10n) [traduction] « entre la présente date et le 30 novembre 2004, [les programmes informatiques] produiront un rendement annuel moyen d’au moins 18 p. 100 du capital de roulement donné en gage mise à profit ». On peut lire ensuite que, jusqu’à ce que le billet d’acquisition soit remboursé intégralement, Trafalgar achètera au moins 2 850 rapports de transactions par année pour chaque montant de 250 000 $ de capital de roulement. Les revenus produits par la vente des rapports de transactions seront suffisants pour payer tout l’intérêt sur le billet d’acquisition. Le seul problème avec cette déclaration consiste en ce que le billet d’acquisition a été remboursé le 31 décembre 1995 par la cession des billets à ordre des commanditaires.
+d) La déclaration et la garantie que des bénéfices d’exploitation moyens de 19 p. 100 (ou 18 p. 100, selon le document examiné) seront produits signifient que le principal et l’intérêt sur les billets à ordre sont prévus ne pas être payés par les investisseurs eux‑mêmes en raison du recours énoncé à l’article 11.02 de l’accord d’acquisition de logiciel.
+[34] Continuons maintenant à l’exposé des faits : les prévisions optimistes ne se sont pas réalisées et, tant que la société de personnes existe, cela n’est pas très économique.
+[35] Par exemple, des pertes de 460 816,58 $ sont déclarées dans les états financiers pour le trimestre se terminant le 30 septembre 1996, et le solde du capital de roulement donné en gage est réduit de 1 883 463,74 $ à 1 612 262,54 $. Le 14 février 1997, l’appelant a obtenu, des commanditaires, un état financier trimestriel indiquant un revenu net de 154,69 $ pour 1996, dont 73,65 $ a été appliqué au principal exigible en vertu du billet.
+[36] L’état financier de 1997 indique une perte de 3 499 387 $, mais le T5013 pour les particuliers (État des revenus d'une société de personnes) indique que le revenu de l’appelant était de 6 762,11 $.
+[37] Pour la période se terminant le 31 mars 1998, le résumé des résultats de la commercialisation indique une perte de 53 567 $ pour le trimestre se terminant le 31 mars 1998 et, depuis le début des activités, une perte de 802 846 $.
+[38] Je n’examinerai pas les états financiers en détail. Ce qui est évident consiste en ce que, chaque année, le capital de roulement donné en gage est diminué. Il y a eu une perte de 1 596 074 $ pour 1998 et un profit de 419 468 $ pour 1999.
+[39] Au cours des années, les revenus de la société de personnes sont attribuables essentiellement aux frais des rapports de transactions qui semblent avoir été payés à même le capital de roulement donné en gage. Ce fait explique l’érosion du capital de roulement donné en gage.
+[40] Le 27 mai 1998, au cours d’une réunion des commanditaires de la société de personnes Trafalgar, des transparents diascopiques ont été utilisés pour décrire les difficultés auxquelles faisaient face les sociétés de personnes et les raisons. Trois de ces transparents sont suffisants pour décrire leur situation financière.
+[traduction]
+Situation actuelle
+Perte d’exploitation cumulatives – (952 626) $
+• DAX
+(513 836) $
+• FTSE
+(169 821) $
+• S&P
+(146 710) $
+• Devises
+(54 326) $
+• Taux d’intérêt
+(67 933) $
+Total
+(952 626) $
+Comment est‑on arrivé ici?
+• Des modifications importantes à l’égard du chevauchement entre les marchés européens et nord‑américains.
+• La volatilité a augmenté considérablement
+• Des pertes cumulatives tant de DAX que de FTSE se sont produites d’une façon telle que les programmes de gestion du portefeuille d’actions ont supprimé tous les programmes européens de la commercialisation.
+Pourquoi les soldes du capital de roulement donné en gage sont‑ils si bas?
+• Les frais d’intérêt, les frais de rapports et les frais de gestion ont épuisé le capital de roulement donné en gage.
+• Trafalgar a volontairement versé de nouveau ces montants jusqu’à ce que la commercialisation soit rétablie (indiqué sous la rubrique « Autres montants » dans les rapports aux investisseurs)
+[41] L’érosion du capital de roulement donné en gage signifiait évidemment qu’il y avait moins de capital à commercialiser. Cela signifiait qu’il existait moins de potentiel de faire des bénéfices d’exploitation ou, à l’inverse, moins de possibilités de perdre des sommes.
+[42] La preuve, toutefois, ne me permet pas d’imputer le rendement faible des activités du marché, soit à un défaut dans les programmes, soit à une incompétence ou à une mauvaise gestion de la part de Trafalgar Capital. Le milieu et la fin des années 90 étaient des jours instables marqués par des pertes et des profits importants, des marchés des valeurs mobilières instables et un optimisme excessif, des attentes grandioses provenant de fusions et d’acquisitions importantes et de grandes fortunes produites et perdues.
+E. La juste valeur marchande de MarketVision
+[43] J’aborderai maintenant la tâche plutôt difficile de traiter de la question de la valeur du logiciel. Cette question a accaparé un certain nombre de jours de l’audience. Selon l’intimée, la valeur de 55 000 000 $ selon laquelle le prix a été déterminé, est excessive.
+[44] Le rapport d’évaluation de EMC Partners a conclu que les programmes informatiques avaient une juste valeur marchande entre 55 000 000 $ et 59 980 000 $. Ce rapport n’a pas été déposé en preuve comme rapport de témoin expert. Celui qui l’a rédigé, Michael Ozerkevich, a été appelé comme témoin, mais non à titre d’expert. Son témoignage était bref. Il a souscrit à l’énoncé selon lequel il n’était pas un évaluateur agréé mais qu’il avait effectué plus de 275 évaluations de logiciel, dont un tiers ou la moitié était lié aux logiciels d’abris fiscaux. Son contre‑interrogatoire effectué par l’avocate de l’intimée était superficiel. J’ai accepté que l’évaluation soit déposée à titre de pièce, non à titre d’élément de preuve attestant la valeur du logiciel, mais à titre de document auquel la fournisseuse et l’acheteuse avaient accès et qui formait une partie de la documentation sur laquelle le prix a été fondé.
+[45] Je n’estime pas que ce document prouve la valeur du logiciel.
+[46] M. Richard Wise a été appelé par l’appelant et il a déposé une révision de l’évaluation, à titre d’opinion d’expert qui consistait essentiellement en des commentaires portant sur le rapport d’EMC. Selon sa conclusion, l’évaluation effectuée par EMC était convenable et raisonnable. Il a déclaré ce qui suit :
+[traduction]
+À notre avis, fondé sur notre examen et sur notre analyse décrits dans les présentes :
+• le travail examiné dans le cadre des exigences applicables à ce travail, notamment l’élaboration d’une opinion par EMC quant à la juste valeur marchande des programmes informatiques, était, en général, complète;
+• les données utilisées semblent être exactes et pertinentes;
+• l’approche d’évaluation adoptée et la méthode appliquée en vertu de l’approche d’évaluation adoptée sont convenables;
+• les analyses, opinions et conclusions dans le rapport d’EMC sont convenables et raisonnables.
+[47] M. Wise représente l’un des évaluateurs d’entreprise les plus expérimentés, hautement qualifiés et respectés du Canada. Néanmoins, je ne crois pas que son témoignage portant sur la méthodologie employée par EMC Partners est suffisant pour donner une force probante ou encore la valeur probante au rapport d’EMC pour établir, devant la Cour, les conclusions exprimées dans le rapport. Un expert ne peut pas présenter le rapport d’un autre expert et en faire un élément de preuve : Hallatt et al. c. La Reine, C.C.I., nos 97‑3094(IT)G, 97‑3095(IT)G, 28 décembre 2000 (2001 DTC 128). Peu importe si le bien évalué est un bien réel, ou représente des actions dans une société, une participation dans une société ou, comme en l’espèce, un logiciel, l’établissement d’une opinion d’expert sur une valeur exige un certain nombre de procédures. La signification de la juste valeur marchande est trop bien connue pour nécessiter une répétition mais, pour qu’une opinion d’expert ait du poids, il ou elle doit établir les faits sur lesquels l’opinion peut être fondée, la détermination des prémisses et des hypothèses ainsi qu’exprimer les conclusions tirées du choix des faits et des prémisses ou des hypothèses.
+[48] Chacune de ces étapes exige que l’expert mette à profit son expérience et son opinion, et que chacun de ces éléments utilisés pour arriver à la conclusion soient vérifiés au moyen d’un contre‑interrogatoire.
+[49] Il se pourrait bien, comme M. Wise le dit, que la méthodologie utilisée par EMC soit conforme aux normes traditionnellement acceptées, mais si les prémisses, les hypothèses et le choix des faits sous‑jacents ne peuvent pas être vérifiés, on ne peut pas accorder de poids aux conclusions.
+[50] Les experts appelés par l’intimée étaient expérimentés et très qualifiés. J’ai cité ci‑dessus des extraits du rapport de M. Jim Horvath. Les conclusions de M. Horvath étaient les suivantes :
+[traduction]
+Conclusion de l’évaluation
+Fondé sur la portée de mon examen, de ma recherche, de mon analyse et de mon expertise et sous réserve de mes hypothèses et limitations importantes de la portée, je suis d’avis que la juste valeur marchande, au 24 février 1995, d’une participation à 100 p. 100 dans MarketVision se situe entre 35 000 $ et 175 000 $. Si une valeur précise est nécessaire, je propose le point‑mitoyen approximatif de la fourchette précédente, soit 100 000 $.
+Je suis d’avis que la juste valeur marchande, au 24 février 1995, d’une participation à 22,07 % dans MarketVision se situait entre 6 000 $ et 23 000 $, ce qui reflète une participation partielle à escompter se situant entre 20 % et 40 %. Si une valeur précise est nécessaire, je propose le point‑mitoyen approximatif de la fourchette précédente, soit 15 000 $.
+En arrivant à mon opinion sur la valeur, je me suis fondé en partie sur les conclusions liées à MarketVision figurant dans un rapport rédigé par M. Robert Pardo (« M. Pardo »), daté du 28 août 2002 (« Rapport de M. Pardo »). J’ai parlé avec M. Pardo, j’ai examiné ses compétences pertinentes et je suis convaincu qu’il est très compétent en matière de logiciel de transactions à terme et du domaine de transactions à terme.
+Mon opinion sur la valeur est fondée davantage sur les renseignements qui m’ont été donnés et qui sont assujettis aux « Hypothèses importantes » exposées aux présentes. Le rapport qui l’accompagne, notamment les annexes et les appendices, représente une partie intégrale de la présente évaluation et donne un résumé de mes conclusions et de la méthodologie qui m’a amené à mon opinion sur la valeur.
+[51] Je reviendrai au raisonnement de M. Horvath dans un instant, mais compte tenu du fait que le rapport de M. Pardo a appuyé l’opinion de M. Horvath, je l’examinerai brièvement. M. Robert Pardo est un conseiller en matière d'opérations sur marchandises prospère et reconnu. Bien que, en fait, il exprime une opinion sur la juste valeur marchande, on ne lui a pas expressément demandé de déterminer la juste valeur marchande de MarketVision, qu’il appelle MV. Dans la lettre écrite aux avocates de l’intimée, il a indiqué ce qui suit :
+[traduction]
+Précisément, vous m’avez demandé de faire des observations et de vous donner des renseignements et une analyse relativement aux éléments suivants :
+• viabilité de MV;
+• rentabilité de MV;
+• évaluation de la méthodologie utilisée pour élaborer MV, notamment une simulation historique de la méthodologie et des résultats;
+• évaluation de la facilité de négociation de MV.
+[52] La conclusion de son rapport est ainsi rédigée :
+[traduction]
+5.22 Quelles sont les probabilités que la suite MV produise des profits en temps réel?
+La probabilité que tout système commercial produise des profits en temps réel est fonction de sa résistance. Plus résistant sera le modèle commercial, et plus exhaustive et exacte sera la simulation commerciale, alors plus le modèle commercial produira, selon toute probabilités, des profits en temps réel.
+À mon avis, la Suite MV de programmes de transactions est déficiente en ce qui concerne presque toutes les mesures de résistance.
+Puisque la Suite MV des modèles commerciaux ne fait pas preuve d’une grande résistance ou que la simulation historique n’est pas si exhaustive ou suffisante, je suis d’avis qu’il est peu probable qu’elle produise des profits en temps réel pendant une longue période – sinon jamais.
+Puisque la Suite MV des modèles commerciaux manque de documentation nécessaire pour maintenir, améliorer et mettre à jour les modèles commerciaux, je la considérerais ne pas être réalisable comme fondement d’une plate‑forme de transactions professionnelle.
+5.23 Le plan d’affaires de la Suite MV est‑il viable?
+La Suite MV ne constitue pas une plate‑forme de transactions résistante convenable pour la bonne gestion professionnelle de fonds pour un conseiller en matière d’opérations sur marchandises.
+• Il est très peu probable qu’elle produira des bénéfices d’exploitation durables, et si elle réussit à le faire, les profits seraient à un taux sensiblement inférieur à celui documenté pour la Suite MV;
+• puisque la recherche et l’élaboration préalables à la création de la Suite MV ont été mal effectuées, les modèles commerciaux de la Suite MV manifestent de nombreuses caractéristiques de systèmes commerciaux non résistantes, donc, il est peu probable qu’ils produiront des profits en temps réel;
+• en raison des coûts de transaction supplémentaires, liés à chacune des transactions effectuées par la Suite MV, le coût des signaux, le capital de roulement qui existe sera fort probablement réduit pendant une période relativement courte;
+• en raison de l’absence d’inscriptions américaines, le fonds commun d’immobilisations américain est fermé à la Suite MV;
+• les renseignements présentés relativement au rendement de la Suite MV et aux titres de compétences de son réalisateur sont insuffisants et, donc, très peu susceptibles d’attirer l’intérêt d’investisseurs éventuels;
+• les renseignements tels qu’ils sont documentés ne susciteront certainement pas d’intérêt chez les investisseurs importants et institutionnels;
+• en raison du manque de crédibilité de la Suite MV et de son réalisateur, il est très peu probable que le plan d’affaires de la Suite MV attire un capital de roulement étranger important.
+Par conséquent, je conclurais que le plan d’affaires de la Suite MV n’est pas viable.
+6. Conclusion
+La crédibilité de la Suite MV et de son réalisateur qui est inférieure aux normes empêcherait l’accès à un public composé de conseillers en matière d’opérations sur marchandises, d’investisseurs institutionnels, d’investisseurs importants ou de tout type d’expert financier professionnel prospère.
+À la date de l’évaluation, avant même de considérer MV, des investisseurs cherchant à investir dans des contrats d’opération à terme considéreraient les nombreux conseillers en matière d’opérations sur marchandises et des gestionnaires de fonds rentables, et qui sont bien connus et qui ont des références à jour.
+Si l’on me demandait, à titre de conseiller en matière d’opérations sur marchandises ou de réalisateur et de distributeur de systèmes commerciaux, si j’étais intéressé à acquérir ou à travailler avec la Suite MV de systèmes commerciaux, je refuserais.
+À la date de l’évaluation il existait un grand nombre de solutions de rechange pratiques sous formes de systèmes commerciaux de bonne qualité et offerts sur le marché, qui proviennent de fournisseurs de bonne réputation et dignes de foi, qui ont des rendements antérieurs établis et qui sont offerts sur la base d’un permis allant de 1 000 $ à 3 000 $. Il existait également de nombreux services consultatifs en matière de commerce qui sont autant de bonne réputation, dignes de foi et rentables allant de 722 $ à 12 000 $ par année. Pour de plus amples renseignements, veuillez consulter l’Annexe D – La Commercialisation d’un système commercial.
+Si on me demandait de recommander MV à mes collègues, à des investisseurs éventuels ou à des acheteurs de systèmes commerciaux, je refuserais de le faire en raison de son manque de documentation, de résistance et de crédibilité.
+En résumé, la Suite MV de systèmes commerciaux est loin de répondre même aux normes minimales par lesquelles la plupart des négociants professionnels, conseillers en matière d’opérations sur marchandises, experts financiers, ou commerçants de systèmes commerciaux l’évalueraient.
+À titre de personne qui a vendu un certain nombre de systèmes commerciaux à des investisseurs individuels pour des prix entre 1 000 $ et 25 000 $, il me serait difficile de vendre la Suite MV en totalité à n’importe qui pour la somme de 500 $. Cependant, compte tenu du fait quant à mes connaissances de la Suite MV, il me serait interdit, tant moralement que professionnellement de le vendre à qui que ce soit.
+Fondé sur mon expérience d’achèvement de projets de consultation à grande échelle à l’intention de certaines des plus grandes entreprises commerciales professionnelles au monde, je suis d’avis qu’aucun investisseur institutionnel n’accorderait plus d’une minute d’intérêt – et encore – à quelque chose qui est documenté si faiblement et étudié si négligemment que la Suite MV.
+À titre de réalisateur de système commercial et de conseiller en matière d’opérations sur marchandises rentable qui a établi un rapport avec une des sociétés de conseillers en matière d’opérations sur marchandises les plus grandes et de longue date au monde – Dunn Capital Management – il est peu probable qu’un conseiller en matière d’opérations sur marchandises porterait attention au déploiement de la Suite MV afin de la commercialiser à son avantage ou à l’avantage de ses clients.
+Vous avez demandé mon opinion professionnelle à titre de conseiller en matière d’opérations sur marchandises, de réalisateur professionnel de système commercial et d’expert dans la conception, la vérification et l’optimisation des systèmes commerciaux et m’avez demandé d’évaluer la valeur de la Suite MV. Selon mon opinion très motivée tel qu’elle est détaillée dans le présent document, je conclus que, en février 1995, la Suite MV n’a aucune valeur marchande.
+[53] Il existe un élément étrangement surréel dans une affaire, lorsqu’une partie fonde son achat sur une valeur de 55 000 000 $ et l’autre partie soutient que le bien n’a aucune valeur. Pour ajouter à cette confusion, la même partie qui soutient que le bien n’a aucune valeur, présente une preuve d’expert selon laquelle une participation totale (à 100 p. 100) dans le logiciel avait une valeur qui se situait entre 35 000 $ et 175 000 $ et une participation à 22,07 p. 100 qui se situait entre 6 000 $, et 23 000 $, si l’on applique une participation partielle à escompter figurant entre 20 p. 100 et 40 p. 100. Cependant, dans la réponse, la même partie (l’intimée) a fait valoir que la juste valeur marchande de MarketVision (vraisemblablement 100 p. 100) était d’environ 525 000 $. On n’a aucune idée d’où provient ce chiffre. L’intimée n’a pas cherché à l’appuyer.
+[54] M. Horvath a critiqué, sur plusieurs fondements, l’évaluation effectuée par M. Ozerkevich sur laquelle le prix d’achat de 55 000 000 $ est fondé.
+a) La simulation historique sur laquelle l’évaluation était fondée était fautive en ce que la période d’essai type n’était pas suffisamment longue et, par conséquent, cela a mené à des conclusions peu réalistes et à des attentes trop optimistes. La période actuellement utilisée était de 69 mois, sauf pour les contrats d’opération à terme DAX 30 qui ont été évalués sur une période de 2,75 années.
+b) Elle comportait un « ajustement de courbe » et une optimisation exagérée. Essentiellement, ces deux principes signifient à peu près la même chose : l’ajustement de données historiques afin d’atteindre le résultat le plus favorable. Ce danger est particulièrement inhérent à l’utilisation des données historiques dans l’évaluation.
+c) « Évaluation en temps réel » (c.‑à‑d. l’évaluation n’a pas utilisé des données historiques, mais des données actuelles) absente ou insuffisante.
+d) Aucune évaluation n’a été effectuée hors échantillon – évaluation du logiciel dans des périodes qui n’ont pas été utilisées dans la conception du logiciel.
+e) La simulation historique était fondée sur une hypothèse peu réaliste quant au montant de courtage et de décalage donnant lieu à des profits peu réalistes. Le décalage représente le montant de la fluctuation du marché du moment où la demande est placée jusqu’à ce qu’elle soit réalisée.
+f) Selon M. Horvath, l’effet de levier financier, d’un rapport de 4 à 1 du capital de roulement donné en gage, était excessivement risqué. Ce dernier était, au départ à tout le moins, de 2 000 000 $. Par conséquent, on a fait remarquer aux investisseurs que la société de personnes pourrait tirer un revenu d’un fonds de négociation de 8 000 000 $. J’ai demandé à certains des témoins si l’effet de levier d’un fonds de 2 000 000 $ sur la base d’un rapport de 4 à 1 signifiait un total de 10 000 000 $ ou un total de 8 000 000 $. Personne n’a semblé être particulièrement clair sur ce que cela signifiait au juste. De toute façon, comme cela est indiqué ci‑dessus, le capital de roulement donné en gage a continué de diminuer afin de payer les intérêts et les frais de rapports de transaction.
+[55] M. Hovarth a également exprimé l’opinion que le billet d’acquisition représentait une obligation conditionnelle puisqu’il devait être financé par les bénéfices d’exploitation. Cela constitue une conclusion de droit, dont je n’ai pas à déterminer l’exactitude, puisque le billet d’acquisition a été remboursé intégralement le 31 décembre 1995 par la cession des billets à ordre individuels donnés aux investisseurs de la société de personnes. Il ne fait aucun doute que les obligations découlant du billet d’acquisition ont disparu dès qu’elles ont été établies. La question plus pertinente consiste à savoir si la cession des billets à ordre individuels donnés à la société de personnes par les commanditaires constituait un paiement égal à la valeur nominale des billets. J’aborderai cette question ci‑dessous.
+[56] Les critiques de M. Horvath à l’égard de MarketVision, de la méthodologie utilisée pour sa conception et des procédures utilisées dans le rapport d’EMC, ont sans doute un certain fondement. Je ne crois pas que la preuve appuie la valeur de 55 000 000 $ de MarketVision. Cependant, je ne crois pas non plus que la preuve présentée par l’intimée appuie la valeur nominale ou la valeur néant qui lui a été accordée par M. Horvath et M. Pardo. Si les programmes avaient produit le genre de revenu qui a été prévu de façon optimiste en 1995, il est douteux que quelqu’un ait questionné le prix ou le sens aigu des affaires des personnes qui ont conclu l’accord. Le domaine des affaires est parsemé de cadavres de méga‑transactions qui ont, de façon catastrophique, mal tourné. Je n’ai pas besoin de les nommer. Elles sont abondantes et seront très connues par ceux qui lisent la section des affaires des journaux. Pourtant, les principaux acteurs des milieux d’affaires qui ont réussi ces fusions et ces acquisitions spectaculaires, parfois avec une analyse plus faible que celle qui a été produite pour le lancement de MarketVision, ont été acclamés comme des génies financiers. Lorsque la structure s’effondre environ une année plus tard, les gérants d’estrade n’en reviennent pas et demandent : [traduction] « Comment ont‑ils pu être aussi stupides? Cela était sûrement évident que, dès le début, l’accord comportait des graines du désastre. »
+[57] Le bon sens me dit que, lorsqu’un groupe d’hommes d’affaires et de professionnels ayant des revenus suffisamment élevés qu’ils sont attirés vers des abris fiscaux et sont disposés à investir des montants considérables dans des biens dont ils s’attendent raisonnablement qu’ils produiront un revenu (notamment des montants suffisants pour payer le principal et les intérêts sur leurs billets à ordre) et un avantage fiscal, lequel, selon les fondateurs munis d’une opinion favorable provenant d’un cabinet d’avocats renommé, se réalisera, il est aussi déraisonnable de dire que le bien n’avait aucune valeur, ou presque aucune valeur, que de dire qu’il avait une valeur de 55 000 000 $. La juste valeur marchande est, dans une certaine mesure, en fonction de la perception au moment de savoir si nous parlons des biens réels dans des périodes de boom des dernières années80, des actions en 1929 avant le krach ou des tulipes exotiques pendant la période de la tulipomanie en Hollande au XVIIe siècle. Dans le cadre de cette perception, des attentes irrationnelles ou excessivement optimistes peuvent jouer un rôle. Une analyse froide effectuée cinq ans après l’événement et après que les prédictions optimistes ont été prouvées fautives, peut être scientifiquement défendable, mais elle ne reflète peut‑être pas la situation véritable du marché à l’époque. Pour ce motif, je ne suis pas disposé de considérer les évaluations effectuées par les experts de la Couronne comme déterminantes. À la prépondérance des probabilités, elles semblent appuyer le point de vue selon lequel la valeur de 55 000 000 $ est élevée, un résultat auquel le bon sens aurait amené sans l’aide d’opinions d’experts. Compte tenu des conclusions tirées ci‑dessous, je ne propose pas toutefois d’accorder une figure précise à la valeur de MarketValue. En fait, la preuve ne me permet pas de le faire.
+[58] Compte tenu des conclusions que j’ai tirées et des motifs selon lesquels je propose de statuer sur le présent appel, il n’est pas nécessaire que j’aborde toutes les questions soulevées par l’intimée ou les hypothèses plaidées. Cependant, certaines entre elles doivent être abordées.
+1. Trafalgar II a‑t‑elle acquis la participation dans MarketVision en vue de tirer un revenu?
+[59] Il n’y a aucun doute que c’est ce qu’elle a fait. Les prédictions peuvent avoir été trop optimistes, mais les programmes étaient objectivement conçus en vue de produire un profit et auraient pu le faire.
+[60] Lorsqu’on demande l’objectif d’une société en commandite qui conclut une opération, on doit déterminer quel objectif on doit examiner. Du point de vue juridique, le commandité est responsable de gérer l’entreprise de la société de personnes et il est interdit aux commanditaires de faire obstacle aux activités de la société de personnes ou leur responsabilité ne sera plus limitée. Par conséquent, de manière théorique, en déterminant l’objectif de la société de personnes, la première question doit être posée au commandité, TSLP Management Inc., ou à son président Me Greg Coleman.
+[61] Le témoignage de Me Coleman, selon lequel à titre de président du commandité, il prévoyait et s’attendait à ce que l’entreprise soit rentable, est sans équivoque. Je suis conscient que l’intention et le but ne sont pas identiques. L’intention est subjective. Bien que le but puisse inclure un élément subjectif, il doit être largement déterminé selon des examens objectifs. Si l’on examine la documentation présentée aux investisseurs, il est impossible de conclure qu’un des objectifs de la société de personnes ne consistait pas à tirer un revenu. M. McCoy était le seul commanditaire appelé à témoigner. Si ses buts sont pertinents, cela est évident qu’il envisageait son investissement comme une occasion de gagner de l’argent même si son but le plus important consistait en une déduction fiscale.
+[62] J’ai mentionné le critère de l’ERP au début des présents motifs. Il constitue un aspect de la question portant sur le but de tirer un revenu de l’entreprise ou du bien. Je ne crois pas que le critère de l’ERP peut s’appliquer en vue de justifier le refus à la société de personnes (et, par conséquent, aux commanditaires) de la DPA à l’égard du logiciel. Il s’agit de savoir le montant.
+2. La fournisseuse du logiciel (Trafalgar) et l’acheteuse (la société de personnes Trafalgar II) avaient‑elles un lien de dépendance?
+[63] Cela est pertinent pour les fins de l’article 69 parce que si un contribuable acquiert un bien d’une personne avec qui il a un lien de dépendance pour un montant supérieur à la juste valeur marchande, le contribuable est réputé l’avoir acquis à sa juste valeur marchande.
+[64] En vertu de l’article 251 de la Loi de l’impôt sur le revenu, des personnes liées sont réputées avoir entre elles un lien de dépendance, et il s’agit d’une question de fait quant à savoir si des personnes qui ne sont pas liées ont un lien de dépendance. Dans la version française de la Loi de l’impôt sur le revenu, le principe de « not dealing with a person at arm's length » est exprimé par l’expression « avoir un lien de dépendance ».
+[65] Trafalgar Research et Trafalgar Capital, les fournisseuses, étaient contrôlées par Edward Furtak. Si l’on examine la collectivité des commanditaires ou le commandité, il n’était pas lié à la société de personnes (Voir Chutka c. La Reine, C.A.F., nos A‑267‑98, A‑268‑98, A‑269‑98, A‑270‑98, A‑271‑98, A‑272‑98, A‑273‑98, A‑274‑98, 22 décembre 2000 (2001 DTC 5093). Cette affaire a été examiné dans les décisions Deptuck c. Canada, 2003 CAF 177, et Brown c. Canada, 2003 CAF 192). Par conséquent, il reste à déterminer si les fournisseuses et la société de personnes avaient en fait un lien de dépendance.
+[66] La jurisprudence portant sur le principe de lien de dépendance a été examinée dans la décision RMM Canadian Enterprises Inc. et al. c. La Reine, C.C.I., nos 94‑1732(IT)G, 94‑1753(IT)G, 10 avril 1997 (97 DTC 302), aux pages 310 et 311.
+Le juge Bonner a examiné l'expression « lien de dépendance » dans la décision McNichol (précitée), où, aux pages 117 et 118, il dit ceci :
+On utilise communément trois critères pour déterminer si les parties à une opération ont entre elles un lien de dépendance. Il s'agit des critères suivants :
+a) l'existence d'une même personne qui dirige les négociations de deux parties à une transaction,
+b) les parties à une transaction agissent de concert et n'ont pas d'intérêts distincts, et
+c) le contrôle « de facto » (réel).
+Le critère relatif à l'existence d'une même personne résulte de deux jugements, notamment en premier lieu le jugement que la Cour suprême du Canada a rendu dans l'affaire M.N.R. v. Sheldon's Engineering Ltd. Aux pages 1113‑1114, le juge Locke, qui parlait au nom de la Cour, a dit ceci :
+[traduction]
+Lorsqu'une même personne contrôle des compagnies directement ou indirectement, que cette personne soit un individu ou une compagnie, des compagnies contrôlées sont, aux termes de cet article, censées ne pas traiter entre elles à distance. Les dispositions de cet article mises à part, dans le cas d'une vente d'éléments d'actif amortissables par un contribuable à une entité qu'il contrôle ou par une compagnie contrôlée par le contribuable à une autre compagnie également contrôlée par lui, le contribuable dictant à titre d'actionnaire majoritaire les conditions de la transaction, on ne peut à mon avis prétendre sérieusement que les parties traitaient entre elles à distance et que l'article 20(2) ne s'appliquait pas.
+En second lieu, la décision que le juge Cattanach a rendue dans l'affaire M.N.R. v. T R Merritt Estate est également utile. Aux pages 5165-5166, voici ce que le juge a dit :
+[traduction]
+Selon moi, le principe fondamental sur lequel se fonde la présente analyse est le suivant : lorsque les négociations menées au nom de chacune des deux parties au contrat sont en fait dirigées par le même « cerveau », on ne peut dire que les parties traitent à distance. En d'autres termes, lorsque la preuve révèle que la même personne « dictait » les « conditions de la transaction » au nom de chacune des deux parties, on ne peut dire que les parties traitaient à distance.
+Le critère voulant que les parties agissent de concert montre jusqu'à quel point il est important que la négociation ait lieu entre des parties distinctes, qui cherchent chacune à protéger leurs propres intérêts. Ce critère est énoncé dans la décision que la Cour de l'Échiquier a rendue dans l'affaire Swiss Bank Corporation v. M.N.R. À la page 5241, le juge Thurlow (tel était alors son titre) a dit ceci :
+J'ajouterais que lorsque plusieurs parties, qu'elles soient des personnes physiques, des compagnies ou une combinaison des deux, agissent de concert et dans le même intérêt pour diriger ou dicter la conduite d'une autre, le « cerveau » directeur peut à mon avis être celui de l'ensemble des parties agissant de concert ou celui d'une seule d'entre elles qui remplit un rôle ou des fonctions particulières qu'il faut accomplir pour atteindre l'objectif commun. De plus, à mon sens, il n'y a lieu de faire aucune distinction à ce titre entre des personnes qui agissent à leur propre compte pour en contrôler d'autres et celles qui, quelque nombreuses qu'elles soient, se font représenter par une autre. D'autre part, si l'une des parties à une transaction agit dans un intérêt différent de celui des autres ou le représente, le fait que le but commun soit de diriger les actes d'une autre partie de façon à obtenir un résultat bien précis ne suffira pas en soi à enlever à la transaction son caractère de transaction entre personnes traitant à distance. Selon moi, l'affaire Sheldon's Engineering [précitée] en est un exemple.
+Enfin, il est à noter que l'existence d'une relation sans lien de dépendance est exclue si l'une des parties à l'opération en cause exerce un contrôle de fait sur l'autre. À cet égard, on peut mentionner la décision que la Cour d'appel fédérale a rendue dans l'affaire Robson Leather Company Ltd. v. M.N.R., 77 D.T.C. 5106.
+Pour les fins de la présente discussion, j'aimerais ajouter un autre passage du jugement M.N.R. v. Sheldon's Engineering, Ltd., 55 D.T.C. 1110, dans lequel le juge Locke, en faisant des remarques au sujet de l'expression en question, a dit ceci, à la page 1113 :
+[traduction]
+Il s'agit d'une expression qui est habituellement employée dans les cas où des opérations conclues entre des fiduciaires et des bénéficiaires, des tuteurs et des pupilles, des mandants et des mandataires ou des procureurs et des clients sont remises en question. Les raisons pour lesquelles les opérations conclues entre des personnes qui ont entre elles pareilles relations peuvent être attaquées sont soulignées dans les jugements que le lord chancelier et lord Blackburn ont prononcés dans l'affaire McPherson v. Watts, 1877, 3 A.C. 254. Ces considérations ne s'appliquent pas lorsqu'il s'agit d'examiner le sens à attribuer à l'expression telle qu'elle est employée au paragraphe 20(2).
+Je ne crois pas que, dans tous les cas, du simple fait qu'une relation mandant‑mandataire existe entre des personnes, ces dernières ont nécessairement entre elles un lien de dépendance au sens de la Loi. Je ne crois pas non plus que si l'on retient les services de quelqu'un pour accomplir une tâche particulière et qu'on verse à cette personne une rémunération pour fournir le service, cela veut nécessairement dire qu'une relation dans laquelle il y a un lien de dépendance est créée. Ainsi, le procureur qui représente un client dans une opération peut bien être le mandataire de celui‑ci, mais je ne crois pas que cela veuille nécessairement dire que ces personnes ont entre elles un lien de dépendance.
+Le concept du lien de dépendance a évolué. C'est le jugement Swiss Bank Corporation et al. v. M.N.R., 72 D.T.C. 6470, qui a le plus contribué à cette évolution; il y a été statué que lorsqu'un groupe de personnes, qui par ailleurs n'ont entre elles aucun lien de dépendance, agissent de concert pour diriger les actes d'un tiers, elles ont avec cette dernière un lien de dépendance.
+[67] Les motifs selon lesquels l’intimée soutient que Trafalgar et la société de personnes avaient un lien de dépendance sont énoncés aux paragraphes 9ll) et mm) de la réponse, lesquels sont ainsi rédigés :
+[traduction]
+ll) Trafalgar Research, Trafalgar Capital, TSLP et les quatre autres sociétés de personnes n’avaient pas d’intérêts opposés et lors de la négociation des modalités et de la vente des unités de la société de personnes dans Market Vision, ils ont agi de concert;
+mm) Trafalgar Research, Trafalgar Capital, TSLP et les quatre autres sociétés de personnes avaient un lien de dépendance.
+[68] L’intimée n’a pas répété l’allégation figurant à la partie C de la réponse, mais je crois que ce point est en litige. Il a été abordé par la preuve et par la plaidoirie.
+[69] À mon avis, Trafalgar et la société de personnes n’avaient pas un lien de dépendance. Aucune des parties n’exerçait un contrôle sur l’autre. Il n’existait pas un même cerveau. L’énoncé selon lequel les parties n’avaient pas d’intérêts opposés et qu’ils ont « agi d’un commun accord » est soit inexacte ou ne mène pas à la conclusion que les parties avaient un lien de dépendance. Il est évident qu’on doit examiner l’affaire au niveau de la société de personnes plutôt qu’au niveau des commanditaires. Ce point de vue est confirmé par les décisions Deptuck c. Canada (précitée) et Brown c. Canada (précitée).
+[70] M. Furtak et la société de personnes, agissant par l’entremise du commandité représenté par Me Coleman, avaient chacun leurs propres intérêts – M. Furtak souhaitait tirer un revenu, et la société de personnes souhaitait avoir le logiciel, lequel était anticipé de produire un revenu et comporterait des avantages fiscaux. Selon le témoignage de Me Coleman, lui et M. Furtak ont participé à des négociations approfondies quant au prix. Dans ce contexte, dire que les parties ont agi d’un commun accord n’a aucun sens. Cela signifie tout simplement que les deux parties souhaitaient conclure l’accord. Si cela constitue le type d’acte selon lequel ils ont « agi d’un commun accord » qui donne lieu à l’existence d’un lien de dépendance entre les parties à une opération, alors aucune opération commerciale entre des personnes indépendantes ne serait jamais effectuée sans un lien de dépendance. Même si nous supposons que M. Furtak et Me Coleman étaient indifférents quant à savoir si le prix final était de 40 000 000 $, de 55 000 000 $ ou de 75 000 000 $ – et la preuve n’offre aucun fondement pour une telle présomption – quoi qu’il puisse prouver, il ne prouve pas qu’ils avaient un lien de dépendance.
+[71] Par conséquent, j’ai conclu que, lors de l’achat du logiciel, les fournisseuses et la société de personnes Trafalgar II n’avaient aucun lien de dépendance.
+3. Les dispositions concernant la fraction à risques et les règles concernant le recours limité
+[72] À l’appui de son refus d’une DPA sur 55 000 000 $ par la société de personnes et de la perte subséquente subie par les commanditaires, l’intimée a soulevé les règles concernant le recours limité de l’article 143.2 et les dispositions concernant la fraction à risques des paragraphes 96(2.1) et (2.2). Une analyse utile sur la façon dont ces règles s’appliquent aux abris fiscaux de logiciels figurent dans l’article « Software Investments: Is the Candle Still Worth the Game? » dans la revue Canadian Tax Journal, et rédigé par Timothy S. Wach.
+[73] M. Wach résume les investissements logiciels types de la façon suivante aux pages 2.2 à 2.4 (notes en bas de page omises) :
+[traduction]
+Un aperçu de la structure type
+On peut s’attendre à ce qu’un investissement logiciel type ait la structure suivante :
+1) Une société de personnes est formée en vue d’acquérir et d’exploiter le logiciel en le reproduisant, le commercialisant et en le vendant.
+2) Des investisseurs acquiert une participation dans la société de personnes, habituellement par une combinaison d’espèces et un ou plusieurs billets à ordre. De façon subsidiaire, les investisseurs peuvent contribuer de l’argent et assumer une dette engagée antérieurement ou subséquemment par la société de personnes. Dans l’un ou l’autre des situations, la structure de toute dette « à long terme » des investisseurs sera susceptible d’être assujetti aux règles proposées sur les dettes à recours limité et, par conséquent, aura un recours complet à l’égard de l’investisseur et sera habituellement structuré de façon à avoir une date d’échéance d’environ dix ans et à porter intérêt à un taux d’au moins égal au taux prescrit par la Loi afin de qualifier pour une exemption relativement à ces règles prévues au paragraphe 143.2(7). Ainsi, pour y qualifier, l’investisseur devra en fait payer cet intérêt annuel ou, au plus tard, 60 jours après la fin de chaque année d’imposition.
+3) La société de personnes acquerra le logiciel d’un fournisseur tiers ayant aucun lien de dépendance. Le prix d’acquisition sera payé à même l’argent provenant des investisseurs et par la dette. Tel que cela est indiqué ci‑dessus, la dette peut prendre la forme d’une cession des billets de l’investisseur, le cas échéant, fournis par les investisseurs lors de l’acquisition de leurs participations dans la société de personnes, ou être la dette de la société de personnes qui est par la suite assumée par les investisseurs, si le financement de leurs participations dans la société de personnes était ainsi.
+4) La société de personnes engagera souvent la fournisseuse ou un tiers lié à cette dernière (le « concessionnaire ») à commercialiser, à mettre en circulation et à vendre des copies du logiciel, à effectuer toute amélioration ou mise à jour nécessaire ou utile et à fournir une aide technique relativement au logiciel. Le concessionnaire gagnera des frais en contrepartie de la fourniture de ces services à la société de personnes. Le concessionnaire ou la fournisseuse du logiciel fournira, habituellement, des déclarations dans les ententes d’acquisition et de distribution avec la société de personnes relativement aux questions telles l’état et la qualité du logiciel, les ventes et les activités de soutien à entreprendre et les niveaux attendus de la vente du logiciel.
+5) La société de personnes déduira une DPA au maximum permis, ce qui correspond à un défalcation du coût du logiciel sur une période de deux ans. Cela occasionnera habituellement des pertes aux fins de l’impôt pour la société de personnes et les investisseurs relativement aux deux premiers exercices de la société de personnes.
+6) Lors des exercices suivants, les revenus de la société de personnes seront supérieurs aux déductions et occasionnera un revenu imposable pour les investisseurs et la société de personnes.
+Tel que cela a déjà été mentionné, la dette de l’investisseur doit être structurée d’une telle façon à s’assurer que les règles proposées sur les dettes à recours limité ne s’appliquent pas pour réduire, de façon suffisante, le coût du logiciel à la société de personnes ou limiter le transfert des pertes subies par la société de personnes aux investisseurs pendant les deux premiers exercices de la société de personnes. En conséquence, toute dette exigible par les investisseurs doit être structurée d’une telle façon à être admissible à l’exemption des règles sur les dettes à recours limité, tel que cela a été décrit ci‑dessus. De plus, la société de personnes n’aura habituellement pas de dette, ou elle sera assujettie aux effets conjugués découlant des paragraphes 143.2(6) et (8) proposés, ce qui réduira en fait les coûts liés au logiciel qu’assume la société de personnes par le montant de la dette non payée de la société de personnes aussi longtemps que la dette reste impayée. Les structures liées à la dette des investisseurs engagée par la souscription d’unités de la société de personnes, qui est cédée à un fournisseur de logiciel à titre de paiement pour ce dernier, et celles liées à la dette de la société de personnes engagée par l’acquisition du logiciel, qui est assumée par les investisseurs, sont conçues en vue de frayer un chemin à travers de ces règles.
+La structure des relations entre les parties doit également tenir compte de l’application éventuelle des soi‑disant dispositions concernant la fraction à risques énoncées aux paragraphes 96(2.1) à (2.7). En conséquence, par exemple, les investisseurs ne peuvent avoir aucune dette envers la société de personnes ou envers une partie avec laquelle la société de personnes a un lien de dépendance ou, si l’investisseur a en fait une telle dette, il faudra s’assurer que la dette est éliminée (par exemple, en la cédant au complet à un fournisseur tiers du logiciel, sans recours par le fournisseur du logiciel à l’égard de la société de personnes) avant la fin du premier exercice de la société de personnes. Sinon, des limitations portant sur le transfert des pertes de la société de personnes à l’investisseur peuvent être imposées par l’application des dispositions concernant la fraction à risques.
+[74] Il est évident que les dispositions consistent en une sorte de disposition d’anti‑évitement et sont conçues en vue de s’assurer que les commanditaires et les investisseurs d’un abri fiscal (ce en quoi consiste MarketVision) ne sont pas autorisés à déduire des pertes qui, du point de vue économique réaliste, n’aura aucune conséquence sur leurs ressources financières. Si l’investissement est structuré de façon à ce que le seul argent à risque de l’investisseur soit le coût réel, il n’est pas nécessaire d’examiner l’application de dispositions qui donnent le même résultat. Si le tort qu’une règle anti‑évitement visa à remédier a déjà été éliminé par la façon dont l’opération est structurée, il n’est pas nécessaire d’examiner si la règle pouvait prévenir le tort si la structure inhérente de la transaction ne l’avait pas déjà fait.
+[75] Ce que je ne peux admettre est la tentative de la Couronne de combiner les paragraphes 96(2.1) et (2.2) avec l’article 143.2.
+[76] L’intimée soutient que la conséquence découlant de la lecture des paragraphes 96(2.1) et (2.2) ensemble avec le paragraphe 143.2(8) est la réduction du montant de la fraction à risques de l'intérêt de l’appelant à zéro.
+[77] Selon l’affirmation de l’intimée, le montant de la fraction à risques est réduit à zéro suivant le calcul suivant :
+Point
+Montant ($)
+Alinéa
+Départ
+Coût des unités de l’appelant dans T2
+150 000
+alinéa 96(2.2)a)
+Réduit au
+Coût tel qu’il est modifié en vertu du paragraphe 143.2(6)
+43 500
+alinéa 96(2.2)a)
+Plus
+Revenu de T2 pour l’exercice se terminant en 1995
+0
+alinéa 96(2.2)b)
+Moins
+Dette exigible envers Trafalgar Capital à la fin de 1995, excluant les montants déjà touchés par le paragraphe 143.2(6)
+24 000
+alinéa 96(2.2)c)
+Moins
+Le billet à ordre, même s’il est exigible à une partie ayant un lien de dépendance (Trafalgar Capital), n’est pas soustrait parce qu’il est déjà touché par le paragraphe 143.2(6)
+S.O.
+alinéa 96(2.2)d)
+Moins
+L’avantage accordé par le rendement annuel moyen garanti de 18 %
+142 339
+alinéa 96(2.2)d)
+Moins
+L’avantage accordé par l’achat garanti d’un certain nombre de rapports de transactions de Trafalgar Capital à 20 $US par rapport (638 400 $CAN x 10 ans x 1,24 % de la part proportionnelle de l’appelant)
+78 879
+alinéa 96(2.2)d)
+Fraction à risques
+0
+[78] Puisque j’ai conclu qu’il n’est pas nécessaire de tenir compte de l’application du paragraphe 96(2.2) et de l’article 143.2, je peux brièvement aborder le calcul.
+[79] Outre le fait que ce calcul donne un résultat anormal sinon absurde selon lequel le montant de la fraction à risques de l’appelant s’élève à moins 201 178 $[1] et que même l’argent avancé par l’appelant est éliminé du montant de la fraction à risques, je crois, pour plusieurs motifs, que le calcul comporte des lacunes.
+a) En vertu de l’alinéa 96(2.2)c), la dette exigible à Trafalgar à la fin de 1995 (24 000 $ en raison de la cession des billets) ne réduit pas davantage le montant de la fraction à risques parce que Trafalgar et la société de personnes n’ont pas de lien de dépendance.
+b) Tel que cela est annoncé dans la plaidoirie de l’intimée, on arrive au montant de 142 339 $ de la façon suivante :
+5. Trafalgar Capital et Trafalgar Research déclarent et garantissent un rendement annuel moyen d’au moins 18 p. 100 du capital de roulement donné en gage mise à profit jusqu’au 30 novembre 2004. Un rendement annuel de 18 p. 100 donnerait, sur 8 millions de dollars, un montant de 1 440 000 $. Selon le rapport de Horvath, sur une période de dix ans, un rendement annuel moyen de 18 p. 100 équivaudrait à un rendement total de 180 p. 100 ou de 14 400 000 $. T2 avait droit à seulement 80 p. 100 de ce montant, soit 11 520 000 $. L’avantage dont a profité l’appelant de sa part proportionnelle de 1,24 p. 100 (150 unités du total de 12 140 unités dans la société de personnes) de ce montant est égal à 142 339 $CAN.
+Même si l’alinéa 96(2.2)d) s’appliquait, le fait d’additionner tout simplement les paiements qui auraient pu être versés au cours d’une période de dix ans n’est pas la façon de déterminer le « montant ou avantage », peu importe si le logiciel a produit de façon indépendante un profit de 18 p. 100 par année. Ce calcul numérique est peu édifiant. Je souligne que M. Horvath n’a pas présenté la valeur actualisée à laquelle il est arrivé même s’il affirme que la valeur actualisée du billet d’acquisition ayant une date d’échéance de dix ans était presque nulle.
+c) On peut formuler la même objection relativement au montant de 78 879 $ qui ne représente que le total des frais de rapports de transactions à être payés sur une période de dix ans. En plus de toutes les autres objections, les frais de rapports de transactions n’étaient payables qu’aussi longtemps que le billet d’acquisition restait impayé. Le billet a été remboursé intégralement le 31 décembre 1995.
+[80] Depuis que la présente affaire a été entendue, la Cour d’appel fédérale a rendue une décision dans l’affaire Peter Brown c. Canada (précitée). Il est utile d’en tenir compte pour les conseils qu’elle peut offrir à la présente affaire. Cette dernière portait, comme en l’espèce, sur une DPA de logiciel. Le juge Rip a conclu que la société de personnes et la fournisseuse du logiciel avaient un lien de dépendance ayant comme résultat l’application de l’article 69 en vue de réduire le prix d’achat du logiciel à sa juste valeur marchande. Le juge Rip a conclu que cette valeur était environ la moitié du prix d’achat. La Cour d’appel fédérale n’a pas infirmé ses conclusions portant sur ces deux points. Le juge Rip a conclu que le seul montant de la fraction à risques de l’appelant était le montant du prix d’achat des unités de l’appelant dans la société de personnes versé en espèces (4 000 $ par unité). Il a toutefois conclu que le coût des unités de l’appelant représenté par sa prise en charge de la part proportionnelle du billet d’acquisition (6 000 $ par unité) n’était pas un montant de la fraction à risques.
+[81] La Cour d’appel fédérale a modifié cette partie du jugement afin de réduire le montant de la fraction à risques à 2 000 $. Le fondement de cette conclusion était que selon certaines modifications effectuées aux ententes par la société de personnes, les commanditaires pouvaient échanger leurs unités pour un montant de 8 000 $. Par conséquent, le risque économique réel des commanditaires n’était pas les 4 000 $ qu’ils ont investis, mais la différence entre le coût de 10 000 $ et le montant de 8 000 $, soit le montant qu’ils auraient reçu en disposant de leurs unités. S’ils exerçaient leur droit à l’encaissement par anticipation, le plus qu’ils perdraient en bout de ligne serait un montant de 2 000 $.
+[82] La Couronne a soutenu qu’en plus des 8 000 $ par unité payables sur l’exercice du droit à l’encaissement par anticipation, le commanditaire avait le droit de recevoir des actions dans la fournisseuse, soit American Software Corporation, et, par conséquent, le montant de la fraction à risques était déduit davantage par la valeur des actions. La Cour d’appel fédérale n’a pas accepté cet argument au motif que la valeur des actions était indéterminable.
+[83] Il existe des différences importantes entre l’affaire Brown et celle en l’espèce. D’une part, j’ai conclu que les fournisseuses et la société de personnes n’avaient aucun lien de dépendance. D’autre part, la détermination du montant de la fraction à risques est très différente en raison du droit à l’encaissement par anticipation dans l’affaire Brown.
+[84] Toutefois, une analyse très utile figure dans la décision de la Cour d'appel fédérale portant sur des parties des dispositions concernant la fraction à risques. Voici ce que le juge Rothstein a affirmé au paragraphe 37 :
+D'une façon générale, les dispositions concernant la fraction à risque de la Loi de l'impôt sur le revenu restreignent au capital de risque, aux fins de l'impôt, les pertes subies par les commanditaires à l'égard d'une société en commandite.
+4. Le logiciel est‑il un bien donné en location à bail au sens du paragraphe 1100(17) du Règlement de sorte que la demande de la DPA est limitée par le paragraphe 1100(15)?
+[85] Le paragraphe 1100(17) du Règlement définit le « bien donné en location à bail » d’un contribuable ou d’une société de personnes comme un bien amortissable.
+lorsque ces biens sont la propriété du contribuable ou de la société de personnes, conjointement avec une autre personne ou autrement, si, au cours de l'année d'imposition à l'égard de laquelle l'expression s'applique, le bien a été utilisé par le contribuable ou la société de personnes principalement pour gagner ou produire un revenu brut constitué d'un loyer, d'une redevance ou d'un revenu de location [...]
+[86] Les profits de la filiale commune par laquelle la société de personnes prévoyait partager les profits étaient des bénéfices d’exploitation découlant de la commercialisation des contrats d’opération à terme. Il est absolument impossible que cela peut être appelé un loyer, une redevance ou un revenu de location.
+5. Le montant exigible en vertu du billet d’acquisition était‑il conditionnel?
+[87] Le fondement de l’argument de la Couronne est que l’obligation est conditionnelle s’il n’existe pas de responsabilité avant la réalisation d’un événement qui peut ou non avoir lieu. Le fondement juridique sur lequel l’argument est fondé est inattaquable : Winter v. IRC, [1961] 3 All E.R. 855, à la page 859; Wawang Forest Products Ltd. c. La Reine., C.F.C., no A‑153‑99, 26 mars 2001 (2002 CarswellNat 528).
+[88] Il n’existe toutefois rien dans le billet d’acquisition pour justifier la conclusion selon laquelle il était conditionnel. Quel que soit son effet, le fait que l’obligataire en vertu du billet avait également certaines obligations découlant de l’accord d’acquisition vis‑à‑vis le débiteur ne rend pas le billet conditionnel.
+[89] La question de savoir si le billet d’acquisition était conditionnel est sans pertinence puisque le billet a été remboursé immédiatement. La condition, quelle qu’elle soit, à laquelle le billet aurait pu être assujetti, le cas échéant, a disparu lorsque l’obligation a été intégralement remplie.
+[90] L’intimée a également soutenu dans sa plaidoirie écrite que les billets à ordre des commanditaires étaient conditionnels. Ce point n’est mentionné nulle part dans la réponse à l’avis d’appel, et l’appelant n’a aucune obligation de tenter de répondre à l’argument. Quoi qu’il en soit, à première vue, le billet à ordre de l’appelant n’était pas conditionnel.
+[91] L’intimée soutient que les billets deviennent conditionnels en raison de la garantie du rendement de 18 p. 100 et de la garantie de paiement d’un certain nombre de frais de rapports de transactions, lesquelles ont été données à la société de personnes en vertu de l’accord d’acquisition de logiciel. Bien que la société de personnes ait pu avoir une cause d’action à l’encontre de Trafalgar, l’obligation découlant des billets à ordre de payer le principal et les intérêts ne dépendent pas sur le respect par Trafalgar de ses obligations découlant de l’accord d’acquisition de logiciel.
+[92] L’avocat de l’intimée fait valoir que la « condition » qu’il soutient est liée au billet d’acquisition occasionné par les différentes obligations, déclarations et garanties qui ont été données à la société de personnes par Trafalgar était, après l’extinction du billet d’acquisition par la cession des billets à ordre des commanditaires, transférée aux billets à ordre des commanditaires. Je n’y vois pas une conclusion juste sur le plan juridique, mais par respect pour l’avocat de l’intimée et parce que le point est important, je reproduirai sa plaidoirie écrite intégralement.
+[traduction]
+b) Les billets à ordre
+96. Les considérations de l’analyse à savoir si les billets à ordre sont conditionnels sont les suivantes :
+• Les garanties données par Trafalgar Capital et Trafalgar Research dans l’accord relatif à l’acquisition du logiciel et au capital de roulement donné en gage avaient un délai prescrit. « Jusqu’à ce que le principal et l’intérêt exigibles en vertu du billet d’acquisition étaient remboursés intégralement [...] » (article 10.01). Selon la cession des billets à ordre par T2 à Trafalgar Capital, T2 était sans doute libérée de toute responsabilité découlant du billet d’acquisition. Pour que T2 puisse respecter son obligation de commercialisation, les garanties devaient demeurer en vigueur même si la cession et la libération ont eu lieu.
+Me Coleman a témoigné que les renvois au billet d’acquisition dans l’accord d’acquisition de logiciel et de capital de roulement donné engage auraient dû être à l’égard des billets à ordre des commanditaires de T2. Selon le témoignage de Me Coleman, malgré la cession à Trafalgar Capital par T2 des billets à ordre, les garanties ont demeuré en vigueur.
+Me Coleman a contredit les modalités d’un document important de l’offre de T2 – l’accord d’acquisition de logiciel et de capital de roulement donné en gage. Me Coleman, par l’entremise de TSLP Management, était une partie au contrat. Les modalités des billets à ordre ne peuvent être déterminantes lorsque les parties ne respectent pas ou ne peuvent pas respecter les autres accords pertinents;
+A‑2, onglet 7, Accord d’acquisition de logiciel et de capital de roulement donné en gage, § 10.01n)
+A‑2, onglet 12, Cession des billets à ordre, page 2, paragraphe 3 de la transcription, le 3 octobre 2002, page 604, lignes 9 à 22
+• compte tenu de l’importance des contradictions de Me Coleman, ces dernières soulèvent des doutes quant à savoir si l’intention d’appliquer la responsabilité des commanditaires avait jamais été voulue;
+• si les garanties demeuraient en vigueur, la responsabilité de payer la dette découlant des billets à ordre était alors conditionnelle. Nous prouverons cela ci‑dessous;
+• si un taux de rendement annuel moyen de 18 p. 100 n’était pas atteint, T2 pouvait nommer la majorité des membres du conseil d’administration de Trafalgar Capital. Le nouveau conseil pouvait effacer la dette ou prolonger la date d’échéance;
+A‑2, onglet 7, Accord d’acquisition de logiciel et de capital de roulement donné en gage, article 11.05
+• L’appelant n’avait pas une intention claire de rembourser les billets à ordre à son échéance.
+Transcription, le 2 octobre 2002, page 393, lignes 3 à 9
+c) Si les garanties demeurent en vigueur
+97. Ce qui importe dans la détermination de l’obligation conditionnelle est la relation entre les garanties données par Trafalgar Capital et Trafalgar Research et la dette, le cas échéant, des commanditaires de Trafalgar Capital.
+Huang & Danczkay Ltd c. M.R.N., C.A.F., no A‑500‑98, 19 septembre 2000 (2000 CarswellNat 1951), au paragraphe 19
+98. Dans l’affaire Brown, une affaire semblable à celle en l’espèce, une responsabilité était assujettie à une garantie d’un autre contrat qui rendait la responsabilité conditionnelle.
+Brown c. R., C.C.I., no 97‑3264(IT)G, 15 novembre 2001, (2001 CarswellNat 2574) (appel en instance)
+99. Dans cette affaire, un billet d’acquisition était assujetti aux modalités d’un contrat de droits d’utilisation de logiciel. Ce dernier comportait une clause de déclaration par laquelle le fournisseur garantissait que certains jeux vidéo transférés à la société de personnes auraient un niveau minimum de ventes. Le contrat de droits d’utilisation de logiciel prévoyait que la clause de déclaration incitait la société de personnes à conclure ce contrat.
+Brown, précitée, aux paragraphes 154, 158, 172, et 179
+100. La Cour de l’impôt a conclu que la clause de déclaration constituait une modalité du contrat de droits d’utilisation de logiciel puisqu’elle incitait la société de personnes à conclure ce contrat. Le défaut de respecter cette modalité occasionnerait une action pour violation de contrat.
+Brown, précitée, aux paragraphes 167, 171, 174 et 189
+101. Par conséquent, la Cour a conclu ce qui suit :
+[...] que l'ensemble de la preuve révèle que l'obligation constituée par le billet d'acquisition était assujettie, entre autres dispositions de l'accord sur les logiciels et des accords modificateurs nos 1, 2 et 3, à la clause de déclaration. Cette obligation était un passif éventuel.
+Brown c. R., précitée, aux paragraphes 171, 174 et 189
+102. À l’instar du fournisseur dans l’affaire Brown, Trafalgar Capital (et Trafalgar Research) a déclaré et a garanti un certain rendement minimum annuel sur le capital de roulement donné en gage et le nombre de rapports de transactions à être achetés. Tout comme le contrat de droits d’utilisation de logiciel et la clause de déclaration dans l’affaire Brown, Trafalgar Capital et Trafalgar Research, dans l’accord d’acquisition de logiciel et de capital de roulement donné en gage, reconnaissent qu’en concluant l’accord, T2 s’est fiée sur ces déclarations et ces garanties.
+A‑2, onglet 7, Accord d’acquisition de logiciel et de capital de roulement donné en gage, daté du 24 février 1995, § 10.01n)
+103. Les dettes des commanditaires de T2 étaient assujetties aux garanties données par Trafalgar Capital et Trafalgar Research, et, par conséquent, elles constituent des obligations conditionnelles.
+[93] Je ne crois pas que ces considérations établissent que les billets à ordre étaient conditionnels. À première vue, ils ont demeuré absolus. Le billet d’acquisition a été éteint par la cession des billets à ordre des commanditaires.
+[94] Les avocats de l’intimée ont mentionné la décision du juge Rip dans l’affaire Brown c. La Reine, C.C.I., no97‑3264(IT)G, 15 novembre 2001 (2001 DTC 1094). La Cour d’appel fédérale a rendu sa décision sur l’appel, et j’ai déjà discuté de cette affaire. En outre, les faits dans ces affaires relatives aux abris fiscaux liés aux logiciels diffèrent tous d’un degré plus ou moins élevé. Cependant, l’avocat de l’intimée a mentionné que le juge Rip a conclu que le billet d’acquisition dans l’affaire Brown était assujetti à la clause de déclaration dans le contrat de droits d’utilisation de logiciel, modifié, et par conséquent, l’obligation découlant du billet d’acquisition était conditionnelle. En l’espèce, le billet d’acquisition était assujetti à l’accord d’acquisition de logiciel, mais le billet d’acquisition a été payé intégralement.
+[95] Je ne crois pas que la position de Me Coleman selon laquelle les renvoies dans l’accord d’acquisition de logiciel auraient dû viser les billets à ordre des commanditaires peut modifier le rapport juridique créé par les documents. On ne peut pas ignorer la conséquence juridique d’un document ou y attribuer une signification qui diffère de son libellé uniquement parce qu’une partie croit qu’elle aurait dû dire autre chose. Accepter l’argument de l’intimée serait un nouvel écart du droit de la rectification des contrats.
+[96] À mon avis, les billets à ordre n’étaient pas conditionnels. Cependant, comme je l’ai mentionné ailleurs dans le présent jugement, ils pouvaient être transférés par les commanditaires à une autre entité et les commanditaires pourraient échapper en fait aux obligations découlant de ces billets.
+[97] J’en viens maintenant aux questions les plus pertinentes en l’espèce.
+[98] Était‑il raisonnable pour la société de personnes de demander une DPA sur la base d’un prix d’achat de 12 140 000 $? La réponse à cette question exige la détermination du coût réel du logiciel par rapport à la société de personnes. Le point de départ évident est le montant de 3 520 600 $ payé en espèces.
+[99] Quel autre montant a été payé? Le billet d’acquisition pour le principal de 8 619 400 $ existait pendant une fraction d’une seconde jusqu’à ce qu’il soit payé intégralement et remplacé par les billets à ordre des commanditaires. Il ne s’agit pas de savoir si ces billets étaient conditionnels. Ils ne l’étaient pas. La vraie question est la suivante : Quelle était la valeur de ces billets?
+[100] Pour plusieurs motifs, je ne crois pas que l’on puisse peut tenir compte de la pleine valeur nominale des billets à ordre échus en 1995 dans la détermination du coût du logiciel par rapport à la société de personnes.
+a) Les commanditaires pouvaient se libérer de leurs obligations découlant des billets en les cédant à un tiers et en s’assurant que le tiers assume l’obligation. Cette dernière pouvait être une société fictive de prête‑nom.
+b) Selon l’article 11.05 de l’accord d’acquisition de logiciel, si le logiciel ne produisait pas un bénéfice d’exploitation moyen d’au moins 16 p. 100 du capital de roulement donné en gage mise à profit pendant la période du 1er janvier 1995 au 31 décembre 2004, la société de personnes a le droit de remplacer le conseil d’administration de Trafalgar Capital. Bien que, en pratique, ce droit a peu de valeur, si la société de personnes prenait le contrôle du conseil d’administration de Trafalgar Capital, cela constituerait un obstacle important au recouvrement des billets à ordre par Trafalgar.
+c) Les deux motifs ci‑dessus sont probablement suffisants pour justifier les doutes sérieux relativement à la valeur des billes à ordre des commanditaires. Il existe toutefois un autre point que j’ai de la difficulté à expliquer puisque mon opinion est fondée sur mes instincts commerciaux et de bon sens plutôt que sur une analyse strictement logique et juridique. Il constitue néanmoins une réserve importante, et je tenterai d’expliquer les raisons pour lesquelles il me préoccupe.
+Il existe quelque chose de très anormal par rapport à ces billets à ordre et, en fait, par rapport à cet aspect de l’arrangement dans son ensemble. Habituellement, si une personne achète un bien pour, par exemple, 1 000 $ et donne 400 $ en espèces au fournisseur et un billet à ordre pour 600 $, avec un taux d’intérêt commercial et une date d’échéance d’un certain nombre d’années futures, il ne serait jamais proposé que le coût du bien soit autre que 1 000 $. Il n’est pas courant d’attribuer une valeur actualisée au billet. Le prix est celui qui est déclaré, et le fait qu’il soit partiellement représenté par un billet à ordre ne signifie pas que le coût à l’acheteur ou les produits du fournisseur devraient être réduits.
+Est‑ce que c’est le cas en l’espèce? Je ne le crois pas. Nous avons un billet d’acquisition lié à un accord complexe entre la fournisseuse et la société de personnes par laquelle la fournisseuse s’oblige à se livrer aux activités de la commercialisation et de payer des frais de rapports de transactions qui ont comme objectif de rembourser le principal et les intérêts du billet d’acquisition et de produire un profit. Le billet disparaît dès qu’il est signé. Elle est remplacée par des billets qui ne constituent pas des obligations de la société de personnes, qui achète le bien, mais des commanditaires individuels. Il s’agit d’une question de remplir les obligations de la société de personnes découlant du billet d’acquisition par la fournisseuse en acceptant un bien. En fait, le bien est représenté par les billets donnés par les commanditaires à la société de personnes, mais il aurait pu être tout autre bien et ce bien doit être évalué. (Voir Gold Coast Selection Trust Limited v. Humphrey (Inspector of Taxes), [1948] A.C. 459, à la page 472.)
+Certaines obligations découlant de l’accord disparaissent en même temps que le billet d’acquisition, mais d’autres demeurent. Trafalgar, la fournisseuse, continue néanmoins d’effectuer des paiements à la société de personnes comme si le billet d’acquisition existait toujours. La seule façon dont elle peut effectuer ces paiements est en pigeant dans le fonds appelé le capital de roulement donné en gage qui est censé être utilisé aux fins commerciales. La source initiale de ce fonds était en fait le même montant d’argent que les commanditaires ont versé pour acheter leurs unités dans la société de personnes. Il leur revient par l’entremise de la société de personnes à titre de revenu appliqué sur le principal et les intérêts découlant des billets.
+Le fait que les parties semblent avoir écarté la conséquence juridique relativement à la disparition du billet d’acquisition mène à la conclusion selon laquelle ils ne s’attendaient pas à appliquer les billets des commanditaires et ont reconnu que toute tentative de le faire ferait face à des mesures de protection.
+Pour ces motifs, je ne vois pas comment il serait raisonnable d’estimer que ces billets ont une valeur égale à leur valeur nominale lorsqu’ils sont inextricablement liés aux obligations, réelles ou assumés, du détenteur. Il serait naïf de présumer que Trafalgar pouvait exiger le paiement des billets lors de leur échéance et de s’attendre à recevoir un chèque par retour du courrier. Toute tentative d’exiger le paiement des billets ferait face à d’innombrables mesures de protection.
+[101] Même si, dans la détermination du coût du logiciel pour la société de personnes, on doit tenir compte de la valeur des billets à ordre des commanditaires, lesquels ont été cédés à Trafalgar en vue de satisfaire le billet d’acquisition, et pour les motifs indiqués ci‑dessus, je m’interroge quant à leur valeur, s’ils en ont une. Cependant, les parties doivent avoir l’occasion d’aborder la question portant sur la valeur.
+[102] En statuant sur l’affaire, la raison pour laquelle je ne me fonde pas sur les dispositions concernant la fraction à risques ou les règles à recours limités s’appuie sur l’opinion selon laquelle les obligations découlant des billets d’acquisition ont disparu le 31 décembre 1995. Si cette hypothèse est fautive et que les obligations de Trafalgar ont demeuré comme si les billets d’acquisition n’étaient pas payés intégralement, je serais obligé d’examiner la mesure dans laquelle les dispositions concernant la fraction à risques et les règles à recours limités ont touché le coût du logiciel ou la perte déductible par les commanditaires. La façon dont la présente affaire est tranchée aboutit essentiellement au même résultat que l’on aurait obtenu par l’application de ces règles.
+[103] L’article 80 de la Loi de l’impôt sur le revenu n’a pas été invoqué et, par conséquent, je le mentionnerai qu’en passant. Il comprend un code quelque peu complexe ayant trait à l’effet d’acquitter une dette pour un montant inférieur à celui auquel la dette a été émise. Un effet consiste à réduire le coût en capital d’un bien amortissable par un « montant remis ». J’estime que lorsque le billet d’acquisition d’un montant de 8 619 400 $ a été éteint par la cession des billets à ordre ayant une échéance dix années plus tard, lesquels ont une valeur douteuse, on peut soutenir que le coût en capital du bien amortissable autrement déterminé pour lequel le billet d’acquisition a été émis devrait être réduit par la différence entre la valeur nominale du billet d’acquisition et la valeur des billets à ordre. Cependant, l’article 80 n’a pas été invoqué et je ne ferai aucune autre observation sur ce point.
+[104] À mon avis, la décision appropriée en l’espèce est de l’accueillir et de déférer la cotisation au ministre du Revenu national pour nouvel examen et nouvelle cotisation aux motifs que le coût pour Trafalgar II de 22,07 p. 100 de MarketVision était de 3 530 600 $ plus la valeur, le cas échéant, au 31 décembre 1995 des billets à ordre des commanditaires, lesquels ont été cédés à Trafalgar. Si les parties peuvent s’entendre sur la valeur, je demanderai qu’elles en avisent la Cour et le chiffre pourrait être incluse dans le jugement formel. Si les parties ne peuvent pas s’entendre sur la valeur des billets à ordre, je suis disposé, à la demande des avocats, à rouvrir l’affaire afin d’entendre d’autres représentations et, le cas échéant, la preuve portant sur ce point. Je suis également disposé à entendre des observations sur les dépens.
+Signé à Ottawa, Canada, ce 15e jour de mai 2003.
+« D. G. H. Bowman"
+Juge en chef adjoint
+Traduction certifiée conforme
+ce 29e jour de mars 2004.
+Crystal Lefebvre, traductrice
+[1] Le calcul de l’intimée donne un montant négatif de 201 178 $, ce que l’intimée affirme est égal à zéro. On pourrait soutenir que l’article 257 le justifie dans une certaine mesure puisque, sauf indication contraire, ce dernier prévoit que des montants ou résultats négatifs découlant d’une formule algébrique sont réputées être nuls. Les dispositions concernant la fraction à risques ne comprennent pas une formule algébrique. Heureusement, la question quelque peu ésotérique ayant trait à un montant négatif de fraction à risques constitue une question qui est reportée à une autre occasion.

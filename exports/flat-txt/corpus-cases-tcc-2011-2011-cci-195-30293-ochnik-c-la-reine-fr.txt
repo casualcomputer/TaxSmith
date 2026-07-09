@@ -1,0 +1,151 @@
+Title: Ochnik c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30293/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-195-30293-ochnik-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-03-31
+
+# Ochnik c. La Reine
+
+- Citation: 2011 CCI 195
+- Decision date: 2011-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8061, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ochnik c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-31
+Référence neutre
+2011 CCI 195
+Numéro de dossier
+2010-52(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-52(IT)I
+ENTRE :
+RICHARD OCHNIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 13 décembre 2010 et 16 mars 2011
+à Toronto (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Thang Trieu
+____________________________________________________________________
+JUGEMENT
+L’appel relatif à une cotisation établie conformément à la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté.
+Signé à Ottawa, Canada, ce 31e jour de mars 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 20e jour de mai 2011.
+Marie-Christine Gervais
+Référence : 2011 CCI 195
+Date : 20110331
+Dossier : 2010-52(IT)I
+ENTRE :
+RICHARD OCHNIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, Richard Ochnik, interjette appel d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004.
+[2] L’appel soulève trois questions à trancher.
+a) Le ministre a-t-il eu raison d’inclure un montant de 66 000 $ dans le revenu de l’appelant à titre de revenu d’un travail indépendant reçu dans le cadre d’un projet immobilier?
+b) Le ministre a-t-il eu raison d’imposer une pénalité pour défaut de production de la déclaration de revenus de 2004 dans le délai prescrit?
+c) Le ministre a-t-il exigé à juste titre des intérêts?
+Contexte
+[3] L’appelant a participé à un projet immobilier d’envergure qui se déroulait à Listowel, en Ontario. Le projet n’était que partiellement terminé lorsque l’entreprise a fait l’objet d’une mise sous séquestre.
+[4] L’appelant a déclaré au cours de son témoignage qu’il n’avait reçu aucune rémunération à l’égard de sa participation au projet.
+[5] Il a ajouté que le projet était une entreprise familiale et qu’il n’était ni administrateur ni actionnaire de l’une ou l’autre des sociétés concernées. Il a expliqué que son frère était le seul administrateur et qu’il ignorait l’identité des actionnaires. Il a reconnu avoir travaillé au sein de l’entreprise, mais il a précisé qu’il l’avait fait afin d’aider la famille sans recevoir la moindre rémunération.
+[6] Au cours de son témoignage, l’appelant a minimisé le rôle qu’il avait joué au sein de ces sociétés. Cependant, dans deux décisions judiciaires, il a été décrit comme un intervenant clé dans au moins l’une des sociétés.
+[7] Les décisions judiciaires concernaient des allégations de manquements en matière de valeurs mobilières qui seraient survenus dans le cadre d’une levée de fonds effectuée pour le projet. Les tribunaux ont décrit l’appelant comme une âme dirigeante et une personne qui agissait à titre de président : Richard Ochnik v. Ontario Securities Commission, [2007] OJ No 1730 et [2007] OJ No 2171. L’appelant a précisé qu’il se préparait actuellement à interjeter appel de l’une des décisions devant la Cour d’appel de l’Ontario. Cependant, l’intimée a produit une ordonnance selon laquelle l’autorisation d’interjeter appel avait été refusée le 19 novembre 2007.
+[8] Les manquements allégués concernent une somme de plus de 1 500 000 $ qui a été empruntée à des investisseurs dans le cadre du projet. L’appelant a été condamné, solidairement avec l’une des sociétés (appelée « 146 »), à verser une somme de 1 128 400 $ à titre d’indemnité et de dédommagement ([2007] OJ No 2171). L’appelant a affirmé qu’une enquête était en cours et que cette enquête touchera probablement les résultats du litige. Cette affirmation n’a nullement été corroborée.
+[9] Le juge Cumming, de la Cour supérieure de justice de l’Ontario, a décrit ainsi les manquements en matière de valeurs mobilières (pièce R-11) :
+[traduction]
+[35] Dans la présente affaire, il appert de la preuve que M. Ochnik et 146, ainsi que d’autres personnes, ont participé à une opération frauduleuse dans le cadre de laquelle ils ont usé de faux fuyants et de mensonges au détriment de personnes vulnérables sur le plan financier. Les personnes qui ont investi des sommes d’argent dans 146 n’ont pas reçu une divulgation complète, franche et exacte des renseignements qu’ils avaient le droit de recevoir selon la législation ontarienne sur les valeurs mobilières. Les sommes d’argent obtenues de la vente des actions détenues dans 146 ont été affectées à la mise en valeur d’une propriété appartenant à M. Ochnik et les investisseurs ont hérité de titres d’une société insolvable.
+Revenu d’un travail indépendant
+[10] Le ministre a établi une cotisation à l’égard de l’appelant pour l’année d’imposition 2004 en tenant pour acquis qu’il avait reçu un revenu d’un travail indépendant par suite de sa participation au projet. Un agent de recouvrement de l’Agence du revenu du Canada (l’« ARC ») a expliqué que l’Agence avait été informée par des membres du personnel administratif des sociétés que des paiements avaient été régulièrement versés à l’appelant.
+[11] Apparemment, l’ARC a eu du mal à déterminer le montant que l’appelant avait reçu. Ce renseignement ne figurait pas dans les registres financiers fournis à l’ARC. L’appelant a déclaré au cours de son témoignage qu’il n’avait pas de compte bancaire.
+[12] En se fondant sur les renseignements restreints dont il disposait, le ministre a présumé que l’appelant avait touché un montant d’au moins 66 000 $ à titre de rémunération.
+[13] La position de l’appelant est résumée dans un courriel qu’il a envoyé à l’avocat de l’intimée et qui est reproduit ci-dessous :
+[traduction]
+Je n’ai touché aucun salaire pour le travail que j’ai fait, mais j’ai reçu une allocation de ma famille pour mes dépenses. L’allocation provenait des comptes personnels de mon père et non des comptes de la société, laquelle ne touchait aucun revenu. Cet argent était un don d’un père à son fils. Je n’étais nullement tenu d’exécuter quelque travail que ce soit en échange de l’argent. En fait, tant avant qu’après l’existence de la société, mon père a continué à me donner de l’argent en cadeau.
+Je crois comprendre que les dons d’un père à son fils ne sont pas imposables.
+[14] L’appelant soutient que la présomption du ministre quant au montant de revenu qu’il aurait touché n’est pas fondée dans les faits. Le ministre a présumé que l’appelant avait des dépenses liées à des obligations alimentaires et hypothécaires, mais l’appelant nie cette supposition. Il ajoute que la cotisation n’est pas équitable, parce que l’intimée n’a pas demandé au vérificateur de venir témoigner pour expliquer comment le montant avait été déterminé, ce qui aurait permis à l’appelant de le contre-interroger. L’appelant fait également valoir qu’il est injuste qu’il supporte le fardeau de la preuve, parce qu’il n’est pas possible de prouver un élément négatif, soit le fait qu’il n’a touché aucun revenu.
+[15] Je ne suis pas convaincue du bien-fondé des allégations de l’appelant.
+[16] À mon avis, il est tout à fait raisonnable de la part du ministre de présumer que l’appelant a touché une rémunération à l’égard du rôle clé qu’il a joué dans le projet. La preuve donne à penser qu’un montant élevé a été emprunté aux fins du projet et que l’appelant a joué un rôle clé dans la direction de celui-ci. Il est raisonnable de supposer qu’une rémunération serait versée.
+[17] Il est vrai que peu d’éléments étayent le montant de revenu présumé par le ministre. Cependant, le montant semble être fondé sur les renseignements dont disposait le ministre.
+[18] Je ne crois pas que l’intimée aurait dû demander au vérificateur de venir témoigner. Une explication concernant la cotisation a été donnée dans une lettre envoyée à l’appelant le 13 août 2009 (pièce R-7). Il n’était pas nécessaire que l’intimée fournisse d’autres explications à l’audience. De plus, si l’appelant avait souhaité contre-interroger le vérificateur, il aurait pu envoyer une assignation sommant celui-ci de comparaître à l’audience.
+[19] Quant à l’argument de l’appelant selon lequel il ne peut pas prouver un élément négatif, cet argument ne tient pas compte du fait que le fardeau de la preuve n’est pas celui de la preuve hors de tout doute raisonnable.
+[20] Les contribuables qui se présentent devant la Cour canadienne de l’impôt sont généralement en mesure de réfuter de façon satisfaisante les présomptions de cette nature établies par le ministre. Il leur suffit de présenter un témoignage détaillé et cohérent ainsi que des documents et des témoins à l’appui de leur version, ce que l’appelant n’a pas fait en l’espèce. Plus précisément, hormis l’appelant, aucune personne ayant participé au projet n’est venue témoigner.
+[21] Dans une large mesure, la cause de l’appelant repose sur son propre témoignage intéressé. Or, l’ensemble de son témoignage sonnait faux et n’était guère corroboré.
+[22] Ainsi, l’appelant a présenté un relevé de carte de crédit au nom de son frère, sur lequel semblent figurer des frais liés au projet. L’appelant a présenté ce document afin de prouver que son frère participait activement à l’entreprise.
+[23] Même si le nom du frère de l’appelant apparaissait sur le relevé de carte de crédit, je ne suis pas convaincue que le frère a effectivement utilisé la carte.
+[24] Il est fait mention de la carte de crédit sur un chèque de l’une des sociétés. Les mots [traduction] « Carte – Richard Ochnik » figurent sur la ligne relative à l’objet du chèque, ce qui donne à penser que la carte a été utilisée par l’appelant. Le frère, Ian Ochnik, n’a pas témoigné afin de donner des éclaircissements sur cette question. Il se peut fort bien que le frère ait obtenu la carte afin de venir en aide à l’appelant. Je souligne que celui-ci avait déjà fait faillite dans le passé.
+[25] L’appelant a déclaré que son nom figurait sur le chèque aux fins de l’approbation du paiement de la carte de crédit. Cette affirmation ne me semble pas crédible.
+[26] L’appelant a fait valoir que le ministre a tort de présumer qu’il avait versé une pension alimentaire à son ex-épouse et effectué des paiements hypothécaires sur une maison. À cet égard, il a présenté des éléments de preuve donnant à penser que les paiements hypothécaires se rapportaient à une maison appartenant à l’ex‑épouse.
+[27] Je ne suis pas convaincue du bien-fondé des arguments de l’appelant au sujet des obligations alimentaires et hypothécaires. L’ex-épouse n’a pas été appelée à témoigner. En tout état de cause, même s’il est admis que l’appelant n’a pas fait ces dépenses, cela ne suffit pas à prouver qu’il n’a pas touché de revenu d’un travail indépendant.
+[28] La principale question est de savoir si l’appelant a reçu un revenu d’au moins 66 000 $ du projet immobilier. L’élément manquant dans la thèse de l’appelant, c’est une preuve verbale ou écrite satisfaisante montrant qu’il n’a reçu aucune rémunération. La présomption du ministre selon laquelle une rémunération a été reçue n’a pas été réfutée de façon satisfaisante.
+Pénalité pour production tardive et intérêts
+[29] L’appelant s’est vu imposer une pénalité pour production tardive en application du paragraphe 162(1) de la Loi parce qu’il n’avait pas produit sa déclaration de revenus de 2004 dans le délai prescrit.
+[30] L’appelant soutient qu’il avait une bonne excuse pour ne pas avoir produit sa déclaration de revenus : il croyait en effet que le syndic agissant dans sa faillite précédente produirait cette déclaration.
+[31] L’appelant a déclaré au cours de son témoignage qu’il avait fait faillite vers l’année 2001 et que le syndic devait produire ses déclarations de revenus pour les quatre années suivantes.
+[32] L’appelant a ajouté qu’il n’avait pu obtenir d’éléments de preuve corroborants, parce que le syndic de faillite avait apparemment cessé ses activités.
+[33] Je n’accepte aucune partie de ce témoignage. Je souligne également que l’intimée a présenté en preuve la déclaration de revenus pour l’année 2002. Cette déclaration avait été produite par l’appelant lui-même.
+[34] En ce qui a trait à l’explication que l’appelant a donnée au sujet de la déclaration de revenus de 2002, le témoignage qu’il a rendu en contre‑interrogatoire est loin d’être convaincant. Voici un extrait tiré de la page 89 de la transcription :
+[traduction]
+Q. Alors, cette déclaration de revenus pour 2002, vous l’avez produit, n’est-ce pas?
+R. Hm-hmm.
+Q. Et vous l’avez produite vers la date mentionnée au verso?
+R. Je présume que c’est ça, oui.
+Q. Alors, voici ce que j’aimerais savoir. Si vous soutenez que le syndic de faillite produisait les déclarations de revenus en votre nom et qu’il était tenu de le faire, pourquoi avez-vous produit, dès 2002, une déclaration de revenus en votre propre nom, comme le montre la pièce R-6?
+R. Parce que je – ce que je vois, c’est que j’ai antidaté le document afin qu’il coïncide avec l’année d’imposition. […]
+[35] L’appelant n’a pas prouvé à ma satisfaction que le syndic avait consenti à produire la déclaration de revenus pour l’année d’imposition 2004.
+[36] Je ne suis pas convaincue qu’il y a lieu d’annuler la pénalité ou les intérêts.
+Décision
+[37] Pour tous les motifs exposés ci-dessus, l’appel sera rejeté en entier.
+Signé à Ottawa, Canada, ce 31e jour de mars 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 20e jour de mai 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011 CCI 195
+No DU DOSSIER DE LA COUR : 2010-52(IT)I
+INTITULÉ : RICHARD OCHNIK c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Le 13 décembre 2010 et le 16 mars 2011
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 31 mars 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Thang Trieu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : N/A
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

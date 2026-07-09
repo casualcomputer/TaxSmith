@@ -1,0 +1,186 @@
+---
+title: "Zolghadr c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29053/index.do"
+last_modified: "2008-12-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 669"
+citation2: ""
+neutral_citation: "2008 CCI 669"
+decision_date: "2008-12-10"
+language: "fr"
+item_id: "29053"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6833
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:07:03.397000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6af8f916a344b8d1d4d611ddab12f3a2c5447a8b3c597b173950c66998cfcc0a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zolghadr c. La Reine
+
+- Citation: 2008 CCI 669
+- Decision date: 2008-12-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6833, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zolghadr c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-10
+Référence neutre
+2008 CCI 669
+Numéro de dossier
+2006-1264(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006‑1264(IT)I
+ENTRE :
+RAHIM ZOLGHADR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 23 février 2007, à Toronto (Ontario).
+Devant l’honorable juge suppléant M.A. Mogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 sont accueillis, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que, dans le calcul de son revenu pour chaque année, l’appelant a le droit de déduire les dépenses d’entreprise suivantes :
+2001
+2002
+2003
+Assurance maladie et accident
+525 $
+525 $
+525 $
+Frais comptables
+550
+550
+550
+Outils
+800
+800
+800
+Téléphone cellulaire
+360
+360
+360
+Vêtements de travail
+300
+300
+300
+Taxes sur les produits et services
+3 892
+Total
+2 535 $
+2 535
+6 427
+Signé à Ottawa, Canada, ce 10e jour de décembre 2008.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 30e jour de janvier 2009.
+Danièle Laberge, LL.L.
+Référence : 2008 CCI 669
+Date : 20081210
+Dossier : 2006‑1264(IT)I
+ENTRE :
+RAHIM ZOLGHADR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] Il s’agit d’appels à l’égard des années d’imposition 2001, 2002 et 2003, années pour lesquelles l’appelant a déduit dans le calcul de son revenu d’importantes sommes au titre des dépenses d’entreprise. L’appelant est un entrepreneur indépendant et non un employé et il est donc possible dans ces circonstances d’inclure dans le calcul de son revenu des dépenses déductibles si elles se rapportent au contrat de travail qu’il exécute comme entrepreneur indépendant. Les sommes déduites pour ces trois années sont importantes. L’appelant a déduit les dépenses d’entreprise suivantes : 24 691 $ pour 2001, 30 024 $ pour 2002, et 32 975 $ pour 2003. Sa rémunération brute au cours de ces années se situait entre 55 000 $ et 60 000 $ et les déductions au titre des dépenses d’entreprise dépassaient de façon générale 40 p. 100 du revenu brut pour chaque année. Dans une nouvelle cotisation, Revenu Canada a refusé pratiquement toutes les dépenses déduites et l’appelant a interjeté appel de ces nouvelles cotisations en vue de faire rétablir les déductions des dépenses en litige. L’appelant a choisi la procédure informelle.
+[2] L’appelant est un mécanicien d’avions. Bien qu’il soit un entrepreneur indépendant, selon sa propre preuve et selon ce que l’intimée reconnaît, il présente par ailleurs de nombreuses caractéristiques d’un employé, mais j’accepte le fait qu’à des fins fiscales pour les années faisant l’objet d’un appel, il soit un entrepreneur indépendant. Les caractéristiques d’un employé ressortent de la brève description suivante.
+[3] Il est en contact avec une société appelée HQ Aero Management Inc. (« HQ ») depuis environ neuf ans. Il décrit HQ comme une agence qui place des travailleurs auprès de sociétés qui fabriquent des avions. Au cours des trois années particulières faisant l’objet d’un appel, il y avait entre Mitsubishi, un fabricant japonais, et Bombardier, un fabricant canadien de nombreux produits, notamment des avions, une entente visant la construction principalement au Canada d’un avion en particulier.
+[4] L’appelant explique que les moteurs et certaines pièces essentielles étaient fabriqués au Japon et envoyés à des installations de Bombardier dans la région de Downsview, où ils étaient intégrés à une chaîne de montage de fabrication d’avions. Il déclare que, au cours des années faisant l’objet d’un appel, les commandes pour ces avions étaient très élevées, que Bombardier avait du retard dans ses commandes et qu’ainsi la chaîne de montage était exploitée 24 heures par jour et sept jours par semaine. L’appelant travaillait de 10 à 12 heures par jour, six jours par semaine et parfois six ou sept heures le dimanche. Il était devenu chef d’équipe, un genre de superviseur, mais même à ce moment il travaillait comme mécanicien d’avions, faisant principalement du travail se rapportant aux ailes et au fuselage, et au rivetage des pièces d’avions qui devaient être assemblées, contrairement au moteur lui‑même qui propulse l’appareil.
+[5] L’appelant est bien rémunéré, environ 25 $ ou plus l’heure, mais à titre d’entrepreneur indépendant et non à titre d’employé. Il n’est pas membre d’un syndicat et il ne reçoit pas un tarif horaire plus élevé pour les heures supplémentaires, étant rémunéré à temps normal. Il déclare ne pas recevoir de montant additionnel pour des heures supplémentaires et il n’a pas d’indemnités de congé annuel. Il ne bénéficie pas d’un régime de pension et il n’a aucun avantage social. Il prépare chaque jour une feuille de temps sur laquelle il explique ce qu’il a fait. Il est tenu d’acheter ses propres outils qui sont essentiellement des outils à commande mécanique fonctionnant au moyen d’un dispositif à air comprimé pour retirer des écrous les boulons qui tiennent une roue à une jante.
+[6] Les outils sont chers et il affirme que pour cette raison, de façon générale, il n’achète pas d’outils neufs, mais qu’il achète plutôt des outils usagés appartenant à d’autres travailleurs qui quittent leur emploi chez Bombardier ou qui vont travailler ailleurs et qui ne veulent pas apporter leurs outils. Il y a un marché pour ces outils usagés, et afin de réduire leurs coûts, la plupart des outils qu’il achète sont des outils usagés.
+[7] L’appelant vient d’Iran, et sa langue maternelle est le persan. Il parle anglais, mais il a une certaine difficulté à le faire. Par conséquent, on ne pouvait s’attendre, puisqu’il est au Canada seulement depuis 1995, à ce qu’il fasse ses propres déclarations de revenus. Les déclarations sont préparées pour lui par des spécialistes s’adonnant à la préparation de déclarations de revenus. L’appelant leur remet des reçus et d’autres documents, et ils préparent pour lui une déclaration plutôt détaillée à titre d’entrepreneur indépendant. Je déduis de ce qu’il dit qu’ils sont principalement chargés de le conseiller quant aux déductions en cause. Revenu Canada a contesté tous les montants déduits.
+[8] L’appelant vit à Mississauga, à environ 40 kilomètres de l’usine où il travaille dans la région de Downsview en Ontario. Il fait donc le trajet d’environ 40 kilomètres de Mississauga à la région de Downsview, et de 40 kilomètres pour retourner chez lui chaque jour. Il dit que, à son lieu de travail, Bombardier a environ 10 hangars, chacun contenant sept ou huit avions à réaction d’affaires qui sont en construction, de sorte qu’un hangar lui‑même couvre une importante superficie de terrain. L’entreprise de Downsview dans son ensemble a une superficie importante et comporte 8 ou 10 hangars de cette dimension et il travaille dans ces hangars sur des chaînes de montage. Il doit rarement s’absenter du site de Bombardier à Downsview où il exécute son travail à titre d’entrepreneur indépendant. Lorsque vient le moment d’être payé, c’est en fait HQ, l’agence qui l’« emploie » pour le compte de Bombardier et de Mitsubishi qui le paie.
+[9] Je tiens pour acquis que HQ reçoit une commission, mais je sais cela seulement parce que l’appelant est payé par HQ, et non par Bombardier ou Mitsubishi. Dans le recueil de documents déposé par l’intimée, pièce R‑1, l’onglet 5 contient des feuillets T4 délivrés au nom de l’appelant par HQ pour 2001, 2002 et 2003, lesquels montrent un revenu d’emploi. HQ considérait donc que l’appelant, dans un sens, était un employé, même s’il considère qu’il est un entrepreneur indépendant, et Revenu Canada a accepté cette classification. J’ai indiqué qu’une question grave se pose à savoir si en droit l’appelant est un employé ou un entrepreneur indépendant, mais cette question n’est pas en litige dans les présents appels.
+[10] L’appelant a ensuite expliqué que HQ retient effectivement et verse des cotisations d’assurance‑emploi et des contributions au Régime de pension du Canada, et a fait à l’occasion des acomptes pour la taxe sur les produits et services, ce dont je vais traiter par la suite. Pour tout dire, HQ délivre à l’appelant des T4 qui constituent la base de la déclaration de son revenu pour une année d’imposition particulière. Il remet ces documents au cabinet de comptables, Active Accountants and Associates à Mississauga, et ce cabinet prépare ses déclarations de revenus. Il retourne au cabinet environ une semaine plus tard pour aller chercher la déclaration qui a été préparée.
+[11] On lui a demandé s’il avait eu des discussions avec Active Accountants à l’égard de la manière dont ils calculaient son revenu, et je déduis qu’il n’a pas eu une discussion très approfondie parce que, comme je l’ai indiqué, l’appelant parle bien l’anglais, mais il a un accent prononcé. Il est parfaitement évident, lorsqu’on écoute son témoignage, que l’anglais n’est pas sa langue maternelle et on ne peut donc pas s’attendre à ce qu’il puisse facilement connaître les questions se rapportant à l’impôt sur le revenu et comprendre le contenu des déclarations de revenus comme une personne qui a grandi au Canada peut le faire. Je conclus donc, sans avoir beaucoup d’éléments de preuve directs, que les déductions demandées pour les années faisant l’objet d’un appel, il les a demandées après avoir été incité à le faire ou conseillé par Active Accountants. À cet égard, je pense qu’il n’a pas été bien conseillé par ces comptables parce qu’ils ont été beaucoup trop audacieux en lui conseillant de déduire des montants qui ne semblent pas être justifiés dans les circonstances.
+[12] Il y a, joint à la réponse à l’avis d’appel, les annexes « A », « B » et « C », une pour chaque année d’imposition faisant l’objet d’un appel, lesquelles indiquent les diverses dépenses déduites par l’appelant, dont les montants étaient appuyés par des pièces justificatives, et les montants accordés ou refusés dans les cotisations faisant l’objet d’un appel. Essentiellement, pour chacune des années, tous les montants déduits ont été refusés. Je dis essentiellement parce que pour l’année 2001, lorsque l’appelant a déduit 1 100 $ pour des outils, on lui a accordé une déduction de 127 $, apparemment parce qu’il y avait un reçu à cet effet. Pour l’année 2002, on ne lui a accordé aucune déduction, et pour 2003 on lui a accordé une déduction de 152 $ pour des outils parce qu’il y avait un reçu indiquant ce montant. Toutefois, il avait déduit 1 565 $ pour 2003 pour des outils, alors comme je dis, essentiellement, tous les montants déduits comme dépenses ont été refusés.
+[13] Je vais traiter des dépenses par groupes et je vais utiliser l’annexe « A » pour l’année 2001 comme l’annexe représentant les trois années. Ce que je dis à propos de 2001 s’appliquera de la même façon pour 2002 et 2003.
+[14] L’appelant demande une déduction de dépenses d’automobile sous différents titres : essence, en général d’environ 3 000 $, réparations d’environ 800 $, lavage d’automobile, une somme nominale, assurance 4 200 $, l’habituel 74 $ pour la plaque d’immatriculation en Ontario, et des intérêts s’élevant à 478 $ qui peuvent être des intérêts sur de l’argent emprunté pour acheter une automobile, puis la déduction pour amortissement qui pour en 2001 était d’approximativement 3 700 $. Le total des dépenses d’automobile indiqué est de 13 238 $ pour cette année. Il y a une déduction de 6 178 $ pour l’utilisation personnelle, ce qui laisse une déduction nette de dépenses d’automobile de 7 060 $. De même, les déductions pour des dépenses d’automobile pour 2002 étaient de 10 171 $ et de 10 286 $ pour 2003. Tous ces montants doivent être refusés dans le calcul du revenu en raison des modalités selon lesquelles l’appelant travaille. Il se rend simplement de chez lui, à Mississauga, au lieu de travail à Downsview, à environ 40 kilomètres à l’aller et au retour.
+[15] De nombreuses affaires établissent le principe selon lequel dans les cas où une personne se livre à une activité à un endroit seulement, et s’y rend chaque jour pour offrir les services au moyen desquels elle tire son revenu, le fait de simplement se rendre de chez elle à cet endroit et de revenir constitue une dépense personnelle et non une dépense d’entreprise, et les frais de déplacement ne sont pas déductibles. La seule situation où un employé, ou même un entrepreneur indépendant, peut déduire des frais de déplacement c’est lorsque la personne, pour tirer son revenu, doit se déplacer d’un lieu d’affaires à un autre. Lorsqu’il y a un lieu d’affaires principal, si la personne doit se rendre à de nombreuses reprises dans d’autres régions et lieux pour desservir ses clients, alors les frais de déplacement sont déductibles. Mais l’appelant est, en fait, un employé à ce lieu de travail. Il n’a pas de flexibilité quant aux endroits où il va. Il se rend aux hangars aux installations de Bombardier à Downsview pour gagner sa vie chaque jour. Il pouvait arriver à l’occasion qu’il doive se rendre à un autre hangar ou à d’autres installations aéronautiques à l’aéroport international de Toronto ou dans ses environs, mais selon ce qu’il a déclaré cela se produit très rarement.
+[16] Il doit passer presque tout son temps sur la chaîne de montage ou près de cette chaîne, parce qu’il est une personne essentielle à titre de mécanicien d’avions, et qu’il doit travailler avec les milliers d’autres travailleurs. Il a indiqué que Bombardier a environ 5 000 employés à ces installations, ce qui est facile à concevoir si la société a des activités 24 heures par jour sept jours par semaine.
+[17] Par conséquent, le total déduit pour des dépenses d’automobile doit être refusé. Je dois dire de manière un peu critique à l’égard de ceux qui ont préparé les déclarations de revenus de l’appelant, Active Accountants and Associates, qu’ils auraient dû savoir cela. Il n’aurait pas fallu un très long entretien entre quelqu’un de ce cabinet de comptables et l’appelant pour discerner le fait qu’en pratique il se déplace seulement de chez lui à un lieu de travail et qu’il revient chez lui, ce qui fait que tous les frais de déplacement sont non déductibles. Je dis que ses conseillers devaient savoir cela. C’est un nouveau résident du Canada puisqu’il n’est ici que depuis 1995 et il ne peut pas connaître les coutumes de notre société et ce qui est permis et ce qui ne l’est pas. Ils auraient dû l’aider à cet égard.
+[18] L’appelant a demandé une déduction pour l’utilisation d’un bureau à la maison. Il a expliqué qu’il a dans le sous‑sol de sa maison une pièce d’environ neuf mètres carrés où il a un ordinateur et où il remplit ses feuilles de temps. Il a indiqué que la préparation des feuilles de temps peut être assez longue et qu’il y consacre environ une demi‑heure par jour, puis qu’il présente sa feuille de temps le lendemain. Ses feuilles de temps sont approuvées par Bombardier ou Mitsubishi et, sur leur fondement, il présente une facture toutes les deux semaines. Il est payé à titre d’entrepreneur indépendant sur le fondement de cette facture. Mais, il ne rencontre pas vraiment de clients à la maison. Il n’est pas nécessaire d’avoir un endroit à la maison pour une telle activité et cela ne satisfait pas au critère. Par conséquent, les montants déduits pour l’utilisation de sa maison pour le travail sont également refusés.
+[19] Je vais énumérer un certain nombre d’autres éléments. Une déduction d’environ 3 500 $ est demandée chaque année pour l’assurance. L’appelant a dit qu’il s’agissait d’assurance maladie et accident, afin de protéger son revenu dans l’éventualité où il lui arrivait quelque chose puisqu’il n’a pas de prestations de soutien. Le montant de 3 500 $ semble élevé, mais je serais enclin à accorder un certain montant pour ce poste; je vais y revenir plus tard.
+[20] Pour des repas et des frais de représentation, il a demandé des déductions modiques d’environ 500 $, mais il n’y a pas d’éléments de preuve démontrant qu’il doit faire de la représentation, et les déductions sont donc également refusées, de même que les frais de bureau s’élevant à 1 650 $. Ces frais se rapportent à l’utilisation de son bureau à la maison. Il a un ordinateur, mais il a expliqué que cet ordinateur n’est pas relié à l’unité de production de Bombardier et il s’agit donc de son ordinateur personnel comme la plupart des gens ont à la maison. Il a demandé une déduction modeste pour des fournitures, quelques centaines de dollars. Il demande une déduction pour des honoraires s’élevant à environ 1 600 $ qu’il pense avoir payés pour la préparation sa déclaration de revenus. Je vais revenir plus longuement sur cette question plus tard, parce que je vais accorder un montant modeste même s’il n’y a pas de pièces justificatives à cet égard. Le poste suivant est le téléphone et les services. Je n’accorde aucun montant pour ce poste parce que rien ne démontre qu’il a besoin de ces services à la maison pour tirer un revenu.
+[21] Pour des outils, je vais accepter plus que ce que Revenu Canada a accepté et je vais également traiter de cette question plus tard. Il dit avoir besoin d’un téléphone cellulaire pour son travail parce que même s’il y a une sorte d’émetteur-récepteur portatif fourni par Bombardier, cet appareil est inadéquat pour parler lorsqu’il se trouve dans l’un ou l’autre des 10 hangars, et il dit qu’il est souvent convoqué d’un endroit à un autre. Je vais accepter un petit montant pour un téléphone cellulaire.
+[22] Quant à Internet, il demande une déduction d’un montant s’élevant à 500 $ pour la connexion à un serveur pour l’année et je ne vais pas accorder la déduction parce qu’il n’a pas été démontré qu’une connexion à Internet soit essentielle à ses activités ou à son entreprise. En outre, il demande une déduction de 150 $ pour des vêtements de travail et je vais accorder quelque chose à cet égard.
+[23] Je ne vais pas accorder de déduction pour amortissement parce que je ne vois aucune immobilisation pour laquelle de l’amortissement doit être demandé. J’ai refusé la déduction pour le travail à la maison. Je vais accorder certaines déductions, plus élevées que celles accordées par Revenu Canada, et j’ai l’intention de les examiner maintenant, puis de les énumérer; elles seront les mêmes pour chaque année sauf quant à un poste pour l’année 2003. Je peux dire également que j’accorde ces montants sans que des reçus soient produits. M. Bartleman, l’avocat de l’intimée, a fait un travail professionnel au nom de sa cliente en établissant l’absence de reçus et la fragilité des présents appels, mais il s’agit d’appels suivant la procédure informelle et parfois, dans la façon de voir dans son ensemble, la Cour est convaincue que certaines dépenses peuvent être véritables qu’elles soient ou non appuyées par des reçus et des pièces justificatives. Par souci d’équité, des déductions doivent être accordées et c’est ce que j’ai l’intention de faire; les montants seront des montants globaux.
+[24] Il y a cinq postes de dépenses pour lesquels je vais permettre à l’appelant de déduire des montants modestes pour chaque année. Il s’agit des postes suivants : pour l’assurance, décrite par l’appelant comme une assurance maladie et accident, qui serait souvent pour un employé un avantage déductible, mais qui de façon certaine est importante pour une personne qui sans être un employé pourrait subir une blessure au travail et se voir priver de travail. Le montant déduit chaque année est d’environ 3 500 $ et il semble élevé. Je vais accepter 15 p. 100 de ce montant, soit 525 $. Ainsi, je vais accorder à l’appelant une déduction de 525 $ pour chaque année à l’égard de l’assurance maladie et accident.
+[25] Le poste suivant se rapporte à des honoraires, mais je ne sais pas quels sont les honoraires qu’il a vraiment payés aux gens qui ont préparé ses déclarations. Les montants déduits chaque année sont les suivants : 1 600 $ pour 2001, 1 900 $ pour 2002 et 1 900 $ pour 2003. Ces montants semblent également élevés, mais je vais accorder environ un tiers de 1 650 $, soit 550 $.
+[26] Quant aux outils, j’ai l’intention d’être généreux. L’appelant travaille avec ses mains et ses outils à entraînement pneumatique. Toute personne qui travaille dans l’environnement d’un atelier, qu’il s’agisse d’un atelier de réparations d’automobiles ou de tout endroit où sont utilisés des outils à commande mécanique, sait que ces outils font l’objet d’une utilisation intense et qu’ils s’usent rapidement. Étant donné que le coût de réparation de tels outils est excessif et comme on ne lui a accordé seulement qu’une petite déduction pour 2001 et 2003, et aucune déduction pour 2002, seulement sur la base de ses pièces justificatives, je vais lui accorder une déduction de 800 $ par année. Je ne sais pas comment une personne peut utiliser des outils à commande mécanique jour après jour, semaine après semaine, et ne pas avoir à les remplacer et les réparer, et les outils à commande mécanique sont chers.
+[27] Le montant déduit pour un téléphone cellulaire pour 2001 était de 385 $, et pour 2002 de 963 $. Pour 2003, l’appelant n’a, pour quelque motif, déduit aucun montant. Il y a un certain manque de régularité dans les dépenses parce que certaines années, comme la troisième année, il a demandé une déduction pour des taxes foncières qu’il n’a pas demandée pour l’année précédente. Je pense qu’il a besoin d’un téléphone cellulaire pour son emploi et j’accorde un montant arbitraire de 30 $ par mois, soit 360 $ par année. Finalement, pour les vêtements de travail, il affirme qu’une seule combinaison de travail coûte environ 150 $ et je peux concevoir qu’il soit nécessaire d’avoir au moins deux combinaisons par année, alors je vais accorder 300 $ par année pour les combinaisons de travail. Par conséquent, en résumé, pour chacune de ces trois années, je vais accepter que l’appelant déduise 525 $ pour l’assurance maladie et accident, 550 $ pour les honoraires du comptable parce qu’il est un entrepreneur indépendant, 800 $ pour des outils, 360 $ pour un téléphone cellulaire et 300 $ pour des vêtements de travail.
+[28] Pour l’année d’imposition 2003, il y a un montant préoccupant en cause à l’égard de la TPS. Il faut mentionner à l’honneur de M. Bartleman qu’il a soulevé l’incohérence dans la façon selon laquelle HQ a traité de la TPS, et c’est là que la mince ligne de démarcation entre un employé et un entrepreneur indépendant devient embrouillée. Comme chacun sait, il n’y a pas de TPS sur le salaire d’un employé, mais il y en a sur les notes d’honoraires envoyées par un professionnel comme un ingénieur, un comptable ou un avocat. La même chose s’applique aux entrepreneurs indépendants comme l’appelant lorsqu’il agit en tant qu’entrepreneur indépendant. Il est tenu de facturer la TPS pour ses services.
+[29] Alors, si sa note d’honoraires pour deux semaines s’élève à mille dollars, il doit facturer 70 $ au titre de la TPS. Il y a eu une certaine confusion quant à savoir si HQ lui paie son traitement et la TPS et le laisse verser la taxe sur les produits et services ou si elle retient cette TPS pour la verser elle‑même. L’appelant a témoigné qu’il paie lui‑même la TPS puisque HQ lui paie ce qu’il lui facture, et qu’ensuite il fait à HQ une note d’honoraires pour la TPS, et une fois qu’elle lui a payé le montant à cet égard, il le verse, ce qui lui donne droit à des crédits de taxe sur les intrants. C’est la meilleure preuve que nous avons à cet égard. Toutefois, à partir de 2001 et 2002 la preuve établit clairement que dans une année HQ a inclus le montant de TPS dans le revenu total de l’appelant sur le feuillet T4, ce qui laisse penser que son revenu était plus élevé de 7 p. 100 qu’il aurait dû l’être. Puis, il y a également des éléments de preuve pour 2001 et 2002 et ce montant était soustrait lorsque nécessaire dans le calcul de son revenu à des fins fiscales. Mais pour 2003, la situation est confuse parce que la pièce R‑1, à l’onglet 5, montre dans le feuillet T4 que son revenus est de 59 496 $, mais apparemment sa déclaration pour 2003 a été produite par voie électronique et il n’a pas produit une déclaration traditionnelle signée par lui. Par conséquent, un peu après, selon ce que M. Bartleman a déclaré, Revenu Canada a demandé un état des résultats des activités d’entreprise et des dépenses.
+[30] Un état des résultats des activités d’entreprise apparemment préparé par Active Accountants, le cabinet qui prépare les déclarations de revenus de l’appelant, est inclus dans la pièce R‑1, à l’onglet 3, et il montre ce montant brut de 59 496 $ comme étant le total de sa rémunération, de ses ventes, de ses commissions et de ses honoraires. Et il s’agit du montant inscrit sur le feuillet T4 pour 2003. Puis, les comptables déduisent 3 892 $ pour la TPS ce qui lui laisse un revenu brut de 55 603 $. Comme l’avocat de l’intimée l’a souligné, le document dans la pièce R‑1, à l’onglet 3, n’est pas nécessairement fiable parce qu’il ne faisait pas partie de l’ensemble de la déclaration de revenus et qu’il semble avoir été préparé à un certain moment après la production de la déclaration de l’appelant.
+[31] Par ailleurs, selon la réponse à l’avis d’appel, l’appelant a effectivement déclaré un revenu de 55 603 $ pour 2003. Je dois tenir pour acquis que lorsque sa déclaration de revenus a été préparée, le document qui se trouve à l’onglet 3 dans la pièce R‑1 existait et que quelqu’un chez Active Accounting avait véritablement fait ce calcul et réduit à 55 603 $ le revenu brut de l’appelant, indiquant qu’il avait droit à la déduction de la TPS. Dans sa réponse, le ministre a formulé l’hypothèse selon laquelle, pour 2003, l’appelant a reçu des honoraires bruts de 59 496 $, mais je pense que l’hypothèse à cet égard est erronée. Nous n’avons certainement pas la meilleure preuve du monde à cet égard, mais une fois de plus je suis enclin à donner une chance au contribuable parce qu’il a été à la merci des gens qui préparent ses déclarations de revenus et qui lui ont donné des conseils très discutables. Je veux lui donner le bénéfice du doute de sorte que, pour l’année 2003, je vais accepter que l’appelant déduise un montant pour la TPS. Puisque le ministre pensait que le montant inscrit sur le T4 était son revenu brut et qu’il diffère du relevé se trouvant dans la pièce R-1, à l’onglet 3, je vais accorder à l’appelant une déduction de 3 892 $ pour la TPS pour cette année.
+[32] En conséquence, l’appel sera accueilli en partie. Essentiellement, la plus grande partie des déductions demandées seront refusées. Je vais confirmer la cotisation à cet égard, de sorte que du total de 25 00 $ ou de 30 000 $ de déductions demandées, je vais accepter qu’il déduise un montant relativement modeste. Comme j’ai indiqué quant à ces cinq postes, il semble qu’il aura le droit de déduire environ 2 535 $, puis pour la dernière année, 2003, il aura l’importante déduction à l’égard de la TPS.
+[33] Finalement, j’ajoute simplement ce que j’ai laissé entendre, soit que je critique le fait que des gens qui conseillent l’appelant l’encouragent à penser qu’il a le droit de déduire des dépenses correspondant à plus de 40 p. 100 du revenu brut. Ils devaient, de façon pratique, savoir qu’il était un employé qui se rendait de chez lui à un lieu de travail, même s’il n’avait pas le statut d’employé suivant le sens juridique et suivant la teneur de sa déclaration de revenus. Il était considéré comme un entrepreneur indépendant, mais l’appelant a un si grand nombre des caractéristiques d’un employé quant au travail qu’il effectue et quant au lieu où il effectue ce travail que toute personne qui s’adonne à une activité consistant à conseiller des contribuables devrait être plus prudente quant aux conseils fournis à l’égard des déductions permises.
+Signé à Ottawa, Canada, ce 10e jour de décembre 2008.
+« M.A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 30e jour de janvier 2009.
+Danièle Laberge, LL.L.
+RÉFÉRENCE : 2008 CCI 669
+No DU DOSSIER DE LA COUR : 2006‑1264(IT)I
+INTITULÉ : RAHIM ZOLGHADR et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 23 février 2007
+MOTIFS DU JUGEMENT : L’honorable juge suppléant M.A. Mogan
+DATE DU JUGEMENT : Le 10 décembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat pour l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

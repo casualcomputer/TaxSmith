@@ -1,0 +1,175 @@
+---
+title: "Jackman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520947/index.do"
+last_modified: "2022-07-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 73"
+citation2: ""
+neutral_citation: "2022 TCC 73"
+decision_date: "2022-07-07"
+language: "en"
+item_id: "520947"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4536
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:32:42.158000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "16c9fd0bc18c0e13878f8a0976edf90a72ba50d460de7da9db8fcd176bea89b1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jackman v. The Queen
+
+- Citation: 2022 TCC 73
+- Decision date: 2022-07-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4536, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jackman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-07-07
+Neutral citation
+2022 TCC 73
+File numbers
+2019-1043(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-1043(IT)G
+2019-1045(IT)G
+BETWEEN:
+BRUCE JACKMAN,
+NANCY JACKMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Frank W. Quo Vadis
+Counsel for the Respondent:
+Marc Shearer
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2013 and 2014 taxation years are allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of July 2022.
+“Patrick Boyle”
+Boyle J.
+Citation:2022 TCC 73
+Date: 20220707
+Docket: 2019-1043(IT)G
+2019-1045(IT)G
+BETWEEN:
+BRUCE JACKMAN,
+NANCY JACKMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The sole issue in this appeal is to value the personal benefit to the appellant shareholders of C.A.B. Industrial Automotive Supplies Ltd (“C.A.B.”) of their personal use of a boat, the Port McNeill Explorer, owned by C.A.B. and used by it in its business activities, primarily to market its marina, fuel and provision sales to boaters in the region.
+I. The Facts
+[2] Bruce and Nancy Jackman developed a successful, substantial business based in Port McNeill on Vancouver Island over the last 5 decades. It is operated through C.A.B. providing a diversified range of goods and services to the region in which it operates, a large but remote group of small, but not insignificant, communities mostly near the water’s edge of islands of the Boughton Archipelago north of Vancouver Island. The appellants do this from Port McNeill, British Columbia via C.A.B.
+[3] Historically, C.A.B.’s business was the sale of automotive and equipment parts as the name of the company suggests. It acquired the Port McNeill Fuel Dock, which as its name suggested was a single dock from which fuel was sold and that provided a mooring for those also wanting to buy provisions. Since they acquired that fuel dock, they have built it up to be the large and successful North Island Marina.
+[4] Port McNeill is a regional hub servicing the region and the Jackman’s B.A.C. business enterprises have both grown and evolved with it. They contribute significantly to Port McNeill, providing services and provisions to the region. As the logging and related industries declined in the region, tourism, primarily by boaters, whale watchers, fishers and kayakers, has increased very much in importance to the local business economy. The Boughton Archipelago is largely only accessible by boat, floatplane or helicopter. It is a multigenerational business; the Appellants have both since largely retired and their children’s generation of the family are now running things.
+[5] B.A.C.’s business also involves float planes, helicopters, being a landlord, and a store for providing the provisions that clientele might need or want while spending time or carrying on business in the region. It formerly included a Radio Shack franchise.
+[6] Listening to and looking at the evidence, it might not be hard to picture their region, community and commercial activities appearing in a Canadian TV documentary on a documentary channel, providing the context for a Canadian reality TV show on History channel, or providing a locale for a sequel to Corner Gas or a remake of The Beachcombers.
+[7] The Jackmans operated their business ventures together. Bruce did all of the piloting of the boat, and he did the flying. Nancy was not familiar with the financial or mechanical sides of the business enterprises. One of her many active roles was as a bookkeeper, which in her case consisted largely of paying suppliers and balancing bank statements.
+[8] The boat is a 36-foot Coastal Craft. It is a “pleasure craft” by reference to its design; it is not a workboat by reference to its design construction or how it is equipped such as a tugboat, a trawler or a tanker. The name Port McNeill Explorer is in prominent large print on its hull. The Jackman’s marina is the only marina in Port McNeill. The very name encouraged boaters to explore Port McNeill. It is one of the smaller boats moored at their marina.
+[9] The primary use of the boat in the business was to market the marina directly to boaters visiting, residing, or working in the region. This was done by taking the boat out to meet boaters at all of the other smaller marinas in the region, or in the bays where they were moored. It was also used to engage with the other local marinas, and their owners and operators, as well as their clients. The moorage at these marinas turned over about weekly during the 5-month boating season. This was typical direct personal marketing. Many of these other boaters were already users of their marina given its size and location, and those who weren’t were bona fide potential clients given that they were there with their boats. It was also used to travel to, attend, and entertain at boat shows in British Columbia and Washington that the Jackmans considered key to their business and at which they rented booths for their marina. Boat shows, like marinas, are where boaters, and plan to be boaters, gather. The Jackmans did not own a boat before they bought the marina, have never taken the Port McNeill Explorer on any excursions, not even short ones they would get invited to go along on with clients, as they could not leave their daily business responsibilities during the boating season. When they did their marketing travels in the boat to other marinas and moorings, they did so mostly in the evening, after their normal workday responsibilities.
+[10] This marketing proved very successful for them. The marina’s mooring and fuel revenues increased each year. They believe that is because boating is a personal, family and social pursuit for their boater clientele (aside from those clients that are businesses who use boats commercially). This marketing could be described as creating opportunities to socialize with clients and potential clients, dining at other marinas with them, entertaining them on the Port McNeill Explorer, and generally chatting up boating in the region and their marina and facilities. They would exchange boat cards and business cards, answer questions about boating in the region, provide helpful or needed information that was not asked for, and share local and family information since they last met. Bruce made the majority of these trips solo; Nancy accompanied him about a quarter of the time. These efforts were primarily attended to on weekends when boat traffic was higher.
+[11] The boat was also used in other aspects in the C.A.B. business activities for incidental transportation. For instance, it was used to deliver parts to commercial activities further in/down the Archipelago. Given it was used primarily for marketing existing and new clients, the boat was never allowed to be used for fishing or to transport any fishing gear or tackle.
+[12] The boat was fully insured for these disclosed uses.
+[13] Personal use of the Port McNeill Explorer was very occasional, less than a half-dozen times taking friends or family or visiting relatives out in the harbour immediately in front of the marina to get a better view of watching the whales that could be seen from the shore and docks. It was also used no more than a half-dozen times in the off-season when it was moored in a boathouse in Nanaimo for the Jackmans to spend the night sleeping in its V-berth instead of the local motel while waiting for the morning ferry to the mainland. It is not clear that all of those trips to the mainland were unrelated to the business.
+[14] In each of the two years in question, the Jackmans recorded and paid (by way of reducing shareholder loans) $18,000 to C.A.B. in respect of their personal use of the boat. This was done in consultation with their accountant, and the Jackmans thought that was a conservatively high amount in the circumstances.
+[15] The Court finds, and the respondent acknowledged, that there are no issues with respect to the Jackmans’ credibility. The Jackmans readily acknowledged any shortcomings with respect to the reliability of their evidence as result of their level of knowledge or particular business activities or their fading memory due to time and age, etc. The appellants were the only witnesses in this appeal.
+II. Specific Findings
+[16] After considering the evidence and the parties’ submissions carefully, I find that the evidence, weighed in its totality, is entirely clear on a number of points. I make the following findings:
+- The Port McNeill Explorer was acquired by C.A.B. for business purposes. It was owned, used and available for use primarily for business purposes.
+- The personal use of the boat, being used as a boat, as opposed to with nobody on it other than for purposes of repairing it, winterizing it or getting it ready for the season, was in the 5 percent range. That is, substantially all of its use as a boat was for bona fide business purposes of C.A.B.’s business enterprises and activities [1] .
+- There is no support whatsoever for the proposition that the Jackmans used their role as shareholders to use their company’s resources to buy a boat so that it would be available to them for their personal use. Even though a benefit has been enjoyed by the Jackmans from their limited personal use of the boat which was accounted for financially, that boat was neither acquired or held by C.A.B. for the purposes of providing such a benefit.
+- The $18,000 that the appellants paid to C.A.B. each year to account for their occasional personal use of the Port McNeill Explorer was not below the range of a reasonable fair market value for the Jackmans’ personal use of the boat, given what evidence is before the Court as to their personal use and as to valuing that use.
+III. Law and Analysis
+[17] All of the use of the Port McNeill Explorer in marketing C.A.B.’s business was bona fide legitimate marketing. There was virtually no evidence that could sustain the personal use of the boat as more than incidental, much less that it “was used exclusively for personal use” by the appellants, and that it “was not used for promoting [B.A.C.’s] business” as set out in the reply.
+[18] While it makes sense that CRA might want to review the use of an expensive pleasure craft by a marina owner operator, it can be noted that in this case the appellants’ evidence was very much the same as the detailed answers given in written discovery, and the respondent did not call any witnesses with contrary evidence or bring contradictory evidence with which to challenge the appellants’ testimony. Even after the evidence was all before the court, unchallenged even as to credibility, this appeal carried on into its second day for argument. This all appears to have been driven by one or more CRA officials who did not attend for any of the evidence. It is the Department of Justice that represents the respondent Her Majesty the Queen. CRA is not Justice’s client in a solicitor-client relationship. That is not changed by any funding agreement between the two departments. The respondent needs to be mindful of that, and perhaps especially so where, as here and is often the case, the “instructing” CRA auditor, litigation agent, or appeals officer does not even attend the evidence portion of the hearing.
+[19] The Act impose express limitations on the deductibility of certain categories of business expenses such as meals, golf, yachts and sporting events etc. These restrictions are not engaged in these appeals where the sole issue is what benefits were received by the Jackmans personally.
+[20] CRA has not been allowed by the courts to simply second-guess a business’s marketing strategy or efforts, even if they turn out to be unsuccessful in generating revenue. In Matt Harris & Son Ltd v HMQ, 2000 TCJ No. 849, former Chief Justice Rip wrote:
+[49] The appellant incurred the advertising expenses for the purpose of gaining and producing income from its business. The decision to advertise was a business decision made in order to realize income. The purpose of the expenses was to increase the appellant's business through new contacts and leads for the benefit of the wood and lumber business.
+[50] The tax authority has no business telling a businessperson how to run that person's business. Advertising expenditures take many forms: radio, television, newspapers (local, provincial, national), sponsorship or ownership of sports teams, tournaments, community events . . . the list is endless. A form of advertising that is beneficial to one business is not necessarily favourable to another business or even a business' competitor. Each business must have the freedom to choose its own form of advertising.
+[51] A business may opt to advertise an activity in which its owner (or principal shareholder of the corporation owning the business) has a keen interest or a degree of personal satisfaction. There is no reason why the expense of a particular form of advertising should be disallowed by the fisc solely because of the owner's interest, satisfaction or, as in the appeal at bar, participation in the advertising or remoteness from its business. The fact that an owner of a business (or a director of a corporation) may experience a vicarious satisfaction from the form of advertisement does not necessarily lead to the conclusion that the cost of the advertisement should be disallowed. If the expense of the advertisement, whatever it is, is incurred by the taxpayer for the purpose of gaining or producing income from its business and the expense is reasonable in the circumstances, the expense ought to be deductible in computing income. This is what the Act dictates.
+[52] However, when the form of advertising has a significant personal element, the taxpayer has a greater than normal onus to establish that the expense was truly incurred for the purpose of earning income from the business. It is quite possible that an expense may serve the needs of both the business and the shareholder and, in such a case, one may have to determine the primary purpose of the expense or, perhaps, apportion the expense among the business and the shareholder. This was not raised in the pleadings or at trial and I need not consider whether the Act would support such an approach.
+Reference may also be made to Bilous v HMQ, 2011 TCC 154, involving a Snowmobile Museum used to promote a canola seed and farm chemicals business.
+[21] As I wrote in Jolly Farmer Products Inc. v. HMQ, 2008 TCC 693:
+[3] Chief Justice Bowman is a person with what even Voltaire would agree is an uncommon amount of common sense. It is clear from his reasons that he did not consider this a close case and was of the view that the issue involved did not warrant such a long trial – perhaps no trial at all. I believe it is also fair to say that his reasons fixed the blame for this squarely on the Respondent. Three paragraphs out of his reasons are of particular import:
+13 . . . Here, I think the CRA has become fixated (counsel for the appellant used the word “mesmerized”) on two things — the fact the employees are shareholders, and the fact that they profess and adhere to certain basic Christian beliefs reminiscent of the early Church. These facts are, in my view, of no significance. Once we get rid of these two red herrings and focus on the fact that the appellant provides its employees with living and other facilities, the provision of those facilities becomes a perfectly normal and ordinary cost of carrying on the appellant’s business.
+14 I think the Minister’s approach to this problem results from a confusion between (or perhaps a melding of) two or more concepts. An individual cannot deduct in computing his or her income “personal or living expenses”. The Minister seems to think, I gather, that the cost to an employer of providing to its employees living amenities (or the capital cost of property used for that purpose) falls equally within that prohibition. Moving on from this fallacious inarticulate premise the Minister then seeks to require the employer to show that its business decision to provide accommodation to its employees is commercially justifiable and is a better way of doing business than some other method. In this way the fallacy of the original premise is compounded and is exacerbated by the fact that the Minister, in some way that I cannot fathom, throws into the mix the fact that the employees are also shareholders and also have strong religious beliefs. Then, even after the employer, Jolly Farmer Products Inc., overwhelmingly demonstrates (unnecessarily in my view) that its business organization results in a resounding commercial success, the Minister still hangs on with the tenacity of grim death to his original error and argues that the appellant should have adopted a way of doing business that the Minister finds more palatable, even though it is less economic. Mit der Dummheit kämpfen Götter selbst vergebens.
+24 This case is an excellent example of the CRA seeking to substitute its business judgment for that of the taxpayer. The alternatives suggested by the respondent would have made the operation far less profitable. The way in which the appellant chooses to carry on its highly successful commercial operation is a business decision and the Minister of National Revenue has no right to substitute his business judgment and advance other alternatives that are more palatable to him. (See for example Gabco Limited v. M.N.R., 68 DTC 5210.)
+[22] Once it is established that business marketing activities were bona fide and primarily undertaken for business purposes, and that the expenses were themselves reasonable, it does not matter that the marketing involves socializing with clients, potential clients and/or other persons or entities relevant to its business. Nor does it matter that the business owner is good at it—or even enjoys it. It is normal for Canadian business owners to maintain, establish or enlarge relationships with customers, suppliers and clients over pleasurable social activities such as lunch or dinner, going to a sports game, attending a music festival, playing golf, etc. It is hardly surprising or suspicious that a boating business would conduct such activities at boating events and venues and would use a boat for such purposes.
+[23] It is also not relevant that the business marketing involved collaborating with other marinas to promote the region and its offerings, and who may compete with their marina in some respects. One need only think of every local and national industry sector trade association—from grocers to banks to dentists and insurance brokers, and every Canadian city or town’s business improvement association or chamber of commerce.
+[24] It is further not relevant that the Jackmans, whether Bruce alone or together with Nancy, kept going back to one marina more than others to mingle with other boaters, dine at or near that marina with them, and/or entertain them over drinks and fine fare on the Port McNeill Explorer. The saying is not that fishers want to go where the fish are; it is that they want to go where the fish are biting. What could possibly make more sense than investing more time in marketing activities that have proven more successful than others?
+[25] Having found that the business’s acquisition, holding and use of the Port McNeill Explorer was all for bona fide business purposes, the remaining question is whether the Jackmans’ personal use of C.A.B.’s boat was properly accounted for. I have found that their personal use was in the 5 percent range. While I was not provided with a high degree of information by either party to value the benefit to the Jackmans of that use of the boat, or how the respondent arrived at the amount it used in the reassessments, I am able to conclude on what less than perfect evidence I have that, on a balance of probabilities, that value did not exceed the $18,000 that they accounted to C.A.B. for in each of the years in question [2] .
+IV. Disposition
+[26] The appeals are allowed, with costs. If the parties cannot agree on costs within 30 days, they may file written submissions of no more than 10 pages (excluding attachments) each.
+Signed at Ottawa, Canada, this 7th day of July 2022.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2022 TCC 73
+COURT FILE NO.:
+2019-1043(IT)G
+2019-1045(IT)G
+STYLE OF CAUSE:
+BRUCE JACKMAN
+NANCY JACKMAN
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, BC
+DATE OF HEARING:
+May 4, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+July 7, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Frank W. Quo Vadis
+Counsel for the Respondent:
+Marc Shearer
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Frank W. Quo Vadis
+Firm:
+Koffman Kalef LPP
+Vancouver, British Colombia
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Use can have different meanings, both as a verb as a noun, depending upon the context. In this case, there appears to be misunderstandings around that word as used in tax law, as used in insurance documents, and as used by boaters, who might be referring to the mechanical use of the engine or to the time on the water and out of its mooring. Non-boaters might use the term in reference to boats very differently.
+[2] That is the approach I was required to take in Laliberté v HMQ, 2018 TCC 186, and that approach was upheld by the Federal Court of Appeal, 2020 FCA 97 at paragraph 56.

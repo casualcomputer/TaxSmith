@@ -1,0 +1,468 @@
+---
+title: "1716790 Ontario Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/179878/index.do"
+last_modified: "2016-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 189"
+citation2: ""
+neutral_citation: "2016 TCC 189"
+decision_date: "2016-08-31"
+language: "en"
+item_id: "179878"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2877
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:43:25.487000+00:00"
+cases_cited_count: 12
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ddcf07f54b2eb59a148c62313fe66a022a30414ee1a1dd43ad40b27a06ac62bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1716790 Ontario Inc. v. The Queen
+
+- Citation: 2016 TCC 189
+- Decision date: 2016-08-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2877, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1716790 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-08-31
+Neutral citation
+2016 TCC 189
+File numbers
+2014-2383(GST)G, 2014-2385(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-2383(GST)G
+2014-2385(IT)G
+BETWEEN:
+1716790 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion to compel heard on January 29, 2016, at Ottawa, Ontario.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Paul C. LaBarge
+Anne M. Tardif
+Counsel for the Respondent:
+Pascal Tétrault
+ORDER
+UPON motion made by the respondent pursuant to section 110 of the Tax Court of Canada Rules (General Procedure) for an Order:
+Directing the appellant to answer questions that the appellant failed or refused to answer at the examination for discovery held on June 24, 2015;
+Directing the appellant to provide information and documents to fulfil undertaking number 12 (question 215 at p. 94) given at the examination for discovery held on June 24, 2015;
+Directing the appellant’s nominee to re-attend the examination for discovery, at the expense of the appellant, to answer the questions that she failed or refused to answer during the discovery, and answer any follow-up questions provided in response to the undertakings;
+Directing the appellant to pay the costs of this motion, cost thrown away and the costs of the continuation of the examination for discovery;
+AND UPON reading the materials filed;
+AND UPON hearing counsel for the parties;
+The motion is allowed in part, the appellant will have to answer questions 41, 92, 182, 202, 203, 210, 215 and 396, in accordance with the reasons.
+A conference call will be held to determine how to proceed and to establish time limits.
+Costs will follow the cause.
+Signed at Ottawa, Canada, this 31st day of August 2016.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2016 TCC 189
+Date: 20160831
+Docket: 2014-2383(GST)G
+2014-2385(IT)G
+BETWEEN:
+1716790 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D’Auray J.
+I. OVERVIEW
+[1] The appellant has filed three appeals before this Court. In appeal number 2014-2385 (IT)G, the appellant has raised two issues. The first issue is whether it should report the proceeds of the sale of the Stonehaven Manor retirement residence as business income or as a capital gain in its 2008 taxation year. The second issue concerns the disallowance of the appellant’s treatment of its new retirement residence “Windsor Park” as a replacement property for Stonehaven Manor under section 44 of the Income Tax Act (the “ITA”).
+[2] Appeal number 2014-2383(GST)G deals with the fair market value of Phase II of the Stonehaven Manor retirement residence reported by the appellant as self-supply in accordance with subsection 191(4) of the Excise Tax Act (the “ETA”) for the period ending November 30, 2006. The Minister of National Revenue (the “Minister”) has increased the fair market value of the Stonehaven Manor which in turn has increased the amount of self-supply reported by the appellant.
+[3] Appeal under number 2014-3835(IT)G deals with whether the appellant should report the proceeds of the sale of the Windsor Park retirement residence as business income or as a capital gain in its 2013 taxation year.
+[4] This motion concerns appeals number 2014-2383(GST)G and 2014‑2383(GST)G only.
+[5] The appellant’s position is that its business is operating retirement residences and not building and selling retirement residences. Therefore, the appellant argues that it correctly reported a capital gain on the sale of the Stonehaven Manor retirement residence in its 2008 taxation year.
+[6] The respondent’s position is that the appellant is in the business of building and selling retirement residences at a profit and that consequently the Minister has correctly reassessed the appellant to include the sale of the Stonehaven Manor residence as income from a business.
+[7] On June 24, 2015, as part of the examination for discovery (the “discovery”), the respondent examined the appellant’s nominee, Ms. Diane Chénier Thauvette (“Ms. Thauvette”).
+[8] Ms. Thauvette, on the advice of counsel for the appellant, refused to answer some of the questions asked by the respondent during the discovery. In addition, the appellant did not fulfil an undertaking given at the discovery.
+[9] On January 21, 2016, the respondent filed a Notice of Motion before this Court, pursuant to section 110 of the Tax Court of Canada Rules (General Procedure) [1] (the “Rules”), requesting this Court for an Order:
+Directing the appellant to answer questions that the appellant failed or refused to answer at the examination for discovery held on June 24, 2015;
+Directing the appellant to provide information and documents to fulfil undertaking number 12 (question 215 at p. 94) given at the examination for discovery held on June 24, 2015;
+Directing the appellant’s nominee to re-attend the examination for discovery, at the expense of the appellant, to answer the questions that she failed or refused to answer during the discovery, and answer any follow-up questions provided in response to the undertakings;
+Directing the appellant to pay the costs of this motion, cost thrown away and the costs of the continuation of the examination for discovery;
+[10] For the reasons that follow, I would allow the motion in part.
+II. FACTUAL BACKGROUND
+[11] The appellant was incorporated on October 1, 1998, under the name “1310021 Ontario Inc.” and subsequently operated under that name. On April 19, 2007, the appellant amalgamated with a related corporation and began operating under its current name.
+[12] In August 1999, the appellant completed the construction of the Belcourt Manor retirement residence in Orleans, Ontario. This residence was sold in November 2002 to Maestro Limited Partnership for $10,250,000.
+[13] On December 11, 2003, the appellant used the proceeds from the sale of the Belcourt Manor to acquire the land on which the Stonehaven Manor retirement residence was built.
+[14] The Stonehaven Manor was constructed in two phases: Phase I was completed on September 30, 2004 and Phase II was completed on October 1, 2006.
+[15] On October 30, 2006, the appellant entered into an agreement of purchase and sale of the Stonehaven Manor with an arm’s length purchaser, Allegro Residences, which is a division of Maestro Limited Partnership. The sale was completed on May 2, 2007 for $26,000,000. In its tax return for its taxation year ending April 19, 2008, the appellant reported a capital gain of more than $15,000,000.
+[16] In February 2008, the appellant declared and paid capital dividends in the amount of $4,031,931. The appellant also claimed a deferral of the gain realized on the sale of Stonehaven Manor pursuant to section 44 of the ITA.
+[17] On April 4, 2008, the appellant used the proceeds of the sale of Stonehaven Manor to purchase land to build a new retirement residence, the Windsor Park Manor.
+[18] On May 24, 2012, the appellant entered into an agreement of purchase and sale for the Windsor Park Manor with an arm’s length purchaser, Regal Lifestyle Communities Inc., for $36,600,000. The appellant reported a capital gain of $11,011,166 and a taxable gain of $5,505,583.
+[19] The corporate structure of the appellant is as follows:
+- Mr. Réjean Lemay (Mr. Lemay) owns 30% of the outstanding shares of the appellant through a wholly-owned corporation 1323456 Ontario Inc.;
+- The remaining shares of the appellant are owned directly or indirectly by Jacques Potvin (30%), Paul Cuerrier (30%) and Diane Thauvette (10%).
+[20] The Minister reassessed the appellant for its 2008 taxation year relying on different assumptions of fact, namely, that Mr. Lemay was the controlling mind of the appellant and of other corporate entities involved in the building and selling of retirement residences and that the intention of Mr. Lemay and the other shareholders of the appellant was to build retirement residences and to sell them at a profit.
+[21] Another assumption of fact made by the Minister and set out in the Reply to Notice of Appeal is that Mr. Lemay was directly or indirectly involved as a shareholder in the building and selling of the following twelve retirement residences:
+Residence
+Shares of Réjean Lemay (directly or indirectly)
+Built
+Sold
+Years held
+Purchaser
+Sale of assets vs. Shares
+1
+Vankleek Hill
+50%
+1989
+1993
+4
+Guy Desjardins
+S
+2
+Arnprior Villa
+33%
+1990
+March 1998
+8
+Central Lodge Park Ltd.
+S
+3
+Queenswood Villa
+25%
+1992
+March 1998
+6
+Central Lodge Park Ltd.
+S
+4
+Ogilvie
+25%
+1995
+March 1998
+3
+Central Lodge Park Ltd.
+A
+5
+Stittsville Villa
+25%
+(former spouse)
+1996
+February 1999
+3
+Central Lodge Park Ltd.
+S
+6
+Belcourt Manor
+25%
+1999
+June 2002
+3
+Maestro Limited Partnership
+A
+7
+Pembroke Heritage Manor
+25%
+1999
+October 2007
+8
+Maestro Limited Partnership
+A
+8
+Barrhaven Manor
+18%
+(common law spouse)
+1999
+2005
+6
+Maestro Limited Partnership
+S
+9
+Stonehaven
+30 %
+2004
+May 2007
+3
+Family members
+A
+10
+Alta Vista Manor
+16,67%
+2004
+2006
+3
+Maestro Limited Partnership
+S
+11
+Portobello Manor
+12,5% (preferred) + 11.25%
+(common
+2008
+2012
+4
+Regal Lifestyle Communities Inc.
+A
+12
+Windsor
+25%
+2009
+2012
+3
+Regal Lifestyle Communities Inc.
+A
+III. QUESTIONS IN ISSUE
+[22] Whether the appellant is required:
+- to respond to the questions that it refused to answer;
+- to provide complete answers to questions to which it did not properly respond, and
+- to answer an undertaking it gave at the discovery.
+IV. POSITION OF THE PARTIES
+[23] Most of the questions that have not been answered by the appellant deal with Mr. Lemay’s trading history, namely building and selling retirement residences.
+A. RESPONDENT’S POSITION
+[24] The respondent argues that the questions should be answered since the questions are relevant as they deal with issues raised in the pleadings.
+[25] The respondent submits that in decisions dealing with trading, where the Courts had to determine whether a taxpayer was operating a business or whether the taxpayer was in the business of building and selling at a profit, this Court and the Federal Court of Appeal have indicated that the trading history of shareholders and officers should be considered in determining the intention of the corporation. Therefore, the respondent submits that questions dealing with Mr. Lemay’s trading history should be answered.
+[26] The respondent also submits that questions asked of Ms. Thauvette, with respect to certain allegations made by Ms. Lemay in an affidavit filed by her in the context of contested divorce proceedings against Mr. Lemay, are relevant because her affidavit supports facts pleaded in the Reply to Notice of Appeal. In the respondent’s view, Mr. Lemay should not be considered a third party since he is a shareholder, the president and an employee of the appellant.
+[27] Finally, the respondent argues that the questions do not constitute a fishing expedition since the questions are relevant to the matters in issue.
+B. APPELLANT’S POSITION
+[28] The appellant submits that it properly refused to answer the questions dealing with Mr. Lemay’s trading history. Mr. Lemay is not the appellant but a third party in this appeal.
+[29] The appellant submits that the questions relating to the personal affairs of Mr. Lemay are not relevant. It submits that it is only in exceptional circumstances that questions related to third party information should be allowed. Accordingly, Ms. Thauvette does not have to inform herself and to provide answers with respect to questions dealing with Mr. Lemay’s trading history. The appellant contends that the scope of discovery should be limited to questions related to the party being examined in this appeal, the appellant.
+[30] In addition, the appellant also argues that it is not because a fact is pleaded that it is automatically relevant. The appellant refers to subsection 95(2) of the Rules which, in its view, limits the scope of discovery to reasonable inquiries. Reasonable inquiries relating to third parties are limited to the affairs of the appellant. The appellant submits that while some of the questions posed by the respondent dealing with Mr. Lemay’s trading history may be raised at trial, they may not be raised during the discovery.
+[31] The appellant also submits that the questions aimed at having Ms. Thauvette confirm allegations made by Ms. Lemay in an affidavit in the context of divorce proceedings against Mr. Lemay are irrelevant. These questions concern the personal affairs of Ms. Lemay and Mr. Lemay in the context of a contested divorce. Moreover, the appellant submits such questions seek hearsay.
+[32] Finally, the appellant claims that the respondent is engaged in a fishing expedition to support the Minister’s assumption that Mr. Lemay is the controlling mind of the appellant, by asking questions with respect to the personal affairs of Mr. Lemay, namely his trading history. The appellant submits that it does not have to answer questions dealing with Mr. Lemay’s personal affairs.
+V. APPLICABLE LAW
+A. LEGISLATION
+[33] The scope of discovery is governed by section 95 of the Rules. It provides as follows:
+95. Scope of Examination
+(1) A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relating to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that,
+(a) the information sought is evidence or hearsay,
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+(c) the question constitutes cross-examination affidavit of documents on the of the party being examined.
+(2) Prior to the examination for discovery, the person to be examined shall make all reasonable inquiries regarding the matters in issue from all of the party’s officers, servants, agents and employees, past or present, either within or outside Canada and, if necessary, the person being examined for discovery may be required to become better informed and for that purpose the examination may be adjourned.
+(3) [Repealed SOR/2014-26, s. 10.]
+(4) A party may on an examination for discovery obtain disclosure of the names and addresses of persons who might reasonably be expected to have knowledge of transactions or occurrences in issue in the proceeding, unless the Court orders otherwise.
+[34] Section 110 of the Rules provides that a party may ask the Court for an Order compelling the nominee to answer the questions that he or she has refused to answer, to provide complete and responsive answers and to answer questions that he or she undertook to answer. Section 110 states as follows:
+110. Sanctions for Default or Misconduct by Person to be Examined
+Where a person fails to attend at the time and place fixed for an examination in the notice to attend or subpoena, or at the time and place agreed on by the parties, or refuses to take an oath or make an affirmation, to answer any proper question, to produce a document or thing that that person is required to produce or to comply with a direction under section 108, the Court may,
+(a) where an objection to a question is held to be improper, direct or permit the person being examined to reattend at that person’s own expense and answer the question, in which case the person shall also answer any proper questions arising from the answer,
+(b) where the person is a party or, on an examination for discovery, a person examined on behalf of or in place of a party, dismiss the appeal or allow the appeal as the case may be,
+(c) strike out all or part of the person’s evidence, including any affidavit made by the person, and
+(d) direct any party or any other person to pay personally and forthwith costs of the motion, any costs thrown away and the costs of any continuation of the examination.
+B. CASE LAW
+[35] There are many decisions dealing with the purpose and scope of a discovery. It is not necessary to review them all, as the general principles are well established though, as here their application often leads to dispute. I will also review decisions dealing with questions where a nominee is asked to provide information from a third party.
+[36] With respect to the purpose of a discovery, Justice Dawson of the Federal Court of Appeal stated in Lehigh Cement Limited, [2] that:
+The general purpose of examination for discovery is to render the trial process fairer and more efficient by allowing each party to inform itself fully prior to trial of the precise nature of all other parties’ positions so as to define fully the issues between them. It is in the interest of justice that each party should be as well informed as possible about the position of the other parties and should not be put at a disadvantage by being taken by surprise at trial. It is sound policy for the Court to adopt a liberal approach to the scope of questioning on discovery since any error on the side of allowing questions may always be corrected by the trial judge who retains the ultimate mastery over all matters relating to admissibility of evidence; on the other hand any error which unduly restricts the scope of discovery may lead to serious problems or even injustice at trial.
+[37] It is also a well-known principle that a question can only be posed at discovery if the question is relevant.
+[38] In Lehigh Cement Limited, Justice Dawson of the Federal Court of Appeal held that a question will be considered relevant if there is a possibility that it will help the party asking the question, damage the position of the opposing party or lead to a series of questions that will accomplish one of the two precedent possibilities. [3] However, she also held, that even if relevance is established, the Court still has discretion to disallow a question. [4] She explained as follows:
+35 Where relevance is established the Court retains discretion to disallow a question. The exercise of this discretion requires a weighing of the potential value of the answer against the risk that a party is abusing the discovery process. See Bristol-Myers Squibb Co. v. Apotex Inc. at paragraph 34. The Court might disallow a relevant question where responding to it would place undue hardship on the answering party, where there are other means of obtaining the information sought, or where “the question forms part of a ‘fishing expedition’ of vague and far-reaching scope”: Merck & Co. v. Apotex Inc., 2003 FCA 438, 312 N.R. 273 at paragraph 10; Apotex Inc. v. Wellcome Foundation Ltd., 2008 FCA 131, 166 A.C.W.S. (3d) 850 at paragraph 3.
+[39] In Kossow, [5] Justice Valerie Miller of this Court provided a useful summary of the principles applicable to a discovery. At paragraph 60 of her decision, she stated as follows:
+1. The principles for relevancy were stated by Chief Justice Bowman and are reproduced at paragraph 50:
+a) Relevancy on discovery must be broadly and liberally construed and wide latitude should be given;
+b) A motions judge should not second guess the discretion of counsel by examining minutely each question or asking counsel for the party being examined to justify each question or explain its relevancy;
+c) The motions judge should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant;
+d) Patently irrelevant or abusive questions or questions designed to embarrass or harass the witness or delay the case should not be permitted.
+2. The threshold test for relevancy on discovery is very low but it does not allow for a “fishing expedition”: Lubrizol Corp. v. Imperial Oil Ltd., [1997] 2 FC 3.
+3. It is proper to ask for the facts underlying an allegation as that is limited to fact-gathering. However, it is not proper to ask a witness the evidence that he had to support an allegation: Sandia Mountain Holdings Inc. v. The Queen, [2005] 2 CTC 2297.
+4. It is not proper to ask a question which would require counsel to segregate documents and then identify those documents which relate to a particular issue. Such a question seeks the work product of counsel: SmithKline Beecham Animal Health Inc. v. The Queen, [2001] 2 CTC 2086.
+5. A party is not entitled to an expression of the opinion of counsel for the opposing party regarding the use to be made of documents: SmithKline Beecham Animal Health Inc. v. The Queen, [2001] 2 CTC 2086.
+6. A party is entitled to have full disclosure of all documents relied on by the Minister in making his assessment: Amp of Canada Ltd., v. Canada, [1987] FCJ No. 149.
+7. Informant privilege prevents the disclosure of information which might identify an informer who has assisted in the enforcement of the law by furnishing assessing information on a confidential basis. The rule applies to civil proceedings as well as criminal proceedings: Webster v. The Queen, 2003 DTC 211.
+8. Under the Rules a party is not required to provide to the opposing party a list of witnesses. As a result a party is not required to provide a summary of the evidence of its witnesses or possible witnesses: Loewen v. The Queen, [2007] 1 CTC.
+9. It is proper to ask questions to ascertain the opposing party’s legal position: Six Nations of the Grand River Band v. Canada (Attorney General), [2000] OJ No. 1431.
+10. It is not proper to ask questions that go to the mental process of the Minister or his officials in raising the assessments: Webster v. The Queen, 2003 DTC 211.
+[40] Justice Campbell Miller in HSBC, [6] after quoting Justice Miller in Kossow, also stated that hypothetical questions calling for speculation and an expression of opinion should not be posed during an examination for discovery. He also added two key principles with respect to discovery:
+1. The examining party is entitled to “any information, and production of any documents, that may fairly lead to a train of inquiry that may directly or indirectly advance his case, or damage that of the opposing party”: Teelucksingh v. The Queen;
+2. The court should preclude only questions that are “(1) clearly abusive; (2) clearly a delaying tactic; or (3) clearly irrelevant”: John Fluevog Boots & Shoes Ltd. v. The Queen;
+[41] Similarly, Chief Justice Rossiter of this Court, stated in CIBC [7] that “the threshold for relevancy on discovery is very low but does not allow for a fishing expedition, abusive questions, delaying tactics or completely irrelevant questions.” [8]
+[42] The expression “fishing expedition” was defined in Harris, [9] as follows:
+[45] . . . The term “fishing expedition” has been generally used to describe an indiscriminate request for production, in the hope of uncovering helpful information.
+[43] Justice Mahoney of the Federal Court, in Monarch Marking Systems, [10] relied on the definition of fishing expedition given by Lord Esher in Hennessy. [11] Lord Esher stated as follows with respect to what constitutes a fishing expedition:
+. . . In other words, the plaintiff wishes to maintain his questions, and to insist upon answers to them, in order that he may find out something of which he knows he nothing now, which might enable him to make a case of which he has not knowledge at the present. If that is the effect of the interrogatories, it seems to me that they come within the description of “fishing” interrogatories and on that ground cannot be allowed.
+[44] In GLP NT, [12] Justice Little of this Court, relying on Sydney Steel Corp. v Omisalj (The), [1992] 2 F.C. 193 stated, that the propriety of questions asked at discovery is less strict than questions asked as trial. At paragraph 18 of his reasons, he said as follows:
+Counsel for the parties are essentially agreed that the standard for propriety of a question asked in discovery is less strict than the test for admissibility of evidence at trial and the appropriate standard is whether the information solicited by question may be relevant to the matters which at the discovery stage are at issue, on the basis of the pleadings filed by the parties.
+[45] With respect to questions asked with regard to Mr. Lemay as a third party, one of the leading authorities is the decision of the Federal Court of Appeal in Crestbrook. [13] Both parties rely on that decision to support their positions.
+[46] Crestbrook was an income tax appeal. The question in issue was the reasonableness of the quantum of the discount given by Crestbrook on the pulp price charged to its two non-resident shareholder corporations, Honshu and Mitsubishi.
+[47] In Crestbrook, the respondent asked during the discovery questions with respect to the role played by Honshu and Mitsubishi in the establishment of the discount rate. The nominee in Crestbrook undertook to respond to the questions and wrote to Honshu and Mitsubishi to obtain the information. Both corporations refused to answer.
+[48] Chief Justice Isaac of the Federal Court of Appeal, had to decide whether a corporate party to an action, which is engaged in an international business arrangement with non-resident controlling shareholders, can be required to obtain from the shareholders who are not parties to the action, answers to questions posed during the discovery which are relevant to the issues in dispute.
+[49] In Crestbrook, Chief Justice Isaac recognized that the Court has in appropriate circumstances the ability to require answers from a third party, but the Court should do so only where it is shown that it is in the interests of the administration of justice to look behind the corporate veil for the purpose of the case and only in special situations.
+[50] Chief Justice Isaac referred to the decision in Monarch Marking Systems [14] where Justice Mahoney had to decide a case involving foreign parties where the answers were within the knowledge of foreign related corporations. Justice Mahoney compelled the third parties to answer. He was of the opinion that the nominee was able to obtain the proper information from the third party related corporations. Furthermore, Justice Maloney held that the notion of the corporate veil should not obstruct the administration of justice.
+[51] In Crestbrook, Chief Justice Isaac decided that Honshu and Mitsubishi had to answer the questions. In his reasons, he stated an important principle in dealing with third party discovery, namely that if a question is relevant for the matter at issue and is defined in the pleadings, the questions should be answered. He stated as follows at paragraph 55 of his reasons:
+. . . To repeat, what we are concerned with here is the degree to which each of the parties must supply the other with information in order to ensure that the issues raised by the pleadings are explored fully, to borrow the words of Strayer J. in Champion Truck Bodies v. R., (supra) . . .
+[52] In a more recent decision dealing with third parties, GLP NT, supra, a motion was filed before this Court to compel the appellant’s nominee to answer questions about the relationships and connections amongst various corporate entities, which were all interacting together in one way or another. Both parties in GLP NT referred to the decision in Crestbrook.
+[53] Justice Little decided that the questions dealing with respect to third party information should be answered. He was of the view that the corporations were closely connected and that the information could be relevant to the respondent’s position. At paragraphs 26, 27 and 28 of his reasons, he concluded by stating:
+[26] I do not agree with the narrow view adopted by counsel for the Appellant and I accept, in general, the arguments raised by counsel for the Respondent.
+[27] In my view the so-called “Edper Group of Companies” are so connected and interrelated with the Appellant that “in the interest of justice” the Appellant’s witness should be compelled to answer the majority of the questions outlined above.
+[28] In reaching my conclusion I have determined that the information requested by counsel for the Respondent could be relevant in establishing the Respondent’s position or in disposing of the position adopted by the Appellant. If Mr. Myhal did not provide answers to these questions the appeal would amount to a “trial by ambush” which a Court will not permit. (See Elders Grain Co. v. Ralph Misener, 2000 F.C.J. No. 1862.)
+[54] In GLP NT, Justice Little did not rely upon the alter ego approach in compelling the appellant to obtain information from third party. Instead, he relied on the fact that the appellant was connected and interrelated with the third parties, the questions were relevant and that the interest of justice would be serve since a trial by ambush would be avoided.
+[55] In Michelin North America, [15] Justice Tremblay Lamer relying on the decision of Justice Hughessen in Eli Lilly v Apotex, [2000] FCJ No 154, also concluded that the appellant had to provide information from a related third party.
+[56] To complete this survey of cases involving third parties, Chief Justice Rossiter of this Court in CIBC, supra, also ordered CIBC to provide information from a third party, since the question was relevant to the matter in litigation and defined in the pleadings.
+[57] From these cases, it is clear that the taxpayer does not have to be the alter ego of the third party to be required to provide information from the third party.
+[58] Therefore, since the decision of Crestbrook, the courts have required taxpayers to answer questions seeking third party information, if the information sought is relevant to the matter in litigation, defined by the pleadings and if it is in the interests of the administration of justice to do so.
+[59] That said, the case law does recognize limits on what can be asked. As already mentioned, relevance is the principal limitation. Other limitations exist. Questions that are vague, hypothetical, broad, over-reaching, abusive, need not be answered. Nor need questions amounting to a fishing expedition be answered. Equally, questions need not be answered where responding would place undue hardship on the answering party.
+VI. ANALYSIS
+[60] I will first analyse the main objections raised by the appellant for refusing to answer some of the questions asked by the respondent during the discovery of Ms. Thauvette. Secondly, I will analyse each question that the appellant refused to answer.
+A. GENERAL ANALYSIS
+[61] The main objection of the appellant at discovery is based on relevance. The appellant argues that the respondent’s questions are not relevant to the issues in appeal.
+[62] Relying on the Crestbrook’s decision, the appellant argues that its nominee does not have to answer questions relating to Mr. Lemay history of trading since he is not a party to the appeal, being a third party. The appellant submits that the facts of this appeal are distinguishable from the facts in Crestbrook. Contrary to Crestbrook, where Chief Justice Isaac found that the appellant corporation was controlled by Honshu and Mitisubishi, this is not the situation at bar. Mr. Lemay holds a minority interest in the appellant. Nor can it be said that the appellant was the alter ego of Mr. Lemay as was the case in Crestbrook. The appellant argues, relying on Crestbrook, that a Court may require a nominee to answer questions with respect to a third party but only in exceptional circumstances. It submits that there are no exceptional circumstances in this appeal that would permit the Court to lift the corporate veil. The appellant also argues that there is no evidence supporting the presumption of fact made by the Minister that Mr. Lemay was the controlling mind of the appellant and other corporations; in other words that he was controlling the appellant. In its view, the Minister relied on affidavits of Ms. Lemay in the context of divorce proceedings, which constitute hearsay. Accordingly, the questions asked by the respondent relating to retirement residences that never belonged to the appellant are not relevant. In the appellant’s view, the questions constitute a fishing expedition.
+[63] The respondent also relies on Crestbrook, arguing that the questions are relevant since the Minister assumed in the pleadings that Mr. Lemay was the controlling mind of the appellant and of the other corporate entities that held and disposed of the retirement residences.
+[64] I agree with the respondent’s position. While I accept that the appellant is not the alter ego of Mr. Lemay, that is not the end of the matter. As I have earlier noted, many decisions have allowed questions seeking information from a third party without a finding that the appellant was the alter ego of the third party. As was stated by Justice Little in GLP NT, a nominee should obtain the information in order to answer questions relating to a third party if the questions are relevant to the issues under litigation, if the third party is connected and interrelated with the appellant, and if it serves the interests of the administration of justice.
+[65] It is well established by the jurisprudence of the Federal Court of Appeal and this Court, that in cases where the question under litigation is whether the amount in dispute should be treated as income or as a capital gain, the trading history of the shareholders is relevant to establishing the intention of the taxpayer.
+[66] For example, in Roseland Farms Ltd v Canada, [16] Justice Sharlow said:
+23 The taxpayer has the onus of disproving a factual assumption on which a tax assessment is based: Johnston v. Canada (Minister of National Revenue), [1948] S.C.R. 486. The burden of proof shifts to the Crown only if evidence is adduced that contradicts the assumption. Thus, an assessment based on a factual assumption must be upheld unless there is evidence that the assumption is not true. Counsel for the plaintiff cited several cases that suggest the contrary, but they all predate Johnston, supra. Here, the onus was on the plaintiff to adduce evidence to contradict the Crown's factual assumption that the prospect of reselling the land at a profit was an operating motivation for the purchase.
+24 The intention of a corporation is that of the natural persons by whom it is managed and controlled: Metropolitan Motels Corporation v. Minister of National Revenue (1966), 66 D.T.C. 5208, [1966] C.T.C. 246 (F.C.T.D.); Leonard Reeves Inc. v. Minister of National Revenue (1985), 85 D.T.C. 419, [1985] 2 C.T.C. 2054 (T.C.C.). In the case of a widely held public corporation, the requisite intention may be that of a corporate officer or group of officers or directors who made the purchasing decision. The intention of a closely held corporation, however, is normally that of the shareholders.
+25 In this case, it is abundantly clear from Mr. MacKay's evidence that the decision to have the plaintiff purchase the farmland originated with the shareholders. The only steps Mr. MacKay and the other directors took in connection with the purchase and sale of the property were steps calculated to give effect to the shareholders' instructions.
+[Emphasis added.]
+[67] More recently in Von Reality Ltd, [17] Justice Pizzitelli of this Court stated that “The intention of the Appellant’s sole President and shareholder, Mr. Patrick Harrison, is the relevant intention to impute to the Appellant, just as would be the intention of the Board of Directors, shareholders, controlling minds or other persons found to be in control of a corporation for the purposes of the Act.”. He adds that “It is trite to say that it is only through the decisions and actions of such persons that a corporate entity can express itself”.
+[68] Even if Mr. Lemay is not a party to the appeal, he is a shareholder and the president of the appellant. A corporation can only act through its officers and shareholders. In trading cases, in order to determine the intention of a corporation, the trading history of a controlling shareholder will be taken into account.
+[69] In my view, questions relating to Mr. Lemay trading history are relevant. Mr. Lemay, as a shareholder and president of the appellant, is connected and interrelated to the appellant. The respondent pleaded that Mr. Lemay is the controlling mind of the appellant and the other corporate entities involved in building and selling retirement residences. The appellant cannot prevent the respondent from asking questions on facts pleaded by stating that it does not agree with the assumptions of fact made by the Minister or the position taken by the Respondent in her Reply to Notice of Appeal. In my view, the questions are relevant and should be answered.
+[70] In my view, contrary to the appellant’s contention, these questions do not constitute a fishing expedition as the questions are relevant to the matters at issue and are defined in the pleadings.
+[71] The appellant also submits that questions dealing with the trading history of the shareholders might be relevant for trial purposes but not for discovery’s purposes. With respect, I disagree with this submission. As I have stated at paragraph 44 of my reasons, the test for whether a question during discovery is relevant, is extremely broad and less strict than at trial.
+[72] The appellant also argues that the questions dealing with Ms. Lemay’s affidavit are irrelevant since it constitutes hearsay by a person not available for cross-examination, since Ms. Lemay passed away. In addition, the appellant argues that Ms. Lemay stated in her affidavits that her former husband, Mr. Lemay, was a controlling shareholder, although this statement is contradicted by the share register. The appellant also argues that the facts in the affidavits of Ms. Lemay predate the acquisition, the development and the operation of Stonehaven Manor retirement residence in or about 2003-2004. Therefore, these questions are not relevant for the purpose of this appeal.
+[73] The appellant also quotes the Federal Court of Canada in Remo Imports Ltd v Jaguar Canada Inc., [2000] FCJ 406, to refuse to answer questions dealing with the trading history of Mr. Lemay. In its written submissions at paragraph 39, it states as follows:
+The Federal Court has clarified the propriety of any question on discovery must be determined on the basis of its relevance to the facts pleaded in the statement of claim as constituting the cause of action, rather than on its relevance to facts which a party proposes to prove to establish the facts constituting the cause of action. That principle applies here: the sale of retirement residences by third parties in which Mr. Lemay is alleged to hold an interest are pleaded as evidence of a pattern of trading in retirement residences. The Minister seeks to prove these facts in order to establish that the taxpayer was in the business of selling retirement residences, including Stonehaven, for a profit.
+[74] The respondent argues that these questions are relevant since they are based on the pleadings. Mr. Lemay is alleged to be the controlling mind of the appellant and other entities referred in the Reply to Notice of Appeal filed by the respondent. Mr. Lemay is a shareholder, an officer and an employee of the appellant.
+[75] Under paragraph 95(1)(a) of the Rules, a party may not object to a question on the ground that the information sought is hearsay. The Remo Imports Ltd. decision does not apply as the respondent has pleaded in his Reply to Notice of Appeal, that Mr. Lemay was the controlling mind of the appellant and other corporate entities that built and sold retirement residences. The appellant did not ask that the paragraphs dealing with these facts with respect to Mr. Lemay’s be struck. The facts predating the Stonehaven Manor retirement residence are relevant since as I have already mentioned the trading history of the shareholder is relevant in trading cases. In Crestbrook, Chief Justice McIsaack stated that a distinction should not be made between events that were pre-dated and post‑dated. In light of these principles, I will analyse the following questions.
+B. ANALYSIS OF QUESTIONS NOT ANSWERED BY THE APPELLANT
+[76] The first group of questions, namely questions 41, 46, 92, 215 and 396, relates to the trading history of Mr. Lemay.
+[77] The second group of questions, 174, 182, 198, 202, 203, 205, 210 and 213, relates to the affidavits sworn by Ms. Lemay in the context of contested divorce proceedings against Mr. Lemay.
+First group of questions
+[78] Question 41, the respondent asked if the statement made by Mr. Gilles Gratton, chartered accountant, in a letter dated August 5, 2003, to Me Julius Dawn, counsel for Ms. Lemay, “accurately represents Réjean Lemay’s usual practice with regard to the retirement residences and the appellant’s practice?”
+[79] Paragraph 3 of the August 5, 2003, letter states :
+Banking transactions of 171218 Canada Inc. and 1323456 Canada Ontario Inc. confirm the fact that funds are invested into the various senior residence projects and whenever these projects have reached a positive cash flow position or allow for external financing, funds invested are recovered with interest thereon, thus allowing a cash flow to Mr. Lemay for his personal needs, without depleting his equity as the goodwill value increases with additional cash flow being generated. The following Financial statements reflect reductions in shareholder’s advances with external financing:
+1)1278545 Ontario Inc. as at March 31, 1998
+2) 898646 Ontario Inc. as at July 31, 1996
+3) 1301867 Ontario Inc. as at March 31, 2003
+[80] The appellant’s nominee answered the question with respect to retirement residences owned by the appellant. She stated that paragraph 3 of the August 5, 2003, letter did not represent the practice of the appellant regarding retirement residences. However, she refused to answer whether the statement at paragraph 3 represented Mr. Lemay’s usual practice with respect to the other retirement residences. The appellant alleges that questions dealing with Mr. Lemay’s intentions are not proper questions as he is not the appellant. It also argued that the letter was written by Mr. Gratton in the context of the contested divorce procedure between Mr. Lemay and Ms. Lemay.
+[81] The respondent argues that the question is relevant since the Minister, in assessing the appellant, took the position that Mr. Lemay was the controlling mind of the appellant and the other corporate entities that built and sold retirement residences as described in the Reply to Notice of Appeal.
+[82] I will compel the appellant to answer the question only insofar as it relates to part of the statement found in paragraph 3 namely, “Banking transactions of 171218 Canada Inc. and 1323456 Canada Ontario Inc. confirm the fact that funds are invested into the various senior residence projects and whenever these projects have reached a positive cash flow position or allow for external financing, funds invested are recovered with interest thereon.” This statement is relevant with respect to the trading history of Mr. Lemay, while the rest of paragraph 3 deals with the personal affairs of Mr. Lemay.
+[83] Question 46 [TRANSLATION] “Communicate with Mr. Lemay and ask him whether Gilles Graton C.A., author of the August 5, 2003 letter, was Mr. Lemay’s accountant at the time the August 5, 2003, letter was written, and if he was acting on behalf of Mr. Lemay?”
+[84] The appellant submits that the letter of August 5, 2003 was prepared in the context of divorce proceedings. It does not concern the appeal at bar, but rather the personal affairs of Mr. Lemay. In the appellant’s view, it is irrelevant that Mr. Gratton was or was not the accountant of Mr. Lemay for purposes of the matter in issue.
+[85] In my opinion, this question is not relevant. Whether Mr. Gratton was the accountant of Mr. Lemay in 2003, relates to the personal affairs of Mr. Lemay and has nothing to do with the business of the appellant and the issues under appeal. This information would not assist the respondent in advancing her own case or aid in damaging the case of her adversary. Nor does the question seek information which might fairly lead to a train of inquiry that could have either of these consequences.
+[86] Question 92, [TRANSLATION] “Communicate with Mr. Lemay to ask him what the purpose of the company 1323456 Ontario Inc. was?”
+[87] The appellant’s position is that 1323456 Ontario Inc. is not the appellant but rather a shareholder thereof.
+[88] The respondent argues that the question is relevant based on the pleadings. The respondent also argues that Mr. Lemay is alleged to be the controlling mind of the appellant and the other corporate entities, and that he controls 1323456 Ontario Inc.
+[89] I agree with the respondent; question 92 is relevant. The question seeks information about the purpose of 1323456 Ontario Inc. This corporation is a wholly owned corporation of Mr. Lemay that holds shares in the appellant. The question is relevant since the information requested might somehow assist the respondent in advancing her own case or aid in damaging the case of her adversary, or might fairly lead to a train of inquiry that could have either of these consequences.
+[90] Question 215, [TRANSLATION] “Produce the financial projections for the Belcourt Manor Residence”.
+[91] The appellant argues that the financial projections of the Belcourt Manor retirement residence are beyond the scope of this appeal. The appellant also argued that the respondent is attempting to obtain information of which he has no knowledge in the hope of building a case. The appellant states that the respondent is trying to obtain a prior example of the appellant acquiring and developing a retirement residence with the intention of selling at a profit. The appellant argues that the question is irrelevant to the appellant’s intention in acquiring and developing the retirement residence under appeal, namely the Stonehaven retirement residence. Therefore the question constitutes a fishing expedition.
+[92] The respondent states that the question is relevant and the facts surrounding the Belcourt Manor retirement residence have been pleaded. The respondent also argues that the question is relevant because it relates to the pattern of trading of the appellant and Mr. Lemay.
+[93] The facts with respect to the Belcourt Manor are in the pleadings of both the appellant and the respondent. The funds from the disposition of the Belcourt Manor retirement residence were used to acquire the land on which the Stonehaven Manor retirement residence was subsequently built. As the question may be relevant in the context of the evidence as a whole, I will allow it in light of the low threshold applying to questions on discovery.
+[94] Question 396, [TRANSLATION] “So if we can start again. Now, I would like to talk about the other residences that are mentioned in the Reply to the Notice of Appeal that have not yet been addressed, then we will turn to the facts in the Reply.”
+[95] The appellant’s position is that the respondent is not entitled to ask any questions dealing with respect to transactions involving retirement residences where Mr. Lemay was a shareholder directly or via a corporation. Mr. Lemay is not the appellant, but a third party. Mr. Lemay never controlled the corporations that held these retirement residences. The appellant was never involved in any of these transactions and never held an interest in these residences. Therefore the questions are irrelevant.
+[96] The respondent argues that the sale transactions relating to each retirement residence where Mr. Lemay was a shareholder are relevant and raised in the pleadings. The respondent is therefore entitled to ask questions with respect to transactions where Mr. Lemay was a shareholder either directly or via a corporation.
+[97] I am of the view that these questions should be answered. They are relevant for purposes of the appeal. The questions relate to the trading pattern of an individual who is a shareholder and president of the appellant. As I have stated in my analysis, the intention of shareholders is relevant in order to ascertain the intention of the corporate taxpayer in trading cases. In her pleadings, the respondent took the position that Mr. Lemay was the controlling mind of the taxpayer with respect to the Stonehaven Manor retirement residence and the other retirement residences. As I have already stated, the appellant cannot prevent the respondent from asking questions on facts pleaded simply by saying that it does not agree with the position of the respondent that Mr. Lemay was the controlling mind of the appellant and the other corporate entities. The appellant must answer these questions.
+Second group of questions
+[98] Question 174, [TRANSLATION] Confirm whether, during his marriage to Ms. Lemay in 1989, Mr. Lemay held minority interest in a number of retirement residences with Ms. Lemay.
+[99] In paragraph 10 of her affidavit dated June 5, 2002, Ms. Lemay stated :
+That during the course of the marriage, […] we owned a minority interest in each of these projects together with three other, arms-length, corporate investors.
+[100] The appellant submits that Mr. Lemay is not its alter ego. Therefore, the appellant argues that counsel for the respondent is conducting a fishing expedition and is going beyond the boundaries of proper questioning.
+[101] Question 174 need not be answered. The issue as to whether Mr. Lemay held a minority interest in a number of retirement residences with Ms. Lemay is not relevant for the purpose of the appeal. Ms. Lemay is not a shareholder and has nothing to do with the appellant. The information would not directly or indirectly enable the respondent to advance her case or to damage the case of the appellant, nor is it information which might fairly lead the respondent to a train of inquiry that could have either of these consequences.
+[102] Question 182, [TRANSLATION] Confirm that Mr. Lemay was the person who controlled the Pembroke Heritage Manor, Belcourt Manor and Barrhaven Manor retirement residences.
+[103] The appellant’s nominee answered that Mr. Lemay did not control the Belcourt Manor retirement residences, but refused to answer with respect to the other residences.
+[104] I will allow the question for the other residences since it deals with the trading history of Mr. Lemay. The facts surrounding these retirement residences are pleaded in the Reply to the Notice filed by the respondent.
+[105] Question 198, [TRANSLATION]
+1. Confirm that Mr. Cuerrier is a close friend of Mr. Lemay and Mr. Potvin has been a friend since high school.
+2. Indicate the appellant’s position, whether it was a non-arm’s length transaction between Mr. Lemay, Mr. Potvin and Mr. Cuerrier.
+[106] Whether Mr. Cuerrier and Mr. Poitvin are friends of Mr. Lemay is irrelevant. Even if they were friends, it does not mean that they were acting in concert. In any event, as stated by the appellant, the Minister took the position that Mr. Lemay was the controlling mind of the taxpayer. The respondent has not pleaded that Mr. Lemay acted in concert with Mr. Cuerrier and Mr. Potvin. This question does not have to be answered.
+[107] The question as to whether Mr. Lemay, Mr. Potvin and Mr. Cuerrier were dealing at non-arm’s length need not be answered. It is proper to ask for the facts underlying an allegation but a question has to be limited to fact gathering. The respondent is asking for a conclusion of law. In addition, the issue of non‑arm’s length was not raised by the pleadings.
+[108] Question 202, [TRANSLATION] “Indicate whether the appellant agrees with Ms. Lemay’s claim in her November 11, 2002, affidavit “that during the developments of these projects my husband incorporated fourteen different, Federal and Provincial, numbered companies to act as the operating and holding companies of my husband’s and my interest in these development projects?”
+[109] In the Reply to the Notice of Appeal, the Minister, in reassessing the appellant, assumed as a fact that Mr. Lemay through his holdings companies held shares in corporations which in turn held shares in retirement residences. The facts surroundings these holding corporations have been pleaded by the respondent. Question 202 relates to the pattern of Mr. Lemay with respect to retirement residences and may be relevant in the context of the trial. The question should be answered.
+[110] Question 203, [TRANSLATION] “Indicate whether the appellant agrees with Ms. Lemay that the corporate structure for these investments has always been more or less the same. The same people were always involved, who together, with their spouses, would be the officers, directors, and shareholders. The spouses were always the “silent partners” used to maximize the income splitting and tax planning benefits. Whatever the share structure, in every project, my husband was in every project a controlling shareholder, President and CEO?”
+[111] The appellant must answer if it agrees with the facts stated in the first, second and last sentences of the question. The sentence starting with “the spouses were always the “silent partners” need not be answered as it relates to the personal affairs of Mr. Lemay and is therefore not relevant to the issues under appeal.
+[112] Question 205, [TRANSLATION] Indicate whether the appellant agrees with Ms. Lise Lemay’s statement in her affidavit on November 2002, where she states that “throughout the marriage my husband was the controlling mind who orchestrated all of the corporate and financial arrangements of our family business developing retirement residence projects”?
+[113] I agree with the appellant that the question is too vague to be answered due to the lack of clarity surrounding the expression “family business”.
+[114] Question 210, [TRANSLATION] There are two parts to question 210. I will start with the first part, namely, the question dealing with paragraphs 22, 25, and 29 of Ms. Lemay affidavit of November 11, 2002.
+[115] In paragraphs 22, 25 and 29 of her affidavit, Ms. Lemay states that she has instructed her solicitor to conduct a corporate search of the Belcourt Manor (paragraph 22) and the Pembroke Heritage Manor (paragraph 25) retirement residences, and 1394824 Ontario Inc. (paragraph 29). Paragraphs 22, 25 and 29 show the result of the corporate search performed by counsel for Ms. Lemay with respect to the above mentioned retirement residences.
+[116] Following an undertaking, the appellant provided the respondent with the share structure of the Belcourt Manor retirement residence but refused to do so for the two other residences. The appellant is of the view that the question, as to whether the appellant agrees with result of the corporate search dealing with the Pembroke Heritage Manor and 1394824 Ontario Inc, is not relevant, since the appellant never owned shares in these corporations. The respondent states that it is relevant to the trading pattern of Mr. Lemay and that the facts surrounding these residences have been pleaded in the Reply to Notice of Appeal.
+[117] In Six Nations of the Grand River Band, [18] Justice Dawson of the Federal Court of Appeal stated that a question may be disallowed when there are other means of obtaining the information. The respondent can easily conduct a corporate search of each corporation. Therefore, the appellant need not confirm if the information in the affidavit of Ms. Lemay accurately reflects the corporate searches.
+[118] In the second part of question 210, the respondent asks the appellant to confirm whether the appellant agrees with paragraph 26 of Ms. Lemay’s affidavit of November 11, 2002.
+[119] In paragraph 26 of her November affidavit, Ms. Lemay states “my husband is the President of this company (Pembroke Heritage Manor) and the Officers are Robert Lemay and Paul Cuerrier. These are the same friends and relatives who were co-investors on the other retirement residences which were constructed during the marriage.”
+[120] The appellant need answer only the first part of the statement in paragraph 26 since it is relevant to the trading pattern of Mr. Lemay but need not confirm the rest of the statement since it is irrelevant for the litigation in issue.
+[121] Question 213, [TRANSLATION] Confirm paragraph 30 of the affidavit of Ms. Lemay wherein she states that “My husband’s mistress does not have any of her own resources to invest in these multi-million dollar residential development projects. This pattern of using a spouse as a paper Director and Shareholder is consistent with the business pattern which my husband established during our marriage. I have been advised that terms of the separation agreement acknowledge that my husband’s mistress assets were only in the amount of $20,000 in 1999.”
+[122] This question is not relevant. It deals with the personal affairs of Mr. Lemay, and has nothing to do with the issues under appeal.
+Other questions
+[123] Question 394, [TRANSLATION] Indicate whether Mr. Guglielmelli was involved in the sale of Belcourt and if so, what was the extent of his involvement; if there was an agreement, provide it.
+[124] The answer provided by the appellant is that Mr. Guglielmelli was involved in the Belcourt Manor retirement residence’s sale but that the appellant has not been able to locate a written agreement. The respondent argues that this answer does not satisfy the undertaking given. The appellant answered by saying it made its best efforts.
+[125] Pursuant to Rule 95, the appellant’s nominee has to answer questions to the best of her knowledge. I accept that the appellant made its best efforts.
+[126] The parties have advised that questions 47, 87, 246, 391, and 607 are no longer in issue.
+VII. DISPOSITION
+[127] The motion is allowed in part, the appellant will have to answer questions 41, 92, 182, 202, 203, 210, 215 and 396 in accordance with these reasons.
+[128] A conference call will be held to determine how to proceed and to establish time limits.
+[129] Costs will follow the cause.
+Signed at Ottawa, Canada, this 31st day of August 2016.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2016 TCC 189
+COURT FILE NO.:
+2014-2383(GST)G
+2014-2385(IT)G
+STYLE OF CAUSE:
+1716790 ONTARIO INC. v THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+January 29, 2016
+REASONS FOR ORDER BY:
+The Honourable Justice Johanne D’Auray
+DATE OF ORDER:
+August 31, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Paul C. Labarge
+Anne M. Tardif
+Counsel for the Respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Paul C. Labarge
+Anne M. Tardif
+Firm:
+LaBarge Weinstein LLP
+Caza Saikely LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] SOR/90-688.
+[2] Canada v Lehigh Cement Limited, 2011 FCA 120, at paragraph 30.
+[3] Ibid at para 34.
+[4] Ibid at para 35.
+[5] Kossow v Canada, 2008 TCC 422.
+[6] HSBC Bank Canada v Canada, 2010 TCC 228.
+[7] Canadian Imperial Bank of Commerce v The Queen, 2015 TCC 280.
+[8] Ibid.
+[9] Harris v The Queen, 2001 DTC 5322.
+[10] Monarch Marking Systems Inc. v Esselte Meto Ltd, [1984] 1 FC 641 (TD).
+[11] Hennessy v Wright No. 2, [(1888), 24 Q.B.D. 445 (Eng. C.A.), at p. 448].
+[12] GLP NT Corp. v The Queen, 2004 TCC 738.
+[13] Crestbrook Forest Industries Limited v Canada, [1993] 3 FC 251 (FCA). Leave to appeal to the SCC was denied.
+[14] Supra, note 10.
+[15] Michelin North America (Canada) Inc. v 9130 Québec Inc. (c.o.b. Distribution Nortop), 2008 FC 1101.
+[16] [1999] 4 CTC 348 (FC TD). Affirmed by the FCA: 2001 FCA 167. Leave to appeal to the SCC was denied: [2001] SCCA No 377.
+[17] Von Reality Ltd v Canada, 2011 TCC 345, at paragraph 20.
+[18] Six Nations of the Grand River Band v Canada (Attorney General), [2000] OJ No. 1431.

@@ -1,0 +1,249 @@
+---
+title: "Shair c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29809/index.do"
+last_modified: "2010-05-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 264"
+citation2: ""
+neutral_citation: "2010 CCI 264"
+decision_date: "2010-05-14"
+language: "fr"
+item_id: "29809"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6615
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:59:19.593000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "251d792fb256e9c5597232e2590c2208acb857606f8d155a05a15fe7198e45dc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shair c. La Reine
+
+- Citation: 2010 CCI 264
+- Decision date: 2010-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6615, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shair c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-14
+Référence neutre
+2010 CCI 264
+Numéro de dossier
+2008-2725(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2725(IT)G
+ENTRE :
+AWNI SHAIR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 8 et 9 avril 2010, à Toronto (Ontario)
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelant :
+Me Richard G. Pyne
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies le 7 février 2003 par le ministre du Revenu national (le « ministre ») sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 1998, 1999 et 2000 de l’appelant sont accueillis, et les nouvelles cotisations sont renvoyées au ministre pour nouvel examen et nouvelles cotisations à la lumière du fait que le revenu non déclaré de l’appelant doit être réduit de façon à tenir compte des modifications suivantes apportées à la valeur nette, tel qu’il est prévu dans la pièce A‑2 :
+Document de travail 8800
+1) les dépenses personnelles sont modifiées comme il est précisé au paragraphe 20 des motifs du jugement (les « motifs »);
+2) l’avance de fonds de 11 477 $ consentie par MBNA en 1999 doit être radiée;
+3) le montant relatif au Save-a-Center doit être réduit de 6 108 $ à 418 $;
+4) les [traduction] « autres dépenses » (désignées comme des [traduction] « paiements périodiques importants » dans le document de travail 8814) doivent être modifiées comme il est précisé au paragraphe 25 des motifs;
+Document de travail 8814
+5) le coût des mises de fonds de Shair Investments pour les années 1997, 1998, 1999 et 2000 doit être réduit comme il est précisé au paragraphe 32 des motifs;
+les pénalités imposées doivent être supprimées.
+Chacune des parties assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 14e jour de mai 2010.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 21e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 264
+Date : 20100514
+Dossier : 2008-2725(IT)G
+ENTRE :
+AWNI SHAIR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Les présents appels ont été interjetés à l’égard des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») sous le régime de la Loi de l’impôt sur le revenu (la « Loi ») relativement aux années d’imposition 1998, 1999 et 2000 de l’appelant. Le ministre a utilisé la méthode fondée sur la valeur nette pour inclure un revenu non déclaré totalisant 93 451,65 $ en 1998, 60 548,71 $ en 1999 et 54 845,51 $ en 2000 et pour imposer des pénalités en application du paragraphe 163(2) de la Loi.
+[2] L’appelant était l’unique actionnaire d’A&C Auto Repairs Ltd (« A&C »). Lui et sa société avaient antérieurement fait l’objet d’une nouvelle cotisation selon la méthode fondée sur la valeur nette (pour les années 1994 à 1997 dans le cas de l’appelant, et pour les années 1994 à 1998 dans le cas d’A&C). Le processus de vérification visant ces années n’était pas terminé lorsque le ministre a entrepris une nouvelle vérification touchant les années d’imposition 1998, 1999 et 2000 de l’appelant. Le ministre a invoqué les mêmes raisons pour justifier la nouvelle vérification, à savoir que l’appelant exploitait une entreprise qui privilégiait principalement les paiements en espèces et qu’il ne tenait pas les registres et livres de comptes voulus, ce que nie l’appelant.
+[3] On a interjeté appel à la Cour des nouvelles cotisations établies par le ministre à la suite de la première vérification. À ce moment, seules les nouvelles cotisations visant les années d’imposition 1996 et 1997 de l’appelant et les années d’imposition 1996, 1997 et 1998 d’A&C étaient en litige. Dans un jugement rendu le 10 mai 2006, M. le juge McArthur a accueilli les appels de l’appelant, mais uniquement en ce qui touchait la suppression des pénalités; il n’a apporté aucune modification au revenu non déclaré de 14 882 $ en 1996 et de 20 909 $ en 1997 visé par les nouvelles cotisations et qui, on le supposait, provenait d’A&C et de Shair Investments Ltd. (pièce R‑1). Dans les présents appels, l’avocat de l’appelant a commencé le débat en signalant l’extrême disparité des sommes visées par les nouvelles cotisations pour les années en cause.
+[4] Dans son témoignage, M. Joseph Martins, vérificateur de l’Agence du revenu du Canada (l’« ARC »), a déclaré qu’on l’avait chargé de la partie relative à la taxe sur les produits et services (la « TPS ») de la vérification fiscale précédente (1994 à 1997) et qu’il avait reçu instructions de vérifier trois années de plus (1998 à 2000) afin de déterminer le revenu de l’appelant au moyen de la méthode de la valeur nette. M. Martins a affirmé que l’appelant n’avait pas modifié sa façon de tenir les registres et livres de comptes, mais il a reconnu que l’appelant n’avait peut‑être pas eu l’occasion de le faire puisque la première vérification était toujours en cours lorsqu’il a lui‑même entrepris la seconde vérification. M. Martins a toutefois dû adresser des demandes péremptoires aux banques de l’appelant pour obtenir des renseignements sur les éléments d’actif de celui‑ci parce que l’appelant refusait de les lui communiquer volontairement.
+[5] Monsieur Martins a mentionné qu’il avait analysé chacune des années 1998, 1999 et 2000 de façon distincte sans tenir compte de la vérification antérieure. Toutefois, de nombreuses observations faites dans ses documents de travail relativement à la vérification antérieure (pièce A‑2) paraissent contredire cette assertion. M. Martins a reconnu qu’il s’agissait de l’une des premières vérifications de la valeur nette qu’il effectuait pour le compte de l’ARC.
+[6] Pour établir les cotisations de la valeur nette, il a inclus l’épouse et la mère de l’appelant dans le ménage et il a pris en compte le revenu déclaré par les trois particuliers.
+1. Dépôts à terme
+[7] Le premier élément contesté par l’appelant vise les dépôts à terme de 33 400 $ en 1997, de 71 172,66 $ en 1998, de 74 286,46 $ en 1999 et de 77 703,64 $ en 2000, qui ont été inclus dans son actif (pièce A‑2, document de travail 8811).
+[8] L’appelant a soutenu que ces dépôts à terme appartenaient à son frère, Adel Shair. Ce dernier a signé un affidavit et a témoigné devant la Cour pour confirmer ce fait. Même si ces dépôts à terme étaient établis soit uniquement au nom de l’appelant, soit à la fois aux noms d’Adel et d’Awni Shair, c’est Adel qui a déclaré le revenu d’intérêt dans ses déclarations de revenus pendant toutes les années pertinentes (pièce A‑1, onglet 1).
+[9] Selon M. Martins, les dépôts à terme n’appartenaient pas à Adel, compte tenu du faible revenu que ce dernier et sa famille déclaraient aux fins de l’impôt. Le revenu d’Adel pour les années 1986 à 2001 totalisait 391 176 $, soit un revenu annuel moyen de 26 000 $. En outre, comme il avait été reconnu dans le cadre de la première vérification qu’il avait prêté une somme de 107 000 $ à l’appelant en 1994, M. Martins a estimé qu’Adel n’avait pas les moyens d’effectuer des placements totalisant 77 000 $ entre 1997 et 2000. M. Martins a conclu qu’Adel et sa famille avaient tout juste gagné suffisamment au cours des 20 dernières années pour soutenir leur mode de vie et acquérir une maison évaluée à 185 000 $ (pièce A‑2, document de travail 8816).
+[10] En réalité, M. Martins a remarqué que des dépôts à terme totalisant environ 49 000 $ avaient initialement été tirés sur le compte bancaire personnel de l’appelant à la CIBC. Selon M. Martins, si ces dépôts à terme ont subséquemment été mis au nom d’Adel, c’était soit parce que l’appelant remboursait à son frère le prêt de 107 000 $ que ce dernier lui avait consenti, soit parce qu’il voulait dissimuler des biens personnels en raison des importantes cotisations fiscales dont lui et A&C avaient fait l’objet. M. Martins n’a pas cru les explications d’Adel voulant qu’il ait mis les dépôts à terme au nom de l’appelant pour éviter que sa propre épouse ne s’en serve.
+[11] L’appelant a présenté des documents montrant qu’Adel Shair a placé 81 645 $ en son propre nom le 24 janvier 2003, qu’il a retiré une somme de 22 251 $ le 25 juin 2003, puis que, le même jour, il a retiré une somme de 44 338 $ afin de payer à son avocat, Me Neil Boyko, en fiducie, la somme de 44 200 $ pour l’achat d’un bien (pièce A‑1, onglet 1).
+[12] L’appelant a également produit un reçu (pièce A‑4) selon lequel son frère lui aurait remis une somme de 40 000 $ le 19 avril 1995. Dans son témoignage, l’appelant a mentionné que cet argent lui avait permis d’effectuer le dépôt à terme de 33 000 $ à la CIBC en 1997. Or, pendant le contre‑interrogatoire, l’avocate de l’intimée a produit un extrait tiré d’un rapport d’expert qui a été présenté à l’instruction devant le juge McArthur concernant les nouvelles cotisations relatives aux années 1994 à 1997. Dans ce rapport, on fait état du même reçu (pièce A‑4) et on mentionne que l’appelant a utilisé la somme de 40 000 $ qui y figure pour faire un versement sur le solde de sa ligne de crédit PowerLine (pièce R‑2, page 7).
+[13] Compte tenu du revenu d’Adel pendant les années en cause et du fait qu’on a reconnu qu’il avait prêté une somme de 107 000 $ à l’appelant en 1994, je conviens avec le vérificateur qu’il semble que les dépôts à terme pour lesquels les fonds ont initialement été retirés du compte personnel de l’appelant à la CIBC aient appartenu à l’appelant, et que l’argent ait été placé au nom d’Adel en remboursement du prêt antérieur. Par surcroît, l’appelant a donné deux versions différentes pour expliquer la destination de la somme de 40 000 $ (pièce A‑4). À la lumière de ce qui précède, l’appelant n’a pas réussi à me convaincre, selon la prépondérance des probabilités, qu’Adel pouvait, par ses propres moyens, placer 77 000 $ supplémentaires au cours des années en cause en l’espèce. Bien qu’Adel, dans son témoignage, ait affirmé qu’il occupait le même poste depuis 20 ans et qu’il a reçu une somme de 33 000 $ à titre de règlement vers 1995, le faible revenu qu’il a déclaré ne permet pas d’établir qu’il avait les moyens d’accumuler une somme de 77 000 $ en dépôts à terme en plus des 107 000 $ qu’il avait prêtés à l’appelant en 1994. Le fait qu’il a déclaré un revenu d’intérêt dans ses déclarations de revenus ne peut suffire, à mon avis, à inverser le fardeau qui lui incombe de prouver qu’il a lui‑même fourni les sommes placées dans les dépôts à terme. En réalité, à cause de son faible revenu, Adel a payé moins d’impôt sur son revenu d’intérêt que ne l’aurait fait l’appelant, compte tenu du revenu plus élevé de ce dernier. J’accepte donc l’inclusion des dépôts à terme dans les éléments d’actif de l’appelant pendant les années en cause.
+2. Dépenses personnelles
+[14] L’avocat de l’appelant a affirmé qu’on avait demandé à ce dernier de remplir une annexe faisant état de ses dépenses personnelles, mais sans lui dire pourquoi. L’annexe relative à chacune des années en cause se trouve à la pièce A‑1, onglet 5. Pour certains des éléments, M. Martins a estimé que les chiffres donnés par l’appelant n’étaient pas raisonnables et il a donc préféré utiliser ceux de Statistique Canada.
+[15] D’après l’avocat de l’appelant, ce dernier et son épouse sont des immigrants qui, outre leur peu d’instruction et un train de vie des plus modestes, comptent sur l’aide de leurs frères et sœurs. Dans leur témoignage, l’appelant et son épouse ont déclaré qu’ils ne sortent pas, qu’ils prennent leurs repas à la maison, qu’ils ne boivent ni ne fument, qu’ils n’achètent pas de fleurs ni de jouets, qu’ils n’achètent pas de plastique ni d’aluminium et qu’ils ne possèdent pas d’automobile, comme l’appelant est propriétaire d’un garage où il fait l’ensemble des travaux de mécanique. Ils vivent tout près du garage et utilisent parfois l’automobile de clients. L’épouse de l’appelant est esthéticienne et elle aide son mari au garage. Ils ne vont pas chez le coiffeur puisque c’est elle qui se charge des coupes de cheveux. Ils me demandent d’accepter les chiffres qu’ils présentent même si, par exemple, l’appelant a déclaré qu’il avait parfois surestimé leurs dépenses (notamment le coût des vêtements pour dames, évalué à environ 1 600 $ par année).
+[16] L’appelant me demande en outre de soustraire la somme de 1 500 $ relative au divertissement au foyer parce qu’elle aurait déjà été incluse ailleurs dans le calcul de la valeur nette, ce qu’admet l’intimée.
+[17] L’appelant a aussi affirmé qu’il n’avait pas entièrement payé la dépense de 13 276 $ engagée en 2000 pour les funérailles de sa mère. En réalité, une somme de 9 428,07 $ versée au titre d’une police d’assurance‑vie a servi au paiement de ces frais. Cette somme a toutefois déjà été prise en compte par le vérificateur, qui l’a défalquée de la valeur nette (pièce A‑2, document de travail 8814). Dans leur témoignage, l’appelant et Adel ont affirmé que celui‑ci avait payé 2 500 $ et que leurs trois sœurs avaient ensemble versé 600 $ pour le paiement des frais liés aux funérailles. Cela signifierait que l’appelant a payé 750 $ environ.
+[18] Bien que je sois disposée à accepter les versions avancées par l’appelant et son épouse selon lesquelles ils ne sortent pas, ils doivent de leur côté admettre que l’évaluation fondée sur les chiffres de Statistique Canada faite par l’ARC du coût de la nourriture achetée dans des magasins d’alimentation n’est pas trop élevée et, s’ils restent toujours à la maison, ils doivent également accepter l’estimation de l’ARC du coût du matériel de nettoyage, qui paraît raisonnable.
+[19] Quant aux funérailles de la mère, je suis prête à accepter que les sœurs ont ensemble payé 600 $, mais je ne vois pas pourquoi Adel aurait payé 2 500 $ et l’appelant seulement 750 $. Compte tenu de l’imprécision de leur témoignage sur ce point, j’estime qu’il est plus raisonnable de conclure que les deux frères ont assumé en parts égales le solde du coût des funérailles de leur mère.
+[20] Je vais donc réduire les dépenses personnelles en fonction des chiffres présentés par l’appelant en ce qui concerne les éléments suivants :
+1998
+1999
+2000
+Nourriture au restaurant
+500 $
+550 $
+600 $
+Papier, plastique et aluminium
+60 $
+70 $
+80 $
+Vêtements (homme)
+225 $
+250 $
+270 $
+Blanchisserie
+0
+0
+0
+Utilisation – automobile (essence)
+300 $
+330 $
+360 $
+Entretien et réparations – automobile
+0
+0
+0
+Primes d’assurance – automobile
+0
+0
+0
+Coiffure, etc.
+80 $
+80 $
+80 $
+Loisirs, etc.
+165 $[1]
+0
+0
+Fleurs et jouets
+0
+0
+0
+Divertissement au foyer
+300 $
+300 $
+0[2]
+Funérailles de la mère
+0
+0
+11 052 $[3]
+3. Avance de fonds de MBNA
+[21] Il s’agit d’une somme de 11 477,75 $ qui a été ajoutée au revenu de l’appelant pour l’année d’imposition 1999 (pièce A‑2, document de travail 8800). Si j’ai bien compris, cette somme a été empruntée par l’appelant pour faire un dépôt à terme de 10 000 $ au profit de son beau‑frère, lequel en avait besoin pour immigrer. Le dépôt à terme a été encaissé et l’argent a été remboursé dans la même année. L’intimée a reconnu que cette somme devait être défalquée du total des ajouts à la valeur nette pour l’année.
+4. Reçu relatif au Save-a-Center : 6 108,15 $ (pièce A-2, document de travail 8800)
+[22] Dans leur témoignage, l’appelant et son épouse ont affirmé qu’en 1998, ils avaient emprunté cette somme sur leur carte Visa CIBC afin de l’envoyer au beau‑frère de l’appelant, qui en avait besoin à des fins personnelles. Le beau‑frère a remboursé ce prêt quelques semaines plus tard, mais uniquement à hauteur de 5 690 $ (pièce A‑1, onglet 3). L’intimée est disposée à reconnaître qu’une somme de 5 690 $ doit être exclue. Le solde (418 $) continuera néanmoins d’être inclus dans les dépenses supplémentaires pour le calcul du revenu non déclaré.
+5. Paiements périodiques importants (pièce A-2, document de travail 8814) (également désignés comme d’[traduction] « autres dépenses » par le vérificateur dans la pièce A‑2, document de travail 8800)
+[23] Les sommes de 2 957 $, de 2 958 $ et de 5 031 $ ont été ajoutées à la valeur nette de l’appelant pour les années 1998, 1999 et 2000 respectivement.
+[24] Dans ses feuilles de travail, M. Martins a mentionné qu’il s’agissait d’importants paiements périodiques qui n’avaient pas déjà été inclus dans les dépenses personnelles. Ces paiements de dépenses ont été faits au moyen du compte de l’épouse de l’appelant, du compte de la mère de l’appelant et du compte de l’appelant. L’une de ces dépenses vise un [traduction] « paiement fait à Freddie » de 1 000 $ en 2000. L’appelant a précisé qu’il s’agissait d’un cadeau de mariage et qu’on avait déjà inclus cette somme dans les dépenses personnelles. La même observation s’appliquerait au montant relatif à l’assurance, dont une partie aurait, semble‑t‑il, déjà été prise en compte dans les dépenses personnelles. J’accepte de défalquer des importants paiements périodiques les sommes qui ont déjà été incluses dans les dépenses personnelles. Je vais donc supprimer la somme de 1 000 $ visant le paiement fait à Freddie en 2000 et je vais réduire les sommes relatives à l’assurance de moitié pour 1998 et 1999.
+[25] En conséquence, les importants paiements périodiques seront réduits de 315 $ en 1998, pour un total de 2 642 $, de 508 $ en 1999, pour un total de 2 450 $, et de 1 000 $ en 2000, pour un total de 4 031 $.
+6. Somme à recevoir d’A&C : 26 040 $ en 2000 (pièce A-2, document de travail 8811)
+[26] Monsieur Martins a expliqué que cette somme avait été consignée à titre d’avances de l’actionnaire dans le bilan d’A&C au 28 février 2001. La somme s’élevait à 31 697 $ au 31 mars 2000 (pièce A‑1, onglet 8, page 40). M. Martins a affirmé que, comme l’appelant était l’unique actionnaire d’A&C, la somme était assimilable à un élément d’actif de ce dernier. Dans son témoignage, Mme Maureen McCullough, CA, ancienne épouse de l’appelant, a déclaré que cette somme devrait être nulle parce qu’A&C avait cessé ses activités en 2000 et n’avait plus d’actif susceptible de permettre à l’appelant de récupérer son placement.
+[27] Monsieur Martins a répondu à cela qu’A&C n’avait pas cessé ses activités en 2000, comme en font foi les états financiers montrant des ventes de 134 362 $ en date du 28 février 2001 et un revenu brut de 87 228 $ avant la défalcation des frais d’exploitation (pièce A‑1, onglet 8, page 41). Les états financiers révèlent que l’entreprise a cessé ses activités de manière définitive le 28 février 2001 (pièce A‑1, onglet 8, page 42). M. Martins a ajouté qu’il appartenait à l’appelant de déclarer une perte d’entreprise en 2001, mais l’année 2001 n’est pas en litige en l’espèce.
+[28] Je conviens avec M. Martins que la preuve ne permet pas de conclure qu’A&C avait cessé ses activités en 2000, et l’assertion de Mme McCullough voulant que la valeur de la créance ait été nulle en date du 31 décembre 2000 n’a pas été vérifiée. Je ne vais donc pas modifier la valeur nette à cet égard.
+7. Paiement de 10 000 $ du compte 594866 à Shair Investments en 2000 (pièce A‑2, document de travail 8800) et coût de Shair Investments Ltd. : 293 319 $ (pièce A‑2, document de travail 8811)
+[29] Le paiement de 10 000 $ provient du compte de l’épouse de l’appelant, et ce dernier a dit à M. Martins qu’il s’agissait d’un paiement fait à Shair Investments. Comme aucun autre élément de preuve important n’a été présenté en ce qui touche ce paiement, je n’apporterai aucune modification au titre de cette somme.
+[30] Quant au coût de Shair Investments Ltd, on a dit à M. Martins pendant sa vérification que l’appelant avait acheté un édifice en 1994 et l’avait transféré à Shair Investments Ltd. Le prix d’achat s’élevait à 293 319 $. Devant la Cour, M. Martins a déclaré que ce chiffre était étayé par la vérification antérieure et il s’est servi de cette même somme pendant toutes les années en cause. Comme il ne disposait pas des états financiers de Shair Investments, il ne pouvait réduire le solde au fil des ans.
+[31] Madame McCullough a présenté le bilan de Shair Investments et elle a affirmé que les avances de l’actionnaire étaient passées de 278 366 $ en 1998 à 269 489 $ en 2000 (pièce A‑3, onglet G). Selon elle, le répartiteur de l’impôt n’a pas tenu compte de cette diminution.
+[32] Je suis prête à admettre qu’il y a lieu de réduire la somme de 293 319 $ figurant dans le calcul de la valeur nette à 282 368 $ en 1997, à 278 366 $ en 1998, à 269 384 $ en 1999 et à 269 489 $ en 2000, conformément au bilan fourni.
+8. Dépenses nettes non incluses dans le compte de l’actionnaire (pièce A‑2, document de travail 8814)
+a) Transfert d’une somme à payer en date du 31 mars 1999 au compte de l’actionnaire : 18 000 $
+[33] Monsieur Martins a inclus cette somme à titre de dépense supplémentaire de l’appelant parce qu’il s’agissait d’une somme à payer par A&C en date du 31 mars 1999. On lui avait dit que l’appelant payait au nom d’A&C et que cette somme aurait dû être ajoutée au compte de prêt de l’actionnaire, ce qui n’a pas été fait.
+[34] Dans son témoignage, Mme McCullough a mentionné que des avances suffisantes avaient été faites par l’appelant en sa qualité d’actionnaire afin de régler les engagements liés au commerce de la société. Elle a affirmé qu’en novembre 1999, l’appelant a emprunté une somme de 25 000 $ (pièce A‑1, onglet 8, page 31), qu’il a avancée à A&C (pièce A‑1, onglet 8, page 33, et onglet 9, page 43), ce dont le répartiteur de l’impôt n’aurait pas tenu compte.
+[35] À cet égard, je dois m’inscrire en faux contre l’assertion de Mme McCullough. En réalité, lorsqu’il a établi la valeur nette pour 1999 (pièce A‑2, document de travail 8811), M. Martins a déduit une somme de 27 066 $, qui correspond exactement à la somme figurant dans le relevé mensuel de PowerLine (pièce A‑1, onglet 8, page 31) auquel Mme McCullough a renvoyé.
+[36] Madame McCullough a affirmé que le solde du prêt de l’actionnaire de 31 697 $ dont les livres d’A&C faisaient état en date du 31 mars 2000 (pièce A‑1, onglet 9) était déjà compris dans la dette de 18 000 $ de la société et que cette dernière somme ne devait pas être ajoutée à nouveau dans la valeur nette de l’appelant. À mon avis, rien dans la preuve ne permet de conclure à l’existence d’un tel ajout. Mme McCullough n’a pas précisé sur quel fondement je devrais tirer la conclusion demandée. En outre, la somme à payer de 18 000 $ visait l’exercice d’A&C se terminant le 31 mars 1999 et, pour cet exercice, le solde du compte de prêt de l’actionnaire selon les livres d’A&C s’élevait à seulement 8 627 $. En conséquence, je ne puis contester la façon dont M. Martins a traité la somme à payer de 18 000 $ d’A&C lorsqu’il l’a ajoutée au compte de prêt de l’actionnaire. Je ne vais donc rien modifier à ce chapitre.
+b) Frais de gestion : 20 000 $ en 1998
+28 000 $ en 2000
+[37] Monsieur Martins a estimé que la différence entre les frais de gestion qu’A&C était censée payer à l’appelant et la somme qui a réellement été versée à celui‑ci – soit une différence de 11 000 $ en 1998 et de 17 657 $ en 2000 – constituait des sommes dues par la société et devant être incluses dans le compte de prêt de l’actionnaire (pièce A‑2, documents de travail 8800 et 8814).
+[38] Selon Mme McCullough, il n’y avait pas lieu d’inclure ces sommes dans l’actif de l’appelant puisqu’il s’agit d’éléments de revenu que ce dernier a déclarés. L’appelant a effectivement déclaré un revenu de 20 000 $ en 1998 et de 28 000 $ en 2000.
+[39] Cependant, j’accepte l’explication de M. Martins voulant que les sommes non payées à l’appelant soient des sommes qui lui sont dues et qui doivent figurer dans le compte de prêt de l’actionnaire. Aucun élément de preuve n’a été présenté pour établir qu’A&C avait payé la totalité des frais de gestion, contrairement à ce qu’avance Mme McCullough. La somme déclarée par l’appelant a été appliquée en réduction du revenu non déclaré.
+9. Pénalités fondées sur le paragraphe 163(2) de la Loi
+[40] Comme je vais réduire les nouvelles cotisations en modifiant les calculs de la valeur nette, et comme M. Martins a lui‑même reconnu, d’une part, que la deuxième vérification a débuté alors que la première n’était pas encore terminée et que, d’autre part, l’appelant n’avait pas eu le temps de redresser ses registres et livres de comptes à la satisfaction de l’ARC, je vais supprimer les pénalités.
+Décision
+[41] Les appels seront accueillis, et les nouvelles cotisations seront renvoyées au ministre pour nouvel examen et nouvelles cotisations à la lumière du fait que le revenu non déclaré de l’appelant doit être réduit de façon à tenir compte des modifications suivantes apportées à la valeur nette, tel qu’il est prévu dans la pièce A‑2 :
+Document de travail 8811
+1) les dépenses personnelles sont modifiées comme il est précisé au paragraphe 20 des présents motifs;
+2) l’avance de fonds de 11 477 $ consentie par MBNA en 1999 doit être radiée;
+3) le montant relatif au Save-a-Center doit être réduit de 6 108 $ à 418 $;
+4) les [traduction] « autres dépenses » (désignées comme des [traduction] « paiements périodiques importants » dans le document de travail 8814) doivent être modifiées comme il est précisé au paragraphe 25 des présents motifs;
+Document de travail 8814
+5) le coût des mises de fonds de Shair Investments pour les années 1997, 1998, 1999 et 2000 doit être réduit comme il est précisé au paragraphe 32 des présents motifs;
+les pénalités imposées doivent être supprimées.
+Chacune des parties assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 14e jour de mai 2010.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 21e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 264
+NO DU DOSSIER DE LA COUR : 2008-2725(IT)G
+INTITULÉ : Awni Shair c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 8 et 9 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 14 mai 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Richard G. Pyne
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Richard G. Pyne
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1, onglet 3, page 19 (relevé Visa).
+[2] La somme de 1 500 $ a été admise par l’intimée.
+[3] J’ai inclus la somme de 9 428 $ parce qu’elle a été déduite ailleurs de la valeur nette, et j’estime que l’appelant et son frère ont chacun payé 1 624 $ tandis que les trois sœurs ont ensemble payé 600 $.

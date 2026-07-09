@@ -1,0 +1,176 @@
+---
+title: "Groves v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/230995/index.do"
+last_modified: "2017-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 66"
+citation2: ""
+neutral_citation: "2017 TCC 66"
+decision_date: "2017-05-04"
+language: "en"
+item_id: "230995"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2122
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:23:05.588000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e7929267cde73c80855e3b14b2942979933acb2a4921f07835de2cc38f3aa95"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Groves v. The Queen
+
+- Citation: 2017 TCC 66
+- Decision date: 2017-05-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2122, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groves v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-05-04
+Neutral citation
+2017 TCC 66
+File numbers
+2016-4033(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4033(IT)I
+BETWEEN:
+TINA GROVES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 17, 2017, at Ottawa, Ontario
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Bhuvana Sankaranarayanan
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2014 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 4th day of May 2017.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2017 TCC 66
+Date: 20170504
+Docket: 2016-4033(IT)I
+BETWEEN:
+TINA GROVES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Hogan J.
+I. INTRODUCTION
+[1] The Appellant, Tina Groves, has appealed the denial of her claims for a wholly dependent person tax credit and a child tax credit (the “Tax Credits”) in respect of her daughter, who is identified as R in the Respondent’s reply to the Appellant’s notice of appeal for her 2014 taxation year.
+[2] The credits were disallowed by the Minister of National Revenue (the “Minister”) on the basis that the Income Tax Act [1] (the “ITA”) bars a taxpayer from claiming the wholly dependent person and child tax credits in respect of a child for whom the taxpayer is required to make child support payments to a former spouse or common-law partner.
+II. FACTUAL BACKGROUND
+[3] The Appellant was the only witness at the hearing. There is essentially no dispute concerning the factual background of this case. The Appellant and her former spouse were married in 1998. There are two children of the marriage, TB, born in 2000, and RB, born in 2001. The Appellant and her former spouse separated in May 2011. [2]
+[4] Pursuant to a separation agreement prepared by the Appellant and her former spouse and dated February 27, 2011 (the “Original Separation Agreement”), the Appellant and her former spouse share joint custody of their two minor children.
+[5] This agreement also required the Appellant to pay to her former spouse child support in accordance with the Federal Child Support Guidelines [3] (the “Federal Guidelines”), beginning on May 1, 2011.
+[6] After the Appellant’s claims for the Tax Credits were disallowed by the Canada Revenue Agency (“CRA”) for a prior taxation year, the Appellant and her former spouse entered into an amended separation agreement, dated June 6, 2015 (the “Amended Separation Agreement”). This agreement specified that both parties were to pay each other child support in accordance with the Federal Guidelines beginning on May 1, 2011.
+[7] The Appellant claimed the Tax Credits for RB for the 2014 taxation year.
+[8] On January 4, 2016, the CRA initially assessed the Appellant, at which point the Appellant’s claims for the Tax Credits were disallowed on the basis that the Appellant was required to make child support payments to her former spouse during the 2014 taxation year.
+[9] By notice of objection dated January 31, 2016, the Appellant objected to the assessment. On July 15, 2016, the Minister confirmed the assessment. This appeal followed.
+III. ISSUE
+[10] The sole issue in this appeal is whether the Minister was correct in disallowing the Tax Credits claimed by the Appellant for the 2014 taxation year.
+IV. POSITIONS OF THE PARTIES
+[11] The Appellant’s position is that she is entitled to the Tax Credits for the 2014 taxation year because both she and her former spouse had intended at the time of their separation that they would make child support payments to each other. She argues that, as a convenience, she had in practice paid only the net amount to her former spouse. She also states that both parents had agreed at the time that they would each claim one child as a dependant.
+[12] The Respondent argues that the Appellant was not entitled to the Tax Credits since, during the year at issue, she was the only party obligated to pay a support amount pursuant to the terms of the Original Separation Agreement. The Respondent argues that the Amended Separation Agreement entered into in June 2015 is not applicable to the taxation year at issue.
+V. ANALYSIS
+[13] This is a case, like so many others that the Court hears, dealing with a taxpayer’s eligibility for a wholly dependent person tax credit and a child tax credit when the taxpayer is also obligated to pay child support to a former spouse.
+[14] Subsection 118(5) of the ITA provides that the Tax Credits are not available for a child in respect of whom the taxpayer has paid child support to a spouse or common-law partner or former spouse or common-law partner in the relevant taxation year.
+[15] Subsection 118(5.1) provides that the limitation in subsection 118(5) will not apply in cases where it would operate to deny the credit to both parents. Where subsection 118(5.1) applies, one would look to paragraph 118(4)(b.1), which provides that, if both parents are entitled to the Tax Credits, they must agree on who will claim them on an annual basis.
+[16] The Minister confirmed the assessment on the grounds that only the Appellant was obligated to pay child support pursuant to the terms of the Original Separation Agreement.
+[17] The Appellant testified that it was the intention of both herself and her former spouse in drafting their separation agreement that each parent would pay child support to the other in accordance with the Federal Guidelines. She stated that, as the higher income earner, she paid the net amount to her former spouse merely as a “convenience.” [4]
+[18] She further explained that the parties amended the separation agreement in 2015 after the CRA had disallowed her claim for the Tax Credits for the 2013 taxation year. She requested that the Court give retroactive effect to the amended agreement aligning the language of the agreement with the original intention of the parties.
+[19] The Appellant testified that, in addition to amending the wording of the Original Separation Agreement in 2015, from that time onwards she and her former spouse also regularly wrote cheques to each other to carry out their mutual support obligations. The Appellant produced copies of two cheques at the hearing. Both were dated August 1, 2015. One was signed by the Appellant, while the other was signed by her former spouse. The cheques show that in that month the Appellant paid $2,091 to her former spouse and he paid $1,557 to her. These amounts also match the then applicable amounts set out in the Federal Guidelines.
+[20] I have no hesitation in finding the Appellant to be a credible and forthright witness. Unfortunately, I am unable to accept her arguments.
+[21] Because the amended agreement was entered into in June 2015, it did not apply to the taxation year at issue in this appeal. The amended agreement cannot apply retroactively to the Appellant’s 2014 taxation year. It is at most written evidence of what the parties intended at the time they entered into the Original Separation Agreement, but that alone is insufficient to secure the Appellant’s entitlement to the Tax Credits.
+[22] What matters in cases such as this is the language of the written separation agreement and any evidence of the practices of the parents regarding child support payments during the relevant time period. In this respect, I am only prepared to accept the cheques provided by the Appellant as indicative of their practice since 2015.
+[23] In addition, a review of the Original Separation Agreement confirms that the Minister’s interpretation of the language of the agreement is correct. Under the terms of that agreement, only the Appellant was required to pay the net amount of child support to her former spouse.
+[24] The relevant clauses in the original agreement provide as follows:
+Party 1 shall pay to Party 2 the table sum of child support in accordance with the Child Support Guidelines beginning on the 1st day of May, 2011, and continue on each month until the children of the marriage are no longer children of the marriage as defined by the Divorce Act. We understand custody arrangements and incomes change, and we agree when circumstances change to adjust the monthly sum according to the Child Support Guidelines.
+In addition to the amount above described, Party 1 shall pay to Party 2 for special expenses, the percentage of the special expense, based on income contribution, when the expense occurs.
+[Emphasis added.]
+[25] Past decisions of this Court and the Federal Court of Appeal have consistently rejected arguments based on shared custody arrangements involving net support payments governed by the Federal Guidelines. In Verones v. The Queen, [5] the Federal Court of Appeal conclusively determined that this type of set-off arrangement does not satisfy the requirements of the exception contained in subsection 118(5.1). This issue has also been considered several times by this Court in various permutations since then without any subsequent departure from the reasons of Trudel J. A. in Verones (see the reasons for judgment of V. Miller J. in Commet v. The Queen, [6] those of Bocock J. in Harder v. The Queen [7] and those of Woods J. (as she then was) in Sauve v. The Queen [8] ). Because of the principle of stare decisis, this Court is similarly bound in this appeal to apply the decision of the Federal Court of Appeal.
+[26] Turning to the second paragraph from the Original Separation Agreement excerpted above, it is clear that the agreement required both parents to share special expenses on a proportional basis according to their income. The agreement specified that the Appellant would pay her portion of the special expenses to her former spouse as and when the expenses occurred.
+[27] The Appellant testified that this language was not reflective of their actual practice regarding the payment of special expenses. She testified that the parties would create a budget for the year and then pay their contributions on a monthly basis into a joint bank account to which both parents had access.
+[28] The Appellant argued that the contributions of her former spouse to the joint account constituted the payment of a support amount to her.
+[29] I am precluded from accepting the Appellant’s argument by the definition of “support amount” in subsection 56.1(4) of the ITA. The term “support amount” is therein defined as follows:
+56.1(4)
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[30] The language of the Original Separation Agreement is clear in stating that only the Appellant was required to pay her share of the special expenses to her former spouse. Therefore, the payments made by the Appellant’s former spouse into the joint bank account cannot be said to have been not made under “a written agreement” as required by paragraph (a) of the definition of “support amount” in subsection 56.1(4). The money paid into the joint account, which was used to fund special expenses of the children, also was not available to the Appellant for use at her discretion as demanded by the language of that definition. Therefore, the payments made by the Appellant’s former spouse into the joint account cannot constitute a support amount within the meaning of the ITA.
+[31] In dismissing the appeal, it must be noted that the Court remains sympathetic to the position of the Appellant. At the hearing, the Appellant expressed her sense of frustration regarding the quality of the advice available on the CRA’s website to taxpayers who are attempting to navigate the issue of child support payments in drawing up a separation agreement without the assistance of legal counsel. The Appellant specifically pointed to the examples of shared custody and child support arrangements provided by the CRA on its website.
+[32] These same concerns have also been raised by this Court in previous decisions (see the reasons for judgment of C. Miller J. in Ochitwa v. The Queen [9] ). The Court would hope that such a government-sponsored resource would, in future, add a note clarifying that child support payments made on an offsetting basis alone are not sufficient, in cases of shared custody, to entitle both taxpayers to claim the tax credits relating to an eligible dependant and an eligible child. It would be unfortunate if the tax authorities were to continue to inadvertently mislead taxpayers in this respect.
+VI. CONCLUSION
+[33] The Appellant was not entitled to claim the Tax Credits for the 2014 taxation year because she alone was required to make support payments to her former spouse during that year. For that reason, the appeal is dismissed.
+Signed at Ottawa, Canada, this 12th day of May 2017.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2017 TCC 66
+COURT FILE NO.:
+2016-4033(IT)I
+STYLE OF CAUSE:
+TINA GROVES v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+February 17, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+May 4, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Bhuvana Sankaranarayanan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC 1985, c 1 (5th Supp).
+[2] NTD: Ms. Groves testified at the hearing that she and her former spouse separated in May 2011. The Original Separation Agreement, however, was signed on February 27, 2011 and states that the parties “agree to live separate and apart and have lived separate and apart” since January 1, 2011. Child support payments under the agreement began on May 1, 2011.
+[3] SOR/97-175.
+[4] Transcript of hearing at page 6, lines 6-7.
+[5] 2013 FCA 69.
+[6] 2016 TCC 48.
+[7] 2016 TCC 197.
+[8] 2014 TCC 99.
+[9] 2014 TCC 263.

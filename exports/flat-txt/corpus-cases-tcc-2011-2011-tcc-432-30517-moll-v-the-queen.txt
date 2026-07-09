@@ -1,0 +1,98 @@
+Title: Moll v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30517/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-432-30517-moll-v-the-queen.md
+Document type: case_law
+Last modified: 2011-09-15
+
+# Moll v. The Queen
+
+- Citation: 2011 TCC 432
+- Decision date: 2011-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7288, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moll v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-15
+Neutral citation
+2011 TCC 432
+File numbers
+2011-924(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-924(IT)G
+BETWEEN:
+IRENE MOLL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion dealt with by Written Representations
+Before: The Honourable Justice Wyman W. Webb
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+Margaret Irving
+Donna Tomljanovic
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant for an Order entitling Lino Mastromonaco to represent the Appellant in this appeal;
+And upon reading the submissions made by the parties;
+The Motion is dismissed, with costs payable forthwith in any event of the cause.
+Signed at Ottawa, Canada, this 15th day of September 2011.
+“Wyman W. Webb”
+Webb J.
+Citation: 2011TCC432
+Date: 20110915
+Docket: 2011-924(IT)G
+BETWEEN:
+IRENE MOLL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] The Appellant brought a Motion to request that Lino Mastromonaco, who is not a lawyer, be permitted to represent the Appellant in her appeal. Subsection 30(1) of the Tax Court of Canada Rules (General Procedure) ("Rules") provides as follows:
+30. (1) Subject to subsection (3), a party to a proceeding who is an individual may act in person or be represented by counsel.
+[2] The Appellant submits that compliance with this provision of the Rules should be waived in this case because the Appellant is required to use a hearing aid to assist her hearing and as a result she is unable, from time to time, to fully understand or hear telephone conversations. Paragraph 9 of the Rules provides that:
+9. The Court may, where and as necessary in the interests of justice, dispense with compliance with any rule at any time.
+[3] However, section 17.1 of the Tax Court of Canada Act provides that:
+17.1 (1) A party to a proceeding in respect of which this section applies may appear in person or be represented by counsel, but where the party wishes to be represented by counsel, only a person who is referred to in subsection (2) shall represent the party.
+(2) Every person who may practise as a barrister, advocate, attorney or solicitor in any of the provinces may so practise in the Court and is an officer of the Court.
+[4] While paragraph 9 of the Rules allows the Court to dispense with compliance with any rule, it does not allow a Court to dispense with the requirements of the Tax Court of Canada Act nor can this court change this Act. Section 17.1 of the Tax Court of Canada Act is clear and the Appellant may either appear in person or be represented by counsel. Since Lino Mastromonaco is not a person referred to in subsection 17.1(2) of the Tax Court of Canada Act, he cannot represent the Appellant in this Appeal.
+[5] The motion by the Appellant for an Order entitling Lino Mastromonaco to represent the Appellant in this Appeal is dismissed with costs payable forthwith in any event of the cause.
+Signed at Ottawa, Canada, this 15th day of September 2011.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2011TCC432
+COURT FILE NO.: 2011-924(IT)G
+STYLE OF CAUSE: IRENE MOLL AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+DATE OF HEARING:
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: September 15, 2011
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+Margaret Irving
+Donna Tomljanovic
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

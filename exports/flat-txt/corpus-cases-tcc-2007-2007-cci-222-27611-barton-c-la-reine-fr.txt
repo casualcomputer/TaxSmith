@@ -1,0 +1,118 @@
+Title: Barton c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27611/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-222-27611-barton-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-05-01
+
+# Barton c. La Reine
+
+- Citation: 2007 CCI 222
+- Decision date: 2007-05-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 432, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-01
+Référence neutre
+2007 CCI 222
+Numéro de dossier
+2003-3891(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3891(IT)G
+ENTRE :
+LEONARD RAY BARTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 27 et 28 octobre 2005, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelant :
+Me William G. D. McCarthy
+Avocate de l’intimée :
+Me Rosemary Fincham
+____________________________________________________________________
+JUGEMENT
+Les appels concernant la cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 1997 et concernant les nouvelles cotisations établies en vertu de la Loi pour les années 1995, 1996 et 1998 sont rejetés, avec dépens.
+Signé à Ottawa, Canada, ce 1er jour de mai 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 27e jour de mars 2008.
+Maurice Audet, réviseur
+Référence : 2007CCI222
+Date : 20070401
+Dossier : 2003-3891(IT)G
+ENTRE :
+LEONARD RAY BARTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’appels concernant une cotisation et de nouvelles cotisations établies par le ministre du Revenu national (le « ministre »), en vertu de la Loi de l’impôt sur le revenu (la « Loi »), pour les années d’imposition de l’appelant de 1995 à 1998. Au cours de cette période, l’appelant a produit ses déclarations d’impôt sur le revenu comme s’il résidait exclusivement aux États-Unis. Le ministre a établi une cotisation et de nouvelles cotisations au motif que l’appelant résidait au Canada et qu’il devait payer au Canada l’impôt sur son revenu mondial.
+[2] La seule question en litige en l’espèce est de savoir si, de 1995 à 1998, l’appelant était un résident du Canada au sens de la Loi.
+Les faits
+[3] L’appelant, citoyen canadien originaire de la Saskatchewan, a obtenu un diplôme d’enseignement dans cette province. Il est également titulaire d’un baccalauréat ès sciences en électronique appliquée de l’Université Bradley, en Illinois. Dans son témoignage, l’appelant a déclaré qu’il a aussi obtenu de la même université, à la fin d’un programme d’études en résidence à plein temps, une maîtrise ès sciences en formation industrielle. Il est de plus titulaire d’une maîtrise en administration des affaires qu’il a obtenue de la Pacific Western University aux États-Unis pendant qu’il travaillait en Ontario. En 1987, il a également obtenu son doctorat en changement social de la Walden University de Minneapolis, au Minnesota, pour lequel il a fait sa résidence dans la province de Québec.
+[4] L’appelant a déclaré dans son témoignage qu’il avait travaillé à la Banque Canadienne Impériale de Commerce, en tant que gestionnaire de la performance et de la configuration, responsable du réseau national en direct, jusqu’en 1993, année au cours de laquelle il a été licencié par la Banque. Dans les années qui ont suivi, il a eu quelques courts contrats de travail et d’autres emplois à Toronto et dans l’Ouest du Canada.
+[5] En août 1994, l’appelant a accepté une affectation de trois mois à Fort Worth, au Texas. Il a mis en vente sa maison de Oakville (Ontario), qui a été vendue en septembre 1994. Son épouse l’a alors rejoint au Texas où ils ont loué un appartement jusqu’à la fin du contrat, en octobre 1994. L’appelant a alors accepté un contrat d’un an à New York, à compter du 28 novembre 1994, pour l’établissement de nouveaux services dans le domaine des télécommunications. Ce contrat a été signé avec une entreprise du nom de Nynex. L’appelant a signé un bail le 6 décembre 1994 pour un studio situé dans une maison dont la moitié était occupée par les propriétaires et qui était sise au 78, boulevard Jefferson, Edison, New Jersey, (pièce A‑1, volume 1, onglet 22).
+[6] L’appelant a travaillé aux États-Unis en vertu d’un « visa TN » délivré par le gouvernement américain sur une base annuelle à des non-Américains pour la période de leur emploi aux États-Unis. En novembre 1995, à la fin de son contrat avec Nynex, il a commencé à travailler pour AT&T au New Jersey à titre d’analyste des télécommunications et des affaires. Ce nouveau lieu de travail se trouvait plus près de son lieu de résidence au New Jersey. Il y a effectué plusieurs contrats à durée déterminée jusqu’en novembre 1997, date à laquelle on lui a offert un emploi à plein temps, qu’il a accepté, chez AT&T. Cet emploi a pris fin la première semaine de 1999 et il a alors accepté un emploi auprès d’une jeune compagnie à Ottawa, du nom de Eftia O.S.S. Solutions. Il a trouvé ce nouvel emploi lors de l’une de ses visites à Ottawa, quand il est tombé par hasard sur une petite annonce placée par cette petite compagnie dans le journal Ottawa Citizen. Il a postulé et obtenu l’emploi. L’appelant a quitté son emploi chez AT&T et son appartement au New Jersey. Il est venu s’installer au 47, rue Bertona à Ottawa (qui s’appelait alors Nepean), où il vit toujours.
+[7] Quand l’appelant a vendu sa maison à Oakville en septembre 1994, il a d’abord entreposé ses meubles à Oakville. Par la suite, il les a transférés sur la rue Bertona, où vivait sa fille. À cette époque, sa fille venait de terminer ses études universitaires et travaillait pour Nortel à Ottawa. Le jeune fils de l’appelant, Terry, fréquentait l’Université Guelph en Ontario et était toujours à la charge financière de son père. Terry venait passer ses congés sur la rue Bertona. Selon l’appelant, pendant la période au cours de laquelle il a travaillé aux États-Unis, la maison de 1 100 pieds carrés de la rue Bertona, comptant trois chambres à coucher, était louée par sa fille. En fait, une demande de bail ayant trait à cette propriété a été signée par elle, Cheryl Anne Barton, le 15 avril 1995 (pièce R‑1, onglet 1). Il semble toutefois que, dans ses déclarations d’impôt canadiennes, l’épouse de l’appelant ait réclamé un crédit pour les loyers relatifs à la rue Bertona (pièce R‑1, onglets 31 à 34). Dans l’annuaire téléphonique, ce sont les noms de l’appelant et de son épouse qui figurent en regard de cette adresse (pièce R‑1, onglets 39 à 42).
+[8] L’appelant prétend que son épouse a vécu avec lui au New Jersey au moins 70 p. 100 du temps en 1995 et 50 p. 100 dans les années qui ont suivi. En 1998, elle aurait passé plus de temps au Canada en raison de la maladie de sa mère; en fait, sa mère est morte en décembre 1998. Il semble toutefois qu’elle ne soit pas demeurée très longtemps aux États-Unis pendant toute cette période, et pas seulement en 1998, ce qui est tout à fait compréhensible étant donné qu’elle n’avait pas de visa TN. Elle ne pouvait demeurer aux États-Unis qu’en vertu des conditions du visa TN de son époux. Cela signifiait qu’elle ne pouvait ni travailler, ni avoir de compte bancaire, de carte de crédit ni aucun autre bien aux États-Unis. Au Canada, le produit de la vente de la maison de Oakville a été déposé dans son compte bancaire et elle utilisait ses cartes de crédit canadiennes. Elle n’a même pas fait renouveler son passeport canadien quand il a expiré, en 1997.
+[9] En fait, il semble que l’épouse de l’appelant, Veronica Anne, ne vivait pas avec lui au New Jersey, mais qu’elle a résidé principalement sur la rue Bertona avec sa fille. En fait, l’appelant a reconnu qu’il est venu au moins 64 fois voir sa famille en Ontario au cours de la période de quatre ans allant de 1995 à 1998. Il partait le vendredi (un trajet de 10 heures pour l’aller seulement) et rentrait au New Jersey le dimanche, au moins une fois par mois. L’appelant avait accès à la maison de la rue Bertona pendant toute cette période. Son épouse et lui y avaient leur propre chambre à coucher et il y laissait certains de ses biens.
+[10] L’appelant prétend qu’il a acheté deux voitures aux États-Unis, une pour lui et une pour sa femme. Elle conduisait cette voiture en utilisant son permis de conduire canadien, étant donné qu’elle ne pouvait obtenir de permis américain. Bien qu’il n’ait pas annulé son permis de conduire canadien, l’appelant en a obtenu un de l’État du New Jersey. Il a également souscrit une assurance médicale privée pour son épouse et lui-même aux États-Unis. Toutefois, ils n’ont pas annulé leur carte d’assurance-maladie de l’Ontario.
+[11] Au New Jersey, l’appelant avait adhéré à des associations professionnelles, comme le Project Management Institute, section de New York, et l’American Association of Retired Persons, dont les membres peuvent cotiser à un régime de retraite aux États-Unis.
+[12] L’appelant avait deux comptes bancaires aux États-Unis, mais il n’y conservait jamais plus de 1 000 $. Il avait un compte bancaire personnel au Canada sur lequel il payait ses dettes canadiennes, en particulier un emprunt de 40 000 $ qu’il a remboursé en plus de deux ans. Il avait également des cartes de crédit canadiennes sur lesquelles il devait de fortes sommes d’argent qu’il a remboursées graduellement. Après sa première année aux États-Unis, il a pu y obtenir deux cartes de crédit américaines, mais avec de faibles limites de crédit, et une marge de crédit. L’appelant utilisait son adresse de la rue Bertona comme adresse postale. Il prétend avoir inscrit le service téléphonique de la rue Bertona à son nom et à celui de son épouse pour obtenir une cote de crédit lui permettant d’avoir une carte d’appel téléphonique aux États‑Unis. Toutefois, cette affirmation a été affaiblie en contre-interrogatoire, quand il a été établi qu’il avait obtenu sa carte d’appel aux États‑Unis avant de louer la maison de la rue Bertona.
+[13] L’appelant a produit ses déclarations fédérales d’impôt sur le revenu d’étranger non-résident aux États-Unis et ses déclarations d’impôt sur le revenu de résident de l’État du New Jersey. Ces déclarations ont été préparées par un comptable local. Dans ses déclarations américaines d’impôt sur le revenu, l’appelant a déclaré que son adresse dans le pays dont il était résident permanent était le 47, rue Bertona, Nepean (Ontario) Canada (pièce A‑1, onglet 5, p. 26). Il a également indiqué dans ses déclarations américaines qu’il était un résident du Canada qui entrait aux États-Unis et en sortait à intervalles fréquents.
+[14] Dans un formulaire de détermination du statut de résidence (départ du Canada) qu’il a rempli le 14 octobre 1998 pour l’Agence des douanes et du revenu du Canada (pièce A‑1, onglet 66), l’appelant a indiqué, entre autres choses, que son épouse demeurerait au Canada et qu’elle vivait au 47 de la rue Bertona, à Nepean, que son fils se trouvait au Canada et qu’il avait l’intention de conserver son permis de conduire délivré au Canada. Quand il s’est opposé aux nouvelles cotisations, l’appelant a été prié de remplir de nouveau le même questionnaire, ce qu’il a fait avec l’aide de son conseiller professionnel en avril 2003. Cette fois, il n’a pas mentionné que son épouse demeurerait au Canada et que son fils se trouvait au Canada, et il n’a pas, non plus, coché la case indiquant qu’il avait l’intention de conserver son permis de conduire canadien.
+[15] L’appelant a expliqué que, quand il avait quitté le Canada pour aller travailler aux États-Unis, il n’avait pas de plan particulier de retraite. Il laissait la vie suivre son cours. Il avait un régime de retraite auprès de AT&T, mais il avait également un régime enregistré d’épargne-retraite au Canada. Qui plus est, il a reconnu que son épouse ne souhaitait pas demeurer aux États-Unis. Toute la famille et leurs relations sociales étaient au Canada. Il a dit que sa propre loyauté allait au Canada et qu’il était aux États-Unis pour des motifs économiques. Il n’est allé aux États-Unis que pour travailler.
+[16] L’épouse de l’appelant a déclaré tous les revenus de placement résultant de la vente de la maison (aux environs de 219 000 $) dans sa déclaration d’impôt canadienne. Elle a également déclaré l’appelant comme personne à charge en 1996 et 1997, inscrivant « zéro » au titre du revenu net de l’appelant (pièce R‑1, onglets 31 et 32).
+Analyse
+[17] La seule question en litige en l’espèce consiste à déterminer si l’appelant résidait habituellement au Canada au cours de la période de 1995 à 1998.
+[18] Il y a quelques contradictions dans le témoignage de l’appelant. Confronté au deuxième questionnaire rempli en 2003 (pièce A‑1, onglet 74), dans lequel il n’était plus indiqué que son épouse demeurerait au Canada, contrairement à ce qu’il avait indiqué auparavant dans le premier questionnaire établi en 1998 (pièce A‑1, onglet 66), l’appelant a finalement reconnu en contre-interrogatoire que son épouse vivait au Canada la majeure partie du temps, en fait. Elle habitait la maison familiale de la rue Bertona. Il semble évident, d’après ses déclarations d’impôt, que c’était elle qui payait le loyer. Le téléphone était inscrit sous le nom de l’appelant et de son épouse. La preuve révèle que l’appelant revenait à la maison au moins une fois par mois, en fin de semaine, pour voir sa famille (il revenait seul, non accompagné par son épouse, comme il ressort de l’extrait du Système intégré d’exécution des douanes, montrant toutes les entrées aux postes frontaliers terrestres du 1er janvier 1995 jusqu’au 31 décembre 1998 (pièce R‑1, onglets 44 et 45)). Le fils de l’appelant au Canada était toujours à sa charge, et toute la famille et les amis de l’appelant se trouvaient au Canada. L’appelant a reconnu qu’il n’allait aux États-Unis que pour travailler et qu’il n’y avait aucun autre lien.
+[19] Bien que l’appelant ait déclaré avoir quitté le Canada pour une période de temps indéfinie, il est clair que son épouse ne voyait pas les choses du même œil. Ils étaient toujours une famille unie, ce que démontre le très grand nombre d’appels interurbains entre les membres de la famille (pièce A‑1, onglets 30, 31 et 32). Pour rendre visite à sa famille, l’appelant devait, à l’aller seulement, conduire pendant dix heures. Il semble tout à fait raisonnable de dire que l’appelant, en pensée et en fait, n’a jamais quitté le Canada. Comme le juge Rand l’a déclaré dans l’arrêt Thomson c. M.N.R., [1946] R.C.S. 209, à la page 225 :
+Mais dans les différentes situations de prétendues « résidences permanentes », « résidences temporaires », « résidences ordinaires », « résidences principales » et ainsi de suite, les adjectifs n’influent pas sur le fait qu’il y a dans tous les cas résidence; cette qualité dépend essentiellement du point jusqu’auquel une personne s’établit en pensée et en fait, ou conserve ou centralise son mode de vie habituel avec son cortège de relations sociales, d’intérêts et de convenances, au lieu en question. Il se peut qu’elle soit limitée en durée dès le début, ou qu’elle soit indéterminée, ou bien, dans la mesure envisagée, illimitée. […]
+[20] Je suis d’avis que l’appelant a conservé son mode de vie habituel, avec sa famille et ses relations sociales, ses intérêts et autres convenances, au Canada. Ses enfants et son épouse vivaient tous au Canada; il avait une maison où il pouvait revenir au Canada; et il y est revenu très souvent, malgré le long trajet, pour vivre, autant que faire se peut, une vie familiale normale. Ses habitudes de vie ont continué d’être centralisées au Canada. Aussitôt qu’il a trouvé une occasion de travailler au Canada, il a accepté l’emploi qui lui a été offert, même si cela signifiait qu’il devait quitter un emploi sûr aux États-Unis. À l’exception de son régime de retraite aux États-Unis, la plupart de ses économies se trouvaient au Canada. Il n’a jamais renoncé à sa carte d’assurance-maladie canadienne ni à son permis de conduire canadien. Il a maintenu des liens personnels et économiques très étroits au Canada pendant toute cette période. Je conclus donc que l’appelant n’a jamais cessé de résider au Canada au cours de la période en question. La même conclusion de la Cour dans une situation semblable a été acceptée par la Cour d’appel fédérale dans Gaudreau c. La Reine, 2005 CAF 388.
+[21] En conclusion, la cotisation et les nouvelles cotisations doivent être confirmées au motif que l’appelant était un résident du Canada de 1995 à 1998 et donc qu’il devait déclarer son revenu mondial et payer l’impôt en conséquence quand il a produit ses déclarations canadiennes d’impôt sur le revenu. Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 1er jour de mai 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 27e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2007CCI222
+No DU DOSSIER DE LA COUR : 2003-3891(IT)G
+INTITULÉ : Leonard Ray Barton
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATES DE L’AUDIENCE : Les 27 et 28 octobre 2005
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 1er mai 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me William G. D. McCarthy
+Avocate de l’intimée :
+Me Rosemary Fincham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : William G.D. McCarthy
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

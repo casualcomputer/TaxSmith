@@ -1,0 +1,135 @@
+Title: Batt v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26679/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-565-26679-batt-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-24
+
+# Batt v. The Queen
+
+- Citation: 2005 TCC 565
+- Decision date: 2005-08-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3524, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Batt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-24
+Neutral citation
+2005 TCC 565
+File numbers
+2005-1387(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1387(IT)I
+BETWEEN:
+ROBERT G. BATT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on August 15, 2005, at Vancouver, British Columbia,
+By the Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Agent for the Respondent:
+Shaunagh Stikeman
+____________________________________________________________________
+ORDER
+UPON the motion by counsel for the Appellant for an Order quashing the Appellant's appeal on the ground that the Appellant is not disputing the amount of federal taxes or Canada Pension Plan contributions payable, but is disputing the application of his refund for the 2003 taxation year to a debt owing by the Appellant to Her Majesty in right of Canada and, therefore, is not seeking relief provided for by section 171 in the Income Tax Act; and no valid Notice of Objection has been filed in respect of the 2003 taxation year as required by section 169 of the Act;
+AND UPON reading the affidavit of Dianne Martineau, filed;
+AND UPON hearing the Appellant and counsel for the Respondent;
+IT IS HEREBY ORDERED THAT:
+1. The motion is dismissed; and
+2. The Respondent shall deliver a Reply to the Notice of Appeal within 14 days of this date.
+Signed at Ottawa, Canada, this 24th day of August, 2005.
+"E.A. Bowie"
+Bowie J.
+Citation: 2005TCC565
+Date: 20050824
+Docket: 2005-1387(IT)I
+BETWEEN:
+ROBERT G. BATT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+BowieJ.
+[1] The Respondent brings this motion to quash Mr. Batt's appeal from an assessment made pursuant to subsection 152(1) of the Income Tax Act[1] and section 36 of the Canada Pension Plan[2] (CPP). The following are the grounds on which the motion is brought, as stated in the Notice of Motion.
+(a) the Appellant is not disputing the amount of federal taxes or Canada Pension contributions payable but is disputing the application of his refund for the 2003 taxation year to a debt owing by the Appellant to Her Majesty in right of Canada and therefore is not seeking relief provided for by section 171 of the Act; and
+(b) no valid Notice of Objection has been filed in respect of the 2003 taxation year as required by section 169 of the Income Tax Act.
+The motion is supported by an affidavit made by an officer of the Canada Revenue Agency. It establishes these facts. In 2003, Mr. Batt had income from employment and income from self-employment. As a result, it was open to him to elect to make an additional contribution to the Canada Pension Plan over and above his required contribution. When he filed his income tax return for 2003 on or about April 30, 2004, he appended to it a note indicating that he wished to so elect, and that he would do so by June 30, after he acquired the necessary prescribed form (CPT20). He in fact obtained that form, completed it on May 20, and filed it with the Minister of National Revenue, who received it on May 25, 2004. On May 28, 2004 the Minister of National Revenue assessed the Appellant for income tax and CPP contributions. He found that his taxable income was $13,590, and that his net federal tax was $696.77. Taking into account the Appellant's liability for provincial income tax and for CPP contributions, his credits, including tax paid by instalments and a provincial sales tax credit, the Minister determined that Mr. Batt was entitled to a refund of $1,437.44. This computation was made without regard to the election that he had made on May 25. It is common ground that Mr. Batt at that time owed more than $1,362.44 to Her Majesty in right of Canada for an unpaid student loan, and the Minister applied that amount to the loan as contemplated by subsection 164(2) of the Act. He mailed a refund cheque for $75.00 to Mr. Batt, that being the amount of his provincial sales tax credit.
+[2] Sometime thereafter, the Minister processed Mr. Batt's election form, and as a result reassessed him on August 23, 2004. His deduction from income for CPP contributions was increased by $299, resulting in a decrease in his federal tax assessed of $95.17, and a decrease in British Columbia tax of $35.89. His CPP contribution was increased by $598.90. These changes resulted in it being determined that Mr. Batt was required to pay an additional net amount of $467.84 in arrears. On this the Minister assessed arrears interest of $7.15. Along with the notice of reassessment, the Minister sent a demand to be paid $474.99 for the arrears of CPP contributions and interest.
+[3] Mr. Batt did not file a notice of objection in response to the initial assessment of May 28. He did, however, file a notice of objection to the August 23 reassessment. That document was signed on November 19, 2004, and it attached a copy of a letter that Mr. Batt had sent to the Surrey Tax Centre of CRA on August 27. Although Mr. Batt did not formulate the reasons for his objection to the reassessment in precise legal terms, these documents do make the following points:
+(a) Mr. Batt objects to having to pay the Minister $474.99;
+(b) He objects to paying any penalty or interest; and
+(c) In his view, the Minister should satisfy any amount owing as a result of the reassessment from that part of the original refund that was applied to the student loan ($1,362.44).
+[4] This notice of objection got short shrift from the Minister's officials. On December 8, 2004, one of them wrote the following letter to Mr. Batt:
+We are writing to inform you that the objection you filed cannot be recognized as valid.
+An individual may make a formal objection to an assessment or reassessment but not CRA's accounting procedures or allocation of credits and refunds. Therefore, your correspondence cannot be considered as a valid Notice of Objection under the Income Tax Act.
+We regret that a more favorable reply cannot be given.
+Mr. Batt filed his Notice of Appeal in this Court on January 25, 2005, thus giving rise to the present motion, which I note was not brought until June 27, 2005, long after the time fixed by the Tax Court of Canada Rules for the filing of the Respondent's Reply to the Notice of Appeal. As I said at the outset, the grounds for the motion are that the Appellant is not entitled to object to, or to appeal from, the manner in which the Minister chooses to apply a refund determined to be owing to the taxpayer, because this is not a matter that falls within the assessing power of the Minister under subsection 152(1) of the Act, and it is only in respect of an assessment (which includes a reassessment) that a taxpayer may file an objection, and ultimately a Notice of Appeal. The Minister's agent also argued, in the alternative, that the appeal should be quashed as it was not preceded by a valid notice of objection, a submission which is founded entirely on the Minister's high-handed rejection of the notice of objection to which I have referred above.
+[5] The question that I must now answer is whether the Appellant is entitled to object to the August reassessment pursuant to subsection 165(1), and then to appeal from it pursuant to subsection 169(1) of the Act. The relevant provisions of the Act read as follows:
+152(1) The Minister shall, with all due dispatch, examine a taxpayer's return of income for a taxation year, assess the tax for the year, the interest and penalties, if any, payable and determine
+(a) the amount of refund, if any, to which the taxpayer may be entitled by virtue of section 129, 131, 132 or 133 for the year; or
+(b) the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 125.4(3), 125.5(3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
+165(1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+I have concluded that the Appellant does have the right to challenge the August reassessment by objection and appeal, and that I must therefore dismiss the motion. As the matter must be heard and decided by another judge another day, I shall say no more now than is necessary to explain my conclusion. It will be for the judge who hears the appeal, of course, to determine whether the challenge to the reassessment has merit. I am deciding only that Mr. Batt has the right to be heard. [6] The reason is simply this. Mr. Batt's position, as I understand it, is that having filed his election before he was initially assessed on May 28, he was entitled to have the Minister take that election into account. Had he done so, the assessment would have been in substance exactly the assessment that was made in August, with one exception. As the income tax refund to which he was entitled would have been applied first to pay his additional CPP contribution, and only after that to his student loan, there would have been no arrears, and therefore no arrears interest, to be assessed under section 36 of the Plan. He did not file a notice of objection or a notice of appeal from the first assessment. However, in my view the Appellant is entitled to raise that issue now, and to argue that he is not liable for the small amount of interest that he was assessed. I quite understand that success in that appeal would be of little practical value to the Appellant, because any interest that he saves on his CPP assessment will effectively be cancelled out by additional student loan interest. That, however, does not justify depriving him of his right to appeal to this Court if he wishes to do so. It is for Mr. Batt to decide whether it is worthwhile to pursue the appeal, not the Minister, and not me.
+[7] Before leaving this matter, I wish to express my view as to the inappropriateness of this kind of motion. Parliament has made provision in the Tax Court of Canada Act[3] for appeals involving small amounts of money to proceed to a hearing with dispatch. There is neither production of documents nor examinations for discovery, oral or by interrogatories. The Respondent has 60 days in which to deliver a Reply, and the hearing, barring exceptional circumstances, must be fixed for a date no more than 180 days later. Motions of this kind are the antithesis of the summary procedure that Parliament had in mind. They serve no useful purpose, except to spare the Deputy Attorney General the trouble of delivering a Reply to the Notice of Appeal. Any point that may be taken on a motion to quash may equally be taken on the hearing of the appeal. There may infrequently be cases in which the facts are complex and substantial preparation would be required before a trial on the merits, or ones where witnesses would be required to attend from a distance for a trial; in such cases, there may be some justification for the Respondent raising technical objections to the appeal before pleading. In the normal case, however, and certainly in cases such as this where there is apparently no dispute about the facts, such motions serve no useful purpose and have the effect of thwarting the clear intention of Parliament. The present case is illustrative. Seven months have now passed since the Notice of Appeal was filed, and the matter has not advanced one iota. The Deputy Attorney General, with no leave from either the Court or the Appellant, is five months in default of his obligation to plead within 60 days. He asks in the Notice of Motion, in the alternative, for an extension of the time in which to file a Reply. By the time he filed that Notice of Motion he was already three months in default. Were it not for the fact that it would simply make the hearing more difficult than necessary for both the Appellant and the trial judge, I would refuse to extend the time at all. However, there are apparently no facts in dispute here, and so there is no advantage to be had for the Respondent by pleading assumptions of fact. I will therefore grant a short extension so that the Appellant and the trial judge may know with some precision what position the Respondent is taking at the hearing of the appeal.
+[8] The motion is dismissed. The Respondent shall deliver a Reply within 14 days from the date of mailing of my Order. I regret that I do not have the power to award costs of the motion to the Appellant; these kinds of motions should be discouraged.
+Signed at Ottawa, Canada, this 24th day of August, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC565
+COURT FILE NO.:
+2005-1387(IT)I
+STYLE OF CAUSE:
+Robert G. Batt
+and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+August 15, 2005
+REASONS FOR ORDER BY:
+The Honourable Justice E.A. Bowie
+DATE OF ORDER:
+August 24, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Agent for the Respondent:
+Shaunagh Stikeman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S 1985, c. 1 (5th Supp.).
+[2] R.S 1985, c. C-8.
+[3] R.S. 1985 c. T-2, sections 18 to 18.28.

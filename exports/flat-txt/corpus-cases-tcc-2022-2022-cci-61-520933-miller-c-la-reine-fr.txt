@@ -1,0 +1,112 @@
+Title: Miller c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520933/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-61-520933-miller-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-06-09
+
+# Miller c. La Reine
+
+- Citation: 2022 CCI 61
+- Decision date: 2022-06-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4526, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Miller c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-06-09
+Référence neutre
+2022 CCI 61
+Numéro de dossier
+2020-14(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-14(IT)I
+ENTRE :
+AUSTIN MILLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 3 mars 2022 à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Benjamin Chamberland
+JUGEMENT
+Les appels interjetés à l’encontre de deux nouvelles cotisations établies le 12 décembre 2019 pour les années d’imposition 2016 et 2017 de l’appelant, respectivement, sont tous deux rejetés, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 9e jour de juin 2022.
+« B. Russell »
+Le juge Russell
+Référence : 2022 CCI 61
+Date : 20220609
+Dossier : 2020-14(IT)I
+ENTRE :
+AUSTIN MILLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] L’appelant, Austin Miller, a interjeté appel, en choisissant la procédure informelle, de deux nouvelles cotisations établies le 12 décembre 2019 par le ministre du Revenu national (le « ministre ») en application de la Loi de l’impôt sur le revenu, rejetant certaines dépenses d’entreprise déclarées par M. Miller pour les années d’imposition 2016 et 2017, respectivement.
+[2] À l’audition, M. Miller s’est représenté lui-même et a été le seul témoin. Selon son témoignage, pendant les années d’imposition visées par les présents appels, il exploitait deux entreprises individuelles – l’une dont les activités consistaient à acheter et à vendre des voitures d’occasion et des pièces d’automobiles et l’autre dont les activités consistaient à préparer les déclarations de revenus de personnes. La présente affaire concerne la première entreprise.
+[3] À cet égard, M. Miller a affirmé dans son témoignage avoir acheté au Canada en 2016 une Honda Civic de 2012 pour 7 000 $. Il a présenté un acte de vente d’un véhicule d’occasion fourni par l’association Used Car Dealers Association of Ontario, pour cette transaction datée du 15 août 2016 (pièce A-1). Dans ce document qui, selon l’intimée, aurait été rédigé manuellement par M. Miller, il est indiqué que la voiture était destinée à l’exportation. Il avait l’intention de l’expédier en Jamaïque (où il a résidé antérieurement) pour la revendre.
+[4] M. Miller a également présenté à titre d’élément de preuve (pièce A-4) un reçu délivré par l’agence des douanes de la Jamaïque le 18 septembre 2016 et confirmant le paiement de droits de douane et de frais connexes pour un total de 524 574,47 $ jamaïcains (JMD) (6 242,55 $ canadiens (CAD)). M. Miller y figure à titre de [traduction] « déclarant », et l’adresse indiquée est celle d’une entreprise de vente d’automobiles située à Kingston, en Jamaïque.
+[5] L’autre page de la pièce A-4 est une feuille de travail de l’Agence du revenu du Canada (l’« ARC ») intitulée [traduction] « Austin Miller – revenus d’entreprise de 2016 ». On peut y lire la déclaration manuscrite de l’appelant qui suit : [traduction] « J’ai [payé] 7 000 $ pour la voiture [et] 6 242,55 $ pour lui faire passer la douane. 1 500 $ pour transporter la voiture par navire du Canada à la Jamaïque. La voiture a été volée et vandalisée en Jamaïque. La voiture est une [perte totale]. »
+[6] L’appelant n’a présenté aucun document témoignant des frais d’expédition du véhicule par navire en Jamaïque ou des frais de déplacement de l’appelant en Jamaïque; il n’a par ailleurs fourni aucune explication claire concernant le fait qu’il ait eu besoin de s’y rendre pour vendre cet unique véhicule.
+[7] Selon le témoignage de M. Miller, en janvier 2017, la Honda Civic de 2012, à l’époque située en Jamaïque, avait été volée et gravement endommagée avant que la police la retrouve.
+[8] M. Miller avait entreposé le véhicule gravement endommagé en Jamaïque jusqu’au 28 décembre 2019, date à laquelle il l’avait vendue en l’état à un certain M. Allen de Kingston pour 500 000 $ (JMD). M. Miller a présenté un reçu manuscrit (pièce A-2) daté du jour de la vente et confirmant cette transaction. De même, il a présenté un reçu manuscrit (pièce A-3) daté du jour de la vente et confirmant un paiement de 300 000 $ (JMD) par M. Miller à cette même personne pour l’entreposage du véhicule endommagé depuis l’acte de vandalisme de janvier 2017.
+[9] L’avocat de l’intimée a demandé à M. Miller s’il pouvait présenter un document, quel qu’il soit, concernant la déclaration du sinistre ou un rapport de police, quel qu’il soit, concernant le véhicule volé et vandalisé. M. Miller a répondu ne pas avoir assuré le véhicule, pour le motif qu’il l’avait envoyé en Jamaïque simplement pour le vendre, et avoir essayé d’obtenir en vain un rapport de police.
+[10] On aurait dit à M. Miller que seul le concessionnaire auquel la voiture avait été envoyée pouvait obtenir le rapport de police, mais cette personne était injoignable aux États-Unis. M. Miller a ajouté avoir attendu une journée entière pour parler à un agent de police et obtenir une copie du rapport, en vain. Quoi qu’il en soit, il n’a présenté aucun document à cet égard à l’audition tenue récemment.
+[11] M. Miller a également affirmé avoir essayé de déclarer 2 000 $ dans sa déclaration de revenus de 2016 à titre de frais de déplacement, car il est rentré au Canada en février 2017. Ayant laissé les reçus dont il avait besoin en Jamaïque, il n’avait pas osé déclarer plus de 2 000 $. Il n’a pas précisé la nature des reçus en sa possession pour prouver les 2 000 $ de dépenses indiqués dans sa déclaration de revenus de 2016. Aucun reçu à cet égard n’a été présenté à l’audition.
+[12] Dans son témoignage, l’appelant a affirmé avoir déclaré dans sa déclaration de revenus de 2017 la totalité des dépenses qu’il n’avait pas pu déclarer en 2016, car il avait récupéré les reçus pertinents en 2017; ces sommes sont prises en compte dans les 17 500 $ qu’il a déclarés sous l’intitulé « frais afférents à un véhicule à moteur ». Le ministre a rejeté cette déclaration dans son intégralité. M. Miller a affirmé s’être fait payer ses frais de déplacement en Jamaïque par un cousin résidant aux États-Unis, puis avoir remboursé ce cousin.
+[13] Quoi qu’il en soit, comme je l’ai mentionné, M. Miller n’a présenté absolument aucun reçu ou document connexe à cet égard à l’audition, y compris à l’appui de ses frais de déplacement, de quelque nature que ce soit, depuis ou vers la Jamaïque ou encore à l’appui de ses frais pour l’envoi en Jamaïque par navire de la Honda Civic de 2012 en 2016.
+[14] L’intimée demande le rejet de l’appel, pour le motif que l’appelant n’a prouvé de manière satisfaisante l’existence d’aucune des dépenses déclarées.
+[15] M. Miller a exprimé ses préoccupations concernant, en particulier, l’obtention des déductions à l’égard des trois reçus qu’il a présentés – le reçu mentionné précédemment pour l’achat de la Honda Civic en 2016; le reçu mentionné précédemment pour le paiement de droits de douane jamaïcains en 2016 relatifs à l’importation de la voiture en Jamaïque; le reçu mentionné précédemment et daté du 28 décembre 2019 pour les 300 000 $ (JMD) que M. Miller avait payés à l’époque pour l’entreposage du véhicule endommagé depuis début janvier 2017.
+[16] Ensemble, la réponse de l’intimée et la feuille de travail de l’ARC mentionnée précédemment et intitulée [traduction] « Austin Miller – revenus d’entreprise de 2016 », indiquent qu’à l’égard de l’année d’imposition 2016 de M. Miller, l’ARC a tenu compte des dépenses de 7 000 $ pour l’achat de la Honda Civic de 2012 et de 6 242,55 $ (CAD) pour les droits de douane relatifs à l’importation du véhicule en Jamaïque.
+[17] Ces deux sommes constituent un total de 13 242,55 $, soit la somme exacte que le ministre a reconnue dans le total du stock de clôture de l’appelant en 2016 (voir la réponse à l’annexe A) pour calculer le coût des biens vendus par M. Miller et, au final, pour calculer ses revenus nets pour l’année d’imposition 2016.
+[18] Le montant du stock de clôture de 13 242,55 $ tient compte de la déduction, au dollar près, appliquée au calcul des revenus nets de M. Miller pour 2016. Par conséquent, M. Miller a obtenu la pleine reconnaissance et prise en compte des deux dépenses de 2016 qui le préoccupaient.
+[19] Le reçu pour la troisième et dernière dépense qui préoccupait M. Miller est celui daté du 28 décembre 2019 pour le paiement de l’entreposage du véhicule. Étant donné que l’année d’imposition 2019 n’est pas en litige dans le présent appel, je ne suis pas en mesure d’examiner cette dépense.
+[20] L’appelant n’a présenté aucun reçu à l’égard de l’année d’imposition 2017.
+[21] L’appel interjeté par l’appelant à l’encontre des deux nouvelles cotisations établies le 12 décembre 2019 pour les années d’imposition 2016 et 2017 est rejeté, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 9e jour de juin 2022.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2022 CCI 61
+NO DU DOSSIER DE LA COUR :
+2020-14(IT)I
+INTITULÉ :
+AUSTIN MILLER C. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 3 mars 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 9 juin 2022
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Benjamin Chamberland
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

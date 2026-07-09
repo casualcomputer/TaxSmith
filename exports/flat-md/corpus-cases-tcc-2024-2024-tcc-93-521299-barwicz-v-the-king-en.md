@@ -1,0 +1,425 @@
+---
+title: "Barwicz v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521299/index.do"
+last_modified: "2024-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 93"
+citation2: ""
+neutral_citation: "2024 TCC 93"
+decision_date: "2024-07-08"
+language: "en"
+item_id: "521299"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5499
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-01-30T09:03:44.002000+00:00"
+cases_cited_count: 12
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0006ab662067b10e10d759c52f97625199a7be500106d8e250db1e93680827d5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barwicz v. The King
+
+- Citation: 2024 TCC 93
+- Decision date: 2024-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5499, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barwicz v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-07-08
+Neutral citation
+2024 TCC 93
+File numbers
+2017-4463(IT)G
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4463(IT)G
+BETWEEN:
+ANDRZEJ BARWICZ,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on February 13 and 14, 2024, at Montreal, Quebec, and written representations submitted on March 8 and 28, 2024.
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Counsel for the appellant:
+Julie Gaudreault-Martel
+Stéfany Grenier
+Counsel for the respondent:
+Nathalie Labbé
+Christophe Tassé-Breault
+JUDGMENT
+The appeal from the assessment under subsection 160(1) of the Income Tax Act made by notice dated September 15, 2016, is dismissed with costs to the respondent.
+Signed at Montreal, Quebec, this 8th day of July, 2024.
+“J.M. Gagnon”
+Gagnon J.
+Translation certified true
+on this 29th day of December 2025.
+Vera Roy, Senior Jurilinguist
+Citation: 2024 TCC 93
+Date: 20240708
+Docket: 2017-4463(IT)G
+BETWEEN:
+ANDRZEJ BARWICZ,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[UNOFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Gagnon J.
+I. Preamble [1] Andrzej Barwicz, the appellant, appeals from an assessment dated September 15, 2016 (Assessment), under section 160 of the Income Tax Act.[1] The assessment holds him jointly and severally liable for the tax debt of a trust, Zaba Trust (Trust), to the Minister of National Revenue (Minister) in the amount of $1,602,233.35. The Trust’s tax debt arises from an assessment by the Minister made by notice dated June 10, 2009, in relation to its taxation year ending on December 17, 2001 (Underlying Assessment).
+[2] In the appeal, the appellant asserts grounds of appeal against both the Assessment and the Underlying Assessment.
+II. Background [3] This case raises primarily questions of law. The facts relevant to the matter are not contested and are not central to the dispute between the parties. The paragraphs that follow are a brief overview of the facts. It is noted that the agreed statement of facts (partial) filed by the parties is reproduced as an appendix to these reasons (Schedule A).
+[4] The Trust was created by the appellant’s spouse in Ontario on December 13, 2001. Royal Trust Corporation of Canada was appointed as the sole trustee, and Wieslaw Barwicz, the appellant’s brother, was appointed as protector. The appellant was appointed as one of the Trust beneficiaries. In total, nine beneficiaries were expressly appointed in Schedule A to the Deed of Trust.[2]
+[5] The Deed of Trust stipulated that all of the appointed beneficiaries had the same rights in the Trust estate. The Deed of Trust did not stipulate any distinction between beneficiaries of the income or the capital of the Trust, and all the beneficiaries could receive whatever distributions were made in the trustee’s discretion. When the Trust was created, it was resident in Canada for the purposes of the ITA.
+[6] In addition, under the Deed of Trust, the trustee had discretion to allocate the income and capital of the Trust to one or more beneficiaries of its choice. No beneficial interest in the Trust was acquired for consideration payable to the Trust or to any person who made a contribution to the Trust.
+[7] Also on December 13, 2001, the Trust acquired 1,225,932 shares of Bookham Exchange Inc. (Bookham) from the Fiducie Familiale Barwicz, which had owned them up to that time.
+[8] On December 17, 2001, Royal Bank of Canada Financial Corporation replaced Royal Trust Corporation of Canada as the sole trustee of the Trust. The trustee was resident in Barbados for tax purposes. The parties agree that, commencing with the change of trustee, the Trust ceased to be resident in Canada for the purposes of the ITA and was resident in Barbados for the purposes of the Canada-Barbados Income Tax Agreement. The Trust continued to be resident in Barbados until it was liquidated.
+[9] On April 3, 2002, the trustee of the Trust filed a T3 tax return in Canada for its taxation year ending on December 31, 2001, for which an initial assessment was made on December 27, 2002. In a later tax audit of the Trust that followed the liquidation of the Trust, the Minister made the Underlying Assessment covering a first taxation year of the Trust. The Trust objected and appealed the Underlying Assessment, but subsequently discontinued its appeal to the Court.
+[10] In 2003, the Trust carried out transactions relating to the Bookham shares. Those transactions enabled the Trust to free up cash. The trustee confirmed by resolution in writing that it wished to distribute Trust capital solely to the appellant. Accordingly, by resolution in writing on the date of the distribution, the trustee made an initial distribution to the appellant on January 8, 2004, in the amount of $2,250,000. The trustee adopted a second resolution providing for a capital distribution, this time on December 30, 2005, in the amount of $830,288. That was the last distribution by the trustee. The Trust was then liquidated and terminated.
+[11] The Minister’s position is that, on the date of the last transfer, the Trust’s tax debt amounted to $1,602,233.35. That is the amount that the respondent is claiming from the appellant under section 160 ITA.
+III. Issues [12] There are ultimately two issues in this appeal. The first concerns the determination of the Trust’s year end for the purpose of making the Underlying Assessment. The second concerns the assessment of the appellant for the purposes of subsection 160(1) ITA. The two issues can be framed as follows:
+whether the change of the Trust’s tax residence on December 17, 2001, triggered the application of subsection 128.1(4) ITA immediately before the cessation of residence on that date and created a deemed year end of the Trust for the purposes of the ITA, as well as a deemed disposition of the property owned by the Trust; and
+whether the Trust received from the appellant, and whether the appellant thereby gave to the Trust, consideration that may be characterized as such for the purposes of subparagraph 160(1)(e)(i) ITA when the Trust distributed the funds described above to him, and if so, what the value of that consideration is.
+[13] There is no other issue between the parties. Among other things, the amounts involved, the treatment that results from the Underlying Assessment, and the cessation of the Trust’s residence in Canada brought about by the change of trustee are, strictly speaking, not in issue.
+IV. Positions of the Parties [14] On the first issue, the respondent is of the opinion that the grounds on which the Underlying Assessment is based are correct in fact and law. The date of the end of the Trust’s 2001 taxation year as established for the purposes of the Underlying Assessment is based on the change of tax residence brought about by the change of trustee of the Trust that occurred at a particular time on December 17, 2001. At that time, the Trust ceased to be resident in Canada for the purposes of the ITA.
+[15] The respondent also submits that, at the time when the Trust emigrated to Barbados, it triggered the mechanism in subsection 128.1(4) of the ITA. Under subparagraph 128.1(4)(a)(i), the Trust’s taxation year for the purposes of the ITA is deemed to have ended immediately before the particular time when the Trust ceased to be resident in Canada, and a new taxation year is deemed to have started at the time when the Trust ceased to be resident in Canada. In addition, under paragraph 128.1(4)(b), the Trust is deemed to have disposed of all of its property, composed entirely of Bookham shares, immediately before the end of the deemed taxation year and to have received, in consideration, the fair market value of the shares at that time. Under paragraph 128.1(4)(c), the Trust is also deemed to have reacquired all of its property at the same price.
+[16] With respect to the version of subsection 94(1) ITA that is applicable to the appeal, the respondent contends that it applies only once the consequences of subsection 128.1(4) ITA materialized, that is, in respect of the deemed taxation year of the Trust that started once the taxation year brought about by the emigration of the Trust is deemed to have ended. Accordingly, the existence of subsection 94(1) does not prevent or override the consequences that result from subsection 128.1(4).
+[17] On the second issue, regarding the assessment under section 160 ITA, the respondent submits that the Trust received no consideration in exchange for the distribution of the funds to the appellant. Consequently, the fair market value of the consideration is nil, and the appellant’s tax liability arising from the application of section 160 ITA corresponds to the lesser of the tax debt at the time of the transfers and the total of the transfers. In this case, the tax debt of the Trust at the time of the transfers is the lesser amount.
+[18] The respondent also rejects the appellant’s position that subsection 107(2) ITA has some influence on the application of section 160 ITA. In the respondent’s opinion, the tax treatment of that transaction for the Trust has no impact on whether consideration was paid.
+[19] As for the appellant, he submits on the first issue that the Minister misinterprets the interaction between subsections 94(1) and 128.1(4) ITA. In the appellant’s view, the effect of the applicable version of subparagraph 94(1)(c)(i) is to create a presumption[3] that the Trust resided in Canada throughout the year for the purposes of Part I of the ITA. In other words, the appellant interprets the word “year” as meaning calendar year, so that, under that provision, the Trust is deemed to have resided in Canada throughout 2001.
+[20] Accordingly, even if the Trust’s residence status changed on December 17, 2001, for the purposes of the ITA and the applicable tax agreement, the residence status would be deemed not to change for the purposes of Part I, under subsection 94(1) ITA. Subsection 94(1) establishes a scheme that applies to the Trust regardless of subsection 128.1(4) and, consequently, the Trust’s first taxation year continued until December 31, 2001, beyond its emigration to Barbados, in accordance with paragraph 94(1)(a). The Trust’s first taxation year therefore ran from December 13, 2001, to December 31, 2001, the period covered by the tax return filed by the Trust in Canada for its first taxation year.
+[21] On the second issue, the appellant submits that it is wrong to claim that the Trust did not receive sufficient consideration in exchange for the distribution of the funds to the appellant. In the appellant’s view, it is necessary to apply, mutatis mutandis, the same conclusions as those set out by the Federal Court of Appeal in Eyeball Networks,[4] where it had to consider whether a share redemption constituted a transfer within the meaning of subsection 160(1) ITA.
+[22] In the appellant’s submission, the two distributions by the Trust to the appellant in 2004 and 2005 are capital distributions by a personal trust within the meaning of subsection 107(2) ITA. The ITA thus creates an irrebuttable presumption that the Trust received a sufficient contribution in exchange for the funds distributed to the Trust beneficiary when certain conditions are met, as he submits is the case here.
+[23] The appellant is entitled to challenge the Underlying Assessment made concerning the Trust, as the courts have repeatedly held.[5] If the appellant is able to challenge that assessment, the appeal must be allowed, since one of the conditions for subsection 160(1) ITA to apply requires that “[t]he transferor must be liable to pay tax under the Act at the time of transfer”.[6]
+[24] The Court notes that the burden of proof in tax matters generally rests on the appellant. The appellant bears the burden of demolishing the Minister’s presumptions of fact, and he must prove, on a balance of probabilities, the facts that support his position that the assessment is not correct.[7] That said, the burden of proof is not determinative in this case in any event, since proof of the facts is secondary to the questions of law.
+V. Analysis A. Relevant Provisions of the ITA [25] At the hearing of this case, the parties focused on four provisions of the ITA. They are reproduced in an appendix, as they read at the time they applied to the facts in this case (Appendix B). They are subsections 94(1), 107(2), 128.1(4) and 160(1) ITA.
+B. Issue I: Change of Residence of the Trust [26] The change of trustee on December 17, 2001, resulted on that date in a change in the Trust’s residence, where its central management and control was exercised. On that date, the Trust left Canada and emigrated to Barbados. That finding is not, in itself, disputed by the parties. Rather, the crucial point of the problem raised by the first issue is whether the Trust is deemed, for the purposes of the ITA, to have a taxation year end at the time it emigrated to Barbados by virtue of the wording of paragraph 128.1(4)(a) ITA, or whether subsection 94(1) ITA takes precedence over paragraph (4)(a) of section 128.1 so that the Trust’s residence in Canada continued for all legal purposes and, by the same token, did not result in a deemed year end. That determination will also make it possible to establish whether the Canada Revenue Agency was entitled to establish a taxation year end for the Trust on December 17, 2001, and deem a disposition of the Trust property at that time, as reflected in the Underlying Assessment.
+[27] Subsection 94(1) ITA was applied in Fundy Settlement,[8] which was decided by the Supreme Court of Canada. In the Federal Court of Appeal’s decision,[9] affirmed by the Supreme Court, the scheme created by subsection 94(1) was summarized as follows:
+[6] Subsection 94(1)… of the Income Tax Act is a special provision relating to trusts that are not resident in Canada. Broadly speaking, it applies when certain conditions are met as to the identity of the beneficiaries of the trust… and the manner in which the trust has acquired property….
+[9] If the beneficiary and contribution tests are met, and the trust is a discretionary trust…, then paragraph 94(1)(c) deems the trust to be a person resident in Canada for the purposes of Part I of the Income Tax Act and certain provisions in Part XIV imposing reporting requirements…. Part I of the Income Tax Act contains the main charging provisions of the Income Tax Act, including section 2, the provision that imposes on every person resident in Canada a tax on income from any source in the world. …
+[28] Subsection 94(1) ITA is a way for the Canadian government to create a presumption that certain trusts are resident in Canada for specified tax purposes when, but for that subsection, they would not be. The effect of that presumption is therefore to make those trusts subject to Canadian tax obligations they would otherwise not have borne.[10]
+[29] Subsection 128.1(4) ITA, for its part, creates a number of consequences in the event that a taxpayer emigrates. In this case, the very first presumption in that subsection is relevant. The effect of paragraph 128.1(4)(a) is to deem a trust’s taxation year that is then current to have ended immediately before the time when the trust’s residence in Canada ends and a new taxation year to have begun at the time the residence in Canada ends. A deemed disposition of trust property (apart from the exceptions noted in the provision) takes place at the last moment of the taxation year deemed to have ended.[11] The purpose of subsection 128.1(4) is not to determine a taxpayer’s non-resident status; rather, that status is a prerequisite for the subsection to apply.
+[30] One effect of the mechanism in subsection 128.1(4) ITA is to create a starting tax that the taxpayer in question must pay on their unrealized gains, if any, at the time of their emigration from Canada. After that, for the new taxation year created under paragraph (a) or (a.1), as the case may be, the ITA may impose other obligations or consequences on the taxpayer in issue. It must also be noted that the rules imposed under subsection 128.1(4) apply to the ITA in its entirety, with no indication that such application may be subject to an express provision to the contrary elsewhere.
+[31] On reading subsections 94(1) and 128.1(4) ITA alone, the Court notes that subsection 128.1(4) does not determine residence status; rather, it requires that non-resident status occur at a particular time in order for it to apply. Once the change of status occurs at a particular time, the subsection triggers a series of consequences relating to both the taxation year before that particular time and the taxation year after that particular time. The existence of the particular time is therefore decisive both for the purposes of the subsection itself and for any other purpose of the ITA.
+[32] Regarding subsection 94(1) ITA, and more specifically paragraph (a) for the purposes of this appeal,[12] the Court notes that the paragraph does not determine the residence status of the trust, but that in the two situations it describes, the trust does not reside in Canada during the taxation year in question of the trust. Even more importantly, paragraph (a) also does not determine the taxation year of the trust to which it refers other than to refer to a taxation year of the trust during which the trust does not reside in Canada. In the view of the Court, the wording of paragraph (a) supports the position that the taxation year in question of the trust is determined otherwise, under a different provision of the ITA.
+[33] In the definition of a taxation year, paragraph 249(1)(c) ITA states that, for the purposes of the ITA, except as expressly otherwise provided, a taxation year of an inter vivos trust is a calendar year.
+[34] In this case, it is admitted that at a particular time on December 17, 2001, the Trust became a non-resident of Canada. We also know that, except as expressly otherwise provided, subsection 249(1) ITA determines that the taxation year of a trust is a calendar year. However, we also know that paragraph 128.1(4)(a) ITA, as a provision of the ITA that applies for all purposes of the ITA, determines that the taxation year of a taxpayer (including an inter vivos trust) ends at a particular time and that the particular time may therefore be a time other than the last time in a calendar year. Consequently, it cannot be ruled out that the taxation year to which paragraph 94(1)(a) refers is a completely different year and not a calendar year, by virtue of an express provision to the contrary in the ITA, in this case in paragraph 128.1(4)(a). All that paragraph 94(1)(a) requires in relation to the taxation year in issue is that the trust not be resident in Canada during that year.
+[35] Nor is paragraph 94(1)(a) ITA any more or less stringent or specific regarding the meaning of the taxation year to which it refers. For the Trust to be subject to subsection 94(1), it must have become a non-resident of Canada: “at any time in a taxation year of a trust that is not resident in Canada or that, but for paragraph 94(1)(c), would not be so resident”.
+[36] In addition, regarding determination of the taxation year in issue for the purposes of subsection 94(1), there is nothing in the ITA that requires that the effect of a provision of the Act of general application be ignored or that an exception that takes precedence over any other rule be considered.
+[37] In these circumstances, it does not seem to be possible to conclude correctly that subsection 94(1) ITA may constitute a sort of provision that takes precedence over subsection 128.1(4) ITA, in particular for the purpose of establishing the taxation year of the Trust. In fact, the wording of subsection 94(1) does not prevent subsection 128.1(4) from being applied first. Indeed, this sequence of application of the provisions appears to be what is indicated.
+[38] Concerning the determination of the taxation year of the Trust, subsection 128.1(4) ITA applies and takes precedence over subsection 249(1) ITA for the purposes of determining the end of a taxation year and the beginning of another taxation year of the Trust. The conditions for subsection 94(1) ITA to apply are then applied regarding the year referred to in subsection 94(1), namely, the taxation year during which the Trust is not resident in Canada. That situation can only refer to the new taxation year determined under paragraph 128.1(4)(a), since at no time was the Trust non-resident in Canada during the taxation year that ended immediately before the particular time when the Trust ceased to be resident in Canada. The consequences of section 94 therefore relate to the taxation year of the Trust that starts at the time it ceases to be resident in Canada.
+[39] In the appellant’s view, subsection 94(1) ITA applies to ensure that the Trust has a sort of continuous residence status and thus avoid the application of subsection 128.1(4) ITA, since it never left Canada for the purposes of the Act. That reading of the Act is not tenable. The Court’s analysis unfortunately leaves it no choice but to believe that the effect of the appellant’s position is to add words to subsection 94(1). The change of residence will necessarily have triggered the application of subsection 128.1(4), which automatically applies as soon as there is a change of residence. The effect of that subsection then extends to paragraph 94(1)(a) to determine the taxation year in issue.
+[40] The Court is of the opinion that if Parliament had wanted subsection 94(1) ITA to preclude the application of subsection 128.1(4) ITA, it would have said so. The wording does not leave room for any different application or interpretation. The fact that Parliament subsequently amended section 94 to expressly preclude the interpretation the appellant seeks to assert is not relevant to the interpretation exercise in which the Court must engage.[13]
+[41] Upon completing a textual analysis of the two provisions and the other relevant provisions of the ITA, the Court finds that the text enacted by Parliament is clear. After consulting and analyzing both the English and French versions of the provisions, which are in fact to the same effect, the Court detects no notable ambiguity and is not prepared to draw the conclusion the appellant submits.
+[42] According to the teachings of the Supreme Court of Canada in interpretation matters, where there is precise and unequivocal wording in a statute as detailed, complex and exhaustive as the ITA, the ordinary meaning of the words plays a dominant role in the interpretative process, prevailing over, for example, the context or purpose of the provision.[14] The degree of precision and the clarity of the wording of the tax provision will influence the method of interpretation. Where there is no ambiguity in the meaning of a tax provision or its application to the facts, it is sufficient to apply it.[15]
+[43] This way of interpreting the two provisions is also consistent with what the Supreme Court of Canada has said: that insofar as possible, the applicable statute must be interpreted as forming a harmonious whole.[16]
+[44] However, the Court believes it is nonetheless appropriate to look a little more deeply into the context and purpose of the two provisions, in order to properly apply the modern method of interpretation advanced on numerous occasions by the Supreme Court of Canada. The Supreme Court points out that “[e]ven where the meaning of particular provisions may not appear to be ambiguous at first glance, statutory context and purpose may reveal or resolve latent ambiguities” and “[i]n order to reveal and resolve any latent ambiguities in the meaning of provisions of the Income Tax Act, the courts must undertake a unified textual, contextual and purposive approach to statutory interpretation”.[17]
+[45] Unfortunately for the appellant in this case, however, an analysis of the context and purpose of the provisions lends strength to the textual interpretation noted above.
+[46] The two provisions are found in Part I of the ITA, which concerns income tax. Subsection 94(1) ITA is found in Subdivision I, “Shareholders of Corporations Not Resident in Canada”, of Division B, “Computation of Income”. This context points toward the interpretation that the Trust must at least have become non‑resident before section 94 can apply. Subsection 128.1(4) ITA is found in Division F, “Special Rules Applicable in Certain Circumstances”. Division F follows Division E, “Computation of Tax”, among other divisions. The context tells us that subsection 128.1(4) creates a special tax specifically for the case of emigration by a Canadian taxpayer. Section 128.1 as a whole is in fact devoted to a taxpayer’s change of residence. In the Court’s view, when Parliament creates a special tax and includes a specific, detailed provision in the ITA in that regard, there must be a relatively explicit statement to preclude its application in a specific fact situation that is otherwise covered by that special tax. That conclusion is particularly true where, as in subsection 128.1(4), the wording actually avoids such a potential ambiguity by expressly providing that subsection 128.1(4) applies for the purposes of the ITA as a whole. Neither that clarity nor that clarification are to be found in the wording of section 94 with which we are concerned.
+[47] In other words, the appellant’s interpretation leads to a result that is contrary to the integration of two provisions, in a way that gives full effect to both. The appellant’s interpretation creates a distortion that is not in line with the statutory language of subsection 128.1(4) ITA, which confirms that it applies for the purposes of the ITA and does not (any more than subsection 94(1) ITA does) invite the possibility by way of an exception that another tax treatment could take precedence in a case of emigration.
+[48] Second, it can be inferred from the effects of subsection 128.1(4) ITA that its purpose is to crystallize and tax the gains realized by a taxpayer while in Canada before leaving for another jurisdiction. There was nothing presented at the hearing to support the conclusion that the purpose of subsection 94(1) ITA was to preclude that crystallization of gains. On the contrary, the purpose of subsection 94(1) is to add an additional Canadian tax on the passive income of trusts that would ordinarily be exempt from Canadian taxes because of their residence. It is therefore not a tax relief measure, nor is it a measure to replace the special tax in a case of emigration.
+[49] A reading of the explanatory notes from the Department of Finance[18] prepared at the time of the 2003 amendment of section 94 ITA[19] supports the position that the purpose of that provision was always to “[set] out rules that tax the passive income earned by certain non-resident trusts” and that it applies “if a person resident in Canada has transferred or loaned property to a non-resident trust that has one or more beneficiaries that are resident in Canada”. Once again, it seems that in order for section 94 to apply, it requires the Trust to have become non‑resident.
+[50] Nor is there anything to indicate that Parliament’s objective was to permit trusts like the Trust in this case to leave Canada and avoid the special tax in the case of emigration triggered by subsection 128.1(4) ITA. On the contrary, we can see from the news release published by the Department of Finance on October 2, 1996, entitled “Taxpayer Migration Rules to be Tightened”,[20] that the intention was to make more emigrants, “including trusts”, subject to the special tax.
+[51] Accordingly, both the context and the purpose of the provisions support the reading and interpretation that result from reading the clear and unambiguous language of the ITA in this case.
+[52] For these reasons, the Court is of the opinion that subsection 128.1(4) ITA did indeed apply when the Trust emigrated to Barbados, thus triggering the consequences described in that subsection. The Court concludes that, on the basis of the position advanced by the appellant regarding the validity of the Underlying Assessment, that assessment is correct in that the taxation year of the Trust ending on December 17, 2001, is valid in accordance with the provisions of subsection 128.1(4) ITA, in particular.
+C. Issue 2: The Consideration Given to the Trust [53] In Eyeball Networks, the Federal Court of Appeal summarized the scheme created by subsection 160(1) ITA as follows:
+[2] Subsection 160(1) provides that when a person transfers property to a non‑arm’s length person, the transferee and transferor are jointly and severally liable to pay any amount that the transferor was liable to pay under the Act for the taxation year in which the transfer occurred and any preceding years. Under paragraph 160(1)(e), the transferee’s liability is limited to the excess of the fair market value of the property transferred over the fair market value of the consideration given for the property. This provision applies whether or not the transferor or the transferee was aware of any tax liability at the time of the transfer.
+[54] For subsection 160(1) ITA to apply, a number of conditions must be met. Those conditions were set out by the Federal Court of Appeal in Livingston. One is that the fair market value of the property transferred by the transferor must exceed the fair market value of the consideration given by the transferee.[21] In other words, under subsection 160(1), the transferee of property is liable to the Canada Revenue Agency to the extent that the fair market value of the consideration given by the transferee for the property transferred falls short of the fair market value of that property.[22] In the same paragraph of Livingston, Justice Sexton added:
+… The very purpose of subsection 160(1) is to preserve the value of the existing assets in the taxpayer for collection by the CRA. Where those assets are entirely divested, subsection 160(1) provides that the CRA’s rights to those assets can be exercised against the transferee of the property. However, subsection 160(1) will not apply where an amount equivalent in value to the original property transferred was given to the transferor at the time of transfer: that is, fair market value consideration. This is because after such a transaction, the CRA has not been prejudiced as a creditor. …
+[55] In the appellant’s view, that condition has not been met, since he gave consideration at the time of the two distributions he received from the Trust and the value of that consideration was equal to the proceeds of the distribution. On that point, he submits that the application of subsection 107(2) ITA triggers three consequences: (1) the Trust is deemed to have disposed of its property and received proceeds of disposition equal to its cost amount; (2) the transferee is deemed to have acquired it at that cost; and (3) the transferee is deemed to have disposed of all or part of the transferee’s interest and to have received for it proceeds equal to the cost for which the transferee is deemed to have acquired the property from the Trust. On this basis, he concludes that subsection 107(2) clearly establishes that in exchange for the distribution of capital by the Trust, the transferee is deemed to have disposed of the transferee’s capital interest at the same cost, in equivalent manner.
+[56] The appellant therefore submits that the condition in subsection 160(1) ITA relating to the consideration given at the time of the transfer must be interpreted in light of the third consequence of subsection 107(2) ITA, which establishes that the transferee is deemed to have disposed of all or part of the transferee’s interest. It must therefore be determined whether that deemed disposition is equivalent to the fair market value of the property transferred by the Trust.
+[57] He states that this interpretation is not contrary to the purpose of subsection 160(1) ITA, since it does not cause the Canada Revenue Agency to lose its right to recover by virtue of the tax-deferred transfer mechanism provided in subsection 107(2) ITA. Its right to recover is simply deferred to the time when the transferee disposed of the property.
+(a) Concept of consideration given for the purposes of paragraph 160(1)(e) ITA [58] Paragraph 160(1)(e) ITA refers, first, to a transfer of property from the transferor to the transferee and, second, to consideration given for the property to the transferor by the transferee. It is not disputed that there was a transfer of property from the Trust to the appellant. The concept of transfer is central to the purposes of subsection 160(1) because it is a sine qua non condition for the provision to apply. In these circumstances, a clear understanding of the meaning of the word “transfer” is called for, since it must inform the analysis of the effect of the consideration given.
+[59] In Kieboom,[23] the Federal Court of Appeal gave its opinion on the meaning to be given to the expression “transfer of property” found in another provision of the Act:
+In my view, the phrase “transfer of property” is used in this provision in a rather broad sense. Both of the nouns in the phrase are general and non-technical. As for the word transfer, Lord Justice James in Gathercole v. Smith (1880-81), 17 Ch. D. 1 (C.A.), stated at page 7 that the noun transfer was “one of the widest terms that can be used.” Lord Justice Lush [at page 9] stated that the word “transferable” includes “every means by which the property may be passed from one person to another.”
+President Thorson, relying on the above definitions in Fasken, David v. Minister of National Revenue, [1948] Ex.C.R. 580, at page 592, stated:
+The word “transfer” is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result, whether direct or circuitous, may properly be called a transfer.
+[60] In Damis Properties,[24] reversed on appeal[25] but affirmed on this point, this Court interpreted the decisions of the Federal Court of Appeal on this issue as follows:
+[131] Second, the Court dismisses Mr. Kieboom’s narrow classification of the property in issue as particular shares in the corporation. This suggests to me that rather than attempting to trace particular property, one must consider all the circumstances and determine whether it is reasonable to conclude that there is a connection between the diminishment of the property of one person and the increase in the property of another person. This is the approach taken in Kieboom and Medland.
+[Emphasis added.]
+[61] Several notions must be taken from these passages in the case law. First, the concept of transfer contemplated in this subsection is a transfer in the economic sense of the term. It refers to a transfer of economic value from one party to another. That transfer can also take an infinite number of forms. What counts is whether, after all the steps in the transfer, and upon comparison of the patrimonies of the parties concerned before and after the transfer, the value of each patrimony has increased or decreased. If there is a reasonable connection between the increase of one and the decrease of the other, then it can be concluded that a transfer took place.
+[62] This broader issue of transfer, in the ordinary and non-technical meaning of the word, and the importance of the role of economic transfer in subsection 160(1) ITA, also colours the meaning that must be given to paragraph 160(1)(e), where Parliament refers to consideration given for the property received at the time of the transfer. When one party is enriched and the other impoverished by an equal amount, it can be concluded that the enriched party did not offer equivalent consideration; otherwise, the value of their patrimony would remain the same. Accordingly, where the transferee is enriched and the transferor is impoverished, it is difficult to disregard the fact that the conditions in paragraph 160(1)(e) have been met. The economic aspect represented by a discrepancy between the fair market value of the property transferred and the fair market value of the consideration given plays a decisive role.
+(b) Legal relationship between the Trust and the appellant-transferee [63] To apply the legal framework described above to the facts in this case, it is essential that the legal relationship between the Trust and the appellant be properly defined. This exercise starts with an examination of the Deed of Trust.
+[64] The parties agree that the Deed of Trust created a discretionary personal trust, that is, that no beneficial interest in the Trust was acquired for consideration to be paid directly or indirectly and that its trustee had the power to distribute the property of the Trust, in its entire discretion, to one or more beneficiaries set out in Schedule A to the Deed of Trust, in any proportion. The beneficiaries therefore had a right to be considered in any distribution by the trustee but, strictly speaking, had no right to any funds without a unilateral decision of the trustee. The Deed of Trust did not distinguish between beneficiaries of the income and beneficiaries of the capital.
+[65] The Deed of Trust did not limit the number of distributions that the trustee could make to a beneficiary or beneficiaries or the time when such distributions could take place. The rights of the beneficiaries in the Deed of Trust were not encumbered by any limitation, in that their rights remained fully intact as long as they continued to be beneficiaries of the Trust. In other words, the rights of beneficiaries were not alienated, reduced or extinguished in part during the life of the Trust, whether or not the trustee made distributions. Although the economic value of an interest may have varied from the standpoint of its beneficiary, the distributions by the trustee had no impact on the rights of a beneficiary of the Trust who did or did not receive a distribution.
+[66] Two other fundamental sources in this case are the resolutions adopted by the trustee of the Trust upon each of the two distributions made to the appellant on January 8, 2004, and December 30, 2005. In the first resolution, the trustee exercised its discretion to pay the amount of $2,250,000 to the appellant. There was no mention of any consideration paid by the appellant. In the second, the trustee again exercised its discretion to pay the balance of the assets of the Trust to the appellant only. There was no mention of consideration. However, in that second distribution resolution, it was decided that once the property was distributed, the Trust would be terminated, since the Trust would no longer be necessary. Both of these distributions were described as capital distributions.
+[67] Several things can be concluded from these two documents. First, before the resolutions were adopted, the appellant had a right in the Trust to be considered by the trustee for any distribution on the same basis as the other beneficiaries.[26] There is no evidence of the value of that right, and there is nothing to suggest that anyone had paid even a very small amount for it. Indeed, it is quite unlikely that such a right could be transferred to a third party.[27] Second, the resolutions do not mention any consideration paid to the Trust. Furthermore, the resolutions are a discretionary unilateral act by the trustee of the Trust who is responsible for handling the administration of the Trust, rather than an exchange between two parties.
+[68] After the first distribution, the appellant still had the same rights in the Trust as any other beneficiary (his rights did not change), but, in addition, his patrimony was enriched by $2,250,000. His enrichment was direct. The Trust was impoverished by a corresponding amount. It still had the same obligations, but its patrimony was impoverished by $2,250,000. This distribution alone is sufficient to cover all of the tax debt for the purposes of subsection 160(1) ITA.
+[69] The situation is exactly the same for the second distribution. The fact that the trustee terminated the Trust’s existence once that distribution had been completed does not change the fact that the distributions were made unilaterally, without the appellant paying anything to the Trust for the funds paid. All of the beneficiaries (including the appellant) remained beneficiaries of the Trust up to the final moment when the Trust was extinguished.
+[70] The appellant had the burden of proving to the Court that he had paid consideration to the Trust in exchange for the distributions. This has not been proved, and he has not established that he was impoverished by the extinction of one of his rights. It is not useful to speculate about what the relationship might have been if established: tax law is consequential law that is based on the actual relationships between the parties,[28] and here, in light of the evidence in the record, the Court finds that the appellant paid no consideration to the Trust.
+(c) Position of the appellant in relation to Eyeball Networks [71] At this stage, it is useful to discuss the analogy the appellant draws between the facts of his case and the facts in Eyeball Networks, recently decided by the Federal Court of Appeal. Eyeball Networks featured a series of transactions that involved share redemption. In that case, the Court of Appeal laid down certain principles relevant to the possible application of subsection 160(1) ITA to share redemption.
+[72] The Court finds it difficult to see how a capital distribution of which the appellant was the beneficiary can be likened to a share redemption. In a share redemption, the company undeniably buys something back from the shareholder: the shares. Before a redemption, the shareholder owns a share that has a certain value. The shareholder gives their shares back in order to obtain the value offered by the company. The shares leave the shareholder’s patrimony.
+[73] In this case, on the contrary, a distribution does not mean that the beneficiary divested himself of his asset, that is, his interest in the Trust. His interest and his rights in the Trust remained intact. The appellant was beneficiary of the Trust before the distribution and retained the same rights as beneficiary of the Trust after the distribution. The distribution had no impact on the inherent rights recognized as a beneficiary of the Trust. When the distributions were made, the appellant did not divest himself of any property or right he had been given as a beneficiary. His patrimony was not impoverished of any property; it was simply enriched, unilaterally, at the expense of the Trust property. This is certainly not a criticism, since in some situations, this result is part of the purpose of an inter vivos trust.
+[74] If we wanted to draw comparisons with the corporate scheme, the distribution of the Trust is much more akin to a dividend payment than a share redemption, although the parallel is not exact. In both cases, an entity unilaterally pays part of its property to another person, while the other person makes no divestment whatsoever. In both cases, before the entity adopts the distribution resolution, the holder of the right may not generally demand payment of any amount. A dividend payment has been characterized by this Court and by the Federal Court of Appeal as a payment made without consideration for the purposes of subsection 160(1) ITA.[29]
+[75] In the circumstances, unfortunately for the appellant, Eyeball Networks is of no assistance.
+(d) Position of the appellant in relation to subsection 107(2) ITA [76] In the appellant’s submission, notwithstanding the foregoing conclusions, the Trust is still deemed to have received sufficient consideration as a consequence of the presumption in subsection 107(2) ITA, and that presumption is applicable in the case of an assessment made under subsection 160(1) ITA.
+[77] To summarize, subsection 107(2) ITA provides for the rollover of the property of a personal trust to a beneficiary of the trust capital, so as to defer the tax payable on that transaction in certain circumstances.[30] The respondent seems to concede that this provision applies in this case. One of the consequences of the application of this provision to a distribution of property by a trust is that “the trust shall be deemed to have disposed of the property for proceeds of disposition equal to its cost amount to the trust immediately before that time”.
+[78] There is no need for further consideration of the application of that provision to the facts in this case. No tax consequences flow from the application of that subsection for the purposes of this case and, in the opinion of the Court, the special tax treatment created by that provision does not have the connection desired by the appellant with the analysis that must be done as part of an assessment under subsection 160(1) ITA.
+[79] As the Federal Court of Appeal has held, the word transfer must be understood in its ordinary, economic, and non-technical or non-fiscal sense. Where there is a transfer of value between two patrimonies, there is a transfer within the meaning of subsection 160(1) ITA. Moreover, the tax treatment to which the parties may be subject changes nothing in terms of economic reality and cannot create consideration where there is none.
+[80] If we follow the appellant’s reasoning, subsection 160(1) would be inapplicable any time a parent gives property to their child since, under paragraph 69(1)(b) ITA, the parent would be deemed to have received consideration equal to the fair market value of the property given—and yet, that is the archetypal situation that Parliament intended to address with subsection 160(1).[31] It is therefore difficult to see how the tax treatment of a transaction could interact with the concept of transfer provided by Parliament for the purposes of subsection 160(1) ITA.
+[81] In any event, the actual text of subsection 107(2) ITA does not support the effect the appellant seeks to give it. Subparagraph 160(1)(e)(i) ITA allows the liability of the beneficiary of the transfer to be limited by “the consideration given for the property” at the time it was transferred. However, the effects of paragraph 107(2)(a) are deemed to occur “immediately before that time”, that time being the time of the distribution. It is therefore a consequence specific to the tax treatment of the trust for the distribution that does not affect the beneficiary. The wording of subsection 107(2) does not establish that the deemed consideration received by the trust is paid or deemed to be paid by the beneficiary; paragraph 107(2)(a) simply deems the trust to have received proceeds of disposition equal to the cost amount to the trust. The effect of that presumption is limited to the tax treatment of the trust. The integration of subsections 107(2) and 160(1) sought by the appellant definitely fails.
+[82] As a result, subsection 107(2) ITA is of no assistance to the appellant in his attempt to establish that he gave the Trust consideration equivalent to the value of the distribution at the time of that distribution.
+[83] The Court has no choice but to conclude that the appellant paid no consideration in exchange for the distributions made to him by the Trust.
+VI. Disposition [84] In view of the foregoing, the appeal from the assessment made under subsection 160(1) of the Income Tax Act by notice dated September 15, 2016, is dismissed, with costs to the respondent.
+Signed at Montreal, Quebec, this 8th day of July 2024.
+“J.M. Gagnon”
+Gagnon J.
+Translation certified true
+on this 29th day of December 2025
+Vera Roy, Senior Jurilinguist
+SCHEDULE A—AGREEMENT AS TO THE FACTS
+2017-4463(IT)G
+TAX COURT OF CANADA
+BETWEEN::
+ANDRZEJ BARWICZ
+Appellant
+and
+HIS MAJESTY THE KING
+Respondent
+AGREED STATEMENT OF FACTS (PARTIAL)
+The parties agree on the following facts for the sole purposes of this appeal and without prejudice to their right to prove additional facts at the hearing of this appeal that are not inconsistent with the facts set out herein.
+1. The appellant, born on June 1, 1942, is the spouse of Joanna Barwicz (Zdrojewska) (Ms. Barwicz).
+2. At all relevant times, the appellant and Ms. Barwicz were Canadian residents.
+3. Zaba Trust, a discretionary trust, was created in Ontario on December 13, 2001, by the settlor, Ms. Barwicz.[32]
+4. As the initial property, Ms. Barwicz transferred a coin and US$25,000 to Zaba Trust.
+5. Royal Trust Corporation of Canada, a corporation resident in Canada, was appointed as trustee at the time Zaba Trust was created.[33]
+6. Wieslaw Barwicz was named protector of Zaba Trust.[34]
+7. The appellant was one of the beneficiaries of Zaba Trust.[35]
+8. No beneficial interest was acquired for consideration payable to Zaba Trust or to any person who made a contribution to Zaba Trust.
+9. The trustee of Zaba Trust had discretion to allocate income or capital to one or more beneficiaries.[36]
+10. On December 13, 2001, Zaba Trust acquired 1,225,932 shares of the share capital of Bookham Exchange Inc. (Bookham Exchange), a company incorporated in Canada, from Fiducie Familiale Barwicz.[37]
+11. From December 13, 2001, to December 17, 2001, the place of business and head office of Zaba Trust were located in Canada.
+12. On December 17, 2001, the Canadian trustee Royal Trust Corporation of Canada was replaced by a trustee resident in Barbados: Royal Bank of Canada Financial Corporation.[38]
+13. Commencing on December 17, 2001, Royal Bank of Canada Financial Corporation, a trustee resident in Barbados, exercised management and control of Zaba Trust.[39]
+14. On or about December 17, 2001, Zaba Trust moved its activities to Barbados.
+15. Zaba Trust did not file any tax returns for the period ending on December 17, 2001.
+16. On December 31, 2001, Zaba Trust received 1,225,932 shares of Bookham Technology PLC (Bookham Technology) in exchange for the 1,225,932 shares of Bookham Exchange.[40]
+17. Bookham Technology was a company listed on the London and Nasdaq exchanges that had its head office in the United Kingdom.
+18. On April 3, 2002, Zaba Trust filed a T3 tax return for its taxation year ending on December 31, 2001,[41] in which it reported a capital gain of $4,542,808 from the disposition (exchange) of the 1,225,932 shares it held in Bookham Exchange and claimed a deduction in computing its taxable income under subparagraph 110(1)(f)(i) of the ITA of the same amount, citing paragraph 4 of Article XIV of the Agreement between Canada and Barbados for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income and on Capital (the Agreement).
+19. On December 27, 2002, the Minister of National Revenue (Minister) made an initial assessment, without an audit, concerning the return filed by Zaba Trust for its taxation year ending on December 31, 2001.
+20. On January 8, 2006, the Canada Revenue Agency (the CRA) began an audit of Zaba Trust for the period from December 13, 2001, to December 31, 2003. From that audit, the Minister concluded that Zaba Trust had not realized a capital gain in the share exchange on December 31, 2001. As well, the Minister was of the opinion that Zaba Trust was not entitled to the deduction claimed under subparagraph 110(1)(f)(i) of the ITA.[42]
+21. In 2003, Zaba Trust sold the 1,225,932 shares of Bookham Technology.[43]
+22. Zaba Trust reported a capital loss in its tax return for the 2003 taxation year.[44]
+23. From the audit done by the CRA, the Minister concluded that Zaba Trust was not entitled to a capital loss from the disposition of the shares of Bookham Technology in 2003.
+24. On January 8, 2004, Zaba Trust distributed $2,250,000 to the appellant.[45]
+25. On December 30, 2005, Zaba Trust distributed $830,288 to the appellant.[46]
+26. On August 29, 2007, the CRA auditor asked the appellant to provide documents and forms concerning Zaba Trust. In reply to that request, on June 3, 2008, Zaba Trust submitted form T1142, “Information Return in Respect of Distributions from and Indebtedness to a Non-Resident Trust”, for each of 2004 and 2005.[47]
+27. On June 10, 2009, the Minister issued an initial notice of assessment to Zaba Trust for the taxation year ending on December 17, 2001.[48] A taxable capital gain of $2,271,404 was included in Zaba Trust’s income.
+28. Zaba Trust duly objected to the initial notice of assessment dated June 10, 2009, and was notified on December 21, 2012, of the Minister’s decision to maintain the initial notice of assessment.[49]
+29. After duly objecting to that notice of assessment, Zaba Trust filed an appeal to the Tax Court of Canada on or about March 12, 2013.[50]
+30. Zaba Trust discontinued its appeal on or about March 26, 2014.[51]
+31. The Minister made an assessment against the appellant on September 15, 2016, under subsection 160(1) ITA in the amount of $1,602,233.35.[52]
+32. The appellant duly objected to that assessment within the time limit, on October 25, 2016.
+33. On November 2, 2017, the assessment was confirmed.
+SCHEDULE B -- PROVISIONS OF THE ITA
+94.(1) Where,
+(a) at any time in a taxation year of a trust that is not resident in Canada or that, but for paragraph 94(1)(c), would not be so resident, a person beneficially interested in the trust (in this section referred to as a “beneficiary”) was
+(i) a person resident in Canada, … and
+(b) at any time in or before the taxation year of the trust,
+(i) the trust, or a non-resident corporation that would, if the trust were resident in Canada, be a controlled foreign affiliate of the trust, has, other than in prescribed circumstances, acquired property, directly or indirectly in any manner whatever, from
+(A) a particular person who
+(I) was the beneficiary referred to in paragraph 94(1)(a), was related to that beneficiary or was the uncle, aunt, nephew or niece of that beneficiary,
+(II) was resident in Canada at any time in the 18 month period before the end of that year or, in the case of a person who has ceased to exist, was resident in Canada at any time in the 18 month period before the person ceased to exist, and
+(III) in the case of an individual, had before the end of that year been resident in Canada for a period of, or periods the total of which is, more than 60 months, or
+(B) a trust or corporation that acquired the property, directly or indirectly in any manner whatever, from a particular person described in clause 94(1)(b)(i)(A) with whom it was not dealing at arm's length
+and the trust was not
+(C) an inter vivos trust created at any time before 1960 by a person who at that time was a non-resident person,
+(D) a testamentary trust that arose as a consequence of the death of an individual before 1976, or
+(E) governed by a foreign retirement arrangement …
+the following rules apply for that taxation year of the trust:
+(c) where the amount of the income or capital of the trust to be distributed at any time to any beneficiary of the trust depends on the exercise by any person of, or the failure by any person to exercise, any discretionary power,
+(i) the trust is deemed for the purposes of this Part and sections 233.3 and 233.4 to be a person resident in Canada no part of whose taxable income is exempt because of section 149 from tax under this Part and whose taxable income for the year is the amount, if any, by which the total of
+(A) the amount, if any, that would but for this subparagraph be its taxable income earned in Canada for the year …
+Emigration
+128.1 (4) For the purposes of this Act, where at a particular time a taxpayer ceases to be resident in Canada,
+Year-end, fiscal period
+(a) where the taxpayer is a corporation or a trust,
+(i) the taxpayer's taxation year that would otherwise include the particular time shall be deemed to have ended immediately before the particular time and a new taxation year of the taxpayer shall be deemed to have begun at the particular time, …
+Deemed disposition
+(b) the taxpayer is deemed to have disposed, at the time (in this paragraph and paragraph (d) referred to as the “time of disposition”) that is immediately before the time that is immediately before the particular time, of each property owned by the taxpayer other than, if the taxpayer is an individual, …
+Reacquisition
+(c) the taxpayer is deemed to have reacquired, at the particular time, each property deemed by paragraph (b) or (b.1) to have been disposed of by the taxpayer, at a cost equal to the proceeds of disposition of the property;
+Distribution by personal trust
+107(2) Subject to subsections (2.001), (2.002) and (4) to (5), if at any time a property of a personal trust or a prescribed trust is distributed (otherwise than as a SIFT trust wind-up event) by the trust to a taxpayer who was a beneficiary under the trust and there is a resulting disposition of all or any part of the taxpayer’s capital interest in the trust,
+(a) the trust shall be deemed to have disposed of the property for proceeds of disposition equal to its cost amount to the trust immediately before that time;
+(b) subject to subsection (2.2), the taxpayer is deemed to have acquired the property at a cost equal to the total of its cost amount to the trust immediately before that time and the specified percentage of the amount, if any, by which
+(i) the adjusted cost base to the taxpayer of the capital interest or part of it, as the case may be, immediately before that time (determined without reference to paragraph (1)(a))
+exceeds
+(ii) the cost amount to the taxpayer of the capital interest or part of it, as the case may be, immediately before that time;
+(b.1) for the purpose of paragraph (b), the specified percentage is,
+(i) where the property is capital property (other than depreciable property), 100%, and
+(ii) [Repealed, 2016, c. 12, s. 36]
+(iii) in any other case, 50%;
+Tax liability re property transferred not at arm’s length
+160(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of The Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+94.(1) Lorsque:
+a) d'une part, à un moment donné d'une année d'imposition d'une fiducie qui ne réside pas au Canada, ou qui, sans l'alinéa c), n'y résiderait pas, une personne ayant un droit de bénéficiaire sur la fiducie (appelé un “bénéficiaire” au présent article) était:
+(i) une personne résidant au Canada, …
+b) d'autre part, à un moment donné avant la fin de l'année d'imposition de la fiducie:
+(i) soit la fiducie, ou une société non-résidente qui serait une société étrangère affiliée contrôlée de la fiducie si la fiducie résidait au Canada, a acquis des biens, directement ou indirectement, de quelque manière que ce soit, en des circonstances différentes des circonstances prévues par règlement, auprès:
+(A) ou bien d'une personne donnée qui remplit les conditions suivantes:
+(I) elle était le bénéficiaire visé à l'alinéa a), elle était liée à ce bénéficiaire ou elle était l'oncle, la tante, le neveu ou la nièce de ce bénéficiaire,
+(II) elle résidait au Canada à un moment donné de la période de 18 mois précédant la fin de cette année ou, dans le cas d'une personne qui a cessé d'exister, elle résidait au Canada à un moment donné de la période de 18 mois avant de cesser d'exister,
+(III) dans le cas d'un particulier, elle avait, avant la fin de cette année, résidé au Canada pendant une ou plusieurs périodes représentant, au total, plus de 60 mois,
+(B) ou bien d'une fiducie ou d'une société qui a acquis le bien directement ou indirectement, de quelque manière que ce soit, auprès d'une personne donnée visée à la division (A) avec laquelle elle avait un lien de dépendance,
+et la fiducie n'était:
+(C) ni une fiducie non testamentaire créée à un moment donné avant 1960 par une personne qui, à ce moment, n'était pas résidante,
+(D) ni une fiducie testamentaire créée à la suite du décès d'un particulier avant 1976,
+(E) ni régie par un mécanisme de retraite étranger …
+les règles suivantes s'appliquent pour cette année d'imposition de la fiducie:
+c) lorsque le montant du revenu ou du capital de la fiducie à attribuer à un moment donné à un bénéficiaire de la fiducie est fonction de l'exercice ou de l'absence d'exercice, par une personne, d'un pouvoir discrétionnaire:
+(i) la fiducie est réputée, pour l'application de la présente partie et des articles 233.3 et 233.4, être une personne résidant au Canada dont aucune partie du revenu imposable n'est exonérée, par l'effet de l'article 149, de l'impôt prévu à la présente partie et dont le revenu imposable pour l'année correspond à l'excédent éventuel de la somme des montants suivants:
+(A) le montant qui constituerait son revenu imposable gagné au Canada pour l'année si ce n'était le présent sous-alinéa, …
+Émigration
+128.1(4) Pour l'application de la présente loi, les règles suivantes s'appliquent au contribuable qui cesse de résider au Canada à un moment donné:
+Fin d'année et exercice
+a) lorsque le contribuable est une société ou une fiducie, les présomptions suivantes s'appliquent:
+(i) son année d'imposition qui comprendrait par ailleurs le moment donné est réputée avoir pris fin immédiatement avant ce moment et sa nouvelle année d'imposition, avoir commencé à ce moment, …
+Présomption de disposition
+b) le contribuable est réputé avoir disposé, au moment (appelé “moment de la disposition” au présent alinéa et à l'alinéa d)) immédiatement avant le moment immédiatement avant le moment donné, de chaque bien lui appartenant, à l'exception des biens ci-après s'il est un particulier, pour un produit égal à la juste valeur marchande du bien au moment de la disposition, et ce produit est réputé être devenu à recevoir et avoir été reçu par lui au moment de la disposition …
+Nouvelle acquisition
+c) le contribuable est réputé avoir acquis de nouveau, au moment donné, chaque bien dont il est réputé par les alinéas b) ou b.1) avoir disposé, à un coût égal au produit de disposition du bien.
+Distribution par une fiducie personnelle
+107(2) Sous réserve des paragraphes (2.001), (2.002) et (4) à (5), les règles ci-après s’appliquent dans le cas où, à un moment donné, une fiducie personnelle ou une fiducie visée par règlement effectue, au profit d’un contribuable bénéficiaire, une distribution (qui ne constitue pas un fait lié à la conversion d’une EIPD-fiducie) de ses biens qui donne lieu à la disposition de la totalité ou d’une partie de la participation du contribuable au capital de la fiducie :
+a) la fiducie est réputée avoir disposé de ces biens et en avoir tiré un produit égal au coût indiqué de ces biens, pour la fiducie, immédiatement avant ce moment;
+b) sous réserve du paragraphe (2.2), le contribuable est réputé avoir acquis les biens à un coût égal à la somme de leur coût indiqué pour la fiducie immédiatement avant ce moment et du pourcentage déterminé de l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii):
+(i) le prix de base rajusté pour lui de la participation au capital ou de la partie de cette participation, selon le cas, immédiatement avant ce moment (déterminé compte non tenu de l’alinéa (1)a)),
+(ii) le coût indiqué pour lui de la participation au capital ou de la partie de cette participation, selon le cas, immédiatement avant ce moment;
+b.1) pour l’application de l’alinéa b), le pourcentage déterminé correspond au pourcentage applicable suivant :
+(i) si les biens sont des immobilisations (sauf des biens amortissables), 100 %,
+(ii) [Abrogé, 2016, ch. 12, art. 36]
+(iii) dans les autres cas, 50 %;
+Transfert de biens entre personnes ayant un lien de dépendance
+160(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire du transfert et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’ article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire du transfert et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l’égard du montant qu’il doit payer par l’effet du présent paragraphe.
+CITATION:
+2024 TCC 93
+COURT FILE NO.:
+2017-4463(IT)G
+STYLE OF CAUSE:
+ANDRZEJ BARWICZ AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+February 13 and 14, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+July 8, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Julie Gaudreault-Martel
+Stéfany Grenier
+Counsel for the Respondent:
+Nathalie Labbé
+Christophe Tassé-Breault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Julie Gaudreault-Martel
+Stéfany Grenier
+Firm:
+De Grandpré Chait LLP
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (ITA).
+[2] The appellant’s children and grandchildren were also designated as beneficiaries generally, without being expressly individually named. In the event of the death of the beneficiaries, their heirs were also designated. In addition, the business corporations all of whose shareholders were beneficiaries shown in the list in Schedule A to the Deed of Trust were also designated.
+[3] The appellant refers to the word “deemed” in subsections 44 et seq. of his written submissions. He does not cite a source, but it is generally agreed that the use of the word “deemed” creates an absolute presumption. See Al-Mosawer v. MNR, 1998 CanLII 110 (TCC). In the civil law, that concept is established by statute in the second paragraph of article 2947 of the Civil Code of Québec and was confirmed by the SCC in Construction Gilles Paquette Ltée v. Entreprises Végo Ltée, [1997] 2 S.C.R. 299.
+[4] Eyeball Networks Inc. v. Canada, 2021 FCA 17 [Eyeball Networks].
+[5] Gaucher v. Canada, [2001] 1 C.T.C. 125 (F.C.A.).
+[6] Canada v. Livingston, 2008 FCA 89 [Livingston].
+[7] Eisbrenner v. The Queen, 2020 FCA 93.
+[8] Fundy Settlement v. Canada, 2012 SCC 14 [Fundy Settlement].
+[9] Fundy Settlement v. Canada, 2010 FCA 309.
+[10] See the decision of the Federal Court of Appeal in Fundy Settlement.
+[11] Paragraphs 128.1(4)(a), (b) and (c) ITA.
+[12] Paragraph 94(1)(b) ITA, which is the other prerequisite for subsection 94(1) to apply, is not in issue in this appeal.
+[13] Interpretation Act, R.S.C. 1985, c. I-21, subsections 45(2) and (3).
+[14] Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54 [Trustco Mortgage].
+[15] Reference to the purpose of the provision “cannot be used to create an unexpressed exception to clear language”: see P. W. Hogg, J. E. Magee & J. Li, Principles of Canadian Income Tax Law, 5th ed. (2005) at 569; and Shell Canada Ltd. v. Canada, 1999 CanLII 647 (SCC).
+[16] Trustco Mortgage.
+[17] Ibid. at para. 47.
+[18] Technical notes are very widely accepted by the courts to assist in interpreting legislation: Silicon Graphics Ltd. v. Canada (CA), 2002 FCA 260.
+[19] Canada, Department of Finance, Explanatory Notes on Taxation of Non-Resident Trusts and Foreign Investment Entities, October 2003 (tab 54 of the respondent’s book of authorities).
+[20] Tab 51 of the respondent’s book of authorities.
+[21] Livingston at para. 17. Paragraph 160(1)(e) ITA.
+[22] Ibid at para. 27.
+[23] Canada v. Kieboom, [1992] 3 F.C. 488 [Kieboom].
+[24] Damis Properties Inc. v. The Queen, 2021 TCC 24 [Damis Properties].
+[25] Canada v. Microbjo Properties Inc., 2023 FCA 157.
+[26] Lyrtech RD Inc. v. The Queen, 2013 TCC 12 at para. 43.
+[27] Elie S. Roth et al., Canadian Taxation of Trusts (Toronto: Canadian Tax Foundation, 2016) at 3.
+[28] Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622 at para. 45.
+[29] 2753-1359 Québec inc. v. Canada, 2010 FCA 32 (see also the trial decision: Larouche v. The Queen, 2008 TCC 448).
+[30] Explanatory Notes Relating to the Income Tax Act, the Excise Tax Act and the Income Tax Regulations, September 2013, online https://publications.gc.ca/collections/collection_2013/fin/F1-45-2013-09-eng.pdf, at 37.
+[31] Canada v. Hewett, 1997 CanLII 5729 (FCA) at para. 2.
+[32] Deed of trust of Fiducie Zaba Trust, dated December 13, 2001, I‑2 (Deed of Trust).
+[33] Deed of Trust.
+[34] Deed of Trust at para. 1 (g).
+[35] Deed of Trust, Appendix A.
+[36] Deed of Trust, article 3.
+[37] Deed of Transfer of Shares, A-3
+[38] Deed of Retirement and Appointment, A-4.
+[39] Trustee Resolutions, I-19.
+[40] Delivery of ordinary shares of Bookham Technology plc, A-5, and Share Certificate, A-6.
+[41] Zaba Trust income tax return for the taxation year ending on December 31, 2001, I-23.
+[42] CRA auditor’s report, I-8.
+[43] Trustee Resolution, I-19 at 1.
+[44] Zaba Trust income tax return for the taxation year ending on December 31, 2003, I‑25.
+[45] Zaba Trust Distributions, A-7.
+[46] Zaba Trust Distributions, A-7.
+[47] Requirement for Information dated August 29, 2007, I-13, and Forms T1142 “Information Return in Respect of Distributions from and Indebtedness to a Non-Resident Trust”, I-21.
+[48] Initial Notice of Assessment dated June 10, 2009, I‑9.
+[49] Decision of the Minister confirming the initial assessment dated June 10, 2009, I‑10.
+[50] Notice of Appeal by Zaba Trust to the Tax Court of Canada dated March 12, 2013, I-11.
+[51] Letter from the Tax Court of Canada dated June 3, 2014, confirming the discontinuance by Zaba Trust, I-12.
+[52] Notice of assessment number 3979099 made against the appellant under section 160 of the Income Tax Act, dated September 25, 2016, I-1.

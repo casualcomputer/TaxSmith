@@ -1,0 +1,109 @@
+---
+title: "Appelt v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28647/index.do"
+last_modified: "2008-05-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 313"
+citation2: ""
+neutral_citation: "2008 TCC 313"
+decision_date: "2008-05-22"
+language: "en"
+item_id: "28647"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1111
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:10:01.593000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d30e29659b50a6c201bd69a32771852b10f0d84b98937e0465a16eea5b333cf9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Appelt v. M.N.R.
+
+- Citation: 2008 TCC 313
+- Decision date: 2008-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1111, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Appelt v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-22
+Neutral citation
+2008 TCC 313
+File numbers
+2007-3539(EI)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation: 2008TCC313
+Date: 20080522
+Dockets: 2007-3539(EI)
+2007-3540(CPP)
+BETWEEN:
+CHRISTOPH APPELT,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on May 8, 2008,
+in Vancouver, British Columbia.)
+Boyle, J.
+[1] The only issue in the EI appeal and in the CPP appeal is whether Mr. Appelt was an employee of Fred’s Painting in the period in question. The Crown’s assumptions included an assumption that Mr. Appelt did not work for Fred’s Painting at all. Notwithstanding the shortcomings of the evidence, about which I have more to say, I am satisfied from the evidence that Mr. Appelt may have worked for Fred’s Painting in the period in question.
+[2] However, I am certain on the evidence before me that Mr. Appelt was not in an employment relationship with Mr. Polidano, the owner of Fred’s Painting. Mr. Polidano was called by the Appellant and testified that he hired Mr. Appelt under a verbal agreement that he would be paid by the hour doing some subcontracting, that he would be paid in cash, and that there would be no withholdings. Mr. Polidano only gave an amount to Mr. Appelt’s accountant, Mr. Fawaz, when Mr. Fawaz said Mr. Appelt should be an employee for EI purposes, and that amount was to be for EI withholdings. This was only at the end of the work period. Mr. Polidano said he did not know much about these things, so he did as asked.
+[3] The Appellant’s witnesses, Mr. Juric and Mr. Rossitto, did not have anything relevant to say regarding the employment issue. All they knew is Mr. Appelt worked with or for Mr. Polidano.
+[4] While both Mr. Appelt and Mr. Fawaz testified they were sure it was employment, there was no corroborating written evidence produced whatsoever. The T4s, tax reports, remittance cheques, pay cheques and bank records, allegedly produced, were not introduced by the witnesses. I find that no T4, withholding remittances or other tax reporting was done. These amounts were not included in Mr. Appelt’s income on his tax return, which was prepared by Mr. Fawaz and his firm. Mr. Appelt’s returns claimed tax refunds.
+[5] In any event, even had Mr. Appelt and Mr. Fawaz been credible, Mr. Appelt testified he could not remember how much he was paid, not even an approximate hourly rate.
+[6] On the issue of credibility, I must say I did not find any of the Appellant’s witnesses gave straightforward answers. With each there was an apparent willingness to mislead for as long as they could get away with it. With respect to Mr. Fawaz in particular, who claimed he prepared the T4, and also did prepare Mr. Appelt’s tax returns and represented him at trial, I do not accept that any of his evidence is sufficiently truthful to be at all reliable. It is apparent Mr. Fawaz and his firm devised this scheme with and for Mr. Appelt to claim EI benefits he was clearly not entitled to. The scheme was no better than half-baked, since Mr. Fawaz did not include the T4 amounts in the tax returns he prepared for Mr. Appelt.
+[7] Mr. Fawaz’s explanation regarding the seizure of his business records by his firm’s landlord in 2002 does not adequately explain his lack of back-up for Mr. Appelt’s returns that were not filed until 2004, or the absence of bank and other third party records.
+[8] With respect to Mr. Appelt, I recognize that English is not his first language and he is not comfortable with having to attend in court. I nonetheless found him to be evasive, misleading and argumentative in his answers. Mr. Appelt’s testimony differed from his answers on CRA’s Worker Questionnaire in material points, as did Mr. Polidano’s differ from those in his Payor Questionnaire. Mr. Appelt claimed to lack any recollection about any details frequently as he was challenged in cross-examination.
+[9] EI, CPP and other social programs are important and valued Canadian social benefits. They are expensive and have to be paid for. They also have to be earned. In the case of EI and CPP, it is earned through employment or self-employment, and as a big picture economic matter, by Canadians paying their premiums and paying their taxes. If any such benefits had been earned by Mr. Appelt, they certainly were not paid for. However, I find that absolutely none were earned.
+[10] Today has been a shameful waste of court resources. No reasonable basis existed at any time for Mr. Appelt’s claims for EI benefits. This was, again, nothing more than a scheme devised by Mr. Fawaz, his firm and Mr. Appelt.
+[11] Both appeals are dismissed.
+Signed at Ottawa, Canada, this 22nd day of May 2008.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2008TCC313
+COURT FILE NOS.: 2007-3539(EI), 2007-3540(CPP)
+STYLE OF CAUSE: CHRISTOPH APPELT v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 8, 2008
+REASONS FOR JUDGEMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: May 22, 2008
+APPEARANCES:
+Agent for the Appellant:
+Sam Fawaz
+Counsel for the Respondent:
+Selena Sit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

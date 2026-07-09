@@ -1,0 +1,138 @@
+Title: Levin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109623/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-117-109623-levin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-05-21
+
+# Levin v. The Queen
+
+- Citation: 2015 TCC 117
+- Decision date: 2015-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2812, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-05-21
+Neutral citation
+2015 TCC 117
+File numbers
+2014-1760(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1760(IT)I
+BETWEEN:
+ROY SHELDON LEVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 23, 2015, at Winnipeg, Manitoba
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Larissa Benham
+JUDGMENT
+The appeal from the Notices of Determination made under the Income Tax Act for the Appellant’s 2009, 2010, and 2011 base taxation years is dismissed.
+The appeal from the Notice of Determination made under the Income Tax Act for the Appellant’s 2012 base taxation year is withdrawn.
+Signed at Ottawa, Canada, this 11th day of May 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC117
+Date: 20150521
+Docket: 2014-1760(IT)I
+BETWEEN:
+ROY SHELDON LEVIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the Appellant is entitled to receive the Canada Child Tax Benefit (“CCTB”) for his children for the 2009, 2010, 2011 and 2012 base taxation years.
+Preliminary Motion [2] At the commencement of the hearing, counsel for the Respondent made a motion to quash the appeal for the 2011 and 2012 base taxation years on the basis that the Appellant had not served Notices of Objection for those periods.
+[3] The Appellant withdrew his appeal with respect to the 2012 base taxation year and I found, on the evidence before me, that the Appellant had served a Notice of Objection for the 2011 base taxation year.
+Facts [4] The witnesses at the hearing were the Appellant and his former spouse, Sherry Requeima.
+[5] The Appellant and his former spouse have three children:
+JML who was born November 15, 1993;
+LAL who was born April 20, 1995; and,
+LFL who was born January 24, 1997.
+[6] Pursuant to a Consent Judgment dated December 6, 2001, the Appellant and his former spouse agreed to have joint custody of the three children. They also agreed that for each two week period, the children would be with the Appellant for 6 days and with his former spouse for 8 days.
+[7] According to the Appellant, he always received 50% of the CCTB. Initially, he and his former spouse each received it for six months of each year. After July 2011, he and his former spouse each received 50% of the CCTB each month.
+[8] It appeared that the 6/8 rotation cycle was maintained for many years. However, by notices dated September 20, 2013, the Minister of National Revenue (the “Minister”) determined that the Appellant was not an eligible individual for the children for the following periods:
+a) JML – November 2009 to November 2011;
+b) LAL – March 2012 to April 2013;
+c) LFL – March 2012 to February 2013
+[9] At the hearing, the Appellant stated that the children did not maintain the 6/8 rotation cycle. They were not with him and they resided with his former spouse. (See pages 23 and 24 of the transcript) for the following periods:
+a) JML – July 2010 to October 2011;
+b) LAL – January 2013 to April 2013;
+c) LFL – July 2012 to January 2013.
+[10] Therefore, I must decide whether the Appellant was a shared-custody parent during the following periods (I will refer to these periods as the periods in issue):
+a) JML – November 2009 to June 2010; - (JML became 18 in November 2011)
+b) LAL – March 2012 to December 2012;
+c) LFL – March 2012 to June 2012, and February 2013.
+[11] Section 122.6 of the Income Tax Act defines shared-custody parent as follows:
+“shared-custody parent” in respect of a qualified dependent [sic] at a particular time means, where the presumption referred to in paragraph (f) of the definition “eligible individual ” does not apply in respect of the qualified dependant, an individual who is one of the two parents of the qualified dependant who
+(a) are not at that time cohabitating spouses or common-law partners of each other,
+(b) reside with the qualified dependant on an equal or near equal basis, and
+(c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant, as determined in consideration of prescribed factors,
+[12] Accordingly, I must decide whether the children resided with the Appellant on an equal or near equal basis during the periods in issue.
+[13] The Appellant and his former spouse disagreed on where the children lived during the periods in issue. However, it is my view that the Appellant has not dislodged the assumptions of fact made by the Minister and that during the periods in issue, the children resided full time with the former spouse. My conclusion is based on the following.
+[14] According to both the Appellant and his former spouse, when JML became 16, he lived full time with the former spouse and no longer maintained the 6/8 rotation cycle. JML became 16 in November 2009. At one point in his evidence, the Appellant stated that JML lived with him for three weeks or a month during the period November 2009 to June 2010. His evidence was vague and imprecise. The former spouse testified that after November 2009, JML may have stayed with the Appellant for a few days in November but she denied that he lived with the Appellant for three weeks or a month. It was also apparent from the Appellant’s evidence that around the time that JML became 16, he and JML did not get along.
+[15] I have accepted the former spouse’s evidence and have concluded that JML did not reside with the Appellant during the period November 2009 to June 2010. JML may have stayed at the Appellant’s home for a few days in November 2009 but he did not reside with the Appellant. The word “reside” usually means “to live in the same house as”: Burton v. R, [2000] 1 CTC 2727 (TCC). In the context of section 122.6, the word “resides” has been interpreted to connote “a settled and usual abode”: R (S) v R, 2003 CarswellNat 2710 (TCC). During the period November 2009 to June 2010, JML resided with the former spouse.
+[16] It is my view that neither LAL nor LFL continued the 6/8 rotation cycle and they resided with the former spouse full time for the periods at issue. My view is based on the following evidence.
+[17] The former spouse testified that LAL maintained the 6/8 rotation cycle until she was 16 which was March 2012. At that time, she did not want to continue going back and forth between two homes and she decided to reside full time with the former spouse. Apparently, LFL did not want to be the only child staying with the Appellant and in March 2012, she as well started to reside full time with the former spouse.
+[18] According to the former spouse, LAL’s decision to reside with her full time was also based on the fact that the Appellant had moved into his fiancée’s home. The Appellant’s stated that he moved into his fiancée’s home in February 2012. It is my view that the Appellant’s evidence confirmed the former spouse’s evidence with respect to the date that LAL and LFL moved in with her.
+[19] Both witnesses agreed that LFL moved into the Appellant’s home on a full time basis on February 24, 2013.
+[20] In conclusion, the children did not maintain the 6/8 rotation cycle and they resided with the former spouse full time during the following periods:
+JML – November 2009 to November 2011
+LAL – March 2012 to April 2013
+LFL – March 2012 to February 2013.
+[21] At the hearing, the Appellant stated that four of the Minister’s assumptions were incorrect because the amount referred to as CCTB in those paragraphs included the National Child Benefit Supplement (“NCBS”) and there was no mention of the NCBS in the Minister’s Reply.
+[22] With respect, the assumptions pled by the Minister were not inaccurate. The NCBS is part of the CCTB and is included in the formula for the calculation of CCTB.
+[23] The appeal is dismissed.
+These Reasons for Judgment are issued in substitution for the Reasons for Judgment dated May 11, 2015
+Signed at Ottawa, Canada, this 21st day of May 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC117
+COURT FILE NO.:
+2014-1760(IT)I
+STYLE OF CAUSE:
+ROY SHELDON LEVIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+January 23, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+May 11, 2015
+DATE OF AMENDED REASONS
+FOR JUDGMENT: May 21, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Larissa Benham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

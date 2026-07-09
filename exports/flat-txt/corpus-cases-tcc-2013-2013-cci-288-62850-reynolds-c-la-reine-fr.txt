@@ -1,0 +1,179 @@
+Title: Reynolds c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/62850/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-288-62850-reynolds-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-09-16
+
+# Reynolds c. La Reine
+
+- Citation: 2013 CCI 288
+- Decision date: 2013-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6100, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reynolds c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-09-16
+Référence neutre
+2013 CCI 288
+Numéro de dossier
+2013-1708(IT)APP
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1708(IT)APP
+ENTRE :
+JILL K. REYNOLDS,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 28 août 2013, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour la requérante :
+La requérante elle‑même
+Pour l’intimée :
+Me Zachary Froese
+M. Matt Huculak (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, la requête est rejetée, sans frais, au motif qu’elle n’est pas nécessaire.
+Signé à Ottawa (Ontario), ce 16e jour de septembre 2013.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 1er jour de novembre 2013.
+C. Laroche
+Référence : 2013 CCI 288
+Date : 20130916
+Dossier : 2013-1708(IT)APP
+ENTRE :
+JILL K. REYNOLDS,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Jill Reynolds, la requérante, demande à être reconnue comme le particulier admissible à l’égard de deux enfants, A et T, pour bénéficier de la prestation fiscale canadienne pour enfants. Finalement, sa demande de prorogation du délai prévu pour présenter un avis d’opposition se fonde sur la disposition suivante :
+[…] [les dispositions de la Loi de l’impôt sur le revenu relatives aux déclarations, aux cotisations, aux oppositions, aux appels et aux prorogations de délais] […] s’appliquent, avec les adaptations nécessaires, […] aux montants déterminés ou déterminés de nouveau […] [à l’égard de la prestation fiscale canadienne pour enfants à laquelle un particulier a droit] […]
+[Non souligné dans l’original.]
+ainsi que sur la question suivante : quelles sont exactement les adaptations nécessaires?
+[2] La demande de prorogation de délai dont j’ai été saisi a trait à A et à T ainsi qu’aux années de base 2008 et 2009.
+[3] Je voudrais en profiter pour remercier l’avocat de l’intimée pour les documents qu’il a produits en preuve; sans ces documents, je n’aurais pas été en mesure de comprendre ce qui s’était passé.
+[4] L’intimée est d’avis que la requête devrait être rejetée parce qu’elle a été présentée après l’expiration du délai prévu pour déposer une demande de prolongation de délai.
+[5] Pour les motifs qui suivent, la requête sera rejetée au motif qu’elle n’est pas nécessaire.
+[6] Dans les présents motifs, j’appellerai la prestation fiscale canadienne pour enfants la PFCE, la Loi de l’impôt sur le revenu la Loi, et l’Agence du revenu du Canada l’ARC.
+Les faits
+[7] La requérante a d’abord demandé la PFCE à l’égard de deux enfants, D et E, et elle a été reconnue comme le parent admissible à l’égard de ces deux enfants.
+[8] En ce qui a trait à l’année de base 2008, la nouvelle détermination a été établie le 20 novembre 2009. Aux termes de cette nouvelle détermination, le montant dû a été révisé par suite d’un changement relatif aux enfants admissibles, et on a accepté le fait que la requérante était alors le particulier admissible à l’égard de D. L’avis précisait également que la requérante était le particulier admissible à l’égard de E.
+[9] Par la suite, le montant de la PFCE à laquelle la requérante avait droit a été révisé. L’ARC en a avisé la requérante par une lettre datée du 27 juin 2011.
+[10] Par suite de cette révision, la nouvelle détermination datée du 19 août 2011 a été établie à l’égard de la requérante pour l’année de base 2009. Le montant auquel la requérante avait droit a été révisé, compte tenu de son statut matrimonial, et, vu qu’il a été établi que la requérante était mariée ou conjointe de fait, le montant de la PFCE a été réduit en conséquence. Apparemment, on a demandé à la requérante de rembourser une partie de la PFCE qu’elle avait reçue. La nouvelle détermination a été établie en fonction du fait que D et E étaient les enfants admissibles.
+[11] Par la suite, la requérante a demandé la PFCE à l’égard de deux autres enfants, A et T. L’ARC a reçu cette demande le 6 octobre 2011.
+[12] Le ministre a répondu à la demande datée du 6 octobre 2011 par une lettre, datée du 23 novembre 2011, laquelle a été produite sous la cote R-2.
+[13] La requérante a par la suite, bien plus tard, présenté un avis d’opposition à l’ARC; cette dernière l’a reçu le 29 janvier 2013.
+[14] Par lettre datée du 14 mars 2013, l’ARC a accordé une prorogation pour l’année de base 2010 et conclu que l’avis d’opposition avait été produit dans les délais impartis pour l’année de base 2011. En ce qui a trait aux années de base 2008 et 2009, l’ARC précisait dans sa lettre qu’elle avait conclu que la demande de prorogation de délai avait été produite trop tard pour être accordée, vu que le délai imparti pour présenter une telle demande avait expiré le 2 mai 2011 pour 2008, et le 19 novembre 2012 pour 2009.
+[15] Le 1er mai 2013, la requérante a présenté à la Cour une demande de prorogation du délai.
+Analyse
+[16] Les dispositions de la Loi relatives à la PFCE sont les articles 122.6 à 122.64.
+[17] Le paragraphe 122.62(1) de la Loi est ainsi libellé :
+[…] une personne ne peut être considérée comme un particulier admissible à l’égard d’une personne à charge admissible au début d’un mois que si elle a présenté un avis au ministre, sur formulaire prescrit […] au plus tard onze mois après la fin du mois.
+[18] Autrement dit, il faut demander la PFCE. La PFCE ne peut pas être versée pour des mois antérieurs au onzième mois précédant la demande. Par exemple, si on présente une demande en décembre 2012 et qu’on satisfait à toutes les autres conditions d’admissibilité, alors on pourra recevoir la PFCE pour le mois de janvier 2012 et les mois suivants, mais pas pour le mois de décembre 2011 et les mois antérieurs.
+[19] Les dispositions administratives générales de la Loi s’appliquent à la PFCE aux termes du paragraphe 152(1.2)[1].
+[20] En l’espèce, les parties pertinentes du paragraphe 152(1.2) sont les suivantes :
+[…] la présente section et la section J, dans la mesure où ces dispositions portent sur une cotisation ou une nouvelle cotisation […] s’appliquent, avec les adaptations nécessaires, […] aux montants déterminés ou déterminés de nouveau […] qui sont réputés par l’article 122.61 être des paiements en trop au titre des sommes dont un contribuable est redevable en vertu de la présente partie […].
+[Non souligné dans l’original.]
+L’expression « la présente section et la section J » renvoie aux dispositions administratives qui portent, notamment, sur les déclarations, les cotisations, les oppositions et les prorogations de délais. Le montant réputé par l’article 122.61 être un paiement en trop est le montant de la PFCE.
+[21] Au premier abord, cette disposition peut paraître simple; toutefois, dans les faits, elle n’est pas si facile à appliquer[2].
+[22] L’ARC est d’avis que la requérante disposait de 90 jours à compter de l’établissement des nouvelles déterminations, datées du 20 novembre 2009 et du 19 août 2011, respectivement, pour déposer des avis d’opposition.
+[23] L’ARC ajoute que, au titre de l’alinéa 166.2(5)a) de la Loi, je ne peux pas rendre d’ordonnance en prorogation du délai imparti, parce que la requérante a omis de présenter au ministre une demande de prorogation du délai « dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête ». Autrement dit, l’ARC fait valoir que la demande a été présentée en dehors du délai imparti, parce qu’elle a été présentée plus de 90 jours et un an à compter de la date des nouvelles déterminations en cause, à savoir le 20 novembre 2009 et le 19 août 2011, respectivement.
+[24] Il ne fait aucun doute que la requérante a présenté sa demande plus de 90 jours et un an après les deux dates susmentionnées. Si je me fie à l’analyse effectuée par l’ARC, je devrais rejeter l’appel.
+La demande datée du 6 octobre 2011 constitue-t-elle un avis d’opposition?
+[25] Toutefois, cette analyse part du principe que je devrais considérer la demande de PFCE à l’égard de A et de T que l’ARC a reçue le 6 octobre 2011 comme constituant, en fait, un avis d’opposition aux nouvelles déterminations datées du 20 novembre 2009 et du 19 août 2011.
+[26] En fait, l’analyse part également du principe qu’il faudrait traiter une demande par rapport à une année de base donnée, de la même manière qu’on examine une déclaration de revenus par rapport à une année d’imposition donnée. Plus précisément, une fois qu’une cotisation a été établie à l’égard d’une année d’imposition, et en l’absence d’avis d’opposition déposé en temps opportun, le contribuable n’a généralement pas le droit de contester le montant de la cotisation établie à l’égard de cette année d’imposition[3].
+[27] Il est utile d’envisager en termes généraux le régime de la PCFE au sens de la Loi[4].
+[28] Avant de payer la PFCE à l’égard d’un mois, l’ARC doit d’abord établir si un particulier a un ou plusieurs enfants à charge admissibles pour ce mois.
+[29] Deuxièmement, l’ARC doit calculer le montant à payer pour le mois. Ce montant dépend non seulement du nombre d’enfants, mais également du revenu familial.
+[30] Vu qu’il serait impossible d’utiliser le revenu familial courant sur une base continue, on se fonde sur le revenu familial passé calculé à partir des années d’imposition antérieures. C’est là qu’intervient la notion d’année de base.
+[31] On se sert de l’année de base pour calculer le revenu familial pour la deuxième partie de l’année suivante et la première partie de la deuxième année suivant l’année de base, période qu’on pourrait appeler la [traduction] « période de prestation ». Ainsi, le revenu familial pour l’année de base 2010, l’année civile 2010, servira à calculer le montant des prestations pour la période de prestation allant de juillet 2011 à juin 2012.
+[32] Généralement, les déclarations de revenus sont produites avant le 30 avril[5]. Quand une demande de PFCE a été déposée, l’ARC disposera d’ici le milieu de l’année des renseignements apparaissant sur la demande de PFCE, qui lui permettront de trancher les questions d’admissibilité, mais également des renseignements contenus dans les déclarations de revenus des parents, ce qui lui permettra de calculer le revenu familial en vue de calculer le montant de la PFCE.
+[33] Prenons par exemple un cas où l’ARC a déjà accepté qu’un parent a un enfant admissible; elle aura généralement reçu les déclarations de revenus de la famille à l’égard de l’année d’imposition 2010 avant juin 2011, et peu de temps après avoir reçu ces déclarations, elle sera en mesure de déterminer le montant de la PFCE due pour la période comprise entre juillet 2011 et juin 2012.
+[34] Supposons, dans notre exemple, que l’ARC a produit la détermination à la mi‑juin 2011.
+[35] Supposons, par ailleurs, que le parent de notre exemple a un second enfant, né le 15 novembre 2011[6], et qu’il dépose une demande de PFCE en décembre 2011 à l’égard de ce nouveau-né.
+[36] Si je comprends correctement l’approche adoptée par l’intimée, cela signifierait que, dans l’exemple, sous réserve d’avoir reçu la PFCE pour la période de prestation allant de la naissance de l’enfant en novembre 2011 à juin 2012, la demande déposée en décembre 2011 constituerait un avis d’opposition déposé en retard, parce que cette demande a été faite à l’égard de l’année de base 2010, laquelle avait déjà fait l’objet d’une détermination plus de 90 jours plus tôt.
+[37] Ainsi, si ce raisonnement était correct, il en découlerait un résultat étonnant : le parent d’un second enfant né en novembre qui déposerait une demande de PFCE un mois après la naissance devrait déposer une demande de prorogation de délai, et ce, en dépit du fait qu’il aura déposé sa demande dans les délais prévus par le paragraphe 122.62(1) de la Loi[7].
+[38] La Loi ne fonctionne pas ainsi.
+[39] Les demandes de PFCE sont des demandes faites à l’égard d’enfants précis.
+[40] Parce qu’il est possible qu’un changement intervienne relativement aux enfants admissibles d’un particulier après qu’une demande de PFCE a été déposée, une demande de PFCE déposée par la suite et dans laquelle il est question d’un enfant nouveau-né ou d’un changement relatif aux circonstances entourant la garde d’un enfant ou la responsabilité assumée à l’égard de cet enfant ne peut pas entrer en compte aux fins de l’établissement d’une détermination fondée sur la demande antérieure.
+[41] Par conséquent, une des « adaptations nécessaires » est que la demande de PFCE déposée par la suite ne soit pas considérée comme une démarche équivalant à une demande de production d’une déclaration de revenus modifiée pour une année d’imposition ayant déjà fait l’objet d’une cotisation. Dans le contexte d’une demande de PFCE, l’obligation qui incombe au ministre d’examiner une déclaration et de fixer l’impôt afférent au titre de l’article 152 de la Loi doit être comprise comme l’obligation d’établir l’admissibilité d’un particulier à l’égard d’un enfant[8] à chaque fois qu’une demande de PFCE est déposée[9].
+[42] En fait, dans sa lettre datée du 23 novembre 2011, l’ARC affirme que, quand les circonstances changent et qu’un particulier satisfait les conditions qu’il ne satisfaisait pas avant, ce particulier doit déposer une nouvelle demande. Il s’agit d’une reconnaissance implicite du fait que l’ARC doit effectuer une détermination quand un particulier prétend, dans une nouvelle demande, qu’un changement est intervenu dans les faits relatifs à un enfant admissible.
+[43] Je note que le Parlement a établi que les demandes de PFCE devaient être déposées dans des délais bien précis, vu qu’aucune PFCE ne peut être versée pour les mois antérieurs au onzième mois précédant le mois au cours duquel la demande est faite.
+[44] En l’espèce, les nouvelles déterminations datées du 20 novembre 2009 et du 19 août 2011 qui ont été établies à l’égard des années de base 2008 et 2009 sont des nouvelles déterminations relatives à l’admissibilité de D et de E ainsi qu’au montant de la PFCE à payer pour les périodes de prestation allant de juillet 2009 à juin 2010 et de juillet 2010 à juin 2011, respectivement.
+[45] Ces deux nouvelles déterminations ne peuvent pas être considérées comme des déterminations relatives à l’admissibilité de A et de T, deux enfants dont il n’était absolument pas question quand les nouvelles déterminations ont été effectuées.
+[46] Elles étaient fondées sur les demandes que la requérante avait déposées à l’égard de D et de E un certain temps avant le 20 novembre 2009[10], bien avant que l’ARC reçoive la demande de la requérante relative à A et à T le 6 octobre 2011.
+[47] Ainsi, la nouvelle détermination établie le 19 août 2011 à l’égard de l’année de base 2009 ne constitue pas une nouvelle détermination finale de la PFCE à payer pour la période allant de juillet 2010 à juin 2011 concernant des changements intervenus relativement aux enfants à l’égard desquels un particulier est admissible depuis le dépôt d’une demande antérieure à l’égard de l’un ou l’autre des enfants.
+[48] Par conséquent, je suis convaincu que la demande de PFCE que la requérante a déposée à l’égard de A et de T, qui était la première demande déposée par la requérante à cet égard, et que l’ARC a reçue le 6 octobre 2011, ne constituait pas un avis d’opposition, et que l’ARC n’avait pas l’obligation d’effectuer une détermination à l’égard de cette demande.
+Conclusion
+[49] L’ARC a-t-elle effectué une détermination? L’intimée est d’avis que la lettre datée du 23 novembre 2011 ne constituait pas une détermination.
+[50] Bien que certains éléments de la lettre semblent indiquer qu’il s’agit d’une détermination, dans l’ensemble, je souscris à l’opinion de l’intimée. Je note l’absence de toute directive sur la manière de déposer un avis d’opposition, ce à quoi on s’attendrait s’il s’agissait d’une détermination.
+[51] L’ARC n’a pas encore examiné la demande de PFCE datée du 6 octobre 2011 que la requérante a déposée à l’égard de A et de T. L’ARC a l’obligation de le faire.
+[52] Par conséquent, le délai imparti pour déposer un avis d’opposition n’a pas encore commencé à courir.
+[53] Par conséquent, la demande de prorogation du délai est rejetée, non pas parce qu’elle a été déposée en dehors du délai imparti, mais parce qu’elle n’est pas nécessaire[11].
+[54] Je note que, étant donné que la demande a été déposée en octobre 2011, s’il devait s’avérer que la requérante était le particulier admissible à l’égard de A et de T, cette admissibilité ne pourrait pas porter sur les mois antérieurs à novembre 2010[12].
+Signé à Ottawa (Ontario), ce 16e jour de septembre 2013.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 1er jour de novembre 2013.
+C. Laroche
+RÉFÉRENCE : 2013 CCI 288
+NO DU DOSSIER DE LA COUR : 2013-1708(IT)APP
+INTITULÉ : Jill K. Reynolds c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 28 août 2013
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 16 septembre 2013
+COMPARUTIONS :
+Pour la requérante :
+La requérante elle‑même
+Pour l’intimée :
+Me Zachary Froese
+M. Matt Huculak (stagiaire en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] Ce paragraphe est ainsi rédigé :
+(1.2) Les alinéas 56(1)l) et 60o), la présente section et la section J, dans la mesure où ces dispositions portent sur une cotisation ou une nouvelle cotisation ou sur l’établissement d’une cotisation ou d’une nouvelle cotisation concernant l’impôt, s’appliquent, avec les adaptations nécessaires, à toute détermination ou nouvelle détermination effectuée selon le paragraphe (1.01) et aux montants déterminés ou déterminés de nouveau en application de la présente section ou aux montants qui sont réputés par l’article 122.61 être des paiements en trop au titre des sommes dont un contribuable est redevable en vertu de la présente partie. Toutefois :
+a) les paragraphes (1) et (2) ne s’appliquent pas aux déterminations ou aux montants déterminés en application des paragraphes (1.01), (1.1) et (1.11);
+b) le montant d’une perte autre qu’une perte en capital, d’une perte en capital nette, d’une perte agricole restreinte, d’une perte agricole ou d’une perte comme commanditaire subie par un contribuable pour une année d’imposition ne peut être initialement déterminé par le ministre qu’à la demande du contribuable;
+c) le paragraphe 164(4.1) ne s’applique pas aux montants déterminés en application du paragraphe (1.4).
+[2] Et je peux comprendre comment l’ARC a pu interpréter la disposition comme elle l’a fait. Au paragraphe 10 de la décision Guest c. La Reine, 2010 CCI 336, la juge Woods a formulé des commentaires au sujet des difficultés que présentait la compréhension de certaines dispositions afférentes à la PFCE.
+[3] Il existe des exceptions. Le ministre a également la possibilité de revenir sur une année en faveur d’un contribuable dans certaines circonstances, avec le consentement du contribuable en question; en pareilles circonstances, il n’existe aucun droit automatique pour le contribuable de voir le ministre revenir sur une année.
+[4] L’exemple suivant est une simplification, mais il est suffisamment exact en ce qui nous concerne.
+[5] Ou le 15 juin pour les particuliers qui exploitent des entreprises.
+[6] Ou, à titre subsidiaire, qu’un changement est intervenu dans les ententes de garde, de telle sorte que ce parent particulier est devenu le parent admissible à l’égard d’un second enfant.
+[7] Voir les paragraphes 17 et 18 ci‑dessus.
+[8] Ainsi que de calculer le montant de la PFCE à verser, le cas échéant; si nécessaire, cela peut exiger de déterminer de nouveau le montant des prestations dues pour une période de prestations donnée correspondant à une année de base donnée.
+[9] Le ministre n’aurait pas à honorer une telle obligation dans le cas peu probable où une nouvelle demande serait déposée alors qu’aucun changement ne serait intervenu dans les circonstances entourant la garde d’un enfant ou la responsabilité de cet enfant depuis le dépôt de la dernière demande; cela reviendrait tout simplement à déposer une nouvelle fois la même demande.
+[10] La preuve ne nous dit pas quand la requérante a déposé sa demande, o uses demandes, de PFCE à l’égard de D et de E, mais nous savons qu’elle a dû le faire avant le 20 novembre 2009, vu qu’ils ont tous les deux été reconnus comme des enfants admissibles aux termes de la nouvelle détermination établie à cette date.
+[11] Bien que je sois convaincu de l’analyse exposée ci‑dessus, les lecteurs doivent être conscients du fait que je ne disposais pas d’observations relatives à cette approche. La requérante se représentait elle-même et elle n’a pas laissé entendre qu’une prorogation de délai n’était pas nécessaire.
+J’ai envisagé d’inviter les parties à produire d’autres observations, mais j’ai décidé, vu qu’aux termes de la Loi les demandes de prorogation de délai doivent être entendues d’une manière informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité le permettent, il serait préférable de produire les présents motifs et d’y ajouter la présente note. Voir le paragraphe 18.15(3) de la Loi sur la Cour canadienne de l’impôt, applicable à la demande en cause en l’espèce aux termes de l’alinéa 18.29(3)(vii) de la Loi sur la Cour canadienne de l’impôt.
+[12] Voir les paragraphes 17 et 18 ci‑dessus.

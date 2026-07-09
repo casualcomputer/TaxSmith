@@ -1,0 +1,215 @@
+Title: Huang v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30743/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-81-30743-huang-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-03-12
+
+# Huang v. The Queen
+
+- Citation: 2012 TCC 81
+- Decision date: 2012-03-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7478, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Huang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-12
+Neutral citation
+2012 TCC 81
+File numbers
+2011-2650(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2650(IT)I
+BETWEEN:
+EN HUANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Dianbo Qu (2011-2660(IT)I) on February 6, 2012 at Ottawa, Ontario
+Before: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne-Marie Boutin
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2009 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that postdoctoral funding received by the appellant in that year is not required to be included in income. The appellant is entitled to his costs, if any.
+Signed at Ottawa, Ontario this 12th day of March 2012.
+“J. M. Woods”
+Woods J.
+Docket: 2011-2660(IT)I
+BETWEEN:
+DIANBO QU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+En Huang (2011-2650(IT)I) on February 6, 2012 at Ottawa, Ontario
+Before: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne-Marie Boutin
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2009 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that postdoctoral funding received by the appellant in that year is not required to be included in income. The appellant is entitled to his costs, if any.
+Signed at Ottawa, Ontario this 12th day of March 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 81
+Date: 20120312
+Docket: 2011-2650(IT)I
+BETWEEN:
+EN HUANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2011-2660(IT)I
+AND BETWEEN:
+DIANBO QU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in these appeals is whether funding provided to postdoctoral research fellows must be included in their income for purposes of the Income Tax Act. En Huang and Dianbo Qu appeal assessments for the 2009 taxation year in which such funding, less $500, was included in their income.
+[2] The appellants take the position that the funding is not taxable based on advice provided to them and other postdoctoral fellows by the Ottawa Hospital Research Institute (OHRI).
+[3] A recent decision of this Court (Archambault J.) suggests that the taxation of postdoctoral fellowship funding has been an ongoing battle between the Canada Revenue Agency (CRA) and some universities: Chabaud v The Queen, 2011 TCC 438.
+[4] A recent legislative change has made this issue irrelevant for 2010 and subsequent years. An amendment has been made to the definition of “qualifying educational program” in s. 118.6(1) which makes it clear that funding for a program consisting primarily of research will be taxable unless the program leads to a degree or diploma.
+[5] With the appellants’ consent, the appeals were heard together on common evidence. Each appellant testified on his own behalf.
+[6] Evidence on behalf of the respondent was provided by three witnesses: (1) Kim Adams, Director, Research Administration at OHRI, (2) Martin Hicks, Director, Post-Secondary Accountability Branch, Ontario Ministry of Training, Colleges and Universities, and (3) Martin Bouchard, Associate Dean, Faculty of Graduate and Postdoctoral Studies, University of Ottawa.
+Factual background
+[7] Each of the appellants had received basic research fellowships from Parkinson Society Canada (PSC) to conduct research under the supervision of Dr. David Park. The fellowships were first awarded to Dr. Huang in 2006 and to Dr. Qu in 2008.
+[8] In 2009, the appellants worked at Dr. Park’s laboratory at the University of Ottawa (the “University”) where Dr. Park was a professor. The appellants had an arrangement with Dr. Park to work in his lab at the University on a full-time basis.
+[9] Dr. Qu determined his area of research jointly with Dr. Park. Dr. Huang’s area of research was determined in advance by Dr. Park.
+[10] Both of the appellants were registered in the postdoctoral fellowship program at the University. It was explained by Mr. Bouchard that one can become a postdoctoral fellow at the University if one has an agreement with a researcher and a minimum amount of funding, approximately $33,000. One must also have a work visa for Canada.
+[11] With respect to Dr. Huang, PSC’s funding terminated in June 2009. Dr. Park paid Dr. Huang for the rest of the year out of his own research grant. The total amount of funding received by Dr. Huang in 2009 was approximately $51,000.
+[12] In relation to Dr. Qu, PSC funding in 2009 was reduced by $12,500 and Dr. Park compensated for the reduction out of his own research grant. The total amount paid to Dr. Qu for 2009 was approximately $57,000.
+[13] As often happens in appeals heard under the informal procedure, the facts are slightly different from what the Minister had assumed. The Minister assumed that the appellants received funding from the Ottawa Hospital as well as from the University. The evidence was not entirely satisfactory to explain the role that the hospital played. I conclude, based on the limited evidence before me, that in 2009 the appellants’ relationship was with the University and not with the Ottawa Hospital. This institution acted in an administrative role only.
+Discussion
+[14] The respondent submits that the postdoctoral funding received by the appellants is taxable as fellowship income pursuant to s. 56(1)(n), or alternatively as research income pursuant to s. 56(1)(o). The former provision applies specifically to amounts received on account of a scholarship, fellowship or bursary, whereas the latter provision applies to a grant received to carry on research.
+[15] In the further alternative, the respondent submitted in closing argument that the portion of the funding that came from Dr. Park’s research grant is income from employment and should be taxed as such. The argument is based on Chabaud, above.
+[16] The problem that I have with this argument is that it was raised too late. It was not in the pleadings and was first raised during closing argument. Since the appellants did not have an appropriate opportunity to present evidence that would be relevant, the argument will not be considered.
+Fellowship or grant
+[17] The first question is whether the amounts received are properly characterized as income from a fellowship under s. 56(1)(n) or as a research grant under s. 56(1)(o). The relevance of this issue is that income under s. 56(1)(n) may be excluded in full if the conditions in s. 56(1)(n)(ii) are satisfied.
+[18] Paragraphs 56(1)(n) and (o) are reproduced below.
+56. (1) Amounts to be included in income for year. Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+[…]
+(n) Scholarships, bursaries, etc. - the amount, if any, by which
+(i) the total of all amounts (other than amounts described in paragraph 56(1)(q), amounts received in the course of business, and amounts received in respect of, in the course of or by virtue of an office or employment) received by the taxpayer in the year, each of which is an amount received by the taxpayer as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the taxpayer, other than a prescribed prize,
+exceeds
+(ii) the taxpayer’s scholarship exemption for the year computed under subsection (3);
+[…]
+(o) Research grants - the amount, if any, by which any grant received by the taxpayer in the year to enable the taxpayer to carry on research or any similar work exceeds the total of expenses incurred by the taxpayer in the year for the purpose of carrying on the work, other than
+(i) personal or living expenses of the taxpayer except travel expenses (including the entire amount expended for meals and lodging) incurred by the taxpayer while away from home in the course of carrying on the work,
+(ii) expenses in respect of which the taxpayer has been reimbursed, or
+(iii) expenses that are otherwise deductible in computing the taxpayer’s income for the year;
+[19] Although a research grant under s. 56(1)(o) is characterized by it having the feature of enabling the recipient to carry out research, the same will also be true of a fellowship under s. 56(1)(o).
+[20] In one judicial decision, the distinction between the two provisions was described as to whether the payment was made to support the research or to further education: The Queen v Amyot, [1977] 1 FC 43, 77 DTC 6217. I would have thought that if Parliament had intended that research fellowships be included in s. 56(1)(o) and not s. 56(1)(n), the legislation would have specifically provided for it.
+[21] There is limited evidence before me that is relevant to this question. It would have been helpful to have evidence from the two sources of the funding – PSC and Dr. Park.
+[22] Based on the limited evidence before me, I would conclude that all the funding received by the appellants in 2009 is more properly described in s. 56(1)(n) than in s. 56(1)(o).
+[23] As for the part of the funding from PSC, the only document from that organization that was introduced into evidence suggests that PSC differentiates between grants and fellowships. It is clear that PSC intended to award fellowship funding to Dr. Huang and Dr. Qu. In light of this, and because the income tax legislation differentiates between a grant and a fellowship, I would conclude that the amounts received from PSC are fellowship income within the meaning of s. 56(1)(n).
+[24] As for the part of the funding from Dr. Park, the evidence revealed that this funding came from a grant that was awarded to Dr. Park. In my view, these amounts are also within s. 56(1)(n) as being “on account of” a fellowship and are not a grant.
+[25] I would conclude, then, s. 56(1)(o) has no application and the amounts received by the appellants are within s. 56(1)(n).
+Scholarship exemption
+[26] The next issue is whether the full amount received by the appellants qualifies for the scholarship exemption in s. 56(1)(n)(ii). This provision provides for a full exemption if a taxpayer is a full-time student at a university. If the full exemption does not apply, the taxpayer is entitled to a limited exemption of $500.
+[27] The relevant provisions, as they were in force in 2009, are reproduced below.
+56(3) Exemption for scholarships, fellowships, bursaries and prizes. For the purpose of subparagraph (1)(n)(ii), a taxpayer's scholarship exemption for a taxation year is the total of
+(a) the total of all amounts each of which is the amount included under subparagraph (1)(n)(i) in computing the taxpayer's income for the taxation year in respect of a scholarship, fellowship or bursary received in connection with the taxpayer's enrolment
+(i) in an educational program in respect of which an amount may be deducted under subsection 118.6(2) in computing the taxpayer's tax payable under this Part for the taxation year, for the immediately preceding taxation year or for the following taxation year, or
+(ii) in an elementary or secondary school educational program,
+[…]
+(c) the lesser of $500 and the amount by which the total described in subparagraph (1)(n)(i) for the taxation year exceeds the total of the amounts determined under paragraphs (a) and (b).
+118.6.(2) Education credit. There may be deducted in computing an individual's tax payable under this Part for a taxation year the amount determined by the formula
+A x B
+where
+A is the appropriate percentage for the year; and
+B is the total of the products obtained when
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full-time student at a designated educational institution, and
+(b) $120 is multiplied by the number of months in the year (other than months described in paragraph (a)), each of which is a month during which the individual is enrolled at a designated educational institution in a specified educational program that provides that each student in the program spend not less than 12 hours in the month on courses in the program,
+if the enrolment is proven by filing with the Minister a certificate in prescribed form issued by the designated educational institution and containing prescribed information and, in respect of a designated educational institution described in subparagraph (a)(ii) of the definition "designated educational institution" in subsection (1), the individual has attained the age of 16 years before the end of the year and is enrolled in the program to obtain skills for, or improve the individual's skills in, an occupation.
+118.6.(1) Definitions. For the purposes of sections 63 and 64 and this subdivision,
+"designated educational institution" - "designated educational institution" means
+(a) an educational institution in Canada that is
+(i) a university, college or other educational institution designated by the Lieutenant Governor in Council of a province as a specified educational institution under the Canada Student Loans Act, designated by an appropriate authority under the Canada Student Financial Assistance Act, or designated by the Minister of Higher Education and Science of the Province of Quebec for the purposes of An Act respecting financial assistance for students of the Province of Quebec, […]
+"qualifying educational program" - "qualifying educational program" means a program of not less than three consecutive weeks duration that provides that each student taking the program spend not less than ten hours per week on courses or work in the program and, in respect of a program at an institution described in the definition "designated educational institution" (other than an institution described in subparagraph (a)(ii) of that definition), that is a program at a post-secondary school level but, in relation to any particular student, does not include a program if the student receives, from a person with whom the student is dealing at arm's length, any allowance, benefit, grant or reimbursement for expenses in respect of the program other than
+(a) an amount received by the student as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the student,
+(b) a benefit, if any, received by the student because of a loan made to the student in accordance with the requirements of the Canada Student Loans Act or An Act respecting financial assistance for education expenses, R.S.Q., c. A‑13.3, or because of financial assistance given to the student in accordance with the requirements of the Canada Student Financial Assistance Act, or
+(c) an amount that is received by the student in the year under a program referred to in subparagraph 56(1)(r)(ii) or (iii), a program established under the authority of the Department of Human Resources and Skills Development Act or a prescribed program;
+[28] Counsel for the respondent submits that the appellants do not satisfy the requirements for a full exemption because they were not enrolled in an educational program and they were not students.
+[29] It is necessary to focus on the following legislative requirements:
+(a) the appellants must be enrolled in a qualifying educational program at the University, meaning one in which the student must spend at least ten hours per week on courses or work in the program (s. 118.6(1) and (2)(B)(a));
+(b) the funding must be received in connection with this enrolment (s. 56(3)(a)); and
+(c) the appellants must be full-time students at the University (s. 118.6(2)(B)(a)).
+[30] I will first consider whether the appellants were enrolled in a program at the University requiring at least 10 hours per week of courses or work.
+[31] The appellants were enrolled in a postdoctoral fellowship program at the University. Not many details of the program were introduced into evidence, even though Mr. Bouchard testified that the website has a section devoted to it.
+[32] There was some information concerning the fellowship program provided in Dr. Huang’s notice of appeal, which quotes from the University’s website. I will accept this statement as accurate in the absence of evidence to the contrary. The relevant portion is reproduced below.
+Definition of a postdoctoral fellow
+The University defines a postdoctoral fellow as one who meets the following criteria:
+The appointee was recently (within five years) awarded a PhD or the equivalent;
+The appointment is of a limited duration;
+The appointment involves substantial full-time research or scholarship;
+The appointment is viewed a preparatory for a full-time academic and/or research career and not as a source of continuing employment;
+The appointee works under the supervision of a faculty mentor at the University or one of its affiliated institutes;
+The appointee has the freedom, and is expected, to publish the results of his or her research or scholarship during the period of the appointment.
+[33] Mr. Bouchard testified that the University issues a testimonial when the fellowship is successfully completed.
+[34] I would conclude from this information that the appellants were enrolled in a program at the University that required them to do full-time research for the purposes of advancing their education. This satisfies the program requirement.
+[35] I will next consider whether the funding was received in connection with enrolment at the University. Based on the limited evidence before me, I would conclude that this requirement is satisfied. It is relatively clear that PSC did not provide the funding to the appellants in a vacuum but that the charity understood that the appellants would be part of the postdoctoral fellowship program at either OHRI or the University (Ex. A-1). Dr. Park and OHRI received a copy of the correspondence from the PSC.
+[36] I now turn to the requirement that the appellants be full-time students at the University.
+[37] The respondent relies on the testimony of Mr. Hicks that the Ontario Ministry of Training, Colleges and Universities does not count postdoctoral fellows as “students” for the purpose of allocating government funding to the province’s universities.
+[38] In my view, this testimony does not assist in deciding whether the appellants are enrolled as students for purposes of the relevant provisions in the Income Tax Act. A contextual and purposive interpretation is required.
+[39] The definition of “student” that is used for purposes of government funding of universities may be quite different than the ordinary meaning the term. Government funding of universities will vary depending on the expenditures needed to operate the university. In the case of the appellants, the expenditures are small because no classrooms or formal lectures are required. Simply because the Ministry allocates resources on the basis that postdoctoral fellows are not students does not mean that postdoctoral fellows are not students within the ordinary meaning of the word.
+[40] As for the ordinary meaning of the term, dictionary definitions of “student” and “study” are quite broad. The following definitions are from The Shorter Oxford English Dictionary, 3d edition.
+Student - A person who is engaged in or addicted to study.
+Study - Application of mind to the acquisition of learning.
+[41] I see no reason that these broad meanings should not be accepted in the relevant legislative context. There is no contextual or purposive reason to apply a more restrictive meaning.
+[42] The appellants were students in 2009 within the above definitions. It is also clear that they were full-time.
+[43] I would conclude that the appellants have satisfied the legislative requirements to qualify for the full scholarship exemption in s. 56(1)(n)(ii).
+[44] Finally, I would comment that the conclusion in these appeals is based on the limited evidence that was presented.
+[45] The appeals will be allowed, with costs to the appellants, if any.
+Signed at Ottawa, Ontario this 12th day of March 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 81
+COURT FILE NOS.: 2011-2650(IT)I and
+2011-2660(IT)I
+STYLE OF CAUSE: EN HUANG v.
+HER MAJESTY THE QUEEN and
+DIANBO QU v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: February 6, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENTS: March 12, 2012
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Anne-Marie Boutin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

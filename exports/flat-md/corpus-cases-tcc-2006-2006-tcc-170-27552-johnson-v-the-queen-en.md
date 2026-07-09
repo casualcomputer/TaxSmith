@@ -1,0 +1,234 @@
+---
+title: "Johnson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27552/index.do"
+last_modified: "2006-03-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 170"
+citation2: ""
+neutral_citation: "2006 TCC 170"
+decision_date: "2006-03-27"
+language: "en"
+item_id: "27552"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 114
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:13:43.847000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c074516f0b7ff521609eb184d5d17d648c946aa115e795315a8dffd378fb4019"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Johnson v. The Queen
+
+- Citation: 2006 TCC 170
+- Decision date: 2006-03-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 114, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-27
+Neutral citation
+2006 TCC 170
+File numbers
+2004-4479(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4479(IT)I
+BETWEEN:
+OLAWALE JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 10, 2006 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+P. Michael Appavoo
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years is dismissed without costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of March, 2006.
+"T. O'Connor"
+O'Connor J.
+Citation: 2006TCC170
+Date: 20060327
+Docket: 2004-4479(IT)I
+BETWEEN:
+OLAWALE JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard in Toronto, Ontario on March 10, 2006.
+[2] The Appellant appeared and acted on his own behalf.
+[3] Testimony was given on behalf of the Respondent ("Minister") by the CCRA Auditor, Muhammad Alam ("Auditor").
+[4] The basic facts are set forth in the following extracts from the Reply to the Notice of Appeal.
+8. The Minister reassessed the Appellant for the 2000, 2001 and 2002 taxation years to include in income unreported business income in the amounts of $40,664.00, $40,389.00 and $29,242.00, respectively, and to include in income unreported income from the promotion of credit card sales in the amounts of $29,149.00, $30,305.00 and $31,067.00, respectively ...
+9. ...
+10. ...
+11. In reassessing ... and in confirming the reassessments, the Minister assumed the same facts, as follows:
+Unreported Business Income
+(a) at all material times, the Appellant operated a variety store in the Humber loop Toronto Transit Commission terminal in Etobicoke, Ontario (the "Business");
+(b) in conducting the audit of the Business, the Minister found that the Appellant did not maintain any formal accounting records;
+(c) the sales of the Business were determined by using the input tax credits (the "ITC's") claimed by the Appellant in his GST returns filed for the 2000, 2001 and 2002 taxation years;
+(d) in the 2000, 2001 and 2002 taxation years, the Appellant claimed ITC's in the amounts of $3,007.00, $3,387.00 and $7,330.00, respectively;
+(e) in the 2000, 2001 and 2002 taxation years, the Minister assumed that if the Appellant was entitled to ITC's of $3,007.00, $3,387.00 and $7,330.00, respectively, they represented purchases of $42,963.00, $48,385.00 and $104,714.00, respectively, which was calculated by dividing the ITC's by .07, which is the amount of the GST;
+(f) in the 2000, 2001 and 2002 taxation years, the Minister calculated the sales from the Business as being $53,703.00, $60,481.00 and $130,892.00, respectively which was obtained by multiplying the purchases for the year by an estimated mark-up of 25%;
+[The Reply mentions certain expenses allowed by the Minister.]
+(h) in the 2000, 2001 and 2002 taxation years, the Minister calculated that the Appellant's net income from the Business was $7,701.00, $9,847.00 and $24,562.00, respectively, ...
+(i) ...
+Unreported Credit Card Sales
+[also referred to as unreported commission income]
+(j) in an undated letter received by the Minister on November 5, 2003, the Appellant stated that he had other income from a business known as O.J. Marketing Company ("O.J. Marketing") which promoted the sales of credit cards and loans from friends;
+(k) the Appellant stated that in the 2000, 2001 and 2002 taxation years he had income from the sales of credit cards in the amounts of $29,149.00, $30,305.00 and $31,067.00, respectively;
+(l) ...
+[Paragraphs (i) and (l) state that the Appellant, in his income tax returns failed to report the incomes referred to in paragraphs (h) and (k).]
+[5] The following summaries, presented by counsel for the Minister, illustrate how the Minister arrived at the revised net income from the variety store business and the unreported commission income. The Minister further stated in paragraph 12 of the Reply that the Appellant had understated his tax payable by the amounts of $5,141.50, $5,234.10 and $9,054.90 respectively in years 2000, 2001 and 2002, as a result of which the Appellant, because of alleged gross negligence, was liable to penalties of $2,570.75, $2,617.05 and $4,529.47 [corrected figure].
+SUMMARY OF THE APPELLANT'S REPORTING FOR INCOME TAX AND GOODS AND SERVICES TAX (GST) FOR THE YEARS UNDER APPEAL
+Reporting for Income Tax Purposes
+Reporting for
+GST Purposes
+Year
+Gross Business Income (sales) Reported in T1 return
+($)
+Total Expenses
+($)
+Loss from
+Business
+($)
+Total Income
+(Loss)
+Reported in T1
+return
+($)
+ITC
+claimed
+($)
+GST-able
+Purchases for the
+year ($)
+2000
+12,516
+45,479
+(32,963)
+(32,963)
+3,007
+42,963
+2001
+17,845
+48,387
+(30,542)
+(30,542)
+3,387
+48,385
+2002
+13,754
+18,434
+(4,680)
+(2,052)
+7,330
+104,714
+SUMMARY OF ADJUSTMENTS BY THE MINISTER OF NATIONAL REVENUE ON REASSESSING THE APPELLANT'S TAX LIABILITY FOR THE YEARS IN ISSUE
+Sales as determined by the Minister
+($)
+GST-able expenses
+($)
+[allowed by Minister]
+Other
+expenses
+($)
+[allowed by Minister]
+Revised Net Income from business
+($)
+Reported Net Income (Loss)
+($)
+Unreported commission income
+($)
+Adjustment
+to Reported Net
+Income ($)
+2000
+53,703
+42,963
+3,039
+7,701
+(32,963)
+29,149
+69,813
+2001
+60,481
+48,385
+2,249
+9,847
+(30,542)
+30,305
+70,694
+2002
+130,892
+104,714
+1,616
+24,562
+(2,052)
+31,067
+60,309
+[6] Counsel for the Minister through the Auditor submitted a Book of Documents containing 15 tabbed items. These were reviewed by the Auditor who explained same and confirmed the accuracy thereof. Included in the documents are records of the Appellant's GST returns establishing the figures for the purchases arrived at by the Auditor. Also included is the Appellant's letter reporting the credit card sales (commission income).
+[7] The Auditor further explained how he arrived at the figure of 25% referred to in paragraph 11(f) of the Reply. He explained that the mark-up of 25% was quite reasonable and rather low. He testified that certain products sold by the Appellant had mark-ups of 60% but that others had lower mark-ups. However, he determined that the mark-up of 25% was on the low side and therefore very reasonable in all of the circumstances. The Auditor also explained how the ITC's reported by the Appellant had been used to calculate the purchases as described in paragraph 11(e) of the Reply. He also explained that the credit card sales referred to in the Summary as unreported commission income were taken from the actual reporting letter voluntarily submitted by the Appellant received by the Minister November 5, 2003.
+[8] The Appellant's GST returns establish the amounts of purchases based on the ITCs. Those returns in certain cases, resulted in cheques being sent to the Appellant. For example Tab 5 shows an ITC refund claimed of $1,911.14 and Tab 7 shows an ITC refund claimed of $2,131.29 and Tab 14 shows GST refund cheques of the Government of Canada for $1,913.54 and $2,137.42 (slightly higher amounts because of interest allowed) payable to the Appellant and cashed by him. It is obvious that the Appellant was understating sales, thus showing an entitlement to ITC credits. The Appellant, moreover, in his income tax returns for years 2000, 2001 and 2002 showed sales of only $12,516, $17,845 and $13,754 whereas sales calculated on the basis of the ITC's claimed for those periods were $53,703, $60,481 and $130,892. These inconsistencies were not explained.
+[9] The Appellant's testimony was principally to the effect that there must have been an accident in the calculations; that the calculations were clearly wrong; that he had no such income as assessed and owed no tax; that he gave all of his records and papers to his accountant and that his returns had been prepared by his accountant. He stated further that he no longer retained his accountant and consequently did not bring the accountant to Court.
+[10]I have no doubt that the Auditor has thoroughly and accurately calculated the various numbers referred to in the Summary. The Exhibits submitted by the Minister coupled with the testimony of the Auditor establish the accuracy of all of the calculations and the correctness of the methodology. It is clear that the books, records and receipts and other documentary evidence of the Appellant were totally lacking or inadequate. The conclusion from this is that the Auditor was put in the position of having to estimate sales and expenses. The Auditor did the best he could in the circumstances and, if anything, was generous in allowing the figures he did. In conclusion, all matters considered, I find that the Minister's reassessments were reasonable, correct and in accordance with the Act. More particularly the sales were grossly understated resulting in the declared losses referred to above and resulting further in the misstated revenue.
+[11]I conclude without hesitation that the reassessments in question are correct. Further, I am satisfied that in filing his returns for the 2000, 2001 and 2002 taxation years, the Appellant knowingly or under circumstances amounting to gross negligence made or participated in, assented to acquiesced in the making of false statements or omissions in the returns filed for those years and that the penalties were properly assessed.
+[12]For all of the above reasons the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 27th day of March, 2006.
+"T. O'Connor"
+O'Connor J.
+CITATION: 2006TCC170
+COURT FILE NO.: 2004-4479(IT)I
+STYLE OF CAUSE: OLAWALE JOHNSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 10, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: March 27, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+P. Michael Appavoo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

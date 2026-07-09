@@ -1,0 +1,168 @@
+---
+title: "Caruso c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30865/index.do"
+last_modified: "2012-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 233"
+citation2: ""
+neutral_citation: "2012 CCI 233"
+decision_date: "2012-06-29"
+language: "fr"
+item_id: "30865"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7362
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:31:48.862000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3282c9fe134b08d512746728f4f96b1308b47dd91ab83026d5dba36f0610fb2c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Caruso c. La Reine
+
+- Citation: 2012 CCI 233
+- Decision date: 2012-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7362, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caruso c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-29
+Référence neutre
+2012 CCI 233
+Numéro de dossier
+2011-2111(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2111(IT)I
+ENTRE :
+MICHAEL J. CARUSO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 juin 2012, à Toronto (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant l’appelant :
+M. Allan Garber
+Avocat de l’intimée :
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 29e jour de juin 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 29e jour d’août 2012.
+S. Tasset
+Référence : 2012 CCI 233
+Date : 20120629
+Dossier : 2011-2111(IT)I
+ENTRE :
+MICHAEL J. CARUSO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant est un joueur de hockey professionnel. La question en litige dans le présent appel est celle de savoir si l’appelant a le droit de déduire, dans le calcul de son revenu tiré d’un emploi en 2008, la somme de 2 927,64 $ versée par lui à MFIVE SPORTS en 2008 pour services rendus dans la négociation du contrat de l’appelant avec le Florida Panthers Hockey Club, Ltd. (les Florida Panthers).
+[2] En 2006, l’appelant et son père ont conclu un contrat avec AKT Sports Management Consultants Inc. (devenue plus tard MFIVE SPORTS). L’appelant a signé le contrat le jour de son 18e anniversaire. Le paragraphe 2 de cet accord prévoit ce qui suit :
+[TRADUCTION]
+2. Services
+L’agent est par les présentes engagé par le joueur pour représenter, conseiller et assister ce dernier :
+(1) dans la conduite de négociations portant sur la rémunération des services fournis par le joueur au club LNH du joueur;
+(2) dans la préservation et le respect des droits du joueur après signature d’un contrat avec le club LNH du joueur.
+Dans la fourniture de tels services, l’agent s’engage à agir de manière à garantir la bonne représentation du joueur et à protéger en tout temps les intérêts du joueur. L’agent s’engage aussi à se conformer pleinement au règlement.
+Il est entendu et convenu que l’agent n’aura pas le pouvoir de lier ou d’engager le joueur de quelque manière sans le consentement écrit préalable du joueur. En aucun cas l’agent ne signera un contrat du joueur pour celui-ci ou au nom de celui-ci.
+[3] Le 28 mai 2008, l’appelant a signé un contrat de trois ans avec les Florida Panthers. La commission payable par l’appelant à son agent représentait 3,5 p. 100 de sa prime à la signature du contrat et de son salaire minimum pour 2008‑2009 (mineurs), c’est-à-dire 3,5 p. 100 de 74 750 $US = 2 616,25 $US (soit 2 927,64 $CAN). La question est de savoir si ce paiement de la commission à l’agent est déductible dans le calcul du revenu de l’appelant tiré d’un emploi en 2008.
+[4] Le paragraphe 8(2) de la Loi de l’impôt sur le revenu (la Loi) prévoit ce qui suit :
+(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[5] La somme payée par l’appelant ne sera donc déductible dans le calcul de son revenu tiré d’un emploi que si une disposition précise de la Loi autorise une telle déduction. L’appelant a fait valoir que la déduction de la somme était permise par l’alinéa 8(1)b) de la Loi ou bien par le paragraphe 8(5) de la Loi.
+[6] L’alinéa 8(1)b) de la Loi prévoit ce qui suit :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+b) les sommes payées par le contribuable au cours de l’année au titre des frais judiciaires ou extrajudiciaires qu’il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci;
+[7] Pour être déductible en vertu de cet alinéa, la somme doit être payée au titre de services juridiques, et ces services juridiques doivent être des services rendus au contribuable « pour recouvrer le traitement ou salaire qui lui est dû […] ou pour établir un droit à ceux‑ci ». En l’espèce, les services rendus par l’agent étaient les services de négociation du contrat qui a été conclu entre l’appelant et les Florida Panthers. Lorsque l’appelant a été prié de préciser les services fournis par l’agent, il a parlé de la somme additionnelle de 60 000 $ à titre de primes à la signature que l’agent avait pu obtenir pour lui.
+[8] Le contrat joueur–agent était un contrat entre l’appelant et AKT Sports Management Consultants Inc. Le père de l’appelant a dit qu’Anton Thun (qui a signé le contrat à titre de caution) était avocat, mais il n’a pas précisé si la société AKT Sports Management Consultants Inc. était autorisée à fournir des services juridiques. Les services fournis par AKT Sports Management Consultants Inc. (ou MFIVE SPORTS) et pour lesquels le paiement a été fait étaient décrits au paragraphe 2(1) du contrat joueur-agent. L’agent (AKT Sports Management Consultants Inc.) a représenté et assisté l’appelant dans la négociation de sa rémunération (et en particulier de sa prime à la signature) devant être payée par les Florida Panthers.
+[9] Dans la mesure où les services fournis par AKT Sports Management Consultants Inc. (ou MFIVE SPORTS) pourraient être considérés comme des services juridiques, les services ne visaient pas à recouvrer le traitement ou salaire qui était dû à l’appelant (les services ont été rendus avant la signature de tout contrat) ni à établir un droit à tel traitement ou salaire. Les services ont été rendus pour la négociation du contrat. Il n’y avait aucun droit à un traitement ou salaire tant que le contrat n’était pas signé, c’est-à-dire que ce droit est né après que les services en question ont été rendus par l’agent de l’appelant.
+[10] L’appelant a fait valoir que la modification projetée de l’alinéa 8(1)b) de la Loi aura pour effet de rendre la somme déductible. La modification projetée, une fois en vigueur, sera applicable aux sommes payées à partir de 2001. La nouvelle version de l’alinéa 8(1)b) de la Loi sera la suivante :
+b) les sommes payées par le contribuable au cours de l’année au titre des frais judiciaires ou extrajudiciaires qu’il a engagés pour recouvrer un montant qui lui est dû et qui, s’il le recevait, serait à inclure en vertu de la présente sous-section dans le calcul de son revenu, ou pour établir un droit à un tel montant ;
+[11] La modification projetée ne changera cet alinéa que lorsqu’elle sera en vigueur. En tout état de cause, la disposition exigera quand même que les services soient des services juridiques. D’ailleurs, les services juridiques ne seront pas tous admissibles. Seules les sommes payées au titre de services juridiques fournis pour le recouvrement d’un montant dû au contribuable, ou pour l’établissement d’un droit à un tel montant, seront admissibles à la déduction en vertu de cet alinéa. Par conséquent, même si cette modification était aujourd’hui en vigueur, la somme que l’appelant a payée à son agent ne serait pas pour autant déductible.
+[12] La somme payée par l’appelant à son agent n’est pas déductible aux termes de l’alinéa 8(1)b) de la Loi.
+[13] L’appelant a aussi fait valoir que la somme payée à son agent est déductible en vertu du paragraphe 8(5) de la Loi. Ce paragraphe est ainsi formulé :
+(5) Malgré les sous-alinéas (1)i)(i), (iv), (vi) et (vii), les cotisations ne sont pas déductibles dans le calcul du revenu qu’un contribuable tire d’une charge ou d’un emploi, dans la mesure où elles sont effectivement prélevées, selon le cas :
+a) dans le cadre d’une caisse ou d’un régime de retraite;
+b) dans le cadre d’une caisse ou d’un régime de rentes, d’assurance — sauf s’il s’agit de l’assurance-responsabilité professionnelle obligatoire pour la conservation d’un statut professionnel reconnu par la loi — ou de prestations similaires;
+c) à toute autre fin qui n’est pas directement liée aux frais ordinaires de fonctionnement du comité ou groupement semblable, de l’association, de l’office ou du syndicat, selon le cas.
+[Non souligné dans l’original.]
+[14] Cependant, le paragraphe 8(5) de la Loi n’autorise pas de déductions, mais limite plutôt les déductions qui auraient par ailleurs été possibles. Ce paragraphe prévoit que les sommes qui auraient par ailleurs été déductibles en vertu des sous‑alinéas (1)i)(i), (iv), (vi) or (vii) de la Loi ne seront pas déductibles dans la mesure où elles sont prélevées selon ce qui est précisé dans les alinéas 8(5)a), b) ou c) de la Loi. Ce paragraphe n’autorise pas la déduction de sommes, mais limite les sommes qui auraient par ailleurs été déductibles. Par conséquent, il ne saurait valider l’argument selon lequel la somme versée à l’agent de l’appelant en 2008 peut être déduite dans le calcul du revenu de l’appelant tiré d’un emploi. Il est clair que la somme payée à l’agent n’est pas déductible aux termes de l’un quelconque des sous‑alinéas 8(1)i)(i), (iv), (vi), or (vii) de la Loi[1] même sans la restriction imposée par le paragraphe 8(5) de la Loi. En tout état de cause, l’appelant n’a pas prétendu que l’un quelconque de ces sous-alinéas autoriserait la déduction revendiquée.
+[15] L’appelant n’a fait état d’aucune autre disposition de la Loi susceptible de valider, dans le calcul de son revenu tiré d’un emploi en 2008, une possible déduction de la somme de 2 927,64 $ qu’il a payée à son agent en 2008. Étant donné qu’il n’existe aucune disposition autorisant la déduction de cette somme, cette somme n’est pas déductible dans le calcul du revenu de l’appelant tiré d’un emploi en 2008, et l’appel est rejeté, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 29e jour de juin 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 29e jour d’août 2012.
+S. Tasset
+RÉFÉRENCE : 2012 CCI 233
+N° DU DOSSIER DE LA COUR : 2011-2111(IT)I
+INTITULÉ : MICHAEL J. CARUSO ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto, Canada
+DATE DE L’AUDIENCE : Le 18 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 29 juin 2012
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Allan Garber
+Avocat de l’intimée :
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les sous-alinéas 8(1)i)(i), (iv), (vi) et (vii) de la Loi sont formulés ainsi :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+i) dans la mesure où il n’a pas été remboursé et n’a pas le droit d’être remboursé à cet égard, les sommes payées par le contribuable au cours de l’année au titre :
+(i) des cotisations annuelles de membre d’association professionnelle dont le paiement était nécessaire pour la conservation d’un statut professionnel reconnu par la loi,
+[…]
+(iv) des cotisations annuelles requises pour demeurer membre d’une association de fonctionnaires dont le principal objet est de favoriser l’amélioration des conditions d’emploi ou de travail des membres, ou d’un syndicat au sens de :
+(A) l’article 3 du Code canadien du travail,
+(B) toute loi provinciale prévoyant des enquêtes sur les conflits du travail, la conciliation ou le règlement de ceux-ci,
+[…]
+(vi) des cotisations, à un comité paritaire ou consultatif ou à un groupement semblable, dont la législation d’une province prévoit le paiement en raison de l’emploi que le contribuable exerce pour l’année;
+(vii) des cotisations versées à un office des professions et dont le paiement est prévu par les lois d’une province;

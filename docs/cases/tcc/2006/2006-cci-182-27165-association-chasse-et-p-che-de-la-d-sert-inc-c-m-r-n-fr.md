@@ -1,0 +1,145 @@
+---
+title: "Association Chasse et Pêche de la Désert Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27165/index.do"
+last_modified: "2006-03-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 182"
+citation2: ""
+neutral_citation: "2006 CCI 182"
+decision_date: "2006-03-20"
+language: "fr"
+item_id: "27165"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1034
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:47:03.427000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7b859d1192f21c739d8e840ffc75c8a073764535fdaf6ecee6dddc6249166a93"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Association Chasse et Pêche de la Désert Inc. c. M.R.N.
+
+- Citation: 2006 CCI 182
+- Decision date: 2006-03-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1034, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Association Chasse et Pêche de la Désert Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-20
+Référence neutre
+2006 CCI 182
+Numéro de dossier
+2005-3107(EI), 2005-3108(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2005-3107(EI)
+2005-3108(EI)
+ENTRE :
+ASSOCIATION CHASSE ET PÊCHE DE LA DÉSERT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus le 15 mars 2006, à Ottawa (Ontario)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelante :
+Me Jean Faullem
+Avocate de l'intimé :
+Me Justine Malone
+____________________________________________________________________
+JUGEMENT
+Les appels en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi sont rejetés et les décisions rendues par le ministre du Revenu national en date du 25 mai 2005 sont confirmées en ce qu'il existait un contrat de louage de services entre l'appelante et monsieur Alain Prud'homme et sa conjointe madame Angèle Constantineau pour la période du 10 mai 2004 au 14 novembre 2004.
+Signé à Ottawa, Canada, ce 20e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2006CCI182
+Date : 20060320
+Dossiers : 2005-3107(EI)
+2005-3108(EI)
+ENTRE :
+ASSOCIATION CHASSE ET PÊCHE DE LA DÉSERT INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] La question soumise devant la Cour est de déterminer si monsieur Alain Prud'homme et sa conjointe, madame Angèle Constantineau (les « travailleurs » ) occupaient des emplois assurables aux termes de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi ( « LAE » ), alors qu'ils ont travaillé pour l'appelante au cours de la période du 10 mai au 14 novembre 2004.
+[2] L'appelante soumet que ces deux travailleurs n'occupaient pas un emploi assurable au cours de cette période.
+[3] L'appelante est une corporation à but non lucratif qui exploite une zone d'exploitation contrôlée ( « ZEC » ) dans la réserve faunique La Vérendrye, dans la province de Québec. Elle est administrée par des bénévoles. Chaque personne qui pénètre dans la ZEC doit s'enregistrer à l'un des deux postes d'accueil, l'un situé au nord de la ZEC (poste La tortue) et l'autre situé au sud de la ZEC (poste Tomassine).
+[4] En s'enregistrant, les usagers indiquent la durée de leur séjour et le genre d'activités qu'ils feront (pêche, chasse, campement ou baignade), et paient un droit d'entrée selon le genre d'activités choisi et la durée du séjour. L'on peut devenir membre de la ZEC au début de la saison qui s'étend du mois de mai au mois de novembre. C'est au moment de l'ouverture de la saison que les gens se procurent leurs cartes de membre. À cette période de l'année, l'appelante peut récolter entre 20 000 $ et 30 000 $ en droits d'adhésion.
+[5] L'appelante engage des préposés aux deux postes d'accueil. Dans le cas qui nous concerne, les travailleurs ont été engagés au poste d'accueil Tomassine au cours de la saison 2004. Au cours des 20 saisons précédentes, l'appelante avait engagé un couple, les Comtois, pour s'occuper de ce poste d'accueil. Ces derniers vivaient dans une roulotte leur appartenant, et étaient engagés comme des employés de l'appelante. Comme les Comtois prenaient leur retraite, le conseil d'administration de l'appelante a décidé de faire un appel d'offres et d'engager les nouveaux venus sur une base contractuelle. D'une part, les membres du conseil trouvaient que cela coûtait trop cher d'avoir des employés. D'autre part, chacun d'eux étant occupé de son propre côté, ils n'avaient pas trop de temps à consacrer à la gestion d'employés. Il est à noter, toutefois, qu'au poste « La tortue » , la personne engagée était toujours considérée comme une employée.
+[6] Suite à l'appel d'offres dans un journal de la région, l'appelante a reçu cinq soumissions. L'appelante a retenu celle de monsieur Prud'homme, qui offrait 31 500 $ pour offrir ses services du 10 mai 2004 au 14 novembre 2004 (pièce A-4). Il est à noter que monsieur Prud'homme connaissait bien les Comtois, qui avaient travaillé à ce poste pendant 20 ans.
+[7] Suite à l'entrevue qui a eu lieu au cours du mois de mars 2004, en présence de monsieur Prud'homme, de sa conjointe, madame Constantineau, et de madame Jocelyne Lyrette, représentante de l'appelante, un contrat a été signé le 10 mai 2004 (pièce A-6). Il ressort de la preuve que puisque le contrat a été signé le premier jour de travail et qu'il y avait beaucoup de monde sur place, seul monsieur Prud'homme, dans la cohue, a signé le contrat. Un amendement a toutefois été signé le 9 juillet 2004, incluant madame Constantineau au contrat (pièce A-7). Comme seul monsieur Prud'homme avait été rémunéré avant l'amendement au contrat, l'appelante a par la suite rectifié la situation en ne rémunérant que madame Constantineau pour une période équivalente à celle qui s'était écoulée avant l'amendement, et par la suite, a rémunéré les travailleurs à parts égales. Une question s'est posée à l'audience, à savoir si l'appelante avait été liée par contrat avec madame Constantineau tout au long de la période. Compte tenu des faits mentionnés ci-haut, je considère que l'appelante a accepté de signer un contrat avec les deux travailleurs pour toute la période en litige.
+[8] Par ce contrat, les travailleurs acceptaient de vivre dans une bâtisse meublée que l'appelante louait de la Société des Établissements de Plein Air du Québec ( « SEPAQ » ), laquelle bâtisse se situait au poste d'entrée Tomassine. Les travailleurs ne payaient rien pour s'y loger, l'appelante assumant tous les frais inhérents, y compris une assurance-responsabilité civile pour une somme de 2 000 000 $.
+[9] Les travailleurs s'engageaient à garder le poste d'accueil ouvert de 7h00 à 22h00, sept jours par semaine. Ils devaient également être disponibles si quelqu'un se présentait la nuit. À ce moment, ils pouvaient charger 3 $ supplémentaire en sus du prix de base. Les travailleurs gardaient ce 3 $ pour eux. Leurs tâches consistaient à faire l'accueil, remplir les formulaires exigés par le gouvernement du Québec et fournis par l'appelante, percevoir les droits d'entrée, donner les renseignements sur les 500 lacs et 110 terrains de camping qui se trouvaient dans la réserve d'une superficie de 1 205 km2. Ils devaient répondre en tout temps sur le poste de télécommunication FM ( « poste FM » ) qui était installé dans leur demeure et qui était utilisé soit par le garde-chasse de la réserve ou par l'agent de la protection de la faune engagé par l'appelante. Les travailleurs s'occupaient également de la pesée des poissons et inscrivaient le résultat sur un feuillet approprié qu'ils remettaient à l'appelante. Ils entraient également des données sur la chasse et la pêche sur un ordinateur fourni par la Société de la faune et des parcs du Québec (FAPAQ).
+[10] Les travailleurs ont reçu une formation de quatre jours avec les Comtois au début de la saison. Ils disent que les Comtois sont aussi venus les aider au cours des deux week-ends suivants. Au cours de la formation de quatre jours, il est admis que c'est l'appelante qui a rémunéré les Comtois. Au cours des deux autres week-ends, les travailleurs disent que c'est l'appelante qui les a payés alors que l'appelante dit ne pas les avoir rémunérés. Il est admis que lorsque les travailleurs prenaient un week-end de congé, ils se faisaient remplacer par les Comtois et ils s'arrangeaient entre eux quant à la façon de rémunérer les Comtois. Monsieur Prud'homme a dit qu'il leur donnait 50 $ pour leur déplacement et leur fournissait la nourriture.
+[11] Selon le contrat, les remplaçants devaient être approuvés par l'appelante. Dans les faits, les Comtois connaissaient très bien le fonctionnement du poste d'accueil et l'appelante n'avait pas d'objection à ce qu'ils remplacent les travailleurs.
+[12] L'appelante était assurée contre le vol jusqu'à concurrence de 5 000 $ pour l'argent de caisse. (Dans l'amendement au contrat (pièce A-7), la clause 12.0 du contrat initial (pièce A-6) qui exigeait que les travailleurs prennent eux-mêmes une assurance contre le vol, a été retirée). Les travailleurs ne pouvaient garder plus de 200 $ dans le tiroir-caisse, et pas plus de 5 000 $ dans le coffre-fort fourni par l'appelante. Monsieur Prud'homme devait se présenter une fois par semaine au bureau de l'appelante pour remettre les formulaires ou livrets d'enregistrement remplis par les clients et l'argent perçu au cours de la semaine. La secrétaire de l'appelante vérifiait que les droits d'inscription sur les formulaires correspondaient à l'argent remis par monsieur Prud'homme. Ce dernier et sa conjointe étaient responsables de l'écart entre les montants enregistrés sur les formulaires et la somme réelle remise, si écart il y avait.
+[13] L'agent de la protection de la faune, employé de l'appelante, se présentait au moins deux à trois fois par semaine au poste d'accueil, à n'importe quelle heure, sans nécessairement s'annoncer. Cet agent de la protection de la faune, avait entre autres pour tâches, de contrôler que chaque visiteur de la ZEC était bien enregistré. Il pouvait communiquer en tout temps avec les travailleurs par le biais du poste FM, afin d'aviser ceux-ci de quelconques problèmes dans la zone. Le poste FM devait rester ouvert, et les travailleurs devaient y répondre en tout temps entre 7h00 et 22h00. Par ailleurs, madame Jocelyne Lyrette passait chaque week-end par le poste d'accueil Tomassine, profitant elle-même des activités de plein air dans la ZEC.
+[14] Les travailleurs exploitaient également un petit dépanneur dans lequel ils vendaient différents produits (tels liqueurs, friandises, appâts) aux visiteurs. Ils ont obtenu l'approbation de l'appelante pour exploiter ce petit dépanneur et les maigres profits allaient aux travailleurs.
+[15] Par ailleurs, les travailleurs ont hébergé deux employés de l'appelante au cours de la période en litige. Les représentants de l'appelante, Jocelyne et Victor Lyrette, ont tous deux dit qu'ils avaient appris cet état de fait plus tard. Les travailleurs ont dit que c'est à la demande de monsieur Lyrette qu'ils ont hébergé ces deux employés. L'un d'eux était déjà installé au moment de leur arrivée. Ils ont récolté de chacun de ces deux pensionnaires une somme de 5 $ par jour, que les travailleurs ont conservé pour eux.
+[16] La question en litige est de déterminer si les travailleurs étaient des employés de l'appelante ou des travailleurs indépendants. Tel que le rappelait le juge Décary dans 9041-6868 Québec Inc. c. Canada, [2005] A.C.F. no 1720 (QL), trois éléments constitutifs caractérisent le contrat de travail (contrat d'emploi) en droit québécois : une prestation de travail, une rémunération et un lien de subordination. Au paragraphe 12 de cette décision, le juge Décary s'exprime ainsi :
+¶ 12 Il est intéressant de noter qu'en droit civil québécois, la définition même du contrat de travail met l'accent sur « la direction ou le contrôle » (art. 2085 c.c.c.), ce qui fait du contrôle l'objet même de l'exercice et donc beaucoup plus qu'un simple indice d'encadrement.
+[17] Le juge Décary reprenait au paragraphe 11 de la décision, les propos de Robert P. Gagnon, dans le droit du travail du Québec, Éditions Yvon Blais, 2003, 5e édition, aux pages 66-67, où celui explique la notion de lien de subordination au paragraphe 92, comme suit :
+[...] On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu'on reconnaîtra alors comme l'employeur, de déterminer le travail à exécuter, d'encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s'intégrer dans le cadre de fonctionnement d'une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d'un certain nombre d'indices d'encadrement, d'ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d'activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n'exclut pas une telle intégration à l'entreprise.
+[18] Dans la présente instance, le lien de subordination exercé par l'appelante sur les travailleurs existe réellement. Les deux travailleurs doivent assurer une présence constante au poste d'accueil, laquelle est contrôlée de façon sporadique mais régulière, soit par l'agent de la protection de la faune, qui peut arriver à toute heure sur les lieux ou par les représentants de l'appelante, Jocelyne et Victor Lyrette, qui y viennent régulièrement faire du camping, et ainsi s'assurer de la présence des travailleurs pendant les heures d'ouverture. Madame Lyrette a d'ailleurs assisté les travailleurs lors de l'ouverture au début de la saison, compte-tenu des grosses entrées d'argent à ce moment. De plus, une autre forme de contrôle s'exerce par le poste FM, auquel les travailleurs doivent répondre en tout temps. Le poste FM permet la communication à l'intérieur de la ZEC entre les employés ou représentants de l'appelante et les travailleurs.
+[19] De plus, le paragraphe 14.0 du contrat (pièce A-6) stipule ce qui suit :
+Vérifications
+Un représentant de la Direction de l'association [l'appelante] devra se rendre sur les lieux de l'exploitation du poste d'accueil à chaque deux semaines pour la durée de l'exploitation, aux fins de vérifier les registres, inventaires et sommes d'argent maintenu [sic] par l'exploitant pour l'association.
+[20] Par ailleurs, le travail assigné aux travailleurs commande certaines règles strictes qui doivent être suivies scrupuleusement par les travailleurs. Ainsi, chaque visiteur doit compléter un formulaire prescrit fourni par l'appelante et que les travailleurs ont en leur possession. Les travailleurs perçoivent les droits d'entrée prescrits par l'appelante et remettent ces sommes recueillies, une fois par semaine au bureau de l'appelante. Ces sommes sont vérifiées par la secrétaire de l'appelante avec les formulaires qui ont été complétés par chacun des visiteurs. Par ailleurs, si les travailleurs voulaient se faire remplacer, la clause 9.0 du contrat d'embauche (pièce A-6), indique clairement que les travailleurs doivent aviser la direction de l'appelante du nom de son remplaçant et de la durée de son absence. Cette absence doit par ailleurs être justifiée, limitée et de courte durée. Dans le cas actuel, ce sont les Comtois, lesquels avaient travaillé pendant 20 ans pour l'appelante, qui remplaçaient les travailleurs. Ceci de toute évidence était approuvé par l'appelante. D'ailleurs, une seule fois, les travailleurs ont dû se faire remplacer, alors que les Comtois n'étaient, semble-t-il, pas disponibles, soit au décès du frère de monsieur Prud'homme, et c'est l'appelante qui a trouvé et rémunéré les remplaçants pour la journée des funérailles.
+[21] Finalement, c'est l'appelante qui fournissait le bâtiment et tous les instruments de travail. L'appelante payait le téléphone, l'électricité et le chauffage et fournissait le logement gratuitement. L'appelante assumait une assurance-responsabilité civile sur cette bâtisse. Elle a aussi souscrit à une assurance-vol, jusqu'a concurrence de 5 000 $. Les travailleurs devaient s'assurer que les sommes étaient remises au bureau de l'appelante avant de dépasser ce seuil. Je suis d'accord avec l'avocate de l'intimée que la nature même du travail exigé des travailleurs, commande un certain contrôle. En effet, on imagine mal un travailleur, dépositaire d'importantes sommes d'argent pour celui qui l'embauche, ne pas être soumis au contrôle de ce dernier.
+[22] À mon avis, et bien que l'appelante ait procédé par voie d'appel d'offres, il est clair que les travailleurs faisaient le même travail et étaient traités de la même façon que tous les autres employés qui avaient occupé ce poste auparavant et ceux qui occupaient l'autre poste d'accueil de la ZEC (La tortue). Compte tenu du degré de contrôle et de direction exercé par l'appelante sur les travailleurs, je considère que l'appelante exerçait un lien de subordination important sur les deux travailleurs, qui n'avaient pratiquement aucune latitude, ou marge de manoeuvre dans leur travail. Si l'on passe outre la somme de 50 $ et la nourriture que les travailleurs fournissaient aux Comtois quand ils les remplaçaient, et le fait qu'ils étaient responsables de l'écart à payer, s'il y en avait, entre les sommes dites perçues et les sommes remises à l'appelante, l'on peut dire que les travailleurs étaient totalement pris en charge par l'appelante. Le fait que les travailleurs s'organisaient avec les Comtois pour se faire remplacer (il y a eu ici quelques contradictions dans la preuve quant à savoir qui avait rémunéré les Comtois au cours des deux premiers week-ends du mois de mai) et qu'ils pouvaient être appelés à rembourser une somme manquante (ce qui n'est jamais arrivé dans les faits), ne vient pas à mon avis changer la nature du contrat d'emploi qui, en réalité, avait été convenu entre les parties. En effet, la preuve a plutôt révélé que les travailleurs ne s'étaient pas présentés comme des contractuels pour occuper un poste dont ils ne connaissaient que très peu le fonctionnement. Il ressort de leurs témoignages, qu'ils se cherchaient un emploi et que c'est plutôt dans cette optique qu'ils ont répondu à l'appel d'offres.
+[23] Je conclus donc que les travailleurs étaient régis par un contrat d'emploi et que leur emploi était assurable.
+[24] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 20e jour de mars 2006.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2006CCI182
+N º DES DOSSIERS DE LA COUR : 2005-3107(EI) et 2005-3108(EI)
+INTITULÉ DE LA CAUSE : ASSOCIATION CHASSE ET PÊCHE DE LA DÉSERT INC. c. M.R.N.
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : le 15 mars 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 20 mars 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jean Faullem
+Avocate de l'intimé :
+Me Justine Malone
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jean Faullem
+Étude : Noël & Associés
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

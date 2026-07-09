@@ -1,0 +1,184 @@
+---
+title: "Morris v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25065/index.do"
+last_modified: "2003-05-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 337"
+citation2: ""
+neutral_citation: "2003 TCC 337"
+decision_date: "2003-05-14"
+language: "en"
+item_id: "25065"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2540
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:10:14.722000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "99c932de58ea32ccf86401c4dd71dba80219952e354d5fb5f20e7d670edbcc6d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morris v. The Queen
+
+- Citation: 2003 TCC 337
+- Decision date: 2003-05-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2540, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morris v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-14
+Neutral citation
+2003 TCC 337
+File numbers
+2000-4846(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-4846(IT)I
+BETWEEN:
+BRUCE MORRIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 6, 2003 at Prince George, British Columbia
+by the Honourable Judge Eric A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1996, 1997 and 1998 taxation years are dismissed.
+Signed at Ottawa, Canada, this 14th day of May, 2003.
+"E.A. Bowie"
+J.T.C.C.
+Citation: 2003TCC337
+Date: 20030514
+Docket: 2000-4846(IT)I
+BETWEEN:
+BRUCE MORRIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie, J.
+[1] These appeals are from assessments for income tax for the years 1996, 1997 and 1998. During those years, Mr. Morris was employed on a full-time basis by BC Rail Ltd., where he worked a four-day, 40-hour week. He also carried on an activity as a fishing guide under the name First Cast Guiding. I use the noun activity, because the issue I must decide is whether that activity can properly be called a business, and therefore qualify as a source of income for the purposes of section 3 of the Income Tax Act ("Act"). The Appellant's position throughout has been that First Cast is a business and a source of income, that its considerable losses have been accurately computed and reported in each of the three years under appeal, and that he is entitled to deduct those amounts from his income from other sources in order to arrive at his income under section 3 for each year. Those losses, as reported by him, are:
+1996
+1997
+1998
+Gross revenue
+$ 0
+$ 300.00
+$ 770.00
+Expenses
+$7,090.00
+$12,921.58
+$13,997.89
+Loss
+$7,090.00
+$12,621.58
+$13,227.89
+[2] In assessing Mr. Morris, the Minister of National Revenue ("Minister") took the position that his activity as a fishing guide offered no reasonable expectation of profit in the foreseeable future, and that it therefore could not qualify as a source of income for purposes of section 3. He therefore ignored these losses in assessing Mr. Morris for the years in question. An appeal to this Court failed. All this took place prior to the Supreme Court of Canada's watershed decision in Stewart v. The Queen,[1] applying the pre-Stewart jurisprudence. After the decision in Stewart was released, the Federal Court of Appeal heard Mr. Morris' appeal from this Court and set aside the judgment, remitting the matter for a new trial. That new trial took place before me at Prince George, B.C. under the Court's informal procedure. The Appellant was the only witness.
+[3] The Appellant, in his words, began to fish almost as soon as he could walk. He has been an ardent fisherman since then for most of his life, although there was one period of about eight years during which he did not fish, apparently for reasons related to marital difficulties that he was going through at that time. Apart from that period, he habitually went fishing two or three times per month for the best part of 40 years. He has lived in Prince George for the last 20 of those years, which include the period during which he did not fish. For some 10 years or more, however, he has fished the lakes and rivers around Prince George, sometimes alone, and sometimes with friends.
+[4] Mr. Morris said in his evidence that he had some concern that BC Rail was downsizing its work force, and that he might find himself laid off before he reached retirement age. He saw the possibility of developing a guiding business as a potential alternate livelihood should that happen. He did not bring any training in business or financial matters to this endeavour, nor did he make any serious investigation of the market for his services. He did have some earlier experience in business, he said, as a cabinet-maker in Richmond, B.C.; that apparently ended prior to his move to Prince George.
+[5] In 1996, he decided to obtain a fishing guide's licence from the province of British Columbia, with a view to developing a clientele that would pay him on a fee basis for his services as a fishing guide, not at a lodge, but in more spartan surroundings in the wilderness, without frills. Between 1996 and 1999, he replaced his Toyota truck with a larger, 1998 extended cab Dodge 4x4 truck, and he purchased a 1995 21-foot aluminium jet boat powered by a 350 horsepower Berkley Jet Motor that he insured for $20,000. He also kept the much smaller 12-foot aluminium boat and 9.5-horsepower outboard motor that he was accustomed to fishing in. He obtained a guide licence from the provincial government, and he obtained insurance on the hull of the jet boat, and on his truck, on the basis that they were for use in a business, as well as personal liability insurance on the same basis.
+[6] The Appellant did not have what could properly be called a business plan, although in May 1996 he completed a B.C. government form called an "Angling Guide Operating Plan". This is a one-page form that appears to be concerned more with the likely impact of the would-be guide's operations on fish stocks than the possible viability of the enterprise. It requires information as to the number of boats and vehicles to be used, the waters to be fished, the number of angler days projected, and the species of fish intended to be caught. In January 1998, he completed a second of these forms, adding five additional lakes to his intended territory. While it is not totally clear, it appears that these forms were a pre-requisite to obtaining a guide's licence: see Exhibit A-3. On the first form, in May 1996, in the space to describe "future plans" the Appellant simply wrote:
+"To expand business - bigger boat to accommodate handicap clientele"
+[7] The Appellant said in his evidence that his initial projection of his future revenues was based on 60 angler days per year, at a fee of $150 per day, to produce total revenues of $9,000. This is consistent with his forecast of angler days on his initial licence application; however there was nothing in his evidence, oral or documentary, to explain how the expectation of 60 angler days was arrived at. Nor did his evidence reveal any sort of plan by which this projection might have been achieved. He expressed an intention to provide a service that was previously unavailable to handicapped persons who might want to pursue recreational fishing in wilderness areas. This, he said, was the reason that he bought the jet boat. It was capable of carrying two wheelchairs. However, there was no evidence at all that Mr. Morris had made any attempt to market his services to handicapped people. In fact, he made little or no serious effort to market his services at all until after the three years under appeal. In 1996, there was no expense for advertising claimed, in 1997 it was $178 and in 1998 it was $88. He could not recall what was purchased for those amounts, other than some fishing hats to give to clients. In 1999 or 2000, he bought an advertisement in a travel guide published by Tourism Prince George, and a small space on an advertising billboard in the parking lot of the Prince George Tourist Information Centre. He also started an internet website at about that time. The advertisement and the website both refer cryptically to "Limited access for handicap clients". Mr. Morris described in his evidence how the location where he had thought to have handicapped clients access fishing waters had proved to be quite impassable by a person in a wheelchair or on crutches. Fortunately, no handicapped person ever seems to have shown any interest at all in using his services.
+[8] On cross-examination it emerged that Mr. Morris' losses continued unabated through 2001. He claimed the following losses for the next three years:
+1999
+2000
+2001
+Gross revenue
+$ 400.00
+$ 1,000.00
+$ 1,250.00
+Expenses
+17,735.92
+18,611.92
+28,877.43
+Losses
+$17,335.92
+$17,611.92
+$27,627.43
+In short, the annual revenues increased in six years from 0 to $1,250, while expenses climbed from $7,090 to $28,877.43.
+[9] Excerpts from the Appellant's diaries for 1997 and 1998 show that in 1997, he went fishing nine times, and in 1998 some 15 times or more. On only two or three occasions he was accompanied by a client. Mr. Brent had bought a day of guided fishing donated by the Appellant to a charity auction, and gave him a $20 tip at the end of the day. On another day, he took a trip of 130 kilometres, and the notation reads "banking $250". It is not at all clear that fishing was involved at all on that day. Otherwise, his only paying client in the three years seems to have been someone called Zigmond, who paid $300 for two days fishing in 1997, and another $200 in June 1998. The Appellant sent Zigmond a $150 gift certificate at Christmas, 1997. In 1998, he used the gift certificate, paid $150 for the second day, and gave the Appellant a tip of $50. The Appellant could not recall any other client who had fished with him, and I think it likely that his other revenue of $550 in 1998 came from work that he did for the R.C.M.P. and the Prince George Search and Rescue Unit. He gave no evidence as to the specific source of his revenues in 1999, 2000 and 2001, nor the names of any clients other than Zigmond and Mr. Brent.
+[10] Questions directed to the nature of the expenses that the Appellant claimed also elicited virtually no information. Exhibit A-18 is a bundle of loose and disorganized papers, some of which are receipts for insurance, the advertisements, licence and land use fees, and what appears to be provincial tax on the purchase of the jet boat in April 1998. None of the other claimed expenses are established by receipts. He did not keep any books, records or financial statements of any kind in connection with this activity.
+[11] The Appellant provided no breakdown between business use and pleasure use of either the boats or the vehicle. His position was that whenever he used the boat it was for business. If he had no client along, which was almost all the time, it was nevertheless business use because he was investigating waters to which he would be able later to take clients. Each trip was, in other words, to gain knowledge of the area and its waters that was to be used later to earn income.
+[12] In Stewart, the Supreme Court has mandated a new, two-stage approach to determining whether activities of this sort can qualify as a source of income for the purposes of section 3 of the Act, even though they produce losses on a recurring basis. The first matter to be considered is whether "... there is some hobby or personal element to the activity ...".[2]
+[13] I find that Mr. Morris' activities in relation to providing guide services to people wishing to go fishing in the wilderness has a very substantial personal element to it. I infer this from the fact that he is a very enthusiastic angler, and has been for most of the past 40 years. He is also, according to his own evidence, a very accomplished boatsman. He described, with some apparent satisfaction, his ability to navigate his boat in difficult waters where others could not. The boating and fishing excursions which gave rise to the greatest part of the claimed expenses were an extension of his long-time hobby. It is necessary, then, to proceed to the second part of the inquiry. The question that must be asked and answered is: "[did] the taxpayer intend to carry on [the] activity for profit and is there evidence to support that intention?"[3] This in turn requires that I consider whether the taxpayer's predominant intention was to make a profit as a fishing guide - a subjective analysis - and also whether he has conducted the activity " ... in accordance with the objective standards of businesslike behaviour".[4]
+[14] I am inclined to accept Mr. Morris' evidence that, in the beginning, he embarked on this activity having in mind the prospect of providing himself with a hedge against the possibility of a layoff from his work at BC Rail, and also as a prospective retirement business. I do not believe that this remained his intention throughout, however. It must have been obvious to him, at least once a year when he signed his income tax returns, that without some drastic change in his way of operating he would never see a profit. His losses increased dramatically between 1996 and 2001. One reason for this was his decision, in the spring of 1998, to buy the jet boat at a cost of almost $16,000.[5] His expressed reason for doing this was to be able to accommodate the handicapped, and yet he had no handicapped clients, and had not at that time made any attempt to attract them.
+[15] It is obvious from the facts I have recited that Mr. Morris did not take a businesslike approach to this activity. Certainly, there were some superficial things done that are consistent with carrying on a business, such as registering a name, obtaining a licence and a land use permit, and purchasing business insurance coverage for the vehicle, the boats and the activities. However, there are far more things normal to any business that he simply ignored. He made no serious attempt to advertise in any meaningful way until 2001. Even then he had only the small sign at the tourist bureau, one small advertisement, and the website. He kept no books and records, and even his collection of receipts falls far short of justifying his claimed expenditures. He had no knowledge, when asked, about the nature of the expenses he claimed, although he was the only person involved in his activity. He took long and costly trips to fish the waters around Prince George at a time when he had no clients other than Zigmond, and no revenues in prospect. He spent almost $16,000 for a boat to accommodate handicapped anglers without apparently having made any attempt to see if there was a market among handicapped people. He bought an expensive Dodge extended cab truck, he said, because it was more convenient than his Toyota truck to take Zigmond and his grandson in, although their whole trip was for only two days and it produced only $200 of revenue. Most significantly, he embarked upon the whole venture with no more plan or investigation of the market than a casual conversation with the one person in the Prince George area who would be his competition.
+[16] The Supreme Court has acknowledged in Stewart that the potential of the activity to show a profit in the future, and such specifics as the taxpayer's training and intended course of future action to stem the tide of losses are relevant, although not determinative, in the consideration of whether an activity that has a significant personal element is nevertheless a source of income for purposes of section 3. Mr. Morris is no doubt an excellent person with whom to go fishing: however, the evidence does not suggest that he had any experience, training or talent to enable him to run a business. He had insufficient capital, it would seem, and no idea of how to market himself. Viewed objectively, there was little about this activity that was businesslike. After incurring losses aggregating more than $90,000 in six years, he had apparently made no attempt to modify his way of operating. There was nothing in his evidence to suggest that he was even considering ways to do so.
+[17] Mr. Morris seemed to take the view that this must be a business, because he paid money to get licences, permits and insurance based on business use of the boat and truck. I disagree. The actual cost of these items was relatively small in comparison to his claims for capital cost allowance, interest payments, and maintenance and repairs. The benefit of deducting the losses that these produced from his employment income through their contribution to "business losses" claimed under section 3 far outweighed these additional costs. They were, in effect, a small price to pay for the benefit of carrying out his fishing and his boating on a tax-deductible basis. He was not engaged in an activity that could seriously be described as businesslike. The appeals must be dismissed.
+[18] I have not addressed the alternative argument of the Respondent that the expenses claimed have simply not been proven. Only a few receipts were produced in evidence by the Appellant. His accountant, or tax preparer, who prepared his statements of claimed losses did not testify. Mr. Morris himself could shed no light at all on the nature of the claimed expenses. In these circumstances, even if it were to be established that the Appellant did have a business as opposed to a hobby, I would not allow him to deduct any expenses other than those for which there are actual receipts included in the exhibits.
+[19] The appeals are dismissed.
+Signed at Ottawa, Canada, this 14th day of May, 2003.
+"E.A. Bowie"
+J.T.C.C.
+CITATION:
+2003TCC337
+COURT FILE NO.:
+2000-4846(IT)I
+STYLE OF CAUSE:
+Bruce Morris and Her Majesty the Queen
+PLACE OF HEARING:
+Prince George, British Columbia
+DATE OF HEARING:
+May 6, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge E.A. Bowie
+DATE OF JUDGMENT:
+May 14, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2002 S.C.C. 46.
+[2]
+Stewart, supra, at paragraph 53.
+[3]
+Stewart, supra, at paragraph 54.
+[4]
+Ibid.
+[5] The provincial tax was $1,112.85. See Exhibit A-18.

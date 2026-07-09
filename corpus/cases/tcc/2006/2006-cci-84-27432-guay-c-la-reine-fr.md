@@ -1,0 +1,175 @@
+---
+title: "Guay c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27432/index.do"
+last_modified: "2006-01-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 84"
+citation2: ""
+neutral_citation: "2006 CCI 84"
+decision_date: "2006-01-24"
+language: "fr"
+item_id: "27432"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 254
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:57:18.049000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c4b31e47a610d36f7f1d4c0a72f3818c4596f33494e41ab13f98e9ea0278bda2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guay c. La Reine
+
+- Citation: 2006 CCI 84
+- Decision date: 2006-01-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 254, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-24
+Référence neutre
+2006 CCI 84
+Numéro de dossier
+2005-139(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-139(IT)I
+ENTRE :
+VINCENT GUAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 janvier 2006, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie le 2 juin 2003, en vertu de la Loi de l'impôt sur le revenu, pour l'année d'imposition 2002 est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de février 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI84
+Date : 20060124
+Dossier : 2005-139(IT)I
+ENTRE :
+VINCENT GUAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une cotisation établie par le ministre du Revenu national (le « ministre » ) le 2 juin 2003 pour l'année d'imposition 2002.
+[2] Le 18 août 2003, l'appelant a demandé au ministre de soustraire de son revenu la somme de 39 707 $ au motif que ce montant avait été reçu à titre de dommages-intérêts.
+[3] Le 5 novembre 2003, l'appelant était avisé que sa demande visant à soustraire la somme de 39 707 $ de son revenu pour l'année d'imposition 2002 était refusée à moins que le Collège François-Xavier-Garneau (le « Collège » ), émetteur du feuillet T4A, le modifie en y inscrivant la mention « annulée » . Une nouvelle cotisation fut émise le 18 novembre 2003, suivie d'un avis d'opposition en date du 2 décembre 2003, et fut ratifié le 7 octobre 2004 en maintenant le refus de considérer la somme de 39 707 $ comme ayant été reçue à titre de dommages-intérêts.
+[4] Pour établir la nouvelle cotisation à l'égard de l'année d'imposition 2002, le ministre a tenu pour acquis les faits suivants, à savoir :
+a) l'appelant a été embauché par le Collège François-Xavier-Garneau, à titre de directeur général, le 5 mai 1997 et son contrat d'engagement devait se terminer le 30 juin 2002;
+b) à la demande du Collège François-Xavier-Garneau, l'appelant fut réputé en congé avec solde depuis le 21 janvier 2002;
+c) en guise de règlement, entre le Collège François-Xavier-Garneau et l'appelant, une entente hors cour datée du 15 février 2002, stipulait, entre autres, les mesures suivantes :
+i) à compter de la date de la présente entente hors cour, tout lien d'emploi de l'appelant avec le Collège François-Xavier-Garneau cessait définitivement;
+ii) le Collège François-Xavier-Garneau s'est engagé, entre autres, à verser à l'appelant ou à son acquit les sommes suivantes :
+a) une somme de 48 907,03 $ représentant son salaire pour la période s'échelonnant du 7 février 2002 au 30 juin 2002,
+b) une somme de 23 480,08 $ représentant les vacances dues ou pouvant être dues jusqu'au 30 juin 2002,
+c) une somme de 8 000 $, à titre d'honoraires professionnels payables à l'étude d'avocats Fasken Martineau,
+d) une somme de 5 000 $ pour fins de recherche d'emploi,
+e) une somme de 76 077 $, à titre d'indemnité de départ,
+f) une somme de 39 707 $ sans qu'aucune raison n'ait été donnée;
+iii) les parties se sont données quittance totale, finale et mutuelle de toute somme due et l'appelant renonce à tout recours ou poursuite relativement aux faits qui ont été à l'origine de la présente convention;
+iv) la présente transaction est intervenue sans aucune admission des responsabilités de part et d'autre et a constitué une transaction au sens des articles 2631 et suivants du Code civil du Québec;
+d) suite à l'entente mentionnée à l'alinéa précédent, Collège François-Xavier-Garneau a émis un feuillet T4A, au nom de l'appelant, à l'égard de la somme de 39 707 $, à titre d'une allocation de retraite.
+[5] À la suite de la rupture du contrat de travail entre l'appelant et son employeur, le Collège, les deux parties, représentées par procureur, ont négocié et accepté une entente confirmée par une convention écrite.
+[6] L'appel porte essentiellement sur le paragraphe 3 c) de la convention intervenue entre le Collège et l'appelant; le paragraphe litigieux de la convention se lit comme suit :
+3. Le COLLÈGE s'engage à payer à M. GUAY ou à son acquit, les sommes suivantes :
+[...]
+c) une somme de trente-neuf mille sept cent sept dollars (39 707,00 $) à transférer directement dans le compte REER de M. GUAY dans l'institution financière indiquée par celui-ci au COLLÈGE.
+[7] Conformément aux termes de l'entente mentionnée au paragraphe précédent, qui constituait une transaction, le Collège a émis un feuillet T4A au nom de l'appelant à l'égard de la somme de 39 707 $ à titre d'allocation de retraite.
+[8] La position des parties est très simple à résumer: l'intimée soutient que la somme de 39 707 $ a été payée à titre d'allocation de retraite, alors que l'appelant soutient, de son côté, qu'il s'agit là d'une indemnité versée à titre de dommages-intérêts tenant lieu de compensation pour les dommages moraux subis à la suite de la rupture de son contrat de travail.
+[9] Dans un premier temps, l'avocat qui représentait l'appelant lors des négociations ayant conduit à la signature de la convention a expliqué qu'il s'agissait bel et bien d'une indemnité obtenue pour dommages-intérêts.
+[10] Pour appuyer ses prétentions, il a expliqué les circonstances entourant la rupture du contrat de travail; pour justifier les dommages-intérêts, il a notamment, eu recours à deux articles de journaux et à un projet de procès-verbal d'assemblée du conseil d'administration prétendument corrigé à la suite d'une mise en demeure qu'il a lui-même adressée.
+[11] Il a également fait état de problèmes de tension extrême entre l'appelant et l'administration du Collège; il a soutenu que l'institution avait laissé sous-entendre que l'appelant n'avait pas la compétence et les habiletés requises pour mener à bien les destinées du Collège selon ses attentes. Il a aussi affirmé que le Collège avait, d'une part, manqué de discrétion et, d'autre part, n'avait rien fait pour éviter la fuite d'informations privées et confidentielles très préjudiciables à la bonne réputation de l'appelant et pouvant avoir des effets dévastateurs lors de la recherche d'un nouvel emploi.
+[12] Maître Jasmin Marcotte a également fait état que le montant de 39 707 $ ne pouvait en aucune façon constituer une allocation de retraite, puisque cela aurait été contraire aux règlements auxquels le Collège était assujetti.
+[13] S'il s'était agi d'une allocation de retraite comme l'indiquait le relevé T4A, il aurait fallu conclure que le Collège avait outrepassé ses pouvoirs et ses règlements en payant à l'appelant une indemnité supérieure à celle à laquelle il avait droit en vertu de ces règlements.
+[14] Pourquoi les parties, lors de la transaction, avaient-elles cru bon de formuler le texte de la façon dont il l'a été, alors qu'il aurait été si simple de l'écrire en conformité avec les prétentions de l'appelant?
+[15] Pour expliquer le libellé ou le pourquoi du vocabulaire utilisé lors de la rédaction du paragraphe 3 c) de la Convention, l'avocat, qui représentait les intérêts de l'appelant lors des négociations, spécialiste en droit du travail, a indiqué que le texte avait été le résultat de discussions et qu'il s'agissait là de la seule façon pour le président du conseil de faire approuver l'entente par le conseil d'administration, en ajoutant que la mention « dommages-intérêts » aurait sans doute fait avorter l'entente souhaitée par les deux parties, représentées par avocat.
+[16] Le procureur de l'appelant a indiqué que le responsable du Collège avait exprimé l'impossibilité et l'incapacité de faire accepter la convention si cette dernière avait prévu le paiement d'un montant à titre de dommages-intérêts.
+[17] De son côté, l'intimée a fait entendre madame Céline Fortin, secrétaire générale du Collège. Madame Fortin a donné une tout autre version des faits; elle a également décrit le contexte et les circonstances relatives au procès-verbal qu'elle avait rédigé lors de l'assemblée où il fut question du dossier de l'appelant.
+[18] Contrairement aux prétentions de l'appelant voulant qu'il y ait eu une large diffusion, elle a expliqué que le projet de procès-verbal n'avait pas fait l'objet de diffusion et, qu'au contraire, il avait été traité d'une façon très discrète et privée. Bien plus, elle a indiqué que des mesures particulières avaient été prises afin que le dossier de l'appelant demeure hautement confidentiel.
+[19] Elle a également expliqué diverses contraintes prévues par les règlements; fait très étonnant, elle a fait référence aux mêmes dispositions réglementaires que l'appelant pour justifier et expliquer la nature du montant litigieux.
+[20] Ainsi, à partir des mêmes dispositions réglementaires que l'appelant avait lui-même utilisées comme fondement de ses prétentions lors de la fin du contrat de travail, elle a expliqué que l'appelant, au moment de son embauche au Collège, avait un poste semblable dans une autre institution; en conséquence, les années passées à cet endroit lui donnaient des droits pour son emploi au Collège. Il s'agissait donc d'années de service qui devaient être prises en considération lors du calcul de ses avantages à la suite de la rupture du contrat de travail. Cela, en soi, n'est pas étonnant, puisque l'enseignement est régi par les mêmes lois et règlements.
+[21] À partir de cette explication, elle a ainsi décrit la méthode suivie pour arriver à la somme de 39 707 $. Elle a essentiellement consisté à verser à l'appelant les sommes auxquelles il avait droit dans les circonstances, conformément aux règlements auxquels était assujetti le Collège, l'ancien employeur de l'appelant.
+[22] Madame Fortin a reconnu avoir reçu des demandes de l'appelant afin que des corrections soient apportées au feuillet T4A, ajoutant que son employeur avait toujours refusée d'y accéder, s'en remettant au texte de la convention conforme à la volonté des parties au moment de la signature.
+[23] Quelle est la nature de la somme de 39 707 $ prévue au paragraphe 3 c) de la convention?
+[24] Dans un premier temps, il m'apparaît non superflu d'affirmer que le texte préparé par de très compétents conseillers juridiques est très clair et ne prête à aucune équivoque.
+[25] Ce seul constat, quant à moi, est largement suffisant pour disposer de l'appel. Une cotisation doit être établie à partir des faits et des documents existants, particulièrement lorsque l'intention des parties y est très clairement exprimée.
+[26] Dois-je rappeler que la clause rédigée est claire et n'est devenue litigieuse que pour l'appelant? La convention a été rédigée et approuvée par des conseillers juridiques compétents.
+[27] Établir une cotisation à partir de ce que les parties ont ou n'ont pas exprimé, mais auraient voulu, aurait pour effet de rendre notre régime fiscal tout à fait incohérent.
+[28] L'appelant soutient énergiquement qu'il s'agit là d'une indemnité qui lui a été payée essentiellement en compensation de dommages-intérêts qu'il a subis. Dans un premier temps, je rappelle que le fardeau de la preuve lui incombait.
+[29] À partir de cette réalité, il aurait été intéressant, voire même important, qu'un représentant ou des représentants de l'autre partie viennent donner leurs versions.
+[30] Pour justifier son interprétation, l'appelant a déposé deux articles de journaux, un procès-verbal et une mise en demeure. Sans nier que le conflit a de toute évidence affecté profondément l'appelant et que les relations sont devenues extrêmement tendues, le contenu des articles de journaux n'a pas fait l'objet de procédures particulières et il n'appartient pas à ce tribunal de décider si ces articles justifient ou non le paiement de dommages-intérêts.
+[31] Quant au procès-verbal, les explications fournies par madame Fortin et la remise en contexte de tout le processus discréditent, tout au moins en partie, les cinglants griefs de l'appelant sur cette question notamment sur le fait qu'il y aurait eu une très large diffusion des documents en question.
+[32] Ce sont là les deux fondements qui auraient justifié, selon l'appelant, son droit à des dommages-intérêts de nature punitive.
+[33] Il a également fait valoir qu'il ne pouvait pas recevoir le montant de 39 707 $ à titre d'allocation de retraite, étant donné que le Collège aurait alors outrepassé ses pouvoirs en accordant une compensation supérieure à celle prévue au règlement, étant donné la durée de son travail pour le Collège.
+[34] Dans un premier temps, les prétentions et les arguments de l'appelant découlent d'interprétations; il a fait état d'une mise en demeure dont l'objectif était la non-diffusion du procès-verbal et il a fait valoir qu'il avait tenté de faire modifier le feuillet T4A émis par le Collège, ce qui lui avait été refusé par le Collège.
+[35] Madame Fortin, secrétaire générale du Collège, a expliqué le déroulement des faits d'une façon fort différente. Elle a repris chacun des points soulevés par l'appelant.
+[36] Elle a tout d'abord expliqué que les médias qui avaient fait état du problème étaient des journaux locaux avec un tirage très limité. Elle a ensuite expliqué la procédure à suivre lors de la rédaction du projet du procès-verbal et de sa version définitive, seule véritable version; elle a également fait état de la procédure relative au caractère confidentiel du dossier personnel de l'appelant. Elle a clairement décrit la procédure suivie lors des délibérations et a établi ainsi un évident souci de protéger le caractère confidentiel en respectant les règles de l'art.
+[37] Quant à la nature du montant, elle a expliqué que le texte de la convention était tout à fait conforme à la volonté des parties et qu'il s'agissait de rien de plus ni de moins que ce que prévoyait le règlement.
+[38] Elle a indiqué que le Collège devait tenir compte, pour établir les indemnités dues à l'appelant, non pas de la durée du travail au Collège, mais de la durée du travail dans la même fonction; comme l'appelant avait le même poste à un autre collège avant son arrivée, cela faisait en sorte qu'il avait le droit à l'indemnité maximale. Cela réfute ainsi la prétention de l'appelant.
+[39] En se fondant sur cette obligation, elle a expliqué d'une manière fort détaillée et surtout très logique pourquoi le montant avait été établi à 39 707 $; elle a d'abord mentionné qu'il s'agissait là de montants que l'appelant pouvait transférer dans son REÉR (Régime enregistré d'épargnes-retraite) et que seul l'appelant connaissait ce détail.
+[40] Le montant calculé tient compte du fait que l'appelant avait droit à une indemnité selon la durée du travail effectué tant pour le Collège que pour les autres collèges précédents et non pas selon la durée du travail au Collège, comme le prétend l'appelant.
+[41] La version présentée par madame Fortin a l'avantage d'être simple, cohérente et sans faille. Le montant de 39 707 $ a été versé à titre d'allocation de retraite et correspondait aux informations que l'appelant avait lui-même données quant aux montants qu'il pouvait verser son REÉR.
+[42] Une cotisation résulte de ce qui a été fait et non pas de ce que les parties auraient voulu faire. En matière fiscale, un contribuable peut organiser ses affaires comme bon lui semble dans le respect des lois applicables de manière à réduire son fardeau fiscal, mais il ne peut pas changer d'idée après coup lorsqu'une décision ou une opération produit des résultats fiscaux ni prévus, ni souhaités.
+[43] En l'espèce, le texte ayant servi de fondement à la cotisation est très clair. Il ne porte aucunement à confusion. L'interprétation qu'en fait l'appelant aurait pour effet de modifier totalement la portée du texte très clair, ce qui est irrecevable.
+[44] D'ailleurs, si le texte n'avait pas eu la clarté souhaitée et qu'il eût fallu tenir compte de certains éléments pour en arriver à lui donner un sens, j'aurais de toute évidence retenu les explications de madame Fortin, plus vraisemblables, plus cohérentes et plus crédibles.
+[45] Dans les circonstances et pour ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de février 2006
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI84
+N º DU DOSSIER DE LA COUR : 2005-139(IT)I
+INTITULÉ DE LA CAUSE : Vincent Guay et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 19 janvier 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 24 février 2006
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

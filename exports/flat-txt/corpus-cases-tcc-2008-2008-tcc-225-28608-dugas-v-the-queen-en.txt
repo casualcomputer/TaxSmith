@@ -1,0 +1,114 @@
+Title: Dugas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28608/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-225-28608-dugas-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-18
+
+# Dugas v. The Queen
+
+- Citation: 2008 TCC 225
+- Decision date: 2008-04-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1108, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dugas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-18
+Neutral citation
+2008 TCC 225
+File numbers
+98-3622(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 98-3622(IT)I
+BETWEEN :
+ANDRÉ DUGAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 8, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Philippe Dupuis
+Simon Petit
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1986 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of April 2008.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 23rd day of October 2008.
+Bella Lewkowicz, Translator
+Citation: 2008TCC225
+Date: 20080418
+Docket: 98-3622(IT)I
+BETWEEN:
+ANDRÉ DUGAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] At the beginning of the hearing, the Appellant explained the circumstances and reasons for his investment in “La société en commandite de recherche et développement de logiciels utilitaires opérant sous PC-DOS”.
+[2] A friend, Michel Picotte, a computer technician, involved with a corporation in the Zuniq group, convinced him to contribute to this financial plan, which had the self-professed goal of scientific research and experimental development to create a software prototype.
+[3] The Appellant confirmed his contribution to the research. Over a couple of Sunday afternoons (perhaps two), when the two families saw each other, the Appellant and Mr. Picotte allegedly conducted some networking trials in Mr. Picotte’s basement. The Appellant admitted that his field of expertise was not in software but in hardware development.
+[4] Richard Bernier, the auditor for this file, then testified. He produced documents related to the limited partnership. The research contract had been awarded to Zuniq Corporation, which had then sub-contracted it to Data Age Corp. The Appellant was never an employee of either of these companies.
+[5] Mr. Bernier explained, with the help of related documents, that only 40% of the funds were used for research. The date of the Appellant’s economic interest is allegedly December 22, 1986. The redemption or remittance of 60% of the interest apparently occurred in January of 1987.
+[6] The auditor asked two scientific advisors to evaluate the research project based on the criteria in section 2900 of the Income Tax Regulations. Both concluded that the research project did not meet the criteria in any way. The investment tax credit was therefore disallowed.
+[7] The investments, however, were treated as business expenses and the deduction was applied against the Appellant’s income.
+[8] The Appellant then informed the Court that he was not contesting Mr. Bernier’s comments regarding the redemption of shares or other events as described in the Reply to the Notice of Appeal and repeatedly mentioned in the various decisions rendered on the same subject. However, he was always of the opinion that the research was valid.
+[9] The Court then asked him about the nature of the evidence he would present in this regard. He did not call an expert in software development, nor did he provide an expert’s report. None of the scientists listed in the limited partnership documents had been called to testify. The Respondent had produced an expert’s report and was to have the expert witness testify. The Appellant admitted he was not a software development expert. He had not participated in the research as he was not an employee of the research company used.
+[10] The Court also reminded the Appellant that in an appeal from an assessment, the burden of proof in opposing the presumptions of fact made by the Minister of National Revenue (“Minister”) lies with the taxpayer.
+[11] It is also interesting to note a judgment of this Court rendered October 26, 2005, regarding the same research project. The appeal was dismissed. The decision in question is Boudreault v. Canada, [2005] T.C.J. No. 518 (Q.L.), found at Tab 2 of the Book of Authorities given to the Appellant during the hearing by counsel for the Respondent.
+[12] For the purpose of not wasting his own time, the Court’s time and the time of all those involved in the judicial process, the Appellant decided to drop his appeal and withdraw.
+[13] He reiterated, however, that he found that his hearing in 2008, 22 years after the year in question, 1986, was too long a period. He also raised the question of interest.
+[14] The Notice of Reassessment is dated December 10, 1991. (There was a waiver of the three-year time limit signed by the Appellant April 10, 1990, and received by the Minister April 23, 1990.) The Notice of Objection was served on the Minister February 25, 1992. The Notice of Appeal was filed with this Court October 30, 1998, before the Minister confirmed the assessment or made another assessment.
+[15] Regarding the issue of excessive delay, first, reference must be made to section 169 of the Income Tax Act (“Act”), which states that a taxpayer may appeal to our Court after 90 days following service of the Notice of Objection have elapsed. Second, it must be noted that the Court record does not show any request by the Appellant for a hearing to be set down after he filed his Notice of Appeal.
+[16] The issue of excessive delay was analyzed in some similar so-called research project decisions: Boudreault, supra; Lassonde v. Her Majesty the Queen, 2003TCC715, [2003] T.J.C. No. 560 (QL); 2005FCA323, [2005] F.C.A. No. 1682 (QL); and Moledina v. Her Majesty the Queen, 2007TCC354, [2007] T.J.C. No. 286 (QL). According to all these decisions, the Appellant had the legal power necessary to obtain a judicial decision within a reasonable time, and if there was any delay, it was caused by negotiations or accepted postponements of appeal hearings — circumstances that had been accepted by the Appellant or his counsel at the time.
+[17] With regard to interest, the Court does not have the discretionary authority to cancel it when it was imposed pursuant to the provisions of the Act. However, pursuant to subsection 220(3.1) of the Act, the Minister has the power to waive interest. Information Circular 98-1R2 contains information in this regard. On the specific topic of interest, see this Court’s decision concerning interest in Moledina, supra.
+[18] For all these reasons and due to the abandonment of the appeal by the Appellant, the appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of April 2008.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 23rd day of October 2008.
+Bella Lewkowicz, Translator
+CITATION: 2008TCC225
+COURT FILE NO.: 98-3622(IT)I
+STYLE OF CAUSE: ANDRÉ DUGAS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 8, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: April 18, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Philippe Dupuis
+Simon Petit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

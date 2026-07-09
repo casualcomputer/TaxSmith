@@ -1,0 +1,117 @@
+Title: Toupin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31012/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-381-31012-toupin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-11-06
+
+# Toupin c. La Reine
+
+- Citation: 2012 CCI 381
+- Decision date: 2012-11-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4894, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Toupin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-06
+Référence neutre
+2012 CCI 381
+Numéro de dossier
+2011-3459(GST)I
+Juges et Officiers taxateurs
+Jean-Louis Batiot
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-3459(GST)I
+ENTRE :
+CHARLES TOUPIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 13 septembre 2012, à Montréal (Québec).
+Devant : L'honorable juge suppléant Jean-Louis Batiot
+Comparutions :
+Avocat de l'appelant :
+Me François Barette
+Avocat de l'intimée :
+Me Philippe Gilliard
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 15 décembre 2010, sans numéro distinctif, pour la période du 1er avril 2010 au 30 juin 2010, est rejeté.
+Signé à Montréal, Québec, ce 6e jour de novembre 2012.
+« Jean-Louis Batiot »
+Juge suppléant Batiot
+Référence : 2012 CCI 381
+Date : 20121106
+Dossier : 2011-3459(GST)I
+ENTRE :
+CHARLES TOUPIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge suppléant Batiot
+[1] M. Charles Toupin a interjeté appel le 3 novembre 2011, d’une cotisation de taxe sur les produits et services (« TPS ») émise à son égard le 15 décembre 2010 pour la période du 1er avril au 30 juin 2010 en vertu de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15 (ci-après « LTA »). En question est le refus de la déduction d’un certain crédit de taxe sur les intrants (« CTI ») quant à sa déclaration trimestrielle susmentionnée.
+[2] Ce CTI en question, de 3 424,44 $ (hors d’un total de 16 412,00 $ (6 681,27 $ et 9 730,73 $)) est la TPS imposée sur deux factures pour les services professionnels que son avocat a rendus, à lui et à son père, jusqu’au 28 février 2010 et 31 mars 2010 respectivement, donc avant la date de la période en question.
+[3] L’appelant soutient qu’il est justifié, en tant que registrant sous cette loi, de défalquer cette somme contre toute autre somme qu’il doit remettre : ces honoraires n’étaient pas exclusivement pour obtenir un redressement de la situation quant à ses actions et celles de son père, mais il était encouragé par la nouvelle firme d’avocat qui lui envoyait de nombreux mandats professionnels, sur lesquels il percevait la TPS, et donc lui permettait de pratiquer son métier de notaire et de financer cette poursuite.
+[4] L’intimée soutient que ces honoraires professionnels, pour poursuivre une action devant la Cour Supérieure du Québec et obtenir un redressement civil, est une dépense personnelle que l’appelant a encourue en tant qu’investisseur, et non pas « dans le cadre de ses activités commerciales » (LTA, alinéa 169(1)c)) en tant que notaire, cette TPS ne peut pas être réclamée comme CTI.
+[5] Une explication est nécessaire.
+[6] Après avoir été avocat, ensuite étudiant, l’appelant est devenu en 2005 notaire de son état, pratiquant à son compte. Il a profité des relations qu’il s’était créées auparavant en tant qu’avocat à la firme Melouche Séguin, (ensuite Melouche Tourpin) pour obtenir des mandats de la nouvelle firme Jarry Bazinet, deux avocats qui avaient quitté la même firme quelque temps après lui.
+[7] L’appelant est, et était alors, un investisseur averti. Avec son père, il a participé particulièrement à l’achat d’actions spéculatives. Des différends d’affaires entre eux comme actionnaires, d’une part, et son ancien employeur, Me Seguin, à Melouche Séguin, d’autre part, ont entraîné un litige contre ce dernier. La firme d’avocats Davies Ward Phillips & Vineberg, agissant pour l’appelant et son père, a obtenu un jugement de la Cour Supérieure du Québec en leur faveur (maintenant en appel).
+[8] Il appert de ce jugement de l’honorable Louis Lacoursière J.C.S. et porté en preuve par l’appelant, que ce dernier, son père (deux des cinq investisseurs originaux) et une intervenante revendiquent 800 000 actions de Me Seguin, le défendeur, et détenues par un mis-en-cause, qui alléguait avoir exercé une option d’achat contre le père et le fils, qui, de toute façon n’étaient que des prête-noms pour le défendeur. Ce long jugement décrit les faits complexes, et donne droit à l’appelant et à son père.
+[9] Il faut souligner que le père de l’appelant était ami du défendeur et son co‑investisseur depuis 1997. L’appelant se joint à eux plus tard cette même année, et investit 20 000 $ dans la Junior Capital Pool Company Wild Grizzly, inscrite à la Bourse de l’Alberta. Chaque investisseur reçoit 400 000 actions.
+[10] Des questions se posent plus tard quant à la date de signature de la convention d’options, et de l’exercice de telles options, dont le litige en question, les honoraires juridiques, et la TPS qu’ils entraînent. L’appelant, M. Toupin, en réclame une partie comme CTI, contre la TPS qu’il devait remettre à Revenu Québec, reçue de ses propres clients. Une partie de cette clientèle lui était référée par la firme Jarry Bazinet.
+[11] M. Toupin maintient que ses relations d’affaires avec la firme Jarry Bazinet sont liées, non pas complètement, mais d’une façon importante, au succès de son étude, et qu’un élément de cette liaison était l’acheminement de son litige contre Me Seguin, et l’intérêt que Jarry Bazinet y apportait.
+[12] Me François Barette, pour l’appelant, dans sa plaidoirie claire et précise, soutient :
+1. L’alinéa 169.(1)c) permet un crédit de taxe sur les intrants par « le pourcentage qui représente la mesure dans laquelle la personne a acquis … le service … pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales ».
+2. Le paragraphe 169(1) de la Loi sur la taxe d’accise, ne contient pas une condition d’usage exclusif : Midland Hutterian Brethren c. Canada, 2000 CanLII 16725 (CAF), au para. 25 (ci-après « Midland »). Cette cause décidait de la déductibilité de la TPS sur l’achat de tissu pour fabriquer des vêtements de travail.
+3. Le test imposé par cet article, pour définir si oui ou non un CTI peut être utilisé, est plus libéral que celui de la déductibilité dans le cas de la Loi de l’impôt sur le revenu : Hleck, Kanuka, Thuringer v. Her Majesty the Queen, 94 DTC 1968, à la page 7 (ci-après « Hleck »). L’achat, donc la TPS, d’un billet d’avion pour la femme d’un avocat qui assistait à une réunion d’affaire est une dépense qui fait partie de l’activité commerciale de la firme.
+4. Il n’est pas nécessaire que l’objet de l’activité commerciale soit exclusivement « de réaliser des fournitures taxables pour être admissible aux CTIs » : BJ Services Co. Canada v. R., 2002 CarswellNat 5064, [2002] G.S.T.C. 124, 2003 G.T.C. 513 (Cour canadienne de l’impôt (procédure générale)), (ci-après « BJ Services »).
+[13] Le juge Malone, dans Midland, considérait si oui on non la TPS payée sur le tissu des vêtements de travail pour tous les membres de cette communauté religieuse pouvait être défalquée en tant que CTI. La pratique était d’acheter deux qualités de tissu, la meilleure pour les vêtements que tout membre portait aux services religieux, l’autre, plus durable, pour tous les jours. Les membres – un pourcentage réduit de la communauté - qui participaient au travail journalier de la ferme les portaient aussi; donc la réclamation de 50% de la TPS « payée sur le tissu pour le travail » (para. 6).
+[14] La communauté fournissait à tous les membres « le logement, l’éducation, la nourriture et les vêtements ». En échange, les membres n’étaient pas compensés pour leur travail (para. 3).
+[15] Le juge Malone conclut, sur la preuve présentée que : « [une] fois qu’un article est jugé avoir été acquis et utilisé dans le cadre des activités commerciales d’un inscrit à la TPS, et que cet article contribue directement ou indirectement à la production d’articles ou à la fourniture de services imposables, il y a alors un droit au CTI en vertu de la formule énoncée au paragraphe 169(1) » (para. 25). Il adopte précédemment la provision que « les fournitures doivent contribuer à la production d’articles ou à la fourniture de services qui sont imposables » (para. 24).
+[16] En l’espèce, les honoraires que l’appelant perçoit et paye sont imposables. La question demeure : est-ce que ceux qu’il paye à sa firme d’avocats le sont dans le cadre de ses activités commerciales, selon l’alinéa 169(1)c)?
+[17] Le juge Bell, dans Hleck, décidait que la TPS payée sur un billet d’avion de la femme d’un partenaire d’une firme d’avocats pouvait être utilisée comme CTI, puisque le test était moins onéreux que celui que l’on applique sous la Loi de l’impôt sur le revenu, étant donné les obligations professionnelles de cet avocat à assister à certaines conférences et la nécessité évidente que sa femme l’accompagne pour des raisons sociales et professionnelles : « En l'espèce, malgré une part d'agrément personnel, la dépense a été faite et le billet d'avion a été acquis et utilisé dans le cadre des activités commerciales de l'appelant ».[1]
+[18] En l’espèce, l’appelant paye les honoraires à son propre avocat pour poursuivre, en tant qu’investisseur auquel on a fait tort, un litige le 25 septembre 2003 — l’origine précède la création de son étude de notaires en 2005, au sujet d’une revendication d’actions qui aurait dû avoir lieu auparavant. Il veut les déduire de la TPS qu’il reçoit depuis de ses clients en tant que notaire. Son litige n’est pas une dépense « dans le cadre de ses activités commerciales » de notaire.
+[19] Le juge Miller, dans l’arrêt BJ Services, conclue que la « législation, la jurisprudence et les politiques sous-jacentes à la TPS n’appuient pas la position de l’intimée à l’effet que le contribuable ne peut se prévaloir de CTI que s’il peut démontrer que l’objet des intrants est lié à la réalisation de fournitures taxables » (para. 77).
+[20] Dans cette affaire, l’appelante, une compagnie agissant dans le domaine de services pétroliers, face à une prise de contrôle hostile, engage RBC Dominion Valeurs Mobilières Inc., Simmons & Company International, du Texas et l’étude juridique Blake Cassels & Graydon pour l’aviser. Suivant leurs conseils, l’appelante obtient une autre offre d’un « chevalier blanc ». Le premier acheteur surpasse cette seconde offre, et achète donc toutes les actions mais à un prix plus élevé que lors de l’offre initiale. En question dans cet appel était la TPS importante payée par l’appelante à RBC et Blake de 914 765 $ et 15 750 $ respectivement (Simmons n’était pas inscrite au régime TPS).
+[21] Puisque l’objet de ces dépenses était de protéger les intérêts des actionnaires, au pire l’appelante ne pourrait faire écouler ces dépenses de TPS qu’envers ses propres clients, et probablement pas à ses actionnaires qui de fait bénéficiaient de ces dépenses.
+[22] Le juge Miller, au paragraphe 67, décide qu’« [u]ne société qui réalise une fourniture qui n’est ni exonérée ni taxable peut être considérée comme la réalisant dans le cadre d’une activité commerciale, à condition que la fourniture ne soit pas purement d’une nature non commerciale ou personnelle ».
+[23] En l’espèce, l’appelant souligne dans son témoignage que le cabinet Jarry Bazinet s’intéresse à la poursuite qu’il a entamée contre leur ancien collègue commun et que cette étude lui envoie de 10 000 $ à 30 000 $ de travail notarial par `n. Mes Jarry et Bazinet n’ont pas témoigné pour confirmer cet arrangement.
+[24] J’accepte qu’il existe de bons rapports entre l’appelant et Jarry Bazinet, des relations d’affaires qui semblent être mutuellement profitables, en tant que cabinet d’avocats et étude de notaires. Mais cela n’inclut pas comme objet celui d’investisseur, que l’appelant a poursuivi indépendamment et ce, avant de devenir notaire.
+[25] L’appelant paye des honoraires juridiques pour poursuivre et protéger ses intérêts en tant qu’investisseur; ces dépenses ne sont pas faites dans « le cadre de ses activités commerciales » de notariat ; donc elles sont personnelles. L’appel est rejeté.
+Signé à Montréal, Québec, ce 6e jour de novembre 2012.
+« Jean-Louis Batiot »
+Juge suppléant Batiot
+RÉFÉRENCE : 2012 CCI 381
+Nº DU DOSSIER DE LA COUR : 2011-3459(GST)I
+INTITULÉ DE LA CAUSE : CHARLES TOUPIN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 13 septembre 2012
+MOTIFS DU JUGEMENT PAR : L'hon. juge suppléant Jean‑Louis Batiot
+DATE DU JUGEMENT : Le 6 novembre 2012
+COMPARUTIONS :
+Avocat de l'appelant :
+Me François Barette
+Avocat de l'intimée :
+Me Philippe Gilliard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me François Barette
+Cabinet : Fasken Martineau DuMoulin
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1994] A.C.I. no 498, para. 30.

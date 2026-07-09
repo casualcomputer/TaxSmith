@@ -1,0 +1,163 @@
+---
+title: "Braun v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30621/index.do"
+last_modified: "2011-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 536"
+citation2: ""
+neutral_citation: "2011 TCC 536"
+decision_date: "2011-10-31"
+language: "en"
+item_id: "30621"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7115
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:10:39.979000+00:00"
+cases_cited_count: 6
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "71a008d0dd7e5022781848f56bac89cdcc20ee7333f69c6049a643497771c4c7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Braun v. The Queen
+
+- Citation: 2011 TCC 536
+- Decision date: 2011-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7115, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Braun v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-31
+Neutral citation
+2011 TCC 536
+File numbers
+2009-1165(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2011 TCC 536
+Date: 20111123
+Docket: 2009-1329(IT)G
+2009-1165(IT)G
+2009-1166(IT)G
+BETWEEN:
+JACK ST. ARNAUD,
+HARRY BRAUN,
+ALBERT PATENAUDE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Counsel for the Appellants: Jeff Pniowsky
+Counsel for the Respondent: Karen Janke-Curliss, Anne Jinnouchi
+and Ainslie Schroeder
+REASONS FOR JUDGMENT
+(Delivered orally from the bench
+on November 4, 2011, in Winnipeg, Manitoba.)
+Bowie J.
+[1] Mr. Braun and Mr. Patenaude appeal from income tax reassessments for the 2001 taxation year. Mr. St. Arnaud appeals from a reassessment for the 2002 year. As the facts in the three cases are essentially the same, and the legal issues also are identical, the appeals were heard together on common evidence by agreement of the parties.
+[2] In the early stages of their investigation, and at the time of reassessing these taxpayers, the officials of the Canada Revenue Agency believed these to be cases like the many reported cases in which annuitants under RRSPs and RRIFs were attempting to obtain some or all of the funds from their registered plans on a tax free basis, whether through the medium of loans or some other device. By the time the appeals came to trial, however, the respondent was satisfied that none of these appellants were engaged in any such maneuvers, which have come to be known colloquially as RRSP strips.
+[3] As a result, there is now no disagreement as to the material facts of these cases. Put in the starkest of terms, these three individuals had savings in retirement plans; in the case of Mr. St. Arnaud RRSPs, in the case of Mr. Patenaude a locked‑in retirement account, and in the case of Mr. Braun a registered retirement income fund or RRIF, and a group of unscrupulous people defrauded them of their savings by a scheme that worked this way. The appellants all were somewhat disappointed with the poor returns that they were receiving from the investments that made up their registered funds in the somewhat stagnant economic environment of the early part of this century. They were all approached by someone who referred them to someone else, who it was said could assist them to improve those returns. Jake Cameron showed them an invention that was sure to be a great commercial success. It was a machine that could produce concrete building blocks in interlocking shapes and that would revolutionize construction all over the world. This was Sonnum Capital Leasing Corporation.
+[4] Another company, Cuatro Corporation, was to make panel boards from agricultural waste. It was said that it would make substantial profits while building much needed housing and recycling agriculture crop residue, all at the same time. An IPO was said to be imminent, following which the investors would make substantial profits and/or gains in the value of their shares. In each case the appellant was persuaded to invest, and that to do so he would have to transfer his registered funds to a new registered account to be opened by him, on a self‑directed basis, with Olympia Trust.
+[5] Olympia Trust, Sonnum and Cuatro were the vehicles used by the fraudsters to perpetrate their fraud. On opening these self‑directed accounts, the appellants were to direct Olympia to purchase shares of Sonnum in the case of Mr. St. Arnaud or Cuatro in the cases of Mr. Patenaude and Mr. Braun. The appellants were provided with comfort letters from a Mr. Mohammed Khatri, CA, who assured them that these proposed investments were qualified investments for purposes of the Income Tax Act,[1] and at least in the cases of Mr. Patenaude and Mr. Braun, to assure them that the shares were worth the price that they were to pay for them. The appellants did, in fact, enter into the transactions as proposed by Mr. Cameron and his colleagues.
+[6] Mr. St. Arnaud had RRSP funds at three or four different financial institutions. He signed the authorizations prepared for him to open a new self-directed RRSP account with Olympia Trust, and the directions to Olympia to purchase, with those funds to be transferred from the other financial institutions, 42 shares of Sonnum Capital Leasing Corp. at a price of $1,000 per share. He also purchased another 125 shares on a non‑registered basis.
+[7] Mr. Patenaude had a locked‑in retirement account which was his only source of income. He too opened a self‑directed RRSP with Olympia Trust and transferred the $78,700 balance from his locked‑in retirement account to Olympia, with instructions to purchase for his RRSP 31,480 shares of Cuatro Corp. for $2.50 per share, which Olympia duly did. There was some evidence of Mr. Patenaude having received some $7,000 from Jake Cameron between September 2002 and October 2005. Mr. Patenaude testified that these were amounts that Mr. Cameron loaned to him while waiting for the Cuatro IPO to take place, and that they were not part of any prearranged strip transaction. I accept his evidence on this point. Mr. Patenaude said his investment in Cuatro was motivated entirely by the prospect of an IPO, followed by substantial growth in the value of his shares, and I believe that that is, in fact, the case.
+[8] Mr. Braun apparently had two RRIF accounts at the CIBC in Winkler, Manitoba, with combined balances slightly in excess of $10,000. It was a person by the name of Troy Reeves who made the initial contact with him, and he too was persuaded to move his entire RRIF balance to Olympia Trust into a new self‑directed account, and to direct the purchase for it of 4,000 shares of Cuatro at $2.50 per share. In 2002, 2003 and 2004 Olympia Trust paid out to him his required RRIF withdrawals in the form of unregistered shares of Cuatro, together with a few dollars paid in cash to make up the statutory minimum payment per year.
+[9] These share purchases took place in July and August of 2001 in the cases of Mr. Patenaude and Mr. Braun, and in January 2002 in the case of Mr. St. Arnaud.
+[10] It is agreed by all parties that the shares of Sonnum Capital Leasing Corporation, Sonnum Capital Corporation and Cuatro Corporation had no value at the time they were purchased, or at any other material time, and opinion evidence to that effect was admitted on consent of the appellants. It is also agreed that the shares were not qualified investments for the purposes of the Income Tax Act.
+[11] Mr. St. Arnaud learned at the beginning of 2006 that his Sonnum shares were worthless. He had been receiving statements at six‑month intervals from Olympia Trust since June 2002, and these consistently showed his account as holding 42 Sonnum shares with a book value and a market value of $1,000 each for a total of $42,000. The December 31, 2005 statement for the first time showed 42 shares with a book value of $42,000, and a market value of zero. He immediately demanded to know why the shares were now shown to have a market value of zero, and either Reg Pincombe, who had introduced him initially to Jake Cameron, or Jake Cameron himself told him that one Murray Bond, who was a principal of Sonnum, had absconded with all the funds. In the denouement he realized that the entire operation had been a fraud, and that his savings had been stolen.
+[12] Mr. Patenaude and Mr. Braun were less explicit in their evidence, but they seem to have reached the same conclusion at about the same time as Mr. St. Arnaud.
+[13] The Manitoba Securities Commission prosecuted Jake Cameron. He was convicted of an offence under the Securities Act, and the convicting court made restitution orders in favour of Mr. Patenaude and Mr. Braun against him. To date they have recovered nothing pursuant to those orders. It is not clear whether a similar order was made in Alberta in favour of Mr. St. Arnaud, but certainly he too has recovered nothing from this fraud to the present date. As I have said, the Minister of National Revenue initially took the view that these appellants were complicit in an RRSP strip scheme. By the time of the hearing, the respondent had concluded that they were innocent victims. She argues, however, that the consideration paid by the trustees of their registered funds for the shares of Sonnum and Cuatro must be added to their income for the year in which the purchases were made, pursuant to paragraph 146(9)(b) of the Income Tax Act in the case of the RRSPs, and paragraph 146.3(4)(b) in the case of Mr. Braun's RRIF. Those provisions read as follows:
+146(9) Where in a taxation year a trust governed by a registered retirement savings plan
+(a) ...
+(b) acquires property for a consideration greater than the fair market value of the property at the time of the acquisition,
+the difference between the fair market value and the consideration, if any, shall be included in computing the income for the taxation year of the annuitant under the plan.
+146.3(4) Where at any time in a taxation year a trust governed by a registered retirement income fund
+(a) …
+(b) acquires property for a consideration greater than the fair market value of the property at the time of the acquisition,
+2 times the difference between that fair market value and the consideration, if any, shall be included in computing the income for the taxation year of the taxpayer who is the annuitant under the fund at that time.
+[14] The wording of these provisions is virtually identical except that one applies to RRSPs and one to RRIFs, and except that in the case of the RRIF, the inclusion into income is two times the difference between the consideration and the fair market value. It is far from clear why the inclusion is double in the case of RRIFs. Neither party suggested any rationale for the distinction, and neither party suggested that the two provisions should be applied in any different way on that account. I see no reason to distinguish between the two in their application.
+[15] For the sake of simplicity, I shall refer to the words of paragraph 146(9)(b) throughout, but my conclusion must apply in the same way to both paragraphs and to all three appellants.
+[16] The Minister's position is simplicity itself. She says that here we have property, the shares, acquired for consideration, the price paid for those shares, that is greater than the fair market value of the shares at the time of acquisition, which is zero, and so the difference between zero and the price paid for the shares shall be included in computing the income for the taxation year of the annuitant.
+[17] She notes that in Shell Canada Ltd. v. Canada,[2] (Revenue Agency) and again in A.Y.S.A. Amateur Youth Soccer Association v. Canada,[3] the Supreme Court has cautioned against attributing an unexpressed Parliamentary intention to clear words in the Income Tax Act. Certainly paragraph 146(9)(b) is not by its terms limited in its application to strip situations, and the Court should give effect to its plain words.
+[18] Mr. Pniowsky, for the appellants, argues that it is implicit in the wording "acquires property for a consideration greater than full market value" that subsection 146(9) can only apply where the trust has knowingly and deliberately paid more than fair market value for the property in question. He supports this position by arguing that it produces an absurd result to read it otherwise, because it would permit the Minister to second guess the efficacy of investment decisions taken by annuitants under self‑directed plans.
+[19] He notes too, that all the decided cases dealing with these provisions are in the context of strip schemes of one kind or another, where the annuitant sought to gain some benefit on a tax free basis from the plan, whether by way of a loan secured by the registered funds or some other indirect payment, and he submits that subsection 146(9) has no purpose other than to prevent abusive transactions whereby annuitants cause the trust to overpay for an asset as part of a scheme to remove assets from the trust for their own benefit; in other words, a strip. He notes too that subsection 146(9) should be limited to countering avoidance transactions because there is no decided case, and no known case of an assessment under it, in a non‑strip context.
+[20] Finally, Mr. Pniowsky argues that to apply, subsection 146(9) to the present fact situation would be contrary to the scheme and intent of the Act, because it will discourage annuitants under self‑directed plans from investing in unlisted securities where, in the absence of an active market, there will be uncertainty and diverse opinions as to market value, presumably leading to some chilling effect in terms of decision making by annuitants in respect of securities that have no active market.
+[21] In my view, the appropriate starting point for consideration of subsection 146(9) of the Act is the decision of the Supreme Court of Canada in Bell ExpressVu Limited Partnership v. Rex.[4] At paragraphs 26 to 30 of that decision Justice Iacobucci, for a unanimous court, had the following to say about principles of statutory interpretation:
+26 In Elmer Driedger’s definitive formulation, found at p. 87 of his Construction of Statutes (2nd ed. 1983):
+Today, there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+Driedger’s modern approach has been repeatedly cited by this Court as the preferred approach to statutory interpretation across a wide range of interpretive settings: see, for example, Stubart Investments Ltd. v. The Queen, 1984 CanLII 20 (SCC), [1984] 1 S.C.R. 536, at p. 578, per Estey J.; Québec (Communauté urbaine) v. Corp. Notre-Dame de Bon-Secours, 1994 CanLII 58 (SCC), [1994] 3 S.C.R. 3, at p. 17; Rizzo & Rizzo Shoes Ltd. (Re), 1998 CanLII 837 (SCC), [1998] 1 S.C.R. 27, at para. 21; R. v. Gladue, 1999 CanLII 679 (SCC), [1999] 1 S.C.R. 688, at para. 25; R. v. Araujo, 2000 SCC 65 (CanLII), [2000] 2 S.C.R. 992, 2000 SCC 65, at para. 26; R. v. Sharpe, 2001 SCC 2 (CanLII), [2001] 1 S.C.R. 45, 2001 SCC 2, at para. 33, per McLachlin C.J.; Chieu v. Canada (Minister of Citizenship and Immigration), 2002 SCC 3 (CanLII), [2002] 1 S.C.R. 84, 2002 SCC 3, at para. 27. I note as well that, in the federal legislative context, this Court’s preferred approach is buttressed by s. 12 of the Interpretation Act, R.S.C. 1985, c. I-21, which provides that every enactment “is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects”.
+27 The preferred approach recognizes the important role that context must inevitably play when a court construes the written words of a statute: as Professor John Willis incisively noted in his seminal article “Statute Interpretation in a Nutshell” (1938), 16 Can. Bar Rev. 1, at p. 6, “words, like people, take their colour from their surroundings”. This being the case, where the provision under consideration is found in an Act that is itself a component of a larger statutory scheme, the surroundings that colour the words and the scheme of the Act are more expansive. In such an instance, the application of Driedger’s principle gives rise to what was described in R. v. Ulybel Enterprises Ltd., 2001 SCC 56 (CanLII), [2001] 2 S.C.R. 867, 2001 SCC 56, at para. 52, as “the principle of interpretation that presumes a harmony, coherence, and consistency between statutes dealing with the same subject matter”. (See also Stoddard v. Watson, 1993 CanLII 59 (SCC), [1993] 2 S.C.R. 1069, at p. 1079; Pointe-Claire (City) v. Quebec (Labour Court), 1997 CanLII 390 (SCC), [1997] 1 S.C.R. 1015, at para. 61, per Lamer C.J.)
+28 Other principles of interpretation — such as the strict construction of penal statutes and the “Charter values” presumption — only receive application where there is ambiguity as to the meaning of a provision. (On strict construction, see: Marcotte v. Deputy Attorney General for Canada, 1974 CanLII 1 (SCC), [1976] 1 S.C.R. 108, at p. 115, per Dickson J. (as he then was); R. v. Goulis (1981), 33 O.R. (2d) 55 (C.A.), at pp. 59-60; R. v. Hasselwander, 1993 CanLII 90 (SCC), [1993] 2 S.C.R. 398, at p. 413; R. v. Russell, 2001 SCC 53 (CanLII), [2001] 2 S.C.R. 804, 2001 SCC 53, at para. 46. I shall discuss the “Charter values” principle later in these reasons.)
+29 What, then, in law is an ambiguity? To answer, an ambiguity must be “real” (Marcotte, supra, at p. 115). The words of the provision must be “reasonably capable of more than one meaning” (Westminster Bank Ltd. v. Zang, [1966] A.C. 182 (H.L.), at p. 222, per Lord Reid). By necessity, however, one must consider the “entire context” of a provision before one can determine if it is reasonably capable of multiple interpretations. In this regard, Major J.’s statement in CanadianOxy Chemicals Ltd. v. Canada (Attorney General), 1999 CanLII 680 (SCC), [1999] 1 S.C.R. 743, at para. 14, is apposite: “It is only when genuine ambiguity arises between two or more plausible readings, each equally in accordance with the intentions of the statute, that the courts need to resort to external interpretive aids” (emphasis added), to which I would add, “including other principles of interpretation”.
+30 For this reason, ambiguity cannot reside in the mere fact that several courts -- or, for that matter, several doctrinal writers -- have come to differing conclusions on the interpretation of a given provision. Just as it would be improper for one to engage in a preliminary tallying of the number of decisions supporting competing interpretations and then apply that which receives the “higher score”, it is not appropriate to take as one’s starting point the premise that differing interpretations reveal an ambiguity. It is necessary, in every case, for the court charged with interpreting a provision to undertake the contextual and purposive approach set out by Driedger, and thereafter to determine if “the words are ambiguous enough to induce two people to spend good money in backing two opposing views as to their meaning” (Willis, supra, at pp. 4-5).
+[22] In my view, the words here in question are not capable of being limited to strip or avoidance situations without the addition of a qualifying word or phrase such as "knowingly" or “in a non‑arm's length transaction”.
+[23] Mr. Pniowsky referred in argument to an exchange that took place in the House of Commons on second reading when these provisions were before Parliament in November 1971. The statement from which that he finds support was made by Mr. Mahoney, who was then Parliamentary Secretary to the Minister of Finance. Mr. Mahoney said:
+Mr. Chairman, section 146(9) is part of the new rules concerning the investment operations of a trust for retirement savings plans. As the Honourable Member has said, it requires that amounts shall be included in the income of the annuity [sic] under a plan where the trust property is sold for less than its value or greater than its value. It is assumed that such a situation would arise only where there was a non‑arm's length transaction, if not between the trustee and the person who is buying and selling, then certainly a non‑arm's length relationship between the annuitant and the person from whom the trustee was buying or selling. The intent is to prevent a trustee using the plan to confer a benefit on the annuitant or someone named by him and thus perpetuating a tax avoidance.
+[24] The Supreme Court has recently cautioned yet again against taking the words of one member of Parliament and attributing them to, if not the whole Parliament, those members of the House and Senate who voted in favour of the legislation.[5] I note that while Mr. Mahoney seemed to be assuming that non-arm's length transactions would be those to which this subsection would apply, no such limiting words were included in the text, and it is no secret that such provisions are rife throughout the Income Tax Act. I would expect that if Parliament had intended to limit subsection 146(9) in the way that is suggested, then it would not have hesitated to say so explicitly.
+[25] Considering the context of the legislation, it is trite that the purpose of the RRSP provisions of the Act is to encourage Canadians to save for retirement. To that end, they are permitted to accumulate savings on a tax deductible basis. Neither the amounts contributed to the fund nor the earnings accumulated within it are subjected to tax until they are withdrawn in one way or another.
+[26] If the fund is rolled over to a RRIF, as must be done at age 71, again there is no taxable event until payments are made from that RRIF to the annuitant, but every withdrawal from the fund is a taxable event, whether it takes place in the form of annuity payments on retirement, withdrawals taxed by subsection 8, or otherwise.
+[27] It is consonant with this scheme that any event that removes value from the fund should be considered and treated as a taxable event, as there has been no prior taxation of those sheltered funds. This is true whether the event is an avoidance event, for example such as subsection 146(5.21) contemplates, or a benign one such as a simple withdrawal that would fall to be taxed under subsection 146(8).
+[28] Similarly, an overpayment for an asset falls to be taxed under subsection 146(9) whether it is in the nature of an attempted avoidance, through non-arm's length transactions for example, or one that is on the annuitant's part benign, as here, where the amounts in question are the subject of a fraud perpetrated on an innocent annuitant. They are taxed under subsection 146(9) not because the annuitant has done anything wrong, but because they are tax sheltered funds that have left the sheltered environment and so must, under the scheme of the Act, and its specific provisions, be subject to tax. That the scheme of the Act requires the excess over fair market value to be taxed is no less so because it is the fraudster and not the annuitant that receives the tax sheltered amount. When viewed in its context, subsection 146(9) is not at all ambiguous, nor does it lead to any absurdity.
+[29] Mr. Pniowsky raises the spectre of the Minister's valuators attacking the price at which transactions in unlisted shares of start‑up companies are bought by self‑directed funds. It is true that estimates of value arrived at by different valuators may vary, and often do, but in most cases the transactions are the result of rational bargaining by arm's length parties and no issue will arise.
+[30] My conclusion is that subsection 146(9) is not ambiguous. It applies to transactions such as these where the annuitant is not seeking to avoid tax while removing value from the registered fund, but is simply duped into paying good money for valueless shares. That being so, I need not consider the respondent's alternative position based on subsections 146(8) and 146.3(5) and a supposed benefit.
+[31] Having concluded that the appellants were innocent victims, the Minister no longer seeks to maintain the penalties that were assessed under subsection 163(2) of the Act. The appeals, therefore, will be allowed, but only to vary the reassessments by deleting the penalties. The respondent is entitled to costs if demanded.
+[32] Before leaving the matter, I would like to point out that the result is clearly a harsh one. As Justice Malone said in Nunn v. Canada[6] at paragraph 22, in similar circumstances:
+Undoubtedly this result is harsh but it would be unfair to exempt a taxpayer from his or her obligation on the basis of mistake or fraud. Put simply, other Canadian taxpayers should not have to bear the financial burden which arises from unfortunate circumstances such as those that exist here.
+That said, these may well be appropriate cases, considering all of the facts, for the loss to be spread among all taxpayers. The appellants certainly were naive, but they did not act out of avarice. These may well be cases where remission orders under subsection 23(2) of the Financial Administration Act[7] would be appropriate. That, however, is a matter for the Governor-in-Council to decide, not for the Court.
+Signed at Ottawa, Canada, this 23rd day of November, 2011.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2011 TCC 536
+COURT FILE NO.: 2009-1329(IT)G, 2009-1165(IT)G and 2009‑166(IT)G
+STYLE OF CAUSE: JACK ST, ARNAUD, HARRY BRAUN
+and ALBERT PATENAUDE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: October 31, 2011 and
+November 1, 2 and 4, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: November 7, 2011
+APPEARANCES:
+Counsel for the Appellants:
+Jeff Pniowsky
+Counsel for the Respondent:
+Karen Janke-Curliss, Anne Jinnouchi and Ainslie Shroeder
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Jeff Pniowsky
+Firm: Thompson, Dorfman, Sweatman
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] [1999] 3 SCR 622.
+[3] [2007] 3 SCR 217.
+[4] [2002] 2 SCR 559.
+[5] A.Y.S.A. Amateur Youth Soccer Association v. Canada, supra, note 2 at paras. 11-12.
+[6] 2007 DTC 5111.
+[7] R.S.C. 1985, c. F-11.

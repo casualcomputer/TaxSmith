@@ -1,0 +1,158 @@
+---
+title: "Connolly  c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/419325/index.do"
+last_modified: "2019-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 160"
+citation2: ""
+neutral_citation: "2019 CCI 160"
+decision_date: "2019-07-30"
+language: "fr"
+item_id: "419325"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4214
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:12:44.750000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "028a183eac641fb30c275fe1dd89bc20faa00eded4198e590a10cab3fe4aabac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Connolly  c. La Reine
+
+- Citation: 2019 CCI 160
+- Decision date: 2019-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4214, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Connolly c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-07-30
+Référence neutre
+2019 CCI 160
+Numéro de dossier
+2018-1609(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-1609(IT)I
+ENTRE :
+SHERRY CONNOLLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 2 avril 2019, à Hamilton (Ontario)
+Devant : L’honorable juge suppléant Gaston Jorré
+Comparutions :
+Représentant de l’appelante :
+Elias Levy
+Avocate de l’intimée :
+Me Caitlin Ward
+JUGEMENT
+L’appel interjeté par l’appelante à l’encontre de l’avis de ratification daté de février 2018 est accueilli, et la décision en litige est modifiée de sorte à reconnaître que l’appelante était admissible au crédit d’impôt pour personnes handicapées pour l’année d’imposition 2014. Relativement aux années d’imposition 2010, 2011, 2012 et 2013, la décision selon laquelle l’appelante n’était pas admissible ne sera pas modifiée.
+L’appel relatif aux années d’imposition 2008 et 2009 est rejeté.
+Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2019.
+« Gaston Jorré »
+Le juge suppléant Jorré
+Référence : 2019 CCI 160
+Date : 20190730
+Dossier : 2018-1609(IT)I
+ENTRE :
+SHERRY CONNOLLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Jorré
+[1] Le présent appel est interjeté à l’encontre d’un avis de ratification, daté du 22 ou du 26 février 2016, déterminant l’admissibilité de l’appelante à ce qu’on appelle communément le crédit d’impôt pour personnes handicapées (le crédit d’impôt pour déficience mentale ou physique prévu à l’article 118.3 de la Loi de l’impôt sur le revenu).
+[2] L’avis d’appel et la réponse à l’avis d’appel portent ces deux dates de délivrance de l’avis. Le fait de savoir quelle date est exacte n’est pas un facteur déterminant.
+[3] L’avis de ratification a reconnu que l’appelante était admissible au crédit pour l’année d’imposition 2015 et certainement pour des années ultérieures. À ce point des motifs, je soulignerais simplement que l’idée qu’une décision appliquant les dispositions législatives soit rendue à l’égard de périodes de temps ultérieures à la date de la décision ou de la ratification me laisse un peu perplexe.
+[4] Une telle question n’est pas soulevée en l’espèce, vu que l’année 2015 et les années ultérieures ne sont pas visées par l’appel. La question de savoir si le ministre du Revenu national a le pouvoir de rendre une décision applicable à une période future sera peut-être soulevée dans une autre affaire et devra être réglée à ce moment. Malheureusement, ni l’avis de ratification ni la décision antérieure ne figurent dans la preuve. J’ai seulement la déclaration extraite du paragraphe 6 c) de la réponse à l’avis d’appel, selon laquelle : [traduction] « l’avis de ratification indique que l’appelante était admissible au crédit d’impôt pour personnes handicapées pour les années d’imposition 2015 à 2021… ».
+[5] Sans trancher la question, je soulignerais simplement ce qui suit : il serait surprenant que les dispositions législatives, correctement interprétées, donnent au ministre le pouvoir de rendre une décision à l’égard d’une admissibilité future. Cependant, je suis d’avis que rien n’empêcherait le ministre de déterminer que la personne était admissible pour certaines années passées et de l’informer que l’intention actuelle du ministre est de supposer que cette personne continuerait d’être admissible pour certaines années futures. Le ministre pourrait agir ainsi parce que selon l’information dont il dispose, il semble très probable que la personne continue d’être admissible et, afin d’utiliser ses ressources limitées de façon efficiente et efficace, le ministre a l’intention d’affecter ses ressources à d’autres affaires. Le pouvoir de décider de l’utilisation efficiente des ressources d’application de la loi est implicite dans les pouvoirs conférés au ministre au paragraphe 220(1) de la Loi de l’impôt sur le revenu.
+[6] Bien que ce ne soit pas le cas en l’espèce, j’ai vu dans une autre affaire qu’une réponse à l’avis d’appel alléguait que le ministre avait déterminé qu’une personne n’était pas admissible pour une période ultérieure à la date de la décision ou de la ratification. Je répète qu’il serait très surprenant que l’on doive interpréter les dispositions législatives comme permettant cela et créant une décision exécutoire à l’égard de l’avenir, attendu que les circonstances changent, parfois assez rapidement.
+[7] Comme je l’ai indiqué précédemment, je n’ai pas vu l’avis de ratification. Peut-être que celui-ci indique clairement qu’il ne prétend pas rendre une décision exécutoire à l’égard de l’avenir.
+[8] En ce qui concerne le présent appel, l’avis de ratification a confirmé que l’appelante n’était pas admissible au crédit d’impôt pour personnes handicapées pour la période incluant les années d’imposition 2010 à 2014. L’avis d’appel concernait les années d’imposition 2008 à 2014.
+[9] Dans sa réponse, l’intimée a indiqué qu’elle présenterait une objection préliminaire selon laquelle les années d’imposition 2008 et 2009 n’ont pas été dûment soumises à la Cour. L’appelante a admis ce point et, par conséquent, seules les années 2010 à 2014 me sont soumises.
+[10] Il ne fait aucun doute que l’appelante était manifestement admissible en 2015. La question qui se pose en l’espèce est de savoir si l’appelante est devenue admissible antérieurement.
+[11] L’appelante a mentionné qu’elle était admissible à des prestations d’invalidité du Régime de pensions du Canada (RPC), bien que la preuve ne révèle pas la date de son admissibilité. Je mentionnerais que les critères d’admissibilité aux prestations d’invalidité du RPC sont assez différents de ceux de la Loi de l’impôt sur le revenu, car ceux du RPC visent à déterminer si la personne est régulièrement incapable de détenir une « occupation véritablement rémunératrice » – voir le paragraphe 42(2) du RPC.
+[12] L’appelante a témoigné de ses problèmes de santé et de leurs effets sur sa capacité d’accomplir des activités courantes de la vie quotidienne. Elle a également déposé quatre documents dont trois sont des formulaires remplis par son médecin. Le quatrième est une lettre écrite par son médecin. Elle a le même médecin depuis 2002.
+[13] Chronologiquement, le premier document (la pièce A-4) est une lettre écrite aux fins de la demande présentée par l’appelante au RPC en août 2015. Cette lettre décrit plusieurs problèmes de santé graves et indique pour certains la date de leur apparition ou la date à laquelle le diagnostic a été confirmé. Lorsque des dates sont fournies, la plus ancienne remonte à 2008. Je note également que les diagnostics de polyarthrite rhumatoïde et de fibromyalgie ont été confirmés en 2013 et en 2015 respectivement.
+[14] En septembre 2015, le médecin de l’appelante a rempli un formulaire pour le crédit d’impôt pour personnes handicapées, qui a été déposé en pièce A-1. Ce formulaire indique que la capacité de l’appelante d’accomplir deux activités courantes de la vie quotidienne est limitée de façon importante et que cumulativement, les effets de ces limitations sont équivalents au fait d’être limitée de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne. Le formulaire indique également que c’est en 2014 que les effets cumulatifs de ces limitations sont devenus équivalents au fait d’être limitée de façon marquée dans la capacité d’accomplir une activité.
+[15] En juin 2017, le médecin de l’appelante a rempli un nouveau certificat pour le crédit d’impôt pour personnes handicapées, qui a été déposé en pièce A-2. L’information fournie dans ce formulaire est assez différente de celle qui figure sur celui de 2015. Dans le formulaire de 2017, le médecin de l’appelante a indiqué que la capacité de l’appelante d’accomplir deux activités courantes de la vie quotidienne est limitée de façon marquée depuis 2009 et 2008 respectivement, et que la capacité de l’appelante d’accomplir deux autres activités courantes de la vie quotidienne est limitée de façon importante.
+[16] À la lecture des deux certificats remplis pour le crédit d’impôt pour personnes handicapées, je n’ai aucune difficulté à accepter que les problèmes de santé de l’appelante se sont aggravés avec le temps. Cependant, j’ai de la difficulté à comprendre qu’un certificat rempli 22 mois après le premier certificat indique que les problèmes de santé de l’appelante sont tels qu’ils sont devenus limitatifs de façon marquée avant 2010, alors que le premier certificat indiquait que collectivement, deux limitations importantes étaient devenues équivalentes à une limitation marquée dans sa capacité d’accomplir une activité en 2014. Il n’y a rien dans la preuve pour expliquer la différence.
+[17] Enfin, le quatrième document déposé en preuve (la pièce A-3) est un questionnaire que l’Agence du revenu du Canada a envoyé au médecin de l’appelante et que le médecin a signé au début du mois de janvier 2018. Ce questionnaire est conforme au second certificat rempli pour le crédit d’impôt pour personnes handicapées.
+[18] Aux termes de la Loi, une personne est admissible au crédit d’impôt pour personnes handicapées pour une année donnée si sa capacité d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou si sa capacité d’accomplir plus d’une activité est limitée de façon importante et que les effets cumulatifs de ces limitations sont équivalents au fait d’être limitée de façon marquée dans la capacité d’accomplir une activité courante.
+[19] L’appelante a été la seule personne à témoigner et a longuement parlé de ses problèmes de santé et de sa capacité limitée d’accomplir certaines activités de la vie quotidienne. Je n’ai aucun doute que sa capacité est maintenant limitée de façon marquée et qu’un grand nombre de mouvements sont assez difficiles et douloureux pour elle en ce qu’ils ont pour conséquence, par exemple, de la ralentir radicalement lorsqu’elle prépare de la nourriture.
+[20] Là où la preuve déposée par l’appelante me pose problème, c’est que la plupart de ses éléments donnent l’impression que l’appelante a toujours ressenti le même degré très élevé de limitation et de douleur entre 2010 et le moment de l’audience.
+[21] Je ne crois pas que son état de santé a toujours été le même et je conclus qu’au fil du temps, ses problèmes de santé et ses limitations se sont aggravés.
+[22] Je tire cette conclusion parce que les documents déposés, lorsque je les lis comme un tout, indiquent plutôt que les problèmes de santé de l’appelante se sont aggravés avec le temps. Plus précisément, en ce qui concerne le début des limitations, j’accorde plus d’importance au certificat rempli en 2015 pour le crédit d’impôt pour personnes handicapées qu’à celui qui a été rempli en 2017. En effet, parce que le formulaire de 2015 a été rempli à un moment plus rapproché des années qui nous intéressent, il est probable qu’il indique le début des limitations de façon plus exacte qu’un formulaire rempli en 2017.
+[23] De plus, certaines des limitations physiques décrites par l’appelante sont difficilement conciliables avec le fait qu’elle a accompli un travail physique en usine pendant une bonne partie de la période allant de 2010 à 2014. En 2010 et 2011, l’appelante travaillait dans une usine de pièces automobiles où elle devait soulever des conduites de fluide, les placer et les attacher dans un appareil, les tester, puis les déposer dans des boîtes. En 2012, pendant une partie de l’année seulement, elle a travaillé dans une autre usine d’automobiles où elle assemblait du mobilier. En 2013, elle a commencé à travailler pour une imprimerie, au sein du service de la reliure manuelle. La personne qui la supervisait a dit qu’elle ne comblait pas les attentes liées à ce poste, mais elle a tout de même travaillé à l’imprimerie pendant plusieurs années. Lorsqu’elle travaillait, elle occupait des emplois à temps plein.
+[24] L’appelante a dû prendre une quantité importante de médicaments antidouleur pendant qu’elle travaillait dans ces usines.
+[25] À l’application des critères prévus par la Loi, il est important de garder à l’esprit qu’aux termes du paragraphe 118.4(1), la limitation doit être évaluée lorsque le particulier reçoit des soins thérapeutiques et utilise les appareils et les médicaments indiqués. Par exemple, si la capacité d’un particulier qui serait autrement limitée de façon marquée ne l’est pas lorsqu’il prend un médicament, le particulier ne remplit pas le critère de la limitation marquée.
+[26] Par conséquent, l’appelante ne m’a pas convaincu qu’elle était admissible de 2010 à 2014.
+[27] Cependant, étant donné que son médecin a conclu que ses limitations étaient équivalentes au fait d’être limitée de façon marquée dans la capacité d’accomplir une activité courante en 2014 et que je ne vois aucun élément de preuve qui permet de distinguer l’année 2015 de l’année 2014, je conclus que l’appelante est devenue admissible en 2014.
+[28] La décision sera modifiée en conséquence et le jugement sera rendu en conséquence.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2019.
+« Gaston Jorré »
+Le juge suppléant Jorré
+RÉFÉRENCE :
+2019 CCI 160
+NO DU DOSSIER DE LA COUR :
+2018-1609(IT)I
+INTITULÉ :
+SHERRY CONNOLLY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+DATE DE RÉCEPTION DE LA TRANSCRIPTION :
+Le 2 avril 2019
+Le 31 mai 2019
+TRANSCRIPTION
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Gaston Jorré
+DATE DU JUGEMENT :
+Le 30 juillet 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Elias Levy
+Avocate de l’intimée :
+Me Caitlin Ward
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

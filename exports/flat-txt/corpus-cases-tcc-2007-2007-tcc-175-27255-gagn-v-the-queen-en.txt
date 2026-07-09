@@ -1,0 +1,130 @@
+Title: Gagné v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27255/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-175-27255-gagn-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-02-02
+
+# Gagné v. The Queen
+
+- Citation: 2007 TCC 175
+- Decision date: 2007-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 810, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagné v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-02
+Neutral citation
+2007 TCC 175
+File numbers
+2006-2309(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-2309(GST)I
+BETWEEN:
+GINETTE GAGNÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on December 15, 2006, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+For the Respondent:
+Martine Bergeron
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated August 17, 2005, and bears the number 050610022239G0009, with respect to the Goods and Services Tax, for the period ending January 1, 2005, is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the rebate of Goods and Services Tax in the amount of $2,811.61.
+Signed at Montréal, Canada, this 2nd day of February 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 6th day of March 2008.
+Brian McCordick, Translator
+Citation: 2007TCC175
+Date: 20070202
+Docket: 2006-2309(GST)I
+BETWEEN:
+GINETTE GAGNÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal, under the informal procedure, from the Respondent's decision to disallow a claim for a rebate of Goods and Services Tax (GST) in the amount of $2,811.61, submitted on or about February 21, 2005, following the construction of a new home by the Appellant.
+[2] The rebate claim was based on subsection 256(2) of the Excise Tax Act ("the ETA"). There is no doubt that the construction ended on or about January 1, 2005, nor is there any doubt as to the amount of tax claimed, or as to the fact that the claim was submitted within the two‑year time limit contemplated in subsection 256(3) of the ETA.
+[3] The Minister of National Revenue ("the Minister") disallowed the GST rebate claim on the ground that one of the conditions required by subsection 256(2) of the ETA was not met because the building was not used as the Appellant's primary place of residence.
+[4] Subsection 256(2) of the ETA reads, in relevant part:
+Rebate for owner-built homes
+(2) Where
+(a) a particular individual constructs or substantially renovates, or engages another person to construct or substantially renovate for the particular individual, a residential complex that is a single unit residential complex or a residential condominium unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+. . .
+the Minister shall, subject to subsection (3), pay a rebate to the particular individual equal to the amount determined by the formula
+. . .
+[5] In making the assessment, the Minister relied, inter alia, on the presumptions of fact set out in paragraph 8 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The construction of the building in respect of which a new-home GST rebate was claimed ended on or about January 1, 2005.
+(b) A total of $7,810.03 in GST was paid for the construction of the building.
+(c) When the work was completed and when the claim was made, the Appellant was still habitually residing at 2925 Langelier Boulevard, Apt. 3, Montréal, as she admitted during her discussions with the objections officer.
+(d) When the work was completed and she claimed the rebate, the Appellant still had a job in Montréal with no determinate retirement date.
+(e) The Appellant acknowledged that she did not intend to terminate her lease in Montréal in the short term because her spouse was not retiring in the short term.
+(f) There is no evidence that the new home located at 136 Chemin Pilon in Rivière‑Rouge is the Appellant's primary residence.
+(g) The new home located at 136 Chemin Pilon is at most a secondary residence for the Appellant and does not qualify for the new-home GST rebate.
+[6] The issue for determination is whether the Appellant is entitled to a rebate of the GST that she paid in connection with her self-built home project.
+[7] In order to build a house for her retirement, the Appellant acquired from her son, in July 2004, a part of the land that he owned in Rivière‑Rouge. The construction work was completed faster than expected, and the house became practically habitable in January 2005.
+[8] At that time, the Appellant was an employee of the Commission scolaire de Montréal, and was on secondment to the Collège du Vieux Montréal. She was eligible for retirement, and she alleges in her Notice of Appeal that she had notified the Commission scolaire de Montréal and the Collège du Vieux Montréal that she would soon be resigning. Ultimately, she resigned from her position as printing facilities manager at the Commission scolaire de Montréal on January 9, 2006.
+[9] The Appellant was living with her spouse at 2925 Langelier Boulevard, Apt. 3, Montréal, Quebec H1N 3A4 and it was expected that he would find employment in the Rivière‑Rouge area.
+[10] The Appellant's plans fell through because her spouse started to have health problems which forced him to take sick leave and obtain treatment from specialists. The leave began on April 7, 2005, and ended in mid‑September 2005.
+[11] Since the Appellant's spouse needed medical treatment from specialists, the Appellant changed her plans and decided to delay her move to Rivière‑Rouge. She asked the Collège du Vieux Montréal to extend her secondment, and this request was approved on the condition that she agree to complete a new assignment.
+[12] As a result, the Rivière‑Rouge residence never became the Appellant's habitual residence, and can only become her primary residence in June 2008, when she can retire.
+[13] The investigation revealed that the Appellant still resides at 2925 Langelier Boulevard in Montréal and that she never gave notice to terminate her lease. In her testimony, the Appellant explained that she had been living there for several years and got along well with the landlord. In her view, the absence of notice to terminate the lease would not have prevented her from moving to Rivière‑Rouge when she wanted to do so.
+[14] It was also shown that the Appellant has neither a telephone nor a mailbox in Rivière‑Rouge and that she still uses her Montréal address as her official address for her driver's licence, tax returns and tax rebate applications.
+[15] However, the Appellant produced a copy of a letter dated October 27, 2005, to the Caisse d’Économie de l’Éducation confirming that the hypothec which that credit union granted to the Appellant was for the construction of her principal residence on Chemin Pilon in Rivière‑Rouge (the letter mistakenly refers to the town of L'Assomption instead of the town of Rivière‑Rouge).
+[16] The sole issue is whether the Appellant built the Rivière‑Rouge house for use as a primary residence, as required by paragraph 256(2)(a) of the ETA.
+[17] GST/HST Policy Statement P-228, issued on March 30, 1999, sets out the guidelines for determining a person's primary residence for the purposes of GST/QST rebates for new housing. Under the heading "Intention", the statement specifies as follows:
+For GST/HST new housing rebate purposes, the Act requires that the individual acquired, constructed or substantially renovated the residential complex or co-op share for use of the complex or unit as the primary place of residence of the individual or qualifying relative. This requirement may be considered to be an "intention" test.
+Intentions can only be judged by outward indicators, i.e. the presence or absence of physical actions and/or evidence. . . . Where the individual or a qualifying relative does not actually use the residential complex or residential unit as a primary place of residence, absent an intervening frustrating event, it can generally be concluded that the individual did not acquire, construct or substantially renovate the complex or unit for that use. . . .
+[18] In the instant case, the Appellant's intention at the time that the house was built was established by her testimony alone. In support of her claims, she refers to the letter from the Caisse d’Économie de l’Éducation confirming that the hypothec was granted to the Appellant for her principal residence, and to the fact that she was eligible for retirement at the time and that her spouse's illness prevented her from moving and using the building as an habitual residence. This was not questioned by the Respondent on cross-examination and I have no reason to doubt the Appellant's credibility.
+[19] The Respondent did not submit any case law, even though the question of intent was examined in Boucher v. The Queen, [2002] G.S.T.C. 84 (T.C.C.) (informal procedure), where Lamarre J. agreed that an event subsequent to the construction of the residence prevented it from becoming the family's habitual and permanent residence. I quote from paragraph 18 of the English version of the said decision:
+[18] I do not think it can be said that the Val-Bélair residence was a secondary residence. Moreover, it was offered for sale in September 2000, as soon as the appellant found out that his wife would not have a job in Québec. In my opinion, if his wife had found a job in Québec in September 2000, the respondent would not have contested the new housing tax (GST) rebate. The fact that his wife's efforts were unsuccessful in the Québec area does not change the purpose for which the Val-Bélair residence was constructed.
+[20] As was the case in Boucher, the Appellant was unable to live permanently and habitually in the Rivière‑Rouge home because of an unforeseeable event that was subsequent to the construction and was beyond her control. This event cannot have the effect of changing the purpose for which the home in Rivière‑Rouge was constructed.
+[21] For these reasons, I am of the opinion that the Appellant meets the conditions set out in subsection 256(2) of the ETA — more specifically, the condition that requires that the Appellant built the home in Rivière‑Rouge for use by herself and her spouse as a primary residence. Since this was the only point in issue, the appeal is allowed, without costs, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to a GST rebate in the amount of $2,811.61.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 6th day of March 2008.
+Brian McCordick, Translator
+CITATION: 2007TCC175
+COURT FILE NO.: 2006-2309(GST)I
+STYLE OF CAUSE: GINETTE GAGNÉ v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: December 15, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: February 2, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+For the Respondent: :
+Martine Bergeron
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Name: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

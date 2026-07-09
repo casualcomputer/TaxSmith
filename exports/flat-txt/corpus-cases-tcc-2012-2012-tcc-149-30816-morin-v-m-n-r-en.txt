@@ -1,0 +1,242 @@
+Title: Morin v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30816/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-149-30816-morin-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2012-05-30
+
+# Morin v. M.N.R.
+
+- Citation: 2012 TCC 149
+- Decision date: 2012-05-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7559, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morin v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-30
+Neutral citation
+2012 TCC 149
+File numbers
+2010-3907(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-3907(EI)
+BETWEEN:
+SYLVIE MORIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 6, 2012, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the appellant:
+Daniel Payette
+Counsel for the respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to paragraph 5(1)a) and subsection 93(3) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue rendered on September 30, 2010, is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of May 2012.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 12th day of July 2012
+Monica F. Chamberlain, Reviser
+Citation: 2012TCC149
+Date: 20120530
+Docket: 2010-3907(EI)
+BETWEEN:
+SYLVIE MORIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal concerning the insurability of the work performed by a woman, who was the caregiver of a young child during the period of August 24 to December 31, 2009. The appellant maintains that the work in question was performed as part of a contract for services whereas the respondent has concluded that this same work was performed as part of a contract of service.
+[2] The appeal was initiated by way of a notice stating the following:
+1. Appellant Sylvie Morin is a full professor in administration (marketing) at Université du Québec à Rimouski (UQAR).
+2. On June 1, 2009, the appellant, who since 2003 taught primarily at the Rimouski campus of this university, was transferred to the Lévis campus.
+3. The appellant has one child, named Louis, who was 14 months old in August 2009 and who is her first and only child.
+4. When the 2009 fall semester began, this child was on a waiting list for the L’arc-en-ciel daycare in Lévis pursuant to an agreement negotiated with UQAR giving priority admission to the children of UQAR professors, employees and students.
+5. Since she was teaching two three-hour classes in the 2009 fall semester, the appellant looked for a reliable person to care for her son Louis during her teaching hours and while she was at the university, in other words, about 20 hours a week on average, spread out over 4 days.
+6. On or around August 24, 2009, after receiving various offers of service, the appellant retained the services of Claire Malenfant as part of a contract for services to care for her child, on a casual, temporary basis, while awaiting admission to the daycare.
+7. Claire Malenfant had no formal childcare training but had relevant experience, having raised her own two children.
+8. When she retained the services of Claire Malenfant, the appellant asked her whether she preferred a contract for services or a contract of employment.
+9. Claire Malenfant replied that she preferred a contract for services due to her current personal situation (she was receiving support payments and did not want employee deductions at source).
+10. The appellant does not own a business and is not an "employer." Her collective agreement requires her to provide services exclusively to the University, and when she requires assistance with her research work or teaching activities, the selected individuals are hired as employees of the University.
+11. The appellant was therefore looking for a person to provide purely personal domestic services.
+12. The appellant also preferred to be bound to Claire Malenfant by way of a contract for services.
+13. The parties therefore clearly agreed on a contract for services.
+14. The number of hours per week varied according to the university schedule (additional meetings, extra work for the appellant, or conversely spring break, Christmas break).
+15. The parties agreed on a guaranteed weekly remuneration, equivalent to 20 hours of service, paid even if the hours were not worked.
+16. Over and above these 20 hours of childcare services per week, Claire Malenfant received a supplement pro rata to the number of actual childcare hours, which varied.
+17. It was clearly established that the services required were on a temporary basis and that the appellant could terminate Claire Malenfant's services at any time, without prior notice or compensation, notably as soon as her child was admitted to the daycare.
+18. Claire Malenfant was also required to provide her services at different locations, i.e. the child's father's home in Lévis, at her own home, or at the appellant's home in Rivière-Trois-Pistoles, to which Claire Malenfant agreed.
+19. Claire Malenfant was to provide a receipt every Friday, for the agreed lump-sum amount and any supplements, and the appellant (or in some cases when she was not available, the child's father) gave her a personal cheque as payment.
+20. At the express request of Ms. Malenfant, no contributions were deducted for any social security plan, the latter wishing to make her own tax remittances and other contributions. She was not covered by any decree, collective agreement or contract of employment.
+21. The appellant had no "control" over the services rendered by Claire Malenfant.
+22. By definition, these services were performed in her absence.
+23. These services were ultimately always rendered outside the appellant's home, i.e. at the home of the child's father, who lived near her workplace, at Ms. Malenfant's home, and at other locations where she decided, on her own initiative, to bring the child (at the house of her neighbour, who was a nurse, to a restaurant run by a friend, to friends with children).
+24. Ms. Malenfant was left alone with the child and she decided the child's schedule and activities, as well as where to take him (park, mall, etc.).
+25. These services, provided without supervision, presupposed tremendous confidence in the methods used to educate and care for the child and that were decided by Ms. Malenfant herself.
+26. The only instructions the appellant could provide were of a general nature, that is, only when to provide the services Ms. Malenfant rendered and to follow standard health and safety guidelines for a young child (for example, not to forget to give him the medication prescribed for him).
+27. When her services were retained, Ms. Malenfant stated that she was not a very good cook but that she could prepare simple meals for the child. However, it became apparent that she had difficulty cooking even prepared foods.
+28. It was therefore agreed that she would bring the child to his father's house for lunch, which he would prepare. Ms. Malenfant still ate with and fed the child and was paid for the time spent doing this.
+29. The contract between the appellant and Ms. Malenfant was one that could be terminated at any time, by either party, without notice, as is only possible with a contract for services.
+30. In fact, it was Ms. Malenfant who decided to terminate the contract, after a few weeks, without notice. She was contemplating opening a family daycare at her home but then reconsidered.
+31. The appellant had forewarned Ms. Malenfant that she could cancel her services at any time if the child was admitted to the daycare and Ms. Malenfant agreed to this condition.
+32. Ms. Malenfant herself took the initiative to find the child a place in a daycare.
+33. Ms. Malenfant therefore had no job security and fully assumed the risk of a contractor.
+34. The appellant did not provide Ms. Malenfant with work tools.
+35. The child had only his own personal effects (diapers, clothing, toys, stroller), which are not provided by any daycare service or even hospitals.
+36. When Ms. Malenfant decided to bring the child to her home or to the homes of others (often the home of her neighbour who was a nurse), she used her own belongings, including toys and equipment belonging to her neighbour.
+37. The appellant did not provide Ms. Malenfant with work clothing and it was her responsibility to have what was required – for example, warm clothing to take the child outside or a mobile phone to communicate in emergency situations – at her own expense.
+38. There was no exclusivity for the services.
+39. Nothing prevented Ms. Malenfant from providing childcare services to other individuals and the appellant had no way of knowing whether Ms. Malenfant was caring for other children during or outside the hours she babysat her child.
+40. Ms. Malenfant had contemplated opening a family daycare in her home and was free to do so. When she informed the appellant of this possibility, the latter simply told her that this was not the type of service she had chosen while waiting for a place in the daycare and that as a client, she would have to think about it if Ms. Malenfant chose to offer her services in this way.
+41. Ms. Malenfant ultimately decided not to open a family daycare for personal reasons but the appellant had no power whatsoever to prevent her from doing so.
+42. Ms. Malenfant could do other things, for herself or for others, when she provided her services (personal calls, personal shopping, various other things for herself).
+43. There was no integration into any “business” the appellant might have.
+[3] Being out of time, the respondent was unable to file a reply to the Notice of Appeal. Pursuant to an order of this Court dated April 21, 2011, the facts set out in the Notice of Appeal are deemed to be accurate.
+[4] At the request of the respondent, Ms. Malenfant, the caregiver, explained and described the process that led her to perform the work at issue. She explained that she had read about a job offer on a specialized site, more specifically, Emploi‑Québec.
+[5] She then expressed her interest in the work; she met with the appellant, who explained what the work involved. Once Ms. Malenfant's competence and ability to perform the work had been evaluated, the parties agreed on a method of weekly remuneration and a schedule with the exact time work would begin and end. The work was generally performed from Monday to Thursday inclusively. The appellant told Ms. Malenfant that the remuneration formula would change after a few months.
+[6] The job was essentially to care for the young child. The appellant required that her child be outside as often as possible, claiming that he loved the outdoors and being pushed in his stroller. At some point, the responsibility of bathing the child was added.
+[7] Ms. Malenfant explained that regardless of the weather, she took the child on long walks as per the appellant's requirements and expectations.
+[8] A few times during her testimony, she stated that she sometimes found it odd that the parents would require her to take the child out even in rainy and very cold weather.
+[9] In this regard, she gave an example of one day when she thought it was inappropriate for the child to be outdoors because it was so cold. She therefore took the initiative to ask the father if she could take the child for a walk in the mall. The father agreed and even drove them there.
+[10] She stated that she had to show up for work at a certain time; she also stated that she always had to be back at the appellant's home at a certain time so that the child could take his medication.
+[11] During the walks that were a big part of her work, she went to the park, to her own home, to a restaurant or to her neighbour, who loved children.
+[12] These were usually short stops were she would have something to drink, use the washroom or simply warm up. Her neighbour loved children; she spent many years as the head nurse in a maternity ward. She had many toys at her place because she sometimes babysat her family’s children. She even offered toys to the appellant's child, for whom Ms. Malenfant was responsible.
+[13] Ms. Demers and Ms. Wajiki both testified at the appellant's request. They essentially validated and confirmed Ms. Malenfant's testimony.
+[14] The appeals officer also testified. He explained how he had come to conclude that the contract was a contract of service. His testimony revealed something unusual in this type of case in that he arrived at a conclusion without first hearing the appellant's version of the facts.
+[15] He explained that he had made numerous unsuccessful attempts to do so. He described all these attempts, which were made over a period of almost three months, in chronological order. He finally concluded that, based on a document he received by fax, he would probably never obtain the appellant’s full version of the facts.
+[16] The document concerned questioned the relevance of the investigation and its quality, but especially its impartiality and objectivity. He therefore proceeded with the analysis based mainly on the explanations and exhibits provided by Ms. Malenfant.
+[17] Counsel for the appellant, who is also the father of the child, testified. He explained that he started the process to hire a caregiver who met the mother's expectations. He scheduled the interviews and respected the choice of the mother and appellant.
+[18] These are essentially the facts relevant to the period at issue. The remainder of the testimony consisted of assumptions, speculations, interpretations and perceptions.
+[19] The appellant did not testify except by way of her Notice of Appeal, the content of which, in accordance with the order dated April 21, 2011, is deemed accurate and, consequently, sufficient according to appellant’s counsel.
+[20] To resolve the appeal, the Court has written proceedings, which includes the Notice of Appeal and five testimonies, mentioned earlier. Two testimonies, in my opinion, are much more important: that of Ms. Malenfant and that of the counsel of record, Daniel Payette.
+[21] It would have been interesting and extremely relevant to hear the appellant; her counsel stated in this regard that the Court should rely on the content of the Notice of Appeal and that it serves as proof in the absence of evidence to the contrary.
+[22] However, the content of the Notice of Appeal was contradicted on a number of fundamental elements by Ms. Malenfant’s lengthy testimony.
+[23] In such a case, and especially when the facts have a crucial bearing on the application of the law, credibility is of utmost importance.
+[24] I have no reason to set aside Ms. Malenfant’s testimony, which was unrehearsed and straightforward. She answered honestly and concisely, although on several occasions she mentioned that she did not remember certain details. This was clearly not a person who wanted to hide or falsify anything.
+[25] In fact, she made certain remarks that confirmed not only her credibility but the logical reasoning behind her answers. For example, on cross examination, she candidly replied that this was the first time she had ever heard expressions such "delivery of services;" she was clearly not comfortable with some of the nuanced language about the nature of the contract at issue.
+[26] She explained that she learned about the job offer online. This was confirmed by the testimony of Mr. Payette, who said that he was the one who posted the job offer (Exhibit I-1), which stated as follows under the [Translation] "Work requirements and conditions" heading:
+[Translation]
+Work requirements and conditions
+Education: High school
+Job-related experience: 1 to 6 months
+Competencies: Responsible, likes children, enthusiastic, enjoys walking
+Language(s): French: proficiency
+English: not required
+Salary: Based on experience, from $8.00 to $12.00 per hour
+Number of hours per week: 25
+Employment status: Permanent
+Part-time
+Days, evenings
+Details: Three days and one evening (Wednesday) per week
+Start date: 2009-08-17
+[27] According to the job offer, the employer and person to contact was Daniel Payette, who turned out to be the counsel of record and who testified.
+[28] Based on the ad, he argues that it was casual employment. His assertions in this regard are expressed in his argument plan as follows:
+[Translation]
+I. The appellant does not have a “business” and is not an "employer" while the services rendered by Ms. Malenfant consisted of casual, temporary, purely personal and domestic services that involved caring for the appellant's child and that therefore are expressly excluded under paragraph 5(2)(a) of the Employment Insurance Act, which the respondent should have but unfortunately did not consider.
+[29] There is absolutely nothing in the evidence to support or validate the casual work status.
+[30] Work performed by the same person for the same payer, exclusively and continuously for a long time, very strongly supports the presence of a contract of service rather than a contract for services. Moreover, such a reality completely refutes or contradicts the argument of casual work.
+[31] The cheques provide validation and confirmation of the preponderance of evidence that the work was performed in accordance with the content of the job offer.
+[32] For her part, Ms. Malenfant stated that when she was hired, it was clearly agreed that the way she was paid would change at some point for essentially the same work, which consisted in caring for the child of the appellant and the father, Mr. Payette.
+[33] Although the appellant and her counsel may have a different perception of the nature of the contract at issue, the facts presented in evidence totally refute the interpretation that the work was casual and performed as part of a contract for services.
+[34] Such an interpretation would imply that the Court totally set aside Ms. Malenfant’s testimony because she lied or attempted to mislead the Court, which is not the case. Quite the opposite; her testimony was credible and very plausible.
+[35] The manner in which Ms. Malenfant testified makes her testimony highly credible. She was explicit and subjected to intense cross-examination, which failed to discredit or undermine her explanations.
+[36] She read about the job offer described in Exhibit I-1; she secured an interview following which a contract of employment was signed. She understood and accepted the requirements; she was honest about her limitations and qualifications.
+[37] She earned the confidence of the appellant, who agreed to entrust her with the care of her son, whom she took for a walk almost every day outside. Such a relationship of trust is in and of itself very special because we are not talking here of entrusting a car to a mechanic or installing a shower or painting a house.
+[38] The appellant accepted Ms. Malenfant’s qualifications and skills; she considered her mature, reliable and responsible since she entrusted her child to her. This was in no way a case of a caregiver hired for a few hours or days.
+[39] This was a contract for an indeterminate period of time that could be terminated for any number of reasons, some of which have been mentioned; I refer notably to the child's admission into a daycare. This situation cannot be likened to a teenage sitter hired for an evening or for the occasional outing.
+[40] This was a contract whose content, limits, etc. were established in a climate of complete trust, particularly since the work was to be performed in the absence of the appellant, the person who paid the remuneration. There was trust, and the appellant took it for granted that the work would be performed according to her instructions.
+[41] The appellant, by way of her counsel, argued that because she was not there when the child was being babysat, she could not exercise control over the work performed and that consequently there was no relationship of subordination. In her view, the caregiver had all the freedom, autonomy and ability to do whatever she pleased, and hence the services were non-exclusive.
+[42] The Notice of Appeal mentions that there was a mobile phone that she could use. These are irrelevant arguments. A contract of service in no way requires that the payer be present while the work is performed.
+[43] In reply to a decision involving the care of older children capable of expressing themselves, the appellant argued that the decision was not relevant because the children were old enough to talk.
+[44] At this point, I would like to make one comment: even at a very young age, a child and even a baby is able to express himself and his feelings, assuming the parents are able to read what the child is trying to say.
+[45] In this case, I will not dwell on the argument that the payer’s absence prevents her from exercising any power of control; case law has repeatedly shown that the concept of control must be assessed in terms of its power and its ability to be exercised, and that it is not essential to list situations where it was exercised. Contrary to the appellant’s assertion, the payer's physical presence during performance of the work is in no way essential.
+[46] The work provided by Ms. Malenfant was well defined and modified by the appellant for various reasons on various occasions, requiring certain adjustments by the caregiver.
+[47] She had to start at a certain time, return at a certain time for meals and medication, and take the child out, even when she did not agree with such outings.
+[48] The appellant argued that the Court should take into account civil law provisions since the contract of employment was formed in the province of Quebec.
+[49] This is a reasonable request with which I have no problem, particularly since I believe that, in this matter, both the common and civil law are consistent. In both cases, the relationship of subordination is essential and distinguishes a contract for services from a contract of service.
+[50] If there is no relationship of subordination, the contract is a contract for services whereas if there is a relationship of subordination, the contract is a contract of service, assuming that there is also performance of work and consideration, usually monetary, defined as remuneration.
+[51] On this question, I think it relevant to reproduce a long excerpt from the decision in Grimard v. Canada, 2009 CarswellNat 323, 2009 FCA 47, 2009 D.T.C. 5056 (Fr.), [2009] 6 C.T.C. 7.
+(c) Antimony between civil law and common law
+27 However, it would be wrong to believe that there is antinomy between the principles of Quebec civil law on this point and what has been referred to as common law criteria, that is to say, control, ownership of the tools, chance of profit, risk of loss, and integration of the worker into the business.
+28 I acknowledge from the outset, and this is often the case, that there is a difference in conceptualization between common law and civil law that gives rise to another difference, this time in the approach taken to characterize the nature of the contract of employment and the contract for services. The civil law approach is Cartesian and synthetic, while the common law approach is analytical.
+29 Accordingly, Quebec civil law defines the elements required for a contract of employment or for services to exist. On the other hand, common law enumerates factors or criteria which, if present, are used to determine whether such contracts exist.
+30 Among other things, article 2085 of the Code states that, for a contract of employment to exist, the work must be under the direction or control of an employer. Its equivalent for the contract for services, article 2099, requires the lack of any subordination between the contractor and the client in respect of the performance of the contract.
+31 According to the Le Nouveau Petit Robert and the Le Petit Larousse Illustré dictionaries, subordination of a person involves his or her dependence on another person or his or her submission to that person’s control. Therefore, a contract for services is characterized by a lack of control over the performance of the work. This control must not be confused with the control over quality and result. The Quebec legislator also added as part of the definition the free choice by the contractor of the means of performing the contract.
+32 A contract is concluded by the exchange of the consent of the parties to the contract. Therefore, when a contract is interpreted, articles 1425 and 1426 of the Code require that the mutual intention of the parties be determined and that a certain number of factors be considered, such as the circumstances in which it was formed.
+33 As important as it may be, the intention of the parties is not the only determining factor in characterizing a contract: see D & J Driveway Inc. v. M.N.R., 2003 FCA 453, 322 N.R. 381; Dynamex Canada Inc. v. Mamona, 2003 FCA 248, 228 D.L.R. (4th) 463. In fact, the behaviour of the parties in performing the contract must concretely reflect this mutual intention or else the contract will be characterized on the basis of actual facts and not on what the parties claim.
+34 In addition, as the Judge justly noted, third parties such as the State may have an interest in ensuring that laws establishing payroll taxes for employers and employees are complied with, whereas one or both of the parties to the contract may find it very tempting to avoid them or to benefit from tax benefits available to contractors but not to employees.
+35 By contrast, as I have already mentioned, common law has developed criteria for analyzing the relationship between the parties. However, it must not be thought that these common law criteria are of no use (or that their use should be prohibited or that such use would be heresy) in characterizing a contract of employment under Quebec civil law.
+36 In Wolf v. Canada, 2002 FCA 96, [2002] 4 F.C. 396, our colleague Mr. Justice Décary cited the following excerpt written by the late Robert P. Gagnon in his book entitled Le droit du travail du Québec, 5th ed. (Cowansville: Yvon Blais, 2003), page 67, and clarifying the content of the concept of subordination in Quebec civil law:
+[translation] Historically, the civil law first developed a so‑called strict or classical concept of legal subordination that was used as a test for the application of the principle of the civil liability of a principal for injury caused by the fault of his agents and servants in the performance of their duties (art. 1054 C.C.L.C.; art. 1463 C.C.Q.). This classical legal subordination was characterized by the immediate control exercised by the employer over the performance of the employee’s work in respect of its nature and the means of performance. Gradually, it was relaxed, giving rise to the concept of legal subordination in a broad sense. The diversification and specialization of occupations and work techniques often mean that the employer cannot realistically dictate regarding, or even directly supervise, the performance of the work. Thus, subordination has come to be equated with the power given a person, accordingly recognized as the employer, of determining the work to be done, overseeing its performance and controlling it. From the opposite perspective, an employee is a person who agrees to be integrated into the operating environment of a business so that it may receive benefit of his work. In practice, one looks for a number of indicia of supervision that may, however, vary depending on the context: compulsory attendance at a workplace, the fairly regular assignment of work, imposition of rules of conduct or behaviour, requirement of activity reports, control over the quantity or quality of the work done, and so on. Work in the home does not preclude this sort of integration into the business.
+[Emphasis added]
+37 This excerpt mentions the concept of control over the performance of work, which is also part of the common law criteria. The difference is that, in Quebec civil law, the concept of control is more than a mere criterion as it is in common law. It is an essential characteristic of a contract of employment: see D & J Driveway, supra, at paragraph 16; and 9041-6868 Québec Inc. v. M.N.R., 2005 FCA 334.
+38 However, we may also note in the excerpt from Mr. Gagnon that, in order to reach the conclusion that the legal concept of subordination or control is present in any work relationship, there must be what the author calls [translation] “indicia of supervision,” which have been called “points of reference” by our Court in Livreur Plus Inc. v. M.N.R., 2004 FCA 68, at paragraph 18; and Charbonneau v. Canada (Attorney General) (1996), 207 N.R. 299, at paragraph 3.
+…
+43 In short, in my opinion there is no antinomy between the principles of Quebec civil law and the so‑called common law criteria used to characterize the legal nature of a work relationship between two parties. In determining legal subordination, that is to say, the control over work that is required under Quebec civil law for a contract of employment to exist, a court does not err in taking into consideration as indicators of supervision the other criteria used under the common law, that is to say, the ownership of the tools, the chance of profit, the risk of loss, and integration into the business.
+[52] The appellant argues that when the legal relationship was created, the purpose of which was to perform childcare work, the parties clearly expressed their wishes and intention. At the beginning of the hearing, I thought it relevant to make certain observations in this regard given the importance placed on this aspect in the Notice of Appeal.
+[53] On this matter, the Honourable Justice Letourneau of the Federal Court of Appeal stated the following in D & J Driveway Inc. v. M.R.N., 2003 FCA 453:
+1 The Court once again has to consider the difficult and elusive question of the insurability of employment. As is often the case, the question arises in a situation where the parties' intention is not set down in writing, and where it has not been determined, or was not the subject of questions to witnesses, at the hearing in the Tax Court of Canada.
+2 It should be noted at the outset that the parties' stipulation as to the nature of their contractual relations is not necessarily conclusive and the Court which has to consider this matter may arrive at a contrary conclusion based on the evidence presented to it: Dynamex Canada Inc. v. Canada, [2003] 305 N.R. 295 (F.C.A.). However, that stipulation or an examination of the parties on the point may prove to be a helpful tool in interpreting the nature of the contract concluded between the participants.
+[54] In the case at bar, what was defined as clear and precise by appellant's counsel, who was not present when the agreement was reached and who did not deem it fit and appropriate to draw up a precise, specific contract when he was the one who placed the order with Emploi-Québec (Exhibit I-1), is far from being as clear for the person who performed the work at issue; despite the appellant’s claims, expressed by her counsel, the caregiver was unable to sufficiently understand to give informed consent. And this is especially so given that her understanding was clearly different from the appellant’s. The facts revealed by the evidence have clearly demonstrated that the understanding, perception and interpretation of the caregiver were in fact correct.
+[55] There again, the terms and conditions of the work had to be consistent with the spirit and letter of this purported agreement, which does not appear in the evidence at all. Based on the evidence, one cannot make such a statement or draw such conclusions.
+[56] The appellant's claim that this was essentially casual work has not been borne out in any way by the facts. Such an interpretation is not consistent with the description in the ad seeking to recruit a person to perform the work.
+[57] I reiterate that the order or job offer was made at the initiative of Mr. Payette himself, according to his own testimony.
+[58] I do not question Mr. Payette’s ability to express or formulate the appellant’s expectations. I also reiterate that Mr. Payette was involved in the selection process in that he planned the meetings, which he, however, did not attend. He also did not prepare any document or instrument attesting to the will of the parties, which would have theoretically made it clear to the caregiver; moreover, such an instrument would have most certainly prompted a reaction from the caregiver.
+[59] As such, to resolve the issue as to whether this was casual work, the Court has the long specific, credible testimony of Ms. Malenfant and the Notice of Appeal of the appellant, who did not see fit to testify.
+[60] I accept the version and facts submitted by the caregiver and conclude that this was not casual work, but a contract of an indeterminate period.
+[61] Lastly, the appellant argues that the evidence has shown that there was an absence of control or inability to exercise any control whatsoever.
+[62] I will not dwell on the test established by common law, namely ownership of the tools, risk of loss, chance of profit and integration.
+[63] According to civil law, the three essential conditions for the presence of a contract of service are as follows:
+(1) Remuneration
+(2) Prestation of work
+(3) Relationship of subordination
+In the case at bar, the three essential elements are present. There is no doubt as to the remuneration and prestation of work; the only controversy is in terms of the relationship of subordination. In this regard, the preponderance of evidence is that such a relationship of subordination did exist. The fact is that the person who provides the work is subject to the authority or power of control of the payer of the remuneration.
+[64] This is first and foremost a factual question where the facts established by the evidence have overwhelmingly shown that the caregiver was subject to the authority of the appellant, who had full ability to dictate how the caregiver was to treat the child. The caregiver did not have the ability to refuse to follow the appellant’s instructions since doing so would result in dismissal.
+[65] For these reasons, the appeal must be dismissed and the merits of the original determination giving rise to the appeal are confirmed.
+Signed at Ottawa, Canada, this 30th day of May 2012.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 12th day of July 2012
+Monica F. Chamberlain, Reviser
+CITATION: 2012TCC149
+COURT FILE NO.: 2010-3907(EI)
+STYLE OF CAUSE: SYLVIE MORIN AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: February 6, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: May 30, 2012
+APPEARANCES:
+Counsel for the appellant:
+Daniel Payette
+Counsel for the respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Name: Daniel Payette
+Firm: Cabinet Payette
+Lévis, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

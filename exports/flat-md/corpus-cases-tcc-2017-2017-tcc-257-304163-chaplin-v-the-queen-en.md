@@ -1,0 +1,167 @@
+---
+title: "Chaplin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/304163/index.do"
+last_modified: "2017-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 257"
+citation2: ""
+neutral_citation: "2017 TCC 257"
+decision_date: "2017-12-22"
+language: "en"
+item_id: "304163"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7947
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:03:07.709000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fcc43687f22c4585270756d99ca1492ac6a1237eaf09327f865caa4c56f72115"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chaplin v. The Queen
+
+- Citation: 2017 TCC 257
+- Decision date: 2017-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7947, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chaplin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-12-22
+Neutral citation
+2017 TCC 257
+File numbers
+2014-3670(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3670(IT)G
+BETWEEN:
+JAN CHAPLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+The Honourable Justice David E. Graham
+ORDER
+Costs are awarded to Jan Chaplin in accordance with Schedule II, Tariff B of the Tax Court of Canada Rules (General Procedure) for a Class C proceeding. In the calculation of such costs, Ms. Chaplin will only be entitled to costs in respect of one day of trial with one counsel and will not be entitled to costs for services after judgment.
+Costs of $900 are awarded to the Respondent in respect of all services after judgment, including submissions on costs. Such amount shall be offset against the costs owing by the Respondent to Ms. Chaplin.
+The Respondent shall reimburse Ms. Chaplin for disbursements of $1,664.23, including HST.
+Signed at Ottawa, Canada, this 22nd day of December 2017.
+“David E. Graham”
+Graham J.
+Citation: 2017 TCC 257
+Date: 20171222
+Docket: 2014-3670(IT)G
+BETWEEN:
+JAN CHAPLIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] In my Judgment dated September 27, 2017, I allowed Jan Chaplin’s appeal with costs to Ms. Chaplin. I provided the parties with time to reach an agreement on costs, failing which the parties were to make written submissions regarding costs. The parties were unable to reach an agreement and have now made written submissions.
+[2] The Respondent is requesting that each party bear its own costs or, in the alternative, that costs be awarded to Ms. Chaplin in accordance with Schedule II, Tariff B of the Tax Court of Canada Rules (General Procedure) for a Class C proceeding.
+[3] Ms. Chaplin is requesting lump sum costs, including disbursements, of $30,000 plus HST. This amount is equal to approximately two and a half times the Tariff, plus disbursements.
+[4] Subsection 147(3) of the Tax Court of Canada Rules (General Procedure) sets out the following factors that the Court may consider in awarding costs:
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+. . .
+(j) any other matter relevant to the question of costs.
+Result of the Proceeding [5] Ms. Chaplin was entirely successful in her appeal. That success is what justifies an award of costs in the first place.
+[6] In other circumstances, complete success might justify increased costs. However, in this case Ms. Chaplin succeeded in the appeal in spite of her arguments, not because of them. Her position had no merit. It was only through deciphering the actual facts that I arrived at the conclusion that I did. In the circumstances, awarding increased costs seems inappropriate.
+Amount in Issue [7] The amount in issue was $163,898. While that amount was no doubt significant to Ms. Chaplin, it was not an overly significant amount of money. Accordingly, I give little weight to this factor.
+Importance of the Issues [8] The ultimate basis upon which the appeal was decided involved an issue under subsection 15(1) that had not previously been decided. The decision on that issue will have precedential value and may be of interest to other taxpayers. That said, Ms. Chaplin’s submissions were focused on different issues. I am not inclined to reward Ms. Chaplin through costs for the fact that the law was advanced through efforts other than her own.
+Settlement Offers [9] A few weeks before trial, Ms. Chaplin made an offer to the Respondent whereby Ms. Chaplin would not seek costs if the Respondent reversed the reassessment. The offer did not comply with subsections 147(3.1) and (3.3) of the Rules.
+[10] While settlement offers are an important factor in determining costs awards, I give little weight to Ms. Chaplin’s settlement offer. Ms. Chaplin’s offer was little more than an invitation for the Respondent to walk away. The basis upon which Ms. Chaplin was offering to settle bore no relationship to the basis upon which the appeal was decided. The only thing that was the same was the fact that there was no addition to Ms. Chaplin’s income. My view would likely have been different if the settlement offer had explained that the Respondent should walk away for a reason that was appropriately connected with the factual and legal basis upon which the appeal was ultimately decided.
+Volume of Work [11] The amount of work involved in this appeal was not significant. I am not giving any weight to this factor.
+Complexity of the Issues [12] The issues in the appeal were not complex. I am not giving any weight to this factor.
+Conduct Affecting the Duration of the Proceeding [13] I give significant weight to this factor.
+[14] Ms. Chaplin took the position that the legal expenses in question were not incurred for her benefit. The bulk of Ms. Chaplin’s evidence and submissions focused on attempts to support this position. There was no merit to this position. Ms. Chaplin should have admitted that the legal expenses were incurred for her own benefit. Had she admitted this fact and focused on the question of whether she had received a benefit from the false bookkeeping entry, the trial would have proceeded much more efficiently. In my view, the trial could have been completed in less than a day. It could have been based entirely on an agreed statement of facts and could have focused exclusively on the legal issue upon which the appeal was ultimately decided. Instead it took two days and involved three witnesses and numerous documents.
+[15] Ms. Chaplin argues that she had to introduce evidence to counter incorrect assumptions of fact made by the Minister of National Revenue. This argument would have merit if Ms. Chaplin had chosen to respond to those assumptions of fact by telling the truth.
+[16] Ms. Chaplin also submits that the Respondent pursued arguments that ultimately turned out not to have merit. The Minister assessed on the basis of a false bookkeeping entry that Ms. Chaplin had directed to be made. Ms. Chaplin was unwavering in her position that the bookkeeping entry was accurate. The Minister correctly doubted her story. It is a bit much for Ms. Chaplin to argue that the Minister should have done a better job of determining exactly how Ms. Chaplin was misleading her.
+Denial or Refusal to Admit [17] Ms. Chaplin’s refusal to admit that the legal fees were incurred for her benefit undoubtedly affected the duration of the proceeding. That said, it would be unfair to consider this same fact twice so I give no weight to this factor.
+Improper, Vexatious or Unnecessary Stages [18] There was no evidence that would suggest that any stage in the proceeding was improper, vexatious or unnecessary.
+Stages Taken Through Negligence, Mistake or Excessive Caution [19] There was no evidence that would suggest that any stage in the proceeding was taken through negligence, mistake or excessive caution.
+Other Relevant Matters [20] I am not aware of any other matters relevant to the determination of costs.
+Conclusion [21] Ms. Chaplin has asked for costs calculated at two and a half times the Tariff. The Respondent submits that Ms. Chaplin should not be awarded any costs.
+[22] Ms. Chaplin’s success entitles her to some level of costs. However, her actions, both in misleading the Court and in wasting time at trial, compel me to award only a minimal level of costs. In the circumstances, I believe that Tariff costs with adjustments to reflect the time that Ms. Chaplin wasted reflect such a minimum level of compensation. Tariff costs are in no way reflective of the actual cost of litigation.
+[23] Based on all of the foregoing, costs are awarded to Ms. Chaplin in accordance with Schedule II, Tariff B of the Tax Court of Canada Rules (General Procedure) for a Class C proceeding. In the calculation of such costs, Ms. Chaplin will only be entitled to costs in respect of one day of trial and in respect of one counsel.
+Disbursements [24] Ms. Chaplin’s list of disbursements includes just under $2,000 in photocopy charges. Approximately half of those charges are supported by third party invoices. The balance of the charges were for copies made by Ms. Chaplin’s counsel. Counsel did not track the number of in-house photocopies that were made in the course of the litigation. Counsel explains that it is impractical for a small firm to do so. As a result, counsel explains, Ms. Chaplin was charged “a very reasonable estimate on the disbursements of day-to-day printing, photocopying, and postage incurred”. I am not prepared to allow disbursements for in-house photocopies without evidence of the number of copies that were made.
+[25] Much of the external photocopying that occurred would have related to the meritless position that Ms. Chaplin pursued. I am not prepared to compensate Ms. Chaplin for disbursements that she expended needlessly. Since I have found that at least half of the time at trial was unnecessary, I will allow half of the external photocopies.
+[26] The trial occurred in Hamilton. Ms. Chaplin’s counsel is based in Toronto. Had Ms. Chaplin abandoned her meritless position, the trial could have been completed in less than a day and counsel would only have had to incur disbursements for one night of accommodation in Hamilton instead of two nights. In the circumstances, the amount allowed for accommodation shall be 50% of the amount claimed.
+[27] I am unwilling to allow disbursements in respect of witnesses that were either not called to testify or whose testimony was focused on defending Ms. Chaplin’s meritless position. As a result, Ms. Chaplin will not be allowed any disbursements for witness fees, for the service of subpoenas or for witness locator fees.[1]
+[28] The disbursements claimed by Ms. Chaplin included a disbursement for outside tax counsel. Allowing such an amount as a disbursement would defeat the purpose of awarding costs pursuant to the Tariff.
+[29] Based on all of the foregoing, I will allow disbursements of $1,664.23, including HST.
+Costs in Respect of Submissions on Costs [30] The parties should have been able to resolve the issue of costs without having to resort to the Court. Ms. Chaplin does not appear to have given appropriate consideration to the comments that I made in respect of costs in my reasons for judgment or to have recognized that her success at trial had nothing to do with the position she advanced.
+[31] The position taken by the Respondent in respect of costs was not unreasonable and the alternative position was generous. I am confident that, had Ms. Chaplin recognized the weakness of her position, the parties could have reached a settlement on costs that would not have been dissimilar to the award I have ordered.
+[32] As a result, I find that Ms. Chaplin is not entitled to costs for services after judgment. Instead, I award cost of $900 (being double the Tariff) to the Respondent for all services after judgment, including submissions in respect of costs. Such amount shall be offset against the costs owing by the Respondent to Ms. Chaplin.
+Signed at Ottawa, Canada, this 22nd day of December 2017.
+“David E. Graham”
+Graham J.
+CITATION:
+2017 TCC 257
+COURT FILE NO.:
+2014-3670(IT)G
+STYLE OF CAUSE:
+JAN CHAPLIN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATES OF HEARING:
+May 16 and 17, 2017
+REASONS FOR ORDER BY:
+The Honourable Justice David Graham
+DATE OF ORDER:
+December 22, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Duane R. Milot
+Igor Kastelyanets
+Counsel for the Respondent:
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Duane R. Milot
+Igor Kastelyanets
+Firm:
+Milot Law
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I note that witness locator fees were erroneously described as corporate search fees on Ms. Chaplin’s list of disbursements.

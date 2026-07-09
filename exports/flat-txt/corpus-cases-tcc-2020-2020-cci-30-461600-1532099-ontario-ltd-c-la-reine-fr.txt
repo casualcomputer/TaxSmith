@@ -1,0 +1,144 @@
+Title: 1532099 Ontario Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/461600/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-30-461600-1532099-ontario-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-02-13
+
+# 1532099 Ontario Ltd. c. La Reine
+
+- Citation: 2020 CCI 30
+- Decision date: 2020-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4266, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1532099 Ontario Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-02-13
+Référence neutre
+2020 CCI 30
+Numéro de dossier
+2018-2756(GST)G
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-2756(GST)G
+ENTRE :
+1532099 ONTARIO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête jugée sur le fondement d’observations écrites
+par l’honorable juge Susan Wong
+Parties :
+Représentant de l’appelante :
+Motlagh Shirazi
+Avocate de l’intimée :
+Me Cherylyn Dickson
+ORDONNANCE
+Vu la requête présentée par l’appelante en autorisation d’être représentée par son seul administrateur et dirigeant, Motlagh Shirazi, dans le présent appel;
+Et après examen de l’avis de requête, de l’affidavit et des documents à l’appui présentés par l’appelante, et des observations écrites de l’intimée;
+LA COUR ORDONNE :
+La requête est rejetée pour les motifs suivants :
+a)la date à laquelle l’intimée doit déposer et signifier ses observations écrites concernant la présente requête est fixée au 4 février 2020;
+b)l’appelante doit retenir les services d’un avocat pour la représenter dans le présent appel;
+c)un avis de nomination du nouvel avocat doit être déposé avant la fermeture des bureaux trois mois après le prononcé de la présente ordonnance;
+d)la requête conjointe présentée par les parties le 10 octobre 2019 en modification de l’ordonnance fixant les échéanciers sera mise en suspens jusqu’à ce qu’un nouvel avocat soit nommé;
+e)les dépens suivront l’issue de l’affaire.
+Signé à Ottawa, Canada, ce 13e jour de février 2020.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 13e jour de juillet 2022.
+François Brunet, réviseur
+Référence : 2020 CCI 30
+Date : 20200213
+Dossier : 2018-2756(GST)G
+ENTRE :
+1532099 ONTARIO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Wong
+Introduction [1] L’appelante dans la présente instance introduite sous le régime de la procédure générale dépose une requête en autorisation d’être représentée par son seul administrateur et dirigeant, Motlagh Shirazi, dans le présent appel. L’intimée s’oppose à la requête de l’appelante.
+[2] La somme litigieuse s’élève à 165 231,22 $, soit un impôt net de 132 184,96 $ et des pénalités de 33 046,26 $. Aucun choix n’ayant encore été fait aux termes de l’alinéa 18.3001c) de la Loi sur la Cour canadienne de l’impôt (la Loi), le présent appel est entendu selon la procédure générale.
+[3] Les questions faisant l’objet du présent appel concernent des sommes de TPS/TVH non déclarées, des crédits de taxes sur les intrants refusés, et des pénalités pour faute lourde pour les périodes de déclaration allant du 1er juillet 2013 au 31 mars 2016.
+[4] L’avis de requête de l’appelante, avec ses documents à l’appui, a été déposé le 24 décembre 2019 et présenté le même jour. Aucune date d’audience n’a été obtenue du greffe avant le dépôt de la requête, comme l’exige l’article 66 des Règles de la Cour canadienne de l’impôt (procédure générale) (les Règles). Comme les parties ont toutes deux déposé des observations écrites, la requête de l’appelante sera traitée comme une requête tranchée sur la base des observations écrites aux termes de l’article 69 des Règles.
+Cadre législatif [5] Les dispositions pertinentes sont le paragraphe 17.1(1) de la Loi et le paragraphe 30(2) des Règles, qui sont ainsi libellés :
+17.1 (1) Les parties à une procédure peuvent comparaître en personne ou être représentées par avocat; dans ce dernier cas, toutefois, seules les personnes visées au paragraphe (2) peuvent agir à titre d’avocat.
+30. (2) La partie à une instance qui n’est pas une personne physique se fait représenter par un avocat, sauf avec l’autorisation de la Cour et sous réserve des conditions que celle-ci fixe.
+Faits [6] L’avis d’appel a été déposé le 30 juillet 2018, date à laquelle l’appelante était représentée par un avocat.
+[7] Une ordonnance fixant les échéanciers a été délivrée par notre Cour le 10 mai 2019 et des listes de documents ont été déposées par les deux parties le 31 juillet 2019. Le 10 octobre 2019, les parties ont présenté une demande conjointe par écrit pour obtenir une modification de l’ordonnance fixant les échéanciers (laquelle n’a pas encore été traitée). L’appelante était représentée par le même avocat durant toutes les étapes de l’instance.
+[8] Le 28 octobre 2019, l’avocat de l’appelante a signifié un avis d’intention de cesser d’intervenir à titre d’avocat de l’appelante. Une preuve de signification a été déposée à la Cour le même jour.
+[9] L’appelante a par la suite déposé la présente requête.
+Discussion A. Selon la jurisprudence Masa Sushi [10] Les points de vue diffèrent quant à la question de savoir si une société peut être représentée par une personne autre qu’un avocat dans une instance se déroulant sous le régime de la procédure générale.
+[11] À cette fin, j’ai examiné la jurisprudence de notre Cour : Masa Sushi Japanese Restaurant Inc. c. La Reine, 2017 CCI 239 et 2018 CCI 98, Suchocki Accounting Ltd. c. La Reine, 2018 CCI 88, Sutlej Foods Inc. c. La Reine, 2019 CCI 20, et BCS Group Business Services Inc. c. La Reine, 2018 CCI 120; je crois comprendre que ce dernier jugement fait présentement l’objet d’un appel.
+[12] J’ai également examiné le contexte législatif du paragraphe 17.1(1) de la Loi et le paragraphe 30(2) des Règles. Ce contexte est résumé aux paragraphes 18 à 21 de la décision Masa Sushi de 2017.
+[13] En ce qui concerne le paragraphe 17.1(1) de la Loi, j’ajouterais que la première et unique itération de cette disposition est entrée en vigueur en 1988 conformément à l’article 5 de la Loi sur les Lois révisées du Canada (1985), ch. 51 (4e suppl.).
+[14] J’ajouterais également que lorsque la version actuelle du paragraphe 30(2) des Règles a été adoptée en 2007, le Résumé de l’étude d’impact de la réglementation paru dans la Gazette du Canada, partie II, vol. 141, no 13 indiquait ce qui suit :
+L’article 30 des Règles est modifié afin de préciser que la partie à une instance qui n’est pas une personne physique (p. ex. une société), doit se fait représenter par un avocat, sauf avec l’autorisation de la Cour et sous réserve des conditions que celle-ci fixe.
+[15] Je retiens l’analyse de notre Cour aux paragraphes 22 à 27 de la décision Masa Sushi de 2017 : le paragraphe 17.1(1) de la Loi ne permet pas aux personnes morales de comparaître en personne.
+[16] En ce qui concerne le paragraphe 30(2) des Règles, il semble que le législateur ait eu à l’esprit les situations mettant en cause des personnes morales et de préciser qui pouvait les représenter. Toutefois, il n’y a aucune indication d’une intention similaire du législateur en ce qui concerne le paragraphe 17.1(1) de la Loi.
+[17] Je ne peux interpréter le paragraphe 17.1(1) de la Loi comme permettant implicitement qu’une personne morale comparaisse en personne, comme toute personne physique, sans indication expresse en ce sens. Plus précisément, je retiens l’observation de notre Cour au paragraphe 25 de la décision Masa Sushi : il faudrait probablement modifier le paragraphe 17.1(1) de la Loi. Il est probable que les modifications apportées au paragraphe 30(2) visaient à combler cette lacune législative.
+[18] Par conséquent, comme il est observé au paragraphe 42 de la décision Masa Sushi, je conclus moi aussi que l’appelante doit être représentée par un avocat.
+B. Selon les facteurs consacrés par la common law [19] Si mon analyse qui précède est inexacte, je conclurais quand même que l’appelante doit être représentée par un avocat après avoir examiné la liste non exhaustive des facteurs à prendre en considération pour appliquer le paragraphe 30(2) des Règles, énoncés dans la décision WJZ Enterprises c. La Reine, 2017 CCI 57, au paragraphe 5 :
+a)La société a-t-elle dûment autorisé le représentant proposé à intervenir en son nom? L’acte de procédure indique que M. Shirazi est l’unique administrateur et dirigeant de la société, et son affidavit souscrit le 23 décembre 2019 indique qu’il est également le seul actionnaire. Par conséquent, il semble que la question de l’autoriser ou non à représenter l’appelante est relativement simple à trancher.
+b)Y a-t-il un lien entre le représentant proposé et la société? L’acte de procédure et l’affidavit de M. Shirazi indiquent qu’il est l’unique administrateur, dirigeant et actionnaire de l’appelante; la présente demande ne constitue donc pas un moyen détourné de retenir les services d’un représentant qui n’est pas un avocat et qui n’a aucun lien avec l’appelante.
+c)La société peut-elle payer les honoraires d’un avocat? Les documents de requête de l’appelante comprennent la copie d’une lettre datée du 28 octobre 2019 envoyée à l’appelante par son ancien avocat, dans laquelle il informe l’appelante qu’elle lui doit des honoraires impayés s’élevant à 1 928,30 $. Autrement, les éléments de preuve ne comprennent aucun renseignement sur la situation financière de l’appelante.
+d)Le représentant proposé devra-t-il comparaître en tant qu’avocat et en tant que témoin? Comme il est l’unique administrateur et dirigeant de l’appelante, il est probable que M. Shirazi devra comparaître à la fois comme avocat et comme témoin.
+e)Le représentant proposé est-il, dans une mesure raisonnable, capable de représenter adéquatement la société? Autrement dit, est-il capable de comprendre les points en litige, de présenter adéquatement les éléments de preuve et les arguments de droit? Je pense que M. Shirazi pourrait être suffisamment qualifié pour négocier un possible règlement du présent appel avant l’audience, avec l’aide d’un comptable professionnel. Toutefois, je ne crois pas qu’il serait en mesure de représenter l’appelante pour ce qui est de présenter adéquatement les éléments de preuve et les arguments de droit.
+f)Dans le cas d’une petite société unipersonnelle, la Cour est davantage portée à autoriser l’intervention d’un représentant. L’appelante semble être une société unipersonnelle.
+[20] Le paragraphe 13 de la réponse à l’avis d’appel présentée par l’intimée montre que le ministre du Revenu national a utilisé une méthode indirecte pour calculer les ventes de l’appelante. Il est également allégué que l’appelante ne possédait pas de livres et registres appropriés, et que les fonds de l’appelante et de M. Shirazi s’entremêlaient. Dans la lettre du 28 octobre 2019 envoyée à l’appelante par son ancien avocat, il est fait référence à des problèmes de communication avec l’appelante.
+[21] En ce qui concerne le facteur (e) ci-dessus, je crois qu’il serait particulièrement difficile pour M. Shirazi à réunir les preuves dont il a besoin, compte tenu de la méthode de vérification indirecte employée (p. ex., avoir net, analyse des dépôts bancaires), et à argumenter le droit touchant la TPS/TVH, les crédits de taxes sur les intrants, et la faute lourde.
+Conclusion [22] La requête est rejetée pour les motifs suivants :
+a)la date à laquelle l’intimée doit déposer et signifier ses observations écrites concernant la présente requête est fixée au 4 février 2020;
+b)l’appelante doit retenir les services d’un avocat pour la représenter dans le présent appel;
+c)un avis de nomination pour le nouvel avocat doit être déposé avant la fermeture des bureaux trois mois après le prononcé de la présente ordonnance;
+d)la requête conjointe présentée par les parties le 10 octobre 2019 pour faire modifier l’ordonnance fixant les échéanciers sera mise en suspens jusqu’à ce qu’un nouvel avocat soit nommé;
+e)les dépens suivront l’issue de l’affaire.
+Signé à Ottawa, Canada, ce 13e jour de février 2020.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 13e jour de juillet 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2020 CCI 30
+NO DU DOSSIER DE LA COUR :
+2018-2756(GST)G
+INTITULÉ :
+1532099 ONTARIO LTD. c. LA REINE
+LIEU DE L’AUDIENCE :
+S.O.
+DATE DE L’AUDIENCE :
+S.O.
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Susan Wong
+DATE DE L’ORDONNANCE :
+Le 13 février 2020
+COMPARUTIONS :
+Représentant de l’appelante :
+Motlagh Shirazi
+Avocate de l’intimée :
+Me Cherylyn Dickson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin Sous-procureure générale du Canada Ottawa, Canada

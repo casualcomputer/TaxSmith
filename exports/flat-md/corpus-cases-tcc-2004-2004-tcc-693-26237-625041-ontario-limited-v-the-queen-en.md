@@ -1,0 +1,269 @@
+---
+title: "625041 Ontario Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26237/index.do"
+last_modified: "2004-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 693"
+citation2: ""
+neutral_citation: "2004 TCC 693"
+decision_date: "2004-10-15"
+language: "en"
+item_id: "26237"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4034
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:55:16.328000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1cdb8b9745b10bed1af5597c43e15c3ad555837d3ff206a9e620a74497147d71"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 625041 Ontario Limited v. The Queen
+
+- Citation: 2004 TCC 693
+- Decision date: 2004-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4034, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+625041 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-15
+Neutral citation
+2004 TCC 693
+File numbers
+2002-2902(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2902(IT)G
+BETWEEN:
+625041 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 15 and August 18, 2004 in London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Christian F. Specht
+Counsel for the Respondent:
+Carole Benoit
+JUDGMENT
+The appeal in respect of the reassessment made under the Income Tax Act for the 1997 taxation year is dismissed.
+Costs are awarded to the respondent.
+Signed at Ottawa, Canada this 15th day of October, 2004.
+"J.M. Woods"
+Woods J.
+Citation: 2004TCC693
+Date: 20041015
+Docket: 2002-2902(IT)G
+BETWEEN:
+625041 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] 625041 Ontario Ltd. is a closely-held real estate corporation based in London, Ontario. It appeals an income tax reassessment that disallowed its claim to a small business deduction of $31,406 for the 1997 taxation year. The main issue is whether the appellant employed more than five full-time employees throughout the year.
+[2] 625041 Ontario has owned and managed real estate in London since 1985. In its financial statements for the relevant period, June 1, 1996 to May 31, 1997, its gross income was reported to consist of (1) rents and common area charges in the amount of $557,865, (2) management fees in the amount of $20,000, and (3) interest in the amount of $926. During this time the corporation owned or managed 10 to 13 rental properties with about 55 commercial and residential units in total. The president of the corporation was Peter Stavrou and the corporation employed several members of the Stavrou family.
+[3] Peter Stavrou testified that the business was very active and required the full-time participation of the family members, all working more than 40 hours per week. He was the president of the corporation and oversaw the operations. His daughter Alexandra was responsible for the administrative side of the business and worked out of the corporation's office located in the basement of Peter Stavrou's home where Alexandra also lived. Peter Stavrou's wife, Bessy, acted as an assistant, helping out in the office, running errands and accompanying her husband to inspect properties. Peter Stavrou's sons, Tom and Tim, did the physical labour involving the repair, maintenance and construction of buildings, and Tom's wife, Noula, assisted her husband doing cleaning, painting and other lighter construction work.
+[4] In order for rental income to be considered active business income for purposes of the small business deduction, the business must not be a "specified investment business." This is defined in subsection 125(7) as follows:
+"specified investment business" carried on by a corporation in a taxation year means a business ... the principal purpose of which is to derive income (including interest, dividends, rents and royalties) from property but, ..., does not include a business carried on by the corporation in the year where
+(a) the corporation employs in the business throughout the year more than 5 full-time employees ...
+[5] 625041 Ontario submits that its business does not constitute a "specified investment business" because it employed six persons on a full-time basis throughout the 1997 taxation year - Peter Stavrou, his wife Bessy, his three children, Tom, Tim and Alexandra, and his daughter-in-law, Noula.
+[6] Counsel for the Crown stated at the outset of the hearing that she had doubts whether Noula, Tim or Bessy Stavrou worked on a full-time basis throughout the year but, after hearing the testimony of the family members, she decided to restrict her argument to Noula and Tim Stavrou only. I will accordingly restrict my findings to these two individuals.
+[7] The parties are in agreement that 625041 Ontario has the burden of proof with respect to Tim Stavrou's employment but that the Crown has the burden with respect to Noula Stavrou's employment because this was not a basis on which the assessment was made.
+[8] In addition to this main issue, counsel for the appellant raised a secondary issue concerning the interpretation of "specified investment business" and argued that a specified investment business should not include a business that is as active as that carried on by 625041 Ontario even if its main source of income is rents and it does not employ more than five full-time employees. The basis for the argument, as I understand it, is the reference to "income from property" in the definition of "specified investment business." It was suggested that since an active business does not generate "income from property," an active rental business is not intended to be denied the small business deduction. Counsel did not press the argument, however, noting that the case law was against it. The Federal Court of Appeal disposed of this issue in Lerric Investments Corp. v. The Queen, 2001 D.T.C. 5169 and it is not necessary that I consider it further.
+[9] I turn now to the evidence concerning the employment of Tim and Noula Stavrou. The Crown's case depends to a great extent on their remuneration as evidenced by T4 slips and copies of pay cheques.
+[10] The following chart sets out the gross remuneration reported on T4 slips for the family members for the calendar years 1996 and 1997.
+Gross Remuneration on T4 Slips
+1996
+1997
+Peter Stavrou
+$16,000
+$24,000
+Bessy Stavrou
+24,000
+24,000
+Alexandra Stavrou
+24,000
+32,760
+Tom Stavrou
+20,472
+29,259
+Noula Stavrou
+12,344
+20,898
+Tim Stavrou
+3,750
+10,355
+[11] The remuneration cheques for the family members for the relevant period, June 1, 1996 to May 31, 1997, that were introduced into evidence are summarized in the following chart.
+SUMMARY OF CHEQUES
+Date of cheque
+Tim
+Noula
+Peter
+Bessy
+Tom
+Alexandra
+June, 1996*
+$795
+$1,581
+$1,581
+$1,160
+$1,581
+July
+732
+1,581
+1,581
+1,086
+1,581
+August
+944
+1,581
+1,581
+1,290
+1,581
+September
+1,020
+1,590
+1,590
+1,447
+1,590
+October
+733
+1,095
+November
+1,014
+1,590
+1,360
+1,590
+December
+$1,502
+1,041
+1,590
+1,447
+1,590
+January, 1997
+1,502
+944
+1,590
+1,295
+1,590
+February
+573
+1,600
+1,600
+872
+1,600
+March
+1,511
+1,045
+1,600
+1,600
+1,456
+1,600
+April
+1,511
+872
+1,600
+1,600
+1,236
+1,600
+May
+1,110
+1,600
+1,600
+1,456
+1,600
+June
+872
+1,600
+1,600
+1,136
+1,600
+* This month is outside the relevant taxation year because the June cheque corresponds with services rendered in May.
+[12] Alexandra Stavrou assembled these cheques at the request of the Crown and they appear to be relatively complete. Except for remuneration paid to Peter and Tim Stavrou, the remuneration was consistently paid in the first few days of the month following the month in which services were rendered. Peter Stavrou did not receive any remuneration near the end of 1996 for tax-planning reasons.
+[13] The only evidence that supported the appellant's position that Tim and Noula Stavrou were employed on a full-time basis throughout the 1997 taxation year was self-interested testimony by the family members and documents prepared in the course of the appeal process. All of the family members testified at the hearing, four of them being called by the Crown. With few exceptions, the family members' testimony was evasive and unconvincing. In general, they testified to having little knowledge or recollection about their remuneration. Peter Stavrou managed the business and set the remuneration and his recollections were particularly vague.
+[14] Based on the evidence as a whole, I find that Tim Stavrou was not employed by the appellant throughout the 1997 taxation year and that Noula Stavrou was employed only on a part-time basis during the 1997 taxation year. My reasons are as follows.
+[15] I will consider Tim Stavrou's employment first. He earned $3,750 in 1996 and $10,355 in 1997. Tim Stavrou and his father testified that Tim worked on a full-time basis for 11 months in the 1997 taxation year, with one month off (May 1997) for surgery.
+[16] There are only four remuneration cheques in evidence for the relevant period, each for just over $1,500. If those cheques represented remuneration for the prior month's services, they would be evidence of employment only for the months of November, December, February and March.
+[17] As for the months of June, July and August, 1996, Peter and Tim Stavrou testified that Tim agreed to work these three months on a full-time basis without pay in return only for the use of an apartment and meals at the family home. They referred to this as a "probationary period," presumably meaning that it was to be temporary. Several months earlier, Peter Stavrou discovered that his son had a prescription drug addiction. Tim was not living in London and did not work for 625041 Ontario in the first part of 1996. Sometime around April, according to the testimony, Tim agreed to work full-time without monetary remuneration because his father did not trust him with cash.
+[18] There are several difficulties with this story, not the least of which is that it is improbable that the son would work full-time essentially for room and board.1 There was no explanation why his father did not withhold the funds and pay him later. There were also very few details concerning the arrangement and what details were provided were vague and at times contradictory. For example, the witnesses indicated that the "probation" was to be a three month arrangement but that it started in April, implying that it lasted more than four months.
+[19] Another difficulty is that this story was mentioned to the Canada Revenue Agency for the first time only at the objection stage - it appears that there was no mention of it at the audit stage. No satisfactory explanation was given why this was so.
+[20] In addition, there is little evidence that the apartment was intended as remuneration. Tom and Noula Stavrou also lived in an apartment owned by the appellant for a period of time and Alexandra lived with her parents. Accordingly Tim's use of an apartment was likely no more of a benefit than other family members received from time to time.
+[21] As for the months of September and October, 1996, Peter and Tim Stavrou testified that Tim worked on a full-time basis during these months and received remuneration in the form of one cheque for $1,502 that was received early in December. There was no explanation why the remuneration was so low, less than Tom Stavrou earned for doing the same type of work and less than Noula Stavrou was paid for simply assisting her husband with lighter work. There was also no explanation why the remuneration was delayed and why there was one cheque issued for two months work when the rest of the family were paid regularly every month. In my opinion, there is not sufficient evidence to establish that Tim Stavrou was employed during September and October.
+[22] As for January and April, 1997, I also find that there is insufficient evidence that Tim Stavrou was employed during these months. The T4 slip for 1997 indicates that Tim Stavrou was paid a total of approximately $10,000 in 1997. The testimony by Peter and Tim Stavrou suggested that he was paid for ten months, all but May and December. Again, it seems unlikely that Tim Stavrou would have been paid such a low amount considering what Tom and Noula Stavrou were paid. Accordingly, I find that Tim Stavrou worked less than 10 months during 1997 and there is no credible evidence as to which months he did work.
+[23] As a result, I find that the evidence falls far short of establishing that Tim Stavrou was employed throughout the 1997 taxation year.
+[24] As for Noula Stavrou, I find the testimony that she worked over 40 hours per week on a regular basis unconvincing. I would conclude that she was employed only on a part-time basis during the 1997 taxation year. This conclusion is based on the low amount of remuneration received for some months in the relevant period, for which there was no satisfactory explanation.
+[25] Unlike the remuneration paid to Peter, Bessy and Alexandra Stavrou for administrative work, the remuneration paid for labour to Tom, Noula and Tim Stavrou varied on a monthly basis. (Tim Stavrou's cheques don't show this but Alexandra Stavrou testified to this.) Where remuneration for construction labour varies, it often reflects an hourly wage. In Noula Stavrou's case, the cheques ranged from $573 to $1,110 per month. Several of the family members were asked to explain these variances. Their testimony was vague and contradictory. Noula Stavrou testified that she never questioned what she was paid and had no knowledge of the reason for the variances. Alexandra, who issued the cheques, stated that she made out the cheques for whatever amounts her father told her and that she had no knowledge of the basis for the payments. In a small family-run business, I find it unlikely that Alexandra would not know the general basis on which the amounts were determined. Peter Stavrou's testimony was perhaps the most important because he determined the remuneration. He was reluctant to admit that the remuneration varied at all. The following is an excerpt from his cross examination on this point:
+Q. How often are they [family members] paid?
+A. Once a month I believe.
+Q. And there's no questions asked; there's a specific cheque, always the same amount?
+A. I would say so, yes.
+Q. So basically, if I take a T4 and I divide it by twelve, that would mean that they're paid monthly the same amount?
+A. Sometimes we would change that amount.
+Q. Notwithstanding how many hours?
+A. Notwithstanding how many hours, that's correct.
+[26] The Crown stated that it had the burden to establish that Noula Stavrou was not employed on a full-time basis throughout the 1997 taxation year. In my opinion it has been established that Noula Stavrou worked only part-time during that year. Her remuneration varied substantially from month to month and often was lower than what might be expected if she were employed on a full-time basis.
+[27] The finding that Tim Stavrou was not employed throughout the year may be sufficient to dispose of this appeal because 625041 Ontario only had five employees throughout the year, not more than five as required by the legislation. In any event, when Noula Stavrou's part-time employment is also taken in account, the corporation only had four full-time employees throughout the year which is clearly not sufficient.
+[28] The appeal is dismissed, with costs.
+Signed at Ottawa, Canada this 15th day of October, 2004.
+"J.M. Woods"
+Woods J.
+CITATION:
+2004TCC693
+COURT FILE NO.:
+2002-2902(IT)G
+STYLE OF CAUSE:
+625041 Ontario Limited v. Her Majesty the Queen
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+June 15 and August 18, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+October 15, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Christian F. Specht
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Christian F. Specht
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+1
+One of the Crown's arguments was that the appellant's position is inconsistent with the fact that Tim Stavrou claimed social assistance benefits from the government during this period on the basis that he was not employed. Since Mr. Stavrou had a serious drug problem, I do not consider this fact to be probative.

@@ -1,0 +1,144 @@
+Title: Keating v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27431/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-296-27431-keating-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-04-29
+
+# Keating v. The Queen
+
+- Citation: 2005 TCC 296
+- Decision date: 2005-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 253, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Keating v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-29
+Neutral citation
+2005 TCC 296
+File numbers
+2004-2991(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2991(IT)I
+BETWEEN:
+SUSAN KEATING,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 4, 2005 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Glen Elliott
+Agent for the Respondent:
+Susan Keenan (Student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of April 2005.
+"Diane Campbell"
+Campbell J.
+Citation: 2005TCC296
+Date: 20050429
+Docket: 2004-2991(IT)I
+BETWEEN:
+SUSAN KEATING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+CampbellJ.
+[1] The Appellant appeals an assessment for the 2000 taxation year in which the Respondent denied a deduction of legal expenses in the amount of $25,975.00. The Appellant also appeals the Respondent's determination that she was not entitled to claim an allowable business loss (ABIL) for a loss incurred in 1998 that the Appellant sought to carry forward to the 2000 taxation year.
+Evidence
+[2] The Appellant met Pierre Lafontaine in 1992 and by June 1993 they were residing together. At Mr. Lafontaine's request, the Appellant left her employment in 1993 and joined him in his graphics business. On at least one occasion she borrowed money to assist him with his business payroll. Because Mr. Lafontaine was struggling financially, he asked the Appellant to incorporate a company which she did in November 1993. The Appellant was the sole shareholder of Visual Synergy Inc. but it was Lafontaine who actually operated the business as its president and general manager. Because Lafontaine had been involved previously with a number of small businesses, and the Appellant had not, she was eligible to take advantage of the small business development loans. The maximum amount of $250,000.00 for small businesses was borrowed. The Appellant executed a personal guarantee to CIBC and also provided collateral to the bank with a mortgage against her home. In December 1993 the Appellant married Lafontaine. She worked with him in this graphics business from 1993 to 1996. Eventually they separated in 1998. It was her understanding that Visual Synergy operated until 1998.
+[3] In 1995 Lafontaine had incorporated a company called Sako Graphics Resource Centre Inc. ("Sako"). The Appellant, although they were still living together at this time, was not involved in any way in this company. Prior to their separation, Lafontaine was managing both Visual Synergy and Sako.
+[4] In 1998 Visual Synergy became insolvent. During the summer of that year, CIBC advised the Appellant that the bank intended to act on her guarantee and foreclose on her home. In addition the bank seized the remaining assets of Visual Synergy. However most of the corporate assets, the graphic equipment, had been rolled over by Lafontaine to Sako without the Appellant's knowledge and without the assumption or transfer of any of Visual Synergy's debt. The Appellant was forced to sell her home to repay CIBC the amount of $232,321.00 in satisfaction of the personal guarantee which she provided in support of the Visual Synergy debt.
+[5] In 1999 the Appellant commenced two legal actions, one against Lafontaine ("the matrimonial action") for spousal and child support and one against Lafontaine, Sako, Visual Synergy and Sak Graphic Resource Inc. ("the oppression remedy action") in respect to the depletion of the assets and business of Visual Synergy. This latter action asked for an accounting of the transfer of assets and goodwill from Visual Synergy to Sako and then eventually to Sak Graphic Resource Inc. ("Sak"), another of Lafontaine's companies. In terms of dollar amount, the Appellant asked for compensation of $450,000.00 in satisfaction of all her claims. In her affidavit in support of this application, she stated that although she was sole shareholder and director of Visual Synergy, it was Lafontaine who ran the business activities on a daily basis. When he incorporated Sako in 1995, he concentrated his energy on this new company to the exclusion of Visual Synergy. It was Visual Synergy's resources however that funded this new company. Through time Lafontaine decreased Visual Synergy's activities and transferred its assets, customers and accounts to Sako. Her affidavit states that Lafontaine successfully established Sako with himself as its sole shareholder at the expense of Visual Synergy and to the Appellant's detriment. By the end of 1997 Visual Synergy could no longer make payments on its loans while Sako had been successfully established with revenue of $890,000.00.
+[6] Both the matrimonial action and the oppression remedy action were settled in April 2001. With respect to the matrimonial action, the interim support order was terminated and the Appellant's consent to dismiss all her future matrimonial claims against Lafontaine was to be held in escrow pending the completion of all payments owing to her pursuant to the oppression remedy order. The Minutes of Settlement in the oppression remedy action ordered all of the defendants (with the exception of Visual Synergy) to pay $180,000.00 to the Appellant in accordance with a schedule of periodic payments commencing April 2001 and ending in July 2003. According to the Appellant's evidence, she has never received the last payment of $30,000.00 due July 30, 2003, although she took legal action and was awarded judgment against Sako, Sak and Lafontaine (Exhibit A-1, Tab 10). In addition she commenced action against Lafontaine for child support payments and received an order for support plus costs. To date Lafontaine has not paid these support payments nor has he made payments on the final $30,000.00 owing under the oppression remedy action.
+[7] In computing her income for the 2000 taxation year, the Appellant deducted legal fees and expenses of $25,975.21. The Appellant produced copies of two separate legal accounts, one for the matrimonial action (Exhibit A-1, Tab 14) and one for the oppression remedy action (Exhibit A-1, Tab 13). The same law firm represented the Appellant in both matters. The legal fees in the matrimonial action totalled $28,750.55 and the fees in the oppression remedy action totalled $53,810.55. As I understood Appellant counsel's submissions, she claimed most of the legal fees relating to the matrimonial action, although counsel agreed that she is not entitled to claim that portion of the legal fees which relate to spousal support. The amount claimed by the Appellant as a deduction should therefore be reduced by some amount. Counsel also submitted that the legal fees of $53,810.55 paid in respect to the oppression action should go to reduce her capital recovery of $180,000.00. Besides deducting her legal fees the Appellant wants to apply business investment losses from 1998 to the 2000 taxation years.
+Issues:
+[8] There are three issues:
+(1) When did the Appellant incur the business investment loss?
+(2) What is the amount of the business investment loss?
+(3) Are any of the legal expenses deductible?
+Appellant's Position:
+[9] The Appellant's position is that in 1998 Visual Synergy had become insolvent. CIBC seized those few remaining assets that had not been transferred to Sako by Lafontaine. The bank called in the Appellant's guarantee and commenced foreclosure proceedings against the Appellant's home. To avoid these proceedings the Appellant sold her home on her own and paid $232,321.00 to CIBC. By the end of 1998, Visual Synergy had no assets or customers, was not carrying on business and was not earning income. This loan became a bad debt in 1998 and this entitles her to a business investment loss. The Appellant argued that the subsequent litigation, against her former husband and his companies, is not connected to the recovery of the debt owed by Visual Synergy to the Appellant because the shareholder oppression action is distinct from this debt. The oppression action was brought against Lafontaine and several of his companies because he had stripped Visual Synergy of its assets. The amount the Appellant may have been entitled to under the oppression action has nothing to do with the amount that Visual Synergy owed her. The Appellant also points out that the action against the former husband is not a case of contribution or indemnity in relation to the actual debt. Therefore the Appellant suggested that the loss should be quantified at $106,190.55, consisting of the difference between the $232,321.00 amount paid to CIBC and $180,000.00 paid to the Appellant under the settlement ($52,321.00) plus legal fees ($53,810.55) that were incurred in pursuit of settlement of the oppression action.
+[10] The Appellant acknowledged that the portion of the matrimonial legal account relating to the collection of spousal support is not deductible but that the portion relating to child support should be a deductible legal expense and suggested that a reasonable portion of that total matrimonial account relating to the child support claim would be half of the $28,750.55, (although initially in her return she had claimed most of this amount). The legal fees of $53,810.55 paid in respect to the oppression action is not deductible as an expense but rather becomes a reduction of her capital recovery of $180,000.00 from Lafontaine so that her business investment loss is $232,380.00 - $180,000.00 + $53,810.55 or $106,190.55, thereby increasing the allowable business loss.
+Respondent's Position
+[11] The Respondent argues that the legal steps taken by the Appellant in 1999 in the oppression action related to the recovery of the debt she had paid to CIBC. Therefore the debt remained collectible in 2001 when the oppression action was settled. The Appellant knew in 1998 that she had a likelihood of collecting the debt from her former husband. The Respondent also noted that only a few months elapsed between the time she actually paid CIBC under the guarantee and the time she commenced an action against her former husband. In light of this, recovery of the debt was reasonably possible. There was no evidence that the Appellant would have taken action against Lafontaine and his companies if she had not been required to pay CIBC. It is unreasonable for the Appellant to claim that the debt was bad before taking proactive steps to recover that debt. The only step she eventually took was successful. The debt was therefore not a bad debt in 1998. The Respondent is prepared to allow the Appellant an allowable business deduction for the amount paid to CIBC ($232,320.00) less the amount paid pursuant to the legal action ($180,000.00) or $52,320.00. The debt remained collectible until 2001 when only that portion of the debt became bad once the Appellant obtained a settlement.
+[12] The Respondent submits that the legal fees claimed by the Appellant were, in part, used to secure and resolve claims for spousal support and are therefore not deductible. That portion of the fees was not used for the purpose of gaining or producing income from business or property but instead was used for establishing the Appellant's right to spousal support. Therefore those fees are not deductible. The Respondent argued that the expenses related to the two legal applications are intermingled and that the oppression action was brought in part as leverage for the claim for spousal support and vice versa. The settlement in 2001 treats the lump sum due in respect to the oppression action as if it was a settlement of spousal support because it split the amount into periodic payments. Since the two legal actions are so intermingled together with the provisions of the settlement, it follows that the legal expenses are also intermingled and should not be treated differently. Therefore the Appellant did not show that the fees were incurred for the purpose of gaining or producing income from business or property.
+Analysis:
+Issue 1: When did the Appellant incur the business investment loss?
+[13] Both the Appellant and the Respondent agree that Visual Synergy owed a debt to the Appellant in the amount of $232,321.00. The question of whether the ABIL arose in 1998 depends on whether the $232,321.00 debt became a bad debt in that year. The Respondent has argued that the debt was still recoverable in 1998 and did not become a bad debt until 2001 when the legal actions between the Appellant and her former husband were settled. The Federal Court in Rich v. The Queen, 2003 DTC 5115 set out a number of factors to be considered in determining whether a debt is properly determined by a taxpayer to be a bad debt. This list of factors, which is not necessarily exhaustive, is set out at paragraph 13 of that decision as follows:
+1. the history and age of the debt;
+2. the financial position of the debtor, its revenues and expenses, whether it is earning income or incurring losses, its cash flow and its assets, liabilities and liquidity;
+3. changes in total sales as compared with prior years;
+4. the debtor's cash, accounts receivable and other current assets at the relevant time and as compared with prior years;
+5. the debtor's accounts payable and other current liabilities at the relevant time and as compared with prior years;
+6. the general business conditions in the country, the community of the debtor, and in the debtor's line of business; and
+7. the past experience of the taxpayer with writing off bad debts.
+Some of these factors such as history and age of the debt, and change in sales compared to other years are not relevant to the facts of this appeal as Visual Synergy had ceased to operate at the time the bad debt was purportedly written off. However the factors of the corporate liquidity and overall financial position will be more relevant in these circumstances. With respect to these factors, the evidence indicated that the debt had existed within the company for some time, although from the Appellant's standpoint she had a narrow window within which she had to take some action once CIBC called in her guarantee. She took proactive steps to sell her house and obtain as much as she could on the market, without the Bank actually foreclosing. When I look at these factors, the company was no longer carrying on business. Most of its assets had been removed by Lafontaine. The few remaining assets had been seized by the Bank. Lafontaine was running this company and used that position to roll over the assets to one of his other companies, leaving all of the corporate debt in Visual Synergy. At the end of 1998, Visual Synergy had no revenues, customers, account's receivables or cash flow. Any prospect for recovery of this debt was therefore remote.
+[14] I believe the oppression action for the appropriation of the assets of Visual Synergy by Lafontaine, and the payment of $232,321.00 by the Appellant to CIBC, are two separate and distinct transactions. The oppression action does not specifically mention the Appellant's guarantee, the foreclosure or the sale of the house except that these events had occurred in 1998. In fact the actual figure of $232,321.00 paid to CIBC is never mentioned. The action is actually brought pursuant to the Ontario Business Corporations Act and is centered around a request for an accounting of all corporate records and the transfer of assets and goodwill from Visual Synergy to Sako and then to Sak. The Appellant's claim is quantified at $450,000.00. In the Appellant's affidavit, which was used to support the oppression action, she states that at the end of 1997 Visual Synergy had a total debt of $403,418.00. This action is clearly against Lafontaine and his companies because he stripped Visual Synergy of its assets. The amount claimed under the oppression action has no connection to the amount paid to CIBC pursuant to the guarantee. I agree with the Appellant that the action against the former husband is not a case of contribution or indemnity in relation to the debt. While it may be true that the Appellant's motivation for bringing the oppression action was to recover the money that she lost when she had to sell her house to pay CIBC, the Appellant's intentions and motivations are not determinative as to whether or not the oppression action and the resulting settlement are legally distinguishable from the debt. The true legal nature of the debt and of the oppression action is more relevant than the Appellant's understanding of it. The legal documents which comprise the oppression action do not attempt the collection or recovery of a debt. As rightly pointed out by the Appellant, the oppression action would likely have been available to the Appellant whether or not she had ever signed a guarantee, or sold her house to pay CIBC.
+[15] The Respondent argued that there was evidence that the Appellant took no steps to recover the debt prior to determining it to be a bad debt in 1998. However as pointed out in the case of Rich, this obligation only arises where there is some evidence to show that collection of the debt is reasonably possible. The facts here suggest that Visual Synergy had no ability to pay this debt at any time after 1998 because there was no income and no business. There was nothing the Appellant or the company could do to refinance the operations. In fact although the Appellant worked in the business, she had left in 1996 and during all of these years it was Lafontaine who knew the business and oversaw the operations. In these circumstances the Appellant had no obligation to take steps to collect when faced with the imminent threat of foreclosure proceedings against her home. It was reasonable and prudent in these circumstances for the Appellant to take the steps she did. Since there was no evidence that the financial position of Visual Synergy would change in the future, she exercised her judgment and determined the debt to be bad at the end of 1998.
+[16] Even though the Appellant and the corporation were not dealing at arm's length, and are therefore subject to closer scrutiny, my conclusion does not change. I believe that according to the principles in Rich, the predominant consideration is still the ability of the debtor to repay the debt in whole or in part. There is nothing in the facts which would indicate that Visual Synergy could have paid any portion of that debt in 1998 or at any time thereafter. If I accept the Respondent's argument that the debt was intended to be collected indirectly via the oppression action, I would be effectively re-characterizing the legal nature of the parties' relationship and the supporting legal transactions. Visual Synergy and Lafontaine are two separate legal entities. Visual Synergy is the debtor. The debt owed by Visual Synergy is not the equivalent of the transaction that was commenced by the Appellant against Lafontaine and his companies for stripping the assets of Visual Synergy. I must come to my conclusions based on the facts as they are before me. I do not believe that the Appellant has an onus, as the Respondent suggests, to lead evidence as to whether she would or would not have initiated the oppression action in the hypothetical situation that no debt existed or that she was not liable under the guarantee. Although I agree that there may be some connection between the two events, they remain legally two very distinct legal transactions.
+[17] The amount of $232,321.00 was therefore properly determined to be a bad debt at the end of 1998.
+Issue 2: What is the amount of the business investment loss?
+[18] The Respondent and the Appellant each have their own views on what the amount of business investment loss should be. The Respondent suggests that it is $52,321.00 [$232,321.00 (paid by the Appellant to the Bank under the guarantee) less $180,000.00 (received by the Appellant from Lafontaine pursuant to the oppression action)]. The Appellant suggests the figure should be $106,190.00 [$52,321.00 (the Minister's figure) + $53,869.00 (legal fees incurred to pursue settlement)]. Interestingly this position is different from the position the Appellant took in the Notice of Appeal, where at paragraph (g), the Appellant sought recovery of a business investment loss of $232,321.00. I do not agree with the figure proposed by either party.
+[19] The parties disagree over the proper treatment of the $180,000.00 settlement amount. The Appellant suggests it is damages while the Respondent wants me to deem it recovery of the debt. However as I have concluded previously, the $180,000.00 was not recovered from the debtor corporation, Visual Synergy, but from third parties. The settlement from the oppression action does not equal recovery of the debt owed by Visual Synergy to the Appellant. The legal documentation supports my conclusion. Visual Synergy, although named as one of the respondents in the oppression action, was not liable to pay the Appellant under the Minutes of Settlement. It was Lafontaine, Sako and Sak that were ordered jointly and severally to pay $180,000.00 to the Appellant. The Respondent's treatment of the settlement monies as payment of the corporate debt is not supported by the documentary evidence. There is not the slightest hint in these documents that link one to the other.
+[20] I conclude therefore that the $180,000.00 settlement amount is equivalent to damages, since the oppression action was brought to compensate the Appellant, as sole shareholder of Visual Synergy, for Lafontaine and his companies misappropriating the corporate assets. Amounts received under this settlement should be accounted for in some manner in the years they were received. However those years are not before me for decision.
+[21] Accordingly I conclude that the business investment loss at the end of 1998 was $232,321.00 which may be carried forward to the 2000 taxation year. The amount of $180,000.00 subsequently recovered cannot operate to reduce this amount because it was recovered from a third party and arises out of a distinct transaction.
+Issue 3: Are any of the legal expenses deductible?
+[22] The Respondent's position is that the fees were personal, a portion incurred for the purpose of prosecuting the matrimonial action and the balance not deductible because it was not incurred for the purpose of gaining or producing income from a business or property, as required by paragraph 18(1)(a) of the Act. The Respondent submits that the matrimonial action and oppression action are so intermingled that the legal accounts are intermingled. This was not specifically included in the assumptions contained in the Reply to the Notice of Appeal. Even if it had been included as an assumption, it would not necessarily follow that the legal fees respecting spousal and child support could not be deductible. In any event it has not been established that the entire amount of the legal expense was attributable to the matrimonial action. In fact based on the Respondent's own argument that the $180,000.00 settlement is essentially recovery of the Visual Synergy debt, it is inconsistent for the Respondent to attempt to argue that the fees are entirely attributable to the matrimonial action. There is absolutely no connection between spousal support payments and the staged payments pursuant to the oppression action. The Respondent's attempt to characterize these staged payments amounting to $180,000.00 under the oppression action as somehow a settlement of spousal support is completely unsupported by the oral and documentary evidence.
+[23] Although the only consideration for the matrimonial action was the settlement of the oppression action, there are two distinct sets of legal accounts from the one law firm. One set of accounts is marked at the top of each invoice "Re: oppression remedy" and those in the second set of invoices for the matrimonial action are marked "Re: Keating and Lafontaine". In addition the law firm identifies the two actions according to two separate file numbers and each of the invoices is fully itemized. These legal accounts are clearly identified as relating to two different matters. Since the pleadings have put the legal fees before me and one of the Appellant's arguments submits that the Appellant should be entitled to claim a portion of the fees paid in respect to the matrimonial matter, I believe the Appellant is entitled to deduct that portion of the total fees which relate to child support. The Appellant has suggested that a reasonable amount would be one half the total legal fees paid on account of the matrimonial action. I agree that this is a reasonable amount and the Appellant should be permitted to deduct one half the total fees incurred in the matrimonial action or $14,375.00.
+[24] With respect to the fees paid to pursue the oppression action, I do not believe those legal expenses are deductible. However I do not come to my conclusion based on the Respondent's position, which is that they were not incurred for the purpose of gaining or producing income from a business or property. Instead these fees are not deductible because they are on account of capital and should therefore be disallowed under paragraph 18(1)(b). According to the Appellant's own evidence, the purpose of bringing the corporate action was to prevent Lafontaine from stripping Visual Synergy of its assets. Legal expenses incurred for the purpose of preserving a capital asset are not deductible. This proposition was affirmed by Judge Brulé in Hoffman et al. v. M.N.R., 92 DTC 2290 and by Chief Justice Bowman in Muggli v. Canada, [1994] 1 C.T.C. 2705.
+[25] Therefore those legal fees which relate to the oppression action are disallowed under paragraph 18(1)(b), as they were incurred to preserve the assets Visual Synergy.
+[26] The appeal is allowed, without costs, to permit the Appellant to claim a business investment loss of $232,321.00 at the end of 1998 which may be carried forward to the 2000 taxation year under appeal. Legal expenses in the amount of $53,810.55, respecting the oppression action, are not deductible as they were incurred to preserve capital assets. One half of the legal fees, or $14,375.00, respecting the child support segment of the matrimonial action is deductible.
+Signed at Ottawa, Canada, this 29th day of April 2005.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2005TCC296
+COURT FILE NO.:
+2004-2991(IT)I
+STYLE OF CAUSE:
+Susan Keating and
+Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+March 4, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Diane Campbell
+DATE OF JUDGMENT
+April 29, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Glen Elliott
+Agent for the Respondent:
+Susan Keenan (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Glen Elliott
+Firm:
+Elliott and Hughes
+Oshawa, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

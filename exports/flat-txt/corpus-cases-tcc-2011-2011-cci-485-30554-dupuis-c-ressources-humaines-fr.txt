@@ -1,0 +1,211 @@
+Title: Dupuis c. Ressources Humaines
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30554/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-485-30554-dupuis-c-ressources-humaines-fr.md
+Document type: case_law
+Last modified: 2011-10-18
+
+# Dupuis c. Ressources Humaines
+
+- Citation: 2011 CCI 485
+- Decision date: 2011-10-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7295, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dupuis c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-18
+Référence neutre
+2011 CCI 485
+Numéro de dossier
+2010-1844(OAS)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2010-1844(OAS)
+ENTRE :
+RAYMOND DUPUIS,
+appelant,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT DES COMPÉTENCES,
+intimé.
+____________________________________________________________________
+Appel entendu le 15 août 2011, à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentante de l’appelant :
+Sylvie Dupuis
+Avocat de l’intimé :
+Me Grégoire Cadieux
+____________________________________________________________________
+JUGEMENT
+Attendu que la Cour a accordé un délai de trente jours à l’appelant pour soumettre des documents additionnels et dont il s’est pourvu;
+Et attendu que la Cour a examiné lesdits documents;
+L’appel de la décision rendue par le ministre des Ressources humaines et du Développement des compétences touchant la détermination du revenu aux fins du Supplément de revenu en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse, L.R. (1985), ch. O-9, est rejeté et la décision est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour d'octobre 2011.
+« Alain Tardif »
+Juge Tardif
+Référence : 2011 CCI 485
+Date : 20111018
+Dossier : 2010-1844(OAS)
+ENTRE :
+RAYMOND DUPUIS,
+appelant,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT DES COMPÉTENCES,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Monsieur Dupuis, l’appelant, se pourvoit d’une décision du ministre des Ressources humaines et du Développement des compétences (le « ministre ») touchant la détermination du montant de Supplément de revenu mensuel garanti (le « supplément ») selon la Loi sur la sécurité de la vieillesse, (« LSV »)[1].
+[2] À l’audition, monsieur Dupuis était absent, mais il était représenté par sa fille Sylvie Dupuis. Chef d’équipe dans un département à Revenu Québec, madame Dupuis s’était remarquablement bien préparée, elle a d’ailleurs fait des représentations d’une qualité digne de mention. Son expertise a d’ailleurs permis qu’elle obtienne plusieurs observations de la part des différents intervenants.
+[3] La difficulté du dossier repose notamment sur le fait qu’il y a plus d’une loi en présence; la décision dont il est fait appel doit s’apprécier essentiellement à partir de la loi pertinente.
+[4] Le supplément est déterminé à partir du revenu de la personne, tel que défini à l’article 2 de la LSV, c'est-à-dire en tenant compte de son revenu selon la Loi sur l’impôt du revenu (« LIR ») après avoir appliqué certaines déductions spécifiées à l’article 2 de la LSV.
+[5] L’appelant conteste qu’une indemnité mensuelle pour préjudice corporel permanent reçue de la Commission de la Santé et de la Sécurité du travail du Québec (« CSST ») soit incluse dans son revenu selon l’article 2 de la LSV.
+Historique du montant et l’évolution des lois sur l’accident du travail
+[6] L’appelant a subit un accident de travail en 1976[2]. Il a été indemnisé et il est retourné au travail après quelques temps.
+[7] Suite à son retour au travail, il était devenu manifeste que l’accident de travail avait entrainé des séquelles permanentes, soit une incapacité partielle permanente.
+[8] En 1979, suite à une expertise médicale, l’appelant est devenu prestataire d’une rente mensuelle selon le deuxième alinéa de l’article 38 de la Loi sur les accidents du travail (« LAT »)[3]. La provision se lisait comme suit :
+38. 2) Dans le cas d'incapacité partielle et permanente, le travailleur a droit, sa vie durant, à la rente prévue par le paragraphe 1 en proportion du pourcentage de son incapacité.[4]
+[9] Il est à noter que la rente mensuelle a été fixée avant l’entrée en vigueur de la Loi sur les accidents du travail et les maladies professionnelles (« LATMP »)[5], qui a remplacé la LAT [6] en 1985, dont les articles 83 à 91 permettent aux travailleurs ayant subi un préjudice corporel permanent de réclamer une indemnité d’un montant forfaitaire à la CSST.
+[10] Au moment de l’entrée en vigueur de la LATMP, la CSST a donné l’option à l’appelant de continuer à recevoir un montant mensuel ou recevoir un montant forfaitaire pour acquitter le restant.
+[11] Après avoir évalué les deux options, l’appelant a opté de continuer à recevoir les montants mensuels car il a jugé ce mode de versement plus avantageux[7].
+[12] Depuis 2007, l’Agence du Revenu Canada (l’« ARC ») exige un relevé T5007 pour l’indemnité mensuelle reçue par l’appelant, afin de faciliter l’inclusion de ce montant dans le calcul du revenu, comme l’atteste le courriel du 2007-05-07 de M. Daniel Beaudoin de l’ARC à M. Jacques Pelletier de la CSST, soumis à la preuve par l’appelant le 14 septembre 2011.
+Les questions soulevées
+[13] Les questions soulevées sont les suivantes :
+a. Est-ce que le montant d’indemnité pour préjudice personnel que l’appelant reçoit mensuellement de la CSST fait partie de son revenu selon la LIR ?
+b. Dans le cas d’une réponse affirmative à la première question, est-ce qu’il y a une déduction prévue par la LSV qui permettra de la soustraire de son revenu aux fins du calcul du supplément?
+Analyse de la loi
+La définition du revenu selon la Loi sur la sécurité de la vieillesse
+[14] Le montant du supplément de la LSV est calculé selon le revenu mensuel du pensionné :
+12. (1) Le montant du supplément qui peut être versé mensuellement au pensionné pour le trimestre de paiement commençant le 1er avril 2005 est l’excédent sur un dollar par tranche de deux dollars de son revenu mensuel de base[8]
+[15] Aux fins de la LSV, le mot revenu est défini à l’article 2 de la Loi comme étant le revenu du pensionné selon la LIR, après que certains ajustements énumérés aux alinéas a) à e) y soient apportés :
+Le revenu d’une personne pour une année civile, calculé en conformité avec la Loi de l’impôt sur le revenu, sous réserve de ce qui suit :
+a) les montants suivants sont déduits du revenu de la personne tiré d’une charge ou d’un emploi pour l’année :
+(i) un montant unique pour l’ensemble des charges et emplois qu’elle occupe, égal :
+(A) pour le calcul des prestations à payer à l’égard de tout mois antérieur à juillet 2008, au cinquième de son revenu tiré de charges ou d’emplois pour l’année, jusqu’à concurrence de cinq cents dollars,
+(B) pour le calcul des prestations à payer à l’égard de tout mois postérieur à juin 2008, à son revenu tiré de charges ou d’emplois pour l’année, jusqu’à concurrence de trois mille cinq cents dollars,
+(ii) les cotisations ouvrières qu’elle a versées au cours de l’année en vertu de la Loi sur l’assurance-emploi,
+(iii) les cotisations d’employé qu’elle a versées au cours de l’année en vertu du Régime de pensions du Canada ou d’un régime provincial de pensions au sens de l’article 3 de cette loi;
+b) sont déduites des gains de la personne tirés d’un travail effectué à son compte pour l’année :
+(i) les cotisations qu’elle a versées au titre de ces gains au cours de l’année en vertu du Régime de pensions du Canada ou d’un régime provincial de pensions au sens de l’article 3 de cette loi,
+(ii) la cotisation qu’elle a versée au cours de l’année en vertu de la partie VII.1 de la Loi sur l’assurance-emploi;
+c) les montants suivants sont déduits du revenu de la personne pour l’année, dans la mesure où ils ont été inclus dans le calcul de ce revenu :
+(i) les prestations prévues par la présente loi et les prestations semblables versées aux termes d’une loi provinciale,
+(ii) les prestations de décès prévues par le Régime de pensions du Canada ou par un régime provincial de pensions au sens de l’article 3 de cette loi,
+(iii) les prestations d’aide sociale versées, compte tenu des ressources, des besoins ou des revenus, par un organisme de bienfaisance enregistré, au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu, ou dans le cadre d’un programme prévu par une loi fédérale ou provinciale, exception faite des programmes visés par règlement pris en application de la Loi de l’impôt sur le revenu et de ceux aux termes desquels les montants visés au sous-alinéa (i) sont versés;
+d) est déduit du revenu de la personne pour l’année trois fois l’excédent éventuel du total visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+(i) le total des montants déductibles en application de l’article 121 de la Loi de l’impôt sur le revenu dans le calcul de l’impôt payable par la personne pour l’année,
+(ii) l’« impôt payable par ailleurs pour l’année en vertu de la présente partie », au sens où cette expression s’entend au paragraphe 126(7) de cette loi pour l’application de l’alinéa 126(1)b) de cette loi, de la personne pour l’année;
+e) est déduit du revenu de la personne pour l’année tout montant inclus au titre de l’alinéa 56(1)q)1) ou du paragraphe 56(6) de la Loi de l’impôt sur le revenu et est inclus dans son revenu pour l’année tout montant déductible au titre des alinéas 60y) ou z) de cette loi.
+[16] La LSV ne fait pas mention de l’alinéa 56(1)v) de la LIR, la base légale pour l’inclusion de la rente d'incapacité partielle et permanente que l’appelant reçoit de la CSST. Vu l’absence d’une déduction prévue par le législateur dans la LSV, le traitement du montant de la rente par la LIR est déterminant quant à son inclusion, ou non dans le montant de revenu à considérer pour le calcul du supplément de la LSV.
+Revenu selon la Loi sur l’impôt du revenu
+Revenu versus revenu imposable
+[17] Il n’y a aucune définition du mot revenu dans la LIR, mais la loi contient des provisions qui spécifient les montants à inclure ou exclure dans le calcul du revenu, ainsi qu’au calcul du revenu imposable du contribuable[9].
+[18] La LIR arrive au calcul du montant de l’impôt payable par un contribuable dans l’année en trois étapes :
+a. en spécifiant les montants à inclure dans le calcul du revenu du contribuable dans la Section B de la Partie I de la LIR (ce type de revenu est aussi appelé le revenu fiscal, par opposition au revenu comptable dans le jargon professionnel) ;
+b. en permettant des déductions au revenu spécifiées à la Section C de la Partie I de la LIR pour arriver du revenu au revenu imposable du contribuable ; et
+c. en spécifiant, dans la Section E de la Partie I, des taux d’imposition applicables aux montants qui constituent le revenu imposable
+[19] Le montant en question dans le présent appel, le montant auquel l’article 2 de la LSV fait référence, c’est le montant du revenu du contribuable déterminé dans la Section B de la Partie I de la LIR – l’étape a ci-dessus. C’est-à-dire le montant du revenu après avoir ajouté tous les montants provenant de toutes les sources, avant même de faire les déductions pour calculer le revenu imposable.
+[20] Au sujet du revenu, le regretté professeur Pierre Dussault, par la suite devenu juge à cette Cour explique dans son traité « L’impôt sur le revenu au Canada »:
+[L]a section B de la partie I de la Loi de l’impôt sur le revenu consacrée au calcul du revenu ne contient aucune définition de ce terme. Tout au plus y indique-t-on que le revenu est déterminé en calculant notamment le total des sommes qui constituent chacune le revenu tiré de chaque charge, emploi, entreprise ou bien. On constate donc que la loi laisse ouverte la question des critères de détermination du revenu.[10]
+Détermination du revenu
+[21] L’article général pour calculer les montants du revenu du contribuable est l’article 3 de la LIR, dont l’alinéa 3a) se lit comme suit :
+3. Pour déterminer le revenu d'un contribuable pour une année d'imposition, pour l'application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l'année (autre qu'un gain en capital imposable résultant de la disposition d'un bien) dont la source se situe au Canada ou à l'étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien;
+[22] Cette liste de montant qui a une portée très générale a été interprétée de façon restrictive par la jurisprudence. Je cite encore le livre, L’impôt sur le revenu au Canada :
+à l’alinéa 3a) LIR la disposition générale (appelée aussi « clause omnibus ») d’après laquelle le revenu comprend le revenu de toutes les provenances. Les tribunaux canadiens, imitant les tribunaux d’autres juridictions, ont traditionnellement attribué une portée très limitée à cette disposition générale, préférant plutôt adopter une interprétation restrictive de la notion de revenu[11].
+[23] Dans l’appel actuel, la Cour n’a pas besoin d’interpréter si la rente d'incapacité partielle et permanente que l’appelant reçoit de la CSST est comprise dans la portée générale de l’alinéa 3a) de la LIR; comme l’intimé le souligne, il y a une provision spécifique à l’alinéa 56(1)v) de la LIR qui traite d’une « indemnité reçue en vertu d'une loi sur les accidents du travail d'une province » comme la LAT ou la LATMP, « à l'égard d'une blessure, d'une invalidité ou d'un décès »[12].
+[24] L’alinéa 56(1)v) de la LIR prévoit que les indemnités reçues selon les lois comme la LATMP et antérieurement, la LAT, doivent être incluses dans le calcul du revenu :
+56. (1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+v) une indemnité reçue en vertu d'une loi sur les accidents du travail du Canada ou d'une province à l'égard d'une blessure, d'une invalidité ou d'un décès;
+[25] Pour les fins du calcul du revenu imposable d’un contribuable, les montants inclus par 56(1)v) sont déduits par l’effet du sous-alinéa 110(1)f)(ii) qui se lit comme suit :
+110. (1) Pour le calcul du revenu imposable d'un contribuable pour une année d'imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+f) toute prestation d'assistance sociale payée après examen des ressources, des besoins ou du revenu et incluse en application de la division 56(1)a)(i)(A) ou de l'alinéa 56(1)u) dans le calcul du revenu du contribuable pour l'année ou toute somme dans la mesure où elle a été incluse dans le calcul du revenu du contribuable pour l'année, représentant, selon le cas :
+(ii) une indemnité reçue aux termes d'une loi fédérale ou provinciale sur les accidents du travail pour blessure, invalidité ou décès, à l'exception d'une indemnité qu'une personne reçoit à titre d'employeur ou d'ancien employeur de la personne pour laquelle une indemnité pour blessure, invalidité ou décès a été payée,
+[26] L’effet combiné de l’alinéa 56(1)v) de la Section B de la Partie I et le sous‑alinéa 110(1)f)(ii) de la Section C de la Partie I de la LIR fait en sorte qu’une « indemnité reçue en vertu d'une loi sur les accidents du travail… d'une province à l'égard d'une blessure, d'une invalidité ou d'un décès » n’est pas incluse dans le calcul du revenu imposable, mais elle l’est aux fins du calcul du revenu (ou revenu fiscal).
+[27] Comme déjà mentionné au paragraphe 18, c’est le montant du revenu selon la Section B de la Partie I, donc le montant du revenu avant les déductions, que le législateur a choisi comme montant de base pour arriver au montant du revenu selon l’article 2 de la LSV.
+Le revenu et l’indemnité d’incapacité partielle et permanente
+[28] Dans un arrêt semblable, la juge Lamarre Proulx explique la loi ainsi :
+13 L'alinéa 56(1)v) de la Loi de l'impôt sur le revenu se lit comme suit:
+(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition:
+. . .
+v) Indemnité d'accident du travail -- une indemnité reçue en vertu d'une loi sur les accidents du travail du Canada ou d'une province à l'égard d'une blessure, d'une invalidité ou d'un décès;
+14 Il est à noter que dans le calcul du revenu imposable, les mêmes sommes sont déduites en vertu du sous-alinéa 110(1)f)(ii) de la Loi de l'impôt sur le revenu.
+15 Toutefois, la Loi de la sécurité sur la vieillesse fait référence au revenu et non au revenu imposable. Les montants reçus par l'appelant en provenance de la CSST et de la WSIB doivent être inclus dans le calcul du revenu de l'appelant aux fins de sa déclaration de revenu pour l'année de référence.
+16 Ce n'est pas la réception ou non de la formule T5007 qui détermine le montant du revenu d'une personne pour une année civile mais les dispositions de la Loi de l'impôt sur le revenu telles qu'incorporées dans la Loi.
+[29] L’appelant maintient que la nature du montant qu’il reçoit n’est pas un revenu mais un dédommagement pour une incapacité permanente. Cependant, au sens de la LIR, il y a un montant payé – une indemnité, selon la LAT – une loi sur les accidents du travail de la province du Québec : alors les critères de l’alinéa 56(1)v) sont tous remplis.
+[30] Dans le traité auquel il est fait référence plutôt, le professeur Pierre Dussault écrivait quant à la portée de l’article 56 ce qui suit :
+La réforme de 1972 a entraîné un élargissement considérable de l’assiette fiscale… On peut… référer à cet égard à l’article 56 L.I.R. qui prévoit l’inclusion dans le revenu de certaines sommes qui ne constituent pas du revenu au sens littéral du terme, notamment les paiements de transferts publics et privés[13].
+Le mot indemnité
+[31] L’appelant soulève l’argument que le mot « indemnité » n’inclut pas la rente qu’il reçoit.
+[32] Selon les principes de l’interprétation : « il faut lire les termes dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur »[14].
+[33] La LIR établit le revenu d’un contribuable, ainsi que son revenu imposable et l’impôt à payer. Les inclusions de l’alinéa 56(1)v) n’ont pas de conséquences fiscales pour les contribuables car les montants en jeu sont exclus par le sous‑alinéa 110(1)f)(ii). Donc les montants considérés à l’alinéa 56(1)v) n’entrent en jeu que pour l’allocation des bénéfices sociaux calculés selon le montant du revenu de l’individu, comme le supplément selon la LSV.
+Forfaitaire versus mensuel
+[34] L’appelant soulève l’argument que le traitement que sa rente mensuelle reçoit selon la loi est différent de celui réservé aux montants forfaitaires payables sous la LATMP, même si ces deux montants sont de la même nature. L’intimé pour sa part, a présenté l’argument que l’alinéa 56(1)(v) s’applique aux deux montants, peu importe leur mode de versement.
+[35] Il est en dehors des limites du présent appel de juger de la nature des montants forfaitaires. Cependant, le texte de l’alinéa 56(1)(v) est suffisamment large pour inclure les montants forfaitaires ainsi que les paiements mensuels.
+[36] Ceci étant dit, l’alinéa 56(1)v) est sous sa forme actuelle depuis 1994, et ce n’est que depuis 2007 que l’ARC demande à la CSST de fournir un T5007. Il y a donc place aux soupçons que le législateur avait l’intention que cet alinéa ait une portée plus limitée.
+[37] Dans la même veine, le fait que la CSST fournit un feuillet T5007 pour les montants mensuels et non pas pour les montants forfaitaires porte à confusion. Un exemple de cette confusion se présente dans le présent appel, où l’administrateur au niveau du réexamen a justifié la décision par l’existence ou non d’un relevé T5007[15].
+L’exclusion selon l’alinéa 81(1)q) ne s’applique pas en espèce
+[38] L’appelant fait référence à l’alinéa 81(1)q) de la LIR qui spécifie les montants qui ne doivent pas être inclus dans le revenu (revenu fiscal) du contribuable. Cet article exclut notamment « une somme versée à un particulier à titre d'indemnité en vertu d'une disposition, précisée par règlement, de la législation provinciale ».
+[39] Malheureusement les montants visés par l’article 81(1)q) doivent être précisés par règlement, et l’article 6501 du Règlement de l'impôt sur le revenu, C.R.C. 1977, c. 945, qui s’applique en ce domaine, ne mentionne pas les indemnités de la CSST.
+Précisions au niveau de la juridiction de la Cour canadienne de l’impôt :
+[40] Les faits menant Monsieur Dupuis devant la Cour rendent cet appel très sympathique. L’appelant exprime sa frustration dans sa lettre de demande de réexamen avant de faire un appel devant ce tribunal ainsi :
+Depuis 2007 le supplément que je reçois de la C.S.S.T. est calculé comme revenu. Je reçois cette indemnité depuis au moins trente ans et elle augmente chaque année avec l’indice de coût de la vie.
+Je pense que c’est injuste de calculer ainsi car c’est comme si on m’enlevait une partie de cet indemnité qu’on avait dit intouchable.
+Ce n’est pas un remplacement de salaire pour une période indéterminée, dans ce cas je comprendrai que c’est compté comme revenu.
+Je compare cette indemnité à un cadeau que la C.S.S.T. donne pour aider moralement à accepter l’infirmité qui reste après un accident et quelqu’un enlève une partie de ce cadeau, ce n’est pas logique[16].
+[41] Cependant, le Tribunal a l’obligation de ne tenir compte que de la loi, on ne peut pas en aucune façon sur la base d’arguments de besoins, de sympathie, de nécessité, fonder un jugement ou fonder une appréciation. Le jugement de la Cour doit prendre en compte uniquement les dispositions qui s’appliquent.[17] Le juge Rothstein a exprimé cet aspect de la juridiction de la Cour ainsi :
+[4] Le demandeur soutient que la loi est inéquitable et il demande à la Cour de faire une exception pour lui. Toutefois, la Cour n'a pas le pouvoir de faire droit à sa demande. La Cour doit appliquer la loi telle qu'elle est. Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l'équité. S'il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour[18].
+[42] Le seul remède à la situation de l’appelant serait une modification de la LSV par le Parlement fédéral, pour ajouter une déduction au niveau de la définition du revenu dans l’article 2 de la LSV, comme c’est déjà le cas pour d’autres montants prévus aux alinéas a) à e) de la définition du mot revenu de l’article 2 de la LSV.
+[43] Cette Cour ne peut pas se substituer au législateur sous prétexte d’injustice ou d’iniquité. La seule compétence de la Cour en cette matière consiste essentiellement à décider si la décision à l’origine de l’appel a été prise conformément aux dispositions de la Loi. Si tel est le cas, la décision doit être confirmée étant donné sa conformité avec les dispositions légales pertinentes.
+[44] Conséquemment, je dois rejeter l’appel puisqu’effectivement la décision à l’origine de l’appel est tout à fait bien fondée en vertu de la Loi.
+Signé à Ottawa, Canada, ce 18e jour d'octobre 2011.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : CCI 2011 485
+Nº DU DOSSIER DE LA COUR : 2010-1844(OAS)
+INTITULÉ DE LA CAUSE : RAYMOND DUPUIS c. M.R.H.D.C.C.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 15 août 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 18 octobre 2011
+COMPARUTIONS :
+Représentante de l’appelant :
+Sylvie Dupuis
+Avocat de l’intimé :
+Me Grégoire Cadieux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi sur la sécurité de la vieillesse, L.R.C. (1985), ch. O-9 à l’article 11.
+[2] Transcription de l’audience, à la p. 28.
+[3] Loi sur les accidents du travail, L.R.Q., chapitre A-3.
+[4] Ibid. à l’alinéa 38 (2).
+[5] Loi sur les accidents du travail et les maladies professionnelles, L.R.Q., c. A-3.001. (LATMP)
+[6] Supra note 3.
+[7] Transcription de l’audience, à la p. 37, lignes 16 à 17.
+[8] LSV, supra note 1 à l’alinéa 12(1).
+[9] Pierre Dussault, Normand Ratti et Guy Laperrière, L’impôt sur le revenu au Canada, 3e éd., Sherbrooke : Les éditions Revue de Droit de l’Université de Sherbrooke, 2005, a la p. 4-1 : « L’assiette fiscale : le concept du revenu ».
+[10] Ibid. à 4.1 (pages 4-1 à 4-2).
+[11] Ibid. à 4.1 (pages 4-1 à 4-2)
+[12] Loi de l’impôt sur le revenu, L.R.C. 1985 (5e supp.), c. 1 à l’alinéa 56(1)(v).
+[13] L’impôt sur le revenu au Canada, supra note 9 à 4.1 (pages 4-1 à 4-2).
+[14] E.A. Dreidger, Construction of Statutes, 1er éd. 1983 à la p. 87, telle que traduit et reproduit dans L’impôt sur le revenu au Canada, ibid. à la p. 2-46.
+[15] « Explication de la décision de RHDCC en appel au tribunal de révision », NAS 277-997-131, préparé par Mélissa Chénard, Agente de prestation niveau 2, 2010-01-21 à la p. 2, dans la section « Enjeu et dispositions législatives ». Dans le dossier de la Cour.
+[16] Lettre de 3 août 2009 dans les documents de l’appelant, dossier de la Cour.
+[17] Transcription de l’audience, à la p. 8.
+[18] Chaya c. Canada, 2004 CAF 327, 2004 DTC 6676 à para. 4.

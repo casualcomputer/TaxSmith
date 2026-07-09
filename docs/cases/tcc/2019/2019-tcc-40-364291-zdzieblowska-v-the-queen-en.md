@@ -1,0 +1,187 @@
+---
+title: "Zdzieblowska v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/364291/index.do"
+last_modified: "2019-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 40"
+citation2: ""
+neutral_citation: "2019 TCC 40"
+decision_date: "2019-02-22"
+language: "en"
+item_id: "364291"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4331
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:19:36.464000+00:00"
+cases_cited_count: 1
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1cc5a91dcef33e3dd414e5988c1985fe5d23ee7b76fb00b1d2702f177af91903"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zdzieblowska v. The Queen
+
+- Citation: 2019 TCC 40
+- Decision date: 2019-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4331, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zdzieblowska v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-02-22
+Neutral citation
+2019 TCC 40
+File numbers
+2017-1615(GST)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-1615(GST)I
+BETWEEN:
+DOMINIKA ZDZIEBLOWSKA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 18, 2019 at Toronto, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Agent for the Appellant:
+Nino Cioffi
+Counsel for the Respondent:
+Diana Aird
+Natasha Mukhtar
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal from an assessment, the notice of which is dated October 27, 2015, made under the Excise Tax Act, with respect to a subsection 256.2(3) new residential rental property rebate is dismissed, without costs.
+Signed at Ottawa, Canada, this 22nd day of February 2019.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2019 TCC 40
+Date: 20190221
+Docket: 2017-1615(GST)I
+BETWEEN:
+DOMINIKA ZDZIEBLOWSKA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Appellant has appealed an assessment in which the Minister of National Revenue (the “Minister”) denied her claim for a subsection 256.2(3) new residential rental property rebate (the “Rental Property Rebate”). This appeal raises an issue that, in the last few years, has frequently been before the Court. The issue relates to the application of subsection 296(2.1) of Part IX of the Excise Tax Act and arises in the following situation:
+- A person purchases a new home and is credited by the builder of the home with the subsection 254(2) new housing rebate (the “New Housing Rebate”).
+- The Canada Revenue Agency subsequently determines that the person was not eligible for the New Housing Rebate since that person was not the first person to occupy the home after it was substantially completed; rather, the person rented the home to a third party. In this situation, the Minister assesses the person for the amount of the New Housing Rebate that was credited to the person by the builder.
+- The person then applies for the Rental Property Rebate. However, the application is made after the two-year time limit imposed by subparagraph 256.2(7)(a)(iii).
+[2] The issue that is frequently before the Court is in what situations subsection 296(2.1) applies to, in effect, allow a person to claim the Rental Property Rebate after the expiry of the two-year time limit.
+[3] As I will discuss, the determination of this issue is dependent, in the first instance, on whether the appellant in a given case is appealing an assessment under subsection 297(2.1) of an amount payable in respect of a rebate that was previously paid to the appellant in error, or whether the appellant is appealing an assessment under subsection 297(1) that merely denies an application for the relevant rebate.
+[4] If the appellant is appealing a subsection 297(2.1) assessment of an “amount payable” in respect of a rebate (as in the case of an appeal of the assessment, in the preceding example, in respect of the New Housing Rebate), then subsection 296(2.1) may apply to reduce the amount of the subsection 297(2.1) assessment by the amount of the Rental Property Rebate.
+[5] However, subsection 296(2.1) will not apply if the appellant is appealing a subsection 297(1) assessment that does not assess an amount but merely denies an application for the relevant rebate (as in the case of an appeal of an assessment, in the preceding example, in respect of the Rental Property Rebate).
+I. Summary of Facts
+[6] On March 1, 2013 the Appellant signed an agreement to purchase a house located at 45 Hatton Garden Road, Vaughn, Ontario (the “New Home”). The Appellant signed the purchase agreement with the builder of the New Home.
+[7] The Appellant took possession and ownership of the New Home on April 16, 2013. The builder, pursuant to subsection 254(4), credited the Appellant with the New Housing Rebate of $24,000.
+[8] By a notice of assessment dated August 13, 2014, the Minister denied the New Housing Rebate and assessed the appellant $24,000 plus arrears interest (the “New Housing Assessment”). The Appellant testified that she did not receive the New Housing Assessment until August 2015. The Appellant did not serve a notice of objection with respect to the New Housing Assessment.
+[9] On August 5, 2015, the Appellant filed an application for a Rental Property Rebate in the amount of $24,000. The Canada Revenue Agency did not pay the rebate to the Appellant. Instead, the Minister issued an assessment dated August 28, 2015 denying the Rental Property Rebate claimed by the Appellant. The Appellant served a notice of objection with respect to the Minister’s denial of the Rental Property Rebate. The Minister confirmed her assessment. The Appellant then filed this appeal.
+A. First Issue: Was the application for the Rental Property Rebate filed within the two-year limit set out in subparagraph 256.2(7)(a)(iii)?
+[10] Subparagraph 256.2(7)(a)(iii) provides, in part, that the Rental Property Rebate shall not be paid to a person in respect of a residential unit unless the person files an application for the rebate within two years after the end of the month in which tax first became payable by the person in respect of the residential unit.
+[11] Subsection 123(1) defines residential unit, in part, to mean a detached house, semi-detached house, row house unit or condominium unit. The New Home is a residential unit.
+[12] Pursuant to subsection 168(5), tax in respect of the Appellant’s purchase of the New Home became payable on April 16, 2013, the day the Appellant took possession and ownership of the home. As a result, the Appellant was required to file the application for the Rental Property Rebate on or before April 30, 2015. She filed the application on August 5, 2015. Therefore, she was not entitled to be paid a rebate under section 256.2.
+[13] The Appellant raised the issue that the New Housing Assessment was not received by her until August 2015. While this may be relevant for the purposes of the time limit for filing a notice of objection to the New Housing Assessment, it is not relevant for the purpose of determining the time limit under subparagraph 256.2(7)(a)(iii) with respect to the Rental Property Rebate. Further, the Appellant informed the Court that she decided in 2015, after receiving the New Housing Assessment, not to serve a notice of objection with respect to that assessment.
+[14] In her notice of appeal, the Appellant argues that the application she submitted for the Rental Property Rebate should be considered an amendment to the New Housing Rebate application that she filed within the two‑year statutory limitation period.
+[15] I cannot accept this argument.
+[16] Subsection 262(1) provides that an application for a rebate such as the New Housing Rebate and the Rental Property Rebate “shall be made in prescribed form containing prescribed information and shall be filed with the Minister in prescribed manner.”
+[17] Prescribed is defined in subsection 123(1) as follows:
+“prescribed” means
+(a) in the case of a form or the manner of filing a form, authorized by the Minister,
+(b) in the case of the information to be given on a form, specified by the Minister,
+(c) in the case of the manner of making or filing an election, authorized by the Minister, and
+(d) in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation.
+[18] The authorized form for the Rental Property Rebate is form GST524, while the authorized form for the New Housing Rebate is form GST190. A significant amount of information requested in the form for the Rental Property Rebate is not requested in the form for the New Housing Rebate.
+[19] When the Appellant filed the form for the New Housing Rebate she did not file the prescribed form for the Rental Property Rebate and did not provide the prescribed information. As a result, she did not satisfy the requirement of filing an application for the Rental Property Rebate within two years after the end of the month in which tax became payable in respect of her purchase of the New Home.
+B. Second Issue: Should the Appellant be allowed the Rental Property Rebate under subsection 296(2.1)?
+[20] Subsection 296(2.1) requires the Minister, in certain circumstances, to reduce assessments of the net tax of a person or of amounts that become payable by the person under Part IX of the Act by rebate amounts that are not otherwise payable because the person has not claimed the rebate within the mandated statutory period.
+[21] The provision reads as follows:
+296(2.1) Allowance of unclaimed rebate — Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the “overdue amount”) that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable rebate”) would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount,
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day,
+the Minister shall apply all or part of the allowable rebate against that net tax or overdue amount as if the person had, on the particular day, paid or remitted the amount so applied on account of that net tax or overdue amount.
+[22] Subsection 296(2.1) will only apply when the Minister is either assessing the net tax of a person for a reporting period of the person, or assessing an amount (referred to as an “overdue amount”) that became payable by the person under Part IX of the Excise Tax Act. Part IX is the part of the Excise Tax Act that contains all of the goods and services tax (GST) provisions.
+[23] The net tax of a person for a reporting period is assessed under paragraph 296(1)(a). It is calculated under subsection 225(1) and, generally speaking, is the GST collected or collectible by the person in the reporting period minus any input tax credits the person claims in the person’s GST return.
+[24] As this Court has noted on numerous occasions, assessments relating to the denial of rebates claimed by a person, including the Rental Property Rebate and the New Housing Rebate, are not included in the calculation of net tax and thus are not taken into account in an assessment under paragraph 296(1)(a).
+[25] Thus subsection 296(2.1) will only apply to an assessment relating to a denial of a rebate if that assessment involves the assessment of an amount that has become payable by a person under Part IX of the Excise Tax Act.
+[26] There are various provisions under Part IX of the Excise Tax Act that result in amounts becoming payable by a person.
+[27] The relevant provision for the purposes of this appeal, is an assessment of tax owing under subsection 264(1) in respect of an overpayment of a Division VI rebate. This would include overpayments of either the New Housing Rebate or the Rental Property Rebate. The relevant portions of the provision read as follows:
+Where an amount is paid to, or applied to a liability of, a person as a rebate under . . . this Division (other than section 253) or as interest under section 297 and the person is not entitled to the rebate or interest, as the case may be, or the amount paid or applied exceeds the rebate or interest, as the case may be, to which the person is entitled, the person shall pay to the Receiver General an amount equal to the rebate, interest or excess, as the case may be, on the day the amount is paid to, or applied to a liability of, the person.
+[Emphasis added.]
+[28] Subsection 264(1) applies when the Canada Revenue Agency has paid to a person an amount in respect of a Division VI rebate, such as the New Housing Rebate or the Rental Property Rebate, and it is subsequently determined that either the person was not entitled to the rebate or an excess amount was paid to the person. In such a situation, the Minister assesses either the amount of the rebate or the amount of the excess payment.
+[29] The assessment of an amount owing under subsection 264(1) is not made under section 296, rather the Minister assesses under subsection 297(2.1). Subsection 297(2.1) provides that “[t]he Minister may assess, reassess or make an additional assessment of an amount payable by a person under section 264, notwithstanding any previous assessment of the amount”.
+[30] It is important to recognize that an amount is only payable under subsection 264(1) and assessed under subsection 297(2.1) if an amount has previously been paid to the person in respect of a rebate.
+[31] For example, subsection 264(1) applies in the situation where a person files the form for the New Housing Rebate with the builder, the builder pays or credits the amount of the rebate to the person under subsection 254(4), and the Minister subsequently determines that the person is not entitled to the New Housing Rebate. In such a situation, the Minister has paid a rebate to a person under Division VI that the person is not entitled to receive. The Minister will therefore, under subsection 297(2.1), assess the person for this overpayment.
+[32] When making the subsection 297(2.1) assessment for the overpayment of the rebate, the Minister must consider subsection 296(2.1) since she is assessing an amount that became payable by the person under Part IX of the Act. If the Minister is assessing with respect to a New Housing Rebate that was paid in error, she must consider whether the amount being assessed should, pursuant to subsection 296(2.1), be reduced by any other rebate the person may be entitled to, such as a Rental Property Rebate. She must make this determination regardless of whether the person has actually filed an application for the Rental Property Rebate.
+[33] Before applying subsection 296(2.1), the Minister must ensure that the conditions contained in paragraphs 296(2.1)(a), (b) and (c) are satisfied. For example, paragraph 296(2.1)(b) provides that the allowable rebate must not have been claimed in an application filed before the day the notice of assessment is sent in respect of the amount payable by the person. This was the situation in Poirier v. The Queen, [1] where my colleague Justice Smith found that the appellant was not entitled to the benefit of paragraph 296(2.1)(b) since he had filed an application for the Rental Property Rebate before the Minister assessed him under subsection 297(2.1) for the amount previously paid to him in error for the New Housing Rebate.
+[34] The Appellant has appealed the denial of her application for the Rental Property Rebate. This does not involve a situation where the Minister has paid an amount to a person in respect of a rebate and then determined that the person was not entitled to the rebate. Rather, the fact situation before the Court is that the Minister denied the rebate application before she paid any amount to the Appellant.
+[35] As a result, no amount was paid to the Appellant in respect of the Rental Property Rebate and thus the Minister did not assess an amount payable by the person under Part IX of the Act. The Minister’s assessment is an assessment under subsection 297(1) denying the application; it does not result in an amount becoming payable by the Appellant under Part IX of the Act. Consequently, subsection 296(2.1) does not apply to the assessment denying the Rental Property Rebate.
+[36] Subsection 296(2.1) could potentially have applied to the Minister’s assessment in respect of the New Housing Rebate. Since the Appellant was assessed, pursuant to subsection 297(2.1), an amount payable of $24,000 under section 264, the Minister should have considered subsection 296(2.1) when issuing the assessment in respect of the New Housing Rebate. In particular, the Minister should have reduced the amount being assessed in respect of the New Housing Rebate by the amount of the Rental Property Rebate if the conditions of paragraphs (a), (b) and (c) of subsection 296(2.1) were satisfied at the time of the assessment.
+[37] Unfortunately, the Appellant did not file a notice of objection in respect of the New Housing Rebate. It is not before the Court.
+[38] In summary, subsection 296(2.1) does not apply to the Minister’s assessment under subsection 297(1) denying the Appellant’s application for the Rental Property Rebate.
+[39] For the foregoing reasons, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 22nd day of February 2019.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2019 TCC 40
+COURT FILE NO.:
+2017-1615(GST)I
+STYLE OF CAUSE:
+DOMINIKA ZDZIEBLOWSKA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 18, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+February 22, 2019
+APPEARANCES:
+Agent for the Appellant:
+Nino Cioffi
+Counsel for the Respondent:
+Diana Aird
+Natasha Mukhtar
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2019 TCC 8.

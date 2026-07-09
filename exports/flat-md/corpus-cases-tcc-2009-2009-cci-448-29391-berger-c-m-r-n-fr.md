@@ -1,0 +1,160 @@
+---
+title: "Berger c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29391/index.do"
+last_modified: "2009-09-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 448"
+citation2: ""
+neutral_citation: "2009 CCI 448"
+decision_date: "2009-09-10"
+language: "fr"
+item_id: "29391"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6882
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:35:49.149000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b26f867dfa1893b454aaf94f417f16d79b8361c990b9a010134bb7d5569aff6c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Berger c. M.R.N.
+
+- Citation: 2009 CCI 448
+- Decision date: 2009-09-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6882, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berger c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-10
+Référence neutre
+2009 CCI 448
+Numéro de dossier
+2009-7(EI)APP, 2009-8(CPP)APP
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-7(EI)APP
+[TRADUCTION FRANÇAISE]
+ENTRE :
+WILLIAM BERGER,
+demandeur,
+et
+MINISTRE DU REVENU NATIONAL
+intimé.
+____________________________________________________________________
+Demande entendue sur preuve commune avec la demande de
+William Berger (2009-8(CPP)APP)
+le 13 juillet 2009 à Sydney (Nouvelle-Écosse)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat du demandeur :
+Clara Gray
+Avocat de l’intimé :
+Devon E. Peavoy
+____________________________________________________________________
+JUGEMENT
+La demande du demandeur en prorogation de délai pour interjeter appel devant notre Cour d’une décision rendue en vertu de la Loi sur l’assurance-emploi est rejetée.
+Signé à Ottawa, Canada ce 10e jour de septembre 2009.
+« Wyman W. Webb »
+Juge Webb
+Dossier : 2009-8(CPP)APP
+ENTRE :
+WILLIAM BERGER,
+demandeur,
+et
+MINISTRE DU REVENU NATIONAL
+intimé.
+____________________________________________________________________
+Demande entendue sur preuve commune avec la demande de
+William Berger (2009-7(EI)APP)
+le 13 juillet 2009 à Sydney (Nouvelle-Écosse)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat du demandeur :
+Clara Gray
+Avocat de l’intimé :
+Devon E. Peavoy
+____________________________________________________________________
+JUGEMENT
+La demande du demandeur en prorogation de délai pour interjeter appel devant notre Cour d’une décision rendue en vertu du Régime de pensions du Canada est rejetée.
+Signé à Ottawa, Canada ce 10e jour de septembre 2009.
+« Wyman W. Webb »
+Juge Webb
+Référence : 2009 CCI 448
+Date : 20090910
+Dossiers : 2009-7(EI)APP
+2009-8(CPP)APP
+ENTRE :
+WILLIAM BERGER,
+demandeur,
+et
+MINISTRE DU REVENU NATIONAL
+intimé.
+MOTIFS DU JUGEMENT
+Juge Webb
+[1] Le demandeur a déposé une demande en prorogation de délai pour interjeter appel devant notre Cour d’une décision rendue en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada. Le demandeur souhaite interjeter appel d’une décision rendue le 30 octobre 2007 et lui ayant été envoyé par la poste ce même jour. La demande de prorogation de délai pour interjeter appel a seulement été déposée devant notre Cour le 12 novembre 2008.
+[2] Le paragraphe 28(1) du Régime de pensions du Canada dispose ce qui suit :
+28. (1) La personne visée par la décision du ministre sur l’appel que prévoit les articles 27 ou 27.1, ou son représentant, peut, dans les quatre-vingt-dix jours qui suivent la date à laquelle la décision lui est communiquée, ou dans le délai supplémentaire que la Cour canadienne de l’impôt peut accorder sur demande qui lui est présentée dans les quatre-vingt-dix jours suivant l’expiration de ces quatre-vingt-dix jours, en appeler de la décision en question auprès de cette Cour en conformité avec la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+[3] Le paragraphe 103(1) de la Loi sur l’assurance-emploi dispose ce qui suit :
+103. La Commission ou une personne que concerne une décision rendue au titre de l’article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l’impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l’expiration de ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l’impôt de la manière prévue par la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+[4] Les deux paragraphes prévoient qu’un appel devant notre Cour doit être déposé dans les 90 jours de la communication de la décision au demandeur ou qu’une demande en prorogation du délai pour interjeter appel doit être déposée dans les 90 jours suivant l’expiration de la première période de 90 jours. Le demandeur n’a pas déposé d’avis d’appel dans les 90 jours de la communication de la décision. Il n’a pas non plus déposé de demande en prorogation du délai pour interjeter appel dans les 90 jours suivant cette première période. La demande en prorogation du délai pour interjeter appel devant notre Cour a été déposée plus d’un an après la décision et la communication de celle-ci au demandeur.
+[5] L’avocat du demandeur soutient que, nonobstant les dispositions de ces lois, il serait juste et équitable de permettre au demandeur d’interjeter appel devant notre Cour. Le demandeur était malade à l’automne de 2007, puis il a subi une rupture des intestins et de la vessie en début 2008. Il a passé une période de temps considérable à l’hôpital. Toutefois, ni le Régime de pensions du Canada ni la Loi sur l’assurance-emploi ne comporte une disposition semblable à l’article 3 de la Limitation of Actions Act (Nouvelle-Écosse), laquelle permettrait à la Cour de rejeter une défense fondée sur une prescription au motif qu’il serait équitable d’agir ainsi en vertu des facteurs énoncés au paragraphe 3(2) de cette loi.
+[6] Il me semble que le Régime de pensions du Canada et la Loi sur l’assurance-emploi sont clairs : si l’appel n’a pas été entrepris dans les 90 jours de la communication de la décision à la personne ou si aucune demande de prorogation de délai pour interjeter appel n’est déposée au cours de la période de 90 jours suivants la première, alors le demandeur aura perdu son droit d’appel devant notre Cour.
+[7] Notre Cour a été constituée par une loi fédérale, la Loi sur la Cour canadienne de l’impôt. [6] L’article 12 de cette Loi prévoit les suivantes :
+12. (1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance-emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+(Je souligne.)
+[8] Il me semble que la compétence de notre Cour pour entendre des appels interjetés à l’encontre de décisions rendues en vertu de la Loi sur l’assurance-emploi ou du Régime de pensions du Canada est limitée aux situations où un droit d’appel est prévu par celles-ci. Ces lois prévoient seulement un appel devant notre Cour s’il est déposé dans les 90 jours suivant la date de la communication de la décision à la personne ou si une demande en prorogation de délai pour interjeter appel est déposée dans les 90 jours suivant immédiatement l’expiration de la première période d’appel. Le demandeur n’ayant respecté ni l’une ni l’autre de ces dispositions, la Cour n’a pas la compétence pour entendre cet appel.
+[9] Dans Pervais c. La Reine, (1996) 192 N.R. 269, le juge Strayer de la Cour d’appel fédérale a confirmé les suivantes :
+1 Nous sommes tous d’avis qu’il y a lieu de rejeter la présente demande de contrôle judiciaire. Le seul droit d’appel qui existe à l’encontre d’une décision du ministre concernant l’assurabilité d’un emploi est celui qui est prévu au paragraphe 70(1) de la Loi sur l’assurance-chômage. Ce droit est conditionnel à la présentation de l’appel dans les 90 jours suivant la communication de la décision du ministre, ou dans tout autre délai autorisé par la Cour de l’impôt par suite d’une demande présentée à l’intérieur de ce délai de 90 jours. Aucune demande semblable n’a été présentée en l’espèce et l’appel a été interjeté 92 jours après la communication de la décision du ministre.
+2 Bien que la règle 27 des Règles de la Cour de l’impôt à l’égard des appels en matière d’assurance-chômage, établies en vertu de la Loi sur la Cour canadienne de l’impôt, autorise la présente Cour à dispenser qui que ce soit de l’application de n’importe quelle règle, elle ne lui donne manifestement pas le droit de modifier les conditions applicables aux appels prévues au paragraphe 70(1) de la Loi sur l’assurance-chômage.
+[10] Dans Lamarre c. Ministre du Revenu national, (1998) 233 N.R. 156, le juge Marceau de la Cour d’appel fédérale a tenu les propos suivants :
+2 Il ne fait pas de doute, depuis la décision de cette Cour dans Vaillancourt,1 que le délai de 90 jours prévu à ce paragraphe 70(1) de la Loi sur l’assurance-chômage2 pour en appeler d’une décision du ministre est un délai de rigueur que la Cour canadienne de l’impôt n’a pas le pouvoir d’étendre. [Les références aux notes de bas page ont été insérées par le juge Marceau et se trouvent à la fin de la décision publiée par la Cour d’appel fédérale.]
+[11] Par conséquent, les demandes du demandeur en prorogation de délai pour interjeter appel devant notre Cour de décisions rendues en vertu du Régime de pensions du Canada et de la Loi sur l’assurance-emploi sont rejetées.
+Signé à Ottawa, Canada ce 10e jour de septembre 2009.
+« Wyman W. Webb »
+Juge Webb
+RÉFÉRENCE : 2009 CCI 448
+DOSSIERS : 2009-7(EI)APP et 2009-8(CPP)
+INTITULÉ : William Berger c. M.R.N
+LIEU DE L’AUDIENCE : Sydney (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 13 juillet 2009
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 10 septembre 2009
+COMPARUTIONS :
+Avocat du demandeur :
+Clara Gray
+Avocat de l’intimée :
+Devon E. Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour le demandeur :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, Q.C.
+Sous-procureur général du Canada
+Toronto (Ontario)

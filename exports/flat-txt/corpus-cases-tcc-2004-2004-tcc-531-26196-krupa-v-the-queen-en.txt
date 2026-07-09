@@ -1,0 +1,145 @@
+Title: Krupa v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26196/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-531-26196-krupa-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-07-28
+
+# Krupa v. The Queen
+
+- Citation: 2004 TCC 531
+- Decision date: 2004-07-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3927, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krupa v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-28
+Neutral citation
+2004 TCC 531
+File numbers
+2003-1174(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1174(IT)I
+BETWEEN:
+EDWARD KRUPA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 30, 2004, at Kitchener, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Walter Drescher
+Counsel for the Respondent:
+Nicolas Simard
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing income, the Appellant is entitled to deduct the child support payments claimed of $5,160.00.
+Signed at Ottawa, Canada, this 28th day of July, 2004.
+"E.A. Bowie"
+Bowie J.
+Citation: 2004TCC531
+Date: 20040728
+Docket: 2003-1174(IT)I
+BETWEEN:
+EDWARD KRUPA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] The issue in this appeal is the amount that the Appellant is entitled to deduct in respect of child support payments in computing his income for the 2000 taxation year. The resolution of the issue lies in the construction to be given to two documents. One is the Minutes of Settlement of an action begun by the Appellant against his former spouse in the Ontario Court (General Division) to resolve issues of custody, maintenance and division of property. The other is the Judgment of that Court in the action, based on those Minutes of Settlement. The Minutes of Settlement are dated April 29, 1997 and the Judgment May 26, 1997. It is not in dispute that the case falls to be determined under the Income Tax Act (the "Act") as it stood prior to the 1997 amendments.[1]
+[2] The Minutes of Settlement provide that the Appellant is to pay child support of $125.00 per month (plus indexing) to his former spouse for each of their two children until they reach the age of 18, or one of certain other events occurs. This provision also appears in the Judgment. These payments were made by the Appellant in 2000, and the Respondent does not dispute his right to deduct these amounts.
+[3] The dispute arises in connection with paragraph 8 of the Minutes of Settlement, which is replicated in the Judgment, and paragraph 11, which is not. Paragraph 8 deals with the division of marital property. It provides that the Appellant's former spouse shall make an equalization payment to him of $35,000, to be secured by a mortgage on the family home (which she retains), and payable, with interest at 5.5% per annum, at the rate of $430.00 per month. An amortization schedule attached to the Minutes of Settlement shows the final payment due on October 1, 2005, at which time their children will be 25 and almost 21 years old.
+[4] The Appellant testified at trial that his former spouse had an obligation to him under the Family Law Act in the amount of $35,000 in respect of the equity in the matrimonial home. However, since she was not in a position to obtain financing they would have had to sell the house and divide the proceeds. The mortgage agreement, then, was entered into so that the Appellant's former spouse and children could remain in their home.
+[5] Paragraph 11 of the Minutes of Settlement provides that the Appellant will pay an additional $430.00 on the first day of each month to his former spouse for child support until October 1, 2005, the payment dates coinciding with the dates of the mortgage payments to be made by the former spouse to the Appellant. These payments are not indexed, and it is made clear that " ... no monies shall exchange hands with respect to the equalization payment and this support amount". Paragraph 11 is reproduced in its entirety as Schedule A to these Reasons. While it is no paragon of clarity, two things are evident in this paragraph. The payments to be made by the Appellant for child support under it are to coincide in amount, due date and duration with the payments to be made by his former spouse under the mortgage, and the amounts to be paid by each of them will not be paid in cash, but by mutual forgiveness of the debt arising each month.
+[6] In 2000, the Appellant deducted a total of $11,910 from his income under paragraph 60(b) as child support payments paid to his former spouse. The Minister disallowed the deduction of $5,160 ($430 x 12 months), arguing that the cancellation of the obligation to pay $430 each month under the mortgage agreement could not create a deduction under that paragraph since no amount was paid, nor required to be paid, by the Appellant to his former spouse.
+[7] Paragraph 60(b) of the Income Tax Act reads as follows:
+60 There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+(a) ...
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+A "support amount" is defined in subsection 56.1(4) as:
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+An "amount" is defined in subsection 248(1):
+"amount" means money, rights or things expressed in terms of the amount of money or the value in terms of money of the right or thing, ...
+[8] Counsel for the Respondent argued that the Appellant is not entitled to a deduction under section 60 for the amounts in excess of $250.00 per month (plus indexing) because no such amounts were paid by him. The deduction is provided in that section only for "... the total of all amounts each of which is a support amount paid ... ". In my view, the proper construction to be put on the transactions here is that by entering into the mortgage, the Appellant's former spouse obliged herself to pay him $430.00 per month, and by the terms of the Minutes of Settlement, paragraph 11, the Appellant obliged himself to pay her $430.00 per month. These mutual obligations were each forgiven by the person entitled to receive the amount.
+[9] In Armstrong v. M.N.R.,[2] which was not referred to by counsel in argument, Bonner J. stated at 1016:
+... As I understood the Appellant's argument, it rested on the premise that no amount can be said to be received unless there has been a payment by cash or by cheque. That premise, in my view, is incorrect. The set off arrangement did involve receipt by the Appellant of an amount within the meaning of paragraph 56(1)(b). ...
+He also referred to In re Harmony & Montagu Tin and Copper Mining Co., Spargo's Case,[3] wherein Mellish L.J. stated at page 265:
+"Nothing is clearer," he said, "than that if parties account with each other, and sums are stated to be due on the one side, and sums to an equal amount due on the other side of that account, and those accounts are settled by both parties, it is exactly the same thing as if the sums due on both sides had been paid. Indeed, it is a general rule of law, that in every case where a transaction resolves itself into paying money by A. to B., and then handing it back again by B. to A., if the parties meet together and agree to set one demand against the other, they need not go through the form and ceremony of handing the money backwards and forwards".
+Although that case was decided in the context of the English Companies Act of 1867, the logic is inescapable, and the same principle applies today for the purposes of the Canadian Income Tax Act.
+[10] Three cases were referred to in argument. In Rosin v. Canada,[4] the Appellant argued that a garnishee summons served on his solicitors was a payment for the purposes of the Act. In disallowing the appeal, I noted at paragraph 4:
+... Garnishee proceedings involve two stages. In the first, the summons is served on the garnishee; in the second the garnishee either pays the amount owing into Court, or else disputes the liability to do so. Paying the funds into Court acts as a discharge of the garnishee debtor's obligation. Between the service of the summons and the payment into Court, or the filing and resolution of a dispute, the garnishee is not free to pay the funds attached to the debtor, or to otherwise dispose of them. However, it cannot be said that the debt has been paid during this period.
+The reasoning in that case was limited to whether a person who has been served with a garnishee summons could be considered to have made a payment prior to the date of the payment into Court. It has no application to the facts of this case.
+[11] In Fisher v. R.,[5] at the time of the division of matrimonial property the Appellant owed her ex-spouse $12,138 as an equalization obligation amount, and her ex-spouse owed her $7,558 in respect of maintenance arrears. In his Order dividing the matrimonial property between the parties, the Judge of the Ontario Court (General Division) applied the two cross obligations against each other. The Minister reassessed the Appellant because she did not include the cancelled debt of $7,558 in her income as maintenance arrears under paragraph 56(1)(b). Mogan J. of this Court held that the Order of the Ontario Court represented a setoff at common law, and that on the facts before him such a setoff did not constitute payment of an amount for the purposes of the Act. However, he went on to note that where two parties mutually agreed to cancel offsetting debts, the agreement could be the payment of an amount for purposes of the Act. In the present case, the Appellant and his ex-spouse have very clearly agreed by virtue of paragraph 11 of the Minutes of Settlement that the cancellation of their mutual obligations would be considered the payment of an amount. It is consequently immaterial whether or not the transaction set out under paragraph 11 of the Minutes of Settlement meets the technical legal definition of a setoff, and I make no finding as to that. The term 'setoff' is both a legal term of art and a term of common usage. It has many acceptable uses, and its meaning in any particular situation depends on the context in which it is used. The Fisher case does not apply here.
+[12] In Hallett v. Canada,[6] the Appellant's ex-spouse was delinquent in paying child support. To satisfy the outstanding arrears he transferred his half interest (worth $5,600) in the mobile home he had previously shared with the Appellant, and in which the Appellant resided at the time. The Appellant did not include the $5,600 in her income under paragraph 56(1)(b), claiming that it was not a support amount because it was not an 'amount' for the purposes of the Income Tax Act. At paragraph 4, I said:
+... There can be no doubt that the interest in the mobile home that passed to the Appellant is a "right or thing", and the value of it is established by the transaction between the Appellant and Rodney. The Appellant herself estimated the value at $6,000, and the transaction between them was certainly at arm's length. The same result has been reached in the past by Bonner J., and by O'Connor J. If the value of payments in kind were not payments for purposes of the Act, the profits derived from a great many business transactions would be immune from taxation; it is for that reason that Parliament defined "amount" the way that it did.
+This case does apply. It stands for the proposition that a 'right or thing' can be an amount for the purposes of the Income Tax Act, and that its value can be determined by reference to a relevant transaction.
+[13] Paragraphs 8 and 11 of the Minutes of Settlement create a legal right in each of the Appellant and his former spouse to be paid $430.00. Therefore, although no money changed hands, a legal right to the value of $430.00 was transferred by each to the other every month as consideration under the terms of paragraph 11. The definition of 'amount' in subsection 248(1) certainly encompasses the transactions. As a result, the Appellant paid an amount equal to $430.00 per month to his former spouse for the purposes of paragraph 60(b) of the Act, and is entitled to the deduction claimed. The Appellant is also entitled to costs.
+Signed at Ottawa, Canada, this 28th day of July, 2004.
+"E.A. Bowie"
+Bowie J.
+SCHEDULE A
+11. Pursuant to paragraph 8 herein the plaintiff will pay support to the defendant for the maintenance of the children for a fixed period of equivalent time of the mortgage obligation outlined above. The said support obligation shall commence on May 1, 1997 and shall cease on October 1, 2005 pursuant to Schedule "A" as attached hereto. The said support obligation shall not be subject to enforcement by the Family Support Plan but is in lieu of the equalization payment as outlined in paragraph 8 above. In addition, the parties acknowledge that this support amount shall not be indexed \s outlined pursuant to paragraph 7 and the parties further acknowledge that the said support obligation shall continue until such time as the defendant:
+a. dies;
+b. pays out the mortgage in full; or
+c. sells or transfers the house.
+The parties further acknowledge that the above paragraph and in particular dealing with the child support payment of $430.00 per month shall be read and must be read in conjunction with paragraph 8. It is the intention of the parties that this support shall be in lieu of a true equalization payment and that no monies shall exchange hands with respect to the equalization payment and this support amount. It is further the parties intention that this amount shall not be enforced by the Family Responsibility Office and that this amount shall not be increased annually pursuant to paragraph 7 above.
+CITATION:
+2004TCC531
+COURT FILE NO.:
+2003-1174(IT)I
+STYLE OF CAUSE:
+Edward Krupa and Her Majesty the Queen
+PLACE OF HEARING:
+Kitchener, Ontario
+DATE OF HEARING:
+April 30, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+July 28, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Walter Drescher
+Counsel for the Respondent:
+Nicolas Simard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Walter Drescher
+Firm:
+Cobb & Jones
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]
+Income Tax Budget Amendments Act, 1996, S.C. 1996-1997 c. 25, sections 8 and 9.
+[2] 88 DTC 1015.
+[3]
+[1861-73] All E.R. Rep. 261.
+[4] [1999] T.C.J. No. 444.
+[5] 2000 DTC 3612.
+[6] [2002] T.C.J. No. 587.

@@ -1,0 +1,151 @@
+---
+title: "Head v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27664/index.do"
+last_modified: "2007-05-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 227"
+citation2: ""
+neutral_citation: "2007 CCI 227"
+decision_date: "2007-05-23"
+language: "fr"
+item_id: "27664"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 452
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:39:02.233000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "61b9ffaad00bb8e6f9120572587457ae33e09c78f74b3337e4e0c17a50233e74"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Head v. The Queen
+
+- Citation: 2007 CCI 227
+- Decision date: 2007-05-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 452, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Head v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-23
+Référence neutre
+2007 CCI 227
+Numéro de dossier
+2006-2250(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-2250(GST)I
+ENTRE :
+RICHARD HEAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 décembre 2006, à St. John’s (Terre‑Neuve).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelant :
+Me Mark Pike
+Avocat de l’intimée :
+Me Craig Silliker
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 23 novembre 2004 et porte le numéro 24686, pour les périodes allant du 1er au 31 juillet 2003, du 1er au 31 août 2003 et du 1er au 31 décembre 2003, est accueilli sans dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour de mai 2007.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 31e jour d’août 2007
+Johanne Brassard, trad. a.
+Référence : 2007CCI227
+Date : 20070523
+Dossier : 2006-2250(GST)I
+ENTRE :
+RICHARD HEAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel se rapportant à une cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise (la « Loi ») pour les périodes allant du 1er au 31 juillet 2003, du 1er au 31 août 2003 et du 1er au 31 décembre 2003; l’avis de cotisation porte le numéro 24686; il est daté du 23 novembre 2003. L’appelant a fait l’objet d’une cotisation d’un montant de 73 558,88 $ au titre des taxes, de 2 024,64 $ au titre des intérêts et de 4 985,98 $ au titre des pénalités à l’égard de la taxe nette non versée qui était due par Mainstream Homes Inc. (« Mainstream »), dont l’appelant était administrateur au cours de toutes les périodes pertinentes.
+[2] Mainstream a été constituée en personne morale le 7 avril 1999 aux fins d’un projet de promotion immobilière devant être achevé en quatre phases. Mis à part l’appelant, le seul autre administrateur de Mainstream était, pendant la période pertinente, David O’Reilly.
+[3] Mainstream a construit environ 86 habitations sur une période de trois ans. David O’Reilly était responsable des finances de Mainstream, alors que l’appelant était chargé de l’exploitation de l’entreprise. Tous les matériaux de construction nécessaires ont été achetés par l’entremise d’une société désignée sous le nom d’Albert Hichman (« Hichman »), cette dernière ayant également fourni des fonds à Mainstream au fil des ans. Hichman a finalement été acquise par Chester Dawe Limited (« CDL »).
+[4] Au mois de juillet 2003, un grand nombre d’habitations étaient en construction et Mainstream manquait d’argent à un point tel que ses obligations dépassaient sa capacité d’y faire honneur. Jusqu’alors, Mainstream n’avait pas eu d’arriérés quant aux versements de la taxe de vente harmonisée (la « TVH »). Au mois d’août, les difficultés financières de Mainstream ont continué et David O’Reilly a entamé des négociations avec CDL en vue de remédier à la situation. Les déclarations des mois de juillet, d’août et de septembre 2003 relatives à la TVH ont été produites, mais Mainstream n’a pas versé la taxe nette au ministre du Revenu national (le « ministre »).
+[5] Le 2 septembre 2003, CDL et Mainstream ont signé un protocole d’entente (le « PE ») par lequel CDL devait acquérir le titre afférent au reste de la propriété, détenu par Mainstream et par une autre société appartenant à l’appelant et à M. O’Reilly, sous réserve des charges dont la propriété était grevée. La société CDL s’est également engagée à assumer l’obligation relative à la TVH de Mainstream pour les mois d’août et de septembre 2003, le montant en cause devant être ajouté aux autres montants que Mainstream devait à CDL. M. O’Reilly a témoigné que la clause relative à la TVH avait été ajoutée au PE à sa demande, car il était conscient de la responsabilité qui lui incombait, à titre d’administrateur, de payer la taxe.
+[6] La société CDL gérait le chantier de construction à la date du PE, mais elle n’a pas payé la TVH. Au mois d’octobre 2003, M. O’Reilly a appris que CDL n’avait pas payé la taxe. Il a écrit à l’Agence des douanes et du revenu du Canada (l’« ADRC »), comme cette agence s’appelait alors, en vue de produire les déclarations relatives à la TVH et de l’informer de l’existence du PE et de l’omission de CDL de payer la TVH. M. O’Reilly a également informé l’ADRC du transfert imminent du bien‑fonds en faveur de CDL et de l’exercice possible d’un pouvoir de vente par un créancier garanti, et a invité l’ADRC à prendre des mesures en vue de protéger et de garantir sa créance.
+[7] Certains terrains ont finalement été vendus au moyen d’un pouvoir de vente le 2 janvier 2004. Dans l’intervalle, M. O’Reilly avait personnellement fait faillite le 10 novembre 2003. Le 19 janvier 2004, M. O’Reilly a rédigé une lettre à l’intention de l’ADRC pour le compte de Mainstream, mais c’est l’appelant qui a signé la lettre à cause de la faillite de M. O’Reilly. La lettre révélait que Mainstream avait omis de déclarer la vente de deux lots au mois de décembre 2002, et il était demandé à l’ADRC d’ajouter la taxe non versée pour ces deux lots au privilège que celle‑ci détenait sur les terrains qui devaient être vendus le lendemain au moyen du pouvoir de vente. Les faits ne montrent pas si c’est ce que l’ADRC a fait.
+[8] L’appelant est dessinateur de profession. Son expertise se rapporte au domaine de la construction; il a témoigné que c’est la raison pour laquelle M. O’Reilly devait s’occuper du côté administratif du projet. L’appelant avait rencontré M. O’Reilly par l’entremise d’amis communs et ils se sont tous deux engagés dans le projet. M. O’Reilly était responsable de l’administration de l’entreprise et notamment des finances. L’appelant croyait comprendre que la TVH était payable sur leurs ventes; il a déclaré qu’il incombait à M. O’Reilly de la verser pour le compte de Mainstream.
+[9] Le 3 juillet 2003, l’appelant a été grièvement blessé; il s’est fracturé la jambe à sept endroits. Étant donné qu’il était allergique aux médicaments contre la douleur, sa convalescence a duré huit mois et elle a été pénible. Cela l’a également empêché de se rendre sur le chantier de construction. Selon l’appelant, des mesures ont été prises pour que la dette existante relative à la TVH soit payée. L’appelant a mentionné à cet égard le PE conclu avec CDL et les lettres ultérieures dans lesquelles des mesures étaient proposées aux fins du recouvrement de la dette par l’ADRC. L’appelant n’a joué aucun rôle dans les négociations qui ont eu lieu avec CDL ou dans la négociation du PE qui s’en est ensuivi, par lequel CDL s’engageait à payer la dette de Mainstream et en particulier la TVH.
+[10] M. O’Reilly a mis l’appelant au courant de la dette impayée relative à la TVH vers la fin du mois d’août ou au début du mois de septembre 2003. L’appelant n’a jamais signé de formulaires relatifs à la TVH, sauf ceux qui ont été envoyés au mois de janvier 2004. Il a signé ces formulaires pour la même raison qu’il a signé la lettre du 19 janvier 2004 adressée à l’ADRC. D’autres lettres envoyées à l’ADRC et signées par l’appelant ont été rédigées par M. O’Reilly. L’appelant a témoigné que, même s’il passait son temps sur les chantiers, il communiquait chaque mois avec M. O’Reilly, qui lui assurait que les factures étaient toutes payées. L’appelant a reconnu qu’il ne vérifiait jamais les livres, mais il a dit que, même s’il l’avait fait, il n’aurait pas été capable de les comprendre. L’appelant, malgré son pouvoir de signature, n’a jamais signé de chèque pour Mainstream ou pour l’autre personne morale qui était propriétaire du bien‑fonds et qui était partie au PE.
+[11] L’appelant a témoigné que, pendant toute la période pertinente, il avait toujours cru comprendre que CDL et l’ancien propriétaire étaient, comme il l’a dit, ceux qui finançaient le projet et qu’étant donné que le PE était un document juridique, CDL l’honorerait et les arriérés de la TVH seraient payés. L’appelant a également commencé à comprendre, grâce au PE, quelle était la responsabilité de l’administrateur à l’égard des versements impayés.
+[12] La cotisation a été établie en vertu de l’article 323 de la Loi, selon lequel les administrateurs d’une personne morale sont solidairement tenus, avec cette dernière, de payer la taxe non versée en cas de défaut de la personne morale. L’administrateur qui satisfait au critère énoncé au paragraphe 323(3) de la Loi peut échapper à cette responsabilité. Le paragraphe 323(3) est rédigé comme suit :
+(3) Diligence – L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[13] Quant aux restrictions énoncées au paragraphe 323(2), elles ne sont pas ici en litige et le montant en cause n’est pas non plus contesté.
+[14] Le critère est donc de nature factuelle; il s’agit de savoir ce qu’une personne raisonnable aurait fait, compte tenu des circonstances qui existaient à ce moment‑là, en vue de prévenir l’omission de la personne morale de verser la taxe. L’arrêt qui fait autorité, lequel est également l’arrêt le plus souvent cité dans ce genre de litige, est Soper v. R., [1997] 3 C.T.C. 242 (C.A.F.), dans lequel le juge Robertson résume la norme de prudence aux paragraphes 29 et 30 de ses motifs :
+29 Le moment convient bien pour résumer mes conclusions au sujet du paragraphe 227.1(3) de la Loi de l’impôt sur le revenu. La norme de prudence énoncée au paragraphe 227.1(3) de la Loi est fondamentalement souple. Au lieu de traiter les administrateurs comme un groupe homogène de professionnels dont la conduite est régie par une seule norme immuable, cette disposition comporte un élément subjectif qui tient compte des connaissances personnelles et de l’expérience de l’administrateur, ainsi que du contexte de la société visée, notamment son organisation, ses ressources, ses usages et sa conduite. Ainsi, on attend plus des personnes qui possèdent des compétences supérieures à la moyenne (p. ex. les gens d’affaires chevronnés).
+30 La norme de prudence énoncée au paragraphe 227.1(3) de la Loi n’est donc pas purement objective. Elle n’est pas purement subjective non plus. Il ne suffit pas qu’un administrateur affirme qu’il a fait de son mieux, car il invoque ainsi la norme purement subjective. Il est également évident que l’intégrité ne suffit pas. Toutefois, la norme n’est pas une norme professionnelle. Ces situations ne sont pas régies non plus par la norme du droit de la négligence. La Loi contient plutôt des éléments objectifs, qui sont représentés par la notion de la personne raisonnable, et des éléments subjectifs, qui sont inhérents à des considérations individuelles comme la « compétence » et l’idée de « circonstances comparables ». Par conséquent, la norme peut à bon droit être qualifiée de norme « objective subjective ».
+[15] Le juge ajoute ce qui suit aux paragraphes 33 et 39 :
+33 Je tiens tout d’abord à souligner qu’en adoptant cette démarche analytique, je ne donne pas à entendre que la responsabilité est simplement fonction du fait qu’une personne est considérée comme un administrateur interne par opposition à un administrateur externe. Cette qualification constitue plutôt simplement le point de départ de mon analyse. Mais cependant, il est difficile de nier que les administrateurs internes, c’est-à-dire ceux qui s’occupent de la gestion quotidienne de la société et qui peuvent influencer la conduite de ses affaires, sont ceux qui auront le plus de mal à invoquer la défense de diligence raisonnable. Pour ces personnes, ce sera une opération ardue de soutenir avec conviction que, malgré leur participation quotidienne à la gestion de l’entreprise, elles n’avaient aucun sens des affaires, au point que ce facteur devrait l’emporter sur la présomption qu’elles étaient au courant des exigences de versement et d’un problème à cet égard, ou auraient dû l’être. Bref, les administrateurs internes auront un obstacle important à vaincre quand ils soutiendront que l’élément subjectif de la norme de prudence devrait primer l’aspect objectif de la norme.
+39 Pour satisfaire à l’exigence de diligence raisonnable prévue au paragraphe 227.1(3), un administrateur peut, comme le ministère du Revenu national l’a souligné, prendre des « mesures » en établissant des contrôles pour vérifier les versements, en demandant aux agents financiers de la société de présenter régulièrement des rapports sur la mise en œuvre de ces contrôles et en obtenant régulièrement la confirmation que les retenues et les versements ont été faits comme l’exige la Loi : voir le paragraphe 7 de la Circulaire d’information 89-2, précitée.
+[16] Les difficultés financières de Mainstream ont commencé au cours de la troisième année du projet de promotion immobilière, à un moment où Mainstream n’avait pas encore réalisé la plupart de ses bénéfices, comme c’est habituellement le cas dans ces types de projets. Jusqu’à ce moment‑là, Mainstream avait compté sur son fournisseur de matériaux de construction, qui lui assurait par ailleurs un soutien financier. Mainstream était donc en mesure de s’acquitter de ses autres obligations financières; en particulier, elle était en mesure de verser en temps opportun la taxe nette en vertu de la Loi. Cependant, l’entreprise de fourniture de matériaux a changé de propriétaire et, en 2003, le chiffre des ventes était peu élevé, ce qui a empêché Mainstream de verser la taxe nette pour les périodes des mois de juillet et d’août 2003.
+[17] L’administrateur responsable des aspects administratifs et financiers des activités de Mainstream, à savoir M. O’Reilly, a entamé des négociations avec CDL, qui avait acheté l’entreprise de fourniture de matériaux, en vue de résoudre cette crise financière et de régler la question de la taxe impayée ou de l’obligation relative à la TVH. La société CDL s’est engagée à payer la TVH qui était due par Mainstream, mais elle ne l’a jamais fait. D’autre part, CDL a pris en charge les activités de Mainstream dans l’espoir de réduire les avances qu’elle consentait à cette dernière.
+[18] La preuve nous a appris que les responsabilités de l’appelant chez Mainstream n’avaient rien à voir avec les activités administratives et financières quotidiennes de cette société. Compte tenu de ses antécédents et de son expérience de dessinateur, l’appelant s’était vu confier les activités de construction de Mainstream. Quant au côté administratif, l’appelant s’en remettait à M. O’Reilly et laissait ce dernier s’en occuper. Au début du mois de juillet, l’appelant n’était pas disponible, à cause d’un accident; de plus, il a appris que la TVH n’avait pas été versée à la fin du mois d’août et au début du mois de septembre 2003 seulement. À ce moment‑là, il était presque trop tard, étant donné que CDL avait pris la relève, et le seul espoir de Mainstream était que CDL s’engage à payer la TVH pour son compte.
+[19] L’appelant n’avait aucune raison de soupçonner que la TVH n’avait pas été versée pour la période en question, puisque les versements avaient été régulièrement effectués depuis le début du projet et puisque cet aspect des activités de Mainstream relevait de M. O’Reilly, qui était chargé de payer les factures et de s’occuper de l’aspect administratif du projet. L’appelant a témoigné qu’il vérifiait chaque mois auprès de M. O’Reilly si toutes les factures étaient payées. Sa blessure l’a toutefois tenu à l’écart des activités, mais lorsqu’il a découvert que la TVH n’était pas payée, à la fin du mois d’août, il a accepté de signer le PE en espérant que cela règle la question de l’obligation qui incombait à Mainstream à l’égard de la dette relative à la TVH.
+[20] Étant donné que ses antécédents et ses qualifications se rapportent au domaine de la construction et que sa participation aux activités de Mainstream n’avait rien à voir avec les aspects financiers et administratifs de l’entreprise, je conclus qu’eu égard aux circonstances, l’appelant a fait tout ce à quoi il était possible de s’attendre de sa part et je conclus également que l’appelant a invoqué avec succès le moyen de défense fondé sur la diligence raisonnable. L’appel est accueilli.
+Signé à Ottawa, Canada, ce 23e jour de mai 2007.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 31e jour d’août 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI227
+No DU DOSSIER DE LA COUR : 2006-2250(GST)I
+INTITULÉ : Richard Head
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : St-John’s (Terre-Neuve)
+DATE DE L’AUDIENCE : Le 4 décembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 23 mai 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Mark Pike
+Avocat de l’intimée :
+Me Craig Silliker
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Mark Pike
+Cabinet : Benson Myles
+Ville : St. John’s (Terre-Neuve)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,219 @@
+Title: Shair v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27053/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-278-27053-shair-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-05-10
+
+# Shair v. The Queen
+
+- Citation: 2006 CCI 278
+- Decision date: 2006-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 598, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shair v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-10
+Référence neutre
+2006 CCI 278
+Numéro de dossier
+2002-733(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑733(IT)G
+ENTRE :
+AWNI SHAIR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels d’Awni Shair
+(2002‑734(IT)I) et d’A & C Auto Repairs Ltd. (2002‑1438(IT)I),
+à Toronto (Ontario), le 5 octobre 2005.
+Devant : l’honorable juge C. H. McArthur
+Comparutions :
+Avocat de l’appelant :
+Me Robert N. Kostyniuk
+Avocats de l’intimée :
+Mes Eleanor Thorn et Eric Sherbert
+____________________________________________________________________
+JUGEMENT
+Sur consentement des parties, l’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1994 est accueilli sans que des dépens soient adjugés et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de mai 2006.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 23e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+Dossier : 2002‑734(IT)I
+ENTRE :
+AWNI SHAIR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels d’Awni Shair
+(2002‑733(IT)G) et d’A & C Auto Repairs Ltd. (2002‑1438(IT)I),
+à Toronto (Ontario), le 5 octobre 2005.
+Devant : l’honorable juge C. H. McArthur
+Comparutions :
+Avocat de l’appelant :
+Me Robert N. Kostyniuk
+Avocats de l’intimée :
+Mes Eleanor Thorn et Eric Sherbert
+____________________________________________________________________
+JUGEMENT
+Le prétendu appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1995 est annulé.
+Les appels des cotisations établies en vertu de la Loi pour les années d’imposition 1996 et 1997 sont accueillis sans que des dépens soient adjugés et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations pour le motif qu’il est renoncé aux pénalités imposées conformément au paragraphe 163(2) de la Loi.
+Signé à Ottawa, Canada, ce 10e jour de mai 2006.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 23e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+Dossier : 2002‑1438(IT)I
+ENTRE :
+A & C AUTO REPAIRS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ___________________________________________________________________
+Appels entendus sur preuve commune avec les appels d’Awni Shair
+(2002‑733(IT)G) et d’Awni Shair (2002‑734(IT)I),
+à Toronto (Ontario), le 5 octobre 2005.
+Devant : l’honorable juge C. H. McArthur
+Comparutions :
+Avocat de l’appelante :
+Me Robert N. Kostyniuk
+Avocats de l’intimée :
+Mes Eleanor Thorn et Eric Sherbert
+____________________________________________________________________
+JUGEMENT
+Sur consentement des parties, le prétendu appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1994 est annulé.
+L’appel de la cotisation établie en vertu de la Loi pour l’année d’imposition 1995 est rejeté.
+Les appels des cotisations établies en vertu de la Loi pour les années d’imposition 1996, 1997 et 1998 sont accueillis sans que des dépens soient adjugés et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations pour le motif qu’il est renoncé aux pénalités imposées conformément au paragraphe 163(2) de la Loi.
+Signé à Ottawa, Canada, ce 10e jour de mai 2006.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 23e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI278
+Date : 20060510
+Dossiers : 2002‑733(IT)G
+2002‑734(IT)I
+2002‑1438(IT)I
+ENTRE :
+AWNI SHAIR et
+A & C AUTO REPAIRS LTD.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Ces appels ont été entendus sur preuve commune; ils portent sur les nouvelles cotisations fondées sur l’avoir net établies par le ministre du Revenu national à l’égard d’Awni Shair pour les années d’imposition 1994, 1995, 1996 et 1997. De plus, A & C Auto Repairs Ltd. (« A&C ») a fait l’objet d’une nouvelle cotisation pour ses exercices ayant pris fin les 31 mars 1994, 1995, 1996, 1997 et 1998 à l’égard du revenu non déclaré qui a été attribué à M. Shair et du refus d’accorder les déductions pour amortissement demandées pour son année d’imposition 1998, pertes qui ont été subies au cours des années d’imposition 1996 et 1997.
+[2] Au début de l’audience, les parties ont informé la Cour que l’appel interjeté par M. Shair à l’égard de l’année d’imposition 1994 était accueilli sans que des dépens soient adjugés et que l’appel relatif à l’année d’imposition 1995 était annulé étant donné qu’il s’agissait d’un appel d’une cotisation portant qu’aucun impôt n’était payable. De plus, la Cour a été informée que l’appel de 1994 d’A&C était annulé, avec le consentement de l’appelante, par suite d’une cotisation portant qu’aucun impôt n’était payable. En outre, l’avocat d’A&C a déclaré que l’appel concernant l’année d’imposition 1995 [traduction] « avait été réglé ou était en train de l’être ». À l’instruction, les questions se rapportant à l’année 1995 n’ont donc pas été examinées.
+[3] Par conséquent, les appels dont la Cour est saisie se rapportent aux années d’imposition 1996 et 1997 de M. Shair ainsi qu’aux années d’imposition 1996, 1997 et 1998 d’A&C, appels qui seront rejetés sans que des dépens soient adjugés, et ce, pour les motifs énoncés ci‑dessous.
+[4] M. Shair est l’unique actionnaire et administrateur d’A&C et de Shair Investments Ltd. Il a personnellement fait l’objet d’une cotisation le 29 novembre 2001. Après qu’il eut fait opposition, il a fait l’objet, le 7 février 2003, d’une nouvelle cotisation par laquelle le ministre a accepté le revenu total déclaré au cours de l’année d’imposition 1995, ce qui a donné lieu à une cotisation portant qu’aucun impôt n’était payable. En outre, par suite des cotisations fondées sur l’avoir net, le ministre a conclu que M. Shair avait omis d’inclure dans son revenu des montants de 14 882 $ et de 20 909 $ pour les années d’imposition 1996 et 1997 respectivement et il a supposé que ces montants avaient été reçus d’A&C et de Shair Investments Ltd. à titre d’avantages non déclarés. Le ministre a également imposé des pénalités d’un montant de 2 900 $ et de 3 595 $ pour ces années respectivement.
+[5] La société A&C s’occupe de réparation et de vente de voitures depuis le début des années 1980; pendant un certain temps, au cours des années 1990, la société vendait également de l’essence. En général, les services fournis étaient payés en espèces et la société ne tenait pas de livres et de registres adéquats.
+[6] M. Shair et James Weir, un témoin expert, ont présenté une preuve pour le compte des appelants. De plus, Ray Maciel, vérificateur à l’Agence du revenu du Canada, a témoigné pour le compte de l’intimée.
+[7] M. Weir est un comptable autodidacte qui compte de nombreuses années d’expérience et qui a occupé des postes de responsabilité auprès de grosses banques canadiennes avant d’entrer à l’ARC, où il a élaboré des procédures et des cours de formation et où il a agi comme médiateur entre les vérificateurs et les agents d’appels. Il a quitté son emploi auprès de l’ARC en 1996, et il a [traduction] « interrompu [s]on travail en voyageant », comme il l’a dit; il a ensuite travaillé temporairement comme conseiller fiscal indépendant avant d’être réembauché par l’ARC.
+[8] M. Weir a examiné les documents financiers et les cotisations des deux appelants, en sa qualité de conseiller indépendant dont les services avaient été retenus par les appelants, avant d’être réembauché par l’ARC. Son témoignage a été présenté à la suite d’une assignation, et je me rends bien compte que cela l’a placé dans une situation difficile compte tenu de l’emploi qu’il exerce en ce moment. Compte tenu de ses qualifications, je reconnais M. Weir à titre de témoin expert.
+[9] M. Weir a examiné les livres et registres des appelants; il a exprimé son avis au sujet de leurs finances et il a également expliqué les irrégularités apparentes qui ont donné lieu à l’établissement de nouvelles cotisations à l’encontre de M. Shair personnellement. Selon M. Weir, le principal problème et le fondement des premières cotisations peuvent être attribués à certaines questions associées à l’achat et à la vente d’une seule voiture. Le véhicule en question a été acquis par A&C au cours de son exercice 1997; à un moment donné, M. Shair a commencé à l’utiliser comme véhicule personnel et le véhicule a ensuite été revendu par A&C au cours de son exercice 1998.
+[10] L’ARC a permis à M. Shair de modifier sa déclaration de revenu de société de 1998 concernant A&C en vue d’inclure le coût de 22 000 $ du véhicule lors de sa revente. Cela a eu pour effet d’augmenter de 22 000 $ le revenu d’A&C au cours de son exercice 1997 et de diminuer le revenu de la société du même montant pour son exercice 1998. Malheureusement, au lieu de réduire le revenu d’A&C pour 1998 du coût de 22 000 $ du véhicule (c’est‑à‑dire un revenu de 28 813 $ moins 22 000 $, pour obtenir un revenu révisé de 6 813 $), le revenu d’A&C a par inadvertance été ramené à un montant négatif de 22 000 $, soit une différence de revenu de plus de 50 000 $ pour l’exercice 1998. De l’avis de M. Weir, la méthode comptable employée aux fins de l’achat et de la vente du véhicule et l’erreur commise dans la déclaration de revenu de société d’A&C pour 1998 sont les principaux éléments à l’origine de la prétendue cotisation inexacte fondée sur l’avoir net de M. Shair, qui a été établie pour l’année 1996. Selon M. Weir, la déclaration de revenu personnelle de 1996 de M. Shair était exacte.
+[11] Il semble également y avoir confusion au sujet de la question de savoir à qui appartenait le véhicule en question. M. Weir a déclaré que l’ARC a attribué la propriété du véhicule à M. Shair pour l’année d’imposition 1996, mais M. Shair n’a obtenu [traduction] « un droit de propriété temporaire » sur le véhicule qu’au mois de mars 1997. Aucun autre élément de preuve n’a été présenté pour indiquer le moment où le véhicule avait ainsi été acquis. M. Maciel a également témoigné qu’il régnait une certaine confusion au sujet de l’identité réelle du véhicule. Il a déclaré que, lorsque la première vérificatrice avait quitté le ministère du Revenu, il avait pris en charge la gestion des dossiers Shair et A&C. M. Maciel a témoigné que, selon les notes qu’elle avait prises, la vérificatrice avait eu de la difficulté à suivre le mouvement d’un véhicule particulier entre le moment où il avait été acheté et celui de sa revente; le numéro d’identification du véhicule a semblé être associé à une Volkswagen Jetta, lors de l’achat. Toutefois, le même NIV a été utilisé pour une Mercedes Benz lorsque le véhicule a été revendu. M. Maciel a été plutôt vague sur ce point dans son témoignage et, encore une fois, aucune preuve documentaire n’a été produite.
+[12] Lorsqu’on lui a posé des questions au sujet des écarts entre l’avoir net de 1996 et celui de 1997, M. Shair a répondu : [traduction] « Je crois qu’ils utilisent simplement les renseignements que m’ont fournis le présent vérificateur et la femme qui était là avant lui, qu’ils utilisent simplement une statistique [...] une hypothèse. Ils le supposent simplement. »
+[13] En ce qui concerne les appels interjetés par A&C pour les années d’imposition 1996, 1997 et 1998, la société a déclaré un revenu (des pertes) de (17 245 $), de (17 000 $) et de 27 182 $ respectivement. Selon le ministre, elle a omis de déclarer un revenu de 3 721 $, de 16 389 $ et de 15 682 $ respectivement. Des pénalités pour production tardive ont été établies conformément au paragraphe 162(1) de la Loi de l’impôt sur le revenu, (la « Loi »), d’un montant de 619 $ pour l’année d’imposition 1998.
+[14] Selon les arguments présentés pour le compte d’A&C, l’ARC n’a pas admis certaines pertes autres qu’en capital pour les années d’imposition 1996 et 1997; or, ces montants sont directement pertinents pour ce qui est de la détermination de l’obligation fiscale relative à l’année d’imposition 1998 puisque l’appelant veut reporter prospectivement les pertes à valoir sur le revenu de l’année 1998. La société A&C demande qu’il soit déterminé que les pertes autres qu’en capital relatives aux années 1996 et 1997 susceptibles d’être reportées prospectivement s’élèvent à 17 335 $ et à 17 000 $ respectivement.
+[15] Les appels qu’A&C a interjetés pour que les pertes autres qu’en capital des années 1996 et 1997 soient disponibles afin d’être reportées prospectivement entraîneraient en fait l’annulation des cotisations fondées sur l’avoir net relatives à ces années‑là puisque l’ARC a reconnu les pertes de 17 335 $ et de 17 000 $ qui ont en fait été déduites du revenu net majoré découlant des cotisations fondées sur l’avoir net relatives aux années 1996 et 1997.
+[16] Des copies de documents de l’ARC qui ont été jointes à l’avis d’appel d’A&C, il ressort que l’ARC a reconnu la perte indiquée dans la déclaration de 1996 comme s’élevant à 17 335 $, mais qu’elle a rajusté le montant de cette perte en ajoutant un revenu non déclaré de 3 721 $, établi conformément à la cotisation fondée sur l’avoir net. Par conséquent, la perte nette pour l’année était de 13 614 $, et ce montant a été reporté rétrospectivement afin de compenser le revenu non déclaré d’A&C pour les années d’imposition 1994 et 1995. À l’audience, M. Weir a déclaré, pour le compte des appelants : [traduction] « il n’a pas été déterminé qu’il n’y avait pas de revenu non déclaré en 1994, de sorte que la perte subie en 1996 est encore disponible aux fins d’un report prospectif ». Or, cela est inexact. L’appel qu’A&C a interjeté à l’égard de l’année 1994 a été annulé au début de l’audience avec le consentement de l’appelante. La position prise par le ministre montre clairement qu’il y avait un revenu non déclaré de 8 895 $ pour l’année 1994 et que des pertes s’élevant au montant du revenu non déclaré de 1996 sont à juste titre considérées comme étant absorbées au cours de l’exercice 1994.
+[17] La perte indiquée dans la déclaration de revenu d’A&C pour l’année 1997 s’élevait à 17 000 $, montant qui a été rajusté par rapport au revenu non déclaré de 16 388 $, de sorte que la perte nette était de 612 $. Le revenu d’A&C pour l’année 1998 était de 27 182 $, montant qui a été majoré d’un montant de 15 682 $ par suite de la cotisation fondée sur l’avoir net, pour obtenir un revenu imposable net révisé de 42 682 $.
+[18] Dans son avis d’appel et dans la réponse du ministre, il est fait mention des montants des déductions pour amortissement de la société pour les années en question, indiquant que la question des pertes va plus loin que l’utilisation des montants de 17 335 $ et de 17 000 $ représentant les pertes d’entreprise. On a présenté peu d’éléments de preuve, sinon aucun, au sujet du montant des déductions pour amortissement et je ne tire aucune conclusion sur ce point.
+[19] Compte tenu des remarques qui précèdent, les questions à trancher sont les suivantes :
+(i) Le recours aux cotisations fondées sur l’avoir net était‑il justifié?
+(ii) Le ministre a‑t‑il eu raison d’établir une nouvelle cotisation à l’égard de M. Shair, de façon à inclure dans le revenu de celui‑ci des montants de 14 882 $ et de 20 909 $ pour les années d’imposition 1996 et 1997 respectivement?
+(iii) La société A&C a‑t‑elle déclaré en moins, pour les années d’imposition 1996, 1997 et 1998, un revenu de 3 721 $, de 16 389 $ et de 15 682 $ respectivement?
+(iv) Est‑il possible d’accorder une réparation à A&C à l’égard des pertes qu’elle veut reporter prospectivement des années 1996 et 1997 à l’année d’imposition 1998?
+(v) Pour les années d’imposition 1996 et 1997, le ministre a‑t‑il eu raison d’imposer à M. Shair des pénalités de 2 900,37 $ et de 3 595,18 $ respectivement, conformément au paragraphe 163(2) de la Loi?
+(vi) Le ministre a‑t‑il correctement établi contre A&C des pénalités de 619 $ pour l’année d’imposition 1998?
+[20] Je retiens l’explication que M. Maciel a donnée au sujet de la raison pour laquelle les cotisations fondées sur l’avoir net ont été jugées nécessaires, comme le montrent les faits de l’affaire, ainsi que l’aveu de M. Shair selon lequel les livres et registres et les déclarations produites renfermaient de nombreuses erreurs.
+[21] En ce qui concerne les cotisations fondées sur l’avoir net, le juge Bowman a fait les remarques suivantes dans la décision Ramey v. The Queen[1] :
+[...] Estimer le revenu annuel d’un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C’est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d’actif net repose sur une comparaison de l’actif net du contribuable, à savoir la valeur de l’actif moins le passif au début d’une année, avec son actif net à la fin de l’année. À la différence ainsi obtenue, on ajoute les dépenses qu’il a engagées pendant l’année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu’à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l’année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d’actif net s’impose est souvent l’artisan de son propre malheur. [...]
+[22] La preuve d’expert vise à aider le juge qui préside l’instruction lorsque les faits de l’affaire sont complexes. Elle ne peut pas remplacer des faits non établis. Or, il incombe aux appelants de réfuter les hypothèses émises par le ministre; de plus, lorsque les cotisations sont établies sur la base de l’avoir net, le contribuable doit fournir une preuve détaillée à l’appui de sa cause.
+[23] Je suis d’accord avec l’avocat de l’intimée lorsqu’il dit qu’aucune preuve documentaire n’appuie les états financiers que l’on trouve dans le recueil conjoint de documents[2] et que les appelants doivent justifier les états financiers au moyen d’une preuve. L’intimée a en outre fait valoir que l’approche fondée sur les cotisations établies sur la base de l’avoir net a été employée étant donné que les livres et registres existants ne justifiaient pas les états financiers qui avaient été produits. De plus, le mode de vie de M. Shair n’était de toute évidence pas proportionné au revenu déclaré. La preuve présentée par M. Weir sur ce point n’était pas utile.
+[24] Je comprends bien que les appelants ne voulaient pas encombrer la Cour de boîtes de reçus et de documents et j’en tiens compte, mais j’hésite à accepter en tant que tels les avis selon lesquels les problèmes de comptabilité et de déclaration associés à l’achat et à la vente d’un seul véhicule sont à l’origine de la surévaluation de l’avoir net de M. Shair et du revenu déclaré en moins d’A&C. De plus, je conclus que l’avis de M. Weir selon lequel la déclaration de revenu de M. Shair pour l’année 1996 était exacte est tout simplement insuffisant.
+[25] Malheureusement pour les appelants, M. Weir n’a pas établi à ma satisfaction que les erreurs figurant dans les déclarations de revenu de société d’A&C ont amené le ministre à apprécier d’une façon erronée l’avoir net de M. Shair pour l’année d’imposition 1996. Le témoignage relatif à l’erreur figurant dans la déclaration de revenu de 1998 d’A&C était clair et compréhensible, mais cette erreur n’était pas effectivement liée à l’argument des appelants selon lequel la cotisation fondée sur l’avoir net relative à l’année 1996 était inexacte. Je reconnais la compétence de M. Weir en matière comptable et en matière fiscale, mais les avis qu’il a présentés ne répondent pas à ce qu’il fallait établir pour que l’appel interjeté par M. Shair à l’égard de l’année 1996 soit accueilli.
+[26] Lorsqu’on lui a posé des questions au sujet des écarts entre l’avoir net de 1996 et celui de 1997, M. Shair a rejeté les hypothèses du ministre en disant qu’il s’agissait de [traduction] « simples hypothèses ». Je ne m’attends pas à ce qu’un contribuable se rende nécessairement pleinement compte de la nature unique en leur genre des hypothèses et de la charge de la preuve dans un litige fiscal, mais comme il en a été fait mention, il est généralement reconnu que les hypothèses émises par le ministre sont considérées comme établies si elles ne sont pas réfutées selon la prépondérance des probabilités. Or, le témoignage de M. Shair ne suffit tout simplement pas à réfuter les hypothèses du ministre.
+[27] L’appel interjeté par M. Shair à l’égard de la nouvelle cotisation relative à l’année d’imposition 1997 est également rejeté étant donné qu’il se rapporte à une cotisation portant qu’aucun impôt n’était payable, comme il en a ci‑dessus été fait mention. Une « nouvelle » nouvelle cotisation a pour effet d’annuler au complet la nouvelle cotisation antérieure, à moins d’être elle‑même nulle, ce qui n’est pas le cas en l’occurrence. Il va sans dire qu’une nouvelle cotisation est viciée par une nouvelle cotisation ultérieure et qu’on ne peut interjeter appel de ce qui est nul. L’intimée se fonde sur la décision Parent v. The Queen[3] à l’appui de la thèse selon laquelle un appel doit être annulé s’il n’est pas modifié.
+[28] L’intimée a également fait valoir que l’avocat de l’appelant avait été informé qu’une « nouvelle » nouvelle cotisation avait été établie pour l’année d’imposition 1997 et que la nouvelle cotisation antérieure était nulle. Le fait que l’appelant savait que les appels devaient être modifiés est confirmé par la transcription d’une conférence téléphonique tenue devant le juge O’Connor le 16 octobre 2003. En outre, l’avocat de l’intimée a déclaré qu’on avait maintes fois rappelé l’affaire à l’avocat des appelants. Je conclus que, si on laissait se poursuivre l’appel de la cotisation relative à l’année d’imposition 1997, cela causerait un préjudice à l’intimée et nuirait à l’instance, compte tenu du vice de forme que comporte l’avis d’appel ainsi que du fait que l’appelant a amplement eu la possibilité de corriger le défaut et qu’il a négligé de le faire. Aucune demande de modification des actes de procédure n’a été faite et on n’a démontré aucune intention de le faire.
+[29] J’ai examiné au complet les actes de procédure et la preuve qui a été présentée au sujet de la déclaration de revenu de M. Shair pour l’année 1997 et, bien que je rejette l’appel pour le motif que les actes de procédure sont inadéquats, je me vois obligé de faire remarquer que l’affaire serait également rejetée au fond.
+[30] Dans les appels interjetés par A&C, la question en litige telle que l’a libellée l’appelant ne se rapporte pas au montant de l’impôt établi pour les années en question, mais plutôt aux montants des pertes reconnus par l’ARC. Selon les faits énoncés ci‑dessus, l’ARC a déduit du revenu non déclaré d’A&C les pertes déclarées dans les déclarations de revenu de la société en arrivant au revenu imposable rajusté pour les exercices 1996, 1997 et 1998. L’appelant aimerait en appeler des cotisations établies par le ministre pour 1996 et 1997 afin d’utiliser les pertes de ces années en vue de compenser le revenu de l’année 1998, mais il comprend qu’aucun appel ne peut être interjeté à l’encontre d’une cotisation portant qu’aucun impôt n’est payable. L’avocat de l’appelant a déclaré avec raison que la preuve d’A&C dépend de deux choses : en premier lieu, il faut établir que le contribuable peut en appeler d’une cotisation portant qu’aucun impôt n’est payable lorsque des reports prospectifs de perte sont en cause; en second lieu, il faut établir les montants véritables des pertes pour les années en question.
+[31] Je tiens à répéter que le contribuable ne peut pas en appeler d’une cotisation portant qu’aucun impôt n’est payable; la décision Consumers’ Gas Co. v. R.[4] fait autorité sur ce point, mais une mise en garde s’impose. C’est un affront au bon sens d’empêcher un contribuable d’en appeler d’une cotisation portant qu’aucun impôt n’est payable lorsque les pertes plutôt que le revenu net de l’année sont en cause, afin de prévoir expressément une procédure d’appel en vue de la détermination des pertes lorsque l’obligation fiscale du contribuable pour un exercice donné est nulle.
+[32] Un autre moyen de déterminer les pertes en cas de cotisation portant qu’aucun impôt n’est payable est énoncé dans la décision Aallcann Wood Suppliers Inc. v. R.[5], où le juge Bowman a statué que la Cour peut examiner la détermination des pertes en capital dans le cas où une cotisation portant qu’aucun impôt n’est payable a été établie, si ces pertes influent sur le report prospectif des pertes subies par le contribuable. Voici ce que le juge a dit au paragraphe 4 :
+[...] Une des raisons sous‑jacentes à l’adoption du paragraphe 152(1.1) est qu’on ne peut appeler d’une cotisation portant qu’aucun impôt n’est payable. En l’absence d’une détermination exécutoire faite en vertu du paragraphe 152(1.1), un contribuable peut contester le calcul du ministre concernant une perte relative à une année particulière dans un appel portant sur une autre année lorsque le montant du revenu imposable du contribuable est influencé par le montant de la perte pouvant être reportée prospectivement en vertu de l’article 111. En contestant la cotisation portant sur une année pour laquelle de l’impôt est payable au motif que le ministre a incorrectement calculé le montant d’une perte relative à une année antérieure ou subséquente qui peut être déduite en vertu de l’article 111 dans le calcul du revenu imposable du contribuable pour l’année en question dans l’appel, le contribuable demande à la Cour de faire précisément ce que prévoient les dispositions de la Loi de l’impôt sur le revenu en matière d’appel : déterminer l’exactitude d’une cotisation d’impôt en examinant la justesse d’un ou de plusieurs de ses éléments constituants, soit en l’espèce le montant d’une perte d’une autre année pouvant être déduite. La Cour n’a pas à déterminer la perte en vertu du paragraphe 152(1.1) ni à entendre un appel concernant une cotisation portant qu’aucun impôt n’est payable. Elle doit simplement établir l’exactitude de la cotisation portant sur l’année en question dans l’appel dont elle est saisie.
+[33] Dans la décision Liampat Holdings Limited. v. The Queen[6], l’approche énoncée dans la décision Aallcann a été approuvée, mais ces deux affaires étaient distinctes l’une de l’autre quant aux faits; en effet, dans l’affaire Liampat, le contribuable n’avait pas de gains en capital susceptibles de compenser les pertes en capital en question. Par conséquent, le report prospectif de ces pertes n’aurait pas eu d’effet sur l’obligation fiscale du contribuable.
+[34] Dans les présents appels, les dépenses en question sont des dépenses courantes plutôt que des dépenses imputables au capital, mais je ne vois pas pourquoi le principe général établi dans la décision Aallcann ne doit pas s’appliquer. Comme les appelants l’ont soutenu, la Cour a compétence pour examiner la détermination des pertes dans le cas d’une cotisation portant qu’aucun impôt n’est payable lorsque le report prospectif des pertes est en cause, et partant l’appel n’est pas nul en tant qu’appel d’une cotisation portant qu’aucun impôt n’est payable.
+[35] Quant au montant des pertes susceptibles de faire l’objet d’un report prospectif des années 1996 et 1997 à l’année d’imposition 1998, je ne puis admettre les montants demandés par les appelants. La société A&C demande que soit autorisé le report prospectif de pertes de 1996, d’un montant de 17 245 $, mais l’ARC a également déterminé qu’il y avait un revenu non déclaré de 3 721 $ pour cette année‑là, détermination qui n’a pas été contestée dans ces appels. L’ARC a automatiquement reporté rétrospectivement le reste des pertes, soit un peu plus de 13 000 $, et l’a déduit du revenu non déclaré d’A&C de 1994 et de 1995. Par conséquent, comme il en a été fait mention, l’appel de la nouvelle cotisation relative à l’année 1994 a été annulé, et l’avocat des appelants a fait allusion au règlement de l’appel à l’égard de 1995. Dans ses conclusions finales, l’avocat des appelants a soutenu que la nouvelle cotisation relative au revenu non déclaré des années 1994 et 1995 avait été supprimée, mais je conclus qu’il s’agit d’une erreur, ou du moins que le dossier ne justifie absolument pas la chose.
+[36] Pour que les appelants puissent reporter prospectivement la perte de 17 000 $ de l’exercice 1997, il leur faudrait établir que cette perte n’était pas compensée par le revenu non déclaré déterminé par l’ARC pour le même exercice. Les problèmes de preuve que comportent les appels de M. Shair s’appliquent également aux appels interjetés par A&C. De plus, je dois faire remarquer que l’argument de l’appelant semble contradictoire, ou du moins qu’il prête à confusion, en ce qui concerne les montants exacts du revenu pour les exercices 1997 et 1998. Le coût de 22 000 $ des marchandises vendues fait partie de l’exercice 1997 ou de l’exercice 1998. S’il fait partie de l’exercice 1997, la perte subie au cours de cet exercice, si je comprends bien, est correctement déterminée comme s’élevant à 17 000 $. Si le coût de 22 000 $ des marchandises vendues faisait partie de l’exercice 1998, l’appelant aurait un revenu d’environ 5 000 $ en 1997 et d’environ 6 000 $ en 1998. L’ARC a fait des rajustements à ces exercices, de 16 388 $ et de 15 682 $ respectivement, représentant le revenu non déclaré. Que les 22 000 $ soient déduits en 1997 ou en 1998 n’explique pas le revenu non déclaré de ces deux exercices et, en fin de compte, ne réduit pas le fardeau fiscal de l’appelant. C’est ce que confirme la preuve de M. Weir, qui a déclaré que, si ce n’était de l’utilisation des reports rétrospectifs aux exercices 1994 et 1995, la réallocation de l’achat et de la vente du véhicule, de l’exercice 1997 à l’exercice 1998, n’a pas eu de conséquences fiscales.
+[37] Le calcul erroné effectué dans la déclaration de revenu de 1998 d’A&C, dans laquelle on a inscrit un revenu net négatif de 22 000 $ au lieu de déduire 22 000 $ sur le montant de 28 813 $, peut avoir eu une incidence sur la détermination par l’ARC de l’avoir net de la société en 1997 et en 1998, mais il est impossible de l’établir avec certitude, compte tenu de la preuve mise à ma disposition. La Cour est autorisée à accorder la réparation demandée, mais les appelants n’ont pas établi la preuve nécessaire à cette fin.
+[38] Des pénalités peuvent être imposées à l’égard de cotisations fondées sur l’avoir net. Voir Philip v. The Queen[7] et Leo Chow and Leo’s the Place Cabaret Ltd. v. The Queen[8]. Toutefois, le ministre a la charge de justifier les pénalités conformément au paragraphe 163(3), qui prévoit ce qui suit :
+163(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[39] Selon la décision Gosse v. The Queen[9], les dispositions de l’article 163 doivent être interprétées de façon à laisser le bénéfice du doute au contribuable. En outre, le ministre ne peut pas se fonder sur des hypothèses que le contribuable doit démolir afin de satisfaire à l’obligation qui lui incombe en vertu du paragraphe 163(3)[10]. La question de la charge de la preuve en ce qui concerne les pénalités établies en vertu du paragraphe 163(2) a récemment été examinée comme suit par la Cour d’appel fédérale dans l’arrêt Zsoldos et al. v. The Queen[11] :
+Il ressort clairement du paragraphe 163(2) qu’il incombe au ministre de prouver, suivant la prépondérance de la preuve, que Mme Zsoldos a sciemment, ou dans des circonstances équivalant à faute lourde, participé, consenti ou acquiescé à un faux énoncé ou à une omission dans ses déclarations. Lorsqu’il détermine les pénalités pour faute lourde, le ministre doit prouver l’existence d’un degré important de négligence qui correspond à une action délibérée, une indifférence au respect de la loi. (Voir Venne c. Sa Majesté la Reine), [1984], A.C.F. no 314, 84 D.T.C. 6247, p. 6256 (C.F. 1re inst.).) Le contribuable peut se soustraire à l’application des dispositions concernant les pénalités s’il s’est fondé sur un avis erroné d’un conseiller fiscal ou s’il n’a pas omis sciemment de déclarer un revenu ou un gain en capital. (Voir Findlay c. Sa Majesté la Reine, [2000] A.C.F. no 731, 2000 D.T.C. 6345 (CAF).)
+[40] En l’espèce, l’intimée n’a pas justifié les pénalités imposées par le ministre conformément au paragraphe 163(2) et, par conséquent, il est renoncé à ces pénalités tant dans l’appel Shair que dans l’appel A&C. À tous les autres égards, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 10e jour de mai 2006.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 23e jour d’avril 2008.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI278
+Nos DES DOSSIERS DE LA COUR : 2002‑733(IT)G, 2002‑734(IT)I et
+2002‑1438(IT)I
+INTITULÉS : Awni Shair et A & C Auto Repairs Ltd.
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 5 octobre 2005
+MOTIFS DU JUGEMENT : L’honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 10 mai 2006
+COMPARUTIONS :
+Avocat des appelants :
+Me Robert Kostyniuk
+Avocats de l’intimée :
+Mes Eleanor Thorn et Eric Sherbert
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Robert N. Kostyniuk
+Cabinet : Kostyniuk & Bruggeman
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 93 DTC 791 (C.C.I.).
+[2] Pièce R‑1.
+[3] 2003 DTC 1002 (C.C.I.).
+[4] 87 DTC 5008.
+[5] 94 DTC 1475 (C.C.I.).
+[6] 96 DTC 6020 (C.F. 1re inst.).
+[7] 96 DTC 1893 (C.C.I.).
+[8] 2003 DTC 5419 (C.A.F.).
+[9] 2001 DTC 1013 (C.C.I.).
+[10] Barker v. The Queen, 99 DTC 287 (C.C.I.).
+[11] 2004 DTC 6672 (C.A.F.).

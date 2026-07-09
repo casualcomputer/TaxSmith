@@ -1,0 +1,164 @@
+---
+title: "Mellish v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27405/index.do"
+last_modified: "2007-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 228"
+citation2: ""
+neutral_citation: "2007 TCC 228"
+decision_date: "2007-04-19"
+language: "en"
+item_id: "27405"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 227
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:11:35.647000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1b34e14f32e709c3936c276302ec03d034efe6540801f4ff658fc103137dc484"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mellish v. The Queen
+
+- Citation: 2007 TCC 228
+- Decision date: 2007-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 227, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mellish v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-19
+Neutral citation
+2007 TCC 228
+File numbers
+2006-415(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-415(IT)I
+BETWEEN:
+BEVERLY MELLISH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on April 5, 2007 at London, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+George G. Voisin
+Counsel for the Respondent:
+Andre LeBlanc
+____________________________________________________________________
+ORDER
+Upon Motion by the Respondent for an Order of this Court quashing the Appellant's purported appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years on the basis that the Court has no jurisdiction;
+And upon hearing what was alleged by the parties;
+The Motion is allowed and the purported appeals are quashed in accordance with the attached Reasons for Judgment. The said Reasons make reference to a possible application under the fairness package.
+Signed at Ottawa, Canada, this 19th day of April, 2007.
+"T. O'Connor"
+O'Connor J.
+Citation: 2007TCC228
+Date: 20070419
+Docket: 2006-415(IT)I
+BETWEEN:
+BEVERLY MELLISH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+O'Connor J.
+[1] These appeals were scheduled for hearing on April 5, 2007 in London, Ontario. Shortly prior to that date the Respondent filed a Notice of Motion to quash the appeals. The Motion reads as follows:
+THE MOTION IS FOR an order quashing the Notice of Appeal.
+THE GROUND FOR THE MOTION IS THAT:
+1) WHEREAS the present appeal relates to the Appellant's 1999 and 2000 taxation years;
+2) WHEREAS the Appellant's 1999 and 2000 taxation years were first assessed by the Minister of National Revenue (the "Minister") on January 28, 2002 pursuant to subsection 152(4) of the Income Tax Act (the "Act");
+3) WHEREAS the Minister was not bound by the returns supplied on behalf of the Appellant and in making the assessment of January 28, 2002, the Minister had the authority to assess the Appellant notwithstanding the returns so supplied, as contemplated by subsection 152(7) of the Act;
+4) WHEREAS the Appellant filed a Notice of Objection on May 1, 2002 for the 1999 and 2000 taxation years;
+5) WHEREAS the Appellant objected in 2002 on the same grounds she is raising before the Court in this appeal and in particular that the 1999 and 2000 tax returns filed on her behalf misrepresent her taxable income during those years and were made without her knowledge by John Young, the person who filed the returns;
+6) WHEREAS the assessments of January 28, 2002 were confirmed by the Minister on November 25, 2002 pursuant to subsection 165(3) of the Act;
+7) WHEREAS the normal reassessment period with respect to the Appellant's 1999 and 2000 taxation years expired on January 28, 2005 according to subsection 152(3.1) of the Act;
+8) WHEREAS on April 18, 2005 the Minister issued Notices of Reassessment for the 1999 and 2000 taxation years pursuant to subsection 152(4.2) of the Act;
+9) WHEREAS pursuant to subsection 165(1.2) of the Act the Appellant cannot object to an assessment made under subsection 152(4.2) of the Act and therefore the Notices of Objection filed by the Appellant on June 21, 2005 against the reassessments dated April 18, 2005 were invalid;
+10) WHEREAS pursuant to subsection 169(1) of the Act no appeal can be filed before the Tax Court of Canada to have an assessment vacated or varied unless a notice of objection was served under section 165 of the Act;
+11) WHEREAS the Appellant appeals to the Tax Court of Canada to have the Notices of Reassessment dated April 18, 2005 vacated or varied;
+THERE IS NO RIGHT OF APPEAL with respect to the 1999 and 2000 taxation years.
+THE FOLLOWING DOCUMENTARY OR OTHER EVIDENCE may be used at the hearing of the motion:
+1. The Affidavit of Lucie Allaire dated May 18, 2006.
+2. The Affidavit of April Tate dated March 26, 2007.
+3. The Affidavit of Marcel Dumas dated March 26, 2007.
+[2] My review of the facts and law essentially corresponds with the Motion and may be summarized as follows:
+Review:
+[3] Tax returns for the 1999 and 2000 taxation years were filed on January 2, 2002, reporting employment income of roughly $30,000 for each year. The Minister reassessed both returns on January 28, 2002. The Appellant objected to both reassessments on April 26, 2002. The reassessments were confirmed on November 25, 2002.
+[4] On or about January 28, 2005, the Appellant submitted amended returns for both years. As these amended returns were filed beyond the three year normal reassessment period, the Minister reviewed them under subsection 152(4.2) of the Income Tax Act [the Act].
+[5] The Minister reassessed the 1999 return on April 18, 2005, but neither increased nor decreased the Appellant's tax liability. The Minister also reassessed the 2000 return on April 18, 2005, but reduced the provincial tax, penalties and interest.
+[6] The Appellant objected to both reassessments in June, 2005. The Minister confirmed the 1999 reassessment on November 22, 2005. Also on that date, the Minister issued a letter advising the Appellant that she could not object to the 2000 reassessment on the basis that a reassessment under the fairness provisions of the Act cannot be appealed.
+Discussion:
+[7] A taxpayer may apply to the Minister, under subsection 152(4.2) of the Act, to have a return reconsidered and reassessed beyond the normal reassessment period, if the reassessment would result in a refund or reduction in tax, penalties or interest for that year. That subsection reads:
+Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining, at any time after the end of the normal reassessment period of a taxpayer who is an individual (other than a trust) or a testamentary trust in respect of a taxation year, the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under this Part by the taxpayer for the year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is ten calendar years after the end of that taxation year,
+(a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year; and
+(b)redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+[8] However, if the Minister issues a reassessment under this provision, a taxpayer may not object to it, due to subsection 165(1.2), which reads:
+Notwithstanding subsections (1) and (1.1), no objection may be made by a taxpayer to an assessment made under subsection 118.1(11), 152(4.2), 169(3) or 220(3.1) nor, for greater certainty, in respect of an issue for which the right of objection has been waived in writing by the taxpayer.
+[9] If a taxpayer cannot object to a reassessment, it follows that he or she cannot appeal to the Tax Court of Canada, due to subsection 169(1), which reads:
+Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b)90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[10] The Court has previously considered the interplay between these three subsections and has consistently concluded that there is no right of appeal to the Tax Court of Canada for a reassessment issued under subsection 152(4.2)
+· Yaremy[1] - Once satisfied that the reassessment was issued under subsection 152(4.2), the Court concluded, at paragraph 10, "that subsection 165(1.2) applies and no valid objection could be made by the Appellant. If no valid objection can be made, then no valid appeal can be commenced under subsection 169(1)."
+· Haggart[2] - The Court concluded, at paragraph 37, "that it is not possible to file a valid Notice of Objection nor a Notice of Appeal to a Reassessment that was issued under subsection 152(4.2) of the Act."
+· Chou[3] - The Court concluded, at paragraph 15, that "as the appellant could not validly file a notice of objection to the...reassessment issued pursuant to subsection 152(4.2) of the Act, she was consequently barred under subsections 165(1.2) and 169(1) of the Act from instituting an appeal from that reassessment before this Court."
+[11] It appears clear that the Minister proceeded pursuant to subsection 152(4.2) and it follows that subsections 165(1.2) and 169(1) preclude any appeal to this Court.
+[12] Consequently as this Court has no jurisdiction the appeals are quashed.
+[13] However, if the Appellant were to apply under the rules governing the fairness package, I would recommend that serious consideration be given to her application considering the Appellant's assertions she did not sign her returns and did not receive any income nor was she an employee of the alleged employer.
+Signed at Ottawa, Canada, this 19th day of April 2007.
+"T. O'Connor"
+O'Connor J.
+CITATION: 2007TCC228
+COURT FILE NO.: 2006-415(IT)I
+STYLE OF CAUSE: Beverly Mellish v. The Queen
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: April 5, 2007
+REASONS FOR ORDER BY: The Honourable Justice T. O'Connor
+DATE OF ORDER: April 19, 2007
+APPEARANCES:
+Counsel for the Appellant:
+George G. Voisin
+Counsel for the Respondent:
+Andre LeBlanc
+COUNSEL OF RECORD:
+For the Appellant:
+Name: George G. Voisin
+Firm: Voisin, Lubczuk Law Firm
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Yaremy v. R., [2000] 1 C.T.C. 2393 (T.C.C.)
+[2] Haggart v. R., [2004] 2 C.T.C. 2440 (T.C.C.)
+[3] Chou v. R., [2005] 4 C.T.C. 2027 (T.C.C.)

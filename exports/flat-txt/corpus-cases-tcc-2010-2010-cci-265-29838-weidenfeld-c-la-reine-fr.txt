@@ -1,0 +1,127 @@
+Title: Weidenfeld c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29838/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-265-29838-weidenfeld-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-06-08
+
+# Weidenfeld c. La Reine
+
+- Citation: 2010 CCI 265
+- Decision date: 2010-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6580, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Weidenfeld c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-08
+Référence neutre
+2010 CCI 265
+Numéro de dossier
+2009-3761(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 CCI 265
+Date : 2010-06-08
+Dossier : 2009-3761(IT)I
+ENTRE :
+ROBERT WEIDENFELD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 14 avril 2010 à Toronto (Ontario).)
+La juge V.A. Miller
+[1] L’appelant a interjeté appel de l’avis de nouvelle détermination l’informant qu’il n’avait pas droit à la Prestation fiscale canadienne pour enfants (la « PFCE ») pour la période s’étendant d’août 2007 à avril 2008. L’appelant a précisé que la seule période qu’il contestait était celle de septembre 2007 à avril 2008.
+[2] En établissant la nouvelle détermination, le ministre du Revenu national (le « ministre ») a conclu que J n’était pas une « personne à charge admissible » de l’appelant et que celui-ci n’était pas un « particulier admissible » par rapport à J.
+[3] Le ministre voulait recouvrer de l’appelant le montant de 2 357,24 $ à titre de trop-payé relativement à la PFCE.
+[4] D’après les éléments de preuve produits par l’appelant, son ex-épouse et lui éprouvaient des problèmes de discipline concernant son fils J. En juillet 2007, ils ont conclu un accord avec les Jewish Family and Children’s Services (les « JFCS ») et J a été placé en service de garde temporaire.
+[5] Les JFCS ont demandé à recevoir la PFCE pour J.
+[6] En juillet et août, J a été placé dans divers foyers d’accueil. Dès septembre 2007, J a été placé à la résidence pour garçons The Boys’ House of The George Hull Centre (le « GHC »). C’est un pensionnat thérapeutique offrant des programmes aux garçons de 12 à 16 ans qui ont des difficultés affectives et comportementales. Pendant son séjour au GHC, J fréquentait une école proche des locaux du GHC. L’école est également un centre de thérapie exploité par le Conseil scolaire du district de Toronto. J a reçu son congé du GHC le 18 avril 2008.
+[7] L’appelant estime que les JFCS n’ont pas assumé l’entretien de son fils tandis qu’il vivait au GHC. Le GHC est un organisme sans but lucratif qui reçoit son financement du ministère des Services à l’enfance et à la jeunesse de l’Ontario. Aux dires de l’appelant, les JFCS n’ont pas effectué de paiement au GHC pour assurer l’entretien de son fils et, par conséquent, aucune allocation spéciale ne pouvait être payable concernant son fils.
+La personne à charge admissible
+[8] Le terme « personne à charge admissible » est défini à l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi »). La seule partie de cette définition sur laquelle se fondait le ministre est l’alinéa c), ainsi libellé :
+« personne à charge admissible » S’agissant de la personne à charge admissible d’un particulier à un moment donné, personne qui répond aux conditions suivantes à ce moment :
+[…]
+c) elle n’est pas quelqu’un pour qui une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants est payable pour le mois qui comprend ce moment.
+[9] Dans sa Réponse à l’avis d’appel, le ministre a présumé que J n’était pas une personne à charge admissible, car a) les frais de son entretien au GHC étaient assumés par les JFCS et b) les JFCS avaient demandé et reçu des fonds au titre de la Loi sur les allocations spéciales pour enfants pour l’entretien de J pendant qu’il résidait au GHC.
+[10] Les faits sur lesquels reposent ces hypothèses n’ont pas été portés à la connaissance de l’appelant. Ils relèvent de ce que peuvent savoir les JFCS et le ministre qui applique la Loi sur les allocations spéciales pour enfants [1] . Il n’appartient pas à l’appelant d’invalider ces déclarations. Il appartient à l’intimée de prouver ces hypothèses.
+[11] En toute équité, il faut dire que l’intimée a tenté de déposer en preuve un affidavit selon lequel les JFCS avaient demandé et reçu des fonds au titre de la Loi sur les allocations spéciales pour enfants. Toutefois, j’ai refusé d’admettre en preuve cet affidavit, parce qu’il n’était pas conforme au paragraphe 244(9) de la Loi. Pour cette raison, l’intimée n’a pas établi qu’une allocation spéciale avait été versée à l’égard de J.
+[12] Toutefois, l’exigence de la Loi n’est pas qu’une allocation spéciale soit versée, mais qu’elle soit payable à l’égard d’un enfant. Une allocation spéciale est payable à l’égard d’un enfant si les conditions exposées à l’article 3 de la Loi sur les allocations spéciales pour enfants sont respectées. L’article est ainsi libellé :
+3.(1) Sous réserve des autres dispositions de la présente loi, sont versées, sur le Trésor, des allocations spéciales mensuelles dont le montant est fixé en application de l’article 8 pour chaque enfant :
+a) qui, résidant chez des parents nourriciers, dans un foyer de placement familial ou dans un établissement spécialisé, est à la charge :
+(i) soit d’un ministère ou d’un organisme fédéral ou provincial,
+(ii) soit d’un organisme chargé par une province — y compris une régie constituée en vertu des lois d’une province — d’appliquer la législation provinciale visant la protection et le soin des enfants, ou d’un organisme, y compris un office, chargé par une telle régie d’appliquer cette législation;
+b) qui est à la charge d’un établissement autorisé par permis ou autrement, aux termes de la législation provinciale, à assurer la garde ou le soin d’enfants.
+Finalité
+(2) L’allocation spéciale est affectée exclusivement au soin, à la subsistance, à l’éducation, à la formation ou au perfectionnement de l’enfant y ouvrant droit.
+[13] L’intimée n’a déposé aucun élément de preuve selon lequel le coût des soins de J au GHC avait été assumé par les JFCS. Ma conclusion est que ces connaissances sont propres à l’intimée et aux JFCS.
+[14] Le terme « à la charge » est défini à l’article 9 du Règlement sur les allocations spéciales pour enfants. En voici le libellé :
+9. Pour l’application de la Loi, un enfant est considéré comme étant à la charge du demandeur pour un mois donné si, à la fin de ce mois, le demandeur est celui qui assure le soin, la subsistance, l’éducation, la formation et le perfectionnement de l’enfant dans une plus large mesure que tout autre ministère, organisme ou établissement, ou toute personne.
+[15] Conformément à l’article 3 de la Loi sur les allocations spéciales pour enfants, une allocation spéciale est payable si l’enfant est à la charge d’un ministère ou organisme et qu’il réside chez des parents nourriciers, dans un foyer de placement familial ou dans un établissement spécialisé. La demande d’allocation doit être transmise au ministre et approuvée par lui [2] . La demande est approuvée si elle est faite de la manière prescrite par le ministère, l’organisme ou l’établissement dont l’enfant est à la charge [3] . Je conclus de ces dispositions que les JFCS ont dû pouvoir établir, à la satisfaction du ministre, que J était à leur charge [4] . Toutefois, aucun élément de preuve n’a été produit à l’audience attestant que J avait été à la charge des JFCS.
+[16] Le seul élément de preuve produit à l’audience concernant cette question a été présenté par l’appelant. Il a essayé de prouver que son fils n’était pas à la charge des JFCS. Tel que mentionné précédemment, je ne crois pas qu’il lui incombait d’établir cela. Toutefois, dans la mesure où il a établi ses prétentions, l’intimée devait répondre et apporter des éléments de preuve et elle ne l’a pas fait.
+[17] Je conclus que les éléments de preuve dont je dispose n’ont pas permis d’établir que J était une personne à l’égard de laquelle était payable une allocation spéciale au titre de la Loi sur les allocations spéciales pour enfants.
+Le particulier admissible
+[18] La définition de « particulier admissible » se trouve à l’article 122.6 de la Loi et la partie pertinente est ainsi libellée :
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l’éducation de cette dernière;
+[…]
+[19] L’appelant estimait qu’il était un particulier admissible à l’égard de son fils. Il a reconnu que son fils avait été placé au GHC du 10 septembre 2007 au 18 avril 2008. D’après sa déposition, le GHC était analogue à un pensionnat et centre de traitement. Chaque fin de semaine, l’appelant se rendait en voiture au GHC pour prendre J et le ramener à la maison. En février 2008, J a été accusé et déclaré coupable d’une infraction. L’appelant a emmené J loin du pensionnat pendant deux semaines. J est demeuré chez l’appelant tandis qu’il était suspendu de l’école.
+[20] L’appelant a déclaré qu’il avait assisté à des rencontres au GHC afin de discuter du bien-être et du traitement de son fils. Il a accordé la tutelle temporaire de son fils aux JFCS, mais était quand même présent dans une large mesure dans la vie de son fils.
+[21] L’appelant s’est appuyé sur la décision de la juge Woods dans Bouchard c. R. [5] et a déclaré qu’il fallait retenir une définition plus large du verbe « résider ». Il a dit que la situation en l’espèce était identique à celle de la décision Penner c. R. [6]
+[22] Les circonstances dans Bouchard sont très différentes de celles en l’espèce.
+[23] Dans Bouchard, la situation était que le père était incapable de résider avec son enfant, parce que le père était incarcéré. Le père a continué de prendre soin de l’enfant et de subvenir à ses besoins. L’enfant n’a pas acquis une autre résidence habituelle pendant l’incarcération de son père.
+[24] De la même façon, Penner se distingue du cas qui nous occupe. Dans Penner, l’enfant ne résidait pas avec le parent, puisqu’il devait fréquenter un pensionnat. La conclusion était que le parent assumait la responsabilité principale du soin et de l’éducation de l’enfant. Le parent payait la chambre et la pension de l’enfant et était la seule personne ayant la responsabilité juridique du soin et de l’éducation de l’enfant.
+[25] Dans le présent appel, J a été confié à la garde temporaire des JFCS. Au cours de la période visée par l’appel, les JFCS ont placé J au GHC. L’appelant n’avait pas à payer la chambre et la pension de J. L’éducation et le traitement de J étaient fournis par le GHC. On n’a pas déposé en preuve de copie de l’entente entre l’appelant et les JFCS, et je ne puis que me demander quelles étaient les conditions de l’entente.
+[26] Je ne peux reconnaître que J résidait avec l’appelant pendant la période visée par l’appel. Le verbe « résider » signifie habituellement [traduction] « vivre dans la même maison que » : Burton v. R., [2000]
+1 C .T.C. 2727 (CCI). Dans le contexte de l’article 122.6, le mot « réside » a été interprété comme signifiant [traduction] « lieu de résidence établi et habituel » [7] . Du 10 septembre 2007 au 18 avril 2008, J résidait au GHC.
+[27] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 8e jour de juin 2010.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 11e jour de mars 2014.
+C. Laroche
+RÉFÉRENCE : 2010 CCI 265
+NO DU DOSSIER DE LA COUR : 2009-3761(IT)I
+INTITULÉ DE LA CAUSE : ROBERT WEIDENFELD ET
+LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 12 et 14 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 21 avril 2010
+DATE DES MOTIFS RENDUS
+ORALEMENT : Le 14 avril 2010
+DATE DES MOTIFS ÉCRITS
+DU JUGEMENT : Le 8 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Khashayar Haghgouyan
+AVOCATS INSCRITS AU DOSSIER;
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Marilyn Jahnke, 2008 CCI 544, au paragraphe 8.
+[2] Règlement sur les allocations spéciales pour enfants, DORS/93-12, art. 3.
+[3] Loi sur les allocations spéciales pour enfants, L.C. 1992, ch. 48, art. 4 et 5.
+[4] Précité, note 2, à l’article 4.
+[5] 2009 TCC 38.
+[6] 2006 TCC 413.
+[7] R. (S.) v. R., 2003 CarswellNat 2710

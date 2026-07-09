@@ -1,0 +1,185 @@
+Title: Bernier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25934/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-376-25934-bernier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-07-30
+
+# Bernier c. La Reine
+
+- Citation: 2004 CCI 376
+- Decision date: 2004-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3667, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-30
+Référence neutre
+2004 CCI 376
+Numéro de dossier
+2001-4291(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-4291(IT)G
+ENTRE :
+RÉAL BERNIER,
+appelant,
+et
+SA MAJESTÉ LA REINE
+intimée.
+__________________________________________________________________
+Appel entendu les 26 et 27 avril 2004 à Montréal (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelant :
+Me Gaétan Drolet
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est accueilli, sans dépens, et la nouvelle cotisation est déférée au ministre du Revenu national afin que soit accordée à l'appelant une perte en capital supplémentaire de 10 385,92 $ et que les pénalités imposées en application du paragraphe 163(2) soient annulées.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2004.
+"B. Paris"
+Juge Paris
+Référence : 2004CCI376
+Date : 20040730
+Dossier : 2001-4291(IT)G
+ENTRE :
+RÉAL BERNIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L'appelant est courtier d'assurances et consultant, ainsi que l'unique actionnaire de plusieurs compagnies. En 1998, il a payé 29 755,33 $ d'intérêts dans le cadre d'une marge de crédit et il a demandé une déduction équivalente lorsqu'il a calculé son revenu d'entreprise. Le ministre du Revenu national a refusé la déduction au motif que l'intérêt n'avait pas été payé dans le cadre d'un emprunt utilisé dans le but de tirer un revenu d'une entreprise ou d'un bien. L'appelant avait aussi demandé une perte en capital à l'égard d'un remboursement effectué sur la marge de crédit en 1998. La marge de crédit était libellée en dollars américains et la perte découlait de fluctuations du taux de change entre les monnaies américaine et canadienne. Le ministre a refusé la perte. Enfin, on a imposé des pénalités sur les montants refusés, en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] Les questions en litige en l'espèce sont les suivantes :
+L'emprunt à l'égard duquel l'appelant a payé des intérêts en 1998, a-t-il été utilisé dans le but de tirer un revenu d'une entreprise ou d'un bien?
+L'appelant a-t-il subi en 1998 une perte relative à une devise étrangère visée par le paragraphe 39(2) de la Loi? Si tel est le cas, quel est le montant de cette perte?
+L'appelant a-t-il, sciemment ou dans des circonstances équivalentes à une faute lourde, fait des faux énoncés ou une omission en produisant sa déclaration de revenus pour l'année d'imposition 1998 dans le cadre de ces questions?
+Déduction des intérêts
+La Loi
+[3] Pour obtenir une déduction d'intérêts dans le cadre du calcul du revenu qu'il tire d'une entreprise ou d'un bien, le contribuable doit satisfaire aux exigences prescrites par l'alinéa 20(1)c) de la Loi dont voici les dispositions pertinentes :
+[(1)] Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+(c) Intérêts- la moins élevée d'une somme payée au cours de l'année ou payable pour l'année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d'une somme raisonnable à cet égard, en exécution d'une obligation légale de verser des intérêts sur :
+(i) de l'argent emprunté et utilisé en vue de tirer un revenu d'une entreprise ou d'un bien (autre que l'argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d'assurance-vie),
+[...]
+[4] Pour être en mesure de justifier une déduction en vertu de cette disposition, le contribuable doit être en mesure de démontrer que l'argent emprunté dont les intérêts ont été payés a été utilisé dans le cadre d'une activité identifiable de production de revenu. C'est au contribuable qu'il incombe de prouver l'utilisation des capitaux empruntés[1].
+[5] En outre, il est impossible de se prévaloir de la déduction si la relation entre l'argent emprunté et l'utilisation admissible n'est qu'indirecte. L'intérêt est déductible seulement s'il existe une relation suffisamment directe entre l'argent emprunté et l'utilisation actuelle admissible[2]. À cet égard, la Cour d'appel fédérale s'est prononcée ainsi :
+[...] même dans les cas dans lesquels l'argent emprunté a été utilisé pour une fin qui a pour effet indirect d'améliorer la capacité du contribuable de gagner un revenu, les intérêts demeurent non déductibles. La fin productive de revenu est tout simplement trop indirecte[3].
+[6] Il est donc nécessaire de décider selon la preuve déposée en l'instance si l'appelant s'est acquitté du fardeau qui lui incombe de démontrer l'existence d'un lien direct entre les sommes empruntées et une utilisation admissible au cours de l'année d'imposition 1998.
+La preuve
+[7] La preuve démontre qu'en 1992, l'appelant a obtenu une marge de crédit de 375 000 $ en dollars américains auprès de la société Financial International Advisors Ltd. (la « FIA » ), dont le siège social se trouve aux Bahamas, mais qui est exploitée à partir de Phoenix, en Arizona. Tous les fonds empruntés sur la marge de crédit devaient être remboursés le 30 novembre 1996; le taux d'intérêt annuel était de 7,5 p. 100.
+[8] L'appelant a témoigné qu'il a organisé ce financement dans le but de faire des placements et de payer les frais juridiques engagés par sa société, l'Agence J.W.E.R. Bernier Ltée (l' « Agence » ), qui participait à un contentieux. L'Agence s'attendait à tirer de cette action un montant important au dommages-intérêts. L'appelant a déclaré que sans la marge de crédit, il aurait été obligé à vendre quelques-uns de ses placements pour régler les frais juridiques engagés par l'Agence.
+[9] L'appelant a dit qu'il avait emprunté 370 000 $ (moins 5 p. 100 de frais d'ouverture de dossier, conservés par la FIA) sur la marge de crédit en 1992; cependant, à un autre moment de sa déposition, il a dit qu'il avait laissé une partie de l'argent en dépôt auprès de la FIA, jusqu'à ce qu'il en eut besoin en 1994.
+[10] Quand on lui a demandé de détailler l'utilisation de l'argent, il a indiqué qu'il en avait prêté environ 150 000 $ à l'Agence pour que celle-ci soit en mesure de faire l'acquisition d'un bien connu comme l'immeuble Argenteuil, sur lequel il détenait déjà une deuxième hypothèque. Le créancier hypothécaire de premier rang avait engagé des procédures de forclusion et l'Agence était sur le point de perdre son placement si elle n'achetait pas les droits du créancier hypothécaire de premier rang.
+[11] Les états financiers de l'Agence démontraient que la compagnie avait acquis l'immeuble Argenteuil au prix de 151 304,33 $ et que ce bien était encore grevé d'une hypothèque de premier rang de 149 431,64 $. Les mêmes états financiers démontrent que les frais d'intérêt engagés par l'Agence dans le cadre de cette hypothèque s'élevaient à 9 201,19 $ pendant son exercice 1993. Cette preuve ne corrobore pas la prétention de l'appelant que celui-ci aurait avancé 150 000 $ à l'Agence pour rembourser l'hypothèque de premier rang et acquérir l'immeuble Argenteuil vers la fin de 1992.
+[12] De toute façon, les états financiers de l'Agence pour l'exercice 1998 (y compris les données comparatives concernant son exercice 1997) démontrent que l'Agence n'était plus propriétaire de l'immeuble Argenteuil, qui avait été aliéné avant 1997[4]. Par conséquent, même si j'étais convaincu que l'appelant avait utilisé des fonds de la marge de crédit pour racheter les droits du créancier hypothécaire de premier rang en 1992 ou en 1993, les fonds ne pouvaient pas avoir été utilisés dans ce but en 1998 parce que l'immeuble Argenteuil avait été aliéné une année auparavant.
+[13] L'appelant a dit aussi qu'il avait placé 100 000 $ dans un restaurant connu sous le nom de Vert Blanc Rouge, et qu'il avait reçu les intérêts correspondants. L'appelant a produit un extrait des documents de travail d'un agent des appels de l'Agence des douanes et du revenu du Canada (ADRC) relatifs à une nouvelle cotisation reçue par l'appelant dans le cadre des années d'imposition 1993 à 1995. Un des points contestés était la déductibilité des intérêts dans le cadre d'un placement présumé de 100 000 $ dans le restaurant Vert Blanc Rouge. Dans ce cas, la déduction avait été accordée.
+[14] Dans les documents dont je suis saisi, la seule indication de ce placement en 1998 figure dans les états financiers de Gestion pour l'exercice 1998, dans lesquels il est question d'une hypothèque de 13 383 $ due par Vert Blanc Rouge à Gestion[5]. Aucun document relatif à ce prétendu prêt de l'appelant n'a été déposé, non plus qu'aucune preuve pour le corroborer. Les preuves dont je dispose sont donc insuffisantes pour conclure qu'en 1998, soit une partie de la marge de crédit a été utilisée pour investir à titre personnel dans le restaurant Vert Blanc Rouge, soit Vert Blanc Rouge devait des sommes à l'appelant personnellement et non pas à l'une de ses sociétés.
+[15] L'appelant a aussi déclaré qu'un autre tirage de 168 000 $ sur la marge de crédit a été utilisé pour payer les frais juridiques de l'Agence dans sa poursuite en 1994 et en 1995. Il considérait ces montants comme des avances qu'il avait faites à l'Agence.
+[16] La preuve démontre également que l'Agence a eu gain de cause en l'espèce et qu'on lui a accordé des dommages-intérêts s'élevant à 366 864 $. L'appelant a dit que l'Agence a reçu l'argent en 1995 et qu'à son tour, elle l'a remboursé à FIA en 1996. Dans les états financiers de l'Agence pour les années 1998[6] et 1999[7], les seules inscriptions qui peuvent être identifiés comme étant des dettes envers l'appelant sont les montants de 11 855 $ et de 14 633 $ respectivement, qui figurent au titre de créances des administrateurs. Toutes les autres dettes de l'Agence sont payables en 1998 à une « compagnie apparentée » et, en 1999, à une « compagnie privée » . Il semble que toutes les avances de l'appelant à l'Agence avant 1996 ont été remboursés. Et il m'est impossible de conclure selon la preuve dont je suis saisi que des tirages sur la marge de crédit de la FIA ont été placés dans l'Agence par l'appelant après 1996.
+[17] L'appelant a aussi témoigné qu'il avait placé de l'argent dans une autre compagnie dont il était l'unique actionnaire : Magazine l'agent de voyage Inc. ( « Magazine » ). Il a fait référence aux états financiers de Magazine pour l'exercice se terminant le 31 juillet 1997[8], dans lesquels figurent des avances s'élevant à 71 568 $ que la compagnie devait à des « tiers » ; il a aussi fait état des états financiers pour la période se terminant le 31 juillet 1999[9], où figuraient des dettes de 55 927 $ envers une compagnie apparentée. L'appelant a dit qu'il était lui-même la « compagnie apparentée » et les « tiers » visées dans les états.
+[18] Cependant, les états financiers de la compagnie Gestion, propriété de l'appelant, indiquent des prêts de celle-ci à Magazine dont les encours se montaient à 58 159 $ le 31 janvier 1997 et à 77 995 $ le 31 janvier 1998. Alors que les dates inscrites dans les états financiers de Gestion ne correspondent pas exactement à celles qui figurent dans les états financiers de Magazine, il me semble très clair que, pendant ces années, la plupart, sinon la totalité, des dettes de Magazine étaient dues à Gestion plutôt qu'à l'appelant personnellement.
+[19] L'appelant a déclaré qu'il avait tiré davantage d'argent pour avancer un montant de 244 000 $ à une autre de ses compagnies, la Société de Gestion Réal Bernier Inc. ( « Gestion » ). Gestion a été constituée en personne morale en 1994 et ses états financiers des exercices 1995 à 1998 ont été déposés en preuve. Ces états démontrent que les avances de fonds effectuées par l'appelant s'élevaient à 244 081,63 $; 245 776,41 $; 371 847 $ et 244 338 $ les 31 janvier des années 1995, 1996, 1997 et 1998, respectivement[10]. L'appelant n'a pas précisé les dates auxquelles les avances ont été faites, ni documenté quelque relation que ce soit entre ces avances de fonds et les tirages par l'appelant sur la marge de crédit.
+La position des parties
+[20] L'avocate de l'intimée n'a pas contesté le tirage de l'appelant sur la marge de crédit de la FIA pour payer les intérêts demandés en 1998, mais elle a fait valoir qu'il n'était pas possible d'établir que les sommes empruntées avaient été utilisées par l'appelant dans le cadre d'activités productives de revenu.
+[21] L'avocat de l'appelant a fait valoir qu'il existe une relation directe entre les tirages de l'appelant sur la marge de crédit et ses placements. Il a ajouté que, de toute manière, la Loi n'exige plus que l'on démontre strictement une relation directe entre l'argent emprunté et une activité ou un objectif productifs de revenu, de sorte que la déduction des intérêts devrait être accordée même si la Cour conclut que l'appelant n'a pas été capable d'établir une relation précise entre les tirages et l'utilisation qu'il en a faite en 1998. Il a plaidé qu'il y avait au moins des preuves que l'appelant avait fait un usage indirect de l'argent emprunté pour produire des revenus de ses placements, ce qui le rendait admissible aux déductions demandées. Il a aussi affirmé que la déduction devrait être accordée parce que l'appelant a été autorisé dans le passé à déduire les intérêts sur la marge de crédit.
+Analyse
+[22] À mon avis, la preuve déposée par l'appelant ne permet la moindre comptabilisation de l'argent emprunté par celui-ci sur la marge de crédit. Ni les prélèvements, ni les remboursements sur la marge de crédit n'ont été consignés.
+[23] Lors de son contre-interrogatoire, on a demandé plusieurs fois à l'appelant de détailler les dates et les montants des tirages qu'il a effectués sur la marge de crédit entre 1992 et 1998, ainsi que l'utilisation de ces fonds. Les réponses de l'appelant étaient vagues; fort peu de ses prétentions quant à l'utilisation des sommes ont été corroborées par des éléments de preuve documentaires et aucune d'elles n'a été corroborée par d'autres témoins. Aucun relevé bancaire n'a été produit afin de prouver des transferts de fonds tirés sur la marge de crédit vers d'autres comptes. Aucune date de transaction n'a été précisée et les exercices au cours desquels l'appelant prétend avoir fait les divers placements restent obscurs. Un seul relevé afférent à la marge de crédit de la FIA[11]a été produit, même si la preuve a démontré que des relevés ont été envoyés à l'appelant tous les six mois à partir de 1992. De plus, il y a eu beaucoup de contradictions entre le témoignage de l'appelant et les documents qui ont été déposés. Dans l'ensemble, je ne suis pas convaincu que la preuve faite par l'appelant au sujet de l'utilisation de l'argent soit crédible.
+[24] À mon avis, l'appelant ne peut pas établir de relation entre les tirages et une utilisation précise, et moins encore une utilisation directe et admissible. Il ne suffit pas qu'il ait placé de l'argent au même moment qu'il était endetté envers la FIA sur sa marge de crédit. Dans l'absence de preuve convaincante établissant une relation entre l'argent emprunté et des placements précis ou des sources précises de revenus tirés d'une entreprise ou d'un bien, je statue que l'appelant n'a pas démontré qu'il avait le droit de déduire quelque intérêt demandé.
+[25] Finalement, l'autorisation qui lui a été donnée de déduire des intérêts dans le cadre d'années d'imposition antérieures ne lui donne pas automatiquement le droit de recevoir le même traitement pour les années subséquentes. Il est clair, en droit, que le ministre n'est pas lié par les cotisations qu'il a pu émettre dans le passé[12].
+Perte en capital
+[26] La demande pour perte en capital est liée aussi à l'emprunt auprès de la FIA. Le prêt avait la forme d'une marge de crédit libellée en devises américaines. En 1998, lorsque l'appelant a remboursé 65 000 $ à la FIA, la valeur du dollar canadien par rapport au dollar américain était inférieure à ce qu'elle était au moment où il avait reçu le prêt. L'appelant a calculé sa perte découlant de la fluctuation des taux de change à 36 042,50 $.
+[27] De nouveau, l'intimée ne conteste pas le remboursement de 65 000 $US par l'appelant à la FIA en 1998, ni la perte subie par l'appelant lors de la transaction en raison de la fluctuation monétaire. Cependant l'intimée fait valoir que la perte ne constitue pas une perte en capital parce qu'elle découle de l'acquittement d'une dette qui n'a pas été contractée dans le but de tirer un revenu d'une entreprise ou d'un bien. Subsidiairement, l'intimée a fait valoir que les calculs effectués par l'appelant pour évaluer la perte contiennent des erreurs mathématiques et que la perte est inférieure à la somme demandée.
+[28] Les pertes découlant de la fluctuation des taux de change sont prévues au paragraphe 39(2) de la Loi ainsi libellé :
+(2) Malgré le paragraphe (1), lorsque, par suite de toute fluctuation, postérieure à 1971, de la valeur de la monnaie ou des monnaies d'un ou de plusieurs pays étrangers par rapport à la monnaie canadienne, un contribuable a réalisé un gain ou subi une perte au cours d'une année d'imposition, les règles suivantes s'appliquent :
+a) est réputé être un gain en capital du contribuable pour l'année, tiré de la disposition de la monnaie d'un pays étranger, gain en capital qui est le montant déterminé en vertu du présent alinéa, l'excédent éventuel :
+(i) du total de ces gains réalisés par le contribuable au cours de l'année (jusqu'à concurrence des montants de ceux-ci qui, si l'article 3 était lu de la manière indiquée à l'alinéa (1)a) du présent article, ne seraient pas inclus dans le calcul de son revenu pour l'année ou pour toute autre année d'imposition),
+sur :
+(ii) le total des pertes subies par le contribuable au cours de l'année (jusqu'à concurrence des montants de celles-ci qui, si l'article 3 était lu de la manière indiquée à l'alinéa (1)a) du présent article, ne seraient pas déductibles dans le calcul de son revenu pour l'année ou pour toute autre année d'imposition),
+(iii) si le contribuable est un particulier, 200 $;
+b) est réputé être une perte en capital du contribuable pour l'année, résultant de la disposition de la monnaie d'un pays étranger, perte en capital qui est le montant déterminé en vertu du présent alinéa, l'excédent éventuel :
+(i) du total déterminé en vertu du sous-alinéa a)(ii),
+sur :
+(ii) le total déterminé en vertu du sous-alinéa a)(i),
+(iii) si le contribuable est un particulier, 200 $.
+[29] Le paragraphe 39(2) reconnaît que le gain ou la perte découlant de n'importe quelle transaction sur devise constitue un gain ou une perte en capital, à l'exception des transactions afférentes au revenu et des gains ou pertes inférieurs à 200 $. Le paragraphe 39(2) constitue une exception aux règles normalement applicables au calcul des gains et des pertes en capital en application des dispositions de la sous-section C de la section B de la Loi[13]. Par conséquent, la restriction prévue au sous-alinéa 40(2)g)(ii) de la Loi qui présume nulle toute perte résultant de la disposition d'une créance n'ayant pas été acquise pour tirer un revenu d'une entreprise ou d'un bien, n'interdit pas la reconnaissance d'une perte en capital sur une devise étrangère lors du remboursement d'une telle créance.
+[30] L'Agence des douanes et du Revenu du Canada reconnaît que les gains et les pertes découlant de transactions personnelles sur devises étrangères constituent des gains et des pertes en capital en vertu du paragraphe 39(2) de la Loi. Le Bulletin IT 95R prévoit ainsi au paragraphe 5 :
+5. L'aliénation de monnaies étrangères par des particuliers, comme la conservation de chèques de voyage en monnaie étrangère en dollars canadiens au retour d'un voyage, est considérée comme une transaction afférente au capital. Les pertes sur change étranger subies lors du remboursement d'un emprunt obtenu pour l'acquisition d'un bien à usage personnel sont aussi considérées comme des pertes en capital en vertu du paragraphe 39(2).
+(Je souligne.)
+[31] Par conséquent, puisqu'il n'est pas contesté que l'appelant a subi une perte en matière de transactions sur devises étrangères dans le cadre du remboursement à la FIA en 1998, ce dernier est en droit de la considérer comme une perte en capital en vertu du paragraphe 39(2).
+[32] Cependant, le calcul de la perte effectué par l'appelant est erroné. Il est nécessaire d'ajuster le montant de la perte en tenant compte du taux de change exact entre le dollar canadien et américain en vigueur en 1992, au moment où il a prélevé l'avance de la marge de crédit. La preuve démontre qu'à ce moment, le taux de change était de 1,239 $CAN par dollar américain. Il s'agit du taux utilisé par le comptable de l'appelant pour calculer la perte dans la feuille de calcul[14], bien que le chiffre n'ait pas été recopié correctement dans la déclaration de revenus de l'appelant. Le taux de change pour 1998 accepté par les parties est de 1,5545 $CAN par dollar américain, ce qui a causé à l'appelant une perte en capital s'élevant à 20 472,92 $, calculée comme suit :
+Montant du remboursement en dollars canadiens : 65 000 $ x 1,5545= 101 042,50 $
+Produit de l'emprunt original en dollars canadiens : 65 000 $ x 1,239 = 80 569,58 $
+Différence :
+20 472,92 $
+[33] L'intimée a soulevé une question supplémentaire concernant les calculs effectués par l'appelant en matière de gains et de pertes en capital pour son année d'imposition 1998[15]. L'intimée allègue que l'avis de nouvelle cotisation contenait une erreur : seulement une partie de la déduction refusée en matière de perte en capital avait été rajoutée lors du calcul du gain en capital total de l'appelant pour cet exercice. Par conséquent, une nouvelle cotisation a été établie à l'égard de l'appelant au motif que ses gains en capital pour l'année en question étaient de 64 680 $ au lieu de 74 768 $, comme cela aurait été le cas si le montant total de la déduction refusée en matière de perte en capital avait été rajouté. En tenant compte du fait que j'ai conclu que l'appelant a droit à une perte en capital s'élevant à 20 472,92 $, l'intimée désire que l'on déduise de ce montant une somme de 10 087 $ équivalente à l'erreur mentionnée ci-dessus. En d'autres mots, l'intimée soutient qu'en raison de l'erreur, une fraction de la perte en capital a déjà été déduite et que je ne devrais ajouter que la différence au total de la perte admissible.
+[34] L'agent des appels a été appelé comme témoin. Il a produit un tableau[16] où figurent les calculs des gains en capital de l'appelant pendant l'année 1998. Y figurent le montant de la cotisation initiale, les montants admis pour établir la nouvelle cotisation et l'erreur de calcul qui en découle. La preuve de l'agent des appels à ce sujet n'a pas été contestée en contre-interrogatoire et j'admets qu'en raison de l'erreur commise lors de la nouvelle cotisation, une fraction de la perte en capital a déjà été accordée. Par conséquent, le montant net de perte en capital devant être accordée à l'appelant est de 10 385,92 $ (compte tenu de l'erreur commise dans le calcul de la nouvelle cotisation).
+Pénalités
+[35] Il incombe à l'intimée de prouver que l'appelant a fait, dans sa déclaration de revenus de l'année 1998, un faux énoncé ou une omission, sciemment ou dans des circonstances équivalent à une faute lourde.
+[36] En l'instance, je ne suis pas convaincu que l'intimée s'est acquittée de son obligation.
+[37] La demande de l'appelant concernant les pertes en capital a été accueillie en partie, et la demande de déduction d'intérêts est fondée sur des montants qu'il a effectivement payés à ce titre. Aucun élément de preuve ne me permet de conclure que l'appelant a commis une faute lourde en réclamant ces déductions. Il semble que les pénalités ont été imposées parce que l'appelant a refusé de fournir des pièces ou de présenter des observations pour justifier ses demandes, lors de la vérification. Le vérificateur en a conclu que les demandes étaient dénuées de fondement et qu'elles constituaient des fausses déclarations.
+[38] L'appelant a expliqué à la Cour qu'il a choisi de ne pas présenter de documents au vérificateur parce qu'il estimait que toutes les données pertinentes avaient été recueillies lors de la vérification précédente d'exercices antérieurs et qu'il croyait être demeurés en possession de l'ADRC. Il semble qu'on lui ait dit que les données transmises au vérificateur lors de la vérification antérieure n'étaient pas suffisantes, mais il a refusé d'accepter cette réponse. La relation entre l'appelant et le vérificateur s'est détériorée et l'appelant n'a pas fait parvenir à ce dernier de documents supplémentaires pour justifier ses demandes. Cependant, compte tenu de la preuve et des documents produits devant la Cour pendant l'audition de l'appel, il est clair que l'appelant était dans une certaine mesure fondé à demander les déductions, et qu'il croyait véritablement y avoir droit. Il n'est pas approprié d'imposer des pénalités dans ces circonstances.
+Conclusion
+[39] Par conséquent, l'appel est accueilli en partie, sans dépens. La nouvelle cotisation sera déférée au ministre pour que soit accordée à l'appelant une perte en capital supplémentaire de 10 385,92 $ et pour que les pénalités imposées en vertu du paragraphe 163(2) soient annulées.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2004.
+"B. Paris"
+Juge Paris
+RÉFÉRENCE :
+2004CCI376
+No DU DOSSIER DE LA COUR :
+2001-4291(IT)G
+INTITULÉ DE LA CAUSE :
+Réal Bernier c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Les 26 et 27 avril 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable B. Paris, juge
+DATE DU JUGEMENT :
+Le 30 juillet 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Gaétan Drolet
+Pour l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Gaétan Drolet
+Étude :
+Ste-Foy (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1]Bronfman Trust c. La Reine, [1987] 1 R.C.S. 32, le juge en chef Dickson, à la page 3.
+[2] Tennant c. La Reine [1996] 1 R.C.S. 305 (C.S.C.); le juge Iacobucci, aux par. 18 à 20.
+[3] 74712 Alberta Ltd. c. Ministre du Revenu national, [1997] 2 C.F. 471; le juge d'appel Robertson.
+[4] Pièce A-18, 1998, Partie 1, États financiers de l'Agence; État de l'actif.
+[5] Pièce A-18, Partie 2, États financiers de Gestion, note 1.
+[6] Voir l'état du passif, Pièce A-18.
+[7] Voir la note 5 des États financiers de l'Agence pour 1999, Pièce A-24.
+[8] Pièce A-28, Passif.
+[9] Pièce A-29, Passif.
+[10] Pièces A-25, 26, 27 et Pièce A-18 (deuxièmes États financiers).
+[11]Pièce A-31,de novembre 1997 à novembre 1998.
+[12] Schumaker v. R., [2002] 3 C.T.C. 2206.
+[13] Le paragraphe 39(2) s'applique malgré le paragraphe 39(1) de la Loi.
+[14] Pièce A-8, p. 2.
+[15] Paragraphes 5m) et 6 de la Réponse modifiée.
+[16] Pièce I-8.

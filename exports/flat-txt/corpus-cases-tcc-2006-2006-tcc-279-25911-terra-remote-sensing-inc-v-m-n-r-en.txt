@@ -1,0 +1,107 @@
+Title: Terra Remote Sensing Inc v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25911/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-279-25911-terra-remote-sensing-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-05-12
+
+# Terra Remote Sensing Inc v. M.N.R.
+
+- Citation: 2006 TCC 279
+- Decision date: 2006-05-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3709, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Terra Remote Sensing Inc v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-12
+Neutral citation
+2006 TCC 279
+File numbers
+2005-1558(EI), 2005-1560(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2006TCC279
+Date: 20060512
+Docket: 2005-1558(EI), 2005-1560(EI)
+2005-1563(EI), 2005-1564(EI)
+BETWEEN:
+TERRA REMOTE SENSING INC.,
+JAMES VOSBURGH, HARRY OLYNYK and FREDERICK QUINN,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Agent for the Appellants: Terrence Walter Greene
+Counsel for the Respondent: John Gibb-Carsley
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Victoria, British Columbia, on March 30, 2006)
+Miller J.
+[1] The four informal procedure appeals of Terra Remote Sensing Inc. (Terra), James Vosburgh, Harry Olynyk, and Frederick Quinn were heard together on common evidence. The appeals all concern whether or not the individual Appellants were dealing at arm's length with the corporate Appellant for the period August 1, 2000, to November 20, 2003. If they were not dealing at arm's length then pursuant to paragraph 5(2)(i) of the Employment Insurance Act their employment is not insurable.
+[2] None of the Appellants showed up at trial to give evidence. Indeed, it was acknowledged by their agent, their accountant, Mr. Greene, that he was more interested in pursuing this matter than they were. Mr. Greene was the only person to testify at trial. This is unfortunate, as I had no opportunity to assess how the individual Appellants, themselves, described the dealings between each of them and the company.
+[3] From the Respondent's assumptions and Mr. Greene's evidence I adduced the following. As of August 1, 2000, Terra's shares were owned 24.58 per cent by a company controlled by Mr. Vosburgh; 18.29 per cent by a company controlled by Mr. Olynyk; and 24.85 per cent by a company controlled by Mr. Quinn; with just over 30 per cent owned by 10 other employees. The individual Appellants are not related. Each of the individual Appellants was a director. Each individual Appellant was provided with a full benefit plan including medical, dental, disability, life insurance, and vacation pay. They were paid their salary on a regular monthly basis. Their salaries differed, according to Mr. Greene, because greater compensation was paid to employees working away from home and Mr. Vosburgh worked away from home more than the others.
+[4] Mr. Greene testified that the individual Appellants provided personal guarantees for Terra's bank loans, along with an assignment of key-man insurance on the three individual Appellants. He also testified that in a claim for Scientific Research and Experimental Development (SRED) credits from Canada Customs Revenue Agency (CCRA), he identified the three individual Appellants as specified employees; that is someone who is either a specified shareholder of the company or who does not deal at arm's length with the company. He also provided evidence of a lawsuit from a former employee against the three individual Appellants claiming, in part, that the three individual Appellants conspired together; the matter was settled out of court. Mr. Greene also provided a copy of a company pension plan for designated employees and indicated that the individual Appellants waived the company contributions to the plan in 2003 and 2004. The individual Appellants attempted to keep their benefits from the plan relatively equal.
+[5] Based on this evidence, Mr. Greene wishes me to conclude that each of the individual Appellants were not dealing with the corporate Appellant at arm's length. The relevant legislation is paragraph 5(2)(i) of the Employment Insurance Act which reads:
+5(2) Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+Also, paragraph 3:
+5(3) For the purposes of paragraph 2(i)
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act ...
+Turning then to the Income Tax Act, subsection 251(1):
+251(1) For the purpose of this Act,
+...
+(c) ... it is a question of fact whether persons not related to each other are at a particular time dealing with each other at arm's length.
+That is the legislation we are dealing with.
+[6] The Federal Court of Appeal in Peter Cundill & Associates Ltd. v. Canada,[1] adopted CCRA's approach to this issue as set out in Interpretation Bulletin 419R. It identifies the following factors in determining the question of arm's length: first, the existence of a common mind which directs bargaining for both parties; second, parties act in concert without separate interests; third, de facto control. What is important to note is that these factors are to be addressed to the individual Appellants' and the corporate Appellant's dealings in the context of their employment relationship, not their shareholder relationship.
+[7] There is no question the individual Appellants were employees of the corporate Appellant. The question is: did they deal as employees at arm's length? Clearly, de facto control is not a factor. No one Appellant had control of the corporate Appellant to influence the bargaining position in establishing the employment arrangement. Also, I have no difficulty finding that there does not exist a common mind which directs the bargaining for both parties. There was simply no evidence of this.
+[8] No, the only factor I find which needs further analysis is the question of whether the parties were acting in concert without separate interests. Unlike the facts in Crawford & Co. v. M.N.R.,[2] a case which Mr. Greene relied upon, I have no evidence from the individual Appellants as to how their salary was set. In Crawford the employee set his own salary. Also, unlike in Crawford, I have no evidence whether the individual Appellants' salaries reflected amounts below market. I do have evidence that somebody, in some manner (none of which was addressed in evidence) determined there should be additional compensation for working away from home. I also had evidence that the individual Appellants received the normal array of employee benefits. These considerations have lead me to conclude that, on balance, the company and the employees were not acting without separate interests, quite the opposite. The arrangements reflect the normal adverse bargaining positions of employer and employee.
+[9] Mr. Greene pointed to the pension plan and the guarantees as evidence of acting in concert. This may reflect that the individual Appellants acted together, but only as would be expected with any three shareholders owning two-thirds of a company. It is not conclusive that they acted in concert with the company vis-a-vis the employment arrangements. I have not been satisfied that the individual Appellants themselves acted in concert. Mr. Greene said they always did. But the shareholders agreement, to which he stated they were bound, provided mechanics for acting individually. For example, any two of the individual Appellants could pass resolutions without the third, with the agreement of the remaining employee shareholders.
+[10] Mr. Greene also relied on the SRED application as evidence that the Appellants themselves considered themselves to be not dealing at arm's length, yet that application is equally consistent with them simply being specified shareholders as it is with being at arm's length.
+[11] Mr. Greene, you ran a risk in conducting this matter without your clients to testify. Maybe they could have satisfied me by describing in greater detail the terms of their employment, how they were set, who made what decisions, and a myriad of other facts as to how the individuals and the company operated together. But all I really had was you telling me they acted as employees in concert with the company; that has simply not been enough for me to find they were in excluded employment. I therefore dismiss their appeals.
+Signed at Ottawa, Canada, this 12th day of May, 2006.
+"CampbellJ. Miller"
+Miller J.
+CITATION:
+2006TCC279
+COURT FILE NO.:
+2005-1558(EI), 2005-1560(EI), 2005-1563(EI) and 2005-1564(EI)
+STYLE OF CAUSE:
+Terra Remote Sensing Inc., James Vosburgh, Harry Olynyk and Frederick Quinn and The Minister of National Revenue
+PLACE OF HEARING
+Victoria, British Columbia
+DATE OF HEARING
+March 28, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+April 5, 2006
+APPEARANCES:
+Agent for the Appellants:
+Terrence Walter Greene
+Counsel for the Respondent:
+John Gibb-Carsley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 91 DTC 5543.
+[2] 1999 CarswellNat 3185.

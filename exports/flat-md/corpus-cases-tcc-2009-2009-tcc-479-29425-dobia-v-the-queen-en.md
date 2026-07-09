@@ -1,0 +1,163 @@
+---
+title: "Dobia v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29425/index.do"
+last_modified: "2009-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 479"
+citation2: ""
+neutral_citation: "2009 TCC 479"
+decision_date: "2009-09-25"
+language: "en"
+item_id: "29425"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6977
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:55:14.391000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ba9f779d004c6643b1b3e74f4ff4a99a24782a5667fe0af8a4cc0f7b26171170"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dobia v. The Queen
+
+- Citation: 2009 TCC 479
+- Decision date: 2009-09-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6977, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dobia v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-25
+Neutral citation
+2009 TCC 479
+File numbers
+2009-652(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-652(GST)I
+BETWEEN:
+KELLY DOBIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 11, 2009, at Grande Prairie, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Jeffrey F.M. Donald
+Counsel for the Respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 23, 2008 and bears number 679610, is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s liability under section 325 is $1,096.57.
+In accordance with section 18.3009 of the Tax Court of Canada Act, there will not be an award of costs.
+Signed at Ottawa, Canada, this 25th day of September 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC479
+Date: 20090925
+Docket: 2009-652(GST)I
+BETWEEN:
+KELLY DOBIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] This is an appeal from an assessment which was made pursuant to section 325 of the Excise Tax Act (ETA). The Appellant was assessed the amount of $18,955.42 in respect of land which was gifted to him by his father, Albert Dobia. The issues to be decided are the date of delivery of the gift of land and the fair market value of the land on that date.
+[2] Section 325 of the ETA allows the Minister of National Revenue to assess a person for a transfer of property made to him by a non-arm’s length transferor when that transferor is a tax debtor. A portion of that section reads as follows:
+325. (1) Tax liability re transfers not at arm's length -- Where at any time a person transfers property, either directly or indirectly, by means of a trust or by any other means, to
+(a) the transferor's spouse or common-law partner or an individual who has since become the transferor's spouse or common-law partner,
+(b) an individual who was under eighteen years of age, or
+(c) another person with whom the transferor was not dealing at arm's length,
+the transferee and transferor are jointly and severally liable to pay under this Part an amount equal to the lesser of
+(d) the amount determined by the formula
+A - B
+where
+A is the amount, if any, by which the fair market value of the property at that time exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property, and
+B is the amount, if any, by which the amount assessed the transferee under subsection 160(2) of the Income Tax Act in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+(e) the total of all amounts each of which is
+(i) an amount that the transferor is liable to pay or remit under this Part for the reporting period of the transferor that includes that time or any preceding reporting period of the transferor, or
+(ii) interest or penalty for which the transferor is liable as of that time,
+but nothing in this subsection limits the liability of the transferor under any provision of this Part.
+[3] The only witnesses at the hearing were the Appellant and his father, Albert Dobia. They both described the events that led to Albert Dobia transferring a parcel of land to the Appellant.
+[4] Albert Dobia owned approximately 97.69 acres of land in the County of Grand Prairie, Alberta. During Thanksgiving weekend in October 2005, the Appellant expressed the desire to move closer to his family. Albert Dobia agreed to give the Appellant the smallest acreage that the county said was necessary in order to build a house. The Appellant and his father walked the land and agreed on a parcel of land (the “Property”) which the Appellant could have.
+[5] Before the Property could be transferred, the Appellant was required to have the subdivision approved and to pay all necessary costs for the subdivision. A portion of the Property was located on a muskeg and the Appellant had soil hauled to the Property to build it up so that it would be approved for subdivision.
+[6] The Appellant had a road built so that the Property had access to the municipal road. He had the Property surveyed. He had a well dug and he had the Property serviced with gas and electricity. Between November 2005 and February 2007, the Appellant spent a total of $118,893.43 on the Property.
+[7] On February 2, 2007, the land was subdivided into two parcels with the Property being the smaller parcel. It contained 5.69 acres and was registered in the names of Albert Dobia and Tahanita Dobia (the Appellant’s mother). On February 23, 2007, the Appellant’s parents signed a document entitled “Transfer of Land” wherein they transferred the Property to the Appellant and his spouse. Attached to the “Transfer of Land” was an affidavit re: the value of the land. In the affidavit, the Appellant swore that the true consideration paid by him for the transfer was $10 and that the current value of the land, in his opinion, was $120,000. I note that both the terms “value” and “land” are defined in the affidavit as follows:
+“value” - means the dollar amount that the land might be expected to realize if it were sold on the open market by a willing seller to a willing buyer;
+“land” – includes buildings and all other improvements affixed to the land
+[8] On April 25, 2007, the Transfer of Land was registered with the Land Titles office.
+[9] The first question that must be determined is: when was the gift of the Property perfected in law?
+[10] According to Professor Bruce Ziff, three elements are necessary to perfect a gift. They are: (i) an intention to donate; (ii) an acceptance; and (iii) a sufficient act of delivery[1].
+[11] In October 2005, Albert Dobia expressed the intention to donate a parcel of his land and the Appellant accepted that offer. However, merely walking the land and pointing to the parcel of land was not a sufficient act to deliver the land to the Appellant. In order for there to be delivery of the Property, Albert Dobia had to divest himself of the title to the Property.
+[12] Sections 53 and 54 of the Land Titles Act[2] of Alberta read as follows:
+Necessity of registration
+53 After a certificate of title has been granted for any land, no instrument is effectual to pass any estate or interest in that land (except a leasehold interest for 3 years or for a less period) or to render that land liable as security for the payment of money, unless the instrument is executed in accordance with this Act and is registered under this Act, but on the registration of any such instrument in the manner hereinbefore prescribed the estate or interest specified in the instrument passes or, as the case may be, the land becomes liable as security in manner and subject to the covenants, conditions and contingencies set out and specified in the instrument or by this Act declared to be implied in instruments of a like nature.
+Effect of registration
+54 So soon as registered every instrument becomes operative according to its tenor and intent, and on registration creates, transfers, surrenders, charges or discharges, as the case may be, the land or the estate or interest in the land or estate mentioned in the instrument
+[13] In Alberta a transfer of the legal title to land can be accomplished only by registration of title[3]. This was confirmed by the Alberta Court of Appeal in its decision in MacLeod v. Montgomery’s Estate[4] where Justice Morrow stated:
+16 In jurisdictions where land registration requirements make provision for passing title upon registration, as in s. 56[5] (supra) the courts have in general laid it down as principle that no transfer or ownership passes the estate unless the registration has already taken place: Macedo v. Stroud, (supra).
+…
+31 In my view, the decision in this case is sound. To complete a gift effectively, the donor is obliged to do what can be done. In Alberta, in order for a transfer to be registered, that transfer has to be accompanied by a Duplicate Certificate [*page359] of Title, unless the Title is already lodged at the Land Titles Office; or, alternatively, unless there is proof that the Duplicate Certificate of Title has been lost or destroyed. In my opinion, the delivery of the transfer, as well as the duplicate Certificate of Title, was required to complete the gift in this case. The Duplicate Certificate of Title was not delivered. It lay in the would-be donor's power, by instructions to her solicitors, to complete the gift. There is no evidence that she gave such instructions. Equity will not force a volunteer to complete that which is incomplete. Had the Duplicate Certificate of Title been lodged at the Land Titles Office, as in the case of mortgaged lands, the delivery of the transfer would have completed the gift, as the donor would have done everything that could be done to perfect the gift. This is not so in the case at Bar. The gift was not completed.
+[14] The title to the Property was passed to the Appellant when the Transfer of Land was registered on April 25, 2007.
+[15] The Appellant stated that the value of the Property was $120,000. The Minister of National Revenue assumed that the value of the Property was $120,000. Neither party had the Property appraised. Neither party had an expert witness at the hearing who could speak to the fair market value of the land.
+[16] I realize that in the Affidavit which accompanied the Transfer of Land, the Appellant swore that the consideration which he paid for the Property was $10. However, it was because of his efforts and the money which he spent that he assumed the value of the Property was $120,000.
+[17] In reality, the consideration given by the Appellant was $118,903.43. In accordance with section 325 of the ETA, the Appellant is liable for the lesser of the difference between the value of the Property and the consideration given and Albert Dobia’s tax liability at that time or any preceding reporting period. The result is that the Appellant is liable to pay the amount of $1,096.57.
+[18] The appeal is allowed. In accordance with section 18.3009 of the Tax Court of Canada Act, there will not be an award of costs.
+Signed at Ottawa, Canada, this 25th day of September 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC479
+COURT FILE NO.: 2009-652(GST)I
+STYLE OF CAUSE: KELLY DOBIA AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Grande Prairie, Alberta
+DATE OF HEARING: September 11, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: September 25, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Jeffrey F.M. Donald
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jeffrey F.M. Donald
+Firm: Stefura Greber & Beal LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Ziff, Bruce H. Principles of Property Law, 3rd Edition, (Toronto: Carswell) p. 140.
+[2] Land Titles Act, R.S.A. 2000, c. L-4
+[3] supra footnote 1 at page 147
+[4] 20 AR 350 (CA) at paragraphs 16 and 31
+[5] This is section 53 in the present Land Titles Act.

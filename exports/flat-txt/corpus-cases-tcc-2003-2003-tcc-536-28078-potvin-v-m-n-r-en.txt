@@ -1,0 +1,152 @@
+Title: Potvin v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28078/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-536-28078-potvin-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-08-12
+
+# Potvin v. M.N.R.
+
+- Citation: 2003 TCC 536
+- Decision date: 2003-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1631, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Potvin v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-12
+Neutral citation
+2003 TCC 536
+File numbers
+2002-2548(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002‑2548(EI)
+BETWEEN:
+CLAUDE POTVIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 19, 2003, at Jonquière, Quebec
+Before:
+The Honourable Deputy Judge J. F. Somers
+Appearances:
+Counsel for the Appellant:
+Ghislain Girard
+Counsel for the Respondent:
+Marie‑Claude Landry
+JUDGMENT
+The appeal is dismissed and the Minister's decision is upheld in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of August 2003.
+"J. F. Somers"
+Somers, D.J.
+Translation certified true
+on this 15th day of March 2004.
+Shulamit Day‑Savage, Translator
+Citation: 2003TCC536
+Date: 20030812
+Docket: 2002‑2548(EI)
+BETWEEN:
+CLAUDE POTVIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Somers, D. J.
+[1] This appeal was heard at Jonquière, Quebec, on June 19, 2003.
+[2] The Appellant appealed of the decision of the Minister of National Revenue (the "Minister") that the employment with the Payor, Marc Claveau, from February 5 to May 11, 2001 and from May 14 to 25, 2001, is excluded from insurable employment because it does not meet the requirements for a contract of service.
+[3] Subsection 5(1)(a) of the Employment Insurance Act (the "Act") reads, in part, as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+…
+[4] In making his decision, the Minister relied on the following assumptions of fact, which the Appellant admitted, denied or said he had no knowledge of:
+[translation]
+(a) During the periods at issue, the Payor owned two apartment buildings in La Baie; that is six buildings in all. (no knowledge)
+(b) During the period at issue, the Payor was also the sole shareholder in a wood transport business operating under the corporate name 9066‑2107 Québec Inc. (no knowledge)
+(c) During the periods at issue, the Appellant provided services to the Payor as a jack‑of‑all‑trades. He worked at the Payor's two buildings and at his personal residence. (admitted)
+(d) During the periods at issue, the Appellant carried out interior and exterior maintenance on the Payor's apartments. He worked on finishing the basement of the Payor's residence, mowed the lawn, painted the balconies and replaced the carpets and linoleum. (admitted)
+(e) The Payor claimed that the Appellant had worked for him for two years, when neither the Payor nor 9066‑2107 Québec Inc. issued any T‑4 slips to the Appellant for 2000. (admitted)
+(f) The Appellant set his own hours of work and his pay without taking into consideration the actual time worked. (denied)
+(g) The Appellant worked alone and was not supervised; he was free to manage his time and to work the hours that were convenient for him.
+h) The Appellant received his pay in cash each week he worked. There is no proof of the remuneration paid by the Payor during the periods at issue. (denied)
+i) On November 2, 2001, the Appellant received a first record of employment from the Payor that indicated he had worked from February 5 to May 11, 2001, and had accumulated 560 hours of work during this period. (admitted)
+(j) On November 9, 2001, the Appellant received a letter from Human Resources Development Canada (HRDC) advising him that he was 67 hours short of qualifying to receive employment insurance benefits. (admitted)
+(k) On November 16, 2001, the Appellant received a second record of employment from the Payor indicating that he had worked from May 14 to 25, 2001, and had accumulated 80 hours during that period. (admitted)
+(l) On his application for unemployment benefits, dated October 31, 2001, the Appellant indicated that he had worked for the Payor from January 8 to September 30, 2001. (admitted)
+(m) The Appellant provided services to the Payor outside the periods entered on the records of employment, both on his income properties and on his personal residence. (no knowledge)
+n) There was an arrangement between the parties for the sole purpose of enabling the Appellant to receive employment insurance benefits. (denied)
+[5] The burden of proof is on the Appellant. The Appellant must show, on a balance of probabilities, that the Minister's decision is unfounded in fact and in law. Each case stands on its own merit.
+[6] The witnesses at this hearing were Marc Claveau, the Payor, the Appellant and Denise Gaudreau, investigator.
+[7] The Payor testified that he was a general contractor who owns three apartment buildings, with a total of eleven apartments. He stated that he had perhaps three or four employees in February 2001.
+[8] During the periods at issue, the Payor was also the sole shareholder of a wood transportation business operating under the corporate name 9066‑2107 Québec Inc.
+[9] The Payor stated that he did business in cash and paid the Appellant this way.
+[10] According to the Payor, the Appellant performed general maintenance at his buildings. From time to time, he went to see the work done by the Appellant. Given his experience, he could tell how much time is required to do certain work.
+[11] The Payor provided the Appellant with all the tools required to carry out the work, and when this was not the case, reimbursed the Appellant for all the expenses he incurred. The work was done on two of the Payor's buildings and at his personal residence.
+[12] More specifically, during the periods at issue, the Appellant allegedly performed interior and exterior maintenance of the Payor's apartments. He allegedly worked on finishing the basement of the Payor's residence, mowed the lawn, painted the balconies and replaced the carpets and linoleum.
+[13] The Payor stated that he gave the Appellant a T4 for 2001. However, there is no documentary evidence of this.
+[14] According to the Payor, the Appellant was paid $8/hour. The Appellant was free to manage his time. The Payor had the experience to know how much time the Appellant required to carry out his work. The Appellant's hours of work were not counted, the Payor trusted him.
+[15] There is no evidence of the remuneration paid or the hours worked by the Appellant. The Payor stated that he had indicated this information in his books but he did not produce them.
+[16] On November 2, 2001, the Appellant received a first record of employment indicating that he had worked from February 5 to May 11, 2001 and accumulated 560 hours of work during this period.
+[17] On November 9, 2001, the Appellant received a letter from Human Resources Development Canada (HRDC) advising him that he was 67 hours short of qualifying for employment insurance benefits.
+[18] On November 16, 2001, the Appellant received a second record of employment from the Payor indicating that he had worked from May 14 to 25, 2001, and had accumulated 80 hours during that period.
+[19] On his application for unemployment benefits, dated October 31, 2001, the Appellant indicated that he worked for the Payor from January 8 to September 30, 2001.
+[20] With respect to the second record of employment, the Payor stated that he had lost his notes.
+[21] The Payor admitted that he had met Denise Gaudreau, investigator, on three different occasions. He admitted that he had signed a statutory declaration dated January 24, 2002, submitted as Exhibit I‑1.
+[22] The Payor admitted that the following facts related in this declaration are true:
+[translation]
+Mr. Potvin's work:
+Mr. Potvin was hired approximately two years ago. He performs general interior and exterior maintenance for apartment buildings. He did roofing, finished my personal basement, mowed the grass for three buildings, painted balconies, did some plastering, replaced carpets, linoleum, taps, etc. … .He did not do large plumbing jobs. Claude Potvin has been working for me for about two years.
+In 2001, the beginning of his employment, he gave me (Marc Claveau) an estimate in hours and money how much it would cost to make certain major repairs to apartment building number 1322 4th Avenue, and to finish my personal basement at 5155. Mr. Potvin obtained the verbal contract and completed the work. Claude Potvin was free to manage his time and to work his hours whenever he wished. He had estimated the number of hours to carry out the work and would not have received more money if it took longer. He was paid by the hour; he handed in his time sheet to me and I paid him each week. Initially, I did not pay any more hours than planned. That was our agreement, even if he worked more hours than initially planned. He was paid with the money received from the rent or with my personal money.
+Mr. Potvin worked alone; he wanted to work this way and did not want anyone watching over him. I did not control his schedule (I was already working externally as a heavy machinery operator so it was impossible to monitor his schedule). I could observe his work once it was done. With an estimate of the costs versus his time, he was almost at minimum wage, but that was his business. He estimated the costs so he agreed to do it for the amount allocated.
+When he had to make purchases, he used his personal money and submitted the bill(s) to me and I reimbursed him. I have trade accounts in several locations but he preferred that and so did I. It meant less paper for me (accounts payable…) He also did the basement at my private residence (at 5155) on contract in the spring, summer and fall of 2001. There are still things to be done. He even worked after that to finish the things he had begun. $20 and under
+I had already hired a person whose name I do not recall through a newspaper ad. I also had a great deal of help with my basement. Mr. Potvin stopped working because I did not have any more work for him. This does not mean he did not work after that. He had to finish or resume the work.
+With respect to the first working day, I do not understand why Mr. Potvin indicated on his application that his first day was January 8, 2001, and on the record of employment it is February 5, 2001. It is probably because he started some work on January 8, 2001, without pay; he had to do a day or two of work. The same for the last day of work. Mr. Potvin indicated September 30, 2001, and on the record of employment it is May 11, 2001. He had to redo work I did not like. I had another termination done for the period from May 14 to May 25 because he had worked. That is all.
+The tools belong to me, Marc Claveau
+The last day on the record of employment is May 25, 2001. In the detail on 'Employee', the last week of work entered is the week from April 20 to 26, 2001, with the entry "final". The reason is: final for contract #2.
+The only accounting documents I have (for Mr. Claude Potvin) are the two sheets enclosed.
+[23] The Appellant describes himself as a jack‑of‑all‑trades. He explained that he worked for the Payor during the periods at issue.
+[24] He explained that he had negotiated with the Payor in order to determine the time required to perform the work. The hourly rate was set at $8. He managed his own time and kept track of the hours worked and reported to the Payor when they met two or three times per day.
+[25] He affirmed that the Payor provided the tools but that he owned some, although he did not give any details. He added that the Payor reimbursed him for all expenses related to performing the work.
+[26] The Appellant affirmed that he was paid in cash and denied that there was an arrangement between the Payor and him.
+[27] Under cross‑examination, the Appellant stated that he had carried out work at locations other than the Payor's home in 2001, that he gave estimates of the time necessary to carry out the work and that there was no supervision during the work, either at the Payor's or elsewhere.
+[28] On his application for employment insurance benefits (Exhibit I‑2), the Appellant indicated that he had worked for Thérèse Landry from June 30 to October 16, 2001 and at the Payor's from January 8 to September 30, 2001.
+[29] The Appellant's records of employment, submitted as Exhibit I‑3, indicated that he worked for the Payor from February 5 to May 11, 2001, and from May 14 to 25, 2001.
+[30] Human Resources Development Canada sent a letter to the Appellant dated November 9, 2001, indicating that he needed 910 hours of insurable employment between October 22, 2000, and October 20, 2001, in order to qualify for employment insurance benefits and that he had only accumulated 843.
+[31] The Appellant affirmed that he did not remember receiving that letter, but that then he presented a record of employment dated November 2, 2001 demonstrating that he had worked for the Payor between February 5 and May 11, 2001.
+[32] When confronted with these inaccuracies, the Appellant stated that he had forgotten some hours and that he told the Payor about it.
+[33] In Laverdière v. Canada (Minister of National Revenue – M.N.R.), [1999] T.C.J. No. 124, Tardif J. of this Court said the following:
+45 I nonetheless believe that the work done by Mr. Laverdière during the said period in 1992 was not performed under a genuine contract of service, inter alia for the following reasons. First of all, only a genuine contract of employment can meet the requirements for being characterized as a contract of service; a genuine contract of service must have certain essential components, including the performance of work; that performance must come under the authority of the person paying the remuneration, which remuneration must be based on the quantity and quality of the work done.
+46 Any agreement or arrangement setting out terms for the payment of remuneration based not on the time or the period during which the paid work is performed but on other objectives, such as taking advantage of the Act's provisions, is not in the nature of a contract of service.
+47 This assessment applies to all the periods at issue involving the two appellants. The terms and conditions of a genuine contract of service must centre on the work to be performed, on the existence of a mechanism for controlling the performance of the work and, finally, on the payment of remuneration that basically corresponds to the quality and quantity of the work done.
+…
+50 This is the case with any agreement or arrangement whose purpose and object is to spread out or accumulate the remuneration owed or that will be owed so as to take advantage of the Act's provisions. There can be no contract of service where there is any planning or agreement that disguises or distorts the facts concerning remuneration in order to derive the greatest possible benefit from the Act.
+51 The Act insures only genuine contracts of service; a contract of employment under which remuneration is not based on the period during which work is performed cannot be defined as a genuine contract of service. It is an agreement or arrangement that is inconsistent with the existence of a genuine contract of service since it includes elements foreign to the contractual reality required by the Act.
+[34] The Payor's statutory declaration indicates that he was only interested in the final result and that he had control of this result.
+[35] The Payor stated that he estimated certain repairs in hours and in money, that he and the Appellant negotiated an agreement and that the Appellant did not claim any more hours than estimated; therefore a price had been agreed upon.
+[36] The Appellant stated, without giving much detail, that he owned a few tools, such as a screwdriver and paint brush, and that the Payor provided him with what he needed to perform the work.
+[37] The Appellant, through both his witnesses, lacks credibility. There is no proof of the hours actually worked nor of payment for the hours because he was paid cash.
+[38] When the Appellant learned that he was missing hours to qualify for employment insurance benefits, he advised the Payor and another record of employment was issued. The explanation given by the Appellant that certain hours were forgotten is not credible.
+[39] The Payor affirmed that he asked for bids before arriving at an agreement, which indicates that there was a contract for services between the Appellant and the Payor. The Payor added that the Appellant had to re‑do work that he did not like.
+[40] There was an agreement between the parties for the sole purpose of enabling the Appellant to qualify for employment insurance benefits.
+[41] Since there was no real contract of service between the Appellant and the Payor, the employment was not insurable.
+[42] The Appeal is dismissed and the decision of the Minister is upheld.
+Signed at Ottawa, Canada, this 12th day of August 2003.
+"J. F. Somers"
+Somers D.J.
+Translation certified true
+on this 15th day of March 2004.
+Shulamit Day‑Savage, Translator

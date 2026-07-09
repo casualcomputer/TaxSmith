@@ -1,0 +1,153 @@
+Title: 2749807 CANADA INC. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28400/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-457-28400-2749807-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-06-29
+
+# 2749807 CANADA INC. c. La Reine
+
+- Citation: 2004 CCI 457
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1919, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2749807 CANADA INC. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-29
+Référence neutre
+2004 CCI 457
+Numéro de dossier
+2003-4335(GST)APP
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-4335(GST)APP
+ENTRE :
+2749807 CANADA INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 14 juin 2004 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de la requérante :
+Me William Noonan
+Avocat de l'intimée :
+Me Frank Archambault
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite en vue d'obtenir une ordonnance prorogeant le délai dans lequel un appel de la cotisation portant le numéro T-02-DSI-055FC, émise le 21 novembre 2002 et établie en vertu de la Loi sur la taxe d'accise, relativement à la taxe sur les produits et services, peut être interjeté;
+Et vu les allégations des parties;
+La demande est accordée, selon les motifs de l'ordonnance ci-jointe.
+Signé à Ottawa, Canada, ce 2e jour de juillet 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI457
+Date : 20040702
+Dossier : 2003-4335(GST)APP
+ENTRE :
+2749807 CANADA INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Tardif
+[1] Il s'agit d'une demande de prorogation du délai pour interjeter appel d'une cotisation portant le numéro T-02-DSI-055FC et émise le 21 novembre 2002.
+[2] La requête se lit comme suit :
+[...]
+REQUÊTE DE LA REQUÉRANTE POUR PROLONGER LE DÉLAI D'APPEL À LA COUR DU QUÉBEC
+(Article 93.1.13 de la Loi sur le ministère du Revenu)
+À L'UN DES HONORABLES JUGES DE LA COUR DU QUÉBEC, SIÉGEANT EN CHAMBRE DE PRATIQUE, DANS ET POUR LE DISTRICT DE MONTRÉAL, LA REQUÉRANTE EXPOSE RESPECTUEUSEMENT CE QUI SUIT :
+1. Le ou vers le 29 octobre 2002, l'Intimé informait notamment la Requérante que, suite à ses avis d'opposition, des modifications allaient être apportées à son avis de cotisation pour la TVQ, le tout tel qu'il appert d'une copie de la lettre de monsieur François Fontaine produite comme étant la pièce R-1;
+2. Le 31 décembre 2002, l'Intimé émettait un nouvel avis de cotisation à la Requérante pour la TVQ, le tout tel qu'il appert d'une copie de cet avis de cotisation produite comme étant la pièce R-2;
+3. Dès réception de ce nouvel avis de cotisation, soit le ou vers le 8 janvier 2003, la requérante l'a fait parvenir à son mandataire et conseiller d'affaires à l'époque, Monsieur Richard Corriveau, le tout tel qu'il appert d'une copie du rapport d'activités du télécopieur de la requérante produite comme étant la pièce R-3;
+4. La Requérante savait que Monsieur Richard Corriveau, ancien avocat, avait quelques problèmes personnels, mais croyait, à tort, qu'il s'était chargé donner mandat à un avocat pour faire la requête en appel devant cette Honorable Cour, puisque la Requérante lui avait donné mandat en ce sens;
+5. Dans les faits, la Requérante faisait affaires avec ledit Richard Corriveau à titre de consultant d'affaires dans certains dossiers et croyait que celui-ci avait vu à l'engagement des professionnels pour bien protéger les intérêts de la Requérante comme celle-ci lui avait demandé d'agir;
+6. La Requérante a découvert qu'aucune action n'avait été prise en ce sens lorsqu'elle a reçu la tierce-saisie de la Banque Toronto Dominion datée du 30 octobre 2003 et dont la Requérante a reçu copie le 5 novembre 2003, le tout tel qu'il appert d'une copie de cet avis produite comme étant la pièce R-4;
+7. Dès réception, la Requérante a retracé l'avis de cotisation et a fait parvenir le dossier aux procureurs soussignés;
+8. La Requérante était dans l'impossibilité en fait d'agir, ayant pris les mesures nécessaires pour qu'une requête en appel soit déposée à cette Honorable Cour;
+9. La Requérante a toujours eu l'intention d'aller en appel de l'avis de cotisation R-2;
+10. En effet, l'Intimé avait établi la première cotisation de façon arbitraire;
+11. À l'origine, l'Intimé avait oublié d'accorder des intrants, démontrant le peu de sérieux de la cotisation originale;
+12. L'Intimé s'est ravisé, puisqu'il a finalement accordé les intrants;
+13. Il n'en demeure pas moins que la cotisation R-2 est toujours arbitraire et sans justification;
+14. Il ne s'est pas écoulé plus d'un an depuis le 31 décembre 2002, soit la date d'envoi par la poste de l'avis de cotisation R-2;
+15. La Requérante, par ses procureurs soussignés, requiert de cette Honorable Cour la prolongation du délai d'appel pour produire sa requête en appel de l'avis de cotisation R-2 devant cette Honorable Cour pour une période de quinze (15) jours suivant la date du jugement sur la présente requête;
+16. La présente requête est bien fondée en faits et en droit;
+[3] En réponse à la requête, l'intimée a répliqué comme suit :
+[...]
+En réponse à la demande d'ordonnance pour proroger le délai à l'intérieur duquel la requérante peut produire un avis d'appel concernant l'avis de cotisation daté du 21 novembre 2002, le Sous-procureur général du Canada expose ce qui suit :
+1.) Le 26 octobre 2001, l'intimée a émis à l'endroit de la requérante un avis de cotisation portant le numéro T-01-DS1-124PP couvrant la période du 1er juillet 1997 au 31 juillet 2001;
+2.) Le 15 janvier 2002, la requérante s'opposa à cette cotisation;
+3.) Par décision sur opposition, l'intimée a émis un nouvel avis de cotisation daté du 21 novembre 2002 et portant le numéro T‑02DS1‑055FC;
+4.) La requérante a omis de loger un avis d'appel auprès de la Cour canadienne de l'impôt à l'intérieur du délai de quatre-vingt-dix (90) jours prévu à l'article 306 de la Loi sur la taxe d'accise;
+5.) La demande de prorogation de délai pour déposer un avis d'appel auprès de la Cour canadienne de l'impôt a été produite au greffe de la Cour le 1er décembre 2003;
+6.) L'intimée soutient que cette demande de prorogation devrait être rejetée pour les motifs suivants :
+a) La requérante n'a pas démontré que dans le délai d'appel par ailleurs imparti, elle n'a pu ni agir ni mandater quelqu'un pour agir en son nom et ce, conformément au sous-alinéa 305(5)b)(i) de la Loi;
+b) La requérante n'a pas démontré que la demande a été présentée dès que les circonstances le permettaient et ce, conformément au sous-alinéa 305(5)b)(iii) de la Loi;
+POUR CES MOTIFS, le Sous-procureur général du Canada demande à cette Cour de rejeter la demande de prorogation de délai de la requérante avec dépens.
+[...]
+[4] Seul monsieur Robin Thibault a témoigné. Il a brièvement décrit l'entreprise de la requérante; il a également indiqué être généralement responsable de projets spéciaux.
+[5] Il a témoigné que la requérante confiait tous les dossiers de nature juridique à Richard Corriveau depuis une dizaine d'années. Avocat de profession, ce dernier a été radié par le Barreau du Québec. Monsieur Thibault a affirmé que son patron et lui-même étaient au courant de la radiation de monsieur Corriveau.
+[6] Ayant développé au fil des ans une bonne relation de confiance avec monsieur Corriveau, l'entreprise pour laquelle monsieur Thibeault lui a demandé de contester le bien-fondé des cotisations émises tant en vertu de la taxe sur les produits et services (la « TPS ») qu'en vertu de la taxe de vente du Québec (la « TVQ »).
+[7] Lors de la première étape, soit l'opposition, monsieur Corriveau avait retenu les services d'un certain Jean Lelièvre. L'opposition ayant permis de faire réduire la cotisation de façon substantielle, la requérante a, à nouveau, retenu les services de monsieur Corriveau pour qu'il se charge cette fois d'identifier une personne compétente et qualifiée pour initier le processus d'appel de la cotisation substantiellement réduite, mais tout de même confirmée pour un montant considérable.
+[8] Le témoin a indiqué avoir rencontré monsieur Corriveau et conversé avec lui à quelques reprises et, à chaque occasion, ce dernier lui aurait mentionné que le tout était sous contrôle. À la suite du mandat de préparer et de procurer un avis d'appel, plusieurs mois se sont écoulés; lorsque l'intimée a entamé les procédures d'exécution au moyen d'une saisie, la requérante a dû faire le constat que monsieur Corriveau avait trahi sa confiance et qu'il n'avait jamais assumé le mandat qui lui avait été confié.
+[9] Soutenant avoir été victime de l'incompétence, de l'indifférence ou de l'ignorance de son mandataire Corriveau, la requérante soumet sa demande pour obtenir une prorogation du délai pour interjeter un appel. Elle ajoute avoir des motifs bons et valables pour faire annuler la cotisation, sinon la réduire considérablement; elle a d'ailleurs fait l'objet d'une réduction substantielle suite à l'opposition.
+[10] S'en remettre à une personne supposée qualifiée et compétente pour agir est-il en soi une excuse acceptable pour justifier et expliquer de n'avoir pas agi dans le délai prescrit? Je ne le crois pas.
+[11] Toute personne doit avoir comme réflexe de s'assurer que la personne à qui elle s'en remet exécute adroitement et adéquatement le mandat confié.
+[12] En l'espèce, monsieur Corriveau avait correctement agi lors du processus relatif à l'opposition. Il avait retenu les services d'un certain Jean Lelièvre; le tout s'était traduit par une substantielle réduction de la cotisation première, laissant ainsi croire qu'il avait les compétences pour mener à bien tout mandat relatif à la continuation du dossier. Le fait d'avoir très bien réussi lors de l'opposition constituait certainement un facteur déterminant pour que toute personne raisonnable croie que les procédures suivantes seraient préparées conformément aux exigences. Quant au délai écoulé, encore là, il était normal pour une personne raisonnable et profane de croire qu'il n'y avait rien d'anormal, puisque les délais en matière de contestation sont, malheureusement, toujours très longs.
+[13] L'argument voulant que le montant de la cotisation, corrigé à la baisse mais encore considérable, aurait normalement dû faire en sorte que la requérante manifeste une très grande vigilance et un suivi constant du traitement de son dossier est certes valable.
+[14] Inversement, cependant, les montants dus étant des sommes tellement importantes qu'il était tout à fait invraisemblable qu'une personne soit insouciante au point d'être indifférente au sort de son dossier.
+[15] Cette approche appuie l'interprétation voulant que la requérante ait fait totalement confiance à monsieur Corriveau, malgré ses déboires professionnels. Puisqu'il avait correctement agi au stade de l'opposition, la requérante n'avait aucune raison ni motif sérieux de douter de sa compétence ou de sa capacité de mener le dossier à bien et à terme.
+[16] Un mandat peut être exécuté de bonne ou de mauvaise foi. Dans l'hypothèse de la mauvaise foi, cela peut découler d'une ignorance, d'une imprudence, d'une erreur, d'une faute ou d'une négligence. Pour tous ces comportements insatisfaisants, il peut y avoir des variables allant de très peu importantes à très graves.
+[17] Lorsqu'un mandat n'est pas exécuté conformément aux attentes du mandant et que le résultat de la non-exécution s'avère fatal pour ses droits, la sanction pour le mandant n'est pas fonction de la gravité du geste du mandataire; elle est totale et définitive.
+[18] Certes, il existe des recours sur le plan de la responsabilité, mais lorsqu'il est possible de remédier aux conséquences du comportement ayant généré la perte d'un droit, particulièrement lorsque cela peut se faire sans préjudice pour la partie adverse, une demande visant à permettre à la personne lésée de faire valoir ses droits doit être accueillie.
+[19] Finalement, bien que ce tribunal ne soit pas lié par les décisions de la Cour du Québec, surtout lorsque les dispositions légales pertinentes ne sont pas les mêmes, je crois important, dans la mesure du possible, de contribuer à ce que les jugements sur une même question soient cohérents. À cet égard, l'avocat de la requérante a affirmé que la même requête avait été présentée devant la Cour du Québec, qui a compétence en matière de TVQ.
+[20] Il s'agissait des mêmes faits et des mêmes motifs, la seule distinction était que les dispositions légales applicables, soit la Loi sur le ministère du Revenu – (article 93.1.13), étaient différentes puisqu'il s'agissait de la TVQ et non des dispositions de la Loi sur la taxe d'accise – (article 305.1) relativement à la TPS. Le dossier portait cependant sur la même période et les mêmes opérations commerciales.
+[21] La demande est accueillie.
+Signé à Ottawa, Canada, ce 2e jour de juillet 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI457
+No DU DOSSIER DE LA COUR :
+2003-4335(GST)APP
+INTITULÉ DE LA CAUSE :
+2749807 Canada Inc. c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (QC)
+DATE DE L'AUDIENCE :
+le 14 juin 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable Juge Alain Tardif
+DATE DU JUGEMENT :
+le 2 juillet 2004
+COMPARUTIONS :
+Pour l'appelante :
+Me William Noonan
+Pour l'intimée :
+Me Frank Archambault
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me William Noonan
+Étude :
+Hickson Noonan
+Ville :
+Sillery (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

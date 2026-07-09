@@ -1,0 +1,152 @@
+Title: Bolduc c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26974/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-675-26974-bolduc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-10-26
+
+# Bolduc c. La Reine
+
+- Citation: 2005 CCI 675
+- Decision date: 2005-10-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 550, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-26
+Référence neutre
+2005 CCI 675
+Numéro de dossier
+2004-915(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-915(IT)I
+ENTRE :
+CLAUDE BOLDUC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 20 mai 2005, à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Pierre Hémond
+Avocat de l'intimée :
+Me Nathalie Labbé
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de octobre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI675
+Date : 20051026
+Dossier : 2004-915(IT)I
+ENTRE :
+CLAUDE BOLDUC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'appels pour les années d'imposition 1999 et 2000.
+[2] La question en litige est de savoir si les sommes respectives de 2 854,48 $ et 7 942,37 $ doivent être incluses dans le calcul du revenu de l'appelant au titre d'avantages réputés avoir été reçus de la Société Habitations Durab Inc. (la « Société » ), au sens de l'article 80.4 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[3] Les faits sur lesquels le ministre du Revenu national (le « Ministre » ) s'est fondé pour établir ses nouvelles cotisations sont décrits au paragraphe 12 de la Réponse à l'avis d'appel comme suit :
+a) la société « Habitations Durab inc. » exploitait une entreprise de construction résidentielle et de rénovation pendant les exercices financiers se terminant les 31 décembre 1999 et 2000;
+b) l'appelant était actionnaire et employé de la société « Habitations Durab inc. » pendant les années d'imposition en litige;
+c) le ministre a vérifié les livres et registres de la société « Habitations Durab inc. » et les comptes bancaires personnels de l'appelant;
+d) au cours des exercices financiers de la société « Habitations Durab inc. » se terminant les 3 décembre 1999 et 2000, le solde annuel des avances consenties à l'appelant par la dite société était les suivants :
+i) au 1 janvier 1999 24 500,86 $
+ii) au 31 décembre 1999 134 394,55 $
+iii) au 31 décembre 2000 90 273,00 $;
+e) l'appelant n'a versé aucune somme à titre d'intérêt à la société « Habitations Durab inc. » pendant les années en litige;
+f) le ministre, pour calculer l'avantage annuel réputé avoir été reçu par l'appelant, a utilisé pour les années d'imposition 1999 et 2000, les taux d'intérêts respectifs de 5% et de 6%.
+[4] De l'avis d'appel, je cite les paragraphes 2 à 8 et 16 qui se lisent comme suit :
+2. Le 11 juillet 1997, l'Appelant a emprunté personnellement de la Caisse populaire Desjardins du Vieux-Québec une somme totalisant cent vingt mille dollars (120 000,00 $), et ce, par deux (2) actes de prêt distincts d'un montant de soixante mille dollars (60 000,00 $) chacun, le tout tel qu'il appert d'une copie des actes de prêt hypothécaire, dont copie sera produite au dossier de la Cour en liasse sous la cote A-1;
+3. Le montant total des prêts, soit la somme de cent vingt mille dollars (120 000,00 $), était destiné à acquitter les coûts de construction d'un jumelé devant être érigé sur la rue de Chamerolles, à Neufchâtel, le tout tel qu'il appert d'une lettre du 2 juin 1997 provenant de la Caisse populaire Desjardins du Vieux-Québec accompagnée de l'offre de financement, lesdits documents devant être produits au dossier de la Cour en liasse sous la cote A-2;
+4. Suivant l'offre de financement, l'un des prêts au montant de soixante mille dollars (60 000,00 $) devait être garanti par une hypothèque de premier rang sur l'immeuble étant situé au 9725, rue de Chamerolles, à Neufchâtel;
+5. Les terrains sur lesquels devaient être érigées les résidences de type jumelé ont été acquis non pas par l'Appelant, mais par Les Habitations Durab inc., le tout suivant un acte de vente intervenu avec la Fédération des Caisses populaires Desjardins de Québec portant la date du 19 août 1997, dont copie sera produite au dossier de la Cour sous la cote A-3;
+6. La somme totalisant cent vingt mille dollars (120 000,00 $) ayant été prêtée par la Caisse populaire Desjardins du Vieux-Québec a été totalement déboursée à l'Appelant, le tout tel qu'il appert des bordereaux de déboursement, dont copie sera produite au dossier de la Cour en liasse sous la cote A-4;
+7. La somme totalisant cent vingt mille dollars (120 000,00 $) ayant été déboursée en faveur de l'Appelant a été déposée ultérieurement par tranches, au compte d'opérations de la compagnie Les Habitations Durab inc., le tout tel que preuve en sera faite;
+8. La somme totalisant cent vingt mille dollars (120 000,00 $) ayant été empruntée par l'Appelant personnellement a entièrement servi à acquitter les coûts de construction des résidences de type jumelé, et ce, sur les terrains propriétés de Les Habitations Durab inc.;
+...
+16. Les nouvelles cotisations ayant été émises à l'Appelant pour les années d'imposition 1999 et 2000 de même que la décision du Ministre de ratifier celles-ci sont non fondées et erronées, et ce, pour les motifs ci-après :
+a) L'Appelant a lui-même acquitté, pour le compte de la compagnie Les Habitations Durab inc., tous les intérêts payables sur les emprunts totalisant la somme de cent vingt mille dollars (120 000,00 $) contractés auprès de la Caisse populaire Desjardins du Vieux-Québec, et ce, jusqu'au 15 novembre 2000, date à laquelle la Caisse populaire Desjardins du Vieux-Québec a reconnu avoir reçues toutes sommes dues par l'Appelant suite aux prêts hypothécaires lui ayant été consentis le 11 juillet 1997, le tout tel qu'il appert notamment d'une quittance de la Caisse populaire Desjardins du Vieux-Québec dont copie sera produite au dossier de la Cour sous la cote A-9;
+b) Les prêts hypothécaires ayant été contractés par l'Appelant au bénéfice de Les Habitations Durab inc. portaient eux-mêmes intérêt d'un taux variant de 5.2% l'an à 6.75 % l'an;
+c) D'autre part, jusqu'au moment de la quittance, l'Appelant a lui-même acquitté, pour le compte de la compagnie Les Habitations Durab inc., tous les versements hypothécaires dus à ladite institution financière, le tout tel que preuve en sera faite;
+d) Les sommes que l'Appelant a empruntées pour le bénéfice de Les Habitations Durab inc. totalisant cent vingt mille dollars (120 000,00 $) de même que les intérêts qu'il a acquittés sur ces emprunts depuis le 11 juillet 1997 constituaient un prêt pour le bénéfice de Les Habitations Durab inc., le capital et les intérêts de cette somme devaient donc être en conséquence considérés comme étant une somme due à l'Appelant;
+e) Les états financiers de la compagnie Les Habitations Durab inc. pour les exercices terminés les 31 décembre 1999 et 31 décembre 2000 font apparaître notamment aux passifs des emprunts au montant de cent vingt milles dollars (120 000,00 $), lesquels ont été de fait contractés par l'Appelant personnellement;
+f) C'est par erreur que les emprunts totalisant cent vingt mille dollars (120 000,00 $) apparaissent aux états financiers de la compagnie Les Habitations Durab inc., puisque ceux-ci auraient dû figurer comme étant une somme due à un administrateur, portant intérêt au taux convenu avec la Caisse populaire Desjardins du Vieux-Québec;
+g) Tel qu'il appert du document de calcul pièce A-6, madame Louise Laroche, préposée de l'Intimée, a reconnu que la somme de cent vingt mille dollars (120 000,00 $) due sur les maisons en stock devait être appliquée à l'encontre des avances dues par l'Appelant à Les Habitations Durab inc.;
+h) La préposée de l'Intimée a cependant erré, puisqu'elle aurait dû appliquer, pour le compte de l'Appelant personnellement, un crédit de cent vingt mille dollars (120 000,00 $), et ce, depuis la date où ce dernier a contracté ces emprunts, à savoir depuis le 11 juillet 1997 de même que tous les intérêts que ce dernier a payés sur lesdits emprunts, puisque cette somme a été de fait empruntée à cette date et était due à l'Appelant depuis cette date;
+i) Si l'Intimée avait correctement crédité à l'Appelant les sommes qui lui étaient dues à titre de capital et d'intérêts, et ce, depuis le 11 juillet 1997, les cotisations pour ce qui a trait aux intérêts réclamés à l'Appelant auraient été nulles.
+[5] Comme on peut le lire à l'avis d'appel, l'appelant prétend qu'il a lui-même pris en charge les obligations découlant de l'emprunt hypothécaire et qu'en lui avançant de l'argent, la Société ne faisait que le compenser pour la dette qu'elle avait à son égard. Nous verrons que ce n'est pas ce que la preuve a révélé. La preuve a révélé que la totalité du capital ainsi que les intérêts restants ont été remboursés par la Société après la vente des maisons que la Société avait construites sur les terrains. Au cours de l'emprunt, est-ce que l'appelant a payé certains intérêts découlant de la dette hypothécaire? La preuve n'est pas claire. Toutefois, la preuve a clairement révélé que si l'appelant en avait payé, que le tout lui a été remboursé par la Société.
+[6] L'appelant était l'un des actionnaires de la Société. Cette dernière agit dans le domaine de la construction résidentielle.
+[7] Le 11 juillet 1997, l'appelant obtient personnellement de la Caisse populaire Desjardins deux prêts au montant de 60 000 $ chacun, garantis par une hypothèque immobilière sur les terrains et maisons en construction sur ces derniers, portant les numéros civiques 9725 et 9735 des Chamerolles, Québec. L'emprunt total est de 120 000 $.
+[8] Une représentante de la Caisse est venue expliquer à la Cour que la Caisse n'aurait pas prêté à l'appelant si elle avait su que ce n'était pas ce dernier qui était devenu propriétaire des terrains contre lesquels elle a placé une hypothèque.
+[9] Quoi qu'il en soit, les terrains et les maisons sont acquis par la Société en date du 19 août 1997. C'est à ce moment aussi que les argents sont déboursés par la Caisse par l'intermédiaire d'un notaire. Le notaire paie le prix d'acquisition des terrains et remet une tranche de 48 059,27 $ à la Société. Par la suite, la balance de l'emprunt est également versée à la Société.
+[10] L'intimée accepte que certains intérêts sur l'emprunt puissent avoir été payés par l'appelant. En effet, au moment de la vente des maisons, il y a eu un paiement de 24 000 $ fait à l'appelant par la Société au motif de remboursement des intérêts. Cette somme a été acceptée par le Ministre comme un remboursement d'une dette due à l'appelant par la Société. Il y a une inscription aux livres montrant le paiement d'un montant de 24 000 $. Aucun document n'en explique la teneur exacte.
+[11] Selon les états financiers, c'est la Société qui a pris en charge le remboursement en capital et intérêt de ces emprunts. Elle a toujours considéré cet emprunt hypothécaire comme sa propre dette.
+[12] Les états financiers (pièce A-14) indiquent que les montants des « Avances à un administrateur sans intérêt » à la fin des années 1999 et 2000 sont de 134 395 $ et 108 416 $. Ces montants sont identiques à ceux mentionnés par la vérificatrice sur ses feuilles de travail (onglet 1 de la pièce I-1). Elle a calculé de façon détaillée les intérêts imposés en vertu de l'article 80.4 de la Loi en se fondant sur les écritures aux livres de la Société relativement aux avances faites à un administrateur.
+Arguments
+[13] Le calcul des intérêts n'est pas remis en cause par l'appelant. La prétention de l'appelant est qu'il a avancé à la Société une somme de 120 000 $ qui compense les sommes qui lui ont été avancées. L'avocat de l'appelant soutient que dans le calcul de l'avantage, l'intimée aurait dû tenir compte dès la fin de décembre 1997, d'un crédit en faveur de l'appelant d'un montant de 120 000 $.
+[14] Suivant le document du calcul des intérêts (pièce A-6), le montant des avances faites à l'appelant par la Société au 1er janvier 1999 était de 24 500,86 $. L'avocat propose que la situation réelle était autre, car selon lui à cette date, c'est plutôt la Société qui devait à l'appelant une somme de 107 865,10 $.
+[15] L'avocat de l'appelant se réfère à la notion de compensation prévue à l'article 1672 du Code civil du Québec (le « Code » ) qui prévoit que : « Lorsque deux personnes se trouvent réciproquement débitrices et créancières l'une de l'autre, les dettes auxquelles elles sont tenues s'éteignent par compensation jusqu'à concurrence de la moindre » .
+[16] L'article 1673 du Code stipule que : « La compensation s'opère de plein droit dès que coexistent des dettes qui sont l'une et l'autre certaines, liquides et exigibles et qui ont pour objet une somme d'argent ... Une partie peut demander la liquidation judiciaire d'une dette afin de l'opposer en compensation » .
+[17] La Société devait à l'appelant, dès la fin 1997, des sommes totalisant 120 000 $ plus les intérêts, sommes qui ont servi à la Société pour l'achat de terrains et la construction de résidences. La Société a avancé de l'argent à l'appelant. Les dettes auxquelles les deux parties étaient tenues se sont éteintes par compensation.
+[18] Finalement, suivant les dispositions de l'article 80.5 de Loi, l'avantage réputé reçu par le contribuable au cours d'une année d'imposition est réputé, pour l'application des dispositions du sous-alinéa 8(1)j)(i) et de l'alinéa 20(1)c), représenter des intérêts payés au cours d'une année conformément à une obligation légale de payer des intérêts sur de l'argent emprunté. Ainsi, l'intimée a tort d'imposer le contribuable comme avantage réputé sur de tels intérêts, puisque ceux-ci, suivant l'article 80.5 de Loi, pouvaient être déduits à titre de frais d'intérêts par le contribuable, puisque ces intérêts ont été encourus pour gagner un revenu de biens.
+[19] Pour sa part, l'avocate de l'intimée rappelle certains faits. Durant les années d'imposition en litige, l'appelant était actionnaire et administrateur de la Société. Les avances consenties à l'appelant ne portaient pas intérêt. Des intérêts totalisant 2 854,48 $ et 7 942,37 $ ont été imposés entre les mains de l'appelant pour les années d'imposition 1999 et 2000 respectivement.
+[20] Selon la note 5 des états financiers de la Société, le poste « Dû sur immeubles pour revente » comprend deux emprunts totalisant 120 000 $ garantis par des hypothèques de premier rang sur des immeubles situés aux 9725 et 9735, rue des Chamerolles à Québec. Les états financiers de la Société pour les années 1998 et 1999 n'ont pas fait l'objet de modification. La Société a vendu les résidences les 15 et 28 juin 2000 (pièce A-11). Le 15 novembre 2000, la Société a remboursé le solde des emprunts contractés par l'appelant auprès de la Caisse populaire. Le solde du prêt #1 s'établissait à 57 800,66 $ et le solde du prêt #2 s'établissait à 57 971,46 $, pour un total de 115 772,12 $ (pièce A-10, dernière page).
+[21] Il n'existait aucune entente entre la Société et l'appelant concernant les modalités de remboursement des deux prêts totalisant 120 000 $.
+[22] Au 31 décembre 2000, les états financiers de la Société indiquent un poste « Avances à des administrateurs sans intérêt » au montant de 108 416 $. Dans son analyse des montants avancés par la Société à l'appelant, la vérificatrice a tenu compte du remboursement effectué par la Société concernant les intérêts payés par l'appelant. En date du 31 décembre 2000, elle a indiqué un crédit de 24 216 $ concernant « Int. Assumés par Claude maisons vendues » (pièce I-1, onglet 1, page 5).
+[23] L'avocate de l'intimée fait valoir qu'en l'espèce, aucune entente entre la Société et l'appelant n'a été présentée en preuve pour indiquer les modalités de remboursement des dettes. On ne connaît pas les termes et conditions du remboursement. Par conséquent, comme les deux dettes n'étaient pas exigibles, on ne pouvait effectuer compensation des deux dettes entre juillet 1997 et novembre 2000. Au surplus, après la vente des maisons, en juin 2000, les états financiers au 31 décembre 2000 indiquent un poste « Avances à des administrateurs sans intérêt » au montant de 108 416 $. Toutefois, le poste « Dû sur immeubles » n'apparaît pas aux états financiers de la Société au 31 décembre 2000. Ceci reflète qu'il n'y a pas eu compensation des deux dettes.
+[24] En réponse à l'argument de l'appelant au sujet de l'application de l'article 80.5, l'intimée soutient que cette disposition n'est pas d'application automatique. L'appelant doit prouver que les montants avancés remplissent les conditions d'application du sous-alinéa 8(1)j)(i) ou de l'alinéa 20(1)c). Ce n'est pas le cas en l'espèce. En ce qui concerne le sous-alinéa 8(1)j)(i), l'appelant n'a pas démontré que les avances consenties par la Société ont servi pour l'acquisition d'un véhicule à moteur utilisé dans l'exercice de ses fonctions, de sa charge ou son emploi. Concernant l'alinéa 20(1)c), l'appelant n'a pas démontré que les avances ont été consenties dans le but de tirer un revenu d'une entreprise ou d'un bien. En fait, l'appelant n'a présenté aucune preuve concernant le ou les buts pour lesquels la Société lui a avancé de l'argent durant les années d'imposition en litige.
+Conclusion
+[25] La notion de compensation signifie l'extinction de deux dettes réciproques entre les mêmes personnes jusqu'à concurrence de la plus faible.
+[26] Selon cette notion, au fur et à mesure des avances faites par la Société à l'appelant, la dette de la Société aurait dû s'éteindre. Ce qui n'est évidemment pas le cas. En avançant l'argent à l'administrateur, la Société n'a pas réduit sa dette de 120 000 $. Elle l'a payée en totalité à la Caisse après la vente des deux maisons. Il n'y a pas eu extinction de la dette de la Société. Elle a été remboursée à la banque par la Société suivant les termes du contrat d'emprunt.
+[27] La Société ne s'est pas comportée comme étant débitrice de l'appelant. Elle s'est comportée comme ayant assumé la dette hypothécaire de l'appelant. L'appelant ne s'est pas comporté comme étant le créancier d'une dette due par la Société à son égard. Il n'y a eu aucune entente de prêts de part et d'autre.
+[28] On ne peut donc pas prétendre à la compensation. Il s'agit bien de deux comptes distincts.
+[29] La théorie de l'appelant est qu'il avait prêté de l'argent à la Société qui elle lui en prêtait en retour. La Société a-t-elle joui d'argent appartenant de fait à l'appelant? Il aurait fallu une entente entre l'appelant et la Société prévoyant les modalités de remboursement. Au contraire de cette prétention, ce qui s'est passé dans les faits, c'est qu'il y a eu prise en charge de la dette de l'appelant par la Société.
+[30] Il s'est toujours agi de deux comptes présentés de façon distincte dans les états financiers de la Société. L'un était la dette de la Société à l'égard de la Caisse, l'autre, d'une créance concernant les avances faites sans intérêt à un administrateur. Les paiements ont été faits en conformité de cette présentation de comptes. Il s'agissait bien de deux comptes distincts.
+[31] L'appelant ne peut donc pas invoquer l'effet de la compensation à l'égard des avances que la Société lui a faites durant les années en litige.
+[32] En ce qui a trait à l'application de l'article 80.5 de la Loi, je suis d'avis qu'il ne peut s'appliquer pour les raisons données par l'avocate de l'intimée telles qu'exprimées ci-dessus.
+[33] Les appels sont en conséquence rejetés.
+Signé à Ottawa, Canada, ce 26e jour de octobre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2005CCI675
+N º DU DOSSIER DE LA COUR : 2004-915(IT)I
+INTITULÉ DE LA CAUSE : Claude Bolduc et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 20 mai 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 26 octobre 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Pierre Hémond
+Avocate de l'intimée :
+Me Nathalie Labbé
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Pierre Hémond
+Étude :
+Brochet Dussault Lemieux Larochelle
+Sainte-Foy (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

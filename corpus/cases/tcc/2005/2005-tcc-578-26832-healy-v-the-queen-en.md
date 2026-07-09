@@ -1,0 +1,186 @@
+---
+title: "Healy v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26832/index.do"
+last_modified: "2005-09-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 578"
+citation2: ""
+neutral_citation: "2005 TCC 578"
+decision_date: "2005-09-09"
+language: "en"
+item_id: "26832"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 703
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:20:30.953000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "22564d115363622bb8910d0ea9d8593662d14229d21f33612fbbd1cbec2a3aad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Healy v. The Queen
+
+- Citation: 2005 TCC 578
+- Decision date: 2005-09-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 703, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Healy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-09
+Neutral citation
+2005 TCC 578
+File numbers
+2003-1450(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1450(IT)G
+BETWEEN:
+DOROTHY HEALY, EXECUTRIX FOR THE ESTATE OF OMER HEALY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Dorothy Healy (2003-1685(IT)I)on August 22, 2005 at Prince George, British Columbia.
+Before: The Honourable Justice B. Paris
+Appearances:
+Agent for the Appellant:
+Arthur J. Burrows
+Counsel for the Respondent:
+Tom Torrie
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998 and 1999 taxation years are dismissed.
+Signed at Ottawa, Canada, this 9th day of September, 2005.
+"B. Paris"
+Paris, J.
+Docket: 2003-1685(IT)I
+BETWEEN:
+DOROTHY HEALY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Dorothy Healy, Executrix for the estate of Omer Healy (2003-1450(IT)G) on August 22, 2005 at Prince George, British Columbia.
+Before: The Honourable Justice B. Paris
+Appearances:
+Agent for the Appellant:
+Arthur J. Burrows
+Counsel for the Respondent:
+Tom Torrie
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed.
+Signed at Ottawa, Canada, this 9th day of September, 2005.
+"B. Paris"
+Paris, J.
+Citation: 2005TCC578
+Date: 20050909
+Docket: 2003-1450(IT)G
+BETWEEN:
+DOROTHY HEALY, EXECUTRIX FOR THE ESTATE OF OMER HEALY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+2003-1685(IT)I
+DOROTHY HEALY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The reassessments under appeal disallowed the Appellants' claims for capital gains deductions equal to the capital gains they realized from the sale of timber from property they owned near Quesnel, British Columbia. Mr. Healy was reassessed to include the capital gains from the timber sales in his income for 1998 and 1999 and Mrs. Healy for 1999 and 2000. (Mr. Healy died in August 1999.)
+[2] The Appellants allege that the land from which the timber was taken was used by them principally in carrying on the business of farming and therefore that the timber was "qualified farm property" within the meaning of subsection 110.6(1) of the Income Tax Act (the "Act"). Capital gains realized from the disposition of qualified farm property can be offset by an equivalent capital gains deduction of up to $500,000 under subsection 110.6(2) of the Act.
+[3] Dorothy Healy is also appealing the disallowance of her claim for farming losses of $1,260.00 and $6,199.23 in 1999 and 2000 respectively.
+[4] The Minister of National Revenue (the "Minister") assumed in making the reassessments that neither of the Appellants ever carried on the business of farming on the property, and for that reason the property (including the timber on it) was not qualified farm property.
+[5] The appeals were heard on common evidence. Mrs. Healy and her accountant were the only witnesses.
+[6] The evidence showed that Mr. and Mrs. Healy acquired the property in 1974. It consisted of approximately 220 acres of land and a house, barn, some sheds and a trailer. It appeared to have about 12 acres that had been cleared for growing hay. Another 40 acres were timbered and the rest of the land was covered with overgrown bush.
+[7] Prior to purchasing the property, Mr. and Mrs. Healy and their infant daughter had been residing in Vancouver, but Mr. Healy wanted to raise his daughter on a farm in the country. As a boy, Mr. Healy had lived on his grandparents' farm and felt those were the best years of his life.
+[8] From 1974 to about 1995 the Appellants had some livestock and grew hay on the property. The number of animals remained generally constant at around six head of cattle, one horse, three pigs, fifty chickens, two ducks and a few turkeys. The horse was kept for the daughter to ride. Only one head of cattle was ever sold. Some cattle were butchered each year to provide the family with meat. Meat was also given away to neighbours in return for their help bringing in the hay, or given away as gifts. One pig was butchered each year for food for the family. Mrs. Healy sold some eggs to neighbours but did not keep track of the revenue. She used the money to buy feed. The hay that was grown on the property was used for their animals; none was sold.
+[9] Mrs. Healy took care of the farm animals and helped with the haying and fencing over the years. Mr. Healy was often away from home working in his trade as a plumber and pipe fitter. In approximately 1995, Mrs. Healy decided that it was too much for her to tend to the animals on her own, so they were sold off or slaughtered. She did not say how much money was received or what she and her husband did with it.
+[10] From 1995 on, a neighbour was allowed to remove and keep hay from the Healys' hayfields.
+[11] In about 1997, Mr. Healy decided that he wanted to retire and spend more time farming. He arranged to log the 40 acres of timber in order to provide money for retirement and farming. The logging began in 1998. Mr. Healy received $155, 557 in 1998 and $47, 519 in 1999. After taking into account the adjusted cost base of the timber, he realized capital gains of $100,181 and $28,546 for those years respectively. The logging continued in 1999 and 2000 after Mr. Healy's death. Mrs. Healy received proceeds from logging of $85,279 in 1999 and $19,063 in 2000, and had capital gains in those years of $50,405 and $13,200.
+[12] Mr. Healy took care of all financial matters for the family. Mrs. Healy had no knowledge of any of the financial details relating to the farming activity and was unable to say whether Mr. Healy had ever reported the farming activities as a business for tax purposes. She said that Mr. Healy would have kept track of expenses but did not have any documents containing financial information about the farming activity.
+[13] According to the Reply to the Notice of Appeal for the Estate, Mr. Healy claimed restricted farm losses of $978 in 1981 and $5,679 in 1982 and never reported any income from farming. Likewise, Mrs. Healy never reported any income from farming in her tax returns.
+[14] After Mr. Healy died, Mrs. Healy hired an accountant to assist her with her tax matters. She had no recollection of filing her returns for 1999 and 2000 but the documents that were admitted in evidence on the consent of counsel showed that she did not initially claim farm losses for those years. After she had been reassessed to deny the capital gains deduction for the timber sales her accountant prepared and filed a statement of farming revenues and expenses on her behalf. Those statements showed no revenues from farming and listed what were admitted to be estimates of expenses that the accountant and Mrs. Healy felt could be related to her farming activities.
+[15] It appears to me that the Appellant's accountant filed the forms in an attempt to bolster her claim that the property was being used in the business of farming. Mrs. Healy was unclear about what farming activity was being carried on during those years. At one point she said that there was no livestock left after 1995, then later said that she had kept some chickens. At another point she said that she was unable to remember what happened after her husband died. In any event, she could not say how the expenses shown on the statements that were given to the Canada Revenue Agency related to her farming activity.
+Analysis
+[16] The definition of "qualified farm property is found in subsection 110.6(1) of the Act. The relevant part of that definition for the purposes of these appeals read as follows:
+110.6(1) For the purposes of this section,
+...
+"qualified farm property" of an individual (...) at any particular time means a property owned at that time by the individual, ...that is
+(a) real property that was used by
+(i) the individual,
+...
+(iii) a spouse... of the person referred to in subparagraph (i) or (ii),
+...
+in the course of carrying on the business of farming in Canada and, for the purpose of this paragraph, property will not be considered to have been used in the course of carrying on the business of farming in Canada unless
+...
+(vii) where the property is a property last acquired by the individual or partnership before June 18, 1987, ... the property ... was used by the individual ... or a spouse ... of the individual ... principally in the course of carrying on the business of farming in Canada
+(A) in the year the property was disposed of by the individual, or
+(B) in at least 5 years during which the property was owned by the individual, ... or a spouse, ... of the individual ...
+[17] The property that was disposed of in this case was timber that immediately prior to cutting formed part of the real property on which Mr. and Mrs. Healy carried on their farming activities. It must therefore be determined whether that real property was used by either Mr. or Mrs. Healy "principally in the course of carrying on the business of farming" either in the year that the timber was cut and sold or in any five years from the time it was purchased in 1974.
+[18] In Stewart v. Canada[1] the Supreme Court of Canada set out the test for whether an activity engaged in by a taxpayer constitutes a business. The Court confirmed that a business is an activity that is undertaken in pursuit of profit, and held that, where an activity contains a personal element, a taxpayer must demonstrate that his or her predominant intention is to earn a profit from the activity. The Court said at paragraph 5 of that decision:
+... in order to determine whether a particular activity constitutes a source of income, the taxpayer must show that he or she intends to carry on that activity in pursuit of profit and support that intention with evidence. The purpose of this test is to distinguish between commercial and personal activities, and where there is no personal or hobby element to a venture undertaken with a view to a profit, the activity is commercial, and the taxpayer's pursuit of profit is established. However, where there is a suspicion that the taxpayer's activity is a hobby or personal endeavour rather than a business, the taxpayer's so-called reasonable expectation of profit is a factor, among others, which can be examined to ascertain whether the taxpayer has a commercial intent.
+[19] Counsel for the Respondent submitted, and I agree, that there was a personal element to the Appellants' farming activities. The farm property was their principal residence, and Mrs. Healy stated that they bought the property because Mr. Healy wanted to live on a farm and raise their daughter in the country. Finally, much of the meat that was raised was consumed by the family.
+[20] Given these personal factors, it is necessary for the Appellants to show that they carried on the activity in a businesslike manner in order for it to qualify as a business source of income. The Supreme Court of Canada in Stewart referred to the following objective factors listed in an earlier decision, Moldowan, as among those that would be appropriate to take into consideration:
+[55] The objective factors listed by Dickson, J. in Moldowan at p. 486 were: (1) the profit and loss experience in past years; (2) the taxpayer's training; (3) the taxpayer's intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.'s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. We would also emphasize that although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. However, this assessment should not be used to second-guess the business judgment of the taxpayer. It is the commercial nature of the taxpayer's activity which must be evaluated, not his or her business acumen.
+[21] Unfortunately, in this case the evidence that was presented is insufficient to satisfy me that Mr. and Mrs. Healy carried on the farming activity in a commercial or businesslike way. In the absence of any documents or evidence regarding the financial results of the farming activity I am unable to determine even whether the Appellants considered themselves to be in business, except for the years 1981 and 1982 when Mr. Healy claimed farm losses on his returns. Nor is there any material before me on which I could conclude that they carried on that activity in a business like manner. The lack of records also makes it impossible to assess the capability of the venture to show a profit at any point in time.
+[22] There was no indication why Mr. Healy only claimed farm losses for 1981 and 1982. Counsel for the Appellant asked that I infer that Mr. Healy would have been entitled to claim farm losses in all other years at least from 1974 to 1995 because the evidence showed that the level of farming activities remained more or less constant over these years. I decline to draw such an inference given the paucity of evidence regarding the operations that were undertaken over those years and given that there was no information presented regarding the financial results of those operations.
+[23] There was also nothing in the evidence that would justify Mrs. Healy's claim for losses from farming in 1999 and 2000. She was unable to identify the purpose of the expenditures that were claimed as farm expenses, or to give details of the operations that had been undertaken and did not profess to intend to make a profit from farming in those years.
+[24] For all of these reasons I find that the Appellants have not shown that the timber that they sold in 1998, 1999 and 2000 was qualified farm property, and they are therefore not entitled to the capital gains deductions that were claimed. In addition, Mrs. Healy is not entitled to any losses from farming in 1999 and 2000.
+[25] The appeals are dismissed.
+Signed at Ottawa, Canada, this 9th day of September 2005.
+"B. Paris"
+Paris, J.
+CITATION: 2005TCC578
+COURT FILE NO.: 2003-1450(IT)G and 2003-1685(IT)I
+STYLE OF CAUSE: DOROTHY HEALY, EXECUTRIX OF ESTATE OF OMER HEALY AND HER MAJESTY THE QUEEN and DOROTHY HEALY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Prince George, British Columbia
+DATE OF HEARING: August 22, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: September 9, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Arthur J. Burrows
+Counsel for the Respondent:
+Tom Torrie
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Arthur J. Burrows
+Firm: Arthur J. Burrows & Co.
+Quesnel, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] [2002] 2 S.C.R. 645.

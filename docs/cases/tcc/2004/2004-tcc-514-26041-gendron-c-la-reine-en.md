@@ -1,0 +1,633 @@
+---
+title: "Gendron c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26041/index.do"
+last_modified: "2004-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 514"
+citation2: ""
+neutral_citation: "2004 TCC 514"
+decision_date: "2004-12-02"
+language: "en"
+item_id: "26041"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4101
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:46:34.443000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1b9bc20e428c2afa846fc351ab212dfadf19b37c8d12381813d92fdf6dfbaea1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gendron c. La Reine
+
+- Citation: 2004 TCC 514
+- Decision date: 2004-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4101, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gendron c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-02
+Neutral citation
+2004 TCC 514
+File numbers
+2000-3741(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2000-3741(IT)G
+2000-3742(IT)G
+BETWEEN:
+OLIVIER GENDRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeals heard on common evidence on May 10, 2004, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Martin Pichette
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeals of the assessments made under the Income Tax Act for the 1995 and 1996 taxation years are allowed and the assessments are referred to the Minister of National Revenue for reconsideration and reassessment, given that the following expenses could have been deducted from the computation of the Appellant's income from his professional practice for the years in question based on the attached Reasons for Judgment:
+Taxation Year
+Description
+Amount deductible
+1995
+Domo Signal
+$1,117.13
+1995
+Dello Sbarba
+$284.89
+1995
+Serge Massicotte
+$33.39
+1995
+Eco Décor-Paysagement
+$4,510.92
+1995
+Gilles Mayer Briqueteur
+$9,000.94
+1995
+Jean Desroches
+$1,124.62
+1995
+Yves Desrosiers
+$21.96
+1995
+Gérard Brunelle
+$392.76
+1995
+André Sarrazin
+$393.68
+1995
+Pression Net
+$70.30
+1995
+Jimmy Page
+$38.66
+1995
+Charles Lacoursière
+$922.05
+1995
+Visa
+$114.23
+1995
+Gaétan Bonin
+$46.22
+1995
+Location Caron
+$379.22
+1995
+Patrick Morin
+$902.40
+1995
+Ville de Berthier
+$64.08
+1996
+Eco Décor-Paysagement
+$5,464.72
+1996
+Jean Desroches
+$546.75
+1996
+André Sarrazin
+$312.83
+1996
+R. Damphousse
+$404.22
+1996
+Yves Desrosiers
+$75.00
+with a corresponding adjustment to the interest, without costs.
+Signed at Ottawa, Ontario, this 2nd day of December 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 9th day of February 2005.
+Julie Oliveira, Translator
+Citation: 2004TCC514
+Date: 20041202
+Dockets: 2000-3741(IT)G
+2000-3742(IT)G
+BETWEEN:
+OLIVIER GENDRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] During the 1995 and 1996 taxation years, Olivier Gendron worked as a physician exclusively at his primary residence in Berthierville. By way of his Notifications of Confirmation of June 2, 2000, the Minister of National Revenue (the "Minister") disallowed the following:
+(i) interest and banking fees expenses of $5,994 and $3,917, respectively, for the 1995 and 1996 taxation years, on the ground that the interest and banking fees were personal expenses and had not been incurred for the purpose of earning income from a business or property;
+(ii) $2,377 and $3,294 in expenses related to conferences and workshops for the 1995 and 1996 taxation years, respectively, on the ground that these expenses had not been incurred for the purpose of earning income from a business or property and that they were unreasonable;
+(iii) $37,236 and $14,585 in home office expenses for the 1995 and 1996 taxation years, respectively. The issue mainly concerned the percentage of the area of the Appellant's residence used for business purposes and the expenses related to the maintenance of the exterior finish of the Appellant's residence, as well as landscape maintenance;
+Mr. Gendron is appealing the Minister's decision.
+[2] To make and confirm the reassessment in question for the 1995 taxation year, the Minister relied in particular on the following facts set out at paragraph 19 of the Reply to the Notice of Appeal:
+[Translation]
+(a) the Appellant works as a physician;
+(b) the $45,607 in expenses claimed by the Appellant for the 1995 taxation year and disallowed by the Minister for the reasons given below are broken down as follows:
+Expenses disallowed for 1995
+Home office expenses
+$37,236
+Conferences and workshops
+$2,377
+Interest and banking fees
+$5,994
+Total of expenses disallowed
+$45,607
+(c) during the year at issue, the Appellant held consultations in his office, which was at the same street address as his residence, that is, 810 Montcalm Street in Berthierville, Quebec;
+(d) during the year at issue, the Appellant allegedly rented living quarters to a casual employee at the same street address as the one above;
+(e) the Appellant's residence is laid out as follows: basement and garage, first floor and second floor, with a total of approximately 3,200 square feet;
+(f) for the 1995 taxation year, the Appellant declared $79,452 mostly for maintenance work and repairs to his residence. He deducted about 50% of this amount as business expenses, claiming that he had a right to a total deduction of $39,216 from his total income;
+(g) the area used for the Appellant's professional practice was about 300 square feet, that is, 13.6% of the area excluding the basement and garage, or 9.4% of the total area, if the basement and garage are included;
+(h) the space that the Appellant claimed to be renting to a casual employee was in fact the housekeeper's living quarters with an approximate size of 25 square feet by 30 square feet, for a total of 750 square feet;
+(i) the Appellant claimed that he was paid $1,200 in rent in 1995, representing $100/month;
+(j) no proof of payment for the rent was provided in the investigation;
+(k) given the above information, the Minister considered that all the expenses relating to maintaining and repairing this area for the housekeeper did not constitute expenses incurred for the purpose of earning income;
+(l) in addition to the expenses disallowed at paragraph (j) of this document, the Minister disallowed approximately $15,000 in expenses for the landscaping of the residence, given that these expenses were not incurred for the purpose of earning income;
+(m) many expenses consisted of fees for the renovation of the kitchen, which the Minister considered to all be personal expenses;
+(n) of the $79,452 in related expenses, which were mostly for repairs and maintenance work at the residence, the Minister deducted the amount of $66,253 finding that these expenses were strictly personal and not incurred for the purpose of earning income;
+(o) consequently, a balance of $13,199 was considered and the Minister considered that 15% of the expenses were reasonable, given that the area reserved for the Appellant's practice was between 9.4% and 13.6%, depending on whether the basement and garage were taken into account when computing the area of the residence;
+(p) the Minister therefore found the amount of $1,980 to be an expense incurred for the purpose of earning income and allowed this amount as a deduction;
+(q) because the Appellant declared a total deduction of $39,216 in office expenses, the Minister disallowed $37,236 in expenses. The Minister's position is explained in the following table:
+1995 Taxation Year
+Total expenses computed
+$79,452
+- personal expenses
+$66,253
+balance
+$13,199
+X 15% of expenses
+$1,980
+Expenses deducted by Appellant
+$39,216
+- revised expenses
+$1,980
+Amount of expenses disallowed
+$37,236
+(r) the Appellant claimed the amount of $8,198 as deductions for expenses incurred for attending conferences or workshops pertaining to his profession;
+(s) after analyzing these expenses, the Minister allowed $5,821, that is, 71% of the expenses claimed, finding that a portion, that is, 29%, constituted personal expenses;
+(t) in this analysis, the Minister disallowed the expenses exceeding the number of days he attended courses, but allowed a day of travel expenses for the workshops in Montréal and for two days of training in Quebec City and Hull;
+(u) in this regard, the proportion of expenses allowed by the Minister is reasonable;
+(v) consequently, the Minister disallowed the amount of $2,377 as deductions because they constituted personal expenses that had not been incurred for the purpose of earning income;
+(w) the Appellant claimed a deduction of $5,994 in interest and banking fees related to the use of a credit line;
+(x) the Appellant used only one bank account and the analysis of the information from this account showed that the credit line was for personal use;
+(y) in this regard, the Minister disallowed the deduction of $5,994 in interest fees, given that this amount had not been incurred for the purpose of earning income; and
+(z) the Respondent argued that this appeal is unfounded in fact and in law.
+[3] To make and confirm the reassessment at issue for the 1996 taxation year, the Minister relied in particular on the following facts set out at paragraph 19 of the Reply to the Notice of Appeal:
+(a) the Appellant works as a physician;
+(b) the $21,796 in expenses claimed by the Appellant for the 1996 taxation year and disallowed by the Minister for the reasons given below are broken down as follows:
+Expenses disallowed for the 1996 taxation year
+Home office expenses
+$14,585
+Conferences and workshops
+$3,294
+Interest and banking fees
+$3,917
+Total of expenses disallowed
+$21,796
+(c) during the year at issue, the Appellant held consultations in his office, which was at the same street address as his residence, that is, 810 Montcalm Street in Berthierville, Quebec;
+(d) during the year at issue, the Appellant allegedly rented living quarters to a casual employee at the same street address as the one above;
+(e) the Appellant's residence is laid out as follows: basement and garage, first floor and second floor, with a total of approximately 3,200 square feet;
+f) for the 1996 taxation year, the Appellant declared $34,345 mostly for maintenance work and repairs to his residence. He deducted about 50% of this amount as business expenses, claiming that he had a right to a total deduction of $16,663 from his total income;
+(g) the area used for the Appellant's professional practice was about 300 square feet, that is, 13.6% of the area excluding the basement and garage, or 9.4% of the total area, if the basement and garage are included;
+(h) the space that the Appellant claimed to be renting to a casual employee was in fact the housekeeper's living quarters with an approximate size of 25 square feet by 30 square feet, for a total of 750 square feet;
+(i) the Appellant claimed that he was paid $1,020 in rent in 1996, representing $85/month;
+(j) no proof of payment for the rent was provided in the investigation;
+(k) given the above information, the Minister considered that all the expenses relating to maintaining and repairing this area for the housekeeper did not constitute expenses incurred for the purpose of earning income;
+(l) in addition to the expenses disallowed at paragraph (j) of this document, the Minister disallowed approximately $15,000 in expenses for the landscaping of the residence, given that these expenses were not incurred for the purpose of earning income;
+(m) many expenses consisted of fees for work done at the residence without being related to the space reserved for the Appellant's practice, which the Minister considered to all be personal expenses;
+(n) of the $34,345 in related expenses, which were mostly for repairs and maintenance work at the residence, the Minister deducted the amount of $20,489, finding that these expenses were strictly personal and not incurred for the purpose of earning income;
+(o) consequently, a balance of $13,856 was considered and the Minister considered that 15% of the expenses were reasonable, given that the area reserved for the Appellant's practice was between 9.4% and 13.6%, depending on whether the basement and garage were taken into account when computing the area of the residence;
+p) the Minister therefore found the amount of $2,078 to be an expense incurred for the purpose of earning income and allowed this amount as a deduction;
+(q) because the Appellant declared a total deduction of $16,663 in office expenses, the Minister disallowed $14,585 in expenses. The Minister's position is explained in the following table:
+1996 Taxation Year
+Total expenses computed
+$34,345
+- personal expenses
+$20,489
+balance
+$13,856
+x 15% of expenses
+$2,078
+Expenses deducted by the Appellant
+$16,663
+- revised expenses
+$2,078
+Amount of expenses disallowed
+$14,585
+(r) the Appellant claimed the amount of $11,357 as deductions for expenses incurred for attending conferences or workshops pertaining to his profession;
+(s) after analyzing these expenses, the Minister allowed $8,063, that is, 71% of the expenses claimed, finding that a portion, that is, 29%, constituted personal expenses;
+(t) in this analysis, the Minister disallowed the expenses exceeding the number of days he attended courses, but allowed a day of travel expenses for the workshops in Montréal and for two days of training in Quebec City and Hull;
+u) in this regard, the proportion of expenses allowed by the Minister is reasonable;
+(v) consequently, the Minister disallowed the amount of $3,294 as deductions because they constituted personal expenses that had not been incurred for the purpose of earning income;
+(w) the Appellant claimed a deduction of $3,917 in interest and banking fees related to the use of a credit line;
+(x) the Appellant used only one bank account and the analysis of the information from this account showed that the credit line was for personal use;
+y) in this regard, the Minister disallowed the deduction of $3,917 in interest fees, given that this amount had not been incurred for the purpose of earning income; and;
+(z) the Respondent argued that this appeal is unfounded in fact and in law.
+Analysis
+Interest and banking fees
+[4] The Appellant requested a deduction of $5,994 and $3,294 as interest and banking fees for the 1995 and 1996 taxation years, respectively, relating to the use of a credit line. The Respondent argued that the Appellant had only one bank account and that the analysis of the records showed that the credit line was for personal use. The Respondent therefore disallowed the deduction of these fees for the Appellant in the computation of his income for the taxation years in question by claiming that they constituted personal expenses and had not been incurred for the purpose of earning income or property pursuant to paragraph 20(1)(c) of the Income Tax Act (the "Act").
+[5] The Appellant had the burden of proving, based on the balance of probabilities, that the Minister wrong about this point. The Appellant simply did not discharge his obligation in that he failed to provide any evidence regarding the percentage of these expenses that were incurred for business purposes.
+[6] On these grounds, I find that in the computation of his income, the Appellant could not deduct the amounts of $5,994 and $3,294 as interest and banking fees for the 1995 and 1996 taxation years, respectively.
+Training expenses
+[7] This issue involved the deductibility of hotel and meal expenses incurred by the Appellant on days when he had no training at conferences or workshops in Montréal, and in which he participated during the 1995 and 1996 taxation years in the computation of the Appellant's income from his professional practice. The issue focused more specifically on expenses incurred by the Appellant on the day prior to (the arrival date) and following (the departure date) the days that the conferences and workshops were held. The Minister allowed the deduction of the expenses incurred by the Appellant on the arrival dates, but did not, however, accept such a deduction for the departure dates, alleging that these expenses were unreasonable, given the short distance between Montréal and Berthierville, where the Appellant resided. In fact, the Appellant testified that the time required to travel this distance was between one hour and one hour and thirty minutes.
+[8] Counsel for the Appellant claimed that these expenses were reasonable, given the Appellant's advanced age and the distance he had to travel to get home. Moreover, he argued that the Minister did not respect his own administrative policy[1] to the effect that he allowed in the computation of income the deduction of these expenses incurred not only on the arrival dates but also on the departure dates.
+[9] In my view, these expenses were unreasonable and they were personal expenses. In fact, the time required to travel the short distance between Berthierville and Montréal, and the fact that the Appellant appeared to be in sound health, in spite of his advanced age, did not at all justify the deduction of hotel and meal expenses incurred by the Appellant on the departure dates. As to the administrative policy, to which I am not bound in any event, it only repeats, above all else, the principle that the reasonableness of these expenses must be assessed in light of many factors, such as the length of the conferences and workshops and where they took place.
+[10] As to the various expenses incurred by the Appellant pertaining to these conferences and workshops and deducted by him in the computation of his income for the 1995 and 1996 taxation years, I find that they were not expenses incurred for the purpose of earning business income or property, and that, rather, they were personal expenses. In fact, the Appellant did not provide receipts or explanations regarding the nature of these expenses.
+[11] For these reasons, I find that in the calculation of the Appellant's income from professional practice, the Minister was justified in disallowing the deduction of part of his training expenses (meal and hotel expenses for the departure dates for the conferences and workshops in Montréal and miscellaneous expenses) that he incurred, namely, the amount of $2,377 for the 1995 taxation year and the amount of $3,294 for the 1996 taxation year.
+Office expenses
+Preliminary remarks
+[12] The office expenses for which the Appellant claimed a deduction for the 1995 and 1996 taxation years and which were disallowed by the Minister totalled (based on the Reply to the Notice of Appeal) $37,236 and $14,585, respectively. The disallowed office expenses are broken down in Exhibit I-2.
+[13] At the hearing, counsel for the Appellant admitted that certain office expenses deducted by the Appellant were personal expenses. Therefore, the following expenses are no longer deducted by the Appellant in the computation of his income for the 1995 and 1996 taxation years:
+Taxation Year
+Description
+Amount
+1995
+Atelier Forest
+$102.56
+1995
+Yves Desrosiers
+$400.00
+1995
+Louis Tellier Designer
+$937.17
+1995
+Lafrenière Meubles
+$300.00
+1995
+Cuisine Connaisseur
+$7,630.00
+1995
+Dello Sbarba
+$425.00
+1995
+Lafrenière & Fils
+$200.00
+$9,994.73
+1996
+Yves Desrosiers
+$100.00
+1996
+Louise Tellier
+$227.91
+1996
+Louise Tellier
+$666.64
+1996
+H. Brissette
+$80.00
+1996
+Pépinière Malo
+$88.38
+1996
+Gaetan Bonin
+$108.25
+$1,271.18
+[14] At the hearing, the Respondent's counsel agreed that the following expenses were incurred by the Appellant for the purpose of earning income from his professional practice for the 1995 and 1996 taxation years:
+Taxation Year
+Description
+Amount
+1995
+Domo Signal
+$1,117.13
+(35.158% x $3,178.20)
+1995
+Dello Sbarba
+$284.89
+1995
+Serge Massicotte
+$33.39
+(35.15% x $95.00)
+1996
+Yves Desrosiers
+$75.00
+[15] It should be pointed out that the following expenses found in Exhibit I-2 are not at issue because they were settled at the time of the audit:
+Taxation Year
+Description
+Amount
+1995
+Richard Damphousse
+$879.55
+1995
+Gérard Brunelle
+$32.31
+1995
+Excavation Moreau
+$318.61
+1995
+Not analyzed
+$2,574.58
+1996
+Gérard Brunelle
+$84.47
+1996
+Domo Signal
+$205.12
+1996
+Gignac
+$569.77
+1996
+Dello Sbarba
+$723.61
+1996
+Divers
+$251.50
+1996
+Not analyzed
+$1,750.06
+1996
+Guillaume Dubois
+$726.90
+[16] After the hearing, the Respondent acknowledged that under the circumstances, the following expenses were not subject to the application of subsection 18(12) of the Act, and that they were deductible in proportion to the Appellant's use of his residence for business purposes:
+Taxation Year
+Description
+Amount
+1995
+Eco Décor - Paysagement
+$12,833.36
+1995
+Gilles Mayer - Briqueteur
+$25,630.00
+1995
+Jean Desroches
+$3,199.51
+1995
+Yves Desrosiers
+$62.50
+1995
+Gérard Brunelle
+$1,117.37
+1995
+André Sarrazin
+$1,120.00
+1995
+Serge Massicotte
+$95.00
+1995
+Pression net
+$200.00
+1995
+Jimmy Page
+$110.00
+1995
+Charles Lacoursière
+$2,623.20
+1995
+Visa
+$325.00
+1995
+Gaétan Bonin
+$131.50
+1995
+Location Caron
+$1,078.87
+1995
+Patrick Morin
+$2,567.29
+1995
+Ville de Berthier
+$182.33
+1996
+Eco Décor - Paysagement
+$15,546.87
+1996
+Jean Desroches
+$1,555.50
+1996
+André Sarrazin
+$890.00
+1996
+R. Damphousse
+$1,150.00
+[17] After the hearing, the Appellant acknowledged that the following expenses were personal:
+Taxation Year
+Description
+Amount
+1995
+Charles Lacoursière[2]
+$123.20
+1995
+Charles Lacoursière[3]
+$569.14
+1995
+Charles Lacoursière[4]
+$49.95
+1995
+Visa[5]
+$370.74
+[18] Therefore, I will only review the following office expenses:
+Taxation Year
+Description
+Amount
+1995
+Various materials[6]
+$595.69
+[19] Consequently, the issue regarding the office expenses only involved the percentage of the area of the Appellant's residence used for business purposes and the expenses mentioned in the previous paragraph.
+Percentage of the area of the residence used for business purposes
+[20] First, it should be made clear that counsel for the Respondent acknowledged in his written representations dated August 10, 2004, that for the periods in question, the Appellant used 30% (769 ft.2/2506 ft.2) of the area of his residence for business purposes. The Appellant argued that this percentage was rather 50%. This difference can be explained based on the Respondent's position that the dinette (120 ft.2), kitchen (104 ft.2) and dining room (289 ft.2) were not used by the Appellant for business purposes during the periods in question.
+[21] The Appellant's testimony showed:
+(i) that he used the dining room to verify, complete and consult his medical files, that several files were always there and that this room was rarely for personal use;
+(ii) that the kitchen (104 ft.2) and dinette (120 ft.2) were used as an office by the Appellant's secretary, who in this case was his spouse. Patients checked in and made appointments there. The secretary greeted representatives from pharmaceutical companies and performed the required administrative tasks in these rooms.
+[22] In my view, the expenses related to the use of the dining room were personal and thus non-deductible in the computation of the Appellant's income from the practice of his profession. In fact, I believe that the Appellant would have been able to use his consultation office (192 ft.2) that was on the main floor or even his office (106 ft.2) upstairs to consult and verify his medical files. The Respondent acknowledged that these rooms were being used by the Appellant for his medical practice. It is not a matter of putting files in all of the rooms of the residence so that they will be considered rooms being used for business purposes.
+[23] However, the Appellant did convince me that the dinette and kitchen were used for business purposes. It appears unlikely that these rooms were used exclusively for business. In my opinion, it would be more reasonable, under the circumstances, to say that the rooms had been partly used for business purposes, that is 50%.
+[24] I find that 35.15% (881 ft.2/2,506 ft.2) of the area of the Appellant's residence was used for business purposes.
+Various materials (1995): $595.69
+[25] The Appellant's testimony in this regard, when questioned by his counsel, should be cited:[7]
+[Translation]
+Q. Now under the heading, "various materials," you claimed $595.69 and that is in my colleague's memorandum, at pages 8240-156 to 167, I believe. What did you list under "various materials?"
+R. All the small receipts, for the electricity, light bulbs. There was perhaps fertilizer for the lawn, sand for the winter, to put on the ice.
+Q. O.K. and so, all those expenses total $595.69?
+R. Yes.
+Q. So, the $595.69 is basically the total of all the small receipts that accumulated over 1995, right?
+[26] It should be pointed out that the Appellant submitted 27 small receipts (Exhibit I-1, tab 1, pages 8240-156 to 167). Most of the receipts did not indicate exactly what was purchased. I noted that most of the purchases were made at Le Rénovateur Charles Lacoursière. The receipts issued by this supplier clearly indicated which department the goods were purchased from, but did not at all indicate what they were exactly.
+[27] The Appellant, I must point out again, had the burden of establishing, based on the balance of probabilities, that the Minister was wrong about this point. In my opinion, the Appellant did not discharge the burden by providing a vague and inaccurate testimony and by providing receipts without any further explanations. My role certainly is not to guess exactly what goods were purchased by the Appellant based on the receipts (coded).
+[28] On these grounds, I find that in the computation of his income from the practice of his profession, the Appellant could deduct the following expenses:
+Taxation Year
+Description
+Amount of expense
+Amount deductible[8]
+1995
+Domo Signal
+$3,178.20
+$1,117.13
+1995
+Dello Sbarba
+$284.89
+$284.89
+1995
+Serge Massicotte
+$95.00
+$33.39
+1995
+Eco Décor-Paysagement
+$12,833.36
+$4,510.92
+1995
+Gilles Mayer Briqueteur
+$25,630.00
+$9,000.94
+1995
+Jean Desroches
+$3,199.51
+$1,124.62
+1995
+Yves Desrosiers
+$62.50
+$21.96
+1995
+Gérard Brunelle
+$1,117.37
+$392.76
+1995
+André Sarrazin
+$1,120.00
+$393.68
+1995
+Pression Net
+$200.00
+$70.30
+1995
+Jimmy Page
+$110.00
+$38.66
+1995
+Charles Lacoursière
+$2,623.20
+$922.05
+1995
+Visa
+$325.00
+$114.23
+1995
+Gaétan Bonin
+$131.50
+$46.22
+1995
+Location Caron
+$1,078.87
+$379.22
+1995
+Patrick Morin
+$2,567.29
+$902.40
+1995
+Ville de Berthier
+$182.33
+$64.08
+1996
+Eco Décor-Paysagement
+$15,546.87
+$5,464.72
+1996
+Jean Desroches
+$1,555.50
+$546.75
+1996
+André Sarrazin
+$890.00
+$312.83
+1996
+R. Damphousse
+$1,150.00
+$404.22
+1996
+Yves Desrosiers
+$75.00
+$75.00
+Signed at Ottawa, Ontario, this 2nd day of December 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 9th day of February 2005.
+Julie Oliveira, Translator
+CITATION:
+2004TCC514
+COURT FILE NO.:
+2000-3741(IT)G, 2000-3742(IT)G
+STYLE OF CAUSE:
+Olivier M. Gendron v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+May 10, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+December 2, 2004
+APPEARANCES:
+For the Appellant:
+Martin Pichette
+For the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Martin Pichette
+Firm:
+de Grandpré Chait
+Montréal, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Interpretation Bulletin IT-375R2, paragraph 5.
+[2] See Exhibit I-1, page 8240-74.
+[3] See Exhibit I-1, page 8240-92.
+[4] See Exhibit I-1, page 8240-93.
+[5] See Exhibit I-1, tab 1, pages 8240-94 to 97.
+[6] Exhibit I-1, tab 1, pages 8240-156 to167.
+[7]
+Transcript p. 55 [248-249]; p. 55 [250].
+[8] Result obtained by applying the percentage of the area of the Appellant's total residence used for business purposes, that is, 35.15%.

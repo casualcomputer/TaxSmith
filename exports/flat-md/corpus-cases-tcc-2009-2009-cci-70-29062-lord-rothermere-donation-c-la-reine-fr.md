@@ -1,0 +1,307 @@
+---
+title: "Lord Rothermere Donation c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29062/index.do"
+last_modified: "2009-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 70"
+citation2: ""
+neutral_citation: "2009 CCI 70"
+decision_date: "2009-02-03"
+language: "fr"
+item_id: "29062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6809
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:12:48.461000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f4f7d0febd135befba179ac1540e189b0f3e97d693dbe7cf82a7c876d4a5d1a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lord Rothermere Donation c. La Reine
+
+- Citation: 2009 CCI 70
+- Decision date: 2009-02-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6809, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lord Rothermere Donation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-03
+Référence neutre
+2009 CCI 70
+Numéro de dossier
+2007-1938(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1938(IT)G
+ENTRE :
+LORD ROTHERMERE DONATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 22 octobre 2008, à Montréal (Québec)
+Devant : L’honorable juge Pierre Archambault
+Comparutions :
+Avocat de l’appelante :
+Me Nicolas Cloutier
+Avocate de l’intimée :
+Me Susan Shaughnessy
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations, dont les avis sont datés du 5 février 2007, établies en application de la Loi de l’impôt sur le revenu (la « Loi ») et concernant la retenue d’impôt en fonction de la partie XIII de la Loi sont rejetés, avec dépens.
+Signé à Ottawa, Canada, ce 3e jour de février 2009.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 15e jour de juin 2009.
+François Brunet, réviseur
+Référence : 2009 CCI 70
+Date : 20090203
+Dossier : 2007-1938(IT)G
+ENTRE :
+LORD ROTHERMERE DONATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] La société Lord Rothermere Donation (la société « LRD ») interjette appel de deux cotisations datées du 5 février 2007 établies par le ministre du Revenu national (le « ministre ») en application de la partie XIII de la Loi de l’impôt sur le revenu (la « Loi »). Les cotisations concernaient le remboursement à un non‑résident de l’impôt de la partie XIII qui avait été remis au ministre le 13 juillet 2001 et le 19 septembre 2001. En l’espèce, la Cour est seulement appelée à dire si le ministre a calculé les intérêts sur le remboursement d’impôt conformément aux paragraphes 227(7) et 164(3) de la Loi. Plus précisément, il s’agit d’établir la date à partir de laquelle on doit calculer les intérêts sur le remboursement de l’impôt de la partie XIII.
+[2] L’appel s'est déroulé sur la base d'un exposé conjoint des faits partiel. J’en cite ci‑dessous les paragraphes 1 à 12 qui, selon moi, sont pertinents en l’espèce :
+[traduction]
+1. En 1930, le premier vicomte Rothermere a constitué l’appelante en société en vertu des lois de la province de Québec, pour sa descendance.
+2. En juin 2001, vu l’abrogation imminente du régime des sociétés de placement possédées par des non‑résidents, l’appelante a engagé la procédure de liquidation de deux (2) telles sociétés dont elle était l’unique actionnaire et en a reçu les biens répartis.
+3. L’appelante avait demandé une décision anticipée concernant sa situation fiscale le afin qu’on lui confirme qu’aucune retenue d’impôt des non‑résidents n’était exigible en application du paragraphe 104(11) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), modifiée (la « Loi »), en partant du principe qu’il n’y avait aucune personne vérifiable de façon absolue à qui l’appelante est réputée avoir fait des paiements. La Direction des décisions de l’Agence des douanes et du revenu (tel était alors son nom) (l’« Agence ») a refusé de se pronocer.
+4. Étant donné sur l’Agence n'était apparemment pas certaine qu'une retenue d’impôt était exigible, l’appelante a remis, au moyen de formulaires NR4, État des sommes payées ou créditées à des non‑résidents du Canada, 14 163 648,75 $ (soit 25 % d’un dividende réputé de 56 654 595 $) à l’Agence le 13 juillet 2001 et 302 917,15 $ (soit 25 % d’un dividende réputé de 1 211 688,61 $) le 19 septembre 2001, à titre de précaution afin d’éviter d’avoir à payer d’éventuels intérêts ou d’éventuelles pénalités en application du paragraphe 227(9) de la Loi.
+5. Le 7 décembre 2001, l’appelante a produit deux (2) formulaires NR7‑R, Demande de remboursement des retenues d’impôt selon la partie XIII, en vertu du paragraphe 227(6) de la Loi, afin d’obtenir le remboursement des montants de retenues d’impôt des non‑résidents ci‑dessus.
+6. L’Agence a reçu la demande s’élevant à 14 163 648,75 $ le 10 décembre 2001 et celle s’élevant à 302 917,15 $ le 13 décembre 2001.
+7. Le 12 février 2003, l’Agence a établi deux (2) cotisations dans lesquelles les demandes de l’appelante ont été refusées.
+8. Le 7 mai 2003, ou environ à cette date, l’appelante s’est opposée à ces deux (2) cotisations.
+9. Le 5 février 2007, l’Agence a établi deux (2) nouvelles cotisations à l’égard de l’appelante, suivant le paragraphe 165(3) de la Loi, annulant les deux (2) cotisations initiales et accordant le remboursement des retenues d’impôt dont il est question ci‑dessus.
+10. Les deux (2) nouvelles cotisations ont été envoyées par la poste.
+11. Le 15 février 2007, l’Agence a envoyé à l’appelante un chèque de remboursement daté du 14 février 2007 s’élevant à un montant global de 17 807 906,03 $, par la poste, à l’adresse figurant sur les avis d’opposition :
+Lord Rothermere Donation 15001
+a/s de M. Alec Anderson, Conyers, Dill & Pearman
+Clarendon House
+2, rue Church
+Hamilton, HM CX
+Bermudes
+12. L’Agence a calculé le remboursement des retenues d’impôt ci‑dessus de la façon suivante :
+Montant remis
+14 163 648,75 $
+302 917,15 $
+Date de la remise par l’appelante
+Le 13 juill. 2001
+Le 19 sept. 2001
+Dates auxquelles l’Agence a reçu les demandes[1]
+Le 10 déc. 2001
+Le 13 déc. 2001
+Date des nouvelles cotisations dans lesquelles le remboursement est accordé
+Le 5 févr. 2007
+Le 5 févr. 2007
+Intérêts courus à compter de la date des demandes à la date des nouvelles cotisations (au taux prévu dans le Règlement de l’impôt sur le revenu)
+4 362 056,97 $
+93 063,20 $
+Retenues d’impôt selon la partie XIII sur les intérêts
+(1 090 514,24 $)
+(23 265,80 $)
+Montant total du remboursement :
+17 435 191,48 $
+372 714,55 $
+[…]
+[Non souligné dans l’original.]
+Dispositions légales pertinentes
+[3] D’abord, il est utile de citer ici les dispositions de la Loi qui sont pertinentes en l'espèce :
+227(6) Restitution ou application de l’excédent. Lorsqu’une personne pour le compte de qui un montant a été versé au receveur général en vertu des parties XII.5 ou XIII n’était pas redevable d’un impôt en vertu de cette partie, ou que le montant ainsi versé excède l’impôt dont elle était redevable, le ministre doit, sur demande écrite faite au plus tard deux ans suivant la fin de l’année civile où le montant a été versé, payer à cette personne le montant ainsi versé ou la partie de ce montant dont elle n’était pas redevable, à moins qu’elle ne soit tenue de faire un paiement à Sa Majesté du chef du Canada, ou soit sur le point de l’être, auquel cas le ministre peut appliquer le montant par ailleurs payable selon le présent paragraphe à ce paiement et avise la personne en conséquence.
+227(6) Excess withheld, returned or applied. Where a person on whose behalf an amount has been paid under Part XII.5 or XIII to the Receiver General was not liable to pay tax under that Part or where the amount so paid is in excess of the amount that the person was liable to pay, the Minister shall, on written application made no later than 2 years after the end of the calendar year in which the amount was paid, pay to the person the amount so paid or such part of it as the person was not liable to pay, unless the person is or is about to become liable to make a payment to Her Majesty in right of Canada, in which case the Minister may apply the amount otherwise payable under this subsection to that liability and notify the person of that action.
+227(7) Demande de cotisation. Le ministre établit une cotisation pour tout montant payable par une personne en vertu des parties XII.5 ou XIII et lui envoie un avis de cotisation si, après étude d’une demande faite par la personne, ou en son nom, en application du paragraphe (6), relativement à un montant versé au receveur général en vertu de cette partie, il n’est pas convaincu :
+a) soit que la personne n’était pas redevable d’un impôt en vertu de cette partie;
+b) soit que le montant versé au receveur général excédait l’impôt dont la personne était redevable.
+Les articles 150 à 163, les paragraphes 164(1) et (1.4) à (7), les articles 164.1 à 167 et la section J de la partie I s’appliquent alors, avec les adaptations nécessaires.
+227(7) Application for assessment. Where, on application under subsection (6) by or on behalf of a person to the Minister in respect of an amount paid under Part XII.5 or XIII to the Receiver General, the Minister is not satisfied
+(a) that the person was not liable to pay any tax under that Part, or
+(b) that the amount paid was in excess of the tax that the person was liable to pay,
+the Minister shall assess any amount payable under that Part by the person and send a notice of assessment to the person, and sections 150 to 163, subsections 164(1) and (1.4) to (7), sections 164.1 to 167 and Division J of Part I apply with any modifications that the circumstances require.
+164(3) Intérêts sur les sommes remboursées. Lorsque, en vertu du présent article, une somme à l’égard d’une année d’imposition est remboursée à un contribuable ou imputée sur un autre montant dont il est redevable, à l’exception de tout ou partie de la somme qu’il est raisonnable de considérer comme découlant de l’application des articles 122.5, 122.61 ou 126.1, le ministre paie au contribuable les intérêts afférents à cette somme au taux prescrit ou les impute sur ce montant, pour la période allant du dernier en date des jours visés aux alinéas suivants jusqu’au jour où la somme est remboursée ou imputée, sauf si les intérêts ainsi calculés sont inférieurs à 1 $, auquel cas aucun intérêt n’est payé ni imputé en vertu du présent paragraphe :
+a) le quarante-cinquième jour suivant la date d’exigibilité du solde qui est applicable au contribuable pour l’année, s’il est un particulier;
+[...]
+c) si le contribuable est :
+[...]
+(ii) un particulier, le quarante‑cinquième jour suivant celui où sa déclaration de revenu pour l’année a été produite en conformité avec l’article 150;
+d) dans le cas d’un remboursement d’un paiement en trop d’impôt, le jour où il y a eu paiement en trop;
+[...]
+164(3) Interest on refunds and repayments. Where under this section an amount in respect of a taxation year (other than an amount or portion thereof that can reasonably be considered to arise from the operation of section 122.5, 122.61 or 126.1) is refunded or repaid to a taxpayer or applied to another liability of the taxpayer, the Minister shall pay or apply interest on it at the prescribed rate for the period beginning on the day that is the latest of
+(a) where the taxpayer is an individual, the day that is 45 days after the individual‘s balance-due day for the year,
+. . .
+(c) where the taxpayer is
+. . .
+(ii) an individual, the day that is 45 days after the day on which the individual‘s return of income for the year was filed under section 150,
+(d) in the case of a refund of an overpayment, the day the overpayment arose, and
+. . .
+164(7) Sens de paiement en trop. Au présent article, un paiement en trop fait par un contribuable pour une année d’imposition est égal au montant suivant :
+a) si le contribuable n’est pas une société, le total des sommes versées sur les montants dont le contribuable est redevable en vertu de la présente partie pour l’année, moins ces mêmes montants;
+[...]
+164(7) Definition of "overpayment". In this section, "overpayment" of a taxpayer for a taxation year means
+(a) where the taxpayer is not a corporation, the total of all amounts paid on account of the taxpayer‘s liability under this Part for the year minus all amounts payable in respect thereof; and
+. . .
+150(1) Déclarations− règle générale. Sous réserve du paragraphe (1.1), une déclaration de revenu sur le formulaire prescrit et contenant les renseignements prescrits doit être présentée au ministre, sans avis ni mise en demeure, pour chaque année d’imposition d’un contribuable :
+[...]
+c) Successions ou fiducies − dans le cas d’une succession ou d’une fiducie, dans les 90 jours suivant la fin de l’année;
+[...]
+150(1) Filing returns of income − general rule. Subject to subsection (1.1), a return of income that is in prescribed form and that contains prescribed information shall be filed with the Minister, without notice or demand for the return, for each taxation year of a taxpayer,
+. . .
+(c) Trusts or estates − in the case of an estate or trust, within 90 days from the end of the year;
+. . .
+150(2) Mise en demeure de produire une déclaration. Toute personne, qu’elle soit ou non assujettie à l’impôt visé par la présente partie pour une année d’imposition et qu’une déclaration ait été produite ou non en vertu du paragraphe (1) ou (3), doit, sur mise en demeure du ministre, signifiée à personne ou envoyée sous pli recommandé, produire auprès du ministre, dans le délai raisonnable fixé par la mise en demeure, une déclaration de revenu pour l’année d’imposition y mentionnée, selon le formulaire prescrit et renfermant les renseignements prescrits.
+150(2) Demands for returns. Every person, whether or not the person is liable to pay tax under this Part for a taxation year and whether or not a return has been filed under subsection (1) or (3), shall, on demand from the Minister, served personally or by registered letter, file, within such reasonable time as may be stipulated in the demand, with the Minister in prescribed form and containing prescribed information a return of the income for the taxation year designated in the demand.
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+« date d’exigibilité du solde » L’une des dates suivantes applicable à un contribuable pour une année d’imposition :
+a) si le contribuable est une fiducie, le 90e jour suivant la fin de l’année;
+248(1) In this Act
+"balance-due day" of a taxpayer for a taxation year means,
+(a) where the taxpayer is a trust, the day that is 90 days after the end of the year,
+[Non souligné dans l’original.]
+Thèse des parties
+[4] Selon le paragraphe 227(7) de la Loi (partie XIII), le calcul des intérêts payables par suite des cotisations établies par le ministre doit suivre les dispositions du paragraphe 164(3) de la Loi (partie I) « avec les adaptations nécessaires » (« with any modifications that the circumstances require »).
+[5] Il y a différend parce que les parties n’interprètent pas de la même façon l'expression « avec les adaptations nécessaires » (« l'expression litigieuse ») et n’y accordent pas la même portée, telle qu'elle figure au paragraphe 164(3) de la Loi. Ce paragraphe, dans le contexte de la partie I, indique que le ministre doit calculer les intérêts à compter du dernier jour en date de plusieurs jours visés. Selon l’avocate de l’intimée, il est évident que cette disposition vise à accorder au ministre une [traduction] « période sans intérêt », y compris une [traduction] « période de traitement sans intérêt ». Les motifs expliquant l’adoption de la règle concernant la période de traitement sans intérêt sont exposés à la page 155 des Documents budgétaires du Budget 1992, déposés à la Chambre des communes par l’honorable Don Mazankowski, ministre des Finances, le 25 février 1992 :
+PÉRIODE DE TRAITEMENT SANS INTÉRÊT
+Chaque année, le gouvernement envoie plus de 12 millions de remboursements d’impôt aux particuliers. À l’heure actuelle, l’intérêt est calculé sur le remboursement d’impôt à partir de la date de production, qui est généralement le 30 avril de l’année suivante. Les déclarations produites tardivement permettent de gagner de l’intérêt sur les remboursements à partir de la date de production. Dans d’autres pays, une période ne portant pas intérêt est prévue après la date limite de production de déclaration afin de permettre le traitement de ces dernières et l’envoi des chèques de remboursement.
+D’après la méthode proposée, l’intérêt ne commencerait à courir que le 45e jour suivant la date limite de production de déclaration (ou 45 jours après la date effective de production, si la déclaration est produite en retard). Ce changement devrait s’appliquer aux déclarations d’impôt produites après 1992.
+[Non souligné dans l’original.]
+[6] Le teneur du paragraphe 164(3) est résumée dans les notes explicatives, aux pages 243-244 des Modifications de la Loi de l’impôt sur le revenu et des lois connexes, produites par l’honorable Don Mazankowski, ministre des Finances, en juin 1992 :
+Le paragraphe 164(3) prévoit le paiement d’intérêt sur les remboursements d’impôt. Pour les particuliers, l’intérêt est calculé pour la période qui commence au dernier en date des jours suivants et se termine le jour du remboursement : (i) le jour où la déclaration du particulier pour l’année doit être produite (la date d’échéance); (ii) le jour où la déclaration est produite; (iii) le jour où est survenu le paiement en trop. Les modifications au paragraphe 164(3) qui s’appliquent aux remboursements relatifs aux déclarations de revenu produites après 1992 portent que, dans le cas de particuliers, aucun intérêt ne sera versé à l’égard de remboursements d’impôt pour la période de 45 jours qui commence après le dernier en date de la date d’échéance de la déclaration et du jour où la déclaration est produite.
+[7] En l'espèce, l’avocat de LRD a soutenu que l’alinéa 164(3)a) ne jouait pas, étant donné qu’il n’y avait pas de « date d’exigibilité du solde ». Le contribuable non-résident tenu de payer l’impôt de la partie XIII ne peut pas avoir de solde exigible après la fin de l’année parce que tout l’impôt a été retenu à la source. En effet, selon les articles 212 et 215 de la Loi, tout impôt à payer doit être remis sans délai dès qu’une personne paie un montant qui tombe sous le coup de la partie XIII[2]. La personne redevable de l’impôt de la partie XIII n’a pas à attendre la fin de l’année pour savoir si d’autres de ses revenus pourraient être assujettis à l’impôt de la partie XIII. De plus, aucune déduction ne peut être faite dans le calcul de l’impôt de la partie XIII étant donné qu’il est calculé en fonction du montant brut payé au non‑résident.
+[8] L’avocate de l’intimée a affirmé qu’elle ne se fondait pas sur l’alinéa 164(3)a) de la Loi pour justifier les cotisations établies par le ministre. Elle se fondait plutôt sur le sous‑alinéa 164(3)c)(ii). À son avis, le formulaire NR7‑R, Demande de remboursement des retenues d’impôt selon la partie XIII, doit être traité comme une déclaration de revenu aux fins de ce texte et, par conséquent, l’intérêt doit être calculé à compter du quarante‑cinquième jour suivant la date à laquelle les demandes ont été produites, soit, quarante‑cinq jours après le 10 décembre 2001 et quarante‑cinq jours après le 13 décembre 2001. Cette date serait plus tardive que la date établie selon l’alinéa 164(3)d), soit la date à laquelle il y a eu paiement en trop. En l’espèce, le paiement en trop a eu lieu lorsque les montants de 14 163 648,75 $ et de 302 917,15 $ ont été payés au ministre, soit le 13 juillet 2001 et le 19 septembre 2001, respectivement[3].
+[9] L’avocate de l’intimée a soutenu que la demande écrite (soit le formulaire NR7‑R) que l’appelante a utilisé pour obtenir le remboursement doit être traité comme une déclaration de revenu parce que le paragraphe 227(7) prévoit que l’article 150 s’applique « avec les adaptations nécessaires ». Je ne vois pas en quoi l’article 150, qui prévoit que certains contribuables doivent produire une déclaration de revenu, conforte le ministre dans sa thèse. J’ai demandé aux avocats des deux parties de me donner un exemple de l’utilité de l’article 150 aux fins de l’application du paragraphe 227(7), mais on ne m’en a fourni aucun.
+[10] A l'appuie de ses prétentions, l’avocate de l’intimée a aussi cité une opinion doctrinale concernant la portée des paragraphes 227(6) et 227(7) de la Loi[4] :
+[traduction]
+Les intérêts sur le remboursement de l’impôt de la partie XIII
+Le non‑résident peut demander le remboursement du paiement excessif de l’impôt de la partie XIII en présentant une demande auprès du ministre, selon les dispositions du paragraphe 227(6). Un tel remboursement constituerait clairement un paiement excessif, au sens du paragraphe 164(7), étant donné que le montant payé au nom du non‑résident se trouverait à excéder l’impôt dont ce dernier était redevable. Le paragraphe 227(6) lui-même, par contre, ne prévoit aucun crédit d’intérêt pour de tels montants remboursés. Le paragraphe 227(7) exige que le ministre établisse une cotisation en vertu de la partie XIII si, après étude d’une demande de remboursement, il n’a pas conclu que l'intéressé n’était pas redevable d’un impôt en vertu de la partie XIII ou que le montant versé excédait l’impôt dont la personne était redevable. De nombreuses règles de la partie I jouent dans l’établissement de la cotisation, avec les adaptations nécessaires. Le renvoi aux dispositions de la partie I semble être conçu pour garantir au contribuable un droit d’appel si le ministre ne traite pas la demande de remboursement telle que présentée. Le paragraphe 164(3), toutefois, est également compris dans le renvoi. Par conséquent, paradoxalement, si la demande de remboursement est admise par le ministre, le contribuable n’a droit à aucun intérêt sur son remboursement, mais que si le ministre conteste la demande, que le contribuable réussit éventuellement à confirmer, un crédit d’intérêt devra être payé et calculé à compter de la date à laquelle la demande de remboursement a été faite67.
+67 On ne sait pas exactement de quelle façon les alinéas 164(3)a) et c) seront interprétés une fois que les adaptations nécessaires seront faites. Étant donné qu’il n’y a pas de date prescrite à laquelle une déclaration de revenu de la partie XIII doit être produite, il semble que l’alinéa 164(3)c) (en ce qui concerne la date à laquelle la déclaration [demande] est produite) servira à établir la date à compter de laquelle l’intérêt commence à courir.
+[Non souligné dans l’original.]
+[11] L’avocat de LRD a contesté l’interprétation de l’intimée parce que, selon la partie XIII, le non‑résident n’est pas tenu de produire une déclaration de revenu. La production d’une déclaration de revenu incombe bien évidemment aux contribuables qui sont redevables de l’impôt de la partie I. Le formulaire NR7‑R ne constitue pas une déclaration de revenu. Le particulier non‑résident est tenu de produire une déclaration de revenu seulement s’il doit payer de l’impôt en raison d’un emploi qu’il a occupé au Canada, d’une entreprise qu’il a exploitée au Canada, ou d’un bien canadien imposable dont il a disposé[5]. Il est aussi soutenu que le formulaire NR7‑R n’est pas un formulaire prescrit au sens de l’article 150 de la Loi. Il relève plutôt d’une exigence prévue au paragraphe 227(6)[6].
+[12] La question est donc de savoir si le paragraphe 227(7) de la Loi fait jouer le sous‑alinéa 164(3)c)(ii). La portée de la règle voulant que le paragraphe 164(3) s’applique « avec les adaptations nécessaires » est‑elle assez large pour justifier le calcul fait par le ministre des intérêts sur le remboursement de l’impôt de la partie XIII?
+[13] L’avocat de LRD est d’avis que tel n’est pas le cas et a cité une abondante jurisprudence à l'appuie de sa thèse, où il est question de l’expression latine mutatis mutandis (l’« expression latine ») qui, selon l’avocat, correspond à l'expression litigieuse en l’espèce qui se trouve dans la Loi depuis la modification du paragraphe 227(7) de celle‑ci en 1985[7]. Voici l’alinéa b) du paragraphe 227(7) dans sa version antérieure :
+[…] le Ministre doit cotiser cette personne à l’égard de tout montant payable par elle en vertu de la Partie XIII et lui envoyer un avis de cotisation, après quoi les sections I et J de la Partie I s’appliquent mutatis mutandis.
+[Non souligné dans l’original.]
+[14] La démarche suivie dans cette jurisprudence est bien illustrée par la décision Ketz v. The Queen, 79 DTC 5142. Dans Ketz, le contribuable était un non‑résident qui avait fait le choix, suivant le paragraphe 216(1) de la Loi (partie XIII), de payer de l’impôt sur son revenu locatif en fonction de la partie I comme s’il avait été un résident du Canada. Ainsi, l’impôt pouvait être calculé sur son revenu locatif net plutôt que sur son revenu brut, comme cela aurait été le cas s’il avait été calculé en fonction de la règle pertinente suivant la partie XIII de la Loi. Lorsque le contribuable a vendu le bien, en 1976, une récupération de déduction pour amortissement a été ajoutée à ses revenus. M. Ketz a demandé s’il avait le droit de se prévaloir d’une disposition d’établissement d’une moyenne générale afin de diminuer l'impact de la récupération. La disposition pertinente était le paragraphe 118(1), qui disposait que :
+118(1) Nonobstant l’article 117, lorsque, dans le cas d’un particulier qui a résidé au Canada durant toute l’année d’imposition précédant immédiatement une année d’imposition donnée (qui est appelée dans la suite du présent article « année d’établissement de la moyenne »), il reste un excédent lorsque […]
+[Non souligné dans l’original.]
+[15] Le ministre a refusé à M. Ketz le droit de se prévaloir de cette disposition au motif qu’il n’avait pas résidé au Canada durant toute l’année d’imposition précédant immédiatement l’année d’imposition donnée. La demande de M. Ketz était fondée sur le paragraphe 216(3), qui disposait que « [l]a Partie I s’applique mutatis mutandis au paiement de l’impôt dû en vertu du présent article ». Le juge Dubé de la Cour fédérale, Section de première instance, a résumé l’argumentation de M. Ketz en ces termes, à la page 5144 :
+Le savant procureur du demandeur a fourni à la Cour un certain nombre de définitions de la locution mutatis mutandis jugées acceptables par la Cour et par l’avocat du Ministre.
+Hausman c. Waterhouse, 182 N.Y.S. 249, 251, 191 App. Div. 850.
+[traduction] L’expression « mutatis mutandis » signifie avec les changements de détail nécessaires pour se conformer à un seul changement essentiel.
+Copeland c. Eaton, 95 N.E. 291, 209, Mass. 139, Ann. Cas. 1212B, 521.
+[traduction] Lorsqu’un article définit ce qui constitue des profits, et que toutes les dispositions de cet article doivent s’appliquer « mutatis mutandis » aux rapports entre les parties nés après l’expiration du contrat, l’expression « mutatis mutandis » signifie les changements de détail nécessaires pour se conformer à une seule modification essentielle et suggère un renversement des positions relatives des parties en vertu du contrat qui, par ailleurs, subsiste sous ces autres aspects.
+Re Kipnes et le procureur général de l’Alberta, [1966] 4 C.C.C. 387 (C.A.).
+[traduction] Selon le Earl Jowitt’s Dictionary of English Law, l’expression mutatis mutandis signifie « avec les changements nécessaires sur les points de détail » et le Black’s Law Dictionary (4e éd.), lui donne le sens suivant : « Avec les changements nécessaires sur des points de détail, c.-à-d. que les éléments demeurent généralement les mêmes et sont modifiés, au besoin, quant aux noms, fonctions, etc. » Hausman c. Waterhouse, 191 App. Div. 850, 182 N.Y.S. 249, 251.
+Petit Larousse, 1976.
+mutatis mutandis : en changeant ce qui doit être changé; en faisant les changements nécessaires.
+Le demandeur a produit un projet de rédaction du paragraphe 118(1), auquel seraient ajoutés les mots nécessaires pour parvenir aux fins souhaitées. Les « changements de détail » proposés sont mis en italiques. Par souci de brièveté, les alinéas et sous‑alinéas du paragraphe 118(1) ne sont pas reproduits.
+[traduction] 118. (1) Nonobstant l’article 117, lorsque, dans le cas d’un particulier qui n’a pas résidé au Canada durant toute l’année d’imposition précédant immédiatement une année d’imposition donnée (qui est appelée dans la suite du présent article « année d’établissement de la moyenne »), mais qui a choisi, durant l’année précédant immédiatement l’année d’établissement de la moyenne, de déposer une déclaration de revenu, en vertu de la présente partie, en la forme prescrite pour une personne résidant au Canada relativement à l’année d’imposition, il reste un excédent […]
+[Non souligné dans l’original.]
+[16] La thèse de la Couronne a été résumée ainsi par le Juge Dubé, à la page 5144 :
+[…] La Loi de l’impôt sur le revenu prévoit que la Partie I s’applique mutatis mutandis à une personne imposée en vertu du paragraphe 216(1), c.-à-d. avec les changements de détail nécessaires, et non de substance.
+Mais, alors que le paragraphe 216(1) s’applique à une personne non résidante, le paragraphe 118(1) s’applique à un particulier qui a résidé au Canada durant l’année précédant l’année d’imposition donnée : or, il est reconnu que le demandeur n’a pas résidé au Canada durant son année d’imposition 1975.
+En conséquence, prétend la défenderesse, le demandeur ne peut s’appuyer sur le paragraphe 216(3) puisque la résidence durant l’année précédant l’année d’imposition donnée est une condition essentielle d’application du paragraphe 118(1) et non un simple point de détail.
+[Non souligné dans l’original.]
+[17] Le juge Dubé a rejeté la thèse du contribuable pour les motifs suivants, énoncés aux pages 5144-5145 :
+À mon avis, pour modifier le paragraphe 118(1) de façon à le rendre applicable à une personne non résidante, il est nécessaire de lui apporter des changements touchant son essence même. Selon les règles d’interprétation des lois, il faut donner aux mots leur sens grammatical habituel, en accord avec l’objet de la Loi et l’intention du Parlement, sous réserve d’une indication contraire. Le paragraphe 118(1) s’applique directement à un particulier qui a résidé au Canada durant toute l’année d’imposition précédant immédiatement une année d’imposition donnée. Le demandeur n’a pas résidé au Canada en 1975; il a seulement choisi de déposer une déclaration de revenu pour cette année-là en vertu de la Partie I, comme s’il avait résidé au Canada. Si le Parlement avait eu l’intention de rendre accessibles aux personnes non résidantes les dispositions du paragraphe 118(1) en matière d’établissement d’une moyenne générale, il l’aurait clairement exprimée dans la loi.
+[Non souligné dans l’original.]
+Analyse
+[18] Pour tous, ou presque, les appels interjetés d’une cotisation d’impôt, le point de départ est le texte de la Loi. Je tiens à le préciser, parce qu’il arrive trop souvent que les avocats fondent leurs thèses sur la jurisprudence. Bien que le problème qui est posé à la Cour, en l’espèce, concerne l’interprétation appropriée de l'expression litigieuse qui se trouve au paragraphe 227(7) de la Loi, l’avocat de LRD s’est fondé uniquement sur des jurisprudences dans lesquelles les tribunaux avaient dû appliquer l’expression latine. Dans la période en cause, cette expression ne se trouvait plus dans les dispositions applicables.
+[19] L'expression litigieuse laisse tout de même place à une certaine subjectivité, et par conséquent, à une certaine incertitude en ce qui a trait à son interprétation. Afin d’établir l’étendue de son application, il est nécessaire d’examiner les règles d’interprétation des lois.
+[20] Une des principales règles d’interprétation est celle citée par le juge Dubé dans Ketz, précité, à la page 5144 : « il faut donner aux mots [dans une loi] leur sens grammatical habituel, en accord avec l’objet de la Loi et l’intention du Parlement » . Une autre règle semblable est représentée par la juge McLachlin (tel était alors son titre) au paragraphe 40 de l’arrêt Shell Canada Ltd. c. Canada, [1999] 3 R.C.S. 622 : « Lorsque la disposition en cause est claire et non équivoque, elle doit simplement être appliquée ».
+[21] Avant d’établir la portée à accorder à l'expression litigieuse, il est utile d’examiner les modifications qui ont été apportées au paragraphe 227(7) de la Loi par le législateur. Lorsque ce paragraphe a été modifié, en 1985, dans la version anglaise de la Loi, l’expression latine a été remplacée par l'expression « with such modifications as the circumstances require ». Celle-ci a été modifiée une fois de plus en 1997, et le mot « such » a été remplacé par « any »[8]. Dans le dictionnaire The New Shorter Oxford English Direction, version CD-ROM, « any », lorsqu’utilisé en tant qu’adjectif pluriel, est défini en ces termes : [traduction] « des – peu importe lequel, de quel type ou combien ». Aucune modification du genre n’a été apportée à la version française. À mon avis, l'expression litigieuse dans la version française et dans la version anglaise du paragraphe 227(7) ne nécessite évidemment pas que les modifications soient restreintes aux « points de détail » comme l’ont conclu les tribunaux dans des décisions comme la décision Ketz. Si le législateur avait eu l’intention, en 1985, que l'on continue de suivre cette approche (l’« interprétation restrictive »), soit celle adoptée par les tribunaux concernant l’expression latine, après 1984, il aurait été facile de préciser « avec les adaptations nécessaires aux points de détail ». Il faut tout de même établir certaines restrictions aux adaptations « nécessaires ».
+[22] Pour établir la portée à accorder au à l'expression litigieuse, il faut d’abord souligner que le législateur ne précise pas, comme c’était le cas avant la modification apportée en 1985, que la section I de la partie I joue. En ce qui concerne la Loi en vigueur pendant l’année en cause, elle énonce les dispositions de la section I qui jouent aux fins du paragraphe 227(7), notamment, l’article 164. De plus, l’article 164 ne joue pas en entier. Seuls les paragraphes 164(1), (1.4) et (7) jouent. Par exemple, le paragraphe 164(1.1) permet au contribuable qui s’oppose à sa cotisation en vertu de la Loi au moyen d’un avis d’opposition d’obtenir – dans la plupart des cas – en attendant le règlement du montant en souffrance, le remboursement de l'impôt contesté ou la remise de la garantie qu’il a fournie[9]. Cette disposition ne vise pas le non‑résident redevable de l’impôt de la partie XIII selon le paragraphe 227(7) de la Loi.
+[23] Par le renvoi précis au paragraphe 164(3), le législateur avait l’intention, à mon avis, d’appliquer aux non‑résidents redevables de l’impôt de la partie XIII la politique fiscale régissant le paiement d’intérêts aux contribuables (y compris les non‑résidents) redevables de l’impôt de la partie I. Cette politique est clairement expliquée ci‑dessus, et selon celle‑ci, le ministre a droit à une période sans intérêt, y compris une période de traitement sans intérêt, lorsque le contribuable redevable de l’impôt de la partie I demande un remboursement de l’impôt qu’il a payé, soit par retenue à la source, soit par acompte provisionnel, soit à la date d’exigibilité du solde. Selon cette politique, le contribuable particulier ordinaire qui produit sa déclaration de revenu le 1er avril et demande un remboursement de l’impôt qu’il a payé par acompte provisionnel et qui excède son obligation fiscale ne pourra pas recevoir d’intérêts calculés à compter de la date du paiement en trop, mais plutôt à compter du quarante‑cinquième jour suivant le 30 avril. Il serait étrange que la Loi traite les contribuables non‑résidents redevables de l’impôt de la partie XIII plus favorablement que les non‑résidents qui sont redevables de l’impôt de la partie I. Ceci serait d’autant plus étrange si l'on tient compte du fait que le non‑résident redevable de l’impôt de la partie XIII qui fait une demande de remboursement suivant le paragraphe 227(6) de la Loi et dont la demande n’est pas contestée par le ministre n’a droit à aucun intérêt. À mon avis, il semble cependant logique que le ministre soit tenu de payer un intérêt au non‑résident dont il avait initialement rejeté la demande de remboursement et dont la demande a par la suite été acceptée, soit par le ministre, soit par la Cour (ou une cour supérieure). Étant donné que l'instruction administrative et judiciaire d’une telle demande de remboursement peut prendre plusieurs mois, voire plusieurs années, comme c’était le cas en l’espèce, il est normal d’indemniser le non‑résident qui n’a pas pu profiter du montant qu’il avait payé en trop.
+[24] L’interprétation avancée ici par le ministre semble raisonnable. Le ministre soutient que les adaptations nécessaires ci‑dessous (en italique) doivent être faites au sous‑alinéa 164(3)c)(ii) :
+[traduction]
+(ii) un particulier, le quarante-cinquième jour suivant celui où sa demande écrite pour l’année a été produite en conformité avec le paragraphe 227(6).
+Autrement dit, « déclaration de revenu » est remplacé par [traduction] « demande écrite » et « article 150 » est remplacé par [traduction] « paragraphe 227(6) ».
+[25] Il est vrai que la portée d’une déclaration de revenu est bien différente de celle d’une demande écrite, comme le formulaire NR7‑R. La déclaration de revenu doit être produite par les contribuables qui sont assujettis à la partie I pour ce qui est de déclarer toutes leurs sources de revenus différentes et de demander toutes les déductions admissibles pertinentes. Le non‑résident assujetti à la partie XIII établit l’impôt qu’il doit payer non pas en fonction d’un montant net, mais en fonction d’un montant brut, et l’impôt est appliqué à ce montant à un taux fixe, qui ne varie pas selon le niveau de revenu du contribuable. Il n’est pas nécessaire d’indiquer dans le formulaire NR7‑R toutes les sources de revenus assujettis à l’impôt de la partie XIII.
+[26] Toutefois, des renseignements semblables doivent être produits tant dans la déclaration de revenu, comme une T1 produite par un non‑résident, que dans le formulaire NR7‑R de demande de remboursement des retenues d’impôt selon la partie XIII. Par exemple, dans le formulaire NR7‑R, le contribuable doit produire des renseignements détaillés concernant le type de paiement sur lequel il a remis de l’impôt de la partie XIII, le montant de ce paiement, ainsi que le montant d’impôt remis, le montant d’impôt exigible et le montant du remboursement. Dans une T1, le contribuable indique à la page 4 l’impôt net à payer, y déduit l’impôt total retenu, y compris l’impôt payé par acomptes provisionnels, et, s’il y a lieu, indique le montant du remboursement demandé.
+[27] Vu ces similitudes, il n’est pas déraisonnable, aux fins du paragraphe 227(7), de remplacer l'expression « déclaration de revenu », au paragraphe 164(3), par [traduction] « demande écrite » (p. ex., un formulaire NR7‑R). À mon avis, le résultat correspond à l’esprit de la Loi et à l’intention du législateur.
+[28] De plus, étant donné que l’impôt de la partie XIII est payable en entier, sans délai, au moment où le revenu assujetti à l’impôt est versé, il n’est pas pertinent d’établir une date d’exigibilité du solde. Tout l’impôt de la partie XIII aura déjà été remis lors du versement de tout revenu et aucun solde ne sera exigible après la fin de l’année, vu qu’aux fins de l’impôt de la partie XIII, on ne tient pas compte du niveau de revenu et aucune déduction n’est admise. Par conséquent, pour ce qui est de l’application du paragraphe 227(7), il est opportun de ne pas tenir compte de la règle énoncée à l’alinéa 164(3)a). Il s’agit ici d’une adaptation « nécessaire ». Ceci correspond également à l’esprit de la Loi et à l’intention du législateur.
+[29] Par conséquent, seulement deux dates sont pertinentes en l’espèce : le quarante‑cinquième jour suivant celui où la demande de remboursement est reçue et le jour où il y a eu paiement en trop. Étant donné qu’en l’espèce, les formulaires NR7‑R ont été reçus les 10 et 13 décembre 2001, qui sont de toute évidence des dates postérieures au 13 juillet et au 19 septembre 2001, le ministre était en droit de calculer les intérêts à compter du quarante‑cinquième jour suivant celui où il a reçu les formulaires NR7‑R. D'ailleurs, les intérêts ont commencé à courir le jour où les formulaires NR7‑R ont été reçus, et LRD a donc profité d’une période supplémentaire d’intérêts au‑delà de ce qui est prévu dans la Loi.
+[30] Si l’interprétation que j’ai décidé de suivre devait être considérée mal fondée et si l’interprétation jurisrudentielle de l’expression latine devait être suivie, comme le soutient l’avocat de LRD, à mon avis, on pourrait dire que l’adaptation pronée par l’intimée touche l’essence même de la disposition, comme l’a dit le juge Dubé dans Ketz. Étant donné que la déclaration de revenu, prévue à l’article 150, est très différente de la demande écrite du paragraphe 227(6), le fait d’en substituer une à l’autre ne constitue pas un simple point de détail.
+[31] Cependant, même une telle l’interprétation restrictive ne conforterait pas LRD dans sa thèse. À mon avis, dans ce cas-là, l’alinéa 164(3)a) de la Loi jouerait, parce que ne pas l’appliquer reviendrait tout aussi bien à en faire une adaptation touchant son essence même. Si on l’interprète littéralement, ce texte dit qu’un des jours dont il faut tenir compte est la « date d’exigibilité du solde ». Selon la définition de ce terme fournie au paragraphe 248(1), dans le cas d’une fiducie, il s’agit du « 90e jour suivant la fin de l’année »[10]. Donc, la date établie en fonction de l’alinéa 164(3)a) serait alors le quarante‑cinquième jour suivant le 31 mars 2002.
+[32] Comme au paragraphe 248(1), la définition de l’expression « date d’exigibilité du solde », figurant dans l’alinéa 164(3)a), n'englobe aucunement un montant en souffrance ou d’un solde dû à une date précise, il n’y a aucune raison de ne pas suivre une règle aussi claire. Il est implicite, dans l’expression « date d’exigibilité du solde »[11], qu’un solde d’impôt est exigible à la date en question, mais il n’est pas forcément nécessaire qu’un solde soit vraiment exigible ou qu’il puisse être exigible. Autrement dit, la définition de la date d’exigibilité du solde ne précise pas [traduction] « si le contribuable est une fiducie et que la fiducie a un solde dû à la fin de l’année, le 90e jour suivant la fin de l’année ». Cette définition ne fait que préciser que la date d’exigibilité du solde est le 90e jour suivant la fin de l’année. Ne pas tenir compte de la définition très claire au paragraphe 248(1) et de l’alinéa 164(3)a) qui est tout aussi clair équivaudrait, à mon avis, à faire une adaptation touchant « l’essence même de la disposition ».
+[33] Donc, si l'on suit l’interprétation restrictive, le quarante‑cinquième jour suivant le 31 mars 2002 serait tout de même postérieur au 13 juillet 2001 ou au 19 septembre 2001. Par conséquent, non seulement LRD n'aurait pas droit aux intérêts additionnels qu’elle demande en l'espèce, mais le montant des intérêts établi en fonction des paragraphes 227(7) et 164(3) de la Loi serait inférieur à ce que le ministre a déjà payé, concrètement.
+[34] Pour tous ces motifs, les appels de LRD sont rejetés, avec dépens.
+Signé à Ottawa, Canada, ce 3e jour de février 2009.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 11e jour de juin 2009.
+François Brunet, réviseur
+RÉFÉRENCE : 2009 CCI 70
+N° DE DOSSIER : 2007-1938(IT)G
+INTITULÉ : LORD ROTHERMERE DONATION c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 22 octobre 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge Pierre Archambault
+DATE DU JUGEMENT : Le 3 février 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Nicolas Cloutier
+Avocate de l’intimée :
+Me Susan Shaughnessy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Nicolas Cloutier
+Cabinet : Davies Ward Phillips & Vineberg LLP
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Même si la Loi disposait, avant juin 2003, que les intérêts devraient commencer à courir le quarante‑cinquième jour suivant la date à laquelle la demande a été présentée, le ministre a appliqué les intérêts à compter de la date à laquelle les demandes ont été reçues.
+[2] Les paragraphes 212(1) et 215(1) disposent :
+212(1) Impôt. Toute personne non‑résidente doit payer un impôt de 25 % sur toute somme qu’une personne résidant au Canada lui paie ou porte à son credit, ou est reputé en vertu de la partie I lui payer ou porter à son credit, au titre ou en paiement intégral ou partiel […]
+215(1) Déduction et paiement de l’impôt. La personne qui verse, crédite ou fournit une somme sur laquelle un impôt sur le revenue est exigible en vertu de la présente partie, ou le serait s’il n’était pas tenu compte du paragraphe 216.1(1), ou qui est réputée avoir versé, credité ou fourni une telle somme, doit, malgré toute disposition contraire d’une convention ou d’une loi, en déduire ou en retenir l’impôt applicable et le remettre sans délai au receveur général au nom de la personne non‑résidente, à valoir sur l’impôt, et l’accompagner d’un état selon le formulaire prescrit.
+[Non souligné dans l’original.]
+[3] Aucune des parties ne conteste le fait qu’il y a eu paiement en trop lorsque LRD a payé ces montants en juillet et en septembre 2001.
+[4] Scheuermann, Scott L., « Interest on Unpaid and Overpaid Amounts », Corporate Management Tax Conference 1988, Income Tax Enforcement, Compliance, and Administration, Association canadienne d’études fiscales, page 10:29.
+[5] Ou bien, à mon avis, si le ministre avait demandé la production d’une telle déclaration en application du paragraphe 150(2) de la Loi.
+[6] Contrairement au paragraphe 150(1), le paragraphe 227(6) de la Loi n’exige pas l’utilisation d’un formulaire prescrit. Il prévoit seulement le recours à une « demande écrite ».
+[7] S.C. 1985, ch. 45, paragr. 117(1), en vigueur après 1984.
+[8] S.C. 1997, ch. 25, paragr. 67(3), en vigueur en date du 25 avril 1997.
+[9] Toutefois, le contribuable sera tenu de payer des intérêts si la cotisation est ratifiée.
+[10] « Année », ici, renvoie à « année d’imposition ». Cette expression est définie en ces termes au paragraphe 249(1) :
+249(1) Sens d’« année d’imposition » Pour l’application de la présente Loi, l’année d’imposition est :
+a) dans le cas d’une société ou d’une société de personnes résidant au Canada, l’exercice;
+b) dans le cas d’un particulier, l’année civile.
+La mention d’une année d’imposition par rapport à une année civile vise l’année ou les années d’imposition qui coïncident avec cette année civile ou se terminent au cours de cette année.
+[Non souligné dans l’original.]
+L’année civile qui importe en l’espèce est l’année où les paiements ont été faits, soit 2001.
+[11] Je tiens à préciser aussi qu’on aurait pu utiliser, dans la Loi, de nombreuses expressions neutres autres que « date d’exigibilité du solde » et rien n’aurait changé. Une fois qu’elle a été définie, l’expression comme telle n’est, en quelque sorte, plus pertinente.

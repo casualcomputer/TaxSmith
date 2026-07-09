@@ -1,0 +1,114 @@
+Title: Tacilauskas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30911/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-288-30911-tacilauskas-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-07-31
+
+# Tacilauskas v. The Queen
+
+- Citation: 2012 TCC 288
+- Decision date: 2012-07-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7468, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tacilauskas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-31
+Neutral citation
+2012 TCC 288
+File numbers
+2011-2745(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2745(IT)I
+BETWEEN:
+ANDREW TACILAUSKAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 18, 2012 at Vancouver, British Columbia
+(written submissions received subsequently)
+By: The Honourable Judith Woods
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Mika Banerd (student-at-law)
+Zachary Froese
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2009 taxation year is dismissed.
+Signed at Toronto, Ontario this 31st day of July 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 288
+Date: 20120731
+Docket: 2011-2745(IT)I
+BETWEEN:
+ANDREW TACILAUSKAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] When Andrew Tacilauskas failed to report dividend income in two successive years, he was assessed federal and provincial penalties, each in the amount of $13,050. The question is whether the federal penalty should be vacated on grounds of due diligence.
+[2] The appeal was heard under the informal procedure and the appellant agreed to limit the relief on the penalty to $12,000.
+[3] Mr. Tacilauskas is an electrical contractor who has been in business with partners in Whistler, British Columbia since 2003. The businesses were operated by two corporations, West Systems Inc. and Alpine Electric Ltd.
+[4] In his 2008 income tax return, Mr. Tacilauskas reported total income of $269,338, which included taxable dividends in the amount of $169,420 from Alpine Electric Ltd. The return failed to include taxable dividends from West Systems Inc. in the amount of $31,250.
+[5] In his 2009 income tax return, Mr. Tacilauskas reported total income of $184,537 which was comprised entirely of employment income. The return failed to include taxable dividends in the amount of $130,500 from Alpine Electric Ltd.
+Analysis
+[6] Subsection 163(1) of the Income Tax Act imposes a penalty if a taxpayer has failed to accurately report income in any two tax returns within a four year period. The penalty is 10 percent of the amount of the second omission. The penalty in this case is $13,050.
+[7] Subsection 163(1) provides:
+163. (1) Repeated failures. Every person who
+(a) fails to report an amount required to be included in computing the person’s income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[8] Although s. 163(1) does not specifically provide for a defence based on due diligence, the defence has been recognized by this Court. In general, if a taxpayer has taken all reasonable measures to accurately report his income, the penalty should not be imposed. This usually requires the taxpayer to take positive steps to avoid the reporting failure.
+[9] The question in this case is whether Mr. Tacilauskas took all reasonable measures to prevent these omissions. I have concluded that he did not.
+[10] The root of the problem was that Mr. Tacilauskas’s personal tax returns were prepared by a different accountant than the accountant who acted for West Systems Inc. and Alpine Electric Ltd.
+[11] In reference to the 2008 personal tax return, Mr. Tacilauskas assumed that the accountant had included all the dividends that were received. It turns out that this was incorrect and that a dividend from West Systems Inc. was missed. The dividend was $25,000 and the amount of the omission was the grossed-up taxable dividend in the amount of $31,250.
+[12] In reference to the 2009 income tax return, Mr. Tacilauskas reported only employment income and did not report a dividend received from Alpine Electric Ltd. in the amount of $90,000. The amount of income that was omitted was the grossed-up taxable dividend in the amount of $130,500.
+[13] Mr. Tacilauskas testified that in anticipation of the tax payable for 2009, he had arranged for Alpine Electric Ltd. to make additional source deductions every two weeks in the amount of $1,000.
+[14] Mr. Tacilauskas stated that the problem was that the accountant for Alpine Electric Ltd. had not done the paperwork for the dividend by the time that the 2009 personal tax return was filed. Mr. Tacilauskas mistakenly thought that the accountant would take care of whatever filings were necessary.
+[15] In my view, Mr. Tacilauskas did not take sufficient care in either the 2008 or 2009 tax returns to prevent the omissions from income. The dividends were large amounts, and Mr. Tacilauskas had a responsibility to take appropriate steps to ensure that they were reported. It was not enough to assume that an accountant would take care of it.
+[16] The focus of the penalty in s. 163(1) is the failure to accurately report all income on the returns. Neither the payment of the tax nor the issuance of T5 slips relieves taxpayers from this obligation. The steps that were taken were not sufficiently proactive steps to ensure that all income from West Systems Inc. and Alpine Electric Ltd. was reported on the returns.
+[17] I have some sympathy for Mr. Tacilauskas in these circumstances. The amount of the federal and provincial penalties is very high. I suspect that the aggregate penalty (20 percent) may be similar to the tax that is payable on the dividend after taking the dividend tax credit into account. The harshness of these penalties was recently commented on by Justice Jorre in Knight v The Queen, 2012 TCC 118.
+[18] Although the amount of the penalties is harsh, this is not a basis to provide relief. It is the prerogative of Parliament and provincial legislatures to impose such penalties as they see fit. The only question is whether Mr. Tacilauskas took reasonable measures to prevent the failures to report his income. I find that he did not.
+[19] The assessment of the federal penalty will be upheld and the appeal will be dismissed.
+Signed at Toronto, Ontario this 31st day of July 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 288
+COURT FILE NO.: 2011-2745(IT)I
+STYLE OF CAUSE: ANDREW TACILAUSKAS v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 18, 2012
+REASONS FOR JUDGMENT BY: The Honourable J.M. Woods
+DATE OF JUDGMENT: July 31, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mika Banerd (student-at-law)
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

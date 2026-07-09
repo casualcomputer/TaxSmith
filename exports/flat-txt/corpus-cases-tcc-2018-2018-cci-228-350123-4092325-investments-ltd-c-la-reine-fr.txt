@@ -1,0 +1,308 @@
+Title: 4092325 Investments Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/350123/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-228-350123-4092325-investments-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-11-15
+
+# 4092325 Investments Ltd. c. La Reine
+
+- Citation: 2018 CCI 228
+- Decision date: 2018-11-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5021, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4092325 Investments Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-11-15
+Référence neutre
+2018 CCI 228
+Numéro de dossier
+2015-5160(IT)G, 2017-2072(IT)G, 2017-2073(IT)G, 2017-2322(IT)G, 2017-2329(IT)G, 2017-3306(IT)G, 2017-3307(IT)G, 2017-3443(IT)G, 2017-3897(IT)G, 2017-3905(IT)G, 2017-3906(IT)G, 2017-3907(IT)G, 2017-3908(IT)G, 2017-4251(IT)G, 2017-4255(IT)G, 2017-4269(IT)G, 2017-4457(IT)G, 2017-4458(IT)G, 2017-448(IT)G, 2017-4487(IT)G, 2017-4488(IT)G, 2017-4578(IT)G, 2017-4582(IT)G, 2017-4598(IT)G, 2017-4645(IT)G, 2017-4646(IT)G, 2017-4648(IT)G, 2017-4700(IT)G, 2017-4701(IT)G, 2017-4702(IT)G, 2017-4703(IT)G, 2017-4704(IT)G, 2018-1312(IT)G, 2018-1314(IT)G, 2018-1316(IT)G, 2018-1601(IT)G, 2018-1603(IT)G, 2018-1605(IT)G, 2018-1690(IT)G, 2018-1692(IT)G, 2018-1693(IT)G, 2018-1723(IT)G, 2018-1728(IT)G, 2018-1729(IT)G, 2018-193(IT)G, 2018-2343(IT)G, 2018-2344(IT)G, 2018-2345(IT)G, 2018-62(IT)G, 2018-63(IT)G, 2018-64(IT)G, 2018-66(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2018 CCI 228
+Date : 20181115
+Dossier : 2017-2072(IT)G
+ENTRE :
+4092325 INVESTMENTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-2073(IT)G
+ET ENTRE :
+6237312 INVESTMENTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-2322(IT)G
+ET ENTRE :
+ARII HOLDINGS (212) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-2329(IT)G
+ET ENTRE :
+ARII HOLDINGS (124) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2018-1312(IT)G
+ET ENTRE :
+2293443 HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2018-1314(IT)G
+ET ENTRE :
+2293443 HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2018-1316(IT)G
+ET ENTRE :
+2293443 HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS COMMUNS MODIFIÉS DE L’ORDONNANCE PROVISOIRE
+[Les présents motifs communs modifiés de l’ordonnance provisoire remplacent les motifs communs de l’ordonnance provisoire datés du 23 octobre 2018.]
+Le juge Smith
+[1] Les présents motifs font suite à une conférence sur la gestion de l’instance (« CGI ») tenue par téléconférence les 18 avril et 19 juin 2018 et à l’ordonnance provisoire rendue le 20 septembre 2018 (l’« ordonnance provisoire »).
+[2] Plus précisément, la présente affaire concerne un groupe d’appels appelés collectivement, quoique de façon informelle, le « groupe Abacus » (le « groupe »), qui est constitué d’au moins 52 appels (à la date des présents motifs) assujettis à la gestion de l’instance conformément au paragraphe 126(1) des Règles de la Cour canadienne de l’impôt (Procédure générale) (les « Règles »). Toutes les appelantes du groupe sont représentées par les mêmes avocats (les « avocats des appelantes »).
+[3] L’ordonnance provisoire prévoit qu’un certain nombre d’appels, sous réserve du pouvoir discrétionnaire du juge qui préside, seront entendus ensemble ou immédiatement l’un après l’autre et que les autres appels seront mis en suspens en attendant une décision définitive.
+[4] L’ordonnance provisoire enjoint également aux parties de présenter, au plus tard le 17 octobre 2018, une demande conjointe d’ordonnance fixant l’échéancier pour chaque appel. L’idée était de faire avancer l’instruction de chacun des appels représentatifs plus ou moins en parallèle pour que tout soit prêt à temps, avant la date de l’audience en tant que telle.
+Observations préliminaires
+[5] Lors de la première CGI, qui a eu lieu le 18 avril 2018, on a appris qu’il y avait environ 150 autres appels connexes qui en étaient encore à l’étape de l’opposition. Les avocats des appelantes ont demandé qu’il soit ordonné à l’Agence du revenu du Canada (l’« ARC ») de ne pas délivrer d’autres avis de confirmation qui mèneraient à des litiges supplémentaires devant la Cour. Ils ont fait valoir qu’il n’était pas nécessaire de le faire puisque les appels existants portaient sur des questions similaires.
+[6] La Cour a pris note de la position défendue par les avocats des appelantes, mais a refusé de rendre une telle ordonnance, invoquant l’absence de compétence pour ce faire.
+[7] Ensuite, l’intimée a demandé l’inclusion d’un certain nombre d’autres appels semble-t-il liés au groupe et a proposé que ces appels soient traités séparément. Le tableau suivant est tiré de la lettre de l’intimée du 30 avril 2018 :
+[traduction]
+Dossiers supplémentaires
+Dossiers du groupe d’appels Abacus actuel auxquels ils sont liés
+Paul Benninger (2016-4571(IT)G)
+Piyushy Patel (2016-4750(IT)G)
+ARII Holdings (124) Ltd. (2017-2329(IT)G)
+ARII Holdings (212) Ltd. (2017-2322(IT)G)
+David Herlihy Cooke (2017-5054(IT)G)
+James Allan Cooke (2017-5058(IT)G)
+Robert Stanley Cooke (2017-5055(IT)G)
+Jemstar Farms Ltd. (2015-5160(IT)G)
+Harvard Properties Inc. (2017-4387(IT)G)
+1489241 Alberta Ltd. (2017-4251(IT)G)
+[8] On a fait observer que ces [traduction] « dossiers supplémentaires » sont défendus par des avocats différents et que plusieurs sont rendus à des étapes ultérieures du processus judiciaire. Les avocats des appelantes se sont opposés à leur inclusion et, en fin de compte, la Cour a fait savoir qu’elle n’examinerait la question que dans le contexte d’une requête (avec envoi des avis nécessaires à toutes les parties concernées) demandant soit leur regroupement, soit une ordonnance selon laquelle les appels seraient entendus ensemble ou les uns après les autres. L’intimée n’a pas déposé de telle requête, et la question n’a donc pas été examinée jusqu’à maintenant.
+[9] Au terme de la CGI initiale, on a demandé aux parties de fournir une liste des appels au sein du groupe qui pourraient servir d’appels représentatifs ou de causes types.
+[10] Dans sa lettre du 30 avril 2018, l’intimée a fourni un tableau exposant les questions communes à tous les appels et a réitéré son désir de faire progresser certains appels et de déposer sa requête, comme il a été mentionné précédemment.
+[11] Dans sa lettre du 14 juin 2018, les avocats des appelantes ont fourni une analyse détaillée des points communs des divers appels et ont demandé que la Cour entende [traduction] « un des appels concernant 2293443 Holdings Ltd. » et que les autres appels soient suspendus en vertu de l’article 146.1 des Règles. Il a été précisé que les autres appelantes accepteraient d’être liées par la décision définitive.
+[12] La deuxième CGI a eu lieu le 19 juin 2018. Il y avait un désaccord évident quant à la meilleure façon de procéder. L’intimée a fait valoir que, bien qu’elle ait accepté d’aller de l’avant avec certains appels représentatifs, y compris les appels retenus par les avocats des appelantes, elle ne voulait pas que le régime prévu par l’article 146.1 s’applique. En d’autres termes, elle ne voulait pas être liée par l’issue des appels étant donné la complexité des appels, de la question de l’intention et de la règle générale anti-évitement.
+La règle des causes types
+[13] Comme il a été indiqué, les observations des avocats des appelantes sont contenues dans des lettres à la Cour datées du 14 juin 2018 et du 11 juillet 2018.
+[14] Dans un tableau semblable à celui de l’intimée, les avocats des appelantes établissent les points communs des appels, que je paraphraserais de la manière suivante :
+1) la déduction des pertes découlant des opérations de change et l’application de la règle générale anti-évitement;
+2) la déduction des créances irrécouvrables;
+3) la déduction des frais de gestion;
+4) 4.la déduction des pertes mentionnées ci-dessus, de manière prospective ou rétrospective;
+5) 5.l’établissement de cotisations au-delà de la période normale de cotisation;
+6) 6.les pénalités pour production tardive;
+7) 7.les pénalités pour faute lourde.
+[15] Les avocats des appelantes ont ensuite précisé que les points 1, 2 et 3 étaient les [traduction] « questions principales » et que les autres points étaient des [traduction] « questions secondaires ».
+[16] Se reportant au tableau mentionné ci-dessus, les avocats des appelantes soutiennent que [traduction] « les appels de 2293443 ont trait à des opérations qui ont eu lieu plus récemment », qu’ils portent sur toutes les [traduction] « questions principales » et par conséquent qu’ils [traduction] « comportent vraisemblablement le meilleur dossier de preuve pour les deux parties ». Dans leur lettre du 14 juin 2018 (p. 2), les avocats des appelantes ont fait l’observation suivante :
+[traduction]
+Dans la décision Mariano c. La Reine, la Cour a décidé que, conformément à l’article 146.1 des Règles, il convient de choisir une cause type susceptible d’avoir une « valeur jurisprudentielle importante, dans l’espoir que celle-ci permette de régler au moins la majorité des appels potentiels, sinon tous » et qu’une cause type devrait « représente[r] [...] le plus large groupe de causes similaires ». Pour les raisons qui suivent, l’un ou l’autre des appels de 2293443 est un choix idéal comme cause type, car il représenterait le plus large groupe de causes similaires.
+[17] Conformément à cette idée, les avocats des appelantes soutiennent dans leur lettre du 11 juillet 2018 qu’il ne serait pas logique d’entendre cinq autres appels sans avoir l’assurance que les parties acceptent d’être liées par l’issue, notant que [traduction] « toutes ces affaires sont assez complexes et pleines de subtilités », qu’il [traduction] « faudra vraisemblablement recourir à des témoins experts sur plusieurs points » et que « chaque procès pourrait durer jusqu’à quatre semaines, à un coût considérable ».
+[18] Les avocats des appelantes soutiennent que [traduction] « l’objet et l’esprit » de l’article 146.1 sont compatibles avec d’autres [traduction] « mesures visant à accélérer et à faciliter la résolution des différends », en permettant aux appelants dont les affaires soulèvent des questions communes d’être liés par l’issue de la cause type, ce qui [traduction] « empêche la multiplication des procédures, conclusions de fait et analyses juridiques redondantes ».
+[19] Les passages suivants sont tirés de la décision de notre Cour Mariano c. La Reine, 2016 CCI 161 (« Mariano ») :
+[53] Manifestement, le libellé de l’article 146.1 des Règles permet à la Cour d’émettre des directives selon lesquelles certains appels sont désignés comme causes types, alors que d’autres sont suspendus. L’esprit et l’objet de la disposition relative aux causes types sont évidents. La Cour, par le contrôle de sa procédure, peut recourir à cette disposition pour entendre des affaires sélectionnées vraisemblablement pour leur valeur jurisprudentielle importante, dans l’espoir que celle-ci permette de régler au moins la majorité des appels potentiels, sinon tous.
+[...]
+[56] En somme, les dispositions relatives aux causes types sont conçues pour profiter potentiellement ou concrètement à tous les intervenants intéressés : la Cour, la Couronne, les appelants et l’ensemble des contribuables.
+[20] Quant à la question de savoir si le consentement de l’intimée est nécessaire pour que la Cour puisse donner une directive en vertu du paragraphe 146.1(2), les avocats des appelantes soutiennent que cela ne peut être le cas puisque [traduction] « le consentement à être lié par une décision est donné exclusivement par le contribuable à la Cour, et l’intimée n’y joue aucun rôle », se fondant encore une fois sur Mariano :
+[36] L’article 146.1 des Règles ne lie ni le ministre du Revenu national (le « ministre ») ni le contribuable, si celui-ci n’accepte pas d’être lié par la décision d’une telle cause type, rendue en vertu dudit article des Règles.
+[...]
+[59] Toutefois, l’acceptation d’être lié qu’un appelant peut signer au moyen de la formule 146.1 des Règles ne constitue pas un accord bilatéral négocié entre un appelant et l’ARC ou le ministre de la Justice, au nom de celle-ci. L’intimée ne négocie ni ne commente, de quelque manière que ce soit, le contenu de cette formule ou le dépôt de celle-ci par un appelant. Seul un appelant, vraisemblablement après avoir obtenu l’avis de son avocat, peut décider de déposer la formule prévue à la disposition des Règles discutée précédemment, laquelle a été conçue par le Comité des règles de la Cour canadienne de l’impôt, aux termes de son pouvoir légal de créer et de modifier des règles, sous réserve de l’approbation du gouverneur en conseil seulement [...]
+[21] Les avocats des appelantes soutiennent en outre que le consentement de l’intimée n’est pas nécessaire puisque l’intimée est la même dans tous les appels, tandis que les appelantes se trouvent dans une situation différente en ce sens qu’elles peuvent accepter d’être liées par la cause type ou décider que l’instruction de leur affaire se poursuive au titre du paragraphe 146.1(4).
+[22] Les avocats des appelantes soutiennent de plus que la question de « l’intention » ou de « la règle générale anti-évitement » ne devrait pas empêcher le recours à l’article 146.1, puisque d’autres affaires assujetties à la règle faisaient intervenir l’« intention libérale », notamment Mariano et Markou c. La Reine, 2018 CCI 66, ou encore Simard c. La Reine, 2014-2554(IT)G (appel en instance), où il s’agit de [traduction] « déterminer si certaines coentreprises formées par les appelants étaient des trompe-l’oeil ». En d’autres termes, les avocats des appelantes soutiennent que les questions de l’intention ou de la règle générale anti-évitement ne font pas obstacle à l’application de l’article 146.1 des Règles.
+Analyse
+[23] Il n’est pas contesté qu’il est satisfait aux critères énoncés aux alinéas 146.1(1)a), b) et c) en l’espèce. Cependant, l’utilisation de l’expression « peut, par une directive » au paragraphe 146.1(2) montre clairement que la décision de donner ou non la « directive » est à la discrétion de la Cour.
+[24] La disposition ne dit certainement pas que la Cour « doit » donner une directive et, contrairement à la thèse défendue par les avocats des appelantes, le pouvoir discrétionnaire de la Cour ne peut être entravé par une interprétation large des Règles qui se fonderait sur l’article 4, qui est libellé ainsi :
+4(1) Les présentes règles doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse.
+[25] La Cour doit tenir compte des intérêts généraux de l’administration de la justice et déterminer, à la lumière de la nature des appels et des thèses défendues par les parties, si c’est la meilleure façon de procéder.
+[26] L’intimée s’oppose à l’utilisation de la règle des causes types et je suis d’avis qu’elle a le droit de le faire, tout comme les appelantes peuvent chacune le faire. Le paragraphe 146.1(3) dispose que « toute partie [...] qui accepte d’être liée » doit déposer la formule 146.1 auprès de la Cour, et le paragraphe 146.1(4) dispose que, « [d]ans le cas où une partie refuse d’être liée [...] par le jugement rendu dans la cause type », la Cour « donne une directive qui annule la suspension de l’appel ».
+[27] Le mot « partie » doit également inclure l’intimée. Il n’est pas important qu’elle soit la même partie dans tous les appels. Tout comme chacun des appelants d’un groupe peut refuser d’être lié par la cause type, de même l’intimée, en tant que « partie », peut décider de ne pas être liée dans certains ou la totalité des appels. Par exemple, l’intimée peut être d’avis que certains appels faisant partie d’un groupe sont suffisamment distincts pour qu’ils soient séparés et traités à part.
+[28] Il ressort clairement d’une lecture textuelle de la règle des causes types que, si l’intimée s’oppose à ce qu’une directive soit donnée, alors la Cour « annule la suspension » de tous les appels du groupe. Cette analyse est étayée par un examen de la formule 146.1, qui prévoit que la « partie » (ou « party » en anglais) doit être décrite par sa désignation. Si l’intention était que seuls les appelants (et leurs avocats, le cas échéant) soient tenus de signer la formule générique, la formule porterait la mention « L’appelant », suivie d’un espace pour son nom. Ce n’est pas le cas puisqu’on demande que la « partie » soit identifiée par sa désignation. Il s’agit ici de préciser s’il s’agit l’appelant ou de l’intimée.
+[29] Il se peut qu’au fil du temps soit apparue une pratique suivant laquelle l’intimée ne signe pas la formule 146.1 (et qu’à la connaissance des avocats des appelantes, il ne soit jamais arrivé que l’intimée l’ait fait), mais cela ne mène pas nécessairement à la conclusion que la formule n’a pas à être signée par l’intimée. À mon avis, cela montre simplement que, dans tous les précédents invoqués par les avocats des appelantes, il était entendu dès le début que l’intimée avait accepté l’application de la règle des causes types ou y avait consenti.
+[30] Les avocats des appelantes se fondent sur le paragraphe 59 de la décision Mariano, citée ci-dessus. Toutefois, un examen de cette décision montre que le juge Pizzitelli a formulé ces observations dans le contexte de l’adjudication de dépens dans une situation où l’appelant avait accepté d’être lié mais avait par la suite soutenu ne pas être lié parce qu’il n’y avait eu aucune négociation et ni contrepartie de la part de l’intimée.
+[31] Les observations du juge Pizzitelli jettent un peu de lumière sur la nature du consentement à être lié, mais il ne faudrait pas en déduire que l’intimée n’a aucun rôle à jouer dans le processus. Ce n’est tout simplement pas le cas.
+[32] Pour ce qui est du contexte et de l’objet de la règle des causes types, il ne faut pas oublier qu’elle a été créée principalement pour les stratagèmes fiscaux de masse, y compris les stratagèmes de dons de bienfaisance, où la portée des questions factuelles et juridiques est assez restreinte. Elle a été conçue comme un mécanisme permettant à la Cour de gérer ce qui serait sinon un déluge d’appels (Mariano comptait plus de 20 000 appels). Dans les appels collectifs de ce genre, y compris ceux cités par les avocats des appelantes, l’intimée était un participant consentant.
+[33] Si la conséquence logique de la décision de l’intimée de ne pas consentir à l’application de la règle des causes types est qu’on « annule la suspension » de tous les appels du groupe, alors, du point de vue de la gestion de l’instance, ce n’est pas un résultat très satisfaisant. La Cour doit, dans l’exercice de son pouvoir discrétionnaire, chercher une autre solution réalisable.
+[34] J’ai fait part de mon point de vue selon lequel la règle des causes types ne convient pas en l’espèce. J’ajouterai qu’il serait très surprenant qu’un groupe d’appelants ayant pris part à des transactions commerciales complexes puisse imposer la règle des causes types à l’intimée alors que cette dernière estime qu’il n’est pas judicieux de l’appliquer.
+[35] Il n’est pas nécessaire de déterminer si l’intimée peut unilatéralement s’opposer à une directive donnée en vertu du paragraphe 146.1(2). Je suis d’accord avec l’intimée pour dire qu’en l’espèce, il ne convient pas d’appliquer la règle des causes types, et j’exerce mon pouvoir discrétionnaire en tant que juge responsable de la gestion de l’instance pour ne pas adopter ce processus.
+[36] Dans leur lettre du 11 juillet 2018, les avocats des appelantes soutiennent que toutes les affaires du groupe sont [traduction] « assez complexes et pleines de subtilités ». Je souscris à cette évaluation et, pour ce seul motif, je refuse d’appliquer la règle des causes types.
+[37] L’ordonnance provisoire prévoit que certains appels doivent être entendus ensemble ou l’un immédiatement après l’autre par le même juge. Cela uniformisera l’analyse des faits et des questions dans toutes leurs nuances et garantira que toutes les appelantes, y compris celles dont l’appel est en suspens, tirent parti du processus. En particulier, il évitera ce que les avocats des appelantes ont appelé [traduction] « le risque accru de jugements contradictoires et le scandale que cela provoquerait ».
+[38] Retenir plusieurs appels représentatifs au sein d’un groupe plus vaste n’est pas une procédure inhabituelle. Elle a été utilisée à maintes reprises par notre Cour, et le cadre de base en est énoncé aux alinéas 26c) et d) et à l’article 27 des Règles.
+[39] Les avocats des appelantes soutiennent que chaque appel [traduction] « pourrait durer jusqu’à quatre semaines, à un coût considérable ». C’est peut-être vrai, mais on s’attend à ce que les parties et leurs avocats cherchent des gains d’efficacité dans la procédure. Il n’y a pas de bonne raison, par exemple, pour qu’un expert témoigne plus d’une fois. Les exposés partiels ou conjoints des faits, les avis de demande d’admission, etc., sont des outils qui devront être utilisés pour réduire les coûts. La réduction des coûts dépendra en grande partie de la volonté des parties de rationaliser et de simplifier la procédure.
+[40] Selon la marche à suivre proposée dans l’ordonnance provisoire, un certain nombre d’appels représentatifs seront entendus ensemble ou l’un après l’autre par le même juge, sous réserve du pouvoir discrétionnaire de ce dernier d’ordonner le contraire.
+[41] En conclusion, la Cour a toute discrétion pour donner ou non une directive en vertu du paragraphe 146.1(2). C’est le cas même si les critères énoncés aux alinéas 146.1(1)a), b) et c) étaient respectés et que l’intimée donnait son consentement.
+Sélection des appels représentatifs
+[42] Je souscris aux observations de l’avocat des appelantes, citant la décision Mariano, selon lesquelles les affaires représentatives devraient être sélectionnées « vraisemblablement pour leur valeur jurisprudentielle importante, dans l’espoir que celle-ci permette de régler au moins la majorité des appels potentiels, sinon tous » et devraient « représente[r] [...] le plus large groupe de causes similaires ».
+[43] Il a aussi été écrit dans la décision Mariano que la sélection des causes représentatives ne se fait pas sans égard au contexte. Les parties doivent présenter des observations et faire de leur mieux. En fait, c’est ce que les avocats des appelantes ont tenté de faire en recommandant un des trois appels concernant 2293443 Holdings Inc. L’intimée ne s’oppose pas à ce choix et la Cour est disposée à faire preuve d’une certaine retenue à l’égard du consentement des parties.
+[44] Cependant, il est difficile de comprendre comment un seul appel qui ne porte pas sur toutes les questions communes définies par les avocats des appelantes aurait une « valeur jurisprudentielle importante » dans un groupe comptant déjà 52 appels, auxquels pourraient s’ajouter 150 autres appels qui sont à l’étape de l’opposition. Cette analyse est, au mieux, peu convaincante et simpliste.
+[45] Dans l’exercice de son pouvoir discrétionnaire, la Cour doit tenir compte des intérêts plus vastes de l’administration de la justice, ce qui suppose vraisemblablement qu’il faudra ratisser beaucoup plus large.
+[46] Je suis d’avis que la Cour devrait en fin de compte examiner plusieurs appels dont les faits sont semblables, sans être identiques. De cette façon, les questions seront plus substantielles et déboucheront sur une décision ayant une « valeur jurisprudentielle importante ».
+[47] En l’espèce, la consultation s’est échelonnée sur plusieurs mois, et je souligne que les parties ont été incapables de s’entendre. Néanmoins, la Cour doit soupeser les observations formulées en gardant à l’esprit qu’il n’appartient pas au juge responsable de la gestion de l’instance de microgérer le déroulement de l’instance et d’analyser tous les appels afin de déterminer lesquels devraient être entendus à titre d’appels représentatifs ou de causes types.
+[48] En l’espèce, l’ordonnance provisoire concerne l’appel recommandé par les avocats des appelantes ainsi que d’autres appels recommandés par l’intimée.
+[49] La Cour était convaincue, lorsqu’elle a rendu l’ordonnance provisoire, que les appels représentatifs comprenaient un échantillon représentatif des « questions principales » et des « questions secondaires », comme les ont appelées les avocats des appelantes.
+[50] Si l’objectif avait été de faire un choix arbitraire, la Cour aurait pu le faire. En fait, plusieurs appels, y compris ceux de Jemstar Farms Limited, LSGP Holdings Ltd., United Diamond Amalco Ltd. et Montella Polar Acquisitions Ltd., semblent porter sur la plupart sinon la totalité des questions communes. La difficulté pour la Cour, c’est que les avocats, pour des raisons connues d’eux, n’ont pas proposé que l’un ou l’autre de ces appels soit entendu en tant que cause représentative ou cause type.
+[51] Je termine en faisant observer que l’ordonnance provisoire faisait clairement savoir que des motifs concernant les articles 26 et 146.1 des Règles suivraient en temps opportun. Il était implicite qu’il serait question de la sélection des causes représentatives.
+[52] À ce jour, les appelantes ont interjeté appel de l’ordonnance provisoire. Les présents motifs sont communiqués pour compléter le dossier de la Cour et pour assurer le respect du processus d’appel.
+[53] Les présents motifs d’ordonnance provisoire s’appliquent à tous les appels énumérés à l’annexe A.
+Signé à Ottawa, Canada, ce 15e jour de novembre 2018.
+« Guy Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 10e jour d’octobre 2019.
+Elisabeth Ross, jurilinguiste « ANNEXE A »
+Nº de dossier de la Cour :
+Appelante
+2015-5160(IT)G
+Jemstar Farms Limited
+2017-3306(IT)G
+Freeway Amalco Ltd.
+2017-3307(IT)G
+Freeway Amalco Ltd.
+2017-3443(IT)G
+United Diamond Amalco Ltd.
+2017-3897(IT)G
+United Diamond Amalco Ltd.
+2017-3905(IT)G
+United Diamond Amalco Ltd.
+2017-3906(IT)G
+United Diamond Amalco Ltd.
+2017-3907(IT)G
+United Diamond Amalco Ltd.
+2017-3908(IT)G
+Burlington Retail Power Centre (South) Amalco Ltd.
+2017-4251(IT)G
+1489241 Alberta Ltd.
+2017-4255(IT)G
+United Diamond Amalco Ltd.
+2017-4269(IT)G
+Rusmar Triple A Acquisitions Ltd.
+2017-4457(IT)G
+1489241 Alberta Ltd.
+2017-4458(IT)G
+1489241 Alberta Ltd.
+2017-448(IT)G
+LSGP Holdings Ltd.
+2017-4487(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4488(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4578(IT)G
+United Diamond Amalco Ltd.
+2017-4582(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4598(IT)G
+United Diamond Amalco Ltd.
+2017-4645(IT)G
+0702995 British Columbia Ltd.
+2017-4646(IT)G
+Cordova Residential Property Inc.
+2017-4648(IT)G
+JNLMP Holdings Ltd.
+2017-4700(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4701(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4702(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4703(IT)G
+Mantella Polar Acquisitions Ltd.
+2017-4704(IT)G
+Mantella Polar Acquisitions Ltd.
+2018-1601(IT)G
+Fort Nelson 8 Ltd
+2018-1603(IT)G
+Fort Nelson 8 Ltd
+2018-1605(IT)G
+Fort Nelson 8 Ltd
+2018-1690(IT)G
+Pomacq Holdings Subco (1092743) Ltd.
+2018-1692(IT)G
+Pomacq Holdings Subco (1092743) Ltd.
+2018-1693(IT)G
+Pomacq Holdings Subco (1092743) Ltd.
+2018-1723(IT)G
+High Level 8 Motel Ltd.
+2018-1728(IT)G
+High Level 8 Motel Ltd.
+2018-1729(IT)G
+High Level 8 Motel Ltd.
+2018-193(IT)G
+1489241 Alberta Ltd.
+2018-62(IT)G
+Mantella Polar Acquisitions Ltd.
+2018-63(IT)G
+Mantella Polar Acquisitions Ltd.
+2018-64(IT)G
+Mantella Polar Acquisitions Ltd.
+2018-66(IT)G
+Mantella Polar Acquisitions Ltd.
+2018-2343(IT)G
+Pomacq Holdings Subco (951381) Ltd.
+2018-2344(IT)G
+Pomacq Holdings Subco (951381) Ltd.
+2018-2345(IT)G
+Pomacq Holdings Subco (951381) Ltd.
+RÉFÉRENCE :
+2018 TCC 228
+No DU DOSSIER DE LA COUR :
+2017-2072(IT)G et autres
+INTITULÉ :
+4092325 INVESTMENTS LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE LA CONFÉRENCE TÉLÉPHONIQUE SUR LA GESTION DE L’INSTANCE :
+Les 18 avril 2018 et 19 juin 2018
+DATE DE L’ORDONNANCE PROVISOIRE :
+Le 20 septembre 2018
+MOTIFS COMMUNS MODIFIÉS DE L’ORDONNANCE PROVISOIRE :
+L’honorable juge Guy R. Smith
+DATE DES MOTIFS COMMUNS MODIFIÉS DE L’ORDONNANCE PROVISOIRE :
+Le 15 novembre 2018
+COMPARUTIONS :
+Avocats de l’appelante :
+Guy Du Pont, Ad. E.
+Anne-Sophie Villeneuve
+Dov Whitman
+Avocates de l’intimée :
+Natalie Goulard
+Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Guy Du Pont, Ad. E.
+Anne-Sophie Villeneuve
+Dov Whitman
+Cabinet :
+Davies
+Montréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,338 @@
+---
+title: "Otis Croteau c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22794/index.do"
+last_modified: "2005-02-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 54"
+citation2: ""
+neutral_citation: "2005 CCI 54"
+decision_date: "2005-02-11"
+language: "fr"
+item_id: "22794"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2241
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:15:42.416000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "992269d4d0a424527b9bf699eca907306499edba71753427fa1dde3c445588bc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Otis Croteau c. M.R.N.
+
+- Citation: 2005 CCI 54
+- Decision date: 2005-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2241, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Otis Croteau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-11
+Référence neutre
+2005 CCI 54
+Numéro de dossier
+2003-3108(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-3108(EI)
+ENTRE :
+FRANCINE OTIS CROTEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+NOUBACO INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 2 septembre 2004, à Matane (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Yannick Croteau
+Avocate de l'intimé :
+Me Marie-Claude Landry
+Représentant de l'intervenante :
+Serge Croteau
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté au motif que le travail exécuté par l'appelante lors de la période en litige est exclu des emplois assurables, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de février 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI54
+Date : 20050211
+Dossier : 2003-3108(EI)
+ENTRE :
+FRANCINE OTIS CROTEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+NOUBACO INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une décision datée du 17 juin 2003.
+[2] Aux termes de la décision contestée par le présent appel, le travail exécuté par l'appelante pour le compte et le bénéfice de « Noubaco inc. » , société dirigée et contrôlée par son conjoint, a été déterminé non assurable en vertu de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » )
+[3] Les périodes visées par la détermination sont les suivantes :
+du 11 septembre 1995 au 13 janvier 1996,
+du 11 février 1996 au 4 janvier 1997,
+du 9 février 1997 au 2 janvier 1998,
+du 2 février au 31 décembre 1998,
+du 21 février au 30 décembre 1999,
+du 28 février au 30 décembre 2000,
+du 5 mars 2001 au 4 janvier 2002.
+[4] La société Noubaco inc., dirigée et contrôlée par le conjoint de l'appelante a manifesté son intérêt dans le dossier par un avis d'intervention.
+[5] L'alinéa 5(2)i) de la Loi prévoit qu'un emploi est exclu des emplois assurables lorsque le travail est exécuté par une personne qui a un lien de dépendance avec son employeur.
+[6] Le paragraphe 5(3) prévoit cependant que l'exclusion ne s'applique pas si les faits, les circonstances et les modalités entourant l'exécution du travail sont comparables ou similaires à ce qui aurait pu exister dans une situation semblable si les parties au contrat de travail n'avaient pas eu de lien de dépendance entre elles.
+[7] L'alinéa 5(2)i) et le paragraphe 5(3) de la Loi se lisent comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[8] Pour expliquer et soutenir sa décision, le ministre du Revenu national (le « ministre » ) a présenté une très longue liste d'hypothèses de fait. Il s'agit des faits suivants :
+a) le payeur a été constitué en société le 18 août 1987; (admis)
+b) le payeur faisait affaires sous la raison sociale de « Boutique Franse Monde Enr. » ; (admis)
+c) durant les périodes en litige, l'actionnaire unique du payeur était Serge Croteau; (admis)
+d) l'appelante est la conjointe de Serge Croteau; (admis)
+e) le payeur exploitait un commerce de vêtements pour dame et un comptoir Sears de vente par catalogue dans la ville de Price, près de Mont-Joli; (admis)
+f) les heures d'ouverture du commerce étaient du lundi au mercredi de 9 h 30 à 17 h 30, le jeudi de 9 h 30 à 18 h 00, le vendredi de 9 h 30 à 21 h 00 et le samedi de 9 h 30 à 17 h 00, soit 51 h 30 par semaine; (admis)
+g) le chiffre d'affaires annuel du payeur variait de 150 000 $ à 162 000 $ auquel s'ajoutaient les commissions sur ventes versées par Sears qui variaient de 11 000 $ à 14 000 $ par année; (admis)
+h) l'appelante était engagée comme commis vendeuse; (admis)
+i) les tâches de l'appelante consistaient à faire la vente sur le plancher, à donner suite aux commandes par catalogue, à faire les commissions pour le commerce, à faire les dépôts bancaires, à concilier les comptes de Sears, à refaire les vitrines du commerce aux deux semaines, à faire les achats pour le commerce à Québec et à Rimouski; (admis)
+j) à chaque année, l'appelante était inscrite au journal des salaires du payeur 36 heures par semaine pour les mois de septembre à décembre; (admis)
+k) à chaque année, l'appelante apparaissait au journal des salaires du payeur pour le restant de l'année avec des semaines de 3 heures, de 5 heures ou de 10 heures sauf pour quelques semaines où elle n'était pas inscrite; (admis)
+l) le chiffre d'affaires du payeur était aussi important au cours des mois d'avril à juin qu'au cours des mois de septembre à décembre; (admis)
+m) les périodes d'emploi à temps plein de l'appelante ne correspondaient pas avec les mois les plus achalandées du payeur; (nié)
+n) il est déraisonnable de croire que le volume de travail de l'appelante était différent au printemps que le volume de travail à l'automne; (nié)
+o) les achats à Rimouski se faisait le dimanche, tâche que l'appelante accomplissait bénévolement; (nié)
+p) l'appelante effectuait les dépôts bancaires à Mont-Joli aux deux jours sans recevoir de rémunération pour cette tâche; (nié)
+q) l'appelante travaillait des heures sans rémunération déclarée; (nié)
+r) le journal des salaires du payeur ne reflétaient pas les heures réellement travaillées par l'appelante; (nié)
+s) l'appelante était inscrite au journal des salaires au taux du salaire minimum; (admis)
+t) l'appelante était rémunérée par chèque aux deux semaines; (nié)
+u) l'appelante déposait sa rémunération au compte bancaire du payeur; (nié)
+v) le 10 décembre 2002, dans sa seconde déclaration signée à Développement Ressources Humaines Canada, l'appelante déclarait que : « je signais mes chèques de paye et qu'ils étaient redéposés dans le compte car mon mari me payait en argent quand il pouvait » ;
+w) l'appelante prenait des avances de 100 $ dans la caisse lorsque le payeur avait assez de liquidités;
+x) le 11 juin 2002, dans sa première déclaration signée à Développement Ressources Humaines Canada, l'appelante déclarait que : « il arrive qu'il y a du retard dans mes paies car les achats pour le commerce sont payés avant moi car il y a des périodes où il y a un manque de liquidités » ;
+y) le 11 juin 2002, dans sa première déclaration signée à Développement Ressources Humaines Canada, l'appelante déclarait que : « si je ne recevais pas de chômage, le commerce n'aurait pas le moyen de me payer » ;
+z) le 11 juin 2002, dans sa première déclaration signée à Développement Ressources Humaines Canada, l'appelante déclarait que : « je ne ferais pas ça pour un autre employeur mais si je le fais parce que c'est notre commerce » ;
+aa) les services rendus par l'appelante étaient nécessaires et importants pour le payeur et ce à l'année longue; (nié)
+bb) le 15 janvier 1996, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 11 septembre 1996 et comme dernier jour de travail le 13 janvier 1996, et qui indiquait 18 semaines assurables et une rémunération totale de 4 212 $; (admis)
+cc) le 9 janvier 1997, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 11 février 1995 et comme dernier jour de travail le 4 janvier 1997, et qui indiquait 36 heures assurables et une rémunération totale de 3 507 $; (admis)
+dd) le 6 janvier 1998, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 9 février 1997 et comme dernier jour de travail le 2 janvier 1998, et qui indiquait 808 heures assurables et une rémunération totale de 5 038 $; (admis)
+ee) le 6 janvier 1999, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 2 février 1998 et comme dernier jour de travail le 31 décembre 1998, et qui indiquait 590 heures assurables et une rémunération totale de 3 572 $; (admis)
+ff) à une date indéterminée, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 21 février 1999 et comme dernier jour de travail le 30 décembre 1999, et qui indiquait 713 heures assurables et une rémunération totale de 4 452 $; (admis)
+gg) le 5 janvier 2001, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 28 février 2000 et comme dernier jour de travail le 30 décembre 2000, et qui indiquait 778 heures assurables et une rémunération totale de 5 446 $; (admis)
+hh) le 8 janvier 2002, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le (non précisé) mars 2001 et comme dernier jour de travail le 4 janvier 2002, et qui indiquait 778 heures assurables et une rémunération totale de 4 886 $; (admis)
+ii) les relevés d'emploi de l'appelante ne sont pas conformes à la réalité quant aux heures ni quant à la rémunération versée à l'appelante. (nié)
+[9] Les alinéas a), b), c), d), e), f), g), h), i), j), k), l), s), bb), cc) (corrigé), dd), ee), ff), gg) et hh) au paragraphe 5 de la Réponse à l'avis d'appel ont été admis. Les alinéas m), n), o), p), q), r), t), u), aa) et ii) ont été niés. Quant aux autres, soit v), w), x), y) et z), ils furent ni admis, ni niés, le représentant de l'appelante et de l'intervenante ayant indiqué qu'ils en prenaient acte.
+[10] Pour relever le fardeau de la preuve qui incombait à l'appelante, le représentant de l'appelante a fait témoigner l'appelante et le représentant de l'intervenante, ainsi que le comptable responsable de la comptabilité personnelle de l'appelante et de son conjoint et de celle de la société.
+[11] Dans un premier temps, madame Francine Otis Croteau, l'appelante, a expliqué les origines du commerce; elle a décrit les circonstances entourant son acquisition au début des années 1980. Elle a beaucoup insisté sur le fait qu'elle n'était pas rémunérée lors des divers voyages nécessaires pour faire les achats.
+[12] Pour justifier la gratuité de ses services, elle a affirmé qu'il en était ainsi dans le cas des anciens propriétaires et que, de toute façon, c'était très intéressant comme expérience et que ses dépenses étaient payées. En résumé, selon elle, cela n'était pas tout à fait du travail; de toute façon, a-t-elle affirmé, cela ne faisait pas partie de sa description de tâches.
+[13] Par la suite, elle a indiqué qu'au fil des ans, sa charge de travail avait augmenté considérablement et, ensuite, diminué à cause d'importants changements effectués par la société Sears, avec laquelle l'intervenante était associée pour l'exploitation d'un comptoir de vente de produits par catalogue.
+[14] Moyennant une commission modifiée à la baisse pendant les périodes en litige, l'entreprise prenait les commandes, voyait à faire venir les achats et communiquait avec les clients afin qu'ils viennent prendre possession de leur marchandise livrée par la société Sears aux locaux de l'intervenante.
+[15] Si le client n'était pas satisfait, il pouvait retourner le tout. Pour toutes les opérations, l'intervenante ne recevait une commission que sur les ventes définitives, c'est-à-dire qu'elle n'avait droit à rien si la marchandise lui était retournée.
+[16] L'appelante a également expliqué ses rapports avec l'intervenante, à savoir qu'au début, elle ne recevait pas de salaire. Elle a commencé à recevoir un salaire quand le législateur a prévu qu'une personne pouvait travailler pour une personne avec qui elle avait un lien de dépendance et avoir droit à des prestations d'assurance-emploi si elle perdait son emploi et répondait à certaines conditions réglementaires.
+[17] Suivant les conseils du comptable et après vérification auprès des autorités, l'intervenante a alors payé les cotisations requises, étant donné qu'il s'agissait d'un véritable contrat de louage de services selon les intervenants consultés.
+[18] Au cours de leur témoignage, l'appelante et son conjoint ont très souvent mentionné qu'il s'agissait d'un petit commerce dont les règles de fonctionnement n'étaient absolument pas comparables à ce qui se passait dans les grands centres urbains.
+[19] Ces précisions s'imposaient compte tenu de la particularité fort importante du dossier, à savoir qu'au cours de toutes les périodes en litige, le travail exécuté par l'appelante avait lieu essentiellement durant la période de septembre à décembre. En dehors de cette période, son travail était de peu d'importance, au point qu'elle réclamait et obtenait des prestations d'assurance-emploi à la suite de sa mise à pied pour manque de travail.
+[20] Il a également été beaucoup question des modalités de paiement du salaire; l'intimé a mis en doute la réalité du paiement de la rémunération. L'intervenante et l'appelante ont soumis diverses versions; malgré les nombreuses explications, cette question est demeurée nébuleuse.
+[21] L'appelante et son conjoint ont soumis des explications quant aux différentes versions des faits données lors de l'enquête. Une évidence a été établie : l'appelante n'a pas reçu de façon régulière et continue le paiement de la rémunération indiquée aux relevés d'emploi.
+[22] Soutenant d'entrée de jeu que les versions retenues lors de l'étude du dossier n'étaient pas conformes à ce qu'ils avaient dit, l'appelante, en particulier, a fourni plusieurs explications allant de l'incompréhension des questions à une mauvaise interprétation de ses réponses en passant par l'inconfort, le harcèlement et l'intimidation. Chose étonnante, j'ai constaté des changements dans ses propres explications même pendant son témoignage devant le tribunal.
+[23] Après avoir affirmé solennellement qu'elle recevait sa paye de façon régulière en espèces et non par chèque, ce qui constituait essentiellement un procédé comptable, elle a, par la suite, indiqué qu'elle retirait de l'argent de la caisse pour pouvoir assumer les dépenses dont elle était responsable pour la famille.
+[24] Sur cette question de la rémunération, le témoignage de son conjoint, à titre d'intervenant, n'a non seulement rien précisé, il a plutôt contribué à rendre la question encore plus nébuleuse.
+[25] L'absence de cohérence relative aux chèques de paye a fait dire au conjoint de l'appelante, et je cite : « Est-ce qu'un paiement en argent est illégal? » La réponse est évidemment non; par contre, il y a matière à interrogation lorsque les prétentions premières étaient à l'effet que les chèques prouvaient le paiement et la réception du salaire.
+[26] De façon générale, l'appelante et son conjoint, à titre de représentant de l'intervenante, ont apporté et soumis toutes sortes d'explications ambiguës, confuses et incohérentes et, à l'occasion, tout à fait contradictoires pour soutenir leurs prétentions fondamentales, à savoir que l'appelante avait été rémunérée et qu'elle n'avait pas, ou très peu, travaillé de janvier à septembre au cours des années en litige.
+[27] Le seul élément qu'ils ont fait ressortir comme étant manifestement une erreur dans la cueillette des données prises en compte lors du traitement de leur dossier a été la question de l'endroit où étaient effectués les dépôts du commerce.
+[28] L'intimé soutient qu'ils étaient faits à l'extérieur de la petite communauté où était situé le commerce, alors que la preuve non contredite a démontré qu'ils se faisaient au comptoir ou à la caisse populaire dans la municipalité de Price. Il s'agit là d'un fait de peu d'importance. La preuve a d'ailleurs établi qu'il s'agissait d'un élément n'ayant eu aucune incidence sur la décision du ministre, puisque la différence entre les deux versions se situait au niveau du temps nécessaire pour se rendre à l'une ou l'autre des institutions.
+[29] Le comptable de l'entreprise, monsieur Francis Deschênes, a aussi témoigné. Après l'intervention de la Cour pour que son témoignage porte sur des aspects pertinents, il a affirmé qu'au fil des ans, le chiffre d'affaires du commerce n'avait pas beaucoup varié; il était constant et sensiblement toujours le même.
+[30] Quant à la ventilation du chiffre d'affaires selon les mois et les différentes saisons, il a indiqué avoir fait l'exercice et constaté que la période allant de septembre à décembre représentait 44 % du volume annuel des affaires, la période d'avril à juin représentait 25 %, et l'autre période, soit janvier, février, mars, juillet et août, représentait 31 %.
+[31] À l'appui de la décision du ministre, l'intimé a fait témoigner monsieur Jean-Luc Gauthier, enquêteur, ainsi que madame Louise Dessureault, agent des appels. Il a alors été question des deux déclarations statutaires de l'appelante (pièces A-5 et A-6) et tout particulièrement des extraits suivants :
+Déclaration statutaire à la Commission - le 11 juin 2002 (pièce A-5)
+[...]
+Francine Otis Croteau
+[...] Je suis payé au salaire minimum par chèque à la quinzaine. Sauf qu'il arrive qu'il y a du retard dans mes paies car les achats pour le commerce sont payés avant moi car il y a des périodes où il y a un manque de liquidité. Serge peut me faire une série de chèques qui sont datés à la quinzaine comme il doit les rentrer dans le livre de paie sauf qu'il me dit quand les encaissés c'est-à-dire lorsqu'il y a des fonds pour me payer c'est pourquoi il arrive que je n'encaisse pas mes chèques de paie immédiatement après les avoir reçus. Parce que sinon l'entreprise aurait des difficultés car il y a des périodes que je ne pourrais être payé faute de manque de fonds. Ceci aide à faire vivre notre commerce. Ça peut arriver que ça prenne 2 mois avant de pouvoir être payé. C'est sûr que si je travaillerais pour un autre employeur je ne pourrais pas accepter ces conditions.
+[...]
+Avant d'avoir droit au chômage, je travaillais au commerce selon les besoins et selon ma disponibilité sans être payé car le commerce en avait pas les moyens. J'étais comme collaboratrice à l'entreprise familiale. Si je ne recevais pas de chômage le commerce n'aurait pas le moyen de me payer ça serait comme avant que j'aie droit au chômage. Je ne ferais pas ça pour un autre employeur mais je le fais parce que c'est notre commerce et sinon on arriverait pas.
+[...]
+Déclaration statutaire à la Commission - le 16 décembre 2002 (pièce A-6)
+[...] Je sais que je signais mes chèques de paye et qu'ils étaient redéposées dans le compte car mon mari me payait en argent quand il pouvait. Nous voulions éviter d'être sur la marge de crédit car il y a des fais, mon mari me donnait de l'argent quand j'en avais besoin pour payer les dépenses telles l'épicerie et l'essence de l'auto et ça pouvait être 100 $ ou 200 $ à la fois. [...]
+[32] Ils ont fait état du climat, du contexte et des circonstances lors de leurs rencontres et des communications téléphoniques. Ils ont fourni de nombreux détails à l'effet que l'appelante et son conjoint avaient pleinement collaboré lors de leur enquête. Ils ont répondu à toutes les questions, fourni les documents et signé sans problème les deux déclarations statutaires dans le cas de l'appelante.
+[33] Toutes les informations obtenues et les documents comptables consultés ont permis à l'intimé de faire des constats d'une grande évidence. L'évidence a d'ailleurs été reproduite au moyen de tableaux ne laissant aucune équivoque quant à l'invraisemblance des prétentions de l'appelante et de son conjoint lors de l'audition et cela, tant au sujet de la rémunération qu'au sujet des périodes d'emploi.
+[34] Je fais notamment référence à certains faits incontestables et révélateurs indiqués dans le rapport préparé par madame Louise Dessureault (pièce I-2) :
+[...]
+40. Période d'emploi de 1995 : Francine Croteau est inscrite au livre des salaires du payeur pour 36 heures de travail par semaine, du 11 septembre 1995 au 13 janvier 1996, totalisant 18 semaines à plein temps. Au cours de cette période les ventes mensuelles fluctuent de, 12 943 $ (novembre 95) à 20 331 $ (septembre 95) et 7 137 $ en janvier 1996. (Onglets Tableaux i).
+41. Du 12 mars 1995 au 9 septembre 1995, l'appelante est inscrite au livre des salaires de 5 à 6 heures par semaine. Les ventes du payeur totalisent 13 887 $ en avril 95, 17 980 $ en mai 95 et 14 933 $ en juin 1995.
+42. Période d'emploi de 1996 : Francine Croteau est inscrite au livre des salaires du payeur pour 36 heures de travail par semaine, du 8 septembre 1996 au 11 janvier 1997, totalisant 18 semaines à plein temps. Au cours de cette période, les ventes mensuelles fluctuent de 11 945 $ (novembre 96) à 22 212 $ (septembre 96) et 9 842 $ en janvier 1997. (Onglets Tableaux i).
+43. Du 11 février 1996 au 7 septembre 1996, l'appelante est inscrite au livre des salaires de 5 à 10 heures par semaine. Les ventes du payeur totalisent 14 877 $ en avril 96, 16 925 $ en mai 96 et 15 203 $ en juin 1996.
+44. Période d'emploi de 1997 : Francine Croteau est inscrite au livre des salaires du payeur pour 36 heures de travail par semaine, du 7 septembre 1997 au 2 janvier 1998, totalisant 17 semaines à plein temps. Au cours de cette période, les ventes mensuelles fluctuent de 12 145 $ (novembre 97) à 19 248 $ (septembre 97) et 17 040 $ en décembre 1997. (Onglets Tableaux i).
+45. Du 9 février 1997 au 6 septembre 1997, l'appelante est inscrite au livre des salaires de 3 à 10 heures par semaine. Les ventes du payeur totalisent 17 561 $ en avril 97, 15 402 $ en mai 97 et 15 232 $ en juin 1997.
+46. L'appelante est rémunérée mensuellement. Sa rémunération de février et mars 1997 est redéposée au compte bancaire du payeur le 14 avril 1997, sa rémunération de juin et de juillet et de septembre 1997 est redéposée au compte bancaire du payeur le 7 novembre 1997.
+47. La période du 7 septembre 1997 au 27 septembre 1997 totalise 3 semaines de 36 heures pour un total de 108 heures, alors que le livre des salaires rapporte 144 heures, montant transcrit au relevé d'emploi.
+48. Période d'emploi de 1998 : Francine Croteau est inscrite au livre des salaires du payeur pour 36 heures de travail par semaine, du 4 octobre 1998 au 31 décembre 1998, totalisant 13 semaines à plein temps. Au cours de cette période, les ventes mensuelles fluctuent de 14 078 $ (octobre 98) à 13 449 $ (novembre 98) et 17 025 $ en décembre 1998. Au cours de cette période les commissions sur vente de Sears fluctuent de 849 $ (décembre 1998) à 1 397 $ (novembre 1998) (Onglets Tableaux i).
+49. Du 2 février 1998 au 3 octobre 1998, l'appelante est inscrite au livre des salaires de 3 à 5 heures par semaine. Les ventes du payeur totalisent 15 2445 $ [sic] en avril 98, 19 792 $ en mai 98, 15 941 $ en septembre 1997.
+50. L'appelante est rémunérée mensuellement. Sa rémunération d'avril 1998 est redéposée au compte bancaire du payeur le 6 mai 1998, sa rémunération de mai 1998 est redéposée au compte bancaire du payeur le 4 juin 1998, celle de juillet 1998 est redéposée au compte bancaire du payeur le 7 août 1998, celle de novembre 1998 est redéposée au compte bancaire du payeur le 9 décembre 1998 et celle de [...] décembre 1998 est redéposée au compte bancaire du payeur le 9 avril 1999.
+51. Période d'emploi de 1999 : Francine Croteau est inscrite au livre des salaires du payeur pour 36 heures de travail par semaine, du 12 septembre 1999 au 30 décembre 1999, totalisant 16 semaines à plein temps. Au cours de cette période, les ventes mensuelles fluctuent de 16 250 $ (septembre 99) à 13 614 $ (novembre 99) et 20 198 $ en décembre 1999. Les commissions sur vente de Sears fluctuent de 972 $ (septembre 1999) à 1 034 $ (novembre 1999) (Onglets Tableaux i).
+52. Du 21 février 1999 au 11 septembre 1999, l'appelante est inscrite au livre des salaires de 3 à 5 heures par semaine. Les ventes du payeur totalisent 15 815 $ en avril 1999, 24 911 $ en mai 1999, 14 537 $ en juillet 1999. Les commissions sur vente de Sears fluctuent de 1 123 $ (avril 1999) à 997 $ (mai 1999) et de 3 981 $ en juin 1999.
+53. L'appelante est rémunérée à la quinzaine. Sa rémunération de février et mars 1999 est redéposée au compte bancaire du payeur le 14 avril 1999, sa rémunération de mi août et mi-septembre 1999 est versée en mars et avril 2000 et celle de fin septembre 1999 au 4 décembre 1999 est redéposée au compte bancaire du payeur le 4 février 2000. La rémunération des périodes du 5 au 31 décembre 1999 sont versées le 9 février 2000 et le 27 mars 2000.
+54. Période d'emploi de 2000 : Francine Croteau est inscrite au livre des salaires du payeur pour 36 heures de travail par semaine, du 27 août 2000 au 30 décembre 2000, totalisant 18 semaines à plein temps. Au cours de cette période, les ventes mensuelles fluctuent de 17 802 $ (septembre 2000) à 11 206 $ (novembre 2000) et 13 492 $ en décembre 2000. Les commissions sur vente de Sears fluctuent de 769 $ (novembre 2000) à 1 526 $ (décembre 2000) (Onglets Tableau i).
+55. Du 27 février 2000 au 26 août 2000, l'appelante est inscrite au livre des salaires 5 heures par semaine. Les ventes du payeur totalisent 18 013 $ en mai 2000, 15 642 $ en juin 2000, 13 342 $ en juillet 2000. Les commissions sur vente de Sears fluctuent de 1 206 $ (mai 2000) à 1 485 $ (juillet 2000).
+56. L'appelante est rémunérée à la quinzaine. Sa rémunération du 27 mars 2000 au 9 septembre 2000 est redéposée au compte bancaire du payeur le 27 septembre 2000, sa rémunération de décembre 2000 est redéposée au compte bancaire du payeur le 30 mars 2001.
+57. Période d'emploi de 2001 : Francine Croteau est inscrite au livre des salaires du payeur pour 36 heures de travail par semaine, du 26 août 2001 au 4 janvier 2002, totalisant 18 semaines à plein temps. Au cours de cette période, les ventes mensuelles fluctuent de 16 048 $ (septembre 2001) à 15 931 $ (novembre 2001) et 15 279 $ en décembre 2001. Les commissions sur vente de Sears fluctuent de 1 477 $ (octobre 2001) à 1 609 $ (décembre 2000) et 2 320 $ en janvier 2002. (Onglets Tableaux i).
+58. Du 4 mars 2001 au 25 août 2001, l'appelante est inscrite au livre des salaires 5 heures par semaine. Les ventes du payeur totalisent 17 285 $ en avril 2001, 17 389 $ en mai 2001, 13 279 $ en juin 2001. Les commissions sur vente de Sears fluctuent de 1 304 $ (avril 2001) à 403 $ (mai 2001) et 2 320 $ en janvier 2002.
+59. L'appelante est rémunérée à la quinzaine. Sa rémunération de mars, avril et mai 2001 est redéposée au compte bancaire du payeur le 6 avril et le 3 juillet 2001, il est de même pour celle de la première quinzaine de juin et la rémunération de juillet et août 2001 est redéposée au compte bancaire du payeur le 5 octobre 2001.
+60. De 1999 à 2001, les ventes de la boutique et les commissions de Sears se répartissent comme suit :
+Année
+Ventes de la boutique
+Commissions de Sears
+Total annuel
+1999
+2000
+2001
+162 154 $
+150 934 $
+162 042 $
+14 010 $
+12 487 $
+11 394 $
+176 164 $
+163 421 $
+173 436 $
+61. Selon la lettre du 26 mars 2003, de la compagnie Sears, les ventes annuelles réalisées par Serge Croteau, agent de vente par catalogue Sears Canada inc., fluctuent de 130 465 $ en 2001 à 189 130 $ en 1998. La plus grosse partie des ventes par catalogue se fait d'octobre à la fin décembre, le plus gros mois étant décembre (Onglet J).
+De ces faits, madame Dessureault a tiré les conclusions suivantes (pièce I-2) :
+[...]
+L'analyse des ventes mensuelles et des périodes d'emploi de l'appelante (faits 40 à 58) démontre : que de 1995 à 2001, les ventes réalisées en avril, mai et juin, alors que l'appelante est inscrite au livre des salaires du payeur pour de 3 à 10 heures de travail par semaine de 1995 à 1997, de 3 à 5 heures par semaine en 1999 et 5 heures par semaine en 2000 et 2001, sont comparables et parfois supérieures aux ventes réalisées de septembre à décembre, alors que l'appelante est inscrite au livre des salaires pour 36 heures de travail par semaine [...]
+En 1997 : L'appelante est rémunérée mensuellement. Sa rémunération de février et mars 1997 est redéposée au compte bancaire du payeur le 14 avril 1997, sa rémunération de juin, de juillet et de septembre 1997 est redéposée au compte bancaire du payeur le 7 novembre 1997.
+En 1998 : L'appelante est rémunérée mensuellement. Sa rémunération d'avril 1998 est redéposée au compte bancaire du payeur le 6 mai 1998, sa rémunération de mai 1998 est redéposée au compte bancaire du payeur le 4 juin 1998, celle de juillet 1998 est redéposée au compte bancaire du payeur le 7 août 1998, celle de novembre 1998 est redéposée au compte bancaire du payeur le 9 décembre 1998 et celle de décembre 1998 est redéposée au compte bancaire du payeur le 9 avril 1999.
+En 1999 : L'appelante est rémunérée à la quinzaine. Sa rémunération de février et mars 1999 est redéposée au compte bancaire du payeur le 14 avril 1999, sa rémunération de mi-août et mi-septembre 1999 est versée en mars et avril 2000 et celle de fin septembre 1999 au 4 décembre 1999 est redéposée au compte bancaire du payeur le 4 février 2000. La rémunération des périodes du 5 au 31 décembre 1999 lui est versée le 9 février 2000 et le 27 mars 2000.
+En 2000 : L'appelante est rémunérée à la quinzaine. Sa rémunération du 27 mars 2000 au 9 septembre 2000 est redéposée au compte bancaire du payeur le 27 septembre 2000, sa rémunération de décembre 2000 est redéposée au compte bancaire du payeur le 30 mars 2001.
+En 2001 : L'appelante est rémunérée à la quinzaine. Sa rémunération de mars, avril et mai 2001 est redéposée au compte bancaire du payeur le 6 avril et le 3 juillet 2001, il en est de même pour celle de la première quinzaine de juin qui est redéposée au compte bancaire du payeur le 3 juillet 2001 et la rémunération de juillet et août 2001 est redéposée au compte bancaire du payeur le 5 octobre 2001.
+[...]
+En réalité de 1995 à janvier 2002, les seuls paiements réguliers que l'appelante a reçus sont ses prestations d'assurance-emploi, qui lui étaient versées durant les périodes de janvier à début septembre de chaque année.
+[...]
+[35] Les évidences dégagées des divers tableaux sont d'ailleurs éloquemment étayées par un autre aspect du dossier. Dans un premier temps, monsieur Gauthier a analysé les faits en fonction des différentes demandes d'assurance-emploi soumises par l'appelante. Il a ainsi indiqué le nombre de semaines d'assurance-emploi que l'appelante pouvait obtenir et le nombre reçu. Le résultat est le suivant :
+Année
+Nombre de semaines possibles
+Nombre de semaines reçues
+1997
+1998
+1999
+2000
+2001
+2002
+34
+37
+34
+30
+37
+33
+33
+37
+34
+30
+32
+enquête commencée au moment où l'appelante avait reçu 26 des 33 semaines possibles
+[36] Ces données significatives, qui permettent de mieux comprendre et de mieux interpréter la preuve, sont d'ailleurs confirmées par les déclarations statutaires de l'appelante. Dans les faits, les mises à pied de l'appelante et ses retours au travail n'avaient rien à voir avec les conditions économiques et l'intensité des activités. Cette appréciation ressort tout particulièrement du témoignage du comptable. Les mises à pieds étaient planifiés et orchestrés dans le seul but d'exploiter au maximum le programme d'assurance-emploi.
+[37] Dans un premier temps, l'appelante et son conjoint ont collaboré d'une manière irréprochable lorsqu'il a été question du caractère assurable du travail; le travail ayant déjà fait l'objet d'une décision favorable, ils se croyaient alors sans doute à l'abri de tout problème.
+[38] Le résultat de l'enquête s'étant avéré désastreux, ils ont alors manifestement décidé de se battre en utilisant toutes sortes d'explications farfelues, lesquelles ont été présentées par l'appelante d'une manière hésitante, confuse, vague et parsemée d'incohérences et de contradictions.
+[39] Il n'y a aucun doute que l'intimé a fait une analyse judicieuse et a pris en considération tous les faits pertinents. Le procès n'a rien apporté de neuf, si ce n'est qu'il a fait une éloquente démonstration de l'ardeur de l'appelante et de son conjoint pour éviter d'avoir à rembourser les montants réclamés à la suite de la décision du ministre.
+[40] Lorsqu'il existe un lien de dépendance entre celui ou celle qui exécute un travail et celui ou celle pour qui la prestation de travail est effectuée, le travail en question est exclu des emplois assurables et cela, en vertu de l'alinéa 5(2)i) de la Loi, qui se lit comme suit :
+5 (2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[41] Par contre, le législateur a prévu que ce même travail pouvait être déterminé assurable si, à la suite de l'analyse de tous les faits selon les critères qu'il a édictés, il s'avérait que le travail avait été exécuté dans un contexte et dans les circonstances comparables à celles qui auraient pu exister entre des tiers.
+[42] Le caractère assurable d'un travail lorsque les parties au contrat ont entre elles un lien de dépendance découle d'une appréciation subjective.
+[43] Lorsqu'il est fait appel de la décision résultant d'une telle analyse, le juge saisi du dossier ne peut pas simplement substituer sa propre évaluation des mêmes faits.
+[44] La Cour d'appel fédérale, dans l'affaire Pérusse c. Canada, no A-722-97, 10 mars 2000, [2000] A.C.F. no 310, et dans les affaires Légaré c. MRN, Morin c. MRN, nos A-392-98 et A-393-98, 28 mai 2999, [1999] A.C.F. no 878, a énoncé certains principes. Ainsi, on peut lire ce qui suit dans les affaires Légaré et Morin, précitées, au paragraphe 4 :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[45] Dans l'affaire Pérusse, précitée, le Juge Marceau cite le passage qui précède et poursuit, au paragraphe 15 :
+15 Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[46] Comment une personne peut-elle vraiment croire à la légitimité et à la légalité de sa situation lorsqu'elle travaille et exécute sensiblement le même travail, mais reçoit des prestations d'assurance-emploi en lieu et place de la rétribution ou du salaire qu'elle devrait normalement recevoir pour sa prestation de travail.
+[47] Dans son avis d'appel, l'appelante affirmait ce qui suit :
+[...]
+· n'avoir jamais effectuée de déclarations fausses et trompeuses au gouvernement du Canada dans le cadre de ces demandes de prestations d'assurance-emploi et d'assurance-chômage;
+· n'avoir jamais effectuée de déclarations fausses et trompeuses au gouvernement du Canada dans le cadre de ces déclarations de revenu réel;
+· n'avoir jamais caché le fait d'être liée à l'employeur au gouvernement du Canada et à l'Agence des douanes et du revenu;
+· n'avoir jamais fait de déclarations fausses et trompeuses au gouvernement du Canada dans le but de retirer des prestations d'assurance-emploi ou d'assurance-chômage;
+· avoir dit toute la vérité et d'avoir répondu convenablement et honnêtement aux questions des enquêteurs dans le cadre du présent dossier;
+· avoir agit de bonne foi dans le cadre du présent dossier et ce tout au long des années où appelante a retiré des prestations d'assurance-emploi et d'assurance-chômage;
+· avoir agit ainsi, puisqu'il y avait apparence de droit sur le fait que l'appelante avait le droit à des prestations d'assurance-emploi et d'assurance-chômage tout au long des années où appelante a retiré des prestations d'assurance-emploi et assurance-chômage.
+[48] En l'espèce, les cessations d'emploi étaient émises dans le but d'obtenir des prestations d'assurance-emploi, je peux difficilement souscrire à l'interprétation voulant que les intéressés étaient de totale bonne foi.
+[49] En effet, comment peut-on prétendre avoir eu un comportement totalement irréprochable en déclarant formellement avoir perdu son emploi alors qu'il en était tout autrement?
+[50] À plusieurs reprises, j'ai affirmé que le programme d'assurance-emploi vise essentiellement à venir en aide à ceux et celles qui perdent réellement leur emploi. Il ne s'agit aucunement d'un programme de soutien à l'entreprise ou de subvention quelconque.
+[51] Si le législateur avait voulu que l'État prenne à sa charge une partie de la masse salariale de certaines entreprises en certaines circonstances, il l'aurait expressément prévu, ce qui n'est pas le cas.
+[52] L'entraide, la collaboration, la solidarité familiale sont des qualités généralement plus répandues et présentes lors de contrats de travail entre des membres d'une même famille que lorsqu'il s'agit de contrats où les parties n'ont pas de lien de dépendance. Cela est normal, légitime et souhaitable.
+[53] Je reconnais que de telles qualités sont généralement plus répandues dans les petites collectivités que dans les grands centres urbains. Il s'agit souvent là d'une caractéristique exceptionnelle qu'il faut encourager et soutenir.
+[54] Par contre, lorsque des qualités aussi nobles se transforment en exagérations et en abus, cela devient inacceptable. L'aveuglement volontaire ne peut ni expliquer ni justifier des conditions de travail diamétralement différentes de celles dont un tiers aurait bénéficié.
+[55] En l'espèce, la très forte prépondérance de la preuve est que l'appelante bénéficiait d'un contrat de travail profondément façonné par le lien de dépendance. Les périodes de travail et les modalités d'emploi étaient définies en fonction du droit aux prestations.
+[56] Il n'y a aucun doute que l'enquête effectuée et l'analyse des faits qui a suivie ont pris en considération tous les faits pertinents. Les faits en question ont été évalués de façon judicieuse; les conclusions retenues étaient appropriées et surtout très raisonnables.
+[57] Je n'ai ni le pouvoir, ni l'autorité de souscrire en tout ou en partie aux demandes du représentant de l'appelante visant à annuler ou réduire le montant des réclamations découlant des prestations obtenues mais non justifiées.
+[58] Tous les faits retenus par le ministre étaient réels; ils étaient pertinents. L'analyse de ces faits a été faite d'une manière judicieuse et la conclusion retenue était raisonnable. L'audition du dossier a essentiellement confirmé la raisonnabilité de la détermination.
+[59] Conséquemment, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 11e jour de février 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2005CCI54
+No DU DOSSIER DE LA COUR :
+2003-3108(EI)
+INTITULÉ DE LA CAUSE :
+Francine Otis Croteau. et
+Le ministre du Revenu national
+et Noubaco Inc.
+LIEU DE L'AUDIENCE :
+Matane (Québec)
+DATES
+Audience :
+Soumissions écrites de l'appelante
+Réplique de l'intimée :
+le 2 septembre 2004
+le 15 octobre 2004
+le 26 octobre 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 11 février 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Yannick Croteau
+Avocate de l'intimé :
+Me Marie-Claude Landry
+Représentant de l'intervenante :
+Serge Croteau
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Pour l'intimé :
+John H. Sims, c.r. sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada

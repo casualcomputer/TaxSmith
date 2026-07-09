@@ -1,0 +1,220 @@
+---
+title: "Jentel Manufacturing Ltd c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30350/index.do"
+last_modified: "2011-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 261"
+citation2: ""
+neutral_citation: "2011 CCI 261"
+decision_date: "2011-05-11"
+language: "fr"
+item_id: "30350"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7931
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:52:01.211000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f9de7eefd155533adb574de853a062a91b1ae26510d2ac33ea1161ac7439c064"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jentel Manufacturing Ltd c. La Reine
+
+- Citation: 2011 CCI 261
+- Decision date: 2011-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7931, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jentel Manufacturing Ltd c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-11
+Référence neutre
+2011 CCI 261
+Numéro de dossier
+2008-3875(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3875(IT)G
+ENTRE :
+JENTEL MANUFACTURING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 juin 2010 à Calgary (Alberta).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me Trevor E. Fenton
+Avocate de l’intimée :
+Me Margaret M. McCabe
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 de l’appelante est rejeté.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 11e jour de mai 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 24e jour d’août 2011.
+François Brunet, réviseur
+Référence : 2011 CCI 261
+Date : 20110511
+Dossier : 2008-3875(IT)G
+ENTRE :
+JENTEL MANUFACTURING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] L’appelante a interjeté appel d’un avis de nouvelle cotisation relativement à son exercice terminé le 31 octobre 2005. La Cour est appelée à rechercher si certaines dépenses effectuées par l’appelante au cours de l’exercice constituent des dépenses relatives à des activités de recherche scientifique et de développement expérimental (la « RS&DE »).
+[2] Les parties ont déposé un exposé conjoint des faits (l’« ECF »). De plus, j’ai entendu deux témoins : M. Ralph Hahn, propriétaire et président de l’appelante, et M. Phillip Leong, un conseiller en recherche et technologie de l’Agence du revenu du Canada (l’« ARC »).
+[3] Je conclus que les deux témoins étaient crédibles. Toutefois, je n’accorde aucun poids au témoignage de M. Leong, étant donné qu’à mon avis, il s’agissait essentiellement d’une opinion.
+Résumé des faits pertinents
+[4] L’appelante a commencé à exercer ses activités à l’automne 1993. Il ressort de l’ECF que l’appelante conçoit et fabrique des produits en plastique technique thermoformé à usage commercial et industriel. M. Hahn a qualifié l’appelante de thermoformeuse de feuilles de plastique. Il a signalé que l’appelante exécute un volume considérable de travaux sur commande pour des tiers, comme la fabrication de contenants, d’écrans et de bacs amovibles. Elle fabrique également son propre produit exclusif, Multi‑Bins.
+[5] Les travaux exécutés par l’appelante au cours de son exercice 2005 concernant Multi‑Bins font l’objet du présent appel. Ces travaux sont décrits aux paragraphes 8 à 14 de l’ECF de la manière suivante :
+[traduction]
+Faits importants
+8. Au cours d’exercices antérieurs, Jentel a conçu un système de rangement pour petites pièces portant le nom de Multi‑Bins. Multi‑Bins était composé d’un panneau de fond en plastique sur lequel étaient vissés en rangées des devants de bacs en plastique thermoformé. Dans sa version initiale, Multi‑Bins pouvait être fixé au mur ou servir d’unité autoportante. Le système servait surtout de contenant pour de petites pièces et de la quincaillerie dans les postes de travail de fabricants, les ateliers d’entretien et les ateliers familiaux.
+9. Durant l’exercice 2005, Jentel a procédé à la refonte du concept du Multi‑Bins. L’objectif premier était d’améliorer le produit existant de façon à en faire un système de rangement plus petit et beaucoup plus léger. Ainsi, le produit nécessiterait moins de main-d’oeuvre pour le fabriquer, moins d’énergie pour le transporter et il serait plus facile à installer. Les objectifs mesurables consistaient à :
+a) augmenter la capacité de rangement à 20 pi3 par m2 d’espace occupé, soit deux fois plus que la norme de l’industrie;
+b) augmenter à 100 lb la charge maximale que chaque devant de bac peut supporter;
+c) concevoir un nouveau système de « fermeture encliquetable » pour les devants de bacs afin d’éviter d’avoir à utiliser des attaches;
+d) mettre en place la modularité;
+e) remplacer les plastiques armés non recyclables comme les ABS par des plastiques recyclables comme le polypropylène.
+10. Dans la description de son travail à l’ARC sur le formulaire de demande de RS&DE, Jentel a regroupé les tâches en quatre catégories :
+a) Devants de bacs et panneaux de fond;
+b) Supports;
+c) Glissières;
+d) Séparateurs.
+11. En ce qui concerne le travail exécuté sur les devants de bacs et les panneaux de fond pendant l’exercice 2005 :
+a) Jentel a effectué une série d’essais dans diverses conditions de moulage en utilisant au moins huit différents types de plastique : PETG, PVC, acrylique, ABS, styrène, Lexan, PEHD et polyéthylène;
+b) D’autres essais ont été menés sur deux des plastiques cités précédemment (ABS et PEHD) en utilisant des matériaux d’épaisseurs variables dans le but de déterminer les caractéristiques de résistance;
+c) Un journal des tâches a été tenu;
+d) Le travail a été exécuté de manière systématique.
+12. En ce qui concerne le travail effectué sur les supports pendant l’exercice 2005 :
+a) Jentel a effectué une série d’essais au cours desquels la société a construit des supports d’essai en utilisant différents matériaux pour certains des composants : bois, mélange de bois et de plastique, plastique et aluminium;
+b) Les essais avaient pour objectif de mesurer le rendement des composants fabriqués dans ces matériaux avec des critères définis de conception et de production;
+c) L’essai en charge a montré que l’aluminium était le mieux adapté à l’application;
+d) Un journal de tâches a été tenus;
+e) Le travail a été exécuté de manière systématique.
+13. En ce qui concerne le travail effectué sur les glissières pendant l’exercice 2005 :
+a) Jentel a conçu et testé une grande variété de glissières;
+b) Aucune glissière ne fonctionnait de façon satisfaisante;
+c) Un journal des tâches a été tenu.
+14. En ce qui concerne le travail effectué sur les séparateurs pendant l’exercice 2005 :
+a) Jentel a effectué une série d’essais afin de déterminer une méthode pour mouler une rainure sur le panneau de devant du Multi‑Bins afin que celui‑ci puisse recevoir et soutenir les séparateurs;
+b) Au cours des essais, Jentel a essayé trois différents moules, chacun d’eux fabriqué dans des matériaux de moulage différent, et a essayé beaucoup de versions de concepts de rainures afin d’essayer de créer une rainure dans la pièce pouvant être fabriquée de façon uniforme;
+c) Chacune des tentatives de Jentel a échoué;
+d) Un journal des tâches a été tenu.
+[6] Au cours de son témoignage, M. Hahn a décrit les travaux effectués par l’appelante sur le Multi‑Bins et a insisté sur les devants de bacs, les panneaux de fond et les séparateurs.
+Le droit
+[7] La seule question dont la Cour est saisie est de savoir si les travaux effectués par l’appelante constituent une RS&DE, au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[8] Le texte législatif pertinent, aux fins du présent appel, est l’alinéa c) de la définition mentionnée ci-dessus, qui dispose notamment :
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+[...]
+c) développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+[9] La jurisprudence a recours à cinq critères pour déterminer si une activité donnée constitutive de RS&DE. La Cour d’appel fédérale a résumé ces critères dans l’arrêt C.W. Agencies Inc. c. La Reine, 2001 CAF 393, 2002 D.T.C. 6740, au paragraphe 17, de la manière suivante :
+1. Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2. La personne qui prétend faire de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux?[1]
+Application du droit aux faits
+[10] Après examen de tous les faits, je conclus que le travail effectué par l’appelante en 2005 n’est pas constitutif de RS&DE. À mon avis, dans l’accomplissement de ce travail, l’appelante avait recours à des procédés de fabrication existants et à des matériaux existants pour tenter d’améliorer son produit existant. Il s’agissait d’études techniques courantes et de procédures habituelles.
+[11] Quant à la question de savoir s’il existait un risque ou une incertitude technologique, le juge Bowman (tel était alors son titre) a fait les observations suivantes dans la décision Northwest Hydraulic, au paragraphe 16 :
+a) Lorsqu’on parle de « risque ou [d’]incertitude technologique » dans ce contexte, on laisse implicitement entendre qu’il doit exister une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles. Je ne parle pas du fait que dès qu’un problème est décelé, il peut exister un certain doute au sujet de la façon dont il sera réglé. Si la résolution du problème est raisonnablement prévisible à l’aide de la procédure habituelle ou des études techniques courantes, il n’y a pas d’incertitude technologique telle que cette expression est utilisée dans ce contexte.
+b) Qu’entend‑on par « études techniques courantes »? C’est cette question (ainsi que celle qui se rapporte au progrès technologique) qui semble avoir divisé les experts plus que toute autre. En résumé, cela se rapporte aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine.
+[12] Il est précisé dans l’ECF que le but des travaux était [traduction] « d’améliorer le produit existant de façon à en faire un système de rangement plus petit et beaucoup plus léger. Ainsi, le produit nécessiterait moins de main‑d’oeuvre pour le fabriquer, moins d’énergie pour le transporter et il serait plus facile à installer. »
+[13] L’ECF dresse une liste des objectifs mesurables suivants concernant le travail :
+[traduction]
+a) augmenter la capacité de rangement à 20 pi3 par m2 d’espace occupé, soit deux fois plus que la norme de l’industrie;
+b) porter à 100 lb la charge maximale que chaque devant de bac peut supporter;
+c) concevoir un nouveau système de fermeture encliquetable pour les devants de bacs afin d’éviter l’utilisation d’attaches;
+d) mettre en place la modularité;
+e) remplacer les plastiques armés non recyclables comme les ABS par des plastiques recyclables comme le polypropylène.
+[14] L’ECF précise que l’appelante a essayé d’atteindre ces objectifs en changeant le type et l’épaisseur du plastique utilisé dans la fabrication du produit (huit différents types de plastiques ont été utilisés), en changeant les moules et les matériaux de moulage utilisés pour la fabrication des moules et en utilisant différents types de matériaux pour le support (bois, combinaison de bois et de plastique, plastique et aluminium).
+[15] Dans son témoignage, M. Hahn a décrit le travail effectué par l’appelante sur le Multi‑Bins. Il a insisté sur deux procédés de fabrication (le thermoformage et le moulage par injection) utilisés par l’appelante, dont l’utilisation de ce qui avait été décrit comme du thermoformage assisté par poinçon (ou à froid), et l’utilisation de différents types de plastiques et de matériaux.
+[16] La Cour n’a été saisie d’aucun élément de preuve qui établit que l’un ou l’autre de ces travaux comportait un risque ou une incertitude technologique.
+[17] Le thermoformage et le moulage par injection sont des procédés de fabrication bien connus.
+[18] M. Hahn a ainsi décrit le procédé de thermoformage :
+- Des extrudeuses d’un tiers versent de la résine plastique (pastilles) dans une machine où elle sera chauffée et extrudée sous la forme d’une feuille.
+- Un thermoformeur de feuilles de plastique, comme celui de l’appelante, prend ensuite la feuille et lui donne différentes formes en utilisant des moules, le vide et de la pression de l’air.
+[19] M. Hahn a constaté que le thermoformeur précise la taille et la largeur requises de la feuille de plastique et le type de plastique devant être utilisé. Il a également constaté qu’il existe douze différents types de plastique pouvant être extrudés pour les besoins de l’appelante. M. Hahn a expliqué que l’une des difficultés de ce procédé réside dans le fait que les propriétés de la résine utilisée dans la feuille changent après l’extrusion de la résine plastique. Les spécifications réelles de la feuille extrudée ne sont pas connues.
+[20] M. Hahn a qualifié le moulage par injection de procédé consistant à concevoir un moule et à utiliser une machine à mouler par injection d’une tierce partie pour injecter de la résine plastique dans le moule. À partir de la forme du moule, un produit est ainsi fabriqué. Il a en outre signalé qu’il existe des centaines de types de plastique pouvant être moulés par injection pour les besoins de l’appelante. Il semble que la principale contrainte du moulage par injection soit le coût du moule.
+[21] M. Hahn a fait observer que la principale différence entre le thermoformage et le moulage par injection est la flexibilité. Une fois que le moule était conçu pour le moulage par injection, il ne pouvait pas être modifié, il produisait toujours la même pièce. Toutefois, un thermoformeur peut retoucher le procédé de thermoformage afin d’obtenir une modification de la pièce.
+[22] M. Hahn a décrit en détail comment l’appelante a utilisé le procédé de thermoformage et le moulage par injection pour essayer de concevoir un meilleur Multi‑Bins. Cela faisait intervenir différents moules, plastiques et matériaux de moulage. À l’examen de tous ces éléments de preuve, j’estime que M. Hahn décrivait simplement l’utilisation de procédés de fabrication existants pour essayer de fabriquer un produit meilleur, tout en contrôlant les coûts de fabrication. Il ne m’a été produit aucun élément de preuve révélateur d’une tentative d’accomplir un progrès technologique.
+[23] M. Hahn a laissé entendre que l’utilisation d’une [traduction] « source froide » par l’appelante lors du thermoformage était constitutive de développement expérimental. Toutefois, il est aussi apparu qu’il s’agissait d’études techniques courantes ou de procédures habituelles. Comme l’a déclaré M. Hahn au cours de son témoignage, la prétendue source froide était simplement une technologie de thermoformage par poinçon qui [traduction] « existait depuis un certain temps ».
+[24] De même, en ce qui concerne l’utilisation de différents types de résine plastique ou de matériaux, je ne vois pas en quoi cela est constitutif de RS&DE.
+[25] L’avocat de l’appelante a fondé son argumentation sur la prémisse suivante[2] :
+[traduction]
+Jentel a présenté le témoignage de Ralph Hahn à propos de ses propres observations et de son expérience quant au travail que lui et son personnel ont effectué, pourquoi ils l’ont effectué, ce qu’ils savaient à ce moment‑là, ce que faisaient leurs concurrents et la connaissance qu’ils pouvaient obtenir du domaine public. Nous estimons que cela constitue au moins la preuve prima facie que Jentel tentait d’accomplir à un progrès technologique, et donc se livrait à la RS&DE. En conséquence, Jentel a [traduction] « démoli » les hypothèses du ministre et le fardeau de la preuve passe au ministre qui doit produire la preuve de ses affirmations. Si le ministre ne produit aucune preuve pour réfuter la preuve prima facie du contribuable, celui-ci est fondé à obtenir gain de cause.
+Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, aux paragraphes 92 à 94
+[26] Lors de l’établissement de la cotisation à l’égard de l’appelante, le ministre a émis les hypothèses de fait suivantes[3] :
+[traduction]
+l) l’appelante n’a pas réussi à démontrer une investigation systématique par voie d’expérimentation ou d’analyse effectuée pour résoudre toute incertitude scientifique ou technique qui a pu découler de la conception de [Multi‑Bins] ou de ses composants;
+m) le travail effectué par l’appelante pour la conception du produit ou de ses composants est conforme à la norme de conception de produit et ne constitue pas un progrès scientifique ou technologique.
+[27] Je n’entends pas examiner le bien‑fondé de l’argumentation de l’avocat de l’appelante. L’argumentation ne tient pas pour la simple raison que l’appelante n’a pas rapporté la preuve prima facie qu’elle essayait d’aboutir à un progrès technologique.
+[28] Comme cela a été mentionné précédemment, il ressort des éléments de preuve dont je suis saisi, particulièrement de l’ECF et du témoignage de M. Hahn, que le travail effectué par l’appelante à l’égard du Multi‑Bins consistait à recourir à des études techniques courantes et à des procédures habituelles. Cette preuve n’établit pas prima facie que le travail a été entrepris dans le but d’accomplir des progrès technologiques. L’appelante n’a donc pas [traduction] « démoli » les hypothèses du ministre.
+[29] Pour les motifs exposés ci‑dessus, l’appel est rejeté, et les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 11e jour de mai 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+Ce 24e jour d’août 2011.
+François Brunet, réviseur
+RÉFÉRENCE : 2011 CCI 261
+No DU DOSSIER DE LA COUR : 2008-3875(IT)G
+INTITULÉ : JENTEL MANUFACTURING LTD.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 11 juin 2010
+MOTIFS DU JUGEMENT :
+DATE DU JUGEMENT : Le 11 mai 2011
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Trevor E. Fenton
+Avocate de l’intimée :
+Me Margaret M. McCabe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Trevor E. Fenton
+Cabinet : Stonecracker Scientific Law Office
+Calgary (Alberta)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ces critères ont été énoncés pour la première fois dans la décision de la Cour rendue par le juge Bowman (tel était alors son titre) dans l’affaire Northwest Hydraulic Consultants Limited c. The Queen, 98 D.T.C. 1839 (la « décision Northwest Hydraulic »).
+[2] Paragraphe 26 des observations finales de l’appelante.
+[3] Paragraphes 13l) et m) de la réponse.

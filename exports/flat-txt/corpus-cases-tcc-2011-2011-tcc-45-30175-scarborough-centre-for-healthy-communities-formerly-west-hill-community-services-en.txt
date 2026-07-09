@@ -1,0 +1,131 @@
+Title: Scarborough Centre For Healthy Communities (Formerly West Hill Community Services) v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30175/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-45-30175-scarborough-centre-for-healthy-communities-formerly-west-hill-community-services-en.md
+Document type: case_law
+Last modified: 2011-01-26
+
+# Scarborough Centre For Healthy Communities (Formerly West Hill Community Services) v. M.N.R.
+
+- Citation: 2011 TCC 45
+- Decision date: 2011-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7778, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scarborough Centre For Healthy Communities (Formerly West Hill Community Services) v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-26
+Neutral citation
+2011 TCC 45
+File numbers
+2010-1478(CPP)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Decision Content
+Dockets: 2010-1478(CPP)
+2010-1882(EI)
+BETWEEN:
+SCARBOROUGH CENTRE FOR HEALTHY COMMUNITIES
+(FORMERLY WEST HILL COMMUNITY SERVICES),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+STEVEN HIRSHFELD,
+Intervenor.
+____________________________________________________________________
+Appeal heard on December 16, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+David A. Whitten
+Counsel for the Respondent:
+Jasmeen Mann
+Laurent Bartleman
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to decisions of the Minister of National Revenue made under the Canada Pension Plan and the Employment Insurance Act that Dr. Steven Hirshfeld was engaged by the appellant in pensionable and insurable employment for the period from January 1, 2005 to December 31, 2007 is allowed, and the decisions are vacated. All parties shall bear their own costs.
+The Registry is directed to change the style of cause to conform with the above.
+Signed at Toronto, Ontario this 26th day of January 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 45
+Date: 20110126
+Dockets: 2010-1478(CPP)
+2010-1882(EI)
+BETWEEN:
+SCARBOROUGH CENTRE FOR HEALTHY COMMUNITIES
+(FORMERLY WEST HILL COMMUNITY SERVICES),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+STEVEN HIRSHFELD,
+Intervenor.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Scarborough Centre for Healthy Communities (the “Centre”), operates a non-profit health and social service agency. The intervenor, Dr. Steven Hirshfeld, has practiced medicine at the Centre on a part-time basis for about 13 years and continues to work there.
+[2] The appeal is in respect of decisions made under the Employment Insurance Act and the Canada Pension Plan that Dr. Hirshfeld was an employee of the Centre for the period from January 1, 2005 to December 31, 2007.
+[3] The appellant submits that Dr. Hirshfeld was not an employee during this period but was engaged as an independent contractor.
+[4] Testimony at the hearing was provided by Carol Klupsch, the clinical director of the Centre, Shannon Duggan, a human resources specialist at the Centre, and Dr. Hirshfeld.
+Background
+[5] Dr. Hirshfeld is a family practitioner who has worked at the Centre one day a week for many years. His involvement with the Centre pre-dates almost everyone else at the Centre, including the other witnesses.
+[6] Dr. Hirshfeld also conducts his own private practice at another location three days a week.
+[7] Dr. Hirshfeld’s first involvement at the Centre was in 1997 when he agreed to fill in for doctors who were away. A couple of years later, the Centre asked if Dr. Hirshfeld wanted to work on a regular basis on Mondays because another doctor had cut back his work hours.
+[8] Dr. Hirshfeld agreed to this arrangement and, for the most part, he has been working on this basis since that time. Generally, he works seven hours each Monday, although there have been exceptions.
+[9] The patients that Dr. Hirshfeld sees at the clinic are patients of the clinic and not Dr. Hirshfeld’s own patients. He does not treat the clinic’s patients at his own private practice unless the patient decides to leave the clinic.
+[10] During the period that the Minister’s decisions relate to, the Centre had a policy regarding the engagement of physicians. In general, some doctors were engaged as employees but this did not apply to physicians who worked as few hours as Dr. Hirshfeld did. Employed physicians were paid a salary and received benefits. Doctors considered to be independent, including Dr. Hirshfeld, were paid an hourly rate, generally without benefits.
+Analysis
+[11] The applicable principles in a case such as this are well known. The hallmark of being an independent contractor is that the person is in business for herself. The intention of the parties is very relevant, but it is not determinative. The applicable test was described by the Federal Court of Appeal in Royal Winnipeg Ballet v. MNR, 2006 FCA 87, 2006 DTC 6323 in the following manner:
+64 In these circumstances, it seems to me wrong in principle to set aside, as worthy of no weight, the uncontradicted evidence of the parties as to their common understanding of their legal relationship, even if that evidence cannot be conclusive. The judge should have considered the Wiebe Door factors in the light of this uncontradicted evidence and asked himself whether, on balance, the facts were consistent with the conclusion that the dancers were self-employed, as the parties understood to be the case, or were more consistent with the conclusion that the dancers were employees. Failing to take that approach led the judge to an incorrect conclusion.
+[12] I will first consider the parties understanding of their legal relationship.
+[13] As mentioned earlier, Dr. Hirshfeld started working at the Centre in 1997 as a replacement for doctors who were away. At the time, he signed an acknowledgement that he was engaged as an independent contractor and that no source deductions would be made.
+[14] I accept Dr. Hirshfeld’s recollection that this arrangement changed after a couple of years when he began to work Mondays on an indefinite basis.
+[15] Dr. Hirshfeld testified that the Monday engagement was initially treated as employment, but that the Centre changed its policy and no longer made source deductions. It is not clear when this occurred, but source deductions have not been made for many years.
+[16] I also accept Dr. Hirshfeld’s testimony that the Centre informed him that the change of status was insignificant. The fact that the Centre viewed the status as an inconsequential matter seems to be confirmed by the written acknowledgement of status that Dr. Hirshfeld signed. The acknowledgement appears to be a form letter prepared by the appellant in which the acknowledgement is described as a formality.
+[17] This background is relevant but the essential question is what the parties’ intentions were during the period at issue, from 2005 to 2007. I find that the Centre clearly intended an independent contractor relationship. As for Dr. Hirshfeld’s intention, I find that he did not like being considered an independent contractor, but that he chose not to say anything to the Centre during the many years that this arrangement continued. In the circumstances, I would conclude that both parties accepted that Dr. Hirshfeld would be engaged as an independent contractor.
+[18] That is not the end of the matter, however. It remains to be determined if the relationship was consistent with this arrangement.
+[19] I would first comment that the nature of the work performed by Dr. Hirshfeld was very similar to that performed by employed physicians, except that Dr. Hirshfeld only worked one day a week. On the other hand, I accept the appellant’s submission that Dr. Hirshfeld was not subject to the same level of control as the employed physicians. He was not present for many of the staff meetings and it is reasonable to conclude from the evidence as a whole that employed physicians were expected to take more direction from the organization generally. On balance, I have concluded that the relationship was consistent with independent contractor status.
+[20] In reaching this conclusion, I would comment that I did not find persuasive the appellant’s argument that Dr. Hirshfeld was free to work when he wanted, and that he was generally not subject to the Centre’s policies. This may be the Centre’s understanding of the relationship, but it is not relevant unless this understanding was communicated to Dr. Hirshfeld. I find that it was not.
+[21] Nevertheless, I find that employed physicians had a closer connection to the Centre, and were subject to more control. In the circumstances, I conclude that the independent contractor arrangement that was in place for many years should be accepted.
+[22] The appeal is allowed, and the decisions of the Minister that Dr. Hirshfeld was engaged in insurable and pensionable employment during the period from January 1, 2005 to December 31, 2007 are vacated.
+[23] All parties shall bear their own costs.
+Signed at Toronto, Ontario this 26th day of January 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 45
+COURT FILE NOS.: 2010-1478(CPP)
+2010-1882(EI)
+STYLE OF CAUSE: SCARBOROUGH CENTRE FOR HEALTHY COMMUNITIES (FORMERLY WEST HILL COMMUNITY SERVICES) and THE MINISTER OF NATIONAL REVENUE and STEVEN HIRSHFELD
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: January 26, 2011
+APPEARANCES:
+Counsel for the Appellant:
+David A. Whitten
+Counsel for the Respondent:
+Jasmeen Mann
+Laurent Bartleman
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David A. Whitten
+Firm: Whitten & Lublin LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

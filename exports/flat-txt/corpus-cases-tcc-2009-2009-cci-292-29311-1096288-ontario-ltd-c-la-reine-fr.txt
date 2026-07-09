@@ -1,0 +1,179 @@
+Title: 1096288 Ontario Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29311/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-292-29311-1096288-ontario-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-05-29
+
+# 1096288 Ontario Ltd. c. La Reine
+
+- Citation: 2009 CCI 292
+- Decision date: 2009-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7050, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1096288 Ontario Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-29
+Référence neutre
+2009 CCI 292
+Numéro de dossier
+2006-1882(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-1882(GST)I
+ENTRE :
+1096288 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 mars 2009, à Toronto (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat de l’appelante :
+Me Robert Harper
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la partie IX de la Loi sur la taxe d’accise, dont les avis sont datés du 10 décembre 2004, du 11 mars 2005 et du 25 avril 2005, est accueilli en partie, sans qu’aucuns dépens soient adjugés, conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 29e jour de mai 2009.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 8e jour de juillet 2009.
+Hélène Tremblay, traductrice
+Référence : 2009 CCI 292
+Date : 20090529
+Dossier : 2006-1882(GST)I
+ENTRE :
+1096288 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelante est un promoteur; dans le cadre de son entreprise, elle transportait des maisons jusqu’à de nouveaux lots et les vendait. La question soulevée dans le présent appel est de savoir si l’appelante était tenue de percevoir la TPS sur la vente de ces maisons.
+[2] Le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’appelante pour la TPS relative à onze maisons qui avaient été relocalisées et vendues entre le 1er septembre 2000 et le 30 novembre 2004[1]. À l’audience, l’intimée a reconnu que trois de ces ventes[2] étaient des ventes à l’égard desquelles l’appelante n’était pas tenue de percevoir la TPS parce que les acheteurs étaient des inscrits aux fins de la TPS.
+[3] L’appelante prend la position selon laquelle les huit autres ventes[3] étaient exonérées de la TPS en vertu de l’article 2 de la partie I de l’annexe V de la Loi sur la taxe d’accise (la « Loi »). L’article 2 prévoit que la vente d’un « immeuble d’habitation » par une personne autre que le « constructeur » qui n’a pas demandé de crédits de taxe sur les intrants (les « CTI ») relativement à l’acquisition de l’immeuble ou relativement à des améliorations apportées à celui‑ci est exonérée de la TPS.
+[4] Il n’est pas contesté que les maisons vendues par l’appelante étaient des immeubles d’habitation. Toutefois, les parties ne s’entendent pas sur la question de savoir si l’appelante était le constructeur de ces immeubles. Il s’agit de savoir s’il est possible de dire que l’appelante a construit ces immeubles.
+[5] L’intimée affirme également que, même si l’appelante n’est pas le constructeur des immeubles d’habitation, les ventes conclues par l’appelante n’étaient néanmoins pas exonérées parce que l’appelante a demandé des CTI relativement à des améliorations apportées aux immeubles. L’appelante admet avoir demandé des CTI, mais elle affirme que les demandes ont été faites par erreur et que ces demandes ne devraient pas avoir pour effet de faire des ventes en question des fournitures taxables.
+[6] Enfin, au cas où il serait conclu que les ventes ne sont pas des fournitures exonérées, l’appelante affirme que l’article 192 de la Loi s’applique. D’une façon générale, l’article 192 prévoit que, dans le cas d’une rénovation mineure apportée à un immeuble, la TPS relative à la vente de cet immeuble est calculée uniquement sur le coût des rénovations plutôt que sur le prix de vente global de l’immeuble.
+Les faits
+[7] L’appelante transportait des maisons qui étaient situées sur des fonds qu’elle aménageait jusqu’à de nouveaux lots lui appartenant. Elle préparait chacun des nouveaux emplacements en construisant une fondation et une voie d’accès et en installant les canalisations d’eau, d’électricité et de gaz. Si les services municipaux n’étaient pas disponibles, l’appelante creusait un puits et installait une fosse septique. Les maisons étaient enlevées de leurs fondations, là où elles étaient situées; elles étaient placées sur des camions et transportées jusqu’aux nouveaux emplacements et installées sur la nouvelle fondation. Les nouvelles canalisations étaient raccordées, des travaux mineurs étaient exécutés en vue de réparer les dommages tels que les fissures qui étaient faites dans le plâtre par suite du déménagement, et certaines pièces étaient de nouveau peintes. Dans certains cas, l’appelante construisait un nouveau garage. L’unique actionnaire de l’appelante, M. Gary Langen, a témoigné que l’appelante essayait de réutiliser la maison existante le plus possible.
+[8] Selon le comptable de l’appelante, M. Gary Gehiere, l’appelante traitait les ventes des maisons relocalisées, avant le 21 décembre 2001, comme des fournitures exonérées. Elle ne percevait pas la TPS relative à la vente des maisons et elle ne demandait pas de CTI à leur égard. M. Gehiere a déclaré qu’à deux reprises, il avait cherché à confirmer auprès de l’Agence du revenu du Canada (l’« ARC ») que les ventes des maisons relocalisées étaient des fournitures exonérées. La première fois, au cours d’une vérification effectuée en 1997, on lui a dit de continuer à traiter les ventes comme des fournitures exonérées. Au cours d’une autre vérification, en 1998, M. Gehiere a de nouveau soulevé la question auprès du vérificateur, mais il n’a jamais reçu de réponse.
+[9] Le 21 décembre 2001, après une autre vérification, le ministre a établi une cotisation à l’égard de l’appelante compte tenu du fait que les ventes des maisons relocalisées n’étaient pas des fournitures exonérées. Le vérificateur a également dit au comptable que l’appelante pouvait demander des CTI à l’égard des intrants afférents aux immeubles. L’appelante n’a pas contesté la cotisation, et M. Gehiere a dit que l’appelante avait commencé à percevoir la TPS sur les ventes et à demander des CTI.
+[10] L’appelante a maintenant décidé de contester le traitement des ventes en tant que fournitures taxables en interjetant appel des cotisations se rapportant aux huit ventes en litige.
+Les dispositions législatives
+[11] Les passages pertinents de l’article 2 de la partie I de l’annexe V de la Loi sont rédigés comme suit :
+Fournitures exonérées
+Immeubles
+2. La fourniture par vente d’un immeuble d’habitation, ou d’un droit dans un tel immeuble, [...] effectuée par une personne donnée autre que le constructeur de l’immeuble ou, si l’immeuble est un immeuble d’habitation à logements multiples, d’une adjonction à celui‑ci, sauf si, selon le cas :
+a) la personne donnée a demandé un crédit de taxe sur les intrants relativement à sa dernière acquisition de l’immeuble ou relativement à des améliorations apportées à celui‑ci, qu’elle a acquises, importées, ou transférées dans une province participante après sa dernière acquisition de l’immeuble;
+[...]
+[12] Les mots « constructeur » et « immeuble d’habitation » sont définis au paragraphe 123(1) de la Loi; les passages pertinents de ces définitions sont libellés comme suit :
+« constructeur » Est constructeur d’un immeuble d’habitation ou d’une adjonction à un immeuble d’habitation à logements multiples la personne qui, selon le cas :
+a) réalise, elle‑même ou par un intermédiaire, à un moment où elle a un droit sur l’immeuble sur lequel l’immeuble d’habitation est situé :
+(i) dans le cas d’une adjonction à un immeuble d’habitation à logements multiples, la construction de l’adjonction,
+(ii) dans le cas d’un logement en copropriété, la construction de l’immeuble d’habitation en copropriété dans lequel ce logement est situé,
+(iii) dans les autres cas, la construction ou des rénovations majeures de l’immeuble d’habitation;
+[...]
+« immeuble d’habitation »
+a) La partie constitutive d’un bâtiment qui comporte au moins une habitation, y compris :
+(i) la fraction des parties communes et des dépendances et du fonds contigu au bâtiment qui est raisonnablement nécessaire à l’usage résidentiel du bâtiment,
+(ii) la portion du fonds sous‑jacent au bâtiment correspondant au rapport entre cette partie constitutive et l’ensemble du bâtiment ;
+[13] L’article 192 de la Loi est rédigé comme suit :
+Rénovations mineures
+192. Pour l’application de la présente partie, la personne qui, dans le cadre d’une entreprise consistant à fournir des immeubles, procède à des rénovations ou à des transformations de son immeuble d’habitation, lesquelles ne constituent pas des rénovations majeures, est réputée :
+a) avoir effectué et reçu une fourniture taxable, dans la province où l’immeuble est situé et au moment où les rénovations sont achevées en grande partie ou, s’il est antérieur, au moment où la propriété de l’immeuble est transférée, pour une contrepartie égale au total des montants représentant chacun un montant relatif aux rénovations ou à la transformation (sauf le montant de la contrepartie payée ou payable par la personne pour un service financier ou pour un bien ou service au titre duquel elle est redevable d’une taxe) qui serait inclus dans le calcul du prix de base rajusté de l’immeuble pour la personne pour l’application de la Loi de l’impôt sur le revenu si l’immeuble était son immobilisation et si elle était un contribuable aux termes de cette loi;
+b) avoir payé à titre d’acquéreur et perçu à titre de fournisseur, à ce moment, la taxe relative à la fourniture, calculée sur le total déterminé à l’alinéa a).
+La position de l’appelante
+[14] L’avocat de l’appelante a soutenu que l’appelante n’était pas le constructeur des immeubles d’habitation en litige parce qu’elle ne les avait pas construits. Il a affirmé que les maisons étaient déjà construites avant d’être transportées jusqu’aux nouveaux lots et que des travaux mineurs seulement étaient exécutés afin de préparer les nouveaux lots et d’y fixer les maisons relocalisées. Ces travaux ne constituaient pas de la construction au sens de ce terme dans la définition du mot « constructeur » figurant au paragraphe 123(1) de la Loi.
+[15] L’avocat a soutenu que l’expression « construction de l’immeuble d’habitation », dans la définition du mot « constructeur », doit être lue dans son contexte et que, puisque le mot « constructeur » est défini dans la Loi comme étant une personne qui réalise la construction ou des rénovations majeures d’un immeuble d’habitation, la construction doit être interprétée comme comportant une activité de construction plus importante que des rénovations majeures. Selon la Loi, les rénovations majeures exigent qu’une habitation soit plus ou moins démolie[4], ce qui est déjà plus que ce que l’appelante faisait dans ce cas‑ci.
+[16] L’avocat de l’appelante a mentionné un certain nombre de décisions portant sur des demandes de remboursement pour habitations neuves en vertu du paragraphe 256(2) de la Loi. (Warnock c. La Reine, [1996] A.C.I. no 1527 (QL), McLean c. La Reine, [1998] A.C.I. no 435 (QL), Erickson c. La Reine, [2001] A.C.I. no 40 (QL), et Lair c. La Reine [2003] A.C.I. no 739 (QL)). Le libellé de l’alinéa 256(2)a) reprend le libellé de la définition du mot « constructeur » : le requérant est un particulier qui « lui‑même ou par un intermédiaire, construit un immeuble d’habitation [...] ou y fait des rénovations majeures ».
+[17] Dans les affaires Warnock et McLean, les appelants avaient apporté de grosses rénovations à leurs maisons, mais leurs demandes avaient été rejetées parce qu’il avait été conclu que les travaux ne constituaient pas des rénovations majeures. Dans l’affaire Erickson, l’appelant avait construit une grosse annexe à sa maison, doublant ainsi la superficie habitable. Il a été conclu que l’appelant n’avait pas construit un nouvel immeuble d’habitation. Dans l’affaire Lair, l’appelante avait reconstruit une maison que le juge a décrite comme étant « sur le point de s’effondrer ». La Cour a fait droit à la demande de remboursement, en concluant que les nouveaux locaux avaient été construits ou qu’il y avait du moins eu rénovation majeure des locaux. L’avocat a soutenu qu’étant donné que les travaux exécutés par l’appelante sur les maisons relocalisées étaient bien moins importants que les travaux exécutés dans chacune des affaires citées, il ne devrait pas être conclu que l’appelante a construit des immeubles d’habitation.
+[18] L’avocat de l’appelante a affirmé que les maisons qui avaient été relocalisées en l’espèce ne comportaient aucun changement majeur et que seuls les nouveaux systèmes auxiliaires avaient été ajoutés. Il a affirmé que les maisons relocalisées étaient des maisons qui avaient déjà servi avant d’être déménagées et qu’elles étaient encore des maisons qui avaient déjà servi après le déménagement.
+[19] En ce qui concerne les CTI, l’appelante a déclaré qu’elle avait uniquement demandé les crédits parce qu’elle croyait être obligée de traiter les ventes des maisons relocalisées comme des fournitures taxables par suite de la vérification et de la nouvelle cotisation, en 2001. La position de l’appelante est la suivante : elle a demandé les CTI par suite d’une erreur de droit; or, une demande invalide de CTI ne devrait pas être prise en compte pour l’application de l’article 2 de la partie I de l’annexe V de la Loi.
+[20] L’appelante maintient que même si elle a construit les immeubles d’habitation en question, elle n’a apporté que des rénovations mineures aux immeubles et elle affirme que l’article 192 de la Loi s’applique.
+La position de l’intimée
+[21] L’intimée a fait valoir que les maisons vendues par l’appelante étaient de nouveaux immeubles d’habitation que l’appelante avait construits sur de nouveaux lots en utilisant les structures qui avaient été déplacées depuis les anciens emplacements. L’avocat a dit que la définition de l’expression « immeuble d’habitation » prévoit qu’un immeuble d’habitation comporte deux éléments – la maison et le fonds sur lequel la maison est située. Par conséquent, dans ce cas‑ci, lorsque les maisons relocalisées ont été enlevées de leurs lots initiaux, elles ont cessé de faire partie des anciens immeubles d’habitation. En préparant les fondations sur les nouveaux lots, en installant les services et en mettant les maisons relocalisées sur les fondations, l’appelante a construit de nouveaux immeubles d’habitation. La création des nouveaux immeubles était assimilable à la construction de ces immeubles.
+[22] L’intimée n’a pas pris la position selon laquelle des rénovations majeures avaient été apportées aux maisons relocalisées parce que, fait l’objet de rénovations majeures « le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée [...] ». En l’espèce, aucun changement majeur n’avait été apporté au bâtiment.
+[23] En ce qui concerne la question des CTI, l’avocat a dit que s’il est conclu que les CTI ont été demandés par erreur, l’affaire devrait être renvoyée au ministre pour qu’il annule les CTI qui ont été demandés.
+[24] L’avocat de l’intimée a affirmé que l’article 192 de la Loi ne s’appliquait pas à l’appelante parce que l’appelante n’avait pas rénové un immeuble d’habitation préexistant. Elle avait créé un nouvel immeuble qui n’existait pas auparavant.
+L’analyse
+[25] Il s’agit en premier lieu de savoir s’il est possible de dire que l’appelante construisait des immeubles d’habitation lorsqu’elle transportait des maisons préexistantes jusqu’à de nouveaux lots.
+[26] Le mot « construction » n’est pas défini dans la Loi. Selon le Oxford English Dictionary (2e éd.), le mot « construction » (construction) veut dire ce qui suit :
+[traduction]
+édifier, créer ou former en assemblant des pièces; érection, bâtiment;
+et le mot « construct » (construire) veut dire :
+[traduction]
+fabriquer ou former en joignant les pièces; édifier, bâtir, ériger.
+[27] L’expression « construction or substantial renovation » figurant dans la version anglaise est rendue dans la version française de la définition du mot « constructeur », au paragraphe 123(1), par « construction ou rénovations majeures ». Selon Le Petit Robert (1989), le mot « construction » veut dire :
+Action de construire – assemblage, édification, érection.
+Et le mot « construire » veut dire :
+Bâtir, suivant un plan déterminé, avec des matériaux divers.
+[28] Compte tenu de ces définitions, j’interprète le sens ordinaire du mot « construction » comme s’entendant de l’action de faire quelque chose en combinant ou en assemblant des pièces ou des éléments. Par conséquent, la construction d’un immeuble d’habitation est la création d’un immeuble d’habitation au moyen de la combinaison ou de l’assemblage de pièces ou d’éléments.
+[29] L’appelante soutient que je devrais supposer que le législateur voulait que le mot « construction » s’applique à des travaux, à l’égard d’un immeuble d’habitation, qui sont plus étendus que des rénovations majeures de l’immeuble d’habitation et elle affirme que, puisque les travaux qu’elle a exécutés sur les maisons relocalisées dans ce cas‑ci étaient moins étendus que des rénovations majeures, ces travaux ne constituaient pas de la construction.
+[30] Selon une interprétation textuelle, contextuelle et téléologique du mot « constructeur », il n’est pas évident selon moi que le législateur voulait que la construction d’un immeuble d’habitation comporte nécessairement des travaux de construction plus étendus que des rénovations majeures.
+[31] Le sens ordinaire du mot « construction » énoncé ci‑dessus s’entend d’un type d’activité, plutôt que de l’étendue des travaux. Il est possible de faire une distinction entre ce mot et le mot « rénovations », en ce sens que la construction comporte la création de quelque chose de nouveau plutôt que la rénovation de quelque chose qui existe déjà.
+[32] Il est vrai que la définition de l’expression « rénovations majeures » s’entend d’une activité de construction très étendue, mais cela ne veut pas nécessairement dire qu’un sens similaire doit être attribué à l’expression « construction [...] de l’immeuble d’habitation ». En premier lieu, le législateur n’a pas choisi de modifier le mot « construction » à l’aide d’un qualificatif tel que « majeur » et, en second lieu, du fait qu’il a décidé de ne pas définir le mot « construction », il est possible de présumer que le législateur voulait que la définition ordinaire de ce mot s’applique.
+[33] Enfin, la définition du mot « constructeur » fait partie de l’économie de la Loi pour ce qui est de la taxation d’un immeuble à usage d’habitation. Or, selon l’économie de la loi, chaque immeuble d’habitation nouvellement construit est taxé une fois seulement, lorsqu’il est vendu par le constructeur[5]. À cette fin, il n’est pas nécessaire que la construction du nouvel immeuble d’habitation comporte une activité de construction plus étendue que ce que comportent les rénovations majeures d’un immeuble d’habitation existant. Il suffit qu’un nouvel immeuble d’habitation soit créé par l’activité. D’autre part, lorsqu’une habitation préexistante est rénovée, il est sensé d’exiger que des rénovations majeures y soient apportées, si l’intention est de cibler les cas dans lesquels les rénovations créent de fait un nouvel immeuble d’habitation.
+[34] L’appelante n’a pas démontré que l’emploi du mot « construction » dans la définition du mot « constructeur » est ambigu; de plus, le contexte et l’objet de la disposition ne donnent pas à entendre que, dans tous les cas, la construction doit comporter des travaux plus étendus que des rénovations majeures. Dans la plupart des cas, il en sera ainsi, mais il peut y avoir des exceptions. Un immeuble d’habitation pourrait également être construit à l’aide d’éléments préfabriqués, ce qui serait semblable à l’utilisation des structures relocalisées aux fins de la construction des nouveaux immeubles d’habitation dans ce cas‑ci. Chaque cas dépend des faits qui lui sont propres.
+[35] À mon avis, la décision Erickson qui a été mentionnée n’étaye pas la position de l’appelante. Dans l’affaire Erickson, il n’a jamais été contesté que la construction d’un immeuble d’habitation exige la création d’un nouvel immeuble. Dans cette affaire‑là, le demandeur avait construit une grosse annexe à sa maison et il avait demandé un remboursement pour habitations neuves à l’égard des travaux. Le demandeur avait reconnu qu’il n’avait pas apporté de rénovations majeures à la maison préexistante, parce qu’aucune transformation majeure n’avait été apportée à la structure initiale, mais il avait affirmé avoir construit un nouvel immeuble d’habitation. La Cour a conclu que les travaux n’étaient pas admissibles à titre de construction d’un immeuble d’habitation, et elle a dit qu’une annexe se rattachant à une maison préexistante constituerait uniquement la construction d’un nouvel immeuble d’habitation s’il était possible de conclure que la maison préexistante avait été intégrée à la nouvelle maison. Au paragraphe 16, la Cour a dit ce qui suit :
+[...] il peut y avoir des cas où une annexe est d’une dimension si importante par rapport au bâtiment original que l’on peut à juste titre affirmer que celui‑ci est intégré dans l’annexe d’une manière qui justifie la conclusion selon laquelle le bâtiment original a effectivement cessé d’exister en tant que logement. Dans un tel cas, un nouvel édifice a été construit, et la disposition relative au remboursement s’appliquera.
+[36] Il est possible de faire une distinction entre les faits de l’affaire Erickson et les faits dont je suis ici saisi. Dans l’affaire Erickson, des travaux avaient été exécutés sur un immeuble d’habitation préexistant alors que, dans ce cas‑ci, il n’y avait pas d’immeubles d’habitation préexistants aux nouveaux emplacements. L’appelante a créé de nouveaux immeubles d’habitation là où il n’y en avait pas auparavant.
+[37] L’avocat de l’appelante a soutenu que les structures des maisons qui étaient relocalisées étaient des immeubles d’habitation préexistants, de sorte que les travaux exécutés par l’appelante étaient des travaux sur des immeubles d’habitation préexistants plutôt que la création de nouveaux immeubles. Cet argument ne saurait être retenu. Les structures que l’appelante a transportées des anciens emplacements aux nouveaux emplacements n’étaient pas des immeubles d’habitation au sens de la Loi. L’expression « immeuble d’habitation » (autre qu’une maison mobile ou une maison flottante) est définie au paragraphe 123(1) de la Loi comme comprenant le fonds sous‑jacent à la structure et le fonds contigu qui est nécessaire à l’usage résidentiel du bâtiment. Par conséquent, la structure d’une maison ne constitue qu’une partie d’un immeuble d’habitation. S’il n’y avait pas de fonds, la structure ne pourrait pas servir de résidence. En l’espèce, lorsque les maisons existantes ont été enlevées de leurs fondations et qu’elles ont été enlevées des lots sur lesquels elles étaient initialement situées, elles ont cessé de faire partie des immeubles d’habitation initiaux parce qu’elles n’étaient plus fixées au fonds qui était nécessaire à l’usage résidentiel. Après avoir de nouveau été fixées à un fonds qui était nécessaire à l’usage résidentiel, les maisons faisaient partie d’un nouvel immeuble d’habitation. Cependant, pendant le transport, les structures ne conservaient pas leur caractère d’immeubles d’habitation.
+[38] Les décisions Warnock et McLean n’aident pas non plus l’appelante. Ces affaires portaient sur la question de savoir si les appelants avaient apporté des rénovations majeures à leurs maisons et non sur la question de la construction d’un immeuble d’habitation.
+[39] Enfin, dans la décision Lair, la Cour n’a pas donné de définition du mot « construction », mais elle a dit que la détermination devait s’appuyer sur les faits de chaque cas. De plus, comme dans l’affaire Erickson, les travaux, dans l’affaire Lair, avaient été exécutés sur un immeuble d’habitation préexistant.
+[40] Je conclus que les maisons vendues par l’appelante étaient de nouveaux immeubles d’habitation qui ont été construits par l’appelante. Les maisons relocalisées elles‑mêmes (c’est‑à‑dire les structures) n’ont pas été construites par l’appelante, mais ces structures ne constituaient qu’une partie de chacun des immeubles d’habitation qui ont été vendus. Ces structures étaient l’une des pièces ou l’un des éléments intégrés à la construction des nouveaux immeubles. Afin de servir de lieux d’habitation, les structures devaient avoir de nouvelles fondations, de nouveaux services et des voies d’accès. Ces éléments ont été assemblés ou combinés avec la maison relocalisée en vue de produire des immeubles d’habitation finis. Ce processus était assimilable à la « construction » de nouveaux immeubles d’habitation au sens qui est attribué à ce mot dans la définition du mot « constructeur », au paragraphe 123(1) de la Loi.
+[41] Étant donné la conclusion que j’ai tirée au sujet de la première question, je n’ai pas à décider si l’appelante était inadmissible à l’exonération de la TPS parce qu’elle avait demandé des CTI à l’égard de fournitures utilisées dans la construction des nouveaux immeubles d’habitation. Toutefois, je suppose que l’expression « a demandé un crédit de taxe sur les intrants » figurant dans la définition du mot « constructeur », au paragraphe 123(1), se rapporte à un CTI qui a été demandé conformément à la loi. Si l’appelante n’avait pas légalement le droit de demander les CTI, le fait qu’elle l’a fait n’empêcherait pas pour autant la vente des maisons d’être exonérée en vertu de l’article 2 de la partie I de l’annexe V.
+[42] L’appelante maintient que, même si elle a construit les immeubles d’habitation en question, les travaux qu’elle a exécutés ne constituaient que des rénovations mineures des immeubles et que l’article 192 de la Loi s’applique. L’article 192 établit une règle de fourniture à soi‑même qui s’applique lorsqu’une personne, dans le cadre d’une entreprise consistant à fournir des immeubles, procède à des rénovations ou à des transformations mineures de son immeuble d’habitation. Selon cette disposition, le montant de la TPS à verser serait calculé uniquement sur une fraction de la valeur ajoutée à l’immeuble par l’appelante, plutôt que sur le prix de vente global de l’immeuble visé par la cotisation établie par le ministre.
+[43] Je suis d’accord avec l’intimée lorsqu’elle affirme que l’article 192 s’applique uniquement aux rénovations ou aux transformations apportées à des immeubles d’habitation préexistants. Pour les motifs qui ont ci‑dessus été énoncés, les structures des maisons relocalisées n’étaient pas des immeubles d’habitation pendant le transport, et les activités de l’appelante étaient assimilables à la construction de nouveaux immeubles d’habitation. Cette interprétation est conforme à l’économie de la Loi, à savoir imposer la taxe relative à la vente d’immeubles d’habitation nouvellement construits sur la contrepartie globale qui a été payée.
+[44] Enfin, je crois qu’il faut également mentionner une question que les parties n’ont pas soulevée, mais qui découle de la preuve présentée par M. Gehiere, laquelle donnait à entendre que l’appelante avait perçu et versé la TPS sur la vente des maisons relocalisées. Si la TPS avait en fait été perçue et versée à l’égard des ventes, l’appelante aurait été tenue de verser la TPS au ministre même si les ventes étaient des fournitures exonérées et même si la TPS avait été perçue par erreur. (Cela comprendrait même les ventes à l’égard desquelles l’intimée reconnaît maintenant que l’appelante n’était pas tenue de percevoir ou de verser la TPS.) Lorsque la TPS est perçue par erreur, elle fait partie de la taxe nette en vertu du paragraphe 225(1) de la Loi et elle doit être versée (voir ITA International Travel Agency Ltd. c. Canada, 2002 CAF 200). Toutefois, la taxe peut être remboursée à la personne qui a payé la TPS par erreur, en vertu de l’article 261 de la Loi.
+[45] La preuve que M. Gehiere a présentée au sujet de la perception de la TPS sur les ventes était plutôt vague, et la preuve documentaire tendait à contredire le témoignage de M. Gehiere. Ainsi, aucun des états de rajustements n’indiquait que la TPS avait été perçue des acheteurs. Compte tenu de la preuve dans son ensemble, je ne suis pas convaincu que la TPS ait été perçue ou qu’elle ait été versée par l’appelante sur les ventes en question. Je suppose que si le ministre avait conclu que la TPS avait été perçue et versée à l’égard de toutes les ventes, la question aurait été soulevée dans la réponse à l’avis d’appel.
+[46] L’appel sera accueilli en partie, sans qu’aucuns dépens soient adjugés, conformément à la concession que l’intimée a faite, à savoir que l’appelante n’était pas tenue de percevoir la TPS sur trois des ventes qui ont donné lieu à une cotisation.
+Signé à Ottawa, Canada, ce 29e jour de mai 2009.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 8e jour de juillet 2009.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2009 CCI 292
+No DU DOSSIER DE LA COUR : 2006-1882(GST)I
+INTITULÉ : 1096288 ONTARIO LIMITED c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 12 mars 2009
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 29 mai 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Robert Harper
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Robert Harper
+Cabinet : Hillsburgh (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les cotisations s’appliquaient à 15 ventes de maison en tout, mais l’appelante a reconnu que quatre ventes ne se rapportaient pas à des maisons relocalisées et que le ministre les avait à juste titre traitées comme des fournitures taxables.
+[2] Il s’agit des ventes énumérées à l’annexe B de l’avis d’appel modifié.
+[3] Il s’agit des ventes énumérées à l’annexe A de l’avis d’appel modifié.
+[4] Cette définition est rédigée comme suit : « rénovations majeures » Fait l’objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l’achèvement des travaux, le bâtiment constitue un immeuble d’habitation ou fait partie d’un tel immeuble.
+[5] Voir l’analyse de David Sherman, commentaire du paragraphe 123(1), définition de « constructeur ».

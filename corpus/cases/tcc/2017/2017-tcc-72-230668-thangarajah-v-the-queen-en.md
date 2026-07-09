@@ -1,0 +1,185 @@
+---
+title: "Thangarajah v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/230668/index.do"
+last_modified: "2017-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 72"
+citation2: ""
+neutral_citation: "2017 TCC 72"
+decision_date: "2017-05-02"
+language: "en"
+item_id: "230668"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2313
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:23:36.763000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "18ac75a8a4c126d14ad7c03eeb215fa94f02cf2ea3331255ecf77e50461a5949"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thangarajah v. The Queen
+
+- Citation: 2017 TCC 72
+- Decision date: 2017-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2313, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thangarajah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-05-02
+Neutral citation
+2017 TCC 72
+File numbers
+2016-2839(IT)APP, 2016-2840(IT)APP
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2840(IT)APP
+BETWEEN:
+MALINI THANGARAJAH,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on common evidence with the Application of 1670000 Ontario Inc. (2016-2839(IT)APP) on January 20, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Agent for the Applicant:
+Val Purushothaman
+Counsel for the Respondent:
+Eric Myles
+ORDER
+The Application for an extension of time to deliver a Notice of Objection to the Notice of Reassessment issued on November 14, 2014 made under the Income Tax Act, with respect to the 2011 and 2012 taxation years, is hereby dismissed, without costs, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 2nd day of May 2017.
+“Guy Smith”
+Smith J.
+Docket: 2016-2839(IT)APP
+BETWEEN:
+1670000 ONTARIO INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on common evidence with the Application of Malini Thangarajah (2016-2840(IT)APP) on January 20, 2017, at Toronto, Ontario.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Agent for the Applicant:
+Val Purushothaman
+Counsel for the Respondent:
+Eric Myles
+ORDER
+The Application for an extension of time to deliver a Notice of Objection to the Notice of Reassessment issued on November 5, 2014 made under the Income Tax Act, with respect to the 2011 and 2012 taxation years, is hereby dismissed, without costs, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 2nd day of May 2017.
+“Guy Smith”
+Smith J.
+Citation: 2017 TCC 72
+Date: 20170502
+Docket: 2016-2840(IT)APP
+BETWEEN:
+MALINI THANGARAJAH,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2016-2839(IT)APP
+AND BETWEEN:
+1670000 ONTARIO INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Smith J.
+[1] The Applicants, Malini Thangarajah and 1670000 Ontario Inc., filed Applications to extend the time to deliver notices of objection to Notices of Reassessment issued in November 2014 with respect to the 2011 and 2012 taxation years. Both Applications were heard on common evidence.
+[2] The following issues need to be addressed by the Court:
+i) Whether the Applications filed on July 8, 2016, for an extension of time to file notices of objection, meet the requirements of subsection 166.2(1) of the Income Tax Act, R.S.C., 1985, c. 1, (5th Suppl.) (the “Act”);
+ii) In the alternative, whether the letter from the applicants’ former agent, dated September 10, 2015, as further described below, can be characterized as an application for an extension of time to file a notice of objection pursuant to subsection 166.1(2) of the Act.
+[3] At the conclusion of the hearing held on January 20, 2017, the Applicants conceded that the Applications filed on July 8, 2016 were made out of time in that they were filed more than one year “after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer”. It was also apparent that they did not dispute the Respondent’s position that this Court does not have the authority to extend the time limits established by Parliament for the filing of such applications. As a result, there is no need to address this issue in any further detail or to refer to the abundant case law on the matter.
+[4] Having heard from the Applicants’ agent on the second issue, the Court issued an interim order as well as oral reasons on March 1, 2017, adjourning the proceedings to give the Minister time to consider whether the letter of September 10, 2015 (which had not been referred to in the Respondent’s affidavit) could be recognized as a valid application to extend the time to file notices of objection. By letter dated March 22, 2017, the Respondent advised the Court of its position that the aforesaid letter should not be recognized as such. That issue can now be considered by the Court.
+Background
+[5] What follows is a short summary of the evidence as previously reviewed in the oral reasons delivered on March 1, 2017. Ms. Thangarajah testified on her own behalf as well as for the corporate applicant for which she was the sole shareholder and director. She explained that her business was the subject of an audit in early 2014 and that, after several meetings, she received a summary of CRA’s position in a letter dated June 18, 2014. This letter was addressed to the corporate applicant and a second letter was addressed to her personally and dated October 22, 2014. Both letters referred to unreported income and to a proposed reassessment based on an indirect or net worth assessment methodology.
+[6] Ms. Thangarajah testified that she did not agree with CRA’s position and that, sometime during the audit stage, she retained the services of Ramesh Nicholas of CB Legal Firm, Nicholas & Associates. A copy of the retainer dated August 21, 2014 was filed as evidence. Mr. Nicholas was authorized to retain the services of two individuals to perform — and I quote from the retainer letter — “an accounting or reconciliation of the Applicants’ accounts”.
+[7] Although it is not clear what if anything, Mr. Nicholas actually accomplished for the Applicants, Ms. Thangarajah testified that she met with him on several occasions, often accompanied by her son, to review the accounting and progress of the file. It was her understanding that Mr. Nicholas would do whatever was required to deal with the Notices of Assessment, though it was not clear that she actually understood the importance of filing notices of objection. It appears from the evidence submitted that an agent authorization form, known as a Form 1013A, was prepared and signed by her on February 21, 2015 and sent to CRA on March 3, 2015 but there is no evidence that a similar form was filed for the corporate Applicant.
+[8] In the months that followed, Ms. Thangarajah received calls from the CRA Collections Office and Mr. Nicholas was appropriately informed and asked to take action. He finally did so and this is made apparent in a letter dated September 10, 2015 addressed to a certain Trudy Duggan of the CRA Collections Office, in which he sought to confirm a telephone conversation that took place shortly prior thereto. Mr. Nicholas confirmed that the Applicants’ accounting records were being reviewed by appropriate professionals, that this process was almost complete and that, presumably as advised by Ms. Duggan, he understood the need to file Notices of Objection using the forms T400A for an individual and RCS9 for a corporation and that, as soon as he heard from the accounting professionals, he would initiate what he referred to as the “appeal process”.
+[9] As appears from a fax marked as Exhibit A‑9, Ms. Duggan responded with a faxed letter the next day in which she indicated that the collections file had been updated to indicate that an appeal for the 2011 and 2012 taxation years was forthcoming with a further notation that this had to be done as soon as possible. There was also on indication that while documents could be copied to her office — and I quote from the fax in question — “all original documents or submissions” have to be submitted to the appropriate division.
+[10] In any event, it appears that nothing else was done and that actual notices of objection were not filed such that the CRA Collections Office undertook further steps that lead to the seizure of the Applicants’ bank accounts. This eventually led to the firing of Mr. Nicholas. A complaint was made to the Law Society of Upper Canada and eventually, a banker’s box containing the Applicants’ documents was retrieved. It appears that Mr. Nicholas may have misrepresented his status and used the expression “Nicholas Legal Firm” when he was a paralegal and not a member in good standing of the Ontario Bar. I will add that there was a suggestion that Mr. Nicholas’ status as a paralegal had since been revoked though nothing was put before the Court to corroborate this. To conclude on this issue, it is clear that the Applicants were deceived and that they suffered as a result of Mr. Nicholas’s failure to file the notices of objection.
+[11] To complete my review of the facts, I will only add that Ms. Thangarajah’s son also testified at the hearing. He corroborated his mother’s intention to challenge the results of the CRA audit and eventually the Notices of Reassessment. He confirmed the difficulties with Mr. Nicholas and the complaint to the Law Society and also stressed that the Notices of Reassessment would impose an economic hardship on his mother.
+[12] As noted above, at the conclusion of the hearing, the agent for both Applicants argued that the letter of September 10, 2015 should be treated as valid notices of objection and that, even if it was filed beyond the 90 day period referenced above, there was no need to file an Application to extend the time for doing so since Ms. Duggan’s faxed letters of September 11, 2015, filed as Exhibit A‑9, contained an acknowledgement of receipt.
+[13] The Applicants relied on a decision of this Court in Melanson v. The Queen, 2011 TCC 569, that dealt with a taxpayer who had delivered a Notice of Objection to CRA two days after the expiry of the 90 day period from the mailing of the Notice of Reassessment. However, the letter was not addressed to the Chief of Appeals as required by subsection 165(2) of the Act. Justice Hershfield found that the Minister had the discretion to accept the Notice of Objection as an Application to extend the time pursuant to subsection 166.1(4) even though it was not addressed to the Chief of Appeals and was not in the prescribed form. He also referred to subsection 220(2.1) of the Act in finding that where the Act referred to a prescribed form, the Minister could waive such a requirement. In the end, Justice Hershfield found that the taxpayer had been misdirected and in paragraph 27 found that “the applicant took reasonable steps to comply with the law and acted on incorrect written information given by the Agency when she was told how to file an objection without being warned that she was already past the 90 day limitation period”. Justice Hershfield then adjourned the proceeding and referred the matter back to the Minister to consider the appropriateness of exercising the discretion offered to her by various provisions of the Act. The ultimate outcome of that case is not known.
+Was the letter of September 10, 2015 an application to extend time?
+[14] As indicated above, following the reasoning of this Court in Melanson, supra, the Applications to extend the time to file notices of objection were adjourned sine die to allow the Respondent to consider whether the letter of September 10, 2015 could be considered as valid applications. As indicated above, the Respondent declined to do so by letter dated March 22, 2017.
+[15] As indicated in the oral reasons delivered on March 1, 2017, the Court is not prepared to accept the Applicants’ argument that the letter of September 10, 2015 was a notice of objection, even though the case law has established a rather low threshold for documents that are not in the prescribed form or lack detailed facts and reasons. The position of this Court (and indeed of CRA) might have been different if the letter in question had been titled “Notice of Objection” or if it had been served on the Chief of Appeals, as required by subsection 165(2) of the Act, or if, at the very least, it had been delivered to CRA within the requisite 90 days from the mailing of the Notices of Reassessment.
+[16] The best that the Applicants can hope for is that the letter of September 10, 2015 can be recognized by the Court as an application for an extension of time to file a notice of objection. As indicated above, the Respondent has declined to recognize the letter as such and while no specific reasons were provided, it is apparent on the face of it that the letter does not “set out the reasons why the notice of objection (…) was not served on time”, as required by subsection 166.1(2) of the Act. In the end, we can logically assume that the Minister concluded that the letter did not satisfy the requirements of subsection 166.1(7).
+[17] Turning to the merits of the Applications, I note that Ms. Duggan informed the Applicants’ agent of the need to proceed expeditiously and file notices of objection, even referring to the appropriate forms. As noted in my oral reasons delivered on March 1, 2017, I find that she had a duty to go one step further and inform Mr. Nicholas that he was already out of time to file notices of objection and that he would have to file an application for an extension of time. She failed to convey that information to him. But having found that she failed to meet a certain service standard, the question remains: what is the legal consequence of that failure?
+[18] As has often been stated, the Tax Court of Canada is not a court of equity and perceived notions of fairness do not trump specific legislative provisions. At the end of the day, the Court must look to the applicable provisions of the Act. Subsection 166.2(5) provides as follows:
+(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[19] Even if the Court were to conclude that the letter of September 10, 2015 was sent to the CRA Collections Office within the one year period from the expiry of the 90 days from the mailing of the Notices of Reassessment, it would still have to be satisfied that the letter itself could indeed be characterized as an application to extend time. It is difficult to do so since the letter does not reference the statutory time limits and does not mention that the taxpayer is seeking any kind of extension. Moreover, as noted above, it does not state the reason why the notices of objection were not filed on time. The suggestion that the applicants were waiting for the accountants to complete their review, while providing an explanation for the delay, does not address the failure to deliver the notices of objection within the 90 days statutory limit.
+[20] In the end, the Court agrees with the Respondent and concludes that the letter of September 10, 2015 does not constitute an application to extend the time to file a notice of objection as required by paragraph 166.2(5)(a). As a result, it is not necessary to review the three‑pronged test set out in subparagraphs 166.2(5)(b)(i), (ii) or (iii) of the Act.
+[21] Although this effectively disposes of the Applications, the Court will comment on the fact that the Applicants retained and relied on the services of Mr. Nicholas, ostensibly a lawyer, to assist with the preparation and filing of the documentation necessary for the appeal of the Notices of Reassessment. Although he had ample time to prepare and file the required notices of objection, having been retained several months before the actual issuance of the Notices of Reassessments, he clearly failed to do so. No reasons were given for this failure though the inescapable conclusion is that it was due to his ineptitude and incompetence. In other words, it appears he did not know what he was doing.
+[22] However, in terms of the outcome of this case, in my view, nothing turns on the fact that Mr. Nicholas held himself out as a lawyer when in fact he was only a paralegal. That is a matter for the appropriate professional governing body. Even if the Applicants may have a cause of action for damages arising out the Mr. Nicholas’s negligence — a cause of action that would have to be pursued in another court of law, the case law from this Court has clearly established that a taxpayer who seeks to rely on a lawyer’s negligence, must also demonstrate that such lawyer acted with due diligence. That principle was explained in Di Modica v. Canada, [2001] T.C.J. No. 620 (Q.L.) at paragraph 16:
+[16] It is my view that an error by counsel can be a just and equitable reason for granting an extension of time if counsel otherwise exercised the reasonable diligence required of a lawyer. I do not think that the state of the law is such that counsel's negligence or carelessness can constitute a just and equitable reason for granting the requested extension within the meaning of subparagraph 166.2(5)(b)(ii) of the Act.
+[23] While the Court has a general policy of dealing with matters on the merits, there are limits to what it can do. In the case of Chu v. The Queen, 2009 TCC 444, a taxpayer had similarly retained the services of tax advisers to prepare and file a notice of objection but they failed to do so. Having discovered the error, the taxpayer filed an application to extend the time to file the notice of objection but the application was filed more than one year after the expiry of the 90 day period from the mailing of the Notice of Assessment. Justice Hershfield concluded that his hands were effectively “tied” (para. 18) and although it was apparent that the professional advisers had been negligent, the Court was not “an insurer against such malfeasance” (para. 21). He concluded as follows:
+[22] I cannot massage the language of the subject provision; I have no jurisdiction to do so. There is no place for me to do that given the clear statutory language of the subject provisions (…).
+[24] This outcome is most unfortunate for the Applicants. Nonetheless, for all the foregoing reasons, the Applications must be dismissed.
+Signed at Ottawa, Canada, this 2nd day of May 2017.
+“Guy Smith”
+Smith J.
+CITATION:
+2017 TCC 72
+COURT FILE NOS:
+2016-2840(IT)APP 2016-2839(IT)APP
+STYLE OF CAUSE:
+MALINI THANGARAJAH and 1670000 ONTARIO INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 20, 2017
+REASONS FOR ORDER BY:
+The Honourable Justice Guy R. Smith
+DATE OF ORDER:
+May 2, 2017
+APPEARANCES:
+Agent for the Applicants:
+Val Purushothaman
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Applicants:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

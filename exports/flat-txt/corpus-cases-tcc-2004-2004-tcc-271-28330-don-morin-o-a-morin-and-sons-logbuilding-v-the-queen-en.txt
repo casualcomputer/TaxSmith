@@ -1,0 +1,123 @@
+Title: Don Morin O/A Morin and Sons Logbuilding v. the Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28330/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-271-28330-don-morin-o-a-morin-and-sons-logbuilding-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-04-02
+
+# Don Morin O/A Morin and Sons Logbuilding v. the Queen
+
+- Citation: 2004 TCC 271
+- Decision date: 2004-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1849, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Don Morin O/A Morin and Sons Logbuilding v. the Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-02
+Neutral citation
+2004 TCC 271
+File numbers
+2003-2133(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-2133(GST)I
+BETWEEN:
+DON MORIN O/A MORIN AND SONS LOGBUILDING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 16, 2004 at Edmonton, Alberta
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Roderick C. Payne
+Counsel for the Respondent:
+Karen Wood
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated February 22, 2002 and bears number 10122366, is allowed in accordance with the terms of the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of April 2004.
+"B. Paris"
+Paris, J.
+Citation: 2004TCC271
+Date:20040402
+Docket: 2003-2133(GST)I
+BETWEEN:
+DON MORIN O/A MORIN AND SONS LOGBUILDING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The appellant, Mr. Morin, is a Yellowknife businessman. In 1999 he purchased five log home packages for export to Japan. The log homes were to be constructed in Canada by Digha Log Homes, then disassembled and shipped to Japan for reassembly as part of a resort outside Osaka.
+[2] Mr. Morin claimed an input tax credit ("ITC") of $9,394.43 for GST purportedly paid on the purchase of the packages but the Minister of National Revenue disallowed the claim. In the Minister's view the packages were acquired for immediate export and were zero-rated supplies falling under Schedule VI of the Excise Tax Act. The Minister therefore assumed that the appellant was not required to pay GST on the packages and consequently that he could not claim an ITC.
+[3] The issue in this appeal is whether the Minister was correct in determining that the supply of the log home packages to the appellant was zero-rated.
+Facts:
+[4] In July 1999, the appellant entered into a contract with Digha to purchase the log home packages. Digha agreed to provide the packages to the appellant at the end of September 1999 for a price of $140,000.00 inclusive of all taxes. [1]
+[5] Digha fell behind in the construction of the homes and they were not completed until around November 1, 1999. At that point the appellant and some of his workers travelled to Fort Smith to Digha's worksite and took delivery of the log homes which were fully assembled. They proceeded to disassemble the structures and number and colour-code the pieces to permit re-assembly. They also added some materials (steel rods, nuts, bolts and some lumber and plywood) that were necessary for the final assembly of the homes, and wrapped the packages up nicely, since packaging and presentation were important to Japanese customers. The appellant also included an assembly manual in Japanese with the packages. The packages were then taken by truck to Vancouver, and shipped overseas.
+Relevant Legislation
+[6] Pursuant to subsection 169(1) of the Act, a person is only entitled to an input tax credit in respect of a supply on which GST was payable or paid by him. No input tax credit is available in respect of a zero-rated supply because no GST is payable on it.
+[7] Schedule VI to the Act sets out what supplies are zero-rated. Goods purchased for immediate export will be zero-rated if they meet certain conditions, including that the goods be tangible personal property, and that after the supply is made and before the recipient exports the goods, they not be further processed, transformed or altered in Canada except to the extent reasonably necessary or incidental to their transportation.[2]
+[8] In this case, the Minister assumed that the log home packages were tangible personal property and that they were not further processed, altered or transformed beyond what was necessary and incidental to their transportation after they were received from Digha.
+Was the contract between the appellant and Digha for work and materials, or for tangible personal property?
+[9] The appellant submitted that the contract it entered into with Digha was one for work and materials rather than for the supply of tangible personal property because the value of the materials used by Digha in the construction of the log home packages was minimal compared to the value of the labour expended. Therefore, he suggested that the contract between the appellant and Digha should be treated as a supply of services rather than a supply of property.
+[10] This argument is without merit. In this case the contract between the appellant and Digha is stated to be for the "supply and purchase of log building packages", that "Morin and Sons Log Buildings will purchase five packages" and that "[t]his is an agreement to purchase the products under the terms and conditions noted herein". Digha did not perform work on goods belonging to the appellant nor did the appellant supply any of the materials used by Digha in the construction of the log home packages. The packages were transferred to the appellant under a contract of sale and not under a contract for work and materials.
+[11] The packages were also clearly "tangible personal property". Although that term is not defined in the Act, "property" and "personal property" are. Subsection 123(1) of the Act provides that property is:
+... any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+and that personal property is:
+... property that is not real property;
+[12] The evidence shows that the log home packages were property that was not real property and was tangible. I have no difficulty in concluding that the appellant contracted for and received a supply of tangible personal property from Digha, and that the contract was not one for work and materials or for services.
+Did the Appellant further process, transform or alter the packages beyond what was necessary or incidental to their transportation?
+[13] The appellant also submitted that, by numbering and colour-coding the pieces and adding materials to the packages after they were received from Digha, he further processed, transformed or altered the log home packages beyond what was reasonably necessary or incidental to their transportation. Therefore, the supply made by Digha to him could not have been zero-rated under paragraph 1(d) of Part V of Schedule VI.
+[14] The respondent argued that the colour coding of and addition of the materials to the packages did not change them in any substantial way and that those steps were part of the process of shipping the packages. She compared this case to Bam Packaging v. R. [2001] G.S.T.C. 76 where freight handling services that were provided by the taxpayer were found to be incidental to the transportation of goods and not to be further processing, transformation or alteration of the goods beyond what was reasonably necessary for their transportation. In Bam, the taxpayer's services included taking receipt of goods from clients; unloading and checking them; dismantling them as necessary; packing; recording, and weighing them, labelling the goods for approval by foreign customs agents transferring them into shipping containers and sealing the containers.
+[15] Whether or not an item of tangible personal property has been further processed, transformed or altered beyond what is reasonably necessary or incidental to its transportation is a question of fact.
+[16] In my view, by numbering and colour coding the pieces, and adding materials to the packages, the appellant altered them beyond what was necessary to transport them. The changes made by the appellant to the packages were not for the purposes of transporting or shipping them, and can be easily distinguished from the activities undertaken by the taxpayer in Bam. The colour coding and the additional materials were necessary for the reassembly of the log homes. Without these things the packages were not complete. The standing structures that the appellant received from Digha required more work and additional parts to be finished into log home packages before being packaged for shipment to Japan. In combination, the changes made by the appellant here were sufficient to take the supply outside the scope of paragraph 1(d) of Part V of Schedule VI to the Act.
+[17] For these reasons, I find that the supply of the log home packages by Digha to the appellant was not a zero-rated supply, that GST was payable by the appellant on it and that it he is entitled to an ITC as claimed. The appeal is allowed.
+Signed at Ottawa, Canada, this 2nd day of April 2004.
+"B. Paris"
+Paris, J.
+CITATION:
+2004TCC271
+COURT FILE NO.:
+2003-2133(GST)I
+STYLE OF CAUSE:
+DON MORIN O/A MORIN AND SONS LOGBUILDING AND H.M.Q.
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+January 16, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+April 2, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Roderick C. Payne
+Counsel for the Respondent:
+Karen Wood
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Roderick C. Payne
+Firm:
+Hushwick Wetsch Moffat & McRae
+Edmonton, Alberta
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appellant and the respondent disagreed whether the price paid by the appellant for the packages included GST, despite the wording of the contract. However, it is not material whether the appellant actually paid GST to Digha, because the entitlement to an ITC arises if tax was payable or paid on the supply. The respondent does not dispute that if the supply of the packages was not zero-rated GST would have been payable on the supply and that the appellant would be entitled to an ITC.
+[2] Section 1 of Part V of Schedule VI

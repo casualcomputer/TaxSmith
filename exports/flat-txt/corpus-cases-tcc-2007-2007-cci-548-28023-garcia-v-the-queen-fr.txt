@@ -1,0 +1,244 @@
+Title: Garcia v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28023/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-548-28023-garcia-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-09-28
+
+# Garcia v. The Queen
+
+- Citation: 2007 CCI 548
+- Decision date: 2007-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1609, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garcia v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-28
+Référence neutre
+2007 CCI 548
+Numéro de dossier
+2006-2458(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2458(IT)I
+ENTRE :
+HERVE L. GARCIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 31 mai 2007, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelant :
+Jack R. Bowerman
+Avocat de l’intimée :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2003 est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 9e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI548
+Date : 20070928
+Dossier : 2006-2458(IT)I
+ENTRE :
+HERVE L. GARCIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant, un citoyen français, est ingénieur. En 1993, il a déménagé avec sa famille aux États-Unis en raison de son travail. Il a obtenu sa carte verte aux États‑Unis et, pendant son séjour là‑bas, il a déménagé trois fois en raison de son travail; chaque fois, il a vendu sa résidence et en a acheté une autre. À la fin de l’année 2002, son employeur l’a envoyé travailler au Canada. Il a donc vendu sa maison à Los Angeles et il en a acheté une autre au Canada. En décembre 2002, il a obtenu son permis de travail au Canada et y a alors emménagé.
+[2] Par ailleurs, comme il ne voulait pas perdre sa carte verte, il a demandé et obtenu un permis de retour des autorités américaines. Ce permis non renouvelable, qui était valide pour une période de deux ans, a été délivré le 26 mars 2004.
+[3] L’appelant a conservé tous les comptes de placement et les comptes bancaires qu’il avait aux États‑Unis. Il disposait également d’une boîte postale là‑bas. Ses véhicules étaient tous enregistrés aux États-Unis mais immatriculés en Ontario à des fins d’assurance. Lorsqu’il a quitté les États‑Unis, l’appelant n’avait pas la citoyenneté américaine. Comme il n’est jamais retourné aux États‑Unis après avoir déménagé au Canada, son permis de retour a expiré et il n’a jamais d’ailleurs obtenu la citoyenneté américaine.
+[4] En 2002, la dernière année où il a travaillé aux États-Unis, il était au service d’ActivCard. Son contrat de travail (pièce A‑1, onglet 1) indique qu’il avait droit à une prime annuelle maximale égale à 20 p. 100 de son salaire de base, calculée d’après le rendement général de l’entreprise et la réalisation d’objectifs de rendement personnels. Le montant de la prime était établi en février ou en mars de l’année suivante.
+[5] L’année financière de la société se terminait le 31 décembre. L’appelant a reçu en 2003 une prime de 30 000 $US (42 000 $CA) rattachée à l’emploi occupé en 2002.
+[6] L’appelant a produit sa déclaration de revenus pour l’année 2003 au Canada en tant que non‑résident. Il a également produit une déclaration fiscale aux États‑Unis, mais il a profité de l’exemption de revenu gagné à l’étranger applicable aux salaires ou aux traitements des résidents américains travaillant à l’étranger, laquelle exemption, pouvant atteindre un montant de 80 000 $, est prévue par le droit fiscal américain. Cette exemption, combinée aux autres crédits fiscaux américains, lui a permis de ne pas payer d’impôt sur sa prime aux États‑Unis.
+[7] An Canada, il a produit une déclaration de revenus en vertu de l’article 115 de la Loi de l’impôt sur le revenu (la « LIR »). Il a inclus la prime dans ses revenus, mais l’a déduite comme revenu de source étrangère. L’appelant a fait l’objet d’une nouvelle cotisation comme résident du Canada et, en vertu des articles 3 et 5 de la LIR, la prime a été incluse dans le revenu d’emploi qu’il avait touché en 2003 alors qu’il résidait au Canada.
+Résidence
+[8] Les parties ne contestent pas réellement le fait que l’appelant résidait de façon habituelle au Canada en 2003. En fait, il avait suffisamment de liens au Canada (résidence, famille, assurance de soins médicaux, véhicules immatriculés en Ontario, permis de conduire ontarien, emploi en Ontario, compte bancaire) pour qu’il soit possible d’établir qu’il y résidait en 2003. De plus, les parties conviennent que, compte tenu du fait qu’il avait une carte verte, l’appelant était également résident des États‑Unis (voir Allchin v. R., 2004 CarswellNat 1535, [2004] 4 C.T.C. 1 (C.A.F.)).
+[9] L’appelant a par ailleurs allégué que, en vertu de l’article IV de la Convention fiscale de 1980 entre le Canada et les États-Unis d’Amérique (la « Convention »), il était résident des États-Unis, en application des règles décisives de la Convention. Il a soutenu qu’il ne disposait pas d’un foyer d’habitation permanent au Canada, parce qu’il avait acheté la maison dans laquelle il habitait en pensant qu’il ne ferait que séjourner au Canada (pendant 2 ou 3 ans). En outre, il a affirmé que la plupart de ses liens économiques étaient tissés avec les États-Unis, puisque presque tous ses placements s’y trouvaient.
+[10] L’article IV de la Convention est rédigé comme suit :
+(1) Au sens de la présente Convention, le terme « résident » d’un État contractant désigne toute personne qui, en vertu de la législation de cet État, est assujettie à l’impôt dans cet État en raison de son domicile, de sa résidence, de sa citoyenneté, de son siège de direction, de son lieu de constitution ou de tout autre critère de nature analogue […]. Au sens du présent paragraphe, une personne physique qui n’est pas un résident du Canada en vertu du présent paragraphe et qui est un citoyen des États-Unis ou un étranger ayant obtenu le droit de résider de façon permanente aux États-Unis (un détenteur de la « carte verte ») n’est un résident des États‑Unis que si cette personne physique a une présence importante aux États-Unis, y possède un foyer d’habitation permanent ou si elle y séjourne de façon habituelle et que ses liens personnels et économiques avec les États‑Unis sont plus étroits que ceux qu’elle entretient avec tout État tiers. […]
+(2) Lorsque, selon les dispositions du paragraphe 1, une personne physique est un résident des deux États contractants, sa situation est réglée de la manière suivante :
+a) Cette personne est considérée comme un résident de l’État contractant où elle dispose d’un foyer d’habitation permanent; si elle dispose d’un foyer d’habitation permanent dans les deux États ou ne dispose d’un tel foyer dans aucun des États, elle est considérée comme un résident de l’État contractant avec lequel ses liens personnels et économiques sont les plus étroits (centre des intérêts vitaux);
+b) Si l’État contractant où cette personne a le centre de ses intérêts vitaux ne peut pas être déterminé, elle est considérée comme un résident de l’État contractant où elle séjourne de façon habituelle;
+c) Si cette personne séjourne de façon habituelle dans les deux États ou si elle ne séjourne de façon habituelle dans aucun des États, elle est considérée comme un résident de l’État contractant dont elle possède la citoyenneté; et
+d) Si cette personne possède la citoyenneté des deux États ou si elle ne possède la citoyenneté d’aucun d’eux, les autorités compétentes des États contractants tranchent la question d’un commun accord.
+[11] Je suis d’avis que, conformément aux règles décisives, l’appelant était un résident du Canada car, durant son séjour au pays, il disposait d’un foyer d’habitation permanent alors qu’il n’en avait aucun aux États‑Unis.
+[12] En tirant cette conclusion, je m’appuie sur les observations du Comité des Affaires fiscales de l’OCDE (Organisation de coopération et de développement économiques) concernant l’article 4 (définition de résident) du Modèle de convention fiscale concernant le revenu et la fortune, dans sa version abrégée datée du 15 juillet 2005, à la page 80, paragraphes 11, 12 et 13 (voir le cahier de l’intimée portant sur la jurisprudence, la doctrine et les dispositions législatives, onglet B) :
+11. L’article accorde la préférence à l’État contractant où l’intéressé dispose d’un foyer d’habitation permanent. Ce critère suffira souvent pour résoudre le conflit résultant du fait qu’une personne qui a un foyer permanent dans un État contractant a seulement effectué un séjour d’une certaine durée dans l’autre État contractant.
+12. L’alinéa a) veut dire que, pour l’application de la Convention (donc lorsqu’il y a conflit entre les législations des deux États) on considère que la résidence de la personne physique se trouve là où celle‑ci a la possession ou la jouissance d’un foyer d’habitation, à condition que ce dernier soit permanent, c’est‑à‑dire que la personne l’ait aménagé et réservé à son usage d’une manière durable, par opposition au fait du séjour à un certain endroit dans des conditions telles que ce séjour apparaisse comme devant être limité à une courte durée.
+13. Au sujet de la notion de foyer d’habitation, il faut observer que toute forme d’habitation peut être prise en considération (maison ou appartement qui est la propriété de l’intéressé ou pris en location, chambre meublée louée). Mais la permanence de l’habitation est essentielle, ce qui signifie que l’intéressé fait le nécessaire pour avoir le logement à sa disposition en tout temps, d’une manière continue et pas occasionnellement pour effectuer un séjour qui, compte tenu des raisons qui le motivaient, est nécessairement lié à une courte durée (voyage d’agrément, voyage d’affaires, voyage d’études, stage dans une école, etc.)[1].
+[13] De plus, le bulletin d’interprétation IT‑221R3, au paragraphe 26, précise ce qui suit :
+Les « règles décisives » sont énoncées au paragraphe 2 de l’article IV de la plupart des conventions fiscales des dernières années. Habituellement, ces règles se basent d’abord sur le critère de « foyer d’habitation permanent » pour résoudre la question de la résidence. En règle générale, en fonction de ce critère, le particulier est résident aux fins de la convention du pays où il dispose d’un foyer d’habitation permanent. Au sens donné à cette expression dans les conventions fiscales, un « foyer d’habitation permanent » s’entend d’un logement de tout genre dont le particulier dispose de façon continue (par opposition à occasionnelle), que ce logement soit possédé ou loué ou par ailleurs occupé en permanence.
+[14] À cela, j’ajouterais l’extrait de doctrine suivant :
+[traduction]
+Les conventions considèrent habituellement la personne physique possédant deux résidences comme résident du pays où elle dispose d’un foyer d’habitation permanent. La permanence suppose que la personne a aménagé et réservé le foyer d’habitation à son usage permanent, plutôt que pour un usage temporaire ou des séjours de courte durée. Un « foyer d’habitation » s’entend de toute forme d’établissement résidentiel, par exemple une maison, un appartement ou même une chambre meublée louée. C’est la permanence du foyer d’habitation, plutôt que l’importance ou la nature du logement acheté ou loué, qui sert à mesurer le degré d’attachement au pays[2].
+[15] Finalement, je soulignerais également que cette interprétation de l’expression « dispose d’un foyer d’habitation permanent » est compatible avec l’usage de la résidence comme facteur de rattachement à des fins fiscales, à savoir la méthode privilégiée au Canada :
+[traduction]
+[…] La théorie sous‑jacente à l’usage de la résidence veut qu’une personne doive allégeance économique au pays avec lequel ses liens économiques et sociaux sont actuellement les plus étroits. Par conséquent, l’obligation de payer de l’impôt fondée sur la résidence découle du principe voulant que les personnes qui bénéficient de l’affiliation économique et sociale à un pays aient l’obligation de contribuer à son soutien financier. Par conséquent, l’intention de résider indéfiniment dans un pays n’est pas nécessairement pertinente quant à la notion de « résidence »[3].
+[Non souligné dans l’original.]
+[16] Tenant compte de ce raisonnement, je souligne que l’appelant possédait au Canada un foyer d’habitation que lui et sa famille ont habité durant l’année d’imposition 2003. Il ne possédait pas, ne louait pas et n’occupait pas de foyer d’habitation, permanent ou non, aux États-Unis. La proposition de l’appelant suivant laquelle l’article IV prévoit un critère d’intention ne saurait, à mon avis, être retenue. Par conséquent, j’estime que l’appelant « dipos[ait] d’un foyer d’habitation permanent » au Canada seulement. Appliquant les règles décisives de l’article IV de la Convention, je suis d’avis qu’il devrait être considéré comme un résident du Canada.
+Prime de rendement
+[17] Comme autre argument, l’appelant soutient que, même s’il était un résident du Canada en 2003, la prime de rendement provenait de l’emploi qu’il occupait pendant qu’il résidait aux États-Unis. Suivant son analyse de l’article XV de la Convention, la prime était une « rémunération […] qu’un résident [des États‑Unis] reçoit au titre d’un emploi salarié ». Par conséquent, au dire de l’appelant, la prime « [n’est imposable qu’aux États-Unis], à moins que l’emploi ne soit exercé [au Canada] ».
+[18] L’appelant s’appuie sur la décision Hewitt v. Minister of National Revenue, 1989 CarswellNat 361, [1989] 2 C.T.C. 2278.
+[19] Le ministre a affirmé que l’appelant avait reçu la prime pendant qu’il résidait au Canada et que le mot « derived » employé dans la version anglaise de l’article XV de la Convention avait le même sens que le mot « received » alors que l’appelant soutenait qu’il signifiait « accrued » (Minister of National Revenue v. Hollinger North Shore Exploration Co., 1963 CarswellNat 332, [1963] R.C.S. 131).
+[20] En tant que résident du Canada en 2003, l’appelant est assujetti à l’impôt sur le revenu qu’il a touché dans le monde entier au cours de cette année d’imposition, en vertu du paragraphe 2(1) de la LIR, lequel est rédigé comme suit :
+Un impôt sur le revenu doit être payé, ainsi qu’il est prévu par la présente loi, pour chaque année d’imposition, sur le revenu imposable de toute personne résidant au Canada à un moment donné au cours de l’année.
+Par ailleurs, le paragraphe (1) de l’article XV de la Convention prévoit ceci :
+Sous réserve des dispositions des articles XVIII (Pensions et rentes) et XIX (Fonctions publiques), les salaires, traitements et autres rémunérations similaires qu’un résident d’un État contractant reçoit au titre d’un emploi salarié ne sont imposables que dans cet État, à moins que l’emploi ne soit exercé dans l’autre État contractant. Si l’emploi y est exercé, les rémunérations reçues à ce titre sont imposables dans cet autre État.
+[Non souligné dans l’original.]
+[21] En 2003, l’appelant était considéré comme un résident du Canada en vertu de la Convention. Par conséquent, pour paraphraser la disposition susmentionnée dans le cadre du présent appel, si l’appelant recevait un revenu d’emploi, celui‑ci était imposable au Canada, à moins que les services n’aient été fournis aux États-Unis, auquel cas le revenu pourrait y être imposé. Si le revenu a été imposé aux États‑Unis, il demeure imposable au Canada, mais un crédit pourrait être appliqué pour compenser, en tout ou en partie, l’impôt payé aux États‑Unis[4].
+[22] Dans Shultz v. R., 1996 CarswellNat 2795, 97 DTC 836, la Cour a statué que le montant reçu devait être inclus dans le revenu de l’année où il a été reçu; elle a considéré pour l’application de l’article XV de la Convention que l’appelant dans cette affaire avait reçu la rémunération lorsqu’il était résident du Canada. L’appelant en question avait avancé l’argument selon lequel il fallait comprendre que l’article XV fait référence au moment où le revenu a été gagné. Dans la présente affaire, l’appelant soutient qu’il a gagné, ou accumulé, la prime pendant qu’il résidait aux États‑Unis en 2002. À son avis, compte tenu du fait qu’il était résident des États-Unis à cette époque, la prime devait être incluse seulement dans sa déclaration de revenus produite aux États‑Unis, conformément à l’article XV.
+[23] L’appelant allègue que l’interprétation et l’application du paragraphe (1) de l’article XV dépendent de la signification du mot anglais « derived ». Il soutient que ce mot doit avoir le sens de « accruing ». À l’appui de son argument, il invoque la décision de la Cour suprême du Canada dans Hollinger, précitée, et, en particulier, le paragraphe 12 :
+[traduction]
+[12] Je souscris à l’opinion formulée par le savant juge du fond selon laquelle le sens ordinaire des mots « provenant de l’exploitation d’une mine » est plus large que ce que prétend l’appelante, que le mot « provenant » dans ce contexte est plus large que le mot « reçu » et équivaut à l’expression « découlant ou dérivant » (voir l’affaire Commissioner of Taxation c. Kirk, [1900] A.C. 588 à la p. 592) et que cette expression ne se limite pas au revenu découlant ou dérivant de l’exploitation d’une mine par un contribuable particulier.
+[Non souligné dans l’original.]
+[24] L’appelant avance alors que le mot « accruing » devrait être interprété dans un contexte de comptabilité, comme dans l’expression « accrual basis of accounting » (en français, « comptabilité d’exercice »). Il cite la définition suivante sans en fournir la référence :
+[traduction]
+Comptabilité d’exercice
+Méthode de comptabilisation des opérations par laquelle les produits et les charges sont reflétés dans le calcul des résultats pour la période dans laquelle il est considéré que les produits ont été réalisés et les charges engagées, respectivement, que ces opérations se soient ou non soldées par un encaissement ou un décaissement ou son équivalent. (Comparer avec Comptabilité de trésorerie[5].)
+[25] Il invoque également la décision Hewitt, précitée, en faisant valoir qu’elle soutient son interprétation du mot « derived ». À son avis, dans Hewitt, même si la Cour a convenu que le revenu tiré d’un emploi est imposable lorsqu’il est reçu, il en va ainsi seulement si l’emploi lui‑même est imposable au Canada. Au paragraphe 8 de la décision, la Cour a affirmé ceci :
+[…] L’appelant n’a toutefois pas gagné et accumulé ces sommes alors qu’il résidait au Canada. Elles provenaient, en effet, d’une source qui est exempte d’impôt au Canada : l’emploi à l’extérieur du pays d’une personne non résidante au Canada. […]
+[Non souligné dans l’original.]
+[26] Fort de cet appui, l’appelant soutient que sa prime provenait de l’emploi qu’il occupait en 2002, alors qu’il était non‑résident, parce que l’obligation de son employeur de payer la prime a pris naissance, à des fins comptables, en 2002. Par conséquent, affirme‑t‑il, le fait que la prime n’a été reçue qu’en 2003 ne change pas sa nature non imposable.
+[27] Je crois que l’argument de l’appelant ne doit pas être retenu.
+Signification du mot « derived »
+[28] Le mot « derived » n’est pas défini dans la Convention. Toutefois, celle‑ci prévoit expressément au paragraphe (2) de l’article III l’approche suivante pour ce qui est du sens des termes non définis :
+Pour l’application de la Convention par un État contractant, toute expression qui n’y est pas définie a le sens que lui attribue le droit de cet État concernant les impôts auxquels s’applique la Convention, à moins que le contexte n’exige une interprétation différente et sous réserve des dispositions de l’article XXVI (Procédure amiable).
+[29] Au Canada, l’article 3 de la Loi sur l’interprétation des conventions en matière d’impôts sur le revenu, L.R.C. (1985), ch. I‑4, prévoit d’autres directives à cet égard :
+Par dérogation à toute convention ou à la loi lui donnant effet au Canada, le droit au Canada est tel que les expressions appartenant aux catégories ci‑dessous s’entendent, sauf indication contraire du contexte, au sens qu’elles ont pour l’application de la Loi de l’impôt sur le revenu compte tenu de ses modifications, et non au sens qu’elles avaient pour cette application à la date de la conclusion de la convention ou de sa prise d’effet au Canada si, depuis lors, leur sens pour la même application a changé. Les catégories en question sont :
+a) les expressions non définies dans la convention;
+b) les expressions non définies exhaustivement dans la convention;
+c) les expressions à définir d’après les lois fédérales.
+[30] À mon avis, la proposition de l’appelant voulant que, dans le contexte du paragraphe (1) de l’article XV de la Convention, le mot « derived » doive être interprété comme s’il renvoyait à la définition de l’expression « accrual basis of accounting » (en français, « comptabilité d’exercice »), n’est pas conforme à l’approche généralement reconnue pour l’interprétation des conventions en matière d’impôts, à savoir que ces conventions doivent recevoir une interprétation libérale.
+[31] La Cour fédérale a réaffirmé ce principe dans Gladden Estate v. R., 1985 CarswellNat 184, [1985] 1 C.T.C. 163 (C.F. 1re inst.), au paragraphe 14 :
+Contrairement à une loi fiscale ordinaire, un traité ou une convention en matière d’impôt doit être interprété de façon libérale, de manière à appliquer les véritables intentions des parties. Il faut éviter une interprétation littérale ou légaliste lorsque l’objet fondamental du traité pourrait être rejeté ou contrecarré dans la mesure où le point particulier à l’étude est visé.
+[32] Premièrement, la Cour suprême du Canada a affirmé expressément dans Hollinger que, dans le contexte du paragraphe 83(5) de la LIR, une disposition concernant le revenu provenant de l’exploitation d’une mine, le mot « provenant » (en anglais, « derived ») signifiait « découlant ou dérivant » (en anglais, « arising or accruing »). À mon avis, en précisant que ce sens s’appliquait dans ce contexte, la Cour suprême limitait expressément son application à ce paragraphe particulier et aux circonstances de cet appel.
+[33] Toutefois, même si la Cour suprême voulait effectivement que le mot « provenant » (en anglais, « derived ») ait une application à vaste portée, je demeure convaincue que l’argument de l’appelant ne devrait pas être retenu parce qu’il tente d’étendre le sens du mot « accruing » au‑delà de ce qui est raisonnable. Son argument laisse croire que nous devrions interpréter comme un terme technique comptable, ayant des conséquences juridiques particulières, un mot qui n’est pas défini dans la Convention. Pareille proposition va complètement à l’encontre de l’approche générale pour l’interprétation des conventions, qui cherche à éviter l’attribution d’un sens trop littéral ou légaliste à des termes non définis.
+[34] Peut‑être plus important encore, je crois que l’argument de l’appelant est sans fondement parce qu’il propose de définir le mot « derived » sans tenir compte du contexte dans lequel il est employé en mettant l’accent uniquement sur l’emploi que la Cour suprême a fait du mot « accruing » (en français, « dérivant ») et en écartant complètement le mot « arising » (en français, « découlant »). À mon avis, pour comprendre le sens attribué au mot « derived » (en français, « provenant ») dans Hollinger, le mot « accruing » (en français, « dérivant ») doit être interprété dans l’ensemble du contexte dans lequel il a été employé; plus particulièrement, il doit être interprété conjointement avec le mot « arising » (en français, « découlant »).
+[35] Considérons maintenant les définitions suivantes des termes anglais « arise », « accrue » et « derive », données par les dictionnaires :
+« arise »
+[traduction]
+Tirer son origine de; provenir de; résulter de; émerger dans la conscience de quelqu’un; être porté à l’attention de quelqu’un[6];
+Commencer à exister; tirer son origine de; résulter de; être porté à l’attention de quelqu’un; émerger de; se lever, particulièrement à partir de la position assise ou couchée[7].
+« accrue »
+[traduction]
+S’ensuivre comme un gain, un ajout ou une augmentation pour quelqu’un; augmenter, accumuler ou aboutir comme un résultat de croissance[8];
+Prendre naissance comme une action ou un droit ayant force exécutoire; découler de; accumuler périodiquement[9];
+S’ensuivre comme une augmentation ou un avantage naturel, particulièrement du point de vue financier; accumuler[10].
+« derive »
+[traduction]
+Recevoir d’une source ou d’une origine particulière[11];
+Avoir, obtenir ou former; découler de, avoir son origine dans, émaner de ou être obtenu de; réunir ou déduire; établir la généalogie d’une personne; établir l’origine d’une chose; établir l’origine ou la formation de (un mot, par exemple); obtenir (une fonction) par différentiation[12].
+[36] À mon avis, le dénominateur commun dans les définitions de ces termes est la notion de « source ». En fait, après avoir considéré l’arrêt Hollinger dans son ensemble, je crois que la Cour suprême a clairement défini le mot « derived » (en français, « provenant ») en se référant à la source de revenu plutôt qu’à la méthode de comptabilisation de celui‑ci. La Cour suprême l’a expliqué en ces termes aux paragraphes 11 à 13 :
+[traduction]
+[11] La position de l’appelant se résume ainsi : 1) l’expression « revenu provenant de l’exploitation d’une mine » au paragraphe 83(5) évoque le revenu d’une source particulière, à savoir l’exploitation d’une mine; 2) l’exploitation d’une mine étant une entreprise, le revenu exempté d’impôt est le profit de cette entreprise tiré par la société particulière qui demande l’exemption; 3) la source du revenu en cause en l’espèce était simplement le droit de propriété pour lequel une redevance était exigible et non l’exploitation d’une mine.
+[12] Je souscris à l’opinion formulée par le savant juge du fond selon laquelle le sens ordinaire des mots « provenant de l’exploitation d’une mine » est plus large que ce que prétend l’appelante, que le mot « provenant » dans ce contexte est plus large que le mot « reçu » et équivaut à l’expression « découlant ou dérivant » (voir l’affaire Commissioner of Taxation c. Kirk, [1900] A.C. 588 à la p. 592) et que cette expression ne se limite pas au revenu découlant ou dérivant de l’exploitation d’une mine par un contribuable particulier.
+[13] La mine en question était exploitée comme une unité par l’intimée et Iron Ore Company of Canada au titre d’une coentreprise pour leur bénéfice conjoint, et le minerai sur place représentait un capital investi par les deux sociétés. Le rendement de ce capital investi pouvait être réalisé seulement par l’exploitation de la mine et, dans les circonstances de l’espèce, à mon avis, cette exploitation était la source de revenu de l’intimée au sens du paragraphe 83(5), que la provenance de ce revenu soit l’extraction et la vente de son propre minerai ou la redevance qui lui était payée relativement au reste du minerai appartenant à Iron Ore Company of Canada.
+[Non souligné dans l’original.]
+[37] Par conséquent, je ne crois pas que le mot « derived » devrait être interprété comme évoquant la notion d’« accrual basis of accounting » (en français, « comptabilité d’exercice »). Je crois plutôt qu’il devrait signifier quelque chose comme « ayant sa source ». Si tel est le cas, le paragraphe (1) de l’article XV devrait être interprété de manière que, si l’appelant avait tiré un revenu d’une source d’emploi, ce revenu devrait être imposable seulement au Canada, à moins que les services aient été fournis aux États-Unis, auquel cas il pourrait également être imposable là‑bas. Par conséquent, la proposition de l’appelant voulant que la prime qu’il a reçue en 2003 soit un revenu non imposable accumulé en 2002 est sans fondement.
+Traitement fiscal de la prime de rendement
+[38] L’appelant allègue finalement que, même s’il a tort dans ses autres arguments, la décision faisant autorité dans les circonstances de l’espèce est néanmoins Hewitt. Il fait valoir que, compte tenu de cette affaire, sa prime n’était pas imposable parce qu’elle est liée à un emploi occupé avant qu’il devienne un résident du Canada.
+[39] Par ailleurs, l’intimée croit que les décisions ayant autorité sont les décisions Tedmon[13], Shultz [14], et Kuwalek [15], et que la prime de rendement était imposable au moment où elle a été reçue.
+[40] À mon avis, la préférence doit être accordée à l’argument de l’intimée.
+[41] Je commence avec le paragraphe 5(1) de la LIR, qui prévoit qu’un revenu tiré d’un emploi, y compris les primes de rendement, est imposable au moment où il est reçu :
+Sous réserve des autres dispositions de la présente partie, le revenu d’un contribuable, pour une année d’imposition, tiré d’une charge ou d’un emploi est le traitement, le salaire et toute autre rémunération, y compris les gratifications, que le contribuable a reçus au cours de l’année.
+[Non souligné dans l’original.]
+[42] Dans Nowegijick[16], la Cour suprême du Canada a de plus expliqué le rôle du paragraphe 5(1), en disant ce qui suit au paragraphe 18 :
+[…] Aux termes de ce paragraphe, le revenu d’un contribuable tiré d’un emploi est le traitement, salaire et autre rémunération reçus. C’est la réception qui emporte assujettissement à l’impôt. […]
+[Non souligné dans l’original.]
+[43] L’appelant cite la décision Hewitt, une affaire où un contribuable, qui avait fourni des services dans le cadre d’un emploi alors qu’il n’était pas résident du Canada, a touché son salaire seulement après être devenu résident. La Cour a fondé sa décision sur le fait que le revenu, lorsqu’il a été gagné, n’était pas imposable au Canada. Au paragraphe 8, la Cour a affirmé ceci :
+[…] L’appelant n’a toutefois pas gagné et accumulé ces sommes alors qu’il résidait au Canada. Elles provenaient, en effet, d’une source qui est exempte d’impôt au Canada : l’emploi à l’extérieur du pays d’une personne non résidante au Canada. Même si l’appelant a reçu ces sommes peu après avoir regagné le Canada où il a recommencé à y résider, elles proviennent néanmoins d’une source qui est exempte d’impôt : (c’est‑à‑dire : l’emploi de l’appelant à l’extérieur du Canada alors qu’il n’y résidait pas). […]
+[44] Même si le raisonnement de la Cour dans Hewitt peut avoir produit un résultat équitable dans les circonstances, à mon avis, il ne tenait pas compte du texte législatif ou de la décision de la Cour suprême du Canada dans Nowegijick. Je crois que le salaire que l’appelant avait tiré de son emploi aurait dû être considéré comme un revenu imposable au Canada. J’estime que les décisions subséquentes, en particulier celles qui ont été citées par l’intimée, souscrivent à une démarche plus conforme au texte législatif et à la décision Nowegijick.
+[45] Dans Tedmon, le contribuable avait obtenu des options d’achat d’actions pendant qu’il résidait aux États-Unis, mais il a exercé ces options après être devenu résident du Canada. Citant le paragraphe 5(1) de la LIR et en suivant la décision Nowegijick, la Cour a statué que le revenu était imposable au moment où il avait été reçu, et non lorsque les options d’achat avaient été accordées. Pour arriver à cette conclusion, la Cour a également établi une distinction avec la décision Hewitt, et il est permis de croire qu’elle a tenté d’en restreindre l’application, au motif que le contribuable dans Hewitt avait déjà exercé tous ses droits à un revenu avant de devenir un résident du Canada. La Cour s’exprime ainsi aux paragraphes 6 et 7 :
+[6] L’appelant soutient que cela ne s’applique pas à un contribuable résident canadien qui a conclu ladite convention à une époque où il était un non‑résident au service d’un employeur non‑résident, et il cite, à l’appui de cette prétention, l’affaire Henry Russell Hewitt v. Minister of National Revenue, 89 DTC 451. Dans cette affaire, le juge Mogan de la Cour canadienne de l’impôt déclare, à la page 452 du recueil, que le contribuable, M. Hewitt, n’était pas assujetti à l’impôt à l’égard d’un revenu qui n’avait pas été gagné ou qui ne s’était pas accumulé à l’époque où l’appelant résidait au Canada. En fait, le revenu en question avait été acquis le 25 mai 1984, date à laquelle M. Hewitt était encore en Libye, lorsque :
+[traduction française officielle]
+« […] il a signé tous les documents concernant la cessation de son emploi et a demandé à Oasis Oil de lui verser la somme globale […] »
+[7] M. Hewitt avait donc exercé tous ses droits à un revenu et à la réception de ce dernier à un moment où il ne résidait pas au Canada. Il avait aussi indiqué à ce moment où faire parvenir le chèque.
+[46] Dans Shultz, le contribuable a reçu, après être devenu résident du Canada, un rajustement de prime rattaché à un emploi antérieur qu’il avait occupé aux États‑Unis. Pour en arriver à une décision, la Cour a examiné les affaires Tedmon et Hewitt. En fin de compte, la Cour a préféré le raisonnement exposé dans la décision Tedmon, qui reconnaissait que le paragraphe 5(1) de la LIR et la décision Nowegijick devaient être appliqués, et elle a refusé expressément d’appuyer le raisonnement élaboré dans Hewitt. Elle a affirmé ce qui suit aux paragraphes 27 à 29 :
+[27] Les deux avocates ont reporté la Cour à l’affaire Tedmon v. M.N.R., 91 DTC 962 (C.C.I.). La Cour y a statué que c’est la réception de l’avantage qui emporte l’assujettissement à l’impôt en vertu du paragraphe 5(1) et de l’alinéa 7(1)a). La Cour s’est fondée sur une déclaration faite dans ce sens dans l’arrêt Nowegijick v. The Queen, 83 DTC 5041 CSC, à la page 5043. Je fais mien ce raisonnement. Le paragraphe 5(1) porte que le revenu tiré d’un emploi est imposé dans l’année de sa réception. L’article 2 n’exclut pas les sources de revenu situées à l’étranger. L’alinéa 3a) expose le mode de calcul du revenu d’une personne résidant au Canada. L’article 3 inclut le revenu tiré d’un emploi, qui est la source du rajustement. Aux termes de l’article 5, le revenu d’un contribuable tiré d’un emploi est le traitement, salaire et autre rémunération, ce qui, à mon avis, inclut le rajustement en question.
+[28] Dans l’arrêt Nowegijick, précité, la Cour suprême du Canada a déterminé l’assujettissement en vertu du paragraphe 5(1) en fonction de la réception. L’appelant a reçu le paiement au moment où il résidait au Canada. L’article 6 prévoit que sont inclus dans le calcul du revenu tiré d’une charge ou d’un emploi les avantages de quelque nature que ce soit. La gratification reçue par l’appelant était un avantage reçu au titre de sa charge ou de son emploi chez Tenneco. Il faut donner aux mots « au titre de » de l’article 6 la portée la plus large possible, ainsi qu’on l’a dit dans l’arrêt Nowegijick.
+[29] Je ne vois rien aux articles 2, 3, 5 et 6 de la Loi qui permette de conclure que la gratification versée à l’appelant n’est pas imposable pour le motif que la source était l’emploi de l’appelant à l’étranger au moment où il ne résidait pas au Canada. Si la décision rendue dans l’affaire Hewitt peut fort bien être équitable, elle n’est pas appuyée par les dispositions législatives par lesquelles je suis lié. L’appelant a manifestement reçu un avantage économique qui était lié à son emploi. Par conséquent, la gratification est visée par l’alinéa 6(1)a).
+[47] Finalement, et plus récemment, il y a eu l’affaire Kuwalek dans laquelle le contribuable avait reçu une prime de rendement après être devenu résident du Canada. Là aussi, la Cour semble avoir étudié les affaires Hewitt et Tedmon et avoir de nouveau préféré le raisonnement exposé dans Tedmon. La Cour a mentionné ceci au paragraphe 9 :
+La source du revenu de l’appelant à partir d’octobre 2003 était son emploi. Bien que je puisse comprendre pourquoi l’appelant soutient qu’il serait plus raisonnable d’imposer son revenu d’emploi dans l’année au cours de laquelle le travail a été accompli, ce n’est pas ce que prévoit la Loi. En application du paragraphe 5(1) et de l’alinéa 6(1)a), le revenu d’emploi est imposable dans l’année d’imposition au cours de laquelle il est reçu. L’appelant ne conteste pas qu’il a reçu la prime de 15 000 $ en 2004. Par conséquent, elle a été incluse à juste titre dans le revenu d’emploi de l’appelant pour cette année‑là.
+[48] À mon avis, l’approche élaborée dans Hewitt ne devrait pas être suivie. Je conclus plutôt qu’une prime de rendement est imposable au moment où elle est reçue, peu importe où et quand l’emploi auquel elle est rattachée a été occupé.
+[49] En fin de compte, le point essentiel est le suivant : le revenu d’emploi gagné par un résident du Canada est imposable au moment de sa réception. L’article XV accorde au Canada le pouvoir d’imposer ce revenu. Si l’emploi a été occupé aux États‑Unis, ce pays a également le pouvoir d’imposer le revenu, s’il choisit de le faire. Si le revenu est imposé dans les deux États, conformément à l’entente précisée au paragraphe (2) de l’article XXIV et en application de l’article 126 de la LIR, le Canada offre un crédit pour compenser l’impôt payé aux États‑Unis.
+[50] Le paragraphe (2) de l’article XXIV est rédigé comme suit :
+En ce qui concerne le Canada, sous réserve des dispositions des paragraphes 4, 5 et 6, la double imposition est évitée de la façon suivante.
+a) Sous réserve des dispositions de la législation canadienne concernant l’imputation de l’impôt payé dans un territoire en dehors du Canada sur l’impôt canadien dû et de toute modification ultérieure de ces dispositions qui n’en affecterait pas le principe général,
+(i) L’impôt sur le revenu payé ou dû aux États-Unis à raison de bénéfices, revenus ou gains provenant des États-Unis, et
+(ii) Dans le cas d’une personne physique, les cotisations de sécurité sociale payées aux États-Unis (autres que les cotisations concernant les prestations d’assurance‑chômage) par cette personne physique sur ces bénéfices, revenus ou gains,
+sont portés en déduction de tout impôt canadien dû à raison des mêmes bénéfices, revenus ou gains;
+[51] L’entente précisée dans cette disposition est appliquée au Canada au moyen de l’article 126 de la LIR. La partie pertinente de l’article 126 est rédigée comme suit :
+Le contribuable qui résidait au Canada à un moment donné d’une année d’imposition peut déduire de l’impôt payable par ailleurs par lui pour l’année en vertu de la présente partie une somme égale à :
+a) la partie de tout impôt sur le revenu ne provenant pas d’entreprises qu’il a payé pour l’année au gouvernement d’un pays étranger […] dont il peut demander la déduction;
+cette somme ne peut toutefois dépasser :
+[52] Si l’on applique maintenant cette conclusion aux faits de la présente affaire, M. Garcia, un résident du Canada, a reçu un revenu d’emploi en 2003 au titre d’un emploi salarié qu’il a exercé aux États-Unis. L’article XV de la Convention prévoit que ce revenu doit être imposé au Canada en 2003, mais qu’il peut également être imposé aux États‑Unis. Par conséquent, c’est à bon droit qu’il a été imposé sur ce revenu au Canada et, s’il avait payé de l’impôt sur ce revenu aux États‑Unis, il aurait pu demander un crédit d’impôt en vertu de l’article 126 de la LIR[17].
+Conclusion
+[53] L’appelant est à la fois un résident du Canada et un résident des États‑Unis. Toutefois, en application des règles décisives de l’article IV de la Convention, je conclus qu’il est considéré comme un résident du Canada du fait qu’il dispose d’un foyer d’habitation permanent au Canada, et non aux États‑Unis.
+[54] La prime touchée par l’appelant provenait d’une source d’emploi. Le revenu d’emploi est imposable au moment où il est reçu. Puisque la prime de rendement a été reçue lorsque l’appelant résidait au Canada, je suis d’avis qu’elle est imposable au Canada même si elle provenait d’un emploi occupé aux États-Unis.
+[55] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2007.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 9e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉRÉRENCE : 2007CCI548
+NO DU DOSSIER DE LA COUR : 2006-2458(IT)I
+INTITULÉ DE LA CAUSE : HERVE L. GARCIA c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 31 mai 2007
+MOTIFS DU JUGEMENT : L’honorable juge L. Lamarre
+DATE DU JUGEMENT : Le 28 septembre 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+Jack R. Bowerman
+Avocat de l’intimée :
+Me Frédéric Morand
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Ces observations ont été citées avec autorisation dans Allchin v. R., précité.
+[2] Vern Krishna, The Fundamentals of Canadian Income Tax, 7e éd. (Toronto: Carswell, 2002) aux pages 77 et 78.
+[3] Ibid., à la page 70.
+[4] Article 126 de la LIR.
+[5] Pièce A‑1, onglet 9, page 5.
+[6] Black’s Law Dictionary, 7e éd., s.v. « arise ».
+[7] The Canadian Oxford Dictionary, s.v. « arise ».
+[8] Canadian Dictionary of the English Language, s.v. « accrue ».
+[9] Black’s Law Dictionary, 7e éd., s.v. « accrue ».
+[10] The Canadian Oxford Dictionary, s.v. « accrue ».
+[11] Black’s Law Dictionary, 6th ed., s.v. « derive ».
+[12] The Canadian Oxford Dictionary, s.v. « derive ».
+[13] Tedmon v. M.N.R., [1991] 2 C.T.C. 2128 (C.C.I.).
+[14] Shultz v. R., 1996 CarswellNat 2795 , 97 DTC 836 (C.C.I.).
+[15] Kuwalek v. R., [2007] 2 C.T.C. 2241 (C.C.I.).
+[16] Nowegijick v. R., 1983 CarswellNat 123, [1983] 1 R.C.S. 29 (C.S.C.).
+[17] Tel qu’il a été mentionné antérieurement dans les présents motifs de jugement, je comprends que l’appelant n’avait pas à payer d’impôt sur ce revenu aux États‑Unis.

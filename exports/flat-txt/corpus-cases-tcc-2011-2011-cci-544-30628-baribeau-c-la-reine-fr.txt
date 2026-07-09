@@ -1,0 +1,296 @@
+Title: Baribeau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30628/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-544-30628-baribeau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-12-05
+
+# Baribeau c. La Reine
+
+- Citation: 2011 CCI 544
+- Decision date: 2011-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7123, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baribeau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-05
+Référence neutre
+2011 CCI 544
+Numéro de dossier
+2011-1073(GST)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-1073(GST)I
+ENTRE :
+PIERRETTE BARIBEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Liboire Beaulieu (2011‑1075(GST)I), le 15 septembre 2011, à Rimouski (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me Daniel LeBlond
+Avocat de l’intimée :
+Me Philippe Morin
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 4 mars 2010 et porte sur la période du 1er juillet 2006 au 22 septembre 2009, est accueilli en partie, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Le tout sans frais.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2011.
+« Robert J. Hogan »
+Juge Hogan
+Dossier : 2011-1075(GST)I
+ENTRE :
+LIBOIRE BEAULIEU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Pierrette Baribeau (2011‑1073(GST)I), le 15 septembre 2011, à Rimouski (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelant :
+Me Daniel LeBlond
+Avocat de l’intimée :
+Me Philippe Morin
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 4 mars 2010 et porte sur la période du 1er juillet 2006 au 22 septembre 2009, est accueilli en partie, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Le tout sans frais.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2011.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2011 CCI 544
+Date : 20111205
+Dossier : 2011-1073(GST)I
+ENTRE :
+PIERRETTE BARIBEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET :
+Dossier : 2011-1075(GST)I
+ENTRE :
+LIBOIRE BEAULIEU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+INTRODUCTION
+[1] Le 4 mars 2010, Liboire Beaulieu et son épouse Pierrette Baribeau (les « appelants ») ont chacun fait l’objet d’une cotisation de 20 563,32 $ pour la taxe sur les produits et services (TPS) soit 23 898,14 $ avec les intérêts et les pénalités. En établissant les cotisations, le ministre du Revenu national (le « ministre ») s’est fondé sur l’hypothèse de fait selon laquelle les appelants ont vendu 9 644 cartouches de 200 cigarettes de contrebande entre le 1er janvier 2006 et le 22 septembre 2009. Chacune des cotisations à l’égard des appelants repose sur les mêmes fournitures taxables. De plus, la TPS non perçue et réclamée fut calculée en supposant une contrepartie qui comprenait 20,60 $ par cartouche vendue au titre de l’impôt prévu par la Loi concernant l’impôt sur le tabac (Québec).
+[2] Les appels ont été entendus sur preuve commune.
+LES FAITS
+[3] En établissant la cotisation de l’appelant Liboire Beaulieu, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) le 23 septembre 2009, une perquisition fut effectuée à la résidence de l’appelant située au 19, rue Gauvreau à Trois-Pistoles et dans son véhicule de marque Chevrolet Venture immatriculé ZSP647;
+b) lors de cette perquisition, 49 paquets de 200 cigarettes chacun non estampillés ont été saisis, soit un total de 9 800 cigarettes;
+c) l’appelant a affirmé aux policiers qu’il vendait du tabac non estampillé de Gaston Parent depuis 3 à 4 ans avec sa conjointe, Pierrette Baribeau, au prix de 25 $ le paquet;
+d) également, l’appelant a déclaré aux policiers qu’au début de juin 2009 il a commencé à vendre des cigarettes non estampillées avec Ulric Jalbert;
+e) l’appelant achetait, pendant cette période, une fois par semaine deux caisses de 50 paquets de 200 cigarettes non estampillés et ce tabac était entreposé à sa résidence et vendu par sa conjointe, Mme Pierrette Baribeau, au prix de 28 $ du paquet de 200 cigarettes;
+f) l’enquête policière démontre que l’appelant ainsi que sa conjointe, Mme Pierrette Baribeau, ont vendu illégalement des cigarettes durant la période du 1er janvier 2006 au 22 septembre 2009;
+g) pendant la période du 1er janvier 2006 au 30 juin 2009, l’appelant vendait 200 paquets de 200 cigarettes par mois et 400 paquets de 200 cigarettes par mois pendant la période du 1er juillet 2009 au 22 septembre 2009, soit un total de 9 644 paquets vendus de 200 cigarettes, tel qu’il appert du tableau ci-joint :
+1er janvier 2006 au 30 juin 2009
+41 mois X 200
+8 200 paquets
+1er juillet 2009 au 31 août 2009
+3 mois X 400
+1 200 paquets
+1er septembre 2009 au 22 septembre 2009
+244 paquets
+400 X 22 / 30 = 293 – 49 paquets saisis = 244
+h) l’impôt sur le tabac prévu pour cette période est de 0.103 $ par cigarette ou 20.60 $ pour un paquet;
+i) le taux de la TPS pour la période du 1er août 2006 au 31 décembre 2007 est de 6 % et du 1er janvier 2008 au 22 septembre 2009 est de 5 %;
+j) le prix de vente d’un paquet de 200 cigarettes pour la période du 1er janvier 2006 au 31 mai 2009 était de 25 $ et de 28 $ jusqu’à la fin de la période;
+k) ainsi, suite à des ventes taxables de 155 040 $ au taux de 6 % pour la période du 1er août 2006 au 31 décembre 2007, l’appelant aurait dû percevoir la TPS au montant de 9 302,40 $;
+l) pour la période du 1er janvier 2008 au 22 septembre 2009, l’appelant a fait des ventes taxables de 225 218,40 $ et au taux de 5 % aurait dû percevoir de la TPS au montant de 11 260,92 $;
+m) ainsi, l’appelant a été cotisé pour une somme de 20 563,32 $ en TPS.
+[4] En établissant la cotisation de l’appelante Pierrette Baribeau, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) le 23 septembre 2009, une perquisition fut effectuée à la résidence de l’appelante située au 19, rue Gauvreau à Trois-Pistoles et dans un véhicule de marque Chevrolet Venture immatriculé ZSP647;
+b) lors de cette perquisition, 49 paquets de 200 cigarettes chacun non estampillés ont été saisis, soit un total de 9 800 cigarettes;
+c) le conjoint de l’appelante a affirmé aux policiers qu’il vendait du tabac non estampillé de Gaston Parent depuis 3 à 4 ans avec sa conjointe, l'appelante, au prix de 25 $ le paquet;
+d) également, le conjoint de l’appelante a déclaré aux policiers qu’au début de juin 2009, il a commencé à vendre des cigarettes non estampillées avec Ulric Jalbert;
+e) le conjoint de l’appelante, Liboire Beaulieu, achetait, pendant cette période, une fois par semaine deux caisses de 50 paquets de 200 cigarettes non estampillés et ce tabac était entreposé à sa résidence et l’appelante les vendait, au prix de 28 $ du paquet de 200 cigarettes;
+f) l’enquête policière démontre que l’appelante ainsi que son conjoint, Liboire Beaulieu, ont vendu illégalement des cigarettes durant la période du 1er janvier 2006 au 22 septembre 2009;
+g) pendant la période du 1er janvier 2006 au 30 juin 2009, l’appelante vendait 200 paquets de 200 cigarettes par mois et 400 paquets de 200 cigarettes par mois pendant la période du 1er juillet 2009 au 22 septembre 2009, soit un total de 9 644 paquets vendus de 200 cigarettes, tel qu’il appert du tableau ci-joint :
+1er janvier 2006 au 30 juin 2009
+41 mois X 200
+8 200 paquets
+1er juillet 2009 au 31 août 2009
+3 mois X 400
+1 200 paquets
+1er septembre 2009 au 22 septembre 2009
+244 paquets
+400 X 22 / 30 = 293 – 49 paquets saisis = 244
+h) l’impôt sur le tabac prévu pour cette période est de 0.103 $ par cigarette ou 20.60 $ pour un paquet;
+i) le taux de la TPS pour la période du 1er août 2006 au 31 décembre 2007 est de 6 % et du 1er janvier 2008 au 22 septembre 2009 est de 5 %;
+j) le prix de vente d’un paquet de 200 cigarettes pour la période du 1er janvier 2006 au 31 mai 2009 était de 25 $ et de 28 $ jusqu’à la fin de la période;
+k) ainsi, suite à des ventes taxables de 155 040 $ au taux de 6 % pour la période du 1er août 2006 au 31 décembre 2007, l’appelante aurait dû percevoir la TPS au montant de 9 302,40 $;
+l) pour la période du 1er janvier 2008 au 22 septembre 2009, l’appelante a fait des ventes taxables de 225 218,40 $ et au taux de 5 % aurait dû percevoir de la TPS au montant de 11 260,92 $;
+m) ainsi, l’appelante a été cotisée pour une somme de 20 563,32 $ en TPS.
+LES QUESTIONS EN LITIGE
+[5] Dans la présente instance, les questions suivantes se posent :
+(a) Les appelants se sont-ils acquittés de leur fardeau initial de démolir les hypothèses formulées par le ministre dans sa cotisation?
+(b) Le montant de la contrepartie sur lequel est calculée la TPS non perçue et non remise au receveur général comprend-il, au sens de la Loi sur la taxe d’accise[1], les droits applicables aux produits du tabac?
+(c) L’intimée peut-elle modifier sa réponse à l’avis d’appel, notamment afin de prétendre que les appelants sont solidairement responsables des cotisations?
+ANALYSE
+[6] Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de la preuve est la prépondérance des probabilités[2] et que, en tenant compte de cette norme, différents niveaux de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquitté le fardeau de la preuve[3]. En établissant des cotisations, le ministre se fonde sur des hypothèses, et le fardeau initial de « démolir » les hypothèses formulées par le ministre dans sa cotisation est imposé au contribuable. Le fardeau initial consiste seulement à « démolir » les hypothèses exactes qu'a formulées le ministre, mais rien de plus[4]. L'appelant s'acquitte de ce fardeau initial de « démolir » l'exactitude des hypothèses du ministre lorsqu'il présente au moins une preuve prima facie[5].
+La première question en litige
+[7] En l’occurrence, il convient de se pencher sur la question suivante : les appelants se sont-ils acquittés de leur fardeau initial de « démolir » les hypothèses sous-jacentes à la cotisation du ministre?
+[8] À mon avis, il faut répondre négativement à cette question en raison des nombreuses contradictions décelées dans les témoignages des témoins appelés par les appelants.
+L’interrogatoire de Gaston Parent
+[9] L’avocat des appelants a commencé la présentation de sa preuve par le témoignage de Gaston Parent, qui a fait l’objet d’une perquisition le 4 novembre 2008 au cours de laquelle les policiers ont trouvé à son domicile 3 000 cigarettes de contrebande.
+[10] Bien que M. Parent ait plaidé coupable le 15 avril 2010 à deux chefs d’accusation déposés par la GRC reliés à la contrebande de cigarettes, un de ces chefs étant d’ailleurs d’avoir eu en sa possession 74 400 cigarettes entre le 1er janvier et le 3 novembre 2008, il a semblé prétendre devant la Cour canadienne de l’impôt n’avoir plaidé coupable qu’à l’accusation relative aux 3 000 cigarettes trouvées lors de la perquisition du 4 novembre 2008.
+[11] De plus, M. Parent a admis lors de son interrogatoire qu’il comptait acquérir 74 400 cigarettes le 22 novembre 2008, n’eût-il fait l’objet d’une opération policière. Pourtant, lorsqu’on lui a posé des questions à ce sujet, il a semblé incapable d’expliquer à la Cour la façon dont il aurait écoulé ses stocks. M. Parent a affirmé qu’il aurait vendu la totalité de sa marchandise sans l’aide de quiconque et qu’il aurait été en mesure de trouver à lui seul près de 180 clients différents à la seule ville de Trois-Pistoles.
+[12] Chose particulièrement étrange, M. Parent a soutenu avoir reçu des menaces des policiers qui l’ont arrêté le 4 novembre 2008. Ceux-ci lui auraient en outre offert 400 $ s’il acceptait d’identifier son fournisseur. Bien évidemment, cette affirmation a été par la suite démentie par les policiers au dossier.
+[13] Finalement, bien qu’au premier coup d’œil M. Parent indique de façon claire n’avoir jamais vendu de cigarettes de contrebande à M. Beaulieu ou à Mme Baribeau, il est certes permis de s’arrêter sur la crédibilité de l’homme. M. Parent connaît les appelants depuis plus de 30 ans. De plus, il importe de souligner qu’il a déclaré faillite vers la fin décembre 2010 ou au début janvier 2011 et qu’il n’avait plus rien à craindre de cette cause.
+L’interrogatoire de Liboire Beaulieu
+[14] L’avocat des appelants a ensuite interrogé M. Beaulieu. Force est d’admettre que la crédibilité de M. Beaulieu est lourdement entachée par un témoignage truffé de confusion et d’incohérences.
+[15] D’entrée de jeu, un accroc majeur à la crédibilité de M. Beaulieu a découlé du fait qu’il a désavoué une déclaration volontaire qu’il a produite aux policiers le 23 septembre 2009. Alors qu’il a parfois reconnu sa signature ou son paraphe sur la déclaration écrite remise aux policiers, il en a nié l’authenticité ailleurs sur le document. L’appelant en est même venu à affirmer qu’il avait signé les documents sans les regarder ou que la déclaration est le fruit de l’imagination des policiers et découle de dénonciations anonymes et qu’il avait gardé le silence complet au poste de Trois-Pistoles tout comme à celui de Rivière-du-Loup.
+[16] La déclaration volontaire remise aux policiers le 23 septembre 2009 contient les aveux suivants :
+· M. Beaulieu avait acheté du tabac de contrebande de Gaston Parent pendant 3 ans, jusqu’en novembre 2008.
+· Il achetait 50 cartouches de 200 cigarettes par semaine et sa femme s’occupait de les vendre à la maison. Il payait 18 $ la cartouche et la revendait 25 $.
+· M. Beaulieu a arrêté de s’approvisionner chez M. Parent lorsque les policiers ont perquisitionné chez lui en novembre 2008.
+· Par la suite, Ulric Jalbert a rencontré M. Beaulieu au quai afin de lui proposer de vendre du tabac avec lui.
+· Ils allaient une fois par semaine à la réserve indienne se procurer 100 cartouches de 200 cigarettes. Ulric Jalbert payait 950 $ la boîte de 50 cartouches. Les appelants auraient vendu les cigarettes provenant de M. Jalbert de juin 2009 jusqu'au 22 septembre 2009.
+· C’est Mme Baribeau qui s’occupait de vendre les 100 cartouches de cigarettes par semaine au prix de 28 $.
+· Les appelants recevaient 4 cartouches de cigarettes chacun par mois en plus de 1 $ par chaque cartouche vendue.
+[17] Lors de son interrogatoire, M. Beaulieu a formellement nié avoir vendu des cigarettes provenant de M. Gaston Parent, ou même d’avoir acheté des cigarettes de lui. Il est étrange que l’appelant admet néanmoins avoir conduit des clients chez M. Parent avec sa propre voiture afin que ceux-ci puissent acheter des cigarettes de contrebande. À l’époque, M. Beaulieu se procurait, selon ses dires, ses cigarettes au restaurant et conduisait les individus qui souhaitaient acheter des cigarettes chez M. Parent simplement pour rendre service.
+[18] M. Beaulieu a ensuite affirmé, à l’encontre de toute logique, qu’il ignorait que M. Parent vendait des cigarettes de contrebande avant la perquisition chez celui-ci le 4 novembre 2008. Pris au piège lorsqu’on lui a ensuite demandé de préciser le moment où il amenait des clients chez M. Parent afin qu’ils puissent se procurer des cigarettes, l’appelant a fini par admettre qu’il s’était « trompé ».
+[19] M. Beaulieu a aussi mentionné qu’il ne connaît Ulric Jalbert que depuis 2009 et qu’il avait fait sa connaissance lors d’une visite chez la mère de ce dernier. Cette déclaration va à l’encontre de sa déclaration aux policiers, où il avait affirmé qu’il avait rencontré M. Jalbert au quai, déclaration par ailleurs confirmée par M. Jalbert lui-même.
+[20] M. Beaulieu a déclaré qu’il n’avait accompagné M. Jalbert que cinq ou six fois à la réserve indienne et que cela s’était généralement produit le vendredi. Il semble très certainement y avoir de la confusion sur ce point, puisque M. Jalbert avance, quant à lui, que les voyages à Kanesatake avaient lieu le samedi et que M. Beaulieu l’accompagnait à chaque voyage.
+[21] M. Beaulieu a affirmé que les deux hommes se rendaient deux fois par mois à Kanesatake et qu’ils achetaient chaque fois un contenant de cigarettes au prix de 475 $, puis il s’est corrigé quant au prix en le faisant passer à 950 $. M. Jalbert a prétendu, pour sa part, que lui et son acolyte ne se rendaient à la réserve indienne qu’une seule fois par mois pour n’y procurer qu’un contenant de cigarettes au prix de 750 $. Rappelons que la déclaration donnée aux policiers précisait que les deux individus allaient une fois par semaine à la réserve indienne se procurer deux contenants de cigarettes au prix de 950 $ chacun.
+[22] M. Beaulieu a admis que lui et sa femme recevaient chacun quatre cartouches de cigarettes par mois, mais il a nié qu’ils recevaient 1 $ par paquet vendu.
+[23] Finalement, M. Beaulieu a nié que son épouse eût reçu l’argent directement des clients. M. Beaulieu a juré que les clients payaient M. Jalbert en personne avant de venir chercher le tabac chez lui. Cependant, M. Beaulieu a paru incapable de préciser à la Cour, comment, par exemple Mme Baribeau faisait pour savoir si les clients avaient bel et bien payé à M. Jalbert les paquets qu’ils lui réclamaient.
+L’interrogatoire d’Ulric Jalbert
+[24] Bien que M. Jalbert ait nié formellement avoir remis 1 $ par paquet vendu aux appelants, et bien qu’il ait confirmé, d’une part, que les cigarettes trouvées lors de la perquisition du 23 septembre 2009 chez les appelants lui appartenaient et, d’autre part, que les clients venaient toujours le payer directement sans que les appelants aient besoin de manipuler l’argent, il n’en demeure pas moins qu’il est encore une fois permis de s’interroger quant à la crédibilité de ce témoignage.
+[25] D’abord, il me semble inutile de revenir sur les innombrables incohérences entre le témoignage de M. Jalbert et celui de M. Beaulieu.
+[26] Ensuite, me semble pertinent de souligner que M. Jalbert a également déclaré faillite en raison des procédures judiciaires à son encontre liées à la contrebande de cigarettes et qu’il n’avait rien à craindre en déclarant que les ventes illicites étaient faites par lui plutôt que par les appelants.
+L’interrogatoire de Pierrette Baribeau
+[27] Avant de clore la présentation de sa preuve avec les témoignages des policiers affectés au dossier et celui du fonctionnaire ayant rédigé les avis de cotisation, l’avocat des appelants a interrogé Mme Baribeau.
+[28] Rappelons que dans son interrogatoire, M. Beaulieu avait prétendu qu’il arrivait que des clients vinssent chercher leurs cartouches de cigarettes à la maison, mais qu’il avait précisé que sa femme ne manipulait jamais l’argent. Mme Baribeau a poussé cette allégation encore plus loin en soulignant qu’à l’exception de la mère et du frère de M. Jalbert, personne n’est jamais venu chercher de cigarettes à sa porte. Il ne s’agissait, selon elle, que de clients qui souhaitaient acheter des vers de mer.
+La deuxième question en litige
+[29] Il s’agit maintenant de répondre à la deuxième question en litige : le montant de la contrepartie sur lequel est calculée la TPS non perçue et non remise au receveur général comprend-il, au sens de la Loi sur la taxe d’accise (la « LTA »), les droits applicables aux produits du tabac?
+[30] D’abord, il importe de rappeler que le paragraphe 165(1) de la LTA précise ce qui suit :
+Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 5 % sur la valeur de la contrepartie de la fourniture.
+[31] La « contrepartie » est donc fondamentale au calcul du montant de la TPS à payer par l’acquéreur d’une fourniture taxable ainsi qu’à percevoir par le fournisseur.
+[32] Les articles 152 à 165 de la LTA viennent compléter la courte définition du terme « contrepartie » que l’on retrouve au paragraphe 123(1) de la LTA, laquelle se lie comme suit :
+« contrepartie » Est assimilé à une contrepartie tout montant qui, par effet de la loi, est payable pour une fourniture.
+[33] L’article 154 de la LTA est pertinent afin de déterminer si les droits fédéraux et provinciaux applicables aux produits du tabac sont visés par le terme « contrepartie ». Cet article se lit en partie comme suit :
+154(1) Au présent article, « prélèvement provincial » s’entend des frais, droits ou taxes imposés en application d’une loi provinciale relativement à la fourniture, à la consommation ou à l’utilisation d’un bien ou d’un service.
+(2) Pour l’application de la présente partie, les éléments suivants sont compris dans la contrepartie de la fourniture d’un bien ou d’un service :
+a) les frais, droits ou taxes imposés en application d’une loi fédérale (sauf la taxe imposée en vertu de la présente partie qui est payable par l’acquéreur) qui sont payables par l’acquéreur, ou payables ou percevables par le fournisseur, relativement à cette fourniture ou relativement à la production, à l’importation, à la consommation ou à l’utilisation du bien ou du service;
+b) tout prélèvement provincial (sauf celui visé par règlement qui est payable par l’acquéreur) qui est payable par l’acquéreur, ou payable ou percevable par le fournisseur, relativement à cette fourniture ou relativement à la consommation ou à l’utilisation du bien ou du service;
+c) tout autre montant percevable par le fournisseur en application d’une loi provinciale qui est égal à un prélèvement provincial, ou qui est percevable à son titre, sauf si le montant est payable par l’acquéreur et que le prélèvement provincial soit visé par règlement.
+[34] Concrètement, l'article 154 de la LTA prévoit ainsi qu’aux fins du calcul de la taxe payable lors de la fourniture d'un bien ou d'un service, la contrepartie comprend les frais, droits et taxes prévus par une loi fédérale ou provinciale qui sont imposés au fournisseur ou à l'acquéreur. Sont toutefois exclus les frais, droits et taxes visés par le Règlement sur les frais, droits et taxes (TPS/TVH)[6].
+[35] Trois articles de la Loi concernant l’impôt sur le tabac[7] portent sur des droits provinciaux pertinents au présent appel, soit les articles 8, 7.1.1 et 11.
+[36] En bref, l’article 11 de la LIT dispose que tout vendeur en détail doit percevoir comme mandataire du ministre l’impôt prévu à l’article 8 de la LIT, soit 20,60 $ pour une cartouche de 200 cigarettes à l’époque en cause.
+[37] Ainsi, il est possible d’observer non seulement que la LIT impose des droits provinciaux lors de la vente en détail de tabac, mais en plus que celle-ci dispose à l’article 7.1.1 qu’il est interdit de vendre en détail du tabac à un prix inférieur à la somme, à l'égard de ce tabac, du droit d'accise applicable en vertu de la Loi de 2001 sur l'accise, de l'impôt sur le tabac applicable en vertu de la LIT et de la taxe applicable en vertu de la partie IX de la LTA calculée sur la somme de ce droit d'accise et de cet impôt sur le tabac.
+[38] L’impôt sur le tabac en vertu de la LIT étant un prélèvement provincial percevable par les appelants lors de chacune de leurs transactions en leur qualité de fournisseurs de la fourniture taxable, l’alinéa 154(2)b) de la LTA s’applique et le montant de 20,60 $ fait partie de la contrepartie pour une cartouche de 200 cigarettes.
+[39] Je suis donc d’avis que le ministre était bien fondé à inclure 20,60 $ dans la contrepartie lors du calcul de la TPS non perçue et non remise au receveur général pour chacune des ventes de cigarettes de contrebande visées par l’appel.
+La troisième question en litige
+[40] Finalement, passons à la troisième question en litige : l’intimée peut-elle modifier sa réponse à l’avis d’appel, notamment, afin de prétendre que les appelants sont solidairement responsables des cotisations?
+[41] Dans sa réponse à l’avis d’appel, l’intimée n’a jamais affirmé que les appelants exploitaient une entreprise ou une société de personnes ou qu’ils étaient solidairement responsables des cotisations. D’ailleurs, dans sa réponse à l’avis d’appel, l’intimée a simplement supposé que chacun des appelants avait fait 100 % des ventes de cigarettes visées par les cotisations. L’intimée a omis de prétendre que c’est une société de personnes composée des deux appelants qui a effectué les ventes de cigarettes ayant menées aux cotisations en litige. Ce n’est que dans ses observations écrites remises après que j’en eus fait la demande à l’audience que l’intimée expliqua enfin à la Cour le fondement de cotisation conjointe quant à la TPS non perçue.
+[42] Le paragraphe 298(6.1) de la LTA, qui est entré en vigueur en 2000, dispose expressément que le ministre peut avancer un nouvel argument à l’appui d’une cotisation.
+[43] En fait, le paragraphe 298(6.1) de la LTA, ainsi que son pendant au paragraphe 152(9) de la LIR, ont été ajoutés à la suite de la décision de la Cour suprême du Canada dans La Reine c. Banque Continentale du Canada[8], où la Cour suprême avait douté que le ministre puisse invoquer des motifs subsidiaires à l’appui d’une cotisation après les délais prévus.
+[44] Le ministère des Finances a publié une note explicative en décembre 1999 quant à l’objectif de cette disposition :
+Le nouveau paragraphe 298(6.1) est ajouté afin de préciser que la Couronne a le droit, dans le cadre de l'appel d'une cotisation de TPS/TVH, d'invoquer un nouvel argument à l'appui de cette cotisation, même si les délais prévus pour établir une nouvelle cotisation sont expirés. La modification est apportée à la lumière des observations de la Cour suprême du Canada dans l'affaire La Reine c. la Banque Continentale du Canada, qui aurait autrement pu être interprétée comme une remise en question de ce droit. La disposition reconnaît expressément la protection qu'accorde la Cour aux contribuables en ce sens qu'un nouvel argument ne peut néanmoins pas être invoqué à l'encontre du droit qu'a un contribuable d'avancer une preuve pertinente pour réfuter l'argument.
+Le paragraphe 298(6.1) s'applique aux cotisations relativement auxquelles un appel est réglé après la sanction du présent paragraphe quelle que soit la date à laquelle cet appel a été interjeté.
+[45] Le paragraphe 298(6.1) de la LTA est rédigé de la façon suivante :
+Le ministre peut avancer un nouvel argument à l'appui d'une cotisation établie à l'égard d'une personne après l'expiration des délais prévus aux paragraphes (1) ou (2) pour l'établissement de la cotisation, sauf si, sur appel interjeté en vertu de la présente partie :
+a) d'une part, il existe des éléments de preuve que la personne n'est plus en mesure de produire sans l'autorisation du tribunal;
+b) d'autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[46] Un coup d’œil rapide nous permet de constater que les paragraphes 298(6.1) de la LTA et 152(9) de la LIR font l’objet d’une jurisprudence abondante. La décision de la Cour d’appel fédérale dans Walsh c. Canada[9]. semble particulièrement éclairante sur l’application de ces paragraphes; le juge en chef Richard (tel était alors son titre) a établi certaines conditions à l’application de ces dispositions :
+Les conditions suivantes sont applicables lorsque le ministre veut invoquer le paragraphe 152(9) de la Loi :
+1) Le ministre ne peut pas inclure de transactions non comptées dans la nouvelle cotisation du contribuable.
+2) Le droit du ministre de proposer un autre argument à l'appui d'une cotisation est assujetti aux alinéas 152(9)a) et b), qui ont trait au préjudice causé au contribuable.
+3) Le ministre ne peut pas invoquer le paragraphe 152(9) pour établir une nouvelle cotisation au-delà du délai prévu au paragraphe 152(4) de la Loi ou pour percevoir un impôt dépassant le montant de la cotisation contestée[10].
+[47] Cependant, l’arrêt Walsh c. Canada, comme bien d’autres décisions rendues au sujet des paragraphes 298(6.1) de la LTA et 152(9) de la LIR, porte sur une demande du ministre en vue de modifier la réponse à l'avis d'appel afin d’ajouter un argument juridique subsidiaire à l'appui des cotisations en question.
+[48] En l’espèce, l'intimée n'a pas demandé que ses actes de procédure soient modifiés et la jurisprudence semble indiquer clairement qu’elle ne devrait pas être placée dans une meilleure position que celle dans laquelle elle serait placée si une telle demande avait été faite[11].
+[49] Comme l'a dit le juge Hugessen de la Cour d'appel fédérale dans l'arrêt R. c. Bowens, « les hypothèses non plaidées ne peuvent avoir aucun effet sur le fardeau de la preuve dans un sens ou dans l'autre »[12].
+[50] De surcroît, dans l'arrêt Hickman Motors Ltd. c. Canada, la juge L'Heureux-Dubé indique que le fardeau initial du contribuable consiste seulement à « démolir » les hypothèses exactes qu'a utilisées le ministre, mais rien de plus[13].
+[51] Selon le juge Bowman, autrefois juge en chef de la Cour canadienne de l’impôt, selon les principes d’équité procédurale, dans les affaires régies par la procédure informelle, la Couronne ne devrait pas être autorisée à présenter à la dernière minute un tout nouvel argument à l’encontre d’un contribuable :
+Aucun des arguments en question n'a été exposé ni formulé dans les actes de procédure. Dans les circonstances, j'accueille les appels en me fondant sur la preuve produite par l'appelant selon laquelle il a payé 7 200 $ au cours de chacune des années en cause en exécution de son obligation relative aux années 1994, 1995, 1996 et 1997 conformément à l'ordonnance de la Cour de district de l'Ontario. Voir les arrêts Tsiaprailis v. The Queen, 2005 DTC 5119 et R. v. Sills, 85 DTC 5096.
+Permettre à l'intimée de faire valoir pour la première fois à l'instruction un tout nouveau moyen justifiant le refus de la déduction serait contraire au principe fondamental d'équité procédurale. […]
+[…]
+En l'espèce, la Couronne n'a pas demandé une modification, et, pour les motifs exposés dans la décision Poulton, je ne l'aurais probablement pas approuvée. Cependant, le fait que la Couronne a invoqué à l'instruction un argument qui n'avait pas été exposé dans les actes de procédure ne la place pas dans une meilleure position que si elle avait présenté une requête en ajournement et que celle-ci avait été rejetée[14].
+[52] La Cour canadienne de l’impôt avait à trancher une question très similaire à celle dans la présente cause dans Adler c. La Reine, précité.[15] Le juge Webb avait à décider si l’intimée pouvait, dans son plaidoyer final, invoquer un motif additionnel à l’appui du rejet des dépenses du contribuable. Il a affirmé ce qui suit :
+Il ne convient pas pour l'avocat de l'intimée d'invoquer, dans son plaidoyer final, une disposition particulière de la Loi comme fondement d'une nouvelle cotisation, alors que rien n'indique dans la réponse que la disposition particulière a servi de fondement à la nouvelle cotisation ou qu'il s'agissait d'un fondement subsidiaire à l'appui de la nouvelle cotisation.
+L'article 6 des Règles de la Cour canadienne de l'impôt (procédure informelle) prévoit ce qui suit :
+6.(1) La réponse indique :
+a) les faits admis,
+b) les faits niés,
+c) les faits que l'intimée ne connaît pas et qu'elle n'admet pas,
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s'est fondé en établissant sa cotisation,
+e) tout autre fait pertinent,
+f) les points en litige,
+g) les dispositions législatives invoquées,
+h) les moyens sur lesquels l'intimée entend se fonder,
+i) les conclusions recherchées.
+[…]
+Dans l'arrêt Walsh c. La Reine[16], le juge en chef Richard (tel était alors son titre), de la Cour d'appel fédérale, a fait les remarques suivantes au sujet du paragraphe 152(9) de la Loi :
+[18] Les conditions suivantes sont applicables lorsque le ministre veut invoquer le paragraphe 152(9) de la Loi :
+1) Le ministre ne peut pas inclure de transactions non comptées dans la nouvelle cotisation du contribuable.
+2) Le droit du ministre de proposer un autre argument à l'appui d'une cotisation est assujetti aux alinéas 152(9)a) et b), qui ont trait au préjudice causé au contribuable.
+3) Le ministre ne peut pas invoquer le paragraphe 152(9) pour établir une nouvelle cotisation au-delà du délai prévu au paragraphe 152(4) de la Loi ou pour percevoir un impôt dépassant le montant de la cotisation contestée.
+Il me semble que, outre les conditions susmentionnées, le ministre ne devrait pas pouvoir contourner l'équité procédurale en invoquant, à l'appui d'une nouvelle cotisation, dans le cadre de son plaidoyer final, un motif qui n'a pas été mentionné dans la réponse. L'équité procédurale exige que l'intimée, si elle avait voulu avancer un nouveau motif à l'appui de la nouvelle cotisation, aurait dû présenter une requête avant le début de l'audience en vue de faire modifier la réponse, de façon que le nouveau motif y soit mentionné. Selon moi, les dispositions du paragraphe 152(9) de la Loi ne devraient pas être interprétées comme dispensant une partie de l'exigence procédurale voulant que les actes de procédure soient modifiés en vue d'inclure un nouvel argument. Le paragraphe 152(9) de la Loi prévoit que le ministre peut proposer un autre argument, mais il me semble que pareil argument doit être avancé conformément aux règles de la Cour et conformément aux règles d'équité procédurale[17].
+[53] Selon la décision Rijonta, qui a été citée et approuvée dans la décision Adler, l’équité procédurale commande que je rejette l’argument de l’intimée invoquée la première fois lors de l’argumentation. Pour ces motifs, je conclus que l’intimée ne peut pas prétendre que les appelants sont solidairement responsables de la TPS non perçue. Comme cet argument doit être écarté, j’estime que chacun des appelants est responsable de la TPS pour la moitié des ventes, faute de meilleure preuve quant à la manière dont les ventes doivent être réparties entre eux.
+CONCLUSION
+[54] Les appelants n’ont pas présenté une preuve prima facie permettant d’infirmer les hypothèses de fait du ministre. Les témoignages des appelants, tout comme ceux de M. Parent et de M. Jalbert, sont truffés d’incohérences et de confusion.
+[55] Cependant, l’intimée n’a pas prétendu dans la réponse à l’avis d’appel que les appelants exploitaient une entreprise ou une société de personnes ni même qu’ils étaient solidairement responsables des cotisations. L’intimée n’a pas non plus demandé la permission de modifier ses actes de procédure en vue d’inclure un argument complémentaire à l’appui des cotisations en question. La jurisprudence indique clairement que le ministre ne peut contourner l’équité procédurale en invoquant, pendant son plaidoyer final, un motif à l’appui d’une cotisation qui n’a pas été mentionné dans la réponse à l’avis d’appel.
+[56] En l’absence de meilleure preuve, je conclus que la moitié des ventes visées par les cotisations en litige doit être attribuée à chacun des appelants. D’autre part, chacun des appelants a le droit de bénéficier du fait qu’il est un petit fournisseur, de sorte que seules les ventes qui ont été faites lorsque les appelants n’étaient pas de petits fournisseurs sont assujetties aux droits prévus par les cotisations en litige.
+Signé à Ottawa, Canada, ce 5 e jour de décembre 2011.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2011 CCI 544
+Nos DES DOSSIERS DE LA COUR : 2011-1073(GST)I, 2011-1075(GST)I
+INTITULÉS : PIERRETTE BARIBEAU c. SA MAJESTÉ LA REINE ET LIBOIRE BEAULIEU c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Rimouski (Québec)
+DATE DE L’AUDIENCE : Le 15 septembre 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 5 décembre 2011
+COMPARUTIONS :
+Avocat des appelants :
+Me Daniel LeBlond
+Avocat de l’intimée :
+Me Philippe Morin
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Daniel LeBlond
+Cabinet : Giroux, LeBlond, Gaudette
+Rivière-du-Loup (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. E-15.
+[2] Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336; Dobieco Ltd. c. Minister of National Revenue, [1966] R.C.S. 95.
+[3] Continental Insurance Co. c. Dalton Cartage Co. [1982] 1 R.C.S. 164.
+[4] Hickman Motors Ltd, précité.
+[5] Ibid., au par. 93.
+[6] DORS/91-34.
+[7] LRQ, c. I-2.
+[8] Banque continentale du Canada c. Canada, [1998] 2 R.C.S. 358.
+[9] 2007 CAF 222.
+[10] Ibid., au par. 18.
+[11] Adler c. La Reine., 2009 CCI 613, au par. 13.
+[12] No A-507-94, 20 février 1996 (C.A.F.).
+[13] [1997] 2 R.C.S. 336, au par. 92.
+[14] Ritonja c. La Reine, 2006 CCI 346, par. 9 à 11.
+[15] Adler, précité, par. 5, 6, 9 et 10..
+[16] 2007 CAF 222.
+[17] Adler, précité, par. 5, 6, 9 et 10.

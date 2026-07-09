@@ -1,0 +1,180 @@
+Title: Ho v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29847/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-325-29847-ho-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-15
+
+# Ho v. The Queen
+
+- Citation: 2010 TCC 325
+- Decision date: 2010-06-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6557, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ho v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-15
+Neutral citation
+2010 TCC 325
+File numbers
+2007-4122(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4122(IT)G
+BETWEEN:
+CHI-LUEN HO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on April 19, 2010 at Vancouver, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+William A. Ruskin
+Counsel for the Respondent:
+Robert Carvalho
+____________________________________________________________________
+JUDGMENT
+For the reasons that follow, I have determined that the imputation of foreign accrual property income (“FAPI”) to the Chi-Luen Trust in respect of income earned by a non-resident corporation (Nathan Enterprises Ltd. (“Nathan”)) which the Minister of National Revenue seeks, by operation of law, to further impute to the Appellant pursuant to subsection 75(2) of the Income Tax Act (the “Act”) consequent to the Ho Family Trust becoming a beneficiary of the Chi-Luen Trust is not a transaction involving Nathan and the Appellant for the purposes of subparagraph 152(4)(b)(iii) of the Act.
+Signed at Ottawa, Canada, this 15th day of June, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC325
+Date: 20100615
+Docket: 2007-4122(IT)G
+BETWEEN:
+CHI-LUEN HO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant brought a Motion pursuant to Rule 58 of the Tax Court of Canada Rules (General Procedure). This Rule provides as follows:
+58. (1) A party may apply to the Court,
+(a) for the determination, before hearing, of a question of law, a question of fact or a question of mixed law and fact raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, or
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+and the Court may grant judgment accordingly.
+[2] The initial question posed by the Appellant was:
+Whether the provisions of paragraphs 152(3.1)(b) and 152(4)(b)(iii) [of the Income Tax Act] apply to permit the Minister to reassess outside the normal three year period in respect of Notices of Reassessment dated January 31, 2006 with respect to the Appellant’s 1999 and 2000 taxation years. [3] This question was subsequently narrowed by the parties to the following question:
+Whether the imputation of foreign accrual property income ("FAPI") to the CL Trust in respect of income earned by a non-resident corporation (Nathan Enterprises Ltd.) which the Minister seeks, by operation of law, to further impute to the Appellant pursuant to subsection 75(2) of the Income Tax Act (the "Act") consequent to the Ho Trust becoming a beneficiary of the CL Trust constitutes a "transaction" involving Nathan and the Appellant for the purposes of subparagraph 152(4)(b)(iii) of the Act.
+[4] The parties submitted an agreed statement of facts and the facts as agreed upon by the parties are set out in Schedule “A” attached hereto. The only issue to be decided in this Motion is the narrow question of whether the imputation of income as described above is a transaction for the purposes of subparagraph 152(4)(b)(iii) of the Income Tax Act (the “Act”). There are two levels of imputed income. First the FAPI earned by Nathan Enterprises Ltd. (“Nathan”) is deemed to be income of the Chi-Luen Trust (the “CL Trust”) and then the Minister of National Revenue is seeking to have this deemed income of the CL Trust included in the Appellant’s income pursuant to the provisions of subsection 75(2) of the Act. The question of whether this is a transaction arises because the limitation period within which the Appellant may be reassessed as provided in subparagraph 152(4)(b)(iii) of the Act is based on whether a transaction has occurred. This subparagraph of the Act provides, in part, as follows:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+…
+(b) the assessment, reassessment or additional assessment is made before the day that is 3 years after the end of the normal reassessment period for the taxpayer in respect of the year and
+…
+(iii) is made as a consequence of a transaction involving the taxpayer and a non-resident person with whom the taxpayer was not dealing at arm's length,
+[5] If there is no transaction then the Respondent cannot rely on the provisions of subparagraph 152(4)(b)(iii) of the Act to reassess the Appellant within three years after the end of the normal reassessment period for the Appellant.
+[6] The alleged transaction relates to the imputation of income pursuant to subsection 91(1) of the Act (which is imputed to the CL Trust) and, assuming that the provisions of subsection 75(2) of the Act apply, the further imputation of the imputed FAPI to the Appellant. Subsections 91(1) and 75(2), in part, of the Act provide as follows:
+91. (1) In computing the income for a taxation year of a taxpayer resident in Canada, there shall be included, in respect of each share owned by the taxpayer of the capital stock of a controlled foreign affiliate of the taxpayer, as income from the share, the percentage of the foreign accrual property income of any controlled foreign affiliate of the taxpayer, for each taxation year of the affiliate ending in the taxation year of the taxpayer, equal to that share's participating percentage in respect of the affiliate, determined at the end of each such taxation year of the affiliate.
+…
+75. (2) Where, by a trust created in any manner whatever since 1934, property is held on condition (a) that it or property substituted therefor may (i) revert to the person from whom the property or property for which it was substituted was directly or indirectly received (in this subsection referred to as “the person”), or … any income or loss from the property or from property substituted for the property, and any taxable capital gain or allowable capital loss from the disposition of the property or of property substituted for the property, shall, during the existence of the person while the person is resident in Canada, be deemed to be income or a loss, as the case may be, or a taxable capital gain or allowable capital loss, as the case may be, of the person.
+[7] The meaning of the word “transaction” has been the subject of other decisions of this Court and of the Court of Appeal. In Minister of National Revenue v. Granite Bay Timber Company Limited, [1958] C.T.C. 117, 58 DTC 1066, Justice Thurlow of the Exchequer Court of Canada dealt with the meaning of the word “transaction” in the following context:
+1 …The matter in issue in the appeal relates to the basis for determining the capital cost to the respondent of certain property in respect of which it claimed a deduction for capital cost allowance pursuant to s. 11(1)(a) of The Income Tax Act (S. of C. 1948, c. 52, as amended by S. of C. 1949, 2nd Sess., c. 25, s. 4). This section provides that, in computing his income, a taxpayer may deduct such part of the capital cost of the property, if any, as is allowed by regulation. The respondent based its claim for such a deduction on the price at which it purchased the property from Samuel Heller, Paul Heller and John H. Maier in 1947. The Minister, however, in making the assessment, proceeded upon the assumption that the property in question was acquired by the respondent in a transaction between parties not dealing at arms length and disallowed a portion of the allowance claimed by the respondent. In so doing, he applied the special provision of s. 8(3) of S. of C. 1949, 2nd Sess., c. 25, which was as follows:
+(3) Where property did belong to one person (hereinafter referred to as the original owner) and has by one or more transactions prior to 1949 between persons not dealing at arms length become vested in a taxpayer who had it at the commencement of the 1949 taxation year (or who acquired it during his 1949 taxation year from a person whose 1948 taxation year had not expired at the time of the acquisition), the capital cost of the property to the taxpayer shall, for the purpose of subparagraph (i) of paragraph (a) of subsection one, be deemed to be the lesser of the actual capital cost of the property to the taxpayer or the amount by which
+…
+[8] Justice Thurlow described the argument, related to whether there was one or more transactions, as follows:
+11 Counsel for the respondent, however, approached the matter in another way. He asserted in argument that the Minister's computation is based on the cost of the property to Granite Bay Logging Co. Ltd. and that, in the Minister's computation, that company is regarded as the "original owner" referred to in s. 8(3). He then submitted that the property which originally belonged to Granite Bay Logging Co. Ltd. did not become vested in the respondent by "one or more transactions between persons not dealing at arms length" because the events or process by which the property of Granite Bay Logging Co., Ltd. became vested in its shareholders did not amount to a transaction within the meaning of that word in s. 8(3), and that, accordingly, there was no uninterrupted series of transactions between parties not dealing at arms length by which the property of Granite Bay Logging Co. Ltd. became vested in the respondent so as to invoke s. 8(3) and thus require that the capital cost allowance should be based on the capital cost of the property to Granite Bay Logging Co. Ltd. More particularly, he contended that, upon the passing of the resolution to wind up Granite Bay Logging Co. Ltd., the property of that company devolved on its shareholders by operation of law, and that neither this devolution nor the resolution itself nor the action of the three shareholders in voting for it was a transaction within the meaning of s. 8(3).
+[9] In paragraph 13 Justice Thurlow noted that “the word ‘transaction’ is one of wide scope, and it is used in a variety of senses”. He then reviewed the definitions of transaction as found in Webster's New International Dictionary, Second Edition and the Shorter Oxford Dictionary and as determined in certain cases. He concluded as follows:
+20 In my view, while the authorities above mentioned, as well as the other cases cited by counsel, illustrate the scope and versatility of the word "transaction", none of them affords a sure guide to its meaning in s. 8(3). I do not think that the votes of the shareholders in this case can be regarded as transactions of the kind contemplated by s. 8(3), but that is far from saying that the resolution itself which resulted from such voting and became an act of the company was not such a transaction or part of such a transaction. In my opinion, the "transactions" referred to in s. 8(3) are not limited to contracts. True, the subject matter with which s. 8 deals is that of capital "cost", which suggests that "transactions" in s. 8(3) refers to transactions in the nature of contracts of sale in which the taxpayer incurs cost in purchasing property. No doubt, in the great majority of cases the transaction will be of that kind. But in using "transactions" in s. 8(3) Parliament selected a word of far wider meaning than "sales" or "contracts" and, except in so far as its wide meaning is necessarily limited by the context in which it is used, there is, in my opinion, no valid reason why the word should not have its full scope and meaning. Of the various meanings of the word, that stated in the fourth definition given in the Oxford dictionary, viz. "the action of passing or making over a thing from one person, thing or state to another," seems to me to represent most nearly the meaning of the word in s. 8(3). While it is limited in its context to transactions by which property can become transferred from one person and vested in another and by the words between parties, I do not think it is limited to sales of property nor to contractual transactions between parties. In adopting this view, I do not overlook the word dealing, but I regard it as applicable to and descriptive of the parties rather than as qualifying the word transactions. In my opinion, the expression "one or more transactions" in s. 8(3) is wide enough to embrace all types of voluntary processes or acts by which property of one person may become vested in another without regard for the reason or occasion for such processes or acts and regardless also of whether the process is undertaken or the act is done for consideration in whole or in part or for no consideration at all. It may not be wide enough to embrace a transmission or devolution upon death but, as used in s. 8(3) I think it is wide enough to include any voluntary transfer of property between existing persons falling within the class referred to as "persons not dealing at arms length."
+(emphasis added)
+[10] A transmission or devolution upon death is a transfer of property that arises by operation of law once an event (the death of the owner) has occurred. Property becomes property of the new owner by operation of law. It seems to me that this is analogous to the imputation of income. The imputation of income arises by operation of law once the requirements of the Act have been satisfied. Income becomes income of another person as a result of the deeming provisions of the Act. If a transmission or devolution upon death is not a transaction, then the imputation of income should not be a transaction.
+[11] In this case the issue is the meaning of the word “transaction” as it is used in subparagraph 152(4)(b)(iii) of the Act, which is a different provision than was considered by Justice Thurlow. Justice Hogan in Heron Bay Investments Ltd. v. The Queen, 2009 TCC 337, 2009 DTC 1288 dealt with the question of whether a word should have the same meaning when it is used in different sections of the same statute. He stated that:
+60 Some of the judicial statements referred to above related to provisions of the ITA that are inapplicable in the instant appeal or to provisions of other statutes. This does not necessarily render inapplicable the judicial treatment of those provisions. Legislative drafters are understood to abide by the principle of uniformity of expression, so that each term has one and only one meaning.22 Therefore, the same words appearing in a statute are to be given the same meaning.
+[I]t is a basic principle of statutory interpretation that where the same words are used in a statute, they are to be given the same meaning.
+In Ainsworth Lumber Co. Ltd. v. The Queen,23 the court considered the issue of how to interpret the words used in the Act and adopted the following commentary:
+[T]he third edition of Driedger on the Construction of Statutes at page 163 ... says:
+It is presumed that the legislature uses language carefully and consistently so that within a statute or other legislative instrument the same words have the same meaning.
+...
+In R. v. Zeolkowski, (1989) 61 D.L.R. (4th) 725, at 732 (S.C.C.), Sopinka, J. wrote:
+Giving the same words the same meaning throughout a statute is a basic principle of statutory interpretation.
+Driedger at page 475 reads:
+In preparing an enactment, the legislature is presumed to be aware of existing case law and to take that case law into account in drafting its provisions. Where words have been given a particular meaning in a case or series of cases, and those words are then used in legislation, the obvious inference is that the legislature intended to give the words the same established meaning.24
+[12] Justice Campbell made the following comments in Tolhoek v. The Queen, 2006 TCC 681, 2007 DTC 247 in describing it as a presumption that the same word in a statute should have the same meaning:
+30 … Although there is a presumption of consistent expression, which, as a basic principle of statutory interpretation, requires giving the same words the same meaning throughout a statute, the weight afforded to this presumption varies because words in a statute may have different meanings depending on the context in which they are used (Barrie Public Utilities v. Canada Cable Television Association, [2001] 4 F.C. 237, 2001 FCA 236). The realities of legislative drafting can affect this presumption.
+[13] It seems to me that in this case it does not matter whether it is a rule or a presumption that the same word is to be given the same meaning throughout a statute since it seems to me that in comparing the meaning of the word “transaction” in subsection 8(3) of S. C. 1949, 2nd Sess., c. 25, (which was a transitional provision related to depreciation and was a provision that applied for the purposes of the Act) and subparagraph 152(4)(b)(iii) of the Act (which was added to the Act in 1988) the word should be given the same meaning. Both provisions used the word to describe something that would lead to consequences under the Act and therefore it seems to me that the word “transaction” should have the same meaning for each of these provisions. Justice Thurlow did not, in any event, provide an all-encompassing definition of “transaction” as he simply concluded that it was “wide enough to embrace all types of voluntary processes or acts by which property of one person may become vested in another…”.
+[14] In The Minister of National Revenue v. Dufresne, [1967] C.T.C. 153, 67 DTC 5105, Justice Jackett of the Exchequer Court of Canada stated that:
+35 In 1960, the children acquired 75 shares in the company at a cost of $7,500 in circumstances such that, as a result of the acquisition, they became, after the acquisition, owners of 6/17 (90/255) of the stock in the company instead of the 1/12 (15/180) of the stock in the company that they held before such acquisition. Certainly, this "result" flowed from at least one transaction - that is the subscription contract - in the very special circumstances in which it was made possible for each child to enter into his or her subscription contract with the company. That being so, I do not have to decide whether the other acts that took place as a necessary part of the action required to create those [page138] special circumstances were "transactions" (English version) or "opérations" (French version) within the meaning of the statute. In my view they were, because, in my view, the word "transaction" or "opération" is used in the widest possible sense as meaning any act having operative effect in relation to a business or property, Compare Minister of National Revenue v. Granite Bay Timber Company Limited, [1958] Ex. C.R. 179, per Thurlow J. at pages 187 to 191, and the authorities reviewed by him.. However, I do not need to reach a concluded opinion on that question to conclude, as I do, that the "result" I have described was the result of a "transaction".
+(emphasis added)
+[15] It does not seem to me that the imputation of income simply because certain conditions have been met, would be an act having operative effect in relation to a business or property. An “act” would require an action of some kind[1].
+[16] The Federal Court of Appeal dealt with subparagraph 152(4)(b)(iii) of the Act in SMX Shopping Centre Ltd. v. The Queen, 2003 FCA 479, 2004 DTC 6013, [2004] 2 C.T.C. 48. Justice Sharlow writing on behalf of the Federal Court of Appeal stated that:
+24 There is no merit in the second argument. In the context of subparagraph 152(4)(b)(iii) of the Income Tax Act, the word “transaction” must be interpreted to include a transaction that the taxpayer alleges forms the factual foundation for a deduction claimed in an income tax return. Thus, for example, if a taxpayer claims to be entitled to a deduction for a particular expense it has paid, and the payment of the expense (assuming it occurred), would have involved the taxpayer and a non-resident person with whom the taxpayer was not dealing at arm's length, the Minister has the legal authority to reassess within the extended reassessment period to disallow the deduction. That legal authority does not disappear if the taxpayer later denies that the expense was paid, or fails to prove that it was paid.
+25 In this case, SMX claimed a deduction of $1,180,542, which it said represented expenditures made by SMX in the failed joint venture with Golbanoo. SMX attempted to prove that Amir Malekyazdi caused those expenditures to be made to Golbanoo on behalf of SMX, and that Golbanoo spent and lost the money on the joint enterprise. Those alleged expenditures were the transactions upon which SMX based its claim for a deduction, and so they were also the transactions that permit the Minister to rely on subparagraph 152(4)(b)(iii) to disallow the deduction by reassessing within the extended reassessment period.
+[17] The alleged expenditures in that case would clearly be transactions if they would have been made as they would be acts that would have an operative effect in relation to business or property. These alleged transactions were transactions for the purposes of subparagraph 152(4)(b)(iii) of the Act. However, it seems to me that this simply means that an alleged transaction could be a transaction for the purposes of subparagraph 152(4)(b)(iii) of the Act but the alleged transaction, if it did occur, would still have to be a transaction. This is relevant in this case since the second level of imputed income, as a result of the application of subsection 75(2) of the Act, will only arise if this provision applies. The issue before me is only related to the very specific question posed by the parties. Whether subsection 75(2) of the Act applies in this case is not the issue. However, the decision of the Federal Court of Appeal in SMX Shopping Centre Limited would stand for the proposition that if the imputation of income pursuant to subsection 75(2) of the Act is a transaction, then it will be a transaction for the purposes of subparagraph 152(4)(b)(iii) of the Act even though the question of whether subsection 75(2) of the Act applies will not be decided until a hearing on this matter is held. Therefore the real question is whether the imputation of income pursuant to subsection 75(2) of the Act, assuming that this subsection applies, is a transaction.
+[18] In Blackburn Radio Inc. v. The Queen, 2009 TCC 155, 2009 DTC 533, [2009] 4 C.T.C. 2213, Justice V. Miller dealt with the question of the meaning of the word transaction for the purposes of subparagraph 152(4)(b)(iii) of the Act.
+34 Based on the above and using a textual, contextual and purposive approach* to the interpretation of the word “transaction” in subparagraph 152(4)(b)(iii), I conclude that it does not include an arrangement. It is also my opinion that the word “transaction” in subparagraph 152(4)(b)(iii) does not include a series of transactions. If the Act had intended that a series of transactions would be included, it would have specifically stated it as it did in other sections such as the Avoidance Transaction section.*
+35 There is no general definition of the word “transaction” in section 248 of the Act but it is defined in the Canadian Oxford Dictionary as follows:
+1 a. a piece of esp. commercial business done; a deal (a profitable transaction).
+b. N Amer. = TRADE 4b.
+c. the management of business etc.
+2. (in pl.) published reports of discussions, papers read, etc., at the meetings of learned society.
+[19] As noted by Justice V. Miller, the definition of “transaction” was expanded to include “arrangement or event” for the purposes only of section 247 of the Act and subsection 247(11) of the Act (which provides that section 152 (among others) applies to Part XVI.1 of the Act) does not have the reverse effect of applying the definition of transaction (as found in subsection 247(1) of the Act) to the word “transaction” as used in subparagraph 152(4)(b)(iii) of the Act. The definition of “transaction” is also expanded to include “arrangement or event” by subsection 245(1) of the Act but this is only for the purposes of section 245 of the Act.
+[20] In Shaw-Almex Industries Limited v. The Queen, 2009 TCC 538, 2009 DTC 2080, Justice Lamarre referred to the definition of “transaction” as found in the Canadian Oxford Dictionary as quoted by Justice V. Miller in Blackburn Radio Inc. In that case Justice Lamarre stated that:
+28 I am not exactly sure what the appellant means when it asserts that honouring the guarantee was an event rather than a transaction. In the present case, the payments were made by the appellant to Wachovia Bank pursuant to the Forbearance Agreement, of which Fusion Co was the signatory. It is true that the appellant's liability would not have been incurred without the existence of the guarantee that it gave to Wachovia Bank. However, the evidence focused in part on the fact that the appellant did not want the Bank of Nova Scotia to be involved in the repayment of the loan to Wachovia Bank because this could have impaired its future borrowing capacity at that bank. The evidence also disclosed that the appellant and Fusion Co's operations and businesses were closely interrelated.
+29 As a consequence, I conclude that the repayment of the loan to Wachovia Bank was the result of “a piece of ... commercial business” or “the management of [a] business” in which both the appellant and Fusion Co were involved. Therefore, the repayment of the loan was a transaction involving the appellant, Fusion Co and Wachovia Bank. The reassessment denying the loss arguably incurred on the repayment of the loan was therefore made as a consequence of the transaction described above. Thus, the Minister was not out of time for the purpose of reassessing pursuant to subparagraph 152(4)(b)(iii) of the Act.
+[21] In addition to the definition of transaction as found in the Canadian Oxford Dictionary that was relied upon by both Justice V. Miller and Justice Lamarre, I would add the following definition from Black’s Law Dictionary (8th edition):
+Transaction, n. 1. The act or an instance of conducting business or other dealings; esp., the formation, performance, or discharge of a contract. 2. Something performed or carried out; a business agreement or exchange. 3. Any activity involving two or more persons.
+[22] The last proposed definition in Black’s Law Dictionary “any activity involving two or more persons” is too broad to be of much assistance in determining the meaning of transaction for the purposes of subparagraph 152(4)(b)(iii) of the Act. The word “transaction” is used in subparagraph 152(4)(b)(iii) of the Act in relation to the application of the limitation period for a reassessment under the Act. This subparagraph specifically provides that the assessment, reassessment or additional assessment is made as a consequence of a transaction. Therefore it seems to me that the word “transaction” was not used in subparagraph 152(4)(b)(iii) of the Act to mean any activity involving two or more persons but only such activities that could lead to an assessment, a reassessment or an additional assessment. Therefore in the context of subparagraph 152(4)(b)(iii) of the Act it seems to me that the first two definitions as set out above are more applicable.
+[23] In seems to me that for the purposes of subparagraph 152(4)(b)(iii) of the Act “transaction” would not include the operation of certain provisions of the Act that deem income of one person to be income of another person. The imputation of income in this case arises as a consequence of statutory provisions that require FAPI to be included in computing the income of the shareholder and that deem income of certain trusts to be income of certain beneficiaries. There is no business that is conducted as a result of the application of these provisions and no “act having operative effect in relation to a business or property”. Income of one person is simply deemed to be income of another person. In my opinion, this is not a transaction.
+[24] As a result, in my opinion, the imputation of FAPI to the CL Trust in respect of income earned by a non-resident corporation (Nathan) which the Minister of National Revenue seeks, by operation of law, to further impute to the Appellant pursuant to subsection 75(2) of the Act consequent to the Ho Family Trust becoming a beneficiary of the Chi-Luen Trust is not a transaction involving Nathan and the Appellant for the purposes of subparagraph 152(4)(b)(iii) of the Act.
+Signed at Ottawa, Canada, this 15th day of June, 2010.
+“Wyman W. Webb”
+Webb, J.
+Schedule “A”
+Agreed Statement of Facts
+1. Prior to the Appellant immigrating to Canada on September 24, 1988, the Chi-Luen Trust (the “CL Trust”) was settled whereby the Appellant transferred property, including 568,733 Hang Seng Bank shares to the Trustee, Irving Trust Company (Cayman) Limited, pursuant to the Trust Agreement made the 1st day of September, 1988. 2. The Appellant has been continuously resident in Canada since September 24, 1988. 3. The beneficiaries of the CL Trust were the Appellant’s wife, Ho Lau Bak Har, the issue of the Appellant and Lillian Lai Yin Ho Lu. 4. The CL Trust, at all material times, had a single corporate trustee that was not resident in Canada. 5. On or about September 24, 1988, Nathan Enterprises Ltd. (“Nathan”) was incorporated in the Cayman Islands. At all material times, Nathan was a non-resident of Canada; 6. On or before December 28, 1992, the CL Trust acquired all of the shares in Nathan. 7. On December 28, 1992, the CL Trust advanced to Nathan by way of loan Hang Seng Bank shares having a value of US $9,089,838. 8. Commencing with its 1993 taxation year, the CL Trust filed tax returns with the Canada Revenue Agency (the “Agency”) reporting its worldwide income. 9. In reporting its income for its 1993 and subsequent taxation years, the CL Trust included the income earned by its controlled foreign affiliate, Nathan. 10. Nathan’s fiscal year-end was January 31. 11. In 1999, the Trustee of the CL Trust exercised its power under the CL Trust Agreement to add two beneficiaries, namely, Ho Family Trust (“Ho Trust”) and Pine Trust. 12. The Ho Trust was settled by the Appellant in 1999 and has been a resident of Canada since its inception. 13. The beneficiaries of the Ho Trust were the Appellant, the Appellant’s wife (Ho Lau Bak Har) and the Appellant’s children (Todd, Daniel and Vivian); 14. The Trustee of the Ho Trust was the Royal Trust Corporation of Canada; 15. On December 3, 1998, Mrs. Lam Fung Kit, a non-resident of Canada settled the Pine Trust; 16. The beneficiaries of the Pine Trust were two of the Appellant’s children (Todd and Vivian) and any of their non-resident offspring; 17. The trustee of the Pine Trust was the Royal Bank of Canada Trust Company (Cayman) Limited, a non-resident of Canada; 18. During the calendar year 1999 and Nathan’s 2000 fiscal year, a total of US $20,026,783 of assets was transferred from Nathan to the CL Trust as follows: (a) US $8,100,000 (CAD $12,069,000) by way of dividend paid to the CL Trust; and (b) US $11,926,783 as a loan from Nathan to the CL Trust. 19. CL Trust transferred a total of US $13,529,839 to the Pine Trust in the following manner: (a) in the year 1999: (i) US $2,791,374 (CAD $4,159,148) by way of an income distribution from the CL Trust; and (ii) US $10,738,465 by way of loan; (b) the said income distribution and loan to the Pine Trust were advanced by the payment of US $100,000 cash and transfer of 527,328 shares of HSBC Holdings valued at US $13,429,839; (c) in the year 2000, the CL Trust increased the loan to the Pine Trust by further US $5,160 for a total of US $10,743,625 and effected the following distributions in satisfaction of the loan: (i) an income distribution to it in the sum of US $9,637,589; (ii) a capital distribution in the sum of US $1,086,536; and (iii) the sum of US $19,500 to satisfy the CL Trust’s obligations. 20. The CL Trust transferred the balance of its assets, being the sum of US $7,077,797 to the Ho Trust by way of a capital distribution. 21. For the 1999 and 2000 taxation years, the CL Trust earned and reported the following amounts of foreign accrual property income:
+1999
+2000
+Foreign accrual property income
+$4,159,148
+$8,006,505
+Taxable capital gains
+nil
+6,298,496
+$4,159,148
+$14,307,001[2]
+22. During 1999 and 2000, all FAPI earned by the CL Trust was distributed to the Pine Trust; no amounts were transferred to the Ho Trust. 23. The CL Trust was dissolved in the 2000 taxation year after having distributed all of its remaining assets to the Ho Trust. 24. The Pine trust was dissolved prior to 2005. 25. On June 1, 2000 and May 29, 2001, the Minister of National Revenue (the “Minister”) initially assessed the Appellant’s 1999 and 2000 taxation years, and accordingly issued notices on those dates. 26. By way of Notices of Reassessment dated January 31, 2006, the Minister reassessed the Appellant’s 1999 and 2000 taxation years to include the following amounts in his income in respect of the amount distributed by the CL Trust in the years 1999 and 2000 as income distributions to the Pine Trust, namely:
+1999
+2000
+Foreign accrual property income
+$4,159,148
+$8,006,505
+Taxable capital gains
+nil
+6,298,496
+$4,159,148
+$14,307,001
+CITATION: 2010TCC325
+COURT FILE NO.: 2007-4122(IT)G
+STYLE OF CAUSE: CHI-LUEN HO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: April 19, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 15, 2010
+APPEARANCES:
+Counsel for the Appellant:
+William A. Ruskin
+Counsel for the Respondent:
+Robert Carvalho
+COUNSEL OF RECORD:
+For the Appellant:
+Name: William A. Ruskin
+Firm: Clark Wilson
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In the Canadian Oxford Dictionary, 2nd edition, “act” is defined as “something done; a deed; an action”.
+[2] The amounts as set out in this table and the table in paragraph 26 (including the totals) are the same as the amounts set out in the Reply. However, the sum of $8,006,505 and $6,298,496 is $14,305,001 and not $14,307,001.

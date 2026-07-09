@@ -1,0 +1,185 @@
+---
+title: "Mackinnon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28131/index.do"
+last_modified: "2007-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 658"
+citation2: ""
+neutral_citation: "2007 CCI 658"
+decision_date: "2007-11-16"
+language: "fr"
+item_id: "28131"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1651
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:05:19.190000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2a5114a62704780c9d2e58be9672b5c8684041ce09087cf60c186323b919cb40"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mackinnon c. La Reine
+
+- Citation: 2007 CCI 658
+- Decision date: 2007-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1651, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mackinnon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-16
+Référence neutre
+2007 CCI 658
+Numéro de dossier
+2006-2147(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2147(IT)G ENTRE :
+BERNICE MACKINNON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 septembre 2007, à Ottawa (Ontario).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelante :
+Me R. Wayne MacKinnon
+Avocate de l’intimée :
+Me Geneviève Léveillé
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2003 est accueilli en partie et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Les parties assumeront leurs propres dépens.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2007.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 8e jour de janvier 2008
+D. Laberge, LL.L.
+Référence : 2007CCI658
+Date : 20071116
+Dossier : 2006-2147(IT)G
+ENTRE :
+BERNICE MACKINNON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L’appel vise une cotisation établie par le ministre du Revenu national (le « ministre ») à l’endroit de l’appelante en date du 11 octobre 2005 et ratifiée le 20 avril 2006. Le ministre a augmenté le revenu imposable de l’appelante de 67 171,70 $ parce que cette somme a été reçue par l’appelante dans l’année d’imposition 2003 à titre ou en paiement intégral ou partiel d’intérêts, aux termes de l’alinéa 12(1)c) de la Loi de l’impôt sur le revenu (la « Loi »). L’appelante a également tenté de déduire les frais juridiques engagés pour recouvrer le montant du REER auquel elle avait droit en sa qualité de bénéficiaire désignée et qui avait été remis par erreur à la succession de son fils. La déduction a été refusée par le ministre.
+[2] Les parties ont fourni à la Cour un exposé conjoint des faits qui est reproduit ci‑dessous.
+[traduction]
+1. L’appelante est la mère de Dennis Mackinnon, lequel est décédé le 26 septembre 1994.
+2. Patrick Mackinnon, le fils de Dennis Mackinnon, a été désigné comme bénéficiaire de la succession de son père.
+3. Au moment de son décès, Dennis Mackinnon possédait un régime enregistré d’épargne‑retraite (REER) auprès de Nesbitt Burns d’un montant de 162 554,94 $.
+4. Le REER a été converti en rente au bénéfice de Patrick Mackinnon en tant que bénéficiaire unique.
+5. En 2001, après la conversion du REER en rente au bénéfice de Patrick Mackinnon, Nesbitt Burns a établi que l’appelante était désignée comme bénéficiaire du REER.
+6. L’appelante a présenté une demande à la Cour supérieure de justice de l’Ontario en vue de récupérer le REER. Dans cette demande, l’appelante sollicitait plus précisément une ordonnance de paiement de la somme de 235 517 $, incluant les intérêts courus depuis le 26 septembre 1994.
+7. En 2003, la Cour supérieure de justice de l’Ontario a accordé à l’appelante la somme de 162 554,94 $ plus des intérêts de 67 171,70 $. Il s’agissait des intérêts courus quant au REER depuis le 26 septembre 1994 jusqu’à la date du jugement rendu par la Cour supérieure de justice de l’Ontario. Le jugement est reproduit à l’annexe A ci‑jointe.
+8. Le montant des intérêts de 67 171,70 $ dont il est question au paragraphe 7 a été fixé par la Cour supérieure de justice de l’Ontario selon des calculs présentés par le cabinet comptable de la succession, Hewitt & Young, lesquels calculs sont détaillés à l’annexe B ci‑jointe.
+9. TD Canada Trust a fait parvenir à l’appelante le 17 janvier 2005 un feuillet T5 sur les revenus de placements se rapportant à l’année d’imposition 2003, sur lequel des intérêts de 67 171,70 $ étaient inscrits. Le feuillet T5 est reproduit à l’annexe C ci‑jointe.
+10. Au cours de l’année d’imposition 2003, l’appelante a engagé des frais juridiques de 21 548,81 $ en vue de recouvrer la somme d’argent décrite au paragraphe 7 ci‑dessus.
+11. Le ministre du Revenu national (le « ministre ») a d’abord établi l’impôt à payer par l’appelante pour l’année d’imposition 2003 dans un avis de cotisation daté du 13 mai 2004.
+12. Dans un avis de nouvelle cotisation daté du 11 octobre 2005, le ministre a augmenté le revenu imposable de l’appelante pour 2003 en ajoutant le montant des intérêts de 67 171,70 $ qui n’avait pas été déclaré antérieurement.
+[3] Lorsqu’il a été établi que l’argent du REER avait été versé par erreur à la succession puis incorporé à une rente destinée à son petit-fils, l’appelante a été avisée que, si elle intentait une action contre Nesbitt Burns, il s’ensuivrait une série de poursuites auxquelles la succession se trouverait mêlée. Pour éviter toutes ces poursuites, il a été proposé que la succession devrait lui payer ce qui lui revenait de plein droit et les exécuteurs de la succession y ont consenti. La demande présentée à la Cour supérieure de justice de l’Ontario était nécessaire compte tenu du fait qu’elle intéressait le petit‑fils qui, à l’époque, était mineur et représenté par un tuteur à l’instance, l’avocat des enfants.
+[4] L’appelante a accepté un règlement correspondant au montant accordé dans le jugement de la Cour supérieure. Elle a témoigné qu’elle avait droit à une somme plus élevée que celle pour laquelle elle avait accepté de régler l’affaire, mais qu’elle avait accepté le règlement pour éviter d’autres litiges et des frais supplémentaires.
+[5] Le montant du règlement était le résultat de calculs effectués par un comptable en vue d’établir une juste valeur pour le REER au moment du jugement. Pour y arriver, les calculs tenaient compte des taux d’intérêt affichés sur le site Web de la Banque du Canada qui avaient été antérieurement appliqués aux certificats de placement garanti et à un placement simulé du montant initial du REER, c’est‑à‑dire que le montant de 162 554,94 $ qui se trouvait dans le REER au 26 septembre 1994 a été divisé en trois parts égales et investi pour un an, deux ans et cinq ans. Lorsque les trois certificats de placement garanti sont arrivés à échéance, les fonds ont été réinvestis pour cinq ans après déduction de l’impôt au même taux que celui applicable aux déclarations fiscales de la succession pour chaque année. Le résultat final de ces calculs était une valeur additionnelle de 67 171,70 $, après impôts, à savoir le montant qui apparaît dans le jugement de la Cour supérieure de justice. Le montant ainsi calculé aurait été de 89 647,82 $, n’eût été la déduction des impôts au montant de 22 476,13 $ payés par la succession dont le comptable a tenu compte.
+[6] Le comptable a fait d’autres calculs hypothétiques pour démontrer que, si l’appelante avait accepté le règlement complet de 89 647,82 $, le montant net d’impôts aurait été plus élevé et elle aurait donc bénéficié d’un avantage plus grand. Ces calculs étant hypothétiques, ils ne sont pas pertinents quant au règlement des questions dont la Cour est saisie.
+[7] La demande d’approbation du règlement présentée à la Cour supérieure de justice de l’Ontario a été contestée par le tuteur à l’instance représentant le petit‑fils, mais seulement en ce qui a trait aux intérêts antérieurs au jugement qui ont été accordés à l’appelante. Dans un affidavit daté du 10 mars 2003, Ruth Kilgour, adjointe juridique de l’agent d’Ottawa du Bureau de l’avocat des enfants, a présenté une série de circonstances expliquant pourquoi ces intérêts adjugés par la Cour supérieure étaient contestés.
+[8] Malgré l’opposition de l’avocat des enfants, la demande a été en fin de compte approuvée. Les sections pertinentes du jugement sont les suivantes :
+[traduction]
+JUGEMENT
+LA DEMANDE a été entendue aujourd’hui à Ottawa, sans jury et en présence des avocats de la requérante et de l’intimé, Patrick MacKinnon, représenté par son tuteur à l’instance, le Bureau de l’avocat des enfants. Personne n’a comparu pour l’exécutrice testamentaire et fiduciaire de la succession, T-D Canada Trust, malgré signification en bonne et due forme, comme en fait foi l’affidavit de Travis Henderson, souscrit le 12 décembre 2002, qui a été produit en preuve.
+À LA LECTURE du dossier de la demande et des affidavits de Bernice MacKinnon et Ruth Kilgor [sic], puis des pièces qu’ils contiennent, et après avoir entendu les observations des avocats des parties :
+1. LA COUR ORDONNE que la succession de Dennis MacKinnon, par l’intermédiaire de son exécutrice testamentaire et fiduciaire, T-D Canada Trust, paie à la requérante la somme de cent soixante‑deux mille cinq cent cinquante‑quatre dollars et quatre‑vingt‑quatorze cents (162 554,94 $), plus les intérêts fixés à soixante‑sept mille cent soixante et onze dollars et soixante‑dix cents (67 171,70 $), pour un total de deux cent vingt‑neuf mille sept cent vingt‑six dollars et soixante‑quatre cents (229 726,64 $).
+[9] Les questions en litige consistent à se demander si l’appelante doit inclure le montant de 67 171,70 $ dans son revenu comme des intérêts imposables pour l’année d’imposition 2003 et, le cas échéant, si elle peut déduire les frais juridiques de 21 548,81 $ engagés pour recouvrer les fonds du REER.
+[10] Je vais aborder en premier lieu la question de savoir si le montant de 67 171,70 $ constitue des intérêts. L’avocat de l’appelante soutient que le montant de 67 171,70 $ payé à l’appelante par la succession n’est pas un montant d’intérêts comme le prévoit la Loi de l’impôt sur le revenu. La Cour doit examiner les circonstances de l’espèce et déterminer à partir des faits si les parties voulaient que le montant payé constitue des intérêts, en faisant abstraction du fait que le jugement le qualifie de montant d’intérêt. L’avocat soutient également que la Cour doit tenir compte de l’intention des parties pour trancher les questions en litige. Dans la présente affaire, il soutient que l’intention était simplement de combler la différence entre la valeur du REER au moment où il aurait dû être payé à l’appelante (en 1994) et celle au moment où il a été effectivement payé (en 2003), afin que l’appelante reçoive la juste valeur du REER.
+[11] L’avocat de l’appelante soutient également que, puisque la Loi ne définit pas ce que sont les intérêts, le sens à leur donner devient une question qu’il revient à la Cour de trancher. Il a invoqué l’arrêt Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622, de la Cour suprême du Canada dans lequel il a été déclaré que, en l’absence d’une obligation légale de verser des intérêts, le paiement ne peut constituer des intérêts et il a cité l’arrêt de la Cour d’appel fédérale dans la même affaire où il a été affirmé qu’une somme ne constitue pas des intérêts simplement parce que les parties conviennent de la qualifier ainsi.
+[12] L’avocate de l’intimée prétend que même si la Loi ne définit pas le terme « intérêt », celui‑ci a été défini par la Cour suprême du Canada dans l’arrêt Re: Farm Security Act 1944 (Saskatchewan), [1947] R.C.S. 394 (QL), dans le passage suivant rédigé par M. le juge Rand :
+[traduction]
+D’une manière générale, l’intérêt est le rendement, la contrepartie ou la compensation de l’utilisation ou de la conservation, par une personne, d’une somme d’argent due à une autre personne ou lui « appartenant » au sens familier du terme. Il peut y avoir d’autres caractéristiques essentielles, mais elles ne sont pas pertinentes ici. La relation entre l’obligation de payer de l’intérêt et l’obligation de payer le principal a été examinée dans un certain nombre d’affaires, y compris le jugement Economic Life Assur. Society v. Usborne [[1902] A.C. 147] et la décision rendue par le juge Duff dans Union Investment Co. v. Wells [(1929), 39 Can. S.C.R., à la page 645]; il ressort clairement de ces affaires que l’obligation de payer de l’intérêt peut, selon les modalités y afférentes, être indépendante de l’obligation de payer le principal ou que les deux peuvent faire partie intégrante d’une seule et unique obligation ou que l’intérêt peut être simplement accessoire relativement au principal.
+Mais, tout comme l’obligation, la définition suppose que l’intérêt se rapporte au principal ou à l’obligation de payer une somme d’argent. En fait, sans cette structure relationnelle et quelle que soit la base du calcul ou de la détermination du montant, aucune obligation de faire un paiement en espèces ou en nature ne peut être réputée être une obligation de payer de l’intérêt.
+[13] L’avocate de l’intimée soutient donc que le libellé employé dans le jugement indique clairement que ce sont des intérêts qui ont été payés en l’espèce et que le libellé de l’alinéa 12(1)c) de la Loi est suffisamment général pour englober la présente situation. Le montant de 67 171,70 $ ne peut ainsi être autre chose que des intérêts imposables entre les mains de l’appelante.
+[14] L’alinéa 12(1)c) de la Loi est rédigé comme suit :
+12(1) Sont à inclure dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien, au cours d’une année d’imposition, celles des sommes suivantes qui sont applicables :
+c) Intérêts — sous réserve des paragraphes (3) et (4.1), les sommes reçues ou à recevoir par le contribuable au cours de l’année (selon la méthode qu’il suit normalement pour le calcul de son revenu) à titre ou en paiement intégral ou partiel d’intérêts, dans la mesure où ces intérêts n’ont pas été inclus dans le calcul de son revenu pour une année d’imposition antérieure;
+[…]
+[15] L’affaire Shell Canada invoquée par l’avocat de l’appelante établit en fait quatre facteurs servant à déterminer si une somme constitue des intérêts en vertu de l’alinéa 20(1)c), mais cela, en relation avec la déductibilité des intérêts. Aux termes de l’alinéa 20(1)c), l’absence d’une obligation de verser des intérêts empêchera leur déduction, ce qui peut étayer l’argument selon lequel il ne s’agit pas en soi d’intérêts. Toutefois, je ne crois pas que le fait qu’un montant ne soit pas considéré comme des intérêts en vertu de l’alinéa 20(1)c) puisse en faire quelque chose d’autre pour l’application d’autres dispositions de la Loi, plus particulièrement de l’alinéa 12(1)c).
+[16] L’alinéa 12(1)c) de la Loi ne fait pas expressément mention d’une obligation légale de verser des intérêts, mais compte tenu de la définition donnée dans Re Farm Security Act, précité, les intérêts prennent naissance lorsqu’il y a un montant d’argent dû, ou appartenant, à une autre personne pour la période durant laquelle ils sont calculés.
+[17] L’appelante est d’avis que, jusqu’au moment où le jugement de la Cour supérieure a été signé en mars 2003, la succession n’avait aucune obligation de payer quoi que ce soit à l’appelante parce qu’il n’y avait alors aucune entente ayant force exécutoire entre elles et donc aucune obligation de verser des intérêts. Par conséquent, le montant de 67 171,70 $ est simplement ajouté pour rajuster le REER à sa valeur en 2003 et n’est donc pas payé à titre ou en paiement intégral ou partiel d’intérêts au sens de l’alinéa 12(1)c) de la Loi.
+[18] Cependant, le fait est que l’appelante était la bénéficiaire désignée du REER et avait le droit de recevoir les fonds en question dès 1994. En raison de ce qui a été qualifié d’erreur de la part de Nesbitt Burns, l’appelante a été privée de cette somme d’argent pendant plus de sept ans. Le défaut de Nesbitt Burns de verser les fonds du REER à l’appelante en 1994 a eu pour effet d’empêcher l’appelante d’utiliser cet argent. C’était Nesbitt Burns qui devait à l’appelante, la propriétaire légitime des fonds, une contrepartie ou une compensation pour l’avoir privée des fonds. Si Nesbitt Burns avait versé le montant de 67 171,70 $ directement à l’appelante, ce montant aurait été visé par la définition du terme « intérêt » donnée dans la décision Re Farm Security Act et aurait été ainsi imposable.
+[19] Afin d’éviter des frais juridiques et une série de poursuites, l’appelante a conclu une entente avec la succession de son fils pour régler l’action contre Nesbitt Burns, en acceptant que la succession lui paie directement le principal du REER, à savoir la valeur de celui‑ci en 1994, plus une somme d’argent qui, à mon avis, ne peut être qu’un dédommagement pour avoir été privée de l’utilisation de cet argent pendant plus de sept ans. Le fait que le jugement fasse état du montant de 67 171,70 $ comme d’un montant d’intérêts est compatible avec la position adoptée par l’avocat des enfants, qui s’opposait à ce que des intérêts antérieurs au jugement soient accordés.
+[20] Le droit de l’appelante au principal du REER et l’obligation de verser ce montant ont pris naissance en 1994. L’appelante, ayant été privée de l’utilisation de cet argent, avait donc le droit d’être dédommagée entièrement. C’est ce que le jugement tentait de faire et ce que le tuteur à l’instance essayait d’empêcher en s’opposant à la demande. Lorsqu’un montant est accordé en sus du montant conservé par erreur, il présente les caractéristiques d’un revenu d’intérêts et, par conséquent, il doit être imposé en vertu de l’alinéa 12(1)c) (Voir Coughlan v. R., [2001] 4 C.T.C. 2004).
+[21] La deuxième question en litige concerne la déductibilité des frais juridiques engagés par l’appelante pour récupérer ce qui lui appartenait de plein droit. En fait, l’exposé conjoint des faits indique que les frais juridiques ont été engagés afin de recouvrer la somme de 162 554,94 $ plus les intérêts fixés à 67 171,70 $.
+[22] Selon l’avocate de l’intimée, les frais juridiques sont déductibles dans la mesure où ils se rapportent au recouvrement des intérêts antérieurs au jugement, mais ils ne sont pas déductibles quant au principal du REER, puisque celui‑ci devrait être considéré comme un capital (alinéa 18(1)b) de la Loi) et, par conséquent, les frais juridiques y afférents n’ont pas été engagés en vue de tirer un revenu du bien en vertu de l’alinéa 18(1)a) de la Loi. L’avocate de l’intimée propose donc que les frais juridiques soient répartis en conséquence. L’avocat de l’appelante soutient que les frais juridiques liés au principal ont été engagés en vue de tirer un revenu du bien et que le paiement de ce montant n’a rien à voir avec le capital.
+[23] Dans Evans v. MNR, 60 DTC 1047, la Cour suprême du Canada a examiné la question de la déductibilité des frais juridiques. L’appelante dans cette affaire cherchait à recouvrer les frais juridiques payés dans l’exercice de son droit, en qualité de bénéficiaire, au revenu découlant de sa part du reliquat de la succession. La Cour suprême du Canada a décidé qu’une distinction devait être faite entre l’établissement du droit à un bien immobilisé, ou la réception de pareil bien, et le recouvrement du revenu auquel une personne a droit, mais qui ne peut être obtenu sans engager des frais juridiques. La Cour suprême a de plus affirmé que la nature du bien ne peut être altérée par le fait qu’il a été réclamé par une autre personne par erreur. Le juge Cartwright a également souligné que les motifs pour lesquels le paiement ou le droit avait été refusé à l’appelante n’étaient aucunement pertinents et que le seul facteur à prendre en compte est la nature du droit. Il a en outre affirmé que l’existence d’un droit découlant d’un testament n’est pas déterminée par un jugement du tribunal. Le jugement permet d’accorder une somme d’argent due au propriétaire légitime, mais il ne crée pas le droit à cette somme.
+[24] La définition du terme « biens » au paragraphe 248(1) de la Loi, et plus particulièrement le groupe de mots « les droits de quelque nature qu’ils soient », a fait l’objet de nombreuses décisions judiciaires. Dans Manrell v. The Queen, 2003 DTC 5225, Mme la juge Sharlow avait ce qui suit à dire sur le sens à donner au mot « biens » :
+[48] J’examinerai maintenant la jurisprudence dans laquelle ont été examinés la définition législative du mot « biens » et le sens de l’expression « un droit de quelque nature qu’il soit ». Il existe maintes décisions à l’appui de la thèse voulant que le mot « biens » puisse avoir de nombreux sens et que, dans le contexte fiscal, son sens puisse être considéré comme large et inclusif. Ainsi, dans l’arrêt Canada c. Kieboom, [1992] 3 C.F. 488 (C.A.) [[1992] 2 C.T.C. 59; 92 DTC 6382 (C.A.F.)], M. le juge Linden a fait les remarques suivantes au nom de la Cour (aux pages 499 et 500) :
+Quant au mot « bien », il a aussi reçu une interprétation large. Le paragraphe 248(1) de la Loi de l’impôt sur le revenu en donne la définition suivante : « biens de toute nature, meubles ou immeubles, corporels ou incorporels et comprend, sans restreindre la portée générale de ce qui précède, a) un droit de quelque nature qu’il soit, une action ou part » lord Langdale a déjà déclaré que le mot « bien » est [TRADUCTION] « le terme le plus général que l’on puisse employer, étant donné qu’il sert à désigner et à décrire tous les droits possibles qu’une personne peut avoir ». (Voir Jones v. Skinner (1836), 5 L.J. (N.S.) Ch. 87 (Rolls Ct.), à la page 90; voir également Re Lunness (1919), 46 O.L.R. 320 (Div. app.), à la page 322; Fasken, précité, [Fasken, David c. Minister of National Revenue, [1948] Ex. C.R. 580], à la page 591; et Vaillancourt c. Sous‑ministre M.R.N., [1991] 3 C.F. 663 (C.A.).)
+[49] Compte tenu en partie de cette interprétation du mot « biens », le juge Linden a conclu qu’un conjoint qui possède des actions ordinaires d’une société est considéré comme ayant transféré le bien à sa conjointe lorsqu’il conclut une entente par laquelle cette dernière souscrit à des actions ordinaires d’une société qui viennent d’être émises pour un prix nominal, de sorte que la part du conjoint est réduite de 90 à 20 p. 100 alors que celle de la conjointe augmente en conséquence. Cet arrêt fait autorité à l’appui de la thèse voulant qu’une part dans une société soit un bien et que l’opération en cause soit un transfert de biens parce qu’elle résulte du mouvement de tout ou partie d’un ensemble de droits d’un actionnaire à un autre. Dans cet arrêt, on a reconnu et formulé de nouveau la thèse selon laquelle, dans le contexte fiscal, le mot « biens » a un sens fort large, mais il n’a pas été dit que tout ce qui a une valeur est un « bien ».
+[50] L’expression sur laquelle la Couronne se fonde en l’espèce, « un droit de quelque nature qu’il soit », comme le mot « biens », a un sens fort large. Cependant, il ne s’agit pas d’un mot dont le sens est illimité. Il ne peut pas inclure tout droit imaginable. On ne saurait lui attribuer un sens qui étendrait la portée de la Loi de l’impôt sur le revenu au‑delà de ce que le législateur a envisagé. Même l’avocat de la Couronne a concédé qu’il n’inclut pas un droit de la personne ou un droit constitutionnel.
+[51] Il n’est pas difficile d’imaginer des cas dans lesquels l’expression « un droit de quelque nature qu’il soit » se verrait attribuer un sens trop large. Il suffit de penser au cas d’une personne qui est blessée dans un accident de voiture causé par la négligence d’une autre personne. La personne blessée a le droit, et peut‑être un droit ayant une certaine valeur, de réclamer des dommages‑intérêts à l’encontre de la personne négligente. Supposons qu’il y ait quittance de règlement en contrepartie du paiement d’une somme d’argent. Il serait possible de dire que le droit de réclamer des dommages‑intérêts a été aliéné. Cependant, personne ne retiendrait l’argument selon lequel le paiement constitue le produit de la disposition d’un bien en immobilisation. Pourquoi? Parce que, fondamentalement, le paiement est une indemnité pour une lésion corporelle, soit une chose qui est considérée comme allant au‑delà de la portée de la Loi de l’impôt sur le revenu. Une demande de dommages‑intérêts fondée sur des lésions corporelles est un « droit », mais le règlement n’est pas visé par les dispositions de la Loi de l’impôt sur le revenu relatives aux gains en capital.
+[52] L’avocat de M. Manrell a fourni ce qui semble être une liste exhaustive de toutes les décisions dans lesquelles il a été conclu qu’une chose est « un droit de quelque nature qu’il soit ». Je ne reproduirai pas toute la liste. Cependant, je donnerai quelques exemples à titre indicatif. Le droit représenté par une police d’assurance temporaire sur la vie qui n’a aucune valeur de rachat nette mais qui est convertible sans preuve d’assurabilité est un « droit » aux fins de la définition du mot « biens » figurant dans la Loi de l’impôt sur les biens transmis par décès, S.C. 1958, ch. 29 (définition qui est fort semblable à la définition figurant dans la Loi de l’impôt sur le revenu) : Succession Miller c. Ministre du Revenu national, [1973] C.T.C. 793 [73 DTC 5583] (C.F. 1re inst.). Le droit de recevoir des paiements du régime de pension d’un conjoint décédé est un « droit » aux fins de la définition : Driol c. Ministre du Revenu national, [1989] 1 C.T.C. 2175 [89 DTC 122] (C.C.I.). Une promesse irrévocable, dans un contrat de mariage, de verser une somme d’argent au conjoint pendant le mariage donne naissance à un droit entre les mains du conjoint bénéficiaire à la date de la promesse, et ce droit est alors un « droit » aux fins de la définition : Furfaro-Siconolfi c. M.R.N., [1990] 2 C.F. 3 [[1990] 1 C.T.C. 188, 90 DTC 6237] (1re inst.). Un droit à une pension alimentaire est un « droit » aux fins de la définition : R. c. Burgess, [1982] 1 C.F. 849 [[1981] C.T.C. 258, 81 DTC 5192] (1re inst.), voir également Nissim c. Canada, [1999] 1 C.T.C. 2119 (C.C.I.); et Donald c. Canada, [1999] 1 C.T.C. 2025 (C.C.I.).
+[53] En fait, dans la jurisprudence canadienne en matière fiscale, qui comporte des douzaines de décisions où la définition législative du mot « biens » a été examinée, il n’a été statué dans aucune décision que le mot « biens » comprend un droit qui ne comporte pas ou n’entraîne pas une demande exclusive légalement exécutoire. Cela ne prouve pas que l’argument de la Couronne est erroné, mais à mon avis cela laisse planer un doute sérieux à ce sujet.
+[25] Il faut établir une distinction entre les frais engagés pour faire confirmer un droit et ceux engagés pour acquérir un droit. Cette distinction a été établie dans Kellogg Co. of Canada v. M.N.R., 2 DTC 548 (Cour de l’Échiquier du Canada) à la page 553 (une décision confirmée par la Cour suprême du Canada) :
+[traduction]
+Aucun avantage ou bénéfice « important » ou « positif » n’a résulté du litige en faveur du commerce de Kellogg si ce n’est peut‑être la confirmation par les tribunaux d’un avantage qui existait déjà et dont jouissait Kellogg. Je ne crois pas que la Couronne puisse affirmer que, comme le litige a confirmé le droit que Kellogg, de concert avec d’autres intéressés, détenait déjà et dont elle jouissait, Kellogg a donc acquis quelque chose qui devrait être considéré comme un élément d’actif ou un avantage durable pour son commerce. […] C’était pour maintenir son commerce et sa situation d’entreprise à but lucratif que Kellogg a été contrainte de faire la dépense en question.
+[Non souligné dans l’original.]
+[26] La demande présentée à la Cour supérieure de justice de l’Ontario était nécessaire pour obtenir l’approbation du règlement à l’amiable parce qu’il visait une personne mineure. Elle était également nécessaire pour trancher la question de l’opposition du tuteur à l’instance aux intérêts antérieurs au jugement. Les frais juridiques engagés étaient nécessaires pour que ce qui appartenait légitimement à l’appelante après le décès de son fils lui soit rendu et ils n’ont pas été engagés en vue d’acquérir un droit. À mon avis, les frais juridiques ont été engagés par l’appelante pour matérialiser ce droit et ils sont alors visés par l’exception contenue à l’alinéa 18(1)a) de la Loi et sont donc déductibles.
+[27] L’appel est accueilli en partie et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation. Les parties assumeront leurs propres dépens.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2007.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 8e jour de janvier 2008
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI658
+NO DU DOSSIER DE LA COUR : 2006-2147(IT)G
+INTITULÉ : Bernice Mackinnon c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 20 septembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 16 novembre 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me R. Wayne MacKinnon
+Avocate de l’intimée :
+Me Geneviève Léveillé
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : R. Wayne MacKinnon,
+Président et avocat
+Cabinet : Gateway Maritime Inc.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,252 @@
+---
+title: "Darville v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521601/index.do"
+last_modified: "2026-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 54"
+citation2: ""
+neutral_citation: "2026 TCC 54"
+decision_date: "2026-03-19"
+language: "en"
+item_id: "521601"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5538
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-03-24T09:01:56.946000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b48d07f97738715990692c9b05148c4a9937374ff0679ab4662efb54378db408"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Darville v. The King
+
+- Citation: 2026 TCC 54
+- Decision date: 2026-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5538, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Darville v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-03-19
+Neutral citation
+2026 TCC 54
+File numbers
+2016-1168(GST)I
+Judges and Taxing Officers
+Andrew Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-1168(GST)I
+BETWEEN:
+MARVIN DARVILLE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 19, 2017, November 18, 2025, and November 19, 2025, at Montréal, Québec
+Before: Associate Judge Andrew Miller
+Appearances:
+For the Appellant:
+Christian Alcindor
+Counsel for the Respondent:
+Mark Kmec
+JUDGMENT
+Further to the attached Reasons for Judgment, the appeal of the assessment dated February 12, 2015, made under section 323 of the Excise Tax Act is allowed, without costs, and is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount assessed be reduced by $5,693.79, with interest and penalties to be adjusted accordingly.
+Signed this 19th day of March 2026.
+“Andrew Miller”
+Miller A.J.
+Citation: 2026 TCC 54
+Date: 20260319
+Docket: 2016-1168(GST)I
+BETWEEN:
+MARVIN DARVILLE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Miller A.J.
+Background to proceeding and judgment [1] This appeal was scheduled for a one-day hearing in September 2017, before Justice Robert Hogan. The parties were unable to complete the hearing in the time allotted, and therefore, the matter was adjourned.[1] Several attempts were made to schedule its continuation, but for numerous reasons, including the COVID‑19 pandemic, those efforts were unsuccessful. Sadly, in January of 2025, Justice Hogan passed away.
+[2] Following the passing of Justice Hogan, Chief Justice St-Hilaire held a conference call with the parties to schedule dates for the continuation of the hearing. Given the need to assign a new trial judge, the parties were provided with the choice to either start the hearing anew or ask that the yet-to-be assigned trial judge continue where the parties left off in 2017. The parties selected the latter option.
+Introduction [3] This is an appeal of a notice of assessment made pursuant to section 323 of the Excise Tax Act (the “ETA”). The Appellant was assessed an amount of $50,819.68 as director of 9193-6047 Québec Inc. (“9193”) due to its failure to remit net tax, including interest and penalties, in respect of its quarterly reporting periods ending March 31, 2013, and June 30, 2013 (the “periods”).
+Facts [4] The Appellant immigrated to Canada from the Bahamas in 2010. In 2012, the Appellant met Mr. Anil Gupta.[2] Over the course of a few months, Mr. Gupta explained the operations of 9193 and convinced the Appellant to “purchase” the company, which he did in October 2012 for the amount of $1,000.[3] The Appellant says that he also invested an additional $6,000 in 9193, as it was explained to him that 9193 was going through some hard times and needed capital.[4]
+[5] To protect his investment, and due to Mr. Gupta’s apparent inability to open a bank account, the Appellant agreed to become the sole director of 9193.[5] The Appellant became the director of 9193 as of October 9, 2012.[6] He had sole signing authority over the corporate bank account.[7]
+[6] Various documents submitted by the parties describe 9193’s operations as “import and export of computer chips” and “distribution de produit eletronic [sic]”.[8] The Appellant described the operations as the purchase and selling of computer hardware, software and parts (the “merchandise”).[9]
+[7] The operations of 9193 took place on a daily basis. The merchandise was purchased from a company called MMax Group (Canada) Inc. (“MMax Group”), located in Markham, Ontario, which would ship the merchandise to a location in Kingston, Ontario. Mr. Gupta would drive from Montréal, Québec, to Kingston, where he would pick up the merchandise.[10] Mr. Gupta would then drive back to Montréal and sell the merchandise to a company called Solik Info Inc. (“Solik”) and one other company the name of which the Appellant could not recall.[11] The Appellant was able to describe these operations given that he accompanied Mr. Gupta on a couple of these daily excursions.[12]
+[8] Payments for the merchandise also happened daily. Upon arrival at Solik’s business premises, the individual responsible for receiving the merchandise issued a cheque in payment to 9193. The Appellant would get the cheque certified at a nearby TD Bank, Solik’s corporate bank. The Appellant would then walk across the street to a BMO branch, where 9193 held its corporate bank account, and deposit the certified cheque. Then, the Appellant, on behalf of 9193, would purchase a bank draft from BMO, which he would walk over to a CIBC branch in order to deposit it in a designated account for payment to MMax Group for the following day’s purchase of merchandise that would be shipped to Kingston for pick-up by Mr. Gupta.[13]
+[9] The Appellant described the delivery of the merchandise and financial transactions with Solik as a twenty-minute process.[14] The Appellant never looked in the boxes that were shipped to Kingston and delivered and sold to Solik. The Appellant simply assisted in unloading the boxes at the Solik premises.[15] These boxes were dropped off at the back of the warehouse, and he and Mr. Gupta would go around front to collect the cheque. The boxes would be checked in the back by the Solik people.[16]
+[10] The Appellant testified that he and Mr. Gupta each received a “salary”[17] of approximately $500 a week, which was withdrawn from 9193’s bank account at the end of the week.[18] Beyond these amounts, the Appellant was unable to speak to the finances of 9193, and he was unable to provide an estimate of its gross sales.[19]
+[11] Within three or four months of his involvement with 9193, the Appellant, on behalf of 9193, started receiving correspondence from Revenu Québec. While he was unable to recall when he first received the correspondence, the Appellant said that at first, he simply “chucked them aside” as they were not important to him.[20] However, it was at this point that the Appellant approached Mr. Gupta to pressure him to file tax returns for 9193.[21] Mr. Gupta reassured him that 9193 had an accountant who would resolve the matter with Revenu Québec.[22] The Appellant says he met this accountant at most four times but was left with the impression that the accountant was not really interested in providing assistance.[23]
+[12] The Appellant last heard from Mr. Gupta in the fall of 2013.[24] He claims that Mr. Gupta stole the merchandise and was never heard from again.[25]
+[13] In the latter part of 2013, 9193 was audited by Revenu Québec. 9193 had never filed its GST returns for the periods. A result of that audit was a GST assessment dated December 19, 2013, for an amount of $48,979.57 in respect of the periods.[26] Revenu Québec concluded that 9193 had no commercial activities as it was engaged in a false invoicing scheme with other corporate entities. However, Revenu Québec also concluded that 9193 collected but did not remit GST during the periods and therefore assessed 9193 accordingly.
+[14] 9193 never objected to the assessment and therefore no appeal of the assessment was ever filed. Following unsuccessful efforts to collect the assessed amounts from 9193, Revenu Québec turned towards its director, the Appellant.
+[15] I understood from the Appellant’s testimony that he accepts that he was naïve in trusting Mr. Gupta and takes responsibility for his business decisions, but he feels that Mr. Gupta is the one who should be held responsible for 9193’s failures to remit GST. Neither Mr. Gupta nor the accountant were called as witnesses.
+Issue [16] The issue in this appeal is whether the Appellant is liable under section 323 of the ETA for 9193’s unremitted net tax, arrears interest and penalties for the periods.
+Analysis A. Grounds raised in the Appeal [17] The Appellant raises five grounds in his appeal, three of which are challenges to the underlying assessments of 9193 and two of which are challenges to the derivative assessment itself.
+[18] The Appellant challenges the underlying assessments of 9193 on the following grounds:
+(1)The notice of assessment of 9193 was not sent to the proper address, and therefore, it is null and void.
+(2)The assessments against 9193 are incorrect as they did not consider input tax credits (“ITCs”).
+(3)9193’s net tax amount for the periods, before any ITCs, was incorrectly calculated by the Minister.
+[19] The Appellant challenges the derivative assessment on the following grounds:
+(1)The conditions in paragraph 323(2)(a) of the ETA were not met, and therefore, the Appellant cannot be held liable for 9193’s debt.
+(2)The Minister should have assessed another director instead of the Appellant.
+[20] The Appellant does not raise the following grounds in his appeal:
+(1)The due diligence defence provided at subsection 323(3) of the ETA.
+(2)The two-year limitation period provided at subsection 323(5) of the ETA.
+B. Challenges to the underlying assessments [21] Having been the subject of a derivative assessment under section 323 of the ETA, the Appellant challenges the underlying assessments of 9193. It is long settled that the Appellant may do so.[27]
+i. Address of the notice of assessment sent to 9193 [22] The Appellant argues that the underlying assessments against 9193 are null and void because the notice was mailed to the wrong address. This argument was not raised in the Notice of Appeal, and the agent for the Appellant provided me with no case law in support of this argument.
+[23] There is support for the argument that an assessment is not complete if the notice is sent to a wrong or fictitious address.[28] In an appeal before the Exchequer Court, the Minister had mailed the notice of assessment to an appellant in care of a solicitor who was not acting on that appellant’s behalf. The Exchequer Court found that the assessment never reached the appellant and was not completed within the limitation period.[29] Subsections 300(1), 335(10) and 335(11) of the ETA suggest that such an argument is available for assessments issued under the ETA. It follows that if the assessments of 9193 were never completed, the Appellant could not be held liable for its debt under section 323 of the ETA.
+[24] I do not understand the Appellant’s evidence to be that 9193, or the Appellant on 9193’s behalf, never received the Notice of Assessment dated December 19, 2013. That notice was mailed to 1995, avenue Alfred-Laliberté, Porte C, Montréal, Québec H3M 1X8 (the “Alfred-Laliberté address”), the address of the Appellant’s residence.[30]
+[25] Three search results from the Québec enterprise register, dated December 21, 2012, November 1, 2013, and November 20, 2015, reveal that 9193 had its domicile address registered as 822-276 rue Saint-Jacques, Montréal, Québec, H2Y 1N3 (the “rue Saint-Jacques address”). These same search results also reveal that, pursuant to section 33 of the Act respecting the legal publicity of enterprises (the “ARLPE”), the Alfred-Laliberté address was the domicile elected by 9193, and the Appellant the person mandated by 9193, to receive documents for the purposes of the ARLPE.[31]
+[26] In light of the above, there is no basis to find that the assessments against 9193 were not completed. Not only did the Appellant receive the Notice of Assessment in his capacity of director of 9193, the address it was sent to was a registered address under the ARLPE. The underlying assessments against 9193 were completed. The Appellant’s argument that the assessments should be vacated is without merit.
+ii. Input tax credits [27] The Appellant argues that the Minister failed to account for ITCs in assessing 9193’s net tax. Any decrease that should have been made to the net tax assessed against 9193 should be reflected on the assessment against the Appellant accordingly.
+[28] The Respondent argues that 9193 was not entitled to ITCs because it was not involved in a commercial activity within the meaning of that definition at subsection 123(1) of the ETA due to the fact that it was involved in a false invoicing scheme or a “carousel scheme” along with MMax Group and Solik. Alternatively, 9193 is not entitled to ITCs because it never obtained the documentary support required by subsection 169(4) of the ETA and the Input Tax Credit Information (GST/HST) Regulations (the “ITC Regulations”).
+a. No commercial activity [29] During the first day of evidence of this appeal, Justice Hogan questioned the Respondent about a possible allegation of carousel scheme transactions. This argument became material due to evidence recently provided by the Appellant to the Respondent.[32]
+[30] Justice Hogan, understanding that the appeal would not be concluded in the single day allotted to the parties, ruled that if the Respondent was going to be allowed to raise this as a ground, the Respondent would need to amend the Reply to the Notice of Appeal.[33] To further assist the parties, Justice Hogan provided a brief explanation to the Appellant of the characteristics of carousel transactions as well as a copy of a decision he had issued on that topic.[34]
+[31] The Respondent never amended the Reply to the Notice of Appeal. I am holding the Respondent to Justice Hogan’s ruling and, therefore, I will not consider that argument.
+[32] In any event, the evidence does not allow me to find that 9193 was involved in a carousel scheme.[35] No witnesses were called to testify from either of the other corporate entities allegedly involved. There is limited evidence of artificial or fictitious transactions. There is no evidence that the transactions were circular, that the parties involved were acting in concert, that money flowed in a predetermined manner, or that refunds in the form of ITCs were claimed by either of the other corporate entities allegedly involved.
+[33] I accept that 9193 made supplies in the course of a commercial activity. The Appellant’s evidence is that 9193 purchased supplies in the course of its commercial activities from MMax Group. I accept that 9193 paid GST to purchase supplies from MMax Group. While there are certain red flags with respect to the invoices put into evidence, the totality of the evidence does not allow me to conclude that 9193 was involved in a false invoicing scheme.[36]
+b. Supporting documentation for ITCs [34] With the proper documentation, 9193 would have been entitled to claim ITCs and therefore reduce the net tax amount owing. Unfortunately for the Appellant, the documentation provided fails to meet the requirements in paragraph 169(4)(a) of the ETA and the ITC Regulations (together the “ITC requirements”). As stated by the Federal Court of Appeal in Systematix Technology Consultants Inc., those requirements are mandatory.[37]
+[35] It was not until the first day of hearing that the Appellant provided anyone, be it the Respondent or Revenu Québec, with any invoices from MMax Group.[38] Those that were produced consisted of four MMax Group invoices, one of which was not even for goods or services sold to 9193. The remaining three invoices were dated February 5, 2013, February 25, 2013, and March 6, 2013. All three of these MMax Group invoices fail to meet the ITC requirements.
+[36] The February 5, 2013, invoice from MMax Group fails to meet the ITC requirements, as the evidence strongly suggests that the indicated purchase amount for taxable supplies paid to MMax Group by 9193 is not accurate. I find this way because an invoice from 9193 to Solik shows that the same taxable supplies were sold to Solik at a reduced price.[39] I was provided with no explanation why 9193, in the course of its commercial activity, would purchase goods from MMax Group only to resell them the next day at a reduced price to Solik. This deficiency means that 9193 has not obtained “sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined”, and specifically, “the total amount paid or payable for all of the supplies”.[40]
+[37] The February 25, 2013, invoice from MMax Group suffers from the same deficiency as the February 5, 2013, invoice. In addition, the corresponding sale to Solik of the goods purchased from MMax Group, appears to have occurred on February 22, 2013.[41] Again, no explanation was provided to me for what otherwise appears to be an impossibility, namely, the sale of goods that one does not yet own. As with the February 5, 2013, invoice, the February 25, 2013, invoice does not meet the ITC requirements.
+[38] Lastly, the March 6, 2013, invoice from MMax Group, which accounts for a shipping charge, is of no assistance to the Appellant as there is no mention of GST/HST paid by 9193. I have been provided with no statement that the tax is included in the amount paid by 9193 reflected on this invoice, as required by section 3(b)(iv) of the ITC Regulations. There is therefore no evidence of 9193 having paid GST/HST to MMax Group. This invoice does not meet the ITC requirements.
+[39] Setting aside the deficiencies of the MMax Group invoices, the Appellant’s argument that the assessment should be adjusted to account for ITCs that should have been allowed in assessing 9193 is not limited to these invoices. In fact, the Appellant asks this Court to send the matter back to the Minister to recalculate the ITCs for 9193.[42] And yet, the agent for the Appellant, in his closing submissions, states that there are no other MMax Group invoices.[43] I have not been presented with any additional evidence that would allow anyone to determine an amount of ITCs.
+[40] The ITC requirements exist for a reason. It is neither for the Minister nor for this Court to guess what the correct amount of ITCs should be. 9193 was required to obtain proper supporting documentation to allow the taxing authorities to determine the correct ITC amounts allowable. 9193 has failed to do so and, therefore, would not have been entitled to any ITCs. No adjustments will be made to the assessment of the Appellant on this advanced ground.
+iii. 9193’s net tax [41] The notice of assessment of 9193 assessed a total amount of $48,979.57, which included net tax owing, arrears interest and failure to file penalties for the quarterly reporting periods ending March 31, 2013, and June 30, 2013. For the reporting period ending March 31, 2013, the total amount assessed was $7,882.51. For the reporting period ending June 30, 2013, the total amount assessed was $41,097.06.[44]
+[42] The Respondent called Mr. Michel Boulet, an auditor at Revenu Québec, to testify. Mr. Boulet was not the auditor whose audit resulted in the assessments of 9193. The evidence tendered through him strongly suggests that the amount of net tax assessed for the reporting period ending March 31, 2013, is too high. That evidence took the form of the working papers of the Revenu Québec auditor who audited 9193.[45]
+[43] The total net tax assessed as owing by 9193 for its reporting period ending March 31, 2013, was $7,414.31. The working papers reveal that in calculating the net tax amount, Revenu Québec included unremitted GST amounts from periods outside of 9193’s quarterly reporting period ending March 31, 2013. Specifically, unremitted GST amounts of $1,641.90, $1,083.33 and $2,968.56 collected by 9193 in October 2012 were added to the assessment of 9193’s reporting period ending March 31, 2013.[46]
+[44] While a notice of assessment under the ETA may assess multiple reporting periods of a person, I have been unable to find any authority to suggest that GST owing from one reporting period can be included in an assessment of a different reporting period.[47] I have no reason to doubt that 9193 failed to remit those GST amounts from October 2012. However, these amounts should have been assessed in respect of 9193’s reporting period ending December 31, 2012, and not included in the assessment of 9193’s quarterly reporting period ending March 31, 2013.
+[45] Because the amounts of $1,641.90, $1,083.33 and $2,968.56 are not properly part of the reporting periods assessed in the Notice of Assessment dated December 19, 2013, the total amount of that notice of assessment should have been reduced by those amounts, with interest and penalties adjusted accordingly. It follows that the total amount for which the Appellant is being held liable as director of 9193 should be reduced accordingly.
+C. Challenges to the Appellant’s derivative assessment [46] In addition to the above challenges to the underlying assessments of 9193, the Appellant challenges the derivative assessment raised against him dated February 12, 2015.[48]
+i. The preconditions in paragraph 323(2)(a) of the ETA [47] The Appellant argues that the preconditions in paragraph 323(2)(a) of the ETA were not met by the Minister. Accordingly, the Appellant argues that his assessment must be vacated. Paragraph 323(2)(a) of the ETA provides that:
+(2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+[48] The Respondent bears the burden of proof in regard to this precondition. The evidence reveals that the Respondent has met this burden.[49] A certificate under section 316 of the ETA dated June 2, 2014, was registered in the Federal Court on June 6, 2014, identifying an unpaid amount by 9193 of $50,095.03. Next, a writ of execution against 9193 was issued dated October 6, 2014. Lastly, a “Rapport non est inventus” dated November 7, 2014, was drafted by the bailiff responsible for executing the writ of execution against 9193.
+[49] The Appellant does not dispute that any of these steps were followed.[50] Instead, the Appellant says that the Respondent has not shown that execution for the amount had been returned unsatisfied in whole or in part. According to the Appellant, this is because all of the aforementioned documents identified 9193 as being located at the rue Saint-Jacques address. Given that the Appellant had elected under section 33 of the ARLPE to have the Alfred-Laliberté address as the address of a person to receive documents, the bailiff should have attended the Alfred‑Laliberté address instead of the rue Saint-Jacques address.[51] Accordingly, by attending the wrong address for collection purposes, the Respondent failed to fulfil the prerequisite in paragraph 323(2)(a) of the ETA, specifically, that execution for the amount had been returned unsatisfied in whole or in part.
+[50] I might agree with the Appellant had the only address registered with the Québec enterprise register been the Alfred-Laliberté address. However, the evidence reveals that the rue Saint-Jacques address was the registered address of 9193’s domicile. As noted by this Court in Mercier,[52] section 98 of the ARLPE creates a rebuttable presumption in favour of third parties in respect of a list of information registered by 9193, including its domicile. That information is proof of its content for the benefit of third persons in good faith. The Minister is such a third person in good faith absent proof to the contrary.
+[51] Also, under section 33 of the ARLPE, the registration declaration that 9193 must complete provides, if applicable, “the domicile elected by the registrant and the name of the person mandated by the registrant to receive documents for the purposes of this Act”. The evidence reveals that the Appellant and the Alfred‑Laliberté address were elected for that purpose.[53]
+[52] The Federal Court of Appeal has stated unequivocally that paragraph 323(2)(a) of the ETA does not “impose an obligation on the Minister to make reasonable efforts when directing the sheriff and to search for a specific asset.”[54] As the Federal Court of Appeal noted, the rules of the court that issues a writ of execution set the standards that govern the execution of the writ.[55]
+[53] In the present matter, the court that issued the writ of execution was the Federal Court. The Federal Courts Rules dealing with writs of execution are “complemented by the provincial laws of execution”.[56] Given that the writ was to be executed in Québec, I am to turn to the Civil Code of Québec and the Code of Civil Procedure to see if those enactments require a creditor to make reasonable efforts to search for assets. I see nothing in those enactments to that effect.
+[54] Could the Minister have instructed the bailiff charged with executing the writ of execution to attend at the Alfred-Laliberté address? Certainly, the Minister could have. But that address is the address of the Appellant, the sole director of 9193 at the time. Even though the reasonableness of the Minister’s efforts is not the test, I find that it is not unreasonable to think that a bailiff would be better served by attending 9193’s place of business where its assets might be seized than by attending the personal residence of its director.[57]
+[55] In light of the above, the Respondent has met his burden of proof in regard to the precondition found in paragraph 323(2)(a) of the ETA.
+ii. Alternative director [56] The Appellant agrees that he was the de jure director of 9193 at all material times.[58] The evidence before me supports that he was. The Appellant’s evidence, however, is that Mr. Gupta was the mastermind behind the operations of 9193 and thus was a de facto director. Although he takes responsibility for what ultimately occurred with 9193, the Appellant feels that he was taken advantage of by Mr. Gupta and that the Minister should have assessed Mr. Gupta instead of him.
+[57] While I have no reason to doubt the Appellant’s account of Mr. Gupta’s involvement, unfortunately for him there is nothing in section 323 of the ETA that compels the Minister to assess one director over another based on what might be described as equitable reasons. In fact, section 323 of the ETA provides that the directors of a corporation may be “jointly and severally, or solidarily, liable together with the corporation” for its failures. This makes it clear that the ETA does not impose on the Minister the obligation to assess any and all directors of a given corporation.
+[58] Moreover, the evidence is clear that the Appellant was the only de jure director of 9193 for the period of 9193’s failure to remit GST. Based on the information contained in the Québec enterprise register, Mr. Gupta’s role as director and president ended on October 9, 2012.[59] The Appellant is also listed as the only director on all banking agreements provided by 9193 and on the GST/HST application for registration.[60]
+[59] As a result, there is no basis to vacate the assessment against the Appellant on this ground.
+D. Costs [60] The Respondent has asked for costs but has provided no grounds in support of an award of costs. Although I have allowed the appeal, the Respondent is largely successful. There were delays in completing the appeal, and while some of the delays can be attributed to the Appellant, others were certainly beyond his control.
+[61] In the circumstances of this appeal, I have decided not to award costs to either party.
+Conclusion [62] For the reasons stated above, the appeal is allowed, without costs. The assessment of the Appellant shall be reduced in order to account for the net tax amount totalling $5,693.79 that was incorrectly included in 9193’s quarterly reporting period ending March 31, 2013.
+Signed this 19th day of March 2026.
+“Andrew Miller”
+Miller A.J.
+CITATION:
+2026 TCC 54
+COURT FILE NO.:
+2016-1168(GST)I
+STYLE OF CAUSE:
+MARVIN DARVILLE AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Québec
+DATES OF HEARING:
+September 19, 2017, November 18, 2025 and November 19, 2025
+REASONS FOR JUDGMENT BY:
+Associate Judge Andrew Miller
+DATE OF JUDGMENT:
+March 19, 2026
+APPEARANCES:
+For the Appellant:
+Christian Alcindor
+Counsel for the Respondent:
+Mark Kmec
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Marie-Josée Hogue Deputy Attorney General of Canada Ottawa, Canada
+[1] During the course of the day, Justice Hogan asked the parties if they would like his reasons for judgment to be drafted in French or in English. He did so as it was apparent that the Appellant had a limited understanding of the French language despite the pleadings being drafted in French and the appeal being set down for hearing in the French language. The parties agreed that the judgment and reasons for judgment should be drafted in English. See Transcript of 2017 hearing, pages 9 and 27.
+[2] Transcript of 2017 hearing, pages 18-20 and 55.
+[3] I understand the Appellant’s purchase of 9193 to mean that he acquired the required controlling shares of 9193 previously held by Mr. Gupta. Transcript of 2017 hearing, pages 16–18 and 21. Notice of Appeal – 2016‑1168(GST)I, para. 7.
+[4] Transcript of 2017 hearing, page 55.
+[5] Transcript of 2017 hearing, page 19.
+[6] Exhibit A-4: Résultat de recherche du Registraire des entreprises Québec.
+[7] Exhibit I-2: BMO Agreements for 9193.
+[8] Exhibit I-2: BMO Agreements for 9193, page 16; Exhibit A-4: Résultat de recherche du Registraire des entreprises Québec.
+[9] Transcript of 2017 hearing, page 24.
+[10] Transcript of 2017 hearing, page 28; Exhibit A-8: Invoices from MMax (Group Canada) Inc.
+[11] Transcript of 2017 hearing, pages 23 and 28.
+[12] Transcript of 2017 hearing, pages 28 and 30.
+[13] Transcript of 2017 hearing, pages 22, 23, 30, 31 and 64; Transcript of November 18, 2025, hearing, pages 7‍–‍8; Exhibit I‑1: Financial transaction records.
+[14] Transcript of 2017 hearing, pages 58–59.
+[15] Transcript of 2017 hearing, pages 30 and 56.
+[16] Transcript of 2017 hearing, page 58.
+[17] It is unclear whether these amounts were salary or simply amounts withdrawn from the corporate bank account. For the purposes of this appeal, the nature of these payments is not relevant.
+[18] Transcript of 2017 hearing, pages 34 and 61.
+[19] Transcript of 2017 hearing, pages 34 and 56.
+[20] Transcript of 2017 hearing, page 68.
+[21] Transcript of 2017 hearing, pages 42–43.
+[22] Transcript of 2017 hearing, page 20.
+[23] Transcript of 2017 hearing, pages 20 and 42.
+[24] Transcript of 2017 hearing, pages 69–70.
+[25] Transcript of 2017 hearing, page 43.
+[26] Exhibit I-3: Notice of Assessment dated December 19, 2013.
+[27] Scavuzzo v. Canada, [2005] T.C.J. No. 620, at paras. 10–15.
+[28] McIntyre v. Canada, 93 D.T.C. 999, at para. 17.
+[29] Lawrence B. Scott v. M.N.R., [1961] Ex.C.R. 120, at paras. 27–30.
+[30] Exhibit I-3: Notice of Assessment dated December 19, 2013.
+[31] Exhibit A-4: Résultat de recherche du Registraire des entreprises Québec; Exhibit I-4: Résultats de recherche du Registraire des entreprises Québec.
+[32] Transcript of 2017 hearing, page 49.
+[33] Transcript of 2017 hearing, pages 51–54.
+[34] Cherniak v. Canada, 2015 TCC 53; Transcript of 2017 hearing, pages 51, 62 and 75–77.
+[35] TricomCanada Inc. v. Canada, 2016 TCC 8, at para. 61.
+[36] TricomCanada Inc. v. Canada, 2016 TCC 8, at paras. 116 and 121.
+[37] Systematix Technology Consultants Inc. v. Canada, [2007] F.C.J. No. 836, at paras. 4–6.
+[38] Transcript of 2017 hearing, pages 23–28, 45–51 and 73–75; Transcript of November 19, 2025, hearing, page 74; Exhibit A-8: Invoices from MMax (Group Canada) Inc.
+[39] Exhibit I-9: 9193 Invoices to Solik Info Inc.
+[40] Excise Tax Act, subsection 169(4); Input Tax Credit Information (GST/HST) Regulations, subparagraph 3(a)(iv).
+[41] Exhibit I-9: 9193 Invoices to Solik Info Inc.
+[42] Transcript of November 19, 2025, hearing, pages 153–154.
+[43] Transcript of November 19, 2025, hearing, pages 145–146.
+[44] Exhibit I-3: Notice of Assessment dated December 19, 2013.
+[45] Exhibit I-7: Revenu Québec working papers.
+[46] Exhibit I-3: Notice of Assessment dated December 19, 2013; Exhibit I-7: Revenu Québec working papers.
+[47] Excise Tax Act, subsections 225(1), 228(1), 296(1) and 300(2); MELP Enterprises Ltd. v. His Majesty the King, 2024 TCC 130, at para. 35.
+[48] Exhibit A-1: Notice of Assessment dated February 12, 2015.
+[49] Exhibit I-5: Certificate registered in the Federal Court, Writ of execution and Rapport non est inventus.
+[50] Notice of Appeal – 2016-1168(GST)I, paras. 12–13.
+[51] Exhibit A-4: Résultat de recherche du Registraire des entreprises Québec; Exhibit I-4: Résultats de recherche du Registraire des entreprises Québec.
+[52] Mercier c. Sa Majesté le Roi, 2025 CCI 197, at paras. 87–88.
+[53] Exhibit A-4: Résultat de recherche du Registraire des entreprises Québec; Exhibit I-4: Résultats de recherche du Registraire des entreprises Québec.
+[54] Canada v. Barrett, 2012 FCA 33, at para. 42.
+[55] Canada v. Barrett, 2012 FCA 33, at para. 25.
+[56] Canada v. Barrett, 2012 FCA 33, at para. 29.
+[57] I note that the rue Saint-Jacques address is the address provided for 9193’s corporate bank account, see Exhibit I-10: BMO Agreements for 9193.
+[58] Transcript of November 19, 2025, hearing, page 146.
+[59] Exhibit A-4: Résultat de recherche du Registraire des entreprises Québec; Exhibit I-4: Résultats de recherche du Registraire des entreprises Québec.
+[60] Exhibit I-10: BMO Agreements for 9193.

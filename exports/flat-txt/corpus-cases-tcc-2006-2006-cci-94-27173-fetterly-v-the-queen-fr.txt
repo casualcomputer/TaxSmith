@@ -1,0 +1,145 @@
+Title: Fetterly v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27173/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-94-27173-fetterly-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-02-15
+
+# Fetterly v. The Queen
+
+- Citation: 2006 CCI 94
+- Decision date: 2006-02-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1009, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fetterly v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-15
+Référence neutre
+2006 CCI 94
+Numéro de dossier
+2005-1618(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1618(IT)I
+ENTRE :
+KEVIN MICHEAL FETTERLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 27 janvier 2006, à Sudbury (Ontario).
+Devant : L’honorable C.H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Jade Boucher
+____________________________________________________________________
+JUGEMENT
+Le présumé appel interjeté à l’égard de la cotisation fiscale établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est annulé.
+L’appel interjeté à l’égard de la cotisation fiscale établie en vertu de la Loi pour l’année d’imposition 2003 est rejeté.
+Signé à Ottawa, Canada, ce 15e jour de février 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 1er jour de juin 2007
+D. Laberge, LL.L.
+Référence : 2006CCI94
+Date : 20060215
+Dossier : 2005-1618(IT)I
+ENTRE :
+KEVIN MICHEAL FETTERLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les présents appels visent des cotisations établies par le ministre du Revenu national pour les années d’imposition 2002 et 2003. Le ministre soutient qu’en ce qui concerne l’année d’imposition 2002, l’appel n’est pas valide parce que l’appelant ne s’est pas conformé aux dispositions du paragraphe 169(1) de la Loi de l’impôt sur le revenu et qu’il a omis, contrairement à ce que prévoit le paragraphe 167(1), de présenter une demande de prorogation de délai avant de produire son appel. Avant d’examiner cette question, il est utile de la placer dans son contexte. Pour l’essentiel, l’appelant soutient que, pour les deux années d’imposition, il ne comprend pas entièrement les calculs complexes effectués par le ministre et estime qu’on lui a injustement imputé des intérêts.
+[2] En 1990, l’appelant faisait partie des Forces canadiennes et se trouvait à Laar, en Allemagne, lorsqu’il a été victime du syndrome de stress post‑traumatique et a été renvoyé au Canada. Il n’a pas travaillé depuis ce temps. En 2002, il a reçu du gouvernement fédéral des prestations de retraite sous forme d’un montant forfaitaire de 78 611 $. En 2003, il a reçu une somme de 179 334 $ dans le cadre du régime de prestations d’assurance-salaire de La Maritime, compagnie d’assurance‑vie. La somme versée en 2002 constituait la partie déterminée d’un montant admissible pour les années 1990 à 2002 inclusivement. La somme reçue en 2003 constituait la partie déterminée d’un montant admissible pour les années 1990 et 1992 à 2002 inclusivement.
+[3] Un paiement forfaitaire versé en remplacement rétroactif d’un revenu gagné est habituellement inclus dans le calcul du revenu du contribuable pour l’année au cours de laquelle il a été reçu. À titre de mesure d’assouplissement partielle, le paragraphe 110.2(2) de la Loi prévoit la possibilité d’une déduction dans le calcul du revenu imposable pour l’année au cours de laquelle le montant admissible a été reçu. Brièvement, le revenu imposable est réduit par la partie principale des paiements relatifs aux années antérieures au cours desquelles le particulier était admissible à les recevoir. Un redressement s’apparentant à des intérêts est aussi calculé en application de l’article 120.31 de la Loi au titre des paiements effectués au cours d’années antérieures. Le redressement fiscal prévu par ces dispositions doit être examiné de façon globale.
+Année d’imposition 2002
+[4] Je partage le point de vue du ministre pour les raisons suivantes. Le ministre a établi une nouvelle cotisation relativement à la déclaration de revenus de l’appelant pour l’année d’imposition 2002. L’appelant a signifié au ministre un avis d’opposition qui a été reçu le 29 décembre 2003. Par une lettre datée du 27 avril 2004, le ministre a ratifié l’avis de nouvelle cotisation. L’appelant a signifié au ministre un autre avis d’opposition daté du 21 octobre 2004. Par une lettre datée du 10 novembre 2004, le ministre a informé l’appelant que le deuxième avis d’opposition était invalide puisque la nouvelle cotisation datée du 24 novembre 2003 avait déjà été ratifiée. La lettre ajoutait que l’appelant pouvait présenter à la Cour canadienne de l’impôt une demande de prorogation du délai applicable à la production d’un avis d’appel, ce qu’il n’a pas fait.
+[5] Pour conclure, l’avis d’appel relatif à l’année d’imposition 2002 n’est pas valide puisque l’appelant n’a pas produit cet avis dans les 90 jours suivant la date de ratification du 27 avril 2004, contrairement à ce qu’exige le paragraphe 169(1) de la Loi, et qu’il a omis de demander une prorogation de délai pour l’année d’imposition visée, contrairement aux dispositions du paragraphe 167(1) de la Loi.
+Année d’imposition 2003
+[6] L’appelant a déclaré un revenu total de 28 182 $ pour l’année d’imposition 2003. Le ministre a établi à son égard une nouvelle cotisation par laquelle il a ajouté 179 334 $ au revenu plus 270 $ en intérêt. Le ministre a conclu que par l’application des dispositions des articles 110.2 et 120.31, l’impôt exigible de l’appelant serait réduit de 4 026 $. Les calculs du ministre figurent en détail à l’annexe A jointe aux présents motifs. La réponse à l’avis d’appel relatif à l’année d’imposition 2003 précise notamment ce qui suit :
+[TRADUCTION]
+11. Lorsqu’il a calculé le revenu pour l’année d’imposition 2003, l’appelant a déclaré un revenu totalisant 28 182 $, comme il est mentionné au début de l’annexe A ci‑jointe.
+12. Par un avis de cotisation daté du 26 avril 2004, le ministre a établi une cotisation relativement à la déclaration de revenus de l’appelant pour l’année d’imposition 2003.
+13. Par un avis de nouvelle cotisation daté du 27 août 2004, le ministre a établi une nouvelle cotisation relativement à la déclaration de revenus de l’appelant pour l’année d’imposition 2003 en ajoutant d’autres revenus de 179 334 $ et des intérêts supplémentaires de 270 $. Le ministre a en outre conclu que les dispositions des articles 110.2 et 120.31 de la Loi jouaient en faveur de l’appelant et il a calculé l’impôt fédéral s’élevant à 35 457,82 $ en appliquant ces dispositions.
+14. L’appelant a signifié au ministre relativement à l’avis de nouvelle cotisation mentionné au paragraphe 13 ci‑dessus un avis d’opposition que le ministre a reçu le 2 novembre 2004.
+15. Par un avis de nouvelle cotisation daté du 22 mars 2005, le ministre a modifié la nouvelle cotisation mentionnée au paragraphe 13 plus haut et il a augmenté le montant de l’impôt fédéral à 44 977,55 $, somme qu’il a calculée en application des articles 110.2 et 120.31 de la Loi.
+16. Lorsqu’il a modifié la nouvelle cotisation relative à la déclaration de revenus de l’appelant pour l’année d’imposition 2003, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+(a) au cours de l’année d’imposition 2002, l’appelant a reçu un paiement forfaitaire de 78 611 $ du gouvernement du Canada;
+(b) de la somme de 78 611 $ mentionnée à l’alinéa 16(a) ci‑dessus, une somme totale de 73 075 $ s’appliquait aux années 1990 à 2001 et la somme applicable à chacune des années d’imposition susmentionnées est énoncée à l’annexe A ci‑jointe;
+(c) le ministre a examiné les dispositions des articles 110.2 et 120.31 de la Loi pour calculer l’impôt à payer au titre du paiement forfaitaire de 73 075 $ mentionné à l’alinéa 16(b) ci‑dessus et a conclu que l’application de ces dispositions jouait en faveur de l’appelant;
+(d) l’appelant recevait des prestations d’assurance‑salaire (les « prestations ») de « La Maritime, compagnie d’assurance‑vie » pour cause de maladie et un formulaire T‑4A où figurait le montant de 179 335 $ a été délivré à son endroit relativement aux prestations versées pendant l’année d’imposition 2003;
+(e) le montant total des prestations a été payé relativement à l’année 1990 et à la période allant de 1992 à 2002, comme le montre l’annexe A ci‑jointe;
+(f) le montant d’impôt fédéral établi selon les calculs exposés dans l’avis de nouvelle cotisation qui est daté du 27 août 2004 pour l’année d’imposition 2003 et mentionné au paragraphe 13 des présentes ne tient pas compte du paiement forfaitaire de 73 075 $ relatif à l’année d’imposition 2002, comme il est précisé plus haut aux alinéas 16(a) à 16(c);
+(g) on a conclu que l’application des articles 110.2 et 120.31 de la Loi au calcul du montant d’impôt à payer relativement au paiement forfaitaire de 179 335 $ mentionné à l’alinéa 16(d) jouait en faveur de l’appelant comme il ressort de l’avis de nouvelle cotisation daté du 22 mars 2005 mentionné plus haut au paragraphe 15 et des calculs exposés dans l’annexe A ci‑jointe.
+[7] La principale demande de l’appelant vise le redressement fiscal ou les intérêts calculés suivant l’article 120.31. Je crois qu’il me demande de formuler une recommandation pour qu’une décision favorable soit rendue à son endroit dans le cadre du Dossier Équité aux termes de l’article 220 de la Loi.
+[8] L’appelant traite avec le ministre, principalement par lui‑même, depuis un certain nombre d’années même s’il a consulté un avocat à un certain moment et qu’il a eu recours aux services d’un expert‑comptable pour l’aider avant l’établissement de la nouvelle cotisation pour 2003. Les calculs effectués en application du paragraphe 110.2(2) et de l’article 120.31 de la Loi sont complexes et l’ADRC a fait des erreurs qui ont donné lieu à plusieurs nouvelles cotisations, ce qui, de façon compréhensible, a contrarié l’appelant. Il affirme que ces erreurs ont entraîné des décisions injustes. Il avance principalement que les frais d’intérêt sont déraisonnables. Il a ajouté qu’il a laissé 30 messages téléphoniques au comité de l’équité sans recevoir de réponse.
+[9] Il reconnaît que la Cour n’est pas un tribunal jugeant en équité et qu’elle n’a pas compétence pour faire une exception en sa faveur sur le fondement de ce qui est juste ou équitable. En revanche, il souhaite que je recommande au comité de l’équité de trancher en sa faveur la demande qu’il lui a présentée. Compte tenu du grand nombre de retards et de corrections qu’il a subis sans aucune faute de sa part ainsi que de la complexité des cotisations établies à son endroit, j’appuie sa demande fondée sur l’équité. Une grande partie de l’audience a été consacrée au témoin de l’intimée, Judith Marie Woodley, en vue d’essayer de comprendre les calculs effectués par le ministre. Sa connaissance personnelle du dossier était restreinte, mais elle a néanmoins fait grande impression sur la Cour par sa capacité à clarifier bon nombre des ambiguïtés relevées dans les cotisations. Elle possède vingt ans d’expérience à l’ADRC et ses prédécesseurs. Le calcul de l’impôt théorique échappe à la compréhension de la plupart des contribuables et les cotisations sont loin d’être explicites.
+[10] Au paragraphe 3 de la réponse à l’avis d’appel, le ministre affirme que la nouvelle cotisation pour 2003 se passe fort bien de commentaires. Je ne souscris pas à cette affirmation. La nouvelle cotisation est ainsi libellée :
+[TRADUCTION]
+État de compte – 2003
+Paiements reçus cette année
+0,00 $
+Montant de la nouvelle cotisation
+68 251,47 $
+Cotisation antérieure
+62 145,33 $
+Augmentation ou diminution pour l’année
+6 106,14 $ AUG.
+Redressement – intérêt (Dt ou ct)
+376,77 $ Dt
+Redressement fiscal déduit
+0,00 $
+Solde révisé
+6 482,91 $ Dt
+[11] Il n’est fait mention nulle part de la façon dont le montant de la nouvelle cotisation est passé de 62 145 $ à 68 251 $ ni des raisons à l’origine de cette augmentation. Il semble que cette nouvelle cotisation ait été établie par suite de la contestation, par l’appelant, de l’ajout d’une surtaxe. Apparemment, la surtaxe a été supprimée, mais une somme de 6 106 $ a été ajoutée. Jusqu’à ce moment, l’appelant bénéficiait des services d’un comptable agréé, lequel a apparemment abandonné le dossier, par contrariété peut‑être.
+[12] Après plusieurs heures de témoignage, l’appelant me demande de mettre l’accent sur la question des intérêts, qui totalisent 15 475,72 $, comme il est énoncé dans la dernière colonne de l’annexe A pour l’année d’imposition 2003. L’avocate de l’intimée qualifie cette somme d’intérêts dans certains cas et d’impôt supplémentaire dans d’autres. Selon la réponse et l’alinéa 120.31(3)b) de la Loi, il s’agit d’intérêts. Cette somme répond à la définition du terme « intérêt ». Le ministre a exigé un taux d’intérêt sur les montants d’impôt réputés avoir été payés annuellement au cours des années d’imposition 1990 à 2000, 2001 et 2002. L’importance de savoir s’il s’agit d’intérêts pourrait avoir une incidence au regard du comité d’équité. L’appelant croit que le comité pourrait conclure qu’il ne s’agit pas d’intérêts et que cette somme ne relève donc pas de sa compétence. Dans la réponse à l’avis d’appel, l’intimée qualifie cette somme d’intérêts à l’alinéa 13(c) ainsi que dans l’annexe A.
+[13] Même s’il ne m’est pas loisible de prendre une décision à la place du comité, la somme de 15 475,72 $ que l’appelant souhaite voir le comité prendre en considération possède toutes les caractéristiques d’un intérêt. Pour reprendre les termes employés par le juge Mogan dans la décision Sanford c. La Reine, [2000] A.C.I. no 801, « si une créature à deux pattes et avec des plumes se dandine comme un canard, cancane comme un canard et ressemble à un canard, ce doit être un canard ». Dans la mesure où je suis habilité à le faire, je soumets que la somme constitue en réalité de l’intérêt et je recommande que la demande présentée par l’appelant dans le cadre du Dossier Équité soit examinée avec soin.
+[14] En conclusion, la Cour n’est pas régulièrement saisie de l’année d’imposition 2002 et le présumé appel est donc annulé. Quant à l’année d’imposition 2003, j’accepte le témoignage rendu par le témoin de l’intimée, et aucune raison me justifiant de conclure que l’annexe A est inexacte ne m’a été fournie. Je n’ai pas compétence pour annuler les intérêts exigés dans la mesure où ils ont été calculés de façon appropriée.
+[15] Pendant l’audience, j’ai demandé à l’avocate de l’intimée si le ministre avait envisagé le fait que tout ou partie des paiements forfaitaires puissent constituer du capital. Cette question n’avait pas été examinée et l’appelant n’a présenté aucune observation sur ce point. Compte tenu des renseignements restreints dont je dispose, il m’est impossible de me prononcer dans un sens ou dans l’autre.
+[16] De façon générale, l’appelant fait appel à moi pour que je réduise son fardeau fiscal, lequel est à son avis injuste. Je ne puis ordonner une telle mesure si les calculs ont été bien faits, et il n’y a aucun élément de preuve établissant que la nouvelle cotisation définitive est inexacte.
+[17] L’appel interjeté à l’égard de la cotisation établie pour l’année d’imposition 2002 est annulé et l’appel interjeté à l’égard de la cotisation établie pour l’année d’imposition 2003 est rejeté.
+Signé à Ottawa, Canada, ce 15e jour de février 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 1er jour de juin 2007
+D. Laberge, LL.L.
+RÉFÉRENCE : 2006CCI94
+NO DU DOSSIER DE LA COUR : 2005-1618(IT)I
+INTITULÉ : Kevin Micheal Fetterly et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Sudbury (Ontario)
+DATE DE L’AUDIENCE : Le 27 janvier 2006
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 15 février 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Jade Boucher
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

@@ -1,0 +1,293 @@
+---
+title: "Mediclean Incorporated c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29321/index.do"
+last_modified: "2009-04-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 340"
+citation2: ""
+neutral_citation: "2009 CCI 340"
+decision_date: "2009-04-22"
+language: "fr"
+item_id: "29321"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7061
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:57:54.764000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e8445cff85135933e197e69a25fab9373c066e10c267a28692952ef610c3b198"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mediclean Incorporated c. M.R.N.
+
+- Citation: 2009 CCI 340
+- Decision date: 2009-04-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7061, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mediclean Incorporated c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-22
+Référence neutre
+2009 CCI 340
+Numéro de dossier
+2008-2305(EI)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2009CCI340
+Dossiers : 2008-2305(EI); 2008-3235(CPP);
+2008-3234(EI); 2008-2307(CPP)
+ENTRE :
+MEDICLEAN INCORPORATED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+TANIA HEADLEY, MABEL MINTO,
+SIVAKUMARAN MUTHUCUMARU, JUAN ALFONZO,
+intervenants.
+[Traduction française officielle]
+CERTIFICATION DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+Je requiers que soit déposée la transcription certifiée ci‑jointe des motifs du jugement rendus oralement à l’audience à Toronto (Ontario), le 22 avril 2009.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 16e jour de novembre 2009.
+Christian Laroche, LL.B.
+Réviseur
+Signé à Toronto (Ontario), ce 17e jour de juillet 2009.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+No des dossiers de la Cour : 2008-2305(EI); 2008-3235(CPP);
+2008-2334(EI); 2008-2307(CPP).
+COUR CANADIENNE DE L’IMPÔT
+Loi sur la taxe d’accise et Régime de pensions du Canada
+ENTRE :
+MEDICLEAN INCORPORATED,
+appelante,
+- et -
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+- et -
+TANIA HEADLEY, MABEL MINTO, SIVAKUMARAN MUTHUCAMARU
+et JUAN ALFONZO,
+intervenants.
+********
+MOTIFS RENDUS ORALEMENT PAR M. LE JUGE WEISMAN
+dans les bureaux du Service administratif des tribunaux judiciaires, salle d’audience 6C,
+Centre judiciaire fédéral, 180, rue Queen Ouest, Toronto (Ontario),
+le mercredi 22 avril 2009, à 14 h 02.
+********
+COMPARUTIONS :
+Me Louise R. Summerhill pour l’appelante
+Me Hong Ky (Eric) Luu pour l’intimé
+Également présents :
+Mme Mabel Minto intervenante se représentant elle-même
+M. William O’Brien greffier audiencier
+M. Robert Lee sténographe judiciaire
+A.S.A.P. Reporting Services Inc. © 2009
+200, rue Elgin, pièce 1105 130, rue King Ouest, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto (Ontario)
+--- Les motifs du jugement ont été rendus oralement le mercredi 22 avril 2009, à 14 h 02.
+JUGE WEISMAN : La présente instruction intéresse quatre appels interjetés à l’égard de décisions rendues par l’intimé, le ministre du Revenu national. Selon ces décisions, les divers nettoyeurs exécutant des services de nettoyage et d’entretien et d’autres services connexes dans des hôtels et des centres médicaux pour le compte de l’appelante exerçaient un emploi assurable et ouvrant droit à pension, et l’appelante avait donc l’obligation de retenir sur la rémunération versée aux travailleurs des cotisations d’assurance‑emploi et des cotisations au Régime de pensions du Canada, puis de les remettre.
+Fernandes Villegas est l’un de ces travailleurs. Il a été engagé par l’appelante du 15 novembre 2006 au 4 août 2007, soit une période d’environ huit mois. Il y a 239 autres travailleurs en cause, dont quatre sont intervenus dans la présente instance, à savoir Tania Headley, Sivakumaran Muthucumaru, Juan Alfonzo et Mabel Minto, bien que seule cette dernière ait comparu en l’espèce.
+Les 239 travailleurs ont été engagés par l’appelante au cours des trois années 2004, 2005 et 2006.
+L’appelante conteste les cotisations établies par le ministre, parce que l’ensemble des 240 travailleurs étaient des entrepreneurs indépendants aux termes de contrats d’entreprise, et non des employés aux termes de contrats de louage de services pendant les périodes en cause.
+Au début de la présente instance, tous les avocats ont reconnu que chacun des travailleurs faisait l’objet des mêmes modalités d’emploi dans le cadre de sa relation de travail avec la payeuse appelante de sorte que, par consentement, tous les appels ont été entendus ensemble sur preuve commune.
+Dans ses observations, l’avocat du ministre, qui avait initialement consenti à la mesure susmentionnée, a tenté de faire valoir que certains travailleurs appartenaient à une catégorie distincte. Par exemple, il reconnaît maintenant qu’Ali Allalou entretenait une relation de travail différente avec l’appelante et qu’il s’agissait en réalité d’un entrepreneur indépendant.
+Cette situation entraîne diverses difficultés parce que j’arrive à la conclusion que l’avocat du ministre est lié par son consentement initial voulant que tous les travailleurs aient fait l’objet des mêmes modalités d’emploi et qu’ils aient tous entretenu une relation de travail identique avec l’appelante. Si nous devions agir autrement, il nous faudrait alors obligatoirement examiner le cas de chacun des 240 travailleurs de façon distincte. Ce n’est pas ce que prévoit l’entente intervenue en l’espèce; ce n’est pas une manière économique ni efficiente d’instruire la présente affaire. En conséquence, lorsque j’ai examiné la preuve pendant l’instruction, je l’ai fait conformément à l’entente initiale.
+Pour trancher la question fondamentale de savoir si ces travailleurs étaient des employés ou des entrepreneurs indépendants, il faut tenir compte de l’effet conjugué de l’ensemble des rapports existant entre l’appelante et les travailleurs visés afin de discerner la véritable nature de la relation de travail liant les parties.
+À cette fin, il est utile de renvoyer aux lignes directrices à quatre volets initialement formulées dans la décision Montreal Locomotive, [1947] 1 DLR 161, laquelle a été suivie dans l’arrêt Wiebe Door Services, (1986) 87 DTC 5025 (CAF), précisée dans l’arrêt 671122 Ontario Limited c. Sagaz Industries, [2001] 2 RCS 983, développée plus avant sur la question de l’intention dans les arrêts Wolf, [2002] ACF no 375 (CAF), et Royal Winnipeg Ballet, [2006] CAF 87, puis modifiée dans les décisions Légaré, [1999] ACF no 878, et Pérusse, [2000] ACF no 310.
+Comme je l’ai déjà mentionné, les lignes directrices à quatre volets élaborées dans ces décisions doivent être suivies. Voici les quatre facettes de ce critère appliqué depuis longtemps : le droit de contrôle qu’exerce l’appelante sur les activités des travailleurs, ce qui englobe le point de savoir si ces derniers se trouvaient dans une situation de subordonnés, par opposition à celle d’entrepreneurs indépendants, au regard de l’appelante; la question de savoir laquelle des parties était propriétaire de l’outillage utilisé par les travailleurs dans l’exécution de leurs fonctions et pouvait donc donner des directives et exercer un contrôle relativement à la façon dont ces outils devaient être utilisés; la possibilité de profit qu’avaient les travailleurs dans le cadre de leur relation avec l’appelante et leur risque de perte, le cas échéant, dans le cadre de cette même relation.
+Examinons d’abord le degré de contrôle que le payeur pouvait exercer à l’égard du travailleur, facteur qui, selon la jurisprudence, doit toujours être pris en compte pour trancher ce genre d’affaires et qui a été énoncé par M. le juge Major dans l’arrêt Sagaz, au paragraphe 17. Je signale que l’important n’est pas tant le contrôle qui est, en réalité ou dans les faits, exercé par le payeur sur le travailleur, mais bien le droit du payeur d’exercer un contrôle sur le travailleur, comme l’a soutenu Me Luu pour le compte du ministre.
+Je conclus en l’espèce que, même si l’appelante avait certainement le droit d’exercer un contrôle sur les travailleurs, le degré, ou l’étendue, de ce droit n’était pas plus considérable que celui susceptible d’être exercé si les nettoyeurs étaient tous des entrepreneurs indépendants. Je veux dire par là que, dans un cas comme dans l’autre, l’appelante aurait pu renvoyer le travailleur pour cause de vol, d’imponctualité ou de piètre qualité du travail qu’il s’agisse d’un entrepreneur indépendant ou d’un employé.
+Plus important encore, il faut se demander si ce que l’appelante faisait pouvait être assimilé à l’exercice d’un contrôle sur les travailleurs par opposition à l’exercice d’une surveillance. Il existe une série de décisions dans lesquelles on a déclaré que la surveillance du résultat ne doit pas être confondue avec l’exercice d’un contrôle sur le travailleur. Lorsque je dis qu’il existe une série de décisions, il s’agit d’abord de l’arrêt Charbonneau, [1996] ACF no 1337 (CAF). Il y a la décision Vulcain Alarme Incorporated, [1999] ACF no 749, paragraphe 10; ainsi que les arrêts Livreur Plus, paragraphes 19 et 20, [2004] ACF no 267; D & J Driveway, 2003 CAF 453, et City Water c. Le ministre du Revenu national, 2006 CAF 350, paragraphe 18, de la Cour d’appel fédérale.
+Il ressort de la jurisprudence une notion connexe voulant que, lorsque le travailleur se trouve dans une situation d’emploi ordinaire, par opposition au cas où il possède des connaissances spécialisées, la relation entre l’employeur et l’employé doive conférer au payeur le droit ou le pouvoir de dire au travailleur non seulement ce qu’il doit faire, mais aussi comment il doit le faire. C’est ce qu’a initialement décidé le baron Bramwell, en 1858, dans l’affaire R. v. Walker, 27 LJMC 207. J’établis la distinction suivante entre un emploi ordinaire et un emploi à titre d’expert : l’expert est celui qui possède des connaissances à ce point spécialisées qu’elles excèdent la capacité de la personne qui le paie ou qui le supervise de lui donner des directives ou d’exercer un contrôle sur la façon dont il fait ce qu’il fait. Dans ces situations, une relation employeur‑employé peut exister même s’il est uniquement possible de dire au travailleur quoi faire, mais pas comment le faire.
+Dans l’affaire dont je suis saisi, la preuve me convainc que la payeuse appelante n’envoyait aucun superviseur sur place avec les travailleurs. Il y avait un travailleur principal, qui était habituellement chargé du travail lourd, comme le transport à l’extérieur des ordures ménagères lourdes, le décapage et le cirage des planchers, le nettoyage des tapis et la remise en état du marbre, et qui recevait une rémunération supplémentaire pour aider et orienter les nouveaux travailleurs. Cela consistait notamment à leur montrer où se trouvaient les outils et les fournitures à chaque lieu de travail. Ce travailleur principal était en outre responsable de trouver des remplaçants lorsque certains travailleurs omettaient, pour une raison ou pour une autre, de se présenter au travail.
+Les travailleurs touchés appartiendraient, selon moi, à la catégorie des travailleurs ordinaires. L’arrêt Wolf, auquel j’ai renvoyé plus haut, concerne une personne hautement spécialisée dans le domaine informatique de la technologie de l’information.
+Dans l’affaire dont je suis saisi, les particuliers étaient simplement des nettoyeurs, à l’exception de quelques personnes qui, si j’ai bien compris, possédaient les connaissances requises pour remettre à neuf les planchers de marbre et pour décaper et cirer les planchers. Aucun de ces travailleurs n’exécutait des tâches faisant en sorte qu’un représentant de l’appelante aurait été incapable de le superviser, de lui donner des directives ou d’exercer un contrôle sur lui.
+Puisqu’il s’agit ici, à mon sens, de travailleurs ordinaires, la preuve doit établir que la payeuse avait le droit de leur dire non seulement quoi faire, mais aussi comment le faire, pour permettre à la Cour de conclure qu’ils sont des employés.
+En l’espèce, à la lumière de la preuve, tous les travailleurs étaient des nettoyeurs expérimentés; certains occupaient des postes de nettoyeur à temps plein. Par exemple, Mabel Minto avait un emploi à temps plein consistant à nettoyer des chambres à l’hôtel Sheraton et elle travaillait seulement les nuits chez l’appelante pendant un nombre d’heures donné. En d’autres termes, ils savaient tous comment passer l’aspirateur dans la chambre, comment épousseter et comment se débarrasser des ordures. La payeuse et les travailleurs principaux étaient tous capables de donner des directives quant à la réalisation de chacune de ces tâches.
+Quant à la distinction existant entre la surveillance du résultat et l’exercice d’un contrôle sur le travailleur, compte tenu de l’arrêt Charbonneau et de la série de décisions qui ont suivi, je suis convaincu que le travailleur principal et le représentant de l’appelante, M. John Procopoudis, n’exerçaient pas un contrôle sur les travailleurs ni ne les supervisaient. En effet, dans le cas du travailleur principal, ce dernier travaillait sur place pratiquement de la même façon que n’importe quel travailleur se trouvant avec lui, et M. Procopoudis ne travaillait pas sur place, il se contentait de visiter périodiquement les nombreux endroits qui faisaient l’objet de contrats conclus par sa société. Ses visites avaient pour but de surveiller les résultats et de donner suite aux plaintes des clients touchant la qualité du travail accompli.
+Tant Mabel Minto que Marquita Knight estimaient faire l’objet d’une supervision et d’un contrôle; la première de la part de M. Procopoudis et la seconde d’une personne prénommée « Chris ». Après avoir entendu la preuve, je conclus qu’il s’agissait en réalité d’une simple surveillance. Dans le cas d’une personne nouvellement engagée, on l’orientait en outre quant à ce qu’il y avait à faire et à l’endroit où se trouvait le matériel nécessaire.
+Pour ceux qui pourraient penser que ces questions ne sont pas complexes, deux autres points liés au contrôle doivent être examinés par la Cour. Le premier tient au fait qu’il ressort sans équivoque de la preuve que les travailleurs avaient le droit de refuser n’importe quelle tâche, peu importe la raison. Une situation de ce genre a expressément été évoquée dans la preuve : une travailleuse a refusé le projet proposé parce que celui‑ci était trop éloigné de sa résidence. Mabel Minto a affirmé pendant son témoignage qu’elle pouvait tout simplement dire non, ce qui est compatible avec le témoignage au même effet rendu par M. Procopoudis.
+Ce point est important en raison de la jurisprudence. Je le répète, il existe un certain nombre de décisions qui font état de l’importance de la possibilité pour le travailleur de refuser des tâches qui lui sont assignées. Je vais d’abord me pencher sur la décision Precision Gutters c. Le Ministre, [2002] ACF no 771, au paragraphe 27. M. le juge Sexton tient les propos suivants au nom de la Cour :
+Selon moi, la capacité de négocier les modalités d’un contrat suppose une chance de bénéfice et un risque de perte de la même manière que permettre à une personne d’accepter ou de refuser du travail suppose une chance de bénéfice et un risque de perte.
+De toute évidence, je reviendrai sur ce point au moment d’examiner la question du profit et de la perte. Comme vous le savez déjà, la possibilité de réaliser un profit et le risque de subir une perte constituent deux des quatre lignes directrices énoncées dans l’arrêt Wiebe Door. C’est dans cette affaire qu’on a, pour la première fois, laissé entendre que, lorsqu’un travailleur peut refuser une tâche qui lui est assignée, cette situation constitue en soi une possibilité de profit et un risque de perte donnant à penser que le travailleur est un entrepreneur indépendant.
+Il s’agissait d’une façon plutôt indirecte d’évoquer ce point. Si vous lisez la décision 10Tation Event Catering Inc., 2008 TCC 562, on y reproduit un extrait plus explicite de l’arrêt Livreur Plus, auquel j’ai renvoyé plus haut. Le passage suivant se trouve au paragraphe 41 :
+Ce sont là, avec la faculté de refuser ou d’accepter des offres de services, des facteurs que cette Cour a retenus comme indices d’un contrat d’entreprise ou de services plutôt que de travail.
+La Cour d’appel fédérale tient des propos au même effet dans l’arrêt D & J Driveway, 2003 CAF 453.
+Second point dont il faut tenir compte au chapitre de la question du contrôle et auquel j’ai fait allusion plus haut : la preuve établit clairement que les travailleurs avaient le droit d’engager des assistants ou des remplaçants s’ils étaient malades. Si je comprends bien la preuve, la différence tient au fait qu’un assistant est une personne qui travaille avec le travailleur aux frais de ce dernier tandis qu’un remplaçant est une personne que le travailleur trouve et paye dans l’éventualité où il serait absent pendant très peu de temps à cause d’une maladie, du décès d’un membre de sa famille ou pour une autre raison. Je comprends que, selon la preuve, si un travailleur doit s’absenter pendant une longue période, l’appelante trouve un remplaçant pour la durée de cette absence et elle paye celui‑ci au lieu de payer le travailleur.
+Il n’en demeure pas moins que le droit est clair et il est énoncé dans la décision Ready Mixed Concrete Southeast Limited v. The Minister of Pensions, [1968] 1 All‑England Law Reports 433, à la page 422, où le tribunal, sous la plume de M. le juge McKenna, s’exprime en ces termes :
+[traduction]
+L’employé doit être tenu d’accomplir personnellement le travail et de fournir ses propres compétences. La liberté de faire un travail, de ses propres mains ou par l’entremise d’une autre personne, est incompatible avec un contrat de louage de services.
+J’ai déjà mentionné que la preuve à cet égard est claire, parce que Robbie Persad a déclaré dans son témoignage qu’il avait effectivement – il ne s’agissait pas d’un droit théorique – engagé un remplaçant. Nous savons que ce droit existait, malgré le témoignage des deux personnes qui ont témoigné pour le compte du ministre, Mabel Minto et Marquita Knight, lesquelles ont toutes deux affirmé sans équivoque que, selon ce qu’elles avaient compris, elles ne pouvaient engager des assistants ou des remplaçants si elles étaient malades, et qu’elles devaient rendre leurs services elles‑mêmes.
+Après avoir attiré l’attention de tous sur ces éléments de preuve contradictoires, je dois faire quelques observations au sujet de la crédibilité. Je conclus que tous les témoins sont sincères et impartiaux, mais qu’ils ne sont pas tous également dignes de foi. Cette situation est principalement attribuable au fait que certains témoins étaient des dirigeants d’entreprises très avertis, comme M. Procopoudis, tandis que d’autres n’avaient que très peu de connaissances dans le domaine des affaires, comme les deux dames, Mabel Minto et Marquita Knight. Par exemple, Mabel Minto n’avait aucune idée de la différence entre un feuillet T4 et un feuillet T4A, et encore moins de la distinction complexe qui existe entre un employé et un entrepreneur indépendant. Même si je n’ai aucun doute quant à la sincérité de ces femmes, je doute qu’elles saisissent bien les questions soumises à la Cour en ce qui concerne les modalités de leur relation de travail avec l’appelante et, par conséquent, je doute de leur crédibilité.
+Retournons à la question du droit d’engager des assistants. Comme je l’ai déjà précisé, il a été convenu au début de la présente instance que tous les travailleurs, dans le cadre de leur relation de travail avec l’appelante, faisaient l’objet des mêmes modalités d’emploi. Cette question a donc été instruite sur preuve commune, ce qui signifie que le témoignage d’un travailleur s’appliquait de la même manière à tous les 240 travailleurs. J’ai dit qu’il y avait une preuve des plus claires, que j’ai acceptée, établissant que Robbie Persad pouvait engager, et qu’il a effectivement engagé, des remplaçants. Comme les parties ont reconnu que tous les travailleurs faisaient l’objet des mêmes modalités d’emploi, il faut nécessairement en conclure que les deux femmes jouissaient de la même latitude, malgré l’impression qu’avait Mabel Minto, à la suite de sa première entrevue avec M. Procopoudis, qu’on lui avait dit qu’elle n’avait pas le droit d’engager ou de trouver des remplaçants. Je conclus qu’elle a tout simplement fait erreur à cet égard.
+De plus, il me semble qu’il serait contraire au bon sens qu’une personne comme Robbie Persad, que je qualifierais de « travailleur lourd » par opposition à un « travailleur léger » — et je tire cette distinction du témoignage de M. Procopoudis, selon lequel le travailleur lourd était le plus susceptible d’agir à titre de travailleur principal sur le lieu de travail et assumait des tâches supplémentaires autres que le nettoyage ordinaire, comme le décapage et le cirage des planchers et le polissage du marbre — que si une personne comme celle‑là avait le droit d’engager un assistant et de se faire remplacer, il tomberait sous le sens et rien ne pourrait justifier que l’appelante ou M. Procopoudis empêche les nettoyeurs ménagers ordinaires de le faire aussi.
+Il convient maintenant d’examiner la question de la subordination. Le terme « subordination » ne figure pas dans les affaires de common law, à l’exception des décisions où il a été employé dans le cadre de litiges en matière d’assurance‑emploi relevant du Code civil du Québec. Selon l’article 2099 de ce code, un élément important de la relation mandant–mandataire consiste en l’absence de lien de subordination par opposition à un lien de dépendance. J’estime qu’il s’agit d’une ligne directrice utile pour savoir qui est un employé et qui est un entrepreneur indépendant; quiconque a lu les motifs de mes décisions l’y a vue mentionnée.
+Examinant la présente affaire pour voir s’il existe un lien de subordination entre les travailleurs et l’appelante, je remarque qu’il y avait une règle obligeant les travailleurs à porter, à leurs frais, la chemise et le logo de la société. Ils étaient en outre tenus de porter des pantalons et des chaussures noirs, à leurs frais également.
+Il s’agit là de contrôle. Non seulement s’agit‑il de contrôle, mais il existe une décision, l’arrêt Rousselle, [1990] ACF no 990 (CAF), dans laquelle on introduit une notion que j’appelle l’intégration culturelle. Le tribunal conclut qu’un travailleur est intégré à une entreprise lorsque ses allées et venues sont alignées sur celles des employés qui y travaillent. C’est le cas, me semble‑t‑il, lorsqu’un travailleur est tenu de porter la chemise de la société arborant le logo de celle‑ci, il me semble que la personne est alors intégrée à la culture de l’entreprise, ce qui tend à montrer qu’il s’agit d’un employé.
+Cela étant dit, la preuve révèle que cet uniforme servait à une autre fin, laquelle touchait à la sécurité. Il est ressorti du témoignage de M. Procopoudis que les clients exigeaient de pouvoir identifier les personnes qui allaient et venaient la nuit dans leur immeuble, munies de certaines clés et de certains codes. L’uniforme servait donc un certain nombre de fins, dont certaines laissent croire que la personne qui le revêtait était un employé et d’autres non.
+Comme je l’ai mentionné à M. Procopoudis, une simple carte, avec ou sans photographie d’identification, portée par le travailleur aurait permis de répondre au besoin de sécurité sans constituer pour autant un indice de l’existence d’un contrôle et d’une intégration culturelle.
+Tout bien pesé, j’arrive à la conclusion que cette exigence relative à l’uniforme constituait un élément de contrôle qui donne à penser que les personnes qui le portaient, les travailleurs, étaient des employés.
+J’ai analysé ce point sous la rubrique de la subordination. Plus précisément, j’estime en outre que le fait d’être obligé de porter un uniforme constitue un aspect de la subordination.
+Toujours en ce qui a trait au contrôle, je tente d’apprécier la preuve qui étaye et qui réfute l’existence d’un contrôle. Il me reste encore une observation à formuler. Je signale que tous les témoins ont affirmé qu’ils devaient retourner sur les lieux et remédier à leurs erreurs pendant leur temps libre et à leurs propres frais et qu’ils étaient financièrement responsables des dommages qu’eux ou leurs assistants ou leurs remplaçants causaient pendant le nettoyage.
+À mon sens, cela permet de penser qu’ils étaient des entrepreneurs indépendants. Les employés reçoivent leur rémunération même s’ils doivent passer du temps à corriger leurs erreurs.
+Pour clore l’examen de la question relative au contrôle, ce grand nombre de facteurs — même si quelques‑uns d’entre eux tendent à montrer que les travailleurs étaient des employés — débouche sur la conclusion irrésistible que, selon le critère lié au contrôle, ces travailleurs étaient des entrepreneurs indépendants, malgré l’exigence voulant qu’ils portent cet uniforme et malgré le fait que cette obligation laisse à penser qu’il existait un certain degré de subordination et d’intégration culturelle.
+Je pourrai être beaucoup plus bref en ce qui concerne la question de l’outillage. Manifestement, l’ensemble des outils nécessaires, des balais à laver, des seaux, des balais, des chariots, des aspirateurs, des meuleuses pour le marbre ainsi que des décapeuses et des polisseuses à plancher était fourni par la payeuse, à la seule exception des uniformes, lesquels, comme il est mentionné plus haut, étaient payés par les employés.
+La preuve a établi que certains des travailleurs chargés du travail lourd disposaient de leur propre matériel et pouvaient, s’ils le souhaitaient, emporter celui‑ci. Mais j’estime que cela ne change rien au fait que l’appelante disposait en tout temps de l’ensemble du matériel nécessaire et que les travailleurs avaient toujours la possibilité de s’en servir.
+La preuve montre que les produits de nettoyage eux‑mêmes étaient fournis par le client. Je conclus que Marquita Knight était dans l’erreur à cet égard lorsqu’elle a affirmé le contraire pendant son témoignage, sauf qu’il est établi par la preuve qu’en ce qui concerne le nettoyage des cuisines, c’est bien l’appelante qui fournissait les produits nettoyants appropriés. En général, la preuve établit de façon convaincante que l’outillage était fourni par l’appelante, ce qui laisse croire que les travailleurs étaient des employés.
+Pour ceux que ça intéresse, j’ai lu que la raison pour laquelle la propriété de l’outillage est pertinente découle de l’American Restatement. C’est que la personne qui est propriétaire de l’outillage a le droit d’imposer la façon de s’en servir et de donner des directives en ce sens. Voilà pour la question du contrôle.
+Passons maintenant à la possibilité de profit. Pour débuter, la preuve relative à la possibilité de réaliser un profit établit clairement que les travailleurs étaient des entrepreneurs indépendants. En premier lieu, ils avaient le droit de refuser des tâches qui leur étaient assignées; je vous ai déjà lu le passage tiré de la décision Precision Gutters :
+[L]a capacité de négocier les modalités d’un contrat suppose une chance de bénéfice et un risque de perte de la même manière que permettre à une personne d’accepter ou de refuser du travail suppose une chance de bénéfice et un risque de perte.
+Il découle du simple bon sens que plus vous refusez du travail, moins vous réalisez de profit et que plus vous acceptez du travail, plus vous réalisez de profit.
+Cela pourrait être le moment opportun de s’attaquer au terme « négocier ». J’ai maintenant lu deux fois des passages tirés du paragraphe 27 de la décision :
+Selon moi, la capacité de négocier les modalités d’un contrat suppose une chance de bénéfice et un risque de perte.
+Il ressort sans équivoque de la preuve que les travailleurs ne pouvaient négocier, et qu’ils n’ont pas négocié, la rémunération touchée pour leur travail chez l’appelante. Cette dernière se rendait plutôt sur le lieu de travail, elle évaluait le nombre de pieds carrés visé et, selon l’expérience de M. Procopoudis, elle déterminait les tâches devant être exécutées. Compte tenu de son expérience, M. Procopoudis savait combien de travailleurs et combien de temps seraient requis. Il présentait un prix pour les travaux, il majorait ce prix de 10 pour 100, soit la part qui lui revenait, et le reste était partagé entre les travailleurs. Pour ces derniers, c’était à prendre ou à laisser, ce qui tend à montrer que les travailleurs étaient des employés.
+Toujours en ce qui concerne la question du profit et de la perte, la phrase que j’ai maintenant lue quelques fois et qui se trouve au paragraphe 27 est suivie d’une autre :
+Les poseurs ne se sont pas vus imposer un délai fixe pour l’exécution du contrat et ainsi, une exécution efficace pouvait engendrer plus de bénéfices.
+Cela est prophétique au regard des faits que j’ai entendus en l’espèce. Pendant toute l’audience, on a signalé à maintes reprises que, si un travailleur obtenait un montant d’argent déterminé pour accomplir un projet, ce qui, à mon avis, était le cas pour tous les travailleurs intéressés, alors, de toute évidence, s’ils travaillaient rapidement et terminaient le projet en moins de temps que celui pour lequel ils étaient payés, il s’agissait d’un profit. S’ils travaillaient lentement et, en fait, Mabel Minto a signalé qu’elle ne terminait jamais un projet dans le délai prévu et qu’elle faisait des heures supplémentaires sans être rémunérée — permettez‑moi de m’écarter du sujet : cela fait penser à un entrepreneur indépendant; les travailleurs qui font des heures supplémentaires sont rémunérés.
+La personne qui travaille lentement et qui doit toujours faire des heures supplémentaires risque d’avoir un profit moindre. Les personnes qui travaillent rapidement peuvent rentrer à la maison ou trouver un emploi lucratif pour le temps qu’elles ont économisé. En d’autres mots, les travailleurs ont la possibilité de réaliser un profit s’ils font preuve d’une saine gestion. Ces termes clés reviennent sans cesse dans la jurisprudence. Vous les verrez dans la décision Montreal Locomotive, vous les verrez dans l’arrêt Wiebe Door; la possibilité de réaliser un profit grâce à une saine gestion est un attribut de l’entrepreneur indépendant.
+Troisièmement, au chapitre de la possibilité de profit, lorsqu’une personne a le droit d’engager un assistant ou un remplaçant, cela donne automatiquement lieu à une possibilité de profit et, à vrai dire, à un risque de perte. Ici encore, Robbie Persad est un exemple parfait. Il recevait 60 $ pour un projet. Il avait besoin d’un remplaçant qu’il payait 40 $ à 45 $ et, je le cite, il [TRADUCTION] « garde un petit quelque chose » pour lui‑même. Il s’agit clairement et simplement d’un profit, ce qui joue en faveur de la situation d’entrepreneur indépendant.
+Je conclus que ces travailleurs avaient la possibilité de réaliser un profit. Mais je dois exprimer mon désaccord avec l’assertion de Me Summerhill, laquelle a fait valoir que les travailleurs chargés du travail lourd avaient une possibilité de profit, puisqu’en plus du prix contractuel habituel versé pour un projet ou du prix contractuel visant un projet donné, ils pouvaient gagner une somme supplémentaire en s’occupant des planchers de marbre ou en nettoyant les tapis, par exemple. Je comprends qu’on puisse avancer cet argument. Toutefois, selon l’arrêt Hennick, [1995] ACF no 294, de la Cour d’appel, il faut faire une distinction entre le profit et une rémunération plus élevée; ce sont deux choses différentes. Cet arrêt concerne une enseignante récalcitrante dont la rémunération était fonction de ses heures de travail; elle travaillait à l’heure et était rémunérée sur cette base. La Cour d’appel fédérale a conclu qu’il pouvait s’agir d’une rémunération plus élevée, mais qu’il ne pouvait être question d’un profit au sens commercial du terme.
+La situation est la même pour la personne qui travaille à la pièce. Plus le nombre de pièces est grand, plus la rémunération est élevée, mais il ne saurait être question d’un profit. Or, dans le cas de Robbie Persad, c’est bien de profit dont il s’agit.
+Je vois dans mes notes qu’après avoir formulé des observations sur le fait que la rémunération des travailleurs en l’espèce n’était pas négociée, le prix offert était à prendre ou à laisser, je dois ajouter qu’à mon avis, les « dames » – et par ce terme j’entends Mme Knight et Mme Minto – se méprenaient. Je tiens pour avérer le fait qu’elles, comme tous les autres, ont chacune reçu une somme déterminée, comme 60 $ par projet, pour un travail qui durait plus ou moins six heures. Elles ont donc conclu qu’elles étaient payées 10 $ l’heure ou, dans le cas de Mme Minto, 9,50 $ l’heure.
+La seule difficulté que soulève cette conclusion est la suivante : si c’était réellement le cas, pourquoi les travailleurs étaient‑ils requis de consigner les heures d’entrée et de sortie plutôt que de simplement signer leur nom? J’ai précisément posé cette question à M. Procopoudis; j’accepte sa réponse selon laquelle, même si leur seule signature aurait pu suffire à confirmer leur présence, il était préférable qu’ils signent et inscrivent le moment de leur entrée et de leur sortie.
+Passons au risque de perte. Ce point est tout aussi clair que celui de la possibilité de profit, bien que ces travailleurs aient engagé peu de dépenses. Ils n’avaient aucuns frais de véhicule. Ils n’avaient pratiquement aucune somme à débourser – aucune pour les outils et très peu pour les uniformes. Même s’ils n’étaient pas remboursés, ils étaient responsables des dommages. Ils devaient dans certains cas acheter des bottes de sécurité ainsi que des chaussures noires et des pantalons noirs. Les bottes étaient du genre portées par les travailleurs chargés des travaux lourds.
+Malgré le fait que leurs menues dépenses ne sauraient, à mon avis, suffire à constituer un risque de perte, comme je l’ai déjà mentionné, la possibilité de refuser des projets est un risque de perte, à l’instar de la situation de travailleur rapide par opposition à celle de travailleur lent, lorsque les travailleurs reçoivent une somme d’argent déterminée pour réaliser un projet. Il est inutile que je répète ce que j’ai dit plus tôt, sauf que j’ajouterai, au sujet de Robbie Persad, que le fait d’engager un assistant ou un remplaçant comporte un risque de perte tout comme il était question, dans l’unique exemple offert par Robbie, d’une possibilité de profit puisqu’en cas d’urgence, il aurait très bien pu être obligé de payer 70 $ ou 75 $ pour cet assistant ou ce remplaçant. Le risque de perte montre sans équivoque que ces travailleurs sont des entrepreneurs indépendants.
+Ces lignes directrices visent toutes à m’aider à apprécier l’ensemble de la relation existant entre les parties. À cet égard, je soulignerai six des plus importants éléments de preuve qui, selon moi, établissent la nature de cette relation.
+Premièrement, il y a le droit de refuser les tâches qui leur étaient assignées. Ce point intéresse l’absence de subordination, dont j’ai déjà fait mention. De même, il existe une possibilité de profit et un risque de perte.
+Deuxièmement, la possibilité d’engager quelqu’un pour se faire assister ou remplacer, ce qui heurte de plein fouet la décision Ready Mixed Concrete; cette latitude est incompatible avec l’existence d’un contrat de louage de services.
+Troisièmement, ce droit de refus, no 1, et no 2, le droit d’embaucher, constituent une possibilité de profit et un risque de perte.
+Quatrièmement, je conclus qu’il y avait absence de supervision et de contrôle. On effectuait plutôt une surveillance des résultats, ce qui est tout aussi légitime qu’il s’agisse d’un employé ou d’un entrepreneur indépendant.
+Cinquièmement, je remarque que la plupart de ces travailleurs avaient un emploi à plein temps avant de se joindre à l’appelante. Par exemple : Mabel Minto était nettoyeuse de chambres à temps plein au Sheraton Hotel. Il était manifeste depuis le tout début que leur relation de travail avec l’appelante n’était pas exclusive. Ils avaient le droit de travailler pour d’autres, ce qui permet de croire qu’ils sont des entrepreneurs indépendants.
+Sixièmement, il ressort de la preuve, soit à nouveau le témoignage de Mme Minto, qu’ils n’étaient pas payés pour le temps supplémentaire effectué, ce qui joue en faveur de la situation d’entrepreneur indépendant.
+Il y a en réalité un septième élément qu’il convient d’examiner et qui intéresse l’ensemble de la relation, à savoir l’intention. Le droit est clair à cet égard : plus les quatre critères énoncés dans l’arrêt Wiebe Door permettent de trancher l’affaire, comme c’est le cas en l’espèce, plus l’intention des parties perd de son importance. Cette règle a été établie dans les arrêts Wolf et Royal Winnipeg Ballet, auxquels j’ai renvoyé plus tôt.
+En outre, dans la décision Goodale, dont je n’ai pas lu d’extrait plus tôt — non je fais erreur — ce n’est pas la décision Goodale.
+Oui, je veux dire l’arrêt Kilbride, dont je n’ai pas lu d’extrait plus tôt, et sur lequel l’avocat de l’intimée a attiré mon attention. Il s’agit de 2008 CAF 335, au paragraphe 11 :
+Il ne s’agit pas en l’espèce d’un cas limite où le critère dégagé dans l’arrêt Wiebe Door ne permet pas de trancher l’affaire et où la Cour doit, par conséquent, accorder davantage de poids à l’intention des parties.
+Voilà pourquoi je ne me suis pas penché sur la question de l’intention; les critères énoncés dans l’arrêt Wiebe permettent de trancher l’affaire dont je suis saisi.
+En l’espèce, il incombe à l’appelante de démolir les hypothèses que le ministre a formulées dans sa réponse à l’avis d’appel. L’avocate, Me Summerhill, a interrogé M. Procopoudis sur l’ensemble du paragraphe 17 de la réponse du ministre, laquelle comporte les hypothèses avancées par ce dernier; certaines ne sont pas du tout litigieuses tandis que d’autres sont probantes au regard des questions soumises à la Cour.
+Parmi les hypothèses probantes, M. Procopoudis s’est inscrit en faux contre celle énoncée à l’alinéa 17f) :
+[TRADUCTION]
+Les travailleurs rendaient compte à l’appelante tous les jours.
+Il a démoli cette hypothèse. Comme je l’ai déjà mentionné, on exerçait une surveillance périodique.
+De même, quant à l’alinéa 17g), j’ai conclu que ce n’est pas tant que l’appelante supervisait les travailleurs en vérifiant le travail et en faisant des recommandations; c’est plutôt que le gestionnaire immobilier et le travailleur principal ou M. Procopoudis se promenaient périodiquement sur les lieux et surveillaient les résultats, habituellement à la demande du client, ce qui ne peut être assimilé à de la supervision et à du contrôle.
+On a à la fois reconnu et nié l’exactitude de l’alinéa 17i). Les heures d’ouverture normales de l’appelante étaient de 9 h à 17 h, du lundi au vendredi. On a nié cette assertion, parce qu’elle donne l’impression que les travailleurs étaient tenus d’être présents de 9 h à 17 h. Or, selon le témoignage de M. Procopoudis, l’entreprise n’était pas exploitée comme un bureau.
+En revanche, on a reconnu l’exactitude de la seconde partie de l’assertion, à savoir que la société offrait des services de nettoyage à ses clients 24 heures par jour.
+Alinéa 17k) :
+[TRADUCTION]
+Les heures de travail des travailleurs étaient fixées par l’appelante.
+La preuve a révélé que les heures étaient fixées par le client, qu’il n’y avait pas d’heures de travail fixes, seulement des paramètres. Si j’ai bien compris, dans le cas des hôtels, les paramètres prévoyaient que les heures de travail étaient de 23 h à 5 h, moment où les cuisiniers se présentaient au travail. Dans le cas des cabinets de médecins, l’horaire était de 18 h à 6 h. Comme je l’ai déjà répété de nombreuses fois, le travailleur avait toute latitude pour décider, dans le respect de ces paramètres, du temps qu’il prenait pour effectuer son travail.
+Alinéa 17m) :
+[TRADUCTION]
+Les travailleurs étaient tenus de travailler un certain nombre d’heures pendant une période donnée.
+La preuve est muette à ce sujet. Je le répète, les travailleurs obtenaient un prix contractuel déterminé pour un projet donné; ils pouvaient réaliser un profit s’ils travaillaient rapidement et ils pouvaient subir une perte s’ils travaillaient lentement. Ils étaient libres d’établir leur propre horaire à l’intérieur de la période fixée par le client.
+L’alinéa 17n) était aussi partiellement exact. L’appelante formait les travailleurs et les payait pendant leur période de formation. La preuve révèle qu’on ne leur offrait pas de formation; il s’agissait de nettoyeurs expérimentés. Ils bénéficiaient d’une certaine orientation, parce que chaque clinique médicale et chaque hôtel rangeait ses propres outils, son propre matériel et ses propres produits nettoyants en différents endroits. Certains clients voulaient que les planchers soient nettoyés, d’autres non. La période d’orientation visant à expliquer aux travailleurs ce qu’ils devaient faire pouvait durer jusqu’à trois ou quatre heures.
+En ce qui concerne leur rémunération, la preuve montre qu’à l’origine, les travailleurs étaient payés peu de temps après leur orientation. Mais il est apparu que certaines personnes étaient seulement intéressées à se faire payer pour l’orientation et qu’elles ne revenaient pas par la suite. Le système a donc été modifié; les travailleurs étaient soumis à une période de probation de trois mois. Puis, s’ils restaient, ils étaient payés pour cette séance d’orientation.
+L’alinéa 17r) maintenant :
+[TRADUCTION]
+L’appelante assumait les coûts lorsqu’il fallait refaire le travail.
+La preuve était clairement à l’effet contraire.
+Les alinéas 17s) et 17t)tombent sous le coup de la décision Ready Mixed Concrete; les travailleurs n’étaient pas tenus de fournir leurs services eux‑mêmes et ils pouvaient engager des assistants.
+L’alinéa 17u) est une des hypothèses qui étaient en partie exactes :
+[TRADUCTION]
+L’appelante était responsable de payer les assistants et les remplaçants.
+J’ai déjà mentionné que les seuls pour lesquels payait l’appelante étaient les remplaçants à long terme; le travailleur faisait l’objet d’une déduction en conséquence.
+C’est la même chose avec l’alinéa 17v) :
+[TRADUCTION]
+L’appelante fournissait gratuitement au travailleur l’ensemble de l’outillage requis [...] et le matériel.
+La partie exacte est celle visant l’outillage; la partie inexacte est celle visant le matériel.
+Alinéa 17x) :
+[TRADUCTION]
+L’appelante était responsable de l’entretien et de la réparation de l’outillage et du matériel.
+Faux. Je dirais rapidement que je n’ai jamais vraiment eu auparavant connaissance d’un contrat d’emploi qui prévoyait une clause de ce genre; je pense que c’est onéreux et déraisonnable, mais il s’agit là d’un point de vue personnel. La preuve a montré sans équivoque que cette clause figurait dans la convention conclue. Si la courroie d’un aspirateur se brisait ou nécessitait des réparations, il incombait au travailleur de payer le coût de la réparation du matériel de l’appelante. Quoi qu’il en soit, l’hypothèse formulée à l’alinéa n 17x) a été réfutée.
+Alinéa 17z) :
+[TRADUCTION]
+Les travailleurs n’engageaient aucune dépense.
+Il n’y en avait pas beaucoup, mais, je le répète, il y avait certains uniformes, il y avait certains dommages et les travailleurs devaient remédier à leur travail défectueux ou aux bris pendant leur temps libre et à leurs frais.
+Alinéa 17cc) :
+[TRADUCTION]
+Les travailleurs étaient payés entre 5 $ et 11 $ l’heure.
+Cette hypothèse a été démolie. Alinéa 17dd) :
+[TRADUCTION]
+L’appelante fixait les taux de salaires.
+Ce fait a pour l’essentiel été établi. La seule exception touche au témoignage de M. Procopoudis voulant que les travailleurs chargés du travail lourd aient parfois exigé davantage que ce qu’il offrait. S’il bénéficiait d’une marge suffisante, il consentait à leur demande. Mais je dirais que l’exactitude de l’alinéa 17dd) a pour l’essentiel été établie.
+Selon l’arrêt Jencan Ltd., [1997] ACF no 875 (CAF), même si l’appelant ne réussit pas à démolir la totalité des hypothèses formulées par le ministre, les hypothèses qui n’ont pas été réfutées doivent être suffisantes pour étayer la décision du ministre. J’arrive à la conclusion que l’appelante a réussi à démolir un nombre suffisamment élevé des hypothèses énoncées au paragraphe 17 pour faire en sorte que celles qui restent ne permettent pas d’étayer la décision du ministre.
+Avant de terminer, je dois convenir avec Me Luu que les personnes comme Mme Minto et Mme Knight ne sont pas des dirigeantes d’entreprises averties comme M. Procopoudis. Elles ont donc agi comme si elles étaient des employées, alors que je conclus qu’il s’agissait d’entrepreneurs indépendants.
+Je dois expliquer à Mme Minto, laquelle est présente, et à quiconque daignera lire les présents motifs, que la différence ou la distinction entre un entrepreneur indépendant et un employé est une question de droit, parce que les droits de tiers sont touchés; il ne s’agit pas uniquement de ce qui est juste entre le travailleur et le payeur.
+Il est opportun de renvoyer à l’arrêt Sagaz Industries, dans lequel la Cour suprême du Canada tient les propos suivants au paragraphe 36 :
+La distinction entre un employé et un entrepreneur indépendant est utile non seulement en matière de responsabilité du fait d’autrui mais aussi lorsqu’il s’agit d’appliquer diverses lois sur l’emploi, de déterminer si une action pour congédiement injustifié peut être intentée, d’établir des cotisations en matière d’impôt sur le revenu ou de taxe d’affaires, de dresser l’ordre de collocation dans le cas où un employeur devient insolvable ou d’appliquer des droits contractuels.
+Malgré la sympathie que m’inspirent Mme Minto et Mme Knight, la décision qu’il m’incombe de rendre relève du droit. Je continuerai de suivre les règles de droit tant qu’un tribunal d’instance supérieure n’aura pas déclaré que le critère applicable a cessé d’être objectif et qu’il est dorénavant subjectif.
+J’ai examiné tous les faits touchant les parties et j’ai entendu toutes les personnes appelées à témoigner sous serment pour la première fois pour le compte des parties. J’ai découvert des faits nouveaux et certains éléments me permettent de croire que les faits inférés ou invoqués par le ministre n’existaient pas, étaient inexacts et, pour l’essentiel, mal compris. Je conclus que les travailleurs en l’espèce exploitaient une entreprise pour leur propre compte à titre de nettoyeurs.
+Les conclusions du ministre sont donc objectivement déraisonnables.
+Il importe d’établir une distinction entre la présente affaire et la preuve que j’ai entendue au titre de la décision Goodale, 2001 ACI no 261, rendue par M. le juge Porter. Une lecture superficielle de cette décision laisse à penser que les faits qui y sont visés correspondent en tous points à ceux dont je suis saisi, mais il existe des distinctions importantes.
+Dans l’affaire Goodale, certains des travailleurs étaient payés à l’heure; dans l’affaire Goodale, les travailleurs étaient tenus d’exécuter leurs services eux‑mêmes; dans l’affaire Goodale, aucun élément de preuve n’établissait que les travailleurs avaient le droit de refuser des tâches qui leur étaient assignées, et je n’ai découvert aucune possibilité de profit ni aucun risque de perte dans cette affaire, contrairement à la situation dont je suis saisi.
+En conséquence, les appels de l’appelante sont accueillis et les décisions du ministre sont annulées.
+Je vous remercie tous pour votre collaboration. Je mettrai fin à l’audience.
+LE GREFFIER AUDIENCIER : La présente audience de la Cour canadienne de l’impôt tenue à Toronto est maintenant terminée.
+--- L’audience est levée à 15 h 25.
+I HEREBY CERTIFY THAT I have, to the best
+of my skill and ability, accurately recorded
+by Stenomask and transcribed therefrom, the
+foregoing proceeding.
+Robert Lee, Certified Court Reporter
+RÉFÉRENCE :
+2009CCI340
+NOS DES DOSSIERS DE LA COUR :
+2008-2305(EI); 2008-3235(CPP); 2008-3234(EI); 2008-2307(CPP)
+INTITULÉ :
+Mediclean Incorporated et Le ministre du Revenu national et Tania Headley, Mabel Minto, Sivakumaran Muthucumaru, Juan Alfonzo
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 22 avril 2009
+MOTIFS DU JUGEMENT :
+L’honorable N. Weisman, juge suppléant
+DATE DU JUGEMENT RENDU ORALEMENT :
+Le 22 avril 2009
+COMPARUTIONS :
+Pour l’appelante :
+Me Louise R. Summerhill
+Avocat de l’intimé :
+Pour les intervenants :
+Me Hong Ky (Eric) Luu
+Mabel Minto (s’est représentée elle‑même)
+Personne n’a comparu pour le compte des autres intervenants
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

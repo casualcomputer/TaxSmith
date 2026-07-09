@@ -1,0 +1,113 @@
+Title: Yeo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25874/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-185-25874-yeo-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-03-19
+
+# Yeo v. The Queen
+
+- Citation: 2004 TCC 185
+- Decision date: 2004-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3868, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yeo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-19
+Neutral citation
+2004 TCC 185
+File numbers
+2002-1999(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1999(IT)G
+BETWEEN:
+HARRY YEO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 13, 2004 at Halifax, Nova Scotia
+By: The Honourable Justice Georgette Sheridan
+Appearances:
+Counsel for the Appellant:
+P. Robert Arkin and
+Jonathan Kenyon
+Counsel for the Respondent:
+Marcel Prevost
+_________________________________________________________
+AMENDED JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1996 taxation year is allowed with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+By Reasons for Judgment dated March 19, 2004, the Appellant's appeal was allowed without allocation of costs. In a letter dated April 13, 2004, counsel for the Appellant requested that the Appellant be granted costs in accordance with section 147 of the Tax Court of Canada Rules (General Procedure). He further argued that the Court should exercise its discretion to award costs in accordance with Class "C" of Schedule II, Tariff B, rather than Class "A". By letter dated April 15, 2004, counsel for the Respondent conceded costs to the Appellant, but urged the Court to maintain the Class "A" status of this proceeding. Counsel for the Appellant provided written rebuttal argument on April 22, 2004.
+Having read the materials filed and considered all the circumstances of this matter in light of the factors set out in subsection 147(3) of the Tax Court of Canada Rules (General Procedure), the Court is not persuaded by the Appellant's argument. Accordingly, the Appellant is awarded costs on a party and party basis in accordance with Schedule II, Tariff B, under Class "A".
+This Amended Judgment is issued in substitution for the Judgment dated March 19, 2004.
+Signed at Ottawa, Canada, this 18th day of May 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC185
+Date: 20040518
+Docket: 2002-1999(IT)G
+BETWEEN:
+HARRY YEO,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+ISSUES:
+[1] Harry Yeo is a civil engineer. In 1996, Mr. Yeo transferred his house and its contents for $712,000 to Daijoch Enterprises Ltd., a corporation of which he is the sole shareholder and director. The Minister of National Revenue disputes both the fact of the inclusion of the contents in the house transfer and the value ascribed to them. The Minister further argues that the fair market value of the property (excluding the contents) in 1996 was $520,000 and accordingly, the difference between the transfer price and the fair market value in the amount of $182,000 ought to be included in Mr. Yeo's income for 1996 as a taxable benefit from Daijoch.
+ANALYSIS
+1. Whether the contents were included in the transfer of the house and if so, what was their value.
+[2] In addition to Daijoch, Mr. Yeo is the sole shareholder of his engineering company, East Coast Steel. In 1990, ECS commenced construction of a four-bedroom home on a .37 acre waterfront lot at 5 Devon Court, a cul-de-sac of only three houses in an exclusive Charlottetown neighbourhood overlooking the harbour. ESC had been the owner of Mr. Yeo's former residence and its contents. In 1992, ECS transferred the new home and the contents of the former residence together with some newly acquired furnishings to Mr. Yeo and his then wife. Mr. Yeo continued in his role as supervisor and purchasing agent to complete the construction of the new home. He testified that 5 Devon Court was "his house of a lifetime" and certainly, he seems to have thrown himself into every detail of its design and construction with a single-minded passion. He estimated that he devoted approximately 1,500 hours of his time to the project. At some point during this period, Mr. Yeo's marriage began to disintegrate and in 1996 he executed a transfer of 5 Devon Court to his investment holding company, Daijoch, for $712,000. Although the contents were not specifically mentioned in the transfer, Mr. Yeo testified that it had always been his intention to include them in the land transfer. Advised by CCRA in 2002 that the transfer of the contents ought to have been documented, Mr. Yeo itemized the contents and estimated their value in the range of $57,000 to $62,000. He gave this information to his accountant, Mr. Fitzgerald, who prepared a document to record the transaction with a retroactive effective date of May 22, 1996.
+[3] The Court is satisfied that the contents were transferred along with the house and land to Daijoch in 1996. This is consistent with his past practice i.e., when Mr. Yeo caused ECS to transfer the house and contents to him in 1992. Although the events of this appeal have made him realize the importance of such legal distinctions, as the sole owner of his companies, he sees no practical difference between himself, ECS and Daijoch. That he intended to transfer the contents of 5 Devon Court to Daijoch is entirely consistent with his strongly expressed desire to protect his assets. In view of all of this, there is no logical basis upon which to conclude that Mr. Yeo would have intended to maintain personal ownership of the contents while transferring the house to Daijoch. On the evidence presented, the contents may be reasonably valued at $59,500, roughly the mid-point of the range estimated by Mr. Yeo.
+2. What is the fair market value of 5 Devon Court and its contents?
+[4] The value of the contents having been set at $59,500, it remains only to establish the fair market value of 5 Devon Court. Both the Minister and Mr. Yeo called expert witnesses. The Court accepts the evidence of Mr. Jack Ives, the appraiser for Mr. Yeo, a real estate agent with some 25 years experience in the Charlottetown housing market. He is a Fellow of the Real Estate Institute of Canada and a Canadian Residential Appraiser with the Appraisal Institute of Canada. Mr. Ives conducted an appraisal of 5 Devon Court in 1998 and calculated the fair market value using two different approaches: the Direct Comparison approach and the Cost approach. He ultimately rejected the use of the Direct Comparison approach because of the lack of reasonably comparable sales. The custom-built nature of 5 Devon Court and the unique quality of its secluded, yet central, waterfront location made finding similar homes for comparison unlikely. He did identify two possible sales to use in the Direct Comparison approach but felt the figure arrived at was unreliable because of the "substantial adjustments" that had to be made to ensure he was comparing "apples to apples".
+[5] For these reasons, Mr. Ives used the Cost approach to determine the fair market value of 5 Devon Court. He estimated the value of the land as if it were vacant and developed to its highest and best use. He then estimated the value of replacement costs of all improvements to the site and buildings and factored in depreciation. Mr. Ives analyzed the lot location and size and inspected the home inside and out. Photos showing numerous aspects of the property were entered as exhibits. Although his appraisal report was based on 1998 factors, it was his opinion that there had not been any significant change in value since 1996 for such a one-of-a-kind property. On cross-examination, the Minister's appraiser agreed that this conclusion might well be correct. Based on the Cost approach, Mr. Ives appraised the fair market value of the property at $650,000.
+[6] The Court is satisfied on a balance of probabilities that this is the correct value. The Minister's expert witness arrived at a lower figure of $520,000. The evidence of the Minister's appraiser was not convincing: he insisted on the superiority of the Direct Comparison approach notwithstanding the limited number of credible comparables available. The reliability of those few sales which might possibly pass for "comparables" was further weakened by his inability to inspect one of the comparables used in his report, the outdated inspection information of another and the adjustments of in excess of $100,000 necessary to convert the other sales into something approaching reasonable comparables. Unlike Mr. Ives, the Minister's appraiser was not at all familiar with the Prince Edward Island real estate market and had to rely on the opinions of unnamed sources "in the real estate business" to draw his conclusions. A further and significant weakness lay in the fact that he had never set foot on the Devon Court property. He never saw the rear of the house as it drops three storeys to a large deck which leads in turn to a lower dock. He never saw the 180-degree view of the harbour from the master bedroom. All he saw was the two-storey exterior of 5 Devon Courtas he stood in front of it on the curb. That and his admitted reliance on Mr. Ives' assessment of the interior of the home formed the basis of his evaluation of the property itself.
+[7] Accordingly, the Court accepts Mr. Yeo's evidence regarding the fair market value of 5 Devon Court of $650,000 which together with the contents valued at $59,500 totals of $709,500. The appeal is allowed and the 1996 reassessment is referred back to the Minister for reconsideration and reassessment in accordance with these reasons.
+Signed at Ottawa, Canada, this 18th day ofMay 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC185
+COURT FILE NO.:
+2002-1999(IT)G
+STYLE OF CAUSE:
+Harry Yeo v. Her Majesty The Queen
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+February 13, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF AMENDED JUDGMENT:
+May 18, 2004
+APPEARANCES:
+Counsel for the Appellant:
+P. Robert Arkin and
+Jonathan Kenyon
+Counsel for the Respondent:
+Marcel Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+P. Robert Arkin
+Firm:
+Cox, Hanson, O'Reilly, Matheson
+Halifax, Nova Scotia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

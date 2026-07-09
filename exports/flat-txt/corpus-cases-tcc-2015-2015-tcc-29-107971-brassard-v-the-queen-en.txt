@@ -1,0 +1,139 @@
+Title: Brassard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/107971/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-29-107971-brassard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-02-06
+
+# Brassard v. The Queen
+
+- Citation: 2015 TCC 29
+- Decision date: 2015-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2746, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brassard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-02-06
+Neutral citation
+2015 TCC 29
+File numbers
+2012-466(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-466(IT)G
+BETWEEN:
+JIM BRASSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 19 and 20, 2015, at
+Prince George, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+JUDGMENT
+In accordance with the Reasons for Judgment attached, the appeal against Notice of Assessment No. 787285 dated November 17, 2009 is dismissed.
+Costs are awarded in favour of the Respondent and are fixed in the amount of $2,500.00 unless, as described in the Reasons for Judgment, submissions otherwise are received by the Court within 30 days of this Judgment.
+Signed at Ottawa, Canada, this 6th day of February 2015.
+“R. S. Bocock”
+Bocock J.
+Citation: 2015 TCC 29
+Date: 20150206
+Docket: 2012-466(IT)G
+BETWEEN:
+JIM BRASSARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction [1] Section 160 of the Income Tax Act (the “Act”) prohibits indebted taxpayers from transferring property to related parties unless conveyed at fair market value for sufficient consideration. The Act accomplishes this by empowering the Minister to hold both the party transferring the property and the recipient jointly liable for the transferor’s tax debt. Generally, there are four requirements under section 160 of the Act necessary for the successful imposition of an assessment:
+1. the existence of the tax debt;
+2. the occurrence of a transfer;
+3. the parties are related in some fashion; and,
+4. the parties are jointly liable to the extent that the amount paid by the recipient to the transferor is less than the fair market value of the property at the time of the transfer.
+[2] It is the last requirement that is appealed before the Court in the present case. The Appellant challenges the Minister’s assumption of the fair market value of the property at the date of transfer and its accuracy. The second ground of appeal is whether the Appellant provided consideration for the property greater than the fair market value and, if so, by how much.
+II. Facts [3] The matter before the Court involves two brothers: the Appellant, Jim Brassard (“Jim”) and the tax debtor, Victor Brassard (“Victor”). In March of 2002, Jim transferred a certain property known as 16065 Grunerud Road, Prince George, British Columbia (the “Grunerud Property”) to Victor. The expressed market value at the time of transfer was $50,000.
+[4] During the course of 2003, Jim was assigned or petitioned into bankruptcy and was discharged as a bankrupt in 2004. In 2004, Jim purchased a mobile home worth approximately $25,000. On October 20, 2005, Victor, the owner of the Grunerud Property since the transfer by Jim in 2002, transferred the Grunerud Property back to Jim. Recorded in the actual land transfer document was a fair market value for the property of $50,000.
+[5] Unfortunately, at the time of transfer Victor owed the Minister of National Revenue some $49,703.36. As at the assessment date, when the Minister levied the section 160 assessment against Jim the amount of the tax debt, penalties, and interest owing under Part 1 of the Act by Victor to the Minister was $66,264.37 (the “Assessed Tax Debt”).
+[6] From 2002 (when Jim first transferred the property to Victor) until the assessment date in 2009, numerous improvements occurred to the Grunerud Property:
+1. the construction of a drive shed/storage facility;
+2. the fixturing and improvements related to installing a stationary, habitable mobile home;
+3. the construction of other out-buildings; and
+4. the undertaking of additional landscaping, including a more suitable access road.
+III. Law [7] The leading case relating to section 160 is Her Majesty the Queen v. Livingston, 2008 FCA 89 (“Livingston”). Encapsulated in paragraph 17 of that case is the following summary:
+In light of the clear meaning of the words of subsection 160(1), the criteria to apply when considering subsection 160(1) are self-evident:
+1) The transferor must be liable to pay tax under the Act at the time of transfer;
+2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3) The transferee must either be:
+i) The transferor’s spouse or common-law partner at the time of transfer or a person who has since become the person’s spouse or common-law partner;
+ii) A person who was under 18 years of age at the time of transfer; or
+iii) A person with whom the transferor was not dealing at arm’s length.
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+[8] The application of section 160 has been interpreted both broadly and plainly. Intention to evade, delay or defraud the Minister is not required: Her Majesty the Queen v. Rose, 2009 FCA 93 at paragraph 28. Similarly, no benefit is required to be obtained from the transaction: Bergeron-Fontaine v. Her Majesty the Queen, 88 DTC 1624 at paragraph 11.
+[9] Therefore, based upon the more recent summary in Livingston, if the consideration paid and/or tendered is less than the fair market value of the property transferred, then the recipient is liable to the Minister for the lesser of the tax debt or the deficit between the consideration paid and the fair market value of the property transferred.
+IV. Appellant’s Submissions [10] Before the Court, Jim challenges the fair market value of the Grunerud Property, which was assumed by the Minister to be $120,600 at the transfer date. In addition, Jim challenges the amount of consideration that he paid for the Grunerud Property at the transfer date.
+[11] More specifically, with respect to the fair market value, Jim challenges the assessment on the basis that it is less than the $120,600 assumed by the Minister. Jim takes this position on the basis that the appraisal is flawed because the appraiser who conducted the appraisal, and who testified as an expert at trial:
+1. was not from the area;
+2. was not familiar to an extent necessary with the properties utilized by her as comparables within the appraisal;
+3. an underlying assessment roll appraisal was employed which reflected the subsequent year’s value; and,
+4. made errors with respect to the number of mobile homes on site in 2011 when she physically inspected the Grunerud Property from the road allowance adjacent to it, but did not venture onto the premises.
+[12] Secondly, with respect to the fair market value, Jim asserts that the underlying British Columbia Assessment Authority’s appraisal is flawed because the calculation includes within it the value of Jim’s mobile home located on the property, when such mobile home was not owned by the property owner, Victor.
+[13] With respect to the actual consideration paid by Jim to Victor, which the Minister assumed to be not greater than $50,000, Jim has asserted before the Court the following submissions to show consideration was paid in excess of $50,000:
+1. Jim paid off the mortgage on the Grunerud Property prior to transfer;
+2. There were many thousands of dollars of improvements made by Jim to the Grunerud Property between the period of his transfer to Victor and Victor’s retransfer to him, in respect of which sufficient receipts were furnished to provide for such increased consideration; and,
+3. Jim destroyed all of his other receipts related to expenditures made to the Grunerud Property on the assumption that any section 160 assessment matter had been terminated by virtue of his conversations with representatives of the Canada Revenue Agency (“CRA”).
+V. Analysis [14] For the reasons which follow, the appeal is dismissed.
+[15] The appraisal conducted by Kathryn Kettner, who is a resident appraiser within the CRA, accurately assessed the Grunerud Property to have a fair market value of $175,000. The Minister in making her assumptions in the Notice of Assessment provided Jim with a $54,400 credit in relation to his mobile home and improvements related thereto on the property. This is demonstrated by the Minister’s assumption that the value of the property and improvements, excluding the mobile home, owned by Victor at the date of transfer was $120,600. The argument that the mobile home on site was included in this value is simply not logical given that it was specifically and advertently excluded by the Minister in the appraisal utilized for the purposes of the section 160 assessment.
+[16] With respect to the British Columbia Assessment Authority’s (“BCCA”) appraisal of the Grunerud Property, there was clear evidence adduced before the Court that the appraisal in relation to the transferred property referable to the 2005 transfer date was included in the 2006 BCCA assessment completed one year in arrears. It therefore correctly references land and improvements (excluding the mobile home) having a value of approximately $126,000 in 2005. Moreover, an additional reduction of $5,400 to fair market value had been provided by the Minister which yielded a final 2005 assumed value of $120,600 for the transferred property.
+[17] In addition, there was no countervailing evidence offered by Jim with respect to other appraisals undertaken during the 2005 period or at the transfer date which would suggest that the value of the Grunerud Property, excluding the mobile home, was worth anything less than $120,600. Factually, the anecdotal evidence adduced by Jim related to assessments in 1998 and 2002, related to dates when he first acquired and first disposed of the Grunerud Property. It should be noted that at those transfer dates, quite apart from the fact that the appraisals are temporally many years prior, such appraisals did not and could not have possibly accounted for the alleged improvements placed into the Grunerud Property by Jim after 2002, but before the transfer date.
+[18] With respect to the second argument that the consideration paid by Jim was greater than $50,000, no evidence of his payment of a mortgage registered on title was offered. With regard to the many thousands of dollars that Jim alleges to have paid with respect to improvements to the Grunerud Property between 2002 and the date of transfer, receipts were produced before the Court which simply do not tally to an amount greater than $13,067.90. In fact, the Court undertook a calculation of those very expenses and determined that of the $13,067.90, it is more probable than not that more than $11,267.00, being the vast majority of those expenditures, related to improvements involving Jim’s mobile home placed on the property in late 2004. As noted, the acquisition price of the mobile home was $25,000 and the Minister added a like amount in respect of improvements related to that mobile home. That $54,400 was then deducted from the assumed market value of the property at transfer date. As such, it appears that a sizeable portion of the amounts reflected in the tendered receipts have been double-counted by Jim.
+[19] There was evidence Jim paid Victor $27,000.00 by way of bank drafts around the time of the transfer date for the Grunerud Property. After giving Jim credit for that $27,000.00 and also the $13,067.90 above, and after deducting such sums from the market value of $120,600, there remains a deficiency of consideration equal to the sum of $80,532.10. It is noted by the Court that the amounts suggested by Jim of $27,000 and $13,067.90, as consideration paid for which receipts exist, are well below the $50,000 of consideration credited to him by the Minister in calculating and levying the section 160 assessment. Accordingly, after having given Jim the highest and best weight to his own documentary evidence, the deficiency in paid consideration is in excess of the Assessed Tax Debt raised by virtue of the section 160 assessment. As importantly, the deficiency in consideration is well in excess of the original tax debt owing at the time of transfer, namely $49,703.36.
+[20] Lastly, the suggestion by Jim that his destruction of other receipts was undertaken to his detriment, based upon assurances by CRA officials that there would be no further procedures with respect to section 160, is simply not supportable. There was no objective evidence raised at trial or recognition by CRA witnesses testifying that any conversations occurred, never mind along those lines. On that basis, Jim’s decision to destroy receipts which he claims would have proven additional expenditures to the Grunerud Property cannot be entertained by the Court as evidence of the existence of the receipts or the quantum of the consideration.
+VI. Conclusion and Costs [21] On the basis of the foregoing, there is no evidence before the Court which dislodges the assumptions by the Minister that the fair market value on October 20, 2005 of the transferred property was not less than $120,600, or that the consideration paid by Jim to Victor was anything more than $50,000. As a result, the subsection 160(1) levy for the Assessed Tax Debt dated November 17, 2009 stands and the appeal is dismissed.
+[22] In light of the fact that no discoveries were held in this matter and owing to the relatively streamlined fashion in which the litigation was undertaken by the Appellant, costs are awarded to the Respondent, but are fixed in the amount of $2,500.00. Either party shall have a right to make further written submissions to the Court in respect of costs should either party elect to do so within 30 days.
+Signed at Ottawa, Canada, this 6th day of February 2015.
+“R. S. Bocock”
+Bocock J.
+CITATION:
+2015 TCC 29
+COURT FILE NO.:
+2012-466(IT)G
+STYLE OF CAUSE:
+JIM BRASSARD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Prince George, British Columbia
+DATE OF HEARING:
+January 19 and 20, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+February 6, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

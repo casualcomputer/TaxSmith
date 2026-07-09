@@ -1,0 +1,293 @@
+---
+title: "Papineau v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26387/index.do"
+last_modified: "2004-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 768"
+citation2: ""
+neutral_citation: "2004 TCC 768"
+decision_date: "2004-12-21"
+language: "en"
+item_id: "26387"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3334
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:42:58.915000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c2af28cc22f144a67a84563b0d17a0f73143e5a4912969588f388471d0a518b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Papineau v. M.N.R.
+
+- Citation: 2004 TCC 768
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3334, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Papineau v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-21
+Neutral citation
+2004 TCC 768
+File numbers
+2004-730(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-730(EI)
+BETWEEN:
+ISABELLE PAPINEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+QUALIFRUIT INC.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on common evidence with the appeal of Qualifruit Inc. (2004‑727(EI)) on October 27, 2004, at Montreal, Quebec.
+Before: The Honourable Deputy Justice S.J. Savoie
+Appearances:
+For the Appellant:
+The Appellant, Isabelle Papineau
+Counsel for the Respondent:
+Emmanuelle Faulkner
+For the Intervenor:
+Yvon Laurin
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister’s decision is vacated in accordance with the attached Reasons for Judgment.
+Signed at Grand Barachois, New Brunswick, this 21st day of December 2004.
+“S.J. Savoie”
+Savoie D.J.
+Translation certified true
+on this 30th day of March 2005.
+Colette Dupuis-Beaulne, Translator
+Docket: 2004-727(EI)
+BETWEEN:
+QUALIFRUIT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ISABELLE PAPINEAU,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Isabelle Papineau (2004‑730(EI)) on October 27, 2004, at Montreal, Quebec.
+Before: The Honourable Deputy Justice S.J. Savoie
+Appearances:
+For the Appellant:
+Yvon Laurin
+Counsel for the Respondent:
+Emmanuelle Faulkner
+For the Intervenor:
+The Intervenor, Isabelle Papineau
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister’s decision is vacated in accordance with the attached Reasons for Judgment.
+Signed at Grand Barachois, New Brunswick, this 21st day of December 2004.
+“S.J. Savoie”
+Savoie D.J.
+Translation certified true
+on this 30th day of March 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC768
+Date: 20041221
+Docket: 2004-730(EI)
+BETWEEN:
+ISABELLE PAPINEAU,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+And
+QUALIFRUIT INC.,
+Intervenor.
+AND
+Docket: 2004-727(EI)
+QUALIFRUIT INC.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+And
+ISABELLE PAPINEAU,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] These appeals were heard on common evidence in Montreal, Quebec, on October 27, 2004.
+[2] The appeals concern the insurability of the employment of Isabelle Papineau, the Worker, with the Appellant, Qualifruit Inc., from May 30, 2002, to May 30, 2003, the period at issue, within the meaning of the Employment Insurance Act (the “Act”).
+[3] On January 26, 2004, the Minister of National Revenue (the “Minister”) informed the Appellant of the decision rendered to the effect that the Worker’s employment with the Appellant was insurable employment during the period at issue. The Minister also ruled that the Worker had a total of $22,400 in insurable earnings in the last 14 pay periods, and a total of 1,820 hours of insurable employment.
+[4] The Minister based the decision that the Worker held insurable employment with the Appellant under a contract of employment on the following presumptions of fact:
+5(a) the Appellant was incorporated on February 11, 1983; (admitted with explanations)
+(b) the Appellant was running a fruit and vegetable retail sales firm; (admitted with explanations)
+(c) the Appellant hired about 25 employees, depending on the time of the year, three of which did administrative work while the others were sales and customer service clerks; (admitted with explanations)
+d) the Appellant had $2,800,000 in sales in 2002 and $3,000,000 in 2003; (admitted)
+e) the Worker was hired as a bookkeeper; (denied)
+f) the Worker’s duties involved accounting, including accounts payable, paycheques, preparing documents for the external auditor and occasionally running errands; (denied)
+g) the Worker worked Monday to Friday, from 9:00 a.m. to 4:00 p.m.; (denied)
+h) the Worker worked 35 hours a week for the Appellant; (denied)
+i) the Worker worked on the Appellant’s premises; (admitted)
+j) the Worker received instructions on the duties to be performed from Yvon Laurin or the external auditor; (denied)
+k) the Appellant had the authority to control the Worker’s work; (denied)
+l) the Worker was paid $800.00 a week; (admitted)
+m) the Worker was paid through direct deposit every two weeks; (admitted)
+n) the Appellant owned all the material and equipment the Worker used; (admitted)
+o) the Worker did not assume any financial risk in performing her duties; (denied)
+p) the Worker’s duties were integrated into the Appellant’s activities; (denied)
+q) the Worker received $1,600 via direct deposit every two weeks; (admitted)
+r) the Worker was paid $22,400 for the last 14 pay periods, that is, $1,600 multiplied by 14 pay periods; (admitted)
+s) the Appellant’s records showed that the Worker worked 70 hours per pay period; (denied)
+t) during the period at issue, the Worker accumulated a total of 1,820 hours of insurable employment, that is, 70 hours multiplied by 26 pay periods. (denied)
+6. The Worker and the Appellant are related within the meaning of the Income Tax Act because:
+a) the Appellant’s shareholders with voting rights were: (admitted)
+Yvon Laurin 75 % of voting rights
+Dominic Laurin 25 % of voting rights
+b) the Worker is Yvon Laurin’s spouse; (admitted with explanations)
+c) the Worker is related to Yvon Laurin, who controls the Appellant. (admitted)
+7. The Minister also found that the Worker and the Appellant were deemed to have an arm’s length relationship in the case of this employment because the Minister was convinced that it was reasonable to conclude that the Worker and the Appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length, given the following circumstances:
+a) the Worker was always paid; (denied)
+b) the Worker’s remuneration was reasonable considering the tasks carried out and her level of responsibility in the firm; (denied)
+c) the Worker had regular, not excessive, hours of work; (denied)
+d) the Worker’s terms and conditions of employment were reasonable; (denied)
+e) there were no breaks in the Worker’s employment with the Appellant; (denied)
+f) the Worker’s work met the Appellant’s requirements; (denied)
+g) the duration of the Worker’s employment was reasonable; (denied)
+h) the Worker’s work was key to the smooth running of the Appellant’s business; (denied)
+i) the Worker’s work was important to the Appellant’s business; (admitted)
+j) the nature and importance of the Worker’s work were reasonable. (denied)
+[5] The Appellant has been running his fruit and vegetable retail sales firm since 1979, distributes produce to institutions, and has developed “Les Étales”, a specialized food group concept.
+[6] The Appellant has about 30 employees, three of whom are administrative. The Worker has no accounting training. She was a pay clerk at Laval’s Cité de la santé before the Appellant hired her.
+[7] The Worker has been married to the Appellant’s principal shareholder for ten years. The Appellant hired her so that she would be closer to her family and spend more time at home looking after her family, since her eldest daughter was starting school.
+[8] It was established that the Appellant also wanted to claim a tax benefit for having the Worker as an employee.
+[9] The Worker therefore left her employment in order to work from her home, where she could work for the Appellant and look after her children. The Worker held a management position, meaning that she made a large contribution, which was deemed essential to the firm. The Worker’s culinary knowledge from her hotel industry training was a significant contribution to the Appellant’s success.
+[10] Although the Worker has no accounting training, she supervised Marie‑Josée Brunet, who replaced Line Gauthier, the secretary-accountant.
+[11] It was established that the Worker was scheduled to work for the Appellant in such a way that allowed her to look after her children, their school and extra-curricular activities, and her home because her husband was often on the road. The Worker looked after the worksite when their house was being built.
+[12] The Worker did not have a fixed work schedule nor was she required to work a minimum number of hours.
+[13] The Worker also worked at home for the Appellant. The external auditor explained how to do her work, not Yvon Laurin, her husband, who left every morning to make his purchases and deliveries.
+[14] Since the Appellant considered her a manager, she provided the firm with specific analyses on request.
+[15] Yvon Laurin said that the Appellant had found the Worker duties that would not interfere with her family obligations and allow her to work at home. The only specific task the Worker was required to perform was to issue the bi-monthly paycheques, which took three hours, twice a month. When the secretary‑accountant returned from maternity leave, the Worker worked only four days a week.
+[16] The Worker could do the paycheque work when she wanted, provided that she met both monthly deadlines. She could carry out all her duties when she was available.
+[17] Mr. Laurin cast doubt on the Minister’s statement to the effect that the Worker did not assume any risk. He pointed out that the Worker is his wife and that they own property together. He said that he signed bank loans and therefore risks losing his property if the firm incurs losses. He said that if he loses, she loses too.
+[18] According to the Appellant, the Worker’s duties involved the firm’s management. She could miss one day of work without the firm having to replace her.
+[19] According to the Appellant, the Worker was paid on a weekly, not hourly, basis.
+[20] Mr. Laurin testified that the Worker’s 70 bi-monthly hours had absolutely no connection to her actual hours of work. He said that she worked far fewer hours.
+[21] The Worker became the Appellant’s salaried worker on October 1, 2001. According to the Appellant, the Worker was paid for her management work for the firm, which benefited from her research into squash that led to the preparation of a recipe booklet for customers and the customer reward program.
+[22] The Worker does not supervise other employees. Her husband, Yvon Laurin, does.
+[23] Based on the evidence, it was established that the Worker's work hours were not regular; they varied according to the demands of family life. The evidence the Appellant provided at the hearing proved that the Minister’s statements in Paragraph 7 of the Reply to the Notice of Appeal were false. The Minister had stated that the firm’s basic workforce was comprised of the other employees and that the Worker had working conditions that the other employees were never allowed. Mr. Laurin said that the firm was run by three people: Yvon Laurin, Dominic Laurin and the Worker.
+[24] Throughout his testimony, Yvon Laurin maintained that the Worker was hired when her eldest daughter started school in August 2001. Then, when Line Gauthier went on maternity leave in January 2002, the Worker was asked to supervise the replacement, Marie-Josée Brunet. When Ms. Gauthier returned to work, the Worker assisted her in preparing the annual report because the fiscal year was drawing to a close. She then assisted during the transitional period before the accounting software was changed.
+[25] It was established that the Worker also carried out duties for her father and brother’s firm during the period at issue.
+[26] The Worker testified that she never had regular hours of work. She told the investigators that her hours of work varied widely. A typical day for her began in the Appellant’s office between 9:15 and 9:30, after she had dropped her children off at school. When she arrived, she looked after the mail, did some banking and ran some errands. She prepared paycheques for the employees every two weeks. She ate lunch with her husband at noon, whenever possible, then worked until 3:15 when she went to pick her children up at school.
+[27] She stated that she never had any fixed work hours. The time she spent at work was never calculated.
+[28] Based on the evidence provided at the hearing, the Worker apparently worked for the Appellant for four hours and 15 minutes or four hours and 30 minutes, during which time she left the office without permission to look after all her personal and her family’s needs, such as her and her children’s appointments at the dentist, the doctor, for manicures, school and extra-curricular activities, her children’s dance classes, etc.
+[29] The appeals officer seemed to be surprised by the Worker’s description of her typical day of work and the officer testified that if she had known what she knew after the hearing, she would have investigated more extensively. She was unable to contradict the facts provided by the Worker and Yvon Laurin to prove that the Minister’s assumptions were incorrect. The appeals officer testified that she did not ask the Worker how she used her time or obtain details on the distribution of her duties. She said that she did not obtain details on the Worker’s day-to-day work.
+[30] However, the appeals officer said she knew that the Worker could leave to look after her and her children’s needs, their school activities, etc., which was not at all in keeping with her conclusion of fixed hours and rates and does not support many of her conclusions concerning the nature of the Worker’s work.
+[31] The appeals officer admitted that her investigation did not extend to discovering how the Worker used her time. In many ways, the evidence provided by the Appellant and the Worker was not contradicted by the Minister’s.
+[32] The Appellant proved, among other things, that:
+1. the Worker was hired with a view to bringing her closer to her home and children;
+2. the Worker was hired because of the tax benefit the Appellant, and particularly her husband, received;
+3. the Worker’s only mandatory duty consisted in issuing employees’ paycheques, which took three hours, twice a month;
+4. the Worker came and went as she pleased while the other employees were monitored and supervised;
+5. the Appellant maintained that the Worker’s employment depended on her family obligations and her children;
+6. the Worker’s husband, Mr. Yvon Laurin, stated that no other employee would have had similar working conditions;
+7. the Worker was hired because her eldest daughter was starting school;
+8. the Worker had no accounting training, but she supervised the secretary-accountant;
+9. the Appellant did not supervise the Worker or her work;
+10. Mr. Laurin said that there was no connection between the record of the Worker’s 70 hours of work and her actual hours of work;
+11. the evidence heard at the hearing contradicted the information in the Appellant’s records concerning the Worker’s number of hours;
+12. Mr. Laurin said that there was no connection between the Worker’s remuneration and her duties.
+[33] The Appellant’s majority shareholder, Mr. Yvon Laurin, and the Worker, are related within the meanings of sections 251 and 252 of the Income Tax Act, because they are married.
+[34] In rendering the decision, the Minister found that the Worker and the Appellant were deemed to be dealing with each other at arm’s length in the case of this employment, because having regard to all the circumstances, it was reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[35] The Minister reached this conclusion by fulfilling the mandate conferred under paragraph 5(3)(b) of the Act, excerpts of which follow:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[...]
+5. (2) Insurable employment does not include
+[...]
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[...]
+5. (3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[36] The Appellant and the Worker were asking the Court to vacate the Minister’s decision.
+[37] The Federal Court of Appeal set out the application principles for resolving the issue before this Court in Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878, of which the following is an excerpt:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable"
+[38] It is doubtful whether the Appellant would have entered into a contract of employment substantially similar to that in the case at hand with an unrelated person. Would this person have had the same benefits as those enjoyed by the Worker in the case at hand? Would he or she have been hired to bring him or her closer to his or her home or that of the principal shareholder or to ensure that the firm and its principal shareholder obtained a tax benefit? Would his or her schedule have been as flexible, and would he or she have had unrestricted freedom to leave the workplace to look after his or her personal affairs, those of his or her children and the home? Would the employer have given him or her working conditions to which the other employees were in no way entitled? Would he or she been paid full time when his or her only mandatory task took six hours of work a month? Would he or she have been hired because his or her daughter was starting school? Would he or she have been able to work without supervision? Would he or she have been entitled to remuneration regardless of his or her work hours or duties? Based on the evidence heard at the hearing, we are forced to respond in the negative to all these questions.
+[39] Mr. Laurin, the principal shareholder, testified that there is no question that an unrelated employee would not have been given such benefits. Further, the most important thing was that the Worker could look after the family home and her children. His testimony was corroborated by the Worker’s.
+[40] After reading the evidence provided at the hearing and listening to the arguments, based on the applicable legislation and jurisprudence cited, this Court feels that in carrying out the exercise in paragraph 5(3)(b) of the Act, the Minister did not correctly assess the facts, and consequently, the conclusion no longer seems reasonable.
+[41] Therefore, since the Worker’s employment came under paragraph 5(2)(i) of the Act, it is not insurable employment, because this Court is convinced that having regard to all the circumstances, it is unreasonable to conclude that the Appellant and the Worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[42] Consequently, the appeals are allowed and the Minister’s decision vacated.
+Signed at Grand Barachois, New Brunswick, this 21st day of December 2004.
+“S.J. Savoie”
+Savoie D.J.
+Translation certified true
+on this 30th day of March 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC768
+COURT DOCKET NO:
+2004-730(EI) and 2004-727(EI)
+STYLE OF CAUSE:
+Isabelle Papineau and M.N.R. and
+Qualifruit Inc. and Qualifruit Inc. and M.N.R. and Isabelle Papineau
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+October 27, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Deputy Justice S.J. Savoie
+DATE OF JUDGMENT:
+December 21, 2004
+APPEARANCES:
+For the Appellants:
+Isabelle Papineau:
+Qualifruit Inc.:
+The Appellant, Isabelle Papineau
+Yvon Laurin (Representative)
+For the Respondent:
+Emmanuelle Faulkner
+For the Intervenors:
+Qualifruit Inc.:
+Isabelle Papineau:
+Yvon Laurin (Representative)
+The Intervener, Isabelle Papineau
+SOLICITOR OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervenors:
+Name:
+Firm:

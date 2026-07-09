@@ -1,0 +1,132 @@
+Title: Boily c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26711/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-308-26711-boily-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-05-31
+
+# Boily c. La Reine
+
+- Citation: 2006 CCI 308
+- Decision date: 2006-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3427, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boily c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-31
+Référence neutre
+2006 CCI 308
+Numéro de dossier
+2001-2006(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2006(IT)G
+ENTRE :
+MICHEL BOILY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 12 mai 2006, à Chicoutimi (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocate de l'appelant :
+Me Carol Girard
+Avocat de l'intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 1990 à 1992, sont admis.
+L'appel de la cotisation établie en vertu de la Loi pour l'année 1993, est rejeté.
+Le tout selon les motifs du jugement ci-joints. La moitié des frais est accordée en faveur de l'appelant.
+Signé à Ottawa, Canada, ce 31e jour de mai 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI308
+Date : 20060531
+Dossier : 2001-2006(IT)G
+ENTRE :
+MICHEL BOILY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'appels concernant les années d'imposition 1990 à 1993.
+[2] La question en litige est de savoir si l'appelant a acquiescé à de faux énoncés dans ses déclarations de revenu pour les années d'imposition en litige, au sens du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ), pour obtenir sans droit des remboursements d'impôt.
+[3] Trois chèques de remboursement ont été émis à l'appelant. L'appelant affirme n'avoir jamais reçu les deux premiers. Il admet avoir reçu le troisième.
+[4] Je cite les paragraphes 9 et 10 de l'avis d'appel :
+9. Monsieur Michel Boily n'a jamais eu connaissance que les chèques du 20 mai 1993 au montant de 5 329,22 $ et du 8 novembre 1993 au montant de 4 768,21 $ avaient été émis et n'a jamais encaissé ou bénéficié du montant de ces chèques.
+10. En ce qui concerne le chèque du 30 janvier 1995 au montant de 3 726,17 $, monsieur Michel Boily reconnaît l'avoir encaissé croyant sincèrement y avoir droit suite aux représentations qui lui avaient été faites par monsieur Mario Boucher, alors employé de Revenu Canada.
+[5] Monsieur Roland Pelletier, retraité depuis le 2 février 2006, a été l'agent du ministre du Revenu national (le « Ministre » ) pour ces enquêtes. Il a expliqué que monsieur Mario Boucher était un employé de Revenu Canada qui avait le pouvoir administratif d'autoriser les remboursements d'impôt. Au moyen d'un stratagème, il utilisait les commandes électroniques du système pour permettre des remboursements d'impôt frauduleux pour lesquels il touchait une ristourne d'environ 66 pour cent de la part des contribuables concernés.
+[6] Le rapport de la première entrevue avec l'appelant, tenue le 4 mai 2000, a été déposé comme pièce A-3. L'appelant dit qu'il ne savait pas le sujet exact de l'entrevue quand il est arrivé au lieu de la rencontre le 4 mai 2000. Monsieur Pelletier ne se souvient pas que l'objet spécifique de la rencontre, tel que mentionné au rapport, avait été expliqué à l'appelant.
+[7] L'objet de la rencontre se lit comme suit :
+Objet de la rencontre :
+La rencontre a pour principal objectif de connaître les faits entourant l'émission par le Centre Fiscal de Jonquière des rois chèques suivants :
+20/05/1993
+5 329,22 $
+08/11/1993
+4 768,21 $
+30/01/1995
+3 726,17 $
+[8] Voici certains énoncés de ce rapport :
+...
+Par la suite, nous mentionnons à monsieur Boily que nous travaillons pour la Division des enquêtes de l'Agence des Douanes et du Revenu du Canada et que nous voulons connaître les faits entourant l'émission de trois chèques par le Centre Fiscal de Jonquière (5 329,22 $, 4 768,21 $ et 3 726, 17 $). Par la suite, suite aux différentes questions que nous lui avons posées, monsieur Boily nous a mentionné les choses suivantes :
+...
+Il a un compte de banque à la Banque Nationale de Chicoutimi-Nord;
+Il connaît Mario Boucher du Centre Fiscal de Jonquière car il a déjà habité chez lui pendant environ cinq mois lors de son divorce;
+Mario Boucher lui a déjà offert de vérifier ses rapports d'impôt. À ce sujet, il se souvient avoir reçu un chèque de remboursement d'environ 3 700 $, et de ce montant, il pense avoir remis 1 200,00 $ en argent à Mario Boucher;
+Il ne se souvient aucunement des deux autres chèques de remboursement et il ne comprend pas ce qui s'est passé dans son dossier. D'ailleurs, il mentionne n'avoir jamais reçu cet argent;
+Nous mentionnons à monsieur Boily que nous allons faire sortir une copie des trois chèques de remboursement et que nous allons le contacter par la suite.
+[9] Il y a eu une autre entrevue le 7 juin 2000 (pièce A-4). L'objet de la rencontre est le suivant :
+Objet de la rencontre :
+La rencontre a pour principal objectif des autorisations bancaires signées par monsieur Boily
+[10] Ce rapport énonce notamment :
+...
+Monsieur Boily mentionne ensuite qu'il n'a pas reçu le chèque de 5 329,22 $ daté du 20 mai 1993 et celui de 4 768,21 $ daté du 8 novembre 1993. Cependant, il reconnaît sa signature au verso du chèque de 3 726,17 $ daté du 30 janvier 1995.
+...
+[11] La pièce A-2 est un tableau préparé par monsieur Pelletier à partir des relevés électroniques produits à l'onglet 8 de la pièce I-1. Cette pièce A-2 montre les sources des remboursements et les années relatives à chacun des remboursements. Ainsi, pour le remboursement au montant de 3 726,17 $ reçu en 1995, il y a eu une perte d'entreprise réclamée au montant de 42 500 $ pour l'année 1993.
+[12] Le chèque, daté du 30 janvier 1995, se retrouve à l'onglet 6 de la pièce I-1. Il porte une adresse postale. Il s'agit, selon l'appelant, de l'adresse de sa mère.
+[13] L'appelant s'est séparé de sa première conjointe en 1991. Il a d'abord habité chez sa mère. Par la suite, il a loué une chambre chez monsieur Mario Boucher. Il le connaissait parce que, à un certain temps, un frère de ce dernier a fréquenté la soeur de sa première femme. Bien qu'il ait loué une chambre chez monsieur Boucher, il y habitait très peu, car il avait à ce moment commencé à fréquenter sa nouvelle conjointe. Ce qui explique pourquoi, il avait gardé l'adresse postale de sa mère.
+[14] En ce qui concerne la réception du chèque au montant de 3726,17 $, l'appelant a admis avoir remis 1 200 $ à monsieur Boucher si ce n'est, près de la moitié. Il a relaté ne pas s'être senti à l'aise d'avoir posé un tel geste et par la suite n'a jamais demandé à monsieur Boucher de faire ses déclarations de revenu.
+Analyse et conclusion
+[15] Il me serait difficile de conclure que l'appelant a reçu les deux premiers chèques alors que sa version des faits à ce sujet n'a jamais changé. Il a toujours affirmé ne pas avoir reçu ni encaissé ces chèques. Il n'y a aucune preuve au contraire.
+[16] Comme les deux premiers chèques, au sujet desquels il n'y a aucune preuve liant l'appelant à leur réception, concernent les années 1990 à 1992, les appels concernant ces années sont accordés.
+[17] En ce qui concerne l'année 1993, le fait même de remettre un montant de 1 200 $ et peut être même plus sur un chèque de 3 726,17 $, qui est censé être un remboursement d'impôt et donc un montant auquel le contribuable a plein droit, démontre que l'appelant a acquiescé à l'acte fautif. Lui-même affirme qu'il s'est rendu compte que ce n'était pas acceptable car par la suite il n'a plus jamais demandé à monsieur Boucher de préparer ses déclarations de revenu.
+[18] L'appel pour l'année 1993 doit être rejeté.
+[19] En ce qui concerne les frais, l'avocat de l'appelant a mentionné que je devrais prendre en compte la proposition de règlement de rembourser le montant du chèque. Ce montant malheureusement ne couvre même pas la moitié de la cotisation pour l'année 1993. Tout de même, si je prends la totalité de l'impôt en jeu sur les quatre années, il me faut constater que l'appelant a eu gain de cause pour près de la moitié. Dans ces circonstances, je suis d'avis que la moitié des frais peut être accordée à l'appelant.
+Signé à Ottawa, Canada, ce 31e jour de mai 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI308
+N º DU DOSSIER DE LA COUR : 2001-2006(IT)G
+INTITULÉ DE LA CAUSE : MICHEL BOILY c. LA REINE
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATE DE L'AUDIENCE : le 12 mai 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 31 mai 2006
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Carol Girard
+Avocat de l'intimée :
+Me Martin Gentile
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelant:
+Nom : Me Carol Girard
+Cabinet : Girard, Allard, Guimond, Ste-Marie
+Chicoutimi (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

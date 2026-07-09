@@ -1,0 +1,166 @@
+---
+title: "Desjardins v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27416/index.do"
+last_modified: "2006-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 645"
+citation2: ""
+neutral_citation: "2006 TCC 645"
+decision_date: "2006-12-14"
+language: "en"
+item_id: "27416"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 238
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:28:04.306000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2755df49adaa7296eb51d50f858c31993514753eb902110d74003a64bd5aa138"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desjardins v. M.N.R.
+
+- Citation: 2006 TCC 645
+- Decision date: 2006-12-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 238, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desjardins v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-14
+Neutral citation
+2006 TCC 645
+File numbers
+2006-955(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-955(EI)
+BETWEEN:
+CAROL DESJARDINS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 21, 2006, at Montréal, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 14th day of December 2006.
+"S.J. Savoie"
+Savoie D. J.
+Translation certified true
+on this 11th day of July 2007.
+Brian McCordick, Translator
+Citation : 2006TCC645
+Date: 20061214
+Docket: 2006-955(EI)
+BETWEEN:
+CAROL DESJARDINS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D. J.
+[1] This appeal was heard on September 21, 2006, at Montréal, Quebec.
+[2] It is an appeal from a decision of the Minister of National Revenue ("the Minister") pertaining to the number of insurable hours that the Appellant worked while employed by Louis Desjardins, carrying on business as "Desjardins enreg.9" ("the Payor") from February 23 to October 21, 2004 ("the period in issue").
+[3] On November 23, 2005, the Minister notified the Appellant of his decision that the Appellant had 764 hours of insurable employment. At the heart of this dispute is the Minister's determination that the allowance forwarded to the Commission de la construction du Québec ("the Commission") does not create insurable hours for the Appellant.
+[4] In making his decision, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+5. a) The Payor was licensed on September 29, 1997. (admitted)
+(b) Louis Desjardins is the sole owner of the business. (admitted)
+(c) The Appellant is Louis Desjardins' brother. (admitted)
+(d) The Payor operated a masonry business. (admitted)
+(e) The Appellant was hired as a bricklayer apprentice. (admitted)
+(f) The Appellant's working conditions were governed by the order respecting Quebec construction employees. (admitted)
+(g) The Payor paid Appellant by the hour in accordance with the rules set out in the order. (admitted)
+(h) On November 23, 2004, the Payor issued a Record of Employment to the Appellant indicating that the first day of work was February 23, 2004, that the last day worked was October 21, 2004, that the total hours of insurable employment were 764 hours and that the total insurable earnings were $18,499.95. (denied)
+(i) The Appellant was paid by the Payor for his hours worked. (admitted)
+(j) The Payor had to forward to the Commission de la construction du Québec an allowance equal to 11% of the remuneration earned by the Appellant each week. (admitted, except that the Appellant says that this amount is 11.5%)
+(k) This allowance consisted of 6% as compulsory annual vacation and 5% as public holidays not worked (admitted, except that the Appellant says that the amount is 5.5%, not 5%)
+(l) The Commission de la construction du Québec had to pay these allowances to the Appellant on the dates specified in the order. (admitted)
+(m) On public holidays, the Appellant received no pay from the Payor. (admitted)
+(n) On public holidays, the Appellant had no hours of insurable employment. (denied)
+(o) The allowances forwarded to the Commission de la construction du Québec did not generate insurable hours for the Appellant. (denied)
+[5] The Appellant admitted all the Minister's assumptions of fact except those set out in subparagraphs 5(h), (j), (k), (n) and (o), which he denied.
+[6] The evidence discloses that, on November 23, 2004, the Payor did indeed issue a Record of Employment (ROE), as stated in paragraph 5(h) of the Reply to the Notice of Appeal.
+[7] However, it has been shown that, on December 15, 2004, the Payor provided the same worker with another ROE for the same period as the previous ROE, but in which the Payor reported 820 hours of insurable employment.
+[8] At the hearing, the Appellant explained that the second ROE was prepared at his request after he learned that the computation of his hours of insurable employment had not taken into account the allowances which the Payor had forwarded to the Commission.
+[9] At the hearing, the Appellant specified that the Payor had to forward an allowance to the Commission equal to 11.5% of the Appellant's remuneration, which represented 6% for compulsory annual vacations and 5.5% for public holidays not worked.
+[10] Thus, this Court must determine what the Appellant's hours of insurable employment were during the period in issue, or, to further circumscribe the debate, whether the allowance forwarded to the Commission creates hours of insurable employment for the Appellant.
+[11] On several occasions, a false interpretation of the scope of section 9.1 of the Employment Insurance Regulations has given rise to some confusion as to whether allowances forwarded to the Commission are insurable.
+[12] This Court had to decide this issue in Massicotte v. Minister of National Revenue, 1999-238 (EI), April 20, 2000, [2000] T.C.J. No. 244, where Cuddihy J., after providing a brief historical overview of the issue, stated as follows at paragraph 20:
+This regime was put in place to correct a number of deficiencies as a result of which a number of workers were often deprived of all vacation pay mainly as a consequence of construction workers' high degree of mobility. Indeed, it has long been acknowledged that a large proportion of workers in the construction industry work for a number of different employers in the course of a single year, depending on the contracts obtained by those employers. As a result of this situation, at annual vacation time, workers had to run from one employer to another to claim their vacation pay, which very often could not be recovered either because the employer was insolvent or had simply disappeared.
+The Quebec legislator thus decided a number of years ago to correct the situation by introducing a special regime under which the vacation pay amount would be paid every week and remitted to a third party who would hold it in trust for and on behalf of the workers and would pay them this vacation pay twice a year.
+. . . provide that every employee shall have four weeks of compulsory annual vacation each year (two weeks in summer and two weeks in winter) as well as a certain number of statutory holidays. Thus each week, in addition to paying them their normal wages, the employer is required to pay each worker an amount equal to 11% of wages . . .
+…Giroux v. Canada (Employment and Immigration Commission), A-527-87, April 15, 1988).
+In that case, Pratte J., writing for the Court, held that the amounts received by a construction worker could not be earnings at the time they were paid by the Commission de la construction du Québec since it merely remitted to the employees their own savings. This reasoning by the Federal Court of Appeal confirmed with respect to Quebec construction industry workers the reasoning adopted by the Supreme Court of Canada in Bryden, [1982] 1 S.C.R. 443, and reaffirmed by the Federal Court of Appeal in Vennari, [1987] 3 F.C. 129.
+The point to be taken from these decisions is that the amounts paid by a trustee to an employee as vacation pay cannot be considered to be earnings at the time they are paid. Instead these amounts constitute earnings at the time the employer pays them to the employee since that is when the employee is taxed on those amounts and pays employment insurance premiums.
+It is thus in this specific context that one must determine the application of section 10.1 of the Employment Insurance Regulations to the amounts paid to an employee by his employer each week in respect of annual vacation and statutory holidays.
+[13] What, then, are the Appellant's hours of insurable employment? Such hours are determined by section 9.1 of the Regulations because his earnings are paid on an hourly basis, and he is therefore considered to have worked in insurable employment during the number of hours that he actually worked and for which he was remunerated prior to the termination of employment.
+[14] Does the amount equal to 11.5% of the salary earned, an amount which the Payor forwarded to the Commission at the end of each week as compulsory annual vacation and statutory holiday pay, create hours of insurable employment?
+[15] In my opinion, the decision of the Federal Court of Appeal in Giroux, supra, must apply.
+[16] The annual vacation allowances that the Appellant received from the Commission are not to be treated as remuneration. In my opinion, the reasoning continues to be valid and does not change whether the insurable period is calculated in weeks or in hours.
+[17] This dispute must be settled in accordance with section 9.1 of the Employment Insurance Regulations, which provides that where a person's earnings are paid on an hourly basis, the person is considered to have been working in insurable employment during the number of hours that the person actually worked and for which the person was remunerated.
+[18] The evidence discloses that the Minister properly determined the Appellant's number of hours of insurable employment under section 9.1 of the Employment Insurance Regulations and in accordance with the interpretation articulated in the cases cited above.
+[19] The Appellant has not succeeded in proving that this Court's intervention is warranted, and this Court must find that, in accordance with the Employment Insurance Regulations, the Appellant had 764 hours of insurable employment, that is to say, that the allowances paid to the Commission do not create hours of insurable employment for the Appellant.
+[20] Consequently, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick), this 14th day of December 2006.
+"S.J. Savoie"
+Savoie D. J.
+Translation certified true
+on this 11th day of July 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC645
+COURT FILE NO.: 2006-955(EI)
+STYLE OF CAUSE : CAROL DESJARDINS AND M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 21, 2006
+REASONS FOR JUDGMENT BY: The Honourable Deputy Judge S.J. Savoie
+DATE OF JUDGMENT: December 14, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,142 @@
+Title: Pelletier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26546/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-237-26546-pelletier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-04-13
+
+# Pelletier v. The Queen
+
+- Citation: 2006 TCC 237
+- Decision date: 2006-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3360, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-13
+Neutral citation
+2006 TCC 237
+File numbers
+2005-3134(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3134(IT)I
+BETWEEN:
+JACQUES PELLETIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on March 9, 2006, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+the Appellant himself
+Counsel for the Respondent:
+Nathalie Lessard
+_______________________________________________________________
+JUDGMENT
+The Appeal from the assessment under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, this 13th day of April 2006.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 29th day of October 2006.
+Gibson Boyd , Translator
+Citation: 2006TCC237
+Date: 20060413
+Docket: 2005-3134(IT)I
+BETWEEN:
+JACQUES PELLETIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from a reassessment for the 2003 taxation year.
+[2] The issue is whether a sum withdrawn from a Registered Retirement Savings Plan (“RRSP”) must be included in the calculation of the Appellant’s income, although, according to him, the corresponding sum was not deducted in the calculation of his income for the prior years. Sections 56 and 146 of the Income Tax Act (the “Act”) are applicable.
+[3] In his reassessment, the Minister of National Revenue (the “Minister”) relied on the following facts described in paragraph 6 of his Reply to the Notice of Appeal (the “Reply”):
+(a) The Minister, through the information slip matching program, discovered a T4RSP form containing the following information:
+(i) issuer: Fonds de Solidarité des travailleurs du Québec
+(ii) beneficiary: Appellant
+(iii) contract: AI242951013
+(iv) withdrawal $5,851
+(v) federal tax withheld $585.11
+(b) The Minister therefore added, by way of a reassessment for the 2003 taxation year, the sum of $5,851 as income from an RRSP to the calculation of the Appellant’s total income, and added $585.11 in federal tax withheld to the calculation of the reimbursement or balance owing;
+(c) At the objection stage, the Appellant indicated that the withdrawal matched contributions to an RRSP that were not deducted in the calculation of his income during the period from 1998 to 2003 because they exceeded the RRSP deduction limit for each of those years;
+(d) The Minister is of the opinion that a withdrawal or the reimbursement of all or part of the non-deductible premiums paid into an RRSP is taxable in the hands of the beneficiary;
+(e) The Appellant was informed annually since 1999, by notice of assessment, that he was not entitled to a deduction for RRSP contributions in the calculation of his income;
+(f) According to the Ministry’s records, no contribution to an RRSP by the Appellant was registered for the taxation years from 1999 to 2003.
+[4] The Notice of Appeal contains the following facts:
+— From 1998 until 2003, I contributed a total of $7098.00 to the fonds de Solidarité des travailleurs du Québec without being entitled to the deduction for registered retirement savings plans for the above-mentioned years. The reason for this is that since 1998 my pension adjustment amount has been at its maximum, i.e. $0.00 in deductions.
+— Income tax paid on moneys ($7,098.00), for contributions paid into the plan and taxes paid on the withdrawal from the plan without having obtained the deduction on line 208 of my tax declaration since 1998.
+— Moreover, the fund’s share depreciated and I took a loss of $1,500.00.
+— Also, the sum of $5,851.00 withdrawn was used to reimburse overdue taxes.
+[5] The facts of the Reply were admitted by the Appellant. With regard to the Notice of Appeal, certain documents have been produced by the Appellant. The Respondent also produced income tax returns for the previous years showing the surplus contributions were not reported and that for at least one year a significant withdrawal and equivalent deduction had been claimed. In any event, the facts from 2003 are the ones that are matter.
+[6] During the hearing, the Appellant believed that he contributed to his RRSP during 2003. But he later confirmed in writing to counsel for the Respondent that, contrary to his recollection, he stopped contributing to his RRSP in December 2002. He did indeed make a withdrawal of $5,851.14 from his RRSP account during 2003.
+[7] Counsel for the Respondent relied on the following decisions: Wilkinson v. The Queen, [2004] 1 C.T.C. 2201 (T.C.C.); St‑Hilaire v. The Queen, [1997] 3 C.T.C. 2711 (T.C.C.); Carroll v. The Queen, 84 DTC 1616 (T.C.C.); and Howlett v. The Queen, 85 DTC 97 (T.C.C.). She indicates that the legislative provisions applicable in this case do not allow overcontributions to be deducted except in the circumstances specified in subsection 146(8.2) of the Act. Moreover, she indicates that the overcontributions may be subject to a Tax in respect of overcontributions to deferred income plans under Part X.1 of the Act. This shows the legislator’s intention to dissuade against them.
+Analysis and conclusion
+[8] Paragraph 56(1)(h), the definition of “benefit” in subsection 146(1), subsection 146(8) and paragraph 146(8.2)(c) of the Act read as follows:
+56(1) Amounts to include in income for year — Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+...
+(h) Registered retirement savings plan, etc. — amounts required by section 146 in respect of a registered retirement savings plan or a registered retirement income fund to be included in computing the taxpayer's income for the year;
+146(1) In this section:
+"benefit" includes any amount received out of or under a retirement savings plan other than:
+...
+146(8) Taxable benefits — There shall be included in computing a taxpayer's income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals as defined in subsection 146.01(1) or 146.02(1) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer's income.
+146(8.2) Amount deductible - Where:
+…
+(c) the payment is received by the taxpayer or the taxpayer's spouse or common-law partner in a particular taxation year that is
+(i) the year in which the premiums were paid by the taxpayer,
+(ii) the year in which a notice of assessment for the taxation year referred to in subparagraph (i) was sent to the taxpayer, or
+(iii) the year immediately following the year referred to in subparagraph (i) or (ii);
+[9] I quote a passage from the decision by Judge Cardin in Carroll, supra, at page 1617:
+For these reasons, I must conclude that the legislators did intend that any and all amounts received or withdrawn from a superannuation or pension plan, including Registered Retirement Savings Plans, are taxable whether or not premiums paid into the plan or fund had been previously deducted from the appellant's income. ...
+[10] The case law is consistant. When a sum is received or withdrawn from an RRSP, it is deemed a benefit. According to paragraph 56(1)(h) and subsection 146(8) of the Act, a benefit from an RRSP must be included in the calculation of income.
+[11] I cite the relevant passages of the Department of Finance Technical Notes for the Income Tax Act, 1st edition, Thomson Carswell, at pages 1205 and 1206 with respect to subsection 146(8.2) of the Act:
+146(8.2)
+May 1994 TN:: Subsection 146(8.2) is a relieving measure which provides a deduction for RRSP or RRIF distributions included in computing an individual’s income that are in respect of certain non-deducted RRSP premiums paid by the individual to the individual’s own RRSP or to a spousal RRSP.
+...
+June 1992, TN: Subsection 146(8.2) is a relieving measure which provides a deduction for RRSP or RRIF distributions included in computing an individual’s income that are in respect of non-deducted RRSP premiums paid by the individual to his or her own RRSP or to a spousal RRSP. Subject to an anti-avoidance rule in paragraphs 146(8.2)(e) and (f), the subsection allows non deducted RRSP premiums (typically RRSP overcontributions) to be withdrawn on a tax-free basis within a specified time-frame.
+[12] Subsection 146(8.2) of the Act is a relieving provision. But only in certain circumstances set forth in subsection 146(8.2) can the taxpayer claim the deduction of excess premiums.
+[13] The Appellant did not demonstrate that he could take advantage of one of the circumstances set out in that subsection. Counsel for the Respondent would have accepted to do it under sub-paragraph 146(8)(c)(i) of the Act had certain premiums that were overpaid been paid in the year of the withdrawal, i.e. 2003. This was not the case. All of the excess premiums were paid in the years before receiving the benefit. I see no other circumstances that could be relied on by the Appellant in relation with subsection 146(8) of the Act.
+[14] The appeal must be dismissed.
+Signed at Ottawa, this 13th day of April 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 29th day of October 2006.
+GibsonBoyd,Translator
+CITATION: 2006TCC237
+COURT DOCKET NUMBER: 2004-3134(IT)I
+STYLE OF CAUSE: JACQUES PELLETIER v. THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 9, 2006
+REASONS FOR JUDGMENT BY: The Hon. Justice Louise Lammare Proulx
+DATE OF JUDGMENT: April 13, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nathalie Lessard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

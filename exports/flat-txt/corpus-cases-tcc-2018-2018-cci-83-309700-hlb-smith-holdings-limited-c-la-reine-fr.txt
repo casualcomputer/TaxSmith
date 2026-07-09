@@ -1,0 +1,282 @@
+Title: HLB Smith Holdings Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/309700/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-83-309700-hlb-smith-holdings-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-04-30
+
+# HLB Smith Holdings Limited c. La Reine
+
+- Citation: 2018 CCI 83
+- Decision date: 2018-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4845, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+HLB Smith Holdings Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-04-30
+Référence neutre
+2018 CCI 83
+Numéro de dossier
+2016-2885(IT)G, 2016-4104(IT)G, 2016-4544(IT)G, 2016-4568(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016‑2885(IT)G
+ENTRE :
+HLB SMITH HOLDINGS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de la Smith Family Trust (2001) (2016‑4104(IT)G), de Wayne Smith (2016‑4544(IT)G), et de Brenda Lee Brunelle (2016‑4568(IT)G), le 6 décembre 2017, à Halifax (Nouvelle‑Écosse)
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Avocat de l'appelante :
+Me Brian K. Awad
+Avocat de l'intimée :
+Me Stan W. McDonald
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints :
+1. L'appel à l'égard de l'article 160 de la Loi de l'impôt sur le revenu est rejeté.
+2. Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2018.
+« S. D'Arcy »
+Le juge D'Arcy
+Dossier : 2016‑4104(IT)G
+ENTRE :
+SMITH FAMILY TRUST (2001),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de HLB Smith Holdings Limited (2016‑2885(IT)G), de Wayne Smith (2016‑4544(IT)G), et de Brenda Lee Brunelle (2016‑4568(IT)G), le 6 décembre 2017, à Halifax (Nouvelle‑Écosse)
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Avocat de l'appelante :
+Me Brian K. Awad
+Avocat de l'intimée :
+Me Stan W. McDonald
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints :
+1. L'appel à l'égard de l'article 160 de la Loi de l'impôt sur le revenu est rejeté.
+2. Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2018.
+« S. D'Arcy »
+Le juge D'Arcy
+Dossier : 2016‑4544(IT)G
+ENTRE :
+WAYNE SMITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de HLB Smith Holdings Limited (2016‑2885(IT)G), de la Smith Family Trust (2001) (2016‑4104(IT)G), et de Brenda Lee Brunelle (2016‑4568(IT)G), le 6 décembre 2017, à Halifax (Nouvelle‑Écosse)
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Avocat de l'appelant :
+Me Brian K. Awad
+Avocat de l'intimée :
+Me Stan W. McDonald
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints :
+1. L'appel à l'égard de l'article 160 de la Loi de l'impôt sur le revenu est rejeté.
+2. Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2018.
+« S. D'Arcy »
+Le juge D'Arcy
+Dossier : 2016‑4568(IT)G
+ENTRE :
+BRENDA LEE BRUNELLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de HLB Smith Holdings Limited (2016‑2885(IT)G), de la Smith Family Trust (2001) (2016‑4104(IT)G), et de Wayne Smith (2016‑4544(IT)G), le 6 décembre 2017, à Halifax (Nouvelle‑Écosse)
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Avocat de l'appelante :
+Me Brian K. Awad
+Avocat de l'intimée :
+Me Stan W. McDonald
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints :
+1. L'appel à l'égard de l'article 160 de la Loi de l'impôt sur le revenu est rejeté.
+2. Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2018.
+« S. D'Arcy »
+Le juge D'Arcy
+Référence : 2018 CCI 83
+Date : 20180430
+Dossier : 2016‑2885(IT)G
+ENTRE :
+HLB SMITH HOLDINGS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016‑4104(IT)G
+ET ENTRE :
+SMITH FAMILY TRUST (2001),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016‑4544(IT)G
+ET ENTRE :
+WAYNE SMITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016‑4568(IT)G
+ET ENTRE :
+BRENDA LEE BRUNELLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D'Arcy
+[1] Chacun des quatre appelants interjette appel d'une cotisation établie en vertu de l'article 160 de la Loi de l'impôt sur le revenu. Les cotisations établies à l'égard de HLB Smith Holdings Limited (la « société de portefeuille ») et de la fiducie Smith Family Trust (2001) concernent des dividendes versés en 2007 et en 2008 par Power Electric Systems Limited (la « société exploitante ») à la société de portefeuille et, dans le cas de la Smith Family Trust (2001), le versement de dividendes effectué subséquemment par la société de portefeuille à cette fiducie. Les cotisations établies à l'égard de Wayne Smith et de Brenda Lee Brunelle concernent des distributions subséquentes faites par la Smith Family Trust (2001) à M. Smith et à Mme Brunelle.
+[2] J'ai entendu les quatre appels ensemble sur preuve commune.
+I. Les faits
+[3] La plupart des faits pertinents apparaissent dans l'exposé conjoint partiel des faits que les parties ont déposé à la Cour.
+[TRADUCTION]
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Les appelants et l'intimée, par l'intermédiaire de leur avocat, s'entendent sur les faits suivants, pourvu que : 1) les faits ne soient admis que pour les besoins de la présente instance; 2) les parties soient autorisées à présenter des éléments de preuve supplémentaires qui ne contredisent pas ces faits.
+1. L'appelante HLB Smith Holdings Limited (« HLB ») était une société constituée en Nouvelle‑Écosse et dont le siège était situé à Halifax (Nouvelle‑Écosse).
+2. L'appelante Smith Family Trust (2001) (« SFT ») était une fiducie discrétionnaire.
+3. HLB appartenait en propriété exclusive à SFT.
+4. Les fiduciaires de SFT étaient l'appelant Wayne Smith (« M. Smith ») et Michael Scott (« M. Scott »).
+5. M. Smith et l'appelante Brenda Brunelle (« Mme Brunelle ») étaient des bénéficiaires de SFT.
+6. M. Smith et Mme Brunelle étaient époux au sens de la Loi de l'impôt sur le revenu.
+7. Power Electric Systems Limited (« PES ») était une société constituée en Nouvelle‑Écosse et dont le siège était situé à Halifax (Nouvelle‑Écosse). Elle effectuait des travaux électriques.
+8. PES a été constituée en société en 1997.
+9. Dès la constitution de PES, MM. Smith et Scott détenaient chacun 50 % des actions. De 1998 à 2008 inclusivement, les déclarations annuelles déposées au registre des sociétés par actions de la Nouvelle‑Écosse indiquaient que MM. Smith et Scott étaient les deux administrateurs et dirigeants de PES.
+10. À la fin de l'année d'imposition 2004, M. Smith a transféré toutes ses actions de PES à HLB, et M. Scott a transféré les siennes à la Scott Family Trust.
+11. De 2005 à 2008, les actions de PES étaient détenues à parts égales par HLB et la Scott Family Trust.
+12. MM. Smith et Scott ont continué d'être les seuls administrateurs et dirigeants de PES jusqu'en novembre 2008.
+13. Au cours de son année d'imposition terminée le 31 mai 2007, PES a versé à HLB des dividendes d'une valeur totale de 53 500 $.
+14. Au cours de son année d'imposition terminée le 31 mai 2008, PES a versé à HLB des dividendes d'une valeur totale de 48 000 $.
+15. HLB n'a versé aucune contrepartie pour les dividendes en question.
+16. Lorsqu'elle a versé des dividendes à HLB au cours de son année d'imposition 2007, PES devait au ministre de l'impôt sur le revenu des sociétés et des intérêts dont le montant était de 25 328,03 $ le 21 juillet 2014.
+17. Lorsqu'elle a versé des dividendes à HLB au cours de son année d'imposition 2008, PES devait au ministre des retenues à la source, des pénalités et des intérêts, ainsi que de l'impôt sur le revenu fédéral et provincial, dont les montants étaient de 18 400,50 $ et de 29 599,50 $ respectivement le 21 juillet 2014.
+18. Dès la réception des dividendes de PES au cours de l'année d'imposition terminée le 31 mai 2007, HLB a versé des dividendes de 53 500 $ à SFT.
+19. Dès la réception des dividendes de PES au cours de l'année d'imposition terminée le 31 mai 2008, HLB a versé des dividendes de 46 000 $ à SFT.
+20. SFT n'a versé aucune contrepartie pour les dividendes en question.
+21. En 2007, SFT a remis 26 750 $ à M. Smith et 26 750 $ à Mme Brunelle en tant que bénéficiaires de SFT.
+22. En 2008, SFT a remis 23 000 $ à M. Smith et 23 000 $ à Mme Brunelle en tant que bénéficiaires de SFT.
+23. M. Smith et Mme Brunelle n'ont versé aucune contrepartie pour les fonds reçus de SFT.
+[4] L'appelant Wayne Smith a témoigné à l'audience. Il a expliqué l'historique de la société exploitante, de la société de portefeuille et de la Smith Family Trust (2001).
+[5] M. Smith et un certain Michael Scott ont constitué la société exploitante en 1997. Avant cela, MM. Smith et Scott travaillaient comme électriciens pour une société appelée Metro Electric. Un jour, ils ont décidé de démarrer leur propre entreprise de services d'électriciens et d'exercer leurs activités par l'intermédiaire de la société exploitante.
+[6] MM. Smith et Scott détenaient chacun 50 % des actions de la société exploitante au moment où celle‑ci a été constituée. De plus, de la constitution jusqu'au 28 novembre 2008, MM. Scott et Smith en étaient les seuls administrateurs. Au cours de cette période, M. Scott était le président alors que M. Smith était le vice‑président et le secrétaire. Il n'y avait aucun autre dirigeant.
+[7] L'exposé conjoint partiel des faits indique, au paragraphe 10, qu'à la fin de 2004, M. Smith a transféré toutes ses actions de la société exploitante à la société de portefeuille et que M. Scott a transféré toutes ses actions de la société exploitante à une fiducie appelée la Scott Family Trust. La Smith Family Trust (2001) détenait toutes les actions de la société de portefeuille.
+[8] M. Smith a déclaré que le comptable de la société exploitante, Tony Howatt, avait suggéré que MM. Smith et Scott mettent en place cette structure afin de pouvoir fractionner le revenu. Il a dit que M. Scott et lui avaient convenu que la société exploitante verserait à chacun 1 000 $ par semaine à titre de salaire qu'on décrirait comme un dividende. Dans l'exposé conjoint partiel des faits, les parties conviennent que les sommes versées par la société exploitante étaient des dividendes et qu'aucune contrepartie n'a été payée pour ces dividendes.
+[9] M. Smith a affirmé que son épouse, l'appelante Mme Brunelle, et lui partageaient la somme hebdomadaire de 1 000 $. Il recevait 1 000 $ toutes les deux semaines, et Mme Brunelle recevait 1 000 $ les semaines où M. Smith ne les recevait pas.
+[10] Comme l'indique l'exposé conjoint partiel des faits, la société exploitante ne versait pas les sommes hebdomadaires de 1 000 $ directement à M. Smith ou à Mme Brunelle. La société exploitante versait les sommes à titre de dividendes à la société de portefeuille. Cette dernière les versait ensuite, toujours à titre de dividendes, à la Smith Family Trust (2001), qui les distribuait de son côté à M. Smith et à Mme Brunelle, les bénéficiaires de la fiducie. Comme il est indiqué dans l'exposé conjoint partiel des faits :
+La société exploitante a versé des dividendes de 53 500 $ et de 48 000 $ à la société de portefeuille pendant ses années d'imposition terminées le 31 mai 2007 et le 31 mai 2008, respectivement.
+La société de portefeuille a versé des dividendes de 53 500 $ et de 46 000 $ à la Smith Family Trust (2001) pendant ses années d'imposition terminées le 31 mai 2007 et le 31 mai 2008, respectivement.
+La Smith Family Trust (2001) a versé 26 750 $ à M. Smith et 26 750 $ à Mme Brunelle en 2007, et a versé 23 000 $ à M. Smith et 23 000 $ à Mme Brunelle en 2008.
+[11] Il ressort du témoignage de M. Smith que sa fonction principale lors de l'exploitation de la société exploitante était de superviser ou d'effectuer diverses tâches. Il se présentait chaque matin aux bureaux de la société exploitante pour faire des choses telles que signer des chèques et aider à la préparation des estimations. Toutefois, il passait la plus grande partie de son temps chez les clients.
+[12] M. Scott semble s'être occupé de la plupart des questions financières. Il a notamment décidé du moment où la société exploitante devait payer ses dettes, y compris les sommes à verser à l'Agence du revenu du Canada.
+[13] M. Smith a déclaré que lorsqu'il avait découvert, vers le 28 novembre 2008, que la société exploitante était insolvable et qu'elle devait une somme importante au titre de l'impôt, il a démissionné immédiatement de son poste de dirigeant et d'administrateur de la société exploitante.
+II. Le droit
+[14] L'article 160 dispose, en partie :
+160(1) Transfert de biens entre personnes ayant un lien de dépendance — Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+[...]
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+[...]
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l'auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l'objet d'une cotisation en application du paragraphe (2) qu'il doit payer en vertu du présent article) au cours de l'année d'imposition où les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années.
+[...]
+[15] La Cour d'appel fédérale a déclaré dans l'arrêt R. c. Livingston, 2008 CAF 89, [2008] 3 R.C.F. F‑3, au paragraphe 17, qu'il faut tenir compte des critères suivants au moment d'appliquer l'article 160 à une situation comme celle de l'espèce :
+1) L'auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert.
+2) Il doit y avoir eu transfert direct ou indirect de biens au moyen d'une fiducie ou de toute autre façon.
+3) Le bénéficiaire du transfert doit être [...] une personne avec laquelle l'auteur du transfert avait un lien de dépendance.
+4) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert.
+[16] La seule question soulevée par les appelants dans les présents appels est celle de savoir si la société de portefeuille avait un lien de dépendance avec la société exploitante.
+[17] Le paragraphe 251(1) de la Loi énonce les règles permettant de déterminer si deux parties ont un lien de dépendance. Il est libellé comme suit :
+251(1) Lien de dépendance — Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+b) un contribuable et une fiducie personnelle (sauf une fiducie visée à l'un des alinéas a) à e.1) de la définition de « fiducie » au paragraphe 108(1)) sont réputés avoir entre eux un lien de dépendance dans le cas où le contribuable, ou une personne avec laquelle il a un tel lien, aurait un droit de bénéficiaire dans la fiducie si le paragraphe 248(25) s'appliquait compte non tenu de ses subdivisions b)(iii)(A)(II) à (IV);
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n'ont aucun lien de dépendance à un moment donné est une question de fait.
+[18] Dans les présents appels, la société de portefeuille et la Scott Family Trust détenaient chacune 50 % des actions de la société exploitante. En conséquence, ni la société de portefeuille ni la Scott Family Trust n'avait le contrôle de jure de la société exploitante, de sorte que la société de portefeuille n'était pas liée à la société exploitante pour l'application du paragraphe 251(2) [1] .
+[19] Selon l'alinéa 251(1)c), la question de savoir si la société de portefeuille et la société exploitante avaient entre elles un lien de dépendance est donc une question de fait.
+[20] En règle générale, pour déterminer si des parties à une opération n'ont aucun lien de dépendance, la Cour doit examiner :
+1. si un seul cerveau dirigeait les négociations pour les deux parties;
+2. si les deux parties agissaient de concert, sans intérêts distincts;
+3. si l'une des parties exerçait un contrôle de fait sur l'autre.
+[21] Il n'est pas nécessaire que toutes les conditions soient remplies dans tous les cas. De plus, la liste des facteurs à considérer n'est pas exhaustive [2] .
+III. Les observations des appelants
+[22] Dans leurs observations écrites, les appelants déclarent que [TRADUCTION] « les cotisations visées ne sont pas autorisées par le paragraphe 160(1) parce que PESL [la société exploitante] et HLB [la société de portefeuille] n'ont aucun lien de dépendance pour ce qui est des dividendes versés par PESL [la société exploitante] en 2007 et en 2008 ».
+[23] Les appelants soutiennent que le même cerveau ne dirigeait pas la société exploitante et la société de portefeuille. M. Smith était un copropriétaire passif qui acceptait les décisions prises par M. Scott relativement aux dividendes. Les appelants font valoir que M. Scott était le décideur et qu'il décidait des dividendes versés par la société exploitante. Enfin, les appelants soutiennent que M. Smith ne participait pas de manière égale à la décision de verser des dividendes, non plus qu'il ne prenait les décisions de concert avec M. Scott.
+IV. Conclusions
+[24] Je suis d'avis que les faits de l'espèce sont très semblables à ceux dans Fournier c. M.R.N. [3] . Cet appel concernait également une cotisation établie en vertu de l'article 160 par suite du paiement de dividendes. Le juge Dussault a déclaré ce qui suit dans ses motifs de jugement, à la page 745 :
+Pour sa part, le juge Thurlow de la Cour de l'Échiquier (tel qu'il était alors) s'exprimait ainsi dans l'affaire Swiss Bank Corporation et al. v. M.N.R., 71 D.T.C. 5235, à la page 5241 :
+To this I would add that where several parties — whether natural persons or corporations or a combination of the two — act in concert, and in the same interest, to direct or dictate the conduct of another, in my opinion the "mind" that directs may be that of the combination as a whole acting in concert or that of any one of them in carrying out particular parts or functions of what the common object involves.
+Nous sommes ici en présence des deux actionnaires principaux d'une compagnie et à toutes fins pratiques des deux seuls actionnaires et administrateurs véritables qui décident ensemble, selon les conseils du comptable de la compagnie, de retirer les bénéfices réalisés par la corporation sous forme de dividendes à être déclarés en fin d'année. Dans l'intervalle, il est entendu entre eux qu'ils recevront des avances de la corporation et que les dividendes à être déclarés subséquemment seront pour un montant équivalent aux avances encaissées. Un dividende de 100 000,00 $ a effectivement été déclaré en fin d'année et l'appelant admet avoir reçu sa part sous forme d'avances en cours d'année.
+Je ne puis trouver de situation plus appropriée à l'application du concept de lien de dépendance entre personnes non liées en ce que les deux principaux administrateurs et actionnaires de la corporation ont de toute évidence agi de concert et avec un intérêt économique commun pour décider de la façon dont ils retireraient, pour leurs fins personnelles, les bénéfices réalisés par la corporation. Agissant à la fois et en même temps en leur qualité d'administrateurs de la corporation et d'actionnaires de celle‑ci, ils se trouvent dans une situation à l'égard de laquelle on ne pourrait mieux appliquer le concept de lien de dépendance dans les faits tel qu'établi par nos tribunaux. En ce sens, j'estime donc que la corporation Les Évaluateurs Fra‑Mic Inc. avait un lien de dépendance avec l'appelant au moment du transfert de biens effectué au cours de son année d'imposition 1983 et qu'ainsi l'intimé était à bon droit d'invoquer le paragraphe 160(1) de la Loi à l'égard de cette transaction.
+[25] Je suis parvenu à une conclusion semblable dans les présents appels. À mon avis, MM. Smith et Scott ont agi de concert en ce qui concerne les dividendes versés par la société exploitante à la société de portefeuille et à la Scott Family Trust.
+[26] M. Smith, par l'intermédiaire de la Smith Family Trust (2001) et de la société de portefeuille, contrôlait 50 % des actions de la société exploitante, alors que M. Scott, par l'intermédiaire de la Scott Family Trust, contrôlait l'autre 50 % des actions. Qui plus est, MM. Smith et Scott étaient les deux administrateurs et dirigeants uniques de la société exploitante.
+[27] Le comptable agréé de la société exploitante, M. Howatt, a établi un plan fiscal afin de permettre le fractionnement du revenu entre les appelants et les membres de leur famille. Le plan prévoyait le paiement de dividendes par la société exploitante à la société de portefeuille et, ensuite, par la société de portefeuille à la Smith Family Trust (2001).
+[28] M. Smith a déclaré que M. Scott et lui avaient accepté le plan et qu'ils avaient alors commencé à fractionner le revenu avec des membres de leur famille. En d'autres termes, MM. Smith et Scott, agissant de concert en tant que seuls administrateurs de la société exploitante, ont autorisé le paiement de dividendes à la société de portefeuille au profit de M. Smith et à la Scott Family Trust au profit de M. Scott. Pour reprendre les termes du juge Dusseault, M. Smith et M. Scott, en tant que seuls administrateurs et dirigeants de la société exploitante, ont agi de concert et avec un intérêt économique commun pour décider de la façon dont ils retireraient, pour leurs fins personnelles, les bénéfices réalisés par la société exploitante.
+[29] Je ne retiens pas l'argument des appelants selon lequel M. Scott était celui qui prenait les décisions relatives aux versements de dividendes, car il ne s'accorde pas avec la preuve dont je dispose. M. Smith a indiqué que M. Scott et lui avaient tous deux accepté le plan qui prévoyait le versement des dividendes. La société exploitante a ensuite versé la somme hebdomadaire de 1 000 $ à la société de portefeuille, sauf dans le cas d'une semaine, conformément à l'entente et à la directive des deux administrateurs. Je ne dispose d'aucun élément de preuve indiquant que la société exploitante avait payé les dividendes selon le bon vouloir de M. Scott.
+[30] Pour ces motifs, je conclus que la société de portefeuille et la société exploitante avaient un lien de dépendance en ce qui concerne le paiement de dividendes par la société exploitante. Puisqu'il s'agit de la seule question soulevée par les appelants quant à l'application de l'article 160, les appels sont rejetés avec dépens à l'intimée.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2018.
+« S. D'Arcy »
+Le juge D'Arcy
+RÉFÉRENCE :
+2018 CCI 83
+NOS DES DOSSIERS DE LA COUR :
+2016‑2885(IT)G
+2016‑4104(IT)G
+2016‑4544(IT)G
+2016‑4568(IT)G
+INTITULÉS :
+HLB Smith Holdings Limited c. Sa Majesté la Reine
+Smith Family Trust (2001) c. Sa Majesté la Reine
+Wayne Smith c. Sa Majesté la Reine
+Brenda Lee Brunelle c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATE DE L'AUDIENCE :
+Le 6 décembre 2017
+MOTIFS DU JUGEMENT :
+L'honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT :
+Le 30 avril 2018
+COMPARUTIONS :
+Avocat des appelants :
+Me Brian K. Awad
+Avocat de l'intimée :
+Me Stan W. McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Brian K. Awad
+Cabinet :
+McInnes Cooper
+Halifax (Nouvelle‑Écosse)
+Pour l'intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] Voir Duha Printers (Western) Ltd. c. Canada, [1998] 1 R.C.S. 795.
+[2] Voir R. c. Remai, 2009 CAF 340, [2009] 4 R.C.F. F‑18, aux paragraphes 31 et 32.
+[3] 91 D.T.C. 743. Voir également Gosselin c. La Reine, [1997] 2 C.T.C. 2830, no 95‑1708(IT)I, 8 mars 1996 (C.C.I.).

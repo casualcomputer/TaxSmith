@@ -1,0 +1,6 @@
+---
+title: "Social Insurance Number Legislation that Relates to the Preparation of Information Slips"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic82-2/social-insurance-number-legislation-that-relates-preparation-information-slips.html
+last_modified: 2020-02-24
+---
+# Social Insurance Number Legislation that Relates to the Preparation of Information Slips

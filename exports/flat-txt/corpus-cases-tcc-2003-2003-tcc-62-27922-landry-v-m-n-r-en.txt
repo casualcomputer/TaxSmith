@@ -1,0 +1,125 @@
+Title: Landry v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27922/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-62-27922-landry-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-02-24
+
+# Landry v. M.N.R.
+
+- Citation: 2003 TCC 62
+- Decision date: 2003-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1705, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-24
+Neutral citation
+2003 TCC 62
+File numbers
+2001-4605(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001-4605(EI)
+BETWEEN:
+GILLES LANDRY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+_______________________________________________________________
+Appeal heard on December 19, 2002, at Bathurst, New Brunswick
+Before: The Honourable Judge François Angers
+Appearances
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Me Stéphanie Côté
+_______________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 24th day of February 2003.
+“François Angers”
+J.T.C.C.
+Citation: 2003TCC62
+Date: 20030224
+Docket: 2001-4605(EI)
+BETWEEN:
+GILLES LANDRY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Judge Angers, T.C.C.
+[1] This appeals concerns the decision of the Minister of National Revenue (the “Minister”) dated September 11, 2001, according to which the appellant’s employment with Roger Roy Trucking Ltd. (the “payer”) during the period from January 5 to July 11, 1998, was insurable employment, his insurable hours were 945 and his insurable earnings were $8,736. The appellant appeals only with respect to the number of insurable hours accumulated during his period of employment with the payer.
+[2] In making his decision, the Minister relied on the following assumptions of fact, which were admitted or denied by the appellant:
+[Translation]
+(a) The payer operates a transportation company for products of various kinds; (admitted)
+(b) the appellant worked as a truck driver during the period at issue; the appellant also on occasion helped with the maintenance of the payer’s truck; (admitted)
+(c) the appellant was paid at a rate set for each trip he
+made; (admitted with an explanation)
+(d) the payer apportioned the appellant’s pay over 60-hour weeks at $700.00 each plus vacation pay of $28.00; (admitted)
+(e) the payer’s payroll journal and the record of employment show 12 weeks’ work between February 16 and July 11, 1998;:
+the week of February 16 to 21,
+the weeks between March 30 and May 16,
+the weeks between May 25 and June 12, and
+the week of July 6 to 11;
+(admitted)
+(f) the appellant made a number of trips for the payer during the weeks that are not reported in the payroll journal; (denied)
+(g) the payer has no documentation concerning the total number of hours the appellant worked or the dates of the trips the appellant made; (denied)
+(h) the record of employment issued to the appellant does not reflect the appellant’s hours of work. (denied)
+[3] The appellant filed in evidence the correspondence that he had exchanged with the Canada Customs and Revenue Agency. He explained that at the end of the period at issue he was working for himself. He said he had worked for 12 weeks during that period as indicated on his record of employment (A-4). He also said that, during the weeks where he did not accumulate the expected number of hours as a driver, he worked for the payer as a mechanic to make up the deficit. He said he never worked for the payer as a driver before or after the weeks when he was paid. It should be emphasized that the record of employment indicates February 16, 1998, as the first day of work.
+[4] The respondent called Charles Albert, an investigation and control officer, to the stand. The latter had investigated the payer and the appellant. Based on the information he had gathered, he was able to reconstruct the facts relating to the weeks when the appellant had worked without being paid but which the payer had accumulated until it could give the appellant a full week’s work and so pay him his full salary. The witness compared the dates shown on these documents and those on the record of employment, with the help of consignment notes (I‑2 and I‑4) and an invoice for a delivery of ice. He concluded that he was dealing with a scenario involving the banking of hours of work and that the periods worked did not correspond to the record of employment. Furthermore, the payer’s representative, Mr. Roger Roy, admitted to Mr. Albert that he engaged in what is called “banking”, namely, the accumulation of hours.
+[5] Mr. Albert went on to testify that, as a result of a complaint by another employee of the payer, he made another investigation the results of which were set out in a Table produced in evidence as Exhibit I‑5. From the consignment notes obtained from the payer, he was able to reconstruct the dates of the trips made by the payer’s drivers, including the appellant, as well as the dates on which they purchased fuel. From Table I‑5 it can be concluded that the appellant worked hours during weeks when he was not remunerated.
+[6] Mr. Albert did not manage to obtain the payroll journal or certain other documents of the payer, such as the drivers’ log books, that would have enabled him to reconstruct the appellant’s work schedule. Those documents were either destroyed or simply did not exist.
+[7] The appellant challenged the validity of one of the invoices (I‑3) used by Mr. Albert in the context of his investigation. Although the invoice does not appear to identify the driver specifically, the appellant knew that it involved a delivery of ice and seemed to be aware of it.
+[8] Johanne Robichaud is an appeals officer with the Canada Customs and Revenue Agency. Her mandate was to determine the appellant’s insurable hours. For this purpose, she analysed the facts gathered by the witness, Charles Albert, and contacted Roger Roy, the payer’s representative. The latter confirmed to her that the appellant and the other drivers never worked the same number of hours or received the same salary from week to week. The reason why the salary on the payer’s payroll journal was always shown was $728 a week is explained by the fact that the payer accumulated hours and salaries.
+[9] The appellant signed consignment notes on dates when his name does not appear in the payroll journal. Beginning on January 5, 1998, he purchased fuel and made trips although he was not entered in the payroll journal. Moreover, February 16, 1998, is shown as the first day of work on his record of employment.
+[10] Since the appellant’s work schedule and his weekly remuneration cannot be reconstructed, the Court cannot establish the number of hours that he actually worked during the period. The evidence further disclosed that the appellant was remunerated at a fixed rate per trip, depending on destination and not according to an hourly rate.
+[11] Given this situation, Ms. Robichaud accordingly applied the following provisions of subsections 10(4) and 10(5) of the Employment Insurance Regulations :
+(4) Except where subsection (1) and section 9.1 apply, where a person’s actual hours of insurable employment in the period of employment are not known or ascertainable by the employer, the person, subject to subsection (5), is deemed to have worked, during the period of employment, the number of hours in insurable employment obtained by dividing the total earnings for the period of employment by the minimum wage applicable, on January 1 of the year in which the earnings were payable, in the province where the work was performed.
+(5) In the absence of evidence indicating that overtime or excess hours were worked, the maximum number of hours of insurable employment which a person is deemed to have worked where the number of hours is calculated in accordance with subsection(4) is seven hours per day up to an overall maximum of 35 hours per week.
+[12] Since the appellant worked from January 5 to July 11, 1998, the Minister applied the formula and arrived at a total of 945 hours.
+[13] The Minister proved all of the allegations of fact denied by the appellant. The facts that were established clearly showed that the record of employment was incorrect and that the appellant worked outside the weeks indicated on it. Although the appellant maintains that the record of employment is correct, I cannot overlook these facts. I therefore cannot grant any credence to the appellant’s version. The latter adduced no other evidence in support of his determination of the number of hours of insurable employment. Consequently, I must uphold the Minister’s determination. For these reasons, the appeal is dismissed.
+Signed at Edmundston, New Brunswick, this 24th day of February 2003.
+“François Angers”
+J.T.C.C.
+RÉFÉRENCE :
+2003CCI62
+No DU DOSSIER DE LA COUR :
+2001-4605(EI)
+INTITULÉ DE LA CAUSE :
+GILLES LANDRY
+et Le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Bathurst (Nouveau-Brunswick)
+DATE DE L'AUDIENCE
+19 décembre 2002
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+24 février 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

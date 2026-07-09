@@ -1,0 +1,156 @@
+Title: Robitaille v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27569/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-211-27569-robitaille-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-03-23
+
+# Robitaille v. The Queen
+
+- Citation: 2005 TCC 211
+- Decision date: 2005-03-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 64, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robitaille v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-23
+Neutral citation
+2005 TCC 211
+File numbers
+2003-3289(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3289(IT)I
+BETWEEN:
+NATHALIE ROBITAILLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on March 14, 2005, at Montreal, Quebec
+Before: The Honourable Judge Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Sophie Boulard
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeals against the determinations of the Minister of National Revenue denying the Appellant the Canada Child Tax Benefit for her daughters Mélody and Sophia for the period from November 2000 to May 2001 and for her daughter Myriam, for the period from November 2000 to August 2001 are granted without costs and the assessments are referred back to the Minister of National Revenue for review and new determinations, taking into account the fact that the Appellant is entitled to the Canada Child Tax Benefit in respect of her daughters Sophia and Mélody, but is not entitled to these benefits in respect of her daughter Myriam, for the periods at issue.
+Signed at Ottawa, Canada, this 23rd day of March 2005.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 28th day of December 2005.
+Paul Adams, Translator
+Citation: 2005TCC211
+Date: 20050323
+Docket: 2003-3289(IT)I
+BETWEEN:
+NATHALIE ROBITAILLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] At issue are appeals against assessments by which the Minister of National Revenue (the "Minister") decided that the Appellant was not the eligible individual for the Canada Child Tax Benefit (CCTB) in respect of the 1999 and 2000 base years for her daughter Mélody, Myriam and Sophia, in respect of the following periods:
+Mélody and Sophia: from November 2000 to May 2001;
+Myriam: from November 2000 to August 2001.
+[2] An individual who is eligible for CCTB must meet the conditions set out at Section 122.6 of Income Tax Act (the "Act"), which reads as follows:
+"eligible individual" - "eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purpose of this definition,
+(f) where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[3] Sections 6301 and 6302 of the Income Tax Regulations ("Regulations")add the following:
+6301. (1) For the purposes of paragraph (g) of the definition "eligible individual" in section 122.6 of the Act, the presumption referred to in paragraph (f) of that definition does not apply in the circumstances where
+(a) the female parent of the qualified dependant declares in writing to the Minister that the male parent, with whom she resides, is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of each of the qualified dependants who reside with both parents;
+(b) the female parent is a qualified dependant of an eligible individual and each of them files a notice with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant;
+(c) there is more than one female parent of the qualified dependant who resides with the qualified dependant and each female parent files a notice with the Minister under subsection 122.62(1) of the Act in respect of the qualified dependant; or
+(d) more than one notice is filed with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant who resides with each of the persons filing the notices if such persons live at different locations.
+(2) For greater certainty, a person who files a notice referred to in paragraph (1)(b), (c) or (d) includes a person who is not required under subsection 122.62(3) of the Act to file such a notice.
+6302. For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[3] Moreover, only one of the two parents may be an eligible individual for the purposes of eligibility for the CCTB. The Act does not provide for proportional sharing between two parents who claim to be eligible parents (see Canadav. Marshall), [1996] F.C.J. No. 431 (Q.L.), subsection 2).
+[4] In this case, a contradiction exists between the two parents' versions. According to the mother, the Appellant, her two daughters, Mélody and Sophia, lived with her for most of the time during the period at issue. They went to see their father from time to time. With regard to her daughter Myriam, she stated that she also shared custody with the father, but acknowledged that she spent more time with her father.
+[5] According to the father, Roméo Lévesque, the three daughters lived with him during the periods at issue and only went to their mother's home from time to time. According to his testimony, the mother had deposited his three daughters with all their personal belongings at his home in November 2000, telling him to look after them. After that, the girls did not speak to their mother again for two months. The mother denies having acted in this way during this period. She does, nonetheless, acknowledge that she had left her daughters with their father for a short period, either near the end of 2001 or at the start of 2002, as their father had obtained the family allowances to her detriment.
+[6] According to the documentary evidence, a first interim consent endorsed by the Court was signed by both parents on July 4, 2000, under which they agreed to share custody of their three children. The father was to pay board of $25 a week and the mother was to retain the total amount of the family allowances and the CCTB.
+[7] On August 22, 2000, a partial agreement regarding the issue of alimony and arrears was signed by both parents and endorsed by the Court, under which it was agreed that the child support arrears owed by the father were "liquidated" in the amount of $10,000, payable by monthly instalments to the Department of Social Solidarity, which was legally subrogated to the rights of the mother. The father was to continue to pay alimony in the amount of $25 a week to the mother for the benefit of the children. The mother, under the same agreement, fully and finally discharged him from all arrears of alimony that might be due to her personally.
+[8] On September 5, 2000, both parents again signed a partial consent, endorsed by the Court, regarding custody and alimony, in which it was stipulated that custody of the three children would be shared, that the mother would retain all the family allowances and the CCTB and that the father would receive the tax deductions in respect of the children. The father again undertook to pay $25 a week alimony for the benefit of the children.
+[9] On March 27, 2001, another interim consent valid until April 24, 2001, was signed by both parents and endorsed by the Court, under which they agreed that counsel would be appointed for the children, as a result of which Lucie Ratelle agreed to accept this responsibility. It was recognized that the father was granted shared custody of Mélody and Sophia and custody of Myriam (aged 13).
+[10] On June 19, 2001, interim consent valid until June 26, 2001 was signed by both parents and endorsed by the Court. In this interim consent, the parents recognized that the residence of the children Mélody and Sophia was with their mother, and that the child Myriam had her residence with her father. This was agreed, nonetheless, without prejudice or admission with respect to the period from October 2000 to June 2001. It was anticipated that the family allowances and the CCTB in respect of the child Myriam would be assigned to the father from June 19, 2001, and that those attributable to the children Mélody and Sophia would be devolved to their mother.
+[11] Thus, following the appointment of Lucie Ratelle as Counsel for the children, she met with the children alone, and had each of them sign an affidavit dated October 15, 2001 (exhibit A-1). In these affidavits, Mélody then aged 15, stated that the shared custody had declined beginning in mid-September 2000 and that from that time on, she had spent much more time with her mother. She stated that she had gone only two or three occasions to her father's home since the beginning of October 2000, and that she had returned there for one week in January 2001.
+[12] Myriam, then aged 13, stated that she had been in shared custody from August 2000 to May 2001. From June 2001 to August 2001, she had always been at the home of her father.
+[13] Sophia, who was 11 years old at the time, stated that she had begun to spend much more time at her mother's home from mid-September 2000 onwards. She had reportedly spent approximately six full weekends at her father's home since the beginning of October 2000. She had also returned there for one week in January 2001.
+[14] The mother said in court that she had accompanied her daughters to Ms. Ratelle's office on the day these affidavits were signed, but had not attended the meeting between the lawyer and her children, as she was not entitled to do so.
+[15] Myriam is the only child who testified on behalf of the Respondent. She is now 17 years old. She did not remember whether she was accompanied by her two sisters at the time this affidavit was signed in 2001, but thought she probably was. She stated that these affidavits had been drafted without her and her two sisters being consulted, and that the person who had asked her to sign had read it to her without any form of explanation and had asked her to sign.
+[16] According to Myriam, her two sisters were living with her at her father's home from October 2000 to May 2001. She said she remembered, among other things, the presence of Sophia, with whom she did her homework in the evening. At the same time, she acknowledged that her two sisters would walk between their father's residence and their mother's.
+[17] Furthermore, on April 9, 2001, the Samares School Board sent to each of the two parents a reminder regarding the non-payment of expenses billed for supervision and noonday transportation and for school supplies for the 2000-2001 school year. The Saint-Alphonse Schoolclaimed an amount of $250 from the mother. An amount of $100 was claimed from the father on behalf of Notre-Dame-de-FatimaSchool. The father stated that the amount for which he was billed was owed to the school attended by Sophia, the youngest. He said that he had repaid it, but has no proof of payment.
+[18] This would indicate that the mother was billed for the amounts owing for the two eldest girls, Mélody and Myriam. The mother said she had repaid this amount to the process servers. She produced three receipts, one in the amount of $381.67 dated January 6, 2004, a second in the amount of $200.47 dated July 2, 2002and a final one in the amount of $110 dated July 9, 2002 (exhibit A-6). These receipts, however, do not clearly indicate what they refer to. The mother said that furniture of hers had been seized due to non-payment of school fees and, as a result, she had had additional costs to pay, following the intervention of a process server, as had been stated in the reminder letter (exhibit A-5).
+[19] The Respondent produced a letter sent by the Samares School Board dated May 8, 2001, which stated that the transportation of the children for the 1999-2000 and 2000-2001 had been by bus from their home at 132 Lac Cloutier Sud in St-Alphonse, the father's residence (exhibit I-2). Although the father did not recall where the school bus service was from in 1999 (from his home or the mother's), he acknowledged that from September to November 2000, the bus transportation was from their mother's house, which partially contradicts the purport of this document.
+[20] The Respondent also produced the school reports for the three children for the 2000-2001 school year. These reports were sent to the father. The mother explained in her testimony that she had realized that the father had asked that the reports be sent only to his residence. She had then asked the school to send them to her. She did not, however, produce them as evidence.
+[21] Under the provisions of Section 122.6 of the Act,in order to be entitled to CCTB during the periods at issue, the Appellant must demonstrate that the children were residing with her, and also that she was the person who bore primary responsibility for the care and upbringing of the children. As far as this second condition is concerned, we must determine who was primarily looking after the children's daily activities, maintaining a safe place for them, obtaining medical care for them, transportation and meeting their needs in the event of illness. The existence of an order issued by a court may help to decide the issue (see section 6302 of the Regulations).
+[22] Here, I believe that it can be said that the children had a residence with each of their parents. The agreements submitted in evidence generally demonstrate a willingness to let the children decide whether they went to the home of their father or of their mother. This is why these agreements provide for shared custody beginning in July 2000.
+[23] The question that I would thus like to resolve is to establish which of the two parents was the primary caregiver of the children during the periods at issue.[1]
+[24] This is a question to which it is difficult for me to reply in view of the contradictory testimony that I have heard. The agreements filed in evidence talk of shared custody. With effect from March 27, 2001, the new agreements grant custody of Myriam to the father. In these agreements, the parents agree that the mother will receive the family allowances and the CCTB. It would appear that this had been agreed so that the father could pay a minimal amount of alimony.
+[25] Both parents appear to have contributed to school expenses, the father for one child and the mother for two children.
+[26] With regard to whether the children spent more time at their father's home than at their mother's, Myriam's testimony would indicate that she opted to live with her father during the period at issue. The evidence is not clear for the other two. The mother denies having left the daughters at their father's home in November 2000. The affidavits signed by the daughters appear to indicate that Sophia and Mélody spent more time at their mother's home during this period. With regard to Myriam, the affidavit confirms that she was living with her father from June 2001 onwards. Prior to that she stated that she was in the shared custody of her father and her mother.
+[27] Furthermore, in her testimony, Myriam appears to be saying that her two sisters lived with her at her father's home during the periods at issue. She acknowledges at the same time that her sisters used to walk between the residence of their father and that of their mother. She also says that she helped Sophia with her homework, whereas the mother stated that Sophia was more inclined to follow her big sister Mélody.
+[28] I note from Myriam's testimony that she was somewhat confused, among other things with regard to the circumstances surrounding the signing of the affidavits. She did not remember whether her sisters were with her, or before whom she had signed the affidavit. She did, nonetheless, acknowledge having met with Ms. Lucie Ratelle on several occasions related to her parents' separation procedures. It must be recalled here that the affidavits were signed shortly after the periods at issue. Myriam's testimony does not correspond to what is written in the affidavits. Under the circumstances, I do not think it would be entirely appropriate to rely on her testimony to establish the period during which she was living with her two sisters at the home of her father.
+[29] Furthermore, I really have no reason to doubt that the affidavits were signed in the presence of Ms. Lucie Ratelle, the lawyer approved by both parents in an agreement signed by them and endorsed by the Court, and that she gathered the facts stated in the affidavits from the children prior to the meeting on October 15, 2001.
+[30] As far as the school bus is concerned, the document submitted in evidence has a number of gaps. In my view, this document can thus not be used as evidence of the location at which the children were living during the periods at issue. As far as the school reports are concerned, it is clear that their father received them. This is less clear with regard to their mother.
+[31] In my view, the documentary evidence shows, on the preponderance of probabilities, that even though both parents in theory had shared custody, Sophia and Mélody spent more time at the home of their mother than at their father's during the periods at issue (affidavits signed before a lawyer approved by both parents, interim consent agreements recognizing the mother's right to CCTB, evidence of payment of school expenses). I conclude therefrom that the Appellant is the one who bore primary responsibility for their care and upbringing during these two periods. On the other hand, in light of the testimony of Myriam, her father and her mother and of the agreement of March 27, 2001, I believe that the father assumed this role for their daughter Myriam.
+[32] The appeals are thus allowed in light of the fact that, for the periods at issue, the Appellant is entitled to CCTB in respect of her daughters Sophia and Mélody, but is not entitled to it in respect of her daughter Myriam.
+Signed at Ottawa, Ontario, this 23rd day of March 2005.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2005TCC211
+COURT FILE NO.: 2003-3289(IT)I
+STYLE OF CAUSE: NATHALIE ROBITAILLE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 14, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Lucie Lamarre
+DATE OF JUDGMENT: March 23, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Sophie Boulard
+Counsel for the Respondent:
+Nancy Dagenais
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Sophie Boulard
+Firm: Boulard & Richer
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The presumption that the mother assumed such responsibility within the meaning of subparagraph f) of the definition of "eligible individual" in subsection 122.6 of the Act does not apply here, since the children reside with both parents and both parents have submitted an application (subparagraph 6301d of the Regulations).

@@ -1,0 +1,247 @@
+---
+title: "CB Woodcraft Ltd c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28379/index.do"
+last_modified: "2004-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 477"
+citation2: ""
+neutral_citation: "2004 CCI 477"
+decision_date: "2004-06-29"
+language: "fr"
+item_id: "28379"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1898
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:16:45.460000+00:00"
+cases_cited_count: 0
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4678879e98dbae1800bbad2b74814b542db7ba03e9d00e10512aa32246145a3e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CB Woodcraft Ltd c. M.R.N.
+
+- Citation: 2004 CCI 477
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1898, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CB Woodcraft Ltd c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-29
+Référence neutre
+2004 CCI 477
+Numéro de dossier
+2003-1617(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1617(EI)
+ENTRE :
+C&B WOODCRAFT LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune, avec l’appel de Dario Virga (2003‑1615(EI)) à Edmonton (Alberta), le 22 mars 2004.
+Devant : L’honorable J.M. Woods
+Comparutions :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Dawn M. Taylor
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision que le ministre du Revenu national a rendue en vertu de la Loi sur l’assurance‑emploi est accueilli et la décision selon laquelle Dario Virga exerçait un emploi assurable chez C&B Woodcraft Ltd. est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Dossier : 2003-1615(EI)
+ENTRE :
+DARIO VIRGA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune, avec l’appel de C&B Woodcraft Ltd. (2003‑1617(EI)) à Edmonton (Alberta), le 22 mars 2004.
+Devant : L’honorable J.M. Woods
+Comparutions :
+Avocat de l’appelant :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Dawn M. Taylor
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision que le ministre du Revenu national a rendue en vertu de la Loi sur l’assurance‑emploi est accueilli et la décision selon laquelle Dario Virga exerçait un emploi assurable chez C&B Woodcraft Ltd. est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI477
+Date : 20040629
+Dossier : 2003-1617(EI)
+ENTRE :
+C&B WOODCRAFT LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé;
+ET ENTRE :
+Dossier : 2003-1615(EI)
+DARIO VIRGA
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s’agit d’appels interjetés par Dario Virga et par C&B Woodcraft Ltd. (C&B) à l’encontre de la décision par laquelle le ministre du Revenu national a conclu que M. Virga exerçait un emploi assurable pour l’application de la Loi sur l’assurance‑emploi pendant la période allant du 1er janvier 2001 au 3 juin 2002. Les appels ont été entendus ensemble sur preuve commune.
+[2] Les parents de M. Virga, Carlo et Yolanda Virga, possèdent toutes les actions de C&B, une société qui exploite une entreprise d’ébénisterie. Dario Virga a 28 ans et travaille depuis qu’il est enfant avec son père pour C&B. Pendant la période pertinente, il travaillait à plein temps comme ébéniste.
+[3] En ce qui concerne la question de savoir si une personne exerce un emploi assurable en vertu de la Loi sur l’assurance‑emploi, l’emploi d’une personne qui est liée à l’employeur, comme l’était Dario Virga, est exclu à moins que le ministre ne soit convaincu que les modalités d’emploi sont à peu près semblables à celles qui s’appliqueraient en l’absence d’un lien de dépendance.
+[4] Cet appel a été interjeté à la suite d’une demande de remboursement de cotisations versées au titre de l’assurance‑emploi que M. Virga et C&B ont présentée. Le ministre a conclu que les modalités d’emploi étaient à peu près semblables à celles qui s’appliqueraient en l’absence d’un lien de dépendance et il a décidé que l’emploi était assurable.
+[5] Cet appel était le premier de quatre appels similaires que j’ai entendus à Edmonton (Alberta) sur une période d’une semaine. Les appelants individuels dans les quatre affaires étaient employés par des sociétés appartenant à leurs parents et tous les appels ont été interjetés à la suite de demandes de remboursement. Me Deryk Coward, du cabinet d’avocats D’Arcy et Deacon, représentait tous les appelants; il m’a informée qu’il avait des centaines de causes similaires en cours.
+Dispositions législatives applicables
+[6] Les dispositions législatives pertinentes figurent aux alinéas 5(2)i) et 5(3)b) de la Loi sur l’assurance‑emploi; elles sont libellées comme suit :
+(2) N’est pas un emploi assurable :
+[...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i) :
+[...]
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+(Je souligne)
+Portée de l’alinéa 5(3)b)
+[7] Le texte législatif permettant de déterminer si une personne liée à l’employeur exerce un emploi assurable n’est pas facile à comprendre. Une question qui s’est posée est de savoir si le pouvoir décisionnel que possède le ministre en vertu de ces dispositions est final ainsi que de savoir quel est le rôle de la Cour de l’impôt lorsqu’elle examine ces décisions[1]. Une autre question sur laquelle on s’est attardé moins longtemps est de savoir comment la législation s’applique à une personne qui ne veut pas être assujettie au régime d’assurance‑emploi. Je ferai quelques remarques sur ce point avant d’examiner les faits de la présente affaire.
+[8] Si les alinéas 5(2)i) et (3)b) sont interprétés à la lettre, une personne qui est liée à l’employeur est réputée ne pas exercer un emploi assurable; l’employé et l’employeur ne sont pas tenus de verser des cotisations et l’employé n’a pas droit à des prestations – à moins que le ministre ne soit convaincu que les modalités d’emploi sont celles qui existeraient en l’absence d’un lien de dépendance. Le ministre prend habituellement cette décision lorsqu’une personne présente une demande de prestations d’emploi. Toutefois, dans ce cas‑ci, le ministre a pris sa décision dans le contexte de l’obligation de verser des cotisations. L’alinéa 5(3)b) prévoit‑il ce genre de décision de la part du ministre?
+[9] À ce jour, la présente cour a reconnu, quoique avec réticence, que le ministre est autorisé à prendre une décision, en vertu de l’alinéa 5(3)b), en vue d’exiger le paiement de cotisations. La loi est considérée comme ayant une portée suffisamment générale selon une interprétation stricte pour conférer ce pouvoir au ministre : voir Hoobanoff Logging Ltd. c. M.R.N., [1999] A.C.I. 856 (C.C.I.). Le passage suivant est tiré de la décision rendue par le juge suppléant Porter :
+Je suis d’avis que la loi lui permet d’agir ainsi dans les circonstances appropriées, mais que cela ne va pas vraiment dans le sens des modifications qui ont été apportées à la Loi sur l’assurance‑chômage en 1990, lorsque ce pouvoir discrétionnaire a été proposé pour la première fois [...]
+Néanmoins, sur le plan de l’interprétation littérale du droit, je suis convaincu que le ministre a effectivement le pouvoir légal d’agir ainsi.
+(Paragraphes 11 et 12)
+[10] L’historique législatif donne à entendre que l’alinéa 5(3)b) a été édicté afin d’accorder une réparation, de façon qu’une personne ne se voie pas refuser des prestations d’emploi à moins que le refus ne puisse être justifié pour une raison autre que la relation existant entre les parties. Avant que l’alinéa 5(3)b) ait été édicté en 1990, une personne qui était employée par un conjoint était tout simplement exclue du régime d’assurance‑emploi. Dans l’arrêt Canada c. Druken, [1989] 2 C.F. 24 (C.A.F.), il a été statué que cette exclusion était discriminatoire et contraire à la Loi sur les droits de la personne. La disposition a donc été radiée et jugée inopérante. L’arrêt Druken a entraîné la modification de la législation peu de temps après. La nouvelle disposition, maintenant alinéa 5(3)b), fait en sorte qu’une personne ne se voie pas refuser des prestations d’emploi si les modalités d’emploi sont à peu près semblables à celles qui s’appliqueraient en l’absence d’un lien de dépendance[2].
+[11] Lorsque l’historique législatif et les dispositions législatives sont examinés ensemble, il semble que, dans ce régime, les personnes liées à leur employeur ne soient pas admissibles à l’assurance‑emploi à moins de pouvoir convaincre le ministre qu’elles doivent y avoir droit compte tenu du critère relatif à l’absence de lien de dépendance qui est prévu à l’alinéa 5(3)b). Si tel est le régime législatif, les alinéas 5(2)i) et 5(3)b) ne doivent pas être interprétés, selon l’approche dite moderne qui s’applique en matière d’interprétation de la loi, d’une façon que le législateur n’a pas prévue. Je doute donc que l’alinéa 5(3)b) confère au ministre le pouvoir d’exiger qu’une personne qui est liée à l’employeur verse des cotisations d’assurance‑emploi.
+[12] Ce pouvoir ministériel ne ressort pas clairement du texte de la loi; de plus, puisqu’il est en partie de nature discrétionnaire, il s’agit d’un pouvoir passablement inéquitable dans un système d’autocotisation. Les gens doivent décider s’ils verseront des cotisations et risquer que le ministre refuse de leur verser des prestations. D’autre part, dans le cas où les cotisations ne seraient pas versées, le ministre peut exiger rétroactivement de telles cotisations.
+[13] Pour ces motifs, il n’est pas clair, selon moi, que le législateur ait voulu que le ministre possède le type de pouvoir qui a été exercé dans ce cas‑ci. Toutefois, je n’ai pas à tirer de conclusion sur ce point, et ce, à cause de la conclusion à laquelle je suis arrivée eu égard aux faits particuliers de l’espèce.
+La décision du ministre
+[14] Le ministre a conclu que Dario Virga exerçait un emploi assurable puisque les modalités d’emploi étaient à peu près semblables à celles qui s’appliqueraient en l’absence d’un lien de dépendance. Les faits sur lesquels le ministre s’est fondé sont énoncés en tant qu’hypothèses de fait dans les actes de procédure et figurent à l’appendice qui accompagne ces motifs. La relation de travail dont le ministre a supposé l’existence dans sa décision correspondait normalement à une relation entre personnes sans lien de dépendance – un salaire horaire était versé pour une semaine de travail régulière et l’employeur fournissait les instruments de travail nécessaires pour l’exécution du travail et remboursait les frais d’essence engagés dans l’exercice de l’emploi. Toutefois, un tableau plus complet a été dressé à l’audience.
+[15] Dario Virga était la seule personne qui a témoigné. Il a déclaré qu’il avait décidé de ne pas faire témoigner son père parce que celui‑ci était âgé et parlait mal l’anglais. Cela était ennuyeux parce que le témoignage du fils était plutôt incompatible avec les réponses figurant dans un questionnaire de vérification que celui‑ci avait signé avec son père. J’ai donc abordé le témoignage de M. Virga d’une façon plutôt circonspecte. Il n’est néanmoins pas surprenant, selon moi, qu’il y ait des incohérences. On ne peut se faire une idée très claire d’une relation en examinant simplement les brèves réponses figurant dans un questionnaire.
+[16] Même si j’aborde le témoignage de M. Virga avec circonspection, je conclus que le ministre n’a pas tenu compte de plusieurs faits qui auraient dû avoir une certaine incidence sur la décision, notamment :
+- Le ministre a supposé que M. Virga avait fait son apprentissage chez C&B. Cela est exact, mais le ministre n’a pas tenu compte du fait que M. Virga venait tout juste d’entreprendre cette formation.
+- Le ministre a supposé que C&B avait des employés sans lien de dépendance qui, comme M. Virga, touchaient des gratifications annuelles. Toutefois, le ministre n’a pas tenu compte du fait que les gratifications versées à M. Virga étaient beaucoup plus élevées que celles qui étaient versées aux employés sans lien de dépendance. M. Virga touchait quelque milliers de dollars alors que les employés sans lien de dépendance ne recevaient qu’une centaine de dollars.
+- Le ministre a supposé que M. Virga remplissait des feuilles de temps, mais il a omis de reconnaître qu’habituellement, M. Virga ne consignait que les heures effectuées pendant les heures régulières d’ouverture de l’atelier et qu’en général, il n’était pas rétribué pour les heures supplémentaires.
+- Le ministre a supposé que C&B remboursait M. Virga de ses frais d’essence, mais il n’a pas tenu compte du fait que les dépenses reliées à l’emploi n’étaient pas toutes remboursées. M. Virga n’était pas dédommagé de l’utilisation de ses propres instruments de travail, de son téléphone cellulaire et, à part l’essence, de ses frais d’automobile.
+- Le ministre n’a pas tenu compte du fait que M. Virga invitait des clients à des réunions sociales. J’ai accordé à ce facteur fort peu de poids parce qu’aucun élément de preuve ne montrait si les frais y afférents étaient principalement reliés à l’entreprise ou s’il s’agissait de frais personnels.
+[17] Ces facteurs dans leur ensemble donnent une idée fort différente de celle que le ministre s’est faite. Pour ce motif, j’ai conclu que la décision du ministre n’est pas justifiable.
+Les modalités d’emploi sont‑elles celles qui existeraient en l’absence d’un lien de dépendance?
+[18] Le critère de l’absence de lien de dépendance prévu à l’alinéa 5(3)b) exige une comparaison entre les modalités réelles d’emploi et les modalités qui s’appliqueraient si M. Virga et C&B n’avaient pas entre eux de lien de dépendance. Les modalités d’emploi des employés sans lien de dépendance constituent peut‑être l’élément de preuve le plus pertinent, mais cela est peu utile en l’espèce parce que rien ne montre que les employés sans lien de dépendance exerçaient des fonctions semblables à celles de M. Virga. M. Virga était un employé responsable et fiable, capable de traiter avec les clients, de donner des estimations et peut‑être bien de succéder à son père.
+[19] Une autre comparaison qui a été faite à l’audience au sujet de l’absence de lien de dépendance se rapportait à la question suivante : les modalités d’emploi de M. Virga seraient‑elles similaires s’il était employé chez Home Depot? Cette comparaison n’est pas très utile non plus parce que les modalités d’emploi qui s’appliquent dans un gros magasin de détail à succursales comme Home Depot sont nécessairement fort différentes de celles qui s’appliquent à une petite entreprise familiale. Il s’agit essentiellement de savoir si les modalités d’emploi de M. Virga seraient similaires s’il n’y avait pas eu entre C&B et lui de lien de dépendance, et non si M. Virga travaillait pour un employeur hypothétique.
+[20] Il existe donc fort peu d’éléments de preuve susceptibles de m’aider en ce qui concerne la comparaison à faire au sujet de la question de l’absence de lien de dépendance et cette comparaison doit largement être fondée sur le sens commun. Les appelants soutiennent que M. Virga s’était vu attribuer plus de responsabilités qu’un employé sans lien de dépendance. Je crois qu’il est raisonnable de supposer que dans une petite entreprise, un père aurait davantage confiance en son fils et lui confierait, dans les affaires de l’entreprise, surtout en ce qui concerne des questions financières comme les estimations, plus de responsabilités qu’à un employé sans lien de dépendance. Les appelants soutiennent également que M. Virga n’aurait pas effectué d’heures supplémentaires sans être rétribué et qu’il utilisait ses propres instruments de travail et son téléphone cellulaire sans être dédommagé. Je crois également que cet argument est valable. M. Virga était rétribué comme s’il effectuait des heures régulières, alors qu’en fait, il y avait énormément de travail à accomplir en dehors de ces heures, et que M. Virga n’était pas rétribué à cet égard. S’il n’y avait pas eu de lien de dépendance avec C&B, M. Virga n’aurait pas été aussi prêt à contribuer à l’exploitation de l’entreprise sans indemnisation suffisante.
+[21] Pour ces motifs, je conclus que les modalités d’emploi de M. Virga ne sont pas à peu près semblables à celles qui s’appliqueraient si M. Virga n’avait pas de lien de dépendance avec son employeur.
+Conclusion
+[22] Les appels sont accueillis et la décision du ministre selon laquelle Dario Virga exerçait un emploi assurable est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+[traduction] APPENDICE
+Hypothèses de fait
+En rendant sa décision, le ministre s’est fondé sur les hypothèses de fait ci‑après énoncées :
+a) l’appelante exploite une entreprise d’ébénisterie;
+b) Carlo Virga (ci‑après « l’actionnaire ») était le principal actionnaire de l’appelante durant la période ici en cause (la « période »);
+c) le travailleur est le fils de l’actionnaire;
+d) le travailleur et l’appelante sont liés l’un à l’autre au sens de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1, dans sa forme modifiée (la « Loi »);
+e) le travailleur [Dario Virga] a été embauché comme ébéniste et a fait son apprentissage auprès de l’appelante;
+f) le travailleur travaille pour l’appelante depuis plus de sept ans;
+g) le travailleur installait également des armoires et faisait des estimations;
+h) le travailleur touchait un salaire horaire fixe;
+i) le travailleur gagnait 10 $ l’heure;
+j) le travailleur était rétribué par chèque toutes les deux semaines;
+k) le travailleur touchait également une gratification annuelle;
+l) les employés sans lien de dépendance de l’appelante étaient rétribués à l’heure et touchaient des gratifications annuelles;
+m) le salaire du travailleur était comparable à celui des employés sans lien de dépendance de l’appelante;
+n) l’appelante a délivré au travailleur des feuillets T‑4 aux montants suivants :
+2001 22 535 $
+2000 21 804 $
+1999 21 794 $
+1998 16 903 $
+1997 16 086 $
+o) des retenues étaient effectuées sur le salaire du travailleur au titre des cotisations au Régime de pensions du Canada, de l’assurance‑emploi et de la Loi de l’impôt sur le revenu;
+p) le travailleur travaillait normalement pendant les heures d’ouverture de l’appelante;
+q) le travailleur effectuait normalement 40 heures de travail par semaine et il effectuait parfois des heures supplémentaires;
+r) le travailleur tenait compte de ses heures et remplissait des feuilles de temps;
+s) l’appelante avait le droit de contrôler et de superviser le travailleur;
+t) l’actionnaire prenait toutes les décisions majeures;
+u) l’actionnaire assignait le travail au travailleur;
+v) le travailleur avisait l’appelante de tout congé qu’il devait prendre;
+w) l’actionnaire s’occupait normalement des estimations et toute estimation effectuée par le travailleur était examinée par l’actionnaire;
+x) l’appelante fournissait touts les instruments de travail et le matériel nécessaires, y compris les scies, les pistolets agrafeurs, le matériel de travail du bois et le lieu de travail;
+y) le travailleur n’avait pas investi de capitaux dans l’appelante pendant la période en cause;
+z) l’appelante remboursait le travailleur des frais d’essence que celui‑ci engageait lorsqu’il se déplaçait pour faire des estimations;
+aa) l’actionnaire a déclaré qu’un travailleur sans lien de dépendance n’aurait aucun pouvoir, qu’il aurait besoin d’instructions et qu’il ne s’occuperait pas d’estimations;
+bb) le ministre a tenu compte de tous les faits pertinents qui ont été mis à sa disposition, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, et
+cc) le ministre était convaincu qu’il était raisonnable de conclure que le travailleur et l’appelante auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+RÉFÉRENCE :
+2004CCI477
+Nos DES DOSSIERS DE LA COUR :
+2003-1617(EI)
+2003-1615(EI)
+INTITULÉ :
+C&B Woodcraft Ltd. c. MRN
+Dario Virga c. MRN
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 22 mars 2004
+MOTIFS DU JUGEMENT :
+L’honorable J.M.Woods
+DATE DU JUGEMENT :
+Le 29 juin 2004
+COMPARUTIONS :
+Avocat des appelants :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Dawn M. Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Deryk W. Coward
+Cabinet :
+D’Arcy et Deacon
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cette question est notamment examinée dans certains arrêts récents de la Cour d’appel fédérale : Légaré c. M.R.N., [1999] A.C.F. no 878 (C.A.F.), Valente c. M.R.N., [2003] A.C.F. no 418 (C.A.F.), Pérusse c. M.R.N., [2003] A.C.F. no 310 (C.A.F.) et Quigley c. M.R.N., [2003] A.C.F. no 1789 (C.A.F.).
+[2] Pour une bonne description de l’historique législatif, voir Thivierge c. M.R.N., [1994] A.C.I. no 876 (C.C.I.).

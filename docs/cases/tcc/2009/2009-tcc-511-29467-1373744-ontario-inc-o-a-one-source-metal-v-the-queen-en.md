@@ -1,0 +1,146 @@
+---
+title: "1373744 Ontario Inc. o/a One Source Metal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29467/index.do"
+last_modified: "2009-10-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 511"
+citation2: ""
+neutral_citation: "2009 TCC 511"
+decision_date: "2009-10-14"
+language: "en"
+item_id: "29467"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6286
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:52:04.151000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ac04f8e2879bb080597476353e49437f72d792e4341bcf93c5793277a9739cf3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1373744 Ontario Inc. o/a One Source Metal v. The Queen
+
+- Citation: 2009 TCC 511
+- Decision date: 2009-10-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6286, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1373744 Ontario Inc. o/a One Source Metal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-14
+Neutral citation
+2009 TCC 511
+File numbers
+2008-3566(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3566(IT)I
+BETWEEN:
+1373744 ONTARIO INC.,
+o/a ONE SOURCE METAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 8, 2009, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Bill Hutchings
+Counsel for the Respondent:
+Jenna Clark and
+Ariane Asselin (Student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2005 taxation year is dismissed.
+Signed at Ottawa, Canada, this 14th day of October, 2009.
+“E.A. Bowie”
+Bowie J.
+Citation: 2009 TCC 511
+Date: 20091014
+Docket: 2008-3566(IT)I
+BETWEEN:
+1373744 ONTARIO INC.,
+o/a ONE SOURCE METAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] This appeal is from an income tax assessment of the appellant’s 2005 taxation year, and more specifically, from the Minister of National Revenue’s (Minister) denial of a claimed deduction for scientific research and experimental development (SRED). The reason for denying the claim is that, in the Minister’s view of the facts, the claim was not filed within the time limited by the Income Tax Act (the Act) for doing so. It is not disputed that the deadline to file the SRED claim for 2005 was March 31, 2007. Nor is it disputed that the claim consisted of two documents, a form T-661 accompanied by Schedule 31 and Schedule 1 (the T‑661), and a technical report. The T‑661 for 2005 and the T‑661 for 2006 were filed at the Toronto West Tax Service Office on March 28, 2007. The dispute is as to whether the technical report was filed at the same time. The appellant says that it was. The respondent says that it was not, and that it was first filed in the form of a fax sent and received on April 12, 2007.
+[2] It is subsection 37(11) of the Act that creates the filing requirement, and it reads as follows:
+37(11) Subject to subsection 37(12), no amount in respect of an expenditure that would be incurred by a taxpayer in a taxation year that begins after 1995 if this Act were read without reference to subsection 78(4) may be deducted under subsection 37(1) unless the taxpayer files with the Minister a prescribed form containing prescribed information in respect of the expenditure on or before the day that is 12 months after the taxpayer’s filing-due date for the year.
+It is common ground that compliance with the subsection for 2005 required that both the T‑661 and the technical report had to be filed before the end of March 2007.
+[3] The appellant called three witnesses. Benjamin Mair is the principal of the appellant company. He testified that the appellant’s accountants, Martyn, Dooley and Partners, LLP, prepared the SRED claims for 2005 and 2006, and that he attended at their office to sign them on March 27, 2007. He left the documents with Martyn, Dooley to be filed. At some later time he was given file copies of the documents, but he had no direct knowledge of the circumstances surrounding the actual filing.
+[4] Mr. Kevin Wong is the accountant who prepared the T‑661s for 2005 and 2006. He received the technical report, which is common to the two years, from a firm called Business Improvement Group which had done the work giving rise to the claims, and had prepared the technical report. He assembled a package for filing with the Minister in this way. He stapled the T‑661 form, Schedule 31 and Schedule 1 for 2005 together; he did the same with the T‑661, Schedule 31 and Schedule 1 for 2006. He then stapled the pages of the technical report together. Finally, he paper-clipped the three stapled documents together. He did not place them in an envelope. He also prepared file copies of the three documents to be stamped when they were filed at the Toronto West Tax Service office.
+[5] Blair Mabee is an employee of Martyn, Dooley and Partners. Kevin Wong gave him “… a document for SR and ED that was given to me by Kevin Wong to deliver to the CRA office”.[1] He said that Mr. Wong provided him with two copies, one stamped “federal copy” and one stamped “file copy”. His instructions were to file the “federal copy” at the CRA office, and to obtain a date stamp on the “file copy” when he delivered it. He said that he could not remember how many documents were clipped together, but that all the documents he was given were delivered to the CRA.
+[6] The file copies of the three documents were entered into evidence by the appellant. The T‑661 and schedules for 2005 are Exhibit A-1 and those for 2006 are Exhibit A-2. They both are stamped on the front page:
+RECEIVED REÇU
+Canada Revenue Agency
+Agence du revenue au Canada
+2007-03-28
+CONTENTS NOT EXAMINED
+CONTENU NON EXAMINÉ
+The file copy of the technical report is Exhibit A-3, and it has no stamp on it at all. Mr. Mabee’s explanation of this was the following:[2]
+Q. Why did you only have stamped the front pages of the T‑661s for both years, and not the technical report?
+A. CRA usually just stamps the front copy that the document that was received. [sic] They don’t inspect the document. And they just stamp the front of the document. Sometimes they will look at them to make sure they are the same and then just accept it.
+Q. So there was no - - was there - - how many documents were paper‑clipped together?
+A. I can’t recall how many were clipped together, but all the documents I were [sic] given were delivered to CRA.
+[7] Christine Lockwood gave evidence for the respondent. She is an appeals officer in the Sudbury office of the Canada Revenue Agency. Her evidence was that SRED claims are given special treatment by the Agency. All SRED claims are evaluated at the Sudbury office. Immediately upon filing they are sent to Sudbury where they are logged by a special services clerk and kept in a special vault. The files are only removed from that vault to be evaluated by an assessor or, following an objection, by an appeals officer.
+[8] Ms. Lockwood also testified about her inquiries through the CRA computer system and the Ontario Revenue Department system, to which she had access. Through the CRA system, she was able to establish that as the technical report had the abbreviated name under which the appellant carried on business, One Source Metal, at the top of page one, inserting that name into the CRA system would lead to the corporate name 1373744 Ontario Inc. If it had become detached from the T-661s after filing, therefore, the mailroom staff in Toronto, or the special services clerk in Sudbury, would have been able to associate it with the correct file.
+[9] Ms. Lockwood’s technical advisor has access to the Ontario Revenue Department’s computer system. The Ontario Department scans all SRED applications upon filing. Her inquiry revealed the technical report had been filed with the provincial authority on April 13th. It was on April 10th that the CRA assessor telephoned the appellant’s representative and told him that the technical report had not been filed with the T-661 forms.
+[10] The evidence leads me to conclude on a balance of probabilities that the technical report was not filed by the appellant or its representative until after the assessor’s telephone call on April 10, 2007, and therefore, beyond the deadline for filing a claim for the 2005 taxation year. There are a number of elements in the evidence that lead to that conclusion, but the most important is the absence of a “received” stamp on the file copy of the technical report. Mr. Mabee was not an impressive witness. He had no idea how many documents he actually filed on March 28, 2007. He knew that he should get a “received” stamp on the documents he filed, and he did so for the two T-661 forms. It seems to me most unlikely that he would have filed three documents and only had two copies stamped “received”. The appellant has the onus of proving its case. The evidence falls short of doing that.
+[11] The appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of October, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC 511
+COURT FILE NO.: 2008-3566(IT)I
+STYLE OF CAUSE: 1373744 ONTARIO INC., o/a ONE SOURCE METAL and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 8, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: October 14, 2009
+APPEARANCES:
+Agent for the Appellant:
+Bill Hutchings
+Counsel for the Respondent:
+Jenna Clark and
+Ariane Asselin (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Evidence of Blair Mabee, Transcript, p. 24, l. 24 to p. 25, l. 1.
+[2] Transcript, p. 25, l.25 to p. 26, l. 14.

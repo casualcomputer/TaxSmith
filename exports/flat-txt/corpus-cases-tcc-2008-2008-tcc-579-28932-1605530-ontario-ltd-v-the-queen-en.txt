@@ -1,0 +1,113 @@
+Title: 1605530 Ontario Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28932/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-579-28932-1605530-ontario-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-10-24
+
+# 1605530 Ontario Ltd. v. The Queen
+
+- Citation: 2008 TCC 579
+- Decision date: 2008-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1372, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1605530 Ontario Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-24
+Neutral citation
+2008 TCC 579
+File numbers
+2008-1612(GST)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-1612(GST)G
+BETWEEN:
+1605530 ONTARIO LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on October 14, 2008 at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+William Novicoff
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant for an order authorizing William Novicoff to represent it at the hearing of this appeal;
+The motion by the Appellant for an order authorizing William Novicoff to represent it is allowed for the reasons attached to this order and the Respondent is also ordered to file a reply to the Notice of Appeal before January 9, 2009.
+Signed at Ottawa, Canada, this 24th day of October 2008.
+“Paul Bédard”
+Bédard J.
+Citation: 2008 TCC 579
+Date: 20081024
+Docket: 2008-1612(GST)G
+BETWEEN:
+1605530 ONTARIO LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bédard J.
+[1] The Appellant presented a motion to the Court requesting authorization to be represented by its officer, William Novicoff.
+[2] According to the testimony of Mr. Novicoff, whose credibility was never questioned:
+(i) he was and still is the Appellant’s sole director, shareholder and officer;
+(ii) he had acquired some experience in litigation matters since in 2008 he has represented a company in tax litigation similar to that in the present case;
+(iii) he is the only person who can explain the nature of the Appellant’s activities;
+(iv) the issue is not a complex legal issue since it is related to input tax credits totalling $42,578.30 claimed by the Appellant in the calculation of its net tax reported to the Minister for the relevant period;
+(v) the Appellant is dormant and insolvent and he does not have the financial resources to hire a lawyer to represent it.
+[3] The evidence also revealed that the Attorney General has elected to move the appeal from the informal procedure to the general procedure and that Mr. Novicoff will likely be called to testify.
+Analysis
+[4] Subsection 30(2) of the Tax Court of Canada Rules (General Procedure (the “Rules”) states the following:
+A corporation shall be represented by counsel in all proceedings in the Court, unless the Court, in special circumstances, grants leave to the corporation to be represented by an officer of the corporation.
+[5] In this regard, the case law has set out a number of factors to consider. In Thomson Motors Co. Ltd. v. The Queen,[1] Little J. of this Court summarized the criteria that are to be considered by the Court in exercising its discretion:
+[6] In her submission counsel for the Respondent outlined the criteria that have been considered by Courts before leave can be granted under rule 30(2). Counsel for the Respondent outlined the following criteria:
+1. Whether the corporation can pay for a lawyer;
+2. Whether the proposed representative would likely be a witness;
+3. Whether the issue(s) were complex legal issues;
+4. Whether the action can proceed in an expeditious manner;
+5. Whether the Attorney General has elected to move the appeal from the Informal Procedure to the General Procedure;
+6. Whether the officer is also the director and sole shareholder of the corporation.
+[7] I believe that counsel for the Respondent is correct in the summary that she prepared outlining the criteria that should be considered before leave can be granted under rule 30(2).
+[6] Elsewhere, Bowman A.C.J., in Chase Bryant Inc. v. Her Majesty the Queen, 2003 DTC 145 (TCC),[2] put it this way:
+[6] The factors referred to in these cases are a useful starting point but they are neither determinative nor exhaustive. For example in RFA Natural Gas Bowie, J. did not put much weight on the question whether the proposed representative might appear as a witness. I respectfully agree.
+[7] In my opinion, the fact that Mr. Novicoff would be called to testify is certainly a factor the Court must consider, but it is not the only factor to consider. In my opinion, this fact must be considered in light of all the circumstances that the Appellant demonstrated. In this case, Mr. Novicoff satisfied me that the Appellant did not have the financial resources to hire counsel to represent it. I am satisfied that the continuation of the case would not genuinely be affected if I authorized him to represent the Appellant since he seemed to me an intelligent and well-informed person well aware of the nature of the Appellant’s activities and of all the facts and points of law related to this appeal (and these points of law are not complex legal issues). Moreover, in authorizing Mr. Novicoff to represent the Appellant, there is no risk of affecting shareholders of the Appellant having an arm’s length relationship with Mr. Novicoff since he is the Appellant’s only shareholder. In my opinion, in this case there are enough factors militating in favour of the Appellant’s being represented by Mr. Novicoff, factors that largely outweigh the problem presented by the fact that he will be called to testify in this case.
+[8] For these reasons, I authorize Mr. Novicoff to represent the Appellant in this case and I order the Respondent to file a reply to the Notice of Appeal before January 9, 2009.
+Signed at Ottawa, Canada, this 24th day of October 2008.
+“Paul Bédard”
+Bédard J.
+CITATION: 2008 TCC 579
+COURT FILE NO.: 2008-1612(GST)G
+STYLE OF CAUSE: 1605530 ONTARIO LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: October 14, 2008
+REASONS FOR ORDER BY: The Honourable Justice Paul Bédard
+DATE OF ORDER: October 24, 2008
+APPEARANCES:
+Agent for the Appellant:
+William Novicoff
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2002 DTC 2006 (TCC).
+[2] 2003 DTC 145 (TCC).

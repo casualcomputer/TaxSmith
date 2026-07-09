@@ -1,0 +1,164 @@
+Title: O'Dwyer v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/68558/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-90-68558-o-dwyer-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-03-21
+
+# O'Dwyer v. The Queen
+
+- Citation: 2014 TCC 90
+- Decision date: 2014-03-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5320, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Dwyer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-21
+Neutral citation
+2014 TCC 90
+File numbers
+2011-3234(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3234(IT)G
+BETWEEN:
+THOMAS O’DWYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion for Costs heard in Writing
+Before: The Honourable Justice Randall S. Bocock
+Counsel for the Appellant:
+Alistair G. Campbell
+Counsel for the Respondent:
+William L. Softley
+Darcie Charlton
+___________________________________________________________________
+ORDER
+UPON READING the written submissions of the Appellant and the Respondent regarding costs in the appeal:
+THIS COURT ORDERS THAT:
+1. In accordance with the reasons attached, the Appellant shall be entitled to costs in his successful appeal before the Tax Court of Canada on the following basis:
+a. A fixed amount equal to a lump sum of $33,519.00 being approximately ninety percent (90%) of his incurred solicitor and client cost ; and.
+b. Costs in this motion fixed at $1,500.00.
+Signed at Vancouver, British Columbia, this 21st day of March, 2014.
+“R.S. Bocock”
+Bocock J.
+Citation: 2014-TCC 90
+Date: 20140321
+Docket: 2011-3234(IT)G
+BETWEEN:
+THOMAS O’DWYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR COST ORDER
+I Introduction
+[1] This is a motion, brought by written submissions, wherein the Appellant seeks costs on the following basis:
+a) On a solicitor and client basis in the amount of $37,243, representing the total amount of all legal fees, costs and taxes incurred in the appeal;
+b) In the alternative, a lump sum award of costs in the amount of $33,519, being 90% of the Appellant’s costs calculated on a solicitor and client basis;
+c) In further alternative, 80% of the actual legal fees, being an amount of $23,013, incurred by the Appellant in the appeal after the date of service of an offer of settlement and tariff costs in respect of those costs incurred prior to the delivery of such offer; and,
+d) Costs to be fixed in respect of this motion at $1,500.
+II Background:
+[2] The Appellant, Mr. O’Dwyer, was assessed a penalty as tax under subsection 237.1(7.4) of the Income Tax Act (“the Act”). This personally assessed tax shelter penalty of $2,352,500 and accrued interest of $485,312.34 related to certain transactions in respect of which the Appellant acted as an accounting advisor in 2006.
+[3] In May of 2012, the Appellant brought a motion before the Court to compel the Respondent to answer certain demands for particulars in respect of the Reply filed or, in the alternative, to strike portions of the Crown’s Reply or to strike the entire Reply. The basis for this motion alleged that the Reply failed to describe sufficiently the property, the representations allegedly made regarding the tax shelter and the role the Appellant played in the promotion of the tax shelter.
+[4] This Court struck the Reply on the basis that the Reply disclosed no reasonable grounds for opposing the appeal. In doing so, this Court held that the Reply failed to allege facts which would establish the necessary elements of the offence and the role of the Appellant necessary in order to assess a penalty under the applicable penalty provisions.
+[5] The Respondent appealed that final dispositive Order. Pending the hearing of the appeal, the determination of the award of costs was held in abeyance.
+[6] On September 6, 2013, the Federal Court of Appeal dismissed the Respondent’s appeals (there were two Orders) on the basis that the Reply disclosed no reasonable grounds for opposing the appeal since the Reply contained:
+a) insufficient alleged facts relating to the requisite representations of the Appellant; and,
+b) insufficient factual allegations regarding the role of the Appellant in relation to the promotion of the tax shelter.
+[7] On the ground of appeal related to the property description, while the Federal Court of Appeal found such factual allegations by the Respondent were not correct, such an error, in isolation, would not otherwise justify the striking of the entire Reply. In any event, the Respondent’s appeal was dismissed on the other two grounds.
+[8] Therefore, this Court must now decide the award of costs on the Appellant’s original motion to enforce the demand for particulars or to strike the Reply brought in May 2012.
+III Statutory Authority:
+[9] The following is an excerpt from the relevant cost provisions in the Tax Court of Canada Rules (General Procedure) (the “General Rules”) relevant to the determination of this question:
+147(1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+147(3) (3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+[….]
+(j) any other matter relevant to the question of costs.
+147(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+147(3.1) Settlement offers
+(a) Unless otherwise ordered by the Court and subject to paragraph (c), where an Appellant makes a written offer to settle and obtains a judgment as favourable or more favourable than the terms of the offer to settle, the Appellant is entitled to party-and-party costs to the date of service of the offer and an amount equal to solicitor-client costs after that date, plus reasonable disbursements and applicable taxes.
+(b) Unless otherwise ordered by the Court and subject to paragraph (c), where a Respondent makes a written offer to settle and the Appellant obtains a judgment less favourable than the terms of the offer of settlement, or fails to obtain judgment, the Respondent is entitled to party-and-party costs to the date of service of the offer and an amount equal to solicitor-client costs after that date, plus reasonable disbursements and applicable taxes.
+(c) Paragraphs (a) and (b) do not apply unless the offer to settle
+(i) is a written offer of settlement submitted to the Court within two days of being served, in a sealed date serviced envelope;
+(ii) is served at least 90 days before the commencement of the hearing; and
+(iii) is not withdrawn; and
+(iv) does not expire earlier than 30 days before the commencement of the hearing.
+[10] As a result of an Order-in-Council in February of 2014, the Court notes that subsection 147(3.1), identified in italics above, recently became a promulgated rule of this Court, as opposed to its previous status of being subject to a directive Practice Note of the Court.
+IV Principled Analysis of Various Cost Hierarchies:
+i) Full Solicitor and Client Costs - $37,243:
+[11] The Respondent submits that solicitor and client costs on a full indemnity basis are not to be awarded unless there is reprehensible, scandalous or outrageous conduct associated with the litigation or where there is clear evidence that a party or counsel has engaged in that behavior prior to the commencement of the action. This is referenced in the cases of LeRiche v. Her Majesty the Queen, 2012 TCC 19, Miller v. Canada, 2003 DTC 6 (TCC) and Alberta Printed Circus v. Her Majesty the Queen, 2011 TCC 305. In the analysis which follows, this Court explores the tactical intransigence of the Crown in its failure to appreciate the factual deficiencies of its case. Nonetheless, considerable interpretive licence would be needed in the present case to elevate the Crown’s conduct to that of reprehensible, scandalous or outrageous as opposed to myopic, speculative and obdurate. This is true during both the assessment and the litigation phases where examples of an elongated confirmation period, the delivery of the notice of confirmation of assessment without consultation and the factually deficient Reply were highlighted by Appellant’s counsel in submissions. However, given that malfeasance as opposed to obstinacy is a precondition to solicitor and client costs on a full indemnity scale, the Court finds that such completely recoverable costs shall not be awarded in this case.
+ii) Exercise of the Court’s discretion for Enhanced Costs:
+[12] The Respondent further submits that there is no basis for this Court to award enhanced costs in the first instance and, alternatively, not in the amount sought by the Appellant. Further, the Court should decline to use its discretion to award costs in excess of those otherwise provided for under Tariff B relating to a Class C proceeding (the “Tariff”) or to give other directions as to costs. The Respondent submits that the Tariff is sufficient in this matter in respect of the Appellant’s costs. Rule 147(3) clearly allows the Court to assess the factors enumerated therein on a principled basis and, if warranted after the analysis, exercise its discretion in awarding costs beyond the Tariff in order to achieve “a reasoned, balanced and just result”: Daishowa-Marubeni International Ltd v The Queen, 2013 TCC 1222 at paragraph 4.
+[13] The Court recognizes that the discretionary power to award costs beyond the Tariff must be exercised on a principled basis bearing in mind it is a discretionary exercise and must have a substantive purpose relevant to its use: R v. Landry, 2010 FCA 135 and Alberta Circuits, supra. In this particular matter, the Court will exercise its discretion to analyze the particular factors placed at its disposal in section 147 of the General Rules in order to determine whether costs beyond the Tariff should be awarded.
+a) Results:
+[14] The Appellant achieved complete victory. The alternative relief sought by the Appellant was rendered moot by this unequivocal outcome. The order granted was fully determinative and terminally dispositive of a successful appeal. At a preliminary stage and following the only avenue open to the Appellant at the time, namely the bringing of a motion to compel particulars or to strike the Reply, the Appellant was completely successful before this Court. What began as an interlocutory process became a final outcome. Given such a result, the authority cited by the Respondent that only costs under the Tariff should apply to interlocutory matters is not applicable: Canadian Imperial bank of Commerce v. R, 2013 FCA 179 at paragraphs 7 and 81.
+b) Amounts in Issue:
+[15] The Appellant was assessed with a third party penalty under the Act. The assessment qua penalty relates not to a reassessment of his tax return, but a penalty with respect to professional services offered to others. This is among one of the most unilateral type of assessments available to the Minister under the Act. It becomes liability for tax, but is entirely unrelated to the Appellant’s own income and filings. Accordingly, the Appellant, aside from bringing the motion, had only two stark choices: continue to prosecute the appeal without a proper Reply or personally pay the penalty in excess of $3,000,000. The relative importance of these amounts, measured against the taxpayer’s livelihood, financial resources and professional reputation were massive. In fact, it is difficult to imagine another event in his professional life which could have so affected the remainder of his working life and financial well-being. This huge personal penalty exalts the Appellant’s right to know within the Reply the factual basis of the imposition of the unilateral penalty against him. This right is further enhanced because the penalty itself is unrelated to the Appellant’s personal affairs which by comparison to usual assessments would otherwise have been deemed him to have personal and intimate knowledge.
+c) Importance of the Issues:
+[16] Promoter penalties under subsection 237.1(7.4) are not common before the Court. The Respondent’s faulty pleadings witness the fact that the analysis and marshalling of factual allegations concerning promoter penalties for limited partnership tax shelters are not that commonplace either. Before the Court appeared two parties: one whose livelihood was in peril under a levied tax penalty unrelated to his business or personal tax status and, the other, the government seeking to establish the format, threshold and methodology informing these entirely punitive provisions. The Court observes that such stakes and principles were both publicly and/or personally important to both parties.
+d) Settlement Offer:
+[17] There was an offer of settlement served by the Appellant more than 30 days prior to the motion. It provided that the Respondent would vacate the penalties with no costs payable to the date of the offer and, thereafter, the Respondent would pay the Appellant 75% of his party and party costs from the date of the offer until acceptance. This offer is commonly referred to as “an all or nothing” offer as to the outcome of the main appeal. However, in this particular instance, the determination of the Minister to assess penalties was also an all or nothing proposition. There was no possible offer of settlement regarding the final appeal to be made by either party in this type of third party penalty assessment other than that of an “all of nothing” offer. There is no spectrum of possible points between the determination or non-determination of liability. The former commands the statutory imposition of the penalty as pre-determined and pre-quantified by the relevant section of the Act. The latter causes the penalty to be vacated. There is simply no discretion on the part of the Minister except for one notable exception: to undertake a careful assessment of the factual underpinnings of the case and determine whether to persist, especially when confronted with such an offer at such an early stage as a precursor to the initiation of such a motion to strike the Reply.
+[18] Logically, if “all or nothing offer” offers to settle are not to be considered at all, then it is never open to either a respondent or an appellant in any tax court matter to utilize an offer to settle with costs consequences where there is an all or nothing determination of liability. Hypothetically, if the Appellant had placed an offer to the Minister for an assessment of one-half of the quantum of the third party promoter penalty, the Minister could not have accepted it: CIBC World Markets Inc v. The Queen, 2012 FCA 3 at paragraph 22. If “all or nothing” offers can never be considered then the cost provisions related to offers of settlement are inapplicable in such circumstances even though there is no express preclusion in the General Rules.
+[19] In order to ascribe some sense to the broad wording of Rules 147(3)(d) and 147(3.1), the issue is not whether an “all or nothing” settlement can or cannot be made with cost consequences. Instead, in cases where only such an offer can be made, weight should be given to such an offer where a party is completely successful in an ultimate way where interim alternative relief was also sought. This sensible approach adds “weight” to the offer in the present case for several reasons. Firstly, if the alternative relief had been granted to the Appellant (i.e. demand for particulars enforced or only portions of the Reply were struck), the matter would continue, the cost principle regarding interlocutory matters would apply and the threshold of the offer to settle would not have been achieved. Secondly, an “all or nothing” offer made at the close of pleadings sounds a clarion call to the opposing party that an overdue review, analysis and reconsideration of the entire matter ought to be undertaken. Similarly, when an offeror sets the threshold of the offer so high at the close of pleadings (abandonment of opposing the appeal), the usual probability of an enhanced cost award is unlikely, but should make the offeree wary of the conjunctive facts the offer’s preparation and service have been undertaken so early in the proceedings and directly linked with the motion to strike. Lastly, within the offer, there was quantifiable compromise on the issue of costs, not just to the date of the offer (no costs), but in the case of acceptance (only 75% on a party and party basis). These facts provide ballast to employing the offer as guidance without contravening other cost principles which usually winnow or nullify the effect of an all or nothing offer because no other degree of compromise was possible than those offered: Mckenzie v. The Queen, 2012 TCC 329.
+e) Volume of Work:
+[20] While intense, the amount of work expended by the Appellant in respect to this matter did not extend over a long period. This is reflected in the relatively small amount of the total costs even on a full indemnity basis: $37,243.00. However, had the Appellant elected not to bring this motion and allowed this matter to proceed to discoveries and then to a full hearing of this Court, the result would have had been no different at trial, but the Appellant’s costs would have been dramatically higher. This is not to suggest that the Appellant’s action in bringing the motion is something for which the Crown should be thankful and happily pay enhanced costs. Nonetheless, it is a factor in assessing the reduced volume of work and related costs which were expended by all at this time in an intense and efficient fashion, rather than in an otherwise more passive and prolonged manner had the manner proceeded to hearing in the absence of the motion. Moreover, a specific examination of Appellant’s counsel’s accounts (submitted with the materials) illustrates a methodical, calibrated and negotiable approach in the intermittent and lock-step service of materials, discussion with opposing counsel and subsequent proceeding to next steps. Such an approach reveals that had the matter settled before the hearing of the motion, the Appellant would have incurred fees in a progressively efficacious and cost-effective manner. This approach actually moderated the costs by incrementally measuring Appellant Counsel’s volume and expenditure of work against the Respondent’s responses leading up to the hearing of the motion.
+f) Complexity of the Issues:
+[21] While the legal issues, per se, are neither extraordinary nor complex in terms of a motion to strike a Reply or to enforce a demand for particulars, it should be noted that all aspects of the motion were strenuously resisted by the Respondent. This is evident both by representations made at the hearing of the motion and at the Federal Court of Appeal. As well, the components of the legal and factual elements of the promoter penalty provisions for tax shelters are neither simple nor widely or frequently litigated. Accordingly, the complexity of legal issues in the main appeal upon which the motion was based was higher than usual.
+g) Conduct of Any Party:
+[22] The Respondent, while it did not engage in behavior which was improper, vexatious or unnecessary, did fail to undertake an appropriate review of the factual underpinnings and legal components of the third party promoter penalty and the ability of such a case embodied in the Reply to withstand this type of preliminary motion from the Appellant. This assessment of the Respondent’s conduct holds even after the Respondent received the appropriate notice, warning and opportunity to move to sturdier middle ground or, as it turned out, in the absence of seeking such refuge, vacate the penalties. The Respondent’s unwillingness to expend the effort and time to do so made the motion and its ultimate determination essential.
+h) Neglect of the Party to Admit:
+[23] This was an interlocutory matter (albeit a dispositive one) and so the narrow issue of admitting facts is not relevant.
+i) Improper Conduct or Negligence:
+[24] The Court has already determined that there were no improper, vexatious or unnecessary proceedings. However, there was, from the beginning and throughout, a refusal by the Respondent to properly assess the merits of the case, its theory and the requisite facts. The Respondent’s failure to effectively assess the absence of facts otherwise necessary to establish the specific allegations against the Appellant, his role in the promotion of the tax shelter and the connection of that role to the penalty assessed, was at the heart of the striking of the Reply. In addition, even on the finding related to the definition of the partnership as property, it is clear that while the Federal Court of Appeal would not have upheld the decision of this Court to strike the Reply on that ground alone, the Federal Court of Appeal in several paragraphs of its decision reflected that such drafting was a legal error within the Reply.
+[25] Factually and with reference to recent authorities where enhanced costs have been awarded, the Respondent’s conduct as a factor falls somewhere between malfeasance (Lariche and Miller, supra) and no appreciable neglect, delay or intransigence ( Reynold Dickie v. The Queen, 2012 TCC 327, Alberta Circuits and Daishowa-Marubeni, supra). In affixing the spectral placement of such conduct in this matter, it would appear farther away from neutrality than it does from impropriety.
+V Conclusion
+[26] Therefore, with respect to the Court’s analysis of the majority of the factors above, this Court easily finds that its discretion should be exercised in favour of awarding the Appellant substantially enhanced costs well beyond the Tariff. Given the present circumstances woven within any analysis of the factors, the Tariff would be entirely inadequate: Re: Consorzio del Proscuitto v. The Queen, 2002 FCA 417.
+[27] The Court, in applying the factors above, identifies that most, if not all, of the factors weigh strongly in favour of awarding the Appellant enhanced costs: the probable dramatic financial effect of the penalty on the taxpayer, the importance of the issue to the Respondent and to the Appellant, the comparative complexity of the penalty provisions, the efficacy of litigating the deficiencies in the Reply at the pleading stage, the offer of settlement made in writing (albeit by nature an all or nothing settlement) and the conduct of the Respondent, not to the extent of improper conduct, but to the extent of myopic, perfunctory and hasty evaluations of the merits of the assessment throughout (ultimately reflected in the Reply). Moreover, the final factor, relating to the Respondent’s conduct, was a determinative omission to the entire appeal which arose and continued in the face of legitimate queries of, and subsequent opportunities provided to, the Respondent to evaluate, amend or vacate such penalties when questioned at various stages by the Appellant and the Court, alike.
+[28] Accordingly, the consideration of all of these factors justifies an award of costs to the Appellant on the basis of a lump sum equal to $33,519.00 being approximately 90% of his solicitor and client costs. In addition, the Appellant shall have its costs on this motion as requested.
+Signed at Vancouver, B ritish Columbia, this 21st day of March, 2014.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2014 TCC 90
+COURT FILE NO.: 2011-3234(IT)G
+STYLE OF CAUSE: THOMAS O’DWYER and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: January 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Randall S. Bocock
+DATE OF JUDGMENT: March 21, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Alistair G. Campbell
+Counsel for the Respondent:
+William L. Softley/Darcie Charlton
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Alistair G. Campbell
+Firm: Legacy Tax and Trust Lawyers
+Vancouver, British Columbia
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

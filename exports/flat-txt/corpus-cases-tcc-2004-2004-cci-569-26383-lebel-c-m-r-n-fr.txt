@@ -1,0 +1,159 @@
+Title: Lebel c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26383/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-569-26383-lebel-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-08-19
+
+# Lebel c. M.R.N.
+
+- Citation: 2004 CCI 569
+- Decision date: 2004-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3330, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lebel c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-19
+Référence neutre
+2004 CCI 569
+Numéro de dossier
+2004-1235(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2004-1235(EI)
+ENTRE :
+LINDA LEBEL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROL LEBEL,
+intervenante.
+____________________________________________________________________
+Appel entendu le 12 août 2004 à Hâvre-Aubert (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Agathe Cavanagh
+Pour l'intervenante :
+Personne n'a comparu
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour d'août 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI569
+Date : 20040819
+Dossier : 2004-1235(EI)
+ENTRE :
+LINDA LEBEL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROL LEBEL,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] La question en litige est relativement simple : le ministre du Revenu national (le « ministre » ) est d'avis que l'appelante, comme gardienne d'enfants, n'exerçait pas un emploi aux termes d'un contrat de louage de services, au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi » ), auprès du payeur, Carol Lebel, et qu'elle n'occupait donc pas un emploi assurable pour la période commençant le 1er juin 2003 et se terminant le 5 septembre 2003.
+[2] Les faits sur lesquels le ministre s'est appuyé pour rendre sa décision sont décrits au paragraphe 5 de la Réponse à l'avis d'appel et sont les suivants :
+a) l'appelante est la soeur du payeur;
+b) le payeur avait la garde en famille d'accueil d'une enfant de 13 mois;
+c) le payeur louait également en période estivale un chalet et deux maisons à des touristes;
+d) durant la période en litige, l'appelante avait deux emplois avec le payeur;
+e) l'appelante a été embauchée par le payeur pour garder l'enfant 3 jours semaine du mardi au jeudi;
+f) de plus, l'appelante effectuait pour le payeur l'entretien ménager des résidences touristiques, les samedis et les dimanches, entre les départs et les arrivées des locataires;
+g) l'appelante gardait l'enfant à sa résidence ou à sa roulotte;
+h) le payeur amenait l'enfant vers 7 h 55 et revenait le chercher vers 17 h 00;
+i) tout en gardant l'enfant, l'appelante pouvait vaquer à d'autres occupations;
+j) le payeur n'avait pas de contrôle sur le temps et les efforts de l'appelante comme gardienne de l'enfant;
+k) l'appelante était rémunérée au tarif de 9,00 $ l'heure pour chacun des emplois;
+l) l'appelante travaillait 27 heures environ par semaine comme gardienne d'enfant et 13 heures par semaine comme responsable de l'entretien ménager des résidences;
+m) l'appelante facturait ses services au payeur pour obtenir sa rémunération;
+n) l'appelante fournissait sa résidence ainsi que les collations et les repas dans l'exécution de ses tâches de gardienne;
+o) le payeur ne remboursait pas les dépenses de l'appelante agissant comme gardienne;
+p) l'appelante assumait des dépenses dans le cadre de son emploi de gardienne;
+q) le 18 septembre 2003, le payeur émettait un relevé d'emploi à l'appelante, pour la période débutant le 1er juin 2003 et se terminant le 5 septembre 2003, et qui indiquait 560 heures assurables et une rémunération assurable totale de 5 040,00 $ pour les deux emplois de gardienne et d'entretien ménager;
+r) selon ses propres factures, l'appelante a travaillé pour le payeur comme gardienne pendant 379 heures pour une rémunération de 3 411 $ et comme femme d'entretien pendant 180 heures pour [une] rémunération de 1 620,00 $ pour un total de 559 heures et une rémunération de 5 031,00 $.
+[3] Il convient de souligner que l'appelante a admis tous les faits énoncés au paragraphe 5 de la Réponse à l'avis d'appel à l'exception de ceux énoncés aux alinéas j), m), o) et p) et que sa preuve reposait essentiellement sur son témoignage puisque le payeur n'est pas venu témoigner.
+Analyse
+Le droit
+[4] Il convient de souligner que la relation contractuelle entre l'appelante et le payeur doit nécessairement être interprétée conformément aux lois de la province de Québec.
+[5] Dans le Code civil du Québec, des chapitres distincts portent respectivement sur le « contrat de travail » (articles 2085 à 2097) et sur le « contrat d'entreprise et de service » (articles 2098 à 2129).
+[6] L'article 2085 porte que le contrat de travail :
+[...] est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[7] L'article 2098 porte que le contrat d'entreprise :
+[...] est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+[8] L'article 2099 suit, rédigé dans les termes suivants :
+L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[9] On peutdire que ce qui distingue fondamentalement un contrat de service d'un contrat de travail est l'absence, dans le premier cas, d'un lien de subordination entre le prestataire de services et le client et la présence, dans le second cas, du droit de l'employeur de diriger et de contrôler l'employé. En effet, le juge Pratte de la Cour d'appel fédérale a apporté la précision suivante dans l'affaire Gallant c. M.R.N.[1] :
+[...] Ce qui est la marque du louage de services, ce n'est pas le contrôle que l'employeur exerce effectivement sur son employé, c'est plutôt le pouvoir que possède l'employeur de contrôler la façon dont l'employé exécute ses fonctions. [Je souligne.]
+Il faut donc d'abord essayer de déterminer s'il y avait ou non un lien de subordination entre l'appelante et le payeur.
+[10] Dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, le juge MacGuigan de la Cour d'appel fédérale s'est étendu sur le critère du contrôle et a reconnu que le droit de préciser la façon dont le travail doit être effectué et de donner des directives à l'employé au sujet de la façon d'accomplir le travail est un élément fondamental de l'exercice du contrôle sur le travail de l'employé. Dans l'affaire Vulcain Alarme Inc. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 749, le juge Létourneau de la Cour d'appel fédérale a également affirmé que le fondement du contrôle est le fait de donner des directives au sujet de la façon dont le travail de l'employé doit être effectué. En l'espèce, il faut donc, à la lumière de la preuve, déterminer si le payeur donnait ou pouvait donner des directives à l'appelante au sujet de la façon dont elle devait accomplir son travail. Ceci dit, il ne faut pas confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l'ouvrier chargé de les réaliser. En effet, rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences.
+[11] Toutefois, lorsque la preuve ne nous permet pas de discerner clairement s'il existe ou non un lien de subordination, je suis d'avis qu'il faut alors examiner la relation contractuelle à la lumière des autres facteurs énoncés par la Cour d'appel fédérale dans l'affaire Wiebe Door, précitée, et repris par la Cour suprême dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, c'est-à-dire l'intégration, la propriété des instruments de travail nécessaires à l'exécution du travail, les chances de profit et les risques de perte. Ces facteurs peuvent indiquer l'existence d'un contrat de service.
+[12] L'examen des faits à la lumière de ces critères nous permettra habituellement de confirmer l'existence ou de constater l'absence d'un lien de subordination; autrement dit, en cas de doute, il faut avoir une approche plus globale.
+[13] Enfin, j'ajouterais qu'il peut être très utile de rechercher l'intention des parties lors de la formation du contrat, surtout lorsque la question est serrée, c'est-à-dire lorsque les facteurs pertinents indiquent à la fois les deux conclusions possibles. Je crois que la manière dont les parties ont vu leur entente doit alors l'emporter, sauf si elles se sont trompées sur la véritable nature de leur relation. Certes, la Cour ne tiendra pas compte de la stipulation des parties quant à la nature de leur relation contractuelle si elle doit en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise. Cependant, en l'absence d'une preuve non équivoque ou contraire, la Cour doit certainement prendre en compte l'intention déclarée des parties.
+[14] Est-ce que l'appelante effectuait son travail sous la direction ou le contrôle du payeur? Est-ce que le payeur donnait ou pouvait donner des ordres à l'appelante?
+[15] Il convient de rappeler que la relation contractuelle entre l'appelante et le payeur doit nécessairement être interprétée conformément aux lois de la province de Québec. Il ressort des articles 2085, 2098 et 2099 du Code civil du Québec que ce qui distingue fondamentalement un contrat de services d'un contrat de travail est l'absence dans le premier cas d'un lien de subordination entre le prestataire de services et le client et la présence dans le second cas du droit de l'employeur de diriger et de contrôler l'employé. En d'autres termes, est-ce que le payeur donnait ou pouvait donner des directives à l'appelante au sujet de la façon dont elle devait accomplir son travail?
+[16] Dans la présente affaire, la preuve a révélé :
+i) que l'appelante avait la garde de l'enfant du payeur. L'enfant était âgé de 13 mois. Sauf exception, elle le gardait 3 jours par semaine, du mardi au jeudi;
+ii) que le payeur amenait l'enfant à la résidence de l'appelante vers 7 h 55 et revenait le chercher vers 17 h;
+iii) que l'appelante gardait l'enfant à sa résidence ou à sa roulotte. La roulotte se situait au bord de la mer et était en quelque sorte le chalet d'été de l'appelante. Elle a témoigné qu'elle amenait assez souvent l'enfant à la roulotte tout simplement parce que c'était plus agréable d'être au bord de la mer durant la période estivale;
+iv) que l'appelante, tout en gardant l'enfant, pouvait vaquer à d'autres occupations;
+v) que l'appelante n'avait reçu aucune directive de la part du payeur quant à la façon dont elle devait accomplir son travail;
+vi) que l'appelante notait le nombre d'heures de garde effectuées;
+vii) que l'appelante était rémunérée au tarif de 9 $ l'heure, et ce, bien qu'elle fournissait la résidence, les collations et les repas dans l'exécution de ses tâches de gardienne. Lors de son témoignage, l'appelante a admis que le payeur ne lui remboursait pas les dépenses liées à ces collations et repas.
+[17] La preuve a donc démontré clairement qu'il n'y avait pas, entre l'appelante et le payeur, un lien de subordination qui est l'essence même d'un contrat de travail. En effet, la preuve a révélé que l'appelante n'avait reçu aucune directive de la part du payeur quant à la façon dont elle devait effectuer son travail. L'appelante décidait même du lieu où elle gardait l'enfant. Elle pouvait vaquer à d'autres occupations. L'appelante devait démontrer selon la prépondérance des probabilités que le ministre avait tort sur ce point. À mon avis, elle ne s'est tout simplement pas acquittée de l'obligation qui lui incombait.
+[18] Bien qu'il ne faut pas prêter beaucoup de poids aux autres facteurs énoncés dans la jurisprudence, notamment la propriété des outils et les chances de profit et risques de perte, compte tenu de la nature des services rendus, des besoins des services et du peu d'instruments de travail utilisés, je me dois de conclure par contre que ces facteurs n'indiquent pas l'existence d'un contrat de travail. En l'espèce, l'appelante ne gardait pas l'enfant à la résidence du payeur mais bien à sa résidence et elle assumait les risques de perte puisqu'elle était rémunérée à l'heure et qu'elle devait assumer les coûts des repas et des collations.
+[19] Pour ces motifs, je conclus que l'emploi de l'appelante n'était pas assurable durant la période en cause.
+Signé à Ottawa, Canada, ce 19e jour d'août 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI569
+No DU DOSSIER DE LA COUR :
+2004-1235(EI)
+INTITULÉ DE LA CAUSE :
+Linda Lebel et M.R.N.
+LIEU DE L'AUDIENCE :
+Hâvre-Aubert (Québec)
+DATE DE L'AUDIENCE :
+le 12 août 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 19 août 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Agathe Cavanagh
+Pour l'intervenante :
+Personne n'a comparu
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenante :
+Nom :
+Étude :
+[1] [1986] A.C.F. no 330 (Q.L.)

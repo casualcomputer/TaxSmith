@@ -1,0 +1,160 @@
+---
+title: "1392644 Ontario Inc.O/A Connor Homes v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26257/index.do"
+last_modified: "2003-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 816"
+citation2: ""
+neutral_citation: "2003 TCC 816"
+decision_date: "2003-11-24"
+language: "en"
+item_id: "26257"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3988
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:27:46.994000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "008782bf1b87ae5f1faab7c9f9a9c16d0d88ec4aca7a4743a7dd6e4b95473f47"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1392644 Ontario Inc.O/A Connor Homes v. M.N.R.
+
+- Citation: 2003 TCC 816
+- Decision date: 2003-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3988, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1392644 Ontario Inc.O/A Connor Homes v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-24
+Neutral citation
+2003 TCC 816
+File numbers
+2002-2668(EI), 2002-4299(EI), 2003-825(CPP), 2003-826(CPP)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation: 2003TCC816
+Date: 20031124
+Docket: 2002-2668(EI)
+2003-826(CPP)
+2002-4299(EI)
+2003-825(CPP)
+BETWEEN:
+1392644 ONTARIO INC., O/A CONNOR HOMES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Counsel for the Appellant: William Innes and Brendan Bissell
+Counsel for the Respondent: Richard Gobeil
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on
+September 4, 2003, at Belleville, Ontario)
+McArthur J.
+[1] This is the decision in the appeals of 1392644 Ontario Inc., carrying on business under the name of Connor Homes. These appeals are from determinations made by the Minister of National Revenue under the Employment Insurance Act and the Canada Pension Plan that Janet Gawley and Samantha Heyens were employed by the Appellant in insurable and pensionable employment during the periods May 10, 2000 to January 18, 2001 and March 7, 2001 to July 17, 2001, respectively. Upon consent of the parties, it is ordered that Exhibit A-1, document briefs, be held under seal. It contains very personal and sensitive information about the children clients of Connor Homes.
+[2] Connor Homes operates or manages approximately 40 residential homes for children who have serious behavioural and developmental disorders and are wards of local Children's Aid Societies. The issue in these appeals is whether Janet and Samantha were employees of the Appellant or whether they were independent contractors or, as worded in the Act, were their relationships with the Appellant of service or for service. The Appellant, of course, submits that they were independent contractors. Samantha did not attend the hearing, the Respondent being unable to locate her. For reasons provided later, the appeals dealing with Samantha are allowed.
+[3] Each case turns on its own facts. I will now deal with Janet's situation. The Appellant presented two witnesses, Paul Douglas Robichaud and Robert John Connor. Mr. Robichaud was, during the 2000 and 2001 relevant period, an area manager for approximately six homes and Mr. Connor was the owner and controlling mind of Connor Homes. They gave a synopsis of how Connor Homes operated with respect to workers such as Janet and Samantha. The following background, for the most part, is not in dispute.
+[4] The Appellant is paid a per diem for each child in its care. The plans of care are established and continually modified by committees comprised of social workers representing the appropriate Children's Aid Societies, a representative of the Appellant, house parents, the child and, depending on the circumstances of the individual child, natural parents and probation officers.
+[5] Some children receive special one-on-one care which must be approved by the appropriate Children's Aid Societies of the Province of Ontario. The Appellant receives additional fees for providing such one-on-one programs. In accordance with the provision of plans of care for these children, the Appellant is required to provide a variety of different services which include psychological assessment, psychological therapy, life skills, one-on-one programs, if appropriate, relief services for house parents and transportation services. One-on-one programs, relief services, and transportation services were to be provided by child care workers. Janet and Samantha were child care workers.
+[6] The child care workers required very few tools or other equipment. They were responsible for transporting children when required and were reimbursed by the Appellant for their expenses. To some extent, they selected their own hours and could work as much or as little as they wished. There is no doubt that if they were unavailable, they would not be called upon. They did not have to provide the Appellant with a reason for not taking assignments or going on vacation. They could pick up assignments at meetings with the Appellant. There was no evidence of their having accepted assignments from other organizations while working for the Appellant. Where the Appellant required a child care worker for a specific assignment, it would telephone through a roster of child care workers and the assignment went to the first one who was reached and agreed to take the assignment. In some cases, child care workers were contacted by house parents.
+[7] Janet applied originally to the Appellant to be a foster parent. This is a long process and in the interim she became a child care worker while her application was proceeding. She worked in this capacity for some eight months. When the Appellant became dissatisfied with her performance, she was dropped from the list of child care workers. In effect, she was fired. Her application as a foster parent did not proceed further. The Appellant misplaced Janet's file and no signed contract of employment with her was produced by the Appellant. Janet denied signing one, although she stated she signed many papers upon being retained as a child care worker. The Appellant believes Janet signed a contract similar to those contained in Exhibit A-1, Tabs 2 and 11. The contract at Tab 11 is purportedly signed by Samantha.
+[8] While working, Janet and all other child care workers had to wear a T-shirt imprinted with the logo of Connor Homes. They purchased these shirts from the Appellant for approximately $7. Part of Janet's work included inputting specific data in the computer database.
+[9] Janet is 54 years old. She has completed grade 10, attended a college for one and one-half years, followed by ten months at Maxwell College. She worked as a secretary and as a child care worker in a group home not related to Connor Homes, before working for Connor Homes where she was paid $10 per hour, or $100 for a 24-hour overnight period. She referred to Mrs. Connor as her supervisor. When she had a work-related problem, she called Mrs. Connor and that problem was usually taken over by Connor Homes.
+[10] I find that the Appellant ran what can be described as a tight ship. It had to do so in order to satisfy the strict criteria imposed by the Province of Ontario legislation. Some of the Appellant controls over Janet included: (i) that she was subject to the provisions of a contract as contained in Exhibit A-1, Tab 2; (ii) invoices on Connor Homes logo paper had to be completed and they required several pages of detailed information; (iii) while working, she had to wear a T‑shirt with the Connor Homes logo; (iv) she had to satisfy the Appellant that she had read an extensive manual and understood the contents and agreed to follow its instructions (Exhibit A-1, Tab 27); (v) if there was a child problem she left it with Connor Homes; (vi) she could have someone replace her but that person must have been an approved person on Connor Homes' list; and (vii) she thought she was an employee and she knows the difference between being an employee and being an independent contractor.
+[11] In a thorough and well-researched argument, the Appellant referred to a number of cases and considerations considered to support the conclusion that Janet was an independent contractor. These included (i) lack of supervision; (ii) the mislaid contract referred to Janet as independent contractor; (iii) she was free to take other child care work from competitors; (iv) her hours were flexible; and (v) counsel emphasized that the totality of the evidence must be scrutinized.
+[12] It is clear from the case law that there are no hard and fast criteria. It does not serve a purpose to review the many cases provided. As stated, each case turns on its own facts. Some facts support the Appellant and others the Respondent. MacGuigan J. of the Federal Court of Appeal set out a four-in-one test in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025. He stated that no single test dominates. I believe the case 671121 Ontario Limited v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 is now the most influential case on the question of the employee-independent contractor conundrum. The Federal Court of Appeal referred to it in its recent decision in Wolf v. Her Majesty the Queen, 2002 DTC 6853. After discussing the four-factor test and the integration test, the Supreme Court of Canada concluded that the key test is whose business is it. Desjardins J. quoted Major J. in Sagaz at paragraph 60 on pages 6862-6863 of his reasons:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan, J.A. that a persuasive approach to the issue is that taken by Cooke, J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[13] The factors mentioned include control, ownership of tools, chance of profit and risk of loss, and integration. Integration was never a very useful factor. In applying the four-in-one test what do we have? The Appellant provided a book of documents which included 27 tabs. I will attempt to review some of these very briefly. Tab 2 includes a checklist for a child care worker, a draft of the contract referred to earlier, an application form, and a staff volunteer's oath of confidentiality. Tab 4 contains, on Connor Homes' letterhead, a timesheet for the month of May 2000 prepared and signed by Janet and is a detailed document of what she did, where she did it, when she did it, and for whom she did it, and some descriptions of the activity. I find the material in Tabs 2 and 4 favour the position that she is an employee. There were several timesheets included. Tab 27 is a 35 to 40-page manual that had to be read and understood by the child care workers before commencing work for the Appellant.
+[14] I have no doubt that Janet's job was structured by Connor Homes who was obligated to comply with legislation and regulations. While the manual may follow provincial regulations, this does not derogate from its being a serious source of control by Connor Homes over Janet in her carrying out her duties. Counsel for the Appellant referred to the legal relationship between arm's length parties commencing at page 12 of the Memorandum of Fact and Law. There are three decisions referred to, Sara Consulting and Promotions Inc. v. M.N.R., 2001 CarswellNat 2595, TSS-Technical Service Solutions Inc. v. M.N.R., 2002 CarswellNat 486 and Wolf v. The Queen, 2000 DTC 2595. I find that these decisions do not assist the Appellant in the present situation. Even if I accept that Janet signed a contract as contained in Tabs 2 and 11 of Exhibit A-1, this does not assist the Appellant's position. I agree with the following comments of Judge Bell in Sara Consulting:
+… in the absence of clear and credible evidence that the description of a relationship is other than as agreed between arm's length parties, the description agreed upon by those parties must stand. There is no such clear and credible evidence in this case.
+In the present case, we do have clear and credible evidence that the description of the workers as "independent contractors" was not reality. It makes little difference whether Janet signed the contract. She considered herself an employee and when asked to work, she did as she was told, although she clearly stated that she felt she had the freedom to refuse work. Although Connor Homes did not directly supervise her work, she had specific rules to follow such as those set out in the manual and timesheets. When a serious problem arose, such as a child becoming uncontrollable or going AWOL, she called Connor Homes and it took over from her. Her autonomy was not inconsistent with an employment relationship enjoyed by a skilled employee. I have no doubt that the Appellant controlled her method of performing her duties during the working day.
+[15] Briefly dealing with the other tests, I find Janet was paid an hourly rate and a 24-hour rate set by Connor Homes. She did not set the rates. She was paid a set amount for using her car. She had no say in her rate of pay. She was only paid for the hours she worked. She testified that she never refused when called to work.
+[16] With respect to tools, she provided her own car to transport the children to various appointments or activities, but she was paid for the use of her car. This is analogous to her being provided a leased car. She did use her own computer from time to time.
+[17] There is no doubt in answer to the question of whose business was it, it was not her business. Her overall relationship with Connor Homes has the indicia of employment. The independence that she had is greatly overshadowed by the control exercised by Connor Homes. The appeals with respect to Janet are dismissed.
+[18] I now turn briefly to Samantha's situation. She did not give evidence. The Appellant, through Mr. Robichaud and Mr. Connor, testified to the effect that she was autonomous, carried out her work when and how she decided at her sole discretion. She was skilled and needed no direction. She was free to refuse work or work for third parties. Although many of the assumptions of fact relied on by the Minister of National Revenue set out in paragraph 8 of the Reply to the Notice of Appeal were admitted as accurate by the Appellant several were demolished.
+[19] The assumptions of fact relied on by the Minister with respect to Samantha as taken paragraph 8 of the Reply to the Notice of Appeal are as follows:
+(a) The Appellant is a business involved in the care and treatment of disturbed children (the "children") with various Children's Aid Society agencies throughout the Province of Ontario;
+(b) The Appellant owns and operates group home and foster home residences;
+(c) The Worker was hired by the Appellant to provide one-on-one supervision of children, to provide observation on behaviour of children, to provide transportation of children, to write reports and to liase with supervisors and agencies;
+(d) The Worker's duties were performed in foster homes, group homes, and other locations;
+(e) The Worker's duties were performed under a written agreement which outlined issues such as Duties, Code of Conduct and Confidential Information;
+(f) The worker's hours of work were determined by the Appellant;
+(g) The Worker's hours of work were recorded on a timesheet which were required to be signed by the house parent involved;
+(h) The Worker was paid $10.00 per hour by the Appellant;
+(i) The Worker's rate of pay was determined by the Appellant;
+(j) The Worker was paid a per mileage rate by the Appellant for the transportation of the children;
+(k) The Appellant provided the Worker with a computer;
+(l) The Worker was required to complete reports for the Appellant.
+[20] Reviewing these assumptions, I find that:
+(a) Is accurate but it does not establish one position over the other and is irrelevant to the issue;
+(b) The same as 8(a);
+(c) This may be accurate;
+(d) I find is accurate but establishes nothing for our purposes;
+(e) There was no evidence from Samantha to this effect, although the Appellant's evidence was that she was a skilled worker;
+(f) The opposite was asserted by the Appellant and not contradicted by the Respondent;
+(g), (h), (i), (j), (k) and (l) These assumptions may be accurate although the worker was not present to confirm. I do not accept the assumptions without the evidence of the worker.
+[21] The Appellant has sufficiently disproved the Minister's assumptions of fact to reverse the onus. Without the evidence of Samantha, the Minister was unable to prove the assumptions. It would be a leap of faith that I am not prepared to take to accept that Samantha's position is the same as Janet's. For the most part each case under paragraph 5(1)(a) of the Employment Insurance Act depends on its own facts. Samantha may have had less supervision than Janet. Other circumstances may have been different.
+[22] In conclusion, the appeals with respect to Janet are dismissed and the appeals with respect to Samantha are allowed.
+Signed at Ottawa, Canada, this 24th day of November, 2003
+"C.H. McArthur"
+J.T.C.C.
+CITATION:
+2003TCC816
+COURT FILE NO.:
+2002-2668(EI), 2003-826(CPP)
+2002-4299(EI), 2003-825(CPP)
+STYLE OF CAUSE:
+1392644 Ontario Inc., o/a Connor Homes and Her Majesty the Queen
+PLACE OF HEARING:
+Belleville, Ontario
+DATE OF HEARING:
+September 2, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+September 11, 2003
+APPEARANCES:
+Counsel for the Appellant:
+William Innes and Brendan Bissell
+Counsel for the Respondent:
+Richard Gobeil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+William Innes and Brendan Bissell
+Firm:
+Fraser Milner Casgrain
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

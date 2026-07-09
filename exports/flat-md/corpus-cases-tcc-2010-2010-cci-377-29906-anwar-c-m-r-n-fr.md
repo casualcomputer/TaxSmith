@@ -1,0 +1,149 @@
+---
+title: "Anwar c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29906/index.do"
+last_modified: "2010-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 377"
+citation2: ""
+neutral_citation: "2010 CCI 377"
+decision_date: "2010-07-14"
+language: "fr"
+item_id: "29906"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6396
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:48:08.587000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "caa6ea004f94abfdeb74886265ae097897a4af3e27a4f36c53a06f6f3bfac977"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anwar c. M.R.N.
+
+- Citation: 2010 CCI 377
+- Decision date: 2010-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6396, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anwar c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-14
+Référence neutre
+2010 CCI 377
+Numéro de dossier
+2009-942(EI)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-942(EI)
+ENTRE :
+LUBNA ANWAR,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu les 28 janvier, 22 mars et 8 juillet 2010, à Toronto (Ontario)
+Devant : L’honorable juge suppléant N. Weisman
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimé :
+Me Thang Trieu
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto, Canada, ce 14e jour de juillet 2010.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 2e jour de septembre 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 377
+Date : July 14, 2010
+Dossier : 2009-942(EI)
+ENTRE :
+LUBNA ANWAR,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge suppléant Weisman
+[1] En l’espèce, l’intimé, le ministre du Revenu national (le « ministre »), a refusé à l’appelante, Lubna Anwar, des prestations d’assurance‑emploi pour une raison inhabituelle. Les enquêteurs du ministre croient que l’appelante, son époux – Siraj Ghani – et l’employeur de ce dernier, A‑1 Emission Centre Inc. (« A‑1 »), avaient conspiré pour perpétrer une fraude par laquelle A‑1 avait accepté d’inscrire le nom de l’appelante sur les chèques de paye de M. Ghani. Cela aurait permis à M. Ghani de prétendre qu’il gagnait seulement 80 $ par semaine en effectuant des essais de contrôle des émissions sur des camions, ce qui était juste en deçà du montant maximum qu’il pouvait gagner pendant qu’il recevait des prestations au titre du congé parental en application de la Loi sur l’assurance‑emploi (la « Loi ») [1]. De son côté, l’appelante avait aussi demandé des prestations au titre du congé de maladie, du congé de maternité et du congé parental en application de la Loi, et ce, malgré le fait que, selon le ministre, elle n’avait aucune relation de travail avec A‑1.
+[2] Comme c’est à l’appelante qu’incombe le fardeau de la preuve dans la présente affaire, elle doit démontrer qu’elle était bel et bien employée par A‑1 pendant la période en cause, c’est‑à‑dire du 11 juillet 2005 au 15 avril 2006.
+[3] L’appelante soutient que ses tâches comportaient trois volets : d’abord, elle était responsable de téléphoner à des ateliers de réparation de véhicules automobiles pour les convaincre de faire tester leurs camions par l’unité mobile d’A‑1, qui était opérée par M. Ghani; ensuite, si elle réussissait à les persuader, elle fixait les rendez‑vous pour les essais et délivrait les certificats et les factures afférentes; enfin, elle faisait prétendument toutes les saisies de données nécessaires pour les essais faits par M. Ghani.
+[4] L’appelante prétend que ses activités de vente ont connu un tel succès que le nombre d’essais de contrôle des émissions confiés à A‑1, qui s’élevait à environ 30 par mois lorsqu’elle aurait commencé à travailler, est passé à près de 200 par mois. Ainsi, à la fin de la période en cause, le nombre total d’essais aurait été de 1 541. Pour appuyer ses dires, l’appelante a déposé en preuve une sortie sur imprimante des factures faites par A‑1 pour les essais de contrôle des émissions effectués pendant la période en question. Lorsqu’on lui a demandé comment elle avait pu obtenir un document commercial interne de cette nature, elle a répondu, sans la moindre hésitation, qu’elle était responsable de la saisie de données pour la société et qu’elle avait, naturellement, accès à tous les dossiers de celle‑ci.
+[5] De plus, l’appelante a déposé cinq lettres de témoignage identiques – lettres qu’elle reconnaît d’ailleurs avoir rédigées – provenant de divers ateliers de réparation de véhicules automobiles. Toutes ces lettres confirment prétendument que les appels téléphoniques de l’appelante avaient joué un rôle déterminant pour convaincre les signataires de confier à A‑1 les essais de contrôle des émissions pour leurs camions.
+[6] Malheureusement pour l’appelante, les cinq signataires de ces lettres ont témoigné de vive voix pour le ministre. Ils ont tous dit que, bien qu’ils connaissaient M. Ghani ou avaient travaillé avec lui, ils ne connaissaient pas du tout l’appelante. Trois des cinq signataires ont reconnu avoir signé les lettres, non pas parce qu’ils savaient qu’elles étaient exactes, mais plutôt parce que M. Ghani ou un de leurs travailleurs les avaient assurés que la femme qui les avait appelés au nom d’A‑1 était l’appelante. L’un de ces trois signataires a dit qu’une femme, l’appelante selon lui, était passée à son bureau deux fois pour ramasser des chèques pour A‑1. Le quatrième signataire a nié avoir signé la lettre, mais il a identifié la signature apposée sur la lettre comme celle d’un employé qui avait accès à l’estampe de l’entreprise. Le cinquième signataire a témoigné qu’il avait refusé catégoriquement de signer le document qui lui avait été présenté par M. Ghani, affirmant lui avoir dit : [traduction] « Je ne peux pas signer cela parce que c’est faux. » Il a été incapable de reconnaître la signature – supposément la sienne – qui apparaissait sur la lettre. Ironiquement, il a aussi souligné que, de toute manière, son entreprise n’avait jamais fait d’essais de contrôle des émissions ou tout autre travail sur des camions.
+[7] Le sixième témoin de l’intimé, Fazal Raja, était gérant de Five Star Auto & Truck Services (« Five Star »), une entreprise dont les locaux étaient situés à deux portes de ceux d’A‑1. Pendant les deux années antérieures à la période en cause, M. Ghani avait travaillé à temps partiel pour Five Star, où il était chargé d’effectuer des essais de contrôle des émissions sur des camions. Selon M. Raja, la relation a pris fin lorsque M. Ghani avait demandé que ses chèques de paye soient faits au nom de l’appelante. Lorsque M. Raja a expliqué à M. Ghani que cela était impossible, ce dernier a démissionné pour aller [traduction] « chez le voisin », c’est‑à‑dire A‑1. En outre, M. Raja a soutenu que, pendant la période de neuf mois en cause, il se rendait « souvent » dans les locaux et les bureaux d’A‑1, mais qu’il n’y avait jamais vu l’appelante. Par conséquent, lorsque, trois ou quatre mois avant la présente audience, l’appelante et M. Ghani sont allés voir M. Raja pour lui demander de reconnaître par écrit que l’appelante avait vraiment travaillé pour A‑1, il a refusé. M. Raja a conclu son témoignage en lançant à l’appelante une accusation grave : [traduction] « Tu sais très bien que tu n’étais pas là! »
+[8] Pendant qu’il recevait des prestations au titre du congé parental en application de la Loi, M. Ghani avait le droit de gagner 84,25 $ par semaine. Au cours de la période en cause, il a effectué 1 541 essais de contrôle des émissions, ce qui veut dire qu’il aurait fait les tests nécessaires et délivré les certificats d’inspection exigés au prix unitaire approximatif de 1,88 $. Pendant la même période, A-1 demandait de 75 $ à 80 $ pour chaque essai aux divers ateliers de réparation de véhicules automobiles. Cela vient appuyer l’allégation de l’intimé selon laquelle une partie considérable de la rémunération de M. Ghani a été détournée vers l’appelante.
+[9] Lors de son témoignage à l’audience, M. Ghani a dit que M. Raja ne l’aimait pas, qu’il avait retenu son salaire des deux premiers mois parce qu’il le considérait comme un apprenti et qu’il l’avait forcé à travailler après la dernière journée de travail inscrite dans son relevé d’emploi en le menaçant de retenir son arriéré de salaire. M. Ghani a aussi prédit que M. Raja allait dire qu’il avait demandé à M. Raja d’inscrire le nom de l’appelante sur ses chèques de paye, ce que M. Ghani nie avoir fait.
+[10] Le ministre se fonde aussi sur des divergences inexpliquées entre les divers documents présentés par l’appelante. Certains des talons de chèque de paye de l’appelante, qu’elle semble avoir établis, portent des dates inexactes et font état d’une rémunération à la quinzaine de 947,17 $, alors que les chèques vont de 950 $, à 944,11 $ à 947,17 $. De plus, le nombre de certificats d’inspection délivrés par M. Ghani pour certains mois ne correspond pas aux dossiers d’A‑1 ou à ceux du ministère de l’Environnement. Enfin, les sommes déclarées à titre de « revenu d’emploi » par l’appelante dans ses déclarations de revenus ne correspondent pas aux sommes inscrites dans les dossiers d’A‑1 ou sur ses talons de chèque de paye. Si l’appelante avait vraiment été responsable de la saisie de données pour A‑1, on s’attendrait à ce que les écritures pertinentes et les documents relatifs à l’appelante et à M. Ghani soient plus exacts.
+[11] Lorsqu’on lui a demandé pourquoi elle n’avait pas fait témoigner les divers témoins clés qui auraient pu corroborer ses dires, par exemple ses deux employeurs d’A‑1 ou le comptable d’A‑1, qui semble avoir recommandé son embauche, l’appelante a répondu : [traduction] « Qu’est-ce que ça aurait donné? Ils disent que ces personnes sont de connivence avec nous. » Dans le même ordre d’idées, on aurait cru qu’après avoir conclu plus de 1 540 transactions avec un nombre restreint d’ateliers de réparation de véhicules automobiles, l’appelante aurait réussi à nouer des relations suffisamment solides avec certains d’entre eux pour qu’elle réussisse à les convaincre de témoigner en sa faveur. L’explication, fort surprenante, de l’appelante est qu’elle ne leur a jamais dit son nom.
+[12] En l’espèce, la question de la crédibilité a une grande importance. Quelque sept mois se sont écoulés entre le premier jour d’audience – où l’appelante aurait dû se rendre compte du grave problème posé par l’absence des témoins manquants – et le dernier jour d’audience. L’appelante a eu largement l’occasion d’appeler à témoigner toutes les personnes qui auraient travaillé avec elle à A‑1 pendant la période en cause, mais elle ne l’a pas fait. En l’absence d’explications, la décision de ne pas faire témoigner des personnes clés permet au tribunal de tirer la conclusion défavorable voulant que leur témoignage aurait nui à l’appelante[2]. En l’espèce, j’adopte cette conclusion défavorable. En outre, si des témoins avaient pu corroborer les dires de l’appelante, elle n’aurait pas eu à déposer les lettres de témoignage louches – dont une était même contrefaite – qui ont soulevé un doute quant à sa crédibilité. La position de l’appelante a aussi été minée par le témoignage crédible de M. Raja, l’ancien employeur de M. Ghani, qui a expliqué que la relation de travail avait été rompue parce qu’il avait refusé d’inscrire le nom de l’appelante sur les chèques de paye de M. Ghani.
+[13] En l’espèce, l’appelante a contribué à son propre malheur. En effet, elle aurait gagné à être représentée par un avocat; son contre‑interrogatoire d’un témoin du ministre, le bouillant Henry Dutkowsky – un agent de fraudes majeures –, a été redondant et inefficace; les lettres de témoignage qu’elle a déposées pour appuyer sa position ont eu l’effet inverse et, comme je l’ai déjà souligné, elle a omis d’appeler à témoigner des personnes clés.
+[14] J’ai examiné l’ensemble des faits avec les parties et avec les personnes appelées à témoigner pour elles, sous serment, pour la première fois. Bien que j’aie découvert de nouveaux faits, par exemple, l’existence de la lettre de témoignage contrefaite, ces faits nouveaux n’aident pas l’appelante. De plus, rien ne me permet de conclure que les faits présumés par le ministre, ou ceux sur lesquels il s’était fondé, étaient erronés, mal évalués ou mal compris.
+[15] L’appelante n’a donc pas réussi à se décharger du fardeau de réfuter les hypothèses exposées aux paragraphes 7 et 8 de la réponse à l’avis d’appel du ministre. Ainsi, les déterminations du ministre, selon lesquelles il n’existait aucun contrat de louage de services entre l’appelante et A‑1 pendant la période en cause et que, de toute manière, il existait un lien de dépendance entre l’appelante et A‑1, sont raisonnables objectivement.
+[16] Par conséquent, l’appel est rejeté et la décision du ministre est confirmée.
+Signé à Toronto, Canada, ce 14e jour de juillet 2010.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 2e jour de septembre 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2010 CCI 377
+No DU DOSSIER DE LA COUR :
+2009-942(EI)
+INTITULÉ :
+Lubna Anwar c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 28 janvier, 22 mars et 8 juillet 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant N. Weisman
+DATE DU JUGEMENT :
+Le 14 juillet 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Than Trieu
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.C. 1996, ch. 23, dans sa version modifiée.
+[2] Lévesque c. Comeau et autres, [1970] R.C.S. 1010.

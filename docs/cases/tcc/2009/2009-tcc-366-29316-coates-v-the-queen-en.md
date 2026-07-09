@@ -1,0 +1,210 @@
+---
+title: "Coates v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29316/index.do"
+last_modified: "2009-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 366"
+citation2: ""
+neutral_citation: "2009 TCC 366"
+decision_date: "2009-07-17"
+language: "en"
+item_id: "29316"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7055
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:06:46.096000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "388c45c9372f0760bfaf8ae900c1d10685d6af26b7394515669798313eebe33f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Coates v. The Queen
+
+- Citation: 2009 TCC 366
+- Decision date: 2009-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7055, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coates v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-17
+Neutral citation
+2009 TCC 366
+File numbers
+2008-1169(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1169(IT)I
+BETWEEN:
+LUDMILA COATES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Harold Coates (2008-1170(IT)I)
+on January 20 and 21, 2009 at Calgary, Alberta
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessment made under the Income Tax Act for the 2003 taxation year and from the reassessment for the 2004 taxation year are dismissed.
+Signed at Ottawa, Canada, this 17th day of July, 2009.
+“G. A. Sheridan”
+Sheridan, J.
+Docket: 2008-1170(IT)I
+BETWEEN:
+HAROLD COATES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Ludmila Coates (2008-1169(IT)I)
+on January 20 and 21, 2009 at Calgary, Alberta
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessment made under the Income Tax Act for the 2003 taxation year and from the reassessment for the 2004 taxation year are dismissed.
+Signed at Ottawa, Canada, this 17th day of July, 2009.
+“G. A. Sheridan”
+Sheridan, J.
+Citation: 2009TCC366
+Date: 20090717
+Docket: 2008-1169(IT)I
+BETWEEN:
+LUDMILA COATES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2008-1170(IT)I
+HAROLD COATES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellants, Harold and Ludmila Coates, are husband and wife. Their appeals of the reassessments of their 2003 and 2004 taxation years were heard together on common evidence. Both Mr. Coates and Mrs. Coates testified at the hearing. In those years, Mr. Coates was involved in construction, real estate and accounting businesses; Mrs. Coates had a bookkeeping and data entry business.
+[2] Also called as witnesses on behalf of the Appellants were their daughter, Nadine Coates, and Ilya Vinnik, a long-time acquaintance of Mr. Coates who was familiar with the home office. While both were credible witnesses, their testimony was not particularly relevant to the matters in dispute.
+[3] The Respondent’s only witness was Colleen Carnevale, the auditor who had handled the Appellants’ files. Ms. Carnevale’s evidence was straight-forward and credible.
+[4] There was one Notice of Appeal filed on behalf of both Appellants. It reads as follows:
+1) 62% of the residence was used for office and this can be verfide [sic] by clients and previous employees. (Was not accepted by Revenue Canada)
+2) Auto’s [sic] were owned by Bradshaw-Coates & Associates and billings made for business usage and personal use. (Not recognized by Revenue Canada). This is double taxation.
+3) Bill for service’s [sic] provided by Bradshaw-Coates & Associates not accepted by Revenue Canada as an expense.
+4) Reimbursed of over 18 thousand in expenses by Bradshaw-Coates & Associates Ltd. represents double taxation.
+5) Loan repayment not accepted, Revenue Canada reassessed as Management Fees.
+[5] Given the lack of detail in the Notice of Appeal and the fact that the Appellants were self-represented, it took some time to clarify the issues in dispute and the Appellants’ grounds for appealing the 2003 and 2004 reassessments. Further, Mr. Coates had hoped that the hearing would provide an opportunity for their 2003 and 2004 taxes to be reassessed based on the corrected corporate and personal records and the revised versions of his and Mrs. Coates’ 2003 and 2004 income tax returns which he had prepared for that purpose. As I explained, however, the role of the Tax Court is to determine the correctness of the Minister’s reassessments based on the evidence relevant to the years under appeal; in our self‑reporting tax system, it is for the taxpayer to prove wrong the assumptions upon which the Minister’s assessment was based.
+[6] My findings in respect of the various issues for each Appellant are set out under the headings below.
+Harold Coates
+[7] In respect of Mr. Coates’ reassessment, the Minister assumed that in 2003 and 2004 Mr. Coates was carrying on business as the sole proprietor of Tricon Accounting Services. Certain fees and commissions were added to his income and various business expenses claimed for those years were denied.
+Management Fees – 2003 and 2004
+[8] The first issue in dispute is the inclusion of $13,000 and $12,901 in Mr. Coates’ 2003 and 2004 income, respectively. The Minister assumed that these amounts had been paid to Mr. Coates by Bradshaw-Coates & Associates Ltd. (“Bradshaw-Coates”), a company of which Mr. Coates was the sole shareholder and directing mind. The primary business of Bradshaw-Coates was construction, although Mr. Coates testified that it was also involved in real estate and accounting services.
+[9] It was the Minister’s position that Mr. Coates had earned the $13,000 and $12,901 from Bradshaw-Coates as management fees in his capacity as sole proprietor of Tricon Accounting Services. Mr. Coates did not deny having received such amounts from Bradshaw-Coates but insisted he had done so in his personal capacity rather than as a sole proprietorship. On this footing, it is not necessary to determine the status of Tricon Accounting Services to conclude that the amounts of $13,000 and $12,901 were properly included in his personal income for 2003 and 2004.
+Commissions - 2004
+[10] A determination of the sole proprietorship issue is, however, required for the next matter in dispute: the inclusion of $17,377.50 in Mr. Coates’ 2004 income as real estate commissions earned in his capacity as sole proprietor of Tricon Accounting Services.
+[11] Mr. Coates’ denial that he was the sole proprietor of Tricon Accounting Services was raised for the first time at the hearing of the appeals. He said that the Minister’s conclusion that he had been a sole proprietor could be traced to reporting errors in his 2003 and 2004 returns. He explained that serious health problems in those years had forced him to rely entirely on Mrs. Coates to look after their tax matters. Although she had done her best, he said, Mrs. Coates had wrongly reported the $17,377.50 in his 2004 income tax return[1] as self-employment income from sales, commissions, or fees and showed the name of the business as “Tricon Accounting Services”. Further, she had mistakenly claimed business expenses in respect of Tricon Accounting Services in his personal return.
+[12] His evidence was that the commissions ought properly to have been allocated to Bradshaw-Coates as the legal owner of Tricon Accounting Services. In support of this contention, he put in evidence a document entitled “Asset Purchase Agreement”[2] dated December 28, 1998, showing Bradshaw-Coates and a third party as the purchasers of a business described as “Tricon Accounting Services” at a purchase price of $47,600 (referred to herein as the “Bradshaw‑Coates Purchase Agreement”). He testified that he had shown the Bradshaw-Coates Purchase Agreement to Ms. Carnevale during the audit. While she could not recall if she had actually seen that document, Ms. Carnevale did confirm that at some point, Mr. Coates had told her Bradshaw-Coates owned Tricon Accounting Services. She also said, however, that Mr. Coates had told her that the Tricon Accounting Services income was from self‑employment.
+[13] Mr. Coates also disputed the source of the $17,377.50. Although he first testified that the earnings had come from real estate commissions, he then corrected himself to say that amount actually represented the 2004 billings for accounting services rendered to clients by Tricon Accounting Services/Bradshaw-Coates. In support, he produced a document entitled “Tricon Accounting Services Transaction Detail By Account”[3] in which were listed client names and the amounts billed totalling $17,377.50. These entries had been made in Tricon Accounting Services’ records prior to the audit.
+[14] Turning first to Mr. Coates’ claim that he was not the sole proprietor of Tricon Accounting Services, he and Mrs. Coates were audited as a consequence of an earlier audit of Bradshaw-Coates. The result of the Bradshaw‑Coates audit was that the corporation’s returns were accepted as filed. In auditing Mr. Coates and Mrs. Coates, Ms. Carnevale compared Bradshaw‑Coates’ income and expenses with corresponding amounts in the records and returns of Mr. Coates as Tricon Accounting Services and of Mrs. Coates as Tricon Management Services.
+[15] In these circumstances, Mr. Coates’ reason for telling Ms. Carnevale that Bradshaw-Coates owned Tricon Accounting Services likely had more to do with the corporate audit rather than bolstering any claim that he was not the sole proprietor of Tricon Accounting Services. From what I saw of Mr. Coates’ forceful personality, and given his background in both business and accounting, had he, in fact, not been the sole proprietor of Tricon Accounting Services, I have no doubt he would have been quick to clarify the auditor’s mistake, eager to raise it again at the objection stage, and sure to include it in his Notice of Appeal. Instead, he raised this line of defense at the commencement of the hearing. Even making allowances for the difficulties of being a self-represented litigant, in the present circumstances, these factors favour a finding of historical revision rather than omitted fact. In any case, even if Bradshaw-Coates was the legal owner of an entity known as “Tricon Accounting Services”, that does not, in itself, prevent Mr. Coates from also having operated a sole proprietorship by that name. Nor does the fact that the client billings were entered under the name “Tricon Accounting Services” prove that Bradshaw-Coates was operating that business.
+[16] Thus, while I accept that the $17,377.50 was earned from accounting services rather than real estate commissions, I do not accept Mr. Coates’ contention that he did not earn that amount in his capacity as the sole proprietor of Tricon Accounting Services. Accordingly, the $17,377.50 amount was properly included in Mr. Coates’ 2004 income.
+Business Expenses – 2003 and 2004
+[17] Because of the position he had taken in respect of the sole proprietorship issue, Mr. Coates had expressed the intention to forego his claim for business expenses; however, in view of my finding that he was the sole proprietor of Tricon Accounting Services, fairness requires the consideration of the amounts denied by the Minister. Unfortunately, Mr. Coates’ evidence fell short of rebutting the Minister’s assumptions in respect of the expenses claimed. His inability to substantiate his claims was the direct result of not having maintained accurate and up‑to‑date records for each of the businesses.
+Conclusion
+[18] For the reasons set out above, Mr. Coates’ appeals of the reassessments of the 2003 taxation year and of the 2004 taxation year are dismissed.
+Ludmila Coates
+[19] As for Mrs. Coates, it is not disputed that she as sole proprietor of Tricon Management Services operated a data entry and bookkeeping business. Mrs. Coates did most of such work herself but on occasion, hired sub-contractors to assist her. I found Mrs. Coates to be generally credible in the presentation of her evidence, even when it was not to her advantage. As with Mr. Coates, however, the lack of good books and records weakened the force of her testimony.
+Management Fees - 2003
+[20] The first issue in dispute is an amount of $9,000 paid by Bradshaw-Coates to Mrs. Coates. The Minister included this amount in her 2003 income as management fees.
+[21] Both Mr. Coates and Mrs. Coates testified that the $9,000 represented the partial repayment of a shareholder loan Mrs. Coates had made to Bradshaw-Coates. (As it turned out that Mrs. Coates had never been a shareholder of Bradshaw‑Coates, this description was revised to a “loan” to Bradshaw-Coates.) Mrs. Coates explained that the loan included the proceeds of the sale of their residence in October 2004 as well as advances she had made to the company from time to time in 2003 using her credit cards or Tricon Management Services funds.
+[22] In support of her position, Mr. Coates put in evidence two documents entitled “Bradshaw-Coates & Associates Ltd. Transactions by Account” for 2003[4] and 2004[5], respectively. As there is no issue in respect of 2004, only the 2003 record need be considered.
+[23] I accept Mrs. Coates’ evidence that, from time to time, she had made advances to Bradshaw-Coates when it was short of money. It seems that shifting funds back and forth between the sole proprietorships and Bradshaw-Coates was a regular occurrence; that practice and Mr. Coates’ close identification with all three business entities, contributed in no small way to the confused state of their books. In these circumstances, maintaining accurate and current business records was crucial. This, however, was not done.
+[24] The document relied on in support of Mrs. Coates’ contention that the $9,000 was a loan repayment (Exhibit A-7) was created long after the fact by Mr. Coates; on its face, it shows that Bradshaw-Coates made payments totalling $6,950 to Mrs. Coates in 2003. It does not establish what the payments were for. Even if such payments were made and even if they were loan repayments, however, that does not mean Mrs. Coates did not also receive a $9,000 payment from Bradshaw‑Coates as management fees, as originally recorded in Bradshaw‑Coates records and reported in her returns.
+Business Expenses – 2003 and 2004
+[25] That leaves only the issue of Tricon Management Services’ business expenses. The Minister disallowed, entirely or in part, claims for the use of telephone and fax, motor vehicles, business use of home, rent, sub-contracting and capital cost allowance. The claim in respect of telephone and fax expenses was abandoned at the hearing.
+[26] By way of background, Tricon Management Services operated out of space it shared with Bradshaw-Coates and Tricon Accounting Services in the Coates’ residence. This space was equipped with the usual items: desks, cabinets, phones, fax, a photocopy machine and computers. It is not clear how these items were allocated amongst the three businesses. As mentioned above, on October 1, 2004, the residence was sold making it necessary for Tricon Management Services to rent office space from a third party for the last three months of that year.
+Motor Vehicle Expenses – 2003 and 2004
+[27] Turning first to the motor vehicle expenses, Bradshaw‑Coates owned six vehicles which were made available to Mr. Coates and Mrs. Coates for both personal and business purposes. I accept Mrs. Coates’ evidence that she kept rough notes of her use of the various motor vehicles and that these were later transcribed in a “log”[6]. However, a review of that document showed that some entries were rewritten or written over, severely limiting its evidentiary value. Furthermore, Ms. Carnevale’s explanation of the method used to apportion motor vehicle expenses among the sole proprietorships and Bradshaw-Coates was entirely sensible – indeed, generous given the lack of records. Thus, there is no reason to increase the amount already allowed.
+Business Use of Home – 2003 and 2004
+[28] Based on Mr. Coates’[7] and Mr. Vinnik’s descriptions of the home office space shared by the three businesses, it seems to me that the Minister’s apportionment to Tricon Management Services of 25% of the total cost incurred was reasonable. There was no compelling evidence that Tricon Management Services was entitled to more than the amount allowed.
+Rental Costs – 2004
+[29] Although the Reply to the Notice of Appeal refers to a rental claim in 2003, at the hearing, Mrs. Coates clarified that she was not claiming any rent expense for that year. As for the 2004 taxation year, Tricon Management Services claimed rental costs of $2,106.90 for office space leased after the sale of their home. I am not persuaded, however, that this expense was actually incurred by Tricon Management Services. First of all, the copies of the cancelled cheques[8] put in evidence in support of this claim were drawn on the account of Bradshaw-Coates; there was no documentary evidence to show that Tricon Management Services had ever reimbursed Bradshaw-Coates for that amount. Indeed, when asked by counsel if this had been done, Mrs. Coates candidly answered, “Probably not.”[9] The second weakness of this evidence is that the amounts in the three cheques total only $800.35.
+Sub-contracting Expenses – 2004
+[30] In 2004, Tricon Management Services initially claimed (and the Minister allowed) sub-contracting expenses of $589.20. At some point after the audit, however, Mrs. Coates revised this amount to $5,589.20. She and Mr. Coates testified that the additional $5,000 was for sub-contracting work Mr. Coates (as Bradshaw-Coates/Tricon Accounting Services) had done for Tricon Management Services in 2004. In support of this claim, Mr. Coates put in evidence a document which on its face, was an invoice from Bradshaw-Coates to Tricon Management Services for “management fees” of $5,000[10]. He explained that Bradshaw-Coates had not yet invoiced Tricon Management Services when Mrs. Coates filed her 2004 return and was candid in his admission that he had created the invoice after the audit. The difficulty with this document, as former Chief Justice Bowman noted in Yiouroukis v. R., is that “[r]eality is not created retroactively”[11].
+[31] For her part, Mrs. Coates testified that in 2003, she had engaged two individuals as sub-contractors. Indeed, the Reply to the Notice of Appeal shows that in 2003, the Minister had allowed a deduction in respect of such sub‑contracting expenses of $7,168. In respect of that claim, Mrs. Coates was able to provide cogent details of the 2003 sub-contracting work: the names of the sub‑contractors; that they had done data entry using a program called “Excel”; that they worked on Tricon Management Services files at her office or in their own homes. By contrast, for 2004, Mrs. Coates said only that Mr. Coates had helped her: she did not explain in what capacity he had acted (i.e., personally, as the sole proprietor of Tricon Accounting Services or as the directing mind of Bradshaw-Coates) or what services he had rendered. Furthermore, it bears remembering that it was Mr. Coates’ evidence that in 2004 he was so ill he was not even able to review his income tax return before it was filed. In these circumstances, I am not convinced that Mrs. Coates is entitled to additional sub-contracting expenses of $5,000.
+Capital Cost Allowance
+[32] The Minister denied Mrs. Coates’ capital cost allowance claim of $2,467.95 in 2004. There was no evidence to rebut the Minister’s assumption that this amount was not incurred in 2004.
+Conclusion
+[33] For the reasons set out above, Mrs. Coates’ appeals of the reassessments of the 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 17th day of July, 2009.
+“G. A. Sheridan”
+Sheridan, J.
+CITATION: 2009TCC366
+COURT FILE NOS.: 2008-1169(IT)I; 2008-1170(IT)I
+STYLE OF CAUSE: LUDMILA COATES AND BETWEEN HAROLD COATES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: January 20 and 21, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: July 17, 2009
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-2.
+[2] Exhibit A-4.
+[3] Exhibit A-5.
+[4] Exhibit A-7.
+[5] Exhibit A-8.
+[6] Exhibit R-3.
+[7] Including the diagram in Exhibit A-1.
+[8] Exhibit A-10.
+[9] Transcript, page 200 at line 11.
+[10] Exhibit A-9.
+[11] 1999 CarswellNat 74 at paragraph 26. (T.C.C.)

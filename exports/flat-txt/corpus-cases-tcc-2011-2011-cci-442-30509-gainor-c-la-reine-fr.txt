@@ -1,0 +1,217 @@
+Title: Gainor c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30509/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-442-30509-gainor-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-09-21
+
+# Gainor c. La Reine
+
+- Citation: 2011 CCI 442
+- Decision date: 2011-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7249, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gainor c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-21
+Référence neutre
+2011 CCI 442
+Numéro de dossier
+2009-1287(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1287(IT)G
+ENTRE :
+IAN GAINOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 1er février 2011, à Calgary (Alberta).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Margaret McCabe
+__________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en conformité avec les motifs du jugement ci-joints.
+Chaque partie assumera ses propres frais.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2011.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 30e jour de novembre 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 442
+Date : 20110921
+Dossier : 2009-1287(IT)G
+ENTRE :
+IAN GAINOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] L’appelant interjette appel de la nouvelle cotisation relative à son année d’imposition 2004 par laquelle le ministre du Revenu national (le « ministre ») a ajouté 118 000 $ à son revenu de 3 070 $, qui avait déjà fait l’objet d’une cotisation, et a imposé une pénalité au montant de 12 682 $. Ce revenu additionnel est lié à des fonds qui auraient été obtenus illicitement au moyen d’un chèque falsifié. Les parties qui ont profité de ces fonds sont notamment Kneale Craine, aujourd’hui décédé, qui, selon le calcul du ministre, a reçu, directement et indirectement, 102 000 $ des fonds obtenus illicitement au cours de la même année.
+[2] Le ministre a justifié comme suit sa nouvelle cotisation du revenu de l’appelant pour 2004 et l’établissement d’une pénalité :
+a) 118 000 $ ont été inclus dans le revenu de l’appelant parce que celui-ci avait reçu, au moyen de paiements directs et indirects, des gains provenant d’un vol, d’un détournement de fonds ou de malversation totalisant 118 000 $. Ces gains constituent un revenu d’une source, et, à ce titre, ils doivent être inclus dans le revenu en application de l’article 3 de la Loi de l’impôt sur le revenu (la « Loi »).
+b) Une pénalité de 12 682 $ a été imposée en application du paragraphe 163(2) de la Loi parce que l’appelant avait, sciemment ou dans des circonstances équivalant à faute lourde, fait, dans sa déclaration de revenu, une omission.
+POINTS EN LITIGE
+[3] Le présent appel soulève trois questions :
+a) Le ministre a-t-il, à juste titre, établi que le produit d’un chèque falsifié constituait un revenu d’une source pour l’appelant?
+b) Quel montant de ce revenu est attribuable à l’appelant?
+c) L’imposition par le ministre d’une pénalité à l’appelant en vertu du paragraphe 163(2) de la Loi était-elle justifiée?
+RÉSUMÉ DES FAITS
+[4] L’appelant est un chiropraticien à la retraite qui réside à Calgary, en Alberta. Il avait déclaré faillite avant 2004 et n’avait aucunement accès à un compte bancaire personnel. Il utilisait le compte bancaire d’une société, Canam Seating Ltd. (« Canam »), dont il avait été administrateur. En réalité, Canam avait été radiée du registre des sociétés de l’Alberta en 2003. Cependant, son compte bancaire à la Banque Canadienne Impériale de Commerce (« CIBC ») était demeuré actif. L’appelant a été, pendant toute la période en cause, le seul signataire autorisé relativement au compte de Canam.
+[5] Le chèque falsifié dont il est question en l’espèce a été déposé dans le compte de Canam. Le chèque avait été tiré à l’origine sur le compte de Honeywell à la Banque Royale du Canada à Toronto, en Ontario, et il était fait à l’ordre de Dell Financial Services. Le nom du bénéficiaire original sur le chèque a été remplacé par celui de Canam. Le chèque a soit été posté, soit été envoyé par messager à la succursale CIBC de Canam à Calgary pour être déposé dans son compte.
+[6] Après que le chèque eut été déposé dans le compte de Canam, l’appelant, à titre d’administrateur de Canam, a procédé immédiatement au décaissement des fonds. L’appelant semble avoir fait des retraits ou des paiements totalisant 319 147 $ entre le 24 et le 26 novembre 2004 inclusivement. Apparemment, le chèque n’a fait l’objet d’aucune retenue parce que le compte de Canam était actif depuis 1999 et Canam avait une bonne réputation auprès de sa banque.
+[7] Les plus gros transferts que l’appelant a faits du produit du chèque comprenaient un transfert de 200 000 $ à Custom House Currency Exchange (une société spécialisée dans les transferts internationaux d’argent, qui fait maintenant partie de Western Union), un acompte de 60 000 $ sur le prix d’achat d’une maison fait par feu Kneale Craine et un remboursement de 20 000 $ de la dette personnelle de M. Craine envers Glynis Grigg. Les plus petits paiements et retraits, de 5 000 $ à 7 000 $ chacuns, ont été faits par l’appelant afin de payer ses propres dettes personnelles et celles de M. Craine envers des tiers, d’obtenir de l’argent comptant et d’investir dans un compte de placements à l’étranger.
+[8] Au 26 novembre 2004, le solde du compte de Canam n’était plus que de 20 165,39 $. Le 29 novembre 2004, la succursale de la Banque Royale du Canada de Honeywell a appelé la succursale CIBC de Canam pour l’aviser que le chèque en question avait été falsifié et qu’il ne serait pas honoré.
+[9] Peu après les décaissements, la CIBC a informé l’appelant que les fonds avaient été déposés à tort dans le compte de Canam, et elle a demandé le remboursement des fonds qui en avaient été retirés. L’appelant a remboursé une partie de ces fonds. La CIBC a mis le compte de Canam à découvert à hauteur du montant non remis et a facturé des frais de découvert mensuels. Au 1er janvier 2005, le montant du découvert s’élevait à 166 998,16 $. Il appert qu’au 1er avril 2005, ce solde était passé à 175 828,97 $. Le 8 avril 2005, le solde du découvert a été radié et un relevé faisant état d’un solde de 0 $ a été émis pour la période se terminant le 8 avril 2005. L’appelant soutient que la CIBC a sorti le montant en souffrance de son bilan.
+[10] Une enquête policière a été menée et a révélé que Honeywell ne devait aucun argent à Canam et qu’elle n’avait pas émis de chèque à l’ordre de Canam. L’appelant et M. Craine ont tous deux été interrogés, et ils ont par la suite été accusés d’avoir commis une fraude de plus de 5 000 $ en violation de l’alinéa 380(1)a) du Code criminel et un vol de plus de 5 000 $ en violation de l’alinéa 334a) du Code criminel. La police a déterminé que le montant total volé s’élevait à 166 998,16 $. Les accusations contre l’appelant et M. Craine ont par la suite été suspendues. Selon l’appelant, M. Craine est décédé en juin 2008.
+[11] La CIBC semble avoir assumé la perte de Honeywell. La CIBC semble également avoir choisi de ne pas poursuivre Canam ni l’appelant pour recouvrer les fonds que l’appelant n’avait pas remboursés.
+[12] Bien que la police ait déterminé que la perte de la CIBC en rapport avec le chèque falsifié s’élevait à 166 998,16 $, le ministre a établi une nouvelle cotisation à l’égard de l’appelant en fonction de l’hypothèse selon laquelle ce dernier avait reçu un avantage de 118 000 $. L’appelant a affirmé à l’audience qu’il avait remis le montant de plus de 118 000 $ à la CIBC.
+[13] Dans sa réponse à l’avis d’appel de l’appelant, le ministre a ventilé comme suit les décaissements que l’appelant avait faits du produit du chèque falsifié, en admettant les montants et les objets de ces décaissements :
+Date
+Élément
+Montant
+24 nov. 2004
+Remboursement de l’investissement personnel de T.K. Craine à T. Pearce
+10 000 $
+24 nov. 2004
+Paiement à T.K. Craine, mandat
+5 000 $
+24 nov. 2004
+Remboursement du prêt personnel de T.K. Craine à Glynis J. Grigg
+20 000 $
+24 nov. 2004
+Retrait en espèces effectué par Ian Gainor, bordereau de retrait signé par Ian Gainor
+6 000 $
+25 nov. 2004
+Remboursement du prêt personnel d’Ian Gainor à M. Leigh
+Mandat et bordereau de retrait signé par Ian Gainor
+5 000 $
+25 nov. 2004
+Retrait en espèces effectué par Ian Gainor, bordereau de retrait signé par Ian Gainor
+5 000 $
+26 nov. 2004
+Paiement à Century 21, traite bancaire signée par Ian Gainor
+60 000 $
+26 nov. 2004
+Remboursement du prêt personnel de T.K. Craine à D. Anderson, traite bancaire – bordereau de retrait signé par Ian Gainor
+7 000 $
+Total
+118 000 $
+[14] À l’audience, l’appelant a relaté d’autres événements qui seraient survenus au cours de la période précédant le dépôt du chèque falsifié. L’appelant a affirmé qu’il attendait un virement télégraphique d’un montant similaire d’un investisseur providentiel étranger dans le compte de Canam. Lorsque le dépôt du 23 novembre 2004 a été effectué, il a donc procédé au décaissement des fonds, en croyant qu’ils avaient été virés à juste titre.
+[15] L’appelant soutien qu’il a engagé M. Craine pour l’aider à amasser des capitaux pour financer une entreprise novatrice de clinique de chiropraxie aux États‑Unis que l’appelant soutient avoir eu l’intention d’établir dans 25 villes. Il soutient qu’il avait engagé des étudiants du programme de maîtrise en administration des affaires de l’Université de Calgary pour établir un plan d’affaires pour son projet. À l’audience, l’appelant a produit en preuve, sous la cote A-R 1, onglet 6, une copie d’un résumé de ce plan d’affaires.
+[16] L’appelant a affirmé que M. Craine, son comptable, conseiller financier et ami de longue date, avait trouvé un investisseur providentiel en Angleterre qui était disposé à avancer 5 000 000 $ à l’entreprise de l’appelant.
+[17] L’appelant n’a pas dit si l’investisseur avait fait une contre-offre relativement à la transaction. Selon l’appelant, l’investisseur providentiel était un contact personnel de M. Craine, qui avait négocié la transaction sans l’aide de l’appelant.
+[18] L’appelant n’a pas indiqué clairement dans son témoignage s’il savait que la première avance de l’investisseur providentiel devait être d’un montant de 350 000 $. L’appelant soutient qu’il avait avisé la CIBC qu’il attendait un virement d’Europe d’un montant de 340 000 $ ou 350 000 $. En outre, l’appelant semblait incapable d’affirmer avec assurance si l’investisseur avait confirmé que le montant viré constituerait la première « tranche » de l’investissement total.
+[19] L’appelant a affirmé que l’investisseur providentiel était apparemment au courant, avant que la première avance soit effectuée, qu’il n’existait encore aucune entreprise de clinique et que la première avance visait à aider l’appelant à élaborer un plan de réalisation du projet d’entreprise, à constituer la société requise et à ouvrir un compte bancaire. L’appelant a affirmé en outre qu’étant donné que ni lui ni M. Craine n’avaient de compte bancaire à leur nom, l’investisseur providentiel devait envoyer les fonds au compte bancaire de Canam à la CIBC.
+[20] L’appelant a affirmé que M. Craine lui avait dit qu’après que l’investisseur providentiel a découvert que le compte de Canam avait été fermé par la CIBC, il n’avait plus voulu consentir de financement additionnel. L’appelant a affirmé qu’après le décès de M. Craine, l’appelant et la famille de M. Craine avaient examiné les documents de M. Craine, mais n’y avaient trouvé aucun renseignement concernant l’investisseur providentiel.
+[21] Il a été noté dans le dossier de la police que M. Craine avait dit à l’agent responsable de l’enquête que l’appelant lui devait 30 000 $ au titre de services de conseils en matière de comptabilité relative à l’impôt sur le revenu et d’investissement qu’il avait fournis à l’appelant au cours des six à huit années précédant 2005.
+[22] L’appelant a affirmé à l’audience qu’il avait déclaré le profit issu du chèque falsifié en 2004 dans sa déclaration de revenu de 2006.
+[23] Le recueil conjoint de documents des parties contient des documents relatifs à l’achat d’une maison par M. Craine, à savoir l’acompte aux fins duquel l’appelant a fait une traite de 60 000 $. Les documents comprennent une copie de la traite de 60 000 $ tirée sur le compte de Canam à la CIBC à l’ordre de Century 21 et une copie du contrat d’achat d’immeuble résidentiel correspondant. Le contrat indique que le prix d’achat de l’immeuble était de 1 325 000 $, que l’acompte initial était de 60 000 $ et que l’acheteur était 1038967 Alberta Inc. Les documents comprennent également une feuille d’envoi par télécopieur qui indique que 1038967 Alberta Inc. était associée à M. Caine.
+POSITION DES PARTIES
+La position de l’appelant
+[24] L’appelant soutient qu’étant donné que le gros du produit du chèque frauduleux a été décaissé au profit M. Craine ou pour son compte, un fait que le ministre reconnaît, c’est M. Craine ou sa succession, et non l’appelant, qui devrait payer l’impôt sur le montant ainsi décaissé. L’appelant soutient que seul le montant dont il a bénéficié devrait lui être attribuable aux fins de l’impôt.
+[25] L’appelant soutient subsidiairement qu’il a réglé la dette qu’il avait envers M. Craine, de sorte que le montant du remboursement devrait être traité comme une dépense pour l’appelant.
+La position du ministre
+[26] Le ministre soutient que, bien que le gros des fonds soit allé à des tiers, ils ont été transférés par Canam selon les instructions de l’appelant. Par conséquent, les fonds sont attribuables à l’appelant et sont imposables entre ses mains en vertu du paragraphe 56(2) de la Loi. Le ministre n’a produit aucun élément de jurisprudence pour étayer sa position quant à l’application du paragraphe 56(2). Il a surtout traité de la question de la source du revenu en cause. Il s’est appuyé sur l’arrêt The Queen v. F E Poynton[1] et la décision Buckman (H.S) v. Minister of National Revenue [2] quant aux critères de détermination de ce qui constitue un revenu.
+[27] Le ministre reconnaît qu’il n’y a aucune certitude quant à savoir qui a commis le vol, mais il soutient que le fait que l’appelant ait collaboré avec M. Craine en rapport avec le financement de l’investisseur providentiel et ait ensuite reçu une part du produit du chèque frauduleux devrait contribuer à conclure que le produit était imposable entre les mains de l’appelant.
+[28] Le ministre a cité les décisions Obodoechina c. La Reine[3] et Nigro c. La Reine[4] pour appuyer la thèse selon laquelle les fonds qui ne font que transiter dans le compte d’un contribuable lui sont attribuables.
+[29] Bien que le ministre reconnaisse que les déductions appliquées à des revenus tirés d’activités illégales sont admissibles dans certains cas, il soutient que ce n’est pas le cas en l’espèce parce que l’appelant n’exploitait pas une entreprise de vol. En outre, des motifs d’ordre public devraient empêcher l’admission d’une telle déduction.
+[30] En ce qui a trait aux revenus de 2006 de l’appelant, l’avocate du ministre ne savait pas si l’appelant avait fait l’objet d’une cotisation en fonction de sa déclaration en 2006 du revenu de 2004 en litige. Cependant, le ministre soutient que la déclaration de revenu de 2006 ne devrait avoir aucune incidence sur l’établissement d’une nouvelle cotisation pour l’année d’imposition 2004 de l’appelant.
+[31] En ce qui concerne la pénalité, l’appelant était au courant du revenu non déclaré et il savait ou aurait dû savoir que les montants reçus devaient être déclarés.
+ANALYSE
+[32] L’alinéa 3a) de la Loi prévoit que le revenu d’un contribuable pour une année d’imposition est déterminé en calculant le total de ses revenus provenant de toutes sources.
+[33] L’article 4 de la Loi prévoit que le revenu d’un contribuable pour une année d’imposition donnée doit être calculé en fonction de l’hypothèse selon laquelle le contribuable n’a eu aucun revenu ni perte, sauf ce qui provenait des sources applicables.
+[34] L’article 9 de la Loi précise que le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire :
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+(2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+(3) Dans la présente loi, le revenu tiré d’un bien exclut le gain en capital réalisé à la disposition de ce bien, et la perte résultant d’un bien exclut la perte en capital résultant de la disposition de ce bien.
+[35] Le paragraphe 248(1) de la Loi définit essentiellement le terme « entreprise » comme tout type d’entreprise :
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l’application de l’alinéa 18(2)c), de l’article 54.2, du paragraphe 95(1) et de l’alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l’exclusion toutefois d’une charge ou d’un emploi.
+[36] La Loi ne définit pas les concepts de revenu et de source. Les dispositions législatives n’énumèrent non plus aucune source de revenu correspondant à un revenu reçu illicitement par suite d’une fraude ou d’un vol.
+[37] Les tribunaux ont toutefois reconnu qu’un revenu tiré d’une activité illégale est imposable. L’arrêt de 1972 de la Cour d’appel de l’Ontario dans l’affaire Poynton est l’arrêt de principe selon lequel les produits d’activités criminelles constituent un revenu imposable :
+[TRADUCTION]
+La question est celle de savoir quelles caractéristiques un profit, un gain ou un avantage doit présenter pour pouvoir être qualifié de « revenu » aux fins de l’impôt. Il ne fait aucun doute que le mot « revenu » dans la Loi de l’impôt sur le revenu est entendu de manière suffisamment large pour inclure d’autre argent que celui tiré de transactions de bonne foi. Le fait que des profits soient tirés d’une entreprise illégale ne les met pas à l’abri de l’impôt (Minister of Finance v. Smith, [1927] AC 193), et les tribunaux ont tous aussi régulièrement autorisé, au titre de déductions dans le calcul du revenu, les postes de dépenses viciées. Pour déterminer les profits nets d’une entreprise, les dépenses qui sont de nature illégale sont néanmoins déductibles si elles tombent dans le champ d’application des dispositions de la Loi à titre de paiements effectués en totalité, exclusivement et par nécessité aux fins de gagner le revenu dont l’assujettissement à l’impôt est recherché (Espie Printing Company Limited v. MNR [1960] Ex. CR 422; [1960] CTC 145; 60 DTC 1087).
+Les mots de lord Haldane dans l’arrêt Smith (précité) s’appliquent dans la présente affaire lorsqu’il affirmait, à la page 197 :
+Leurs Seigneuries ne considèrent pas non plus comme naturelle l’interprétation de la Loi selon laquelle celle-ci permet aux personnes qui sont visées par ses dispositions d’échapper à l’impôt en organisant leur propre méfait. La Loi ne comporte aucune disposition qui tendrait à indiquer une intention de restreindre la définition législative du revenu, et il ne semble pas approprié dans les circonstances de considérer qu’une norme morale ou éthique présumée commande dans une affaire comme celle-ci l’interprétation littérale du libellé employé. Étant donné que le Parlement du Dominion a le pouvoir de prélever l’impôt qu’il estime indiqué, leurs Seigneuries sont d’avis qu’il a établi un impôt sur le revenu sans égard à la question d’un méfait provincial.
+[...]
+Je suis d’avis qu’il n’y a aucune différence entre l’argent et la valeur de l’argent dans le calcul du revenu. Il s’agit dans les deux cas d’avantages, et ils sont tous deux visés par le libellé des dispositions des articles 3 et 5 de la Loi puisqu’il s’agit d’avantages que l’intimé a reçus ou dont il a profité dans le cadre ou en vertu de sa charge ou de son emploi. Je ne crois pas que ces termes ne visent que les avantages liés à la charge ou à l’emploi au sens d’une forme de rémunération pour des services rendus. S’il s’agit d’une acquisition importante qui confère au contribuable un avantage économique et qui ne fait pas l’objet d’une exemption comme, par exemple, un prêt ou un cadeau, elle est alors visée par la définition globale de l’article 3[5].
+[38] Dans l’affaire Poynton, le contribuable avait obtenu des paiements des sous‑traitants de son employeur grâce à un stratagème de facturation fictive. Le juge Evans, s’exprimant au nom de la cour, a conclu que les montants obtenus constituaient un revenu provenant d’un vol :
+[TRADUCTION]
+Compte tenu de la conclusion qui précède, j’estime qu’il n’est pas nécessaire d’examiner en détail l’alinéa 8(1)b) et le paragraphe 137(2). Ces dispositions sembleraient viser les situations où le contribuable obtient un avantage au su ou avec le consentement du donateur-employeur, et elles ne trouvent nullement à s’appliquer dans la présente situation factuelle. Poynton n’a pas acquis les avantages que l’appelante cherche à assujettir à l’impôt ni ne lui ont-ils été conférés ni ne les a-t-il reçus en qualité d’administrateur, de dirigeant ou d’actionnaire, mais en qualité d’escroc[6].
+[39] Dans la décision de 1991 de la Cour dans Buckman[7], où l’avocat‑contribuable avait détourné des fonds de ses clients et n’avait pas traité les fonds comme un prêt, il a été statué que le détournement présentait toutes les caractéristiques d’une entreprise, et, par conséquent, les fonds ont été traités comme un revenu provenant d’une source. Dans l’affaire Buckman, l’appelant avait fait croire à ses clients qu’il investissait leur argent dans des hypothèques alors qu’en réalité, il n’en était rien. L’appelant a été accusé et déclaré coupable de plusieurs chefs de fraude en rapport avec le détournement des fonds de ses clients. Le juge Sobier a affirmé ce qui suit :
+L’appelant a reçu les fonds, se les est appropriés et s’en est servi à son propre avantage. Il ne les a jamais considérés comme des prêts. Il n’y avait aucune intention de rembourser les fonds. L’activité de M. Buckman consistait à escroquer ses clients de façon permanente et sur une longue période. Il se proposait en réalité de garder les fonds à son propre usage, ce qu’il a fait en réalité.
+Le nombre des détournements de fonds et les méthodes employées par l’appelant présentaient toutes les caractéristiques d’une entreprise. Il a pris des risques en volant les fonds et en s’exposant à être découvert. Sa rétribution consistait toutefois dans la possibilité de déjouer les soupçons et de conserver les fonds à son propre usage. Peu importe que l’escroc ait agi à titre d’avocat, de représentant ou d’employé. Le fait que les fonds doivent être considérés comme un revenu découle des faits de la situation. Si je paraphrase le juge Evans dans l’arrêt Poynton, les fonds que l’intimé cherche à assujettir à l’impôt n’ont pas été accumulés par M. Buckman en qualité d’avocat ou de courtier hypothécaire, mais en qualité d’escroc[8].
+[40] Dans la majorité des décisions de la Cour qui traitent de l’assujettissement à l’impôt de fonds obtenus frauduleusement, le contribuable a été condamné au criminel, avant l’instance devant la Cour, pour les actes qu’il avait posés afin d’obtenir les fonds dont l’assujettissement à l’impôt était recherché. Cependant, l’absence de condamnation au criminel n’empêche pas de conclure qu’un revenu a été obtenu par vol ou par fraude, comme l’a confirmé le juge en chef Bowman dans la décision Biros c. La Reine[9] :
+[21] Où en sommes‑nous donc? Nous avons la preuve d’une fraude d’envergure contre les banques, fraude commise au moyen d’identités volées, de l’ouverture frauduleuse de comptes bancaires et de l’obtention frauduleuse de cartes de guichet automatique. Nous avons la preuve d’un grand nombre de chèques volés qui ont été déposés dans ces comptes de banque au moyen de faux endossements.
+[22] Nous avons la preuve concluante des empreintes digitales de M. Biros sur 20 chèques et une preuve visuelle claire de M. Biros qui était en train de conclure des opérations dans les comptes à un certain nombre de guichets automatiques.
+[23] Il y a un autre élément de preuve qui doit être traité d’une façon plutôt prudente, à savoir la dénégation catégorique complète de M. Biros de toute participation au stratagème. M. Biros nie que ce soit sa photo qui figure sur les enregistrements vidéo des caméras de surveillance et il soutient que la police doit avoir d’une façon ou d’une autre fabriqué ses empreintes digitales sur les chèques. Sa dénégation de la preuve évidente, non réfutée et irréfutable a l’effet de confirmer et de renforcer la conclusion selon laquelle il était fortement impliqué dans la fraude. L’inspecteur‑détective Thomas a déclaré qu’il s’agissait d’une fraude complexe qui exigeait énormément de planification, de coopération et d’organisation. M. Biros ne me donne pas l’impression d’être un génie en matière criminelle comme des génies bien connus. S’il avait admis une participation moindre au stratagème, ou s’il avait dit qu’il jouait en fait un rôle peu important, j’aurais peut‑être conclu à la crédibilité de pareille preuve, mais nier toute participation, quelle qu’elle soit, devant la preuve accablante de sa participation ne me laisse aucun autre choix.
+[…]
+[25] En l’espèce, la Couronne a prouvé que M. Biros avait reçu des fonds des banques par suite d’un stratagème frauduleux. M. Biros n’a pas déclaré ces montants à titre de revenu. Il s’agit d’un revenu tiré d’une entreprise. (Neeb v. The Queen, 97 DTC 895, page 897; Svidal v. The Queen, [1995] 1 C.T.C. 2692). […]
+[41] L’appelant n’a pas nié le fait que les fonds dont il est question en l’espèce avaient été obtenus par suite d’une fraude. Cependant, la question de savoir qui a commis la fraude n’a pas de réponse claire. L’appelant soutient que lui-même a été victime de cette fraude. Pour ce qui concerne M. Craine, l’appelant a confirmé qu’il aidait le fils de M. Craine à disculper son père décédé en rapport avec l’allégation selon laquelle ce dernier aurait utilisé des fonds volés pour verser l’acompte aux fins de l’achat de la maison. Cela indique que l’appelant n’accuse pas M. Craine d’avoir pris part à la fraude.
+[42] Les éléments de preuve relatifs au décaissement des fonds portent à croire, à mon avis, que l’appelant savait que les fonds avaient été obtenus frauduleusement. La façon dont il s’est empressé de décaisser l’argent – à partir du jour même où le chèque a été déposé, pour ensuite disposer du gros des fonds en l’espace de quatre jours – tend à indiquer que l’appelant savait qu’il avait affaire à des fonds obtenus illicitement qui pouvaient être rappelés à tout moment. En outre, le transfert de 200 000 $ par l’appelant à Custom House, duquel montant d’autres décaissements ont pu être planifiés, constitue une preuve que l’appelant voulait réduire au minimum la possibilité de retracer les fonds. L’appelant a affirmé qu’il avait transféré les 200 000 $ afin que les fonds soient disponibles pour son projet d’entreprise aux États-Unis. Cependant, cela contredit complètement son témoignage selon lequel il devait à M. Craine au moins 300 000 $ du soi-disant virement initial de quelque 350 000 $ pour avoir négocié le soi-disant financement de l’investisseur providentiel. Selon l’appelant, le gros de ce montant appartenait à M. Craine. Au moment où le transfert de 200 000 $ a été fait, l’appelant ne savait supposément pas encore que les fonds ne provenaient pas de l’investisseur providentiel.
+[43] La crédibilité de l’appelant est mise en doute sur d’autres points. Par exemple, sur le formulaire de demande et entente relatives à un compte de petite entreprise de la CIBC, l’appelant a indiqué qu’il était l’unique administrateur et actionnaire de Canam. Or, cette demande comportait deux déclarations inexactes : l’appelant n’a jamais été actionnaire de Canam, d’après son propre témoignage, et, au moment où il a signé la demande, Canam n’existait plus.
+[44] Lorsque la CIBC a appelé l’appelant pour lui demander de venir discuter du chèque falsifié, l’appelant est allé rencontrer le directeur des comptes en compagnie de M. Craine. Cela confirme que l’appelant travaillait en très étroite collaboration avec M. Craine. Personne d’autre que l’appelant et M. Craine n’avait quelque motif que ce soit de falsifier le chèque et de le déposer dans le compte bancaire de Canam à la CIBC. L’appelant et M. Craine sont les seules personnes qui ont profité de la fraude. La preuve est suffisamment concluante pour que je puisse inférer qu’à tout le moins, l’appelant savait que les fonds avaient été obtenus illégalement.
+[45] Dans l’arrêt Poynton, le juge Evans a statué qu’un remboursement de fonds détournés dans une année ultérieure n’a pas d’incidence sur l’assujettissement à l’impôt des fonds dans l’année de leur obtention. M. Poynton avait remboursé à son employeur les montants qu’il avait détournés illicitement, après une poursuite au civil intentée contre lui. Le juge Evans a conclu que cela n’avait pas d’incidence sur l’assujettissement à l’impôt des fonds détournés :
+[TRADUCTION]
+Le fait que Poynton ait remboursé l’argent volé en l’espèce à la suite de l’introduction d’une poursuite au civil par son employeur n’a pas d’incidence sur le résultat étant donné que le remboursement n’a pas été effectué dans les années où les fonds avaient été détournés et où l’appelante a cherché à les assujettir à l’impôt. La Cour n’a pas à trancher en l’espèce les questions de savoir si l’argent serait assujetti à l’impôt s’il avait été remboursé dans l’année où il avait été détourné, si le contribuable a droit à une déduction dans l’année où le remboursement a été effectué ou si le remboursement serait imposable entre les mains de l’employeur[10].
+[46] Dans la décision Nigro de 2003 de la Cour, précitée, que le ministre invoque, le juge Bonner a statué que, puisque l’appelant ne pouvait pas prouver à qui appartenaient véritablement les montants déposés dans ses comptes bancaires, ces montants étaient réputés constituer un revenu de l’appelant. Dans l’affaire Nigro, l’appelant avait accepté des dépôts dans ses comptes bancaires pour le compte d’un associé commercial, M. Muto. Les montants déposés totalisaient 2 700 000 $ dans l’année d’imposition en cause. Le gros de ces dépôts avait été versé à M. Muto ou à des tiers suivant les instructions de ce dernier. Cependant, 150 349 $ semblaient être demeurés dans le compte de l’appelant. Étant donné que l’appelant n’avait pas pu expliquer pourquoi M. Muto n’avait pas utilisé son propre compte bancaire pour les transactions et que l’appelant n’avait fourni aucune documentation ni aucune autre explication relativement à la nature des transactions, il a été statué que les 150 349 $ constituaient un revenu de l’appelant.
+[47] La décision Nigro a été citée dans la décision Obodoechina de 2006 de la Cour, que le ministre cite également. Dans la décision Obodoechina, le juge Margeson, à l’instar du juge Bonner, a statué que, puisque l’appelant n’avait pas réussi à corroborer sa prétention selon laquelle les fonds qui avaient transité dans son compte bancaire appartenaient à d’autres, ces fonds devaient lui être attribués.
+[48] En l’espèce, la preuve démontre que l’appelant et M. Craine ont tous deux participé au stratagème de chèque frauduleux. Les décisions Nigro et Obodoechina établissent que, lorsque des éléments de preuve corroborent que les montants des paiements sont attribuables à une autre personne et que ces paiements ont été faits pour le compte de cette dernière, ces montants ne sont pas imposables entre les mains du contribuable. Le ministre admet que l’appelant a transféré 102 000 $ à M. Craine ou au profit de celui‑ci. Ce montant semble correspondre à la part de M. Craine du produit du stratagème. En conséquence, les fonds ainsi transférés à M. Craine ou pour son compte ne sont pas un revenu de l’appelant. Cela laisse 16 000 $ à inclure dans le revenu de 2004 de l’appelant.
+[49] L’intimée soutient que l’appelant est assujetti à l’impôt à l’égard des 102 000 $ transférés à M. Craine ou pour le compte de ce dernier en vertu du paragraphe 56(2) de la Loi. Cette disposition s’appliquerait, par exemple, si les montants déposés dans le compte de Canam avaient effectivement appartenus à Canam et l’appelant avait fait en sorte que Canam transfère les fonds à M. Craine. Cependant, ce n’est pas le cas. Les fonds n’ont jamais appartenu à Canam. Le compte bancaire de Canam a simplement été utilisé comme instrument pour perpétrer une fraude à l’endroit de la CIBC. La preuve démontre que M. Craine a reçu sa part convenue du montant. Aucun bien social n’a été transféré par Canam à M. Craine sur instruction de l’appelant. La preuve porte à croire que les deux hommes ont participé au stratagème.
+[50] L’affirmation de l’appelant selon laquelle il a déclaré dans son année d’imposition 2006 son revenu de 2004 en litige n’a pas d’incidence sur la détermination de son revenu imposable pour 2004. Premièrement, l’arrêt Poynton établit que, même lorsque des fonds obtenus illicitement sont remboursés dans une année subséquente, la restitution n’a pas d’incidence sur le fait qu’ils devaient être inclus dans l’année d’imposition où ils ont été obtenus. Deuxièmement, les éléments de preuve présentés par l’appelant quant à la façon dont il a déterminé le montant de 2004 qu’il aurait inclus dans sa déclaration de revenus pour son année d’imposition 2006 ne sont pas clairs : l’appelant soutient que son revenu provenant des fonds en question ne totalisait que 10 500 $, alors qu’il affirme qu’il a déclaré 27 235,50 $. En outre, il n’y a aucun autre élément de preuve démontrant qu’un tel montant aurait effectivement été déclaré en 2006. L’appelant a produit en preuve à l’audience une feuille d’information concernant une déclaration de revenu pour 2006, mais ce document ne contient aucune ventilation des [TRADUCTION] « revenus professionnels » de l’appelant en 2006.
+[51] Dans le présent appel, l’appelant a soutenu qu’il ne considérait pas la totalité du produit de 118 000 $ comme son revenu. Cependant, il a admis qu’une partie de ce montant était son revenu. L’appelant a affirmé qu’il avait déclaré le revenu de 2004 applicable dans sa déclaration de revenu de 2006, un fait qui indique que l’appelant savait que ce revenu devait être déclaré ou qu’il aurait dû consulter un comptable pour s’enquérir de l’assujettissement à l’impôt d’un tel revenu. L’appelant est une personne instruite qui a traité avec l’Agence du revenu du Canada relativement à son impôt sur le revenu dans le passé. Cela justifie l’imposition d’une pénalité relativement au revenu non déclaré de 16 000 $ de l’appelant.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2011.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 30e jour de novembre 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 442
+NO DU DOSSIER DE LA COUR : 2009-1287(IT)G
+INTITULÉ : IAN GAINOR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 1er février 2011
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 21 septembre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Margaret McCabe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1972] C.T.C. 411 (C.A. de l’Ont.).
+[2] [1991] 2 C.T.C. 2608.
+[3] 2006 CCI 589.
+[4] 2003 CCI 190.
+[5] Précité, note de bas de page 1, pp. 415, 419-420.
+[6] Ibid, p. 420.
+[7] Précité, note de bas de page 2.
+[8] Ibid, p. 2615.
+[9] 2007 CCI 248.
+[10] Précité, note de bas de page 1, p. 421.

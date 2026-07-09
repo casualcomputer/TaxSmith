@@ -1,0 +1,139 @@
+---
+title: "Brickman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30185/index.do"
+last_modified: "2011-02-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 42"
+citation2: ""
+neutral_citation: "2011 CCI 42"
+decision_date: "2011-02-01"
+language: "fr"
+item_id: "30185"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7736
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:09:14.586000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2dfcf8e8dfc6a2161dd123766101df0ceeebc8708f769a3bab37cead02b23401"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brickman c. La Reine
+
+- Citation: 2011 CCI 42
+- Decision date: 2011-02-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7736, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brickman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-01
+Référence neutre
+2011 CCI 42
+Numéro de dossier
+2009-3659(GST)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-3659(GST)I
+ENTRE :
+DAVID BRICKMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 janvier 2011, à London (Ontario).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la cotisation du ministre du Revenu national établie en vertu de la Loi sur la taxe d’accise en date du 25 août 2008 est rejeté.
+Signé à Vancouver (Colombie-Britannique), ce 1er jour de février 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 9e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2011 CCI 42
+Date : 20110201
+Dossier : 2009-3659(GST)I
+ENTRE :
+DAVID BRICKMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, M. David Brickman, interjette appel à l’encontre de la cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur la taxe d’accise (la « Loi ») et par laquelle le ministre a refusé d’accorder sa demande de remboursement pour habitation neuve de la taxe sur les produits et services (le « remboursement pour habitation neuve ») de 8 750 $.
+[2] Même si elle est datée du 4 janvier 2005, la demande n’a été déposée auprès du ministre que le 18 octobre 2006. Dans sa demande, M. Brickman a mentionné que la construction était en grande partie terminée en janvier 2004. Le ministre a rejeté sa demande en vertu du sous‑alinéa 256(3)a)(iii) de la Loi, qui interdit le paiement d’un remboursement pour habitation neuve à moins que la demande ne soit déposée dans les deux ans après que les travaux de construction eurent été achevés en grande partie. M. Brickman a ensuite écrit au ministre pour lui expliquer les raisons pour lesquelles il n’avait pas respecté le délai et lui demander de réexaminer, en vertu de l’alinéa 256(3)b) de la Loi, la décision qu’il avait prise. Même si M. Brickman a discuté avec des représentants pendant l’examen de sa demande d’équité, cette demande a finalement été rejetée.
+[3] M. Brickman s’est représenté lui‑même à l’audience et il était la seule personne à témoigner. Il n’a pas contesté les délais susmentionnés ni l’application du sous‑alinéa 256(3)a)(iii) à la situation en l’espèce. Il a interjeté appel à l’encontre de la décision du ministre dans l’espoir que la Cour ait le pouvoir d’examiner les raisons qui sous‑tendent son défaut de soumettre la demande dans le délai prescrit et d’ordonner que le remboursement soit payé.
+[4] J’ai trouvé que M. Brickman était un témoin très crédible qui a présenté les faits de sa cause de manière claire, raisonnable et sans artifices. Au moment où il a présenté (où aurait dû présenter) sa demande, il n’était pas entièrement au courant des exigence requises pour présenter une demande de remboursement pour habitation neuve. Son ignorance de la procédure et, plus précisément, des différents délais prescrits par la loi a été exacerbée par une multitude d’événements malencontreux qui sont survenus pendant la construction de sa nouvelle maison, y compris la faillite d’un constructeur, l’apparition de problèmes médicaux et de l’information erronée fournie par des représentants bien intentionnés.
+[5] Ceci dit, comme l’a expliqué l’avocat de l’intimée dans son examen exhaustif de la jurisprudence applicable et ainsi qu’il en a été discuté plus en détail avec M. Brickman à la fin de l’audience, la Cour canadienne de l’impôt du Canada ne détient pas le pouvoir d’examiner l’exercice du pouvoir discrétionnaire du ministre en vertu de l’alinéa 256(3)b). Il n’y a pas non plus de loi qui confère à la Cour le pouvoir de proroger le délai prescrit pour présenter une demande de remboursement pour habitation neuve.
+[6] Dès qu’il a appris qu’il était peu probable que la Cour lui accorde la réparation qu’il demandait, M. Brickman a affirmé qu’il demanderait au ministre d’examiner à nouveau la décision relative à la demande d’équité. Puisque les conclusions de fait peuvent aider le ministre à faire un réexamen et puisque j’ai au l’occasion d’entendre le témoignage sous serment de M. Brickman, j’ai énuméré ci‑dessous les conclusions de fait de son appel. Cependant, l’appel de M. Brickman doit être rejeté.
+Faits
+[7] M. Brickman a pendant longtemps rêvé de construire sa propre maison sur un terrain en bordure d’un lac dont il était propriétaire dans le sud‑ouest de l’Ontario. À l’automne 2000, il a retenu les services d’un constructeur avec l’objectif de commencer la construction en septembre en prévoyant une date de fin des travaux au début de la nouvelle année. Il se trouve que la construction n’a même pas commencé avant novembre 2000. En août de l’année suivante, alors que les travaux de construction étaient seulement complétés aux deux tiers, le constructeur a fait faillite et les travaux ont été paralysés. Malheureusement, M. Brickman avait payé un montant important à l’avance pour les coûts de construction. Ce montant n’avait pas été distribué aux différents travailleurs et fournisseurs et M. Brickman a rapidement trouvé sa propriété grevée de privilèges totalisant quelque 51 000 $.
+[8] N’ayant aucun autre endroit pour vivre, en septembre 2001, M. Brickman a été forcé d’emménager dans la maison partiellement construite : à ce moment, mis à part le fait qu’une toilette était fonctionnelle, il n’y avait aucune plomberie ni aucun chauffage. L’édifice n’avait évidemment pas obtenu l’approbation requise en vue de l’occupation. Pendant ce temps, M. Brickman était harcelé par des créanciers et des gens de métier qui, bien entendu, voulaient être payés pour leur travail. Les frais juridiques se sont accumulés. En raison de cette augmentation vertigineuse des coûts, M. Brickman a dû emprunter de plus en plus de fonds pour assurer la fin des travaux de construction. En août 2004, les privilèges ont été payés, et près du même montant avait été payé à ses avocats. Même s’il restait encore à faire une importante partie des travaux à l’extérieur, la maison était au moins habitable et M. Brickman a enfin obtenu les approbations requises des autorités municipales.
+[9] Pendant ce temps, ce qui devait être la maison de rêve de M. Brickman est devenu une source d’anxiété. Le stress qu’il a vécu au cours des derniers mois a eu des répercussions et sa santé en a souffert : son poids a augmenté soudainement; il a commencé à souffrir de migraines; il est devenu anxieux et craintif. Il a obtenu des soins médicaux et a reçu du counselling. Il s’est rendu compte que lorsqu’il était au travail, soit loin de cette source de stress, son niveau d’anxiété diminuait. C’est pour cette raison qu’il a refusé de prendre un congé de maladie pendant la poursuite des travaux de construction. Mais, au milieu de ce chaos, M. Brickman n’avait pas la capacité de penser aux exigences relatives au remboursement pour habitation neuve.
+[10] Toutefois, au début de 2005, au fur et à mesure que la situation est devenue plus gérable, M. Brickman a enfin porté attention à la question du remboursement pour habitation neuve. Il a rempli la demande de remboursement pour habitation neuve (c’est la raison pour laquelle le ministre a reçu en octobre 2006 une demande datée du 4 janvier 2005) mais avant de l’envoyer, il a parlé des délais pour présenter une demande à ce qui semble avoir été un représentant d’une « ligne d’aide » chargé du remboursement pour habitation neuve . D’une manière ou d’une autre, pendant la conversation, M. Brickman a mentionné qu’il avait [traduction] « emménagé » dans la maison en septembre 2001 et on l’a informé qu’il était trop tard pour présenter sa demande. Il est peu probable que leur discussion ait porté sur un examen des circonstances de [traduction] l’« emménagement » ni sur ce qui constituait [traduction] l’« occupation » de sa maison, comme le prévoit la Loi. Ayant entendu le témoignage de M. Brickman, l’avocat de l’intimée a émis l’opinion (à mon avis très justifiée) qu’il n’avait pas, selon la loi, [traduction] « occupé » sa maison en 2001. De toute manière, ces renseignements ont eu pour effet de décourager M. Brickman de présenter une demande à un moment où il aurait été encore admissible au remboursement pour habitation neuve. Pendant ce temps, le temps a continué à courir.
+[11] Quelques mois plus tard, M. Brickman a pensé à faire d’autres démarches auprès des représentants chargés du remboursement pour habitation neuve. Il a présenté une demande à l’automne 2006, mais le remboursement a été refusé parce que la demande avait été présentée après le délai de deux années prévu au sous‑alinéa 256(3)a)(iii) de la Loi. On lui a conseillé de présenter une demande auprès du ministre en vertu des dispositions d’équité afin que celui‑ci réexamine, en vertu de l’alinéa 256(3)b) de la Loi, la décision qu’il avait prise. M. Brickman a suivi ce conseil; il a inclus avec ses autres documents des rapports médicaux venant de professionnels de la santé qui l’avaient soigné pendant les travaux de construction[1].
+[12] À un certain moment, les représentants ont informé M. Brickman que les rapports médicaux n’avaient pas été pris en compte parce qu’il avait été capable de travailler pendant toute la durée des travaux de construction. C’est ainsi que M. Brickman s’est trouvé devant la Cour canadienne de l’impôt.
+Décision
+[13] Pour les motifs qui précèdent, l’appel interjeté à l’encontre de la cotisation établie par le ministre du Revenu national datée du 25 août 2008 est rejeté.
+Signé à Vancouver (Colombie-Britannique), ce 1er jour de février 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 9e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2011 CCI 42
+No DU DOSSIER DE LA COUR : 2009-3659(GST)I
+INTITULÉ : DAVID BRICKMAN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 13 janvier 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 1er février 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A‑1.

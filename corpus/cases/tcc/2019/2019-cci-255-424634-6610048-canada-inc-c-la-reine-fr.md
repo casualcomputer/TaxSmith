@@ -1,0 +1,353 @@
+---
+title: "6610048 Canada Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/424634/index.do"
+last_modified: "2019-11-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 255"
+citation2: ""
+neutral_citation: "2019 CCI 255"
+decision_date: "2019-11-15"
+language: "fr"
+item_id: "424634"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4276
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:07:13.770000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2191a3b830fe47130514f46a6f75d469c0e654d1c799b9f639a3c902b390408a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 6610048 Canada Inc. c. La Reine
+
+- Citation: 2019 CCI 255
+- Decision date: 2019-11-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4276, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6610048 Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-11-15
+Référence neutre
+2019 CCI 255
+Numéro de dossier
+2013-4357(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-4357(IT)G
+ENTRE :
+6610048 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 29, 30 et 31 octobre et le 1er novembre 2018, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l'appelante :
+Me Philippe-Alexandre Otis,
+Me Olivier Verdon
+Avocats de l'intimée :
+Me Anne Poirier, Me Simon Vincent
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en date du 18 juin 2012 en vertu de la Partie I de la Loi de l’impôt sur le revenu (la « Loi » ) concernant les années d’imposition se terminant le 31 octobre 2009 et le 31 octobre 2010 de l’appelante et à l’encontre de la cotisation établie en date du 8 août 2012 en vertu de la Partie III de la Loi à l’égard des dividendes payables le 19 octobre 2009 par l’appelante est rejeté avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Montréal, (Québec), ce 15e jour de novembre 2019.
+«Réal Favreau»
+Juge Favreau
+Référence : 2019 CCI 255
+Date : 20191115
+Dossier : 2013-4357(IT)G
+ENTRE :
+6610048 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel interjeté à l’encontre de deux nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Partie I de la Loi de l’impôt sur le revenu, L.R.C. (1985) c.1 (5ième Suppl.) (la « Loi » ), datées du 18 juin 2012 concernant les années d’imposition se terminant le 31 octobre 2009 et le 31 octobre 2010 de l’appelante et à l’encontre d’une cotisation établie par le ministre en vertu de la Partie III de la Loi datée du 8 août 2012 à l’égard des dividendes payables le 19 octobre 2009 par l’appelante.
+[2] En vertu des cotisations datées du 18 juin 2012 et du 8 août 2012, le ministre a effectué les redressements suivants suite à la détermination par le ministre que les ventes de terrains effectuées par l’appelante au cours de son année d’imposition 2009 constituaient un revenu d’entreprise et non un gain en capital comme l’a déclaré l’appelante :
+Les questions en litige
+[3] Il s’agit de déterminer si :
+a) Pour l’année d’imposition 2009, les ventes de terrains par l’appelante qui ont généré un revenu de 11 835 218 $ est imposable à titre de gain en capital ou de revenu d’entreprise?
+b) Le ministre était justifié de refuser les remboursements au titre de dividendes de 1 440 308 $ pour l’année d’imposition 2009 et de 79 015 $ pour l’année d’imposition 2010? et si
+c) Le ministre était justifié de cotiser l’appelante en vertu de la Partie III de la Loi?
+Les faits
+[4] L’appelante a été constituée en société le 10 août 2006 en vertu de la Loi canadienne sur les sociétés par actions et son exercice financier se termine le 31 octobre de chaque année.
+[5] L’appelante a déposé, le 14 décembre 2006, une déclaration initiale d’immatriculation auprès du Registraire des entreprises du Québec dans laquelle il est indiqué que ses deux principaux secteurs d’activités sont la gestion et le placement immobilier et que monsieur Laurent Labrecque est le seul actionnaire en plus d’être le seul administrateur et le seul officier de l’appelante.
+[6] Monsieur Laurent Labrecque avait en 2006 une bonne connaissance du secteur de la construction ayant des participations dans plusieurs sociétés dont la société 9177-6039 Québec Inc., antérieurement Les constructions Domicil Inc. (construction domiciliaire), la société 9193-5593 Québec Inc., antérieurement Corporation immobilière Ténor Inc. (achat et revente de biens immobiliers), la société 9177-6070 Québec Inc., antérieurement Les développements Domicil Inc. (développement immobilier), la société 9123-6042 Québec Inc. (compagnie de gestion), Ébénisterie i-Design Inc. et Armoires i-Design Inc..
+[7] Monsieur Labrecque est le conjoint de madame Ginette Lauzon qui est devenue actionnaire de l’appelante via la société 6796974 Canada Inc. dont elle est l’actionnaire unique.
+[8] Le partenaire d’affaire de monsieur Labrecque dans les sociétés 9177-6070 Québec Inc., antérieurement Les développements Domicil Inc., et 9193-5593 Québec Inc., antérieurement, Corporation immobilière Ténor Inc., était monsieur Éric Duchaine, via sa compagnie de gestion, Gestion Éric Duchaine Inc..
+[9] Monsieur Éric Duchaine est le conjoint de fait de madame Mariette Tremblay qui est devenue actionnaire de l’appelante via la société 67966982 Canada Inc. dont elle est l’actionnaire unique.
+Le protocole d’entente du 20 décembre 2006
+[10] Selon le protocole d’entente signé le 20 décembre 2006, mais dont la date d’entrée en vigueur est le 18 décembre 2006, la Ville de Mascouche a accordé à l’appelante une offre irrévocable d’achat jusqu’au 30 avril 2007 relativement à certains lots (parties des lots 356, 357, 358, 366, 367 et 368) situés à Mascouche et ayant une superficie de 1,966,510.11 pieds carrés pour la somme approximative de 3 933 020 $, soit 2.00 $ le pied carré, plus les taxes applicables. Le prix de vente était payable comme suit :
+- 393 302 $ à la signature de l’acte notarié; et
+- 3 540 000,22 $ dans les 60 mois de la date de l’acte notarié (le solde du prix de vente portant intérêt au taux de 5% l’an payable semestriellement le 1er du mois suivant le 6e mois de l’acte de vente).
+[11] Selon le premier alinéa du préambule du protocole, l’appelante est un promoteur immobilier qui a pour mission de construire des immeubles commerciaux et résidentiels de diverses typologies et dimensions, dont un nouveau projet sur l’emplacement désigné et situé dans le secteur connu comme étant une section du centre-ville de Mascouche.
+[12] Par ce protocole, la Ville de Mascouche s’est engagée à favoriser le remembrement et le développement de ces lots afin de permettre à l’appelante de réaliser son projet de développement.
+[13] La Ville de Mascouche s’est engagée notamment à modifier son plan et ses règlements d’urbanisme lorsqu’un plan global sera soumis par l’acquéreur afin de favoriser l’implantation d’un TOD (transportation oriented development) sur ces derniers, favorisant ainsi une mixité des usages d’affaires, de bureaux, de petits commerces ou d’un zonage résidentiel multifamilial afin de densifier les secteurs où existe un transport public.
+[14] La Ville de Mascouche s’est engagée avant le 31 décembre 2007 à réaliser la libre circulation sur les terrains visés par le protocole et à compléter les travaux de prolongement de l’avenue de l’Esplanade et la construction du viaduc au-dessus de l’autoroute 25.
+[15] À défaut de compléter son développement par la construction de bâtiments sur la propriété au plus tard le 30 décembre 2012 ou à la date à laquelle tous les terrains visés à l’annexe D auront été transférés à l’appelante et que le viaduc et ses accès seront ouverts au public, l’appelante s’est engagée à payer à la Ville de Mascouche une compensation annuelle fiscale dont le montant correspondra au produit de la taxe foncière en vigueur chaque année, multipliée par le montant de l’évaluation foncière fixée à cette fin à 20 millions de dollars.
+[16] Le signataire autorisé à signer le protocole pour le compte de l’appelante était monsieur Éric Duchaine et les deux représentants de l’appelante au comité de gestion de l’entente étaient monsieur Laurent Labrecque et Me Serge Boucher.
+[17] Le 5 novembre 2007, un addenda au protocole d’entente est intervenu entre l’appelante et la Ville de Mascouche reconduisant le protocole signé le 20 décembre 2006 et retranchant du protocole initial certaines parties de lots.
+Les acquisitions de terrains
+[18] L’appelante a fait l’acquisition de nombreux terrains situés à Mascouche. Les transactions sont résumées au tableau joint en annexe du présent jugement lequel tableau était joint à la réponse à l’avis d’appel modifiée.
+Les transactions sont ci-après brièvement décrites :
+Acquisition 1
+[19] Le 22 décembre 2006, l’appelante a fait l’acquisition auprès de la Ville de Mascouche d’une parcelle de terrain (Lot 749-3), ayant une superficie totale de 378,395 pieds carrés, en considération de la somme totale de 946 000 $, soit 2,50 $ le pied carré.
+[20] Cette parcelle n’était pas incluse au protocole signé le 20 décembre 2006.
+[21] De cette somme de 946 000 $, la somme de 94 600 $ a été payée par l’appelante, le solde de 851 400 $ était financé par la Ville de Mascouche au taux de 5% l’an et était payable le 22 décembre 2011.
+[22] Le 24 août 2009, l’appelante a vendu en faveur de la société 9186-4587 Québec Inc. cette parcelle, en considération de la somme totale de 1 450 000 $, soit 3,83 $ le pied carré, en acompte duquel le vendeur a reconnu avoir reçu la somme de 598 600 $, le solde de 851 400 $ était payable à la Ville de Mascouche aux termes de l’acte de vente du 22 décembre 2006.
+Acquisition 2
+[23] Le 21 décembre 2007, l’appelante a fait l’acquisition auprès de la Ville de Mascouche de plusieurs parcelles de terrain (parties des lots 356, 357, 358, 366, 367, 368), ayant une superficie totale de 2,418,514 pieds carrés, en considération de la somme totale de 5 861 224 $, soit 2,42 $ le pied carré.
+[24] De cette somme de 5 861 224 $, la somme de 510 000 $ a été payée par l’appelante au vendeur, la somme de 76 122 $ était payable dans les 30 jours de la vente et le solde de 5 275 102 $ était financé par la Ville de Mascouche au taux de 5% l’an et était payable dans les 60 mois.
+[25] Le 15 décembre 2008, l’appelante a vendu en faveur de la société 9201-5684 Québec Inc. certaines de ces parcelles (parties de lots 358, 366, 367, 368), ayant une superficie totale de 683,250 pieds carrés), soit 7,10 $ le pied carré, que le vendeur a reconnu avoir reçue et lequel a donné quittance.
+[26] Le 9 juillet 2009, l’appelante a vendu en faveur de la Ville de Mascouche une de ces parcelles (partie de lot 368), ayant une superficie totale de 5,457 pieds carrés, en considération de la somme totale de 16 914,28 $, soit 3,10 $ le pied carré, que le vendeur a reconnu avoir reçue et lequel a donné quittance.
+[27] Le 29 septembre 2009, l’appelante a vendu en faveur de la société 9214-0078 Québec Inc. une de ces parcelles (partie du lot 368), ayant une superficie totale de 297,342 pieds carrés, en considération de la somme totale de 2 096 270,55 $, soit 7,05 $ le pied carré, en acompte duquel le vendeur a reconnu avoir reçu la somme de 200 000 $, le solde de 1 896 270,55 $ portait intérêt au taux de 6% l’an et était payable le ou avant le 1er octobre 2012.
+[28] Le 29 septembre 2009, l’appelante a vendu en faveur de la société 9213-9393 Québec Inc. une de ces parcelles (lots 1877 et 1878), en considération de la somme totale de 9 481 102 $, que le vendeur a reconnu avoir reçue et lequel a donné quittance.
+Acquisition 3
+[29] Le 23 décembre 2008, l’appelante a fait l’acquisition auprès de la Ville de Mascouche des parcelles de terrain (parties des lots 356, 355-3, 355-6, 355-9), ayant une superficie totale de 480,067 pieds carrés, en considération de la somme de 1 745 790,16 $, soit 3,64 $ le pied carré.
+[30] De cette somme de 1 745 790,16 $, la somme de 174 570,02 $ a été payée par l’appelante au vendeur, le solde de 1 571 211,14 $ était financé par la Ville de Mascouche au taux de 5% l’an et était payable le ou avant le 23 décembre 2013.
+[31] Le 28 avril 2009, l’appelante a vendu en faveur de la société La Seigneurie du Chêne Inc. ces parcelles, en considération de la somme totale de 4 344 750,06 $, soit 9,05 $ le pied carré, que le vendeur a reconnu avoir reçue et lequel a donné quittance.
+Les témoignages
+Monsieur André Desbiens
+[32] Monsieur Desbiens est devenu actionnaire et administrateur de l’appelante et a agi comme président et secrétaire de cette dernière. Il a expliqué les circonstances qui ont fait qu’il soit devenu actionnaire de l’appelante. Il a dit avoir été mis au courant en mai ou avril 2006 du projet d’acquisition de quelques 3 millions de pieds carrés de terrains à Mascouche par Me Serge Boucher avec qui il travaillait alors à la Banque AAM, une banque européenne ayant son siège social à Bâle en Suisse et des places d’affaires au Luxembourg et en Malaisie. Le gouvernement du Québec avait annoncé en mars 2006 le projet de prolongement du réseau ferroviaire métropolitain jusqu’à Mascouche. Me Boucher, un avocat pratiquant le droit corporatif et le droit commercial, avait comme clients ou était en relations d’affaires avec des gens bien branchés auprès de la Ville de Mascouche et qui étaient très intéressés par le projet.
+[33] Par l’intervention de Me Boucher, monsieur Desbiens a pu rencontrer et discuter du projet avec monsieur Denys Laberge, monsieur Laurent Labrecque et sa conjointe, madame Ginette Lauzon, monsieur Éric Duchaine et sa conjointe de fait, madame Mariette Tremblay.
+[34] L’appelante a été constituée en société le 10 août 2006 par le cabinet Marchand, Melançon, Forget qui a aussi préparé les résolutions d’organisation. Selon le livre des procès-verbaux de l’appelante, les personnes suivantes sont devenues actionnaires de l’appelante le 10 août 2006 :
+André Desbiens
+12,5
+Actions de catégorie "A"
+6796974 Canada Inc.
+(Ginette Lauzon)
+25
+Actions de catégorie "A"
+Gestion D. Laberge Inc.
+25
+Actions de catégorie "A"
+6796982 Canada Inc. (Mariette Tremblay)
+25
+Actions de catégorie "A"
+Serge Boucher
+12.5
+Actions de catégorie "A"
+[35] Les actions de catégorie « A » de l’appelante comportent un droit de vote et sont participantes et sans valeur nominale. Elles ont été émises à un prix de 1,00 $ par action. Une somme totale de 100 $ a été portée au compte du capital versé des actions de catégorie « A ».
+[36] Toujours selon le livre des procès-verbaux de l’appelante, monsieur Desbiens est devenu, le 10 août 2006, l’administrateur unique de l’appelante et ce dernier a été nommé président et secrétaire de la société.
+[37] Monsieur Desbiens a déboursé 140 000 $ pour acquérir sa participation de 12,5% du capital-actions de l’appelante. Selon le témoin, ladite somme de 140,000 $ a été avancée en décembre 2007 et a été inscrite aux livres de la société comme une dette à long terme. Pour une participation de 25% au capital-actions de l’appelante, un investissement de 280 000 $ était requis. Monsieur Desbiens a expliqué qu’une mésentente est intervenue entre les actionnaires de l’appelante vers la fin de 2008 à cause des mises de fonds que devaient faire la conjointe de Laurent Labrecque et la conjointe de fait de Éric Duchaine. Ces dernières n’avaient pas l’argent nécessaire pour payer leur participation et certains actionnaires leur ont consenti des prêts à cette fin. Le conflit a été réglé par une entente hors cour en vertu de laquelle la participation de Me Boucher au capital-actions de l’appelante a fait l’objet d’un rachat par les autres actionnaires de l’appelante. Les modalités de l’entente hors cour n’ont pu être divulguées à l’audience parce qu’elle était assortie d’une entente de confidentialité. Suite à l’entente hors cour, la participation de monsieur Desbiens est passée de 12,5% à 14,27% et celle des autres actionnaires est passée de 25% à 28,57%.
+[38] Monsieur Desbiens a précisé que mesdames Ginette Lauzon et Mariette Tremblay n’étaient pas du tout impliquées dans la gestion des affaires de l’appelante. Il a de plus indiqué que tous les actionnaires de l’appelante n’avaient pas d’expérience en construction et que leur intention respective était de réaliser un placement à long terme. Selon le témoin, il n’a jamais été question de développer les terrains acquis et aucune démarche en ce sens n’a été effectuée par les actionnaires.
+[39] Monsieur Desbiens a également expliqué les circonstances entourant la vente des terrains. Il a dit avoir reçu un appel de monsieur Claude Duchesne lui demandant si les terrains acquis de la Ville de Mascouche étaient à vendre. Il lui aurait dit que les terrains n’étaient pas à vendre mais lors d’un dîner subséquent, monsieur Duchesne lui aurait fait une offre non sollicitée d’acheter les terrains à un prix de trois fois supérieur au prix payé. Une promesse d’achat irrévocable en date du 9 octobre 2008 a été signée par les parties. La promesse d’achat portait sur tous les terrains couverts par le protocole avec la Ville de Mascouche, sauf pour environ 350,000 pieds carrés. Dans un des attendus du préambule de cette offre, il est stipulé que cette offre remplace celle du 3 juillet 2008. Le témoin n’a pas fourni d’explications à ce sujet.
+[40] Concernant le terrain acquis lors de l’acquisition 1 et qui a été vendu à la société 9186-4587 Québec Inc. le 24 août 2009. Monsieur Desbiens a précisé que, lors d’une partie de golf avec monsieur Yvon Labonté de la Banque de Montréal, ce dernier l’aurait informé qu’il connaissait une personne qui était intéressée à acquérir ce terrain. Une offre d’achat a été présentée à 3,83 $ le pied carré laquelle a été acceptée sans négociation. Monsieur Desbiens a dit ne pas connaître monsieur Roberto Amato, un ex-membre des Rock Machine, qui a signé l’acte de vente pour le compte de la société 9186-4587 Québec Inc..
+[41] Concernant la vente du terrain à la société 9214-0078 Québec Inc. intervenue le 29 septembre 2009, monsieur Desbiens a précisé que cette transaction avait pour but de transférer la propriété de ce terrain à une société dans laquelle la conjointe de Laurent Labrecque et la conjointe de fait de Éric Duchaine ne seraient pas actionnaires. Les actionnaires de cette société sont messieurs André Desbiens, Denys Laberge, Laurent Labrecque et Éric Duchaine et chacun d’eux détient le même pourcentage de participation dans le capital-actions de cette société. Selon monsieur Desbiens, cette société détient toujours le terrain acquis dont la valeur serait maintenant de 8 275 000 $. Lors de la vente du terrain à la société 9214-0078 Québec Inc., cette dernière était représentée par madame Hélène Lavigne qui était alors la secrétaire personnelle de monsieur Desbiens.
+Monsieur Éric Duchaine
+[42] Monsieur Duchaine a expliqué que c’est lui qui avait les contacts avec la Ville de Mascouche et que c’est pour cette raison que c’est lui qui a signé le protocole d’entente avec la Ville de Mascouche pour le compte de l’appelante en décembre 2006. Pour ce service, la Corporation immobilière Ténor Inc., une société dont il était actionnaire avec Laurent Labrecque, a facturé à l’appelante des honoraires, frais de démarchage et commissions au montant de 118 233,81 $ après négociations avec monsieur Desbiens.
+[43] Monsieur Duchaine a toujours œuvré dans le domaine de la construction de maisons unifamiliales et bi-générationnelles de même que dans la construction d’unités de condominium en association avec monsieur François Barnabé (Le Groupe Habitation domicil) et avec monsieur Laurent Labrecque (Les développements Domicil Inc., Les développements immobiliers Domicil Inc. et Corporation immobilière Ténor Inc.).
+[44] Parallèlement à ses activités de constructeur et de promoteur immobilier, monsieur Duchaine a entrepris en 2005 avec ses partenaires d’affaires la construction d’une usine d’ébénisterie (armoires) de 23 000 pieds carrés qui fut terminée en 2007 au coût de 1.5 millions et vendue en mars 2009. La construction de cette usine et la dissociation avec monsieur François Barnabé survenue le 18 décembre 2006, après 5 à 6 mois de négociations, ont entraîné de sérieux problèmes de liquidités qui auraient empêché les deux autres ex-associés de participer à l’acquisition des terrains de la Ville de Mascouche.
+[45] Monsieur Duchaine a indiqué qu’il connaissait monsieur Denys Laberge depuis les années 2003-2004. Selon le témoin, monsieur Laberge avait vendu ses usines de fabrication de meubles (Bermex) et investissait son capital dans l’acquisition de terres ayant un potentiel de développement à long terme. Gestion Denys Laberge détenait d’ailleurs depuis 1997 des terres à Terrebonne en copropriété avec Corporation immobilière Ténor Inc..
+Monsieur Laurent Labrecque
+[46] Monsieur Labrecque est un comptable par formation. Après avoir exercé sa profession pendant plus de huit ans dans des bureaux de comptables en Abitibi, il est devenu contrôleur d’une compagnie de construction de Répentigny. En 1990, il s’est associé à messieurs Éric Duchaine et François Barnabé, également un comptable agréé, pour fonder Les Habitations Domicil opérant à Répentigny dans le domaine de la construction domiciliaire. De 1993 à 2000, les trois associés ont construit des unités de condominium à Répentigny sous les noms Le Groupe Corasol et Les Constructions Domicil Inc. De 1998 à 2000, les trois associés ont acheté des terrains à Terrebonne dont Le Boisé de La Pinière. Les permis de lotissement de ces terrains, autres que Le Boisé de La Pinière, ont été obtenus en 2003 et les infrastructures ont été mises place de 2003 à 2006. Les permis de lotissement des terrains du Boisé de La Pinière ont été obtenu en décembre 2005 mais le développement a été retardé en 2008-2009.
+[47] Lors de son témoignage, monsieur Labrecque a reconnu avoir signé, en tant que président de l’appelante, le contrat d’acquisition 1 avec la Ville de Mascouche en date du 22 décembre 2006, lequel ne faisait pas parti du protocole d’entente avec cette dernière. Il s’agissait d’une faveur demandée par la Ville de Mascouche qui avait besoin d’argent à la veille d’une élection municipale. Monsieur Labrecque a également signé l’addenda no. 1 au protocole d’entente avec la Ville de Mascouche, lequel est daté du 5 novembre 2007 de même que le contrat d’acquisition 2 avec la Ville de Mascouche daté du 21 décembre 2007.
+[48] Monsieur Labrecque a également expliqué que, le 19 avril 2004, Développements Immobiliers Domicil Inc. a vendu à Gestion D. Laberge Inc. une portion indivise de 50% des terrains que cette dernière possédait à Terrebonne, communément appelés les « terres d’en haut » au prix de 929 983 $. Le 9 juillet 2004, Développements immobiliers Domicil Inc. et Gestion D. Laberge ont acquis d’une tierce partie un autre terrain situé à Terrebonne, communément appelé la « terre d’en bas », au prix de 453 600$. Le terrain a été acquis par les deux acquéreurs, en indivision et dans une proportion égale, même si le prix d’achat a été entièrement assumé par Gestion D. Laberge Inc. Comme monsieur Laberge était alors âgé de 62 ans, ce dernier voulait récupérer le fruit de son investissement à court terme, soit dans un délai de cinq ans. Pour se faire racheter après cinq ans, monsieur Laberge a exercé ses droits en vertu des conventions régissant ses relations avec Les Développements immobiliers Domicil Inc. ce qui a donné lieu à une décision de la Cour Supérieure datée du 6 janvier 2011 (2011 QCCS 16) et à une décision de la Cour d’appel du Québec datée du 5 avril 2013 (2013 QCCA 586).
+Me Serge Boucher
+[49] Au début de son témoignage, Me Serge Boucher a été relevé de son secret professionnel. Il a déclaré être un ami personnel de monsieur Denys Laberge et avoir antérieurement réalisé des investissements avec ce dernier. Il a affirmé avoir révisé les contrats que l’appelante a conclus sans être spécifique quant au protocole d’entente. Le livre des procès-verbaux de l’appelante a été tenu par un parajuriste de son cabinet et les déclarations annuelles auprès du registraire des entreprises du Québec ont été produites par son cabinet.
+[50] Me Boucher a indiqué qu’il a investi environ 200 000 $ pour acquérir 12.5% du capital-actions de l’appelante. Il a également expliqué qu’il a agi comme arbitre pour le compte de messieurs Duchaine et Labrecque dans le conflit qui les ont opposé à monsieur François Barnabé concernant l’usine d’ébénisterie. Une mésentente entre lui et messieurs Duchaine et Labrecque est survenue suite à l’arbitrage de ce litige commercial, en partie à cause des honoraires réclamés. Le conflit a fait l’objet d’un règlement hors cour en juin 2009 aux termes duquel il a rétrocédé ses actions en contrepartie du remboursement des avances qu’il avait consenties et d’un dividende dont le montant n’a pas été précisé.
+Ginette Lauzon
+[51] Madame Lauzon n’est pas une femme d’affaire. Elle a cessé ses études après le CEGEP. Elle a marié monsieur Claude Clermont qui a exploité un magasin de meubles à Répentigny jusqu’en 1994. Elle s’est séparée de monsieur Clermont en 2006 et elle a marié monsieur Labrecque en juillet 2007. Elle travaillait alors à la réception de l’usine d’armoires.
+[52] Elle a expliqué que son conjoint et Éric Duchaine avaient effectués les démarches auprès de la Ville de Mascouche pour acheter les terrains visés par le protocole d’entente mais qu’ils n’ont pu réaliser le projet eux-mêmes parce qu’ils se dissociaient de monsieur Barnabé et étaient près de déclarer faillite.
+[53] Elle a déclaré être devenue actionnaire de l’appelante en août 2006 via sa compagnie de gestion, 6796-6974 Québec Inc., avec une mise de fonds initiale de 200 000 $. Les mises de fonds des actionnaires se faisaient graduellement selon les besoins de l’appelante. Sa participation de 25% est passée à 27,4% après le départ de Me Boucher. Son intention était d’effectuer un placement à long terme qu’elle aurait aimé laisser à ses trois enfants.
+[54] Madame Lauzon effectuait la tenue de livre de l’appelante et transmettait les informations financières au comptable externe de la société.
+[55] Suite à la vente des terrains par l’appelante, Madame Lauzon a reçu via sa compagnie de gestion 1 $ million après impôts et a droit de recevoir sa part du montant des billets à payer aux actionnaires de l’appelante totalisant 1 955 547 $.
+Mariette Tremblay
+[56] Madame Tremblay est la conjointe de fait de monsieur Éric Duchaine depuis 30 ans. Elle a complété un Baccalauréat en sciences politiques à l’université du Québec à Montréal. Jusqu’en 1999, elle a élevé ses deux enfants à la maison tout en travaillant de façon sporadique pour son conjoint en faisant visiter des maisons modèles. De 1999 à 2006, elle a travaillé pour Le Groupe Habitation Domicil et pour Les développements Domicil Inc. à Répentigny et à Terrebonne dans les projets de son conjoint. En 2006, elle aide monsieur Denys Laberge à terminer sa maison dans le Boisé de La Pinière en 2007 et elle travaille dans une librairie à temps partiel.
+[57] Madame Tremblay a expliqué qu’elle n’avait pas l’argent nécessaire pour investir dans le projet d’acquisition des terrains de la Ville de Mascouche et que c’est monsieur Denys Laberge qui lui a prêté la mise de fonds initiale de 200 000 $ pour acquérir sa participation de 25% du capital-actions de l’appelante. Selon elle, l’entente avec monsieur Laberge prévoyait le remboursement du prêt lors de la vente des terrains. Elle ne se rappelait pas des montants exacts qui ont été empruntés auprès de monsieur Laberge, ni si des intérêts ont été payés ou non. Elle n’a produit aucun document relativement à ces emprunts et aux sommes remboursées. Elle a indiqué que les remboursements à Gestion D. Laberge étaient effectués par des transferts bancaires à la succursale de la banque CIBC de Terrebonne.
+[58] Madame Tremblay a affirmé avoir constitué en 2006 sa société de gestion 6796982 Canada Inc., pour acquérir sa participation dans l’appelante suite à un mandat à son neveu, Me Louis-René Hébert.
+[59] Madame Tremblay a affirmé ne pas avoir agi comme prête-nom pour son conjoint de fait et ne pas avoir obtenu de cautionnement de sa part pour le prêt consenti par monsieur Laberge.
+[60] Madame Tremblay ne savait pas le montant de profit qu’elle a réalisé suite à la vente des terrains par l’appelante et elle a affirmé l’avoir investi en 2010 dans une nouvelle compagnie de construction de son conjoint de fait.
+Claude Duchesne
+[61] Monsieur Claude Duchesne, un ingénieur civil de formation, a toujours opéré dans le domaine de la construction en tant qu’entrepreneur et développeur de terrains. C’est lui qui a approché monsieur Desbiens pour lui faire part qu’il désirait lui présenter une offre d’achat pour les terrains de la Ville de Mascouche. Lors d’une première rencontre, monsieur Desbiens lui a indiqué que les terrains n’étaient pas à vendre mais qu’il pouvait toujours présenter une offre formelle s’il le désirait.
+[62] Monsieur Duchesne, agissant pour le compte de la société 9201-5684 Québec Inc., a présenté une première offre d’achat le 3 juillet 2008 laquelle a été remplacée par celle datée du 9 octobre 2008. Monsieur Duchesne a expliqué que la date de l’offre a été repoussée à cause des retards des travaux d’infrastructures réalisés par la Ville de Mascouche en avant des terrains. Monsieur Duchesne voulait acheter tous les terrains acquis de la Ville de Mascouche au fur et à mesure que la Ville de Mascouche les avait remembrés. L’offre d’achat a été acceptée par l’appelante le 8 octobre 2008. Le prix d’achat convenu était de 7,00 $ brut le pied carré pour une somme globale de 4 814 957,28 $, lequel prix devait être ajusté en fonction de la superficie réelle en pieds carrés vendus.
+[63] Lors de son témoignage, monsieur Duchesne a affirmé ne pas avoir vu l’appel d’offre de la Ville de Mascouche de 2006 pour la vente des terrains, ni le protocole d’entente entre la Ville de Mascouche et l’appelante, ni le projet d’implantation d’un TOD (Transit-Oriented Development) pour le projet de la Gare de Mascouche que l’appelante s’était engagée à soumettre à la Ville de Mascouche. Le projet d’implantation d’un TOD a été soumis à la Ville de Mascouche et à l’appelante lors d’une rencontre tenue le 5 février 2008.
+[64] Monsieur Duchesne a expliqué qu’il a acheté les terrains de l’appelante par trois actes notariés respectivement datés du 15 décembre 2008 (9201-5684 Québec Inc.), du 29 septembre 2009 (9213-9393 Québec Inc.) et du 18 avril 2009 (La Seigneurie Duchesne Inc.).
+[65] Monsieur Duchesne a vendu à Habitations Trigone dans l’année qui a suivi leur acquisition les terrains acquis de l’appelante au prix de 11,00 $ le pied carré, sauf le terrain acquis par La Seigneurie Duchesne Inc. Ce dernier terrain est un terrain commercial enclavé qui est situé dans une zone humide et qui appartient toujours à La Seigneurie Duchesne Inc. Ce terrain fait présentement l’objet d’un moratoire et sa valeur actuelle est d’environ 20,00 $ le pied carré.
+Position des parties
+Pour l’appelante
+[66] Pour l’appelante, messieurs Labrecque et Duchaine, les deux promoteurs et développeurs immobiliers, ne pouvaient procéder à l’acquisition des terrains de la Ville de Mascouche parce qu’ils étaient en difficultés financières à cette époque. Les actionnaires de l’appelante n’avaient pas l’expérience nécessaire, ni la capacité financière, sauf peut-être monsieur Laberge, pour développer les terrains acquis de la Ville de Mascouche. Leur participation dans l’appelante constituait pour eux un investissement à long terme. Le rôle de messieurs Duchaine et Labrecque était de s’assurer que les conditions d’acquisition des terrains auprès de la Ville de Mascouche ne changent pas. C’est pour cette raison que monsieur Labrecque a signé le protocole d’entente et le contrat d’achat du 21 décembre 2007 avec la Ville de Mascouche.
+[67] Pour l’appelante, les contrats d’achat de terrains datés du 21 décembre 2007 et du 23 décembre 2008 représentent une seule et même transaction résultant du protocole d’entente. Le contrat d’achat de terrains daté du 22 décembre 2006 ne faisait pas partie de protocole d’entente et a été effectué à la demande de la Ville de Mascouche.
+[68] L’appelante n’a pas demandé de modifications au zonage des terrains acquis de la Ville de Mascouche et n’a pas apporté d’améliorations aux terrains. La Ville de Mascouche a, par contre, investi la somme de 6 $ millions de dollars pour améliorer le système d’aqueduc sur le territoire. Ces améliorations n’étaient pas prévues au protocole d’entente et ont fait en sorte d’augmenter la valeur des terrains de l’appelante.
+[69] L’appelante a vendu ses terrains principalement à monsieur Duchesne suite à une offre non-sollicitée au moyen de trois actes de vente notariés qui concordaient avec l’assemblage des terrains par la Ville de Mascouche et l’installation des infrastructures.
+[70] L’appelante a passé en revue les critères énoncés par le juge Rouleau dans l’arrêt Happy Valley Farms Ltd. v. Minister of National Revenue, 1986 CarswellNat 375 pour déterminer si un gain réalisé lors d’une vente d’actif est de la nature d’un revenu ou d’un gain en capital :
+- période de détention : les périodes de détention doivent être calculées par rapport àla date du protocole d’entente, soit à compter du 20 décembre 2006;
+- fréquence et nombre de transactions : ici une seule transaction liée à la signature du protocole d’entente;
+- améliorations apportées aux terrains : aucune par l’appelante; l’augmentation de valeur des terrains est due à la conjoncture économique prévalant sur la Rive Nord et à l’amélioration du système d’aqueduc par la Ville de Mascouche;
+- circonstances de la vente : offre non sollicitée;
+- intention lors de l’achat : placement à long terme sans intention secondaire de revendre à la première occasion.
+[71] L’appelante invoque le fait que son actionnariat n’était pas composé de promoteurs immobiliers, que l’appelante n’a jamais voulu réaliser elle-même le projet TOD pour la Gare de Mascouche et que les terrains ont été vendus à un compétiteur direct à un prix inférieur à leur juste valeur marchande ce qui lui a permis de réaliser un gros profit dans un court lapse de temps.
+[72] L’appelante a rappelé qu’elle n’avait pas d’obligations envers la Ville de Mascouche de développer les terrains et qu’elle n’avait aucun plan, ni projet en ce sens. Elle a réalisé un investissement à long terme spéculatif mais passif sans que des améliorations ne soient apportées et sans efforts de revente.
+[73] Selon l’appelante, les hypothèses de fait retenues par le ministre pour justifier les cotisations ont été démolies de sorte que le fardeau de preuve de démontrer que le revenu tiré de la vente des terrains constitue du revenu d’entreprise appartient au ministre.
+Pour l’intimée
+Le fardeau de preuve
+[74] L’intimée soutient que la Cour doit appliquer en l’espèce le fardeau de preuve énoncé par le juge Webb dans l’arrêt Samardi c. Canada, 2017 CAF 131, à l’effet que le contribuable a le fardeau de prouver, selon la norme de la prépondérance des probabilités, les fait allégués par le contribuable dans son avis d’appel et, sous réserve de quelques exceptions, la fausseté des faits présumés par le ministre dans le cadre de l’établissement des nouvelle cotisations du contribuable (voir le par. 31).
+[75] Alternativement, l’intimée soutient que, si la Cour applique la jurisprudence découlant de la décision minoritaire de la juge L’Heureux-Dubé dans l’arrêt Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, l’appelante n’a pas présenté une preuve prima facie permettant à la Cour de conclure que le revenu généré par la vente des terrains devrait être qualifié de gain en capital. À cette fin, l’analyse de l’entièreté de la preuve produite par les deux parties est pertinente aux fins de déterminer si une preuve prima facie a été présentée. En l’espèce, les témoignages présentés par l’appelante ont été contredits par une preuve circonstancielle et documentaire étoffée démontrant que l’appelante a acquis les terrains en vue de les revendre à profits.
+[76] L’intention de l’appelante au moment de l’acquisition des terrains doit être établie en considérant l’intention des personnes physiques qui en assument la gestion et la direction. Dans le cas d’une société comptant peu d’actionnaires, comme dans le cas de l’appelante, l’intention se manifeste par l’intention de ses actionnaires. Les déclarations de l’appelante au moment d’acquérir les terrains ne doivent pas être le seul fondement de l’analyse et ne sont pas déterminantes en soi. L’intention du contribuable doit être examinée à la lumière de l’ensemble des circonstances.
+[77] L’intimée soutient que l’appelante n’a pas été en mesure de présenter les véritables actionnaires et dirigeants à la Cour et n’a donc pas été en mesure de rencontrer son fardeau de preuve qui était de démontrer son intention au moment de l’acquisition de chacun des terrains.
+[78] Au soutien de ses allégations, l’intimée affirme que la preuve soumise par l’appelante en vue d’établir son actionnariat a été confectionnée après la création des sociétés de gestion de Mariette Tremblay et de Ginette Lauzon en 2009, alors que l’ensemble des témoins présentés par l’appelante et la preuve soumise par celle-ci suggèrent que ces deux sociétés étaient actionnaires de l’appelante dès août 2006.
+[79] Les allégations de l’intimée sont fondées sur les faits suivants :
+(a) le livre des minutes de l’appelante indique que l’appelante a été créée le 10 août 2006 et que les actionnaires de celle-ci étaient Gestion D. Laberge, Me Serge Boucher, André Desbiens, 6796974 Canada Inc. et 6796982 Canada Inc. à cette date;
+(b) selon le registre des entreprises du Québec,
+i) l’appelante a été immatriculée le 14 décembre 2006;
+ii) le 1er février 2008, Laurent Labrecque est toujours déclaré comme actionnaire et administrateur de l’appelante;
+iii) le 28 juillet 2008, Laurent Labrecque est remplacé par André Desbiens à titre d’administrateur de l’appelante;
+iv) en date du 3 décembre 2008, Laurent Labrecque est remplacé par le cabinet Marchand, Melançon, Forget, es qualité de fidéicommissaire à titre d’actionnaire de l’appelante;
+v) le 31 mars 2009, les sociétés 6796974 Canada Inc. et 6796982 Canada Inc. sont immatriculées par Ginette Lauzon et Mariette Tremblay, conjointes respectives de Laurent Labrecque et Éric Duchaine;
+(c) à son livre des minutes et à ses états financiers, l’appelante présente les sociétés 6796974 Canada Inc. et 6796982 Canada Inc. comme actionnaires depuis le 10 août 2006 alors que ces sociétés n’ont été immatriculées que le 31 mars 2009;
+(d) le livre des minutes de l’appelante montre que le 27 avril 2009, plusieurs résolutions ont été signées par André Desbiens, soit une résolution par laquelle il accepte son mandat d’administrateur de même que la première et la seconde réunion annuelles;
+Projet comportant un risque commercial
+[80] L’ensemble des circonstances entourant une transaction doit être pris en compte pour déterminer si une transaction représente un projet comportant un risque ou une affaire de caractère commercial.
+[81] Puisque l’unique objectif de l’appelante était de détenir les terrains acquis de la Ville de Mascouche dans le but de les revendre à profit, il est clair pour l’intimée que les terrains font partie d’une opération d’achat-vente spéculative visant à produire un profit, que les terrains étaient des biens en inventaire et que, par conséquent les terrains ont été vendus dans le cadre d’un projet comportant un risque de caractère commercial.
+Intention secondaires de revente
+[82] L’appelante a toujours eu, lors de l’acquisition des terrains, au moins une intention secondaire de les revendre à profit.
+I. Les dispositions de la Loi applicables
+[83] Les dispositions de la Loi qui sont applicables aux fins du présent litige sont les suivantes :
+Revenu pour l’année d’imposition
+3 Pour déterminer le revenu d’un contribuable pour une année d’imposition, pour l’application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l’année (autre qu’un gain en capital imposable résultant de la disposition d’un bien) dont la source se situe au Canada ou à l’étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien;
+b) le calcul de l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii):
+(i) le total des montants suivants :
+(A) ses gains en capital imposables pour l’année tirés de la disposition de biens, autres que des biens meubles déterminés,
+(B) son gain net imposable pour l’année tiré de la disposition de biens meubles déterminés,
+(ii) l’excédent éventuel de ses pertes en capital déductibles pour l’année, résultant de la disposition de biens autres que des biens meubles déterminés sur les pertes déductibles au titre d’un placement d’entreprise pour l’année, subies par le contribuable;
+Revenu
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+Perte
+(2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+Exclusion des gains et pertes en capital
+(3) Dans la présente loi, le revenu tiré d’un bien exclut le gain en capital réalisé à la disposition de ce bien, et la perte résultant d’un bien exclut la perte en capital résultant de la disposition de ce bien.
+Évaluation des biens figurant à l’inventaire
+10(1) Pour le calcul du revenu d’un contribuable pour une année d’imposition tiré d’une entreprise qui n’est pas un projet comportant un risque ou une affaire de caractère commercial, les biens figurant à l’inventaire sont évalués á la fin de l’année soit à leur coût d’acquisition pour le contribuable ou, si elle est inférieure, à leur juste valeur marchande à la fin de l’année, soit selon les modalités réglementaires.
+Projet comportant un risque
+(1.01) Pour le calcul du revenu d’un contribuable tiré d’une entreprise qui est un projet comportant un risque ou une affaire de caractère commercial, les biens figurant à l’inventaire sont évalués à leur coût d’acquisition pour le contribuable.
+Sens de gain en capital imposable et de perte en capital déductible
+38 Pour l’application de la présente loi :
+a) sous réserve des alinéas a.1) à a.3), le gain en capital imposable d’un contribuable pour une année d’imposition, tiré de la disposition d’un bien, est égal à la moitié du gain en capital qu’il a réalisé pour l’année à la disposition du bien;
+Sens de gain en capital et de perte en capital
+39(1) Pour l’application de la présente loi :
+a) un gain en capital d’un contribuable, tiré, pour une année d’imposition, de la disposition d’un bien quelconque, est le gain, déterminé conformément à la présente sous-section (jusqu’à concurrence du montant de ce gain qui ne serait pas, compte non tenu du passage « autre qu’un gain en capital imposable résultant de la disposition d’un bien », à l’alinéa 3a), et de l’alinéa 3b), inclus dans le calcul de son revenu pour l’année ou pour toute autre année d’imposition), que ce contribuable a tiré, pour l’année, de la disposition d’un bien lui appartenant, à l’exception :
+…
+Définitions
+129(4) Les définitions qui suivent s’appliquent au présent article.
+…
+revenu Le revenu d’une société pour une année d’imposition tiré d’une source qui est un bien :
+a) comprend le revenu tiré d’une entreprise de placement déterminée qu’elle exploite au Canada, sauf celui tiré d’une source à l’étranger;
+b) ne comprend pas le revenu tiré d’un bien qui, selon le cas
+(i) se rapporte directement ou accessoirement à une entreprise qu’elle exploite activement;
+(ii) est utilisé ou détenu principalement pour tirer un revenu d’une entreprise qu’elle exploite activement. (income ou loss)
+PARTIE III
+Impôt supplémentaire sur les excédents résultant d’un choix
+Impôt sur les excédents résultant d’un choix
+184(2) La société qui fait un choix en vertu paragraphe 83(2), 130.1(4) ou 131(1) relativement au montant total d’un dividende payable par elle sur des actions d’une catégorie de son capital-actions (appelé « dividende initial » au présent article) doit payer, au moment du choix, un impôt en vertu de la présente partie égal aux 3/5 de l’excédent du montant total du dividende initial sur la partie de celui-ci qui est réputée, par ce paragraphe, être un dividende en capital ou un dividende sur les gains en capital.
+Définitions
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+…
+entreprise Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l’application de l’alinéa 18(2)c), de l’article 54.2, du paragraphe 95(1) et de l’alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l’exclusion toutefois d’une charge ou d’un emploi. (business)
+Analyse
+[84] Concernant les faits, la quasi-totalité des hypothèses de fait sur lesquelles le ministre s’est basé pour établir les cotisations ont été admises par l’appelante. Les faits niés ou ignorés aux procédures se sont avérés être exacts suite aux témoignages de témoins. Les seuls points de divergence entre les parties concernent (a) l’actionnariat de l’appelante au moment de l’acquisition des terrains et (b) l’impact du protocole d’entente avec la Ville de Mascouche quant au nombre de transactions et aux périodes de détention des terrains par l’appelante.
+[85] En résumé, la situation dans le cas qui nous occupe est la suivante :
+(a) l’appelante a admis que les terrains n’avaient pas été acquis dans le but de produire un revenu de bien;
+(b) l’appelante n’avait pas l’intention de procéder elle-même à l’implantation d’un projet TOD sur les terrains;
+(c) l’appelante a reconnu qu’elle n’avait pas les moyens financiers, l’expérience, ni la volonté de développer les terrains dans le but d’en tirer un revenu et qu’elle n’avait jamais eu l’intention de les louer;
+(d) l’appelante savait, qu’au moment où elle a fait l’acquisition des terrains, elle devrait les vendre rapidement à un tiers pour qu’il les développe conformément au protocole d’entente avec la Ville de Mascouche; et
+(e) l’entente visant la vente de certains terrains est intervenue avec M. Claude Duchesne le 3 juillet 2008,soit avant même que l’appelante n’acquière lesdits terrains en décembre 2008. Un second avant-contrat entre l’appelante et M. Claude Duchesne a même été signé le 9 octobre 2008.
+[86] Compte tenu des faits mis en preuve, je ne peux que conclure, qu’au moment de l’acquisition des terrains, l’appelante n’a jamais eu l’occasion d’en tirer un revenu de bien, que les terrains en question étaient, par conséquent, des biens en inventaire au cours de leurs périodes de détention respectives et que la vente desdits terrains a généré un revenu d’entreprise.
+[87] Les facteurs suggérés par la jurisprudence et les bulletins d’interprétation permettent également de conclure que le gain réalisé par l’appelante suite à la vente des terrains est un revenu d’entreprise.
+[88] Dans l’arrêt Canada Safeway Ltd. c. La Reine, 2008 CAF 24, la Cour d’appel fédérale a repris les facteurs énoncés au bulletin d’interprétation IT-218R afin de déterminer si une opération relative à un bien immeuble constitue un projet comportant un risque de caractère commercial. Ces facteurs sont les suivants :
+a) l'intention du contribuable en ce qui concerne le bien immeuble au moment de l'achat;
+b) la vraisemblance de l'intention du contribuable;
+c) l'emplacement géographique du bien immeuble acquis et son zonage;
+d) la mesure dans laquelle l'intention du contribuable est réalisée;
+e) la preuve que l'intention du contribuable a changé après l'achat du bien immeuble;
+f) la nature de l'entreprise, de la profession, du métier ou de l'occupation du contribuable et des associés;
+g) la mesure dans laquelle l'argent emprunté a servi à financer l'acquisition du bien immeuble et les modalités arrêtées pour le financement s'il y a lieu;
+h) la période pendant laquelle le bien immeuble a été détenu par le contribuable;
+i) le fait que la possession du bien immeuble soit partagée avec des personnes autres que le contribuable;
+j) la nature de la profession des autres personnes mentionnées en i) ci-dessus, de même que leurs intentions avouées et leur ligne de conduite;
+k) les facteurs qui ont motivé la vente du bien immeuble;
+l) la preuve que le contribuable et/ou les associés se livrent sur une grande échelle au commerce de l'immeuble.
+[89] L’application de ces facteurs au présent litige permet de tirer les conclusions suivantes :
+(a) l’intention de l’appelante à la lumière des faits mis en preuve - il m’apparaît clair que la motivation de l’appelante, au moment de l’acquisition des terrains, était de les revendre à profit et qu’il s’agissait de sa seule et unique motivation. L’appelante n’avait clairement pas l’intention de réaliser le projet TOD comme le désirait la Ville de Mascouche et l’appelante n’a posé aucun geste en ce sens si ce n’est que de commander le rapport, tel qu’exigé par la Ville de Mascouche;
+(b) La vraisemblance de l’intention de l’appelante – l’appelante a manifestement tenté de dissimuler l’identité de ses véritables actionnaires afin de cacher son intention véritable au moment de l’acquisition des terrains. Par conséquent, l’appelante n’a pas rencontré son fardeau qui était de démontrer son intention au moment de l’acquisition des terrains. Il y a lieu de rappeler ici les faits pertinents à cet égard :
+- messieurs Laurent Labrecque et Éric Duchaine ont représenté l’appelante jusqu’au moins le 27 décembre 2007;
+- à son livre des minutes et à ses états financiers, l’appelante a présenté les sociétés 6796974 Canada Inc. et 6796982 Canada Inc. comme étant actionnaires de l’appelante depuis le 10 août 2006 alors que ces sociétés n’ont été immatriculées que le 31 mars 2009;
+- selon la déclaration annuelle signée le 28 mai 2009 mais déposée le 23 juillet 2009, les sociétés Gestion D. Laberge, 6796974 Canada Inc. et 6796982 Canada Inc. apparaissent pour la première fois au profil de l’appelante auprès du Régistraire des entreprises du Québec; et
+- le 30 novembre 2009, l’appelante a produit sa déclaration de revenu pour l’exercice financier se terminant le 31 octobre 2008 et y a présenté ses actionnaires comme étant Gestion D. Laberge, Me Serge Boucher, 9136-6260 Québec Inc., 6796974 Canada Inc. et 6796982 Canada Inc., alors que les deux dernières sociétés n’existaient pas au 31 octobre 2008;
+(c) l’emplacement géographique des terrains et son zonage – les terrains acquis par l’appelante étaient des terrains vacants situés à proximité de la future gare de train dont le projet avait été annoncé par le gouvernement du Québec en mars 2006. La Ville de Mascouche désirait développer ce secteur par l’implantation d’un TOD favorisant une mixité des usages affaires, commercial léger et multifamilial. Selon le protocole d’entente que l’appelante a conclue avec la Ville de Mascouche, le Ville de Mascouche s’est engagée à modifier son plan et ses règlements d’urbanisme pour favoriser l’implantation d’un TOD et à réaliser avant le 31 décembre 2007 la libre circulation sur les terrains et à compléter les travaux de prolongement de l’Avenue de l’Esplanade et la construction d’un viaduc au-dessus de l’autoroute 25. Dans ces conditions, l’emplacement des terrains les rendait objectivement sujets à une hausse de valeur importante et rapide;
+(d) la mesure dans laquelle l’intention de l’appelante s’est réalisée - conformément à son intention l’appelante a revendu les terrains à profit à la première opportunité et a réalisé un gain de 11 835 218 $ entre le 15 décembre 2008 et le 29 septembre 2009;
+(e) la preuve que l’intention de l’appelante a changé après l’acquisition des terrains – la preuve révèle que l’appelante a maintenu une intention constante de revendre les terrains à profit tout au long de leur détention;
+(f) la nature de l’entreprise, de la profession, du métier ou de l’occupation de l’appelante et de ses associées (actionnaires) – la nature des activités de l’appelante consistait à acquérir des terrains en vue de les revendre. Les dirigeants et actionnaires de l’appelante, à l’exception de mesdames Ginette Lauzon et Mariette Tremblay qui ont plutôt agit comme prête-noms, sont des gens d’affaires ayant une expérience collective importante et complémentaire dans le domaine de l’immobilier, étant spécialisés dans le développement et la construction immobilière, en droit commercial, en finances, en fiscalité et en comptabilité. D’ailleurs, la preuve est à l’effet que messieurs Laberge, Labrecque et Duchaine ont en 2004 et 2005 investis ensembles dans des projets de développement immobilier situés dans la municipalité de Terrebonne;
+(g) la mesure dans laquelle l’argent emprunté par l’appelante a servi à financer l’acquisition des terrains et les modalités arrêtées pour le financement – l’appelante a fait l’acquisition des terrains de la Ville de Mascouche avec des conditions financières extrêmement avantageuses, soit avec une mise de fonds initiale de seulement 10% du prix d’achat des terrains et le solde financé par la Ville de Mascouche au taux de seulement 5% l’an payable dans cinq ans. Selon les états financiers de l’appelante au 31 octobre 2008 avec les chiffres comparatifs au 31 octobre 2007, l’appelante était sous-capitalisée n’ayant qu’une somme de 100 $ portée à compte du capital-actions émis et payé. De plus, les sommes investies par les actionnaires pour acquérir leurs actions de l’appelante ont été comptabilisées comme de la dette à long terme ne comportant pas d’intérêts. Au 31 octobre 2008, une somme de 139 987 $ était due à un administrateur, monsieur Desbiens, en l’occurrence, une somme de 798 494 $ était due aux actionnaires et une somme de 181 234 $ (118 234 $ au 31 octobre 2007) était due à Corporation immobilière Ténor Inc., une société contrôlée par messieurs Labrecque et Duchaine. La faible capitalisation de l’appelante confirme également qu’elle n’avait pas les ressources financières nécessaires pour procéder au développement des terrains ou pour y apporter des améliorations. Les pertes d’exploitation de seulement 14 056 $ pour l’exercice financier terminé le 31 octobre 2007 et de 59 056 $ pour l’exercice financier terminé le 31 octobre 2008 démontrent un faible niveau d’activités de l’appelante au cours de ces deux périodes;
+(h) la période pendant laquelle les terrains ont été détenus par l’appelante – l’appelante a effectué trois acquisitions par actes notariés de terrains de la Ville de Mascouche et a procédé à six transactions de ventes par actes notariés entre le 22 décembre 2006 et le 29 septembre 2009. Les périodes de détention des terrains ont varié de quatre mois à 32 mois pour l’ensemble des terrains acquis et de quatre mois à 21 mois pour les terrains acquis en vertu du protocole d’entente avec la Ville de Mascouche. Même si on considère que les acquisitions des terrains couverts par le protocole ne constituent qu’une seule et même transaction comme le prétend l’appelante, le nombre de transactions de vente desdits terrains reste le même, soit six, et ne change pas les périodes de détention desdits terrains par l’appelante car l’appelante ne peut être considérée comme étant propriétaire des terrains avant que la Ville de Mascouche les ait elle-même acquis de tiers.
+(i) le fait que la possession des terrains soit partagée avec des personnes autres que l’appelante – ce facteur n’a pas d’application dans le présent litige parce que l’appelante était la seule et unique propriétaire des terrains avant qu’ils soient vendus;
+(j) la nature de la profession des autres personnes mentionnées en (i) ci-dessus, de même que leurs intentions avouées et leur ligne de conduite – tout comme pour le facteur du paragraphe (i) ci-dessus, ce facteur n’a pas d’application dans le présent litige;
+(k) les facteurs qui ont motivé la vente des terrains – la première offre non sollicitée pour la très grande majorité des terrains a été rapidement acceptée; ceci démontre clairement que l’intention de l’appelante et ses actionnaires était de revendre à profit les terrains le plus rapidement possible. La valeur des terrains s’est grandement accrue par les améliorations effectuées par le Ville de Mascouche et l’appelante et ses actionnaires ont voulu profiter de l’occasion de vendre à la première opportunité. À mon avis, l’appelante et ses actionnaires n’ont jamais voulu effectuer un placement à long terme en achetant les terrains de la Ville de Mascouche. Mesdames Tremblay et Lauzon se sont complètement désengagées lors de la vente de la parcelle de terrains restante à la société 9214-0078 Québec Inc. le 29 septembre 2009 et monsieur Denys Laberge avait une vision à court terme pour ses placements;
+(l) La preuve que l’appelante et ses actionnaires se livrent sur une grande échelle au commerce des terrains – messieurs Labrecque et Duchaine ont toujours agit comme promoteurs immobiliers en étant actionnaires et administrateurs de plusieurs entreprises œuvrant dans l’achat, le développement et la revente de biens immobiliers. Monsieur Laberge a lui aussi investi dans plusieurs projets immobiliers en compagnie de messieurs Labrecque et Duchaine en 2004, alors qu’il était âgé de 62 ans. Il s’agissait d’un investissement à court terme, tel qu’il a été démontré à l’audience.
+Intention secondaire
+[90] Même si l’appelante et ses actionnaires avaient réussi à établir que leur intention commune principale était d’effectuer un investissement à long terme, le gain réalisé suite aux ventes de terrains serait néanmoins imposable à titre de revenu d’entreprise puisque l’appelante et ses actionnaires ont toujours eu, à tout le moins l’intention secondaire de revendre les terrains à profit si, pour quelque raison que ce soit, leur projet d’investissement ne se matérialisait pas.
+[91] D’ailleurs, l’appelante n’a jamais nié avoir envisagé, dès le début, la possibilité de revendre les terrains acquis.
+[92] Il y a lieu de rappeler ici que l’appelante est décrite au protocole d’entente avec la Ville de Mascouche comme un promoteur immobilier et qu’elle s’y est engagée à construire des immeubles résidentiels et commerciaux sur les terrains. L’appelante n’a jamais eu l’intention de réaliser elle-même le projet de développement TOD et son intention était plutôt de revendre les terrains à un tiers qui implanterait ledit projet de développement, conformément aux engagements pris par l’appelante dans le cadre du protocole d’entente. Dans le cadre des transactions de vente des terrains, l’appelante a exigé que les tiers respectent les engagements qu’elle a pris à l’égard de la Ville de Mascouche dans le cadre du protocole d’entente et de l’addendum, y compris l’engagement de développer les terrains. Au moment où il a acquis les terrains, monsieur Claude Duchesne savait que les terrains devaient être développés.
+[93] Enfin, il y a lieu de souligner que l’acquisition des terrains par l’appelante comporte un risque commercial important, soit l’expropriation et le remembrement des lots par le Ville de Mascouche. Lors de son témoignage, monsieur Claude Duchaine a affirmé qu’il ne voulait pas prendre de risque à ce niveau parce que, selon son expérience, le risque était trop important.
+[94] Pour toutes ces raisons, l’appel à l’encontre des nouvelles cotisations en vertu de la Partie I de la Loi datées du 18 juin 2012 concernant les années d’imposition 2009 et 2010 de l’appelante et à l’encontre de la cotisation du 8 août 2012 en vertu de la Partie III de la Loi est rejeté avec dépens en faveur de l’intimée.
+Signé à Montréal, (Québec), ce 15e jour de novembre 2019.
+«Réal Favreau»
+Juge Favreau
+RÉFÉRENCE :
+2019 CCI 255
+Nº DU DOSSIER DE LA COUR :
+2013-4357(IT)G
+INTITULÉ DE LA CAUSE :
+6610048 CANADA INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 29, 30 et 31 octobre et le 1er novembre 2018
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 15 novembre 2019
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Philippe-Alexandre Otis,
+Me Olivier Verdon
+Avocats de l'intimée :
+Me Anne Poirier, Me Simon Vincent
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Philippe-Alexandre Otis, Me Olivier Verdon
+Cabinet :
+Starnino Mostovac senc
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

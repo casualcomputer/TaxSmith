@@ -1,0 +1,158 @@
+Title: King v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521568/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-12-521568-king-v-the-king.md
+Document type: case_law
+Last modified: 2026-01-14
+
+# King v. The King
+
+- Citation: 2026 TCC 12
+- Decision date: 2026-01-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5631, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+King v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-01-14
+Neutral citation
+2026 TCC 12
+File numbers
+2022-1224(IT)APP
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-1224(IT)APP
+BETWEEN:
+JEREMY KING,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on November 14, 2025, at Toronto, Ontario
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Eric Myles
+ORDER
+BACKGROUND:
+The Applicant has brought a motion seeking both that the case management judge recuses himself from this matter and also seeking funding in pre litigation costs.
+ORDER:
+For the reasons set out, the Applicant’s motion is denied. The parties shall be responsible for their own costs.
+Signed this 14th day of January 2026.
+“R. MacPhee”
+MacPhee J.
+Citation: 2026 TCC 12
+Date: 20260114
+Docket: 2022-1224(IT)APP
+BETWEEN:
+JEREMY KING,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+MacPhee J.
+[1] The Applicant seeks two orders in this motion. First, that I recuse myself as case management judge, and a different judge, who has never worked for the Department of Justice, be appointed. Secondly, an order that the Crown provide Mr. King with funds to finance the litigation.
+I. Facts [2] On December 7, 2021, Mr. King (also referred to as the “Applicant”) filed a Notice of Application with the Tax Court of Canada (TCC), seeking an extension of time to appeal to his 2001-2021 tax assessments[1].
+[3] If he is successful in extending his time limits, the Applicant is seeking a refund of all taxes he has ever paid to the Government of Canada.
+[4] Mr. King has identified various legal issues that he intends to rely upon in his Application. Some of these are clearly outside the jurisdiction of the Tax Court. Other potential arguments identified include a Constitutional question, expert evidence to explain treaties and government duties, historical materials, treaty analyses, and constitutional experts.
+[5] On September 10, 2025, the Chief Justice of the Tax Court made an Order appointing me as case management judge. Almost immediately, Mr. King filed his motion requesting that I recuse myself.
+[6] To facilitate Mr. King presenting his evidence in a timely and cost-efficient manner, Mr. King provided viva voce testimony at the motion. He was also cross‑examined.
+[7] Mr. King works as crane operator. In previous years he has earned a healthy income. He states that in recent years he has not worked as much. He describes his work opportunities as “feast or famine”.
+[8] Other than his testimony at the motion, the Applicant brought no evidence concerning his income amounts. He testified that he is presently living off borrowed money and credit cards. He feels he has been the victim of government retribution, in response to his various litigation matters. He testified that he was recently denied unemployment insurance payments and had bank accounts frozen by CRA.
+[9] Mr. King also claimed that private counsel quoted between $250,000 and $1,000,000 for services. Mr. King’s argument, in part, is that without advanced costs, he is unable to obtain counsel, access expert testimony, or meaningfully argue s.35 of the Constitution and various related treaty issues.
+[10] In his written materials Mr. King states that his case will not only affect him, but also (i) Mi’kmaq individuals awaiting recognition; (ii) families excluded from Qalipu enrolment; (iii) the band he currently belongs to; (iv) other Indigenous people across Canada facing Crown gatekeeping.[2]
+II. Analysis: Recusal motion Test Overview
+[11] Mr. King does not want a Judge who is a former department of Justice lawyer case managing his matter. In his materials, Mr. King has named specific judges that he believes are more appropriate for this role.
+[12] At the outset, I note that pursuant to s. 14(2) of the Tax Court of Canada Act, the appointment of a case management judge is solely a determination to be made by the Chief Justice of the Tax Court. What Mr. King is seeking to do, in naming judges he believes are appropriate, is often referred to as judge shopping. This Court will not allow that to occur, both because it appears to be unfair to one of the parties before the Court, and it tarnishes the reputation of the justice system.
+[13] Very little evidence has been put forth by Mr. King in support of his argument that there is a reasonable apprehension of bias should I continue as case manager. The only potential conflict he identified is that I once worked for the Department of Justice.
+[14] Some guidance to assist judges concerning recusals has been provided by the Canadian Judicial Counsel.
+[15] I have reviewed Section 5.C.7 of the Ethical Principles for Judges. Given that I have long since passed a “cooling off” period concerning my previous employment (being appointed 7.5 years ago), and furthermore the fact that my former Justice office never dealt with Mr. King (in coming to this conclusion, I rely upon Mr. King’s materials) I am not aware of any objective ethical concerns.
+[16] The Supreme Court of Canada (SCC) has established the following test for determining whether a reasonable apprehension of bias exists:
+Would an informed person, viewing the matter realistically and practically, and having thought the matter through, think it is more likely than not that the decision-maker, whether unconsciously or consciously, would not decide the matter fairly?[3]
+[17] Once again, other than the fact that I spent a portion of my career with the Department of Justice, there is no other support for Mr. King’s claim of judicial bias provided.
+[18] Judges are expected and required to approach each case with impartiality and an open mind. The test for a reasonable apprehension of bias requires a real likelihood or probability of bias.
+[19] In Wewaykum Indian Band[4], the SCC considered a very similar issue. Specifically, whether Justice Binnie’s written reasons, unanimously adopted by the SCC, should be set aside. This request was based on the premise that his previous role as a federal Associate Deputy Minister of Justice (who participated in the early stages of the Campbell River’s claim in 1985 and 1986) gave rise to a reasonable apprehension of bias by properly informed and right-thinking members of the public.
+[20] In rejecting the order sought[5],the SCC emphasized the “well-settled, foundational principle of impartiality of courts of justice.”[6] The SCC held that there is a presumption of judicial impartiality that anyone alleging partiality must overcome.
+[21] Judicial impartiality and neutrality do not mean that a judge must have no prior conceptions, opinions, or sensibilities. Rather, they require that the judge’s identity and experiences not close his or her mind to the evidence and issues. There is, in other words, a crucial difference between an open mind and empty one.[7]
+[22] The inquiry into whether a decision-maker's conduct creates a reasonable apprehension of bias is inherently contextual and fact-specific[8]. A party alleging bias must provide more than speculation. Concrete evidence is a necessity.
+[23] In support of this motion, Mr. King has put forth no concrete evidence to support his allegation of judicial bias. The request is based purely on conjecture. I therefore reject his motion that I recuse myself.
+Advanced Costs
+[24] At the outset of the motion, it was my understanding that Mr. King was seeking $2 million in advanced costs. It is now my understanding that he is seeking an order that the Crown finance his litigation. The amounts necessary to do so will be determined at a later date.
+[25] There are three preconditions that must be met for an advanced costs order:
+“The party seeking interim costs genuinely cannot afford to pay for the litigation, and no other realistic option exists for bringing the issues to trial — in short, the litigation would be unable to proceed if the order were not made”;
+“The claim to be adjudicated is prima facie meritorious; that is, the claim is at least of sufficient merit that it is contrary to the interests of justice for the opportunity to pursue the case to be forfeited just because the litigant lacks financial means”; and,
+“The issues raised transcend the individual interests of the particular litigant, are of public importance, and have not been resolved in previous cases.”[9]
+[26] However, even where all three preconditions are met, a litigant is not automatically entitled to receive advanced costs. The court still holds discretion, and it should only grant advanced costs as a last resort, in “rare and exceptional” cases where the need for them is clearly established. This high threshold requires the court to conclude that a case “is sufficiently special that it would be contrary to the interests of justice to deny the advance costs application”. In exercising its discretion, “the court must remain sensitive to any concerns that did not arise in its analysis of the test.”[10]
+[27] With respect to the first component of the test, a genuine inability to afford the litigation, a motion for advanced costs may only be entertained if the Applicant shows that they have already explored all other possible funding options. An advanced costs award is not a substitute or supplement for things like “legal aid and other programs designed to assist various groups in taking legal action” so a litigant must demonstrate “an attempt, albeit unsuccessful, has been made to obtain private funding through fundraising campaigns, loan applications, contingency fee agreements and any other available options.”[11] The SCC has found that, “a [party] should only be required to carry the burden of ensuring an opponent’s access to justice in the most exceptional of cases.”[12]
+[28] Very limited evidence has been put forth by the Applicant to support his request. Mr. King provided a brief description concerning his own income amounts (he was also cross-examined on this point). Furthermore, he did not provide any evidence, other than answers in cross examination, as to whether other interested parties, as identified in paragraph 10 above, were approached to consider paying a portion of the costs of litigation.
+[29] In cross examination he claimed that he had made efforts to seek the support of interested third parties to help finance his litigation. This evidence was not convincing. No corroborating material, such as emails or other written correspondence was provided in support.
+[30] Mr. King also called almost no evidence as to his proposed costs, other than at one point providing a $2 million estimate. Mr. King has not met his burden concerning the first component of this test.
+[31] With respect to the second branch of the test, it is insufficient to find merely that a claim would not be summarily dismissed. Rather “an applicant must prove that the interests of justice would not be served if a lack of resources made it necessary to abort the litigation.” Exceptional merit is not required, merely that the case has “sufficient merit to satisfy the court that proceeding with it is in the interests of justice.”[13]
+[32] For reasons that affect both the second and third components of the test, I do not find that this matter is “prima facie meritorious”. A very similar Application has previously been considered by the Federal Court of Appeal (the “FCA”).
+[33] In Horseman it was found that procedural provisions (such as limitation periods) found in the Excise Tax Act apply and must be obeyed even where the Constitutional rights and treaty rights of Indigenous peoples are asserted[14]:
+3. In dismissing the appellant's application, the Tax Court found (at para. 37) that the appellant had not filed a valid objection to the assessment, a statutory prerequisite for an appeal to the Court, and was now out of time. Further, the Tax Court held (at para. 24) that the provisions of the Act concerning objections and appeals apply even where a person intends to raise arguments based on the constitutional rights of Indigenous peoples. In this regard, the Tax Court emphasized (at para. 23) that the appellant was making "a private claim [...], seeking monetary relief in respect of his personal tax situation." The appellant appeals to this Court.
+4. In our view, the appeal must fail. In private, personal claims such as this, procedural and jurisdictional provisions apply and must be obeyed even where the constitutional rights and treaty rights of Indigenous peoples are asserted: Wewaykum Indian Band v. Canada, 2002 SCC 79, [2002] 4 S.C.R. 245; Canada (Attorney General) v. Lameman, 2008 SCC 14[2008] 1 S.C.R. 372 at para. 13; Manitoba Métis Federation Inc. v. Canada (Attorney General), 2013 SCC 14[2013] 1 S.C.R. 623 at para. 134. This case law is a subset of a larger body of case law requiring that those asserting personal, private claims founded upon constitutional rights must still comply with statutory limitation periods and other procedural and jurisdictional requirements: see, e.g., R. v. Mills, [1986] 1 S.C.R. 863 (S.C.C.) at page 953; Ravndahl v. Saskatchewan, 2009 SCC 7, [2009] 1 S.C.R. 181 ; St-Onge c. R., 2001 FCA 308, 288 N.R. 3; Newman v. R., 2016 FCA 213, 406 D.L.R. (4th) 602 and the many cases cited therein.
+5. The appellant notes that the exemption from taxation contained in subsection 87(1) of the Indian Act, R.S.C. 1985, c. I-5 opens with the words "[n]otwithstanding any other Act of Parliament...". He submits that this means that the procedural and jurisdictional requirements in the Excise Tax Act do not apply.
+6. We disagree. The opening words of section 87 prevent other Acts of Parliament imposing taxes contrary to the substantive exemption granted by section 87. They do not displace procedural and jurisdictional requirements such as where, when and how a proceeding is to be brought. Were it otherwise, what would stop a person from going directly to the Supreme Court of Canada at any time, perhaps a decade or more later, to claim the section 87 exemption at first instance?
+7. The Tax Court was correct in concluding that the application for an extension of time to file a notice of appeal must be dismissed. The Tax Court has jurisdiction over such an application only where the requirements of the Excise Tax Act, above, ss. 301-307 are met, including the requirement that a valid notice of objection be filed: Tax Court of Canada Act, R.S.C. 1985, c. T-2, s. 12. One was not filed here.
+[34] Such a finding, applied to almost identical procedural provisions in the Income Tax Act, would be fatal to Mr. King’s Application to extend time.
+[35] With respect to the third branch of the test, concerning whether the issues are of public importance, the issues must both transcend the interests of the litigating parties and have not been resolved in previous cases. As explained by the Supreme Court of Canada, “a litigant whose case, however compelling it may be, is of interest only to the litigant will be denied an advance costs award. It does not mean, however, that every case of interest to the public will satisfy the test.”[15]
+[36] I find that third component of the test is not met. As noted, similar issues have been considered by the FCA in Horseman, wherein the Applicant’s arguments were rejected.
+[37] I therefore reject Mr. King’s motion for advanced costs. Both parties shall be responsible for their own costs on this motion.
+Signed this 14th day of January 2026.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2026 TCC 12
+COURT FILE NO.:
+2022-1224(IT)APP
+STYLE OF CAUSE:
+JEREMY KING AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 14, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice Ronald MacPhee
+DATE OF ORDER:
+January 14, 2026
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] My understanding of the evidence is that he was not statute barred, at the time of the motion, from filing a Notice of Appeal for 2021.
+[2] Mr. King’s Memorandum of New Authority filed November 11, 2025, at par. 18.
+[3] Yukon Francophone School Board, Education Area No. 23 v Yukon Territory (Attorney General), 2015 SCC 25 at paras 20-21).
+[4] Wewaykum Indian Band v Canada (2003 SCC 45) (CanLII)
+[5] Reasons later echoed in A.B. v. C.D. and E.F. (2019 BCSC 1057)
+[6] Wewaykum Indian Band, supra at para. 57
+[7] Yukon, supra at para. 33.
+[8] Ibid at para. 26
+[9] British Columbia (Minister of Forests) v. Okanagan Indian Band, 2003 SCC 71 at paras. 40-41.
+[10] British Columbia (Minister of Forests) v. Okanagan Indian Band, 2003 SCC 71 at paras. 1, 41. Little Sisters Book and Art Emporium v. Canada (Commissioner of Customs and Revenue), 2007 SCC 2 at paras. 36-39, 72. R. v. Caron, 2011 SCC 5 at para. 39.
+[11] Little Sisters Book and Art Emporium v. Canada (Commissioner of Customs and Revenue), 2007 SCC 2 at para. 40.
+[12] Walker v. Ritchie, 2006 SCC 45 at para. 38
+[13] Little Sisters Book and Art Emporium v. Canada (Commissioner of Customs and Revenue), 2007 SCC 2 at paras. 5, 51.
+[14] Horseman v. R, 2018 FCA 119 at paras 3-7.
+[15] R. v. Caron, 2011 SCC 5 at paras. 6, 44.

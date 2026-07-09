@@ -1,0 +1,236 @@
+Title: Pan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29686/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-147-29686-pan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-03-15
+
+# Pan v. The Queen
+
+- Citation: 2010 TCC 147
+- Decision date: 2010-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6222, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-15
+Neutral citation
+2010 TCC 147
+File numbers
+2008-510(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2008-510(IT)I, 2008-2004(IT)I
+2008-2011(IT)I, 2008-2278(IT)I
+2008-2470(IT)I, 2008-4060(IT)I
+2008-4066(IT)I, 2008-4067(IT)I
+2008-4068(IT)I, 2008-4069(IT)I
+and 2008-4070(IT)I,
+BETWEEN:
+MING PAN, RAFFAELA PROFITI,
+ANDREA TODD, AROON YUSUF, ABDELNASIR
+BASHIR, INBAL GAFNI, ERIC GREENWALD,
+JENNIFER SCHNARR, JEFFREY KWEE,
+RICHA MITTAL and NICHOLAS PLASKOS,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence on
+December 2, 2009, at Toronto, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+Counsel for the Appellants:
+Steven Barrett and Emma Phillips
+Counsel for the Respondent:
+Ammit Ummat
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2006 taxation year are allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellants did not receive a benefit by virtue of not being charged tuition by McMaster University for the post-graduate medical residency program in 2006.
+The Appellants are entitled to one set of costs.
+The Registry is directed to reimburse the following Appellants the filing fee in the amount of $100: Ming Pan, Raffaela Profiti, Andrea Todd, Aroon Yusuf and Abdelnasir Bashir. No filing fee was paid by the remainder of the Appellants.
+Signed at Ottawa, Canada, this 15th day of March, 2010.
+“B.Paris”
+Paris J.
+Citation: 2010 TCC 147
+Date: 20100315
+Dockets: 2008-510(IT)I, 2008-2004(IT)I
+2008-2011(IT)I, 2008-2278(IT)I
+2008-2470(IT)I, 2008-4060(IT)I
+2008-4066(IT)I, 2008-4067(IT)I
+2008-4068(IT)I, 2008-4069(IT)I
+and 2008-4070(IT)I
+BETWEEN:
+MING PAN, RAFFAELA PROFITI,
+ANDREA TODD, AROON YUSUF, ABDELNASIR
+BASHIR, INBAL GAFNI, ERIC GREENWALD,
+JENNIFER SCHNARR, JEFFREY KWEE,
+RICHA MITTAL and NICHOLAS PLASKOS,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The issue in these appeals is whether the Appellants are entitled to education and post-secondary textbook tax credits for their 2006 taxation year. This will turn on whether they were enrolled in a “qualifying educational program” which does not include any program in respect of which the student receives any “allowance, benefit, grant or reimbursement for expenses in respect of the program” from a person with whom the student is dealing at arm’s length.[1]
+[2] All of the Appellants were enrolled as full-time post-graduate medical residents at McMaster University in 2006. Each of them claimed the educational credit and post-secondary textbook credit for that year. The Minister of National Revenue (the “Minister”) refused the Appellants’ claims on the basis that the medical resident program at McMaster was not a “qualifying educational program”. The Minister assumed that McMaster paid the Appellants’ tuition for the program.[2]
+[3] At the hearing, evidence presented by the Appellants showed that McMaster did not charge residents who were Canadian citizens or landed immigrants (“domestic residents”) any tuition fees for the program. Since all of the Appellants were domestic residents, they did not pay any tuition to McMaster, and McMaster did not pay any tuition on their behalf. The Respondent conceded these points.
+[4] The Respondent revised its position, however, to argue that the instruction received by the Appellants in the program had a value and that by being given that instruction for no charge they received a benefit in respect of the program.
+[5] The Appellants maintain that they did not receive a benefit from McMaster in respect of the medical residency program and that, therefore, the Minister erred in refusing them the credits.
+Facts
+[6] The Appellants presented an affidavit sworn by Rhonda Trowell, the Director of Health Policy at the Professional Association of Interns and Residents of Ontario (“PAIRO”). PAIRO is the bargaining agent that represents all medical residents in Ontario. The Respondent did not object to the production of the affidavit and did not take issue with any of the statements made in it.
+[7] The following facts are taken from Ms. Trowell’s affidavit.
+[8] Six Ontario universities offer post-graduate medical education: the University of Toronto, Queen’s University, the University of Western Ontario, the University of Ottawa, McMaster University, and the Northern Ontario School of Medicine. Each university is affiliated with a number of teaching hospitals where residents are employed to engage in clinical training and to provide clinical services to members of the public.[3]
+[9] Residents are both employees and students: they are physicians employed by the hospitals and they are post-graduate medical trainees registered in approved university programs leading to licensing or certification.[4]
+[10] Medical residents in Ontario are categorized into three different pools, depending on a number of factors, including the residents’ funding source, immigration status, and where they received their medical degree.[5]
+[11] Pool A residents received their medical degrees in Canada, are citizens or permanent residents of Canada and are funded chiefly by the Ministry of Health. The vast majority of residents in Ontario are in Pool A. All of the Appellants are in Pool A.[6]
+[12] Pool B residents are citizens or permanent residents of Canada who received their medical degrees outside of Canada or with assistance from the Department of National Defence. Pool B residents are funded by the Ministry of Health.[7]
+[13] Pool A and Pool B residents (i.e. domestic residents) are not charged tuition by any of the six universities. They all pay a registration fee to cover the cost of post-graduate office administration. In 2006, the registration fee was $325. No domestic residents were reimbursed by their university for the registration fees.[8]
+[14] Pool C residents (i.e. foreign residents) received their medical degree outside Canada and are not Canadian citizens or permanent residents. They are funded entirely by a sponsoring foreign government. The residency positions they fill are outside the complement of domestic residents being trained for independent practice in Canada, and the foreign residents are expected to return to their country of origin upon completion of their residency. The six Ontario universities charged the foreign funding sponsors tuition for the foreign residents. In 2006, McMaster charged tuition of $23,150 for foreign residents.[9]
+[15] Foreign residents constitute a special subset of residents who are not funded by any Canadian source and whose entire costs, including training, salary and benefits are paid for by a foreign sponsoring government. The tuition amounts that foreign government sponsors pay in order to have their medical school graduates obtain residency training in Canada is determined entirely separately and independently from any determination made as to the tuition, if any, to be charged to domestic residents.[10]
+[16] Ms. Trowell also related the history of tuition fees for medical residents in Ontario.
+[17] In July 1998, government policy in Ontario that had previously prohibited universities from charging domestic residents tuition was changed to allow universities to do so. PAIRO opposed the change and opposed moves by the universities to introduce tuition fees for domestic residents. By the spring of 1999, after much debate, each of the universities had decided not to begin charging tuition. At the University of Toronto, a Task Force established to study the question strongly recommended that tuition fees not be implemented.[11]
+[18] Ms. Trowell also referred to the differential in tuition fees charged to domestic and foreign students in many programs both at the under-graduate and post-graduate level at Canadian universities, and to the differential in tuition fees charged to in province and out of province students in Quebec. As an example of the differential fees, she stated that the average undergraduate arts and science tuition for full-time domestic students at McMaster in 2006 was $4,319 while foreign students were charged $12,948.[12]
+Relevant Legislative Provisions
+[19] The definition of qualifying educational program is found in subsection 118.6(1):
+118.6 (1) For the purposes of sections 63 and 64 and this subdivision,
+“qualifying educational program” means a program of not less than three consecutive weeks duration that provides that each student taking the program spend not less than ten hours per week on courses or work in the program and, in respect of a program at an institution described in the definition “designated educational institution” (other than an institution described in subparagraph (a)(ii) of that definition), that is a program at a post-secondary school level but, in relation to any particular student, does not include a program if the student receives, from a person with whom the student is dealing at arm’s length, any allowance, benefit, grant or reimbursement for expenses in respect of the program other than
+(a) an amount received by the student as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the student,
+(b) a benefit, if any, received by the student because of a loan made to the student in accordance with the requirements of the Canada Student Loans Act or An Act respecting financial assistance for education expenses, R.S.Q., c. A-13.3, or because of financial assistance given to the student in accordance with the requirements of the Canada Student Financial Assistance Act, or
+(c) an amount that is received by the student in the year under a program referred to in subparagraph 56(1)(r)(ii) or (iii), a program established under the authority of the Department of Human Resources and Skills Development Act or a prescribed program;
+[20] The education credit is provided for in subsection 118.6(2) and the post-secondary textbook credit is provided for in subsection 118.6(2.1):
+118.6(2) There may be deducted in computing an individual’s tax payable under this Part for a taxation year the amount determined by the formula
+A × B
+Where
+A is the appropriate percentage for the year; and
+B is the total of the products obtained when
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full-time student at a designated educational institution, and
+(b) $120 is multiplied by the number of months in the year (other than months described in paragraph (a)), each of which is a month during which the individual is enrolled at a designated educational institution in a specified educational program that provides that each student in the program spend not less than 12 hours in the month on courses in the program,
+if the enrolment is proven by filing with the Minister a certificate in prescribed form issued by the designated educational institution and containing prescribed information and, in respect of a designated educational institution described in subparagraph (a)(ii) of the definition “designated educational institution” in subsection (1), the individual has attained the age of 16 years before the end of the year and is enrolled in the program to obtain skills for, or improve the individual’s skills in, an occupation.
+118.6(2.1) If an amount may be deducted under subsection (2) in computing the individual’s tax payable for a taxation year, there may be deducted in computing the individual’s tax payable under this Part for the year the amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year; and
+B is the total of the products obtained when
+(a) $65 is multiplied by the number of months referred to in paragraph (a) of the description of B in subsection (2), and
+(b) $20 is multiplied by the number of months referred to in paragraph (b) of that description.
+Position of the parties
+Respondent
+[21] The Respondent argued that the Appellants received a benefit in the form of free education from McMaster, and therefore that the program was excluded from the definition of “qualifying educational program”. He said that there was a cost involved in providing the instruction to the residents that was paid by the university which gave rise to a benefit to the residents.
+[22] Counsel submitted that the Court should look to the Supreme Court of Canada decision in The Queen v. Savage,[13] for guidance in interpreting the word “benefit”. In Savage, the question was whether a $300.00 prize received by the taxpayer from her employer for passing certain examinations was taxable as a benefit received from her employment. The Court in that case, held that the meaning of “benefit of any kind” was “clearly quite broad” Counsel said that the term “benefit” in the definition of “qualifying educational program” should similarly be given a broad meaning, and should include free education.
+[23] Counsel cited the following entry in Canada Tax Words, Phrases and Rules[14] for “benefits of any kind whatever”:
+The Supreme Court of Canada in Savage stated that the term “benefits of any kind whatever” is clearly quite broad. Nevertheless, a benefit can be discerned by examining its impact on the employee’s economic position.
+He maintained that not having to pay tuition had a “strong, positive and calculable impact on the Appellants’ position.” Furthermore, the fact that foreign residents were charged tuition while domestic students were not was indicative that the latter group had received a benefit from McMaster.
+[24] Counsel also referred to the CRA administrative policy concerning benefits in the context of an educational program which is set out in IT Bulletin 515-R2. Courses for which no tuition is charged are dealt with in paragraph 16 of the Bulletin:
+16. Some post-secondary school level programs are available without payment of any tuition fees. As described above, receipt of a benefit frequently disqualified a student from being entitled to an education tax credit in connection with a program. However, “free tuition” is not considered to be a benefit if the program is available to the public at large at no cost.
+Since the post-graduate medical residency program at McMaster was not available to the public at large because admission was limited to those having already obtained a medical degree and since the foreign residents in the program were charged tuition, the free tuition for the domestic residents should be considered a benefit.
+[25] In concluding, counsel cited two dictionary definitions of the word “benefit:
+Benefit. 1. Advantage; privilege - the benefit of owning a car. 2. Profit or gain, esp., the consideration that moves to the promise ‑ a benefit received from the sale. – Also termed legal benefit; legal value.[15]
+Benefit. 1. a favourable helpful factor or circumstance; advantage, profit; 2. allowance of money to which a person is entitled from a pension plan, government support program, etc. (unemployment insurance benefits) 3. an advantage other than salary associated with a job, e.g. dental coverage, life insurance, etc. 4. a public performance, sporting event, etc. held in order to raise money for a particular player, charity, etc.[16]
+[26] Counsel said that the Appellants received an advantage or privilege by attending the residency program at McMaster and that this was a favourable circumstance, and a “benefit” from McMaster within the ordinary meaning of the word.
+Appellants
+[27] The Appellants’ counsel submitted that it could not possibly have been Parliament’s intention in drafting the definition of “qualifying educational program” to exclude any university program for which a student pays less than the actual cost of the program to the university. If that were the intent of the provision, he said that no student attending university in Canada would be eligible to claim the education or textbook credit. Counsel argued that the Respondent’s interpretation of the word “benefit” in this case would result in an absurdity, and that Parliament should be presumed not to act in an absurd way.
+[28] He suggested that, when read in context, the word “benefit” refers to an identifiable and quantifiable payment that is received by the student. All of the items in the phrase “allowance, benefit, grant or reimbursement of expenses” in the definition of “qualifying educational program” deal with types of payments or benefits received by an individual, rather than an indirect benefit received by all students at the institution.
+[29] He also pointed to the tuition fee differential at many Canadian universities for students who are not citizens of Canada or landed immigrants, or who are from out of province. According to the Respondent’s arguments, the students who were charged the lower tuition in these situations would not be eligible for the education or textbook credits.
+[30] Counsel also submitted that the cost of the residents’ education could not be considered to be born by tuition fees alone, and that, on the facts of this case, it was not clear what the cost of the Appellants’ education at McMaster was. The residents were students in the program but also had unpaid duties teaching medical students and more junior residents. The University of Toronto Task Force on Tuition Fees for Residents and Other Matters concluded that a resident (referred to as “trainees”):
+provides services of great value to society, teaches other students and trainees, participates in informal education under a traditional clinical apprenticeship model and is simultaneously a part-time student receiving a formal and defined educational curriculum that is delivered by dedicated University teachers. There is no easy analogy between postgraduate clinical trainees and any other students in the University system.
+Analysis
+[31] Before beginning my analysis, I think it is appropriate to comment on the last minute changes to the Respondent’s position in these appeals. At the hearing, the Respondent’s counsel acknowledged that McMaster did not pay tuition on the Appellants’ behalf and argued instead that they received “free tuition” from McMaster. This new position was raised for the first time in the Respondent’s arguments at the hearing, after the Appellants’ counsel had presented his arguments based on his understanding that the Respondent’s position (as set out in the Replies) was that McMaster had paid tuition for the Appellants. Counsel for the Appellants was caught off guard by the change, but he did not oppose the Respondent’s right to make this argument, nor did he seek any adjournment to prepare his response. It is understandable that the Appellants wished to have the matter dealt with as expeditiously as possible.
+[32] Still, I find it very regrettable that the Respondent was so slow in appreciating that McMaster did not pay any tuition fees for or on behalf of the Appellants. This fact was communicated in letters written to the Appeals Division of the CRA in October 2008 by the Program Administrator of Post-Graduate Education at McMaster. Those letters were also attached to each of the Notices of Appeal, but even then, the Respondent maintained that McMaster had paid fees for the Appellants’ tuition. The Respondent’s position was set out in the Replies as follows:
+He submits in respect of the post-secondary education programme that as McMaster University paid the fees for the tuition of the Appellant, throughout the 2006 taxation year, with whom it was dealing at arm’s length, the Appellant received a benefit for expenses in respect of the programme. Therefore, the post-secondary education programme is not a “qualifying education programme” within the meaning of subsection 118.6(1) of the Act.
+In fact, this position was maintained until, as I have said, the Respondent’s counsel began his arguments.
+[33] I turn now to the issue to be decided: whether the Appellants received a benefit from McMaster in respect of the medical residency program that would disentitle them to the education and post-secondary credits. In order to answer this question, it is first necessary to ascertain the meaning of the term “benefit” as it appears in the definition of “qualifying educational program.” Once the meaning of “benefit” has been established, the meaning must be applied to the facts in this case.
+[34] The relevant parts of that definition are set out again here for ease of reference:
+“qualifying educational program” means a program of not less than three consecutive weeks duration that provides that each student taking the program spend not less than ten hours per week on courses or work in the program and, in respect of a program at an institution described in the definition “designated educational institution” (other than an institution described in subparagraph (a)(ii) of that definition), that is a program at a post-secondary school level but, in relation to any particular student, does not include a program if the student receives, from a person with whom the student is dealing at arm’s length, any allowance, benefit, grant or reimbursement for expenses in respect of the program other than
+(a) an amount received by the student as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the student,
+(b) a benefit, if any, received by the student because of a loan made to the student in accordance with the requirements of the Canada Student Loans Act or An Act respecting financial assistance for education expenses, R.S.Q., c. A-13.3, or because of financial assistance given to the student in accordance with the requirements of the Canada Student Financial Assistance Act, or
+(c) an amount that is received by the student in the year under a program referred to in subparagraph 56(1)(r)(ii) or (iii), a program established under the authority of the Department of Human Resources and Skills Development Act or a prescribed program;
+[35] The Respondent contends that I should give “benefit” a broad interpretation, consistent with the dictionary definitions of “benefit” as “an advantage” or “better position or favourable circumstance”. Free education would fall within that definition.
+[36] The Appellants, on the other hand, submit that a restrictive meaning is more consistent with the intention of Parliament, and that “benefit” would only include payments or advantages received by or directed at individual students. It would not include any benefit received under a general subsidy of all students by way of government funding of education.
+[37] The principles to be applied in the interpretation of tax statutes are set out by the Supreme Court of Canada in Placer Dome Canada Ltd. v. Ontario (Minister of Finance)[17] at paragraphs 21 to 23:
+21 In Stubart Investments Ltd. v. The Queen, this Court rejected the strict approach to the construction of taxation statutes and held that the modern approach applies to taxation statutes no less than it does to other statutes. That is, “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament” (p. 578): see 65302 British Columbia Ltd. v. Canada. However, because of the degree of precision and detail characteristic of many tax provisions, a greater emphasis has often been placed on textual interpretation where taxation statutes are concerned: Canada Trustco Mortgage Co. v. Canada. Taxpayers are entitled to rely on the clear meaning of taxation provisions in structuring their affairs. Where the words of a statute are precise and unequivocal, those words will play a dominant role in the interpretive process.
+22 On the other hand, where the words of a statute give rise to more than one reasonable interpretation, the ordinary meaning of words will play a lesser role, and greater recourse to the context and purpose of the Act may be necessary: Canada Trustco, at para. 10. Moreover, as McLachlin C.J. noted at para. 47, “[e]ven where the meaning of particular provisions may not appear to be ambiguous at first glance, statutory context and purpose may reveal or resolve latent ambiguities.” The Chief Justice went on to explain that in order to resolve explicit and latent ambiguities in taxation legislation, “the courts must undertake a unified textual, contextual and purposive approach to statutory interpretation”.
+23 The interpretive approach is thus informed by the level of precision and clarity with which a taxing provision is drafted. Where such a provision admits of no ambiguity in its meaning or in its application to the facts, it must simply be applied. Reference to the purpose of the provision “cannot be used to create an unexpressed exception to clear language”: see P. W. Hogg, J. E. Magee and J. Li, Principles of Canadian Income Tax Law (5th ed. 2005), at p. 569; Shell Canada Ltd. v. Canada. Where, as in this case, the provision admits of more than one reasonable interpretation, greater emphasis must be placed on the context, scheme and purpose of the Act. Thus, legislative purpose may not be used to supplant clear statutory language, but to arrive at the most plausible interpretation of an ambiguous statutory provision.
+[38] The tax jurisprudence has consistently held that the term “benefit” as used in the Act refers to an economic or material advantage. In R. v. Poynton,[18] Evans J.A. referred to a benefit as “a material acquisition which confers an economic benefit on the taxpayer”. This definition was approved of by the Supreme Court in the Savage case. In Hoefele v. The Queen,[19] this court said: “to constitute a benefit, the taxpayer must have realized a material economic advantage”. Also, according to Professor V. Krishna, in order to constitute an economic benefit, the advantage or acquisition must be measurable in monetary terms.[20]
+[39] The words preceding and following “benefit” in the definition of “qualifying educational program” supports the view that the word “benefit” therein refers to an economic or material benefit that can be measured in monetary terms rather than an intangible advantage or favourable circumstance. According to the “associated words rule” (noscitur a sociss), words in a list must be read in light of each other, and take colour from one another[21]. The words listed along with “benefit” - “allowance”, “grant” and “reimbursement” - all refer to different kinds of transfers or payments of money. Therefore, it is reasonable to conclude that the word “benefit” is used by Parliament in this instance to convey the notion of a transfer of money or money’s worth.
+[40] This reading of the definition of “qualifying educational program” is consistent with the purpose of the exclusion from the definition of “qualifying educational program” of any program in respect of which a student receives an allowance, benefit, grant or reimbursement for expenses from an arm’s length party. This wording was added when the definition of “qualifying educational program” was amended in 2005. Prior to 2005, students pursuing post-secondary education that was related to their employment were not eligible for the education credit or textbook credit. Subsection 118.6(1) formerly stated that a “qualifying educational program’ did not include any program:
+(b) if the program is taken by the student…
+(i) during a period in respect of which the student receives income from an office or employment, and,
+(ii) in connection with, or as part of the duties of, that office or employment.
+[41] The definition of qualifying educational program was amended in 2005 to allow students pursuing post-secondary education related to their employment to claim the credits, unless they were in receipt of any allowance, benefit, grant or reimbursement for expenses in respect of the program that was provided to them by an arm’s length party. According to the Department of Finance Technical Notes, the intention of the limitation in the amendment was to prevent students from claming the credit if their education costs were reimbursed to them by their employer. The note released when the amendment was proposed stated:
+The education tax credit cannot currently be claimed by students who pursue post-secondary education that is related to their current employment [due to 118.6(1) “qualifying educational program” (b) – ed]. In order to facilitate the pursuit of job-related lifelong learning, the Budget proposes to remove this restriction provided that no part of the costs of education is reimbursed by the employer. [22]
+Technical Notes have been widely accepted as aids to statutory interpretation.[23]
+[42] A further reason for rejecting the interpretation of the word “benefit” sought by the Respondent is that it would create absurd results. If the word “benefit” were interpreted to include benefits that cannot be readily measured, such as government subsidized education or education for which a Canadian citizen or landed immigrant paid less than foreign students, it would, as pointed out by the Appellants’ counsel, render most university students in Canada ineligible for these credits. This result should be avoided. As Estey J. stated in Berardinelli v. Ontario Housing Corp.[24]
+Where one interpretation can be placed upon a statutory provision which would bring about a more workable and practical result, such an interpretation should be preferred if the words invoked by the Legislature can reasonably bear it.
+[43] It seems clear to me then that “benefit” as used in this case contemplates a material acquisition measurable in monetary terms.
+[44] The next step is to determine whether the free education (to use the words of counsel for the Respondent) has been shown to be an economic benefit that can be measured in monetary terms.
+[45] Given that none of the domestic residents are charged for the post-graduate medical residency program at McMaster or at any of the other five universities in Ontario that offer the program, there is no apparent means of establishing the monetary value of the program to residents who are Canadian citizens or landed immigrants. Since no tuition is charged to anyone in that group at any of the six universities, it is a reasonable conclusion in my view that the benefit from attending the program cannot be readily measured in monetary terms. In any event, the Respondent has not met the onus to show that the program has a measurable monetary value.
+[46] The fact that foreign residents pay tuition for the program does not lead to the conclusion that there was a measurable monetary benefit to the domestic residents. Foreign residents make up around 10% of the total enrolment in the McMaster post-graduate medical residency program and their situation is presumably quite different than that of the domestic residents. In the absence of evidence of how the tuition for foreign residents was calculated and what factors entered into the calculation, I do not believe it can be taken as determinative of a value of the program to the domestic residents.
+[47] The conclusion that there was no benefit to the Appellants in this case is largely consistent with the CRA’s own policy. Paragraph 16 of IT Bulletin 515‑R2 referred to earlier in these reasons sets out that in cases where no tuition is payable for a post-secondary program, there is no benefit to the students if the program is available to the public at large at no cost. In this case, the program was available free of charge to all Canadian citizens and landed immigrants with medical degrees. Almost 90% of the residents at McMaster were in this group.
+[48] For these reasons, I find that the Appellants did not receive a benefit by virtue of not being charged tuition by McMaster University for the post-graduate medical residency program in 2006. They are therefore entitled to the education and post-secondary tax credits as claimed.
+[49] The appeals are allowed, with one set of costs to the Appellants.
+Signed at Ottawa, Canada, this 15th day of March, 2010.
+“B.Paris”
+Paris J.
+CITATION: 2010 TCC 147
+COURT FILE NO.: 2008-510(IT)I, 2008-2004(IT)I,
+2008-2011(IT)I, 2008-2278(IT)I
+2008-2470(IT)I, 2008-4060(IT)I,
+2008-4066(IT)I, 2008-4067(IT)I,
+2008-4068(IT)I, 2008-4069(IT)I and
+2008-4070(IT)I,
+STYLE OF CAUSE: MING PAN, RAFFAELA PROFITI,
+ANDREA TODD, AROON YUSUF, ABDELNASIR BASHIR, INBAL GAFNI, ERIC GREENWALD, JENNIFER SCHNARR, JEFFREY KWEE, RICHA MITTAL and NICHOLAS PLASKOS and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 2, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: March 15, 2010
+APPEARANCES:
+Counsel for the Appellants:
+Steven Barrett
+Counsel for the Respondent:
+Ammit Ummat
+COUNSEL OF RECORD:
+For the :
+Name: Steven Barrett
+Firm: Sack Goldblatt Mitchell LLP
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Per the definition of “qualifying educational program” in subsection 118.6(1) of the Income Tax Act (the “Act”).
+[2] Refer to assumption paragraphs in the Reply to the Notice of Appeal.
+[3] Exhibit A-1, vol. 1, Tab 1, Trowell affidavit, paragraph 31.
+[4] Ibid, paragraph 32.
+[5] Ibid, paragraph 36.
+[6] Ibid, paragraph 37.
+[7] Ibid, paragraph 38.
+[8] Ibid, paragraph 39.
+[9] Ibid, paragraphs 41 and 43.
+[10] Ibid, paragraph 48.
+[11] Ibid, paragraph 55-65.
+[12] Ibid, paragraphs 69 and 70.
+[13] [1983] 2 S.C.R. 428.
+[14] Carswell June 2009.
+[15] Black’s Law Dictionary, Eighth Edition, Thompson-West.
+[16] Canadian Oxford Dictionary, Second Edition, Canadian Publishing.
+[17] 2006 SCC 20.
+[18] [1972] 3 O.R. 727 at page 738.
+[19] [1994] D.T.C. 1878.
+[20] R. v. Bartley 2008 FCA 390 at paragraph 9, also Krishna, The Fundamentals of Income Tax (8th ed.) at page 225.
+[21] Sullivan on the Construction of Statutes, (5th ed.) 2008 at page 227.
+[22] 2009 Department of Finance Technical Notes (21st ed.) David Sherman editor (Carswell) page 1245.
+[23] Ast Estate v. R. 97 DTC 5197 (FCA) at paragraph 27.
+[24] (1978) 90 D.L.R. (3d) 481 (S.C.C.).

@@ -1,0 +1,223 @@
+---
+title: "Les Paniers P & P Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30420/index.do"
+last_modified: "2008-08-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 463"
+citation2: ""
+neutral_citation: "2008 CCI 463"
+decision_date: "2008-08-28"
+language: "fr"
+item_id: "30420"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7951
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:27:35.160000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b64fe7d923be006358d447a00d5de783d74e9c1bb8f2a8b3367ac6a624ede5d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Paniers P & P Inc. c. M.R.N.
+
+- Citation: 2008 CCI 463
+- Decision date: 2008-08-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7951, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Paniers P & P Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-28
+Référence neutre
+2008 CCI 463
+Numéro de dossier
+2007-3421(EI), 2007-4162(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2007-3421(EI)
+2007-4162(EI)
+ENTRE :
+LES PANIERS P & P INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune le 5 août 2008, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi sont rejetés et les décisions du ministre du Revenu national sont confirmées, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour d’août 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008 CCI 463
+Date : 20080828
+Dossiers : 2007-3421(EI)
+2007-4162(EI)
+ENTRE :
+LES PANIERS P & P INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit de deux appels relatifs au caractère assurable du travail effectué par messieurs Daniel Pépin et Jean Pépin, ainsi que par messieurs Jacques Pépin et Clermont Allaire, lors de la période du 1er janvier 2003 au 31 décembre 2005, pour le compte de l’appelante, « Les paniers P & P inc. ». Les parties ont procédé au moyen d’une preuve commune aux deux dossiers.
+[2] Dans le dossier 2007-3421(EI), le ministre du Revenu national (le « ministre ») a conclu que messieurs Daniel Pépin et Jean Pépin avaient exercé un emploi assurable du 1er janvier 2003 au 31 décembre 2005 pour le compte de l’appelante.
+[3] Dans le dossier 2007-4162(EI), le ministre a conclu que messieurs Jacques Pépin et Clermont Allaire avaient également exercé un emploi assurable du 1er janvier 2003 au 31 décembre 2005, toujours pour le compte de l’appelante.
+[4] Dans les deux dossiers et pour les quatre travailleurs, l’appelante conteste les décisions et soutient qu’il s’agit là d’emplois qui doivent être exclus des emplois assurables en vertu des dispositions prévues à l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi (la « Loi »).
+[5] En vertu de l’alinéa 5(2)i) de la Loi, tout emploi où le travailleur et l’employeur ont entre eux un lien de dépendance est exclu des emplois assurables, à moins, en l’espèce, que les travailleurs et l’appelante soient :
+[…] réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances […], qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[6] Pour soutenir ses conclusions, le ministre a tenu pour acquis les hypothèses de fait suivantes :
+Dossier 2007-3421 :
+5 a) l’appelante, constituée en société le 12 avril 1985, exploite une entreprise de fabrication de contenants ou paniers en bois, carton ou plastique pour fruits et légumes; (admis)
+b) l’appelante exploite son entreprise à l’année longue et connaît une période de pointe entre les mois de mai et septembre de chaque année; (admis)
+c) les heures d’ouverture de l’appelante sont de 7 h à 16 h du lundi au vendredi; (admis)
+d) selon les périodes de l’année, l’appelante pouvait avoir de 14 à 43 employés sur sa liste de paie; (admis)
+e) les décisions concernant l’exploitation de l’entreprise sont prises par les administrateurs et gestionnaires de l’appelante; (admis)
+f) en plus de leur salaire, les actionnaires de l’appelante, contrairement aux autres employés, bénéficiaient d’une contribution de 5 000 $ à un REER de la part de l’appelante; (admis)
+g) l’appelante ne versait pas de dividendes aux actionnaires car les bénéfices étaient réinvestis dans l’entreprise; (admis)
+h) durant la période en litige, Daniel Pépin travaillait à l’usine de l’appelante; (admis)
+i) ses principales tâches consistaient à gérer le travail des employés et s’occuper de la maintenance et des opérations de la machinerie; (nié)
+j) il travaillait généralement durant les heures d’ouverture de l’appelante; il pouvait occasionnellement faire quelques heures le soir; (nié)
+k) durant la période en litige, Daniel Pépin recevait une rémunération fixe de 440 $ par semaine; (admis)
+l) durant la période en litige, Jean Pépin, vice-président de l’appelante, s’occupait principalement de la gérance; (admis)
+m) il coordonnait le travail des employés, s’occupait de l’entretien de la machinerie et de l’embauche du personnel requis; (admis)
+n) il travaillait durant les heures d’ouverture de l’appelante mais faisait entre 5 à 10 heures de plus par semaine dû aux bris et à l’entretien de la machinerie; (admis)
+o) durant la période en litige, Jean Pépin recevait une rémunération fixe de 440 $ par semaine. (admis)
+6 a) les détenteurs des actions votantes de l’appelante étaient :
+- Jacques Pépin avec 39 % des actions,
+- Jean Pépin avec 39 % des actions,
+- Daniel Pépin avec 11 % des actions,
+- Clermont Allaire avec 11 % des actions; (admis)
+b) Jacques, Jean et Daniel Pépin sont frères et Clermont Allaire est le conjoint de Carmen Pépin, sœur des autres actionnaires; (admis)
+c) chacun des actionnaires est membre d’un groupe qui contrôle l’appelante. (admis)
+7 a) même si, contrairement aux autres employés de l’appelante, les travailleurs ne remplissaient pas de feuille de temps, leur horaire de travail correspondait aux besoins de l’appelante et aux heures d’ouverture de l’appelante; (nié)
+b) la durée de leur travail correspondait aux besoins de l’appelante selon la période de l’année où elle était plus ou moins active; (nié)
+c) les travailleurs recevaient une rémunération hebdomadaire fixe pour un horaire de travail établi en fonction des besoins de l’appelante; (nié)
+d) en incluant la contribution annuelle de 5 000 $ de l’appelante à leur REER, les travailleurs recevaient une rémunération raisonnable en rapport aux services rendus à l’appelante. (nié)
+Dossier 2007-4162 :
+7 a) l’appelante, constituée en société le 12 avril 1985, exploite une entreprise de fabrication de contenants ou paniers en bois, carton ou plastique pour fruits et légumes; (admis)
+b) l’appelante exploite son entreprise à l’année longue et connaît une période de pointe entre les mois de mai et septembre de chaque année; (admis)
+c) les heures d’ouverture de l’appelante sont de 7 h à 16 h du lundi au vendredi; (admis)
+d) selon les périodes de l’année, l’appelante pouvait avoir de 14 à 43 employés sur sa liste de paie; (admis)
+e) les décisions concernant l’exploitation de l’entreprise sont prises par les quatre actionnaires sans égard aux actions détenues par chacun; (admis)
+f) en plus de leur salaire, les actionnaires de l’appelante, contrairement aux autres employés, bénéficiaient d’une contribution de 5 000 $ à un REER de la part de l’appelante; (admis)
+g) l’appelante ne versait pas de dividendes aux actionnaires car les bénéfices étaient réinvestis dans l’entreprise; (admis)
+h) durant la période en litige, Jacques Pépin travaillait à titre de président et directeur général de l’appelante; (admis)
+i) ses principales tâches consistaient à s’occuper du service à la client, des contrats et des achats et de faire de la recherche de clients; (admis)
+j) pendant la saison estivale, il effectuait des livraisons et pendant la saison hivernale, il travaillait à l’usine, planifiait la production et assistait à différents colloques; (admis)
+k) il travaillait généralement durant les heures d’ouverture de l’appelante; il pouvait occasionnellement faire quelques heures le soir; (admis)
+l) durant la période en litige, Jacques Pépin recevait une rémunération fixe de 440 $ par semaine; (admis)
+m) durant la période en litige, Clermont Allaire s’occupait principalement du service à la clientèle et du bon fonctionnement de l’entreprise du payeur; (admis)
+n) il faisait des livraisons durant la saison estivale et travaillait sur la production en usine durant la saison hivernale; (admis)
+o) il travaillait durant les heures d’ouverture de l’appelante; (admis)
+p) durant la période en litige, Clermont Allaire recevait une rémunération fixe de 440 $ par semaine. (admis)
+8 a) les détenteurs des actions votantes de l’appelante étaient :
+- Jacques Pépin avec 39 % des actions,
+- Jean Pépin avec 39 % des actions,
+- Daniel Pépin avec 11 % des actions,
+- Clermont Allaire avec 11 % des actions; (admis)
+b) Jacques, Jean et Daniel Pépin sont frères et Clermont Allaire est le conjoint de Carmen Pépin, sœur des autres actionnaires; (admis)
+c) chacun des actionnaires est membre d’un groupe qui contrôle l’appelante. (admis)
+9 a) même si, contrairement aux autres employés de l’appelante, les travailleurs ne remplissaient pas de feuille de temps, leur horaire de travail correspondait aux besoins de l’appelante et aux heures d’ouverture de l’appelante; (nié)
+b) la durée de leur travail correspondait aux besoins de l’appelante selon la période de l’année où elle était plus ou moins active; (nié)
+c) les travailleurs recevaient une rémunération hebdomadaire fixe pour un horaire de travail établi en fonction des besoins de l’appelante; (nié)
+d) en incluant la contribution annuelle de 5 000 $ de l’appelante à leur REER, les travailleurs recevaient une rémunération raisonnable en rapport aux services rendus à l’appelante. (nié)
+[7] Le procureur de l’appelante a reconnu comme étant exact le contenu de plusieurs alinéas, notamment dans le dossier 2007‑4162(EI) et dans le dossier 2007‑3421(EI).
+[8] Le contenu de certains alinéas a été nié. Il s’agit des alinéas 5 i) et j) ainsi que 7 a) à d) dans le dossier 2007-3421 et des alinéas 9 a) à d) dans le dossier 2007-4162.
+[9] La preuve soumise par l’appelante a été constituée du seul témoignage de monsieur Jacques Pépin. Ce dernier a fait l’historique de l’entreprise. Il a expliqué qu’il s’agissait d’une entreprise familiale créée par son père en 1958. Monsieur Pépin père a vendu son entreprise à deux de ses fils, en 1983; ces derniers l’ont exploitée comme copropriétaires en parts égales durant quelques années, après quoi le beau-frère, Clermont Allaire, et un autre frère, Jacques, sont venus s’ajouter.
+[10] Daniel Pépin et Jean Pépin ont alors vu le pourcentage de leurs actions diminuer et s’établir à 39 % chacun. Les deux nouveaux venus ont ainsi fait l’acquisition de 11 % des actions chacun, pour un total de 100 %.
+[11] Monsieur Jacques Pépin a expliqué que chacun des actionnaires avait des tâches et des fonctions très bien définies; en d’autres termes, chacun des actionnaires s’occupait de son domaine d’activité.
+[12] Les heures de travail n’étaient ni calculées ni réparties de manière égale. Chacun avait ses responsabilités, les assumait, et y consacrait le nombre d’heures requis pour exécuter son travail.
+[13] Tous étaient animés par la même volonté de réussir et de grandir, et ce, avec la grande préoccupation de garder l’entreprise en bonne santé financière. D’ailleurs, lors de son témoignage, monsieur Pépin a affirmé que tous les actionnaires travaillaient ensemble et tous étaient heureux et dynamiques avec un objectif commun.
+[14] Il a expliqué que l’entreprise embauchait, lors de la période très active, près de 45 employés. La saison prenait fin avec les premiers gels à l’automne. Les effectifs étaient alors réduits à environ une quinzaine d’employés.
+[15] L’entreprise fabriquait divers produits d’emballage servant principalement à la vente et la présentation de petits fruits. Les produits, au nombre de 52, sont fabriqués à partir de bois, de carton ou de plastique. Quant au bois, il est acheté en vrac, c’est-à-dire en billots; il est coupé et préparé par l’entreprise. Il s’agit de trembles ou de bouleaux. Durant la saison froide, soit à la fin de l’automne et pendant l’hiver, la quinzaine de travailleurs rémunérés soit à la pièce, soit à l’heure, au salaire minimum ou un peu plus, préparaient la nouvelle saison à venir.
+[16] Pour ce qui est de monsieur Jacques Pépin, il a affirmé qu’il s’occupait principalement des relations publiques et du recrutement de nouveaux clients, et aussi à voir à ce que les clients soient heureux et satisfaits.
+[17] Dans le cadre de ses fonctions, il se rendait à divers évènements et participait à divers forums. Il voyait également à ce que les produits soient conformes aux attentes des clients et cela, à des prix compétitifs, tout en offrant des produits de haute qualité.
+[18] Il a expliqué que l’entreprise, pour maintenir et augmenter la production, avait investi en 2005 des sommes importantes pour faire l’acquisition d’équipement moderne, efficace et à la fine pointe de la technologie en la matière pour atteindre les objectifs.
+[19] Tous les actionnaires, peu importe le nombre d’actions détenues, ont le même salaire, soit 440 $ par semaine; l’entreprise verse également 5 000 $ dans leur REÉR. En principe, tous ont des vacances d’une durée de six semaines, mais il semble que personne ne prend effectivement six semaines de vacances.
+[20] Le tribunal a soulevé l’hypothèse d’un problème susceptible de rompre l’harmonie et l’enthousiasme des actionnaires pour connaître ce qui adviendrait de l’harmonie omniprésente; cependant, à ce sujet, monsieur Jacques Pépin a indiqué que tout avait été prévu dans la convention des actionnaires, qui n’a pas été déposée ou produite.
+[21] À la lumière de la preuve, je crois pouvoir affirmer que les actionnaires, tous membres de la même famille (deux frères au début, puis un troisième frère et un beau-frère pour assurer la relève), étaient des personnes sérieuses, déterminées et très enthousiastes se dévouant pour la bonne marche et le développement de l’entreprise familiale. Tous travaillent dans la collaboration.
+[22] La majorité des dossiers de cette nature portent sur des situations où les dirigeants et actionnaires appartiennent à la même famille.
+[23] En effet, la règle est que tout travail exécuté par une personne ayant un lien de dépendance avec son employeur est exclu des emplois assurables à moins que le contexte, les faits, les modalités et les circonstances n’établissent que la relation de travail aurait été comparable ou similaire n’eût été du lien de dépendance.
+[24] Pour conclure à l’application de l’exception prévue, il est impératif de prendre en considération tous les faits et éléments pertinents, à défaut de quoi la conclusion retenue risque d’être discutable ou tout au moins aléatoire.
+[25] Lorsque tous les faits et modalités ont été pris en compte, et que la conclusion retenue s’avère raisonnable, la Cour canadienne de l’impôt ne peut intervenir et son rôle se limite à confirmer le bien‑fondé de la décision à l’origine de l’appel.
+[26] En l’espèce, comme dans tous les dossiers de ce genre, le fardeau de la preuve reposait sur l’appelante, qui a soumis comme preuve essentiellement le témoignage de monsieur Jacques Pépin.
+[27] Ce dernier a expliqué et décrit correctement et très honnêtement, sans hésitation ni confusion, la façon dont le tout se déroulait.
+[28] Il n’y a aucun doute qu’il a fait ressortir que les actionnaires ne touchaient pas la rémunération qu’auraient exigée des tiers pour le même travail; en effet, les responsabilités et le nombre d’heures, particulièrement durant la période estivale, auraient justifié une rémunération plus élevée et ce, bien que l’entreprise versait un montant important dans le REÉR des actionnaires et bien que la période hivernale était moins occupée.
+[29] Cela dit, est-ce suffisant pour conclure que des tiers n’auraient pas accepté de telles conditions de travail? Je ne crois pas.
+[30] En effet, il n’y a aucune preuve que les particularités décrites découlaient du lien de dépendance.
+[31] Des tiers auraient très bien pu accepter les mêmes conditions et partager les mêmes objectifs et la même philosophie, à savoir qu’ils devaient tout mettre en œuvre pour assurer la survie et le développement de l’entreprise, dans le contexte qu’à moyen et long terme, ils récolteraient des dividendes ou un enrichissement pour compenser leur effort, et cela abstraction faite du partage inégal des actions qui en l’espèce a été expliqué par la venue tardive de deux des actionnaires.
+[32] Je fais notamment et surtout référence aux alinéas 5 f), g), j) et k) de la Réponse à l’avis d’appel dans le dossier 2007‑3421 :
+f) en plus de leur salaire, les actionnaires de l’appelante, contrairement aux autres employés, bénéficiaient d’une contribution de 5 000 $ à un REER de la part de l’appelante; (admis)
+g) l’appelante ne versait pas de dividendes aux actionnaires car les bénéfices étaient réinvestis dans l’entreprise; (admis)
+j) il travaillait généralement durant les heures d’ouverture de l’appelante; il pouvait occasionnellement faire quelques heures le soir; (nié)
+k) durant la période en litige, Daniel Pépin recevait une rémunération fixe de 440 $ par semaine; (admis)
+et aux alinéas 7 f), g), j) et k) dans le dossier 2007‑4162 :
+f) en plus de leur salaire, les actionnaires de l’appelante, contrairement aux autres employés, bénéficiaient d’une contribution de 5 000 $ à un REER de la part de l’appelante; (admis)
+g) l’appelante ne versait pas de dividendes aux actionnaires car les bénéfices étaient réinvestis dans l’entreprise; (admis)
+j) pendant la saison estivale, il effectuait des livraisons et pendant la saison hivernale, il travaillait à l’usine, planifiait la production et assistait à différents colloques; (admis)
+k) il travaillait généralement durant les heures d’ouverture de l’appelante; il pouvait occasionnellement faire quelques heures le soir; (admis)
+[33] Le seul bémol est que le ministre a retenu que la rémunération versée aux actionnaires était raisonnable eu égard aux services rendus, en incluant la contribution annuelle de 5 000 $ que l’entreprise payait au nom des travailleurs.
+[34] Il s’agit là d’une appréciation avec laquelle je suis plus ou moins d’accord. Il ne s’agit pas là d’un élément déterminant d’une part et, d’autre part, il est très facile d’imaginer une situation où des tiers auraient accepté une telle rémunération eu égard au contexte.
+[35] J’ouvre également une parenthèse. Le caractère raisonnable est un élément moins important dans un dossier où l’aspect déterminant découle principalement de la comparaison avec une situation où les parties au contrat de travail seraient des tiers.
+[36] Pour illustrer cette réalité, on n’a qu’à penser aux nombreuses situations où des tiers, tous actionnaires de la société qui les embauche, reçoivent une rémunération ne correspondant aucunement à leurs responsabilités et ce, dans le but très légitime de consolider les assises financières de la société qu’ils possèdent de manière à ce qu’un meilleur rendement survienne un jour.
+[37] Par contre, la preuve a aussi établi que les personnes en cause avaient en principe six semaines de vacances et que la période d’octobre à la fin avril était une période beaucoup moins exigeante ou accaparante.
+[38] Finalement, l’espoir réaliste de voir leurs actions s’apprécier faisait en sorte qu’ils acceptaient volontiers la rémunération qu’ils recevaient.
+[39] Ce sont là des éléments ou caractéristiques très souvent présentes dans des situations impliquant que des tiers. En conséquence, il n’était aucunement déraisonnable de conclure que la rémunération versée était, dans les circonstances, raisonnable.
+[40] Quant aux autres éléments de l’analyse, il s’agissait tous de faits pertinents. L’audition n’a d’ailleurs fait ressortir aucun fait nouveau. De plus, rien de la preuve soumise ne permet de discréditer la qualité de l’analyse effectuée, et la conclusion dégagée et retenue est tout à fait cohérente, valable et surtout raisonnable.
+[41] Pour toutes ces raisons, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 28e jour d’août 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008 CCI 463
+Nºs DES DOSSIERS DE LA COUR : 2007-3421(EI) et 2007-4162(EI)
+INTITULÉ DE LA CAUSE : Les Paniers P & P inc. et le M. R. N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 5 août 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 28 août 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jérôme Carrier
+Cabinet : Avocat – Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,143 @@
+---
+title: "Oberoi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26895/index.do"
+last_modified: "2006-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 293"
+citation2: ""
+neutral_citation: "2006 TCC 293"
+decision_date: "2006-06-01"
+language: "en"
+item_id: "26895"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 767
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:02:55.027000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "134e9f4d6961cb104aeca5a9ab973adde1deb1d62a5a2fca4cd01f0713be95a9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Oberoi v. The Queen
+
+- Citation: 2006 TCC 293
+- Decision date: 2006-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 767, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oberoi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-01
+Neutral citation
+2006 TCC 293
+File numbers
+2002-3744(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC293
+Date: 20060601
+Docket: 2002-3744(IT)G
+BETWEEN:
+TANSEN OBEROI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+(Delivered orally from the bench on September 2, 2005, in Montreal, Quebec.)
+Lamarre Proulx J.
+[1] This is a motion to annul an out-of-court settlement signed by counsel for both parties on February 17 and 21, 2005.
+[2] The out-of-court settlement was made pursuant to subsection 169(3) of the Income Tax Act (the "Act").
+[3] That subsection provides that, for the purpose of disposing of an appeal, the Minister of National Revenue (the "Minister") may at any time, with the consent in writing of the taxpayer, reassess the amounts payable by the taxpayer.
+[4] The out-of-court settlement was reached on February 17, 2005. It was edited slightly and then finalized on February 21, 2005.
+[5] At the outset of the hearing, counsel for the Respondent informed the Court that she had been subpoenaed by the Appellant. Counsel for the Appellant stated that the purpose of the subpoena was to inquire as to the language in which the offer and the counter-offer were made and to determine what prejudice the Respondent would suffer from having to proceed to a hearing of the case.
+[6] Counsel for the Respondent readily admitted that the exchange of correspondence between the two lawyers had been in French, although the out-of-court settlement was drafted in English, as that was the language of the proceedings. As to the prejudice, it concerns the administration of justice in general, and as regards the Respondent in particular, it consists in the time spent in preparation by counsel for the Respondent as well as by the Minister's agents.
+[7] It would have been difficult for counsel for the Respondent to continue to act as counsel in this motion if she had had to testify. The Court decided that she did not need to testify and could continue as counsel.
+[8] The Appellant testified on his own behalf and the lawyer who at the time of the signature of the out-of-court settlement was acting for the Appellant testified at the request of counsel for the Respondent. Hereinafter, I will refer to this lawyer as the former lawyer.
+[9] It is useful to relate chronologically the events in this case. The Notice of Appeal was filed on October 1, 2002, for the 1997 and 1998 taxation years.
+[10] The list of the documents that the parties intended to use at trial was produced on March 5, 2004.
+[11] An examination for discovery of the Appellant was held on June 22, 2004 by counsel for the Respondent. She requested at that time that she be provided with all the documents that could support the Appellant's claim of losses.
+[12] On September 27, 2004, the appeal was set down for hearing commencing on February 22, 2005, the hearing was to be of one and one-half day's duration. This setting down was done pursuant to a joint application by the two parties dated September 21, 2004.
+[13] The Appellant testified that he had met with his lawyers a few times since the commencement of his appeal. However, it was on February 11, 2005, that is, eleven days before the date set for the hearing, that he produced documents that, according to his testimony, would have been useful to support his claims. The former lawyer testified that she reviewed those documents with the Appellant.
+[14] There was no clear evidence as to whether those documents were new to the former lawyer and whether they had any probative value in her view. It must also be understood that, according to the Tax Court of Canada Rules (General Procedure), no documents other than those appearing in the list of documents may be used in a court proceeding unless the permission of the Court has been obtained. As previously mentioned, the list of documents was produced on March 5, 2004. An appeal has to proceed in an orderly manner.
+[15] On the date referred to above of February 11, 2005, the former lawyer mentioned to the Appellant that it would be advisable to make an offer of settlement. The Appellant agreed. The offer was sent to counsel for the Respondent on that day.
+[16] On February 16, 2005, the Respondent made a counter-offer of settlement.
+[17] The Appellant went to his former lawyer's office on February 17. According to paragraph 2 of the present motion written by the Appellant himself:
+2. On May 5th, at the last minute, I was advised of a settlement of . . . from Rev. Canada. Either I accepted this offer or I would risk loosing everything plus my legal cost for the trial which would be in excess of $10,000.00
+[18] I have deleted the amount of the offer in view of the privilege given to negotiations between parties to resolve litigation. The date was not May 5 but February 17, but this is not what is of importance here.
+[19] What I have quoted is in substance what the Appellant testified that he was told. The former lawyer gave a somewhat similar testimony. She testified that she explained to the Appellant his options: he could on the one hand, take what was certain, that is, the offer, or on the other hand risk gaining nothing or very little and having to pay the judicial costs of the Respondent.
+[20] After having heard these views, the Appellant signed a very clear mandate to his lawyer (Exhibit A-1). That mandate reads as follows:
+MANDATE
+I, Tansen Oberoi, hereby mandate my attorneys, STARNINO MOSTOVAC, to accept the counter-offer of settlement presented by the Minister of Justice (in their February 16, 2005 letter) in my file before the Tax Court of Canada.
+And I have signed, in Montreal, this 17th day of February.
+[21] The Appellant did not call his former lawyer that evening or in the days following. He did not say that he had asked for a day to think it over. It must be remembered, however, that the dates set aside by this Court for the hearing the appeal, that is, February 22 and 23, 2005, were very close by then.
+[22] More than one month later, the Appellant, without notifying his former lawyer, sent to counsel for the Respondent a letter (Exhibit A-2), that reads as follows:
+Dear Madame,
+I recently gave an authorization to the law firm of Starnino Mostovac to settle the above mentioned case. However, I do not wish to proceed with the settlement due to the nature under which the settlement was agreed upon. I signed the deal under stress and great pressure from my lawyers and therefore wish to continue with my case. I would appreciate a new date for my hearing.
+[23] Asked to explain what he meant by stress and great pressure, the Appellant repeated what he had stated in paragraph 2 of his motion. He also added complaints about his lawyers not having obtained certain documents from Revenue Canada or not having asked him to produce certain documents. He stated that he had to provide them himself at a later stage, that is, on February 11.
+[24] To complete the narrative of the events in this case, it has to be noted that, according to the documents produced by the Respondent in reply to the present motion, the Appellant was reassessed on April 7, 2005, pursuant to subsection 169(3) of the Act.
+[25] The present motion was filed with the Court on May 24, 2005, after the reassessment. These dates are of some importance as I should think that a pending motion for the annulment of an out-of-court settlement would have caused a stay of the reassessment procedure.
+Analysis and conclusion
+[26] The evidence showed clearly that the former lawyer of the Appellant had a mandate from the Appellant to sign the out-of-court settlement that she signed. She did not exceed her mandate and she acted in accordance with that mandate.
+[27] There is no evidence that the Appellant asked for time before signing the mandate, although he may have been reminded that the hearing of the case was to take place in a few days. Nor is there any evidence that he was forced to sign. The evidence shows that the Appellant freely affixed his signature to the document. The former lawyer may have explained to him the hurdles or the possible pitfalls that he would have encountered if he proceeded with his appeal. It has often been stated in cases similar to this one that an out-of-court settlement is an agonizing decision to make. No one can predict the future. It can, however, be assessed with some degree of certainty by professionals in the field involved. That is what the former lawyer did. This cannot and never has been categorized as coercion. It is the providing of information and professional advice.
+[28] I will refer here to the classic court decision in such matters, namely the decision of the Supreme Court of Canada in Smerchanski v. M.N.R, [1977] 2 S.C.R. 23, at page 31-32:
+. . . There is no doubt of the enforceability of compromise agreements on liability for disputed debt as an escape from litigation, absent vitiating circumstances. I return then to the one factor that is said to make the waiver agreements herein voidable, and that is that the threat of prosecution lay behind them. . . .
+[29] In Smerchanski, the vitiating circumstances would have been the threat of criminal prosecution. In the view of the Supreme Court of Canada this was not a vitiating circumstance. The compromise allowed the taxpayer to escape that threat and the compromise agreement was valid.
+[30] I also refer to the decision of the Federal Court of Appeal in Bogie v. R., [1998] 4 C.T.C. 195, at paragraph 3:
+. . . In the absence of fraud, the conduct of the taxpayer embraces the conduct of his professional advisors. . . .
+[31] To conclude, the former lawyer acted within the mandate signed by the Appellant; the Appellant knew the amount of the counter-offer; there was no coercion, no fraud. There was merely the providing of information.
+[32] There is no ground here whatsoever for annulling the out-of-court settlement.
+[33] If the Appellant is convinced that he received bad advice, there is another forum available to him, but it is not within this Court. In this Court, the out-of-court settlement is enforceable. The motion must therefore be denied.
+[34] The Notice of Discontinuance for the years 1997 and 1998, now in the hands of the Respondent as part of the out-of-court settlement, may be filed with the Court in accordance with the out-of-court settlement, since a reassessment has been made for the year 1997 in accordance with that out-of-court settlement.
+Signed at Ottawa, Canada, this 1st day of June 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+CITATION: 2006TCC293
+COURT FILE NO.: 2002-3744(IT)G
+STYLE OF CAUSE: TANSEN OBEROI v. THE QUEEN
+PLACE OF HEARING: Montreal, Québec
+DATE OF HEARING: August 31, 2005
+REASONS FOR JUDGEMENT BY: The Hon. Justice Louise Lamarre Proulx
+DECISION DELIVERED
+ORALLY September 2, 2005
+DATE OF JUDGMENT: September 8, 2005
+REASONS FOR ORDER: June 1, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Daniel Caisse
+Karine Desprès
+Counsel for the Respondent:
+Nathalie Lessard
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Daniel Caisse
+Firm: Caisse & Richard
+Montreal, Québec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,162 @@
+Title: 825209 Alberta Ltd c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26248/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-80-26248-825209-alberta-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-01-31
+
+# 825209 Alberta Ltd c. M.R.N.
+
+- Citation: 2005 CCI 80
+- Decision date: 2005-01-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4015, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+825209 Alberta Ltd c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-31
+Référence neutre
+2005 CCI 80
+Numéro de dossier
+2004-1859(EI)
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi sur l'assurance-emploi
+Loi sur la sécurité de la vieillesse
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2004‑1859(EI)
+2004‑1860(CPP)
+ENTRE :
+825209 ALBERTA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à Edmonton (Alberta), les 10 et 11 janvier 2005.
+Devant : L’honorable D.G.H. Bowman, juge en chef adjoint
+Comparutions :
+Représentant de l’appelante :
+M. William G. Coles
+Avocate de l’intimé :
+Me Galina M. Bining
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés conformément à la Loi sur l’assurance‑emploi et au Régime de pensions du Canada sont accueillis et les évaluations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle évaluation selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2005.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 9e jour de février 2006.
+Sara Tasset
+Référence : 2005CCI80
+Date : 20050131
+Dossiers : 2004‑1859(EI)
+2004‑1860(CPP)
+ENTRE :
+825209 ALBERTA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Il s’agit d’appels se rapportant à des évaluations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada; l’appelante a fait l’objet de ces évaluations pour les cotisations au titre du Régime de pensions du Canada et de l’assurance‑emploi à l’égard d’un certain nombre de personnes auxquelles elle avait de temps en temps eu recours pour qu’elles exécutent des travaux de peinture précis. Il s’agit de savoir si les personnes en question étaient engagées en vertu de contrats de louage de services ou de contrats d’entreprise ou, comme on le dit plus communément en termes familiers, si elles étaient des employés ou des entrepreneurs indépendants au cours des années 1999, 2000, 2001 et 2002.
+[2] L’appelante appartient à parts égales à William Coles et à sa femme, Charlene Coles. Elle exploitait une entreprise se spécialisant dans les travaux de peinture, une entreprise de construction, un magasin dans lequel du matériel de peinture était vendu et un magasin de matériel informatique. L’appelante a depuis lors vendu l’entreprise s’occupant de matériel informatique.
+[3] Il est ici question du statut de personnes dont les services ont été retenus par l’appelante dans le cadre de l’exploitation de l’entreprise de travaux de peinture, qui était exploitée sous le nom de Billy’s Construction & Painting.
+[4] Les activités de l’entreprise de travaux de peinture qui sont en cause dans ces appels se rapportent à des travaux exécutés à l’intérieur d’hôtels et de motels que l’on était en train de construire en Colombie‑Britannique, en Alberta, en Saskatchewan, au Manitoba et, dans un cas, à Fort Frances (Ontario), et dans un autre cas, à Yellowknife.
+[5] Une fois que les services de l’appelante avaient été retenus par un entrepreneur général pour qu’elle exécute des travaux de peinture dans un hôtel que l’on était en train de construire, M. Coles communiquait dans certains cas avec des peintres locaux de la ville où les travaux étaient exécutés et dans d’autres cas il communiquait avec des peintres qu’il connaissait ou qui lui avaient été recommandés par des entrepreneurs, à Three Hills (où était situé le bureau de l’appelante) ou ailleurs. Ils discutaient alors du taux horaire, de la nature des travaux à exécuter et du délai dans lequel les travaux devaient être effectués. L’appelante assurait parfois le transport des peintres au lieu de travail dans sa fourgonnette et, dans au moins un cas dont il a été question lors de la présentation de la preuve, M. Coles a permis aux peintres d’utiliser sa fourgonnette. Si les peintres ne vivaient pas dans la ville ou près de la ville où les travaux étaient exécutés, l’appelante payait les frais d’hébergement à l’hôtel. Les peintres pouvaient à leur gré accepter ou refuser le travail.
+[6] L’appelante fournissait la peinture étant donné qu’en sa qualité de propriétaire d’un magasin vendant du matériel de peinture, elle pouvait obtenir de meilleurs prix. Elle fournissait également le ruban masque.
+[7] Les peintres fournissaient leurs propres pinceaux, couteaux et autres outils et habituellement, les toiles de protection. S’ils possédaient des pulvérisateurs à peinture, ils les fournissaient et ils demandaient un taux horaire plus élevé. S’ils n’en possédaient pas, l’appelante fournissait un pulvérisateur.
+[8] Un grand nombre de peintres possédaient leurs propres entreprises individuelles, qui étaient exploitées sous différents noms, comme « Polymar Man » ou « Polymar Paints », « Continental Painting and Drywalling », « Morrow Painting Services », ou « Rosco & Son Paint Company ». Ils pouvaient à leur gré embaucher des aides et, dans certains cas, il y avait une équipe composée d’un mari et de sa femme.
+[9] Les peintres soumettaient des factures indiquant le nombre d’heures travaillées et le taux horaire, habituellement à la fin des travaux. L’appelante les rémunérait par chèque lorsqu’elle se faisait payer. Les peintres n’étaient pas inscrits dans un livre de paie et aucun impôt, ni aucune cotisation au titre du Régime de pensions du Canada ou de l’assurance‑emploi n’étaient retenus.
+[10] En ce qui concerne la supervision, M. Coles supervisait fort peu les travailleurs. Je me rends bien compte qu’il ne s’agit pas de savoir si le payeur exerçait en fait un contrôle sur le travailleur, mais s’il avait le pouvoir de le faire. (Groupe Desmarais Pinsonneault & Avard Inc. c. Canada, 2002 CAF 144, 291 N.R. 389). Dans ce cas‑ci, il est difficile de voir quel contrôle M. Coles aurait pu exercer. En général, les peintres sont fort indépendants. On leur montre la pièce ou l’immeuble à peindre, on les laisse travailler et on revient à la fin des travaux et si les travaux sont exécutés d’une façon satisfaisante, on les rémunère. Il n’y a pas de « contrôle » (ou de lien de subordination pour employer une expression que l’on voit parfois dans les affaires telles que celle‑ci où les critères énoncés dans le Code civil du Québec s’appliquent, comme l’affaire Vulcain Alarme Inc. c. M.R.N., 1999 CAF). Les peintres n’étaient pas tenus de travailler à des heures particulières, dans la mesure où ils s’acquittaient de leur tâche dans le délai nécessaire. Il arrivait bien souvent que M. Coles ne rencontre jamais les peintres.
+[11] Les peintres pouvaient à leur gré accepter d’autres travaux, pendant que leurs services étaient retenus par l’appelante ou à d’autres moments. Un grand nombre d’entre eux étaient des musiciens qui augmentaient le revenu tiré de spectacles en acceptant ici et là des travaux de peinture. Il n’y avait pas de continuité dans leur travail auprès de l’appelante. S’il y avait du travail, ils en obtenaient. S’il n’y avait pas de travail, ils en cherchaient ailleurs.
+[12] L’arrêt Wiebe Door Services Ltd. v. M.N.R., [1986] 2 C.T.C. 200, énonce ce que l’on connaît maintenant sous le nom de critère composé de quatre parties intégrantes (le contrôle, la propriété des instruments de travail, les chances de bénéfice ou les risques de perte et l’intégration). Ces éléments ont été dans l’ensemble confirmés par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. [2001] 4 C.T.C. 139.
+[13] Toutefois, il ne faut pas appliquer les différents éléments du critère à la lettre ou accorder à un élément plus d’importance qu’à tous les autres. Certains facteurs peuvent, dans le contexte d’une affaire particulière, avoir peu d’importance ou n’en avoir aucune. Chacun doit se voir accorder l’importance nécessaire dans le contexte général des faits de l’affaire. Ainsi, le juge MacGuigan dans l’arrêt Wiebe Door, et le juge Major dans l’arrêt Sagaz, ont conclu qu’il pourrait être difficile d’appliquer le critère de l’intégration. Je n’ai pas encore vu le critère de l’intégration être employé isolément comme facteur déterminant (sauf peut‑être dans la décision rendue par la Cour de l’impôt dans l’affaire Wiebe Door, laquelle a été annulée par la Cour d’appel fédérale). Il faut en fin de compte examiner la situation générale dans son ensemble.
+[14] J’ai mentionné les quatre éléments du critère énoncé dans l’arrêt Wiebe Door. Cet arrêt fait encore autorité, mais d’autres facteurs semblent apparaître. Ainsi, dans l’arrêt Poulin c. M.R.N., 2003 CAF 50, la Cour d’appel fédérale semble avoir dans une certaine mesure atténué la notion de contrôle et avoir davantage mis l’accent sur l’intention des parties. Les passages suivants du jugement rendu par le juge Létourneau montrent l’évolution du droit dans ce domaine :
+[12] Avec respect, je crois qu’il y a eu méprise sur la nature juridique de la relation entre le demandeur et les trois travailleurs lui fournissant des services. Cette méprise découle d’une mauvaise application de certains des critères de l’arrêt Wiebe Door Services Ltd., précité, ainsi que du défaut de prêter suffisamment attention à l’intention des parties dans la détermination de la relation globale qu’elles entretiennent entre elles : 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, aux paragraphes 46 et 47. Je débuterai mes remarques par le critère du contrôle et du lien de subordination retenu par la Cour canadienne de l’impôt.
+a) l’existence d’un contrôle et d’un lien de subordination
+[13] Il s’agit, en vertu de ce critère, de se demander si, à partir de l’ensemble de la preuve, il y a contrôle du côté de l’un, i.e., le demandeur, et subordination de l’autre, soit les travailleurs : Wolf c. Sa Majesté la Reine, A‑563‑00, No. de référence neutre, 2002 FCA 96, 15 mars 2002, paragraphe 117, par le juge Décary. En principe, ces deux notions définissent un élément important du contrat de travail par opposition au contrat de services. L’article 2085 du Code civil du Québec, qui détermine le droit applicable en l’espèce puisque le contrat doit être interprété conformément aux lois de la province de Québec (voir la Loi d’harmonisation no. 1 du droit fédéral avec le droit civil, L.C. 2001, ch. 4), énonce :
+Art. 2085
+Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+[14] À l’inverse, le contrat de services ou d’entreprise n’implique aucun lien de subordination quant à son exécution et laisse au prestataire de services le libre choix des moyens d’exécution : article 2099 du Code civil du Québec. Le prestataire qui soit exploite une entreprise, soit fournit simplement des services, le fait alors pour son propre compte.
+[15] Ce qu’il faut retenir de ces définitions des deux contrats, c’est que la notion de contrôle est un élément important de la détermination juridique de la nature des relations entre les parties. Cependant, cette notion de contrôle n’est pas toujours en soi concluante malgré l’importance qu’il faut lui prêter. Comme le disait notre collègue, Madame le juge Desjardins, dans l’affaire Wolf, précitée, au paragraphe 76, « bien que le critère de contrôle soit le critère traditionnel de l’emploi en droit civil, il est souvent inadéquat à cause de la spécialisation accrue de la main d’oeuvre » : voir aussi Wiebe Door Services Ltd., précitée, aux pages 558‑559 où notre collègue, le juge MacGuigan, indique que le critère s’est révélé tout à fait inapplicable pour les professionnels et travailleurs hautement qualifiés qui possèdent des aptitudes supérieures à la capacité de leur employeur à les diriger.
+[16] Au surplus, la notion de contrôle n’est pas nécessairement absente du contrat de services. Elle y apparaît généralement quoique, un peu d’ailleurs comme dans le contrat de travail, à des degrés variables, qui peuvent être toutefois surprenants en termes d’ampleur, sans que le contrat d’entreprise ne soit dénaturé pour autant. Par exemple, un contrôle quant aux lieux en général et quant aux endroits spécifiques où les travaux doivent être exécutés s’exerce sur les entrepreneurs généraux et leurs sous‑traitants. Ces derniers se voient également remettre des spécifications quant aux matériaux ainsi que des plans et devis auxquels ils doivent se conformer. Les heures et horaires de travail des uns par rapport aux autres sont aussi souvent contrôlés et déterminés afin d’assurer une progression efficace et harmonieuse du chantier. Les travaux effectués par contrat de services sont aussi soumis à des contrôles d’exécution, de productivité et de qualité.
+[...]
+[28] Ceci m’amène à examiner l’intention des parties afin de déterminer la relation globale qu’elles désiraient entretenir entre elles.
+d) l’intention des parties
+[29] Il n’y a pas en l’espèce, comme c’est souvent le cas en semblables matières, de convention écrite, ce qui, de toute évidence, rend la recherche de l’intention plus difficile, mais pas nécessairement impossible.
+[...]
+[31] Du côté des travailleurs, rien n’indique qu’ils considéraient le demandeur comme leur employeur. La Cour canadienne de l’impôt a noté le fait que ces travailleurs ne se sont pas opposés à ce que leur emploi soit déclaré un emploi assurable, inférant de cela qu’ils se considéraient comme des employés. Or, les trois travailleurs ont témoigné lors de l’audition de l’appel de cotisation fait par le demandeur et aucun n’a déclaré s’être considéré un employé du demandeur. Peut‑être tout aussi significatif et révélateur de leur intention au moment où l’entente est intervenue avec le demandeur est le fait que ces trois travailleurs ne se sont jamais plaints au ministre quant à l’assurabilité de leur travail et n’ont jamais demandé que celui‑ci soit déclaré un emploi assurable : ils se considéraient comme des travailleurs indépendants et croyaient que c’est à ce titre qu’ils avaient transigé avec le demandeur.
+[15] Il faut bien sûr reconnaître qu’une disposition précise du Code civil du Québec s’appliquait dans certaines affaires susmentionnées. Il est néanmoins intéressant de noter les principes qui y sont énoncés par rapport aux affaires régies par la common law. La question de l’intention a également été examinée dans l’arrêt Wolf v. Canada, 2002 DTC 6853, où le juge Noël a dit ce qui suit, à la page 6870 :
+[122] J’accueillerais aussi l’appel. À mon avis, il s’agit d’un cas où la qualification que les parties ont donnée à leur relation devrait se voir accorder un grand poids. Je reconnais que la façon dont les parties décident de décrire leur relation n’est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l’autre direction. Mais, dans une issue serrée comme en l’espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l’intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté.
+[16] Quant à l’intention, M. Coles ne voulait de toute évidence pas que les peintres soient des employés. M. Coles considérait les peintres comme des entrepreneurs indépendants et il n’y a rien dans la façon dont il a traité avec eux qui soit incompatible avec cette intention. De fait, le seul témoin cité par l’intimé, M. Martin Zinger, cherchait un travail, quel qu’il soit. Il a accepté des travaux de peinture offerts par l’appelante. Il fournissait ses propres outils et il facturait l’appelante; il était rémunéré à la fin des travaux. M. Zinger a déclaré qu’il se considérait comme un sous‑traitant ou comme un travailleur autonome, et qu’il ne s’est jamais considéré comme un employé. Il croyait pouvoir à sa guise accepter d’autres travaux et il cherchait du travail supplémentaire lorsque ses services n’étaient pas retenus par l’appelante. D’après le témoignage de M. Coles, le cas de M. Zinger représentait bien la situation pour tous les peintres. De fait, M. Coles a déclaré que depuis que la décision ici en cause a été rendue, il a eu de la difficulté à trouver des peintres parce que personne ne veut être un employé.
+[17] Le critère des chances de bénéfice ou des risques de perte est lié à la question de savoir si le travailleur exploite sa propre entreprise. La chose a été mentionnée dans l’arrêt Sagaz, au paragraphe 44, où la Cour suprême du Canada a repris le passage de l’arrêt Wiebe Door, dans lequel est cité le jugement rendu par le juge Cooke dans l’affaire Market Investigations v. Minister of Social Security, [1968] 3 All E.R. 732. Il s’agit du passage suivant :
+[44] Selon le juge MacGuigan, c’est le juge Cooke qui a fait la meilleure synthèse du problème dans la décision Market Investigations, Ltd. c. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), p. 737‑738 (suivie par le Conseil privé dans l’arrêt Lee Ting Sang c. Chung Chi‑Keung, [1990] 2 A.C. 374, lord Griffiths, p. 382) :
+[TRADUCTION] Les remarques de LORD WRIGHT, du LORD JUGE DENNING et des juges de la Cour suprême des États‑Unis laissent à entendre que le critère fondamental à appliquer est celui‑ci : « La personne qui s’est engagée à accomplir ces tâches les accomplit‑elle en tant que personne à son compte? » Si la réponse à cette question est affirmative, alors il s’agit d’un contrat d’entreprise. Si la réponse est négative, alors il s’agit d’un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n’a été dressée, peut‑être n’est‑il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l’importance relative qu’il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu’on peut dire, c’est qu’il faudra toujours tenir compte du contrôle même s’il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s’il engage lui‑même ses aides, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion, et jusqu’à quel point il peut tirer profit d’une gestion saine dans l’accomplissement de sa tâche. [Je souligne.]
+[18] À coup sûr, les peintres ont des chances de réaliser des bénéfices et ils risquent de subir des pertes. Ils négocient les modalités d’emploi, y compris le taux horaire et le délai d’exécution. Si le travail ne se concrétisait pas, ils n’étaient pas rémunérés et de fait si l’appelante n’était pas payée, les peintres ne l’étaient pas non plus. Ils obtenaient du travail de l’appelante si M. Coles les appelait. Ils pouvaient à leur gré accepter un travail ou le rejeter. M. Coles pouvait de son côté appeler un peintre particulier comme il le jugeait bon.
+[19] Quelle est la situation générale? À coup sûr, un certain nombre d’entrepreneurs indépendants exploitant leur propre entreprise travaillaient parfois pour l’appelante lorsqu’elle exécutait des travaux dans un hôtel; ils cherchaient par ailleurs du travail et travaillaient pour toute autre personne qui était prête à leur offrir du travail.
+[20] À mon avis, cette cause est au moins aussi forte et peut‑être même plus forte que l’affaire Precision Gutters Ltd. c. M.R.N., 2002 CAF 207, dans laquelle la Cour d’appel fédérale a annulé une décision rendue par la présente cour et a statué que les installateurs de gouttières étaient des entrepreneurs indépendants. Les passages suivants indiquent bien ce qu’il en est :
+[3] L’entreprise de Precision consiste à fabriquer et à installer des gouttières. Precision paye des poseurs pour faire du travail d’installation et le litige consiste à savoir si ces poseurs sont des employés ou des entrepreneurs indépendants.
+[4] Precision négociait les contrats avec les clients puis elle embauchait les poseurs afin d’effectuer le travail. Les poseurs n’étaient pas toujours certains d’avoir du travail. Precision n’avait aucun droit aux services exclusifs de l’un ou l’autre des poseurs et ceux‑ci travaillaient pour d’autres sociétés d’installation de gouttières sans informer Precision. Par conséquent, un poseur pouvait refuser du travail au motif que la distance était trop grande et que le revenu brut n’était pas assez élevé pour que cela en vaille la peine.
+[5] Les poseurs pouvaient travailler seuls mais le plus souvent ils travaillaient deux par deux. De plus, les poseurs pouvaient disposer d’un assistant. Precision offrait un montant pour chaque contrat et les poseurs négociaient entre eux pour établir l’allocation convenable des paiements et ils payaient leurs propres assistants. Par conséquent Precision émettait parfois un chèque à une seule personne qui, elle, payait le reste de l’équipe. Parfois, Precision émettait de nombreux chèques à chaque membre de l’équipe selon les conseils des membres de l’équipe. Afin de se faire payer, le poseur devait présenter une facture à Precision.
+[6] Les contrats étaient payés d’après un montant par pied. Dans environ 70 à 80 p. 100 des cas, les poseurs acceptaient le montant du contrat offert par Precision. Dans environ 20 à 30 p. 100 des cas, les poseurs négociaient avec Precision le montant du contrat.
+[7] Precision possède cinq machines à fabriquer du profil de gouttière qui sont capables de donner la forme requise aux matériaux. Un certain nombre de poseurs possèdent leur propre machine à fabriquer du profil de gouttière. D’autres utilisent les machines de Precision. Les poseurs possèdent leurs propres instruments de travail (ayant généralement une valeur d’environ 2 000 $). Precision fournit les gouttières en aluminium utilisées dans la pose.
+[8] Généralement, un poseur allait chercher la machine à fabriquer du profil de gouttière et le reste de l’équipe se rendait directement sur le chantier. Precision avisait les poseurs des occasions d’emploi en affichant des avis dans les locaux de l’entreprise du principal fournisseur de matériaux.
+[9] Les poseurs ne travaillaient pas en fonction d’un échéancier précis, malgré que les emplois ne duraient normalement pas plus de deux jours. Le travail n’était pas surveillé et le travail n’était pas examiné.
+Les ressemblances entre les deux affaires sont évidentes. Je ne me propose pas de citer d’autres passages de cette décision si ce n’est le paragraphe 30 :
+[30] Ce que le juge de la Cour de l’impôt a omis de considérer, c’est que dans l’affaire en instance, il y a pu y avoir deux entreprises, une du côté de Precision et une autre entreprise du côté des poseurs. La question ne consiste pas à se demander [traduction] « à qui appartient l’entreprise » mais plutôt si [traduction] « la personne qui s’est engagée à accomplir ces tâches les accomplit en tant que personne dans les affaires à son compte ». Poser la question dans la forme énoncée par le juge de la Cour de l’impôt équivaut peut‑être à suggérer qu’il n’y a qu’une seule entreprise. Clairement, il peut y avoir, et en l’instance, il y avait, deux entreprises : la fabrication de gouttières et la pose de gouttières.
+[21] Selon tous les critères énoncés dans l’arrêt Wiebe Door, tels qu’ils ont été examinés dans l’arrêt Precision Gutters, ainsi que selon le critère d’intention récemment énoncé dans l’arrêt Poulin, les peintres étaient clairement des entrepreneurs indépendants. Je ne vois pas pourquoi il faudrait les désigner individuellement. L’avocate a soutenu qu’étant donné que ces peintres n’étaient pas tous désignés expressément dans l’avis d’opposition, la présente cour n’a pas compétence pour examiner le cas des peintres dont le nom ne figurait pas dans l’avis d’opposition. Avec égards, je ne suis pas d’accord.
+[22] Lorsqu’un appel est interjeté, la présente cour est autorisée à examiner l’évaluation dans son ensemble. Il serait déplorable qu’un plaideur qui n’est pas représenté dans un appel régi par la procédure informelle soit complètement débouté ou en partie débouté parce que, dans son avis d’opposition, il n’a pas mentionné toutes les personnes visées par l’évaluation. La Loi sur l’assurance-emploi et le Régime de pensions du Canada n’exigent pas que l’on donne ce genre de précisions dans un avis d’opposition, pas plus que la Loi de l’impôt sur le revenu n’exige que certaines précisions soient fournies dans un avis d’opposition (sauf dans le cas des grandes sociétés).
+[23] Un autre groupe de travailleurs travaillaient dans le magasin de matériel informatique ou dans le magasin de matériel de peinture. Ils étaient rémunérés à l’heure et ils travaillaient sous la supervision directe constante du gérant du magasin. Il n’a pas sérieusement été plaidé qu’ils n’étaient pas des employés. Je conclus qu’il s’agissait d’employés.
+[24] Enfin, un autre travailleur, un artiste qui s’appelait Martin, s’est présenté au travail, pour reprendre l’expression employée par M. Coles, [traduction] « complètement gelé ». M. Coles lui a remis un montant de 50 $ pour qu’il s’en aille. Je doute que ce travailleur ait fait partie d’une catégorie ou de l’autre. Il s’agissait de toute évidence d’un homme indépendant, et peut‑être trop, mais on ne peut pas dire qu’il travaillait comme entrepreneur. Il s’agissait plutôt d’un bohème qui n’a fait que passer.
+[25] Les appels sont accueillis et les évaluations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle évaluation selon ces motifs.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2005.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 9e jour de février 2006.
+Sara Tasset
+RÉFÉRENCE :
+2005CCI80
+Nos DES DOSSIERS DE LA COUR :
+2004‑1859(EI)
+2004‑1860(CPP)
+INTITULÉ :
+825209 Alberta Ltd. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATES DES AUDIENCES :
+Les 10 et 11 janvier 2005
+MOTIFS DU JUGEMENT :
+L’honorable D.G.H. Bowman, juge en chef adjoint
+DATE DU JUGEMENT ET MOTIFS DU JUGEMENT :
+Le 31 janvier 2005
+COMPARUTIONS :
+Représentant de l’appelante :
+M. William G. Coles
+Avocate de l’intimé :
+Me Galina M. Bining
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Adresse :
+Boîte 826
+Three Hills (Alberta)
+T0M 2A0
+Pour l’intimé :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

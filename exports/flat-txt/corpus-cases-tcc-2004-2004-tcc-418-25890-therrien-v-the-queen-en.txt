@@ -1,0 +1,204 @@
+Title: Therrien v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25890/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-418-25890-therrien-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-06-10
+
+# Therrien v. The Queen
+
+- Citation: 2004 TCC 418
+- Decision date: 2004-06-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3719, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Therrien v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-10
+Neutral citation
+2004 TCC 418
+File numbers
+2003-4133(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4133(IT)I
+BETWEEN:
+NORMAN THERRIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 20, 2004, at Victoria, British Columbia,
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Toronto, Ontario, this 10th of June, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+Docket: 2003-4134(IT)I
+BETWEEN:
+NORLUX CONSTRUCTION LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 20, 2004, at Victoria, British Columbia,
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+Agent for the Appellant:
+Norman Therrien
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed.
+Signed at Toronto, Ontario, this 10th of June, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2004TCC418
+Date: 20040610
+Docket: 2003-4133(IT)I
+2003-4134(IT)I
+BETWEEN:
+NORMAN THERRIEN and
+NORLUX CONSTRUCTION LTD.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] The appeals of Norman Therrien and Norlux Construction Ltd. were heard sequentially with certain common evidence applying to both appeals.
+Norlux
+[2] The Appellant, Norlux Construction Ltd., was incorporated on March 5, 1985. Its business included both the construction of new homes as well as renovations and additions. Norman Therrien was the sole shareholder, director and president of Norlux.
+[3] In computing income for the 2000 and 2001 taxation years, Norlux (i) deducted the amount of $2,545.86 with respect to the write-off of a loan recorded as owing by Barbara Therrien, mother of the Appellant, Norman Therrien; and (ii) deducted wages for Brittany and Cody, the children of its shareholder, Therrien, plus related worker's compensation payments and employment insurance premiums totalling $13,193 and $13,038, respectively. Both deductions were denied by the Minister of National Revenue.
+Barbara's Debt
+[4] In 2001, Barbara Therrien had an outstanding balance of $3,945.86 with Holt Renfrew. By cheque dated January 9, 2001, Norlux paid the Holt Renfrew account at the direction of the shareholder, Therrien. Norlux recorded the payment of this balance as a receivable from her. Seven payments totalling $1,400 were made by her towards the outstanding amount of the debt. Barbara Therrien passed away on September 7, 2001 and in that year, Therrien directed Norlux to write off the outstanding amount as a bad debt. This was done on December 31, 2001. No effort was made by Norlux at any time to collect the balance due and owing.
+[5] Norlux's position is that, in addition to its construction business, it carried on a money-lending business and that the loan to Barbara Therrien was made in the ordinary course of its business. Therrien produced the following list of all of the loan transactions of Norlux:
+(a) a loan of $150,0000 secured by a promissory note in 1990 which was repaid in 1994;
+(b) a $120,000 loan to a Mr. Evans secured by a first mortgage. This loan appears to have been paid in 1995;
+(c) a $103,000 loan to a numbered B.C. company secured by a first mortgage. This loan was paid in 2003; and
+(d) a $60,000 loan to A & R Allder secured by a first mortgage. This loan was repaid in 2003.
+The only other item in this schedule was the purported $3,950 loan to B. Therrien, with the following comment: "interest at prime with payments of principal only payable monthly".
+Analysis
+[6] Is Norlux entitled to deduct Barbara Therrien's debt? Paragraph 20(1)(p) of the Income Tax Act provides for the deduction of losses incurred through the uncollectibility of accounts or loans receivable which arose in the ordinary conduct of a taxpayer's business. In Whitland Construction Company Limited v. The Queen.,[1] the Court set out the following elements that must be satisfied to permit deductibility under paragraph (20)(1)(p):
+4 It is common ground for the requirements of this provision that the following four conditions must be satisfied:
+1. There must be a loan;
+2. The loan must have been made "in the ordinary course of business";
+3. By a taxpayer (who was an insurer or) "whose ordinary business included the lending of money"; and
+4. The loan must be established by the taxpayer to have become uncollectible in the year.
+[7] Therrien testified that Norlux benefited from the loan to his mother in that he intended to charge her interest at commercial rates. However this was not done. Furthermore, the evidence is clear that Norlux and Barbara Therrien did not document any terms of the loan and there is no evidence that the receivable generated any income for the Appellant and inadequate evidence to establish that the debt was uncollectible. Accordingly, it cannot be said that the funds were laid out by it for the purpose of earning income. It is not possible on the facts before me to conclude that the ordinary business of Norlux included the lending of money and that this particular debt was acquired in the ordinary course of that business. There is a substantial difference between carrying on business as a money lender and investing in the occasional mortgage loan for the purpose of earning income.
+[8] I have therefore concluded that Norlux conferred the benefit of Barbara Therrien's debt on her at the Appellant Therrien's direction and as a result, Norlux cannot deduct this amount under paragraph 20(1)(p) of the Act.
+Wage amounts paid to children
+[9] These amounts were paid by Norlux for duties which were described by Therrien as sweeping and cleaning Norlux's construction sites, loading and unloading tools from Therrien's vehicle, washing the vehicle, attending to mail runs and assisting in the filing of documents and so forth. Most of these duties were carried out at Norlux's construction sites and as a result, it would appear that the provincial statutes necessitated that there be constant parental supervision of the children. On December 31 in each of 2000 and 2001, Cody and Brittany were each paid $6,000 by the Appellant.[2] The evidence also discloses that the cheque issued to both children for the 2000 taxation year was not deposited in the children's bank accounts until June 25, 2001.
+[10] Brittany was born on September 12, 1990 and was ten years old in the taxation year in issue. Cody turned eight on December 28, 2000. Therrien testified that he maintained a record of the hours the children worked. However, it became apparent that the list produced, while it may have been more or less accurate with respect to the days, was a reconstruction by Therrien of the number of hours purportedly worked.[3] According to Therrien, the wages paid were consistent with the approximately $10 per hour Norlux would have had to pay to an arm's length employee performing similar duties.
+Relevant Legislation
+[11] Section 67 provides:
+67 In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+The test has generally been described to be whether a reasonable businessman having only the business consideration of the Appellant in mind would have contracted to pay such an amount. The onus is on the Appellant to establish reasonableness. I accept that the children performed various duties and provided assistance to Norlux under the supervision of their father. However, the Court is left to speculate as to the precise quantity, and quality, of work done, the value of such work and the value of all of the benefits received by the children such as transportation to and from the worksites, meals, etc. I note that the Appellant did not make a contemporaneous record of the work performed by the children, the hours claimed were totally unsupported and the estimate subsequently prepared by Therrien was at best marginally acceptable. These are not the type of records which would readily permit the Court to do much more than speculate as to the basis upon which the wages were calculated. On the evidence before me, I am unable to conclude that the amounts paid to the children were in any shape or form commensurate with the services purportedly rendered by them. In my view, they were in substantial excess of the amounts that would have been reasonable to pay the parties had the parties been acting at arm's length.
+[12] The Appellant Norlux had also sought interest relief on the basis of what it asserted to be double-taxation. During the course of the hearing, Therrien on behalf of Norlux, conceded that such relief may only be granted by the Minister pursuant to the provisions of subsection 220(3.1) of the Act.
+Norman Therrien
+[13] Therrien's appeal from the assessment of tax with respect to his 2001 taxation year relates to three items:
+(a) a taxable benefit of $2,546 (referred to as Barbara Therrien's debt);
+(b) standby charge of $4,588; and
+(c) an interest benefit on shareholder loan of $323.
+[14] As indicated in the Norlux reasons, the company wrote off the amount of $2,546 owing to it by Barbara Therrien as a bad debt. This benefit was conferred by Norlux at the Appellant Therrien's direction. Therrien disputes the inclusion of this amount on the grounds that Norlux was not permitted a deduction for the amount of the business loss which he said resulted during the normal course of its business. He further argued that if Norlux was not permitted the benefit of a deduction, the assessment of him personally effectively results in double taxation and is unfair.
+[15] The Respondent's position is that this debt was properly included in computing Therrien's income for the taxation year in issue pursuant to subsections 15(1) and 56(2) of the Act since the reasons that the payment of the Holt Renfrew balance and the write off of the payment by Norlux was made pursuant to the direction of Therrien as a benefit that he desired to have conferred on his mother, Barbara Therrien.
+[16] Subsection 56(2) of the Act invokes the principle of "constructive receipt" imputing to the taxpayer income diverted at his instance to someone else. This subsection provided that payments made to some other person at the direction or with the concurrence of the taxpayer are to be included in the taxpayer's income where such payments are for the benefit of the taxpayer or as a benefit that the taxpayer desires to have conferred on that other person.
+[17] The provisions of subsection 56(2) read:
+56(2) A payment or transfer of property made pursuant to the direction of, or with the concurrence of, a taxpayer to some other person for the benefit of the taxpayer or as a benefit that the taxpayer desired to have conferred on the other person (other than by an assignment of any portion of a retirement pension pursuant to section 65.1 of the Canada Pension Plan or a comparable provision of a provincial pension plan as defined in section 3 of that Act or of a prescribed provincial pension plan) shall be included in computing the taxpayer's income to the extent that it would be if the payment or transfer had been made to the taxpayer.
+In Fraser Companies, Limited v. The Queen,[4] Cattanach J. set out the following four preconditions that must be satisfied in order for subsection 56(2) to apply:
+(i) there must be a payment or transfer of property to a person other than the taxpayer;
+(ii) the payment or transfer is pursuant to or with the concurrence of the taxpayer;
+(iii) the payment or transfer must be for the taxpayer's own benefit or for the benefit of some other person on whom the taxpayer desired to have the benefit conferred; and
+(iv) the payment or transfer would have been included in computing the taxpayer's income if it had been received by him instead of the other person.
+The four elements necessary to invoke the above subsection have been satisfied in the present case because Therrien directed Norlux to write off the outstanding amount of Barbara's debt as a bad debt and thereby Norlux conferred the benefit of Barbara's debt on Barbara at Therrien's direction. The relevant provision of the Act clearly invokes the principal of constructive receipt in subsection 56(2) and accordingly, the benefit was properly imputed back to the Appellant Therrien.
+Standby Charge
+[18] On January 10, 2001, Therrien's wife Sylvia entered into an contract to purchase a 2000 GMC Jimmy (the vehicle) for $32,879. She traded in her own 1991 Nissan for the purchase of the vehicle. By cheque dated January 10, 2001, Norlux paid $29,505.57 towards the purchase of the vehicle. By agreement dated January 11, 2001 between Sylvia and Norlux, Sylvia assigned her interest as the purchaser of the vehicle to Norlux. On January 12, 2001, Sylvia and Norlux executed a lease agreement for the vehicle to her. The monthly payments payable for the lease were $345.54 plus goods and services tax of $24.19. At all relevant times, the vehicle was used by Sylvia for her own proprietorship and not for Norlux, and she paid costs incurred for its operation.
+[19] In assessing the Appellant in taxation year 2001, a standby charge respecting the vehicle in the amount of $4,588.32 was calculated on the following basis:
+Purchase Price
+$32,879.00
+Taxes and fees
+2,105.68
+Documentation fees
+99.00
+Undercoat/hitch
+1,410.26
+Total cost
+$36,493.94
+Standby charges $36,493.94 x 2% x 12 months
+$8,734.80
+Less: lease from Sylvia Therrien for the year
+4,146.48
+Standby charges for the year
+$4,588.32
+[20] The Respondent's position is that the standby charge was properly included in computing Therrien's income for the 2001 taxation year pursuant to subsections 15(1) and 15(5) of the Act on the basis that Norlux provided the vehicle to Sylvia, a person related to the Appellant, a shareholder of Norlux. The relevant subsections state:
+15(1) Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by
+(a) the reduction of the paid-up capital, the redemption, cancellation or acquisition by the corporation of shares of its capital stock or on the winding-up, discontinuance or reorganization of its business, or otherwise by way of a transaction to which section 88 applies,
+(b) the payment of a dividend or a stock dividend,
+(c) conferring, on all owners of common shares of the capital stock of the corporation at that time, a right in respect of each common share, that is identical to every other right conferred at that time in respect of each other such share, to acquire additional shares of the capital stock of the corporation, and, for the purpose of this paragraph,
+(i) where
+(A) the voting rights attached to a particular class of common shares of the capital stock of a corporation differ from the voting rights attached to another class of common shares of the capital stock of the corporation, and
+(B) there are no other differences between the terms and conditions of the classes of shares that could cause the fair market value of a share of the particular class to differ materially from the fair market value of a share of the other class,
+the shares of the particular class shall be deemed to be property that is identical to the shares of the other class, and
+(ii) rights are not considered identical if the cost of acquiring the rights differs, or
+(d) an action described in paragraph 84(1)(c.1), (c.2) or (c.3),
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+15(5) For the purposes of subsection (1), the value of the benefit to be included in computing a shareholder's income for a taxation year with respect to an automobile made available to the shareholder, or a person related to the shareholder, by a corporation shall (except where an amount is determined under subparagraph 6(1)(e)(i) in respect of the automobile in
+computing the shareholder's income for the year) be computed on the assumption that subsections 6(1), (1.1), (2) and (7) apply, with such modifications as the circumstances require, and as though the references therein to "the employer of the taxpayer", "the taxpayer's employer" and "the employer" were read as "the corporation".
+[21] Subsection 15(1) deals with what may be considered to be a distribution to a shareholder of part of the accumulated assets of a corporation. It requires the amount or value of any benefit conferred by the corporation on its shareholder to be included in computing the income tax of the shareholder, subject to certain exceptions which do not apply here. The purpose of subsection 15(5) is to impute a taxable benefit in respect of an automobile made available by a corporation to its shareholder or a person related to such shareholder. Subsection 15(5) provides that the rules applicable to employees for purposes of calculating the taxable benefit derived from the personal use of an employer-provided automobile are applicable to a shareholder where the latter is provided with an automobile by a corporation. On balance, I conclude that Norlux did in fact confer a benefit on the Appellant in respect of the automobile standby charges in operating costs and for that reason, the Appellant cannot succeed on this issue.
+Interest Cancellation
+[22] The Appellant Therrien also seeks an order directing that interest charges in the amount of $178.44 be waived. He maintains that the reassessments including interest were paid when requested even though all of the amounts are under dispute. The plain answer to that request is that the Court cannot provide the interest relief sought by the Appellant as only the Minister may, in his discretion, waive or cancel all or any portion of any interest otherwise payable under subsection 220(3.1) of the Act.
+Signed at Toronto, Ontario, this 10th of June, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2004TCC418
+COURT FILE NO.:
+2003-4133(IT)I and 2003-4134(IT)I
+STYLE OF CAUSE:
+Norman Therrien and Norlux Construction Ltd. and Her Majesty the Queen
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+May 20, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+June 10, 2004
+APPEARANCES:
+For the Appellants:
+Norman Therrien
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 99 DTC 33.
+[2] The actual amount shown on the cheques was $5,856 which would appear to reflect the deductions for worker's compensation and employment insurance premiums. No other explanation was provided.
+[3] Exhibit A, Tabs 9 and 10.
+[4] 81 DTC 5051.

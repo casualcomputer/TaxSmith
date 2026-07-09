@@ -1,0 +1,118 @@
+Title: Kewcorp Financial Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28956/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-598-28956-kewcorp-financial-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-11-10
+
+# Kewcorp Financial Inc. v. M.N.R.
+
+- Citation: 2008 TCC 598
+- Decision date: 2008-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1397, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kewcorp Financial Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-10
+Neutral citation
+2008 TCC 598
+File numbers
+2007-3845(CPP)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2007-3845(CPP)
+BETWEEN:
+KEWCORP FINANCIAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+JAMES KEW,
+Intervenor.
+____________________________________________________________________
+Appeal heard on October 7, 2008, at Edmonton, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+James Kew
+Counsel for the Respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed in accordance with the attached Reasons for Judgment and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2008TCC598
+Date: 20081110
+Docket: 2007-3845(CPP)
+BETWEEN:
+KEWCORP FINANCIAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+JAMES KEW,
+Intervenor.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] Kewcorp Financial Inc. appeals the decision of the Minister of National Revenue (the Minister) that James Kew was engaged by it in pensionable employment for the 2005 year.
+Facts
+[2] James Kew caused the Appellant to be incorporated in 1998. In 2005 he was its president, director and sole shareholder. The Appellant operated a financial planning business which included insurance, mortgage services, financial planning and tax preparation. James Kew performed all the duties necessary to operate the Appellant. It is his position that he was engaged by the Appellant as a self-employed person, an independent contractor.
+[3] Prior to incorporating the Appellant, James Kew provided the same services as the Appellant but as a sole proprietor. He operated under the name “James Kew Financial Services” and he had been in business since 1979. He is a financial planner and has received his accreditation as a Certified Senior Advisor (CSA) and a Personal Financial Planner (PFP).
+[4] According to the Notice of Appeal, the duties performed by James Kew for the Appellant were marketing, planning, administration, accounting, preparation and prospecting. James Kew testified that he performed these duties as an independent contractor and received commissions for his services. He decided the amount of his commissions and when he would receive his commissions in accordance with the Appellant’s ability to pay. In 2005 he received $65,459.92 as commissions and $20,000 as a dividend. He reported these amounts in his income tax return.
+[5] James Kew stated that all clients of James Kew Financial Services remained his personal clients whereas any clients acquired since the Appellant was incorporated were the Appellant’s clients. All financial planning services were provided personally by James Kew.
+[6] James Kew owned the office space where the Appellant carried on its business. The Appellant paid rent to him. During the period, the Appellant leased its computer and James Kew was both a co-lessee and a guarantor on the lease. It was necessary for James Kew to have a vehicle to perform his work and he supplied his own as the Appellant did not own a vehicle.
+[7] James Kew’s hours of work for the Appellant were flexible and were determined by him. He determined when he would work for the Appellant and when he would work for his other clients. He did not have a benefit plan, sick leave, or paid vacation from the Appellant.
+Analysis
+[8] It was clearly established by the parties that they intended James Kew to be an independent contractor. The question is whether the facts are consistent with the parties’ intention[1]. The facts must be analyzed, using the traditional factors from Wiebe Door, to determine whether the facts are consistent with that intent.[2]
+[9] In this situation where the worker is also the sole shareholder, director and officer of the Appellant it is important in applying the tests from Wiebe Door Services Ltd. v. Minister of National Revenue[3] not to pierce the corporate veil[4]. There was no assumption by the Minister that a sham existed. In fact, as in Zupet v. Minister of National Revenue[5], the Minister has assessed the Appellant on the basis that a contract of service existed between the Appellant and its shareholder, James Kew.
+[10] One of the assumptions made by the Minister in the Reply was that James Kew was not operating his own business while performing services for the Appellant. The evidence tendered by the Appellant undoubtedly rebuts this assumption. James Kew operated his own business under the name James Kew Financial Services. He personally received payments from AIG Life Insurance of Canada, a client he has had since the early 1980’s. He and the Appellant are each licensed by the Alberta Insurance Council to transact insurance business. James Kew Financial Services is listed in the Yellow Pages. James Kew Financial Services and the Appellant each have their own Visa card. According to the uncontradicted evidence of James Kew, he has his other clients in addition to the Appellant.
+[11] James Kew had a chance of profit and a risk of loss. If the Appellant’s business made income this was reflected in the business James Kew obtained from the Appellant. James Kew determined the Appellant’s business and thus the income he received from the Appellant. If the Appellant’s business was slow, then James Kew had other clients from whom he earned income.
+[12] James Kew stated that he hired other contractors to perform duties for the Appellant. In 2005, he hired his son Scott Kew who worked as an independent contractor with the Appellant for two weeks. I have assumed that James Kew was acting in his capacity as President or director of the Appellant when he hired his son, as Scott Kew billed the Appellant at the rate of $20/hour and was paid by cheque by the Appellant.
+[13] Did the Appellant control or have the right to control how the worker carried out his duties? Technically it could. It is difficult to apply the control test to the facts of this case where the worker is also the sole shareholder, sole director and President of the Appellant. However, that does not mean that I can ignore this factor or that it must be decided that the worker was an employee[6].
+[14] James Kew’s hours of work with the Appellant were flexible and were determined by him. He did not have any of the indicia of an employee. He had no benefits; he did not receive sick leave or vacation pay. He did not receive his commissions on a regular basis.
+[15] As stated above the Appellant leased its office space from James Kew. In 2005 the annual rent was $8,400. James Kew was both co-lessee and guarantor on the lease of the computer used by him and the Appellant. He supplied his own vehicle in the performance of his duties for the Appellant and for James Kew Financial Services. He advertised the business of James Kew Financial Services and he paid for these advertisements. The Appellant’s business was advertised separately and paid for by the Appellant. He purchased his own licences to sell life, accident and sickness insurance. He belonged to the Academy of Senior Advisors and he paid for this membership. James Kew paid for training he received. In particular, in 2005 he followed and paid for a course from The Financial Advisors Association of Canada Education Program.
+[16] The application of the tests from Wiebe Doors has satisfied me that the facts of this case are consistent with the parties’ intention; that is, a contract for services existed.
+[17] Based on the evidence I am satisfied that the Appellant has successfully shown that the Minister’s assessment was incorrect. James Kew was an independent contractor.
+[18] The appeal is allowed.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+“V.A. Miller”
+V.A. Miller,
+CITATION: 2008TCC598
+COURT FILE NO.: 2007-3845(CPP)
+STYLE OF CAUSE: KEWCORP FINANCIAL INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: October 7, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: November 10, 2008
+APPEARANCES:
+Agent for the Appellant:
+James Kew
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Royal Winnipeg Ballet v. The Minister of National Revenue, 2006 FCA 87 at paragraph 64
+[2] Ibid, at paragraph 67; Vida Wellness Corp. v. Minister of National Revenue, [2006] T.C.J. 570 at paragraph 17
+[3] [1986] 3 F.C. 553 (FCA)
+[4] Meredith v. R., [2002] 3 C.T.C. 519 (FCA)
+[5] Zupet v. Minister of National Revenue, 2005 TCC 89
+[6] 76750 Alberta Ltd. v. Minister of National Revenue, 2007 TCC 149

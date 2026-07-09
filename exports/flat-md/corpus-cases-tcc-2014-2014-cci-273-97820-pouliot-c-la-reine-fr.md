@@ -1,0 +1,334 @@
+---
+title: "Pouliot c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/97820/index.do"
+last_modified: "2014-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 273"
+citation2: ""
+neutral_citation: "2014 CCI 273"
+decision_date: "2014-09-30"
+language: "fr"
+item_id: "97820"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5170
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:44:05.561000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c94f8c537cc63a38dab170cf0c1349d2dc1a68afa8ee86c6b80bc8905d963ca3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pouliot c. La Reine
+
+- Citation: 2014 CCI 273
+- Decision date: 2014-09-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5170, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pouliot c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-09-30
+Référence neutre
+2014 CCI 273
+Numéro de dossier
+2011-2481(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2481(IT)G
+ENTRE :
+JEAN-CLAUDE POULIOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 12 décembre 2013, à Québec (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001, 2002 et 2003 sont accueillis et le tout est renvoyé au ministre pour nouvel examen et nouvelles cotisations sur la base :
+- que les revenus de l’appelant devront être diminués des montants suivants :
+2000
+2001
+2002
+2003
+Chèques sans fonds (DT)
+-13 538,21 $
+-15 504,32 $
+-27 277,00 $
+-12 762,78 $
+Remb. GUICHET AMT
+-213,60 $
+-5 936,30 $
+-1 679,00 $
+- que l’appelant a reçu les avantages imposables suivants :
+Avantage imposable
+21 471 $
+23 026 $
+19 689 $
+aucun
+Les frais sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 30e jour de septembre 2014.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2014 CCI 273
+Date : 20140930
+Dossier : 2011-2481(IT)G
+ENTRE :
+JEAN-CLAUDE POULIOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+Contexte [1] La vérification des dossiers de l’appelant effectuée par l’Agence du revenu du Québec à l’égard des années d’imposition 2000, 2001, 2002 et 2003 a fait suite à deux enquêtes ouvertes par la Sûreté du Québec (« SQ »). La première enquête était relative à la tenue d’une maison de débauche et la seconde a fait suite à une plainte d’un citoyen contre l’appelant quant à des prêts usuraires. Quant à la première enquête, une ordonnance de blocage a été rendue, et quant aux prêts usuraires, aucune mise en accusation n’a été déposée à l’encontre de l’appelant.
+[2] Lors de l’audience, M. Gadreau, responsable de la vérification des dossiers fiscaux de l’appelant, a expliqué pourquoi il a utilisé la méthode de vérification « alternative » axée sur les dépôts.
+[3] M. Gadreau a indiqué qu’il a eu recours à la méthode de vérification axée sur les dépôts puisque l’appelant ne tenait pas de registres comptables pour ses entreprises personnelles. De plus, les montants et le nombre élevé de dépôts dans les comptes bancaires de l’appelant ne concordaient pas avec les revenus déclarés par l’appelant. Le milieu d’affaires dans lequel l’appelant exerçait ses activités a aussi incité M. Gadreau à utiliser une méthode « alternative » de vérification.
+[4] Durant les années en litige, l’appelant était l’unique actionnaire et administrateur de la société 2320-7459 Québec inc. (« 2320 »). Durant l’année d’imposition 2003, il était aussi actionnaire et administrateur de 3098-1211 Québec inc. (« 3098 »)
+[5] La société 2320 exploitait une entreprise de transport, ainsi qu’un bar de danseuses à Saint-Henri-de-Lévis, et effectuait des prêts à des particuliers. La société 3098 exploitait un bar de danseuses à Shawinigan.
+[6] À titre personnel, l’appelant possédait un immeuble locatif à Sainte-Anne‑de‑Beaupré et effectuait des prêts d’argent et était employé des sociétés 2320 et 3098.
+[7] En vertu du paragraphe 490 (15) du Code Criminel, M. Gadreau a obtenu les documents que les policiers de la SQ avaient saisis lors de perquisitions. Les documents étaient composés de factures, de talons de chèques, et de contrats relatifs à l’entreprise de transport exploitée par la société 2320. Des documents se rapportant aux prêts effectués par la société 2320 ont aussi été obtenus ainsi que des documents relatifs aux prêts effectués par l’appelant à des particuliers. Il s’agissait de tableaux mensuels indiquant le nom du particulier, la date du prêt, l’intérêt versé et les paiements effectués et le solde à payer. Cependant, seulement les documents relatifs aux années d’imposition 2002 et 2003 ont été obtenus en ce qui a trait aux prêts faits par l’appelant à des particuliers.
+[8] En ce qui a trait à la société 2320, M. Gadreau a indiqué que à la suite d’une rencontre avec le comptable de l’appelant, il a eu accès à la comptabilité complète de cette société pour l’année 2003. Cependant, aucun document n’était disponible pour les autres années. M. Gadreau a aussi obtenu les relevés bancaires de l’appelant.
+[9] Vers la fin de l’audience, l’avocate de l’intimée a déposé le document suivant sous la cote I-5 :
+NOM :
+POULIOT JEAN CLAUDE
+N.A.S. :
+XXX-XXX-XXX
+PÉRIODE :
+2000-01-01 AU 2003-12-31
+2000
+2001
+2002
+2003
+REVENUS DÉCLARÉS
+Emploi (brut)
+29 039,00
+31 168,00
+24 180,00
+16 989,00
+Moins : Déductions à la source
+-3 735,00
+-3 875,00
+-2 536,00
+-2 002,00
+Intérêts
+400,00
+3 870,00
+4 800,00
+Location (brut)
+2 000,00
+Entreprises (brut)
+7 610,00
+Autres (R.e.e.r.)
+32 151,00
+3 120,00
+Dividendes provenant de 2320-7459 Qué. inc.
+12 500,00
+59 855,00
+31 163,00
+34 144,00
+30 517,00
+REVENUS PAR VÉRIFICATION
+RELEVÉ DES DÉPÔTS
+275 545,58
+408 028,51
+341 976,11
+196 028,61
+DÉDUIRE :
+Virements
+-50 310,73
+-79 127,66
+-30 326,98
+-32 283,14
+Dépôts marge
+-4 858,89
+Emprunt
+-13 000,00
+Chèques sans fonds (DT)
+-13 538,21
+-15 504,32
+-27 277,00
+-12 762,78
+Remb GUICHET AMT
+-213,60
+-5 936,30
+-1 679,00
+Remb. Des prêts par des particuliers
+(montants identifiés)
+-167 633,50
+-61 900,74
+206 837,75
+313 182,93
+97 802,33
+87 402,95
+ÉCARTS :
+146 982,75
+282 019,93
+63 658,33
+56 885,95
+Revenu non déclaré
+118 011,75
+251 493,93
+36 469,33
+49 914,95
+Avantage imposable
+28 971,00
+30 526,00
+27 189,00
+6 971,00
+146 982,75
+282 019,93
+63 658,33
+56 885,95
+[10] La pièce I-5 fait état des montants déclarés par l’appelant pour les années en litige. Le document indique aussi l’écart entre ce que l’appelant a déclaré à titre de revenu et le résultat de la méthode de vérification axée sur les dépôts.
+[11] Sommairement, la méthode de vérification axée sur les dépôts consiste à additionner tous les dépôts et à en soustraire tous les montants n’étant pas du revenu, soit, dans le cas de l’appelant, les virements, les dépôts faits en utilisant la marge de crédit, ainsi que les emprunts qu’il a contractés au cours des années en litige. Le résultat obtenu est le revenu que le contribuable aurait dû déclarer selon cette méthode.
+[12] La pièce I-5 fait aussi état des concessions faites par l’avocate de l’intimée à la suite du témoignage de l’appelant. La première concession vise les chèques sans provision qui furent inclus dans les dépôts de l’appelant. La deuxième concession est relative aux dépôts directs de Loto-Québec dans un des comptes bancaires de l’appelant.
+[13] On voit aussi, à la pièce I-5, qu’un avantage imposable a été conféré à l’appelant dans les années d’imposition en litige. Selon M. Gadreau, l’appelant a reçu de 3098 des montants à des fins personnelles.
+[14] On constate à la pièce I-5, que les revenus de l’appelant sont beaucoup plus élevés pour les années 2000 et 2001. Cela s’explique par l’absence de preuve, l’appelant n’a pas démontré lors de la vérification qu’il avait reçu des paiements durant les années 2000 et 2001 relativement aux prêts qu’il avait effectués à des particuliers. Par conséquent, pour les années 2000 et 2001, à la différence des années 2002 et 2003, M. Gadreau n’a pas été en mesure de réduire les revenus de l’appelant en conséquence.
+[15] Il a été établi en preuve que Me Boutin, l’avocate de l’intimée, a demandé à plusieurs reprises à l’appelant de lui fournir les documents constatant les prêts qu’il avait effectués durant les années 2000 et 2001 et les remboursements y afférents. Aucun document n’a été fourni par l’appelant à Me Boutin. Lors de l’audience, l’appelant n’a déposé aucun document démontrant l’existence des prêts en 2000 et en 2001 et les montants perçus sur les prêts.
+[16] En fait, l’appelant n’a pas déposé quelque document que ce soit lors de l’audience; il s’est fié aux documents déposés par l’intimée pour faire valoir que la cotisation établie par la ministre du Revenu national (« ministre ») était incorrecte.
+[17] Les cotisations de l’appelant par la ministre relativement aux années d’imposition 2000 et 2001 ont été établies après le délai normal de cotisation. Ainsi, les cotisations quant à ces années ne seront confirmées par cette Cour que si l’intimée prouve que l’appelant a fait une présentation erronée des faits par négligence, inattention ou omission volontaire, ou a commis une fraude en produisant ses déclarations de revenus pour ces années.
+[18] L’appelant s’est aussi vu imposer par la ministre des pénalités en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR »). Les pénalités seront maintenues dans ces appels si l’intimée prouve que l’appelant a, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans ses déclarations de revenus.
+Faits [19] Durant les années en litige, l’appelant demeurait à Saint-Malachie, qui se situe à environ vingt minutes de Lévis. L’appelant exploitait lui-même ou par l’entremise de sociétés, des bars de danseuses, soit les bars Le Crystal à Saint‑Henri-de-Lévis, Le Peter-Laine au Cap-de-la-Madeleine, Le Paradis à Mercier, La Halte à Shawinigan, et la discothèque Billy’s à Sainte‑Marie‑de‑Beauce.
+[20] Étant donné ses antécédents judiciaires, l’appelant ne pouvait pas obtenir un permis d’alcool. Le permis était obtenu par une personne qu’il connaissait, à qui l’appelant versait une contrepartie pour l’obtention et la détention du permis d’alcool. La même chose était aussi vraie pour les machines vidéopoker de Loto-Québec : l’appelant ne pouvant pas obtenir les permis, quelqu’un d’autre les obtenait et l’appelant versait une contrepartie à cette personne.
+[21] La société 2320, en plus d’exploiter un bar de danseuses, exploitait aussi une entreprise de transport et effectuait des prêts d’argent. L’appelant a expliqué que 2320 prêtait des montants à des personnes qui n’avaient pas les fonds nécessaires pour démarrer une entreprise. Par exemple, 2320 a prêté un montant de 20 000 $ à M. Fernand Lafond pour qu’il puisse démarrer sa propre entreprise de transport. L’appelant s’impliquait peu dans l’entreprise, de transport, cependant, il était et demeurait l’associé de M. Lafond jusqu’à ce que son prêt ou une grande partie de son prêt soit remboursé. Ainsi, 2320 recevait 500 $ par semaine de M. Lafond, et ce montant a augmenté à 1 000 $ par semaine lors de l’achat du deuxième camion par la société.
+[22] Durant les années en litige, l’appelant effectuait aussi à titre personnel des prêts à des particuliers. L’appelant détenait aussi un immeuble locatif à Ste‑Anne‑de‑Beaupré.
+[23] Selon l’appelant, l’intimée n’a pas tenu compte du fait que plusieurs de ces prêts ne lui ont pas été remboursés.
+[24] L’appelant a indiqué qu’il faisait aussi le transport des danseuses d’un bar à un autre. Il a indiqué avoir été remboursé par la société 3098 pour ces déplacements. M. Gadreau n’a pas cru la version de l’appelant et a inclus dans son revenu pour les années d’imposition 2000, 2001, 2002 et 2003 les montants reçus par l’appelant de la société 3098, à titre d’avantage imposable conféré à un employé.
+[25] Durant les années en litige, l’appelant a aussi investi dans une combine à la Ponzi. En effet, il a expliqué qu’il avait emprunté de l’argent à des membres de sa famille pour investir dans cette combine. Il fait valoir que ces emprunts doivent venir/réduire ses revenus.
+[26] Quant aux feuillets T4 que l’appelant a reçus des sociétés 2320 et 3098, il a indiqué que ces T4 ont été délivrés à la suite de la recommandation de son comptable, qui déterminait s’il était avantageux fiscalement pour l’appelant de déclarer un revenu d’emploi. Cela se faisait à la fin de l’exercice, au moment de la préparation des déclarations de revenus de l’appelant.
+[27] Ainsi, selon les déclarations de revenus (Pièce I-6), les sources du revenu de l’appelant étaient les suivantes : emploi (2000.2001, 2002 et 2003), intérêts (2000, 2001 et 2003), dividendes (2002), location (2000) et entreprise (2003).
+Analyse [28] L’appelant a soulevé plusieurs arguments qui n’ont aucun impact sur la méthode de vérification axée sur les dépôts. Par exemple, il a fait valoir qu’il a subi des pertes par suite des prêts qu’il a effectués à des particuliers. Il a indiqué ne pas avoir déclaré ces pertes dans ses déclarations de revenus et prétend que la Cour doit maintenant en tenir compte. Tel que je l’ai déjà expliqué dans ces motifs, la méthode de vérification axée sur les dépôts ne consiste qu’à tenir compte des dépôts comme source de revenus et à en déduire les montants qui gonflent artificiellement lesdits dépôts. Ainsi, les pertes subies ne sont pas pertinentes aux fins du calcul du revenu selon cette méthode.
+[29] Je vais donc aborder que les arguments soulevés par l’appelant qui peuvent avoir un impact sur les cotisations établies.
+[30] L’appelant fait valoir que :
+a) ses revenus doivent être diminués par les emprunts qu’il a contractés auprès des membres de sa famille pour investir dans une combine à la Ponzi;
+b) le grand nombre de dépôts dans ses comptes bancaires personnels reflète des transactions de cavalerie de chèques (« kiting ») et ses revenus doivent être diminués en conséquence;
+c) les « DI », soit les dépôts directs de Loto-Québec, ne sont pas du revenu;
+d) ses revenus doivent être diminués du montant des chèques qu’il a encaissés pour ses employés et certains de ses clients et qu’il a déposés dans ses comptes bancaires.
+[31] Il ressort du témoignage de l’appelant qu’il ne faisait pas de distinction entre ses affaires personnelles et les opérations des sociétés. L’argent circulait entre les comptes bancaires des sociétés et les comptes bancaires personnels, sans écritures comptables pour refléter les transactions. Par exemple, l’appelant a indiqué que, pour renflouer les machines vidéopoker, il prenait de l’argent là où il y en avait, soit parfois dans les comptes bancaires des sociétés et parfois dans ses comptes bancaires personnels.
+[32] Un autre exemple de la confusion entre les comptes bancaires des sociétés et les comptes bancaires personnel de l’appelant se voit dans les emprunts que l’appelant a contractés auprès des membres de sa famille pour investir dans une combine à la Ponzi.
+Emprunts contractés par l’appelant auprès des membres de sa famille pour investir dans une combine à la Ponzi [33] L’appelant a fait valoir que ses revenus devraient être diminués du montant de ces emprunts. L’appelant aurait emprunté des membres de sa famille des montants de 331 050 $ en 2002 et de 63 306 $ en 2003.
+[34] L’intimée a établi en preuve que les montants relatifs aux emprunts ont tous été déposés dans le compte de la société 2320, sauf pour un montant de 13 000 $ pour l’année d’imposition 2002. A cet effet, l’intimée a démontré que le 13 000 $ a été soustrait des revenus de l’appelant pour l’année d’imposition 2002, tel qu’en fait foi la pièce I-5.
+[35] Ainsi, l’argument de l’appelant ne tient pas, les emprunts n’ont aucun impact sur les revenus de l’appelant. La preuve a démontré que les montants en question n’ont pas été déposés dans les comptes bancaires personnels de l’appelant, mais l’ont été dans le compte bancaire de la société 2320.
+Cavalerie de chèques (« kiting ») [36] L’appelant a expliqué qu’il devait avoir accès à des liquidités en tout temps. Ainsi, pour renflouer les machines vidéopoker et les guichets automatiques privés installés dans les différents bars qu’il gérait, l’appelant s’adonnait au « kiting ».
+[37] L’appelant déposait, au guichet automatique, un chèque de la banque A dans son compte bancaire à la banque B. Par la suite, encore une fois au guichet automatique, il retirait le montant du chèque du compte B, même s'il n’avait pas les fonds nécessaires dans son compte bancaire à la banque A. Deux ou trois jours plus tard, il déposait le montant dans son compte bancaire à la banque A. Cette façon de fonctionner permettait à l’appelant de tirer avantage du délai de compensation de chèques entre les banques. Ainsi, l’appelant gagnait deux ou trois jours pendant lesquels il pouvait disposer de fonds qu’il n’avait pas. En utilisant cette méthode avec plusieurs comptes bancaires, l’appelant avait créé un système qui, bien qu’illégal, lui permettait d’avoir accès à des liquidités en tout temps.
+[38] L’appelant fait valoir que ces transactions n’étaient pas de véritables dépôts; par conséquent, ils ne devraient pas être inclus dans ses revenus.
+[39] À ce propos, Me Boutin a indiqué qu’avant l’audience elle avait demandé à l’appelant de faire une conciliation afin de prouver que, dans l’intervalle de deux ou trois jours, des dépôts avaient été effectués qui étaient suivis d’un retrait et d’un nouveau dépôt. Si l’appelant avait prouvé les transactions de « kiting », Me Boutin aurait diminué ses revenus du montant de ces transcriptions. Or l’appelant n’a rien transmis à Me Boutin avant l’audience et, lors de l’audience, il n’a identifié aucune transaction de « kiting » dans ses comptes bancaires.
+[40] Me Boutin, tenant pour acquis que l’appelant ne ferait pas l’exercice, l’a fait pour lui, elle a, en effet, analysé les montants déposés, retirés et déposés à nouveau. Elle n’a pu identifier aucune transaction de « kiting ». J’ai aussi fait l’exercice avec les documents déposés et je n’ai pas réussi à identifier des transactions de « kiting ». Je ne mets pas en doute le témoignage de l’appelant quant aux transactions de « kiting », il est possible qu’elles aient été faites par le truchement des comptes bancaires des sociétés. Ainsi à la lumière de la preuve, l’argument de l’appelant quant au « kiting » est rejeté.
+Encaissement des chèques de paye par l’appelant
+[41] L’appelant a aussi fait valoir qu’il encaissait fréquemment les chèques de paye des employés et à l’occasion ceux de clients et qu’ainsi ses revenus devraient être diminués pour refléter ces dépôts. Cependant, l’appelant n’a indiqué aucun montant et n’a présenté aucune preuve documentaire à cet égard. Par conséquent, cet argument de l’appelant, faute de preuve, est rejeté.
+Avantages imposables
+[42] L’intimée soutient que l’appelant a reçu de la société 3098 les montants indiqués ci-dessous à titre de remboursement de dépenses personnelles. Par conséquent, la ministre a établi des cotisations pour ces mêmes montants, à savoir :
+28 971 $ pour l’année d’imposition 2000;
+30 526 $ pour l’année d’imposition 2001;
+27 189 $ pour l’année d’imposition 2002;
+6 971 $ pour l’année d’imposition 2003.
+[43] L’appelant fait valoir que ces montants lui ont été remboursés par la société 3098 parce qu’il avait transporté les danseuses entre les différents bars. Il a indiqué qu’à l’occasion il payait une personne pour le remplacer.
+[44] M. Gadreau a expliqué que, lors de la vérification de la société 3098, il avait trouvé parmi les documents de 3098 des rapports routiers qui avaient été préparés par l’appelant et transmis par lui à 3098. Ces rapports routiers contiennent la date du transport des danseuses, le kilométrage effectué et le montant qui avait été remis à l’appelant par 3098.
+[45] Les rapports routiers indiquent que l’appelant avait parcouru 374 638 kilomètres pour transporter les danseuses sur une période de quatre ans. Tenant pour acquis que l’appelant ne faisait pas que le transport des danseuses, mais qu’il devait aussi gérer les bars, M. Gadreau a conclu qu’il était physiquement impossible que l'appelant ait fait autant de kilométrage.
+[46] À la lumière de la preuve je suis d’avis, que l’appelant a transporté des danseuses entre les différents bars. Cela étant dit, les déductions réclamées par l’appelant pour le transport des danseuses sont exagérées. En moyenne, une personne fait 15,000 kilomètres par année. Si je double ce nombre de kilomètres en le portant à 30,000, les dépenses de transport s’élèvent à 7 500 $[1] pour chaque année en litige. La différence demeurera un avantage imposable, soit 21 471 $ pour l’année d’imposition 2000, 23 026 $ pour l’année d’imposition 2001 et 19 689 $ pour l’année d’imposition 2002.
+Cotisation après le délai normal de cotisation en vertu du paragraphe 152(4) de la LIR
+[47] Je suis d’avis, à la lumière de la preuve, que la ministre pouvait établir une cotisation à l’égard de l’appelant après le délai normal de cotisation. L’appelant a fait une présentation erronée des faits. En ne s’assurant pas de déclarer tous ses revenus, il a été négligent.
+[48] A titre d’exemple, l'appelant travaillait pour toutes les sociétés, mais le comptable de l’appelant choisissait, avec l’accord implicite de ce dernier, la ou les sociétés qui délivraient un feuillet T4, ainsi, la ou les sociétés qui profiteraient davantage des dépenses salariales étaient choisies pour l’établissement des T4. À ce sujet, voici un extrait de la transcription pages 127 à 129 :
+Me BOUTIN: O.k. Parfait.
+Maintenant, pourquoi les T4?
+M. POULIOT: Parce que selon mon comptable...demandez moi pas pourquoi j’ai fait des T4. Moi, le comptable, il gère ça du mieux qu’il peut avec ce qu’il sait. Ça fait qu’il m’a rien que dit, « Jean-Claude, on va te déclarer un revenu. » Lui, il fait un ensemble de tout, une fin d’année. Moi, je sais jamais je vais gagner. Je sais à peu près.
+Moi, en fait, je fais ça pour avoir un capital un jour. C’est pas la bonne formule, mais en tout cas. Ça fait que moi, je sais jamais combien je vais gagner d’avance. Le comptable, à la fin de l’année, il regarde les rapports d’impôts. Il fait les compagnies, et puis moi, je suis toujours en dernier.
+JUGE D'AURAY: Mais là c’est un revenu d’emploi. C’est parce qu’il dit que vous êtes à l’emploi de Peter Laine.
+M. POULIOT: C’est sûr, oui, comme je suis à l’emploi de tous, sauf que combien qu’il va mettre dans Peter Laine, combien qu’il va mettre dans le Bar la Halte, j’en ai aucune idée. Je le sais pas, moi. Il fait ça à la fin de l’année. « Bon là, on va te mettre un T4 de tant. T’as gagné tant cette année. » Parfait. « Là on va en mettre dans l’autre compagnie aussi parce qu’elle...je vous dirai pas les raisons parce que je ne les connais pas...ça fait que lui, il balance avec un revenu logique, combien j’ai gagné dans telle compagnie. Dans telle compagnie, combien tu t’es pris. Avec ce que tu t’es pris en millage, combien de millage t’as fait. Il envoie ça de même.
+Mais moi, c’est pas moi qui fait [sic] mes rapports d’impôts. Moi, j’ai aucune idée...ben, j’ai pas aucune idée ce que vous dites. C’est pas vrai. Mais le comptable ajuste ça en conséquence d’un train de vie, avec...il l’ajuste comme...pas comme il veut, mais comme c’est logique.
+Me BOUTIN: C’était le même comptable pour toutes vos sociétés, pour votre déclaration de revenus personnels aussi?
+M. POULIOT: Oui.
+Pénalités en vertu du paragraphe 163(2) de la LIR
+[49] Quant à la pénalité en vertu du paragraphe 163(2), je suis d’avis que l’intimée s’est acquittée de son fardeau et a prouvé que l’appelant a sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans ses déclarations de revenus.
+[50] La Cour d’appel fédérale a mentionné dans l’arrêt Lacroix c La Reine, 2008 CAF 241, que la ministre s’est acquittée de son fardeau de la preuve selon le paragraphe 163(2) de la LIR si elle démontre que le contribuable a touché un revenu qu’il n’a pas déclaré et que ses explications quant à l’écart entre ses revenus déclarés et les revenus cotisés ne sont pas crédibles. À cet effet, le juge Pelletier dans un jugement unanime écrit ce qui suit au paragraphe 32 de ses motifs :
+[32] [...] Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l'état d'esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu'il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l'impôt est persuadée que le contribuable touche un revenu qu'il n'a pas déclaré et que l'explication offerte par le contribuable pour l'écart constaté entre son revenu déclaré et l'accroissement de son actif est non crédible, le ministre s'est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3).
+[51] La Cour fédérale, Division de première instance dans Venne c Canada (M.R.N.), [1984] A.C.F. No 314 (QL), [1984] C.T.C. 223, 84 DTC 6247, s’est prononcée relativement à la notion de faute lourde :
+(4) Imposition de pénalités – Comme il a été souligné auparavant, pour que la défenderesse puisse imposer des pénalités en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu, il faut que le contribuable ait “sciemment ou dans des circonstances qui justifient l'imputation d'une faute lourde... participé, consenti, acquiescé à un faux énoncé dans une déclaration, etc. […]
+[…]
+[…] La « faute lourde » faute lourde doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[52] Lors de l’audience, l’appelant n’a pas été en mesure d’expliquer d’une manière crédible, les écarts entre les revenus qu’il a déclarés et les revenus établis dans les cotisations. De plus, ces écarts sont importants, et cela même après les concessions faites par l’intimée.
+[53] En déclarant ses revenus, l’appelant a démontré un tel degré de négligence que cette négligence correspond à une indifférence au respect de la Loi, tel qu’il est énoncé dans la décision Venne.
+Dispositif
+[54] Ainsi, les appels sont accueillis sur la base :
+- que les revenus de l’appelant devront être diminués des montants suivants :
+2000
+2001
+2002
+2003
+Chèques sans fonds (DT)
+-13 538,21 $
+-15 504,32 $
+-27 277,00 $
+-12 762,78 $
+Remb GUICHET AMT
+-213,60 $
+-5 936,30 $
+-1 679,00 $
+- que l’appelant a reçu les avantages imposables suivants :
+Avantage imposable
+21 471 $
+23 026 $
+19 689 $
+aucun
+[55] Les frais sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 30e jour de septembre 2014.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2014 CCI 273
+Nº DU DOSSIER DE LA COUR :
+2011-2481(IT)G
+INTITULÉ DE LA CAUSE :
+JEAN-CLAUDE POULIOT c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 12 décembre 2013
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 30 septembre 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Anne-Marie Boutin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L'appelant a réclamé 0,25 ¢ le kilomètre.

@@ -1,0 +1,348 @@
+Title: St-Pierre v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/231655/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-69-231655-st-pierre-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-06-01
+
+# St-Pierre v. The Queen
+
+- Citation: 2017 TCC 69
+- Decision date: 2017-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2135, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Pierre v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-01
+Neutral citation
+2017 TCC 69
+File numbers
+2015-2158(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2158(IT)G
+BETWEEN:
+MARC ST-PIERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 23, 2017, at Quebec City, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Pierre Hémond
+Counsel for the respondent:
+Alain Gareau
+JUDGMENT
+The appeal from the reassessment dated April 30, 2013, made pursuant to Part I of the Income Tax Act for the 2009 taxation year is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 10th day of January 2019.
+Janine Anderson, Revisor
+Citation: 2017 TCC 69
+Date: 20170601
+Docket: 2015-2158(IT)G
+BETWEEN:
+MARC ST-PIERRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment dated April 30, 2013, made by the Minister of National Revenue (the "Minister") pursuant to Part I of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act"), in respect of the appellant's 2009 taxation year.
+[2] Under the reassessment, the Minister increased the appellant's net income by $381,260 pursuant to subsection 15(2) of the Act and by $4,228 pursuant to section 80.4 of the Act.
+[3] The dispute arises from an error in the calculation of the capital dividend account for the year 2008 of the corporation 2869-6474 Québec Inc. ("2869"), of which the appellant was the sole shareholder and the sole director at the time of the declaration on February 2, 2008, of a capital dividend of $596,881 payable to the appellant, a declaration that did not specify the terms or the dates of payment.
+The facts
+[4] The facts on which the Minister relied to determine the tax payable by the appellant for his 2009 taxation year are relatively simple and are not in dispute. The facts are as follows:
+[TRANSLATION]
+(a) On February 1, 2008, 2869 disposed of the assets of its business, including eligible capital property, in the amount of $900,000.
+(b) On or around February 2, 2008, 2869's accountants advised it that the balance of its capital dividend account was $596,881 further to the disposition of the corporation's assets, and that included an amount of $450,000, which represented half of the proceeds of disposition of the eligible capital property.
+(c) On or around February 2, 2008, 2869's accountants prepared a resolution by the sole director declaring the payment of a capital dividend of $596,881 to the appellant, and the sole director signed it.
+(d) The appellant received $86,567 on December 31, 2008, $381,260 on December 31, 2009, and $40,000 on December 31, 2010, from 2869.
+(e) On or around November 9, 2011, the Minister told 2869 that the balance of its capital dividend account on February 2, 2008, had only been $146,881 and not $596,881.
+(f) Having declared a capital dividend of $450,000 in excess of the balance of the corporation's capital dividend account, the corporation was likely to be taxed under Part III of the Act.
+(g) Advised of the appellant's intention to file a motion for a declaratory judgment with the Superior Court of Quebec, the Minister informed 2869 that it would not issue an assessment against it under Part III of the Act.
+(h) On or around February 11, 2013, the appellant submitted a motion for a declaratory judgment with the Superior Court of Quebec, seeking a judgment to have the sole director's resolution quashed and the full amount of the capital dividend declared null and deemed never to have existed.
+(i) The appellant, then the applicant, argued that the capital dividend had been declared and paid in error.
+(j) By judgment rendered on January 6, 2014, the Superior Court of Quebec allowed the appellant's motion, quashed the sole director's resolution dated February 2, 2008, and declared that the capital dividend of $596,881 was null and deemed never to have existed.
+(k) the Superior Court of Quebec also ordered the appellant to repay the amounts totalling $596,881.
+(l) On December 31, 2009, the appellant received $381,260 from 2869.
+(m) On December 31, 2009, the appellant became indebted to 2968 for the same amount.
+(n) On December 31, 2008, the appellant received $86,567 from 2869.
+(o) The appellant did not pay interest on the amount owing to 2869 during 2009.
+(p) The interest at the legal rate on this amount for the 2009 taxation year totals $4,228.
+[5] In addition to the above-noted facts, the Deputy Attorney General of Canada added the following:
+[TRANSLATION]
+(a) On or around February 22, 2013, counsel for the Minister informed counsel for the appellant, who had filed the motion for a declaratory judgment, of the Minister's intention to assess the appellant under Part I of the Act, specifically under subsection 15(2) and section 80.4.
+(b) On March 1, 2013, counsel for the Minister informed counsel for the appellant that even if the motion for a declaratory judgment were to be allowed, the reality was that the appellant had received $86,567 on December 31, 2008, $381,260 on December 31, 2009, and $40,000 on December 31, 2010, from 2869.
+(c) On March 15, 2013, counsel for the Minister confirmed the Minister's intention to assess the appellant under Part I of the Act for his 2009 and 2010 taxation years and gave the appellant the opportunity to waive the normal reassessment period, which would be ending on May 20, 2013, for the 2009 taxation year.
+(d) The appellant did not waive the normal reassessment period for his 2009 taxation year.
+[6] The accountant for the appellant and 2869, Denys Bisson of the firm Services Comptables 2000, testified at the hearing and explained the source of the problem. Following 2869's sale of assets on February 1, 2008, he had prepared the resolution of the sole director of 2869 dated February 2, 2008, authorizing the corporation to make the election concerning a capital dividend pursuant to subsection 83(2) of the Act in the amount of $596,881. The appellant had signed the resolution. Mr. Bisson had prepared the election concerning a capital dividend pursuant to subsection 83(2), thus Form T-2054, which was filed with the Canada Revenue Agency (the "CRA") after the appellant had signed it on October 22, 2008. The form submitted indicates that the total amount of the dividend for which the election was made was $596,881, that the date the dividend became payable was November 30, 2008, and that the first day on which any part of the dividend was paid was also November 30, 2008.
+[7] The calculation of 2869's capital dividend account was not done by Mr. Bisson but rather by Brigitte Mailloux, a tax accountant of the firm Fiscalité BM Inc., whose services had been retained by the appellant and 2869 when 2869 sold its assets. Ms. Mailloux testified at the hearing and explained how 2869's capital dividend account had been calculated for the 2008 taxation year. She said that she had used the Taxprep 2008 software to calculate 2869's capital dividend account. Unfortunately for her and for the appellant, the software that was used was deficient regarding eligible capital property. The non‑taxable portion of the gain from the disposition of eligible capital property could not be included in the account until January 1 of the year following the disposition, namely January 1, 2009, and not in the year of the disposition as Ms. Mailloux had done. Therefore, on February 2, 2008, the balance of 2869's capital dividend account was only $146,881 and not $596,881, as calculated by Ms. Mailloux; the difference of $450,000 corresponds to half of the proceeds of disposition of the eligible capital property. On November 9, 2011, 2869 was informed of this problem in a letter from the CRA.
+[8] On March 22, 2012, Ms. Mailloux submitted, on behalf of 2869, a request for relief to the CRA proposing an administrative solution to the problem. The proposed solution involved the following steps:
+(a) modification of the T-2054 form dated October 22, 2008, in order to:
+(i) correct the erroneous calculation of the capital dividend account and reduce it to $146,881 immediately prior to the date on which the dividend became payable, that is, February 2, 2008; the amount should appear on the form as the capital dividend that was elected; and
+(ii) replace the date of November 30, 2008, for the date the dividend was payable with February 2, 2008, the date retained by the CRA;
+(b) modification of the February 2, 2008, resolution to indicate that the amount elected was $146,881;
+(c) filing of a late election by submitting the T-2054 form for the dividend payable January 1, 2009, in the amount of $428,060, which would be accompanied by:
+(i) a resolution dated 2012 indicating that the election was made on January 1, 2009; and
+(ii) the details of the capital dividend account;
+(d) payment by 2869 of the late filing penalty.
+[9] In a letter dated May 1, 2012, the CRA denied the request for relief but acknowledged that the error committed by the accountant, who had relied on the continuity schedule of the capital dividend account produced by the accounting software, had been involuntary. The CRA noted, however, that it took the accountant too long (three years) to confirm the balance of the capital dividend account and it offered to waive the interest and penalties that resulted from this delay.
+[10] Following this denial, 2869 retained the services of Raymond St‑Pierre, a CRA auditor who had retired in 2008, to try and find a solution to the problem. Raymond St‑Pierre testified at the hearing and explained that he prepared a request for a review of the decision, which was submitted to the independent committee responsible for the CRA on August 22, 2012, and which contained essentially the same proposal as the one in the first request for relief, with, as an alternative, a motion to the Superior Court of Quebec to have the February 2, 2008, resolution quashed.
+[11] In a letter dated October 23, 2012, Bernard Gagnon, the assistant director of the business returns division of the Jonquière Tax Centre, upheld the decision to deny the request for relief and confirmed that the election based on the February 2, 2008, resolution was valid.
+[12] In a letter to the CRA dated November 13, 2012, Raymond St-Pierre asked for the file to remain open pending the legal process for the rectification of the February 2, 2008, resolution, informed the CRA that said motion was being prepared and asked for confirmation that the CRA would not issue a notice of assessment should there be a favourable decision. The CRA replied in a letter dated November 28, 2012, as mentioned in paragraph 4(g) above.
+[13] Following the Superior Court of Quebec decision, the CRA told 2869 that the election for the dividend payable in the amount of $596,881 owing on February 2, 2008, as well as the director's resolution had been cancelled. The late filing penalty of $375 was reimbursed.
+[14] Further to the same Superior Court of Quebec decision, Marc St‑Pierre paid 2869 $539,157 by means of a cheque dated October 13, 2015. On that same day, 2869 deposited that amount in its term savings account at the Caisse Populaire Desjardins de Lévis and took out a term deposit certificate of $540,000 for a one-year term, redeemable at any time.
+[15] On October 15, 2015, 2869 adopted a resolution declaring a dividend totalling $540,000 to Marc St-Pierre from its capital dividend account, and the dividend was payable as of October 20, 2015. By this resolution, Marc St‑Pierre was authorized to make the election set out in subsection 83(2) of the Act and its Quebec equivalent to the effect that the full amount of the dividend would come from the capital dividend account.
+[16] On October 15, 2015, Ms. Mailloux submitted the T-2054 form, on which she indicated $540,000 as the full amount of the dividend for which the election was made, $638,539 as the capital dividend account immediately before the dividend became payable and October 20, 2015, as the date the dividend became payable.
+[17] The CRA has not yet ruled on the validity of the new election.
+Issues
+[18] Was the Minister justified in adding $381,260 to the appellant's income for his 2009 taxation year pursuant to subsection 15(2) of the Act?
+[19] Was the Minister justified in adding $4,228 to the appellant's income for his 2009 taxation year pursuant to section 80.4 of the Act?
+Parties' positions
+A. Appellant's position
+[20] The appellant submits that the Minister erroneously assessed the appellant on the basis of subsections 15(2), 80.4(1), 152(8) and 152(9) of the Act and makes the following arguments:
+(a) on the date of the notice of reassessment in question, that is, April 30, 2013, the appellant had not taken out any loans from 2869 and was not indebted to 2869 for the 2009 taxation year. In support of his position, the appellant notes the following facts:
+(i) at the time he received the assessment in question, the appellant had never taken out a loan from or been indebted to 2869;
+(ii) the Superior Court of Quebec decision rendered on January 6, 2014, clearly indicates that the appellant was obligated to [TRANSLATION] "repay the amounts he received as capital dividends as a result of the February 2, 2008, resolution, with interest at the rate prescribed by section 80.4 of the Act . . . ". No other form like a loan from or a debt to 2869 was mentioned;
+(iii) the respondent was an impleaded party in the Superior Court of Quebec case and the respondent could have made submissions to the effect that the amounts could be owing to 2869 in a form other than as the reimbursement of the amounts received as capital dividends under the April 30, 2013, notice of assessment, but the respondent chose to not make such submissions; and
+(iv) in the alternative, if the amounts the appellant received could be considered a loan from or debt to 2869, they could not be considered as such until after January 6, 2014, the date of the judgment ordering the restitution of the amounts received.
+(b) the respondent cannot consider the amounts received by the appellant as both a capital dividend declared as excess for the shareholder and an amount paid to the shareholder as a loan or debt. The appellant raises the following facts in support of his position:
+(i) in correspondence sent to the appellant and 2869 on November 28, 2012, the Minister confirmed that an assessment in respect of the tax payable on the excess in the capital dividend account would not be issued to the extent that a motion to rectify the resolution was presented to the Court and a favourable judgment was rendered;
+(ii) in light of the commitment the Minister made to 2869, the Minister could not, before the judgment was rendered on the motion, take a contradictory position and modify the tax base; and
+(iii) the Minister cannot characterize the amounts the appellant received as capital dividends as being excess capital dividend amounts and also claim that the amounts paid to the appellant constituted a loan or a debt.
+(c) the Minister made a commitment when he confirmed to the appellant that he would not be assessed if a motion were filed in court to rectify the resolution that provided for the payment of a capital dividend. In support of his position, the appellant raises the following elements:
+(i) in his November 28, 2012, letter, the Minister indicated that the appellant would not be assessed as long as a motion to correct the February 2, 2008, resolution regarding the declaration of a capital dividend was filed. As a result, a transaction occurred, which is binding on the parties; it was conditional to a favourable decision by the Court;
+(ii) the Minister could not, in bad faith, in the weeks following receipt of the motion to correct the declaration of the capital dividend and before the motion was even heard and a decision was rendered, renege on his commitment and consider the amounts received by the appellant to be a loan or debt that could justify the application of subsection 15(2) of the Act;
+(iii) through his actions, the Minister misled the appellant, concealing the fact that he was going to modify the tax base as soon as a motion was filed with the Court;
+(iv) the Minister acted in an abusive manner towards the appellant, justifying a claim for damages by the appellant following the judgment to be rendered in this case.
+(d) the respondent misinterpreted the Superior Court of Quebec decision of January 6, 2014, and the appellant raises the following elements in support of his position:
+(i) the Superior Court of Quebec decision of January 6, 2014, arose from a motion for a declaratory judgment to have the dividend of $596,881, which 2869 declared for the benefit of the appellant, declared null; counsel for the respondent filed a consent to judgment with respect to the motion;
+(ii) the decision cancels, among other things, the February 2, 2008, resolution, declaring the dividend and the appellant's right to claim payment of said dividend to be null and non-existent;
+(iii) this decision also orders the appellant to repay the amounts he received as capital dividends resulting from the February 2, 2008, resolution, with interest at the rate set out in section 80.4 of the Act;
+(iv) the fact remains that until the Court rendered its decision, the amounts received by the appellant could not have been considered anything other than capital dividends;
+(v) in accordance with what the judge ordered in her decision, it was only after January 6, 2014, that the appellant was under the obligation to repay the amounts that were received as capital dividends to 2869; the amounts to be returned to 2869 constitute amounts the appellant received as capital dividends from 2869 and not amounts he could have received in another form, that is, as either a loan or a debt;
+(vi) as indicated in the decision, the Court orders the February 2, 2008, resolution by the sole director to be removed from the minutes book; this order could not have been made before the decision was rendered;
+(vii) the restitution order resulting from the quashing of the February 2, 2008, resolution is only enforceable from the date of the decision, that is, January 6, 2014;
+(viii) it follows from the interpretation of the foregoing and the Court's decision that no amount could be owing as a loan or otherwise to 2869 before the decision was rendered on January 6, 2014, and, as a result, if the Minister's assessment is valid, which is denied, any amount owing as such could only be payable as of January 6, 2014.
+B. Respondent's position
+[21] The respondent submits that as a result of the Superior Court of Quebec decision of January 6, 2014, the February 2, 2008, resolution of the sole director was quashed and the capital dividend of $596,881 was declared null and deemed never to have existed. Consequently, the decision had an effect retroactive to February 2, 2008, with regard to the juridical act of the resolution and with regard to its purpose, the declaration of the capital dividend.
+[22] The respondent submits that the Superior Court of Quebec decision does not nullify the following legal facts:
+- the appellant received $86,567 from 2869 on December 31, 2008;
+- the appellant received $381,260 from 2869 on December 31, 2009.
+[23] Regarding the payment of $86,567 on December 31, 2008, the respondent raises the following elements:
+(a) the capital dividend that was annulled retroactively was deemed never to have existed and, as a result, the appellant incorrectly received $86,567 from 2869; and
+(b) as of December 31, 2008, the appellant owed 2869 $86,567; and
+(c) the interest on $86,567, at the prescribed rate, is $4,228, which is deemed to be a benefit granted to the appellant under subsection 15(9) of the Act for the appellant's 2009 taxation year.
+[24] With regard to the payment of $381,260 on December 31, 2009, the respondent raises the following elements:
+(a) the capital dividend that was retroactively annulled is deemed never to have existed and, as a result, the appellant wrongfully received $381,260 from 2969; and
+(b) as of December 31, 2009, the appellant owed 2869 $381,260, so the Minister was justified in adding the amount to the appellant's income for his 2009 taxation year in accordance with subsection 15(2) of the Act.
+The law
+[25] The provisions of the Act that are relevant to this case are subsections 15(2), 80.4(2) and (3), 83(2), (3) and (4), 89(1) (definition of "capital dividend account"), 184(2) and (3) and 20(1)(j). These provisions are reproduced in the annex hereto.
+[26] The Act seeks to achieve fiscal integration between income earned by an individual and income earned through a private corporation that is then paid to an individual. This objective is reached through the concept of the "capital dividend account", which allows a private corporation to pay a tax-free dividend to its shareholder from its "capital dividend account", which includes certain non‑taxable amounts earned by the corporation.
+[27] The rules for calculating the "capital dividend account" of a corporation are numerous and complex. The "capital dividend account" includes the following elements:
+(a) the non-taxable portion of capital gains net of the non-deductible portion of capital losses;
+(b) the non-taxable portion of gains on dispositions of eligible capital property;
+(c) life insurance proceeds paid to the corporation in its capacity as beneficiary; and
+(d) dividends paid to the corporation from the capital dividend account of another corporation.
+[28] The calculation of the "capital dividend account" is done on a cumulative basis beginning on the day the corporation was created (if it was created after 1971) or as of December 31, 1971 if it was created prior to that date, and ending the on the day of its determination. As a result, the dividends paid from the capital dividend account since the creation of the corporation must be subtracted from the account. The balance of the capital dividend account cannot be negative; it would be zero.
+[29] To pay a capital dividend from its capital dividend account, a corporation must make an election pursuant to subsection 83(2) of the Act. This election is made by submitting the appropriate form (T-2054) on or before the earlier of the following two days:
+(a) the day the dividend becomes payable, or
+(b) the day the dividend is paid.
+[30] Subsection 83(3) of the Act allows for the late filing of an election by corporations that wish to pay a capital dividend, but on certain conditions. The conditions include the payment of a penalty that cannot exceed $500 per year. A late election may be filed until the time a capital dividend has become payable by the corporation. In that case, the election is deemed to have been made on the earlier of the following two days: the day the dividend became payable or the day on which any part of the dividend was paid.
+[31] A corporation that elects to pay a capital dividend that exceeds the part of the dividend that is deemed to be a capital dividend must pay, at the time of the election, a tax pursuant to Part III of the Act equal to 3/5 of the amount of the excess dividend.
+[32] A corporation may avoid paying a Part III tax under the Act if it makes the election within 90 days from the date of the notice of assessment for that tax. In such a case, the excess part of the dividend is deemed to be a separate taxable dividend that became payable immediately after that given moment and that must be included in the calculation of the shareholder's income when the shareholder is a sole shareholder.
+[33] When a corporation provides a loan to a shareholder or when a shareholder has a debt to a corporation in which the shareholder holds shares, subsection 15(2) of the Act states that the amount of the loan or the debt must be included in that shareholder's income for the taxation year during which the loan was obtained or the debt was incurred.
+[34] When the loan or the debt is repaid, the repayment amount is deductible from the shareholder's income in the year of the repayment pursuant to paragraph 20(1)(j). In that situation, the interest amount resulting from the taxable benefit in respect of the interest on all such loans and debts computed at the prescribed rate for the period in the year during which the loan or debt was outstanding, is cancelled.
+Analysis
+[35] In theory, the appellant had the right to receive, in the form of capital dividends, the non-taxable portion of 2869's gain from the sale of its assets in 2008. Unfortunately for him, the errors committed by his advisors prevented him from obtaining the benefit of the provisions in the Act regarding capital dividends. The errors concern, in particular, 2869's February 2, 2008, resolution, the calculation of the capital dividend account for 2008, and the filing of the T-2054 form in October 2008.
+A. The February 2, 2008, resolution
+[36] The resolution of 2869's sole director, adopted on February 2, 2008, and signed by Marc St-Pierre as president and director of said corporation, states that the corporation made the election concerning a capital dividend pursuant to subsection 83(2) of the Act for an amount of $596,881.
+[37] That resolution, prepared by the accountants of 2869, is deficient in some respects. It is deficient because the dividend amount exceeded 2869's capital dividend account by $450,000 on February 2, 2008, and because the terms of the payment of the dividend were not specified.
+[38] According to the evidence submitted, no other resolution by 2869 authorized the payment of dividends on December 31, 2008, 2009 and 2010. As a result, the February 2, 2008, resolution is the resolution according to which the dividend of $596,881 became payable, and it was on that date that the T-2054 form should have been filed. These conclusions are consistent with the CRA's position in this case.
+B. The T-2054 form dated October 22, 2008
+[39] On October 22, 2008, 2869 filed the T-2054 form, which was signed by Marc St‑Pierre as president. The form indicates that the full amount of the dividend for which the election was made was $596,881, that the capital dividend account immediately before the dividend became payable was $596,881, that the date the dividend became payable was November 30, 2008, and lastly that the first day on which any part of the dividend was paid was also November 30, 2008.
+[40] The T-2054 form that was filed contains several errors. The full amount of the dividend for which the election was made was incorrect, the capital dividend account immediately before the dividend became payable was also erroneous and the date on which any part of the dividend was paid was not November 30, 2008, but December 31, 2008.
+C. Calculation of the capital dividend account for the 2008 taxation year
+[41] The problem is technical in nature and stems mainly from the determination of when the non-taxable portion of the disposition of goodwill must be added to the capital dividend account. According to the definition of "capital dividend account" in subsection 89(1) of the Act, additions to the capital dividend account are made "at any particular time". Among the elements to add are amounts resulting from paragraph 14(1)(b) of the Act, which addresses the disposition of eligible capital property. Because the amount calculated at paragraph 14(1)(b) of the Act cannot be known until the end of the year, it cannot be included in the capital dividend account until the day after the end of the corporation's current fiscal year. In the case at bar, the gain realized on the sale of goodwill should have been included in the capital dividend account on January 1, 2009.
+[42] The continuity schedule of the capital dividend account was submitted with the income tax return for 2869's 2008 taxation year. The account balance on December 31, 2008 was $574,941. The difference between the amount indicated on the T-2054 form submitted on October 22, 2008, and the amount of $574,941 on December 31, 2008, is the result of a capital loss of $43,880 that was incurred on September 3, 2008, from the disposition of investments. On December 31, 2008, $450,000 was included as income in the year and this same amount was added to the continuity schedule of the capital dividend account, calculated using the Taxprep software. The continuity schedule should not have included the $450,000 in 2008; it should have included it after the end of the fiscal year, that is, on January 1, 2009.
+[43] The CRA does not provide any forms for the calculation of capital dividend accounts and accepts the figures provided by the Taxprep software. This software was authorized by the CRA for the preparation of corporate tax returns.
+[44] In a letter dated May 1, 2012, the CRA informed the appellant and 2869 that it was warning, in its publications, software users that the use of software and any omission or inaccuracy in the information provided is the responsibility of the user and that the CRA cannot be held liable in a situation where a programming error has affected the calculation of the amount to be paid.
+[45] The following are the correct balances of 2869's capital dividend account on the following dates:
+February 2, 2008 = $146,881
+October 22, 2008 = $124,941
+December 31, 2008 = $124,941
+January 1, 2009 = $574,941
+December 31, 2009 = $488,374
+December 31, 2010 = $107,114
+[46] Excess capital dividends were never paid by 2869 into its capital dividend account because the amount in its capital dividend account was always greater than the amount of each of the dividends paid. Recall that the dividend paid on December 31, 2008, was $86,567 when the balance in the account was $124,941, that the dividend paid on December 31, 2009, was $381,260 when the balance in the account was $574,941 and that the dividend paid on December 31, 2010, was $40,000 when the balance in the account was $107,114.
+The solution – motion for a declaratory judgment
+[47] In a November 9, 2011, letter from the CRA, the appellant and 2869 were informed that the corporation's capital dividend account had not been properly calculated and that the balance of the capital dividend account was $450,000 more than the balance of the capital dividend account prior to the filing of the election, that is, on October 22, 2008. According to the CRA, the excess of $450,000 was subject to tax under Part III of the Act unless the sole shareholder of 2869 agreed to be taxed on the excess directly.
+[48] On March 20 and August 10, 2012, the appellant and 2869 submitted requests for relief that did not produce concrete results. However, in a letter dated November 28, 2012, the CRA informed the appellant and 2869 that it would not issue a tax assessment under Part III in respect of the excess amount in the capital dividend account if proof of the motion to rectify the resolution and a copy of the court judgment was provided to it once the judgment was rendered. The following is an excerpt from the letter:
+[TRANSLATION]
+Should the Court rule in your favour, the CRA will not object to a rectification that would correct certain errors made with regard to the CDA. Also, the CRA will make changes to the T-2054 election form already filed and you will not need to file a new form to reflect the changes authorized by the Court.
+[49] Further to the CRA's November 28, 2012, letter, the appellant retained the services of Bernard Roy to file a motion for a declaratory judgment with the Superior Court of Quebec. The motion was filed on February 11, 2013, and the Attorney General of Canada and the Agence du Revenu du Québec were impleaded parties so that the judgement would be enforceable against them. The motion aimed to:
+(a) quash the February 2, 2008, resolution of 2869's sole director;
+(b) declare the dividend of $596,881 to be null and never to have existed;
+(c) declare the rights of Marc St-Pierre to claim the dividend amount of $596,881 to be null and non-existent;
+(d) order Marc St-Pierre to repay the amounts he received as capital dividends with interest at the rate prescribed by section 80.4 of the Act; and
+(e) order the corporation to update its books and records in accordance with the judgment, including removing from the minutes book the February 2, 2008, resolution of the sole director and the indebtedness to its shareholder in the amount of $596,881.
+[50] The motion was heard on December 18, 2013. The judgment was rendered on January 6, 2014. Pursuant to the judgment,
+(a) the motion was allowed;
+(b) the February 2, 2008, resolution of 2869's sole director was quashed;
+(c) the dividend of $596,881 was declared null and never to have existed;
+(d) Marc St-Pierre's rights to claim payment of the $596,881 dividend were declared null and non-existent;
+(e) Marc St-Pierre was ordered to repay the amounts he had received as capital dividends with interest at the prescribed rate;
+(f) 2869 was ordered to update its books and records in accordance with the judgment, without limiting the foregoing, to proceed with removing from the minutes book the February 2, 2008, resolution and the indebtedness to its shareholder in the amount of $596,881; and
+(g) the impleaded parties to the motion for judgement consented to the judgment by welcoming the motion for a declaratory judgment in September 2013.
+Consequences of the judgment
+[51] The motion before the Superior Court of Quebec was not a motion for rectification but rather a motion to quash a resolution declaring a capital dividend of $596,881.
+[52] Pursuant to the January 6, 2014, judgment, the February 2, 2008, resolution was quashed retroactively and the dividend of $596,881 and the rights of Marc St‑Pierre to claim payment of said dividend were declared null and never to have existed. However, the judgment does not retroactively alter the reality that there was a payment of $381,260 by 2869 to its shareholder in 2009.
+[53] Marc St‑Pierre's obligation to repay the amounts he received as capital dividends arose only when the judgment was rendered and became enforceable in the 30 days following the date of the judgment with no retroactive effect. The restitution was naturally not possible before the date of the judgment.
+[54] The question at this stage is as follows: can the amounts the appellant received from 2869 be considered loans from the corporation to its shareholder or as debts incurred by the shareholder to the corporation that could result in the application of subsection 15(2) of the Act?
+[55] The appellant's position is that there was no loan to the shareholder or any debt the shareholder owed 2869 when the assessment was made on April 30, 2013, because the Superior Court of Quebec judgment had not yet been rendered. Moreover, the January 6, 2014, judgment ordered Marc St‑Pierre to repay the amounts he had received as capital dividends resulting from the February 2, 2008, resolution and not the amounts received as loans from or debts to 2869. On April 30, 2013, there was no liquid and exigible debt or any debtor/creditor relationship between the appellant and 2869; this relationship was only created as of the date of the judgment ordering the restitution.
+[56] The respondent instead maintains that the January 6, 2014, judgment retroactively quashed the February 2, 2008, resolution such that the dividend was declared void ab initio. The appellant, as a result, obtained sums of money to which he was not entitled. The appellant was therefore unjustly enriched.
+[57] In Lust v. Canada, 2007 FCA 62, the Federal Court of Appeal confirmed that subsection 15(2) of the Act applies in situations where there is unjust enrichment and defined the concept of unjust enrichment in the following manner at paragraph 14:
+. . . Whether an enrichment is unjust depends on whether there is an enrichment of the defendant, a corresponding deprivation of the plaintiff, and an absence of juristic reason for the enrichment (see Garland v. Consumers' Gas Co., 2004 SCC 25, [2004] 1 S.C.R. 629 at para. 30, 237 D.L.R. (4th) 385).
+[58] The same concept can be found at article 1493 of the Civil Code of Québec, which states the following:
+Art. 1493. A person who is enriched at the expense of another shall, to the extent of his enrichment, indemnify the other for the latter's correlative impoverishment, if there is no justification for the enrichment or the impoverishment.
+[59] To summarize, I find that the appellant was indebted to 2869 through an unjustified or unjust enrichment corresponding to the amounts he received from 2869.
+[60] I also find that the April 30, 2013 assessment was not a preventive assessment for the purpose of protecting the CRA's rights should the motion for a declaratory judgment be dismissed, as the appellant claims. In my opinion, the assessment appears to be based on the Court's determination of the motion in favour of the appellant by applying the effects of the conclusions sought. Moreover, the Attorney General of Canada consented to judgment in September 2013, well before the Court's hearing of the motion.
+[61] Moreover, the appellant did not provide any explanation at the hearing as to why his counsel brought a motion to quash instead of a motion to rectify as the CRA had suggested. The benefit sought by the judgment seems to be the possibility of adopting a new resolution and making a new election pursuant to subsection 83(2) of the Act, which is what happened on October 15, 2015.
+Abuse of the appellant's rights or abuse of process
+[62] In his reply dated October 29, 2015, counsel for the appellant alleged that the respondent acted in bad faith by modifying the tax base and assessing the appellant on the basis of subsection 15(2) of the Act and, in the notice of objection and at the hearing, he referred to the theory of estoppel (“préclusion” in French), a form of res judicata.
+[63] With respect, I cannot agree with the claims of the appellant and his counsel. Regardless of whether the Court has jurisdiction to vacate an assessment made after an abusive audit or an unfair process, I do not believe that the manner in which the CRA handled the appellant's file can be characterized as an abusive audit, an unfair process or an abuse of process.
+[64] The only criticism that could be made against the CRA is that it took three years to audit the T-2054 form submitted by the appellant and calculate 2869's capital dividend account as of February 2, 2008. This is a tedious exercise that is done manually and that requires a review of all of 2869's income tax returns since its establishment. In any event, even if the audit had been done more quickly, the appellant would have faced the same issue and would have had to turn to the courts to resolve it.
+[65] I also note that the appellant did not suffer any harm because of the delay in the handling of his file. No excess capital dividend was paid by 2869 on December 31, 2008, 2009 or 2010. I do not know whether it was by chance or whether 2869's advisors noticed the error and took care to not declare the capital dividends that exceeded the capital dividend account on each of those dates. If that is the case, those advisors could have made the necessary modifications to the resolution and to the continuity schedule of the capital dividend account before the end of the CRA audit.
+[66] Despite the denial of the two requests for relief, the CRA nonetheless showed openness by agreeing to not assess 2869 and its shareholder under Part III of the Act, which is the normal sanction when an excess capital dividend is declared or paid, insofar as a motion for rectification was filed with a court of competent jurisdiction. Rather than file a motion for rectification, counsel for the appellant and 2869 filed a motion to quash the February 2, 2008, resolution, likely influenced by the decision rendered by the Superior Court of Quebec in 2009 in Félix & Norton International inc. c. Canada (Procureur général), 2009 QCCS 919. The facts in that decision are very similar to those in the present case, except that in that case, no dividend was paid following the adoption of the resolution.
+[67] It is also relevant here to note that before the CRA issued the April 30, 2013, assessment, it asked counsel for the appellant, in a letter dated March 15, 2013, whether his client was prepared to sign a waiver in respect of the normal reassessment period (Form T-2029) for his 2009 taxation year with regard to an assessment based on subsection 15(2) and section 80.4 of the Act, considering that the limitation period for the 2009 taxation year was May 20, 2013. The CRA was therefore willing to re-evaluate the relevance of making such an assessment in light of the Superior Court of Quebec's judgment. Mr. St-Pierre refused to waive the application of the normal reassessment period for his 2009 taxation year and the assessment was made the following month.
+[68] The CRA informed counsel for the appellant on March 1, 2013, that it intended to reassess the appellant and gave him the opportunity to delay the assessment to a date after the Court judgment and to discuss the findings of the judgment. The appellant refused this offer, alleging that he did not owe any tax. The assessment was made on April 30, 2013, and the appellant filed his notice of objection on July 18, 2013.
+[69] The CRA informed the appellant of the basis for the assessment well before the hearing of the motion before the Court and the appellant had the opportunity to adjust or amend his motion to take the assessment into consideration. Counsel for the appellant was undoubtedly satisfied that the motion to quash was the appropriate way to have the assessment vacated even though restitution was not possible before the date of the judgment.
+[70] On the basis of the foregoing, I am not convinced that the CRA acted in bad faith, misled the appellant, set a trap for him or used unjustified procedures in the circumstances.
+[71] Estoppel is a common law concept that does not have an equivalent in Quebec civil law. The only type of estoppel that might be of interest in this case, if the concept were applicable in Quebec, would be estoppel in pais, more specifically, with regard to the CRA's behaviour. Considering the findings noted in the preceding paragraph, I do not see how estoppel in pais with regard to the CRA's behaviour could apply in the circumstances.
+[72] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 10th day of January 2019.
+Janine Anderson, Revisor
+Annex
+The following are the relevant provisions of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.):
+15(2) Shareholder debt — Where a person (other than a corporation resident in Canada) or a partnership (other than a partnership each member of which is a corporation resident in Canada) is
+(a) a shareholder of a particular corporation,
+(b) connected with a shareholder of a particular corporation, or
+(c) a member of a partnership, or a beneficiary of a trust, that is a shareholder of a particular corporation
+and the person or partnership has in a taxation year received a loan from or become indebted to the particular corporation, any other corporation related to the particular corporation or a partnership of which the particular corporation or a corporation related to the particular corporation is a member, the amount of the loan or indebtedness is included in computing the income for the year of the person or partnership.
+80.4(2) Idem — Where a person (other than a corporation resident in Canada) or a partnership (other than a partnership each member of which is a corporation resident in Canada) was
+(a) a shareholder of a corporation,
+(b) connected with a shareholder of a corporation, or
+(c) a member of a partnership, or a beneficiary of a trust, that was a shareholder of a corporation,
+and by virtue of that shareholding that person or partnership received a loan from, or otherwise incurred a debt to, that corporation, any other corporation related thereto or a partnership of which that corporation or any corporation related thereto was a member, the person or partnership shall be deemed to have received a benefit in a taxation year equal to the amount, if any, by which
+(d) all interest on all such loans and debts computed at the prescribed rate on each such loan and debt for the period in the year during which it was outstanding
+exceeds
+(e) the amount of interest for the year paid on all such loans and debts not later than 30 days after the later of the end of the year and December 31, 1982.
+80.4(3) Where ss. (1) and (2) do not apply — Subsections 80.4(1) and (2) do not apply in respect of any loan or debt, or any part thereof,
+(a) on which the rate of interest was equal to or greater than the rate that would, having regard to all the circumstances (including the terms and conditions of the loan or debt), have been agreed on, at the time the loan was received or the debt was incurred, between parties dealing with each other at arm’s length if
+(i) none of the parties received the loan or incurred the debt by virtue of an office or employment or by virtue of the shareholding of a person or partnership, and
+(ii) the ordinary business of the creditor included the lending of money,
+except where an amount is paid or payable in any taxation year to the creditor in respect of interest on the loan or debt by a party other than the debtor; or
+(b) that was included in computing the income of a person or partnership under this Part.
+83(2) Capital dividend — Where at any particular time after 1971 a dividend becomes payable by a private corporation to shareholders of any class of shares of its capital stock and the corporation so elects in respect of the full amount of the dividend, in prescribed manner and prescribed form and at or before the particular time or the first day on which any part of the dividend was paid if that day is earlier than the particular time, the following rules apply:
+(a) the dividend shall be deemed to be a capital dividend to the extent of the corporation’s capital dividend account immediately before the particular time; and
+(b) no part of the dividend shall be included in computing the income of any shareholder of the corporation.
+83(3) Late filed elections — Where at any particular time after 1974 a dividend has become payable by a corporation to shareholders of any class of shares of its capital stock, and subsection 83(1) or (2) would have applied to the dividend except that the election referred to therein was not made on or before the day on or before which the election was required by that subsection to be made, the election shall be deemed to have been made at the particular time or on the first day on which any part of the dividend was paid, whichever is the earlier, if
+(a) the election is made in prescribed manner and prescribed form;
+(b) an estimate of the penalty in respect of that election is paid by the corporation when that election is made; and
+(c) the directors or other person or persons legally entitled to administer the affairs of the corporation have, before the time the election is made, authorized the election to be made.
+83(4) Penalty for late filed election — For the purposes of this section, the penalty in respect of an election referred to in paragraph 83(3)(a) is an amount equal to the lesser of
+(a) 1% per annum of the amount of the dividend referred to in the election for each month or part of a month during the period commencing with the time that the dividend became payable, or the first day on which any part of the dividend was paid if that day is earlier, and ending with the day on which that election was made, and
+(b) the product obtained when $500 is multiplied by the proportion that the number of months or parts of months during the period referred to in paragraph 83(4)(a) bears to 12.
+89(1) capital dividend account − of a corporation at any particular time means the amount, if any, by which the total of
+(a) the amount, if any, by which
+(i) the total of all amounts each of which is the amount if any, by which
+(A) the amount of the corporation's capital gain — computed without reference to subparagraphs 52(3)(a)(ii) and 53(1)(b)(ii) — from the disposition (other than a disposition that is the making of a gift after December 8, 1997 that is not a gift described in subsection 110.1(1)) of a property in the period beginning at the beginning of its first taxation year that began after the corporation last became a private corporation and that ended after 1971 and ending immediately before the particular time (in this definition referred to as "the period")
+exceeds the total of
+(B) the portion of the capital gain referred to in clause (A) that is the corporation's taxable capital gain,
+(B.1) the corporation's taxable capital gain from a disposition in the period under subsection 40(12), and
+(C) the portion of the amount, if any, by which the amount determined under clause (A) exceeds the amount determined under clause (B) from the disposition by it of a property that can reasonably be regarded as having accrued while the property, or a property for which it was substituted,
+(I) except in the case of a disposition of a designated property, was a property of a corporation (other than a private corporation, an investment corporation, a mortgage investment corporation or a mutual fund corporation),
+(II) where, after November 26, 1987, the property became a property of a Canadian-controlled private corporation (otherwise than by reason of a change in the residence of one or more shareholders of the corporation), was a property of a corporation controlled directly or indirectly in any manner whatever by one or more non-resident persons, or
+(III) where, after November 26, 1987, the property became a property of a private corporation that was not exempt from tax under this Part on its taxable income, was a property of a corporation exempt from tax under this Part on its taxable income,
+exceeds
+(ii) the total of all amounts each of which is the amount, if any, by which
+(A) the amount of the corporation's capital loss — computed without reference to subparagraphs 52(3)(a)(ii) and 53(1)(b)(ii) — from the disposition (other than a disposition that is the making of a gift after December 8, 1997 that is not a gift described in subsection 110.1(1)) of a property in the period
+exceeds the total of
+(B) the part of the capital loss referred to in clause (A) that is the corporation’s allowable capital loss, and
+(C) the portion of the amount, if any, by which the amount determined under clause (A) exceeds the amount determined under clause (B) from the disposition by it of a property that can reasonably be regarded as having accrued while the property, or a property for which it was substituted,
+(I) except in the case of a disposition of a designated property, was a property of a corporation (other than a private corporation, an investment corporation, a mortgage investment corporation or a mutual fund corporation),
+(II) where, after November 26, 1987, the property became a property of a Canadian-controlled private corporation (otherwise than by reason of a change in the residence of one or more shareholders of the corporation), was a property of a corporation controlled directly or indirectly in any manner whatever by one or more non-resident persons, or
+(III) where, after November 26, 1987, the property became a property of a private corporation that was not exempt from tax under this Part on its taxable income, was a property of a corporation exempt from tax under this Part on its taxable income,
+(b) all amounts each of which is an amount in respect of a dividend received by the corporation on a share of the capital stock of another corporation in the period, which amount was, by virtue of subsection 83(2), not included in computing the income of the corporation,
+(c) the total of all amounts each of which is an amount required to have been included under this paragraph as it read in its application to a taxation year that ended before February 28, 2000,
+. . .
+(c.2) the amount, if any, by which
+(i) the total of all amounts each of which is an amount required by paragraph 14(1)(b) to be included in computing the corporation’s income in respect of a business carried on by the corporation for a taxation year that is included in the period and that ends after October 17, 2000,
+exceeds
+(ii) where the corporation has deducted an amount under subsection 20(4.2) in respect of a debt established by it to have become a bad debt in a taxation year that is included in the period and that ends after October 17, 2000, or has an allowable capital loss for such a year because of the application of subsection 20(4.3), the amount determined by the formula
+X + Y
+where
+X is the value determined for A under subsection 20(4.2) in respect of the corporation for the last such taxation year that ended in the period, and
+Y is 1/3 of the value determined for B under subsection 20(4.2) in respect of the corporation for the last such taxation year that ended in the period, and
+(iii) in any other case, nil,
+. . .
+184(2) Tax on excessive elections — If a corporation has elected in accordance with subsection 83(2), 130.1(4) or 131(1) in respect of the full amount of any dividend payable by it on shares of any class of its capital stock (in this section referred to as the “original dividend”) and the full amount of the original dividend exceeds the portion of the original dividend deemed by that subsection to be a capital dividend or capital gains dividend, as the case may be, the corporation shall, at the time of the election, pay a tax under this Part equal to 3/5 of the excess.
+184(3) Election to treat excess as separate dividend — If, in respect of an original dividend payable at a particular time, a corporation would, but for this subsection, be required to pay a tax under this Part in respect of an excess referred to in subsection (2), and the corporation elects in prescribed manner on or before the day that is 90 days after the day of sending of the notice of assessment in respect of the tax that would otherwise be payable under this Part, the following rules apply:
+(a) the portion of the original dividend deemed by subsection 83(2), 130.1(4) or 131(1) to be a capital dividend or capital gains dividend, as the case may be, is deemed for the purposes of this Act to be the amount of a separate dividend that became payable at the particular time;
+(b) if the corporation identifies in its election any part of the excess, that part is, for the purposes of any election under subsection 83(2), 130.1(4) or 131(1) in respect of that part, and, where the corporation has so elected, for all purposes of this Act, deemed to be the amount of a separate dividend that became payable immediately after the particular time;
+(c) the amount by which the excess exceeds any portion deemed by paragraph (b) to be a separate dividend for all purposes of this Act is deemed to be a separate taxable dividend that became payable at the particular time; and
+(d) each person who held any of the issued shares of the class of shares of the capital stock of the corporation in respect of which the original dividend was paid is deemed
+(i) not to have received any portion of the original dividend, and
+(ii) to have received, at the time that any separate dividend determined under any of paragraphs (a) to (c) became payable, the proportion of that dividend that the number of shares of that class held by the person at the particular time is of the number of shares of that class outstanding at the particular time except that, for the purpose of Part ​XIII, the separate dividend is deemed to be paid on the day that the election in respect of this subsection is made.
+20(1)(j) Repayment of loan by shareholder — such part of any loan or indebtedness repaid by the taxpayer in the year as was by virtue of subsection 15(2) included in computing the taxpayer’s income for a preceding taxation year (except to the extent that the amount of the loan or indebtedness was deductible from the taxpayer’s income for the purpose of computing the taxpayer’s taxable income for that preceding taxation year), if it is established by subsequent events or otherwise that the repayment was not made as part of a series of loans or other transactions and repayments;
+CITATION:
+2017 TCC 69
+COURT FILE NO.:
+2015-2158(IT)G
+STYLE OF CAUSE:
+Marc St-Pierre and Her Majesty the Queen
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+January 23, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+June 1, 2017
+APPEARANCES:
+Counsel for the appellant:
+Pierre Hémond
+Counsel for the respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Pierre Hémond
+Firm:
+[EN BLANC]
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

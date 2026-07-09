@@ -1,0 +1,178 @@
+Title: Repsol Canada Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110340/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-154-110340-repsol-canada-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-06-19
+
+# Repsol Canada Ltd. c. La Reine
+
+- Citation: 2015 CCI 154
+- Decision date: 2015-06-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2652, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Repsol Canada Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-19
+Référence neutre
+2015 CCI 154
+Numéro de dossier
+2012-1931(IT)G, 2012-1933(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1931(IT)G
+ENTRE :
+REPSOL CANADA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-1933(IT)G
+ENTRE :
+REPSOL ENERGY CANADA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+L'honorable juge Campbell J. Miller
+ORDONNANCE
+Les dépens sont adjugés ainsi :
+i. les dépens postérieurs à l'offre de règlement sont fixés à 80 % des dépens avocat‑client, soit 264 334 $;
+ii. les dépens antérieurs à l'offre de règlement sont fixés à 50 % des dépens avocat‑client, soit 262 051 $;
+iii. les débours sont de 35 308 $;
+iv. les dépens de la présente requête sont fixés à 80 % des dépens établis sur une base avocat‑client plus les débours raisonnables, sur lesquels j'invite les parties à s'entendre.
+Signé à Ottawa, Canada, ce 19e jour de juin 2015.
+« Campbell J. Miller »
+Le juge C. Miller
+Référence : 2015 CCI 154
+Date : 20150619
+Dossier : 2012-1931(IT)G
+ENTRE :
+REPSOL CANADA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-1933(IT)G
+ENTRE :
+REPSOL ENERGY CANADA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS CONCERNANT LES OBSERVATIONS SUR LES DÉPENS
+Le juge C. Miller
+[1] Repsol Canada Ltd. et Repsol Energy Canada Ltd. (collectivement les « appelantes ») ont présenté une requête pour les dépens suivants :
+a) des dépens indemnitaires substantiels, conformément au paragraphe 147(3.1) et aux dispositions connexes des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »), qui selon le calcul des appelantes s'élèvent à 264 334 $ pour les frais juridiques supportés après le dépôt de l'offre de règlement du 25 février 2014 (l'« offre de règlement »);
+b) des dépens supplémentaires de 33 042 $, conformément au paragraphe 147(3) des Règles, soit 10 % des frais juridiques supportés après le dépôt de l'offre de règlement;
+c) des dépens supplémentaires de 391 296 $, conformément au paragraphe 147(3) des Règles, soit 75 % des frais juridiques supportés au titre des appels, à compter de la préparation des avis d'appel;
+d) le montant de tous les débours raisonnables, qui selon les calculs des appelantes s'élève à 54 225 $;
+e) les dépens de la présente requête, fixés à 80 % des dépens établis sur une base avocat-client, plus tous les débours raisonnables;
+f) tout autre redressement que la Cour pourra accorder.
+[2] L'intimée a riposté avec ce qui suit :
+a) des dépens de 259 681,12 $, conformément au paragraphe 147(3.1) des Règles, soit 80 % de 324 601 $ (330 418 $ – 5 816,97 $, somme déduite pour les avocats des appelantes n'ayant pas consacré beaucoup de temps au dossier);
+b) pas de majoration de 10 % des frais juridiques pour la période postérieure à l'offre de règlement;
+c) le tarif pour la période du 15 mai 2012 au 25 février 2014, sans dépens pour la période antérieure au 15 mai 2012, à condition que d'autres observations puissent être présentées si la Cour décide qu'une majoration des dépens s'impose;
+d) une directive de la Cour ordonnant aux parties [TRADUCTION] « de se concerter sur les débours afin de s'accorder sur le plus d'éléments possible et de nommer au besoin un officier taxateur pour ceux qui n'auront pas été réglés »;
+e) aucune mention précise quant aux dépens pour la requête; je suppose donc que la position de l'intimée est que les dépens soient adjugés conformément au tarif à la partie ayant gain de cause.
+[3] L'objet du litige était le traitement fiscal du capital investi en 2005, en 2006 et en 2007 dans un terminal de gaz naturel liquéfié, dont une jetée, situé au Nouveau‑Brunswick; plus précisément, la question qui se posait était de savoir si le terminal et la jetée relevaient des catégories 1 et 3 respectivement aux fins de la déduction pour amortissement et ne donnaient donc pas droit au crédit d'impôt à l'investissement, ou bien si les actifs relevaient de la catégorie 43, donnant alors droit au crédit d'impôt à l'investissement. L'instruction a duré trois jours à la fin du mois d'octobre 2014 et j'ai rendu jugement en faveur des appelantes le 27 janvier 2015.
+[4] Les appelantes ont eu entièrement gain de cause et ont obtenu un jugement plus favorable que l'offre de règlement.
+[5] Les dépens peuvent se décomposer ainsi :
+A. les frais supportés après l'offre de règlement, dont ceux de la requête;
+B. les frais supportés avant l'offre de règlement;
+C. les débours.
+A. La période postérieure à l'offre de règlement [6] Le paragraphe 147(3.1) des Règles prévoit ce qui suit :
+Sauf directive contraire de la Cour, lorsque l'appelant fait une offre de règlement et qu'il obtient un jugement qui est au moins aussi favorable que l'offre de règlement, l'appelant a droit aux dépens entre parties jusqu'à la date de la signification de l'offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+[7] Tous s'entendent pour dire que cette règle s'applique. Quelques questions préliminaires sont toutefois à régler pour cette période :
+i. Le pourcentage de 80 % des dépens avocat-client s'applique-t-il à la somme de 5 816 $, qui représente les dépens relatifs aux intervenants mineurs dans le litige?
+ii. La règle s'applique-t-elle après la date de l'instruction, de façon à inclure les dépens pour la présente requête?
+iii. Peut-on demander des dépens majorés, outre le pourcentage de 80 % accordé?
+(i) La somme de 5 816 $ [8] Cette somme se rapporte au travail effectué par deux associés, trois étudiants, ce que l'on a appelé « Doc‑Pro », et par des bibliothécaires, soit 30 heures au total. L'intimée se fonde sur des observations formulées dans l'ordonnance rendue dans l'affaire Capital Générale Électrique du Canada Inc. c. La Reine[1], où le juge Hogan a écarté la totalité des heures de travail de ceux qui, selon lui, n'avaient pas consacré beaucoup de temps au dossier. Je relève que, dans cette affaire, 77 avocats avaient travaillé au dossier, comparativement aux sept avocats et aux trois étudiants qui ont travaillé au dossier dans la présente affaire. Le juge Hogan a précisé qu'il ne pouvait s'empêcher de penser qu'il y avait eu des chevauchements. Ses observations ne se situaient pas toutefois dans le contexte du paragraphe 147(3.1) des Règles, car il s'agissait d'adjuger une somme globale. Du fait de ces différences majeures entre l'affaire dont je suis saisi et l'affaire Générale Électrique, je ne me sens pas tenu d'accepter le principe général selon lequel, pour fixer les dépens indemnitaires substantiels suivant le paragraphe 147(3.1) des Règles, il ne faut pas tenir compte des dépens afférents à des personnes n'ayant pas consacré beaucoup de temps au dossier. Je ne parlerai même pas de la possibilité qu'un stagiaire en droit brillant découvre en deux heures de travail ce qui permettrait en définitive d'obtenir gain de cause. Je n'écarte pas les 5 816 $.
+(ii) Le paragraphe 147(3.1) des Règles s'applique-t-il à la présente demande de dépens? [9] Je ne vois pas pourquoi il ne s'appliquerait pas, étant donné que son libellé vise simplement des dépens indemnitaires substantiels après la date de l'offre de règlement : il ne limite pas ces dépens à la date du jugement. Je conclus que le pourcentage de 80 % s'applique aux dépens afférents à la requête.
+(iii) Les dépens majorés, outre les dépens indemnitaires substantiels [10] Je conclus que le pouvoir discrétionnaire de la Cour lui permet d'adjuger des dépens plus importants que les dépens indemnitaires substantiels visés au paragraphe 147(3.1) des Règles. Ceci ressort du début du paragraphe, « Sauf directive contraire de la Cour [...] », et est conforme au principe prépondérant selon lequel les dépens relèvent du pouvoir discrétionnaire du juge. Si je comprends bien le paragraphe 147(3.1) des Règles, il ne circonscrit en rien la détermination des dépens. L'adjudication de dépens majorés qui dépassent le tarif ou l'indemnisation substantielle constitue plutôt une question de degré. Ce n'est pas parce que je peux exercer mon pouvoir discrétionnaire pour adjuger des dépens au‑delà du tarif pour la période antérieure à l'offre de règlement que je dois augmenter les dépens au‑delà des dépens indemnitaires substantiels pour la période postérieure à l'offre de règlement. L'adjudication de dépens dépassant 80 % s'approche des dépens avocat‑client et il nous faut à mon avis agir avec prudence. Les facteurs qui sous‑entendent des actes douteux de la part des parties acquièrent à mon avis une importance accrue : actes qui prolongent la durée, refus d'admettre, actes inappropriés, vexatoires ou inutiles — tous ces actes sont à prendre en compte. J'irais jusqu'à affirmer que c'est le caractère flagrant des actes qui m'inciterait à exercer mon pouvoir discrétionnaire pour accorder des dépens au‑delà des dépens indemnitaires substantiels. En l'espèce, je ne décèle pas d'acte qui justifierait une adjudication de dépens se rapprochant d'une indemnisation totale. Les appelantes se fondent sur l'observation que le juge Bocock a formulée dans l'affaire Thomas O'Dwyer c. La Reine[2], où il a adjugé des dépens équivalents à 90 % des dépens avocat‑client, après avoir conclu que l'État avait [TRADUCTION] « constamment évalué de façon étroite, superficielle et hâtive le bien‑fondé de la cotisation (ce qu'en définitive reflète la réponse) ». Je remarque que cette adjudication portait sur une requête dans laquelle la Cour a radié l'ensemble de la réponse compte tenu du fait qu'elle ne faisait pas valoir de motifs raisonnables. Telle n'est pas la situation dont je suis saisi. Les parties se sont battues avec acharnement, et l'intimée ne me semble pas s'être inutilement acharnée indûment ou délibérément. Dans mon examen de la période antérieure à l'offre de règlement, j'analyserai quelques actes qui influent sur ma conclusion pour cette période. Je ne suis cependant pas disposé à attribuer plus de 80 % pour la période postérieure à l'offre de règlement, soit 264 334 $, plus les dépens de la présente requête, qui correspondent à 80 % des dépens avocat‑client y afférents.
+B. La période antérieure à l'offre de règlement [11] Tout d'abord, l'intimée s'oppose aux frais supportés par les appelantes avant le dépôt des appels. Celles‑ci n'ont en fait rien demandé pour la période préalable à la préparation de l'avis d'appel, cette dernière faisant à mon avis partie de l'instance et faisant l'objet d'une demande fondée. Je remarque toutefois que les appelantes semblent avoir demandé des débours pour cette période antérieure, ce que j'examinerai dans mon analyse des débours. Les appelantes demandent 75 % des dépens avocat‑client qui s'élèvent à 545 102 $, soit 393 076 $ selon mes calculs, bien que dans la requête, elles demandent 391 296 $.
+[12] Les appelantes ont‑elles droit à des dépens qui dépassent le tarif? La jurisprudence de la Cour canadienne de l'impôt à propos des dépens a évolué. Le juge Boyle résume remarquablement dans la décision Spruce Credit Union c. La Reine[3] ce qui selon certains constitue une démarche nouvelle. Il faut simplement exercer notre pouvoir discrétionnaire avec cohérence pour apprécier les facteurs prévus au paragraphe 147(3) des Règles sans coller servilement au tarif. Ainsi que je l'ai déclaré dans la décision Daishowa‑Marubeni International Ltd. c. La Reine[4], il y aura cohérence pour autant que les tribunaux suivent à l'avenir cette démarche raisonnée. Les appelantes ont fourni à cet égard un tableau utile qui résume quelques attributions récentes et indique les pourcentages attribués ainsi que l'évaluation de plusieurs facteurs prévus au paragraphe 147(3) des Règles. J'ai remarqué que, dans l'évaluation des appelantes, les actes de l'État sont qualifiés de douteux, médiocres ou très médiocres (ce qui correspond à une adjudication de 30 % dans l'affaire Blackburn Radio Inc. c. La Reine[5], de 60 % dans l'affaire Reynold Dickie c. La Reine[6], et de 90 % dans l'affaire O'Dwyer). Les appelantes ont inclus leur propre demande dans leur tableau et ont laissé entendre que les actes de l'État avaient été médiocres. J'y reviendrai plus loin.
+[13] J'examine à présent les facteurs que prévoit le paragraphe 147(3) des Règles.
+a) Le résultat Les appelantes ont entièrement eu gain de cause dans leurs appels.
+b) Les sommes en cause Les parties estiment que la somme en cause est de l'ordre de 38 000 000 $ à un peu plus de 50 000 000 $. L'intimée laisse entendre que c'est là un facteur neutre, car il lui appartient de protéger l'assiette fiscale canadienne et donc de donner suite aux cotisations. Je ne remets pas en cause le rôle de l'État, mais j'estime que la somme est considérable et que l'importance du rôle de l'État ne l'emporte pas.
+c) L'importance des questions en litige L'État soutient que l'importance des questions était uniquement neutre. Les appelantes soutiennent que l'affaire est un bel exemple [TRADUCTION] « d'interprétation textuelle, contextuelle et téléologique en vue de résoudre un problème complexe d'interprétation », et que l'importance de telles questions va s'accroître, de même que l'interprétation des arrêts de la Cour d'appel antérieurs aux modifications réglementaires. Je n'estime pas que les observations générales des appelantes à cet égard confèrent aux questions de l'espèce une importance qui justifie des dépens majorés. Il appartient à la Cour d'interpréter des textes légaux complexes — il n'y a là rien d'extraordinairement important à cet égard.
+d) L'offre de règlement Ce facteur est bien évidemment entré en jeu pour l'attribution des dépens indemnitaires substantiels liés à la période postérieure à l'offre de règlement; c'est là que se situe son importance.
+e) La charge de travail L'équipe juridique des appelantes a inscrit 1 855 heures pour les 30 mois qu'a duré l'instance, et l'intimée, 1 035 heures. Celle‑ci affirme simplement que la charge de travail des avocats des appelantes n'est en comparaison pas raisonnable pour une instruction de trois jours. Je ne partage pas ce point de vue. Il est facile d'accuser la partie adverse de passer trop de temps sur le dossier, mais il convient d'examiner plusieurs facteurs avant de critiquer aussi promptement : la somme en cause était considérable, l'instance a duré 30 mois, la charge de la preuve incombait aux appelantes, les faits étaient complexes, des experts ont dû être consultés même si au final ils n'ont pas témoigné, la politique économique et l'historique législatif ont fait l'objet de recherches, les dispositions, notamment réglementaires, étaient complexes, les clients étaient internationaux. En tenant compte de l'ensemble de ces éléments et en me fondant sur la prémisse que les cabinets d'avocats de bonne réputation servent leurs clients non seulement avec diligence mais avec intégrité, je conclus que la charge de travail en l'espèce est justifiée, qu'elle a été considérable et donc qu'elle milite en faveur d'une majoration des dépens.
+f) La complexité des questions en litige Les faits étaient complexes, notamment la construction technique et le fonctionnement des installations et les nombreuses ententes commerciales à l'appui de l'arrangement. Les dispositions légales également étaient complexes, de même que leur évolution exposée dans l'examen de la politique économique et de l'historique législatif. Les arguments étaient fouillés. Ceci milite en faveur d'une majoration des dépens.
+g) La conduite d'une partie qui a abrégé ou prolongé la durée de l'instance Les appelantes se fondent sur l'importance accordée à ce facteur dans la décision Dickie, dans laquelle le juge Pizzitelli a conclu ce qui suit :
+[TRADUCTION]
+Je conviens aussi toutefois avec l'appelant qu'eu égard au libellé clair et à l'intention des arrêts de la Cour suprême du Canada, qui ont en fait réduit, si ce n'est effacé, l'importance du facteur du marché ordinaire, l'intimée aurait pu abréger l'instance en admettant ce fait avant le procès.
+Les appelantes soutiennent que je suis en présence d'une situation similaire, car elles ont remis à l'intimée, bien longtemps avant l'instruction, un sommaire de recherche [TRADUCTION] « afin de persuader celle‑ci qu'il n'était pas nécessaire de présenter la question du traitement à la Cour canadienne de l'impôt ». La position des appelantes ne me semble pas aussi assurée que celle de l'appelant dans l'affaire Dickie. Le fait qu'un argument soit accepté à l'instruction ne veut pas dire que la partie adverse aurait dû l'admettre préalablement. L'instruction n'a pas été longue, et l'intimée avait à l'évidence décidé que la question du traitement méritait d'être débattue à l'instruction, en particulier au regard des arrêts de la Cour d'appel fédérale qui ont été cités. Contrairement à ce que les appelantes laissent entendre, je ne considère pas qu'il s'agisse d'une conduite [TRADUCTION] « étroite, spéculative et inflexible ». Ce facteur influe peu sur les dépens.
+h) La conduite inappropriée, vexatoire ou inutile Les appelantes ont soulevé plusieurs points où l'État a pris selon elles des mesures inutiles, les obligeant à y consacrer beaucoup de temps et d'argent. Ce sont les mesures suivantes :
+i. Liste de documents : L'État a initialement remis une liste de 217 documents. Juste avant les interrogatoires préalables, on a demandé à l'avocat s'il était nécessaire de mener des interrogatoires préalables sur tous ces documents, et l'État en a éliminé 125 sur 217 — il n'y a là rien de vexatoire.
+ii. Exposé conjoint des faits : Sans entrer dans tous les détails et les échanges entre les parties ni dans les tentatives de présenter un exposé conjoint des faits qui ont finalement échoué, j'ai l'impression que les deux parties ont fait des efforts et qu'aucune n'est davantage à blâmer pour cet échec pour que j'aille jusqu'à conclure qu'elle a agi de façon inappropriée et vexatoire. Il me semble plutôt que ce sont là des confrontations habituelles dans les litiges.
+iii. Avis prévu à l'article 30 de la Loi sur la preuve au Canada : Sept jours avant l'instruction, l'État a signifié aux appelantes un avis de production d'un document de 960 pages intitulé « Environmental Impact Statement – Liquid Natural Gas Marine Terminal and Multipurpose Pier » (Énoncé des incidences environnementales – terminal de gaz naturel liquéfié et jetée polyvalente). Les appelantes soutiennent qu'elles ont passé un temps considérable avant l'instruction à se préparer pour le dépôt de ce document, alors que l'intimée a choisi de ne pas le présenter à l'instruction. Celle‑ci affirme simplement que les règles de la preuve autorisent les parties à signifier de tels avis sans qu'il y ait obligation de vraiment présenter les documents en preuve. C'est exact. Cependant, si l'intimée savait avant l'instruction qu'elle ne présenterait pas cette brique, elle aurait pu notifier les appelantes. Pour être poli, je dirais qu'il est contradictoire de se plaindre d'un côté que les appelantes ont consacré trop de temps au dossier et, de l'autre, de présenter un rapport de 1 000 pages juste avant l'instruction en laissant entendre qu'il serait présenté en preuve, puis de ne pas le présenter.
+iv. Recueil conjoint de documents : La veille du début de l'instruction, j'ai tenu une audience pour traiter plusieurs points de procédure. L'un d'eux était la production d'un recueil conjoint de documents, qui d'après ce que j'avais compris avait été envisagé, et pour lequel des projets avaient été préparés par l'intimée. Celle‑ci cependant n'a pas pu reproduire le cahier, ce qu'ont dû faire les appelantes. Ici encore, je ne qualifierais pas ceci de vexatoire, même si je conviens avec les appelantes que leur charge de travail s'en est trouvée alourdie.
+Pour résumer ce facteur, je ne souscris pas à la qualification de la conduite de l'intimée par les appelantes, mais j'admets que les deux derniers points leur ont, si l'on peut dire, occasionné des tracasseries supplémentaires, ce que je prends en compte dans mon estimation. Je souligne toutefois que ces deux points se situent pendant la période postérieure à l'offre de règlement, pour laquelle une indemnisation correspondant à 80 % des dépens avocat‑client est déjà accordée.
+[14] J'ai mentionné que les appelantes ont remis un tableau comparatif des dépens adjugés dans des décisions récentes et qu'elles souhaitaient s'aligner plus étroitement sur les affaires dans lesquelles le tribunal a conclu que la conduite de l'État avait été médiocre. Ce facteur ne me paraît pas suffisamment important en l'espèce pour justifier l'adjudication de dépens majorés. Je lui accorde un certain poids, mais pas tellement. Le résultat, les sommes en cause, la charge de travail et la complexité de l'affaire me semblent correspondre davantage aux dépens adjugés dans les affaires Henco Industries Limited c. La Reine[7] et Spruce Credit Union qu'à ceux adjugés dans les affaires Dickie ou O'Dwyer.
+[15] Je ne crois pas qu'il soit nécessaire de poursuivre là‑dessus en acceptant la demande de renseignements supplémentaires sur le temps consacré au dossier que l'État a présentée aux appelantes. Elles ont mentionné que les dépens antérieurs à l'offre de règlement étaient de 524 102 $. J'accepte ce chiffre et j'adjuge 50 % de cette somme, soit 262 051 $.
+Les débours [16] L'intimée s'oppose à trois catégories de débours :
+i. ceux supportés avant l'introduction des appels;
+ii. les dépenses de Me McCue pour assister aux interrogatoires préalables à Toronto;
+iii. les frais de déplacement de deux des témoins des appelantes et d'une représentante de Repsol, Mme Esther Muñoz, qui a assisté à l'instruction, mais n'y a pas témoigné.
+[17] Je souscris aux préoccupations de l'intimée concernant les débours antérieurs à la préparation de l'avis d'appel, et je réduis donc la somme demandée par les appelantes de 1 380 $. Je suis en désaccord avec l'intimée à propos de la présence de Me McCue aux interrogatoires préalables. Bien qu'il ait demandé que les interrogatoires préalables se déroulent à Toronto, sa demande a permis à tous les autres, y compris ses témoins, de dépenser moins pour y assister. Je considère donc qu'il s'agit d'une dépense raisonnable, qui peut être incluse dans mon adjudication des dépens.
+[18] À propos de deux des témoins des appelantes, je ne vois pas pourquoi ces frais ne devraient pas être pris en compte : les dépenses des témoins sont expressément couvertes par les Règles, au tarif A. Les frais de la présence à l'instruction et aux interrogatoires préalables d'une représentante des appelantes qui n'a pas témoigné, Mme Muñoz, ne sont pas des frais raisonnables devant être à la charge de l'intimée.
+[19] Je relève que les frais de la présence aux interrogatoires préalables de Mme Muñoz et de M. Azcarraga sont d'environ 7 200 $. Plutôt que de procéder à une vérification approfondie des dépenses, j'en rejette la moitié, soit 3 600 $, ce qui représente probablement les frais afférents à Mme Muñoz. Je rejette également ses frais de 6 559 $ pour assister à l'instruction.
+[20] Il semble que M. Azcarraga a effectué ses vols en classe affaire, dont le coût s'élève à 9 283 $. Il n'est pas raisonnable que les appelantes demandent cette somme pour la présence d'un témoin. Aucune des parties ne m'a donné une idée du tarif en classe économie, et, ici encore, de façon à ne pas prolonger le débat et à ne pas me mettre dans la position d'un vérificateur, je retranche arbitrairement 7 283 $ des frais de déplacement de M. Azcarraga.
+[21] En résumé, je réduis les débours demandés par les appelantes de 54 225 $ à 35 403 $ (réductions de 1 380 $, de 3 600 $, de 6 559 $ et de 7 283 $). Franchement, j'aurais espéré que les avocats, agissant de façon raisonnable, auraient pu résoudre la question des débours.
+[22] Pour conclure, j'adjuge les dépens ainsi :
+i. les dépens postérieurs à l'offre de règlement sont fixés à 80 % des dépens avocat‑client, soit 264 334 $;
+ii. les dépens antérieurs à l'offre de règlement sont fixés à 50 % des dépens avocat‑client, soit 262 051 $;
+iii. les débours sont de 35 308 $;
+iv. les dépens de la présente requête sont fixés à 80 % des dépens établis sur la base avocat‑client plus les débours raisonnables, sur lesquels j'invite les parties à s'entendre.
+Signé à Ottawa, Canada, ce 19e jour de juin 2015.
+« Campbell J. Miller »
+Le juge C. Miller
+RÉFÉRENCE :
+2015 CCI 154
+NOS DES DOSSIERS DE LA COUR :
+2012-1931(IT)G et 2012-1933(IT)G
+INTITULÉS :
+REPSOL CANADA LTD. c. SA MAJESTÉ LA REINE et REPSOL ENERGY CANADA LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+s/o
+DATE DE L'AUDIENCE :
+s/o
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Campbell J. Miller
+DATE DE L'ORDONNANCE :
+Le 19 juin 2015
+COMPARUTIONS :
+Avocat des appelantes :
+s/o
+Avocat de l'intimée :
+s/o
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Robert D. McCue
+Cabinet :
+Bennett Jones LLP
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2010 CCI 490
+[2] 2014 TCC 90, au paragraphe 27.
+[3] 2014 CCI 42.
+[4] 2013 CCI 275.
+[5] 2013 CCI 98.
+[6] 2012 TCC 327.
+[7] 2014 TCC 278.

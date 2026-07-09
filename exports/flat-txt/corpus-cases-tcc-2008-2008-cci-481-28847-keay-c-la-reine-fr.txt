@@ -1,0 +1,175 @@
+Title: Keay c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28847/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-481-28847-keay-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-08-28
+
+# Keay c. La Reine
+
+- Citation: 2008 CCI 481
+- Decision date: 2008-08-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1356, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Keay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-28
+Référence neutre
+2008 CCI 481
+Numéro de dossier
+2007-4202(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007‑4202(IT)I ENTRE :
+DENNIS A. KEAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 24 juillet 2008, à Halifax (Nouvelle‑Écosse)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocats de l’appelant :
+Me Daniel Wallace et
+Me Karen Stillwell
+Avocat de l’intimée :
+Me Kendrick Douglas
+JUGEMENT
+Les appels formés contre les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 de l’appelant sont rejetés, sans frais.
+Signé à Toronto (Ontario), ce 28e jour d’août 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 16e jour d’octobre 2008.
+Sandra de Azevedo, LL.B.
+Référence : 2008CCI481
+Date : 20080828
+Dossier : 2007‑4202(IT)I
+ENTRE :
+DENNIS A. KEAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a déduit la somme de 15 065,22 $ en 2004, à titre de dépenses pour frais juridiques, dans le calcul de son revenu tiré de ses activités de consultation. Cette déduction des frais juridiques a été refusée, et c’est la déductibilité de cette somme qui est en cause dans le présent appel.
+[2] Les frais juridiques qui ont été déduits en 2004 ont été engagés durant la période allant du 29 avril 2002 au 29 septembre 2004. Au vu de l’état d’honoraires qui fut remis par l’avocat, il est évident qu’une portion importante des frais juridiques ne se rapportait pas à l’année d’imposition 2004, et donc, même si la somme engagée était par ailleurs déductible, elle n’aurait pas pu être entièrement déduite en 2004. L’avocat de l’appelant a reconnu que les frais juridiques qui avaient été engagés en 2002 ne pouvaient pas être considérés dans le cadre du présent appel puisque l’année d’imposition 2002 n’est pas visée par l’appel. L’avocat de l’appelant a fait valoir que les années d’imposition 2003 et 2004 sont visées par le présent appel puisque ce sont les années qui avaient été l’objet de nouvelles cotisations. Puisque le seul point indiqué dans l’avis d’appel [traduction] « est de savoir si le ministre a commis une erreur en rejetant la déduction réclamée par M. Keay pour les frais juridiques engagés dans les années d’imposition 2003 et 2004 » et que les frais juridiques n’ont été déduits que pour l’année 2004, il faut se demander si l’année d’imposition 2003 est visée par l’appel. Vu les conclusions que j’ai tirées dans la présente affaire, il est sans intérêt pratique de répondre à cette question.
+[3] Le point soulevé dans la présente affaire, relativement aux dépenses qui ont été engagées dans l’année ou les années visées par l’appel, est de savoir si les frais juridiques ont été engagés aux fins de gagner un revenu ou s’il s’agissait de dépenses personnelles ou de dépenses engagées à titre de capital. Les alinéas 18(1)(1)a), b) et h) de la Loi de l’impôt sur le revenu (la Loi) prévoient ce qui suit :
+18. (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+…
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui‑ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[4] L’appelant s’est adressé en avril 2002 à Gary Manthorne pour obtenir les services qui font l’objet du présent appel parce que la conjointe de l’appelant à l’époque lui avait dit qu’elle engageait une procédure de divorce. Une requête en divorce lui a été signifiée le 22 août 2002.
+[5] L’appelant a fait valoir que la plupart des points découlant de la procédure de divorce avaient déjà été réglés puisque son ex‑conjointe et lui avaient conclu un contrat de mariage. Il a soutenu que la raison principale pour laquelle il s’était adressé à un avocat avait trait au bien locatif dont il était propriétaire avec son ex‑conjointe. Cependant, lorsque son avocat lui a demandé de décrire les services juridiques qui avaient été fournis relativement au bien locatif, il a dit ce qui suit :
+[traduction]
+Q. Pourriez‑vous… A‑t‑il fourni les services juridiques, et, dans l’affirmative, pourriez‑vous expliquer les services juridiques qu’il a fournis à l’égard des biens durant la séparation?
+R. Bon, s’agissant des biens eux‑mêmes, il s’agit de services dont on a besoin pour l’authentification des documents, vous savez, les formalités de base. Il ne s’agissait pas de renégocier les conditions de l’hypothèque. C’était uniquement parce qu’il avait les actes dans son étude. Il avait en sa possession tout le reste, et cela a rendu les choses plus faciles.
+L’autre affaire dont il s’agissait était de nature commerciale, et c’est là l’autre sujet dont j’avais discuté avec lui, c’était cela la raison qui m’avait conduit à aller le voir une nouvelle fois.
+Q. Je vois.
+R. Vous comprenez?
+Q. Oui. S’agissant donc de votre différend avec Mme Keay, la copropriétaire des biens locatifs, quels services juridiques M. Manthorne a‑t‑il fournis?
+R. Pour être franc, aussi peu que possible, mais c’était davantage du point de vue – si je dis cela, je le dis de façon plus ou moins ironique. Il y avait plusieurs choses qu’il convenait de régler et qui m’ont donné des indications. Il savait que j’en savais assez sur la gestion d’une entreprise, et une bonne partie de la question concernait un différend avec un partenaire commercial, en l’occurrence mon épouse. Quand on gère encore une entreprise, il y a certains aspects à considérer, et vous vous devez de faire certaines choses.
+Lorsqu’a surgi la question de l’ouverture et de la clôture des comptes bancaires, le point principal était que, après tout cela, au fil des événements, la banque a décidé de rouvrir les comptes joints.
+Je sais très bien, et lui aussi, comme chacun de nous ici, que, une fois qu’est fermé un compte joint, il est fermé, n’est‑ce pas? Et, quand bien même n’auriez‑vous pas été un bon client de la Banque Royale depuis de nombreuses années, on ne fait pas ce genre de chose.
+Donc, lorsque je me suis rendu à ma succursale, ils m’ont dit qu’il n’y avait rien qu’ils puissent faire, alors devinez quoi? J’ai monté les escaliers jusqu’au dixième étage, ou le onzième étage, de l’édifice de la Banque Royale, et il se trouve que je ne pouvais être reçu nulle part, et quelqu’un s’est présenté et m’a demandé : « Que voulez‑vous? », et j’ai dit : « J’ai un problème fiduciaire à régler ». « Allez à votre succursale ». J’ai dit : « C’est la raison pour laquelle je suis ici ».
+À ce moment‑là, je me suis assis avec je ne sais trop qui, Dale Baker, je crois que c’était la patronne, elle était avocate. « Non, nous devons ouvrir ces comptes ». Et j’ai dit : « Bon, je suis désolé, vous n’allez pas manquer à votre obligation fiduciaire envers moi. J’ai assez de problèmes à régler. Les comptes bancaires sont fermés, et ils vont demeurer fermés. Nous allons – si quelque chose doit être établi, alors faisons les choses comme elles doivent être faites ».
+Et ils ont insisté sur le fait qu’ils n’allaient pas s’exécuter, donc « pourquoi ai‑je besoin d’un avocat? ». Eh bien, c’était très simple : pour qu’il me dise quoi faire, me donne les documents requis. C’est tout.
+Q. Je vois. Et êtes‑vous allé à – à qui vous êtes‑vous adressé pour vous guider dans la documentation…
+R. Gary.
+Q. Gary. Si vous allez à…
+R. Gary Manthorne. M. Manthorne, c’est cela.
+[6] En contre‑interrogatoire, l’appelant a dit que la raison principale pour laquelle il avait retenu les services de son avocat était pour exercer ses droits selon le contrat de mariage. Voici l’échange qui a eu lieu entre l’avocat de l’intimée et celui de l’appelant :
+[traduction]
+Q. Admettez‑vous alors que les services de M. Manthorne consistaient principalement à examiner le contrat de mariage que vous avez mentionné et que vous et votre épouse avez signé peu après le mariage, ou avant le mariage, de même que les biens matrimoniaux?
+R. Il était… ses services visaient d’abord à protéger a) mon droit préexistant qui avait été établi par le contrat de mariage.
+Q. Il s’agirait donc du contrat prénuptial. D’accord, pour…
+R. Oui. Vous dites?
+Q. Mêmes conditions. Très bien.
+R. La deuxième chose dont il s’agissait, et je crois l’avoir dit ce matin, s’agissant de… Sa principale tâche était notamment que… mon ex‑conjointe et ses avocats, tout ce monde‑là, cherchait à redéfinir mon régime matrimonial ou le régime matrimonial apparaissant dans le contrat.
+Ce dont il s’agit ici, si vous voulez, c’est d’une question personnelle, et je le redis, il s’agit du paiement devant tenir lieu de pension alimentaire, et il s’agit de tout le mobilier familial. Ce qui était en propriété conjointe est représenté par l’acte que vous voyez ce matin, et tout le reste apparaissant sur le… depuis 1990 est un avantage commun, ou un droit à titre bénéficiaire. C’était là le point principal.
+Et, pour faciliter votre compréhension, mon ex‑conjointe demandait, dans sa requête en divorce, une pension pour elle‑même. Quand vous avez – si vous voulez faire respecter le contrat de mariage, qui explicite les conditions du versement d’une pension au conjoint, alors demander quelque chose qu’on a déjà, ce n’est pas exercer un droit existant; c’est demander encore plus.
+[7] Dans la mesure où les frais juridiques ont été engagés pour empêcher l’ex‑épouse d’établir son droit à une pension alimentaire, ces sommes ne seraient pas déductibles. Ainsi que l’écrivait la Cour d’appel fédérale dans l’arrêt Nadeau c. Ministre du Revenu national, 2003 CAF 400; 2003 D.T.C. 5735; [2004] 1 C.T.C. 293 :
+18 Inversement, les dépenses encourues par le payeur d’une pension alimentaire (soit pour empêcher qu’elle soit établie ou augmentée, ou soit pour la diminuer ou y mettre fin), ne peuvent être considérées comme ayant été encourues pour gagner un revenu et les tribunaux n’ont jamais reconnu de droit à la déduction de ces dépenses (voir, par exemple, Bayer, supra).
+[8] L’appelant a produit en preuve une copie de l’état d’honoraires que lui avait remis Gary Manthorne pour ses services. Cependant, il n’a pas appelé Gary Manthorne à témoigner. L’unique preuve des services rendus par Gary Manthorne vient du témoignage de l’appelant, de l’information figurant sur l’état d’honoraires envoyé par le cabinet d’avocats de Gary Manthorne, et de copies de lettres écrites par Gary Manthorne. L’appelant n’a pas démontré que les frais juridiques ont été engagés principalement pour gagner un revenu ni quelle partie, le cas échéant, des frais juridiques qui a pu être engagée aux fins de gagner un revenu.
+[9] Dans son témoignage, l’appelant a dit qu’il y avait plusieurs questions se rapportant au bien locatif, notamment des questions intéressant les locataires et les moyens de s’assurer que les paiements hypothécaires étaient effectués. On n’a présenté aucune preuve des frais juridiques relatifs aux locataires ni des frais juridiques qui se rapportaient aux autres services particuliers qui étaient fournis. Il n’est guère utile de passer en revue les divers articles indiqués dans l’état d’honoraires du cabinet d’avocats, puisqu’il ne s’agit que de brefs résumés du travail exécuté. L’avis au locataire, qui selon l’appelant avait été préparé par lui‑même avec l’aide de Gary Manthorne, portait quant à lui la date du 28 juin 2002, et les frais se rapportant à la préparation de cet avis auraient donc été engagés en 2002 et ne seraient pas déductibles en 2003 ou 2004.
+[10] Les lettres suivantes rédigées par Gary Manthorne en 2003 ou 2004 ont été produites en preuve :
+a) une lettre de deux pages datée du 20 février 2003 qui traite de 12 points, notamment le partage des biens, l’acceptation de la responsabilité se rapportant au véhicule et le revenu tiré du bien locatif;
+b) une lettre d’une page datée du 2 juillet 2003, qui porte sur l’intérêt de l’appelant dans le bien locatif;
+c) une lettre d’une page datée du 16 janvier 2004, qui reconnaît l’avocat de l’ex‑conjointe de l’appelant et qui donne l’adresse postale de Gary Manthorne;
+d) une lettre d’une page datée du 22 mars 2004 adressée à l’avocat de l’ex‑conjointe de l’appelant, où l’on peut lire ce qui suit :
+[traduction]
+Suite à une lettre de la Compagnie d’assurance Dominion du Canada datée du 11 mars 2004, je voudrais vous informer que votre cliente accuse un arriéré sur la police d’assurance se rapportant à l’immeuble à revenu situé à Wellington (Nouvelle‑Écosse).
+Sachez que votre cliente est, de par sa décision unilatérale, l’unique bénéficiaire de tous les revenus locatifs tirés de cet immeuble et qu’elle assume donc la responsabilité de tous les frais s’y rapportant.
+Je joins à la présente une copie de la lettre, que je vous prie de transmettre à votre cliente, pour que nous soyons en mesure de résoudre cette affaire.
+e) une lettre de deux pages datée du 24 juin 2004, qui concerne un appel de l’ex‑conjointe à l’appelant, dans laquelle il demande des renseignements à propos des locataires, soulève la question de savoir si l’ex‑conjointe de l’appelant avait pris possession du bien, traite d’une évaluation du bien et parle d’une proposition qui avait été faite à l’ancien avocat de l’ex‑conjointe de l’appelant.
+[11] Ces lettres ne permettent pas d’affirmer que les frais de préparation de chacune d’elles ont été engagés dans le dessein de gagner un revenu. La lettre du 22 mars 2004 ne met pas en demeure l’ex‑conjointe de l’appelant de payer à celui‑ci la moitié du revenu locatif net, mais semble admettre que l’ex‑conjointe de l’appelant peut garder ce revenu, en précisant que la totalité des frais afférents à l’immeuble lui incombent. Il est impossible de dire quel pourcentage du temps consacré à la rédaction de l’une quelconque de ces lettres, qui concernent plusieurs points, visait tel ou tel des points en cause.
+[12] Il y a cependant un autre aspect important à considérer au regard de la déductibilité des frais juridiques qui ont été engagés. Les propos suivants sont extraits du témoignage de l’appelant à l’audience :
+[traduction]
+R. … on se trouve dans la situation où, si une procédure de divorce a été introduite, on se doit de protéger les actifs.
+Les réputations de solvabilité doivent être protégées, et il était autant dans mon intérêt que dans son intérêt de nous en assurer. Ma réputation était en jeu. J’ai donc obtenu une rectification.
+Je ne sais pas ce qu’elle a fait avec le reste, mais, au moment du dépôt de la requête en divorce, sans compter toutes les autres choses qui se tramaient, c’était tout à fait clair pour moi, et pour mon avocat à l’époque, c’est là que nous avons su véritablement ce qui se préparait.
+…
+Q. Oui. Et vous avez dit que vous avez reçu la somme qui couvrait juste le paiement hypothécaire.
+R. C’est exact. J’allais ainsi protéger ma réputation de solvabilité. C’était la chose la plus importante. La deuxième, évidemment, c’est que si on ne paie pas une hypothèque sur un bien locatif. On ne reste pas en affaires très longtemps.
+…
+Q. D’accord. Pourriez‑vous expliquer brièvement si cette lettre se rapporte à votre bien locatif, et en quoi?
+R. En quelques mots, le principal compte ici était destiné aux paiements hypothécaires. Elle voulait mettre ce compte à contribution, pour que… en y mettant les paiements hypothécaires, par rétablissement de notre compte joint, vous voyez? Et j’utiliserai ce compte maintenant pour cela.
+Ce qui n’a pas été dit ici, et je me fonde sur le dossier, parce que les documents, comme je l’ai dit, sont tombés du camion, à l’époque… les documents étaient… les dépôts avaient été faits depuis un compte joint, à la Banque TD, pour payer l’hypothèque, et c’est ce compte qu’elle a fermé.
+Tout ce dont je me suis assuré, a) je ne voulais pas recevoir d’autres appels téléphoniques de la banque me disant que le paiement n’avait pas été fait et que j’en étais entièrement responsable. Je ne pouvais tout simplement pas me fonder sur ce qui arrivait à l’époque. C’était là la raison principale.
+Je veux dire, pour moi, le bon sens dans tout cela, c’est que l’on gère une entreprise, et, je le redis – si vous êtes – la possibilité de grever un bien, ou une entreprise, les saisies immobilières, je suis passé par tout cela, et il n’y a aucune excuse – j’ai consacré plusieurs années à recouvrer mon crédit, ma réputation, toutes sortes de choses, cela n’allait pas arriver. C’est pourquoi je me trouve maintenant dans cette situation.
+Et en réalité, lorsque vous… me posez la question, le côté personnel de la question, s’il y avait un côté personnel, c’est ma réputation personnelle qui est en jeu dans la gestion d’une entreprise; c’est ma réputation personnelle qui est en jeu dans mon travail de consultant.
+Mais, pour l’entreprise dont il s’agit ici, il faut tenir compte de certaines autres choses. Bon, on n’a pas payé l’hypothèque. La banque nous relance : « prière de nous payer ». Je veux dire, voyez‑vous où tout cela mène, à quoi vous vous engagez? Je n’avais rien à voir avec tout cela.
+…
+R. Et la raison pour laquelle je voulais absolument protéger l’entreprise – et le revenu qui en découlait, bien entendu, je ne voulais pas que cela se reproduise. J’avais dit à ce moment‑là que j’achèterais l’entreprise, que j’achèterais la maison. Ainsi, j’allais protéger le revenu. C’est ainsi que je voyais les choses.
+Dans… à partir de là, une partie des choses qui se passaient au fil des communications, c’est que – je voulais intervenir – nous voulions intervenir pour faire une évaluation. Si l’on veut avancer dans tout cela, alors allons‑y et faisons l’évaluation.
+[13] Un thème récurrent du témoignage de l’appelant était sa volonté de protéger le bien locatif contre une saisie et contre un éventuel préjudice à sa réputation de solvabilité. Il ne voulait pas perdre le bien locatif simplement parce que des paiements hypothécaires n’avaient pas été faits et il ne voulait pas perdre sa réputation de solvabilité.
+[14] Dans la décision Muggli c. La Reine, [1994] A.C.I. no 178, [1994] 1 C.T.C. 2705, le juge Bowman (tel était alors son titre) écrivait ce qui suit :
+9 Le véritable obstacle auquel fait face l’appelant est l’alinéa 18(1)b). Même en acceptant que le coût de la protection de son titre de propriété sur la ferme constituait un débours ou une dépense engagé en vue de tirer un revenu, il s’agissait néanmoins d’un coût engagé pour préserver son titre de propriété sur un bien en immobilisation. La loi indique clairement que de telles dépenses constituent un paiement à titre de capital et que leur déduction est interdite en vertu de l’alinéa 18(1)b). À mon avis, cette affaire cadre tout à fait avec le principe énoncé par le juge Martland dans l’affaire Farmers Mutual Petroleums Ltd. v. M.N.R., 67 D.T.C. 5277, à la page 5280 [Farmers Mutual Petroleums Ltd. v. Minister of National Revenue, [1968] S.C.R. 59, [1967] C.T.C. 396, 67 D.T.C. 5277, at pages 65–66 (C.T.C. 400–01, D.T.C. 5280)] :
+[traduction]
+« On peut sûrement dire que l’appelante, en s’opposant aux poursuites intentées contre elle, cherchait à protéger son revenu, parce qu’elle tentait de protéger les biens desquels son revenu était tiré. On peut donc faire valoir que les dépenses pouvaient à bon droit être déduites en vertu de l’alinéa 12(1)a). Ce point n’a pas été contesté par l’intimé. L’objet des poursuites, toutefois, était d’obliger l’appelante à remettre aux propriétaires du bien‑fonds les droits miniers dont elle avait fait l’acquisition. Le savant juge de première instance a statué, et la preuve le confirme, que ces droits constituaient du capital fixe et étaient ainsi considérés par l’appelante. Au moment du litige, le total des droits miniers dont l’appelante avait fait l’acquisition, lesquels étaient tous du type visé par le litige, représentaient tous les biens en immobilisation de celle‑ci. L’appelante n’en faisait pas le commerce, mais avait l’intention de les conserver indéfiniment.
+C’est dans le but de protéger ces biens en immobilisation contre toute attaque que les frais judiciaires liés au litige ont été engagés et, pour reprendre les propos du juge Dixon (devenu par la suite juge en chef) dans l’affaire Hallstrom Pty. Ltd. v Federal Commissioner of Taxation, (1946) 72 C.L.R. 634, à la page 650, relativement aux coûts engagés pour défendre un titre de propriété :
+Outre le débours du prix d’achat et les frais de transfert liés à l’acquisition d’un titre de propriété, il serait difficile de trouver une forme de dépense liée à un bien qui soit davantage assimilable à un paiement à titre de capital.
+Le fait que les baux, ainsi que les droits miniers, acquis par l’appelante aient été davantage liés à la production d’un revenu que la franchise dont il était question dans l’affaire Dominion n’influe pas, en principe, sur la question en l’espèce. Il est pertinent en ce qui a trait à l’application de l’alinéa 12(1)a), mais pour ce qui est de l’alinéa 12(1)b), il faut se demander si le débours a été engagé dans le but de conserver un bien en immobilisation. À mon avis, il l’a manifestement été et, le cas échéant, l’alinéa 12(1)b) en empêche la déduction. »
+10 Voir également les affaires Brault v. M.N.R., [[1988] 2 C.T.C. 2316,] 88 D.T.C. 1736 et The Queen v. Burgess, [[1981] C.T.C. 258] 81 D.T.C. 5192 [(C.F. 1re inst.)].
+[15] Le fait que l’appelant ait dit à plus d’une reprise qu’il voulait protéger le bien locatif contre une saisie et protéger sa réputation de solvabilité est une autre raison pour laquelle il ne peut obtenir gain de cause puisque, comme l’écrivait le juge Bowman dans la décision Muggli, une dépense engagée dans le dessein de préserver le titre de propriété sur un bien en immobilisation constitue un paiement à titre de capital et n’est pas déductible.
+[16] L’appelant n’a pas établi quelle portion, le cas échéant, des frais juridiques qui ont été engagés l’a été aux fins de gagner un revenu et non à titre de capital et ne constituait pas une dépense personnelle. Dans la réponse qui a été déposée, l’intimée n’a pas invoqué l’alinéa 18(1)b) de la Loi, mais l’appelant n’en a subi aucun préjudice puisque cet alinéa avait été explicitement mentionné dans les conclusions écrites de son avocat déposées avant l’audience.
+[17] En conséquence, l’appel est rejeté, sans frais.
+Signé à Toronto (Ontario), ce 28e jour d’août 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 16e jour d’octobre 2008.
+Sandra de Azevedo, LL.B.
+RÉFÉRENCE : 2008CCI481
+N° DU DOSSIER DE LA COUR : 2007‑4202(IT)I
+INTITULÉ : DENNIS A. KEAY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 24 juillet 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 28 août 2008
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Daniel Wallace et Me Karen Stillwell
+Avocat de l’intimée :
+Me Kendrick Douglas
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Noms : Me Daniel Wallace et Me Karen Stillwell
+Cabinet : McInnes Cooper
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

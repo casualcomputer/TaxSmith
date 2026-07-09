@@ -1,0 +1,120 @@
+Title: Fontaine c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31103/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-63-31103-fontaine-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-21
+
+# Fontaine c. La Reine
+
+- Citation: 2013 CCI 63
+- Decision date: 2013-02-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4689, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fontaine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-21
+Référence neutre
+2013 CCI 63
+Numéro de dossier
+2012-2890(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2890(IT)I
+ENTRE :
+NICOLE FONTAINE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 13 février 2013, à Sherbrooke (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelante :
+Me Benoit Massicotte
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 sont rejetés, selon les motifs de jugement ci-joint.
+Signé à Ottawa, Canada, ce 21e jour de février 2013.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2013 CCI 63
+Date : 20130221
+Dossier : 2012-2890(IT)I
+ENTRE :
+NICOLE FONTAINE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante a fait appel de nouvelles cotisations établies par le ministre du Revenu national (ministre) en vertu de la Loi de l’impôt sur le revenu (LIR) pour les années d’imposition 2003, 2004 et 2005, par lesquelles on a ajouté à ses revenus des montants de 18 563 $, 28 923 $ et 23 512 $ pour chacune de ces années respectivement. Une pénalité pour production tardive a également été imposée pour les années 2004 et 2005.
+[2] L’appelante ne s’est pas présentée en Cour et a laissé le soin à son avocat de la représenter. Ce dernier a avisé la Cour que l’appelante se désistait de son appel pour l’année 2005, mais qu’elle contestait encore les nouvelles cotisations établies pour les années 2003 et 2004 au motif que le ministre n’était pas justifié de les établir puisqu’elles ont été faites après la période normale de nouvelle cotisation.
+[3] Le ministre s’est appuyé sur le sous-alinéa 152(4)a)(i) de la LIR, qui se lit comme suit :
+Loi de l’impôt sur le revenu
+152 Cotisation
+152(4) Cotisation et nouvelle cotisation — Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[…]
+[4] La seule question en litige porte donc sur la possibilité pour le ministre de recotiser après l’expiration de la période normale de nouvelle cotisation pour les années d’imposition 2003 et 2004.
+[5] Si je dois conclure que le ministre a démontré qu’il était en droit d’agir ainsi en vertu du sous-alinéa 152(4)a)(i) de la LIR, l’appelante ne conteste pas ces nouvelles cotisations au mérite.
+[6] Tel qu’établi par la jurisprudence, c’est au ministre qu’il incombe de prouver qu’il avait le droit d’établir une nouvelle cotisation à l’égard de l’appelante en dehors de la période normale de nouvelle cotisation. A cet égard, le ministre doit tout d’abord prouver que l’appelante a fait une présentation erronée des faits lorsqu’elle a produit sa déclaration de revenus ou fourni des renseignements sous le régime de la LIR. Par la suite le ministre doit également démontrer que la présentation erronée des faits a été faite par négligence, inattention ou omission volontaire (voir Boucher c. Canada, 2004 CAF 46, paragraphe 5; et D’Andrea c. La Reine, 2011 CCI 298, paragraphes 32 et 33).
+[7] L’intimée a fait témoigner madame Francine Boutin, vérificatrice pour l’Agence du revenu du Canada (ARC). Celle-ci a dit qu’elle avait reçu le mandat de faire la vérification de la société Système Gedoc Inc. (Gedoc), dont l’unique actionnaire est l’appelante, de même que de la société exploitée par le conjoint de l’appelante, monsieur Pierre Nadeau. La vérification portait sur les années 2004 et 2005 pour Gedoc. Cette dernière travaillait en étroite collaboration avec la société de Pierre Nadeau, de laquelle elle tirait des revenus importants. Madame Boutin a expliqué que Gedoc n’avait pas produit de déclarations fiscales en 2004 et 2005 dans le délai imparti pour le faire. Elles ont été finalement produites à la demande de l’ARC aux termes du paragraphe 152(7) de la LIR.
+[8] Lors de la vérification des livres de Gedoc, madame Boutin a réalisé que la société n’avait pas de système comptable établi. La tenue de livres était faite sur un document maison, sur un tableau informatique Excel. Il n’y avait aucune conciliation bancaire des données informatisées. Par ailleurs, elle a remarqué des différences entre les soldes de bilan en début d’année, sans plus d’explications. Elle a donc consulté les états financiers pour l’année financière 2003 et s’est rendu compte qu’on avait amendé ces états financiers sans en faire part au gouvernement. Un redressement de 100 000 $ (50 000 $ de revenus additionnels et 50 000 $ de dépenses prises en trop) avait été effectué.
+[9] En examinant la liste des dépenses par postes et par dates (dont une partie a été produite sou la cote I-1), de même que les états financiers (incluant ceux qui ont été amendés pour l’année 2003) déposés sous la cote I-2, elle a constaté l’existence de frais de gestion. Ces frais de gestion représentaient les retraits effectués par l’appelante du compte bancaire de Gedoc. Après une première rencontre avec l’appelante, cette dernière a demandé à madame Boutin de discuter avec son conjoint, monsieur Nadeau, car c’est ce dernier qui s’occupait de la comptabilité des deux sociétés. Selon madame Boutin, monsieur Nadeau s’est contenté de lui répondre que les frais de gestion en question étaient des frais pour gérer l’entreprise. Aucune autre explication n’a été fournie. Madame Boutin a par la suite constaté que sur une période de trois ans, l’appelante avait seulement déclaré des revenus pour lesquels un feuillet T-4 avait été établi. Ainsi, elle a déclaré 12 128 $ en 2003, 12 703 $ en 2004 et 17 250 $ en 2005 (pièce I-3), lesquels montants auraient été, selon madame Boutin, comptabilisés par Gedoc dans le poste des salaires généraux de l’entreprise. Les frais de gestion comptabilisés dans une section séparée dans les livres de la société, n’ont pas été déclarés par l’appelante dans sa déclaration de revenu, pour les trois années en question. Ils représentaient des montants de 18 563 $ en 2003, 20 961 $ en 2004 et 19 823 $ en 2005 (pièce I‑1).
+[10] Par ailleurs, Gedoc avait remboursé quelques dépenses personnelles à l’appelante, soit 3 439 $ en 2004 et 2 930 $ en 2005 (voir alinéa 20(e) de la Réponse à l’avis d’appel). Monsieur Nadeau n’aurait pas contesté ceci.
+[11] Dans son avis d’appel (paragraphe 15), l’appelante a mentionné que les montants comptabilisés comme des frais de gestion auraient plutôt dû être comptabilisés au compte des prêts aux actionnaires. Madame Boutin a dit que monsieur Nadeau ne lui avait jamais parlé de ceci pendant la vérification. Cette explication serait sortie lors de la présentation du projet de cotisation. Or, aucun billet ou document établissant un prêt n’a été fourni dans le dossier de l’appelante. De plus, au bilan de Gedoc, aucun montant n’apparaissait au poste « dû aux actionnaires ». Ceci n’a donc pas été retenu. Madame Boutin a constaté que les montants non déclarés par l’appelante dans ses déclarations de revenus correspondaient à plus de la moitié des revenus déclarés, et ceci sur une période de trois ans, alors qu’il y avait eu plusieurs retraits consécutifs (comme on peut le constater à la lecture du poste « 060 Frais – Gestion », dans la liste des dépenses par postes et par dates, pièce I-1).
+[12] Par ailleurs, si il y avait vraiment eu erreur de comptabilisation, comme semble soutenir l’appelante dans son avis d’appel, ils avaient amplement le temps, sur une période de trois ans, de corriger l’erreur, ce qui n’a pas été fait.
+[13] En contre-interrogatoire, madame Boutin a souligné que l’information donnée dans l’avis d’appel voulant que l’appelante ait commencé à rembourser Gedoc, n’a jamais été portée à son attention, et donc non vérifiée.
+Analyse
+[14] L’avocat de l’appelante soutient que l’intimée a inféré par procuration une omission volontaire de l’appelante de déclarer des revenus. Il soutient que le seul témoignage de madame Boutin n’était pas suffisant et que l’intimée aurait dû assigner l’appelante et son conjoint, monsieur Nadeau, à comparaître comme témoins. Il soutient que l’intimée devait faire une preuve positive de négligence, ce qu’il suggère n’a pas été fait.
+[15] L’avocat de l’appelante reconnaît qu’il y a eu présentation erronée des revenus dans les déclarations de revenus de cette dernière.
+[16] Il faut donc que je décide si l’intimée a fait la preuve que cette présentation erronée a été faite par négligence, inattention, ou omission volontaire.
+[17] Dans l’affaire Venne c. Canada, [1984] A.C.F. no 314 (QL), citée par l’intimée, il fut décidé que la négligence est établie s’il est démontré que le contribuable n’a pas fait preuve de diligence raisonnable. Par ailleurs, il ne suffit pas de faire valoir qu’il y a eu omission volontaire. Il faut que des éléments de preuve soient présentés pour permettre de conclure qu’il y a eu omission volontaire (D’Andrea, précitée, au paragraphe 44).
+[18] L’avocat de l’appelante a soutenu que l’absence du témoignage de cette dernière a fait en sorte que l’intimée n’a pu se décharger de son fardeau de prouver la négligence, l’inattention ou l’omission volontaire. Je suis d’avis que l’absence de ce témoin ne peut entièrement être imputée à l’intimée.
+[19] L’appelante faisait appel non seulement des nouvelles cotisations pour les années 2003 et 2004, mais également de la cotisation établie pour l’année d’imposition 2005, laquelle année n’était pas prescrite. Ce n’est que le matin de l’audition que son avocat a avisé la Cour qu’elle se désistait de son appel. L’intimée n’ayant pas été avisée, il est logique que l’on s’attendait à ce que celle-ci soit présente en Cour pour, à tout le moins, faire la preuve que la cotisation établie pour l’année 2005 n’était pas fondée. On ne peut donc blâmer unilatéralement l’intimée de l’absence de cette dernière.
+[20] Quant à l’absence de monsieur Nadeau, il est vrai que sa présence aurait pu être utile. Toutefois, je suis d’avis que la preuve documentaire soumise par l’intimée est suffisante en l’instance pour me convaincre que l’appelante a fait une présentation erronée dans ses déclarations de revenus 2003 et 2004 par négligence, inattention ou omission volontaire.
+[21] Les montants non déclarés correspondent aux frais de gestion qui ont été comptabilisés aux livres de l’entreprise. Ces montants représentent les retraits effectués par l’appelante directement du compte bancaire de Gedoc (pièce I-1), et constituent plus de la moitié des montants déclarés par l’appelante dans ses déclarations fiscales. Si effectivement, il s’agissait d’une erreur, cette erreur a perduré pendant ces trois années consécutives, sans qu’aucune correction ne soit apportée.
+[22] Madame Boutin n’a reçu aucune pièce justificative établissant que, dans les faits, Gedoc faisait des avances à l’appelante, en tant qu’actionnaire.
+[23] Par ailleurs, madame Boutin a pu constater elle-même que la tenue de livres n’était pas tout à fait adéquate en ce qu’elle n’a pu constater aucune conciliation bancaire avec la liste des dépenses par postes et par dates.
+[24] Au-delà des maigres explications qu’elle a reçues de monsieur Nadeau, qui, s’il avait été présent, aurait peut-être pu nuancer le témoignage de madame Boutin, je suis d’avis que celle-ci avait suffisamment d’éléments objectifs en main pour prouver une inattention, négligence ou omission volontaire. À mon avis, on ne peut parler de diligence raisonnable, quand on retire des fonds de sa société et que l’on omet de les déclarer dans ses revenus aux fins fiscales ou d’aviser les tiers (dont le fisc) par le biais des états financiers ou autre comptabilité qu’il s’agit d’avances à l’actionnaire. Et ce, plus particulièrement quand les montants en question sont plus élevés que les revenus déclarés d’au moins la moitié.
+[25] J’estime que l’intimée a fait une preuve suffisante pour démontrer que l’appelante avait fait une présentation erronée de ses revenus, par négligence, inattention ou omission volontaire, dans ses déclarations de revenus pour les années d’imposition 2003 et 2004. Le ministre était donc justifié de recotiser en dehors de la période normale de nouvelle cotisation aux termes de l’alinéa 152(4)a)(i) de la LIR.
+[26] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour de février 2013.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2013 CCI 63
+Nº DU DOSSIER DE LA COUR : 2012-2890(IT)I
+INTITULÉ DE LA CAUSE : NICOLE FONTAINE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 13 février 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 21 février 2013
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Benoit Massicotte
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Benoit Massicotte
+Cabinet : Bélanger, Massicotte, Avocats & Fiscalistes
+Sherbrooke, Québec
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

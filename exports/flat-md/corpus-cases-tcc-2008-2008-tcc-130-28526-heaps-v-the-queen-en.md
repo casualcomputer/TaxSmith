@@ -1,0 +1,227 @@
+---
+title: "Heaps v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28526/index.do"
+last_modified: "2008-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 130"
+citation2: ""
+neutral_citation: "2008 TCC 130"
+decision_date: "2008-06-18"
+language: "en"
+item_id: "28526"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1255
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:05:07.852000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e226bd37ea29d8206ef45c4066931af437d050e87147b1e2caf8e140e41f5bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Heaps v. The Queen
+
+- Citation: 2008 TCC 130
+- Decision date: 2008-06-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1255, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heaps v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-18
+Neutral citation
+2008 TCC 130
+File numbers
+2007-3369(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3369(IT)I
+BETWEEN:
+RONALD HEAPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Marie Heaps (2007-3371(IT)I)
+on February 5, 2008 at Victoria, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Murray Wiseman
+Counsel for the Respondent:
+Christa Akey
+____________________________________________________________________
+AMENDED JUDGMENT
+In accordance with the attached Amended Reasons for Judgment, the appeal from the reassessments made under the Income Tax Act is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant, Ronald Heaps, is entitled to deduct 75% of the mortgage interest expenses claimed by the Heaps partnership for the 2002 and 2003 taxation years, together with costs in the fixed sum of $75.
+Signed at Ottawa, Canada, this 18th day of June, 2008.
+"G. A. Sheridan"
+Sheridan, J.
+Docket: 2007-3371(IT)I
+BETWEEN:
+MARIE HEAPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Ronald Heaps (2007-3369(IT)I)
+on February 5, 2008 at Victoria, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Murray Wiseman
+Counsel for the Respondent:
+Christa Akey
+____________________________________________________________________
+AMENDED JUDGMENT
+In accordance with the attached Amended Reasons for Judgment, the appeal from the reassessments made under the Income Tax Act is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant, Marie Heaps, is entitled to deduct 25% of the mortgage interest expenses claimed by the Heaps partnership for the 2002 and 2003 taxation years, together with costs in the fixed sum of $75.
+Signed at Ottawa, Canada, this 18th day of June, 2008.
+"G. A. Sheridan"
+Sheridan, J.
+Citation: 2008TCC130
+Date: 20080618
+Docket: 2007-3369(IT)I
+BETWEEN:
+RONALD HEAPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2007-3371(IT)I
+MARIE HEAPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellants, Ronald and Marie Heaps, are appealing the reassessments of their 2002 and 2003 taxation years[1]. They were represented at the hearing by Mr. Murray Wiseman, a Chartered Accountant who was their accountant at all times relevant to these appeals.
+[2] In March 1994, Mr. and Mrs. Heaps purchased a large lot on Vancouver Island (the “Property”) for $630,000. They paid the purchase price using proceeds of $350,000 from the sale of their former residence with a mortgage back to the vendors of $280,000[2]. In 1999, the vendors' mortgage of $280,000 was refinanced through the Hong Kong and Shanghai Banking Corporation ("HSBC") for $305,000. At the time of purchase, there was a residence in one corner of the Property. They purchased the Property with the intention of living in the residence and subdividing the rest of the Property for resale.
+[3] The Heaps took possession of the Property in May 1994. In June 1994, they entered into a joint venture with one Hugo Hucker[3], a property developer who was supposed to contribute his property development experience to the project and take on a portion of the Heaps' liability under the vendors' mortgage. As it turned out, Mr. Hucker abandoned his obligations, leaving Mr. and Mrs. Heaps to carry on with the subdivision as a partnership with a 75% and 25% share, respectively. Mr. Hucker’s departure made for some difficult times for Mr. and Mrs. Heaps but they soldiered on, ultimately succeeding in obtaining municipal permission for the subdivision and completing the project as described below.
+[4] The Property was divided into five lots[4]. The lot on which their residence was located comprised 908.4 sq. m. of the total Property. The remaining portion of the Property was divided into four lots ranging in size from 597 sq. m. to 1,616 sq. m. Three of the subdivided lots were sold in 2002 and the fourth in 2003.
+[5] For these years, the Heaps partnership claimed mortgage interest expenses of $106,785 and $35,595, respectively[5], on the basis that the vendors' mortgage (and later, the HSBC mortgage) was used exclusively to finance the portion of the Property that was subdivided and sold.
+[6] The Minister disallowed the deduction, stating that "[i]t is the direct use of the borrowed funds that determines the deductibility of the interest. The direct use of the funds was to complete the purchase of the entire Property, which included the personal residence. Consequently, the portion of the interest that relates to the personal residence portion of the Property is not deductible."[6] The Minister assumed that the lot on which the Heaps’ residence was located comprised 46.76% of the Property[7] and disallowed an equivalent percentage of the mortgage interest.
+[7] Counsel for the Respondent relied on The Queen v. Bronfman Trust[8] to argue that the “direct use” of the mortgage money was to purchase the entire Property. Counsel did, however, point out that in the Bronfman Trust case, the Supreme Court of Canada endorsed taking a “common sense” approach in examining the facts of each case[9]. Looking at the evidence in the present case, counsel submitted that nothing in either the purchase agreement or the joint venture agreement allocated the borrowed amounts to the subdividable portion of the Property. She underscored as well Mr. Heaps' testimony that he would not have bought the Property if it had not had a residence on it.
+[8] Mr. Wiseman, on behalf of the Appellant, also urged the Court to take a common sense approach, citing as an example Wilson v. Canada, (M.N.R.)[10]. I agree with Mr. Wiseman that the facts of that case are quite similar to the one at bar. In Wilson, the taxpayer purchased a one-acre lot. Three-quarters of the lot was for his personal use as a residence; the remaining quarter was developed for and dedicated to the use of his convenience store business. Because the taxpayer’s mortgage was secured by the entire lot, the Minister allowed only one-quarter of his claim for a deduction of all the mortgage interest, representing the ratio of the business use portion to the entire Property.
+[9] The taxpayer appealed; Christie, A.C.J. summarized the basis for the Minister’s decision as follows:
+…
+It is pointed out on behalf of the respondent that although the Property is zoned in two different ways, it was a single, unsubdivided parcel of land that was acquired by the appellant in one group of interrelated transactions. Also, the mortgage relates to the entire one acre. This is all correct and prima facie justifies the approach adopted by the respondent in making his reassessments to tax.[11]
+[10] In allowing the appeal, Christie, A.C.J. went on to say that:
+… these reassessments cannot prevail in the face of the intentions and purposes of the appellant that have already been described. These, I believe, entitled him to make the claimed deductions under paragraph 20(1)(c) of the Income Tax Act. It is perhaps superfluous to add that the fact that repayment of money that is borrowed is secured by a mortgage on the borrower's personal residence does not, of itself, preclude the interest payable on that mortgage being deductible in computing a taxpayer's income under paragraph 20(1)(c). It is the purpose for which the borrowed money is used that determines the deductibility of interest payable thereon, not the manner in which the loan is secured.[12].
+[11] In my view, the same can be said of the present case: the Minister’s reassessments cannot stand in the face of Mr. Heaps’ evidence of his and his wife’s intentions and purposes in respect of the borrowed funds. The Minister accepted that it was always the Heaps’ intention to subdivide the Property and sell the newly created lots[13], challenging only the use to which the mortgage funds were put. I accept Mr. Heaps’ evidence that the purpose of these borrowed funds was to secure the purchase of the portion of the Property that was to be subdivided and sold. As that had not yet occurred at the time of purchase, the Heaps’ were faced with the same practical problem experienced by the taxpayer in Wilson: prior to formal subdivision, the mortgage could only be registered against the title of what was then the entire Property. As for the Crown’s submission regarding the lack of reference in the purchase and joint venture agreements as to how the mortgage funds were to be used, a review of the joint venture agreement shows quite the contrary. For example, Clause 3.04 excludes the residential lot from the scope of the joint venture. Clause 7.01 obliges the joint venture to apply any money proceeds firstly “to retire all debt (including the mortgage)”. Clause 8.03 identifies the mortgage debt as the sole responsibility of the joint venture and Clause 8.04 expressly provides that the residential portion of the Property “is not charged by the Mortgage”. From these terms it is clear that at the time the Heaps’ purchased the Property and formed their intention to subdivide it, they had turned their minds to the attribution of the borrowed funds specifically to the subdividable area. The joint venture agreement was not an after-the-fact document cobbled together to shore up a later claim for a deduction.
+[12] The fact that the Heaps purchased the Property with a view to keeping a portion of it for their personal use as a residence does not diminish their intention to use the borrowed funds for the business purpose of subdividing the remaining portion. Their allocation of the $350,000 realized from the sale of their former residence to the purchase of the residential portion of the Property strikes me as reasonable, especially in view of the actual ratio of the residential lot to the entire Property. The Minister assumed that the residential lot comprised approximately 46.76% of the Property. Mr. Heaps was at a loss to understand how the Minister had reached that conclusion and confirmed what is evident from an examination of the municipal map of the Property[14] included in the Respondent’s Book of Documents: that the residential lot actually comprised approximately 20% of the Property. In any event, given my finding that the mortgage funds were used exclusively for the business purpose of acquiring the subdividable portion of the Property, the exact proportion is of no consequence to these appeals; should that conclusion be in error, however, I am satisfied that Mr. and Mrs. Heaps have proven wrong the Minister’s assumption in respect of the size of the residential portion of the Property.
+[13] Counsel for the Respondent submitted that the present case was more analogous to two other Informal Procedure decisions of this Court, Connor v. Canada[15] and Tsiantoulas v. Canada[16] in which the Court upheld the Minister’s disallowance of the taxpayers’ claim for the deduction of 100% of their mortgage expenses. In my view, these cases are readily distinguishable from the Heaps’ situation.
+[14] In Connor, the Court rejected the taxpayer's argument that he was entitled to deduct all of his borrowing costs for the purchase of his house, 40 per cent of which comprised a rental suite. Rowe, J. found that, on the facts of that case, the Property was “un-subdividable”[17] and accordingly, held that a “reasonable allocation”[18] of the mortgage expenses had to be made according to the personal and business use of the funds borrowed to purchase the Property. In dismissing the appeal, Rowe, J. considered Wilson but distinguished that decision saying in that case, “there is a capacity to follow through on an alternative method of allocation due to the different zoning uses of the land and the de facto segregation inherent in the Property with the commercially zoned portion fronting on a major highway”[19].
+[15] In Tsiantoulas, the taxpayer had purchased a farm on which he lived and carried out the business of raising turkeys. The taxpayer sought to deduct all of the borrowing costs of the mortgage used to purchase the farm. In rejecting this argument, Bowman, J. (as he then was) specifically found that subdividing the Property was not possible. He concluded that on the facts of that case:
+... We have a purchase of one asset, comprising both a personal residence and a business asset. Paragraph 4(1)(a) of the Income Tax Act provides, in essence, that in computing income from a particular source one must allocate to that source only such deductions or such parts of deductions as are reasonably attributable thereto. The concluding words of paragraph 20(1)(c) also emphasize the criterion of reasonableness. Reasonableness is a question of fact and requires the application of a measure of judgement and common sense. I do not think it is reasonable, where one asset is purchased such as the farm here, and it has both personal and business aspects, to allocate the entire interest expense to the business aspect of the Property.[20]
+[16] Bowman, J. also considered Wilson but distinguished it on the basis that in that case there was “persuasive evidence”[21] before the Court to justify not allocating the borrowing costs between personal and business use.
+[17] To summarize the present case, the Heaps purchased the Property with the intention of subdividing it into a residential lot and four lots for sale. At the time of the purchase, subdivision was a legal possibility, subject only to the fulfillment of the applicable municipal conditions. The requisite approval was ultimately obtained and the project completed as planned. That the Heaps lived on the residential portion of the Property during and after the subdivision does not diminish the direct use of the mortgage funds to acquire the subdividable portion of the Property – nor does the fact that the borrowed funds were secured against the entire Property. It must be remembered that “[t]he security given for the loan has nothing to do with the purpose for which the money is borrowed”[22]. Mr. and Mrs. Heaps allocated a reasonable amount to the cash purchase of their residence; their intention and purpose in respect of the borrowed funds was to acquire the subdivided portion of the Property.
+[18] In these circumstances, I am satisfied that all of the mortgage expenses are reasonably attributable to a business use and are accordingly, deductible. The appeals of the 2002 and 2003 taxation years are allowed and referred back to the Minister for reconsideration and reassessment on the basis that:
+1. Ronald Heaps is entitled to deduct 75% of the mortgage interest expenses claimed by the Heaps partnership for the 2002 and 2003 taxation years; and
+2. Marie Heaps is entitled to deduct 25% of the mortgage interest expenses claimed by the Heaps partnership for the 2002 and 2003 taxation years.
+[19] Following the issuance of Judgment in these appeals, the Appellants wrote to the Court through their agent, Murray Wiseman, a Chartered Accountant, seeking costs in respect of their appeals. The question of costs not having been dealt with in my Judgment, in his letter of April 4, 2008, Mr. Wiseman submitted that costs be awarded to the Appellants on the following basis:
+a) the appellants to the Tax Court were successful with the judgements by the Honourable Justice G.A. Sheridan, signed at Ottawa on March 6, 2008;
+b) the amounts in issue were with regard to the interest deductibility for Ron and Marie Heaps of $106,785 and $35,595 respectively;
+c) the amounts in issue were important in that they materially effected the income taxes otherwise payable by the appellants;
+d) there were no offers of settlement at the review process on the original audit, during the appeals process or by the Department of Justice prior to trial;
+e) there was a significant amount of work involving many documents, meetings and correspondence with Canada Revenue Agency officials at the audit and appeal stage as well as preparing and appearing at trial;
+f) the issues were only complex in that they involved several parties in a joint venture and relied on legal documents to determine the interest deductibility;
+g) the proceedings were drawn out in the fact that the issues involved the appellants’ 2002 and 2003 income tax returns and were not resolved until March 2008 with the judgement handed down by the Honourable Justice G.A. Sheridan. The proceedings were also drawn out by the fact that the appeals officer agreed to a deadline for us to provide case law which we believed was relevant. Upon calling the appeals officer prior to the deadline to discuss the case law we were informed that she was away and that she would be gone for two weeks. The following week we received the Notifications of Confirmation by the Minister confirming the reassessments. When we contacted the Chief of Appeals he apologized for what had happened but said there was nothing he could do at that point and confirmed we would have to appeal to the Tax Court. The tax case we wanted the appeals officer to consider was Wilson v. Canada, the case the preceding (sic) judge appears to have largely relied on in making her decision;
+h) we believe that Canada Revenue Agency did neglect or refuse to rely on a very relevant piece of information. During the trial, the Canada Revenue Agency appeals officer gave evidence during the cross examination by the writer that little or no relevance was placed on the Joint Venture Agreement. This Joint Venture Agreement was the main legal document that outlined the intent of the debt in question and who was responsible for it. Additionally, the Department of Justice informed us prior to trail (sic) that they did not believe the tax case put forward by us, Wilson v. Canada was relevant and their cases were more on point. This was not the position found by the preceding (sic) judge;
+i) the only part of the process which we believe was improper and/or unnecessary was when the appeals officer did not wait for the agreed upon deadline to review the case law we relied on as outline above.
+[20] The Respondent opposed the awarding of costs for these reasons: the appeals were not complex, did not require a high volume of work and generated little communication between the parties. The Respondent submitted further that adjudication was necessary as there was opposing case law on the issue. Alternatively, the Respondent argued that if costs were to be awarded, there should be one set for both appeals.
+[21] Section 10 of the Tax Court of Canada Rules (Informal Procedure) provides that:
+10. (1) Costs on an appeal shall be at the discretion of the judge by whom the appeal is disposed of in the circumstances set out in subsection 18.26(1) of the Act which reads as follows:
+"18.26 (1) Where an appeal referred to in section 18 is allowed, the Court
+(a) shall reimburse to the appellant the filing fee paid by the appellant under paragraph 18.15(3)(b); and
+(b) where the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one-half, may award costs to the appellant in accordance with the rules of Court."
+(2) A judge may direct the payment of costs in a fixed sum, in lieu of any taxed costs.
+…
+[22] The Appellants’ filing fees were duly reimbursed to them under paragraph 18.26(1)(a).
+[23] For the reasons set out below, I am satisfied that the Appellants are also entitled to costs under paragraph 18.26(1)(b); the only question is the form and quantum of the award.
+[24] I agree with counsel for the Respondent that the issue in the appeals were not complicated. Its resolution depended on the facts found in the Appellants’ case; as there was case law consistent with the arguments made by both sides, the Canada Revenue Agency officials cannot be faulted for having relied on decisions more favourable to the facts assumed by the Minister. On the other hand, it seems to me that had the officials given more careful consideration to the explanations and materials provided by the Appellants at the objection stage, the matter might have been resolved without litigation.
+[25] As for the work involved, there is no question that more is required of a taxpayer without legal representation than the Crown; in the present case, the Appellants had to enlist the help of their accountant, Mr. Wiseman, to review their assessments, tax records and case law and to present their case at both the objection stage and the hearing. Undoubtedly, the bulk of the expense incurred by the Appellants in appealing their reassessments was in respect of Mr. Wiseman’s professional fees.
+[26] The difficulty the Appellants face, however, is that the Rules do not contemplate the awarding of costs for services other than those of legal counsel and in any case, limit costs to certain kinds of fees and disbursements. Section 11 of the Rules provides that costs may be awarded for the “services of counsel” and lists such services as follows:
+(a) for the preparation of a notice of appeal or for advice relating to the appeal, $185;
+(b) for preparing for a hearing, $250;
+(c) for the conduct of a hearing, $375 for each half day or part of a half day; and
+(d) for the taxation of costs, $60.
+[27] As can be seen from the above, even where a taxpayer is represented by legal counsel, the amounts allowed fall far short of reimbursing the taxpayer’s actual legal expenses. In any event, the law is settled[23] that the word “counsel”, as used in section 11, does not include an agent representing an Appellant under the Informal Procedure. Thus, costs cannot be awarded in respect of Mr. Wiseman’s professional fees.
+[28] As for his disbursements, (such things as telephone calls, faxes, photocopying and so on), subsection 11.1 allows costs for an agent’s disbursements but limits them to not more than half of the amounts allowed in respect of the counsel services as set out in section 11 of the Rules.
+[29] The Rules allow for the awarding of costs for other kinds of expenses arising from the appeal. Subsections 12(1) and (1.1) of the Rules allow for the payment of $75 per day and “reasonable and proper” transportation and living expenses for an Appellant represented by an agent who is called upon to testify by the Respondent. Mr. Heaps testified on behalf of both Appellants; he was cross-examined by counsel for the Respondent. As for his transportation and living expenses, because the Appellants live some 20 kilometres from Victoria and the hearing took less than a day, the amounts involved are not great.
+[30] In view of the above, I am awarding costs pursuant to subsection 10(2) of the Rules in respect of both appeals in the fixed sum of $150, apportioned equally between the Appellants in the amount of $75 for Ronald Heaps and $75 for Marie Heaps.
+These Amended Judgments and Amended Reasons for Judgment are issued in substitution for the Judgments and Reasons for Judgment dated March 6, 2008.
+Signed at Ottawa, Canada, this 18th day of June, 2008.
+"G. A. Sheridan"
+Sheridan, J.
+CITATION: 2008TCC130
+COURT FILE NOS.: 2007-3369(IT)I; 2007-3371(IT)I
+STYLE OF CAUSE: RONALD HEAPS AND MARIE HEAPS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: February 5, 2008
+AMENDED REASONS FOR
+JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF AMENDED JUDGMENT: June 18, 2008
+APPEARANCES:
+Agent for the Appellant:
+Murray Wiseman
+Counsel for the Respondent:
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Their appeals, docket numbers 2007-3369(IT)I and 2007-3371(IT)I were heard together on common evidence.
+[2] Exhibit A-3.
+[3] Exhibit A-1.
+[4] Exhibit A-2.
+[5] As per Schedule 'A' of the Reply to the Notice of Appeal.
+[6] Exhibit R-5.
+[7] Reply to the Notice of Appeal for Marie Heaps, paragraph 15(v); for Ronald Heaps, paragraph 14(u).
+[8] 87 D.T.C. 5059 (S.C.C.).
+[9] Supra, at page 5067.
+[10] 88 D.T.C. 1418 (T.C.C.).
+[11] Supra, at page 1419.
+[12] Supra.
+[13] Reply to the Notice of Appeal, paragraph 15(e) for Marie; Reply to the Notice of Appeal, paragraph 14(e) for Ronald.
+[14] Exhibit A-2.
+[15] [1995] T.C.J. No. 13.
+[16] [1994] T.C.J. 984.
+[17] Connor, supra, at paragraph 10.
+[18] Supra, at paragraph 12.
+[19] Supra, at paragraph 11.
+[20] Tsiantoulas, supra, at paragraph 11.
+[21] Supra, at paragraph 12.
+[22] Supra, at paragraph 11, citing the principle from The Queen v. Bronfman Trust 87 D.T.C. 5059 (S.C.C.).
+[23] Munro v. Canada, 98 D.T.C. 6443 (F.C.A.).

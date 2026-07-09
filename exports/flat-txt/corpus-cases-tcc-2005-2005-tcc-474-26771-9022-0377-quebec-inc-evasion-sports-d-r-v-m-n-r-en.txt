@@ -1,0 +1,239 @@
+Title: 9022-0377 Quebec Inc. (Evasion Sports D.R.) v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26771/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-474-26771-9022-0377-quebec-inc-evasion-sports-d-r-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-09-06
+
+# 9022-0377 Quebec Inc. (Evasion Sports D.R.) v. M.N.R.
+
+- Citation: 2005 TCC 474
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3517, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9022-0377 Quebec Inc. (Evasion Sports D.R.) v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-06
+Neutral citation
+2005 TCC 474
+File numbers
+2004-3731(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004‑3731(EI)
+BETWEEN:
+9022‑0377 QUÉBEC INC., (ÉVASION SPORTS D.R.),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent,
+and
+ROGER GAGNON,
+DENIS GAGNON,
+Interveners.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 6, 2005, at Chicoutimi, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Representative of the Appellant:
+Alain Savoie
+Counsel for the Respondent:
+Representative for the Interveners:
+Martin Gentile
+Alain Savoie
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of September 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 9th day of January 2006.
+Maria Fernandes, Translator
+Citation: 2005TCC474
+Date: 20050906
+Docket: 2004‑3731(EI)
+BETWEEN:
+9022‑0377 QUÉBEC INC., (ÉVASION SPORTS D.R.),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ROGER GAGNON,
+DENIS GAGNON,
+Interveners.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.
+[1] This is an appeal in which the question at issue is to determine whether or not the employment held between September 1st and November 17, 2003, in the Denis Gagnon case, and between January 1st and November 17, 2003, in his brother Roger's case, both Interveners, should be excluded from insurable employment under paragraph 5(2)(i) of the Employment Insurance Act ("Act").
+[2] The jobs in question were performed for the Appellant, 9022‑0377 Québec Inc. Brothers Denis and Roger Gagnon held 30% and 25% of voting shares respectively, and the remaining 45% were the property of Denis Coiffier.
+[3] To explain and justify the ruling, the Respondent listed the assumed facts. Several facts reported in paragraph 7 of the Reply to the Notice of Appeal (the "Reply") were admitted and others denied, as follows:
+[TRANSLATION]
+(a) the Appellant, incorporated on June 15, 1995, runs a business that sells, rents and repairs recreational vehicles (snowmobiles, motorcycles, all‑terrain vehicles (ATVs)) under the name, "Évasion Sport D.R."; (admitted)
+(b) the Appellant operates its business year‑round: during the winter season it is open six to seven days a week; in the summer, it is open five and a half to six days a week; (admitted)
+(c) Roger Gagnon is the sales director: he is in charge of orders, finances, large vehicle sales, rentals and bids; (admitted)
+(d) Denis Gagnon is in charge of parts and repair services as well as the supervision of administrative staff; he also does sales and rentals; (admitted)
+(e) each worker is responsible for his work area, hiring staff, work schedules and supervising employees; (admitted)
+(f) Denis Coiffier, the Payor's third shareholder, is not involved in the Appellant's daily activities but the workers do consult him when major investments or changes have to be made; (denied)
+(g) the workers generally worked on the business' premises using the Appellant's equipment; (admitted)
+(h) the workers worked from Monday to Friday and took turns working at the business on Saturdays; (denied)
+(i) the workers' work schedule accommodated the Appellant's needs; they estimated working approximately 60 hours a week; (denied)
+(j) the workers received a set annual income of $50,000, i.e. $1,912 every two weeks; (admitted)
+(k) when required to travel for the Appellant, all travel‑related costs were reimbursed by the Appellant. (denied)
+[4] Paragraph 8 of the Reply was also admitted. It reads as follows:
+[TRANSLATION]
+8. Each worker is related to the Appellant within the meaning of the Income Tax Act because:
+(a) Voting shareholders of the Appellant were:
+- Denis Gagnon with 30% of the shares;
+- Roger Gagnon with 25% of the shares; and
+- Denis Coiffier with 45% of the shares.
+(b) Denis and Roger Gagnon are brothers.
+(c) The workers formed a related group that controlled the Payor.
+(admitted)
+[5] Paragraph 9 of the Reply was denied as well as subparagraphs 9(a) and 9(b). Subparagraphs 9(c) and 9(d) were admitted. They all read as follows:
+[TRANSLATION]
+9. The Minister also ruled that the workers were considered to be working at arm's length with the Appellant as part of their employment because he was convinced that it was reasonable to conclude that each worker would have entered into a substantially similar contract of employment with the Appellant if they had been dealing with each other at arm's length having regard to the following circumstances: (denied)
+(a) The remuneration paid to each worker was reasonable given that they each worked 60 hours a week and given their administrative responsibilities; (denied)
+(b) the work schedule of each of the workers, as that of the Appellant's other employees, was based on the Appellant's requirements; (denied)
+(c) the workers' work period met the Appellant's actual requirements; (admitted)
+(d) each of the workers rendered services to the Appellant, in his own respective area of activity that was essential to the Appellant's activities. (admitted)
+[6] Denis Gagnon and Roger Gagnon testified for the Appellant.
+[7] The third shareholder, Denis Coiffier, residing in France, periodically visited the Saguenay region to take care of his financial interests and indulge in his passion: snowmobiling.
+[8] Described as a passive investor, Denis Coiffier acquired 50% of the shares after the periods at issue. At that time, Denis Gagnon became the shareholder with the other 50% of shares, since Roger Gagnon had chosen to sell his shares: at the time of the hearing, Denis Gagnon and Denis Coiffier were the only shareholders, each holding 50%.
+[9] The Appellant's evidence relied primarily on the testimony of the Gagnon brothers. Denis Gagnon looked after the rental and after‑sales services while his brother Roger looked after the sales department. The rental component was a very significant part of the business and required considerable availability in order to respond to service calls during breakdowns that could occur far away from the company's place of business, particularly with the numerous vehicles that the business rented on weekends.
+[10] Though Denis joined the business after his brother, Roger, he quickly became his equal with regard to conditions of employment, including salary level.
+[11] The Gagnon brothers also enjoyed a high degree of autonomy in their respective responsibilities. They were, in some ways, in charge of managing their respective departments. They respected, trusted and supported one another. They had a harmonious relationship and generally made all decisions together with regard to the routine management and administration of the business.
+[12] Admittedly, there may have been a few things that they disagreed on; however, the overall climate was calm, productive and dynamic.
+[13] Furthermore, the business experienced a growth that demonstrated exceptional dynamism. Sales grew as follows: (Exhibit I‑2)
+Fiscal Year ending on
+Sales
+Net Profit
+May 31, 2003
+May 31, 2002
+May 31, 2001
+May 31, 2000
+$3,903,037
+$3,161,415
+$2,046,405
+$1,832,073
+$47,052
+$71,797
+$ 7,419
+$24,847
+[14] Not only did sales increase, but profits as well. During the same period, profits were as follows: (Exhibit I‑2)
+Year
+Denis Gagnon’s Income
+Roger Gagnon’s Income
+2003
+2002
+2001
+2000
+$47,883
+$ 7,467
+$47,890
+$42,345
+$38,748
+$38,579
+[15] In deciding the appeal, the Court must first determine whether or not the employment of the Interveners was performed under a true contract of service during the periods in question, pursuant to paragraph 5(1)(a) of the Act.
+[16] Then, if the jobs in question proved to be performed as part of a contract of employment, the Court must verify if this employment should be excluded from insurable employment because of a non‑arm's length relationship between the shareholders, whose percentage of shares resulted in them controlling the company; the exclusion is set forth in paragraph 5(2)(i) of the Act.
+[17] This second step must reflect the quality of the analytical work performed by those in charge of the case. Therefore, if the investigative and analytical work performed under the discretionary power granted by Parliament in paragraph 5(3)(b) of the Act was judiciously carried out with adequate consideration of all the relevant facts, the Court cannot intervene.
+[18] Conversely, that is, if certain elements were overlooked, ignored, underestimated or overestimated, the Court must ask the following question: is the determination reasonable with regard to the new elements of proof, shortcomings, omissions or errors? If so, there will be no intervention: however, if not, the Court must proceed with a new analysis to confirm or vacate the determination under appeal.
+[19] Two statutes that must be taken into consideration in this analysis deal with the contract of employment or contract of service. They are the Civil Code and the Act.
+[20] Article 2085 of the Civil Code defines the contract of employment as follows:
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[21] Paragraph 5(1)(a) of the Act sets forth the following:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[22] A contract of employment must meet three conditions: performance of work, remuneration, and a relationship of subordination. The first two conditions are clearly present in this case; the facts should be analyzed for the purpose of determining if there was power of control. Was there a relationship of subordination? Did 9022‑0377 Québec Inc. have the power of control, the power to intervene in the work performed by the Gagnon brothers?
+[23] Evidence shows that Denis Coiffier was present essentially on a random basis. Was he that disinterested? Did he do all that was required to ensure that his investment was profitable and that the business ran according to his expectations?
+[24] Evidence showed that the shareholders had entered into an agreement, in effect during the periods at issue; it was signed by the three shareholders on August 18, 1998. This agreement stipulated the following in particular:
+[TRANSLATION]
+RESTRICTIONS TO The authority of the Directors:
+5. Any company by-law or resolution having as its purpose or effect, direct or indirect, one of the following points, will not be exercisable by the directors, whose authority in these matters is hereby restricted, but by the shareholders themselves, and shall be wholly adopted by them in order to be valid:
+(a) the issuance of company shares and other securities;
+(b) the approval or registration of transfer of shares of the company's capital stock not in compliance with these provisions;
+(c) the declaration of dividends and distribution of assets or money to the company's shareholders;
+(d) the identification and payment of any salary, bonus, gratuity or other form of remuneration to one or more shareholders, their relatives or partners (if such payment results in the direct or indirect payment of an income higher than what the shareholder is entitled to under article 6 below);
+(e) the appointment of company officers;
+(f) the adoption, amendment or repeal of any by-law;
+(g) the designation of authorized signatories of cheques and negotiable instruments of the company;
+(h) any decision other than an administrative decision made during the usual course of company business.
+INCOME SPLITTING:
+6. The shareholders agree that incomes for each that are drawn from the company, in any form, will be proportionate to the number of ordinary shares held, except for the interest set forth in article 2 above, as well as remuneration that may be allocated by the board of directors for set functions or as a salaried employee of the company.
+[25] The contents of these clauses clearly show that shareholder Denis Coiffier had an interest in the activities of the company in which he held 45% of the shares. With respect to the burden of proof, which as I recall, fell on the Appellant, there is no doubt that shareholder Denis Coiffier stubbornly held to his shareholder rights.
+[26] To claim the contrary simply defies the most basic logic and is an insult to the intelligence of a businessperson who, in addition to the distance, had to deal with a lack of knowledge of a field in which he had invested, knowing that his co‑shareholders were two brothers who had the required knowledge and together controlled more than 51% of the voting shares. Is it reasonable and likely to think or believe that an intelligent person, under these circumstances, would give up his shareholder rights? The response is an unequivocal no.
+[27] A businessperson's primary concern is to maximize the return on his investment. In some situations, an investor can be motivated by a need, a passion or pastime, in which case his or her decisions may not always be rational. In this case, there is no evidence to this effect.
+[28] Denis Coiffier did not testify. However, I find it reasonable to assert that the latter was without a doubt very satisfied with the economic performance of the business in which he had decided to invest. Both sales and profits were enough to satisfy any investor.
+[29] With these results, it is no surprise that shareholder Denis Coiffier was unobtrusive.
+[30] The fact that he may have been passive does not in any way mean that he had waived his shareholder rights. Results were very good and business was going very well, so Mr. Coiffier did not need to intervene.
+[31] Had things deteriorated, had results been disappointing, had tensions arisen in relations between the investors, had one of the Gagnon brothers mismanaged or misused expenses, the business would certainly have exercised its power of control to correct the situation arising from the facts and acts committed by one of the Gagnon brothers in the performance of his work.
+[32] To determine whether or not 9022‑0377 Québec Inc. had a power of control, I reiterate that it is important to determine the status of shareholder Denis Coiffier.
+[33] He is described as a passive investor; can we conclude that Denis Coiffier was disinterested or indifferent such that he would have waived his shareholder rights? Evidence does not point to this being a symbolic or philanthropic investment. This was, rather, a business relationship.
+[34] Moreover, Denis Coiffier acquired other shares when Denis Gagnon decided to part with his, holding 50% of the capital stock from that point onward. This increase in Mr. Coiffier’s capital stock, however, is not relevant because it occurred after the period at issue.
+[35] For all of these reasons, I conclude that, initially, there was indeed a true contract of service between the stakeholders and 9022‑0377 Québec Inc. during the periods in question.
+[36] The quality of work performed out by the Appeals Officer should be assessed at the second stage.
+[37] Ms. Jacynthe Bélanger performed the case investigation and analysis. The relevant documents, elements and facts were all available and taken into consideration.
+[38] In preparation for a conference call with the Gagnon brothers and their representative, Alain Savoie, Ms. Bélanger had this questionnaire prepared prior to the meetings in order to cover the elements and facts she thought relevant. During the investigation via conference call, the latter had the right to submit all information deemed relevant and useful to support the merits of their arguments.
+[39] If Ms. Bélanger's questions were incomplete or vague, the Appellant, represented at the telephone conference call by someone whom it had mandated (in this case, Alain Savoie), had the time to report it.
+[40] The only possible criticism of Ms. Bélanger with regard to the case is that she did not communicate with Denis Coiffier, which she acknowledged herself. Did the Appellant raise this element during the conference call through its representative? The evidence did not provide an answer to this question.
+[41] Did the Appellant suggest or offer Denis Coiffier's involvement during the conference call? If it were important, why did the Appellant not ensure that he come and testify? Need I issue a reminder that the burden of proof was on the Appellant?
+[42] Did the Respondent correctly apply paragraphs 5(3)(a) and (b) of the Act? This provision reads as follows:
+5. (3) For the purposes of paragraph (2)(i):
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[43] Under this provision, the Respondent had the duty to verify all of the relevant facts and consider them in a just and balanced manner, in which case the Court does not need to intervene. If the Respondent found shortcomings, the Court must verify if the conclusion is still reasonable and consistent, having regard to the evidence from the new facts.
+[44] In her analysis of the facts, Jacynthe Bélanger requested and obtained the shareholders' agreement. The contents of that agreement confirmed her assessment as to the presence of the power of control refuting the argument that Denis Coiffier was a passive, disinterested shareholder, in no way concerned with the company's affairs.
+[45] This is particularly clear from the excerpt of the agreement reproduced above. For ease of reference, here is, once again that text:
+[TRANSLATION]
+RESTRICTIONS TO The authority of the directors:
+5. Any company by-law or resolution having as its purpose or effect, direct or indirect, one of the following points, will not be exercisable by the directors, whose authority in these matters is hereby restricted, but by the shareholders themselves, and shall be wholly adopted by them in order to be valid:
+(a) the issuance of company shares and other securities;
+(b) the approval or registration of transfer of shares of the company's capital stock not in compliance with these provisions;
+(c) the declaration of dividends and distribution of assets or money to the company's shareholders;
+(d) the identification and payment of any salary, bonus, gratuity or any other form of remuneration to one or more shareholders, their relatives or partners (if such payment results in the direct or indirect payment of an income higher than what the shareholder is entitled to under article 6 below);
+(e) the appointment of company officers;
+(f) the adoption, amendment or repeal of any by-law;
+(g) the designation of authorized signatories of cheques and negotiable instruments of the company;
+(h) any decision other than an administrative decision made during the usual course of company business.
+INCOME SPLITTING:
+6. The shareholders agree that incomes for each that are drawn from the company, in any form, will be proportionate to the number of ordinary shares held, except for the interest set forth in article 2 above, as well as the remuneration that may be allocated by the board of directors for set functions or as a salaried employee of the company.
+[46] With respect to the facts considered, she based her analysis on the following elements:
+· the size of salaries with relation to competency and scope of responsibilities;
+· the quality of administration and results obtained;
+· the contents of the agreement entered into by the shareholders; and
+· the nature and importance of the responsibilities assumed.
+[47] Ms. Bélanger's involvement in the case was on the initiative of the Appellant, which had initiated the appeal process following the Minister's (the "Minister") initial decision with which it evidently disagreed.
+[48] Having regard to the importance of the involvement by the person charged with reviewing the file, the Appellant and Interveners could have and should have submitted all relevant documentation and information demonstrating the merits of their arguments.
+[49] The Appellant made much of the relevance of comparing Roger Gagnon's status before and after his departure. After the sale of Roger Gagnon's shares to the two other shareholders, i.e. to his brother, Denis and to Mr. Coiffier— they each now held 50% of the shares—the company had to fill the void created by Roger's departure, so it retained the services of Pierre Deschênes.
+[50] In support of its arguments, the Appellant compared the salary, work conditions, the constraints of absences, vacation, etc. of Roger Gagnon and of Pierre Deschênes; after the departure of Roger Gagnon, Mr. Deschênes was given a large part of work performed until that time by Roger Gagnon.
+[51] I do not find the comparison totally relevant because Pierre Deschênes did not have any shares in the business. What a company demands and requires from its shareholders holding employment in its commercial activities, after having agreed to the terms and conditions of employment, has nothing to do with the salary reserved, offered or agreed to by anyone without any shares in the company.
+[52] When shareholders in an arm's length or non‑arm's length relationship decide to have a salary policy for the shareholders‑workers, be it stingy or generous, very permissive or very restrictive, it has nothing to do with the other employees' conditions of employment.
+[53] If shareholders‑workers agreed to the conditions, whether the conditions place them at an advantage or disadvantage vis‑à‑vis other company employees, it has nothing to with the existence of a non‑arm's length relationship. The only relevant question is whether or not there was work, remuneration, power of intervention and control of the company over one or all of the shareholders‑workers. If so, a contract of employment exists. In an exclusion as set forth in paragraph 5(2)(i) of the Act, a comparison of the work must be made between a shareholder‑worker in an arm's length relationship, and not with other employees who have no shares, even if shareholder status and worker status are fundamentally different.
+[54] To argue the contrary would create a serious inconsistency with respect to all SMEs where shareholders who are dealing with each other at arm's length decide to have a particular policy for shareholders‑workers. Without being subject to the exercise of discretionary power, given the absence of a non‑arm's length relationship, their work agreement would be deemed insurable, even if their conditions of employment were extremely different from those of other workers in the same company.
+[55] The very high level of autonomy shared by the shareholders‑workers in the performance of their work, the significance of the employment, the substantially lower or higher salary of the shareholders‑workers with relation to the other workers, the total absence of vacation or opportunity to take vacation without greater notice than that of other employees, and so forth, are all elements that shareholders‑workers dealing with each other at arm's length cannot invoke to exclude themselves from the obligation to pay premiums on the ground that their work agreement is not a true contract of service.
+[56] Parliament made an express stipulation on the issue of work performed by shareholders employed in their business. It appears in paragraph 5(2)(b) of the Act, which stipulates that the work performed by a shareholder‑worker or an owner of more than 40% of voting shares is automatically excluded from insurable employment.
+[57] The status of a shareholder‑worker with less than 40% of voting shares is recognized under the Act. Consequently, where one or more comparisons are required in a case where a non‑arm's length relationship exists, an analysis and comparisons must be carried out between workers working in the same capacity or capacities, and the shareholder capacity cannot be concealed from the analysis.
+[58] When a person invests in an area in which he or she has no or little knowledge and his or her co‑shareholders have the skill and expertise, it is completely natural to leave it to them to ensure sound management of the business.
+[59] It therefore becomes essential for that person to have some tools of control or intervention. In this case, Denis Coiffier, in addition to the rights conferred upon him through his 40% portion of shares, was probably the instigator of the shareholder agreement that provided him with an additional element to ensure the smooth operation of the company and the viability of his investment.
+[60] The argument that the Gagnon brothers acquired the de facto control of shares held by the passive investor, Denis Coiffier, is totally unfounded. Firstly, nothing in the evidence leads to such a conclusion; secondly, the person concerned was not heard; and thirdly, what appears to me to be most determinative, how could we reconcile such an argument with sections 5 and 6 of the shareholders' agreement?
+[61] Appeals Officer Jacynthe Bélanger considered all of the relevant facts in her analysis. She retained the comparison submitted by the Appellant as relevant. However, she concluded that the comparison did not support the arguments of the Appellant and Interveners.
+[62] Even though she did not communicate with shareholder Denis Coiffier, and even if she assumed that the work of Roger Gagnon was comparable to the work of Pierre Deschênes, it did not lead to an unreasonable conclusion. On the contrary, the conclusion reached is still reasonable.
+[63] For all of these reasons, I dismiss the appeal and confirm the merits of the Minister's decision.
+Signed at Ottawa, Canada, this 6th day of September 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 9th day of January 2006.
+Maria Fernandes, Translator

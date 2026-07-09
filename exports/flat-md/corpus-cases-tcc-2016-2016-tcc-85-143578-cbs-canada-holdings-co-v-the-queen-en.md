@@ -1,0 +1,353 @@
+---
+title: "CBS Canada Holdings Co. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143578/index.do"
+last_modified: "2016-04-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 85"
+citation2: ""
+neutral_citation: "2016 TCC 85"
+decision_date: "2016-04-12"
+language: "en"
+item_id: "143578"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3118
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:53:52.751000+00:00"
+cases_cited_count: 15
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "01e2f0fabb13c1f3b675b92b2316a83fe40a59826605b33a4de5f37ca79be122"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CBS Canada Holdings Co. v. The Queen
+
+- Citation: 2016 TCC 85
+- Decision date: 2016-04-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3118, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CBS Canada Holdings Co. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-12
+Neutral citation
+2016 TCC 85
+File numbers
+2013-1603(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1603(IT)G
+BETWEEN:
+CBS CANADA HOLDINGS CO.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on December 3, 2015 at Toronto, Ontario
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C.,
+Jeffrey Trossman and
+Jeffrey M. Shafer
+Counsel for the Respondent:
+Naomi Goldstein and Samantha Hurst
+ORDER
+WHEREAS the respondent brought a motion for an Order to strike out the affidavit of Deborah Toaze sworn June 22, 2015;
+UPON reading the materials filed and hearing from the appellant counsel and respondent counsel;
+THIS COURT ORDERS THAT:
+1. the respondent’s motion to strike the Affidavit is granted.
+2. the appellant is granted leave to file an affidavit in support of the main CBS motion.
+3. Costs are awarded to the respondent in this motion, in any event of the cause.
+Signed at Toronto, Ontario, this 12th day of April 2016.
+“K. Lyons”
+Lyons J.
+Citation: 2016 TCC 85
+Date: 20160412
+Docket: 2013-1603(IT)G
+BETWEEN:
+CBS CANADA HOLDINGS CO.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lyons J.
+[1] The respondent brought this motion for an order to strike out the affidavit of Deborah Toaze, the affiant (“Respondent’s motion”). Ms. Toaze is a partner at the law firm of Blake, Cassels & Graydon LLP (“Blakes”) representing CBS Canada Holdings Co., (“CBS”) in its appeal. The affidavit and exhibits, (“Affidavit”) were filed in support of the main CBS motion which requests that the appeal be allowed in accordance with Minutes of Settlement (“CBS motion”).
+[2] The parties executed Minutes of Settlement (the “Minutes”) pursuant to subsection 169(3) of the Income Tax Act (the “Act”). The Court held the appeal in abeyance to enable the Minister of National Revenue to implement the Minutes and issue notices of reassessment. Five weeks later, the respondent informed CBS that the Minutes cannot be implemented because there is a mistake of fact as to the availability to CBS, for the 2007 taxation years ended March 7, 2007 and December 31, 2007, respectively, under appeal, of additional non‑capital loss carry-forwards from prior years in the amount of $24,366,301 (the “non-capital losses”). The non-capital losses are reflected in Schedule A attached to CBS’ initial written settlement offer and the Minutes.[1]
+[3] The ground identified in the Respondent’s motion to strike the Affidavit is that CBS failed to permit effective cross-examination of its affiant, contrary to section 74 of the Tax Court of Canada Rules (General Procedure) (the “Rules”), by invoking privilege over information and exhibits in the Affidavit and by refusing to answer relevant and proper questions. Alternatively, if I am not going to strike the Affidavit as a whole, or portions, I should nonetheless give it no weight.
+[4] At the hearing, the respondent relied on two grounds. First, CBS needlessly provided too much hearsay evidence in the Affidavit which failed to meet the twin criterion of reliability and necessity thus making it inherently unreliable when better evidence was available. Second, CBS improperly put forward Ms. Toaze, a law partner of Blakes and CBS counsel, on a controversial issue. Those grounds breached section 19 of the Rules. Selecting her as the affiant, plus CBS’ and her actions of invoking privilege and refusing to answer questions on various other bases, prevented meaningful cross-examination on a controversial issue. If admitted, the Affidavit would cause extreme prejudice to the respondent.
+I. Background to the Respondent’s motion [5] The parties pled that a predecessor of CBS deducted $25,751,078 in non‑capital losses from prior years in computing its taxable income for the March 2007 taxation year. However, in the Reply, the respondent denied that that predecessor had any non-capital losses to deduct.[2]
+Minutes of Settlement [6] On April 24, 2014, CBS’ counsel in the Notice of Appeal, Edwin Kroft and Jeffrey Trossman, sent to respondent counsel, Elizabeth Chasson, the initial settlement offer with Schedule A attached (“initial settlement offer”).[3] The initial settlement offer and Schedule A states:
+5. …
+2.8 Strictly for purposes of the without prejudice settlement offer, the Minister and the Appellant agree that the revised non-capital loss balances of the Appellant shall be applied, pursuant to the provisions of the Act (including subparagraph 111(3)(b)(i)), in accordance with Schedule A attached hereto.
+…
+[Schedule A]
+Net Adjustments from Settlement
+March 7, 2007 Taxation year:
+Additional non-capital losses: (24,366,301.00)
+Less denied capital losses: (1,540,380.00)
+(22,825,921.00)
+[7] On May 21, 2014, respondent counsel acknowledged the initial settlement offer and sought, amongst other things, information as to the source and back-up for the non-capital losses because of the discrepancy between the Canada Revenue Agency (“CRA”) records and Schedule A regarding the quantum of such losses being available. The respondent was to provide a schedule prepared by the CRA showing non-capital loss amounts available to CBS.[4]
+[8] On September 17, 2014, respondent counsel wrote to CBS counsel that the CRA agreed with the non-capital losses in Schedule A.[5]
+[9] On December 19, 2014, CBS counsel sent to respondent counsel revised draft minutes of settlement (the Minutes) to the draft Minutes of Settlement CBS had previously sent on December 12, 2014.[6]
+[10] On January 7, 2015, respondent counsel executed the Minutes and notified the Court that a settlement had been reached under subsection 169(3) of the Act.[7] The Court acknowledged that the appeal would be held in abeyance for 60 days.[8] The Minutes indicate:
+8. …
+2. The Minister of National Revenue (the “Minister”) and the Appellant agree that the revised non-capital loss balances of the Appellant shall be applied, pursuant to the provisions of the Income Tax Act (Canada) (the “Act”) (including subparagraph 111(3)(b)(i) of the Act), in accordance with Schedule A attached hereto.
+3. The Minister shall reassess the Appellant’s taxation years ending March 7, 2007 and December 31, 2007 (the “2007 Years”) and:
+(a) Allow the Appellant’s deduction, in computing taxable income for the March 7, 2007 taxation year, of non-capital losses arising in prior taxation years equal to $24,366,301;
+Mistake [11] Respondent counsel attempted to contact Mr. Kroft on February 16, 2015. Ms. Toaze returned the call on behalf of Mr. Kroft. Respondent counsel informed Ms. Toaze that the CRA is having difficulty implementing the Minutes because of questions relating to Schedule A. Ms. Toaze relayed that information to Mr. Kroft. On February 19, 2015, Mr. Kroft set out CBS’ position in a letter to respondent counsel.[9] The next day, she notified him that contrary to the CRA’s prior understanding, the CRA recently discovered that there are no non-capital losses available for carry-forward to the taxation years under appeal and asked CBS to provide information to substantiate those.[10]
+[12] On March 10, 2015, respondent counsel informed the Court that the CRA had informed her that there is a mistake of fact in the Minutes.[11]
+Case management [13] On March 10, 2015, CBS counsel requested case management from the Court and advised it would be filing the CBS motion.[12] On June 26, 2015, an Order was issued pursuant to a case management conference call directing that the parties complete certain steps (“Motion Order”) before the hearing of the CBS motion scheduled for December 3, 2015.
+CBS motion
+[14] The CBS motion and Affidavit in support were filed on June 30, 2015.
+Cross-examination
+[15] The affiant was cross-examined on the Affidavit on October 7, 2015.
+Respondent’s motion
+[16] The Respondent’s motion was filed on November 9, 2015.
+[17] Prior to filing the Respondent’s motion, the respondent had served on CBS a Request to Admit the fact that “As of April 23, 2014, the appellant did not have a balance of $24,366,301 in non-capital losses realized in the taxation years prior to 2007.” Before the expiry of the deadline for the Request to Admit, CBS made an urgent request to the Court for a case management conference call, which the respondent opposed, and four days later, CBS brought an interim motion for an order requesting that no steps be taken by either party in the appeal other than those in the Motion Order until the CBS motion is heard.[13]
+[18] On August 13, 2015, the case management judge granted the request and issued an abeyance order (“Abeyance Order”) which ordered, amongst other things, that CBS’ response to the Request to Admit and interim motion shall be held in abeyance. Also, the Motion Order shall remain in effect and be strictly adhered to by the parties.
+II. Principles to strike an affidavit [19] Trudel J.A. articulated the principles to strike an affidavit in Canada (Attorney General) v Quadrini, 2010 FCA 47, [2010] FCJ No. 194 (QL) [Quadrini]. At paragraph 18, he states:
+18. […] As a general rule, the affidavit must contain relevant information which would be of assistance to the Court in determining the application. As stated by our Court in Dwyvenbode v. Canada (Attorney General), 2009 FCA 120, the purpose of an affidavit is to adduce facts relevant to the dispute without gloss or explanation. The Court may strike affidavits, or portions of them, where they are abusive or clearly irrelevant, where they contain opinion, argument or legal conclusions, or where the Court is convinced that admissibility would be better resolved at an early stage so as to allow the hearing to proceed in a timely and orderly fashion […].
+[Emphasis Added]
+[20] In Mayne Pharma (Canada) Inc. v Aventis Pharma Inc., 2005 FCA 50, [2005] FCJ No. 215 (QL), the Federal Court of Appeal notes that motions to strike affidavits should be exceptional, especially where the question is one of relevancy, and prejudice must be demonstrated. With respect to motions to strike based on hearsay, the Court, in quoting from Canadian Tire Corp. v P.S. Partsource Inc., 2001 FCA 8, 267 NR 135 (FCA) [Canadian Tire Corp.], outlines that:
+18. … In the case of motions to strike based on hearsay, the motion should only be brought where the hearsay goes to a controversial issue, where the hearsay can be clearly shown and where prejudice by leaving the matter for disposition at trial can be demonstrated.
+III. CBS’ position [21] In opposing the Respondent’s motion, CBS’ main argument is that there is no dispute about the authenticity of the Affidavit exhibits nor that those were filed, served, sent and received and the respondent informed the Court of the settlement reached on January 7, 2015. Therefore, the exhibits are routine documents containing uncontroversial documentary facts for the purposes of the CBS motion. The sole function of the Affidavit is to append exhibits, as in any routine motion. It was not proffered for the truth of its contents. Given that, no prejudice would result to the respondent if the Affidavit was admitted, but serious prejudice would result to CBS if it was struck, as critical documents would be excluded.
+IV. Analysis [22] I agree that the respondent did not dispute that the Affidavit exhibits were filed, served, sent and received and other than Schedule A, I also agree that authenticity was not challenged. These exhibits comprise mostly correspondence, commencing with the initial settlement offer on April 24, 2014 and up to and including correspondence sent on March 10, 2015, exchanged between the parties’ counsel or sent by the respondent to the Court. I disagree, however, with CBS’ position that the exhibits contain uncontroversial documentary facts and that the sole function of the Affidavit is to merely append exhibits similar to any routine motion.
+[23] At the hearing, the respondent conceded that the majority of the facts in the Affidavit and exhibits are uncontested except for the pivotal issue. That issue, which CBS is aware of, relates to the accuracy, truth and origin of the non‑capital losses in Schedule A (“controversial issue”), attached to the initial settlement offer and the Minutes.
+[24] I find that this is the controversial issue in this and the CBS motion in which CBS will contend a settlement was reached and the respondent will contend that there was a mistake of fact relating to the non-capital losses in Schedule A. The amounts of non-capital losses shown in Schedule A are incorporated into the initial settlement offer, the Minutes, plus referenced in other exhibits. It was the primary focus of the cross-examination. The controversial issue is supported by the exhibits showing the communications and correspondence between the parties’ counsel and correspondence to the Court in February and March 2015, referred to in paragraphs 29 through to 32 of the Affidavit.
+[25] As to the contents and the function of the Affidavit, paragraphs 11, 12, 13, 15 and 29 do not append any exhibits; thus, the sole function was not to merely append exhibits that were filed, served, sent and received. Nor does the Affidavit indicate that function. The affiant’s statements show that she had some involvement in the file. When Mr. Kroft was absent on one occasion, she contacted respondent counsel on his behalf and proceeded to obtain some information and subsequently relayed that to him. In other instances, the affiant received information from Mr. Kroft and recorded and reiterated that in the Affidavit. This goes beyond merely appending exhibits. I do not accept CBS’ contention that the purpose of the statements in the Affidavit was merely to prove the statements were made, as opposed to the truth of its contents. Therefore, we do not get to hearsay.
+[26] In paragraph 1 of the Affidavit, Ms. Toaze deposes that “I have personal knowledge of the matters to which I hereinafter depose, except where stated on information and belief and, where so stated, I believe to be true.” Affirming the Affidavit on personal knowledge, goes beyond merely appending exhibits. Personal knowledge means that an affiant has first-hand knowledge of the facts and cannot recount out-of-court statements by others.
+[27] The Respondent’s motion is predicated on sections 19, 72 and 74 of the Rules relating to affidavits and principles to strike an affidavit based on hearsay.[14]
+[28] Section 19 reflects the general rule against hearsay that an affidavit is confined to relevant facts, without gloss or explanation, within the personal knowledge of the deponent. However, section 19 does not displace the traditional exceptions, the principled approach nor specific exceptions within the Rules to the hearsay rule. Subsection 19(2) states:
+19(2) An affidavit shall be confined to a statement of facts within the personal knowledge of the deponent or to other evidence that the deponent could give if testifying as a witness in Court, except where the rules provides otherwise.
+Hearsay
+[29] Section 72 permits an affidavit that contains hearsay statements based on information and belief. In 506913 N.B. Ltd. v Canada, 2012 TCC 210, [2012] TCJ No. 144 (QL) [506913 N.B. Ltd.], the Court notes that section 72 is an exception to the general rule in subsection 19(2) of the Rules. Whilst permissible, evidence will only be admissible if the hearsay is reliable and necessary. Section 72 states:
+Contents of Affidavit
+72. An affidavit for use on a motion may contain statements of the deponent’s information and belief, if the source of the information and the fact of the belief are specified in the affidavit.
+[30] This is consistent with the principled approach, under which hearsay statements remain presumptively inadmissible but may be admissible where the twin criterion of reliability and necessity are sufficiently demonstrated as set out in R v Khelawon, 2006 SCC 57, [2006] 2 SCR 787, otherwise the general exclusionary rule prevails.
+[31] The respondent submits that neither reliability nor necessity exists to justify the admissibility of the hearsay in the Affidavit as it relates to the controversial issue (Schedule A and anything emanating from it).
+[32] The admissibility inquiry into threshold reliability is focussed on whether there is sufficient indicia of reliability of the hearsay statement so that the trier of fact has a satisfactory basis to evaluate the truth and accuracy of the statement or its trustworthiness to make use of the evidence. Evidence in an affidavit must be capable of being tested for its reliability during cross-examination.
+[33] Respondent counsel argues that the Affidavit hearsay evidence is inherently unreliable because she did not have a full opportunity to test the truth and accuracy, on cross-examination, as to the controversial issue. Further, it was unnecessary to have Ms. Toaze as the affiant when better evidence was available from CBS personnel, who would have had first-hand knowledge of the facts alleged in the Affidavit relating to its non‑capital losses in Schedule A and could not assert privilege, as did Ms. Toaze. Specifically, several times during cross‑examination, the affiant was asked if she had knowledge of the existence, truth, accuracy and source of the non-capital losses in Schedule A but repeatedly refused and/or objected on various bases to answer the questions relating to the information in the Affidavit and the exhibits. No explanation was provided as to why CBS was not available. Rather, CBS put forward Ms. Toaze, as the affiant on the controversial issue, who is a law partner at Blakes and CBS counsel. This served to preclude cross-examination of CBS personnel.
+[34] The respondent referred to the decision in Belchetz v Canada, 98 DTC 1230, involving section 72 of the Rules noting that hearsay is merely permissive. Hamlyn J. indicated that the Court is entitled to the person who has personal knowledge and knows the facts, when that person is available, instead of hearsay sworn by someone who knows nothing of the facts.[15]
+[35] Evidence in an affidavit must be capable of being tested for accuracy to evaluate the hearsay, subject of course to any proper objections, to demonstrate reliability. Paragraph 9 of the Affidavit states “The Appellant’s Settlement Offer included a schedule of non-capital losses entitled “Schedule A”.” The applicant is CBS. Unlike other paragraphs that the affiant affirmed to in the Affidavit, paragraph 9 makes no reference to the source of Schedule A, nor if the affiant has personal knowledge or if she is affirming on information and belief as it relates to Schedule A and merely refers to inclusion in the initial settlement offer making this ambiguous.
+[36] When the respondent sought to ascertain the source of Schedule A during cross-examination, the response, without any other elucidation was “That would be confidential information.” I agree with the respondent that this is inadequate. CBS cannot take advantage of such ambiguity of its own making. On its face, I find that Schedule A is hearsay and was not offered merely to show it was appended to the initial settlement offer and the Minutes but is attempting to rely on it to demonstrate the existence of the non-capital losses. Even if paragraph 9 was an attempt to establish that Schedule A was merely appended to the initial settlement offer and other documents, as opposed to proving the truth of the statements, it would still be hearsay given the paucity of information surrounding the controversial document. All of which impeded the respondent’s ability to test the accuracy of the information contained in the Affidavit and in issue in the motion. I will address this more fully later in these reasons under the heading “cross-examination”. This rendered the information, in my view, sufficiently unreliable. As an aside, given the finding that it is hearsay, the failure to identify the source of the information is contrary to section 72 of the Rules.
+[37] In Canadian Tire Corp., the Court struck portions of an affidavit where it would not have been possible for the opposing party to cross-examine effectively in respect of hearsay statements from unidentified sources.
+[38] In Clive Tregaskiss Investment Inc. v Canada, 2003 TCC 398, [2003] TCJ No. 339 (QL) [Tregaskiss], Bowie J. considered an affidavit in the context of section 72 of the Rules. He found that the affidavit filed by an associate in the firm of counsel for the party on whose behalf it was filed was given no weight by the Court, not only for that reason, but because it failed to provide specifics of the source of information.
+[39] The necessity to have Ms. Toaze, as affiant, on a controversial issue is not readily apparent when CBS personnel would have been available.
+Affidavit sworn by and as CBS counsel on the controversial issue
+[40] According to the respondent, the affiant improperly affirmed, as CBS counsel, the Affidavit involving the controversial issue. The respondent is unsure of Ms. Toaze’s precise role because she claimed privilege over the issue of whether she was counsel for CBS.
+[41] During cross-examination, Ms. Toaze confirmed that Blakes is counsel for CBS and Mr. Kroft and Mr.Trossman are identified as counsel on the Notice of Appeal. When asked by respondent counsel if she was also CBS counsel, the following exchanges took place:
+65. Q. If you go to the Notice of Appeal, you will see it’s Tab A to your affidavit and, specifically, to page 31. It’s noted that Mr. Kroft and Mr. Trossman are counsel for the Appellant?
+A. Yes
+66. Q. You are not?
+A. That’s correct.
+…
+68. Q. Are you also counsel for the Appellant, CBS?
+A. My name is not listed.
+69. Q. Are you counsel?
+MR. KROFT: She just indicated, Counsel, previously she was not.
+THE WITNESS: My name is not listed.
+MR. KROFT: You asked her that.
+MS. GOLDSTEIN: No. I asked her if she is counsel. I did not ask her if her name was listed.
+MR. KROFT: I think you asked her previously, but carry on.
+THE WITNESS: Counsel for the Appellant are Edwin G. Kroft, Q.C., and Jeffrey Trossman.
+BY MS. GOLDSTEIN:
+70. Q. So you are not counsel for the Appellant?
+A. I’m not listed here as counsel for the Appellant.
+71. Q. I think we can all see that you are not listed there. I’m asking you: Are you counsel for the Appellant?
+A. I’m not sure – I don’t understand the question because counsel for the Appellant is listed on the Notice of Appeal.
+72. Q. Are you retained in any capacity as a counsel for the Appellant?
+MR. KROFT: Well, Counsel, that’s an improper question.
+MS. GOLDSTEIN: Why?
+REF-2 MR. KROFT: Because you are asking about whom the Appellant retained. Our firm was retained, and the counsel are stipulated there, so I’m objecting to the question because the witness has already answered the question as well.[16]
+[42] In my view, the responses from the affiant amount to obfuscation to straightforward questions that warrant straightforward responses as to the nature of her involvement. In other instances of the read-ins presented, the affiant responded to questions put to her by invoking privilege, raising confidentiality and indicating that the document speaks for itself. From her responses, it appears how Ms. Toaze perceived her role as counsel.
+[43] In paragraph 1 of the Affidavit, Ms. Toaze deposes that “I am a partner at the law firm of Blake, Cassels & Graydon LLP. I work with Edwin G. Kroft Q.C. (“Mr. Kroft”), counsel for the Appellant.” In paragraph 29 of the Affidavit, the affiant states that on one occasion she contacted respondent counsel on Mr. Kroft’s behalf. Based on the foregoing, I infer that Ms. Toaze was CBS counsel.
+[44] The Law Society of Upper Canada’s Rules of Professional Conduct, as noted by the respondent, indicates that lawyers who appear as advocate shall not submit their own affidavits before a tribunal unless permitted by law, the rules of court or if the matter is purely formal or uncontroverted.[17]
+[45] The jurisprudence has established that if there are uncontroversial documents of minimal importance and the motion is routine or straightforward, the Court has the discretion to accept a lawyer’s affidavit.
+[46] In Pluri Vox Media Corp. v The Queen, 2012 FCA 18, 2012 DTC 5039 [Pluri Vox], the Court exercised its discretion and accepted a lawyer’s affidavit because of the non‑controversial nature of the exhibits. The Court commented that if the affiant had a law partner, associate lawyer, student-at-law or legal assistant, it would have been preferable to have the three documents exhibited by one of those persons.[18] This reflects the standard practice in routine motions where matters are uncontroverted.
+[47] However, Stratas J. cautioned that unacceptable conflicts can arise when a lawyer appears on a motion as a witness on controversial matters of fact and as an advocate. He states:
+7. …
+- … when the lawyer enters the fray by testifying on factual matters, the lawyer runs the risk of his or her testimony being disbelieved, with the effect of undercutting the lawyer’s believability and trustworthiness as an advocate for the client’s cause. Further, the lawyer seems less of an officer of the court and more as a partisan with a stake in the outcome of the case. Finally, the lawyer may be in conflict or may appear to be in conflict by trying to defend his or her own credibility as a witness, rather than single-mindedly advancing the client’s cause. Further, a lawyer has certain obligations of fairness and responsibility as an advocate (see, e.g., Rule 4.01 of the Law Society’s Rules of Professional Conduct). Many of these have the potential to be broken if the lawyer becomes a participant in the fray.
+8. When the Court interprets and applies Rule 82, concerns such as these should be front of mind. The more that these concerns are present, the more the Court should exercise its discretion against allowing a lawyer’s affidavit. The Court should also consider whether the evidence can be supplied by a person other than the lawyer.
+[48] I find that Schedule A and the documents relating thereto are controversial, of critical importance, and therefore, this is not a routine motion. As envisaged in Pluri Vox, dangers arise when counsel enters the fray in circumstances where there is a controversial issue and regard should be had as to whether evidence could be supplied by a person other than counsel. I infer that CBS personnel could have supplied it.
+[49] I conclude that the twin criterion was not satisfied in that the hearsay evidence including and relating to Schedule A, was not sufficiently reliable to provide a satisfactory basis for me to evaluate the truth and accuracy or its trustworthiness. It does not pass the threshold reliability test to be admissible nor could it be said to be necessary.
+Cross-examination
+[50] An adverse party may cross-examine a deponent who has sworn an affidavit for a motion as contemplated in section 74 of the Rules as follows:
+Evidence by Cross-Examination on Affidavit
+74. A deponent whose affidavit has been filed may be cross-examined on it by a party who is adverse in interest on the motion, and the evidence adduced may be used at the hearing of the motion.
+[51] Cross‑examination is intended to enable the evaluation of evidence and reveal whether the information is reliable or not. Counsel cross‑examining has a right to put questions covering all matters relevant to the determination of the issue. The Affidavit was filed in support of the CBS motion and utilized in the respondent’s motion. CBS says the CBS motion was brought to allow the appeal in accordance with the settlement reached in the Minutes which includes the non‑capital losses derived from Schedule A and the Minutes attach Schedule A. The respondent claims that there was a mistake of fact in the Minutes as to the accuracy of the non-capital losses in Schedule A and challenges CBS’ entitlement to those.
+[52] The respondent submits that the selection by CBS of Ms. Toaze, as an affiant, and its conduct were designed to thwart proper cross-examination so as to deny the respondent the opportunity to properly and fairly cross-examine CBS on the controversial issue it knew to be contentious. Ms. Toaze and CBS invoked privilege and refused to answer nearly every question asked during cross-examination on all underlying facts in the information in the Affidavit and exhibits so that the truth and accuracy of certain facts did not emerge relating to the non-capital losses in Schedule A and its source. CBS personnel could have provided first-hand knowledge without claiming privilege.
+[53] In reply, CBS contends that all relevant and proper questions were answered and viewed many questions as improper or abusive. For example, the respondent had asked questions as to work-product privilege of Blakes.[19] It provided Appendix A to illustrate those points.[20] References to the page numbers of the transcript and a precis as to what transpired from CBS’ perspective was provided to me for my review.
+[54] The respondent challenges CBS’s suggestion that CBS or the affiant had answered the questions and refutes the characterization as to what transpired in Appendix A. In her view, a mere assertion of privilege or confidentiality or other claim such as “It’s privileged, and therefore I can’t tell you” is insufficient and non‑responsive. The respondent presented the following exchanges from the cross-examination to demonstrate the point:
+…
+4. Q. And that subpoena requested that you bring all relevant documents?
+A. Yes.
+5. Q. What documents have you brought?
+A. I have brought the motion record, which are the relevant documents.
+6. Q. And how did you determine that that was the only relevant document?
+A. Those are the documents that are cited in the affidavit and they are the relevant documents.
+7. Q. Did you make any inquiries as to whether or not there were other relevant documents?
+A. I made – any other documents would be privileged. I made no inquiries with respect to privileged documents.
+8. Q. Did you make any other inquiries as to whether or not there were relevant documents?
+REF-1 MR. KROFT: I think it’s a circular question, Counsel. I’m objecting to the question. It’s impoper. It’s not ---
+MS. GOLDSTEIN: Why is it ---
+MR. KROFT: It’s improper, Counsel, because the witness gave you an answer.
+She said that those are the documents she believed were relevant.
+MS. GOLDSTEIN: I asked if she made any inquiries as to whether or not there were other relevant documents.
+MR. KROFT: And I believe she answered the question.
+MS. GOLDSTEIN: I don’t believe she answered that question.[21]
+…
+114. Q. Just to clarify, we understand that you previously said, “I have not spoken with the client representative with respect to the affidavit.” Is that accurate?
+A. I believe that I said that, and I also said that, quite frankly, to the extent that there are or are not conversations, that’s confidential.
+115. Q. When you said it, was it accurate?
+A. Yes.
+116 Q. So I take it that you have not spoken the – have you spoken to the person or persons responsible for maintaining the tax records at the Appellant in conjunction with this affidavit or the cross examination?
+Any conversations that I would have had, if I had any – and I’m not saying that I have had any – would be confidential.[22]
+…
+120. Q. According to your affidavit, Schedule A, at page 56, was attached to the Blakes letter of April 24, 2014, which is at pages 50 to 55. Correct?
+A. That is correct.
+121. Q. Who prepared Schedule A?
+A. That would be confidential information.
+122. Q. Why is it confidential?
+MR. KROFT: Well, I’m going to object to the question, Counsel, for the same reasons that I will keep indicating. Blakes is counsel to the Appellant. How that letter was prepared is something that’s the subject of litigation privilege, and I’m instructing -- well, I’m not instructing anybody to do anything. I’m just objecting to the question.[23]
+[55] Without delving into the formulation and propriety of each of the questions and responses in Appendix A, which is not the subject matter of this motion, suffice to say and in the context of this motion, some objections were well founded, others are arguable. My general impression from reviewing the questions set out in the Appendix, the answers in the transcript and the exchanges referred to by the respondent at the hearing is that the responses to the questions tended to be lacking. The response to question 121 is illustrative of that. Even the response to follow‑up question 122 is off target. The response, as framed, relates to Blakes’ letter as litigation privilege – which it is – but the specific question put to the affiant related to Schedule A, not the letter. Admittedly, Schedule A is attached to that letter, and other exhibits, and is the focus of paragraph 9 of the Affidavit. I agree with the respondent that the response to question 121 is insufficient. Other responses were convoluted.
+[56] CBS referred to Cameco Corp. v Canada, 2010 TCC 636, 2011 DTC 1050 [Cameco] principally because the ground for the motion and arguments made were similar to the present case.[24] I agree, however, Cameco does not assist CBS because no ruling was made on the motion to strike the affidavit in Cameco. Rather, the decision was based on the defects on the face of the pleadings, such that the affidavit was not critical to the findings. Further, Ms. Toaze had a more enhanced role than that of the associate in Cameco. As pointed out by the respondent at the hearing, the associate did not inquire beyond what she had been told by other associates was needed, which implied that the affidavit was submitted for the truth of what the associate told her as to the particulars needed. The respondent had suggested in those circumstances, one of the other associates would have been more knowledgeable and preferable.
+[57] CBS asserts that there was an overtone that the affiant was obliged to go behind the documents to investigate the accuracy and amount of the losses, even though the Rules do not impose any such obligations on an affiant as to the statements made in the documents appended to the exhibits and viewed several questions as examination for discovery type questions and objected to those.
+[58] CBS correctly points out that the scope of cross-examination on an affidavit in support of a motion is narrower than an examination for discovery and there are other differences between cross-examination and examination for discovery. It referred to the decision in Merck Frosst Canada Inc v Canada (Minister of Health), 1998 CanLII 7729 (FC), aff’d 1999 CanLII 8930 (FCA) [Merck], which highlighted the following differences: in cross-examination, the affiant is examined as a witness, not a party; the answers given constitute evidence, not admissions; the affiant cannot be required to inform himself or herself; the affiant can be required to produce only documents within his or her custody or control; and the rules of relevance are more limited. I note that the cross-examination conducted in Merck was in the context of a judicial review application.
+[59] In Ontario v Rothmans Inc., 2011 ONSC 2504, 5 CPC (7th) 112 (Ont Sup Ct),[25] Perell J. prepared a compilation of eleven principles summarized from existing jurisprudence. Below principle 6 notes that the scope of the cross‑examination can vary based on the nature of the application and there is some authority, according to principles 10 and 11, that expands beyond the principle in Merck, as follows:
+…
+5. If a matter is raised in, or put in issue by the deponent in his or her affidavit, the opposite party is entitled to cross-examine on the matter even if it is irrelevant and immaterial to the motion before the court: …
+6. The proper scope of the cross-examination of a deponent for an application or motion will vary depending upon the nature of the application or motion: …
+…
+10. The deponent for an application or motion may be asked relevant questions that involve an undertaking to obtain information, and the court will compel the question to be answered if the information is readily available or it is not unduly onerous to obtain the information: …
+11. The deponent for a motion or application who deposes on information and belief may be compelled to inform himself or herself about the matters deposed: …
+That said, it is recognized that principles 10 and 11 are exceptions to the general rule.
+[60] In Ottawa Athletic Club Inc. (cob Ottawa Athletic Club) v Athletic Club Group Inc., 2014 FC 672, 2014 CarswellNat 2636, the Court acknowledges that the scope of cross-examination has long been contentious and various answers have been provided by the courts over time. The Court notes, however, that the consensus is that an affiant who swears to certain matters, should not be protected from fair cross-examination on the information in the affidavit and collateral questions which arise from his or her answers.
+[61] Schedule A is contained in the Affidavit thrice (attached to documents). The Affidavit exhibits are replete with references to Schedule A or the exhibits utilize the non-capital losses derived from Schedule A. For example, page 3 of the initial settlement offer, paragraphs 2 and 3 of the Minutes, Schedule B and including but not limited to Exhibits “D”, “E”, “F”, “G”, “I” and “K”. Schedule A is clearly a crucial document.
+[62] The respondent asked the following questions and received the following responses concerning Schedule A:
+d)
+125. Q. What information was used to prepare Schedule A?
+Mr. Kroft: Counsel, I’m going to object to this question. This isn’t an examination. It’s improper. This isn’t an -
+e)
+127. Q. Do you have any knowledge as to how the alleged – the noncapital losses that are alleged to have arisen and are set out in Schedule A, how did they arise?
+Mr. Kroft: Well, Counsel, I’m going to object to these questions on a number of grounds concisely. First of all, they are not really relevant to the subject matter and relief sought in this motion. The motion is about whether or not a settlement agreement is –
+…
+i) [sic]
+Line 11: Ms. GOLDSTEIN: So you are refusing to allow the witness to answer the following question: Did the Appellant, through its counsel, in Exhibit C, represent to the Minister of National Revenue that it had available noncapital losses equal to $24,314,000 sorry, I have the wrong one here $24,366,301?
+MR KROFT: No Counsel. I’m advising you that the question was improper because the witness already answered that question of ours at least once, which was she said the document spoke for itself. In other words, the document says what it says. You keep wanting to put words into the witness’s mouth and ask her to affirm something other than what she has said.
+…
+132. Q. Is the document [Schedule A] a representation? True?
+The document speaks for itself.
+133. Q. That’s not what I asked. I asked you: It is true? Is it accurate?
+MR KROFT: What is accurate, Counsel?
+THE WITNESS: What is accurate?
+MR. KROFT: I’m sorry. That question is of such a general nature it’s an improper one. It’s vague. It doesn’t ask the witness to answer anything.
+BY MS. GOLDSTEIN:
+134. Q. Specifically the representation on page 52, 3.9(a) that the Appellant has a noncapital loss equal to $24,366,301?
+A. I think that is out of context because you would need to read paragraph 2.8, which says:
+“Strictly for purposes of the without prejudice settlement offer, the Minister and the Appellant agree that the revised noncapital loss balances of the Appellant shall be applied pursuant to the provisions of the Act (including subparagraph 111(3)(b)(i)) in accordance with Schedule A attached hereto.”
+135. Q. I would like a yes or a no answer to the following question: Does the Appellant have $24,366,301 in noncapital losses available for carry-forward from the March 7, 2007 reassessment?
+A. The settlement offer speaks for itself.
+136. Q. That’s not my question. Are you refusing to answer my question?
+A. I do not have a yes or a no answer. It is simply the document speaks for itself.
+137. Q. Why don’t you have a yes or a no answer?
+A. The document speaks for itself.
+MR. KROFT: Are you asking her if she knows that?
+MS. GOLDSTEIN: I’m asking her if it’s true or not. She has attached to her affidavit a document, and I’m entitled to ask: Do you know if the representations in that document are true or not?
+MR. KROFT: No, Counsel. I’m sorry. I beg to differ with you. It’s an improper question. It’s not an examination for discovery with respect to the contents of this document.[26]
+[63] Given the scope of an affidavit is determined by the issues raised by the motion (settlement or mistake of fact) and the cross-examiner has the right to put questions covering all matters relevant to the determination of issues in the motion, in my opinion, the respondent’s questions properly focused on Schedule A. Schedule A materially affects the evidentiary burden and must be capable of being tested in cross-examination, fairly and properly, to enable the Court to evaluate the evidence as to its accuracy to ultimately determine the issue. This was not done. I infer and find that the selection by CBS of Ms. Toaze and her conduct impeded full cross-examination to test the accuracy of the evidence on the controversial issue it knew to be contentious, when CBS could have provided first-hand knowledge thus making the hearsay in the Affidavit unreliable.
+Prejudice
+[64] The Court should not strike an affidavit on a motion to strike unless the applicant can show prejudice. Respondent counsel argues if the Affidavit is allowed to stand, there is extreme prejudice to the respondent because she has not been permitted to test, through cross-examination, certain items in the Affidavit.
+[65] According to CBS, nothing in the Affidavit is offensive that would prejudice the respondent if the Affidavit is admitted as evidence because it merely reiterates statements about the correspondence sent by the parties and/or to the parties or correspondence to/from the Court about documents sent. I agree with the respondent that because of the limitations in the ability to test the Affidavit, that demonstrates prejudice to the respondent. CBS argues that serious prejudice would result to CBS. Striking the Affidavit would amount to the dismissal of the CBS motion without it being heard on the merits as it would exclude from evidence documents that are authentic, that were either filed, served, sent and received and not controversial.
+[66] CBS referred to 506913 N.B. Ltd. to illustrate the Quadrini principle where the Court found that failing to specify the source of information or fact of belief go to the weight to be ascribed at the main motion.[27] Conversely, in Tregaskiss, the Court gave no weight to the hearsay evidence.[28]
+[67] Applying the principles on a motion to strike based on hearsay and based on the foregoing reasons, I conclude that the Affidavit containing hearsay, sworn by the affiant as CBS counsel on a controversial issue, failed to meet the twin criterion of reliability and necessity to assist me in evaluating the evidence for the CBS motion. In exercising my discretion against allowing the Affidavit, as noted by the Federal Court of Appeal in Pluri Vox, the Court should consider if evidence could have been supplied by a person other than counsel. CBS personnel could have done so. The respondent’s motion is granted.
+[68] The respondent asks that the Affidavit, in whole or part, be struck. Alternatively, that the Affidavit be admitted but no weight be ascribed. Given the breadth of the impact of Schedule A on the Affidavit and the exhibits, severability is difficult. As such, the Affidavit is struck.
+[69] I am granting leave to CBS to file an affidavit in support of the CBS motion.
+[70] Costs will be awarded to the respondent in this motion, in any event of the cause.
+Signed at Toronto, Ontario, this 12th day of April 2016.
+“K. Lyons”
+Lyons J.
+CITATION:
+2016 TCC 85
+COURT FILE NO.:
+2013-1603(IT)G
+STYLE OF CAUSE:
+CBS CANADA HOLDINGS CO. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 3, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice K. Lyons
+DATE OF ORDER:
+April 12, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C.,
+Jeffrey Trossman and
+Jeffrey M. Shafer
+Counsel for the Respondent:
+Naomi Goldstein and Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Edwin G. Kroft, Q.C., Jeffrey Trossman and Jeffrey M. Shafer
+Firm:
+Blake, Cassels & Graydon LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] According to the respondent, the amount of non-capital losses available is $893,000.
+[2] Respondent’s Motion Record, Tab 2, Affidavit of Deborah Joan Toaze (“Affidavit”), Exhibit “A”, paragraph 35 and Exhibit B, paragraph 7.
+[3] Respondent’s Motion Record, Tab 2, Affidavit, Exhibit “C”.
+[4] Respondent’s Motion Record, Tab 2, Affidavit, Exhibit “D”.
+[5] Respondent’s Motion Record, Tab 2, Affidavit, Exhibit “E”.
+[6] Respondent’s Motion Record, Tab 2, Affidavit, Exhibits “K”.
+[7] Respondent’s Motion Record, Tab 2, Affidavit, Exhibits “L” and “M”.
+[8] Respondent’s Motion Record, Tab 2, Affidavit, Exhibit “N”.
+[9] Respondent’s Motion Record, Tab 2, Affidavit, Exhibit “O”.
+[10] Respondent’s Motion Record, Tab 2, Affidavit, Exhibit “P”.
+[11] Respondent’s Motion Record, Tab 2, Affidavit, Exhibit “Q”.
+[12] Respondent’s Motion Record, Tab 2, Affidavit, Exhibits “R”.
+[13] The respondent requested that the case management judge hear two motions to strike the Affidavit because of the affiant’s responses on cross-examination and that the Abeyance Order be rescinded and reinvigorated the request that CBS respond to the Request to Admit. The case management judge’s order, dated November 3, 2015, indicates that the respondent had not filed an appeal nor provided fresh bases of reconsideration of the Abeyance Order, thus it and the Motion Order remain in effect. Also, the motion judge is best suited to determine what evidence ought to be before the motion court on the CBS motion and directed the parties to bring any motions to exclude evidence in respect of the CBS motion to the motions judge immediately before the hearing of the CBS motion.
+[14] In its materials and submissions, CBS referenced section 110 of the Rules which provides sanctions in instances where there is default or misconduct relating to various types of out-of-court examinations. That section, combined with section 101, provides, amongst other things, that where a person fails to answer any proper question during cross-examination on affidavit, the Court may “(c) strike out all or part of the person’s evidence, including any affidavit made by the person, …”. This provision applies in instances where a party directly challenges the form and propriety of specific questions in their motions which are not the bases for the Respondent’s motion.
+[15] The Court compares section 72 of the Rules to Rule 332(1) of the Federal Courts Rules and referred to jurisprudence that had considered Rule 332(1). Rule 332(1) has since been eclipsed by section 81 of the Federal Courts Rules. Section 81 speaks to contents of an affidavit as it relates to personal knowledge and envisages affidavits on information and belief except in certain circumstances. If on belief, section 81 contemplates a sanction that the Court may draw an adverse inference from the failure to provide evidence from an individual with personal knowledge.
+[16] Respondent’s Motion Record, Tab 3, Transcript of cross-examination of Ms. Toaze, page 10, lines 17 to 23, line 28, page 11, line 1 to page 12, line 6.
+[17] Ontario, Law Society of Upper Canada, Rules of Professional Conduct, Section 5.2-1 provides that “[a] lawyer who appears as advocate shall not testify or submit their own affidavit evidence before the tribunal unless: (a) permitted to do so by law, the tribunal, the rules of court or the rules of procedure of the tribunal, or (b) the matter is purely formal or uncontroverted.”
+[18] Pluri Vox, supra, at paras 13 and 14. The comments were made in the context of prohibition in Rule 82 of Federal Courts Rules.
+[19] CBS was correct with respect to question 3 that it is litigation privilege and that question 26 was improper in that it relates to the Request to Admit.
+[20] Appendix A is part of CBS’ written submissions which lists 28 questions or objections that CBS had made. Breaking that down it viewed 14 improper, 5 privileged, 5 examination for discovery type questions, 3 irrelevant and 1 confidential.
+[21] Respondent’s Motion Record, Tab 3, Transcript of cross-examination of Ms. Toaze, page 1, line 17 to page 2, line 19.
+[22] Respondent’s Motion Record, Tab 3, Transcript of cross-examination of Ms. Toaze, page 21, lines 9 to 26.
+[23] Respondent’s Motion Record, Tab 3, Transcript of cross-examination of Ms. Toaze, page 23, line 24 to page 24, line 10.
+[24] Cameco failed to permit effective cross-examination of the affiant contrary to section 74 of the Rules and challenges to privilege claims Cameco had moved to strike portions of the Crown’s Reply supported by an affidavit sworn by an associate employed at the law firm of Cameco’s legal counsel; she had not worked on the file and had relied on information provided by another lawyer. The respondent sought to strike the affidavit on the grounds that Cameco had waived privilege on its files in the context of the cross-examination of the associate on her affidavit. Rip C.J., as he then was, disagreed with the respondent that Cameco waived privilege to permit the respondent to access Cameco’s files and noted the fact that Cameco was prepared to provide certain documents in the files to the respondent is not a waiver of privilege.
+[25] This was cited with approval by the Ontario Court of Appeal in Mennes v Canada (Attorney General), 2014 ONCA 690, 122 OR (3d) 434 (Ont CA).
+[26] Respondent’s Motion Record, Tab 3, Transcript of cross-examination of Ms. Toaze, page 25, lines 23 to 27, page 26, lines 11 to 20 and page 29, lines 11 to 23, line 25 to page 31, line 17.
+[27] D’Arcy J. was asked to make a determination of relevancy, in the context of the respondent’s motion to strike out certain affidavits and associated exhibits filed in support of the appellant’s main motion because the affidavits contained deficiencies (portions include statements on information and belief yet fail to identify a source, statements are that are irrelevant, speculative and present argument and conclusions of law). After referring to the principle in Quadrini, D’Arcy J. found that it is was unclear to him, at that stage, as to the relevance of certain portions of the affidavit and concluded that the deficiencies, with which he agreed, go to the weight to be ascribed to statements to be dealt with at the main motion.
+[28] In Tregaskiss, the Court relied on Sherman v The Queen, [2000] 2 CTC 2670, 2000 DTC 1970 (TCC). The Court stated that it is inappropriate for an affiant to recite information obtained from a lawyer that later appears as counsel on the motion unless the contents of the affidavit are undisputed or a mere formality.

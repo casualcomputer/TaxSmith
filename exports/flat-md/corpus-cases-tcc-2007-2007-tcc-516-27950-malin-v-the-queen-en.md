@@ -1,0 +1,150 @@
+---
+title: "Malin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27950/index.do"
+last_modified: "2007-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 516"
+citation2: ""
+neutral_citation: "2007 TCC 516"
+decision_date: "2007-08-31"
+language: "en"
+item_id: "27950"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1799
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:47:29.157000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9d58e7562972228199a10eec458e1561e85e5b8df7a6701f4b48128a0bee1b03"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Malin v. The Queen
+
+- Citation: 2007 TCC 516
+- Decision date: 2007-08-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1799, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-31
+Neutral citation
+2007 TCC 516
+File numbers
+2006-2438(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2438(IT)I
+BETWEEN:
+NORMAN MALIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 23, 2007, at Montreal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Chantal Roberge
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 31st day of August 2007.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2007TCC516
+Date: 20070831
+Docket: 2006-2438(IT)I
+BETWEEN:
+NORMAN MALIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal against an assessment by the Minister of National Revenue (the “Minister”) disallowing a net business loss of $24,355.65 claimed by the appellant for his 2002 taxation year. The expenses claimed and disallowed were, car, travel and home expenses and expenses for supplies. As for the car expenses, the appellant and his accountant testified that the amounts were estimates as the appellant did not keep a logbook nor did he keep vouchers. They claimed approximately 80% of the total car expenses. The expenses for supplies were also estimates and were not supported by documentation.
+[2] The expenses claimed were disallowed on the basis that the appellant did not carry on a business in 2002 and that they were personal in nature. Alternatively, the Minister submitted that the home expenses were limited by the application of subsection 18(12) of the Income Tax Act (the “Act”).
+[3] The appellant admitted the following facts relied upon by the Minister:
+- he had no recorded sales or other revenues from the alleged business activities;
+- he did not have a business that was registered for GST purposes;
+- his business card showed that he was the chief executive officer of Innsbrooke Development Corp. [the appellant explained in court that it is a corporation wholly owned by Reevin Pearl, a lawyer and a friend of the appellant’s, with whom he intended to carry on business in different fields, but mainly with respect to the implementation of a currency-at-par system to be offered to credit card issuers, such as American Express, Visa and Mastercard].
+[4] By an agreement “Re: Currency at par system” signed between the appellant and Reevin Pearl on July 8, 2002, which made reference to a confidentiality and non-disclosure agreement executed on the same date, the parties mutually agreed to enter into a 50-50 partnership arrangement pertaining to the marketing of a new concept whereby a credit card issuer such as American Express, Visa or Mastercard would enter into a joint venture with a corporation which the said parties would eventually control on a 50-50 basis. I will reproduce certain parts of this agreement, which is found at page 9 of Exhibit R-3:
+Re: Currency at par system
+4. It is agreed between us that if, as and when any commercial transaction is concluded with a third party, Innsbrooke Development Corporation will be contracting party acting in trust for the mutual benefit of both of us whereby we shall share all expenses and all benefits on a 50-50 basis.
+[. . .]
+7. Consequently, we are hereby signing this Letter Agreement at this stage in its simplest form to confirm:
+a) all expenses that will be incurred to cause the currency at par system to be marketed shall be shared equally;
+b) all benefits whether they be revenues or other benefits available arising out of the marketing of the currency at par system shall be shared equally;
+c) all decisions of a material nature will be made jointly whereby there is required mutual agreement between us pertaining to such matters.
+d) we shall not have any right to charge fees of any nature whatsoever to our joint venture it being understood that the work being performed is in consideration of this partnership and the only benefits that we will derive will be those that we mutually agree upon in the future where we shall have equal rights to share equally on [sic] any revenues after reimbursement of our direct expenses;
+8. It is understood that material decisions are deemed to be any agreement with a third party that may affect in any way on a commercial basis the rights pertaining to the marketing of a credit card or other monetary vehicle (checks that are issued similar to travellers’ checks currently in use) which may be used to obtain a service or product with an exchange rate at par between the Canadian and US currency.
+9. Our goal in the partnership is to enter into an agreement with a credit card issuer to accept a philosophy and marketing program which calls for marketing of a special credit card which when used will provide to the consumer the right to have the product or the service at par with the currency of their national origin.
+[. . .]
+12. We shall use our best efforts to attempt to successfully market the concept and generate the appropriate benefit for the partnership.
+[. . .]
+14. The present partnership shall apply strictly and only to the expenses and benefits that may accrue as a result of the activities pertaining to the marketing of a currency at par credit card or a travellers check to be issued as a currency at par vehicle to acquire goods, products and services by any consumer who may travel from one country to another.
+[. . .]
+16. This agreement shall be binding upon the undersigned, our legal representatives and assigns, and Innsbrooke Development Corporation has intervened into the present agreement having taken cognizance thereof and agrees to act in trust for the benefit of the partnership until we mutually agree that a separate new corporate entity should be created for our mutual benefit.
+[5] The appellant testified that, in furtherance of the agreement, he had discussions with different people, sent written communications to financial institutions and met with a few people. However, from the documentation provided, it would seem that, although the appellant appears to have been very motivated, his actions never got beyond the stage of fruitless attempts to convince entertainment publications and financial institutions of the merit of his project.
+[6] As an example, it appears that on or about November 18, 2002 a letter was sent to the chairman and chief executive officer of Amex by the appellant on behalf of Innsbrooke Development Corporation (a copy of the letter has been provided in Exhibit R-3). In that letter, the appellant states that he wishes to arrange a meeting to present his project.
+[7] It appears that Amex was not prepared to discuss anything with the appellant and Mr. Pearl unless some legal requirements were met. It is my understanding from the documents provided by the appellant in Exhibit A-1 that the proposal was never analyzed by Amex, as the prerequisite legal documents were never signed either by Amex or by the appellant and Mr. Pearl.
+[8] According to the appellant, Mr. Pearl put an end to the project when the financial institutions refused to enter into a non-disclosure agreement. It is my understanding that this would have been at the end of 2003 or early in 2004.
+[9] It is also my understanding that no serious discussions actually took place with any financial institutions during the period at issue. The appellant never provided any detailed concept statements or business plan; nor did he provide any estimated cost, timelines or revenue potential for his project. No projected financial statements were ever provided.
+[10] The appellant also had some ideas with respect to a real estate project in Montreal at the corner of Simpson and Sherbrooke Streets. Although he had some discussions with, and met with, the owner of the property, it never went beyond the point of mere speculation. According to the appellant, when the owner decided that he wanted to occupy a full floor of the building proposed to be built, Mr. Pearl disparaged the project and the discussions stopped right there. No figures or business plan were submitted with regard to that project either, nor did Mr. Pearl testify.
+[11] The appellant also claimed to have carried on activities in the art field. He gave vague testimony regarding his trips to New York and Toronto to visit art galleries and artists, but did not produce any useful evidence to show that his taste for art was more than a hobby.
+[12] I agree with counsel for the respondent that the appellant, although he had been a businessman in the past, did not establish that he was operating any business in the year at issue. In that year, he was retired and declared only RRSP income of $21,012 in his tax return.
+[13] He acknowledged in court that his wife did not declare a higher income than his. The expenses claimed were mostly expenses that he would have had to incur whether he was in business or not. Those expenses were personal in nature. The appellant had the burden of showing that they were incurred in part to earn income from a business. He failed to convince me that his activities in 2002 involved anything more than expectations. Nothing concrete was ultimately put in place. Things remained at the stage of mere hopes of going into business.
+[14] The appellant did not convince me that he started a business with Mr. Pearl. He did not convince me that he went beyond the stage of merely intending to commence one. As stated in Samson et Frères Ltée v. Canada, [1995] T.C.J. No. 1385 (QL), at paragraph 22:
+It seems clear to me from [M.N.R. v. M.P. Drilling Ltd., 76 DTC 6028 (FCA)] that, for a business to exist and to have commenced, one must have gone beyond the stage of merely intending to commence it. A plan to do so, even a clearly-stated one, is in my view merely the expression of that intention and must be taken further. The essential elements relating to the very structure of the business, that is the necessary financing, assets and labour, must have been sought out and brought together before it can be stated that the business exists and that it has commenced. I will add that the decision to commence the business, as it may be detected from "significant" or "essential" steps taken by the taxpayer with a view to operating the business, is an important indicator that the business has commenced. That, in my view, is the meaning of the decision by Judge Bowman of this Court in Gartry [94 DTC 1947 (TCC)]. It is indeed fairly difficult to conceive that a business has commenced before a firm decision has been made to that effect and before the essential elements relating to the very structure of such a business have been brought together.
+[15] Since no business existed in 2002, the appellant is not entitled to deduct any expenses for that year. The appeal is dismissed.
+Signed at Ottawa, Canada, this 31st day of August 2007.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2007TCC516
+COURT FILE NO.: 2006-2438(IT)I
+STYLE OF CAUSE: NORMAN MALIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: August 23, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: August 31, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Chantal Roberge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

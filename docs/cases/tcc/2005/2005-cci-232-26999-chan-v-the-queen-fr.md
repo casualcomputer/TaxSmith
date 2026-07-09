@@ -1,0 +1,115 @@
+---
+title: "Chan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26999/index.do"
+last_modified: "2005-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 232"
+citation2: ""
+neutral_citation: "2005 CCI 232"
+decision_date: "2005-04-04"
+language: "fr"
+item_id: "26999"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 544
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:03:21.398000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6604638c05e74e261d5990277d485dabde711c018b6fc38bb656380b92e4b74c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chan v. The Queen
+
+- Citation: 2005 CCI 232
+- Decision date: 2005-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 544, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-04
+Référence neutre
+2005 CCI 232
+Numéro de dossier
+2004-2(IT)APP
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2(IT)APP
+ENTRE :
+FREDDIE CHAN,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 17 mars 2005 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge D.W. Beaubier
+Comparutions :
+Pour le requérant :
+Le requérant lui-même
+Avocate de l'intimée :
+Me Fiona Mendoza
+___________________________________________________________________
+ORDONNANCE
+VU la demande de prorogation du délai pour interjeter appel et payer les droits de dépôt appropriés pour les années d'imposition 1998 et 1999 du requérant;
+ET VU les allégations des parties;
+LA COUR ORDONNE :
+1. L'adresse du requérant aux fins de signification est remplacée par l'adresse suivante :
+Freddie Chan
+5524, rue Wells
+Vancouver (Colombie-Britannique)
+V5R 3M8
+2. La demande est rejetée pour les motifs ci-joints.
+Signé à Saskatoon (Saskatchewan) ce 4e jour d'avril 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 16e jour de septembre 2005.
+Marie-Christine Gervais, traductrice
+Référence : 2005CCI232
+Date : 20050404
+Dossier : 2004-2(IT)APP
+ENTRE :
+FREDDIE CHAN,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Beaubier
+[1] La demande de prorogation du délai visant le paiement des droits de dépôt pour un avis d'appel concernant les années d'imposition 1998 et 1999 du requérant a été entendue à Vancouver (Colombie-Britannique) le 17 mars 2005. Freddie Chan était le seul témoin. Je crois la totalité de son témoignage.
+[2] Une demande de prorogation du délai pour ces appels a été accordée précédemment par la Cour canadienne de l'impôt le 24 février 2004 [TRADUCTION] « si les droits de dépôt appropriés sont payés au greffe au plus tard le 25 mars 2004 » .
+[3] Les droits n'ont pas été payés parce que le représentant du requérant indique dans sa demande [TRADUCTION] « mais comme nous n'avons pas payé les droits de dépôt nous n'avons pas obtenu de date d'audience » .
+[4] L'ordonnance de la Cour du 24 février 2004 était claire et explicite. La demande en cours est datée du 27 janvier 2005. Elle constitue une nouvelle demande de prorogation du délai et elle a été présentée après le délai prévu par la loi pour une demande de prorogation du délai. La preuve dont dispose la Cour permet d'établir que le représentant du requérant, Fareed Raza, a agi de façon négligente lorsqu'il a omis de payer les droits ou d'aviser M. Chan de payer les droits dans les délais. Il semblerait que M. Chan a intenté une action pour négligence contre Fareed Raza, du cabinet « F & A Accounting Services, 2665, Kingsway, Vancouver (Colombie-Britannique) » , qui était le représentant du requérant avant et après l'ordonnance du 24 février 2004 rendue par la Cour.
+[5] Pour les motifs mentionnés ci-dessus, la demande est rejetée.
+Signé à Saskatoon (Saskatchewan) ce 4e jour d'avril 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme ce 16e jour de septembre 2005.
+Marie-Christine Gervais, traductrice

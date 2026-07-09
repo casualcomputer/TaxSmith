@@ -1,0 +1,97 @@
+Title: Hochhausen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29007/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-299-29007-hochhausen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-05-22
+
+# Hochhausen v. The Queen
+
+- Citation: 2008 TCC 299
+- Decision date: 2008-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6756, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hochhausen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-22
+Neutral citation
+2008 TCC 299
+File numbers
+2007-3680(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC299
+Date: 20080522
+Docket: 2007-3680(IT)I
+BETWEEN:
+TOM HOCHHAUSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on March 19, 2008, in Edmonton, Alberta.)
+Boyle, J.
+[1] Spacial Management Systems Ltd. failed to make its required employee withholding remittances in 2004. For part of 2004, Mr. Hochhausen was a director of SMS. The only issue to be determined in this case is whether Mr. Hochhausen exercised the degree of care, diligence, and skill to prevent that failure that a reasonably prudent person would have exercised in comparable circumstances.
+I. Facts
+[2] The facts are not really in dispute. The Crown did not cross-examine Mr. Hochhausen much on the facts he testified to in chief, although the cross‑examination thoroughly brought out a fuller story. The facts as found by me are easily set out below.
+[3] Mr. Hochhausen is a very experienced chartered accountant. The controlling shareholder of SMS, Mr. Sutherland, was a friend of Mr. Hochhausen’s. While their friendship had developed from their professional working relationship, in the first part of 2004 Mr. Hochhausen was living in Mr. Sutherland’s home while separated from his spouse.
+[4] SMS began operations in 2004 in the land survey business. Mr. Sutherland was a land surveyor and had owned other land survey companies. Mr. Sutherland also had other companies in his group of companies that were involved in other pursuits.
+[5] SMS had as many as 15 employees including a staff accountant. Mr. Hochhausen was asked by Mr. Sutherland if he would become a director of SMS, and he did so in February of 2004.
+[6] At that time Mr. Hochhausen was aware that Mr. Sutherland and some of his companies had a history of financial difficulties, could be aggressive taxpayers, and had had tax disputes with Canada Revenue Agency. Somewhat contrary to his evidence-in-chief, Mr. Hochhausen did acknowledge in cross‑examination that he was aware that one of the companies in the group had previously been in arrears in its withholding tax remittances and that CRA had taken collection proceedings against that company. While he was not employed by that company nor retained by it or Mr. Sutherland, he understood the problem had been one of cash flow and that the company involved had sufficient accounts receivable to pay off the arrears.
+[7] Mr. Hochhausen was never employed by any of Mr. Sutherland’s companies. Before 2001 he had been retained to put together financial statements for a loan, to clean up some financial statements, and to successfully resolve a CRA tax dispute over one company's research and development tax credits.
+[8] Mr. Hochhausen was not paid as a director of SMS, and he was not otherwise an SMS employee or consultant. He was not involved in its day-to-day management. In part that would have been unnecessary since SMS had an accountant on staff. The staff accountant had worked for Mr. Sutherland's group of companies for 15 years, and Mr. Hochhausen knew the staff accountant and had worked with him in that capacity over the years.
+[9] Upon becoming director it was arranged that Mr. Hochhausen, together with the staff accountant, would have sole signing authority for banking as well as financial commitments such as equipment leasing and would oversee and control the bank account. Mr. Hochhausen was given electronic access to the financial records of SMS.
+[10] Mr. Hochhausen virtually never signed any cheques for SMS. This was left to the staff accountant since he was on site. Mr. Hochhausen signed two cheques when the staff accountant was away and he was available. Mr. Hochhausen had discussions with the staff accountant about the need for tax remittances and had specifically instructed the staff accountant upon becoming director not to make any money available from SMS to Mr. Sutherland unless tax withholdings had been remitted.
+[11] Throughout the months he was a director of SMS, Mr. Hochhausen had monthly or twice monthly meetings with Mr. Sutherland and the staff accountant. It is not clear if other SMS management attended. In addition there were telephone meetings. The meetings were held when Mr. Hochhausen was in town since he travelled for business. He was provided an information package for each meeting which included SMS’s profit and loss statement, accounts payable, and accounts receivable statements. From February until September, Mr. Hochhausen received assurances at each meeting that employee withholding remittances were made. He would expressly ask and was told by Mr. Sutherland that CRA’s cheque had been cut. The financial records provided, as well as those he had access to and consulted, confirmed to Mr. Hochhausen that the CRA cheques were recorded as payments of expenses.
+[12] Sometime in September 2004, Mr. Hochhausen was advised in a telephone call that SMS was having financial problems. Mr. Hochhausen was out of town at the time and arranged to meet with management upon his return in October. At that time Mr. Hochhausen became aware that the withholding tax remittances were, in fact, in arrears. It turns out that Mr. Hochhausen had not been told the truth since the remittance cheques, once written to the government and recorded as expenses paid, were never sent to the government. He also found out that the staff accountant no longer worked for the company.
+[13] Mr. Hochhausen resigned as a director in October promptly after finding these things out.
+[14] Early the following year it was determined that the listings of SMS’s accounts receivable had been significantly overstated. The staff accountant had not properly recorded receipts. Mr. Hochhausen said he was floored to find out the information provided was erroneous since he had had no reason to doubt the confidence or honesty of the staff accountant.
+[15] After ceasing to be a director, Mr. Hochhausen worked with CRA to assist it with the tax arrears of SMS. This included Mr. Hochhausen paying the former staff accountant to help.
+II. Analysis
+[16] The test to be applied for Mr. Hochhausen to be exculpated under subsection 227.1(3) is the objective test of a reasonably prudent person. Mr. Hochhausen’s particular knowledge and experience in accounting and business, his knowledge of Mr. Sutherland’s group of companies, and his knowledge of past tax problems make up part of the comparable circumstances to be considered. In order to succeed in his defence, Mr. Hochhausen must show that he exercised the degree of care, diligence, and skill that a mythical, reasonably prudent person would have exercised in circumstances comparable to those Mr. Hochhausen found himself in.
+[17] The director’s due diligence case law makes some distinctions between inside directors and outside directors. See, for example, the Federal Court of Appeal’s decision in Soper. Mr. Hochhausen said he always considered himself an outside director. The Crown maintains that he was an inside director. I find that Mr. Hochhausen was clearly an outside director. Apart from his unpaid directorship of about eight months, Mr. Hochhausen did not hold any other position with SMS and was clearly not involved in its day-to-day management, nor was there any evidence he had any other influence over the conduct of SMS’s business affairs. He did not have any equity or financial interest in the company.
+[18] The Crown argued that Mr. Hochhausen was an inside director, albeit an inattentive one, because he had the potential to be involved in day-to-day management. This was based in part on his having access to financial records. While I am sure that in the right case a mere director could be an inside director because he or she de facto exercised management functions, I am not satisfied the mere potential to be so involved can suffice. In any event, there was no evidence in this case to support the suggested potential of Mr. Hochhausen to become more involved had he wanted to.
+[19] I am satisfied that in the circumstances in which Mr. Hochhausen found himself in February 2004 upon becoming a director, a reasonably prudent person would take positive steps with respect to the remittance of tax withholdings. Given Mr. Hochhausen’s profession as a chartered accountant and his knowledge of past tax difficulties involving Mr. Sutherland and other of Mr. Sutherland’s companies, including a period of withholding arrears, a reasonably prudent person could not passively rely on company management to act responsibly. There were clear grounds for suspicion on Mr. Hochhausen’s part. It was incumbent on Mr. Hochhausen to take positive steps that included at least making inquiries of management in respect of employee withholding remittances and receiving satisfactory answers.
+[20] The real question to be decided is whether what Mr. Hochhausen did as director with respect to employee withholding remittances was sufficient. The facts above set out what Mr. Hochhausen did. The Crown’s bottom line is that he should have done more to not allow himself to be hoodwinked by deceptive management answers. The Crown’s suggestion is that Mr. Hochhausen should have verified management’s answers against SMS’s bank records. In my view, in these circumstances, that would be going too far. I would agree that, had SMS cleaned up its arrears, and had Mr. Hochhausen stayed on as director, insisting on bank records, CRA receipts, or other third party records would be a reasonably prudent course of action, but those were not Mr. Hochhausen’s circumstances.
+[21] In these circumstances, I am satisfied that Mr. Hochhausen did exercise the degree of care, skill, and diligence that a reasonably prudent person would have in comparable circumstances, specifically:
+(1) From the outset Mr. Hochhausen as director had regular meetings with management. These included a review of the company’s accounts receivable and accounts payable schedules and an income statement or profit and loss statement;
+(2) He specifically asked for and received assurances that withholding remittances were made. The controlling shareholder and principal’s answers were corroborated by the company’s accounting records prepared by its staff accountant which Mr. Hochhausen was both given at the meetings and consulted electronically;
+(3) Mr. Hochhausen had no reason to doubt the competence or integrity of the staff accountant. There was no evidence that the staff accountant was previously suspected of being incompetent, deceptive, or complicit with any prior tax arrears of companies in the group;
+(4) He was told that cheques to the government were cut, and those cheques showed as expenses paid on the financial records;
+(5) Upon finding out the company had financial difficulties in September, Mr. Hochhausen scheduled a meeting with management and the controlling shareholder for October; and
+(6) Upon finding out in October that he had been extremely misled and deceived about the status of employee withholding remittances, Mr. Hochhausen promptly resigned.
+[22] For these reasons, I am allowing Mr. Hochhausen’s appeal with costs, which shall include reasonable compensation to Mr. Hochhausen for his lost professional time and opportunity to present his own case.
+Signed at Ottawa, Canada, this 22nd day of May 2008.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2008TCC299
+COURT FILE NO.: 2007-3680(IT)I
+STYLE OF CAUSE: TOM HOCHHAUSEN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: March 19, 2008
+REASONS FOR JUDGEMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: May 22, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Agent for the Respondent:
+Milena M. Jusza
+(Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

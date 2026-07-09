@@ -1,0 +1,206 @@
+Title: Meunier c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25649/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-203-25649-meunier-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-04-12
+
+# Meunier c. M.R.N.
+
+- Citation: 2006 CCI 203
+- Decision date: 2006-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3824, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meunier c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-12
+Référence neutre
+2006 CCI 203
+Numéro de dossier
+2005-3133(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-3133(EI)
+ENTRE :
+ROGER MEUNIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 27 février 2006 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Christina Ham
+________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 12e jour d'avril 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence :2006CCI203
+Date : 20060412
+Dossier : 2005-3133(EI)
+ENTRE :
+ROGER MEUNIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec), le 27 février 2006.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de l'appelant lorsqu'au service de EP Canada Inc., le payeur, du 21 juillet 2003 au 10 juillet 2004.
+[3] Le 25 mai 2005, le ministre du Revenu national (le « Ministre » ) a informé l'appelant de sa décision selon laquelle celui-ci n'occupait pas un emploi assurable.
+[4] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants :
+7 a) le payeur offre les services de paie pour des compagnies américaines ou canadiennes (producteurs) qui tournent des films au Canada;
+b) les bureaux du payeur sont situés au 130, rue Bloor à Toronto;
+c) le payeur ne fait pas d'embauche de personnel ou de figurants, il ne dirige pas, il ne supervise pas, il ne contrôle pas les horaires des figurants/travailleurs et il ne leur donne aucune formation;
+d) en 2003, l'appelant a fait de la figuration dans plusieurs productions, surtout américaines, qui ont été tournées à Montréal;
+e) l'appelant obtenait ses contrats, soit en s'inscrivant sur Internet ou par une agence de « casting » : Julie Breton ou l'agence Cast of Thousands à Montréal;
+f) durant la période en litige, l'appelant a travaillé comme figurant dans le film « The Terminal » , tourné à Mirabel et dans le film « The Aviator » tourné à Montréal;
+g) l'appelant a aussi fait quelques figurations dans les films « Taking Lives » , « The Regans » , « I do but I don't » , « Ma vie en Cinémascope » et dans l'émission « Les Bougons » ;
+h) lorsqu'il était choisi, l'appelant devait se rendre à l'heure et au lieu de tournage déterminés par le producteur du film;
+i) lorsqu'il faisait de la figuration, l'appelant n'avait pas à parler (aucun texte), il n'était pas maquillé et portait, sauf à une occasion, ses propres vêtements;
+j) les seules directives qu'il recevait provenaient du directeur de la production qui lui disait quoi faire (marcher ou simplement se tenir debout) quand la caméra se mettait en marche;
+k) à la fin de sa journée de travail, l'appelant complétait une facture (background Voucher) sur laquelle il indiquait ses heures de travail et la faisait signer par le directeur de la production;
+l) la compagnie de production télécopiait la feuille préparée par l'appelant au payeur qui émettait les chèques au nom de l'appelant;
+m) l'appelant recevait son chèque, après 6 à 8 semaines, du payeur;
+n) l'appelant travaillait selon un horaire correspondant aux besoins du client du payeur;
+o) l'appelant rendait des services à plusieurs producteurs et il n'avait à encourir aucune dépense dans l'exercice de ses fonctions.
+[5] L'appelant a admis les faits présumés du Ministre énoncés aux alinéas 7 b) à d), f) à h) et k) à n); il a nié ceux énoncés aux alinéas 7a), e), i), j) et o).
+[6] Dans son témoignage, l'appelant affirme que, selon lui, le payeur est la compagnie de production de films et non EP Canada Inc. Il a ajouté dans un document faisant partie de son avis d'appel produit à l'audition sous la cote A-1, que « Par erreur, par omission ou par intention, EP Canada Inc. s'est inscrit comme employeur sur les T4 et TP4 qu'elle m'a fait parvenir pour les années 2003 et 2004 » .
+[7] Il convient cependant de préciser que le mandat de cette Cour consiste à déterminer l'assurabilité de l'emploi de l'appelant avec le payeur, tel que l'a demandé l'appelant au Ministre le 1er mars 2005.
+[8] L'appelant a tenu à préciser qu'il faisait d'autres démarches pour obtenir des contrats, tels la lecture de journaux et des séances d'auditions.
+[9] L'appelant soutient que le Ministre se trompe quand il énonce à l'alinéa i) que lors de la figuration il n'avait pas à parler. Il a précisé que son rôle exigeait parfois qu'il fasse la conversation, en bruit de fond; parfois, il fallait crier ou chanter. Par ailleurs, il a affirmé qu'il lui fallait être maquillé pour ses rôles.
+[10] En outre, l'appelant a afirmé qu'il lui fallait porter un costume. Il a souligné que dans la production « Aviator » il lui a fallu porter le costume indiqué. Il en a été de même dans le film « The Reagans » où le port du smoking était de rigueur à l'occasion, tandis que lors du tournage du film « The Terminal » , il lui a fallu, lors d'une descente d'avion, porter une tunique arabe.
+[11] L'appelant a voulu ajouter qu'il avait appris le métier de barman et de danseur pour ses rôles de figurant.
+[12] L'appelant a affirmé à l'audition qu'il encourait certaines dépenses pour ses déplacements en raison de son travail. Cependant, ces frais n'étaient remboursés par le payeur que lors des séances de tournage qui se poursuivaient tard en soirée.
+[13] Il a été établi que le gabarit ou le « look » constituait le seul critère d'embauche où, selon la production, l'agence de casting spécifiait la compétence requise, d'après le critère d'embauche.
+[14] Il a été démontré, par le témoignage de l'appelant, que l'agence de casting choisissait les figurants pour la compagnie de production. Cette dernière ne communiquait aucunement avec les figurants.
+[15] La preuve a révélé que les heures de travail de l'appelant n'étaient jamais régulières. Elles étaient très variables.
+[16] En cas de maladie, le figurant n'était pas payé. L'absence pour cause de maladie avait pour conséquence que le figurant risquait de ne plus recevoir de rôle. « Si vous vous absentez, on ne vous rappelle plus » a-t-il affirmé. Par ailleurs, si le figurant devait s'absenter du plateau de tournage, il n'était pas payé.
+[17] Le travail de l'appelant ne comportait aucun avantage social. Il n'y avait aucune sécurité d'emploi et aucune retenue à la source n'était effectuée.
+[18] La supervision était assurée par l'assistant directeur à la production. C'est lui qu'il fallait avertir en cas d'absence ou de maladie. Quant au travail du figurant, il était évalué par le metteur en scène.
+[19] Il a été établi que :
+- l'appelant a été considéré par le payeur comme travailleur autonome;
+- le payeur EP Canada Inc. est seulement un service de paie qui est situé au 130, rue Bloor à Toronto;
+- EP Canada Inc. assure les services de paie pour plusieurs compagnies de production de films;
+- EP Canada Inc. ne fait pas d'embauche de personnel ou de figurants, il ne dirige pas, il ne supervise pas, il ne contrôle pas les horaires des figurants/travailleurs. Il ne leur donne pas de formation;
+- la compagnie de production a fourni les maquillages et certains costumes à l'appelant et celui-ci a aussi fourni les siens, à l'occasion;
+- il était payé selon un taux horaire;
+- il consignait ses heures sur une feuille de temps « Background Voucher » et cette feuille était autorisée par un représentant de la production;
+- la compagnie de production télécopiait la feuille à EP Canada Inc. qui émettait les chèques;
+- les sessions de tournage pouvaient durer deux à trois jours pour environ 16 heures par semaine;
+- lorsque le travailleur était choisi, on lui indiquait à quel endroit se rendre pour le tournage, ainsi que l'heure à laquelle il devait s'y présenter;
+- pour le film « The Terminal » , le transport de l'appelant de Montréal à Mirabel avait été organisé par le Producteur;
+- pour la plupart des productions, l'appelant n'était pas maquillé et portait ses vêtements personnels;
+- l'appelant pouvait passer de longues heures à attendre car certaines scènes devaient être recommencées plusieurs fois;
+- pour ses rôles de figurant, l'appelant a reçu une paie variant de 8,00 $ à 10,00 $ l'heure. Les productions américaines étaient plus rémunératrices que les productions québécoises;
+- les repas de l'appelant étaient parfois fournis mais ce n'était pas toujours le cas dans toutes les productions;
+- l'appelant recevait son chèque six à huit semaines suivant la fin du tournage;
+- lorsque l'appelant utilisait les services d'une agence de casting, il recevait son chèque de paie qui lui était envoyé à l'agence à son nom et il devait remettre une commission de 15 pour cent à cette agence;
+- le payeur ne connaît aucunement les travailleurs et n'a aucun contrôle sur ce qu'ils font.
+[20] Il est important de souligner que la preuve a révélé que personne, ni le payeur, ni la compagnie de production, ne détenait l'exclusivité des services de l'appelant.
+[21] L'agent des appels, Jacques Rousseau, dans son témoignage, affirme qu'il serait arrivé à la même conclusion, c'est-à-dire, que l'emploi de l'appelant n'était pas assurable, même si la compagnie de production avait été l'employeur de celui-ci.
+[22] L'objet de ce litige se situe donc au niveau de la relation entre les parties, c'est-à-dire, de l'appelant et du payeur, à savoir s'il existe entre eux un contrat de travail, ou, pour utiliser le libellé de la Loi sur l'assurance emploi, si l'appelant occupait un emploi assurable.
+[23] Il convient d'établir, au départ, l'approche que suivra cette Cour, dans la détermination de ce litige. La décision de la Cour d'appel fédérale dans l'arrêt 9041-6868 Québec Inc. c. Canada (ministre du Revenu national - M.R.N.), [2005] A.C.F. no 1720, 2005 CAF 334, me servira de guide dans cet exercice. Dans cet arrêt récent, le juge Décary s'exprimait ainsi :
+L'entrée en vigueur du Code civil du Québec en 1994, puis l'adoption par le Parlement du Canada de la Loi d'harmonisation no 1 du droit fédéral avec le droit civil (c. 2001, ch. 4) et l'adjonction par cette Loi de l'article 8.1 à la Loi d'interprétation (L.R.C., ch. I-21) ont redonné au droit civil du Québec, en matière fédérale, ses lettres de noblesse que les tribunaux avaient eu parfois tendance à ignorer. Il suffit, à cet égard, de consulter l'arrêt de cette Cour, dans St-Hilaire c. Canada, [2004] 4 C.F. 289 (C.A.F.) et l'article du juge Pierre Archambault, de la Cour canadienne de l'impôt publié récemment dans le Deuxième recueil d'études en fiscalité (2005) de la collection L'harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, pour se convaincre que le concept de « contrat de louage de services » , à l'alinéa 5(1)a) de la Loi sur l'assurance-emploi, doit être analysé à la lumière du droit civil québécois lorsque le droit provincial applicable est celui du Québec.
+[24] Voici un extrait pertinent des articles du Code civil du Québec et de la Loi d'harmonisation no 1 du droit fédéral avec le droit civil et de la Loi d'interprétation auxquels le juge Décary fait référence :
+Code civil du Québec
+1378. Le contrat est un accord de volonté, par lequel une ou plusieurs personnes s'obligent envers une ou plusieurs autres à exécuter une prestation.
+1425. Dans l'interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages.
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+Préambule de la Loi d'harmonisation no 1 du
+droit fédéral avec le droit civil
+Attendu :
+[...]
+qu'une interaction harmonieuse de la législation fédérale et de la législation provinciale s'impose et passe par une interprétation de la législation fédérale qui soit compatible avec la tradition de droit civil ou de common law, selon le cas;
+[...]
+que, sauf règle de droit s'y opposant, le droit provincial en matière de propriété et de droits civils est le droit supplétif pour ce qui est de l'application de la législation fédérale dans les provinces;
+Loi d'interprétation
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droits civils au Canada et, s'il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d'assurer l'application d'un texte dans une province, il faut, sauf règle de droit s'y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l'application du texte.
+[25] Il convient aussi de reproduire le sens et la portée de l'article 8.1 de la Loi d'interprétation, tel que conçu par le juge Décary qui s'esprimait ainsi au paragraphe 5 de l'arrêt précité :
+L'article 8.1 de la Loi d'interprétation est entré en vigueur le 1er juin 2001. Il vient codifier un principe de complémentarité entre le droit privé d'une province et une loi fédérale qui était reconnu [...] mais qui n'était pas toujours mis en pratique. L'entrée en vigueur de cet article a eu comme effet immédiat de revaloriser le droit civil dans les domaines de compétence de cette Cour, de mettre en relief les emprunts à la common law qui au fil des ans ont pu avoir été faits dans des causes où le droit civil québécois s'appliquait ou aurait dû s'appliquer et de mettre en garde contre tout tel emprunt à l'avenir.
+[26] Dans l'exercice du mandat confié à cette Cour, il faudra à l'avenir, suivre une démarche nouvelle, une méthodologie différente, sous un vocable changé. À ce sujet, le juge Décary, dans l'arrêt précité, s'exprimait ainsi :
+L'expression « contrat de louage de service » que l'on retrouve dans la Loi sur l'assurance-emploi depuis ses origines et qui reprenait l'expression contenue à l'article 1667 du Code civil du Bas-Canada, est désuète. Le Code civil du Québec, en effet, utilise désormais l'expression « contrat de travail » , à l'article 2085, qu'il distingue du « contrat d'entreprise ou de service » à l'article 2098 » .
+[27] Le droit du travail en droit québécois est constitué de trois éléments : une prestation de travail, une rémunération et un lien de subordination. Parmi ceux-ci, certes, celui qui a provoqué le plus de litiges, c'est le lien de subordination.
+[28] Voici comment l'auteur de doctrine, Robert P. Gagnon, dans son ouvrage intitulé Le droit du travail du Québec, Éditions Yvon Blais, 2003, 5e édition, aux pages 66 et 67, le définissait :
+90 -- Facteur distinctif -- L'élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C'est cet élément qui permet de distinguer le contrat de travail d'autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d'une autre personne, moyennant un prix, comme le contrat d'entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l'entrepreneur ou le prestataire de services conserve, selon l'article 2099 C.c.Q., « le libre choix des moyens d'exécution du contrat » et qu'il n'existe entre lui et son client « aucun lien de subordination quant à son exécution » , il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l'employeur et dans le cadre établi par ce dernier.
+91 -- Appréciation factuelle -- La subordination se vérifie dans les faits. À cet égard, la jurisprudence s'est toujours refusée à retenir la qualification donnée au contrat par les parties [...].
+92 - Notion -- Historiquement, le droit civil a d'abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d'application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l'exécution de ses fonctions (art. 1054 C.c.B.-C.; art. 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l'employeur sur l'exécution du travail de l'employé quant à sa nature et à ses modalités. Elle s'est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l'employeur soit en mesure de dicter ou même de surveiller de façon immédiate l'exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu'on reconnaîtra alors comme l'employeur, de déterminer le travail à exécuter, d'encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s'intégrer dans le cadre de fonctionnement d'une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d'un certain nombre d'indices d'encadrement, d'ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d'activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n'exclut pas une telle intégration à l'entreprise.
+[29] L'appelant demande à cette Cour de renverser la décision rendue par le Ministre et de conclure à l'assurabilité de son emploi. Comme cela se produit souvent, les parties n'ont pas fait connaître leur intention dans un contrat. Il faut donc dégager cet aspect, comme bien d'autres, de leurs relations, à partir de la preuve soumise au tribunal. Il en est ainsi pour ce qui touche sur la présence ou l'absence d'un lien de subordination.
+[30] La juge Fradette de la Cour du Québec, dans l'arrêt Seitz c. Entraide populaire de Lanaudière Inc., Cour du Québec (chambre civile), no 705-22-002935-003, le 16 novembre 2001, [2001] J.Q. no 7635 (Q.L), a fourni une série d'indices pouvant permettre de déterminer s'il y a subordination ou non. Voici ce qu'elle écrivait sur ce point aux paragraphes 60 à 62 de son jugement :
+[60] La jurisprudence exige, pour qu'il y ait un contrat de travail, l'existence d'un droit de surveillance et de direction immédiate. Le simple fait qu'une personne donne des instructions générales sur la manière d'effectuer le travail, ou qu'elle se réserve un droit d'inspection et de supervision sur le travail, ne suffit pas à convertir l'entente en un contrat de travail.
+[61] Une série d'indices développée par la jurisprudence permet au tribunal de déterminer s'il y a présence ou non d'un lien de subordination dans la relation des parties.
+[62] Les indices d'encadrement sont notamment :
+- la présence obligatoire à un lieu de travail
+- le respect de l'horaire de travail
+- le contrôle des absences du salarié pour des vacances
+- la remise de rapports d'activité
+- le contrôle de la quantité et de la qualité du travail
+- l'imposition des moyens d'exécution du travail
+- le pouvoir de sanction sur les performances de l'employé
+- les retenues à la source
+- les avantages sociaux
+- le statut du salarié dans ses déclarations de revenus
+- l'exclusivité des services pour l'employeur
+[31] On peut ajouter à cela les cours de formation. Le payeur n'en a fourni aucun. Par contre, l'appelant a suivi des cours de formation pour les métiers de barman et de danseur, sans que le payeur n'y contribue d'aucune façon.
+[32] Le juge Dussault de cette Cour s'est penché sur une question semblable à celle en l'espèce dans l'arrêt Lévesque c. Canada, [2005] A.C.I. no 183, et après avoir énuméré les indices reconnus par la juge Fradette dans l'arrêt Seitz précité, déclarait ce qui suit :
+[26] Toutefois, j'estime que ce n'est pas parce que quelques indices appuient la conclusion qu'il existe un lien de subordination qu'il faut arrêter l'analyse. L'exercice consiste, selon la distinction établie dans le C.c.Q., à déterminer la relation globale des parties. Il s'agit donc d'établir dans quelle proportion les indices pouvant mener à la conclusion qu'il existe un lien de subordination sont prédominants par rapport aux autres. [...]
+[33] En examinant la relation globale entre les parties, à la lumière des indices d'encadrement reproduits ci-haut, il est difficile de concevoir que l'appelant et le payeur avaient entre eux une relation employeur-employé. Il a été établi que le payeur considérait l'appelant comme travailleur autonome, tout comme les autres figurants.
+[34] Aucune preuve n'a été soumise au tribunal portant sur le statut du salarié dans ses déclarations de revenus.
+[35] En ce qui concerne tous les autres indices d'encadrement, ils ne supportent pas la position de l'appelant. Celui-ci a d'ailleurs admis que toute la notion de contrôle, si celui-ci existait, n'était pas exercé par le payeur mais par les directeurs de la compagnie de production.
+[36] L'appelant avait le fardeau de prouver la fausseté des présomptions de fait du Ministre. Pour la plupart de celles-ci, il n'a pas réussi.
+[37] L'examen des faits à la lumière du Code civil du Québec et de la jurisprudence nouvelle en matière d'assurabilité et plus précisément sur la notion de contrat de travail, n'a pas supporté la prétention de l'appelant qui visait à établir l'existence d'un emploi assurable ou d'un contrat de travail avec le payeur.
+[38] Donc, cette Cour doit conclure que l'appelant n'exerçait pas un emploi assurable auprès du payeur aux termes d'un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi et qu'il n'occupait donc pas un emploi assurable pendant la période en litige.
+[39] Par ailleurs, la preuve décrivant la relation entre l'appelant et le payeur ne supporte pas la conclusion qu'il existait entre eux un contrat de travail selon les dispositions du Code civil du Québec.
+[40] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 12e jour d'avril 2006.
+« S.J. Savoie
+Juge suppléant Savoie
+RÉFÉRENCE :
+2006CCI203
+No DU DOSSIER DE LA COUR :
+2005-3133(EI)
+INTITULÉ DE LA CAUSE :
+Roger Meunier et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 27 février 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 12 avril 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

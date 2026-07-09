@@ -1,0 +1,460 @@
+---
+title: "ARCHIVED - Registered Charities Newsletter No. 24 - Summer 2005"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-24/archived-registered-charities-newsletter-no-24-summer-2005.html
+last_modified: 2005-08-26
+---
+# ARCHIVED - Registered Charities Newsletter No. 24 - Summer 2005
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Contents
+
+- [From the Director General](#P10_1000)
+
+- [Charities Advisory Committee 2004-05 Annual Report](#P54_6979)
+
+- [What’s new](#P91_15018)
+
+    - [Structure, mission and vision](#P92_15028)
+
+    - [Charities regulatory reform – Jurisdictional collaboration](#P94_15294)
+
+    - [Accord and Codes available on the CRA Web site](#P105_18292)
+
+- [Did you know?](#P113_20253)
+
+    - [Determining fair market value](#P114_20266)
+
+    - [Auctions](#P131_23245)
+
+          - [Property donated](#P132_23254)
+
+          - [Property bought](#P155_27747)
+
+          - [Disbursement quota](#P164_29449)
+
+          - [Professional fundraiser](#P167_30059)
+
+    - [Cultural property as gifts](#P171_30672)
+
+          - [Cultural property – certified or not](#P172_30698)
+
+          - [Making cultural property available to other organizations](#P184_32967)
+
+          - [Appraisals](#P192_34737)
+
+- [Issues](#P199_35829)
+
+    - [First Nations and qualified donee status](#P200_35835)
+
+- [Policies](#P208_39180)
+
+    - [Applicants assisting ethnocultural communities](#P209_39188)
+
+- [Contact information](#P211_39378)
+
+## From the Director General
+
+My first year as Director General of the Charities Directorate coincided with the first year of implementing the five-year plan to improve the regulatory environment for charities. This plan, which was announced in the March 2004 Federal Budget [Footnote 1](#P1_10), proposed that changes be made based on a five-element strategy:
+
+- Accessibility and Transparency;
+
+- Public Awareness and Sector Outreach;
+
+- Monitoring and Sanctions;
+
+- Appeals; and
+
+- Federal/Provincial/Territorial Collaboration.
+
+Provisions for the new regulatory regime received Royal Assent on May 13, 2005. Certain changes such as increased transparency took effect immediately. Other changes such as the new appeals process come into force 30 days after Royal Assent.
+
+We recognize the importance of accessibility and transparency in our on-going effort to increase trust in the regulator and in the sector. In this regard, we are making progress in increasing transparency of CRA policies and decisions by providing additional information to the public. Part of our efforts have focused on developing the technical support required to increase the information available on-line. This year we have finished the preliminary information technology development work, which has focussed on process mapping. The information technology priorities for the Charities Directorate include:
+
+- An Integrated Charities System to increase the efficiency with which the CRA’s decisions are made;
+
+- Enhanced online information return with search and display features;
+
+- Netfile of charity information returns; and
+
+- Expansion of self-service options on our Web site.
+
+The CRA has a role in educating, informing and raising awareness of charities and of their legal obligations among registered charities, donors and the general public. To do this, we need to not only make information accessible and transparent, but also increase public awareness of this information. We have begun to address this need by looking at how charities may better be informed of their legal obligations. On May 17, 2005, John McCallum, Minister of National Revenue, launched the Charities Partnership and Outreach Program (CPOP), a funding program designed to support compliance-related education and training projects for charities. Up to $3 million in funds is available to the voluntary sector annually for education and training on charities regulation. Organizations will be able to receive contribution funding of up to a maximum of $500,000 per year per project. Any registered charity or non-profit organization serving the charitable sector in Canada can apply to the CRA for funding under CPOP.
+
+The Charities Directorate is involved in an on-going effort to inform and educate charities of their obligations under the law. The vast majority of charities abide by the requirements of the law. For those that do not, wherever possible, we use education as a first step to gain compliance. In most cases, this is sufficient to ensure compliance. However, we recognize that there are some organizations that act outside of acceptable bounds. The public’s confidence in the charitable sector depends on the ability to ensure that only those organizations that comply with the requirements of the law benefit from registration.
+
+Although our first step is to educate, we are committed to the use of stronger measures where required. In the past, the only measure available to the CRA in such cases was revocation. The introduction of intermediate sanctions will make it possible to respond to non-compliance in a proportionate way.
+
+To introduce an enhanced compliance regime, we are improving the means by which we use monitoring and sanctions. For example, we have expanded our audit capacity and completed the training of new field auditors, and put into place monitoring and quality control procedures.
+
+In conjunction with these changes to monitoring and sanctions, we are introducing a more accessible appeals regime. This new regime will make it possible for charities to appeal some decisions through an internal review procedure. Operational changes required to accommodate this new process have been finalized, and staffing and training of Appeals Branch personnel is underway. A discussion of the proposed appeals regime is available in issue 19 of this newsletter.
+
+We are also engaged in discussions with governments (provincial and territorial) seeking cooperation, partnership and support in joint projects. This collaboration is discussed in the “What’s new” section of this newsletter, in the article entitled *Charities regulatory reform – Jurisdictional collaboration*.
+
+Year two of the reform initiative will be dedicated to implementation of the new legislative provisions around appeals, sanctions and accessibility of information. Equally we will be focused on the implementation of new programs initiatives, namely the Charities Partnership and Outreach Program and the expansion of our audit functions. Yet other multi-year priority initiatives, such as the integration of risk management techniques into our approach to compliance, and the development of public communications strategies, will be advanced this year through on-going research and gathering and analysis of baseline data. Finally, we will continue development of our major IT initiatives, with some initial improvements to our Web site targeted for implementation this year.
+
+We have identified several priorities for the next year. These include:
+
+- national implementation of audit function and sanctions regime;
+
+- implementation of new appeals process;
+
+- implementation of the Contributions program;
+
+- further development of network of regulators through meetings and teleconferences and finalizing bi-lateral collaborative arrangements; and
+
+- development of policy proposals related to deceptive fundraising practices.
+
+Charities have let us know that they want clear rules that are easily understood and easy to comply with, and that they want to operate on a level playing field. The Charities Directorate is committed to continuing to be open and transparent in what we do. We look forward to the changes and challenges ahead in the remaining four years of this significant regulatory reform.
+
+## Charities Advisory Committee 2004-05 Annual Report
+
+The Charities Advisory Committee (CAC) was created in March 2004 in response to a recommendation in the 2003 Joint Regulatory Table report and a Federal Budget 2004 commitment to establish an advisory group with appointees with a broad range of experience and knowledge. The CAC consists of a group of committed people from the charitable sector, working with staff in the Charities Directorate as they consider regulatory issues, while facilitating an improved charities regulatory system. The Committee is a vehicle through which charities and charity experts can provide advice, assistance, and feedback to the CRA on matters related to the CRA’s responsibility for the regulation of charities.
+
+The Committee mandate covers a number of areas, including emerging issues and trends in the charitable sector, the administration of new sanctions, and the revised appeal process. This first year of operation was devoted to clarifying the mandate and testing ways of addressing the variety of issues affecting the sector and the Charities Directorate.
+
+## Organizational Approach
+
+The Committee is comprised of twelve members appointed by the Minister of National Revenue from individuals involved in the charitable sector from across Canada and the Director General of the Charities Directorate of the CRA.
+
+At its first meeting, the Committee set its terms of reference and discussed administrative and procedural issues relating to the functioning of the Committee. The operating approach adopted is a Committee of the whole with sub-committees appointed as needed. Confidentiality issues were explored and it was agreed that minutes of the Committee would be published on the CRA web site at www.cra.gc.ca/tax/charities/cac. Agenda development is discussed at each meeting with members polled for items prior to meetings.
+
+The Committee meets three times a year for two days to ensure both adequate time for issue exploration and to facilitate economies for bringing people together. The meetings are held in various cities to enable local voluntary sector members to meet with the Committee to hear about its work and speak to issues of concern. In the first year, meetings were held in Montréal, St. John’s and Vancouver.
+
+## Day to Day and Special Issue Review
+
+In the course of its three meetings the subjects considered included both the day to day work of the Directorate and in-depth review of a range of topics.
+
+**Standing reports** on day-to-day activities of the Directorate included:
+
+- Operations reports covering issues of volume and workload;
+
+- Compliance and Intelligence reports focused on how well charities are meeting their responsibilities in reporting how they are doing their work;
+
+- Regulatory Reform progress including preparation for the legislative changes related to sanctions, appeals, and transparency;
+
+- Policy development and review; and
+
+- Communications with the sector.
+
+These reports give the Committee a good understanding of the challenges of the Directorate.
+
+The different size and scope of the 81,000 registered charities under the Directorate’s mandate requires the utilization of a range of methods to ensure that registered charities remain compliant with relevant parts of the *Income Tax Act* and speaks to the need for clearly stated access to compliance rules.
+
+The Committee commended the Directorate for its work in recent years to improve its communication methods and the depth and breadth of the information now available to the sector.
+
+**In depth** issues reviewed included:
+
+- **Audits** – how they are conducted, the target time from start to finish of 6 months and whether this is achieved, the need for an increased number of audits, and the need for charity-specific training for auditors.
+
+- **T3010** – a review of how the new form is working and the need for further review of issues arising from the shortened form.
+
+- **Policy development process and priorities** – how to develop a strategic policy framework to guide the development of all policy to ensure a streamlined and coherent approach to policy development – one that would ultimately lead to better and more consistent decision-making within the CRA and a better-informed sector.
+
+- **Governance of Charities** – the role of the Directorate in helping to educate the sector on compliance issues with the understanding it is not their role to provide education on other issues.
+
+- ***Anti Terrorism Act*** and its effect on charities.
+
+- **Partisan Political Activities** and the work of the Directorate to both monitor this activity and to interpret the related rules. The discussion resulted in a letter to Minister McCallum indicating the need for clarity on this issue.
+
+- **Legislation** – the Committee invited staff from the Department of Finance to discuss the implications of the proposed new *Income Tax Act* changes related to charities including:
+
+- **Receipt violations** – the Committee feels the $20,000 penalty threshold is too high;
+
+- **Income from unrelated businesses** – the Committee recommended that the penalty be substantial enough to deter this activity;
+
+- **Repeat offence penalty** – the Committee recommended that the length of time be reduced from a period of 10 years to one of 5 years; and
+
+- **Disbursement Quota rule changes** – the Committee recommended the DQ be totally reviewed in order to reduce complexity. When the legislation was at 1st reading the Committee sent a letter to Finance Dept. staff and Minister of National Revenue McCallum to underline its concern about the ability of the majority of charities to comply with these provisions. Members of the Committee met again with Finance staff to outline the Committee’s concerns. At this writing the Committee remains concerned that the DQ is going forward with significant complexity.
+
+- **Federal/Provincial/Territorial coordination** – the CRA has proposed a framework for collaboration to its network of provincial and territorial regulators that includes proposals in the following five areas: Joint Education and Public Awareness; Information Sharing on Charities Between Regulators; Information Sharing for Compliance Purposes; Deceptive Fundraising; and Community Based and Tripartite Initiatives. The CRA will be working with the provinces and territories in advancing this framework.
+
+- **Information Technology** – the Committee provided input on the priorities and challenges for the Directorate.
+
+- **Communications** – issues related to sector readiness to adopt the new and proposed income tax rules as well as ongoing communication with the sector on their responsibilities under the *Income Tax Act*. A sub–committee worked with staff to plan a series of meetings across Canada to get sector feedback on the best methods of getting information distributed and understood. Feedback from the meetings has been used to develop communications for the implementation of the new regulations.
+
+**The Charities Partnership and Outreach Program** – the Program is designed to provide contribution funding to registered charities and non-profit organizations to develop and deliver innovative compliance-related education and training to charities. The overall objective of the Program is to increase charitable sector compliance with relevant parts of the *Income Tax Act*. The Program came into effect in fiscal year 2005/2006.
+
+The Committee appreciated the working relationship developed with staff of the Directorate and for their approach to listening to the concerns of the sector. The first year of operation has been a positive experience for both the members of the Committee and the CRA. Working together, we expect to create a regulatory system that supports charities and gives the public increased assurance that the money they give is used for the purposes for which it is intended and is making a difference in the lives of Canadians.
+
+Respectfully submitted**Charities Advisory Committee**
+
+Lois Hollstedt – Sector Co-Chair Elizabeth Tromp – Government Co-Chair Tad Brown Margaret Mason Terry Carter Hilary Pearson Catherine C. Cole Catherine Rowsell Carol Fitzwilliam Kim Turner Gordon Floyd Bob Wyatt Laird Hunter
+
+## What’s new
+
+## Structure, mission and vision
+
+A diagram that illustrates the new structure of the Charities Directorate is available at [www.cra.gc.ca/tax/charities/about/mission_vision-e.html#chart](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/about-charities-directorate/who-we.html) Information on our mission and vision are also available at this Web site address.
+
+## Charities regulatory reform – Jurisdictional collaboration
+
+In Canada, the regulation of charities is shared between the federal government and the provinces and territories. Provincial governments are responsible for establishing, maintaining, and managing charities operating in and for the provinces [s. 92(7) of the *Constitution Act, 1867*], and Parliament has given the same jurisdiction to the territories. The CRA is the federal authority responsible for regulating charities under the *Income Tax Act* and for registering and revoking charitable tax-exempt status.
+
+Consistent with the March 2004 Budget’s commitment to charities regulatory reform, the CRA is building working relationships with provincial and territorial governments that seek to collaborate in regulating charities. The following is a brief overview of some activities the CRA has organized to develop relationships and create opportunities for collaboration.
+
+In fall 2004, the CRA proposed a collaborative framework to its provincial and territorial counterparts that covers five areas:
+
+- **Joint education and public awareness** To work together to develop and implement joint education and public awareness projects and programs to educate the public, increase public trust in the charitable sector, and protect the public by helping them become more informed donors.
+
+- **Information sharing on charities between regulators** To develop and maintain mechanisms and opportunities for ongoing information sharing between regulators, for example, to discuss common concerns and share best practices.
+
+- **Information sharing for compliance purposes** To facilitate information sharing between the different jurisdictions for the purpose of compliance.
+
+- **Deceptive fundraising** To develop and maintain mechanisms and opportunities for ongoing information sharing between regulators, for example, to discuss common concerns and share best practices.
+
+- **Community-based and tripartite initiatives** To enhance oversight and accountability through pilot projects and other initiatives with different jurisdictions, including the municipal, provincial, and federal governments, and the voluntary sector.
+
+The CRA has received positive feedback on these proposals, particularly those relating to joint education, public awareness, and information sharing. As we reported in [Newsletter No. 19](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-19.html), the Charities Directorate has worked with the Government of Ontario on a public education project to warn the public about phoney fundraising. We contributed to two products that were introduced during Ontario’s Consumer Awareness Week, November 15-19, 2004: a month in *Ontario’s Fraud Free Calendar* and a pamphlet, *Charitable Donations: Get the facts before you give*. Over the next few months, the CRA will continue its discussions with the provinces and territories and negotiate collaborative efforts within the framework of the CRA’s proposals.
+
+More information will be available as we further develop our collaborative efforts with provincial and territorial departments.
+
+## Accord and Codes available on the CRA Web site
+
+*An Accord Between the Government of Canada and the Voluntary Sector*, the *Code of Good Practice on Policy Dialogue*, and the *Code of Good Practice on Funding* are now available on the CRA’s Web site at [www.cra.gc.ca/tax/charities/policy/accordcodes-e.html](https://www.canada.ca/chrts-gvng/chrts/bt/ccrdcds-eng.html).
+
+The Government of Canada and the voluntary sector came together five years ago, through the Voluntary Sector Initiative, to develop *An Accord Between the Government of Canada and the Voluntary Sector* to guide their relationship and promote greater mutual understanding. The CRA participated fully in this process. The Joint Accord Table was co-chaired by Bill McCloskey, who was an Assistant Commissioner of the CRA at that time.
+
+The Accord is a framework document that sets out values, principles, and commitments to guide the two sectors’ relationship into the future. The Accord represents a public commitment to more open, transparent, consistent, and collaborative ways for the voluntary sector and the Government of Canada to work together in the 21st century.
+
+After the Accord was signed on December 5, 2001, the Joint Accord Table developed two Codes of Good Practice as a resource of tangible, concrete ideas about how to take the spirit and guidelines of the Accord and put them into action in both government and voluntary sector organizations.
+
+The *Code of Good Practice on Policy Dialogue* is intended to encourage voluntary sector participation in the public policy process. The voluntary sector can bring the diverse voices of many societal groups to the policy table.
+
+The *Code of Good Practice on Funding* intends to guide the funding aspect of the relationship between the voluntary sector and the Government of Canada and reinforce their respective accountabilities.
+
+The CRA supports the Accord and its related Codes. We are confident that these instruments will help strengthen the ability of both the CRA and the charitable sector to serve Canadians.
+
+## Did you know?
+
+## Determining fair market value
+
+**Deemed fair market value** As of 6:00 p.m. (EST) on December 5, 2003, the value of a tax receipt issued by a charity for gifts of property will be limited to the donor’s cost of the property if it is donated within three years of acquisition or acquired through a gifting arrangement.
+
+*(35) For the purposes of subsection (30), paragraph 69(1)(b) and subsections 110.1(2.1) and (3) and 118.1(5.4) and (6), the fair market value of a property that is the subject of a gift made by a taxpayer to a qualified donee is deemed to be the lesser of the fair market value of the property otherwise determined and the cost, or in the case of capital property, the adjusted cost base, of the property to the taxpayer immediately before the gift is made if*
+
+*(a) the taxpayer acquired the property under a gifting arrangement within the meaning assigned by section 237.1; or*
+
+*(b) except where the gift is made as a consequence of the taxpayer’s death,*
+
+*(i) the taxpayer acquired the property less than three years before the day that the gift is made, or*
+
+*(ii) it is reasonable to conclude that, at the time the taxpayer acquired the property, the taxpayer expected to make a gift of the property.*
+
+Some exceptions apply, including for gifts from inventory.
+
+For details on the proposed amendments to the *Income Tax Act*, please refer to the Department of Finance news release at [www.fin.gc.ca/news03/03-061e.html](http://www.collectionscanada.gc.ca/webarchives/20071124194214/http://www.fin.gc.ca/drleg/03-061_1e.html).
+
+**Q 1. Do we have to have a professional appraiser determine the fair market value of property that is donated?**
+
+**A 1.** No. If the fair market value of an item can be reasonably determined, an appraisal is not required. Generally, if the fair market value of an item is less than $1,000, a member of the charity with sufficient knowledge of the item can determine its value. [Footnote 2](#P2_20) However, if the fair market value is expected to be more than $1,000, the Charities Directorate strongly recommends that the property be appraised by a third party (i.e., someone who is not associated with either the donor or the charity). The person who determines the fair market value of the property should be competent and qualified to evaluate the particular property being transferred by way of a gift.
+
+**Note:** If the property is appraised, the name and address of the appraiser must be included on the official donation receipt.
+
+**Q 2. Do higher-priced items (valued at more than $1,000) have to be appraised by multiple appraisers?**
+
+**A 2.** No. However, the charity must be satisfied that the appraised amount is an accurate determination of the fair market value of the item.
+
+**Q 3. What if the fair market value cannot be determined?**
+
+**A 3.** If the fair market value of an item cannot be reasonably determined, an official donation receipt cannot be issued.
+
+## Auctions Footnote 3
+
+### Property donated
+
+**Q 4. Can property donated for sale at an auction be considered a gift?**
+
+**A 4.** Yes. In order for there to be a gift for the purposes of the *Income Tax Act*, there must be a voluntary transfer of property to the charity. How a charity uses donated property is generally not relevant in determining whether the donor has made a gift to the charity.
+
+A gift includes a gift in kind. However, services are not property. Therefore, a charity cannot issue an official donation receipt for a donation of services.
+
+**Q 5. Can a charity issue an official donation receipt when it receives a donation of a gift certificate directly from the issuer for the charity’s own use?**
+
+**A 5.** The issuer is not entitled to receive an official donation receipt at the time of donation. The certificate in this case is similar to a pledge and, like a pledge, cannot be receipted. However, the issuer may be eligible for an official donation receipt when the charity redeems the certificate for property. In this case, to be eligible for an official donation receipt, redemption of the certificate must form a transaction that otherwise would have constituted a gift—the certificate must have been issued voluntarily, and the charity must redeem the certificate for some form of **property**. An official donation receipt may not be issued if the charity redeems the gift certificate for services. The receipt issued by the charity should specify the nature of the property it received in exchange for the gift certificate, the fair market value of the property, and the eligible amount of the gift.
+
+In this scenario, the issuer of the gift certificate will realize a gain equal to the difference between the value of the property gifted and the amount it paid for the property.
+
+**Q 6. Can a charity issue an official donation receipt when it receives a donation of a gift certificate directly from the issuer to be included as part of an auction?**
+
+**A 6.** If the issuer donates a gift certificate directly to a charity, and the charity sells the certificate to a third party, the redemption of the gift certificate by the third party does not entitle the issuer to an official donation receipt. Honouring a gift certificate presented by a third party does not result in the transfer of property by the retailer (or other issuer) to the charity. The retailer will be entitled to deduct the cost of property transferred to the certificate holder in computing its income.
+
+Our policy statement on gift certificates is available on the CRA Web site at [www.cra.gc.ca/tax/charities/policy/cps/cps-018-e.html](https://www.canada.ca/chrts-gvng/chrts/plcy/cps/cps-018-eng.html).
+
+**Q 7. When we issue an official donation receipt for gifts in kind donated for use in an auction, what needs to be included on the receipt that would not be included in a receipt for a cash donation?**
+
+**A 7.** In addition to the requirements to receipt a cash gift, an official donation receipt for a gift in kind must include:
+
+- where applicable, the name and address of the appraiser;
+
+- a brief description of the property; and
+
+- the fair market value of the property when the gift was made.
+
+**Q 8. Can a charity still issue an official donation receipt if it has provided some form of recognition or other consideration to a donor?**
+
+**A 8.** Generally, any consideration received by a donor will constitute an advantage that will have to be taken into account in determining the amount that can be receipted (eligible amount).
+
+[Registered Charities Newsletter No. 22](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-22.html) discusses questions that may be asked to determine if recognition is nominal (see *De minimis* threshold, below). Generally, receipts can be issued if the benefit received is not more than 80% of the fair market value of the property transferred to the charity. For more information on split-receipting, see *Income Tax Technical News #26* at [www.cra.gc.ca/E/pub/tp/itnews-26/itnews-26-e.html](https://www.canada.ca/E/pub/tp/itnews-26/itnews-26-e.html).
+
+*De minimis* threshold:
+
+An administrative concession that allows advantages of insignificant (nominal) value to be excluded from the amount of advantage when determining the eligible amount of a gift. Generally, the benefit is considered to be nominal if its fair market value does not exceed the lesser of:
+
+(a) $75.00; or
+
+(b) 10% of the amount of the fair market value of the property transferred to the charity.
+
+### Property bought
+
+**Q 9. Can a successful bidder at an auction receive an official donation receipt for the amount in excess of the fair market value that he or she pays?**
+
+**A 9.** Yes. However, it must be possible to determine the item’s value, and the value must be posted before the start of the auction. Also, the fair market value of the property the bidder receives should not exceed 80% of the amount paid.
+
+**Q 10. Can a charity issue an official donation receipt to the donor for the appraised value of donated goods if they are sold at auction for less than this amount?**
+
+*Scenario: A registered charity holds a fundraising auction and receives donated goods from the general public. The charity issues official donation receipts to the donors of the goods based upon their appraised value. When the auction is conducted, the charity does not get a bid for the full market value of the goods being sold. Is the amount on the receipts still acceptable?*
+
+**A 10.** Yes, as long as the appraised value is an accurate reflection of the fair market value of the property at the time it is donated to the charity. The charity may issue official donation receipts to the donors in the amount of the appraised value of the donated goods, regardless of the price for which the goods are eventually sold.
+
+Furthermore, paragraph 4 of IT-297, [Gifts in Kind to Charity and Others](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it297r2.html), points out that generally the donor is deemed to have received proceeds of disposition equal to the fair market value of the goods donated and must therefore account for any income, capital gain, capital loss, or recapture of capital cost allowance.
+
+**Q 11. Does it make a difference for receipting purposes if the auction is a silent auction?**
+
+**A 11.** No.
+
+### Disbursement quota
+
+**Q 12. Is the charity’s disbursement quota affected if the charity receives less than the appraised value for the donated goods for which it has issued an official donation receipt?**
+
+**A 12.** A charity’s disbursement quota is based, in part, on the amount of the official donation receipts that it issues. Even if a charity does not receive the fair market value for goods donated for use in an auction, it is still responsible for an expenditure based on this amount. Therefore, receiving less than fair market value for donated goods can affect a charity’s ability to meet its disbursement quota.
+
+### Professional fundraiser
+
+**Q 13. Can we use a professional fundraiser to run our auction?**
+
+**A 13.** Yes. However, charities should be aware before entering such arrangements that high fundraising costs can affect their ability to meet their disbursement quota. [Footnote 4](#P4_40)
+
+For all types of fundraising, the Charities Directorate has concerns about compensation or incentive-based fundraising arrangements, because there is a heightened possibility of incongruous or disproportionate costs. Charities that are considering fundraising arrangements may wish to refer to the ethical codes that are available within the charitable sector. [Footnote 4](#P4_40)
+
+## Cultural property as gifts
+
+### Cultural property – certified or not
+
+**Q 14. What is “certified cultural property”?**
+
+**A 14.** Certified cultural property is property that has been determined by the Canadian Cultural Property Export Review Board to be of “outstanding significance and national importance” to Canada and for which the Board has issued a tax certificate for the fair market value. Certified cultural property can include art, archival material, decorative arts, musical instruments, military objects, technological objects, etc.
+
+**Q 15. Does cultural property have to be certified by the Review Board to be considered a gift in kind?**
+
+**A 15.** No. For cultural property not certified by the Review Board, a charity receiving the property may still issue an official donation receipt.
+
+**Q 16. What are the benefits of having property certified as cultural property?**
+
+**A 16.** The *Income Tax Act* provides favourable income tax treatment for the disposition of certified cultural property to institutions and public authorities designated by the Minister of Canadian Heritage. This treatment includes a tax exemption for capital gains realized on the disposition of cultural properties to those designated institutions and, when disposition is by way of a gift to those institutions, a tax credit or a deduction to donors of up to 100% of their net income.
+
+**Q 17. Where can I find a list of the institutions and public authorities designated by the Minister of Canadian Heritage?**
+
+**A 17.** You can find these at [http://www.pch.gc.ca/pgm/bcm-mcp/desgntn/desgntn-eng.cfm](http://www.pch.gc.ca/pgm/bcm-mcp/desgntn/desgntn-eng.cfm).
+
+**Q 18. If a charity that is a designated institution disposes of cultural property other than to another designated institution, what are the tax implications?**
+
+**A 18.** The organization would be subject to a special tax equal to 30% of the fair market value of the property if the property is disposed of within 10 years of the time the property was first certified by the Review Board, unless the property is transferred to another designated cultural institution. More information on this is available in IT-407, [Dispositions of Cultural Property to Designated Canadian Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it407r4-consolid.html), paragraphs 15 and 16.
+
+### Making cultural property available to other organizations
+
+**Q 19. Will lending a certified cultural property to an organization outside Canada make a charity liable for tax in respect of the disposition of certain properties?**
+
+**A 19.** No. The tax only applies when the charity disposes of the property. When a charity lends cultural property, it is not considered to be disposing of this property.
+
+**Q 20. Is an agency agreement required when cultural property is loaned, for example to a museum in another country?**
+
+**A 20.** No. However, a temporary export permit may be required where the cultural property is over 50 years of age. For more information on controlled cultural property, see: [http://www.pch.gc.ca/eng/1268673230268/1268674596897](http://www.pch.gc.ca/eng/1268673230268/1268674596897).
+
+A loan is different from a permanent transfer of property. However, a registered charity in Canada can only use its resources to carry on its charitable purposes. Whether the cultural property is loaned to an organization in or outside of Canada, the charity must ensure it is being used for charitable purposes. This can be accomplished by having the terms of the loan require that the property be used for purposes that are consistent with the charitable purposes of the charity.
+
+**Q 21. Are there possible disadvantages to using an agency agreement?**
+
+**A 21.** Yes. An agency agreement might theoretically expose the Canadian body to liability for the acts of their agents. However, an agency agreement is also one way of establishing that the charity is carrying on its own activities and therefore can help to ensure that the charity does not jeopardize its registration. More information on agency agreements and their alternatives is available in RC4106, *Registered Charities: Operating Outside Canada*, and in [Registered Charities Newsletter No. 20](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-20.html).
+
+### Appraisals
+
+**Q 22. We received pieces of cultural property for which we have one valuation from an appraiser and a separate valuation (i.e., a determination of fair market value) from the Cultural Export Property Review Board. Which valuation should we use?**
+
+**A 22.** Regardless of which valuation is higher, the most recent evaluation done by the Cultural Export Property Review Board must be used for tax purposes if, at any time, the property is claimed for tax purposes as a gift of cultural property. Also, the most recent valuation by the Board must be used if the property is donated to a qualified donee within the two year period following the Board's determination and is claimed by the donor for tax purposes as a charitable gift (but not a gift of cultural property).
+
+**For more information about the Canadian Cultural Export Property Review Board, contact:**
+
+Canadian Cultural Property Export Review Board Department of Canadian Heritage 15 Eddy Street, 3rd Floor Gatineau QC K1A 0M5
+
+Phone: (819) 997-7761 Fax: (819) 997-7757
+
+Web site: [http://www.pch.gc.ca/pgm/bcm-mcp/cebc-cperb/index-eng.cfm](http://www.pch.gc.ca/pgm/bcm-mcp/cebc-cperb/index-eng.cfm)
+
+## Issues
+
+## First Nations and qualified donee status
+
+The CRA’s former position was to treat certain Indian bands as Canadian municipalities for the purposes of sections 110.1 and 118.1 of the *Income Tax Act*. This position effectively gave qualifying bands status as qualified donees. However, in *Tawich Development Corporation v. Deputy Minister of Revenue of Quebec*, the Quebec Court of Appeal found that merely exercising municipal functions was not sufficient to attribute to a body the status of a municipality. Instead, the Court held that this status could only be achieved as a result of statute, letters patent, or order. Accordingly, it was necessary for the CRA to revise its position to reflect the current state of the law.
+
+In response to the Tawich decision, the CRA consulted with the Department of Finance and, as a result, proposed technical amendments to the *Income Tax Act* were released on February 27, 2004. These amendments include “public bodies performing a function of government” within the category of qualified donees.
+
+Once these amendments are passed into law, the CRA will again be able to formally recognize certain bands as qualified donees under the Act. To qualify for such recognition, a band must be considered to be a **public body performing a function of government**.
+
+The CRA considers it a question of fact whether a band qualifies for this characterization. If significant bylaws have been passed under subsections 81 and 83 of the *Indian Act*, or if the band has reached an “advanced stage of development” as formerly required under the *Indian Act*, the CRA will accept the characterization. It has also accepted the characterization where a band demonstrates that it performs functions and provides services in a manner generally exhibited by a government. Examples of such activities would be if the band has been involved in negotiating land treaties (or has negotiated a settlement agreement with Canada) or if the band provides community, health, safety, and education services to its members. If a band wants to be certain about whether it can be considered a public body performing a function of government, it can apply for an advance income tax ruling in accordance with the procedures outlined in [Information Circular IC 70-6](https://www.canada.ca/E/pub/tp/ic70-6r5/README.html). However, the ruling will be under paragraph 149(1)(c) of the *Income Tax Act*, which is already in force.
+
+The proposed amendments to the *Income Tax Act* apply to gifts made after May 8, 2000. As such, although at law bands are not currently qualified donees, the amendments, when passed into law, will apply retroactively to transactions within past years.
+
+As these amendments are not yet in force, the CRA cannot formally recognize a band as a qualified donee under the *Income Tax Act*. However, given the intent of the Department of Finance to make these amendments retroactive, it is our administrative position that a band that would, under the proposed legislation, be considered to be a public body performing a function of government may now issue official donation receipts to donors for gifts that it receives.
+
+Whether a particular transaction qualifies as a gift at law will depend on the facts of each particular situation. As well, the CRA is not prohibiting registered charities from making gifts to a band that is considered to be a public body performing a function of government.
+
+## Policies
+
+## Applicants assisting ethnocultural communities
+
+The guidance on applicants assisting ethnocultural communities (CPS-023) is now available on the CRA Web site at [www.cra.gc.ca/charities](http://www.cra.gc.ca/charities).
+
+## Contact information
+
+**You can call the Charities Directorate toll free at:** 1-800-267-2384 (for service in English) 1-888-892-5667 (bilingual)
+
+**You can also write to us at:**
+
+Charities Directorate Canada Revenue Agency Tower A 320 Queen Street Ottawa ON K1A 0L5
+
+**Email your comments or suggestions:**
+
+- about this newsletter to:[charities-bienfaisance-bulletin@ccra-adrc.gc.ca](mailto:charities-bienfaisance-bulletin@ccra-adrc.gc.ca)
+
+- about our draft publications to:[consultation-policy-politique@ccra-adrc.gc.ca](mailto:consultation-policy-politique@ccra-adrc.gc.ca)
+
+- about our Roadshow to:[information.sessions@ccra-adrc.gc.ca](mailto:information.sessions@ccra-adrc.gc.ca)
+
+- about our Web site to:[charities-bienfaisance@ccra-adrc.gc.ca](mailto:charities-bienfaisance@ccra-adrc.gc.ca)
+
+You can contact the Charities Representative about service provided by the Charities Directorate at 1-866-303-0316 toll free, or 948-8608 in the greater Ottawa area, or by email at [charities-bienfaisance-resource@ccra-adrc.gc.ca](mailto:charities-bienfaisance-resource@ccra-adrc.gc.ca).
+
+You can find all our publications at [http://www.cra-arc.gc.ca/chrts-gvng/chrts/formspubs/menu-eng.html](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+Draft publications for consultation are available at [www.cra.gc.ca/tax/charities/consultations/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/consultation-feedback-on-policies-guidance.html).
+
+For information on new additions about charities, see the “What’s new” page at [www.cra.gc.ca/tax/charities/whatsnew/menu-e.html](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/whats-new.html).
+
+For an email notification of these additions, subscribe to the free electronic mailing list at [www.cra-arc.gc.ca/eservices/maillist/subscribecharities-e.html](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-charities-giving-whats-new.html).
+
+**Footnotes**
+
+1 For a full discussion of the proposed changes, see *Registered Charities Newsletter*, *No. 19*, which is available on-line at: [www.cra.gc.ca/E/pub/tg/charitiesnews-19/README.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-19.html).
+
+2 For example, if a charity receives a second-hand appliance, one of its members may develop sufficient knowledge of the value of such an item by visiting stores that sell second-hand appliances in similar condition to the one being donated.
+
+3 This section is based on a suggestion we received through the Charities newsletter email. We are happy to respond to suggested topics, where possible. If you have suggestions for future topics, please email us at [charities-bienfaisance-bulletin@ccra-adrc.gc.ca](mailto:charities-bienfaisance-bulletin@ccra-adrc.gc.ca)
+
+4 For example, ethical codes are available from Imagine Canada (formerly the Canadian Centre for Philanthropy) and the Association of Fundraising Professionals.

@@ -1,0 +1,280 @@
+Title: Sévigny c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26823/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-250-26823-s-vigny-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-04-19
+
+# Sévigny c. M.R.N.
+
+- Citation: 2004 TCC 250
+- Decision date: 2004-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 694, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sévigny c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-19
+Neutral citation
+2004 TCC 250
+File numbers
+2003-586(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-586(EI)
+BETWEEN:
+CLÉMENT SÉVIGNY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 25, 2003, at Québec, Quebec
+Before: The Honourable Deputy Justice S. J. Savoie
+Appearances:
+Counsel for the Appellant:
+Frédéric St-Jean
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 19th day of April 2004.
+"S. J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 23rd day of August 2004.
+Sharon Winkler Moren, Translator
+Citation: 2004TCC250
+Date: 20040419
+Docket: 2003-586(EI)
+BETWEEN:
+CLÉMENT SÉVIGNY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Québec, Quebec, on November 25, 2003.
+[2] This appeal relates to the insurability of the Appellant's employment for the period from August 15, 1998 to February 3, 2001, when he worked for the Payor, Céline Drolet, as understood in the Employment Insurance Act (the "Act").
+[3] On November 19, 2002, the Minister of National Revenue (the "Minister") informed the Appellant of his decision that this work was not insurable because a similar employment contract would not have been entered into between himself and the Payor had they been dealing with one another at arm's length.
+[4] At the hearing, Counsel for the Minister presented a Notice of Motion for permission to file an amended reply to the Notice of Appeal.
+[5] This motion was granted by the Court.
+[6] In rendering his decision, the Minister relied upon the following assumptions of fact:
+[TRANSLATION]
+5(a) Since December 1996, the Payor has operated a convenience store under the company name "Dépanneur M.I.A." (admitted)
+(b) The Payor is the sole proprietor of the business. (admitted)
+(c) In 1996 and 1997, the Payor operated the business with the help of her daughter, Marilyne. (admitted).
+(d) From 1998 to 2002, the Payor hired from 3 to 5 individuals, including the Appellant, her spouse. (admitted)
+(e) The business was open from 6:30 a.m. to 11:00 p.m., 7 days per week. (with explanations)
+(f) Until December 1996, the Appellant worked in the manufacturing and installation of cabinets. (admitted)
+(g) The Appellant received employment insurance benefits between December 1996 and July 1997. (admitted)
+(h) Starting in January 1997, he began to go to the Payor's business on a regular basis; he met people there and did favours for the Payor without remuneration. (denied)
+(i) Before being added to the Payor's payroll for the first time in August 1998, the Appellant had begun discussions with some suppliers for the business and took care of floor space rentals, signed some of the suppliers' invoices and performed jobs in the business. (denied)
+(j) On August 9, 1998, the Payor added the Appellant to the payroll. (admitted)
+(k) The Appellant's main tasks consisted in preparing orders and entering into agreements with the suppliers, doing inventories and putting products on the shelves. (subject to amplification)
+(l) The Appellant's work hours were never recorded by the Payor. Initially, the Appellant was on the payroll for 24 hours per week and from June 11, 2000, until January 28, 2001, he was registered for 40 hours per week. (denied)
+(m) From August 9, 1998 to June 10, 2000, the Appellant was paid $10 per hour; from June 11, 2000 to January 28, 2001, he received an hourly wage of $14.25 and from April to November 2001, he received $13.75 per hour. (admitted with explanations)
+(n) The Payor's other employees were paid minimum wage, except for Marilyne Sévigny who, starting in September 1998, received $7.80 per hour and $8.05 per hour in 2001. (admitted)
+(o) The Appellant was the only employee paid a set salary. All the others had wages calculated by the hour. (denied)
+(p) In a statutory declaration signed and dated April 5, 2002, the Appellant stated that:
+· he cannot count his hours; it is a family business and when there is no salary, the work he does is clearly voluntary and time is not accumulated.
+· he would never have worked so many hours on a volunteer basis, between December 1996 and November 2001, if the business had not belonged to his spouse.
+· When one says 40 hours or 24 hours, these are summary figures; he did much more than that and it was at the request of unemployment that required the number of hours be recorded. (no knowledge)
+(q) In 2000, the Appellant was on the payroll for 40 hours per week while in 2001 he was only registered for 8 to 13 hours per week, although he worked full-time. (denied)
+(r) The Payor's receipts in 2001 were greater than in 2000, although the Appellant appears on the payroll for fewer hours in 2001 than in 2000. (denied)
+(s) This difference regarding the hours recorded between 2000 and 2001 is partially explained by a lack of money on the part of the Payor who was unable to pay him his full salary. (denied)
+(t) The Appellant was paid on the basis of the Payor's ability to pay and not on the basis of hours actually worked. (denied)
+(6) At this stage, the Respondent relies upon the following facts:
+(a) The official duration of the Appellant's work for each of the years at issue would have been greater had it not been for the Payor's lack of cash. (denied)
+(b) The Appellant did the same amount of work whether he or not was on the payroll. (denied)
+[7] The Appellant, through Counsel, admitted the Minister's assumptions of fact set out in paragraphs 5(a) to (d), (f), (g), (j) and (n); he denied the assumptions of fact set out in paragraphs 5(h), (i), (l), (o), (q) to (t) and 6(a) and (b). He wished to give certain explanations of the assumption of facts expressed in 5(e), (k) and (m) and finally, he chose to express no knowledge of the Minister's assumption of fact stated at paragraph 5(p).
+[8] Regarding the assumption of fact set out at paragraph 5(e), the Appellant wished to specify that during its first weeks of operation, the business opened at 7:00 a.m.; afterwards, however, due to customer demand, opening was at 6:30 a.m. At paragraph 5(k), he specified that his tasks, in addition to those acknowledged by the Minister, consisted in going to get products from the suppliers as well as displaying heavy products on the floor. At paragraph 5(m), he wished to add to the Minister's assumption of fact that, unlike the other employees, he was paid a salary and not an hourly wage. He added this clarification himself at the end of the statement he made before Daniel Lévesque on April 5, 2002.
+[9] It is appropriate to reproduce in their entirety the Appellant's and Payor's statements made to the Human Resources and Development Canada (HRDC) investigation officers, since at the hearing, the parties did not understand their significance.
+[10] Further on in these reasons, I will address the submissions made by the Appellant and the Minister on the circumstances in which these statements were taken and their significance in defining this case. Before taking Clément Sévigny's and Céline Drolet's statements, Mr. Lévesque cautioned and informed them of their right to a lawyer and both waived recourse to a lawyer.
+[11] The statements are in the form of questions and answers. Clément Sévigny's statement was taken on April 5, 2002, before Daniel Lévesque, the authorized officer. This statement reads:
+[TRANSLATION]
+Question 1: Do you agree to have your accountant, Alain Rousseau, present at the interview?
+Answer: Yes.
+Question 2: Do you acknowledge your signature from November 28, 1996, on an application for benefits in your name?
+Answer: Yes.
+Question 3: Do you acknowledge your signature from February 14, 2001, on an application for employment insurance benefits made with Record of Employment # A70182574?
+Answer: Yes.
+Question 4: Do you acknowledge your signature on the INS-3151 unemployment cards signed between December 6, 1996 and August 1, 1997?
+Answer: Yes, sir.
+Question 5: Do you know a woman named France Sévigny who works here at HRDC in Charny?
+Answer: Yes, she is my sister.
+Question 6: Have you previously had occasion to communicate with her with regard to information for your unemployment applications?
+Answer: Never and the Question is very simple, we have not spoken to each other since 1988.
+Question 7: Do you acknowledge your signature on various invoices obtained from the "Dépanneur MIA"between December 1996 and November 2001?
+Answer: Yes.
+Question 8: How is it that, according to these documents (invoices) and the statement obtained from your spouse, Céline Drolet, you are regularly at the business and during certain periods, you are paid no salary?
+Answer: Well, that is very easy, sir, at the beginning, when I left Mod-Art, Céline and my daughter worked these hours. When large orders of beer would arrive, I would go help out. Normally [sic], I went it was my wife. When I was on unemployment, I received no salary from the business (1996-1997); when we began, it was a grocery store and a change was made to have it become a convenience store. When my wife began to operate it herself in 1996, it was technically impossible to pay me a salary. When the convenience store was bought, we always dreamed of working together.
+Question 9: How often were you at the MIA convenience store?
+Answer: Well, I am certainly always there when my wife is, especially during the day from Monday to Friday and even Saturdays and Sundays. In the mornings I take my wife and can go have breakfast and come back to spend the days with her at the convenience store.
+Question 10: Who made the decisions to begin paying you a salary for 24 hours in August 1998, 40 hours in June 2000 and then nothing as of the beginning of February 2001?
+Answer: That, when we decided together to pay me a salary (Céline and I), it is because an employee named Michel Boudreau was drinking on the job and when we became aware of it, we had to confirm and at a certain point an accident occurred at Breakeyville and we went to the convenience store to close and the employee was under the influence. We fired him on the spot (he gave his resignation) and he did Monday and Tuesday evenings and Sundays occasionally if someone was sick. (accident = power failure).
+Question 11: Is it true that you receive a salary based on the convenience store's ability to pay?
+Answer: Well, certainly, our hours cannot be counted, it's a family business and when I receive no salary, the work I do is obviously voluntarily and time is not accumulated. No car provided or anything else.
+Question 12: Would have worked as many hours on a volunteer basis between December 1996 and November 2001 if the business "Dépanneur MIA" had not belonged to your wife?
+Answer: Never, not for anyone else.
+Question 13: Would your wife have had to hire someone in your place for the time you did on a volunteer basis?
+Answer: Well, she certainly would have had to take someone to replace me, she couldn't do any more.
+Question 14: What was your interest in "Dépanneur MIA"?
+Answer: My interest, sir, was to find a job for my wife and children. We wanted to buy a business to give us work and that's exactly what happened with my daughter, Marie-Lyne, who has worked there with us since the beginning.
+Question 15: Have you been called back by your employer, "Menuiserie Mod-Art Inc."?
+Answer: Yes, they called me twice I think. I had a lot of experience in this area (counters) and I think it was in May 1997 and it was for installation and joiner's qualifications were required and I don't have them and I declined as I would have been liable for fines.
+Question 16: While you were receiving benefits from February 2001 to November 2001, how is it that once again you received a salary for only eight or 13 hours per week and you acknowledge no salary between February and the end of March 2001?
+Answer: For us, at that time, it was very hard financially, we had large bills to pay due to beer deals before the Holidays and our accountant had said to try to cut expenses, the line of credit was loaded and I was going to the convenience store with my wife just the same. When we say 40 hours or 24 hours, these are summary figures, I do much more than that and it is the unemployment application that required a number of hours be recorded and I made an average.
+Question 17: How is it that before the beginning of "Dépanneur MIA" operations you were employed by other employers and now you only work at the convenience store (from 1996 to November 2001)?
+Answer: Well, sir, I have always been committed to helping my wife at the convenience store. I never counted the hours I worked on a volunteer basis and I always paid my taxes and if I hadn't done that, there would have been five or six employees on unemployment. Like in the summer of 2001, the sales figures went up despite the work done by the municipality because another convenience store closed in September 2000 and we had a lot of outside sponsorship activities (St-Jean-Baptiste, ball tournaments, etc.).
+Question 18: If the convenience store had had the financial means to pay you a salary beginning in December 1996, what would you have done?
+Answer: Sir, I would have got myself paid and I never would have done that if it hadn't been a family business and it hadn't been my wife.
+Question 19: Why did you never declare the work you did between December 1996 and July 26, 1997, on your unemployment cards?
+Answer: Ignorance, sir, I didn't know that I had to declare volunteer work. For the unemployment I received in 2001, it's the same thing. I declared the hours for which I was paid and not the hours I did on a volunteer basis.
+Statement made freely but I would like to add that I was paid by the week and not by the hour. I re-read the five-page statement with Mr. Lévesque before signing and have nothing more to add.
+[12] Céline Drolet's statement was taken on April 3, 2002, before authorized officer Daniel Lévesque. This statement reads:
+[TRANSLATION]
+Question 1: Do you agree to have your accountant, Alain Rousseau, present at this interview?
+Answer: Yes.
+Question 2: Do you acknowledge your signature from February 5, 2001, on Record of Employment # A70182574 issued in the name of Clément Sévigny?
+Answer: Yes.
+Question 3: Was it you who completed it?
+Answer: Yes.
+Question 4: How long has "Dépanneur MIA" been in operation?
+Answer: December 1996.
+Question 5: Explain to me a bit how this business was started.
+Answer: I was looking for a job as a cashier and the owner, Gilles Robin, who operated under the name AXEP, offered me the business as he was converting his business into a convenience store. He offered to sell it to me at that time.
+Question 5 [sic]: When did you take possession?
+Answer: On December 14, 1996, between June 1996 and December 1996. I was working as a cashier for Mr. Robin. I was practicing.
+Question 6: How many hours was the convenience store open after you took possession on December 14, 1996?
+Answer: During the first weeks of operation, it was 7:00 a.m. to 11:00 p.m. At the request of our customers, we changed the opening time to 6:30 a.m. from Monday to Friday. We are open 7 days a week but on Saturdays and Sundays we open at 7:00 a.m. and close at 11:00 p.m.
+Question 7: How much was invested in this business?
+Answer: $25,000.00.
+Question 8: Are you the only shareholder?
+Answer: Yes and it's the only investment there was.
+Question 9: How many hours have you worked at the convenience store since the beginning?
+Answer: I am there from 6:30 a.m. to 4:30 p.m. from Monday to Friday and I used to work 7:00 a.m. to noon on Saturdays and Sundays and for a few months I have only been opening on the weekends from 7:00 a.m. to 9:30 a.m. approximately.
+Question 10: What were Clément Sévigny's duties during the period covered by the Record of Employment, i.e. from August 15, 1998 to February 3, 2001?
+Answer: Well, Clément did my beer orders, made contracts like going to get sponsorships as we are three convenience stores in a small village and there is a lot of competition.
+Question 11: Who takes care of stocking the convenience store?
+Answer: It's Clément.
+Question 12: How long has he been taking care of stocking the convenience store?
+Answer: Since the beginning, since he was no longer working, as before that he was working in kitchen cabinets.
+Question 13: In the beginning of operations in 1996, who took care of the beer orders?
+Answer: I did.
+Question 14: Do you recognize Clément Sévigny's signature on various invoices from the convenience store between 1996 to 2002?
+Answer: Yes, that's his.
+Question 15: Who is Clément Sévigny in relationship to you?
+Answer: He's my spouse.
+Question 16: How do you explain that between December 1996 and August 8, 1998, according to your payroll records, no salary was paid in the name of Clément Sévigny and we find invoices signed by him every week?
+Answer: Clément is certainly at the convenience store often, he helps me when I am busy with customers at the counter and if a supplier came by, he would sign the invoices. Clément is certainly always at the convenience store and during this period, we had agreed to not pay him a salary.
+Question 17: Why did you begin to pay a salary for 24 hours per week between August 9, 1998, till the beginning of June 2000?
+Answer : Well, it's because Clément is always there, he is always at the convenience store and signing invoices is not his job, he helps me by doing that. He is at the convenience store at the same time I am but especially during the week.
+Question 18: Do you have any other explanations about this?
+Answer: The idea was to not eat up the business operating funds, depending on the business's ability, a salary was paid to him and we agreed to pay him a salary starting in August 1998 but Clément had wanted a salary for a long time.
+Question 19: How is it that starting in June 2000, he received a salary for 40 hours per week?
+Answer: It depended upon the ability to pay but he always did the same work for the convenience store.
+Question 20: Did he have set timetables?
+Answer: No, but he always worked during the day.
+Question 21: After he was laid off on February 3, 2001, how is it that the business figure remains stable and no salary was paid to him between February 4, 2001 to March 24, 2001, even though we still find invoices signed by Clément Sévigny?
+Answer: Well, at a certain time, things were difficult and according to my accountant's recommendations, it was necessary to cut expenses and I cut his salary but if I had been able to pay it, I would have.
+Question 22: Did you have an agreement with Clément Sévigny to pay him a salary later for the hours he worked without pay during certain periods?
+Answer: No, it was voluntary work, it's a family business and one day, he'll get it back.
+Question 23: Do you acknowledge that the first day of work, August 15, 1998, registered in the Record of Employment is not truthful according to the records obtained (invoices) during the investigation?
+Answer: I registered the first day that I began to pay him, even though he worked at the convenience store since the beginning.
+Question 24: How do you explain the reason "A", lack of work, on February 3, 2001, on the same Record of Employment #A70182574?
+Answer: Well, it's more a lack of cash than a lack of work at that time.
+Question 25: Did Clément Sévigny derive other advantages than a salary from the convenience store?
+Answer: No.
+Question 26: If your spouse Clément Sévigny had not done favours for the convenience store, would you have been obliged to hire someone else in his place?
+Answer: Yes.
+Question 27: Did you know that Clément Sévigny was receiving employment insurance benefits when the business began operation at the beginning of 1997?
+Answer: Yes, he had just finished working for Mod-Art.
+Question 28: Do you acknowledge that without the family ties, Clément Sévigny would perhaps not have worked so much without a salary?
+Answer: Well, of course, it's like when we were robbed (on several occasions), he searched for the guilty party, he is committed to the business.
+Question 29: Has he returned to work at Mod-Art since December 1996?
+Answer: No.
+I made this statement freely after having re-read it in full, I have nothing to change or add.
+[13] Testimony of the Appellant, Clément Sévigny, established the following facts: he is 40 years old and for the period from 1980 to 1996, he periodically worked for the company Mod-Art. He lost his job in 1996, but the same employer offered him work as an installer, but he had to refuse it because he did not have his trade card.
+[14] Starting in 1996, until June 1998, he spent his time at the convenience store of his wife, Céline Drolet. According to him, he visited his wife and spent a great deal of time chatting with his friends in the section of the store reserved for the sale of video products. He had coffee with friends and chatted; he did not stand behind the counter but stood in front of it where there was no chair.
+[15] He was hired by the Payor in August 1998 to work 24 hours per week. He worked from August until June 2000 for $10 an hour. In June, the other convenience stores in the region, their competition, closed their doors, which represented a great increase in customer traffic for his wife's business. He worked there from June 2000 to February 2001 for 40 hours per week at $14.25 per hour. His duties consisted of going to get stock from the suppliers, arranging displays on the floor and negotiating agreements with suppliers.
+[16] But once the agreements had been negotiated with the suppliers, he had nothing more to do at the convenience store. He was thus laid off in February 2001. He stated that, in February and March 2001, he did not work but was present all the same at the convenience store where he met friends and they spent their time chatting and called their group the "ligue du vieux poêle" [the old stove club]. He visited his wife and signed the business's invoices which, he maintains, did not require 40 hours of work per week. In April, when he was unemployed, he worked three 24-hour weeks that he declared on his unemployment cards. He replaced the Payor who had had an operation. He stated in his testimony that he did not work full-time because customer traffic did not justify it.
+[17] During the summer period of the summer, the municipality did work on the water system, which caused a considerable decrease in customer traffic due to a detour of 15 to 20 kilometres, which closed the business off from traffic.
+[18] Clément Sévigny and Céline Drolet both made their statements before Daniel Lévesque. Mr. Lévesque was described as an experienced investigator to who is occasionally assigned sensitive files involving politicians or, as in this case, the blood relationship between the Appellant and an HRDC employee. Mr. Lévesque has 12 to 15 years of experience.
+[19] It was established during both interviews that the business's accountant was present and assisted the individuals interviewed, that is, the Appellant and the Payor, with supporting figures. According to Michel Mathieu, another department representative who also attended the interview, the accountant supported his client's statements that the convenience store often experienced financial difficulties and was unable to pay the Appellant's salary.
+[20] The Appellant claimed that, at the end of the interview, Mr. Lévesque said to him:
+[TRANSLATION]
+1. "You've been had"
+2. "...you're done for"
+3. "...you are going to pay back what you have received in benefits."
+[21] These are serious accusations, perhaps made unthinkingly by the Appellant, since they were vigorously denied by the senior investigating officer, Michel Mathieu, who was present at the interview.
+[22] In addition, Michel Mathieu specified that both interviews went very well, with a somewhat familiar and open tone in the case of the Appellant, and in a business-like manner without animosity, with regard to the interview with Ms. Drolet. Mr. Mathieu added that the Appellant and his wife re-read their statements and signed them. The Appellant was informed that the Question of arm's length would be determined by another minister, but that it was possible that there had been an over-payment and that claims could be made, in short, as indicated by the caution read to individuals prior to the interview.
+[23] Michel Mathieu strongly denied the Appellant's statement that he told the Appellant when taking his statement:
+[TRANSLATION] Do not worry, a complaint has been received . . . you have the right to a lawyer's service but since it is a routine interview . . .
+[24] Mr. Mathieu added that, if the Appellant was told it was a routine investigation, it was, in fact, a routine investigation.
+[25] The Appellant also reproached the Respondent for not making Mr. Lévesque testify at the hearing. Counsel for the Minister informed the Court that a postponement of this hearing had been requested because Mr. Lévesque was not available; he was participating in a search in Ontario. She rightfully maintained that the Appellant had the right to call Mr. Lévesque as a witness but that he had not done so. The Payor, Céline Drolet, also testified at the hearing. In cross-examination, she was questioned on her statement made to Mr. Lévesque on April 3, 2002. She was asked, in particular, to explain her answer to Question 16 which reads:
+Question 16: How do you explain that between December 1996 and August 8, 1998, according to your payroll records, no salary was paid in the name of Clément Sévigny and we find invoices signed by him every week?
+Answer: Clément is certainly at the convenience store often, he helps me when I am busy with customers at the counter and if a supplier came by, he would sign the invoices. Clément is certainly always at the convenience store and during this period, we had agreed to not pay him a salary.
+[26] To the Question asked at the hearing, Ms. Drolet replied that her Answer given to the investigator had been misinterpreted.
+[27] In cross-examination, Céline Drolet acknowledged that she re-read and signed her statement. But she claims that she felt trapped by the investigator. She claimed that the investigator had written the statement his own way, wanting to show that her statement represents more or less how she answered to the questions asked. When it was suggested to her that her accountant be present during the interview, she stated that he did not help her except for the figures.
+[28] She was reminded then that she had opportunity to make changes to her statement when she was recalled for a follow-up to her statement and she answered that she had not been able to take advantage of the opportunity because she was busy and the [TRANSLATION] "convenience store was full of people". She added that she was naïve. She claimed (the investigator) did not write the good bits, that he did not write the true answers. She admits, however, that she did not lodge a complaint.
+[29] In her case, and that of the Appellant, if the accountant, Mr. Rousseau, had been summoned to appear, he might have come to her assistance by perhaps corroborating the Appellant's and Payor's claims regarding the investigator's attitude and behaviour.
+[30] But Mr. Rousseau did not testify. He could have cast a bit of light on the circumstances surrounding the taking of the Appellant's and Payor's statements by Mr. Lévesque.
+[31] This Court must take into consideration the comments of Counsel for the Minister when she states that the Court, in the absence of this witness, may infer that the witness's evidence would be unfavourable to the Appellant according to the principle established in jurisprudence, as in Lévesque v. Comeau, [1970] S.C.R. 1010 and Sopinka and Lederman's work, The Law of Evidence in Civil Cases, (Toronto: Butterworths, 1974) in which the authors point out the following with regard to the consequences of failure to have a witness appear; I quote:
+In Blatch v. Archer (1774), 1 Cowp. 63, at p. 65, Lord Mansfield stated:
+It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted.
+The application of this maxim has led to a well-recognized rule that the failure of a party or a witness to give evidence, which it was in the power of the party or witness to give and by which the facts might have been elucidated, justifies the court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed.
+In the case of a plaintiff who has the evidentiary burden of establishing an issue, the effect of such inference may be that the evidence led will be insufficient to discharge the burden.
+[32] In rebuttal evidence, Counsel for the Appellant called Lyne Courcy, Appeals Officer, who did the investigation. Following the investigation, she made her recommendation to her supervisor, who approved it.
+[33] Ms. Courcy also met the Appellant and the Payor at the office of the Appellant's agent on October 24, 2002. She testified that she was of the opinion that the interviewed parties gave virtually the same explanations as they had given in their testimony at the hearing. She added that during the interview, all the questions that had already been asked in their prior statements had been reviewed and that the clients had had opportunity to make changes, which they did not do.
+[34] She stated that, after this exercise, she was obligated to agree primarily with the version of these statements and that what she heard at the hearing did not cause her to change her opinion because she heard nothing new.
+[35] Counsel for the Appellant denied certain presumptions of fact expressed by the Minister in his answer to the Notice of Appeal. Here is what this Court maintains after having examined the evidence presented both orally and in documentary form pertaining to these paragraphs.
+[36] Paragraph 5(h) was denied, but this Court must conclude that the evidentiary effect of this presumptions of fact has been made and is found in the Appellant's statement, in responseto Questions 8 and 18; it is also found in the Payor's statement and in her answers to Questions 12, 14, 16 and 23.
+[37] With regard to paragraph 5(i), no proof was given that, prior to August 1998, the Appellant began discussions with some of the business's suppliers and that he took care of renting floor space. However, it was proven that he signed invoices and performed a number of jobs at the Payor's convenience store.
+[38] Paragraph 5(l) was proved by the Appellant, in the answers to Questions 8, 9, 11, 17 and 19 in his statement, and by the Payor in her answers to questions 16 to 20 in her statement.
+[39] Paragraph 5(o) was proved in the Appellant's statement, at the very end of his statement when he added to the statement written by Mr. Lévesque that he was paid by the week and not by the hour.
+[40] Paragraph 5(p) was proved since the statements of both the Appellant and the Payor were produced at the hearing.
+[41] With regard to paragraph 5(q), the Minister's presumption of fact was proved for the five-week period. This evidence is also found in the Payor's statement in her answer to Question 21.
+[42] Paragraph 5(s) is proved in the worker's statement in his answers to Questions 11, 16 and 18 and in the Payor's statement at Question 24.
+[43] The presumption of fact expressed by the Minister in paragraph 5(t) is proved in the worker's statement in the answers provided to Questions 11, 12 and 13 and in the worker's answer to Question 24.
+[44] With regard to the presumption of fact in paragraph 6(a), proof is found in the Payor's answers to Questions 16, 18, 21, 23 and 24 in her statement.
+[45] With regard to the assumption of fact in paragraph 6(b), the proof is found in the Appellant's answerto Question 8 in his statement and in the payor's statement in her answers given to Questions 12, 14, 16, 23 and 24.
+[46] The Appellant is asking the Court to overturn the Minister's decision. However, this Court's power of review was analyzed by the Federal Court of Appeal, which defined the obligation, limit and scope in a number of cases, some of the most recent of which are Légaré v. Canada (Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878; Pérusse v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 310; Massignani v. Canada (Minister of National Revenue - M.N.R.), [2003] F.C.J. No. 542. In Légaré v. Canada, supra, Marceau J. states at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[47] In light of the evidence gathered, it clearly emerges that the Appellant, Clément Sévigny, performed significant work during the period at issue. With regard to the services he rendered for a number of weeks during the period that is of interest to us, he was not paid because the Payor did not have adequate financial resources.
+[48] In support of these claims, the Appellant's agent quoted Théberge v. Canada(Minister of National Revenue - M.N.R.), [2002] F.C.J. No. 464, specifically at paragraph 19 reproduced below:
+What a claimant does outside the period during which he or she is employed in what the Minister considers to be insurable employment can be relevant, for example, to verify that the claimant is unemployed, to determine the amount of his or her benefits, or to establish his or her period of unemployment. However, for the purposes of the exception provided in paragraph 3(2)(c) of the Act, what a claimant does outside of his or her period of employment will be of little relevance when, as in this case, it is not alleged that the salary paid during the period of employment took into account the work performed outside of that period, that the applicant had included, in the hours spent on his or her insurable employment, hours worked outside of the period, or that work performed outside of his or her period of employment had been included in the work performed during his or her period of employment. It seems to me to be self-evident, and this is confirmed by the evidence, that in the case of family businesses engaged in seasonal work, the minimal amount of work that remains to be done outside the active season is usually performed by family members, without pay. Excepting seasonal employment, in a family farm business, on the ground that cows are milked year-round amounts, for all practical purposes, to depriving family members who qualify by working during the active season of unemployment insurance and to overlooking the two main characteristics of such a business: that it is a family business and a seasonal business.
+[49] It should be noted that Théberge, supra, involves a job in a business that is family-owned and seasonal. This family business is not comparable to a family farm. The Payor's business can be considered family in nature but from there to comparing it to a seasonal family farm business is a stretch. Furthermore, this case does not involve a few hours outside the periods, as is often the case in farm businesses where milking of cows, for example, continues during the winter period, often outside the worker's work period. According to the evidence, the Appellant in this case was more or less full-time from 1996 to 1998.
+[50] Upon completion of the analysis of the evidence presented, this Court must find, as did the Minister, that the Appellant did not hold insurable employment as understood in the Act because a substantially similar contract of employment would not have been entered into had there been an arm's length relationship between him and the Payor.
+[51] After analysis of this evidence, it is necessary to ask certain questions, such as:
+1. In an arm's length relationship, would the Appellant have done the same amount of volunteer work for the Payor?
+2. In an arm's length relationship, would the Appellant have used his car without his expense being assumed by the Payor?
+3. In an arm's length relationship, would the Appellant have worked without pay at the convenience store from December 1996 to August 1998?
+4. In an arm's length relationship, would the Appellant have agreed to work for the same wages regardless of the number of hours worked?
+5. In an arm's length relationship, would the Payor have paid a worker a salary without the worker following a work schedule?
+6. In an arm's length relationship, would the Appellant have continued to work without pay because the Payor decided to cut expenses?
+7. In an arm's length relationship, would the Payor have paid a set wage to the worker but paid all the other employees at an hourly rate?
+[52] In her answerto Question 23 in her statement, the Payor admitted that the Appellant's Record of Employment was false. At Question 24, she made the same admission regarding the Record of Employment because the Appellant was laid off not due to a lack of work but due to a lack of cash. Furthermore, the Payor admitted that she knew that the Appellant was receiving employment insurance benefits while he was working for her. This is found in her answer to Question 27. In her answer to Question 28, the Payor acknowledges that in an arm's length relationship, the Appellant would not have worked as much without pay.
+[53] It is appropriate to note that the employment insurance scheme was established to assistance workers who have lost their jobs. The evidence presented at the hearing, including the Payor's and the Appellant's statements, was particularly damning for them. When faced with these statements, the Appellant and his wife attempted to cast doubt on the investigators' integrity in their duties. This tactic did not help them. To the contrary, it severely placed their credibility in doubt.
+[54] This Court must find that the Minister, in carrying out his mandate under subsection 5(3) of the Act, performed his duty as required by the Act, that is, that his factual findings are true and were correctly evaluated bearing in mind the context in which they occurred.
+[55] In my opinion, in consideration of the above, this Court must find that the Minister's decision still appears reasonable.
+[56] The work performed by the Appellant over the period at issue was not insurable because there was no arm's length relationship, in accordance with the provisions of paragraph 5(2)(i) of the Act and sections 251 and 252 of the Income Tax Act.
+[57] Consequently, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick this 19th day of April 2004.
+"S. J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 23rd day of August 2004.
+Sharon Winkler Moren, Translator

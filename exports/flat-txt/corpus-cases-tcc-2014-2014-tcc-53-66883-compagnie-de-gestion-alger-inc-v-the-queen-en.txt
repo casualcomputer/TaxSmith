@@ -1,0 +1,181 @@
+Title: Compagnie de Gestion Alger Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66883/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-53-66883-compagnie-de-gestion-alger-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-02-17
+
+# Compagnie de Gestion Alger Inc. v. The Queen
+
+- Citation: 2014 TCC 53
+- Decision date: 2014-02-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5957, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Compagnie de Gestion Alger Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-02-17
+Neutral citation
+2014 TCC 53
+File numbers
+2008-3784(GST)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-3784(GST)G
+BETWEEN:
+LA COMPAGNIE DE GESTION ALGER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 15, 2013, at Montréal, Quebec
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the appellant:
+Richard Généreux
+Counsel for the respondent:
+Éric Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act for the period from July 1, 2003, to February 28, 2007, is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 13th day of February 2015
+François Brunet, Revisor
+Citation: 2014 TCC 53
+Date: 2014 02 17
+Docket: 2008-3784(GST)G
+BETWEEN:
+LA COMPAGNIE DE GESTION ALGER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from an assessment made pursuant to the Excise Tax Act (the ETA) regarding the goods and services tax (the GST). [1]
+[2] From 1974 to 2011, the appellant operated the fast-food restaurant Dixie Lee in Baie-Comeau. The restaurant’s main products were fried chicken, pizza and fried seafood.
+[3] The appellant offered home-delivery service. Delivery charges were paid by the customer, and no GST was collected by the appellant on the amount paid by the customer for delivery.
+[4] Also, the appellant offered some of its employees discounts on meals while at work. The appellant did not remit any GST for the meals.
+[5] The Minister of National Revenue (the Minister) determined that the appellant should have collected and remitted the GST on the delivery income because delivery services were performed in the course of the appellant’s business and that the supply of food and the supply of delivery services constituted a single supply. The Minister also determined that the meals provided to the employees were taxable under section 173 of the ETA, which pertains to supplies that constitute taxable benefits under the Income Tax Act[2] (the ITA).
+[6] Accordingly, the Minister assessed the appellant in the amount of $14,346.28 with respect to the GST for the period from July 1, 2003, to February 28, 2007.
+[7] The appellant challenges the assessment. It submits that it had no obligation to collect and remit the GST on the amount paid by customers for delivery services because the services were performed by delivery persons who were self-employed under a contract for services. The appellant claims, however, that it never received any money for the deliveries because the amounts were paid directly to the delivery persons by the customers.
+[8] The appellant also submits that it did not have to collect and remit the GST in respect of meals purchased by the employees because the appellant offered meals primarily for its own benefit and not for the employees’ benefit. Thus, in its opinion, the meals were not a taxable benefit for the employees under the ITA.
+The facts
+[9] Jean-Pierre Gervais (Mr. Gervais), the appellant’s sole shareholder and president, testified about the appellant’s activities, the context in which the delivery system was implemented and the employees’ meals.
+[10] When it first began operating the business, the appellant itself provided delivery service with a car owned by the appellant. However, according to Mr. Gervais, the costs were too high and the service was terminated.
+[11] After a period of discontinuation, the appellant decided to place the delivery orders in the hands of a delivery man named Germain. According to Mr. Gervais, it was Germain who offered to deliver the food and bill the customers for the service himself. Mr. Gervais stated that the appellant agreed and that Germain began the delivery service as a self-employed worker. If he was not available, Germain found other persons to make the deliveries, and there could be 5 or 6 different delivery persons per week. They used their own cars and were responsible for all costs incurred. They did not receive a salary from the appellant and did not have any fringe benefits.
+[12] Prior to the period in issue, the delivery charges were not indicated on the invoice for food. At a certain point, again before the period in issue, billing issues occurred between the delivery persons and the appellant. According to Mr. Gervais, certain delivery persons had difficulty calculating the amount payable for food and the amount payable for delivery. Following a number of problems resulting from this confusion, the appellant implemented a billing system whereby the amount payable for food (including GST) and the amount payable for delivery were entered separately, but on the same invoice submitted to the customer. It was that billing system that was in place during the period in issue. Thus, at the end of the day, the delivery persons had to remit the money collected for food and keep the difference, that is, the amount collected for delivery. According to Mr. Gervais, the appellant never had the delivery charges in its possession.
+[13] The evidence also showed that the delivery persons were [Translation] “on call”, and when there were no deliveries, the delivery persons were not at the restaurant and did not perform any other tasks, except for those few times when certain delivery persons ran errands for the company. In addition, the delivery persons could hold various jobs or make deliveries for other restaurants.
+[14] Finally, Mr. Gervais submits that delivery orders generated approximately 5% of the restaurant’s income.
+[15] With respect to the uncollected GST on meals provided to the employees, the testimony of Mr. Gervais was that employees who worked in the kitchen could purchase meals at a reduced price if they took a thirty-minute lunch or dinner break instead of a sixty-minute meal break. It would appear that if they took a one-hour break, the break was not paid, whereas a thirty-minute break was paid. However, Mr. Gervais stated that, in the case of a thirty-minute break, employees did not have enough time to go home to eat. Thus, the appellant offered discounted meals to encourage employees to stay at the restaurant and take shorter breaks. According to Mr. Gervais, this benefitted the restaurant as these employees were paid and available during their breaks and were able to work if necessary during peak periods.
+[16] The appellant deducted $1.50 per meal from the employees’ pay and entered $2 per meal on the employees’ T-4 slips as a taxable benefit for the purposes of the ITA. Mr. Gervais stated that, by adding a taxable benefit to the employees’ pay, the appellant was following instructions given by the Revenu Québec auditor at a past audit. Mr. Gervais was unable to say whether the appellant collected GST on the amounts deducted from the employees’ pay.
+[17] The testimonial evidence adduced by the respondent rests on the testimony of Carol Bergeron (Ms. Bergeron), of Revenu Québec, who performed the audit for tax purposes in this case. First, Ms. Bergeron testified that reference was made to [Translation] “delivery income” and an expenditure item entitled [Translation] “delivery expenses” in the appellant’s accounting records. Those entries led her to believe that it was the appellant who performed the deliveries. However, on cross-examination, the appellant admitted that the amounts debited under [Translation] “delivery income” were credited under [Translation] “delivery expenses”, so that the net result equalled zero.
+[18] Second, Ms. Bergeron explained that since the amount of the food order and the delivery amount were both entered on the invoice provided to the customers, she considered the supply of food and the supply of delivery services as being a single supply.
+[19] Third, she stated that she was unable to obtain the names of the delivery persons who performed the deliveries, and that she was unable to determine whether they were in the pay system or whether they claimed their income.
+[20] Again, in regard to deliveries, Ms. Bergeron stated that in its advertisements, the appellant stated that it offered food delivery. Indeed, a flyer was filed in evidence.
+[21] With respect to the uncollected GST on meals provided to the employees, Ms. Bergeron explained that according to the information available at the time of her audit, it seemed that the employees did not pay for the meals consumed at the restaurant, but that additional income of $2 per meal was added to their salary as a taxable benefit under the ITA. She determined an average cost for the meals consumed by the employees, calculated the benefit provided to the employees and then determined the tax amount that should have been collected and remitted for that supply.
+The positions of the parties
+[22] The appellant submits that the supply of food and the supply of delivery services constituted separate taxable supplies made by different persons. The appellant submits, on the one hand, that the delivery service was performed entirely by delivery persons as self-employed workers, under a contract for services, and that therefore, it was not liable for such amounts. The appellant submits that the delivery persons were only agents regarding the collection of the consideration payable for the food (including GST) and that they collected the amounts payable for delivery for their own benefit.
+[23] The appellant submits, on the other hand, that it never received any consideration for the delivery, as the amount was remitted directly to the delivery person by the customer. It also submits that the delivery persons were not responsible for GST obligations, as they were “small suppliers” within the meaning of section 148.
+[24] As for the collection of the GST on the free meals provided to the employees, the appellant claims that the free meals were not benefits and that they were rather for its own benefit. Indeed, in the appellant’s opinion, it was in its interest that the employees be on the work premises during their rest periods.
+[25] The respondent submits that the delivery service was performed as part of the appellant’s business activities, and that therefore, it had to collect the tax payable by the recipient of the supply on the portion of the service related to delivery. Indeed, the respondent submits that the delivery persons were not self-employed and that the supply of food and the supply of delivery services constituted a single supply. Because the delivery service was integrated into the appellant’s business activities, GST obligations were the appellant’s responsibility.
+[26] As for the meals provided to the employees, the respondent submits that they were employee benefits, and that, therefore, the appellant had to collect the GST on these supplies under section 173 of the ETA.
+Analysis
+[27] In determining whether the appellant was liable to collect and remit GST on food delivery fees, the issue is whether the delivery service constituted a separate supply from the supply of food or whether it was a single supply. For the reasons that follow, I am of the view that the food delivery service and the food itself constituted a single supply, and that, therefore, the appellant was responsible for GST obligations.
+[28] In O.A. Brown Ltd v. Canada,[3] Judge Rip summarized the relevant principles for determining whether there is a single supply or whether there are distinct supplies. His approach was confirmed by the Federal Court of Appeal in Hidden Valley Golf Resort Assn. v. Canada.[4]
+[29] Basing his analysis on the case law of the United Kingdom, Judge Rip stated as follows, at paragraph 21:
+. . . The test to be distilled from the English authorities is whether, in substance and reality, the alleged separate supply is an integral part, integrant or component of the overall supply. One must examine the true nature of the transaction to determine the tax consequences. . . .
+[30] Also, Judge Rip cited Mercantile Contracts Ltd. v. C&E Comrs. at paragraph 22:
+. . . For this purpose one should look at the degree to which the services alleged to constitute a single supply are interconnected, the extent of their interdependence and intertwining, whether each is an integral part or component . . .
+[31] When the various elements of a supply are an integral part of said supply and they are inextricably linked, or when each loses its independence and must be supplied jointly, the supply will usually be considered as being a single supply. Conversely, when a number of elements of a supply are reasonably severable or separable, the supply will usually be considered as being a multiple supply. In that regard, it would be prudent not to artificially split, for business purposes, a supply that is clearly a single supply.
+[32] The case law is clear that the following factors are worthy of consideration when analyzing the nature of a supply:
+- Are separate charges made?
+- Can the separate supply be realistically omitted from the overall supply?
+- Is it possible to purchase each of the various elements separately and still end up with a useful article or service.
+[33] In Oxford Frozen Foods Ltd. v. Canada,[5] the appellant produced and sold frozen fruit and vegetables. In carrying on its business of selling fruits and vegetables, the appellant stored them in freezers until its customers took possession of them. The storage charges and the price of the products purchased were itemized separately on the invoices. Because fruits and vegetables are zero rated taxes, the judge had to determine the sale and whether the storage component constituted a single supply, or whether the storage charges were a separate taxable supply on which the GST had to be collected and remitted. At paragraph 24, Judge Teskey wrote:
+. . . The Appellant's position is that it stores its frozen products so that it can supply its customers with frozen products. The Appellant is not engaged in the business of supplying storage for frozen products. Even though the storage component is itemized separately on the Appellant's invoices, it is so interdependent and intertwined with the supply of frozen products that it constitutes a single supply of frozen product. It is just a way of calculating the eventual price of a zero rated product.
+[Emphasis added.]
+[34] And later at paragraph 32:
+Herein, the true nature of the contract is the sale by the Appellant of frozen product. This is the real character of the Appellant's business. The storage of the frozen product is a necessary component to the Appellant so that it can sell frozen products.
+[35] In Manship Holdings v. The Queen,[6] the appellant, who operated a massage parlour, allowed the masseuses, who were considered to be self-employed, to use its facilities. The appellant claimed that the massages were supplied by the masseuses and that the appellant only provided the facilities, which, in its view, was not a taxable supply. One of the issues was the relationship between the supply of the facilities and the supply of the massages, and whether a single supply or multiple supplies were made. At paragraph 34, Justice Angers wrote:
+In the case at bar, one must ask if the supply of the massage along with the supply of the premises constitutes a single supply or multiple supplies. Is it possible or realistic to omit one component from the overall supply? In our fact situation, the appellant could not supply or offer massage services without, or independently from, the use of the premises; thus, both elements are highly interconnected and interdependent. The true nature of the transaction for which consideration was paid was the supply of the massage, which, in the fact situation here, cannot be made without the use of the appellant's premises. The supply of the premises to the customers cannot stand by itself or be omitted from the overall supply of the massage. In other words, the fact situation of this case would make it impossible to purchase each of the supplies or elements separately and still end up with a useful service. The end result is that the supply in the case at bar is a compound supply whose elements cannot be separated for tax purposes. [Emphasis added.]
+[36] In the case at bar, it is necessary to determine whether the property (the food) and the service provided (the delivery) constitute a single supply, or whether they are two separate supplies. One must ask, in the light of the evidence adduced:
+- Is it possible to separate each of the elements and end up with a useful and functional service or property?
+- What is the degree to which the food and the delivery service are interconnected?
+- Is the delivery service an integral part of the supply of food?
+- Are separate charges made?
+[37] On the one hand, the evidence reveals that the cost of food and the cost of delivery were itemized separately on the invoice provided to the customer. However, when the customers paid their invoice, they paid the delivery person the total amount, without distinction between food and delivery. As for the food and delivery services being interconnected, the evidence shows that there were two ways of obtaining the food: go to the appellant’s establishment in person or place an order for delivery. In the first case, the food was made available to the customers while at the restaurant. In the second, the food was made available to the customers upon delivery. What differs is the manner in which the supply was made available to the customers. As for the interconnection and separation of elements, it is clear that it was possible to obtain the food without delivery. However, to obtain delivery without food is simply illogical. By separating the two elements, such that all that remains is the delivery, a viable and useful service or property cannot be obtained.
+[38] I conclude that delivery is intrinsically connected to the food and that the supply of food at the customer’s home was a single supply.
+[39] Contrary to the appellant’s submissions, the fact that the delivery persons were self-employed, as far as the appellant is concerned, is irrelevant. In light of Manship Holdings, the determining factor is whether the delivery persons supplied delivery service in their own name or as agents of the appellant. At paragraph 2 of Manship Holdings, the Federal Court of Appeal wrote:
+The fact that the masseuses were independent contractors rather than employees does not preclude a finding that they performed their services on behalf of the appellant. The question in this regard is whether the masseuses, as self-employed persons, supplied their services in their own name or as agents of the appellant? If the services were provided as agents, the appellant is the sole provider of these services and is responsible for the collection and remittance of the HST on the full amount paid by the customers. [Emphasis added.]
+[40] I am of the view that, in this case, the delivery persons acted as agents of the appellant when they performed the deliveries. I do not accept, as alleged by the appellant, that the delivery persons acted as agents of the customers who ordered the appellant’s food. The evidence shows that the appellant’s flyers advertised the delivery service provided. Furthermore, when customers wished to place a food order with delivery, they simply had to call the appellant. The customers were not required to both place their food order with the appellant and make arrangements for delivery with the delivery persons. Indeed, the customers did not know the identity of the delivery persons. Finally, the evidence shows that if customers had issues with the delivery service, they contacted the appellant to resolve them.
+[41] Another important factor is that the appellant entered the cost of delivery on the food invoices provided to the customers. I do not accept the testimony of Mr. Gervais that the cost of delivery was entered on the invoice to assist the delivery person in calculating the amount to be remitted to the appellant at the end of the night. That explanation makes no sense, as it would have been just as easy (if not easier) to calculate the amount that the delivery person had to remit to the appellant if the cost of delivery did not appear on the invoice. Mr. Gervais stated that when the cost of delivery did not appear on the invoice, there were arguments with customers over the cost of delivery. Apparently, some of the delivery persons sometimes charged more than the amount agreed upon between the customer and the appellant for delivery. Thus, it appears to me that the invoicing of delivery charges was rather meant to monitor the delivery persons, which is more logical in the context of delivery persons acting as agents of the appellant. Otherwise, the appellant would not have had such control over them and they could have charged the customers whatever they wanted.
+[42] I also note that the appellant included the amounts collected by the delivery persons in its income and that said income was recorded in its financial statements. Although the appellant deducted an amount equal to its income as delivery expenses, this indicates to me that the appellant itself considered the delivery service as being part of its business. Mr. Gervais seemed to argue that the income was included by his accountant, but the accountant was not called to testify. Also, Mr. Gervais himself performed deliveries a few times per week for the appellant, when a delivery person was unable to do so. This is another indication that leads me to find that the delivery service constituted an integral part of the appellant’s business.
+[43] In the light of the evidence and my analysis of the facts, I am of the opinion that this constituted a single supply of food and delivery service. In view of that finding, it is not necessary to determine the status of the delivery persons, as in my view, a single supply was made.
+The meals provided to the employees
+[44] The second issue concerns the collection and remittance of the GST on the meals provided to the employees during their shifts.
+[45] Section 173 of the ETA provides for the calculation of the amount of taxes to be collected and remitted on a supply made by a registrant to an employee that results in a taxable benefit under the income tax system. Where there is a taxable benefit, for the purpose of determining the net tax of the registrant, the ETA provides that the consideration received by the registrant for the property or service is deemed to be equal to the amount of the taxable benefit and all reimbursements paid by the employee. Section 173 reads in relevant part as follows:
+173. (1) Where a registrant makes a supply (other than an exempt or zero-rated supply) of property or a service to an individual or a person related to the individual and
+(a) an amount (in this subsection referred to as the “benefit amount”) in respect of the supply is required under paragraph 6(1)(a), (e), (k) or (l) or subsection 15(1) of the Income Tax Act to be included in computing the individual’s income for a taxation year of the individual, or
+. . .
+the following rules apply:
+. . .
+(d) in any case, except where
+(i) the registrant was, because of section 170, not entitled to claim an input tax credit in respect of the last acquisition, importation or bringing into a participating province of the property or service by the registrant,
+. . .
+for the purpose of determining the net tax of the registrant,
+(v) the total of the benefit amount and all reimbursements is deemed to be the total consideration payable in respect of the provision during the year of the property or service to the individual or person related to the individual,
+[46] The only issue in this case is whether those meals constituted a taxable benefit to the employees. If I find that there was a taxable benefit, the appellant will not contest the amount of GST assessed.
+[47] Paragraph 6(1)(a) of the ITA provides a general rule that benefits of any kind whatever obtained in the course of or by virtue of an employment shall be included in the income of an employee, except where an exception is provided in that respect. According to the Supreme Court in R. v. Savage,[7] a taxable benefit is an economic benefit. In addition, the benefit must increase the recipient’s net worth. With respect to the free meals provided to the employees, the benefit is the money saved by the taxpayer in making a food purchase. However, where something is provided to an employee primarily for the benefit of the employer, it will not be a taxable benefit if any personal enjoyment is merely incidental to the business purpose.[8]
+[48] In the case at bar, the appellant submits that it provided the meals to the employees primarily for its benefit and not for the benefit of the employees. Thus, the appellant bore the onus of proof on a balance of probabilities that it was the appellant and not the employees who benefitted from the meal scheme. However, the explanations provided by Mr. Gervais in his testimony were insufficient to meet that burden. It seems more likely to me that the reason the employees chose to stay at the restaurant during their 30-minute meal breaks was that in that case they were paid, and not that they were entitled to a discount on meals. In any event, there was no evidence showing when the appellant began to offer these meals to its employees, or that before that, it had difficulty enticing them to remain on the premises during their breaks. Finally, I draw an adverse inference from the appellant’s failure to call one of its employees as a witness to corroborate the testimony of Mr. Gervais on that issue.
+[49] While this is not determinative, I also note that for income tax purposes, the appellant included, in its employees’ taxable income for the relevant years, an amount as taxable benefits each time one of them received a free meal. The evidence, therefore, shows that the appellant, for purposes of its obligations under the ITA, treated the meals as taxable benefits. I have difficulty believing that the appellant would have done so had it not believed that the meals were in fact a benefit it conferred on the employees.
+Conclusion
+[50] For all these reasons, the appeal is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 17th day of February 2014.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 13th day of February 2015
+François Brunet, Revisor
+CITATION: 2014 TCC 53
+COURT FILE NO.: 2008-3784(GST)G
+STYLE OF CAUSE: LA COMPAGNIE DE GESTION ALGER INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: May 15, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: February 17, 2014
+APPEARANCES:
+Counsel for the appellant:
+Richard Généreux
+Counsel for the respondent:
+Éric Labbé
+COUNSEL OF RECORD:
+For the appellant:
+Name: Richard Généreux
+Firm: Ile-des-Sœurs, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Excise Tax Act, R.S.C., 1985, c. E-15.
+[2] Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.).
+[3] [1995] T.C.J. No. 678, [1995] G.S.T.C. 40.
+[4] [2000] F.C.J. No. 869.
+[5] Oxford Frozen Foods Ltd. v. Canada, [1996] T.C.J. No. 1222, [1996] G.S.T.C. 76.
+[6] 2009 TCC 75, [2009] T.C.J. No. 55 affirmed by 2010 FCA 58.
+[7] [1983] 2 S.C.R. 428 (SCC).
+[8] McGoldrick v. Canada, 2004 FCJ 189, [2004] 3 C.T.C. 264, at paragraph 9.

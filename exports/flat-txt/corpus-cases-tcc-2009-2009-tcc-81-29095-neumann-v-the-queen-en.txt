@@ -1,0 +1,165 @@
+Title: Neumann v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29095/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-81-29095-neumann-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-02-11
+
+# Neumann v. The Queen
+
+- Citation: 2009 TCC 81
+- Decision date: 2009-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6658, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neumann v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-11
+Neutral citation
+2009 TCC 81
+File numbers
+2006-439(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-439(IT)G
+BETWEEN:
+JOHN NEUMANN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Monica Neumann (2006-441(IT)G) on November 25, 2008, at Edmonton, Alberta.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+David S. Welsh
+Counsel for the Respondent:
+Kim Palichuk
+____________________________________________________________________
+JUDGMENT
+The appeal from the Notice of Assessment made under the Income Tax Act for the 2003 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of February 2009.
+“B.Paris”
+Paris J.
+Docket: 2006-441(IT)G
+BETWEEN:
+MONICA NEUMANN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of John Neumann (2006-439(IT)G) on November 25, 2008, at Edmonton, Alberta.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+David S. Welsh
+Counsel for the Respondent:
+Kim Palichuk
+____________________________________________________________________
+JUDGMENT
+The appeal from the Notice of Assessment made under the Income Tax Act for the 2003 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of February 2009.
+“B.Paris”
+Paris J.
+Citation: 2009 TCC 81
+Date: 20090211
+Dockets: 2006-439(IT)G
+2006-441(IT)G
+BETWEEN:
+JOHN NEUMANN,
+MONICA NEUMANN,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The Appellants are challenging assessments made under subsection 160(1) of the Income Tax Act (the “Act”). The Minister of National Revenue (the “Minister”) assessed the Appellants on the basis that they had each received a dividend of $173,500 from 782047 Alberta Ltd. (“782”), a corporation with which they were not dealing at arm's-length, at a time when 782 had a debt of $39,152.51 under the Act.
+[2] The Appellants are contesting the assessments on two grounds. Firstly, they say that subsection 160(1) does not apply to the dividends paid by 782 because the dividends were capital dividends as described in subsection 83(2) of the Act. Secondly, they say that if section 160 does apply to a capital dividend, they provided consideration for the dividends that exceeded the amount of the dividends.
+Facts
+[3] The following summary of facts is taken from the statement of agreed facts filed by the parties at the hearing.
+[4] The Appellants are married. They incorporated 782 in 1998 and each held 50% of the shares. They were the only directors and officers of 782.
+[5] The principal asset of the corporation was an industrial building which it rented to another corporation, Apex Group Inc., which was also owned by the Appellants.
+[6] The Appellants worked approximately 10 hours per week for 782 managing its affairs but did not receive any payment for this work.
+[7] On December 28, 2002, 782 sold the building to an unrelated purchaser. This gave rise to a large capital gain to 782, and an increase of $347,337 in its capital dividend account for tax purposes.
+[8] On July 1, 2003, 782 filed an election under subsection 83(2) of the Act to pay its shareholders a capital dividend of $347,000. On August 20, 2003, 782 declared and paid a dividend of $347,000 to the Appellants. The directors’ resolution of the same date read, in part, as follows:
+1. A dividend in the amount of $3,470 per Class A share (for a total dividend of $347,000) is hereby declared to be payable on the 20th day of August 2003 to all Class A common shareholders of record of the Corporation as of the 20th day of August 2003.
+2. The Corporation shall make an election under subsection 83(2) of the Income Tax Act (Canada) in respect of the full amount of the dividend.
+3. The said dividend shall not become payable unless and until the Corporation has duly filed an election, in prescribed manner and in prescribed form, under subsection 83(2) of the Income Tax Act (Canada) in respect of the full amount of the said dividend.
+…
+[9] The dividend was paid to the Appellants by way of a credit of $173,500 to each of their shareholder loan accounts with 782 on August 20, 2003. The amount owing by 782 to the Appellants as a result of the credit to their shareholder loan accounts was secured by a general security agreement registered in their favour in the Alberta Personal Property Registry.
+[10] On December 2, 2004, 782 made a voluntary assignment in bankruptcy. The bankruptcy filing showed that 782 had assets of $319,729 against liabilities of $498,489. The Appellants, the only secured creditors and 782, filed proofs of claim in the amount of $160,000 each. The Minister was an unsecured creditor in the bankruptcy and did not receive any funds from the distribution of the assets of 782.
+[11] On January 25, 2005 the Minister assessed each of the Appellants pursuant to subsection 160(1) for the outstanding liability of 782 under the Act for its taxation years ending January 31, 2003 and January 31, 2004 in the amount of $39,152.51.
+Arguments
+[12] The Appellants first argument is that section 160 does not apply to the dividend paid to the Appellants’ by 782 because the dividend was a capital dividend.
+[13] Counsel for the Appellants acknowledged that the payment of an ordinary dividend by corporation to its shareholder is a transfer of property within the meaning of section 160 of the Act but submitted that the capital dividend paid to the Appellants in this case was not an ordinary dividend and did not constitute a transfer property under section 160.
+[14] According to counsel, a capital dividend is “a notional creature under the Income Tax Act and is not a corporate law concept.” He said that a capital dividend is created by the Act, and is triggered by the filing of an election under subsection 83(2) of the Act, and that the filing of the election could not be equated to a transfer property by the Corporation.
+[15] He also likened a capital dividend to a stock dividend, saying that a capital dividend was not the property of the corporation prior to the capital dividend being declared.
+[16] If the payment of the dividend in this case is found to be a transfer of property by the corporation to the Appellants, counsel argued that the assessments should still be vacated because the Appellants provided consideration for the payment of the dividend. That consideration consisted of the Appellants filing the election, the unpaid work they had done for 782 over the years, and their loan of the dividend back to 782.
+[17] Finally counsel stated that the Appellants were not attempting to obtain the benefit of the dividend to the detriment of the other creditors of 782.
+[18] Respondent’s counsel submitted that the payment of the dividend to the Appellants was a transfer property within the meaning of subsection 160(1) and that the fact that the dividend was a capital dividend did not matter. The dividend was paid from the proceeds of the sale of the building owned by 782, and was therefore paid out of property of the Corporation. The Corporation was impoverished by the payment of the dividends and the Appellants were correspondingly enriched by the receipt of them. The transfer of the property out of the Corporation led ultimately to its inability to pay its taxes owing under the Act.
+[19] Counsel for the Respondent referred to the case of Neuman v. The Queen, 1 S.C.R. 770, in which the Supreme Court held that the payment of a dividend relates to the entitlement of the shareholder to a capital or share interest in the corporation and not to any other consideration received from the shareholder. This decision was followed in Ruffolo v. The Queen, [1998] 4 C.T.C. 2114, [1998] T.C.J. No. 714, and Cote v. The Queen, [2002] T.C.J. No. 76, [2003].4 C.T.C. 2064, 2002 D.T.C. 1348.
+[20] Lastly, counsel for the Respondent submitted that an intention to avoid payment of taxes by the transferor of the property is not required in order to apply section 160 of the Act.
+Legislation
+[21] Subsection 83(2) of the Act reads as follows:
+(2) Capital dividend. Where at any particular time after 1971 a dividend becomes payable by a private corporation to shareholders of any class of shares of its capital stock and the corporation so elects in respect of the full amount of the dividend, in prescribed manner and prescribed form and at or before the particular time or the first day on which any part of the dividend was paid if that day is earlier than the particular time, the following rules apply:
+(a) the dividend shall be deemed to be a capital dividend to the extent of the corporation’s capital dividend account immediately before the particular time; and
+(b) no part of the dividend shall be included in computing the income of any shareholder of the corporation.
+[22] Subsection 160(1) of the Act reads as follows:
+(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any provision of this Act.
+Analysis
+[23] The Appellants’ first argument, that a capital dividend is not a transfer of property under subsection 160(1) of the Act, cannot succeed. While I am not aware of any jurisprudence on point, and no cases were referred to me by counsel, it appears self-evident that a capital dividend is no less a transfer of property by a corporation to its shareholder than an ordinary dividend.
+[24] In Algoa Trust v. The Queen, [1993] 1 C.T.C. 2294, 93 D.T.C. 405, Rip, J., as he then was, found that a dividend was a transfer of property within the meaning of subsection 160(1). In doing so, he said:
+When a corporation pays a dividend to its shareholders the corporation gives or hands over property to its shareholders. Property is taken from the patrimony of a corporation and placed in the patrimony of a shareholder. When the dividend is declared, the corporation becomes indebted to the shareholder. When the dividend is paid, the corporation divests itself of ownership of the money (or other property) used to pay the dividend.
+This description is equally applicable to the payment of the dividends in this case. Property of 782 was taken from the patrimony of the corporation and placed in the patrimony of the Appellants; there was an impoverishment of the corporation and an enrichment of the Appellants.
+[25] The fact that 782 elected under subsection 83(2) to pay the dividend out of its capital dividend account did not affect the legal nature of the dividend or the means by which the dividend was paid. A capital dividend allows a private corporation to make a tax-free distribution of certain non-taxable gains it earns, such as the untaxed portion of capital gains. The election only affects the tax attributes of the dividend payment once it had been made. Subsection 83(2) is applicable only “where at any particular time after 1971 a dividend becomes payable by a private corporation to shareholders of any class of shares” and an election under that section has been made.
+[26] Contrary to the submission of the Appellants’ counsel, the capital dividend election did not create the dividend; it simply made the dividend tax-free to the recipient shareholders. Subsection 83(2) does not purport to authorize the payment of the dividend by a corporation or to create a fund out of which to pay it. The authority to declare a dividend lies with the directors subject to any restrictions that have been included in the articles of incorporation. The dividend here was created by the directors’ resolution and paid pursuant to that resolution out of the property of the corporation.
+[27] Since the dividend was paid out of the property of the corporation it is distinguishable from a stock dividend. As noted by Rip, J. at paragraph 51 of the Algoa case, supra, the shares authorized in a corporation’s articles of incorporation are not assets of the corporation, and the issuance of shares pursuant to the declaration of a stock dividend is not a transfer of property by the corporation because the corporation has not divested itself of any of its property.
+[28] The Appellants’ argument that they provided consideration for the dividend cannot succeed either. It has now been clearly established that the right of a shareholder to receive the payment of a dividend that has been declared flows from his or her status as a shareholder and not from any consideration given by him or her. In other words, dividends attach to the shares and not to the shareholder. In Neuman v. The Queen, supra, Iacobucci J., writing for the Court said at paragraph 57 that:
+…a dividend is a payment which is related by way of entitlement to one’s capital or share interest in the corporation and not to any other consideration. Thus, the quantum of one’s contribution to a company, and any dividends received from that corporation, are mutually independent of one another. La Forest J made the same observation in his dissenting reasons in McClurg (at p. 1073):
+With respect, this fact is irrelevant to the issue before us. To relate dividend receipts to the amount of effort expended by the recipient on behalf of the payor corporation is to misconstrue the nature of a dividend. As discussed earlier, a dividend is received by virtue of ownership of the capital stock of a corporation. It is a fundamental principle of corporate law that a dividend is a return on capital which attaches to a share, and is in no way dependent on the conduct of a particular shareholder.
+[29] Thus, neither work done for a corporation nor a promise by a shareholder to lend money to the corporation can be a consideration for the payment of a dividend to the shareholder. As well, the Appellants’ position that they gave consideration for the dividends by making the capital dividend election is ill-founded also because the election was made by 782 rather than by them.
+[30] In summary, therefore, I find that the payment of the dividend by 782 to each of the Appellants was a transfer of property within the meaning of subsection 160(1) that was made for no consideration. As a result, the appeals shall be dismissed, with one set of costs to the Respondent.
+Signed at Ottawa, Canada, this 11th day of February 2009.
+“B.Paris”
+Paris J.
+CITATION: 2009 TCC 81
+COURT FILE NO.: 2006-439(IT)G and 2006-441(IT)G
+STYLE OF CAUSE: JOHN NEUMANN AND HER MAJESTY THE QUEEN AND MONICA NEUMANN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: November 25, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: February 11, 2009
+APPEARANCES:
+Counsel for the Appellant:
+David S. Welsh
+Counsel for the Respondent:
+Kim Palichuk
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David S. Welsh
+Firm: Trevoy LLP
+Edmonton, Alberta
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

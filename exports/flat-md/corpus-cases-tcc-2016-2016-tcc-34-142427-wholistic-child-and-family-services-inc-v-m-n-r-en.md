@@ -1,0 +1,189 @@
+---
+title: "Wholistic Child and Family Services Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/142427/index.do"
+last_modified: "2016-02-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 34"
+citation2: ""
+neutral_citation: "2016 TCC 34"
+decision_date: "2016-02-09"
+language: "en"
+item_id: "142427"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3012
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:59:47.583000+00:00"
+cases_cited_count: 6
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e815b064a834da2e8883ea8661fc9b785aec4e72e9a53bf6211f4ecaf9a18c68"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wholistic Child and Family Services Inc. v. M.N.R.
+
+- Citation: 2016 TCC 34
+- Decision date: 2016-02-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3012, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wholistic Child and Family Services Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-02-09
+Neutral citation
+2016 TCC 34
+File numbers
+2014-2870(EI), 2014-2871(CPP)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2014-2870(EI)
+2014-2871(CPP)
+BETWEEN:
+WHOLISTIC CHILD AND FAMILY SERVICES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard on common evidence on October 13, 2015,
+at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Appellant:
+Mohsen D. Ameli
+Counsel for the Respondent:
+John Chapman
+Darren Prevost
+JUDGMENT
+The appeals from the decision made under the Employment Insurance Act (“EI Act”) and the Canada Pension Plan (“CPP”) are dismissed, and the rulings rendered by the Minister of National Revenue on May 12, 2014 are confirmed on the basis that Hyacinth Dunkley was engaged in insurable employment and pensionable employment with the Appellant from January 1, 2011 to August 8, 2013 within the meaning of paragraphs 5(1)(a) of the EI Act and 6(1)(a) of the CPP, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of February 2016.
+“Patrick Boyle”
+Boyle J.
+Citation: 2016 TCC 34
+Date: 20160209
+Dockets: 2014-2870(EI)
+2014-2871(CPP)
+BETWEEN:
+WHOLISTIC CHILD AND FAMILY SERVICES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+Introduction [1] In these two appeals, the Appellant is appealing from rulings made under the Employment Insurance Act (the “EI Act”) and the Canada Pension Plan (“CPP”) legislation that it was a “placement or employment agency” and that one of the workers it paid was engaged in “insurable employment” and “pensionable employment”.
+[2] The Vice‑President of the Appellant, Ms. Farahnaz “Nina” Dehghani, and the worker, Ms. Hyacinth Dunkley, were called by the Appellant to give evidence. The hearing lasted a day. The parties were permitted to complete and supplement their argument with written submissions filed later with the Court.
+[3] The Appellant is in the business of providing college or university qualified Child and Youth Workers, Personal Support Workers, Social Service Workers and Direct Support Workers to group homes, schools and families to work with developmentally delayed individuals. The particular worker in these appeals was a Child and Youth Worker. In its first-level appeal to the Canada Revenue Agency (“CRA”) of these rulings, completed by the founder and President of the Appellant, Mr. Ramin Mohammadi, in consultation with its accountant, its business is described as a “placement office”. In her testimony, its Vice‑President, who is responsible for its day-to-day operations, described its business as supplying relief staff on a temporary basis to their clients. She explained that Wholistic Child and Family Services Inc. (“Wholistic”) was a “staffing agency” which she viewed as different from a placement agency or employment agency because it put workers with clients temporarily to fill their staffing needs. On its website, Wholistic describes itself as a provider of “staffing support” to families and the social services sector.
+[4] The agent representative of the Appellant, Mr. Mohsen Ameli, essentially put forward two reasons why the rulings were not correct.
+[5] The first is a question of law. He maintains that the Appellant cannot be considered a “placement or employment agency” for either EI or CPP purposes because the Appellant’s workers do not pay the Appellant a fee for its services; they are instead paid a set hourly amount by the Appellant without regard to what the Appellant is paid by its clients.
+[6] The second argument advanced for the Appellant is a mixed question of fact and law. The Appellant maintains that the worker is not under its control when she is providing the services for which she is paid, and hence the “terms or conditions” on which her services are performed are not “analogous to a contract of service” as required for purposes of the CPP, and is not under the Appellant’s “direction and control”, as required by the EI Act. The Appellant took the position that its worker was also not under the direction or control of its clients.
+[7] There is only the placement or employment agency basis for insurability and pensionability before the Court. That was the basis of the rulings. The Respondent withdrew its alternate position set out in its reply that the relationship between Wholistic and its worker was itself employment.
+The Law [8] Unfortunately, the relevant EI and CPP provisions are drafted somewhat differently in approach notwithstanding that the EI and CPP are similarly valued Canadian social programs, the concepts of insurable employment and pensionable employment are largely trying to capture the same things, and the use of the term “placement or employment agency” in each is trying to capture essentially the same work arrangement.
+Canada Pension Plan (CPP) [9] Subsection 34(1) of the CPP regulations is a deeming provision that expressly broadens the definition of pensionable employment. Regulation 34(1) provides that:
+Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the . . . services are performed and the remuneration thereof is paid . . . are analogous to a contract of service, the . . . performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall . . . be deemed to be the employer of the individual.
+[10] Regulation 34(2) provides that a “placement or employment agency” includes:
+. . . any person or organization that is engaged in the business of placing individuals in employment or for performance of services or of securing employment for individuals for a fee, reward or other remuneration.
+[11] The absence of a comma before at least one of the phrases “or for performance of services or . . .” and “for a fee, reward or other remuneration” does leave the reader wondering whether there is, or is intended to be, a requirement for remuneration to the placement entity applicable in the case of one engaged in the business of “placing individuals in employment or for performance of services”. The same lack of clarity and precision exists in the French version.
+[12] However, on the facts of this case, the significance of there not being a comma does not affect the consideration of the argument of the Appellant’s representative that a placement or employment agency only describes a business that is paid a fee by the worker. That argument is clearly untenable and must fail on either interpretation. If the fee, reward or other remuneration requirement does apply, the language of the regulation clearly does not specify that it matters whether the remuneration is received from its worker or from its client and there would be no reason for me to read in any such restriction to this inclusive definition. If the fee, reward or other remuneration does not apply, then the Appellant’s argument cannot be advanced on the wording of the provision and, again, there would be no reason for me to read in any such language requiring a fee and requiring it to be from the worker.
+[13] For this reason, the Appellant’s first argument must fail with respect to the CPP. The only remaining issue under the CPP is to decide whether, on the facts of this particular case, the terms or conditions on which the worker’s services are performed and on which the remuneration is paid are analogous to a contract of service. It is not entirely clear whether the remuneration, the terms and conditions of which are to be considered are those applicable to the worker’s remuneration from the placement or employment agency or those applicable to the agency’s remuneration from its client. The French version is similarly unclear.
+Employment Insurance (EI) [14] Paragraph 6(g) of the EI Regulations provides that insurable employment includes:
+employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+[15] Notwithstanding that Regulation 6(g) refers to a worker who is placed in “employment” by the agency, it has been long and consistently held by the courts that the work relationship need not be one of employment to be deemed to be employment under this language. The word employment when used in the provision to describe a worker’s particular work relationship instead means work in its fullest sense, and includes a business, trade or occupation as well as the so‑called self-employed and independent contractors. It was clearly decided by a unanimous Supreme Court of Canada in The Queen v. Scheer Ltd., [1974] S.C.R. 1046, that contextually the word employment in this provision has a broader meaning than a contractual service relationship as the deeming rule would otherwise be effectively meaningless.[1] That decision of the Supreme Court of Canada is binding on this Court and is followed by it. See for example Alberta Defensive Driving School Inc. v. Canada, [2002] T.C.J. No. 490 (QL), and Carver PA Corporation v. M.N.R., 2013 TCC 125.
+[16] There is no definition of “placement or employment agency” in the EI Act or Regulations. In Carver PA, Justice Weisman considered this and chose to apply the CPP definition of the term “placement or employment agency” to the EI appeal as well as the CPP appeal in that case. He was of the view that the same definition should apply “to achieve as much consistency as possible between two provisions intended to address the same situation”. I am in full agreement with him. His approach also finds support in section 15 of the Interpretation Act (Canada) which provides that an interpretation section or provision in one act shall apply to all other enactments relating to the same subject matter unless a contrary intention appears.
+[17] Giving the term “placement or employment agency” the same meaning for EI purposes as it is given in the CPP means that the argument of the Appellant’s agent representative that Wholistic was not a placement or employment agency because it was not paid a fee by its workers must also fail for EI purposes. It does not matter how the business receives its fee, reward or other remuneration.
+[18] Since it is not disputed that Wholistic placed the worker with its clients and that Wholistic paid the worker for her services to its client, the remaining issue under Wholistic’s EI appeal is to decide whether, on the particular facts of this case, the worker was under the direction and control of Wholistic’s client when she performed her services for them. It must be noted that it is the direction and control of Wholistic’s client that must be considered under the EI Act, not the direction and control of Wholistic.
+CPP: Were the Terms and Conditions Analogous to a Contract of Service? [19] The terms and conditions relating to the performance of services and financial remuneration that are relevant in determining whether the particular work arrangement constitutes an employment relationship are well known and arise out of 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, and Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025. These considerations relate to considering factors of control over the work and the worker (including the extent of subordination of the worker), the provision of tools, materials, credentialing and equipment needed for the worker to do the work, and the extent of the worker’s financial upside and downside risks regarding the services provided by her.
+[20] These are the terms and conditions that need to be considered in a CPP placement or employment agency case. In determining if a work arrangement constitutes employment other than in a placement or employment agency case, these are to be considered in the context of determining whether the worker is truly in business for herself or is in an employment relationship. These were most recently considered by the Federal Court of Appeal in 1392644 Ontario Inc. (Connor Homes) v. Canada (National Revenue), 2013 FCA 85. Connor Homes also clarified the role of intention in an employment relationship determination. However, intention does not appear to be directly relevant in a CPP placement or employment agency case where the Court is required not to determine if the legal relationship is one of employment under a contract of service, but is specifically to consider whether the terms or conditions for providing services and for remuneration are analogous to those in employment under a contract of service. It can be noted that the contract between Wholistic and Ms. Dunkley, and their respective questionnaires completed for CRA in connection with its review of Wholistic’s administrative appeal of the rulings, confirm that it was the intention and the understanding of both that the relationship was to be one of independent contractor and not of employment.
+Control [21] Paragraph 2 of the worker’s agreement with Wholistic, headed “Services”, provides that the worker will “provide health care support to [Wholistic] and any or all of its clients as directed by [Wholistic]”. It continues that the worker “shall take direction(s) from [Wholistic] or from others as directed by [Wholistic]”.
+[22] The agreement provides that the worker could not provide her services to others unless the other company did not compete with Wholistic and the work would not interfere with her obligations to Wholistic. The agreement provided that any services to be provided by the worker to others had to be brought to Wholistic’s attention well in advance and required Wholistic’s prior written approval. Ms. Dunkley did not work for others while she worked for Wholistic.
+[23] While there is language in the agreement that says subcontracting by the worker is permitted in limited circumstances, which include obtaining the prior written permission of Wholistic, it is clear from the evidence of both witnesses that this was not in fact the case. Rather, the worker only had the right to make a Wholistic colleague aware of a shift availability that had been offered to her and which she declined or needed to rearrange, after which the colleague would have to deal directly with Wholistic. In addition, the worker could only recommend to Wholistic a qualified person not already under contract with Wholistic. Wholistic would then complete the credential and qualification review and interview process, and any shifts to be offered to the person would be offered and arranged directly by Wholistic in the ordinary course.
+[24] This contractual language gives Wholistic the right to direct how the worker provides her services, and allows Wholistic to have those directions provided by its clients. This is similar to the situation in Loving Home Care Services Ltd. v. M.N.R., 2014 TCC 71, affirmed by the Federal Court of Appeal, 2015 FCA 68, and in Dean (Ana’s Care & Home Support) v. M.N.R., 2012 TCC 370. In those cases, the direction and control of the appellants’ workers by their clients constituted direction and control by the appellants. Wholistic has contracts in place with its clients which provide for the degree of control of the client over the performance of services by the Appellant’s workers, which is contemplated in the Appellant’s contracts with its workers. In essence, the clients’ direction and control of the work in such circumstances also constitute direction and control by the Appellant since it is the Appellant who has a contractual relationship with the workers.
+[25] Wholistic also had a written contract with its clients. Neither side chose to put a Wholistic client contract into evidence. However, the Vice‑President of Wholistic testified that Wholistic’s client contracts specify the levels of control that Wholistic and its clients have over the worker.
+[26] It is clear from the evidence that Wholistic could not control the worker’s hours. Wholistic’s worker was clearly free to accept or decline any offered shift. No reason was required to be provided. Ms. Dunkley accepted virtually all (98%) of the shifts offered to her by Wholistic. Once she accepted a shift she was committed to take it and the agreement provided for notice of any need to cancel an accepted shift and a financial penalty potentially applicable thereto. The worker could not send somebody else and pay that person directly, nor could she send someone else to be paid directly by Wholistic. I have described how the evidence negates any suggestion in the worker’s contract that she could.
+[27] There are no set full‑time or part‑time hours, nor an expectation of a regular schedule assigning hours for upcoming periods. This absence of fixed or assigned hours is the greatest departure from any of the terms or conditions of work which one commonly expects in an employment relationship. This would be consistent with what is effectively often referred to as casual employment, where there are no obligations on the business providing the work to offer work, nor is there an obligation on the worker to accept work. Instead, work hours, shifts or the work periods would be set by agreement with varying degrees of notice. There would be no obligations in either direction to offer or accept work.
+[28] When shifts were offered with a client, Wholistic would give the worker a brief description of the client’s setting and the nature of the needs and limitations of the individuals to be cared for so workers could make informed decisions. Once an offered shift was accepted by the worker, Wholistic did not directly exercise any control over the performance of the worker’s services during her work period.
+[29] At the Wholistic client’s premises, which was almost always a group home, occasionally a school board and, according to the worker, was occasionally a private residence setting, the worker was told by the client what specifically she was responsible to do that day.
+[30] At the group home, most of the workers were working for the group home operator and were not outside relief workers. The workers would always receive instructions at the start of any shift. There was always a Shift Coordinator at the home who, in consultation with the shift’s workers, instructed and decided what each worker was to do throughout the shift. In addition to caring for a particular individual, tasks would include meal preparation for a pre‑planned menu, counting and recording of petty cash, individual clients’ cash, bus tickets, and sharps and cutlery, house cleaning, medication administration,[2] shopping, etc. These other tasks take up about a third of the worker’s time during a shift.
+[31] Each individual in care had their own set daily schedule for the week that had been prepared professionally without input from Wholistic or its workers which set out what the individual was to do and the order of doing it. The worker’s responsibility was to assist that individual understand, follow and perform those tasks. These schedules for the cared for individuals were set out on a daily basis as part of a one-week or two-week largely recurring schedule. There was also a Supervisor responsible for each shift, though that Supervisor was not necessarily present throughout each shift. The Supervisor appointed the Shift Coordinator. There was a logbook or movement log for each individual in care which the worker was required to complete for each shift she worked. There was also an overall logbook or communication book for the group home in which the worker was required to record her arrival and departure times and in which the Shift Coordinator wrote a summary at the end of each shift which was sent to the Supervisor.
+[32] At the start of her shift, the worker would speak with the worker whom she was relieving at the start of her shift about the individual in care.
+[33] If there was any problem on the shift, the group home or other client would notify Wholistic — there were never any such incidents with Ms. Dunkley.
+[34] Ms. Dunkley could not complete her assigned tasks and leave early, she was required to remain until the end of a shift, and she always did.
+[35] The terms applicable to a Wholistic worker’s performance of services were otherwise the same as those applicable to the group home’s regular workers. It is not known if the group home’s workers were employees, but Ms. Dunkley referred to them as employees.
+[36] In the case of a school, the worker said she would take her direction from the teacher. If a home, she said it would be from the parents.
+[37] Generally, how she completed supporting, guiding and assisting an individual in each task was largely left to her professional training and experience, provided she followed the client’s policies.
+[38] The workers’ hours were tracked by Wholistic, its clients and its workers.
+[39] With the exception of the lack of fixed full-time or part-time hours, and of the right of a company to assign work hours or shifts to the worker, Wholistic’s control over its workers, which includes the direction and control of the worker by its clients, is all entirely consistent with, and analogous to, the terms and conditions of employment under a contract of service.
+[40] Further, the existence of fixed full-time or part-time hours or the right to assign work hours or shifts is not always present in employment relationships. That is often the case for casual workers — they only work the shifts offered that they agree to.
+[41] Upon review, the terms and conditions governing the control of the worker’s performance of the services to Wholistic’s clients were overwhelmingly analogous to those under a contract of service.
+Tools [42] The worker did not need to bring any tools to work. Wholistic did not provide her with any tools either. All needed materials, supplies, tools, etc. were provided by the group home, school or family.
+[43] Wholistic’s workers were responsible for obtaining and maintaining their own qualifications and credentialing. In addition to their college or university certification or degree as Child and Youth Worker, Personal Support Worker, Direct Care Worker or Social Service Worker, a client’s setting might also require police and vulnerable persons’ checks, crisis prevention and intervention, and safe conflict, anger and aggression management type training courses and certification which also were the worker’s responsibility to obtain and maintain. Wholistic did take responsibility in its contract with its clients to ensure their workers were trained and qualified. This is also highlighted a number of times on its website material.
+[44] The worker was required by Wholistic to have a telephone to communicate offers and acceptance of shifts. Wholistic’s workers were not required to take their phones to work as Wholistic presumed each workplace would have a landline to be used for work-related calls including emergencies. Ms. Dunkley did take her phone with her and would have used it if an emergency presented itself.
+[45] There was no uniform required to do the work. Ms. Dunkley wore sensible work clothes and sensible shoes. At least one group home operator mandated closed-toe shoes.
+[46] The worker was responsible for getting herself to and from the client’s premises for each shift. On occasion, when there were timing constraints with respect to an offered shift, Wholistic would offer to pay for a taxi to work. This happened very rarely.
+[47] The worker was required to have access to a computer or fax to deliver an invoice of her hours to Wholistic on a twice‑monthly basis.
+[48] On balance, these sorts of tool‑related considerations are often not very helpful in determining whether or not a worker is an employee. They are however commonly present in this manner in relationships that are recognized as employment.
+Profit and Loss/Financial Considerations [49] The worker’s hourly rate of pay was set at $16 in the agreement, an amount that was acceptable to Wholistic and her. It increased in June in one of the years reviewed to $17 per hour. The worker could only make money by working for Wholistic. She could not lose money since she had virtually no extra work-related expenses beyond showing up at the work site qualified and dressed to work. She could only make more money by working more shifts.
+[50] She was paid on a twice‑monthly basis by direct deposit from Wholistic. While the contract suggests she would only be paid as Wholistic’s clients paid Wholistic for her services, the evidence is that this was not the case in practice. There was no evidence whatsoever of the financial or payment terms between Wholistic and any of its clients.
+[51] These terms and conditions of remuneration are also overwhelmingly analogous to remuneration under a contract of service.
+[52] With respect to the CPP appeal, I conclude that it must be dismissed as the CPP provisions which deem workers to be in pensionable employment with a placement or employment agency are met by Wholistic and its work relationship with its worker.
+EI: Was the Worker Under the Direction and Control of Wholistic’s Client? [53] The evidence of control by Wholistic’s client over the performance of services by the worker for the client is summarized above under the CPP subheading “Control”.
+[54] Wholistic’s contract with the worker provides that she will provide health care support to Wholistic and its clients as directed by Wholistic and will take direction from Wholistic or others as directed by Wholistic. The direction from Wholistic to the worker was to do what its clients directed and Wholistic exercised no direct control over the performance of the services at the clients’ premises. According to Wholistic’s Vice‑President, its contracts with its clients specify the level of control that Wholistic and the client has over the work. She said Wholistic had zero control. Neither party put a client contract in evidence. Since she said Wholistic has zero control over the performance of the services, I can infer that the contract with the client specifies that the client exercises that control. That is consistent with the evidence from both witnesses regarding the worker’s on‑site performance of services at the clients’ premises.
+[55] Clearly the existence of the group home’s Supervisor, the coordination of all shifts including the assignment of individuals to be cared for and tasks to be performed by the Shift Coordinator, and the existence of a pre-determined schedule of tasks and activities for each individual cared for with guidelines on how tasks are to be done, the required reporting and communication through the log, shift, activity and communication books relating to the shift and relating to the individual cared for, clearly collectively place Wholistic’s workers under the direction and control of its clients’ group homes.
+[56] The worker said that in a school setting she would take overall direction from the teacher in providing her support to an individual at school. Similarly she said that parents provided this in a private home setting.
+[57] With respect to the EI appeal, I conclude that the evidence clearly establishes it must also be dismissed as Wholistic placed its worker with its clients to provide services to them, Wholistic paid the worker for her services, and the worker performed those services under the clients’ direction and control.
+[58] Both appeals are dismissed.
+Signed at Ottawa, Canada, this 9th day of February 2016.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2016 TCC 34
+COURT FILE NOS.:
+2014-2870(EI)
+2014-2871(CPP)
+STYLE OF CAUSE:
+WHOLISTIC CHILD AND FAMILY SERVICES INC. v. M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 13, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+February 9, 2016
+APPEARANCES:
+Agent for the Appellant:
+Mohsen D. Ameli
+Counsel for the Respondent:
+John Chapman
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The provisions of the EI Act authorizing the making of such regulations expressly contemplate employment that is not under a contract of service.
+[2] Wholistic staff do not administer medication.

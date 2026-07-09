@@ -1,0 +1,94 @@
+Title: 781426 Alberta Ltd v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25950/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-554-25950-781426-alberta-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-09-16
+
+# 781426 Alberta Ltd v. M.N.R.
+
+- Citation: 2004 TCC 554
+- Decision date: 2004-09-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3683, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+781426 Alberta Ltd v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-16
+Neutral citation
+2004 TCC 554
+File numbers
+2003-2453(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2004TCC554
+Date: 20040916
+Docket: 2003-2453(EI)
+BETWEEN:
+781426 ALBERTA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Calgary, Alberta, on June 15, 2004)
+[1] This appeal was heard at Calgary, Alberta, on June 14, 2004. Peter Woloshyn, former manager of the Appellant, was the only witness.
+[2] The appeal only concerned the alleged employment of Ted Wynker by the Appellant in 2001 and 2002 which carried on business in Calgary as Bowest RV ("Bowest") until the business was sold on June 1, 2002. Paragraphs 7 and 8 of the Reply to the Notice of Appeal outline the matters in dispute. They read:
+7. In so assessing as the Minister did with respect to the Worker, the Minister relied on the following assumptions of fact:
+(a) the Appellant was in the business of recreational vehicle ("RV") repairs and van conversions;
+(b) the Worker was hired as a labourer and he assisted the Appellant's RV technicians (hereinafter "the Technicians");
+(c) the Worker's duties included removing old fridges, plumbing, electrical parts, control panels and batteries;
+(d) the Worker received training, on the job, on how to repair RVs;
+(e) the Worker did not enter into a written contract with the Appellant;
+(f) the Worker earned a set wage of $10.00 per hour;
+(g) the Appellant's regular business hours were 8:00 AM to 5:00 PM with extended hours during the summer months;
+(h) the Appellant set and controlled the Worker's hours of work;
+(i) the Worker worked whatever hours were required to complete the work;
+(j) the Worker kept track of his hours and submitted a record to the Appellant;
+(k) the Worker was in a position of subordination;
+(l) the Worker was supervised and directed by the Appellant and the Technicians;
+(m) the Worker was instructed on how to perform his duties;
+(n) the Worker's performance and quality of work were monitored by the Appellant;
+(o) the Worker's personal service was required;
+(p) the Worker did not hire his own helpers;
+(q) the Worker performed his services at the Appellant's shop;
+(r) the Appellant provided the work location including a furnished shop, power tools and hand tools;
+(s) the Worker provided some of his own hand tools;
+(t) the Worker did not incur any expenses in the performance of his duties for the Appellant;
+(u) the Worker was not liable for errors or negligence;
+(v) the Worker did not charge the Appellant G.S.T., and
+(w) wages paid by the Appellant to the Worker, for the 2001 and 2002 years, were as follows:
+2001 $8,240.00
+2002 $1,510.00
+B. ISSUES TO BE DECIDED
+8. The issue to be decided is whether the Worker was employed under a contract of service with the Appellant during the 2001 and 2002 years.
+[3] Assumptions 7 (a), (f), (g), (i), (j), (o), (p), (q), (r), (s), (t), (v) and (w) were not refuted. As to the rest:
+(b) The Worker was hired as an experienced non-technical repairman and worked on his own in the Appellant's premises and largely with the Appellant's tools.
+(c) His duties were to attach trailer hitches, do repairs and minor mechanical work and do the duties assumed therein.
+(d) He did not require any training, rather he was hired as an experienced worker.
+(e) The Worker and the Appellant had a written contract which is in exhibit.
+(h) The Worker was telephoned by Mr. Woloshyn to come into the Appellant's premises each day he worked and told to do specific work-ordered jobs for an hourly rate of pay.
+(k) The Worker was issued instructions by Mr. Woloshyn in the form of work-orders for specific jobs.
+(l) The Worker was supervised by Mr. Woloshyn, but not by other technicians.
+(m) He did not have to be told how to perform his duties.
+(n) The Worker's time spent on a specific job was monitored based on Mr. Woloshyn's work-order estimate of the time required, but his actual performance and quality of work were not monitored. Rather, based on his experience and capabilities, he was expected to do work at a standard quality.
+(u) Is essentially correct.
+[4] Using the criteria in Wiebe Door Services Ltd. v. MNR, [1986] 3 F.C. 553, the Court finds:
+1. Control: Bowest assigned the work. The Worker could not send a substitute in his place. If the Worker was slow in doing a work order, Mr. Woloshyn checked on his work.
+2. Tools and Equipment: The Worker largely used the Appellant's tools and premises, although he had a set of tools.
+3. Profit and Loss Chances: The Worker was hired and paid at an hourly rate to work on a piece-work basis. His risk of loss was that no work would be available.
+4. Integration: The business was Bowest's as were the customers. The Worker was completely integrated into its operations.
+[5] On the foregoing basis, the Worker was an employee of the Appellant. The appeal is dismissed.
+Signed at Vancouver, British Columbia, this 16th day of September 2004.
+"D.W. Beaubier"
+Beaubier, J.

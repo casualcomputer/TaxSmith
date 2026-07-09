@@ -1,0 +1,116 @@
+Title: Persaud v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65213/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-405-65213-persaud-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-12-13
+
+# Persaud v. The Queen
+
+- Citation: 2013 TCC 405
+- Decision date: 2013-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5912, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Persaud v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-13
+Neutral citation
+2013 TCC 405
+File numbers
+2013-1510(IT)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1510(IT)APP
+BETWEEN:
+STEPHEN PERSAUD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on July 17, 2013 at Toronto, Ontario
+By: The Honourable Justice Judith M. Woods
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Ernesto Caceres
+____________________________________________________________________
+ORDER
+Upon application by Stephen Persaud for assistance “getting my 2007 objection to be on file,” the application is dismissed.
+Signed at Toronto, Ontario this 13th day of December 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 405
+Date: 20131213
+Docket: 2013-1510(IT)APP
+BETWEEN:
+STEPHEN PERSAUD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] This matter concerns an application by Stephen Persaud which requests the following relief:
+Please use your good office and assist me getting my 2007 objection to be on file.
+[2] Upon review of the application, it appears that Mr. Persaud is seeking confirmation that he had filed a valid notice of objection within the time prescribed. The relevant excerpt from the application is reproduced below.
+I filed two objections. In September 2010. One of the objection was for the year 2006 and the other was for the year 2007. Both objections were sent to the Markham Office On September 2010 revenue Canada stated that they only received 2006 objection but not the 2007 objection. I did not resend a new objection for 2007 because I had already objections for both years. Many calls were made to Revenue Canada to explain that I had already send my2007 objection.
+Preliminary matter
+[3] Although Mr. Persaud submits that a notice of objection was filed on time, the Registry of the Court opened the file as if Mr. Persaud was seeking an application to extend time to serve a notice of objection. In its Reply, the Crown responded to an application to extend time rather than replying to the assertions in Mr. Persaud’s application. This is unfortunate.
+[4] The manner in which the file was opened by the Registry seems odd, but the Court does not have jurisdiction to grant declaratory relief, which appears to be the relief that Mr. Persaud seeks.
+Background facts
+[5] By letter dated September 15, 2010, the Canada Revenue Agency (CRA) informed Mr. Persaud that they had completed an audit of his claim for a charitable gift to the Global Learning Gifting Initiative 2007. Mr. Persaud was informed that no amount would be allowed as a charitable gift.
+[6] Mr. Persaud testified that on receipt of this letter, he decided to file a similar notice of objection that he had filed for the immediately preceding taxation year and which also involved the disallowance of a charitable donation. The objection for the 2007 taxation year was dated September 30, 2010 and was sent by ordinary mail around that time. A copy of the notice of objection was attached to Mr. Persaud’s application to this Court.
+[7] Although the notice of objection references a reassessment dated September 15, 2010, this is the date of the CRA letter and not the date of the notice of reassessment. The notice of reassessment was issued a few months later on January 24, 2011.
+[8] The CRA never acknowledged to Mr. Persaud that it had received the notice of objection dated September 30, 2010. The reason for this is not known, and as mentioned earlier the Reply did not specifically address Mr. Persaud’s submission that a notice of objection had been sent on September 30, 2010.
+[9] Subsequent to the issuance of the reassessment and after the time period for objecting had expired, the CRA sent many requests to Mr. Persaud to pay the amount outstanding. Mr. Persaud testified that he called the CRA many times and advised them that a notice of objection had already been filed. He stated that he left voice mails and that he never received a response. Things came to a head when the CRA issued a garnishment in 2013, which eventually led to this application being filed.
+Discussion
+[10] Based on the evidence as a whole, I accept Mr. Persaud’s testimony that he mailed a notice of objection to the CRA on or around September 30, 2010. It is not known what happened to this document, because receipt was never acknowledged by the CRA. I would conclude that it is more likely than not that the document was received by the CRA. It may have been that the CRA did not respond to the document because the reassessment had not yet been issued.
+[11] Counsel for the Crown submits that this document is not a notice of objection to the reassessment issued by notice dated January 24, 2011 because the objection did not refer to this reassessment.
+[12] In my view, this is too narrow an interpretation of subsection 165(1) of the Income Tax Act, which is the provision which permits the filing of a notice of objection.
+[13] Subsection 165(1) provides:
+165.(1) Objections to assessment - A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of sending of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of sending of the notice of assessment.
+[14] The document sent by Mr. Persaud refers to a reassessment dated September 15, 2010. This is the date of the letter that precedes the reassessment and which informs Mr. Persaud that the charitable gift is disallowed. It is clear that Mr. Persaud intends to object with respect to this issue. A reasonable interpretation of the document is that Mr. Persaud was objecting to the reassessment that implemented the disallowance.
+[15] Where does that leave us? I would conclude as follows:
+1. The notice of objection dated September 30, 2010 is, in my view, a validly-served notice of objection to the reassessment that was subsequently issued by notice dated January 24, 2011.
+2. It is not possible for this Court to grant the declaratory relief that Mr. Persaud seeks. Since this Court has no authority to declare the notice of objection valid, I must dismiss Mr. Persaud’s application.
+3. Although Mr. Persaud does not seek an application to extend time, I would comment that there is no basis to grant an extension of time on the facts of this case.
+[16] In the result, an order will be issued which dismisses Mr. Persaud’s application. However, I would hope that the CRA will recognize the document mailed on September 30, 2010 as a notice of objection to the reassessment issued by notice dated January 24, 2011.
+Signed at Toronto, Ontario this 13th day of December 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 405
+COURT FILE NO.: 2013-1510(IT)APP
+STYLE OF CAUSE: STEPHEN PERSAUD and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 17, 2013
+REASONS FOR ORDER BY: The Honourable Justice J.M. Woods
+DATE OF ORDER: December 13, 2013
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Ernesto Caceres
+COUNSEL OF RECORD:
+For the Applicant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,228 @@
+---
+title: "Harding v. The Queen"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/520193/index.do"
+last_modified: "2022-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 3"
+citation2: ""
+neutral_citation: "2022 TCC 3"
+decision_date: "2022-01-11"
+language: "en"
+item_id: "520193"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5484
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:07:09.888000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ad161e67eec8096c4acda66194b953f43b279366bb210933d2b2dde07b1295b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Harding v. The Queen
+
+- Citation: 2022 TCC 3
+- Decision date: 2022-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5484, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harding v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-01-11
+Neutral citation
+2022 TCC 3
+File numbers
+2018-3496(IT)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3496(IT)G
+BETWEEN:
+BOYD B. HARDING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 1, 2021, at Fredericton, New Brunswick
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+John D. Townsend, Q.C.
+Peter Ashfield
+Counsel for the Respondent:
+Rhoda Lemphers
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 2013 taxation year is allowed, only to the extent conceded by the Respondent, and the appeal from the reassessments for the 2014 and 2015 taxation years is dismissed. Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 11th day of January 2022.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Citation: 2022 TCC 3
+Date: 20220111
+Docket: 2018-3496(IT)G
+BETWEEN:
+BOYD B. HARDING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Introduction
+[1] This is an appeal from reassessments made under subsection 15(1) of the Income Tax Act (Act) [1] for the 2013, 2014 and 2015 taxation years. Subsection 15(1) provides that when a corporation has conferred a benefit upon a shareholder, the value of the benefit is included in the shareholder’s income.
+[2] The Appellant, Mr. Boyd B. Harding, is a very successful businessman. He is the sole shareholder and sole director of 654818 N.B. Ltd. (654), a holding company, which in turn is the majority shareholder of Boyd B. Harding Ltd. (BBH Ltd.). Mr. Harding is a shareholder and the sole director of BBH Ltd., [2] which carries on a logging business and generally has an annual income of approximately 18 million dollars and profit of approximately 1 million dollars.
+[3] During the relevant taxation years, BBH Ltd. paid premiums in respect of insurance policies that insured the Appellant’s life and that of his spouse and for which, at times, the beneficiaries were his spouse and stepchildren. The premiums were never reimbursed to BBH Ltd. The parties agree that the Appellant did not deal at arm’s length with the beneficiaries. They further agree that the Appellant’s spouse was, at no time, a shareholder or a key employee of either BBH Ltd. or 654.
+[4] The Minister of National Revenue (Minister) reassessed Mr. Harding to include shareholder benefits in his income, in respect of the insurance premiums, in the amounts of $152,116.41, $228,925.09 and $140,973.01 for the 2013, 2014 and 2015 taxation years respectively. The Respondent acknowledged that the amount for the 2013 taxation year should be reduced to $106,703.26. [3]
+II. Issue
+[5] The issue in this appeal is whether the Minister was correct in including shareholder benefits in the Appellant’s income for the relevant taxation years. More precisely, the question is whether BBH Ltd. conferred a benefit upon the Appellant within the meaning of subsection 15(1) of the Act when it paid the premiums on the insurance policies, two of which insured the life of his spouse and all of which named his spouse or his stepchildren as beneficiaries.
+III. Analysis
+[6] In a Partial Statement of Agreed Facts (Partial Statement), the parties provided a detailed account of the changes made to the ownership and the beneficiaries of four insurance policies that are relevant to this appeal and which I will refer to as Policies 113, 114, 115 and 116. [4] Schedules A, B, and C, attached to the Partial Statement, detail the owners, the insured and the beneficiaries of the four policies as well as the premium payments made by BBH Ltd. in each of the 2013, 2014 and 2015 taxation years. Schedules A, B and C are attached to these reasons.
+[7] Acknowledging that, in the Amended Reply to Notice of Appeal, the Respondent conceded that the amount assessed for 2013 must be reduced, the amounts of insurance premiums that were assessed as shareholder benefits are otherwise not in dispute. In addition, in their Partial Statement, the parties agreed on the dates on which several changes were made to the owners or the beneficiaries of the four insurance policies. Hence, it is not necessary to delve into the minute details of the policies and the numerous changes made to them over several years. It is sufficient to summarize the relevant facts for each policy as follows: [5]
+Policies 113, 114 and 115 became effective at various times in 2010 while Policy 116 became effective in 2011. [6]
+Policy 113 was cancelled in December 2014 and Policy 116 was cancelled in November 2015.
+Life Insured:
+o Policy 113 and Policy 116 insured the life of Deborah Harding, the Appellant’s spouse, for $400,000 and $4,000,000 respectively.
+o Policy 114 and Policy 115 insured the life of the Appellant, for $2,000,000 each.
+Beneficiaries:
+o Policy 113: The Appellant’s stepchildren were the beneficiaries throughout the entire life of the policy.
+o Policy 114: As of July 18, 2013, and until November 21, 2015, Deborah Harding was a 75% beneficiary; 654 was the beneficiary of the remaining 25%. [7]
+o Policy 115: As of July 18, 2013, and until November 21, 2015, Deborah Harding was the sole beneficiary. [8]
+o Policy 116: As of July 18, 2013, and until November 26, 2014, the Appellant’s stepchildren were 75% beneficiaries; 654 was the beneficiary of the remaining 25%. [9]
+[8] The Appellant testified that Nicole Haley, sometimes referred to as Nicole Geneau, [10] his stepdaughter and a licensed insurance broker, was responsible for his insurance portfolio and made various changes to the beneficiary designations without his knowledge. The Appellant asserted that he did not know that there was a policy insuring the life of his spouse nor did he know that his spouse or his stepchildren were beneficiaries of any of the policies. Consequently, in the Appellant’s view, it cannot be said that BBH Ltd. intended to confer a benefit upon him. Hence, he submits, it follows that there could be no shareholder benefit conferred upon him pursuant to subsection 15(1) of the Act.
+[9] The Respondent argues that the Appellant knew or ought to have known about the insurance policies, including who would be positioned to receive a payment on the event of the insured’s death. The Respondent submits that notwithstanding the Appellant’s possible lack of knowledge, given that he ought to have known, it does not preclude a finding that BBH Ltd. conferred a benefit upon him pursuant to subsection 15(1) when it paid the premiums on policies with his family members as beneficiaries.
+[10] The relevant portion of subsection 15(1) of the Act reads as follow:
+15 (1) If, at any time, a benefit is conferred by a corporation on a shareholder of the corporation, …, then the amount or value of the benefit is to be included in computing the income of the shareholder, …, for its taxation year that includes the time, except … [11]
+[Emphasis added]
+[11] The purpose of subsection 15(1) of the Act is to “sweep in” payments and advantages that flow to a shareholder other than by the traditional dividend route and that might flow to the shareholder by the more usual dividend route if the corporation and the shareholder were dealing at arm’s length. [12]
+[12] In this case, it is not disputed that the Appellant was not dealing at arm’s length with BBH Ltd. and further, it is admitted that the Appellant did not deal at arm’s length with the beneficiaries of the insurance policies.
+[13] The core issue in this appeal is whether BBH Ltd. conferred a benefit upon the Appellant by paying the insurance premiums for insurance policies 113, 114, 115 and 116 at the time when the beneficiaries included his spouse and stepchildren during the relevant taxation years.
+[14] In Pillsbury Holdings Ltd. v MNR, the Exchequer Court provided guidance on the meaning of confer. In an oft-quoted paragraph, the Court wrote as follows:
+There must be a “benefit or advantage” and that benefit or advantage must be “conferred” by a corporation on a “shareholder.” The word “confer” means “grant” or “bestow.” Even where a corporation has resolved formally to give a special privilege or status to shareholders, it is a question of fact whether the corporation’s purpose was to confer a benefit or advantage on the shareholders or some purpose having to do with the corporation’s business such as inducing the shareholders to patronize the corporation. If this be so, it must equally be a question of fact in each case where the Minister contends that what appears to be an ordinary business transaction between a corporation and a shareholder is not what it appears to be but is in reality a method, arrangement or device for conferring a benefit or advantage on the shareholder qua shareholder. [13]
+[Emphasis added]
+[15] In Laliberté v Canada, [14] the Federal Court of Appeal recognized that it had adopted the analysis in Pillsbury in several decisions. In summarizing some of the key principles established in Pillsbury, the Federal Court of Appeal acknowledged that the requisite inquiry is inherently factual and that a benefit is conferred when a corporation enters into transactions that are not bona fide business transactions but rather transactions entered into for a personal purpose. [15]
+[16] In his submissions, the Appellant’s counsel acknowledged that there was no legitimate business purpose for the insurance policies. [16] He referred to the testimony of Mr. Frederick H. McCain, the accountant for the Appellant and his companies. Mr. McCain stated, “there should not be a policy with a non-corporate beneficiary” because “it’s not necessary for business” and “it’s just not appropriate.” [17] He expressed a clear view that insurance policies with the Appellant’s spouse or her children as the beneficiaries did not have a business purpose, did not make business sense and were not appropriate. I find that the payments on insurance policies that had the Appellant’s spouse and stepchildren as beneficiaries were not bona fide business transactions.
+[17] The Appellant acknowledged that the payment by BBH Ltd. of the premiums on the life insurance policies at issue constitutes a benefit within the meaning of subsection 15(1) of the Act. [18] However, he submitted that there was no intention on the part of BBH Ltd. to confer a benefit on the Appellant and consequently, there is no shareholder benefit under the Act. The Appellant’s counsel sought to rely on the Federal Court of Appeal’s decision in Canada v Chopp [19] in support of this position.
+[18] In Canada v Chopp, the Federal Court of Appeal cited with approval the following statement from the decision of the Tax Court of Canada:
+I think a benefit may be conferred within the meaning of subsection 15(1) without any intent or actual knowledge on the part of the shareholder or the corporation if the circumstances are such that the shareholder or corporation ought to have known that a benefit was conferred and did nothing to reverse the benefit if it was not intended. I am thinking of relative amounts. If there is a genuine bookkeeping error with respect to a particular amount, and that amount is truly significant relative to a corporation's revenue or its expenses or a balance in the shareholder loan account, a court may conclude that the error should have been caught by some person among the corporate employees or shareholders or outside auditors. Shareholders should not be encouraged to see how close they can sail to the wind under subsection 15(1) and then plead relief on the basis of no proven intent or knowledge.” [20]
+[Emphasis added]
+[19] The Appellant’s representative asserted that in the circumstances of this case, the amounts of the premiums were not significant in accountants’ terms, there was no method, arrangement or device for conferring a benefit on the shareholder and it was simply an error, one facilitated by a trusted family member. If I understood his argument, all of this goes to show there was no intention to confer a benefit upon the Appellant.
+[20] I adopt Justice Mogan’s view expressed in Chopp, approved by the Federal Court of Appeal, that a benefit may be conferred without intent or actual knowledge on the part of the shareholder and that it is open to the Court to conclude that the circumstances are such that the shareholder ought to have known. If the Appellant did not know, the question then becomes whether he ought to have known that a benefit was conferred upon him.
+[21] The Appellant testified he did not know that there were policies insuring his wife and further, he testified that he did not know that his wife or his stepchildren were beneficiaries of the insurance policies in issue. The Appellant submits that his stepdaughter Nicole, who schemed chicanery upon him and sold him inappropriate insurance policies, duped him and had the beneficiaries changed to benefit herself and her siblings. I note that Nicole was not called to testify, nor were the other stepchildren. I will now review the evidence introduced at trial, in particular the evidence that relates to financial statements and beneficiary designation forms.
+[22] Mr. McCain testified that he and the Appellant had signed the financial statements for BBH Ltd. for the 2013, 2014 and 2015 taxation years. During his testimony, the Appellant acknowledged that he signed these financial statements. Mr. McCain added that in his role as the accountant for the Appellant and his companies, he “performed a review of [the Appellant’s] financial statements for all of his companies on an annual basis.” [21] Mr. McCain asserted that he had reviewed the financial statements with the Appellant at the time of signing.
+[23] BBH Ltd.’s financial statements for the 2013, 2014 and 2015 taxation years were entered into evidence. The insurance expenses are $149,760, $315,376 and $150,420 for each of the three years respectively and of the 19 expense items, they are among the top 6, 5 and 6 expense items for each respective year. [22] Although the insurance premiums represent a small portion of the total expenses for BBH Ltd., a perusal of the numbers for the 19 expense items when reviewing and signing the financial statements would have revealed the significance of the amounts paid in insurance premiums.
+[24] Mr. McCain acknowledged that he also prepared the financial statements for 654 and was aware that BBH Ltd. paid the premiums on the insurance policies and that these expenses were then transferred to 654. [23] Mr. McCain acknowledged that these expenses appeared on the financial statements and the T2 returns for 654, both of which the Appellant reviewed and signed. He testified that would have been the process for all three taxation years in issue. Mr. McCain confirmed that the insurance premium expenses were “[a]bsolutely” the largest amount of expenses listed on 654’s financial statements and that “[t]here was very little else.” [24] I find that the insurance expenses were significant relative to the expenses of BBH Ltd. and even more so for those of 654.
+[25] According to the 2013 and 2014 Life Insurance Anniversary Statements for Policies 115 and 116 entered into evidence by the Respondent, the Co-operators Life Insurance Company addressed and sent insurance documents to 654. [25] I note that these statements identified the life insured as well as the beneficiaries, which included the Appellant’s wife or his stepchildren. [26] An Annual Statement dated July 27, 2015, for Policy 114 is also addressed to 654. [27]
+[26] Mr. McCain testified at length about how he got involved in the inquiries being made about the Appellant’s insurance issues. In cross-examination, Mr. McCain stated that he normally was not involved in providing any advice to the Appellant about insurance policies. I will not review all of the information in the various email chains to which Mr. McCain testified. Keeping in mind that they contain a significant amount of hearsay, I think it is fair to summarize them as providing evidence that Mr. McCain was involved in trying to get information about the insurance policies in 2015 and 2016. He testified that he thought the issue came to light in late 2014 and that things were sorted out before BBH Ltd. was audited around April 2016.
+[27] Mr. McCain testified that he first thought something was amiss regarding the insurance policies when Mr. David Reid, the Appellant’s investment advisor, noted that the insurance costs seemed to be high. Email correspondence in October 2015 between Mr. McCain and Mr. Reid suggests that Mr. McCain was making inquiries to others about the insurance policies to determine the rationale for the amount of insurance. I note that in this email correspondence, Mr. McCain writes that he left messages for the Appellant but had received no reply. [28] In other email correspondence from Mr. Reid regarding why the Appellant’s spouse was insured for 4 million dollars, Mr. McCain wrote that the Appellant was “a bit secretive (if that is the word) about this stuff.” [29] Mr. McCain testified that information from Nicole was not forthcoming and that he eventually received information about the insurance policies in October 2015 from Adam Hambrook, an agent for the Co-operators. It was not made clear in evidence why the Appellant, as the sole director of both BBH Ltd. and 654, could not insist on getting copies of the insurance policies and related documents from the Co-operators if Nicole, as the agent, was not providing access to these documents when the Appellant’s advisors started asking questions.
+[28] The Appellant testified that Mr. McCain had suggested he buy insurance for the company for tax purposes. He stated that he engaged Nicole to do work on his behalf in 2013 and upon further questioning from his counsel, suggested that it was probably earlier than that. The Appellant testified that he gave Nicole verbal instructions to get the policy recommended by Mr. McCain. He denied ever telling Nicole to make the stepchildren beneficiaries under the policies and said that when he found out about that, he almost fell off his chair.
+[29] The Appellant’s testimony regarding the insurance documents, where they were received, where they were kept and whether he reviewed them was not entirely clear. I appreciate that time had passed between the occurrence of the events and his testimony but I must say that the Appellant had a poor recollection of details including relevant dates. In response to questions from his counsel, he stated that he did receive annual information from the Co-operators “for ’13, ’14, ’15, around that time.” [30] He said that later, Nicole had the insurance documents sent to her address. At one point during his testimony, the Appellant stated that he did not bring home any documents other than investment documents but at another point, he stated that Nicole had come to his home to retrieve insurance documents. [31] The Appellant stated that he did not read the insurance documents.
+[30] Ms. Harding confirmed that the Appellant brought documents home, including documents from the Co-operators and stated that he would say, “File it away. This is private.” [32] She would file the documents in a small filing cabinet in her home office. Ms. Harding testified that, in December 2014, Nicole came to her house and took some documents that she was intending on taking with her to Alberta where she was moving, apparently in case the Appellant continued to do business with her.
+[31] Several beneficiary designation forms were introduced into evidence at trial. The Appellant’s testimony about these forms can be summarized by stating that he acknowledged having signed the forms but he did not recall anything about signing them.
+[32] The Appellant signed three beneficiary designation forms on July 18, 2013, to make changes on policies 114, 115 and 116. [33] He testified that he signed the forms while he was at Nicole’s home with his wife and awaiting surgery the next day. He did not ask Nicole what he was signing and why. The Appellant stated that, other than Nicole, his stepchildren, who signed those forms, were not present on the night of July 18, 2013, when he signed the forms. During her testimony, Ms. Harding stated that she vaguely remembered the insurance forms being put to the Appellant on July 18, 2013. Ms. Harding confirmed that her other children, who appeared to have signed the July 18, 2013 forms, were not present on that date and suggested that the signatures were not her children’s signature. In cross-examination, Ms. Harding acknowledged that she signed the forms making changes to policies 114 and 115 but that they were blank in terms of identifying the beneficiaries when she signed them. She said she often signed blank forms. In addition, Ms. Harding testified she often signed forms for the Appellant at his request without knowing what the documents entailed.
+[33] There is a further beneficiary designation form which makes changes to policy 116 insuring the life of Deborah Harding. [34] It bears the signature of Adam Hambrook and is dated January 1, 2015. When questioned about this form, the Appellant acknowledged his signature and testified in the same manner as he had for the other forms: he stated he did not recall anything about signing it and that the stepchildren who signed the form were not in his presence when he signed it. It appears that even after Adam Hambrook replaced Nicole as agent for the Co-operator’s, the Appellant was still signing documents regarding a policy that had no business purpose.
+[34] The beneficiary designation form dated May 23, 2012, [35] revoked all previous beneficiaries for policies 114, 115 and 116 and designated 654 as the 100% beneficiary. The Appellant acknowledged that he signed it but stated that Nicole had not explained anything about changing beneficiaries. It is unclear who the beneficiaries were prior to that date. This change in beneficiaries, i.e. designating 654 as beneficiary, does not support the Appellant’s position that Nicole was trying to benefit herself and her siblings.
+[35] The evidence, both oral and documentary, leads me to one conclusion: the Appellant ought to have known that BBH Ltd. was paying significant amounts of insurance premiums on policies that had no business purpose and from which his spouse and stepchildren stood to benefit on the event of death of the insured. The financial statements, which the Appellant reviewed with his accountant and signed, showed that the amounts of insurance premiums were significant. According to Mr. McCain, the Appellant is “really sharp with numbers.” [36] The Co-operators was providing life insurance anniversary statements and sending them to 654. It appears that the Appellant brought some of the insurance documents to his home. He testified that he signed multiple beneficiary designation forms without paying attention to what he was signing. The Appellant submits that he was a victim of chicanery by Nicole who allegedly made changes to the beneficiary designations to benefit herself and her family. The Appellant did not call any of the stepchildren who signed the beneficiary designation forms to testify.
+[36] I note that the Appellant’s representative submitted that there was no “real-world benefit” [37] to the Appellant in the circumstances because all of the insured remained alive and so no payments were made under any of the policies. However, if the insured had passed away when Ms. Harding or the stepchildren were the beneficiaries, the insurance company would have been obligated to make the insurance payments to them without any obligation to BBH Ltd. As stated by this Court in Larue v R., “in actual fact, the appellant’s corporation paid a premium for a life insurance policy under which payment would have been made to his spouse [or to his stepchildren in the present appeal] in case of death.” [38] I find that even if payments were never paid under the policies, the fact that the Appellant’s spouse or stepchildren would have received payments on the insureds’ death while they were the designated beneficiaries results in a benefit to him under subsection 15(1) of the Act.
+[37] The Appellant’s counsel relied on Chopp in support of his position that there is no subsection 15(1) benefit in the circumstances because the purchase of insurance was an error caused by a trusted advisor on whom the Appellant relied, and as such, it was a stronger case than that of a simple bookkeeping error. The facts in the present appeal are distinguishable from those in Chopp.
+[38] In Chopp, a payment was erroneously posted as a corporate expense while Mr. Chopp’s daughter, an inexperienced bookkeeper, should have debited it to the shareholder loan account. Justice Mogan found, based on evidence, including testimony from the bookkeeper who made the error, that the amount was not significant and this was a simple bookkeeping error not caught by subsection 15(1). The Federal Court of Appeal confirmed his decision that there was no benefit in the circumstances and cited with approval his view that a benefit may be conferred without any intent or actual knowledge on the part of the shareholder if the circumstances are such that the shareholder ought to have known. I find that the circumstances in this appeal are such circumstances. The purchase of policies that became effective in 2010 and 2011, for which significant premiums were paid and for which there were several changes to the beneficiaries over several years, is not and cannot be treated as a simple bookkeeping error.
+[39] Overall, I find that the Appellant ought to have known that BBH Ltd. had purchased insurance policies insuring his life and that of his wife, and for which his wife and his stepchildren stood to benefit. I further find that a subsection 15(1) benefit was conferred on the Appellant in the circumstances.
+[40] The appeal for the 2013 taxation year is allowed, only to the extent conceded by the Respondent. The appeal for the 2014 and 2015 taxation years is dismissed. Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 11th day of January 2022.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+[41]
+CITATION:
+2022 TCC 3
+COURT FILE NO.:
+2018-3496(IT)G
+STYLE OF CAUSE:
+BOYD B. HARDING AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Fredericton, New Brunswick
+DATE OF HEARING:
+November 1, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St-Hilaire
+DATE OF JUDGMENT:
+January 11, 2022
+APPEARANCES:
+Counsel for the Appellant:
+John D. Townsend, Q.C.
+Peter Ashfield
+Counsel for the Respondent:
+Rhoda Lemphers
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John D. Townsend, Q.C.
+Peter Ashfield
+Firm:
+Pink Larkin
+Suite 210
+1133 Regent Street
+Fredericton, New Brunswick
+E3B 3Z2
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC, 1985, c 1 (5th Supp).
+[2] The parties agreed that there was an error in paragraph 7 of the Partial Statement of Agreed Facts and that paragraph 5 in the Notice of Appeal should prevail meaning that the Appellant was not the sole shareholder of BBH Ltd.
+[3] In the Amended Reply to Notice of Appeal, the Minister acknowledged that she had erred in assuming that the beneficiaries of Policy #1152744 were not changed during the entire life of the policy. As a result, the Minister acknowledged that the Appellant was entitled to have the shareholder benefit for the 2013 taxation year reduced to $106,703.26.
+[4] The Co-operators Life Insurance Company policy numbers are as follows: 1139806, 1148176, 1152744 and 1163533.
+[5] It should be noted that in the Partial Statement, the parties prefaced each date with the expression “on or around.”
+[6] The relevant changes in ownership, if any, can be summarized as follows: 1) Deborah Harding was the owner of policy 113; 2) in April 2012, ownership of policies 114 and 115 changed from BBH Ltd. to 654; 3) In April 2012, ownership of Policy 116 changed from another corporation to 654.
+[7] For the first part of 2013 and the latter part of 2015, 654 was the sole beneficiary of Policy 114.
+[8] For the first part of 2013 and the latter part of 2015, 654 was the sole beneficiary of Policy 115.
+[9] For the first part of 2013 and after November 26, 2014, 654 was the sole beneficiary of Policy 116.
+[10] During their testimony, witnesses referred to the Appellant’s stepdaughter as Nicole Haley and as Nicole Geneau. Some of the documents entered into evidence contain the signature of both Nicole Haley and Nicole Geneau. See for example the Beneficiary Designation form at Exhibit A1, Tab 19 where her signature appears as Nicole Haley as a beneficiary and as Nicole Geneau as a witness and as an agent. To avoid any confusion, I will refer to her as Nicole in the remainder of these reasons.
+[11] Subsection 15(1) provides for certain specified exceptions, which do not apply in this case.
+[12] Pillsbury Holdings Ltd. v MNR (1964), [1965] 1 Ex CR 676 at 682-683 [Pillsbury].
+[13] Ibid at 684-685.
+[14] Laliberté v Canada, 2020 FCA 97.
+[15] Ibid at paras 33-35.
+[16] Transcript of the hearing of this appeal at 15 and 172 [Transcript].
+[17] Transcript at 58.
+[18] Notice of Appeal at para 46; Transcript at 17.
+[19] Canada v Chopp [1998] 1 CTC 407 (FCA).
+[20] Canada v Chopp, ibid at para 4 citing the trial decision in Chopp v R, [1995] 2 CTC 2946 (TCC) at para 22 [Chopp].
+[21] Transcript at 27.
+[22] Exhibit A-1, Tabs 12, 13 and 14.
+[23] Transcript at 81. In addition, Mr. McCain testified that these expenses were deducted by 654 but then added back on a Schedule 1 form and consequently, were not claimed for tax purposes.
+[24] Ibid at 82.
+[25] Exhibit R-1.
+[26] Policy 116 Statements dated June 24, 2013, and June 24, 2014, indicate that the Appellant’s wife is insured and the statement dated June 24, 2014 indicates that his stepchildren are 75% beneficiaries; Policy 115 Statements dated October 1, 2013, and October 1, 2014, indicate that the Appellant is insured and his wife is the beneficiary.
+[27] Exhibit R-1.
+[28] Exhibit A-1 at Tab 3.
+[29] Ibid at Tab 2.
+[30] Transcript at 138.
+[31] Ibid at 106 and 108.
+[32] Ibid at 157.
+[33] Exhibit A-1 at Tabs 17, 18 and 19.
+[34] Ibid at Tab 22. This form, signed by Adam Hambrook, designates 654 as an irrevocable beneficiary. Another form dated November 26, 2014, had designated 654 as a revocable beneficiary; see Exhibit A-1 at Tab 20.
+[35] Ibid at Tab 16.
+[36] Transcript at 31.
+[37] Ibid at 15.
+[38] Larue v R, 2003 TCC 288 at para 11. See also Reakes Enterprises Ltd v R, 2006 TCC 295 at para 9.

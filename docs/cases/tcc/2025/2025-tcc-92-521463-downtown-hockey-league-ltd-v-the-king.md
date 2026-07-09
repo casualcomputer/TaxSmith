@@ -1,0 +1,182 @@
+---
+title: "Downtown Hockey League Ltd. v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521463/index.do"
+last_modified: "2025-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 92"
+citation2: ""
+neutral_citation: "2025 TCC 92"
+decision_date: "2025-07-09"
+language: "en"
+item_id: "521463"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5426
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:16:27.980000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e6324a0ee5c77982bb59f927b9ebbba9cbc9b0ffac213a335feb02ea2d87d33"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Downtown Hockey League Ltd. v. The King
+
+- Citation: 2025 TCC 92
+- Decision date: 2025-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5426, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Downtown Hockey League Ltd. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-07-09
+Neutral citation
+2025 TCC 92
+File numbers
+2024-1276(IT)I
+Judges and Taxing Officers
+John Sorensen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1276(IT)I
+BETWEEN:
+DOWNTOWN HOCKEY LEAGUE LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion of the Appellant, in writing, filed on May 12, 2025
+Before: The Honourable Justice John A. Sorensen
+Participants:
+Counsel for the Appellant:
+Bharat Galani
+Counsel for the Respondent:
+Yan Cui
+ORDER
+The Downtown Hockey League Ltd. brought a motion to move this appeal to the General Procedure (the “Motion”).
+In accordance with these Reasons, the Court orders that:
+1)This matter will proceed under the Tax Court of Canada Rules (Informal Procedure), on September 11, 2025, at 9:30 am or as soon after that time as is practicable; and
+2)No costs are awarded.
+Signed this 9th day of July 2025.
+“J.A. Sorensen”
+Sorensen J.
+Citation: 2025 TCC 92
+Date: 20250709
+Docket: 2024-1276(IT)I
+BETWEEN:
+DOWNTOWN HOCKEY LEAGUE LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Sorensen J.
+I. Background [1] Downtown Hockey League Ltd. (the “Appellant”) appeals the redetermination of its Canada Emergency Wage Subsidy (“CEWS”) entitlement for fourteen qualifying periods,[1] reducing its cumulative claim from $92,243.50 to nil.
+[2] According to the Respondent’s affiant:[2]
+The Minister of National Revenue (the “Minister”) sent individual notices of determination and assessment dated July 22, 2021, for periods described as P1 to P14.
+Next, the Minister issued two documents described as notices of redetermination and dated August 3, 2021. One document covered P1 to P10 and the other P11 to P14, and they both cited s. 152(3.4) of the Act.
+Next, the Minister issued one document described as a notice of redetermination and dated August 11, 2021, to fix clerical errors in the previous notices. The Appellant objected to this notice of redetermination and the Minister confirmed, leading to this appeal.
+The Minister issued a notice of reassessment dated September 23, 2021, by which penalties amounting to $23,072 were assessed in relation to the CEWS applications filed during the Appellant’s taxation year ending August 31, 2020.
+[3] This appeal was scheduled for May 20, 2025, under the Tax Court of Canada Rules (Informal Procedure)[3] (the “Informal Procedure”). On May 6, 2025, the Appellant retained new counsel, who questioned whether the matter should proceed under the Tax Court of Canada Rules (General Procedure)[4] (the “General Procedure”).
+[4] The Appellant cited s. 18.12(1) of the Tax Court of Canada Act[5] (the “TCC Act”), arguing that proceeding in the Informal Procedure would reduce its ability to recover the cumulative disputed CEWS amount due to the monetary limit. The Appellant also wanted to access the further procedural steps and safeguards of the General Procedure.
+[5] Presently, CEWS case law is limited. Investment Accounting Solutions Inc.[6] proceeded in the Informal Procedure concerning CEWS for 10 qualifying periods from March 15, 2020, to December 19, 2020, and involving benefits cumulatively exceeding $25,000. Whether to transfer to the General Procedure was not raised.
+[6] I asked the parties to consider whether, pursuant to s. 152(3.4) of the Act, determinations/redeterminations for qualifying periods are made individually or in the aggregate, and, relatedly, whether the phrase “aggregate of all amounts” in s. 2.1 of the TCC Act refers to a cumulative disputed CEWS amount or the amount for each individual qualifying period as determined by the Minister. These questions are relevant to the monetary limit issue and to the Court’s need to consider s. 18.12(1) of the TCC Act.
+[7] I conclude that notices of determination and redetermination[7] are issued for individual qualifying periods, and under 18(1)(a) of the TCC Act, “aggregate of all amounts in issue” refers to a determination for an individual qualifying period.
+[8] The disputed amounts for each qualifying period in this appeal are less than $25,000. No election to limit the appeal was made or needed. The Appellant chose to proceed in the Informal Procedure and there is no basis under s. 18.12(1) or otherwise to move it to the General Procedure.
+[9] The Appellant’s counsel acted cautiously by bringing the Motion, and it was not unreasonable to do so because the Minister’s single notice that was appealed did, on its face, appear to aggregate all the qualifying periods. Counsel achieved certainty for his client and protected its interests by bringing the Motion.
+[10] These reasons also ensure clarity for the tax community, since more than one matter was recently adjourned due to procedural uncertainty. And although this was a CEWS matter, these reasons should apply to Canada Emergency Rent Subsidy and Canada Recovery Hiring Program appeals, based on the wording in s. 125.7(2.1) and (2.2) and s. 152(1.2) and (3.4) of the Act.
+II. The Court has Jurisdiction to Consider the Issues [11] Sections 18.11 through 18.13 of the TCC Act govern transfers to the General Procedure in income tax appeals. Section 18.12 requires a transfer before the hearing if it appears to the Court that the aggregate of all amounts in issue exceeds $25,000 or the amount of the loss in issue exceeds $50,000 (unless the appellant has elected to limit the appeal). Section 18.13 requires a transfer after the hearing starts (but before a judgment) if it appears that the aggregate of all amounts in issue or the amount of the loss in issue exceeds the limits (unless the appellant has elected to limit, or the excess is de minimis).
+[12] Section 18.12 is easily engaged. The Court shall order the General Procedure if a monetary limit issue is apparent and there was no limiting election.
+[13] In this case, the Appellant’s new counsel alerted the Court. It then appeared to the Court that the aggregate of all amounts in issue might exceed $25,000. Once a potential issue is apparent, by any means, s. 18.12 of the TCC Act is activated and the issue must be considered and determined. This conclusion is supported by the Court’s implied power to control its own process.[8] The need to settle this issue is amplified because it has and may recur in s. 125.7 benefit matters.
+III. Determinations Pertain to Individual Qualifying Periods [14] The question to be answered to resolve the Motion is whether the monetary limit for electing the Informal Procedure applies to each CEWS qualifying period individually or to the cumulative amount for a taxation year. The answer is that the monetary limit applies per qualifying period, for the following reasons.
+[15] The definitions section of s. 125.7 of the Act is built around qualifying periods. Base percentage computations vary between qualifying periods, and rates, percentage variables and the various qualification and eligibility categories are determined per qualifying period. Section 125.7 of the Act is based on outcomes on per‑qualifying period basis.
+[16] The CEWS computation is set out in s. 125.7(2) of the Act. The relevant portion reads:
+For a qualifying entity for a qualifying period, an overpayment on account of the qualifying entity’s liability under this Part for the taxation year in which the qualifying period ends is deemed to have arisen during the qualifying period in an amount determined by the formula …
+[17] The taxation year reference relates to any deemed overpayment[9] on account of liability for the taxation year in which a particular qualifying period ends. However, this does not mean that a taxation year is a relevant period for CEWS administration and enforcement purposes.
+[18] Section 125.7(2) of the Act is unambiguous. The timeframe for the CEWS computation for a qualifying entity is a qualifying period, not a taxation year. Also, the refund of a deemed overpayment is not tied to a taxation year and may occur any time, pursuant to s. 164(1.6) of the Act.
+[19] More to the point, CEWS determinations are made and notifications issued for a qualifying period, and the CEWS dispute process follows that timing, by operation of s. 152(1.2) and (3.4) of the Act.
+[20] Section 152(1.2) of the Act confirms that Divisions I and J apply mutatis mutandis to, among other things, CEWS determinations/redeterminations, and s.152(3.4) of the Act reads as follows:
+The Minister may at any time determine the amount deemed by any of subsections 125.7(2) to (2.2) to be an overpayment on account of a taxpayer's liability under this Part that arose during a “qualifying period” (as defined in subsection 125.7(1)), or determine that there is no such amount, and send a notice of the determination to the taxpayer.
+[Emphasis added]
+[21] The legislation contemplates processes on a per‑period basis, not on a cumulative, aggregated or annualized basis. Section 152(3.4) does not prescribe the form of a notice, and whether for convenience the Minister’s delegates issue notices of determination individually or summarily does not change the meaning of the legislation: CEWS entitlement is determined on individual qualifying periods, and even if the results of multiple determinations are set out on one document, the determinations remain separate events.
+[22] It is well accepted in income tax appeals that s. 2.1 of the TCC Act applies to each taxation year and assessment thereof, even if multiple years are appealed together in one notice of appeal. A matter may proceed in the Informal Procedure if each disputed assessment concerns an amount at or below the monetary threshold, even if the total of the disputed assessments exceeds that threshold. The same applies to individual CEWS determinations and appeals therefrom. Section 2.1 of the TCC Act refers to both assessments and determinations under the Act, and the path for challenging both income tax assessments and CEWS determinations is in Divisions I and J of the Act, as noted. The same rationale applicable to income tax assessments must logically apply to CEWS determinations, namely, individual notices of determination may be appealed in a single notice of appeal without coalescing. There is no reason why they would not remain separate the way that income tax assessments remain separate for purposes of the monetary limit and the threshold in s. 2.1 of the TCC Act.
+[23] This separation between individual determinations remains the case whether a set of determinations concerns the same facts, issue(s) and legislation, since the essential principle remains that individual determinations are made for separate qualifying periods: factually, the period is different.
+[24] The above‑noted conclusion regarding notices of determination is reinforced by the reasoning deployed by this Court in Maier,[10] which stated that it would be strange if the rules dictated a different result depending on whether the taxpayer filed a series of notices of appeal as opposed to a single notice of appeal including all disputed assessments (or, as in this case, determinations).
+[25] The Appellant argued that this Court’s reasons in Fullum may apply.[11] However, while Fullum involved the aggregation of all disputed amounts for the purpose of surpassing a monetary limit, it considered s. 17.3(1) of the TCC Act and a motion seeking an order for oral examination for discovery. That provision prohibits oral discovery if the aggregate of all amounts in issue in an income tax appeal is $50,000 or less, unless the parties consent or a party applies for it and the Court is “of the opinion that the case could not properly be conducted” without it. The provision allows the Court latitude to consider the circumstances and determine whether a case could properly be conducted without oral discovery. In context, the word “proper” has wide scope. The aggregation of disputed amounts in Fullum was case and rule-specific, and Fullum is not persuasive authority in this case.[12]
+[26] The Appellant also argued that treating notices of determination individually rather than cumulatively may mean that important and complex disputes are adjudicated in the Informal Procedure without the same discovery requirements and evidentiary guardrails as in the General Procedure. It is fair to say that the complexity and importance of a dispute are separate matters from the amount in dispute. Savage[13] concerned $300, but it went all the way to the Supreme Court of Canada, and Scott[14] was an Informal Procedure appeal that was jurisprudential despite concerning deductions for modest amounts of extra food, water and juice consumed daily by a foot courier. Therefore, while appeals concerning limited disputed amounts can be important and at times complex, Parliament made choices when it established the provisions delineating the Informal Procedure and the General Procedure and case law sets out key principles including how to interpret s. 2.1 of the TCC Act. The scheme that established the Court’s procedural routes is not based on complexity or relative importance of the issues at stake.
+[27] Ultimately in this case, since each determination falls below the monetary threshold in s. 2.1 of the TCC Act, the Appellant’s choice of the Informal Procedure need not and will not be changed.
+IV. Argument as to Mistake in Electing the Informal Procedure [28] Income tax appeals are presumed to proceed under the General Procedure, unless the appellant elects the Informal Procedure when they file their notice of appeal or possibly later as provided by the rules.[15] In Bell, the Tax Court held that an election is final unless the legislation expressly or by necessary implication provides for further re‑election, but that the TCC Act is specific therefore the existence of additional circumstances cannot be inferred.
+[29] In his affidavit, the Appellant’s former representative said he made an honest mistake by starting the appeal in the Informal Procedure. He said he was unaware that the cumulative disputed amount exceeded the monetary threshold for the Informal Procedure. He said he had prior experience with smaller tax disputes, and did not fully appreciate the procedural distinctions or financial threshold that may have required the appeal to proceed in the General Procedure.
+[30] Claiming to not know that there are different procedural routes and rules limiting disputed amounts is unexpected, since the Schedule 4 form filed by the former representative refers to threshold amounts, and that information might ordinarily attract the interest of a representative acting qua advocate and their client. Schedule 4 also expressly refers to the sections of the TCC Act governing the Informal Procedure, which may also spark some curiosity in the mind of a representative. A cursory review of the relevant sections of the TCC Act should give a representative some cause for reflection on what exactly they are purporting to do when filing a notice of appeal using Schedule 4. Further, a straightforward distillation of the Court’s procedural options, including hyperlinks to the Rules and TCC Act, is present on the Court’s website. I note in passing that the notice of appeal in this matter appears to be based on the precedent provided on the Court’s website and it was e‑filed through the portal on that website, so the former representative appears to be aware of said website.
+[31] The notice of appeal in this case expressly states that the Appellant was electing under the Informal Procedure. The further boilerplate language included in the Appellant’s notice of appeal regarding the aggregate of amounts in issue and the use of Schedule 17(2) could have given the Appellant and representative pause. That language might have resulted in some inquiry regarding exactly what it means to elect for the application of the Informal Procedure.
+[32] The details available to any taxpayer and representative, including on the face of the Schedule 4 precedent, are in a sense warning lights that can draw attention to the TCC Act and the monetary limit of the Informal Procedure. Not paying attention to warning lights is remiss but not a mistake that the Court is obligated to fix.
+[33] If an appellant approves a court filing that includes express language on its face concerning the chosen procedural route, they must accept the consequences that flow from that express language.[16] That said, whether the Appellant exercised reasonable care is a factual inquiry that would include details of the interaction with the Appellant’s former representative and his instructions. However, the factual record in this Motion does not include enough information to consider a non est factum type of argument.
+[34] The Appellant’s argument that it should be permitted to revoke its election into the Informal Procedure is rejected.
+V. Conclusion [35] CEWS determinations are made for each qualifying period, and the “aggregate of all amounts in issue” under section 2.1 of the TCC Act applies to each period’s amount. Since each disputed amount is below $25,000, the Appellant’s election is binding
+[36] The Informal Procedure is meant to be an expeditious and cost‑effective way for taxpayers to resolve their disputes, with limited procedural wrangling. The Informal Procedure is essentially an access to justice program. It is in the interests of justice that matters continue without confusion and the associated cost and delay.
+[37] The written submissions from both the Appellant and Respondent were very helpful to the preparation of these reasons, and their efforts were much appreciated.
+Signed this 9th day of July 2025.
+“J.A. Sorensen”
+Sorensen J.
+CITATION:
+2025 TCC 92
+COURT FILE NO.:
+2024-1276(IT)I
+STYLE OF CAUSE:
+DOWNTOWN HOCKEY LEAGUE LTD. AND HIS MAJESTY THE KING
+DATE OF HEARING:
+Motion Determined by Written Submissions
+REASONS FOR ORDER BY:
+The Honourable Justice John A. Sorensen
+DATE OF ORDER:
+July 9, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Bharat Galani
+Counsel for the Respondent:
+Yan Cui
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bharat Galani
+Firm:
+Capital Tax Law
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] As defined in s. 125.7 of the Income Tax Act (Canada) (the “Act”).
+[2] An affidavit affirmed by a CRA litigation officer was prepared and filed pursuant to s. 244(9) of the Act.
+[3] Tax Court of Canada Rules (Informal Procedure), SOR/90-688b.
+[4] Tax Court of Canada Rules (General Procedure), SOR/90-688a.
+[5] Tax Court of Canada Act, R.S.C., 1985, c. T-2.
+[6] Investment Accounting Solutions Inc. v. The King, 2024 TCC 146.
+[7] The terms “determination” and “redetermination” are interchangeable unless distinguished legislatively. The use of the term “redetermination” in notices, for the purposes of s. 125.7, administratively differentiates initial and later determinations.
+[8] The Tax Court is a statutory court that does not have inherent jurisdiction, and its implied power to control its own process is subject to the TCC Act, which the Court cannot override (Masa Sushi Japanese Restaurant Inc. v The Queen, 2017 TCC 239 at paras. 36 and 37). I am not overriding the TCC Act by invoking implied jurisdiction, but merely supporting the reasons why the included issues may be determined in these reasons pursuant to s. 18.12.
+[9] Deeming amounts to be overpayments establishes a mechanism by which benefits are paid out as refunds, which is a legislative scheme that is not unique to the CEWS.
+[10] Maier v R, [1994] T.C.J. No. 1260.
+[11] Fullum v R, 2017 TCC 140 (“Fullum”).
+[12] At paragraph 23 of Fullum, the Court recognized that “it is well established that “the aggregate of all amounts in issue” applies for each taxation year.” and “It should be noted that conceptually a taxpayer is assessed for each taxation year and that therefore the taxpayer files an appeal in respect of each taxation year although it is permitted, and even desirable, that he or she file only one document as a notice of appeal for a number of related annual assessments.”
+[13] The Queen v Savage, [1983] 2 SCR 428.
+[14] Scott v R, 98 DTC 6530 (FCA).
+[15] Bell v R. [1993] 2 CTC 2688 (“Bell”) at paras. 8 to 10, describing the operation of s. 17 and 18 of the TCC Act. Bell was cited with approval at paragraph 69 of Rybakov v The Queen, 2019 TCC 209 (aff’d 2020 FCA 169).
+[16] Marvco Colour Research Ltd. v Harris, [1982] 2 SCR 774, stands for the proposition that a non est factum defence is not available to a person who fails to exercise reasonable care.

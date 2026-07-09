@@ -1,0 +1,152 @@
+---
+title: "Huneault v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/230656/index.do"
+last_modified: "2017-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 70"
+citation2: ""
+neutral_citation: "2017 TCC 70"
+decision_date: "2017-04-28"
+language: "en"
+item_id: "230656"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2312
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:23:43.955000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dfd001b1236bad973eb3963a460f4c201cba9719e8647d8fa19a7162f3c064be"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Huneault v. The Queen
+
+- Citation: 2017 TCC 70
+- Decision date: 2017-04-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2312, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Huneault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-04-28
+Neutral citation
+2017 TCC 70
+File numbers
+2016-5106(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-5106(IT)I
+BETWEEN:
+STÉPHANE HUNEAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard and decision rendered orally at the hearing
+on March 29, 2017, at Ottawa, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agents for the Appellant:
+Aaron Van Tassel (student-at-law)
+Valentine Gurfinkel (student-at-law)
+Albert Brunet (student-at-law)
+Counsel for the Respondent:
+Cédric Renaud-Lafrance
+JUDGMENT
+For the attached reasons rendered orally at the hearing, the appeal from the reassessment made under the Income Tax Act for the 2014 taxation year is dismissed without costs.
+Signed at Ottawa, Ontario, this 28th day of April 2017.
+“Patrick Boyle”
+Boyle J.
+Docket: 2016-5106(IT)I
+BETWEEN:
+STÉPHANE HUNEAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+Let the attached edited transcript of the reasons for judgment rendered orally at the hearing on March 29, 2017 at Ottawa, Ontario be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Ottawa, Ontario, this 28th day of April 2017.
+“Patrick Boyle”
+Boyle J.
+Citation: 2017 TCC 70
+Date: 20170428
+Docket: 2016-5106(IT)I
+BETWEEN:
+STÉPHANE HUNEAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Appeal heard and decision rendered orally at the hearing on
+March 29, 2017, at Ottawa, Ontario)
+Boyle J.
+[1] The issue in this morning’s informal appeal involves the circumstances in which shared custody parents are entitled to or disentitled from treating a child as an eligible dependant. This engages subsections 118(5) and (5.1) of the Income Tax Act. These issues and provisions have been considered by this Court on numerous occasions and by the Federal Court of Appeal in its 2013 decision in Verones v. Canada, 2013 FCA 69.
+[2] I have decided I must dismiss Mr. Huneault’s appeal because I’m satisfied that under the terms of the applicable amended separation agreement, Mr. Huneault is the only parent obligated to pay child support.
+[3] I am unable to construe this clear — albeit arguably imperfect — agreement, as imposing any obligation on Ms. Plouffe to pay child support to Mr. Huneault. This is no different in the 2011 amended agreement than in the original 2008 agreement.
+[4] In the agreement I would note the following:
+[5] First, the 2011 amendments were drafted by Mr. Huneault’s lawyer, the child support language does not change in any material way even though there is now shared custody beginning in 2011.
+[6] Secondly, the calculations used by the two parents to compute Mr. Huneault’s obligation each year did not change following the amendments.
+[7] Thirdly, Mr. Huneault’s obligation is clearly set out in the agreements between the parents. There is not a hint of any obligation in the agreements themselves for Ms. Plouffe to pay child support to Mr. Huneault. Indeed, the definition of termination event applicable to his obligation is not even triggered if Ms. Plouffe starts earning more than Mr. Huneault.
+[8] Fourthly, I do not see the separate provision of the 2011 amendments that specifies each parent will be entitled to claim one of the two children as a dependant for tax purposes as creating an ambiguity, much less resolving one. This is at best evidence of an intention to do what it takes to qualify for each parent claiming a dependant; it is not evidence that they did what is necessary. It evidences a lack of knowledge of the requirement for mutual obligations, which is not surprising. It cannot create the missing obligation.
+[9] Fifthly, I’m unable to construe Ms. Plouffe’s reimbursement of any excess payment by Mr. Huneault in those years where the April calculation resulted in an overpayment for the first three months of the calendar year as anything other than Ms. Plouffe was reimbursing him for his excess child support payments in January, February and March; she was not paying him child support.
+[10] In short, this decision is then driven by the Federal Court of Appeal decision in Verones on the netting of amounts to be contributed under child support guidelines not being able to help a parent if that parent is the only parent obligated under the agreement to actually pay child support. That is how the provision of the statute reads and how the Federal Court of Appeal and this Court have interpreted it.
+[11] While I’m not unsympathetic to complaints that this may not make sense or advance any underlying policy, I’m a judge of the Tax Court, I can’t rewrite the law, I can’t rewrite the agreement, and I can’t interpret the law differently than the Federal Court of Appeal.
+[12] Those are my reasons for having to dismiss the appeal this morning.
+Signed at Ottawa, Ontario, this 28th day of April 2017.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2017 TCC 70
+COURT FILE NO.:
+2016-5106(IT)I
+STYLE OF CAUSE:
+STÉPHANE HUNEAULT v. THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 29, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+April 28, 2017
+APPEARANCES:
+Agents for the Appellant:
+Aaron Van Tassel (student-at-law)
+Valentine Gurfinkel (student-at-law)
+Albert Brunet (student-at-law)
+Counsel for the Respondent:
+Cédric Renaud-Lafrance
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

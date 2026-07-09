@@ -1,0 +1,124 @@
+Title: Laprairie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27614/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-135-27614-laprairie-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-07
+
+# Laprairie v. The Queen
+
+- Citation: 2007 TCC 135
+- Decision date: 2007-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 435, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laprairie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-07
+Neutral citation
+2007 TCC 135
+File numbers
+2006-2836(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2836(IT)I
+BETWEEN:
+LISABETH LAPRAIRIE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 14, 2007 at Ottawa, Canada.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Andrew Miller
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act ("Act") for the 2004 taxation year is allowed and the matter is referred back to the Minister of National Revenue on the basis that the Appellant is entitled to claim a credit pursuant to section 118.5 of the Act for tuition fees of $7,692and a credit pursuant to section 118.6 of the Act for an education amount of $1,600.
+Signed at Halifax, Nova Scotia, this 7th day of March 2007.
+"Wyman W. Webb"
+Webb J.
+Citation: 2007TCC135
+Date: 20070307
+Docket: 2006-2836(IT)I
+BETWEEN:
+LISABETH LAPRAIRIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant attended the Groupe École Supérieure de Commerce ("ESC") in France during 2004 - 05 in a course that led to her obtaining a Master of Arts degree that was granted under the authority of the Royal Charter of the Open University, a separate educational institution. The Appellant claimed credits for the tuition and education amount pursuant to sections 118.5 and 118.6 of the Income Tax Act ("Act"). Subsection 118.5 (1) of the Act provides, in part, as follows:
+118.5 (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+...
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the university, except any such fees
+(i) paid in respect of a course of less than 13 consecutive weeks duration,
+(ii) paid on the individual's behalf by the individual's employer to the extent that the amount of the fees is not included in computing the individual's income, or
+(iii) paid on the individual's behalf by the employer of the individual's parent, to the extent that the amount of the fees is not included in computing the income of the parent by reason of subparagraph 6(1)(b)(ix); ...
+(emphasis added)
+[2] There is no dispute related to the calculation of the amount of the claim or whether the Appellant was in full time attendance or whether any of clauses (i) to (iii) above are applicable. The issues in this case are whether ESC was a university in 2004 and if so, whether the fact that the degree was granted by a separate institution from the one that the Appellant was attending affected her right to claim a tuition credit.
+[3] The same issues arise with respect to the claim for the education amount. Subsection 118.6 (2) of the Act provides, in part, as follows:
+(2) There may be deducted in computing an individual's tax payable under this Part for a taxation year the amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year; and
+B is the total of the products obtained when
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full-time student at a designated educational institution, and
+. . .
+(emphasis added)
+[4] The terms "qualifying educational program" and "designated educational institution" are defined in subsection 118.6 (1), in part, as follows:
+"qualifying educational program" means a program of not less than three consecutive weeks duration that provides that each student taking the program spend not less than ten hours per week on courses or work in the program and, in respect of a program at an institution described in the definition "designated educational institution" (other than an institution described in subparagraph (a)(ii) thereof), that is a program at a post-secondary school level . . .
+"designated educational institution" means
+. . .
+(b) a university outside Canada at which the individual referred to in subsection (2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree,
+(emphasis added)
+[5] The first issue that must be addressed is whether the ESC is a "university". In the Gilbert case [1999] 2 C.T.C. 2127, [1998] T.C.J. No. 1091, Mogan J. stated that:
+16. Dealing with paragraph 118.5(1)(b) in isolation, I do not have any difficulty in concluding that to be a university within the meaning of those words, it has to be an institution with the power and authority to grant degrees.
+[6] The Appellant submitted a copy of a fax from the Associate Dean (Teaching) of ESC in which the Associate Dean (Teaching) stated that:
+ESZC Rennes has authorization from the French Ministère de l'Education to award degrees at both undergraduate and postgraduate level.
+[7] This fax is dated January 19, 2007. The Appellant testified that she was not aware of any change in the status of ESC from 2004 to 2007 and she also submitted a copy of the program from ESC that also confirmed that:
+ESC Rennes is recognised by the French government as a higher education institution, certified to deliver the Master's level.
+[8] No evidence was introduced by the Respondent to suggest that ESC had been granted the power to grant degrees after 2004 and therefore I find that on the balance of probabilities ESC had the power to grant degrees in 2004. As a result I find that ESC was a university in 2004.
+[9] The next issue is whether the fact that the degree was granted by a separate institution affects the claim of the Appellant for the tuition credit or the education amount. For the tuition credit, the requirement of paragraph 118.5 (1)(b) in relation to this issue is that the Appellant must have been in "attendance at a university outside Canadain a course leading to a degree". This paragraph does not provide that the degree must be granted by the same university that the taxpayer is attending. It is sufficient for the purposes of this requirement of paragraph 118.5 (1)(b) if:
+(a) the Appellant is attending a university; and
+(b) the course being taken by the Appellant leads to a degree.
+[10] To add the requirement that the degree must be a degree that would be granted by the same university would require additional words to be added to this paragraph of the Act and result in tuition credit claims being denied where a particular taxpayer is attending one university and taking courses that will lead a degree that would be granted by another university. For example, using this interpretation, if one university were to provide the first two years of an engineering program but not grant degrees in engineering, (which degrees would be granted by another university following the completion of the program at the other university), students attending the first university would be denied tuition credits related to the tuition paid to this university. This is the situation at some universities in Canada and, if this situation were to exist at universities outside Canada, it should not, in my opinion, result in an individual being denied a claim for his or her tuition credits while such individual is attending the first university.
+[11] With respect to the claim for the education amount, the definition of "designated educational institution" includes the requirement that the individual must be enrolled at a university in a course leading to a degree. Section 118.6 does not provide that the degree must be one that would be granted by the same university as the one at which the individual is enrolled and therefore, in my opinion, the degree does not have to be a degree that would be granted by the same university as the one at which the taxpayer is enrolled in order to qualify for the education amount under section 118.6 of the Act.
+[12] As a result, the Appellant's appeal is allowed in full.
+Signed at Halifax, Nova Scotia, this 7th day of March 2007.
+"Wyman W. Webb"
+Webb J.
+CITATION: 2007TCC135
+COURT FILE NO.: 2006-2836(IT)I
+STYLE OF CAUSE: Lisabeth Laprairie vs.
+The Minister of National Revenue
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: February 14, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: March 7, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

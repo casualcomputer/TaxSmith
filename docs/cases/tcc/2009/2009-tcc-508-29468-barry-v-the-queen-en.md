@@ -1,0 +1,226 @@
+---
+title: "Barry v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29468/index.do"
+last_modified: "2009-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 508"
+citation2: ""
+neutral_citation: "2009 TCC 508"
+decision_date: "2009-08-13"
+language: "en"
+item_id: "29468"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6287
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:03:21.354000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cef3c0c5afa6ee950420d5e51449d78797cb8cb470fa3d1556a4cebfa560fe06"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barry v. The Queen
+
+- Citation: 2009 TCC 508
+- Decision date: 2009-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6287, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-08-13
+Neutral citation
+2009 TCC 508
+File numbers
+2007-1889(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1889(IT)G
+BETWEEN:
+WAYNE BARRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on August 13, 2009, at Edmonton, Alberta.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Chad J. Brown
+Counsel for the Respondent:
+Elena Sacluti
+____________________________________________________________________
+ORDER
+Upon motion by counsel for the appellant for an order to compel the respondent's nominee, Mr. Scott Cameron, to answer certain questions and produce certain documents at the examination for discovery;
+It is ordered that counsel for the appellant be allowed to pose specific questions on the following matters:
+Questions regarding document number 16 from the respondent's List of Records.
+Questions regarding employees referred to in document number 16 from the Respondent's List of Records.
+Questions regarding RBC cancelled cheques referred to in document number 16 from the Respondent's List of Records.
+Questions regarding source documentation relied upon during preparation of document number 16 from the Respondent's List of Records.
+Questions regarding funds received by the Minister of National Revenue from the bankrupt corporation's estate and which tax account of the bankrupt corporation those funds were directed to.
+subject to the respondent's right to object for the usual reasons. The appellant shall have 20 days from the date of the order to give notice in writing to the respondent's counsel whether the discovery of Mr. Cameron will be continued orally or by written questions and answers.
+It is further ordered that the respondent produce the following documents:
+T4 Summaires for 2001, 2002, 2003 and 2004, for the corporations Prefco Enterprises Inc., Preferred Restoration and Emergency Services Inc., PCG Preferred Construction Group, Coast Flashing and Scaffolding Ltd., Paramount Homes 2002 Ltd., and Wellington Homes Inc.
+T4 records for some of the employees referred to in document number 16 from the Respondent's List of Records
+Working paper file of Rusty Cale (Trust Account Examiner) concerning his examination of Prefco Enterprises Inc., including his T20 Audit Report and T2020 Logs
+T2 Corporate Tax Returns for Prefco Enterprises Inc., PCG Construction Group Inc., Preferred Restoration and Emergency Services Inc., Coast Flashing & Scaffolding Ltd., Paramount Homes 2002 Ltd., and Wellington Homes Inc. for the 2002 to 2005 taxation years.
+The order of the Court dated April 7, 2009 setting out the various steps to the hearing of the appeal is amended as follows:
+a) Any Amended List of Documents shall be filed and served on the opposing party not later than December 15, 2009;
+b) The examinations for discovery shall be completed not later than March 1, 2010;
+c) Answers to undertakings given on discovery shall be completed not later than April 15, 2010;
+d) The parties shall communicate with the Hearings Coordinator, in writing, on or before May 30, 2010 to advise the Court among other things whether or not the case will settle, whether a pre-hearing conference would be beneficial or whether a hearing date should be set. In the latter event, the parties may file a joint application to fix a time and place for the hearing in accordance with section 123 of the Rules.
+Costs will be in the cause.
+Signed at Ottawa, Canada, this 14th day of October 2009.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2009 TCC 508
+Date: 20091014
+Docket: 2007-1889(IT)G
+BETWEEN:
+WAYNE BARRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Rip, C.J.
+[1] The appellant has made an application for an order that the respondent's nominee, Mr. Scott Cameron, at the examination for discovery in this appeal answer certain questions and produce certain documents which the nominee has refused.
+[2] The application was made in the course of an appeal by Wayne Barry from assessments issued pursuant to section 227.1 of the Income Tax Act ("Act") as a result of the failures by Prefco Enterprises Inc. ("Prefco"), a publicly held holding corporation, to remit $731,490.62, and PCG Construction Group Inc. ("PCG"), a subsidiary of Prefco, to remit $84,290.31 to the Receiver General for Canada, for unpaid source deductions, interest and penalties as required by section 153 of the Act at times he was a director of Prefco and PCG. The assessments against Prefco relate to its 2001 to 2004 years, the assessment against PCG is for 2000.
+[3] Subsection 227.1(1) reads as follows:
+Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+Lorsqu'une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d'impôt en vertu de la partie VII ou VIII pour une année d'imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s'y rapportant.
+[4] Mr. Cameron's refusals to answer questions and produce documents are based on the respondent's position that their subject matter is "clearly irrelevant" since the appellant cannot challenge the correctness of the underlying corporate assessments[1] issued to Prefco and PCG. Respondent's counsel concedes that if I find that the correctness of the underlying assessments can be challenged, then the questions going to the underlying assessments are appropriate.
+[5] According to the appellant the Minister of National Revenue ("Minister") erred in assessing Prefco in that the Minister included in the payroll of Prefco a significant number of persons who were not employees of Prefco but its subsidiaries. To a lesser extent PCG was assessed in the same manner as Prefco. Except for PCG, Mr. Barry was not a director of the subsidiaries.
+[6] Both parties referred to Gaucher v. The Queen[2], a decision of the Federal Court of Appeal. Ms. Gaucher was taxed vicariously under section 160 of the Act with respect to a transfer to her by her former spouse of a residential property at a time the former spouse had been reassessed tax. Ms. Gaucher wanted to have her assessment vacated by establishing that the reassessments of the former spouse were statute-barred and invalid. The Tax Court rejected her argument since it had already affirmed the former spouse's reassessments. Rothstein J. held, at paragraph 6, that:
+… It is a basic rule of natural justice that, barring a statutory provision to the contrary, a person who is not a party to litigation cannot be bound by a judgment between other parties. The appellant was not a party to the reassessment proceedings between the Minister and her former husband. Those proceedings did not purport to impose any liability on her. While she may have been a witness in those proceedings, she was not a party, and hence could not in those proceedings raise defences to her former husband's assessment.
+[7] He added, at paragraph 7:
+When the Minister issues a derivative assessment under subsection 160(1), a special statutory provision is invoked entitling the Minister to seek payment from a second person for the tax assessed against the primary taxpayer. That second person must have a full right of defence to challenge the assessment made against her, including an attack on the primary assessment on which the second person's assessment is based.
+[8] According to Gaucher, once an assessment against a taxpayer is final, for whatever reason, for example, there is neither objection nor an appeal or there has been a final judgment of a Court, the assessment is final and binding only between that one taxpayer and the Crown. Any assessment under subsection 160(1) issued to a third party cannot affect the assessment between the Minister and the original taxpayer. The third party was not a party to the proceedings between the original taxpayer and the Minister and the third party cannot be bound by the assessment against the original taxpayer. The third party is entitled to raise any defence that the original taxpayer could have raised against the underlying assessment[3].
+[9] In the respondent's view the Court of Appeal's decision in Gaucher should not be applied to section 227.1 assessments just because both section 160 and section 227.1 assessments may be categorized as "derivative" assessments. There are, her counsel submits, substantial and fundamental differences between the two provisions.
+[10] Respondent's counsel referred to several director's liability provisions in various Business Corporation statutes, federal and provincial[4], apparently to put forward the principle that section 227.1 is specific to business corporation law in that a director has the ability to challenge the debt of the corporation by virtue of his or her position as a director, which third parties assessed under section 160 do not have.
+[11] The respondent submits that there are two reasons why the legislature wishes to impose director's liability for source deductions: firstly to encourage directors, as directing minds of the corporation, to ensure that the amounts are being paid or remitted as required; directors are in a better position to know the corporation's financial position and thus they are held accountable, and secondly, to provide an alternative source of funds if the corporation becomes insolvent and the required payments and remittances are not made; this assures the government is able to recover amounts due to it.
+[12] This, counsel states, is similar to director's liability provisions in business corporation legislation where directors are liable for certain debts of the corporation, such as wages due to employees: section 119 of CBCA. Similarly, as in subsection 227.1(3), business corporation statutes provide a defence to the director's liability: sections 118, 119 and subsection 123(4) of the CBCA, for example.
+[13] On this reasoning respondent's counsel concluded that a section 227.1 assessment is different from a section 160 assessment which is not based on principles of business laws and therefore to apply Gaucher to a section 227.1 assessment "is to fail to recognize the significant role that directors play as the directing minds of the corporation, and to call into question the basis for all similar provisions in business corporation laws in Canada".
+[14] Counsel for the respondent also submitted that unlike a section 160 assessment, a liability imposed under section 227.1 has to fulfill certain formalities described in subsection 227.1(2).
+[15] That the underlying debt in section 227.1 is of a different nature from the debt in section 160 also means that they are not analogous, according to the respondent. Source deductions required under subsection 153(1) are held in trust for the Crown until they are remitted to the Receiver General. A section 160 debt is any debt of a taxpayer under the Act. Further differences highlighted by the respondent include: there is no due diligence defence in section 160 as there is for a debt contemplated under section 227.1: subsection 227.1(3) and that there is no time limit on a section 160 assessment: subsection 160(2), but there is a two‑year limit for a section 227.1 assessment: subsection 227.1(4).
+[16] The Respondent’s counsel also argues that, when read together, subsections 227.1(1) and 152(8) of the Act do not allow a director to challenge a corporate assessment in the context of a director’s liability appeal, where the corporation itself did not appeal or object to the underlying assessment. The premise for this argument begins with the words of Rothstein J., who wrote at paragraph 6 of Gaucher: "… It is a basic rule of natural justice that, barring a statutory provision to the contrary, a person who is not a party to litigation cannot be bound by a judgment between other parties … ."
+[17] According to the respondent, the natural justice defense made available to a taxpayer in Gaucher, whereby a third party subject to a derivative assessment could challenge the primary assessment, should not be available to the directors of a corporation liable under section 227.1 of the Act because there are statutory provisions to the contrary in the context of a director’s liability appeal.
+[18] For instance, subsection 227.1(1) holds the director liable for "that amount" for which the corporation failed to withhold, deduct, remit or pay. Once the corporation failed to object or appeal "that amount" in the underlying corporate assessment, "that amount" became valid and binding as a result of subsection 152(8). Subsection 227.1(1) would then allow the Minister to collect "that amount" from the directors of the corporation when it would be impossible to collect it from the corporation.
+[19] Therefore it is important to determine what Parliament intended by the phrase "that amount" as it appears in subsection 227.1(1). The respondent holds that "that amount" means the entire amount for which the corporation was liable in their corporate assessment. The appellant argues that "that amount" could mean a lesser amount upon a successful challenge to the underlying corporate assessment.
+[20] The respondent relies on the Supreme Court of Canada decision of Canada Trustco Mortgage Co. v. Canada [5] ("Trustco") for the proposition that the statutory interpretation of fiscal legislation should be: "… made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole." [6]
+[21] The respondent's textual analysis begins with the words of the Act[7]. To depart from the ordinary meaning there must be ambiguity, but in Bell ExpressVu Limited Partnership v. Rex, Iacobucci J. cautioned: "For this reason, ambiguity cannot reside in the mere fact that several courts – or for that matter several doctrinal writers – have come to differing conclusions on the interpretation of a given provision …"[8]. In the respondent's view the phrase "that amount" in subsection 227.1(1) refers to the full amount the corporation failed to deduct, withhold, remit or pay. It does not refer to a lesser amount for which the corporation might be liable for had it chosen to object or appeal the corporate assessment. If such was Parliament’s intention, counsel submits it would have expressly written in subsection 227.1(1) that "that amount" includes a lesser amount contemplated by the appellant. The respondent relies on the assessments issued to the corporation and subsequently to the director as evidence of the clear and exact nature of the amount in question.
+[22] As far as the contextual analysis is concerned, the respondent holds that the provisions in the Act must work towards a common goal or purpose. One must look at the Act as a whole. Section 227.1 is found in Part XV "Administration and Enforcement" and forms part of the "Collection" provisions of the Act which include sections 222 to 229. Therefore, counsel concludes subsection 227.1(1) serves as an alternative method by which the Minister can collect certain deemed trust monies of Her Majesty the Queen from the directors of corporations.
+[23] Finally, with a view to the purposive analysis, the respondent submits that the words of the Act are the best evidence of purpose. The purpose of section 227.1 is to allow the fisc to look to the directors of the corporation, as the directing minds, to collect "that amount", and any interest or penalties relating to it, when the corporation does not pay. It ensures that trust monies for Her Majesty are collected. The respondent declares that since the corporation and its directors remain jointly and severally liable for that one amount, subject to subsections 227.1(2) to (6), the amount assessed to the corporation and latterly the director is the same amount.
+[24] Therefore the respondent concludes that subsections 152(8) and 227.1(1), when read together, would not allow a director to challenge the corporate assessment in the context of a director’s liability appeal because these provisions statutorily bind the directors by the result of the original corporate assessment.
+[25] I cannot agree with the respondent.
+[26] I have difficulty in appreciating the respondent's argument suggesting that the different nature of the debts in section 160 and section 227.1 of the Act is the major determining factor affecting the erstwhile director's rights to contest an assessment issued under one of these provisions. At the end of the day a section 160 assessment and a section 227.1 assessment are both assessments levied under the Income Tax Act and taxpayers have rights under that statute. The respondent appears to have lost sight of the fact that a taxpayer has the right to fight an assessment with all artillery available to him or her by law irrespective of the cause or origin of the assessment. To bind any taxpayer, including a director, to an assessment issued to another taxpayer violates rules of natural justice, as Rothstein J. stated in Gaucher.
+[27] There are many reasons a director may be prejudiced by a corporation deciding not to object or appeal the underlying assessment. And it is not necessarily so, as the respondent argues, that the director assessed under section 227.1 could have caused the corporation to object and appeal the assessment. The amount the corporation may recover, if successful in an appeal, may not be sufficient to prevent its insolvency or bankruptcy and the directors have decided that it was not worth throwing good money after bad. Or, the individual director who has been assessed under section 227.1 may have wanted to object to the assessment but he or she was outvoted by the other directors. Or the corporation's books and records may have been in such disorder at the time the corporation was assessed that it would have been useless to object or appeal, but later on, when the director was assessed under section 227.1, he or she, or someone else, may have put the books and records in such good order that it was at least arguable that the underlying assessment was bad. And I am sure there are other examples as well.
+[28] I agree with the conclusion of Bowman C.J. (as he then was) in Scavuzzo[9]:
+I do not think that the reasoning in Gaucher can be distinguished in a director's liability case. The principle established in Gaucher is that a person who is not a party to an assessment and who is derivatively assessed is not bound by the failure of the primary obligor to contest its assessment. This principle is consistent with common sense and ordinary fairness. I do not think that the salutary rule stated in Gaucher should be eroded or whittled away by flawed distinctions. To extrapolate into the Gaucher principle a requirement that in every case we enquire into why the primary assessment was not challenged, or whether the derivatively assessed directors should have or could have influenced the primary taxpayer to contest its assessment would so dilute the principle as to make it meaningless and unworkable. Once we eliminate the fallacious distinction drawn in Schuster and Maillé between directors' liability cases and property transfer cases we are left with the full force of the Gaucher authority applying to all derivative assessment cases.
+[29] It is open to the assessed director to challenge whether the corporation was required to deduct, withhold, remit or pay the amount assessed. If Parliament's intent in section 227.1 was to prohibit the director from contesting the assessment, the provision would refer to the amount assessed rather than refer to "failed to deduct or withhold an amount as required by … section 153 …, failed to remit such an amount … of tax …" since a section 227.1 assessment can only be issued after the underlying assessment. Indeed, Mr. Barry's whole purpose in wanting to ask questions and see documents relating to the underlying assessments is to prove that the "amount as required" is not the amount the corporations failed to deduct or withhold. Notwithstanding the respondent's arguments, any intention by Parliament to deny a taxpayer the right to challenge a tax assessment must be clear and unequivocal.
+[30] The appellant has the right to challenge the correctness of the underlying assessments issued to Prefco and PCG. Therefore, on discovery of the respondent's representative, the appellant may pose questions and receive documents relevant to the underlying assessments.
+[31] The question that the respondent's representative refused to answer and the documents the respondent refused to produce at discovery which gave rise to this motion are as follows:
+7/19
+Questions regarding document number 16 from the respondent's List of Records
+7/27
+Produce T4 Summaires for 2001, 2002, 2003 and 2004, for the corporations Prefco Enterprises Inc., Preferred Restoration and Emergency Services Inc., PCG Preferred Construction Group, Coast Flashing and Scaffolding Ltd., Paramount Homes 2002 Ltd., and Wellington Homes Inc.
+8/24
+Questions regarding employees referred to in document number 16 from the Respondent's List of Records
+9/2
+Production of T4 records for some of the employees referred to in document number 16 from the Respondent's List of Records
+9/7
+Questions regarding RBC cancelled cheques referred to in document number 16 from the Respondent's List of Records
+9/12
+Questions regarding source documentation relied upon during preparation of document number 16 from the Respondent's List of Records
+9/12
+Questions regarding funds received by the Minister of National Revenue from the bankrupt corporation's estate and which tax account of the bankrupt corporation those funds were directed to
+14/20
+Produce the working paper file of Rusty Cale (Trust Account Examiner) concerning his examination of Prefco Enterprises Inc., including his T20 Audit Report and T2020 Logs
+15/12
+Produce T2 Corporate Tax Returns for Prefco Enterprises Inc., PCG Construction Group Inc., Preferred Restoration and Emergency Services Inc., Coast Flashing & Scaffolding Ltd., Paramount Homes 2002 Ltd., and Wellington Homes Inc. for the 2002 to 2005 taxation years.
+[32] Respondent's counsel states that each particular question posed by the appellant's counsel would have to be examined on its merits given the principle applicable to discovery. In her view, however "the appellant has not stated what those questions might be" and, therefore, the respondent "cannot state whether or not it would allow or object to a specific question".
+[33] Mr. Barry filed an affidavit in support of this application. Exhibit "D" to his affidavit is a transcript of the discovery of Scott Cameron. Respondent's counsel is correct in that specific questions are not asked. For example, on page 7, lines 19 to 23 of the transcript read:
+Q. Now, I guess you have indicated that - - or your counsel has indicated that she is not going to permit any questioning on Respondent's Document 16 - -
+MS. SCALUTI: (for the respondent) That is correct.
+MR. BROWN: (for the appellant) - - is that correct? So then we will reserve those questions for an application, you know, I guess upon determination by a judge.
+MS. SCALUTI: Sure.
+Lines 24 to 27 of page 8 and line 1 on page 9 read:
+MR. BROWN: So I was going to ask - - there is a list of employees in this, in Document 16, I was going to ask some questions about that, but we will just reserve those for after the application.
+MS. SCALUTI: Sure.
+On page 9 of the transcript, lines 7 to 21 read:
+MR. BROWN: I was also going to ask some questions about there is a list of RBC cancelled cheques in Document 16. I will just reserve those for after our application.
+MS. SACLUTI: Okay.
+MR. BROWN: I was also going to inquire as to the source documentation that was used in reliance of the trustee application.
+I was also going to ask about funds received by the Minister from the bankrupt's estate from the trustee and which account those amounts were directed to. I take it that you would have an objection with that?
+MS. SCALUTI: Yes.
+[34] The appellant has not posed any specific questions on which I can rule. He has referred namely to a general description of the subject matter of the questions his counsel wishes to ask the respondent's representative.
+[35] I will permit his counsel to pose specific questions referring to the subject matter, subject to the respondent's right to object for the usual reasons. The appellant shall have 20 days from the date of the order to give notice in writing to the respondent's counsel whether the discovery of Mr. Cameron will be continued orally or by written questions and answers.
+[36] As far as production of documents are concerned, the respondent is ordered to produce the documents described in the table in paragraph 31 of these reasons.
+[37] The previous order setting out the various steps to the hearing of the appeal shall be amended as follows:
+Any Amended List of Documents shall be exchanged by
+December 15, 2009
+Examinations for discovery to be completed by
+March 1, 2010
+Answer to any undertakings to be completed by
+April 15, 2010
+The parties shall communicate with the Hearings Coordinator in writing, to advise the Court whether or not the case will settle, etc.
+May 30, 2010
+[38] Costs in the cause.
+Signed at Ottawa, Canada, this 14th day of October 2009.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2009 TCC 508
+COURT FILE NO.: 2007-1889(IT)G
+STYLE OF CAUSE: WAYNE BARRY v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: August 13, 2009
+REASONS FOR ORDER BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF ORDER: October 14, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Chad J. Brown
+Counsel for the Respondent:
+Elena Sacluti
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Chad J. Brown
+Firm: Felesky Flynn LLP
+Edmonton (Alberta)
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The case law on this question is mixed. Judgments denying the director the right to contest the underlying assessments include: Schafer v. Canada, [1998] T.C.J. No. 32 (QL), Schuster v. Canada, [2001] T.C.J. No. 453 (QL) and Maillé v. Canada, [2003] T.C.J. No. 333, Garland v. Canada, [2004] T.C.J. No. 368 (QL). Judgments allowing the director to challenge the underlying assessment include: Elias v. Canada and [2002] T.C.J. No. 8 (QL), Scavuzzo v. Canada, [2005] T.C.J. No. 620 (QL), La Buick v. Canada, [2007] T.C.J. No. 281 (QL), Lau v. Canada, [2007] T.C.J. No. 512 (QL), Abrametz v. Canada, [2007] T.C.J. no. 202 (QL), Brace v. Canada, [2008] T.C.J. No. 82 (QL).
+[2] 2000 D.T.C. 6678.
+[3] Ibid at paras. 8 and 9.
+[4] For example, ss. 127(1) and s. 173 of the Canada Business Corporation Act, R.S.C. 1985, c‑44 ("CBCA") and s. 118 and s. 119 of the CBCA and of the Alberta Business Corporation Act, R.S.A. 2000, c.B‑9, s. 130 and s. 131 of the Ontario Business Corporation Act, R.S.O. 1990, c.B.16.
+[5] [2005] 2 S.C.R. 601; Canada Trustco Mortgage Co. (“CTMC”) created a business arrangement whereby it purchased trailers and leased them back to the vendor in order to deduct capital cost allowances. The Supreme Court of Canada was asked whether there was abusive tax avoidance under subsection 245(4) of the Act. McLachlin C.J. and Major J. delivered the reasons and they sought to first conduct a unified textual, contextual and purposive analysis of the subsection to determine why the legislator had enacted it. The Court then sought to analyze the factual context to see whether or not the arrangement made by CTMC frustrated the object, purpose and spirit of s. 245 and the capital cost allowance provisions. The Supreme Court upheld the Tax Court of Canada’s decision finding that the sale-leaseback arrangement did not undermine the spirit or purpose of the capital cost allowance provisions found in the Act.
+[6] Ibid at para. 10.
+[7] Ibid. at para. 10: "When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process."
+[8] [2002] 2 S.C.R. 559 at para. 30. Bowie J. also relied on this passage to arrive at his conclusion in Zaborniak v. Canada, [2004] T.C.J. No. 412 (QL) at para. 7, infra.
+[9] Supra note 1, at par. 14.

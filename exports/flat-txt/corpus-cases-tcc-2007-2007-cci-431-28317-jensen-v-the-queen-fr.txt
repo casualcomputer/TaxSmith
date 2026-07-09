@@ -1,0 +1,232 @@
+Title: Jensen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28317/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-431-28317-jensen-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-12-07
+
+# Jensen v. The Queen
+
+- Citation: 2007 CCI 431
+- Decision date: 2007-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1836, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jensen v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-12-07
+Référence neutre
+2007 CCI 431
+Numéro de dossier
+2006-2703(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2703(IT)I
+ENTRE :
+PHYLLIS JENSEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 18 juin 2007, à Edmonton (Alberta).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocat de l’appelante :
+Me David Skrypichayko
+Avocate de l’intimée :
+Me Carrie Mymko
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté.
+Les appels des nouvelles cotisations établies en vertu de la Loi pour les années d’imposition 2002 et 2003 sont accueillis en partie et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que, dans le calcul de son revenu, l’appelante a le droit de déduire des dépenses se rattachant à des fournitures, d’un montant de 11 940 $ en 2002 et de 5 353 $ en 2003. En outre, l’appelante a le droit de déduire des frais de carte Visa de 530 $ en 2001, de 922 $ en 2002 et de 875 $ en 2003.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 28e jour de janvier 2008
+D. Laberge, LL.L.
+Référence : 2007CCI431
+Date : 20071207
+Dossier : 2006-2703(IT)I
+ENTRE :
+PHYLLIS JENSEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’appels de nouvelles cotisations établies par le ministre du Revenu national pour les années d’imposition 2001, 2002 et 2003 de l’appelante. Il s’agit de savoir si l’appelante a le droit de déduire certaines dépenses d’entreprise dans le calcul de son revenu imposable pour chaque année et si elle a déclaré en moins le revenu tiré de son entreprise, d’un montant de 19 250 $ en 2001, de 34 947,04 $ en 2002 et de 23 168,46 $ en 2003.
+[2] L’appelante, qui est retraitée, était une enseignante remarquable; elle enseignait dans des écoles élémentaires. Depuis qu’elle a pris sa retraite, l’appelante a établi une entreprise prospère dans le cadre de laquelle elle prépare des programmes éducatifs qui sont bien reçus par des enseignants dans des écoles élémentaires et qui sont avantageux pour leurs jeunes élèves. L’appelante a enseigné dans plusieurs écoles de l’Alberta pendant 35 ans avant de prendre sa retraite en 2004. Elle a continué à s’occuper de l’éducation des enfants en élaborant et en commercialisant des programmes partout en Alberta, et parfois ailleurs au Canada. Elle a lancé, à temps partiel, son entreprise, Rodeo Chaps, en 1991; depuis qu’elle a pris sa retraite, elle s’en occupe à plein temps.
+[3] L’époux de l’appelante, Ron Mann, a commencé à s’occuper de la gestion de l’entreprise en 1999. Il est un ingénieur à la retraite et il a de l’expérience dans les affaires, mais il n’a pas de formation régulière en comptabilité. M. Mann a décidé de ne pas avoir recours à des comptables de profession, préférant s’occuper lui‑même de la tâche, d’une façon qu’il estime fondée sur le sens commun.
+[4] En 2004, le ministre a procédé à une vérification quant à l’appelante et quant à son époux, ce qui a entraîné l’établissement de nouvelles cotisations pour les deux contribuables. À sa demande, l’appel interjeté par M. Mann a été entendu séparément, immédiatement après celui de l’appelante. De toute évidence, il y avait énormément d’éléments de preuve communs.
+[5] Les points litigieux sont notamment les suivants :
+a) Il s’agit de savoir si Mme Jensen a déclaré en moins le revenu tiré de son entreprise d’un montant de 19 250 $ en 2001, de 39 947,04 $ en 2002 et de 23 168,46 $ en 2003.
+b) Il s’agit de savoir si Mme Jensen a le droit de déduire des dépenses en sus des montants admis pour les éléments suivants :
+(i) repas et représentation en 2002;
+(ii) bureau et fournitures en 2002;
+(iii) sous-traitance et contrat de gestion en 2003;
+(iv) fournitures en 2003;
+(v) publicité et promotion et déplacements en 2003;
+(vi) taxe professionnelle, honoraires, et ainsi de suite, en 2002 et en 2003;
+(vii) véhicule à moteur en 2002 et en 2003;
+(viii) bureau à domicile en 2001, en 2002 et en 2003.
+Analyse
+[6] Il s’agit principalement de savoir si l’appelante a déclaré en moins son revenu d’entreprise d’un montant de 19 250 $ en 2001, de 39 947,04 $ en 2002 et de 23 168,46 $ en 2003.
+[7] L’appelante et son époux ont tous deux témoigné; ils étaient représentés par un avocat. L’appelante s’occupait de la préparation et de la commercialisation des programmes éducatifs pour les écoles élémentaires. M. Mann s’occupait surtout de l’administration et agissait à titre de conseiller dans l’entreprise de sa femme.
+[8] Le produit des ventes de programmes qui étaient payées au moyen de cartes Visa était déposé directement dans un compte bancaire au nom de Ron Mann seulement. C’est ce qui présente le problème le plus grave. Le produit des ventes payées par d’autres moyens était déposé dans un compte bancaire différent au nom de l’appelante. L’appelante n’a pas indiqué dans son journal synoptique les recettes de ventes déposées dans le compte de M. Mann, mais les montants en cause ont été passés en charges au titre du salaire ou de frais de gestion versés à M. Mann pour ses services. M. Mann a inclus ces recettes dans son revenu personnel. Il estimait que c’était la façon la plus simple d’être rémunéré pour ses services. L’appelante et son époux n’avaient pas l’intention de se soustraire à l’impôt. Il leur semblait que c’était la méthode la plus simple à employer pour rémunérer M. Mann à l’égard de ses services.
+[9] Pour déclarer avec exactitude les opérations, l’appelante aurait dû inclure dans ses recettes le produit des ventes payées à l’aide des cartes Visa et passer ensuite en charges les montants versés à M. Mann pour ses services, au titre du salaire ou des frais de gestion. En omettant de déclarer les ventes conclues à l’aide de cartes Visa et en déduisant les paiements effectués à M. Mann, l’appelante a par inadvertance déclaré en moins son revenu. Je ne doute pas de l’honnêteté de l’appelante, mais de toute évidence son revenu n’a pas été déclaré de la façon appropriée.
+[10] L’appelante et M. Mann ont tous deux déclaré dans leur témoignage que, à leur avis, les recettes provenant des ventes conclues à l’aide de cartes Visa étaient indiquées dans le journal synoptique de Mme Jensen, mais ils n’ont pas été en mesure de réellement prouver leur déclaration. Je crois qu’ils s’embrouillent sur ce point. Certaines recettes n’ont pas été déclarées au cours des années en question, mais elles l’ont été par la suite. Les recettes obtenues par l’appelante ont été déclarées en moins comme suit pour les années d’imposition 2001, 2002 et 2003 :
+2001
+2002
+2003
+Ventes déclarées par l’appelante
+93 283,38 $
+95 831,94 $
+80 422,35 $
+Recettes non déclarées (ventes Visa)
+19 780,00 $
+35 431,00 $
+27 608,00 $
+Correction relative à la TPS
+-
+6 708,24 $
+-
+Sous-total
+113 063,38 $
+137 971,18 $
+108 030,35 $
+Frais de traitement de carte Visa
+-530,00 $
+-922,00 $
+-875,00 $
+Autre revenu raj.[1]
+-
+6 270,20 $
+3 564,54 $
+Revenu brut
+112 533,38 $
+130 778,98 $
+103 590,81 $
+Revenu brut déclaré
+-92 283,38 $
+-95 831,94 $
+-80 422,35 $
+Différence
+19 250,00 $
+39 947,04 $
+23 168,46 $
+[11] En outre, les frais de traitement et autres frais associés aux cartes Visa n’ont pas été déduits par l’appelante. Ces dépenses s’élèvent à 530 $ en 2001, à 922 $ en 2002 et à 875 $ en 2003, et doivent être prises en compte dans la nouvelle cotisation de l’appelante.
+[12] L’appelante a déduit en trop la taxe sur les produits et services d’un montant de 6 708,24 $ lorsqu’elle a calculé son revenu d’entreprise brut pour l’année d’imposition 2002. La preuve donne à entendre que l’appelante indiquait périodiquement ses recettes, y compris la TPS, dans son journal synoptique et qu’à la fin de l’année, la TPS était déduite. Le chiffre d’affaires total de l’appelante a été calculé et déclaré comme suit :
+Recettes de ventes indiquées dans le journal synoptique
+109 718,00 $
+TPS incluse dans les recettes de ventes
+(7 177,81 $)
+Recettes de ventes, déduction faite de la TPS
+102 540,19 $
+Déduction en double de la TPS
+(6 708,24 $)
+Recettes de ventes déclarées
+95 831,95 $
+[13] Quant au revenu déclaré en moins, l’appelante n’a pas présenté de preuve pertinente en vue de réfuter les conclusions du vérificateur. Cela semble encore une fois être une autre erreur de comptabilité et je ne crois pas que l’appelante ait eu l’intention de déduire en trop la taxe sur les produits et services.
+[14] Je me pencherai maintenant sur la question de savoir si l’appelante a droit à des déductions pour les dépenses en sus de celles qui ont été admises pour les années 2001, 2002 et 2003.
+Repas et représentation en 2002
+[15] L’avocat de l’appelante a reconnu que, conformément au paragraphe 67(1), les frais de repas et de représentation devraient être réduits de 50 p. 100, de 428,46 $ à 214,23 $, pour l’année d’imposition 2002.
+Bureau et fournitures en 2002
+[16] L’appelante a demandé la déduction d’un montant de 15 446,44 $ pour les frais de bureau et de fournitures se rapportant à l’année d’imposition 2002. Après avoir procédé à un examen, le ministre a admis un montant de 7 448,82 $. Je suis prêt à laisser le bénéfice du doute à l’appelante et à lui accorder une déduction de 11 940 $, mais je ne puis accorder le plein montant initialement déduit, étant donné que certaines dépenses sont clairement de nature personnelle ou des dépenses en capital. Toutefois, je retiens en partie la preuve que l’appelante et son époux ont présentée sur ce point.
+[17] Quant aux dépenses personnelles, l’appelante a notamment déduit des frais se rattachant à l’alimentation et au soin de neuf chiens qu’ils possédaient au moment pertinent. Selon M. Mann, les chiens servaient à assurer la sécurité, mais l’intimée a de son côté présenté une preuve montrant que la résidence était déjà munie d’un système d’alarme. Les chiens rendaient peut‑être la résidence plus sûre, mais il est clairement exagéré d’avoir neuf chiens à cette fin.
+Sous-traitance et contrat de gestion en 2003
+[18] Pour l’année d’imposition 2003, l’appelante a demandé deux déductions distinctes de 4 133,12 $ et de 24 492,02 $ respectivement pour la sous‑traitance et un contrat de gestion, ce qui représente une dépense de 28 625,14 $ en tout. Mme Jensen a par erreur déduit un montant de 28 425,14 $ dans le calcul de son revenu et elle a donc droit à une déduction à l’égard de la différence de 200 $.
+[19] Un montant de 15 866,73 $ a été déduit en 2003 à titre de dépense se rattachant à un contrat de gestion, mais il s’agit en fait d’une gratification qui avait déjà été passée en charges en 2002, et qui a été payée en 2003. En d’autres termes, Mme Jensen a passé une gratification en charges en 2002, alors que cette gratification n’a été versée à M. Mann qu’en 2003, et elle a ensuite passé de nouveau le même montant en charges, mais cette fois au titre d’un contrat de gestion. La vérification a également révélé qu’un montant de 1 707,80 $ avait par erreur été traité comme un remboursement de la TPS à l’égard du contrat de gestion rajusté. Si l’on considère la situation après coup, le montant admis par le ministre à titre de dépense pour un contrat de gestion en 2003 devrait être de 10 533,09 $ :
+Contrat de gestion déduit
+24 492,02 $
+Gratification passée en charges en 2002
+(15 866,73 $)
+Erreur de calcul
+200,00 $
+Remboursement de la TPS déduit par erreur
+1 707,80 $
+Sous-contrats et contrat de gestion admis
+10 533,09 $
+Encore une fois, il existe peu d’éléments de preuve ou même il n’existe aucun élément de preuve permettant de réfuter l’hypothèse émise par le ministre[2].
+Fournitures en 2003
+[20] L’appelante a demandé la déduction d’un montant de 10 669,49 $ au titre des fournitures pour l’année d’imposition 2003. Le vérificateur a témoigné que certaines dépenses n’avaient en fait pas été effectuées ou, que si elles l’avaient été, il s’agissait de dépenses de nature personnelle ou de dépenses en capital. Le ministre a admis un montant de 2 860,12 $ pour l’année d’imposition 2003. La position prise par l’appelante n’était pas claire et elle a été présentée d’une façon générale, mais je reconnais qu’il y avait des dépenses légitimes additionnelles et je porte le montant admis à 5 353,20 $.
+Publicité et promotion et déplacements en 2003
+[21] En ce qui concerne la publicité et la promotion, l’appelante a déduit un montant de 1 714,16 $ pour l’année d’imposition 2003. Au cours de la même année d’imposition, l’appelante a également déduit un montant de 2 658,63 $ au titre des frais de déplacement. Dans le calcul de son revenu, Mme Jensen n’a pas déduit d’une façon distincte les dépenses effectuées pour les repas et la représentation, de sorte que ces montants ont été complètement passés en charges.
+[22] Le vérificateur a démontré qu’un montant de 2 465 $ en tout, au titre des frais de publicité et de promotion et des frais de déplacement, se rapportait en fait à une dépense personnelle ou à des frais de subsistance de l’appelante et que ce montant n’était donc pas déductible. Lors du contre‑interrogatoire, Mme Jensen a confirmé être allée à San Francisco et avoir déduit le plein montant à titre de dépense d’entreprise, alors que la dépense était, en fait, dans une proportion d’environ 70 p. 100, une dépense personnelle. De telles erreurs nous laissent perplexes.
+[23] Je conclus que l’appelante devrait uniquement avoir le droit de déduire un montant de 1 867,79 $ au titre des frais de publicité et de promotion ainsi que des frais de déplacement, comme il est ci‑dessous indiqué, plutôt que le montant de 4 372,79 $ qui a été déduit.
+Frais de publicité et de promotion déduits
+1 714,16 $
+Frais de déplacement déduits
+2 658,63 $
+Sous-total
+4 372,79 $
+Restriction relative aux frais de repas et de représentation (80,45 $ x 50 %)
+(40,00 $)
+Dépense personnelle non admise
+(2 465,00 $)
+Frais de publicité et de promotion et frais de déplacement admis
+1 867,79 $
+Taxe professionnelle, honoraires, et ainsi de suite pour les années 2002 et 2003
+[24] Quant aux montants qui ont été déduits pour la taxe professionnelle, les honoraires et ainsi de suite au cours des années d’imposition 2002 et 2003, le vérificateur du ministre a conclu que certaines dépenses étaient de nature personnelle ou avaient déjà été déduites au titre des frais relatifs à un véhicule à moteur. Quant à l’année d’imposition 2003, aucun élément de preuve n’a été présenté en vue de réfuter les conclusions du vérificateur et la nouvelle cotisation est valide sur ce point.
+Véhicule à moteur pour les années 2002 et 2003
+[25] La preuve qui a été présentée à l’instruction montre qu’aucun carnet de route ou autre document n’avait été établi à l’appui des frais déduits à l’égard du véhicule à moteur pour les années d’imposition 2002 et 2003. En ce qui concerne les frais relatifs au véhicule à moteur, la déduction effectuée par l’appelante a initialement été rejetée par le vérificateur, mais l’agent des appels a alloué une utilisation commerciale représentant 62 p. 100 de l’utilisation totale du véhicule en 2002 et en 2003. Mme Jensen affirme que l’utilisation commerciale représentait 75 p. 100 de l’utilisation totale en 2002 et 65 p. 100 en 2003.
+[26] Je conclus que le montant alloué par l’agent des appels était équitable. Il n’y a pas beaucoup d’écart entre les chiffres des parties. Selon l’appelante, une utilisation à 75 p. 100 en 2002 et à 65 p. 100 en 2003 serait plus appropriée que le chiffre de 62 p. 100 alloué par le ministre pour ces années. Le témoignage de l’appelante a révélé qu’elle enseignait alors à plein temps et qu’elle faisait la navette entre sa résidence, située près de Leduc, et l’école, à Edmonton, ce qui représente environ 24 kilomètres par jour. Les frais de navette constituent une dépense personnelle.
+Bureau à domicile en 2001, en 2002 et en 2003
+[27] La pièce et les photographies au sujet desquelles M. Mann a donné des explications dans son témoignage sont certes utiles, bien qu’elles soient postérieures d’environ deux ans à la période ici en cause. Du propre aveu de l’appelante, l’aire utilisée par Rodeo Chaps a considérablement augmenté au fil des ans.
+[28] L’appelante a initialement déduit dans une proportion de 17 p. 100 en 2001, de 22 p. 100 en 2002 et de 23 p. 100 en 2003 les frais se rattachant à la résidence au titre d’une dépense d’entreprise. Au stade de l’appel, elle a augmenté les montants déduits pour les années 2002 et 2003, la dépense représentant 47 p. 100 des frais se rattachant à la résidence. À la suite d’un examen, l’agent des appels a alloué un montant représentant 35 p. 100 pour les années 2002 et 2003.
+[29] Je souscris aux remarques suivantes que le juge Archambault a faites dans la décision Lachance v. Canada[3] :
+[...] À mon avis, le simple fait d’exploiter une entreprise dans une résidence privée et d’utiliser certaines pièces de la résidence dans le cadre de cette entreprise ne signifie pas nécessairement que l’on puisse déduire tous les frais relatifs à ces pièces. Il faut tenir compte de plusieurs facteurs, dont notamment l’espace occupé, sa qualité et la fréquence de son utilisation. Un espace situé dans un sous‑sol n’a pas la même qualité que celui situé au rez‑de‑chaussée. Il faut aussi tenir compte de l’utilisation de cet espace à des fins domestiques et de la nécessité de cet espace pour fournir un confort minimum aux occupants de la résidence.
+La preuve qui a ici été présentée indique sans aucun doute que certaines aires et certaines pièces de la résidence satisfaisaient clairement aux critères susmentionnés et l’appelante devrait donc avoir le droit de considérer comme des dépenses d’entreprise une partie des frais se rattachant à la résidence. La résidence avait une surface habitable de plus de 3 600 pieds carrés. L’appelante n’a pas établi que les 35 p. 100 alloués par le ministre étaient inexacts et qu’elle devrait avoir droit à plus.
+Conclusion
+[30] Dans l’ensemble, les problèmes auxquels l’appelante fait face sont attribuables à des erreurs de comptabilité qui ont été commises dans le calcul du revenu et des dépenses, la plus importante se rattachant aux ventes conclues à l’aide de cartes Visa dont il a ci‑dessus été question. La Loi ne prescrit pas de méthode comptable précise à suivre afin de calculer le bénéfice tiré d’une entreprise, mais au fil des ans, les tribunaux ont établi des lignes directrices qui doivent être suivies. Cela ne veut pas pour autant dire que le contribuable doit suivre les principes comptables généralement reconnus (les « PCGR ») comme l’a dit la Cour suprême du Canada dans l’arrêt Canderel Ltd. c. R.[4], étant donné qu’il ne s’agit pas de règles de droit, mais que ce sont plutôt des outils d’interprétation. Le contribuable est libre d’adopter toute méthode comptable qui n’est pas incompatible avec :
+(i) les dispositions de la Loi;
+(ii) les principes dégagés de la jurisprudence ou les « règles de droit » établis;
+(iii) les principes commerciaux reconnus.
+Cependant, il faut se rappeler que l’objectif principal est d’avoir une méthode comptable qui donne une image fidèle du bénéfice réalisé par le contribuable au cours d’une année donnée; or, l’appelante n’a pas réussi à donner une image fidèle.
+[31] Dans son avis d’appel et dans ses conclusions finales, l’appelante a essentiellement demandé que l’on se fonde sur l’équité. La Cour canadienne de l’impôt n’est pas un tribunal d’équité. Cela ne veut absolument pas dire que nous ne pouvons pas nous montrer équitables. Je ne prétends pas être vérificateur ou comptable et certaines de mes conclusions peuvent sembler approximatives, mais elles sont fondées sur ce qui est, selon, moi le sens commun en matière commerciale et sur l’équité compte tenu des minces éléments de preuve mis à ma disposition.
+[32] Par conséquent, les appels concernant les années 2001, 2002 et 2003 sont accueillis en partie, les dépens étant adjugés à l’intimée. Les nouvelles cotisations sont renvoyées au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelante a le droit de déduire des dépenses se rattachant à des fournitures, d’un montant de 11 940 $ en 2002 et de 5 353 $ en 2003. En outre, comme il en est fait mention au paragraphe 11, l’appelante a le droit de déduire des frais de carte Visa de 530 $ en 2001, de 922 $ en 2002 et de 875 $ en 2003.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 28e jour de janvier 2008
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI431
+No DU DOSSIER DE LA COUR : 2006-2703(IT)I
+INTITULÉ : PHYLLIS JENSEN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 18 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 7 décembre 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me David Skrypichayko
+Avocate de l’intimée :
+Me Carrie Mymko
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : David Skrypichayko
+Cabinet : Skrypichayko LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il s’agit de recettes calculées par l’appelante dans son revenu d’entreprise et supprimées par le ministre étant donné que l’on ne pouvait trouver aucune trace ni aucune explication.
+[2] Dans les hypothèses de fait que le ministre a émises au paragraphe 19(2), il est déclaré que [traduction] « le montant de 15 866,73 $ qui a été déduit au titre d’un contrat de gestion en 2003 se rapportait à une gratification relative à l’année 2002 qui avait été déduite et admise à titre de dépense au cours de l’année d’imposition 2002 ».
+[3] 2001 DTC 655.
+[4] [1998] 1 R.C.S. 147.

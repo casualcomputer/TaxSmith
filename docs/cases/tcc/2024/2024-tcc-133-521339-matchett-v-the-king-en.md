@@ -1,0 +1,203 @@
+---
+title: "Matchett v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521339/index.do"
+last_modified: "2024-10-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 133"
+citation2: ""
+neutral_citation: "2024 TCC 133"
+decision_date: "2024-10-11"
+language: "en"
+item_id: "521339"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6045
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:35:54.955000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e862c46bcdb2ffb8944517361bf6a9179fd861e44065f255d27e187d95f71d9a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Matchett v. The King
+
+- Citation: 2024 TCC 133
+- Decision date: 2024-10-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6045, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Matchett v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-10-11
+Neutral citation
+2024 TCC 133
+File numbers
+2020-1851(IT)I, 2021-3074(IT)I, 2021-3122(IT)I, 2023-288(IT)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2020-1851(IT)I
+2021-3074(IT)I
+2021-3122(IT)I
+2023-288(IT)I
+BETWEEN:
+ALVIN D MATCHETT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on April 5, 2023, at Hamilton, Ontario
+Before: The Honourable Justice Susan Wong
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Terence Katerynych
+JUDGMENT
+The appeals numbered 2020-1851(IT)I and 2021-3074(IT)I for the 2018 and 2019 taxation years, respectively, are dismissed without costs.
+The appeal numbered 2021-3122(IT)I for the 2020 taxation year is quashed without costs, on the basis that the December 14, 2021 notice of appeal shall constitute the appellant’s notice of objection for that year.
+The appeal numbered 2023-288(IT)I for the 2021 taxation year is quashed without costs, on the basis that both the notices of objection and appeal were filed ahead of the February 3, 2023 assessment and were therefore invalid.
+Signed at Ottawa, Canada, this 11th day of October 2024.
+“Susan Wong”
+Wong J.
+Citation: 2024TCC133
+Date: 20241011
+Dockets: 2020-1851(IT)I
+2021-3074(IT)I
+2021-3122(IT)I
+2023-288(IT)I
+BETWEEN:
+ALVIN D MATCHETT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction/Overview
+[1] The issue in this appeal is whether the Minister of National Revenue properly disallowed the wholly dependent person credit (also known as the “equivalent to spouse” or “eligible dependant” credit) to Mr. Matchett for his 2018 and 2019 taxation years.
+Preliminary matters
+[2] The replies with respect to appeal numbers 2021-3122(IT)I and 2023‑288(IT)I set out the following preliminary objections:
+For 2021-3122(IT)I – the appellant did not submit a valid notice of objection nor request a time extension to do so.[1] More specifically, the Minister of National Revenue assessed Mr. Matchett for the 2020 taxation year on October 1, 2021, requested information from him about the eligible dependant claim on November 1, 2021, and rather than filing an objection, he filed an appeal to this Court on December 14, 2021.[2]
+For 2023-288(IT)I – with respect to the 2021 taxation year, Mr. Matchett filed a notice of objection to the Minister on January 27, 2023 and a notice of appeal to this Court on February 2, 2023, both of which preceded the Minister’s assessment on February 3, 2023.[3]
+[3] In both instances, the respondent asserted that the appeals were not valid but did not file supporting affidavits nor call witnesses in support of its motion to quash them.
+[4] During discussions with Mr. Matchett and respondent’s counsel at the commencement of hearing, it became clear that Mr. Matchett did not dispute the timelines and acknowledged that he began filing appeals to this Court increasingly early out of frustration. The Court explained to Mr. Matchett that there are no exceptions to the requirement to object before appealing[4] nor the statutory minimum 90-day period[5] between objecting and appealing.
+[5] To enable the two valid appeals to proceed: (1) without jeopardizing Mr. Matchett’s right to dispute the 2020 and 2021 taxation years on the same issue in the future, (2) without requiring the respondent to remedy the lack of affidavits and/or witnesses in support of the motion to quash, and (3) in recognition of the agreement between the parties as to the relevant timelines, this Court directed that:
+For 2021-3122(IT)I – the appeal of the 2020 taxation year is quashed on the basis that the December 14, 2021 notice of appeal (filed with the Court and received by the respondent) shall constitute Mr. Matchett’s notice of objection for 2020; and
+For 2023-288(IT)I – the appeal of the 2021 taxation year is quashed on the basis that both the notices of objection and appeal were filed ahead of the February 3, 2023 assessment. They were both premature and therefore, invalid. As of the date of hearing, Mr. Matchett was within the statutory 90-day period to file his notice of objection[6] for 2021 and this step was left in his hands.
+[6] The Court then proceeded with the hearing of appeals numbered 2020‑1851(IT)I and 2021-3074(IT)I, which deal with the 2018 and 2019 taxation years, respectively.
+Legislative framework
+[7] Paragraph 118(1)(b) of the Income Tax Act sets out the specific qualifying criteria for the credit. They include such factors as marital/common-law status, self-contained domestic establishment (i.e. where the claimant and the wholly dependent person live), residency, the relationship between the claimant and the wholly dependent person, and whether the wholly dependent person is under 18 years of age or dependent by reason of mental or physical infirmity.
+[8] Subsection 118(5) prohibits the claiming of the credit where the claimant pays support with respect to the wholly dependent person, and reads as follows:
+118(5) Support – No amount may be deducted under subsection (1) in computing an individual’s tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual’s spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+[9] A “support amount” under subsection 56.1(4) essentially consists of spousal and/or child support arising from either a written agreement or a court order, and is payable on a periodic basis. The full definition reads as follows:
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[10] With respect to the deduction of a support amount under section 60, the practical effect of the formula set out in paragraph 60(b) typically leads to a deduction for spousal support payments and not child support, where the initial court order or written agreement dealing with child support is dated after April 1997.[7] Considering it is now 2024, most agreements would likely be dated after April 1997.
+[11] Lastly, subsection 118(5.1) says that where by virtue of the prohibition under subsection 118(5), no one qualifies for the credit, then the prohibition does not apply, i.e. the wholly dependent person credit can be claimed. The section reads as follows:
+118(5.1) Where subsec. 118(5) does not apply – Where, if this Act were read without reference to this subsection, solely because of the application of subsection (5), no individual is entitled to a deduction under paragraph (b) or (b.1) of the description of B in subsection (1) for a taxation year in respect of a child, subsection (5) shall not apply in respect of that child for that taxation year.
+Question
+[12] The central question here lies in whether the subsection 118(5) prohibition or the subsection 118(5.1) exemption applies in the circumstances.
+Factual background
+[13] Mr. Matchett and his ex-spouse separated in March 2016 and entered into a written separation agreement on July 28, 2016.[8] They have two children, who were about 13 and 8 years old by the time of this hearing.[9]
+[14] The separation agreement provided for equal shared custody, with each parent having the children for an equal number of days over a repeating 4-week cycle.[10] It was also agreed that Mr. Matchett’s ex-spouse would provide the primary residence for the children and be identified as the primary caregiver for all institutional purposes.[11]
+[15] With respect to child support, the agreement stated as follows:
+(1) The parties agree that the income of the Husband was $55,000 for the calendar year 2015 and the income of the Wife was $36,500.00 from her employment in 2015. The parties further agree that child support for the current calendar year will be based upon income earned in the previous year and that after annual disclosure of income, all adjustments to child support shall occur as of May 1st annually hereafter commencing in 2012[sic].
+(2) Commencing on the 1st day of September 2016, and on the first day of each subsequent month, the Husband will pay to the Wife for the support of the children the Guideline amount of $289.00 per month being an amount calculated on the set-off of support based upon the respective income of the parties…
+…
+(5) The parties shall, on an annual basis, exchange financial information as to their respective income…
+(6) It is the intention of the parties to make annual adjustments of child support and contribution to ongoing extra curricular activities based upon such disclosure being provided, with the date of change of ongoing child support to be May 1st annually hereafter for so long as child support is payable.[12]
+[16] Mr. Matchett testified that one cheque representing the set-off amount was paid by him to his ex-spouse for net convenience, i.e. to avoid the inconvenience of sending cheques to each other. He also stated that the credit was allowed to him for 2017 after submitting a jointly signed letter dated September 17, 2018 to the Minister saying that: (1) they had 50-50 custody of both children, (2) they were each responsible for the same expenses with respect to one child each, and (3) the separation agreement stated he was to pay his ex-spouse monthly child support of $283.[13] As the agreement said the payment was $289, this may have been a typographical error.[14]
+[17] When the credit was disallowed to Mr. Matchett in 2018 and going forward, he submitted a jointly signed letter dated January 7, 2023 to the Minister saying that: (1) they have always had a mutually agreed shared 50/50 custody agreement for both children, (2) they each claim the credit with respect to a particular child, and (3) doing so keeps things as equal as possible between them financially.[15]
+[18] Mr. Matchett testified that the settlement agreement was the result of mediation and that he continues to make these payments to the present day. He also stated that his ex-spouse has complete discretion as to how she uses the money.
+Analysis and discussion
+[19] The Federal Court of Appeal has said that in the context of support payments and the wholly dependent person credit, the concept of set-off distracts from the real issue which is whether or not the appellant is the only parent making a child support payment.[16]
+[20] In Verones, the appellant paid monthly child support in an amount which represented a set-off between what he and his former spouse were each required to contribute under the Federal Child Support Guidelines.[17] Their respective Guideline incomes were referenced in the court order but only the appellant was directed to pay a support amount.[18]
+[21] In upholding the Tax Court’s dismissal, the Court considered the Supreme Court of Canada’s statement that the underlying principle behind the Guidelines is that spouses have a joint financial obligation to support their children in accordance with their relative abilities to do so.[19] After determining their respective obligations to contribute under the Guidelines, one parent may be required to make child support payments to the other; however, the set-off concept does not transform the respective obligations into support payments for income tax purposes.[20]
+[22] In the present appeal, the separation agreement only requires Mr. Matchett to pay child support. With respect to his ex-spouse, her income was taken into consideration in the Guideline calculation and the income amount appears in the agreement. However, there is no requirement in the agreement that she pay child support to the appellant based on her Guideline income.
+[23] The Minister and the Courts have consistently interpreted subsection 118(5) to require a clear expression of one parent’s obligation to pay child support to the other. If both parents must pay support to each other, subsection 118(5) would prohibit both of them from claiming the credit, and the mutual prohibition then triggers subsection 118(5.1), i.e. to allow them to claim the credit.
+[24] Mr. Matchett sought to rely on the Tax Court’s decision in Lawson.[21] However, the circumstances in Lawson were different because Mr. Lawson paid a support amount that was not solely based on the Guidelines. Of greater relevance is the difference in wording between the separation agreement (which was in dispute)[22] and the subsequent minutes of settlement which were not in dispute because they set out more clearly that each parent was to pay child support to the other.[23]
+[25] I appreciate Mr. Matchett’s arguments and the circumstances which led to these appeals. Unfortunately, the legislation and case law are clear as to the type of wording required in order to qualify for the credit. I hope that Mr. Matchett and his ex-spouse will consider updating the wording of their agreement to accurately reflect their stated intentions for income tax purposes. Subsection 152(4.1) might then enable him to request a reassessment by consent, although there is a rolling 10-year time limit for doing so.
+Conclusion
+[26] The appeals numbered 2020-1851(IT)I and 2021-3074(IT)I for the 2018 and 2019 taxation years, respectively, are dismissed without costs.
+[27] The appeal numbered 2021-3122(IT)I for the 2020 taxation year is quashed without costs, on the basis that the December 14, 2021 notice of appeal shall constitute the appellant’s notice of objection for that year.
+[28] The appeal numbered 2023-288(IT)I for the 2021 taxation year is quashed without costs, on the basis that both the notices of objection and appeal were filed ahead of the February 3, 2023 assessment and were therefore invalid.
+Signed at Ottawa, Canada, this 11th day of October 2024.
+“Susan Wong”
+Wong J.
+CITATION:
+2024 TCC 133
+COURT FILE NO.:
+2020-1851(IT)I, 2021-3074(IT)I, 2021‑3122(IT)I, 2023-288(IT)I
+STYLE OF CAUSE:
+Alvin D Matchett v. His Majesty The King
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+April 5, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+October 11, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Terence Katerynych
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Reply at paragraphs 1 to 3
+[2] Reply at paragraphs 12 to 14
+[3] Reply at paragraphs 1 to 3, 8 to 10
+[4] Income Tax Act, subsection 169(1)
+[5] Income Tax Act, paragraph 169(1)(b)
+[6] Income Tax Act, subsection 165(1)
+[7] Definition of “commencement day”, subsections 56.1(4) and 60.1(4)
+[8] Exhibit A-2
+[9] Exhibit A-1, third page
+[10] Exhibit A-2, paragraph 3(2)
+[11] Exhibit A-2, paragraph 3(1)
+[12] Exhibit A-2, paragraph 8
+[13] Exhibit A-1, fourteenth page
+[14] Exhibit A-2, paragraph 8
+[15] Exhibit A-1, third page
+[16] Verones v. Canada, 2013 FCA 69 at paragraph 6
+[17] SOR/97-175
+[18] Verones v. The Queen, 2012 TCC 291 at paragraph 6, upheld Verones v. Canada, 2013 FCA 69 at paragraphs 3 and 4
+[19] Contino v. Leonelli-Contino, 2005 SCC 63 at paragraph 32; Verones v. Canada, 2013 FCA 69 at paragraph 7
+[20] Verones v. Canada, 2013 FCA 69 at paragraph 8
+[21] Lawson v. The Queen, 2017 TCC 131
+[22] Lawson v. The Queen, 2017 TCC 131 at paragraph 16
+[23] Lawson v. The Queen, 2017 TCC 131 at paragraph 20

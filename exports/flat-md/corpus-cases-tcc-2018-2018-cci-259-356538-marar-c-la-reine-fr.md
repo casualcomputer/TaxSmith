@@ -1,0 +1,161 @@
+---
+title: "Marar c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/356538/index.do"
+last_modified: "2018-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 259"
+citation2: ""
+neutral_citation: "2018 CCI 259"
+decision_date: "2018-12-18"
+language: "fr"
+item_id: "356538"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4990
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:39:14.766000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ee24ff47bcca2bbeda8fe6cadd689ff7430b1e7e5a80741658e7f4d01f17906"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marar c. La Reine
+
+- Citation: 2018 CCI 259
+- Decision date: 2018-12-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4990, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-12-18
+Référence neutre
+2018 CCI 259
+Numéro de dossier
+2017-3267(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3267(IT)I
+ENTRE :
+NAZER NSM MARAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 19 novembre 2018, à Windsor (Ontario).
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Dominik Longchamps
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’égard de la nouvelle cotisation établie sous le régime de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2014 de l’appelant est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2018.
+« R. S. Bocock »
+Juge Bocock
+Référence : 2018 CCI 259
+Date : 20181218
+Dossier : 2017-3267(IT)I
+ENTRE :
+NAZER NSM MARAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. INTRODUCTION
+[1] M. Marar est interprète et traducteur. Il gagne sa vie en traduisant des documents, des témoignages, des entrevues et des interrogatoires. En 2014, il a déclaré un revenu de profession libérale de 43 841,73 $ provenant de son entreprise de traduction et d’interprétation (l’« entreprise »). Le revenu de profession libérale déclaré provenait de divers utilisateurs des services de son entreprise, soit des tribunaux de tous les niveaux, divers organismes de service, la GRC et l’Association canadienne pour la santé mentale. Le revenu d’emploi déclaré a été reçu d’un seul payeur, soit l’Agence des services frontaliers du Canada (ASFC).
+[2] M. Marar a également demandé le crédit canadien d’impôt non remboursable pour emploi en fonction du revenu provenant de l’ASFC (le « travail effectué pour l’ASFC »). Le ministre a émis un nouvel avis de cotisation à l’intention de M. Marar, a refusé de reconnaître comme revenu tiré d’une source d’emploi le travail effectué pour l’ASFC et l’a reclassifié comme revenu de profession libérale provenant de son entreprise. Le ministre a en outre carrément rejeté le crédit canadien d’impôt non remboursable pour emploi et a émis un avis à l’égard des cotisations accrues supplémentaires non versées au RPC sur les revenus provenant d’un travail autonome. M. Marar interjette appel de l’ensemble de cette décision. Par conséquent, la seule question dont la Cour est saisie est de savoir si les montants reçus du travail effectué pour l’ASFC étaient des revenus d’emploi ou des revenus de profession libérale. La situation du crédit canadien d’impôt non remboursable pour emploi et du RPC sera éclairée par cette décision.
+II. L’EXPOSÉ DES FAITS
+[3] Il n’y a pas beaucoup de faits contestés. L’ASFC a produit un feuillet d’information T1204 (Paiements contractuels de services du gouvernement) reflétant le revenu des travaux effectués pour l’ASFC consigné à la case 84 (Paiements composés de services et de biens). Le numéro d’entreprise de M. Marar était indiqué sur le formulaire T1204, mais non pas son numéro d’assurance sociale. M. Marar a fait le suivi de ses heures de travail auprès de l’ASFC et a déclaré que les revenus y associés se trouvaient dans des factures faisant état des heures de travail. M. Marar a produit pour la Cour son « rapport détaillé sur les montants facturés aux clients » pour toute l’année 2014, qui faisait état d’une rémunération de 20 $ l’heure. On y retrouvait occasionnellement la mention [traduction] « rajustement », qui semble représenter un retour de crédit à l’ASFC pour certaines sommes perçues en trop ou une certaine forme de remboursement. Le calcul du retour de crédit a été effectué cinq fois au cours de l’année.
+[4] En ce qui concerne les services de traduction de M. Marar qui n’ont pas été contestés, un site Web a été établi à cet effet à des fins de publicité. Il a été conçu par sa fille. L’entreprise de l’appelant, du type à propriétaire unique, porte le nom d’ATIS Connects. L’interprétation et la traduction de l’arabe vers l’anglais en constituent les services offerts. Outre les autres clients de l’entreprise, l’ASFC est inscrite en tant que cliente sur le site Web de l’appelant.
+[5] M. Marar a décrit le travail effectué pour l’ASFC en tant que services concordant en général avec ceux offerts aux clients énumérés de son entreprise. Selon les déclarations de M. Marar, voici en quoi constituaient les différences factuelles entre le travail effectué pour l’ASFC et les services offerts aux clients de l’entreprise : nature hautement sécuritaire des services de l’ASFC, nombre supérieur d’heures des services de traduction fournis pour l’ASFC, cohésion d’équipe entre lui et les employés de l’ASFC et faible rémunération horaire offerte par l’ASFC. Cette dernière différence signifiait que les services fournis à l’ASFC ne représentaient pas pour M. Marar un [traduction] « taux de rémunération élevé ». Le taux horaire n’a pas fait l’objet de négociations; l’ASFC offrait un taux de rémunération publié à prendre ou à laisser. M. Marar a cependant déclaré que le nombre d’heures de travail pour l’ASFC variait entre 1 200 et 1 300 heures annuellement, constituées de longues journées de travail et arrondissant ses revenus lorsque les clients de son entreprise ne faisaient pas appel à ses services. Les exigences du travail pour l’ASFC ne lui permettaient pas d’exercer beaucoup de contrôle sur ses heures de travail, la nature de son travail ou sa régularité. Les demandes étaient présentées à M. Marar par un ou plusieurs agents de l’ASFC et portaient sur un dossier, un projet ou un quart de travail donné. Lorsqu’un engagement a déjà été pris avec un client de son entreprise, il refuse le travail offert par l’ASFC.
+[6] Pour ce qui est de la rémunération des heures supplémentaires, des congés payés et des avantages sociaux (assurance maladie complémentaire ou des frais médicaux, assurance des soins dentaires et assurance-vie), l’ASFC n’a rien prévu en ce sens à l’intention de M. Marar. L’équipement fourni à M. Marar pour le travail effectué pour l’ASFC était minimal au vu des tâches accomplies : instruments d’écriture, papier et bureau où mener des entrevues. En cas d’indisponibilité de M. Marar, l’ASFC fait appel à un autre traducteur ou interprète ou reporte la tâche particulière à un moment où M. Marar est disponible.
+[7] M. Marar n’a pas collaboré avec l’avocat de l’intimée lorsque celui-ci lui a demandé de fournir des renseignements au sujet d’un superviseur, d’une personne-ressource principale ou d’un planificateur particulier de l’ASFC. Il en fut ainsi tant avant que pendant l’audience. M. Marar a toutefois confirmé, lors de l’audience, qu’il y avait de 6 à 10 superviseurs par quart de travail; n’importe lequel d’entre eux communique avec lui pour l’attribution de travail. Il est libre de refuser le travail offert par l’ASFC. S’il doit s’absenter pendant les heures de travail, il n’a qu’à en aviser l’ASFC et ensuite quitter. Comme il l’a déclaré, [traduction] « si je dois m’absenter, je quitte, un point c’est tout ». En ce qui concerne les personnes qui le remplacent lorsqu’il est absent, il [traduction] « n’a aucune idée de ce qui en est ».
+[8] M. Marar a déclaré qu’il était le seul fournisseur de services de son entreprise. Le site Web où l’on décrit l’ASFC comme un client de l’entreprise a été conçu par sa fille. Cette classification est erronée. Dans son témoignage, tant en interrogatoire principal qu’en contre-interrogatoire, et dans ses observations, M. Marar a dit qu’il [traduction] « n’a jamais prétendu être un employé » et qu’il ne comparaissait pas devant la Cour pour ce faire. Toutefois, le fondement de son embauche auprès de l’ASFC constituait [traduction] « un contrat de louage de services permanent d’une durée indéterminée » et, dès lors, un emploi.
+III. LES QUESTIONS EN LITIGE ET LE DROIT APPLICABLE
+[9] Voici l’essentiel des observations de M. Marar, fondées sur la preuve, en ce qui concerne l’ASFC :
+a) il est travailleur permanent pour une période indéterminée en vertu d’un contrat de louage de services;
+b) le travail constitue une entrave à son entreprise commerciale, car il a pour effet de réduire la « véritable source d’argent » qu’il tire par ailleurs de l’exploitation de son entreprise;
+c) il n’est pas et n’a jamais prétendu être un employé, mais la nature dirigée, restreinte et contrôlée du travail à l’ASFC ne peut mener à la conclusion que le travail relève d’une entreprise commerciale ou professionnelle.
+[10] Comme on l’a décrit pour le bénéfice de M. Marar à la clôture de la preuve et des observations, la Cour est souvent saisie de cette question, à savoir si un travailleur exerce ses activités suivant un contrat de louage de services d’une durée indéterminée ou suivant un contrat d’entreprise particulier. Dans le premier cas, la source de revenus est l’emploi. Dans le deuxième cas, il s’agit de revenus provenant d’un travail autonome, d’une entreprise ou d’une profession libérale, comme ceux que M. Marar a reçu des clients de son entreprise. Bien que les faits soient plus ou moins mis en évidence ou nuancés, comme le lien entre les parties, le processus de détermination de la question centrale demeure invariable, à savoir si une personne dont les services ont été retenus les exécute en tant que personne en affaires à son propre compte (arrêt Wiebe Door Service Ltd. c. M.N.R., [1986] 3 C.F. 553 (C.A.), (« l’arrêt Wiebe Door »), tel qu’approuvé par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59.
+[11] Le processus de détermination comporte deux étapes. En premier lieu, la Cour évalue l’intention subjective des parties établie par écrit ou par action dès le début. En second lieu, le juge doit analyser la situation factuelle concernant la conduite des parties afin de déterminer si elle appuie ou rejette l’intention subjective (arrêt TBT Personnel Services Inc c. Canada, 2011 CAF 256; arrêt 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu national), 2013 CAF 85). En comparant la réalité objective à l’intention subjective, la Cour doit examiner les facteurs de l’arrêt Wiebe Door, soit le contrôle, la propriété des outils, la capacité de sous-traiter, la possibilité de réaliser un bénéfice et le risque de perte et d’intégration dans l’entreprise du payeur. Après avoir effectué cet examen, la Cour doit déterminer, tout compte fait, si la personne est en affaires à son propre compte. La liste des facteurs n’est pas exhaustive et aucun facteur n’est prépondérant.
+IV. L’ANALYSE ET LA DÉCISION
+[12] Ce qui est clair, c’est la séquence à prendre en considération. La première étape de l’analyse devrait toujours être de déterminer l’intention des parties puis, en deuxième lieu, d’examiner sous le prisme de cette intention la question de savoir si leurs rapports, concrètement, révèlent des rapports d’employeur à employé ou de client à entrepreneur indépendant (l’arrêt Connor Homes au paragraphe 42).
+a) L’intention des parties
+i) Y a-t-il une intention mutuelle subjective?
+[13] Dans le présent appel, l’intention subjective constitue un problème de preuve pour M. Marar. De son seul point de vue, il a admis ou fait valoir trois fois en tout qu’il n’avait jamais déclaré être un employé de l’ASFC. Le travail pour l’ASFC est plus ou moins transformé en contrat de louage de services. Ceci représente pour la Cour une concession faite au début voulant que même l’intention subjective initiale de l’appelant va à l’encontre de la position adoptée au sujet de l’opposition et de l’appel. L’intention commune exige toutefois l’analyse du destinataire du travail, l’ASFC. Il n’existait pas de contrat de travail écrit. Le versement de la rémunération faisait l’objet d’une facturation distincte. De plus, la facturation a été effectuée de façon sporadique et a fait l’objet de crédits et de rajustements entre M. Marar et l’ASFC. Des T1204, et non des T4, ont été émis en fonction de la rémunération. On n’y trouvait pas les retenues habituelles des employés ni d’avantages sociaux payés par l’ASFC : impôt sur le revenu, retenues au titre du RPC ou de l’AE ou assurance des soins dentaires ou assurance-maladie complémentaire. Outre l’absence d’éléments de preuve déposés à la Cour relativement à l’intention initiale de l’ASFC, il n’existe pas la moindre preuve de la part de M. Marar au sujet du début de sa période d’affectation auprès de l’ASFC, des rencontres qu’il a eues avec le personnel de la comptabilité ou des ressources humaines avant d’amorcer son travail pour l’ASFC ou des courriels, lettres ou notes de service faisant état des fondements sur lesquels ses services étaient retenus. Somme toute, s’il faut faire un choix, l’intention initiale des parties était d’obtenir des services de traduction d’un fournisseur de services de traduction commercial établi.
+ii) Une analyse plus poussée est-elle nécessaire?
+[14] Outre les conclusions de la Cour ci-dessus, il est nécessaire de poursuivre l’analyse des facteurs de l’arrêt Wiebe Door de façon à confirmer que l’intention initiale des parties d’obtenir un contrat pour des services de traduction ne s’est pas transformée, comme l’allègue M. Marar, en un contrat de louage de services pour une période indéterminée entre lui et l’ACSF.
+i) Le contrôle
+[15] M. Marar indique que le taux de rémunération de 20 $ l’heure n’est pas négociable et qu’il ne correspond pas à son point de vue par rapport à la rémunération qu’il reçoit en exploitant son entreprise. Aucun élément de preuve n’a été fourni au sujet des tarifs et des recettes de son entreprise. Même si c’était le cas, M. Marar a admis qu’il était libre de refuser à volonté le travail effectué pour l’ASFC, ce qu’il a déjà fait, lorsque cela entre en conflit avec l’exploitation de son entreprise. Cela constitue la liberté de refuser du travail pour l’ASFC. En soi, c’est une liberté qui va à l’encontre de l’emploi. M. Marar a effectivement choisi le moment et la durée de son travail à l’ASFC. Lorsqu’il doit s’absenter, il le fait. S’il ne peut être présent, il réorganise et exécute le travail pour l’ASFC à une date ultérieure. Bien qu’il ne puisse effectivement se remplacer lui-même – il est le seul traducteur de son entreprise – il n’a pas fait mention du fait qu’il pourrait être remplacé s’il comptait d’autres traducteurs parmi ses effectifs.
+[16] En ce qui concerne les heures de travail, on a proposé qu’elles étaient régulières, prévues à l’horaire et d’une quantité correspondant à un emploi à temps plein. Les faits ne corroborent pas cette proposition. M. Marar a produit toutes ses heures de travail pour l’ASFC pour 2014. Fait curieux, ces heures relatives à l’« emploi » ont été imprimées sur un document d’ATIS Connect intitulé « Client Fees Data Report » (rapport de données sur les honoraires des clients). Selon M. Marar, les entrées semblent également comporter un numéro de référence afférent à la facturation et la perception de la TVH. Hormis cela, aucune facture ne compte le même nombre d’heures au cours d’un mois donné. De plus, les entrées variaient entre 17 heures et aussi peu que 3 heures par période de facturation (là encore, pas à la même date de chaque mois ou de chaque semaine). Les entrées comprenaient également des rétrofacturations au crédit de l’ASFC. Enfin, M. Marar a indiqué que le nombre d’heures consacrées au travail pour l’ASFC varie entre 1 300 et 1 400 heures par année. Le nombre total d’heures de travail dans le rapport de données sur les honoraires des clients pour 2014 était de 893 heures. Ces heures sporadiques, les rajustements de facturation et l’imputation de la TVH sur la rémunération correspondent à ce que l’on trouve dans un contrat d’entreprise.
+[17] Pour ce qui est de la supervision, il n’y a jamais eu d’indication que les services de traduction étaient supervisés. En premier lieu, personne à l’ASFC ne possédait les compétences nécessaires pour ce faire. Si cela avait été le cas, les services de M. Marar n’auraient pas été requis. En second lieu, ce sont ses services qui ont permis aux enquêteurs et aux greffiers de l’ASFC de poursuivre leur travail et de s’acquitter de leurs tâches. Il est certain qu’à certains moments, M. Marar était présent avec les gardiens de l’ASFC pendant l’enquête et l’interrogatoire des personnes interrogées en arabe. Comment pourrait-il en être autrement? Il en est clairement de même pour le travail effectué pour la GRC, les cours supérieures et les cours provinciales dans le cadre de l’exploitation de son entreprise. En revanche, ces derniers étaient tous des clients de l’entreprise. Que ce soit lors de l’exploitation de son entreprise ou des travaux effectués pour l’ASFC, c’est M. Marar qui a le mieux résumé la situation : « J’ai fourni, à ma guise, un service de traduction impartial et professionnel. » Il ne s’agit donc pas d’un employé assujetti à des normes uniformes de temps de tâche, de produit de travail ou de surveillance de l’assurance de la qualité.
+ii) La propriété des outils
+[18] La propriété des outils n’est pas particulièrement pertinente en ce qui a trait au travail de traduction. Il était nécessaire que M. Marar se rende dans les locaux de l’ASFC et utilise ses bureaux et probablement ses ordinateurs sécurisés, au besoin. En comparaison, cela était également vrai pour ses clients d’entreprise, soit la GRC et les tribunaux. L’absence d’application de ce facteur renforce probablement l’aspect « services professionnels » du travail plutôt que l’aspect « propriété » des affaires.
+iii) La possibilité de bénéfice et le risque de perte
+[19] M. Marar a déclaré que le travail pour l’ASFC a constitué une entrave à la « véritable source d’argent » qu’il tire de l’exploitation de son entreprise. À ce titre, il préfère offrir des services à ses clients d’entreprise si ceux-ci sont disponibles. Le taux horaire fixe était inférieur pour le travail effectué pour l’ASFC. Il ne pourrait jamais gagner autant d’argent en travaillant pour l’ASFC. C’est ce facteur qui indique clairement pourquoi le travail effectué pour l’ASFC faisait partie de l’exploitation de l’entreprise de M. Marar et n’en était pas distinct. M. Marar semble assimiler les honoraires moins élevés qu’il pourrait percevoir de l’ASFC à ceux d’un « emploi » plutôt qu’à des honoraires découlant d’une « profession libérale ». Cette comparaison omet un point important. M. Marar a eu l’occasion de faire la promotion de ses services pour l’ensemble de son service de traduction. Il peut ainsi accepter le travail de l’ASFC et réaliser un « bénéfice moindre » ou, si d’autres clients requièrent ses services, refuser le « travail captivant » de l’ASFC et accepter le travail plus rentable d’autres clients. Une telle capacité de manipuler les revenus par choix et volonté est un facteur économique central du résultat du bénéfice, à savoir les revenus moins les dépenses. Un contrat d’emploi avec ses heures normales de travail, son assiduité obligatoire et ses tâches fixes n’accorderait pas suffisamment de latitude pour choisir un travail de valeur différente pour différentes personnes recevant les services.
+iv) L’intégration des services
+[20] M. Marar disposait de son propre service de comptabilité, de son propre site Web et de sa propre organisation de l’entreprise, disponibles et déployables pour la prestation des services de traduction. Ce n’est pas le cas de l’ASFC. C’est la principale raison pour laquelle l’ASFC a eu besoin des services de M. Marar. Il a assuré la prestation de ces services de façon autonome, sans aucun soutien significatif ou connexe ni apport subséquent de services de l’ASFC. De A à Z, les services de traduction étaient exclusivement de son fait et de son ressort.
+V. LA CONCLUSION
+[21] Les seules distinctions qui existent entre le travail effectué pour l’ACSF et le travail effectué dans le cadre de l’entreprise, selon le point de vue de M. Marar également, sont basées sur les faits que le travail effectué pour l’ACSF est moins rémunérateur pour lui, représente davantage d’heures de travail, est un peu monotone et est en grande partie exécuté en présence du même personnel de l’ACSF à un ou deux emplacements identiques. Outre cela, M. Marar a fourni les mêmes services à des clients semblables, tant dans le cadre de l’exploitation de son entreprise que du travail effectué pour l’ASFC. Selon l’analyse entreprise par la Cour, l’intention mutuelle initiale des parties et la réalité objective révèlent que M. Marar était en affaires pour son propre compte, que ce soit au niveau de son entreprise ou du travail effectué pour l’ASFC. L’appel est donc rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 18e jour de décembre 2018.
+« R. S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2018 CCI 259
+Nº DU DOSSIER DE LA COUR :
+2017-3267(IT)I
+INTITULÉ :
+NAZER NSM MARAR ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 novembre 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 18 décembre 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Dominik Longchamps
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

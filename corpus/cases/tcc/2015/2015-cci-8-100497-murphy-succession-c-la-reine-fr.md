@@ -1,0 +1,234 @@
+---
+title: "Murphy (Succession) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/100497/index.do"
+last_modified: "2015-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 8"
+citation2: ""
+neutral_citation: "2015 CCI 8"
+decision_date: "2015-01-13"
+language: "fr"
+item_id: "100497"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2790
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:44:33.727000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3e5790d4b70a71b300fb61310b3cce8f118a9e510f604c4f3c782d2671ea67d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Murphy (Succession) c. La Reine
+
+- Citation: 2015 CCI 8
+- Decision date: 2015-01-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2790, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murphy (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-01-13
+Référence neutre
+2015 CCI 8
+Numéro de dossier
+2012-5087(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-5087(IT)G
+ENTRE :
+LA SUCCESSION DE JOHN ARTHUR MURPHY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 22 septembre 2014, à Halifax (Nouvelle-Écosse)
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocat de l'appelante :
+Me M. Gerard Tompkins, c.r.
+Avocat de l'intimée :
+Me David I. Besler
+JUGEMENT
+L'appel des nouvelles cotisations établies en application de la Loi de l'impôt sur le revenu pour l'année d'imposition 2009 de l'appelante est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 13e jour de janvier 2015.
+« V.A. Miller »
+La juge Miller
+Traduction certifiée conforme
+ce 20e jour d'avril 2015.
+Yves Bellefeuille, réviseur
+Référence : 2015 CCI 8
+Date : 20150113
+Dossier : 2012-5087(IT)G
+ENTRE :
+LA SUCCESSION DE JOHN ARTHUR MURPHY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question en litige dans le présent appel consiste à déterminer si l'appelante doit inclure le produit d'un régime enregistré d'épargne‑retraite (« REÉR ») s'élevant à 237 026 $ dans le revenu de John Arthur Murphy pour l'année d'imposition 2009.
+[2] Les parties s'entendent de façon générale sur les faits de l'espèce. Au début de l'audience, l'avocat de l'intimée a présenté par écrit un exposé des faits, que l'appelante a accepté sous réserve du remplacement de la date inscrite aux paragraphes 26 et 27, à savoir le 13 mai 2011, par le 26 avril 2011. Le document a été admis en preuve à titre d'exposé conjoint des faits, dans lequel la date inscrite aux paragraphes 26 et 27 a été remplacée par le 26 avril 2011. Ces faits et les éléments de preuve présentés à l'audience sont décrits ci‑dessous.
+[3] Barbara DeMarsh et Harry Munro ont témoigné à l'audience.
+Les faits [4] John Arthur Murphy est décédé intestat le 15 février 2009. Son épouse, Barbara DeMarsh (« Mme DeMarsh »), et trois enfants adultes issus du premier mariage de M. Murphy (« les enfants ») ont survécu à celui‑ci. Ces personnes étaient les seuls héritiers de M. Murphy.
+[5] Selon Mme DeMarsh, M. Murphy est mort soudainement. Cette mort prématurée a bouleversé Mme DeMarsh et les enfants. Cependant, la relation entre les héritiers s'est détériorée rapidement dès le début des discussions sur le partage des biens de l'appelante. La relation entre Mme DeMarsh et les enfants est devenue conflictuelle et ils ont chacun retenu les services d'un avocat responsable de les conseiller et de les représenter. Mme DeMarsh a retenu les services de Harry Munro, qui pratiquait le droit successoral.
+[6] Au moment de son décès, M. Murphy possédait de nombreux biens, y compris le foyer conjugal, un terrain agricole, des terres forestières, des immeubles locatifs, des chalets, du bétail et trois REÉR. La juste valeur marchande d'un de ces REÉR était de 237 026 $, et les enfants étaient désignés comme bénéficiaires de ce régime. Le 15 février 2009, ce REÉR n'était pas venu à échéance. L'appel porte sur ce REÉR de la CIBC Wood Gundy, dont le numéro de compte est le 552‑69883. J'y ferai référence en le nommant le « REÉR en question ».
+[7] Aux termes de la loi de la Nouvelle‑Écosse intitulée Intestate Succession Act (Loi sur les successions non testamentaires), Mme DeMarsh avait droit au foyer conjugal ou à 50 000 $ et à 40 % du reste des biens de M. Murphy. Cependant, les différents biens n'étaient pas encore évalués et lorsque le moment est venu de réellement partager les biens, comme l'a dit Me Munro, [TRADUCTION] « tout est dans les détails ».
+[8] Le 22 septembre 2009, le tribunal successoral de la Nouvelle‑Écosse a accordé à Mme DeMarsh et à deux des enfants (Lindsay Murphy et Michael Murphy) l'administration de la succession. Ils ont été nommés comme représentants personnels de M. Murphy et les biens meubles et immeubles faisant partie de la succession leur ont été dévolus.
+[9] Le 30 avril 2010, Mme DeMarsh, les représentants personnels et les enfants ont conclu une entente prévoyant que Mme DeMarsh renonçait à toute réclamation à l'égard d'un chalet en contrepartie du transfert d'un REÉR de 160 000 $ en sa faveur. Il s'agit de la seule entente que les héritiers ont conclue avant la production de la déclaration de revenus finale de M. Murphy.
+[10] La déclaration de revenus finale de M. Murphy a été produite le 30 avril 2010 et a fait l'objet d'un avis de cotisation du 20 mai 2010. La déclaration de M. Murphy indiquait un revenu de 256 829 $ tiré d'un REÉR. Cette somme comprenait le REÉR en question.
+[11] Le 20 septembre 2010, Mme DeMarsh a présenté une demande à la Cour suprême de la Nouvelle‑Écosse en application de l'article 12 de la loi intitulée Matrimonial Property Act (Loi sur les biens matrimoniaux), R.S.N.S. 1989, ch. 275. Dans cette demande, où elle a nommé la succession de John Arthur Murphy comme intimée, elle a demandé une ordonnance sur le partage des biens matrimoniaux.
+[12] À la suite de négociations, l'appelante, Mme DeMarsh et les enfants ont conclu un règlement à l'amiable entrant en vigueur le 31 décembre 2010 aux termes duquel ils convenaient de partager et de régler les biens matrimoniaux de l'appelante. Selon ce règlement à l'amiable, le produit de deux REÉR serait transféré dans un seul REÉR dont Mme DeMarsh était la rentière. Si l'Agence du revenu du Canada (ARC) acceptait ce transfert à titre de roulement entre époux et remboursait les impôts payés par l'appelante, Mme DeMarsh recevrait ce remboursement. Le règlement à l'amiable comprenait les dispositions énoncées ci‑dessous.
+[TRADUCTION]
+1. Les enfants sont les bénéficiaires désignés de deux régimes enregistrés d'épargne‑retraite (« REÉR ») auprès de la CIBC Wood Gundy portant les numéros de compte 552‑69883 et 552‑72469 et ayant respectivement une valeur de 237 026 $ et de 155 210 $ à la date du décès. Les enfants, à titre personnel, et Michael Bernard Murphy et Lindsay Alexa Murphy, à titre de représentants personnels de la succession, conviennent de prendre toutes les mesures et de signer tous les documents nécessaires, notamment une ordonnance par consentement dans la demande présentée aux termes de la Matrimonial Property Act, pour effectuer le transfert du solde des deux REÉR susmentionnés dans un REÉR dont Barbara est la rentière, avec report de l'impôt. Les documents comprendront notamment les documents figurant à l'annexe A des présentes.
+[...]
+3. Les parties conviennent de prendre toutes les mesures nécessaires pour que la Cour suprême de la Nouvelle‑Écosse rende une ordonnance par consentement dans la demande 2010 ANT. NO. 336426 qu'a présentée Barbara DeMarsh à l'endroit de la succession de John Arther [sic] Murphy. Cette ordonnance sera pour l'essentiel conforme à l'annexe B des présentes (l'« ordonnance »).
+4. La succession convient de verser à Barbara le montant total du remboursement d'impôt découlant directement du transfert des REÉR nos 552‑69883 et 31874‑5 en application du paragraphe 146.3(1) et de l'alinéa 60l) de la Loi de l'impôt sur le revenu que la succession recevra après la production de la déclaration de revenus finale modifiée de John Arther [sic] Murphy. Les parties reconnaissent que la valeur de ce remboursement, estimée par la comptable de la succession, Kelly Polley, s'élève à 123 920,46 $. Barbara convient que la succession déduira de ce remboursement toutes les sommes que la succession lui aura avancées avant la date du paiement. Les enfants conviennent de donner tous les consentements ou les autorisations nécessaires pour que la succession effectue le paiement susmentionné. Barbara convient que si la succession reçoit, pour une quelconque raison, un remboursement d'impôt sans lien avec les REÉR susmentionnés, ce remboursement demeurera un élément d'actif de la succession.
+5. Les parties conviennent que si l'ordonnance par consentement susmentionnée ne convainc pas le ministre du Revenu national de prolonger la période de 60 jours accordée pour transférer un REÉR avec report d'impôt et que ce transfert avec report d'impôt est refusé à titre de déduction pour la déclaration de revenus finale modifiée, le présent règlement est nul et les parties reviennent à leurs positions antérieures en application de la Intestate Succession Act, de la Matrimonial Property Act et de toutes les autres lois applicables, sous réserve du règlement concernant le REÉR no 552‑72469 et les terres de Lorneville, tel qu'il est reconnu ci‑après. Dans cette situation, les parties conviennent de prendre toutes les mesures nécessaires pour obtenir une autre ordonnance du tribunal reflétant ce qui précède.
+6. Barbara convient qu'après la production de la déclaration de revenus finale modifiée, l'établissement d'une nouvelle cotisation conforme à la déclaration produite et la réception d'un certificat de décharge en date du décès délivré par l'Agence du revenu du Canada, et après avoir reçu la partie du remboursement versée en raison de l'inclusion du transfert du REÉR avec report d'impôt dans la déclaration modifiée :
+a) les documents dans lesquels Barbara renonce, en faveur des enfants, à tous ses droits, titres et intérêts à l'égard de la succession de John Arther [sic] Murphy, en application de la Intestate Succession Act, de la Testators Family Maintenance Act (Loi sur l'aide aux familles des testateurs), de la Matrimonial Property Act et de toute autre loi applicable, que Barbara a signés au même moment que le présent règlement, soient libérés par l'avocat de la succession, Alan MacLean (l'« avocat »), et remis aux enfants;
+b) tous les documents fournis par l'avocat et signés par Barbara au même moment que le présent règlement soient libérés par l'avocat et remis aux enfants pour que la décharge de Barbara à titre de représentante personnelle de M. Murphy entre en vigueur.
+7. Les parties conviennent qu'à la réception d'un certificat de décharge en date du décès délivré par l'Agence du revenu du Canada, comme le prévoit le paragraphe 6 ci‑dessus, elles pendront toutes les mesures nécessaires pour faire en sorte que la Cour suprême de la Nouvelle‑Écosse rende une ordonnance par consentement rejetant la demande 2010 ANT. NO. 336426 sans dépens.
+8. Si le ministre du Revenu national juge que le délai de transfert du solde des REÉR au REÉR de Barbara est inacceptable aux termes du paragraphe 146.3(1) et de l'alinéa 60l) de la Loi de l'impôt sur le revenu et si les REÉR sont inclus à titre de revenu dans la déclaration de revenus finale de John Arther [sic] Murphy, Barbara DeMarsh convient de remettre le solde du REÉR no 552‑69883 ainsi que tous les revenus accumulés dans celui-ci aux enfants et de remettre à la succession de John Arther [sic] Murphy le REÉR transféré du compte 31874‑5 de League Savings and Mortgage.
+9. Nonobstant ce qui précède, les parties conviennent que Barbara est autorisée à recevoir le solde du REÉR no 552‑72469 dans un compte REÉR à son nom, sans aucune déduction aux fins du calcul de l'impôt. En contrepartie du REÉR, Barbara convient de céder aux enfants tous ses droits, titres et intérêts à l'égard du bien‑fonds situé à Beatons Bluff, Lorneville, comté de Cumberland, dont les numéros d'identification sont 25256207 et 25109943.
+10. Si, à tout autre égard, le ministre refuse le transfert des REÉR nos 552‑69883 et 31874‑5 comme remboursement de primes au REÉR de Barbara, les droits des parties, en common law et en equity, redeviennent les mêmes qu'ils étaient immédiatement avant la signature du présent règlement, à tous égards autres que ceux qui sont mentionnés au paragraphe 9 du présent règlement et qui entrent en vigueur le 30 avril 2010.
+11. Barbara convient qu'elle ouvrira un compte REÉR à la CIBC Wood Gundy (le « nouveau REÉR ») uniquement pour recevoir les fonds des REÉR nos 552‑69883 et 31874‑5, qui lui seront transférés conformément au présent règlement. Barbara convient également que tous les fonds et les actifs qui seront transférés dans le nouveau REÉR seront conservés tels quels et qu'aucun retrait ne sera effectué dans le compte, sauf si les enfants autorisent par écrit de tels changements ou de tels retraits, et ce, jusqu'à ce que toutes les dispositions énoncées au paragraphe 6 du présent règlement soient respectées. Barbara convient également de fournir une copie du présent règlement à la CIBC Wood Gundy afin que cette dernière prenne acte des restrictions relatives au nouveau REÉR.
+12. Le présent règlement peut être signé en plusieurs exemplaires. Chaque exemplaire dûment signé sera considéré comme un original et leur ensemble constituera un seul et même instrument. Pour établir qu'un exemplaire original du présent règlement a été signé, une partie peut transmettre aux autres parties une copie de sa signature originale sur la page des signatures du présent règlement par télécopieur ou par courriel, en format PDF, et la transmission par ces moyens sera considérée comme la remise d'une copie signée du règlement aux parties qui en sont les destinataires.
+[13] Conformément au règlement à l'amiable, les parties ont signé une ordonnance par consentement dans laquelle les enfants convenaient de signer tous les documents nécessaires pour renoncer à leurs droits dans les REÉR de John Arthur Murphy, les céder et les transférer. L'un de ces REÉR était le REÉR en question. L'ordonnance par consentement a été rendue par la Cour suprême de la Nouvelle‑Écosse le 13 mai 2011. Elle était formulée en ces termes :
+[TRADUCTION]
+La Cour ordonne et déclare que les parties susmentionnées conviennent de régler les questions soulevées en l'espèce de la façon que voici :
+1. La requérante renonce à toute réclamation ou à tout droit qu'elle pourrait avoir à l'égard de la succession de John Arthur Murphy (la « succession »), de quelque manière que ce soit, sauf ce qui est expressément énoncé dans la présente. Pour rendre exécutoire ce qui précède, la requérante convient de prendre les mesures suivantes :
+a. dès la délivrance de la présente ordonnance, signer un acte signifiant qu'elle renonce à ses droits à l'égard du bien immeuble situé à Beatons Bluff, Lorneville, comté de Cumberland, dont les numéros d'identification sont 25256207 et 25109943, et qu'elle transfère ces droits à Flora Catherine Murphy, à Michael Bernard Murphy et à Lindsay Alexa Murphy, et remettre cet acte à Flora Catherine Murphy, à Michael Bernard Murphy et à Lindsay Alexa Murphy dès la signature de la présente ordonnance;
+b. dès la délivrance de la présente ordonnance, signer une demande et tout autre document approuvé par l'avocat de la succession, Alan MacLean (l'« avocat »), au nom de l'intimée, qui est nécessaire pour une demande qui sera présentée au tribunal successoral en vue de décharger la requérante à titre d'administratrice de la succession. Ces documents doivent être entiercés par l'avocat jusqu'à ce que la déclaration de revenus finale modifiée pour la succession ait été produite, que l'Agence du revenu du Canada ait délivré un avis de cotisation pour la déclaration modifiée indiquant qu'aucun impôt n'est payable et que l'Agence du revenu du Canada ait ensuite délivré un certificat de décharge à la date du décès de John Arthur Murphy (le « certificat de décharge »), après quoi l'avocat libérera les documents susmentionnés et les présentera au tribunal successoral;
+c. dès la délivrance de la présente ordonnance, signer les transferts, actes, renonciations et autres documents nécessaires pour renoncer à tout bien meuble et immeuble de la succession et pour les transférer à Flora Catherine Murphy, à Michael Bernard Murphy et à Lindsay Alexa Murphy (collectivement les « Murphy »), notamment tous les comptes bancaires et les comptes de placement de la succession et les biens immeubles dont les numéros d'identification sont énumérés ci‑dessous. Ces actes, renonciations et autres documents seront entiercés par l'avocat jusqu'à la réception du certificat de décharge, après quoi l'avocat libérera lesdits documents et les remettra aux Murphy ou à ceux qu'ils désigneront :
+(i) 01225721;
+(ii) 01239797;
+(iii) 01240076;
+(iv) 01240175;
+(v) 01240506;
+(vi) 10060705.
+2. Dès la délivrance de la présente ordonnance, les Murphy conviennent de signer tous les documents nécessaires signifiant qu'ils renoncent aux droits qu'ils pourraient avoir à l'égard des régimes enregistrés d'épargne‑retraite de leur père, John Arthur Murphy, désignés par les numéros de compte énumérés ci‑dessous, et qu'ils cèdent et transfèrent ces droits à la requérante :
+i.
+CIBC Wood Gundy
+552-69883;
+ii.
+CIBC Wood Gundy
+552-72469;
+iii.
+League Savings and Mortgage
+31874-5.
+3. Les parties à la présente ordonnance conviennent que la succession de John Arthur Murphy paiera à la requérante la somme énoncée dans un règlement conclu entre les parties, dont la date d'entrée en vigueur est le 31 décembre 2010 (le « règlement à l'amiable »), au moment prévu dans le règlement à l'amiable.
+4. Les parties se réservent le droit de demander, au besoin, d'autres ordonnances à la présente cour en lien avec le règlement à l'amiable.
+[14] Les enfants ont signé les documents signifiant qu'ils renoncent à leurs droits à l'égard du REÉR, qu'ils les cèdent et qu'ils les transfèrent. Le produit du REÉR en question a été retiré de ce compte le 26 avril 2011 et a été transféré dans un REÉR dont Mme DeMarsh était la rentière.
+[15] Le 10 août 2011, une demande de redressement d'une T1 a été présentée pour l'année d'imposition 2009 de M. Murphy de façon à réduire le revenu tiré d'un REÉR de 237 026 $. Ce redressement se fondait sur l'explication selon laquelle l'ordonnance de la cour du 13 mai 2011 reconnaissait que tous les REÉR appartenant à M. Murphy ont fait l'objet d'un roulement en faveur de son épouse, Mme DeMarsh, qui lui a survécu.
+[16] Le ministre du Revenu national (le « ministre ») a refusé de réduire le revenu tiré d'un REÉR déjà déclaré par M. Murphy, mais une nouvelle cotisation a été établie pour son année d'imposition 2009 pour d'autres motifs qui n'ont pas fait l'objet d'un appel.
+La thèse de l'appelante [17] L'appelante soutenait que Mme DeMarsh avait acquis les droits prévus par la Matrimonial Property Act au moment du décès de M. Murphy, soit le 15 février 2009. Les observations de l'avocat s'appuyaient sur l'application de l'article 12 de la Matrimonial Property Act, qui est formulé en ces termes :
+[TRADUCTION]
+12(1) À la demande d'un conjoint, la cour peut ordonner le partage en parts égales des biens matrimoniaux, peu importe qui en est le propriétaire, lorsque l'une des conditions suivantes est remplie :
+a) une requête en divorce est introduite;
+b) une demande est présentée en vue d'obtenir une déclaration de nullité;
+c) les conjoints sont séparés et il n'y a aucune chance raisonnable de reprise de la cohabitation;
+d) l'un des conjoints est décédé.
+[18] L'avocat soutenait que l'ordonnance de consentement rendue par la Cour suprême de la Nouvelle-Écosse et signée par les enfants, les représentants personnels de M. Murphy et Mme DeMarsh avait un caractère rétroactif. L'ordonnance confirmait que les REÉR avaient été dévolus à Mme DeMarsh à la date du décès de M. Murphy. Le moment tardif du transfert du produit du REÉR en question était attribuable aux difficultés relatives au règlement de l'appelante. L'avocat s'appuyait également sur l'arrêt Hillis c. La Reine, [1983] A.C.F. no 817 (QL) (C.A.F.), pour soutenir qu'il est possible d'invoquer des lois provinciales pour établir les droits de personnes à l'égard de biens et le moment où ces biens leur sont dévolus.
+[19] L'avocat estimait que l'appel en l'espèce était semblable à un cas de rectification. Il s'appuyait sur l'arrêt Dale c. Canada, [1997] 3 C.F. 235, de la Cour d'appel fédérale. Le juge Bowie a brièvement résumé cet arrêt dans la décision Baylis c. La Reine, 2007 CCI 387 :
+8 Le principe applicable en l'espèce est celui que la Cour d'appel fédérale a exprimé dans l'arrêt Dale v. The Queen. Dans cet arrêt, il a été statué qu'une ordonnance d'une cour supérieure ne peut pas être attaquée indirectement dans des procédures ultérieures et que, lorsque cette ordonnance est réputée s'appliquer rétroactivement, il faut considérer qu'elle a pour effet manifeste de réécrire l'histoire fiscale. Lorsque le juge Wood a rendu son ordonnance, celle‑ci a entre autres eu pour effet d'obliger l'appelant à payer un arriéré de pension alimentaire pour conjoint accumulé de 16 800 $ pour la période allant de 2001 à 2002. Lorsque M. Baylis s'est acquitté de l'obligation au moyen d'un paiement provenant de sa part du produit de la vente de la maison, ce paiement constituait un arriéré de versements périodiques accumulé. Puisqu'il s'agit d'un paiement unique d'arriéré de versements périodiques non effectués, le paiement correspond au principe exprimé par la Cour d'appel fédérale dans l'arrêt The Queen v. Sills, c'est‑à‑dire que ces paiements sont considérés comme des paiements périodiques, même s'ils ont été faits en retard et d'un seul coup.
+[20] L'avocat a déclaré que l'ordonnance par consentement rendue par la Cour suprême de la Nouvelle‑Écosse en l'espèce ne peut être attaquée indirectement dans la présente audience et que la Cour doit la respecter, comme dans les décisions Dale et Baylis. L'ordonnance par consentement était une mesure corrective selon laquelle la propriété des REÉR était dévolue à Mme DeMarsh au moment du décès de M. Murphy.
+[21] Le produit du REÉR en question était un remboursement de primes ayant fait l'objet d'un transfert par roulement avec report d'impôt dans un compte de REÉR dont Mme DeMarsh était la rentière. L'avocat soutenait que cette opération était conforme au paragraphe 146(1) et à l'alinéa 60l) de la Loi de l'impôt sur le revenu (la « Loi »). Les extraits pertinents de ces dispositions sont reproduits ci‑dessous.
+146(1)
+[...]
+« remboursement de primes » Toute somme versée à l'une des personnes ci‑après dans le cadre d'un régime enregistré d'épargne‑retraite par suite du décès du rentier du régime, à l'exception d'un montant libéré d'impôt relativement au régime :
+a) le particulier qui, immédiatement avant le décès du rentier, était son époux ou conjoint de fait, dans le cas où le rentier est décédé avant l'échéance du régime;
+b) l'enfant ou le petit‑enfant du rentier qui, immédiatement avant le décès de celui‑ci, était financièrement à sa charge.
+60. Autres déductions — Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+[…]
+l) Transfert de REER — le total des montants représentant chacun un montant versé par le contribuable, ou pour son compte, au cours de l'année ou dans les 60 jours suivant la fin de l'année (ou au cours d'une période plus longue suivant la fin de l'année que le ministre estime acceptable) :
+(i) à titre de prime en vertu d'un régime enregistré d'épargne‑retraite dont le contribuable est rentier,
+[...]
+[22] Selon l'avocat, bien que Mme DeMarsh soit devenue propriétaire du produit du REÉR en question le 15 février 2009, elle n'a pas été en mesure de transférer le remboursement de primes à son REÉR dans les délais prévus à l'alinéa 60l) en raison des difficultés relatives au règlement de l'appelante. Cependant, l'ordonnance par consentement agit de la même façon qu'une ordonnance de rectification et toutes les opérations étaient en vigueur à la date du décès de M. Murphy.
+La thèse de l'intimée [23] Selon l'intimée, M. Murphy est réputé avoir reçu le produit du REÉR en question immédiatement avant son décès à titre de prestation aux termes du paragraphe 146(8.8) de la Loi. Cette prestation devait être incluse dans son revenu en 2009 en application du paragraphe 146(8) et de l'alinéa 56(1)h) de la Loi. Il s'agissait d'une prestation imposable pour M. Murphy.
+[24] Voici les articles de la Loi sur lesquels s'appuie l'intimée :
+146(8) Est inclus dans le calcul du revenu d'un contribuable pour une année d'imposition le total des montants qu'il a reçus au cours de l'année à titre de prestations dans le cadre de régimes enregistrés d'épargne-retraite, à l'exception des retraits exclus au sens des paragraphes 146.01(1) ou 146.02(1), et des montants qui sont inclus, en application de l'alinéa (12)b), dans le calcul de son revenu.
+[...]
+146(8.8) Effet produit par le décès — Lorsque le rentier en vertu d'un régime enregistré d'épargne‑retraite (autre qu'un régime arrivé à échéance avant le 30 juin 1978) meurt après le 29 juin 1978, il est réputé avoir reçu, immédiatement avant son décès, une somme à tire de prestation, versée dans le cadre du régime, égale à l'excédent éventuel du montant visé à l'alinéa a) sur le montant visé à l'alinéa b) :
+a) la juste valeur marchande de tous les biens du régime au moment de son décès;
+[...]
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+h) toutes sommes relatives à un régime enregistré d'épargne‑retraite ou à un fonds enregistré de revenu de retraite et qui doivent, en vertu de l'article 146, être incluses dans le calcul du revenu du contribuable pour l'année;
+[...]
+Analyse [25] Selon la règle générale applicable, le rentier qui décède est réputé avoir reçu le produit de son REÉR immédiatement avant son décès et ce produit est inclus dans son revenu (voir les paragraphes 146(8) et 146(8.8) ainsi que l'alinéa 56(1)h) de la Loi). Cependant, si le produit de ce REÉR est versé à certains bénéficiaires à la suite de son décès, ce produit est considéré comme un « remboursement de primes », et la somme imposable pour la personne décédée peut être éliminée. Ces bénéficiaires peuvent être l'époux ou le conjoint de fait du rentier, ou encore l'enfant ou le petit‑fils ou la petite‑fille qui était à sa charge (voir le paragraphe 146(1) de la Loi).
+[26] En l'espèce, la question consiste à établir si Mme DeMarsh est une de ces bénéficiaires. Si oui, elle peut transférer le produit du REÉR en question dans un REÉR à son nom avec report d'impôt.
+[27] Dans le présent appel, les bénéficiaires désignés du REÉR en question étaient les enfants de M. Murphy. Toutefois, ils n'étaient pas à la charge de M. Murphy au moment où celui‑ci est décédé.
+[28] L'avocat de l'appelante soutenait qu'en application de l'ordonnance par consentement, le REÉR en question était irrévocablement dévolu à Mme DeMarsh au moment du décès de son époux. Il a affirmé que le produit a ensuite été versé à Mme DeMarsh comme « remboursement de primes », puis qu'elle l'a transféré par roulement dans un REÉR à son nom. Par conséquent, M. Murphy n'est pas responsable de l'impôt sur ce produit et cet impôt est reporté jusqu'à ce que Mme DeMarsh retire l'argent de son REÉR. Je suis en désaccord avec cet argument.
+[29] L'ordonnance par consentement ne visait pas à changer les bénéficiaires du REÉR en question. L'ordonnance par consentement n'était pas une ordonnance de rectification et n'était pas destinée à en être une. Il s'agissait d'une ordonnance dans laquelle les parties convenaient de régler la succession de John Arthur Murphy. La formulation de l'ordonnance indique clairement que Mme DeMarsh a renoncé à toute réclamation de sa part à l'égard des biens meubles et immeubles de l'appelante. En contrepartie, les enfants ont renoncé à leurs droits à l'égard du REÉR en question, et ont cédé et transféré ces droits à Mme DeMarsh.
+[30] L'arrêt Hillis de la Cour d'appel fédérale n'aide pas l'appelante. Dans cet arrêt, les héritiers de l'homme décédé intestat étaient son épouse et ses deux fils. Les deux fils ont renoncé à leurs droits et la veuve a présenté une demande aux termes de la loi de la Saskatchewan intitulée Dependants' Relief Act (Loi sur l'aide aux personnes à charge) afin d'obtenir toute la succession. Toute la succession lui a été accordée. Une déclaration de revenus a été produite et un roulement y était demandé en application du paragraphe 70(6) de la Loi. Le ministre a refusé le roulement au motif que les conditions du paragraphe 70(6) n'étaient pas respectées. Cependant, la Cour d'appel fédérale a conclu qu'en application de l'ordonnance de la cour provinciale, les biens étaient irrévocablement dévolus à la veuve, mais que cette dévolution avait eu lieu à la date de l'ordonnance de la cour provinciale.
+[31] Contrairement à la situation de fait dans l'arrêt Hillis, les bénéficiaires désignés en l'espèce n'ont pas renoncé à leurs droits à l'égard du REÉR en question. Le paragraphe 2 de l'ordonnance par consentement prévoit que [TRADUCTION] « les Murphy conviennent de signer tous les documents nécessaires signifiant qu'ils renoncent aux droits qu'ils pourraient avoir à l'égard des régimes enregistrés d'épargne-retraite de leur père [...] » [non souligné dans l'original]. Cette formulation me porte à croire que les enfants ont cédé leurs droits à l'égard du REÉR. Selon mon interprétation, ils ont accepté le legs du produit du REÉR, puis après les négociations et le règlement, ils ont consenti à transférer tous leurs droits à Mme DeMarsh. Il ne s'agit pas d'une renonciation, mais bien d'une cession.
+[32] La décision Re Metcalfe, [1972] 3 O.R. 598 (H.C.J. Ont.), résume brièvement le droit applicable à la renonciation en ce qui concerne les bénéficiaires :
+[TRADUCTION]
+Une explication concise du droit à cet égard, que j'accepte, se trouve dans l'ouvrage Williams on Executors and Administrators, 14e éd. (1960), vol. 2, p. 761, par. 1170 :
+« La règle de droit n'est certes pas à ce point absurde qu'elle aurait pour effet de forcer une personne à accepter une succession contre son gré. » Aucune jurisprudence n'établit que la renonciation doit être faite devant une cour d'archives; elle peut s'effectuer par acte scellé ou même être inférée des actes du renonçant. De prime abord, la renonciation s'applique à partir du décès du testateur et rend le legs nul à certaines fins ab initio.
+[33] Une renonciation est un refus d'accepter un droit ayant déjà été légué à une partie renonciatrice. Elle a pour effet de rendre le legs nul comme si la partie renonciatrice ne l'avait jamais reçu. Le legs devient une partie de la succession de la personne décédée et la partie renonciatrice n'a pas le droit de choisir qui recevra ce legs. Voir la décision Plaxton c. Ministre du Revenu national, 60 D.T.C. 38 (C.A.I.). À cet égard, l'ordonnance par consentement ne peut être une renonciation, car les enfants ont demandé le transfert du REÉR en question à Mme DeMarsh.
+[34] J'estime qu'au moment du décès de M. Murphy, le REÉR en question est directement dévolu aux enfants, qui en étaient les bénéficiaires désignés. Ils n'ont pas renoncé à leurs droits à l'égard du REÉR, mais les ont plutôt cédés à Mme DeMarsh au moyen de l'ordonnance par consentement. L'ordonnance par consentement n'était pas une ordonnance par rectification.
+[35] Je conclus que la nouvelle cotisation établie en l'espèce est correcte. En application du paragraphe 146(8.8) de la Loi, M. Murphy est réputé avoir reçu le produit du REÉR en question immédiatement avant son décès, et ce produit a été inclus à juste titre dans son revenu conformément à l'alinéa 56(1)h). Les faits en l'espèce ne permettaient pas de conclure qu'il y avait un « remboursement de primes » pouvant être transféré par roulement dans un REÉR par Mme DeMarsh.
+[36] L'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 13e jour de janvier 2015.
+« V.A. Miller »
+La juge Miller
+Traduction certifiée conforme
+ce 20e jour d'avril 2015.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2015 CCI 8
+NO DU DOSSIER DE LA COUR :
+2012-5087(IT)G
+INTITULÉ :
+La succession de John Arthur Murphy c. La Reine
+LIEU DE L'AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L'AUDIENCE :
+Le 22 septembre 2014
+MOTIFS DU JUGEMENT :
+L'honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 13 janvier 2015
+COMPARUTIONS :
+Avocat de l'appelante :
+Me M. Gerard Tompkins, c.r.
+Avocat de l'intimée :
+Me David I. Besler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+M. Gerard Tompkins, c.r.
+Cabinet :
+M. Gerard Tompkins, c.r.
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,323 @@
+Title: Olympia Trust Company c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/100156/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-372-100156-olympia-trust-company-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-12-19
+
+# Olympia Trust Company c. La Reine
+
+- Citation: 2014 CCI 372
+- Decision date: 2014-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2781, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Olympia Trust Company c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-12-19
+Référence neutre
+2014 CCI 372
+Numéro de dossier
+2013-189(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013‑189(IT)G
+ENTRE :
+OLYMPIA TRUST COMPANY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande de détermination d’une question au titre de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale), entendue le 25 juin 2014 à Calgary (Alberta)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelant :
+Me Jehad Haymour
+Avocate de l’intimée :
+Me Donna Tomljanovic
+ORDONNANCE
+Vu la demande présentée par les parties en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale), en vue de la détermination d’une question de droit et de fait;
+Après avoir entendu les avocats des parties;
+Par conséquent, conformément aux motifs ci-joints, la Cour a jugé que, selon les faits admis dans la présente affaire, dans leur version modifiée, l’appelante est une acheteuse (aux termes du paragraphe 116(3) de la Loi de l’impôt sur le revenu (la « LIR »)), au titre du paragraphe 116(5) de la LIR.
+Les dépens sont laissés à la discrétion du juge du procès, sauf si les parties souhaitent formuler des observations écrites, dans les 30 jours suivant la date de la présente ordonnance, demandant à la Cour de rendre une autre ordonnance.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 13e jour d’octobre 2015.
+François Brunet, réviseur
+Référence : 2014CCI372
+Date : 20141219
+Dossier : 2013‑189(IT)G
+ENTRE :
+OLYMPIA TRUST COMPANY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+I. La question de droit et de fait [1] Le 9 avril 2014, la juge Lamarre, de la Cour, a ordonné que la question mélangée de droit et de fait suivante soit déterminée en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) (la « question au titre de l’article 58 des Règles ») :
+[traduction]
+Est-ce que Olympia Trust Company (« Olympia Trust »), selon les faits admis dans la présente affaire, comme il est indiqué dans la pièce A de l’avis de requête modifié, ou tout autre fait que la Cour peut accepter ou indiquer dans les circonstances, est l’acheteuse [aux termes du paragraphe 116(3) de la Loi de l’impôt sur le revenu (la « LIR »)], au titre du paragraphe 116(5) de la LIR?
+[2] La question au titre de l’article 58 des Règles est présentée devant la Cour parce que le ministre a soulevé certaines cotisations concernant l’appelante (« Olympia »), affirmant qu’Olympia était l’acheteuse d’actions (les « actions ») aux termes du paragraphe 116(5) de la Loi de l’impôt sur le revenu, (L.R.C. (1985), ch. 1 (5e suppl.)) (la « Loi »). Le ministre déclare qu’Olympia, à titre de fiduciaire de REER, a acquis les actions, considérées comme des biens canadiens imposables, d’un vendeur non-résident. En outre, une telle transaction exigeait qu’Olympia, en tant qu’acheteuse, obtienne un certificat de conformité au titre de l’article 116 ou retienne et verse le montant prévu par la loi représentant l’impôt sur la disposition par le vendeur non-résident. Comme aucun certificat de conformité au titre de l’article 116 de la Loi n’a été obtenu et que l’impôt retenu n’a pas été versé, le ministre demande qu’Olympia, en tant qu’acheteuse, s’acquitte de la dette fiscale particulière du vendeur non-résident. Comme l’exige une question au titre de l’article 58 des Règles, les parties ont convenu des faits et des documents admis et les ont présentés à la Cour. Chaque partie a produit des observations verbales et écrites.
+II. Les faits constants et les documents pertinents A. Les descriptions pertinentes des parties et des opérations [3] À toutes les époques pertinentes pendant les années 2000 à 2004 (les « années en cause »), Olympia, dans le cadre de ses activités de société de fiducie, est intervenue à titre de fiduciaire relativement à des REER autogérés : des arrangements bien connus où le rentier indique quel bien doit être acquis et détenu dans le REER. En établissant son REER, chaque rentier (le « rentier ») a rempli une demande d’adhésion à un régime enregistré. Olympia était chargée de mettre en œuvre les instructions du rentier relativement aux biens à acquérir et à détenir dans le REER. Dans tous les cas, l’identification des actions et les modalités d’acquisition de celles-ci étaient consignées dans une convention d’achat d’actions (« CAA ») distincte dont Olympia ne faisait pas partie. Olympia n’était en aucun cas le propriétaire bénéficiaire des actions. Dans certains cas, Olympia ne connaissait pas l’identité des vendeurs non-résidents.
+[4] Sur le plan de la procédure, chaque rentier, dans le cadre de la gestion du REER par Olympia, chargeait Olympia d’accepter la remise d’actions dans le REER. Avant la remise de ces actions dans le REER, Olympia affectait et remettait, à partir de chaque REER, les sommes nécessaires à l’achat des actions. Les certificats représentant les actions, grossoyées au nom d’Olympia, étaient livrés à Olympia, par l’avocat du vendeur ou par l’avocat du rentier, conformément à une directive écrite signée par le rentier.
+B. Le formulaire de demande d’adhésion à un REER [5] Chaque rentier institue un REER en signant un formulaire de demande d’adhésion à un REER. Ces demandes particulières nécessitent que le rentier prenne connaissance de certaines dispositions comprenant les extraits pertinents suivants :
+[traduction]
+Demande d’adhésion à un régime enregistré
+Olympia Trust Company Demande d’adhésion à un régime enregistré
+A. Type de régime (cocher une seule case) : ☒ RER immobilisé/CRIF
+[…]
+4. Autorisation de négocier et accréditation de courtier (se limitant aux opérations liées aux fonds communs de placement.)
+[…]
+ Je signerai tous les documents requis pour toutes les opérations, OU
+[…]
+7. Confirmation de la demande
+[…] Je certifie que les renseignements contenus dans la présente demande d’adhésion à un régime enregistré sont exacts et complets, que j’ai lu la déclaration de fiducie ci‑jointe régissant mon régime ainsi que tout supplément applicable aux fonds immobilisés, par lesquels je suis lié. Je comprends qu’il m’incombe d’organiser le transfert des actifs vers mon régime à partir de tout régime enregistré antérieur ou de toute autre source autorisée.
+8. Vos droits en tant que porteur de valeurs
+[…] En tant que porteur non inscrit, vous avez les mêmes droits que le porteur de valeur inscrit de voter lors des réunions annuelles et extraordinaires. Ce droit de vote est offert aux porteurs de valeurs inscrits dans le cadre de la législation en matière de valeurs mobilières et de sociétés et englobe le droit de recevoir des avis concernant les réunions, des circulaires d’information et des procurations. Comme vos valeurs sont détenues par votre fiduciaire et qu’elles ne sont pas inscrites à votre nom, le fiduciaire peut vous transmettre directement des documents. […] Par conséquent, l’information concernant les réunions annuelles ou extraordinaires, y compris les procurations qui vous permettent de voter, et les états financiers seront envoyés au fiduciaire. […]
+9. Modalités
+En contrepartie de l’acceptation de ce compte par le fiduciaire, […]
+a) Le fiduciaire a le droit de rejeter un ordre de vente de quelque valeur que ce soit dans mon compte.
+[…]
+c) Je verserai au fiduciaire tout montant que je lui dois et tous les frais exposés dans le barème de droits d’Olympia Trust Company. De plus, le fiduciaire peut vendre les valeurs de mon compte ou autrement déduire de mon compte tout montant qui lui est dû.
+d) Je remettrai toutes les valeurs que je vends à Olympia Trust Company rapidement si elles ne sont pas détenues par Olympia Trust Company. À défaut de ce faire, Olympia Trust Company pourra acheter les valeurs à mes frais.
+[…]
+C. Les documents relatifs aux opérations d’achat d’actions [6] De même, voici les extraits pertinents d’autres documents transactionnels ayant une incidence sur l’acquisition des actions :
+(1) La convention d’achat d’actions et la pièce A ‒ Déclaration de fiducie [traduction]
+LA PRÉSENTE CONVENTION signée le 7e jour de février 2003
+Entre :
+[Désignation des parties]
+Dans chaque cas, le rentier est décrit comme étant (l’« acheteur »)
+1) Vente des valeurs
+Par les présentes, le vendeur s’engage à vendre, transférer et céder tous ses droits, titres et intérêts concernant les valeurs à l’acheteur à compter de la date d’entrée en vigueur, et, par les présentes, l’acheteur achète les valeurs.
+[…]
+4) Enregistrement des valeurs
+Par les présentes, l’acheteur autorise le vendeur et lui donne l’ordre de prendre toutes les mesures nécessaires ou souhaitables, seul ou de concert avec la société de fiducie, pour que les valeurs soient enregistrées dans les livres de la société au nom de : Olympia Trust Company, en fiducie, au bénéfice de [nom du rentier], compte REER no [no]
+5) Déclarations, garanties et covenants du vendeur
+[…]
+f) Il doit signer et remettre une déclaration de fiducie en respectant la formule présentée à titre de pièce A ci-jointe et conformément à laquelle il doit détenir en fiducie les valeurs exclusivement à l’usage et au profit de l’acheteur, de la date d’entrée en vigueur jusqu’à la date du transfert des valeurs à l’acheteur dans les registres de la société ou de l’agent chargé des registres et des transferts dûment autorisés.
+6) Déclarations, garanties et covenants de l’acheteur
+[…]
+b) L’acheteur achète les valeurs en tant que souscripteur, et non en tant que mandataire pour le compte d’une autre personne.
+[…]
+Pièce A
+Le soussigné, [nom du vendeur], déclare par la présente qu’il possède et garde en fiducie pour le seul usage de l’acheteur [non rempli] des actions privilégiées de catégorie C, sans valeur nominale, (les « valeurs ») dans le capital de la société inscrite au nom du soussigné dans les registres de la société et déclare, en outre, ce qui suit :
+1. pendant la durée de la présente déclaration de fiducie, il reçoit pour le compte du bénéficiaire, et distribue sur le champ à celui-ci, la totalité des dividendes, droits ou bénéfices de quelque nature que ce soit découlant de la propriété des valeurs ou relatifs à celles-ci;
+2. pendant la durée de la présente déclaration de fiducie, il reçoit pour le compte du bénéficiaire, et distribue sur le champ à celui-ci, la totalité des avis, procurations, circulaires d’information, états financiers ou tout autre document de quelque nature que ce soit distribué par la société à ses détenteurs inscrits de valeurs;
+3. pendant la durée de la présente déclaration de fiducie, il signe une procuration relative aux valeurs pour chaque réunion des détenteurs de valeurs de la société selon les instructions du bénéficiaire.
+La présente déclaration de fiducie entre en vigueur à compter de la date des présentes et ce, jusqu’à la date d’inscription des valeurs au nom du bénéficiaire, ou de ses représentants personnels, dans les registres de la société.
+DÉCLARÉE en vigueur en date du ________________ jour de ______________, 2003.
+______________________________________
+[Vendeur]
+Signataire autorisé
+(2) La lettre de garantie [traduction]
+Investissant dans des actions ou d’autres obligations de sociétés privées sous contrôle canadien, y compris des sociétés de capitaux à risque et de sociétés d’hypothèques :
+Je, soussigné, souhaite que mon RER/FRR autogéré investisse _____$ pour acheter _____ actions/autres obligations de [nom de la société].
+En contrepartie de l’acceptation par Olympia Trust Company (Olympia) de l’investissement décrit dans le régime mentionné ci-dessous, je confirme par la présente et j’atteste qu’il s’agit d’un « placement admissible » tel que ce terme est défini dans la Loi de l’impôt sur le revenu (Canada).
+1. Conseils : je reconnais que j’ai cherché et obtenu des conseils en matière de finances, d’investissement et d’impôts ainsi que des conseils juridiques dans la mesure que je juge nécessaire et appropriée pour réaliser ce placement dans le cadre de mon régime.
+Je reconnais aussi qu’il m’incombe entièrement d’évaluer tous les investissements que je peux choisir de réaliser, de temps à autre, dans le cadre de mon régime et qu’Olympia, en acceptant l’investissement décrit dans mon régime, n’est aucunement chargée de déterminer son admissibilité à titre de « placement admissible » ainsi que la valeur de l’investissement à ce moment ou ultérieurement.
+[…]
+3. Options d’achat (en cocher une)
+[…]
+X Le certificat d’actions/la débenture, l’obligation, etc. est joint(e) aux présentes, et les fonds doivent être remis à : [avocat du rentier, en fiducie]
+[…]
+5. Indemnité : j’accepte d’indemniser Olympia pour tous les impôts, pénalités, cotisations, frais, dépenses ou toutes autres actions ou réclamations résultant de mes directives relatives à l’investissement en question et à la détention de ces valeurs dans mon régime.
+[…]
+La directive concernant les fonds
+[…]
+Les actions d’une société privée à partir de mon compte REER. […]
+La présente communication constitue mon autorisation de transfert des fonds appropriés à partir de mon ou mes comptes REER (voir la liste ci-dessous) et la réception des actions correspondantes de :
+[…]
+(3) La lettre d’instructions à Olympia et/ou à l’avocat des vendeurs, pour laquelle il existait deux formules [traduction]
+Formule A
+Veuillez accepter cette lettre à titre de demande de ma part vous conférant aussi le pouvoir d’accepter la livraison du certificat d’actions numéro [no] relativement aux actions dans le compte REER susmentionné, et de verser la somme de [$] prélevée sur mon compte REER pour le paiement de ces actions à [nom de l’avocat des vendeurs], en fiducie, [adresse de l’avocat], en mon nom.
+Signé le […]
+Formule B
+À : Olympia Trust Company
+De : [nom du rentier]
+[…]
+Vous trouverez ci-joints les documents remplis dont votre entreprise a besoin pour procéder à l’achat des actions d’une société privée à partir de mon compte REER. Parmi les documents se trouvent le certificat d’actions de la société privée ainsi que le questionnaire connexe.
+[Avocat du rentier ou avocat du vendeur]
+Voici la liste des comptes REER sur lesquels vous devrez prélever les fonds : (s’il y a plus de deux comptes, voir la liste ci-jointe)
+1. Numéro de compte : [numéro indiqué]
+Nom du fonds : [nom du compte]
+Compte : [montant en dollars] (CAN)
+Fonds utilisés pour l’achat d’actions :
+Comme vous pouvez le constater, le temps est un facteur essentiel; veuillez procéder au transfert et à la conclusion de la convention d’achat le plus rapidement possible.
+(4) L’autorisation de transfert de placements enregistrés (relativement au transfert du fiduciaire du REER initial à Olympia) [traduction]
+[…]
+1) […] Si le régime ou le fonds est un REER ou un FERR conforme à un modèle, il sera conforme au modèle suivant : REER [no]/FERR [no]. […]
+Comme il a été demandé, nous joignons au présent document un chèque d’un montant de [$] et les valeurs suivantes pour le compte susmentionné. Veuillez vous assurer que toutes les valeurs générant un revenu sont inscrites de nouveau sans délai. […]
+(5) La certification des actions d’une société privée [traduction]
+[Nom du cabinet comptable]
+Olympia Trust company
+Objet : CERTIFICATION DES ACTIONS DE LA SOCIÉTÉ PRIVÉE
+_____________________________
+[nom de la société]
+Je, soussigné, à titre de comptable général accrédité dans la province de la Colombie‑Britannique, certifie par la présente qu’à mon avis, les […] actions, […] de […] (la « société ») constitueraient un placement admissible dans le REER/FEER de [nom du rentier] et que :
+1. La société est une entreprise admissible aux termes du paragraphe 5100(1) du Règlement de l’impôt sur le revenu.
+2. La juste valeur marchande et la contrepartie de chaque action privilégiée de l’entreprise sont de 1,00 $, conformément aux Statuts de la société, dont une copie de la section applicable est jointe en annexe à titre de référence.
+3. L’achat des actions privilégiées n’accordera pas à [nom du rentier] une participation majoritaire dans la société.
+Veuillez agréer mes salutations distinguées,
+________ CGA
+[Comptable]
+(6) Les directives concernant le titre et le transfert en fiducie à Olympia [traduction]
+(Envoyé par l’avocat du rentier à l’avocat du vendeur)
+[…]
+Veuillez rédiger les certificats de la façon suivante : OLYMPIA TRUST COMPANY, en fiducie, au bénéfice de [nom du rentier]. Compte REER no [no], en changeant le nom et le numéro de compte correspondants, et transmettez-nous les documents dans les meilleurs délais. Un numéro de certificat [no] pour le solde de [nombre] actions sera émis pour [nom du rentier], et un exemplaire devra être transmis à notre bureau.
+(7) La confirmation de transfert d’actions (adressée à l’avocat du rentier et au vendeur) [traduction]
+À : [Avocat du rentier]
+De : [Rentier]
+Vous trouverez ci-jointe la copie d’une convention d’achat d’actions récemment signée. La présente communication constitue mon autorisation pour demander des fonds afin de clore la transaction.
+Voici la liste des comptes REER à partir desquels vous devrez prélever des fonds. (S’il y a plus de deux comptes, voir la liste ci-jointe)
+[…]
+Comme vous pouvez le constater, le temps est un facteur essentiel; veuillez procéder au transfert et à la conclusion de la convention d’achat le plus rapidement possible.
+[…]
+Je confirme que je souhaite transférer [nombre] actions privilégiées convertibles avec droit de vote de catégorie A et de série 2 à OLYMPIA TRUST COMPANY re : compte REER no [no] de [nom du rentier] de : [adresse] (l’« acheteur »).
+Veuillez délivrer un nouveau certificat d’actions au nom de l’acheteur.
+Merci.
+[Rentier]
+Il y a lieu de noter que les documents (6) et (7) susmentionnés ont été ajoutés par ordonnance sur consentement de la Cour et que les parties avaient eu la permission de présenter des observations quant à leur effet juridique et à leur valeur probante. III. Les exposés des points en litige et des observations des parties A. Les observations d’Olympia (1) Olympia n’est pas une acheteuse [7] Olympia soutient qu’elle n’est pas une acheteuse, dans les faits et juridiquement. Dans les faits, elle n’était partie à aucune CAA ni qualifiée d’acheteuse aux termes des CAA, qui n’indiquent que le rentier à titre d’acheteur. Deuxièmement, elle soutient que seul le rentier, et non Olympia, a été propriétaire bénéficiaire des actions. De plus, la participation limitée d’Olympia consistait, à peine, à mettre en œuvre les lettres d’instructions exécutoires reçues du rentier et ordonnant à Olympia de transférer des fonds du REER au vendeur ou à son avocat et, par la suite de recevoir les actions au nom d’Olympia et de les détenir à titre de biens dans le cadre du REER.
+[8] Du point de vue juridique, Olympia fait valoir qu’il est si intuitivement inapproprié de la considérer comme une acheteuse, compte tenu de l’étymologie du mot, qu’il ne s’est jamais construit de doctrine juridique au sujet de l’application de l’article 116 à un fiduciaire. Un texte si clair ne doit pas être éclipsé par des incursions d’interprétation beaucoup trop larges contribuant à des notions de politique ou de principe qui ne sont pas exprimées : 653902 British Columbia Ltd c R, [1999] 3 R.C.S. 804, aux paragraphes 50 et 51. En outre, la référence au paragraphe 116(5) ne vise que l’acheteur qui, en l’espèce, est le rentier. La circulaire d’information 72-17R6 signale que la « disposition » est normalement considérée comme ayant lieu à la date où le contrat de vente dûment signé est remis à la personne qui acquiert le bien. Cette conclusion vise les parties qui ont signé la CAA et dans la présente affaire, elle n’englobe pas Olympia en sa qualité de fiduciaire.
+[9] En faisant référence au « véritable propriétaire du bien » selon l’interprétation de ces mots dans la décision Prévost Car Inc c La Reine, 2008 CCI 231, au paragraphe 100, Olympia soutient que c’est le rentier, et non le fiduciaire, qui est l’acheteur (116(3)) qui a acquis les actions (116(5)). La conclusion du contrat impliquant les concepts d’offre et d’acceptation, de cause, d’intention commune et de relativité contractuelle, selon les faits, ne s’applique qu’au rentier qui a conclu le contrat visant à acquérir les actions du vendeur et qui, par la suite, a reçu tous les attributs du droit de propriété : MNR v Wardean Drilling Ltd, 69 D.T.C (5194 C. de l’É.), aux paragraphes 24 et 26.
+(2) Olympia n’a pas acquis les actions [10] De plus, Olympia soutient que les documents présentés à la Cour portent clairement et directement sur la définition du rentier en tant qu’acheteur. Le rentier est qualifié d’acheteur et il demande au vendeur d’inscrire les actions d’une certaine façon. Chaque CAA comprend des déclarations et des garanties s’adressant au rentier en tant que souscripteur, et prévoit une obligation fiduciaire de la part du vendeur en faveur du rentier jusqu’à ce que les certificats d’actions soient délivrés. Les lettres d’instructions exigent qu’Olympia fasse les paiements à l’avocat du vendeur et ordonnent à Olympia, à titre de fiduciaire, d’accepter la livraison des actions comme placement dans le REER.
+[11] En ce qui concerne la question de la « disposition », le paragraphe 248(1) de la Loi indique qu’un transfert légal, contrairement à un transfert à un bénéficiaire, n’est pas inclus dans la définition. Olympia n’a pas fourni de contrepartie et n’a pas acquis de droits en ce qui a trait aux actions, par exemple, pour s’approprier les actions; elle n’avait aucune responsabilité aux termes de la CAA et ne détenait pas non plus les attributs du droit de propriété.
+[12] Olympia soutient que la réalisation de l’obligation fiscale personnelle du fiduciaire, en tant que représentant personnel ou simple administrateur, est incompatible avec l’interprétation textuelle, contextuelle et téléologique de la Loi et, plus précisément, du but et de l’objet du paragraphe 116(5). Comme Olympia n’était ni acheteuse ni partie ayant acquis le bien d’un non‑résident, l’obligation fiscale, nécessitant qu’elle soit l’acheteuse et ait acquis le bien, demeure non réalisée.
+(3) Olympia est une simple mandataire/administratrice [13] De plus, l’avocat d’Olympia soutient que le rôle d’Olympia était limité à celui d’administratrice et de simple fiduciaire, non à celui d’acheteuse; Olympia n’a jamais été plus que la fiduciaire et la mandataire du rentier. Elle n’est pas assujettie aux dispositions du paragraphe 116(5) visant à imposer une obligation fiscale au fiduciaire ou au mandataire. En outre, le rôle de mandataire/fiduciaire impose une obligation fiscale personnelle au titre du paragraphe 159(1) de la Loi et, par analogie, fournit un exemple précis où le Parlement avait expressément l’intention de voir une obligation personnelle attribuée à un représentant légal, bien qu’aucune interprétation libérale ou textuelle du paragraphe 116(5) ne puisse aller dans le sens d’une telle conclusion concernant l’intention du législateur. En conclusion, l’avocat d’Olympia signale que le ministre n’a pas apprécié comme il se doit la partie concernée : le rentier et/ou le REER.
+B. Les observations de l’intimée (1) La fiduciaire était saisie d’un titre juridique [14] L’intimée a pour position qu’Olympia était fiduciaire du REER et que, par conséquent, elle avait le pouvoir discrétionnaire quant à savoir si elle devait agir selon les instructions du rentier, comme indiqué par Olympia à l’alinéa 9a) de la demande d’adhésion à un régime enregistré. Olympia était en possession et en contrôle des sommes nécessaires à l’achat, a reçu les actions en son nom, à pris possession et contrôle des actions à titre de biens faisant partie du capital de la fiducie du REER et avait le pouvoir final de « disposition ». Un tel pouvoir, lorsque combiné au terme « acheteur » au paragraphe 116(3), qui, à son tour, correspond aux termes relatifs à l’imputation de frais du paragraphe 116(5), englobe la signification des mots « disposer de » dans sa définition.
+(2) La fiduciaire était la seule partie à détenir légalement les actions [15] Par ailleurs, la définition d’une « disposition » au titre du paragraphe 248(1) de la Loi prévoit que la disposition d’un bien comprend toute opération : (i) où le bien est une action et (ii) tout transfert de bien à une fiducie ou tout transfert de bien d’une fiducie à un bénéficiaire de celle-ci, sauf dispositions contraires non applicables en l’espèce.
+[16] En outre, l’avocate de l’intimée soutient que, du point de vue juridique, une fiducie n’est pas une entité juridique distincte en common law, mais bien un concept visant à disjoindre la propriété juridique de la propriété bénéficiaire. La Loi même comprend des dispositions comme les paragraphes 104(1) et (2) qui considèrent les fiducies comme étant des structures imposables, mais pas des entités juridiques en soi : St Michael Trust Corp c Sa Majesté la Reine, 2010 CAF 309, aux paragraphes 5 et 11, confirmé par [2012] 1 RCS 520. Le fiduciaire est le propriétaire juridique de l’actif du REER et, par ailleurs, la partie qui assume la responsabilité si elle acquiert un certain bien défini dans la Loi et en devient le propriétaire légal prévu. Bien que les parties puissent varier les « pouvoirs » que confère un contrat à un fiduciaire, la structure de la fiducie ainsi que les rôles et les droits du fiduciaire et du bénéficiaire, en droit, ne changent pas : Alberta (Public Trustee) v Koska, 2010 Carswell Alta 1059 (BR Alb), au paragraphe 54.
+[17] Olympia était le détenteur légal du titre et le propriétaire inscrit des actions; le rentier avait droit, en equity, à la jouissance et aux avantages découlant des actifs du REER ainsi que des actions les constituant en partie. Aucun de ces droits, avantages ou obligations n’a été modifié par les documents pertinents ou les dispositions législatives applicables en l’espèce. Par conséquent, Olympia est devenue l’acheteuse des biens imposables.
+(3) Le contexte et le but de l’article 116 sont la répartition du risque relativement à l’impôt du vendeur non‑résident [18] Finalement, dans l’intérêt public, l’avocate de l’intimée soutient que le paragraphe 116(5) fait référence, sur le plan contextuel, à l’obligation fiscale du vendeur non‑résident et constitue un mécanisme d’application selon lequel le ministre peut demander des cotisations aux parties qui deviennent propriétaires légaux de titres de biens canadiens imposables vendus par des vendeurs non‑résidents : Fiduciaires de la fiducie RCI Trust c MRN, 2009 CAF 373, au paragraphe 15. Par contre, les articles 104 et 159 font référence à l’imposition du revenu des fiducies et à la disposition des biens de la fiducie par un représentant personnel en faveur d’un bénéficiaire. En outre, le paragraphe 116(5) n’est pas une disposition d’assujettissement à l’impôt à l’encontre d’Olympia, du rentier ou du REER, ou une cotisation liée à la disposition des biens en fiducie en faveur d’un bénéficiaire. Il s’agit plutôt d’une disposition transférant par procuration la responsabilité à Olympia, en tant que propriétaire légal du titre, saisie des biens et légalement responsable en partie de l’impôt du vendeur non‑résident. Ces analyses contextuelles et fondées sur l’objet visé requises, rendues obligatoires par la jurisprudence Hypothèques Trustco Canada c Canada, 2005 CSC 54, impose l’obligation pour Olympia, en tant que fiduciaire, de payer l’impôt de la partie I non perçu du vendeur non‑résident (RCI Trust), parce qu’Olympia a utilisé les fonds en fiducie qu’elle détenait pour acquérir les biens de la fiducie que le rentier n’a jamais eus en sa possession ou pour lesquels il n’a jamais eu de titre.
+IV. Les dispositions législatives [19] On trouvera ci-dessous le résumé des dispositions législatives citées de manière conjointe et distincte par les deux avocats dans leurs observations (non soulignées dans l’original).
+A. Les renvois législatifs communs – par l’appelante et l’intimée Avis au ministre
+116(3) La personne non-résidente qui dispose de son bien canadien imposable, […] au cours d’une année d’imposition est tenue d’envoyer au ministre, […] un avis contenant les renseignements suivants :
+a) les nom et adresse de la personne en faveur de qui elle a disposé du bien (appelée l’« acheteur » au présent article);
+[…]
+Assujettissement de l’acheteur
+116(5) L’acheteur qui, au cours d’une année d’imposition, acquiert auprès d’une personne non-résidente un bien canadien imposable [...] d’une telle personne est redevable, pour le compte de cette personne, d’un impôt en vertu de la présente partie pour l’année, sauf si, selon le cas :
+a) après enquête sérieuse, l’acheteur n’avait aucune raison de croire que la personne ne résidait pas au Canada;
+[…]
+b) le ministre a délivré à l’acheteur, en application du paragraphe (4), un certificat concernant le bien.
+Cet impôt — à remettre […] — est égal à 25 % de l’excédent éventuel du coût visé à l’alinéa c) sur la limite visée à l’alinéa d) :
+c) le coût pour l’acheteur du bien ainsi acquis;
+d) la limite prévue par le certificat délivré […]
+L’acheteur a le droit de déduire d’un montant qu’il a versé à la personne non‑résidente, ou porté à son crédit, ou de retenir sur un tel montant, ou de recouvrer autrement d’une telle personne, tout montant qu’il a payé au titre de cet impôt.
+Définition de fiducie
+104(1) Dans la présente loi, la mention d’une fiducie ou d’une succession (appelées « fiducie » à la présente sous-section) vaut également mention, sauf indication contraire du contexte, du fiduciaire, de l’exécuteur testamentaire, de l’administrateur successoral, du liquidateur de succession, de l’héritier ou d’un autre représentant légal ayant la propriété ou le contrôle des biens de la fiducie. Toutefois, sauf pour l’application du présent paragraphe, du paragraphe (1.1), du sous-alinéa b)(v) de la définition de « disposition » au paragraphe 248(1) et de l’alinéa k) de cette définition, l’arrangement dans le cadre duquel il est raisonnable de considérer qu’une fiducie agit en qualité de mandataire de l’ensemble de ses bénéficiaires pour ce qui est des opérations portant sur ses biens est réputé ne pas être une fiducie, sauf si la fiducie est visée à l’un des alinéas a) à e.1) de la définition de « fiducie » au paragraphe 108(1).
+B. Les paragraphes 159(1) ainsi que 215(2) et (3) – mentionnés par l’appelante 159(1) Pour l’application de la présente loi, dans le cas où une personne est le représentant légal d’un contribuable à un moment donné, les règles suivantes s’appliquent :
+a) le représentant légal est solidairement tenu avec le contribuable :
+(i) d’une part, de payer chaque montant payable par le contribuable […] dans la mesure où, à ce moment, il a en sa possession ou sous sa garde […] des biens qui appartiennent ou appartenaient au contribuable ou à sa succession […]
+Certificat avant répartition
+(2) Chaque représentant légal (à l’exclusion d’un syndic de faillite) d’un contribuable doit, avant de répartir entre plusieurs personnes ou d’attribuer à une seule des biens en sa possession ou sous sa garde en sa qualité de représentant légal, obtenir du ministre […] un certificat […]
+Responsabilité personnelle
+(3) Si le représentant légal […] d’un contribuable répartit entre plusieurs personnes ou attribue à une seule, en cette qualité, des biens en sa possession ou sous sa garde sans le certificat prévu au paragraphe […]
+a) le représentant légal est personnellement redevable de ces montants, jusqu’à concurrence de la valeur des biens répartis […]
+Lorsqu’une somme sur laquelle un impôt sur le revenu est payable en vertu de la présente partie est versée ou créditée par un mandataire ou une autre personne au nom du débiteur, […] le mandataire ou l’autre personne qui a versé ou crédité la somme doit, indépendamment de toute disposition contraire d’une convention ou d’une loi, en déduire ou en retenir le montant de l’impôt et le remettre en l’accompagnant d’un état selon le formulaire prescrit ainsi que l’exige le paragraphe (1)[…]
+Lorsqu’une somme sur laquelle un impôt sur le revenu est payable en vertu de la présente partie a été versée à un mandataire ou à une autre personne ou a été portée au crédit du mandataire ou de l’autre personne, pour le compte ou au nom de la personne qui a droit au paiement, sans que l’impôt en ait été retenu ou déduit conformément au paragraphe (1), le mandataire ou l’autre personne doit, […] en déduire ou en retenir le montant de l’impôt et le remettre immédiatement au receveur général au nom de la personne ayant droit au paiement, en acquittement de l’impôt […]
+C. La définition de « disposition » au paragraphe 248(1) – mentionnée par l’intimée 248(1) « disposition » Constitue notamment une disposition de bien, sauf indication contraire expresse :
+a) toute opération ou tout événement […];
+b) […] par lequel, selon le cas :
+(i) une action […] ou […] un droit sur un tel bien, est en totalité ou en partie racheté, acquis ou annulé,
+[…]
+(v) une fiducie, à l’égard de laquelle il est raisonnable de considérer qu’elle agit à titre de mandataire pour l’ensemble de ses bénéficiaires en toute matière liée à ses biens (sauf si elle est visée à l’un des alinéas a) à e).1) de la définition de « fiducie » au paragraphe 108(1)), cesse d’agir à ce titre pour l’un de ses bénéficiaires en toute matière liée à ses biens;
+[…]
+c) tout transfert de bien à une fiducie […]
+Ne constitue pas une disposition de bien :
+e) tout transfert de bien qui n’a pas pour effet de changer la propriété effective du bien, sauf si le transfert est effectué, selon le cas :
+(i) d’une personne ou d’une société de personnes à une fiducie au profit de la personne ou de la société de personnes,
+(ii) d’une fiducie à son bénéficiaire,
+(iii) d’une fiducie administrée au profit d’un ou de plusieurs de ses bénéficiaires à une autre fiducie administrée au profit des mêmes bénéficiaires;
+f) tout transfert de bien qui n’a pas pour effet de changer la propriété effective du bien, dans le cas où […] :
+[…]
+D. La définition de « régime d’épargne-retraite » et « rentier » – mentionnées par l’intimée 146(1) « rentier »
+a) Jusqu’au moment, après l’échéance du régime, où son conjoint acquiert le droit, par suite du décès du rentier, de recevoir des prestations qui doivent être versées sur ce régime ou en vertu de ce régime, le particulier visé aux alinéas a) ou b) de la définition de « régime d’épargne-retraite » au présent paragraphe pour lequel est prévu, en vertu d’un régime d’épargne-retraite, un revenu de retraite;
+146(1) « régime d’épargne-retraite »
+[…]
+b) arrangement selon lequel un particulier […] verse, selon le cas :
+(i) en fiducie à une société titulaire d’une licence ou par ailleurs autorisée par la législation fédérale ou provinciale à exploiter au Canada une entreprise consistant à offrir ses services au public en tant que fiduciaire, un montant périodique ou autre, à titre d’apport en vertu de la fiducie,
+[...]
+devant être utilisé […] en vue d’assurer au particulier […] un revenu de retraite.
+Bulletin d’interprétation IT-320R3 de l’Agence du revenu du Canada
+2. Tout placement admissible d’une fiducie régie par un régime doit être la propriété du fiduciaire de la fiducie régie par un régime et non celle du rentier […] S’il s’agit d’une action […], son enregistrement au nom du fiduciaire de la fiducie régie par un régime confirme que ce fiduciaire en est le propriétaire [sauf lorsqu’un courtier l’a sous sa garde en tant que mandataire pour le fiduciaire].
+V. Autres questions en litige [20] Bien qu’une seule question fondamentale soit posée dans cette question au titre de l’article 58 des Règles, comme il a déjà été signalé, les parties avancent différentes lectures des textes selon leurs thèses respectives. Par conséquent, la Cour juge qu’il est nécessaire de formuler des questions secondaires ou des sous-questions dans le but de répondre à la question au titre de l’article 58 des Règles. Cette analyse secondaire est requise, parce que, quoique les faits soient constants, les éléments de la transaction en soi sont plus complexes en raison de l’existence d’un REER.
+[21] Par conséquent, d’après les faits constants, les documents ainsi que les questions de droit acceptés, la Cour a posé les questions secondaires suivantes :
+a) Quelles parties concernées et mesures légales ont eu des conséquences sur le « transfert » des biens?
+b) Compte tenu de ce qui précède, est-ce qu’Olympia était « l’acheteu[se] » à qui les actions ont été cédées au sens de la définition du paragraphe 116(3)?
+c) Dans l’affirmative, est-ce qu’Olympia était l’acheteuse qui a acquis les biens imposables d’un non-résident et qui doit donc assumer la responsabilité au titre du paragraphe 116(5)?
+VI. Analyse et réponse à la question au titre de l’article 58 des Règles A. Les parties concernées et les mesures visant à « transférer » les biens [22] D’après les observations et les faits, la recherche de savoir qui a entrepris quelles mesures pour « transférer » les biens est d’une grande importance. Elle appelle l’examen des documents admis et des faits dans l’optique des structures et des concepts juridiques pertinents.
+[23] Dans les faits, les documents suivants appellent certaines conclusions :
+a) La demande d’adhésion à un régime : bien que le rentier ait dû signer tous les documents d’orientation, ce document reconnaît que : le titre juridique pour toutes les valeurs du REER est détenu par le fiduciaire, qui peut rejeter des ordres de vente de valeurs et imposer l’obligation au rentier d’indemniser le fiduciaire pour les frais et les autres montants découlant de l’accord.
+b) La convention d’achat d’actions concernant des valeurs précises : la CAA rappelle l’obligation du vendeur de vendre, de céder ses droits à l’acheteur (qui y est défini comme étant le rentier), d’enregistrer les valeurs au nom du fiduciaire et, réciproquement, l’exigence du vendeur de signer une obligation fiduciaire provisoire avant la livraison en faveur du rentier. L’acheteur y indique aussi qu’il achète à titre de souscripteur, non de mandataire.
+c) La déclaration de fiducie : ce document, qui accompagne la CAA, concrétise la fiducie provisoire du vendeur en faveur du rentier relativement à certains droits : dividendes, droit de vote et avis. En outre, ce document reconnaît cette fiducie provisoire jusqu’à l’enregistrement du titre au nom du rentier ou de son représentant personnel. Ironiquement, dans le document, le rentier est qualifié de « bénéficiaire » de la fiducie ponctuelle provisoire en question.
+d) La lettre de garantie : ce document amoindrit certaines obligations juridiques d’Olympia qui subsistent autrement à titre de fiduciaire : obligations relatives à l’évaluation, à la qualification et au paiement des frais. Finalement, elle ordonne à Olympia de transférer des fonds à partir du REER pour acheter certains placements et l’autorise à recevoir les certificats de ceux-ci en son nom.
+e) La lettre d’instructions : bien qu’il existe deux formules différentes, elles ont essentiellement une incidence juridique similaire. Chacune résume les directives du rentier à Olympia et regroupe les formulaires requis pour qu’Olympia puisse [traduction] « procéder au transfert et à la conclusion de la convention d’achat » et accepter la livraison des actions qui seront détenues dans le REER. Le but de ces formules est que les droits concernant les actions soient absorbés au profit d’Olympia, à titre de fiduciaire.
+f) Le certificat d’actions : la substance de ce document fournit la preuve à Olympia, puisqu’elle n’était pas une partie à la CAA, que les actions sont des placements admissibles dans un REER.
+B. Le régime législatif des REER [24] En l’absence de REER, dont la justification et la structure seront analysées plus en profondeur ci-dessous, un tel transfert d’actions n’impliquerait, par nécessité logique, que deux parties : le vendeur et l’acheteur (ainsi que leurs avocats respectifs). Un nombre plus réduit de documents aurait été requis dans ce cas : une convention d’achat, une déclaration de fiducie provisoire et un certificat d’actions enregistré au nom de l’acheteur. Dans cette situation, où des actions d’une société privée étaient détenues par un non-résident, il ne fait aucun doute que les paragraphes 116(3) et 116(5) engloberaient dans leur champ d’application « l’acheteur » des valeurs recensées dans ces documents. Légalement, un prix serait convenu, l’acheteur offrirait l’argent au vendeur et les droits liés aux valeurs seraient transférés à l’acheteur indiqué dans la convention d’achat. De plus, dans une telle situation et comme il a été discuté à l’audience lors des débats, lorsque les propriétés légale et bénéficiaire ne sont pas disjointes dans une fiducie, les pratiques exemplaires reposent sur l’avocat de l’acheteur. Une des nombreuses mesures exemplaires suivantes aurait été adoptée : l’obtention d’un certificat de décharge en application du paragraphe 116(4), la conservation et la remise par l’avocat de l’acheteur de la retenue fiscale appropriée au titre du paragraphe 116(5) ou la réalisation et la conclusion d’une enquête sérieuse pour déterminer si le vendeur n’était pas un non-résident au titre du paragraphe 116(5).
+[25] Toutefois, en l’espèce, il est important de souligner qu’il existe une fiducie définie ainsi que des documents connexes et des structures juridiques qui l’accompagnent. Les documents complémentaires et les dispositions législatives relatives au REER sont conformes aux lois reconnues régissant les fiducies, notamment, une confiance expresse et tacite envers le fiduciaire (Olympia) quant à la détention du titre de propriété au profit exclusif futur du bénéficiaire (le rentier) du REER : St. Michael’s Trust, au paragraphe 5. Traditionnellement, en tant que propriétaire légal de l’actif fiduciaire (le REER), le fiduciaire est saisi des pouvoirs de gestion et de disposition, alors que tous les droits de jouissance des biens sont conférés au bénéficiaire (le rentier). Les entreprises modernes et les réflexions liées au droit fiscal tentent fréquemment, en utilisant des instruments et des dispositions déterminatives, de « transformer » les fiducies pour les faire passer de structures juridiques concernant l’allocation de différents attributs du droit de propriété au même bien à des entités plus modernes en soi, au moyen de pouvoirs réservés au constituant ou au bénéficiaire (le rentier) ou de l’imposition réputée du revenu des fiducies des entités : Waters Law of Trusts in Canada, 4e édition, aux pages 568 et 1047. Cette métamorphose théorique prévaut tout au long des observations d’Olympia. La question au titre de l’article 58 des Règles comprend aussi deux questions secondaires : que constituent légalement et dans les faits les biens du REER ou de la fiducie et, après examen des documents, des lois et de la législation, à qui les actions, qui font l’objet de la cotisation soulevée par le ministre, ont-elles été cédées?
+[26] Textuellement, la définition de fiducie au paragraphe 104(1) est une inclusion supplémentaire et étendue, non une codification : « Dans la présente loi, la mention d’une fiducie […] vaut également mention, sauf indication contraire du contexte, du fiduciaire, […] ayant la propriété ou le contrôle des biens de la fiducie […]. » Les mots « doit s’entendre de » « est » ou « décrit une entente juridique » ne sont pas utilisés. La Loi ne comprend pas de définition de « fiducie » : Fraser v The Queen, 91 DTC 5123, à la page 5127, confirmée par 95 DTC 5685 (CAF). La jurisprudence actuelle soulignant qu’un REER est une fiducie fait autorité, comme cela est indiqué dans la Loi et dans la mesure où les lois régissant les fiducies applicables n’ont pas été modifiées par des dispositions législatives. La raison d’être de cette situation est renforcée par le fait que, dans cette question, la Cour ne détermine pas la validité d’une cotisation relativement aux revenus de la fiducie, du bénéficiaire ou du fiduciaire de la fiducie, qui est certainement distinctement assujettie à de nombreuses dispositions de la Loi, mais plutôt la cotisation du fait d’autrui à l’égard d’un acheteur, pour l’impôt non versé sur la disposition des biens d’un non-résident.
+[27] D’après les documents, l’application de la Loi et l’intention des parties, et, bien que les décisions concernant le choix des investissements dans le REER et les occasions de les trouver et de les obtenir aient été confiées contractuellement au rentier, les préalables juridiques essentiels d’une fiducie demeurent : sous‑alinéa 146(1)b)(i) de la Loi et article 2 du Bulletin d’interprétation IT‑320R3. En ce qui concerne la propriété légale, la situation la moins souhaitable aurait été l’acquisition, l’inscription du titre juridique ou la possession de quelque bien que ce soit faisant partie du REER au nom du rentier, du moins avant la conversion de celui-ci en paiements en argent sous forme de rente ultérieurement. Cette intention était intégrée dans la structure de base de la fiducie. Dans les faits, dans une certaine mesure, le contrôle des actions comme actif d’une fiducie revenait à Olympia. Non seulement le transfert au rentier à ce moment ne serait pas souhaitable légalement et temporellement en ce qui a trait aux actions, mais le transfert des droits pour de tels biens en nature, plutôt qu’en espèces sous la forme d’une future rente ou d’un placement en argent, n’aurait pas pu avoir lieu aux termes de la Loi sans conséquences néfastes involontaires : le mot « prestation » est défini au paragraphe 146(1) de la Loi comme toute « somme » reçue dans le cadre d’un régime d’épargne-retraite et versée à un rentier ou à son conjoint.
+[28] Même dans un tel cas, une conversion préalable de biens fiduciaires en espèces est nécessaire. Il y a donc une différence structurelle entre le droit de jouissance exclusive de la valeur de la fortune du REER par le rentier aux termes des lois régissant les fiducies, dans la mesure autorisée par la Loi, et le droit d’être saisi des biens fiduciaires particuliers, en espèces. Jusqu’à ce que l’actif sous-jacent soit converti en argent comptant, il ne peut être payé au rentier dans le cadre d’un REER. C’est ce que veulent le rentier et Olympia, rien de moins. En résumé, la détermination et le « pouvoir » ou le « droit » d’acquisition du rentier ne doivent pas être confondus avec l’obligation fiduciaire et l’autorité d’Olympia à être légalement saisie, autorisée et en contrôle des actifs du REER, que ce soit sous la forme du prix d’achat convenu ou du bien acquis, puisque le régime régissant le REER, à titre de fiducie, subsiste.
+[29] Il ne s’agit pas de savoir qui « possède » le plus important droit exclusif quant aux dividendes (Prévost Car) ou la résidence d’après la gestion et le contrôle (St Michael Trust), mais plutôt qui, en droit, est la partie (le rentier ou Olympia) qui avait l’intention d’acquérir légalement les actions, d’en être responsable ou d’en disposer à titre de bien fiduciaire sous-jacent. La réponse est claire : Olympia, en tant que fiduciaire du REER, était la propriétaire initiale, seule responsable et enregistrée du bien fiduciaire sous-jacent faisant partie du REER. Cette intention et ses conséquences légales ont entraîné la cession du bien imposable par le vendeur à Olympia.
+C. Est-ce qu’Olympia était l’« acheteu[se] » selon la définition du paragraphe 116(3)? [30] Textuellement, dans le paragraphe 116(3), l’acheteur s’entend de la personne à qui la personne non-résidente cède le bien. Les actions comprennent les actifs faisant partie de la fiducie (REER). C’est également vrai pour les liquidités existant dans le REER avant leur utilisation pour l’achat d’actions.
+[31] Les fonds étaient en possession d’Olympia, le fiduciaire, et ont été remis en son nom. Ces fonds, déposés par Olympia, ont permis d’acquérir les actions lors de leur livraison. Sur le plan de la comptabilité de la fiducie, les sommes en espèces du REER ont simplement été converties en actions. Même si l’usage, les prestations et la jouissance découlant des actions étaient exclusivement réservés au rentier, la fiducie et les documents liés au REER confiaient les autres attributs du droit de propriété ainsi que la possession, les titres et la gestion de ces biens à Olympia, à titre de fiduciaire. À la lumière de la structure utilisée, aucune partie concernée ne souhaite que le rentier soit la partie à fournir les fonds pour l’achat (ce qui aurait nécessité un retrait du REER) ou à qui l’actif fiduciaire sous-jacent (les actions) a été proposé ou cédé. Les capacités contractuelles du rentier à déterminer et entreprendre l’acquisition d’une catégorie d’actifs, à titre de biens fiduciaires, ne se limitaient qu’à cela, puisque dans les dispositions concernant les REER dans la Loi, le rentier ne peut être saisi de l’actif en ce qui a trait à son titre juridique et à son entrée en possession.
+[32] Compte tenu de ce qui précède, les documents sont conformes au droit. Le régime juridique régissant le REER et les biens qui en font partie empêche toute partie, sauf Olympia, de devenir acheteuse des biens fiduciaires sous-jacents, notamment les actions qui sont partiellement comprises dans le capital de la fiducie (le REER). Dans l’ensemble, les faits et les documents indiquent qu’Olympia était la propriétaire légale des actions, en fiducie, acquises grâce à celle-ci avec les fonds en sa possession et les contrôles appropriés : Waters Law of Trusts in Canada, document précité aux pages 141 et 144. Les biens constituant le REER (et en particulier pour la présente question au titre de l’article 58 des Règles, les actions) représentaient l’obligation fiduciaire indispensable et sans laquelle il n’y aurait pas eu de fiducie ou d’acquisition conforme aux lois régissant les REER : The Law of Trusts, Eileen E. Gillese, 3e édition, à la page 31.
+[33] En conciliant cette conclusion avec l’enseignement du juge en chef adjoint Rip, tel était alors son titre, à l’occasion de l’affaire Prévost Car, la Cour relève qu’il n’y a pas de désaccord dans la question au titre de l’article 58 des Règles en ce qui a trait à la personne qui était le propriétaire bénéficiaire du REER : le rentier. À l’occasion de l’affaire Prévost Car, une affaire tranchée au Québec, où le Code civil s’appliquait et a été pris en compte, la Cour a discuté les mots « propriétaire bénéficiaire » en matière de cotisations au titre de l’article 116, lorsque les conventions fiscales énonçaient des taux différents de retenue fiscale. La solution dépendait de la personne qui était « bénéficiaire ». Dans une observation incidente, la Cour a affirmé : « C’est le véritable propriétaire du bien qui en est le propriétaire bénéficiaire ». Notre Cour n’a pas dit le contraire. Dans les faits, la Cour a conclu qu’il n’y avait pas de fiducie et que tous les attributs du droit de propriété appartenaient à une partie : le titre, le contrôle, la possession, la jouissance et l’utilisation. Les faits diffèrent pour la question au titre de l’article 58 des Règles : Olympia était responsable de la possession, des titres et du contrôle des actions, alors que l’utilisation et la jouissance revenaient sans équivoque au rentier. Dans l’affaire Prévost Car, l’observation était parfaitement exacte : le véritable propriétaire, lorsque aucune autre partie ne détient d’attributs du droit de propriété, est, à plus forte raison, le propriétaire bénéficiaire.
+[34] De plus, la thèse portant que le compte en fiducie provisoire au profit du rentier aux termes de la CAA démontre, en quelque sorte, que le rentier est le seul acheteur est incompatible avec l’exigence d’enregistrement obligatoire au titre de l’article 4 du même document. Par ses termes mêmes, la déclaration concernant la fiducie provisoire dans la CAA par le vendeur cesse à la date où les actions sont enregistrées « au nom du rentier ou de son représentant personnel ». Il n’y a rien d’incohérent entre l’entente concernant la fiducie provisoire et la directive selon laquelle Olympia doit être le propriétaire enregistré et doit assurer la livraison des actions. Normalement – par exemple, en l’absence de fiducie – la partie nommée pour exécuter la CAA obtiendrait les titres et prendrait possession des biens. Toutefois, dans le cas présent, l’ensemble des documents indique qu’Olympia a offert les fonds pour acheter les actions, a obtenu les titres et a assuré la livraison des actions et tous ces faits étaient connus, acceptés et cohérents dans les documents signés par les vendeurs ou leurs mandataires et leurs avocats.
+[35] De plus, le nom d’Olympia figurait bien en évidence dans les documents visés auxquels le vendeur et son avocat avaient accès. Ce fait est pertinent, puisque l’article 116 vise de la responsabilité du vendeur ainsi que de toute responsabilité du fait d’autrui de l’acheteur pour non-conformité dans le contexte de cet article.
+D. Est-ce qu’Olympia était responsable au titre du paragraphe 116(5) à titre d’« acheteu[se] », qui a « acquis » les biens? [36] Il est nécessaire d’examiner davantage cette question, puisque dans la disposition d’assujettissement du paragraphe 116(5) figurent les mots suivants : « L’acheteur qui […] acquiert […] un bien canadien imposable [...] »
+[37] Même si le libellé de cette disposition est légèrement plus séquentiel que la définition du paragraphe 116(3), compte tenu des faits et des lois applicables à la transaction et des structures relatives aux actions, le résultat est le même. Olympia a acquis les actions légalement à titre de partie, plutôt que comme bénéficiaire, destinée, obligée et autorisée à les recevoir. Le caractère des actions, en tant que biens fiduciaires sous-jacents dans l’ensemble du REER, nonobstant la détermination du rentier et de ses droits d’acquisition, appelle cette conclusion en fait et en droit. Le « véritable propriétaire » des richesses et des avantages du REER est le rentier. Cependant, les actions n’étaient pas le REER, mais des biens partiellement compris dans cet ensemble. Aussi, les actions étaient un actif que seule Olympia pouvait acquérir de façon conforme et dont la possession et la disposition demeuraient constantes et incontestées au niveau de « l’actif fiduciaire », afin que les actions demeurent dans la structure du REER.
+[38] La thèse d’Olympia portant que les paragraphes 159(1) et (3) de la Loi illustrent une approche plus cohérente, textuelle, contextuelle et fondée sur l’objet visé à adopter dans les circonstances est rejetée. Textuellement, si Olympia est l’acheteuse qui a acquis les actions, le paragraphe 116(5) joue, indépendamment des paragraphes 159(1) et (3), qui font clairement référence à la distribution des biens fiduciaires plutôt qu’à l’acquisition d’un bien canadien imposable. En raison de leur texte, du contexte et de l’objet visé, ces articles sont complètement opposés : l’un d’eux (l’article 159) vise l’obligation fiscale de l’auteur du transfert d’une fiducie imposable après la disposition d’un bien fiduciaire à un bénéficiaire et l’autre (l’article 116) vise la responsabilité fiscale du fait d’autrui du bénéficiaire du transfert d’un bien canadien lors de l’acquisition auprès d’une tierce partie assujettie à l’impôt.
+[39] En contexte, l’article 116 ne fait pas référence à la responsabilité fiscale « personnelle » d’Olympia ou de toute autre partie acheteuse. L’article vise la responsabilité du fait d’autrui, comme mesure de recouvrement, de l’acheteur relativement à la dette fiscale d’un vendeur non-résident, lorsque l’acheteur ne se conforme pas aux alinéas 116(5)a) ou b).
+[40] En tenant compte du but, l’article 116 est une disposition d’assujettissement bien connue de la Partie I de la Loi sur la disposition des biens canadiens imposables par un vendeur non-résident. Si le vendeur ne remet pas l’impôt retenu au moment de la disposition des biens canadiens imposables, l’acheteur non conforme doit payer l’impôt du vendeur. Dans l’ensemble, il s’agit autant d’une disposition d’assujettissement que d’un mécanisme de perception de l’impôt du vendeur : Fiduciaires de la fiducie RCI Trust c MRN, 2009 CAF 373. Aucun but express ou implicite de l’article 116 ne concerne l’impôt sur le revenu exigible d’une fiducie, d’un fiduciaire ou du bénéficiaire en soi. Dans la mesure où le fiduciaire (ou toute autre personne) devient un acheteur qui n’acquiert pas de façon conforme un bien canadien imposable d’un vendeur non-résident, la responsabilité du vendeur devient celle de l’acheteur, soit le fiduciaire en l’espèce.
+[41] La concordance de la fiducie et de l’acquisition des actions sous les directives du rentier peut avoir obscurci le point de vue d’Olympia quant à son rôle et à ses obligations, mais elle ne peut contrer le contexte et l’objectif distincts de cette disposition en matière d’imposition du vendeur et d’exécution. Même si cela n’est pas pertinent quant à la question relevant de l’article 58 des Règles, cela vaut lorsque le but de la disposition est autrement bien connu et facilement respecté, même à l’aide d’une légère modification des modèles de documents de transaction présentés devant la Cour.
+[42] Par ces motifs, la Cour répond ainsi à la question au titre de l’article 58 des Règles : selon les faits constants en l’espèce, dans leur version modifiée, Olympia est, en droit et en fait, acheteuse (aux termes du paragraphe 116(3) de la Loi de l’impôt sur le revenu (la « LIR »)), au titre du paragraphe 116(5) de la LIR.
+[43] La Cour renvoie la question des dépens au juge du procès, mais pourra user de son pouvoir discrétionnaire si elle reçoit des parties des observations écrites lui demandant de statuer autrement, dans les 30 jours suivant la date de la présente ordonnance.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 13e jour d’octobre 2015.
+François Brunet, réviseur
+RÉFÉRENCE :
+2014CCI372
+No DU DOSSIER DE LA COUR :
+2013-189(IT)G
+INTITULÉ :
+OLYMPIA TRUST COMPANY ET LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 25 juin 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 19 décembre 2014
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Jehad Haymour
+Avocate de l’intimée :
+Me Donna Tomljanovic
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Jehad Haymour
+Cabinet :
+Dentons Canada LLP
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

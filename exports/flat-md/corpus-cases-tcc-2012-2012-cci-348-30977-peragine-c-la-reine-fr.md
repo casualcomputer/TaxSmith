@@ -1,0 +1,178 @@
+---
+title: "Peragine c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30977/index.do"
+last_modified: "2012-10-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 348"
+citation2: ""
+neutral_citation: "2012 CCI 348"
+decision_date: "2012-10-04"
+language: "fr"
+item_id: "30977"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4792
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:22:03.261000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a8a685037f7b1890af59008153eaaca3b54307c9a06f52f02183304f91cc3fab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Peragine c. La Reine
+
+- Citation: 2012 CCI 348
+- Decision date: 2012-10-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4792, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peragine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-04
+Référence neutre
+2012 CCI 348
+Numéro de dossier
+2009-3604(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3604(IT)G
+ENTRE :
+SALVATORE PERAGINE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 23 novembre 2011 et le 24 septembre 2012,
+à Hamilton (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me David M. Piccolo
+Avocate de l’intimée :
+Me Erin Strashin
+___________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2003 de l’appelant est accueilli avec dépens, et la nouvelle cotisation est annulée.
+Signé à Ottawa, Canada, ce 4e jour d’octobre 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de janvier 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2012CCI348
+Date : 20121004
+Dossier : 2009-3604(IT)G
+ENTRE :
+SALVATORE PERAGINE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Après expiration de la période normale de nouvelle cotisation pour son année d’imposition 2003, l’appelant a fait l’objet d’une nouvelle cotisation augmentant le montant de ses gains imposables pour l’année 2003. Dans sa déclaration de revenus de 2003, l’appelant a fait état d’un gain en capital imposable de 8 500 $, la nouvelle cotisation augmentant de 92 874 $ le montant du gain en capital imposable. Les deux parties invoquent l’inexactitude de la déclaration de revenus remplie par l’appelant pour l’année 2003. Selon l’appelant, il n’aurait dû, dans cette déclaration de revenus, faire état d’aucune somme à titre de gain en capital imposable, l’intimée faisant pour sa part valoir que l’appelant aurait dû déclarer, comme gain en capital imposable, non pas 8 500 $, mais 101 374 $.
+[2] Le gain en capital imposable en cause en l’espèce découle de la disposition d’un bien situé au 4057, avenue Victoria, à Niagara Falls (Ontario) (le « bien de l’avenue Victoria »). Le point en litige dans le présent appel est de savoir si, en ce qui concerne le bien de l’avenue Victoria, l’appelant n’était qu’un simple fiduciaire. Si, aux fins de la Loi de l’impôt sur le revenu (la « Loi »), l’appelant détenait le bien de l’avenue Victoria en tant que simple fiduciaire, le gain en capital imposable découlant de la vente du bien n’est pas imputable à l’appelant. Ce gain en capital imposable serait en effet imputable au propriétaire bénéficiaire[1] du bien. Or, selon l’intimée, l’appelant était propriétaire en common law et propriétaire bénéficiaire du bien de l’avenue Victoria.
+[3] Dans la décision Mensah c. La Reine, [2008] A.C.I. no 302, 2008 DTC 4358, le juge Bowman, alors juge en chef, s’est prononcé en ces termes :
+8 Quatrièmement, la cotisation établie pour l’année d’imposition 1993 porte sur une année frappée de prescription. C’est au ministre qu’incombe le fardeau de démontrer qu’il était justifié d’établir une nouvelle cotisation pour l’année d’imposition 1993 après la période normale de nouvelle cotisation. Les dispositions de la Loi qui permettent au ministre d’établir de nouvelles cotisations pour des années frappées de prescription ont évolué avec le temps, et cette évolution a été résumée au paragraphe 18 de 943372 Ontario Inc. c. La Reine, 2007 CCI 294, 2007 D.T.C. 1051, [2007] 5 C.T.C. 2001 :
+[18] L’évolution de ces dispositions peut être brièvement résumée : initialement, le paragraphe 152(4) permettait au ministre de rouvrir une année prescrite pour n’importe quelle raison, s’il pouvait conclure à une présentation erronée des faits du type décrit au paragraphe 152(4), peu importante soit‑elle, et il pouvait établir une nouvelle cotisation à l’égard de n’importe quel élément, et ce, peu importe que cet élément ait donné lieu à une présentation erronée des faits, de quelque type que ce soit. De toute évidence, cela semblait plutôt inéquitable, de sorte que l’alinéa 152(5)b) a été édicté en 1973‑1974, cette disposition prenant effet à compter de 1972. La disposition en question permettait au contribuable d’établir que l’omission de déclarer un montant au titre du revenu ne résultait pas d’une présentation erronée des faits effectuée par négligence, inattention, omission volontaire ou attribuable à une fraude. Néanmoins, cette disposition imposait une charge au contribuable. Le paragraphe 152(4.01) a donc été édicté et son effet, selon Me Kutkevicius, est de libérer le contribuable de cette charge et d’imposer au ministre une charge à deux volets pour établir :
+a) qu’il y a eu présentation erronée des faits,
+b) que la présentation erronée des faits a été effectuée par négligence, inattention ou omission volontaire ou qu’elle est attribuable à une fraude.
+Je crois que telle est l’interprétation qu’il convient de donner. Si la charge qui était imposée au contribuable en vertu de l’ancien alinéa 152(5)b) avait survécu à la modification apportée au paragraphe 152(5) et à l’adoption du paragraphe 152(4.01), le paragraphe (4.01) n’aurait aucun objet
+[Non souligné dans l’original.]
+[4] Il incombait par conséquent à l’intimée de démontrer non seulement qu’il y avait eu, de la part de l’appelant, présentation erronée des faits dans la mesure où il n’avait pas également déclaré, en tant que gain en capital imposable, les 92 874 $ résultant de la disposition du bien de l’avenue Victoria, mais aussi que cette « présentation erronée des faits a[vait] été effectuée par négligence, inattention ou omission volontaire ou qu’elle [était] attribuable à une fraude ».
+[5] Dans l’arrêt Nesbitt v. The Queen, 96 DTC 6588, le juge Strayer, au nom de la Cour d’appel fédérale, s’est exprimé en ces termes :
+8 Même en supposant que l’on puisse considérer que la lettre du 6 août 1986 prouve que le ministre était au courant à cette date-là (deux mois avant l’expiration du délai de prescription de quatre ans) des faits véridiques et qu’il y avait eu présentation erronée de faits, je ne crois pas que cela soit utile à l’appelant. Il me semble que l’un des objets du paragraphe 152(4) est de favoriser l’établissement soigné et exact des déclarations de revenus. C’est au moment où la déclaration est produite que l’on peut déterminer s’il y a eu ou non présentation erronée de faits par négligence ou inattention en remplissant la déclaration. Des faits ont été présentés erronément s’il se trouve un élément inexact dans la déclaration, du moins un élément qui est important pour les fins de la déclaration ainsi que de toute nouvelle cotisation ultérieure. […]
+[Non souligné dans l’original.]
+[6] Les deux parties affirment que, dans sa déclaration de revenus pour l’année 2003, le montant déclaré par l’appelant en tant que gain en capital imposable est inexact. Pour que l’appelant puisse faire l’objet d’une nouvelle cotisation après expiration de la période normale de nouvelle cotisation, l’intimée doit établir que l’appelant aurait dû déclarer ce gain en capital imposable. Si l’appelant n’était que le simple fiduciaire du bien de l’avenue Victoria, le fait qu’il n’ait pas déclaré la somme en question en tant que gain en capital imposable, comme l’intimée affirme qu’il aurait dû le faire, ne constituerait pas de la part de l’appelant une présentation erronée des faits, car ce montant supplémentaire (à supposer qu’il ait été correctement calculé) ne constituerait pas un revenu pour l’appelant.
+[7] L’appelant et son frère, Leo Peragine, ont tous deux témoigné à l’audience. Leurs témoignages étaient clairs et concordants, les deux s’accordant pour dire que l’immeuble avait été acheté dans le cadre de l’entreprise de Leo Peragine, en l’occurrence une compagnie à dénomination numérique – 1139057 Ontario Inc. (exploitée sous le nom de Cataract Towing & Recovery (« Cataract Towing »)). Au départ, Leo Peragine et son frère, Angelo Peragine, étaient tous deux actionnaires de la compagnie, mais Leo Peragine avait par la suite racheté les parts de son frère.
+[8] Le bien de l’avenue Victoria avait été acheté en 1998, et le titre de propriété avait été enregistré au nom de l’appelant, car, à l’époque, Leo Peragine n’était pas en mesure d’obtenir le financement nécessaire. Selon la réponse, le bien de l’avenue Victoria avait été acheté 160 000 $ et, dans sa déclaration de revenus de 2003, l’appelant a indiqué, comme prix de base rajusté, la somme de 180 000 $ (sans faire de distinction entre le terrain et le bâtiment). Bien que cela ne soit pas entièrement clair, il semblerait que l’argent nécessaire à l’achat du bien de l’avenue Victoria soit provenu d’une hypothèque de 146 000 $ sur la maison que possédait, à Toronto, la mère de l’appelant (et de Leo Peragine), ainsi que d’une hypothèque sur le bien de l’avenue Victoria consentie à Jose Ribeiro et à Teresa Ribeiro (d’un montant de 55 750 $). Le titre de propriété de la maison appartenant à la mère de l’appelant (et de Leo Peragine) était au nom de l’appelant et de leur mère.
+[9] Le témoignage de Leo Peragine fait clairement ressortir que tous les versements hypothécaires (avant la vente du bien de l’avenue Victoria) avaient été effectués par Cataract Towing. Les témoignages de Leo Peragine et de l’appelant font également ressortir qu’aucun de ces versements hypothécaires n’avait été effectué par l’appelant. Cataract Towing remboursait l’hypothèque sur la maison de la mère de Leo Peragine et de l’appelant en déposant l’argent nécessaire dans le compte en banque de leur mère avant que le paiement hypothécaire soit effectué à la Banque Scotia.
+[10] Après l’achat du bien de l’avenue Victoria, mais avant sa vente, le terrain situé derrière le bâtiment fut creusé, et le trou a été comblé avec du béton et du gravier. Selon le témoignage de Leo Peragine, on enleva 240 chargements de remblai, et 97 chargements de gravier concassé furent utilisés pour combler le trou. Le toit et la fournaise du bâtiment furent remplacés, et on installa une cabine de pulvérisation destinée à la peinture des carrosseries automobiles. Ces divers projets avaient entraîné des dépenses considérables. Il est clair que ces projets avaient été entrepris, non pas par l’appelant, mais par Cataract Towing. L’appelant n’avait eu aucun rôle dans ces projets.
+[11] L’installation de la cabine de pulvérisation avait exigé des travaux de rénovation. Le financement de l’achat et de l’installation de la cabine avait été arrangé par London Leasing. À une certaine époque, Cataract Towing avait cessé d’effectuer les paiements liés au financement de la cabine de pulvérisation et, comme l’appelant était le propriétaire inscrit du bâtiment, c’était avec lui que London Leasing avait communiqué à cet égard. À l’époque, le reliquat s’élevait à 12 000 $, somme à acquitter en 15 versements de 800 $. Ces paiements étaient effectués par Cataract Towing ou par Leo Peragine qui remettaient 800 $ à l’appelant à chaque fois qu’un tel versement était dû, l’appelant effectuant alors le paiement de 800 $ à 3413331 Canada Inc.
+[12] La directive modifiée concernant le décaissement du produit de la vente du bien de l’avenue Victoria a été versée au dossier. Selon cette directive, les fonds (soit 62 250 $) ont servi à rembourser à Jose et Teresa Ribeiro l’hypothèque grevant le bien, et à rembourser à la Banque Scotia ce qui restait (soit 133 288 $) de l’hypothèque grevant le bien de la mère de l’appelant. Notons que la somme de 32 080 $ versée à Jose et Teresa Ribeiro était, dans la directive, présentée comme un prêt. Le témoignage de Leo Peragine et de l’appelant ont fait clairement ressortir que Leo Peragine ou Cataract Towing avait emprunté à Jose et Teresa Ribeiro une certaine somme en sus du montant initial de l’hypothèque. Il est clair également que ce n’est pas l’appelant qui s’était arrangé avec Jose et Teresa Ribeiro au sujet du financement, et que l’argent avancé par Jose et Teresa Ribeiro n’avait pas été remis à l’appelant. Si, comme l’affirme l’intimée, l’appelant était le propriétaire en common law et le propriétaire bénéficiaire du bien de l’avenue Victoria, pourquoi la somme de 32 080 $, prélevée sur le produit de la vente de ce bien, a-t-elle été remise à Jose et Teresa Ribeiro en remboursement d’un prêt non garanti consenti à Leo Peragine ou à Cataract Towing?
+[13] Le produit de la vente du bien de l’avenue Victoria a également servi à régler les impôts fonciers impayés et les frais d’avocat. Une somme fut également versée à Libra Peragine (l’épouse d’Angelo Peragine). Selon l’explication qui en a été donnée, il s’agissait vraisemblablement du remboursement d’un prêt que Libra Peragine avait accordé à Leo Peragine.
+[14] Du produit de la vente du bien de l’avenue Victoria, environ 95 000 $ avaient été versés à l’appelant. Cet argent avait été remis par l’appelant soit à Leo Peragine soit à d’autres personnes désignées par Leo Peragine. Une partie de cet argent avait servi à régler un compte Visa. L’appelant ne sait pas à qui appartenait le compte Visa ainsi réglé. Cependant, comme Leo Peragine lui avait dit d’effectuer un versement de 4 788 $ sur ce compte Visa, c’était ce que l’appelant avait fait. Si l’appelant avait été le propriétaire en common law et le propriétaire bénéficiaire du bien de l’avenue Victoria, pourquoi aurait-il effectué, sur le produit de la vente de ce bien, un versement à un compte Visa inconnu, simplement parce que Leo Peragine lui avait demandé de le faire?
+[15] Leo Peragine a témoigné être, dans les quelques jours suivant la conclusion de la vente, allé chercher l’argent chez l’appelant. L’appelant a témoigné que, sur l’argent en cause, diverses sommes avaient été décaissées de manière échelonnée, non seulement à Leo Peragine, mais à d’autres personnes désignées par Leo Peragine. Les déclarations des témoins ne concordent pas entièrement quant aux personnes à qui a été remis l’argent reçu à la conclusion de la vente, ni quant aux dates auxquelles ces sommes ont été décaissées, mais les témoins s’entendent pour dire que l’appelant n’a rien gardé de l’argent provenant de la vente du bien de l’avenue Victoria, cet argent ayant intégralement servi à régler les charges dont était grevé le bien, ou ayant été remis à Leo Peragine ou distribué conformément à ses directives.
+[16] Les contradictions pouvant exister entre le témoignage de l’appelant et celui de Leo Peragine quant au nombre ou à la date des remises de fonds effectuées par l’appelant, ou quant à la question de savoir si les sommes en cause ont été intégralement versées directement à Leo Peragine, ou en partie à lui et le reste à des personnes désignées par lui, ne suffisent pas à mettre en cause leur crédibilité. La vente du bien de l’avenue Victoria a eu lieu en 2003, et il semble que les fonds aient été décaissés en septembre 2003, c’est-à-dire il y a neuf ans. Qu’une somme soit remise directement à telle ou telle personne, ou qu’elle soit distribuée en vertu des directives de cette personne peut n’avoir que peu d’importance aux yeux de la personne en question, étant donné que, quoi qu’il en soit, c’est elle qui perçoit l’avantage du versement. Le carnet de banque de l’appelant démontre clairement que la somme en cause a été intégralement décaissée dans les 30 jours suivant la conclusion de la vente.
+[17] Une copie du contrat de fiducie/de la déclaration de fiducie a également été produite à l’audience. Aux termes de ce document, qui porte la date du 1er septembre 1998, l’appelant n’est que le simple fiduciaire du bien de l’avenue Victoria, les bénéficiaires étant Leo Peragine et Leo Peragine faisant affaire sous la dénomination de Cataract Towing. Le comportement des parties est en l’occurrence conforme aux modalités de ce document, bien que, selon le document en question, Leo Peragine ait fait affaire en tant que propriétaire unique, alors que Cataract Towing and Recovery était, en fait, exploitée dans le cadre d’une société à dénomination numérique. Que l’entreprise ait été exploitée par Leo Peragine dans le cadre d’une entreprise individuelle ou dans le cadre d’une société à dénomination numérique ne modifie en rien la situation de l’appelant en tant que simple fiduciaire du bien de l’avenue Victoria, étant donné que le document désigne quelqu’un d’autre (Leo Peragine) en tant que propriétaire bénéficiaire du bien.
+[18] Dans la décision De Mond, précitée, la juge Lamarre se prononce en ces termes :
+[31] C’est aussi l’optique retenue par les tribunaux puisqu’il a été statué que les pertes subies dans le cadre d’une opération immobilière effectuée au nom d’une société à titre de simple fiduciaire devaient être déduites par la personne ayant un droit absolu aux bénéfices. Dans l’affaire Brookview Investments Ltd. et al. v. M.N.R., 63 DTC 1205 (C. de l’É.), des dispositions avaient été prises pour qu’une fiducie soit établie dans le but d’acheter un bien-fonds à titre de simple fiducie. Le juge Cattanach a conclu que l’unique rôle de la fiducie était de transférer les biens suivant les directives du groupe d’investisseurs. Il a par conséquent conclu que les investisseurs pouvaient déduire les pertes subies dans le cadre de l’opération immobilière, qui s’était révélée un échec. Le juge Cattanach a affirmé que, si des bénéfices avaient été réalisés, ces bénéfices n’auraient pas été imposés entre les mains de la fiducie, mais plutôt entre les mains de la personne qui avait un droit absolu aux bénéfices. M. W. D. Goodman, dans « The Character of the Bare Trust in Canadian Tax Legislation », dans l’ouvrage de D. W. Waters, ed., Equity, Fiduciaries and Trusts (Toronto: Carswell, 1993), page 219, a fait la remarque suivante sur l’affaire Brookview Investments, à la page 233 :
+[traduction]
+[...] Malheureusement, les motifs du jugement n’indiquent pas clairement le fondement juridique de la décision, mais on peut supposer que celle-ci repose sur l’opinion selon laquelle on peut faire totalement abstraction d’une simple fiducie à des fins fiscales, de façon que les biens détenus par le simple fiduciaire et tout revenu ou perte en découlant dussent être considérés comme appartenant aux bénéficiaires de la simple fiducie.
+[…]
+[34] Dans « The Character of the Bare Trust in Canadian Tax Legislation », op. cit., M. Goodman a mentionné à la page 222 un article du professeur Hayton dans lequel ce dernier a affirmé qu’une simple fiducie n’est pas une véritable fiducie. Le professeur Hayton a écrit ceci :
+[traduction]
+Si, en dépit de la forme de l’acte de fiducie, la fiducie est un trompe‑l’oeil ayant apparemment des effets sur le plan juridique, mais ne visant pas réellement à avoir de tels effets puisque c’est le constituant qui détient le pouvoir réel de disposition du capital et des revenus, elle n’est alors pas une véritable fiducie, mais une simple fiducie dans le cadre de laquelle le constituant reste le propriétaire en equity.
+Cependant, M. Goodman a pris soin d’indiquer que la déclaration du professeur Hayton ne devait pas être interprétée comme laissant entendre que les dispositions de la Loi relatives aux fiducies ne s’appliquent pas aux simples fiducies.
+[35] Dans Corporate Management Tax Conference 1989: "Creative Tax Planning for Real Estate Transactions --- Beyond Tax Reform and into the 1990s", l’opinion de Revenu Canada sur le concept de la simple fiducie est formulée dans les termes suivants à la page 8:1 :
+[traduction]
+Du point de vue de Revenu Canada, l’utilisation de simples fiducies à des fins commerciales soulève des questions complexes en matière d’impôt sur le revenu. Ces questions sont complexes parce que, pour arriver à des résultats en apparence équitables en matière d’impôt, l’existence d’une fiducie, qui est exécutoire à des fins commerciales, doit être laissée de côté à des fins fiscales.
+Bien que la simple fiducie ne soit pas définie dans la Loi de l’impôt sur le revenu, Revenu Canada la considère de façon générale comme une fiducie en common law lorsque le fiduciaire ne détient aucune responsabilité ni aucun pouvoir important et ne peut agir à l’égard des biens détenus en fiducie que suivant les instructions du constituant. Normalement, l’unique rôle du fiduciaire consiste à détenir le titre légal des biens. En outre, le constituant est l’unique bénéficiaire et peut demander que les biens lui soient retournés en tout temps. Donc, une simple fiducie n’inclut pas la fiducie sans droit de regard ni les autres fiducies dans le cadre desquelles le fiduciaire a des pouvoirs et des responsabilités établis.
+[36] Outre les définitions de « simple fiducie » que l’avocate de l’appelant a mentionnées, on a également déclaré que le simple fiduciaire détient des biens en fiducie au profit absolu des bénéficiaires qui peuvent en disposer sans condition (voir Halsbury’s Laws of England, 4e éd., volume 48, paragraphe 641, et The Queen v. Robinson et al., 98 DTC 6232 (C.A.F.)).
+[37] Le simple fiduciaire a également été comparé au mandataire. Il ne sera pas tenu compte de l’existence d’une simple fiducie à des fins fiscales dans les cas où le simple fiduciaire détient des biens en tant que simple mandataire ou pour la personne en ayant la propriété effective. Dans l’arrêt Trident Holdings Ltd. v. Danand Investments Ltd., 64 O.R. (2d) 65 (C.A. Ont.), le juge Morden, s’exprimant pour la Cour d’appel de l’Ontario, a établi une distinction entre la fiducie ordinaire et la simple fiducie. Il a reproduit les passages suivants tirés de Scott, The Law of Trusts, 4e éd. (1987) :
+[traduction]
+Le mandataire agit pour son mandant et en son nom, et il est assujetti à son contrôle; le fiduciaire en tant que tel n’est pas assujetti au contrôle de son bénéficiaire, quoi qu’il soit tenu d’agir à l’égard des biens en fiducie pour le bénéfice de ce dernier et en conformité avec les termes de la fiducie, et qu’il puisse être contraint par le bénéficiaire de s’acquitter de cette obligation. Le mandataire a une obligation d’obéissance envers son mandant; le fiduciaire est tenu de se conformer aux termes de la fiducie [vol. 1, p. 88].
+[…]
+Une personne peut être à la fois mandataire et fiduciaire d’une autre personne. Si elle entreprend d’agir pour le compte de l’autre personne et sous réserve de son contrôle, elle est un mandataire, mais si elle détient le titre des biens pour son mandant, elle est également un fiduciaire. Dans un tel cas, cependant, c’est la relation de mandataire qui prédomine, et les principes du mandat, et non ceux de la fiducie, s’appliquent [vol. 1, p. 95].
+[38] Le juge Morden a également cité avec approbation un article de M. C. Cullity, « Liability of Beneficiaries - A Rejoinder », (1985-86), 7 Estates & Trusts Quarterly 35, à la page 36 :
+[traduction]
+Il est manifeste que, dans nombre de situations, les fiduciaires sont également des mandataires. C’est ce qui se produit, par exemple, dans le cas bien connu des investissements que le courtier en valeurs mobilières détient en tant que fondé de pouvoir ou dans le cas du bien-fonds détenu par une société désignée. Dans de tels cas, la relation fiduciaire qui naît de la séparation de la propriété en common law et de la propriété en equity est souvent qualifiée de simple fiducie et, naturellement, à des fins fiscales et à certaines autres fins, il n’en est pas tenu compte.
+La simple fiducie se distingue des autres fiducies en ce que le fiduciaire n’a aucune discrétion ou responsabilité ni aucun pouvoir indépendants. Son unique responsabilité consiste à donner suite aux instructions de ses mandants, les bénéficiaires. S’il n’est pas tenu d’accepter les instructions, s’il détient des pouvoirs ou des responsabilités indépendants importants, il n’est pas un simple fiduciaire.
+[19] Voici ce que prévoit le paragraphe 104(1) de la Loi :
+104. (1) Dans la présente loi, la mention d’une fiducie ou d’une succession (appelées « fiducie » à la présente sous-section) vaut également mention, sauf indication contraire du contexte, du fiduciaire, de l’exécuteur testamentaire, de l’administrateur successoral, du liquidateur de succession, de l’héritier ou d’un autre représentant légal ayant la propriété ou le contrôle des biens de la fiducie. Toutefois, sauf pour l’application du présent paragraphe, du paragraphe (1.1), du sous-alinéa b)(v) de la définition de « disposition » au paragraphe 248(1) et de l’alinéa k) de cette définition, l’arrangement dans le cadre duquel il est raisonnable de considérer qu’une fiducie agit en qualité de mandataire de l’ensemble de ses bénéficiaires pour ce qui est des opérations portant sur ses biens est réputé ne pas être une fiducie, sauf si la fiducie est visée à l’un des alinéas a) à e.1) de la définition de « fiducie » au paragraphe 108(1).
+[Non souligné dans l’original.]
+[20] Selon moi, l’appelant ne détenait le bien de l’avenue Victoria qu’en qualité de mandataire de Leo Peragine. L’appelant ne possédait, sur le bien, aucun droit bénéficiaire, pas plus qu’il n’avait à l’égard du bien de l’avenue Victoria d’autorité, de responsabilité ou de pouvoir discrétionnaire indépendants. La fiducie ne serait, par conséquent, pas une fiducie selon les dispositions du paragraphe 104(1) de la Loi et serait bien ce que l’on a appelé une simple fiducie. Par conséquent, tout gain découlant de la vente du bien de l’avenue Victoria n’entrerait pas dans le calcul du revenu de l’appelant.
+[21] L’intimée n’est donc pas parvenue à établir que l’appelant avait fait une présentation erronée des faits justifiant la nouvelle cotisation qui a été établie et l’appel interjeté par l’appelant est, par conséquent, accueilli avec dépens, et la nouvelle cotisation établie pour l’année d’imposition 2003 de l’appelant est annulée.
+Signé à Ottawa, Canada, ce 4e jour d’octobre 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de janvier 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012CCI348
+No DU DOSSIER DE LA COUR : 2009-3604(IT)G
+INTITULÉ : SALVATORE PERAGINE et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 23 novembre 2011 et le 24 septembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 4 octobre 2012
+COMPARUTIONS :
+Avocat de l’appelant :
+Me David M. Piccolo
+Avocate de l’intimée :
+Me Erin Strashin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : David M. Piccolo
+Cabinet : David M. Piccolo
+Toronto, Ontario
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] De Mond v. The Queen, [1999] 4 C.T.C. 2007, 99 DTC 893.

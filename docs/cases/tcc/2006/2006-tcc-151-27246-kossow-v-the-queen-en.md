@@ -1,0 +1,174 @@
+---
+title: "Kossow v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27246/index.do"
+last_modified: "2006-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 151"
+citation2: ""
+neutral_citation: "2006 TCC 151"
+decision_date: "2006-03-14"
+language: "en"
+item_id: "27246"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 787
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:16:18.950000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "011d1ecb74127748ad91d9aee5d75354b1b6a92fdb6e5691928694dec397e158"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kossow v. The Queen
+
+- Citation: 2006 TCC 151
+- Decision date: 2006-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 787, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kossow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-14
+Neutral citation
+2006 TCC 151
+File numbers
+2005-1974(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1974(IT)G
+BETWEEN:
+KATHRYN KOSSOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 28, 2006 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+A. Christina Tari
+Counsel for the Respondent:
+Craig Maw
+____________________________________________________________________
+ORDER
+Upon motion made by counsel for the appellant for an Order under section 58 of the Tax Court of Canada Rules (General Procedure) for a determination, before hearing, of a question;
+And upon reading the Affidavit of Michelle Julfs, filed;
+And upon consideration of the oral and written submissions of counsel for the parties;
+The application is dismissed. Costs will be in the cause.
+Signed at Ottawa, Ontario, this 14th day of March, 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC151
+Date: 20060314
+Docket: 2005-1974(IT)G
+BETWEEN:
+KATHRYN KOSSOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowman, C.J.
+[1] In this motion the appellant seeks an order under section 58 of the Tax Court of Canada Rules (General Procedure) for a determination, before hearing, of a question.
+[2] The notice of motion does not set out precisely what the question is that the appellant wishes to have determined but it is reasonably clear from the argument that the question is whether the primary assessing position of the Minister of National Revenue in each of the years 2000, 2001 and 2002 was correct. That position is stated in the notice of motion as follows:
+"... that the appellant did not make a gift pursuant to subsection 18.1(1) of the Income Tax Act because the appellant received consideration or material benefits in each year in the forms of (i) a loan, and (ii) a tax receipt."
+Section 58 of the Rules reads:
+58. (1) A party may apply to the Court,
+(a) for the determination, before hearing, of a question of law, a question of fact or a question of mixed law and fact raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, or
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+and the Court may grant judgment accordingly.
+(2) No evidence is admissible on an application,
+(a) under paragraph (1)(a), except with leave of the court or on consent of the parties, or
+(b) under paragraph (1)(b).
+(3) The respondent may apply to the Court to have an appeal dismissed on the ground that,
+(a) the Court has no jurisdiction over the subject matter of an appeal,
+(b) a condition precedent to instituting a valid appeal has not been met,
+or
+(c) the appellant is without legal capacity to commence or continue the proceeding,
+and the Court may grant judgment accordingly.
+[3] Paragraph 58(1)(a) was recently amended to permit preliminary questions of fact or mixed fact and law to be determined as well as questions of law.
+[4] The matter is somewhat complicated by reason of the Minister adding alternative grounds which I shall set out below.
+[5] Initially the Minister assessed the three taxation years 2000, 2001 and 2002 by disallowing 80% of the claimed charitable donations on the basis that there was no gift.
+[6] On August 16, 2005, the Canada Customs and Revenue Agency ("CCRA") wrote to the appellant and set out a revision of their assessing position for the 2002 taxation year as follows:
+Further to our reassessment dealing with your donation claim relating to Ideas Canada Foundation for the 2002 taxation year, we have revised our reassessing positions as follows:
+Based on our review of the circumstances under which you claimed a donation credit, for a donation made to Ideas Canada Foundation ("Ideas") for the year 2002, we conclude that 100% of your donation claim should be disallowed, on the following basis:
+1. there was not a valid gift under section 118.1 of the Income Tax Act ("the Act"); or alternatively,
+2. the 25-year interest-free loan you received is a sham;
+or alternatively,
+3. the General Anti-Avoidance Rule ("GAAR") contained in subsection 245(2) of the Income Tax Act applies since there has been a misuse of section 118.1 of the Act and an abuse of the object and spirit of the Act read as a whole.
+Remaining 20% of Donation claim disallowed $10,000
+[7] Since apparently 2000 and 2001 were statute-barred, the Minister was unable to reassess those years using the new alternative bases. Nonetheless, in the reply to the notice of appeal the Crown asserts the new grounds as separate alternative arguments. The usual rule is that the onus is upon the taxpayer to demolish the basis upon which the assessment is made. If the Crown wishes to rely upon a new basis, the onus is upon the Crown to establish that new basis (M.N.R. v. Pillsbury Holdings Limited, 64 DTC 5184). Here we have this somewhat unusual situation of alternative assumptions underlying the 2002 reassessment but the same alternatives pleaded as separate grounds for 2000 and 2001. Counsel for the appellant contends that where alternative grounds for upholding the assessment advanced by the Minister, the Minister has the onus. I am inclined to agree with her insofar as 2000 and 2001 are concerned.
+[8] With respect, I do not agree with her proposition where the alternative assumptions form the very basis for the assessment, as is the case in 2002. There, I think the onus lies upon the taxpayer in the ordinary way.
+[9] There is of course the additional complication arising from the fact that although one of the grounds on which the Minister based the 2002 assessment was section 245 of the Income Tax Act, the respondent nonetheless raises the General Anti-Avoidance Rule ("GAAR") as a ground for upholding the assessments for 2000 and 2001.
+[10] Subsection 245(7) reads:
+(7) Exception - Notwithstanding any other provision of this Act, the tax consequences to any person, following the application of this section, shall only be determined through a notice of assessment, reassessment, additional assessment or determination pursuant to subsection 152(1.11) involving the application of this section.
+[11] The Federal Court of Appeal in S.T.B. Holdings Ltd. v. R., [2003] 1 C.T.C. 36, held that this provision did not prohibit the Minister from raising the GAAR at any level in support of the assessment.
+[12] The only thing I have to decide is whether the first ground of assessing (no gift/material benefit) constitutes a separate and discrete question that can be answered ahead of the trial.
+[13] I do not think the first basis of assessment should be severed from the rest of the case and dealt with separately. I say this for several reasons.
+(a) Whether the making of the donation entailed a corresponding benefit to the appellant involves a substantial factual issue that can best be dealt with by the trial judge in the context of the overall hearing.
+(b) It is inappropriate for me, as a motions judge, to set the matter down for determination before one judge and have that judge's determination tie the hands of the judge who hears the other issues (sham and GAAR). The factual and legal issues in the first question are inextricably bound up with those in the second and third bases. One judge should be free to deal with all issues at one sitting.
+(c) A decision on the question that the appellant wants to have heard as a preliminary matter under Rule 58 will not be determinative of the entire case. The other two grounds will require adjudication. Therefore, there will be no appreciable shortening of the trial.
+(d) The first ground (no gift/material benefit) is something up on which both parties should hold discoveries. To try to determine the question in the abstract without a factual underpinning is in my view premature.
+[14] A number of authorities were cited by both counsel. Some preceded the amendment to Rule 58. To some extent the court's discretion must in part be based on convenience, efficiency and fairness. The court has as much of an interest as the parties in having cases dealt with expeditiously. I do not, however, think that splitting the case into separate adjudications achieves that result.
+[15] The application is dismissed. Costs will be in the cause.
+Signed at Ottawa, Canada, this 14th day of March, 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC151
+COURT FILE NO.:
+2005-1974(IT)G
+STYLE OF CAUSE:
+Kathryn Kossow and
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario.
+DATE OF HEARING:
+February 28, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF ORDER AND REASONS FOR ORDER:
+March 14, 2006
+APPEARANCES:
+Counsel for the Appellant:
+A. Christina Tari
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Richler and Tari
+Firm:
+Tax Lawyers
+2225 Sheppard Ave. East
+Suite 1001, Atria III
+Toronto, Ontario M2J 5C2
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

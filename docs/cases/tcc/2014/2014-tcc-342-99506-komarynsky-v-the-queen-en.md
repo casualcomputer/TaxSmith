@@ -1,0 +1,148 @@
+---
+title: "Komarynsky v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99506/index.do"
+last_modified: "2014-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 342"
+citation2: ""
+neutral_citation: "2014 TCC 342"
+decision_date: "2014-11-18"
+language: "en"
+item_id: "99506"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5272
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:27:31.891000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed6951caa51c290f2361e50ebe1963edcd17e7d700a37618992eae396b8f6317"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Komarynsky v. The Queen
+
+- Citation: 2014 TCC 342
+- Decision date: 2014-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5272, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Komarynsky v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-18
+Neutral citation
+2014 TCC 342
+File numbers
+2013-3354(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3354(IT)I
+BETWEEN:
+OLEG KOMARYNSKY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on September 15, 2014, at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Selena Sit
+Christa Akey
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2007, 2008 and 2009 taxation years are dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 18th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 342
+Date: 20141118
+Docket: 2013-3354(IT)I
+BETWEEN:
+OLEG KOMARYNSKY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Appellant, Oleg Komarynsky, is appealing reassessments for his 2007, 2008 and 2009 taxation years by which the Minister of National Revenue (the “Minister”) disallowed the following claims:
+Taxation Year
+Net Income As Reported
+Charitable Donations Disallowed
+Disallowed Medical Expenses
+Public Transit Credit
+2007
+$38,980
+$7,850
+2008
+$41,863
+$9,200
+$462
+2009
+$33,129
+$2,000
+$1,188
+[2] The onus of disproving the Minister’s assumptions was on the Appellant, except in respect of the reassessment for the 2007 taxation year, which was made beyond the normal reassessment period.
+[3] The Appellant had his tax returns prepared for each of the years under review by Fareed Raza who, together with Saheem Raza (the “Raza Brothers”), offered tax and accounting services under the trade names Fareed Raza & Co. Inc. and F & A Accounting Corporation.
+[4] The Canada Revenue Agency began investigating the Raza Brothers’ activities in 2008. The investigation revealed that the Raza Brothers had falsified many of their clients’ tax returns by claiming tax credits and deductions for expenses or gifts that were allegedly incurred or made by their clients. The evidence shows, inter alia, that the Raza Brothers falsified receipts for charitable donations and for caregiver services. They charged their clients a fee based on approximately 10% of the face value of the receipt. The Raza Brothers were charged with making false statements in their client’s income tax returns.
+[5] The Minister disallowed substantially all of the charitable donations claimed by the Appellant because he only submitted receipts for charitable donations of $150 and $50 for the 2007 and 2008 taxation years. No receipts were submitted for the alleged charitable donations that were disallowed. On direct examination, the Appellant admitted that his accountant claimed tax credits for charitable donations that he did not make. He claimed that he was unaware of this misdeed because he did not review his returns before filing them. He provided no evidence other than the receipts for the small donations allowed by the Minister. Given the Appellant’s admission and the evidence tendered regarding the false donation scheme masterminded by the Raza Brothers, I am satisfied that the Appellant did not make the charitable donations that were denied by the Minister.
+[6] With respect to the 2007 taxation year, it is insufficient for the Appellant to deny responsibility on the grounds that he did not read his tax return. A misrepresentation was made in that return and the Appellant was negligent or wilfully blind in failing to review his return. Therefore, the Minister was justified in reassessing the Appellant after the normal reassessment period. With respect to the other taxation years under review, the Appellant did not satisfy his burden of establishing that he actually made the donations that were disallowed.
+[7] The claim for the public transit credit was disallowed by the Minister because the Appellant could not establish that he actually purchased monthly transit passes. The Appellant testified that he often used public transportation to meet with prospective employers in the construction field. However, he also admitted that he drove his vehicle to work sites because he could not use public transportation to transport his work tools to these sites. I infer that he spent more time in a month working on work sites than meeting with prospective employers, for which he says he used public transportation. While the evidence shows that the Appellant did use public transportation from time to time, he has failed to establish that he purchased monthly transit passes.
+[8] The evidence shows that the Minister properly disallowed medical expenses of $462 because the Appellant did not provide receipts in support of that amount.
+[9] For all these reasons, the reassessments for the 2007, 2008 and 2009 taxation years are confirmed and the Appellant’s appeals are dismissed.
+Signed at Ottawa, Canada, this 18th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2014 TCC 342
+COURT FILE NO.:
+2013-3354(IT)I
+STYLE OF CAUSE:
+OLEG KOMARYNSKY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 15, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+November 18, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Selena Sit
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

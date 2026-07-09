@@ -1,0 +1,154 @@
+---
+title: "Jastrzebski v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28980/index.do"
+last_modified: "2008-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 643"
+citation2: ""
+neutral_citation: "2008 TCC 643"
+decision_date: "2008-11-25"
+language: "en"
+item_id: "28980"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6790
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:36:25.733000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6daed9f4dd84647c4d4e7f9b0adb6d891d5b2f3aa95cbe49e93dd31f35439861"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jastrzebski v. The Queen
+
+- Citation: 2008 TCC 643
+- Decision date: 2008-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6790, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jastrzebski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-25
+Neutral citation
+2008 TCC 643
+File numbers
+2008-258(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-258(IT)I
+BETWEEN:
+ANDRZEJ JASTRZEBSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on June 26, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent :
+Martin Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments dated January 22, 2007, and made under the Income Tax Act for the 2003 and 2004 taxation years, are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of November 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 30th day of December 2008.
+Brian McCordick, Translator
+Citation: 2008 TCC 643
+Date: 20081125
+Docket: 2008-258(IT)I
+BETWEEN:
+ANDRZEJ JASTRZEBSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These are appeals from reassessments dated January 22, 2007, and made under the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1, as amended ("the Act"), in respect of the 2003 and 2004 taxation years. By these reassessments, the Minister of National Revenue ("the Minister") revised the Appellant's net rental loss for the 2003 taxation year to $1,297, and revised the Appellant's net rental income for the 2004 taxation year to $3,020.
+[2] The Appellant served a notice of objection on the Minister with respect to the 2002, 2003 and 2004 taxation years. The Minister submits that since the notice of objection in respect of the 2002 taxation year was dated February 20, 2007, it is invalid because it was not served within the time allotted by the Act. The notice of assessment in respect of the 2002 taxation year was dated June 2, 2003. Since no notice of objection was served on the Minister in respect of the 2002 taxation year, the instant Notice of Appeal in respect of the 2002 taxation year cannot be entertained.
+[3] On May 15, 2007, the Minister confirmed the reassessments dated January 22, 2007, in respect of the 2003 and 2004 taxation years, based on the following facts, set out in paragraph 7 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) During the taxation years in issue, the Appellant owned a rental property. (admitted)
+(b) The rental property in question is a building consisting of three units, a workshop and garages located at civic addresses 95-101 Troy Street in Montréal. (admitted subject to the clarification that it was a triplex with four garages and one workshop above the garages)
+(c) Further to an audit by the Ministère du Revenu du Québec (MRQ), the Minister adopted the revised net rental income or losses in respect of the Troy Street building in Montréal for the 2003 and 2004 taxation years, as though he had arrived at those amounts himself. (admitted)
+(d) In computing the Appellant's income for the 2003 and 2004 taxation years, the Minister disallowed rental expenses of $4,787 and $35,218, respectively, in connection with the building on Troy Street in Montréal. (admitted)
+(e) The Troy Street building in Montréal generated $12,770 in gross rental income for the 2003 taxation year and $15,790 in gross rental income for the 2004 taxation year. (admitted except for the amount of gross rental income for 2004, which must be $13,190, as reported)
+(f) In particular, for the 2004 taxation year, the Appellant claimed a $25,000 rental expense on account of wages supposedly paid to his wife Aleksandra and his son Dobromir for assistance with the maintenance of the building (admitted, but it is added that renovations were also done with the assistance of the Appellant's wife and son)
+(g) The Minister determined that the expense in respect of wages supposedly paid to his wife Aleksandra and his son Dobromir for building maintenance assistance for the 2004 taxation year was not incurred. (denied)
+(h) The other rental expenses that were disallowed for the 2003 and 2004 taxation years consisted of personal expenses, unreasonable expenses, and expenses that were not incurred. (denied)
+[4] The issues disputed at the hearing pertained to the amount of gross rental income for the year 2004 ($15,790 versus $13,190) and the deductibility of the $25,000 that the Appellant paid his wife ($15,000) and his son ($10,000) for help that they provided with the maintenance and renovations done in the course of the years 1999 to 2004. The other contested expense deductions were settled between the parties and were either disallowed in full (e.g., clothing and restaurant meals) or in part (e.g., cellular phone and automobile expenses). With regard to the automobile expenses, other adjustments have to be made in order to take into account the wear and tear on the vehicle.
+[5] The gross rental income for the 2004 taxation year was determined to be $15,790 based on statistical data used by the Ministère du Revenu du Québec (MRQ), which audited the Appellant's income tax returns.
+[6] The MRQ auditor testified at the hearing, and provided information about his conduct of the audit, his meetings with the Appellant, and his requests to the Appellant for particulars. He pointed out that he had noticed that the gross rental incomes reported by the Appellant were lower than the neighbourhood average. Based on cross-checks, he determined that the Troy Street building had four electric meters and four civic addresses but that the Appellant only reported income from three units.
+[7] In the notarial deed of sale for the Troy Street building, dated December 21, 2004, the seller declared that the building generated roughly $2,270 in gross rental income per month, or $27,240 per year.
+[8] The auditor explained that he modified the gross rental income for the year 2004 based on leases in effect during that year.
+[9] The Appellant tried to justify the fact that the gross rental income was below the neighbourhood average by citing the role of the Régie du logement du Québec, which controls rent increases.
+[10] Following the sale of the Troy Street building on December 21, 2004, the Appellant paid $15,000 to his wife and $10,000 to his son for their help with the maintenance and renovations in the Appellant's buildings from 1999 to 2004. The amounts received by the Appellant's spouse and son were reported as income in their respective 2004 income tax returns.
+[11] The Appellant testified that he did numerous renovations between 1999 and 2004 (bathroom, painting and tiling) and that he only ever resorted to the services of one specialist, a plumber. In addition, he said that he purchased roughly $20,000 worth of materials during that period.
+[12] The Respondent's position is that this $25,000 payment is not deductible, notably for the following reasons:
+(a) there is no proof of payment, and a single bank account was used for the family;
+(b) there are no supporting documents, such as journals recording the hours worked, or a precise description of the work done;
+(c) the payees are related persons who were not at arm's length from the Appellant;
+(d) the amount paid is not reasonable having regard to the annual gross rental income;
+(e) the amount paid should have been deducted each year that the services were rendered to the Appellant (accrual accounting method); and
+(f) the payment constitutes income-splitting.
+[13] As Tardif J. of this Court held in Mailhot v. The Queen, 2005 DTC 318, at paragraph 12:
+To be able to adequately justify income and expenses, it is necessary to keep appropriate supporting documents to allow for proper analysis to ensure that the relevant legal provisions are met.
+[14] In the case at bar, the Appellant has not submitted the supporting documents needed to justify the deductibility of the payment of the sum of $25,000 to his wife and his son.
+[15] I do not doubt the possibility that renovations were done to the Appellant's buildings in the course of the years 1999 through 2004 and that the vast majority of the work was done by the Appellant himself and by his family members. However, by reason of the lack of information and documents based on which the payment of $25,000 in the course of the 2004 taxation year could be justified, the Appellant was unable to meet the onus of proof that he needed to meet in order to invalidate the assessments that were made.
+[16] It has been amply shown, on a balance of probabilities, that the assessments were correctly made on the basis of the available information and documents. The gross rental income for the 2004 taxation year, in the amount of $15,790, was shown. As for the payment of $25,000, it should be noted that the Appellant had no legal obligation to pay that amount to his wife and son, and that there was no basis on which to find that the payment was made and that it was justified. In fact, the Appellant's wife and son did not testify at the hearing.
+[17] For all these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 25th day of November 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 30th day of December 2008.
+Brian McCordick, Translator
+CITATION: 2008 TCC 643
+COURT FILE NO.: 2008-258(IT)I
+STYLE OF CAUSE: Andrzej Jastrzebski and The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 26, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: November 25, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

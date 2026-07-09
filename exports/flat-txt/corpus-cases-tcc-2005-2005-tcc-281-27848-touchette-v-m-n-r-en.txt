@@ -1,0 +1,310 @@
+Title: Touchette v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27848/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-281-27848-touchette-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-05-18
+
+# Touchette v. M.N.R.
+
+- Citation: 2005 TCC 281
+- Decision date: 2005-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 354, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Touchette v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-18
+Neutral citation
+2005 TCC 281
+File numbers
+2004-3029(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-3029(EI)
+BETWEEN:
+GILBERT TOUCHETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Yvon Charbonneau (2004-3275(EI)), Guy Ruel (2004-3726(EI)), Canada Wide Locomotive Industries Ltd. (2004-3926(EI)) on March 11, 2005 at Montréal, Quebec.
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant
+The Appellant himself
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 18th day of May 2005.
+"S.J. Savoie"
+Savoie, D.J.
+Docket: 2004-3275(EI)
+BETWEEN:
+YVON CHARBONNEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Gilbert Touchette (2004-3029(EI)), Guy Ruel (2004-3726(EI)), Canada Wide Locomotive Industries Ltd. (2004-3926(EI)) on March 11, 2005 at Montréal, Quebec.
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant
+The Appellant himself
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 18th day of May 2005.
+"S.J. Savoie"
+Savoie, D.J.
+Docket: 2004-3726(EI)
+BETWEEN:
+GUY RUEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Gilbert Touchette (2004-3029(EI)), Yvon Charbonneau (2004-3275(EI)), Canada Wide Locomotive Industries Ltd. (2004-3926(EI)) on March 11, 2005 at Montréal, Quebec.
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant
+The Appellant himself
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 18th day of May 2005.
+"S.J. Savoie"
+Savoie, D.J.
+Docket: 2004-3926(EI)
+BETWEEN:
+CANADA WIDE LOCOMOTIVE INDUSTRIES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CAROL VINCENT HAREWOOD,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Gilbert Touchette (2004-3029(EI)), Yvon Charbonneau (2004-3275(EI)), Guy Ruel (2004‑3726(EI)), Canada Wide Locomotive Industries Ltd. (2004‑3926(EI)) on March 11, 2005 at Montréal, Quebec.
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Counsel for the Appellant
+H. Laddie Schnaiberg
+Counsel for the Respondent:
+Julie David
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 18th day of May 2005.
+"S.J. Savoie"
+Savoie, D.J.
+Citation: 2005TCC281
+Date: 20050518
+Docket: 2004-3029(EI)
+BETWEEN:
+GILBERT TOUCHETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+2004-3275(EI)
+YVON CHARBONNEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+2004-3726(EI)
+GUY RUEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+2004-3926(EI)
+CANADA WIDE LOCOMOTIVE INDUSTRIES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CAROL VINCENT HAREWOOD,
+Intervenor.
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] The appeals were heard in Montreal, Quebec, on March 11, 2005.
+[2] The Appellants are appealing a decision of the Minister of National Revenue (the "Minister") wherein he informed them by letters dated July 6, 2004 that Guy Boudreau, Yvon Charbonneau, Pierre Descent, Catherine Manconi, Gilles Paquette, John Redhead, Guy Ruel, Gilbert Touchette and Carol Vincent, the workers, held insurable employment while providing services to Canada Wide Locomotive Industries Ltd., the Appellant, from January 1, 2003 to February 20, 2004, the period under review.
+[3] In reaching his decision, the Respondent, the Minister, relied on the following assumptions of fact. At the hearing, on motion by the Respondent, granted by this Court, the Respondent filed with the Court an amended Reply to the Notice of Appeal. The position taken by the Respondent and his assumptions of fact will be read from this amended document.
+a) the Appellant incorporated on February 21, 2001, provided repairs and maintenance services for railroads and other business associated with the railroad industry; (admitted)
+b) Mr. Manconi was the sole shareholder of the Appellant; (admitted)
+c) the Appellant operated its business all year long; (denied)
+d) the Appellant had a repair shop at 155, Montreal-Toronto St. in Lachine; (admitted)
+e) the Appellant receives its contracts from railway companies such as C.P. Rail, Ottawa Central, New Brunswick East Coast, St-Laurent Atlantic; (admitted)
+Guy Boudreau, Yvon Charbonneau, Pierre Descent, Gilles Paquette, John Redhead, Guy Ruel, Gilbert touchette and Carol Vincent
+f) the Appellant hires, on an on-call basis, workers such as mechanics or electricians to work on the locomotives; (denied)
+g) the Workers hired by the Appellant are retired employees who have already worked in this domain; (denied)
+h) the Workers were called (2 or 3 days in advance) by the Appellant to repair locomotives in the payer's shop and occasionally in Ottawa; (denied)
+i) the Workers had to respect a variable timetable agreeing with the payer's needs; (denied)
+j) they had to do the work at the Appellant's shop or at the Appellant's client and according to the Appellant's specifications: (denied)
+k) when they went to Ottawa, the Workers traveled with other employees of the Appellant; (denied)
+l) when they had to go to Ottawa, the Appellant paid for the motel and displacement expenses of the Workers; (denied)
+m) the Workers were paid on an hourly basis; they were paid from the time they left home until the time they returned home; (denied)
+n) the Workers were remunerated by cheque on presentation of an invoice to the Appellant; (admitted)
+o) the Workers did not incur any risk of loss because they were remunerated for hours worked and did not incur any expenses in the carrying out of their work; (denied)
+p) tasks of the Workers were integrated into the payer's activities; (denied)
+Catherine Manconi
+q) Catherine Manconi is the sister of Mike Manconi; (admitted)
+r) the Worker was hired as a secretary; (denied)
+s) the Worker began working for the Appellant in 2001; (admitted)
+t) the Worker's duties consisted of answering the phone, billing, bookkeeping, accounting; (denied)
+u) the Worker performed the vast majority of her tasks at the Appellant's premises, and occasionally at home; (denied)
+v) the Worker worked an average of 30 to 32 hours weekly; (denied)
+w) the Worker had a flexible timetable for completing her tasks; (admitted)
+x) the Worker was paid on a hourly basis by cheque on presentation of an invoice to the Appellant; (denied)
+y) the Worker was paid $15 per hour; (denied)
+z) the Worker did not incur any risk of loss because she was remunerated for hours worked and did not incur any expense in the carrying out of her work; (denied)
+aa) her tasks were integrated into the payor's activities. (denied)
+[4] The evidence disclosed the following. Canada Wide Locomotive Industries Ltd., the Appellant, was incorporated in 2001. This company operates a repair and maintenance business for locomotives on a year-long basis. Michael Manconi is its sole shareholder. He specialized in the kind of business with his father.
+[5] This is specialty work which requires skilled labour in different trades associated with maintenance and repair of locomotives. Since the Appellant does not have that kind of expertise on staff, it went outside to find the skilled persons required to provide the repair and maintenance work requested by its clients, railroad companies such as C.P. Rail, Ottawa Central, New Brunswick East Coast, St-Laurent Atlantic, to name a few.
+[6] The Appellant's main operations are conducted at Lachine, Quebec, where 60% to 65% of the work is carried out. The rest took place on site at either Ottawa or Hawkesbury, Quebec or certain locations in New Brunswick.
+[7] When the Appellant received an order, it hired, on an on-call basis, such skilled tradesmen as electricians, mechanics, brakemen (air brakes), pipe fitters, etc. The Appellant, once it had established the nature of the repair required, would call upon the worker whose specialty was involved to do the necessary work.
+[8] This worker, when called upon to affect the necessary repairs, was free to accept or reject the offer, without any consequences whatsoever. Once he accepted, he would be called upon to sign a Consultant Agreement. This document was produced at the hearing (Exhibit A-1).
+[9] It is significant to note that the Appellant could not accept the client's work order prior to securing the worker's signature on the Consultant Agreement. This skilled workforce is made up of retired C.N. or C.P. employees.
+[10] It must be noted also that the Consultant Agreement did not link the workers to the Appellant exclusively. They were free to offer their services elsewhere.
+[11] On occasion, the work required that the workers travel to different work sites. They had the freedom to choose their method of transportation and if the nature of the work called upon a number of skilled tradesmen, they sometimes traveled together. Their traveling expenses were covered by the Appellant's clients. The workers were called by the Appellant two or three days in advance.
+[12] The evidence disclosed that the workers themselves determined their hourly rate of pay. These varied from one trade to the other. They also determined their availability for the job. These workers had their own tools which they used in the exercise of their trade, some of these were of particular use to their own trade. Gilbert Touchette spent $3,000 for his tools, while Guy Ruel's tools cost him $1,500.
+[13] Certain repair work required the skill of different tradesmen. These people would often work together on the same project in their specialty area, cooperating with one another while no one in particular was the supervisor. The fact that worker Charbonneau might have been the Appellant's supervisor on various jobs was very strongly denied by Mr. Charbonneau and all the other workers who testified. In that regard, I have found their testimony credible.
+[14] Hotel expenses of the workers were usually paid by the Appellant's clients, but with respect to meals, there was not set pattern. Arrangements were made between the Appellant and the worker in each instance. The worker sent invoices to the Appellant after the completion of the work, but if the repairs were done over an extended period, they could send progress billings. When asked to do certain work out of town, the workers determined their availability and were not subject to any work schedule, but could perform their services at the time of their choosing so long as they performed this work within the working hours of the client or the Appellant at its shop in Lachine. Michael Manconi also denied that the worker Charbonneau did any supervision of the other workers.
+[15] The Appellant also established that the workers were responsible for the specialty work they performed and that any defect which occurred was not the Appellant's responsibility or liability. In other words, the Appellant and the workers both established that the workers were fully liable for the work they did.
+[16] Furthermore, the workers were not subjected to any schedule in regards to their work or their hours of work.
+[17] The evidence disclosed that the workers would deduct their work related expenses in the income tax returns.
+[18] Catherine Manconi worked approximately four days per week. She answered the Appellant's telephone. She also collected from the various workers the list of materials they required for specific jobs to be done for the Appellant's clients. This was then turned over to the Appellant. Additionally, she did some billing and bookkeeping. The Appellant had its own accountant.
+[19] She had no work schedule. She, like the other workers, was on call. She could be off work for two weeks at a time. She averaged 35 hours of work per week. She was paid $15.00 per hour which she requested and sent invoices for her work to the Appellant.
+[20] The Minister takes the view that the workers were subjected to a work schedule under the supervision of Yvon Charbonneau. Jacques Rousseau, the appeals' officer, testified for the Minister.
+[21] Mr. Rousseau compared the workers, who were on call, to the situation of certain casual workers of businesses such as MacDonald's, Burger King or hospitals, also on call, who are considered regular employees nevertheless by the Employment Insurance Act. He also stated that in conversations with witnesses and others, he had found out that the workers in these appeals were supervised.
+[22] Under cross-examination, however, it became clear that Mr. Rousseau was unfamiliar with the work contracts for hospital workers and had to admit that he never visited the worksite of the Appellant, could not describe the work methods of the Appellant and was not able to compare the broken shifts at Macdonald's or Burger King and the Appellant.
+[23] For the purpose of this exercise, it will be useful to have in mind the terms of the said Consultant Agreement (Exhibit A-1). The Agreement provides as follows:
+CONSULTANT AGREEMENT
+This consulting agreement (agreement) is entered into effect as of Sept. 24/2001, by and among CANADA WIDE LOCOMOTIVE INDUSTRIES LTD., a Quebec corporation (hereinafter referred to as; "the company") and Catherine Manconi and [sic] individual, residing at 136 Primeau, Chat, PQ. Quebec, Canada (hereinafter referred to as; "the consultant").
+Whereas, the company is in the business (among other business) of providing services in all areas related to related to railway operations for railroads and other business associated to the railroad industry, and
+Whereas, the company feels it is desirable for the company to use the expertise of the consultant in operating the business, and
+Whereas, it is the desire of the company to engage the consultant to perform consulting services as an independent contractor and not as an employee. Therefore, the company is in no such matter liable for any injuries or other wise damages that may occur to the consultant or his personnel belongings, during the period covered by this agreement, and
+Whereas, the consultant agrees to perform such services for the company at the price agreed upon by the parties prior to each assignment, and
+Whereas, the parties recognize that the consultant has a great deal of experience, knowledge, know-how and business relationships relating to the operation of the business.
+Now therefore, for and in consideration of the mutual promise, covenants and agreements herein set forth and other good valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+I. CONSULTING SERVICES:
+The consultant will be called upon by the company to render advice and assistance to the company regarding the business or any other business of the company, at the consultant's residence or such other location designated by the consultant. The consultant shall be empowered to do all things necessary to carry out the above duties, but shall at no time and under any circumstances have the power to bind the company to any agreements entered into by the consultant. The consultant shall perform its duties hereunder as an independent contractor, and not as an employee of the company.
+Subject to the limitations set forth in this agreement, the consultant agrees to fulfill his commitment agreed to for each assignment.
+II. EXPENSES:
+When authorized by the company, prior to any assignment, all travel, lodging and meal expenses incurred by the consultant in connection with services performed under this agreement, shall be paid by the company and any such expenses shall be in addition to and shall not be deemed to be payments of, the consulting fees (as hereinafter defined) payable to the consultant as described in section IV of this agreement.
+III. TERM:
+The term of this agreement shall be for a period of until further advised month(s), commencing Sept. 24, 2001. However, the parties may terminate this agreement by providing the other party a 15 day written notice of its intention to terminate this agreement. Therefore, at the end of this 15 day period, both parties shall be exempted from all obligations of this agreement.
+IV. COMPENSATIONS:
+As compensation for the services rendered hereunder by the consultant, the company shall pay the consultant a fee agreed upon prior to each assignment. The consultant shall submit to the company a written report documenting the hours worked and the work performed for each week. The company will pay the consultant immediately following receipt of payment from the consignor business or company.
+V. OTHER BUSINESS OR ACTIVITIES OF THE CONSULTANT:
+It is acknowledged by the parties hereto that the consultant may perform consulting work for other companies. Nevertheless, except to the extent providing of services would interfere with the instructions given by the company. The consultant has the right to refuse any assignment. However, once the consultant agrees to perform an assignment, the consultant will be obliged to fulfill his commitment.
+VI. EQUIPMENT:
+The company will pay any costs the consultant encounters while providing services instructed by the company.
+VII. TRADE SECRETS:
+The consultant shall not divulge, publish, disclose, or otherwise reveal any of the trade secrets, either directly or indirectly to any person, firm, corporation or any third party, nor use them in any way, either during the term of this agreement or at any time thereafter, except as required in the performance of services hereunder.
+All files, records, documents, specifications, memoranda, notes and similar items relating to the business of the company shall remain the exclusive property of the company.
+In witness whereof, both parties hereto have solemnly agreed and executed this agreement as of the day, month and year first above written.
+CANADA WIDE LOCOMOTIVE INDUSTRIES LTD.
+By: __________________________________________
+Mike Manconi
+President, Canada Wide Locomotive Industries Ltd.
+Signature: _____________________________________
+Print: _________________________________________
+Consultant.
+[24] The Minister, relies on subsection 93(3) and on paragraphs 5(1)(a), 5(2)(i), 5(3)(b) of the Employment Insurance Act (the "Act") as applicable to the period in question.
+[25] The Minister has concluded that Guy Boudreau, Yvon Charbonneau, Pierre Descent, Gilles Paquette, John Redhead, Guy Ruel, Gilbert Touchette and Carol Vincent were engaged in insurable employment with the Appellant for the period under review as they were engaged under a contract of service within the meaning of paragraph 5(1)(a) of the Act during the period under review.
+[26] Furthermore, the Minister has concluded that Catherine Manconi's employment was not excluded from insurable employment because the terms and conditions of her employment would have been substantially similar if she and the Appellant had been dealing with each other at arm's length. The Minister concluded that Catherine Manconi was engaged in insurable employment with the Appellant for the period under review as she was engaged under a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+[27] Paragraph 5(1)(a) of the Act reads as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[28] The case of Wiebe Door Services Ltd. v. Canada (Minister of National Revenue – M.N.R.) 87 DTC 5025 has established a series of criteria for the determination of whether a contract is one for services or one to be executed by an independent contractor. The criteria are as follows:
+a) The degree or absence of control exercised by the so-called employer;
+b) The ownership of the tools;
+c) The chances for profit or risks of loss;
+d) The integration of the work performed by the so-called employees within the enterprise of the employer.
+Let us analyze the evidence under the four criteria listed above.
+I. CONTROL
+[29] The factual situation disclosed by the evidence has revealed that the workers were called by the Appellant and offered to affect certain repairs to locomotives as required by the Appellant's clients. They were called to find out whether or not they accepted to do the repairs required. The workers were at liberty to accept or to refuse to perform the required repair work. Their refusal of the offer did not carry any consequences. If they accepted, they signed the Consultant Agreement. The workers determined their own hourly rate for their services. The workers also determined when they would attend to perform the services in question, depending on the urgency of the matter.
+[30] The Honourable Judge MacGuigan at page 5027 of the Wiebe Door decision, supra, reviewing the English and Canadian jurisprudence on the control test, stated as follows:
+The traditional common-law criterion of the employment relationship has been the control test, as set down by Baron Bramwell in R. v. Walker (1858), 27 L.J.M.C. 2207, 208:
+It seems to me that the difference between the relations of master and servant and of principal and agent is this: A principal has the right to direct what the agent has to do; but a master has not only that right, but also the right to say how it is to be done.
+That this test is still fundamental is indicated by the adoption by the Supreme Court of Canada in Hôpital Notre-Dame de l'Espérance and Theoret v. Laurent et al., [1978] 1 S.C.R. 605, 613, of the following statement: "the essential criterion of employer-employee relations is the right to give orders and instructions to the employee regarding the manner in which to carry out his work.
+[31] It would appear that the working relationship between the workers and the Appellant, examined under this criteria, as established by the evidence, supports the notion that the workers were performing their services as independent contractors.
+II. OWNERSHIP OF THE TOOLS
+[32] The evidence disclosed that each worker carried his own toolbox. They had their own tools which they used in the exercise of their trade. Some of these were of particular use to their own trade. Gilbert Touchette for instance stated that he paid $3,000.00 for his tools. Guy Ruel stated that his cost him $1,500.00. The evidence is clear that the workers would use their own tools with the exception of large tools, such as cranes, provided by the Appellant's client on each worksite.
+[33] Examined under this criteria, the facts also support the notion that the workers were carrying out their own private enterprise and offering their services as such to the Appellant.
+III. CHANCE OF PROFIT AND RISK OF LOSS
+1. The Appellant was in a highly specialized type of business;
+2. The very nature of the work to be executed required that the worker travel to the site of the locomotive in question, the site of the Appellant's client;
+3. The repairman in this highly specialized type of work is responsible for his workmanship and if the quality of his work is defective, he has to correct the mistakes made at his own cost;
+4. As compared to other industries, railroad companies are very rare;
+5. Therefore, this repair work, by its very nature, carries tremendous risk of loss should the working hours and disbursements not be paid. The worker is carrying on his own business of which he is the sole worker;
+6. The chance of profit depends on the volume of work received during a specified period.
+IV. INTEGRATION:
+[34] It has often been stated by our courts that the criteria of integration can best be assessed to a particular situation by answering this question: "Whose business is it anyway?" In the context of the workers in this case working under a contract with the Appellant, one can only answer that they were working under a contract of enterprise. The workers in this case have entered into a Consultant Agreement with the Appellant, the terms of which are described in Exhibit A-1. The Federal Court of Appeal in Livreur Plus Inc. v. Canada (Minister of National Revenue – M.N.R.), [2004] F.C.A. 68, had this to say with respect to the intention of the parties as an element to consider in the determination of a particular type of work being performed. Mr. Justice Létourneau wrote the following:
+[TRANSLATION]
+What the parties stipulate as to the nature of their contractual relations is not necessarily conclusive, and the Court may arrive at a different conclusion based on the evidence before it: D&J Driveway Inc. v. The Minister of National Revenue, 2003 FCA 453. However, if there is no unambiguous evidence to the contrary, the Court should duly take the parties' stated intention into account: Mayne Nickless Transport Inc. v. The Minister of National Revenue, 97-1416-UI, February 26, 1999 (T.C.C.). Essentially, the question is as to the true nature of the relations between the parties. Thus, their sincerely expressed intention is still an important point to consider in determining the actual overall relationship the parties have had between themselves in a constantly changing working world: see Wolf v. Canada, [2002] 4 F.C. 396 (F.C.A.); Attorney General of Canada v. Les Productions Bibi et Zoé Inc., 2004 FCA 54.
+[35] The Appellants have asked this Court to overturn the decision made by the Minister in this case.
+[36] In my view, the Appellants have succeeded in their efforts to prove that the Minister's decision was ill-founded.
+[37] The working conditions were examined under the appropriate legislative provisions and applicable case law. The facts analyzed by this Court support the view that the workers were not working under a contract of service but as independent contractors.
+[38] This Court therefore concludes that Guy Boudreau, Yvon Charbonneau, Pierre Descent, Gilles Paquette, John Redhead, Guy Ruel, Gilbert Touchette and Carol Vincent, were not engaged in insurable employment with the Appellant for the period under review since they were not engaged under a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+[39] This Court concludes, further, that Catherine Manconi's employment was not excluded under section 5(2)(i) of the Act. However, she was not engaged in insurable employment with the Appellant, for the period under review, since she was not engaged under a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+[40] Consequently, the appeals are allowed and the Minister's decision is vacated.
+Signed at Grand-Barachois, New Brunswick, this 18th day of May 2005.
+"S.J. Savoie"
+Savoie, D.J.
+CITATION: 2005TCC281
+COURT FILE NO.: 2004-3029(EI), 2004-3275(EI), 2004‑3726(EI) and 2004‑3926(EI)
+STYLE OF CAUSE: GILBERT TOUCHETTE AND M.N.R.
+YVON CHARBONNEAU AND M.N.R.
+GUY RUEL AND M.N.R.
+CANADA WIDE LOCOMOTIVE INDUSTRIES LTD. AND M.N.R. AND CAROL VINCENT HAREWOOD
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 11, 2005
+REASONS FOR JUDGEMENT BY: The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT: May 18, 2005
+APPEARANCES:
+For the Appellants Gilbert Touchette, Yvon Charbonneau and Guy Ruel:
+The Appellants themselves
+Counsel for the Appellant Canada Wide Locomotive Industries Ltd.:
+H. Laddie Schnaiberg, Q.C.
+Counsel for the Respondent:
+Julie David
+For the Intervenor:
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant Canada Wide Locomotive Industries Ltd.:
+Name: H. Laddie Schnaiberg, Q.C.
+Firm: H. Laddie Schnaiberg, Q.C.
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+For the Intervenor:

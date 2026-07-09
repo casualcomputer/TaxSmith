@@ -1,0 +1,122 @@
+Title: Hassan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71778/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-144-71778-hassan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-05-13
+
+# Hassan v. The Queen
+
+- Citation: 2014 TCC 144
+- Decision date: 2014-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5374, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hassan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-13
+Neutral citation
+2014 TCC 144
+File numbers
+2013-4565(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-4565(IT)I
+BETWEEN:
+NARUL HASSAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 9, 2014 at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Leslie Ross
+JUDGMENT
+In accordance with the reasons delivered orally at the hearing (a copy of which is attached hereto), the appeal from the reassessment made under the Income Tax Act for the 2009 taxation year is dismissed on the basis that the Appellant is not entitled to tax credits in respect of a charitable donation in the amount of $25,000 purportedly made during the 2009 taxation year.
+IT IS FURTHER ORDERED that the Appellant shall pay costs to the Respondent in the amount of $300.
+Signed at Ottawa, Canada this 13th day of May 2014.
+“Patrick Boyle”
+Boyle J.
+Docket: 2013-4565(IT)I
+BETWEEN:
+NARUL HASSAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+Let the attached edited transcript of the Reasons for Judgment delivered orally from the Bench at Toronto, Ontario on April 9, 2014 be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Ottawa, Canada this 13th day of May 2014.
+“Patrick Boyle”
+Boyle J.
+Citation: 2014 TCC 144
+Date: 20140513
+Docket: 2013-4565(IT)I
+BETWEEN:
+NARUL HASSAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Appeal heard and decision rendered orally from the Bench
+on April 9, 2014 at Toronto, Ontario.)
+Boyle J.
+[1] I am going to deliver my decision in this morning's informal appeal by Mr. Hassan in Toronto, involving his claim in 2009 for a charitable tax credit relating to a contribution he reported to have made to Operation Save Canada's Teenagers, and for which he had a 2009 receipt.
+[2] Of the $25,000 receipted, all but $300 was, according to Mr. Hassan, not paid in 2009, but paid in 2010.
+[3] The charity's paperwork provided to Mr. Hassan through the course of this is lacking and sloppy, and, indeed, was changed at least once when CRA pointed out a problem with aligning the information set out in the charity's documents.
+[4] Mr. Hassan said he made a pledge at the end of 2009 to make $25,000 of donations within the year, ending late 2010. He said he made all of these payments in cash, and that, indeed, he had been told no cheques would be accepted by the charity. The amounts and dates of Mr. Hassan's supporting bank statements and schedule do not line up in any consistent fashion with the alleged cash donations.
+[5] Mr. Hassan volunteered that he perhaps went down the wrong path because of his tax return preparer's advice. Neither Mr. Hassan, nor I, can make sense of giving $25,000 away to charity to help save or reduce taxes or help pay down taxes.
+[6] Mr. Hassan had never made a large donation before. He said he had since only made one other, which is also being challenged on appeal with the tax authorities. Mr. Hassan has never again made a significant contribution.
+[7] Mr. Hassan could not well describe the charity's activities, nor describe what it did at its head office, even though he claims to have driven there almost 20 times to make cash donations. He understood it helped teenagers in Africa, and when asked about its name, said it also helped Canadian children. Neither his financial advisor, nor anyone from Operation Save Canada's Teenagers namely Mr. Mokwe and Ms. Khan, who seemed to work tag team on this program -- appeared in court to try to explain, corroborate, or help Mr. Hassan, or the Court, make any better sense of this.
+[8] Mr. Hassan was given a 2009 receipt for $25,000, based upon an alleged cash donation of $300, and a pledge to pay the rest before the end of 2010. This is obviously not permitted under the Income Tax Act. I do not believe the $300 cash was paid. In any event, if it or any other amount was paid in 2009, it was to obtain a $25,000 receipt, and was therefore not a charitable gift.
+[9] The receipt which was issued did not satisfy the prescribed information requirements. Among other things, the wrong name appears; there is no identification of the location of where the gift was made, at least not one that is clear; it is in the wrong amount; and may also have at least one wrong date or missing date. In fact, one of the typos on the form is in the charity's name.
+[10] It appears almost certain that this program involved a fraud on the Canadian tax system, and therefore on the Canadian public. It is not clear to me whether Mr. Hassan was complicit or merely duped. I do note he was not assessed penalties.
+[11] In any event, it is my finding that he was not telling the Court the truth today about his involvement with this program. I do not accept his oral testimony that he made any of the cash donations he testified to.
+[12] A CRA charity auditor testified. The charity's registration was since revoked, mainly for filing falsified documents on both donations received and charitable and other expenditures made. No records turned up to support any donations were given to CRA, or located by CRA on further investigation. Criminal charges were laid against the principal, who has since fled Canada. The alleged fraud involved over $6 million in donations, involving Mokwe and Khan. All donors have been reassessed by CRA.
+[13] Mr. Hassan, your appeal is dismissed, as I have said before, for more than one reason: one is I don't accept that the cash donations were made, and I would have needed more than your self interested statements and the bank statements you were able to produce; and secondly, the charitable receipt clearly didn't meet the prescribed information requirements.
+[14] The rules of this Court allow costs to be awarded against an informal taxpayer if they have unduly delayed the resolution of the appeal. In appropriate circumstances, this can apply to appeals pursued that are totally and entirely without merit, and rely on a lack of truthfulness. In such circumstances, I am awarding $300 of costs payable by you, Mr. Hassan, to the Respondent.
+Signed at Ottawa, Canada this 13th day of May 2014.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2014 TCC 144
+COURT FILE NO.:
+2013-4565(IT)I
+STYLE OF CAUSE:
+NARUL HASSAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 9, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+May 13, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Leslie Ross
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

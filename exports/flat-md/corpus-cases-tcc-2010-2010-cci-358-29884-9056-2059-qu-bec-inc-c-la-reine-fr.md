@@ -1,0 +1,362 @@
+---
+title: "9056-2059 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29884/index.do"
+last_modified: "2010-07-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 358"
+citation2: ""
+neutral_citation: "2010 CCI 358"
+decision_date: "2010-07-02"
+language: "fr"
+item_id: "29884"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6379
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:49:34.371000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bff98a2b02a82810fd618e3e02d6b082788dc6969244ed56ca018f64ba738d4c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9056-2059 Québec Inc. c. La Reine
+
+- Citation: 2010 CCI 358
+- Decision date: 2010-07-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6379, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9056-2059 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-02
+Référence neutre
+2010 CCI 358
+Numéro de dossier
+2008-1253(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-1253(GST)G
+ENTRE :
+9056-2059 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 novembre 2009, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocats de l’appelante :
+Me Jean-François Poulin
+Me Ann-Sophie Verrier
+Avocat de l'intimée :
+Me Dany Galarneau
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie relativement à la taxe sur les produits et services en vertu de la partie IX de la Loi sur la taxe d'accise, dont l’avis est daté du 30 novembre 2006 et porte le numéro TR0445, pour la période du 1er février 2002 au 31 décembre 2005, est accueilli en partie, en ce que la pénalité est annulée; quant aux autres aspects, la cotisation demeure inchangée, selon les motifs du jugement ci‑joints.
+Le tout sans frais.
+Signé à Ottawa, Canada, ce 2e jour de juillet 2010.
+« Alain Tardif »
+Juge Tardif
+Référence : 2010 CCI 358
+Date : 20100702
+Dossier : 2008-1253(GST)G
+ENTRE :
+9056-2059 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une cotisation établie en vertu de la Loi sur la taxe d’accise (ci-après la « LTA »).
+[2] L’appelante fait appel de la cotisation et de la pénalité inhérente au moyen d’un avis d’appel dont le contenu est le suivant :
+1. L’appelante exploite une entreprise dans le domaine de l’agriculture et se spécialise plus particulièrement dans l’apiculture.
+2. En effet, M. Jean-Pierre Binette, actionnaire majoritaire de l’appelante, est apiculteur depuis l’âge de 19 ans.
+3. Dans le cadre de l’exploitation de son entreprise, l’appelante utilise diverses méthodes afin de stimuler, favoriser et promouvoir la vente de plusieurs produits de sa ferme.
+4. Plus précisément, lors de l’achat d’un produit de la ferme, l’appelante accorde le droit d’entrée sur ses sentiers afin de pratiquer des activités de plein air.
+5. En hiver, les clients de l’appelante, qui font l’achat d’un produit de la ferme, peuvent s’adonner, sur le domaine de l’appelante, à du patinage dans des sentiers glacés et l’été, à de la randonnée pédestre et à la cueillette de petits fruits dans ces mêmes sentiers.
+6. Les clients de l’appelante ne peuvent pas accéder aux sentiers sans l’achat d’un produit de la ferme.
+7. Les sentiers de l’appelante ont été, à l’origine, développés pour les membres de la famille des actionnaires et c’est par la suite que la famille a eu l’idée d’utiliser le terrain en vue de stimuler la vente des produits de la ferme.
+8. Un long processus d’approbation de la Commission de la protection du territoire agricole (ci-après, la « Commission ») a donc été enclenché afin de pouvoir organiser, à l’intérieur des terres de l’appelante, des sentiers permettant d’attirer une clientèle régulière pour l’écoulement des produits de l’entreprise agricole.
+9. Suite aux représentations de l‘appelante, la Commission a autorisé l’implantation de sentiers visant à attirer une clientèle pour les produits agricoles, dans la mesure où cet usage de la terre de l’appelante ne constituait pas un usage commercial non relié à l’agriculture.
+10. Par cette décision, la Commission confirme que l’implantation de sentiers pédestres constitue un accessoire à la promotion des produits agricoles de l’appelante et, par le fait même, l’usage commercial de cette terre constituerait un usage interdit par la loi puisqu’une terre agricole ne peut être utilisée à des fins commerciales.
+11. En 2006, l’appelante a fait l’objet d’une vérification par l’intimée.
+12. Un avis de cotisation a été émis le 30 novembre 2006 pour la période allant du 1er février 2002 au 31 décembre 2005.
+13. L’intimée prétend que l’appelante n’a pas perçu et remis la taxe sur les produits et services (ci-après, la « TPS ») à l’égard de certains revenus déclarés.
+14. Plus précisément, l’intimée prétend que l’appelante a fourni un droit d’accès sur son terrain et que cette fourniture constitue une fourniture taxable.
+15. De plus, l’intimée refuse des montants de crédit de taxe sur les intrants sur la base qu’ils avaient trait à des dépenses personnelles des actionnaires plutôt qu’à des dépenses encourues dans le cadre des activités commerciales de l’appelante.
+16. L’appelante a logé un avis d’opposition en bonne et due forme dans les délais prescrits à l’encontre de l’avis de cotisation émis par l’intimée.
+17. Une décision sur opposition a été rendue le 23 janvier 2008, rejetant l’avis d’opposition logé par l’appelante, d’où le présent appel.
+[3] Pour établir et justifier le bien‑fondé de ladite cotisation, l’intimée a tenu pour acquis les hypothèses de faits énumérés au paragraphe 18 de la Réponse à l’avis d’appel, le tout se lisant comme suit :
+a) l’appelante est une inscrite aux fins de l’application de la TPS et une mandataire du ministre aux fins de la perception et de la remise de la TPS;
+b) Au cours de la période, l’appelante opérait une entreprise agro‑touristique;
+c) Au cours de cette période, l’appelante effectua des fournitures taxables au moyen notamment de l’accès à un labyrinthe à l’intérieur d’une pinède, servant au patinage à lame pour la saison hivernale et au patinage à roues alignées pour la saison estivale;
+d) Les fournitures effectuées par l’appelante au moyen de cette entreprise récréo-touristique ne bénéficiaient d’aucune exonération ou exemption;
+e) Au cours de la période, l’appelante a omis de percevoir et de remettre au ministre les taxes exigibles;
+f) Au cours de la période, l’appelante s’est vue refuser des crédits de taxe sur les intrants (CTI);
+Année se terminant au
+31 décembre
+Fournitures taxables
+Revenus taxables déclarés
+TPS non perçue
+et non remise
+CTI
+2002
+34 896 $
+21 130 $
+1 486,59 $
+(110,25 $)
+2003
+138 697 $
+9 186,48 $
+1 553,26 $
+2004
+155 349 $
+34 317 $
+8 472,24 $
+514,82 $
+2005
+277 646 $
+50 839 $
+15 876,47 $
+684,32 $
+TOTAL
+606 588 $
+106 286 $
+35 021,78 $
+2 642,15 $
+g) Les fournitures taxables offertes par l’appelante, à savoir les droits d’entrée aux sentiers (labyrinthe) constituent un droit d’entrée dans un « lieu de divertissement »;
+h) Accessoirement à ce paiement du droit d’entrée, un produit de la ferme est également obtenu;
+i) En présence d’une fourniture multiple moyennant une contrepartie unique, la fourniture accessoire à la fourniture taxable qu’est le droit d’entrée constitue également une fourniture taxable;
+j) Concernant les CTI, les transactions dites « personnelles » de l’actionnaire majoritaire de l’appelante sont refusées;
+k) En l’absence d’une comptabilité claire et détaillée, la méthode des dépôts bancaires a été utilisée afin de reconstituer les fournitures taxables
+[4] Les questions en litige ont été formulées par l’intimée comme suit :
+19. La première question en litige consiste à déterminé si l’intimée était justifiée de cotiser l’appelante au titre de la TPS nette non perçue et non déclarée de 34 34+,93 $ ainsi que pour les CTI refusés de 2 642,15 $ déterminés au terme de la vérification fiscale;
+20. La deuxième question en litige consiste à déterminer si l’intimée était justifiée d’imposer à l’appelante la pénalité de 4 211,04 $ prévue à l’article 280 de la LTA.
+[5] Dans un premier temps, madame Madeleine Courchesne a fait l’historique du dossier en décrivant notamment, comment elle était devenue actionnaire avec 20 % des actions de l’appelante, propriétaire du fond de terre. Elle a également décrit de façon détaillée la passion de son époux pour les abeilles et son très grand mérite pour y avoir investi temps, énergie, argent, à comprendre, mais aussi à développer une grande expertise dans ce secteur d’activité agroalimentaire au point de devenir un producteur important et même exemplaire dans la province de Québec.
+[6] Elle a également fait état des contraintes importantes et nombreux problèmes reliés à cette production, mais aussi au niveau de l’entreprise dirigée par son conjoint.
+[7] Elle a fait l’historique des diverses étapes vécues par son conjoint dans le monde de l’apiculture au début des années 1970, au moment où il était dans la vingtaine.
+[8] Débutant avec une trentaine de ruches sur une base de hobby, il a augmenté graduellement pour se rendre à 300 ce qui, encore là, ne permettait pas une auto‑suffisance financière. Au moment où elle a fait la connaissance de monsieur Binette en 1984, ce dernier avait alors réduit son nombre de ruches à une cinquantaine.
+[9] Très précise et fournissant de très nombreux détails sur pourquoi et comment l’entreprise avait été créée et développée, elle est devenue imprécise, voire non informée sur les faits à l’origine de la cotisation dont il est fait appel; notamment, sur la façon dont l’accès au sentier avait été développé et, plus spécifiquement, sur la méthode retenue qui consistait à un système de coupons.
+[10] Madame a aussi fait l’historique des sentiers, dont l’origine remontait à la création d’une patinoire sur un étang avoisinant la maison où étaient hébergées des personnes retraitées.
+[11] À la suite d’un malheureux accident, monsieur Binette a eu l’idée de faire des sentiers dans la nature, qu’il arrosait et entretenait l’hiver au moyen d’une vieille zamboni qu’il avait lui-même modifiée.
+[12] Au départ, il s’agissait d’une activité qui rejoignait peu de personnes, jusqu’à ce qu’une personne travaillant dans les médias s’y rende et découvre, en 1993, le site qualifié d’exceptionnel. Dès lors, les choses ne furent plus jamais pareilles et l’activité est devenue très populaire, très appréciée et recherchée, au point de devoir y aménager un stationnement pouvant accueillir plusieurs centaines de voitures pour répondre aux attentes.
+[13] Suite à l’achalandage considérable qui a suivi l’article élogieux du journaliste, le couple Courchesne-Binette dit avoir vu là, une possibilité d’exploiter cet achalandage exceptionnel pour vendre des produits de la ferme, mais plus spécifiquement, le miel.
+[14] La preuve a également fait ressortir la ténacité et la détermination exceptionnelle de monsieur Binette.
+[15] Peu scolarisé, ce dernier a le mérite d’avoir appris, compris et même développé une production difficile remplie d’embuches de toutes sortes, dont notamment, celle de la maladie qui détruit une partie importante du cheptel au Québec et celle de la féroce compétition provenant des marchés extérieurs ou étrangers.
+[16] La preuve a été complétée par le témoignage de mesdames Madeleine Courchesne, Thérèse Deslauriers et de monsieur Jean Guilbeau.
+[17] Madame Courchesne a, quant à elle, témoigné sur la méthode utilisée et requise pour l’accès aux sentiers. Elle a expliqué la pratique des coupons que doivent se procurer ceux qui veulent profiter des sentiers. Elle a aussi expliqué la politique de prix des coupons, des divers produits et des quantités. Elle a affirmé que l’entreprise avait aussi mis en place un registre spécial permettant à toute personne ou famille de devenir membre et profiter ainsi de prix plus avantageux.
+[18] Monsieur a, quant à lui, validé le contenu des témoignages des autres témoins. Son témoignage a permis de constater qu’il était une personne tenace, déterminée et habile vendeur du projet ayant conduit aux faits à l’origine de la cotisation, dont il est fait appel.
+[19] Plusieurs éléments et volets dans la preuve présentée par l’appelante étaient sur des sujets ou thèmes non pertinents à la seule question en litige, à savoir si l’accès à la patinoire désigné comme labyrinthe, constituait-il pour la période visée par la cotisation une fourniture exonérée ou s’agissait-il plutôt d’une fourniture taxable?
+[20] Ainsi, tout ce qui a trait à l’intérêt de la population pour les produits du terroir, à la passion de son conjoint pour la production du miel et à son dynamisme pour en faire la promotion sont des éléments qui colorent le dossier, voire le rende très sympathique, mais ne peuvent être pris en considération pour répondre à la question en litige.
+[21] Les seuls faits pertinents pour disposer de l’appel sont ceux relatifs à la méthode mise en place pour permettre à tout intéressé d’accéder aux sentiers durant la saison estivale et aux sentiers glacés, dits « labyrinthe ».
+[22] L’hiver, les mêmes sentiers sont entretenus et arrosés au moyen d’une zamboni, créant ainsi une longue patinoire très populaire. D'ailleurs, la publicité effectuée principalement durant la saison hivernale accordait une importance déterminante au volet patinoire. Les produits de la ferme revêtaient une dimension plutôt marginale.
+[23] La preuve a révélé que la période hivernale était considérablement plus achalandée que durant les autres périodes de l’année.
+[24] Pour accéder aux sentiers aménagés en patinoire et au labyrinthe, les intéressés devaient acheter un coupon qui leur donnait droit, en plus de l’accès, à une très petite quantité de miel, sirop d’érable ou produits dérivés.
+[25] Il s’agissait de très petits formats contenant environ 50 grammes. L’achat de cette petite quantité ne s’effectuait pas par un déboursé en argent, mais par le biais d’un coupon vendu 12,50 $. En d’autres termes, toute personne qui voulait profiter de la nature et avoir accès aux sentiers, devait acheter un coupon en contrepartie duquel l’acheteur avait droit à la petite quantité de miel mais aussi à l’accès à la patinoire, en prime.
+[26] Il était aussi possible d’acheter plusieurs coupons et de les échanger contre des produits du terroir. La preuve n’a pas permis de savoir si la seule façon d’acheter des produits du terroir était par le biais de coupons. Il a été cependant mentionné qu’une personne pouvait utiliser plusieurs coupons pour acheter des produits de la ferme.
+[27] La véritable question est de savoir, si le prix du coupon était la considération pour l’achat de la très petite quantité de miel ou autre produit ou le droit d’accès aux sentiers? En d’autres termes, le prix ou montant déboursé pour l’acquisition du coupon constituait-il un stratagème pour diluer, sinon occulter, la véritable considération pour l’accès aux sentiers?
+[28] Malgré les nombreuses tentatives visant à clarifier très précisément le système de coupons, les choses sont demeurées quelque peu confuses. L’accès aux sentiers étant défini par l’appelante comme étant un accessoire, une prime ou une récompense pour avoir acquis le produit faisant l’objet d’une exemption, il devenait important de savoir et surtout comprendre, si le prix déboursé correspondait à la valeur de la fourniture exemptée acquise aux fins de voir, si l’accès aux sentiers était une gratuité offerte en guise de promotion pour augmenter la production et les ventes de miel ou une façon de commercialiser l’accès aux sentiers.
+[29] La preuve soumise relative aux diverses campagnes de publicité a fait ressortir l’accent fort dominant des sentiers versus les produits agro alimentaires associés subtilement de façon marginale au contenu des dites publicités.
+[30] La conjointe de monsieur Binette a témoigné d’une manière très prudente ne voulant manifestement pas nuire au scénario présenté comme objectif ultime, à savoir que l’entreprise avait comme principale vocation la production, la transformation et la mise en marché de produits agro alimentaires exemptés.
+[31] Les conditions de mise en marché étant difficiles, l’entreprise a créé une façon particulière pour faire connaître, mais aussi et surtout pour vendre ses produits. Jusque‑là, le plan est sans reproche et tout à fait correct en matière commerciale.
+[32] Le litige fiscal est survenu lorsque les dirigeants de l’appelante ont mis en place un procédé ou un système où le prix demandé pour la fourniture exemptée ne correspondait pas, selon l’intimée, à la juste valeur. En d’autres termes, la formule faisait en sorte que la fourniture exemptée n’était pas le principal de la transaction assujettie mais l’accessoire, le principal étant l’accès aux sentiers du labyrinthe, fourniture taxable.
+[33] À l’appui des témoignages, plusieurs documents furent produits notamment sur les difficultés rencontrées auprès de la municipalité, mais aussi et surtout auprès de la Commission de la protection des territoires agricoles qui, dans un premier temps, et cela, à deux reprises, a conclu que l’utilisation des sentiers était incompatible avec la vocation agricole des lieux et, conséquemment, devrait être interdite sous peine de sanctions.
+[34] Lors des deux premières tentatives, la Commission de la protection des territoires agricoles (CPTAQ) a considéré l’activité comme en étant une commerciale incompatible avec la vocation agricole des lieux.
+[35] À la suite des deux échecs, l’appelante, a soumis une troisième demande, accompagnée par un nouveau procureur, en soutenant que l’usage des sentiers serait un outil de sensibilisation à la nature agro alimentaire des lieux et un moyen efficace de développement agro touristique ainsi qu’un moyen éducatif et une excellente façon de promouvoir la vente des produits agricoles et particulièrement le miel.
+[36] L’appelante, aux paragraphes aa) et bb), page 3 de son plaidoyer, reproduit un extrait de la dernière décision de la Commission de la protection des territoires agricoles:
+100- Après une analyse approfondie de l’ensemble des décisions rendues préalablement par la CPTAQ, la décision suivante fut rendue par la commission :
+Compte tenu des décisions précitées, il y a lieu d’examiner si la présente demande repose sur de nouveaux éléments.
+En effet, force est d’admettre que depuis, la demanderesse a consenti des efforts appréciables et que le nouveau projet ne comprend aucun bâtiment à caractère autre qu’agricole à l’intérieur de l’enclos prévu pour la garde des animaux en captivité, les seuls aménagements requis, soit kiosque, accès et stationnement, seront implantés près du chemin public sur une superficie d’environ 3 200 mètres carrés additionnels l’aire résidentielle existante.
+La demanderesse désire pouvoir organiser à l’intérieur des sentiers qu’elle a aménagés à travers sa plantation de pins, des activités qui répondent à cette exigence et qui permettent d’attirer une clientèle régulière pour l’écoulement des produits de l’entreprise agricole, c’est-à-dire poissons, petits fruits, miel et produits dérivés, champignons sauvages et autre.
+En définitive, la présente demande vise simplement à ce que des sentiers existants et nécessaires à l’autocueillette soient utilisés à l’occasion à des fins autres qu’agricoles, soit en période estivale à des fins éducatives et d’observation, soit en période hivernale pour permettre la pêche blanche, comme se fait l’utilisation de terres agricoles ou de sentiers en forêt pour l’aménagement des pistes de motoneige ou de ski de fond.
+Toutefois, la Commission ne pourrait certainement pas permettre l’implantation d’un usage commercial non relié à l’agriculture dans ce milieu. Cependant, tenant compte du contexte de cette demande et du type d’usage recherchés, la Commission est d’avis que le milieu agricole environnant ne subira aucune contrainte.
+[Je souligne.]
+Par ailleurs, la Commission ne peut ignorer qu’une autorisation de la demande favoriserait la vente d’une partie de la production agricole de la demanderesse, ce qui serait favorable au développement de l’agriculture de ce secteur. Compte tenu de ce qui précède, la Commission considère que la réalisation du projet n’engendrera pas de perte pour l’agriculture et ne limitera pas l’exercice des activités agricoles qui s’exercent ou qui pourraient s’exercer sur les parcelles environnantes.
+À l’époque des dernières décisions, madame Courchesne commençait à mettre en place son projet. Ces demandes étaient peut-être prématurées.
+Ainsi, considérant les faits allégués et les documents produits au soutien de la demande, la Commission considère qu’elle peut l’autoriser sans qu’il n’en résulte de préjudices majeurs sur le milieu, d’autant plus qu’elle contribuera au développement agrotouristique de la région.
+Une autorisation de la Commission rencontrerait les objectifs visés par l’Étude sur le tourisme rural au Québec relié au monde agricole préparée en collaboration avec le MAPAQ, Tourisme Québec et l’UPA, qui se lit comme suit :
+« Ce qu’il faut, c’est réussir à attirer les gens au-delà de cette période de pointe qu’est la saison estivale. »
+(…)
+PAR CES MOTIFS, LA COMMISSION :
+AUTORISE l’utilisation à d’autres fins que l’agriculture, soit l’utilisation de sentiers déjà existants, d’une partie du lot 41, du cadastre de la paroisse de Notre‑Dame-Du-Mont-Carmel, de la circonscription foncière de Champlain, d’une superficie de 1,5 hectare.
+[37] L’appelante poursuit ainsi :
+(iii) Application des décisions de la CPTAQ à la caractérisation de la fourniture effectuée par l’appelante
+102- L’appelante soumet respectueusement que les décisions de la CPTAQ doivent être considérées par la Cour canadienne de l’impôt à la lumière des aspects suivants :
+a. L’appelante a, par le passé, effectué séparément la vente de miel et la vente de droits d’entée à ses sentiers;
+b. Cette manière de procéder a été formellement interdite par la CPTAQ le 26 octobre 1994, car contraire à la LPTA;
+c. Dans une décision rendue le 25 avril 1997, la CPTAQ réitérait qu’il était défendu d’user de la terre agricole en question pour des fins commerciales autres qu’agricoles;
+d. En effet, suite aux décisions rendues par la CPTAQ, il est formellement interdit à l’appelante de vendre à sa clientèle un droit d’accès à ses sentiers puisque cet usage de la terre constituerait un usage commercial non relié à l’agriculture.
+[Je souligne.]
+103- L’appelante soumet que la fourniture de produits apicoles donnant un droit d’accès aux sentiers de celle-ci est une fourniture unique et non multiple comme le prétend Revenu Québec puisque l’accès aux sentiers et la vente de produits apicoles sont interdépendants et inextricablement liés, chaque composant est une partie intégrante d’un tout.
+104- L’appelante soumet que la fourniture de produits apicoles et l’accès aux sentiers accordés à ses clients sont deux éléments d’une seule et même fourniture, et ce, pour les motifs suivants :
+e. Pour comprendre la position de l’intimée à l’effet que les opérations de l’appelante se caractérisent de fournitures multiples, il faut exclure totalement le contexte factuel dans lequel l’appelante évolue;
+f. En effet, sur un marché libre, il est possible de se procurer séparément des produits apicoles et avoir accès à des centres de randonnées pédestres;
+g. Cependant, l’arrêt O.A. Brown, rendue par la Cour d’appel fédérale précise que la Cour doit évaluer les opérations en question dans leur réalité et non tenir compte d’opérations possibles composées d’éléments semblables ou identiques;
+h. La Cour d’appel fédérale mentionne qu’il faut se demander s’il serait possible d’acheter chacun des éléments séparément;
+i. Relativement à cette question, la position de l’appelante est à l’effet que lorsque fourni ensemble, la fourniture de produit apicole et la vente de miel sont inextricablement liées`
+j. Un client peut choisir de se procurer un pot de miel sans aller dans les sentiers de l’appelante, cependant l’inverse n’est pas possible;
+k. En effet, en raison de la nature agricole de la terre sur laquelle est exploitée l’entreprise, il est formellement interdit à l’appelante de vendre uniquement un droit d’accès à ses sentiers;
+l. Dans ce contexte, la fourniture qui consiste à vendre un droit d’accès au sentier de l’appelante ne peut être effectuée comme une fourniture unique à la clientèle;
+m. Dans ses décisions rendues en 1994, 1995 et 1997, la CPTAQ a clairement indiqué à l’appelante que la terre agricole ne pouvait pas être utilisée pour un usage commercial à d’autres fins que l’agriculture;
+n. L’appelante comprend des décisions rendues par la CPTAQ, qu’il est formellement interdit de vendre un droit d’accès à ses sentiers dans vendre de produits agricoles;
+o. Dans ce contexte, la position de l’intimée à l’effet que nous sommes en présence d’une fourniture multiple est irréaliste, puisqu’elle ne tient pas compte de la LPTA ainsi que des décisions rendues par la CPTAQ;
+p. La réalité commerciale et légale de l’appelante fait en sorte que la vente de produits apicoles et le droit d’accès au sentier font partie intégrante d’un ensemble complet et ne peuvent pas être raisonnablement considérés comme des fournitures distinctes;
+q. L’appelante soumet donc que la position de l’intimée à l’effet que nous sommes en présence de fournitures multiples est mal fondée en faits et en droit.
+105- Dans un même ordre d’idée, à la lumière de la position administrative adoptée par l’ARC cité précédemment[1], les faits suivants semblent militer en faveur de la qualification de la fourniture comme constituant une fourniture unique :
+r. Le bien est fourni par un seul fournisseur, soit l’appelante (lorsqu’un bien est fourni par plus d’un fournisseur il s’agit généralement de fournitures multiples);
+s. Le bien est acquis par un seul acquéreur (lorsque le bien est acquis par plus d’un acquéreur, il s’agit généralement de fournitures multiples);
+t. L’appelante a fourni du miel pour la contrepartie qu’elle a reçue de sa clientèle;
+i. En effet, il ressort des témoignages entendus devant la Cour que les dirigeants de l’appelante sont depuis toujours des passionnés du monde de l’apiculture;
+ii. Ceux-ci ont longtemps tenté d’entrer dans le marché de la vente de miel dans succès;
+iii. En effet, la mise en marché des produits apicoles était très problématique;
+iv. Les témoignages des dirigeants de l’appelante ne laissent aucun doute sur le produit que ceux-ci vendent à leur clientèle, soit le miel;
+v. De ce constat, il ne fait aucun doute que l’intention de l’appelante est de vendre du miel et non des droits d’entrée à ces sentiers à sa clientèle;
+vi. La question de savoir ce que la clientèle acquiert lorsqu’elle vient chez l’appelante est cependant beaucoup plus difficile à cerner;
+vii. Chaque client peut venir avec des intentions complètement différentes ce qui rend la référence aux besoins de l’acquéreur incertaine;
+u. L’acquéreur sait quels éléments précis font partie de l’ensemble (ce fait favorise une catégorisation de la fourniture comme une fourniture multiple);
+v. L’acquéreur ne peut acquérir séparément les éléments ou substituer les éléments (ce fait milite en faveur de la caractérisation de la fourniture, comme fourniture unique).
+(iv) Caractérisation de la fourniture unique
+106- Si la Cour convient que l’appelante a effectué une fourniture unique, il faut alors déterminer quel est l’élément dominant ou principal de cette fourniture.
+107- L’appelante soumet que l’élément dominant de la fourniture doit être établi en fonction de plusieurs facteurs, sont notamment les éléments suivants :
+w. Les motivations principales et l’objectif premier du fournisseur dans le cadre de l’opération;
+x. La réalité économique des opérations de l’appelante;
+y. La valeur des éléments constituant la fourniture.
+[38] Les arguments de l’appelante sont assez surprenants puisqu’ils valident non pas pour sa conclusion, mais plutôt pour celle de l’intimée. Les lois fiscales deviendraient vite inapplicables. S’il fallait tenir compte de la personnalité ou des traits de caractère, ou encore de l’interprétation très subjective des personnes qui y sont assujetties et de multiples facteurs particuliers qui peuvent exister dans chaque dossier lors de leur application.
+[39] Le travail, la ténacité, la détermination et les qualités de communicateurs de monsieur Jean-Pierre Binette, quant à sa passion pour la production et la vente du miel et de ses dérivés, lui a permis de surmonter plusieurs contraintes et obstacles, dont les non moindres prévus par la Loi sur la protection des territoires agricoles.
+[40] En effet, après deux échecs consécutifs, l’appelante a réussi à faire la démonstration que l’accès aux sentiers s’inscrivait à l’intérieur de la vocation agricole des lieux. Forte de ce succès, l’appelante a imaginé une structure et ou stratagème pour tenter de se conformer à toutes les dispositions légales affectant l’activité concernée, et plaide ainsi que l’utilisation est accessoire, secondaire et qu’elle constitue essentiellement un outil de promotion et développement à l’activité agricole, dont la production constitue une fourniture exemptée.
+[41] Après avoir obtenu gain de cause devant la Commission de la protection des territoires agricoles, l’appelante s’appuie sur la décision pour soutenir que son appel est bien fondé. La décision de la Commission, dont un extrait a été reproduit au paragraphe 35 de ce jugement, met en lumière la problématique à laquelle l’appelante devait faire face.
+[42] À son avis d’appel, l’appelante écrit :
+9. Suite aux représentations de l‘appelante, la Commission a autorisé l’implantation de sentiers visant à attirer une clientèle pour les produits agricoles, dans la mesure où cet usage de la terre de l’appelante ne constituait pas un usage commercial non relié à l’agriculture.
+10. Par cette décision, la Commission confirme que l’implantation de sentiers pédestres constitue un accessoire à la promotion des produits agricoles de l’appelante et, par le fait même, l’usage commercial de cette terre constituerait un usage interdit par la loi puisqu’une terre agricole ne peut être utilisée à des fins commerciales.
+[43] Toute activité commerciale étant interdite sur un territoire défini comme territoire agricole, l’appelante après avoir échoué à deux reprises a proposé de définir d’une autre façon une activité pourtant simple, véritable et tout à fait autonome et indépendante quant à sa nature.
+[44] Le fait de vendre un produit agricole est considéré comme une activité commerciale acceptable au sens de la Loi sur la protection des territoires agricoles. Il s’agit là du postulat tenu pour acquis par l’appelante, qui a décidé de surmonter l’obstacle en soutenant que l’accès aux sentiers qu’elle avait aménagé sur sa ferme assujettie à la Loi sur la protection des territoires agricoles, constituait une véritable activité fusionnée à un ou des produits agricoles disponibles et en vente sur les lieux; en d’autres termes, selon l’appelante, l’accès aux sentiers constituait une activité agricole par association, et conséquemment, une activité commerciale agricole exemptée.
+[45] Selon l’appelante, l’accès aux sentiers était quelque chose d’accessoire, de marginal et de secondaire, totalement intégré à l’activité, mais aussi à la vocation des lieux.
+[46] L’appelante a manifestement réussi à convaincre les autorités ayant compétence en matière de protection des territoires agricoles. Une telle décision ou autorisation, à l’effet que l’activité puisse être conforme à la vocation agricole, est sans effet et nullement opposable en matière de TPS.
+[47] En d’autres termes, par le biais d’astuces et d’imagination, l’appelante a convaincu la Commission qu’elle pouvait façonner une activité essentiellement commerciale en un exercice promotionnel des produits agricoles et a constitué ainsi un outil efficace de développement du secteur agro alimentaire.
+[48] Loin de moi l’idée ou même la tentation de m’ingérer dans le dossier où le tribunal administratif est seul compétent; par contre, inversement, la décision de la commission ne peut être utilisée ou constituée le fondement d’arguments visant à changer, modifier ou même définir la nature d’une fourniture assujettie à la LTA.
+[49] Le fait que la commission ait accepté de rendre acceptable et cohérent l’utilisation d’une partie d’un territoire avec une vocation agricole n’est aucunement pertinent dans l’exercice qui vise à savoir si une fourniture est exemptée ou non.
+[50] Lorsque deux produits de consommation font l’objet d’une seule transaction à partir de la seule volonté du vendeur ou lorsque deux fournitures sont associées, voire rendues indissociables par choix d’un vendeur, il devient nécessaire d’analyser la décision du vendeur aux fins d’y découvrir la nature réelle du contenu ou de l’objet de la possible sinon réelle transaction.
+[51] Il eut été fort intéressant d’entendre la version des usagers des sentiers faisant parties à la transaction, afin de constater pourquoi ils acceptaient de faire un déboursé pour l’achat de coupon. Était-ce pour goûter au miel, pour soutenir la production de miel de l’appelante ou simplement pour profiter de l’ingénieux aménagement, pour profiter de l’air pur de la campagne et faire un exercice physique agréable dans un environnement exceptionnel?
+[52] Permettre ou accepter qu’une fourniture fasse partie de la catégorie exemptée du seul fait de sa décision ou de la façon créative du vendeur de l’associer à une autre, aurait pour effet de soustraire des milliers de fournitures assujetties à l’application de la LTA.
+[53] Il deviendrait ainsi très facile de se soustraire aux dispositions de la LTA en soutenant qu’une fourniture normalement assujettie ne l’est pas du fait d’être associée à une fourniture exonérée sous prétexte d’en faire la promotion pour permettre une plus grande production.
+[54] Avec très peu d’imagination, il serait possible de créer un infini de possibilités très loufoques permettant de se soustraire aux dispositions de la LTA. Il est donc essentiel de faire une analyse particulière lorsqu’il y a un regroupement ou une association de fournitures considérées et définies par l’inscrit comme étant une seule fourniture.
+[55] L’exercice est d’autant plus requis, s’il existe une ou des conséquences fiscales aux termes de la LTA. En effet, la loi permet de vendre ou d’associer à une fourniture assujettie au calcul de la taxe, un bien qui en est exempté, comme en l’espèce le miel; en d’autres termes, il s’agit en quelque sorte d’un accessoire au principal traité fiscalement comme faisant partie de la fourniture exemptée.
+[56] À cet égard, le procureur de l’intimée a donné l’exemple fort pertinent de la possible surprise, prime ou petit jouet inclus dans la boîte de céréales qui n’est pas pris en compte. La boîte de céréales étant une fourniture exemptée, la fourniture qui y est associée perd sa qualité habituelle d’assujettie pour se mériter le même traitement que la fourniture principale exemptée.
+[57] Il est facile de comprendre la logique et raisonnabilité de cette approche puisqu’une fourniture taxable regroupe le plus souvent plusieurs composantes pour la détermination du prix de vente assujetti à la TPS. Ainsi, il y a les composantes, mais aussi des composantes liées à la livraison, publicité, mise en valeur, etc.
+[58] De façon générale, il s’agit de choses de ou composantes indissociables souvent non tangibles. Par contre, lorsqu’il s’agit, comme en l’espèce de biens individuels n’ayant strictement rien en commun, cela soulève instantanément un réflexe de questionnement aux fins notamment d’identifier le principal versus l’accessoire.
+[59] Bien qu’il existe plusieurs décisions en la matière, il n’existe ni formule objective ou recette magique assorties de différents critères permettant d’obtenir un résultat tranchant et fiable.
+[60] Je crois que le cheminement et l’analyse doivent être guidés par une approche élémentaire bon sens exercé dans un contexte de raisonnabilité. Tel que prescrit par l’article 138 de la Loi sur la Taxe d’accise, le prévoit et ce lit comme suit :
+« Pour l’application de la présente partie, le bien ou le service dont la livraison ou la prestation peut raisonnablement être considérée comme accessoire à la livraison ou à la prestation d’un autre bien ou service est réputé faire partie de cet autre bien ou service s’ils ont été fournis ensemble pour une contrepartie unique. »
+[61] En l’espèce, l’appelante occulte de son analyse la fourniture présentée comme accessoire et met l’emphase sur la fourniture exemptée; partant de là, dans un premier temps, elle se définit à partir du but et de l’objectif de l’entreprise; dans un second temps, elle ignore la nature du bien qu’elle définit comme un moyen ou une façon de promouvoir la vente, la production et la mise en marche du produit faisant l’objet d’un exemption à savoir, le miel ou autre produit de la ferme.
+[62] Accepter ou souscrire à l’approche de l’appelante conduirait à des aberrations et ou à des résultats tout à fait farfelus. En outre, il permettrait à toute personne ayant une imagination fertile, de construire une multitude de scénarios tout à fait contraires à la lettre et l’esprit de la loi.
+[63] En l’espèce, il n’y a aucun doute que la partie de la fourniture, dite promotionnelle, soit l’accès aux sentiers offert, distribué ou accessible gratuitement, doit faire l’objet d’une analyse qui lui est propre. De quoi s’agit-il? S’agit-il de quelque chose de secondaire, d’accessoire ou de marginal? S’agit-il de quelque chose de négligeable dans les considérations prises en compte lors de l’acquisition de la fourniture?
+[64] Il s’agit de sentiers constituant une longue piste serpentant dans la forêt où il est possible de voir, de sentir et d’apprécier la nature et d’y observer des chevreuils; cette piste glacée a fait l’objet d’un entretien régulier au moyen d’une zamboni. L’aménagement de ces sentiers a nécessité l’injection de fonds importants et a nécessité également des dépenses pour l’entretien. Les gens s’y rendent en très grand nombre pour patiner, utilisent le stationnement qui peut accommoder plusieurs centaines de voitures.
+[65] Lorsque deux biens ou plus, ou deux services ou plus, sont très liés l’un à l’autre, ils peuvent former une fourniture unique et faire l’objet d’une seule transaction. De façon générale, les considérations prises en compte et à l’origine de la transaction visent, soit un objet en particulier, soit un ensemble dont les parties ou composantes sont indissociables. L’analyse se doit tenir compte de trois grands principes :
+· Chaque fourniture doit être considérée comme distincte et indépendante.
+· La fourniture ne doit pas être fractionnée artificiellement.
+· Lorsque la fourniture unique est constituée de plusieurs éléments ou composantes, l’élément qui soulève une ou des questions doit servir à améliorer la fourniture.
+[66] Il semble que le présent litige découle de l’application de la Loi sur la protection du territoire agricole. En vertu de cette loi, il est interdit d’exploiter toute entreprise commerciale à vocation non agricole sur le territoire défini comme étant défini à vocation agricole dit « zone verte ».
+[67] La commission de protection des territoires agricoles a interdit à deux reprises que l’activité commerciale au centre du présent litige soit exploitée à l’endroit choisi par l’appelante, étant donné qu’il se situait dans une zone protégée, donc exclusivement réservée à des activités agricoles.
+[68] Partant de cette réalité et à cause de cet obstacle majeur et tout à fait incontournable, il devenait impératif de créer un projet au terme duquel l’activité reliée à l’utilisation de sentier en forêt (marche et patinage) soit définie, comme étant un élément ou une composante d’une fourniture exonérée; en d’autres termes, il fallait une toute autre définition soit établie, non pas à partir de ce qu’est le bien, mais à partir de l’utilisation qui en est faite et surtout, à partir de la détermination essentiellement intéressée et subjective.
+[69] À la troisième tentative, le dossier soumis à la commission de protection de protection des territoires agricoles fut préparée de façon telle que la commission a autorisé l’utilisation. L’autorisation fut accordée à la suite de la présentation d’une définition des sentiers non pas comme une activité économique et indépendante, mais comme une mesure favorisant la production et vente de produits agricoles.
+[70] L’autorisation de la commission de protection des territoires agricoles ou la conformité de l’activité aux dispositions de la Loi sur la protection du territoire agricole n’a pas pour effet ou conséquence de modifier la nature d’un bien, d’une activité et/ou d’un service assujetti à la LTA.
+[71] En d’autres termes, une décision de la commission de protection des territoires agricoles ne peut pas établir ou décider si une fourniture est exonérée ou non; il s’agit là d’une question qui relève exclusivement de la LTA. Bien qu’idéalement, la cohérence soit souhaitable au niveau de l’application des lois, il peut arriver qu’une même réalité soit traitée différemment selon les lois en présence.
+[72] Ainsi, le fait que la commission ait accepté que la fourniture litigieuse soit définie comme faisant partie d’une activité qui rencontre et respecte la Loi sur la protection des territoires agricoles n’a aucun impact ou conséquence sur la cotisation établie par l’intimée en vertu de la LTA.
+[73] Il s’agit d’une situation particulière en ce que l’appelante a voulu exploiter une entreprise en se conformant aux dispositions de la Loi et Règlement régissant la protection des territoires agricoles qui a le droit de vie et de mort sur certaines activités économiques effectuées sur le territoire à vocation agricole sur lequel la commission a juridiction.
+[74] À la page 17 de la plaidoirie écrite, l’appelante écrit et je cite :
+Des fournitures multiples sont effectuées lorsqu’un ou plusieurs des éléments peuvent raisonnablement ou concrètement être détachés.
+Inversement, une fourniture unique est composée de deux éléments ou plus dans une des situations suivantes : les éléments sont des parties intégrantes de la fourniture, les éléments sont inextricablement liés entre eux-mêmes, les éléments sont tellement interdépendants et s’entrecroisent tellement qu’ils doivent être fournis conjointement; un des éléments de l’opération est tellement dominé par un autre élément que ce premier a perdu toute identité aux fins fiscales.
+Au moment d’analyser une situation, il est important que l’analyse s’arrête à l’opération en question et qu’elle ne tienne pas compte d’autres opérations possibles composées d’éléments identiques ou semblables. Il ne faut pas fractionner artificiellement quelque chose qui est commercialement une fourniture unique. De plus, un accord ne peut pas être examiné isolément, mais plutôt à la lumière d’autres facteurs, comme l’intention des parties, les circonstances entourant la transaction et les pratiques commerciales habituelles du fournisseur.
+[Je souligne.]
+[75] Je réconcilie difficilement le contenu de ce texte avec la conclusion suggérée par l’appelante. L’appelante vend un coupon échangeable contre une très petite quantité de miel et un accès aux sentiers.
+[76] Prétendre qu’il s’agit là d’une fourniture unique qui ne doit pas faire l’objet d’un fractionnement artificiel est une approche à laquelle je ne souscris pas. D’autre part, l’appelante fait référence à l’intention des parties; or la preuve a fait référence à la seule intention intéressée de l’appelante.
+[77] Souscrire à cette interprétation ou analyse aurait pour effet de permettre aux parties à une transaction de déterminer la nature d’une fourniture, sans droit de regard de l’intimée de déterminer la nature, mais aussi et surtout l’autorité de décider unilatéralement si une fourniture est taxable, non taxable ou exemptée.
+[78] En l’espèce, il aurait été intéressant de savoir le pourcentage d’utilisateurs des sentiers intéressés exclusivement par l’accès aux sentiers. Lorsqu’on fait référence à l’intention des parties à une transaction où une fourniture est transigée. Il s’agit là d’une dimension certainement pertinente qui requiert cependant la contribution des parties à la transaction litigieuse.
+[79] Pour se qualifier à la catégorie fourniture unique, il est essentiel que les éléments qui sont regroupés, associés, liés ou fusionnés soient en principe, connexes ou mariables. Il m’apparaît quelque peu téméraire d’associer des éléments qui n’ont strictement rien en commun, mais qui sont de nature totalement différente. La fourniture qui est un bien ou un service peut regrouper divers éléments qui, arrivés à la livraison, deviennent pratiquement indissociables.
+[80] En l’espèce, le moins que l’on puisse dire, c’est que les deux éléments de la fourniture, dite unique par l’appelante, ne sont ni connexes ni de la même famille; il est manifestement facile de les isoler ou de les séparer. L’exercice est non seulement pas artificiel, mais je dirais plutôt que c’est l’association, la liaison est artificielle. À la page 18 de la plaidoirie écrite, l’appelante surligne la question suivante :
+Compte tenu de l’opération donnée, l’acquéreur a-t-il la possibilité d’acquérir séparément les éléments ou de substituer des éléments?
+[81] La question soulève un aspect fort important que l’appelante ait complètement occulté de son analyse; en effet, la possibilité requiert la capacité, la liberté de faire un choix. En l’espèce, ce choix n’existe tout simplement pas. L’accès aux sentiers requiert l’acceptation de débourser une considération qui n’a strictement rien à voir avec la fourniture décrite comme le principal. En d’autres termes, le fournisseur exige une considération pour une fourniture qu’il veut principale et dominante alors que, de son côté, l’acquéreur accepte de débourser le montant requis essentiellement pour l’élément défini comme secondaire ou accessoire. Pour ce qui est de la formule utilisée, soit un coupon, il s’agit essentiellement d’une façon de faire indirectement ce qui manifestement ne pouvait pas se faire directement.
+[82] Le bon sens et la raisonnabilité conduisent à une détermination qui ne correspond aucunement à l’interprétation de l’appelante.
+[83] La notion de raisonnabilité est quelque chose qui peut-être subjectif, voire même d’arbitraire d’où il est sage de valider, quand les faits le permettent une conclusion quant à la raisonnabilité. L’intimée a d’ailleurs fait l’exercice qu’il a illustré dans son plaidoyer de la manière suivante :
+Afin de bien comprendre le marketing choisi par l’appelante pour donner accès aux sentiers, un exemple vaut mille mots :
+Ex : famille de 4 : 2 adultes et 2 enfants
+12 $ x 4 entrées = 48 $ = 4 coupons
+· À la lumière des pages 2, 3 ou 4 de la pièce R-14, la famille de 4 aura droit à :
+1. 1 pot de 500 g ou;
+2. 1 pot de 350 g et 1 pot de 55 g (ou 50 ml de sirop d’érable ou de farine de sarrazin) ou;
+3. 4 pots de 55 g (ou 50 ml de sirop d’érable ou de farine de sarrazin)
+· Pour une maximisation de la quantité, le pot de 500 g demeure le meilleur choix;
+· Donc, en adhérent à la thèse de l’appelante, le but de cette transaction est de vendre du miel ce qui résulte eu une absurdité de consommation où le pot de 500 g, vendu en tablette à près de 8 $ le pot, coûte à cette famille 48 $.
+[84] L’intimée soutient que l’accès au sentier est le principal et le produit (miel, sirop d’érable ou autre) est l’accessoire; il conclut ainsi :
+17. Étant en présence d’une fourniture multiple avec une contrepartie unique, l’accès aux sentiers (le principal) et le produit (l’accessoire) constituent une fourniture taxable conformément à la LTA.
+[85] Aux paragraphes 18 et 20, il fait référence à deux arrêts, soit l’affaire Robertson c. la Reine (2002 CanLII 46712(CCI)) et l’affaire Triple G Corporation Inc. c. La Reine (2008 CCI 181) pour conclure que la fourniture multiple doit faire l’objet d’une seule fourniture taxable.
+[86] Les deux décisions en question ne m’apparaissent pas aussi pertinentes que suggérées; en effet, dans les deux décisions, il s’agit d’éléments connexes qui se fusionnent, voire même se fondent ensemble, bien qu’elle pourrait faire l’objet de fourniture individuelle.
+[87] En l’espèce le mariage, la fusion n’existe pas vraiment, il s’agit d’un regroupement artificiel établi à cause des contraintes et interdictions prévues par la Loi sur la protection des territoires agricoles. De plus, le fait qu’il s’agisse d’une fourniture multiple transigée au moyen d’une seule considération, s’avère quelque chose d’un peu boiteux.
+[88] En termes clairs, ceux et celles qui font le déboursé, visent principalement l’accès aux sentiers et non pas le miel, dont la quantité est plutôt symbolique. Je suis d’ailleurs convaincu que la majorité des clients ne se procurait pas la fourniture exemptée s’ils avaient le choix ou si le prix d’accès aux sentiers était diminué de l’équivalent de la véritable valeur du produit supposément acquis avec le coupon.
+[89] Le but ou l’objectif est de colorer une activité physique en séance de sensibilisation ou de rapprochement avec la nature. En d’autres termes, l’appelante fait indirectement ce que la Loi sur la protection des territoires agricoles l’empêche de faire directement.
+[90] Cette réalité fait en sorte que je conclus que l’élément de la fourniture multiple autre que l’accès au labyrinthe ne doit pas être inclus ou comme faisant partie de la fourniture taxable qui sera exclusivement la valeur de l’accès.
+[91] À la question est-ce que l’appelante fournit des produits apicoles à sa clientèle, ou plutôt un droit d’accès à ses sentiers? La réponse m’apparaît simple, mais aussi claire. L’appelante vend l’accès à ses sentiers en espérant des retombées au niveau des divers produits offerts.
+[92] L’appelante conclut à la page 65 de son plaidoyer comme suit :
+152. L’appelante soumet respectueusement que l’une ou l’autre des hypothèses suivantes justifient la qualification de la fourniture effectuée par l’appelante comme étant une fourniture détaxée :
+a. La vente du miel et le droit d’accès au sentier font tous deux partie intégrante d’une fourniture unique. Le principe énoncé dans la décision O.A. Brown est applicable et déterminant. L’élément dominant de cette fourniture est la vente de miel;
+b. Subsidiairement, même si l’accès au sentier de l’appelante constitue une fourniture distincte, elle est accessoire à la vente de miel et les deux fournitures ont été fournies pour une contrepartie unique. L’accès au sentier est donc réputé faire partie de la vente de miel selon l’article 138 LTA;
+c. Alternativement, l’appelante soumet que la cotisation de l’intimée est mal fondée en faits et en droit puisque la vente du miel n’est pas une fourniture accessoire à l’accès au sentier de telle sorte que l’article 138 LTA ne trouve pas application;
+d. Finalement, l’appelante soumet qu’elle a toujours été diligente dans les circonstances et qu’il n’y a pas lieu à l’imposition d’une pénalité en vertu de l’article 280 LTA.
+[93] La nette prépondérance de a preuve est à l’effet que le miel, ses produits dérivés, le sirop d’érable ou autres produits n’étaient pas les éléments dominants; il s’agissait plutôt d’éléments secondaires, l’élément dominant, principal et ou déterminant étant, le droit d’accéder aux sentiers.
+[94] Il n’y a aucun doute que la très grande majorité des clients se rendaient sur les lieux dans le but de bénéficier de l’infrastructure aménagée en sentiers glacés. le miel ou autre produit agricole étant l’équivalent de la surprise dans la boîte de céréales.
+[95] Bien qu’il s’agisse-là d’une interprétation, elle est soutenue et validée par plusieurs éléments, l’écart disproportionné entre le prix requis pour un coupon et la valeur réelle du produit agricole obtenu, le contenu de campagnes publicitaires où l’accent est manifestement non pas sur le miel ou autre produit, mais sur le plaisir d’utilisation des sentiers, capacité du stationnement, nombre considérable de clients en fonction des périodes de l’année, la saison hivernale étant de loin la plus achalandée.
+[96] N’eut été de la législation en matière de protection des territoires agricoles, ce dossier n’aurait sans doute jamais été litigieux; rien dans la preuve ne permet de conclure à l’imprudence ou à l’absence de diligence de l’appelante.
+[97] L’appelante a mis sur pied une activité récréo-touristique, ingénieuse et très populaire; son initiative a cependant été freinée, voire même interdite par la commission de la protection du territoire agricole.
+[98] Tenace, déterminé et astucieux, l’appelante a trouvé un moyen pour obtenir les autorisations requises auprès cette commission. Cette initiative était légitime et ne peut faire l’objet d’aucun reproche. Cette décision n’a aucun effet sur la qualité et nature des fournitures assujetties à la LTA, si ce n’est qu’elle permet de mieux comprendre la situation de l’appelante qui voulait exploiter une entreprise saine, populaire et profitable. Cette réalité et le contexte fort particulier font que la pénalité m’apparaît tout à fait inappropriée, d’ où elle est annulée.
+[99] Pour ces raisons, l’appel est accueilli en partie, en ce qui a trait à la pénalité; elle est annulée, quant aux autres aspects, la cotisation demeure inchangée. Le tout sans frais.
+Signé à Ottawa, Canada, ce 2e jour de juillet 2010.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2010 CCI 358
+Nº DU DOSSIER DE LA COUR : 2008-1253(GST)G
+INTITULÉ DE LA CAUSE : 9056-2059 QUÉBEC INC. et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 5 novembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 2 juillet 2010
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Jean-François Poulin
+Me Ann-Sophie Verrier
+Avocat de l'intimée :
+Me Dany Galarneau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante:
+Nom : Me Jean-François Poulin
+Cabinet : Ravinsky Ryan Lemoine Avocats
+Ville : Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cahier d'autorités de l'appelante, à l'onglet 8.

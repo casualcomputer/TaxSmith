@@ -1,0 +1,170 @@
+---
+title: "Ghaith v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25938/index.do"
+last_modified: "2004-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 686"
+citation2: ""
+neutral_citation: "2004 CCI 686"
+decision_date: "2004-10-21"
+language: "fr"
+item_id: "25938"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3685
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:54:31.058000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9e68ca73d61ddb35216bc16344fe206f9479043c1401a5e6c8f652ba68ee431d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ghaith v. The Queen
+
+- Citation: 2004 CCI 686
+- Decision date: 2004-10-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3685, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ghaith v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-21
+Référence neutre
+2004 CCI 686
+Numéro de dossier
+2002-2671(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2671(IT)G
+ENTRE :
+ALI GHAITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus à Montréal (Québec), le 21 septembre 2004.
+Devant : L'honorable Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Valérie Tardif
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 1996 et 1997 sont rejetés;
+L'appel de la cotisation établie en vertu de la Loi pour l'année d'imposition 1998 est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait qu'un revenu additionnel de 15 356 $ doit être ajouté, plutôt qu'un montant de 69 439 $;
+Le tout selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour d'octobre 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 4e jour d'avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI686
+Date : 20041021
+Dossier : 2002-2671(IT)G
+ENTRE :
+ALI GHAITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel des cotisations concernant les années d'imposition 1996, 1997 et 1998, lesquelles ont été établies selon la méthode de la valeur nette.
+[2] L'appelant conteste l'inclusion de deux éléments :
+(1) Pour l'année 1996, le prix d'achat d'une Pontiac Belleville 1991. Le prix d'achat de la Bonneville a été établi par le vérificateur comme s'élevant à 12 791 $ au moyen du Red Book, une publication spécialisée portant sur la valeur des voitures d'occasion;
+(2) Pour l'année 1998, le montant de 60 000 $, soit le solde du prix d'achat d'un immeuble acquis par l'appelant. L'immeuble est celui dans lequel l'appelant exploite une entreprise de lavage de voitures, sous le nom de Centre d'auto Picci Enr.
+[3] En ce qui concerne le revenu de l'appelant :
+a)
+l'appelant a déclaré le revenu total ci-après indiqué dans ses déclarations de revenu pour les années d'imposition 1996, 1997 et 1998 :
+< 1996 : 15 276 $
+< 1997 : 24 204 $
+< 1998 : 20 374 $
+b)
+le ministre a ajouté les montants ci-après indiqués au revenu de l'appelant en utilisant la méthode de la valeur nette :
+< 1996 : 13 666 $
+< 1997 : 18 314 $
+< 1998 : 69 439 $
+[4] L'appelant a produit sous la cote A-1 plusieurs documents désignés comme étant les onglets A à M. L'intimée a produit sous la cote R-1 un recueil de documents contenant 38 onglets.
+[5] En ce qui concerne le prix d'achat de la Pontiac Bonneville, l'appelant nous a référés à l'onglet L de ses documents. Il s'agit d'un document, non daté et non signé, dans lequel une personne désignée déclare avoir vendu à l'appelant une Pontiac Bonneville SSE pour la somme de 3 500 $.
+[6] En 1997, la voiture a été volée. La compagnie d'assurance a versé un montant de 10 571 $ à l'appelant. Les deux chèques pertinents figurent à l'onglet 18 de la pièce R-1.
+[7] Le vérificateur a déclaré que ces chèques n'avaient pas été déposés et qu'il n'en avait pas tenu compte. Toutefois, il a enregistré, pour l'année 1997, une perte de 2 200 $ subie lors de la disposition de la voiture.
+[8] En ce qui concerne le montant de 60 000 $ qui a été ajouté pour l'année 1998, l'appelant a produit des documents émanant du Liban, montrant qu'un cousin lui avait envoyé de l'argent pour l'aider à payer un immeuble.
+[9] De fait, le 24 mars 1998, l'appelant a acquis de M. Eddy Wilkinson un immeuble situé au 11 770, 5e avenue, à Montréal. La clause concernant le prix est rédigée comme suit :
+Cette vente est faite pour le prix de CENT CINQUANTE MILLE DOLLARS (150 000,00 $) payé par l'acquéreur, dont quittance finale de la part du vendeur.
+[10] Le contrat figure à l'onglet 37 de la pièce R-1. À l'onglet 38 se trouve l'acte concernant le prêt hypothécaire consenti par la Banque Laurentienne du Canada. Le prêt s'élève à 100 000 $. Toutefois, l'appelant a déclaré avoir emprunté un montant de 90 000 $, ce que l'intimée a reconnu. C'est le solde de 60 000 $ qui a été ajouté à son revenu pour l'année 1998.
+[11] L'appelant a affirmé qu'il n'avait pas payé le montant intégral à M. Wilkinson au moment de l'acquisition et que M. Wilkinson avait accepté d'être payé plus tard en argent comptant.
+[12] L'appelant a affirmé qu'étant donné que le vendeur lui demandait avec instance de payer ces montants, il avait appelé son cousin, Ibrahim Youssef, un homme d'affaires résidant au Liban. Ce cousin lui avait envoyé de l'argent dans des enveloppes confiées à divers messagers.
+[13] Deux sommes de 15 000 $ ont été envoyées les 23 mai et 20 juin 1998, et trois sommes de 10 000 $ ont été envoyées les 15 juillet, 20 août et 28 août 1998. Les cinq messagers se sont présentés pour témoigner. Leurs témoignages étaient à peu près similaires : ils étaient allés au Liban; ils avaient des liens avec l'appelant et avec le riche cousin libanais; ils avaient rapporté une enveloppe destinée à l'appelant.
+Analyse et conclusion
+[14] En ce qui concerne la première question en litige, le document produit à l'onglet L sous la cote A-1 et décrit au paragraphe 4 de ces motifs ne peut pas être accepté comme preuve de paiement en l'absence de quelque autre élément de preuve en ce sens. En fait, il n'y avait pas de documents officiels faisant état du transfert de la voiture et indiquant le nom de l'ancien propriétaire ou le prix de transfert déclaré à la SAAQ. En outre, l'appelant a obtenu un montant de 10 571 $ au titre du produit de l'assurance par suite du vol de la voiture et une perte de 2 220 $ a été inscrite dans l'état de la valeur nette. Je considère donc que l'appelant a bénéficié d'un traitement fiscal équitable en ce qui concerne cette voiture et qu'il a été traité conformément à la Loi de l'impôt sur le revenu.
+[15] Quant au deuxième point litigieux, au début de l'audience, l'appelant a mis l'accent sur la remarque suivante figurant dans une déclaration écrite adressée à l'avocate de l'intimée et faisant partie de la pièce A-1 :
+[TRADUCTION]
+Il est impossible et inconcevable que je puisse avoir gagné un montant additionnel de 60 000 $ à titre de revenu en lavant des voitures en 1998. Il est établi que, dans toute entreprise, les recettes fluctuent d'une année à l'autre, mais une telle augmentation, si elle est comparée à d'autres années, n'est absolument pas réaliste.
+[16] J'ai déjà examiné la question d'une augmentation importante de revenu dans la décision Badaan v. The Queen, 2000 DTC 2610; j'ai dit que, lorsqu'il y a une telle augmentation de revenu, l'intimée doit présenter certains éléments de preuve, ou du moins certaines preuves statistiques, pour montrer qu'il peut y avoir une telle augmentation dans le type d'activités commerciales auxquelles l'appelant se livrait pendant l'année en question.
+[17] Je crois comprendre qu'en fait, la valeur nette de l'appelant a augmenté de 60 000 $, mais d'un autre côté, une personne ne devrait pas être imposée pour des économies qui ont été faites pendant des années antérieures ou à l'aide de sommes empruntées de sources non divulguées dans les cas où l'augmentation est réellement tout à fait anormale comparativement aux autres années. Je ne suis pas convaincue que l'appelant ait reçu tout le montant de 60 000 $ de son cousin libanais, mais je ne suis pas non plus convaincue que ce montant provienne des activités commerciales exercées par l'appelant en 1998.
+[18] Je conclus donc que l'on pourrait ajouter un montant au revenu de l'appelant, pour l'année 1998, en tenant compte de l'incertitude qui règne au sujet de la provenance de l'argent et du fait que la valeur nette de l'appelant a de fait augmenté pendant l'année en question.
+[19] Le revenu moyen de l'appelant pour les années 1996 et 1997 s'élevait à 35 730 $. J'ai calculé ce montant, en me fondant sur le revenu déclaré et sur le revenu ajouté décrit au paragraphe 2 de ces motifs. Je considère que ce montant représentait également le revenu de l'appelant pour l'année 1998. Étant donné que l'appelant a déclaré un montant de 20 374 $, je considère que l'on pourrait ajouter, pour l'année 1998, un montant de 15 356 $ au lieu du montant de 69 439 $ ajouté par le ministre.
+[20] En ce qui concerne les pénalités établies conformément au paragraphe 163(2) de la Loi de l'impôt sur le revenu, je suis d'avis qu'elles doivent être maintenues. Aucun compte rendu quotidien des ventes n'était établi, et il n'y avait pas de livres comptables : la comptabilité était tout à fait inadéquate. Dans ces conditions, il est justifié d'imposer des pénalités.
+[21] Les appels sont rejetés pour les années 1996 et 1997. L'appel concernant l'année 1998 est admis compte tenu du fait qu'il faut ajouter un revenu additionnel de 15 356 $ au lieu d'un montant de 69 439 $.
+Signé à Ottawa, Canada, ce 21e jour d'octobre 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Traduction certifiée conforme
+ce 4e jour d'avril 2005.
+Jacques Deschênes, traducteur
+.
+RÉFÉRENCE :
+2004CCI686
+No DU DOSSIER DE LA COUR :
+2002-2671(IT)G
+INTITULÉ :
+Ali Ghaith et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 21 septembre 2004
+MOTIFS DU JUGEMENT :
+L'honorable Louise Lamarre Proulx
+DATE DU JUGEMENT :
+Le 21 octobre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Valérie Tardif
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

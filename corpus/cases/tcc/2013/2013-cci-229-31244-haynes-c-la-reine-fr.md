@@ -1,0 +1,145 @@
+---
+title: "Haynes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31244/index.do"
+last_modified: "2013-07-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 229"
+citation2: ""
+neutral_citation: "2013 CCI 229"
+decision_date: "2013-07-12"
+language: "fr"
+item_id: "31244"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5148
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:11:29.870000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "da8f5e7e513610a4b8f26310f2347d64161e4e33baf4fb78f72cf3b1ad97d33d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haynes c. La Reine
+
+- Citation: 2013 CCI 229
+- Decision date: 2013-07-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5148, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haynes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-12
+Référence neutre
+2013 CCI 229
+Numéro de dossier
+2013-2227(IT)APP
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2227(IT)APP
+ENTRE :
+KIRK HAYNES,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 5 juillet 2013, à Edmonton (Alberta).
+Devant : L’honorable juge Judith M. Woods
+Comparutions :
+Représentant de la requérante :
+M. Robert Haynes
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+ORDONNANCE
+La demande d’ordonnance en vue d’obtenir la prorogation du délai imparti pour interjeter appel à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2008 et 2009 est rejetée. Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 12e jour de juillet 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 9e jour d’août 2013.
+M.-C. Gervais
+Référence : 2013 CCI 229
+Date : 20130712
+Dossier : 2013-2227(IT)APP
+ENTRE :
+KIRK HAYNES,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Kirk Haynes demande la prorogation du délai imparti pour interjeter appel de cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2008 et 2009.
+[2] La Couronne s’oppose à la demande au motif que M. Haynes n’a pas démontré : (1) d’une part, que l’appel est raisonnablement fondé et, (2) d’autre part, qu’il est juste et équitable de faire droit à la demande. Il s’agit de deux des conditions qui doivent être remplies pour pouvoir faire droit à ce type de demande (paragraphe 167(5) de la Loi).
+[3] Le paragraphe 167(5) est ainsi libellé :
+167(5) Acceptation de la demande – Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[Non souligné dans l’original.]
+[4] À l’audience, M. Haynes était représenté par son père, Robert Haynes. L’un des principaux arguments présentés par le requérant en réponse aux observations de la Couronne était l’affirmation que la Loi de l’impôt sur le revenu n’avait pas été valablement adoptée.
+[5] Je ne crois pas qu’il soit indiqué pour la Cour d’examiner cet argument frivole. Je tiens à souligner que c’est à l’audience qu’il a été soulevé pour la première fois et que la Couronne n’a pas eu une possibilité raisonnable d’y répondre. De plus, rien n’a été avancé pour étayer cet argument. J’aimerais aussi faire remarquer que l’article 18 de la Loi sur la preuve au Canada prévoit que toutes les lois fédérales sont admises d’office. Ce serait faire un mauvais usage des ressources de la Cour que de se pencher plus longuement sur cet argument dans les circonstances.
+[6] Maintenant, en ce qui a trait aux observations de la Couronne, je suis d’accord pour dire que le requérant n’a pas démontré que l’appel était raisonnablement fondé. À l’audience, Robert Haynes a affirmé que le seul point litigieux concernait l’imposition de pénalités pour faute lourde. Cela ne ressort pas clairement de l’avis d’appel et, quoi qu’il en soit, rien dans les documents dont je dispose ou qui ont été portés à ma connaissance à l’audience ne permet valablement de conclure que les pénalités sont injustifiées.
+[7] Plus précisément, on peut lire dans l’avis d’appel que la Couronne a la charge de la preuve et qu’elle n’a présenté aucun fait. On y lit aussi que c’est à tort que le ministre avait refusé une déduction au titre d’une perte d’entreprise, alors que le requérant ne demande pas de telle déduction. Rien de cela n’établit que l’appel du requérant est raisonnablement fondé, ainsi que l’exige la Loi.
+[8] Je souscris aussi à l’observation de la Couronne selon laquelle le requérant n’a pas démontré qu’il était juste et équitable de faire droit à la demande. À l’audience, Robert Haynes m’a demandé de lui fournir un exemplaire du document sanctionnant la Loi de l’impôt sur le revenu, la date de la sanction et les signatures des personnes compétentes. Il a déclaré avoir reçu une formation en droit fiscal, ajoutant que ses connaissances cadraient avec la thèse avancée par une organisation appelée Fiscal Arbitrators.
+[9] La thèse adoptée par le requérant en l’espèce est présentée en détail dans la décision Meads c Meads, 2012 ABQB 571. Au premier paragraphe des motifs, le juge Rooke qualifie de quérulent ce type de plaideur et décrit en ces termes les tactiques employées :
+[traduction]
+[1] […] Ces personnes emploient tout un arsenal de techniques et d’arguments vantés par des « gourous » (selon la définition donnée ci-après) dans le but de perturber les travaux des tribunaux et de frustrer de leurs droits légitimes les gouvernements, les sociétés et les particuliers.
+[10] Compte tenu de l’ensemble des circonstances, le requérant n’a pas démontré qu’il est juste et équitable de faire droit à sa demande. Je suis d’avis, au contraire, qu’il en résulterait un mauvais usage des ressources de la Cour.
+[11] La demande sera rejetée. Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 12e jour de juillet 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 9e jour d’août 2013.
+M.-C. Gervais
+RÉFÉRENCE : 2013 CCI 229
+No DU DOSSIER DE LA COUR : 2013-2227(IT)APP
+INTITULÉ : KIRK HAYNES c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 5 juillet 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.M. Woods
+DATE DE L’ORDONNANCE : Le 12 juillet 2013
+COMPARUTIONS :
+Représentant du requérant :
+M. Robert Haynes
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa (Ontario)

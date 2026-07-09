@@ -1,0 +1,251 @@
+---
+title: "Houle c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25508/index.do"
+last_modified: "2006-08-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 291"
+citation2: ""
+neutral_citation: "2006 CCI 291"
+decision_date: "2006-08-09"
+language: "fr"
+item_id: "25508"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2366
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:50:10.148000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2ff903fe1e7334f0d70250ebe4c8372aaf77aa46ce24b544013a6914ea0cf34"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Houle c. La Reine
+
+- Citation: 2006 CCI 291
+- Decision date: 2006-08-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2366, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Houle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-09
+Référence neutre
+2006 CCI 291
+Numéro de dossier
+2004-1927(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1927(IT)G
+ENTRE :
+GABRIEL HOULE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 15 mai 2006 à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est rejeté selon les motifs du jugement ci-joints;
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont accueillis selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9ième jour du mois d'août 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI291
+Date : 20060809
+Dossier : 2004-1927(IT)G
+ENTRE :
+GABRIEL HOULE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L'appelant conteste les nouvelles cotisations établies par le ministre du Revenu national (le « ministre » ) selon la méthode de l'avoir net à l'égard des années 1998 à 2000 (la « période pertinente » ). Le ministre a ajouté au revenu de l'appelant des revenus non déclarés de 2 761 $ en 1998, de 50 909 $ en 1999 et de 9 086 $ en 2000 et il a imposé, pour chacune de ces années, une pénalité selon le paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » )
+[2] L'appelant soutient que le ministre a commis des erreurs dans le calcul de son revenu établi selon la méthode de l'avoir net. À cet égard, l'appelant soutient que :
+i) sa mère lui a consenti un prêt de 15 000 $ en 1999;
+ii) les prêts à la société 9017-7197 Québec inc. (la « Société » ) n'ont pas été consentis en totalité par lui, mais plutôt à parts égales par lui et son frère Jérôme Houle;
+iii) il a retiré des sommes de 9 000 $ et de 5 000 $ en argent comptant de son coffret de sûreté au cours des années 1999 et 2000 respectivement;
+iv) les montants d'impôt provincial apportés comme rajustements dans le calcul de l'avoir net sont erronés.
+Contexte
+[3] Pendant la période pertinente, l'appelant était le propriétaire unique du Bar salon chez Hélène enr. ( « Bar Salon » ). L'appelant était aussi propriétaire à parts égales avec son frère Jérôme Houle de l'entreprise Pub 17-13 enr. ( « Pub 17-13 » ). L'appelant était aussi co-actionnaire à parts égales avec son frère Jérôme de la société 9017-7197 Québec inc. (la « Société » ).
+[4] Le ministre a utilisé la méthode de l'avoir net pour établir les revenus non déclarés de l'appelant, d'une part parce qu'il avait constaté que l'appelant effectuait un bon nombre d'opérations en argent comptant, et d'autre part parce que l'appelant conservait peu de pièces justificatives nécessaires au rapprochement des différents comptes des états financiers de ses entreprises, notamment en ce qui a trait au rapprochement des prêts qui auraient été consentis à la Société.
+Remarques préliminaires
+Fardeau de la preuve
+[5] Tout d'abord, il faut traiter du fardeau de la preuve qui incombe à l'appelant dans ses appels. Mon collègue le juge Tardif a eu l'occasion de traiter de la question du fardeau de la preuve dans une affaire où, comme c'est le cas ici, les revenus non déclarés d'un contribuable avaient été déterminé selon la méthode de l'avoir net.
+[6] Dans la décision Bastille c. Sa Majesté la Reine, no 96-4370(IT)G, 9 décembre 1998, 99 DTC 431, [1999] 4 C.T.C. 2155, il a écrit aux paragraphes 5 et suivants :
+[5] Il m'apparaît important de rappeler qu'en cette matière, le fardeau de la preuve incombe aux appelants, à l'exception toutefois de la question des pénalités où le fardeau de preuve est imputable à l'intimée.
+[6] Une cotisation établie en vertu de la formule AVOIR NET ne peut jamais découler de la rigueur mathématique souhaitée et souhaitable en matière de cotisation. Il y a généralement une certaine partie d'arbitraire provenant de la détermination de la valeur des composantes. Le Tribunal doit décider de la raisonnabilité de cet arbitraire.
+[7] Le recours à ce procédé n'est d'ailleurs pas la règle. Il constitue en quelque sorte une exception utilisée dans les situations où le contribuable n'a pas en sa possession toutes les informations, documents et pièces justificatives pour permettre une vérification plus conforme aux règles de l'art et surtout plus précise quant au résultat.
+[8] Les accises ou fondements des calculs élaborés dans le cadre d'un avoir net sont tributaires en très grande partie des informations transmises par le contribuable faisant l'objet de la vérification.
+[9] Laqualité, la vraisemblance, la raisonnabilité des informations ont donc une importance absolument fondamentale.
+[7] Un autre de mes collègues, le juge Bowman (tel était alors son titre), tenait les propos suivants dans la décision Ramey c. La Reine, no 91-547(IT), 20 avril 1993, A.C.I. no 142 (Q.L.), [1993] 2 C.T.C. 2119, 93 DTC 791 :
+Je ne sous-estime pas les difficultés énormes, sinon pratiquement insurmontables, auxquelles l'appelant et son avocat se heurtent dans leur tentative de contester les cotisations d'actif net établies à l'égard d'un contribuable décédé. Estimer le revenu annuel d'un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C'est un instrument grossier que le Ministre doit utiliser en dernier ressort. Une cotisation d'actif net repose sur une comparaison de l'actif net du contribuable, à savoir la valeur de l'actif moins le passif au début d'une année, avec son actif net à la fin de l'année. À la différence ainsi obtenue, on ajoute les dépenses qu'il a engagées pendant l'année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu'à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l'année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d'actif net s'impose est souvent l'artisan de son propre malheur.
+[8] Dans les présents appels, madame Sandrine Nothomb, vérificatrice de l'Agence des douanes et du revenu du Canada (l' « Agence » ), et madame Lucie Bouchard, agente des appels, ont témoigné à l'appui de la position du ministre. L'appelant et son frère Jérôme ont aussi témoigné.
+[9] Dans l'appréciation de la preuve fournie par l'appelant, il est nécessaire de commenter l'omission de faire comparaître certains témoins et de fournir de la preuve documentaire qui aurait pu confirmer les affirmations de l'appelant. Dans la décision Huneault c. La Reine, 98 DTC 1488, ma collègue la juge Lamarre rappelle au paragraphe 25 certains propos que tiennent les auteurs Sopinka et Lederman dans leur livre « The Law of Evidence in Civil Cases » et qui sont cités par le juge Sarchuk de notre Cour dans la décision Enns c. M.R.N., no APP-1992(IT), 17 février 1987, 87 DTC 208, à la page 210 :
+[TRADUCTION]
+Dans l'ouvrage de Sopinka et Lederman, The Law of Evidence in Civil Cases, les auteurs font remarquer ce qui suit au sujet des conséquences de l'omission de faire comparaître un témoin, je cite :
+Dans l'affaire Blatch v. Archer, (1774), 1 Cowp. 63, p. 65, Lord Mansfield a déclaré :
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l'une des parties était en mesure de produire et que l'autre partie était en mesure de réfuter.
+L'appréciation de ce principe a conduit à établir une règle bien connue selon laquelle l'omission d'une partie ou d'un témoin de produire une preuve que la partie ou le témoin était en mesure de produire et qui aurait peut-être permis d'élucider les faits, fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l'omission a été attribuée.
+Dans le cas d'un demandeur auquel il incombe d'établir un point, l'effet de cette déduction peut être que la preuve produite sera insuffisante pour s'acquitter du fardeau de la preuve. Lévesque et al. c. Comeau et al., ([1970] R.C.S. 1010 (1971) 16 D.L.R. (3e) 425).
+Analyse
+Prêts à la Société
+[10] Le ministre allègue que l'appelant a consenti à la Société des prêts de 789 $, de 31 145 $ et de 24 560 $ au cours des années 1998, 1999 et 2000 respectivement. L'appelant a témoigné que ces prêts avaient été consentis à parts égales par lui et son frère Jérôme, puisque ces prêts provenaient des profits réalisés par l'entreprise Pub 17-13 détenue à parts égales par lui et son frère Jérôme. Selon l'appelant, tous les profits réalisés par l'entreprise Pub 17-13 pendant la période pertinente auraient été investis sous forme de prêts dans la Société. Il convient de souligner qu'aucune preuve documentaire n'a été fournie pour appuyer les allégations de l'appelant et que ni la Société et ni Pub 17-13, ne tenaient de registres comptables permettant de déterminer les dates auxquelles les prêts auraient été consentis à la Société, la nature de ces prêts (en argent comptant, en biens et services payés pour le compte de la Société, etc.) et la source de ces prêts. Par ailleurs, le frère de l'appelant a témoigné qu'il avait consenti les prêts suivants à la Société et qu'il avait tenu un registre (Pièce A-1) à cet égard :
+Prêts provenant de sa part
+des profits du Pub 17-13
+Prêts personnels
+Du 01/04/96 au 30/06/96
+2 081,50
+4 000
+Du 01/07/96 au 30/09/96
+4 453,50
+Du 01/10/96 au 31/12/96
+9 006,50
+Du 01/01/97 au 31/03/97
+3 250
+Du 01/04/94 au 30/06/97
+Du 01/07/97 au 30/09/97
+400
+Du 01/10/97 au 31/12/97
+Du 01/01/98 au 01/03/98
+Du 01/04/98 au 30/06/98
+1 094
+2 000
+Du 01/07/98 au 30/09/98
+1 886,50
+1 275
+Du 01/10/98 au 31/12/98
+3 299
+Du 01/01/99 au 31/03/99
+6 018,50
+Du 01/04/99 au 30/06/99
+5 251
+Du 01/07/99 au 30/09/99
+3 128
+Du 01/10/99 au 31/12/99
+929,50
+1 200
+Du 01/01/2000 au 30/03/2000
+1 775
+Du 01/04/2000 au 30/06/2000
+8 005,50
+Du 01/07/2000 au 30/09/2000
+4 229
+Du 01/10/2000 au 31/12/2000
+4 471,39
+1 100
+[11] Je souligne que les revenus nets du frère de l'appelant étaient de 10 796 $, de 19 525 $, de 14 523 $ et de 11 214 $ en 1997, 1998, 1999 et 2000 respectivement. Je souligne aussi que le frère de l'appelant a ajouté que les prêts qu'il avait consentis à même ses propres fonds à la Société provenaient de ses économies réalisées au cours de ses 23 ans de travail et de sommes qu'il avait empruntées d'un ami.
+[12] En définitive, la preuve de l'appelant sur ce point reposait essentiellement sur son témoignage. Je rappelle que l'appelant a témoigné que ces prêts avaient été consentis à parts égales par lui et son frère Jérôme et que ces prêts provenaient des profits réalisés par l'entreprise Pub 17-13, détenue à parts égales par lui et son frère. Je souligne qu'en aucun temps l'appelant n'a indiqué lors de son témoignage qu'une partie de ces prêts pouvait provenir d'une autre source. Pourtant, le frère de l'appelant a témoigné qu'il avait consenti des prêts à la Société de 400 $, de 15 573 $ et de 12 283,50 $ dans les années d'imposition 1998, 1999 et 2000 de la Société, respectivement, dont une partie provenait de ses économies et de prêts que lui aurait consentis un ami. Comment l'appelant peut-il alors prétendre que ces prêts avaient été consentis à la Société à parts égales par lui et son frère Jérôme? L'appelant avait le fardeau de démontrer que le ministre avait tort sur ce point. La preuve soumise par l'appelant sur ce point reposait essentiellement sur son témoignage qui fut contredit par le témoignage de son frère. Comment prêter foi par la suite au témoignage de l'appelant qui n'était pas appuyé par une preuve documentaire adéquate ou par le témoignage de témoins crédibles? J'en conclus que l'appelant ne s'est pas acquitté du fardeau de la preuve qui lui incombait sur ce point.
+Coffret de sûreté
+[13] Au stade des oppositions, l'appelant a soutenu qu'il avait retiré de son coffret de sûreté une somme de 9 000 $ en argent comptant le 19 mai 1999 et une somme de 5 000 $ en argent comptant le 28 juillet 2000. L'appelant a déclaré au ministre qu'il avait eu accès à son coffret de sûreté le 19 mai 1999 et le 28 juillet 2000. L'appelant a déclaré au ministre qu'il avait déposé l'argent comptant ainsi retiré de son coffret de sûreté dans les comptes bancaires de la Société, de l'entreprise Pub 17-13 et du Bar Salon. L'appelant a donc demandé au ministre de réduire d'autant l'écart par avoir net qui avait alors été établi. À cet égard, l'appelant a prétendu qu'il avait déposé l'argent comptant ainsi retiré de son coffret de sûreté dans les comptes bancaires suivants, et ce, aux dates suivantes :
+i) le 19 mai 1999, une somme de 2 600 $ dans le compte bancaire du Bar Salon. Le ministre avait été en mesure de constater qu'à partir d'un bordereau de dépôt qu'une telle somme avait été déposée dans ce compte bancaire;
+ii) le 19 mai 1999, une somme de 1 000 $ dans le compte bancaire de l'entreprise Pub 17-13. Le ministre avait été en mesure de constater à partir d'un bordereau de dépôt qu'une telle somme avait été déposée dans ce compte bancaire;
+iii) le 19 mai 1999, une somme de 1 000 $ dans le compte bancaire que la Société détenait dans une succursale de la Banque Laurentienne. Le ministre n'avait pas obtenu de l'appelant ou de cette banque le bordereau de dépôt de cette somme;
+iv) le 20 mai 1999, une somme de 750 $ dans le compte bancaire du Bar Salon. Le ministre avait été en mesure de constater à partir d'un bordereau de dépôt qu'une telle somme avait été déposée dans ce compte bancaire;
+v) le 20 mai 1999, une somme de 1 000 $ dans le compte bancaire que la Société détenait dans une succursale de la Banque Laurentienne. Le ministre n'avait pu obtenir de l'appelant ou de la banque concernée le bordereau de dépôt de cette somme;
+vi) le 21 mai 1999, une somme de 1 600 $ dans le compte bancaire que la Société détenait dans une succursale de la Banque Laurentienne. Le ministre n'avait pu obtenir de l'appelant ou de la banque concernée le bordereau de dépôt de cette somme;
+vii) le 28 juillet 2000, une somme de 400 $ dans un compte bancaire que l'appelant détenait dans une succursale de la Banque nationale du Canada (folio 15221). Le ministre avait été en mesure de constater à partir d'un bordereau de dépôt qu'une telle somme avait été déposée dans ce compte bancaire;
+viii) le 28 juillet 2000, une somme de 400 $ dans un compte bancaire que l'appelant détenait dans une succursale de la Banque Laurentienne (folio 49003-4). Le ministre avait été en mesure de constater à partir d'un bordereau de dépôt qu'une telle somme avait été déposée dans ce compte bancaire;
+ix) le 31 juillet 2000, une somme de 2 600 $ dans le compte bancaire de l'entreprise Pub 17-13. Le ministre avait pu obtenir de l'appelant le bordereau de dépôt prouvant qu'une telle somme avait été déposée dans ce compte bancaire;
+x) le 31 juillet 2000, la somme de 1 000 $ dans le compte bancaire du Bar Salon. Le ministre n'avait pas obtenu de l'appelant ou de la banque concernée le bordereau de dépôt de cette somme.
+[14] Madame Bouchard a témoigné qu'elle avait accepté de soustraire les montants mentionnés aux alinéas i, ii, vii et viii ci-dessus des montants de l'avoir net établis initialement par la section de la vérification de l'Agence parce qu'il lui semblait vraisemblable et plausible que les sommes en argent comptant ainsi déposées aient pu provenir du coffret de sûreté de l'appelant, celui-ci ayant démontré en l'espèce par des bordereaux de dépôt que des sommes en argent comptant avaient été déposées la journée même où il avait eu accès à son coffret de sûreté. Madame Bouchard a ajouté qu'elle avait refusé de soustraire les montants mentionnés aux autres alinéas des montants de l'avoir net établis initialement par la section de la vérification de l'Agence, soit parce que l'appelant n'avait pas été en mesure d'appuyer ses prétentions par des bordereaux de dépôt, soit parce que l'argent comptant n'avait pas été déposé dans les comptes bancaires en question la journée même où l'appelant avait eu accès à son coffret de sûreté, et ce, même si dans ce cas l'appelant avait produit des bordereaux de dépôt démontrant que des sommes en argent comptant avaient été déposées dans les comptes bancaires en question quelques jours après que l'appelant avait eu accès à son coffret de sûreté.
+[15] À mon avis, le ministre aurait dû soustraire les montants mentionnés aux alinéas iv et ix ci-dessus des montants de l'avoir net. Je rappelle que, dans ces cas, madame Bouchard n'avait pas accepté les prétentions de l'appelant parce que l'argent comptant n'avait pas été déposé dans les comptes bancaires en question la journée même où l'appelant avait eu accès à son coffret de sûreté, et ce, même si l'appelant avait démontré à partir de bordereaux de dépôt que des sommes en argent comptant avaient été déposées quelques jours après que l'appelant avait eu accès à son coffret de sûreté. À mon avis, ce court délai entre l'accès au coffret de sûreté et le dépôt de sommes en argent comptant dans les comptes bancaires concernés ne rend pas pour autant invraisemblables les prétentions de l'appelant.
+[16] Par ailleurs, je suis d'avis que le ministre était en droit de ne pas soustraire les montants mentionnés aux alinéas iii, v, vi et x ci-dessus des montants de l'avoir net pour le motif que les prétentions de l'appelant à cet égard n'étaient pas appuyées par des bordereaux de dépôt. La preuve de l'appelant en l'espèce n'était pas différente de celle qu'il avait présentée à madame Bouchard, si ce n'est qu'il a prétendu avoir tenté en vain d'obtenir de son banquier les bordereaux de dépôt démontrant qu'il avait déposé des sommes en argent comptant dans les comptes bancaires concernés. Évidemment, l'appelant n'avait pas conservé ces pièces justificatives. Il me semble que certains contribuables ne tirent aucune leçon de leurs erreurs. L'appelant savait qu'il devait conserver ces pièces justificatives et tenir des registres comptables adéquats. En effet, l'appelant avait déjà fait l'objet d'une évaluation de ses revenus non déclarés par la méthode de l'avoir net. Comme je l'ai expliqué précédemment, il m'est difficile de prêter foi au témoignage de l'appelant lorsqu'il n'est pas appuyé par une preuve documentaire adéquate ou par le témoignage de témoins crédibles
+Prêt de 15 000 $
+[17] L'appelant a soutenu que sa mère lui avait consenti en 1999 un prêt de 15 000 $ en argent comptant. L'appelant a prétendu qu'il avait remboursé sa mère le 24 septembre 2003. Il convient de souligner qu'aucun contrat de prêt n'a été déposé en preuve et que la mère de l'appelant n'a pas témoigné. Toutefois, l'appelant a déposé en preuve une traite bancaire de 15 000 $ datée du 24 septembre 2003 et faite à l'ordre de madame Hélène Houle (pièce A-4). Il aurait été fort intéressant d'entendre le témoignage de la mère de l'appelant sur ce point. L'appelant était en mesure de produire ce témoin. Le témoignage de la mère aurait peut-être permis d'élucider certains faits. Cette omission force la Cour à déduire que la preuve du témoin aurait été défavorable à l'appelant. Pour l'appelant, à qui il incombait d'établir ce point, l'effet de cette déduction est que la preuve produite est insuffisante et qu'il ne s'est donc pas acquitté du fardeau de la preuve.
+Remboursements d'impôt
+[18] Dans le calcul de l'avoir net joint à la Réponse à l'avis d'appel, le ministre avait réduit les revenus non déclarés de l'appelant de 10 276 $ et de 10 827 $ pour les années d'imposition 1999 et 2000 respectivement, et ce, au titre des remboursements d'impôts (M.R.Q.) encaissés par l'appelant pendant les années concernées. Le remboursement d'impôt de 10 276 $ encaissé par l'appelant dans l'année d'imposition 1999 était lié à l'année d'imposition 1998 alors que le remboursement d'impôt de 10 827 $ était lié à l'année d'imposition 1999.
+[19] L'avis de cotisation provincial établi le 22 novembre 1999 pour l'année d'imposition 1998 de l'appelant indiquait ceci :
+Impôt : 0,00 $
+Cotisations au R.R.Q. requises : 741,82 $
+Cotisations au F.S.S. : 106,74 $
+Crédits pour frais de garde d'enfants : 8 250,00 $
+Remboursement d'impôt foncier : 372,00 $
+Autres crédits : 2 502,00 $
+Intérêts : 56,79 $
+[20] L'appelant a soutenu que, n'eût été du paiement des cotisations à la Régie des rentes du Québec ( « RRQ » ) et au fond des services de santé ( « FSS » ) en 1999 pour l'année d'imposition 1998, le remboursement d'impôt provincial encaissé en 1999 pour son année d'imposition 1998 aurait été de 11 181,05 $ plutôt que de 10 276 $. L'appelant a soutenu que ses cotisations au FSS et à la RRQ avaient été par ailleurs incluses dans son coût de la vie établi initialement par le ministre et qu'il s'en trouvait d'autant lésé. Par conséquent, l'appelant demande que ses revenus non déclarés pour l'année 1999 soient réduits de 11 181,05 $ plutôt que de 10 276 $.
+[21] L'avis de cotisation provincial établi le 18 septembre 2000 pour l'année d'imposition 1999 de l'appelant indiquait ceci :
+Impôt : 0,00 $
+Cotisations au RRQ requises : 741,82 $
+Cotisations au FSS : 106,74 $
+Crédits pour frais de garde d'enfants : 8 250,00 $
+Remboursement d'impôt foncier : 372,00 $
+Autres crédits : 2 502,00 $
+Intérêts : 56,79 $
+[22] L'appelant a soutenu que, n'eût été du paiement des cotisations à la RRQ et au FSS en 2000 pour l'année d'imposition 1999, le remboursement d'impôt provincial encaissé en 2000 pour l'année d'imposition 1999 aurait été de 12 059,40 $ plutôt que de 10 827 $. L'appelant a soutenu que ses cotisations à la R.R.Q et au F.S.S avaient été par ailleurs incluses dans son coût de la vie établi initialement par le ministre et qu'il s'en trouvait d'autant lésé. Par conséquent, il demande que ses revenus non déclarés pour l'année 2000 soient réduits de 12 059,40 $ plutôt que de 10 827 $.
+[23] Par ailleurs, il ressort du témoignage de madame Bouchard, et de son rapport sur opposition (pièce I-20, page 4) que les cotisations suivantes de l'appelant à la RRQ et au FSS avaient été incluses dans le coût de la vie de l'appelant :
+1998 1999 2000
+R.R.Q. 26,62 $ 741,82 $ 1114,05 $
+F.S.S. 147,82 $ 106,74 $ 117,96 $
+[24] Madame Bouchard a admis, lors de son témoignage, que les cotisations de l'appelant au RRQ et au FSS, ajoutées initialement aux dépenses personnelles de l'appelant pour chacune des années de la période pertinente, étaient celles qui figurait dans les déclarations de revenus (T-1) de l'appelant pour chacune des années de la période pertinente, et ce, même si ces cotisations avaient été payées par l'appelant dans l'année subséquente. Madame Bouchard a reconnu que le ministre avait commis une erreur en n'utilisant pas initialement la comptabilité de caisse à cet égard. Le témoignage de madame Bouchard et son rapport sur opposition (Pièce I-20) m'ont convaincu qu'elle avait corrigé cette erreur en soustrayant dans un premier temps du coût de la vie de l'appelant, les cotisations au RRQ et au FSS qui y avaient été ajoutées initialement pour chacune des années de la période pertinente et en ajoutant dans un deuxième temps au coût de la vie de l'appelant pour chacune des années de la période pertinente les cotisations au RRQ et au FSS qui avaient été réellement payées par l'appelant dans chacune de ces années.
+[25] À mon avis, il ressort de la preuve que le ministre n'a pas commis d'erreur en réduisant les revenus non déclarés de l'appelant d'une année donnée de la période pertinente des remboursements d'impôt réellement encaissés par l'appelant dans cette année donnée et en ajoutant aux dépenses personnelles de l'appelant dans une année donnée de la période pertinente les cotisations que l'appelant avait réellement payées dans cette année donnée. Je suis d'avis que, si j'ajoutais les montants payés par l'appelant au titre des cotisations au RRQ et au FSS dans une année donnée de la période pertinente aux remboursements d'impôt encaissés par l'appelant dans cette année donnée, ceci aurait pour effet d'annuler les montants ajoutés aux dépenses personnelles de l'appelant dans cette année donnée.
+Pénalités
+[26] Je dois aussi examiner la question des pénalités qui ont été imposées en vertu du paragraphe 163(2) de la Loi. C'est à la partie intimée qu'incombe la charge de prouver qu'une pénalité doit être imposée. Dans l'arrêt Venne c. Canada (ministre du Revenu national - M.R.N.) [1984]A.C.F. no 314, le juge Strayer s'est exprimé sur le degré de négligence nécessaire pour l'imposition de pénalités. La faute lourde doit être interprétée comme un cas de négligence qui correspond à une action délibérée, une indifférence au respect de la Loi. Dans la présente affaire, même après les réductions accordées, les revenus qui n'ont pas été déclarés dans les années 1998, 1999 et 2000 sont élevés en comparaison avec ce qui a été déclaré. L'appelant était conscient de son obligation de déclarer tous ses revenus. L'appelant s'y connaît en affaires. À mon avis, l'appelant a volontairement omis de tenir des registres comptables adéquats de façon à ce que les autorités fiscales se perdent en conjectures. En prenant en considération ces faits et le fait que l'appelant a omis de déclarer tous ses revenus de façon répétée, je conclus qu'il y avait en l'espèce le degré de négligence requis pour justifier l'imposition des pénalités pour les trois années mentionnées.
+Conclusion
+[27] En conséquence, l'appel de la cotisation à l'égard de l'année d'imposition 1998 est rejeté et les appels des cotisations à l'égard des années d'imposition 1999 et 2000 sont accueillis, en tenant compte du fait que les revenus non déclarés de l'appelant devraient être réduits de 750 $ et de 2 600 $ pour les années 1999 et 2000 respectivement.[1]
+[28] À tous autres égards les appels sont rejetés.
+Signé à Ottawa, Canada, ce 9ième jour du mois d'août 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2006CCI291
+No DU DOSSIER DE LA COUR :
+2004-1927(IT)G
+INTITULÉ DE LA CAUSE :
+Gabriel Houle et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+Le 15 mai 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 9 août 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Julie David
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+L'appelant lui-même
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir paragraphe 12 des présents motifs.

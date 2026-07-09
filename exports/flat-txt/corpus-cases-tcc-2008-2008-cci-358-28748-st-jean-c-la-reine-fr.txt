@@ -1,0 +1,263 @@
+Title: St-Jean c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28748/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-358-28748-st-jean-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-07-03
+
+# St-Jean c. La Reine
+
+- Citation: 2008 CCI 358
+- Decision date: 2008-07-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1535, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Jean c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-03
+Référence neutre
+2008 CCI 358
+Numéro de dossier
+2005-2731(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2731(IT)G
+ENTRE :
+CHRISTIANE ST-JEAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 octobre 2007, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2001 est rejeté, avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de juillet 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008 CCI 358
+Date : 20080703
+Dossier : 2005-2731(IT)G
+ENTRE :
+CHRISTIANE ST-JEAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une nouvelle cotisation établie le 26 juillet 2004 et ratifiée le 20 mai 2005 relative à l’année d’imposition 2001.
+[2] Le ministre soutient que les questions en litige sont les suivantes :
+a) L’immeuble constitue-t-il un ancien bien d’entreprise immédiatement avant qu’il en soit disposé ?
+b) Si la Cour en vient à la conclusion que l’immeuble constitue un ancien bien d’entreprise, l’appelante peut-elle désigner une partie de ce bien aux fins de l’application du paragraphe 44(1)?
+[3] Pour établir et ratifier la cotisation dont il est fait appel, le ministre a tenu pour acquis plusieurs hypothèses de fait dont la majorité ont été admises par l’appelante. Les faits sont les suivants :
+a) L’appelante détient 100 % des actions de 9010-9109 Québec Inc., une société de gestion (ci-après « Gestion »); (admis)
+b) Gestion détient 100 % des actions de Re/Max Carrefour Duplessis Inc. (ci-après « Re/Max »); (admis)
+c) Re/Max opère une entreprise de courtage immobilier; (admis)
+d) Le 8 mars 2001, l’appelante a acquis un immeuble de Gestion; (admis)
+e) L’immeuble acquis de Gestion est le lot 1696992 du cadastre du Québec, circonscription foncière de Québec (« l’Immeuble »); (admis)
+f) L’appelante a acquis l’Immeuble pour la somme de 400 000 $; (admis)
+g) Le prix de base rajusté de l’Immeuble est de 400 887 $; (admis)
+[...]
+j) L’immeuble a une superficie de quelque 8 444 m2; (admis)
+[...]
+p) Le lot a une superficie de quelques 6 023 m2; (admis)
+q) Le ministre a établi le gain en capital imposable résultant de la disposition de l’Immeuble à 81 944 $ comme suit :
+Produit de disposition :
+564 775 $
+Prix de base rajusté :
+400 887 $
+Gain en capital
+163 888 $
+Gain en capital imposable (50 %)
+81 944 $
+r) De son côté, l’appelante a déclaré un gain en capital imposable de 26 539 $ de la manière suivante :
+Produit de disposition :
+564 775 $
+Prix de base rajusté :
+551 696 $
+Gain en capital
+53 079 $
+Gain en capital imposable (50 %)
+26 539 $
+[...]
+[4] Quant aux autres faits, soit qu’ils ont été soit niés, soit que l’appelante n’en n’a aucune connaissance :
+Faits niés :
+[...]
+h) L’Immeuble n’a pas fait l’objet d’une subdivision cadastrale; (nié)
+i) L’Immeuble est un terrain vacant; (nié)
+[...]
+k) L’Immeuble n’a jamais été utilisé pour gagner un revenu d’entreprise; (nié)
+l) Le 3 avril 2001, l’appelante vend l’Immeuble à 3589711 Canada Inc.; (nié)
+m) L’appelante a vendu l’Immeuble pour une somme de 564 775 $; (nié)
+n) Le 5 avril l’appelante a fait l’acquisition d’un autre immeuble, le Lot, pour une somme de 389 024,88 $; (nié)
+o) Le prix de base rajusté du Lot est de 396 758 $; (nié)
+Aucune connaissance :
+s) Pour établir son prix de base rajusté de 511 696 $, l’appelante a fractionné le coût de l’Immeuble et rajouté le coût du Lot, le tout calculé comme suit :
+PBR de l’Immeuble :
+400 887 $ X 6 024 m2 = 285 994 $
+8 444 m2
+400 887 $
+(285 994 $)
+114 938 $
+114 938 $
+PBR du Lot
+396 758 $
+PBR
+511 696 $
+14. Outre les faits tenus pour acquis par le ministre, le Sous-procureur général se fonde également sur les faits suivants :
+a) en 2004, l’appelante a disposé d’une partie du Lot acquis le 5 avril 2001;
+b) pour établir le produit de base rajusté dans le calcul du gain en capital du Lot, l’appelante ne s’est pas fondée sur ses propres calculs établis dans le cadre de la disposition de l’Immeuble en 2001.
+[5] Les questions en litige sont les suivantes :
+· l’immeuble constitue-t-il un ancien bien d’entreprise immédiatement avant qu’il en soit disposé?
+· Si l’immeuble ne constitue pas un ancien bien d’entreprise, le ministre a-t-il correctement calculé le gain en capital imposable de l’appelante à 81 944 $?
+· Subsidiairement, si la Cour en vient à la conclusion que l’Immeuble constitue un ancien bien d’entreprise, le calcul du gain en capital proposé par l’appelante est-il conforme à la Loi?
+Prétentions et arguments de l’intimée :
+[6] L’intimée s’appuie sur les paragraphes 38, 39(1), 44(1), 152(4.3) et 248(1) de la Loi.
+[7] Elle soutient que le terrain no 1 ne constitue pas un ancien bien d’entreprise immédiatement avant qu’il en soit disposé, au sens des paragraphes 44(1) et 248(1) de la Loi.
+[8] Elle soutient dès lors qu’elle a dûment calculé le gain en capital imposable lors de la vente du le terrain no 1 en conformité avec le paragraphe 38 de la Loi.
+[9] Subsidiairement, même si la Cour arrivait à la conclusion que le terrain no 1 était, immédiatement avant qu’il en soit disposé, un ancien bien d’entreprise, ce qu’elle nie, elle soutient que le calcul du gain en capital proposé par l’appelante est erroné.
+[10] L’intimée nie que le paragraphe 44(1) soit applicable; s’il devait l’être, elle soutient que l’appelante ne pouvait pas scinder le coût du terrain no 1 pour calculer le prix de base rajusté comme elle l’a fait.
+[11] Le paragraphe 44(1) ne traite que de la question d’un ancien bien d’entreprise et d’un bien de remplacement. Il n’y a aucune mention de la disposition d’une partie de bien ni de la possibilité de ne tenir compte que d’une partie du produit de la disposition.
+[12] Rien dans la Loi ne permet à l’appelante d’augmenter artificiellement le prix de base rajusté du terrain vendu pour tenir compte de la superficie de l’ancien terrain relativement à celle du nouveau terrain.
+[13] L’intimée soutient que le terrain no 1 n’est pas un ancien bien d’entreprise, puisqu’il n’a pas été « utilisé » en vue de tirer un revenu d’entreprise.
+[14] Elle soutient que le seul fait de mettre une pancarte indiquant la venue prochaine de son entreprise n’est pas suffisant pour conclure que le terrain ait été « utilisé » pour gagner du revenu d’entreprise.
+[15] Elle soutient aussi que bien que des travaux préparatoires aient été engagés et qu’ils constituent des dépenses déductibles ou capitalisables, cela ne fait pas en sorte que le terrain soit utilisé dans le but de gagner un revenu d’entreprise.
+[16] Selon elle, un terrain vacant ne peut être utilisé par une entreprise de courtage immobilier dans le but de gagner un revenu d’entreprise.
+[17] L’intimée admet que l’appelante avait l’intention d’établir son entreprise sur le terrain, mais elle maintient que cela ne suffit pas. Elle valide son interprétation en s’appuyant sur l’affaire Glaxo Wellcome pour dire que le mot « utilisé » n’a pas le même sens que « destiné à être utilisé ».
+[18] De plus, l’intimée soutient qu’étant donné que l’article 44 est un article d’exception à la règle générale de l’imposition du gain en capital, toutes les conditions doivent être satisfaites pour que le contribuable puisse en bénéficier. Elle fonde également son argument sur la cause Edwynn Holdings Ltd. v. Minister of National Revenue, 89‑906(IT), 1989 CarswellNat 434, [1990] 1 C.T.C. 2108, 89 D.T.C. 720.
+Voici les passages pertinents de cette cause :
+11. However the appellant, counsel submits, is not entitled to the replacement property rollover because the Act requires that the former business property must be an interest in real property, that subsection 44(1) is an exempting provision in which the appellant must fit within all of its four corners, Aubry v. The Queen, [1976] C.T.C. 598 at 600, 76 D.T.C. 6343 at 6344 (F.C.T.D.) , that as there are no ambiguities in the provision the words must be construed according to their ordinary and natural meaning; and that there is nothing cloudy or obscure in the notion of an interest in real property.
+[…]
+14. It is my view that the submissions of counsel for the respondent are to be preferred and are adopted as being the correct approach to be taken here.
+Cette décision a été examinée dans Grove Acceptance Ltd. c. La Reine, no 2000‑4726(IT)G, 30 octobre 2002, [2003] 1 C.T.C. 2377, 2002 D.T.C. 2172 :
+14. Les articles 13 et 44 sont des dispositions d'exception. Normalement, quand on dispose d'un bien, il y a un gain en capital (de près de 2 millions de dollars en l'espèce) et une récupération différée de près de 300 000 $. Normalement, un contribuable doit payer de l'impôt sur le gain en capital ainsi que sur la récupération de l'amortissement. Il s'agit d'une disposition d'exception qui permet de différer l'impôt. En fait, notre cour a affirmé, dans l'affaire Edwynn Holdings Ltd. c. Ministre du Revenu national, C.C.I., no 86-906(IT), 15 novembre 1989, [1990] 1 C.T.C. 2108, que cette disposition permettait à une personne de différer l'impôt qui devrait normalement être versé à ce moment-là. Par conséquent, le contribuable doit satisfaire à toutes les exigences des dispositions.
+[19] De son côté, l’appelante soumet plusieurs éléments à l’appui de sa contestation. Tout d’abord, elle a précisé les motifs de sa contestation dans son avis d’appel, notamment aux paragraphes 7 et suivants qui se lisent comme suit :
+[…]
+TRAITEMENT FISCAL APPLIQUÉ PAR L’APPELANTE :
+7. Une partie du terrain vendu « terrain S.E.R.T. » correspondant à la superficie du terrain acquis « terrain Roussin » a été désigné comme « ancien bien d’entreprise » aux fins de l’article 44(1);
+8. La disposition de la deuxième partie du terrain vendu « terrain S.E.R.T. » non considérée comme ancien bien d’entreprise et correspondant à la superficie résiduelle, soit 2421.2 mètres carrés a été considérée comme gain en capital;
+9. a totalité du produit de disposition de la partie « terrain S.E.R.T. », désignée comme « ancien bien d’entreprise » et sur lequel le choix a été effectué, a été appliquée à l’acquisition du nouveau « terrain Roussin »;
+10. Le report du gain en capital permis par l’article 44(1) est conforme,
+POINTS EN LITIGE :
+11. L’appelante considère non justifiée la décision de l’A.R.C. de lui refuser le choix effectué en vertu des articles 44 (L.I.R.) de reporter l’imposition du gain en capital sur la disposition d’un ancien bien d’entreprise, partie « terrain S.E.R.T. » lorsqu’un bien de remplacement est acquis « terrain Roussin »;
+12. L’A.R.C. prétend que le « terrain S.E.R.T. » n’est pas un ancien bien d’entreprise telle que définie au paragraphe 248(1); la jurisprudence Glaxo Welcome sur laquelle s’appuie l’A.R.C. concerne un terrain vacant « non utilisé » détenu pendant 14 ans pour une expansion éventuelle de l’entreprise, donc non appropriée;
+13. L’A.R.C prétend le « terrain S.E.R.T. » n’est pas le même bien d’entreprise tel que défini au paragraphe 44(1);
+14. L’A.R.C interprète mal la loi concernant la disposition d’un bien de remplacement et n’a pas appuyé sa décision;
+15. L’appelante entend démontrer par une question de faits et gestes que le « terrain S.E.R.T. » est un ancien bien d’entreprise telle que définie au paragraphe 2481);
+16. Le « terrain S.E.R.T. » a été acquis et utilisé uniquement dans le but d’y ériger à très court terme un bâtiment pour y loger les opérations de REMAX ACCÈS inc. dans le cadre de son entreprise. Le processus d’acquisition et autres opérations reliées à l’implantation et à l’utilisation ultime d’un bien en immobilisation dans le cadre d’une entreprise fait partie intégrante des opérations l’entreprise ainsi que les plans et devis s’y rattachant; le terrain est donc un « ancien bien d’entreprise », l’intention et les faits le démontrent;
+17. La définition de « biens » n’est pas limitative, le choix justifié et effectué sur une partie d’un bien de façon à ce que « l’ancien bien d’entreprise » aie les mêmes caractéristiques du « bien de remplacement » rencontre les objectifs du paragraphe 44(1). Un traitement fiscal semblable est déjà considéré et accepté dans d’autres situations;
+18. L’appelante entend démontrer par témoin expert que le « terrain S.E.R.T. » est le même bien d’entreprise tel que défini au paragraphe 44 (1);
+[…]
+[20] À la demande du tribunal, les parties ont soumis leur argumentation (plaidoirie) par écrit. À cette étape. l’appelante a fait valoir ce qui suit :
+Le Ministre n’a pas démontré que la désignation d’une partie du Terrain #1, ayant les mêmes caractéristiques quantitatives et qualitatives que le Terrain #2 (bien de remplacement), comme étant un « ancien bien d’entreprise » n’était pas conforme aux exigences du paragraphe 44(1).
+Le Ministre n’a pas aussi démontré que l’absence d’une subdivision cadastrale excluait toute disposition partielle d’un bien. Il omet de nous expliquer en quoi le traitement de la superficie excédentaire d’un terrain sans-jacent d’une résidence principale peut justifier un traitement fiscal distinct et ce sans un lotissement approprié.
+Le témoignage et les explications fournies par M. Kirk en référence au paragraphe #27 du bulletin d’interprétation IT‑259 concernent deux anciens biens d’entreprise remplacés par un seul bien, donc sont non pertinents à la présente.
+[21] S’appuyant sur de telles prétentions, l’appelante conclut que :
+L’acquisition du terrain #1 est une affaire à caractère commerciale et constitue un prélude essentiel à la construction d’un immeuble. Les travaux effectués sur le Terrain #1 constituent une activité régulière du processus de transformation pour en arriver à court terme à la re‑localisation des opérations de RE/MAX ACCÈS. Incontestablement, le Terrain #1 est un « bien d’entreprise ». Les règles du paragraphe 44(1) permettent aux contribuables qui ont disposé d’un bien de reporter les conséquences fiscales qui en découlent et de réinstaller ailleurs leur entreprise sans devoir encourir immédiatement les conséquences fiscales. Elle soumet que seulement la partie du Terrain #1 de même dimension que le Terrain #2 a fait l’objet d’un choix dans le respect du paragraphe 44(1).
+[22] La preuve n’a pas révélé de faits nouveaux importants; les faits pertinents sont assez bien résumés à l’avis d’appel; ils ont d’ailleurs fait l’objet pour la plupart d’admission.
+[23] Le témoignage de l’appelante a surtout permis de situer le contexte et le pourquoi des diverses transactions qui sont à l’origine du litige fiscal.
+[24] En résumé, l’appelante avait dans un premier temps acquis le premier immeuble avec l’intention précise d’y construire éventuellement les quartiers généraux de l’entreprise qu’elle dirigeait. Il s’agit de la transaction du 8 mars 2001 dont l’objet était le lot 1696992 du cadastre de Québec, circonscription foncière de Québec.
+[25] Le terrain en question contigu à celui de l’appelante devait faire l’objet de l’implantation d’une méga‑surface commerciale. Après discussion et négociation avec les promoteurs de la méga‑surface, il fut convenu pour l’intérêt et à l’avantage des parties de considérer une relocation pour le projet de relocalisation de l’appelante assurant ainsi une meilleure cohésion pour le site devant recevoir le projet de centre commercial et à proximité le centre administratif de l’entreprise que dirigeait l’appelante.
+[26] En d’autres termes, dans le cadre de la planification au terme de laquelle elle voulait ériger un nouveau centre administratif, l’appelante a d’abord fait l’acquisition d’un terrain d’une certaine dimension qu’elle a ensuite vendu au motif d’un intérêt diminué à cause des intentions du propriétaire du terrain contigu au sien.
+[27] Elle a donc vendu ce premier terrain et fait l’acquisition d’un second terrain plus petit, mais situé dans le même environnement territorial et cadrant mieux avec l’ensemble des projets devant être érigés sur le site global.
+[28] Cette vente et cet achat ont permis aux propriétaires des terrains contigus de réaliser leur projet tout en assurant de meilleures relations et de manière plus conforme à leurs attentes respectives.
+[29] Le premier terrain n’a pas fait l’objet de travaux majeurs générant des revenus, si ce n’est une ou des indications que le site recevrait éventuellement un édifice dont la vocation serait les activités de l’entreprise dirigée par l’appelante.
+[30] Aux termes des deux transactions dont les objets étaient les deux terrains, l’appelante veut se prévaloir de l’avantage fiscal prévu au paragraphe 44(1) et ainsi retarder une partie du gain réalisé lors de la vente du premier terrain.
+Article 44 : Échanges de biens
+(1) Lorsque, au cours d’une année d’imposition (appelée « année initiale » au présent paragraphe), une somme est devenue un montant à recevoir par un contribuable à titre de produit de disposition d’une immobilisation qui n’est pas une action du capital-actions d’une société (l’immobilisation étant appelée « ancien bien » au présent article), mais qui est :
+a) soit un bien dont le produit de disposition est visé aux alinéas b), c) ou d) de la définition de « produit de disposition » au paragraphe 13(21) ou aux alinéas b), c) ou d) de la définition de « produit de disposition » à l'article 54;
+b) soit un bien qui était immédiatement avant qu'il en soit disposé, un ancien bien d'entreprise du contribuable,
+et lorsque le contribuable a acquis :
+c) si l'ancien bien est visé à l'alinéa a), avant la fin de la deuxième année d'imposition suivant l'année initiale;
+d) dans les autres cas, avant la fin de la première année d'imposition suivant l'année initiale,
+une immobilisation en remplacement de son ancien bien, et qu'il n'en a pas disposé avant le moment où il a disposé de son ancien bien, le contribuable peut, malgré le paragraphe 40(1), faire un choix dans sa déclaration de revenu produite pour l'année au cours de laquelle il a acquis le bien de remplacement, pour que les présomptions suivantes s'appliquent :
+e) le gain, pour une année d'imposition donnée, tiré de la disposition de son ancien bien, est réputé être l'excédent éventuel :
+(i) lorsque l'année donnée est l'année initiale, du moindre des montants suivants :
+(A) l'excédent éventuel du produit de disposition de l'ancien bien sur :
+(I) dans le cas d'un bien amortissable, le moins élevé des montants suivants : le produit de disposition de l'ancien bien calculé compte non tenu du paragraphe (6) et le total de son prix de base rajusté, pour lui, immédiatement avant la disposition et de toutes dépenses dans la mesure où elles ont été engagées ou effectuées par lui afin de réaliser la disposition,
+(II) dans les autres cas, le total de son prix de base rajusté, pour lui, immédiatement avant la disposition, et de toutes dépenses dans la mesure où elles ont été engagées ou effectuées par lui afin de réaliser la disposition,
+(B) l'excédent éventuel du produit de disposition de son ancien bien sur le total du coût, pour lui, ou, s'il s'agit d'un bien amortissable, du coût en capital du bien de remplacement, pour lui, calculé compte non tenu de l'alinéa f), et de toutes dépenses dans la mesure où elles ont été engagées ou effectuées par lui afin de réaliser la disposition,
+(ii) lorsque l'année donnée est postérieure à l'année initiale, la somme dont il a demandé la déduction en vertu du sous-alinéa (iii) dans le calcul du gain qu'il a tiré, pour l'année précédente, de la disposition de l'ancien bien,
+sur :
+(iii) sous réserve du paragraphe (1.1), le montant qu'il peut demander à titre de déduction soit sur le formulaire prescrit présenté avec sa déclaration de revenu produite en vertu de la présente partie pour l'année donnée, s'il est un particulier (mais non une fiducie), soit dans sa déclaration de revenu produite en vertu de la présente partie pour l'année donnée, dans les autres cas, lequel montant ne peut dépasser le moins élevé des montants suivants :
+(A) un montant raisonnable à titre de provision à l'égard de la fraction du produit de disposition de l'ancien bien qui lui est payable après la fin de l'année donnée et qu'il est raisonnable de considérer comme une fraction du montant calculé selon le sous-alinéa (i) relativement au bien,
+(B) le produit de la multiplication de 1/5 du montant calculé selon le sous-alinéa (i) relativement au bien par l'excédent de 4 sur le nombre d'années d'imposition antérieures du contribuable se terminant après la disposition du bien;
+f) le coût pour lui, ou, dans le cas d'un bien amortissable, le coût en capital pour le contribuable, du bien de remplacement, pour lui, à tout moment postérieur à celui de la disposition de son ancien bien, est réputé être :
+(i) le coût pour lui, ou, dans le cas d'un bien amortissable, le coût en capital pour le contribuable, de son bien de remplacement, calculé par ailleurs,
+moins :
+(ii) l'excédent éventuel de l'excédent calculé conformément à la division e)(i)(A) sur l'excédent calculé en vertu de la division e)(i)(B).
+[31] Ces dispositions sont spécifiques lorsqu’il y a échange de biens, auquel cas l’intéressé peut avoir un choix.
+[32] Lorsqu’un contribuable dispose d’un « ancien bien d’entreprise » et qu’il acquiert dans un certain délai une immobilisation en remplacement de l’ancien bien (« bien de remplacement »), il peut utiliser, dans le calcul du gain en capital, le prix de base rajusté (« PBR ») du bien de remplacement (son coût d’acquisition) au lieu de celui de l’ancien bien, retardant ainsi l’inclusion d’au moins une partie du gain réalisé.
+[33] D’une part, cette disposition n’est pas universelle, en ce qu’elle ne s’applique pas nécessairement dans tous les cas où il y a un immeuble qui remplace un autre. Certaines conditions doivent être présentes pour tirer avantage du choix prévu au paragraphe 44(1). D’autre part, il doit s’agir d’un « ancien bien d’entreprise ».
+[34] En l’espèce, le coût d’acquisition du terrain no 2 est moindre que le PBR du terrain no 1 (396 758 $ contre 400 887 $), le paragraphe 44(1) n’est donc d’aucune utilité puisque le gain calculé en utilisant le coût du terrain no 2 est plus élevé que celui calculé en utilisant le PBR du terrain no 1.
+[35] Pour justifier son cheminement, l’appelante fait une analogie entre le paragraphe 44(1) et l’alinéa 40(2)b) de manière à pouvoir utiliser le PBR du terrain no 2 et d’y ajouter une partie du PBR du terrain no 1.
+[36] En fait, l’appelante ajoute au PBR du terrain no 2 la fraction du PBR du terrain no 1 qui représente la différence entre la superficie du terrain no 1 et celle du terrain no 2.
+[37] L’alinéa 40(2)b) prévoit l’exemption du gain en capital réalisé lors de la vente d’une résidence principale. En ce qui concerne le terrain sous-jacent, cette exemption est toutefois, à moins d’exception, limitée à un demi-hectare.
+[38] Dans les cas où le terrain sous-jacent dépasse un demi-hectare, il faut donc parfois répartir le produit de la disposition entre la partie admissible à l’exemption et celle non admissible.
+[39] Dans le cas d’un bien de remplacement, le paragraphe 44(1) ne permet pas une telle approche.
+[40] Le sous-alinéa 44(1)e)(i) mentionne clairement qu’il faut choisir le moindre du montant de la division (A) et du montant de la division (B), c’est-à-dire utiliser le moindre du gain en capital calculé en utilisant le PBR de l’ancien bien et celui calculé en utilisant le PBR du bien de remplacement, et non un mélange des deux.
+[41] Pour un exemple de ce calcul, voir le paragraphe 4 de la cause Van Lathing and Holding Co. c. Canada, no 92‑2508(IT)G, 26 janvier 1996, [1996] A.C.I. no 65 :
+[…]
+• Le gain réputé tiré de la disposition est le moindre des montants suivants :
+A Gain par ailleurs déterminé
+(711 177 $ - 40 000 $) 671 177 $ A
+B Excédent du
+produit de disposition 711 177 $
+sur le coût du bien de
+remplacement 465 699 $
+---------
+Montant selon la formule 245 478 $ B
+Gain réputé en vertu du s.-al. 44(1)e)(i)
+(le moindre de A et B) 245 478 $
+[42] En l’espèce, nous ne sommes pas dans une situation semblable à celle dans Macklin c. R., no T‑653‑87, 5novembre 1992, 1992 CarswellNat 448, [1993] 1 C.T.C. 21, 58 F.T.R. 42, 92 D.T.C. 6595 (C.F. 1re inst.) où l’on contestait qu’une partie seulement de l’ancien bien était un ancien bien d’entreprise.
+[43] Nous ne sommes pas non plus en présente d’un cas où un bien a été remplacé par deux biens. L’exemple au paragraphe 27 du Bulletin d’interprétation IT-259R4 n’est donc pas pertinent.
+[44] Je conclus donc que le paragraphe 44(1) ne s’applique pas au présent dossier. Même si cette conclusion permet de disposer de l’appel, il y a lieu d’examiner l’autre volet du raisonnement de l’appelante et d’évaluer si le terrain no 1 constituait un « ancien bien d’entreprise » comme l’exige le paragraphe 44(1).
+[45] Le paragraphe 248(1) de la Loi se lit en partie comme suit :
+248(1) « ancien bien d'entreprise » Immobilisation d'un contribuable utilisée par lui ou par une personne qui lui est liée principalement en vue de tirer un revenu d'une entreprise et qui était un bien immeuble du contribuable ou un droit y afférent, à l'exclusion toutefois :
+a) d'un bien locatif du contribuable;
+b) du fonds de terre sous-jacent à un bien locatif du contribuable;
+c) du terrain contigu au fonds de terre visé à l'alinéa b) et qui sert de parc de stationnement, de voie d'accès, de cour, de jardin ou qui est par ailleurs nécessaire pour l'usage du bien locatif visé à cet alinéa;
+d) d'une tenure à bail sur tout bien décrit aux alinéas a) à c).
+Pour l'application de la présente définition, est un bien locatif d'un contribuable le bien immeuble dont il est propriétaire, conjointement avec une autre personne ou autrement, et qu'il utilise au cours de l'année d'imposition à laquelle le terme s'applique, principalement en vue de tirer un revenu brut qui consiste en un loyer, à l'exception d'un bien que le contribuable donne à bail à une personne qui lui est liée et que celle-ci utilise principalement à une autre fin. N'est pas un bien locatif le bien que le contribuable ou la personne liée donne à bail à un preneur dans le cours normal des activités d'une entreprise du contribuable ou de la personne liée qui consiste à vendre des marchandises ou à fournir des services, aux termes d'une convention par laquelle le preneur s'engage à utiliser le bien pour exploiter l'entreprise qui consiste à vendre les marchandises du contribuable ou de la personne liée, à fournir leurs services ou à promouvoir cette vente ou cette fourniture.
+[46] Ainsi, pour être un ancien bien d’entreprise, il faudrait que le terrain no 1 ait principalement été utilisé en vue de tirer un revenu d'entreprise.
+[47] En l’espèce, la preuve a établi que les travaux exécutés sur le terrain remplacé ne sont ni suffisants ni pertinents pour conclure qu’il s’agissait là d’initiatives devant générer des revenus.
+[48] En effet, des travaux mineurs relatifs à la qualité du sol, à son nivellement, au signalement de la vocation du site aménagé et paysagé de façon temporaire sont autant d’attributs qui ne confèrent pas nécessairement la qualité requise pour conclure qu’il s’agissait d’un bien principalement utilisé pour tirer un revenu d’entreprise.
+[49] Sur ce second volet, tout comme sur le premier d’ailleurs, l’appelante confère une portée et une signification aux fondements juridiques non conformes aux textes, mais essentiellement conformes à ses attentes intéressées. Les dispositions relatives au litige doivent s’apprécier suivant le texte et la jurisprudence pertinente et non en fonction de ce que l’on voudrait.
+[50] Pour toutes ces raisons, l’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 3e jour de juillet 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008 CCI 358
+Nº DU DOSSIER DE LA COUR : 2005-2731(IT)G
+INTITULÉ DE LA CAUSE : Christiane St-Jean et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 19 octobre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 3 juillet 2008
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante:
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,184 @@
+---
+title: "Houle v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25463/index.do"
+last_modified: "2006-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 144"
+citation2: ""
+neutral_citation: "2006 TCC 144"
+decision_date: "2006-03-07"
+language: "en"
+item_id: "25463"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2351
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:17:56.636000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43ad7cee760e9a64d9ef77d49d12714b6e54e8b6615e19ad5e04fec71568585b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Houle v. The Queen
+
+- Citation: 2006 TCC 144
+- Decision date: 2006-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2351, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Houle v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-07
+Neutral citation
+2006 TCC 144
+File numbers
+2001-3004(IT)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3004(IT)G
+BETWEEN:
+LAWRENCE HOULE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 10, 2006, at Winnipeg, Manitoba
+Before: The Honourable Justice R.D. Bell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gerald Chartier
+Jennifer Dundas
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1995, 1996, 1997, 1998 and 1999 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of March, 2006.
+"R.D. Bell"
+Bell J.
+Citation:2006TCC144
+Date: 20060307
+Docket: 2001-3004(IT)G
+BETWEEN:
+LAWRENCE HOULE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.
+ISSUES
+[1] The issues are:
+1. Whether the employment income the Appellant received from Stony Mountain Correctional Institution and Aboriginal Legal Services of Winnipeg in his 1995, 1996, 1997, 1998 and 1999 taxation years was exempt from taxation pursuant to paragraph 81(1)(a) of the Income Tax Act (“Act”) on the basis that it was personal property of an Indian situated on a reserve within the meaning of section 87 of the Indian Act; and
+2. Whether the Appellant has an aboriginal or treaty right protected by section 35 of the Constitution Act, 1982, which has been infringed by the Minister taxing his employment income received in those taxation years and, if so, whether that infringement can be justified.
+[2] The Respondent filed and served a Notice of Motion for:
+1. an order pursuant to Rules 58(1)(b), 65 and 4(1) of the Tax Court of Canada Rules (General Procedure) striking out part of paragraph 7, paragraphs 10 and 14 and part of paragraph 15 of the Notice of Appeal and the related particulars;
+2. an order granting such further and other relief as this Honourable Court considers just; and
+3. an order granting the respondent costs of this motion in any event.
+The ground for the motion is stated as:
+That the paragraphs disclose no reasonable grounds for appeal as it is plain and obvious that the alleged aboriginal right, characterized as it is in the negative, is not cognizable in the jurisprudence.
+[3] Section 19.2 of the Tax Court of Canada Act reads as follows:
+(1) If the constitutional validity, applicability or operability of an Act of Parliament or its regulations is in question before the Court, the Act or regulations shall not be judged to be invalid, inapplicable or inoperable unless notice has been served on the Attorney General of Canada and the attorney general of each province in accordance with subsection (2).
+(2) The notice must be served at least 10 days before the day on which the constitutional question is to be argued, unless the Court orders otherwise.
+(3) The Attorney General of Canada and the attorney general of each province are entitled to notice of any appeal to the Federal Court of Appeal made in respect of the constitutional question.
+(4) the Attorney General of Canada and the attorney general of each province are entitled to adduce evidence and make submissions to the Court in respect of constitutional question.
+(5) If the Attorney General of Canada or the attorney general of a province makes submissions, that attorney general is deemed to be party to the proceedings for the purpose of any appeal in respect of the constitutional question.
+The Respondent, at the hearing, withdrew the aforesaid Notice of Motion.
+[4] Respondent’s counsel stated that he had sent a letter on December 19, 2005 to the Appellant with respect to giving appropriate notice of the constitutional issue and stated that the Appellant had said that he had not given such notice.
+[5] Counsel referred to Bekker v. R., 2004 DTC 6404 in which the Federal Court of Appeal said:
+This Court will not entertain a constitutional challenge in the absence of a Notice being served on the Attorney General of Canada and on each Attorney General of the Provinces … Such Notice is not a mere formality or technicality that can be ignored or that the Court can relieve a party of the obligation to comply with: see R. v. Fisher (1996), 96 D.T.C. 6291 (Fed. C.A.), where this Court ruled that the Notice must be given in every case in which the constitutional validity or applicability of a law is brought in question in the manner described in section 57, including proceedings before the Tax Court governed by the Informal Procedure. Indeed, a judge cannot, proprio motu, raise a constitutional issue without giving a notice to the Attorney General: see R. v. Campbell, [1997] 3 S.C.R. 3 (S.C.C.)[1].
+[6] Counsel then said that this case was held in abeyance for another appeal, namely Benoit v. Canada, 2003 F.C.A. 236 respecting Treaty Number 8. This was described in the Federal Court of Appeal judgment as having been signed between the Crown and the Cree and Dene peoples in 1899 and included a promise to the Aboriginal signatories that they would not have any taxation imposed upon them at any time for any reason. Counsel advised the Court that the Federal Court of Appeal determined that there was no such Treaty ground and that the Supreme Court of Canada had denied an appeal of that decision.
+[7] Upon receiving a letter on behalf of the Respondent requesting the setting of a Case Management Conference to deal with pleadings and procedure involving the Notice of Appeal, a hearing was held in Winnipeg, Manitoba, on July 19, 2005. This Court, by Order dated July 25, 2005 ordered that the Appellant was required to amend his Notice of Appeal no later than August 19, 2005, that the Respondent could file an Amended Reply to the Notice of Appeal no later than September 19, 2005 and if either party:
+… desires to lead oral history evidence at the trial, the parties shall serve a detailed summary of the oral history evidence on the other party no later than September 30, 2005.
+The Notice of Appeal was not amended, and accordingly there was no need to amend the Reply to the Notice of Appeal. Further, there was no summary of oral history as ordered by the Court.
+[8] On the basis of the foregoing authority I concluded that the Appellant could not proceed with an argument respecting the Constitution Act matter referred to above. The Appellant said that he had no dispute with that conclusion.
+FACTS
+[9] The Appellant, who represented himself, stated that he performed counselling services, including traditional ceremonies, medicine ceremonies, sweat lodge ceremonies and vision quest ceremonies in the Stony Mountain Correctional Institution (“Stony Mountain”) at Stony Mountain, Manitoba, and at the Aboriginal Ganootamaage Justice Services (“Aboriginal Services”) in Winnipeg. He stated that he had been hired by and paid by the federal government, that the aboriginal inmates for whom he performed services were from reserves in Manitoba and that they formed about 54 percent of the 600 inmates at Stony Mountain. He said that Stony Mountain was not on a reserve.
+[10] The Appellant said that he was not paid on a reserve by the federal government, that he lived at Stony Mountain and in Winnipeg, outside reserves, and that no income tax was withheld by the government on the amounts paid to him.
+ANALYSIS AND CONCLUSION
+[11] Section 87 of the Indian Act reads as follows:
+87. (1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83, the following property is exempt from taxation, namely,
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or b) or is otherwise subject to taxation in respect of any such property.
+(3) No succession duty, inheritance tax or estate duty is payable on the death of any Indian in respect of any property mentioned in paragraphs (1)(a) or (b) or the succession thereto if the property passes to an Indian, nor shall any such property be taken into account in determining the duty payable under the Dominion Succession Duty Act, chapter 89 of the Revised Statutes of Canada, 1952, or the tax payable under the Estate Tax Act, chapter E-9 of the Revised Statutes of Canada, 1970, on or in respect of other property passing to an Indian.
+(emphasis added.)
+[12] Section 81 of the Income Tax Act reads:
+81. (1) There shall not be included in computing the income of a taxpayer for a taxation year,
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada; …
+[13] In Mitchell v. Peguis Indian Band, [1990] 2 S.C.R. 85, La Forest, J., at 131 stated that:
+In summary, the historical record makes it clear that ss. 87 and 89 of the Indian Act, the sections to which the deeming provision of s. 90 applies, constitute part of a legislative "package" which bears the impress of an obligation to native peoples which the Crown has recognized at least since the signing of the Royal Proclamation of 1763. From that time on, the Crown has always acknowledged that it is honour-bound to shield Indians from any efforts by non-natives to dispossess Indians of the property which they hold qua Indians, i.e., their land base and the chattels on that land base.
+It is also important to underscore the corollary to the conclusion I have just drawn. The fact that the modern-day legislation, like its historical counterparts, is so careful to underline that exemptions from taxation and distraint apply only in respect of personal property situated on reserves demonstrates that the purpose of the legislation is not to remedy the economically disadvantaged position of Indians by ensuring that Indians may acquire, hold, and deal with property in the commercial mainstream on different terms than their fellow citizens. An examination of the decisions bearing on these sections confirms that Indians who acquire and deal in property outside lands reserved for their use, deal with it on the same basis as all other Canadians.
+(emphasis added.)
+He quoted with approval the following passage from Leonard v. R. In Right of British Columbia, [1984] 52 B.C.L.R. 389 at 395:
+It is a reasonable interpretation of the section to say that a tax exemption on the personal property of an Indian will be confined to the place where the holder of such property is expected to have it, namely on the lands which an Indian occupies as an Indian, the reserve. Indians who surrender their lands to non-Indians on lease give up the right to occupation, and when they own or possess personal property on those surrendered lands I think that they are in no different position than any other citizen.
+[14] La Forest, J. further said, at 132:
+But I would reiterate that in the absence of a discernible nexus between the property concerned and the occupancy of reserve lands by the owner of that property, the protections and privileges of ss. 87 and 89 have no application.
+I draw attention to these decisions by way of emphasizing once again that one must guard against ascribing an overly broad purpose to ss. 87 and 89. These provisions are not intended to confer privileges on Indians in respect of any property they may acquire and possess, wherever situated. Rather, their purpose is simply to insulate the property interests of Indians in their reserve lands from the intrusions and interference of the larger society so as to ensure that Indians are not dispossessed of their entitlements. … The Alberta Court of Appeal … captures the essence of the matter when it states, … in reference to s. 87, that: "In its terms the section is intended to prevent interference with Indian property on a reserve."
+(emphasis added.)
+[15] In Williams v. Canada, [1992] 1 S.C.R. 877 at a unanimous Supreme Court of Canada described the following method of determining where employment income is situated:
+The first step is to identify the various connecting factors which are potentially relevant. These factors should then be analyzed to determine what weight they should be given in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve.
+Before stating the foregoing, the Court said:
+… it would be dangerous to balance connecting factors in an abstract manner, divorced from the purpose of the exemption under the Indian Act. A connecting factor is only relevant in so much as it identifies the location of the property in question for the purposes of the Indian Act.
+[16] In Bell et al v. The Queen, 2000 DTC 6365 (F.C.A.), the Federal Court of Appeal stated that at 6370:
+As this Court said in Folster v. The Queen, 97 DTC 5315, at page 5323, in a context of employment income, the connecting factor that best indicates whether the personal property in question is within the commercial mainstream or not is the nature of the employment and the circumstances surrounding it. In other words, the character of this particular form of property cannot be appreciated for the purpose of the section 87 tax exemption “without reference to the circumstances in which it was earned”, such as the residence of the taxpayer, the place where the work was done and the nature of the benefit to the Reserve: …
+[17] In Desnomie v. Canada, [2000] F.C.J. No. 528, the Federal Court of Appeal affirmed the Tax Court’s decision that the relevant connecting factors to be considered respecting employment income are:
+(1) residence of employer;
+(2) residence of employee;
+(3) where the work was performed;
+(4) where the employee was paid; and
+(5) the nature of the services performed or the special circumstances in which they were performed.
+In that case the Court noted that the trial judge said the underlying question to be answered was:
+… would taxation of this income adversely affect the property interest of the appellant qua Indian, or would it simply serve to confer an economic benefit not available to others?
+[18] Having regard to the aforestated authorities and tests, the Appellant cannot succeed in his appeal. He did not reside on a reserve, his employer was not located on a reserve, Stony Mountain, a penitentiary, is not located on a reserve. The Appellant’s work was performed at Stony Mountain and at Aboriginal Services, not on a reserve. Further, the Appellant’s bank account was not on a reserve and he was not paid on a reserve.
+[19] The Appellant was very emotional at the end of the hearing when he perceived that he might not be successful in this appeal. Although no evidence was presented to the Court respecting any advice given to or received by him respecting non-taxability, he seemed to have the expectation that no tax in respect of his employment income would be exigible. However, he simply cannot meet the requisite test for exemption from tax. In the circumstances, if he seeks to pursue what is referred to as the “Fairness Package” under section 220 of the Act, I recommend, having regard to the circumstances and the substantial amount of tax payable and the years of the assessment under appeal, that the Minister of National Revenue waive penalties and interest, the imposition of which appears to be of great hardship to the Appellant.
+[20] The appeal is dismissed.
+Signed at Ottawa, Canada, this 7th day of March, 2006.
+"R.D. Bell"
+Bell J.
+CITATION: 2006TCC144
+COURT FILE NO.: 2001-3004(IT)G
+STYLE OF CAUSE: Lawrence Houle v. The Queen
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: January 10, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice R.D. Bell
+DATE OF JUDGMENT: March 7, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gerald Chartier
+Jennifer Dundas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The content of section 19.2 of the Tax Court of Canada Act was formerly contained in section 57 of the Federal Court Act.

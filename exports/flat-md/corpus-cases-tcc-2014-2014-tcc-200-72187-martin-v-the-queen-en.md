@@ -1,0 +1,144 @@
+---
+title: "Martin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72187/index.do"
+last_modified: "2014-06-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 200"
+citation2: ""
+neutral_citation: "2014 TCC 200"
+decision_date: "2014-06-19"
+language: "en"
+item_id: "72187"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5340
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:41:19.022000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "84d86e2d8f591ee72ae3c22be38d726816ec9e7683f8fa609d65d1d547594fe5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martin v. The Queen
+
+- Citation: 2014 TCC 200
+- Decision date: 2014-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5340, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-19
+Neutral citation
+2014 TCC 200
+File numbers
+2012-3495(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3495(IT)G
+BETWEEN:
+LOUIS-FRED MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 24, 2014, at Montréal, Québec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Me Mounes Ayadi
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the Appellant’s 2010 taxation year is dismissed, with costs throughout, in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 19th day of June 2014.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 24h day of September 2014
+François Brunet, Revisor
+Citation: 2014 TCC 200
+Date: 20140619
+Docket: 2012-3495(IT)G
+BETWEEN:
+LOUIS-FRED MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The Appellant, Louis-Fred Martin, had a lengthy and successful career as a financial advisor during the period 1986 through June 2010. Given the consolidations in the financial institutions sector, he worked with a number of brokerage firms during this period. Throughout this time, he built up a significant and loyal clientele. Whenever he changed firms, invariably his clients followed him. M. Martin regarded his clientele as a valuable asset, capable of generating revenues for him throughout the remainder of his career and potentially upon his retirement.
+[2] M. Martin’s appeal involves his 2010 tax year. In June 2010, he stopped working for his then employer brokerage firm, Peak, which had recently acquired the financial advisory line of business of Promutuel where M. Martin had worked for a number of years. After June 2010, during the continued fallout of the 2008 economic crisis which hit the financial institutions sector hard, M. Martin was unable to find employment with another brokerage firm. He was also unable to obtain the requisite approval from the provincial regulator to be an independent financial advisor or to establish his own firm. The result of his inability to work as a financial advisor was that his clients were not able to follow him and, according to M. Martin, they continued to do business with Peak. M. Martin describes this as a theft by Peak of his clientele.
+[3] It is M. Martin’s position that the resulting loss of his anticipated revenues from these clients for the period from June to December 2010, as well as for the following years, was an income loss which should be deductible as such for tax purposes.
+[4] It is his further position that his loss of his clientele by virtue of his clients continuing with Peak and his continuing inability to work as a financial advisor was a loss of valuable property which gave rise to a capital loss for tax purposes, reflecting the difference between the value of his clientele, calculated as a function of the revenues it was capable of generating, and the fact that he received nothing from Peak for it after he no longer worked for Peak. It is M. Martin’s position that his capital loss is increased by his disposition costs which should reflect the value of all of his personal property, including his home and other property, later seized or lost as a consequence of his resulting insolvency.
+[5] M. Martin was the only witness in his appeal. It does not appear that the list of M. Martin’s clients or their files belonged to him and not his brokerage firm employer. However, it does appear reasonable that M. Martin’s clients could be expected to continue to follow him to a new brokerage firm, had he resumed working at one or established his own, just as they had in the past.
+[6] The amount M. Martin claimed as an income loss in 2010 was $14,000. He arrived at this number by estimating the amount of net income his clientele would have generated for him $2,000 per month. He multiplied this monthly number by seven to reflect the lost revenues from June to December 2010. This is his estimate of revenue that he reasonably could have expected to earn from these clients, but did not earn, had he continued to work as a financial advisor after he was no longer working for Peak. Consistent with this, M. Martin believes he should also be entitled to a $24,000 annual income loss for the years after 2010, although such years are not under appeal to this Court.
+[7] In computing his capital loss, to reflect his loss of his valuable clientele, M. Martin estimated his adjusted cost base to be $800,000. Using a 3% assumed annual return on investment, an $800,000 pool would have been needed to generate his $24,000 anticipated but lost revenues. Since he had received nothing from Peak or anyone else for his clientele, M. Martin claimed an $800,000 capital loss in his 2010 tax return. It is his position that his capital loss should be repaid to him and not simply available to reduce future capital gains.
+[8] After filing his 2010 tax return, M. Martin sought to claim $14,000,000 of disposition costs for his former clientele and increase his capital loss by a like amount – from $800,000 to $14,800,000. M. Martin arrived at his $14,000,000 disposition costs number as follows. He estimated that $2,000,000 was the value of his property seized or lost as a result of the loss of his clientele and the revenue generated thereby. This included the value of his home, his country property, his collection of vehicles, his library, and all of his other collections and belongings. As mentioned, these properties were seized as a consequence of his resulting financial difficulties. M. Martin then multiplied the $2,000,000 value of his lost property by seven, relying upon the proverbial exhortation to thieves to pay back sevenfold what they stole.[1]
+[9] The Court must dismiss M. Martin’s appeal with respect to his claimed $14,000 income loss in 2010. The loss realized by M. Martin is not a fiscal loss recognized for the purposes of the Income Tax Act (the “Act”). An income loss generally arises for tax purposes when the expenses actually incurred by a taxpayer earning income from a source in a year exceed the revenues actually generated from that source for that year. As the Act does not tax revenue before it is earned, even if it is reasonably anticipated, the Act does not recognize anticipated but unearned income as an offsetting loss. This is evident from paragraph 18(1)(a) of the Act, which provides that a business expense must be made or incurred to be deductible in computing income from a business.
+[10] The Court must also dismiss M. Martin’s appeal with respect to his claimed $14,800,000 capital loss for 2010. There are several reasons for that. A taxpayer’s capital loss generally reflects an economic investment loss actually realized by the taxpayer upon disposing of property owned by the taxpayer. In this case, it is not at all clear that the client list was property owned by M. Martin and which he could sell. It appears that he was only free to solicit future business from his clients if and when he changed firms as it appears that he successfully did throughout his pre-2010 career.
+[11] The adjusted cost base of a capital property disposed of generally reflects the costs or after-tax amounts actually paid by a taxpayer for the property and to improve it. That is clear from the language of sections 53 and 54 of the Act. There is no basis to use the fair market value of a capital property as its cost – indeed such an approach would remove the possibility of capital gains being realized for tax purposes. It appears from the evidence that M. Martin built up his clientele over the years. He did not ever buy a list of clients. It appears that all of his expenses of building up his clientele were claimed and allowed as business expenses in the years in which they were incurred. Even if M. Martin’s clientele did constitute property of his which he disposed for no proceeds as a result of what he claims was a theft, there is no evidence that such property had an adjusted cost base greater than nil.
+[12] It is similarly clear from the wording of subsection 40(1) dealing with disposition costs that, in order to qualify and be recognized, expenses must actually have been made or incurred for the purpose of making the disposition. For this reason, CRA was correct to not recognize any of the requested $14,000,000 of disposition costs as an increase to M. Martin’s claimed capital loss in 2010. This amount was not an outlay or expense actually made or incurred for the purpose of making the disposition. It was M. Martin’s estimate of his other losses resulting from the loss of his clientele and the revenue it could generate.
+[13] The concepts of income loss and capital loss in the Act do not exist to reimburse or « dédommager » a person for their loss or « dommages-intérêts » from a breach of contract or a theft. However, that appears to be the substance of M. Martin’s appeal. The tax system does not serve as an insurer of property, nor does the Tax Court of Canada have jurisdiction over claims for damages or restitution.
+[14] For these reasons, the taxpayer’s appeal can not succeed. The taxpayer’s appeal is dismissed, with costs throughout.
+Signed at Toronto, Ontario, this 19th day of June 2014.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 24h day of September 2014
+François Brunet, Revisor
+CITATION:
+2014 TCC 200
+COURT FILE NO.:
+2012-3495(IT)G
+STYLE OF CAUSE:
+LOUIS-FRED MARTIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+April 24, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+June 19, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Me Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Proverbs 6: 30 – 31.

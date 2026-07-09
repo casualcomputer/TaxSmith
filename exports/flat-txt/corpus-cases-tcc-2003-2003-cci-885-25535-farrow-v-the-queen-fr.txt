@@ -1,0 +1,106 @@
+Title: Farrow v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25535/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-885-25535-farrow-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-12-03
+
+# Farrow v. The Queen
+
+- Citation: 2003 CCI 885
+- Decision date: 2003-12-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2375, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Farrow v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-03
+Référence neutre
+2003 CCI 885
+Numéro de dossier
+2000-4698(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-4698(IT)G
+ENTRE :
+WAYNE A. FARROW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 27 novembre 2003 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions
+Avocat de l'appelant :
+Me David J. McLellan
+Avocate de l'intimée :
+Me Karen A. Truscott
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'avocat de l'appelant en vue d'obtenir une ordonnance annulant le jugement de la Cour daté du 22 novembre 2002;
+Et vu les allégations des parties;
+La demande est accueillie.
+L'intimée a droit à ses dépens de la présente requête et de la requête pour rejet que la Cour fixe à 1 000 $ payable quelle que soit l'issue de la cause.
+Signé à Montréal (Québec), ce 3e jour de décembre 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 12e jour de février 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI885
+Date : 20031203
+Dossier : 2000-4698(IT)G
+ENTRE :
+WAYNE A. FARROW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge en chef adjoint Bowman
+[1] Il s'agit d'une requête en vue d'infirmer un jugement rejetant les appels interjetés à l'encontre des cotisations établies pour les années d'imposition 1991, 1992 et 1993. J'ai remis le prononcé du jugement pour le motif que la présente requête soulève quelques nouvelles questions qui, à mon avis, nécessitaient que l'on s'y attarde un peu plus longuement.
+[2] La journée précédant l'audition de la présente requête, l'avocat de l'appelant a signifié à l'avocate de l'intimée un affidavit de M. Farrow. De toute évidence, cet affidavit aurait dû être signifié bien avant cela. À cet égard, l'avocat a expliqué que M. Farrow avait été hospitalisé à la suite d'un accident cérébral vasculaire. J'ai demandé à Me Truscott, l'avocate de l'intimée, si elle souhaitait ajourner l'audience de manière à ce qu'elle puisse contre-interroger M. Farrow ou signifier un affidavit au nom de l'intimée. Elle m'a répondu qu'elle préférait poursuivre les procédures et, par conséquent, j'ai entendu la requête en m'appuyant sur les documents versés au dossier.
+[3] Les faits sont les suivants. L'appelant a fait l'objet de nouvelles cotisations pour les années d'imposition 1991, 1992 et 1993 le 30 mai 1997. Le 15 juillet 1997 et le 6 octobre 1997, il s'est opposé à ces nouvelles cotisations. Un avis de ratification lui a été envoyé par courrier le 26 juillet 2000. Le 23 octobre 2000, son avocat a déposé un avis d'appel devant cette Cour, et le 15 février 2001 l'intimée, à son tour, déposait une réponse à l'avis d'appel. L'adresse domiciliaire ou l'adresse professionnelle de l'appelant ne figurait pas dans l'avis d'appel. Seul y apparaissait l'adresse de son avocat, Me David J. McLellan.
+[4] Une audience sur l'état de l'instance s'est tenue le 11 mars 2002. Me McLellan a avisé la Cour qu'il n'était plus en contact avec M. Farrow et, conséquemment, l'audience sur l'état de l'instance a été ajournée. Il a par la suite déposé un avis d'intention de cesser d'agir à titre d'avocat de l'appelant et il a fourni l'adresse de ce dernier, soit le 208-1448 Johnston Road, à White Rock, en Colombie-Britannique. Cette adresse était incorrecte parce que l'appelant avait déménagé.
+[5] L'intimée a ensuite tenté de signifier personnellement à l'appelant un nouvel avis d'audience sur l'état de l'instance et a envoyé ledit avis au 2295-124th Street, à Surrey, en Colombie-Britannique ainsi qu'à l'adresse du chemin Johnston Road à White Rock, en Colombie-Britannique. Cependant, la Société canadienne des postes a retourné les deux lettres à l'expéditeur.
+[6] L'intimée a alors introduit une requête en irrecevabilité pour défaut de poursuite et un avis a été envoyé à l'adresse du chemin Johnston Road. Une fois de plus, l'avis a été retourné à la Cour avec la mention « non livré » .
+[7] La requête a été entendue par le juge Bell, le 11 octobre 2002. Elle a été accueillie et les appels ont été rejetés. À l'origine, le juge a indiqué dans son jugement que l'appel avait été rejeté pour le motif que l'appelant avait omis de comparaître à l'audition de l'appel. À la demande de l'avocate de l'intimée, des corrections ont été apportées et un jugement modifié a été rendu de manière à refléter le fait que l'appel avait été rejeté sur requête en irrecevabilité pour défaut de poursuit.
+[8] M. Farrow déclare dans son affidavit qu'il a conclu à tort que l'affaire avait été résolue et qu'il n'était donc pas resté en contact avec son avocat, ce qui constitue, à mon avis, une allégation nonchalante et ridicule. Quiconque est quelque peu familier avec les rouages de notre administration fiscale devrait savoir que des cotisations pour plus de 150 000 $ ne s'évaporent pas ainsi simplement dans l'air avec le temps.
+[9] Quoi qu'il en soit, il semble que M. Farrow ait continué d'ignorer le fait que son appel avait été rejeté et que son propre avocat avait cessé d'agir en son nom. L'Agence des douanes et du revenu du Canada a mis un terme à cette insouciance lorsqu'elle lui a fait parvenir un relevé de compte le 10 janvier 2003.
+[10] Le 7 juillet 2003, Me McLellan, qui avait été réembauché par l'appelant, a rédigé une lettre à l'intention de la Cour demandant à ce que le rejet soit annulé et à ce que l'appel soit rétabli.
+[11] Toute cette situation n'est qu'une comédie d'erreurs. M. Farrow est en grande partie responsable de ses propres malheurs, mais à mon avis, son avocat doit également reconnaître sa part de responsabilités pour avoir omis de fournir à la Cour et à l'intimée l'adresse exacte de M. Farrow.
+[12] On ne peut certainement pas critiquer l'intimée ou son avocate.
+[13] Rien ne donne à penser que la Cour n'a pas le pouvoir d'annuler le rejet de l'appel. Hormis la compétence inhérente de la Cour, le paragraphe 140(2) des Règles de la Cour canadienne de l'impôt (procédure générale) lui accorde ce pouvoir. Quant aux articles 9 et 12 de ces mêmes Règles, ils autorisent une prorogation du délai pour présenter une demande.
+[14] Compte tenu de toutes les circonstances, à mon avis, il en va de l'intérêt de la justice que j'infirme le jugement rejetant l'appel et que j'autorise l'appelant à poursuivre la procédure. En exerçant mon pouvoir discrétionnaire, je tiens compte du fait que même si l'appelant doit assumer en grande partie la responsabilité de cette situation, il ignorait réellement que son appel avait été rejeté ou que son avocat s'était retiré de l'affaire. Qui plus est, le montant des sommes en cause dans l'appel est considérable, soit environ 165 000 $ et, par conséquent, il devrait avoir la possibilité de contester. Le délai qui s'est écoulé avant de déposer la requête est malheureux mais n'a pas occasionné de préjudice grave à la Couronne.
+[15] L'avocate a soutenu que hormis le fait que l'appelant a joint l'avis d'appel et la réponse à l'avis d'appel à son affidavit, il n'a pas démontré que son appel était défendable. Je reconnais que la Cour doit être convaincue que la partie en litige qui tente d'obtenir l'annulation d'un jugement par défaut a une cause défendable, mais le seuil est relativement peu élevé. Je ne crois pas qu'il soit nécessaire qu'une partie en litige témoigne ou qu'elle appelle à témoigner pour démontrer qu'il existe une preuve prima facie. De plus, le fait pour l'appelant ou pour son avocat de faire une déclaration intéressée telle que « je suis convaincu que mes motifs sont valables » n'ajoute pas grand poids à l'affaire du requérant. Dans l'affaire Hamel v. Chelle, 48 WWR 115, la Cour d'appel de la Saskatchewan se penche sur cette question à la page 118 :
+[Traduction]
+Le savant avocat du demandeur a soutenu que puisque l'affidavit déposé en preuve pour appuyer la demande était celui du procureur et que ce dernier s'était fondé sur des renseignements et des convictions, le document n'était pas suffisant pour permettre à la Cour d'agir. Pour appuyer cette allégation, il a renvoyé la Cour à la décision Miller and Smith v. Ross (1909) 12 WLR 315, 2 Sask LR 449. Dans cette affaire, le procureur a déposé en preuve un affidavit dans lequel il a déclaré ce qui suit (à la page 451) :
+À mon avis, les défendeurs disposaient de moyens de défense valables, comme il est exposé dans la défense aux présentes et, par conséquent, ils devraient être autorisés à instruire une telle action pour assurer leur défense.
+Le juge en chef Wetmore a soutenu que cet affidavit n'est pas suffisant, mais, toujours à la même page, il poursuit ensuite en affirmant ce qui suit :
+Si M. Panton, pour expliquer les raisons l'ayant incité à penser de la sorte, avait déclaré que « c'est le défendeur qui l'en avait informé » , alors je ne peux affirmer que l'affidavit était insuffisant à l'égard d'une demande de décision interlocutoire comme celle en l'espèce.
+[16] Si l'on tient compte de l'avis d'appel et de la réponse à l'avis d'appel, il semble qu'il s'agit d'une question susceptible d'être tranchée par la justice. Manifestement, l'appel n'est pas frivole. Il ressort des plaidoiries que la question en est une de fait et qu'elle peut dépendre de la crédibilité des témoins, ce que je ne peux déterminer à l'égard d'une requête comme celle en l'espèce. Il s'agit là d'une question qui devrait être trancher au cours d'un procès par un juge qui aura la possibilité de voir les témoins. Je suis convaincu que les documents démontrent que l'appel est suffisamment fondé pour permettre à l'appelant de poursuivre la procédure.
+[17] Les principes sur lesquels la présente Cour s'appuiera pour infirmer un jugement par défaut sont analysés plus à fond dans l'affaire Hamel, précitée. Aux pages 117 et 118, le juge en chef Culliton (Saskatchewan) déclare ceci :
+[Traduction]
+Le juge d'appel Lamont, dans l'affaire Klein v. Schile [1921] 2 WWR 78, 14 Sask LR 220, énonce les principes sur lesquels une cour, à sa discrétion, s'appuiera pour infirmer un jugement légalement enregistré. Ainsi, à la page 79, il affirme ce qui suit :
+Les circonstances dans lesquelles une cour exercera son pouvoir discrétionnaire en vue d'infirmer un jugement consigné en toute régularité sont assez bien établies. La demande devrait être déposée dès que possible, après que le défendeur aura pris connaissance du jugement. Toutefois, un simple délai ne fera pas obstacle à la demande, sauf si un dommage irréparable est causé au demandeur ou si le délai est délibéré (Tomlinson v. Kiddo (1914), 7 WWR 93, 29 WLR 325, 7 Sask LR 132; Mills v. Harris & Craske (1915), 8 WWR 428, 8 Sask LR 114). Par ailleurs, la demande devrait être appuyée par un affidavit qui doit énoncer les circonstances dans lesquelles le jugement par défaut a été prononcé et présenter une défense valable (Chitty's Forms,13e éd., p. 83).
+Il ne suffit pas de déclarer simplement que le défendeur dispose d'une défense valable. Les affidavits doivent révéler la nature de la défense et exposer les faits qui permettront à la Cour ou au juge de déterminer s'il y a lieu de présenter une défense à l'égard de l'action en justice intentée (Stewart v. McMahon (1908), 7 WLR 643, 1 Sask LR 209).
+Si la demande n'est pas déposée immédiatement après que le défendeur a pris connaissance du jugement qui a été consigné contre lui, les affidavits devraient aussi expliquer la raison du délai qui s'est écoulé avant de déposer la demande; de même, si le délai est de trop longue durée, la défense sur le fond doit être clairement établie (Sandhoff v. Metzer (1906), 4 WLR 18 (N.W.T.).
+[18] Par conséquent, la demande est accueillie et le jugement rejetant les appels est annulé.
+[19] Étant donné que la conduite de l'intimée était totalement irréprochable et que l'appelant est le seul responsable de toutes ces difficultés, j'accorde à la Couronne ses dépens de la présente requête et de la requête pour rejet que la Cour fixe à 1 000 $ payable quelle que soit l'issue de la cause.
+Signé à Montréal (Québec), ce 3e jour de décembre 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 12e jour de février 2004.
+Nancy Bouchard, traductrice

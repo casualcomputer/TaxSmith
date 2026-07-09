@@ -1,0 +1,122 @@
+Title: Maxi Maid Services Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30812/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-178-30812-maxi-maid-services-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-05-29
+
+# Maxi Maid Services Ltd. v. The Queen
+
+- Citation: 2012 TCC 178
+- Decision date: 2012-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7555, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maxi Maid Services Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-29
+Neutral citation
+2012 TCC 178
+File numbers
+2011-2476(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2476(IT)I
+BETWEEN:
+MAXI MAID SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 9, 2012, at Kelowna, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Darren Umeris
+Counsel for the Respondent:
+Holly Popenia
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is allowed and the penalty assessment is hereby vacated.
+Signed at Ottawa, Canada, this 29th day of May 2012.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2012 TCC 178
+Date: 20120529
+Docket: 2011-2476(IT)I
+BETWEEN:
+MAXI MAID SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Maxi Maid Services Ltd. ("Maxi Maid") is appealing by way of the informal procedure the Minister of National Revenue’s (the "Minister") assessment of a penalty for failure to remit source deductions on a timely basis (s. 227(9) of the Income Tax Act (the "Act")).
+[2] Unfortunately, the Appellant’s representative, the sole shareholder and director, Mr. Umeris, presented somewhat vague testimony as to what actually transpired. I have gleaned from his evidence, however, some key points.
+[3] First, for reasons that are not completely clear, Mr. Umeris in 2008 changed Maxi Maid’s normal pattern of paying him a bi-weekly wage to instead taking draws from the company, which Mr. Umeris intended to be dividends. Throughout 2008 these dividend draws of $1,800 to $2,000 every second week totalled just over $40,000. This amount was less than what Mr. Umeris took as salary in 2007 or in 2009.
+[4] Maxi Maid’s year end is October 31.
+[5] In April 2009, when preparing to file his personal return, Mr. Umeris met with his accountant to obtain the necessary T5 Dividend Form, only to be advised that Maxi Maid was not in a position to pay out dividends, but instead the company would have to pay wages. An amount of $50,000 was determined to be the appropriate salary for Mr. Umeris to have earned in 2008. Mr. Umeris proceeded to prepare, in April 2009, the necessary T4 slip and summary reflecting a $50,000 salary in 2008. He then, again in April 2009, prepared an adjusting entry reversing the dividends payments. It reads:
+Adjusting Entry December 30, 2008
+Debits Credits
+2680 – Loans from shareholder $1,255.05
+1060 – Chequing Bank Acct $39,344.95
+5745 – Shareholder Draw or Dividend $40,600.00
+Adjusting Entry required to eliminate Shareholder Dividend/Draw expense.
+[6] Mr. Umeris also calculated the necessary source deductions on the $50,000 wage, approximately $12,773 and remitted that to the Government in May 2009.
+[7] The Canada Revenue Agency ("CRA"), in receiving Maxi Maid’s 2008 T4 Summary showing $50,000 in salary paid in 2008, yet not receiving the source deduction of $12,773 until May 2009, assessed a late filing penalty pursuant to s. 227(9) of the Act which reads:
+227(9) Subject to subsection (9.5), every person who in a calendar year has failed to remit or pay as and when required by this Act or a regulation an amount deducted or withheld as required by this Act or a regulation or an amount of tax that the person is, by section 116 or by a regulation made under subsection 215(4), required to pay is liable to a penalty of
+(a) subject to paragraph (b), if
+(i) the Receiver General receives that amount on or before the day it was due, but that amount is not paid in the manner required, 3% of that amount,
+(ii) the Receiver General receives that amount
+(A) no more than three days after it was due, 3% of that amount,
+(B) more than three days and no more than five days after it was due, 5% of that amount, or
+(C) more than five days and no more than seven days after it was due, 7% of that amount, or
+(iii) that amount is not paid or remitted on or before the seventh day after it was due, 10% of that amount; or
+(b) where at the time of the failure a penalty under this subsection was payable by the person in respect of an amount that should have been remitted or paid during the year and the failure was made knowingly or under circumstances amounting to gross negligence, 20% of that amount.
+[8] The Respondent maintains that the payments made bi-weekly throughout 2008 were in reality salary payments and that Mr. Umeris’ accounting adjusting entry in April 2009, reversing the dividend draw, reflects this reality. The Respondent also contends that that conclusion is more in line with the facts that salary was paid bi-weekly to Mr. Umeris by Maxi Maid in the years prior to and subsequent to 2008. What this position reflects, however, is a breach of s. 227(8) of the Act, rather than s. 227(9) of the Act. It is clear that s. 227(9) of the Act requires a failure to remit when monies have been withheld, not a failure to remit monies that were never withheld but perhaps should have been. Penalties for failure to withhold is found in s. 227(8) of the Act which reads:
+227(8) Subject to subsection (8.5), every person who in a calendar year has failed to deduct or withhold any amount as required by subsection 153(1) or section 215 is liable to a penalty of
+(a) 10% of the amount that should have been deducted or withheld; or
+(b) where at the time of the failure a penalty under this subsection was payable by the person in respect of an amount that should have been deducted or withheld during the year and the failure was made knowingly or under circumstances amounting to gross negligence, 20% of that amount.
+[9] Unfortunately, I did not address this with Crown counsel at trial though Ms. Popenia did argue that s. 227(9) of the Act applies to a failure to remit funds that should have been withheld. I disagree. That is not how the provision reads.
+[10] S. 227(8) of the Act explicitly states that if the taxpayer has failed to withhold, the taxpayer is subject to a penalty. If the taxpayer has failed to remit funds withheld on a timely basis that is a different penalty (227(9) of the Act). In this case, Maxi Maid did not fail to remit funds withheld on a timely basis. It withheld in April 2009 and remitted in May 2009.
+[11] It would be a waste of time, effort and resources to allow the appeal on the basis alone that the taxpayer has been assessed pursuant to the wrong provision, only to have the Crown turn around and assess under s. 227(8) of the Act, presumably on the basis it can overcome the three-year limitation period requiring a misrepresentation due to neglect, carelessness or wilful default.
+[12] The difficulty facing the Minister is that in the assessment of a penalty, the onus of proof is on the Minister. The Minister has been unable to meet that onus by proving on balance that funds were withheld in 2008. To prove Maxi Maid ran afoul of the s. 227(8) of the Act penalty, the Minister would have to prove salary was paid in 2008. Unfortunately, Mr. Umeris did not produce any company books or records that shed any light on what actually transpired in 2008. We are left with his uncontradicted evidence that he took draws in the form of dividends and only in April 2009 were steps taken to rectify this situation. There is no proof that the so‑called dividend draws were just a figment of Mr. Umeris’ imagination. I accept that Maxi Maid did not make bi-weekly salary payments throughout 2008 to Mr. Umeris.
+[13] Does then the somewhat unusual adjusting journal entry magically turn the clock back such that an $1,800 amount withdrawn by Mr. Umeris from the company in September 2008, for example, had at that time in September 2008 the character of salary, such that Mr. Umeris should have known to have Maxi Maid make source deductions. Or as Chief Justice Bowman indicated in VanNieuwkerk v. Canada[1], does the accounting entry create reality or reflect reality. I would add to this thought – or do neither.
+[14] What this leads to is that, even if I interpret the situation that the accounting entry had such an effect, this would provide Mr. Umeris with a due diligence defence, which I find is available in respect of s. 227(8) of the Act penalties (see comments by Justice Bowie in 741290 Ontario Inc. v. Canada[2]). As Maxi Maid and Mr. Umeris did not intend, at the relevant time, that the withdrawals were salary, how can Maxi Maid be faulted for not withholding and remitting source deductions. Has the company acted reasonably? It is not uncommon for small businesses to sort out at year end how the owner/manager is to be paid. The Minister’s position would require that this decision be made at the time of each and every draw made by a company to its owner/manager. That is not in line with commercial reality. Mr. Umeris has not helped sort this all out with his vague understanding of accounting and lack of corroborative documentation. But, for purposes of this appeal, I am satisfied the Minister has been unable to prove that an amount was withheld in 2008 and not remitted on a timely basis.
+[15] Mr. Umeris’ brief foray into determining an appropriate split of remuneration between dividend and salary has proven something of a fiasco. As I indicated to him at trial and, I repeat, he would do well to obtain competent professional accounting advice to ensure he is not caught in this situation in the future.
+[16] The appeal is allowed and the penalty assessment is vacated.
+Signed at Ottawa, Canada, this 29th day of May 2012.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2012 TCC 178
+COURT FILE NO.: 2011-2476(IT)I
+STYLE OF CAUSE: MAXI MAID SERVICES LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: May 9, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: May 29, 2012
+APPEARANCES:
+Agent for the Appellant:
+Darren Umeris
+Counsel for the Respondent:
+Holly Popenia
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2003 TCC 670.
+[2] 2011 TCC 91.

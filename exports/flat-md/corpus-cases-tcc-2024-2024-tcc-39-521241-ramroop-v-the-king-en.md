@@ -1,0 +1,178 @@
+---
+title: "Ramroop v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521241/index.do"
+last_modified: "2024-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 39"
+citation2: ""
+neutral_citation: "2024 TCC 39"
+decision_date: "2024-03-26"
+language: "en"
+item_id: "521241"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5745
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:52:52.738000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "26e647bd4d2106bc40d4c851c31d68aebe8635728d1dd97df31e4b7d1cb69c6c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ramroop v. The King
+
+- Citation: 2024 TCC 39
+- Decision date: 2024-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5745, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ramroop v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-03-26
+Neutral citation
+2024 TCC 39
+File numbers
+2019-2367(IT)I
+Judges and Taxing Officers
+John Yuan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2367(IT)I
+BETWEEN:
+RAJESH RAMROOP,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 29, 2024 at Toronto, Ontario
+Before: The Honourable Justice John C. Yuan
+Appearances:
+Agent for the Appellant:
+Tim Okafor
+Counsel for the Respondent:
+Christopher Ware
+Tiffany Farrugia (Student-at-Law)
+JUDGMENT
+In accordance with the attached Reasons for Judgment,
+The appeal from a reassessment made under the Income Tax Act in respect of the Appellant’s 2006 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 26th day of March 2024.
+“John C. Yuan”
+Yuan J.
+Citation: 2024 TCC 39
+Date: 20240326
+Docket: 2019-2367(IT)I
+BETWEEN:
+RAJESH RAMROOP,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Yuan J.
+[1] This is an appeal of a reassessment of the Appellant’s 2006 taxation year, as reflected in a Notice of Reassessment dated March 14, 2016.
+[2] Under the reassessment, the Minister of National Revenue adjusted the Appellant’s liability under Part I of the Income Tax Act (Canada) (“ITA”) to deny the Appellant’s claim for a charitable donation tax credit under subsection 118.1(3) in respect donations made in 2006 to The Mega Church International (“Mega Church”), which claim the Minister had previously allowed when assessing his 2006 tax return as filed.
+[3] The normal reassessment period for the Appellant’s 2006 taxation year lapsed in 2010. Consequently, the Minister relied on paragraph 152(4)(a) of the ITA to reassess beyond the normal reassessment period.
+[4] In light of the foregoing, the two issues in the appeal were:
+Whether the Minister was entitled to rely on paragraph 152(4)(a) of the ITA to reassess beyond the normal reassessment period, and
+If the Minister was allowed to reopen the 2006 tax year, whether the Appellant was entitled to the tax credits claimed in respect of donations made to Mega Church.
+I. BACKGROUND
+[5] In years around 2006, the Appellant was a car mechanic who was employed with different auto dealerships in southern Ontario. He also lived in various residences in southern Ontario during that time.
+[6] When filing his 2006 tax return, he claimed $6,000 as a charitable donation made to Mega Church, attaching a tax receipt issued by the donee.
+[7] In each of the three years prior to 2006, he made charitable donations that were, in aggregate, similar to the $6,000 amount that he claimed in 2006 as donations to Mega Church. The Minister reassessed the Appellant to fully disallow the prior charitable donation claims, primarily on the basis that the Appellant was unable to provide proof of the transfer of funds to the charitable organizations in the course of the Canada Revenue Agency’s audit of his tax returns for those years. (The Appellant’s pattern of claiming around $6,000 of charitable donations in his tax return for a year and having the Minister reassess to fully disallow the claim was repeated in 2008 to 2010; however, any details surrounding the donations for this period and the Minister’s basis for denying these tax credit claims were not put into evidence by either party.)
+[8] For the 2003 to 2006 period, the Appellant reported annual employment earnings in the range $30,447 to $47,538 and annual net income in the range $22,936 to $47,538.
+II. BURDEN OF PROOF
+[9] It is well-established that the Minister has the onus of proof when seeking to rely on paragraph 152(4)(a) of the ITA to reassess beyond the normal reassessment period. However, if the Minister satisfies that onus and the substance of the dispute is about entitlement to a claimed tax credit, the burden shifts to the taxpayer to demonstrate that the taxpayer is entitled to the amounts claimed: see, for example, Calphin, 2015 TCC 158.
+[10] At the hearing of the appeal, the Appellant’s representative made a tactical decision to not enter any evidence as part of his case, apart from the cross-examination of witnesses called by the Respondent. In doing so, the Appellant’s representative essentially restricted the Appellant’s case in this appeal to the Court’s determination on the issue of whether the Minister was entitled to reassess the Appellant’s 2006 tax year beyond the normal reassessment period; this is because the Appellant would have the burden of proving entitlement to the tax credits if the Minister was successful on the first issue and yet the Appellant was not entering any evidence to show that he had met the requirements for claiming the charitable donation tax credit under subsection 118.1(3) of the ITA for a donation to Mega Church.
+III. REASSESSMENT BEYOND THE NORMAL REASSESSMENT PERIOD
+[11] The relevant portions of paragraph 152(4)(a) of the ITA provide, as follows:
+(4) Assessment and reassessment – The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year … payable under this Part by a taxpayer … except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act …
+[12] Where the Minister seeks to rely on a taxpayer misrepresentation in a tax return to open up the tax year, the Minister must show that (i) there was a misrepresentation made in the tax return, and (ii) the misrepresentation was attributable to neglect, carelessness or wilful default.
+[13] In this appeal, the Minister argued that there were two misrepresentations that the Appellant made in his 2006 tax return which would justify reopening the 2006 tax year. The first alleged misrepresentation is the claim for a charitable donation of $6,000 to Mega Church on Schedule 9 of the Appellant’s 2006 T1 return for the purpose of receiving a tax credit. The second alleged misrepresentation is the Appellant’s failure to include the name and address for Mr. Nathaniel Okoroafor in box 490 of the Appellant’s 2006 T1 return for the purpose of identifying the professional who prepared the return.
+(1) Claiming $6,000 Charitable Donation in T1 Return
+[14] The Minister’s principal argument in support of reassessing beyond the normal reassessment period was that the evidence supports a finding that the Appellant did not make any payments in 2006 to Mega Church and, therefore, the Appellant made a misrepresentation by neglect, carelessness or wilful default in his 2006 T1 return by claiming to have made a $6,000 donation despite not having made a payment or otherwise given value to that entity in the year.
+[15] At the hearing, there was little direct evidence concerning the payments that the Appellant was relying on to support his claim for the $6,000 donation to Mega Church in 2006. That small amount of evidence was given by the Appellant, who was called as a witness as part of the Respondent’s case.
+[16] The Appellant’s testimony was that he attended the Mega Church location on several occasions with his brother in 2006 and, each time, he provided the pastor with a donation by way of a bank draft payable to Mega Church.
+[17] When listening to the Appellant’s testimony, it was my impression that he likely did not try to refresh his memory in the days leading up to the hearing with respect to his 2006 donations to Mega Church and the surrounding circumstances. I was prepared to accept that his failure to accurately recount some of the secondary details was attributable to the passage of time combined with the possibility that he did not bother to refresh his memory. For example, he gave testimony that he received tax receipts from Mega Church contemporaneously with each payment, but this testimony is at odds with the fact that he attached to his 2006 tax return a single Mega Church receipt for $6,000. I reconciled this discrepancy on the basis that the Appellant could have become confused in the course of his testimony between the tax receipts issued by a charitable organization and the purchaser’s copy of a bank draft.
+[18] However, I was unable to resolve the inconsistencies in the Appellant’s testimony concerning the frequency of his attendance at the Mega Church location, having regard for the impact the differing versions would have had on the number and face amount of bank drafts purchased by the Appellant for payments to Mega Church in 2006 and the number of times he would have had to attend his bank to purchase same.
+[19] The Respondent initially asked the Appellant on the witness stand whether he attended Mega Church weekly and, in response, the Appellant said that the visits were not weekly but probably twice a month. This corresponds to approximately 24 Mega Church visits in 2006. Later, he testified that he attended the Mega Church location three times in 2006 and, on each occasion, he gave Mega Church a donation of $2,000 by way of bank draft. This was his version of events through most of his testimony. However, when the Respondent returned to the topic of Mega Church later in questioning, the Appellant testified that he attended Mega Church with his brother every Sunday; this would correspond to 52 visits in 2006.
+[20] If the Appellant attended the Mega Church on a semi-monthly basis as he initially testified, there would have been 24 bank drafts averaging $250 each. When he said that he attended Mega Church three times in 2006, he also testified that there were three bank drafts delivered for $2,000 each. And, if the Appellant attended Mega Church weekly as he later testified, there would have been 52 bank drafts with average amounts of $115 each. It is important to note that, in advance of each Mega Church visit, the Appellant would have had to go to his bank to purchase a bank draft for his next Mega Church visit.
+[21] I am unable to understand how it is possible for the Appellant to be testifying about his own Mega Church-related activities in 2006 and, in the same testimony, give evidence that suggests different versions of the same events. At one end, he would have attended at his bank on 52 occasions to purchase a bank draft of approximately $115 and, at the other end, he would have attended his bank on three occasions to purchase a bank draft of approximately $2,000. For this reason, I find the Appellant’s testimony concerning his attendance at, and donations to Mega Church, to be neither credible nor reliable.
+[22] While I reject the Appellant’s testimony about attending and making payments to Mega Church in 2006 for the reasons above, I am not satisfied that the rejection of the Appellant’s evidence on the delivery of bank drafts to Mega Church on its own is sufficient to allow me to conclude that the Minister had established on a balance of probabilities that the Appellant did not make payments to Mega Church in 2006 of $6,000 in aggregate.
+[23] I recognize that there are additional evidentiary challenges when one is trying to prove a negative – in this case that payments alleged to have been made, were not actually made – but it strikes me that there may have been opportunities for the Respondent to enter evidence in this appeal towards making a prima facie case that the Appellant could not have donated $6,000 in aggregate to the Mega Church in 2006 based on an analysis of his known sources of funds and probable outlays in 2006, which is similar to the approach that the Minister uses in the case of net worth assessments. Perhaps the Respondent did not have the financial data to prepare such an analysis but, whatever the reason, the Respondent did not introduce evidence giving the Court the Minister’s version of the Appellant’s financial situation in 2006 and the improbability of him making $6,000 in donations to Mega Church in 2006.
+[24] The Respondent did put into evidence financial data from the Appellant’s 2001 to 2011 tax returns and invited the Court to take into account patterns concerning the charitable giving reported in those returns to support a finding that the Appellant did not deliver $6,000 in bank drafts to Mega Church in 2006. More particularly, the Respondent drew the Court’s attention to the fact that the $6,000 amount of the Appellant’s claimed donation to Mega Church in 2006 represented 12.62% of the Appellant’s net income for the 2006 taxation year and that, for example, the charitable donations claimed in the years 2003 to 2005 (which were also disallowed by the Minister) represented the range of 17.77% to 26.16% of the Appellant’s net income for those years. The Respondent spent considerable time going over this data when putting it into evidence and in the course of argument. Obviously, on its own, this is not evidence that directly supports the conclusion that the Appellant was unable to purchase $6,000 in bank drafts for payment to Mega Church in 2006, as the amount of the charitable donations claimed in 2006 and the other large donation years were still substantially less than the Appellant’s net income for the year. In my view, statistical measures of the percentage of charitable giving in a year to net income for the year are useful audit tools for the Minister to identify the taxpayers who might be candidates to have their charitable donations more closely scrutinized. However, if the Respondent’s point in all this was that the Appellant could not have the financial resources to make the payments to charities, then more evidence was required on where his 2006 income was going and precluding the possibility that the Appellant had other non-taxable sources of funds to make the donations.
+[25] The Respondent also invited me to consider the Appellant’s failure to produce copies of the bank drafts or any relevant bank statements at the hearing and then draw an adverse inference from the fact that such documents were not put into evidence. The Respondent mostly emphasised the Appellant’s failure to produce copies of bank drafts purchased in 2006 that were payable to Mega Church, together with the fact that the CRA had sent him correspondence in 2006 that insisted on proof of payment in connection with their audit of his charitable donations made in 2003, 2004, and 2005 and, therefore, he should have been on notice to obtain or retain copies of any bank drafts purchased to make donations to Mega Church in 2006. I presume that the Respondent wanted me to draw the adverse inferences that (i) copies of bank drafts payable to Mega Church were not produced because none were purchased, and (ii) the relevant bank statements for 2006 would not contain entries that would correspond to the purchase of bank drafts payable to Mega Church. I have decided that making those adverse inferences cannot be justified in the circumstances. First, the jurisprudence establishes that an adverse inference should only be drawn when the party having the burden of proof has made out a prima facie case (see: Sopinka, Lederman & Bryant, The Law of Evidence in Canada (6th ed.) (Toronto, ON: Lexis Nexis Canada, Inc., 2022), paragraph 6.511). In this case, the Minister had the burden of proof to show that the Appellant could not have made payments to Mega Church of $6,000 in aggregate in 2006 and I did not feel that the Respondent made out a prima facie case through the evidence on this point. Second, it would be inappropriate to draw an adverse inference in circumstances where the party against whose interest the inference would be drawn has a credible explanation for why the evidence was not provided. Here, the Appellant’s explanation was that the documents do not exist because he did not retain them and the banks do not maintain records from so long ago. I would be more inclined to reject the Appellant’s explanation of why he did not retain or obtain the banking-related records if the Respondent was able to show that there was an on-going correspondence exchange with the Appellant concerning the proof of payment for his 2006 charitable donation, well within the time frame during which banks would be expected to retain their client records for a 2006 transaction. However, that was not the nature of the evidence that the Respondent tendered in support of the position that the Appellant “was put on notice”, so I do not consider the CRA’s correspondence pertaining to the 2003, 2004, and 2005 audit to be relevant for purposes of making an adverse inference from his failure to produce copies of relevant bank drafts evidencing payment to Mega Church in 2006.
+[26] Finally, the Respondent asked me to find that the Appellant likely did not make $6,000 in payments to Mega Church in 2006 because the Mega Church, along with all the other charities he donated to in the 2003 to 2006 period, had their charitable registrations revoked by the Minister in years subsequent to 2006. I am unable to see how the Minister’s revocation of charitable status subsequent to the year of the relevant donation claim can be considered information that calls into question whether the Appellant made payments to Mega Church or any of the other charities to which he claimed to have made donations in 2003 to 2006. Even if the Appellant was aware of the matters that the Minister was reviewing in connection with these entities prior to the revocation of their charitable registrations -- and there was no evidence to suggest that the Appellant was so aware -- his knowledge of this information might speak to his motivations for making the donations, but not whether he actually made the payments to those entities in the years claimed. Again, in this appeal, the onus was on the Minister to show that the payments were not made and the fact that the Minister subsequently revoked the charitable status of those entities is not relevant to that point.
+[27] However, even though I do not agree with the Respondent’s submissions on the significance of this other evidence, I find myself resolving the question at hand by returning to inconsistency in the Appellant’s testimony on his pattern of visits to Mega Church in 2006. Earlier, I said that the Appellant’s failure to provide a consistent account of his 2006 Mega Church transaction pattern led me to reject his testimony as proof of the frequency of his 2006 Mega Church payments and the amount each time. But, the impact of the inconsistency in his testimony on this point goes further. Six thousand dollars is a significant amount of money for any individual and it is inconceivable that a person could purport to be transacting with Mega Church and his bank in aggregate amounts of this magnitude and not clearly recall whether it was 3, 24 or 52 visits or that the face amounts of the bank drafts were $2,000, $250 or $115. While I was prepared to accept some imprecision or small inconsistencies in the Appellant’s recollection of visits to Mega Church in 2006 and delivery of bank drafts on each visit, I find the fact that the Appellant gave starkly inconsistent accounts of his 2006 visits to Mega Church and, by implication, his visits to his bank to purchase bank drafts for delivery to Mega Church supports the conclusion that the aggregate amount of bank drafts that he gave Mega Church could not have been $6,000. It is on this basis I conclude that, on a balance of probabilities, the Appellant did not purchase and deliver bank drafts payable to Mega Church in 2006 with face amounts of $6,000 in aggregate.
+[28] Accordingly, the Minister is entitled to rely on paragraph 152(4)(a) of the ITA on the basis of the Appellant’s wilful misrepresentation in his 2006 T1 return that he made $6,000 in aggregate donations to Mega Church in 2016.
+IV. FAILURE TO IDENTIFY MR. OKOROAFOR AS PROFESSIONAL TAX PREPARER ON T1 RETURN
+[29] Having decided above that the Minister is entitled to reassess pursuant to paragraph 152(4)(a) of the ITA on the basis of the Appellant’s misrepresentation concerning the amount of his donation to Mega Church, it is unnecessary for me to consider the Minister’s secondary argument that the Minister would be entitled to reassess beyond the normal reassessment period for 2006 on the basis of the Appellant’s failure to report in box 490 of his 2006 T1 Return the name and address of the tax professional who prepared the return. But, if I were required to consider the question, I would have found that the Minister cannot rely on this type of misrepresentation to justify a reassessment that disallowed charitable donation tax credits.
+[30] On its face, box 490 of the 2006 T1 Return does not identify the defining features of a person who should be considered to be a “professional tax preparer” for this purpose. Moreover, Respondent did not put before me any evidence concerning Mr. Okoroafor’s professional credentials and what guidance, if any, the CRA gave for completing box 490 in its published guide for the 2006 T1 return. Consequently, it’s not clear to me that there is a factual basis for concluding that the Appellant made a misrepresentation due to neglect, carelessness or wilful default by failing to ensure that box 490 included Mr. Okoroafor’s name and address.
+[31] However, even if I were to find that the Appellant made a misrepresentation due to neglect, carelessness, or wilful default by not identifying his tax preparer, I have concluded that subparagraph 152(4.01)(a)(i) would apply to prevent the Minister from using paragraph 152(4)(a) to reassess the Appellant beyond the normal reassessment period to deny the charitable donation tax credit in respect a donation to Mega Church.
+[32] The relevant version of subparagraph 152(4.01)(a)(i) provides, as follows:
+(4.01) Assessment to which para. 152(4)(a) or (b) applies – Notwithstanding subsections [152](4) and (5), an assessment, reassessment or additional assessment to which any of paragraphs 4(a) or 4(b) applies in respect of a taxpayer for a taxation year may be made after the taxpayer’s normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
+(a) where paragraph (4)(a) applies to the assessment, reassessment or additional assessment
+(i) any misrepresentation made by the taxpayer…that is attributable to neglect, carelessness or wilful default or any fraud committed by the taxpayer….in filing the return or supplying the information under this Act, …
+[33] Thus, while paragraph 152(4)(a) establishes the circumstances in which the Minister can open a taxpayer’s otherwise statute-barred taxation year, paragraph 152(4.01)(a) places limits on the reassessment power under paragraph 152(4)(a) by requiring that the adjustments in the reassessment be reasonably related to the taxpayer’s misrepresentation. And, in my view, the Minister’s denial of the tax credit in respect of a charitable donation to Mega Church is not an adjustment that can be reasonably regarded as relating to the Appellant’s failure to identify Mr. Okoroafor’s name and address in box 490 of the Appellant’s 2006 T1 Return.
+V. ENTITLEMENT TO THE CHARITABLE DONATION TAX CREDIT
+[34] Having determined that the Minister is entitled to rely on paragraph 152(4)(a) to reassess the Appellant’s 2006 taxation year beyond the normal reassessment period on the basis of a misrepresentation about the charitable donations made in 2006, I move to the question of whether the Appellant is entitled to a charitable donation tax credit under subsection 118.1(3) of the ITA for that amount.
+[35] On this question, the burden is on the Appellant to demonstrate that he met the requirements for claiming the tax credit under subsection 118.1(3) of the ITA for a gift made to Mega Church in 2006.
+[36] I agree with the Respondent that the undated receipt numbered 61833 issued to the Appellant by Mega Church did not comply with the requirements prescribed by subsection 3501(1) of the Income Tax Regulations. More specifically, the receipt did not identify the place that the receipt was issued (as required by paragraph 3501(1)(d)) and, since the Appellant testified that his donation was made by way of bank drafts rather than cash, the receipt also did not identify the dates of the gifts or include a brief description of the property (as required by 3501(1)(e.1)). By virtue of paragraph 118.1(2)(a), a donation receipt for a charitable gift that does not include the information prescribed by the Income Tax Regulations cannot be included in the pool of gifts on which a taxpayer can claim a tax credit under subsection 118.1(3), as confirmed by the Federal Court of Appeal in Kueviakoe, 2021 FCA 64.
+[37] Accordingly, the fact that the Mega Church receipt does not comply with subsection 3501(1) of the Income Tax Regulations is dispositive and precludes the Appellant from receiving a tax credit under subsection 118.1(3) for any 2006 gifts to Mega Church covered by that receipt.
+VI. CONCLUSION
+[38] I find that the Minister was entitled to reassess the Appellant’s 2006 taxation year beyond the normal reassessment period pursuant to paragraph 152(4)(a) of the ITA and, in so reassessing, the Minister was correct to deny the Appellant’s claim for tax credits under subsection 118.1(3) in respect of any 2006 gifts made to Mega Church represented by receipt number 61833.
+[39] The appeal will be dismissed. There will be no award as to costs.
+Signed at Ottawa, Canada, this 26th day of March 2024.
+“John C. Yuan”
+Yuan J.
+CITATION:
+2024 TCC 39
+COURT FILE NO.:
+2019-2367(IT)I
+STYLE OF CAUSE:
+RAJESH RAMROOP v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 29, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John C. Yuan
+DATE OF JUDGMENT:
+March 26, 2024
+APPEARANCES:
+Agent for the Appellant:
+Tim Okafor
+Counsel for the Respondent:
+Christopher Ware
+Tiffany Farrugia (Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

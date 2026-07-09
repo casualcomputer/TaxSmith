@@ -1,0 +1,304 @@
+Title: Beaulieu c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30209/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-86-30209-beaulieu-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-02-14
+
+# Beaulieu c. La Reine
+
+- Citation: 2011 CCI 86
+- Decision date: 2011-02-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7772, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beaulieu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-14
+Référence neutre
+2011 CCI 86
+Numéro de dossier
+2009-16(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-16(IT)G
+ENTRE :
+BERTRAND BEAULIEU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 7 et 8 octobre 2010, à Shawinigan (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l’appelant :
+Me François Daigle
+Avocate de l'intimée :
+Me Janie Payette
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2003 est rejeté, avec dépens à l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de février 2011.
+« Alain Tardif »
+Juge Tardif
+Référence : 2011 CCI 86
+Date : 20110214
+Dossier : 2009-16(IT)G
+ENTRE :
+BERTRAND BEAULIEU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif à l’année d’imposition 2003. L’appel soulève deux questions, que l’intimée a formulées comme suit :
+- La question en litige consiste à déterminer si le ministre du Revenu national (« ministre ») avait raison d’ajouter dans le calcul du revenu de l’appelant à l’égard de l’année d’imposition 2003, le montant de 525 000 $ à titre de revenu provenant d’un REÉR.
+- Plus particulièrement, il s’agit de déterminer si l’appelant était un actionnaire désigné ou un actionnaire rattaché de la société Cédrican immédiatement après les acquisitions d’actions de catégorie « B » de Cédrican par le fiduciaire CTI Capital, au sens du paragraphe 4901(2) du Règlement de l’impôt sur le revenu.
+[2] L’avis d’appel se lit comme suit :
+HISTORIQUE
+1. L’appelant est un particulier ayant investi la somme de CINQ CENT VINGT-CINQ MILLE DOLLARS (525 000 $) dans la compagnie Cédrican inc. (ci‑après désignée la « Compagnie »);
+2. Cette somme a été investie dans l’année d’imposition 2003;
+3. L’appelant s’est fait cotiser en vertu de 165(3) L.I.R. relativement à ce placement;
+4. L’appelant s’est opposé le 24 avril 2006;
+5. Le ou vers le 19 mai 2006, un accusé-réception signé par Thalia Farrar, de l’Agence du Revenu, était expédié;
+6. Ce même jour, elle écrivait à l’appelant, lui indiquant qu’elle le considérait rattaché au sens de 4901 R.I.R.;
+7. Le 26 juin 2006, des représentations écrites étaient faites par la firme soussignée;
+8. Le ou vers le 15 juillet 2008, le chef d’équipe de la division des appels de l’ARC (région de Québec), monsieur Réjean Michaud, expédiait un avis de ratification au contribuable, indiquant que Sa Majesté considérait la cotisation valide;
+9. Le ou vers le 22 août 2006, Line Gariépy, agente d’opposition, fournissait un document d’analyse judiciaire visant à démontrer que le certificat d’actions de 5 696 000 actions de catégorie identique à celle où l’appelant a investi, émis à Mayatrust, était un faux;
+PRÉTENTIONS DE SA MAJESTÉ
+10. Sa Majesté prétend que le placement n’était pas admissible, en invoquant, inter alia, les dispositions suivantes : 4901(2) R.I.R. et 146(10) L.I.R.;
+11. Le contribuable a exécuté la transaction suivante :
+i) Dans l’année d’imposition 2003, l’appelant est devenu actionnaire de la Compagnie par l’achat de 525 000 actions catégorie « B » pour UN DOLLAR (1 $) l’action;
+ii) L’investissement s’est fait à trois moments, soit DEUX CENT MILLE DOLLARS (200 000 $) le 24 novembre 2003, CENT CINQUANTE MILLE DOLLARS (150 000 $) le 28 novembre 2003 et CENT SOIXANTE-QUINZE MILLE DOLLARS (175 000 $) le 9 décembre 2003;
+iii) Ces montants étaient transférés d’un compte enregistré d’épargne‑ retraite existant;
+12. Le contribuable, toujours selon Sa Majesté, n’aurait pas pu bénéficier de la déduction et ne se serait pas cotisé correctement;
+ARGUMENTAIRE
+13. La compréhension de l’appelant relativement à la cotisation contestée est celle‑ci :
+i) Le placement n’est pas inadmissible en soi, il est à la base admissible à la déduction demandée et obtenue;
+ii) Le placement serait inadmissible, selon Sa Majesté, vu l’absence des conditions prévues au règlement 4200 R.I.R., soit le fait que l’investissement soit égal ou inférieur à 10 % des actions émises et en circulation d’une catégorie d’actions précise;
+iii) Les actions de la Compagnie, émises à Mayatrust, pour un montant de CINQ MILLIONS SIX CENT MILLE DOLLARS (5 600 000 $), n’ont pas été émises en contrepartie de ce montant, selon Sa Majesté;
+iv) Par conséquent, l’investissement du contribuable est inadmissible vu le fait qu’il excédait le 10 % réglementaire;
+14. Or, le contribuable a agi de bonne foi en ce que :
+i) Il a obtenu une opinion juridique écrite de Me Chantal Paquet, à l’effet que son placement était admissible, en date du 7 novembre 2003, soit avant le placement;
+ii) Il a vérifié, prima facie, si les conditions étaient respectées;
+iii) Un document représentant les actions de la Compagnie a été exhibé au Ministère, portant le serment de monsieur Michel Maheux, responsable de la Compagnie à l’époque;
+15. Si une malversation a eu lieu dans la Compagnie, l’appelant n’en a été ni l’instigateur, ni le complice, mais plutôt la victime;
+16. Le contribuable appuyé d’une opinion juridique avait droit à sa déduction;
+17. Le contribuable n’a pas à vérifier si, une fois les actions détenues par Mayatrust étaient émises dans le capital-actions de la Compagnie, elles l’avaient été contre juste contrepartie;
+18. Si les actions détenues par Mayatrust avaient été émises en fonction d’une contrepartie insuffisante, cela ne faisait que modifier le capital versé de la catégorie (influant uniquement sur le capital versé total de la catégorie d’actions); cela ne changeait aucunement le nombre d’actions émises;
+19. En vertu du jugement Nunn 2004-4403(IT)I, le contribuable ne devrait pas être taxable de toute façon;
+20. Aucun retrait présumé du REÉR n’a eu lieu, à aucun moment;
+21. Le fait que monsieur Michel Maheux de la Compagnie ait pu être non‑collaborateur avec les autorités fiscales n’est pas pertinent quant à l’admissibilité de l’investissement;
+22. Le présent avis d’appel est bien fondé en faits et en droit.
+[3] Dans sa réponse, l’intimée a notamment exposé les hypothèses de fait suivantes :
+a) la compagnie Cédrican est une société constituée le 23 octobre 1998 sous l’autorité de la partie 1A de la Loi sur les compagnies;
+b) les principales activités de Cédrican sont liées à la transformation du bois et selon ses états financiers pour l’exercice terminé le 31 décembre 2003, Cédrican exploite un moulin à scie et a mis en place un concept d’achat-revente d’arbres en croissance à l’étranger;
+c) l’actionnaire majoritaire de Cédrican depuis 2002 est la Coopérative de producteurs de bois précieux — Québec Forestales. Auparavant, son actionnaire majoritaire était Théodore Davidson;
+d) au cours de l’année 2002 et 2003, plusieurs investisseurs ont acquis par l’intermédiaire de leur REÉR, des actions privilégiées de catégorie « B » de la société Cédrican;
+e) ainsi, durant l’exercice terminé le 31 décembre 2002, Cédrican a émis 45 000 actions de la catégorie « B » en contrepartie de 45 000 $ et durant l’exercice terminé le 31 décembre 2003, Cédrican a émis 932 500 actions de la catégorie « B » en contrepartie de 932 500 $;
+f) l’appelant a décidé de voir son REÉR investir dans la société Cédrican et, au cours de l’année 2003, il a transféré son REÉR existant dans un compte REÉR autogéré auprès du fiduciaire C.T.I. Capital;
+g) durant les mois de novembre et décembre 2003, l’appelant a, à trois reprises, donné instruction au fiduciaire C.T.I. Capital de procéder à l’achat d’un total de 525 000 actions de Cédrican au prix de 1 $ l’action;
+h) C.T.I. Capital a ainsi acquis 200 000 actions de catégorie « B » de Cédrican (les actions) le 24 novembre 2003, 150 000 actions le 28 novembre 2003 et 175 000 actions le 9 décembre 2003, pour une contrepartie totale de 525 000 $;
+i) la juste valeur marchande de chacune des actions de catégorie « B » de la société Cédrican acquises par C.T.I. Capital était de 1 $ au moment de leur acquisition;
+j) immédiatement après chacun des trois investissements, C.T.I. Capital était propriétaire d’au moins 10% des actions émises de catégorie « B » du capital-actions de Cédrican : le tableau suivant représente le pourcentage d’actions de catégorie B détenu par C.T.I. Capital immédiatement après chaque investissement :
+Date d’acquisition
+Actions « B » acquises par C.T.I. Capital
+Total des actions « B » émises par Cédrican
+Pourcentage détenu par C.T.I. Capital
+24 novembre 2003
+200 000
+272 500
+73.39 %
+28 novembre 2003
+150 000
+493 000
+30.42 %
+9 décembre 2003
+175 000
+668 000
+26.19 %
+k) le 24 janvier 2006, le représentant de l’appelant a fait parvenir au vérificateur de l’Agence du revenu du Canada un certificat d’actions numéro B‑100, supposément émis par la société Cédrican en date du 30 septembre 2003 attestant que Maya Trust S.A. était l’actionnaire de 5 696 000 actions de catégorie « B » d’une valeur nominale de 1 $ l’action;
+l) ce certificat d’actions attestant l’actionnariat de Maya Trust S.A. est un faux document qui atteste indument que Maya Trust était l’actionnaire de 5 696 000 actions de catégorie « B » de Cédrican;
+m) Maya Trust S.A. ne détenait pas 5 696 000 actions de catégorie « B » de Cédrican en date du 30 septembre 2003;
+n) le Ministre n’a accordé aucune valeur à ce faux certificat d’actions, et a par conséquent considéré que l’appelant était un actionnaire rattaché de la société Cédrican immédiatement après chacune des acquisitions d’actions par le fiduciaire C.T.I. Capital, rendant de ce fait, le placement effectué par le REÉR de l’appelant dans la compagnie Cédrican, non admissible.
+[4] Les parties ont indiqué d’entrée de jeu que dans l’hypothèse où le tribunal arrivait à la conclusion que le certificat du 30 septembre 2003 attestant l’émission de 5 696 000 actions de catégorie « B » à la société Maya Trust S.A. était un faux, ou qu’il s’agissait d’un titre fictif n’attestant pas l’existence réelle de ces actions, cela aurait pour effet de confirmer le bien-fondé de la cotisation dont il est fait appel, puisque l’appelant serait un actionnaire rattaché et que son placement ne serait pas admissible aux fins d’un REÉR.
+[5] Les parties ont d’ailleurs confirmé cette conclusion après la présentation de leur preuve respective.
+Les faits
+[6] Au soutien de son appel, l’appelant a essentiellement fait valoir qu’il avait agi de bonne foi et qu’il avait suivi et respecté les dispositions de la Loi de l’impôt sur le revenu et des règlements lorsqu’il avait transféré 525 000 $ de son REÉR, de manière à avoir droit aux avantages fiscaux d’un REÉR.
+[7] Pour démontrer sa prudence et sa vigilance, il a affirmé avoir discuté de son projet avec un planificateur ainsi qu’avec un ami juge.
+[8] Lors de l’interrogatoire préalable, l’appelant a fait référence à sa seule expérience en matière de placement. L’appelant a évidemment insisté sur le fait qu’il pouvait et devait se fier au certificat dûment signé par une avocate. En bref, il a affirmé n’avoir rien à se reprocher.
+[9] En contre-interrogatoire, l’intimée a tenté de démontrer par ses questions une certaine négligence et une absence de vigilance de la part de l’appelant. L’appelant a répété avoir agi avec prudence et vigilance, eu égard à son expérience et à son expertise et, surtout, sur la foi d’une attestation dûment signée par une avocate, et ce, lors de chaque mise de fonds, aux dates et pour les montants suivants :
+Date d’acquisition
+Actions de catégorie « B » acquises par CTI Capital
+Total des actions de catégorie « B » émises par Cédrican selon les registres
+24 novembre 2003
+200 000
+272 500
+28 novembre 2003
+150 000
+493 000
+9 décembre 2003
+175 000
+668 000
+[10] Il semble que la société Cédrican ait émis les actions qui apparaissent au tableau, y compris les actions émises à l’appelant, le tout démontrant tout au moins en apparence que le pourcentage des actions acquises à partir du REÉR de l’appelant était largement supérieur à 10 %.
+[11] L’appelant fait l’objet d’une cotisation à la suite d’une enquête de grande envergure portant sur l’ensemble des activités de la société Cédrican, dont les actions étaient détenues par la Coopérative de producteurs de bois précieux Québec Forestales, dont l’ex-actionnaire majoritaire était un certain Théodore Davidson.
+[12] Pendant cette enquête, plusieurs documents et registres furent saisis, tant à l’établissement commercial que chez le comptable et qu’aux résidences privées des principaux acteurs, soient Michel Maheux, son fils Serge, Théodore Davidson et Jean Davidson.
+[13] À la suite de l’enquête et de l’analyse de tous les documents, l’Agence du revenu du Canada (« ARC ») est arrivée à la conclusion que les montants investis dans la société par l’appelant dépassaient largement la limite de 10 %, et ce, lors des trois mises de fonds susmentionnées.
+[14] L’évaluation découlait notamment du refus de prendre en compte le certificat d’actions faisant état d’un investissement très important de 5 696 000 $ dans des actions de la même catégorie, soit la catégorie « B ». En d’autres termes, les vérificateurs, à la suite de leur analyse, ont conclu que tout ce qui avait trait au certificat d’actions portant le numéro B‑100 et faisant état d’une mise de fonds de 5 696 000 $ était fictif.
+[15] Le certificat d’actions en question, numéro B‑100, émis par Cédrican le 30 septembre 2003, attestait que Maya Trust S.A. détenait 5 696 000 actions de catégorie « B » d’une valeur nominale de 1 $ l’action. L’intimée soutient que la société Maya Trust S.A. n’a jamais réellement été détentrice de ces actions, n’ayant fait aucun déboursé pour leur acquisition.
+[16] Tenant pour acquis que tout ce qui avait trait au certificat d’actions faisant état de 5 696 000 actions de catégorie « B » était faux, l’intimée a conclu que la proportion des actions détenues par l’appelant dépassait ainsi largement la limite de 10 %.
+[17] Si Cédrican n’avait pas émis les 5 696 000 actions, l’appelant devenait détenteur de 73,39 % des actions au moment de la première acquisition, de 30,42 % au moment de la deuxième acquisition, le 28 novembre 2003, et finalement de 26,19 % lors de la troisième acquisition, le 9 décembre 2003.
+[18] Pour étayer ses conclusions, l’intimée a fait témoigner le vérificateur, deux enquêteurs, le comptable des sociétés en cause, l’avocate ayant délivré les certificats relatifs au pourcentage des actions de la société Cédrican détenu par l’appelant et, finalement, un expert en datation de l’encre.
+[19] La conclusion de l’expert ayant fait l’analyse de l’encre utilisée pour signer le certificat d’actions que l’intimée qualifie de faux est claire et non équivoque : le certificat d’actions a été signé beaucoup plus tard que la date qui y apparaît, c’est‑à‑dire beaucoup plus tard que les transferts du 24 novembre 2003, du 28 novembre 2003 et du 9 décembre 2003.
+[20] L’expert a expliqué les techniques utilisées pour déterminer la date approximative de la signature sur le certificat d’actions. Il a affirmé que la technique permettait de déterminer la date d’une manière assez précise mais non absolue; il indiquait donc toujours une période plutôt qu’une date précise.
+[21] En l’espèce, les analyses ont permis de conclure que le certificat daté du 30 septembre 2003 avait probablement été signé dans les trois mois précédant l’expertise réalisée le 1er juin 2006. L’expert a conclu que la signature ne pouvait être antérieure à six mois, ce qui fait que la signature daterait de décembre 2005 ou de janvier 2006, soit beaucoup plus tard que les dates où le REÉR de l’appelant a fait l’objet des transferts.
+[22] Un tel constat, si grave et si important soit-il, a-t-il pour effet d’annuler le certificat d’actions ou de faire en sorte qu’il devienne automatiquement un faux, justifiant le rejet pur et simple de l’appel?
+[23] Non : le certificat aurait très bien pu être signé beaucoup plus tard que la souscription ou la mise de fonds, suivie d’une acceptation et des écritures au registre approprié; bien que cela ne soit pas idéal, un certificat d’actions peut être préparé et signé après la mise de fonds et son acceptation, sans effet sur la qualité et la valeur du titre représenté par le certificat d’actions.
+[24] En conséquence, la conclusion de l’expert, bien que claire et déterminante quant à la date réelle de la signature, n’est pas déterminante quant à l’existence ou non desdites actions. En d’autres termes, il est possible que les conclusions de l’expert soient sans effet sur la réalité des actions dont le certificat fait état. Ainsi, la conclusion de l’expert ne fait que soulever une hypothèse, une certaine présomption, ayant quand même une grande pertinence compte tenu du montant en cause, et surtout de l’effet sur la situation financière de la société Cédrican.
+[25] Il devenait alors essentiel d’analyser l’ensemble du dossier, notamment les aspects administratif et juridique. À cet égard, les témoignages du vérificateur, des enquêteurs, du comptable et de l’avocate ont une grande importance.
+[26] Les divers témoignages présentés par l’intimée sont-ils suffisants pour conclure que le certificat d’actions, dont la signature a manifestement été faite à une date autre que celle indiquée, était un faux?
+[27] Tant Christian Levasseur que Jean-Claude Belisle ont affirmé qu’ils n’ont rien trouvé parmi les documents saisis qui indiquerait que le certificat numéro B‑100 attestant l’émission de 5 696 000 actions de catégorie « B » correspondait à une mise de fonds, sous forme d’argent ou de roulement, par exemple.
+[28] En sa qualité de vérificateur, M. Levasseur a fait l’analyse de tous les documents saisis, dont les procès-verbaux, les divers registres, les états financiers, etc. Il a indiqué que le certificat d’actions n’avait aucune assise et que rien n’expliquait son émission. Il est important de rappeler que le certificat n’attestait pas des sommes sans importance; il s’agissait d’un titre faisant état de 5 696 000 actions, soit plus de 80 % du capital-actions émis dans la catégorie en cause.
+[29] De son côté, Mme Godbout, qui a témoigné à titre d’experte sur le recouvrement des données sur le disque dur de l’ordinateur portable personnel de l’un des dirigeants, a indiqué avoir constaté certaines mentions incomplètes ou obscures, de sorte qu’on ne pouvait pas comprendre l’historique d’une manière fiable; elle a ajouté que le fichier pertinent avait été créé en 2006, ce qui appuie la thèse voulant que tout ce qui avait trait au certificat des 5 696 000 actions était faux.
+[30] La preuve a révélé que Me Paquet a signé un certificat intitulé « Rapport de certification de l’admissibilité des actions » lors des trois transferts. Le premier certificat se lit comme suit :
+RAPPORT DE CERTIFICATION DE L’ADMISSIBILITÉ DES ACTIONS
+CTI Capital
+1, place Ville-Marie, bureau 1635
+Montréal (Québec) H3B 3B6
+Objet : Cédrican Inc.
+Rentier : Bertrand Beaulieu
+Acquisition de 200 000 actions de catégorie B
+Pour un montant de 200 000 $
+Madame, Monsieur,
+Je, Chantal Paquet, avocate, certifie que l’information contenue dans la déclaration de placement admissible dans des REÉR, FERR, CRI et FRV est exacte à ma connaissance et qu’à mon avis, les actions de la société susmentionnée constitueraient un placement admissible dans le compte du régime du rentier susmentionné.
+[Chantal Paquet]
+Chantal Paquet (avocate)
+Québec, le 7 novembre 2003
+[31] Les deux autres rapports du 17 novembre 2003 et du 2 décembre 2003 ayant le même contenu, il n’y a pas lieu de les reproduire. Il s’agissait là de certifications d’une très grande importance ayant de très lourdes conséquences financières pour les personnes touchées, dont évidemment l’appelant.
+Le témoignage de Me Chantal Paquet
+[32] Le témoignage de Me Paquet constitue certainement un volet important de l’analyse du dossier de l’appelant. Comme tout témoignage, il doit d’abord réussir le test de la crédibilité. En l’espèce, je crois que le test comporte deux volets, l’un portant sur la connaissance qu’elle avait des faits exposés dans le certificat, l’autre portant simplement sur la vérité.
+[33] À cet égard, le seul fait de dire la vérité n’est pas suffisant pour valider la certification que Me Paquet a remise à l’appelant. Il aurait fallu démontrer que tout avait été effectué pour garantir l’exactitude et la fiabilité des renseignements quant aux montants que l’appelant avait investis dans le capital-actions de la société.
+[34] Le témoignage de Me Paquet a été pour le moins très ambigu, sinon confus, quant à certains aspects essentiels devant être pris en compte avant de signer les trois attestations à l’égard de l’appelant. Elle a affirmé qu’elle avait délivré une telle attestation la première fois lors de la première mise de fonds de l’appelant; elle a reconnu avoir fait le même exercice d’une manière plutôt superficielle lors des deuxième et troisième mises de fonds, étant donné qu’il s’agissait du même investisseur et que les dates étaient assez rapprochées.
+[35] Interrogée quant aux étapes effectuées, aux documents consultés, aux demandes faites pour s’assurer de la véracité ou de la fiabilité des informations requises pour signer de tels certificats, elle a indiqué à plusieurs reprises ne pas se souvenir; elle s’en remettait aux directives obtenues de M. Maheux qui, selon elle, était le responsable. Elle a ainsi affirmé à quelques reprises : « Vous pouvez tirer les conclusions que vous voulez. »
+[36] Concernant le certificat B‑100 attestant l’émission de 5 696 000 actions de catégorie « B », Me Paquet n’était pas en mesure d’expliquer quoi que ce soit, le tribunal ne pouvant d’ailleurs pas comprendre que la mémoire de Me Paquet soit aussi défaillante quant à un actionnaire détenant plus de 80 % des actions de catégorie « B ».
+[37] Me Paquet n’a pas été en mesure d’expliquer le pourquoi et contenu d’une lettre, ce qui en soi est très surprenant, au point de miner son témoignage. Le contenu de cette lettre est le suivant :
+Berthierville, ce 8 décembre 2003
+PAR TÉLÉCOPIEUR
+(418) 692-2953
+MONSIEUR BERNARD MORIN, C.A.
+200 – 706 rue St-Joseph Est
+Québec, G1K 3C0
+Re : Cédrican Inc.
+Cher monsieur Morin,
+Nous présumons que vous avez pris connaissance du projet de contrat de vente devant intervenir entre la Coopérative des producteurs de bois précieux et Cédrican Inc. À cet égard, nous apprécierions recevoir vos commentaires.
+Par ailleurs, nous vous transmettons sous pli copie de tous les rapports de certification de l’admissibilité des actions signés par Me Chantal Paquet.
+Il est à souligner que le montant investi actuellement par des tiers acquéreurs pour les actions de catégorie B de Cédrican Inc. s’élève à une somme globale de 667 500 $ de sorte que nous comprenons que vous verrez à faire les ajustements requis afin qu’aucun des actionnaires de catégorie B détienne plus que 10 % de cette catégorie d’actions.
+Sur réception de la présente, nous apprécierions que vous communiquiez avec la soussignée afin de régulariser la situation.
+[Je souligne.]
+[38] Il est tout à fait impossible de réconcilier le témoignage de Me Paquet avec le contenu de la lettre qu’elle a signée et adressée au comptable Morin. Me Paquet est avocate de formation et détient, selon son témoignage, une formation particulière en fiscalité; il est tout à fait déraisonnable de croire qu’elle a fait le travail et les recherches nécessaires avant de signer les attestations remises à l’appelant.
+[39] Manifestement consciente de cela, elle a témoigné d’une manière non crédible. Je crois que l’avocate a fait confiance à un individu peu scrupuleux plutôt que de respecter son obligation de s’assurer de la fiabilité de l’attestation qu’elle a signée. Eu égard au contenu de la lettre qu’elle a signée et adressée au comptable Morin, il aurait été préférable qu’elle refuse de signer la lettre ou qu’elle mette fin au mandat qu’un certain M. Maheux lui avait confié.
+[40] En raison des réponses évasives, des trous de mémoire, de l’inconfort manifeste de l’avocate, j’ai des raisons de croire que les patrons de Me Paquet lui suggéraient certains actes qu’elle exécutait, sans doute de bonne foi, sans pour autant s’assurer personnellement de la véracité du contenu de ses lettres; si elle le faisait, il s’agissait d’une vérification plutôt superficielle et certainement incomplète.
+[41] Le procureur de l’appelant fait probablement une bonne lecture de la nervosité et des inquiétudes manifestes de Me Paquet. Il n’est pas anormal que l’écoulement du temps influe sur la clarté et la cohérence des réponses données. Par contre, les hésitations, les oublis, les incohérences et les confusions suggèrent, outre un inconfort pouvant s’expliquer, une absence évidente des connaissances requises pour être en mesure d’émettre une certification fiable et crédible. Étant manifestement consciente des limites de ses connaissances, Me Paquet a de toute évidence choisi d’être peu loquace, silencieuse et confuse dans ses réponses. La lettre qu’elle a fait parvenir au comptable est révélatrice à cet égard.
+Le témoignage du comptable Morin
+[42] Le comptable, Bernard Morin, était constamment sur la défensive, il répondait par oui ou non, il a répété que son mandat était le suivant :
+RAPPORT DE MISSION D’EXAMEN
+À l’administrateur de
+Cédrican inc.
+J’ai procédé à l’examen du bilan de Cédrican inc. au 31 décembre 2003 et des états des résultats, du déficit et des flux de trésorerie de l’exercice terminé à cette date. Mon examen a été effectué conformément aux normes d’examen généralement reconnues du Canada et a donc consisté essentiellement en prises de renseignements, procédés analytiques et discussions portant sur les renseignements qui m’ont été fournis par la société, à l’exception de ce qui est mentionné ci-après.
+Un examen ne constitue pas une vérification et, par conséquent, je n’exprime pas une opinion de vérificateur sur ces états financiers.
+Je n’ai pu mener à bien l’examen des stocks d’arbres qui, dans les états financiers, représentent un total de 626 340 $ (2002, – $). Je n’ai pu m’assurer de la validité des titres de propriété et de la valeur de réalisation nette des stocks. Si j’avais été en mesure de mener à bien mon examen, j’aurais peut-être jugé nécessaire que certains redressements soient apportés aux stocks, au chiffre d’affaires et à l’excédent des charges sur les produits.
+À l’exception de l’effet des éventuels redressements que j’aurais pu juger nécessaires si j’avais été en mesure de mener à bien l’examen des stocks dont il est question au paragraphe précédent, je n’ai rien relevé, au cours de mon examen, qui me porte à croire que ces états financiers ne sont pas conformes, à tous les égards importants, aux principes comptables généralement reconnus du Canada à l’exception du fait qu’ils sont non consolidés, comme le mentionne la note 2.
+[Bernard Morin]
+Comptable agréé
+Québec, le 15 avril 2004
+Le travail qu’il effectuait était de regrouper les informations obtenues de ses mandants.
+[43] La première partie du témoignage de M. Morin a été surprenante; il était sur la défensive et nerveux, et ses réponses étaient limitées à des « non » et à des « oui », au point que le tribunal est intervenu pour indiquer qu’il était tout simplement inacceptable qu’un professionnel responsable de la préparation des états financiers d’une société soit aussi peu loquace.
+[44] M. Morin a ensuite été plus explicite, nuancé et précis. Il a alors invoqué les limites de son mandat pour expliquer le manque de fiabilité des documents comptables.
+[45] Quant au certificat d’actions indiquant que la société Maya Trust détenait 5 696 000 actions, il en ignorait l’existence au moment où il a préparé les états financiers. Il a affirmé avoir vu le certificat d’actions lors de l’enquête et des saisies qui ont été faites à son bureau par les fonctionnaires de l’ARC responsables du dossier.
+[46] Il est plus qu’étonnant qu’un comptable chargé de préparer les états financiers d’une entreprise ne soit pas en mesure d’expliquer l’existence d’un certificat représentant l’émission de 5 696 000 actions. L’explication la plus plausible et raisonnable est que les dirigeants de l’entreprise en question ne lui en ont jamais fait état. À un moment donné, le témoin a modifié son attitude et est devenu plus loquace; il a expliqué les limites de son mandat et a affirmé avoir été à la remorque des informations que voulaient bien lui remettre les mandants.
+[47] M. Morin a produit un travail comptable à partir d’informations incomplètes, n’ayant pas le mandat de s’assurer de la fiabilité des renseignements. De plus, il n’a manifestement pas donné suite aux instructions de Me Paquet dans sa lettre du 8 décembre 2003. Je crois que les réponses de M. Morin étaient raisonnables et étayées par la preuve disponible; je conclus donc que son témoignage est crédible.
+[48] Encore une fois, l’intimée justifie le bien-fondé de la cotisation dont il est fait appel par le fait que le certificat d’actions numéro B‑100 du 30 septembre 2003 attestant l’émission de 5 696 000 actions de catégorie « B » est un faux, ne validant pas ce dont il fait état.
+[49] La bonne foi n’est pas pertinente au règlement de l’appel; en effet, dans l’arrêt Nunn c. Canada, 2006 CAF 403, la Cour d’appel fédérale affirmait ce qui suit :
+L’achat des actions dans le cadre d’un placement non admissible a eu pour effet d’enclencher automatiquement l’application du paragraphe 146(1). Ce résultat est sans aucun doute dur, mais il serait inéquitable d’exonérer un contribuable de son obligation fiscale en se fondant sur une erreur ou sur une fraude : Vankerk c. Canada, 2006 CAF 371, paragraphe 3. Autrement dit, d’autres contribuables canadiens ne devraient pas avoir à supporter le fardeau financier créé par des circonstances aussi malheureuses que celles qui existent en l’espèce.
+[50] Même si la bonne foi est non pertinente, l’intimée a tout de même affirmé que l’appelant avait manqué de prudence en se laissant convaincre par l’appât d’un gain rapide et considérable, comme le démontre une publication intitulée « ADDENDA – Énoncé d’envergure : Plan d’affaires et analyses des paramètres, Québec Forestales » (pièce I-2) où il était notamment fait mention de ce qui suit :
+Statistiques et profits escomptés :
+Chaque membre se voit remettre à son nom propre un ou des lots d’arbres précieux qui lui seront désignés par GPS au moment où ces plantules seront repiquées sur leur site final. Selon les statistiques de croissance fournies par les gouvernements pour les taux en plantation, pour chaque $ 1 000 can investi le membre reçoit un ou des lots dont le volume atteindra 4.62 mètres cube à l’âge de vingt ans aux prix actuels des essences, totalisant $ 9 240. Ce qui représente approximativement 25 % par année de profit hors impôt (non composé).
+CE RENDEMENT DE 25 % PAR ANNÉE HORS IMPÔT EST CALCULÉ SUR LE MONTANT TOTAL INVESTI.
+COMME LES REPORTS ET LES RÉCUPÉRATIONS FISCALES ONT DÉJÀ REPRÉSENTÉ 80 % DU MONTANT INVESTI, LE RENDEMENT PEUT TRÈS BIEN ÉQUIVALOIR À UN RENDEMENT DE 100 % PAR ANNÉE SUR LE CAPITAL PROPRE INVESTI.
+[51] Lorsqu’on lui a demandé d’établir qu’il avait agi avec prudence, l’appelant a indiqué avoir évalué la situation, examiné les hypothèses et fait certaines vérifications, mais, en fin de compte, s’être fié à trois rapports de certification signés par une avocate, et cela, lors des trois mises de fonds des 7 novembre 2003, 17 novembre 2003 et 2 décembre 2003.
+[52] À cet égard, je crois que l’appelant aurait pu être encore plus vigilant, mais où s’arrête l’obligation de faire preuve de prudence avant d’investir? Depuis quelques années, des millions de dollars se sont envolés, ruinant des milliers de personnes.
+[53] En matière de placements, les risques sont toujours présents et sont souvent proportionnels aux rendements espérés. Les abus et les fraudes sont fréquents, au point de faire partie des risques qui doivent être pris en compte.
+[54] Une cotisation repose sur les faits et non sur les croyances et les interprétations du contribuable, qui doit seul assumer les conséquences de ses décisions économiques.
+[55] Le fait que la bonne foi de l’appelant ne soit pas en cause ne permet pas pour autant de dire que l’appelant a agi avec prudence et vigilance. Les rendements proposés étaient exceptionnels, ce qui aurait dû suffire pour susciter une prudence accrue, d’autant plus que les montants investis étaient considérables.
+[56] D’autre part, à la lumière de son témoignage, il semble que l’appelant ait été peu préoccupé à en connaître plus sur les autres actionnaires, et ce, même si son investissement total représentait une portion considérable du capital‑actions de catégorie « B ».
+[57] Il a plutôt insisté sur l’absence de faute, sur son expertise et sur des brochures sur la qualité de l’investissement.
+[58] En matière d’investissement, les risques sont souvent fonction des rendements prévus. Les obligations fiscales d’un particulier ne peuvent donc pas être assujetties à l’importance de sa prudence et de sa vigilance.
+[59] Les conséquences de l’arrêt Nunn, précité, sont très lourdes. Les obligations d’un contribuable qui participe à une entreprise sont les mêmes, que l’entreprise soit légitime et réelle ou non.
+[60] Ainsi, la bonne foi, la vigilance, la prudence et le comportement d’un bon père de famille n’ont aucune incidence sur le bien-fondé d’une cotisation établie en raison d’une transaction avec une société, même si celle-ci est malhonnête.
+[61] La société Cédrican a-t-elle émis ou non le certificat d’actions numéro B‑100 du 30 septembre 2003 attestant que Maya Trust S.A. détenait 5 696 000 actions, de sorte que la participation de l’appelant était de moins de 10 %?
+[62] Il n’y a pas de preuve directe. La preuve repose plutôt sur l’interprétation de documents déficients ou même faux et sur la valeur des témoignages. Certains éléments de preuve m’ont semblé très pertinents pour disposer de l’appel. Je retiens notamment ce qui suit :
+· le certificat d’actions portant le numéro B‑100 attestant l’émission de 5 696 000 actions, qui a été signé non pas le 30 septembre 2003, mais manifestement au début de l’année 2006;
+· le certificat d’actions en question qui porte le numéro B‑100, soit le même numéro qu’un autre certificat remis à CTI Capital attestant l’émission de 50 000 actions de la même catégorie le 7 novembre 2003;
+· l’absence totale d’indication dans les registres et les procès-verbaux de la société pour étayer la souscription et l’émission des 5 696 000 actions;
+· l’absence totale d’entrée aux registres comptables de la société Cédrican;
+· l’ignorance de l’existence de ces actions par le comptable responsable des états financiers de la société qui aurait émis ces actions;
+· aucune preuve que le certificat d’actions faisant état de l’émission de 5 696 000 actions découlait d’une quelconque souscription et d’une mise de fonds équivalente;
+· l’absence de souvenirs de l’avocate ayant certifié le pourcentage des actions détenu par l’appelant;
+· aucune preuve de l’encaissement de la contrepartie à l’origine du certificat d’actions;
+· la lettre de l’avocate adressée au comptable qui indique ses connaissances apparentes quant au nombre d’actions émises par la société Cédrican;
+· la preuve documentaire relative aux activités de la société Cédrican, qui est incomplète, confuse et souvent contradictoire, ce qui ne permet aucune conclusion fiable;
+· l’intervention de la Commission des valeurs mobilières du Québec quant au droit des sociétés dirigées par MM. Maheux et Davidson de vendre des actions au public;
+· l’absence de crédibilité de la personne qui a attesté le pourcentage des actions détenu par l’appelant.
+[63] Tous ces éléments laissent penser que le certificat a été préparé beaucoup plus tard que la date indiquée. Pourquoi? Afin de marginaliser l’imposante mise de fonds de l’appelant, de 525 000 $, et faire en sorte qu’elle représente moins de 10 % du capital action émis dans la même catégorie.
+[64] À l’appui de son appel, l’appelant soutient avoir été vigilant et de bonne foi, et s’être fié à l’attestation d’une avocate dont le témoignage a été crédible. Il suggère que le témoignage du comptable soit écarté pour cause de non-crédibilité. Finalement, il soutient que le certificat d’actions faisant état de l’émission de 5 696 000 actions fait preuve de son contenu, et ce, malgré l’admission que la date de la signature n’est pas celle indiquée sur le certificat.
+[65] Il m’apparaît important de rappeler que le fardeau de la preuve reposait sur l’appelant et non sur l’intimée. La seule bonne foi ne suffit pas, d’autant plus qu’elle n’a comme fondement que l’expertise de l’appelant et de possibles consultations avec des tiers.
+[66] En l’espèce, les rendements proposés étaient considérables, les montants, substantiels, et les activités, particulières. Pour ce qui est des autres témoignages, l’appelant les interprète d’une manière qui ne correspond aucunement à ce que le tribunal a entendu : d’abord, quant à la crédibilité des témoignages; ensuite, quant à certains documents, où l’appelant préfère la forme au fond, notamment dans le cas du certificat qui, selon l’appelant, fait preuve de son contenu, et ce, bien que l’information soit clairement mensongère.
+[67] En cette matière, la souscription et l’encaissement des fonds sont des éléments essentiels et beaucoup plus significatifs que le certificat qui atteste le tout. Or, sur cet aspect, la preuve est totalement inexistante. Tout d’abord, un simple certificat d’actions n’a aucune valeur probante, particulièrement si la date indiquée est fausse.
+[68] Or, il doit y avoir certains éléments à l’appui de la validité du certificat. En l’espèce, non seulement ces éléments n’existent pas; les faits et les documents incomplets établissent plutôt d’une manière prépondérante que le certificat est faux.
+[69] Les arguments de l’appelant s’appuient essentiellement sur des hypothèses, des interprétations et des théories non validées par une preuve adéquate.
+[70] L’appelant interprète les témoignages de Me Paquet et du comptable Morin d’une manière qui ne reflète en aucune façon leur témoignage. L’interprétation s’appuie essentiellement sur des spéculations, des hypothèses et des perceptions non validées par la réalité des témoignages.
+[71] Me Paquet, nerveuse et inconfortable, a témoigné avec une mémoire plutôt sélective. La plupart de ses réponses étaient vagues, plutôt confuses, et, souvent, sous prétexte de l’écoulement du temps, tout simplement non disponibles.
+[72] Elle a notamment affirmé que son client était un certain M. Maheux, alors que le certificat était pour le compte d’une société. Est-il nécessaire de rappeler que Me Paquet est avocate et a fait des études additionnelles en fiscalité?
+[73] Elle a écrit la lettre du 8 décembre 2003 au comptable Morin, précitée au paragraphe 37 du jugement. Ses souvenirs relatifs au certificat d’actions, qui a une importance considérable et tout à fait déterminante pour le sort de l’appel, sont tout simplement inexistants. Or, il est tout à fait déraisonnable que la personne responsable de la certification de la répartition des actions ne se souvienne pas d’une participation si importante au capital-actions.
+[74] D’autre part, le contenu de la lettre du 8 décembre 2003 et l’ensemble de ses réponses vagues et incomplètes m’amènent à conclure que ce témoignage n’est ni raisonnable, ni plausible, ni crédible.
+[75] Il aurait été essentiel que des démarches soient effectuées pour vérifier l’existence des documents appropriés et leur cohérence, et que tout soit validé par la vérification des données comptables. Le travail de vérification effectué par Me Paquet a été fait d’une manière incomplète et très superficielle, au point qu’elle n’a sans doute que suivi les instructions de son mandant, un certain M. Maheux, qui n’a pas témoigné.
+[76] La décision Nunn, précitée, règle la question de la bonne foi. L’État n’est pas un assureur pour les pertes économiques causées par un manque de vigilance, un mauvais gestionnaire ou même des fraudeurs ou des personnes sans scrupules.
+[77] Quant aux autres arguments, ils découlent d’une interprétation de la preuve qui ne correspond pas à ce que j’ai retenu, d’autant plus que les hypothèses ne reposent sur strictement rien de raisonnable ou de probable.
+[78] Finalement, l’appelant soutient que bien que la date sur le certificat soit fausse, cela ne signifie pas que les actions n’existent pas. Sur cet aspect, l’appelant a tout à fait raison; par contre, il aurait fallu des éléments de preuve à l’appui de cette interprétation, et non seulement une hypothèse ou une spéculation.
+[79] La prépondérance de la preuve indique que la société Cédrican n’a jamais reçu et encaissé une souscription de 5 696 000 $ donnant lieu au certificat d’actions. La prépondérance de la preuve indique aussi que la société Cédrican a émis un faux certificat, dont la date était antérieure de plusieurs mois aux trois transferts effectués par la société CTI Capital, dont l’appelant est le seul actionnaire.
+[80] La prépondérance de la preuve indique que lors des transferts effectués selon les instructions de l’appelant pour acquérir des actions de la société Cédrican, l’appelant détenait plus que la proportion maximale de 10 % des actions d’une même catégorie.
+[81] L’appelant est donc devenu un actionnaire rattaché à la société Cédrican immédiatement après les acquisitions d’actions de catégorie « B » de la société Cédrican par le fiduciaire CTI Capital le 24 novembre 2003, le 28 novembre 2003 et le 9 décembre 2003, au sens du paragraphe 4901(2) du Règlement de l’impôt sur le revenu.
+[82] Pour ces motifs, l’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 14e jour de février 2011.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2011 CCI 86
+Nº DU DOSSIER DE LA COUR : 2009-16(IT)G
+INTITULÉ DE LA CAUSE : BERTRAND BEAULIEU c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Shawinigan (Québec)
+DATE DE L’AUDIENCE : Les 7 et 8 octobre 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 14 février 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me François Daigle
+Avocate de l'intimée :
+Me Janie Payette
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant : Me François Daigle
+Firme : Lacourcière, LeBrun
+Trois-Rivières (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

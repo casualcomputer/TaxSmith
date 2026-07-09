@@ -1,0 +1,114 @@
+---
+title: "Gould c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/317686/index.do"
+last_modified: "2009-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 107"
+citation2: ""
+neutral_citation: "2009 CCI 107"
+decision_date: "2009-01-30"
+language: "fr"
+item_id: "317686"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4913
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:14:21.111000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f7af7d93489cd56d74353853b9bace5b7e88f1b2d2797cda36439db5257ea5d5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gould c. La Reine
+
+- Citation: 2009 CCI 107
+- Decision date: 2009-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4913, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gould c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-30
+Référence neutre
+2009 CCI 107
+Numéro de dossier
+2004-4449(IT)G, 2005-3091(IT)G, 2006-2188(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2009CCI107
+Nos des dossiers de la Cour : 2004‑4449(IT)G
+2006‑2188(IT)G
+2005‑3091(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+ROY GOULD et GUISEPPE (JOE) FIORANTE,
+appelants,
+‑ET‑
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Rendus oralement à l’audience par le juge B. Paris, au 701, rue West Georgia, à Vancouver (Colombie‑Britannique), le 30 janvier 2009.
+COMPARUTIONS
+Me J. Nitikman Pour les appelants
+Me B. Senkpiel Pour l’intimée
+Me N. Taylor Pickering
+Julia Platt Greffière audiencière
+Allwest Reporting Ltd.
+1125, rue Howe, bureau 1200
+Vancouver (C.‑B.)
+V6Z 2K8
+MOTIFS DU JUGEMENT
+(Révisés à partir de la transcription des motifs rendus oralement à l’audience à
+Vancouver (Colombie‑Britannique), le 30 janvier 2009.)
+LE JUGE : Il s’agit de demandes déposées par l’intimée tendant à la modification d’une ordonnance rendue par la Cour le 22 novembre 2007 dans le cadre de chacun des présents appels. Selon ces ordonnances, les requêtes de l’intimée sollicitant l’autorisation de modifier ses réponses aux avis d’appel ne seraient pas entendues avant que la Cour ne se soit prononcée sur l’appel interjeté par Kathryn Kossow dans le dossier no 2005‑1974(IT)G. Les ordonnances avaient pour objet, et ont effectivement eu pour effet, de surseoir à l’audition des présents appels.
+Les ordonnances du 22 novembre ont été rendues par le juge Campbell Miller après une audience sur la gestion de l’instance tenue de façon conjointe dans le cadre des présents appels et de l’appel dans l'affaire Kossow. Tous ces appels visent des nouvelles cotisations par lesquelles on a rejeté les demandes de crédits d’impôt pour dons de bienfaisance présentées par les contribuables relativement à la Ideas Canada Foundation. La Cour est actuellement saisie de treize appels, notamment dans les affaires Gould, Fiorante et Kossow, qui intéressent des demandes de crédit d’impôt pour dons de bienfaisance faits à la Ideas Canada Foundation. De plus, l’Agence du revenu du Canada laisse actuellement en suspens 1 544 autres avis d’opposition.
+C’est dans ce contexte que le juge Miller a tenté de trouver un mode de règlement de ces treize appels le plus rapidement possible. À son avis, le meilleur moyen d’y parvenir consistait à faire suivre son cours l’un des appels promptement.
+Par suite des observations formulées au cours de l’audience sur la gestion de l’instance, le juge Miller a apparemment conclu, d’une part, que Mme Kossow voulait que l’audience ait lieu et, d’autre part, qu’elle serait prête en juin 2008.
+Il a en outre été informé par l’avocat de M. Fiorante et de M. Gould que ces derniers souhaitaient que leurs appels restent en suspens dans l’attente de la conclusion de l’appel dans l'affaire Kossow. En effet, ils se préoccupaient des coûts qu’ils auraient à assumer pour l’audition de leurs appels, d’une durée prévue de deux ou trois semaines. Il semble donc que, pour éviter le dédoublement des procédures et parce que l’affaire Kossow paraissait pouvoir être entendue rapidement, la Cour ait ordonné que l’audition de la requête en instance de l’intimée tendant à l’autorisation de modifier ses réponses dans les appels relatifs aux affaires Gould et Fiorante ne soit tenue qu’après le prononcé d’une décision dans l’appel dans l'affaire Kossow.
+La Cour a également inscrit l’appel Kossow au rôle pour deux semaines à partir du 16 juin 2008, à Toronto. Cependant, en mai 2008, l'audition a été reportée au 8 septembre 2008, à la demande de Mme Kossow, afin de permettre à cette dernière de présenter une requête appelant deux jours d'audition, relative aux actes de procédure et aux questions découlant de la communication des documents et de l’interrogatoire préalable du représentant de l’intimée. Cette requête a été entendue les 17 et 18 juin 2008, et la juge Valerie Miller s'est prononcée le 18 juillet 2008.
+Madame Kossow a ensuite interjeté appel de cette décision devant la Cour d’appel fédérale et elle a demandé à la Cour de reporter l’audition fixée en septembre 2008. Cette demande a été rejetée et Mme Kossow s’est alors adressée à la Cour d’appel fédérale pour solliciter la suspension de l’instance d’appel devant la Cour jusqu’à ce qu’une décision ait été rendue dans son appel visant l’ordonnance du 18 juillet 2008. La Cour d’appel a fait droit à la demande de suspension.
+Tant Mme Kossow que l’intimée ont présenté des requêtes dans le cadre de l’appel visant l’ordonnance du 18 juillet 2008 interjeté devant la Cour d’appel fédérale. L’une des requêtes de Mme Kossow est toujours en instance, et le tribunal n’a fixé aucune date d’audition ni pour cette requête, ni pour l’appel au fond. L’intimée soutient que les délais dans l’audition de l’appel dans l'affaire Kossow justifient la modification des ordonnances du 22 novembre 2007 rendues par le juge Campbell Miller et elle soutient que le maintien de la suspension de l’instance lui cause un préjudice.
+L’intimée avance que le critère applicable à la suspension d’une instance est celui énoncé dans l’arrêt Del Zotto c. Canada, [1996] A.C.F. no 294, où la Cour d’appel fédérale a fait les observations suivantes au paragraphe 12 :
+À notre avis, une fois prononcée une ordonnance de suspension d’instance, c’est le paragraphe 50(3) de la Loi qui, comme nous l’avons fait remarquer, confère à la Cour la compétence de la lever, et, sauf en cas de circonstances extraordinaires ou à caractère non litigieux, cette compétence doit être exercée sur requête avec preuve appropriée à l’appui établissant que le fondement factuel de la suspension initiale a tellement changé qu’il justifie une levée totale ou [partielle] de cette suspension.
+L’intimée soutient en outre que, lorsqu’il est établi que la situation justifiant la suspension initiale a changé, la Cour doit décider si tous les faits justifient encore la suspension. En d’autres termes, elle soutient que la Cour doit examiner non seulement l’effet produit par le changement de situation ou des circonstances, mais également tous les faits sous‑jacents au prononcé de la suspension initiale pour décider s’ils justifient une suspension. Cela équivaudrait à un nouvel examen de la suspension dans son ensemble.
+L’intimée soutient que le fait que l’appel dans l'affaire Kossow n’a pas été entendu en juin 2008 et se trouve maintenant enlisé dans des sables mouvants procéduraux avant l’instruction, et le fait qu’il est prévisible qu’aucune date d’audition de l’appel au fond ne sera fixée avant un certain temps, constituent des changements importants à la situation qui a donné lieu à la suspension. Elle soutient que ce changement est appréciable et qu’il justifie la levée de la suspension.
+De plus, elle avance que la suspension de l’instance n’est pas justifiée à la lumière d’un examen de l’ensemble des faits de ces appels. Selon elle, les appelants n’ont pas établi comment la poursuite de leurs appels pourrait être oppressive, vexatoire ou préjudiciable à leur égard. Les seuls moyens qu’ils invoquent tiennent au fait qu’ils seraient tenus de financer une instruction d’une durée de deux semaines, dont une partie pourrait en fin de compte se dérouler à Toronto et, partant, les obliger à se déplacer loin de leur demeure et à travailler à Vancouver. L’intimée ajoute que les frais et les inconvénients ne constituent pas des circonstances spéciales justifiant la suspension.
+De surcroît, ni les appelants ni l’intimée n’ont accepté d’être liés par l’issue de l’appel Kossow et il n’est donc pas certain qu’un dédoublement de litige aura lieu si la suspension n’est pas maintenue.
+Enfin, elle invoque le préjudice qui, estime‑t‑elle, lui sera causée si la suspension n’est pas levée de même que l’éventuelle perte d’éléments de preuve, l’incapacité du ministre à percevoir les impôts en l’espèce et les oppositions connexes qu’occasionnerait une issue des appels favorable à l’intimée.
+Les appelants soutiennent que le seul critère applicable à la levée de la suspension est le suivant : les faits de l’affaire ont-ils tellement changé qu’ils justifient la modification de l’ordonnance initiale? Ils renvoyent aux observations suivantes du juge en chef adjoint Jerome dans la décision Canadian Tire Corporation Limited v. Pit Row Services Ltd., [1988] 19 C.P.R. (3rd), de la Section de première instance de la Cour fédérale du Canada, lesquelles ont en outre été reprises par la Cour d’appel fédérale dans l’arrêt Del Zotto. Voici ces observations :
+Le recours demandé tend essentiellement à me faire rouvrir ou réexaminer la requête de la demanderesse visant à obtenir une injonction interlocutoire. Il est évident qu’il s’agit là du genre de décision le plus extraordinaire dans n'importe quelle question décidée par la cour. Ce recours exige évidemment de la documentation à l'appui qui doit également être de nature extraordinaire. Il est assez probable qu'une telle requête puisse réussir grâce à une preuve de fait qui indique que le fondement factuel de la décision originale était essentiellement erroné, et qu’il ne s’agissait pas seulement d’une question de nuance ou de degré. Il faudrait que ce soit essentiellement différent. Il faudrait démontrer que les faits réels sont si essentiellement différents des faits sur le fondement desquels la décision originale a été rendue que ce serait, à mon avis, extraordinaire.
+Bien que la Section de première instance de la Cour fédérale ait été saisie d’une demande tendant à la levée d’une injonction interlocutoire dans l’affaire Canadian Tire, la Cour d’appel fédérale a déclaré, dans l’arrêt Del Zotto, que les principes énoncés dans cette décision s’appliquaient également à la demande de levée d’une suspension d’instance. Les appelants soutiennent qu’il n’était donc pas loisible à la Cour d’examiner maintenant l’un ou l’autre des faits ayant donné lieu à la suspension, à l’exception de ceux susceptibles d’avoir changé depuis la date des ordonnances.
+Les appelants soutiennent que le report de l’appel dans l'affaire Kossow devant la Cour et les délais survenus dans cette affaire ne constituent pas un changement de situation ou, dans le cas contraire, de nature extraordinaire comme l'entendait la Section de première instance de la Cour fédérale dans la décision Canadian Tire. Ils soutiennent qu’il n’y a pas lieu de lever la suspension.
+Je conviens avec les appelants que, lorsqu'une partie sollicite la levée de la suspension d’instance, la Cour doit dire si les faits qui ont donné lieu à l’ordonnance de suspension ont changé de façon appréciable, et déterminer l’effet que ce changement aurait sur la décision de prononcer l’ordonnance de suspension initiale. Cependant, je crois que la situation, depuis le prononcé de l’ordonnance rendue par la Cour le 22 novembre 2007 a changé de façon appréciable ou extraordinaire.
+Selon moi, il ressort sans équivoque de la transcription de la conférence sur la gestion de l’instance tenue le 16 novembre 2007 que, lorsqu’il a décidé d’ordonner la suspension, le juge Campbell Miller a accordé beaucoup de poids au fait que l’appel dans l'affaire Kossow serait entendu sans délai en juin 2008. Le report subséquent de la date d’audience et le fait qu'il était peu probable que l’appel serait entendu par la Cour avant la fin de 2009 ne correspondent pas à mon avis au but de l’ordonnance du 22 novembre rendue dans les présents appels, à savoir permettre un sursis relativement court de l’instance afin d’en éviter le dédoublement et les dépenses de temps et d’argent qui en découleraient pour les appelants.
+En l’absence de toute certitude quant au moment où l’appel dans l'affaire Kossow sera finalement entendu, le délai survenu dans les présents appels revêt maintenant une importance beaucoup plus grande. Le délai de l'audition dans cette affaire de l’appel Kossow dépasse considérablement celui que la Cour avait envisagé lorsqu’elle a rendu l’ordonnance et je conviens qu’il est préjudiciable à l’intimée.
+En outre, même si les parties n’en ont pas fait mention, la situation en l’espèce a changé à un autre égard, et il convient d’en tenir compte. En effet, de nombreuses questions de procédure se sont greffées à cet appel depuis la conférence sur la gestion de l’instance tenue en novembre 2007. Du moins pour l’instant, ces questions procédurales ou d’autres questions analogues n’ont pas été soulevées dans les présents appels. Vu l’ajout de ces questions dans le cadre de cet appel, la résolution de celui‑ci ne sera peut-être pas aussi utile pour trancher les présents appels qu’il ne le paraissait en novembre 2007.
+Je suis conscient du fait que les appelants, dans des affidavits produits au soutien des présentes requêtes, ont signalé qu’ils tenteraient eux‑mêmes de soulever en l’espèce les nouvelles questions soumises à la Cour dans l’appel dans l'affaire Kossow, mais ils ne l’ont pas encore fait. De plus, il semble qu’il puisse être impossible pour les appelants de soulever ces questions, ou à tout le moins certaines d’entre elles, compte tenu de l’étape déjà avancée à laquelle en est rendue la procédure préalable à l’audience.
+Je conclus que, vu tous ces changements, les ordonnances du 22 novembre 2007 n'ont plus leur raison d'être. Je conclus qu’il est dans l’intérêt de la justice d’accueillir les requêtes et de lever la suspension de l’instance prononcée dans ces ordonnances.
+L’intimée n’a demandé aucuns dépens au titre de la requête, et aucuns ne sont adjugés.
+Traduction certifiée conforme
+Ce 29e jour de juillet 2009
+François Brunet, réviseur

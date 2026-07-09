@@ -1,0 +1,252 @@
+---
+title: "Oliveira v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521067/index.do"
+last_modified: "2023-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 33"
+citation2: ""
+neutral_citation: "2023 TCC 33"
+decision_date: "2023-07-21"
+language: "en"
+item_id: "521067"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5826
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:44:32.688000+00:00"
+cases_cited_count: 8
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4ff9473674dec8361528bea439210c3e0bbd9d64469bd31cdd113c6e078689ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Oliveira v. The King
+
+- Citation: 2023 TCC 33
+- Decision date: 2023-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5826, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oliveira v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-07-21
+Neutral citation
+2023 TCC 33
+File numbers
+2022-2395(IT)APP, 2022‑2397(GST)APP
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2022-2395(IT)APP
+2022-2397(GST)APP
+BETWEEN:
+BRUNO OLIVEIRA,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Applications heard on March 9, 2023 at Kelowna, British Columbia
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Applicant:
+Matt Stainsby
+Counsel for the Respondent:
+Erin Krawchuk
+ORDER
+The applications for orders extending time to institute appeals under subsection 167(1) of the Income Tax Act and subsection 305(1) of the Excise Tax Act are dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of March 2023.
+“David Spiro”
+Spiro J.
+Citation: 2023 TCC 33
+Date: 20230721
+Dockets: 2022-2395(IT)APP
+2022-2397(GST)APP
+BETWEEN:
+BRUNO OLIVEIRA,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR ORDER
+Spiro J.
+[1] Mr. Bruno Oliveira, a high school teacher in Kelowna, British Columbia, asks the Court to issue orders extending time to institute appeals against director’s liability assessments under the Income Tax Act and the Excise Tax Act. His counsel says that all of the conditions to qualify for such an extension have been satisfied. Crown counsel says they have not.
+[2] On September 30, 2019, the Canada Revenue Agency (the “CRA”) assessed Mr. Oliveira as a director of a numbered company under section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act. Mr. Oliveira says that he was never a director of that company.
+[3] Mr. Oliveira disputed the assessments by objecting to each. He followed up with numerous communications with the CRA’s Appeals Division and dealt with several CRA officials with a view to having the assessments vacated.
+[4] The CRA’s Appeals Division eventually completed its review and sent notices of confirmation to Mr. Oliveira confirming the assessments. The CRA had decided not to vacate the assessments as Mr. Oliveira had requested.
+[5] Mr. Oliveira’s next step, as described to him by the CRA in the notices of confirmation, was to institute appeals with this Court within the statutory 90-day period. Both notices specifically refer to that deadline. He missed it.
+[6] But even if one misses the 90-day deadline, both the Income Tax Act and the Excise Tax Act offer a grace period of one year to apply to this Court for orders extending time to institute an appeal. Because he missed that deadline as well, I must dismiss Mr. Oliveira’s applications.
+Statutory Provisions
+[7] The Income Tax Act and the Excise Tax Act allow an appeal of an assessment to be instituted with this Court within 90 days of the CRA sending a notice of confirmation of the assessment. Typically, a notice of confirmation is sent after the CRA’s Appeals Division rejects the objection. That is exactly what happened here.
+[8] If an appeal is not instituted within those 90 days, an application for an extension of time to institute the appeal may be made to this Court if the application is made within one year of the 90-day deadline. Filing an application within that year is necessary, but not sufficient, for this Court to allow the application.
+[9] If the application is filed within one year after the 90-day deadline, the Court must then consider whether all of the other statutory conditions are satisfied, namely:
+(a)within the 90-day deadline the applicant (i) was unable to act or instruct someone else to act for them, or (ii) had a bona fide intention to appeal;
+(b)it would be just and equitable to grant the application;
+(c)the application was made as soon as circumstance permitted; and
+(d)there are reasonable grounds for the appeal.
+[10] The applicant has the onus of establishing, on a balance of probabilities, that each condition has been satisfied.[1]
+[11] The most important condition is the timeliness of the application as set out in paragraph 167(5)(a) of the Income Tax Act and paragraph 305(5)(a) of the Excise Tax Act. The relevant provisions of the Income Tax Act are reproduced at Schedule “A” and the relevant provisions of the Excise Tax Act are reproduced at Schedule “B”.
+[12] As I have concluded that Mr. Oliveira did not apply for the orders on time, it is unnecessary to consider any of the other statutory conditions.
+Findings of Fact
+[13] With respect to the Income Tax Act assessments, the Crown filed an affidavit from Mr. Steve Kos of the CRA. He stated that the CRA confirmed the assessments by way of notice of confirmation dated May 10, 2021[2] and attached a copy of the notice of confirmation to his affidavit. The notice is dated May 10, 2021.[3] It informed Mr. Oliveira that his objection was disallowed and that the assessments were confirmed. It also advised Mr. Oliveira that:
+According to section 169 of the Income Tax Act, if you disagree with this decision, you may appeal to the Tax Court of Canada within 90 days from the date of the notice of confirmation. For information on how to file an appeal, see the publication RC4443-2, Appealing income tax assessments to Tax Court of Canada, at canada.ca/cra-publication-rc4443-2. You can also get up to date information by going to the Tax Court of Canada website at tcc-cci.gc.ca.
+[14] With respect to the Excise Tax Act assessment, the Crown filed an affidavit from Mr. Andy Cheung of the CRA. He stated that the CRA confirmed the assessment by way of notice of confirmation sent by registered or certified mail as required by the Excise Tax Act.[4] Mr. Cheung mailed the notice himself and described the steps he took in doing so. He also followed up on its delivery to Mr. Oliveira that occurred on May 17, 2021.[5] Mr. Cheung attached a copy of the notice of confirmation that informed Mr. Oliveira of the confirmation of the assessment. It also advised Mr. Oliveira that:
+Section 306 of the Excise Tax Act says that, if you disagree with this decision, you may appeal to the Tax Court of Canada within 90 days from the date of the notice of confirmation. For information on how to file an appeal, see the publication RC4443-3, Appealing GST/HST assessments to Tax Court of Canada, at canada.ca/cra-publication-rc4443-3. You can also get up to date information by going to the Tax Court of Canada website at tcc-cci.gc.ca.
+[15] In cross-examination, Mr. Oliveira told the Court that he read the original notices of confirmation while he was in the bathroom. While reading the notices, he had to leave the bathroom suddenly. After that, the bathroom flooded. The flood destroyed the original notices of confirmation, so he asked CRA’s Appeals Division for replacements. The CRA provided them under cover of a letter dated August 26, 2021.[6]
+[16] Although Mr. Oliveira could not recall when he received the original notices of confirmation, he did not deny having received them.[7] Indeed, he was reading them in the bathroom at some point during the summer of 2021. In light of the statutory presumptions in subsection 244(14) of the Income Tax Act and subsection 335(10) of the Excise Tax Act, and the affidavit evidence of the CRA, I find that the original notices of confirmation were mailed to Mr. Oliveira on May 10, 2021.[8]
+[17] Although the 90-day period to institute his appeals to this Court had expired by the end of August 2021 when he received the replacement notices, Mr. Oliveira was still within the statutory one-year grace period to apply to this Court for orders extending time to institute those appeals. He did not make those applications until September 13, 2022. By then, the statutory one-year grace period had expired.
+[18] After considering all of the evidence, I find the following:
+September 30, 2019
+The CRA issues director’s liability assessments under section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act against Mr. Oliveira.
+December 19, 2019
+Mr. Oliveira objects to the assessments by serving a notice of objection on the Minister of National Revenue under subsection 165(1) of the Income Tax Act and filing a notice of objection with the Minister of National Revenue under subsection 301(1) of the Excise Tax Act.[9]
+May 10, 2021
+The CRA sends a notice of confirmation of the assessments under section 227.1 of the Income Tax Act to Mr. Oliveira, as required by subsection 169(1) of that Act and sends a notice of confirmation of the assessment under section 323 of the Excise Tax Act to Mr. Oliveira, as required by subsection 301(5) of that Act.
+August 8, 2021
+The 90-day deadline for Mr. Oliveira to institute appeals with this Court under subsection 169(1) of the Income Tax Act and section 306 of the Excise Tax Act against the assessments expires.
+August 9, 2021
+Mr. Oliveira attempts to fax a letter to the “CRA Western Appeals Intake Centre” in which he continues to make representations to CRA’s Appeals Division in respect of the assessments.[10] He does not intend to send the fax to this Court.
+August 26, 2021
+At Mr. Oliveira’s request, the CRA sends replacement copies of the notices of confirmation originally sent on May 10, 2021. Having received those copies, he is aware of what he needs to do to appeal to this Court.[11] Although he was out of time to institute his appeals with the Court, he was in time to apply for extensions of time to institute the appeals within the statutory one-year grace period.
+August 8, 2022
+The statutory one-year grace period for Mr. Oliveira to apply to this Court for extensions of time to institute appeals under paragraph 167(5)(a) of the Income Tax Act and paragraph 305(5)(a) of the Excise Tax Act expires.
+September 13, 2022
+Mr. Oliveira applies to this Court for extensions of time to institute appeals under subsection 167(1) of the Income Tax Act and subsection 305(1) of the Excise Tax Act.
+Submissions for Mr. Oliveira
+[19] Counsel for Mr. Oliveira relied heavily on the decision of Justice Boyle in Hickerty v The Queen, 2007 TCC 482. In that case, Justice Boyle found that Mrs. Hickerty intended to file a notice of appeal with this Court but sent it to the wrong address – an address belonging to the CRA that had been provided to her by the CRA. Justice Boyle’s findings of fact included that:
+1)The taxpayer sought to appeal to this Court virtually immediately upon hearing of CRA Appeals’ decision on her objections;
+2)She prepared and mailed her notice of the appeal to the Court;
+3)Her mistake was to wrongly address it. She called CRA’s information line for the Court’s address and mailed it to the address she was given. Unfortunately, that was an incorrect address. . . .[12]
+[20] In such circumstances, Justice Boyle decided not to count the period during which Mrs. Hickerty was under a reasonable but mistaken belief that she validly instituted an appeal in the statutory one-year grace period provided by paragraph 167(5)(a) of the Income Tax Act.[13]
+[21] On the evidence before me, however, I find that Mr. Oliveira did not intend to send his fax of August 9, 2021 to this Court but intended to send it to the CRA instead. In any event, even if Mr. Oliveira believed that his fax somehow instituted his appeals, that belief would not have been reasonable.[14] He failed to take seriously the words of the original notices of confirmation advising him on the next step if he disagreed with the CRA’s decision. Nor did he take seriously the same words in the replacement copies of the notices of confirmation that he received three months later. Indeed, he conceded in cross-examination that after receiving the replacement copies, he was aware of what he needed to do to appeal to this Court.[15]
+[22] Counsel for Mr. Oliveira also relied on Breathe E-Z Homes Ltd. v MNR, 2014 TCC 122 in support of his case. That decision, too, is distinguishable on its facts. Dealing with a similar statutory scheme, Justice Bocock allowed an application for an extension of time by Breathe E-Z Homes, notwithstanding that that it missed the extended deadline. It had properly instructed counsel, but counsel dropped the ball. Justice Bocock’s findings of fact included that:
+(a)the applicant did what it reasonably could to appeal the assessments;
+(b)the applicant was under a reasonably held misapprehension that everything was proceeding properly; and
+(c)the applicant was diligent and mindful of the deadlines and time frames of which it was made aware.[16]
+[23] Here, the opposite is true. Having read the clear words of the notices of confirmation, I find that:
+(a)Mr. Oliveira failed to do what he could reasonably have done to appeal the assessments;
+(b)Mr. Oliveira was not under a reasonably held misapprehension that everything was proceeding properly; and
+(c)Mr. Oliveira was less than diligent as he ignored the deadline to appeal to this Court – a deadline about which the CRA specifically informed him in the original and replacement notices of confirmation.
+[24] Finally, counsel for Mr. Oliveira asked me to take into account fairness and equity with particular reference to:
+(a)Mr. Oliveira’s plea that he had never been a director of the numbered company;
+(b)Mr. Oliveira’s inability to pay the assessments of some $180,000; and
+(c)Mr. Oliveira having been a mere 36 days late in filing his applications.
+[25] In rejecting counsel’s request, I can do no better than to cite the authorities relied on by Justice Lafleur at the end of her reasons in Pietrovito v The Queen, 2017 TCC 119:
+[86] Finally, here are my last comments: no consideration of fairness or equity can be of assistance to the Appellant as this Court is a statutory court. As explained in Odebala‑Fregene, supra [2015 TCC 44]:
+22 Factoring in the nature of the specialized statutory scheme of the Act and that this Court is a statutory Court, considerations of fairness do not apply. In his submission, respondent counsel referred to the Federal Court of Appeal in Chaya v Canada, 2004 FCA 327, 2004 DTC 6676 (FCA), which noted that such grounds are not within the power of this Court. In paragraph 4 of the decision, Rothstein JA, as he then was stated:
+4 … It is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity. If the applicant considers the law unfair, his remedy is with Parliament, not with the Court.
+[26] Had Mr. Oliveira taken seriously the words of the original notices of confirmation, he would have instituted his appeals with this Court within the 90‑day time limit. But even if he first became aware of the next step in late August 2021 when he received the replacement notices, he would have been in a position to file applications with this Court for extensions of time to institute his appeals within the one-year statutory grace period.
+Conclusion
+[27] Under subsection 169(1) of the Income Tax Act and section 306 of the Excise Tax Act, Mr. Oliveira had 90 days from May 10, 2021 to institute his appeals with this Court. Those 90 days expired on August 8, 2021. Under paragraph 167(5)(a) of the Income Tax Act and paragraph 305(5)(a) of the Excise Tax Act, Mr. Oliveira had until August 8, 2022 to apply for orders extending time to institute his appeals with this Court. He did not file those applications until September 13, 2022.
+[28] I must, therefore, dismiss Mr. Oliveira’s applications for orders extending time to institute appeals under subsection 167(1) of the Income Tax Act and subsection 305(1) of the Excise Tax Act. I will do so without costs.
+These Amended Reasons for Order are issued in substitution of the Reasons for Order dated March 17, 2023 to add the word “assessment” at the end of Schedule “B”.
+Signed at Ottawa, Canada, this 21st day of July 2023.
+“David E. Spiro”
+Spiro J.
+Schedule “A”
+90-Day Deadline to File a Notice of Appeal of Income Tax Act Assessments
+165(3) On receipt of a notice of objection under this section, the Minister shall, with all due dispatch, reconsider the assessment and vacate, confirm or vary the assessment or reassess, and shall thereupon notify the taxpayer in writing of the Minister’s action.
+***
+169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been sent to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+One-Year Grace Period to File an Application for an Extension of Time to File a Notice of Appeal of Income Tax Act Assessments
+167(1) Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+***
+167(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+Schedule “B”
+90-Day Deadline to File a Notice of Appeal of Excise Tax Act Assessments
+301(3) On receipt of a notice of objection, the Minister shall, with all due dispatch, reconsider the assessment and vacate or confirm the assessment or make a reassessment.
+301(4) Where, in a notice of objection, a person who wishes to appeal directly to the Tax Court requests the Minister not to reconsider the assessment objected to, the Minister may confirm the assessment without reconsideration.
+301(5) After reconsidering an assessment under subsection (3) or confirming an assessment under subsection (4), the Minister shall send to the person objecting notice of the Minister’s decision by registered or certified mail.
+***
+306 A person who has filed a notice of objection to an assessment under this Subdivision may appeal to the Tax Court to have the assessment vacated or a reassessment made after either
+(a) the Minister has confirmed the assessment or has reassessed, or
+(b) one hundred and eighty days have elapsed after the filing of the notice of objection and the Minister has not notified the person that the Minister has vacated or confirmed the assessment or has reassessed,
+but no appeal under this section may be instituted after the expiration of ninety days after the day notice is sent to the person under section 301 that the Minister has confirmed the assessment or has reassessed.
+One-Year Grace Period to File an Application for an Extension of Time to File a Notice of Appeal of Excise Tax Act Assessments
+305(1) Where no appeal to the Tax Court under section 306 has been instituted within the time limited by that provision for doing so, a person may make an application to the Tax Court for an order extending the time within which an appeal may be instituted, and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+***
+305(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Part for appealing; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Part for appealing,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted it to be made, and
+(iv) there are reasonable grounds for appealing from the assessment.
+CITATION:
+2023 TCC 33
+COURT FILE NO.:
+2022-2395(IT)APP and 2022‑2397(GST)APP
+STYLE OF CAUSE:
+BRUNO OLIVEIRA AND
+HIS MAJESTY THE KING
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+March 9, 2023
+AMENDED REASONS FOR ORDER BY:
+The Honourable Justice David E. Spiro
+DATE OF ORDER:
+March 17, 2023
+APPEARANCES:
+Counsel for the Applicant:
+Matt Stainsby
+Counsel for the Respondent:
+Erin Krawchuk
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Matt Stainsby
+Firm:
+Lawson Lundell LLP Kelowna, British Columbia
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Dewey v Canada, 2004 FCA 82.
+[2] Exhibit R-2, para 6.
+[3] In light of the statutory presumption in subsection 244(14) of the Income Tax Act, it was not necessary for the CRA to offer affirmative proof that the notice of confirmation was mailed on a particular date as subsection 244(14) gives rise to a rebuttable presumption that the notice of confirmation was mailed on the date of the notice. In the absence of evidence to the contrary (which does not include Mr. Oliveira’s failure to recall when he received it), I decline the invitation by Mr. Oliveira’s counsel to find that the notice of confirmation under the Income Tax Act was not mailed on the date of the notice.
+[4] Subsection 301(5) of the Excise Tax Act. There is no analogous requirement under the Income Tax Act to send a notice of confirmation by registered or certified mail.
+[5] Exhibit R-3, paras 3-6.
+[6] Exhibit R-1.
+[7] Mr. Oliviera could not remember when he served and filed his notices of objection and could not recall when he filed his applications for extensions of time. His failure to recall the date on which he received the original notices of confirmation, therefore, comes as no surprise.
+[8] In addition to subsection 335(10) of the Excise Tax Act, subsection 335(1) of that Act is also relevant as subsection 301(5) requires that a notice of confirmation be sent by registered or certified mail.
+[9] Subsection 165(1) of the Income Tax Act provides that a taxpayer objecting to an assessment may “serve” a notice of objection on the Minister of National Revenue while subsection 301(1.1) of the Excise Tax Act provides that a person objecting to an assessment may “file” a notice of objection with the Minister.
+[10] Exhibit A-1. Mr. Oliveira testified that he did not realize until later on that the CRA had not received the fax. Whether, or when, the CRA received the fax is immaterial, as Mr. Oliveira did not intend to send that fax to this Court.
+[11] Transcript, page 55, lines 12-19.
+[12] Hickerty v The Queen, 2007 TCC 482 at para 10.
+[13] Hickerty, at para 12.
+[14] See Gidda v The Queen, 2013 TCC 190 and Pietrovito v The Queen, 2017 TCC 119 for examples of other mistaken but unreasonable beliefs.
+[15] Transcript, page 55, lines 12-19.
+[16] Breathe E-Z Homes Ltd. v MNR, 2014 TCC 122 at paras 25(a), (e), and (f).

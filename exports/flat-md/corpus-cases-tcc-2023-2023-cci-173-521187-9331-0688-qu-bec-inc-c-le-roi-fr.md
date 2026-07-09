@@ -1,0 +1,171 @@
+---
+title: "9331-0688 Québec Inc. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521187/index.do"
+last_modified: "2023-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 173"
+citation2: ""
+neutral_citation: "2023 CCI 173"
+decision_date: "2023-12-19"
+language: "fr"
+item_id: "521187"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5645
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T11:17:25.280000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0283636bf6b0af2451166358d1da33336b4318b9dbde926fd89e1d64443d9b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9331-0688 Québec Inc. c. Le Roi
+
+- Citation: 2023 CCI 173
+- Decision date: 2023-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5645, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9331-0688 Québec Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-12-19
+Référence neutre
+2023 CCI 173
+Numéro de dossier
+2023-128(GST)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2023-128(GST)I
+ENTRE :
+9331-0688 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu le 31 Octobre 2023, à Montréal (Québec)
+Devant : L'honorable juge Gaston Jorré, juge suppléant
+Comparutions :
+Représentant de l’appelante :
+Pierre Turgeon
+Avocate de l'intimé :
+Me Gabrielle Dagenais
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d'accise pour les périodes du 1er juillet 2017 au 31 décembre 2018 est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2023.
+« G. Jorré »
+Juge suppléant Jorré
+Référence : 2023 CCI 173
+Date : 20231219
+Dossier : 2023-128(GST)I
+ENTRE :
+9331-0688 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Jorré
+Les questions en litige
+[1] 9331-0688 Québec Inc., l’appelante, appelle d’une cotisation en vertu de la loi sur la taxe d’accise datée le 30 mars 2022. La cotisation est relative à la période du 1er juillet 2017 aux 31 décembre 2018.
+[2] La seule question en litige est à savoir si l’appelante pouvait faire un choix en vertu de l’article 156(2) de la loi sur la taxe d’accise. Si ce choix a été valablement fait, certaines fournitures taxables entre les compagnies ayant fait ce choix sont considérées comme étant effectuées sans contrepartie.
+[3] Il n’y a aucun désaccord quant au calcul des montants cotisés.
+[4] Soit l’appelante pouvait faire le choix est l’appel doit être accueilli ou l’appelante ne pouvait se prévaloir du choix et l’appel doit être rejeté.
+Les faits
+[5] L’appelante a demandé que ce choix soit appliqué aux compagnies suivantes[1]:
+L’appelante, ECJM Ltée et Excavation McBec Ltée sont des personnes morales.
+[6] Monsieur Jason McKie est l’unique actionnaire de chacune de ces trois compagnies.
+Droit
+[7] Pour simplifier la lecture du texte de loi, je ne reproduis que les portions essentielles du texte. La totalité des articles pertinents est reproduite à l’annexe A de ces motifs.
+[8] Le paragraphe 156(2) de la loi sur la taxe d’accise prévoit que :
+… si … une personne qui est un membre déterminé d’un groupe admissible produit … un choix qu’elle a fait conjointement avec un autre membre déterminé du groupe, toute fourniture taxable effectuée entre eux … est réputée être effectuée sans contrepartie.
+[9] Le paragraphe 156(1) de la loi sur la taxe d’accise définit « groupe admissible » de la façon suivante :
+a) Groupe de personnes morales dont chaque membre est étroitement lié, au sens de l’article 128, à chacun des autres membres du groupe.
+ou
+b) groupe de sociétés de personnes canadiennes, ou de sociétés de personnes canadiennes et de personnes morales, dont chaque membre est étroitement lié, au sens du présent article, à chacun des autres membres du groupe.
+[10] Le paragraphe 156(1) définit « membre admissible » de la façon suivante:
+Est membre admissible d’un groupe admissible l’inscrit qui est soit une personne morale résidant au Canada, soit une société de personnes canadienne et qui répond aux conditions suivantes :
+a) il est membre du groupe;
+[et qui remplit certaines autres conditions.]
+[11] Le paragraphe 156(1) définit « membre déterminé » de la façon suivante:
+Est membre déterminé d’un groupe admissible :
+a) le membre admissible du groupe;
+…
+[12] Le paragraphe 128 (1) de la loi sur la taxe d’accise prévoit que :
+… une personne morale donnée et une autre personne morale sont étroitement liées … si, … selon le cas :
+a) l’une des personnes ci-après détient le contrôle admissible des voix relativement à l’autre personne morale et est propriétaire d’au moins 90 % de la valeur et du nombre des actions, émises et en circulation et comportant plein droit de vote en toutes circonstances, du capital-actions de l’autre personne morale :
+(i) la personne morale donnée,
+(ii) la filiale déterminée de la personne morale donnée,
+(iii) la personne morale dont la personne morale donnée est une filiale déterminée,
+(iv) la filiale déterminée d’une personne morale dont la personne morale donnée est une filiale déterminée,
+(v) plusieurs des personnes morales ou filiales visées aux sous-alinéas (i) à (iv);
+b) l’autre personne morale est une personne morale visée par règlement quant à la personne morale donnée.
+(Je souligne)
+[13] Une « filiale déterminée » est nécessairement une personne morale.[2]
+[14] Dans ce cas, il n’est pas question de sociétés de personnes canadiennes.
+Analyse
+[15] La prétention de l’appelante est qu’elle peut se prévaloir du choix parce que les compagnies sont des sociétés associées.[3]
+[16] Toutefois, pour faire le choix, ce n’est pas suffisant que les compagnies soient associées. Il faut qu’ils soient étroitement liés au sens de l’article 128.
+[17] Selon l’article 128, seules les personnes morales contrôlées par une personne morale peuvent être étroitement liées.
+[18] Le propriétaire de l’appelante, ECJM Ltée et Excavation McBec Ltée. est un individu et non une personne morale.
+[19] En conséquence, aucune de ces trois compagnies n’est étroitement liée telle qu’exigée par le sous-paragraphe 128(1)a) de la loi sur la taxe d’accise et l’appel doit être rejeté.[4]
+Conclusion
+[20] Finalement, je note que l’appelante a demandé que l’intérêt et la pénalité soient réduits. La loi ne permet pas à cette Cour de réduire l’intérêt ou la pénalité si ces montants ont été valablement déterminés par l’intimé.
+[21] En conséquence, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2023.
+« G. Jorré »
+Juge suppléant Jorré
+RÉFÉRENCE :
+2023 CCI 173
+Nº DU DOSSIER DE LA COUR :
+2023-128(GST)I
+INTITULÉ DE LA CAUSE :
+9331-0688 QUÉBEC INC ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 31 octobre 2023
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Gaston Jorré, juge suppléant
+DATE DU JUGEMENT :
+Le 19 décembre 2023
+COMPARUTIONS :
+Représentant de l’appelante:
+Pierre Turgeon
+Avocate de l'intimé:
+AVOCATS INSCRITS AU DOSSIER
+Pour l’appelante :
+Me Gabrielle Dagenais
+Nom :
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Le formulaire pertinent se trouve aux pages 98 à 100 - telle que numérotée au milieu du bas de la page - de l’onglet 3 de la pièce I-1.
+[2] Voir la définition de « filiale déterminée » au sous-paragraphe 123(1) de la loi sur la taxe d’accise.
+[3] Ce fait était reconnu par le vérificateur. Voir la pièce A-1. L’appelante s’appuie également sur le Bulletin d’interprétation IT-64R4 relatif à la loi de l’impôt sur le revenu.
+[4] Un exemple semblable, mais avec des faits plus compliqué, est : Rockport Developments c. La Reine 2009 CCI 180, voir, entre autres, les paragraphes 57 à 59.

@@ -1,0 +1,193 @@
+---
+title: "Veitch Holdings Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29185/index.do"
+last_modified: "2009-04-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 197"
+citation2: ""
+neutral_citation: "2009 CCI 197"
+decision_date: "2009-04-17"
+language: "fr"
+item_id: "29185"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6682
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:58:35.830000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2655e31474cd77d5c1edf9c45f2f58a3c12c6f0328fb19d173a03ab0a6cbf32a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Veitch Holdings Ltd. c. La Reine
+
+- Citation: 2009 CCI 197
+- Decision date: 2009-04-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6682, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Veitch Holdings Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-17
+Référence neutre
+2009 CCI 197
+Numéro de dossier
+2006-1838(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-1838(GST)I
+ENTRE :
+VEITCH HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue le 26 mars 2009, à Winnipeg (Manitoba).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelante :
+Me Scott Gray
+Avocat de l’intimée :
+Me Gérald Chartier
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’intimée pour que la Cour rende une ordonnance de radiation, sans autorisation de le modifier, de l’avis d’appel présenté par l’appelante à l’égard d’une cotisation établie en vertu de la Loi sur la taxe d’accise;
+La requête est rejetée.
+L’adjudication des dépens relatifs à la requête est laissée à la discrétion du juge qui entendra l’appel.
+Signé à Halifax (Nouvelle‑Écosse), ce 17e jour d’avril 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 4e jour de septembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 197
+Date : 20090417
+Dossier : 2006-1838(GST)I
+ENTRE :
+VEITCH HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+La juge V.A. Miller
+[1] L’intimée a déposé la présente requête en vue d’obtenir une ordonnance de radiation de l’avis d’appel – sans autorisation de le modifier –, une ordonnance accordant toute autre conclusion que la Cour considère comme appropriée, et une ordonnance accordant les dépens relatifs à la présente requête. Les moyens invoqués dans la requête sont les suivants :
+a) l’avis d’appel n’expose aucun moyen d’appel raisonnable;
+b) l’avis d’appel est frivole et scandaleux;
+c) l’avis d’appel constitue un recours abusif à la Cour;
+d) l’avis d’appel comporte un argument juridique que l’appelant n’a pas qualité pour invoquer.
+L’intimée a fait référence aux articles 4, 53, 58 et 65 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »).
+[2] À l’audience de la requête, l’avocat de l’intimée a affirmé ne pas se fonder sur les articles des Règles auxquels il avait fait référence dans son avis de requête. Cependant, les observations écrites qu’il a déposées contiennent une abondance de références à ces divers articles, et je suis d’avis que l’avocat de l’intimée s’est bel et bien fondé sur les articles auxquels il a fait référence dans l’avis de requête.
+[3] L’avocat de l’intimée a reconnu que l’appelante avait choisi de faire instruire son appel sous le régime de la procédure informelle. Il a invoqué la décision du juge Bowie dans Hinz c. M.R.N.[1] pour soutenir que la Cour a le pouvoir inhérent de régir sa procédure.
+[4] Je note qu’au quatrième paragraphe de sa décision dans Hinz, le juge Bowie a affirmé que, pour les appels instruits sous le régime de la procédure informelle, le recours aux Règles doit être limité aux situations qui requièrent une procédure. Il a explicitement dit que les Règles ne devaient pas être utilisées si elles avaient un effet sur les droits d’un contribuable. Le passage suivant est tiré de Hinz :
+[4] […] Dans le cadre des appels interjetés sous le régime de la procédure informelle et pour les appels qui découlent de la LAE et du RPC, il faut limiter le recours aux Règles de procédure générale aux situations qui requièrent une procédure. Il n’existe aucun mandat pour appliquer les Règles de procédure générale à toutes les situations pour lesquelles le Comité des règles n’a pas jugé bon de prévoir une disposition dans les Règles de procédure informelle ou dans celles applicables en matière d’assurance‑emploi et celles relatives au régime de pensions du Canada. Cela est particulièrement vrai lorsque la question à trancher a un effet sur des droits établis et pas uniquement sur la procédure à suivre.
+[Non souligné dans l’original.]
+[5] Je suis du même avis que le juge Bowie. Il ne faut pas permettre à l’intimée de se servir des Règles pour faire radier un acte de procédure déposé dans le cadre d’un appel instruit sous le régime de la procédure informelle. Si l’intimée avait voulu que les Règles soient appliquées à l’appel en cause, le procureur général aurait dû demander, en vertu de l’article 18.3002 de la Loi sur la Cour canadienne de l’impôt (la « Loi »), que la procédure générale soit appliquée.
+[6] La présentation de l’acte introductif d’instance d’un appel interjeté sous le régime de la procédure informelle devant la Cour n’est assujettie à aucune condition de forme (voir l’article 18.15 de la Loi). L’avis d’appel doit simplement exposer, de façon générale, les moyens d’appels invoqués et les faits pertinents. En l’espèce, l’avis d’appel satisfait à ces exigences.
+[7] La chronologie de l’affaire est la suivante :
+a) l’avis d’appel a été déposé le 22 juin 2006;
+b) la réponse à l’avis d’appel a été déposée le 28 août 2006;
+c) un avis d’audition, daté du 22 mai 2007, a été envoyé aux parties pour les informer que l’audition de l’appel avait été fixée au 19 septembre 2007;
+d) le 11 septembre 2007, l’avocat de l’appelante a demandé l’ajournement de l’audience. Dans une lettre, il a expliqué que pour présenter la meilleure défense possible de la cause de sa cliente, il lui faudrait avoir recours à une preuve d’expert. Comme il n’avait pas encore réussi à trouver d’expert, il a proposé de repousser l’audition de l’appel à la mi‑janvier ou au début février 2008;
+e) dans une lettre datée du 11 septembre 2007, l’intimée a consenti à la demande d’ajournement. Dans sa lettre, l’avocat de l’intimée a affirmé qu’il avait parlé à l’avocat de l’appelante au sujet de la preuve d’expert que celui‑ci voulait présenter. L’intimée a demandé de recevoir une copie du rapport de l’expert dès que possible, au plus tard 30 jours avant l’audience, et ce, malgré le fait que les règles de procédure informelles s’appliquaient à l’appel. L’appelante y a consenti;
+f) le 13 septembre 2007, la demande d’ajournement a été accueillie. La Cour a demandé aux parties de lui fournir un rapport écrit sur l’état du dossier au plus tard le 31 janvier 2008;
+g) dans une lettre datée du 31 janvier 2008, l’avocat de l’appelante a informé la Cour et l’intimée que le rapport d’expert n’était pas encore prêt. Il a expliqué avoir réussi à trouver un expert, mais que celui‑ci était très occupé et qu’il n’allait pas pouvoir commencer à se pencher sur le dossier de l’appelante avant le début de juin 2008. L’avocat de l’appelante a dit qu’il s’attendait à ce que le rapport soit prêt au plus tard le 15 septembre 2008. Il avait aussi joint à sa lettre le curriculum vitæ de l’expert;
+h) le 8 février 2008, l’avocat de l’intimée a informé la Cour qu’il ne s’opposait pas à ce que le rapport de l’expert soit déposé le 15 septembre 2008, mais qu’il lui faudrait assez de temps pour déposer une réponse à ce rapport. L’avocat de l’intimée a dit qu’il était disposé à participer à une conférence téléphonique de gestion d’instance;
+i) le 13 février 2008, la Cour a accueilli la demande de l’appelante, prorogeant ainsi jusqu’au 15 septembre 2008 le délai que celle‑ci avait pour déposer en preuve le rapport d’expert. Une conférence téléphonique de gestion d’instance a alors été fixée au 5 septembre 2008;
+j) le 20 août 2008, l’avocat de l’appelante a informé la Cour que le rapport de l’expert allait seulement être prêt en octobre;
+k) par la suite, deux conférences téléphoniques de gestion d’instance ont été tenues par la Cour, le 5 septembre et le 18 novembre 2008. Pendant la conférence téléphonique du 18 novembre, l’avocat de l’intimée a affirmé avoir reçu le rapport d’expert le 31 octobre et a dit avoir écrit à l’avocat de l’appelante le 14 novembre pour l’aviser de son intention de présenter une requête de radiation de l’avis d’appel compte tenu du fait que l’appelante n’avait pas qualité pour invoquer des droits garantis aux Autochtones;
+[8] À l’audience, l’avocat de l’intimée a dit qu’il ne se fondait plus sur l’argument voulant que l’appelante n’ait pas qualité pour invoquer les droits garantis aux Autochtones.
+[9] S’il est évident et manifeste que l’avis d’appel n’expose aucun moyen d’appel raisonnable et que cet avis est frivole et scandaleux, pourquoi l’intimée a‑t‑elle attendu plus de deux ans avant de présenter une requête de radiation? L’appelante a engagé des frais pour obtenir un rapport d’expert. Ce n’est qu’après avoir reçu ce rapport que l’intimée a décidé de présenter sa requête. À mon avis, l’intimée a trop attendu. L’appel en cause est instruit sous le régime de la procédure informelle, et l’appelante ne devrait pas être empêchée de plaider sa cause.
+[10] L’avocat de l’intimée a affirmé que la requête de radiation avait été présentée dès qu’il était devenu apparent que l’appelante allait soulever une question exigeant des ressources considérables. À mon avis, il ne s’agit pas là d’une bonne raison pour présenter une requête de radiation d’un acte de procédure.
+[11] Je sais très bien que la Cour a déjà radié des actes de procédure dans le cadre d’appels instruits sous le régime de la procédure informelle, mais l’examen des décisions publiées révèle que ces appels correspondaient à une des situations suivantes :
+a) aucun motif d’appel n’était exposé[2];
+b) l’appel portait sur une cotisation égale à zéro[3];
+c) l’acte de procédure ne satisfait absolument pas aux exigences de l’article 18.15 de la Loi[4].
+[12] La requête de radiation d’un acte de procédure peut seulement être accueillie s’il est « évident et manifeste » que l’acte ne révèle aucune cause d’action raisonnable. La Cour suprême du Canada a établi le critère suivant dans Hunt c. Carey Canada Inc.[5], à la page 980 :
+[…] dans l’hypothèse où les faits mentionnés dans la déclaration peuvent être prouvés, est‑il « évident et manifeste » que la déclaration du demandeur ne révèle aucune cause d’action raisonnable? Comme en Angleterre, s’il y a une chance que le demandeur ait gain de cause, alors il ne devrait pas être « privé d’un jugement ». La longueur et la complexité des questions, la nouveauté de la cause d’action ou la possibilité que les défendeurs présentent une défense solide ne devraient pas empêcher le demandeur d’intenter son action. Ce n’est que si l’action est vouée à l’échec parce qu’elle contient un vice fondamental qui se range parmi les autres énumérés à la règle 19(24) des Rules of Court de la Colombie‑Britannique que les parties pertinentes de la déclaration du demandeur devraient être radiées en application de la règle 19(24)a).
+[13] De plus, dans Morris v. R.[6], le juge Bonner (tel était alors son titre) a résumé les principes applicables à la demande de radiation d’un acte de procédure :
+[7] Certains principes se dégagent des affaires portant sur des demandes de radiation, en tout ou en partie, d’actes de procédure.
+1. En général, les allégations de faits figurant dans une déclaration sont réputées être vraies ou susceptibles d’être prouvées. Voir : Unterreiner v. Wilson, (1982), 40 O.R. (2d) 197, 142 D.L.R. (3d) 588 (H.C.), arrêt qui a été confirmé par la Cour d’appel ((1983), 41 O.R. (2d) 472).
+2. Il incombe en grande part à la partie adverse de montrer qu’il ne fait absolument aucun doute que l’acte de procédure est scandaleux, frivole ou vexatoire ou constitue par ailleurs un recours abusif à la Cour. Ce principe s’appuie sur le jugement Erasmus v. The Queen, [1991] 1 C.T.C. 337, 91 D.T.C. 5415 (C.F. 1re inst.).
+3. Le terme [TRADUCTION] « embarrassant » signifie que le rapport entre les allégations et l’affaire est tellement faible que leur non-radiation entraînerait des dépenses inutiles et, de plus, nuirait au procès de l’affaire en engageant les parties dans un différend n’ayant absolument rien à voir avec les questions en litige. [TRADUCTION] « Pour que les allégations puissent être radiées d’une défense pour un tel motif, il me semble que leur manque de pertinence ne doit faire aucun doute et, pour ainsi dire, doit sauter aux yeux. Il ne suffit pas que, après moult arguments, il puisse sembler qu’elles ne peuvent être défendues. » Cette citation est extraite de la décision du lord juge Pickford dans l’affaire City of London v. Horner, (1914), 111 L.T. Rep. 512 (C.A.), page 514.
+[14] En l’espèce, la question soulevée dans l’avis d’appel est de savoir si les terres où l’appelante est située font partie d’une réserve. Dans l’avis d’appel, l’avocat de l’appelante a exposé trois arguments distincts au soutien de sa position. Au moyen de sa requête, l’intimée cherche à faire radier ces trois arguments, ou, subsidiairement, certains d’entre eux.
+[15] Les trois arguments invoqués par l’appelante sont les suivants :
+a) la description du terrain en cause dans le certificat de titre démontre que l’appelante est située sur une réserve;
+b) la cession de terres à la Couronne fédérale en 1906 est invalide;
+c) le principe de la préclusion s’applique.
+[16] Les principaux arguments soulevés par l’intimée dans sa requête étaient les suivants : (1) le certificat de titre en question n’indique pas que les terres ont été dévolues à la Couronne ou mises de côté, ce qui doit être le cas pour que ces terres constituent une réserve; (2) la Cour serait obligée de rendre un jugement déclaratoire pour faire droit aux deux premiers arguments invoqués par l’appelante, ce que la Cour n’aurait pas le pouvoir de faire.
+[17] Après avoir considéré l’ensemble des arguments de l’intimée, j’ai conclu que ces arguments devraient être présentés pendant l’audition de l’appel plutôt que pendant l’audition interlocutoire d’une requête de radiation. Les arguments de l’intimée touchent à des questions de fond et exigent la présentation d’éléments de preuve.
+[18] L’intimée a tort d’affirmer que la Cour serait obligée de rendre un jugement déclaratoire pour trancher la question. La Cour devrait plutôt formuler des conclusions de fait (voir Jeddore c. La Reine[7]).
+[19] Pour toutes ces raisons, la requête de radiation de l’avis d’appel est rejetée. L’adjudication des dépens relatifs à la requête est laissée à la discrétion du juge qui entendra l’appel.
+Signé à Halifax (Nouvelle‑Écosse), ce 17e jour d’avril 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 4e jour de septembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 197
+No DU DOSSIER DE LA COUR :
+2006-1838(GST)I
+INTITULÉ :
+Veitch Holdings Ltd. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 26 mars 2009
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Valerie Miller
+DATE DE L’ORDONNANCE :
+Le 17 avril 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Scott Gray
+Avocat de l’intimée :
+Me Gérald Chartier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Scott Gray
+Cabinet :
+Mirwaldt & Gray
+403 – 171, rue Donald
+Winnipeg (Manitoba)
+R3C 1M4
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2003 CCI 727.
+[2] MacLeod v. The Queen, [2006] 5 C.T.C. 2549.
+[3] MacLeod v. The Queen, 2006 TCC 434.
+[4] Sykes v. The Queen, [1998] 1 C.T.C. 2639; Howard v. The Queen, [1997] 3 C.T.C. 2641; Tuck, 2007 CCI 418.
+[5] [1990] 2 R.C.S. 959.
+[6] 93 D.T.C. 316 (CCI).
+[7] 2001 CCI 962182.

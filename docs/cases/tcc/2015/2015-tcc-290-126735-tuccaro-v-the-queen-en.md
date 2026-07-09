@@ -1,0 +1,224 @@
+---
+title: "Tuccaro v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/126735/index.do"
+last_modified: "2015-11-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 290"
+citation2: ""
+neutral_citation: "2015 TCC 290"
+decision_date: "2015-11-20"
+language: "en"
+item_id: "126735"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2689
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:06:10.224000+00:00"
+cases_cited_count: 15
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7a4fb98f71c1128fb00d2a22f5faa395511bac672c00550c09a5be5368ec95fd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tuccaro v. The Queen
+
+- Citation: 2015 TCC 290
+- Decision date: 2015-11-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2689, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tuccaro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-11-20
+Neutral citation
+2015 TCC 290
+File numbers
+2013-188(IT)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-188(IT)G
+BETWEEN:
+DAVID TUCCARO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motions heard on October 21, 2015 at Ottawa, Canada.
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Maxime Faille
+Graham Ragan
+Counsel for the Respondent:
+William L. Softley
+Darcie Charlton
+ORDER
+Having heard an application by the Respondent pursuant to section 58 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) for the determination of a question of mixed fact and law;
+And having heard the Appellant’s motion seeking an Order pursuant to sections 48 and 53 of the Rules to strike certain portions of the Respondent’s Reply to the Amended Notice of Appeal;
+And upon hearing from counsel for the parties;
+IT IS ORDERED THAT:
+1. The Respondent’s motion and the Appellant’s motion are dismissed, in accordance with the attached Reasons for Order.
+2. Each party shall bear their own costs.
+Signed at Ottawa, Canada, this 20th day of November 2015.
+“J.E. Hershfield”
+Hershfield J.
+Citation: 2015 TCC 290
+Date: 20151120
+Docket: 2013-188(IT)G
+BETWEEN:
+DAVID TUCCARO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hershfield J.
+I. The Motions [1] The Respondent (the “Crown”) has brought a motion seeking an Order pursuant to section 58[1] of the Tax Court of Canada Rules (General Procedure)[2] (the “Rules”) to determine the following question:
+Is the Appellant [Mr. Tuccaro] precluded from re-litigating the issue of whether his income is exempt from income taxation pursuant to Treaty 8, on the basis of issue estoppel?
+[2] The Appellant has brought a motion seeking an Order pursuant to sections 48 and 53 of the Rules to strike certain portions of the Crown’s Reply to the Amended Notice of Appeal.[3]
+II. Background [3] The Appellant is an Indian within the meaning of section 2 of the Indian Act[4] and is a member of the Mikisew Cree First Nation. It is admitted that the Appellant, at all relevant times, was resident on a reserve as defined in the Indian Act, had reported certain income in the subject years (2002 – 2006 inclusive) as exempt, and was assessed on the basis that such income was not exempt.
+[4] The subject of both motions is the exemption sought pursuant to Treaty 8, a treaty within the meaning of the Constitution Act, 1982[5], entered into in 1899 between the Crown and certain First Nations. The Amended Notice of Appeal also claims a tax exemption pursuant to section 87 of the Indian Act. While the motions before me do not deal with that exempting provision per se, I will make reference to this exempting provision later in these Reasons.
+[5] In short, the motions before me derive from a prior series of interlocutory proceedings. These proceedings began when the Respondent filed a motion on June 5, 2013 to strike portions of the Appellant’s Amended Notice of Appeal including, in particular, portions relating to the application of Treaty 8, which I will refer to as the “2013 Treaty 8 motion”. The Respondent based the relief sought on the ground that pleading Treaty 8 would be an abuse of process given the earlier Federal Court of Appeal (the “FCA”) decision in Benoit v Canada.[6]
+[6] In Benoit, the plaintiffs sought a declaration that the Crown had agreed, pursuant to Treaty 8, not to impose any tax on them at any time. The judge hearing the 2013 Treaty 8 motion, in granting the motion to strike the Appellant’s plea for protection from taxation, effectively maintained the result in Benoit which was that the treaty did not afford such broad relief from taxation.
+[7] In granting the 2013 Treaty 8 motion, the motions judge identified res judicata as the ground for the motion to strike but went on to apply, in effect, the principles of the doctrine of stare decisis. The parties appealed to the FCA (the “Tuccaro FCA Appeal”).[7]
+[8] Before continuing, it is necessary to emphasize that the Appellant and the Mikisew Cree First Nation were not parties to Benoit. The Mikisew Cree First Nation, however, was a member of the Athabasca Tribal Corporation (“ATC”), which was such a party.
+The Tuccaro FCA Appeal [9] At the Tuccaro FCA Appeal,[8] the FCA unanimously allowed the Appellant’s appeal and dismissed the 2013 Treaty 8 motion.
+[10] Webb J.A., for the FCA, held that the motions judge erred in law in applying stare decisis with Benoit serving as precedent, as the FCA in Benoit had only reversed the trial judge on a factual finding, not a point of law. Specifically, the FCA in Benoit found that the Trial Division had lacked sufficient evidence before it to reach the conclusion that it did on the understanding of the Aboriginal signatories of Treaty 8. At paragraph 21, Webb J.A. states as follows:
+21 In allowing the appeal, this Court focused on the factual finding of whether "the Aboriginal signatories understood that they would be exempted from taxation at any time for any reason" and, after a detailed review of the record, concluded that there was "insufficient evidence to support" this view (paragraph 116). This was a factual finding following a review of the evidence and reversed the finding of fact that had been made by the Federal Court Judge. Having made this finding of fact, there was no need to address any question of law related to Treaty 8. The only finding made by this Court in Benoit was a finding of fact. Therefore, the principles of stare decisis would not apply. The question is not whether the Tax Court of Canada is "bound by [the] established law regarding the lack of legal effect of Treaty 8 in granting tax exempt status to its signatories" (as stated by the Tax Court Judge), but whether Mr. Tuccaro is bound by the finding of fact in Benoit. The applicable principles are those related to issue estoppel (which is a specie of res judicata), not stare decisis.
+[11] According to Webb J.A., the most relevant doctrine for a motion to strike references to Treaty 8 in the Amended Notice of Appeal was not stare decisis; rather, it would have been issue estoppel. The failure to consider issue estoppel also meant that there was a failure to consider the required elements of issue estoppel.
+[12] Webb J.A. had earlier outlined the elements of issue estoppel:
+14 The requirements for issue estoppel to apply are set out in Angle by Dickson J. (who was quoting from the decision of Lord Guest in Carl Zeiss Stiftung v. Rayner & Keeler Ltd. (No. 2), [1967] 1 A.C. 853 at p. 935):
+(1) ...the same question has been decided;
+(2) ...the judicial decision which is said to create the estoppel was final; and,
+(3) ...the parties to the judicial decision or their privies were the same persons as the parties to the proceedings in which the estoppel is raised or their privies.
+[13] Counsel for the Appellant in the Tuccaro FCA Appeal conceded that the first two requirements would be met.[9] The third requirement would be satisfied only if the Appellant was a privy to ATC, but neither the motions judge nor the FCA had evidence before them on this point.[10]
+III. Rule 58 Issues and Arguments [14] Subsection 58(2) of the Rules reads as follows:
+58. […]
+(2) On the application, the Court may grant an order if it appears that the determination of the question before the hearing may dispose of all or part of the proceeding or result in a substantially shorter hearing or a substantial saving of costs.
+[15] The Respondent submits that a direction under this Rule will dispose of a ground for the appeal and result in a substantial saving of costs. If the discrete question of whether ATC was a privy of the Appellant is answered in the affirmative and exercising discretion to allow the case to proceed regardless of the applicability of issue estoppel is ruled inappropriate, then the issue at trial will be narrowed to the application of section 87 of the Indian Act. Needless to say, the Respondent referred to a number of cases that allowed such bifurcation of an appeal, arguing the same reasoning would support my allowing the Rule 58 motion in the case at bar.[11] The Appellant cites jurisprudence to the opposite effect.[12]
+[16] The Appellant maintains, and the Respondent refutes, that when the FCA reversed the 2013 motions judge’s Order striking references to Treaty 8 in the Amended Notice of Appeal, it necessarily held that such references can be included in such pleading. Accordingly, the Appellant submits that it would be an abuse of process to allow the Respondent to re-litigate that issue under Rule 58.
+[17] Each party is asserting that the other is re-litigating an issue that has been finally decided.
+[18] The Appellant also argues that the Respondent had the onus on the 2013 Treaty 8 motion to adduce evidence sufficient to permit a finding as to whether the third condition for the application of issue estoppel had been met. The Respondent cannot now be allowed to seek a second chance to adduce such evidence.[13]
+[19] The Appellant also argued that the record of the Benoit proceedings establishes that ATC, a party to those proceedings, was not a privy of the Mikisew Cree First Nation. Reference was made to the Appellant’s Motion Record[14] wherein an Order of the trial judge in Benoit was reproduced. That Order denied a Crown motion to appoint ATC as the representative of its member bands for the purposes of Benoit. The trial judge denied the motion as it was not made on consent (the “Benoit FCTD Representative Order”). The impact of this Order and the Order allowing ATC to be a party to the litigation[15] (the “Benoit FCTD ATC Order”) was debated before me.
+[20] The Respondent relied on the Benoit FCTD ATC Order, which allowed ATC to be added as a party to the Benoit litigation because its members could be affected by the outcome of the action. The Appellant argued that being “affected” by the outcome of the litigation does not mean bound by it. Similarly, the Appellant pointed out that the Benoit FCTD Representative Order was in response to a Crown motion seeking an order on the express basis that the outcome of the litigation would directly affect the Indian people that belonged to the First Nations that were members of ATC, and who would be able to re-litigate the identical issue if they were not bound by the litigation’s outcome. The Appellant argued that the denial of the motion demonstrates that the Benoit trial judge meant to afford the Crown no relief from this result.
+[21] The Respondent submitted that the motion leading to the Benoit FCTD Representative Order was an unnecessary precaution as ATC would be a privy to the Appellant regardless and that in any event it was of no consequence since it was denied on the basis of a lack of consent of the parties.
+IV. Analysis of the Rule 58 Motion [22] I agree with the Appellant that the decision in the Tuccaro FCA Appeal, together with other factors, should preclude the Respondent from succeeding on the Rule 58 motion.
+[23] To allow a determination under Rule 58 that could effectively result in the striking of paragraphs of the Amended Notice of Appeal would be to allow me to give another motions judge the power to effectively eviscerate the Order in the Tuccaro FCA Appeal. While one might argue that dismissing the motion to strike references to Treaty 8 does not necessarily mean the FCA was saying that it was properly pleaded, I cannot find that any other result follows from its Order. The Order of the FCA was to leave in the impugned portions of the Appellant’s pleadings to be considered by the trial judge. That decision is, in my view, not to be undercut by another pre-trial interlocutory proceeding.
+[24] At paragraph 29 of the FCA Tuccaro Appeal, Webb J.A. states:
+As a result I would allow Mr. Tuccaro’s appeal in relation to the Order to strike those paragraphs of his Notice of Appeal that relate to Treaty 8.
+[25] To allow a determination under Rule 58 would be to effectively permit the striking of paragraphs of the Amended Notice of Appeal that the FCA said were to be left in.
+[26] Webb J.A. did not direct the issue back to the motions judge to re-consider the motion on the correct grounds. This is a course of action occasionally employed if the lower court judge failed to consider a relevant argument or issue put forward by a party.
+[27] In not sending this matter back to the motions judge, I can only conclude that the FCA found fault with the Crown’s presentation of its motion, insofar as it did not present the motions judge with all relevant doctrines and facts that pertain to a branch of the fundamental basis for the relief sought, namely, that pleading Treaty 8 was an abuse of process.
+[28] I do not see any invitation in Webb J.A.’s reasons for judgment that invite the Crown to try for a second chance and an opportunity to start over. Such a result is contrary to a considerable amount of jurisprudence to the effect that parties to litigation are required to bring forward their whole case and courts should not permit the same parties to reopen the same subject of litigation in respect of a matter which ought to have been brought forward at the outset.[16]
+[29] As well, I agree with the Appellant’s submission that the Crown’s seeking the representation order in the Benoit proceedings, and failing in that effort, lends considerable weight to an argument that the question sought to be answered in the Respondent’s motion for a Rule 58 determination was already answered in those prior proceedings. That is, I see merit in the Appellant’s argument as to the effect of the Benoit FCTD Representative Order, namely, that it made the determination that the Benoit decision would not bind ATC members. At the very least, it raises considerable doubt as to the likelihood of the Crown being successful on a Rule 58 determination if this motion were to succeed.
+[30] That is, the Benoit FCTD Representative Order is yet another obstacle to finding that the Rule 58 motion should be granted. It is certainly relevant to answering the question the Crown sought to have answered under Rule 58. While its relevance might be examined in light of principles of abuse of process, at this point I am unable to conclude that this Order would be determinative or conclusive of that question. The approach I am drawn to is that the Benoit FCTD Representative Order speaks to the probability of the Rule 58 motion being successful. In discussing principles relating to applications similar to Rule 58, Létourneau J.A., at paragraph 14 of Perera v Canada,[17] agreed with prior jurisprudence to the effect that in exercising discretion to allow a question to be determined, the judge hearing the application must only be satisfied that the proposed question will probably be decided in such a way as may dispose of the action or some substantial part of it. While that leaves room to say that a minimal prospect of success is sufficient, as suggested in the case before Justice Woods in Sentinel Hill Productions IV Corporation v The Queen,[18] I am inclined to believe that the probability here is a factor favouring my exercising my discretion not to allow the forum sought by the Respondent.
+[31] Further still, there is the question of whether the resolution of the estoppel issue would necessarily have to be dealt with at trial. If, at the discretion of the trial judge, the trial was limited in the first instance to the application of section 87, the need to consider evidence and argument in respect of Treaty 8 would be obviated if there was a finding that favoured the Appellant. As this way of managing the appeal would mean that a determination of this question before trial might, in the end, save neither time nor expense,[19] I am further disinclined to grant the Rule 58 motion.
+[32] The trial judge should and will have such discretion to manage this appeal, bifurcating it as deemed necessary for its expedient resolution. That discretion could include, in addition to trying the section 87 issue first, dealing with the question of issue estoppel before considering Treaty 8. A decision now not to grant the motion for a Rule 58 determination will not prevent the trial judge from dealing with that question at any point if the pleadings of the Respondent raise the issue (as they will for the reasons addressed under the next heading).
+[33] Further and lastly, aside from the possibility of saving considerable resources depending on how a trial is managed, I am not convinced that the question posed in the motion would save time and costs if I allowed the Respondent’s motion. Determining whether ATC was the privy of the Appellant would potentially require new evidence regarding the intentions of the members of ATC. This could be a very contentious and difficult issue if the Benoit FCTD Representative Order does not make short shrift of that question. As noted by the FCA in Jurchison v The Queen,[20] Rule 58 “is not intended as an easily accessible alternative to a trial for the disposition of complex and contentious disputes about the rights and liabilities of litigants”.[21] Chief Justice Rossiter of this Court most recently made the same point that “a Rule 58 determination should not be an easily accessible alternative to a hearing for contentious disputes”.[22] I foresee a potentially contentious issue here. This possibility is yet another factor that has encouraged me not to exercise my discretion to allow such a question to be addressed in an interlocutory proceeding.
+[34] These considerations, taken as a whole, have made me conclude that the answer to the question raised by the Respondent is not one that should be determined under Rule 58.
+V. Analysis of the Motion to Strike [35] It was expected by the parties that the same arguments that would persuade me to deny the Rule 58 motion would persuade me to allow the Appellant’s motion to strike all references in the Respondent’s Reply challenging the Appellant’s reliance on Treaty 8.
+[36] I have not come to that conclusion.
+[37] Going back to the 2013 Treaty 8 motion, it sought the striking of certain portions of the Amended Notice of Appeal, on the basis that the Appellant’s raising Treaty 8 as a ground for appeal was an abuse of process.
+[38] The motions judge, in finding the Appellant’s reliance on Treaty 8 to be barred, ordered that all paragraphs relating to Treaty 8 be struck.
+[39] The FCA allowed the Appellant’s appeal in respect of this motion.
+[40] I have already referred to the part of the FCA decision where Webb J.A. stated:
+As a result I would allow Mr. Tuccaro’s appeal in relation to the Order to strike those paragraphs of his Notice of Appeal that relate to Treaty 8.
+[41] I do not believe that Order presents the same problem in respect of denying the Appellant’s motion to strike as I found it would have were I to allow the Respondent’s Rule 58 motion.
+[42] There is no suggestion in Webb J.A.’s decision that the Respondent ought to be denied the opportunity to respond to that which the FCA allowed to be raised as an issue. In allowing the Appellant to raise the Treaty 8 issue, the FCA held that stare decisis did not prevent his reliance on that treaty. To extend this holding to preclude the Respondent from disputing this issue properly before the trial judge on grounds other than stare decisis, including the ground of issue estoppel, strikes me as an unwarranted extension of the FCA’s decision.
+[43] Put another way, while I see the Tuccaro FCA decision as barring the Respondent from initiating the issue of issue estoppel in a subsequent proceeding, I see no corollary that she must be denied raising it in response to an issue the FCA allowed the Appellant to plead.
+[44] As noted, it is still open for the trial judge to consider issue estoppel since the basis for my denying the Respondent’s Rule 58 motion was not that the Crown was estopped from doing so. The issue is alive as issue estoppel was not squarely before the FCA as one that could be dealt with. There is nothing in the ratio of Webb J.A.’s decision that necessarily precludes the Respondent from raising it before the trial judge as an answer to the Appellant’s appeal. It is a question of the proper forum. The “if and how” of dealing with this issue is part of managing the conduct of a trial.
+[45] Further, the test to be applied in respect of a motion to strike cannot allow the striking of an issue unless the action is certain to fail.[23] This is a more permissive test for leaving the pleadings as is than applicable for allowing a motion for a determination under Rule 58. It underlines the role of the trial judge to assess the merits of a case as opposed to it being prejudged on the basis of a perceived frailty or weakness.
+[46] Further, I am at ease with the results of these considerations that would deny the Appellant’s motion to strike even though it would seemingly permit the retrying of an issue that I find cannot be retried pursuant to Rule 58. That the Respondent cannot seek a second chance on its own initiative to attack the Appellant’s pleadings in an interlocutory proceeding does not mean that the Respondent is precluded in a Reply to the Appellant’s pleadings from attacking the grounds for the appeal and making this case at trial.
+[47] Accordingly, I would deny the Appellant’s motion to strike those paragraphs of the Reply or portions thereof that relate to Treaty 8.
+[48] While I have said that I am at ease with this view, and I am as a matter of law, I must confess that the result of this Order, viewed as a whole, does have a troubling aspect.
+[49] I have potentially afforded the Appellant an opportunity to bring evidence of the intent of parties to a treaty entered into over a hundred years ago. As this evidence was presumably available and of more recent provenance at the time of the Benoit litigation, one wonders, as a practical matter, as more time passes, how many individual attempts at invoking Treaty 8, as providing an all-encompassing exemption from taxation, can be tried.
+[50] In any event, the trial judge will inevitably have ultimate authority over how to deal with the Treaty 8 issue.
+VI. Other Parts of the Motion to Strike [51] There were additional parts of the Reply that the Appellant sought to strike. Based on the observations that I made to Appellant’s counsel at the hearing, he withdrew such parts of his motion.
+[52] The other parts of the Reply sought to be struck (but which were withdrawn) dealt with Canada Revenue Agency guidelines and practises in other cases that were relied on by the Appellant (as pleaded in the Amended Notice of Appeal) and that the Reply challenged as irrelevant.
+[53] The withdrawal of such motions to strike pay heed to guidance from the Supreme Court in relation to pre-trial procedures:
+32[…] While summary judgment motions can save time and resources, like most pre-trial procedures, they can also slow down the proceedings if used inappropriately. While judges can and should play a role in controlling such risks, counsel must, in accordance with the traditions of their profession, act in a way that facilitates rather than frustrates access to justice. Lawyers should consider their client's limited means and the nature of their case and fashion proportionate means to achieve a fair and just result.[24]
+[54] Sometimes I am encouraged to say that in many cases the honour of the bar demands that interlocutory motions on the propriety of pleadings be avoided. This is one of those cases. While it does not address a party’s means, it is one of those cases given that the public purse in this case is attacked on three fronts when such challenges are repeatedly made.[25] There is a similar waste of scarce judicial resources when successive actions, using motions or otherwise, are made at different times.
+VII. Conclusions [55] For the Reasons stated above, the motion of the Crown and the motion of the Appellant are dismissed. Each party shall bear their own costs
+Signed at Ottawa, Canada, this 20th day of November 2015.
+“J.E. Hershfield”
+Hershfield J.
+CITATION:
+2015 TCC 290
+COURT FILE NO.:
+2013-188(IT)G
+STYLE OF CAUSE:
+DAVID TUCCARO AND THE QUEEN
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+October 21, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice J.E. Hershfield
+DATE OF ORDER:
+November 20, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Maxime Faille
+Graham Ragan
+Counsel for the Respondent:
+William L. Softley
+Darcie Charlton
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Maxime Faille
+Graham Ragan
+Firm:
+Gowling Lafleur Henderson LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Hereinafter referred to as “Rule 58”.
+[2] SOR/90-688a.
+[3] The procedural history of this case began with the Appellant’s Notice of Appeal, filed on December 27, 2012. The Appellant subsequently provided a draft Amended Notice of Appeal which formed the subject matter of the prior interlocutory proceedings referred to in these Reasons even though such pleading was not actually filed until after decisions in these prior proceedings had been rendered. Notwithstanding that such prior proceedings had the Amended Notice of Appeal to consider, reference was often made only to the original Notice of Appeal. However, regardless of the particular pleading being referred to, they share common characteristics in their pleading a tax exemption relating to Treaty 8 which was the subject of the prior motions that are relevant to the motions before me now. To avoid confusion, I will, except in quoting from a prior decision, refer to the “Amended Notice of Appeal” throughout these Reasons as including the Notice of Appeal filed in 2012, the draft Amended Notice of Appeal, and the Amended Notice of Appeal accepted for filing on September 3, 2014 which is the Appellant’s pleading before me now.
+[4] RSC 1985, c I-5.
+[5] Specifically, a treaty contemplated by sections 25 and 35 of the Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11.
+[6] 2003 FCA 236 [Benoit].
+[7] Reasons for the 2013 motions judge’s Order can be found at 2013 TCC 300. I add here as well that the motions judge, in addition to referring to Benoit, referred to Dumont v Canada, 2008 FCA 32. That decision was not discussed at the hearing before me due to the statement in the Tuccaro FCA Appeal at paragraph 19 that the FCA’s decision turned only on what was decided in Benoit.
+[8] 2014 FCA 184.
+[9] See the Tuccaro FCA Appeal at para 23.
+[10] See the Tuccaro FCA Appeal at para 26.
+[11] See Ironside v The Queen, 2015 TCC 116; Mosher v The Queen, 2013 TCC 378.
+[12] See Suncor Energy Inc v The Queen, 2015 TCC 210 [Suncor]; Kwok v The Queen, 2008 TCC 238 [Kwok]; McIntyre v The Queen, 2014 TCC 111; MacIver v The Queen, 2005 TCC 250.
+[13] Among other cases, the Appellant cites the following for this proposition: Leier v Shumiatcher (1962), 32 DLR (2d) 584, 37 WWR 605 (Sask CA); Doty v Marks, [1925] 4 DLR 740 (Ont CA); Horii v Canada (2000), 195 FTR 163, 101 ACWS (3d) 45.
+[14] At Tab “O” of the Affidavit of Linda Plitt #2.
+[15] At Tab “I” of the Affidavit of Linda Plitt #2.
+[16] See, for instance, Maynard v Maynard, [1951] SCR 346, [1951] 1 DLR 241, quoting Maugham J. in Green v Weatherill. While that decision dealt with the application of res judicata, the concerns expressed in that decision would apply equally in my view when considering the appropriateness of the Rule 58 motion.
+[17] 158 DLR (4th) 341 (FCA), [1998] 3 FC 381 [Perera].
+[18] 2013 TCC 267.
+[19] As noted in Kwok at para 7, quoting Perera.
+[20] 2001 FCA 126.
+[21] At para 8.
+[22] Suncor at para 27.
+[23] In Tuccaro FCA Appeal at para 5, reliance is placed on para 15 of Odhavji Estate v Woodhouse, 2003 SCC 69. See also R v Imperial Tobacco Canada Ltd, 2011 SCC 42 at para 17.
+[24] Hryniak v Mauldin, 2014 SCC 7, [2014] 1 SCR 87 [Hryniak].
+[25] I highlight the culture shift advocated by the Supreme Court in Hryniak towards litigation promoting proportionality, timeliness and affordability.

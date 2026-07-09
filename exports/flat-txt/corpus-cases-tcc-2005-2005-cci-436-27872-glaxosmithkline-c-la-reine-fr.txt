@@ -1,0 +1,123 @@
+Title: GlaxoSmithKline c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27872/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-436-27872-glaxosmithkline-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-07-18
+
+# GlaxoSmithKline c. La Reine
+
+- Citation: 2005 CCI 436
+- Decision date: 2005-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 347, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+GlaxoSmithKline c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-18
+Référence neutre
+2005 CCI 436
+Numéro de dossier
+98-712(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI436
+Date : 20050718
+Dossier : 98-712(IT)G
+ENTRE :
+GLAXOSMITHKLINE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue par conférence téléphonique le 6 juillet 2005.
+Par : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocats de l'appelante :
+Mes Pierre Barsalou, Sébastien Rheault et Benjamin Tomlin
+Avocates de l'intimée :
+Mes Naomi Goldstein, Karen Janke et Myra Yuzak
+Pour Apotex Inc. (« Apotex ») :
+Me Gordon Fahner
+Pour Novopharm Limited (« Novopharm ») :
+Me William Mayo
+________________________________________________________________
+MOTIFS DE L'ORDONNANCE ET ORDONNANCE MODIFIÉS
+[1] Après avoir examiné la requête datée du 24 juin 2005, l'affidavit de Travis Chalmers daté du 24 juin 2005 déposé à l'appui de la requête, les affidavits de Marla McKitrick, déposés pour le compte de l'intimée, datés du 25 juin 2005, la transcription de l'interrogatoire de Travis Chalmers sur son affidavit et le dossier de la Cour, et après avoir entendu les avocats des parties en l'espèce;
+[2] En résumé, l'avis de requête de l'appelante vise ce qui suit :
+a) l'obtention d'une ordonnance enjoignant à l'intimée de produire les documents d'Apotex Inc. (« Apotex ») ou de Novopharm Limited (« Novopharm ») qui pourraient être utilisés au procès, y compris les états financiers pour les années allant de 1989 à 1995 se rapportant aux rabais accordés aux pharmaciens et aux pharmacies de 1989 à 1993;
+b) l'obtention d'une ordonnance prescrivant que le Dr Sherman d'Apotex soit réinterrogé en possession de copies des documents auxquels M. Fahner s'était fié pour établir la pièce A‑3 lors de l'interrogatoire du 23 juillet 2003, en possession des documents d'Apotex se rapportant aux questions prises en délibération par Tom Burkimsher le 4 mai 2005 et en possession des éléments de correspondance et des documents échangés avec l'intimée depuis 1994;
+c) l'obtention d'une ordonnance semblable à l'égard de Leslie Dan de Novopharm;
+d) l'obtention d'une ordonnance prescrivant que le représentant de l'intimée, Tom Burkimsher, subisse un nouvel interrogatoire relativement aux documents sur les rabais et sur les autres genres d'escomptes accordés par Apotex et Novopharm à Dial Drug Stores Ltd. de 1989 à 1993.
+Ou, au paragraphe [4] –
+[TRADUCTION]
+« [4] SUBSIDIAIREMENT, LA PRÉSENTE REQUÊTE VISE l'obtention d'une ordonnance interdisant à l'intimée d'invoquer les opérations d'Apotex et de Novopharm à l'appui des nouvelles cotisations visées par l'appel, selon l'article 12 de la Loi sur la Cour canadienne de l'impôt, les articles 65, 91 et 110 des Règles ou les pouvoirs inhérents de la Cour d'empêcher tout recours abusif à celle‑ci ».
+[3] Les points en litige exposés dans l'avis d'appel modifié et dans la réponse se rapportant au présent appel sont très précis. Aux paragraphes 22 et 23 de l'avis d'appel modifié, les points en litige sont ainsi libellés :
+[TRADUCTION]
+22. La première question à trancher est de savoir si le prix auquel l'appelante achetait de la ranitidine pendant les années d'imposition 1990, 1991, 1992 et 1993 était supérieur au montant qui aurait été raisonnable compte tenu des circonstances si Adechsa et l'appelante n'avaient pas eu de lien de dépendance.
+23. La deuxième question à trancher est de savoir si l'appelante était tenue de retenir à la source et de verser un montant d'impôt relativement à une partie de ce prix au motif que cette partie représentait un avantage conféré à un actionnaire.
+Le paragraphe 15 de la réponse concorde avec ce qui précède, mais il est encore plus précis. Il est rédigé en ces termes :
+[TRADUCTION]
+15. Il souscrit à l'énoncé des questions en litige contenu aux paragraphes 22 et 23 de l'avis d'appel. Il souscrit à l'énoncé des questions en litige contenu au paragraphe 22 de l'avis d'appel modifié, mais précise que l'énoncé des questions en litige contenu au paragraphe 23 de l'avis d'appel modifié doit être exposé plus précisément de la façon suivante :
+a) l'intimée a-t-elle établi correctement la cotisation fiscale à l'égard de l'appelante pour l'impôt de la partie XIII de la Loi de l'impôt sur le revenu en ce qui concerne les montants réputés avoir été payés à titre de dividende par une société résidant au Canada à Glaxo Group Limited, l'actionnaire non résident de l'appelante, au sens des paragraphes 56(2) et 214(3) de la Loi de l'impôt sur le revenu?
+b) subsidiairement, en vertu de l'alinéa 246b) de la Loi de l'impôt sur le revenu, l'appelante est‑elle réputée avoir fait des paiements à un non‑résident à qui s'applique la partie XIII?
+c) subsidiairement, en vertu des alinéas 212(1)a) ou 212(1)d), l'appelante est-elle tenue de verser l'impôt retenu à la source sur les montants considérés comme étant des honoraires ou des frais de gestion ou d'administration, ou des redevances, ou tenant lieu de ceux‑ci?
+[4] Autrement dit, en ce qui concerne les opérations commerciales de l'appelante, la question en litige est de savoir si, de 1990 à 1993, l'appelante achetait de la ranitidine d'Adechsa à un prix raisonnable. Comme l'a précisé le juge Bowie dans les motifs de son ordonnance datée du 8 octobre 2002, l'appelante devait utiliser de la ranitidine dans la fabrication d'un médicament.
+[5] Les parties ont convenu dans leurs actes de procédure que la question en litige porte sur le prix d'achat de la ranitidine, et la preuve montre que les achats en cause ont été faits pour des besoins de fabrication. Il n'est pas question des pertes subies ou des bénéfices réalisés par rapport à ce prix d'achat.
+[6] Le 8 octobre 2002, le juge Bowie a précisé que les réponses données par le Dr Sherman lors des interrogatoires de l'appelante n'avaient pas été d'une grande utilité. L'avocat de l'appelante a déjà interrogé les témoins proposés. De plus, les motifs de l'ordonnance du juge Bowie se rapportaient aux achats de ranitidine effectués par Apotex et, mis à part M. Burkimsher, seules des personnes représentant des tiers ont été interrogées. Tout ce qui précède fait partie d'un appel qui se poursuit depuis 1998 et qui porte sur les années d'imposition 1989 à 1993 de l'appelante.
+[7] Il est clair, à la lumière des documents produits jusqu'à présent, que les témoins de l'intimée et des tiers connaissaient leurs obligations juridiques et avaient respecté ces obligations lorsqu'il s'agissait de se préparer pour les interrogatoires de l'avocat de l'appelante, de participer à ces interrogatoires et de fournir des documents à l'avocat en question et à la Cour. À cet égard, ils ont, à ce jour, fourni à l'appelante tous les renseignements dont ils disposaient au sujet des questions en litige dans le présent appel.
+[8] Dans son argumentation, l'avocat de l'appelante a avancé qu'après que la nouvelle cotisation a été établie, l'intimée a proposé une [TRADUCTION] « méthode du coût majoré » comme fondement subsidiaire de la nouvelle cotisation. L'intimée allègue qu'il est possible d'obtenir un montant de [TRADUCTION] « profit raisonnable » en soustrayant les coûts du fabricant primaire des prix comparables de pleine concurrence payés par Apotex et Novopharm. L'avocate de l'intimée ne le nie pas; elle a plutôt avancé que le fardeau relativement à cette méthode reposerait sur l'intimée. Toutefois, rien de ce qui précède ne porte sur les ventes effectuées par Apotex et Novopharm.
+[9] Les ventes et l'information sur lesquelles doivent porter les interrogatoires supplémentaires que l'on souhaite tenir ne se rapportent pas à la vérification et ne font pas partie du fondement des hypothèses. L'Agence du revenu du Canada (l'« ARC ») s'était basée sur les prix que Novopharm et Apotex avaient payés pour la ranitidine pour obtenir les prix d'achat comparables de pleine concurrence payés par des fabricants pour le composé en question. Les renseignements que l'appelante se propose d'obtenir portent sur les ventes de produits de ranitidine que ces sociétés ont faites à des entreprises de vente au détail de produits pharmaceutiques, les rabais qu'elles ont accordés et les profits qu'elles ont faits sur ces ventes. Il ne s'agit pas de questions mentionnées dans les actes de procédure et il n'a pas été tenu compte de ces questions dans le processus de l'intimée relatif à l'établissement de la cotisation en l'espèce.
+[10] Pour ce qui est des tiers que l'appelante se propose d'interroger, après avoir tenu compte de l'article 99 des Règles, la Cour conclut ce qui suit :
+1. l'avocat de l'appelante a déjà interrogé ces personnes;
+2. le fait, pour les tiers, d'avoir à chercher d'autres documents entraînerait des dépenses injustifiées pour eux;
+3. étant donné que l'appelante cherche à obtenir des éléments de preuve sur les profits réalisés sur les ventes ainsi que sur les rabais accordés au secteur de la vente au détail, les éléments de preuve recherchés ne se rapportent pas à la question en litige, soit le prix d'achat de la ranitidine pour la fabrication de médicaments. Il semble plutôt que le but est de tenir une enquête à l'aveuglette sur les pratiques financières adoptées par les sociétés de produits pharmaceutiques, comme Apotex et Novopharm, dans le domaine de la vente de produits à des pharmacies de détail.
+[11] Pour ces motifs, la Cour ordonne :
+a) que l'intimée ne peut pas utiliser ou invoquer les opérations de vente effectuées par Apotex ou Novopharm à l'appui des nouvelles cotisations visées par l'appel, et ce, étant donné que ces opérations ne se rapportent pas à la question en litige;
+b) qu'au moment de l'audition du présent appel, l'intimée ne peut pas présenter de documents, qu'ils aient ou non fait l'objet d'une expurgation ou modification quelconque, ou d'éléments de preuve concernant ou se rapportant à Apotex ou à Novopharm, sauf ce qui avait déjà été fourni à l'appelante lors du dernier interrogatoire mené par l'avocat de l'appelante de toute personne représentant ces sociétés et sauf ce qui figure déjà sur la liste de documents de l'intimée.
+[12] Les dépens de la présente requête suivront l'issue de la cause.
+Signé à Saskatoon (Saskatchewan), ce 18e jour de juillet 2005.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 15e jour de janvier 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2005CCI436
+NO DU DOSSIER : 98-712(IT)G
+INTITULÉ : Glaxosmithkline Inc. c. La Reine
+LIEU DE L'AUDIENCE : Ottawa, Canada
+DATE DE L'AUDIENCE : Le 30 juin 2005
+MOTIFS DE L'ORDONNANCE
+PAR : L'honorable juge D.W. Beaubier
+DATE DE L'ORDONNANCE
+MODIFIÉE : Le 18 juillet 2005
+COMPARUTIONS :
+Avocats de l'appelante :
+Mes Pierre Barsalou,
+Sebastien Rheault et
+Benjamin Tomlin
+Avocates de l'intimée :
+Mes Naomi Goldstein,
+Karen Janke et Myra Yuzak
+Représentant d'Apotex :
+Me Gordon Fahner
+Représentant de Novopharm :
+Me William Mayo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet : Barsalou Lawson
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

@@ -1,0 +1,281 @@
+---
+title: "Steiner c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30264/index.do"
+last_modified: "2011-03-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 146"
+citation2: ""
+neutral_citation: "2011 CCI 146"
+decision_date: "2011-03-09"
+language: "fr"
+item_id: "30264"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7973
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:02:03.137000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "99be5a327747edeaa2f18e0088192f9dacf32b9d54b862c94470dbd896e18b3e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Steiner c. M.R.N.
+
+- Citation: 2011 CCI 146
+- Decision date: 2011-03-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7973, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Steiner c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-09
+Référence neutre
+2011 CCI 146
+Numéro de dossier
+2010-2519(EI)
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-2519(EI)
+ENTRE :
+VITA STEINER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+PIZZA 73 INC. s/n PIZZA 73,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Vita Steiner (2010‑3026(CPP)), le 10 février 2011, à Edmonton (Alberta).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelante :
+Me Michael A. Power
+Avocate de l’intimé :
+Me Mary Softley
+Avocat de l’intervenante :
+Me Dane Zobell
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, sans qu’aucuns dépens soient adjugés, et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de mars 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 6e jour de mai 2011.
+Marie‑Christine Gervais
+Dossier : 2010-3026(CPP)
+ENTRE :
+VITA STEINER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+PIZZA 73 INC. s/n PIZZA 73,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Vita Steiner (2010‑2519(EI)), le 10 février 2011, à Edmonton (Alberta).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocat de l’appelante :
+Me Michael A. Power
+Avocate de l’intimé :
+Me Mary Softley
+Avocat de l’intervenante :
+Me Dane Zobell
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, sans qu’aucuns dépens soient adjugés, et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de mars 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 6e jour de mai 2011.
+Marie‑Christine Gervais
+Référence : 2011 CCI 146
+Date : 20110309
+Dossiers : 2010-2519(EI)
+2010-3026(CPP)
+ENTRE :
+VITA STEINER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+PIZZA 73 INC. s/n PIZZA 73,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Les présents appels ont été entendus ensemble sur preuve commune; ils résultent de décisions que le ministre du Revenu national (le « ministre ») a rendues conformément au Régime de pensions du Canada (le « Régime ») et à la Loi sur l’assurance-emploi (la « LAE »). Mme Steiner interjette appel de la décision par laquelle le ministre a conclu qu’au cours de la période allant du 1er août 2008 au 21 août 2009 (la « période »), elle n’exerçait pas un emploi aux termes d’un contrat de louage de services à titre d’employée du payeur, Unit Nine 73 Inc. (« Unit Nine »), ou de l’intervenante, Pizza 73 Inc., autrefois Pizza Pizza Limited. Pizza 73 Inc. et Manjit Pandher possèdent chacun 50 p. 100 des actions avec droit de vote d’Unit Nine. Contrairement à la décision du ministre, l’appelante allègue qu’au cours de la période pertinente, elle était une employée d’Unit Nine et qu’elle n’agissait pas à titre d’entrepreneure indépendante.
+[2] Unit Nine est une société constituée en personne morale qui exploite une entreprise de ramassage et de livraison de pizzas à titre de magasin franchisé de Pizza 73 Inc. Le siège social de Pizza 73 Inc. est situé en Ontario. L’appelante a travaillé comme chauffeur affecté à la livraison de pizzas pour Unit Nine de l’année 2003 jusqu’à ce qu’il soit mis fin à son emploi, le 21 août 2009. Lorsqu’elle a initialement été embauchée, l’appelante a été obligée de signer une [traduction] « entente concernant le transporteur » (pièce A‑1), dans laquelle elle était désignée à titre d’entrepreneure indépendante et non à titre d’employée d’Unit Nine. Étant donné que cette entente est brève, je la reproduirai dans les présents motifs :
+[traduction]
+PIZZA 73 ENTENTE CONCERNANT LE TRANSPORTEUR
+ENTRE
+UNITÉ : Vita Steiner______ et Vita Steiner___________________
+(ci-après appelée « Pizza 73 ») (ci-après appelée le « transporteur »)
+[…]
+1. Le transporteur fournit à ses frais son propre véhicule.
+2. Le transporteur est titulaire d’un permis de conduire valide.
+3. Le transporteur souscrit une assurance-automobile ainsi qu’une assurance de responsabilité civile générale et une assurance contre les dommages matériels d’un montant jugé raisonnable (compte tenu de l’utilisation du véhicule) auprès de sa compagnie d’assurance-automobile et de l’administration provinciale.
+4. Le transporteur s’engage à acheter les pizzas de Pizza 73 avant leur livraison. Il incombe au transporteur d’obtenir le remboursement du client ainsi que de recouvrer les frais de livraison applicables. Pizza 73 ne paie pas le transporteur. Pizza 73, le client et le transporteur (agissant à titre de mandataire du client) s’entendent sur les frais de livraison.
+5. Le transporteur n’est pas un employé de Pizza 73; il n’accomplit aucune tâche et n’assume aucune responsabilité au sein de l’entreprise de Pizza 73 et il n’est donc pas admissible aux avantages sociaux. Le transporteur ne se présente pas à qui que ce soit comme étant un employé de Pizza 73. En sa qualité d’entrepreneur indépendant et de propriétaire de sa propre entreprise, le transporteur est tenu personnellement responsable des retenues à verser au gouvernement sur son revenu, telles que celles qui ont trait au RPC, à l’AE, aux impôts sur le revenu, aux indemnités d’accident du travail et ainsi de suite. Le transporteur traite directement avec les autorités gouvernementales. Malgré les dispositions susmentionnées, le transporteur accepte que Pizza 73 perçoive et verse, pour son compte, la taxe sur les produits et services à payer sur les frais de livraison.
+6. Il est entendu que Pizza 73 ne sera pas tenue responsable du préjudice causé à un tiers par suite de lésions corporelles ou de dommages matériels résultant d’un accident mettant en cause le transporteur pendant qu’il livre les commandes de Pizza 73. Le transporteur s’engage par les présentes à indemniser Pizza 73 de toute réclamation ou demande découlant de sa négligence ou de quelque autre acte.
+7. Il est entendu que le présent document constitue toute l’entente conclue entre les parties et qu’aucun autre engagement n’a été pris ni aucune autre entente conclue, verbalement ou par écrit. Toute modification apportée à la présente entente doit être effectuée par écrit. Chaque partie s’engage à assurer le caractère confidentiel de l’entente.
+[…]
+[3] L’appelante affirme qu’on lui a dit qu’il s’agissait d’un formulaire de demande pour le poste de chauffeur et [traduction] qu’« [...] il faudrait un certain temps pour traiter la demande [...] » (transcription, page 16, lignes 23 et 24), mais que si elle signait le formulaire, elle serait embauchée le même jour. En réponse aux questions qui lui ont été posées lors de l’interrogatoire principal au sujet de la question de savoir si elle savait qu’aux termes du contrat, elle agissait à titre d’entrepreneur indépendant plutôt qu’à titre d’employée, l’appelante a répondu ce qui suit :
+[traduction]
+R. Non, je ne le savais pas.
+Q. Paul vous a-t-il expliqué ce que vous alliez faire en vertu de cette entente?
+R. Non. Il a simplement dit que je livrerais les pizzas pour lui et pour Pizza 73 parce qu’il est propriétaire du magasin.
+(Transcription, page 19, lignes 3 à 7).
+[4] Lorsqu’elle a commencé à travailler pour Unit Nine, l’appelante touchait 2,80 $ pour chaque livraison. Sa rémunération a été portée à 3,50 $ pour chaque livraison en 2008, lorsqu’elle a commencé à contester le taux de rémunération accordé aux chauffeurs. L’appelante utilisait son propre véhicule pour les livraisons; les frais associés au véhicule, y compris les primes d’assurance et les réparations, étaient à sa charge. L’appelante utilisait également son propre téléphone cellulaire. Unit Nine fournissait les articles suivants : les sacs de livraison qui permettaient de conserver les pizzas au chaud; la boîte de livraison, sur laquelle étaient apposés le logo de la société et un dessin représentant une pizza qui était livrée à un client; les terminaux de cartes de débit et de crédit pour les clients qui préféraient utiliser ces modalités de paiement.
+[5] L’appelante effectuait des postes précis pour Unit Nine. Au cours de ses postes, elle livrait exclusivement des pizzas pour Unit Nine. L’appelante était tenue d’être à la pizzeria depuis le début de son poste jusqu’à la fin. Les appels des clients qui voulaient acheter des pizzas étaient acheminés pour Pizza 73 par l’intermédiaire d’un centre d’appels et ils étaient ensuite dirigés vers la pizzeria qui était la plus rapprochée de l’adresse du client à laquelle la livraison devait être effectuée. Rachhpal Pandher (que l’appelante a également appelé « Paul »), dont l’épouse, Manjit, est l’une des deux propriétaires qui possèdent 50 p. 100 d’Unit Nine, gère la pizzeria depuis 19 ans. M. Pandher traitait les commandes lorsqu’il les recevait. Il désignait le chauffeur qui devait livrer une commande particulière. M. Pandher a témoigné qu’il suivait la règle selon laquelle le premier chauffeur qui se présentait au poste se voyait assigner la première livraison. Toutefois, selon le témoignage de l’appelante, si M. Pandher lui en voulait pour une raison ou une autre, il réduisait le nombre de livraisons qui lui étaient assignées au cours d’un poste donné. L’horaire des chauffeurs était toujours affiché à l’intérieur de la pizzeria.
+[6] M. Pandher établissait l’horaire des postes des chauffeurs; il a déclaré qu’il tenait compte de la disponibilité des chauffeurs. Toutefois, l’appelante a affirmé qu’on ne lui accordait pas toujours les congés qu’elle demandait et qu’elle ne pouvait pas facilement s’absenter. Ainsi, elle a affirmé ne pas avoir pu obtenir un congé pour assister à un mariage ou qu’elle n’avait pas été autorisée à s’absenter pour l’anniversaire de sa fille. Lorsque les services sociaux ont appréhendé sa fille, qui était handicapée, elle a demandé et obtenu une diminution du nombre de postes, en 2009.
+[7] Selon le paragraphe 4 de l’entente concernant le transporteur, le transporteur s’engageait à acheter la pizza de la pizzeria avant la livraison. Toutefois, en fait, on remettait simplement à l’appelante les pizzas à livrer et, à la fin du poste, on effectuait le paiement en argent. Le coût de la pizza pour le client comprenait le prix du produit, plus les frais de livraison, ainsi que la taxe sur les produits et services (la « TPS ») sur ces deux montants. Le code à barres figurant sur chaque facture de commande de pizza était inscrit dans la base de données de la pizzeria. Il renfermait les renseignements concernant le client et le nom du chauffeur qui avait été chargé de livrer la commande. Lorsqu’un chauffeur recevait le paiement en argent à la fin de poste, le coût du produit et la TPS étaient versés à Unit Nine et le chauffeur conservait le montant des frais de livraison. Lorsque les clients payaient à l’aide d’une carte de débit ou de crédit, ils payaient le magasin, et le magasin versait ensuite le montant des frais de livraison au chauffeur. Les chauffeurs fournissaient généralement leur propre fonds de caisse, mais l’appelante et M. Pandher ont tous deux déclaré que celui‑ci prêtait parfois à l’appelante, lorsqu’elle le lui demandait, suffisamment d’argent pour son fonds de caisse.
+[8] L’appelante a témoigné que le manuel de formation des chauffeurs de Pizza 73 (le « manuel ») était toujours affiché sur un mur de la salle des chauffeurs à l’intérieur de la pizzeria, mais qu’il avait uniquement été expressément porté à l’attention des chauffeurs en 2007 ou en 2008, lorsque Pizza 73 avait acheté la franchise. À ce moment‑là, selon l’appelante, M. Pandher a expressément porté le manuel à l’attention des chauffeurs, avec une vidéo. M. Pandher a témoigné que le manuel et la vidéo étaient toujours disponibles dans la salle des chauffeurs et qu’il s’attendait à ce que les chauffeurs suivent ces lignes directrices et ces procédures. Toutefois, il est clair que M. Pandher n’appliquait pas toujours ces lignes directrices. Ainsi, le manuel dit que les chauffeurs sont obligés de porter l’uniforme de Pizza 73 lorsqu’ils effectuent leurs postes. M. Pandher a témoigné que les uniformes, y compris les chapeaux et les vestes sur lesquels était apposé le logo de la société, étaient disponibles au magasin, mais que les chauffeurs ne les utilisaient jamais. Lors du contre-interrogatoire, l’appelante a déclaré qu’elle portait toujours une épinglette l’identifiant comme préposée à la livraison de Pizza 73, et ce, même si les autres chauffeurs ne portaient pas une telle épinglette.
+[9] Le manuel renfermait également une section portant sur la résolution de problèmes, dans laquelle on indiquait aux chauffeurs les mesures particulières à prendre dans certains cas : lorsque les clients n’étaient pas à la maison ou lorsqu’il n’y avait pas de réponse; lorsque les clients étaient en colère; lorsqu’il était impossible de trouver une adresse; lorsqu’une partie de la commande manquait; lorsqu’il était impossible de rendre la monnaie appropriée. Dans certains cas, on proposait au chauffeur, dans le manuel, de communiquer avec le gérant du magasin pour obtenir des instructions et pour demander conseil. L’appelante a déclaré qu’elle essayait de régler elle-même les problèmes qui se posaient avec un client, mais qu’elle avait parfois été obligée d’appeler le gérant du magasin. M. Pandher a témoigné que les chauffeurs peuvent toujours communiquer avec le magasin ou composer le numéro du service à la clientèle indiqué dans le manuel lorsqu’ils règlent des problèmes de livraison.
+[10] Lorsqu’il s’agit de décider si l’appelante est une employée d’Unit Nine ou si elle exploite sa propre entreprise à titre d’entrepreneure indépendante, les termes utilisés dans l’entente concernant le transporteur ne sont pas nécessairement déterminants. La disposition contractuelle figurant au paragraphe 5 de l’entente, stipulant que Mme Steiner agissait à titre d’entrepreneur indépendant et non à titre d’employée, ne l’emportera que si toutes les circonstances de la relation de travail elle-même justifient la désignation donnée au travailleur dans l’entente. Une telle désignation, dans un contrat, peut uniquement être confirmée lorsqu’elle correspond réellement à l’intention, à la façon dont le travail est exécuté et à la conduite des parties, telles qu’elles sont corroborées par la preuve. Autrement, cette désignation ne rime à rien et peut, dans certains cas, résulter de positions de négociation inégales au lieu de travail. Il devient encore plus important d’examiner la preuve à fond lorsque les parties contractantes témoignent au sujet de conceptions fort différentes de la nature de leur relation de travail, c’est‑à‑dire lorsque la preuve donne à penser qu’il n’existe aucune intention commune au sujet de la question de savoir si un travailleur est un employé. C’était ici le cas en l’espèce, l’appelante indiquant qu’elle croyait que l’entente concernant le transporteur était un formulaire de demande et qu’elle voulait le signer afin de pouvoir commencer à travailler ce jour‑là. L’entente concernant le transporteur ne lui a pas été expliquée et la preuve corrobore qu’elle ne comprenait pas la nature ou le contenu du formulaire contractuel type qu’elle signait. L’appelante a toujours voulu agir à titre d’employée et c’est ainsi qu’elle interprétait la relation. Le témoignage de l’appelante était parfois décousu, mais j’ai trouvé que l’appelante était un témoin crédible. Dans son témoignage, elle a parlé de certains cas dans lesquels elle avait demandé à M. Pandher de signer ses factures de livraison, de façon à pouvoir produire des déclarations de revenus afin de prouver qu’elle effectuait des livraisons. Lorsqu’on lui a demandé si elle avait demandé à Unit Nine de lui remettre un feuillet T4, l’appelante a déclaré que M. Pandher [traduction] « [...] n’y cro[yait] pas » (transcription, page 52, ligne 21). Elle a également mentionné qu’il fallait obtenir des références de M. Pandher.
+[11] À première vue, les trois premiers paragraphes de l’entente concernant le transporteur semblent indiquer une relation d’entrepreneur indépendant. Les chauffeurs devaient fournir leur propre véhicule pour les livraisons et tous les frais associés au véhicule étaient à leur charge. Toutefois, les témoignages de l’appelante et de M. Pandher contredisent en partie le contenu du paragraphe 4 de l’entente concernant le transporteur, indiquant le moment où les chauffeurs sont payés pour le produit. Il faut procéder à une analyse de la preuve concernant la relation globale afin de déterminer la nature véritable de la relation et de trancher la question de savoir si l’appelante était une employée ou si, comme le stipule l’entente concernant le transporteur, elle agissait plutôt à titre d’entrepreneur indépendant.
+[12] Les deux arrêts faisant autorité dans ce domaine du droit sont Wiebe Door Services Ltd. v. M.N.R. (1986), 87 DTC 5025 (C.A.F.) [« Wiebe Door »] et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] A.C.S. no 61 [« Sagaz »]. L’arrêt Wiebe Door établit le critère bien connu composé de quatre volets qu’il faut prendre en considération pour décider si un particulier est un employé ou s’il est plutôt un entrepreneur indépendant. Il s’agit des facteurs suivants : contrôle, propriété des instruments de travail, risque de perte ou possibilité de profit et intégration. Chaque appel traitant de la question comporte son propre ensemble de faits, certaines variables militant en faveur d’une relation d’employé, alors que d’autres vont dans le sens contraire. Les facteurs énoncés dans l’arrêt Wiebe Door ne sont pas exhaustifs; la Cour suprême du Canada a reconnu cet énoncé aux paragraphes 46, 47 et 48 de l’arrêt Sagaz :
+46 À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme — en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door, p. 563 — qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services [. . .] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[13] Il n’existe aucun critère concluant que l’on peut facilement appliquer pour répondre à cette question. Il n’y a pas de formule magique. On fait du mieux possible en examinant objectivement tous les éléments de preuve dans le contexte du critère composé de quatre volets, tout en adoptant une approche fondée sur le bon sens dans laquelle il est tenu compte de la réalité économique de la relation de travail existant entre les parties et de leurs positions de négociation respectives, pour décider si chaque ensemble de faits permet de conclure que le travailleur est un employé plutôt qu’un entrepreneur indépendant. Même dans les cas où les parties ont exprimé une intention commune, les tribunaux doivent néanmoins décider si les circonstances pertinentes concernant leur relation de travail sont compatibles avec la façon dont les parties ont qualifié la relation.
+[14] Le juge Nadon, de la Cour d’appel fédérale, qui examinait la jurisprudence récente dans ce domaine, a résumé ainsi les principes applicables, au paragraphe 35 de l’arrêt Combined Insurance Company of America c. M.R.N., 2007 CAF 60, [2007] A.C.F. no 124 :
+[35] De ces décisions, il se dégage, à mon avis, les principes suivants :
+1. Les faits pertinents, incluant l’intention des parties quant à la nature de leur relation contractuelle, doivent être examinés à la lumière des facteurs de Wiebe Door, précitée, et à la lumière de tout autre facteur qui peut s’avérer pertinent compte tenu des circonstances particulières de l’instance;
+2. Il n’existe aucune manière préétablie d’appliquer les facteurs pertinents et leur importance dépendra des circonstances et des faits particuliers de l’affaire.
+Même si en règle générale, le critère de contrôle aura une importance marquée, les critères élaborés dans Wiebe Door et Sagaz, précités, s’avéreront néanmoins utiles pour déterminer la véritable nature du contrat.
+[15] En général, on associe les employés aux travailleurs qui consacrent toute leur attention et qui appliquent leurs compétences, dans un milieu de travail, au profit d’un particulier ou d’une société ou peut-être de plusieurs entités auprès desquelles ils exercent un emploi à temps partiel. Compte tenu de la conjoncture actuelle du marché, ce dernier scénario est de fait la réalité pour de nombreux travailleurs qui exercent plusieurs emplois à titre d’employés. D’autre part, les entrepreneurs indépendants offrent leur expertise ou leurs services en tout temps à tout membre du grand public qui veut les embaucher ou les rémunérer pour leurs services. Quoique ce ne soit pas nécessairement le cas, ils fournissent souvent leurs services à un certain nombre de sociétés ou de particuliers différents pour une période précise. Lorsqu’ils ont achevé les travaux qu’ils se sont engagés à exécuter par contrat, ils se lancent à la recherche du contrat suivant. En général, les entrepreneurs sont connus sous un nom commercial et ont une adresse distincte de celle de la personne qui les rémunère pour accomplir une tâche.
+[16] Les relations d’emploi comportent habituellement un degré élevé de contrôle exercé par l’employeur sur le travailleur, c’est‑à‑dire que l’employeur exerce un contrôle sur l’endroit où les activités sont exercées, sur le moment où elles le sont et sur la façon dont elles le sont. Le droit pour l’employeur de diriger le travailleur est l’une des marques de la relation employeur-employé.
+[17] En l’espèce, les faits indiquent qu’Unit Nine exerçait un contrôle sur l’appelante dans ses activités de livraison. Unit Nine établissait les heures et les postes des chauffeurs et s’attendait à ce que ces derniers s’y conforment. Il est vrai que l’appelante pouvait demander un jour de congé, mais elle a témoigné qu’à plusieurs reprises, sa demande n’avait pas été agréée. Toutefois, cela n’est pas différent de toute autre relation employeur-employé dans laquelle l’employé peut à son gré demander un congé, l’horaire étant établi en conséquence s’il est fait droit à sa demande. L’appelante, à sa demande, s’est vu accorder un nombre réduit de postes en 2009, mais Unit Nine avait entière discrétion à cet égard. L’appelante était également autorisée à ne pas effectuer une livraison lorsqu’une pizza contenait des fruits de mer, étant donné que, selon ce qu’elle a témoigné, elle risquait d’avoir une grave réaction allergique. Elle a demandé cette autorisation à M. Pandher, qui a donné son consentement. Il s’agissait d’une demande fondée sur des raisons médicales et l’appelante a déclaré qu’elle portait un bracelet MedicAlert. Le bon sens exige qu’aucun employeur ne contraigne un travailleur à manipuler un produit qui pourrait avoir de graves conséquences pour sa santé. Le fait que l’appelante n’avait pas à manipuler de produits de la mer n’a aucune importance quant au statut d’entrepreneur indépendant. En ce qui concerne les livraisons que l’appelante effectuait dans des immeubles d’habitation et dans des hôtels, la preuve était contradictoire et non concluante, l’appelante affirmant qu’elle effectuait de fait ces livraisons, alors que M. Pandher a témoigné que l’appelante ne les effectuait pas parce qu’elle était souvent accompagnée de sa fille handicapée lorsqu’elle effectuait des livraisons.
+[18] L’appelante n’exerçait aucun contrôle sur son horaire et sur les heures qu’elle effectuait, si ce n’est lorsqu’elle demandait à M. Pandher de lui accorder un congé. La preuve ne montre pas que l’appelante pouvait accepter ou refuser des livraisons particulières, si ce n’est avec la permission de M. Pandher, par exemple lorsqu’il s’agissait de livrer des fruits de mer auxquels elle était allergique. L’appelante n’avait pas un mot à dire au sujet du montant des frais de livraison, lequel était établi par Unit Nine; ces frais faisaient partie intégrante du coût total du produit d’Unit Nine et ils étaient transmis au client. De fait, l’appelante a témoigné qu’au moment où elle avait commencé à effectuer des livraisons, en 2003, elle touchait 2,80 $ par pizza et qu’elle avait été obligée de demander à M. Pandher d’envisager une augmentation, en 2007 ou en 2008. Les entrepreneurs indépendants fixent leurs propres frais pour les services qu’ils fournissent et ce fait indique fortement, encore une fois, que l’appelante était une employée pour ce qui est du facteur « contrôle ».
+[19] Il ne s’agissait pas d’un cas dans lequel l’appelante achetait la pizza au début de chaque livraison, comme le prévoit le paragraphe 4 de l’entente concernant le transporteur. On remettait à l’appelante la pizza à livrer et l’appelante recouvrait du client le montant à payer et remettait l’argent reçu pour toutes les livraisons à la fin de son poste. L’appelante suivait la procédure prescrite du paiement en argent, établie par Unit Nine, selon laquelle toutes les livraisons qu’elle effectuait étaient inscrites dans la base de données. De plus, contrairement à ce qui est stipulé au paragraphe 4 de l’entente, la preuve montre que les frais de livraison étaient uniquement établis par Unit Nine et non au moyen d’une entente entre [traduction] « Pizza 73, le client et le transporteur (agissant à titre de mandataire du client) ». Lorsque les clients payaient le produit au moyen d’une carte de débit ou de crédit, Unit Nine versait le montant des frais de livraison à l’appelante à la fin de son poste.
+[20] Lorsque l’appelante effectuait un poste prévu à l’horaire, elle travaillait exclusivement pour Unit Nine. L’intimé a soutenu qu’Unit Nine n’exigeait pas de l’appelante qu’elle ne fasse pas de livraisons pour une autre entreprise lorsqu’elle ne travaillait pas pour le payeur. À mon avis, cette thèse n’établit rien pour ce qui est du contrôle. Un grand nombre d’employés exercent plus d’un emploi et, dans la mesure où ils travaillent exclusivement pour l’employeur lorsqu’ils sont obligés de le faire, la chose a un effet neutre sur le facteur « contrôle » lorsque le travailleur obtient et effectue des postes additionnels pour quelqu’un dans son temps libre.
+[21] Contrairement à ce que les entrepreneurs indépendants font afin d’être rémunérés, l’appelante ne remettait pas de factures à Unit Nine. Elle effectuait des livraisons chez les clients d’Unit Nine. Il ne s’agissait pas de ses clients. Elle devait se présenter aux locaux d’Unit Nine au début de chaque poste et elle devait rester à cet endroit pendant toute la durée de son poste lorsqu’elle n’effectuait pas de livraisons. Unit Nine fournissait une salle à l’intention des chauffeurs-livreurs et cette salle était située dans la pizzeria. L’appelante a toujours travaillé pour Unit Nine de 2003 à 2009, comme on s’attendrait à ce qu’un employé le fasse. L’appelante devait fournir ses services personnellement à Unit Nine. C’était M. Pandher qui décidait des chauffeurs qui devaient se présenter au magasin au cours d’une journée et qui leur assignait les livraisons. M. Pandher informait l’appelante du moment auquel elle devait se présenter pour effectuer son poste; il lui assignait une livraison, lui disait où effectuer la livraison, lui indiquait le montant à demander pour la livraison et le produit et lui demandait de retourner au magasin après la livraison. L’appelante a témoigné que le nombre de livraisons qui lui était attribué pendant un poste pouvait de fait être réduit et attribué aux autres chauffeurs si M. Pandher le voulait. L’appelante a témoigné qu’elle essayait de régler personnellement tout problème qui se posait avec un client, mais elle avait à plusieurs reprises communiqué avec Unit Nine afin de recevoir des instructions et de demander conseil. L’appelante ne pouvait pas accepter de chèques en l’absence d’une autorisation préalable d’Unit Nine. Le client qui n’était pas satisfait adressait sa plainte à Unit Nine ou au siège social du franchiseur, mais non à l’appelante. L’appelante n’était pas inscrite aux fins de la TPS. Lorsque la TPS était perçue du client, c’était Unit Nine qui contrôlait cet aspect de l’arrangement.
+[22] La jurisprudence a établi qu’une considération importante, en ce qui concerne le critère du contrôle, est le « droit d’exercer le contrôle » sur le travailleur, plutôt que le « contrôle réel » exercé sur le travailleur. Lors de l’interrogatoire principal, M. Pandher a témoigné que le manuel des chauffeurs était toujours mis à la disposition de l’appelante; les propos suivants ont été échangés (transcription, page 89, lignes 15 à 23) :
+Q. En ce qui concerne le manuel des chauffeurs de Pizza 73, avez-vous fourni ce manuel à Mme Steiner?
+R. Il est toujours disponible dans la salle des chauffeurs, avec une vidéo.
+Q. D’accord. Et avez-vous exigé qu’elle le lise?
+R. Oui, tout le temps.
+Q. Exigiez-vous que les chauffeurs se conforment aux lignes directrices qui y étaient énoncées?
+R. Oui.
+[23] Ce manuel est passablement long et détaillé. Il renferme diverses consignes : code vestimentaire, préparatifs aux fins de la livraison, planification du parcours à suivre, manipulation du produit, façon de traiter avec les clients au moment de la livraison, politiques de paiement, résolution de problèmes; le manuel renfermait en outre des suggestions au sujet de la conduite professionnelle du véhicule. Le manuel visait à permettre d’exercer un contrôle sur les chauffeurs et à leur donner des instructions pour les livraisons, c’est‑à‑dire qu’il indiquait « où, quand et comment » effectuer leur travail. Il allait même jusqu’à donner des instructions sur la façon de se conduire lorsqu’ils acceptaient des pourboires des clients.
+[24] La section du manuel intitulée [traduction] « Code vestimentaire » dit ce qui suit, aux pages 2 et 3 :
+[traduction]
+Code vestimentaire :
+Vous devez vous présenter au travail avec des vêtements propres et être soigneux de votre personne. Nos clients se soucient de votre apparence, et nous nous en soucions également. Vous devez porter un uniforme de Pizza 73 en effectuant vos postes.
+Pourquoi faut-il porter un uniforme?
+Les commandes de Pizza 73 sont livrées dans une proportion d’environ 90 p. 100, ce qui veut dire que 90 p. 100 de nos clients ne verront pas nos locaux éclairés et propres, où tous les employés portent un uniforme. Nos chauffeurs sont nos représentants auprès des clients. Pizza 73 compte sur les chauffeurs‑livreurs pour donner à tous les clients une impression favorable.
+Lorsque vous sonnez à la porte (parfois tard au cours de la nuit), le client doit se sentir à l’aise en ouvrant la porte. L’uniforme informe le client que c’est le livreur, et non un inconnu, qui est là. Un chapeau de Pizza 73, une chemise ou une veste, selon le temps qu’il fait, doit être porté pour chaque poste.
+[Non souligné dans l’original.]
+Dans cette section, il est mentionné que les chauffeurs‑livreurs sont des [traduction] « représentants auprès des clients » et le fait de donner des consignes sur la façon dont les chauffeurs doivent de vêtir et se conduire indique également le degré de contrôle que l’entreprise s’attendait à exercer sur les chauffeurs.
+[25] M. Pandher fournissait les uniformes, mais il n’appliquait pas le code vestimentaire. Néanmoins, selon le manuel, il avait « le droit » de le faire. De plus, selon la preuve non contredite qu’elle a présentée, l’appelante portait toujours une épinglette de la société pour s’identifier auprès des clients.
+[26] La preuve concernant l’établissement de l’horaire, les modalités d’acheminement et la résolution de problèmes correspondait de près aux consignes données dans le manuel Les consignes suivantes figuraient sous le titre [traduction] « Horaire » :
+[traduction]
+Horaire :
+Le gérant du magasin a entière discrétion pour ce qui est de l’établissement des horaires.
+[…]
+Soyez prêt à rester pendant toute la durée de votre poste.
+Votre poste relève de VOTRE responsabilité. Une fois l’horaire affiché, vous devez effectuer les heures qui y sont indiquées. Il peut être permis d’échanger un poste, mais vous serez tenu responsable si votre remplaçant ne se présente pas au moment prévu; il faut donc vérifier la chose auprès du gérant.
+[…]
+Il faut présenter au gérant les demandes relatives à l’horaire au moins une semaine avant que l’horaire soit affiché. Si vous voulez prendre un jour de congé au cours de la semaine à venir, faites-en la demande par écrit et remettez-la au gérant avant que celui‑ci prépare l’horaire.
+[27] Sous le titre [traduction] « Planification du parcours », il était dit ce qui suit :
+[traduction]
+[…] le gérant du magasin triera les commandes de façon que les livraisons soient effectuées d’une façon efficace.
+Nous définirons :
+l’ordre dans lequel vous devez livrer les pizzas et les raisons pour lesquelles il doit en être ainsi;
+les raisons pour lesquelles un parcours peut être modifié;
+les quatre étapes à suivre en planifiant le parcours;
+les circonstances dans lesquelles vous devriez savoir où vous allez.
+La première étape consiste à vérifier les renseignements figurant dans la facture. Nous devons connaître tous les faits pour être en mesure de planifier les livraisons.
+[…]
+[28] Sous le titre [traduction] « Acheminement », voici ce qui était dit :
+[traduction]
+Acheminement :
+L’acheminement consiste à décider de la commande qui doit être livrée en premier et à déterminer les commandes à grouper. Pour assurer un acheminement efficace, il faut connaître le secteur de livraison ainsi que les conditions de trafic. C’est le gérant ou la personne désignée qui prend toutes les décisions finales concernant l’acheminement. Toutefois, il peut arriver que le gérant demande aux chauffeurs de s’occuper de l’acheminement de leurs propres commandes. En pareil cas, il faut suivre les règles suivantes.
+[…]
+[29] En ce qui concerne [traduction] « la résolution de problèmes », le manuel renferme la consigne suivante (page 29) :
+[traduction]
+[…]
+Veuillez signaler au gérant du magasin toute situation difficile, dangereuse ou étrange (gros chiens et ainsi de suite). La chose peut être notée dans notre système informatique, de façon que ces renseignements spéciaux vous soient communiqués pour toute livraison future.
+[…]
+En plus de ces exemples, le manuel renferme des instructions détaillées sur la façon de régler les problèmes de livraison et les plaintes des clients ainsi que sur la façon de bien conduire le véhicule et d’éviter les accidents de la route. À la page 12, voici ce qui est dit en ce qui concerne les consignes à suivre pour donner une bonne impression aux clients :
+[traduction]
+Donner une bonne impression au client
+[…] En votre qualité de préposé aux livraisons de Pizza 73, vous êtes particulièrement bien placés pour rencontrer les clients en personne.
+[Non souligné dans l’original.]
+[30] M. Pandher n’appliquait pas strictement les consignes figurant dans le manuel, mais il avait le droit d’ordonner aux chauffeurs de les suivre. Le texte du manuel laisse clairement entendre que certaines politiques de la société, comme le port d’un uniforme, sont obligatoires.
+[31] L’appelante était assujettie à un grand nombre de contraintes dans l’exécution de son travail et dans la façon d’accomplir sa tâche. La preuve montre qu’Unit Nine exerçait un degré élevé de contrôle en imposant de nombreuses restrictions à l’égard des activités quotidiennes de l’appelante au cours de chaque poste. Le degré de contrôle exercé sur l’appelante semble être une conséquence naturelle nécessaire du désir du franchiseur d’influencer l’opinion que les clients ont de la société ainsi que de ses produits et services. Le critère du contrôle ne constitue que l’un des facteurs à prendre en considération, mais ce critère est crucial lorsqu’il s’agit de classifier la relation de travail. Le facteur du « contrôle » indique donc pleinement que l’appelante était une employée.
+[32] Il faut ensuite examiner la question de la propriété des instruments de travail et de l’outillage. Ce facteur n’est pas aussi précis que le facteur du « contrôle ». Le véhicule utilisé aux fins de la livraison des pizzas appartenait à l’appelante. L’appelante devait souscrire une assurance et s’occuper de l’entretien du véhicule, mais elle était selon moi de toute façon obligée de le faire puisque le véhicule lui appartenait. Les autres articles nécessaires au transport du produit étaient les sacs qui permettaient de conserver le produit au chaud, les boîtes à pizza sur lesquelles étaient apposés le logo de la société et un dessin ainsi que les terminaux de cartes de débit et de crédit et les bordereaux de vente. L’appelante effectuait une mise de fonds importante puisqu’elle fournissait son véhicule, ce qui indique généralement un statut d’entrepreneur indépendant. Toutefois, Unit Nine fournissait certains articles qui constituaient également des éléments essentiels d’une livraison fructueuse, et fournissait notamment les locaux dans lesquels le magasin était situé et la salle des chauffeurs. La propriété des instruments de travail et de l’outillage n’indique pas en soi d’une façon concluante le statut de l’appelante, mais ce facteur milite en faveur de l’existence d’un statut d’entrepreneur indépendant.
+[33] En examinant les facteurs suivants, à savoir la possibilité de profit et le risque de perte, il importe de noter qu’étant donné qu’Unit Nine fixait les frais qui pouvaient être exigés des clients pour chaque livraison, l’appelante n’exerçait qu’un contrôle restreint sur le profit qu’elle pouvait faire. L’appelante pouvait accroître son profit en effectuant un plus grand nombre de livraisons, mais la preuve n’indique pas qu’elle exerçait un contrôle sur cet élément. Les faits établissaient qu’Unit Nine contrôlait le nombre de postes effectués par l’appelante puisque l’entreprise établissait l’horaire et contrôlait dans une large mesure le nombre de livraisons en effectuant la rotation des chauffeurs au cours d’un poste donné; de plus, malgré cette répartition du travail, l’entreprise pouvait exercer un contrôle supplémentaire sur le profit réalisé par l’appelante, à la discrétion de M. Pandher, en limitant le nombre de livraisons que l’appelante pouvait faire s’il existait entre M. Pandher et elle un différend personnel au cours d’un poste. Les clients étaient ceux d’Unit Nine. L’appelante n’avait pas de clientèle et elle n’avait aucune possibilité d’en établir une parce qu’elle ne se présentait pas comme exploitant une entreprise. L’achalandage appartenait à Unit Nine. Je ne puis voir qu’une possibilité restreinte pour l’appelante de contrôler ou d’influer sur son profit éventuel.
+[34] De plus, il y avait fort peu de risque de perte pour l’appelante. Le risque était tout au plus infime. La situation de l’appelante est tout à fait différente de celle dans laquelle un chauffeur est tenu d’« acheter » le produit de l’employeur avant chaque livraison. En pareil cas, si le produit est perdu en cours de route ou si un client refuse de payer ou encore s’il survient toute une gamme d’autres événements, le chauffeur risque éventuellement de subir une lourde perte au cours d’un nombre donné de postes. Toutefois, l’appelante n’assumait aucune responsabilité à l’égard du produit. Pareille responsabilité et tous les coûts y afférents incombaient à Unit Nine. Si un client refusait de payer, le produit était retourné au magasin. L’appelante perdait les frais de livraison de 3,50 $ et un pourboire éventuel, mais elle ne supportait pas le coût plus élevé de la pizza. Comparativement à la perte subie par Unit Nine, ce risque était minime, même s’il est tenu compte du véhicule de l’appelante.
+[35] En examinant la preuve, je dois également conclure que les activités de l’appelante étaient pleinement intégrées à celles d’Unit Nine. L’appelante n’avait pas de possibilité de se créer une clientèle. Elle effectuait les postes qu’Unit Nine lui assignait. Selon M. Pandher, le côté « livraison » constitue de 60 à 70 p. 100 des activités commerciales d’Unit Nine à cet endroit. L’appelante exécutait les activités de livraison, qui étaient au cœur des activités d’Unit Nine. Lorsqu’elle effectuait ses postes, l’appelante était obligée de travailler exclusivement pour Unit Nine. L’appelante portait une épinglette au nom d’Unit Nine et livrait le produit dans un emballage sur lequel étaient apposés le logo et un dessin appartenant à Unit Nine. Même les frais de livraison faisaient partie du prix du produit établi et demandé des clients par Unit Nine. L’achalandage était celui d’Unit Nine. Le manuel indique dans l’ensemble que les chauffeurs étaient pleinement intégrés à l’entreprise d’Unit Nine. L’efficacité des livraisons et les modalités de livraison étaient établies par Unit Nine. Une carte était disponible dans les locaux et Unit Nine décidait des modalités d’acheminement. Pendant environ six ans, l’appelante a travaillé exclusivement, généralement à plein temps, pour Unit Nine. Rien ne montre que l’appelante se soit présentée comme exploitant sa propre entreprise de livraison ou qu’elle ait commercialisé le produit dans le cadre de sa propre entreprise.
+[36] La façon dont les plaintes des clients étaient traitées démontre également que l’appelante était une employée pleinement intégrée à l’entreprise d’Unit Nine et qu’Unit Nine s’occupait des plaintes des clients. Lorsqu’on lui a demandé, au cours du contre-interrogatoire, si des réunions étaient organisées avec les chauffeurs afin de discuter des plaintes, M. Pandher a répondu ce qui suit :
+(Transcription, page 135, lignes 14 à 19)
+[37] Le fait que l’appelante estimait être une employée pleinement intégrée à l’entreprise d’Unit Nine ressort de l’ensemble de son témoignage. Ainsi, les propos suivants ont été échangés au cours de l’interrogatoire principal :
+[traduction]
+Q. Pendant la période où vous avez travaillé pour Paul chez Pizza 73, avez-vous livré des pizzas pour quelque autre entreprise?
+(Transcription, page 40, ligne 25 à page 41, ligne 5)
+[38] En résumé, l’appelante était une employée d’Unit Nine au cours de la période pertinente. Unit Nine bénéficiait de ses services de chauffeur‑livreur. L’appelante n’exploitait pas une entreprise de livraison pour son propre compte. Unit Nine avait le droit d’exercer un plein contrôle sur les activités de livraison de l’appelante lorsque celle‑ci effectuait son poste. La possibilité pour l’appelante de faire un profit ou de subir une perte était minime, sinon inexistante. L’appelante était pleinement intégrée aux activités commerciales d’Unit Nine, dont le côté « livraison » constituait 60 à 70 p. 100 de l’ensemble des activités. L’appelante était propriétaire du véhicule à l’aide duquel elle livrait le produit d’Unit Nine, mais cela en soi n’est pas suffisant pour me permettre de conclure qu’elle était une entrepreneure indépendante. L’examen de tous les faits présentés dans les appels m’amène à conclure d’une façon inéluctable que l’appelante était une employée, et ce, malgré la désignation contraire stipulée dans l’entente concernant le transporteur. La relation réelle existant entre les parties n’indique pas que l’appelante était une entrepreneure indépendante. L’entreprise était celle d’Unit Nine dans tous les sens du terme et l’appelante fournissait ses services pour le compte d’Unit Nine.
+[39] Les appels sont accueillis sans qu’aucuns dépens soient adjugés.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de mars 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 6e jour de mai 2011.
+Marie‑Christine Gervais
+RÉFÉRENCE : 2011 CCI 146
+Nos DES DOSSIERS DE LA COUR : 2010-2519(EI)
+2010-3026(CPP)
+INTITULÉ : VITA STEINER
+c.
+MINISTRE DU REVENU NATIONAL et PIZZA 73 INC. s/n PIZZA 73
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 10 février 2011
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 9 mars 2011
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Michael A. Power
+Avocate de l’intimé :
+Me Mary Softley
+Avocat de l’intervenante :
+Me Dane Zobell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Michael A. Power
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

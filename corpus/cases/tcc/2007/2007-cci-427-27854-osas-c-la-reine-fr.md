@@ -1,0 +1,128 @@
+---
+title: "Osas c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27854/index.do"
+last_modified: "2007-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 427"
+citation2: ""
+neutral_citation: "2007 CCI 427"
+decision_date: "2007-06-11"
+language: "fr"
+item_id: "27854"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 329
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:36:02.246000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "870681776f9c304f7c3f867a1de9998e56598e226988310a949e253cd49eeb95"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Osas c. La Reine
+
+- Citation: 2007 CCI 427
+- Decision date: 2007-06-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 329, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-11
+Référence neutre
+2007 CCI 427
+Numéro de dossier
+2006-1387(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI427
+Date : 20070809
+Dossier : 2006-1387(IT)I
+ENTRE :
+MOSES OSAS,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Prononcés à l’audience le 12 juin 2007,
+à Vancouver (Colombie-Britannique)).
+La juge Campbell
+[1] Le 16 septembre 2004, l’appelant a fait l’objet d’une nouvelle cotisation à l’égard de ses années d’imposition 2001, 2002 et 2003. Au cours de chacune de ces années d’imposition, le ministre a majoré le revenu d’entreprise brut de l’appelant et a refusé la déduction de certaines dépenses qui avaient été soumises. À la suite de cette nouvelle cotisation, établie en 2004, et conformément aux avis d’opposition signifiés par l’appelant, le ministre a établi, à deux reprises, les 2 août 2005 et 6 mars 2006, de nouvelles cotisations à l’égard de l’appelant. Dans ces deux nouvelles cotisations, le ministre a admis la déduction de dépenses d’entreprise additionnelles pour chacune de ces années d’imposition.
+[2] La question à laquelle donnent lieu ces nouvelles cotisations est de savoir si l’appelant a le droit de déduire des dépenses additionnelles en sus des dépenses que le ministre a admises pour chacune des années d’imposition. La seconde question que l’appelant a soulevée était de savoir s’il avait le droit de demander le crédit d’impôt non remboursable pour son fils Isiah pour les années d’imposition 2001 et 2002.
+[3] L’appelant est propriétaire‑exploitant d’un camion et d’un conteneur, qu’il utilisait pour transporter des marchandises. La preuve donne à entendre que l’appelant s’occupait presque exclusivement de transporter des marchandises pour une société appelée PRTI Transport Inc. L’appelant était rémunéré par chèque toutes les semaines et PRTI consignait par écrit le nombre de voyages, le paiement effectué pour chaque voyage et les dépenses engagées pour le compte de l’appelant.
+[4] L’appelant préparait chaque année ses propres déclarations, en déduisant certaines dépenses d’entreprise : frais de repas et de représentation, frais relatifs à une automobile, frais de bureau à domicile, location d’une place de stationnement pour le camion, frais relatifs au camion, frais de téléphone cellulaire, amendes, droits de licence et primes d’assurance.
+[5] Selon la preuve présentée par Mme Uppal, qui a effectué la vérification pour les trois années d’imposition, l’appelant avait remis certaines pièces justificatives, mais uniquement pour les six derniers mois de l’année 2003. L’appelant a informé la vérificatrice que d’autres documents manquaient parce que quelqu’un s’était introduit par effraction dans sa résidence. La vérificatrice a ensuite demandé et obtenu un sommaire du revenu tiré de PRTI Transport.
+[6] Le document de travail de la vérificatrice, daté du 26 juillet 2004 et produit sous la cote R‑9, énonce les motifs pour lesquels les dépenses avaient été admises ou refusées pour chacun de ces six derniers mois de l’année 2003. En se fondant sur les dépenses additionnelles qui avaient été admises, la vérificatrice a établi un pourcentage qu’elle a appliqué aux six premiers mois des années 2001, 2002 et 2003, soit les périodes pour lesquelles l’appelant ne pouvait pas fournir de documents à cause du vol. Si je comprends bien la preuve présentée par la vérificatrice, ce pourcentage incluait un autre 15 p. 100, donnant simplement à l’appelant l’avantage d’un soi‑disant [traduction] « bénéfice du doute ». L’appelant a été informé de ces rajustements finaux, après que Mme Uppal eut achevé la vérification, par une lettre datée du 15 octobre 2004 (pièce R‑10).
+[7] Après cette vérification initiale, Mme Uppal a procédé à un second examen après que l’appelant eut présenté des documents additionnels. Le 18 mai 2005, la vérificatrice a rendu compte de ses conclusions à l’agent des appels, Samuel Mensah, et des montants admissibles additionnels ont été admis. Dans le document de travail de la vérificatrice (pièce R‑12), un sommaire des dépenses révèle que le montant total des dépenses, admises après que deux avis d’opposition eurent été signifiés et que des examens eurent été effectués, était encore plus élevé que les montants qui avaient de fait été considérés comme des déductions admissibles à la suite du dernier examen, de sorte qu’aucune dépense additionnelle n’a été admise. En fait, il est intéressant de noter que les changements effectués au titre de l’impôt sur le revenu dont faisait état la pièce R‑12 montrent que des dépenses s’élevant à environ 30 000 $ ont été admises par la vérificatrice en sus des dépenses dont l’appelant pouvait réellement rendre compte ou de celles à l’égard desquelles l’appelant pouvait fournir des pièces justificatives.
+[8] Dans le second avis d’opposition, l’appelant soulevait également la question du crédit pour un enfant à charge.
+[9] Selon la preuve présentée par l’agent des appels, M. Mensah, qui a préparé le rapport concernant l’opposition (pièce R‑14) à l’égard de la seconde opposition de l’appelant, des dépenses additionnelles ont été admises, compte tenu des [traduction] « Rapports de règlement du chauffeur » pour les montants que PRTI avait retenus à la source. À tous les autres égards, la décision antérieure que la vérificatrice avait prise au sujet des montants dont la déduction avait été refusée était confirmée.
+[10] En général, dans des appels concernant des dépenses d’entreprise, j’examine chaque dépense séparément et j’indique la raison pour laquelle je ne puis l’admettre ou la raison pour laquelle je suis prêt à l’admettre en totalité ou en partie. Toutefois, en l’espèce, je ne crois pas pouvoir apporter d’améliorations à la méthode employée à chaque étape de l’examen effectué à la suite de l’opposition. L’appelant n’a présenté aucun nouveau document, sauf pour un carnet de route pour l’année 2001 et un carnet de route pour l’année 2002. L’appelant s’est présenté devant la Cour avec deux grosses enveloppes brunes pleines de reçus, mais sans fournir de sommaire et sans mettre les documents en ordre. Cela mis à part, la vérificatrice et l’agent des appels avaient tous ces renseignements à leur disposition à un moment donné, dans cette longue suite d’événements. La vérificatrice a réussi à effectuer certains rapprochements et, de fait, elle a laissé à l’appelant le bénéfice du doute quant à un montant de 30 000 $, comme le révèle la pièce R‑12. Je suppose que si je consacrais plusieurs heures à examiner ces renseignements, je pourrais conclure à l’admissibilité de quelques dépenses. Cependant, si je procédais ainsi, je compenserais ces dépenses à l’aide des 30 000 $ qui ont été alloués à l’appelant. Mon examen de la preuve montre qu’il s’agirait au mieux de montants minimes, mais je ne suis pas prêt à laisser ici le bénéfice du doute à l’appelant. M. Osas ne semble pas se rendre compte que la personne qui veut déduire des dépenses doit être prête à se présenter devant la Cour avec un type quelconque de preuve crédible, documentaire ou orale. M. Osas n’a présenté aucune preuve, quelle qu’elle soit. Il a contredit son propre témoignage à de nombreuses reprises et il n’a donné que des réponses vagues, évasives et insatisfaisantes aux questions qui lui étaient posées. Il n’est pas réaliste ni raisonnable pour l’appelant d’affirmer que je devrais accepter toutes ses dépenses simplement parce qu’il affirme les avoir engagées à titre de dépenses d’entreprise. Dans d’autres appels, j’ai accepté le témoignage de vive voix qu’un appelant avait présenté au sujet de dépenses non justifiées par des pièces, mais je ne puis le faire en l’espèce. Lorsqu’un appelant change son témoignage, qu’il se contredit et qu’il offre des explications invraisemblables, cela laisse planer un doute sur l’ensemble de sa preuve. Je crois que l’appelant a eu de la chance lorsqu’il a eu affaire à une vérificatrice et à un agent des appels qui ont fait des efforts consciencieux pour trier une multitude de documents en désordre et qui sont arrivés à une conclusion favorable à l’appelant, en lui allouant environ 30 000 $ de plus que le montant à l’égard duquel il pouvait en fait produire des pièces justificatives.
+[11] En résumé, mes conclusions, en ce qui concerne chacune de ces dépenses, sont les suivantes :
+(1) La plupart des dépenses que l’appelant a déduites pour son véhicule se rapportaient aux déplacements qu’il faisait entre sa résidence et son lieu de travail. Bien sûr, ces dépenses ne sont pas déductibles et il existe bon nombre de décisions à l’appui d’une conclusion à cet effet. Je rejette tout simplement les autres assertions de l’appelant, lorsqu’il affirme ne jamais avoir utilisé son véhicule pour autre chose que l’entreprise et qu’il comptait par exemple sur ses amis pour l’amener visiter ses enfants. Cela est tout simplement déraisonnable et je rejette son témoignage sur ce point.
+(2) Aucune documentation n’a été fournie au sujet de la prime d’assurance et des amendes; il y avait fort peu d’éléments de preuve au sujet de la déduction des frais de bureau à domicile si ce n’est que l’appelant a témoigné y avoir rencontré des clients éventuels et les avoir présentés à PRTI.
+(3) Les frais de repas se rapportaient principalement à des déjeuners et à des cafés et un bref examen a révélé que les reçus étaient mêlés à des reçus qui se rapportaient clairement à des repas de famille. L’appelant n’a aucunement tenté de m’aider à établir un lien entre ces reçus et des repas d’affaires.
+(4) L’appelant a témoigné que, en 2001, il payait 75 $ par mois pour garer son camion et que, en 2002 et en 2003, il payait environ 200 $ par mois. Il a présenté pour l’année 2001 douze reçus qui donnent à entendre que les frais mensuels étaient de 200 $ en 2001, plutôt que les frais mensuels de 75 $ qu’il avait allégués. L’appelant n’a fourni aucune explication au sujet de cet écart. Il semble que ces reçus aient été reconstitués. Il n’y avait rien qui permette d’établir un lien entre les reçus et PRTI, si ce n’est une inscription effectuée à la main, mentionnant PRTI. Ces reçus sont tous signés par un homme inconnu appelé Jimmy, sans indiquer le nom de famille de celui‑ci.
+[12] Enfin, l’assertion de l’appelant selon laquelle il versait chaque semaine à quelqu’un un montant de 100 $ en espèces pour organiser ses livres est rejetée. Je ne puis accepter que l’appelant ait payé quelqu’un au cours d’une période de trois ans afin de maintenir des documents d’une façon aussi désordonnée que ce que je vois ici.
+[13] La seule nouvelle preuve documentaire qui m’a été présentée, et que la vérificatrice n’avait pas à sa disposition lorsqu’elle a effectué les divers examens, se rapporte à deux carnets de route : l’un pour l’année 2001 et l’autre pour l’année 2002. Je doute sérieusement que ces carnets de route aient été tenus sur une base continue en 2001 et en 2002. La conclusion la plus logique est qu’ils ont été reconstitués à un moment donné après les années 2001 et 2002, et ce, pour plusieurs raisons, à savoir :
+(1) L’appelant a témoigné qu’il voyageait souvent pendant trois ou quatre jours, à effectuer de longs parcours aux États‑Unis, mais ces carnets de route montrent en général que l’appelant retournait chez lui chaque soir, du lundi au vendredi, et n’effectuait pas de voyages durant les fins de semaine. Au mois de février 2001, l’appelant a passé une semaine aux États‑Unis, selon l’avis d’opposition, mais le carnet de route n’en fait pas état.
+(2) La distance parcourue chaque semaine était presque constante, soit 60 à 68 kilomètres par jour. Cela contredit encore une fois le témoignage de vive voix de l’appelant, à savoir qu’il se rendait à divers points, aux États‑Unis.
+[14] Je crois que ces carnets de route sont tout simplement des tentatives intéressées visant à étayer la déduction des frais relatifs au véhicule.
+[15] Quant à la seconde question, la preuve, contrairement aux arguments de l’appelant, montre que, en 2001 et en 2002, l’appelant vivait avec Mme Naiker, sa conjointe de fait. Ils étaient copropriétaires d’une résidence, à Surrey, ils partageaient le même numéro de téléphone et vivaient à la même adresse, ils ont eu un second enfant au mois de mars 2003 et Mme Naiker était désignée à titre de représentante de l’appelant dans l’avis d’opposition que celui‑ci a signifié (pièce R‑6). Étant donné qu’au cours des années d’imposition 2001 et 2002, l’appelant vivait en union de fait avec Mme Naiker, il ne satisfait pas aux critères énoncés à l’alinéa 118(1)b).
+[16] Je crois que les remarques que le juge Bowman a faites dans la décision Chrabalowski c. Canada, [2004] A.C.I. no 488, sont particulièrement pertinentes en l’espèce. Au paragraphe 12, le juge a dit ce qui suit, et je cite :
+Un problème auquel fait face l’appelant dans ce genre de cas est que, s’il y a une série de dépenses excessives, invraisemblables ou déraisonnables, la chose laisse planer un doute sur toutes les dépenses. En d’autres termes, une fois qu’une tendance à l’invraisemblance ou au caractère excessif est établie, la Cour est portée à examiner avec plus de soin des dépenses qui, isolément, pourraient être justifiables. Bref, toute lacune de la preuve est comblée, et tout doute est résolu, d’une façon qui est compatible avec la tendance.
+[17] Je n’aurais pas pu m’exprimer d’une façon plus concise que le juge en chef Bowman, et c’est exactement le scénario qu’il décrit qui est ici en cause. À coup sûr, je ne puis retenir les parties de la preuve de l’appelant qui sont contradictoires et invraisemblables. Malheureusement, cela a pour effet de dénaturer le reste de la preuve de l’appelant.
+[19] Par conséquent, les appels concernant les années d’imposition 2001, 2002 et 2003 sont rejetés.
+Signé à Sydney (Nouvelle‑Écosse), ce 9e jour d’août 2007.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 14e jour de février 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI427
+No DU DOSSIER DE LA COUR : 2006-1387(IT)I
+INTITULÉ : Moses Osas
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 11 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT RENDU
+ORALEMENT : Le 12 juin 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Pavanjit Mahil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

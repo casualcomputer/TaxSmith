@@ -1,0 +1,470 @@
+---
+title: "Instructions for the Flow-Through Share Program"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t100/instructions-flow-through-share-program.html
+last_modified: 2023-11-15
+---
+# Instructions for the Flow-Through Share Program
+
+## Forms available
+
+- T100A - Application for a selling instrument T100 identifications number (SITIN)
+
+- T100A-CERT – Certificate of Qualified Professional Engineer or Professional Geoscientist
+
+- T100B - Details of the flow-through shares (FTSs) and flow-through warrants (FTWs) subscribed
+
+- T100C - Application for a T100 identification number (TIN) on the exercise of flow-through warrants (FTWs) and details of FTWs exercised
+
+- T101A - Renunciation of Canadian exploration expenditures (CEEs) and Canadian development expenditures (CDEs)
+
+- T101B - Adjustments to Canadian exploration expenditures (CEEs) and Canadian development expenditures (CDEs) previously renounced
+
+- T101C - Part XII.6 tax return (electronic only)
+
+- T101D - Summary of Assistance (electronic only)
+
+- T101 - Statement of Resource Expenses
+
+When filing, always use the latest version of Forms T100A, T100A-CERT, T100B, and T100C or Forms T101A, T101B, T101C and T101D and T101 Statement. All forms are available on our website at canada.ca/tax
+
+## Legislative references
+
+All legislative references are to the *Income Tax Act*(the *"Act"*).
+
+*"Assistance", "flow-through share"*(FTS)*, "principal-business corporation"*(PBC) and *"selling instrument"*are defined in subsection 66(15).
+
+*"Canadian Development Expense"*(CDE) is defined in subsection 66.2(5).
+
+*"Canadian Exploration Expense"*(CEE) is defined in subsection 66.1(6).
+
+*"Canadian Renewable and Conservation Expense"*(CRCE) is a CEE and is defined in section 1219 of the Regulations.
+
+*"Deemed Canadian Exploration Expense"*(DCEE) is a CDE that is renounced as CEE under subsection 66(12.601).
+
+*"Flow-through warrant"*(FTW) a FTW includes a right of a person to have a FTS issued to that person pursuant to the FTS subscription agreement.
+
+“Investment Tax Credit” (ITC), “mineral exploration tax credit” (METC) and “critical mineral exploration tax credit” (CMETC) are defined in subsection 127(9)
+
+In accordance with subsections 66(12.6), 66(12.601) and 66(12.62), the following resource expenditures are not eligible for renunciation:
+
+- prescribed *"Canadian exploration and development overhead expenses"*(CEDOE),
+
+- cost of certain seismic data, and
+
+- the cost of mining properties.
+
+## Where To File Your Return
+
+Canada Revenue Agency Business Returns Division Prince Edward Island Tax Centre 275 Pope Rd Summerside PE C1N 5Z7
+
+## Contacting Us
+
+Website: [Flow-through shares (FTSs)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/flow-through-shares-ftss.html) For **technical information**concerning the FTS program, you may contact the following tax services offices: Calgary 587-475-3766 Vancouver 604-666-8430 Rouyn-Noranda 1-438-357-1013
+
+For more information concerning the **processing of the forms**, you may contact the Business Returns Division. Call 1-855-432-5517 Fax Number: 902-370-4504
+
+## Identification Number
+
+The assignment of the Selling Instrument T100 Identification Number (SITIN) or T100 Identification Number (TIN) is for identification purposes only. It does not imply that the shares are FTSs, that the agreement or the expenses meet all or any of the requirements of *the Income Tax Act*with respect to FTSs, or that the Canada Revenue Agency (CRA) accepts the allocation of the price between the shares and the warrants. The corporation may be subject to an audit.
+
+The CRA will issue a different identification number for each of the following situations:
+
+- the initial offering for the issuance of the FTSs and the FTWs (SITIN),
+
+- the issuance of the FTSs and the FTWs when subscription agreements are signed in a subsequent calendar year (TIN), and
+
+- the exercise of FTWs (TIN).
+
+The CRA will confirm in writing the SITIN or TIN that the corporation will have to use to renounce the expenditures.
+
+The CRA will issue only one SITIN upon initial filing of Form T100A. If over the course of the exercise period, FTWs are exercised at different prices or if they are exercised in different calendar years, the corporation will have to file Form T100C and request additional TINs to identify each of these situations.
+
+## Filing Forms T100A, T100A-CERT, T100B, and T100C
+
+Forms T100A, T100B, and T100C have a checklist to help you prepare a complete application. Errors or missing information on the forms may delay the issuing of your identification number. An authorized officer of the corporation must sign and date in the “Certification” area for each form that is filed.
+
+### Who is required to file Forms T100A, T100A-CERT, T100B, and T100C
+
+A principal-business corporation (PBC) has to complete Form T100A when it agrees to issue FTSs, or prepares a selling instrument for FTSs as required by subsection 66(12.68). A PBC is one where the principal activities of the corporation include exploring or drilling for petroleum or natural gas, mining or exploring for minerals, producing or refining minerals or hydrocarbons, or generating energy and the development of projects using property described in Class 43.1 of Schedule II of the Regulations.
+
+The corporation must file a separate Form T100A for each new selling instrument. A minor amendment to a selling instrument does not create a new selling instrument. However, when the amendment is major, the amended selling instrument is considered to be a new selling instrument. For example, a change in the price per share or to the rights attached to the share gives rise to a new selling instrument and the corporation is required to file a new T100A. The same rule applies to amendments to FTS agreements.
+
+The corporation may have to file Form T100A-CERT if flow-through critical mineral mining expenditures are to be renounced under eligible flow-through share agreements entered into after April 7, 2022 and before April 1, 2027. Attach form T100A-CERT to Form T100A, if applicable.
+
+When no selling instrument is prepared, the corporation may combine several subscription agreements with Form T100A provided the terms of the FTS agreements are identical. In this case, the earliest signed agreement may be used to determine the filing deadline of the form. You may estimate the amount you expect to raise if that amount is unknown. Form T100B should be filed when the information is available. Form T100C should be filed to obtain a TIN after FTWs are exercised.
+
+### Filing deadlines
+
+Form T100A must be completed and filed on or before the last day of the month following the earlier of:
+
+- the month in which the corporation entered into the agreement to issue the shares; and
+
+- the month in which the corporation first delivered the selling instrument to a potential investor.
+
+The information required in Form T100B might not be available within the prescribed time limit under subsection 66(12.68). To avoid late filing penalties, the corporation should not delay the filing of Form T100A. The corporation will have to submit Form T100B as soon as the information becomes available.
+
+The T100A-CERT certificate must be completed within the 12-month period immediately preceding the time when the FTS agreement is made.
+
+It will be necessary to complete and file Form T100C as soon as the information on the exercise of the FTWs is known, which should be soon after the exercise period of the FTWs.
+
+### Consequence of the failure to file Forms T100A or T100C
+
+A corporation is required to file Forms T100A or T100C in accordance with subsection 66(12.68) and obtain an identification number to be entitled to renounce resource expenditures to the investors. A renunciation made without having complied with these filing requirements is invalid.
+
+### T100A - Application for a selling instrument T100 identification number (SITIN)
+
+Form T100A must be completed and filed within the filing deadline to obtain a SITIN before any expense can be renounced to an investor. A copy of the following documents should accompany the form:
+
+- the selling instrument (prospectus, offering memorandum, term sheet, etc.);
+
+- the agreement to issue FTSs (where no selling instrument is prepared, a copy of the earliest signed agreement);
+
+- the FTW certificate;
+
+- Form T100A-CERT, if applicable;
+
+- a cheque in payment of any late filing penalty if applicable; and
+
+- in the event that Form T100A is filed more than 90 days late, a letter explaining the reasons for the late filing. The letter must be addressed to the Business Returns Division at the address previously shown on page 2.
+
+#### Part 2 - Exploration and development project information
+
+To better evaluate the performance of the FTS program, please identify the principal mineral, critical mineral, or combination of minerals that the exploration activity is expected to be focused on. If you will be renouncing CRCE, select the energy source that best describes the activity you will be engaged in.
+
+#### Part 3 - Selling instrument and subscription agreement
+
+**Step 1**: Answer the questions by putting a checkmark in the appropriate boxes. Enter the date that is the earlier of:
+
+- the day in which the corporation entered into the agreement to issue the shares; and
+
+- the day in which the corporation first delivered the selling instrument to a potential investor.
+
+Where subscription agreements are signed in different calendar years, an additional identification number will be required.
+
+**Step 2**: Enter the maximum expected number of FTSs and FTWs that will be issued according to the selling instrument. In cases where the corporation does not use a selling instrument, it should indicate the maximum amount it expects to raise. Do not include the exercise price of FTWs to be exercised in the future in this step.
+
+Calculate the maximum proceeds from the issuance of FTSs and FTWs.
+
+**Step 3**: Enter the maximum expected number of FTWs to be exercised in the future and calculate the maximum total proceeds. Do not include the proceeds reported in Step 2. You will have to file Form T100C to obtain an identification number after the FTWs are exercised.
+
+Enter the expiry date of the FTWs. If the FTWs can be exercised subsequently at another price, enter that new price and the expiry date.
+
+#### Part 4 - Penalty calculation
+
+If Form T100A is not filed by the filing deadline, it will be deemed to have been filed on time pursuant to subsection 66(12.74) when the penalty under subsection 66(12.75) is paid on filing and the form is filed either within 90 days of the filing deadline or at a later date where, in the opinion of the Minister, it would be just and equitable to permit such filing. An identification number will only be issued once payment is received. The penalty is calculated on the maximum expected proceeds (line (18)), and not on the actual sale of FTSs.
+
+### T100A-CERT – Certificate of Qualified Professional Engineer or Professional Geoscientist
+
+Complete and attach this form to the T100A for a FTS offering of a PBC under which flow-through critical mineral mining expenditures are to be renounced. This form is to be completed and certified by a qualified professional engineer or professional geoscientist. The certificate must be completed within the 12-month period immediately preceding the time when the FTS agreement is made.
+
+Documents that support the certification should accompany the form. Examples of supporting documents include:
+
+- Map of the project area including claim outline(s) and claim number(s);
+
+- Description of the geological features of the property(ies);
+
+- Description of proposed exploration activity(ies) and how they relate to the targeted critical mineral(s);
+
+- Copies of exploration plan(s) submitted for approval to regulating authorities; and
+
+- Copies of exploration plan(s) submitted for approval to the board of directors of the PBC.
+
+#### Section A – Principal business corporation (PBC) information
+
+Enter the name, account number and address of the corporation.
+
+#### Section B – Critical mineral exploration target
+
+Select the targeted critical mineral(s) as defined in ITA ss. 127(9).
+
+Provide a brief explanation of why it is expected that the mineral deposit(s) being explored will contain primarily (i.e., more than 50%) critical minerals.
+
+#### Section C – Certification
+
+Provide details on the qualified professional engineer or professional geoscientist.
+
+### T100B - Details of the flow-through shares (FTSs) and flow-through warrants (FTWs) subscribed
+
+Form T100B is for the disclosure of the subscribers and the actual amounts subscribed. The corporation will have to submit the form as soon as the information becomes available along with a copy of the following documents where applicable:
+
+- stock exchange approval; and
+
+- all agency agreements.
+
+Should subscription agreements be signed or the FTSs be paid for in different calendar years, another TIN will be necessary to renounce the expenses.
+
+#### Part 2 - Details of FTSs and FTWs
+
+**Step 1**: Enter the SITIN that the corporation obtained from the CRA after it filed Form T100A in accordance with subsection 66(12.68). You cannot renounce an amount if an identification number has not been issued to you. If Form T100B is filed with Form T100A, leave blank.
+
+**Step 2**: Enter the number of FTSs and FTWs subscribed. Do not include FTWs exercised. Form T100C should be used to obtain a new TIN for FTWs exercised.
+
+Calculate the proceeds raised from the issuance of FTSs and FTWs.
+
+#### Part 3 - Subscriber's List
+
+Enter the identification number and subscriber's name. FTS agreements are not transferable; only the original subscriber of the FTSs or FTWs (the person who signed the agreement) has a right to the renounced expenditures. If an agent has signed the agreement on behalf of a principal, that agent must be identified in Part 4 - Agent's List. The agent will have to provide a list of subscribers to the corporation since the corporation must renounce to the investor and not to the agent.
+
+For each subscriber, enter the date of the agreement. You can only renounce expenses incurred within the 24-month period following the month of the agreement.
+
+Enter the number of FTSs subscribed and the total amount invested for each subscriber. You can only renounce amounts up to the amount invested by each subscriber.
+
+#### Part 4 - Agent's List
+
+Enter the identification number and agent's name. You cannot renounce to the agent. The agent will have to provide you with a list of subscribers to allow you to renounce the expenditures.
+
+For each agent enter the date of the agency agreement. The agency agreement should accompany this application.
+
+Enter the number of FTSs to sell and the total amount to sell for each agent.
+
+### T100C - Application for a T100 Identification Number (TIN) on the Exercise of FTWs and Details of the FTWs Exercised
+
+Form T100C must be filed to obtain a TIN for FTWs exercised. This form is for the disclosure of the investors who exercised their FTWs and the number of FTWs exercised.
+
+The CRA allows the grouping of FTWs exercised over a period of 90 days in a calendar year. In cases where the number of FTWs or the proceeds is not significant over the calendar year, one Form T100C may be filed for that same year.
+
+The SITIN issued with Form T100A must not be used to renounce expenditures related to the exercise of FTWs. The CRA will confirm in writing the TIN that the corporation will have to use to renounce the expenses related to the FTWs exercised.
+
+#### Part 2 - Exercise of FTWs
+
+**Step 1:**Enter the identification number that the corporation obtained from the CRA after it filed Form T100A in accordance with subsection 66(12.68). You cannot renounce an amount if an identification number has not been issued to you.
+
+**Step 2**: Enter the actual number of FTWs exercised.
+
+Calculate the total proceeds from the exercise of the FTWs.
+
+#### Part 3 - List of investors who exercised their FTWs
+
+Enter the identification number and investor's name. FTS agreements are not transferable; only the original subscriber of the FTWs (the person who signed the agreement) has a right to the renounced expenditures.
+
+For each investor, enter the date the FTWs were exercised. You can only renounce expenses incurred within the 24-month period following the month the FTWs were exercised.
+
+Enter the number of FTWs exercised and the total amount invested for each investor. You can only renounce amounts up to the amount invested by each investor.
+
+## Filing Forms T101A, T101B, T101C and T101D
+
+Forms T101A, T101B, T101C and T101D have a checklist to help you prepare a complete return. An authorized officer of the corporation must sign and date in the "Certification" area each form that is filed.
+
+### Who is required to file Forms T101A, T101B, T101C and T101D
+
+A PBC is required to complete and file the appropriate T101 forms to renounce resource expenses (T101A), to reduce or reclassify an amount previously renounced (T101B), to remit any applicable Part XII.6 tax (T101C) or to allocate an amount of assistance among investors (T101D).
+
+### Filing deadlines and other dates
+
+The filing deadlines outlined in Forms T101A, T101B, and T101C are summarized in Figure 1 on page 4. Year 1 is the year that the agreement was entered into or FTWs exercised as the case may be.
+
+#### Figure 1: Filing deadlines and other dates
+
+**Date of renunciation**: This is the date that the renunciation is made, which is generally the earliest date that Form T101A was signed or certified, or when the T101 slips were sent to the investors. This date is relevant since the renunciation must be filed in the month following the month that the renunciation was made.
+
+### Consequence of the failure to file Forms T101A or T101D
+
+If a corporation fails to file Form T101A for expenses renounced pursuant to the provisions of the Act (subsection 66(12.7)), the renunciation will not become effective in accordance with subsection 66(12.7001). In addition, where a corporation receives or is entitled to receive assistance as an agent for the holders of its FTSs and fails to file Form T101D pursuant to the provisions of the *Act*(subsection 66(12.701)), the expenses relating to the assistance are deemed not to have been incurred by the corporation in accordance with subsection 66(12.702).
+
+### T101A - Renunciation of Canadian Exploration Expenditures (CEE) and Canadian Development Expenditures (CDE)
+
+**Total number of T101 information slips attached**: Enter the number of T101 information slips issued to investors.
+
+**Identification number previously issued**: Enter the SITIN or TIN that the corporation obtained from the CRA after it filed Form T100A or T100C in accordance with subsection 66(12.68). You cannot renounce an amount if an identification number has not been issued to you.
+
+#### Part 2 - Exploration and development project information
+
+To better evaluate the performance of the FTS program, please identify the principal mineral, critical mineral, or combination of minerals that the exploration activity is expected to be focused on. If you are renouncing expenses in the mining sector, enter the percentage that was or will be surface and underground exploration. In cases where the look-back rule is used, you may have to estimate the level of activity that will be carried out. If the renunciation relates to both the mining and the oil and gas sectors, enter the percentage for each sector.
+
+If you are renouncing CRCE, select the energy source that best describes the activity you will be engaged in.
+
+#### Part 3 - Renunciation of eligible resource expenditures
+
+**Step 1**: Enter the effective date of renunciation. Renounced expenses are deemed to be incurred on the effective date of renunciation by the person to whom they are renounced, and never to have been incurred by the corporation. The corporation may choose an effective date of renunciation that allows an investor to claim expenses before the actual date of renunciation.
+
+For example, if the corporation renounces amounts on February 13 of Year 2 using the general rule, the corporation may elect to have the effective date of renunciation occur on any day after the agreement date in Year 1, up to February 13 of Year 2 provided the expenses were incurred. The effective date of renunciation will determine the year that the deduction can be claimed by an investor.
+
+When the look-back rule is used however, the effective date of renunciation must always be December 31 of Year 1.
+
+The *"effective date of renunciation"*should not be confused with the "*date of renunciation"*discussed previously.
+
+**Step 2**: Enter the amounts that you wish to renounce to your investors. Indicate the total amount of CEEs (including CRCEs and DCEEs) and CDEs renounced under subsections 66(12.6), 66(12.601) and 66(12.62).
+
+**Line 60** **- General rule**: For renunciations under the general rule, enter the expenses incurred up to the effective date of renunciation and within the period commencing on the date the FTS agreement was signed and ending 24 months after the end of the month in which that FTS agreement was signed.
+
+**Line 61** **- Look-back rule**: For renunciations under the look-back rule, enter the expenses incurred or to be incurred in Year 2 that can be renounced. The expenditures eligible for the look-back rule are certain CEEs (including CRCEs pursuant to a FTS agreement entered into after July 26, 2002 for expenses incurred after 2002) and deemed CEEs. The corporation may be subject to a Part XII.6 tax (Form T101C).
+
+The look-back rule may be used if the following conditions are met:
+
+- the consideration for the shares to be issued under the FTS agreement is paid by the subscriber in money before the end of Year 1;
+
+- the corporation and the subscriber deal with each other at arm's length throughout Year 2;
+
+- the corporation renounces eligible expenditures to the subscriber in January, February or March of Year 2; and
+
+- the effective date of renunciation is December 31 of Year 1.
+
+**Line 65** **- Total amount renounced**: Enter the sum of lines 60 and 61. The total amount renounced (including previous renunciations) cannot exceed the total subscription proceeds raised (line 40 of Form T100B) or FTWs exercised (line 47 of Form T100C) as the case may be. Any excess may be subject to a penalty of 25% on the over renounced amount in accordance with subsections 163(2.2) or 163(2.21).
+
+**Step 3**: Enter the amounts according to the location of the activities. The expenditures identified on line 65 should be allocated to the province(s) and territory(ies) where they have been or will be incurred. You may have to estimate the amount(s) if the look-back rule is used.
+
+**Step 4**: Enter the eligible resource expenditures qualifying for an ITC and provincial tax credits according to the location of the activities and broken down by eligibility of the expenses for the federal METC and CMETC. The expenditures should be allocated to the province(s) and territory(ies) where they have been or will be incurred. You may have to estimate the amount(s) if the look-back rule is used. The amount(s) qualifying for a federal ITC, or a portion, may also qualify for a provincial tax credit.
+
+**Line 68 - Total amount qualifying for ITC**: Enter the total of the amounts allocated to the provinces or territories that qualify for the ITC under subsection 127(9). Only certain expenses related to preliminary mineral exploration activities conducted from or above ground qualify.
+
+Expenses incurred in the following areas **do not**qualify for an ITC: oil and gas, coal, bituminous sands or oil shale sectors, expenses incurred to explore underground or for the purpose of bringing a mine into production and CRCEs.
+
+The amount must have been renounced in favour of an individual (directly, or indirectly through a partnership of which the individual is a member) pursuant to a FTS agreement. The ITC was extended where the investor and the corporation entered into a FTS agreement on or before March 31, 2018. Under the "look-back" rule, funds raised with the benefit of the credit in 2018, for example, can be spent on eligible exploration up to the end of 2019.
+
+#### Part 4 - Penalty calculation
+
+Form T101A should be filed in the month following the month in which the renunciation was made. If the form is not filed by the filing deadline, it will be deemed to have been filed on time pursuant to subsections 66(12.74) and 66(12.741) when the penalty under subsection 66(12.75) is paid on filing and the form is filed either within 90 days of the filing deadline or at a later date where, in the opinion of the Minister, it would be just and equitable to permit such filing. The penalty is calculated on the total amount renounced (line 65).
+
+### T101B - Adjustments to Canadian Exploration Expenditures (CEE) and Canadian Development Expenditures (CDE) Previously Renounced
+
+The form should be filed for each adjustment that the corporation makes. The adjustment may be a reduction or a reclassification. A reduction is an amount that decreases a previous renunciation, whereas a reclassification re-allocates an amount among the various expenditure types (types of CEEs and CDEs) or rules (general rule v. look-back rule) without reducing the overall renunciation.
+
+**Total number of T101 information slips attached: Enter the number of T101 information slips issued to investors**.
+
+#### Part 2 - Adjustments to amounts previously renounced
+
+**Step 1**: Enter the identification number that was used when you filed Form T101A.
+
+**Step 2**: Enter the effective date of renunciation that corresponds with the renunciation being adjusted. The effective date of renunciation for the expenditures being adjusted should be the same date that was used in the original renunciation. In cases where more than one renunciation was filed, it is important that the adjustment be applied to the correct renunciation.
+
+**Step 3**: Enter the amounts that you will require to calculate the amended renunciation.
+
+**Is this a reduction requested by the Minister?**: Indicate in the appropriate box if this is a reduction requested by, or without any demand by, the Minister.
+
+When the reduction is requested by the Minister under subparagraph 66(12.73)(a)(i), this statement must be filed not later than 30 days after the Minister sent a notice in writing demanding the reduction. Subsection 66(12.73) requires a corporation to reduce any amount previously renounced that is in excess of the amount that could be renounced to the investor and to file a statement in prescribed form indicating the reduction. The prescribed forms include the slips.
+
+If the reduction pertains to an amount that was renounced under the look-back rule as required under subparagraph 66(12.73)(a)(ii), this form must be filed without any demand by the Minister before March of year 3.
+
+**Line 75 - Total amounts previously renounced**: Enter the amounts that were previously renounced when you filed Form T101A. If a reduction or reclassification has been filed previously, enter the amended renunciation after the adjustments.
+
+**Reduction**
+
+**Line 76 - Reduction of expenses previously renounced using the general rule**: Enter the reductions that affect renunciations made under the general rule.
+
+**Line 77 - Reduction of expenses previously renounced using the look-back rule**: Enter the reductions that affect renunciations made under the look-back rule.
+
+**Line 78 - Total reduction**: Enter the sum of lines 76 and 77 for each column.
+
+**Reclassification**
+
+Enter the amount of the reclassification. When the reclassification is simply a reallocation from one CEE to another (i.e. Oil & Gas CEEs to Deemed CEEs), T101 slips need not be filed. However, if the reclassification is between CEEs and CDEs, or affects tax credits, then T101 slips must be filed. The reclassification should be positive for an increase and negative for a decrease. The total of all reclassifications should be equal to zero.
+
+**Line 79 - Reclassification to (from) the general rule of expenses previously renounced**: Enter the reclassifications (increase and decrease) that affect renunciations under the general rule.
+
+**Line 80 - Reclassification to (from) the look-back rule of expenses previously renounced**: Enter the reclassifications (increase and decrease) that affect renunciations under the look-back rule.
+
+**Line 81 - Total reclassification**: Enter the sum of lines 79 and 80 for each column.
+
+**Line 82 - Total adjusted amount renounced**: Enter the total of line 75 less line 78 and plus or minus line 81, as the case may be, for each column.
+
+**Step 4**: Enter the total amount of adjustments on lines 78 and 81 according to the location of the activities as previously reported in part 3 of step 3 on form T101A.
+
+**Step 5**: Enter the total adjustments (lines 78 and 81, mining sector only) to the resource expenditures qualifying for ITC and provincial tax credits as previously reported in part 3 - step 4 of T101A according to the location of the activities and broken down by eligibility of the expenses for the federal METC and CMETC. The expenditures should be allocated to the provinces and territories where they have been incurred. The amount qualifying for a federal ITC, or a portion, may also qualify for a provincial tax credit.
+
+**Line 84 - Total adjustments to the amount qualifying for ITC**: Enter the total of the adjustment amounts allocated to the province(s) and territory(ies) that qualifies for the ITC (mining sector only).
+
+#### Part 3 - Penalty calculation
+
+Form T101B should be filed before March of Year 3 if the look-back rule was used, or 30 days after being notified in writing by the Minister. If the form is filed after the filing deadline, the late filing penalty must accompany the form.
+
+Another penalty of up to 25% of the excess renounced will also apply under subsections 163(2.21) and 163(2.22) where:
+
+- A person, knowingly or under circumstances amounting to gross negligence has made or has participated in assentedto or acquiesced in the making of a false statement or omission in the document required to be filed under subsection66(12.73) in respect of a renunciation purported to be made as a consequence of subsection 66(12.66), or
+
+- The person fails to file the document on or before the day that is 24 months after the day on or before which it was required to be filed.
+
+### T101C - Part XII.6 Tax Return
+
+Where the look-back rule was used to renounce CEEs, the corporation is required to pay a tax under Part XII.6 calculated on the portion that was unspent after February of Year 2. The Act provides for a deduction under paragraph 20(1)(nn) in computing the corporation's income in respect of the tax.
+
+#### Part 2 - Calculation of the Part XII.6 Tax
+
+**Columns A & B: Amounts renounced as a consequence of the look-back rule**: The sum of the amounts in columns A and B should be equal to the renunciation on line 61 filed in the prior year in Form T101A. The amounts in columns A and/or B should be the same for all of the months.
+
+**Columns C & D: Cumulative expenses incurred before the end of the month**: Enter the cumulative amount for each month to the maximum equal to the amount that was renounced under the look-back rule. The cumulative amount appearing in columns C and D should not exceed the amount in columns A and B respectively.
+
+**Columns B & D**: Enter amounts in these columns only if the province in which the expenses were incurred has a tax similar to Part XII.6.
+
+**Column E: Prescribed rate**: The prescribed interest rates are those that were in effect for each month of Year 2. The rates may be obtained from our website at[Prescribed interest rates for the calculation of Part XII.6 tax](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/flow-through-shares-ftss/prescribed-interest-rates-calculation-part-6-tax.html).
+
+**Column F: Multiplier**: There is an additional tax of 10% on the portion of the expenses not incurred by the end of December of Year 2.
+
+**Example**: The corporation renounced $1,000,000 under the look-back rule with an effective date of December 31, 2003. The cumulative expenses incurred in 2004 are listed in column "C", and the prescribed interest rates are those in effect in 2004. The Part XII.6 tax calculation is done on a monthly basis, and the total is due before March 2005.
+
+|  | Amounts renounced using the look-back rule | Cumulative expenses incurred before the end of the month | Prescribed rate | F | Monthly Calculation (A+B/2-C-D/2) X (E/12+F/10) |  |  |
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+|  | A | B | C | D | E |  |  |
+
+| January | 1,000,000 |  | 10,000 |  | 0% | 0 | - |
+
+| February | 1,000,000 | - | 35,000 | - | 5% | 0 | 4,020.83 |
+
+| March | 1,000,000 | - | 50,000 | - | 5% | 0 | 3,958.33 |
+
+| April | 1,000,000 | - | 75 000 | - | 5% | 0 | 3,854.17 |
+
+| May | 1,000,000 | - | 100,000 | - | 5% | 0 | 3,750.00 |
+
+| June | 1,000,000 | - | 200,000 | - | 5% | 0 | 3,333.33 |
+
+| July | 1,000,000 | - | 300,000 | - | 4% | 0 | 2,333.33 |
+
+| August | 1,000,000 | - | 500,000 | - | 4% | 0 | 1,666.67 |
+
+| September | 1,000,000 | - | 600,000 | - | 4% | 0 | 1,333.33 |
+
+| October | 1,000,000 | - | 700,000 | - | 5% | 0 | 1,250.00 |
+
+| November | 1,000,000 | - | 800,000 | - | 5% | 0 | 833.33 |
+
+| December | 1,000,000 | - | 1,000,000 | - | 5% | 1 | - |
+
+| Subtotal **(90)** | 26,333.33 |  |  |  |  |  |  |
+
+| Deduct: If the amount is an amendment to a previous calculation, the amount of the Part XII.6 tax previously remitted with respect to this financing, otherwise zero. **(92)** |  |  |  |  |  |  |  |
+
+| Part XII.6 tax (90) - (92) **(95)** | 26,333.33 |  |  |  |  |  |  |
+
+#### Part 3 - Penalty calculation
+
+Form T101C should be filed before March of Year 3 if the amount renounced under the look-back rule remained unspent by the end of February of Year 2. If the form is filed after the filing deadline, the late filing penalty must accompany the form.
+
+### T101D - Summary of assistance
+
+In accordance with subsection 66(12.701), the corporation must file this statement reporting the assistance it receives or becomes entitled to receive as an agent before the end of the first month after the particular month in which it first becomes known to the corporation that a person or partnership holding a flow-through share of the corporation is entitled to a share of any part of the assistance.
+
+## Filing T101 Slips
+
+Complete a T101 slip for each person who owns FTSs for which a renunciation of Canadian resource expenses, an adjustment to an amount previously renounced, or an allocation of assistance has been made, or for whom a federal investment tax credit or provincial tax credit is available.
+
+The renunciation must be made in the name of the shareholder and not the agent. Only the original shareholder is entitled to the renunciation and its related tax credit. Failure to satisfy the filing requirements of subsections 66(12.7) to 66(12.702) may result in such expenditures as deemed not to have been incurred by an investor.
+
+**Effective date of renunciation**: Enter the same date that was reported in Form T101A or T101B. If the slip is being issued because of assistance flowed out to or to be flowed out to investors, enter the "date of entitlement to assistance" reported in Form T101D.
+
+The investor's portion of the amounts reported on Forms T101A, T101B, or T101D should be included in the following boxes:
+
+- Lines 120/121 - CEEs or CDEs reported on line 65 of Form T101A or on line 82 of Form T101B.
+
+- Lines 124/125 - Assistance flowed out or to be flowed out to investors reported on line 70 of Form T101D.
+
+- Line 122/128 - Expenses qualifying for ITC (METC or CMETC) and reported on line 68 of Form T101A, or on line 84 of Form T101B.
+
+- Line 123/129 - Expenses qualifying for ITC (METC or CMETC) subject to an interest free period - Include in this box that portion of the expenses that was reduced and that was previously claimed on line 68 of Form T101A using the look-back rule and is attributable to the investor.
+
+- Line 130 - Reduction subject to an interest free period - Include in this box that portion of the reduction that is reported on line 78 or line 81 of Form T101B and is attributable to the investor. Subsection 161(6.2) provides for a grace period on the interest up to April of the year following the date of the renunciation. Failure to identify the amount could lead to additional interest charged to the investor because of the reduction.
+
+- Lines 141, 143, 144 and 145 - Expenses qualifying for a provincial tax credit (METC) - Qualifying amount incurred for activities undertaken in a participating province.
+
+- Lines 151, 153, 154 and 155 – Expenses qualifying for a provincial tax credit (CMETC) – Qualifying amount incurred for activities undertaken in a participating province.
+
+### Changes to the T101 information slips
+
+If you prepare amended, or cancelled T101 information slips, send our copies of the informaiton slips and any other forms, with a covering note explaining the changes, to the Business Returns Division.
+
+**Amended T101 information slips**- If you have to change some of the data on a T101 information slip for a certain investor, prepare another. Select the appropriate box on the right side of the amended information slip and send two copies to the recipient.
+
+**Cancelled T101 information slips**- If you issued a T101 information slip by mistake and you want to cancel it, prepare another one with the same data as on the original T101 information slip. Clearly print the word CANCELLED at the top of the information slip and send two copies to the recipient.
+
+**Duplicate T101 information slips**- If you issue a T101 information slip to replace one that a partner has lost or destroyed, prepare another one with the same data as on the original information slip. Select the "Duplicate" box on the right side of the revised information slip and send two copies to the recipient. **You do not have to send us our copies of the duplicate T101 information slips**.

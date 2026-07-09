@@ -1,0 +1,256 @@
+---
+title: "Gestions Cholette Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/483786/index.do"
+last_modified: "2020-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 75"
+citation2: ""
+neutral_citation: "2020 CCI 75"
+decision_date: "2020-08-12"
+language: "fr"
+item_id: "483786"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4549
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:59:35.155000+00:00"
+cases_cited_count: 10
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ab002fbbccb16259f967c8528d08457f75a8cbf9ae16ba3a276c8ab96ae738f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gestions Cholette Inc. c. La Reine
+
+- Citation: 2020 CCI 75
+- Decision date: 2020-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4549, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestions Cholette Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-08-12
+Référence neutre
+2020 CCI 75
+Numéro de dossier
+2017-4468(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-4468(IT)G
+ENTRE :
+GESTIONS CHOLETTE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 12 et 13 septembre 2019, à Montréal (Québec)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Dominic C. Belley
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation datée du 25 octobre 2017 pour l’année d’imposition se terminant le 31 août 2010 de l’appelante est rejeté avec dépens en faveur de l’intimée, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour d’août 2020.
+« Réal Favreau »
+Juge Favreau
+Référence : 2020 CCI 75
+Date : 20200812
+Dossier : 2017-4468(IT)G
+ENTRE :
+GESTIONS CHOLETTE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre d’une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, LRC [1985] ch 1 (5e suppl.), telle que modifiée (la « Loi »), par la ministre du Revenu national (la « ministre ») en date du 25 octobre 2017 relativement à l’année d’imposition se terminant le 31 août 2010 de l’appelante.
+[2] En vertu de la nouvelle cotisation du 25 octobre 2017, la ministre a notamment confirmé l’ajout d’une somme de 920 700 $ dans le calcul du revenu de l’appelante en se fondant sur le paragraphe 82(1) de la Loi, a annulé la pénalité en vertu du paragraphe 163(2) de la Loi et a appliqué des pertes autres que des pertes en capital au montant de 186 729 $ en provenance de l’année d’imposition 2013.
+[3] La somme de 920 700 $ représente des dividendes que l’appelante a reçus de filiales et de sociétés associées au cours de son année d’imposition 2010.
+[4] Les dividendes dont il est question au paragraphe 3 sont les suivants :
+Payeurs
+Montants
+Construction Cholette–Houde Inc.
+65 000 $
+Construction Cholette 2005 Inc.
+340 000 $
+Construction Cholette et associées Inc.
+220 000 $
+Construction Cholette Lefebvre Inc.
+260 700 $
+9185-0156 Québec Inc.
+5 000 $
+Total =
+920 700 $
+[5] Pour son année d’imposition 2010, l’appelante a omis d’ajouter à son revenu la totalité des dividendes imposables reçus au cours de l’année au montant de 920 700 $ et a réclamé la déduction de ce montant de 920 700 $ en vertu du paragraphe 112(1) de la Loi, entraînant ainsi la sous-évaluation du revenu imposable du même montant.
+[6] La nouvelle cotisation du 25 octobre 2017 remplace la nouvelle cotisation en date du 17 mars 2016 en vertu de laquelle la ministre a ajouté le dividende non déclaré de 920 700 $ dans le revenu de l’appelante pour l’année d’imposition 2010 et a imposé sur ce montant la pénalité prévue au paragraphe 163(2) de la Loi.
+[7] Les nouvelles cotisations du 17 mars 2016 et du 25 octobre 2017 ont été établies après l’expiration de la période normale de nouvelle cotisation.
+Question en litige
+[8] La seule question en litige consiste à déterminer si la ministre a correctement établi la nouvelle cotisation du 25 octobre 2017 à l’encontre de l’appelante pour son année d’imposition 2010, malgré l’expiration de la période normale de nouvelle cotisation.
+Les témoignages
+Michel Cholette
+[9] Monsieur Michel Cholette a témoigné à l’audience. Monsieur Cholette est un gradué en administration (comptabilité) des Hautes Études Commerciales de Montréal qui, après un passage comme directeur des finances chez Mines Noranda, s’est lancé dans la construction d’immeubles locatifs et, par la suite, dans la construction d’immeuble à condominiums. Il a été président au niveau provincial de l’Association des professionnels de la construction et de l’habitation du Québec (l’« APCHQ ») et a siégé au conseil d’administration de cet organisme.
+[10] Monsieur Cholette opère sa compagnie de construction sous le nom de « Le Groupe Cholette ». Il a constitué l’appelante le 3 avril 1990 en vertu de la Loi sur les sociétés par actions du Québec. Il est le seul administrateur de l’appelante.
+[11] La particularité du mode d’opération de monsieur Cholette est qu’il réalise ses projets en s’associant à des entrepreneurs locaux ou régionaux, à des financiers, ou à de grands propriétaires terriens, et en créant des entités différentes pour chaque projet. Gestions Cholette Inc. s’occupe de tous les aspects des projets, soit l’achat des terrains, le financement, la construction, la gestion administrative, la publicité, la vente et le service après-vente. Tous les employés affectés aux projets sont des employés de Gestions Cholette Inc.
+[12] Pour ses services, l’appelante facture aux entités des frais ou honoraires de gestion de 3.5 % des ventes brutes et de 1 % pour les frais de publicité.
+[13] En 2010, le chiffre d’affaires de l’appelante était supérieur à 100 millions de dollars et l’appelante comptait environ 100 employés, dont 20 employés en finance et comptabilité et gestion de personnel et 15 employés en architecture, urbanisme et services après-vente. En 2010, l’appelante gérait de 18 à 20 projets pour la construction d’environ 400 portes.
+[14] Monsieur Cholette a expliqué qu’il faisait affaire avec monsieur Jean‑Claude Forest, en tant que comptable externe depuis de nombreuses années et qu’il n’a jamais eu de problème avec les autorités fiscales et que, lorsque nécessaire, ce dernier consultait un fiscaliste. Monsieur Cholette a dit avoir très peu de contacts avec monsieur Forest et que c’était son directeur des finances, monsieur Charles Tremblay, et son prédécesseur qui faisaient la liaison avec monsieur Forest.
+[15] Monsieur Cholette a affirmé n’avoir jamais été impliqué dans la préparation des états financiers et des déclarations de revenus de l’appelante, ni en 2010 et ni dans les années antérieures. Il n’était intéressé qu’aux résultats d’opérations. Charles Tremblay lui fournissait des informations concernant les projets d’états financiers, mais les déclarations de revenus n’étaient pas revues en détail. Monsieur Cholette ne savait pas à quelle ligne de la déclaration de revenus de l’appelante pour l’année 2010, le revenu de dividendes devait être déclaré. Monsieur Cholette n’a pas pu fournir d’explications concernant les raisons pour lesquelles les dividendes de 920 700 $ n’ont pas été inclus dans le revenu de l’appelante. Il se fiait aux professionnels chargés de préparer les états financiers et les déclarations de revenus.
+[16] Pour ce qui est de la signature des déclarations de revenus de l’appelante pour l’année d’imposition 2010, monsieur Cholette ne se rappelait pas si elles ont été signées avant ou après leur production par voie électronique auprès des autorités fiscales compétentes.
+Charles Tremblay
+[17] Monsieur Charles Tremblay, directeur des finances chez Gestions Cholette Inc., a également témoigné à l’audience pour expliquer le processus opérationnel de la préparation des états financiers et des déclarations de revenus de l’appelante. Monsieur Tremblay détient un Baccalauréat des Hautes Études Commerciales de Montréal, et un diplôme d’études supérieures en comptabilité publique. Il est comptable agréé (maintenant comptable professionnel agréé). Il a travaillé 4 ans au cabinet comptable KPMG à préparer et à vérifier des états financiers et il s’est joint à Gestions Cholette Inc. en 2007 en tant que contrôleur. Il est devenu directeur des finances de l’appelante en 2011 ou 2012.
+[18] Monsieur Tremblay a précisé que l’appelante avait la responsabilité de la comptabilité et de la tenue de livres pour l’ensemble des sociétés et des sociétés en commandite du groupe Cholette, soit approximativement 55 sociétés, dont environ 25 sociétés et environ 10 sociétés en commandite étaient très actives. En 2010, monsieur Tremblay agissait comme contrôleur pour l’ensemble des sociétés et des sociétés en commandite du groupe, mais la responsabilité pour la préparation et la production des déclarations de revenus pour l’ensemble des sociétés du groupe appartenait au comptable externe, monsieur Jean-Claude Forest. Le mandat du comptable externe était d’effectuer des missions d’examen à l’égard des états financiers, d’analyser les pièces justificatives, de calculer les provisions d’impôts et de préparer les déclarations de revenus et les relevés T5.
+[19] En 2010, le directeur des finances de l’appelante était monsieur Claude Saumur, également un comptable agréé, et le département des finances comptait alors 15 employés, dont 4 comptables agréés.
+[20] Monsieur Tremblay a expliqué que les filiales et les sociétés satellites du groupe avaient un exercice financier se terminant le 31 août de chaque année et qu’il commençait à compiler les factures vers la fin du mois de septembre en prenant les plus importantes sociétés au début et en finissant par l’appelante, parce que les résultats des filiales et des autres sociétés avaient un impact sur les résultats de l’appelante. La date limite pour la production des déclarations de revenus des sociétés du groupe était le 28 février 2011 pour l’année d’imposition 2010.
+[21] Monsieur Tremblay transmettait au comptable externe 5 ou 6 dossiers par semaine. Il lui remettait un projet d’états financiers complets pour chaque société ce qui comprenait les pièces justificatives, la balance de vérification et les écritures de régularisation. Au niveau des résultats non consolidés, les seuls éléments manquants étaient les impôts exigibles et futurs. Sur la base de ces données, le comptable externe calculait les impôts et le bénéfice net après impôts. À noter cependant que les quotes-parts du bénéfice net de filiales non consolidées et du bénéfice net (perte nette) des sociétés satellites non consolidées étaient déterminées par monsieur Tremblay.
+[22] Monsieur Tremblay a de plus précisé que c’est lui qui calculait les bénéfices non répartis non consolidés, sauf l’impôt remboursable au titre des dividendes, le bilan non consolidé, sauf les impôts à payer et les impôts futurs, et les flux de trésorerie non consolidés comprenant notamment les dividendes reçus des filiales et des sociétés, mais à l’exclusion des impôts futurs.
+[23] Selon monsieur Tremblay, la décision de faire verser les dividendes par les sociétés satellites appartenaient à monsieur Michel Cholette et à ses partenaires après qu’ils aient été informés des marges de manœuvre maximales. Les résolutions déclarant le versement des dividendes des sociétés et des sociétés satellites à l’appelante pour l’année 2010 ont fait l’objet d’un engagement lors de l’interrogatoire au préalable de monsieur Tremblay, lequel engagement n’a pas été satisfait parce que lesdites résolutions n’étaient pas en la possession ou sous le contrôle de l’appelante, alors que les livres des procès-verbaux de ces sociétés sont gardés aux bureaux de l’appelante et que les résolutions sont normalement rédigées par l’adjointe au directeur des finances.
+[24] Concernant les états financiers de l’appelante, monsieur Tremblay a expliqué qu’ils étaient préparés selon les principes comptables généralement reconnus et il a indiqué que les placements dans les filiales et les sociétés satellites étaient comptabilisés à la valeur de consolidation. Par conséquent, les dividendes versés à l’appelante étaient reflétés dans les flux de trésorerie non consolidé (augmentation de l’encaisse), mais diminuaient la valeur des placements apparaissant au bilan.
+[25] Monsieur Tremblay a expliqué qu’il a eu beaucoup de discussions et d’échanges de courriels avec monsieur Forest concernant la préparation des états financiers de l’appelante et des autres sociétés du groupe, mais que monsieur Michel Cholette n’était pas impliqué du tout dans le processus. Ce qui intéressait monsieur Cholette, c’était la rentabilité des opérations et la charge d’impôt par rapport au bénéfice comptable. Monsieur Cholette faisait confiance aux professionnels chargés de la préparation des états financiers et des déclarations de revenus.
+[26] Les états financiers de l’appelante, une fois complétés avec les données fournies par le comptable externe, étaient vérifiés et approuvés par monsieur Tremblay qui les remettait à monsieur Saumur pour examen et commentaires et la version finale était soumise à monsieur Cholette.
+[27] Concernant la signature et la production des déclarations de revenus, monsieur Tremblay a indiqué que dans la semaine suivant la finalisation des états financiers de l’appelante, monsieur Forest venait aux bureaux de l’appelante avec ses 3 boîtes d’états financiers et de déclarations d’impôts pour les faire signer par monsieur Cholette. Pour ce qui est des états financiers et des déclarations de revenus de l’appelante, monsieur Tremblay ne se rappelait pas exactement la date où ils ont été signés et il a indiqué que souvent la pratique était à l’effet que monsieur Forest transmettait électroniquement les déclarations de revenus pour rencontrer les délais et venait les faire signer par la suite aux bureaux de l’appelante. Lors de la signature des déclarations de revenus, ni monsieur Cholette, ni monsieur Tremblay n’examinaient lesdites déclarations de revenus ligne par ligne. La déclaration de revenus fédérale de l’appelante pour l’année d’imposition 2010 a été signée par monsieur Cholette et porte la date du 28 février 2011.
+[28] Lors de son témoignage, monsieur Tremblay a de plus indiqué que l’appelante recevait normalement des dividendes chaque année, sauf en 2009 où il n’en a pas eu, et que des feuillets T5 avaient été émis pour les dividendes déclarés en 2010, sauf à l’égard du dividende de 35 000 $ versé par la société 9185‑0156 Québec Inc.
+[29] Selon monsieur Tremblay, le fait que les dividendes totalisant 920 700 $ n’aient pas été déclarés dans la déclaration de revenus de l’appelante pour l’année d’imposition 2010, est uniquement attribuable à une erreur d’inattention du comptable externe et non pas à une négligence ou à une omission volontaire de sa part.
+Jean-Claude Forest
+[30] Monsieur Jean-Claude Forest a témoigné à l’audience. Monsieur Forest a obtenu un baccalauréat des Hautes Études Commerciales en 1971. Il est devenu comptable agréé en février 1974 et il a œuvré au sein de la commission d’enquête sur le crime organisé de 1974 à 1979. Il a ouvert son bureau de comptabilité en décembre 1979 et il a pris sa retraite en novembre 2013. Il a eu Gestions Cholette Inc. comme cliente de 1990 à 2013. Il avait le mandat de préparer les états financiers et les déclarations de revenus de l’appelante, des filiales et des sociétés satellites jusqu’au 31 août 2011. Pour l’exercice financier de 2012, son mandat s’est limité à produire les états financiers puisque les déclarations de revenus ont alors été préparées à l’interne.
+[31] Monsieur Forest a d’abord indiqué que la personne contact chez l’appelante était le directeur des finances, soit Claude Saumur au début et Charles Tremblay par la suite. En 2010, c’était Charles Tremblay. Selon monsieur Forest, l’appelante avait une bonne structure interne, car il y avait des comptables aux coûts, aux recevables, aux payables et aux salaires. Le département de la comptabilité de l’appelante s’occupait de la comptabilité quotidienne et de la comptabilité de fin d’année. Pour 2010, cela représentait la préparation de 30 projets d’états financiers. Monsieur Forest avait dans son chiffrier toute la comptabilité de l’appelante, y compris la balance de vérification, le grand livre poste par poste, les emprunts, les ventes d’immobilisations et les dividendes versés. Il devait examiner les livres de procès-verbaux des sociétés faisant partie du groupe aux bureaux de l’appelante.
+[32] Concernant le processus de préparation des déclarations de revenus, monsieur Forest a expliqué que c’était madame Édith Springuel, CPA et CGA, la seule employée de monsieur Forest, qui préparait les déclarations de revenus de l’appelante en utilisant le logiciel d’impôt DT Max T2, lequel montrait à l’écran les chiffres comparables de la déclaration de revenus de l’année précédente. En 2010, madame Springuel avait 10 ans d’expérience.
+[33] Le logiciel d’impôt utilisé ne montrait pas à l’écran les annexes à la déclaration T2; il n’y avait que des lignes numérotées. Les dividendes reçus et les dividendes imposables déductibles du revenu doivent être rapportés à l’annexe 3 de la T2 (à la ligne 240) et doivent faire l’objet d’une inscription à la ligne 320 dans le calcul du revenu imposable de la société et d’une addition manuelle à l’annexe 1 de la T2 (à la ligne 214) dans le calcul du revenu net.
+[34] Pour l’année d’imposition 2010, les dividendes de 920 700 $ reçus par l’appelante ont été inscrits aux lignes 200, 205, 210, 220 et 240 de l’annexe 3 et ont été inscrits à la ligne 320 de la déclaration de revenus, mais n’ont pas été ajoutés manuellement à la ligne 214 de l’annexe 1 de la déclaration de revenus de l’appelante. Cette omission a entraîné une sous-évaluation du revenu net de 920 700 $ de la société pour l’année. Le montant des dividendes a également été rapporté à l’annexe 7 de la déclaration aux fins de calcul du revenu de placements total de la société (voir les lignes 032 et 062).
+[35] Selon monsieur Forest, madame Springuel n’a pas eu le réflexe d’ajouter le montant des dividendes de 920 700 $ à la ligne 214 parce que lors de l’exercice précédent, soit lors de l’année 2009, l’appelante n’avait perçu aucun dividende et aucun montant n’avait été inscrit à la ligne 214 dans la déclaration de revenus pour ladite année.
+[36] Monsieur Forest a confirmé que les états financiers de l’appelante, des filiales et des sociétés satellites étaient transmis à l’appelante après leur production auprès de l’Agence du revenu du Canada (l’« ARC ») dans le délai prescrit et que monsieur Tremblay ne voyait pas les déclarations de revenus préalablement à leur production.
+[37] Monsieur Forest a rappelé que les dividendes reçus par l’appelante de sociétés qu’elle contrôlait étaient appliqués en diminution du placement dans chaque société, mais que les dividendes versés par des sociétés qui n’étaient pas contrôlées par l’appelante étaient inclus à l’état des résultats de l’appelante et ne diminuaient pas la valeur des placements dans ces sociétés. Monsieur Forest a par contre indiqué que, dans le cas des sociétés dans lesquelles l’appelante détenait 50% des actions votantes, il ne vérifiait pas si l’appelante avait le contrôle effectif de ces sociétés pour déterminer leur statut fiscal en tant que filiales ou sociétés rattachées.
+[38] Monsieur Forest a affirmé ne pas avoir été impliqué dans la vérification de l’appelante effectuée par l’ARC en 2015 et ne pas avoir eu de communications avec le vérificateur, ni avec monsieur Tremblay et ni avec monsieur François Corriveau du cabinet Corriveau Saint-Onge Inc. qui a été retenu par monsieur Tremblay pour régler le dossier avec l’ARC. Monsieur Forest a de plus affirmé ne pas avoir été consulté pour la préparation de la lettre de représentations datée du 16 décembre 2015 que monsieur Corriveau a transmise à l’ARC. Cette lettre fournit l’explication suivante au paragraphe 4 de la page 4 :
+« L’erreur commise aux déclarations de revenus de 2010 et 2013 (aucune erreur en 2014 contrairement au projet de cotisation) de ne pas inclure les revenus de dividendes reçus de sociétés filiales ou satellites est donc simplement relative à une question d’inattention du préparateur de la déclaration de revenus. À défaut de voir distinctivement ce revenu de dividende à l’état des résultats, celui-ci a été simplement oublié dans le processus par inadvertance. En outre, lors de la conciliation du revenu imposable, aucune erreur ne pouvait être décélée en 2013 puisque les dividendes non inclus au revenu net n’ont pas non plus été déduits dans le calcul du revenu imposable ».
+[39] Monsieur Forest a reconnu l’erreur pour l’année 2010 seulement, car il n’était pas le préparateur des déclarations de revenus de l’appelante, de ses filiales et de ses sociétés satellites pour l’année 2013.
+François Corriveau
+[40] Monsieur François Corriveau a témoigné à l’audience pour expliquer le rôle qu’il a joué dans le cadre du mandat qu’il a obtenu de l’appelante suite à la vérification effectuée par l’ARC concernant les années d’imposition 2010, 2012, 2013 et 2014. Il a d’abord précisé qu’il ne connaît pas monsieur Jean‑Claude Forest, qu’il n’a jamais travaillé avec lui et qu’il n’a jamais communiqué avec lui dans le cadre de la préparation de la lettre de représentations du 16 décembre 2015 à l’ARC.
+[41] Monsieur Corriveau a précisé que la lettre de représentations du 16 décembre 2015 a été préparée par monsieur Richard Joly, un comptable fiscaliste de son cabinet et qu’il a signé ladite lettre après l’avoir révisée. Monsieur Corriveau a reconnu qu’il ne s’est pas enquis du processus de préparation des déclarations de revenus de l’appelante dans le cadre de la préparation de cette lettre.
+[42] Suite aux interventions des représentants de l’appelante au niveau de la vérification et au niveau des oppositions par la suite par monsieur Corriveau pour les années 2012, 2013 et 2014 et par Me Belley pour l’année 2010, l’ARC a apporté les changements suivants aux cotisations pour les années 2010, 2012, 2013 et 2014 :
+- le dividende de 920 700 $ cotisé en 2010 via l’ouverture de l’année prescrite en vertu du paragraphe 152(4) a été maintenu;
+- les pénalités en vertu du paragraphe 163(2) ont été annulées sur les dividendes non déclarés de 2010 (920 700 $), 2013 (1 886 590 $) et de 2014 (151 563 $);
+- les mauvaises créances refusées en 2012, 2013 et 2014 ont été accordées; et
+- les pertes autres que les pertes en capital de l’appelante pour les années 2013 (186 729 $) et 2014 (2 590 904 $) ont été établies et reportées comme suit :
+2010 : 186 729 $ en provenance de 2013
+2011 : 2 043 608 $ en provenance de 2014
+2012 : 276 030 $ en provenance de 2014.
+Bony Janvier
+[43] Monsieur Bony Janvier, vérificateur à l’ARC, a témoigné à l’audience. Il a expliqué qu’il a débuté la vérification de l’appelante le 16 mars 2015 et qu’il l’a terminée le 26 mars 2016. Le plan de vérification était d’effectuer une vérification complète de l’appelante et de ses filiales pour les années 2013 et 2014. En effectuant ladite vérification, monsieur Janvier a constaté que des dividendes au montant de 1 886 590 $ n’avaient pas été inclus dans le revenu de l’appelante en 2013 et que des dividendes au montant de 151 563 $ sur un total de 414 563 $ n’avaient pas été inclus au revenu de l’appelante en 2014. Sur la base de ces informations, monsieur Janvier a examiné la situation pour les années antérieures et a constaté qu’en 2010, les dividendes au montant de 920 700 $ n’avaient pas été inclus aux revenus de l’appelante, mais avaient été déduits dans le calcul du revenu imposable de l’appelante. Les dividendes reçus par l’appelante en 2013 n’avait pas été inclus dans le calcul de son revenu, ni déduits dans le calcul de son revenu imposable.
+[44] Sur la base de ces informations, l’ARC a cotisé l’appelante pour les dividendes non déclarés pour les années 2010, 2013 et 2014, et pour les mauvaises créances refusées pour les années 2012, 2013 et 2014, et a imposé des pénalités en vertu du paragraphe 163(2) pour les années au cours desquelles des dividendes n’ont pas été déclarés. La cotisation pour l’année d’imposition 2010 a été établie en dehors de la période normale de nouvelle cotisation.
+Le droit
+[45] Le présent litige ne porte que sur l’application du sous-alinéa 152(4)a)(i) de la Loi qui se lit comme suit :
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+Position des parties
+Pour l’appelante
+[46] L’appelante soutient que ni elle, ni son comptable monsieur Forest, n’ont fait preuve de négligence ou d’inattention. Elle affirme avoir pris les mesures nécessaires pour s’assurer de l’exactitude de sa déclaration de revenus, qu’il n’y a pas eu d’erreur d’inattention et que toutes les personnes impliquées ont fait preuve de prudence et de diligence lors de la préparation de sa déclaration de revenus. Elle soutient toutefois que s’il y a effectivement eu inattention, la mention à une « inattention du préparateur de la déclaration de revenus » dans la lettre du 16 décembre 2015 de monsieur Corriveau ne peut pas être admise, puisqu’à ce moment, monsieur Corriveau n’avait jamais parlé au préparateur de la déclaration, monsieur Forest, et n’avait aucune connaissance du processus de préparation des déclarations de revenus de l’appelante et n’avait pas pour mandat d’aborder l’application du paragraphe 152(4) de la Loi.
+[47] Selon l’appelante, le bénéfice du doute devrait lui être accordé puisque c’est la ministre qui a le fardeau de la preuve et que permettre la cotisation hors délai irait à l’encontre de deux valeurs: la certitude et la tranquillité d’esprit. De plus, elle affirme que la preuve en l’espèce n’est pas suffisante pour établir, selon la prépondérance des probabilités, qu’elle a été négligente ou qu’elle a fait preuve d’insouciance.
+[48] L’avocat de l’appelante, référant à l’affaire Sa Majesté la Reine c. Johnson, 2012 CAF 253, au paragraphe 55, a fait valoir que « c’est l’état d’esprit et l’intention du contribuable au moment de produire la déclaration de revenus » que l’on doit évaluer selon la norme d’une personne sage et prudente, ce qui n’équivaut pas à l’infaillibilité ni à la perfection. Il a également présenté la décision Vachon c. Sa Majesté la Reine, 2014 CAF 224, aux paragraphes 3 et 4, laquelle réfère à Aridi c. Sa Majesté la Reine, 2013 CCI 74, pour démontrer que ce n’est pas la négligence du comptable qui permet d’établir une cotisation au-delà du délai de prescription selon le paragraphe 152(4) de la Loi, mais bien celle du contribuable. Il a d’ailleurs référé à la décision Aridi pour affirmer que la personne qui produit la déclaration de revenus au paragraphe 152(4) ne vise pas le comptable, mais plutôt les personnes énumérées au paragraphe 150(1) de la Loi. L’appelante est donc d’avis que le comptable externe, monsieur Forest, a agi de façon prudente et diligente lorsqu’il a préparé sa déclaration de revenus pour l’année d’imposition 2010 et que même si la Cour devait conclure que monsieur Forest a été négligent, sa négligence ne lui serait pas attribuable au sens du paragraphe 152(4) de la Loi. Cette même conclusion s’applique, selon elle, à l’erreur d’inattention alléguée.
+[49] L’appelante affirme qu’elle a fait preuve de diligence raisonnable puisqu’elle a transmis à monsieur Forest l’information financière complète et en temps opportun par l’intermédiaire de monsieur Tremblay. De plus, cette information a été remise progressivement à partir d’octobre et, dans le cas de l’appelante, à partir de la mi-janvier, soit un mois et demi avant la date limite de production. Par conséquent, il n’est pas possible de conclure que la présentation erronée des faits est due à une communication d’informations déficiente de la part du contribuable ou une communication d’informations tardive. L’appelante soutient également qu’elle n’avait aucune raison de douter de la compétence de monsieur Forest puisqu’il travaillait pour elle à titre de comptable externe depuis 20 ans sans avoir rencontré de problèmes et que la collaboration entre lui et monsieur Tremblay était excellente. Elle soutient également avoir fait preuve de diligence en ayant recours à des experts, soit les comptables internes et le comptable externe, et à un logiciel fiscal, soit DT Max T2, pour préparer ses déclarations de revenus. Elle affirme que la seule explication à l’erreur est l’absence de dividendes en 2009, puisqu’une telle situation ne s’était jamais produite auparavant et puisqu’habituellement, le logiciel appelait la ligne 214 de la déclaration précédente. Comme en 2009, il n’y avait pas de dividende, la ligne 214 était restée vide. La sous-déclaration n’a donc pas été déclenchée par monsieur Cholette, ni par monsieur Tremblay. De plus, elle affirme avoir divulgué l’information financière, dont celle relative aux dividendes du fait que l’annexe 3 était complétée et que les renseignements s’y trouvant étaient exacts.
+[50] Pour soutenir l’absence de négligence de la part des dirigeants, l’appelante fait également valoir que même si messieurs Cholette et Tremblay avaient vérifié ligne par ligne la déclaration de revenus, ils n’auraient pas été en mesure de détecter l’erreur puisqu’à ce moment, ni l’un ni l’autre ne savait où exactement les dividendes devaient être déclarés. C’est d’ailleurs en raison de leur manque de connaissances à cet effet qu’ils ont fait appel à l’expertise de monsieur Forest. L’appelante est donc d’avis que son comportement était, dans les circonstances, équivalent à celui d’un contribuable raisonnablement prudent et diligent.
+[51] Dans ses plaidoiries, l’avocat de l’appelante a résumé ses arguments en 11 points. Ses conclusions établissent que la ministre n’a pas prouvé la négligence ou l’inattention de l’appelante et que cette dernière a démontré qu’elle avait été diligente:
+1) monsieur Cholette a engagé une équipe de comptables internes avec à sa tête, un dirigeant compétent et digne de confiance, monsieur Tremblay;
+2) monsieur Tremblay préparait chaque année, un projet d’états financiers et/ou d’informations financières, sans les provisions d’impôt, et transmettait toute l’information financière requise et précise à monsieur Forest;
+3) monsieur Forest avait toute l’information financière du groupe Cholette et avait pour mandat de préparer toutes les déclarations de revenus. Il n’y a aucune allégation d’omission volontaire ou de fraude et il est d’ailleurs admis qu’il n’y a pas eu omission volontaire ou fraude;
+4) monsieur Forest, en 2010, était un expert-comptable détenant un titre reconnu par la loi et avait 40 ans d’expérience, dont 20 ans avec l’appelante, sans aucun problème;
+5) monsieur Forest avait mis en place un processus informatique et comparatif qui lui permettait de contrôler la qualité des déclarations de revenus et le but de ce volet comparatif était d’assurer des déclarations de revenus complètes et un contrôle de la qualité;
+6) avant 2010, ce processus n’avait révélé aucune faille;
+7) il y a un seul élément qui permet d’identifier le déclencheur de la présentation erronée des faits et c’est l’absence de dividendes en 2009, ce qui n’a rien à voir avec la diligence avec laquelle l’appelante a recueilli, préparé et transmis l’information financière à monsieur Forest;
+8) en 2010, monsieur Forest a transmis à monsieur Tremblay ses conclusions et son opinion quant à l’impôt payable et monsieur Tremblay a conclu que l’estimation était raisonnable dans les circonstances;
+9) à ce moment, l’information transmise par monsieur Forest était erronée, mais personne n’en était conscient et l’erreur n’était pas manifeste;
+10) monsieur Tremblay a moins de connaissances et d’expérience que monsieur Forest dans la préparation des déclarations de revenus et monsieur Cholette en a moins que monsieur Tremblay. S’attendre à ce que monsieur Cholette et monsieur Tremblay découvrent l’erreur provoquée par le logiciel équivaudrait à demander à deux personnes, qui ont moins d’expérience, moins de connaissances et qui n’ont pas participé au processus, de détecter une erreur que celui qui a plus d’expérience, plus de connaissances et qui a participé au processus n’a pas été capable de détecter lui-même;
+11) la sous-déclaration est un fait qui est intervenu malgré la diligence de messieurs Forest, Tremblay et Cholette.
+[52] En résumé, l’appelante est d’avis que ses dirigeants ainsi que monsieur Forest ont fait preuve de diligence et de prudence et que l’omission d’inclure les dividendes n’était pas due à de la négligence ou à de l’inattention de leur part, mais que cette erreur avait été déclenchée par le logiciel de préparation de déclaration de revenus lors de la comparaison avec l’année d’imposition 2009. Elle soutient également que s’il y a eu négligence de la part de monsieur Forest, celle-ci ne lui est pas imputable, ni à ses dirigeants. À cet effet, l’avocat de l’appelante a fait valoir, en s’appuyant sur l’arrêt Guindon c. Sa Majesté la Reine, 2015 CSC 41, qu’il était légitime pour un contribuable de s’en remettre à des professionnels en droit fiscal étant donné la complexité de ce domaine.
+Pour l’intimée
+[53] Pour l’intimée, le paragraphe 152(4) est une disposition réparatrice qui permet au fisc d’établir une nouvelle cotisation après la période normale de nouvelle cotisation dans les circonstances où, en raison de sa conduite, un contribuable a bénéficié d’une cotisation plus avantageuse que celle qui aurait dû être établie par un manque d’attention ou par négligence de sa part. Il n’est pas question ici d’omission volontaire, ni de fraude.
+[54] Puisque l’alinéa 152(4)a) réfère au « contribuable ou à la personne produisant la déclaration », l’intimée considère que l’appelante est responsable des erreurs de tous ses représentants, y compris les erreurs commises par le comptable externe chargé de la préparation et de la production de ses déclarations de revenus.
+[55] L’erreur dont il est ici question est évidente et n’est ni complexe, ni sujette à l’interprétation. Tous savaient, même monsieur Cholette que les dividendes reçus par l’appelante devaient être inclus dans le calcul de son revenu. L’omission de déclarer un revenu de dividendes tout en réclamant la déduction de ces mêmes dividendes dans le calcul du revenu imposable de l’appelante ne peut être attribuable qu’à un manque de diligence raisonnable de la part de l’appelante et de ses représentants pourtant tous qualifiés, expérimentés et compétents.
+[56] Pour rétablir la cohérence de la Loi, soit d’imposer le revenu qui aurait dû être imposé et d’accorder la déduction qui a été réclamée, la ministre peut utiliser le paragraphe 152(4) s’il y a eu une erreur d’inattention ou de négligence de la part de l’appelante ou de son représentant en produisant sa déclaration de revenus.
+[57] L’avocate de l’intimée s’est appuyée sur l’arrêt Venne c. Canada (ministre du Revenu national – M.N.R.), (CF 1re inst.) [1984] ACF no 314, pour établir que l’appelante n’avait pas fait preuve de négligence raisonnable dans la préparation et la production de sa déclaration de revenus en permettant qu’elle soit produite avant qu’elle soit révisée par messieurs Tremblay et Cholette et avant qu’elle soit signée par monsieur Cholette et que sa négligence était à l’origine de la présentation erronée des faits dans ladite déclaration vu que l’erreur était évidente et facilement détectable par des personnes raisonnables et expérimentées comme messieurs Cholette et Tremblay.
+[58] La décision du juge Bowman dans l’affaire Snowball c. Canada, [1996] ACI no 276, a été citée parce qu’on mentionne que le sous-alinéa 152(4)a)(i) n’est pas une disposition pénale et que la négligence commise par la personne qui prépare une déclaration de revenus continue à avoir les mêmes conséquences aux termes du sous-alinéa 152(4)a)(i), qu’il s’agisse de la négligence du contribuable personnellement ou de celle du comptable ou de toute autre personne qui a préparé la déclaration de revenus à titre de mandataire.
+[59] L’avocate de l’intimée a également référé aux décisions suivantes qui ont imputé aux contribuables les présentations erronées des faits effectuées par les personnes qui ont préparé ou produit les déclarations de revenus pour leur compte :
+- Nesbitt c. Canada, [1996] ACF no 19 (CF 1ère instance), confirmée en appel [1996] ACF no 1470 (CAF);
+- Isnor c. Canada, [2000] ACI no 622 (CCI);
+- Ridge Run Developments Inc. c. R, 2017 CCI 68;
+- Gestion Foret-Dale Inc. c. R, 2009 CCI 255;
+- College Park Motors Ltd c. R., 2009 CCI 409.
+[60] Concernant l’interprétation à donner à l’expression « personne produisant la déclaration » que l’on retrouve à l’alinéa 152(4)a), l’intimée soutient que le comptable ou le professionnel qui a préparé la déclaration de revenus pour le contribuable est visé par cette disposition d’autant plus que si le comptable ou le professionnel a produit les déclarations de revenus pertinentes auprès des autorités fiscales compétentes en vertu d’une autorisation, d’une procuration ou d’un mandat du contribuable.
+[61] L’intimée a souligné que dans la décision Aridi c. La Reine, 2013 CCI 74, le comptable externe n’avait que préparé la déclaration de revenus des contribuables et que dans la décision Thompson c. La Reine, 2017 CCI 115, il n’y avait aucun élément de preuve quant à l’identité de la personne qui a produit les déclarations de revenus qui avaient été préparées par le comptable des appelants.
+[62] Dans la décision Vine (Succession) c. La Reine, 2014 CCI 64, laquelle a été confirmée par la Cour d’appel fédérale, 2015 CAF 125, il est clair que c’est la personne qui a produit la dernière déclaration de revenus du défunt, à savoir la succession, qui n’a pas fait preuve de la diligence requise dans l’examen de ladite déclaration.
+[63] L’avocate de l’intimée a soutenu que les juges qui ont rendu des décisions postérieurement à celle rendue dans Aridi ont continué d’appliquer les principes établis dans les décisions antérieures énumérés au paragraphe 59 ci-dessus et que par conséquent, la jurisprudence n’est pas véritablement partagée quant à savoir si un contribuable peut être tenu responsable d’une erreur commise par un comptable externe qui prépare ou produit une déclaration de revenus d’un contribuable.
+[64] Finalement, l’intimé soutient que monsieur Tremblay aurait dû constater, en effectuant son analyse de la provision d’impôts aux états financiers, que la provision d’impôts n’était pas raisonnable dans les circonstances; l’écart entre l’impôt à payer selon la déclaration de revenus et le montant cotisé après l’inclusion des dividendes était de l’ordre de 180 529 $.
+Analyse
+[65] Pour que la ministre puisse établir une nouvelle cotisation au-delà de la période normale de nouvelle cotisation, le contribuable ou la personne produisant la déclaration doit avoir fait une présentation erronée des faits par négligence, inattention ou omission volontaire ou avoir commis une fraude en produisant la déclaration. En l’espèce, il a été admis qu’il y a eu une présentation erronée des faits et que celle-ci n’était pas due à une omission volontaire ou à une fraude.
+[66] Il incombe donc à la ministre de prouver que, selon la prépondérance des probabilités, l’appelante ou la personne produisant la déclaration a fait une présentation erronée des faits par négligence, ou par inattention. En l’espèce, l’appelante a reconnu qu’il y a eu une présentation erronée des faits lors de la production de sa déclaration de revenus de l’année d’imposition 2010 par le comptable externe, monsieur Forest.
+[67] Selon la preuve au dossier, monsieur Forest avait à l’égard de l’exercice financier 2010 de l’appelante, le mandat de préparer le bilan non consolidé de l’appelante au 31 août 2010, des états non consolidés des résultats, des bénéfices non répartis et des flux de trésorerie de l’exercice terminé à cette date, de même qu’un rapport de mission d’examen sur les états financiers non consolidés de l’appelante et de préparer les déclarations de revenus de l’appelante pour l’année d’imposition 2010.
+[68] Monsieur Forest était également autorisé à produire auprès des autorités fiscales compétentes les déclarations de revenus de l’appelante pour l’année d’imposition 2010. À cet effet, le formulaire T183 CORP - Déclaration de renseignements des sociétés pour la transmission électronique a été signé par monsieur Cholette en date du 28 février 2011, autorisant ainsi monsieur Forest à transmettre électroniquement la déclaration de revenus de l’appelante auprès de l’ARC. En signant cette déclaration, monsieur Cholette a également attesté que le revenu net aux fins de l’impôt sur le revenu, selon l’annexe 1, les états financiers ou l’IGRF (ligne 300) au montant de 3 615 198 $ et que l’impôt de la partie 1 à payer étaient exacts et complets et qu’ils révèlent la totalité de l’impôt à payer sur les revenus de la société.
+[69] Lors de son témoignage, monsieur Forest a attribué l’erreur au fait que le logiciel DT Max T2 qu’il utilisait pour préparer les déclarations de revenus de l’appelante requérait une entrée manuelle des dividendes à la ligne 214 de l’annexe 1 et au fait que les chiffres comparables de la déclaration de 2009 montrés à l’écran n’indiquaient rien à la ligne 214 dû à l’absence de dividende en 2009.
+[70] À mon avis, monsieur Forest a fait preuve d’inattention, voire de négligence dans les circonstances. En 2010, monsieur Forest était un CPA comptant environ 40 ans d’expérience et 20 ans en tant que comptable externe de l’appelante. Il a été décrit comme étant compétent et honnête par les deux parties notamment en raison de l’absence d’erreurs avant 2010. Il connaissait donc très bien le fonctionnement de comptabilisation des dividendes de l’appelante et savait que la ligne 214 nécessitait toujours une intervention manuelle. Il connaissait très bien le logiciel qu’il utilisait pour préparer les déclarations de l’appelante et a d’ailleurs mentionné que ce logiciel ne permettait pas l’affichage des formulaires et des annexes à l’écran lors de la saisie des données. Malgré cela, il semble ne pas avoir jugé pertinent d’imprimer la déclaration afin de la vérifier. En ce qui concerne la vérification à l’écran des formulaires et des annexes qui requiert quelques manœuvres supplémentaires, il a avoué ne pas avoir lu la ligne 214, Monsieur Forest avait comme exigence minimale de vérifier que le montant déduit à la ligne 320 était également inclus à la ligne 214 de l’annexe 1. Or, monsieur Forest n’a même pas pris la peine de vérifier la ligne qui ne faisait pas l’objet d’un report automatique ce qui constitue en soi de la négligence, surtout venant d’un CPA avec l’expérience de monsieur Forest.
+[71] La négligence du comptable externe dans les circonstances où (i) il avait le mandat de préparer les états financiers de l’appelante pour l’exercice financier se terminant le 31 août 2010 et de fournir un rapport de mission d’examen à l’égard de ces états financiers et de préparer les déclarations de revenus de l’appelante pour l’année d’imposition 2010, et où (ii) il est dûment autorisé à produire électroniquement auprès de l’ARC la déclaration de revenus de l’appelante pour l’année d’imposition 2010 après que le représentant de l’appelante ait attesté que le revenu net et l’impôt à payer de l’appelante étaient exacts et complets et qu’ils révèlaient la totalité de l’impôt à payer sur les revenus de la société, est suffisante pour permettre l’application du paragraphe 152(4) de la Loi.
+[72] À l’alinéa 152(4)a), le terme « contribuable » et l’expression « la personne produisant la déclaration » doivent s’interpréter comme incluant le contribuable lui‑même, ses représentants légaux et toute personne dûment autorisée à produire la déclaration de revenus pour le compte du contribuable, en l’occurrence le comptable externe de l’appelante. Par conséquent, le contribuable doit être tenu responsable de toute erreur commis par l’une ou l’autre de ces personnes le répresentant.
+[73] La responsabilité de l’appelante dans le présent cas est d’autant plus évidente du fait que sa déclaration de revenus a été produite par monsieur Forest sans avoir fait au préalable l’objet d’une révision par messieurs Tremblay et Cholette. En l’espèce, la preuve est à l’effet que ni monsieur Cholette, ni monsieur Tremblay n’ont examiné la déclaration de revenus de l’appelante avant qu’elle ne soit produite. Monsieur Tremblay a affirmé qu’il ne vérifiait pas ligne par ligne la déclaration pour finalement admettre qu’il ne révisait tout simplement pas les déclarations de revenus de l’appelante, alors que monsieur Cholette a indiqué qu’il ne prenait pas connaissance des déclarations de revenus puisque cela ne faisait pas partie de son expertise et qu’il avait à son service suffisamment de comptables pour l’assurer que tout était en règle.
+[74] Il y a lieu de souligner ici que la vérification des déclarations de revenus est un élément essentiel retenu par les tribunaux pour déterminer si le contribuable a fait preuve de négligence ou non. Dans de nombreuses décisions qui ont été plaidées en l’espèce, les tribunaux ont conclu que les contribuables avaient fait preuve de négligence dans les cas où ils n’avaient pas examiné activement la déclaration de revenus avant de la signer et s’étaient contentés de se fier au comptable, n’avaient pas porté l’attention nécessaire à l’examen de la déclaration, comme une personne avisée et prudente l’aurait fait ou n’avaient tout simplement pas lu la déclaration (ref. Nesbitt, College Park Motors, Venne, précités).
+[75] Même si messieurs Tremblay et Cholette ont affirmé, lors de leur témoignage respectif, qu’ils n’étaient pas en mesure d’indiquer que les dividendes devaient être inclus à la ligne 214 de la déclaration, cela n’est pas suffisant en soi pour conclure qu’ils n’auraient pas découvert l’erreur et ne justifie pas le fait de ne pas porter le soin nécessaire à l’examen de la déclaration comme une personne avisée et prudente l’aurait fait.
+[76] Je suis d’accord avec l’intimée que l’erreur était évidente et que, si messieurs Tremblay et Forest avaient vérifié la déclaration, ils auraient certainement détecté l’erreur considérant qu’ils étaient tous deux des CPA et que c’était plutôt simple de s’assurer que les dividendes étaient inclus. Même monsieur Cholette savait que les dividendes étaient imposables, ce qui témoigne de la simplicité de l’erreur et de la nécessité d’inclure les dividendes à titre de revenu de l’appelante.
+[77] À mon avis, l’absence de vérification de la déclaration de revenus de l’appelante ainsi que l’omission de poser des questions au comptable pour s’assurer de l’exactitude des renseignements contenus dans la déclaration démontrent un manque de diligence raisonnable de la part des dirigeants de l’appelante. Considérant les compétences, l’expérience et les connaissances des dirigeants de l’appelante, j’estime qu’ils auraient été en mesure de découvrir l’erreur, s’ils avaient pris la peine de vérifier la déclaration comme une personne prudente et diligente.
+[78] Puisque le système fiscal est basé sur l’autocotisation, les contribuables ont la responsabilité de s’assurer que les renseignements fournis dans leurs déclarations de revenus sont vrais, exacts et complets sous tous les rapports et révèlent la totalité de leurs revenus de toutes provenances. C’est d’ailleurs pour cette raison qu’on exige d’eux la signature d’une attestation au bas de leur déclaration de revenus et du formulaire de déclaration de renseignements des sociétés pour la transmission électronique des déclarations de revenus. Monsieur Cholette a signé ces deux documents pour le compte de l’appelante en tant qu’officier de l’appelante et non pas en tant qu’administrateur de l’appelante.
+[79] Pour tous ces motifs, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 12e jour d’août 2020.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2020 CCI 75
+Nº DU DOSSIER DE LA COUR :
+2017-4468(IT)G
+INTITULÉ DE LA CAUSE :
+GESTIONS CHOLETTE INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Les 12 et 13 septembre 2019
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 12 août 2020
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Dominic C. Belley
+Avocate de l’intimée :
+Me Anne Poirier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante:
+Nom :
+Me Dominic C. Belley
+Cabinet :
+Norton Rose Fulbright Canada S.E.N.C.R.L., s.r.l.
+Montréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

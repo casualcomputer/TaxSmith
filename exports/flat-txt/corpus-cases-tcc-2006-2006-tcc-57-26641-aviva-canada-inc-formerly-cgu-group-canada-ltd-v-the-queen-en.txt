@@ -1,0 +1,209 @@
+Title: Aviva Canada Inc. formerly CGU Group Canada Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26641/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-57-26641-aviva-canada-inc-formerly-cgu-group-canada-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-01-26
+
+# Aviva Canada Inc. formerly CGU Group Canada Ltd. v. The Queen
+
+- Citation: 2006 TCC 57
+- Decision date: 2006-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3649, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aviva Canada Inc. formerly CGU Group Canada Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-26
+Neutral citation
+2006 TCC 57
+File numbers
+2003-1827(GST)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-1827(GST)G
+BETWEEN:
+AVIVA CANADA INC.
+(formerly CGU GROUP CANADA LTD.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 1, 2 and December 1, 2005
+at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Glenn A. Cranker
+Counsel for the Respondent:
+John McLaughlin
+Harry Erlichman
+_____________________________________________________________
+JUDGMENT
+The appeal in respect of an assessment under the Excise Tax Act is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the purchase of trademarks by the appellant is not subject to tax under subsection 165(1) of the Act.
+Signed at Ottawa, Canada, this 26th day of January, 2006.
+"J. Woods"
+Woods J.
+Citation: 2006TCC57
+Date: 20060126
+Docket: 2003-1827(GST)G
+BETWEEN:
+AVIVA CANADA INC.
+(formerly CGU GROUP CANADA LTD.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Aviva Canada Inc. in respect of an assessment under subsection 297(1) of the Excise Tax Act, S.C. 1990, c. 45, as amended (the "ETA"). The issue to be decided is whether the appellant is subject to goods and services tax ("GST") in respect of an arm's length purchase of trademarks that had been acquired by the seller from an affiliated corporation on the same day that the trademarks were sold to the appellant.
+[2] The appellant, a holding corporation, is part of a corporate group that carries on an insurance business. The background to the sale was a dispute between the appellant and another insurance company, Canadian Group Underwriters Insurance Company ("Underwriters"), as to the ownership of two trademarks. In settlement of the dispute, the appellant agreed to purchase Underwriters' interest in the trademarks for a total consideration of $5,000,000.
+[3] Shortly before the sale, Underwriters indicated to the appellant that it wished to transfer its interest in the trademarks to an affiliated company before selling them to the appellant. The appellant did not object to this proposal, and accordingly Underwriters' interest in the trademarks was first transferred to NN Life Insurance Company of Canada("NN Life"). The appellant was later informed that this series of transactions allowed NN Life's accumulated tax losses to be used on the sale.
+[4] On the sale of the trademarks to the appellant, NN Life collected GST in the amount of $350,000, for which the appellant did not claim an input tax credit.
+[5] The appellant seeks a refund of the GST that it paid to NN Life. It submits that the sale is not a "taxable supply" because it was incidental to NN Life's insurance business, which is not a commercial activity, and because it was not an adventure in the nature of trade.
+[6] By way of background, the appellant submitted in the notice of appeal that the trademarks would clearly have been exempt from tax if they had been purchased directly from Underwriters. The theory behind this submission appears to be that the trademarks were used by Underwriters exclusively to make exempt supplies of insurance products. There is no evidentiary basis to support this. To the contrary, the evidence includes a letter from a successor to Underwriters that indicates that the trademarks were also used for other purposes. The appellant did not press this argument at the hearing.
+[7] The only witness at the hearing was Norman McIntyre, a former officer with the appellant, who provided testimony as to the background of the negotiations from the appellant's perspective. In addition to his testimony, there was an agreed statement of facts and a joint book of documents.
+[8] To a large extent, the issue in this appeal turns on the circumstances of the purchase and sale of the trademarks by NN Life. The evidence provides some of these circumstances but it is not a complete picture. For example, although the documents include the agreement by which the appellant acquired the trademarks from NN Life, they do not include an agreement outlining the details of the acquisition by NN Life from Underwriters. Further, no one representing NN Life provided testimony.
+[9] The agreed statement of facts is relatively short and I reproduce it in its entirety.
+The parties to this proceeding admit the following facts:
+1. Aviva Canada Inc. (the "Appellant") is a corporation duly incorporated under the laws of Ontario. At all relevant times the Appellant was deemed to be a financial institution under paragraph 149(1)(b)* of the Excise Tax Act (the "Act").
+2. Pursuant to an agreement, dated May 18, 1999, the Appellant (then named CGU Group Canada Ltd., and before that, named the General Accident Group (Canada) Ltd.) agreed to pay NN Life Insurance Company of Canada ("NN Insurance") the sum of $5 million in consideration for the assignment of the trade marks, "CGU Insurance Company" and "CGU" (the "Trade Marks") (see Tab 1 of Appellant's and Respondent's Book of Documents (the "Book of Documents")).
+3. In addition to the $5 million paid to NN Insurance for the Trade Marks, the Appellant paid Goods and Services Tax ("GST") in the amount of $350,000, as reflected in the cheque, dated May 17, 1999 (Tab 3 of Book of Documents).
+4. The Appellant did not claim input tax credits under subsection 169(1) of the Act with respect to the GST paid to NN Life because the Trade Marks were acquired for use in its exempt activities, i.e., the supply of property and services to insurance companies within the CGU Group at a time when an election under section 150 of the Act was in effect.
+5. The Trade Marks were originally owned and registered by Canadian Group Underwriters Insurance Company ("Underwriters"), now ING Novex Insurance Company of Canada.
+6. As set out in Tabs 4 and 5 of the Book of Documents, the Trade Marks are registered exclusively for use in Canada with the following insurance services:
+"(1) Inland transportation insurance services, surety insurance services, burglary insurance services, accident and sickness insurance services, credit insurance services, fidelity insurance services, legal expense insurance services and liability insurance services.
+(2) Travel accident insurance services, marine insurance services, property insurance services and automobile insurance services."
+7. As reflected in Schedule "A" to the agreement referred to in paragraph 2 above, before the Trade Marks were assigned to [the Appellant], Underwriters first assigned them to its affiliate NN Life Insurance Company of Canada ("NN Life") "in consideration of One Dollar ($1.00) and other good and valuable consideration" on May 18, 1999. On the same day, the Trade Marks were assigned from NN Life to [the Appellant] (Tab 2 of the Book of Documents).
+8. The Appellant was arm's length from Underwriters and NN Life.
+9. When Underwriters assigned the Trade Marks to NN Life, the two companies made a joint election under subsection 85(1) of the Income Tax Act. This series of transactions allowed NN Life to generate a capital gain of $5 million which could be applied against accumulated tax losses from prior years (see correspondence and Revenue Canada Form T2057 reproduced under (Tabs 16 and 17 of the Book of Documents).
+10. On July 20, 2000 the Appellant filed a claim for a rebate under subsection 261 of the Act requesting a refund in the amount of $350,000 for the GST which it had paid to NN Life (Tab 6 of the Book of Documents).
+11. The Minister issued a Notice of (Re)Assessment, dated August 6, 2001, disallowing the general rebate application on the grounds that the supply of the Trade Marks was properly subject to GST (Tab 10 of the Book of Documents).
+12. The Appellant filed a Notice of Objection, dated September 6, 2001 (Tab 11 of the Book of Documents).
+13. The Minister issued a Notice of Decision on February 14, 2003 confirming the Notice of (Re)Assessment (Tab 12 of the Book of Documents).
+The parties hereto agree that this Agreed Statement of Facts does not preclude either party from calling evidence to supplement the facts agreed to herein, it being accepted that such evidence may not contradict the facts agreed.
+* The parties agreed that this is an incorrect statutory reference.
+[10] For the most part, the agreed statement of facts is consistent with the documents that were entered into evidence but I would comment on a few minor inconsistencies.
+[11] First, the agreed statement of facts indicates that Underwriters had ownership of the trademarks. It is not clear from the documents that Underwriters had full ownership of the trademarks but this inconsistency is not relevant for this appeal.
+[12] Second, the agreed statement of facts indicates that NN Life acquired the trademarks on May 18, 1999, which is the same day as the sale to the appellant. This is inconsistent with a T2057 form filed pursuant to section 85 of the Income Tax Act in respect of the transfer of the trademarks from Underwriters to NN Life.[1] The election form indicates that NN Life acquired the trademarks on May 13, 1999. There was no mention of this inconsistency at the hearing and, based on the documents as a whole, I conclude that the date in the election form is in error.[2]
+[13] The agreed statement of facts does not mention the consideration that NN Life paid to Underwriters to acquire the trademarks. In making the assessment the Minister assumed, based on an assignment agreement between Underwriters and NN Life, that the trademarks were acquired by NN Life for one dollar. However, the assignment agreement does not support the Minister's assumption. To the contrary, it states that the consideration paid by NN Life was "One dollar ($1.00) and other good and valuable consideration."
+[14] The consideration paid by NN Life to Underwriters, however, is referred to in the T2057. The election form states that the consideration received by Underwriters consisted of preference shares of NN Life that were redeemable and retractable for, and had a fair market value of, $5,000,000. There is no reason to doubt that NN Life paid this consideration and I accept that it did.
+[15] To complete the factual background, I would comment on the evidence as to how Underwriters and NN Life treated the transaction for income tax and GST purposes. First, the agreed statement of facts indicates that NN Life "generated" a $5,000,000 capital gain on the transaction which was applied against its accumulated tax losses from prior years. Second, the T2057 form states that the trademarks were eligible capital property to Underwriters. And finally, in making the assessment the Minister assumed that NN Life claimed an input tax credit of $350,000 with respect to this transaction. There was no evidence to rebut this assumption.
+Analysis
+[16] The submissions by the parties focused on the general meaning of "taxable supply" and the application of deeming provisions in subsections 141.1(1) and (2) of the ETA. I will consider the meaning of "taxable supply" first.
+[17] The general GST charging provision in subsection 165(1) provides:
+165. (1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+[Emphasis added]
+[18] The meaning of "taxable supply" is key to determining whether a transaction is taxable. In general, as "taxable supply" and related terms are defined,the sale of the trademarks by NN Life to the appellant is taxable if the sale was made in the course of NN Life's business or as an adventure by it in the nature of trade.
+[19] Under subsection 123(1) of the ETA, the relevant terms are defined as follows:
+"taxable supply" means a supply that is made in the course of a commercial activity;
+"commercial activity" of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, [...]
+[Emphasis added]
+"supply" means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+"business" includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment;
+[20] The central issue in this appeal is whether NN Life sold the trademarks in the course of a business or as an adventure in the nature of trade. I will first consider whether it was an adventure in the nature of trade, as this was the respondent's main argument.
+(a) Was the sale an adventure in the nature of trade?
+[21] The phrase "adventure or concern [...] in the nature of trade" in the definition of "commercial activity" appears to be adapted from the definition of "business" in subsection 248(1) of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended. This definition provides:
+"business" includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment;
+[22] The meaning of adventure in the nature of trade has fairly recently been considered in two Supreme Court of Canada decisions. In Continental Bank of Canadav. The Queen, 98 D.T.C. 6501, the Court focused on whether the transaction at issue had an element of speculation.[3]
+[23] In Friesen v. The Queen, [1995] 2 C.T.C. 369, the same Court described the nature of an "adventure or concern in the nature of trade" in the following manner:
+The first requirement for an adventure in the nature of trade is that it involve a "scheme for profit-making". The taxpayer must have a legitimate intention of gaining a profit from the transaction. Other requirements are conveniently summarized in Interpretation Bulletin IT-459 "Adventure or Concern in the Nature of Trade" (September 8, 1980) which references Interpretation Bulletin IT-218 "Profit from the Sale of Real Estate" (May 26, 1975) for a summary of the relevant factors when the property involved is real estate.
+IT-218R, which replaced IT-218 in 1986, lists a number of factors which have been used by the courts to determine whether a transaction involving real estate is an adventure in the nature of trade creating business income or a capital transaction involving the sale of an investment. Particular attention is paid to:
+(i) The taxpayer's intention with respect to the real estate at the time of purchase and the feasibility of that intention and the extent to which it was carried out. An intention to sell the property for a profit will make it more likely to be characterized as an adventure in the nature of trade.
+(ii) The nature of the business, profession, calling or trade of the taxpayer and associates. The more closely a taxpayer's business or occupation is related to real estate transactions, the more likely it is that the income will be considered business income rather than capital gain.
+(iii) The nature of the property and the use made of it by the taxpayer.
+(iv) The extent to which borrowed money was used to finance the transaction and the length of time that the real estate was held by the taxpayer. Transactions involving borrowed money and rapid resale are more likely to be adventures in the nature of trade.
+[24] Although the relevant evidence in this appeal is limited, none of it suggests that the sale of the trademarks had any of the characteristics of a trading transaction. NN Life did not negotiate the sale and likely acted as an accommodation party in order to minimize the income tax payable on the sale. The trademarks were acquired by NN Life on the same day as the sale to the appellant and NN Life gave consideration to Underwriters equivalent in value to what it received from the appellant. In no sense does this describe what McLaughlin J. referred to in Continental Bank as a "speculative trading venture."
+[25] Although the circumstances of the purchase and sale to NN Life appear to be relatively straightforward, I am troubled that no one with first hand knowledge of NN Life's circumstances testified at the hearing. I have concluded, though, that the deficiencies in the evidence should not change the conclusion that this transaction was not a "trade." The burden of proof with respect to this issue should be on the respondent because none of the assumptions made by the Minister suggested that the transaction had any of the incidents of a trading transaction: Loewen v. The Queen, [2004] 3 C.T.C. 6 (F.C.A.), at paragraph 11.
+[26] I would also note that the respondent acknowledged in the agreed statement of facts that the transaction "allowed NN Life to generate a capital gain." It would be inconsistent for the respondent to then argue that the transaction was a speculative trade.
+[27] It remains to be considered whether the phrase "adventure or concern [...] in the nature of trade" should be given a different meaning for GST and income tax purposes. The respondent submits that a contextual interpretation should be given, taking into account the scheme of the GST legislation. It was submitted that the concept of "profit" is not relevant to the GST because it is a transaction-based tax, and that the GST legislation should therefore be interpreted to encompass transactions that do not have the characteristics of a speculative trade.
+[28] The main problem that I have with this submission is that it ignores the words used in the legislation. Although legislation must be given a contextual interpretation, the essential task is to interpret the words that Parliament has used. The key question here is the meaning of the word "trade" and the respondent did not relate its proposed interpretation to any accepted meaning of that term.
+[29] I also note that the respondent's position appears to be contrary to the Canada Revenue Agency's interpretation of the phrase. Counsel for the appellant referred to Policy Statement P-059, "Business vs. Adventure or Concern in the Nature of Trade Relating to Sales of Real Property," dated March 3, 1993. Although directed to real estate, P-059 indicates that it is intended to have a broader application, and in particular, that it is relevant in interpreting the term "commercial activity."
+[30] The respondent's position is also contrary to an obiter comment in Corporation de l'Ecole Polytechnique v. The Queen, [2004] G.S.T.C. 102 (F.C.A.). At paragraph 24, Justices Décary and Létourneau state:
+[...] In the Court's view, the phrase "adventure or concern ... in the nature of the trade" should be given the meaning it has in the definition of a "business" in subsection 248(1) of the Income Tax Act. According to the case law, "the first requirement for an adventure in the nature of trade is that it involves a 'scheme for profit-making'" (Friesen v. R., [1995] 3 S.C.R. 103 (S.C.C.), para. 16, per Major J.).
+[31] Finally, it is not apparent to me that the GST scheme requires that the phrase "adventure or concern in the nature of trade" have a broader meaning than it has for income tax purposes.
+[32] The respondent argues that there is a gap in the legislation if the sale by NN Life is not considered to be a "taxable supply." I note the following fromthe respondent's written submissions:
+[...] if this appeal is allowed, every sale of property acquired by a person solely for purposes of being "flipped", where that person also happens to be engaged in exempt activities, will never be subject to GST, even if the property was never exclusively used or consumed by that person in it's exempt activities. (para. 43)
+[33] I also note the following from the respondent's supplemental submissions:
+[...] if this Court were to hold that these isolated trademark supplies cannot constitute an "adventure or concern in the nature of trade" for ETA purposes based on Income Tax Act considerations, this Court would be effectively amending the ETA to remove "isolated" transactions from the scope of the ETA for purposes of both the taxing provisions and also the ITC provisions (as the term "commercial activity" is central to both). (para. 18)
+[34] The suggestion seems to be that the sale of the trademarks would escape GST altogether if the tax is not imposed on the appellant. This seems to assume that the transaction is not taxable to NN Life. Perhaps this assumption is true but it was not satisfactorily explained.
+[35] Even if there are valid policy concerns with the appellant's position, which there may be even if there is no gap in the legislation, that is not a basis to ignore the words of the statute.
+[36] In my view, the sale of the trademarks has none of the incidents of a trading transaction and therefore is not an adventure or concern in the nature of trade.
+[37] I now turn to whether the sale was in the course of NN Life's business. There are two issues, first whether the trademark transaction itself constituted a business, and second whether the trademark transaction was part of NN Life's other commercial activities.
+(b) Did the sale constitute a "business"?
+[38] The respondent submits that the sale of the trademarks by NN Life constituted a "business" by itself. Counsel argues that the definition of "business" in the ETA is broad enough to include the sale even though it was a single isolated transaction. The respondent notes that the definition is very broad, and includes an "undertaking of any kind."
+[39] I do not agree. The meaning of "business" in the ETA appears to be imported from the Income Tax Act, with some modification. Although the respondent refers to the phrase "undertaking of any kind" in the ETA, the same phrase is used in the definition of "business" in the Income Tax Act and accordingly this is not a basis to distinguish the two statutes.
+[40] In an income tax context, the phrase "carrying on business" is considered to require more activity than a single isolated transaction. In Timminsv. The Queen, [1999] 2 C.T.C. 133 (F.C.A.), Noël J.A. stated:
+The expressions "carry on business," "carrying on business" or "carried on business,"11 while undefined must, when regard is had to the ordinary meaning of the words refer to the ongoing conduct or carriage of a business.12 It would seem to follow that where one "carries on" a business in the ordinary sense or by pursuing one or more of the included activities under ss. 248(1) over time, one is "carrying on business" under the Act.13
+11 These are used interchangeably throughout the Act. See for instance para. 2(3)(b), ss. 13(9), ss. 24(2), para. 27(1)(a), ss. 28(2), ss. 28(4.1), ss. 28(5), ss. 29(1), para. 111(5)(a), ss. 125(7), ss. 143(1), para. 149(1)(j), s. 253, etc.
+12 "Carry on" a. to advance (a proceeding); b. to keep up; c. to work at, prosecute; d. to move on; e. to behave or 'go on'. The Shorter Oxford English Dictionary, Oxford University Press, Third Edition, 1990 reprint.
+13 Unless the activity in question does not lend itself to being "carried on". For instance, in Minister of National Revenue v. Tara Exploration & Development Co., (1970), 70 D.T.C. 6370 (Can. Ex. Ct.), Jackett P. held that a non-resident corporation could not be considered to have "carried on" business in Canada for purposes of ss. 2(2) of the Act merely by having had "an adventure in the nature of a trade" in Canada. He wrote, at 6376:
+With considerable hesitation, I have concluded that the better view is that the words "carried on" are not words that can aptly be used with the word "adventure". To carry on something involves continuity of time or operations such as is involved in the ordinary sense of a "business". An adventure is an isolated happening. One has an adventure as opposed to carrying on a business.
+[41] I see no reason to depart from this reasoning for purposes of the ETA. The relevant phrase in the definition of "commercial activity" is "a business carried on." I also note that this appears to have been the policy of the Canada Revenue Agency as set out in P-059, above.
+[42] I conclude, therefore, that the sale of the trademarks by NN Life to the appellant does not, by itself, constitute a business.
+(c) Was the sale part of NN Life's business?
+[43] Even if the purchase and sale of the trademarks was not by itself a business, the question remains whether the trademark transaction was connected to another business activity that was a "commercial activity."
+[44] By virtue of its definition, a "commercial activity" excludes a part of a business that involves the making of exempt supplies. This includes many products typically sold by insurance companies. The question then becomes whether the sale of the trademarks was in the course of NN Life's activities that do not involve exempt supplies. The evidence before me is insufficient to support a conclusion that it was.
+[45] In terms of the evidence as to NN Life's other activities, the book of documents includes the company's letters patent and a consolidated income statement that was filed with OSFI. Because the letters patent only describe what NN Life is authorized to do, and because the income statement was consolidated, neither of these documents establishes what NN Life's business activities actually consisted of, or whether it carried on business at all.
+[46] In terms of the evidence regarding NN Life's losses, there was no evidence as to the nature of the losses or how they arose.
+[47] In light of the above, there is no basis on which I can conclude that the trademark transaction was in the course of other commercial activities conducted by NN Life.
+[48] Even if NN Life carried on a commercial activity and its losses arose from that activity, I would be inclined to the view that the trademark transaction did not arise in the course of that activity. NN Life's tax position appears to be the reason that it purchased and sold the trademarks, but in my view this is not a sufficient nexus to make the trademark transaction part of NN Life's other business activities.
+[49] In reaching this conclusion, I have taken into account judicial decisions that appear to give a fairly wide meaning to the phrase "in the course of a commercial activity": MidlandBretheren v. The Queen, [2000] G.S.T.C. 109 (F.C.A.) and BJ Services Company Canadav. The Queen [2002] G.S.T.C. 124 (T.C.C.). These decisions both involved a claim for input tax credits which turned on whether expenses had been incurred in the course of a commercial activity. In each case, the court concluded that the expenses qualified for the input tax credit on the basis that the expenses provided some benefit to the taxpayer's commercial activities.
+[50] The facts in this appeal are not analogous to these cases. The trademark transaction provided no benefit to NN Life's other businesses, at least as far as the evidence reveals.
+(d) Application of section 141.1
+[51] The respondent also submits that the trademark transaction is deemed to be a taxable supply by virtue of paragraphs 141.1(1)(a) and (2)(a) of the ETA, which read:
+141.1 (1) Disposition of personal property -- For the purposes of this Part,
+(a) where a person makes a supply (other than an exempt supply) of personal property that
+(i) was last acquired or imported by the person, or was brought into a participating province by the person after it was last acquired or imported by the person, for consumption or use in the course of commercial activities of the person or was consumed or used by the person in the course of a commercial activity of the person after it was last acquired or imported by the person, [...]
+the person shall be deemed to have made the supply in the course of the commercial activity; [...]
+(2) Disposition of inventory, etc. -- For the purposes of this Part,
+(a) where a person makes a particular supply by way of sale of personal property or a service that was acquired, imported, brought into a participating province, manufactured or produced by the person exclusively for the purpose of making a supply of that property or service by way of sale in the course of a business of the person or in the course of an adventure or concern of the person in the nature of trade, [...]
+the person shall be deemed to have made the particular supply in the course of commercial activities of the person; [...]
+[52] The deeming rule in paragraph 141.1(1)(a) applies generally to a sale of property where the property is consumed or used in the course of commercial activities. The provision appears to extend the scope of the GST to property that is used in a business and not sold in the ordinary course of the business. Examples would include production machinery or office equipment.
+[53] The purpose of paragraph 141.1(2)(a) is not as clear. In general, it applies to a sale of property where the property is acquired for resale in the course of a business or as an adventure in the nature of trade. The technical notes provided by the Department of Finance illustrate the application of the provision by describing a situation where an employer that has leased automobiles to employees later purchases the automobiles for resale to the employees. This seems to describe a purchase and resale that is not in the ordinary course of business.
+[54] Although the scope of paragraph 141.1(2)(a) may be uncertain, it is clear that the provision does not apply unless the transaction has some connection to a business or an adventure in the nature of trade. The same is also true for paragraph 141.1(1)(a). There is no such connection in this case.
+[55] The respondent submits that the word "business" in paragraph 141.1(2)(a) should be given a broader meaning than it has in the definition of "commercial activity" because the deeming rule does not use the words "carried on" in reference to business. It is suggested that isolated transactions are therefore brought within the scope of the word "business."
+[56] I do not agree. The deeming rule in paragraph 141.1(2)(a) parallels the general definition of "commercial activity" by referring both to a "business" and an "adventure in the nature of trade." The latter reference brings isolated trading transactions within the scope of the section. If Parliament had intended to broaden the scope of isolated transactions that were taxable under the deeming rule, it would have done so by modifying the phrase "adventure or concern of that person in the nature of trade." The exclusion of the words "carried on" in reference to business should not be interpreted to radically change the scope of taxable transactions in this provision.
+[57] I find, therefore, that neither paragraph 141.1(1)(a) nor paragraph 141.1(2)(a) applies in this case.
+Disposition
+[58] For the foregoing reasons, I conclude that the appellant was not the recipient of a taxable supply when it purchased the trademarks from NN Life.
+[59] The appeal is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the purchase of the trademarks by the appellant is not subject to tax under subsection 165(1) of the ETA.
+Signed at Ottawa, Canada, this 26th day of January, 2006.
+"J. Woods"
+Woods J.
+CITATION: 2006TCC57
+COURT FILE NO.: 2003-1827(GST)G
+STYLE OF CAUSE: Aviva Canada Inc. (formerly CGU Group Canada Ltd.) and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 1, 2 and December 1, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: January 26, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Glenn A. Cranker
+Counsel for the Respondent:
+John McLaughlin
+Harry Erlichman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Glenn A. Cranker
+Firm: Stikeman Elliott LLP
+Montreal, Québec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit AR, Tab 17.
+[2] According to an agreement at Exhibit AR, Tab 2, the trademarks were assigned from Underwriters to NN Life on May 18, 1999.
+[3] See paragraph 16 of the reasons of McLaughlin J. (as she then was).

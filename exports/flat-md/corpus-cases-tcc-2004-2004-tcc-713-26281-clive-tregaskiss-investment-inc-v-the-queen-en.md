@@ -1,0 +1,116 @@
+---
+title: "Clive Tregaskiss Investment Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26281/index.do"
+last_modified: "2004-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 713"
+citation2: ""
+neutral_citation: "2004 TCC 713"
+decision_date: "2004-10-26"
+language: "en"
+item_id: "26281"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3656
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:53:32.793000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5a38f862fae8db5f07c1c25d7efc77176e7c805e2f7a5b4da0d53df91a6c154"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clive Tregaskiss Investment Inc. v. The Queen
+
+- Citation: 2004 TCC 713
+- Decision date: 2004-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3656, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clive Tregaskiss Investment Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-26
+Neutral citation
+2004 TCC 713
+File numbers
+2001-746(GST)G
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2004TCC713
+Date: 20041026
+Docket: 2001-746(GST)G
+BETWEEN:
+CLIVE TREGASKISS INVESTMENT INC.,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Counsel for the Appellant: Gino Morga, Q.C.
+Counsel for the Respondent: Michael Ezri
+____________________________________________________________________
+REASONS FOR ORDER
+(Delivered orally from the Bench on
+August 23, 2004, at Windsor, Ontario)
+Sarchuk J.
+[1] I am inclined to deny the motion, counsel. There are several facts that lead me to that conclusion; first of all there is a very obvious breach of the relevant Rules of the Tax Court of Canada (General Procedure)[1] that stands by itself. Second, notice was given to counsel regarding his failure to comply with the foregoing Rules at a point in time when the matter might have been remedied, but for the reasons advanced it was not. It strikes me when counsel is away on a holiday that surely there should be some arrangement made to protect the client by having somebody check the mail and attend to what may have to be done, or at the very least, communicate with counsel.
+[2] Third, and this is the item that concerns me the most. As a trial lawyer for many, many years I am aware that a facet of preparing for trial, an aspect of it is that at a particular point in time you do a final review -- with your witness -- go over the evidence, analyze it and get ready for the final step, the trial. Counsel for the Respondent has indicated that although he had the two appraisal reports, I gather, that because there was no response from your end, inadvertent though it may have been, a problem was created with regard to the preparation of the one witness that he would be calling, not only in-chief but also for the purpose of giving rebuttal evidence as needed.
+[3] If both reports had been filed pursuant to Rule 145, then counsel for the Respondent would have been briefing the witness in respect of both. In these circumstances, it is understandable that a dilemma was created and led to the procedure, the motion, that we are dealing with at this particular point in time. The ability to be able to deal with the evidence by preparing your own witnesses and for the purpose of cross-examination is very important. Since the appraisal documents were not filed on time and, while there is no direct evidence to establish that one or the other would not be tendered by counsel for the Appellant, it appears to have created an assumption that might be the case and now here we are.
+[4] In my view, to allow the reports to be filed at the present time, in these circumstances, would prejudice the Respondent's ability to cross-examine properly and for that reason I am denying the motion.
+Signed at Ottawa, Canada, this 26 day of October, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2004TCC713
+COURT FILE NO.:
+2001-746(GST)G
+STYLE OF CAUSE:
+Clive Tregaskiss Investment Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+August 23, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF ORDER:
+August 26, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Gino Morga, Q.C.
+Counsel for the Respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gino Morga, Q.C.
+Firm:
+Wilson, Walker
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]
+Rules 145(2) and (3).

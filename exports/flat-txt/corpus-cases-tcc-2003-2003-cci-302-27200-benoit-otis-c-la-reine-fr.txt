@@ -1,0 +1,153 @@
+Title: Benoit-Otis c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27200/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-302-27200-benoit-otis-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-04-30
+
+# Benoit-Otis c. La Reine
+
+- Citation: 2003 CCI 302
+- Decision date: 2003-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1003, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benoit-Otis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-30
+Référence neutre
+2003 CCI 302
+Numéro de dossier
+2001-3908(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-3908(IT)I
+ENTRE :
+JEAN-CHRISTOPHE BENOIT-OTIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 28 janvier 2003 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelant :
+Mario Otis
+Avocat de l'intimée :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est accordé, sans frais, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelant a droit au crédit d'impôt pour déficience mentale grave et prolongée, le tout selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d'avril 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+Référence : 2003CCI302
+Date : 20030430
+Dossier : 2001-3908(IT)I
+ENTRE :
+JEAN-CHRISTOPHE BENOIT-OTIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx, C.C.I.
+[1] Il s'agit d'un appel par voie de la procédure informelle concernant l'année d'imposition 2000.
+[2] La question en litige est de savoir si l'appelant est en droit de réclamer un crédit d'impôt pour déficience mentale grave et prolongée, conformément aux articles 118.3 et 118.4 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[3] Les faits sur lesquels le ministre du Revenu national (le « Ministre » ) s'appuie pour établir sa cotisation sont décrits au paragraphe 6 de la Réponse modifiée à l'avis d'appel comme suit :
+a) lors de l'année d'imposition en litige, l'appelant habitait seul un appartement;
+b) lors de l'année d'imposition en litige, l'appelant occupait un emploi de classement dans un bureau;
+c) en produisant sa déclaration de revenus, pour l'année d'imposition 2000, la demande de l'appelant, à l'égard du crédit d'impôt pour personnes handicapées, était appuyée d'un formulaire T2201 F (00) « Certificat pour le crédit d'impôt pour personnes handicapées » qui avait été rempli par un médecin autorisé, le docteur Laurent Mottron, en date du 18 janvier 2001, qui diagnostiquait chez son patient le syndrome d'Asperger;
+d) le 16 mai 2001, le ministre demanda par écrit au docteur Laurent Mottron de compléter un questionnaire à l'égard de l'appelant;
+e) après réception du questionnaire complété et signé par le docteur Laurent Mottron, le ministre détermina que l'appelant ne se trouvait pas limité de façon marquée dans ses activités courantes de la vie quotidienne, en raison d'une déficience mentale ou physique, grave et prolongée, à l'égard de l'année d'imposition 2000;
+f) à l'étape des oppositions, le ministre a transmis au groupe du crédit d'impôt pour personnes handicapées à Ottawa, le formulaire T2201 F (00) « Certificat pour le crédit d'impôt pour personnes handicapées » , ainsi que le questionnaire rempli par le docteur Laurent Mottron;
+g) suite à la décision du comité du crédit pour personnes handicapées, le ministre a de nouveau déterminé que l'appelant ne se trouvait pas limité de façon marquée dans ses activités courantes de la vie quotidienne, en raison d'une déficience mentale ou physique, grave et prolongée, à l'égard de l'année d'imposition 2000.
+[4] L'Avis d'appel mentionne que l'appelant est atteint du syndrome d'Asperger et que son handicap a des aspects cognitifs et perceptuels qui limitent en tout temps les activités de la vie quotidienne. L'avis d'appel fait état que ce diagnostic a été établi en décembre 1991 par le Dr Michael Shevell, neurologue à l'Hôpital de Montréal pour Enfants.
+[5] L'appelant n'était pas présent lors de l'audience, son père M. Mario Otis le représentait. M. Otis est professeur de philosophie au niveau collégial. Il a été le premier témoin.
+[6] En ce qui concerne l'énoncé de l'alinéa 6a) de la Réponse, le représentant de l'appelant a indiqué qu'il serait d'accord avec l'énoncé si on ajoutait les mots : « sous la supervision des parents » . D'après la pièce A-1 contenant divers documents produits en liasse, l'appelant a habité chez ses parents jusqu'au 1er mai 2000, date à laquelle il a commencé à vivre en appartement.
+[7] En ce qui concerne l'énoncé 6b) de la Réponse, le témoin explique qu'il est d'accord avec l'énoncé, sauf qu'il faudrait y ajouter : « emploi inférieur à sa capacité intellectuelle et où il doit être étroitement supervisé et aidé » .
+[8] Le témoin a admis l'alinéa 6c), et en ce qui concerne l'alinéa 6d) il croit l'énoncé exact à sa connaissance.
+[9] En ce qui concerne l'alinéa 6e), il explique qu'il faudrait ajouter que c'est sans tenir compte du contenu du questionnaire rempli par le Dr Laurent Mottron que le Ministre a pris sa décision.
+[10] En ce qui concerne l'énoncé de l'alinéa 6g), l'appelant fait état que cette décision du Comité du crédit d'impôt pour personnes handicapées n'a pas été communiquée à l'appelant. L'appelant ni ses parents n'ont jamais vu ce document.
+[11] Le témoin se réfère à un document de la pièce A-1, soit une demande d'accès à l'égalité faite auprès du gouvernement du Québec au motif d'avoir de façon permanente des limitations dans l'accomplissement d'activités de la vie quotidienne, en date du l6 septembre 1998. Une telle demande si acceptée favorise l'emploi dans le cadre du programme de l'accès à l'égalité. L'appelant indique dans le questionnaire relatif à cette demande qu'il a de la difficulté à exécuter des activités normales et que la nature de la déficience significative et persistante dans son cas est au niveau de la perception. Comme commentaires, il écrit : Je souffre du Syndrome d'Asperger (problèmes sérieux de communication sociale et émotionnelle). Diagnostic daté de décembre 1991.
+[12] Dans la même pièce A-1, il se trouve une autre demande du même genre. Celle-ci en date du 25 août 2002 et faite auprès de la Commission de l'immigration et du statut du réfugié.
+[13] La mère de l'appelant, madame Michelle Benoit, a témoigné. Son occupation est d'être mère au foyer.
+[14] Elle a expliqué que le syndrome d'Asperger est une maladie d'origine neurologique qui s'inscrit dans la catégorie de l'autisme. Les atteintes sont appelées troubles envahissants du comportement. La maladie se caractérise par un disfonctionnement du système nerveux qui altère la perception.
+[15] La personne atteinte du syndrome d'Asperger ne peut pas ou a beaucoup de difficulté à décoder les expressions faciales, verbales ou gestuelles des autres. Elle ne sait pas comment se comporter par rapport aux autres, ce qui amène beaucoup d'angoisse et beaucoup d'anxiété. Cette personne se demande toujours si ce qu'elle fait est correct. Cela amène non seulement de l'angoisse et de l'anxiété, mais une très grande solitude. Comme ils ne comprennent pas les émotions des autres, ces personnes se retirent et elles ont énormément de difficulté à avoir une vie sociale. Ce sont des individus solitaires, que l'on qualifie « d'égocentriques » .
+[16] Ce sont des personnes qui aiment la routine, le classement et le rangement ce qui signifie un environnement organisé. Ces personnes ont horreur des situations inattendues. Dès que son fils doit faire face à une situation nouvelle, elle doit lui décomposer l'activité et lui donner, étape par étape ce qu'il faut faire. Il faut même vérifier si la première étape a été faite et ensuite donner la deuxième. Si on donne toutes les étapes en même temps, il y a risque que Jean-Christophe soit mêlé et qu'il oublie tout. Il y a risque de confusion et d'anxiété.
+[17] Ce sont des gens que l'on peut appeler « monomaniaques » , c'est-à-dire qui ont un sujet de prédilection, un sujet qui les passionne, un sujet qu'ils vont fouiller à fond et pour lequel ils vont devenir des vrais experts. Ils peuvent entretenir les autres pendant des heures de leur sujet sans se soucier si les autres sont intéressés ou non.
+[18] Ce sont des gens maladroits qu'on qualifie volontiers de patauds. Ils sont maladroits non seulement socialement, mais aussi physiquement.
+[19] De plus, ce sont des personnes naïves et crédules. Comme elles ne peuvent pas décoder les expressions des autres, elles croient volontiers ce qu'on leur dit. Il faut expliquer à Jean-Christophe le comportement des autres, car il prend pour acquis que tout le monde est bon et il ne voit pas venir les coups.
+[20] Ce sont des personnes qui ont un timbre de voix très recto-tono, très monotone.
+[21] En général, les gens atteints du syndrome d'Asperger sont des gens d'intelligence moyenne, sinon d'intelligence supérieure, donc ils peuvent faire des études avec un encadrement.
+[22] Selon sa mère, l'appelant a, depuis qu'il est tout petit, les principales caractéristiques qu'elle vient d'énumérer et de façon plus marquée, la difficulté sociale. Jean-Christophe a une vie sociale qui se limite à la famille. Il a un ami qui est aussi atteint du syndrome d'Asperger. Cet autre ami, il l'a rencontré à des activités de la Société d'autisme. C'est via les parents que les deux jeunes ont été mis en contact et qu'ils continuent maintenant de se fréquenter.
+[23] Par contre, Jean-Christophe a une mémoire photographique très précise, mais la mémoire globale qui consiste à avoir un portrait global des événements est inexistante ou très faible.
+[24] À son travail, il y a une grande part qui est répétitive et routinière. Il est un adjoint à un commissaire de la Commission de l'immigration et du statut de réfugié. Son travail consiste à taper les décisions prises par les commissaires dans des formules préparées. Il utilise à cette fin un ordinateur. Quand le travail est routinier et habituel, il n'y a pas de problème, il se débrouille très bien, mais dès qu'il arrive une situation nouvelle, sa patronne doit lui expliquer de quelle façon il faut procéder.
+[25] Jean-Christophe a trouvé son travail de la façon suivante : il était inscrit au Cégep de Rosemont dans le cadre d'un programme études-travail. C'est de cette façon qu'il a eu divers stages de travail. Ça toujours été des stages dans le cadre d'un programme d'accès à l'égalité et ça toujours été des stages dans la fonction publique ou fédérale ou provinciale. L'emploi que Jean-Christophe a maintenant, c'est un emploi qu'il a eu grâce au dernier stage du programme études-travail du Cégep Rosemont. Il est toujours là, en contact étroit avec la coordonnatrice.
+[26] La mère de l'appelant relate qu'il a fallu l'aider à se trouver un logement et pour organiser sa vie à l'intérieur de l'appartement. Elle lui prépare souvent des plats. Il faut l'appeler plusieurs fois pour savoir comment ça va. Jean-Christophe a tendance à faire de l'insomnie et il doit être encouragé. Il vient tous les dimanches à la maison. À ce moment là, cela lui permet d'exprimer les choses qui l'inquiètent parce que Jean-Christophe dit souvent : « Ha là, j'ai mes idées noires qui reviennent » et de les exprimer lui fait du bien.
+[27] Elle explique qu'il faut être bien conscient que pour Jean-Christophe, avoir une vie autonome et se prendre en main, c'est un effort de chaque instant, c'est un effort constant qui lui demande beaucoup physiquement et moralement. Il faut l'aider à surnager, à se ressourcer, à retrouver l'élan de continuer.
+[28] Jean-Christophe a besoin de l'encouragement de ses parents, car le grand risque c'est le découragement et tout ce qui s'en suit : la perte de son travail, la perte de son autonomie et éventuellement une prise en charge par la société, parce que là, il n'y aurait plus d'autre issu.
+[29] En contre-interrogatoire, madame Benoit a confirmé que Jean-Christophe fait du Tae Kwon Doe. Il s'agit d'une activité sportive. Jean-Christophe ne s'est pas fait d'ami là, il fait son sport et il revient à la maison. Appelé à décrire la vie quotidienne de Jean-Christophe, elle explique que ce dernier est quelqu'un de très routinier. Il s'est fait un rituel, il se lève, va à son bouleau, revient de son bouleau. Quand il n'a pas le Tae Kwon Doe, il se fait son souper et il se repose parce qu'il est très fatigué. Jean-Christophe, dans sa vie quotidienne, se débrouille grâce à l'entraînement et à l'encadrement qu'on lui a donné. Les gens atteints du syndrome d'Asperger, une fois qu'on leur a donné une routine, ils sont capables de la répéter d'eux-mêmes. C'est quand arrivent des éléments nouveaux que c'est perturbant pour lui. Il a son permis de conduire. Il rêve d'avoir son auto mais pour l'instant, il prend le Métro pour aller au bureau. Il fait son marché lui-même et il prépare son goûter. Si les parents partent en vacances pour un certain temps, on demande à quelqu'un de rester en contact avec Jean-Christophe, de lui parler, de lui téléphoner, de lui rendre visite.
+[30] Le Dr Laurent Mottron, médecin chercheur, a témoigné à la demande de la partie intimée. Ses recherches sont dans le domaine des neuro-sciences de la cognition. Il a expliqué que l'autisme se caractérise par un profil de compétences et de déficits particuliers, c'est-à-dire que les autistes peuvent traiter certaines informations clairement mieux que nous et d'autres beaucoup moins bien que nous, et ce profil de performance caractérise l'autisme et les troubles envahissants du développement en général. Le mot « envahissant » signifie que plusieurs aires cognitives sont atteintes. La plus importante atteinte et celle qui est définitoire pour le trouble, c'est l'atteinte de la socialisation. Une autre atteinte est celle de la communication, qui dans le cas du groupe Asperger, est une atteinte de l'utilisation sociale du langage qui coexiste avec une grammaire, une orthographe, une lecture parfois supérieure à la normale. La troisième atteinte est la variété des intérêts. Ce sont des personnes qui ont des intérêts beaucoup plus répétitifs que la moyenne.
+[31] La difficulté des relations sociales : ce sont des personnes qui sont très vulnérables à tout ce qui est jugement et attitude négative de la part des autres. Ils ne peuvent pas graduer les marques émotionnelles sur les visages des autres. Dans la vie courante, ils ne peuvent pas traiter l'inattendu. Ils sont moins sensibles que nous à l'ennui. Ils n'innovent pas dans leur emploi du temps. Dans le monde du travail, il faut que les choses changent très peu. L'employeur doit devenir lui aussi un représentant de la famille ou du groupe d'aide. L'intelligence de l'appelant est un peu supérieure à la moyenne, mais en terme de jugement social, si on quantifie chez lui sa capacité de faire face à une situation inattendue et sociale, il performe probablement comme un enfant de six ou sept ans. Il souffre d'une hypersensibilité au bruit. Il y a aussi la ritualisation alimentaire qui est très importante.
+[32] Un des rôles principaux des parents ou des professionnels c'est de prévenir et d'aider dans les crises qui sont immanquables, quel que soit le niveau d'adaptation de la personne, et ces crises sont très stéréotypées. Elles surviennent en général à l'occasion d'incidents au travail, si on parle de quelqu'un qui est déjà adapté, ou d'une mauvaise rencontre dans la rue, et à ce moment, il y a une escalade d'anxiété. Tout ce qu'il y avait comme insertion sociale, appartement, nourriture, sommeil et travail, va sauter en quelques semaines et la personne va développer un trouble anxieux et un état dépressif avec des conduites suicidaires. Ce qui signifie donc que la supervision qui est exercée par les parents doit être considérée comme permanente et pour toute la vie de la personne. Il n'y a pas de guérison de ces troubles. Il y a une adaptation qui peut superficiellement être assez bonne sous réserve d'être soutenue, mais qui, ne tient jamais toute seule. En ce qui concerne la possibilité de percevoir, réfléchir et se souvenir, il le peut, mais il le fait de façon qualitativement anormale. En ce qui concerne le besoin de supervision, il a besoin d'une supervision discontinue, mais à vie. Il y a la nécessité d'un encadrement à distance, mais encadrement tout de même.
+Arguments, analyse et conclusion
+[33] Le représentant de l'appelant s'est appuyé sur la décision Radage c. Canada, [1996] A.C.I. no 730 (Q.L.) et Johnston c. Canada, [1998] A.C.F. no 169 (Q.L.).
+[34] L'avocate de l'intimée s'est appuyée sur les décisions de cette Cour dans Campbell c. Canada, [1996], A.C.I. no 513 (Q.L.), un cas de syndrome de fatigue chronique, Case c. Canada, [1996] A.C.I. no 216 (Q.L.), un cas d'hyperactivité, Congo c. Canada, [1996] A.C.I. no 671 (Q.L.), un autre cas d'hyperactivité. Elle s'est également référée à la décision du juge Bowman de cette Cour dans Radage c. Canada, (précitée), et plus particulièrement au passage suivant :
+...
+e) Enfin, il faut considérer-et c'est le principe le plus difficile à formuler-les critères à employer pour en arriver à déterminer si la déficience mentale est d'une telle gravité que la personne a droit au crédit, c'est-à-dire que la capacité de cette personne de percevoir, de penser et de se souvenir est limitée de façon marquée au sens de la Loi. Il n'est pas nécessaire que la personne soit complètement automate ou dans un état anoétique, mais la déficience doit être d'une gravité telle qu'elle imprègne et affecte la vie de la personne au point où cette dernière est incapable d'accomplir les activités mentales permettant de fonctionner d'une manière autonome et avec une compétence raisonnable dans la vie quotidienne.
+[35] Elle s'est référée à la décision de la Cour d'appel fédérale dans Johnston c. Canada, (précitée) et plus particulièrement aux paragraphes 10 et 18 :
+10 L'objectif des articles 118.3 et 118.4 ne vise pas à indemniser la personne atteinte d'une déficience mentale ou physique grave et prolongée, mais plutôt à l'aider à défrayer les coûts supplémentaires liés au fait de devoir vivre et travailler malgré une telle déficience. Comme le juge Bowman le dit dans l'arrêt Radage v. R., [1996] 3 C.T.C. 2510], à la p. 2528 :
+L'intention du législateur semble être d'accorder un modeste allégement fiscal à ceux et celles qui entrent dans une catégorie relativement restreinte de personnes limitées de façon marquée par une déficience mentale ou physique. L'intention n'est pas d'accorder le crédit à quiconque a une déficience ni de dresser un obstacle impossible à surmonter pour presque toutes les personnes handicapées. On reconnaît manifestement que certaines personnes ayant une déficience ont besoin d'un tel allégement fiscal, et l'intention est que cette disposition profite à de telles personnes.
+...
+18 On n'a pas défini ce qui constitue un temps excessif pour accomplir les activités courantes de la vie quotidienne. À mon avis, l'expression « temps excessif » renvoie à un temps beaucoup plus long que celui que doivent normalement consacrer à ces activités des personnes en santé. Il implique une différence marquée d'avec ce que l'on considère normal.
+[36] En se fondant sur ces deux décisions, l'avocate fait valoir que l'appelant est capable de fonctionner d'une manière autonome et sans différence marquée d'avec ce que l'on considère normal.
+[37] Avec égard, mon appréciation des faits diffère de celle de l'avocate. Je me réfère d'abord à une décision récente du juge Dussault de cette Cour dans Richard c. Canada, [2003] A.C.I. no 28 (Q.L) où il a rejeté l'appel d'un contribuable dont le fils aurait été atteint du syndrome d'Asperger. Toutefois, ce cas me semble être différent de celui sous étude en ce que les habiletés de communication de l'enfant paraissaient somme toute adéquates. Je cite des extraits du rapport paraissant au paragraphe 9 des motifs :
+Nous sommes en présence d'un jeune garçon d'intelligence normale et pour lequel les fonctions simultanées d'intégration et de raisonnement nous paraissent bien préservées, tant dans le registre verbal que non verbal. L'enfant présente des compétences particulières sur le plan du langage expressif : excellent niveau de vocabulaire, formulations claires et bien articulées. ... Tout ceci n'est pas sans évoquer un syndrome d'Asperger, bien que cet enfant nous ait étonné par l'adéquacité de son contact relationnel en relation dyadique, étant capable de réciprocité et d'empathie. Un bilan plus approfondi de cette symptomatologie pourrait donc être effectué par le Dr Laurent Motron, psychiatre à l'Hôpital Rivière-des-Prairies.
+[38] Ce qui a été mentionné par le Dr Mottron comme par les parents, c'est que l'appelant aura besoin d'un encadrement toute sa vie. Un encadrement qui n'a pas à être immédiat comme la vie en cure fermée ou en logement supervisé, mais qui devra toujours être présent. Un encadrement qui soutient l'appelant de façon active et auquel l'appelant peut avoir en tout temps accès dans les situations de détresse.
+[39] J'avais dans la décision Dallaire c. La Reine, [1996] A.C.I. no 1544 (Q.L.) accordé l'appel sur la base de la nécessité de l'encadrement :
+16 Il y a des degrés dans la maladie mentale et une personne souffrant d'une telle maladie peut souvent, à l'aide de médicaments, pallier aux effets de la maladie mentale et mener une vie près de la normale. Mais il faut quand même être prudent dans l'analyse de ces cas. Une personne peut souffrir d'une déficience mentale qui ne soit si grave qu'elle exige la cure fermée mais quand même suffisamment grave qu'elle exige essentiellement le soutien d'autres personnes ou d'organismes pour permettre à la personne de vivre une vie près de la normale.
+[40] Les parents comme le Dr Mottron ont aussi fait état que pour l'appelant, percevoir et se souvenir requièrent un effort constant et exigeant tant sur le plan physique que moral.
+[41] Je conclus, dans la présente affaire, en me fondant sur les propos de la mère et du médecin de l'appelant concernant le syndrome d'Asperger tel qu'il affecte l'appelant, que les effets de l'atteinte neurologique sont tels que la capacité de l'appelant d'accomplir l'activité courante de la vie quotidienne qui est la perception, la réflexion et la mémoire est limitée de façon marquée. La preuve a en effet révélé que l'appelant consacre à cette activité un temps et un effort beaucoup plus grands que ce qui est normal. Il s'agit donc d'un temps excessif au sens de la décision Johnston ci-dessus. De plus, cette activité ne peut correctement s'exercer que s'il y a un encadrement. On ne peut donc parler d'autonomie entière.
+[42] L'appel est en conséquence accordé.
+Signé à Ottawa, Canada ce 30e jour d'avril 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI302
+No DU DOSSIER DE LA COUR :
+2001-3908(IT)I
+INTITULÉ DE LA CAUSE :
+Jean-Christophe Benoit-Otis
+et La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 28 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 30 avril 2003
+COMPARUTIONS :
+Pour l'appelant :
+Mario Otis (représentant)
+Pour l'intimée :
+Me Julie David
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

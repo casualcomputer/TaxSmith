@@ -1,0 +1,137 @@
+Title: Belzile c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/145575/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-157-145575-belzile-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2016-05-06
+
+# Belzile c. M.R.N.
+
+- Citation: 2016 CCI 157
+- Decision date: 2016-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2908, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Belzile c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-06
+Référence neutre
+2016 CCI 157
+Numéro de dossier
+2015-2303(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2015-2303(EI)
+ENTRE :
+SYLVIE BELZILE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 3 mai 2016 et décision rendue de vive voix le 6 mai 2016 à Montréal (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Angelo Caputo
+Avocate de l’intimé :
+Me Christina Ham
+JUGEMENT
+Conformément aux motifs prononcés de vive voix à l’audience (dont une copie est jointe aux présentes), l’appel interjeté en vertu de la Loi sur l’assurance-emploi est accueilli et la décision du ministre du Revenu national est modifiée afin d’indiquer que Mme Belzile occupait un emploi assurable en 2014.
+Signé à Ottawa, Canada, ce 21e jour de juin 2016.
+« Patrick Boyle »
+Le juge Boyle
+Dossier : 2015-2303(EI)
+ENTRE :
+SYLVIE BELZILE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT PRONONCÉS DE VIVE VOIX
+Je requiers que soit déposée la transcription révisée ci-jointe des motifs du jugement prononcé de vive voix à l’audience, le 6 mai 2016, à Montréal (Québec). J’ai révisé la transcription (certifiée par le sténographe judiciaire) sur le plan du style et de la clarté, et pour y apporter des corrections mineures seulement. Je n’y ai fait aucune modification quant au fond.
+Signé à Ottawa, Canada, ce 21e jour de juin 2016.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2016 CCI 157
+Date : 20160621
+Dossier : 2015-2303(EI)
+ENTRE :
+SYLVIE BELZILE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La seule question à trancher dans l’appel de Mme Belzile entendu cette semaine à Montréal est de savoir si, après avoir entendu les témoignages à l’audience, le ministre aurait décidé qu’il était raisonnable de conclure qu’aux fins de l’assurance-emploi, Mme Belzile et son entreprise familiale n’auraient pas conclu entre elles un contrat de travail à peu près semblable en 2014 si elles n’avaient pas eu de lien de dépendance.
+[2] 91973164 Québec Inc. exploite une entreprise sous le nom de Pavage Casabella (« Casabella »). L’entreprise a été créée il y a 28 ans et elle a été constituée en société il y a environ 10 ans. La société appartient à parts égales d’un tiers entre l’appelante, son conjoint de fait Antonio Castronovo et leur fille Alexandra Castronovo. Chacune de ces trois personnes a travaillé pour l’entreprise. Pavage Casabella est bel et bien une entreprise familiale. Jusqu’à l’année dernière, le fils défunt des propriétaires travaillait à Casabella.
+[3] De plus, Casabella emploie cinq ou six autres travailleurs sans lien de dépendance. Casabella est une entreprise d’aménagement paysager. L’entreprise aménage le pavé, l’asphalte et la pelouse. Elle effectue également les fouilles et l’ouvrage de fondation ou les travaux d’assise préparatoires. Elle s’est développée pour offrir d’autres services d’aménagement paysager semblables. L’entreprise est saisonnière; elle est exploitée du mois de mai au mois d’octobre ou de novembre, selon les conditions météorologiques.
+[4] L’appelante et son conjoint de fait ont témoigné pour le compte de l’appelante. L’appelante est présidente de Québec Inc. et son conjoint de fait en est vice-président.
+[5] L’intimé n’a fait appel à aucun témoin et n’a présenté aucun élément de preuve par le biais des témoins de l’appelante, à l’exception des contre-interrogatoires. Ainsi, je ne connais pas les éléments de preuve sur lesquelles repose la décision du ministre du Revenu national (le « ministre »), à l’exception de ce qui est plaidé dans la réponse qui n’a pas été rédigée par un avocat.
+[6] Il n’est pas contesté que Mme Belzile était une employée de l’entreprise, qu’elle y travaillait réellement et que le montant qu’elle a reçu correspondait à la valeur des services offerts à l’entreprise.
+[7] Son poste a été créé en 2014. Il a été créé dans le but de faire croître l’entreprise et d’alléger les responsabilités de M. Castronovo pour donner le temps à ce dernier de se consacrer aux relations avec les clients et les clients potentiels, dans le but de remporter de nouveaux contrats et de s’assurer que les travaux prévus aux contrats sont effectués.
+[8] Mme Belzile a été embauchée à titre d’employée de l’entreprise et a commencé à travailler le 28 avril 2014. Les fonctions et les responsabilités de Mme Belzile ont été décrites de façon claire et cohérente. La distribution des dépliants de promotion, principalement dans les nouveaux lotissements au nord de l’autoroute 40 à Montréal et des sollicitations téléphoniques aux résidents de ces quartiers représentaient environ deux tiers de ses responsabilités.
+[9] Habituellement, la distribution des dépliants s’effectuait au cours de l’après‑midi et les sollicitations téléphoniques avaient lieu en fin d’après-midi et en début de soirée. Jusque-là, M. Castronovo et Alexandra Castronovo étaient responsables de la distribution des dépliants. Depuis 2014, la tâche est la responsabilité de Mme Belzile et d’Alexandra Castronovo. Alexandra Castronovo a d’autres responsabilités, comme la comptabilité, la tenue des livres, les ressources humaines, la paie et des fonctions liées aux sommes à verser et à recevoir. La distribution des dépliants et les sollicitations téléphoniques ont permis de remporter des contrats pour la saison en cours et, plus tard pendant la saison, de générer du travail pour la saison prochaine.
+[10] L’entreprise n’effectuait pas de sollicitations téléphoniques avant l’embauche de Mme Belzile. Alexandra Castronovo participait également aux activités de sollicitation téléphonique. Ces efforts ont été couronnés de succès. L’entreprise effectuait plus de travaux liés aux fouilles et à l’asphalte et elle a obtenu plus de contrats dans les secteurs visés. Ces efforts se poursuivent.
+[11] Les travaux sur les lieux représentaient le dernier tiers de la responsabilité de Mme Belzile. Pour ce qui est de la pose de pavés d’ampleur, elle était responsable de terminer la pose en épandant le sable polymère et en s’assurant qu’il se répand dans le sol. Elle était informée des travaux presque terminés. Elle était également responsable du nettoyage de la quantité importante de poudre de mortier qui s’est accumulée sur les plantes, dans les cours, sur les terrasses, les meubles de terrasse, etc. à la suite de la découpe du pavé. Avant l’embauche de Mme Belzile, ces travaux de finition étaient la responsabilité des autres ouvriers.
+[12] Parmi ses autres responsabilités sur les lieux, elle était chargée de ramasser et de livrer le matériel ou l’équipement supplémentaire, brisé ou manquant, de ramasser et de livrer la version finale des dessins et des plans, et de percevoir les paiements. Avant l’embauche de Mme Belzile, ces tâches étaient aussi effectuées par les autres employés de l’entreprise, soit M. Castronovo, le gérant du chantier ou l’un des ouvriers.
+[13] Il était convenu que l’entreprise paierait Mme Belzile pour une semaine de travail de 40 heures à 17 $ de l’heure. Selon la preuve, il s’agit environ du salaire de tous les autres employés de l’entreprise. Mme Belzile a consigné ses heures de travail et ses tâches au moins une fois par semaine. Elle a également consigné son itinéraire pour refaire le trajet une ou deux semaines plus tard pour livrer un autre dépliant.
+[14] Elle était payée un salaire normal pour une semaine de 40 heures de travail. L’appelante travaillait habituellement 40 heures par semaine. Elle travaillait toujours plus de 35 heures et elle dépassait parfois 40 heures de travail par semaine. Elle recevait un chèque chaque semaine et était toujours payée en temps et en heure.
+[15] Je ne connais pas précisément comment les autres employés étaient payés. Puisque la paie de Mme Belzile était semblable à celle des autres employés, il serait raisonnable de conclure qu’ils étaient aussi payés pour un nombre fixe d’heures de travail par semaine, avec un certain degré de flexibilité en fonction, entre autres, de la charge de travail et des conditions météorologiques.
+[16] Mme Belzile a été embauchée le 28 avril 2014. Elle a été mise à pied le 17 octobre 2014 et devait retourner au travail en avril ou en mai 2015, ce qu’elle a fait. Elle travaille encore pour l’entreprise à ce poste.
+[17] Mme Belzile n’avait pas travaillé pour l’entreprise avant cela. Elle était propriétaire et gérante d’un salon de bronzage au cours des huit ou neuf années précédentes. Elle a décidé de ne plus travailler au salon de bronzage pour travailler dans leur autre entreprise familiale. Elle a fait ce choix pour alléger la charge de travail de son mari, qui travaillait trop à cette époque et était rarement à la maison. Le salon de bronzage a fermé ses portes le 30 mai, soit à la fin du bail. L’hypothèse du ministre est que l’appelante a vendu le salon de bronzage et qu’elle a cessé de le gérer le 30 mai. Cette hypothèse ne diffère pas nécessairement du témoignage de l’appelante.
+[18] Au cours du premier mois à son nouvel emploi au sein de l’entreprise, Mme Belzile avait réduit les heures d’ouverture de son salon de bronzage qui n’était pas ouvert le samedi, le dimanche ni le lundi. Les activités des salons de bronzage ralentissent habituellement en mai. Il lui est arrivé de fermer le salon certains après-midi au cours de ce mois. Pour réduire le montant de temps qu’elle passait au salon de bronzage et respecter son engagement à l’égard de l’entreprise, Mme Belzile a dû concilier beaucoup, tout en étant flexible et très occupée. Les hypothèses du ministre selon lesquelles l’appelante a assumé ses responsabilités pendant ce mois sont confirmées par son témoignage. Le ministre a tenu pour acquis qu’elle a travaillé pour l’entreprise l’après-midi et le soir au cours du mois de mai.
+[19] Le ministre a également supposé que l’entreprise lui a permis de modifier son horaire au cours des quatre premières semaines suivant son embauche, car elle était la conjointe de M. Castronovo. Selon la preuve, elle effectuait ses tâches principales l’après-midi et le soir. De toute évidence, elle n’est pas mariée à l’entreprise. Son conjoint est le vice-président de l’entreprise et elle en est la présidente. Rien ne prouve que cela a déterminé la manière dont elle était traitée par son employeur au cours de son premier mois de travail au sein de l’entreprise. Dans une relation sans lien de dépendance, il serait tout à fait raisonnable de s’attendre à un certain degré de souplesse et de transition au début du processus d’intégration d’un nouvel employé.
+[20] En 2014, Mme Belzile a pris des vacances d’une semaine sans solde. Une semaine de vacances en été semble raisonnable, même s’il s’agit d’un emploi saisonnier, dans une situation sans lien de dépendance et aucune preuve n’indique que cette option n’était pas offerte aux autres employés de l’entreprise.
+[21] Mme Belzile n’a reçu aucune indemnité de congé annuel en 2014. Elle a accepté de reporter son indemnité à 2015. Les autres employés ont reçu leur indemnité de congé annuel régulièrement en 2014; ainsi, s’ils ont aussi pris des vacances d’une semaine, ils n’ont pas non plus été rémunérés. Le report d’une indemnité de congé annuel n’est pas une pratique ordinaire dans une situation sans lien de dépendance; cependant, cet exemple ne suffit pas pour conclure que Mme Belzile et l’entreprise, s’ils n’avaient pas eu de lien de dépendance, n’auraient pas signé de contrat de travail semblable, dans l’ensemble, à celui qui a été signé.
+[22] Mme Belzile a été mise à pied par l’entreprise le 17 octobre. Les autres employés ont été mis à pied le 10 octobre. Rien n’indiquait que cela avait été fait aux fins de l’assurance-emploi ou à d’autres fins non commerciales. Cette semaine supplémentaire s’explique par le fait que l’appelante était responsable de mettre la touche finale aux chantiers et de nettoyer les lieux à la suite des travaux de pose du pavé effectués par les employés. Elle a également participé à la fermeture du terrain d’entreposage de location des machines, de l’équipement et du matériel à la fin de la saison. Il n’est pas injustifié qu’un employé sans lien de dépendance ayant les mêmes responsabilités qu’elle doive travailler quelques jours de plus que les travailleurs qui ont terminé leur travail saisonnier.
+[23] Mme Belzile a principalement utilisé son propre véhicule pour réaliser ses tâches pour l’entreprise. Elle utilisait un camion de l’entreprise qui se trouvait au terrain de location de l’entreprise seulement lorsqu’il fallait livrer des machines, de l’équipement ou du matériel. L’entreprise lui a remboursé les coûts liés à l’utilisation de son propre véhicule. Cela semble correspondre à une approche sans lien de dépendance raisonnable. Il n’a pas été avancé que d’autres employés n’ont pas aussi été remboursés. Il n’a pas été avancé que l’appelante a tiré un avantage personnel ou a abusé de son accès au camion.
+[24] La norme de contrôle applicable dans de ce genre d’appel visé par l’alinéa 5(3)b) de la Loi sur l’assurance-emploi consiste à déterminer si la décision du ministre de maintenir sa décision est bien fondée et raisonnable vu les éléments de preuve présentés au ministre et à la Cour. Voir par exemple les décisions de la Cour d’appel fédérale dans les arrêts Légaré (1999)[1] et Pérusse (2000)[2], de même que la décision de 2005 de la Cour dans l’arrêt Birkland[3].
+[25] Compte tenu de ce qui précède, j’estime que si le ministre avait eu connaissance de tous les éléments de preuve présentés à la Cour, il n’aurait pas pu raisonnablement omettre de conclure que l’entreprise et un employé sans lien de dépendance auraient signé un contrat de travail essentiellement semblable à celui conclu entre l’entreprise et Mme Belzile.
+[26] Puisque la décision du ministre n’était pas raisonnable compte tenu de l’ensemble de la preuve, j’ordonnerai que la décision du ministre soit modifiée pour tenir compte du fait que Mme Belzile occupait un emploi assurable en 2014.
+Signé à Ottawa, Canada, ce 21e jour de juin 2016.
+« Patrick Boyle »
+Le juge Boyle
+RÉFÉRENCE :
+2016 CCI 157
+No DU DOSSIER DE LA COUR :
+2015-2303(EI)
+INTITULÉ :
+SYLVIE BELZILE c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 6 mai 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 21 juin 2016
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Angelo Caputo
+Avocate de l’intimé :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] [1999] A.C.F. no 878
+[2] [2000] A.C.F. no 310
+[3] 2005 CCI 291

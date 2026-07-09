@@ -1,0 +1,118 @@
+---
+title: "Konda c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29720/index.do"
+last_modified: "2007-09-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 648"
+citation2: ""
+neutral_citation: "2007 CCI 648"
+decision_date: "2007-09-18"
+language: "fr"
+item_id: "29720"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6376
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:16:51.860000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "61df8ac0f81cb5074127373f12b1361bf7bdf7848aeeff7788b2e28ffe9e8bcc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Konda c. La Reine
+
+- Citation: 2007 CCI 648
+- Decision date: 2007-09-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6376, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Konda c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-18
+Référence neutre
+2007 CCI 648
+Numéro de dossier
+1999-780(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 1999‑780(IT)I
+COUR CANADIENNE DE L’IMPÔT
+LOI DE L’IMPÔT SUR LE REVENU
+ENTRE :
+BALESH W. KONDA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+* * * * *
+MOTIFS DU JUGEMENT RENDUS ORALEMENT
+PAR M. LE JUGE PARIS,
+dans la salle d’audience du Service administratif des tribunaux judiciaires,
+200, rue Kent, Ottawa (Ontario),
+le mardi 18 septembre 2007, à 14 heures.
+* * * * *
+COMPARUTIONS :
+Balesh W. Konda : l’appelant lui-même
+Me Marie-Andrée Legault pour l’intimée
+Me Simon Petit
+Également présente :
+Mme Line Lanthier greffière audiencière
+A.S.A.P. Reporting Services Inc. 8 2007
+200, rue Elgin, bureau 1004 130, rue King Ouest, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+(613) 564-2727 (416) 861-8720
+Ottawa (Ontario)
+‑‑‑ L’audience a commencé le mardi 18 septembre 2007, à 14 h.
+MOTIFS DE JUGEMENT RENDUS ORALEMENT PAR M. LE JUGE PARIS :
+Il s’agit de l’appel d’une nouvelle cotisation concernant l’année d’imposition 1988 de l’appelant, par laquelle le ministre du Revenu national a refusé la demande de crédit d’impôt à l’investissement que l’appelant avait faite à l’égard du placement qu’il avait effectué dans A.L.H. Systems.
+A.L.H. est une société de personnes qui avait entrepris de s’occuper de recherche scientifique et de développement expérimental.
+Le ministre a refusé d’accorder le crédit d’impôt à l’investissement compte tenu du fait que, au cours de l’année 1988, A.L.H. n’avait pas exercé d’activités de recherche scientifique et de développement expérimental au sens de l’alinéa 37(1)a) de la Loi de l’impôt sur le revenu et de l’article 2900 du Règlement de l’impôt sur le revenu.
+Il a donc été conclu que l’appelant, en sa qualité d’associé d’A.L.H., n’avait pas effectué de « dépenses admissibles » selon la définition figurant au paragraphe 127(9) de la Loi et qu’aucun crédit d’impôt à l’investissement ne pouvait être demandé.
+Un certain nombre de questions sont énoncées dans la réponse à l’avis d’appel, mais au début de la présente audience, j’ai demandé aux parties, pour plus de commodité, de présenter des preuves et des arguments sur deux questions et d’attendre que les deux premières questions soient réglées pour présenter des preuves et des arguments au sujet des autres questions, s’il était encore nécessaire de le faire.
+Par conséquent, les deux questions à trancher en ce moment sont, en premier lieu, de savoir si l’appelant a démontré que, en 1988, A.L.H. exerçait de fait des activités de recherche scientifique et de développement expérimental et, en second lieu, si l’appelant était un associé déterminé d’A.L.H. selon la définition de cette expression contenue au paragraphe 248(1) de la Loi.
+Au cours de l’argumentation, l’appelant a reconnu être un associé déterminé d’A.L.H., parce qu’il ne prenait pas une part active dans les activités de l’entreprise de la société de personnes, de façon régulière, continue et importante.
+Je suis moi aussi convaincu que la preuve montre que l’appelant était un associé déterminé d’A.L.H.
+L’appelant est devenu un associé d’A.L.H. à l’automne 1988, après avoir assisté à une présentation, à Ottawa.
+L’appelant croyait comprendre que la société de personnes devait exercer des activités de recherche et de développement menant au développement de logiciels devant être utilisés dans l’industrie financière et ayant également des applications dans d’autres domaines. Le projet était désigné sous le nom d’« INCOM ».
+Les activités de la société de personnes devaient être exercées à Montréal, mais l’appelant a déclaré qu’il n’allait pas à Montréal.
+L’appelant a reçu et lu certains rapports provisoires concernant les activités de recherche et a assisté à trois ou quatre réunions, à Ottawa, en vue de discuter du programme et de donner son avis au sujet de la question de savoir si le travail de recherche prenait la bonne orientation. L’appelant a également reçu certaines disquettes contenant des exercices informatiques de base que chaque personne effectuant un placement dans la société de personnes devait effectuer, mais il a déclaré ne pas avoir effectué lui‑même les exercices.
+L’appelant a affirmé qu’à la suite d’une réunion qui a eu lieu au début de l’année 1989, le projet a semblé faire face à certaines difficultés et qu’il n’avait pas réussi à obtenir des renseignements additionnels d’A.L.H.
+Les activités exercées par l’appelant ne peuvent pas être considérées comme ayant été continues, régulières ou importantes, en ce qui concerne les activités d’A.L.H. L’appelant était un investisseur passif et il s’en remettait à d’autres pour exercer toutes les activités de la société de personnes. Sa contribution au projet était limitée à assister à quelques réunions pour examiner l’état d’avancement des recherches de la société de personnes et à y faire connaître son avis à ce sujet.
+En sa qualité d’associé déterminé d’A.L.H., l’appelant n’a pas droit au crédit d’impôt à l’investissement prévu au paragraphe 127(8) de la Loi. Cette conclusion à elle seule suffit pour statuer sur l’appel, mais j’examinerai également la question de savoir si, en 1988, l’appelant a démontré qu’A.L.H. exerçait des activités de recherche scientifique et de développement expérimental.
+Le paragraphe 2900(1) du Règlement définit le sens de l’expression « recherches scientifiques et développement expérimental ». Cette disposition est rédigée en partie comme suit :
+Aux fins de la présente partie et des alinéas 37(7)b) et 37.1(5)e) de la Loi « recherches scientifiques et développement expérimental » désigne une investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est‑à‑dire, la recherche pure, à savoir le travail entrepris pour l’avancement de la science sans aucune application pratique en vue, [...] ou la mise au point, à savoir l’utilisation des résultats de la recherche pure ou appliquée dans le but de créer de nouveaux matériaux, dispositifs, produits ou procédés ou encore d’améliorer ceux qui existent [...]
+Selon l’expert scientifique de l’intimée, M. Claude Papion, aucune preuve n’a été présentée par les administrateurs d’A.L.H. pour démontrer que, en 1988, du travail de recherche et de développement était de fait accompli par A.L.H. ou pour le compte d’A.L.H.
+La documentation qui a été présentée était composée d’un certain nombre d’ébauches de projets, chacune différente l’une de l’autre, et d’une série d’études, de plans et de documents de travail qui n’indiquaient pas que du travail de recherche était effectué.
+Peu importe qu’il y ait eu un lien entre les diverses ébauches de projets que M. Papion a examinées, il reste que les administrateurs d’A.L.H. ne lui ont jamais fourni de documents indiquant que du travail de recherche ou de développement était effectué. Aucun des rapports provisoires que l’appelant avait censément reçus n’a été remis à M. Papion, et malheureusement, aucun rapport n’a été produit en preuve à l’audience.
+Je remarque également que, selon une lettre que M. Vohoang (pour le compte d’A.L.H.) a envoyée à Revenu Canada au mois de janvier 1992 (pièce R‑10), le travail effectué par A.L.H. à l’égard d’INCOM en 1988 était composé de deux ébauches de projets, d’un résumé de système et de l’analyse de certains questionnaires auxquels avaient répondu des courtiers et des associés. Cela figure à la page 3 de la lettre.
+Encore une fois, il n’a pas été démontré que ce travail était admissible à titre de recherche et de développement expérimental selon la définition figurant à l’article 2900 du Règlement. En passant, je ferai remarquer qu’il est presque inconcevable que le travail restreint qui, selon M. Vohoang, était effectué par A.L.H. en 1988 dans le cadre du projet INCOM aurait pu entraîner des dépenses de plus de 3,17 millions de dollars comme il a été allégué.
+L’appelant n’a présenté aucune preuve indiquant qu’A.L.H. exerçait des activités de recherche scientifique et de développement expérimental. En l’espèce, c’est lui qui a la charge de démontrer que le fondement sur lequel repose la nouvelle cotisation est erroné et, en l’absence d’une telle preuve, je dois conclure à l’exactitude des hypothèses que le ministre a émises en établissant la nouvelle cotisation.
+Par conséquent, sur cette base également, l’appel ne peut pas être accueilli. Il est clair à mon avis que l’appelant était de bonne foi en effectuant un placement dans A.L.H. et qu’il a fait ce qu’il estimait nécessaire pour obtenir les avantages fiscaux dont il pourrait, selon les promoteurs de la société de personnes, se prévaloir. Il me semble que l’appelant a été induit en erreur sur ce point, mais le fait qu’il a été induit en erreur ne peut pas influer sur l’issue de l’appel.
+Étant donné les conclusions susmentionnées, il n’est pas nécessaire d’entendre la preuve ou les arguments concernant les points subsidiaires soulevés par l’intimée.
+Compte tenu de la preuve qui a été présentée dans son ensemble, l’appel est rejeté.
+L’audience a pris fin à 14 h 10.

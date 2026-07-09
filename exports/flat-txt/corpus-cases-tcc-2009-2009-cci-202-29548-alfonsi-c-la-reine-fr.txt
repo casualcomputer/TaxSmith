@@ -1,0 +1,67 @@
+Title: Alfonsi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29548/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-202-29548-alfonsi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-01-13
+
+# Alfonsi c. La Reine
+
+- Citation: 2009 CCI 202
+- Decision date: 2009-01-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6366, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alfonsi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-13
+Référence neutre
+2009 CCI 202
+Numéro de dossier
+2008-2070(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[traduction française officielle]
+Dossier de la Cour : 2008-2070(GST)I
+Référence : 2009 CCI 202
+COUR CANADIENNE DE L’IMPÔT
+LOI SUR LA TAXE D’ACCISE
+ENTRE :
+ANGELA ALFONSI,
+appelante,
+- et -
+SA MAJESTÉ LA REINE,
+intimée.
+* * * * *
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience par le juge B. Paris
+au Service administratif des tribunaux judiciaires,
+Centre judiciaire fédéral, 180, rue Queen ouest,
+Toronto (Ontario), le mardi 13 janvier 2009.)
+* * * * *
+COMPARUTIONS
+Pour l’appelante : L’appelante elle‑même
+Avocat de l’intimée : Me Thang Trieu
+Le greffier audiencier : D.W. Burtnick
+A.S.A.P. Reporting Services Inc. © (2009)
+Pièce 1105, 200, rue Elgin Pièce 1800, 130, rue King ouest
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+613‑564-2727 416‑861-8720
+Les présents motifs du jugement sont rendus dans l’affaire Alfonsi c. La Reine, 2008-2070(GST)I.
+L’appelante a contesté une cotisation de taxe sur les produits et services (la « TPS ») établie à son égard relativement au loyer que lui avait payé Creative Building Maintenance Inc. (« Creative ») entre janvier et mai 2006 pour la location de locaux commerciaux situés au 2205, rue Dunwin, à Mississauga. Quatre-vingt-dix pour cent des actions de Creative appartenaient à une société dont l’époux de l’appelante était l’unique propriétaire.
+L’appelante n’a pas facturé de TPS à Creative pour le loyer payé par celle‑ci, et ce, conformément aux conseils juridiques qu’elle avait reçus d’un cabinet d’avocats de Toronto. Le bail préparé par ce cabinet stipulait que le loyer dû par Creative n’incluait pas la TPS et que l’appelante avait accepté de ne pas facturer la TPS à Creative.
+En l’espèce, l’appelante a soutenu qu’il serait injuste et contraire à l’objet de la partie IX de la Loi sur la taxe d’accise de lui imposer le paiement de la TPS qu’elle n’avait pas perçue pour le loyer payé par Creative, parce que cette société‑là a fait faillite et que l’appelante ne peut plus lui faire payer la TPS. Selon l’appelante, si Creative n’avait pas fait faillite, la société aurait pu lui payer la TPS et demander un crédit de taxe sur les intrants (le « CTI ») d’un montant équivalent.
+L’appelante a aussi affirmé qu’elle a agi raisonnablement en se fiant aux conseils juridiques voulant qu’elle n’était pas tenue de percevoir la TPS sur le loyer payé par Creative.
+À la lumière de la preuve présentée, il est clair que l’appelante a fait à Creative une fourniture taxable d’un immeuble par bail et qu’elle était ainsi tenue de percevoir et de verser la TPS à l’égard de cette fourniture. Il s’agit là d’une obligation légale; l’appelante ne pouvait donc pas s’y soustraire en acceptant, dans un contrat, de ne pas percevoir la TPS auprès de Creative.
+L’appelante a soutenu que son appel devrait être accueilli pour des raisons d’équité. Malheureusement, la Cour n’a pas compétence en équité, et lorsque le libellé des dispositions de la législation ayant trait à la TPS est clair, la Cour n’a pas le choix d’appliquer ces dispositions. L’avocat de l’intimée a raison de dire que l’impossibilité pour Creative d’obtenir un CTI n’a rien à voir avec l’obligation qu’avait l’appelante de percevoir et de verser la TPS en cause. Creative et l’appelante sont des personnes distinctes, et leurs droits et obligations respectifs ne peuvent pas être réunis comme le voudrait l’appelante.
+L’avocat de l’intimée a aussi raison de dire que l’appelante ne peut pas se défendre de la cotisation en invoquant les conseils juridiques auxquels elle s’était fiée. L’appelante avait l’obligation légale de percevoir et de verser la TPS pour le loyer payé par Creative, et sa conviction mal fondée voulant qu’elle n’était pas tenue de le faire ne la dégage pas de ses obligations.
+Bien que je comprenne la situation de l’appelante, cette dernière n’a pas démontré que la cotisation est mal fondée en droit. Je dois donc rejeter l’appel.

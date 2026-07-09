@@ -1,0 +1,194 @@
+Title: Cumbo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27190/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-89-27190-cumbo-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-02-15
+
+# Cumbo v. The Queen
+
+- Citation: 2006 TCC 89
+- Decision date: 2006-02-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 993, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cumbo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-15
+Neutral citation
+2006 TCC 89
+File numbers
+2004-3164(IT)I
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3164(IT)I
+BETWEEN:
+JOSEPH CUMBO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 12 and 13, 2006, at Toronto, Ontario
+Before: The Honourable Justice Michael J. Bonner
+Appearances:
+Agent for the Appellant:
+Dalton Green
+Counsel for the Respondent:
+Stacey Sloan
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of income tax for the 2000 and 2001 taxation years are dismissed.
+Signed at Toronto, Ontario, this 15th day of February 2006.
+Michael J. Bonner
+Bonner, J.
+Citation: 2006TCC89
+Date: 20060215
+Docket: 2004-3164(IT)I
+BETWEEN:
+JOSEPH CUMBO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, J.
+[1] This is an appeal from assessments of income tax for the 2000 and 2001 taxation years. During those years, the Appellant was employed as an accounts manager/sales representative paid in part by commission. His employer from January to July of 2000 was AT & T Canada. His employer from July 2000 to the end of the 2001 was Sprint Canada Inc. At issue is the deductibility of expenses of earning income from employment by the two employers.
+[2] The statutory provisions in play are:
+(a) paragraph 8(1)(f) and in particular subparagraph 8(1)(f)(i). The central issue under this provision is whether the Appellant was required, under the contract of employment to pay his own expenses;
+(b) paragraph 8(1)(h) and in particular subparagraph 8(1)(h)(i). The central issue under this provision is whether the Appellant was required to pay travel expenses (other than motor vehicle) incurred by him in the performance of the duties of the employment;
+(c) paragraph 8(1)(h.1). The main issue under this provision is whether the Appellant was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of employment;
+(d) paragraph 8(1)(i) and in particular subparagraph (ii). The main issues under this provision are whether any amount was paid by the Appellant as salary to the Appellant's spouse and whether the payment by the Appellant of an expense of this type was required by the Appellant's contract of employment;
+(e) subsection 8(10) and in particular whether the T2200 prescribed forms produced by the Appellant were signed by the taxpayer's employer as required by the subsection. The issue is whether those forms, which purported to be signed by the Appellant's employers, were signed by persons authorized to act on behalf of the employers.
+(f) subsection 8(13) and in particular subparagraph (a)(i). The issue here is whether "work space" which was part of the self-contained domestic establishment in which the Appellant resided was the place where the Appellant principally performed the duties of his employment.
+[3] The bulk of the deductions in issue were not claimed by the Appellant in his income tax returns for 2000 and 2001. Rather, most were claimed for the first time in T1 Adjustment Requests filed on February 3, 2003. The explanation given for the 2000 and 2001 adjustment requests was that (a) the Appellant was recently made aware of home office deductions; and (b) "work kilometres" were revised to include distance driven from home as opposed to office.
+[4] The 2000 adjustment request (Exhibit A-3) claims employment expenses consisting of:
+- motor vehicle expenses $6,828.69
+- work space in home $1,487.75 and
+- entertainment, lodging, parking
+and gifts/cellular $2,196.95
+and a GST rebate of $583.42.
+[5] The 2001 adjustment request (Exhibit A-15) claims employment expenses consisting of:
+- motor vehicle expenses $7,231.46
+- work space in home $1,801.00 and
+- entertainment, lodging, parking,
+supplies and gifts, dry cleaning
+and assistant $11,939.05.
+The last item includes $10,000.00 said to have been paid as salary to the Appellant's spouse.
+[6] The Minister of National Revenue (the "Minister") reassessed tax for both years on December 15, 2003. The details of the assessing adjustments are as follows:
+2000 TAX YEAR
+Claimed
+Requested
+Allowed
+Automobile
+2,192,93
+6,828.69
+2,192.93
+Food, beverages and entertainment (50%)
+755.00
+755.00
+0.00
+Lodging
+269.16
+269.16
+0.00
+Parking
+287.25
+287.25
+61.75
+Other, gifts/cellular
+885.54
+885.54
+214.01
+Work-space-in-the-home
+0.00
+1,487.75
+0.00
+Total employment expenses
+4,389.88
+10,513.39
+2,468.69
+2001 TAX YEAR
+Claimed
+Requested
+Allowed
+Automobile
+7,231.46
+3,735.18
+Food, beverages and entertainment (50%)
+1,593.40
+0.00
+Lodging
+484.78
+0.00
+Parking
+704.05
+244.55
+Supplies
+679.32
+0.00
+Other: Cantel/gifts/assistant
+11,939.05
+500.45
+Work-space-in-the-home
+1,801.00
+0.00
+Total employment expenses
+9,135.78
+24,433.06
+4,480.18
+[7] In the Notice of Appeal the Appellant asserted that he was entitled to deduct all amounts claimed in the adjustment requests.
+[8] The Appellant testified at the hearing. He described the manner in which he performed his duties for both employers. He produced a large number of receipts and vouchers. As well he produced a copy of a letter dated March 18, 2003 signed by Thomas J. Hall as District Sales Manager of Sprint. It read in part:
+Joseph was provided with a monthly car allowance of $426.21 and was paid for mileage driven at a rate of $0.11 per kilometre. Joseph was required to pay customer related expenditures and business related expenditures along with car expenses. The amount that was included in box 14 of his T4 was $2631.05
+In execution of his duties as an Account Manager, Joseph was required to work from his home the majority of his working hours. As an outside sales employee, his home office provided a more efficient base for his sales efforts.
+[9] In relation to AT & T the Appellant produced a letter dated June 16, 2003 signed by Scott Kennedy as Product Manager. It read in part:
+Joseph was provided with a flat monthly Automobile allowance in the amount of $250. Joseph was required to pay customer related expenditures and business related expenditures along with car expenses. The amount that was included in box 14 of his T4 was $1,500.
+In execution of his duties as a Named Account Manager, Joseph was required to work from his home the majority of his working hours. As an outside sales employee, his home office provided a more efficient base for his sales efforts.
+[10] Both letters had been prepared by the Appellant's accountant for signature by the Appellant's former supervisors. The letters are, of course, hearsay. Neither of the supervisors was called as a witness and in the circumstances I am not inclined to give any weight to the statements made in the letters.
+[11] If the amounts claimed by the Appellant are deductible at all they are deductible under one of the following provisions of the Income Tax Act (the "Act"):
+paragraph 8(1)(f)
+paragraph 8(1)(h)
+paragraph 8(1)(h.1)
+subparagraphs 8(1)(i)(ii) and (iii)
+[12] Subsection 8(10) of the Act requires that claims under the provisions listed above be supported by a certificate signed by the taxpayer's employer. Subsection 8(10) reads:
+An amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer's employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer's return of income for the year.
+The prescribed form relevant in this case is the T2200 Declaration of Conditions of Employment.
+[13] The Sprint T2200 (Exhibit A-18) was signed on March 18, 2003 by Thomas J. Hall as District Manager. The form had been prepared for Mr. Hall's signature by the Appellant's accountant.
+[14] Evidence was given at the hearing by Kathy Stein, now Vice-president, Human Resources of Sprint Canada. Her area of responsibility includes employee compensation and benefits, payroll and management of the reimbursement of employees' expenses. I accept the evidence of Ms. Stein. She was a reliable and well-informed witness. Where her evidence conflicts with that given by the Appellant (and it often did) I prefer the evidence of Ms. Stein.
+[15] Ms. Stein testified that at Sprint Canadathe T2200 forms for commission employees and those in receipt of cell phone allowances are automatically generated by the payroll department in March of each year. Ms. Stein stated that Mr. Hall was not authorized to sign the Appellant's T2200. In fact, she added, he was not district sales manager in March of 2003 when he purported to sign the T2200 in that capacity. At the relevant time it was the comptroller who was authorized to sign on behalf of Sprint.
+[16] Ms. Stein identified areas in which the information given on the Appellant's Sprint T2200 relating to the Appellant's terms of employment was wrong. For example, Item 5 of the form indicated that the Appellant did not receive a repayment of the expenses which he paid to earn employment income. Ms. Stein indicated that the Appellant, in fact, did. At item 1, in answer to the question whether the employee's contract required the employee to pay his or her own expenses while carrying out the duties of employment, Ms. Stein indicated that, contrary to what was said on the form, the Appellant was entitled to reimbursement and was reimbursed for his expenses.
+[17] I therefore find that the Appellant's Sprint T2200 furnished misleading information, was signed by an unauthorized person and does not satisfy the condition precedent to deductibility laid down in subsection 8(10) of the Act. The reliance by the Appellant on a document which he obviously knew was misleading casts a pall of doubt over all his evidence.
+[18] There was no evidence dealing directly with the question whether Scott Kennedy who signed the T2200 in respect of the Appellant's AT & T employment was authorized to sign on behalf of the employer. It seems unlikely that he was so authorized. He was not a person employed in a role such as personnel manager or comptroller which would make him familiar with the matters covered by a T2200. I note that Mr. Kennedy was so unfamiliar with the subject matter covered by the document that the Appellant's accountant found it necessary to complete the document before bringing it to him for signature.
+[19] In light of the unreliability of the Appellant's evidence and of what happened with regard to the Sprint T2200, I am not prepared to accept as authentic the T2200 form purporting to be signed by a person authorized by AT & T.
+[20] Because the Appellant has failed to provide the forms necessary to permit him to rely on paragraphs 8(1)(f), (h), (h.1) and on subparagraphs 8(1)(i)(ii) and (iii), the appeal will be dismissed.
+Signed at Toronto, Ontario, this 15th day of February 2006.
+Michael J. Bonner
+Bonner, J.
+CITATION: 2006TCC89
+COURT FILE NO.: 2004-3164(IT)I
+STYLE OF CAUSE: Joseph Cumbo and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 12 and 13, 2006
+REASONS FOR JUDGEMENT BY: The Honourable Justice Michael J. Bonner
+DATE OF JUDGMENT: February 15, 2006
+APPEARANCES:
+Agent for the Appellant:
+Dalton Green
+Counsel for the Respondent:
+Stacey Sloan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

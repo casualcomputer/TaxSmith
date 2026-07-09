@@ -1,0 +1,127 @@
+Title: Asselin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27984/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-549-27984-asselin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-09-14
+
+# Asselin c. La Reine
+
+- Citation: 2007 CCI 549
+- Decision date: 2007-09-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1766, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Asselin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-14
+Référence neutre
+2007 CCI 549
+Numéro de dossier
+2006-3221(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3221(IT)I
+ENTRE :
+CLAUDE ASSELIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 2 avril 2007, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Représentante de l'intimée :
+Nadia Golmier (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de l’avis de nouvelle cotisation du 13 avril 2006, par lequel le ministre du Revenu national a révisé la déduction réclamée par l’appelant à l’égard de l’année d’imposition 2001, à titre de pension alimentaire ou autre allocation payable périodiquement, à une somme de 13 967 $, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2007.
+« Réal Favreau »
+Juge Favreau
+Référence : 2007CCI549
+Date : 20070914
+Dossier : 2006-3221(IT)I
+ENTRE :
+CLAUDE ASSELIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel d’un avis de nouvelle cotisation daté du 13 avril 2006 relativement à la déduction, à titre de pension alimentaire ou autre allocation payable périodiquement, réclamée par l’appelant à l’égard de l’année d’imposition 2001.
+[2] La seule question à trancher est la déductibilité, pour fins d’impôt, de certains paiements faits par le contribuable à son ex-épouse en 2001, conformément aux dispositions d’un jugement de divorce prononcé le 21 septembre 2000 par un juge de la Cour supérieure siégeant dans le district de Saint-Hyacinthe. Les extraits pertinents de ce jugement sont les suivants :
+[…]
+[54] L’épouse réclame une pension alimentaire de 964,25 $ par mois et une somme globale de 40 000 $ pour assurer sa retraite.
+[…]
+[57] Actuellement, les besoins de l’épouse qui vit seule en appartement peuvent raisonnablement être évalués entre 1 200 $ et 1 400 $ par mois. Elle n’a aucun revenu. […]
+[60] L’épouse doit faire tous les efforts possibles pour se trouver un emploi dans les plus brefs délais. Dans ce but, le Tribunal lui accordera une somme globale pour garantir dans l’immédiat une certaine stabilité financière nécessaire à la recherche immédiate d’un emploi et, par la suite, pour garantir une sécurité de vieillesse, le tout évidemment en fonction des moyens du mari.
+[61] En outre, il y a lieu de fixer une pension alimentaire échelonnée.
+[…]
+[68] Sur le tout, le Tribunal arrive à la conclusion que pour répondre aux besoins de l’épouse le mari a les moyens de lui payer une somme globale de 10 000 $. Pour lui assurer une stabilité économique pendant une période de temps raisonnable où elle recherchera un travail rémunérateur, le Tribunal croit juste de déterminer que cette somme de 10 000 $ sera payable 500 $ par mois durant six mois et qu’à l’écoulement de cette période de six mois le solde de 7 000 $ deviendra dû et exigible ce qui pourra, en partie, garantir une sécurité de retraite.
+[69] Enfin le Tribunal, après avoir considéré tout ce qui précède, et plus spécialement le fait que la somme globale sera en partie payable 500 $ par mois durant six mois, fixe la pension alimentaire à la somme de 800 $ par mois. Pour établir cette pension, le Tribunal, outres les considérations de tout ce qui précède, a enfin pris en compte les incidences fiscales.
+[…]
+[74] CONDAMNE le défendeur à payer à la demanderesse, à titre de somme globale, la somme de 10 000 $ payable comme suit : six paiements mensuels de 500 $ chacun à compter du 1er octobre 2000 jusqu’au 1er mars 2001 et un dernier versement de 7 000 $ le 1er avril 2001;
+[…]
+[3] La disposition législative pertinente est l’alinéa 60(b) de la Loi de l’impôt sur le revenu, L.R.C. 1985, (5e suppl) chapitre 1, telle que modifiée (ci-après la « Loi ») qui permet à un contribuable de déduire dans le calcul de son revenu pour une année d’imposition donnée le montant de la pension alimentaire versée au cours de l’année :
+b) Pension alimentaire – le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A. représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B. le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C. le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure;
+[4] La définition de l’expression « pension alimentaire » se trouve au paragraphe 56.1(4) de la Loi :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[5] La question à considérer est de déterminer si la somme de 10 000 $ versée par l’appelant à son ex-épouse représente des versements périodiques faits à titre d’allocation d’entretien qui sont déductibles pour fins d’impôt sur le revenu ou des versements périodiques faits sous forme de paiement forfaitaire ou de capital qui, eux, ne sont pas déductibles.
+[6] Le juge Hugessen de la Cour d’appel fédérale dans l’arrêt Sa Majesté la Reine c. Stanley John McKimmon, (1990) 1 CTC 109, a conclu que ce genre de problème peut difficilement être résolu par des règles rigides. Il a énoncé que la Cour devait au contraire examiner toutes les circonstances entourant les paiements et déterminer, à la lumière de ces circonstances, la façon appropriée de qualifier ces paiements. Dans son jugement, le juge Hugessen a indiqué huit (8) critères à tenir compte pour en arriver à une telle décision, tout en précisant que cette liste n’était pas une liste exhaustive. Ces critères sont :
+1. l’intervalle auquel les paiements sont effectués;
+2. le montant des paiements par rapport au revenu et au niveau de vie du débiteur et du bénéficiaire;
+3. les paiements portent-ils intérêt avant leur date d’échéance?
+4. les sommes en question peuvent-elles être payées par anticipation au gré du débiteur ou peuvent-elles être exigibles immédiatement à titre de pénalité au gré du bénéficiaire en cas de défaut de paiement?
+5. les paiements permettent-ils au bénéficiaire d’accumuler un capital important?
+6. les paiements sont-ils censés continuer pendant une période indéfinie ou être d’une durée fixe?
+7. les paiements convenus peuvent-ils être cédés et l’obligation de payer subsiste-t-elle pendant toute la vie du débiteur ou du bénéficiaire?
+8. les paiements sont-ils censés libérer le débiteur de toute obligation future de verser une pension alimentaire?
+[7] Considérant les raisons pour lesquelles la somme globale de 10 000 $ a été versée et considérant les critères susmentionnés, il m’apparaît clair que les paiements en question ont été faits dans le cadre d’un règlement global et non pas à titre d’allocation pour subvenir aux besoins de l’ex-épouse.
+[8] Le Tribunal a accordé à l’ex-épouse de l’appelant une somme globale de 10 000 $ pour garantir dans l’immédiat une certaine stabilité financière nécessaire à la recherche immédiate d’un emploi (i.e. les paiements mensuels de 500 $) et par la suite, pour garantir une sécurité de vieillesse ou de retraite (i.e. le montant forfaitaire de 7 000 $). De plus, le Tribunal a accordé une pension alimentaire de 800 $ par mois pour subvenir aux besoins de l’ex-épouse.
+[9] Selon les critères 5 et 6 énoncés par le juge Hugessen dans l’arrêt précité, une allocation d’entretien ne devrait pas permettre l’accumulation, sur une brève période, d’un capital important et les sommes payables pendant une durée fixe peuvent être plus facilement considérées comme un capital plutôt qu’une allocation.
+[10] Dans le cas présent, la somme globale de 10 000 $ était payable sur une durée fixe et permettait l’accumulation d’un capital pour garantir une certaine sécurité de vieillesse ou de retraite.
+[11] Je conclus que l’appelant n’a pas payé la somme globale de 10 000 $ à titre d’allocation pour subvenir aux besoins de son ex-épouse, qui étaient d’ailleurs satisfaits par la pension alimentaire.
+[12] Pour ces motifs, je rejette l’appel.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2007.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2007CCI549
+Nº DU DOSSIER DE LA COUR : 2006-3221(IT)I
+INTITULÉ DE LA CAUSE : Claude Asselin et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 2 avril 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 14 septembre 2007
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Représentante de l'intimée :
+Nadia Golmier (stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

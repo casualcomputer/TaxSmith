@@ -1,0 +1,149 @@
+Title: Pigeon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30122/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-643-30122-pigeon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-12-16
+
+# Pigeon v. The Queen
+
+- Citation: 2010 TCC 643
+- Decision date: 2010-12-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7806, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pigeon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-16
+Neutral citation
+2010 TCC 643
+File numbers
+2007-573(IT)I
+Judges and Taxing Officers
+Dwayne W. Rowe
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-573(IT)I
+BETWEEN:
+JULIE PIGEON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 18, 2010 at Toronto, Ontario
+Before: The Honourable D.W. Rowe, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Laurent Bartleman
+Anne Jinnouchi
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1995, 1998, 1999, 2005, 2006 and 2007 taxation years is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Sidney, British Columbia this 16th day of December 2010.
+“D.W. Rowe”
+Rowe D.J.
+Citation: 2010 TCC 643
+Date: 20101216
+Docket: 2007-573(IT)I
+BETWEEN:
+JULIE PIGEON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rowe D.J.
+[1] The Appellant – Julie Pigeon (“Pigeon”) – appealed from assessments of income tax for each of the following years: 1995, 1998, 1999, 2005, 2006 and 2007. During the relevant years, Pigeon was employed by Native Leasing Services (“NLS”), a sole proprietorship owned and operated by Roger Obonsawin who is a status Indian within the meaning of the Indian Act, R.S.C. 1985, c.I-5, as amended. The head office of NLS was located on the Six Nations of the Grand River Reserve (“Six Nations Reserve”), near Brantford, Ontario. Pigeon is a status Indian.
+[2] The Minister of National Revenue (the “Minister”) reassessed the Appellant’s tax liability for the years at issue and included in her income certain amounts on the basis that her salary for those years was not the personal property of an Indian situated on a reserve within the meaning of section 87 of the Indian Act and – therefore – was not exempt from income tax by any other enactment of Parliament within the meaning of paragraph 81(1)(a) of the Income Tax Act (the “Act”).
+[3] The within appeal was fixed for hearing in Toronto on October 18, 2010 on the basis it would be heard – on common evidence – together with 13 other appeals, 10 of which involved status Indian women who were employed by NLS during various periods. Three of the appeals within that group were filed by husbands and the issue was whether any of them is entitled to deduct the personal credit for married status in the relevant taxation year, pursuant to paragraph 118(1)(a) of the Act. Counsel for the appellants and counsel for the respondent in those appeals agreed the result in each of these appeals would depend on the decision rendered in respect of that appellant’s spouse.
+[4] At the outset of the hearing, Pigeon advised that she wished to withdraw her appeal from the group and that she wanted to proceed on her own behalf. Following a discussion concerning procedural matters including an observation from the Bench that the Amended Notice of Appeal had not addressed any issue other than the exemption from income tax by virtue of the relevant provisions of the Indian Act and the Act. Pigeon was also informed that no constitutional challenge had been raised in the pleadings and the Reply To The Fresh As Amended Notice of Appeal (“Reply”) responded only to the issue of the applicability of the tax exemption. The Appellant was informed that a Notice of Constitutional Question (“Notice”) had not been served by her former counsel or agent nor by her at any stage in the proceeding which was required if she was challenging the constitutional validity of the Act as it applies to Indians. In response, Pigeon stated she wanted to present her appeal in the form of a statement that she wished to read to the Court. She declined to call any evidence and counsel for the Respondent did not adduce any evidence.
+[5] Pigeon read the following statement:
+My name is Julie, and I am an Anishnawbe Kwe within the Ojibway Nation. I am not a Canadian citizen. I am a citizen of Batchewana First Nation, on Turtle Island.
+My mother was born and raised at Nawash, unceded, within the Saugeen Ojibway Territory. I would like to state that I am a Treaty Indian. Since it is clear that my Nation has never accepted citizenship we as a nation of people have never become part of Canada and our lands remain separate. But we remain in the treaty process with Canada.
+Our treatment agreements are critical and significant because it is through this process that Canada entered into Confederation. The issue of taxation has never been discussed with my nation nor has it been negotiated. While there have been several attempts at assimilation and genocide, we are and will continue to exist as a separate nation outside of Canada.
+I have worked very hard to ensure that my family does not live in poverty. I am the first generation in my family to have running water and electricity. I have no intention to return my family to that kind of poverty.
+My people fought with honour beside your people in every conflict that Canada’s government has entered into -- Tecumseh in the War of 1812, and my grandfather and great-grandfathers in the world wars -- because they respected the treaties that we have with your government.
+So while I do understand that you are limited in what you can do here today, as you are bound by your government’s policies, I want to be very clear about this: I do not agree or consent to the injustice that is being carried out in this Court. This is an infringement of my rights as an aboriginal citizen and it clearly abrogates and derogates my rights as set out in the Constitution of 1867.
+Then, quoting section 35:
+The Government of Canada and the Provincial Governments are committed to the principle that before any amendment is made to clause 24 of section 91 of the Constitution Act, 1867, to section 25 of this Act or to this part, and (a) a constitutional conference that includes in its agenda an item relating to the proposed amendment comprised of the Prime Minister of Canada and the First Ministers of the Provinces will be convened by the Prime Minister of Canada, and (b) the Prime Minister will invite representatives of the aboriginal peoples of Canada to participate in the discussion of that item.
+And further states, in section 25:
+The guarantee in this Charter of certain rights and freedoms shall not be construed so as to abrogate or derogate from any aboriginal treaty or other rights and freedoms that pertains to the aboriginal people of Canada, including (a) any rights or freedoms that have been recognized by the Royal Proclamation of October 7, 1763, and any rights or freedoms that now exist by way of land claim, agreements or may be so acquired.
+The treaty card that I carry is generated under the Indian Act. It is not given to everyone. These cards reflect the administrative capacity necessary for the Canadian Government to keep track of those individuals who have a distinct link to historical treaties in this country.
+You cannot say to me that “you are a Canadian citizen,” any more than I can say to you that “you are an Ojibway citizen.” My citizenship was determined when the treaties were created. I simply do not agree or consent. I recognize that this act of law was not well thought out and still, to my knowledge, the issue of taxation has never been discussed with my leadership, and it abrogates and derogates my treaty rights as stated in section 25 of the Canadian Constitution.
+I hope that you will reconsider these actions and return to your Minister and carefully reassess this miscarriage of justice. I expect that you will respect my treaty rights. It is not that hard to do. I respect your rights everyday as we walk through this treaty process together, side by side.
+[6] Brandon Siegal, co-counsel for the Respondent submitted that the Notice had to be served on the Attorney General of Canada and on each Attorney General of the Provinces prior to any attack on the constitutional validity of the particular provision of the Act.
+[7] In the case of Bekker v. The Queen, 2004 DTC 6404, the Federal Court of Appeal dealt with this issue and at paragraphs 8 and 9 of his judgment, Létourneau J.A. stated:
+8 This Court will not entertain a constitutional challenge in the absence of a Notice being served on the Attorney General of Canada and on each Attorney General of the Provinces: see Gitxsan Treaty Society v. Hospital Employees Union et al. (1999), 238 N.R. 73 (F.C.A.); Giagnocavo v. M.N.R. (1995), 95 DTC 5618, where this Court said that it was without jurisdiction to hear the issue. Such Notice is not a mere formality or technicality that can be ignored or that the Court can relieve a party of the obligation to comply with: see The Queen v. Fisher (1996), 96 DTC 6291, where this Court ruled that the Notice must be given in every case in which the constitutional validity or applicability of a law is brought in question in the manner described in section 57, including proceedings before the Tax Court governed by the Informal Procedure. Indeed, a judge cannot, proprio motu, raise a constitutional issue without giving a notice to the Attorney General: see Reference re Remuneration of Judges of Provincial Courts, [1997] 3 S.C.R. 3.
+9 The Notice serves a useful and essential purpose. The Attorney General, whether for Canada or for a province, bears the responsibility of enforcing legislation and defending the constitutionality of the laws enacted by Parliament or provincial Legislatures, as the case may be. The Notice enables them to discharge that duty: on the duty, see Thorson v. Canada (Attorney General), [1975] 1 S.C.R. 138, at page 146; Finlay v. Canada (Minister of Finance), [1986] 2 S.C.R. 607, at paragraph 28; Miron v. Trudel, [1995] 2 S.C.R. 418. It also alerts the provincial Attorneys General to challenges made to federal laws that may have an impact on their provinces although the duty to sustain the constitutionality of these laws is not theirs. This is why the Notice has to provide its recipients with adequate and sufficient information in terms of the material facts giving rise to the constitutional question and the legal basis for that question, otherwise it will be found insufficient and the Court will assume that there is no serious question to be addressed: see Gitxsan Treaty Society v. Hospital Employees Union et al., previously cited. Finally, it ensures that no injustice is created to the elected representatives who enacted the law and to the people that they represent: see Eaton v. Brant County Board of Education, [1997] 1 S.C.R. 241, at pages 264-65 per Sopinka, J.
+[8] In Dumont v. Canada, 2005 TCC 790, [2005] T.C.J. No. 621, Justice Sheridan considered the appeal of an Indian who had claimed an exemption from taxation. The issue of the required Notice was dealt with by her at paragraph 2 of the judgment, as follows:
+2 The Appellant represented himself at the hearing. The Court advised him of the hearing procedure and that he had the onus of proving wrong the assumptions upon which the Minister based his reassessment. The Appellant's response was that he had no quarrel with the facts assumed by the Minister; his disagreement with the reassessment was based solely on his interpretation of Treaty 8 and certain provisions of the Royal Proclamation of 1763. According to the Appellant, these documents deprive the federal government of any authority to tax his income in 2001 or any other year. He further asserted that the province of British Columbia and all of Canada's coastal waters are Indian land. While this argument suggests a challenge to the constitutionality of the Income Tax Act, the Appellant had not given the required notice2; accordingly, the issue of whether his 2001 income is exempt from taxation has been considered in the context of paragraph 81(1)(a) of the Income Tax Act and subsection 87(1) of the Indian Act, the provisions upon which the Minister's reassessment was based.
+[9] A decision in Rozella Johnston v. Her Majesty the Queen, 2010 TCC 627, was issued by Little J. on December 7, 2010. In that instance, the Appellant read a statement into the record in which she said she was a field support worker for the Ontario Federation of Indian Friendship Centres and was a citizen of the Chippewas of Nawash First Nation’s unceded territory and was not a Canadian citizen. Reproduced below is paragraph 5(a) of the judgment:
+[5] The Appellant also said:
+a) While the Saugeen Ojibway land claim is still ongoing, the issue of taxation has never been discussed with the Nation nor has it ever been negotiated;
+[10] Prior to concluding the Appellant’s appeals should be dismissed on the basis no evidence was adduced nor was any valid legal argument submitted to vacate or vary the assessments for the taxation years at issue, Little J. undertook the following analysis at paragraphs 7 to 12, inclusive, of his judgment:
+B. ANALYSIS AND DECISION
+[7] The Tax Court of Canada was formed by an Act of Parliament, the Tax Court of Canada Act, R.S.C. 1985, c. T-2. The Tax Court came into existence in 1983.
+[8] The jurisdiction of the Tax Court is set out in section 12 of the Tax Court of Canada Act.
+[9] Subsection 12(1) provides as follows:
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Air Travellers Security Charge Act, the Canada Pension Plan, the Cultural Property Export and Import Act, Part V.1 of the Customs Act, the Employment Insurance Act, the Excise Act, 2001, Part IX of the Excise Tax Act, the Income Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act and the Softwood Lumber Products Export Charge Act, 2006 when references or appeals to the Court are provided for in those Acts. (emphasis added)
+[10] The remedies that this Court may grant in relation to appeals arising under the Income Tax Act (the “Act”) are set out in subsection 171(1) of the Act which provides that:
+171. (1) Disposal of Appeal. The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[11] The Tax Court does not have the power to compel the Respondent to pursue any other process to resolve a dispute related to taxes payable under the Act.
+[12] The Appellant did not file any evidence or raise any legal arguments in relation to the Reassessments that were appealed to this Court. Furthermore, the Appellant made no attempt to distinguish her case from other cases that have been previously decided in relation to individuals who were employees of Native Leasing Services or a related company, namely:
+1. The Queen v. Shilling, 2001 D.T.C. 5420 (FCA). Application for leave to appeal this decision to the Supreme Court of Canada was dismissed ([2001] S.C.C.A. No. 434);
+2. Horn et al v. The Queen et al, 2007 D.T.C. 5589 (FC). Appeals to the FCA were dismissed (2008 FCA 352, 2008 D.T.C 6743). Application for leave to appeal this decision to the Supreme Court of Canada was dismissed ([2009] S.C.C.A. No. 8);
+3. Roe et al v. The Queen, 2008 TCC 667, 2009 D.T.C. 1020, (9 Appellants);
+4. Googoo et al v. The Queen, 2009 D.T.C. 1061;
+5. McIvor et al. v. The Queen, 2009 TCC 469, 2009 D.T.C. 1330, (6 Appellants); and
+6. Sarah B. Doxtator/Joanna Wemigwans v. The Queen, 2010 D.T.C. 1291, (indexed as Lafontaine v. The Queen).
+It should be noted that all of the above Appellants were claiming that their income was exempt from tax by virtue of section 87 of the Indian Act, R.S.C. 1985, c. I-5. All of the appeals were dismissed.
+(Note: In addition to the 19 appeals referred to above, there were many appeals filed by individuals who were employees of Native Leasing Services. When these appeals were called for hearing before the Tax Court, the individuals did not appear and did not have counsel or an agent represent them. The appeals were dismissed for want of prosecution.)
+[11] The assumptions of fact relied on by the Minister in determining the tax liability of the Appellant for the relevant years are set forth at paragraph 16 of the Reply:
+16. In determining the Appellant’s tax liability for the relevant taxation years, the Minister made the following assumptions of fact:
+(a) The Appellant is an Indian as defined in the Indian Act;
+(b) NLS had a head office on the Six Nations;
+(c) The duties of employment, the place of performance and the services provided by the Appellant were off-reserve; and
+(d) The Appellant did not live on a reserve.
+[12] The sole issue in the within appeal is whether the employment income received by the Appellant during the relevant taxations years is taxable pursuant to sections 2, 3 and 5 of the Act.
+[13] Those assumptions were not challenged in the sense no evidence was adduced by the Appellant. Pigeon understood the limited jurisdiction of this Court but wanted to make it clear she did not agree with the policies of the federal government with respect to the taxation of employment income of status Indians who were working off-reserve to ensure their family did not live in poverty.
+[14] Each of the assessments issued by the Minister to the Appellant for each of the taxation years is correct and the within appeal is hereby dismissed, without costs.
+Signed at Sidney, British Columbia this 16th day of December 2010.
+“D.W. Rowe”
+Rowe D.J.
+CITATION: 2010 TCC 643
+COURT FILE NO.: 2007-573(IT)I
+STYLE OF CAUSE: JULIE PIGEON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 18, 2010
+REASONS FOR JUDGMENT BY: The Honourable D.W. Rowe, Deputy Judge
+DATE OF JUDGMENT: December 16, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Laurent Bartleman
+Anne Jinnouchi
+Brandon Siegal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

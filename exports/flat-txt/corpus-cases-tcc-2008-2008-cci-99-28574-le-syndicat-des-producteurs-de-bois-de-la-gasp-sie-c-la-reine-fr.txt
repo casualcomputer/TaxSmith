@@ -1,0 +1,243 @@
+Title: Le Syndicat des producteurs de bois de la Gaspésie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28574/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-99-28574-le-syndicat-des-producteurs-de-bois-de-la-gasp-sie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-04-04
+
+# Le Syndicat des producteurs de bois de la Gaspésie c. La Reine
+
+- Citation: 2008 CCI 99
+- Decision date: 2008-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1073, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le Syndicat des producteurs de bois de la Gaspésie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-04
+Référence neutre
+2008 CCI 99
+Numéro de dossier
+2006-1214(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-1214(GST)G
+ENTRE :
+LE SYNDICAT DES PRODUCTEURS DE BOIS
+DE LA GASPÉSIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 mai 2007, à New Carlisle (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me André A. Lévesque
+Avocat de l'intimée :
+Me Michel Morel
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie le 10 août 2005 en vertu de la Loi sur la taxe d'accise pour la période du 1er mai 2005 au 31 mai 2005 est rejeté avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 4e jour d’avril 2008.
+« François Angers »
+Juge Angers
+Référence : 2008CCI99
+Date : 20080404
+Dossier : 2006-1214(GST)G
+ENTRE :
+LE SYNDICAT DES PRODUCTEURS DE BOIS
+DE LA GASPÉSIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel d’un avis de cotisation en date du 10 août 2005 relativement à la taxe sur les produits et services (« TPS ») pour la période du 1er mai 2005 au 31 mai 2005 établi en vertu de la Loi sur la taxe d’accise (la « Loi »). Le ministre du Revenu national (le « Ministre ») cotisa l’appelant, le Syndicat des producteurs de bois de la Gaspésie (ci-après le « Syndicat »), refusant de lui accorder des remboursements de TPS au montant de 92 421,94 $ pour la période en question. Le Syndicat est un inscrit aux fins de l’application de la TPS et était mandataire du Ministre aux fins de la perception et du versement durant la période en question.
+[2] Le Syndicat est une société sans but lucratif constituée en vertu de la Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche, ch. M‑35.1, L.R.Q. (ci-après « Loi sur la mise en marché »). Il ne suffit que de 10 producteurs intéressés ou plus qui, en vertu de la Loi sur la mise en marché, peuvent transmettre un projet de plan conjoint permettant d’établir les conditions de production et de mise en marché d’un produit agricole, en l’espèce la forêt, provenant d’un territoire désigné (la Gaspésie) et de constituer un office de producteurs pour l’application de ce plan ou désigner un syndicat professionnel composé exclusivement de producteurs de bois, comme en l’espèce, ayant pour seul objet la mise en marché de ce produit (voir les articles 45 et 50 de la Loi sur la mise en marché).
+[3] La région désignée par le Syndicat regroupe environ 7 000 producteurs de bois ou propriétaires de lots boisés qui sont visés par le plan conjoint auquel réfère la Loi sur la mise en marché. Certains de ces producteurs peuvent adhérer au syndicat en qualité de membres et environ 3000 se sont prévalus de ce privilège, ce qui leur procure un droit de vote aux assemblées et une possibilité de devenir administrateurs ou encore d’être délégué, à l’assemblée générale annuelle.
+[4] Parmi tous ces producteurs, on en trouve 900 qui, dû à des activités de production réduites, soit inférieures à 30 000 $ par année, ne sont pas des inscrits en vertu de la Loi et font l’objet de cet appel.
+[5] Les services rendus par le Syndicat à ces 900 producteurs étaient payés par ces derniers selon les modalités prévues par le Syndicat et les producteurs, lesquelles modalités devant être approuvées par la Régie des marchés agricoles, alimentaires et de la pêche. En terme général, la mise en marché effectuée par l’appelant inclut notamment l’achat et la vente du bois pour le compte des producteurs de bois de la Gaspésie, de sorte que le Syndicat perçoit des acheteurs le prix de vente du bois et le remet aux producteurs.
+[6] De ce prix de vente, le Syndicat prélève des montants servant à couvrir les frais du transport, les frais d’administration de l’agence et des montants appelés « prélevés » qui sont prévus à l’article 2 du Règlement sur la contribution des producteurs de bois de la Gaspésie pour l’administration du plan conjoint ainsi qu’à l’article 2 du Règlement sur le fonds forestier des producteurs de bois de la Gaspésie (R.Q. ch. M-35 r. 28.9 et R.Q. ch. M-35.1 r. 110). C'est ce qui constitue en fait les services qui font l'objet du présent litige.
+[7] Le Syndicat a donc perçu et versé la TPS afférente aux services qu’il a rendus aux 900 producteurs de bois de la Gaspésie et il en demande maintenant le remboursement de 92 421,94 $. Il s’agit donc de déterminer si le Syndicat doit percevoir la TPS sur les services qu’il rend à ces 900 producteurs qui sont des non-inscrits.
+[8] Les principales fonctions du Syndicat sont donc la mise en marché du bois selon le plan conjoint des producteurs de bois de la Gaspésie que l’on trouve à l’article 2 du Règlement sur le plan conjoint des producteurs de bois de la Gaspésie :
+2. Dans ce plan, l’expression « mise en marché » signifie la vente, classification, la transformation, l’achat, l’entreposage, et l’expédition pour fins de vente, l’offre de vente et le transport d’un produit agricole, ainsi que la publicité et le financement des opérations ayant trait à l’écoulement de ce produit.
+[9] L’article 5 de ce même règlement définit le produit visé et l’article 6 indique que le Syndicat est chargé de l’application et de l’administration du plan. L’article 11 définit le rôle du Syndicat en ces termes :
+11. Le Syndicat est l’agent de négociation et de vente du produit visé. À ce titre, et comme administrateur du plan, il possède les pouvoirs et attributions et il a les devoirs prévus dans la Loi pour un tel organisme.
+[10] Les pouvoirs, devoirs et attributions du Syndicat se trouvent aux articles 14, 15, 16, 17 et 18 de ce même règlement et je les reproduis en annexe.
+[11] Les producteurs visés par un plan conjoint sont tenus de payer des contributions pour l’application du plan. L’article 122 de la Loi sur la mise en marché et les règlements pris en vertu de cette loi prévoient ce paiement. Je reproduis les articles 122, 123 et 124 de la Loi sur la mise en marché :
+122. Les producteurs visés par un plan conjoint paient les dépenses faites pour l'application du plan et des règlements au moyen de contributions indiquées à ce plan ou dans un règlement pris en vertu des articles 123 et 124.
+1990, c. 13, a. 122.
+Règlement des producteurs
+123. Les producteurs réunis en assemblée générale convoquée à cette fin peuvent prendre des règlements pour:
+1) modifier le montant de la contribution prévue au plan;
+2) classer les producteurs en groupes et déterminer pour chaque groupe le niveau de contribution exigible de chaque producteur en faisant partie pour l'application du plan, des règlements et de la présente loi;
+3) imposer une contribution spéciale pour payer les frais d'application d'une disposition d'un plan, d'un règlement ou de la présente loi;
+4) imposer une contribution spéciale pour faire face aux pertes résultant de la mise en marché du produit visé par le plan, qu'il soit ou non produit par le producteur tenu au paiement de la contribution;
+5) imposer une contribution spéciale pour permettre l'égalisation ou le rajustement entre producteurs des sommes d'argent que rapporte la vente du produit visé par le plan pendant toute période que l'office peut déterminer;
+6) imposer une contribution spéciale pour permettre à l'office de payer sa quote-part du fonctionnement et des activités d'une chambre de coordination et de développement;
+7) imposer, à l'ensemble des producteurs ou à ceux qui satisfont à certains critères, une contribution spéciale pour l'application d'un règlement pris en vertu de l'article 100.1 et pour respecter les obligations contractées à l'égard du fonds spécial établi pour l'application de ce règlement.
+1990, c. 13, a. 123; 1992, c. 28, a. 16.
+Règlement de l'office
+124. L'office peut, s'il en a été autorisé par les producteurs réunis en assemblée générale convoquée à cette fin, établir par règlement:
+1) un fonds de réserve ou un fonds de roulement pour le paiement des dépenses d'application du plan ou d'un règlement;
+1.1) un fonds spécial pour l'application d'un règlement pris en vertu de l'article 100.1;
+2) une contribution pouvant varier pour lui permettre de remplir les obligations qu'il a contractées en vertu du chapitre VIII;
+3) les modalités de perception ou de calcul d'une contribution imposée en application du présent chapitre.
+1990, c. 13, a. 124; 1992, c. 28, a. 17.
+[12] Les deux règlements prévoient donc le montant à être payé au Syndicat. Dans le cas du Règlement sur la contribution des producteurs de bois de la Gaspésie pour l’administration du plan conjoint, l’article 2 dispose que tout producteur doit payer, par unité de volume du produit visé, une contribution de 0,85 $ pour chaque unité d’un mètre cube. L’article 3 du même règlement dispose que les contributions reçues servent à payer les dépenses encourues par le Syndicat. Selon la preuve, le Syndicat se sert de ces sommes notamment pour négocier les contrats et pour planifier la mise en marché. Une retenue directe est faite sur ce que les acheteurs paient au Syndicat.
+[13] En vertu du Règlement sur le fonds forestier des producteurs de bois de la Gaspésie, il est prévu, à l’article 2, que tout producteur doit payer au Syndicat par unité de volume du produit visé mis en marché, une contribution de 0,15 $. Au paragraphe 5e), ces sommes servent au financement d’un journal d’information pour les producteurs de bois.
+[14] Selon le directeur général du Syndicat, monsieur Jean-Pierre Rivière, le total des deux contributions, soit 1,00 $, sert surtout à payer les frais de la négociation avec les transporteurs, à s’assurer que le travail, tel que le mesurage du bois, est conforme, et à payer les frais d’exécution, de surveillance, de vérification et d’administration du personnel.
+[15] Le Syndicat perçoit également une contribution des producteurs de 0,41 $ le mètre cube apparent pour tout le bois vendu. Cette somme sert à payer les frais liés à la gestion comme telle (résolution, pièce A-7). Finalement, le coût du transport s’ajoute à ceux prévus par les Règlements et par la résolution susmentionnée.
+[16] Ce qui caractérise la situation des 900 producteurs visés par ce litige est le fait qu’ils ne sont pas des inscrits en vertu de la TPS. Deux opérations types visées par la demande de remboursement ont été expliquées. Les bordereaux de paiement délivrés aux producteurs démontrent qu’aucune TPS n’a été imposée à l’acquéreur sur la vente et les bordereaux indiquent clairement des prélèvements ou des contributions payées par les producteurs au Syndicat. Ces contributions font l’objet du présent litige, et la question qui se pose est de savoir si le Syndicat doit percevoir la TPS sur les contributions qu’il perçoit des producteurs.
+[17] Lors du contre-interrogatoire de monsieur Jean-Pierre Rivière, directeur général du Syndicat, ce dernier a confirmé que les contributions pour l’administration du Syndicat sont prélevées sur les factures payées par les acheteurs et que ces contributions sont fixées par règlement. Le Syndicat ne perçoit pas de commissions des producteurs. La mission du Syndicat est de voir à ce que la mise en marché du bois se fasse correctement en Gaspésie tel que prévu dans la Loi sur la mise en marché.
+[18] L’article 45 de cette même loi prévoit que le Syndicat tient lieu d’office de production pour l’application d’un plan. À l’article 66 de la même loi, on y précise que le Syndicat est investi des pouvoirs et attributions d’un office. Cet article se lit comme suit :
+66. Un organisme désigné conformément à l'article 50 pour appliquer un plan est investi des pouvoirs, devoirs et attributions d'un office; il les exerce par son conseil d'administration sauf ceux réservés à l'assemblée générale des producteurs. Il doit tenir une comptabilité distincte pour l'administration de ce plan. Cet organisme peut demander à la Régie de l'exempter de l'obligation de tenir une comptabilité distincte s'il n'exerce aucune autre activité que l'administration de ce plan.
+[19] Les pouvoirs que la Loi sur la mise en marché attribue à un office se trouvent aux articles 92 à 99 entre autres, que je reproduis ici :
+Règlement
+92. Un office peut, par règlement:
+1) déterminer des conditions de production, de conservation, de préparation, de manutention et de transport du produit visé par le plan qu'il applique, des normes portant sur sa qualité, sa forme et sa composition, son contenant ou son emballage et les indications qui doivent apparaître sur ce produit, son contenant ou son emballage;
+2) prescrire le classement et l'identification du produit visé par le plan qu'il applique, établir à cette fin des classes, catégories et dénominations particulières pour ce produit et déterminer les conditions dans lesquelles ce classement et cette identification doivent être faits.
+1990, c. 13, a. 92.
+Contingentement
+93. Un office peut, par règlement, contingenter la production et la mise en marché du produit visé par le plan qu'il applique et, à cette fin, les assujettir aux conditions, restrictions et prohibitions qu'il détermine.
+Règlement
+Sans restreindre la portée du premier alinéa, un office peut, par règlement:
+1) déterminer à quel moment et à quel endroit un produit visé par un plan qu'il applique peut être produit et mis en marché;
+2) exiger que chaque producteur soit titulaire d'un contingent individuel délivré par l'office pour produire ou mettre en marché le produit visé par le plan qu'il applique, fixer le contingent minimum et le contingent maximum dont il peut, lui-même ou en association avec d'autres personnes, être titulaire et déterminer la proportion de ce contingent que chaque producteur doit produire lui-même dans son exploitation;
+3) déterminer les conditions d'émission, de maintien ou de renouvellement et les modalités de délivrance d'un contingent individuel;
+4) établir des équivalences basées sur la superficie cultivée ou exploitée ou le nombre d'animaux élevés ou mis en marché pour déterminer le contingent d'un producteur;
+5) déterminer les modalités et les conditions de réduction temporaire ou définitive du contingent d'un producteur qui produit ou met en marché une quantité du produit visé par le plan supérieure ou inférieure à celle permise par son contingent;
+6) imposer à tout producteur qui contrevient à un règlement pris en vertu du présent article une pénalité basée sur le volume ou la valeur du produit mis en marché ou la superficie cultivée ou exploitée et prévoir l'utilisation de cette pénalité à des fins particulières;
+7) prévoir la suppression ou l'utilisation par une autre personne de la partie d'un contingent qui n'est pas produite ni mise en marché durant une période déterminée;
+8) déterminer dans quelle situation, dans quelle mesure et à quelles conditions un producteur titulaire d'un contingent peut produire ou mettre en marché un produit à l'encontre de ce contingent ou d'une norme déterminée par l'office;
+9) établir la limite globale des contingents individuels que l’office peut délivrer aux producteurs et prévoir des normes de réduction proportionnelle de ces contingents lorsque cette limite est atteinte ou sur le point de l’être;
+10) déterminer des normes d'ajustement périodique des contingents individuels en fonction des besoins du marché;
+11) déterminer de quelle façon et à quelles conditions l'office peut réattribuer les contingents suspendus, réduits ou supprimés;
+12) déterminer la partie du contingent global ainsi que tout ou partie des contingents individuels, suspendus ou réduits de façon définitive, qu'il peut garder en réserve;
+13) établir les modalités et conditions d'attribution ou de réattribution de la réserve visée au paragraphe 12) et limiter à une ou à des catégories de producteurs l'octroi de contingents pris à même cette réserve;
+14) déterminer les cas et les conditions de transfert du contingent d'un producteur à un autre, en réserver une partie pour la réserve prévue au paragraphe 12), en établir les modalités et le mode de transfert et assujettir tout transfert à son approbation;
+15) déterminer les modalités et conditions de location du contingent ou d'une partie du contingent d'un producteur à un autre;
+16) déterminer les conditions de location d'une exploitation par un producteur qui veut produire tout ou partie de son contingent ailleurs que sur son exploitation et assujettir cette location à l'approbation de l'office;
+17) suspendre tout transfert de contingent individuel pendant une période déterminée ou déterminable d'après les normes établies par l'office;
+18) diviser en zones le territoire visé par le plan et restreindre ou prohiber le déplacement des contingents d'une zone à l'autre;
+19) déterminer le délai dont bénéficie le nouveau titulaire d'un contingent ou le titulaire d'un nouveau contingent pour produire ou mettre en marché le produit contingenté.
+1990, c. 13, a. 93.
+Interdiction
+94. Quand un office prend un règlement conformément à l'article 93, nul ne peut produire ou mettre en marché le produit visé sans détenir de contingent sauf dans les situations et aux conditions prévues par ce règlement.
+1990, c. 13, a. 94
+Titulaire d'un contingent
+95. Seule la personne ou la société qui produit le produit visé par un plan peut être titulaire d'un contingent délivré par un office et l'exploiter.
+Nouveau producteur
+Cette disposition n'empêche toutefois pas un nouveau producteur de devenir titulaire d'un contingent.
+Disposition non applicable
+Le premier alinéa ne s'applique pas à un créancier temporairement titulaire, en exécution d'une garantie, d'un contingent pourvu qu'il en dispose ou prenne les mesures à cette fin dans un délai raisonnable.
+1990, c. 13, a. 95.
+Fixation de prix
+96. Un office peut, par règlement, établir des modalités de fixation du prix du produit visé par le plan qu'il applique ou d'une classe ou variété de ce produit. Ce prix peut varier selon la région.
+1990, c. 13, a. 96.
+Règlement
+97. Un office peut, par règlement:
+1) obliger tout producteur du produit visé par le plan qu'il applique à enregistrer son exploitation de la manière et selon les modalités qu'il prescrit;
+2) déterminer les renseignements et documents que le producteur du produit visé par le plan doit conserver et lui fournir pour l'application du plan et des règlements pris conformément au présent chapitre.
+1990, c. 13, a. 97.
+Règlement
+98. Un office peut, par règlement, à l'égard du produit visé par le plan qu'il applique:
+1) établir une procédure de mise en vente en commun pour faire en sorte que les producteurs reçoivent, déduction faite de tout ou partie des frais de mise en marché déterminés par l'office, le même prix pour un produit identique de même quantité et d'égale qualité mis en marché pendant une période déterminée sur un marché désigné et ce indépendamment de la variation du prix de vente pour des causes étrangères à la valeur propre du produit;
+2) déterminer le mode et les conditions de mise en marché et de vente en commun;
+3) déterminer les normes de fixation et de paiement du prix de vente; ces normes peuvent prévoir l'établissement d'un prix provisoire avant la vente et d'un prix définitif après la vente;
+4) déterminer les conditions et modalités de paiement du prix de vente par tout acheteur; ces normes peuvent prescrire le paiement d'un versement initial à la livraison et de versements subséquents au moment déterminé par l'office;
+5) déterminer les conditions et les modalités de répartition, entre les producteurs, du produit net des ventes de ce produit ou d'une catégorie déterminée;
+6) obliger tout acheteur à en payer le prix à l'office ou à l'agent de vente désigné pour en assurer la répartition entre les producteurs;
+7) obliger tout producteur à le vendre à l'office ou par l'intermédiaire de l'office ou de l'agent de vente désigné;
+8) retenir, sur le prix de vente, les sommes nécessaires à sa mise en marché et toute autre contribution imposée en vertu du présent titre;
+9) déterminer pour l'application du présent article ce qui constitue le produit net des ventes.
+1990, c. 13, a. 98.
+Frais de transport
+99. Un office peut, par règlement, établir une procédure pour répartir et mettre en commun les frais de transport du produit visé de telle sorte que chaque producteur, ou les producteurs d'un groupe déterminé par ce règlement, paye le même prix pour le transport de son produit, à quantité égale, indépendamment de la distance entre les lieux de production et de livraison.
+1990, c. 13, a. 99.
+[20] Toujours selon le contre-interrogatoire de monsieur Rivière, la raison d’être de ces contributions est donc de contribuer au financement des activités du Syndicat par la mise en marché du bois. Il s’agit donc d’un mode de financement et non d’une rémunération. Ce paiement est obligatoire pour tous les producteurs et le Syndicat peut poursuivre tout producteur qui ne paie pas.
+[21] Les états financiers du Syndicat ont été déposés et ils ne présentent pas de postes avec une rubrique intitulée « honoraires » ou « commissions ».
+[22] Il s’agit donc de déterminer si le Syndicat doit percevoir la TPS sur les services qu’il rend aux producteurs de bois de la Gaspésie conformément à l’article 177 de la Loi.
+[23] L’avocat de l’appelant soutient que toutes les conditions d’application du paragraphe 177(1) de la Loi sont respectées de sorte que l’appelant n’est pas tenu de percevoir la TPS sur les prélèvements qu’il effectue pour les services offerts aux 900 producteurs de bois non inscrits. Le paragraphe 177(1) se lit comme suit :
+Mandataires
+177.(1) Fourniture pour une personne non tenue de percevoir la taxe ‑ Dans le cas où une personne (appelée « mandant » au présent paragraphe) effectue, autrement que par vente aux enchères, la fourniture, sauf une fourniture exonérée ou détaxée, d’un bien meuble corporel au profit d’un acquéreur relativement à laquelle elle n’est pas tenue de percevoir la taxe, sauf disposition contraire prévue au présent paragraphe, et qu’un inscrit (appelé « mandataire » au présent paragraphe), agissant à titre de mandataire dans le cadre de ses activités commerciales, effectue la fourniture pour le compte du mandant, les présomptions suivantes s’appliquent :
+a) lorsque le mandant est un inscrit et que la dernière utilisation du bien, ou sa dernière acquisition pour consommation ou utilisation, a été effectuée par le mandant dans le cadre d’une de ses initiatives, au sens du paragraphe 141.01(1), la fourniture est réputée, si le mandant et le mandataire en font conjointement le choix par écrit, être une fourniture taxable aux fins suivantes :
+(i) pour l’application de la présente partie, mais non pour déterminer si le mandant a droit à un crédit de taxe sur les intrants pour les biens ou les services qu’il a acquis ou importés pour consommation ou utilisation dans le cadre de la fourniture effectuée au profit de l’acquéreur,
+(ii) pour déterminer si le mandant a droit à un crédit de taxe sur les intrants pour les services que le mandataire a fournis relativement à la fourniture du bien effectuée au profit de l’acquéreur;
+b) dans les autres cas, la fourniture du bien est réputée, pour l’application de la présente partie, être une fourniture taxable effectuée par le mandataire et non par le mandant, et le mandataire est réputé, pour l’application des dispositions de la présente partie, sauf l’article 180, ne pas avoir effectué, au profit du mandant, une fourniture de services liée à la fourniture effectuée au profit de l’acquéreur.
+[Je souligne]
+[24] L’avocat de l’appelant soutient donc qu’il est mandataire des producteurs pour effectuer la mise en marché. Il soutient que, peu importe que les contributions qui sont prélevées par le Syndicat sur les montants à verser aux producteurs soient qualifiées de commissions ou de rémunération, tout ce que la Loi prescrit, c’est que ce soient des services. Il affirme donc que le Syndicat fournit des services aux producteurs et que ces services sont liés à la fourniture de bois. Une fois que les conditions prévues sont remplies, la présomption prévue à l’alinéa 177(1)b) s’applique de sorte que les services rendus aux producteurs ne sont pas taxables et le Syndicat n’a pas à percevoir la taxe auprès des 900 producteurs de bois puisqu’ils ne sont pas inscrits.
+[25] Pour étayer ses affirmations, l’avocat de l’appelant affirme que les conditions prescrites dans le Code civil du Québec aux articles 2130 et suivants sont remplies. Il fait valoir que c’est évident qu’il s’agit d’un mandat au motif que l’article 65 de la Loi sur la mise en marché déclare le Syndicat comme étant l’agent de négociation des producteurs et l’agent de vente. Sur la question de la fourniture de services, l’avocat de l’appelant soutient que la mission du Syndicat est d’effectuer la mise en marché du bois, ce qui comprend une multitude de services offerts par le Syndicat aux producteurs de bois. Ces services ne sont pas gratuits et sont liés à la fourniture de bois. Sans ça, il n’y aurait pas de services.
+[26] Finalement, il allègue que le législateur ne peut avoir l’intention de réclamer le paiement de la TPS par ces 900 producteurs parce qu’ils n’ont pas eux-mêmes à percevoir la TPS. L’intention du législateur était de détaxer les opérations des petits fournisseurs. Il est invraisemblable qu’il veuille les taxer simplement parce qu’ils font affaire avec un mandataire.
+[27] De son côté, l’avocat de l’intimée soutient que le Syndicat n’est pas un vendeur de bois mais un office de régulation économique chargé par le législateur de procéder à la mise en marché de produits agricoles. Le Syndicat offre ainsi un service intégré de mise en marché et non de simple vente de bois, une condition d’application essentielle du paragraphe 177(1) de la Loi.
+[28] L’intimée prétend de plus que le Syndicat n’est pas un mandataire. Les articles 92 et suivants de la Loi sur la mise en marché donnent des pouvoirs beaucoup plus importants au Syndicat que les pouvoirs d’un simple mandataire. Il a même plus de droits que le mandant en ce qu’il peut l’obliger notamment à vendre des quantités de bois précises. Il soutient que ce que le législateur visait au paragraphe 177(1) de la Loi était les cas où des commissions étaient versées par le mandant au mandataire pour la fourniture d’un bien. En l’espèce, il ne s’agit pas de commissions qui ont été versées puisque le Syndicat est un organisme à but non lucratif qui ne déclare aucun revenu de commission et que ses états financiers ne présentent aucun poste pour commission ou rémunération. Pour nier la notion de mandataire, l’avocat de l’intimée ajoute que le service de mise en marché ne constitue pas un service de mandataire parce que, même lorsque le Syndicat n’agit pas à titre de mandataire, le service est tout de même rendu.
+[29] Il fait valoir finalement que les prélèvements ne sont pas perçus pour des services fournis par le Syndicat. Les montants prélevés sont prévus par la loi et servent à financer les activités du Syndicat étant donné que l’article 125 de la Loi sur la mise en marché permet de calculer les contributions non seulement en fonction du volume de production mais de plusieurs autres manières. Sur la question des frais de transport, l’avocat de l’intimée soumet que ce ne sont pas des services de fourniture étant donné qu’ils sont prévus par l’article 8 de la Loi sur la mise en marché et décrétés par règlement.
+[30] Le paragraphe 177(1) de la Loi vise donc à détaxer les services rendus par le biais d’un mandat. Les dernières notes techniques publiées par le ministère des Finances se lisent comme suit :
+10 juillet 1997, NE: L’article 177 s’applique aux fournitures effectuées par les mandataires, notamment les encanteurs, pour le compte de mandants. Les règles en vigueur diffèrent selon que l’identité du mandant est connue ou non et selon qu’il est ou non un inscrit. Des règles spéciales sont également prévues à l’intention des encanteurs. Dans sa version modifiée, le paragraphe 177(1) énonce les nouvelles règles qui s’appliquent lorsqu’un mandataire, agissant dans le cadre d’une activité commerciale, effectue la fourniture d’un bien meuble corporel, sauf une fourniture exonérée ou détaxée, autrement que par vente aux enchères pour le compte d’un mandant qui, n’eût été de ce paragraphe, ne serait pas tenu de percevoir la taxe sur la fourniture (c.-à-d. que le mandat n’est pas un inscrit ou n’a pas acquis ou utilisé le bien pour la dernière fois dans le cadre de ses activités commerciales). En vertu de la version modifiée du paragraphe 177(1), ces fournitures sont réputées être taxables. La taxe s’applique sur le prix de vente intégral du bien.
+De façon générale, le mandataire est réputé avoir effectué la fourniture du bien au profit de l’acquéreur et est tenu de rendre compte de la taxe. En vertu de cette règle générale, le mandataire est réputé ne pas avoir effectué de fourniture au profit du mandant. Par conséquent, le service du mandataire fourni au mandant (c’est‑à‑dire, sa commission) ne sera pas taxable. La fourniture effectuée par le mandataire est réputée ne pas être une fourniture pour l’application de la partie IX de la Loi, saut l’article 180, qui porte sur le cas où une personne non‑résidente non inscrite est l’importateur autorisé d’un bien qu’un mandataire doit vendre pour son compte et est tenue de payer la taxe sur l’importation. Par l’effet de l’article 180, le mandataire est réputé, dans ce cas, avoir payé la taxe que le non-résident (c’est‑à‑dire, le mandant) était tenu de payer. Le mandataire sera ainsi en mesure de demander un crédit de taxe sur les intrants au titre de la taxe payée par le mandant.
+[Je souligne.]
+[31] Les conditions d’application du paragraphe 177(1) sont au nombre de cinq. Selon la première, il doit y avoir une relation de mandant/mandataire, point qui est en litige. Selon la deuxième, le mandant doit être une personne qui n’est pas tenue de percevoir la taxe. En l’espèce, cette condition est remplie puisque les 900 producteurs ne sont pas des inscrits au sens de la Loi. En vertu de la troisième condition, la fourniture effectuée par le mandant doit être la fourniture d’un bien meuble corporel, et elle ne doit pas être une fourniture exonérée ou une fourniture détaxée. En l’espèce, les 900 producteurs produisent du bois, un bien meuble corporel qui n'est pas une fourniture exonérée ni détaxée. Selon la quatrième condition, le mandataire doit être un inscrit et doit agir dans le cadre de ses activités commerciales. En l’espèce, le Syndicat est un inscrit au sens de la Loi et son activité commerciale est la mise en marché du bois sur le territoire de la Gaspésie. En vertu de la dernière condition, le mandataire doit effectuer la fourniture pour le compte du mandant. Il faut donc déterminer en l’espèce si le Syndicat effectue la fourniture de bois aux acquéreurs pour le compte de 900 producteurs de bois non inscrits.
+[32] Est-ce que la première et la dernière condition sont présentes? Y a‑t‑il une relation de mandant/mandataire entre le Syndicat et les 900 producteurs de bois et, si oui, le Syndicat effectue‑t‑il la fourniture de bois pour le compte des 900 producteurs?
+[33] La Loi ne définit pas la notion de mandat. Le Code civil du Québec, par contre, nous fournit une définition à l’article 2130 qui se lit comme suit :
+DE LA NATURE ET DE L'ÉTENDUE DU MANDAT
+2130. Le mandat est le contrat par lequel une personne, le mandant, donne le pouvoir de la représenter dans l'accomplissement d'un acte juridique avec un tiers, à une autre personne, le mandataire qui, par le fait de son acceptation, s'oblige à l'exercer.
+Ce pouvoir et, le cas échéant, l'écrit qui le constate, s'appellent aussi procuration.
+[34] Les termes de la relation qui existe entre les 900 producteurs de bois et le Syndicat se trouvent dans la Loi sur la mise en marché. L’appelant mise particulièrement sur l’article 65 de la Loi sur la mise en marché pour appuyer sa position voulant que le langage utilisé se prête bien à la notion de mandant/mandataire puisque cette disposition identifie l’office (le Syndicat) comme étant l’agent de négociation des producteurs et de l’agent de vente du produit visé par le plan. Cette même disposition permet à l’office d’exercer des fonctions relatives à la production et à la mise en marché du produit visé pour promouvoir, défendre et développer les intérêts des producteurs visés par le plan.
+[35] De son côté, l’intimée s’appuie sur les articles 92 et suivants de la Loi sur la mise en marché pour démontrer que les pouvoirs du Syndicat en matière de règlement sont beaucoup plus grands que les pouvoirs qu’aurait un simple mandataire. Est-ce que cette situation fait en sorte que le mandataire se trouve avec plus de pouvoir que le mandant lui-même?
+[36] La Cour d’appel fédérale, dans l’arrêt Glengarry Bingo Association c. Canada, [1999] A.C.F. no 316, a fait référence à l’énoncé de politique P-182 établi par l’Agence du Revenu du Canada comme étant un instrument utile pour se prononcer sur l’existence d’une relation de mandataire. Au paragraphe 32, on peut y lire ce qui suit :
+32 Le projet d'énoncé de politique P-182 énonce les trois éléments essentiels d'un mandat, soit le consentement du mandant et du mandataire, le pouvoir du mandataire de modifier la position juridique du mandant et le contrôle que le mandant exerce sur les actes du mandataire. Comme j'arrive à la conclusion que GBA n'avait pas le pouvoir de modifier la position juridique de ses membres, il me paraît inutile d'examiner les autres facteurs qui doivent exister, selon Revenu Canada, pour pouvoir conclure à l'existence d'une relation de mandataire.
+[37] Sur ce dernier élément essentiel, l’énoncé de politique ajoute :
+Pour qu’il y ait mandat, il doit être évident que le mandant possède un certain pouvoir sur les actes du mandataire; le mandataire agit en tant que prolongement du mandant et est par conséquent soumis aux directives et au contrôle général de celui‑ci.
+[38] À la lumière de ce dernier énoncé, il devient très difficile, à mon avis, pour l’appelant d’établir selon la prépondérance des probabilités que le mandant, les producteurs en l’espèce, possède un pouvoir tel que le mandataire (le Syndicat) puisse être soumis aux directives et au contrôle des producteurs.
+[39] L’article 1 du Règlement des producteurs de bois de la Gaspésie sur la mise en marché prévoit que tout le bois visé par le plan conjoint, soit celui des 900 producteurs en l’espèce, doit être mis en marché sous la direction et la surveillance du Syndicat. Je reproduis le texte :
+1. Le bois qui est un produit visé par le Plan conjoint des producteurs de bois de la Gaspésie (D. 73-88, 88-01-20), à l’exception du bois de chauffage et des feuillus durs de qualité sciage et déroulage, est mis en marché sous la direction et la surveillance du Syndicat des producteurs de bois de la Gaspésie.
+[40] En fait, je me dois de souscrire aux arguments de l’avocat de l’intimée lorsqu’il affirme que les dispositions de la Loi sur la mise en marché, particulièrement les articles 92 à 98, attribuent des pouvoirs au Syndicat au-delà du contrôle du mandant sans compter des pouvoirs plus grands qu’aurait un simple mandataire.
+[41] Dans cette même veine, il faut aussi se demander si ce sont les producteurs qui accordent le pouvoir au Syndicat de les représenter dans la vente de leur bois ou si ce n’est pas plutôt la Loi sur la mise en marché et les règlements qui constituent le pouvoir d’agir du Syndicat.
+[42] La Cour d’appel du Québec a tranché une question semblable dans l’arrêt Maltais c. Corporation du Parc régional du Mont Grand-Fonds Inc., REJB 2002-30662(CA). Dans cet arrêt, il était question de savoir si la Commission des normes du travail agissait à titre de mandataire du salarié. La cour a statué sur cette question comme suit :
+16 Sur la foi de cette définition, il me paraît difficile de qualifier la relation entre l’appelant et la CNT de mandat. En effet, la CNT ne tire pas l’autorité de poursuivre Grand-Fonds de la volonté de l’appelant, mais bien des dispositions de la LNT […]. Cette disposition accorde à la CNT le pouvoir «en son propre nom et pour le compte d’un salarié» d’intenter «une poursuite visant à recouvrer des sommes dues par l’employeur […] et ce, malgré […] une opposition ou renonciation expresse et implicite du salarié».
+17 En l’espèce, la CNT tire son pouvoir d’agir pour le compte de l’appelant non pas de ce dernier, mais bien de la Loi. (Je souligne)
+[43] Le Syndicat en l’espèce fait beaucoup plus que d’agir comme un simple vendeur de bois au titre de mandataire pour un producteur. L’ensemble des dispositions législatives présente un contexte beaucoup plus important qui comprend une mise en marché tel que le Règlement le définit dans son article 2.
+[44] À mon avis, le Syndicat ne peut être considéré comme un mandataire des producteurs puisqu’il n’est pas soumis aux directives et au contrôle général de ceux-ci, mais plutôt se doit d’agir en conformité avec la Loi sur la mise en marché et ses Règlements.
+[45] Même si ma conclusion dispose du présent appel, je dois ajouter que la cinquième condition pour l’application du paragraphe 177(1) n’est pas présente en l’espèce soit que l’appelant se doit d’effectuer la fourniture pour le compte des producteurs de bois.
+[46] Le paragraphe 177(1) contrairement aux prétentions de l’avocat de l’appelant ne comprend que les cas dans lesquels une personne effectue la fourniture d’un bien meuble corporel. À mon avis, cette disposition ne prévoit pas que ces termes incluent également tout ce qui est lié à la production de la fourniture. L’ensemble de la preuve et les dispositions législatives prévoient que le Syndicat ne produit aucune fourniture, mais agit plutôt à titre d’office régulateur.
+[47] Les montants qui sont prélevés des revenus provenant de la vente du bois pour les producteurs sont conformément aux lois statutaires et les règlements régissant les activités forestières de la région. Les montants prélevés sont :
+· Les frais de transport retenus du prix brut de la vente du bois sont considérés comme étant des frais de mise en marché par l’article 3 de la Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche.
+· Les montants appelés « prélevés » sont statutaires et se retrouvent à l’article 2 du Règlement sur la contribution des producteurs de bois de la Gaspésie pour l’administration du plan conjoint ainsi qu’à l’article 2 du Règlement sur le fonds forestier des producteurs de bois de la Gaspésie.
+· Les frais pour l’administration de l’agence et pour l’agent exclusif sont prévus au Règlement sur la mise en marché des produits agricoles, alimentaires et de la pêche aux articles 12 et suivants.
+[48] À mon avis, ces frais résultent de services qui ne peuvent être considérés comme étant la fourniture d’un bien meuble corporel étant donné qu’ils sont tous prescrits par des règlements ayant pour but de régulariser et faciliter la coordination de la production et de la vente du bois en Gaspésie. Les services offerts par le Syndicat ont été énumérés antérieurement. Les services ne peuvent donc être inclus au paragraphe 177(1) et ils sont donc assujettis à la TPS.
+[49] Pour ces motifs, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 4e jour d’avril 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008CCI99
+Nº DU DOSSIER DE LA COUR : 2006-1214(GST)G
+INTITULÉ DE LA CAUSE : Le Syndicat des Producteurs de Bois de la Gaspésie et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : New Carlisle (Québec)
+DATE DE L’AUDIENCE : le 5 mai 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 4 avril 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+Me André A. Lévesque
+Avocat de l'intimée :
+Me Michel Morel
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me André A. Lévesque
+Cabinet : St-Onge, Assels
+New Carlisle (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

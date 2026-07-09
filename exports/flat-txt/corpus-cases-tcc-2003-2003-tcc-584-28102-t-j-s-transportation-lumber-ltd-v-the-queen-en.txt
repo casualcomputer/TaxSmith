@@ -1,0 +1,118 @@
+Title: T.J.'S Transportation & Lumber Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28102/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-584-28102-t-j-s-transportation-lumber-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-09-03
+
+# T.J.'S Transportation & Lumber Ltd. v. The Queen
+
+- Citation: 2003 TCC 584
+- Decision date: 2003-09-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1687, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+T.J.'S Transportation & Lumber Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-03
+Neutral citation
+2003 TCC 584
+File numbers
+2002-744(IT)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-744(IT)G
+BETWEEN:
+T.J.'S TRANSPORTATION & LUMBER LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 12, 2003, at Winnipeg, Manitoba
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Agent for the Appellant:
+Trudy Obie
+Counsel for the Respondent:
+Perry Derksen
+____________________________________________________________________
+ORDER
+Upon motion made that the agent be permitted to represent the Appellant without legal counsel;
+Upon reading the Affidavit of Trudy Obie filed and other materials filed;
+And upon hearing the agent for the Appellant and counsel for the Respondent and considering the Respondent's written submissions;
+The motion is granted, without costs, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 3rd day of September 2003.
+"J.E. Hershfield"
+Hershfield, J.
+Citation: 2003TCC584
+Date: 20030903
+Docket: 2002-744(IT)G
+BETWEEN:
+T.J.'S TRANSPORTATION & LUMBER LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hershfield, J.
+[1] The Appellant having filed a Notice of Appeal under the General Procedure brought a motion on June 12, 2003 to be represented at the hearing of its appeal by Trudy Obie who is a shareholder and officer of the Appellant corporation. The appeal concerns a section 160 assessment for over $40,000.00 in respect of a non-arm's length transfer of property for less than fair market value to the corporation.
+[2] Ms. Obie appeared at the hearing of the motion and testified as to the Appellant's financial inability to retain legal counsel to represent it at a hearing of the appeal. A financial statement for the year ending December 31, 2001 was presented at the hearing. A more current financial statement was not then available.
+[3] Ms. Obie was unable to answer questions relating to the statements presented to me. She appeared unsophisticated in terms of how to read a statement. She had a lay understanding at best as to the significance of entries on the statements and appeared to have little or no understanding of the legal relationships between a corporation and its shareholders and its creditors; nor did she understand, or so it seemed to me at the time, the legal implications of her testimony. She said for example that although her father was not a shareholder of the Appellant corporation, he had advanced funds ($200,000.00) reflected on the statements as shareholder loans.
+[4] On the other hand, Ms. Obie operates the business of the Appellant first hand and seems to have knowledge of its cash flow and general operating position. Although no ledgers were available at the hearing she seemed very capable in identifying, by reading off a bank statement, exactly what various deposits and withdrawals were. However, she could not answer questions concerning the Appellant corporation's equity in certain of its assets such as land and buildings. Still, she suggested that she was the only person sufficiently active in the business to know its affairs and was adamant that it could not afford legal assistance. The 2001 statements showed net income of $1,649.00 and an accumulated deficit of some $78,000.00
+[5] While the Respondent seemed to accept that Ms. Obie and her brother were the sole shareholders of the Appellant corporation, there seemed to be some question as to her office. In the circumstances and having reservations about her competence to represent the Appellant, I requested that Ms. Obie provide an authorization from the shareholders of the Appellant corporation and its Board of Directors that she was authorized to represent the Appellant corporation in the subject appeal should I allow the motion. Further, I requested more current financial information including current asset values (as opposed to book values) and current bank statements. I reserved my decision on the motion pending my receipt and consideration of such further submissions.
+[6] The Appellant submitted a list of fixed assets with a total value of $149,680.00 including land and buildings assessed, for property tax purposes, at $119,000.00 which the Respondent submitted was not representative of the fair market value of the property. The financial statements for the Appellant corporation for the year ending December 31, 2002, also submitted, showed the book value of fixed assets as $235,511.00 and current assets at $2,157.00. Current loans to financial institutions were $54,000.00 and current shareholder loans were $200,000.00. The December 31, 2002 statements also show an additional private loan of some $11,500.00 and additional shareholder loans of some $54,000.00. The deficit is shown at some $80,000.00. Using asserted fixed asset values the deficit would be higher. Still, I might speculate that there is sufficient equity in land and buildings to generate funds to finance retention of legal counsel in respect of the subject appeal. However, I am in no position to make an order that would require a sale of assets or further debt financing. As to further debt financing, debt service may be a bar in any event. As stated, net income in 2001 was only $1,649.00. There is a net loss shown on the 2002 statements of $2,082.00.
+[7] Further, while the shareholder loans may, in this case, be a potential issue, shareholders (or related persons) cannot be forced to advance funds or subordinate their existing advances to new creditors simply because I might be inclined to think that it might be a good strategy weighed against the alternative which is to have Ms. Obie represent the Appellant corporation in this appeal. Without the shareholders adopting such strategy, the Appellant corporation cannot afford a lawyer to represent it.
+[8] The Respondent has not taken issue with the fact that the only shareholders of the Appellant corporation are Ms. Obie and her brother. In the submissions received since the adjournment of the June 12 hearing, I have received her brother's authorization for Ms. Obie to represent the Appellant corporation in the appeal. While I did not receive the authorization of the Board of Directors as requested, I know of no authority that requires a court in these circumstances to go even as far as I have gone to seek assurances that the Appellant has properly authorized its agent. In addition to being all of the shareholders of the Appellant corporation, Ms. Obie and her brother have represented themselves as officers of the Appellant corporation and both have confirmed that Ms. Obie is authorized to represent the Appellant corporation in the subject appeal. The Notice of Appeal was signed by Ms. Obie and her brother. Having their authorization for the motion as brought is thereby sufficient in my view to protect the integrity of the proceedings.
+[9] The submissions received also assert that the shareholder loan is, in effect, held beneficially for Ms. Obie's father. The Respondent takes issue with this for reasons that are not properly before me. The status of the shareholder loan does not relate to the question of the Appellant's ability to pay a lawyer unless the entry is a fraud and even then, it is hard to see, given my remarks above, how that would help finance legal representation in respect of the subject appeal. I am not prepared to reopen the hearing to hear evidence on the status of the shareholder loans. If the Respondent wants to pursue such issue it may do so at the appeal or in another forum upon the disposition of the subject appeal.
+[10] The Respondent also asserts that I heard evidence at the hearing that funds were being drawn from the Appellant corporation by the shareholders for their personal expenses. These were not reflective of excessive withdrawals and, as I understand, they were ultimately reconciled as part of the compensation of the shareholders in their role as employees of the corporation.
+[11] I have examined the bank statements submitted and while they do not speak for themselves, in terms of what the entries are for, there is nothing in the cash flow that inclines me not to accept Ms. Obie's testimony that the Appellant corporation has no funds to pay a lawyer. The Respondent has not suggested that I should re-open the hearing so as to permit cross-examination on such statements.
+[12] The Respondent has not consented to the motion. While it has concerns as to the reliability of the balance sheet submitted, its strongest objection is that Ms. Obie will not be able to handle the legal issues at a trial of the appeal. While I have similar reservations as to the latter concern, I am not thereby dissuaded from granting the motion. Essentially, what Ms. Obie testified to at the hearing on June 12, 2003 is what the submissions continue to assert. I will not second‑guess the wisdom of her representing the corporation.
+[13] Respondent's counsel cites Pratts Wholesale Limited v. The Queen, 98 DTC 1561 (T.C.C.) (as embraced by Bowman, A.C.J. in Chase Bryant v. The Queen, 2003 DTC 145 (T.C.C.) where Beaubier, J. (relying on Kobetek Systems Ltd. v. R., [1998] 1 C.T.C. 308 (F.C.T.D.) set out the facts to consider in a motion to have a non-lawyer represent a corporation in a tax appeal. They are:
+1) Whether the corporation can pay for a lawyer;
+2) Whether the proposed representative will be required to appear as advocate and as witness;
+3) The complexity of the legal issue to be determined (and therefore whether it appears that the representative will be able to handle the legal issue); and
+4) Whether the action can proceed in an expeditious manner.
+[14] Judge Bowie in RFA Natural Gas Inc. v. R., [2000] G.S.T.C. 40 (TCC) casts doubt on the second factor being properly included. He also comments that the problem with having complex cases proceed without competent representation is a matter this Court deals with frequently as if to suggest it should not be given much weight. I tend to agree with this to the extent including such factor amounts to little more than paternalistically protecting the Appellant against itself. On the other hand if it impedes the expeditious prosecution of the appeal, it takes on more significance. In that regard I see no reason why this appeal cannot proceed expeditiously with Ms. Obie as the Appellant corporation's representative.
+[15] I also note that in both Mavito Inc. v. The Queen, 2000 DTC 1972 (TCC) and Thompson Motors Co. Ltd. v. The Queen, 2002 DTC 2006 (TCC) both Tardif, J. and Little, J. held respectively that the lack of financial resources is decisive on the question before me. In the instant case, the Appellant corporation lacks the financial resources to retain counsel.
+[16] Accordingly the motion is granted, without costs. Ms. Obie shall be allowed to represent the Appellant corporation in the subject appeal.
+Signed at Ottawa, Canada this 3rd day September of 2003.
+"J.E. Hershfield"
+Hershfield, J.
+CITATION:
+2003TCC584
+COURT FILE NO.:
+2002-744(IT)G
+STYLE OF CAUSE:
+T.J.'s Transportation & Lumber Ltd. v. Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+June 12, 2003
+REASONS FOR ORDER BY:
+The Honourable Justice
+J.E. Hershfield
+DATE OF JUDGMENT:
+September 3, 2003
+APPEARANCES:
+Agent for the Appellant:
+Trudy Obie
+Counsel for the Respondent:
+Perry Derksen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

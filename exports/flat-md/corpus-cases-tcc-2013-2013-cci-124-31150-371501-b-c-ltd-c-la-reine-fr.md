@@ -1,0 +1,358 @@
+---
+title: "371501 B.C. Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31150/index.do"
+last_modified: "2013-04-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 124"
+citation2: ""
+neutral_citation: "2013 CCI 124"
+decision_date: "2013-04-24"
+language: "fr"
+item_id: "31150"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4739
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:21:58.156000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "21e318b7cc33ec963551cfdd069ad160e2a0e1be35ace936c98aec5bf28fa692"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 371501 B.C. Ltd. c. La Reine
+
+- Citation: 2013 CCI 124
+- Decision date: 2013-04-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4739, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+371501 B.C. Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-24
+Référence neutre
+2013 CCI 124
+Numéro de dossier
+2009-715(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-715(IT)I
+ENTRE :
+371501 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 15 mars 2010 et le 2 décembre 2010, à Calgary (Alberta).
+Devant : L’honorable juge en chef Gerald J. Rip
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Virginia A. Engel
+Me Patrick Robinson
+Avocate de l’intimée :
+Me Marla Teeling
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2003 et 2004 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations, compte tenu du fait que l’appelante a le droit, dans le calcul de son revenu pour 2003 et 2004, de déduire les montants suivants :
+a) le montant de 3 977 $ dans le calcul de son revenu pour son année d’imposition 2003;
+b) le montant de 13 759 $ pour son année d’imposition 2004.
+Chacune des parties dispose de 30 jours à partir de la date du présent jugement pour fournir à la Cour des observations écrites au sujet des dépens relativement à la demande de réouverture des appels et au retrait de cette demande.
+Signé à Ottawa, Canada, ce 24e jour d’avril 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 14e jour de juin 2013.
+Espérance Mabushi, M.A. Trad. Jur
+Référence : 2013 CCI 124
+Date : 20130424
+Dossier : 2009-715(IT)I
+ENTRE :
+371501 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+et
+Dossier : 2009-789(IT)I
+ENTRE :
+440214 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Tout comme dans les appels interjetés dans l’affaire Dr. Mike Orth Inc. c. La Reine (« Dr. Orth »), dans les appels interjetés sous le régime de la procédure informelle par 371501 B.C. Ltd. (la société « 371 » ou l’« appelante ») et par 440214 B.C. Ltd. (la société « 440 »), la question essentielle est de savoir si les dépenses que les appelantes auraient supportées ont été effectuées en vue de tirer un revenu d’une entreprise; les dépenses déduites concernent des honoraires professionnels payés pour des services rendus par un cabinet d’avocats. Les appels portent sur les années d’imposition 2003 et 2004.
+[2] Les honoraires pour services rendus facturés à la société 440, et qui sont en cause dans les appels que celle-ci a interjetés, ont un objet semblable à celui des honoraires pour services rendus facturés à la société 371, honoraires à l’égard desquels cette dernière a interjeté appel. L’intimée et la société 440 ont convenu que les appels interjetés par la société 440 seront traités suivant la décision de la Cour relativement aux factures correspondantes qui sont en question dans les appels interjetés par la société 371, à l’exclusion de la taxe sur les produits et services[1]. Les factures correspondantes sont décrites au paragraphe 16 des présents motifs.
+[3] Les appels interjetés par la société 371 ont été entendus immédiatement après les appels interjetés dans l’affaire Dr. Orth. Dans les deux affaires, la preuve est la même pour une bonne part, les avocats sont les mêmes et le témoin de l’appelante est le même, à savoir Thomas Howard Olson. Les appels concernant l’affaire Dr. Orth ont souvent été mentionnés dans la preuve et lors des plaidoiries. Me Olson est l’avocat de l’appelante et est associé principal au cabinet d’avocats Olson, Lemons LLP (le cabinet « Olson Lemons »). En effet, la question sous‑jacente à la raison ayant mené à l’établissement des cotisations par l’Agence du revenu du Canada (l’« ARC ») est la même, c’est‑à‑dire, le privilège des communications entre client et avocat. L’appelante soutient que, bien qu’elle ait fourni aux fonctionnaires de l’ARC les copies des factures pour des services juridiques rendus, elle a refusé de satisfaire à la deuxième demande de l’ARC de fournir une description détaillée des services juridiques précis fournis, étant donné que de tels renseignements sont protégés par le secret professionnel. L’une des principales différences entre les présents appels et ceux interjetés dans l’affaire Dr. Orth tient au fait qu’en l’espèce, on m’a fourni les déclarations de revenus de l’appelante, y compris ses états financiers pour les années en question. Ces documents ont été utiles à la Cour pour l’examen des présents appels.
+[4] L’intimée se plaint que les factures ne satisfont pas aux exigences du paragraphe 230(1) de la Loi de l’impôt sur le revenu (la « loi »), selon lesquelles quiconque exploite une entreprise et est obligé de payer ou de percevoir des impôts doit tenir des registres et des livres de comptes dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la Loi. L’intimée soutient que l’ARC ne peut pas établir, à partir des seuls renseignements figurant sur les factures, si les honoraires étaient déductibles dans le calcul du revenu. L’ARC a besoin d’une description des services juridiques rendus relativement aux honoraires facturés en cause. L’intimée, toutefois, ne réfute pas la position de l’appelante selon laquelle celle‑ci a le droit d’invoquer le privilège des communications entre client et avocat dans le contexte du litige.
+[5] Malgré le droit de l’appelante d’invoquer le privilège des communications entre client et avocat, la charge de la preuve incombe toujours à l’appelante, dans les appels qu’elle a interjetés, de démolir les hypothèses du ministre ayant mené à l’établissement des cotisations. Dans la décision Dr. Orth, j’ai fait les observations suivantes, qui s’appliquent également en l’espèce :
+[12] Pour établir une cotisation, le ministre se fonde sur des présomptions de fait[2] qui l’amènent à établir une cotisation d’une manière particulière. La charge initiale de « démolir » les présomptions formulées par le ministre dans la cotisation qu’il a établie est imposée au contribuable[3]. Le fardeau initial de l’appelante consiste seulement à « démolir » les présomptions exactes qu’a utilisées le ministre, mais rien de plus[4].
+[13] La juge L’Heureux‑Dubé a fait l’observation suivante dans l’arrêt Hickman Motors Ltd c. Canada, [1997] 2 R.C.S. 336, au paragraphe 93 :
+L’appelant s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie […]
+[14] Une fois que les présomptions du ministre ont été « démolies » par l’appelant, il incombe au ministre de réfuter la preuve prima facie présentée par l’appelant et d’apporter la preuve des ses présomptions[5].
+[15] Étant donné la preuve dont je suis saisi, je dois décider si la preuve présentée par l’appelante est suffisante pour démolir toutes les présomptions du ministre, ou l’une ou l’autre d’entre elles. Compte tenu du degré de la preuve présentée par l’appelante, celle‑ci a‑t‑elle établi une preuve prima facie? Qu’est‑ce qu’une preuve prima facie dans un appel en matière d’impôt sur le revenu?
+[16] Dans l’arrêt Amiante Spec. Inc. c. La Reine[6], au paragraphe 23, la juge Trudel a cité les observations faites par le juge Cain dans l’arrêt Stewart v. Canada[7] :
+Une preuve prima facie est celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé. Une preuve prima facie n’est pas la même chose qu’une preuve concluante, qui exclut la possibilité que toute conclusion autre que celle établie par cette preuve soit vraie [...]
+[17] La juge Trudel a continué ainsi, au paragraphe 24 de l’arrêt Amiante Spec. Inc. :
+Bien qu’il ne s’agisse pas d’une preuve concluante, « le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement » considérant « qu’il s’agit de l’entreprise du contribuable » (Voitures Orly inc. c. Canada, 2005 CAF 425 au paragraphe 20). Cette Cour a précisé que c’est le contribuable « qui sait comment et pourquoi son entreprise fonctionne comme elle le fait et pas autrement. Il connaît et possède des renseignements dont le ministre ne dispose pas. Il possède des renseignements qui sont à sa portée et sur lesquels il exerce un contrôle » (ibid.).
+[18] Récemment, la juge Huddart, de la Cour d’appel de la Colombie‑Britannique, a examiné la nature du fardeau de la preuve qui incombait à un contribuable dans l’arrêt Northern Properties Corp. v. British Columbia[8]. Au paragraphe 33 de l’arrêt, elle a décrit ce qu’il faut pour établir une preuve prima facie, et comment la preuve de l’appelant qui établirait par ailleurs une preuve prima facie peut être valablement contestée par l’intimée pour éviter une inversion du fardeau de la preuve. Voici la teneur des observations de la juge Huddart :
+[traduction]
+En réponse aux observations du contribuable, la Couronne peut présenter sa propre preuve en vue d’établir que les hypothèses sont exactes ou de démontrer qu’indépendamment des hypothèses, la cotisation est néanmoins fondée : Pillsbury, p. 5188; Pollock, p. 6053. La Couronne peut également contester la preuve du contribuable dans le cadre du contre-interrogatoire, ou en soulevant de sérieuses questions de crédibilité. Un tribunal peut tirer une déduction défavorable « de l’omission du contribuable de présenter une preuve substantielle qui est en sa possession ou sur laquelle il exerce un contrôle » et conclure que le contribuable n’a pas satisfait au fardeau initial qui lui incombait de réfuter une hypothèse ou des hypothèses : Trac[9], au paragraphe 31. Une fois que la totalité de la preuve a été présentée, le juge doit la soupeser et décider d’abord si le contribuable a satisfait au fardeau juridique initial à l’égard des hypothèses. Si le contribuable n’a pas satisfait à ce fardeau, la Couronne n’a pas à s’acquitter de son fardeau juridique conditionnel puisque la condition n’a pas été remplie.
+[Non souligné dans l’original.]
+[19] Plus tôt, dans l’arrêt The Queen v. Peter K.S. Wu[10], le juge Strayer a donné un exemple où le témoignage d’un contribuable, à l’égard duquel le contribuable n’avait pas présenté de contre‑preuve, n’a néanmoins pas permis d’établir une preuve prima facie. Pour infirmer une décision de la Cour selon laquelle le témoignage d’une personne, malgré le fait que la personne soit évasive et peu convaincante et qu’elle ne se rappelle pas ce qui s’était passé, devait être accepté étant donné qu’il s’agissait du seul témoignage dont la Cour était saisie, le juge Strayer a fait les observations suivantes, à la page 6006 :
+Le juge n’a pas pris en compte la charge de la preuve que faisait peser sur le contribuable la présomption faite par le ministre qu’il s’agissait justement là de l’un des motifs du versement des dividendes en actions au contribuable. En d’autres termes, il incombait en l’espèce au contribuable de prouver qu’il n’en était rien. N’empêche que tout en jugeant peu convaincant le témoignage de ce dernier,[…] il a conclu que puisqu’il s’agissait là de la seule preuve produite en l’espèce, il devait y ajouter foi. Il aurait dû plutôt examiner si ce témoignage satisfaisait au critère de l’explication objectivement raisonnable, par laquelle le contribuable pourrait s’acquitter de la charge qui lui incombait […]
+[Non souligné dans l’original.]
+[20] Le contribuable qui souhaite établir une preuve prima facie pour démolir l’ensemble ou une partie des présomptions du ministre doit non seulement présenter une preuve hautement probable qui doit être acceptée par la Cour, mais doit aussi permettre à l’avocat de l’intimée de procéder à un contre‑interrogatoire équitable et transparent à l’égard de la preuve. L’avocat a le droit de contester vivement la preuve du contribuable lors du contre‑interrogatoire. Le contribuable qui invoque le privilège des communications entre client et avocat en contre‑interrogatoire à l’égard de questions qu’il a présentées en interrogatoire principal, limitant ainsi le contre‑interrogatoire, doit tenir compte des conséquences possibles. Le contribuable qui fait valoir le privilège et qui souhaite inverser le fardeau de la preuve doit néanmoins établir une preuve susceptible de résister au contre-interrogatoire.
+[21] Ainsi, une des tâches qui m’incombent, en l’espèce, est de décider si l’appelante, tout en conservant son droit concernant le privilège des communications entre client et avocat, a présenté une preuve qui inverse la charge qui lui incombait du fait des présomptions du ministre.
+[6] Me Olson a expliqué qu’à la suite d’une notification de l’ARC quant à la vérification qui doit être faite à l’égard d’un client, la pratique courante consiste pour lui de déterminer les documents recherchés et de demander au client de les envoyer à son cabinet. Les documents sont alors organisés d’une [traduction] « manière logique » pour faciliter la tâche au vérificateur. Le vérificateur est invité au cabinet Olson Lemons pour examiner les documents et où il peut obtenir des services de photocopies et de l’aide. Les registres des procès‑verbaux et le grand livre général du client sont [traduction] « toujours » au cabinet et à la disposition de l’ARC. Les documents originaux sont conservés au cabinet; des copies sont faites à la demande de l’ARC. Il s’agit d’une pratique courante concernant tous les clients, aussi bien ceux situés à Calagary que ceux se trouvant ailleurs au Canada. Parfois, si le dossier n’est pas trop [traduction] « volumineux », des copies de documents sont envoyées à l’ARC.
+[7] En 2003, l’appelante exerçait l’activité de ramassage et d’élimination de déchets industriels dans la région de Cranbrook, en Colombie‑Britannique, sous la dénomination sociale Scanland’s Vacuum Tankers Ltd. En 2004, à la vente de sa société, l’appelante a changé son nom commercial et est devenue [traduction] « principalement » une société de placement.
+[8] Les actionnaires de l’appelante sont James Orth et Mme Orth. Me Olson croit que, [traduction] « si je me rappelle bien », les enfants étaient actionnaires au moyen d’une fiducie familiale. Me Olson croyait aussi que des frères et sœurs ainsi que des membres de la famille détenaient des actions auprès de l’appelante.
+[9] L’exercice de l’appelante se termine le 31 octobre.
+[10] Selon Me Olson, le 9 mars 2007, au cours de la vérification, M. J. Amm, un vérificateur de l’ARC et témoin en l’espèce, a adressé à un certain Me B. Kearl, un avocat au cabinet Olson Lemons, une lettre de proposition concernant la vérification, dans laquelle l’ARC accordait à l’appelante une déduction à l’égard de l’année 2003 pour des honoraires professionnels de 6 640,33 $ relativement au [traduction] « respect des obligations fiscales[11] » en 2002 et pour la préparation d’états financiers et de déclarations de revenus à la fin de l’exercice. Pour 2004, M. Amm a proposé que l’appelante soit autorisée à déduire 2 140 $ au titre de frais de comptabilité et 5 962 $ pour le [traduction] « respect des obligations fiscales » relativement à 2003.
+[11] M. Amm a indiqué que l’ARC ne pouvait pas accepter la déduction d’autres frais figurant sous les descriptions plus générales de [traduction] « questions d’ordre général, de conseils en matière fiscale et de comptabilisation des honoraires », parce que l’ARC soupçonnait que ces frais concernaient des services personnels fournis aux actionnaires. Me Olson ne savait pas si M. Amm avait soulevé la question de savoir si certaines factures avaient trait à des dépenses en capital plutôt qu’à des dépenses courantes.
+[12] Me Olson a nié que des services personnels aient été fournis aux actionnaires. Il a déclaré que tout travail effectué pour le compte d’un actionnaire était facturé à l’actionnaire. Toutefois, le travail effectué pour déterminer la manière dont les dividendes doivent être versés aux actionnaires en fonction de leur situation personnelle est facturé à la société.
+[13] L’ARC a effectivement accepté la demande de déduction de dépenses supportées pour la préparation de déclarations de revenus de la société. L’ARC a refusé les [traduction] « demandes de déduction non étayées pour des honoraires professionnels » de 10 269 $ et de 37 184 $ lors de l’établissement de cotisations pour les années d’imposition 2003 et 2004, respectivement. L’ARC a également refusé « les demandes de déductions non étayées pour des frais d’assurance » de 15 982 $ et de 9 479 $ lors de l’établissement de cotisations pour 2003 et 2004, respectivement. La Cour n’est pas saisie de la validité des demandes de déductions concernant les frais d’assurance.
+[14] À l’audience, il n’y avait qu’une facture en litige pour l’année d’imposition 2003 et six factures pour l’année d’imposition 2004. Tout comme dans les appels interjetés dans l’affaire Dr. Orth, toutes les factures concernent des [traduction] « honoraires pour services rendus », plus des débours.
+[15] Pour les besoins de l’audience, l’appelante a inclus dans son recueil de documents deux annexes préparées pour l’audience, une pour 2003 et l’autre pour 2004, dans lesquelles les déductions demandées dans chacune des années sont décrites de la manière suivante :
+[traduction]
+2003
+Date
+No de la facture
+ARC - no de page
+Montant (TPS non comprise)
+Explication
+Analyse de la déclaration de revenus
+Préparation de documents et conseils en matière fiscale
+21 Oct.‑2003
+310063
+000180
+5 962 $
+-souscription d’actions
+- rémunération
+- dividendes
+3 280 $
+2 682 $
+2004
+Date
+No de la facture
+ARC ‑ no de page
+Montant (TPS non comprise))
+Explication
+Analyse de la déclaration de revenus
+Préparation de documents et conseils en matière fiscale
+5 avr.-2004
+404064
+000188
+13 833 $
+-1/3 de la facture pour la vente de la société
+0 $
+13 833 $
+986 $
+1er Juin‑2004
+406037
+000189
+986 $
+22 déc ‑ 2003
+312032
+000185
+7 893 $
+- rémunération
+- dividendes
+-nouvelles catégories d’actions
+-analyse du revenu imposable découlant de la vente
+5 504 $
+8 255 $
+27 janv. ‑ 2004
+401079
+000186
+4 776 $
+30 mai ‑ 2004
+405071
+000187
+1 000 $
+19 avril ‑ 2005
+504591
+1 500 $
+(du total de 5 043 $)
+-déclaration de revenus
+- comptabilisation
+1 500 $
+0 $
+[16] Les factures correspondantes établies à l’égard des sociétés 440 et 371 sont décrites dans la lettre de l’entente conclue entre les parties et mentionnée au paragraphe 2 des présents motifs. Ces factures se présentent de la manière suivante :
+[traduction]
+Année d’imposition
+4401214 BC
+Objet
+371501 BC
+2003
+Facture no 310065
+1 033 $
+1 033 $
+1 033 $
+2 530 $
+Prime/rémunération
+Souscription d’actions
+Dividendes
+Analyse juridique – Déclaration de revenus
+Facture no 310063
+894 $
+894 $
+894 $
+3 280 $
+2004
+Facture no 404064
+1/3 de 41 500 $ = 13 833 $
+Facture no 406037
+1/3 de 2 956,70 $ = 986 $
+Vente de la société
+Vente de la société
+Facture no 404064
+1/3 de 41 500 $ = 13 833 $
+Facture no 406037
+1/3 de 2 956,70 $ = 986 $
+2004
+Facture no 408555
+1 075 $
+1 075 $
+3 103 $
+Prime/rémunération
+Dividendes
+Analyse juridique – déclaration de revenus
+Facture nos 312032, 401079, 405071
+25 % de 8 255 $ *
+25 % de 8 255 $ *
+5 504 $
+2004
+facture no 504595
+1 500 $
+Déclarations de revenus (comptabilisés)
+Facture no 504591
+1 500 $
+* Les factures nos 312032, 401079 et 405071 comprennent aussi d’autres services juridiques qui ne concernent pas l’appel interjeté par la société 440 pour 2004.
+[17] Me Olson a déclaré qu’une grande partie des renseignements décrits dans ces documents sont du domaine public et qu’ils ne sont pas assujettis au privilège des communications entre client et avocat. Je comprends que, selon Me Olson, les « documents du domaine public » comprennent des documents tels que les déclarations de revenus, les états financiers et le registre des procès‑verbaux. Alors que les déclarations de revenus de l’appelante ont été produites, le registre des procès‑verbaux n’a pas été produit.
+[18] La seule facture pour 2003 est celle qui porte le numéro 0310063, datée du 21 octobre 2003, qui fait état d’honoraires pour des services rendus et de débours de 5 961,96 $. Le montant de 5 961,96 $ a été divisé en deux : 426,82 $ et 3 280 $. Pour ce qui est du montant de 426,82 $, les rubriques suivantes se sont vues attribuer chacune un tiers de ce montant : prime et rémunération, souscription d’actions ainsi que dividendes. Le montant de 3 280 $ concernait une analyse juridique de la déclaration de revenus.
+[19] Me Olson a expliqué que l’[traduction] « analyse de la déclaration de revenus » en 2003 concernait [traduction] « un rapport qui avait été établi relativement à la rémunération, aux dividendes et à la souscription d’actions », préparé par des avocats soit pour permettre à la cliente de verser les dividendes ou la rémunération et de faire des retenues à la source appropriées soit pour mettre les comptables au courant de formulaires qu’il fallait remplir [traduction] « et de toute autre question liée à l’établissement de rapports ».
+[20] L’appelante n’avait pas conclu d’entente générale de provision sur honoraires avec Olson Lemons. Les honoraires pour les services réels, au nombre de trois, étaient fixes. Toutefois, Olson Lemons a entrepris une analyse de la déclaration de revenus qui [traduction] « comprenait les conséquences de ces éléments aussi bien que d’autres questions telles que l’association à d’autres sociétés et autres ».
+[21] En réponse à une question que je lui ai posée, Me Olson a répondu que les honoraires figurant sur la facture no 0310063 comprenaient un montant qui avait été attribué aux rubriques suivantes, chacune pour un tiers : la souscription d’action, la rémunération et les dividendes. L’analyse d’une déclaration de revenus prend plus de temps, étant donné qu’elle peut comprendre des conseils d’ordre général en matière fiscale, une analyse relative à l’association avec d’autres sociétés et une analyse connexe de la société, des aspects qui ne sont pas du domaine public. Un examen des pièces n’indique aucune souscription d’actions en 2003. Je tiens à souligner que les renseignements concernant les actionnaires sont les mêmes dans les deux déclarations de revenus pour 2003 et 2004. Bien que le fait de fournir des conseils sur la souscription d’actions n’exige pas que des actions soient effectivement souscrites, à mon avis, Me Olson n’a pas donné d’explication, même en des termes généraux clairs, en ce qui concerne les services rendus. Toutefois, il a témoigné que son cabinet avait modifié les statuts de l’appelante pour substituer le [traduction] « style » d’actions du cabinet aux actions qui étaient initialement mentionnées dans les statuts. Je ne sais pas s’il s’agit là de ce que Me Olson a appelé [traduction] « une souscription d’actions ».
+[22] Les factures concernant l’année d’imposition 2004
+a) Facture no 0404064, datée du 5 avril 2004 : honoraires pour services rendus : 41 500 $
+L’appelante soutient que cette facture concernait la préparation de documents juridiques pour la vente d’actifs de la société et que le montant de la facture a été déduit du revenu à titre de dépense courante. Me Olson a reconnu l’erreur, qui avait été commise par l’aide‑comptable de l’appelante, et a déclaré que ces honoraires auraient dû être déduits dans le calcul du produit de disposition. Me Olson croyait que le fait de déduire les honoraires du revenu donnerait lieu à un résultat semblable à celui obtenu si les honoraires étaient déduits du produit de disposition, compte tenu du montant de récupération d’amortissement de plus de 1 000 000 $ occasionné par la vente. Me Olson a souscrit à l’avis selon lequel, en principe, l’appelante n’aurait pas dû déduire les honoraires du revenu. Les honoraires devaient être partagés entre trois contribuables différents, qui étaient des vendeurs de leurs entreprises respectives à l’égard du même acheteur. La part du montant de la facture qui revenait à l’appelante était de 14 801,67 $. Les trois vendeurs et l’acheteur des entreprises ont tous conclu une convention d’achat‑vente. Me Olson a témoigné que les vendeurs avaient convenu, entre eux, une répartition de la valeur de chacune de ces entreprises. Me Olson ne pouvait pas se rappeler s’il y avait aussi un quatrième vendeur, mais il savait qu’il avait agi pour le compte de trois vendeurs, y compris l’appelante et la société 440.
+Le montant payé à Olson Lemons pour la vente de la société ne peut pas être déduit dans le calcul du revenu tiré d’une entreprise, mais il peut être déduit du produit de disposition, et toute récupération d’amortissement devrait être incluse dans le revenu de l’appelante.
+La convention d’achat‑vente prévoyait à l’égard de certains actionnaires des vendeurs la signature d’une convention de « non‑concurrence » avec les acheteurs. Me Olson ne pouvait pas se rappeler les actionnaires qui devaient signer ni si la facture concernant l’opération était personnellement établie à leur nom. Il n’y a aucune preuve que l’un ou l’autre actionnaire a reçu plus que la contrepartie nominale pour avoir accepté de ne pas mener de concurrence, et la Couronne n’a avancé aucun montant.
+b) Facture no 0406037, datée du 1er juin 2004. Honoraires pour services rendus : 1 250 $, plus frais et débours de 1 706,70 $, total : 2 956 70 $. Un tiers de ce montant, soit 986 $, est facturable à la société 371.
+Les honoraires représentés par cette facture concernaient des travaux d’[traduction] « épuration », effectués pour finaliser la vente de la société; ils ont été aussi scindés en trois. Cette facture sera traitée de la même manière que la facture no 0404064. La nature des travaux d’[traduction] « épuration » effectués n’a pas été précisée dans la preuve et, de toute manière, ces travaux concernent une dépense en capital.
+[23] Me Olson a déclaré qu’à cause de l’état des activités de l’appelante, [traduction] « nous devions préparer, pour des raisons liées à la déclaration de la vente, comment tout cela […] ce produit devait être inclus dans une déclaration de revenus ». Il s’est rappelé que [traduction] « la déclaration de cette année était un peu plus complexe, parce que nous devions non seulement effectuer l’analyse concernant l’association, avec d’autres sociétés et autres, et la rémunération, mais nous devions aussi faire une déclaration supplémentaire relativement à la vente ».
+[24] Les trois factures suivantes concernent des projets ou des travaux exécutés par Olson Lemons sur la base d’honoraires fixes. Les factures ont été établies selon un compte provisoire :
+c) Facture no 0312032, datée du 22 décembre 2003. Honoraires pour services rendus : 7 500 $, plus frais et débours de 483,04 $, total : 7 983,04 $
+d) Facture no 0401079, datée du 27 janvier 2004. Honoraires pour services rendus : 4 750 $, plus débours de 25,72 $, total : 4 775,72 $
+e) Facture no 0405071, datée du 30 mai 2004, honoraires pour services rendus : 1 000 $
+Ces factures sont décrites, dans l’annexe pour 2004, comme ayant été établies au titre de la rémunération, des dividendes, des nouvelles catégories d’actions et du revenu imposable tiré de la vente. Du total de 13 759 $, le montant de 5 504 $ a été décrit comme se rapportant à l’[traduction] « analyse de la déclaration de revenus », et le montant de 8 255 $ a été décrit comme se rapportant aux [traduction] « conseils sur la préparation de documents et conseils en matière fiscale ».
+[25] Me Olson a expliqué que [traduction] « l’analyse de la déclaration de revenus » était une note à caractère juridique concernant les points qui devaient être inclus dans la déclaration de revenus. Il s’agissait entre autres d’éléments concernant la rémunération, y compris les primes qui devaient être versées, les retenues à la source, la déclaration de dividendes pour laquelle un feuillet T4 serait nécessaire et qui devaient être inclus dans la déclaration de revenus de la société. Me Olson a déclaré que ces questions comprenaient aussi [traduction] « une analyse de la manière dont il fallait présenter le produit de disposition et comment cela devait apparaître dans une déclaration de revenus, ainsi qu’une analyse découlant de la vente, de sorte que la société pourrait faire ses […] pourrait produire sa déclaration en conséquence ».
+[26] Me Olson a décrit une [traduction] « souscription d’actions » comme étant une question propre à chaque société et a déclaré que [traduction] « nous discutons de ces questions avec la société ». Les questions comprennent entre autres les conséquences découlant de l’émission d’actions et le type d’actions qui correspond aux objectifs de la société; si des actions sont émises, des documents sont préparés. Me Olson ne pensait pas que la [traduction] « simple émission d’actions » entraîne à elle seule des conséquences sur un actionnaire. Il a fourni les précisions suivantes :
+[traduction]
+Sûrement que ce que nous essayons de comprendre ici, c’est que, si la société a un intérêt dans l’émission d’actions, notre – notre but est de comprendre, selon nos instructions, les types d’actions qui peuvent être émises, quelles sont ses priorités, etc., relativement à d’autres actions qui pourraient être déjà en circulation, de s’entendre avec le client sur les limitations attachées à ces actions et sur les obligations qui découlent de ces actions.
+Il y a donc une série de questions qui se posent, mais, à ma connaissance, il n’y a pas d’autres attributs fiscaux à l’égard du client, découlant de la souscription d’actions, que la survenance éventuelle de questions liées à l’association avec d’autres sociétés, mais ces questions seraient traitées avec le client dans l’analyse concernant l’association.
+[27] Me Olson a également déclaré qu’une analyse concernant l’association d’une société cliente qui paie des honoraires fixes pouvait être effectuée par Olson Lemons plus d’une fois par année, en fonction des besoins, sans frais supplémentaires.
+[28] Me Olson a expliqué qu’une analyse concernant les dividendes portait notamment sur l’examen d’éléments tels que le remboursement au titre de dividendes et le compte d’impôt en main remboursable. En réponse à une question posée par l’avocate de l’intimée quant à savoir la part des conseils qui se rapporterait aux conséquences d’un dividende sur les actionnaires, Me Olson [traduction] « n’était pas tout à fait certain » de la question, bien qu’il ait admis qu’[traduction] « il s’agit là d’une des nombreuses choses que nous considérons ».
+[29] Quant à ce qui a trait à la convention d’achat‑vente de la société de l’appelante et de celles des autres personnes, Me Olson ne pouvait pas se rappeler comment on en était arrivé à la rédaction de l’entente, étant donné qu’un des avocats du cabinet, spécialisé en droit des sociétés, s’occupait du dossier. L’avocate de l’intimée a interrogé Me Olson quant aux parties à l’entente, en particulier, elle lui a demandé s’il n’avait jamais agi pour le compte de l’un des vendeurs. Me Olson ne croyait avoir jamais agi pour le compte de l’un des vendeurs, à savoir Scanland’s Excavating Ltd., et il ne pouvait pas [traduction] « se rappeler si nous représentions […] » cette société dans l’opération d’achat‑vente. Il a témoigné qu’il ne s’était pas occupé du dossier et qu’il n’avait pas examiné les dossiers juridiques de son cabinet relativement à la vente effectuée en 2004.
+[30] J’ai été quelque peu décontenancé que, malgré le fait que le cabinet de Me Olson ait analysé comment le produit de disposition de son entreprise devait être traité, les honoraires concernant l’opération réelle ont été déduits à titre de dépense courante alors que le cabinet de Me Olson savait qu’il s’agissait d’une dépense en immobilisations.
+[31] En réponse à une question que j’ai posée à Me Olson, celui‑ci a déclaré que le montant de 7 500 $ figurant à la facture no 0312032 avait trait au travail de préparation des statuts de modification de l’appelante et aux discussions avec la cliente concernant ces statuts de modification, et il a laissé entendre qu’il [traduction] « y aurait vraisemblablement lieu de faire une comparaison avec l’analyse concernant la rémunération et les dividendes », que probablement, un quart des honoraires serait lié aux statuts de modification et un quart serait lié à chacune des rubriques suivantes : dividende, nouvelles actions, rémunération et analyse du revenu imposable provenant des ventes. Olson Lemons [traduction] « a simplement substitué nos actions (standard) » à des actions préparées par une autre entreprise au moment de sa constitution en société. Me Olson a déclaré que [traduction] « le fait de le séparer en quatre est une manière raisonnable de […] d’obtenir un chiffre approximatif […] ». Toutefois, étant donné que le cabinet n’établissait pas de facturation « en fonction du temps de travail », il ne pouvait pas confirmer comment les honoraires de 8 255 $ auraient dû être attribués sur un fondement déterminé. Par exemple, il ne pouvait pas indiquer la partie des 8 255 $ qui pouvait être attribuable à l’analyse du revenu imposable provenant de la vente.
+f) Facture no 0504591, datée du 19 avril 2005 : honoraires pour services rendus : 5 000 $.
+[32] Cette facture a été envoyée après la fin de l’exercice 2004 pour des services rendus en 2004. Du total de 5 000 $, seul un montant de 1 500 $ est en question.
+Me Olson a témoigné que cette facture concernait un compte créé après la fin de l’exercice pour la préparation de la déclaration de revenus des sociétés (T2) de l’appelante pour 2004. Selon Me Olson, des honoraires avaient été convenus et des paiements avaient été faits pour les régler. Le travail avait commencé avant la fin de l’exercice 2004. Le montant a été comptabilisé. Me Olson a laissé entendre que [traduction] « 1 500 $ correspondrait au travail qui avait été vraisemblablement effectué jusqu’au moment où l’exercice avait en effet pris fin, relativement à la préparation de la déclaration ». Une déduction est accordée pour un travail qui a été effectué, non pour un travail qui a été « vraisemblablement » effectué. La demande de déduction est rejetée.
+[33] L’avocate de l’intimée a interrogé Me Olson en ce qui concerne la comptabilisation des factures faite par son cabinet. Me Olson a répondu que le travail effectué selon des honoraires fixes est fonction [traduction] « du travail que nous allions faire ». Il a expliqué qu’il négociait avec le client et qu’il établissait les honoraires fixes. Par conséquent, la facturation [traduction] « n’est pas entièrement utile » parce qu’[traduction] « elle n’est pas répartie en fonction du temps consigné, soit la manière dont je préfère faire la répartition […] ». La description du travail effectué pouvait être brève ou [traduction] « pas aussi brève ». Me Olson a avancé qu’il n’était pas utile de se fier simplement aux relevés de temps.
+[34] Les honoraires sont calculés en fonction du moment où le travail a été fait, afin de prévoir des coûts visant à couvrir les travaux. Les relevés de temps n’étaient pas répartis par tâche, mais l’on [traduction] « pouvait en déduire le travail qui était effectué, et on pouvait donc probablement déterminer certains travaux qui étaient effectués, mais pour un bon nombre d’entre eux, on ne peut pas ». Me Olson a concédé que les inscriptions n’étaient pas très utiles [traduction] « si on voulait faire une répartition » du travail réel accompli. Mais il pensait que sa prévision des coûts était comparable à celle d’un constructeur de résidences.
+[35] Lors de la vérification qu’il a faite à l’égard de l’appelante, M. Amm a examiné des documents qu’il examinerait normalement au cours d’une vérification semblable : les états financiers, les déclarations de revenus des sociétés, les déclarations de revenus des particuliers concernant les actionnaires, le grand livre général, la balance de fin d’exercice et les écritures de redressement, la vente de l’équipement de l’entreprise, la déduction pour amortissement, les documents relatifs à la paie, les dépenses de l’avocat, les frais d’assurance et les honoraires professionnels. En réalité, tous les documents que M. Amm a demandés à l’appelante lui ont été fournis, et l’appelante a été autorisée à déduire du revenu toutes les dépenses qu’elle avait déclarées, à l’exception de certaines primes d’assurance et de la plupart des honoraires d’avocats [traduction] « pour lesquels nous n’avions pas de documents suffisants quant à la description ou à la justification de ces honoraires ». Les honoraires d’avocat relatifs à la préparation des états financiers de fin d’exercice et à l’établissement des déclarations de revenus des sociétés ont été admis à titre de déduction.
+[36] M. Amm était en communication avec Me Kearl, au cabinet Olson Lemons, et a reconnu que Me Kearl lui avait fourni les descriptions des sources juridiques qui avaient été présentées en plus des descriptions des factures. M. Amm était d’avis que les descriptions supplémentaires telles que les [traduction] « questions d’ordre général » ou les [traduction] « conseils en matière fiscale » n’étaient pas utiles pour établir si les honoraires avaient été payés en vue de tirer un revenu d’une entreprise de l’appelante.
+[37] Me Kearl a effectivement invité M. Amm à se rendre au cabinet Olson Lemons à Calgary s’il souhaitait consulter d’autres documents. Me Kearl lui a bel et bien envoyé d’autres documents dont une analyse des honoraires d’avocat, mais avec des descriptions semblables des honoraires : conseils en matière fiscale, questions d’ordre général et respect des obligations fiscales. Bien que M. Amm n’ait pas été satisfait de ces descriptions, il n’a pas par la suite communiqué avec Me Kearl, mais il a procédé à l’établissement des nouvelles cotisations.
+[38] Les avocats de l’appelante ont fait valoir dans leur plaidoirie, ainsi que cela a également été souligné lors du contre‑interrogatoire de M. Amm, que l’ARC aurait pu ne pas poursuivre l’appelante de manière agressive pour obtenir des renseignements supplémentaires afin de satisfaire à ses demandes concernant l’appelante. Selon Me Olson, peu importe les documents qui étaient fournis au vérificateur de l’ARC, celui‑ci répondait qu’il voulait plus de précisions. Les avocats de l’appelante ont soutenu que, lorsque l’ARC avait effectué la vérification, elle était au courant notamment de la déduction et du paiement de dividendes, du versement de la rémunération, de la vente de l’entreprise et de la souscription d’actions.
+[39] Comme les avocats de l’appelante l’ont admis, un avocat doit se montrer très prudent lorsque l’ARC lui demande des copies de factures envoyées aux clients ou des renseignements concernant une opération particulière qui a été effectuée à l’aide du cabinet d’avocats. Évidemment, le dossier de l’avocat est hors de la portée de l’ARC. Et les copies des factures envoyées aux clients n’ont pas à être examinées par l’ARC[12]. Il s’agit de documents et de renseignements protégés par le secret professionnel qu’un avocat ne peut pas dévoiler à l’ARC sans qu’il ait obtenu l’approbation du client dont les affaires sont examinées par le fisc.
+[40] Toutefois, en même temps, l’ARC doit avoir un minimum de renseignements sur ce qui s’est produit dans l’entreprise d’un contribuable afin qu’elle puisse établir une cotisation avec une certitude et une autorité raisonnables. Bien entendu, il n’incombe pas à l’ARC de pourchasser un contribuable pour obtenir des renseignements. Il est certain, cependant, que le privilège des communications entre client et avocat que détient un contribuable ne peut pas être violé par l’ARC au cours de la vérification que celle‑ci effectue à l’égard du contribuable.
+[41] Le présent appel a été interjeté en vertu des Règles de la Cour canadienne de l’impôt (procédure informelle) (les « Règles »), et conformément au paragraphe 18.15(3) de la Loi sur la Cour canadienne de l’impôt, qui est en partie ainsi libellé :
+[…] la Cour n’est pas liée par les règles de preuve lors de l’audition de tels appels; ceux-ci sont entendus d’une manière informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité le permettent.
+[42] Bien que la cliente ait invoqué le privilège des communications entre client et avocat à l’égard de précisions sur les montants payés à Olson Lemons, l’appelante, tout comme dans l’affaire Dr. Orth, n’a pas été réticente à produire les copies des factures d’Olson Lemons, qui pourraient elles‑mêmes être protégées par le secret professionnel. Me Olson n’était pas non plus réticent à discuter de la vente de la société de l’appelante. Étant donné que les présents appels, tout comme ceux interjetés dans l’affaire Dr. Orth, ont été entendus sous le régime de la procédure informelle, je préfère examiner la preuve qui a été produite plutôt que de la rejeter ou de mener l’audience selon une procédure plus formelle que celle que le législateur avait envisagée au moment où il avait édicté les Règles. Ma préoccupation principale était d’entendre les appels d’une manière raisonnable et « informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité » le permettaient.
+[43] Par conséquent, j’admets les dépenses suivantes :
+A) 2003 – Facture no 0310063
+Comme je l’ai mentionné ci‑dessus, il m’a été impossible de trouver quelque élément de preuve que ce soit concernant la souscription d’actions qui, selon Me Olson, a été incluse dans les services pour lesquels une facture a été établie. J’accepte le témoignage de Me Olson selon lequel les actions de son cabinet ont simplement été substituées à des actions similaires qui avaient été initialement émises. De même, une contrepartie et des dividendes ont été versés. Par conséquent, j’accorde les deux tiers des dépenses déduites, soit 3 977 $.
+B) 2004 – Facture no 0404064
+i) Les honoraires concernant la vente d’une immobilisation ne peuvent pas être déduits à titre de dépense courante. Ils doivent être considérés comme une dépense en capital.
+ii) Facture no 0406037
+Il s’agissait aussi d’une dépense en capital qui devrait être traitée comme telle.
+iii) Factures nos 0312032, 0401079 et 0405071
+(Ces factures incluent aussi d’autres services juridiques qui ne relèvent pas des appels interjetés par la société 440.) Les montants de ces factures s’élèvent à 13 759 $. Là encore, les honoraires pour services rendus avaient trait à des questions relatives à l’impôt sur le revenu, y compris l’analyse d’une déclaration de revenus. J’ai eu du mal à distinguer l’analyse d’une déclaration de revenus, selon la définition de Me Olson, des conseils que le cabinet d’avocats de Me Olson avait donnés à ses comptables en vue de préparer les déclarations. Y‑a‑t‑il eu double emploi? De toute manière, les deux éléments se rapportent à l’établissement et à l’examen de la déclaration de revenus, une dépense déductible, et les honoraires auraient dû être acceptés.
+[44] Les appels interjetés à l’égard des années 2003 et 2004 seront par conséquent accueillis, et les cotisations seront déférées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations afin de permettre à l’appelante, dans le calcul de son revenu pour 2003 et 2004, de déduire les montants suivants :
+a) le montant de 3 977 $ dans le calcul de son revenu pour l’année d’imposition 2003;
+b) le montant de 13 759 $ pour son année d’imposition 2004.
+[45] Tout comme dans l’affaire Dr. Orth, les appelantes, en l’espèce, ont présenté une demande de réouverture de leurs appels relativement à des éléments de preuve supplémentaires, mais, à la dernière minute, elles ont retiré leur demande. En conséquence, l’avocate de l’intimée a demandé que des dépens lui soient adjugés[13]. Chaque partie dispose de 30 jours à partir de la date des présents motifs pour fournir à la Cour des observations écrites au sujet des dépens relativement aux demandes et au retrait de celles‑ci, et ces observations doivent être échangées entre les parties. Les observations peuvent être faites conjointement avec celles qui doivent être présentées dans l’affaire Dr. Orth.
+Signé à Ottawa, Canada, ce 24e jour d’avril 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 14e jour de juin 2013.
+Espérance Mabushi, M.A. Trad. Jur
+RÉFÉRENCE : 2013 CCI 124
+Nos DES DOSSIERS DE LA COUR : 2009-715(IT)I et 2009-780(IT)I
+INTITULÉ : 371501 B.C. Ltd. c.
+SA MAJESTÉ LA REINE
+et
+440214 B.C. LTD. c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 15 mars et
+le 2 décembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 24 avril 2013
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Virginia A. Engel
+Me Patrick Robinson
+Avocate de l’intimée :
+Me Marla Teeling
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Virginia A. Engel
+Cabinet : Peacock, Linder & Halt
+Calgary (Alberta)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Toute mention de l’« appelante » dans les paragraphes subséquents des présents motifs vaut également mention de la société 371501 B.C. Ltd., sauf indication contraire.
+[2] Bayridge Estates Ltd. v. M.N.R., 59 D.T.C. 1098 (C. de l’É.), approuvée dans l’arrêt Hickman Motors Ltd c. Canada, [1997] 2 R.C.S. 336, au paragraphe 92.
+[3] Johnston v. Minister of National Revenue, [1948] R.C.S. 486, cité dans l’arrêt Hickman Motors, précité, au paragraphe 92.
+[4] First Fund Genesis Corp. v. The Queen, 90 D.T.C. 6337 (C.F. 1re inst.), à la page 1340, cité avec approbation dans l’arrêt Hickman Motors, précité, au paragraphe 92.
+[5] Kamin v. M.N.R., 93 DTC 62 (C.C.I.), cité avec approbation dans l’arrêt Hickman Motors, précité, au paragraphe 93.
+[6] 2009 CAF 139, [2009] G.S.T.C. 71, au paragraphe 23.
+[7] [2000] A.C.I. no 53 (QL), 2000 CanLII 426.
+[8] [2010] 10 W.W.R. 264.
+[9] Trac v. British Columbia (2007), 61 B.C.L.R. (4th) 359, citant William Innes & Hemamalini Moorthy, « Onus of Proof and Ministerial Assumptions: The Role and Evolution of Burden of Proof in Income Tax Appeals », (1998) 46:6, Can. Tax J. 1187, à la page 1188.
+[10] 98 DTC 6004.
+[11] L’expression [traduction] « respect des obligations fiscales » émane d’Olson Lemons, et non de l’ARC.
+[12] Voir Maranda c. Québec, 2003 CSC 67, 2003 CarswellQue 2477, au paragraphe 33.
+[13] Dr. Orth, précitée, au paragraphe 22.

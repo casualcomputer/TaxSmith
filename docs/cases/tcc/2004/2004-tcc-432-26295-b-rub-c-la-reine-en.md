@@ -1,0 +1,99 @@
+---
+title: "Bérubé c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26295/index.do"
+last_modified: "2004-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 432"
+citation2: ""
+neutral_citation: "2004 TCC 432"
+decision_date: "2004-07-30"
+language: "en"
+item_id: "26295"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3307
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:10:44.168000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e90fbc898cbaff1779969dcdd9944066a3fac6c212bf713bdbeeea46c1a7184d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bérubé c. La Reine
+
+- Citation: 2004 TCC 432
+- Decision date: 2004-07-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3307, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bérubé c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-30
+Neutral citation
+2004 TCC 432
+File numbers
+2000-1812(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC432
+Date: 20040730
+Docket: 2000-1812(IT)G
+BETWEEN:
+RAYMOND BÉRUBÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on May 7, 2004, at Montréal, Quebec, and revised at Ottawa, Canada)
+ParisJ.
+[1] The Appellant is appealing from the reassessments for his 1993 to 1997 taxation years, in which the Minister of National Revenue (the "Minister") included the following amounts as unreported income: $29,504.58 in 1993, $61,366.22 in 1994, $15,596.55 in 1995, $6,814.89 in 1996, and $32,373.82 in 1997.
+[2] In reassessing the Appellant, the Minister calculated the Appellant's income on the basis of a net worth audit. In addition, the Minister imposed penalties on the unreported amounts under section 163.2 of the Income Tax Act. For the 1993 taxation year, an assessment under section 152.4 of the Act was also made. The evidence shows that during the relevant period, the Appellant was employed and operated a business selling crafts. He sold items at flea markets and, beginning in 1994, he also sold items to some stores. His file was referred to the Minister following a Revenu Québec audit of the business losses claimed by the Appellant. Ms. Lise Ouellette, the federal auditor, stated that, after her initial investigation, she decided to conduct a net worth audit of the Appellant, because a number of transactions in his business were made in cash, and she felt that the Appellant's books were not complete. The results of her audit are attached to the Reply to the Notice of Appeal served by the Respondent. These attachments form a part of these reasons.
+[3] The Appellant disagrees with eight items calculated by Ms. Ouellette, namely, the cash on hand at the beginning of each period, the amounts of investments in shares in 1996 and 1997, personal loans, provincial tax refunds and donations and inheritance in 1996, personal expenses for clothing and transportation, insurance, and room and board received from his children.
+[4] Regarding the provincial tax refunds, counsel for the Respondent acknowledges that the Appellant received amounts that were larger than those the auditor allowed and that the unreported income should be reduced by $2,038.85 for the 1993 taxation year and by $1,635.31 for the 1997 taxation year.
+[5] The Appellant claimed that he received $10,000 from his brother, André Bérubé, as a repayment for personal loans made in 1987 and 1991. He received the money in two payments in 1994 and 1995. Accordingly, he filed copies of the recognition of debt signed by André Bérubé and receipts for the repayments.
+[6] Regarding the donations and inheritance, the Appellant is claiming an additional amount of $4,174 received as an inheritance from his son, Martin, in 1996. This amount includes two components. Firstly, he claims that he sold his son's motorcycle for $2,000 in cash. Secondly, he submits that the value of the shares transferred to him was $2,714 more than the amount allowed by the auditor.
+[7] He also submits that the shares received from his son's estate should not be added to his assets in 1996 and 1997. The Appellant is objecting to the amounts for personal expenses allowed by the auditor for clothing and transportation. According to him, he did not buy clothing, and nearly all of his travels were for the purpose of his business and were paid by his company. Moreover, he lived near his work. The amounts used by the auditor were arbitrary amounts, because she did not agree that the Appellant had not spent any money on these items.
+[8] Regarding insurance, the Appellant is requesting a reduction in the amounts entered to reflect the fact that a portion of the expenses were incurred for automobile insurance policies on his children's vehicles and that his children repaid these amounts to him. Some of these policies were filed in evidence.
+[9] The Appellant claims that he received payments for room and board from his children for amounts totalling $3,900 in 1993 and 1994, $7,800 in 1995, $7,000 in 1996, and $7,800 in 1997. When his children reached the age of majority, he charged them $75 per week to live with him. The auditor rejected these amounts, because she felt that his children did not earn a sufficient amount of income to pay this amount of room and board to their father.
+[10] Finally, the Appellant testified that he had $55,000 in cash at the beginning of 1992 and 1993 and that this amount decreased to $25,000 at the beginning of 1994 and 1995, $15,000 in 1996, and $0 in 1997. The auditor set the amount of cash on hand at the beginning of each period at $1,000. The Appellant explained that the nature of his business required that he keep a large sum of cash as working capital, with which he paid his suppliers. When he started selling to the store in 1994, his requirement for cash on hand in his business decreased, and at that time, he obtained a line of credit and invested the cash. During cross-examination, the Appellant claimed that he kept this cash at home and that he did not use a safe. He also admitted that he sent a letter to the objections officer in which he stated that he had a large sum of cash on hand to shelter it from claims by his wife, from whom he had separated.
+Conclusion
+[11] I accept the fact that the Appellant received loan repayments from his brother during the years at issue and that they were not taxable income. The Appellant's testimony is corroborated by the documents, and I note that the auditor stated that, at the time of the audit, the Appellant had discussed these loans with her. I also accept the fact that the inheritance amounts from the estate of Martin Bérubé are to be increased by $2,000 to take into account the sum received as a result of the sale of a motorcycle.
+[12] The Appellant's testimony in this regard was not placed in doubt during his cross-examination. The shares received from the estate should be entered at their value at the time of transfer, namely, $18,128.42, as requested by the Appellant. It is also necessary to reflect this change in the Appellant's assets for the 1996 and 1997 taxation years, because shares valued at this amount were transferred to him. For the purposes of the net worth calculation, these two changes offset each other.
+[13] Regarding the personal expenses, the amounts for transportation and clothing will be reduced by fifty per cent (50%). I accept the Appellant's arguments, but I am not satisfied that he did not spend any money over a five-year period for transportation and clothing; the sums of $450 and $400 per year, respectively, seem reasonable to me.
+[14] Regarding insurance, I am satisfied with the documentary evidence that shows that the Appellant paid these amounts for his children, and I accept the fact that his children repaid the amounts identified: $1,025.08 in 1993, $783.99 in 1994, $1,284.82 in 1995, $147.25 in 1996, and $1,267.12 in 1997.
+[15] I am also satisfied that the Appellant received the amounts he is claiming for room and board. It appears reasonable to me that he would ask his children to pay the modest sum of $75 per week to live with him. Again, the evidence shows that the Appellant discussed these payments with the auditor, early in the audit.
+[16] Finally, the Appellant did not discharge the burden of proving that there were other errors in the statement of net worth. It is firmly established in law that the responsibility for proving the inaccuracy of facts on which a tax assessment is based is that of the Appellant. The Appellant's testimony regarding the amount of cash on hand was not corroborated, the Appellant was unable to provide the Court with any supporting evidence whatsoever, and he did not produce any witnesses to support his claims. He did not have his suppliers testify about potential large transactions carried out in cash during the periods at issue, and he did not have anyone corroborate the fact that he kept such large sums of cash. Where one party fails to have someone who could provide relevant evidence testify, the Court may draw negative conclusions. Moreover, it is my opinion that the allegation whereby the Appellant kept sums of cash up to $55,000 is unlikely, even where he claims that he paid his suppliers in cash; nothing prevented him from depositing the proceeds of his sales in the bank and withdrawing his money as he needed it to make payments, as he appears to have done after 1994.
+[17] I must also consider the issue of the penalties that were imposed pursuant to section 163.2 of the Taxation Act [sic]. The burden of proving that a penalty should be imposed is that of the Respondent. In Venne v. Canada(Minister of National Revenue-M.N.R.) [1984] F.C.J. No. 314, Strayer J. explains the degree of negligence necessary for the imposition of a penalty. Gross negligence must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the Act is complied with or not. In this case, even after the reductions have been allowed, the unreported income for the 1993, 1994, and 1997 taxation years is high in comparison with the amounts reported. The Appellant was aware of his obligation to report all of his income, and he is knowledgeable in business matters. Considering these facts and the fact that the Appellant repeatedly failed to report all of his income, the required degree of negligence exists to justify the imposition of penalties for the three years noted above. I also conclude that the Minister was justified in issuing the reassessment for the 1993 taxation year pursuant to section 152.4 of the Taxation Act [sic].
+[18] To summarize, the Appellant's income must be reduced by $7,813.93 for 1993, $10,533.99 for 1994, $14,934.82 for 1995, $10,997.25 for 1996, and $11,552.43 for 1997. These are the amounts allowed for transportation and clothing, insurance, amounts received as an inheritance from his son, provincial taxes, repayment of loans, and payments for room and board. The appeal is allowed in part, without costs.
+Signed at Ottawa, Canada, this 30th day of July 2004.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 25th day of January 2005.
+Colette Dupuis-Beaulne, Translator

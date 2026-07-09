@@ -1,0 +1,205 @@
+---
+title: "Agrawal c. Ressources Humaines"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521338/index.do"
+last_modified: "2024-10-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 128"
+citation2: ""
+neutral_citation: "2024 CCI 128"
+decision_date: "2024-10-08"
+language: "fr"
+item_id: "521338"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6044
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:30:11.818000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "724ec178c4199583b86762666fc9a9ddbfbe0e3aa0e4c851f9b33a3047f2f26c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Agrawal c. Ressources Humaines
+
+- Citation: 2024 CCI 128
+- Decision date: 2024-10-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6044, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Agrawal c. Canada (Emploi du développement de la Main-d’œuvre et Langues officielles)
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-10-08
+Référence neutre
+2024 CCI 128
+Numéro de dossier
+2024-107(OAS)
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2024-107(OAS)
+ENTRE :
+BINO AGRAWAL,
+appelant,
+et
+LE MINISTRE DE L’EMPLOI, DU DÉVELOPPEMENT DE
+LA MAIN-D’ŒUVRE ET DES LANGUES OFFICIELLES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 3 septembre 2024, à Vancouver (ColombieBritannique)
+Devant : l’honorable juge Jean Marc Gagnon
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Yetunde Elisabeth Akinyinka
+JUGEMENT
+L’appel interjeté en vertu de la Loi sur la sécurité de la vieillesse est rejeté conformément aux motifs du jugement ci-joints, sans dépens.
+Signé à Montréal (Québec), ce 8e jour d’octobre 2024.
+« J.M. Gagnon »
+Le juge Gagnon
+Traduction certifiée conforme
+ce 21e jour de mars 2025.
+Lionel Dugué
+Référence : 2024 CCI 128
+Date : 20241008
+Dossier : 2024-107(OAS)
+ENTRE :
+BINOD AGRAWAL,
+appelant,
+et
+LE MINISTRE DE L’EMPLOI, DU DÉVELOPPEMENT DE
+LA MAIN-D’ŒUVRE ET DES LANGUES OFFICIELLES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+I. Contexte
+[1] L’appelant, M. Agrawal, interjette appel auprès du Tribunal de la sécurité sociale (Tribunal) en vertu du paragraphe 28(1) de la Loi sur la sécurité de la vieillesse[1] d’une décision de révision du ministre de l’Emploi, du Développement de la main-d’œuvre et de l’Inclusion des personnes en situation de handicap (prédécesseur de l’intimé) (ministre) datée du 11 juillet 2023 (Révision). La décision de Révision répond à la demande de l’appelant en vertu de l’article 27.1 de la LSV pour que le ministre révise la détermination confirmée par lettre à l’appelant datée du 7 juin 2022 (Détermination).
+[2] La Détermination aborde le droit de l’appelant à des prestations de supplément de revenu garanti (SRG) pour la période d’avril 2022 à juin 2022 (période d’appel), et plus précisément des prestations maintenant accordées au conjoint de l’appelant. La décision de Révision du ministre a confirmé la décision énoncée dans la Détermination.
+[3] Étant donné que le motif de l’appel de l’appelant au Tribunal concerne la justesse de la Détermination du revenu de l’appelant ou des sources de revenu de l’appelant pour l’année civile de base 2020, le Tribunal était tenu, en vertu du paragraphe 28(2) de la LSV, de demander à la Cour de statuer sur la question.
+[4] L’intimé n’a pas informé le Tribunal conformément à l’article 38.1 du Règlement[2] qu’une personne autre que l’appelant pourrait être directement touchée par la décision de la Cour. De plus, la Cour a confirmé avec l’appelant lors de l’audience que le seul litige en appel est de confirmer son propre revenu ou ses sources de revenu aux fins de la période d’appel, et non le revenu ou les sources de revenu de sa conjointe. En conséquence, le présent appel concerne strictement l’année civile de base 2020 de l’appelant telle que cela est défini à l’article 10 de la LSV. Cela fait référence au revenu de l’appelant, tel que cela est défini dans la LSV, pour son année d’imposition 2020. Aux fins des présentes, ce revenu est calculé conformément aux dispositions de la Loi de l’impôt sur le revenu[3].
+II. Faits pertinents
+[5] Dans cette affaire, les faits pertinents sont résumés comme suit :
+a)En avril 2022, l’appelant atteint 10 ans de résidence au Canada.
+b)Le 2 juillet 2021, l’appelant présente une demande de sécurité de la vieillesse. Cette demande précède une demande ultérieure pour compléter sa demande précédente afin de demander des prestations de SRG. La demande ultérieure complétée par l’appelant est signée le 25 mars 2022 et est reçue par le ministre le 12 avril 2022.
+c)Le 2 juin 2022, le ministre accorde à l’appelant une pension de la Sécurité de la vieillesse partielle et des prestations de SRG à compter d’avril 2022. La décision informe que cela est basé sur le taux d’un retraité qui a une conjointe qui n’est pas retraitée.
+d)Au moment de faire la demande de prestations de SRG, l’appelant fournit sa situation financière afin que le ministre puisse établir un revenu conformément aux règles de la LSV. Parmi les autres informations fournies par l’appelant au cours du processus, il informe le ministre de son droit à un revenu de pension étranger en provenance d’Inde (Revenu de pension étranger). Les avis de cotisation de l’appelant reçus de l’Agence du revenu du Canada pour ses années d’imposition 2018, 2019 et 2020 incluent le revenu de pension étranger tel qu’il est divulgué par l’appelant. De plus, l’appelant fournit au ministre un État des revenus et dépenses daté du 20 avril 2023 confirmant les revenus et les dépenses déterminés en 2022, mais basés sur les chiffres disponibles pour l’année civile 2021. L’état prescrit indique le revenu de pension étranger à titre de revenu. Cependant, une note sur le formulaire mentionne « pension étrangère (non reçue jusqu’à la visite en Inde) ».
+e)Le 7 juin 2022, la conjointe de l’appelant se voit accorder une pension de la Sécurité de la vieillesse partielle et des prestations du SRG rétroactivement à partir d’avril 2022. À la même date, le ministre informe l’appelant qu’en raison du fait que sa conjointe a droit à des prestations en vertu de la LSV, le SRG de l’appelant est réexaminé rétroactivement pour la période d’avril 2022 à juin 2022 sur la base d’un retraité ayant une conjointe qui est également retraitée. Il s’agit là de la Détermination.
+f)Le 24 juin 2022, l’appelant présente une demande de révision de la Détermination afin de recalculer son droit au SRG d’avril 2022 à juin 2022.
+g)Par lettre datée du 11 juillet 2023, le ministre envoie à l’appelant une lettre de décision de révision maintenant la Détermination. Il s’agit là de la Révision.
+h)Le 8 septembre 2023, l’appelant dépose un appel de la Révision auprès du Tribunal.
+i)Le 7 décembre 2023, le Tribunal renvoie le présent appel à la Cour canadienne de l’impôt pour décision conformément au paragraphe 28(2) de la LSV.
+III. Positions des parties
+[6] L’argument de l’appelant est qu’il ne reçoit pas directement le revenu de pension étranger ainsi déclaré sur sa déclaration de revenus annuelle canadienne. Il doit se rendre en Inde pour accéder au revenu. En d’autres termes, selon lui, il s’agit de revenus sur le papier seulement. En attendant, la pension lui est versée, mais reste dans un compte bancaire en Inde à son nom personnel, en tant que seul signataire et bénéficiaire du compte. La situation est telle qu’au moment où l’appelant peut se rendre en Inde et organiser un transfert des fonds du compte bancaire de l’Inde vers le Canada et payer tous les frais et dépenses liés à cette opération, le revenu de pension étranger est considérablement réduit et n’est alors qu’un montant mineur d’aide financière. Il prétend également à l’injustice, au retard et à l’absence d’équité dans la conduite du ministre qui a brutalement réduit ses prestations de SRG. L’appelant demande à la Cour que le revenu de pension étranger soit calculé sur la base de la réception réelle au Canada.
+[7] L’appelant ajoute également qu’en vertu des règles financières fondamentales, le rajustement du SRG effectué par le ministre n’est pas récupérable auprès de lui après avoir été payé et utilisé par lui pour couvrir ses frais de subsistance. Ses problèmes de santé ont considérablement augmenté son coût de la vie. Toute tentative de récupérer un rajustement devient difficile pour lui. Il n’a caché aucune information et il ne devrait pas être pénalisé pour une situation dont le ministre est le seul responsable.
+[8] La position de l’intimé est que la seule question identifiable est l’inclusion du revenu de pension étranger de l’appelant dans son revenu pour le calcul de ses prestations du SRG conformément aux dispositions de la LSV. L’intimé estime que cet exercice a été correctement réalisé par le ministre.
+IV. Question en litige
+[9] La seule question devant la Cour est de savoir si le revenu de pension étranger de l’appelant doit être inclus dans le calcul de son revenu aux fins du calcul du SRG pour la période d’appel.
+V. Analyse
+[10] J’ai entendu le témoignage de l’appelant. J’ai examiné les documents reçus du Tribunal. J’ai examiné la réponse de l’intimé et j’ai pris en compte tous les documents soumis par les parties lors de l’audience.
+(1) Compétence de la Cour canadienne de l’impôt
+[11] La compétence de la Cour canadienne de l’impôt se trouve au paragraphe 28(2) de la LSV et à l’article 12 de la Loi sur la Cour canadienne de l’impôt.
+[12] Les appels concernant les prestations en vertu de la LSV sont susceptibles d’appel devant le Tribunal et le contrôle judiciaire d’une décision du Tribunal concernant les prestations est disponible en vertu de la Loi sur les cours fédérales.
+[13] Dans la décision Taylor[4], la Cour a indiqué que la compétence de la Cour dans le cas de la LSV est définie par le Parlement comme étant limitée à la détermination du revenu. Les questions relevant de la LSV, tel que la décision du ministre de réviser son droit et de chercher à recouvrer les paiements en trop après coup, ne relèvent pas de la compétence de la Cour. Par conséquent, la Cour n’a aucune autorité ni aucun pouvoir pour aborder d’autres préoccupations ou droits soulevés par l’appelant, hormis la détermination du revenu de l’appelant aux fins de ses prestations du SRG en vertu de la LSV. En d’autres termes, la détermination du revenu de l’appelant est le seul élément à examiner par la Cour, et doit être effectuée dans la présente affaire en conformité avec les dispositions applicables de la LIR.
+[14] Sur cette base, la Cour doit déterminer si la décision du ministre concernant le revenu ou le revenu d’une source ou de sources particulières de l’appelant a été prise de manière incorrecte. La Cour abordera spécifiquement la seule question de savoir si (i) le revenu de pension étranger est inclus dans le calcul du revenu de l’appelant aux fins de la LIR et doit donc être inclus dans le revenu aux fins de la sécurité de la vieillesse, ou si (ii) les dispositions de la LIR permettent un rajustement au calcul du revenu tel que cela est exposé dans la position de l’appelant afin d’exclure ou de réduire l’inclusion du revenu de pension étranger.
+(2) Revenu aux fins du SRG
+[15] Le revenu pour une année civile donnée est calculé aux fins de la sécurité de la vieillesse conformément à la LIR, avec certaines règles spécifiques prévues dans la LSV. Dans le cas présent, les règles de la LSV ne sont pas pertinentes pour la décision de la Cour et donc seules les règles de la LIR sont prises en compte.
+[16] Un facteur est également pertinent pour sélectionner l’année civile correcte pour laquelle la détermination du revenu doit être effectuée. Ce facteur est décrit comme l’année civile de base pour la période de paiement du pensionné en cours d’examen. Une période de paiement en vertu de la LSV commence le 1er juillet d’une année donnée et se termine le 30 juin de l’année suivante. Les montants versés au pensionné pendant cette période de paiement sont basés sur le revenu du pensionné pour l’année civile de base, tel que cela est défini à l’article 10 de la LSV, applicable à cette période de paiement très spécifique, qui est le revenu de la dernière année civile se terminant avant le début de la période de paiement examinée. Cela signifie que la période de paiement examinée dans la présente affaire est de juillet 2021 à juin 2022, et l’année civile de base est l’année civile 2020.
+[17] Les dispositions de la LIR ont le dernier mot sur ce qui constitue le revenu d’un retraité. La Cour n’a aucun pouvoir discrétionnaire sur la disposition de la LIR qui s’applique ou non, sous réserve que la Cour interprète un passage flou de la législation. Auquel cas, la jurisprudence pourrait devenir essentielle à la réponse.
+[18] Afin de déterminer le revenu d’un contribuable en vertu de la LIR, les règles générales des articles 2 et 3 de la LIR s’appliquent et confirment que les contribuables résidant au Canada sont imposés sur leur revenu mondial provenant de sources à l’intérieur et à l’extérieur du Canada. À ce stade, de nombreuses dispositions de la LIR doivent être prises en compte afin d’établir le revenu total en vertu de la LIR. Il faut également comprendre que la détermination du revenu n’est que la première étape d’une série que la LIR prévoit afin de déterminer en dernier ressort l’impôt à payer par un contribuable résident canadien en vertu de la LIR. Le calcul du revenu d’un contribuable est effectué en vertu de la section B de la partie I de la LIR. Par la suite, la section C de la partie I de la LIR inclut les dispositions pour calculer le revenu imposable du contribuable, et la section D de la partie I de la LIR fait de même, mais pour le revenu imposable gagné au Canada par des nonrésidents. La section E de la partie I de la LIR détermine le calcul de l’impôt. Chaque étape a son propre but et mène à un résultat distinct.
+[19] Dans la présente affaire, l’article 2 de la LSV définit le revenu en tant que revenu de l’année calculé conformément à la LIR. La référence spécifique au seul mot « revenu » indique clairement que la section B de la partie I de la LIR (articles 3 à 108 de la LIR) est la seule section qui doit être prise en compte afin de déterminer le revenu de l’appelant pour son année d’imposition 2020[5]. Les dispositions de la LIR concernant le revenu imposable et le calcul de l’impôt ne s’appliquent pas.
+[20] Selon les activités et les situations du contribuable, les règles en vertu de la LIR devront être plus ou moins prises en compte pour calculer le revenu du contribuable. Aux fins des présentes, l’extrait suivant de l’alinéa 56(1)a) de la LIR est particulièrement pertinent et précise ce qui suit :
+Sommes à inclure dans le revenu de l’année
+56 (1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède :
+(A) […]
+(B) […]
+(C) […]
+(C.1) tout paiement fait dans le cadre d’un mécanisme de retraite étranger prévu par la législation d’un pays, sauf dans la mesure où le paiement serait exclu du calcul du revenu du contribuable aux fins de l’impôt sur le revenu dans ce pays s’il y résidait
+[…]
+[21] De plus, « prestation de retraite ou de pension » est définie au paragraphe 248(1) de la LIR :
+Sont compris dans les prestations de retraite ou de pension les sommes reçues dans le cadre d’une caisse ou d’un régime de retraite ou de pension (y compris, sauf pour l’application du sous-alinéa 56(1)a)(i), les sommes reçues dans le cadre d’un régime de pension agréé collectif) et, notamment, tous versements faits à un bénéficiaire dans le cadre de la caisse ou du régime, ou à un employeur ou un ancien employeur du bénéficiaire :
+a) conformément aux conditions de la caisse ou du régime;
+[…]
+[22] Cette définition a été généralement interprétée de manière très large, et la Cour estime qu’elle est clairement suffisante pour inclure le revenu de pension étranger tel qu’il est décrit par l’appelant lors de l’audience.
+[23] Dans la décision Bakht, la Cour d’appel fédérale a confirmé la décision du juge en chef adjoint Bowman, tel était alors son titre, selon laquelle un revenu tiré d’une pension étrangère doit être inclus lors du calcul du revenu aux fins du SRG. De plus, la Cour a confirmé la position du juge en chef adjoint Bowman selon laquelle le contribuable ne pouvait pas déduire un montant autorisé par le paragraphe 118(3) de la LIR dans le calcul de son revenu, car le paragraphe 118(3) ne prévoit pas de déduction dans le calcul du revenu; il prévoit une déduction de l’impôt payable. Ni la Cour d’appel fédérale ni la Cour canadienne de l’impôt n’ont confirmé si la pension était une pension privée ou publique. La Cour d’appel fédérale est cependant claire sur le fait que la LIR contient des étapes distinctes comme cela est exposé cidessus pour finalement déterminer l’impôt à payer, et les dispositions de chaque étape n’interfèrent pas directement avec les dispositions d’une autre étape. Ainsi, les dispositions de la LIR concernant le revenu imposable (section C de la partie I de la LIR) ou le calcul de l’impôt (section E de la partie I de la LIR) ne s’appliquent pas pour déterminer le calcul du revenu (section B de la partie I de la LIR).
+[24] En se fondant sur le principe énoncé à l’alinéa 56(1)a) de la LIR et sur la position de la Cour d’appel fédérale ci-dessus, il devient clair que le revenu de pension, y compris le revenu tiré d’une pension étrangère, doit être inclus dans le revenu d’un contribuable. Ce résultat s’applique également à l’appelant.
+[25] En l’espèce, la Cour mentionne l’exception à la subdivision 56(1)a)(i)(C.1) de la LIR. Cependant, cette exception a une incidence sur la portée de la subdivision (C.1), et peut n’avoir d’impact que si (i) le revenu de pension provient d’un régime de retraite étranger qui a lui-même été établi en vertu des lois d’un pays et si (ii) un contribuable résident dans ce pays n’est pas imposé sur ce revenu dans ce pays.
+[26] Les éléments de preuve présentés lors de l’audience n’ont pas permis à la Cour d’entendre ou de considérer des éléments de preuve qui pourraient suggérer que l’exception ci-dessus a un rôle à jouer dans la présente affaire. La Cour n’a aucune indication ni information fiable pour soutenir que les conditions de l’exception cidessus sont satisfaites. La Cour ignore la loi étrangère, la portée de cette législation, les conditions applicables, le régime fiscal applicable, ou la genèse, la source ou l’origine du régime de pension en vertu duquel l’appelant reçoit le revenu. En d’autres termes, la Cour n’a même pas de fondement pour être en mesure de considérer cette exception dans la présente affaire.
+[27] Un point de plus que la Cour aimerait ajouter avant d’aborder la situation actuelle est la portée potentielle de la Convention fiscale Canada-Inde[6] dans une affaire telle que le présent appel, et de déterminer si elle pourrait être d’une quelconque aide pour l’appelant. Plus précisément, l’article 18 de la Convention fiscale Canada-Inde précise que les pensions provenant d’un État contractant ne sont imposables que dans cet État et que, à cette fin, une pension provient d’un État contractant lorsque le payeur est cet État lui-même, une subdivision politique, une autorité locale ou un résident de cet État.
+[28] Malheureusement, l’intérêt pour une telle disposition dans la présente affaire ne dure pas longtemps. La raison est que la LIR est structurée de manière à refléter un allégement fiscal comme prévu à l’article 18 de la Convention fiscale Canada-Inde uniquement dans le calcul du revenu imposable d’un contribuable, et non dans le calcul du revenu. Le sous-alinéa 110(1)f)(i) de la LIR prévoit ce qui suit :
+Déductions
+110(1) Pour le calcul du revenu imposable d’un contribuable pour une année d’imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+[…]
+Déductions des paiements
+f) toute prestation d’assistance sociale payée après examen des ressources, des besoins ou du revenu et incluse en application de la division 56(1)a)(i)(A) ou de l’alinéa 56(1)u) dans le calcul du revenu du contribuable pour l’année ou toute somme dans la mesure où elle a été incluse dans le calcul du revenu du contribuable pour l’année, représentant, selon le cas :
+(i) une somme exonérée de l’impôt sur le revenu au Canada par l’effet d’une disposition de quelque convention ou accord fiscal avec un autre pays qui a force de loi au ,
+[…]
+[29] Le calcul du revenu en vertu de la LIR n’est pas affecté par le sousalinéa 110(1)f)(i) de la LIR. Ce sous-alinéa ne se trouve pas dans la section B de la partie I de la LIR (Calcul du revenu), mais dans la section C de la partie I de la LIR (Calcul du revenu imposable). Par conséquent, cela n’interfère pas dans le calcul du revenu en vertu de la LIR et, par conséquent, pas non plus dans le revenu aux fins de la LSV. La Cour ne peut que croire que cela est fait intentionnellement par le Parlement, et la Cour n’a aucun droit ni pouvoir de changer cela.
+[30] En plus de ce qui précède, l’appelant a confirmé à plus d’une occasion durant l’audience que l’inclusion du revenu de pension étranger dans le calcul de son revenu aux fins de l’impôt sur le revenu canadien n’était pas en cause et que ce revenu devait être inclus.
+[31] La Cour a également pris en compte tous les autres arguments de l’appelant, l’absence d’équité et de justice, la procédure de recouvrement par le ministre, l’erreur alléguée du ministre, les dépenses considérables pour transférer des fonds au Canada, ainsi que des problèmes de santé et financiers graves. La Cour n’a pas le pouvoir de prendre en compte ces facteurs pour déterminer le revenu de l’appelant. Ce n’est pas que ces facteurs n’ont aucun fondement ou bien fondé dans la présente affaire, mais c’est parce que la compétence de la Cour ne lui permet pas de prendre en compte ces facteurs, et que la LIR ne prévoit un recours pour les difficultés financières exposées par l’appelant. En ce qui concerne l’approche de reçu réel suggérée par l’appelant pour l’inclusion de revenus de pension étrangers, cet argument ne change rien au traitement applicable en vertu de la LIR. Les fonds sont reçus par l’appelant au moment où ils sont payés à l’étranger, sont sous son contrôle exclusif (comme recevoir un salaire pour citer l’appelant) et il est libre de disposer des fonds comme bon lui semble. Le fait que les fonds soient à l’étranger en raison de choix personnels et financiers, aussi authentiques soient-ils, ne justifie pas en soi un traitement fiscal différent en vertu de la section B de la partie I de la LIR, et la Cour n’est malheureusement pas autorisée à modifier ce résultat.
+[32] Sur la base de l’analyse qui précède, la Cour n’a d’autre choix que de confirmer que, aux fins de la LIR, la LIR inclut le revenu de pension étranger déposé dans le compte bancaire de l’appelant en 2020 dans le calcul du revenu de l’appelant pour son année d’imposition 2020. Par conséquent, le ministre avait raison d’inclure, aux fins de la LSV, le revenu de pension étranger reçu en 2020 par l’appelant dans son revenu pour son année civile de base 2020.
+[33] Compte tenu de ce qui précède, l’appel doit être rejeté, sans dépens.
+Signé à Montréal (Québec), ce 8e jour d’octobre 2024.
+« J.M. Gagnon »
+Le juge Gagnon
+Traduction certifiée conforme
+ce 21e jour de mars 2025.
+Lionel Dugué
+RÉFÉRENCE :
+2024 CCI 128
+NO DU DOSSIER DE LA COUR :
+2024-107(OAS)
+INTITULÉ :
+BINOD AGRAWAL ET M.H.R.S.D.C.
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 3 septembre 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+Le 8 octobre 2024
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Yetunde Elisabeth Akinyinka
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimé :
+Me Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Loi sur la sécurité de la vieillesse, L.R.C. (1985), ch. O-9 [LSV].
+[2] Règlement sur la sécurité de la vieillesse, C.R.C., ch. 1246 [le « Règlement »].
+[3] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) [la « LIR »]. Le calcul en vertu de la LIR est soumis à certaines dispositions de la LSV et des règlements applicables. Cependant, de telles dispositions n’ont aucun effet dans le cas présent.
+[4] Taylor c. Canada, 2005 CCI 496 [Taylor].
+[5] La Cour renvoie le lecteur aux décisions dans, entre autres, Bakht c. Canada, 2002 CAF 252 [Bakht], Gaisford c. Sa Majesté la Reine, 2011 CAF 28, Dupuis c. Ministre des Ressources humaines et du Développement des compétences, 2011 CCI 485, et John Rysdyk c Ministre du Développement des ressources humaines Canada, 2003 CCI 123.
+[6] La partie IV de la Loi de 1996 sur l’Accord Canada — Inde en matière d’impôts sur le revenu, L.C. 1997, ch. 27, promulgue au Canada l’Accord entre le Gouvernement du Canada et le Gouvernement de la République de l’Inde en vue d’éviter les doubles impositions et de prévenir l’évasion fiscale en matière d’impôts sur le revenu et sur la fortune [Convention fiscale Canada-Inde].

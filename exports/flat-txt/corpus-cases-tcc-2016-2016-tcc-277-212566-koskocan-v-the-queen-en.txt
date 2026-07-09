@@ -1,0 +1,455 @@
+Title: Koskocan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/212566/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-277-212566-koskocan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-11-24
+
+# Koskocan v. The Queen
+
+- Citation: 2016 TCC 277
+- Decision date: 2016-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2941, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Koskocan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-24
+Neutral citation
+2016 TCC 277
+File numbers
+2014-2370(GST)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-2370(GST)G
+BETWEEN:
+MEHMET KOSKOCAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on July 8 and September 19 and 20, 2016, in Montréal, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Philippe-Alexandre Otis
+Counsel for the Respondent:
+Josée Fournier
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act for the period between January 1, 2007, and December 31, 2010, whose notice is dated July 24, 2012, and bears number F-038699, is allowed, with costs, and the assessment is vacated.
+Signed on this 24th day of November 2016.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 28th day of March 2018.
+Francois Brunet, Revisor
+Citation: 2016 TCC 277
+Date: 20161124
+Docket: 2014-2370(GST)G
+BETWEEN:
+MEHMET KOSKOCAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+I. Issue
+[1] Mehmet Koskocan is appealing from an assessment issued on July 24, 2012, by the Agence du revenu du Québec (ARQ), on behalf of the Canada Revenue Agency (CRA), under section 323 of the Excise Tax Act (ETA or Act). In making this assessment, the CRA holds Mr. Koskocan jointly and severally, or solidarily, liable with 9056-4600 Québec inc. (9056), for the GST not remitted by this corporation plus interest and penalties, for a total, at the time of the assessment, of $91,042.57 (tax debt). This assessment covers the period from January 1, 2007, to December 31, 2010 (relevant period). [1] In making this assessment, the ARQ assumed that Mr. Koskocan was a de facto director of 9056 during the relevant period.
+II. MR. KOSKOCAN’S POSITION
+[2] Mr. Koskocan submits that he was no longer a director of 9056 during the relevant period, having resigned in 2003, and that consequently, he cannot be held responsible for the tax debt of this corporation. In the alternative, if he were to be considered a de facto director of 9056, Mr. Koskocan submits that that role ceased on June 8, 2009, when he allegedly signed the last cheque for 9056. Finally, Mr. Koskocan contests 9056’s tax debt, by challenging as inapproriate the method used by the ARQ in computing the net tax, more specifically, the methods involving the use of a ratio based on the cost of public services to determine the amount of the unreported sales.
+III. BACKGROUND FACTS
+A. Family history and operation of "Champion 2 pour 1" restaurants
+[3] Mehmet Koskocan emigrated from Turkey to Canada in 1986. He first resided in Toronto, where he worked as a carpenter. He has six children: four girls and two boys. He and his family moved to Montréal-Nord in 1995 and he began to work in the food service industry. In 1997, he decided to open his own restaurant.
+[4] The 9056 corporation was incorporated on November 4, 1997, under Part IA of the Quebec Companies Act (QCA). [2] Mehmet Koskocan was the founder, director, president and sole shareholder of this corporation. [3] The National Bank of Canada (NBC) Account management agreement signed on November 14, 1997, stated that Mehmet Koskocan was the sole director, [4] president and secretary of the corporation. [5]
+[5] According to 9056’s GST/QST account registration form, dated November 10, 1997, 9056 operates a pizzeria [6] and its fiscal year ends on December 31. However, this information is not consistent with the information provided on the financial statements, which mentions November 4 as the end of the fiscal year. The headquarters of 9056 are located on Charleroi Street in Montréal-Nord. The pizzeria commenced its activity on November 5, 1997. [7]
+[6] Mr. Koskocan’s younger son, Sedat, was born in 1975 in Turkey. In 1993, when he was about 18 years old, he immigrated to Canada to join his father. His education included primary school followed by six months of studies at the secondary level. He then worked with his father and brother. During his testimony, I tried to find out whether Sedat Koskocan understood the distinction between a director (in French, administrateur) and a manager (in French, gérant), and he did not seem to understand the difference between the two. I must add that the ARQ collection officer, who also testified, did not seem to grasp that difference either. [8]
+[7] In 2003, Sedat was 28 years old and had two children. His father, Mehmet Koskocan, decided to help him "start his life," according to Sedat, to "stand on his own two feet" according to Mehmet. In an agreement dated May 5, 2003, Mehmet sold his 100 shares of 9056 to Sedat and his wife, Dondu Koskocan Oztopal. The price indicated for this sale was $15,000, which was payable on demand at the time and place indicated by the seller. [9]
+[8] Paragraph 5 of the agreement stipulates:
+Resignation
+The Vendor shall resign as director and officer of the Corporation effective as of the signature hereof.
+[My emphasis.]
+[9] On the same day, May 5, 2003, Sedat Koskocan signed an amended return concerning 9056 filed with the Inspector General of Financial Institutions on June 11, 2003. Section 6 of the form, where the directors are identified, is used to record "changes regarding the addition and/or removal of directors." In the "Addition" column, the names of Sedat and Dondu were mentioned, but nothing was entered in the "Removal" column. [10]
+[10] The parties produced an agreed statement of facts, paragraph 2 of which reads as follows:
+[translation] On May 5, 2003, an Amended return was sent to the Québec Business Register (hereinafter the "QBR") to indicate that the shareholders and directors of the Corporation were now Sedat and his wife.
+[11] In the 2003 annual return, dated December 3, 2003, and received by the Inspector General of Financial Institutions on December 4, 2003, as indicated on the stamp, Mehmet Koskocan, his son and daughter-in-law were mentioned as directors, but the return stated that in Mehmet Koskocan’s case, it was a "removal." [11]
+[12] In the 2004 return, dated December 8, 2004, and received on December 10, 2004, as indicated on the stamp, on page 19 of tab 17 of Exhibit I-1, only Sedat and Dondu Koskocan were mentioned as directors.
+[13] The 2005 to 2009 annual returns provided the same information as the 2004 annual return. [12] However, Mehmet’s name did not appear on them.
+[14] Sedat Koskocan, like his father, testified in his native language using the services of a Turkish interpreter. According to his testimony in court, corroborated by Mehmet’s testimony and as shown on the questionnaire that Sedat filed with the ARQ, Sedat operated the restaurant on Charleroi Street starting on May 5, 2003. He was responsible for staff management and engagement, and he also purchased the supplies needed to operate the pizzeria. This was also the perception of the ARQ auditor who assessed 9056. Page 5 of her November 25, 2010, report read as follows: [translation] "The president of the company is Sedat Koskocan [and he] is solely responsible for all the transactions conducted by the company." [13]
+[15] Mehmet ceased to be involved in the management of 9056, except to the extent described below. He did not know whether 9056 was remitting the GST to the ARQ, ignored the amount of his sales and wages paid and did not know whether 9056 was making profits. But he remembered the amount of the monthly rent for the commercial building he owned. Mehmet operated another restaurant under the name Champion Pizza 2 pour 1 on the South Shore in St-Hubert from 2004 until the restaurant closed in 2007 due to a fire in a Jean-Coutu pharmacy. He then bought a building in new Longueuil, where a restaurant owned by his daughter’s corporation (9071) was operated in 2008 and 2009. He retired in 2014.
+[16] It should be noted that other people operated restaurants under the name Champion Pizza 2 pour 1, including corporations owned by several members of Mehmet Koskocan’s family, i.e. brothers, sisters, children or cousins of the children. The restaurants’ joint advertising indicated that there were nine sales outlets in the greater Montreal area.
+[17] Sedat testified that 90% of his electricity and gas costs were related to heating and 10% to household appliances. The restaurant area was approximately 2,500 to 2,600 square feet and could accommodate 30 to 35 customers. In addition to heating, there were air conditioning costs in summer, because there were windows on 75% of the front of the restaurant. Also, he explained that the two pizza ovens were always on in the restaurant, regardless of whether there were any customers. He explained that it took between 20 and 25 minutes to warm an oven and that it was important to have an oven operating when a customer showed up. Therefore, the ovens could not be turned off. The restaurant was generally open seven days a week from 11 a.m. to 2 a.m. Mondays to Wednesdays, with the restaurant closing at 3 a.m. Thursdays to Saturdays and at 1 a.m. on Sundays.
+[18] When Sedat acquired 9056 in May 2003, the NBC preferred that his father continue to be the sole person authorized to sign cheques on behalf of 9056. He continued to have sole signing authority until 2010 when 9056 ceased to operate the restaurant following a fire on November 3, 2010. [14] It appears that the bank did not find Sedat Koskocan’s credit information satisfactory enough to have Sedat replace Mehmet, particularly in terms of obtaining a line of credit. Therefore, the father, Mehmet Koskocan, signed blank cheques in advance for restaurant operations and gave them to his son, often in blocks of 20 cheques. As a result, Sedat was often the one who wrote the name of the cheque recipient and the amount to be paid. In the agreed statement of facts, Mehmet Koskocan admitted that his signature appeared on a series of cheques from January 16, 2006, to June 8, 2009. [15] As for the cheques subsequently signed, he testified that he did not recognize his signature on these cheques and that it must be Sedat’s, either imitating Mehmet’s signature or signing using his own signature. [16] According to counsel for the Respondent, the cheques for 9056 filed in evidence for the period from January 16, 2006, to June 8, 2009, totalled $45,088.
+[19] Sedat and Mehmet Koskocan explained the circumstances under which Sedat had acted in the manner described above. Mehmet operated the St-Hubert restaurant for his own corporation. Moreover, he was often out of the country. In his questionnaire, Mehmet told the ARQ that his son was authorized to act as he did. [17] More specifically, the father stated:
+However, it is to be noted for the last several years, I was outside Canada for anywhere between five and six months per year, such that when I was absent for these 5-month or 6-month periods, I would "pre-sign" a series of cheques so that my son Sedat could continue the operations of the Corporation.
+And further on, he added:
+I also further recall that, at some point in time, my son Sedat would have been given "power of attorney" to sign cheques in my absence such that, at some point in time, I may have ceased signing cheques completely and the cheques would actually have borne Sedat’s signature, signed on my behalf, in virtue of the said power of attorney.
+Once again, I had no problem with any of this because I trusted my son . . .
+[20] Also, the Hydro-Québec invoices were sent to Mehmet Koskocan’s personal address for the services provided at the 9056 restaurant located on Charleroi Street. Gaz Métropolitain invoices were sent to one of Mehmet’s companies, 9060-7078 Québec inc. (9060), to the attention of Mehmet Koskocan. An agreement was also entered into in 2004, several months after the sale of 9056, between a telephone service provider and Mehmet Koskocan, which was signed by him and in which he was described as the owner.
+[21] 9056 received a cheque for approximately $12,400 from an insurance company for damage caused by a fryer fire. The cheque was endorsed and deposited into 9056’s bank account on December 30, 2008, but Mehmet did not recognize his signature when he was cross-examined. Nor did he recognize his signature on cheques payable to Conan, one of 9056’s cheese suppliers, to the accountant for his professional services or cheques for management training services.
+[22] As a result of the other fire, which occurred on November 3, 2010, the insurance company paid $84,000 as compensation, which would have enabled 9056 to rebuild the restaurant. Sedat asked his father to deposit the cheque into 9056’s bank account in December 2010. (See a copy of the cheque, which was not endorsed to make the deposit, Exhibit I-2, tab 40.) Unfortunately, the ARQ seized the amount in question, which prevented them from relaunching 9056’s activity, according to the information that the father and son provided to the ARQ. The ARQ auditor allegedly informed the collection officer that her assessment was unimpeachable. The auditor testified that she did not recall making such a statement. However the evidence revealed that the Charleroi Street restaurant continued to be operated directly, or indirectly through a corporation, by members of the Koskocan family—first by Sedat’s daughter’s husband and subsequently by Sedat’s daughter.
+B. 9056 audit
+[23] When 9056 was audited by the ARQ, it was Sedat, not his father, who met with the ARQ auditor and answered her questions. Sedat signed the power of attorney authorizing the ARQ to communicate with 9056’s counsel. This document authorized the collection officer to discuss the case with these individuals.
+[24] Exhibit I-1, tabs 1 and 4 to 9 include the following documents:
+- 9056 notice of assignment, dated June 28, 2013, tab 4;
+- Copy of the Minister’s proof of claim, tab 5;
+- Copy of the certificate registered in the Federal Court on April 12, 2011, tab 6;
+- Copy of the assessment dated July 24, 2012, tab 1;
+- Copy of the writ of seizure, dated July 15, 2011, tab 7;
+- Deficiency report dated August 25, 2011, tab 8;
+- Copy of a notice of assessment in respect of 9056 dated December 16, 2010, for the period from January 1, 2006, to December 31, 2009, tab 9. We need to bear in mind that Mehmet Koskocan’s July 24, 2012, assessment concerned a net tax amount owing under the ETA for the period from January 1, 2007, to December 31, 2010 (see Exhibit A-1, tab 1). Net GST amounts were added, which were reported for 2010, but not remitted by 9056 and not part of an assessment made by the ARQ.
+[25] The auditor explained her approach in conducting the 9056 audits in 2009 and 2010. She noted the total absence of cash register rolls, pizza delivery invoices and purchase invoices for the period from November 1, 2005 to June 30, 2009, which she required to determine whether all restaurant sales had been posted and reported to the ARQ. The reason given for this absence was destruction by mistake.
+[26] Cash ZZ1s, i.e. the cumulative sales totals for a given period, were provided for all transactions from July 1, 2009, to July 10, 2009 and from November 11, 2009, to February 18, 2010, apparently, subsequent to the auditor’s visit. [18] Conan’s purchase invoices for the period from January 1, 2006, to December 31, 2009, and Delorme Primeau’s purchase invoices for the period from January 1, 2006, to December 31, 2008 were found, but there were no invoices from other suppliers of other products, such as chicken wings, pita bread and submarine sandwich rolls, cheese curds for poutine, etc. [19]
+[27] According to the information provided by Sedat, all delivery sales were recorded in the cash register. An audit of delivery bills for three random days revealed that a significant proportion of these bills were missing: 11 out of 19, 10 out of 17, and 7 out of 12. Also, sales posted for the month of September 2009 were $3,606 lower than total cash sales according to the cash Z’s.
+[28] As a result of all these anomalies, the auditor decided to use an alternative method to reconstruct sales, the "utilities and telecommunications" ratio. In her audit report, she explained: [translation] "The amount of gas and electricity used varies with production, which provides a more accurate reconstruction of sales." She used 4% of the cost of these services, a figure provided by Statistics Canada for limited service eating places, i.e. without table service. According to her, 4% was an advantageous figure for 9056, because the average was 2.7%, and the highest ratio was 5.6%. However, this method resulted in sales totalling $1.76 million, or $1.26 million higher than the sales reported by 9056. This was an outrageously high amount according to Mr. Koskocan’s counsel. [20]
+C. Mr. Léger’s appraisal
+[29] Mehmet Koskocan requested an expert report by Christian Léger, Ph. D. P. Stat., Full Professor at the Université de Montréal, who prepared an assessment of the statistical methodology used in the audit of Champion Pizza 2 pour 1 restaurants. Mr. Léger was declared an expert witness with the consent of counsel for the Respondent. He explained his analysis of the method used by the ARQ to establish a ratio equal to the ratio of sales to expenditures for utilities such as Hydro-Québec and Gaz Métropolitain. In conclusion, his report stated:
+[translation] Using a single (average or median) number to represent a particular value of the range of a random variable can often produce very large errors unless the variability of the values around this mean or median is low. Although the Statistics Canada data do not contain all the information needed to accurately estimate the variability of the range of percentages of income spent on utility expenses, the fact that the overall average is 2.8%, while the averages for four quarters determined on the basis of income were 5.6%, 4.2%, 3.1% and 2.4% clearly demonstrates that the range is asymmetrical on the right. This means that there is a very large number of eating places (mostly high-income) that have a very small percentage, but that a large number of eating places (mostly low-income) with percentages that can be very far from the average. In particular, as the average of one quarter of small eating places is 5.6%, several eating places have percentages that exceed this value. In addition, no scientifically valid rationale has been provided to suggest that it is reasonable to assume that "Champion Pizza 2 pour 1" should be as low as 4%.
+[My emphasis.]
+D. Financial statements provided to the insurance company adjuster
+[30] At the hearing, the respondent produced financial statements for the 2008 and 2009 fiscal years, which had been provided to the insurance company adjuster, most likely to quantify the losses resulting from the 2010 fire, and which revealed sales higher than those indicated in the financial statements submitted to the ARQ. [21] It is useful to reproduce these sales in one table and the sales calculated based on the alternative method using the 4% and 5.6% ratios, i.e., the highest average percentages calculated by Statistics Canada: [22]
+[BLANK]
+2006
+2007
+2008
+2009
+Total
+Turnover - reported
+122,580
+121,394
+128,008
+129,338
+501,320
+Turnover - insurance
+[BLANK]
+[BLANK]
+158,008
+159,338
+[BLANK]
+Sales increase
+[BLANK]
+[BLANK]
+30,000
+30,000
+[BLANK]
+Sales increase %
+[BLANK]
+[BLANK]
+23%
+23%
+[BLANK]
+Turnover at 4%
+375,625
+465,015
+387,890
+533,720
+1,762,250
+Sales increase
+253,045
+343,621
+259,882
+404,382
+1,260,930
+Sales increase %
+206%
+283%
+203%
+313%
+BLANK]
+Turnover at 5.6%
+268,304
+332,153
+277,064
+381,229
+1,258,750
+Sales increase
+145,724
+210,759
+149,056
+251,891
+757,430
+Sales increase %
+119%
+174%
+116%
+195%
+[BLANK]
+E. Mehmet Koskocan’s assessment made by the collection officer
+[31] When she testified, the collection officer explained the basis for her assessment. She considered Mehmet Koskocan to be a de facto director because he was involved in the management of 9056, was responsible for the corporation’s bank account, had endorsed the compensation cheque for the fryer and was invoiced for the Hydro-Québec services received by 9056 and that the Gaz Métropolitain invoices had been sent to one of his corporations. Her authorization report to her supervisors described her reasons as follows:
+[translation] Mehmet Koskocan has not been mentioned as a director in the Quebec Enterprise Register since 2003-12-03. However, we are assessing him as a de facto director for the following reasons:
+He is registered as sole director in the bank file and is the only authorized signatory. Indeed, he has also signed almost all the cheques issued by the corporation. A few have been signed by an unauthorized person. The Hydro-Québec, Gaz Metro and TelSynergy accounts are in Mehmet Koskocan’s name[.] Following a loss, he endorsed the compensation cheque dated December 30, 2008, from the Aviva Insurance Company. He is registered as the sole director and shareholder of the corporation on the CO-17 2006 and signed this return on 2007-12-12 as President.
+On March 17, 2004, as owner, he signed the telephone service contract with Tel-Synergy Telecommunications. He therefore acted as a director after his alleged withdrawal.
+Mehmet [K]oskocan’s representatives claim that his son, Sedat Koskocan, is the [real] director and the corporation’s sole directing mind. However, we have also served a notice [of intent] to assess Sedat Koskocan. He completed [the] questionnaire accompanying the notice. According to the answers he gave us, it is clear that he has practically no knowledge of the corporation’s business. We find that Sedat Koskocan is not the corporation’s directing mind.
+On April 3, 2012, we had a conversation with the R.Q. [auditor], Julie Charron, who investigated eight of the restaurants in the "Champion Pizza deux pour un" chain (see Intervention 162). According to her, Mehmet Koskocan apparently opened all the restaurants and put them in the name of his sons, sons-in-law, nephew[s] and brother[s]. She does not believe that any of them [could] make decisions without first consulting Mehmet Koskocan.
+[My emphasis.]
+[32] She based her finding that Mehmet Koskocan was still a de facto director during the two-year period prior to the date of his assessment on the fact that he had signed a GST report on November 8, 2010, and on the signature on the cheque payable to the ARQ dated November 9, 2010. [23] However, Mehmet Koskocan denied that it was his signature on these documents. According to the collection officer, even though he had not signed these documents, Mehmet had authorized his son to sign them for him. Therefore, his assessment was not time-barred. She acknowledged, in cross-examination, that the ARQ had not hired a writing expert to analyze signatures on the cheques and GST returns.
+[33] Surprisingly, the collection officer explained that she had assessed Sedat as a director, but not his spouse, although she was, as far as Sedat knew, also a director elected by the 9056 shareholders. This officer justified her decision, saying that "she had too much to lose" and that she had no evidence of her involvement in the management of 9056. It should be mentioned that Sedat’s wife owned a triplex, which was purchased in 2004 with her father-in-law, who acted as guarantor only and not as a true owner, according to Mehmet Koskocan’s testimony. The cost was $550,000, $195,000 of which was paid in cash. The father-in-law of Sedat’s wife transferred the title of the property he owned over to her on March 29, 2010. [24]
+IV. Analysis
+A. Relevant statutory provisions and the appropriate approach
+[34] Since this is an assessment made by the ARQ under subsection 323(1) of the ETA, it is appropriate to reproduce this provision as well as subsection (5), which deals with the time limit for making such an assessment:
+Liability of directors
+323 (1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+. . .
+Responsabilité des administrateurs
+323 (1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payée ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[…]
+Time limit
+(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+Prescription
+(5) L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+[My emphasis.]
+[35] The Act does not define who is a director (or in French, administrateur). In a Federal Court of Appeal case, Kalef v. Canada, [1996] F.C.J. No. 269 (QL), at paragraph 10, 96 DTC 6132, on page 6134, Mr. Justice McDonald provided the following description of the approach to be taken in such as situation:
+The Income Tax Act neither defines the term director, nor establishes any criteria for when a person ceases to hold such a position. Given the silence of the Income Tax Act, it only makes sense to look to the company’s incorporating legislation for guidance. [25]
+[My emphasis.]
+[36] This approach was also adopted in another Federal Court of Appeal case, Canada v. Corsano and Wheeliker. [26] In that case, the relevant Act was the Nova Scotia Companies Act, R.S.N.S. 1967, c. 42, which did not, either, define the function of a director. Here is what Mr. Justice Noël (his title at the time) wrote, with Mr. Justice Desjardins concurring:
+48 The ITA does not define "director" either for the purposes of the ITA as a whole or for the purposes of section 227.1. As this Court held in Kalef, it is therefore appropriate to look to the Corporation’s incorporating legislation for guidance as to who is a "director" for the purposes of section 227.1. Under paragraph 2(1)(f) [amend. by S.N.S. 1990, c. 15, sec. 2] of the
+Act,
+"director" includes any person occupying the position of director by whatever name called, [emphasis added]
+I agree with the conclusion of the Tax Court judge that the words "occupying the position of director by whatever name called" brings within the definition a director irrespective of how this position may be designated. This is consistent with the approach of the Chancery Division in Re Lo-Line Electric Motors Ltd., where the Court interpreted the identical definition under the U.K. Companies Act, 1985. According to the Court:
+. . . the words "by whatever name called" show that the subsection is dealing with nomenclature; for example where the company’s articles provide that the conduct of the company is committed to "governors" or "managers."
+49 As section 2(1)(f) speaks simply to nomenclature and is inclusive, it is therefore necessary [to] look to the provisions of the Act to determine the legislative intent with respect to those who have under the law the status of "director."
+50 Before turning to the relevant provisions, I note that the Act nowhere speaks of de facto or de jure directors. Rather it uses the term director in various contexts, some of which suggest a reference to a director who is qualified to act as such under the Act, and others which refer to a person who in fact acts as such without being so qualified. The question to be answered is whether the word director only connotes a person qualified to act as such under the Act.
+[My emphasis.]
+[37] After having reviewed the various provisions of the Companies Act, Noël J.A. wrote as follows at paragraphs 55 to 62:
+55 The Act also seeks to protect those who in good faith contract with persons who purport to act as directors while not qualified to do so. Section 30 is a codification of the common law "indoor management rule."
+It provides:
+30 A company or a guarantor of an obligation of the company may not assert against a person dealing with the company or with any person who has acquired rights from the company
+that . . .
+(b) the persons named in the most recent notice sent to the Registrar under subsection (1) of Section 98 are not the directors and officers of the company;
+. . .
+(d) that a person held out by a company as a director, an officer or an agent of the company has not been duly appointed or had no authority to exercise the powers and perform the duties that are customary in the business of the company or usual for such a director, officer or agent;
+. . .
+except where that person has, or ought to have by virtue of his position with or relationship to the company, knowledge of the fact asserted. [Emphasis added.]
+56 Thus, a company is estopped from asserting that a person who is held out as a director was not qualified to act as such. The result is that in such circumstances, the company will be bound as it would be if the person had been qualified.
+57 Similarly, section 97 validates the acts of a director despite the fact that it is later found that he or she lacked qualification at the relevant time:
+97 The acts of a director or manager shall be valid notwithstanding any defect that is afterwards discovered in his appointment or qualification. [Emphasis added.]
+Similar provisions are common in Canadian corporate legislation and exist so as to protect third parties and ensure a degree of certainty with respect to the effect of corporate transactions. However, section 97 does not have the effect of validating the appointment of unqualified directors; rather it validates the "acts" of an improperly appointed director.
+58 It is therefore apparent that the Act recognizes that persons will act as directors without being qualified to do so, and that the legislator has, despite this absence of qualification, chosen to validate those acts in the circumstances that we have seen. The question then becomes whether this statutory recognition of specified acts by persons who act as directors despite their lack of qualification also has the effect of making them directors under the Act.
+59 In my view, section 95 of the Act and the relevant sections of the Articles would be rendered meaningless if the Act was construed as granting the status of director to those who are not qualified. A director is one who meets the requirements imposed under the Act including those prescribed by section 95. Indeed, a penalty is imposed on those who act as director without meeting those requirements. It would be odd if those who breach the Act by acting as directors while not qualified thereunder would nevertheless have the status of director under the Act. As a matter of legislative intent, it seems unavoidable that only those who meet the requirements prescribed by the Act, are directors under the Act.
+60 In my view, the Act cannot be construed as giving those acting as directors without the requisite qualifications the status of director, nor can it be said that the common law has provided such individuals this status. What the courts have done over the years, however, is devise remedies to assist third parties who deal with persons who act as directors or who are held out by the company as directors although they lack the required qualification or authority.
+61 As I understand it, one principle underlying these common law remedies is that a person who has not obtained the requisite qualifications, is prevented from pleading this failure in order to escape liability attaching to a director. As held by Richards J.A. in Macdonald v. Drake:
+I cannot assent to the contention that a director, who, with his consent, has been elected and has acted as a director, should, merely because he was not qualified to hold the office, escape liability that he would have incurred if he had been qualified. The true principle seems to be that a man cannot take advantage of his own wrong.
+It being recognized in this instance that the respondents acted as directors, in conformity with the will of the shareholders, I see no reason why they should be allowed to assert their lack of qualification to escape the liability cast upon directors by virtue of section 227.1 of the ITA. [27]
+62 Thus, while I would agree with the conclusion of the Tax Court judge that those acting as directors without having the requisite qualifications are not directors under the Act, I do not believe that the respondents can raise this lack of qualification as a defence to their liability under subsection 227.1(1) of the ITA.
+[My emphasis.]
+[38] The common law indoor management (gestion interne) rule was recognized as applicable by the courts of Quebec, by a case decided by the Superior Court of Québec, cited by Jean-Louis Baudouin and Yvon Renaud in Code civil du Québec annoté, volume 1, 18th edition, Montréal, Wilson & Lafleur, 2015, where they commented on section 312 of the Civil Code of Québec (C.C.Q.). That case is Gendron v. Gatien Transport inc., [2005] J.Q. no 2684 (QL), J.E. 2005-1003, 2005 CanLII 9506, EYB 2005-88306 where Mr. Justice Gagnon stated:
+[translation] 86 In addition, the indoor management rule applies here, stated in the following words:
+When there are persons conducting the affairs of the company in a manner which appears to be perfectly consonant with the articles of association, then those so dealing with them, externally, are not to be affected by any irregularities which may take place in the internal management of the company. They are entitled to presume that that of which only they can have knowledge, namely, the external acts, are rightly done, when those external acts purport to be performed in the mode in which they ought to be performed.
+[translation] 87 This doctrine applies in Quebec.
+[translation] 88 In order to benefit from the protection of the indoor management rule, the third party must be acting in good faith,
+[translation] i.e., it must have had no knowledge of the irregularity or of circumstances likely to raise doubts as to the validity of the transaction and, in this case, not have investigated.
+[translation] 89 The evidence supports the conclusion that Marcel Gendron and Gestion Gendron were third parties in good faith on April 7, 2003.
+[translation] 90 Gatien Transport cannot therefore invoke the fact that there were only two directors in office on April 7, 2003.
+[My emphasis.]
+[39] As it were, the issue is not whether someone is a de facto director; rather, the issue, in a legal proceeding, is whether there are grounds for denying the defence that the person is not a director in view of some irregularity. To describe this approach, which the Federal Court of Appeal followed in Corsano and Wheeliker, I will use the phrase "denial of defence rule."
+[40] Here, 9056 was incorporated under Part IA of the QCA. [28] Section 123.1 of this Act does not define the concept of director or that of officer, for that matter. [29] It is therefore necessary to analyze the provisions of Chapter XI of Part IA, which deals with directors. Section 123.72 of the Quebec Companies Act provides:
+The affairs of a company shall be managed by a board of one or more directors.
+. . .
+[My emphasis.]
+[41] Section 123.73 defines the persons eligible to act as directors:
+Any natural person may be a director, except:
+(1) a person who is under eighteen years of age;
+(2) a person of full age under tutorship or curatorship;
+(3) a person declared incapable by a court in another province or in another country;
+(4) an undischarged bankrupt.
+[42] The following section states that it is not necessary to be a shareholder in order to be a director of a company.
+[43] Section 123.75 of the QCA provides:
+123.75. Unless otherwise provided in the articles or by-laws or by unanimous agreement of the shareholders or in a statement contemplated in section 123.91, the directors may establish their remuneration and that of the officers and other representatives of the company notwithstanding subsection 2 of section 91.
+[My emphasis.]
+[44] Section 123.76 of the QCA provides that notwithstanding the expiry of his term, a director remains in office until he is re-elected, replaced, or removed. The second clause of section 123.76 provides that the director may resign from office by giving notice to that effect.
+[45] Section 123.77 of the QCA sets out the procedure for removing a director:
+Unless otherwise provided in the articles, the shareholders may, by resolution, remove a director at a special meeting called for that purpose.
+[46] According to section 123.78 of the QCA, a vacancy created by the removal of a director may be filled at the meeting at which the removal took place or, if not so filled, in accordance with paragraph 3 of section 89.
+[47] Section 123.82 of the QCA deals with the case where there is only one director:
+Where there is only one director, he shall exercise the rights and assume the obligations of a board of directors.
+[48] The second clause of this section states that the director may hold the offices of chairman, secretary or any other officer of the company at the same time.
+[49] Section 123.83 of the QCA states that the "directors, officers and other representatives of a company are mandataries of the company."
+[50] Under section 123.85 of the QCA, a director present at a meeting of the board or executive committee is deemed to have approved any resolution or participated in any measure taken at that meeting, unless:
+(1) he demands at the meeting that his dissent be registered in the minutes of proceedings, or
+(2) he notifies the secretary of the meeting in writing of his dissent before the adjournment or rising of the meeting.
+[51] Chapter VII of Part IA must also be considered. It deals with the powers of a company and to a certain extent codifies the common law indoor management rule. It includes the following three sections:
+123.30. Third persons are not presumed to have knowledge of the information contained in a document concerning the company, other than the information set out in section 98 of the Act respecting the legal publicity of enterprises (chapter P-44.1), by reason only that the document has been deposited in the register or that the document may be consulted in the offices of the company.
+1979, c. 31, s. 27; 1980, c. 28, s. 14; 1993, c. 48, s. 275; 2010, c. 7, s. 199.
+123.31. Third persons may presume that
+(1) the company exercises its powers within the scope of its articles and by-laws and the unanimous agreement of the shareholders or the statement referred to in section 123.91;
+. . .
+(3) the directors and officers of the company validly hold office and lawfully exercise the powers arising therefrom;
+(4) the documents of the company issued by one of its directors, officers or other mandataries are valid.
+1979, c. 31, s. 27; 1980, c. 28, s. 14; 1982, c. 52, s. 139; 1993, c. 48, s. 276. c. 40, s. 70.
+123.32. Sections 123.30 and 123.31 do not apply to third persons in bad faith or to persons who ought to have knowledge to the contrary by virtue of their position with or relationship to the company.
+1979, c. 31, s. 27; 1980, c. 28, s. 14.
+[My emphasis.]
+[52] Section 98 of the Act respecting the legal publicity of enterprises (ALPE) (CCLR, c. P-44.1) provides as follows:
+98. The following information relating to a registrant may be set up against third persons from the time it is recorded in the statement of information and is proof of its content for the benefit of third persons in good faith:
+. . .
+(6) the names and domiciles of the directors and the positions they hold or, if all powers have been withdrawn from the board of directors by a unanimous shareholder agreement entered into in accordance with the laws of Québec or a Canadian jurisdiction other than Québec, the names and domiciles of the shareholders or third persons having assumed those powers;
+(7) the date of entry into office and, if applicable, the date of cessation of office of the persons referred to in subparagraphs 6 and 10;
+. . .
+Third persons may submit any proof to refute information contained in a document filed with the registrar or transferred under an agreement entered into under section 117 or 118.
+However, a registrant whose registration has been cancelled ex officio by the registrar may not dispute information declared by the registrant and contained in the statement of information.
+2010, c. 7, s. 98; 2010, c. 40, s. 44.
+[My emphasis.]
+B. De jure director
+[53] On reading these provisions, it is clear that the QCA recognizes the distinction between a director and an officer. Under the QCA, a director is not a mere employee of the corporation or even one of its officers. A director is a person who is a member of the board of directors or, when he is a sole director, assumes the obligations of a board of directors. Here is how Raymonde Crête and Stéphane Rousseau described directors in Droit des sociétés par actions, 2nd edition, Montréal, Les Éditions Thémis, 2008, on page 326, paragraph 711:
+[translation]
+The board of directors is the primary forum within which the corporation’s management powers are exercised. Directors are responsible for managing the affairs of the company as a body.168 In principle, it is only when they meet as a board of directors that directors represent the company and can exercise the powers assigned to them under the Act.169 Therefore, as individuals, directors do not have any particular management power, unless they have been delegated specific responsibilities by the board of directors.170 From this standpoint, meetings of the board of directors are crucial for the proper functioning of companies.
+________________
+168 Standard Construction Co. v. Crabb, (1914) 7 W.W.R. 719 (Sask.C.A.).
+169 Section 311 C.C.Q; Cloutier v. Dion [1954] B.R. 595, 603; Dallaire v. Leclerc, (1918) 53 C.S. 201.
+170 Kavanagh v. Norwich Union Ins. Co., (1900) 4 Q.P.R. 229 (C.A.); Bell v. Milner, (1957) 21 W.W.R. 366 (SCBC).
+[My emphasis.]
+[54] They reprise the same theme at paragraph 721 where they state: [translation] "Outside the board of directors’ forum, the director does not, in principle, have the power to represent the corporation and to make binding decisions."
+[55] At paragraph 716, the authors discussed how a board of directors operates:
+[translation] In addition, the Act allows directors to hold a board of directors meeting on paper. This simply involves preparing a resolution in writing, signed by all the directors entitled to vote on that resolution at a meeting of the board of directors. The written resolution is then as valid as if it has been passed at that meeting.178 . . .
+________________
+178 Section 89.3 QCA; subsections 117(1) and (2) Canada Business Corporations Act [30]
+[My emphasis.]
+[56] Maurice Martel and Paul Martel, in their treatise La compagnie au Québec, volume I : Les aspects juridiques, Montréal, Éditions Wilson & Lafleur, Martel Ltée (loose leaf), adopted a similar interpretation, particularly at paragraph 22-4, which reads as follows:
+[translation] 22-4 When considering the position of the directors of a company, we must make a clear distinction between the directors as individuals, and the board of directors as a body. As we will see, the individual directors are not agents of the company and have no power to bind the company, unless they have been specifically authorized to do so. On the other hand, the directors taken as a whole are an "organ" of the company, through which it acts. This is what is specified in section 311 of the Civil Code of Québec. [31]
+[My emphasis.]
+[56] Further on at paragraph 22-32, they add the following when commenting on the 1999 amendment to section 123.83 of the QCA, which states that directors and officers are "mandataries of the company":
+[translation] . . . It seems to us that this new wording, although accurate for officers and other representatives, goes too far with respect to directors. They undoubtedly have the same duties to the company as mandataries (section 321), but they are not the company’s mandataries with respect to third persons, in the sense that they do not as such have the power to represent the company in the performance of juridical acts with third persons (section 2130). The company’s senior officers are the ones who have the power to represent and bind the company (section 312), as we will see in chapter 26 [which deals with senior officers].
+[My emphasis.]
+[57] Sections 311 and 312 of the C.C.Q., cited by these authors, provide:
+311. Legal persons act through their organs, such as the board of directors and the general meeting of the members.
+312. A legal person is represented by its senior officers, who bind it to the extent of the powers vested in them by law, the constituting act or the by-laws.
+[My emphasis.]
+C. Denial of defence
+[58] Here, the collection officer acknowledged that Mehmet Koskocan was not a (de jure) director since he had resigned in 2003 and given notice of his resignation, as provided for in section 123.76 of the QCA. However, she assumed that he was a de facto director, but that concept is not recognized by the QCA. On the basis of the principles propounded by the Federal Court of Appeal in Corsano and Wheeliker, and following the approach described above, adopted by the Court in that same case, it must be concluded that Mehmet Koskocan was not a director for the purposes of the QCA, which governs 9056, nor was he for the purposes of subsection 323 of the Act.
+[59] However, that does not mean that he cannot be held jointly and severally, or solidarily, liable for the tax not remitted under the Act. Indeed, there could be a denial of a defence, i.e. the defence that he had not been properly elected as a director, had Mr. Koskocan acted as a director. Some cases and the doctrine describe this type of person as having the status of a de facto director. To properly determine whether a person is acting as a (de jure) director, the only status recognized by the QCA, for the purposes of subsection 323(1) of the Act, one must first understand who such a director is. It is therefore based on the above analysis that we need to determine whether that person has acted as a director and whether his defence against an assessment made under subsection 323(1) of the Act will be denied.
+[60] Before commencing that exercise, it is also useful to bear in mind the role of the courts and the principles that should guide them. Associate Chief Judge Wery of the Superior Court of Québec made the following comments in Allman v. Laplante, 2005 J.Q. no 12477 (QL), 2005 CanLII 31504, where he was called upon to interpret section 119 of the Canada Business Corporations Act, R.S.C. 1985 c. C-44, which provides that directors of a corporation are jointly and severally, liable to employees of the corporation for all debts not exceeding six months wages payable to each such employee for services performed for the corporation:
+[translation]
+[27] The applicants’ position elicits great sympathy. Most of them are now of a certain age and they want to be paid for the work done for Limousine Mont-Royal in 1991 [sic]. Now, as we know, the courts’ judgments must not be based on feelings, but on the law. As the Supreme Court of Canada noted in respect of similar circumstances in Crabtree:
+However much sympathy one may feel for the appellants, who have here been deprived of certain benefits resulting from the contract of employment with their employer, that does not give a court of law the authority to confer on them rights which Parliament did not intend them to have. . . . Only Parliament is in a position, if it so wishes, to extend these benefits after weighing the consequences of so doing. This, in the final analysis, remains a political choice and cannot be the function of the courts.
+[translation] [28] Normally, a claim for wages and other benefits is not a problem unless the claim is not against the employer, but the employer’s directors. Normally, the directors of a corporation are not personally liable for its debts. To use the colourful language of Mr. Justice Monet of the Court of Appeal: "It is by way of departure from common law that the directors of the company may be converted into debtors under the Act."
+[My emphasis.]
+[61] It is useful to reproduce the comments of Maurice and Paul Martel, above, regarding the concept of de facto director. They wrote as follows in paragraphs 21-69 and 21-70:
+[translation]
+. . . the fact that the election of a director is tainted by an irregularity does not invalidate the actions of that director or those of the entire board of directors, at least not in respect of third parties in good faith. A person acting as a director when the required formalities have not been fully satisfied or who continues to act as a director despite having resigned from this position is a de facto director subject to the same responsibilities as a de jure director.
+As the designation implies, a de facto director will be considered a director if, in fact, he usurps this function by performing acts normally reserved for directors: for example, attending meetings of the board of directors, signing board resolutions, making or participating in decisions concerning administration or disposition, providing instructions on behalf of the company, representing himself to third parties as a director, etc.
+[My emphasis; Footnotes omitted.]
+[62] In my opinion, the authors provided a fine illustration of the true role of directors, which mainly involves performing acts that only directors are entitled to, such as signing resolutions and participating in board of directors meetings as directors. On the other hand, care must be taken not to misinterpret the scope of two of the examples provided in the passage above, because they may be confusing. I am referring to [translation] "participating in decisions . . . concerning disposition of property, providing instructions on behalf of the company." In the case of the disposition of significant assets requiring the board of directors’ approval, the example is entirely appropriate and relevant. In the case of the disposition of goods in the course of operating the business, then the board should not become involved. Under these circumstances, this should not be considered an example of an action taken by a director. Rather, this is an action that any employee of the company could perform.
+[63] The same applies to providing instructions. If the instructions are intended to define the corporation’s mission or identify control mechanisms to be introduced within the corporation’s operations, this is the board of directors’ responsibility. But implementing these instructions is the responsibility of the officers, who can provide the corporation’s staff with more detailed instructions. We must not confuse the actions taken as a director with the actions taken as an officer.
+[64] See also the excellent comments provided by former Chief Justice Bowman of this Court in Scavuzzo v. The Queen, 2005 TCC 772, [2006] 2 C.T.C. 2429, 2006 DTC 2136, 2005 G.S.T.C. 199, 2006 G.T.C. 97, on the concept of de facto director, and the long doctrinal extracts reproduced in this decision, drawn notably from Palmer’s Company Law, Twenty-Third Edition (at paragraph 31 of his decision), Wegenast’s classic treatise, The Law of Canadian Companies (at paragraph 29 of his decision) and Fraser & Stewart, Company Law of Canada, 5th edition (at paragraph 30 of his decision).
+[65] As can be seen from the statutory provisions and the doctrine, it is clear that under Part IA of the QCA, as well as under the other statutes governing corporations, there is a clear distinction between a director and an officer of a corporation. Moreover, the new Quebec BCA contains a definition of officer, as we have seen above. In my view, this legal environment provides ample justification for not having to extend the scope of section 323 of the ETA to ensure that an officer of the corporation is not considered a director. A person may act as the sole shareholder, sole director and president of a corporation. Just because this person signs a resolution as a director to declare and pay dividends does not mean the dividend is illegal because the resolution was signed by a shareholder or the president of the corporation.
+[66] Similarly, just because the same person signs a sales contract in his capacity as president of the corporation does not mean he is acting as a director. Each function entails a specific role recognized by legislation governing corporations, including the QCA, and the roles and powers associated with each of these functions should not be confused.
+[67] Unless the shareholders of a corporation have signed a unanimous shareholder agreement, a shareholder cannot manage the affairs of the corporation. He can only elect the directors of the corporation. Together, it is these directors who constitute the board of directors and have the power to manage and supervise the corporation’s operations. This power is exercised collegially and manifests itself in the adoption of resolutions. The board of directors is responsible for declaring dividends, issuing new shares and appointing the officers of the corporation, including the president, secretary and other officers. Some statutes require the board of directors to appoint one of these officers, specifically the president, without necessarily requiring it to appoint others. On the other hand, it is common practice for a board of directors to appoint the person responsible for managing the business and delegate to that person the powers required to fulfill the company’s mission. At the end of the day, it is the directors who, with the authorization of the board of directors where necessary, make commitments to third parties and manage the corporation’s day-to-day operations.
+[68] Consequently, the prerogatives and powers specific to each position, including the shareholder, director or officer positions, must be taken into account in determining the extent to which a person could usurp the functions of a director. A director’s functions cannot be usurped when cheques or contracts are signed, staff is hired, income tax or GST returns are signed or when invoices are received. These activities are the prerogatives of an officer or any other person designated by the board of directors or a person designated by the officer of the company. They are not the prerogatives of a director. It is therefore important to exercise caution when trying to determine whether a person is acting as a de facto director.
+[69] We should also bear in mind that the concept of de facto director has been developed by the case law to protect third parties in good faith who deal with the corporation where one or more members of the board have not been legally elected under the conditions stipulated by the Act governing the corporation and in situations where a person was usurping the duties of a director. In my view, there is a basis for this enlargement where a person is acting under the jurisdiction of a director of a corporation. However, this approach should not enlarge the scope of statutory provisions protecting employees or tax authorities by improperly broadening the scope of these provisions, which, in a departure from common law, render the directors liable for the breaches of the corporation. This liability cannot be extended to those who act as officers, unless the Act provides for it or is amended to render such persons acting as officers jointly and severally, or solidarily, liable for taxes not remitted to the taxation authorities or unpaid wages of the corporation’s employees.
+[70] As noted above, subsection 323(1) of the ETA constitutes a departure from the common law and applies only to directors. Parliament could have provided that its scope should extend to the corporation’s senior officers (hauts dirigeants). It could have provided that the president of the corporation shall be responsible for the breaches or provided that any person authorized to sign the cheques of a corporation shall be responsible for the corporation’s failure to meet its obligation to remit the GST amounts provided for under the ETA. However, such was not Parliament’s decision and choice when it adopted section 323 of the ETA. It limited the scope of subsection 323(6) to the position of director.
+[71] It is important to keep in mind that the government has the option of proposing to Parliament that it amend an act when it finds that it does not achieve the desired objective. Such was the case a few years ago, when the Minister of Finance tabled a Notice of ways-and-means motion on December 12, 1995, proposing that a section 323.1 be added to the ETA to counter the role played by banking institutions that refused to honour cheques payable to the tax authorities when the corporations were in financial difficulty. It was also proposed that similar provisions be added, i.e., subsections 227(5.2) to (5.4) to the Income Tax Act. However, in response to steps taken by the Canadian banking industry, which agreed not to intervene in or obstruct remittances to the tax authorities, the government did not follow up on its proposals, which were set out in this Notice of ways-and-means motion. According to commentator David M. Sherman, these measures have been suspended indefinitely.
+D. Application of the law to the facts of the appeal
+[72] One of the main reasons that prompted the ARQ collection officer to hold Mehmet Koskocan jointly and severally, liable for the amounts due under the ETA was that he was the person authorized by 9056 to sign the cheques and to conduct banking business with this corporation’s bank, the National Bank of Canada. In my view, the approach taken by this officer improperly extended the scope of subsection 323(1) of the ETA and constituted a significant deviation.
+[73] I therefore find it entirely inappropriate to conclude that Mehmet Koskocan acted as a director because he engaged in activities performed by a senior officer, an officer or a salaried employee of the company. For example, there is no law requiring that the authorized signatory of cheques drawn on a financial institution be a director, i.e., a member of the board of directors. A salaried employee could be designated to be the signatory. Thus, I do not see how one can infer from the fact that a person signs cheques that he is acting as a director. We should bear in mind that, according to the QCA, the board of directors—not each individual member—has the power to manage and supervise the corporation’s activities. It is recognized that individual directors do not have the power to conduct business on behalf of the corporation. The role of the board of directors embodied by its directors includes authorizing a person to sign the corporation’s cheques. It generally does this by adopting a resolution to that effect. To satisfy the banking institution, the secretary of the corporation usually certifies that such a resolution has been adopted by the board of directors. If Mehmet Koskocan had filed a bank resolution with the NBC, signed by him as the director of 9056, when he had not been elected as such by the 9056 shareholders, designating him as the person authorized to sign the cheques, then the situation could have been quite different, and Mehmet could have been deemed to be acting as a director who was usurping this function. But that is not the case here!
+[74] Also, a director does not usually sign income tax returns or GST returns. Rather, this is done by an officer or another person appointed by an officer or executive of the company to deal with the tax authorities. The tax laws do not require that the person signing the tax returns be a director appointed by the board of directors.
+[75] The language of subsection 323(3) of the ETA provides that a director is not liable for failing to act where the director has exercised the degree of care, diligence and skill to prevent the failure. It can be seen that this language is consistent with the role that a board of directors must play in the corporation’s activities, i.e., take the necessary steps to ensure that certain tasks are properly executed.
+[76] It is also interesting to quote the following passage from Kalef, above, which described (paragraph 7 QL, page 6134 DTC) the justification for Parliament’s decision to make a director liable:
+The justification for the imposition of vicarious liability is simple. The directors of a company are its directing mind. They are the persons responsible for insuring that the corporation fulfils its financial obligations.
+[My emphasis.]
+[77] It is important to point out here that 9056 had two duly elected directors, whose names were sent to the competent authorities, i.e., the Registraire des entreprises du Québec, an ARQ employee. [32] The respondent did not challenge the fact that these persons were the actual directors of 9056. On the contrary, the ARQ assessed one of them, Sedat Koskocan, under subsection 323(1) of the ETA. If the ARQ made such an assessment in respect of Mehmet Koskocan, it was because it considered him a de facto director. We know that he had previously been a director, but he duly resigned when he sold all his shares to his son and daughter-in-law in 2003. Subsequently, this resignation was duly reported to the government authorities, in particular to the Registraire des entreprises du Québec.
+[78] Here, the ARQ tried to compare this former director to a person acting as a de facto director, as if he had usurped the duties of the duly elected directors of 9056. However, that is not the case. Mr. Koskocan had been duly appointed by the board of directors of that corporation, when it was created at the time where Mr. Koskocan was the sole director, to sign the cheques drawn on the NBC. After his resignation as director and after the sale of his shares in May 2003, Mr. Koskocan remained, to the knowledge of the board of directors, the person designated to sign the cheques. If the board had wanted to replace him, it could have done so by appointing another person. The decision to remain the signatory of the cheques was not Mr. Koskocan’s decision. It resulted from the bank’s reluctance to approve his son as the new signatory. In these circumstances, it cannot be concluded that Mr. Koskocan usurped the function of the 9056 directors. It cannot therefore be inferred that Mehmet Koskocan acted as a director of the corporation.
+[79] The same applies to the fact that the electricity, gas and even telecommunications invoices were addressed either to Mehmet Koskocan personally or to a corporation connected to him, i.e. 9060. The fact that he acted as an intermediary for 9056 in the provision of services or goods does not make him a de facto director of 9056. The gas invoice was addressed to 9060. No one would think that 9060 was acting as a director because of that intermediary role. Only natural persons may act as directors. Now, how could it be argued that Mehmet was acting as a director because the invoice was addressed to him personally? This makes no sense because it is an irrelevant fact.
+[80] Among her other reasons, the ARQ collection officer mentioned the fact that the 2006 income tax return [33] filed on December 12, 2007, with this agency was signed by Mehmet Koskocan as President. First of all, Mr. Koskocan did not sign as President, but as the representative authorized to sign, on the first page of the document. However, he had signed the 1997 GST registration application as President. As noted above, even if he had signed as President, it would not matter, since subsection 323(1) of the Act does not apply to officers of a corporation. A president cannot be a director.
+[81] In Part 3 of 9056’s 2006 tax return, entitled "Additional information," on line 200 – "Directors of the company," Mehmet Koskocan’s name was entered and his title was President. It appears Mr. Koskocan did not notice this information when he signed this document. It was apparently an error of the company’s external accountant, as was the reference on line 206 – "Shareholders" that Mehmet Koskocan held 100% of the shares.
+[82] The Registraire des entreprises du Québec had been informed since May 2003 that the 9056 shares had been transferred to Mr. Koskocan’s son and his daughter-in-law in May 2003. [34] The same information appeared on the 2003 to 2009 annual returns sent to the Registraire des entreprises du Québec. [35] These returns were completed on a form marked "Ministère du Revenu" du Québec. Thus, the ARQ had all the information necessary to determine who the true shareholders and directors of 9056 were and to also ascertain that the CO-17 tax return was incorrect with respect to this information. Even if that return were to be regarded as an indication that Mr. Koskocan was acting as a director notwithstanding this clerical error by the accountant, this occurred on December 12, 2007, and the two-year period had already elapsed several years before when the ARQ made its assessment in July 2012. This assessment was time-barred. The respondent did not file any additional 9056 income tax returns for subsequent periods containing such a clerical error.
+[83] In conclusion, the ARQ’s collection officer attempted to extend the liability provided for in section 323 of the ETA to persons who are not covered by this provision. The most that could be argued concerning Mehmet Koskocan’s activities would be that he was an officer of a corporation, and officers are not covered by section 323 of the ETA.
+[84] What is even more surprising in this officer’s approach is that she does not appear to have complied with the CRA’s administrative policy described at paragraph 25 of Scavuzzo above:
+[25] . . . In Canada Revenue Agency directive RCD-95-12 relating to director’s liability the CRA makes the following statement:
+(1) Caution should be exercised prior to assessing an alleged "de facto" director. It is not sufficient that a person be signing cheques for the corporation for him or her to be considered a "de facto" director. The general rule is that it is not appropriate to assess an alleged "de facto" director if there are legally appointed directors in office at the relevant times. The assessment of a de facto director should be considered only in cases where a person is representing himself or herself as a director. There should be written evidence of such behavior available.
+[My emphasis.]
+[85] At the following paragraphs, Bowman C.J. stated that he concurred with this directive:
+[26] Such statements are not binding but they represent what I believe to be an administrative approach that is consistent with the law. I have concluded that Jack was not a director of Resici, either de facto or de jure.
+[27] I think it will be apparent that one must be careful about the use of the expression de facto director. It does not cover as broad a field as is sometimes ascribed to it. It does not, for example, at least for the purposes of the derivative liability of directors under the ITA and the ETA cover everyone who exercises authority in the corporation. It may cover persons who although elected as directors may not be because of some technical requirement. It may also include persons who hold themselves out as directors so that third parties rely upon their authority as directors. That is essentially the principle upon which Noël J.A. based his conclusion in paragraph 20 of the Wheeliker judgment.
+[My emphasis.]
+[86] The following is a portion of the decision rendered by Bowman C.J., which I omitted above and which describes his finding of fact which, in my view, is entirely consistent with the facts of the appeal in this case:
+. . . After Jack resigned as director he never held himself out as a director nor did he exercise the sort of control over the corporation’s affairs that one would expect of a director. Jack signed many contracts as General Manager, but never as director. . . .
+[My emphasis.]
+[87] Here, Mehmet was not even a General Manager ("directeur général" in the original version of the Scavuzzo decision) of 9056. It was Sedat who exercised that role. Mehmet did not even exercise control by signing the cheques. Indeed, he often signed a block of 20 blank cheques and Sedat completed the cheques by entering the name of the cheque recipient, the amount to be paid and the date of payment. Sedat even imitated his father’s signature on these cheques on a few occasions. Accordingly, I find that Mr. Koskocan was not a director of 9056 nor did he act as a director. For this reason only, the ARQ’s assessment must be vacated.
+[88] Even if Mr. Koskocan’s appeal is allowed, this does not mean that the ARQ did not have valid reasons for assessing 9056 because of unreported sales. I am convinced by the Minister’s evidence that 9056 had underestimated the amount of its sales. This was even more evident when we note that 9056 provided its insurer with a claim for compensation following a fire, with financial statements showing sales above the amount provided to the tax authorities. On the other hand, I did not find that the method adopted by the auditor was warranted in view of the facts of this appeal. The use of the alternative method of computing a ratio based on the cost of electricity, gas and telecommunications supplies, commonly known as utilities, was not appropriate in the circumstances, as revealed the statistical analysis performed by the consultant hired by Mr. Koskocan. To justify her choice, the auditor assumed that the cost of utilities was proportionate with the restaurant’s operations. Here, Mr. Koskocan established that the ovens used by the 9056 restaurant were always turned on, regardless of the number of consumers and customers in the restaurant or the number of people ordering by telephone.
+[89] For all these reasons, Mehmet Koskocan’s appeal is allowed and the July 24, 2012 assessment is vacated, with costs.
+Signed this 24th day of November, 2016.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 28th day of March 2018.
+Francois Brunet, Revisor
+CITATION:
+2016 TCC 277
+DOCKET:
+2014-2370(GST)G
+STYLE OF CAUSE:
+MEHMET KOSKOCAN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+July 8 and September 19 and 20, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT:
+November 24, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Philippe-Alexandre Otis
+Counsel for the Respondent:
+Josée Fournier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Philippe-Alexandre Otis
+Firm:
+Starnino Mostovac LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-2, tab 1.
+[2] See Exhibit I-1, tab 17, page 44.
+[3] See Exhibit I-1, tab 17, pages 45 and 56 and Exhibit I-1, tab 10, page 1.
+[4] Mehmet Koskocan is listed as the sole director in the 2001 annual return filed with the Inspector General of Financial Institutions on June 3, 2002, Exhibit I-1, tab 17, page 27. The return is dated May 22, 2002. The same applies to the 2000 annual return, signed on December 5, 2000; the 1999 return, signed on December , 1999; and the 1998 return, signed on September 4, 1998 (page 30 et seq.).
+[5] Exhibit I-1, tab 11, page 2.
+[6] According to all the evidence, the pizzeria operates under the name "Pizza Champion 2 pour 1."
+[7] Exhibit I-1, tab 10, page 1.
+[8] See paragraphs 31 to 33 below.
+[9] Exhibit A-2, tab 4, pages 1 and 2.
+[10] Exhibit A-2, tab 5 and Exhibit I-1, tab 17, page 39.
+[11] Pages 22 and 24 of tab 17 of Exhibit I-1.
+[12] See Exhibit I-1, tab 17, pages 4 to 18. These returns were signed by Sedat Koskocan. Only Dondu Koskocan Oztopal’s name appeared on the 2010 return: page 3.
+[13] Exhibit I-5.
+[14] See page 6 of tab 19 of Exhibit I-1.
+[15] Exhibit A-1.
+[16] See Exhibit A-3 for cheques from July 14, 2009, to November 16, 2010.
+[17] See page 9 of tab 18 of Exhibit I-1.
+[18] See auditor’s report, Exhibit I-5, page 4.
+[19] See audit report, Exhibit I-5, pages 4 and 17.
+[20] Counsel for the Respondent was prepared to accept a calculated sales figure based on 5.6% instead of 4%, which would have decreased unreported sales to $757,430.
+[21] See Exhibit I-2, tab 41.
+[22] See Exhibit I-6, last sheet.
+[23] Exhibit I-1, tab 12, page 66.
+[24] See Auditor’s report I-5, page 2.
+[25] I would also add that this approach complies with section 8.1 of the Interpretation Act, which provides as follows:
+Duality of legal traditions and application of provincial law
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+Tradition bijuridique et application du droit provincial
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[26] [1999] 3 FC 173, 1999 CarswellNat 1800, [1999] 2 C.T.C. 395, 172 D.L.R. (4th) 708, 240 N.R. 151, 99 DTC 5658. I adopt this title because, in some law reports, it is listed under Corsano, and in others, under Wheeliker.
+[27] The Superior Court of Québec adopted a similar approach in Fennessey v. Toth, [1994] J.Q. no 2941 (QL), J.E. 94-317, EYB 1994-73616, [1995] R.L. 25. This is what Mr. Justice Chaput wrote in paragraph 10 of his reasons:
+10 [translation] According to counsel for the applicant, a company director cannot, in order to evade the liability established by section 119 of the Business Corporations Act, infer that his appointment was not formal. On this point, he is right. . . .
+[28] It should be noted that since February 14, 2011, corporations created under Part IA are subject to the provisions of the Business Corporations Act (BCA), Q.L. 2009, c. c. ­52. Since the relevant period covered by the Minister’s assessment is from January 1, 2007, to December 31, 2010, I find it appropriate to use the provisions of the QCA that were in force at the time of the assessment, rather than those of the BCA to define, for the relevant period, the concept of director and also to determine whether someone acted as a director for purposes of the denial of defence rule, since this is really the issue in this appeal.
+[29] It should be noted that section 2 of the BCA also does not define who is a director either. On the other hand, it defines an officer as the president, chief executive officer, chief operating officer, chief financial officer or secretary of a corporation or a person holding a similar position, or any person designated as an officer of the corporation by a resolution of the board of directors.
+[30] Section 89.3 of Part I of the QCA applies to companies governed by Part IA, under section 123.6 of the QCA.
+[31] See also Lagacé v. Lagacé, [1966] C.S. 489.
+[32] Section 1 of the ALPE provides: "The Minister of Revenue appoints the enterprise registrar, who is an employee of the Agence du revenu du Québec. The registrar is a public officer."
+[33] Exhibit I-1, tab 16.
+[34] Exhibit I-1, tab 17, page 41.
+[35] Exhibit I-1, tab 17, pages 4 to 24.

@@ -1,0 +1,188 @@
+---
+title: "Hébert v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/307792/index.do"
+last_modified: "2018-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 48"
+citation2: ""
+neutral_citation: "2018 TCC 48"
+decision_date: "2018-03-15"
+language: "en"
+item_id: "307792"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7583
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:52:04.414000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "997ff202f4b8d6523547ed1c4cfc7a759a9e3f613f84a6426e67faa0636b2d54"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hébert v. The Queen
+
+- Citation: 2018 TCC 48
+- Decision date: 2018-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7583, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hébert v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-03-15
+Neutral citation
+2018 TCC 48
+File numbers
+2016-3503(IT)I
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016‑3503(IT)I
+BETWEEN:
+Jean‑Claude Hébert,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[UNREVISED ENGLISH CERTIFIED TRANSLATION]
+Appeal heard on January 8, 2018, at Montréal, Quebec.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Anne‑Marie Desgens
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 15th day of March 2018.
+“Sylvain Ouimet”
+Ouimet J.
+Citation: 2018 TCC 48
+Date: 20180315
+Docket: 2016‑3503(IT)I
+BETWEEN:
+Jean‑Claude Hébert,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[UNREVISED ENGLISH CERTIFIED TRANSLATION]
+REASONS FOR JUDGMENT
+Ouimet J.
+I. Introduction
+[1] Jean‑Claude Hébert (Mr. Hébert) is appealing a reassessment made by the Minister of National Revenue (Minister) on March 23,2015, disallowing Mr. Hébert’s business investment loss (BIL) of $274,114 for the 2011 taxation year. The Minister also disallowed Mr. Hébert’s carry‑forward of non‑capital losses in the amounts of $25,720 and $6,736 for the 2012 and 2013 taxation years, respectively.
+[2] The Minister disallowed Mr. Hébert’s BIL because his corporation, Radio Progressive Montréal Inc. (Radio Progressive), was not a small business corporation within the meaning of the Income Tax Act (ITA). According to the Minister, Radio Progressive was not an active business during the 2011 taxation year, nor during the preceding 12 months.
+[3] Mr. Hébert was the only witness at the hearing.
+II. Issue
+[4] The issue is as follows:
+1. Was the Minister correct to disallow Mr. Hébert’s BIL of $274,114 for the 2011 taxation year?
+[5] To answer this question, I will first have to answer the following question:
+1. Was the Minister correct in determining that Radio Progressive was not an active business during the 2011 taxation year and during the preceding 12 months?
+III. Relevant statutory provisions
+Income Tax Act
+Subdivision C – Taxable Capital Gains and Allowable Capital Losses
+38 Taxable capital gain and allowable capital loss — For the purposes of this Act,
+. . .
+(c) [allowable business investment loss] — a taxpayer’s allowable business investment loss for a taxation year from the disposition of any property is 1/2 of the taxpayer’s business investment loss for the year from the disposition of that property.
+. . .
+39 (1) Meaning of capital gain and capital loss [and of business investment loss] — For the purposes of this Act,
+. . .
+(c) a taxpayer’s business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer’s capital loss for the year from a disposition after 1977
+. . .
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm’s length) that is
+(A) a small business corporation,
+PART XVII — INTERPRETATION
+248 (1) Definitions — In this Act,
+. . .
+active business, in relation to any business carried on by a taxpayer resident in Canada, means any business carried on by the taxpayer other than a specified investment business or a personal services business;
+. . .
+small business corporation, at any particular time, means, subject to subsection 110.6(15), a particular corporation that is a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which at that time is attributable to assets that are
+(a) used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it,
+(b) shares of the capital stock or indebtedness of one or more small business corporations that are at that time connected with the particular corporation (within the meaning of subsection 186(4) on the assumption that the small business corporation is at that time a payer corporation within the meaning of that subsection), or
+(c) assets described in paragraphs (a) and (b),
+including, for the purpose of paragraph 39(1)(c), a corporation that was at any time in the 12 months preceding that time a small business corporation, and, for the purpose of this definition, the fair market value of a net income stabilization account shall be deemed to be nil[.]
+Facts
+A. Background
+[6] Radio Progressive was incorporated on April 23, 1991. Radio Progressive’s commercial activities consisted of selling and repairing radio telecommunications equipment. Radio Progressive’s clientele essentially consisted of radio telecommunications hobbyists.
+[7] According to Mr. Hébert’s testimony, radio telecommunications was a specialized field in 1991, since a federal government permit was required in order to purchase and use such equipment. In the mid‑1990s, with the rise of microcomputers and the Internet, Radio Progressive’s customers abandoned radio telecommunications in favour of microcomputers. As a result, Radio Progressive’s sales declined dramatically, but the business was able to continue to generate revenue from its repair activities.
+[8] During the years that followed, as with several types of electrical and electronic devices, it quickly became more affordable for Radio Progressive’s customers to buy new equipment than to have defective equipment repaired. Thus, by the late 1990s, Mr. Hébert found that it was no longer profitable to operate Radio Progressive from a sales outlet in a commercial space, so he decided to move his business activities to his home. Mr. Hébert wished to continue repairing radio telecommunications equipment and thus dispose of Radio Progressive’s inventory.
+[9] To do this, Mr. Hébert maintained Radio Progressive’s website, where his inventory was displayed. Mr. Hébert also set up residential and cellular telephone lines for Radio Progressive. These telephone lines were separate from the ones he had for his personal use. Mr. Hébert kept the website and the separate telephone lines in service until the dissolution of the corporation on August 26, 2011.
+[10] From 2000 to 2007, Mr. Hébert was able to sell a portion of Radio Progressive’s inventory. However, from 2007 on, Radio Progressive made no further sales.
+[11] Mr. Hébert stated during his testimony that his intention was always to continue Radio Progressive’s commercial activities, even though they were minimal. Basically, between 2007 and 2011, Radio Progressive’s commercial activities were limited to responding to emails and telephone calls about the remaining inventory. To try to sell the company’s inventory, Mr. Hébert contacted his main competitor in the Toronto area and also attempted to sell it at the flea market, without success.
+[12] In 2011, given that Radio Progressive’s inventory no longer had any commercial value and that repair activities were non‑existent, Mr. Hébert decided to cease the company’s operations. Radio Progressive was dissolved on August 26, 2011.
+IV. Analysis
+[13] Under paragraph 39(1)(c) of the ITA, in order for a taxpayer’s loss to be considered a BIL, the debt associated with the loss must be a debt owing by a Canadian‑controlled private small business corporation.
+[14] The definition of “small business corporation” is provided in subsection 248(1) of the ITA. According to this definition, for a corporation to be considered a “small business corporation”, it must be a Canadian-controlled private corporation all or substantially all of the fair market value of the assets of which, at that time, is attributable to assets that are, among other things, used principally in an active business carried on primarily in Canada by the particular corporation or by a corporation related to it at any time in the 12 months preceding that time.
+[15] The definition of “active business” is also provided in subsection 248(1) of the ITA. According to this definition, any business carried on by a taxpayer resident in Canada, other than a specified investment business or a personal services business, is an active business.
+[16] This Court is of the view that, according to this definition, if a business is being operated, it is an active business.
+[17] It is perhaps for this reason, as the Federal Court of Appeal noted in Weaver [1] , that the courts have historically given the phrase “active business” such a broad interpretation that there are few things a corporation could do that would result in the finding, based on its accomplishment of those things, that it was not an active business [2] .
+[18] Ultimately, according to the Federal Court of Appeal in Boulanger [3] , each case should be examined on its individual merits and factual circumstances [4] . In the same judgment, the Federal Court of Appeal listed certain factors that can be considered in determining whether a business is an active business. The Federal Court of Appeal holds that a lack of revenue is not in itself determinative, but it may be relevant [5] . The Federal Court of Appeal placed importance on the fact that the few assets the corporation possessed were not related to its commercial activities. The Federal Court of Appeal found that this prevented the corporation from meeting the definition in ITA section 248. According to this definition, a corporation must have assets of which the market value is attributable to assets used principally in a business carried on by the corporation in Canada [6] .
+[19] In this case, the Court is of the view that Radio Progressive was an active business during the 12 months preceding its dissolution, that is, during the 2010 and 2011 taxation years, despite the fact that its activities were minimal. The Court finds that, although its activities were minimal, considering the nature of Radio Progressive’s commercial activities since its creation, and specifically of the market in which it was involved, it was nevertheless an active business.
+[20] In essence, based on the evidence, Radio Progressive remained active during the years preceding its dissolution solely in order to dispose of its inventory of unsold radio telecommunications equipment and parts. Given that Radio Progressive’s commercial activities since its creation always consisted of selling and repairing radio telecommunications equipment, the corporation’s remaining assets were related to its commercial activities.
+[21] Considering the nature of the corporation’s commercial activities and its revenue, it is difficult to imagine what more Mr. Hébert could have done to dispose of Radio Progressive’s inventory. He maintained a website on which he displayed the inventory that was still available and responded to emails and calls from potential customers, all with the intention of selling the remaining assets.
+[22] Based on the evidence, the market for Radio Progressive’s inventory was very limited. The Minister cannot criticize Mr. Hébert for not having done more to dispose of Radio Progressive’s inventory; after all, the corporation’s revenue was non‑existent. The evidence shows that Mr. Hébert did what he could to try to sell his inventory until it no longer had any market value.
+[23] The Court is therefore of the view that, considering all the circumstances, Radio Progressive was an active business during 2011 and during the preceding 12 months, although minimally. Consequently, the Minister was required to allow Mr. Hébert’s BIL of $274,114 for the 2011 taxation year.
+[24] The appeal is allowed, without costs.
+Signed at Ottawa, Canada, this 15th day of March 2018.
+“Sylvain Ouimet”
+Ouimet J.
+Certified true translation
+This 23th day of September 2019
+Lionbridge
+CITATION:
+2018 TCC 48
+COURT FILE NO.:
+2016‑3503(IT)I
+STYLE OF CAUSE:
+Jean‑Claude Hébert v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 8, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+March 15, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne‑Marie Desgens
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Weaver v. The Queen, 2008 FCA 238.
+[2] Id., paragraph 19.
+[3] Boulanger v. The Queen, 2003 FCA 332.
+[4] Id., paragraph 5.
+[5] Id., paragraph 7.
+[6] Id., paragraph 8.

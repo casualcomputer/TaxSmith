@@ -1,0 +1,136 @@
+---
+title: "Pham v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30074/index.do"
+last_modified: "2010-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 588"
+citation2: ""
+neutral_citation: "2010 TCC 588"
+decision_date: "2010-11-12"
+language: "en"
+item_id: "30074"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7613
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:51:36.209000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7fab33f21b4d82eda076fba7dd41955f17696d4bcaf32feea43f392b72fb8b3b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pham v. The Queen
+
+- Citation: 2010 TCC 588
+- Decision date: 2010-11-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7613, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pham v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-12
+Neutral citation
+2010 TCC 588
+File numbers
+2010-1850(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1850(IT)I
+BETWEEN:
+VAN CHINH PHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 27 and 29, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Iris Kingston
+Richard Patterson (student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2008 taxation year is dismissed.
+Signed at Toronto, Ontario this 12th day of November 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 588
+Date: 20101112
+Docket: 2010-1850(IT)I
+BETWEEN:
+VAN CHINH PHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The question to be decided is whether the appellant, Van Chinh Pham, is entitled to a disability tax credit pursuant to section 118.3 of the Income Tax Act for the 2008 taxation year.
+[2] The appellant testified as to several physical and psychological problems which clearly present significant challenges in his everyday life. In particular they have led to difficulty being gainfully employed.
+[3] I accept the appellant’s evidence as to his medical problems and I acknowledge the severe difficulties that he faces on a day-to-day basis. Nevertheless, the appeal must be dismissed.
+[4] I would first comment that the type of disability which qualifies for the tax relief is quite narrow. In general, a taxpayer must be unable to perform one of the following activities, or at least require an inordinate amount of time to do so:
+(i) mental functions necessary for everyday life,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking.
+[5] Second, I would note that the legislation does not enable a judge alone to evaluate the disability. The evaluation must be done by a medical practitioner.
+[6] In this case, a certificate was prepared by the appellant’s family doctor, Dr. Murray Finkelstein. The doctor’s certificate (Ex. R-2) states that the appellant’s hearing is “markedly restricted,” and indicates that the appellant has acoustic neuroma and tinnitus.
+[7] The Canada Revenue Agency sent a follow up letter seeking further information from the physician. In his reply, Dr. Finkelstein clarified his evaluation and checked the following in the form provided: “able to hear at times” and “takes more time to hear, but does not take an inordinate amount of time” (Ex. R-3).
+[8] The respondent submits that the subsequent information forms part of the doctor’s certificate (s. 118.3(4) of the Act). I accept this as a fair interpretation of this subsection.
+[9] When the information provided by Dr. Finkelstein is viewed as a whole, it cannot be concluded that the certification process required by the legislation was satisfied. It is clear that Dr. Finkelstein concluded that the appellant’s hearing impairment was not severe enough to satisfy the legislative criteria set out in s. 118.4 of the Act. This requires that the hearing loss be so significant that the taxpayer is unable to hear a familiar person in a quiet setting, or takes an inordinate amount of time to do so.
+[10] Dr. Finkelstein’s evaluation of the appellant’s hearing impairment was further clarified on the witness stand when he was called to testify by the respondent. The doctor’s testimony was of great assistance in understanding his opinion and it left no doubt that the hearing loss in the doctor’s opinion was not severe enough to satisfy the legislative requirement.
+[11] I would also note that the appellant had sufficient hearing capability to represent himself at the hearing of his appeal. My observations during the hearing support Dr. Finkelstein’s assessment.
+[12] Finally, I would comment regarding the appellant’s other medical difficulties. Unfortunately for the appellant, relief cannot be granted on the basis of these other disabilities because no doctor’s certificate was provided in relation to them. Dr. Finkelstein’s certificate only considered the hearing impairment.
+[13] In the result, although the circumstances of the appellant are sympathetic, the appeal must be dismissed.
+Signed at Toronto, Ontario this 12th day of November 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 588
+COURT FILE NO.: 2010-1850(IT)I
+STYLE OF CAUSE: VAN CHINH PHAM and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: October 27 and 29, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: November 12, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Iris Kingston
+Richard Patterson (student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

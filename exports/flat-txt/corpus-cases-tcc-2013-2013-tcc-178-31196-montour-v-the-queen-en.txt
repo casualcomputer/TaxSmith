@@ -1,0 +1,124 @@
+Title: Montour v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31196/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-178-31196-montour-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-06-05
+
+# Montour v. The Queen
+
+- Citation: 2013 TCC 178
+- Decision date: 2013-06-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5035, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Montour v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-05
+Neutral citation
+2013 TCC 178
+File numbers
+2012-1897(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1897(IT)APP
+BETWEEN:
+VICKI MONTOUR,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on March 19, 2013 at Hamilton, Ontario
+Before: The Honourable Mr. Justice Randall Bocock
+Appearances:
+Counsel for the Applicant:
+G. James Fyshe
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+ORDER
+WHEREAS the Applicant made an application for an Order extending the time within which an appeal from the reassessment made under the Income Tax Act for the Applicant’s 2010 taxation year may be instituted;
+And WHEREAS upon reading the material filed, hearing vive voce testimony of the Applicant and receiving submissions from respective counsel for the Applicant and for the Respondent;
+NOW THEREFORE This Court Orders that:
+1. the Application to file a Notice of Appeal is granted on the basis that there are reasonable grounds for the appeal;
+2. the Applicant shall file within 30 days of the date of this Order a fresh Notice of Appeal disclosing particular facts and statutory provisions of her appeal; and
+3. the Respondent, should the Minister elect, may file a fresh Reply within 30 days of the receipt of the fresh Notice of Appeal.
+Signed at Ottawa, Canada, this 5th day of June 2013.
+“R.S. Bocock”
+Bocock J.
+Citation: 2013 TCC 178
+Date: 20130605
+Docket: 2012-1897(IT)APP
+BETWEEN:
+VICKI MONTOUR,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+I. Issue
+[1] As noted by the Court in Reasons for Order in Turcotte v. Her Majesty The Queen, 2013 TCC 171, each taxpayer has an “as of right” prescribed ability to appeal any reassessment of the Minister to the Tax Court of Canada subject to the filing a Notice of Appeal within 90 days of receipt of any Notice of Confirmation. As with Turcotte, no notice of appeal was filed within the 90 day period.
+[2] The Notice of Confirmation in this matter was sent on February 9, 2012 to Ms. Montour’s appointed agent, Native Leasing Services.
+[3] No Notice of Appeal was received until May 14, 2012. The “as of right” deadline expired on May 10, 2012. Under subsection 167(5) of the Income Tax Act (“Act”), once the “as of right” deadline has expired a taxpayer in order to appeal the assessment must bring an application to extend the time by filing a Notice of Application within one year after the expiration of the 90 day “as of right” appeal period. In this Application, not dissimilar from Turcotte, the sole objection submitted by the Respondent and also the sole outstanding issue before this Court is whether the final condition in subparagraph 167(5)(b)(iv) of the Act has been satisfied. In short, are there “reasonable grounds” for the Appeal?
+II. Proceedings To Date
+[4] This Notice of Application was filed contemporaneously with many others by Native Leasing Services (“NLS”), as agent, on behalf of certain status Indians. Consistent with NLS’ usual practice, the Notice of Application and the attached Notice of Appeal are identical to many of the other Notices of Application brought before the Court. It is generous to say that such pleadings lack particulars.
+[5] Counsel for Ms. Montour, also counsel of record in Turcotte, is requesting that the Application be allowed and that the Appeal be heard on its merits before a trial judge. In this case, the Application to extend is noted by the Court to have been a mere five days after the “as of right” appeal period expired. This fact is not determinative in any way to the issue of whether there are reasonable grounds.
+III. Facts
+[6] As a result of the non-descript Application and Notice of Appeal in this matter, the Applicant, Ms. Montour, testified and demonstrated her intention to Appeal through documentary evidence. This evidence caused the Respondent to withdraw its previous secondary objection to the Application on the basis that there was a failure to disclose a bona fide intention to appeal under clause 167(5)(b)(i)(B).
+[7] Ms. Montour provided testimony to the Court:
+1. She is a status Indian.
+2. She is presently a support worker employed by the Native Women’s Centre in Hamilton. The Native Women’s Centre (the “Centre”) is dedicated to providing shelter for Native women who have been the victims of family violence. The Centre focuses its assistance to the native community through original belief systems.
+3. The Six Nations of the Grand River Reserve (the “Reserve”) is located approximately 30 minutes by car from downtown Hamilton. An unquantifiable number of women in transit to or from or resident on the Reserve attend and utilize the services of the Centre.
+4. There is no exclusivity surrounding the services offered by the Centre for native women who reside on the Reserve.
+5. Self identification is the sole method by which the services are provided to native women. In some instances women who are not status Indians are provided with services from the Centre.
+6. The Centre does not track the movement of women pre or post receipt of services at its premises. The women who attend the Centre are appropriately described as generally being native women who have been subject to violence or threat of violence within a domestic or a relational setting.
+7. There was some evidence provided by Ms. Montour suggesting that the services provided to on-Reserve native women who utilized the services of the Centre could not easily, nor safely (to the extent of creating a secure and safe environment) be provided on the Reserve.
+IV. Submissions Regarding Necessity of off-Reserve Safe Environment
+[8] Counsel for the Applicant, in his submissions, proffered three broad arguments. The first two were legal in nature as to the changing dynamic of the connective factors test and recent case law constituting a “game changer” regarding the appropriateness of utilizing the connective factors test and its relational concept of the “commercial mainstream.” The third argument related to the requirement, or at least the optimal arrangement that the very service provided to native women at the Centre requires a safe, secure, distant and neutral refuge from abusive domestic and relational situations. Given the nature of Reserve life and the relatively compact nature of the Six Nations Reserve, such a refuge may require the appropriate necessity of having at least one such women’s centre located in an urban, off-Reserve setting.
+[9] Counsel for the Respondent directed the Court’s attention to the case of Horn v. Canada and Horn and Williams v. Canada both as to the trial decision 2007 FC 1052, [2007] F.C.J. No. 1356 and at the appeal decision 2008 FCA 352, [2008] F.C.J. No. 1553. Counsel indicated that the very issue to be heard before the Court, should the Application of Ms. Montour be successful, would be identical to Horn and Williams. Specifically, counsel indicated that the case, upheld on appeal, considered the delivery of social services to native women and found that there was no reason to confer preferred tax treatment on the taxpayer after the proper application of the connective factors test. Since the facts are identical and the law is clear, unamended or indistinguishable, the present application need not be heard since no reasonable grounds for appeal exist. In short, while the work done at the Centre is laudatory, it does not confer a general benefit to native women resident on the Reserve and, in the absence of such a connective factor, there are no reasonable grounds for appeal.
+[10] Reply submissions for the Applicant focused on the dynamic nature of the law as altered by the cases of Bastien Estate v. Canada, 2011 SCC 38, [2011] 2 S.C.R. 710; Dubé v. Canada, 2011 SCC 39, [2011] 2 S.C.R. 764 and Canada v. Robertson, 2012 FCA 94, 348 DLR (4th) 227. The submission of the Applicant in this case is that the undertaking or activity in respect of benefiting natives resident on a Reserve by its very nature cannot always be executed successfully on a Reserve. This exceptional feature of the service is a reasonable factor to be reviewed by a trial judge given the dicta in Canada v. Robertson.
+V. Analysis
+[11] The factual underpinnings before the Court in this matter are somewhat different than those in Turcotte given the off-Reserve Safe Environment issue. That observed, the legal determination necessary in order to allow the extension and the Appeal to proceed is nonetheless the same, namely, it requires the existence of reasonable grounds. Similarly, the pleadings presently before the Court in this matter are not helpful in this regard.
+[12] Applying the logic of the decision reached by the Court in the recent decision of Turcotte requires the application judge to find that there be some untried factual circumstance or legal argument. In short, the matter cannot be an exact replication of a matter that has been heard and decided previously by the Court. Legally, to allow such an application to proceed to trial would quickly debase the common law system of jurisprudential precedent. Moreover on a procedural basis, the absence of making such a finding, under the authority of Johnston v. Canada, 2009 TCC 327, 2009 DTC 1198, renders the Court functus since the Court would lack jurisdiction to grant the Application and allow the hearing to proceed under subsection 167(5).
+[13] Horn and Williams, cited by the Respondent as being entirely replicative of the fact situation before the Court, has embedded within it two matters; namely, that of Williams and that of Horn. The facts in the case before the Court closely approximate the facts of only one of the fact situations contained in Horn and Williams. Justice Phelan, at paragraph 112 of the trial level in that case, did assess a factual situation similar to the present Application before the Court. The outcome of that trial of fact before Justice Phelan required factual findings and the attachment of weight to the evidence as a means of applying the connective factors test. This is further highlighted and reflected in the appeal decision of Horn and Williams where at paragraph 8 Justice Evans states as follows:
+8 It is primarily the function of a trial judge to assess the relative weight to be given to the constituent elements of a multi-factored test in the particular circumstances of a case. Applying the “connecting factors” test is a very fact specific exercise. This Court may not substitute its view for that of the judge, absent a palpable and overriding error in the application of the test or an error of law.
+[14] Given this Court’s analysis in Turcotte and the above noted precise direction of the Federal Court of Appeal, the denial of this Applicant’s right to have her Appeal heard before a trial judge must be based on a finding by the Court of something approaching the existence of identical facts. Such a finding at the application level would be based upon an overview and conclusion that the pleadings and viva voce evidence at the application stage present facts to the application judge identical to the established authorities – in this case that of Horn and Williams.
+[15] To that end, the Court notes that Justice Phelan made findings of fact in relation to the women’s centre in the matter he heard, which findings: (i) occurred almost six years prior to the date of the bringing of this Application (making time sensitive conclusions regarding then current data); (ii) surveyed the then current supply of substitutable commensurate service providers proximate to the Reserve; and, conjunctively, (iii) reached a factual finding regarding the number of off-Reserve versus on-Reserve clients served at that time (finding a largely off-Reserve clientele). By denying this Application, this Court would be making a finding that the factual situation assessed and weighed by that trial judge in 2007 regarding the women’s centre’s then clientele and easily available substitutable services are factually identical to the present factual situation in 2013 situate in a municipality located a short car ride from one of Canada’s most dynamic, densely populated and urbanized reserves. In light of the direction of the Federal Court of Appeal in Horn and Williams and the factually dependent, scenario based process required in applying the connective factors test by a trial judge, this Court, on Application for leave to file a Notice of Appeal, cannot deny the Applicant the opportunity to place her Appeal before a trial judge if current facts exist which are potentially distinguishable at trial from those in the submitted authorities.
+[16] This is specifically enunciated by this Court at paragraph 24 of the Turcotte decision where the Court stated:
+24 The potential existence of such “untried” facts and related argument, once revealed before the application judge gives the Court jurisdiction as mandated by Johnston , and renders the Appeal dissimilar to those previously decided as required by Keshane. Perhaps as importantly, the facts as alleged call for a consideration of the submitted ground of appeal where similar, but not identical facts of this taxpayer require a trial judge to assess and weigh this Applicant’s/Appellant’s particular facts when applying same to “the constituent elements of a multi-factored test in the particular circumstances of a particular case” as described in Rock, which, as noted, references the Federal Court of Appeal in Horn and Williams.
+[17] Accordingly, it is the finding of this Court that the similar, but potentially different, changing and non-identical facts to those contained in the authorities presented by the Respondent warrant presentation, assessment and weight by a trial judge because grounds susceptible to and inviting of reason by that trial judge possibly exist. This dynamic issue related to the shelter service being provided off-Reserve to Reserve Indians should be heard in the context of this Applicant’s similar, but possibly distinguishable fact situation at a hearing held for that sole purpose.
+[18] As with Turcotte, in order to address the deficiency of the pleadings and assist with the trial, the Appellant shall be required to file a fresh Notice of Appeal within 30 days which more fulsomely describes the facts and statutory provisions relied upon. Concordant Reply rights will be afforded to the Respondent.
+Signed at Ottawa, Canada this 5th day of June 2013.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2013 TCC 178
+COURT FILE NO.: 2012-1897(IT)APP
+STYLE OF CAUSE: VICKI MONTOUR AND THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: March 19, 2013
+REASONS FOR ORDER BY: The Honourable Mr. Justice Randall Bocock
+DATE OF ORDER: June 5, 2013
+APPEARANCES:
+Counsel for the Applicant:
+G. James Fyshe
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Applicant:
+Name: G. James Fyshe
+Firm: Fyshe, McMahon LLP
+Hamilton, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

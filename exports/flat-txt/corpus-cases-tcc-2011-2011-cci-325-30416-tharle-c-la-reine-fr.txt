@@ -1,0 +1,135 @@
+Title: Tharle c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30416/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-325-30416-tharle-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-06-27
+
+# Tharle c. La Reine
+
+- Citation: 2011 CCI 325
+- Decision date: 2011-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7946, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tharle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-27
+Référence neutre
+2011 CCI 325
+Numéro de dossier
+2010-3552(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3552(IT)I
+ENTRE :
+BRENDA THARLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 avril 2011, à Calgary (Alberta).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Adam Gotfried
+____________________________________________________________________
+JUGEMENT
+Les appels relatifs aux cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont rejetés, sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 27e jour de juin 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 24e jour d’août 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Référence : 2011 CCI 325
+Date : 27 juin 2011
+Dossier : 2010-3552(IT)I
+ENTRE :
+BRENDA THARLE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] En 2007, l’Agence du revenu du Canada (l’« ARC ») a soumis l’appelante à une cotisation fondée sur son avoir net pour ses années d’imposition 2002 et 2003.
+[2] Les cotisations établies pour les années d’imposition 2002 et 2003 comprenaient les cotisations au Régime de pensions du Canada (le « RPC ») à payer sur un revenu tiré d’un travail indépendant.
+[3] L’appelante a payé les cotisations au RPC (3 346,40 $ pour 2002 et 3 284,06 $ pour 2003) et a ensuite produit des déclarations de revenus pour les années d’imposition 2002 et 2003.
+[4] En se fondant sur les renseignements fournis, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’endroit de l’appelante le 4 mai 2009, pour ses années d’imposition 2002 et 2003.
+[5] Dans les nouvelles cotisations, le ministre a réduit le montant des cotisations au RPC que l’appelante devait payer pour ces années-là. Cependant, il n’a pas remboursé à l’appelante le montant payé en trop.
+[6] Le 8 décembre 2009, l’appelante a déposé des avis d’opposition aux nouvelles cotisations.
+[7] Le ministre a confirmé les nouvelles cotisations le 19 août 2010.
+[8] L’appelante a déposé des avis d’appel à la Cour canadienne de l’impôt.
+B. LE POINT EN LITIGE
+[9] Le point qui est en litige dans les présents appels est le suivant : quand le délai de prescription de quatre ans qui vise les remboursements obligatoires de paiements en trop du RPC (sur le revenu tiré d’un travail indépendant) débute-t-il? S’agit-il de l’année dans laquelle les paiements sont effectués, ou de l’année dans laquelle les cotisations sont dues?
+C. ANALYSE ET DÉCISION
+[10] À l’audience, l’avocat de l’intimée a consenti à ce que l’on établisse une nouvelle cotisation à l’endroit de l’appelante pour l’année d’imposition 2002, ce qui a ainsi réduit à zéro les cotisations au RPC qui étaient en litige. Cela signifie que la Cour se doit d’examiner l’année d’imposition 2003.
+[11] L’appelante a allégué que le délai de prescription de quatre ans que contient le paragraphe 38(4) du Régime de pensions du Canada (le « Régime ») ne débute pas avant que les cotisations à payer pour une année aient été payées. Étant donné que les paiements ont été faits le 18 juin 2007, le délai de prescription n’était pas encore expiré quand le remboursement a été demandé et, de ce fait, ce remboursement est payable. L’appelante a soutenu qu’il est injuste de dire que la période débute immédiatement après l’année dans laquelle les cotisations sont à payer. Elle a fait remarquer que, selon cette interprétation, un montant payé en trop pour une année et au-delà du délai de prescription ne serait pas remboursable.
+[12] L’avocat de l’intimée a fait valoir que le paragraphe 38(4) du Régime prescrit un délai de quatre ans dans lequel un contribuable peut demander un remboursement de l’excédent de cotisations au RPC. Ce délai, ajoute-t-il, commence à courir à la fin de l’année d’imposition pour laquelle les cotisations étaient à payer, et il a donc soutenu que l’appelante avait trop tardé à demander un remboursement.
+[13] Le mot « année » s’entend de l’« année civile » dans le Régime. Le paragraphe 38(4) de ce dernier définit à quel moment un excédent de cotisations peut être remboursé à un travailleur autonome :
+38 (4) Lorsqu’une personne a payé, pour valoir sur la cotisation qu’il lui fallait verser pour une année à l’égard de ses gains provenant du travail qu’elle a exécuté pour son propre compte, un montant supérieur à cette cotisation, le ministre :
+a) peut rembourser la partie du montant ainsi payé en excédent de la cotisation lors de l’envoi de l’avis d’évaluation de cette cotisation, sans avoir reçu de demande à cette fin;
+b) doit faire ce remboursement après l’envoi de l’avis d’évaluation, si le cotisant fait à cette fin une demande écrite au plus tard dans les quatre ans qui suivent la fin de l’année, ce délai étant de dix ans si ce cotisant a reçu, après l’entrée en vigueur du présent alinéa, un avis visé aux paragraphes 60(7), 81(2), 82(11) ou 83(11) relativement à une pension d’invalidité.
+[14] Le Régime prévoit que, pour être en mesure d’obliger le ministre à rembourser un excédent de cotisations à un travailleur autonome à l’égard d’une « année » particulière, il faut que la demande soit déposée dans les quatre ans qui suivent « la fin de l’année ». Selon le Régime, le mot « année » désigne simplement l’année civile. Le problème que pose cette disposition est le suivant : à quelle année le législateur faisait-il référence quand il a indiqué : « la fin de l’année »? S’agissait-il de l’année civile dans laquelle les cotisations devaient être payées ou de l’année dans laquelle l’excédent de cotisations a eu lieu? La question devient donc une question d’interprétation législative.
+[15] Le paragraphe 38(4) du Régime commence comme suit : « Lorsqu’une personne a payé, pour valoir sur la cotisation qu’il lui fallait verser pour une année […] » Il est évident qu’il est question d’une cotisation visant une année civile particulière, et non dans cette année-là. La confusion naît de nouveau à l’alinéa 38(4)b), où figurent les mots suivants : « […] qui suivent la fin de l’année ».
+[16] Si la référence qui est faite à une « année » à l’alinéa 38(4)b) désigne l’année civile dans laquelle les paiements sont à payer, il y a donc deux conséquences qui en découlent. Premièrement, cela indique que le ministre ne peut être contraint d’effectuer un remboursement que pendant une période restreinte. Cette interprétation confère une certaine certitude et une certaine finalité pour ce qui est des remboursements possibles.
+[17] Cependant, cela peut aussi mener au problème que l’appelante a soumis à la Cour. Si le ministre établit une nouvelle cotisation et commet une erreur après l’expiration du délai de prescription de quatre ans, le ministre peut conserver tout excédent découlant de cette nouvelle cotisation sans avoir à le rembourser.
+[18] Il est possible de remédier à l’injustice ou à l’iniquité que crée l’alinéa 38(4)b) en recourant à l’alinéa 38(4)a), qui confère au ministre le pouvoir discrétionnaire de rembourser un excédent sans que le contribuable en fasse la demande au moment de l’évaluation. Ce pouvoir discrétionnaire n’est pas soumis à un délai de prescription. C’est donc dire que le délai prévu à l’alinéa b) est raisonnable, en ce sens qu’il est toujours possible d’accorder un remboursement en vertu de l’alinéa a) et que l’absurdité dont l’appelante fait état est évitable. Dans le cas présent, le ministre a décidé de ne pas exercer ce pouvoir discrétionnaire. Nous ignorons pourquoi il n’a pas exercé le pouvoir discrétionnaire que confère l’alinéa a). Il est possible qu’il n’ait pas appliqué l’alinéa a) parce que l’appelante n’avait pas produit de déclaration de revenus avant d’être contrainte de le faire par une cotisation fondée sur la valeur nette que le ministre a établie plusieurs années plus tard.
+[19] Cependant, je suis d’avis que le ministre ne devrait pas être autorisé à conserver les excédents de cotisations auxquels il n’a pas droit par ailleurs. Conclure que le ministre devrait conserver les excédents de cotisations que crée la cotisation fondée sur la valeur nette qu’il établit lui-même est acceptable du fait que l’appelant n’a pas produit de déclarations en temps voulu revient à essayer de réparer une injustice par une autre. Je crois que le système de cotisation [ou d’évaluation] ne devrait pas fonctionner de cette manière.
+[20] Je soutiens que le fait de conserver les excédents de cotisations n’est pas non plus justifié en tant que mesure punitive. Le ministre dispose d’une foule d’options possibles s’il décide de punir une partie qui n’a pas versé de cotisations, mais le fait de conserver les excédents de paiements que l’appelante a faits de bonne foi ne devrait pas en faire partie.
+[21] À mon avis, l’appel de l’appelante doit être rejeté, car le libellé de l’article est suffisamment clair pour ne pas mener à des conséquences absurdes et imprévues. J’ai conclu que le délai de quatre ans qui est prévu pour demander le remboursement d’un excédent de cotisations du RPC commence à courir à la fin de l’année civile pour laquelle ces paiements étaient dus. Il s’ensuit donc que l’appelante n’a pas demandé de remboursement dans le délai précisé.
+[22] Lors du procès, l’appelante a déclaré qu’elle doit au ministre d’autres créances fiscales et, en raison de ces dernières, l’ARC a grevé d’un privilège un bien lui appartenant. Je suggère que l’appelante écrive au ministre pour demander que l’excédent de cotisations pour 2003 soit appliqué à ces autres créances fiscales. Ce processus n’obligerait pas le ministre à accorder un remboursement, mais, plutôt, il déplacerait simplement des fonds entre les comptes applicables. La lettre au ministre devrait indiquer que ce dernier a reçu un « excédent de cotisations » qui n’aurait pas dû être fait et que le remboursement de cet « excédent de cotisations » est bloqué par le délai de prescription que prévoit le Régime.
+[23] Selon moi, cette démarche rectifierait un résultat injuste, car l’appelante n’a pris connaissance de l’« excédent de cotisations » auquel elle avait droit que le 4 mai 2009, soit quelque deux ans après le délai prévu pour demander un remboursement.
+[24] Comme il a été souligné, le ministre soutient que l’appelante aurait dû demander un remboursement en 2007, c’est-à-dire deux ans avant que cette dernière se rende compte qu’elle y avait droit. Il s’agit là d’un résultat injuste, parce qu’elle n’a pas pris connaissance de l’excédent de cotisations avant 2009.
+[25] Dans une situation comme celle-ci, où une contribuable est incapable de demander un remboursement, parce qu’elle n’a su qu’elle n’y avait droit que deux ans après l’expiration du délai, il serait peut-être bon que le ministre applique les dispositions de l’article 23 de la Loi sur la gestion des finances publiques, L.R.C. 1985, ch. F-11, (la « Loi »). Le texte de l’article 23 de la Loi est le suivant :
+23. (1) Les définitions qui suivent s’appliquent au présent article.
+[…]
+Remise de taxes ou de pénalités
+(2) Sur recommandation du ministre compétent, le gouverneur en conseil peut faire remise de toutes taxes ou pénalités, ainsi que des intérêts afférents, s’il estime que leur perception ou leur exécution forcée est déraisonnable ou injuste ou que, d’une façon générale, l’intérêt public justifie la remise.
+Remise des dettes
+(2.1) Sur recommandation du Conseil du Trésor, le gouverneur en conseil peut faire remise de toutes autres dettes, ainsi que des intérêts afférents, s’il estime que leur recouvrement est déraisonnable ou injuste ou que, d’une façon générale, l’intérêt public justifie la remise.
+[26] Je suggère que l’appelante demande que le ministre applique les dispositions de la Loi sur la gestion des finances publiques en vue de rectifier l’iniquité de cette situation.
+[27] L’appel est rejeté, sans frais.
+Signé à Vancouver (Colombie-Britannique), ce 27e jour de juin 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 24e jour d’août 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+RÉFÉRENCE : 2011 CCI 325
+No DU DOSSIER DE LA COUR : 2010-3552(IT)I
+INTITULÉ : BRENDA THARLE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 12 avril 2011
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 27 juin 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

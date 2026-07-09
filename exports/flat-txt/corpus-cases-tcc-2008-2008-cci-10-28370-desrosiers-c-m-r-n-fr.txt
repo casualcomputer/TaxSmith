@@ -1,0 +1,165 @@
+Title: Desrosiers c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28370/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-10-28370-desrosiers-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-01-07
+
+# Desrosiers c. M.R.N.
+
+- Citation: 2008 CCI 10
+- Decision date: 2008-01-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1925, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desrosiers c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-07
+Référence neutre
+2008 CCI 10
+Numéro de dossier
+2007-1290(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-1290(EI)
+ENTRE :
+DANIEL DESROSIERS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 8 novembre 2007, à Rimouski (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Denis Tremblay
+Avocate de l'intimé :
+Me Marie‑Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (« Loi ») est rejeté, au motif que monsieur Desrosiers, pendant les périodes du 28 avril au 31 août 2002, du 4 mai au 30 août 2003, du 2 mai au 4 septembre 2004, du 1er mai au 3 septembre 2005 et du 27 avril au 9 septembre 2006, n'occupait pas un emploi assurable chez 9100‑8359 Québec Inc., et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008CCI10
+Date : 20080107
+Dossier : 2007-1290(EI)
+ENTRE :
+DANIEL DESROSIERS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Monsieur Daniel Desrosiers interjette appel d'une décision du ministre du Revenu national (le « ministre ») rendue en vertu de la Loi sur l'assurance-emploi (la « Loi »). Le ministre a décidé que monsieur Desrosiers n'occupait pas un emploi assurable chez 9100‑8359 Québec Inc. (le « payeur ») durant les périodes du 28 avril au 31 août 2002, du 4 mai au 30 août 2003, du 2 mai au 4 septembre 2004, du 1er mai au 3 septembre 2005 et du 27 avril au 9 septembre 2006 (les « périodes pertinentes »). En effet, le ministre a conclu qu'il s'agissait d'un emploi exclu parce qu'un contrat de travail à peu près semblable n'aurait pas été conclu s'il n'y avait pas eu de lien de dépendance entre monsieur Desrosiers et le payeur.
+[2] Je note immédiatement que monsieur Desrosiers a admis qu'il y avait un lien de dépendance entre lui et le payeur.
+[3] L'intimé a fondé sa décision sur les allégations de fait formulées au paragraphe 7 de la Réponse à l'avis d'appel (la « Réponse ») qui se lisent comme suit :
+(a) le payeur a été constitué en société le 5 février 2001; (admis)
+(b) le payeur exploitait une cantine dans la ville de Matane, stationnaire au même endroit; (admis)
+(c) le commerce était ouvert sur une base saisonnière; (admis)
+(d) le payeur faisait affaires sous la raison sociale « Cantine des Iles »; (admis)
+(e) le commerce était en exploitation 7 jours sur 7 de 9 h 30 à 21 h ou à 22 h selon l'achalandage; (admis)
+(f) les bilans du payeur affichaient les données suivantes : (nié tel que rédigé)
+exercice
+revenus bruts
+salaires
+revenus nets
+2002
+2003
+2004
+2005
+36 190 $
+39 264 $
+35 359 $
+42 916 $
+24 516 $
+21 565 $
+19 831 $
+19 518 $
+(17 608 $)
+(11 164 $)
+(12 131 $)
+( 5 095 $)
+g) le payeur embauchait 3 employés en 2002 et 2003 et deux employés en 2004 et 2005; (admis)
+h) l'appelant avait eu un accident de travail à la Société des traversiers en juillet 1995; (admis)
+i) suite à cet accident, les capacités physiques de l'appelant étaient limitées; (admis)
+j) le payeur a été constitué pour créer un emploi à l'appelant; (nié)
+k) l'appelant était le gérant du payeur; (admis)
+l) les tâches de l'appelant consistaient à gérer le personnel, à faire les commandes, à tenir l'inventaire, à faire les commissions, à ouvrir le commerce le matin, à préparer les aliments, à servir les clients et à faire l'entretien des lieux; (admis)
+m) l'appelant n'avait pas d'horaire fixe de travail; (nié)
+n) l'appelant pouvait commercer à travailler à 7 h et finir à la fin de la soirée; (nié tel que rédigé)
+o) l'appelant était toujours inscrit pour 55 heures de travail par semaine peu importe le nombre d'heures réellement travaillées; (nié tel que rédigé)
+p) en réalité, l'appelant travaillait de 70 à 80 heures par semaine; (nié tel que rédigé)
+q) l'appelant était rémunéré uniquement pour 55 heures par semaine; (admis)
+r) les heures supplémentaires de l'appelant n'étaient pas rémunérées par le payeur; (nié tel que rédigé)
+s) un employé non lié n'aurait pas accepté de travailler des heures sans rémunération; (nié)
+t) le 27 avril 2006, Chantal Marceau déclarait à un représentant de l'intimé que l'appelant n'était pas payé pour les heures qu'il faisait en surplus de ses 55 heures parce que le payeur avait une limite financière de payer; (nié)
+u) l'appelant utilisait son véhicule personnel pour faire les commissions du payeur, sans obtenir de remboursement pour ses dépenses; (nié tel que rédigé)
+v) les modalités d'emploi de l'appelant n'étaient pas raisonnables; (nié)
+w) l'appelant était rémunéré 1 320 $ par quinze jours pour 110 heures de travail, soit un taux horaire d'environ 12 $; (admis)
+x) le 10 septembre 2002, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 28 avril 2002 et comme dernier jour de travail le 31 août 2002 et le nombre d'heures assurables étaient de 996.6 heures et la rémunération assurable était de 12 355,20 $; (admis)
+y) le 3 septembre 2003, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 4 mai 2003 et comme dernier jour de travail le 30 août 2003 et le nombre d'heures assurables étaient de 935 heures et la rémunération assurable était de 11 220 $; (admis)
+z) le 7 septembre 2004, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 10 mai 2004 et comme dernier jour de travail le 4 septembre 2004 et le nombre d'heures assurables étaient de 1 045 heures et la rémunération assurable était de 12 355,20 $; (admis)
+aa) le 12 septembre 2005, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 1er mai 2005 et comme dernier jour de travail le 3 septembre 2005 et le nombre d'heures assurables étaient de 990 heures et la rémunération assurable était de 12 355,20 $; (admis)
+bb) le 12 septembre 2006, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 27 avril 2006 et comme dernier jour de travail le 9 septembre 2006 et le nombre d'heures assurables étaient de 1 057 heures et la rémunération assurable était de 13 191,36 $; (admis)
+cc) les relevés d'emploi de l'appelant ne sont pas conformes à la réalité quant aux heures travaillées; (nié)
+dd) les faibles revenus du payeur et les pertes annuelles importantes ne pouvaient justifier l'embauche du travailleur, sans le lien de dépendance, dans les mêmes conditions. (nié)
+[4] Monsieur Desrosiers et madame Chantal Marceau, la conjointe de ce dernier, ont témoigné à l'appui de la position de l'appelant. Par ailleurs, madame Louise Dessureault, l'agente des appels dans la présente affaire, a témoigné à l'appui de la position du ministre. Les rapports sur appels de madame Dessureault ont été déposés sous la cote I‑3. Il convient de souligner que madame Dessureault a témoigné qu'il lui avait été impossible de rencontrer madame Marceau et monsieur Desrosiers ou de communiquer avec eux et qu'ainsi elle avait appuyé essentiellement sa décision sur les rapports d'assurabilité rédigés par monsieur Jimmy Desgagnés, l'agent de participation du bureau du district de Québec qui avait communiqué par téléphone avec madame Marceau et monsieur Desrosiers et sur les déclarations statutaires de ces derniers (pièces I‑1 et I‑2). Je note immédiatement que le procureur de monsieur Desrosiers a souligné que le témoignage de madame Dessureault à l'égard des faits recueillis par monsieur Desgagnés avait peu de valeur probante puisqu'il constituait en quelque sorte du ouï‑dire.
+[5] Je souligne immédiatement que la preuve présentée par les parties durant l'audience a révélé que les faits énoncés à l'alinéa 7 f) de la Réponse sont des faits avérés.
+Témoignage de madame Chantal Marceau
+[6] Il ressort essentiellement du témoignage de madame Marceau que :
+a) elle avait acheté la cantine non seulement dans le but de procurer un emploi à son conjoint, mais aussi pour faire travailler d'autres personnes;
+b) la cantine, au moment de son acquisition par le payeur (dont elle était la seule actionnaire), était en exploitation depuis environ 20 ans. Elle a expliqué que son conjoint avait tout simplement remplacé le gérant en fonction avant l'acquisition de la cantine et que le modus operandi de cette dernière n'avait fait l'objet d'aucune modification substantielle après à son acquisition;
+c) pendant les périodes pertinentes, le travailleur travaillait généralement de 8 h 30 à 5 heures, et ce, 7 jours par semaine. Généralement, le travailleur se présentait à la cantine une demi-heure avant son ouverture, qui habituellement était 9 heures le matin. À l'occasion, soit 4 à 5 fois par année, le travailleur travaillait de 70 à 80 heures par semaine. Il convient de souligner que la déclaration statutaire de madame Marceau (pièce I‑1) à l'égard des heures travaillées par son conjoint est substantiellement au même effet. Par ailleurs, madame Marceau a déclaré que la rémunération du travailleur lui semblait raisonnable (bien qu'elle n'avait fait aucune enquête ou vérification auprès de tiers à l'égard de la rémunération qui était habituellement versée à un gérant dans des circonstances semblables) compte tenu des responsabilités attribuées au travailleur, des heures travaillées et du caractère saisonnier de l'emploi.
+Témoignage du travailleur
+[7] Le témoignage du travailleur à l'égard de ses heures travaillées pourrait se résumer ainsi : il travaillait généralement de 8 h 30 à 4 h 30, et parfois jusqu'à 5 heures, et ce, 7 jours par semaine pendant les périodes pertinentes. Il lui arrivait à l'occasion de commencer à 7 h le matin lorsqu'il y avait des bris d'équipement. Il lui arrivait aussi de travailler après 4 h 30 lorsqu’il devait remplacer un employé qui était malade ou qui ne se présentait pas au travail. Par ailleurs, la déclaration statutaire du travailleur (pièce I‑2), à l'égard de ses heures travaillées, mérite d'être citée :
+« Je suis payé 55 heures et je n'ai pas d'heures fixes. Je peux commercer à 7 heures le latin et finir en soirée tout dépend de la température. Je suis responsable 7 jours sur 7 sauf lorsqu'il mouille. J'en profite pour faire mon inventaire chez‑moi car la marchandise est livrée à domicile. Je suis payé à 12 $ de l'heure. [...] Moi je suis à taux fixe et heures fixes. [...] Moi, je fais l'ouverture le matin de bonne heure et c'est ouvert au service vers 9 h 30 et je suis là jusqu'à 5 heures et demie. »
+[8] La Cour d'appel fédérale s’est prononcé à plusieurs reprises sur le rôle conféré par la Loi à un juge de la Cour canadienne de l'impôt. Ce rôle ne permet pas au juge de substituer sa décision à celle du ministre, mais il emporte l'obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, [...] décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable[1] ».
+[9] En d'autres termes, avant de décider si la conclusion dont le ministre était convaincu me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les hypothèses de fait du ministre sont bien fondées en tout ou en partie, compte tenu des facteurs que mentionne l'alinéa 5(3)b) de la Loi.
+[10] Il y a donc lieu de se demander si l'appelant et le payeur auraient conclu un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[11] L'appelant avait le fardeau de démontrer que le ministre n’avait pas exercé son pouvoir discrétionnaire selon les principes applicables en la matière, c'est‑à‑dire de démontrer qu'il n'a pas examiné tous les éléments pertinents ou qu'il avait ignoré des éléments qui étaient pertinents.
+[12] Je souligne immédiatement que le ministre a erré en mettant trop d'emphase sur les faits allégués aux alinéas 7 f), 7 h), 7 i) et 7 j) de la Réponse à l’avis d’appel. Certes, la preuve a révélé que madame Marceau s'était portée indirectement acquéresse d'une cantine qui était en exploitation depuis une vingtaine d'années. La preuve a aussi révélé que madame Marceau avait, après l'acquisition de la cantine, remplacé la personne qui la gérait par son conjoint qui avait suffisamment d'expérience dans le domaine de la restauration pour assumer adéquatement la fonction de gérant. Madame Marceau n'a jamais nié que le but principal de l'acquisition de la cantine était de trouver un emploi à son conjoint. Toutefois, je ne vois pas en quoi ces faits et le fait que le payeur avait subi annuellement des pertes d'exploitation pendant les périodes pertinentes sont pertinents pour déterminer si un tiers non lié au payeur aurait conclu avec ce dernier un contrat d'emploi à peu près semblable à celui conclu entre le travailleur et le payeur compte tenu de la charge de travail, de la rémunération et des responsabilités liées à ce poste de gérant.
+[13] Si on lit les allégations énoncées aux alinéas 7 b), 7 c), 7 e), 7 k), 7 l), 7 m), 7 n), 7 o), 7 p), 7 q), 7 r), 7 s), 7 u), 7 w), 7 cc) et 7 dd) de la Réponse à l’avis d’appel selon lesquelles, en substance, le payeur n'aurait pas retenu les services du travailleur et n’aurait pas pu les retenir n'eût été du lien de dépendance, on doit en inférer qu'il était implicite du point de vue du ministre que les modalités d'emploi, dont il est notamment question dans ces alinéas, étaient nettement favorables au payeur et qu'ainsi ce dernier jouissait à cet égard d'un traitement faveur. Somme toute, le ministre allègue que le travailleur avait travaillé de 70 à 80 heures par semaine pendant les périodes pertinentes, alors qu'il avait été seulement rémunéré pour 55 heures de travail par semaine et qu'ainsi un employé non lié au payeur n'aurait pas accepté de travailler de 15 à 25 heures par semaine pendant les périodes pertinentes sans être rémunéré. Autrement dit, le ministre allègue qu'un employé non lié au payeur n'aurait jamais accepté de travailler de 70 à 80 heures par semaine, donc à un taux horaire allant de 9,42 $ à 8,25 $, compte tenu des responsabilités liées à l’emploi et des autres modalités liées à cet emploi. À cet égard, je rappelle que le travailleur travaillait 7 jours sur 7, et ce, pendant 18 à 20 semaines consécutives.
+[14] L'inexactitude des allégations du ministre à l'égard des heures travaillées n'a pas, à mon avis, été établie par la preuve. La preuve du travailleur, à cet égard, qui reposait essentiellement sur son témoignage et celui de sa conjointe m'a parue peu probante en l'espèce. Le travailleur a tenté de me laisser croire que, pendant les périodes pertinentes, il avait généralement travaillé 55 heures par semaine, soit de 8 h 30 à 4 h 30, à tous les jours, et ce, 7 jours sur 7, et qu'il avait à l'occasion travaillé plus de 56 heures par semaine. Or, il appert de la déclaration statutaire du travailleur (pièce I‑2) que ce dernier quittait généralement son travail non pas à 4 h 30, mais bien à 5 h 30. Donc, à la lumière de la déclaration statutaire du travailleur, il est permis de conclure que le travailleur travaillait habituellement non pas 55 heures, mais bien 63 heures par semaine. Par ailleurs, je rappelle le témoignage de madame Marceau à l'effet que le travailleur travaillait de 70 à 80 heures par semaine, 4 à 5 fois par année. Considérant que la cantine était en exploitation, en moyenne, 19 semaines par année, il est permis de conclure, strictement à la lumière des témoignages et des déclarations du travailleur et de sa conjointe, que ce dernier avait travaillé tout au moins 222 heures par année sans être rémunéré, soit, en moyenne, 8 heures pendant 14 semaines et 20 heures pendant 5 semaines. Ainsi, il m'apparaît raisonnable de conclure qu'un employé non lié au payeur n'aurait pas accepté de travailler autant d'heures sans rémunération. Même si certaines allégations du ministre ne sont pas pertinentes en l'espèce, ou encore pas entièrement exactes, il y a suffisamment d'éléments pour appuyer la conclusion du ministre.
+[15] Le procureur du travailleur a soutenu que je devrais rendre la même décision que le juge Garon a rendu dans l'affaire Sylvie Bernier[2] puisque les faits de cette affaire ressemblaient étrangement à ceux de la présente affaire, en ce que, dans les années 1993 à 1995, madame Bernier, tout comme le travailleur, occupait le poste de gérante de la même cantine détenue alors par son mari. D'abord, je souligne que chaque cas doit être décidé par le juge à la lumière de la preuve dont il dispose et que je ne suis aucunement lié par la décision du juge Garon. De plus, je note que les allégués du ministre dans l'affaire Bernier sont substantiellement différents de ceux du ministre dans la présente affaire. En effet, si on lit l'allégation i) du paragraphe 5 de la Réponse à l'avis d'appel de l'affaire Bernier, selon laquelle les modalités d'emploi diffèrent substantiellement des deux autres employés, avec les allégations m) et n) suivant lesquelles en substance le payeur n'aurait pas retenu les services de madame Bernier n'eût été du lien de dépendance, on doit inférer qu'il est implicite du point de vue du ministre que cette différence dans les modalités d'emploi dont il est question à l'alinéa i) était nettement favorable à madame Bernier et qu'ainsi cette dernière jouissait à cet égard d'un traitement de faveur. Dans la présente affaire, je note que les allégations du ministre ne font nullement référence aux conditions d'emploi des autres employés du payeur. De plus, dans la présente affaire, je souligne que le ministre allègue, ce qu’il n’a pas fait dans à l'affaire Bernier, que le travailleur n'était pas assez payé compte tenu du nombre d'heures travaillées sans rémunération.
+[16] À la lumière de la preuve dont je dispose, après examen des facteurs mentionnés à l'alinéa 5(3)b) de la Loi et après vérification du bien‑fondé des allégations du ministre, la conclusion du ministre me paraît raisonnable.
+[17] Pour tous ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2008.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2008CCI10
+NO DU DOSSIER DE LA COUR : 2007-1290(EI)
+INTITULÉ DE LA CAUSE : Daniel Desrosiers c. MRN
+LIEU DE L’AUDIENCE : Rimouski (Québec)
+DATE DE L'AUDIENCE: le 8 novembre 2007
+MOTIFS DU JUGEMENT PAR : l'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 7 janvier 2008
+Comparutions :
+Avocat de l'appelant :
+Me Denis Tremblay
+Avocate de l'intimé :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Étude :
+Ville :
+Me Denis Tremblay
+Tremblay & Tremblay
+Matane (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Légaré c. Canada (Ministre du Revenu national – M.N.R.), [1999] A.C.F. no 878 (Q.L.), par. 4.
+[2] Sylvie Bernier c. Canada (Ministre du Revenu national – M.N.R.), [1997] A.C.I. no 1266.

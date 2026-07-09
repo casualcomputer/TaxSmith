@@ -1,0 +1,184 @@
+---
+title: "Boily c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28508/index.do"
+last_modified: "2008-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 92"
+citation2: ""
+neutral_citation: "2008 CCI 92"
+decision_date: "2008-02-22"
+language: "fr"
+item_id: "28508"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1270
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:07:00.411000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "877654e9374f7dbede7ed96dbc39f5f9cba697b1e0cf3748f3ff98f307115a92"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boily c. La Reine
+
+- Citation: 2008 CCI 92
+- Decision date: 2008-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1270, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boily c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-22
+Référence neutre
+2008 CCI 92
+Numéro de dossier
+2006-2656(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2656(IT)G
+ENTRE :
+JEAN-PAUL BOILY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 28 janvier 2008, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accueilli, avec dépens en faveur de l'appelant, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelant était justifié de réclamer le montant de 53 000 $ comme perte au titre d’un placement d'entreprise subie par la société 9063-6739 Québec inc., selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de février 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI92
+Date : 20080222
+Dossier : 2006-2656(IT)G
+ENTRE :
+JEAN-PAUL BOILY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l'année d'imposition 2001.
+[2] La question en litige est de savoir si le ministre du Revenu national (le « ministre ») était justifié de refuser à l'appelant une partie de la perte au titre d’un placement d'entreprise, soit un montant de 53 000 $, qu'il a déclaré dans l'année d'imposition 2001 à la suite de la faillite de la société 9063-6739 Québec inc.
+[3] Pour expliquer et justifier le bien‑fondé de la cotisation à l'origine de l'appel, l'intimée a tenu pour acquis les hypothèses de fait suivantes :
+a) La société 9063‑6739 Québec inc. a été constituée le 7 mai 1998 en vertu de la partie IA de la Loi sur les compagnies du Québec (L.R.Q., c. C‑38). (admis)
+b) La société 9063‑6739 Québec inc. a exercé ses activités dans le domaine de la vente d'équipements informatiques. (admis)
+c) Le 11 juillet 2001, la société 9063‑6739 Québec inc. a déposé une proposition en vertu de la Loi sur la faillite et l'insolvabilité (L.R.C. (1985), ch. B‑3). (admis)
+d) Le 1 août 2001, la société 9063‑6739 Québec inc. a fait faillite. (admis)
+e) Le président de la société 9063‑6739 Québec inc. était monsieur Daniel Boily, soit le frère de l'appelant. (admis)
+f) L'actionnaire unique de la société 9063‑6739 Québec inc. était l'appelant, un avocat de profession. (admis)
+g) À sa déclaration de revenus pour l'année d'imposition 2001, l'appelant a déclaré une perte au titre de placement d'entreprise de 196 746 $ résultant de la faillite de la société 9063‑6739 Québec inc. (admis)
+h) La perte déclarée de 196 746 $ était notamment composée d'un montant de 73 646 $ que l'appelant a dû débourser en 2001 à titre de caution de la société 9063‑6739 Québec inc. et d'un montant de 70 100 $ de capital‑actions émis et payé de la société 9063‑6739 Québec inc., détenu par l'appelant. (admis)
+i) La perte au titre de placement d'entreprise véritablement subie par l'appelant suite à la faille de la société 9063‑6739 Québec inc. s'établit à 143 746 $. (admis)
+j) La perte déclarée de 196 746 $ était également composée d'un troisième montant de 53 000 $ que l'appelant a expliqué être une avance à société 9063‑6739 Québec inc. (admis)
+k) Les états financiers de la société 9063‑6739 Québec inc. constatent un « dû à l'actionnaire » de 24 892 $ pour l'exercice se terminant le 30 avril 1999 et un « dû à l'actionnaire » nul pour chacun des exercices se terminant le 30 avril 2000 et 2001. (ignoré)
+l) L'appelant n'a pas démontré être détenteur, au 1 août 2001, d'une quelconque créance résultant d'avances effectuées à la société 9063‑6739 Québec inc. (nié)
+m) En date du 1 août 2001, la société 9063‑6739 Québec inc. n'était débitrice d'aucun montant au titre des avances de l'actionnaire. (nié)
+[4] La majorité des hypothèses de fait ont été admises par l'appelant. Ce dernier a essentiellement ignoré ou nié les éléments relatifs au refus de l'intimée d'accepter la perte au titre d’un placement d'entreprise pour l'année d'imposition 2001, laquelle s’élevait à 53 000 $.
+[5] L'appelant, avocat de profession, a témoigné sur ce seul aspect du dossier. Il a expliqué et décrit les circonstances entourant la création de l'entreprise dont il était le seul actionnaire, alors que son frère en était le seul administrateur.
+[6] L'entreprise, dont la vocation était la vente d'équipement informatique, a connu un essor fulgurant, ayant très rapidement élargi de plusieurs établissements son réseau de vente, et ce, après avoir investi d'une manière agressive dans la publicité.
+[7] L'appelant a expliqué n'avoir aucune expertise particulière dans ce domaine; il faisait entièrement confiance à son frère, qui, avec un autre individu, s'occupait de la gestion des divers établissements.
+[8] Il s'y rendait de façon ponctuelle pour s'assurer que tout fonctionnait rondement; il voyait la publicité et l'expansion, et ne doutait pas de la bonne marche des choses. Il a affirmé que les demandes de mises de fonds ne le surprenaient pas outre mesure puisqu'il s'agissait d'une nouvelle entreprise et les choses semblaient prometteuses.
+[9] L'appelant a investi des montants substantiels sous différentes formes — actions, avances, caution — dans une entreprise exerçant ses activités dans un domaine où, d'une part, la compétition est féroce et, d'autre part, les choses évoluent très rapidement; je fais notamment référence à la très courte vie du matériel informatique, qui devient vite désuet, dépassé par de nouvelles générations de produits.
+[10] L'appelant a fait état de la très courte durée de vie de l'entreprise; créée en mai 1998, elle faisait cession de ses biens le 1er août 2001 après avoir soumis une proposition concordataire à ses créanciers. L'entreprise avait pourtant semblé manifester un dynamisme prometteur. Malgré ses mises de fonds importantes, l'appelant n'était pas administrateur. L'appelant a insisté sur le fait que la présence de son frère comme administrateur le rassurait quant à la bonne marche de l'entreprise; il a affirmé et répété n’avoir jamais eu de doutes au sujet de la confiance qu’il avait en son frère, qui avait de bonnes connaissances en informatique. Lorsqu'il s'informait et qu’il constatait de visu la publicité et l'achalandage, il croyait sincèrement que tout allait bien, eu égard aux difficultés normales que toute nouvelle entreprise doit rencontrer.
+[11] Selon lui, il ne se passait rien qui soit de nature à l'inquiéter. Il a également expliqué avoir vu les états financiers au moment de la faillite; constatant la non‑conformité, il aurait demandé au syndic de faire le nécessaire auprès du comptable pour que les corrections appropriées soient apportées (indication des montants dus à l'actionnaire). Le syndic a refusé d'entreprendre de telles démarches auprès du comptable; par contre, il a reconnu la dette dans le passif de l'entreprise.
+[12] La chronologie des faits (création de la société le 7 mai 1998, proposition concordataire le 11 juillet 2001 et faillite le 1er août 2001) illustre bien à quel point les choses ont effectivement évolué rapidement. Cette très courte période entre le début et la fin des activités confirme l'explication selon laquelle l'appelant, qui faisait confiance à son frère, n'avait pas de raison de soupçonner la débâcle financière. Il s'agissait d'une nouvelle entreprise exerçant ses activités dans un secteur difficile où il n'était pas anormal de devoir faire des mises de fonds, soit pour stabiliser l'entreprise ou pour faire face à des situations ponctuelles difficiles.
+[13] L'appelant a insisté sur le fait qu'il n'avait jamais bénéficié d'aucun avantage ou privilège, si ce n’est celui d’avoir pu se procurer deux ordinateurs au prix coûtant. Il a affirmé que les chèques constituaient une la preuve prima facie des débours effectués à titre d'avances à la société. Il a aussi admis avoir été imprudent, voire négligent, dans la gestion des avances.
+[14] L'appelant a aussi dit avoir constaté que les montants avancés étaient supérieurs de quelques milliers de dollars à ceux déclarés comme perte, ajoutant qu'il ne voulait pas pour autant faire de modification quant au montant à l'origine de l'appel.
+[15] Les chèques sur lesquels s’appuie l’appelant se décrivent comme suit :
+Date du chèque
+Montant
+07/010/99
+5/6/98
+7/02/00
+06/07/99
+12/06/98
+06/10/99
+Total
+5 000 $
+3 250 $
+15 000 $
+10 000 $
+9 450 $
+13 000 $
+55 700 $
+En substance, la preuve de l’appelant consiste à affirmer que les chèques constituent un élément fondamental du dossier. Quant au pourquoi de l’omission de les mentionner aux états financiers de l’entreprise, il l’explique par trois éléments :
+- très grande confiance en son frère, le seul administrateur;
+- absence de signes que l’entreprise était en difficulté;
+- très courte période entre le début et la fin des activités commerciales.
+[16] Quant à l’intimée, elle soutient principalement que l’Agence des douanes et du revenu du Canada n’avait pas à tenir compte des avances de l’appelant puisqu’elles n’étaient ni valables ni confirmées par les états financiers. Elle ajoute que l’appelant avait été impliqué dans un litige antérieur sur une question du même ordre, ce qui aurait dû le rendre plus vigilant. Elle évoque également le fait que le total des chèques, soit 55 700 $, ne balance pas avec le montant de 53 000 $ qu’a déclaré l’appelant; il y a un écart de 2 700 $.
+[17] Certes, les règles de l'art ne sont ni fonction des délais ni fonction des particularités du cas; il s'agit de normes objectives et souvent rigides. Les chèques constituent le fondement des prétentions de l'appelant.
+[18] Ce sont là des éléments objectifs. Est-il anormal, dans une situation où les choses vont relativement bien en apparence, eu égard au contexte (jeune commerce exploité par le frère), qu'une personne normale soit moins prudente, moins vigilante ou tout simplement un peu plus naïve?
+[19] L'appelant est avocat, d'une part, et, d'autre part, la preuve a révélé qu'il possédait une certaine expérience en matière de gestion d'entreprise pour avoir été directement impliqué là-dedans très peu de temps avant que ne se produisent les faits à l'origine du présent litige.
+[20] Négligence, imprudence, sont‑elles des éléments suffisants pour écarter complètement les explications soumises? Après coup, le premier reflexe commande peut-être une réponse affirmative. Toutefois, il est toujours plus facile de faire après coup l'inventaire des lacunes ou des différentes faiblesses d'un dossier.
+[21] En l'espèce, je rappelle qu'il ne s'agit pas d'un dossier où la décision que je dois prendre repose essentiellement sur un témoignage verbal intéressé. Il s'agit d'un dossier où il y a un élément de preuve incontournable (les chèques), dont l'objet ne peut être expliqué de plusieurs façons ou avoir plusieurs explications.
+[22] Il s'agit de plusieurs montants, déboursés à des dates différentes, pouvant facilement être considérés comme des interventions ponctuelles requises dans le cours des affaires. Il s'agit d'une jeune entreprise qui compétitionne dans un secteur d'activités où la compétition est féroce et qui, manifestement, a pris une expansion trop rapide (plusieurs magasins).
+[23] Ce genre d'intervention est ni curieux, ni inhabituel. L'appelant aurait-il dû s’interroger, être suspicieux, prendre des précautions et obtenir des garanties à toute épreuve? Dans un monde idéal, oui.
+[24] Dans les faits, son frère avait comme seules qualités en matière de gestion d'une telle entreprise un vif intérêt pour l’informatique et des connaissances dans ce domaine.
+[25] Seul administrateur de la société dans laquelle avait investi l'appelant, il n'avait peut-être pas le reflexe ou le goût de lui tracer un portrait fidèle de la situation, croyant que tout se stabiliserait. La nature humaine étant ce qu'elle est, il avait peut-être même plus le reflexe de dorer ou de maquiller le portrait, ce qu'il a d'ailleurs fait en faisant miroiter les avantages hypothétiques du programme, lancé par le gouvernement, visant à encourager les familles à faire l'acquisition d'un ordinateur.
+[26] D’ailleurs, comment concevoir ou imaginer une situation où un individu investit des montants importants à titre d’actionnaire unique sans être administrateur, et cela, en étant juriste? De prime abord, un tel scénario est plutôt improbable sauf s’il existe une très grande confiance du genre de celle que peut engendrer une relation entre deux frères comme en l’espèce.
+[27] En cette matière, le degré de preuve requis est celle de la prépondérance de la preuve. Or, je crois que la preuve soumise, constituée principalement de copies de chèques et d’explications quant au contexte et aux circonstances, est suffisante pour conclure à l’existence de la probabilité requise, d'autant plus que l'intimée n'a pas mis en doute la réalité des chèques. Ils totalisent certes un montant supérieur à celui déclaré comme perte au titre d’un placement d'entreprise, mais cet écart a été signalé par l'appelant et constitue un montant plutôt marginal.
+[28] D'autre part, le fait que la justesse des prétentions de l'appelant ne soit confirmée ni par les états financiers pris en compte lors de la faillite de l'entreprise ni par la description des dettes sur la liste des créanciers établie lors de la proposition précédant la faillite peut être expliqué ou tout au moins relative par la situation et le contexte particuliers du dossier.
+[29] S'il s'était agi d'un seul montant, dont l'objet aurait pu être l'achat de matériel informatique ou le remboursement de dépenses ou le paiement de travail pour lequel des honoraires n’ont pas été facturés, ou s'il y avait eu d'autres raisons ou motifs de conclure à une certaine équivoque quant aux buts des chèques, cela aurait pu militer en faveur des conclusions de l'intimée.
+[30] Quant au fait que l'appelant a soumis une preuve constituée essentiellement de copies de chèques et de son propre témoignage, encore là, les circonstances ont probablement rendu la relation avec son frère, administrateur de l'entreprise, très tendue, si tant et qu’elles n’y aient pas mis fin, et cela dilue la pertinence qu’aurait pu avoir l’intervention de celui-ci.
+[31] L'intimée a voulu miner la crédibilité de l'appelant en faisant état d'une situation semblable qui s’était produite quelques années auparavant. L'intimée a aussi fait valoir qu'une expérience semblable antérieure aurait dû le rendre plus prudent, plus vigilant et plus sage. Or, il s'agissait d'une entreprise dont il était administrateur alors qu'en l'espèce il a agi essentiellement comme bailleur de fonds pour une entreprise qui s’est très rapidement trouvée en déconfiture, au point de disparaître à la suite d'une faillite.
+[32] L'argument fondamental de l’intimée s'appuie essentiellement sur le fait que les prétentions de l'appelant ne sont ni valables ni confirmées par les états financiers.
+[33] N'eût été les copies de chèques, les prétentions de l'appelant auraient dû être écartées pour le motif du caractère déraisonnable. Or, les chèques, les circonstances, le contexte et les explications m'apparaissent largement suffisants pour conclure que la prépondérance de la preuve favorise la position de l'appelant.
+[34] Certes, la façon de faire de l'appelant n'a pas été exemplaire, elle peut être même taxée d'imprudente et de négligente, eu égard aux qualifications professionnelles de l'appelant. Toutefois, la preuve ne permet pas de conclure que les explications confirmées par les chèques ne sont pas crédibles ou qu’elles sont déraisonnables au point qu'il faille les rejeter ou les écarter.
+[35] Pour ces motifs, je fais droit à l'appel avec dépens en faveur de l'appelant.
+Signé à Ottawa, Canada, ce 22e jour de février 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008CCI92
+Nº DU DOSSIER DE LA COUR : 2006-2656(IT)G
+INTITULÉ DE LA CAUSE : JEAN-PAUL BOILY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 28 janvier 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 22 février 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Jean-Paul Boily
+Cabinet : Boily Morency Roy
+Ville : Québec (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

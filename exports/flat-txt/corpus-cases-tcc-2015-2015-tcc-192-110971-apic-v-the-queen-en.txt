@@ -1,0 +1,124 @@
+Title: Apic v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110971/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-192-110971-apic-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-07-29
+
+# Apic v. The Queen
+
+- Citation: 2015 TCC 192
+- Decision date: 2015-07-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2619, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Apic v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-07-29
+Neutral citation
+2015 TCC 192
+File numbers
+2015-1189(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1189(IT)APP
+BETWEEN:
+PATRICK APIC,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on July 16, 2015 at Toronto, Ontario
+Before: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Applicant:
+Biserka Clark
+Counsel for the Respondent:
+Christopher Bartlett
+ORDER
+Upon application for an Order to extend the time to institute an appeal with respect to assessments made under the Income Tax Act for the 2007 and 2008 taxation years, the application is granted and the notice of appeal included with the application is deemed to be a valid notice of appeal filed on the date of this Order. The parties shall bear their own costs.
+Signed at Ottawa, Ontario this 29th day of July 2015.
+“J.M. Woods”
+Woods J.
+Citation: 2015 TCC 192
+Date: 20150729
+Docket: 2015-1189(IT)APP
+BETWEEN:
+PATRICK APIC,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] The applicant, Patrick Apic, seeks an extension of time to institute an appeal from assessments made under the Income Tax Act for the 2007 and 2008 taxation years.
+[2] In order for an extension of time to be granted, the conditions set out in subsection 167(5) of the Act must be satisfied. This provision reads:
+167(5) When order to be made – No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[3] The respondent opposes the application on the ground that the conditions in clauses (b)(i) and (iii), above, have not been met. The onus is on the applicant to establish that he complied with these conditions.
+[4] I am generally loath to deny an application to extend time on the grounds set out in clauses (b)(i) and (iii) unless non-compliance is clear. These conditions concern appeal procedure. It is often difficult for taxpayers to navigate appeal procedures, and the penalty for non-compliance with any of the conditions in s. 167(5) is extremely harsh. Parliament has enacted this legislation and it must be applied, however, it is not appropriate to set the bar too high as it concerns clauses (b)(i) and (iii) in particular.
+[5] The only witness who testified at the hearing was the applicant’s bookkeeper, Biserka Clark. She also represented the applicant at the hearing. I will comment first on the reliability of Ms. Clark’s testimony.
+[6] Ms. Clark testified that the applicant formed an intention to appeal the reassessments shortly after they were received. She said they did not get around to the paperwork until about six months later because they thought there was an 18 month deadline. The deadline is actually 90 days.
+[7] Ms. Clark testified that their understanding of the deadline came from viewing the Court’s website and from calling Court staff on two or three occasions. It was only when the respondent’s Reply was received in June, Ms. Clark stated, that they realized that the deadline was missed.
+[8] Counsel for the respondent submits that Ms. Clark’s testimony is not reliable in certain respects. I agree with this. The testimony was very brief and at times it was not believable.
+[9] For example, Ms. Clark testified that, until the Reply was received, they believed that the applicant had 18 months to file an appeal. This testimony does not make sense. The applicant had earlier applied for an extension of time, and provided a reason for requesting the extension. It makes no sense to do this if the applicant believed that he was within the appeal period. Overall, this testimony was simply not credible.
+[10] Although Ms. Clark’s testimony does not have a complete ring of truth, I do find that she and the applicant likely thought that there was no problem with their filing procedure. I would note that the excerpt from the Court’s website that was introduced into evidence makes no mention of the conditions in s. 167(5). Similarly, the Court’s form for the extension application does not mention them. In these circumstances, it makes sense that Ms. Clark and the applicant were surprised when they received the Reply and saw the conditions that must be satisfied. The applicant likely knew that he needed an extension of time, but before receiving the Reply he also likely thought that this would be non‑controversial.
+[11] Turning to the first condition that is at issue, clause (b)(i) requires that the applicant be unable to appeal within 90 days, or that the applicant had formed an intention to appeal within 90 days.
+[12] Ms. Clark testified that she and the applicant made a decision to appeal shortly after new reassessments were issued in response to a notice of objection. Counsel for the respondent submits that this testimony does not make sense because no notice of appeal was filed for another six months.
+[13] When the evidence is viewed as a whole, I would conclude that the applicant did form an intention to appeal when the new assessments were received.
+[14] On cross-examination, Ms. Clark explained the lead up to the decision to appeal which started during the objection stage when the matter was discussed with the appeals officer. I accept that the issue of appealing was on the applicant’s radar screen early on and that the applicant formed an intent to appeal when he saw the large amounts owing in the notices of reassessment issued in response to the notice of objection.
+[15] As for the applicant’s failure to file a notice of appeal immediately, I find this to be reasonable. Preparing and filing a notice of appeal takes some time, especially if the individual is unfamiliar with the procedure. It is not realistic to think that a notice of appeal would necessarily be filed immediately.
+[16] It is appropriate to give the applicant the benefit of the doubt on this issue and conclude that the condition in clause (b)(i) is satisfied.
+[17] As for the requirement in clause (b)(iii), this requires that the applicant demonstrate that he filed the application to extend time as soon as circumstances permitted.
+[18] Ms. Clark testified very briefly that the applicant was busy during this period in travelling for work and moving his office. There was little or no follow up to this testimony on cross-examination. In the circumstances, I am prepared to accept this testimony as a satisfactory response to the requirement in clause (b)(iii).
+[19] Further, I accept that the applicant was relying on the Court’s website to understand the filing procedure. This is reasonable. The applicant provided an excerpt from the website that was relied on. It does not alert the reader to the specific requirements in s. 167(5), and in particular the requirement that the application for an extension of time be filed as soon as circumstances permit. Ignorance of the law is no excuse, but clause (b)(iii) itself requires that the circumstances be taken into account. I find that it was reasonable for the application to be filed about six months after the new reassessments were issued. This is “as soon as circumstances permitted” as required by the legislation.
+[20] I have concluded that the application should be granted. Although I have difficulty with some of Ms. Clark’s testimony, there is sufficient reliable evidence to justify granting the application. I would also note that the respondent concedes that the grounds in the notice of appeal are not frivolous. It is just and equitable that the application be granted.
+[21] An Order granting the extension of time will be issued. In all the circumstances of this application, I have concluded that the parties should bear their own costs.
+Signed at Ottawa, Ontario this 29th day of July 2015.
+“J.M. Woods”
+Woods J.
+CITATION:
+2015 TCC 192
+COURT FILE NO.:
+2015-1189(IT)APP
+STYLE OF CAUSE:
+PATRICK APIC and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 16, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice Judith Woods
+DATE OF ORDER:
+July 29, 2015
+APPEARANCES:
+Agent for the Applicant:
+Biserka Clark
+Counsel for the Respondent:
+Christopher Bartlett
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

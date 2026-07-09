@@ -1,0 +1,199 @@
+---
+title: "Exacte v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/315982/index.do"
+last_modified: "2018-07-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 137"
+citation2: ""
+neutral_citation: "2018 TCC 137"
+decision_date: "2018-07-11"
+language: "en"
+item_id: "315982"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4955
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:43:08.899000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e7c8c15b6aea923b67ed038dc5aa513ba365645bb232537785223997e38a1fab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Exacte v. The Queen
+
+- Citation: 2018 TCC 137
+- Decision date: 2018-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4955, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Exacte v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-11
+Neutral citation
+2018 TCC 137
+File numbers
+2012-221(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-221(IT)G
+BETWEEN:
+WILGUENS EXACTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion for an extension of time to file an application to have a judgment for failure to appear or for want of prosecution set aside, heard on April 9, 2018 at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Amin Njonkou Kouandou
+Counsel for the Respondent:
+Alain Gareau
+ORDER
+The motion for an extension of time to file an application to have a judgment for failure to appear or for want of prosecution set aside is denied, with costs in favour of the respondent, in accordance with the attached Reasons for Order.
+Signed at Montreal, Quebec, this 11th day of July 2018.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 5th day of September 2019.
+Janine Anderson, Revisor
+Citation: 2018 TCC 137
+Date: 20180711
+Docket: 2012-221(IT)G
+BETWEEN:
+WILGUENS EXACTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Favreau J.
+[1] This is a motion for an extension of time to file an application to have the judgment rendered by this Court on November 30, 2012, for failure to appear or for want of prosecution (the “Judgment”) set aside in the appellant’s file, that is, docket 2012-221(IT)G. The motion is made under section 12 and subsection 140(2) of the Tax Court of Canada Rules (General Procedure) (the “Rules”).
+[2] The assessments giving rise to the dispute are reassessments made by the Minister of National Revenue (the “Minister”) dated August 9, 2010, for the appellant’s 2006 and 2007 taxation years pursuant to which the following amounts were added to his income as a taxable shareholder benefit under subsection 15(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”):
+2006: $457,546
+2007: $382,291
+[3] The amounts added to the appellant’s income correspond to the expenses claimed by 9123-5267 Québec inc. (the “Corporation”) for the taxation years ending March 31, 2006 and March 31, 2007, which were disallowed by the Canada Revenue Agency (the “CRA”) in assessments issued on July 12, 2010.
+[4] In addition to the amounts added to the appellant’s income for the 2006 and 2007 taxation years, the Minister imposed penalties under subsection 163(2) of the Act because the appellant wilfully, or at least under circumstances amounting to gross negligence, misrepresented his income when he filed his income tax returns for the 2006 and 2007 taxation years.
+[5] The Corporation was incorporated on or around November 28, 2002, under Part 1A of the Quebec Companies Act and the appellant is the sole director and sole shareholder of the Corporation.
+[6] During the taxation years at issue, the Corporation operated a Rogers store called “Planète mobile”, located at 6000 Henri‑Bourassa Boulevard East in Montreal.
+[7] The appellant describes himself as a business consultant who uses his experience, network, and knowledge to help young businesses reach their full potential.
+[8] On January 10, 2011, the appellant filed a notice of objection with the CRA against the reassessments made against him dated August 9, 2010, and a decision on the objection was rendered by the CRA against the appellant on or around October 3, 2011, concerning his 2006 and 2007 taxation years; the decision upheld the reassessments in their entirety.
+[9] On December 29, 2011, the appellant, through Laurent Tessier of the law firm Ravinsky Ryan Lemoine LLP, filed a notice of appeal to the Tax Court of Canada regarding the reassessments dated August 9, 2010, for the 2006 and 2007 taxation years.
+[10] A notice to cease to act as counsel was filed with this Court on May 2, 2012, by the appellant’s counsel, Ravinsky Ryan Lemoine LLP.
+[11] On June 28, 2012, the respondent provided the Court with a reply to the appellant’s notice of appeal after receiving permission from the appellant’s counsel to file it late.
+[12] A notice of status hearing dated October 25, 2012, was sent to the parties by registered mail by Linda Martel for the Registrar of the Court. The notice of status hearing was sent to the appellant’s address, that is, 7272 Maurice‑Duplessis Boulevard, unit 205, Montreal, Quebec, H1E 6Z7, but it was returned by Canada Post with the mention “unclaimed”. A second notice was sent by the Court on November 20, 2012, to the same address, this time by regular mail.
+[13] The status hearing was held at the Court’s Montreal offices on November 30, 2012, but the appellant failed to appear. The Honourable Madam Justice D’Auray then granted the motion to dismiss the appeal for failure to appear, filed by the respondent.
+[14] The Court’s order dismissing the appeals of the reassessments made under the Act for the 2006 and 2007 taxation years dated August 9, 2010, was signed on December 10, 2012, and was sent by registered mail on December 11, 2012, to the appellant at 7272 Maurice‑Duplessis Boulevard, unit 205, in Montreal. The letter was returned to the Court by Canada Post with the mention “unclaimed” and was then sent to the same address by regular mail on January 9, 2013.
+[15] In the appellant’s amended affidavit dated February 1, 2018, which was filed in support of his motion, the appellant alleges, inter alia, that
+(a) he did not receive a notice of hearing or any other information from the Court about the hearing of his case;
+(b) he was under the impression that the notices of objection filed with the CRA on or around January 10, 2011, were still being processed and that the CRA would eventually follow up with him after it analyzed the reasons raised in the notices of objection;
+(c) he was not informed of the decision on the objection dated December 19, 2012, or the Tax Court of Canada order dated December 10, 2012, until after he received from Solette Agenor, his spouse, a copy of a requirement to pay from the CRA addressed to Corporation Exacte Inc. that concerned an amount the appellant owed ona maximum amount of $568,001.08. Ms. Agenor is the sole director and sole shareholder of Corporation Exacte Inc.;
+(d) after he became aware of the requirement to pay, he instructed his counsel to obtain information about the requirement to pay sent to Corporation Exacte Inc. and information about his personal file;
+(e) he clearly and unequivocally instructed Ravinsky Ryan Lemoine LLP to challenge the reassessments dated August 9, 2010, with the competent authorities, which included a challenge with the Tax Court of Canada if the CRA rendered a negative decision regarding the objection in his file.
+[16] The appellant testified at the hearing. He explained that from 2003 to 2016 his business address was 7272 Maurice‑Duplessis Boulevard, unit 205 in Montreal, but that in 2007, that address was divided into 205A and 205B so that the adjacent separate door could be used. The adjacent unit was unoccupied and the mailbox was not open yet.
+[17] The appellant indicated that he goes to his business address only once every two weeks, that he is the only one with access to the unit, and that during 2010, 2011 and 2012, he worked from home.
+[18] The appellant put in evidence an email that he sent to Jean‑François Poulin and Laurent Tessier on December 14, 2011, asking them to handle his file and to file the notices of objection no later than January 3, 2012.
+[19] The appellant acknowledged that Ravinsky Ryan Lemoine LLP filed notices of appeal with the Tax Court of Canada (one for him and one for the Corporation), but that he did not read them before they were filed with the court.
+[20] The appellant stated that he never received the following documents:
+− the notice to cease to act as counsel from Ravinsky Ryan Lemoine LLP dated May 2, 2012, but delivered to 7272 Maurice-Duplessis Boulevard, unit 205, Montreal, by Les Messageries Speedo on May 25, 2012;
+− the notices of status hearing from the court dated October 25 and November 20, 2012;
+− the order of the Court dated December 10, 2012, sent on December 11, 2012, and January 9, 2013;
+− the invoice from Ravinsky Ryan Lemoine LLP dated May 4, 2012, sent to the appellant at 7272 Maurice‑Duplessis Boulevard, unit 205, Montreal.
+[21] In cross-examination, the appellant acknowledged that he told his counsel that his mailing address was 7272 Maurice‑Duplessis Boulevard, unit 205, in Montreal, as evidenced by the invoice of January 6, 2012, from Ravinsky Ryan Lemoine LLP and the motion for an extension of time to appeal that was filed with the Court on September 20, 2017, by Marie-Hélène Tremblay of Miller Thomson LLP (there was no reference to unit 205 in the latter correspondence).
+[22] Laurent Tessier testified at the hearing, and counsel for the appellant waived his solicitor-client privilege. Mr. Tessier explained that he met the appellant twice, on November 2, 2011, and December 22, 2011, to prepare and finalize the notices of appeal for the appellant and for the Corporation, which were provided to the Court. Mr. Tessier stated that he prepared the notices of appeal, but that they were signed by Marie-Hélène Tremblay on behalf of Mr. Tessier; Ms. Tremblay worked for Ravinsky Ryan Lemoine LLP at the time.
+[23] Mr. Tessier stated that the legal bill dated January 6, 2012, was sent by regular mail to the appellant’s mailing address, that is, 7272 Maurice‑Duplessis Boulevard, unit 205, Montreal, H1E 6Z7.
+[24] Mr. Tessier also stated that another legal bill dated May 4, 2012, for services rendered between January 6, 2012, and April 26, 2012, was sent to the appellant’s same address by regular mail.
+[25] Because the appellant did not pay the legal bill dated January 6, 2012, Ravinsky Ryan Lemoine LLP sent the appellant a letter dated May 3, 2012, by registered mail and notices to cease to act as counsel in the appellant’s and the Corporation’s cases. The letter was delivered on May 25, 2012, to the same address, that is, 7272 Maurice‑Duplessis Boulevard, Montreal, H1E 6Z7.
+[26] Mr. Tessier also stated that he did not know whether the appellant had received the legal bills from his law firm, and, to his knowledge, there was no returned mail for the notices to cease to act as counsel.
+[27] Sophie Rousseau, an appeals officer with the CRA who was handling the appellant’s file, did not testify at the trial, but counsel for the respondent put into evidence an affidavit in which Sophie Rousseau recounted the file history and the communications she had with the appellant during the summer and fall of 2011.
+[28] In her affidavit, Ms. Rousseau explained that during the summer of 2011, several letters were sent to the appellant at 7170 Rue Des Colombes in Laval, which was the last mailing address listed in the CRA’s file. The letters asked the appellant for the facts of his file and the reasons for his objection. Since the appellant did not respond to the CRA’s letters, a decision on the file was made on October 3, 2011.
+[29] In a letter dated October 3, 2011, the CRA informed the appellant that the assessments in respect of his 2006 and 2007 taxation years had been confirmed. Because the letter, which was sent by Xpresspost to the appellant’s last known address, was returned to the CRA, a copy of the Minister’s notice of confirmation was sent by regular mail on October 21, 2011.
+[30] On November 25, 2011, the appellant spoke with Ms. Rousseau on the telephone and informed her that he had not received the confirmation letters and that his address was 7272 Maurice‑Duplessis Boulevard, unit 205 in Montreal. According Ms. Rousseau’s notes, she then informed the appellant that the notices of assessment for his 2006 and 2007 taxation years had been confirmed and that the next step was to appeal to the Tax Court of Canada.
+[31] During a telephone conversation on November 28, 2011, Ms. Rousseau again told the appellant that the next step was to appeal to the Tax Court of Canada. During that conversation, the appellant told Ms. Rousseau that he had retained counsel and asked Ms. Rousseau to send him copies of the confirmation letters dated October 3 and 21, 2011, which was done the same day in a letter mailed to 205‑7272 Maurice-Duplessis, Montreal, Quebec, H1E 6Z7.
+[32] During a telephone conversation with the appellant on November 29 while he was in the CRA’s Montreal office with a customer service agent, Ms. Rousseau told him again that the next step was to appeal to the Tax Court of Canada, and she told him how to do so. At the end of that conversation, the appellant told Ms. Rousseau that he would appeal to the Tax Court of Canada. During that same telephone conversation, the customer service agent confirmed to Ms. Rousseau that she had changed the appellant’s address in the CRA’s electronic system to 205‑7272 Maurice‑Duplessis in Montreal.
+[33] During a telephone conversation on December 20, 2011, the appellant asked Ms. Rousseau to fax him copies of the objection reports for his personal file and for the Corporation’s file so that he could give them to his counsel, and that was done the same day.
+[34] To complete the facts of the case, it must be noted that Miller Thomson LLP withdrew as the appellant’s counsel on February 2, 2018, by way of a notice sent to his mailing address, that is, 7272 Maurice‑Duplessis Boulevard, unit 205, Montreal, H1E 6Z7, and served by bailiff on February 6, 2018, at 3737 Crémazie Boulevard East, unit 1100, Montreal, Canada, H1Z 2K4 and by email at will@exactecommunications.com.
+I. Issues
+[35] Should the Tax Court of Canada
+(a) exercise its discretion under section 12 of the Rules and extend the time to file an application for an order under subsection 140(2) of the Rules?
+(b) issue an order under subsection 140(2) of the Rules and set aside the Judgment?
+II. Analysis
+[36] Subsection 140(2) of the Rules gives the Tax Court of Canada the discretion to set aside or vary a judgment or order against a party who failed to attend a hearing, if the application is made within 30 days after the pronouncement of the judgment or order. In this case, the appellant made his application more than five years after the order of December 10, 2012, by which the Tax Court of Canada dismissed his appeal for failure to attend. As the application was presented well past the 30-day time limit, the appellant is asking the Court to exercise its discretion under subsection 12(1) of the Rules to extend the deadline provided for in subsection 140(2) of the Rules and allow him to pursue his appeal.
+[37] In Tomas v. Her Majesty the Queen, 2007 FCA 86, the Federal Court of Appeal set out the factors that are usually considered in motions for an extension of time, namely:
+(a) the continuing intention to pursue the appeal;
+(b) that the appeal has some merit;
+(c) that no prejudice to the respondent arises from the delay;
+(d) that a reasonable explanation is given for the delay.
+[38] The facts to be considered in a motion of this nature must establish a continuing intention to pursue the appeal. After the appellant received the reassessments dated August 9, 2010, he himself prepared a notice of objection to the assessments in dispute and a decision on the objection was rendered by the CRA on October 3, 2011. The appellant then instructed the firm Ravinsky Ryan Lemoine LLP to prepare and file the notice of appeal against the reassessments in dispute, which was done on December 29, 2011. After that, nothing was done; there was total silence until the appellant obtained a copy of the requirement to pay sent by the CRA to Corporation Exacte Inc. on July 26, 2017. He then instructed the firm Miller Thomson LLP to obtain information on the state of his file from the CRA and on September 29, 2017, Miller Thomson LLP asked the Tax Court of Canada for an extension of time to appeal the reassessments in dispute.
+[39] The appellant states that he believed that his objections were still being processed and that the CRA would eventually follow up with him after it analyzed the reasons raised in his objections. In my opinion, that seems totally far-fetched and not credible, given the affidavit of the appeals officer to the effect that the appellant made no representations regarding his grounds of objection and that she told the appellant three times that his only recourse was before the Tax Court of Canada.
+[40] The appellant did not take any concrete measures to pursue his appeal after the firm Ravinsky Ryan Lemoine LLP ceased to act on his behalf in May 2012 because of his failure to pay their invoices, a period of about five years. He never communicated with them again except for one or two weeks before the hearing of this motion, to obtain documents. The appellant’s period of inaction ended in 2017 after he became aware of the CRA’s requirement to pay against Corporation Exacte Inc.
+[41] In my opinion, this five-year period of inaction is not reasonable in the circumstances and the reasons put forward by the appellant to justify the delay do not appear to me to be credible. The appellant was very negligent in the way that he pursued his case after having filed his notice of appeal.
+[42] The excuse that he had not received the Tax Court of Canada communications following the order of December 10, 2012, does not hold water since those communications were sent to the address that the appellant himself provided to the CRA on November 29, 2011, to his counsel, that is, the firms Ravinsky Ryan Lemoine LLP and Miller Thomson LLP, and to the Court in his notice of appeal. The explanation provided by the appellant to the effect that there was a change in the civic address at 7272, Maurice‑Duplessis Boulevard, unit 205, in Montreal in 2007 is simply not credible because that change reportedly took place before November 29, 2011, the date on which the appellant had his address changed in the CRA system.
+[43] Concerning the issue of whether the appeal has merit, I must say that I think it doubtful. In his notice of appeal, the appellant alleges that the expenses claimed by the Corporation are supported by documentary evidence, which he never submitted, and that he never appropriated any funds from the Corporation. In the reply to the notice of appeal, the respondent alleges (1) that the appellant reported very low income during the years audited, (2) that with the assistance of his spouse, the appellant purchased two properties in 2002 and 2006 worth over $800,000, (3) that the appellant did not provide access to the books and records of the Corporation during the audit (4) that concerning the objections, the appellant did not make any representations.
+[44] However, since one of the questions in dispute in the appeal is the imposition of penalties for gross negligence and since the respondent has the burden of justifying those penalties, I do not see how I could find that the appeal has no merit.
+[45] Concerning prejudice arising from the delay, the respondent did not argue that the respondent would suffer significant prejudice if the motion were to be granted. However, the appellant would suffer serious prejudice if the motion were to be denied, because the appellant would have to pay tax on a total of $839,837, in addition to the penalties for gross negligence.
+[46] Concerning the factor of a reasonable explanation for the delay, the appellant was not able to explain why he was not present at the status hearing or explain the delay between the order of the Court and the date on which he became aware of the order. He also provided no explanation for the delay between the date on which he became aware of the order of the Court and the date on which the motion was made. Counsel for the appellant made a motion for an extension of time to institute an appeal on September 20, 2017, whereas a notice of appeal against the assessments in dispute was filed on December 29, 2011. The appellant did not provide any explanations for this palpable error, and it seems evident to me that the appellant failed to disclose this information to his counsel.
+III. Conclusion
+[47] In light of the foregoing, I conclude that there is no need to grant the appellant an extension of time to file an application to have the order of the Court dated December 10, 2012, set aside. The lack of a continuing intention to pursue the appeal and the lack of an explanation for the delay in requesting an extension of time justifies the denial of the motion. The fact that no prejudice to the respondent arises and the fact the appeal has some merit are not in my opinion enough for me to grant an extension.
+[48] The motion is therefore denied, with costs in favour of the respondent. Counsel for the respondent asked for costs higher than those provided for in the tariff, but counsel for the respondent did not provide me with a convincing reason as to why such costs would be appropriate.
+Signed at Montreal, Quebec, this 11th day of July 2018.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 5th day of September 2019.
+Janine Anderson, Revisor
+CITATION:
+2018 TCC 137
+COURT FILE NO.:
+2012-221(IT)G
+STYLE OF CAUSE:
+WILGUENS EXACTE v. THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+April 9, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice Réal Favreau
+DATE OF ORDER:
+July 11, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Amin Njonkou Kouandou
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Amin Njonkou Kouandou
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

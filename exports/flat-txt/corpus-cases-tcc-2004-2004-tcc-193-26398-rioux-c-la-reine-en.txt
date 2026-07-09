@@ -1,0 +1,109 @@
+Title: Rioux c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26398/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-193-26398-rioux-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-03-02
+
+# Rioux c. La Reine
+
+- Citation: 2004 TCC 193
+- Decision date: 2004-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3345, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rioux c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-02
+Neutral citation
+2004 TCC 193
+File numbers
+2003-3463(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3463(IT)I
+BETWEEN:
+CHRISTIAN RIOUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on February 24, 2004, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent
+Benoît Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment established under the Income Tax Act for the taxation year 2001 is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of March 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 1st day of December 2004.
+Elizabeth Tan, Translator
+Citation: 2004TCC193
+Date: 20040302
+Docket: 2003-3463(IT)I
+BETWEEN:
+CHRISTIAN RIOUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Louise Lamarre Proulx J.
+[1] This is an appeal under the informal procedure concerning the taxation year 2001.
+[2] The issue is whether the Appellant may deduct legal fees paid to contest an application filed by his ex-spouse to determine the shared custody conditions for a child, to set child support amounts and grant a provision for the Applicant's legal fees.
+[3] The facts of this case were not debated. They are described as follows in Paragraph 6 of the Reply to the Notice of Appeal (the "Reply"):
+[translation]
+(a) The Appellant and Cynthia Brosseau lived common-law from 1991 to September 1998;
+(b) A child, Jonathan Brosseau-Rioux, was born of this union, on June 10, 1992;
+(c) After their separation, the child was always shared between the Appellant and Ms. Brosseau, living with them for one week each, alternately;
+(d) During the year in question, the Appellant incurred fees to contest Ms. Brosseau's motion to receive child support payments from the Appellant;
+(e) The hearing of Ms. Brosseau's motion was held on December 5, 2001;
+(f) In his February 5, 2002, decision, Roger E. Baker J. determined that the Appellant was to pay his ex-spouse $183.33 per month;
+(g) When the Appellant produced his income tax declaration for the taxation year in question, he provided statements of the following payments to the law firm Ferland, Marois, Lanctot:
+(i) For the year 2002 [sic], $7,150.89 in legal fees incurred for a case to determine child support payments for a minor in a shared custody case;
+(ii) For the year 2002, $3,795.97 in legal fees incurred for a case to determine child support payments for a minor in a shared custody case.
+[4] The evidence was submitted by consent as exhibits I-1 to I-4. They are: the Appellant's 2001 income tax claim, the Superior Court of Québec judgment of February 5, 2002, and the confirmations of counsel for the Appellant that he paid $7,150.89 in legal fees for 2001, and $3,795.97 for 2002.
+[5] The judgment, Exhibit I-2, showed that the parties agreed on the shared custody arrangement. The two points at issue were whether Mr. Rioux should pay child support for his son and how much, and whether Mr. Rioux's ex-spouse was entitled to a provision for costs.
+[6] The last point was dismissed by the court, but the court ordered child support payments for his son, of $183.83 per month.
+Arguments
+[7] The Appellant relied on Paragraph 17 of the Interpretation Bulletin IT-99R5. I quote the relevant part:
+Support amounts
+... However, since children have a pre-existing right, arising from legislation, to support or maintenance, legal costs to obtain an order for child support are deductible...
+[8] He claimed that his legal fees were incurred to obtain child support payments.
+[9] Counsel for the Respondent referred to the following decisions: Bayer v. M.N.R., 91 DTC 1035; Bergeron v. Canada, [1999] T.C.J. No. 510 (Q.L.); Nadeau v. The Queen, 2003 DTC 1557; and Nadeau v. Canada, [2003] F.C.J. No. 1611 (Q.L.).
+[10] The last decision is from the Federal Court of Appeal. It deals with deducting legal fees incurred to contest an application to increase child support payments. This deduction application was submitted by the payer of child support.
+[11] I cite paragraphs 8, 10, 11, 28, 32, 33, 34, 36 and 37:
+8 The applicant, in his appeal before Archambault T.C.J., claimed the right to be treated in the same way as the recipient of support, that is, to be able to deduct the legal costs he had incurred. In doing so, the applicant, who represented himself, attempted to invoke the Charter [Canadian Charter of Rights and Freedoms, being Part I of the Constitution Act, 1982, Schedule B, Canada Act 1982, 1982, c. 11 (U.K.) [R.S.C., 1985, Appendix II, No. 44]] without having served the necessary notice of constitutional question under section 57 [as am. by S.C. 1990, c. 8, s. 19] of the Federal Court Act [R.S.C., 1985, c. F-7].
+10 In support of his application for judicial review, the applicant contends that Archambault T.C.J. wrongly held that he was not a victim of discrimination...
+11 It is not easy to discern the sense of the constitutional issue that the applicant is attempting to raise. But in reading between the lines, the applicant's position seems to be that, to the extent that paragraph 18(1)(a) prevents the payer of support from deducting the legal costs incurred while allowing the recipient of that support to do so, it is discriminatory and contrary to the Charter.
+28 The income from support is a clear illustration of how two seemingly distinct sources may link up with one another. Although the taxation of support payments as income is explicitly provided for in subdivision d, which deals with "Other Sources of Income", it still remains that the right to support is "property" under the Act. If the right to support is "property", it is hard to dissociate this "property" from the income which flows from the exercise of this right. That is where lies the statutory authority invoked by the courts, over the years, to allow the deduction of costs pertaining to support in the circumstances we have seen by invoking subdivision b and in particular paragraph 18(1)(a).
+32 The amendments to the Act that accompanied the decision made in 1997 to no longer tax support payments intended for the children of the marriage are, in this regard, unequivocal. This decision could have had a significant impact on the deduction that support recipients could claim under paragraph 18(1)(a), since paragraph 18(1)(c) stipulates that no expense may be deducted "in connection with property the income from which would be exempt".
+33 To maintain the right to the deduction, Parliament amended the definition of "exempt income" [as am. by S.C. 1997, c. 25, s. 71] in subsection 248(1) to exclude the part of the support that is intended for children, even if it is now non-taxable. Clearly, this amendment would be pointless if Parliament was of the view that income from support was not income from porperty [sic] within the meaning of subdivision b.
+34 It appears from this that not only has Parliament accepted the solution adopted by the courts over the years, it has intervened to preserve that solution when confronted with an amendment that effectively would have precluded it. This jurisprudential solution, I repeat, is a function of the fact that the income from a support payment is income from property, and as such the expenses incurred in order to earn this income may be deducted.
+36 This brings us to the applicant's argument that paragraph 18(1)(a) is contrary to the Charter. The applicant, who did not serve a notice of constitutional question in the Tax Court of Canada, remedied this defect in this Court. As stated previously, the applicant alleges that paragraph 18(1)(a) is contrary to the Charter because it has the effect of imposing differential treatment on the payer and recipient of support.
+37 Paragraph 18(1)(a) of the Income Tax Act may lead to differential treatment, but not all distinctions are discriminatory...
+[12] I quoted much of this decision because it is vital to the outcome of this case. The Federal Court of Appeal did not amend this court's case law that states that legal fees incurred to contest an order for support payments are not deductible because these fees are not paid to gain income from property. In this case, the evidence clearly showed that the legal fees were incurred to contest the determination of child support payments. Therefore, the Appellant may not deduct these fees.
+[13] Accordingly, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 2nd day of March, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 2nd day of December 2004.
+Elizabeth Tan, Translator

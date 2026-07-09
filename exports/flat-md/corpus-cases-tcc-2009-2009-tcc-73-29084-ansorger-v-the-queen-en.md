@@ -1,0 +1,150 @@
+---
+title: "Ansorger v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29084/index.do"
+last_modified: "2009-02-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 73"
+citation2: ""
+neutral_citation: "2009 TCC 73"
+decision_date: "2009-02-06"
+language: "en"
+item_id: "29084"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6742
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:35:27.250000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a1ad968ed2c8f5d06f9fb299c2190e1450f2a0f98e83e5f0347f105ec3688970"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ansorger v. The Queen
+
+- Citation: 2009 TCC 73
+- Decision date: 2009-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6742, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ansorger v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-06
+Neutral citation
+2009 TCC 73
+File numbers
+2006-3611(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-3611(GST)I
+BETWEEN:
+MARVIN ANSORGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 25, 2008, at Edmonton, Alberta.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Deborah McGuire
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated January 13, 2006 and bears number 10BT0300028 is allowed in accordance with the attached Reasons for Judgment.
+It is ordered that the $100 filing fee for the filing of the Notice of Appeal is to be refunded to the Appellant.
+Signed at Ottawa, Canada, this 6th day of February 2009.
+“B.Paris”
+Paris J.
+Citation: 2009 TCC 073
+Date: 20090206
+Docket: 2006-3611(GST)I
+BETWEEN:
+MARVIN ANSORGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The issue in this appeal is whether the Appellant was required to collect and remit GST of $11,585 on a sale of land in 2003.
+[2] Under the Excise Tax Act, (the “Act”) the sale of land is a taxable supply and is subject to GST unless the supply is explicitly exempted. Exempt supplies are listed in Schedule V to the Act, and the supplies of real property which are exempt supplies are set out in Part I of Schedule V.
+[3] The relevant portion of Part I of Schedule V for the purpose of this appeal is subparagraph 9(2)(a)(i) which reads as follows:
+Schedule V: Exempt Supplies
+Part I : Real Property
+…
+9(2) A supply of real property made by way of sale by an individual or a personal trust, other than
+(a) a supply of real property that is, immediately before the time ownership or possession of the property is transferred to the recipient of the supply under the agreement for the supply, capital property used primarily
+(i) in a business carried on by the individual or trust with a reasonable expectation of profit, or
+[4] The Respondent says that prior to its sale the real property disposed of by the Appellant was capital property used by him primarily in the business of farming carried on with a reasonable expectation of profit and therefore, that the exception in subparagraph 9(2)(a)(i) applied and the sale by the Appellant did not constitute an exempt supply.
+[5] The Appellant takes the position that he did not use the land in the business of farming prior to its sale and therefore that the sale was exempted under subsection 9(2) of Part I of Schedule V.
+Facts
+[6] The Appellant inherited two diagonally adjacent parcels of land from his father, who passed away in 1995. The first, legally described as the SE ¼ of Section 5, Township 50, Range 23 W4M (the “SW¼”), consisted of approximately 160 acres. The family home and some farm buildings were located on this parcel. The second parcel, legally described as the NW ¼ of Section 5, Township 50, Range 23 W4M (the “NW¼”), consisted of approximately 151 acres. The two parcels were transferred to the Appellant on December 17, 2001.
+[7] In 2003, the Appellant subdivided the NW ¼ into two roughly equal lots, which were referred to as the “North Lot” and the “South Lot”. He sold the North Lot on October 7, 2003 for $165,500 and did not collect any GST from the purchasers. The Minister subsequently assessed the Appellant for GST in respect of this sale. (Although the South Lot was also sold and no GST collected, this sale is not in issue because the sale was to a G.S.T. registrant.)
+[8] The Appellant testified that prior to the sale of the North and South Lots, they were not being farmed by him “in a profitable manner”, and that only the SE ¼, which he called “the home quarter” was farmed in a “farm manner”. He said that as a favour to his cousin, he let him take hay crops off the NW ¼ because his cousin had lent him money to pay some outstanding property taxes. He said that he may have received some of the hay taken from the NW ¼ but that the operation was not really done for profit. The Appellant also testified that he let his cousin take the hay from the NW ¼ in order to prevent the County from spraying the property to prevent the spread of weeds.
+[9] With respect to the SE ¼, the Appellant said that he had another deal with his cousin whereby the latter would take the hay off in exchange for 20 to 40 % of the hay. Apparently, his cousin would sell the Appellant’s hay on his behalf and pay him the proceeds in cash. There was some evidence that the Appellant also maintained some livestock on the SW ¼.
+[10] In each of his 2000 to 2004 income tax returns the Appellant reported income from farming and filed a statement of farming activities for each year with the returns. Those statements showed revenue of $7,000 from the sale of crops in 2000, 2001, 2002 and 2003. They also showed that the Appellant owned 320 acres and farmed 270 acres in 2000, 2001 and 2002 and owned 160 acres and farmed 155 acres in 2003.
+[11] The Appellant testified that the amount of farming revenue shown in the tax returns ($7,000 per year) were estimates or “ball park” figures and that had not kept a record of what he received from his cousin. For the SE ¼ he said he and his cousin had estimated the Appellant’s share of the proceeds from the sale of hay at $3,500 and that his accountant must have mistakenly extrapolated from this estimate that he had total revenue of $7,000 from hay sales from both the SE ¼ and NW ¼ combined. At another point in his evidence, though, the Appellant said that he himself told the accountant to “ball park” the revenue from farming at $7,000. The Appellant maintained however that he did not receive any money for hay taken from the NW ¼.
+[12] For 2004, after the Appellant transferred half of the SE ¼ property to his daughter he reported $1,750 revenue from the sale of hay. The Appellant showed a profit from his farm business each year after the deduction of expenses.
+[13] The Appellant also reported income from a welding business. In each year except 2002 the revenue from welding was less than the revenue from the Appellant’s farming business.
+[14] On his 2003 income tax return, the Appellant reported a taxable capital gain of $53,390 on the sale of the North and South Lots, but offset the gain by claiming a capital gains deduction on the basis that the Lots were “qualified farm property” under subsection 110.6(2) of the Income Tax Act.
+[15] The Appellant said that his accountant prepared his tax returns and that he did not read them before he signed them. He said he was not aware that the Lots were reported as qualified farm property for income tax purposes.
+Position of the Parties
+[16] The Appellant argued that the sale of the North Lot did not attract GST because he did not use the property primarily in a business prior to the sale.
+[17] Counsel for the Respondent took the position that prior to the sale of the North Lot, the Appellant used the NW ¼ (including the North Lot) in commercial activity by virtue of the sharecropping arrangement he had with his cousin. According to counsel, the evidence showed that the Appellant earned revenue from the sharecropping agreement and he reported that revenue as revenue from a farming business. Counsel also noted that the Appellant reported a profit from farming in each of his 2000, 2001 and 2002 taxation years, Therefore, prior to the sale of the North Lot, the property was capital property used in a business carried on by the Appellant with a reasonable expectation of profit and subparagraph 9(2)(a)(i) of Part I of Schedule V to the Act excepted the sale of the property from the exemption from GST accorded in Schedule V to sales of real property.
+Analysis
+[18] In light of all of the evidence I find that the Appellant was not carrying on the business of farming on the North Lot before its sale and therefore that he was not required to collect GST on the sale.
+[19] I accept the Appellant’s evidence that he allowed his cousin to remove hay from the NW¼ in exchange for part of the hay produced. This arrangement was referred to by both parties as sharecropping, which can be likened to a rental of the property, with the rent paid in produce from the land.
+[20] The evidence shows that the Appellant did not expend any labour or effort to obtain the share of the hay from the property, and none of his farm equipment was used by his cousin. All that the Appellant was required to do was to supply the land. In my view, any income received by the Appellant from this arrangement would be income from property rather than income from business.
+[21] I recognize that the Appellant reported the value of the hay he received as revenue from a farming business, but for the reasons given already, I find that this reporting was not correct. The inclusion of the revenue received by the Appellant from sharecropping the NW¼ in the revenues he reported on the statement of farming activities in his returns cannot convert the sharecropping revenue to business revenue. The only expenses that the Appellant claimed against the total reported farming revenue were property taxes in each year, and some capital cost allowance in 2001 and 2002 which related to equipment and buildings located and used on the SW¼. The fact that no expenses other than property tax were claimed in respect of the NW¼ in my view supports the conclusion that the Appellant was not using the property in a business.
+[22] I also recognize that the Appellant’s position in this appeal is inconsistent with his claim in his 2003 income tax return that the North and South Lots were “qualified farm property” when they were sold in 2003. Under subsection 110.6(1) of the Income Tax Act, “qualified farm property” is property “used principally in the course of carrying on the business of farming in Canada”. The Respondent however did not argue that the Appellant was estopped from taking the position that the NW¼ was not used by him in carrying on a farming business, and the evidence I have before me satisfies me that the property was not in fact so used by him.
+[23] This conclusion is sufficient to dispose of the appeal in favour of the Appellant.
+[24] I am aware that it could also have been argued that the sale of the North Lot was not an exempt supply by virtue of subparagraph 9(2)(a)(ii) of Part I of Schedule V which provides that where the vendor of real property is a registrant and prior to the sale the real property is used primarily in making taxable supplies by way of lease, licence or similar arrangement, the sale of the real property is not an exempt supply. It is likely that under the arrangement that the Appellant had with his cousin for sharecropping on the NW ¼ the Appellant made a taxable supply of the land by way of a licence. However, this argument was not raised by the Respondent, and it would be unfair to the Appellant to consider it without having received submissions of the parties on the point (see: Nunn v. R. 2006 FCA 403).
+[25] For all of these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 6th day of February 2009.
+“B.Paris”
+Paris J.
+CITATION: 2009 TCC 073
+COURT FILE NO.: 2006-3611(GST)I
+STYLE OF CAUSE: MARVIN ANSORGER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: November 25, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: February 6, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Deborah McGuire
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

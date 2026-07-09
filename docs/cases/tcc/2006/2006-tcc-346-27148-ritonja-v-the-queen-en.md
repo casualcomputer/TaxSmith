@@ -1,0 +1,173 @@
+---
+title: "Ritonja v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27148/index.do"
+last_modified: "2006-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 346"
+citation2: ""
+neutral_citation: "2006 TCC 346"
+decision_date: "2006-06-16"
+language: "en"
+item_id: "27148"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1017
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:00:26.777000+00:00"
+cases_cited_count: 3
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7805ad67d1b3460e8c26c81dac4351230c07e6dd8ba5cf7da66cded84d6ebf7c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ritonja v. The Queen
+
+- Citation: 2006 TCC 346
+- Decision date: 2006-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1017, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ritonja v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-16
+Neutral citation
+2006 TCC 346
+File numbers
+2005-416(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-416(IT)I
+BETWEEN:
+MILAN RITONJA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 7, 2006 at Vancouver, British Columbia.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Agent for the Appellant: Josephine Ritonja
+Counsel for the Respondent: Selena Sit
+Ryan Gellings
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001 and 2002 taxation years are allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis of the appellant's evidence that he paid $7,200 in each of the years in satisfaction of his liability for 1994, 1995, 1996 and 1997, as required by the Order of the Ontario District Court.
+Signed at Ottawa, Canada, this 16th day of June 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC346
+Date: 20060616
+Docket: 2005-416(IT)I
+BETWEEN:
+MILAN RITONJA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from assessments made under the Income Tax Act for the appellant's 2001 and 2002 taxation years. They have to do with the deductibility of amounts paid by him in those years to his former common law spouse, Kathy Lynn Tanner, for the support of her son Jesse David Tanner.
+[2] Some time prior to 1990 the appellant and Ms. Tanner separated and the District Court of Ontario ordered him to pay to Ms. Tanner $300 per month for the support of Jesse. The payments were to continue until the occurrence of one of a number of events, one of which was Jesse's becoming 16 years of age. This occurred on September 27, 1998.
+[3] The appellant alleges that he paid Ms. Tanner $7,200 in cash in June 2001 and $7,200 in cash in November 2002, in respect of the arrears payable for 1994, 1995, 1996 and 1997. A receipt put in evidence and signed by Ms. Tanner confirms the payment. The Crown did not in argument or in its Reply to the Notice of Appeal, challenge the allegation that the payments were made and I am obliged to find as a fact that they were, although I find the payment of such large sums in cash rather unusual. Mr. Ritonja stated that Ms. Tanner insisted that she be paid in cash and moreover he did not want his present wife Josephine to find out about the payment. As it happens she did. She prepared his returns of income for 2001 and 2002 and also acted as his agent at the trial.
+[4] The Minister of National Revenue disallowed the amounts paid in 2001 and 2002 on the basis of the following assumptions:
+9. In so reassessing the Appellant for the 2001 and 2002 taxation years and in confirming the reassessments, the Minister relied on the same assumptions of fact, as follows:
+a) by way of an Order of the District Court of Ontario dated July 12, 1990 ("Order"), Kathy Lynn Tanner ("Kathy") was granted custody of Jesse, with reasonable and generous access to the Appellant;
+b) the Order also required the Appellant to pay to Kathy child support of $300.00 per month in respect of Jesse;
+c) the child support payments were to commence on June 1, 1990 and to continue on the first of each subsequent month, until one of the following occurred:
+(i) Jesse ceased to reside full time with Kathy;
+(ii) Jesse becomes 16 years of age;
+(iii) Jesse marries;
+(iv) Jesse dies;
+(v) Kathy dies; or
+(vi) Jesse is adopted by another male or another male is in loco parentis to Jesse;
+d) Jesse turned 16 years of age on September 27, 1998;
+e) there was no decree, order or judgment of a competent tribunal issued nor any written agreement made subsequent to the Order requiring the Appellant to pay child support to Kathy in respect of Jesse.
+Paragraphs 12 and 13 of the Reply read as follows:
+12. He submits that the Order only required that the Appellant pay support payments to Kathy until Jesse turned 16 years of age. Since Jesse turned 16 in 1998, no payments were required to be paid pursuant to the Order in the 2001 and 2002 taxation years and as a result, even if the Amounts were paid to Kathy in those years, they were not paid pursuant to the Order and are therefore, not deductible by the Appellant in 2001 and 2002 pursuant to paragraph 60(b) of the Act.
+13. He submits further that if any amount were deductible by the Appellant as support payments in the 2001 and 2002 taxation year, which is not admitted but specifically denied, they would be limited to a maximum amount of $3,600, i.e., 12 months times $300 per month as set out in the Order.
+[5] Nowhere in the assumptions or in the reasons pleaded was there any assertion that Mr. Ritonja had paid or claimed or been allowed a deduction for the $300 per month for 1994, 1995, 1996 and 1997. The reply states that the assumptions made as set out above were made at both the assessing and the confirmation level.
+[6] The respondent called Mr. Ian Metcalfe, an appeals officer with the Canada Revenue Agency. He put in evidence some printouts alleged to have been taken from the appellant's returns showing that in each of the years 1994, 1995, 1996 and 1997, the appellant claimed and was allowed $3,600 as a deduction for support payments made. Whether he in fact paid the amounts in 1994 to 1997 is doubtful. He says that he did not and that the amounts of $7,200 which he paid in the 2001 and 2002 taxation years were intended to make up for the arrears that he had not paid in earlier years. What is clear is that the respondent in its reply did not state that either at the assessment level or at the appeals level, when the assessment was confirmed, it was assumed that the amounts had been claimed as deductions and allowed in 1994 to 1997. Had the respondent wished to put this in issue, she should have pleaded either as an assumption or as a separate assertion that the amounts of $300 per month had been paid, claimed as deductions and allowed in the earlier years. This would have given the appellant an opportunity to challenge the correctness of the assertion or advance legal arguments as to the effect of the prior years' claim. As it was, the appellant, unrepresented by counsel, was faced with the unpleaded assertion (hearsay, as it happens, and based upon a printout that, even on the most liberal interpretation of the rules of evidence, was of no evidentiary value) that he had already deducted and been allowed the amounts in the earlier years. The appellant was unable to confirm this deduction in the earlier years, his returns having been prepared by H & R Block.
+[7] As Hugessen J., in the Federal Court of Appeal said in The Queen v. Richard N. Bowens, 96 DTC 6128 at 6129:
+... unpleaded assumptions can have no effect on the burden of proof one way or the other.
+As L'Heureux-Dubé said in Hickman Motors Limited v. The Queen, 97 DTC 5363 at 5376:
+The initial burden is only to "demolish" the exact assumptions made by the Minister but no more.
+[8] Had the Crown pleaded the prior deduction and allowance, it might (I emphasize might because I express no view on the validity of the argument) have raised two arguments:
+(a) that the appellant was estopped from stating that he did not pay or claim the amounts in earlier years. (For a discussion of the principle of estoppel see Goldstein v. The Queen, 96 DTC 1029). Estoppel must be pleaded if it is to be raised at trial: Crawford v. The Queen, 2002 DTC 1883; Odgers on Civil Court Actions, 24th Ed., paragraph 13.26:
+An estoppel must always be specially pleaded; unless it appears on the face of the adverse pleading, when it is ground for an object in point of law, or unless there was no opportunity to plead it, as there was not in Coppinger v. Norton. It cannot be pleaded by a stranger to the estoppel. A plea of estoppel must always be drafted with great care and particularity. It must state in full detail the facts on which the party pleading relies as constituting the estoppel, and should also specify the allegations which it is contended the other party is precluded from proving.
+(b) that subsection 248(28) prevented the deduction in 2001 and 2002.
+Subsection 248(28) reads:
+Limitation respecting inclusions, deductions and tax credits - Unless a contrary intention is evident, no provision of this Act shall be read or construed
+(a) to require the inclusion or permit the deduction, either directly or indirectly, in computing a taxpayer's income, taxable income or taxable income earned in Canada, for a taxation year or in computing a taxpayer's income or loss for a taxation year from a particular source or from sources in a particular place, of any amount to the extent that the amount has already been directly or indirectly included or deducted, as the case may be, in computing such income, taxable income, taxable income earned in Canada or loss, for the year or any preceding taxation year;
+(b) to permit the deduction, either directly or indirectly, in computing a taxpayer's tax payable under any Part of this Act for a taxation year of any amount to the extent that the amount has already been directly or indirectly deducted in computing such tax payable for the year or any preceding taxation year; or
+(c) to consider an amount to have been paid on account of a taxpayer's tax payable under any Part of this Act for a taxation year to the extent that the amount has already been considered to have been paid on account of such tax payable for the year or any preceding taxation year.
+[9] Neither of these arguments was pleaded or advanced. In the circumstances, I am allowing the appeals on the basis of the appellant's evidence that he paid $7,200 in each of the years in satisfaction of his liability for 1994, 1995, 1996 and 1997, as required by the Order of the Ontario District Court. See Tsiaprailis v. The Queen, 2005 DTC 5119; R. v. Sills, 85 DTC 5096.
+[10] To permit the respondent to rely for the first time at trial on a brand new basis of disallowance would violate a fundamental rule of procedural fairness. See Poulton v. Canada, 2002 2 C.T.C. 2405, approved by Federal Court of Appeal in Burton v. The Queen, 2006 DTC 6133. In Poulton, at pages 2408-2410, I set out my view on points raised by the Crown at the last minute against taxpayers who are not represented by counsel.
+[11] On the eve of trial the respondent brought motions to amend the replies to add to sections C and D a reference to paragraph 6(1)(b). The motion was fully argued at the commencement of trial. I denied the respondent's motions and gave fairly extensive oral reasons. I shall summarize them briefly.
+[12] This court and the Federal Court of Appeal have traditionally been fairly liberal in granting amendments. I set out my reasons at some length in Continental Bank Leasing Corporation et al. v. The Queen, 93 DTC 298 at p. 302:
+...I prefer to put the matter on a broader basis: whether it is more consonant with the interests of justice that the withdrawal or amendment be permitted or that it be denied. The tests mentioned in cases in other courts are of course helpful but other factors should also be emphasized, including the timeliness of the motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position take originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the court's consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done.
+[13] This passage was quoted with approval in The Queen v. Canderel Limited, 93 DTC 5357.
+[14] After quoting it, the Federal Court of Appeal went on to add at pages 5361-2:
+While it is true that leave to amend may be sought at any state of a trial, it is safe to say that the nearer the end of the trial a motion to amend is made, the more difficult it will be for the applicant to get through both the hurdles of injustice to the other party and interests of justice. We note that in all the tax cases referred to by counsel for the appellant, the motion to amend has been made before trial or was made at trial but was to be expected by the opposing counsel during trial.19
+________________
+9 In Papp Estate v. M.N.R., 63 DTC 1219 (S.C.C.), the amendment was sought after examination for discovery. In Continental Bank Leasing Corporation et al. v. The Queen, supra note 18, it was sought before the examination for discovery of an officer of the Crown. In Meyer v. Canada, supra note 10, the opposing counsel had been aware for three months before the trial began that an amendment to the Statement of Claim would likely be sought. In Vineland Quarries and Crushed Stone Ltd. v. M.N.R., 70 DTC 6043 (Ex. Ct.), the amendment was sought before trial.
+[15] I think these two passages set out with sufficient accuracy the general principles to be followed. Counsel referred as well to SmithKline Beecham Animal Health Inc. v. R., [2000] 2 C.T.C. 329 (F.C.A.), affirming [2000] 1 C.T.C. 2552 (T.C.C.); and VISX Inc. v. Nidek Co., [1998] F.C.J. No. 1766 (a patent case).
+[16] Why then did I not allow the amendment here as was done in the above cases? Well, there is a world of difference between large public corporations, and multinationals with batteries of senior counsel to protect them and millions of dollars at stake and small taxpayers, unrepresented by lawyers, with relatively small amounts of money in issue.
+[17] Procedural fairness requires that in cases governed by the informal procedure the Crown not be permitted at the 11th hour to spring a brand new argument on a taxpayer. Had the appellants known from the outset or at least a reasonable time before trial that the Crown was going to rely on paragraph 6(1)(b) their approach might have been entirely different and they could have called evidence to rebut the assertion that the amounts were "allowances" within the meaning of paragraph 6(1)(b) or that they were exempted from the operation of that paragraph by subsection 6(6). Had I granted the Crown's motions and allowed the amendment the appellants would have been entirely justified in requesting an adjournment and this would have resulted in an undue delay of these relatively small informal appeals. I cannot emphasize too strongly that it is of consummate importance that the court in the informal procedure be vigilant to ensure that the unrepresented taxpayer not be deprived of procedural fairness.
+[18] I quite agree that by denying the Crown's motion to amend to refer to paragraph 6(1)(b) I may have deprived it of what might be a very potent argument. However the Crown's loss of these appeals because it slipped up and failed to refer to a provision that might have helped it is not, in the scheme of things, a jurisprudential or fiscal catastrophe. What is far more important is that unrepresented taxpayers in the informal procedure be given every benefit of procedural fairness. To force them to confront the complexities of paragraph 6(1)(b) and subsection 6(6) on the eve of trial would do the administration of justice irreparable damage.
+[11] Here, the Crown did not ask for an amendment and, for the reasons given in Poulton, I would probably not have granted it. However, I do not think the Crown can be in a better position by raising an unpleaded issue at trial than it would be if it had asked for and been denied an adjournment.
+Signed at Ottawa, Canada, this 16th day of June 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC346
+COURT FILE NO.:
+2005-416(IT)I
+STYLE OF CAUSE:
+Milan Ritonja v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 7, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+June 16, 2006
+APPEARANCES:
+Agent for the Appellant:
+Josephine Ritonja
+Counsel for the Respondent:
+Selena Sit
+Ryan Gellings
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

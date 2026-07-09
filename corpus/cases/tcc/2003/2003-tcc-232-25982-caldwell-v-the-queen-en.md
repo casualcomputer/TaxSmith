@@ -1,0 +1,85 @@
+---
+title: "Caldwell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25982/index.do"
+last_modified: "2003-04-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 232"
+citation2: ""
+neutral_citation: "2003 TCC 232"
+decision_date: "2003-04-24"
+language: "en"
+item_id: "25982"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3780
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:15:16.413000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b6e9b61c5d5cd5a2d815fd4012d1dc72f63a5cf34c1550f31e8cac5e6eea82e3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Caldwell v. The Queen
+
+- Citation: 2003 TCC 232
+- Decision date: 2003-04-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3780, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caldwell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-24
+Neutral citation
+2003 TCC 232
+File numbers
+2002-598(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC232
+Date: 20030424
+Docket: 2002-598(IT)I
+BETWEEN:
+CHARLES CALDWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Saskatoon, Saskatchewan on February 5, 2003)
+Beaubier, J.T.C.C.
+[1] This appeal, pursuant to the Informal Procedure, was heard at Saskatoon, Saskatchewan on February 4, 2003. The Appellant was the only witness.
+[2] The Appellant is an Investment Advisor employed by CIBC - Wood Gundy in Saskatoon and has been in that employment for over 15 years. He has appealed the disallowance of expenses claimed for his 1998 and 1999 taxation years. For 1998, $2,657.14 expenses remain in dispute (Exhibit A-4), and for 1999, $3881.97 remains in dispute (Exhibit A-5).
+[3] The Appellant was under oath. He is believed. In particular, he was frank about some expenses that he claimed which he insisted upon, such as donuts that he purchased on occasion by the dozen and dropped off in CIBC branch lunch rooms from which he was referred clients, and some other claimed expenses which he waived. He also testified that CCRA allows mechanics to deduct small tools priced at under $300, and the Court equates this to small computer items and telephone items for employees such as the Appellant as an investment advisor for CIBC - Wood Gundy. In the Court's view $300 plus sales tax in Saskatchewan, rounded, equals $350 respecting such items. The Appellant also argued that computer depreciation for someone such as he should be allowed; the Court agrees with him in principle, but the Income Tax Act is specific that employee's Capital Cost Allowance is only allowed for automobiles and aircraft (paragraph 8(1)(j)) and therefore the proper tax course is to lease such items ("form matters", Linden J.A.).
+[4] In particular, respecting small items in what might otherwise be described as "capital", they are prone to being lost, stolen or "borrowed" or to wearing out and for that reason are found to be analogous to "small tools". With respect to items like the donuts, that is a logical, goodwill gesture that will result in business being referred. It does not equate to a "meal", rather it is similar to dropping off a box of candy in the branch employees' coffee room.
+[5] Therefore, for 1998 the appeal is allowed respecting the following items of expenses claimed using dollar signs on pages 2 and 3 of the disallowed column in Exhibit A-4: $96.19, $10.31, $192, $340, $340, $68.39, $23.68, $99, $10.31, $66.07, $11.61, $5.81, $5.60, $4.95, total $1,273.92.
+[6] For 1999, the appeal is allowed respecting the following items of expenses claimed using dollar signs on pages 3 and 4 of the disallowed column in Exhibit A-5: $7.29, $3.21, $6.37, $2.50, $5.60, $5.60, $38, $150, $309.68, (In particular, the Appellant has no property interest), $129.90, $7.97, $22.59, (A radio claimed at $225.99 is regarded as personal by the Court), $316.38, $12.42, $22.79, $70.64, $45.59, total $1,156.53.
+[7] The Appellant raised the question as to whether he was an employee or in business in his work. The Court agrees that it is a legitimate question, but without seeing his employer's statements, documents and controls, and given the fact that at times the Appellant called himself an employee, the Court finds that he was an employee in 1998 and 1999.
+[8] The Court refers these findings to the Minister of National Revenue to reconsider and reassess the Appellant for the years in question to allow the additional expenses itemized herein; that is, for 1998, $1,273.52, for 1999, $1,147.53.
+Signed at Saskatoon, Saskatchewan this 24th day of April 2003.
+"D.W. Beaubier"
+J.T.C.C.

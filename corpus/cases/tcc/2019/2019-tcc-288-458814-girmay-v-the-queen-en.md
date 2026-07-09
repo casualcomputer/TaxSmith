@@ -1,0 +1,151 @@
+---
+title: "Girmay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/458814/index.do"
+last_modified: "2019-12-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 288"
+citation2: ""
+neutral_citation: "2019 TCC 288"
+decision_date: "2019-12-27"
+language: "en"
+item_id: "458814"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4268
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:56:34.673000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9a36a09e9b8fef84ccc902fcef90beabe152796e79f361dfc03e14e511fe65bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Girmay v. The Queen
+
+- Citation: 2019 TCC 288
+- Decision date: 2019-12-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4268, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Girmay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-12-27
+Neutral citation
+2019 TCC 288
+File numbers
+2016-4414(IT)I
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4414(IT)I
+BETWEEN:
+LEMLEM GIRMAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 1, 2019, at Toronto, Ontario
+By: The Honourable Justice Ronald MacPhee
+Appearances:
+Agent for the Appellant:
+Teshome Gislaslie
+Counsel for the Respondent:
+Matthew Turnell
+Priya Bains
+JUDGMENT
+The Respondent’s Motion to Quash this Appeal is allowed.
+The Appeal from the reassessment made under the Income Tax Act for the Appellant’s 2011 taxation year is quashed.
+Signed at Ottawa, Ontario, this 27th day of December 2019.
+“R. MacPhee”
+MacPhee J.
+Citation: 2019 TCC 288
+Date: 20191227
+Docket: 2016-4414(IT)I
+BETWEEN:
+LEMLEM GIRMAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+[1] The Appellant has appealed her reassessment from the Minister of National Revenue (the “Minister”) in respect of her 2011 taxation year. The Appellant is disputing the Minister’s denial of her claim of charitable tax credits pursuant to section 118.1 of the Income Tax Act (the “Act”). Specifically, in the 2011 taxation year, the amounts the Appellant claims to have gifted are a $5000 cash gift and a $27,500 gift in kind.
+[2] At the hearing, the Respondent identified the 2006, 2007 2008, 2009, 2010, 2011 and 2012 taxation years as being relevant to this Appeal.
+[3] Between the 2006-2012 taxation years the Appellant, in her filings with the Canada Revenue Agency (“CRA”), has claimed to have made a total of $186,673 in charitable gifts. The details of these amounts are set out in Schedule “A” to this Judgment. These claimed gifts arise as a result of the Appellant’s participation in the Global Learning Gifting Initiative program (“Global”). Global began in October 2004 and is registered as a tax shelter for the stated purpose of raising funds for the benefit of two Canadian charities.
+ISSUES
+[4] The issues in this Appeal are:
+Whether the Appeal for the 2011 taxation year is properly before the Court. The Respondent alleges that the Appellant has not filed a valid Notice of Objection for that year so therefore the Appeal must be quashed.
+If I find that the Appeal is properly before the Tax Court, the second issue is whether the Appellant made a gift of any amount in the 2011 taxation year as a result of her participation in Global.
+FACTS
+[5] While the Appellant was present at the hearing with a representative assisting her, she chose to call no evidence. This was despite the fact that I advised both parties before me that I intended to reserve my decision on the Respondent’s Motion concerning whether the Appeal should be quashed, and that the trial of the matter was to proceed. I therefore must rely solely on the evidence provided by the Respondent.
+[6] The Respondent filed an Affidavit from a CRA employee, Mr. Warren O’Dwyer. The evidence of Mr. O’Dwyer indicated the following:
+The Minister issued a Notice of Assessment for the Appellant’s 2011 taxation year on May 14, 2012;
+The Minister issued a Notice of Reassessment for the Appellant’s 2011 taxation year on November 4, 2013;
+A Notice of Objection was not filed by the Appellant on or before February 2, 2014;
+The Appellant did file a Notice of Objection on February 4, 2014;
+On February 14, 2014, the Chief of Appeals sent a letter to the Appellant advising her that the Notice of Objection filed for the 2011 taxation year was filed late. This letter advised the Appellant that she could apply for an extension of time to file her Objection;
+The Appellant never applied for an extension of time to file her Objection.
+[7] In determining the Appellant’s tax liability, the Minister has made three hundred and one assumptions, which are set out in the Notice of Reply filed by the Respondent. None of these assumptions were disputed by the Appellant.
+ANALYSIS
+[8] The formal means of commencing an administrative appeal from an assessment or reassessment of the Minister is by serving a Notice of Objection pursuant to section 165 of the Act. This is done by serving the Minister in writing, an objection setting out the reason for the objection as well as the relevant facts.
+[9] The way to calculate deadline to file an objection is not specified in the ITA. However, provisions on the matter were included in the Interpretation Act [1] .
+[10] Subsection 27(5) of the Interpretation Act explains that where anything is to be done within a time from a specified day, the time does not include that day. The day where the deadline does not run here is the day where the Notice of Confirmation was sent. Therefore, the 90 day countdown starts on November 5, 2013.
+[11] For the Appellant, her Notice of Objection was due on February 2, 2014. She was only two days late filing her Notice of Objection. Unfortunately, the consequences of missing the deadline are severe. The Minister will not accept an objection that is filed late, even if only by a day or two.
+[12] The Appellant had the ability, pursuant to section 166.1 of the Act, to apply to the Minister to extend the time to file the Notice of Objection. She was informed of her ability to do so in the letter from the CRA dated February 14, 2014. For reasons that were not explained to the Court, the Appellant took no further steps to rectify this error. She filed her Notice of Appeal in this matter on November 10, 2016.
+[13] As a result of these facts, the Appellant now appears in Tax Court without having filed a Notice of Objection pursuant to section 165 of the Act. The law is clear on this issue. A taxpayer’s right to appeal an assessment under the Act is rooted in section 169(1). Pursuant to s. 169(1) of the Act, a taxpayer may only Appeal to the Tax Court where they have served a Notice of Objection under section 165 of the Act. That has not happened; therefore the Appeal is not properly before the Court and must be quashed.
+[14] Even if I were to have found the Appellant had filed a valid Notice of Appeal pursuant to section 169(1) of the Act, I would have disallowed the Appeal. The Appellant attended Court without any intention of calling evidence or making arguments concerning the matters in dispute. In such a situation I must deny the Appeal.
+[15] The Appeal is quashed.
+Signed at Ottawa, Canada, this 27th day of December 2019.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2019 TCC 288
+COURT FILE NO.:
+2016-4414(IT)I
+STYLE OF CAUSE:
+LEMLEM GIRMAY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 1, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+December 27, 2019
+APPEARANCES:
+Agent for the Appellant:
+Teshome Geslaslie
+Counsel for the Respondent:
+Matthew Turnell
+Priya Bains
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attoney General of Canada
+Ottawa, Canada
+[1] Interpretation Act, RCS 1985, c. I-21.

@@ -1,0 +1,221 @@
+---
+title: "Pro-Style Stucco & Plastering Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28308/index.do"
+last_modified: "2004-01-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 32"
+citation2: ""
+neutral_citation: "2004 TCC 32"
+decision_date: "2004-01-09"
+language: "en"
+item_id: "28308"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1841
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:57:09.474000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "65a2dd896f480e4ac1bb8291e29ae952e02700195cc7355f4538a2cd56aa05bb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pro-Style Stucco & Plastering Ltd. v. The Queen
+
+- Citation: 2004 TCC 32
+- Decision date: 2004-01-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1841, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pro-Style Stucco & Plastering Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-09
+Neutral citation
+2004 TCC 32
+File numbers
+2002-4864(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4864(IT)I
+BETWEEN:
+PRO-STYLE STUCCO & PLASTERING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Pro-Style Stucco & Plastering Ltd., (2002-4862(CPP))
+on December 17, 2003, at Edmonton, Alberta.
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Agent for the Appellant:
+Dan R. Mason
+Counsel for the Respondent:
+K. Wood
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 9th day of January, 2004.
+"Gerald J. Rip"
+Rip, J.
+Docket: 2002-4862(CPP)
+BETWEEN:
+PRO-STYLE STUCCO & PLASTERING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Pro-Style Stucco & Plastering Ltd., (2002-4864(IT)I)
+on December 17, 2003, at Edmonton, Alberta.
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Agent for the Appellant:
+Dan R. Mason
+Counsel for the Respondent:
+K. Wood
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 28(1) of the Canada Pension Plan is dismissed and the decision of the Minister, on the appeal made to him under section 27 of that Plan, is confirmed.
+Signed at Ottawa, Canada, this 9th day of January, 2004.
+"Gerald J. Rip"
+Rip, J.
+Citation: 2004TCC32
+Date: 20040109
+Docket: 2002-4864(IT)I
+BETWEEN:
+PRO-STYLE STUCCO & PLASTERING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2002-4862(CPP)
+AND BETWEEN:
+PRO-STYLE STUCCO & PLASTERING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] These appeals were heard together on common evidence. The basic issue in these appeals by Pro-Style Stucco & Plastering Ltd. ("Pro-Style") from an assessment of a penalty for 2000 pursuant to subsection 162(7) of the Income Tax Act ("Act") and from a decision of the Minister of National Revenue pursuant to the Canada Pension Plan ("CPP") with respect to 2000 is whether John Marocco, the sole shareholder and director of Pro-Style, was an employee of Pro-Style in calendar year 2000. The Minister claims that he was an employee; the appellant says that he was not.
+[2] The appellant has been assessed:
+(a) CPP contributions of $1,205.10 under sections 21 and 22 of the CPP;
+(b) a penalty of $120.51 for failure to remit contributions under section 21(7) of the CPP;
+(c) interest of $231.53 on account of contributions not remitted, in accordance with subsection 21(6) of the CPP; and,
+(d) a penalty of $400 for failure to file a T4 and T4 Summary returns under subsection 162(7) of the Act with respect to the employment of Mr. Marocco.
+[3] The appellant also claims that the CPP contribution in the amount of $1,205.10 is a duplication of the amount Mr. Marocco was assessed on the basis that he was an employee of the appellant.
+[4] If Mr. Marocco is not an employee of Pro-Style, then the penalty assessed under subsection 162(7) of the Act will be vacated and the appellant will not be liable for CPP contributions, penalty and interest under the CPP.
+[5] Pro-Style carries on the business of plastering. Mr. Marocco, a plasterer, is the president, sole director and shareholder of Pro-Style, an Alberta corporation. The corporation's fiscal year end is February 28.
+[6] Mr. Marocco and Pro-Style executed a document entitled "Directors Contract and Agreement", dated August 10, 1996 ("Agreement"). The Agreement contained the following recitals:
+WHEREAS the company is desirous of engaging JOHN MAROCCO as a/the director of PRO STYLE STUCCO & PLASTERING LTD.
+WHEREAS John Marocco is desirous of being the/a director of PRO STYLE STUCCO & PLASTERING LTD.
+and the parties agreed, among other things:
+1.1 ...
+a) [the director] by acting as an active director of the corporation receive a directors fee of up to 80% more or less (eighty percent) of the net profit of the corporation.
+b) the directors fee shall be determined at the completion of the year end of the corporation.
+c) The director may take a draw in the form of a loan from the corporation provide [sic] that;
+i) there is [sic] sufficient funds available at the time and that by taking such draw does not in any way jeopardizes [sic] the ability of the corporation to meet it's [sic] financial obligations.
+d) Should the directors loans (draws) exceed the designated percentage of profit as determined at the corporate year end such loans shall be carried forward to the next year and deducted firstly from the directors allocation of profits in that year.
+e) The Director is contracted to the corporation and shall not be construed as an employee of the corporation
+1.2 The corporation and its Board of Directors and Shareholders unanimously appoint and elect John Marocco to the position of, and with the duties and responsibilities and title of President as outlined in the by-laws of the corporation.
+1.3 The effective date of the commencement of the appointment as a director of the corporation shall be April 1, 1996.
+1.5 The term of this agreement is continuos [sic].
+1.6 This agreement and appointment shall be entered as a resolution of the corporation. ...
+[7] Mr. Marocco occasionally operates under the firm name and style of Marocco Management. Marocco Management is a subcontractor of Pro-Style. The appellant's position is that Mr. Marocco is not an employee of the corporation but is a contractor who manages the corporation. Mr. Marocco insists he is the director of the corporation but not an employee.
+[8] Mr. Marocco described how he is paid by Pro-Style. He said he was paid "five or six times over the year" in different amounts "each time". His pay depended on the appellant's profits; if there were no profits, he would not be paid. Mr. Marocco said that he does not get paid on a regular basis, weekly or semi-weekly, for example, as does an employee. Only at the end of the year would it be decided what the appellant would pay him, he declared. During 2000, Pro-Style advanced him money and the loans were recorded as shareholder's loans. In Pro-Style's 2000 fiscal year the corporation paid Mr. Marocco director's fees of $18,950.
+[9] The appellant's office is in Mr. Marocco's personal residence; he does not charge the corporation any rent. From time to time, the appellant uses some of Mr. Marocco's personal assets such as mixers, scaffolding, planks, wheelbarrows, shovels and trowels, again without payment.
+[10] Mr. Marocco's services to Pro-Style include hiring and firing, arranging insurance, repairs and maintenance to vehicles and arranging for subcontractors, other plasterers, to perform work on contracts awarded to Pro-Style.
+[11] At times, if subcontractors failed to appear for work, Mr. Marocco would perform the plastering himself.
+[12] From time to time Pro-Style has held back money to subcontractors on account of defective work. However, at no time has Pro-Style ever held back any money owed to Mr. Marocco.
+[13] The corporation has no employees, Mr. Marocco insisted.
+[14] Mr. Marocco could not recall what "fees" the appellant paid him in 1998 when the appellant had a loss of $52,710. He acknowledged that his sole source of income during the period 1997 to 2001, inclusive, was from Pro-Style. In 1998 he received $2,000 from Pro-Style. Pro-Style's income and amounts Mr. Marocco reported having received from Pro-Style in his income tax returns in subsequent years follow:
+Year*
+Pro-Style's Income -
+Fiscal Year
+Received by Mr. Marocco
+(calendar year)
+1999
+$96,303
+$20,000
+2000
+$19,975
+$18,950
+2001
+$23,614
+$10,500
+2002
+($27,426)
+$ 7,500
+[15] All amounts were received by Mr. Marocco as director's fees. At no time did he invoice Pro-Style for his services. In Pro-Style's 2000 fiscal year, the appellant reported a payment to Mr. Marocco of a "management fee" of $25,000. Because the appellant's fiscal period is not the calendar year, it is difficult to reconcile what amounts were actually paid by Pro-Style to Mr. Marocco in the 1999 calendar year and the 2000 calendar year. It may well be that the $20,000 Mr. Marocco reported on his 1999 income tax return represents a portion of the $25,000 Mr. Marocco received in that year. However, Mr. Marocco could not clarify or confirm this.
+[16] The Crown produced Pro-Style's 2000 income tax return, which included a general index of financial information. The index referred to direct wages by Pro‑Style of $12,447 and employee benefits of $5,524. Mr. Marocco could not recall Pro-Style paying any "salary" in 2000 although he did remember that the appellant paid $2,705 to casual labour to "clean up" jobs; he said Pro-Style would pay $250 for each "clean up", but then said he would pay the $250 "once in a blue moon", perhaps four or five times a month.
+[17] The appellant's assets in 2000 were slightly over $140,000 and included a forklift, scaffolding and a three-ton mixer. The corporation also owned vehicles and paid insurance for these vehicles. Pro-Style also pays workmen's compensation insurance if a subcontractor does not carry such insurance. The corporation also accepts all risks with respect to delivery delays, quality of work with its principals. The corporation also, according to Mr. Marocco, paid insurance of $6,505 for fire and theft and for liability insurance.
+[18] Mr. Marocco said that although he only provided services to Pro-Style in 2000, he was free to provide services to any other contractor.
+[19] I find it difficult, but not necessarily impossible, to find that a corporation having one shareholder, who is also the sole director, can carry on business in the construction industry without any employees, even that sole director. The appellant's agent, Mr. Mason, reminded me that the intent of the parties in an agreement is important and the intention of the parties in the Agreement entered into between Pro‑Style and Mr. Marocco is clear: the parties wanted to create a contractual relationship. Mr. Marocco wore several different hats but none was an employee of Pro‑Style, Mr. Mason submitted.
+[20] Mr. Mason referred to the reasons for judgment of Bell, J. in Sara Consulting & Promotions Inc. v. M.N.R.[1]. Bell, J. held that, on the evidence before him, "in-store" demonstrators of food, beverage and related products in various retail outlets were independent contractors and not employees. The facts in Sara are quite different from those at bar.
+[21] In a situation where one person is the sole director and shareholder of a corporation and provides services to that corporation, the traditional tests to determine whether that person is an employee or an independent contractor are not always useful. How can one measure, for example, the level of control the employer has over the worker's activities when the person who directs the employer is the worker? It may well be, as Mr. Marocco implied, that Pro‑Style was incorporated because he wanted limited liability in carrying on the business. Therefore he caused all contracts to be taken in the name of Pro‑Style. Pro‑Style, however, accepted all risk with respect to the quality of the work. The business carried on was Pro‑Style's, not Mr. Marocco's, and his services were integral to that business.
+[22] The Agreement between Mr. Marocco and Pro‑Style may purport to be a contract for Mr. Marocco to supply his services to Pro‑Style but the parties also agreed that Mr. Marocco is to be a director of Pro‑Style.[2] There are statutory provisions that designate Mr Marocco as an employee of Pro‑Style due to the fact he is, and acts as, a director of the corporation and is also its president. For example, the CPP defines an employee to include an officer. An officer means a person holding an office "entitling him to a fixed or ascertainable stipend or remuneration ... and also includes the position of a corporation director"[3]. Clause 1.1(a) of the Agreement entitles Mr. Marocco to an ascertainable stipend for his work as director. The CPP also defines "employment" to include "the tenure of an office". An "employer" is a person "liable to pay salary, wages or other remuneration for services performed in employment, and in relation to an officer includes the person from whom the officer receives his remuneration"[4]. The employer at bar is Pro-Style.
+[23] For these reasons Mr. Marocco was an employee of Pro‑Style during 2000.
+[24] There is no merit in the appellant's argument that if he is unsuccessful in his appeals, his CPP contribution is duplicated. As counsel for the respondent stated, the necessary adjustments will be made to prevent any duplication. Both the employee and the employer are liable for their respective contributions to the CPP. Any excess contributions made by Mr. Marocco as a result of his claim that he was a self-employed person will be returned to him.
+[25] The appellant was liable to file information returns for purposes of the Act and failed to do so; it is therefore liable for the assessed penalties.
+[26] The appeals are dismissed.
+Signed at Ottawa, Canada, this 9th day of January, 2004.
+"Gerald J. Rip"
+Rip, J.
+CITATION:
+2004TCC32
+COURT FILE NO.:
+2002-4864(IT)I
+STYLE OF CAUSE:
+Pro-Style Stucco & Plastering Ltd. v. Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Ontario
+DATE OF HEARING:
+December 17, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+January 9, 2004
+APPEARANCES:
+Agent for the Appellant:
+Dan R. Mason
+Counsel for the Respondent:
+K. Wood
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+* Pro-Style's fiscal period terminates on February 28.
+[1] 2001 T.C.J. 773
+[2] It is not necessary for the purposes of these reasons that I comment on the bona fides of the Agreement between Pro-Style and Mr. Marocco and I prefer not to do so. The respondent has not questioned the Agreement.
+[3] Subsection 2(1). See also para. 6(1)(c) of the Act.
+[4] Idem.

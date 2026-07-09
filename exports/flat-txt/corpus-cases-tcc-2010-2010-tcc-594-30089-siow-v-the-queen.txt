@@ -1,0 +1,163 @@
+Title: Siow v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30089/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-594-30089-siow-v-the-queen.md
+Document type: case_law
+Last modified: 2010-11-19
+
+# Siow v. The Queen
+
+- Citation: 2010 TCC 594
+- Decision date: 2010-11-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7597, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Siow v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-19
+Neutral citation
+2010 TCC 594
+File numbers
+2008-3820(GST)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-3820(GST)G
+BETWEEN:
+SENG CHIN SIOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on November 9, 2010 at Toronto, Ontario
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Christine Ashton
+Counsel for the Respondent:
+Sharon Lee
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an Order striking out the Notice of Appeal and dismissing the Appellant’s appeal for abuse of process pursuant to Rule 53 of the Tax Court of Canada Rules (General Procedure);
+AND UPON reading the materials filed, and hearing counsel for the Appellant and counsel for the Respondent;
+IT IS ORDERED THAT:
+1. The motion is granted in part and in accordance with the power of this Court to strike all or any part of the pleadings, with or without leave, on grounds of abuse of process pursuant to Rule 53(c) of the Tax Court of Canada Rules (General Procedure), only the Appellant’s grounds for appeal in paragraph 11(c) of the Notice of Appeal is struck, together with that part of paragraph 16 of the Notice of Appeal found in the first sentence thereof following the words “S.298(1)” which reads: “and therefore any Certificate issued pursuant to S. 316 and filed in the Federal Court of Canada pursuant to S. 323(2)(a) is a nullity, and the pre-condition for director’s liability found in S. 323(2)(a) remains unfulfilled.” Such provisions of course are struck out without prejudice to any rights the Appellant may have to seek such relief from the Federal Court on such argument if he so chooses.
+2. Costs of this motion shall be in the cause.
+3. The hearing of the appeal which was scheduled to be heard on November 9, 2010, is adjourned sine die.
+Signed at Ottawa, Canada, this 19th day of November 2010.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2010 TCC 594
+Date: 20101119
+Docket: 2008-3820(GST)G
+BETWEEN:
+SENG CHIN SIOW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Pizzitelli J.
+[1] This is a motion by the Respondent to strike out the Notice of Appeal and dismissing the Appeal for abuse of process under Rule 53 of the Tax Court of Canada Rules (General Procedure).
+[2] Rule 53 states:[1]
+The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+…
+(c) is an abuse of the process of the Court.
+Background
+[3] The Appellant in this matter is challenging an assessment issued against him as a director of 906325 Ontario Inc. which operated as Handi-Jac Shampoo and Shine (the “Company”) pursuant to subsection 323(1) of the Excise Tax Act (which I will refer to as the “Act”) for the Company’s unpaid GST liability.
+[4] Paragraph 11 of the Appellant’s Notice of Appeal sets out the issues. The Appellant’s arguments as to why he is not liable under the assessment may be summarized as follows.
+Argument 1 Para. 11(a) The Minister never properly assessed the Company for its tax liability in the first place, the suggestion being that the Company was never mailed or received any assessment.
+Argument 2 Para.11(b) The Minister was statute barred from assessing the Company under section 298 of the Act and hence was statute barred from assessing the Appellant as a director under subsection 323(4) of the Act;
+Argument 3 The Certificate issued by the Minister, pursuant to section 316 of the Act is a nullity as a result of the positions taken by the Appellant in Arguments 1 and 2 above.
+Argument 4 It should be noted that a fourth argument, a due diligence defence, which was pleaded in paragraph 11(d) of the Appellant’s appeal, was withdrawn before this hearing.
+[5] During an exchange of correspondence between the parties prior to this hearing, the Respondent requested that the Appellant admit the authenticity of the Certificate of Non-Payment dated July 15, 2005 registered with the Federal Court as No. 3925-05, the Writ of Seizure and Sale dated July 15, 2005 issued pursuant thereto, the Levy Report dated February 13, 2006, the Third Party notice of assessment against the Appellant as director dated March 8, 2006 and an undated Corporate Profile Report, which by the Appellant’s Response to Request to Admit, were admitted on October 26, 2010.
+[6] Based on the Appellant’s advice that it would not be pursuing its due diligence defence and its admission of the authenticity of the Certificate and the other documents, the Respondent brings this motion on the grounds stated in paragraph 5 of the Notice of Motion:
+5. the only argument advanced by the appellant in support of the Appeal is a collateral attack on the Certificate which is deemed by statute to be a judgment of the Federal Court and is thereby an abuse of the Tax Court of Canada’s appeal process; …
+Position of the Respondent
+[7] In a nutshell, the Respondent’s position is that once a Certificate for Non‑Payment is registered in the Federal Court pursuant to subsection 316(2) of the Act, the Federal Court has sole jurisdiction to deal with any challenges as to the validity of such Certificate and there is no need to look through the Certificate to issues of the validity of the underlying assessment through process in the Tax Court of Canada. To do so, argues the Respondent, is to make a collateral attack on the decision of a Court having jurisdiction over the subject matter. In support of this position, the Respondent argues that the only effect of Argument 1 and Argument 2 above referred to is to challenge the validity of the Certificate, which is what Argument 3 does, so in substance the only argument advanced by the Appellant is really the validity of the Certificate. I will refer to this position as the “Jurisdiction Argument”.
+[8] In addition, the Respondent effectively argues that based on the facts of the pleadings taken as true together with its admissions above, the Appellant has no grounds for appeal or chance at succeeding in Arguments 1 and 2 even if the Court found they constituted issues different than in Argument 3. The Respondent argues that the Appellant has not denied he was a director or that he ceased to be a director, has withdrawn his due diligence defence and that any challenges to the underlying assessments, as Arguments 1 and 2 may be, are not challenges to the quantum of the assessment against the Company and hence not within the realm of cases allowing such challenges by third parties. Furthermore, the Respondent argues the Appellant does not dispute that the GST is owing by the Company due to his admission of the authenticity of the Certificate and the Levy Report, which are the preconditions to a directors’ liability assessment under paragraph 323(2)(a) of the Act. As a result, the Respondent takes the position the Appellant has no valid grounds of appeal. I will refer to this as the “Merits Argument”.
+[9] The Appellant’s position is that there is no case law which gives the Federal Court exclusive jurisdiction to the challenge of a Certificate unless the grounds for challenge deal with the process or the preconditions dealing with the issuance of the Certificate. To phrase it another way, the Appellant is arguing that when issues dealing with the question or validity of assessments are involved, those fall within the jurisdiction of the Tax Court of Canada even if the result is a challenge to the validity of a Certificate and it is up to the taxpayer to decide where it should go for relief. In addition, the Appellant takes the position that since the issuance of a notice of assessment is a precondition to pursuing collection procedures under subsection 315(1) of the Act, then failure to issue a valid notice of assessment, as argued in Arguments 1 and 2, effectively renders the issuance of a Certificate null and void; which is Argument 3.
+[10] The Appellant also argues that the arguments it raises as Argument 1 and Argument 2 are separate issues dealing with the underlying assessment per se and not substantively the same as Argument 3 and should be heard on their merits because the case law, although “muddled”, as she put it, supports the position that a director can challenge the Company’s underlying assessment, in its entirety, as well as any part of its quantum, and in effect, the Appellant should not be deprived of its day in court.
+The Law
+[11] The relevant provisions of the Excise Tax Act as they read at the time of filing the returns, with no substantive difference to those still in effect today for purposes of this motion, are:
+315 (1) The Minister may not take any collection action under sections 316 to 321 in respect of any amount payable or remittable by a person that may be assessed under this Part, other than interest or penalty computed at 6% per annum, unless the amount has been assessed.
+…
+316 (1) Any tax, net tax, penalty, interest or other amount payable or remittable by a person (in this section referred to as the “debtor”) under this Part, or any part of any such amount, that has not been paid or remitted as and when required under this Part may be certified by the Minister as an amount payable by the debtor.
+316 (2) On production to the Federal Court, a certificate made under subsection (1) in respect of a debtor shall be registered in the Court and when so registered has the same effect, and all proceedings may be taken thereon, as if the certificate were a judgment obtained in the Court against the debtor for a debt in the amount certified plus interest and penalty thereon as provided under this Part to the day of payment and, for the purposes of any such proceedings, the certificate shall be deemed to be a judgment of the Court against the debtor for a debt due to Her Majesty and enforceable as such. …
+…
+323 (1) Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+323 (2) A director of a corporation is not liable under subsection (1) unless[2]
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+…
+323 (3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+323 (4) The Minister may assess any person for any amount payable by the person under this section and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+323 (5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+Analysis:
+[12] I will now deal with the position of the parties, particularly the issues of Jurisdiction and Merit, as I referred to above separately, although in some respects note that they are inter-related.
+Jurisdiction Argument:
+[13] The Respondent’s position is based on both the wording of subsection 316(2) of the Act which deems the registration of the Certificate to be a judgment of the Federal Court against the debtor for the amount certified plus interest and penalty and to be enforceable as such and hence subject to judicial review as would a judgment of that Court and the doctrine of collateral attack which the Respondent argues prohibits the Appellant from seeking to challenge the validity of the Certificate, deemed a judgment of the Federal Court, in this Court.
+[14] There is no argument between the parties as to the meaning of the subsection. In fact, there is no argument made as to the meaning of the doctrine of collateral attack, which was explained in the case of Leroux v. Canada (Revenue Agency), 2010 BCSC 865, 2010 DTC 5123, a decision of the British Columbia Supreme Court, relied upon by the Respondent where the Plaintiff brought an action against Canada Revenue Agency (“CRA”) for damages on the basis the defendant’s conduct of audits, assessments and collection procedures relating to both the Income Tax Act and Excise Tax Act caused his substantial business empire to collapse and impoverished him and the CRA made application to strike the claim as an abuse of process under that Court’s Rules. In paragraphs 27 and 28 of that case, B.M. Preston J. described the doctrine as follows, relying on the decisions of the Supreme Court of Canada:
+27. A collateral attack involves a challenge to the correctness or validity of a decision in previous independent proceedings. The case authority requires that, when applying the doctrine, a court must look behind the cause of action pled to determine whether, in pith and substance, the action calls into question the validity of the previous decision. If it does, it must be struck as an abuse of process.
+28. The rule against collateral attack was articulated by the Supreme Court of Canada in Wilson v. The Queen, [1983] 2 S.C.R. 594 at 599:
+It has long been a fundamental rule that a court order, made by a court having jurisdiction to make it, stands and is binding and conclusive unless it is set aside on appeal or lawfully quashed. It is also well settled in the authorities that such an order may not be attacked collaterally—and a collateral attack may be described as an attack made in proceedings other than those whose specific object is the reversal, variation, or nullification of the order of judgment.
+[15] The disagreement between the parties is that the Respondent considers all three of the Appellant’s arguments, which I referred to earlier as Arguments 1, 2 and 3, as in substance being an attack against the validity of the Certificate in issue while the Appellant argues that while Argument 3 is such an attack, its Arguments 1 and 2 are independent arguments, notwithstanding that they may also form the basis for the Appellant’s third argument.
+[16] In support of its position, the Respondent had referred the Court to a series of cases which it argues supports its position that the Federal Court has exclusive jurisdiction over any attacks against the validity of a Certificate and that the Appellant may not look through the Certificate to bring arguments on the underlying assessments giving rise to the Certificate. The Respondent relies on Pozzebon v. R., 98 DTC 1940, Curylo v. Minister of National Revenue, 92 DTC 1250, both decisions of this Court and on the Federal Court’s decisions in Her Majesty The Queen v. Star Treck Holdings Ltd., 77 DTC 5311 (F.C.T.D.) and other authorities therein cited, in support of its position. In Pozzebon, the Appellant challenged the validity of the assessment against him as a director under section 227.1 of the Income Tax Act for unremitted source deductions, provisions similar to subsection 323(1) of the Excise Tax Act in issue here, on the basis that the Sheriff’s nulla bona Report was undated, a deficiency in process governed by the Federal Court Act. In Curylo, the argument was that the Certificate was issued in the wrong name and in Star Treck an error in the spelling of the name in the Certificate, and other documents. In all of these cases, there is no dispute that the Federal Court had jurisdiction. In Pozzebon, O’Connor, T.C. J., in paragraphs 39 and 40 of his reasons confirmed in effect that irregularites in a process governed by the Federal Court Act must be ruled upon by the Federal Court, relying on Curylo and Star Treck and stated in paragraph 39:
+39 … The Tax Court is a creation of statute and has no inherent jurisdiction. Therefore it would appear that the Federal Court is the proper forum to determine the merits of the Appellant’s argument that the Minister, and the Sheriff, did not correctly follow the procedural rules set out in the Federal Court Act.
+[17] I agree with the Appellant’s position that these authorities confirm the Federal Court’s jurisdiction to deal with challenges against the validity of the Certificates or other processes such as the Sheriff’s reports contemplated by the Rules of that Court and stated to be preconditions to a director’s liability under section 227.1 of the Income Tax Act or similar section 323 of the Act. I do not however agree that once a Certificate is issued under subsection 316(2) of the Act, the Appellant has no right to look through the certificate and challenge the underlying assessment. In fact, in Curylo, Beaubier J. made it clear in paragraph 27 that the director had the right to dispute the amount alleged owed by the corporation, and in turn by the director, when the director is assessed, in this Court. This right has been the subject of significant judicial interest over the past decade and I believe it is accepted law that such right does indeed exist as supported by Federal Court of Appeal decisions which I will discuss in further detail later.
+[18] I do not give any weight to the case of Canada (Minister of National Revenue – M.N.R.) v. Vu, 2004 FC 1783, [2004] G.S.T.C. 174 (F.C.), decided by Lafrenière Prothonotary of the Federal Court, and affirmed by the decision of O’Keefe J. in Canada (Minister of National Revenue – M.N.R.) v. Vu, 2005 FC 788, [2005] G.S.T.C. 113 (F.C.) which the Respondent relies upon to suggest all matters relating to the Certificate, including a challenge to the underlying assessment on the basis it was not properly mailed hence issued, are within the jurisdiction of that Court. It should be noted that Counsel for the Respondent suggested that as the case was considered by the Federal Court of Appeal, all three levels of the Federal Court process supports her position. In the Vu case, the Appellant initially brought three motions to the Court requesting the Certificate for GST debt be quashed, the lien against her property lifted and the reassessment against her should be quashed. Due to a bank sale of the property in question under power of sale proceedings prior to the hearing of the motions, the only issue left to be decided at the hearing was the last issue dealing with quashing the reassessment which the Court dismissed on the basis that it found the Notice of Assessment had been properly sent. In my view, the Federal Court did not have jurisdiction to quash a GST assessment in any event since the Act provides for an objection and appeal mechanism from assessments in sections 301 to 306 of that Act, which brings the issue within the jurisdiction of the Tax Court of Canada. Section 18.5 of the Federal Courts Act provides that the Federal Court has no jurisdiction over the assessment. Moreover, the Federal Court of Appeal did not deal with an appeal of the assessment issue, only an appeal as to costs in the matter and accordingly cannot be said to have supported the Federal Court’s jurisdiction in the matter of the underlying assessment.
+[19] I must also disagree with the Respondent that the arguments of the Appellant all in substance seek to ultimately challenge the Certificate for two reasons. Firstly, there is no dispute and it is trite law that this Court has jurisdiction to deal with the issues of the validity of the issuance of an assessment and the issue of assessments for statue-barred years, the issues raised in the Appellant’s Arguments 1 and 2. Subsection 323(4) of the Act specifically provides that where the Minister sends a notice of assessment to a director the provisions of sections 296 to 311 of the Act apply, which sections include the appeal process to this Court. These issues can be decided independently of the issue of the validity of the Certificate in Argument 3. Secondly, regardless of whether the Certificate is declared a nullity by the Federal Court or not, does not impact the right of this Court to vary or vacate the assessment of the Appellant in any appeal properly brought before this Court. While it is clear that pursuant to paragraph 323(2)(a) of the Act that the registration of a certificate with the Federal Court under section 316 and execution for that amount being returned unsatisfied in whole or in part are preconditions to assessing a director for liability of a corporations net tax or remittances, it is not a requirement to appealing any such assessment that the director must first challenge such certificate or results of such execution in Federal Court. Accordingly, not all roads lead to a challenge of the Certificate as the Respondent seems to suggest.
+[20] Having stated the above, it also follows that I do not agree with the Respondent’s position that only where an appellant challenges the quantum of the assessment does he have the right to challenge the debtor’s underlying assessment. In addition to the authorities that support the Appellant’s position in this regard which I will discuss in the context of the Merit Argument, I submit that it would be a ridiculous result if an appellant could only challenge quantum of assessment as opposed to validity of the entire assessment that would in effect render the quantum “zero”.
+[21] At this point I wish to make it clear that I agree with the Appellant that the Appellant would have had the option to challenge the validity of the Certificate in Federal Court if he so chose, and that the Federal Court would have been clearly within its jurisdiction to determine whether any preconditions to the issuance of a Certificate had been met, including in my view, whether the issuance of a valid notice of assessment contemplated by subsection 315(1) of the Act is such a precondition. However, I am not in any way suggesting that in making such choice the Appellant could assume both the Federal Court and this Court had overlapping jurisdiction to render a decision on both the validity of a certificate and changing the underlying assessment. Regrettably, a taxpayer, would have to look to both courts if for any reason it wished to do both.
+[22] As this Court has the sole jurisdiction to deal with the validity of the assessment and whether to vary or vacate an assessment, matters not decided by the Act of issuing and registering a Certificate under section 316 with the Federal Court, deemed to be a judgment of the Federal Court, then it follows that there can be no collateral attack on a decision of the Federal Court that it either did not or could not make for lack of jurisdiction.
+[23] The Leroux case itself, relied upon by the Respondent, recognized that a party can seek a different remedy in a different Court having jurisdiction over such different remedy. In paragraph 30, thereof the Court stated:
+30 … There is no collateral attack where, based on a review of the pleadings and the record, the Plaintiff is not seeking to challenge or undermine the decision but rather to claim damages in tort or contract.
+[24] The only collateral attack in this case would be the Appellant’s Argument 3 wherein he seeks to challenge in Tax Court the validity of the Certificate deemed a judgment of the Federal Court. The Appellant’s relief sought in Arguments 1 and 2 however standing on their own merits, do not constitute collateral attacks to the Certificate.
+Merit Argument
+[25] The Respondent as I said takes the position that the Appellant has in fact no chance of success. The Respondent relies on the case of Shoreline Penthouse of Barrie Ltd. v. Canada, 2007 TCC 609, [2007] G.S.T.C. 147, where V.A. Miller J., relying on the Supreme Court of Canada’s decision in Hunt v. Carey Canada Inc. [1990] 2 S.C.R. 959 and the Federal Court of Appeal’s decision in Main Rehabilitation Co. v. Canada, 2004 FCA 403, 2004 DTC 6762 (F.C.A.) reiterated the test for striking pleadings in paragraph 7 thereof:
+7. The test that is applied for striking out pleadings is whether assuming the facts stated in the pleadings are true, is it “plain and obvious” that the appeal cannot succeed? … Only if the appeal is certain to fail should the Notice of Appeal be struck. …
+[26] As the Appellant pointed out however, the Federal Court of Appeal’s decision in Shubenacadie Indian Band v. Canada (Minister of Fisheries and Oceans), 2002 FCA 255, [2002] F.C.J. No. 882 (QL), which also relied on the Hunt case above, makes it clear that the party seeking to strike must meet a very high onus as the threshold for chance of success is very low. In paragraph 6 of that decision, Sexton J.A. expressed the sentiment in the following way:
+6. Although the pleading is very broad and encompassed in general terms, these are not such defects as to permit the Statement of Claim to be struck out so long as a cause of action, however tenuous, can be gleaned from a perusal of the Statement of Claim. We agree with the Motions Judge that a party bringing a motion of this sort has a heavy burden and must show that it is beyond doubt that the case cannot possibly succeed at trial. Only if there is no chance of success, or to put it another way, if the action is certain to fail, can the Statement of Claim be struck out. …
+[27] The Respondent argued that since the Appellant has not pleaded it was not a director at any time, has in effect waived the due diligence defence contemplated by subsection 323(3) of the Act, had not pleaded the two-year time limit defence under subsection 323(5) of the Act which prevents an assessment being made against a director more than two years after he ceased being a director and had admitted the authenticity of the Certificate and Sheriff’s Levy Report being the two preconditions to assessing the director under paragraph 323(2)(a) of the Act that the Appellant has no grounds for appeal, assuming of course that the Court accepts that the Appellant may not go behind the Certificate and challenge the underlying assessment of the corporation in this case as argued. The Respondent in effect argued the Appellant’s only substantive argument was the validity of the Certificate which is beyond the jurisdiction of this Court.
+[28] I have already determined that I consider the Appellant’s Arguments 1 and 2 to be within the Court’s jurisdiction to hear. I do not agree with the Respondent’s position that the ability of the Appellant to challenge the debtor’s underlying assessment has been limited to cases where a passive director was involved or where only the quantum of the assessment is being challenged.
+[29] In support of the Respondent’s quantum argument it relied on the dictum of V.A. Miller J. in the Shoreline Penthouse case above who struck out the pleadings for the reasons stated in paragraph 8 thereof:
+8. The Notice of Appeal does not challenge the assessments. The quantum and calculation of the tax is never questioned. …
+[30] The appellant in that case relied on equity maxims as the basis for reducing the assessment and V.A. Miller J., relying on Bowie J.’s decision in Hamilton v. Canada, 2006 TCC 603, [2007] 1 C.T.C 2504, agreed this Court had no jurisdiction in equity and that the Court’s jurisdiction is limited to applying the provisions of the Act to the facts of the case and determining the correctness of the assessment. I do not view the Shoreline Penthouse case as standing for the proposition that the court’s jurisdiction must somehow be limited to only the quantum and calculation of the tax in any strict sense, but rather that there must be a challenge to the assessment in some form and not just a reliance on equity maxims. In any event, as I said earlier, any argument that may effectively lead to reducing the Appellant’s assessment to a “zero” balance is in my view a quantum argument in the simplest sense of the word. As I stated earlier, it would be ridiculous to suggest one can argue to reduce an assessment but not invalidate it altogether.
+[31] As for the Respondent’s suggestion that existing authorities limit the challenge of underlying assessments by directors to those only dealing with passive directors, I note that in a recent decision of the Federal Court of Appeal in Abrametz v. Canada, 2009 FCA 70, 2009 G.S.T.C 43 (F.C.A.), the Federal Court of Appeal allowed a sole director to challenge an underlying assessment. I also note that counsel for the Respondent admitted the law was not settled on this issue, which is, in and of itself, reason enough to give the Appellant opportunity to further its appeal having regard to the low threshold principle for success earlier enunciated by the Appellate courts in the Hunt and Shubenacadie cases above referred to, although I am of the view that the right of a director to challenge an underlying assessment is, in most cases, the prevailing view of the current law.
+[32] In summary, I do not agree with the Respondent that the pleadings in the Notice of Appeal, do not disclose grounds for appeal that do not have any chance of succeeding, other than Argument 3 found in paragraph 11(c) of the Notice of Appeal requesting the Certificate be declared a nullity since I agree that any such relief is within the jurisdiction of the Federal Court and that the doctrine of collateral attack serves to prevent the Appellant from seeking that remedy in this Court, although as I said, it is not a remedy the Appellant needs to achieve as a condition to succeeding in his other grounds for appeal. This Court however has jurisdiction to entertain the grounds for appeal set out in Arguments 1 and 2 found in paragraphs 11(a) and (b) of the Notice of Appeal on their own merit.
+[33] Accordingly, the motion is granted in part and in accordance with the power of this Court to strike all or any part of the pleadings, with or without leave, on grounds of abuse of process pursuant to Rule 53(c) above set out, only the Appellant’s grounds for appeal in paragraph 11(c) of the Notice of Appeal is struck, together with that part of paragraph 16 of the Notice of Appeal found in the first sentence thereof following the words “S.298(1)” which reads: “and therefore any Certificate issued pursuant to S. 316 and filed in the Federal Court of Canada pursuant to S. 323(2)(a) is a nullity, and the precondition for director’s liability found in S. 323(2)(a) remains unfulfilled.” Such provisions of course are struck out without prejudice to any rights the Appellant may have to seek such relief from the Federal Court on such argument if he so chooses.
+[34] Costs of this motion shall be in the cause.
+Signed at Ottawa, Canada, this 19th day of November 2010.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION: 2010 TCC 594
+COURT FILE NO.: 2008-3820(GST)G
+STYLE OF CAUSE: SENG CHIN SIOW and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 9, 2010
+REASONS FOR ORDER BY: The Honourable Justice F.J. Pizzitelli
+DATE OF ORDER: November 19, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Christine Ashton
+Counsel for the Respondent:
+Sharon Lee
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Christine Ashton
+Firm: Wilson Vukelich LLP
+Markham, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Rule 53(a) and (b) are not applicable.
+[2] Paragraph 323(2)(b) and (c) are not applicable.

@@ -1,0 +1,140 @@
+---
+title: "McNeely c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28858/index.do"
+last_modified: "2008-09-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 450"
+citation2: ""
+neutral_citation: "2008 CCI 450"
+decision_date: "2008-09-03"
+language: "fr"
+item_id: "28858"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1335
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:26:15.388000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "42b436aabd5f3a260ae125322d8a0b73e432752fba7137be3aa2c805c941515b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McNeely c. La Reine
+
+- Citation: 2008 CCI 450
+- Decision date: 2008-09-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1335, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McNeely c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-03
+Référence neutre
+2008 CCI 450
+Numéro de dossier
+2006-3758(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI450
+Date : 20080903
+Dossier : 2006-3758(IT)I
+ENTRE :
+KELLY LYNN McNEELY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Représentant de l’appelante : Ray Linseman
+Avocates de l’intimée : Mes Suzanie Chua et Geneviève Léveillé
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Kingston (Ontario), le 4 juillet 2008.)
+Le juge Miller
+[1] Le présent appel a été interjeté par Mme McNeely sous le régime de la procédure informelle à l’égard de l’année d’imposition 2004. Le ministre du Revenu national a inclus dans son revenu la somme de 2 400 $ qu’elle avait reçue à titre de pension alimentaire. Mme McNeely prétend premièrement que ce montant n’était pas une pension alimentaire selon les règles transitoires régissant le passage au nouveau régime applicable aux pensions alimentaires depuis 1997; elle fait deuxièmement valoir que ce montant n’était pas une pension alimentaire dans la mesure où elle ne pouvait pas l’utiliser à sa discrétion; et elle soutient troisièmement que les mesures prises par le Bureau des obligations familiales constituaient une ordonnance rendue après 1997 et, par conséquent, qu’elles établissaient une date d’exécution ayant pour effet de déclencher la mise en œuvre du nouveau régime.
+[2] Les faits sont fort simples. Mme McNeely et M. Carl Peterson ont conclu un accord de séparation en octobre 1992. Les parties pertinentes de cet accord sont ainsi rédigées :
+[traduction]
+10(1) À compter de la date du présent accord, le mari versera chaque mois à la femme un montant de 200 $ afin de subvenir aux besoins de l’enfant, et ce, jusqu’à […]
+Certaines conditions s’y trouvent attachées :
+[traduction]
+10(4) Il est entendu que le mari accepte d’effectuer le paiement minimum de 200 $ par mois pendant la période au cours de laquelle il recevra des prestations d’assurance‑emploi et que le montant de 200 $ par mois sera révisé à la date où il cessera de les recevoir, ledit montant pouvant être augmenté ou diminué en fonction de ce que sera alors la situation financière.
+[3] Entre 1993 et 1997, M. Peterson a unilatéralement réduit le montant des paiements qu’il effectuait en les faisant passer de 200 $ à 140 $ par mois; il a ensuite complètement mis fin aux versements. Mme McNeely a agi de façon sensée en cherchant à faire respecter son droit de recevoir une pension destinée à subvenir aux besoins de sa fille et en passant par le Bureau des obligations familiales du procureur général de l’Ontario. Sa démarche s’est avérée fructueuse puisque M. Peterson lui a payé neuf mois d’arriérés pour 1998 et lui a par la suite fait parvenir 200 $ par mois par l’intermédiaire du Bureau des obligations familiales. Le Bureau des obligations familiales a pris acte de cette entente dans une lettre datée du 18 décembre 1998, dans laquelle on lit notamment :
+[traduction]
+Par la présente, nous vous confirmons que l’accord daté du 29 octobre 1992 est maintenant déposé auprès du bureau du directeur du Bureau des obligations familiales de la manière prévue par la Loi de 1996 sur les obligations familiales et l’exécution des arriérés d’aliments.
+Suite à ce dépôt et dès la date d’envoi de la présente lettre, le bureau du directeur veillera au respect et à l’exécution des dispositions de l’accord relatives à la pension alimentaire.
+[4] De plus, dans un affidavit récent souscrit par Mme Bevinda Rego, représentante du Bureau des responsabilités familiales, on peut lire ce qui suit :
+[traduction]
+2 D’après les dossiers du directeur, depuis son dépôt auprès du directeur aux fins d’exécution, aucun changement n’a été apporté par la cour ou par suite d’une entente entre les parties à l’accord/l’ordonnance de la cour en date du 29 octobre 1992.
+2a […]
+3 L’ordonnance/l’accord que la cour doit faire respecter est actuellement déposé pour exécution auprès du bureau du directeur du Bureau des obligations familiales.
+[5] Il s’agit de savoir si la somme de 2 400 $ que Mme McNeely a reçue en 2004 est imposable en vertu de l’alinéa 56(1)b) de la Loi de l’impôt sur le revenu[1]. Selon cette disposition, est à inclure dans le calcul du revenu d’un contribuable :
+56(1)a) […]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l’année d’une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+Je ne lirai pas l’élément C dans la mesure où il ne s’applique pas.
+[6] M. Linseman, le représentant de Mme McNeely, a présenté quelques arguments fort intéressants relativement aux dispositions en cause (l’alinéa 56(1)b) et l’article 56.1). Je peux dire qu’il n’est pas le seul à se perdre quelque peu dans les méandres de la formulation, et je voudrais saluer ses efforts visant à aborder la question sous des angles nouveaux. Aussi obscure et complexe que la loi puisse paraître, la façon dont elle a été appliquée et celle dont elle a été commentée dans la jurisprudence nous ont éclairés sur la manière dont il fallait interpréter ses dispositions, qui est la suivante.
+[7] Dans les cas où il existe un accord de séparation écrit antérieur à 1997 prévoyant le versement d’un certain montant à titre de pension alimentaire pour enfants, celui‑ci tombe sous le coup de l’ancien régime et il est imposable entre les mains du bénéficiaire, à moins qu’on ne se trouve dans l’une des quatre situations que je vais énumérer. Premièrement, le payeur et le bénéficiaire, en l’espèce M. Peterson et Mme McNeely, auraient pu choisir d’être assujettis au nouveau régime. Mme McNeely a témoigné que M. Peterson n’avait pas donné son accord à cette fin. On n’a pas effectué ce choix. La première possibilité ne s’applique pas ici.
+[8] Deuxièmement, des modifications auraient pu être apportées à l’accord après 1997 afin de changer le montant de la pension. La preuve a révélé qu’aucune modification n’a été apportée à l’accord en vue de changer le montant de la pension. Les parties ne se sont entendues sur aucune modification à l’accord. De plus, la somme versée par M. Peterson continue de se chiffrer à 200 $ par mois. Son obligation s’est toujours chiffrée à 200 $ par mois. Il ne s’est pas toujours acquitté de cette obligation, mais il n’en reste pas moins qu’il était tenu de payer ce même montant avant et après 1997. Cela se trouve-t-il affecté par la formulation de l’accord, qui stipule que le montant devra être révisé quand M. Peterson cessera de recevoir des prestations d’assurance‑emploi? Non. L’obligation de réviser l’accord n’annule pas l’obligation de payer 200 $ par mois.
+[9] La troisième possibilité est la suivante : un nouvel accord ou une nouvelle ordonnance aurait pu être établi. Bien que le Bureau des obligations familiales ait pris des mesures pour aider Mme McNeely à toucher ses versements mensuels, il n’a rendu aucune ordonnance. Cela apparaissait clairement dans les lettres provenant du Bureau des obligations familiales et, plus particulièrement, dans l’affidavit de Mme Rego de juillet 2007. On exécutait les dispositions de l’accord conclu en octobre 1992. Il n’y a pas non plus eu de nouvel accord écrit. La preuve a clairement démontré que M. Peterson effectue les versements mensuels de 200 $ du fait de son obligation aux termes de l’accord conclu en octobre 1992.
+[10] Il s’agit d’une situation différente de celle que le juge Mogan a dû examiner dans l’affaire Butters v. The Queen[2]. Dans cette affaire, un accord de paternité avait été déposé auprès de la Cour de justice de l’Ontario, et il existait une disposition législative bien précise selon laquelle un tel accord était réputé être une ordonnance. Mme McNeely n’a déposé aucun accord auprès d’une cour de justice. Aucune ordonnance n’est présumée avoir été rendue. Mme McNeely s’en est simplement remise au Bureau des obligations familiales afin que celui-ci se charge de recouvrir les créances en son nom. De plus, même si j’admettais que les mesures prises par le Bureau des obligations familiales constituaient une ordonnance, ce qui n’est pas le cas, il n’en reste pas moins qu’elles n’ont pas eu pour effet de modifier le montant payable aux termes de l’accord conclu en 1992. Je suis d’avis que la décision Butters n’aide pas du tout Mme McNeely en l’espèce.
+[11] La quatrième situation où le déclenchement de l’application du nouveau régime est possible se présente lorsque l’accord lui‑même prévoit une date d’exécution. Ce n’est pas le cas en l’espèce. Le seul accord dont il est ici question est celui qui a été conclu en octobre 1992, lequel ne fait aucunement référence à une date d’exécution, ce qui aurait par ailleurs été impossible.
+[12] Ainsi, la pension alimentaire pour enfants que Mme McNeely a reçue tombe clairement sous le coup de l’ancien régime, et elle est par conséquent imposable.
+[13] M. Linseman a avancé quelques autres arguments sur lesquels je voudrais me pencher. D’abord, il a fait valoir que les dispositions transitoires avaient pour effet d’exclure de la définition de « pension alimentaire » le montant ici en cause. Je le répète, la loi est compliquée, mais je suis d’avis que M. Linseman n’a pas correctement interprété les règles transitoires. Il se peut que dans le nouveau régime la définition exclue de telles pensions alimentaires, mais l’ancien régime existe encore et s’applique aux montants reçus par Mme McNeely, lesquels sont donc imposables.
+[14] M. Linseman a ensuite soutenu que Mme McNeely ne pouvait pas utiliser les paiements à sa discrétion et que par conséquent on ne pouvait considérer ceux-ci, par définition, comme une pension alimentaire. Le fait qu’on doive dépenser le montant de la pension alimentaire pour enfants afin de subvenir aux besoins de l’enfant ne constitue pas une restriction ou une entrave à la discrétion visée par la loi. Si c’était le cas, cela aurait pour effet de priver de sens la définition même de « pension alimentaire pour enfants ». Il n’existerait pas de pensions alimentaires pour enfants. Mme McNeely pouvait utiliser l’argent reçu à sa discrétion, dans la mesure où il lui servait à subvenir aux besoins de son enfant, et je suis convaincu que c’est ce qu’elle a fait.
+[15] Enfin, M. Linseman a prétendu que la définition de « pension alimentaire pour enfants » ne faisait pas expressément mention de paiements destinés à l’enfant, mais évoquait plutôt des montants qui ne sont pas uniquement destinés à l’époux. Aussi imparfaite que cette définition puisse paraître, il est évident qu’un montant destiné uniquement à l’enfant n’est pas un montant destiné uniquement à subvenir aux besoins de l’époux. Un tel montant est clairement visé par la définition de « pension alimentaire pour enfants ».
+[16] La présente cause a été bien exposée compte tenu du fait qu’elle touche à un domaine du droit qui donne du fil à retordre aux plus éminents fiscalistes. Toutefois, au‑delà du fait que la loi soit compliquée et que son libellé soit tortueux, ses principes restent simples. Un nouveau régime, qui s’applique aux années postérieures à 1997, fait en sorte que les montants de pension alimentaire pour enfants ne sont pas imposables entre les mains des bénéficiaires. Avant 1997, ces montants étaient imposables, et il existe des dispositions qui permettent à des personnes comme Mme McNeely, qui se sont trouvées prises entre les deux régimes, de se prévaloir du nouveau régime. Malheureusement, Mme McNeely n’a pas été en mesure de démontrer qu’elle pouvait se prévaloir de ces dispositions, et je dois par conséquent rejeter son appel.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2008.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 23e jour de septembre 2008.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2008CCI450
+N0 DU DOSSIER DE LA COUR : 2006-3758(IT)I
+INTITULÉ : Kelly Lynn McNeely et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Kingston (Ontario)
+DATE DE L’AUDIENCE : Le 4 juillet 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 10 juillet 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Ray Linseman
+Avocates de l’intimée :
+Me Suzanie Chua et
+Me Geneviève Léveillé
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée: John H. Sims, c.r.
+Sous‑procureur général du Canada Ottawa, Canada
+[1] L.R.C. (1985), ch. 1 (5e suppl.), modifiée.
+[2] 2008 DTC 3401.

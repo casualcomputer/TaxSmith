@@ -1,0 +1,187 @@
+Title: Arnold Wilk Trucking Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29174/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-191-29174-arnold-wilk-trucking-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-04-09
+
+# Arnold Wilk Trucking Ltd. c. M.R.N.
+
+- Citation: 2009 CCI 191
+- Decision date: 2009-04-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6734, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arnold Wilk Trucking Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-09
+Référence neutre
+2009 CCI 191
+Numéro de dossier
+2007-4751(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-4751(EI)
+ENTRE :
+ARNOLD WILK TRUCKING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Dale Wilk, 2007‑4753(EI), et de Darren Wilk, 2007‑4763(EI), le 28 novembre 2008, à Regina (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocat de l’appelante :
+Me Kerry R. Chow
+Avocate de l’intimé :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 11e jour d’août 2009.
+Marie-Christine Gervais, traductrice
+Dossier : 2007-4753(EI)
+ENTRE :
+DALE WILK,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Arnold Wilk Trucking Ltd., 2007‑4751(EI), et de Darren Wilk, 2007‑4763(EI), le 28 novembre 2008, à Regina (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocat de l’appelant :
+Me Kerry R. Chow
+Avocate de l’intimé :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce11e jour d’août 2009.
+Marie-Christine Gervais, traductrice
+Dossier : 2007-4763(EI)
+ENTRE :
+DARREN WILK,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Arnold Wilk Trucking Ltd., 2007‑4751(EI), et de Dale Wilk, 2007‑4753(EI), le 28 novembre 2008, à Regina (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocat de l’appelant :
+Me Kerry R. Chow
+Avocate de l’intimé :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 11e jour d’août 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 191
+Date : 20090409
+Dossier : 2007-4751(EI)
+ENTRE :
+ARNOLD WILK TRUCKING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2007-4753(EI)
+ET ENTRE :
+DALE WILK,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2007-4763(EI)
+ET ENTRE :
+DARREN WILK,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Les appelants, Dale Wilk et Darren Wilk, appellent de la décision du ministre du Revenu national (le « ministre ») selon laquelle leur emploi auprès du troisième appelant, Arnold Wilk Trucking Ltd.[1], n’était pas visé par la définition de l’expression « emploi assurable » au sens des alinéas 5(2)i) et 5(3)b) de la Loi sur l’assurance‑emploi (la « LAE »).
+[2] Dale et Darren sont les fils d’Arnold Wilk, l’actionnaire majoritaire d’Arnold Wilk Trucking Ltd., une société établie à Moose Jaw (Saskatchewan) qui transporte des granulats utilisés dans la construction de routes partout dans la province. Les parties ne contestent pas que Dale[2] et Darren[3] étaient des employés d’Arnold Wilk Trucking Ltd. ou qu’ils avaient un lien de dépendance avec Arnold Wilk Trucking Ltd. La seule question en litige est de savoir si le ministre a correctement exercé le pouvoir discrétionnaire prévu à l’alinéa 5(3)b) de la LAE :
+(3) Personnes liées – Pour l’application de l’alinéa (2)i) :
+[…]
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[3] Dale, qui possède un permis de classe 1-A, travaillait principalement comme chauffeur de camion, mais s’occupait également de gérer les chantiers et de faire certains travaux de mécanique pendant la saison morte. Darren est apprenti mécanicien et il accomplissait son travail à ce titre dans l’atelier de la société. Il exerçait également des fonctions de gestion et d’administration. Pendant les périodes en cause, il y avait environ 12 employés qui n’avaient pas de lien de dépendance avec la société, et l’un d’entre eux était compagnon mécanicien; les autres étaient des chauffeurs de camion. Étant donné le caractère saisonnier de leur travail, chaque année, tous les employés qui n’avaient pas de lien de dépendance avec la société, à l’exception du compagnon mécanicien, étaient mis à pied de la période de gel à celle de dégel.
+[4] Dale et Darren ont également été mis à pied et, à un certain point, ont présenté une demande de prestations d’assurance‑emploi. Ressources humaines et Développement des compétences Canada a demandé à l’Agence du revenu du Canada (l’« ARC ») de rendre une décision concernant le caractère assurable de leur emploi.
+[5] C’est ainsi que Melodee Wells (ci‑après « Mme Wells »), une agente de participation de l’ARC, s’est retrouvée avec les dossiers des appelants. Mme Wells a été appelée à témoigner par l’intimé; elle était un témoin digne de foi et elle a témoigné franchement. Pour prendre sa décision, elle a examiné les notes prises par l’enquêteur initial qui lui avait remis les dossiers concernant les Wilk. Elle a également discuté au téléphone avec Arnold, Dale et Darren Wilk parce que, à son avis (et du mien aussi), il vaut mieux faire une entrevue que de faire remplir un questionnaire standard, parce que cela permet d’obtenir des réponses plus détaillées. Après avoir mentionné les critères établis par la loi qu’il fallait appliquer de façon générale pour rendre une telle décision, Mme Wells a expliqué les critères précis sur lesquels elle s’était fondée pour se prononcer à l’égard de l’emploi de Dale et de Darren : leur rémunération, notamment la réception de primes; les prêts et les avances; et les circonstances de leur mise à pied.
+[6] Avant d’examiner la preuve produite à l’audience à l’égard de ces aspects, il est utile de rappeler que le rôle de la Cour canadienne de l’impôt est d’examiner la décision du ministre :
+15 Le rôle du juge d’appel n’est donc pas simplement de se demander si le ministre était fondé de conclure comme il l’a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l’interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s’enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre, sous l’éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l’égard de l’appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux[4].
+[7] Il ne faut également pas oublier que c’est aux appelants qu’il incombe de réfuter les hypothèses du ministre. Arnold Wilk et les appelants Dale et Darren ont témoigné à l’audience; j’examinerai leurs témoignages, ainsi que l’effet de ceux‑ci, en fonction des critères sur lesquels Mme Wells s’est fondée afin de décider si, compte tenu du nouvel éclairage jeté par l’audience, la conclusion tirée par le ministre semble toujours raisonnable.
+Rémunération
+[8] L’avocat de l’appelante a allégué que le fait que les appelants Dale et Darren étaient payés selon un salaire mensuel fixe, peu importe le nombre réel d’heures travaillées, alors que les employés sans lien de dépendance étaient payés selon un salaire horaire en fonction des heures de travail consignées, ne permet pas de conclure que les appelants étaient traités différemment. Même si, en théorie, cela peut être vrai, la preuve présentée par les appelants n’a pas expliqué clairement pourquoi Dale et Darren étaient payés différemment des autres employés. Je ne vois pas non plus quel est le lien entre le fait que les employés sans lien de dépendance étaient payés selon des taux horaires différents en fonction de leur expérience et la raison pour laquelle les appelants recevaient un salaire fixe, peu importe le nombre d’heures travaillées.
+[9] Il me semble que l’explication se trouve dans le lien que Dale et Darren ont avec l’entreprise familiale. J’accepte le témoignage des appelants à l’effet que Dale et Darren travaillaient souvent plus de 40 heures par semaine. Ils m’ont donné l’impression d’être des personnes travaillantes qui se consacraient pleinement à l’entreprise familiale et (dans le cas où ils s’absentaient du travail à des fins de loisirs ou à d’autres fins) sur qui on pouvait compter pour s’assurer que les travaux non terminés soient quand même effectués. C’est la raison pour laquelle il n’était pas nécessaire qu’ils consignent leurs heures de travail comme les employés sans lien de dépendance le faisaient. Rien de tout cela n’est mauvais, bien au contraire. Toutefois, cela tend à montrer qu’il était raisonnable pour le ministre de conclure que le salaire de Dale et de Darren était payé différemment de celui des autres employés parce qu’ils avaient un lien de dépendance avec l’employeur.
+[10] Pour ce qui est des primes, le ministre a tenu pour acquis, et les appelants ont admis, qu’en 2004, Dale et Darren avaient reçu des primes de 5 525 $[5] et de 1 700 $[6], respectivement. Arnold Wilk a témoigné que les employés avec qui il n’avait pas de lien de dépendance avaient aussi reçu des primes (quoique de façon ponctuelle) dans le passé et que, en 2008, un système d’attribution de primes plus formel avait été établi. Comme les renseignements fournis au sujet des primes ne concernent pas les périodes en cause, je ne vois pas comment ils peuvent m’aider à trancher la question qui se pose.
+Prêts et avances
+[11] Mme Wells a mentionné dans son témoignage qu’elle avait tenu compte du fait que Arnold Wilk Trucking Ltd. avait prêté une somme de 8 000 $, sans intérêt, à Dale pour l’achat d’un camion, ainsi que d’autres sommes à Darren pour le dépanner en attendant que la question de son admissibilité aux prestations d’assurance‑emploi soit réglée. Même si Dale effectuait des paiements mensuels en vue de rembourser le prêt pour le camion, le remboursement du prêt avait été suspendu pendant la période où il avait été mis à pied. Pour ce qui est de Darren, Arnold Wilk a témoigné qu’il s’attendait à ce que Darren lui rembourse la totalité du prêt s’il obtenait gain de cause dans son appel. Dans le cas contraire, le prêt serait déduit de ses revenus ultérieurs. Il a également dit que la société avait à quelques reprises consenti des prêts à des employés avec qui elle n’avait pas de lien de dépendance; ces prêts étaient souvent remboursés au moyen de déductions salariales. Dans au moins un cas, le prêt n’avait jamais été remboursé. Mme Wells a interprété ces « prêts » comme des avances sur salaire. Cela ne me semble pas déraisonnable. À l’audience, aucun élément de preuve documentaire n’a été présenté pour corroborer les prêts consentis aux employés sans lien de dépendance. Les appelants ne m’ont pas non plus convaincue qu’il y avait lieu d’infirmer la conclusion du ministre selon laquelle, n’eût été le lien de parenté, la société n’aurait vraisemblablement pas prêté de telles sommes à Dale et à Darren et à des conditions si généreuses.
+Circonstances de la mise à pied
+[12] Mme Wells a témoigné qu’elle avait tenu compte de la nature saisonnière du travail et du fait que les employés sans lien de dépendance n’avaient d’autre choix que d’être mis à pied dès que les conditions météorologiques les empêchaient de poursuivre les travaux routiers. Selon les renseignements qu’elle avait à l’égard de Dale et de Darren, Darren préférait être mis à pied et se faire remplacer par Dale pour ce qui est de l’exécution de ses fonctions dans l’atelier pendant la saison morte. Elle était également d’avis que, vu que c’était Darren qui possédait de l’expérience dans l’atelier et en matière de gestion et que son salaire était moins élevé, n’eût été du lien de parenté, la société aurait été plus susceptible de garder Darren à son emploi et de mettre à pied Dale.
+[13] L’avocat de l’appelante a allégué qu’il s’agissait d’une décision de gestion et qu’il n’appartenait pas au ministre de remettre en question la décision prise par la société. Il a également prétendu que Mme Wells aurait dû tenir compte du fait que Dale, en tant que camionneur ayant de l’expérience en matière de gestion de chantier et s’y connaissant un peu en mécanique, pouvait remplir une double fonction et était donc le mieux placé pour faire le genre de travail effectué pendant la saison morte. Encore une fois, il ne s’agit pas d’un argument déraisonnable, mais peu d’éléments de preuve ont été présentés à l’appui. Darren a nié qu’il préférait être mis à pied. Dale a nié qu’il « remplaçait » son frère. Toutefois, ni eux ni leur père n’ont pu expliquer pourquoi un tel plan de mise à pied avait été suivi. Ils ont simplement dit que Dale pouvait conduire les camions qui étaient certifiés pendant la saison morte. Le ministre était au courant de ces faits lorsqu’il a rendu sa décision. Dans ces circonstances, rien ne justifie que je modifie la conclusion du ministre.
+[14] Comme Mme Wells l’a mentionné lors de l’audience, lorsqu’il exerce le pouvoir discrétionnaire que lui confère l’alinéa 5(3)b), le ministre tient compte de l’effet cumulatif des faits recueillis à l’égard des critères établis par la loi. Pour les motifs susmentionnés, les appelants ne m’ont pas convaincue qu’il n’était pas raisonnable que le ministre conclue que l’emploi des appelants, Dale Wilk et Darren Wilk, était exclu de la notion d’emploi assurable. Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 11e jour d’août 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 191
+NOS DES DOSSIERS DE LA COUR : 2007-4751(EI); 2007-4753(EI);
+2007-4763(EI)
+INTITULÉ : ARNOLD WILK TRUCKING LTD. ET LE MINISTRE DU REVENU NATIONAL ET ENTRE DALE WILK ET LE MINISTRE DU REVENU NATIONAL ET ENTRE DARREN WILK ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Le 28 novembre 2008
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 9 avril 2009
+COMPARUTIONS :
+Avocat des appelants :
+Me Kerry R. Chow
+Avocate de l’intimé :
+Me Anne Jinnouchi
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Kerry R. Chow
+Cabinet : Chow & Co.
+Moose Jaw (Saskatchewan)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les appels ont été entendus sur preuve commune. Lors de l’audience, l’intimé a reçu l’autorisation de modifier l’alinéa 6k) de la réponse à l’avis d’appel à l’égard de Dale Wilk afin de montrer que son salaire mensuel était de 5 400 $, ainsi que l’alinéa 6k) de la réponse à l’avis d’appel à l’égard de Darren Wilk afin de montrer que son salaire mensuel était de 3 600 $.
+[2] Pour la période allant du 1er juin 2005 au 31 janvier 2006.
+[3] Pour les périodes allant du 15 mai au 30 novembre 2005 et du 1er juin au 15 novembre 2006.
+[4] Pérusse c. Canada (Ministre du Revenu national – M.R.N.), [2000] A.C.F. no 310 (Q.L.) (C.A.F.); Légaré v. Minister of National Revenue, 246 N.R. 176 (C.A.F.).
+[5] Pièce R‑2.
+[6] Pièce R‑1.

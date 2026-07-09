@@ -1,0 +1,119 @@
+Title: Alof v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29439/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-494-29439-alof-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-01
+
+# Alof v. The Queen
+
+- Citation: 2009 TCC 494
+- Decision date: 2009-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6930, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alof v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-01
+Neutral citation
+2009 TCC 494
+File numbers
+2008-110(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-110(GST)I
+BETWEEN:
+BASHAR ALOF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 22, 2009 at Halifax, Nova Scotia
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jill L. Chisholm
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act by notice dated August 2, 2006 is dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Canada this 1st day of October 2009.
+“J. M. Woods”
+Woods J.
+Citation: 2009 TCC 494
+Date: 20091001
+Docket: 2008-110(GST)I
+BETWEEN:
+BASHAR ALOF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Bashar Alof, has appealed an assessment made under the Excise Tax Act relating to the harmonized sales tax (HST) for the period from January 1, 2001 to December 31, 2001. The issue concerns the amount of net tax for the period in relation to the operation of a pizza restaurant.
+[2] Mr. Alof filed an HST return for the period which reported the following: (1) sales of $82,000, (2) HST of $3,500, and (3) input tax credits (ITCs) of $10,295.16. He also claimed a refund of $6,795.16, which represents the difference between the ITCs and the HST.
+[3] In the assessment at issue, the Minister of National Revenue disallowed the refund claim by reducing allowable ITCs by $6,795.16. The explanation given in the notice of confirmation was that there was insufficient evidence to support the ITCs.
+[4] The appellant has appealed this assessment for reasons stated in the notice of appeal as follows:
+The sales reported was more than double of the actual sales. Supporting records were distroid in the fire that completely distroid both of my business & home.
+[5] It is relatively clear from the above that the appellant is putting into issue two separate issues – sales and ITCs. Each will be considered below.
+Discussion
+[6] At the commencement of the hearing, I raised an issue concerning the burden of proof because the reply filed by the Minister does not mention the sales issue. As well, the reply does not mention that any assumptions were made by the Minister in relation to sales or taxable supplies.
+[7] Notwithstanding the reply, the Minister in assessing likely did assume that the appellant’s taxable supplies were sufficient to produce HST of $3,500. Nevertheless, the jurisprudence is clear that the Minister will have the initial burden of proof on facts for which no assumptions are stated in the reply. The recent decision of Webb J. in LeCaine v. The Queen, 2009 TCC 382, provides a very good summary of the case law on this point.
+[8] For the reasons below, I am satisfied that the respondent has satisfied this initial burden on the issue of sales, at least to the point where the burden should shift to the appellant.
+[9] I would first note that HST of $3,500 implies that the taxable supplies are approximately $23,000. This is based on the testimony of the auditor that the relevant HST rate is 15 percent.
+[10] The question becomes this. Is there sufficient evidence before me that the appellant likely had taxable supplies of at least $23,000 in the 2001 reporting period?
+[11] The auditor testified that the HST reported by the appellant for the three prior years was $11,380, $11,072 and $8,370. These annual amounts of HST translate to taxable supplies far in excess of $23,000. Further, the sales reported by the appellant in the HST return were $82,000.
+[12] I accept from the evidence that the pizza restaurant did not operate throughout 2001 because of a fire. There is evidence that negotiations were conducted with an insurer as to an appropriate amount of business interruption insurance.
+[13] The evidence is less clear on when the fire occurred but I find that it likely took place on July 24, 2001.
+[14] The appellant testified that the pizza business did not reopen after the fire. Although the appellant’s testimony was not convincing in many respects, I accept that there were no taxable supplies from July 24, 2001 to the end of the year.
+[15] Based on all these facts, a reasonable inference could be drawn that the taxable supplies were likely at least $23,000 in 2001, and that the HST collectible was at least $3,500.
+[16] This is sufficient in my view to impose a burden on the appellant to provide some reliable evidence that his taxable supplies were less than $23,000.
+[17] As mentioned above, the sales that were reported by the appellant in the HST return were $82,000. This is far in excess of $23,000.
+[18] The appellant suggests that some of his sales were of products that were not taxable, such as uncooked pizzas. I was not persuaded by this explanation. The appellant’s testimony regarding the uncooked pizza business was far too vague to be convincing. In addition, although a photograph of the uncooked pizzas was entered into evidence, there was insufficient evidence as to when the photograph was taken.
+[19] In the result, I conclude that it is not appropriate to make an adjustment to net tax for sales or HST collectible.
+[20] I now turn to the ITC issue.
+[21] In order for the disputed ITCs to be recognized in computing net tax, it must be established that the appellant incurred sufficient qualifying expenses to generate the ITCs. In addition, it must be established that the appellant complied with the documentation requirements in s. 169(4) of the Act.
+[22] In making the assessment, the Minister assumed the following:
+j) the Appellant’s input tax credits for the Period Under Appeal could not be determined from his books and records.
+[23] This assumption could be better worded, but it is clear that the assessment was on the basis that the ITCs were overstated by $6,795.16. As explained in the auditor’s testimony, the amount disallowed was arbitrary, and the appellant was given the benefit of the doubt with respect to the balance of the ITCs.
+[24] The appellant submitted at the hearing that he did not understand that documentation for the ITCs was an issue. I was not satisfied with this explanation. I note that the appellant’s own notice of appeal had included the notice of confirmation which mentioned the lack of supporting evidence as the reason for disallowing the ITCs. Based on my observation of the appellant at the hearing, he appeared to be quite an intelligent person. I conclude that he understood the issue.
+[25] At the hearing, the appellant testified that he had lost all relevant documentation in the fire.
+[26] Even if this statement is true, it does not assist the appellant. At the very least, the appellant should have provided detailed and cogent testimony regarding the expenses for which the ITC claims were made. The appellant’s evidence as a whole was not forthright, it was vague, and it was far from being detailed enough.
+[27] In addition, the appellant testified that he went back to some of the suppliers and had obtained duplicate documentation. The appellant failed to produce this evidence at the hearing.
+[28] In light of this conclusion, it is not necessary that I consider the documentation requirements of s. 169(4).
+[29] The appeal will be dismissed, without costs.
+Signed at Ottawa, Canada this 1st day of October 2009.
+“J. M. Woods”
+Woods J.
+CITATION: 2009 TCC 494
+COURT FILE NO.: 2008-110(GST)I
+STYLE OF CAUSE: BASHAR ALOF and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: September 22, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: October 1, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jill L. Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,173 @@
+---
+title: "Pay Linx Financial Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30303/index.do"
+last_modified: "2011-04-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 203"
+citation2: ""
+neutral_citation: "2011 TCC 203"
+decision_date: "2011-04-07"
+language: "en"
+item_id: "30303"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8071
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:41:57.896000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3cc0c41e198822551d4c9e489a2d6639dbca90f1b69090718bcf6b903b9c6d01"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pay Linx Financial Corporation v. The Queen
+
+- Citation: 2011 TCC 203
+- Decision date: 2011-04-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8071, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pay Linx Financial Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-07
+Neutral citation
+2011 TCC 203
+File numbers
+2010-710(GST)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-710(GST)I
+BETWEEN:
+PAY LINX FINANCIAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 1, 2010, at Calgary, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Gordon R. Travis
+Counsel for the Respondent:
+Jeff Watson
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act with respect to the Notice of Assessment dated June 25, 2008 for the period from January 1, 2008 to March 31, 2008 is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 7th day of April 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 203
+Date: April 7, 2011
+Docket: 2010-710(GST)I
+BETWEEN:
+PAY LINX FINANCIAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant was incorporated on or about May 27, 2004.
+[2] The Reporting Period (“the Period”) was January 1, 2008 to March 31, 2008. Sometime prior to the Period, the Appellant changed its name from OHS Capital Corp. to Pay Linx Financial Corporation.
+[3] The Appellant was registered under the Excise Tax Act (the “Act”) on or about May 5, 2004.
+[4] The Appellant was required to file its GST tax returns on an annual basis until December 31, 2007. After January 1, 2008, the Appellant was required to file its GST returns on a quarterly basis.
+[5] The Minister of National Revenue (the “Minister”) maintains that the only income earned by the Appellant at all material times was interest income. The Agent for the Appellant said during the hearing that he is not sure that this statement is correct.
+[6] During the hearing, the Agent for the Appellant agreed that the following facts were correct: (Note: This information is taken from the Respondent’s Reply.)
+(a) at all material times, the Appellant had no sales and did not collect any tax;
+(b) at all material times, the Appellant’s only activities were holding the shares of Pay Linx Corporation and publicly trading its shares;
+(c) in or about March, 2007, the Appellant acquired 100 per cent of the issued and outstanding shares of Pay Linx Corporation;
+(d) the amounts the Appellant sought to deduct as input tax credits related to supplies of property and services that were consumed or used by the Appellant in the course of its activities;
+(e) the amounts the Appellant sought to deduct as input tax credits related to the acquisition of:
+(i) property and services to maintain the registry of the Appellant’s shareholders;
+(ii) property and services to facilitate trades of the Appellant’s shares on the TSX;
+(iii) legal services; and
+(iv) wire services to issue press releases;
+(f) the amounts the Appellant sought to deduct as input tax credits related to transactions that occurred in the Period; (Note: The input tax credits claimed by the Appellant for the Period was approximately $980.00) (Transcript, page 65, lines 23 to 24)
+(g) the amounts the Appellant sought to deduct as input tax credits related to supplies of property and services that were acquired after the Appellant’s take-over of Pay Linx Corporation;
+(h) Pay Linx Corporation was incorporated in 2005;
+(i) Pay Linx Corporation received clearance from the Canadian Payments Association in December, 2005 (the Agent for the Appellant said that he is not sure that this date is correct);
+(j) Pay Linx Corporation received clearance from Interac in February, 2006 (the Agent for the Appellant said that he is not sure that this date is correct);
+(k) prior to the Period, Pay Linx Corporation developed software which included, among others, Paylinx and e-fund applications;
+(l) at all material times, Pay Linx Corporation owned the software that it developed;
+(m) at all material times, Pay Linx Corporation used its software to provide services to the Alberta government and/or The Royal Bank;
+(n) on or about August 15, 2005, Pay Linx Corporation entered into a contract with the Province of Alberta, which had a term of August 15, 2005 to March 31, 2006 that was extended to March 31, 2008 (the “Alberta Contract”);
+(o) pursuant to the Alberta Contract, Pay Linx Corporation supplied on behalf of Bank West, prepaid, reloadable debit cards to individuals who received certain payments from the Province of Alberta (the “Value Cards”);
+(p) some of the individuals who received the Value Cards did not have a bank account (the Agent for the Appellant said that he does not agree with this statement);
+(q) Pay Linx Corporation utilized the software that it had developed to manage the accounts connected to the Value Cards which included, among other things, recording transactions and maintaining a record of the balance on the Value Card;
+(r) pursuant to the Alberta Contract, the Province of Alberta paid Pay Linx Corporation a fee to rent PIN units, as well as transaction fees that were based on Interac/point-of-sale and ATM transactions made/attempted by the individuals who held the Value Cards;
+(s) at all material times, Pay Linx Corporation provided similar services to the Province of British Columbia (the Agent for the Appellant said that he does not agree with this statement);
+(t) at all material times, Pay Linx Corporation also supplied Bank West with an inventory of prepaid, reloadable debit cards and provided processing and other services to manage the movement of funds, which included:
+(i) client set-up;
+(ii) cardholder account management, which included recording day‑to‑day transactions;
+(iii) management of fund allocation and movement between card records and bank accounts of the cardholder;
+(iv) balance and reconcile the accounts daily;
+(v) disburse funds to the cardholder;
+(vi) issue payment instructions electronically to the bank to ensure all cardholder accounts were correctly funded;
+(vii) make pay/no pay decisions; (Note: The Agent for the Appellant said that the Appellant did not make these decisions.)
+(u) the services provided by Pay Linx Corporation also gave the holders of the Value Cards and the debit cards that it issued access to the cardholder’s account to check the balance and to check the transactions that had been posted.
+ISSUE
+[7] The issue to be decided is whether the Appellant is entitled to deduct any of the amounts it sought to deduct as input tax credits and, if so, the amount deductible.
+ANALSYSIS AND DECISION
+[8] Counsel for the Respondent said that this appeal concerns input tax credits with respect to legal fees, other fees and brokerage fees paid by a parent corporation to purchase its subsidiary corporation. The subsidiary corporation was involved in financial services.
+[9] Counsel for the Respondent said that subsection 169(1) of the Act sets out what is required for a person to claim input tax credits. He said:
+So, the property or service, I’m paraphrasing a bit, must be acquired:
+“… for consumption, use or supply in the course of commercial activities of the person.”
+Sir, commercial activity is the key concept. If there is no commercial activity or not exclusive commercial activity, there are no input tax credits allowed.
+(Transcript, page 69, lines 8 to 16)
+[10] In support of his position, Counsel for the Respondent referred to the decision of the Tax Court in Stantec Inc. v The Queen, 2008 TCC 400. At paragraph 30, Justice Campbell Miller said:
+[30] … The only activities that would take a corporation’s activities outside the realm of commercial activity would be activities of a personal nature or the making of exempt supplies. …
+[11] In other words, the parent corporation (i.e., the Appellant) paid the fees in question to purchase the shares of the subsidiary, and the business of the subsidiary was involved in financial services which is an exempt supply.
+[12] The Agent for the Appellant said that the subsidiary was not allowed to provide a financial service. He said that the subsidiary was only allowed to provide computer services.
+CONCLUSION
+[13] I have concluded that all or substantially all of the supplies made by Pay Linx Corporation were exempt supplies of financial instruments and financial services pursuant to the definition of those terms in section 123 of the Act and Schedule V, Part VII of the Act. It therefore follows that Pay Linx Corporation was not involved in a commercial activity, as that term is defined in subsection 123(1) of the Act.
+[14] I have also concluded that, at all material times, the only activities that the Appellant was involved in were holding the shares of Pay Linx Corporation and publicly trading its shares. It therefore follows that the Appellant was not involved in a commercial activity, as that term is defined in subsection 123(1) of the Act.
+[15] Finally, the amounts that the Appellant sought to deduct as input tax credits related to tax that became payable by it during the Period on supplies of property and services that it acquired to carry on its activities, not the activities of the subsidiary.
+[16] I have therefore concluded that the Appellant is not entitled to claim any input tax credits pursuant to subsections 169(1) and 186(1) of the Act.
+[17] The appeal is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 7th day of April 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 203
+COURT FILE NO.: 2010-710(GST)I
+STYLE OF CAUSE: PAY LINX FINANCIAL CORPORATION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: October 1, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: April 7, 2011
+APPEARANCES:
+Agent for the Appellant:
+Gordon R. Travis
+Counsel for the Respondent:
+Jeff Watson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

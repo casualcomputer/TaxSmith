@@ -1,0 +1,284 @@
+---
+title: "Electronic Record Keeping"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic05-1/electronic-record-keeping.html
+last_modified: 2020-02-24
+---
+# Electronic Record Keeping
+
+**This version is only available electronically.**
+
+This circular cancels and replaces Information Circular 05-1 dated June 2005.
+
+## Preamble
+
+1. This circular gives information and guidance to persons who use electronic business systems and who are required by law to keep books and records according to sections 230 and 230.1 of the *Income Tax Act*, section 87 of the *Employment Insurance Act*, and section 24 of the *Canada Pension Plan*. It does not reflect the requirements imposed by other statutes, whether federal, provincial/territorial, or municipal, to maintain adequate books and records.
+
+2. The sections and subsections referred to in this circular are from the *Income Tax Act*. Parallel provisions for most of these matters exist in the *Employment Insurance Act* and the *Canada Pension Plan*. Where significant differences do exist, they are indicated. The *Excise Tax Act* has similar requirements and information concerning Electronic Record Keeping in a GST/HST environment can be found in the GST/HST Memoranda Series 15.1 and 15.2. The *Excise Act, 2001*, also has similar requirements and applicable information can be found in Excise Duty Memoranda Series 9.1.1.
+
+3. For the purpose of this circular, **person** has the meaning assigned by subsection 248(1) of the *Income Tax Act* (the Act). Therefore, in addition to individuals, a "person" in this context includes a corporation, a trust, and any exempt entity listed in subsection 149(1) of the Act such as a registered charity, a registered Canadian amateur athletic association, and a non-profit organization. In this circular, electronic record keeping means those electronic business systems that create, process, store, maintain and provide access to the financial records of a person, including but not limited to custom and commercial accounting software, Point of Sale systems and Internet-based electronic commerce business systems.
+
+4. All business records in an electronically readable format must be retained by taxpayers. The retained records must provide the information necessary to determine the person's liabilities and obligations or their entitlement to any refund or rebate under the Act. The taxpayer is not relieved of this responsibility because of the utilization of a third party such as an accountant, a transaction manager for electronic commerce, an Internet service provider, an application service provider, a service bureau, a time-sharing service, or other such arrangements.
+
+5. Electronic commerce can be broadly defined as the delivery of information, products, services or payments by telephone, computer, over the Internet, or any other automated means.
+
+6. An electronic record is any information recorded in an electronically readable format.
+
+7. Electronically readable format means information supported by a system capable of producing an **accessible** and **useable** copy.
+
+- Accessible copy means that the taxpayer must provide an acceptable copy of the electronic records in an electronically readable and useable format to Canada Revenue Agency (CRA) auditors to permit them to process and analyse the electronic records on CRA equipment.
+
+- A copy is useable if the electronic records can be processed and analysed with CRA software.
+
+- The useable copy must be in a non-proprietary, commonly used data interchange format that is compatible with CRA software.
+
+- Electronic files retained in an encrypted or proprietary backup format must be able to be restored at a later date to an accessible and useable state to meet CRA requirements.
+
+Questions concerning the types of formats that are compatible with CRA software should be directed to the attention of the Electronic Commerce Audit Specialist (ECAS) at the nearest CRA tax services office. This advice must not be construed or viewed as an audit, inspection or a ruling issued by the CRA. It is the taxpayer's responsibility to keep, maintain, retain and safeguard its records.
+
+## Retention of records
+
+8. Record retention requirements are outlined in the *Income Tax Act* as follows:
+
+- Subsection 230(4) requires that you must keep your business records for a minimum of six years from the end of the latest year to which they relate.
+
+- Subsection 230(4.1) requires that persons who keep records in an electronic format retain them in an electronically readable format for the prescribed period even when hard copy is available.
+
+- Subsection 230(4.2) provides that the Minister may exempt a person or a class of persons from the requirement to keep electronic records under terms and conditions that are acceptable to the Minister.
+
+More general information on the retention of records is available in Information Circular 78-10R entitled *Books and Records Retention/Destruction*.
+
+## Location of records
+
+9. Records must be kept at the person's place of business or residence in Canada or another place designated by the Minister and must, upon request, be made available to officers of the CRA for audit purposes at all reasonable times. Records kept outside Canada and accessed electronically from Canada are not considered to be records in Canada. However, where records are maintained electronically in a location outside of Canada, the CRA may accept a copy of the records, provided these are made available in Canada in an electronically readable and useable format for CRA officials and they contain adequate details to support the tax returns filed with the CRA.
+
+10. All retained records must be clearly labelled and stored in a secure environment in Canada. Authorization to maintain records elsewhere may be granted, subject to such terms and conditions as the Minister may specify in writing. These terms and conditions which are identical to records maintained in Canada and which apply to electronic records, specify that records stored outside of Canada are to be made available to officials of the CRA for audit purposes at all reasonable times in accordance with the provision of the Act and this Information Circular. The authorization may be obtained by writing to your nearest CRA tax services office.
+
+11. Normally a back-up of the electronic records are stored at a site other than the business location for security and precautionary purposes (in case of fire, flood, theft, or other cause). CRA encourages this business practice and recommends that these back-up copies be maintained at a location within Canada.
+
+12. It is the taxpayer's responsibility to produce the records for inspection no matter where those records are located.
+
+13. Businesses that operate via the Internet and are hosted on a server located outside of Canada should be cognisant of their responsibility to maintain their records within Canada. Internet based businesses have the same responsibilities related to record retention as all other business operations.
+
+## Record keeping
+
+14. Persons using electronic business systems must ensure that sufficient detail is captured and produced so that the proper determination and verification of income and consumption taxes administered by the CRA can occur. The information so produced must be retained for a minimum of six years from the end of the last taxation year.
+
+15. Records that are retained by copying or backing up the data to another medium must be done so in accordance with the media manufacturers' suggested procedures with particular attention given to the suggested shelf life of the medium. Information recorded on rewritable media such as computer hard disks must be backed up on tape or other suitable medium to avoid accidental loss, deletion, or erasure of the recorded information. The media containing the recorded information must be stored in an environment free from hazards that could affect the media, such as magnetic fields, direct light, excessive moisture, and temperature extremes.
+
+16. It is the taxpayer's responsibility to ensure that current and/or prior period data files have been archived or backed up properly and adequately to meet books and record keeping obligations.
+
+17. When backups of electronic files are being used as a method of record retention, procedures must be put in place to:
+
+- Ensure that the backed up data files can be restored in a format that will be accessible and useable by the CRA.
+
+- Ensure that the intended data is actually being written to the medium being used.
+
+- Ensure that the backup procedure does not overwrite prior period backups or logs, destroying them.
+
+- Ensure that the medium is uniquely labelled in a readily identifiable manner.
+
+- Ensure that a log is prepared to identify what records and data have been recorded on such medium.
+
+- Ensure that the log states how long this medium is to be retained before it can be overwritten or discarded (see "Retention of Records.")
+
+- Ensure that the name of the software and the version number used to create the records are noted on the medium label and in the log.
+
+- Ensure that the proper electronic business system software and operating system are available to restore the backed up files to their original environment.
+
+- Ensure that there is periodic testing of backed up records to verify that the backed up records can be restored into an electronically readable format.
+
+18. A person who uses commercial and/or customized software to keep books and records electronically is not relieved of the responsibility to keep adequate electronic records because of deficiencies in the software. In cases where the software back-up procedures are deficient, additional specific back-up procedures must be taken to retain adequate electronic records. Documentation must be kept at a level of detail that will describe the data entry procedures, reports produced, and any features that alter standard reports or create new reports.
+
+## Use of third party service providers
+
+19. A person who keeps records electronically is not relieved of any of the record keeping, readability, retention, and access responsibilities because he or she contracts out the record keeping function to a third party such as a bookkeeper, accountant, an Internet transaction manager, an application service provider, an Internet service provider, or through a time share, service bureau, or other such arrangements.
+
+20. In addition, other documents whether written or any other form, including supporting documents such as accountants' working papers that assist in the determination of obligations and entitlements are considered part of the books and records of the taxpayer and must be made available to the CRA.
+
+21. It is the taxpayer's responsibility to ensure electronic records are retained for the duration specified by the *Income Tax Act* and to provide, upon request, the required data to CRA auditors in an electronically readable format. A good practice would be to have the third party provide the taxpayer with an acceptable copy of the information required by the CRA in an electronically readable format.
+
+22. The person must ensure that these requirements continue to be met in the event of third party changes such as, software and/or hardware conversions and upgrades, bankruptcy or migration to/from a third party. The taxpayer is responsible for keeping the electronic records and for providing access to authorized persons. Refer to paragraph 41 for additional information on changes to business systems.
+
+## Electronic records management and imaging
+
+23. When original source documents and records are in an electronic format, they must be kept in an electronically readable format even if they have been transferred to another medium such as microfilm.
+
+24. To ensure the reliabililty, integrity and authenticity of electronic records, the pending national standard publication entitled *Electronic Records as Documentary Evidence* (CAN/CGSB-72.34 2005) will outline electronic record management policies, procedures, practices and documentation that will assist in establishing the legal validity of an electronic record.
+
+25. **Electronic image** means the representation of a source document that can be used to generate an intelligible reproduction of that document, or the reproduction itself. In the case of paper source document an intelligible reproductions means that:
+
+- the reproduction is made with the intention of standing in place of the source document;
+
+- the interpretation of the reproduction, for the purposes for which it is being used, gives the same information as the source document; and
+
+- the limitations of the reproduction (e.g., resolution, tone, or hues) are well defined and do not obscure significant details.
+
+26. Imaging and microfilm (including microfiche) reproductions of books of original entry and source documents have to be produced, controlled, and maintained according to the latest national standard of Canada, as outlined in the publication called *Microfilm and Electronic Images as Documentary Evidence* (CAN/CGSB-72.11-93).
+
+The Standards mentioned above are available from:
+
+Canadian General Standards Board
+
+**Mailing address**: Sales Centre Canadian General Standards Board Gatineau, QC K1A 1G6
+
+**Street address**: Place du Portage Phase 3, 6B1 11 Laurier Street Gatineau, Quebec
+
+**Telephone number**: Ottawa Area **(819)** **956-0425** *or* Toll free from the rest of Canada: **1-800-665-2472**
+
+**Fax number**: (819) 956-5644
+
+**E-mail**:**ncr.cgsb-ongc@pwgsc.gc.ca**
+
+27. An acceptable imaging program as explained in the Canadian General Standards publications mentioned in paragraph 26 requires that:
+
+1. a person in authority within the organization has confirmed in writing that the program will be part of the usual and ordinary activity of the organization's business;
+
+2. systems and procedures are established and documented;
+
+3. a logbook is kept showing:
+
+    - the date of the imaging;
+
+    - the signatures of the persons authorizing and performing the imaging;
+
+    - a description of the records imaged; and
+
+    - whether source documents are destroyed or disposed of after imaging, and the date a source document was destroyed or disposed of;
+
+4. the imaging software maintains an index to permit the immediate location of any record, and the software inscribes the imaging date and the name of the person who does the imaging;
+
+5. the images are of commercial quality and are legible and readable when displayed on a computer screen or reproduced on paper;
+
+6. a system of inspection and quality control is established to ensure that c), d), and e) above are maintained; and
+
+7. after reasonable notification, equipment in good working order is available to view, or where feasible, to reproduce a hard copy of the image.
+
+28. Paper source documents that have been imaged in according to the latest national standard (see paragraph 26) may be disposed of and their images kept as permanent records.
+
+29. The taxpayer is responsible for ensuring that imaging is done in an acceptable manner when the imaging has been done by a third party.
+
+## Business system documentation
+
+30. Documentation, whether in writing or any other form, that describes the operating and business systems must be maintained, retained and provided to the CRA upon request.
+
+31. Operating and business systems documentation should describe:
+
+- the operation of the business system including documentation relating to the data files;
+
+- physical and system controls to prevent unauthorized alteration or loss of the records;
+
+- the creation and processing of transactions; and
+
+- how standard reports are created.
+
+32. In addition to the normal business system documentation that is available, Internet based transactions can generate additional information, either during transaction processing (e.g. Web logs) or as a result of security measures to preserve the authenticity and integrity of the resultant record (e.g., electronic signatures). This additional information forms an important part of the audit trail and where relevant for tax purposes must be retained. For businesses operating on the Internet and utilizing the services of an Application Service Provider (ASP), this information must be obtained from the ASP.
+
+33. Documentation relating to file retention and archiving includes items such as:
+
+- procedures, including period retained, frequency, location of retained files;
+
+- file information such as file name, description, format and, record definition (i.e. record layout or data dictionary); and
+
+- description of storage media, hardware and software used in the archiving process.
+
+34. Taxpayers who outsource accounting or bookkeeping functions to third parties are still required to provide this same documentation.
+
+35. Documentation varies from system to system according to the complexity of the business systems and software. Where documentation is lacking for both custom and commercial business systems, it is good business practice to create the documentation where possible and/or contact the business system vendor to acquire the documentation.
+
+## Audit trail
+
+36. An audit trail, which is the information that is required to re-create a sequence of events related to a business transaction, must include sufficient detail to substantiate summarized information. The electronic records must show an audit trail from the source document(s), whether paper or electronic, to the summarized financial accounts. In addition the trail may also include a number of links to other associated processes and events such as front-end systems (e-commerce, Point of Sale), receipts, payments, and stock inventories, all of which may have their own system audit trails. For example, in Internet based e-commerce transactions, other records such as web logs, emails when used as part of the transaction (e.g., invoice and confirmations) or security measures such as digital signatures could be an important part of the audit trail. Transactions covered by a trading partner agreement of electronic data interchange (EDI), the electronic record(s) including functional acknowledgments have to be kept. It is the taxpayer's responsibility to ensure the reliability and readability of these transaction records.
+
+37. Where electronically kept records are converted from one format to another, it is the taxpayer's responsibility to ensure that the converted records are reliable and readable. The conversion must not result in a loss, destruction, or alteration of information and data relevant to the determination of taxes payable, collected, or withheld.
+
+38. This is particularly important with regard to Internet based businesses that are dealing with third parties where documents and records relating to transactions are held or maintained by an Application Service Provider.
+
+39. Taxpayers keeping electronic records must also retain source documents. A **source document** includes items such as sales invoices, purchase invoices, cash register receipts, formal written contracts, credit card receipts, delivery slips, deposit slips, work orders, dockets, cheques, bank statements, tax returns, and could also include emails, and other general correspondence where relevant for tax purposes. Paper or hardcopy records may be retained in microfiche, microfilm, or electronic image format in accordance with CRA policy. Where any of the aforementioned documents are initially created, transmitted or received electronically, those documents constitute records that must also be retained electronically.
+
+## Transaction integrity and security
+
+### Systems controls
+
+40. A person carrying on a business with an electronic business system must ensure that adequate controls are in place, which safeguard the accuracy, security, and integrity of the electronic records processed and kept in that system. These can include:
+
+- access controls to ensure that only authorized users can have access to a computer system to process data;
+
+- input and output controls that ensure the accuracy and security of the information created, received and transmitted;
+
+- processing controls that protect and ensure the integrity of the information processed by the system;
+
+- back-up controls that guarantee the retention of back-up copies of electronic records, computer programs, system documentation and the recovery of electronic records in case of system failure; and
+
+- controls to ensure there is no accidental or intentional editing or deletion of recorded or completed transactions. Changes to any recorded transaction must be made by journal entry, be adequately documented, and at least include the following:
+
+    1. person making modifications;
+
+    2. date of change;
+
+    3. previous transaction details;
+
+    4. current transaction details; and
+
+    5. reason for the change or deletion.
+
+## Changes to business systems
+
+41. If changes to the operating and/or electronic business system occur the capability to access and retrieve data must be preserved. The changes must not result in a loss, destruction, or alteration of information and data relevant to the determination of taxes payable, collected, or withheld. Adequate documentation must be retained to preserve an accurate chronological record of the changes including any changes to software or systems and the format of the files. This documentation must be made available upon request to the CRA.
+
+42. Before implementing a new business system the taxpayer must ensure that:
+
+- sufficient detail will be captured and produced to ensure proper determination of income and consumption taxes administered by the CRA;
+
+- the audit trail of each transaction will be preserved to allow CRA auditors to verify accuracy of income and consumption taxes determined by the taxpayer;
+
+- adequate internal controls are incorporated in the system to ensure that all transactions are being recorded accurately and completely;
+
+- the system ensures transaction integrity and security;
+
+- the system will capture and save in a readable format the information required by the CRA;
+
+- CRA auditors will have access to all information produced by the system and required by the CRA to verify the filed returns;
+
+- adequate back-up and restore procedures will be in place to safeguard information required by the CRA; and
+
+- the system will continue to offer the capacity to export the required information into a commonly used non-proprietary format.
+
+## Inspections, audits and examinations
+
+43. A person authorized by the Minister under section 231.1 may inspect, audit, or examine relevant documents, property, or processes of any person and of any other person that relates or may relate to the information that is or should be in the books or records of the taxpayer. This person may at reasonable times, enter any premises or place of business and require persons therein to provide reasonable assistance and answer all proper questions. Such examinations include the audit of electronic records and, as a part of providing reasonable assistance, taxpayers must allow CRA auditors access to their electronic records. This access means that the taxpayer must, under section 231.5, provide an acceptable copy of the electronic records in an electronically readable and useable format to CRA auditors in order that they can process the electronic records on CRA equipment.
+
+44. Any change that would affect the taxpayer's ability to access and read the records must be reported to the CRA.
+
+## Business systems evaluations
+
+45. The CRA may undertake a review of the business systems to understand the flow of information, to evaluate the reliability of internal controls and to identify electronic data files that will be required. These reviews are undertaken to provide the CRA with an overview of the business system including details related to the flow of information through the business system and subsystems. As part of providing reasonable assistance, taxpayers must, upon request from an authorized person, provide information regarding their business systems.
+
+## Lost, damaged or incomplete records
+
+46. Taxpayers must ensure that proper back-up records are maintained at all times and if any electronic records required to be maintained are lost, destroyed or damaged, the taxpayers must report this situation to the CRA and recreate the files within a reasonable period of time.
+
+## Inadequate records
+
+47. If a person has failed to keep adequate books and records, subsection 230(3) of the Act provides that the Minister can specify what books and records shall be kept.
+
+48. If the CRA finds that books and records are inadequate, the CRA will ordinarily request a written agreement that books and records be maintained as required. Within a reasonable period of time, usually not less than a month, the CRA will follow up the request by letter or visit to ensure compliance.
+
+49. If there has been no compliance within the time allowed, the CRA will issue a formal requirement letter. The letter describes the information to be recorded in the books and describes the legal consequences and penalties for failing to comply.
+
+50. A person who destroys or otherwise disposes of books and records to evade the payment of tax is subject to prosecution according to section 239 of the Act. Information Circular 73-10R, *Tax evasion*, discusses CRA policies on tax evasion.
+
+## Offences and penalties
+
+### Inadequate records and failure to provide information
+
+51. If a person fails to provide any information or documents including books and records, section 231.2 specifies that the Minister can require the person to provide the information or documents requested.
+
+52. If the person fails to maintain adequate books and records or provide the information or documents under section 231.2, such action may result in prosecution by the CRA. On summary conviction, and in addition to any penalty otherwise payable, a taxpayer is liable to a fine of not less than $1,000, or both the fine and imprisonment.
+
+53. Alternatively, under section 231.7, the Minister may apply to the court to have issued a Compliance Order where a judge would order the person to provide any access, assistance, information or document sought by the Minister under section 231.1 or 231.2. If a person fails or refuses to comply with an order, a judge may find the person in contempt of court, and the person is subject to the processes and the punishments of the court to which the judge is appointed.
+
+## Advice
+
+54. The CRA is prepared to offer advice on electronic record issues. You can get this advice from your tax services office. Taxpayers are responsible for keeping, maintaining, retaining, and safeguarding records. The recommendations of the CRA should not be regarded as binding. The requirements of individual taxpayers with regard to record keeping may change due to a number of factors such as a change in the direction or activities of the taxpayer, a change in the taxpayer's computer system, legislative changes, etc.
+
+Most of Canada Revenue Agency publications are available on the CRA Web site **www.cra.gc.ca** under the heading "Forms and Publications."

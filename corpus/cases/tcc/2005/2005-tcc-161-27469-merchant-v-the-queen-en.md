@@ -1,0 +1,189 @@
+---
+title: "Merchant v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27469/index.do"
+last_modified: "2005-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 161"
+citation2: ""
+neutral_citation: "2005 TCC 161"
+decision_date: "2005-02-25"
+language: "en"
+item_id: "27469"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 126
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:59:04.977000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fe2212c5ea0f37931bb4fba8af6832bd27223cf5a9467352d1fe4ac1b180650d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Merchant v. The Queen
+
+- Citation: 2005 TCC 161
+- Decision date: 2005-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 126, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merchant v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-25
+Neutral citation
+2005 TCC 161
+File numbers
+2004-2571(IT)I, 2004-2572(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket:2004-2571(IT)I, 2004-2572(IT)I,
+2004-2573(IT)I, 2004-2574(IT)I,
+2004-2575(IT)I,
+BETWEEN:
+MATTHEW MERCHANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 7 and 10, 2005, at Calgary, Alberta, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Curtis Stewart
+Counsel for the Respondent:
+Galina M. Bining
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1996 taxation year is dismissed.
+The appeals from assessments of tax made under section 160 of the Act, notices of which are dated May 30, 2003, and bear numbers 02550, 02624, 02627 and 02640 are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that section 160 does not apply to the payments of $2,605, $3,541, $3,118 and $14,065 made by Tony Merchant in 1997, 1998, 1999 and 2002.
+Signed at Ottawa, Canada, this 25th day of February, 2005.
+"CampbellJ. Miller"
+Miller J.
+Citation: 2005TCC161
+Date: 20050225
+Docket:2004-2571(IT)I, 2004-2572(IT)I,
+2004-2573(IT)I, 2004-2574(IT)I,
+2004-2575(IT)I,
+BETWEEN:
+MATTHEW MERCHANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Matthew Merchant appeals, by way of the informal procedure, four assessments pursuant to subsection 160(1) of the Income Tax Act (the Act). The Minister of National Revenue (the Minister) claimed Matthew Merchant was the recipient of certain transfers of property in the form of cash payments from his father, Tony Merchant, to pay Matthew Merchant's tax liabilities of $2,605, $3,541, $3,118 and $14,065 for the 1996, 1997, 1998 and 2001 taxation years. I find that section 160 is not applicable as the payments by Tony Merchant to cover his son Matthew's tax liabilities were not transfers of property but were loans.
+[2] Matthew Merchant also appeals the assessment of his 1996 taxation year in which the Minister denied claims for moving expenses of $3,509. The Minister also included a benefit of $1,015 in Matthew Merchant's income. With respect to the 1996 taxation year, I dismiss Matthew Merchant's appeal.
+[3] In 1995, at the age of 17, Matthew Merchant enrolled in the LLB program at the University of Dundee in Scotland. In 1998, he received his LLB degree, but needed additional education to qualify to practice in Canada, so attended the University of Ottawa for two years, from 1998 to 2000. In 2000, he commenced articles in Saskatchewan and was called to the Bar in 2001, on the proviso that he obtain a certificate from the National Accreditation Committee. This required further study which he conducted at the University of Victoria. He wrote three further exams in Calgary to obtain the accreditation.
+[4] Matthew Merchant financed his education in a variety of ways. He had savings from his pre-university years and evidently had some luck investing. He drew income from the family businesses in the form of both employment income, working at his father's law firm, Merchant Law Group and at the family business, Merchant 2000 Ltd. He also drew director's fees from Merchant 2000 Ltd. This company had investments in a number of businesses, including a one-third interest in a Fort McMurray gas station, as well as considerable holdings in real estate. Matthew Merchant also borrowed funds from his father, Tony Merchant. This was done annually at the beginning of the academic year, based on forecasts of the year's expenses, as well as on an ad hoc basis as money was needed. Tony Merchant stated it was his practice with all three sons to assist them through their university education, as he felt he had a moral and even a legal obligation to do so. His assistance was by lending necessary funds and then, through his control of the family business, declaring bonuses or directors' fees to the sons to assist in repaying the loans.
+[5] In the spring of 1997, 1998, 1999 and 2002, money was needed by Matthew to pay his tax liabilities of $2,605, $3,541, $3,118 and $14,065. Matthew testified that at the end of the academic year he was often low on funds. Tony Merchant paid those amounts. In the spring of 2000 and 2001 Matthew had no tax liabilities.
+[6] Matthew indicated that the arrangement with his father was that such payments were loans to be repaid. He described this as a formal arrangement, one of which he believed his father kept track, although he, Matthew, only kept track in his head. Matthew presented no ledgers or banking documents evidencing the lending of the monies or the repayment. He provided two handwritten documents, one evidencing the repayment of $400, and the other evidencing a requirement to repay the cost of a flight. He referred to his record-keeping as not meticulous. Indeed, I find he simply did not keep records.
+[7] Tony Merchant produced a contract between himself and his eldest son, Evatt, dated August 4, 1988. On the back of that contract, Tony Merchant had recorded in handwriting the amounts paid by him to cover all three of his sons' tax liabilities from 1996 to 2002. The four payments at issue today were so recorded. Tony Merchant explained that because the tax arose primarily due to income that he would have directed to the boys, he felt it was in order for him to cover such taxes until the family business was in a financial position to further fund the boys. He testified he recorded these tax liabilities to evidence amounts still owed to him.
+[8] Matthew Merchant's most significant tax liability was for the 2001 taxation year. In the spring of 2002, Tony Merchant paid Matthew's tax bill of $14,065. Matthew worked as a lawyer in 2002 at a base wage of $3,500 per month, plus 42% of his receipts. He recalled having one major receipt of $16,000 of which he would have presumably received approximately $7,000. He indicated he may have paid his father as much as $5,000 from this amount. By early 2003 he claimed he had fully repaid his father all debts owing.
+[9] Tony Merchant provided a memo from Matthew to him dated June 10, 2002. In it Matthew acknowledged he still owed his father $9,500 for taxes, but that this should be reduced by an amount of approximately $3,763, which father owed son for services provided to the law firm. Tony Merchant confirmed that by late 2002 or early 2003, he was pushing all three sons to settle their debts with him, and that this was accomplished in early 2003.
+[10] Mr. Craig Peturson, an appeals officer with Canada Revenue Agency (CRA) confirmed that according to CRA's computer records, Tony Merchant owed the government $23,921 in November 1997, $173,720 in June 1998, $18,910 in April 1999 and $13,717 in June 2002. Tony Merchant acknowledged he owed CRA monies over the years, and that he knew they were attempting to collect. Matthew Merchant was assessed on May 30, 2003, pursuant to section 160 of the Act in connection with the four payments by Tony Merchant to cover his son's tax liabilities.
+[11] With respect to the 1996 taxation year, the moving expense claim of $3,509 represents the cost of three-round trips from Dundee, Scotland to Regina. The first trip would have been for one month around Easter, the second for the summer and the third for the end of year Christmas break. Matthew testified that on each of these returns he worked in Canada. During the spring and winter break he would work in the family business as well as at his father's law firm, handling deliveries for example. In the summer he also worked a short stint in Calgary in the typical summer student-type employment.
+[12] With respect to the benefit issue of $1,015, this represents one-half the costs of Matthew's trip to Mexico for Christmas 1995. The Merchant family held their family company directors' meeting at that time, and Tony Merchant allocated part of the expenses for business purposes. Tony Merchant paid half the cost of Matthew's trip and Merchant 2000 Ltd. paid the other half. Matthew was 17 at the time and, as he put it, was not as active as the others - he mainly listened. He believed several hours were spent in meetings. Tony Merchant confirmed that formal meetings were only two or three hours but there were several informal discussions amongst the five family directors. He also acknowledged that the trip was primarily a holiday.
+Issues
+[13] The three issues are:
+(i) Did Matthew Merchant receive a $1,015 benefit in 1996 either as a shareholder or employee of Merchant 2000 Ltd.?
+(ii) Is Matthew Merchant entitled to moving expenses of $3,509 in 1996? and
+(iii) Does section 160 of the Act apply to the four payments by Tony Merchant to cover Matthew Merchant's tax liabilities.
+Analysis
+[14] (i) Benefit: The week in Mexico at Christmas time 1995 was primarily a family holiday with a few hours of actual business meetings. Matthew was 17 at the time. He described his role as a director and shareholder at the directors' meeting as simply a listener. He did not pay for this trip. His father paid for one-half and Merchant 2000 Ltd. paid for the other half. Matthew Merchant was in Mexico almost exclusively for the purpose of holidaying: his business involvement was insignificant. Under these circumstances, I find Matthew, as a shareholder of Merchant 2000 Ltd., received a benefit of $1,015 pursuant to subsection 15(1) of the Income Tax Act, being an amount paid by the Company towards a holiday.
+[15] (ii) Moving Expenses: Paragraphs 62(1)(a) and (b) reads:
+62(1) Where a taxpayer has, at any time, commenced
+(a) to carry on a business or to be employed at a location in Canada (in this subsection referred to as his "new work location"), or
+(b) to be a student in full-time attendance at an educational institution (in this subsection referred to as his "new work location") that is a university, college or other educational institution providing courses at a post-secondary school level,
+and by reason thereof has moved from the residence in Canada at which, before the move, he ordinarily resided (in this section referred to as his "old residence") to a residence in Canada at which, after the move, he ordinarily resided (in this section referred to as his "new residence"), so that the distance between his old residence and his new work location is not less than 40 kilometres greater than the distance between his new residence and his new work location, in computing his income for the taxation year in which he moved from his old residence to his new residence or for the immediately following taxation year, there may be deducted amounts paid by him as or on account of moving expenses incurred in the course of moving from his old residence to his new residence, to the extent that
+The scheme of subsection 62(1), as it read in 1996, is clear. Moving expenses incurred for work-related moves within Canada are deductible. Matthew is claiming moving expenses consisting of three return flights between Scotland and Canada for purposes of returning to Canada to work. Such expenses do not qualify under paragraph 62(1)(a) as they are not moves from an ordinary residence in Canada to another ordinary residence in Canada.
+[16] Subsection 62(2) qualifies the moving expense deduction for full-time students:
+62(2) Where a taxpayer would, if subsection (1) were read without reference to paragraph (a) thereof and
+(a) if the reference therein to "moved from the residence in Canada at which" were read as a reference to "moved from the residence at which", or
+(b) if the reference therein to "to a residence in Canada at which" were read as a reference to "to a residence at which",
+be entitled to deduct an amount by virtue of that subsection in computing the taxpayer's income for a taxation year, that amount my be deducted in computing the taxpayer's income for the year.
+This loosened the restriction in subsection 62(1) by allowing the moving expenses deduction for a student who decides to study outside Canada. The move must be by reason of commencement of full-time study. Matthew Merchant claims the trips from Scotland to Canada not by reason of commencing full-time study but by commencing work. He has not attempted to rely on subsection 62(2).[1] Is that provision, however, available to Matthew for any of the costs between Scotland and Canada? The evidence was that he commenced his full-time studies in Scotland in 1995. The three trips in 1996 were to return home for the extended academic breaks granted by United Kingdom universities. Those trips were not by reason of commencement of full-time studies in Scotland. That move occurred in 1995. I find the cost of these trips home do not qualify. I might add that had any portion of the cost qualified as a student moving expense, such expenses are only deductible against scholarships, bursaries or research grants received by Matthew Merchant in 1996. Although there was some mention by Tony Merchant of scholarship money, it was not referenced to any particular year and I consequently have no evidence of any income in 1995 against which Matthew could have deducted expenses, if available.
+[17] Matthew Merchant's appeal for 1996 is dismissed.
+[18] (iii) Section 160. Subsection 160(1) reads as follows:
+160(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person's spouse or common-law partner or a person who has since become the person's spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[19] The Appellant raises three arguments:
+(i) There was no transfer of property as Tony Merchant's payment of Matthew's taxes was a loan;
+(ii) If there was a transfer of property, the Minister has not proven that at the time Matthew was assessed in 2003, Tony was liable to pay any tax in respect of the tax years in which the property was transferred; and
+(iii) Consideration in the form of a moral or legal obligation of a parent to a child represents adequate consideration, removing these payments by Tony on Matthew's behalf from the application of section 160.
+[20] (i) Transfer of property. In the case of Tétrault v. The Queen,[2] Justice Archambault addressed the issue of whether a loan constitutes a transfer of property for purposes of section 160 of the Act and concluded, based on the cases of Dunkelman v. M.N.R.[3] and McVey v. The Queen[4] that it does not. I agree with that conclusion. As Justice Archambault put it at paragraph 39:
+... The loan of money would not constitute a method of thwarting the collection of the tax owed by the lender.
+The question is, therefore, did Tony Merchant in fact lend money to his son? The Minister's position is that the payments made by Tony Merchant were not genuine; that, indeed, they were incurred to thwart the collection of tax. The evidence does not support the Crown's position.
+[21] Both father and son testified that these payments were always intended to be a loan; both sides of the transaction realized that. Both father's and son's actions subsequent to the payments are indicative of a debtor-creditor relationship. Tony Merchant recorded the amounts paid by him to cover each of his sons' tax liabilities. He also offered a plausible explanation as to why he handled the loans in this manner. Matthew Merchant wrote a memo to his father clearly indicating that in June 2002 he still owed his father $9,500, a figure which accords with his earlier explanation of having made a lump-sum repayment of a few thousand dollars on the $14,000 liability.
+[22] The Crown suggests that the lack of documentation and an intention on Tony's part to avoid collection override the legitimacy of this loan arrangement. I disagree. Firstly, in a family arrangement, where parents help children further their education, I do not expect to see formal ledgers of account. Indeed, by tracking payments in handwriting on the back of a family contract, Tony Merchant has kept the very type of record one might expect in a family arrangement. Lack of further documentation does not sway me otherwise. Secondly, I find no evidence of any intention on the part of Tony to thwart collection of tax. The Crown points to the fact that Tony knew CRA was looking to collect as somehow being indicative of an intention to thwart such collection proceedings. Simply because he knew this does not taint him with an intent that loans to his sons were for the purpose of avoiding the tax liability. In 1998 for example, Tony Merchant owed $173,000. His evidence was that he was paying $150,000 a year in taxes in the late 1990s. He paid Matthew's tax liability of $3,500 and expected to be repaid: this was in keeping with his modus operandi of funding his sons' education over a number of years. These circumstances are not consistent with an intention to thwart collection of tax. I find there was a bona fide loan arrangement between Tony Merchant and Matthew Merchant, and as such section 160 is not applicable.
+[23] It is unnecessary for me to deal with the Appellant's other two arguments, which is unfortunate as they raise intriguing and controversial issues. Another day perhaps.
+[24] In conclusion, Matthew Merchant's appeal for the 1996 taxation is dismissed and his appeals of the assessments pursuant to section 160 are allowed and referred back to the Minister on the basis that section 160 does not apply to the loan payments made by Tony Merchant in 1997, 1998, 1999 and 2002.
+Signed at Ottawa, Canada, this 25th day of February, 2005.
+"CampbellJ. Miller"
+Miller J.
+CITATION:
+2005TCC161
+COURT FILE NO.:
+2004-2571(IT)I, 2004-2572(IT)I, 2004-2573(IT)I, 2004-2574(IT)I, 2004-2375(IT)I
+STYLE OF CAUSE:
+Matthew Merchant and Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+February 7 and 10, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+February 25, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Curtis Stewart
+Counsel for the Respondent:
+Galina M. Bining
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Curtis Stewart
+Firm:
+Bennett-Jones LLP
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Indeed, Matthew Merchant relied on the more recent legislation defining "eligible relocation" in section 248. This legislation was not in force in 1996.
+[2]
+2004TCC332.
+[3] 59 DTC 1242.
+[4] 96 DTC 1225.

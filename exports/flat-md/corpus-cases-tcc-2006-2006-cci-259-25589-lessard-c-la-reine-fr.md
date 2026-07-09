@@ -1,0 +1,202 @@
+---
+title: "Lessard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25589/index.do"
+last_modified: "2006-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 259"
+citation2: ""
+neutral_citation: "2006 CCI 259"
+decision_date: "2006-05-04"
+language: "fr"
+item_id: "25589"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2467
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:38:43.763000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d8ff2fabb296c17cc5bbe69cd1e9072b5db15fe751b7dcfd26dedcfc3b9a157f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lessard c. La Reine
+
+- Citation: 2006 CCI 259
+- Decision date: 2006-05-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2467, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lessard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-04
+Référence neutre
+2006 CCI 259
+Numéro de dossier
+2005-889(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-889(IT)I
+ENTRE :
+HENRI LOUIS LESSARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 27 février 2006, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de mai 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI259
+Date : 20060504
+Dossier : 2005-889(IT)I
+ENTRE :
+HENRI LOUIS LESSARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l'année d'imposition 2000. L'appelant a choisi de procéder selon la procédure informelle de la Loi de l'impôt sur le revenu (la « Loi » ) même si la somme des impôts et des pénalités en litige, relativement à la cotisation du 3 octobre 2002 pour l'année d'imposition 2000, est plus élevée que la limite de 12 000 $.
+[2] Les sujets du litige sont les suivants :
+a) Le ministre du Revenu national (le « ministre » ) a établi pour l'appelant une nouvelle cotisation apportant les modifications suivantes aux revenus de celui-ci :
+Description
+Montant
+Gains T-4
+15 000 $
+Autres revenus
+50 698 $
+b) Le ministre a également imposé à l'appelant une pénalité pour production tardive en vertu du paragraphe 162(1) de la Loi ainsi qu'une pénalité en vertu du paragraphe 163(2) de la Loi.
+[3] Pour établir et justifier la cotisation dont il est fait appel, le ministre s'est fondé sur les faits suivants :
+a) Au cours de l'année d'imposition en litige, l'appelant était l'unique actionnaire de la société « H. LS Lessard Électrique inc. » (ci-après, la « société » );
+b) La société exploitait une entreprise à titre d'entrepreneur dans le domaine de l'entretien et de la réalisation de travaux d'électricité;
+c) Selon le Registraire des Entreprises « CIDREQ » :
+i) La société a été constituée le 6 avril 1981;
+ii) L'appelant était aussi président et administrateur de la société;
+d) L'exercice financier de la société se terminait le 31 mars de chaque année;
+e) L'appelant, en tant qu'actionnaire unique, préparait les factures de ventes, faisait les dépôts et payait les factures d'achats;
+f) Plusieurs achats ont été payés en argent comptant à même les encaissements provenant des ventes;
+g) D'autres achats pouvaient être payés par chèque;
+h) Les documents étaient ensuite remis à Madame Viviane Pépin qui faisait la tenue de livre et préparait les rapports de « TPS et TVQ » (Taxe sur les produits et services, et Taxe de vente du Québec);
+i) Annuellement, tous les documents étaient remis à un comptable pour la préparation d'états financiers non vérifiés et la préparation de la déclaration de revenu de la société;
+REVENUS NON DÉCLARÉS
+j) Pour l'année d'imposition 1999 de l'appelant, un T5 « État des revenus de placements » (ci-après, le « T5 » ) a été émis à celui-ci par la société, pour un montant imposable de 21 562,50 $ (17 250 $ x 125 %);
+k) L'appelant a déclaré comme seul revenu ce montant imposable de 21 562,50 $ dans sa déclaration de revenu pour son année d'imposition 1999;
+l) Pour son année d'imposition 2000, l'appelant a déclaré les revenus suivants provenant de ses placements dans la société « Industrial Alliance Company » , dans sa déclaration de revenu :
+Description
+Montant
+Montant imposable des dividendes de société canadienne imposable
+709 $
+m) Le Ministre a vérifié les livres et registres de la société ainsi que les pièces justificatives, et la méthode des dépôts fut utilisée afin de vérifier les revenus pour la période du 1er avril 1999 au 31 mars 2000;
+n) Une écriture de régularisation fut effectuée le 31 mars 2000 créditant une somme de 45 000 $ dans le compte « Avance à l'administrateur » et débitant, pour une même somme, le compte « Revenus de construction » ;
+o) À la dite écriture de régularisation, il était indiqué la note « Dépôt non imposable » ;
+p) La dite écriture de régularisation n'était appuyée d'aucune pièce justificative et aucune explication ne fut fournie au Ministre à propos de l'annotation « Dépôt non imposable » ;
+q) Le Ministre a procédé à l'analyse des bordereaux de dépôt des comptes bancaires de la société, à l'égard de la période du 1er avril 1999 au 31 mars 2000, il n'a trouvé aucun « dépôt non imposable » de 45 000 $, ni aucun « dépôt non imposable » pouvant totaliser la dite somme;
+r) Le vérificateur du Ministre a procédé à l'analyse des comptes du grand livre de la société « avances à recevoir de l'actionnaire » et « avances à payer à l'actionnaire » pour la période du 1er avril 1999 au 31 mars 2000 et pour la période du 1er avril 2000 au 31 mars 2001;
+s) L'appelant avait un solde à recevoir au 31 mars 1999, et a reçu diverses sommes entre le 1er avril 1999 et le 31 mars 2001, dont le montant de 45 000 $, pour se retrouver avec une somme à payer de 33 072 $ au 31 mars 2001;
+t) Le vérificateur du Ministre a donc conclu qu'une somme de 45 000 $ avait été payée à l'appelant au cours de l'année d'imposition 2000;
+u) En aucun temps, l'appelant n'a déclaré ce montant dans sa déclaration de revenu pour son année d'imposition 2000;
+v) En aucun temps, l'appelant n'a été en mesure de fournir d'explications valables relativement au montant de 45 000 $ mentionné ci-dessus;
+w) Le Ministre a ajouté ce montant de 45 000 $ dans les revenus de l'appelant pour son année d'imposition 2000 à titre de revenus non déclarés;
+EMPRUNTS NON REMBOURSÉS
+x) Le vérificateur du Ministre a effectué une analyse dans les livres et registre de la société afin d'y repérer les avances reçues de l'appelant ainsi que celles payées à l'appelant par la société, pour les années d'imposition 1999 et 2000;
+y) Le montant de 4 285 $ pour l'année d'imposition 2000, n'a pas été remboursé par l'appelant dans le délai d'un an suivant la fin de l'année d'imposition de la société, au cours de laquelle le prêt a été consenti (voir détails en annexe I);
+z) Ce montant total de 4 285 $ pour l'année d'imposition 2000, a été considéré par le Ministre à titre d'avantage imposable reçu par l'appelant de la société;
+aa) De plus, relativement à ce prêt, des intérêts présumés ont été calculés pour un montant total de 1 413 $, et ajoutés aux revenus de l'appelant pour son année d'imposition 2000 (voir détails en annexe I);
+SALAIRES NON DÉCLARÉS
+bb) La société a réclamé une dépense de 15 000 $ pour services rendus par l'appelant, pour l'exercice clos le 31 mars 2001;
+cc) Cette somme a été comptabilisée comme une dépense de salaires pour la société pour l'exercice clos le 31 mars 2001;
+dd) Cette somme de 15 000 $ a été enregistrée au compte avance à payer à l'actionnaire;
+ee) Cette somme n'a pas été incluse dans la déclaration de revenu de l'appelant pour son année d'imposition 2000;
+ff) Le Ministre a considéré ce montant comme étant du salaire reçu par l'appelant pour son année d'imposition 2000 et l'a donc ajouté à ses revenus considérant que la somme de 15 000 $ a été versée à l'appelant (voir annexe I, page 16 de la présente réponse);
+PÉNALITÉ POUR PRODUCTION TARDIVE
+gg) Pour l'année d'imposition 2000, l'appelant avait un impôt payable après abattement du Québec, de 10 094,65 $;
+hh) L'appelant a produit sa déclaration de revenu pour son année d'imposition 2000, le 10 mai 2001;
+ii) L'appelant ayant produit sa déclaration de revenu pour l'année d'imposition 2000, le 10 mai 2001, alors que celle-ci aurait dû être produite le 30 avril 2001, le Ministre lui a imposé une pénalité pour production tardive de 504,73 $.
+[4] L'appelant, qui avait le fardeau de prouver que la cotisation était erronée, à l'exception du volet relatif aux pénalités, a témoigné au soutien de son appel.
+[5] Il a soumis une preuve très brève qui a essentiellement constitué à expliquer que le comptable avait fait une erreur en prenant l'initiative de faire une écriture sans fondement selon laquelle il avait avancé un montant de 45 000 $ à la société H. LS Lessard Électrique inc. (la « société » ) et cela, à partir d'un dépôt non imposable.
+[6] L'appelant, dans un premier temps, a affirmé qu'il s'agissait là d'une grave erreur qu'il avait voulu corriger très rapidement; la Caisse populaire lui ayant refusé le prêt requis pour ce faire, il n'a pas été en mesure de corriger la situation dès le moment où il a fait le constat de ce qu'il a décrit comme une erreur du comptable.
+[7] Un peu plus tard, soit le 6 octobre 2001, la Caisse populaire acceptait, cette fois, de leur prêter un important montant qu'il a injecté dans la société qu'il dirigeait; il s'agissait d'un montant de plus de 76 000 $.
+[8] À la suite de cette injection de fonds, il a produit une déclaration de revenus modifiée de manière à annuler l'effet fiscal de l'écriture comptable de 45 000 $.
+[9] Les explications soumises furent vagues, confuses et imprécises. À maintes reprises, il a affirmé que la société qu'il contrôlait lui versait généralement un salaire d'environ 30 000 $.
+[10] Or, sa déclaration de revenus pour l'année en litige fait état de revenus de 708,75 $ pour l'année 2000. Cette année-là, à la case 130 de sa déclaration de revenus, il indiquait avoir fait un prélèvement de 15 000 $ de la société; il n'a pas déclaré le prélèvement de 15 000 $ dans les revenus en affirmant que la société avait déjà payé les redevances fiscales sur ce montant, d'où le fait que le retrait ne fut pas déclaré comme revenu.
+[11] Il a aussi affirmé que le renouvellement de son permis d'entrepreneur en électricité était assujetti à la production d'états financiers démontrant la viabilité de l'entreprise qu'il contrôlait. À défaut de soumettre de tels états financiers répondant à certaines exigences, sans doute pour établir la solidité financière de l'entreprise, il aurait pu se voir refuser le renouvellement de son permis, chose tout à fait essentielle au fonctionnement et à l'existence même de l'entreprise.
+[12] L'appelant a aussi insisté sur le peu de collaboration du comptable à l'origine de l'inscription; selon lui, la personne qui s'occupait de sa tenue des livres a rapidement remarqué que l'inscription de 45 000 $ était anormale et non appropriée. Il aurait alors essayé à plusieurs reprises, sans succès, d'exiger du comptable qu'il fasse les corrections. Il s'agit là d'une explication assez loufoque et, de ce fait, non crédible. D'ailleurs, le tribunal n'a pas compris pourquoi l'appelant n'avait pas fait témoigner le comptable, eu égard à l'importance qu'il accordait à cet élément.
+[13] Finalement, il a affirmé avoir des connaissances très limitées en matière de comptabilité, en réclamant de ce fait la sympathie du tribunal, étant donné ses problèmes financiers importants affectant gravement la santé financière de son entreprise.
+[14] De son côté, l'intimée a fait témoigner le vérificateur; ce dernier a expliqué le cheminement suivi et les fondements de la cotisation établie principalement à partir des dépôts.
+[15] Ce dernier a également expliqué les motifs à l'origine de l'imposition des pénalités, dont le fondement était essentiellement l'importance du montant occulté par rapport aux revenus déclarés.
+[16] Dans un premier temps, après avoir obtenu une copie des feuilles de travail du comptable dont l'appelant avait retenu les services, il a fait l'exercice de la vérification de la nature des dépôts.
+[17] Le travail effectué a établi d'une manière non équivoque que les explications soumises pour justifier les 45 000 $ n'étaient ni fondées ni justifiées. L'analyse des dépôts n'a pas permis de valider les explications, à savoir qu'il s'agissait de montants non imposables.
+[18] Dans un autre dossier impliquant l'appelant en sa qualité d'unique actionnaire, dans l'affaire H. LS Lessard Électrique inc. c. Canada, no 2004-3839(IT)I, 1er juin 2005, [2005] A.C.I. no 303 (QL), l'honorable juge Lamarre Proulx de cette cour, appelée à déterminer la nature du montant de 45 000 $ de la société dont l'appelant possédait la totalité des actions, a conclu comme suit aux paragraphes 3 et 18 :
+3 La nouvelle cotisation était fondée sur l'inclusion d'un montant de 45 000 $ dans le calcul du revenu de l'appelante pour l'année 2000. La Réponse à l'avis d'appel (la « Réponse » ), aux alinéas 4 d) à 4 h) décrit ainsi les événements entourant l'ajout de la somme de 45 000 $ dans le calcul du revenu de l'appelante :
+[...]
+d) le ministre a vérifié les livres et registres de la société « H.LS. Lessard Électrique inc. » et la méthode des dépôts fut utilisée afin de vérifier les revenus pour l'exercice financier se terminant le 31 mars 2000;
+e) une écriture de régularisation fut effectuée le 31 mars 2000 créditant une somme de 45 000 $ dans le compte « Avances à l'administrateur » et débitant, pour une même somme, le compte « Revenus de construction » ;
+f) la dite écriture de régularisation était appuyée d'une note laconique « Dépôt non imposable » ;
+g) la dite écriture de régularisation n'était appuyée d'aucune pièce justificative et aucune explication ne fut fournie au ministre à propos du « Dépôt non imposable » ;
+h) le ministre a procédé à l'analyse des bordereaux de dépôt des comptes bancaires de la société, à l'égard de la période du 1er avril 1999 au 31 mars 2000, il n'a trouvé aucun dépôt non imposable de 45 000 $ ni aucun dépôt non imposable pouvant totaliser la dite somme;
+[...]
+18 Vu l'absence de preuve valable au contraire et vu la variance des versions de l'appelante concernant la non inclusion du montant de 45 000 $, je ne peux que conclure que c'est à la demande de l'unique administrateur de l'appelante que l'entrée erronée a été faite.
+[19] En l'espèce, la feuille de travail du comptable (pièce I-2) fait mention d'un dépôt non imposable de 45 000 $ décrit comme avance à l'administrateur. Or, malgré l'analyse du vérificateur et diverses tentatives d'obtenir les fondements d'une telle prétention, ce dernier n'a pas été en mesure de valider l'explication soumise par le comptable qui aurait, selon la conclusion du jugement précité, fait l'entrée en question à la demande même de l'appelant.
+[20] Pourquoi avoir procédé ainsi? Dans un premier temps, l'appelant a admis avoir été en retard pour produire sa demande de renouvellement de permis lui permettant d'exploiter son entreprise; comme la demande de renouvellement exigeait la production d'états financiers démontrant la viabilité de l'entreprise, il est raisonnable de penser qu'il a donné au comptable des instructions en conséquence, d'autant plus qu'il savait que le montant en question pourrait lui revenir plus tard libre d'impôt.
+[21] Après avoir constaté que sa planification douteuse ne donnerait pas le résultat escompté, il a voulu changer le cours des choses par le biais d'un emprunt, dont il a investi la majeure partie dans la société; il a alors réclamé le changement par le biais d'une déclaration modifiée, croyant que cela annulerait la partie de la cotisation liée à l'inscription de 45 000 $.
+[22] Le tribunal ne peut pas accepter cette façon de faire étant donné que la cotisation dont il est fait appel a été établie conformément aux dispositions de la Loi en toute conformité avec les faits soumis dans les déclarations de revenus.
+[23] L'appelant ne peut pas modifier, après coup, la nature d'une opération pour éviter rétroactivement les conséquences fiscales de la première opération. En fiscalité, tout contribuable peut organiser ses affaires de manière à réduire au minimum son fardeau fiscal qui sera établi à partir des faits soumis et disponibles et non pas à partir d'hypothèses théoriques ou d'intentions incertaines. En d'autres termes, une cotisation est établie à partir des faits réels et non pas à partir de ce que le contribuable voulait faire ou espérait faire.
+[24] Les montants qui ont été ajoutés aux revenus de l'appelant pour l'année d'imposition 2000 sont considérables. D'autre part, l'appelant a manifestement été négligeant et insouciant en ne déclarant que des revenus de l'ordre de 708,75 $, sachant pertinemment bien que cela était tout à fait invraisemblable.
+[25] Cette seule réalité est largement suffisante pour conclure à un comportement téméraire et insouciant au point de constituer des assises solides pour justifier de conclure à la présence d'une faute lourde et de conclure au bien-fondé de l'imposition des pénalités prévues par la Loi.
+[26] Quant à la pénalité pour production tardive, elle n'a pas fait l'objet d'observations, mais une telle preuve s'inférait de la seule date de la production de la déclaration, soit le 10 mai 2001.
+[27] Pour tous ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 4e jour de mai 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI259
+N º DU DOSSIER DE LA COUR : 2005-889(IT)I
+INTITULÉ DE LA CAUSE : Henri Louis Lessard et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 27 février 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 4 mai 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Claude Lamoureux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

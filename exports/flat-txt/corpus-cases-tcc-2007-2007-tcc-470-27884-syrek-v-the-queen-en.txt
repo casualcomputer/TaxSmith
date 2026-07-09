@@ -1,0 +1,188 @@
+Title: Syrek v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27884/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-470-27884-syrek-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-08-17
+
+# Syrek v. The Queen
+
+- Citation: 2007 TCC 470
+- Decision date: 2007-08-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1732, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Syrek v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-17
+Neutral citation
+2007 TCC 470
+File numbers
+2006-1469(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1469(IT)I
+BETWEEN:
+MICHAEL SYREK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+CHARLENE FERGUSON,
+Third Party.
+____________________________________________________________________
+Appeals heard on June 29, 2007, at Thunder Bay, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Brian R. MacIvor
+Counsel for the Respondent:
+Penny L. Piper
+Counsel for the Third Party:
+Rene Larson
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act in respect of the 2001, 2002, 2003 and 2004 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 17th day of August 2007.
+“L.M. Little”
+Little J.
+Citation: 2007TCC470
+Date: 20070817
+Docket: 2006-1469(IT)I
+BETWEEN:
+MICHAEL SYREK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+CHARLENE FERGUSON,
+Third Party.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] The Appellant separated from his common law spouse, Charlene Ferguson (“Ferguson”), in September 2001.
+[2] The Appellant and Ferguson have two children (the “Children”).
+[3] On November 21, 2001 the Appellant and Ferguson entered into an interim Separation Agreement (the “Separation Agreement”). (See Exhibit A-1, Tab 1)
+[4] The Separation Agreement provides, in part, as follows:
+(a) Paragraph 6:
+“Syrek shall pay to Ferguson for her support, the sum of $2,000.00 per month, payable in bi-weekly installments of $923.00, commencing on the 6th day of December, 2001, and continuing on a bi-weekly basis thereafter, to coincide with Syrek’s pay periods.”
+(b) Paragraph 7:
+“Syrek and Ferguson acknowledge that the execution of this agreement shall not be construed as any indication that Syrek is able or liable to pay spousal support in the amount set out herein, or at all.”
+(c) Paragraph 8:
+“Syrek and Ferguson agree that this agreement is entered into without prejudice to the rights of Syrek or Ferguson to have the issue of spousal support determined in judicial proceedings, and that this agreement regarding spousal support shall not be referred to by Syrek or Ferguson…in any proceedings for spousal support instituted by either of them…”
+[5] The Appellant maintains that since December 6, 2001, he has made all of the required spousal support payments to Ferguson.
+[6] The Appellant maintains that the amount of spousal support payments made by him for each of the applicable taxation years is as follows:
+(a) 2001 $ 1,846.00;
+(b) 2002 $23,998.00;
+(c) 2003 $23,998.00; and
+(d) 2004 $23,998.00.
+(Note: Ferguson does not agree that the Appellant paid all of these payments.)
+[7] When the Appellant submitted his income tax returns for the taxation years 2001, 2002, 2003 and 2004, he deducted from his income the spousal support payments as outlined in paragraph [6] above.
+[8] The Minister of National Revenue (the “Minister”) reassessed the Appellant on November 1, 2004 for the taxation years 2001 and 2002. The Minister held that the spousal support payments were not deductible because of the wording contained in the Separation Agreement.
+[9] The Minister reassessed the Appellant on June 6, 2005 for the taxation years 2003 and 2004 and the Minister held that the spousal support were not deductible because of the wording contained in the Separation Agreement.
+[10] On August 19, 2005 the Appellant filed Notices of Objection for the taxation years 2001, 2002, 2003 and 2004 with respect to the above reassessments.
+[11] By letter dated January 20, 2006 the Minister confirmed the reassessments for the taxation years 2001, 2002, 2003 and 2004.
+B. ISSUE
+[12] The issue to be determined is whether the Appellant is entitled to obtain deductions of the following amounts in computing his income for the years indicated:
+2001 $ 1,846.00;
+2002 $23,998.00;
+2003 $23,998.00; and
+2004 $23,998.00
+C. ANALYSIS AND DECISION
+[13] Subsection 56.1(4) of the Income Tax Act (the "Act") defines "child support amount", "commencement day" and "support amount". Subsection 56.1(4) reads as follows:
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or former spouse of the payer or who is a parent of a child of whom the payer is a natural parent.
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or former spouse of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[14] "Support" in paragraph 60(b) of the Act reads as follows:
+(b) Support -- the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+[15] The Minister has determined that for the purposes of subsection 60(b) of the Act that the Separation Agreement is not a binding legal agreement.
+[16] In considering the position adopted by the Minister that the Separation Agreement was not binding on the parties I refer to the Examination of Andrea Ashenbrenner (Ms. Ashenbrenner was the Appellant’s lawyer and she prepared the Separation Agreement).
+[17] The following exchange took place:
+Mr. McIvor – transcript page 8, lines 5-25; page 9, lines 1-2:
+Q. On that same page three, which is the bulk of paragraph five which appears on page three, there is a reference to support of the children and it makes reference in the last two sentences. Could you explain to the Court why there is an absence of child support on this occasion?
+A. First of all, it has to be kept in mind that this was an interim agreement. Nothing was resolved in terms of the ultimate custody arrangements that would be in place. At this point in time there was a joint custody and equal sharing of time with one child and the other child was living primarily with Ms. Ferguson. It was always Mr. Syrek's hope and desire that ultimately this matter would be resolved on a basis of an equal sharing of time with both children, and you will note that there is a provision in here that says that the parties were going to be discussing the access arrangements with a view to insuring that the best interests of the children would be met so this was nothing that was carved in stone. It was just a temporary arrangement. (Underlining added)
+…
+Mr. Larson (Counsel to Ferguson asked Ms. Ashenbrenner to answer the following questions) – transcript page 14, lines 7-25; page 15, line 1:
+Q. Now, going to the agreement itself
+A. I have it here.
+Q. Okay. On page six, paragraph twelve, is it correct to interpret this document that, if the house sold first before there was either a permanent separation or before there was a court order, that this agreement would be at an end?
+A. Yes. It was an interim agreement. (Underlining added)
+Q. Was there any obligation to actively take steps to sell the house?
+A. I don't recall. There is a provision in the agreement that says that the parties had agreed to list it for sale. I would suspect that the delay to the January date was because of the Christmas holidays were coming up quickly at the time this agreement was signed. It was late November.
+…
+Cross-examination by Ms. Piper – transcript page 20, lines 11-25; page 21, lines 1-19:
+Q. I just have one question. Well, two. Is it [sic] there a program in Ontario for the enforcement of orders or agreements?
+A. Yes.
+Q. Is it called the Ontario Family Support Program or something along those lines?
+A. Family Responsibility Office, yes.
+Q. Just for clarification purposes, would someone in Ms. Ferguson's situation rely on tab one of the agreement?
+A. What is tab one of the agreement?
+Q. Sorry. The agreement that you have before you?
+A. Yes.
+Q. Considering the language of paragraph seven, in your view, and I know that you are not a legal expert but just your comments, would this agreement be enforceable under that program?
+A. No, it would not. If she wanted to enforce the payments being made, she would have had to get another agreement or court order setting the amount of the support.
+Q. Is it fair to say that this agreement is not enforceable on a provincial application?
+A. I don't know if it would be fair to say that. I think it would be fair to say that Ms. Ferguson could not enforce the spousal support component of this agreement through the Family Responsibility Office. (Underlining added)
+[18] Section 7 of the Separation Agreement provides that “… this agreement shall not be construed as any indication that Syrek is able or liable to pay spousal support in the amount set out herein, or at all”.
+[19] In reviewing the wording contained in paragraph 7 of the Separation Agreement I have concluded that the Appellant was not liable to pay the spousal support in the amounts as outlined above. In other words the Separation Agreement was not binding on the Appellant.
+[20] In reaching my conclusion that the Separation Agreement did not create a legal obligation on the Appellant to pay spousal support to Ferguson I have referred to a number of Court decisions.
+[21] In Hock v. Canada, [2003] T.C.J. No. 547, the Honourable D.J. Rowe, Deputy Judge of the Tax Court of Canada was considering the deduction of spousal support payments by the Appellant. At paragraphs [9] and [10] of his Reasons for Judgment Judge Rowe said:
+[9] … A close reading of the agreement - Exhibit A-1 - does not reveal any binding obligation on the part of the appellant as payer. There is no consideration flowing from Rebecca Hock in that she did not forego any right to legal action - actual or contemplated - in return for obtaining his promise to make certain payments on a periodic basis or for any future specific purpose. The clause concerning the additional payments read as follows:
+Additional payments will be in the form of both Specific-Purpose Payments and Periodic Payments. These additional payments will all be Third Party Payments. All of these payments are for the benefit of the recipient.
+[10] In my view, the language utilized is contemplative because - as the appellant stated in his testimony - he was not certain of the exact nature and extent of the financial demands about to be thrust upon him - in 2000 - due to the changed circumstances flowing from the loss of his wife's employment and the ability to earn an annual salary equal to his own. In that sense, the appellant chose not to bind himself specifically to any particular payment schedule and wanted to maintain a certain amount of control over the manner in which any payments would be made.
+[22] At paragraph [14] Judge Rowe said:
+[14] Returning to the within appeal, it is apparent the so-called agreement - Exhibit A-1 - did not compel the appellant to make any additional payments for any particular purpose on any basis, periodic or otherwise. Instead, it was an expression of good will on his part and it should be noted that he contributed a huge proportion of his net pay to support his children and - indirectly - his wife. In my view, had the agreement been worded properly by setting out the amount and nature of the payments to BC Hydro with respect to not only the monthly consumption bills but also the repayment of the cost of the energy renovation loan, the appellant would have been entitled to the deductibility sought. Similarly, the mechanism for the monthly payment of the mortgage could have been set forth in an agreement so as to make it clear that it was clearly a support payment within the provisions of the Act. By agreement, parties cannot bind the Minister to assessing a named person in a specific manner in respect of monies paid and received if the intended result is not supported by relevant provisions of the Act.
+[23] The decision of Judge Rowe in Hock was upheld by the Federal Court of Appeal (see 2004 FCA 336).
+[24] Since the Separation Agreement was not a binding legal document compelling the Appellant to pay spousal support payments to Ferguson I have concluded that the Appellant is not entitled to claim a deduction for spousal support paid in the 2001, 2002, 2003 and 2004 taxation years within the meaning of subsection 60(b) of the Act. It also follows that the spousal support does not meet the definition of “support amount” in accordance with subsection 56.1(4) of the Act.
+[25] The appeals are dismissed without costs.
+Signed at Vancouver, British Columbia, this 17th day of August 2007.
+“L.M. Little”
+Little J.
+CITATION: 2007TCC470
+COURT FILE NO.: 2006-1469(IT)I
+STYLE OF CAUSE: Michael Syrek
+and Her Majesty the Queen and
+Charlene Ferguson
+PLACE OF HEARING: Thunder Bay, Ontario
+DATE OF HEARING: June 29, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: August 17, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Brian R. MacIvor
+Counsel for the Respondent:
+Penny L. Piper
+Counsel for the Third Party
+Rene Larson
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Brian R. MacIvor
+Firm: Brian MacIvor Law Office
+Thunder Bay, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

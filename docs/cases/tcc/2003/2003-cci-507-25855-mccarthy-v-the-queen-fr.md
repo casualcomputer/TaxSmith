@@ -1,0 +1,128 @@
+---
+title: "McCarthy v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25855/index.do"
+last_modified: "2003-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 507"
+citation2: ""
+neutral_citation: "2003 CCI 507"
+decision_date: "2003-07-22"
+language: "fr"
+item_id: "25855"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3914
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:57:20.782000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0420939a8f93c9fcaa7298c765497673c55dd193921c99b5fa658909499eac0a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCarthy v. The Queen
+
+- Citation: 2003 CCI 507
+- Decision date: 2003-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3914, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCarthy v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-22
+Référence neutre
+2003 CCI 507
+Numéro de dossier
+2002-4483(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-4483(IT)I
+ENTRE :
+WILLIAM MCCARTHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 juillet 2003 à London (Ontario)
+Devant l'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant en personne
+Avocate de l'intimée :
+Me Marlyse Dumel
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999, 2000 et 2001 sont rejetés conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), le 22 juillet 2003.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 2e jour de mai 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI507
+Date: 20030722
+Dossier: 2002-4483(IT)I
+ENTRE :
+WILLIAM MCCARTHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier, C.C.I.
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu à London (Ontario) le 10 juillet 2003. L'appelant était le seul témoin.
+[2] Les paragraphes 6 à 9 de la réponse à l'avis d'appel se lisent comme suit :
+[TRADUCTION]
+6. Le ministre a établi une nouvelle cotisation relative à l'appelant pour les années d'imposition 1999, 2000 et 2001, réduisant à 880 $ la déduction pour versements de pension alimentaire en 1999 et refusant les déductions pour versements de pension alimentaire demandées en 2000 et 2001. Les avis concomitants ont été mis à la poste le 22 avril 2001.
+7. Le ministre a fondé cette nouvelle cotisation sur les hypothèses de fait suivantes :
+(a) tout au long des années 1999, 2000 et 2001, l'appelant était divorcé de son ex-conjointe (la « conjointe » );
+(b) aux termes d'une ordonnance de la Cour datée du 20 juin 1986 (la « première ordonnance » ), l'appelant devait verser une pension alimentaire pour enfants de 216,66 $ par mois à l'égard de chacun de ses trois enfants, Francis John McCarthy ( « Francis » ), Erin Julia McCarthy ( « Erin » ) et Olive Kathleen McCarthy ( « Kathleen » ), ce qui représente un total de 649,98 $;
+(c) l'appelant et la conjointe n'ont pas signé de document pour choisir l'option d'appliquer les anciennes règles fiscales aux versements de pension alimentaire pour enfants effectués après le 30 avril 1997;
+(d) l'appelant a accumulé des arriérés au titre de la pension alimentaire pour enfants qu'il devait payer;
+(e) d'après une ordonnance de la Cour datée du 30 août 1999 (la « deuxième ordonnance » ), les montants de pension alimentaire pour enfants établis par la première ordonnance étaient modifiés, tous les arriérés accumulés jusqu'au 1er janvier 1999 exclusivement devaient être annulés, et l'appelant devait commencer à verser le montant en souffrance de 1 438,18 $ couru pendant la période allant du 1er janvier au 30 juin 1999;
+(f) d'après les modalités de la deuxième ordonnance, l'appelant devait, à compter du 31 décembre 1998, cesser de verser des montants de pension à l'égard de Francis et continuer à verser les mêmes montants totaux de pension alimentaire pour enfants qu'auparavant, sauf que ce serait à l'égard d'Erin et d'Olive seulement;
+(g) conformément à la deuxième ordonnance, le montant à payer pour Erin et Olive respectivement était plus élevé que le montant qui avait été ordonné pour chacun d'entre eux aux termes de la première ordonnance;
+(h) le montant total des versements de pension alimentaire pour enfants effectués par l'appelant au cours des années d'imposition 2000 et 2001 n'a pas dépassé le montant exigé par la deuxième ordonnance;
+(i) au cours des années d'imposition 1999, 2000 et 2001, le montant déductible par l'appelant à l'égard des versements de pension alimentaire pour enfants effectués par lui au cours de ces années était respectivement de 880 $, de 0 $ et de 0 $.
+B. QUESTIONS EN LITIGE
+8. Il s'agit de savoir si les montants de 7 479 $, de 6 262 $ et de 4 386 $ déduits par l'appelant à titre de versements de pension alimentaire pour enfants étaient déductibles du revenu de l'appelant respectivement à l'égard des années d'imposition 1999, 2000 et 2001.
+C. DISPOSITIONS LÉGISLATIVES, MOTIFS INVOQUÉS ET REDRESSEMENT RECHERCHÉ
+9. Il invoque les articles 56, 60 et 60.1, les paragraphes 56.1(4) et 60.1(4) et l'alinéa 60b) de la Loi de l'impôt sur le revenu, L.R.C. 1985 (5e suppl.) ch. 1 (la « Loi » ) dans sa version modifiée pour les années d'imposition 1999, 2000 et 2001.
+[3] L'avocate de l'intimée a déposé en preuve les ordonnances en question de la Cour ainsi qu'un accord provisoire signé entre les dates des deux ordonnances susdites (pièces R-1, R-2 et R-3).
+[4] Le témoignage de l'appelant lui-même contenait une description des modalités et interprétations des ordonnances, accords et actions des parties tout au long d'une période d'hostilités amères qui durent maintenant depuis 17 ans, avec plusieurs accusations de retenue ou de non-versement de pension alimentaire pour enfants et au moins une confrontation en public. Les parties n'ont pas réfuté l'interprétation des résultats des ordonnances et de l'accord qui est contenue dans les hypothèses émises dans la réponse.
+[5] Le résultat en est que cette cause est identique, dans ses effets et répercussions, à celle traitée par le juge en chef adjoint Bowman dans l'affaire Kovarik c. Canada, [2001] A.C.I. no 181 concernant les ordonnances en question dans la présente affaire.
+[6] Une copie de l'arrêt Kovarik a été remise à l'appelant par l'avocate de l'intimée.
+[7] En l'occurrence, le présent appel est rejeté pour les motifs décrits dans l'affaire Kovarik.
+Signé à Vancouver (Colombie-Britannique), le 22 juillet 2003.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 2e jour de mai 2005.
+Mario Lagacé, réviseur

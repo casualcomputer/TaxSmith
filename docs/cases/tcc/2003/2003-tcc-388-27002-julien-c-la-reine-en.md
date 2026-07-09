@@ -1,0 +1,147 @@
+---
+title: "Julien c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27002/index.do"
+last_modified: "2003-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 388"
+citation2: ""
+neutral_citation: "2003 TCC 388"
+decision_date: "2003-06-04"
+language: "en"
+item_id: "27002"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 547
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:05:30.016000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e05f24011d417dfd22c816b61cc0636c3d217cc1022744e0eb141cc4f9f1f52b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Julien c. La Reine
+
+- Citation: 2003 TCC 388
+- Decision date: 2003-06-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 547, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Julien c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-04
+Neutral citation
+2003 TCC 388
+File numbers
+2002-1762(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1762(IT)I
+BETWEEN:
+SONYA JULIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 28, 2003, and judgment delivered from the bench
+at Rouyn-Noranda, Quebec
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Sylvie Roy
+Counsel for the Respondent:
+Yanick Houle
+____________________________________________________________________
+JUDGMENT
+The appeal from the Canada Child Tax Benefit determination for the period from May 1999 to May 2001 regarding Gabriel Milhomme-Julien is allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of June 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.
+Citation: 2003TCC388
+Date: 20030604
+Docket: 2002-1762(IT)I
+BETWEEN:
+SONYA JULIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+LamarreProulx, J.T.C.C.
+[1] This appeal, heard under the informal procedure, concerns the Canada Child Tax Benefit for the period from May 1999 to May 2001.
+[2] At issue is whether, during that period and regarding Gabriel Milhomme-Julien, the appellant was the eligible individual as defined in section 122.6 of the Income Tax Act ("the Act").
+[3] In a redetermination, the Minister of National Revenue ("the Minister") revised the amount of the appellant's Canada Child Tax Benefit to zero and established the amount of the overpayment at $4,432.67.
+[4] In making the redetermination, the Minister relied on the assumptions of fact set out in paragraph 6 of the Reply to the Notice of Appeal ("the Reply") as follows:
+[TRANSLATION]
+(a) the appellant is the aunt of Gabriel Milhomme-Julien, born on January 11, 1998;
+(b) the parents of Gabriel are Sindy Milhomme and Sacha Julien;
+(c) Sacha Julien is the appellant's brother;
+(d) in March 2000, the appellant filed a Canada Child Tax Benefit application regarding Gabriel;
+(e) on September 20, 2000, having received no response to a questionnaire sent to Sindy Milhomme, the Minister decided to consider the appellant the eligible individual with respect to Gabriel and, using 1997, 1998 and 1999 as base taxation years, issued a Canada Child Tax Benefit redetermination for the following periods:
+(i) May and June 1999;
+(ii) from July 1999 to June 2000; and
+(iii) from July to September 2000;
+(f) after Sindy Milhomme filed a Canada Child Tax Benefit application concerning Gabriel in March 2001, the Minister re-examined the file;
+(g) in response to the questionnaire sent to her by the Minister around April 9, 2001, Sindy Milhomme, Gabriel's mother, stated as follows:
+(i) from the time Gabriel was born to April 1999, the couple lived together and looked after the child;
+(ii) from May 1999 to August 2000, the couple was separated, the child resided primarily with the mother, and the father had custody of the child every other weekend;
+(iii) after the mother moved to the neighbouring province (Ontario) in September 2000 to early November 2000, the father took custody of the child one week per month, and the rest of the time the child was in the mother's custody;
+(iv) from November 5, 2000, to December 8, 2000, the child was entrusted to the father since the mother was hospitalized; and
+(v) starting on December 14, 2000, there was a shared custody agreement between the mother, the father and the appellant, that is, when the father had custody of the child, the child resided with the appellant;
+(h) following this re-examination, the Minister considered the mother, Sindy Milhomme, the eligible individual with respect to Gabriel, relying on the fact that the appellant [sic] was primarily with her and that the appellant acted more as a babysitter when her brother had custody of the child.
+[5] The Notice of Appeal reads in part as follows:
+[TRANSLATION]
+...
+Our client, Sonya Julien, has looked after the upbringing of Gabriel since he was born. The child was entrusted to her by the parents for lengthy periods of time, and it was only when our client took steps to obtain family allowances, child tax benefits and legal custody of Gabriel that the mother, Sindy Milhomme, re-emerged and wanted to get back custody of Gabriel.
+Our client has assumed all the expenses related to the child, such as clothing, activities, health care and any other child-related expenses, as will be more fully established.
+...
+[6] The witnesses for the appellant were Sarah Julien, Claudette Labrecque, the appellant herself, Joan-Marie Bédard, Anne-Marie Allard and Annie Barrette. The witnesses for the respondent were Sacha Julien, Sindy Milhomme and Carole Tourangeau.
+[7] Sarah Julien is the appellant's older sister. She explained that Gabriel's mother was young when the child was born; the evidence subsequently established that she was 17 years old. In the beginning, in order to help the child's mother, Anne-Marie Allard (the child's grandmother) and the appellant (the child's aunt) often babysat Gabriel. According to the witness, it may be said that the parents looked after the child at the beginning, although very often the witness's sister and mother would baby-sit him. Afterwards, starting in April 1998, some three or four months after Gabriel was born, the child would reside with these two women for several consecutive days. Then, these consecutive days became more or less permanent since the parents would take the child with them only sporadically.
+[8] It was the appellant who purchased everything required to care for the child, including diapers and milk. As the need arose, she also purchased the equipment and clothing a child needs.
+[9] What the appellant's sister recalls of that period of time is that Gabriel was always present when she went to visit her sister and mother in the apartment in the McWatters neighbourhood.
+[10] The next witness was Claudette Labrecque. She is the owner of the apartment building in McWatters where the appellant and her mother lived in the basement. The witness lived in a house next to where the appellant lived. She confirmed that Gabriel seemed not to be visiting or being babysat but to be at home.
+[11] In testifying herself, the appellant reiterated the facts stated by her sister. At the beginning, she and her mother looked after the child in order to help the parents. That situation quickly became one in which the child was always in their care. The child's mother continued to show up but for one or two days per week.
+[12] In 1998, the appellant was 21 years old and resided with her mother. These two women moved to McWatters in 1998. Even then, Gabriel was so often with them that they wondered whether they should rent a three-bedroom apartment. They decided against it. Afterwards, when they moved again to the Granada neighbourhood in 2000, they rented a three-bedroom apartment because Gabriel was part of the family. He had his own room in the apartment. Photographs were adduced as Exhibit A-1. They show that the child was genuinely part of the family circle. These are actual photographs. One photograph, adduced as Exhibit A-2, shows Gabriel and the appellant a few years ago disguised as clowns ready for trick or treating.
+[13] In November 2000, the appellant applied for legal custody of the child. There were some lawsuits but on November 28, 2001, the appellant obtained legal custody of Gabriel. The Quebec Superior Court judgment giving her custody was adduced as Exhibit A-3. The plaintiff was Sindy Milhomme and the defendants were Sacha Julien and Sonya Julien, the appellant.
+[14] Joan-Marie Bédard has been a friend of the appellant since 1993. She therefore saw that her friend looked after the child like a mother and that the child was happy. The appellant knew how to exercise the necessary discipline, and the child did as he was told.
+[15] Anne-Marie Allard is the child's grandmother. She stated that Gabriel has been living with her and her daughter since he was three months old. Gabriel continued to see his parents one or two days per week. He was now five years old and continued to live with these two women.
+[16] Annie Barrette has known the appellant since January 1995. She confirmed the facts already stated.
+[17] Sacha Julien testified at the request of counsel for the respondent. He is the child's father. He did not confirm the assumptions of fact set out by the Minister in the Reply. He stated that, starting in June 1998, it was primarily Sonya (the appellant) and the child's mother who looked after Gabriel. He explained that he and the child's mother continued to see Gabriel but more as babysitters, without primarily fulfilling the responsibility for the care and upbringing of the child. He denied that certain documents apparently signed by him and appearing at Tab 3 of Exhibit I-1 bore his actual signature.
+[18] Sindy Milhomme, the child's mother, testified. Her testimony was inconsistent with that of the previous witnesses concerning parental responsibility for Gabriel. She stated that she was the one who primarily fulfilled that responsibility and that the appellant was a babysitter. Furthermore, she had entrusted Gabriel not to the appellant but to the child's grandmother, Ms. Allard. The witnesses' versions concerning the various places of residence were consistent with one another.
+[19] Carole Tourangeau, a friend of Ms. Milhomme, stated that from October to December 1999, she resided with Ms. Milhomme. The child lived with them and the child's father came to see them regularly.
+[20] When the arguments were made, counsel for the respondent left the entire matter to the Court's discretion.
+[21] I have allowed the appellant's appeal, relying on the Quebec Superior Court judgment adduced as Exhibit A-3 and on the witnesses' credibility.
+[22] Indeed, the November 28, 2001, Quebec Superior Court judgment gives legal custody of Gabriel to Sonya Julien. That judgment took into account reports by experts and the testimony of witnesses. A judgment of that nature, in which the parties are, on the one hand, the child's biological mother and, on the other hand, the child's father and the father's sister, who claims to fulfil parental responsibility, cannot be based on recent facts. It is a factual situation that necessarily developed long before the decision was made.
+[23] That judgment refers to experts' reports. It would have been interesting to consult those reports since it may be assumed that they describe the situation between the parties. In any case, in conclusion that judgment gave legal custody to the appellant.
+[24] As the child's biological mother, Sindy Milhomme could believe that she primarily fulfilled the parental responsibility since at any time she could claim and demand the presence of her child, as she occasionally did. During those years, she kept in touch with her son and with the child's father. Apparently, she even kept the child with her for certain periods, although never for prolonged periods. She stated that she had entrusted her child to the grandmother, not to the aunt. On this point, if I may say so, I believe that custody of the child would not have been possible without the aunt's active participation.
+[25] In conclusion, I find that the evidence has clearly established that during the period at issue the child's aunt was the person who primarily fulfilled the responsibility for the care and upbringing of Gabriel and that Gabriel resided with her.
+[26] The appeal is allowed with costs.
+Signed at Ottawa, Canada, this 4th day of June 2003.
+"Louise Lamarre Proulx"
+J.T.C.C.

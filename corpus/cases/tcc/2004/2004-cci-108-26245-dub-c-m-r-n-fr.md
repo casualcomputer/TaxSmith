@@ -1,0 +1,244 @@
+---
+title: "Dubé c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26245/index.do"
+last_modified: "2004-02-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 108"
+citation2: ""
+neutral_citation: "2004 CCI 108"
+decision_date: "2004-02-18"
+language: "fr"
+item_id: "26245"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4042
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:47:35.972000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e4f2e9ae1d8e2ceff585cd774d9d0b6fc7bd77ba0400a31632fe063a19276573"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dubé c. M.R.N.
+
+- Citation: 2004 CCI 108
+- Decision date: 2004-02-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4042, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dubé c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-18
+Référence neutre
+2004 CCI 108
+Numéro de dossier
+2002-2759(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-2759(EI)
+ENTRE :
+SIMON DUBÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Patrick Dubé (2002-2760(EI)) le 25 novembre 2003
+à Rivière-du-Loup (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocate de l'appelant :
+Me Nancy Lajoie
+Avocate de l'intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre du Revenu national est infirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de février 2004.
+« François Angers »
+Juge Angers
+Dossier : 2002-2760(EI)
+ENTRE :
+PATRICK DUBÉ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Simon Dubé (2002-2759(EI)) le 25 novembre 2003
+à Rivière-du-Loup (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocate de l'appelant :
+Me Nancy Lajoie
+Avocate de l'intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de février 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI108
+Date : 20040218
+Dossiers : 2002-2759
+2002-2760
+ENTRE :
+SIMON DUBÉ,
+PATRICK DUBÉ,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge François Angers
+[1] Il s'agit de deux appels interjetés à l'encontre de décisions du ministre du Revenu national (le ministre) rendues le 26 juin 2002. Ces appels ont été entendus sur preuve commune. Dans le dossier de Simon Dubé, le ministre a décidé, après avoir examiné les modalités de l'emploi auprès de Excavation Dubé 2002 Inc. (le payeur), que cet emploi n'était pas assurable pendant la période du 14 mai au 14 septembre 2001 parce qu'un contrat de travail semblable n'aurait pas été conclu s'il n'y avait pas eu de lien de dépendance, au sens de l'alinéa 5(2)i) et du paragraphe 5(3) de la Loi sur l'assurance-emploi (la Loi) entre Simon Dubé et le payeur.
+[2] Dans le dossier de Patrick Dubé, le ministre informait ce dernier que, pendant la période en litige, soit du 16 juillet au 12 octobre 2001, il n'avait pas exercé un emploi assurable pour le payeur parce qu'il contrôlait dans les faits plus de 40% des actions avec droit de vote du payeur.
+[3] En rendant sa décision dans le dossier de Simon Dubé, le ministre s'est fondé sur les présomptions de faits suivantes, lesquelles ont été admises ou niées tel qu'indiqué :
+a) le payeur a été constitué en société le 3 novembre 2000 sous le nom de 9097-3313 Québec Inc.; [admis]
+b) le 15 mai 2001, le payeur obtenait un changement de nom de l'Inspecteur général des institutions financières, soit de 9097-3314 Québec Inc. à Excavation Dubé 2000 Inc.; [admis]
+c) les activités du payeur consistaient à des travaux d'excavation et d'aménagement forestier ; [admis]
+d) le payeur possédait une pelle mécanique d'une valeur de 185 000 $, d'un bulldozer d'une valeur de 30 000 $, d'une remorque et des outils d'une valeur de 20 000 $ et d'un camion ; [admis]
+e) selon le registre des actionnaires, les actionnaires du payeur étaient prétendument ;
+Steeve Dubé 100 actions votantes
+Jacqueline Dubé 100 actions votantes
+Patrick Dubé 100 actions votantes [nié]
+f) l'appelant est le conjoint de Jacqueline Dubé et il est le père de Steeve Dubé et de Patrick Dubé; [admis]
+g) l'appelant s'occupait de la gestion du payeur avec son fils Steeve; [nié]
+h) l'appelant avait fait une faillite personnelle le 16 mai 2001 et ne pouvait pas occuper un poste d'administrateur ; [nié]
+i) les tâches de l'appelant consistaient à rechercher les contrats pour le payeur, à entretenir la machinerie et à gérer les chantiers ; [nié]
+j) le 17 septembre 2001, le payeur émettait un relevé d'emploi à l'appelant, pour la période commençant le 14 mai 2001 et se terminant le 14 septembre 2001 et qui indiquait 623 heures assurables et une rémunération assurable totale de 9 718 $ ; [admis]
+k) le relevé d'emploi n'est pas conforme à la réalité quant à la période ; [nié]
+l) avant et après la période en litige, l'appelant rendait des services au payeur sans rémunération déclarée ; [nié]
+m) la période prétendument travaillée de l'appelant ne correspondait pas avec la période réellement travaillée. [nié]
+[4] Les présomptions de faits sur lesquelles le ministre a fondé sa décision dans le dossier de Patrick Dubé sont reproduites ci-dessous à l'exception des paragraphes a) à e) qui sont identiques à ceux du dossier Simon Dubé. Les présomptions de faits ont été admises ou niées selon l'indication :
+f) Jacqueline Dubé est la mère de l'appelant et de Steeve Dubé; [admis]
+g) l'appelant et Steeve Dubé ont prêté 4 000 $ chacun au payeur après avoir obtenu une subvention gouvernementale ; [nié]
+h) l'appelant et Steeve Dubé possédaient des actions privilégiées non votantes d'une valeur de 7 500 $ chacun ; [admis]
+i) l'appelant et Steeve Dubé ont donné des cautions personnelles pour différents emprunts du payeur ; [admis]
+j) le 10 décembre 2001, à un représentant de l'intimé, Jacqueline Dubé déclarait ne rien avoir payé pour ses actions et n'avoir rien investi dans le payeur ; [nié]
+k) Jacqueline Dubé ne participait pas aux décisions du payeur ; [nié]
+l) la répartition des actions du payeur est un trompe-l'oeil ; [nié]
+m) l'appelant et Patrick Dubé était les seuls véritables actionnaires du payeur. [nié]
+[5] L'appelant Simon Dubé est âgé de 50 ans. Avant d'aller travailler pour le payeur, il était propriétaire exploitant d'une entreprise d'excavation spécialisée. Sa société a mis fin à ses activités en 1996 après avoir perdu le droit de monter des tours à haute tension. Simon Dubé s'est déclaré en faillite personnelle en mai 2001. Après avoir essayé de vendre le matériel de sa société dont un tracteur sur chenilles, la Caisse Populaire, qui avait fourni le financement, en a pris possession.
+[6] À l'automne 2000, Simon Dubé travaillait à titre d'employé pour des tiers lorsque ses deux fils, Steeve et Patrick Dubé, lui ont parlé de constituer une compagnie d'excavation. Ils ont invité Simon Dubé à se joindre à eux mais ce dernier n'était pas intéressé à participer à une telle entreprise ni de la diriger. Les deux fils préféraient travailler dans ce domaine plutôt que de travailler dans une usine. En novembre 2000, ils ont constitué la compagnie payeuse dans le but de faire des travaux d'excavation et de l'aménagement forestier.
+[7] Le capital actions du payeur a été divisé en trois parts égales entre les deux fils de Simon Dubé, Steeve et Patrick, et son épouse Jacqueline. Cette dernière n'a toutefois pas déboursé d'argent pour faire l'acquisition de sa part du capital-actions. Elle a fourni des services de tenue de livre et a effectué du travail de bureau sans rémunération en contrepartie des actions. Elle voulait des actions dans le but de pouvoir en tirer un bénéfice éventuel.
+[8] La compagnie payeuse s'est donc dotée d'une structure financière lui permettant d'entreprendre ses activités. Les actionnaires Steeve et Patrick Dubé se sont vus octroyer la somme de 4 000 $ chacun parce qu'ils étaient âgés de moins de 35 ans, somme qu'ils ont investie dans l'entreprise. Ils étaient également admissibles au programme de Stratégie Jeunesse offert par la SADC de leur région. De plus, la compagnie payeuse a eu recours à du financement plus conventionel. Voici une brève description de ce financement :
+- Un prêt de 2 000 $ obtenu de la Caisse Populaire Desjardins de la Pocatière le 16 novembre 2000 et servant de mise de fonds pour la location par le payeur d'une camionnette. Steeve et Patrick Dubé, à titre de représentants du payeur, ont signé le contrat et les trois actionnaires se sont portés garants de ce prêt. La résolution d'emprunt est signée par Steeve Dubé.
+- Un prêt de 11 500 $ obtenu de la Caisse Populaire Desjardins de la Pocatière le 9 février 2001 pour faire l'acquisition d'un tracteur sur chenilles. Steeve et Patrick Dubé, à titre de représentants du payeur, ont signé le contrat et les trois actionnaires se sont portés garants de ce prêt jusqu'à 2 875 $. La résolution d'emprunt est signée par madame Jacqueline Dubé.
+- Un prêt de 26 500 $ obtenu de la Caisse Populaire Desjardins de Rivière Ouelle le 23 mars 2001 pour l'achat d'un tracteur sur chenilles et d'un pouce hydraulique pour pelle mécanique. Steeve et Patrick Dubé, à titre de représentants du payeur, ont signé le contrat et ont garanti le prêt. Madame Jacqueline Dubé a signé la résolution d'emprunt et son cautionnement n'était pas nécessaire.
+- Une marge de crédit de 5 000 $ et un prêt à terme de 11 000 $ de la Caisse Populaire Desjardins de la Pocatière en date du 9 février 2001. Le but du prêt à terme était d'accorder au payeur un fonds de roulement. Le remboursement du prêt sur marge a été garanti par Steeve, Patrick et Jacqueline Dubé jusqu'à 2 500 $. Une mise en garantie d'épargne au montant de 2 500 $ a été accordée par l'appelant Simon Dubé. Le contrat de prêt à terme a été garanti par Michel Chamard jusqu'à 7 000 $ et par Steeve, Patrick, Jacqueline et Simon Dubé pour le plein montant. Les résolutions d'emprunt ont été signées par Jacqueline Dubé dans les deux cas.
+- Une autre marge de crédit de 5 000 $ obtenue de la Caisse Populaire Desjardins de Rivière Ouelle le 23 mars 2001. Le contrat de crédit variable est signé et garanti par Steeve et Patrick Dubé. Le contrat d'hypothèque mobilière est signé par Steeve et Patrick Dubé.
+[9] Une convention entre actionnaires a été signée le 26 avril 2001. La valeur des actions n'a pas été déterminée par les actionnaires malgré ce que la convention prévoyait.
+[10] Steeve Dubé est président du payeur. Il fait fonctionner la machinerie et est à la recherche de contrats. Il utilise l'internet afin de consulter différents appels d'offres et vérifie les contrats afin d'offrir des services en sous-traitance. Les activités du payeur ont commencé le 15 juillet 2001.
+[11] L'appelant Simon Dubé a été embauché le 14 mai 2001. Son travail consistait à réparer et à préparer la machinerie. Son expérience était un atout considérable pour le payeur. Aidé de son fils Steeve, il a mis en état de fonctionnement le tracteur sur chenilles que la compagnie avait acheté de la Caisse Populaire et qui appartenait auparavant à la compagnie de Simon Dubé. Ils ont remplacé les chenilles sur ce tracteur. L'autre appelant, Patrick Dubé, avait un emploi ailleurs et ce n'est que le 16 juillet 2001 qu'il a commencé à travailler pour le payeur.
+[12] Simon Dubé a travaillé 25 heures par semaine pour le payeur à un taux horaire de 15,00 $. Les activités du payeur en vertu de son premier contrat ont commencé le 15 juillet 2001. Le payeur devait aménager des pistes de ski à la Petite Rivière St-François. Simon, Patrick et Steeve Dubé ont travaillé pour le payeur dans le cadre de ce contrat. Étant donné son expérience, Simon Dubé avait la responsabilité de distribuer les tâches au début de la journée de travail selon une entente convenue entre le payeur et le représentant de la Petite Rivière St-François.
+[13] Le contrat s'est terminé le 12 octobre 2001 mais Simon Dubé a cessé de travailler le 14 septembre 2001 étant donné qu'il n'y avait pas assez de travail pour la machine qu'il conduisait. La compagnie payeuse a par la suite obtenu d'autres contrats dans la région de Baie-Comeau de décembre 2001 à la fin d'avril 2002 et a employé les trois travailleurs.
+[14] Steeve Dubé est celui qui fait la recherche des contrats. Il consulte son frère Patrick de même que son père et sa mère. Steeve Dubé consulte Simon Dubé en raison de son expérience et surtout de ses connaissances portant sur les compagnies avec qui le payeur fait affaire en ce qui concerne leur solvabilité et le prix à leur offrir dans le cadre d'une soumission. Steeve Dubé consacre environ 20 heures par semaine sur l'internet à la recherche de contrats. Simon Dubé participe très peu à cette recherche.
+[15] Madame Jacqueline Dubé a témoigné que Steeve et Patrick avaient constitué la compagnie. Elle était intéressée à y participer et a offert ses services en contre partie du tiers du capital-actions. En plus de s'occuper du travail de bureau du payeur, elle occupe un emploi de cuisinière auprès des Soeurs de la charité à raison de 25 heures par semaine. Madame Dubé, tout comme Steeve Dubé, nie que le payeur ait pris en charge la marge de crédit de 15 000 $ de l'ancienne compagnie de Simon Dubé. Interrogée en 2001 à ce sujet, elle a répondu ne rien savoir là-dessus et a ajouté que Simon Dubé a travaillé de mai à juillet 2001 parce que son fils Steeve avait besoin de ses services.
+[16] Les états financiers du payeur indiquent des pertes dans les deux premières années d'exploitation, dont une perte de 60 000 $ dans les premiers dix mois d'opération. Le chiffre d'affaires du payeur a toutefois augmenté de façon considérable dans les deuxième et troisième années d'exploitation.
+[17] L'appelant Simon Dubé a reconnu, pendant son témoignage, que le payeur avait payé certaines créances de fournisseurs de son ancienne compagnie. Ces paiements avaient été faits afin de gagner la confiance de ces fournisseurs qui étaient les mêmes que ceux avec qui le payeur devait faire affaire.
+[18] Alain Landry, un agent d'assurabilité, a témoigné avoir eu une conversation téléphonique avec madame Jacqueline Dubé au cours de laquelle cette dernière lui aurait déclaré que le payeur avait pris sous sa responsabilité (selon ses termes) un prêt de 15 000 $ de l'ancienne compagnie de son époux parce qu'elle était en difficulté financière. Le rapport CPT110 a été déposé en preuve. Le rapport précise le résultat de l'enquête menée par l'agent des appels, monsieur Denis Hamel et les faits ayant servi de fondement aux recommandations ministérielles dans les deux cas en l'espèce.
+[19] Dans le dossier de Simon Dubé, il lui incombait d'établir selon la prépondérance des probabilités que le ministre a exercé son pouvoir discrétionnaire de façon inappropriée en décidant que, compte tenu de toutes les circonstances, le payeur et l'appelant n'auraient pas conclu un contrat de travail à peu près semblable s'il n'y avait pas eu de lien de dépendance entre eux. Selon la Cour d'appel fédérale dans l'arrêt Canada c. Jencan Ltd. [1997] A.C.F. no 876, [1998] 1 C.F. 187, l'appelant doit démontrer que, selon le cas, le ministre a agi de mauvaise foi ou dans un but ou un mobile illicite, il n'a pas tenu compte de toutes les circonstances pertinentes, comme l'exigent expressément l'alinéa 5(3)b) de la Loi, ou a tenu compte d'un facteur non pertinent.
+[20] Le rôle qu'exerce le ministre et que se doit d'exercer la Cour a été repris par la Cour d'appel fédérale dans l'arrêt Légaré c. Canada, [1999] A.C.F. no 878 (Q.L.). Le juge Marceau a résumé le tout en ces termes au paragraphe 4 :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre: c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable.
+[21] La Cour d'appel fédérale a d'ailleurs réitéré sa position dans l'arrêt Pérusse c. Canada, [2000] A.C.F. no 310 (Q.L.). Le juge Marceau, se référant au passage cité ci-dessus qui est tiré de l'arrêt Légaré, a ajouté ce qui suit au paragraphe 15 :
+Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours "raisonnable" (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[22] En l'espèce, je crois qu'il est important de reproduire l'analyse des faits qui a permis au Ministre d'exercer son pouvoir discrétionnaire et de conclure, après avoir examiné les modalités d'emploi que, s'il n'y avait pas eu un lien de dépendance, les modalités de l'emploi de l'appelant Simon Dubé n'auraient pas été les mêmes.
+[23] Le rapport CPT110 signé par Denis Hamel agent des appels, se lit ainsi:
+Analyse du lien de dépendance relativement à l'emploi de Simon Dubé.
+Modalités de l'emploi.
+Il aide à la recherche et la négociation de contrats, surtout avec son fils Steeve, selon les fais au dossier. Il n'est pas rémunéré lors de la recherche de contrats.
+Sa période d'emploi débute à la mi-mai 2001 pour la réparation et l'entretien de la machinerie. Aucun des actionnaires n'est salarié avant la mi-juillet 2001 lors de l'exécution d'un contrat à Petite Rivière St-François.
+Il a donc été le seul salarié de la corporation durant deux mois pour faire l'entretien de la machinerie. Cette période d'emploi de deux mois pour cette tâche a été mise en doute par l'agent d'assurabilité et nous abondons dans le même sens.
+Nous ne mettons pas en doute qu'il ait travaillé à cet entretien, mais il est curieux que ce travail ait duré deux mois. Il a été aidé par son fils Steeve durant cette période, sans que ce dernier ne soit rémunéré relativement à ces travaux de réparations et entretien.
+Simon Dubé a opéré une compagnie opérant dans le même domaine dans le passé et suite à une faillite personnelle, il ne pouvait être actionnaire de la présente corporation.
+Lors de l'exécution d'un contrat à Petite Rivière St-François de la mi-juillet 2001 à la mi-octobre 2001, il dirigeait en bonne partie les travaux et ses deux fils Steeve et Patrick y travaillaient aussi.
+Curieusement, son emploi a pris fin le 14 septembre 2001, soit près d'un mois avant la fin de l'emploi de ses deux fils.
+La présente compagnie a remboursé certaines dettes de l'ancienne corporation de Simon Dubé. Sans être l'âme dirigeante de Excavation Dubé 2000 inc au sens strict, ce dernier a l'expertise dans le domaine d'activité de la compagnie et il dirige les travaux lors de contrats.
+On peut donc difficilement invoquer la notion de contrôle relativement à son travail et prétendre que ses deux fils lui dictent la façon d'effectuer ses tâches.
+Durée de l'emploi.
+La durée de l'emploi de Simon Dubé est peu représentative des activités de la compagnie. D'abord il est le seul à être rémunéré durant deux mois à faire l'entretien de la machinerie avant la période d'emploi de ses deux fils, Steeve et Patrick.
+Par la suite, lors du contrat à Petite Rivière St-François, il termine son emploi environ un mois avant ses fils alors qu'il est en bonne partie responsable de la bonne marche des travaux.
+Rétribution.
+Simon était rémunéré selon un taux horaire de 15 $ de l'heure. Il rendait cependant des services bénévoles en dehors de l'exécution des contrats pour la recherche de futurs contrats.
+Il a été le seul employé rémunéré pour l'entretien de la machinerie durant près de deux mois.
+Durant la période où il travaillait à l'entretien de la machinerie, les registres comptables indiquent de faibles dépenses d'entretien et réparations. De plus la compagnie a réalisé une perte d'environ 60 000 $ pour la période finissant le 31 août 2001. Sans le lien de dépendance on peut se demander si un salaire aurait été versé durant près de deux mois à un étranger pour l'entretien de la machinerie alors que la compagnie ne générait aucun revenu.
+Nature et importance du travail.
+Le travail de Simon Dubé était indispensable à la bonne marche de la corporation. Cependant ses périodes de rémunération n'étaient pas représentatives de ses prestations de travail.
+[24] La preuve a révélé que Simon Dubé avait travaillé à titre d'employé pour d'autres compagnies avant la période d'emploi dans le présent litige. Son ancienne compagnie était en difficulté depuis 1996 et, à mon avis, Simon Dubé était sincère lorsqu'il a déclaré qu'il n'était pas intéressé à diriger une compagnie et encore moins à s'embarquer dans une nouvelle entreprise. Le rôle qu'il a joué dans la recherche de contrats était minime. Il était plutôt, comme l'a témoigné son fils, une personne-ressource. D'ailleurs, dans la période en question, le payeur a perdu un contrat et n'a réussi qu'à obtenir celui de la Petite Rivière St-François. Il n'y a aucune preuve que Simon Dubé a négocié des contrats pour le payeur.
+[25] Sous la rubrique des modalités de l'emploi, l'agent des appels ne met pas en doute l'affirmation que Simon Dubé ait travaillé à l'entretien et à la réparation de la machinerie mais il soulève un doute sur le temps que ce travail a pris, soit deux mois. Cependant, il n'explique pas sur quoi se fonde ce doute. Le payeur s'était porté acquéreur d'un matériel usagé et il était important, pour démarrer l'entreprise, que le matériel soit en bon état de fonctionnement. La preuve n'a pas révélé quel ampleur pouvaient avoir ces travaux d'entretien et de réparation, mais Simon Dubé n'y travaillait que 25 heures par semaine.
+[26] Lors de l'exécution de ses tâches à la Petite Rivière St-François, Simon Dubé n'a pas dirigé en grande partie les travaux de la mi-juillet à la mi-octobre. La preuve a démontré qu'en raison de son expérience, il avait la responsabilité de distribuer le travail le matin avec l'accord du représentant de la Petite Rivière St-François et qu'il a cessé de fournir ce service lorsqu'a pris fin son emploi, le 14 septembre, soit un mois avant la fin des travaux. Il est donc faux de dire qu'il a dirigé les travaux durant toute la durée du contrat. D'ailleurs, il a cessé de travailler parce que l'on n'avait plus besoin du matériel qu'il conduisait.
+[27] Il est vrai que le payeur a payé certaines créances de l'ancienne compagnie de Simon Dubé. À mon avis, en l'espèce, il s'agissait ici de rétablir la réputation de la famille et de gagner la confiance des fournisseurs puisque le payeur devait faire affaire avec les mêmes fournisseurs. En l'espèce, il s'agissait d'une question d'affaire liée à la réputation du payeur plutôt qu'aux modalités d'emploi de Simon Dubé. À mon avis, le payeur aurait probablement fait la même chose même si Simon Dubé n'avait pas été embauché.
+[28] La durée de son emploi est, à mon avis, compatible avec les contrats qu'avait à l'époque le payeur. La préparation du matériel et le premier contrat coïncident avec la période d'emploi de Simon Dubé. Il a été rémunéré à un taux horaire semblable à celui des dirigeants du payeur. Au moment où Simon Dubé a rendu les services d'entretien, le payeur s'était procuré le financement nécessaire et il avait les moyens de payer quelqu'un pour préparer le matériel indispensable à l'exécution des contrats qu'il cherchait à obtenir durant cette période. À mon avis, même si le payeur a connu un déficit de 60 000 $ dans ses premiers 10 mois d'exploitation, les dépenses de réparation et de mise en état de fonctionnement étaient nécessaires pour la bonne marche de l'entreprise et le payeur aurait sûrement eu recours à quelqu'un ayant l'expérience de Simon Dubé pour faire ce travail. Le premier exercice financier du payeur s'est terminé le 31 août 2001. Pendant cette période, sa seule source de revenu découlait d'un contrat conclu avec la Petite Rivière St-François qui a débuté le 15 juillet 2001. Le déficit subi lors du premier exercice financier n'est pas un facteur à considérer ni le fait que le payeur ne générait aucun revenu. Comme je l'ai déjà mentionné, le payeur avait le financement nécessaire et il fallait préparer le matériel.
+[29] Après avoir fait l'analyse de tous les faits présentés au dossier de Simon Dubé, j'arrive à la conclusion que le ministre n'a pas correctement apprécié les faits en l'espèce et que sa conclusion ne me paraît pas raisonnable. Il m'est donc permis, par conséquent, d'intervenir. Je ne veux pas reprendre ici l'analyse que j'ai faite de la preuve. En conséquence, et pour les motifs déjà exprimés, je conclus que les modalités de l'emploi, la durée, la rétribution versée et la nature et l'importance du travail auraient été semblables même s'il n'y avait pas eu de lien de dépendance. La participation limitée de Simon Dubé à la gestion du payeur et les quelques conseils qu'il a prodigués ne modifient pas les modalités de son emploi. L'appel de Simon Dubé est donc accueilli.
+[30] Dans le dossier de l'appelant Patrick Dubé, la question en litige n'est pas la même. Il s'agit ici de déterminer si, dans les faits, l'appelant contrôlait plus de 40% des actions avec droit de vote du payeur.
+[31] Simon Dubé a déclaré dans son témoignage que ses deux fils avaient décidé de démarrer une entreprise plutôt que de travailler à l'usine. Selon lui, ce sont eux qui ont constitué la compagnie payeuse. Ce même fait a été confirmé par sa conjointe. Les faits démontrent également que les deux fils ont fait les démarches pour obtenir le financement nécessaire au démarrage de l'entreprise et qu'ils étaient admissibles à des octrois en vertu du programme Stratégie Jeunesse offert par la SADC de leur région.
+[32] Dans le cas de madame Jacqueline Dubé sa participation à la compagnie payeuse consistait à contribuer de son temps en contrepartie du tiers du capital-actions du payeur. La preuve n'a toutefois pas révélé de mécanisme pouvant déterminer la valeur de sa contribution. Combien d'heures de service gratuit devait-elle accorder au payeur en contrepartie de ces actions? Pourquoi ne possédait-elle pas d'actions privilégiées au même titre que ses deux fils?
+[33] La participation de madame Dubé dans la prise de décisions de la compagnie était minime. Ses explications ne m'ont pas convaincu qu'elle y participait au même titre que ses deux fils et qu'elle avait suffisamment d'influence pour changer quoi que ce soit. Quant aux cautionnements exigés par les deux caisses populaires, on a expliqué à la Cour qu'une des caisses populaires aurait exigé la signature des trois actionnaires à titre de garants et l'autre pas. Une participation égale ne commande-t-elle pas un engagement égal et une responsabilité égale?
+[34] L'ensemble de la preuve favorise la position de l'intimé en l'espèce. La répartition du capital-actions est un trompe-l'oeil et les deux fils, dont l'appelant Patrick Dubé, sont les véritables actionnaires de la compagnie payeuse et ils contrôlent dans les faits les affaires de cette dernière. Il en va de même pour la convention entre actionnaires. Ce sont eux qui ont décidé de démarrer l'entreprise et ils en sont les âmes dirigeantes. Je conclus donc que l'appelant contrôle dans les faits plus de 40 p. 100 des actions avec droit de vote de la compagnie payeuse et, pour ces motifs, son emploi n'est pas assurable en vertu de l'alinéa 5(2)b) de la Loi.
+[35] L'appel de Patrick Dubé est donc rejeté.
+Signé à Ottawa, Canada, ce 18e jour de février 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2004CCI108
+No DES DOSSIERS DE LA
+COUR :
+2002-2759(EI)
+2002-2760(EI)
+INTITULÉS DES CAUSES :
+Simon Dubé et
+le ministre du Revenu national
+Patrick Dubé et
+le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Rivière-du-Loup (Québec)
+DATE DE L'AUDIENCE :
+le 25 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 18 février 2004
+COMPARUTIONS :
+Pour les appelants :
+Me Nancy Lajoie
+Pour l'intimé(e) :
+Me Julie David
+AVOCATE INSCRITE AU DOSSIER:
+Pour les appelants :
+Nom :
+Me Nancy Lajoie
+Étude :
+Rioux, Bossé, Massé, Moreau
+Rivière-du-Loup (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

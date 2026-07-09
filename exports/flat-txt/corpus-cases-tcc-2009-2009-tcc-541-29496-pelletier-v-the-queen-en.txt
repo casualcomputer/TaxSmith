@@ -1,0 +1,105 @@
+Title: Pelletier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29496/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-541-29496-pelletier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-27
+
+# Pelletier v. The Queen
+
+- Citation: 2009 TCC 541
+- Decision date: 2009-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6282, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-27
+Neutral citation
+2009 TCC 541
+File numbers
+2009-241(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-241(IT)I
+BETWEEN:
+HELENE PELLETIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 27, 2009, at Montreal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Antonia Paraherakis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment dated November 2, 2007, numbered 46924, made under subsection 160(1) of the Income Tax Act, is dismissed.
+Signed at Montreal, Quebec, this 27th day of October 2009.
+« Réal Favreau »
+Favreau J.
+Citation: 2009 TCC 541
+Date: 20091027
+Docket: 2009-241(IT)I
+BETWEEN:
+HELENE PELLETIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau, J.
+[1] This is an appeal by way of the informal procedure from an assessment dated November 2, 2007, numbered 46924, made by the Minister of National Revenue (the “Minister”) under subsection 160(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”) whereby it was determined that the Appellant was liable for an amount of $10,430.46 in respect of transfers of funds that took place between April 20, 2000 and December 23, 2005 from Mr. Peter D’Arcy Farrell, her spouse.
+[2] During the 2000, 2001 and 2002 taxation years, Mr. Farrell transferred to the Appellant, in total, $9,400 by way of cheques and, on December 26, 2005, the Appellant deposited in her bank account cheques totalling $710.46 that were payable to Mr. Farrell. The amount of the transfers of funds to the Appellant is not challenged and the Minister accepted that the actual amount of the transfers to the Appellant is $10,110.46.
+[3] The Appellant and Mr. Farrell were married in 1976 and were legally separated pursuant to a judgment of the Superior Court dated October 16, 1986. This judgment incorporated the terms and conditions of a consent to judgment signed by the Appellant and her spouse on August 29, 1986 under which the Appellant obtained the custody of their minor child Michael and Mr. Farrell was required to pay to the Appellant an alimony allowance of $1,000.00 per month, to continue to make the monthly payments for the leased car possessed by the Appellant and to reimburse the Appellant’s car expenses each month upon presentation of receipts. The transfers of funds referred to hereinabove in paragraph 2 were not provided to the Appellant by Mr. Farrell pursuant to the separation agreement. The couple lived separated until 2001 when they started to live together again.
+[4] From 2000 to 2005, Mr. Farrell lived in the Province of Ontario where he operated a kitchen cabinet business while the Appellant was living at Mont Saint‑Hilaire in a residence acquired in 1994. Mr. Farrell declared bankruptcy on May 4, 2006 at which time he owed the Canada Revenue Agency (“CRA”) $209,944.13 for taxes, interest and penalties for the 1998, 1999, 2000, 2001 and 2005 taxation years.
+[5] The Appellant appealed from the assessment on the ground that the transfers of funds from Mr. Farrell were loans to help her while she was in financial dire straights. She further invoked the fact that the said loans were reimbursed in full, mostly in cash. As proof of partial reimbursements, the Appellant provided copies of three cheques payable to Mr. Farrell for a total amount of $1,155 respectively dated August 10, 2000 ($55), March 10, 2002 ($300) and April 8, 2002 ($800). On the said cheques, there was no memo indicating that they were drawn to reimburse loans.
+[6] The total incomes declared by the Appellant for the 2000 to 2005 taxation years were, chronologically, $15,394 for 2000, $20,202 for 2001, $28,153 for 2002, $34,660 for 2003, $38,546 for 2004 and $41,513 for 2005. In 2000, the Appellant was unemployed and she started working again in March of 2001. In July of 2002, she was hired by an insurance company, Sun Life, and earned a higher salary.
+[7] The Appellant testified at the hearing and stated that there was no documentary evidence of the loans, except for the cheques of Mr. Farrell payable to her. There was no loan agreement, no promissory notes, no registry or record of any kind and no document specifying the terms and conditions of the reimbursements. She explained that the loans were made pursuant to an informal verbal arrangement and that the loans were to be reimbursed whenever she could afford it. She said that her final payment to Mr. Farrell was made in 2008.
+[8] In a letter dated October 14, 2007 addressed to CRA, the Appellant offered the following explanation as to why, on December 26, 2005, she deposited cheques payable to Mr. Farrell in her own bank account:
+In December of 2005, Mr. Farrell lost his job in Ottawa and moved to Montreal. I lent him some money so he paid me back by giving me his pay cheques as he had not yet opened a local bank account.
+[9] Mr. Farrell also testified at the hearing and he confirmed the fact that he had made the loans to the Appellant and that the loans had been reimbursed by her in full. He further said that he has kept track of the amounts of money loaned and reimbursed but he did not offer any documentary evidence to that effect.
+Analysis
+[10] Paragraph 160(1) of the Act applies where a person has transferred property, either directly or indirectly, by means of a trust or by another means whatever, to the person’s spouse. In the present case, the Appellant was Mr. Farrell’s spouse (legally separated but not divorced). The Appellant recognized that she received sums of money from Mr. Farrell. Consequently, the conditions of paragraph 160(1) of the Act are met. Where paragraph 160(1) of the Act applies, the transferee and transferor are jointly and severally liable for any tax that the transferor was liable to pay in or in respect to the year of transfer or in any preceding taxation years, to the extent that the value of the property transferred exceeds the fair market value of the consideration received therefor. To succeed in her appeal, the Appellant had to show that lawful consideration was given for the property transferred, in other words, that she reimbursed the loans in full.
+[11] According to paragraph 152(8) of the Act, an assessment is deemed to be valid and binding. Hence, the taxpayer has the burden of proof to show that the assessment is wrong or ill‑founded.
+[12] Under the Civil Code of Québec, a verbal contract is valid and it confers rights and imposes obligations on the parties thereto. When third parties are affected by a verbal contract, the parties often have problems in proving the existence of such a contract.
+[13] In tax matters, documentary evidence is almost always required from taxpayers where the evidence submitted is not sufficient or is vague, where the witnesses are not credible or where there are contradictions in the information provided by the taxpayers. In this case, CRA was absolutely warranted in requesting documentary evidence pertaining to the reimbursement of the loans as the Appellant did not keep any record and as there were contradictions in the information provided by the Appellant.
+[14] One contradiction noted concerned the cheques identified in paragraph 5 tendered as evidence of partial loan reimbursements. Two of them were respectively dated March 10 ($300) and April 8, 2002 ($800). In the October 14, 2007 letter that the Appellant sent to CRA, she said that in 2002, Mr. Farrell had lent her $3,500 in the following months: March ($1,000), April ($500) and August ($2,000). This means that in the months of March and April of 2002, Mr. Farrell has lent to the Appellant $1,500 and that the Appellant reimbursed him $1,100 during the same months. This appeared to me to be very unusual and I questioned why no set-off of debts occurred.
+[15] Another contradiction was raised by the October 14, 2007 letter. In the extract reproduced in paragraph 8 hereinabove, the Appellant referred to the fact that she had lent money to Mr. Farrell and that the cheques payable to Mr. Farrell that were deposited in her bank account were to reimburse her for such loans. In her testimony, the Appellant simply said that the cheques were deposited in her bank account so that she could withdraw the cash and remit it to Mr. Farrell. This seems to contradict the reality of the loans supposed to have been made by the Appellant to Mr. Farrell.
+[16] The contradictions referred to in the two preceding paragraphs seriously undermine the credibility of the Appellant. I am not persuaded at all that the three cheques payable to Mr. Farrell for a total amount of $1,155 constituted partial reimbursement of loans and I am inclined to think that they could very well reflect loans made by the Appellant to Mr. Farrell. In view of the insufficiency of the evidence offered by the Appellant, the assessment must stand. It was the Appellant’s responsibility to keep proper records of her own personal transactions.
+[17] Consequently, the appeal is dismissed.
+Signed at Montreal, Quebec, this 27th day of October 2009.
+« Réal Favreau »
+Favreau J.
+CITATION: 2009 TCC 541
+COURT FILE NO.: 2009-241(IT)I
+STYLE OF CAUSE: Helene Pelletier and Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: July 27, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: October 27, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

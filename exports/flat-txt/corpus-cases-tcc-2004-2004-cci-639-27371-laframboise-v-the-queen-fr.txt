@@ -1,0 +1,727 @@
+Title: Laframboise v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27371/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-639-27371-laframboise-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-09-17
+
+# Laframboise v. The Queen
+
+- Citation: 2004 CCI 639
+- Decision date: 2004-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 142, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laframboise v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-17
+Référence neutre
+2004 CCI 639
+Numéro de dossier
+2003-2652(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2652(IT)I
+ENTRE :
+JOCELYNE LAFRAMBOISE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Ottawa (Ontario), le 2 mars 2004.
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocates de l'intimée :
+Me Marlyse Dumel
+Me Justine Malone
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 2000 est admis avec dépens, le cas échéant, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le paiement forfaitaire rétroactif admissible (le « PFRA » ) s'élève à 29 634 $, soit l'excédent de la partie du paiement forfaitaire reçu par l'appelante au cours de l'année 2000 qui s'applique aux années antérieures (56 377 $) sur le montant remboursé au cours de l'année 2000 et réparti entre les années antérieures (26 743 $). Le ministre devra déterminer l'impôt fédéral de base de l'appelante pour l'année d'imposition 2000 en utilisant le calcul spécial de l'impôt prévu aux articles 110.2 et 120.31 de la Loi et en basant le calcul sur la répartition révisée du PFRA entre les années 1997, 1998 et 1999 proposée par l'appelante à l'annexe A de sa lettre du 1er décembre 2004 (reproduite à l'appendice 2 de ces motifs de jugement), à savoir 5 940 $ (11 575 $ moins 5 635 $) pour 1997, 11 794 $ pour 1998 et 11 901 $ pour 1999.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2004.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+Ce 12e jour de décembre 2005
+Nathalie Boudreau
+Référence : 2004CCI639
+Date : 20041215
+Dossier : 2003-2652(IT)I
+ENTRE :
+JOCELYNE LAFRAMBOISE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s'agit d'un appel interjeté sous le régime de la procédure informelle à l'encontre d'une cotisation établie par le ministre du Revenu national (le « ministre » ) pour l'année d'imposition 2000 de l'appelante. L'appel concerne l'application des articles 110.2 et 120.31 de la Loi de l'impôt sur le revenu (la « Loi » ), dispositions qui prévoient un calcul spécial de l'impôt qui peut être avantageux pour le contribuable qui reçoit un paiement forfaitaire rétroactif admissible (le « PFRA » ). En l'espèce, le ministre a tenu compte de l'application de ces dispositions de la Loi et a conclu que le calcul spécial de l'impôt n'était pas avantageux pour l'appelante. Le ministre a donc inclus la totalité du paiement forfaitaire de 60 426 $, dont 56 377 $ s'appliquaient aux années d'imposition 1995 à 1999, reçu par l'appelante de Travaux publics et Services gouvernementaux Canada, Direction des pensions de retraite (les « Pensions de retraite » ), dans l'année d'imposition 2000 dans le revenu de l'appelante pour cette année-là conformément à l'alinéa 56(1)a) de la Loi.
+[2] L'appelante soutient que le ministre n'a pas effectué correctement le calcul de l'impôt hypothétique sur le PFRA conformément aux articles 110.2 et 120.31 de la Loi. Elle est d'avis qu'aucune partie du PFRA ne devrait être imposable dans l'année 2000 étant donné que la totalité du paiement forfaitaire qu'elle a reçu devait être remboursée à la Sunlife Financial (la « Sunlife » ) parce qu'elle avait reçu de celle-ci un paiement en trop de 64 571 $. En fait, l'appelante a remboursé un montant de 34 817 $ dans l'année 2000, sur lequel un montant de 26 743 $ a été imputé par la Sunlife au paiement en trop effectué au titre de l'assurance-salaire des années antérieures. Elle a également remboursé un montant de 20 000 $ en 2001. Après l'année 2001, l'appelante devait encore 9 754 $.
+Les faits
+[3] L'intimée a résumé les faits aux paragraphes 3 à 14 des observations écrites de l'intimée, et l'appelante, au paragraphe 3 des observations écrites de l'appelante, souscrivait à ce résumé.
+[4] Les faits, tels que l'intimée les a résumés, sont reproduits ci-dessous :
+[TRADUCTION]
+LES FAITS
+Historique
+3. L'appelante a reçu des prestations d'assurance-salaire de la Sunlife Financial (la « Sunlife » ) par suite d'une maladie.
+4. La Sunlife exigeait de l'appelante qu'elle établisse son droit à des prestations de Travaux publics et Services gouvernementaux Canada, Direction des pensions de retraite (les « Pensions de retraite » ).
+Paiement forfaitaire des Pensions de retraite
+5. L'appelante a réussi à établir son droit à des prestations de la part des Pensions de retraite et elle a reçu, dans l'année d'imposition 2000, des prestations brutes d'un montant de 65 459,20 $; un montant de 60 426,10 $ représentait un paiement forfaitaire rétroactif sur lequel un montant de 56 378,63 $ s'appliquait aux années d'imposition 1995 à 1999.
+6. Le paiement forfaitaire mentionné au paragraphe 6 [sic] représentait des paiements applicables aux années d'imposition 1995 à 2000.
+Année
+Montant
+1995
+9 866 $
+1996
+11 242 $
+1997
+11 574 $
+1998
+11 794 $
+1999
+11 901 $
+2000
+4 049 $
+Total :
+60 426 $
+7. L'appelante a reçu un chèque d'un montant de 34 817,21 $ daté du 25 juillet 2000 des Pensions de retraite, soit le montant net du paiement forfaitaire de 60 426,10 $, un montant de 25 608,89 $ ayant été retenu au titre de l'impôt sur le revenu.
+Prestations versées par la Sunlife dans le cadre du régime
+d'assurance-invalidité
+8. Après que l'appelante eut reçu les prestations des Pensions de retraite, la Sunlife a informé celle-ci par une lettre datée du 21 septembre 2000 qu'elle avait droit à des prestations d'assurance-salaire d'un montant de 101 717,83 $, pour la période allant du 20 janvier 1995 au 31 août 2000. Toutefois, des prestations d'assurance-salaire d'un montant de 166 289,59 $ avaient antérieurement été versées à l'appelante, ce qui a donné lieu à un paiement en trop. Cela étant, l'appelante était tenue de rembourser un montant de 64 571,76 $ à la Sunlife.
+9. L'appelante a remboursé la Sunlife en partie à l'aide d'un chèque d'un montant de 34 817,21 $ daté du 14 août 2000 à imputer à la dette non remboursée, de sorte que le montant qui était dû était ramené à 29 754,55 $.
+10. La Sunlife a imputé le remboursement de 34 817,21 $ comme suit :
+• un montant de 26 743 $ a été imputé au paiement en trop effectué au titre de l'assurance-salaire des années antérieures;
+• un montant de 8 074 $ a été imputé au paiement en trop effectué dans l'année d'imposition 2000 au titre de l'assurance-salaire.
+11. La Sunlife a délivré à l'appelante un feuillet T4 indiquant un montant de 18 617 $ pour l'année d'imposition 2000. Ce montant représentait la différence entre le montant de 26 691 $ que l'appelante avait reçu dans l'année d'imposition 2000 et le montant de 8 074 $ qu'elle avait remboursé à la Sunlife pour l'année d'imposition 2000.
+Calcul de l'impôt
+12. L'impôt fédéral de base de l'appelante pour l'année d'imposition 2000 selon le calcul spécial de l'impôt (conformément aux articles 110.2 et 120.31) était de 16 016,57 $, alors que l'impôt fédéral de base selon le calcul régulier était de 13 324,83 $. Par conséquent, le ministre du Revenu national n'a pas établi la cotisation de l'appelante en utilisant le calcul spécial de l'impôt.
+13. Quant à l'année d'imposition 2000 de l'appelante, le ministre a admis la déduction d'un montant de 26 743 $, qui représentait le montant que l'appelante avait remboursé à la Sunlife dans l'année d'imposition 2000.
+14. Pour l'année d'imposition 2001, le ministre a admis la déduction d'un montant de 20 000 $, qui représentait le montant que l'appelante avait remboursé à la Sunlife dans l'année d'imposition 2001.
+[5] Pour mieux comprendre la situation, je reproduis ci-dessous les calculs relatifs à l'impôt effectués par l'Agence des douanes et du revenu du Canada (l' « ADRC » ) à l'égard du PFRA tels qu'ils figurent dans la pièce A-2 :
+[TRADUCTION]
+Calculs relatifs à l'impôt afférent au paiement
+forfaitaire rétroactif admissible (le « PFRA » )
+Année
+Revenu imposable
+(en dollars seulement)
+Paiement réparti déclaré
+(en dollars seulement)
+Montant réparti admis
+(en dollars seulement)
+Différence d'impôt
+($)
+Impôt réputé
+[intérêts]
+($)
+2000
+--
+4 047
+4 049
+--
+--
+1999
+30 455
+11 901*
+11 901
+3 094,26
+--
+1998
+28 367
+11 794*
+11 794
+2 956,07
+142,20
+1997
+24 119
+11 574*
+11 574
+2 516,55
+312,28
+1996
+34 725
+11 242*
+11 242
+2 922,92
+562,91
+1995
+28 059
+9 866*
+9 866
+2 427,07
+669,28
+[60 424 $]**
+Total
+13 916,87 $
+1 686,67 $
+Votre rajustement d'impôt afférent au PFRA est le total de la différence d'impôt et du montant de l'impôt réputé pour les années susmentionnées : 15 603,54 $
+Votre impôt fédéral de base pour l'année 2000 selon le calcul spécial de l'impôt :
+Revenu imposable, y compris le paiement forfaitaire total
+[soit le revenu net, une fois déduit le remboursement de salaire conformément à l'alinéa 8(1)n) de la Loi]***
+67 736,00 $***
+Moins : Partie du paiement forfaitaire réparti entre des années antérieures
+[déduction effectuée en vertu du paragraphe 110.2(2) de la Loi]
+56 377,00 $*
+Revenu imposable réduit......................................................
+11 359,00 $
+Impôt calculé sur le revenu imposable réduit ....................
+413,03 $
+Ajouter : Rajustement de l'impôt au titre du PFRA ............
+15 603,54 $
+Impôt fédéral de base de l'année 2000.................................
+16 016,57 $(A)
+Votre impôt fédéral de base pour l'année 2000 selon le calcul régulier :
+Revenu imposable, y compris le paiement forfaitaire total
+67 736,00 $***
+Impôt fédéral de base de l'année 2000................................
+13 324,83 $(B)***
+* Le total pour les années 1995 à 1999 est de 56 377 $
+** Le montant de 60 424 $ est le montant brut du paiement forfaitaire rétroactif
+*** Voir l'état du revenu et des déductions ci-dessous
+ÉTAT DU REVENU ET DES DÉDUCTIONS
+POUR L'ANNÉE D'IMPOSITION 2000
+104
+[Revenu net reçu de la Sunlife dans l'année 2000]
+18 617
+233
+TOTAL DES DÉD.
+27 076
+115
+AUTRE REV. À RECEVOIR
+[y compris un paiement forfaitaire de 60 424 $]
+65 459
+236
+REVENU NET
+67 736
+121
+INTÉRÊTS
+151
+---
+NOUVEAU REV. NET RAJ.
+38 100
+130
+AUTRES REV.
+10
+---
+REV. IMP. CALCULÉ
+67 736
+162
+REV. D'ENTR. BRUT
+18 394
+266
+BIENS ÉTRANGERS - CAN
+2
+135
+REV. D'ENTR. NET
+10 575
+420
+IMPÔT FÉD. NET
+13 324,40
+150
+REVENU TOTAL
+38 433
+94 812
+421
+PAIEMENT AU RPC
+551,87
+208
+REER
+333
+---
+IMPÔT PROV. NET
+5 621,80
+229
+[Déduction du montant remboursé à la Sunlife dans l'année 2000, conformément à l'alinéa 8(1)n) de la Loi]
+26 743
+435
+TOTAL PAYABLE
+19 498,07
+Point litigieux
+[6] La Cour est ici saisie de la question de savoir si le ministre a correctement calculé l'impôt fédéral de base de l'appelante pour l'année d'imposition 2000 en utilisant le calcul spécial de l'impôt prévu aux articles 110.2 et 120.31 de la Loi en vue d'arriver au montant de 16 016,57 $ au titre de l'impôt, comme il en est fait mention au paragraphe 12 des observations écrites de l'intimée et comme le montrent expressément les calculs de l'impôt reproduits ci-dessus (voir la pièce A-2, figure A). En effectuant ce calcul, le ministre a conclu que le PFRA était le montant brut que l'appelante avait reçu dans l'année 2000 qui s'appliquait aux années antérieures, à savoir 56 377 $. L'appelante est d'avis que le PFRA devrait être le montant net, c'est-à-dire le montant brut moins le montant qu'elle devait rembourser à la Sunlife. Si le PFRA est le montant net, l'impôt fédéral devrait être moins élevé que le résultat obtenu par le ministre. L'appelante soutient qu'elle ne devrait pas être imposée sur le PFRA parce que, en fin de compte, elle devra rembourser le montant au complet.
+Analyse
+[7] Comme l'intimée l'a dit aux paragraphes 16 à 19 de ses observations écrites :
+[TRADUCTION]
+16. Un paiement forfaitaire effectué au titre d'une prestation de retraite ou de pension doit, en règle générale, être inclus dans le revenu du contribuable dans l'année où il est reçu comme le prévoit le sous-alinéa 56(1)a)(i) de la LIR.
+17. Il existe toutefois un mécanisme dans la LIR, lequel est énoncé aux articles 110.2 et 120.31, qui prévoit le calcul d'un « impôt hypothétique payable » aux fins du calcul de l'impôt sur les paiements forfaitaires se rapportant à des années d'imposition antérieures.
+18. Le calcul de l'impôt hypothétique payable vise à permettre au contribuable d'être imposé sur le revenu dans l'année à laquelle ce revenu se rapporte si la chose est avantageuse pour le contribuable. Le calcul tient compte de l'impôt qui aurait été payable dans les années antérieures si la partie du paiement forfaitaire qui se rapporte aux années antérieures avait été ajoutée au revenu imposable du particulier dans ces années antérieures, mais l'impôt réel est établi dans l'année où le paiement forfaitaire est reçu.
+19. L'impôt hypothétique payable est calculé pour chaque année d'imposition à laquelle une partie déterminée d'un montant admissible reçu par le particulier se rapporte. Cet impôt hypothétique payable est composé d'un élément représentant l'impôt qui aurait été payable pour cette année-là si le revenu pertinent avait été reçu et imposé dans l'année d'imposition admissible et d'un élément représentant les intérêts hypothétiques calculés sur cet impôt supplémentaire.
+[8] En outre, le remboursement d'une partie des prestations d'assurance-salaire qui ont été reçues est déductible par le contribuable dans l'année où le remboursement a lieu, comme le prévoit l'alinéa 8(1)n) de la Loi.
+[9] Il est important à ce stade de reproduire les dispositions pertinentes susmentionnées de la Loi.
+Déductions
+ARTICLE 8 : Éléments déductibles
+(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+n) Remboursement de la rémunération - une somme payée au cours de l'année par le contribuable ou pour son compte conformément à un arrangement, sauf celui visé au sous-alinéa b)(ii) de la définition de « paiement compensatoire pour invalidité » au paragraphe 6(17), selon lequel le contribuable est tenu de rembourser toute somme qui lui a été versée pour une période tout au long de laquelle il n'exerçait pas les fonctions de sa charge ou de son emploi, dans la mesure où :
+(i) la somme ainsi versée a été incluse dans le calcul de son revenu tiré d'une charge ou d'un emploi,
+(ii) le total des sommes ainsi remboursées ne dépasse pas le total des sommes qu'il a reçues pour la période tout au long de laquelle il n'a pas exercé les fonctions de sa charge ou de son emploi;
+ARTICLE 56 : Sommes à inclure dans le revenu de l'année.
+(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) Pensions, prestations d'assurance-chômage, etc. - toute somme reçue par le contribuable au cours de l'année au titre, ou en paiement intégral ou partiel :
+(i) d'une prestation de retraite ou de pension [...]
+Paiements forfaitaires
+ARTICLE 110.2 : Définitions.
+(1) Les définitions qui suivent s'appliquent au présent article et à l'article 120.31.
+« année d'imposition admissible » Quant à un montant admissible reçu par un particulier, l'année d'imposition qui remplit les conditions suivantes :
+a) elle s'est terminée après 1977 et avant l'année au cours de laquelle le particulier a reçu le montant admissible;
+b) il s'agit d'une année tout au long de laquelle le particulier a résidé au Canada;
+c) elle ne s'est pas terminée dans une année civile au cours de laquelle le particulier a fait faillite;
+d) elle ne fait pas partie d'une période d'établissement de la moyenne, au sens de l'article 119 en son état applicable à l'année d'imposition 1987, conformément à un choix fait par le particulier en vertu de cet article mais non révoqué.
+« montant admissible » Montant reçu par un particulier au cours d'une année d'imposition (sauf la partie du montant qu'il est raisonnable de considérer comme étant reçue à titre ou en paiement intégral ou partiel d'intérêts) qui est inclus dans le calcul de son revenu pour l'année et qui représente l'un des montants suivants, sauf dans la mesure où le particulier peut déduire pour l'année, en application des alinéas 8(1)b), n) ou n.1), 60n) ou o.1) ou 110(1)f), un montant relatif au montant ainsi inclus :
+[...]
+b) une prestation de retraite ou de pension (sauf une prestation visée à la division 56(1)a)(i)B)) reçue au titre ou en paiement intégral ou partiel d'une série de paiements périodiques (à l'exclusion de paiements qui auraient autrement été effectués au cours de l'année ou d'une année d'imposition postérieure);
+[...]
+« partie déterminée » Quant à une année d'imposition admissible, la partie d'un montant admissible reçu par un particulier qui se rapporte à l'année, dans la mesure où le particulier était en droit, au cours de l'année, de la recevoir.
+(2) Déduction pour paiements forfaitaires. Peut être déduit dans le calcul du revenu imposable d'un particulier (sauf une fiducie) pour une année d'imposition le total des montants représentant chacun la partie déterminée d'un montant admissible qu'il a reçu au cours de l'année, si ce total s'établit à 3 000 $ ou plus.
+Paiements forfaitaires
+ARTICLE 120.31 : Définitions.
+(1) Les définitions figurant au paragraphe 110.2(1) s'appliquent au présent article.
+(2) Montant ajouté à l'impôt payable. Est ajouté dans le calcul de l'impôt payable en vertu de la présente partie par un particulier pour une année d'imposition donnée le total des montants représentant chacun l'excédent éventuel du montant visé à l'alinéa a) sur le montant visé à l'alinéa b) ;
+a) l'impôt hypothétique payable par le particulier pour une année d'imposition admissible à laquelle se rapporte une partie déterminée d'un montant admissible qu'il a reçu et à l'égard de laquelle un montant est déduit en application de l'article 110.2 dans le calcul de son revenu imposable pour l'année donnée.
+b) l'impôt payable en vertu de la présente partie par le particulier pour l'année d'imposition admissible.
+(3) Impôt hypothétique payable. Pour l'application du paragraphe (2), l'impôt hypothétique payable par un particulier pour une année d'imposition admissible, déterminé aux fins du calcul de son impôt payable en vertu de la présente partie pour une année d'imposition (appelée « année de réception » au présent paragraphe) au cours de laquelle il a reçu un montant admissible, correspond à la somme des montants suivants:
+a) l'excédent éventuel du montant visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) le montant qui correspondrait à l'impôt payable en vertu de la présente partie par le particulier pour l'année d'imposition admissible si le total des montants, représentant chacun la partie déterminée relative à cette année d'un montant admissible reçu par le particulier avant la fin de l'année de réception, était pris en compte dans le calcul de son revenu imposable pour l'année d'imposition admissible;
+(ii) le total des montants représentant chacun un montant, relatif à un montant admissible reçu par le particulier avant l'année de réception, qui a été inclus par l'effet du présent alinéa dans le calcul de l'impôt hypothétique payable en vertu de la présente partie par le particulier pour l'année d'imposition admissible;
+b) si l'année d'imposition admissible s'est terminée avant l'année d'imposition précédant l'année de réception, un montant égal au montant qui serait calculé à titre d'intérêts payables sur le montant déterminé selon l'alinéa a) s'il était ainsi calculé, à la fois
+(i) pour la période ayant commencé le 1er mai de l'année suivant l'année d'imposition admissible et s'étant terminée immédiatement avant l'année de réception,
+(ii) au taux prescrit qui est applicable dans le cadre du paragraphe 164(3) pour la période.
+[10] Le mécanisme prévu aux articles 110.2 et 120.3, et plus précisément la détermination d'un « impôt hypothétique payable » , vise à créer, dans le contexte de l'allègement accordé aux contribuables, une situation correspondant aussi exactement que possible à la situation qui aurait existé si le paiement forfaitaire avait réellement été reçu sur un certain nombre d'années. Il s'agit de savoir si l'utilisation aux fins de la répartition d'un chiffre net calculé en tant que « montant admissible » permettrait d'atteindre ce but et, dans l'affirmative, si la Loi autorise l'utilisation d'un chiffre net.
+[11] Rien n'indique qu'un paiement forfaitaire doive être réparti sur une base brute. Le plan budgétaire de 1999, dans lequel étaient présentés les articles 110.2 et 120.31, prévoit ce qui suit, à la page 220 :
+Aux fins du nouveau calcul de l'impôt théorique à payer pour les années antérieures, aucun rajustement ne sera apporté aux déclarations de revenu de ces années. Les particuliers ne pourront donc pas modifier des éléments tels les cotisations à un régime enregistré d'épargne-retraite et les crédits d'impôt. De même, le gouvernement ne récupérera pas les prestations calculées en fonction du revenu versées au cours des années antérieures. La réduction de l'impôt fédéral obtenue grâce à cette mesure aura également pour effet de réduire l'impôt provincial à payer dans les provinces signataires des accords de perception fiscale. [...] Ces modifications n'affectent pas les dispositions actuelles qui s'appliquent aux prestations forfaitaires rétroactives en vertu du Régime de pensions du Canada ou du Régime de rentes du Québec.
+L'énoncé précité n'empêche pas l'utilisation d'un chiffre représentant le paiement forfaitaire net.
+[12] Pour connaître l'intention du législateur lorsqu'il a édicté les articles 110.2 et 120.31, on peut consulter le document intitulé [TRADUCTION] « 16 février 1999 - Budget fédéral, Service fiscal canadien, Analyse Stikeman » :
+[TRADUCTION]
+Dans le budget, on propose l'adoption d'un régime de concessions intéressant, quoique complexe, aux fins du calcul de l'impôt sur le revenu afférent à certains paiements forfaitaires rétroactifs versés à des particuliers (autres que des fiducies). Selon ce régime, les contribuables auront le choix de payer l'impôt sur les « paiements forfaitaires rétroactifs admissibles » , non pas au taux par ailleurs applicable dans l'année de leur réception, mais plutôt à un taux inférieur qui se serait appliqué si le montant en question avait été reçu au cours de l'année ou d'années antérieures auxquelles le montant se rapporte et pendant lesquelles le contribuable résidait au Canada. [...]
+L'intention est d'indemniser les particuliers pénalisés par les taux progressifs d'impôt prévus dans la Loi de l'impôt sur le revenu [...]
+À certains égards, les modalités d'application du nouveau régime ne sont pas tout à fait claires. En particulier, la question de l'exclusion de paiements « non périodiques » effectués dans le cadre d'un régime de pension doit être éclaircie. Cette exclusion veut-elle dire par exemple que la distribution d'un surplus des caisses de retraite ne serait pas admissible au traitement plus favorable? D'une façon plus générale, sur quelle base déterminera-t-on l'année ou les années auxquelles un montant donné se rapporte?
+Compte tenu des concessions effectuées par cette modification, une augmentation du revenu résultant de l'application du nouveau régime n'aura pas d'effet négatif sur la situation d'un particulier pour l'année ou les années antérieures en question. Ainsi, le gouvernement ne récupérera pas les prestations liées au revenu, comme la prestation fiscale pour enfants ou le supplément de revenu garanti, déjà versés à ce contribuable. Par ailleurs, les cotisations à un REER d'une année antérieure ne seront pas rajustées dans le calcul de l'impôt payable pour cette année antérieure. Le budget ne traite pas de la question de l'effet, s'il en est, que cette modification aura sur le calcul de l'impôt minimum de remplacement.
+Dans le budget, on admet tacitement la complexité que les calculs nécessaires engendreront sans aucun doute; il est précisé que les contribuables pourront demander à Revenu Canada de déterminer si la méthode de rechange sera avantageuse pour eux dans un cas particulier. Le calcul nécessitera une détermination de l'impôt qui aurait été payable dans l'année ou dans les années antérieures et des intérêts qui auraient couru au taux prescrit (aux fins des remboursements d'impôt) sur cet impôt. Par conséquent, la réduction d'impôt accordée au contribuable sera elle-même réduite en vue de refléter le paiement hypothétique retardé.
+[13] Il ressort de ce document qu'il est possible de considérer que le régime prévu par le législateur n'était pas exhaustif. Par conséquent, l'utilisation d'un chiffre net pour le PFRA n'est pas nécessairement prohibée. En outre, il peut être soutenu qu'en utilisant un chiffre net, on donne suite à l'intention du législateur, qui voulait amoindrir l'effet de taux d'impôt progressifs sur les paiements forfaitaires.
+[14] Les remarques qui précèdent sont destinées à servir de toile de fond; il faut maintenant examiner les dispositions pertinentes de la Loi. La définition du terme « montant admissible » peut être résumée comme suit : une prestation de retraite reçue par un particulier au cours d'une année d'imposition qui est incluse dans le calcul du revenu du particulier pour l'année, sauf dans la mesure où le particulier peut déduire pour l'année, en application de l'alinéa 8(1)n), un montant relatif au montant ainsi inclus.
+[15] Dans ce contexte, il faut examiner les mots « relatif au » ( « in respect of » ). Cette expression a été examinée par les tribunaux à maintes reprises, en particulier par la Cour suprême du Canada dans l'arrêt récent Markevich c. Canada [2003] 1 R.C.S. 94, 2003 DTC 5185, où le juge Major a dit ce qui suit, au paragraphe 26 :
+L'argument de l'appelante porte sur la question de savoir si ces poursuites se rapportent à un « fait générateur » . La Cour a jugé que l'expression « in respect of » (quant à ) a une portée des plus larges et exprime un lien quelconque entre deux sujets. Voir Nowegijick c. La Reine, [1983] 1 R.C.S. 29, p. 39, le juge Dickson (plus tard Juge en chef) :
+À mon avis, les mots « quant à » ont la portée la plus large possible. Ils signifient, entre autres, « concernant » , « relativement à » ou « par rapport à » . Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c'est probablement l'expression « quant à » qui est la plus large.
+Dans le contexte de l'art. 32, l'expression « in respect of » ( « pour » ) exige uniquement que la procédure en cause ait un lien quelconque avec le fait générateur.
+[16] Il faut également tenir compte de la définition de l'expression « partie déterminée » , qui peut être résumée comme suit : la partie du montant admissible reçu par un particulier que le particulier était en droit de recevoir au cours de l'année d'imposition admissible. Essentiellement, la définition de l'expression « partie déterminée » permet la répartition d'un montant admissible sur un certain nombre d'années : le montant admissible est divisé en parties et réparti en conséquence.
+[17] Si les définitions des expressions « montant admissible » et « partie déterminée » sont interprétées ensemble, je conclus qu'il pourrait fort bien être soutenu qu'un montant admissible est un chiffre net. Il n'existe aucune décision explicite faisant autorité à l'appui de la thèse selon laquelle un remboursement peut être réparti entre des années antérieures, mais le fait que l'alinéa 8(1)n) de la Loi est incorporé dans la définition de l'expression « montant admissible » laisse au départ supposer, à mon avis, qu'aux fins de la détermination du paiement forfaitaire à être réparti, il ne semble pas incompatible avec la Loi de permettre que la déduction ait un effet sur des années d'imposition autres que l'année d'imposition au cours de laquelle le remboursement a été effectué. De fait, la définition de l'expression « montant admissible » prévoit expressément qu'une prestation de retraite, entre autres choses, reçue au cours d'une année est un montant admissible, sauf dans la mesure où une déduction est effectuée en application de l'alinéa 8(1)n) à l'égard de ce montant. Lorsque l'on applique cette définition à la présente espèce, le montant admissible est la partie de la prestation de retraite reçue par l'appelante dans l'année 2000 qui est incluse dans son revenu pour cette année-là et qui se rapporte à des années antérieures (56 377 $), sauf dans la mesure où l'appelante peut déduire pour l'année 2000 un montant en application de l'alinéa 8(1)n), entre autres dispositions, à l'égard de la prestation de retraite ainsi incluse (26 743 $). Le montant admissible est donc la différence, soit 29 634 $.
+[18] La déduction n'est donc pas reportée rétrospectivement de façon à apporter des rajustements aux déclarations de revenu des années antérieures, mais elle est utilisée au cours de l'année où le remboursement a été effectué aux fins de la détermination du paiement forfaitaire à répartir.
+[19] Quant à la demande que l'appelante a faite en vue d'être autorisée à déduire la totalité du montant qu'elle devait à la Sunlife, même si une partie seulement avait été remboursée dans l'année 2000, l'intimée a raison d'affirmer que les montants dus mais non payés ne devraient pas être pris en compte dans le calcul de l'impôt hypothétique payable. De fait, comme il a ci-dessus été expliqué, la définition de l'expression « montant admissible » au paragraphe 110.2(1) de la Loi inclut, en particulier, tous les montants reçus des Pensions de retraite, sauf dans la mesure où un montant connexe peut être déduit en application, entre autres choses, de l'alinéa 8(1)n). Par conséquent, il s'agit d'un chiffre net qui sera réparti entre les « années d'imposition admissibles » , mais l'alinéa 8(1)n) de la Loi ne s'applique clairement qu'à « une somme payée » lorsque cette somme est un remboursement. Étant donné que l'alinéa 8(1)n) est incorporé dans la définition de l'expression « montant admissible » , il est raisonnable de conclure que seules les sommes qui sont de fait payées seront prises en compte dans le calcul de l'impôt hypothétique payable.
+[20] Après être arrivée à cette conclusion, j'ai demandé au ministre, dans une ordonnance datée du 17 septembre 2004, de procéder à de nouveaux calculs, compte tenu du fait que le PFRA s'élève à 29 634 $, soit l'excédent de la partie du paiement forfaitaire reçu par l'appelante au cours de l'année 2000 qui s'applique aux années antérieures (56 377 $) sur le montant remboursé au cours de l'année 2000 et réparti entre les années antérieures (26 743 $). Les nouveaux calculs nécessiteraient une détermination de l'impôt qui aurait été payable au cours des années antérieures (et des intérêts qui auraient couru) sur un montant total net de 29 634 $ (et non de 56 377 $), à savoir le PFRA, lequel montant serait de nouveau réparti entre les années d'imposition touchées suivant les chiffres fournis par la Sunlife (pièces A-3 et R-2).
+[21] Le 1er octobre 2004, l'intimée a transmis à la Cour de nouveaux calculs de l'impôt à l'égard du PFRA révisé, dans lesquels le remboursement pour les années antérieures a été réparti au prorata entre les années 1995 à 1999. En appliquant cette méthode, l'intimée est arrivée à la conclusion selon laquelle l'utilisation du calcul spécial de l'impôt sur le montant net du PFRA n'était pas avantageuse pour l'appelante.
+[22] L'appelante a répondu par une lettre datée du 17 octobre 2004. Elle a proposé un nouveau calcul compte tenu du fait que le remboursement devait être imputé aux trois premières années plutôt que d'être réparti au prorata sur cinq ans.
+[23] Lors d'une téléconférence qui a eu lieu le 3 novembre 2004, j'ai demandé à l'intimée d'examiner le calcul de l'impôt sur le PFRA sur la base proposée par l'appelante. Par une lettre envoyée à la Cour le 24 novembre 2004, l'intimée a fourni de nouveaux calculs effectués par le ministre à la demande de la Cour. Dans ces calculs révisés, qui figurent à l'appendice 1 de ces motifs, le ministre répartit au prorata le montant révisé sur une période de trois ans (1997, 1998 et 1999), plutôt que sur une période de cinq ans. Les résultats, aux fins de l'impôt, sont légèrement avantageux pour l'appelante étant donné qu'ils entraînent un impôt fédéral de base de 13 082,36 $ lorsque le calcul spécial de l'impôt est utilisé, plutôt qu'un montant de 13 324,83 $, soit le montant de l'impôt fédéral de base de l'année 2000 selon le calcul régulier (voir le paragraphe 5 des motifs de jugement).
+[24] Comme l'a souligné l'appelante dans la lettre qu'elle a envoyée en réponse le 1er décembre 2004, le ministre n'a pas appliqué, dans les calculs révisés, le plein remboursement aux trois premières années, comme la Cour l'avait demandé le 3 novembre 2004.
+[25] L'appelante a effectué ses propres calculs, qui figurent à l'annexe A de sa lettre du 1er décembre 2004, laquelle est jointe à l'appendice 2 des présents motifs; elle arrive, en utilisant le calcul spécial de l'impôt, à un montant d'impôt légèrement inférieur (12 982 $) à celui du ministre (13 082 $). Toutefois, l'appelante reconnaît que les calculs afférents aux intérêts peuvent faire l'objet d'un rajustement.
+[26] Dans sa lettre, l'appelante a également soulevé le fait qu'un montant excessif d'impôt a été retenu à la source sur le paiement forfaitaire. En ce qui concerne cette dernière assertion, la perception des impôts n'est pas une question que la Cour est autorisée à trancher, compte tenu de l'article 12 de la Loi sur la Cour canadienne de l'impôt ainsi que des articles 169 et 171 de la Loi. La compétence de la Cour se limite à l'annulation ou à la modification des cotisations si les montants établis sont erronés ou, s'ils sont exacts, la Cour peut confirmer ces montants. La perception des impôts n'est pas une question qui relève de la compétence de la Cour en vertu de la législation applicable.
+[27] Quant au calcul de l'impôt, les résultats obtenus par le ministre et par l'appelante sont plus avantageux pour l'appelante lorsque le calcul spécial de l'impôt est utilisé pour le PFRA sans répartir au prorata le montant remboursé sur cinq ans, mais en l'imputant plutôt aux trois premières années. Il n'y a rien dans la Loi qui indique qu'une méthode particulière doive être utilisée lorsqu'il s'agit d'appliquer le remboursement à des années antérieures. En fait, la Loi prévoit que l'impôt hypothétique payable est calculé pour chaque année d'imposition à laquelle une partie déterminée du PFRA reçu par le contribuable se rapporte. Et l'expression « partie déterminée » du PFRA est définie comme s'entendant de la partie du PFRA qui se rapporte à l'année admissible, dans la mesure où le particulier était en droit de la recevoir au cours de l'année admissible en question. Dans ce contexte, la méthode proposée par l'appelante n'est pas, à mon avis, déraisonnable; elle est conforme aux paramètres de la définition susmentionnée de la partie déterminée à répartir entre les années antérieures.
+[28] De fait, l'appelante a reçu un paiement en trop de 64 571 $ de la Sunlife pendant une période de 68 mois (c'est-à-dire du 20 janvier 1995 au 31 août 2000, selon la pièce A-3). Cela représente un montant de 950 $ par mois (64 571 $ divisé par 68), ou de 11 400 $ par année. En 2000, l'appelante a remboursé un montant de 34 817 $, sur lequel un montant de 26 743 $ a été imputé par la Sun Life au paiement en trop versé au titre de l'assurance-salaire des années antérieures. L'appelante a réparti ce montant de 26 743 $ comme suit : 9 866 $ en 1995, 11 242 $ en 1996 et le solde de 5 635 $ en 1997, de sorte que le PFRA était nul pour les années 1995 et 1996 et qu'il s'élevait à 5 940 $ (11 575 $ moins 5 635 $) en 1997, à 11 794 $ en 1998 et à 11 901 $ en 1999. Je souscris aux montants révisés auxquels l'appelante est arrivée.
+[29] J'admets donc l'appel, et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que le PFRA s'élève à 29 634 $, soit l'excédent de la partie du paiement forfaitaire reçu par l'appelante au cours de l'année 2000 qui s'applique aux années antérieures (56 377 $) sur le montant remboursé au cours de l'année 2000 et réparti entre les années antérieures (26 743 $). Le ministre devra déterminer l'impôt fédéral de base de l'appelante pour l'année d'imposition 2000 en utilisant le calcul spécial de l'impôt prévu aux articles 110.2 et 120.31 de la Loi et en basant le calcul sur la répartition révisée du PFRA entre les années 1997, 1998 et 1999 proposée par l'appelante à l'annexe A de sa lettre du 1er décembre 2004 (reproduite à l'appendice 2 de ces motifs de jugement), à savoir 5 940 $ (11 575 $ moins 5 635 $) pour 1997, 11 794 $ pour 1998 et 11 901 $ pour 1999.
+Signé à Ottawa, Canada, ce 15e jour de décembre 2004.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+Ce 12e jour de décembre 2005
+Nathalie Boudreau
+APPENDICE 1
+CALCUL DE L'IMPÔT HYPOTHÉTIQUE Annexe « A »
+Taux d'imposition FÉD.
+Taux d'imp. 2000
+Taux d'imposition 2000
+17 % < 29 590
+26 % (29 591 > 50 180)
+29 % > 50 180
+Surtaxe
+5 030,00
+7 693,40
+3 %
+5 030,00
+7 693,40
+3 %
+5 030,00
+7 693,40
+3 %
+5 030,00
+7 693,40
+3 %
+5 030,00
+7 693,40
+1,50 %
+25 % > 30 004
+5 % si > 15 500
+5 101,00
+5,00 %
+PAR OPP. À
+25 % > 30 004
+5 % si > 15 500
+5 101,00
+5,00 %
+Taux d'imposition ONTARIO
+% de l'impôt féd.
+58 %
+56 %
+48 %
+42,75 %
+39,50 %
+6,37 % < 30 004
+9,62 % (50 009 > 30 004)
+11,16 % > 60 009
+1 911,00
+4 798,00
+Paiement forfaitaire/
+remboursement appliqué
+6,37 % < 30,004
+9,52 % (50 009 > 30 004)
+11,16 % >
+60 009
+1 911,00
+4 798,00
+CALCUL DE L'IMPÔT
+1995
+1996
+1997
+1998
+1999
+2000
+2000 Écart
+Revenu imposable antérieur
+28 059,00
+34 725,00
+24 119,00
+28 366,51
+30 455,00
+38 101,62
+38 101,62
+(1)
+Paiement forfaitaire
+9 865,91
+11 242,56
+11 574,24
+11 794,56
+11 901,36
+38 101,62
+5 101,00
+2 024,41
+(1 518,00)
+5 607,41
+56 378,63
+* 4 047,47
+56 378,63
+(2)
+Remboursement
+(9 865,91)
+(11 242,56)
+(5 634,66)
+(26 743,13)
+*(8 074,08)
+(26,743,13)
+29 635,50
+* Montants déduits du paiement forfaitaire et remboursement du montant forfaitaire étant donné qu'ils avaient déjà été inclus dans le « revenu imposable antérieur »
+67 737,12
+Revenu imposable
+IMPÔT fédéral*
+17 %
+26 % sur $ > 29 590 $
+Crédits d'impôt non remboursables
+Surtaxe de 3 %
+28 059,00
+4 770,03
+-
+(1 097,52)
+3 672,51
+34 725,00
+5 030,00
+1 335,10
+(1 100,92)
+5 264,18
+Annulé
+30 058,58
+5 030,00
+121,83
+(1 097,52)
+4 054,31
+Annulé
+40 161,07
+5 030,00
+2 748,48
+(1 253,00)
+6 525,48
+Annulé
+42 356,36
+5 030,00
+3 319,25
+(1 297,00)
+7 052,25
+Annulé
+M. de base
+25 % x 30 004
+5 101,00
+9 433,28
+(1 518,00)
+13 016,28
+s/o
+-
+Impôt FÉDÉRAL révisé (avant SURTAXE)
+3 672,51
+5 264,18
+4 054,31
+6 525,48
+7 052,25
+5 607,41
+IMPÔT FÉDÉRAL DE BASE
+13 016,28
+Impôt FÉDÉRAL de base antérieur
+3 672,51
+5 264,18
+3 002,66
+3 569,36
+3 957,50
+5 600,48
+5 600,46
+Différence dans L'IMPÖT FÉDÉRAL DE BASE
+-
+-
+1 051,65
+2 956,12
+3 094,75
+6,93
+7 109,45
+7 415,80
+A
+120.31(3)a)
+120.31(3)b)
+Impôt hypothéthique avant surtaxe
+- Intérêts payables
+1 051,65
+130,05
+2 956,12
+141,82
+3 094,75
+5 607,41=
+=
+12 709,93
+271,67
+12 981,60
+PAR OPP. À
+13 324,40
+B
+120.31(3)a)
+120.31(3)b)
+Calcul antérieur du PFRA
+- Intérêts payables
+-
+-
+-
+2 473,24
+305,84
+3 140,77
+8 270,33=
+=
+13 884,34
+305,84
+14 190,18
+** Intérêts [Même taux appliqué dans le calcul de l'ADRC]
+NOTA : l'adrc n'a donné aucune explication au sujet du montant de 13 324,40 $ utilisé dans cette comparaison
+APPENDICE 2
+Appelante :
+Jocelyne Laframboise
+ANNEXE B
+CALCUL DE L'IMPÔT RÉVISÉ POUR LE PFRA SELON L'ORDONNANCE ET LE PROJET DE
+MOTIFS DE JUGEMENT EN DATE DU 17 SEPTEMBRE 2004 AINSI QUE SELON LES INSTRUCTIONS
+SUPPLÉMENTAIRES DONNÉES PAR LA JUGE LAMARRE LE 3 NOVEMBRE 2004
+ANNÉE D'IMPOSITION 2000
+Montant du paiement forfaitaire réparti entre les années 1995 à 1999 - 29 634 $
+Année
+Montant réparti antérieurement
+Augmentation telle qu'indiquée ci-dessous
+Montant réparti révisé
+1995
+5 186 $
+sans objet
+1996
+5 909 $
+sans objet
+1997
+6 084 $
+3 698 $***
+9 782 $
+1998
+6 199 $
+3 698 $***
+9 897 $
+1999
+6 256 $
+3 699 $***
+9 955 $
+Total
+29 634 $
+11 095 $***
+29 634 $
+*** Les montants pour les années 1997 à 1999 ont été calculés de nouveau en ajoutant les montants antérieurement répartis entre les années 1995 et 1996, en divisant par 3 et en ajoutant ces montants aux totaux antérieurs pour les années 1997 à 1999.
+Montant réparti antérieurement
+5 186,00 $
+5 909,00 $
+11 095,00 $
+divisé par 3
+3 698,33 $
+CALCUL DE L'IMPÔT RÉVISÉ POUR CHAQUE ANNÉE
+2000
+Revenu imposable antérieurement établi
+67 736,00 $
+Moins : PF révisé réparti entre les années antérieures
+29 634,00 $
+Revenu imposable révisé
+38 102,00 $
+Revenu imposable selon l'annexe 1
+38 102,00 $
+Moins : Seuil de revenu
+30 004,00 $
+Sous-total
+x 25 %
+8 098,00 $
+2 024,50 $
+Plus : Impôt sur le montant de seuil
+5 101,00 $
+Sous-total
+7 125,50 $
+Moins : Crédits d'impôt non remboursables
+1 518,00 $
+Impôt fédéral révisé payable
+5 607,50 $
+Appelante :
+Jocelyne Laframboise
+ANNEXE C
+CALCUL DE L'IMPÔT RÉVISÉ POUR LE PFRA SELON L'ORDONNANCE ET LE PROJET DE
+MOTIFS DE JUGEMENT EN DATE DU 17 SEPTEMBRE 2004 AINSI QUE SELON LES INSTRUCTIONS
+SUPPLÉMENTAIRES DONNÉES PAR LA JUGE LAMARRE LE 3 NOVEMBRE 2004
+Année
+1997
+1998
+1999
+Revenu imposable antérieur
+Ajouter : Montant réparti révisé
+Revenu imposable révisé
+Revenu imposable selon l'annexe 1
+Moins : Seuil de revenu
+Sous-total
+x 26 %
+Plus : Impôt sur le montant de seuil
+Sous-total
+Moins : Crédits d'impôt non remboursables
+Impôt fédéral de base révisé
+Moins : Impôt fédéral de base antérieur
+différence 120.31(3)a) de la LIR
+Ajouter : Intérêts payables - 120.31(3)b) de la LIR
+« Impôt réputé » total selon 120.31(3) de la LIR
+Impôt additionnel total et intérêts payables
+1997
+1998
+1999
+2000
+Montant total de l'impôt
+24 119,00 $
+9 782,00 $
+33 901,00 $
+33 901,00 $
+-29 590,00 $
+4 407,00 $
+1 120,86 $
+5 030,00 $
+6 150,86 $
+-1 097,00 $
+5 053,86 $
+-3 002,66 $
+2 051,20 $
+254,10 $
+2 305,30 $
+de l'Annexe B
+28 367,00 $
+9 878,00 $
+38 264,00 $
+38 264,00 $
+-29 590,00 $
+8 674,00 $
+2 255,24 $
+5 030,00 $
+7 285,24 $
+-1 253,00 $
+6 032,24 $
+-3 569,36 $
+2 462,88 $
+117,98 $
+2 580,86 $
+2 305,30 $
+2 580,86 $
+2 588,70 $
+5 607,50 $
+13 082,36 $
+30 455,00 $
+9 955,00 $
+40 410,00 $
+40 410,00 $
+-29 590,00 $
+10 820,00 $
+2 813,20 $
+5 030,00 $
+7 843,20 $
+-1 297,00 $
+6 546,20 $
+-3 957,50 $
+2 588,70 $
+-
+2 588,70 $
+CONCLUSION : Étant donné que l'impôt fédéral de base selon le calcul ci-dessus est inférieur à l'impôt fédéral de base de 13 324,83 $, ce calcul spécial de l'impôt est avantageux pour l'appelante.
+RÉFÉRENCE :
+2004CCI639
+No DU DOSSIER DE LA COUR :
+2003-2652(IT)I
+INTITULÉ :
+Jocelyne Laframboise c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATE DE L'AUDIENCE :
+Le 2 mars 2004
+OBSERVATIONS ÉCRITES DE Le 31 mars 2004
+L'INTIMÉE REÇUES :
+OBSERVATIONS ÉCRITES DE L'APPELANTE REÇUES :
+Le 3 mai 2004
+L'INTIMÉE A FAIT SAVOIR QU'ELLE NE SOUMETTRAIT AUCUNE RÉPONSE :
+Le 18 mai 2004
+ORDONNANCE SUSPENDANT LE JUGEMENT :
+Le 17 septembre 2004
+RÉPONSE DE L'INTIMÉE À L'ORDONNANCE :
+Le 1er octobre 2004
+RÉPONSE DE L'APPELANTE :
+Le 17 octobre 2004
+TÉLÉCONFÉRENCE POUR PRÉCISIONS :
+Le 3 novembre 2004
+RÉPONSE DE L'INTIMÉE AUX INSTRUCTIONS DE LA COUR :
+Le 24 novembre 2004
+RÉPONSE DE L'APPELANTE :
+Le 1er décembre 2004
+MOTIFS DU JUGEMENT : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 15 décembre 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocates de l'intimée :
+Me Marlyse Dumel
+Me Justine Malone
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

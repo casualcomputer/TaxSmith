@@ -1,0 +1,176 @@
+Title: Sozio v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/356487/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-258-356487-sozio-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-12-18
+
+# Sozio v. The Queen
+
+- Citation: 2018 TCC 258
+- Decision date: 2018-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4989, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sozio v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-12-18
+Neutral citation
+2018 TCC 258
+File numbers
+2017-4360(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-4360(GST)I
+BETWEEN:
+FILOMENA SOZIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 26, 2018, at Hamilton, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Craig Burley
+Counsel for the Respondent:
+Devon E. Peavoy
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the Appeal in respect of the New Housing Rebate of Harmonized Sales Tax under the Excise Tax Act RSC 1985, c. E-15 as amended, is dismissed, without costs, on the basis that the Appellant did not have the requisite initial intention to occupy the property in question as a primary place of residence.
+Signed at Ottawa, Canada, this 18th day of December 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2018 TCC 258
+Date: 20181218
+Docket: 2017-4360(GST)I
+BETWEEN:
+FILOMENA SOZIO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction
+[1] The Appellant, Ms. Sozio, brings this Appeal because the Minister of National Revenue (the “Minister”) has denied her application for a new Housing Rebate of Harmonized Sales Tax (“HST”) under the Excise Tax Act, RSC 1985, c. E-15, as amended (the “Act”). The Minister asserts Ms. Sozio fails to satisfy the following three factual elements:
+i) she did not have an intention to occupy the subject property, 14 Dulgaren St., Hamilton (“Dulgaren”) at the time she became bound under the agreement of purchase and sale (“APS”) to acquire it; and
+ii) neither she nor a relative occupied Dulgaren as a primary residence or a place of residence; and/or
+iii) she resided continually throughout the material period at 48 Holimont Court, Hamilton (“Holimont”).
+[2] These factual bases for denying the rebate engage the following provisions of the Act:
+254(2) Where
+…
+(b) at the time the particular individual becomes liable … under an agreement of purchase and sale of the … unit … the particular individual is acquiring the complex or unit for use “as the primary place of residence of the particular individual or a relation of the particular individual”,
+…
+and
+…
+(g) either
+(i) the first individual to occupy the … unit as a place of residence at any time after substantial completion … is
+(A) … the particular individual or a relation of the particular individual,
+…
+or
+(ii) the particular individual makes an exempt supply by way of sale of the … unit and ownership … is transferred to the recipient of the supply before the complex or unit is occupied by any individual as a place of residence or lodging, or exempt supply before occupancy
+…
+[3] In bringing this appeal, Ms. Sozio asserts she has satisfied:
+a) firstly, the requirement that at the time she became bound she had the requisite intention (“initial intention”) to acquire Dulgaren as a primary place of residence; and
+b) secondly, the requirement that she either:
+(i) first occupied, either directly or through her relations, Dulgaren as a place of residence (“first to occupy”); or
+(ii) no person occupied Dulgaren until she sold Dulgaren to a third party by way of an exempt supply and such third party became the first to occupy (“unoccupied exempt sale”) Dulgaren as a place of residence.
+II. The Evidence of Ms. Sozio
+acrimonious divorce
+[4] Ms. Sozio is a real estate agent. She was the only witness. She went through an acrimonious divorce during the period 2009 until early 2013. She testified to the fact that there was much contested litigation, including her ex-spouse’s collateral motivation to keep the couple’s two daughters from living with Ms. Sozio and her then fiancé, later her husband. The original matrimonial home, on Armour Crescent in Hamilton (“Armour”) was central to this family dispute. Its sale was constrained and delayed by the divorce litigation. According to Ms. Sozio, this resulted in the need to “economize” in order to live within lesser means and still fund her daughters’ upcoming post-secondary educations.
+the need to economize
+[5] To achieve such economies, Ms. Sozio entered into the APS to acquire Dulgaren, a townhouse, in early November, 2012. She was a listing broker for all units in the complex. She was able to reserve Dulgaren for herself. Her boyfriend/fiancé, affiliated as a sub-trade with the project developer, also reserved a unit in the complex as an investment. He chose the unit situated beside Ms. Sozio’s. Ms. Sozio clarified that direct adjacency on cross-examination. Previously, in examination-in-chief, she originally described her fiancé’s unit as being in the “middle of the project”.
+the initial desire for a special home
+[6] According to Ms. Sozio, she wished to acquire Dulgaren as a family home for her and her two daughters. It had four bedrooms, but extra outlays would make it special. To make this house a “special home”, Ms. Sozio upgraded the fourth bedroom to include an office window, granite counter-tops and hardwood staircase and flooring throughout, among other things. The plans did not include her boyfriend/fiancé (“Joe”). Joe would remain at Holimont. The exclusion of Joe and the acquisition of Dulgaren apparently coincided with the opaque wishes and manoeuvrings of Ms. Sozio’s ex-husband. There was even some suggestion, at the hearing, that child support was contingent on Ms. Sozio “maintaining a home” for her daughters independent of Joe. Ms. Sozio also implied that a court order somehow constrained co-habiting with the girls and Joe at the same time. No such order was produced at the hearing beyond the extensive Divorce Order signed January 31, 2013. It contained no such provision.
+two other residences in play
+[7] Dulgaren was, of course, under construction when acquired in November of 2012. Previously, after moving out of Armour in 2009, Ms. Sozio acquired another residence, 71 Da Vinci Avenue, Hamilton (“Da Vinci”). She resided at Da Vinci with her daughters from November 2009 until she moved in with Joe at Holimont in the summer of 2013. Ms. Sozio and Joe were married in June, 2014. By the fall of 2014, both daughters were away as school and no longer lived with Ms. Sozio at any residence in Hamilton.
+outfitting Dulgaren
+[8] Ms. Sozio took title to Dulgaren on November 13, 2014. New appliances, bedroom furniture for her daughters and other items arrived to Dulgaren directly from furniture suppliers. Used furniture was moved by trucks, “owned by us”, from the basement storage of the “by then” rented Da Vinci; Da Vinci had been rented to tenants after Ms. Sozio moved in with Joe at Holimont in the summer of 2013. Ms. Sozio maintained a basement storage area.
+Dulgaren not suitable
+[9] Over the Christmas holidays of 2014-2015, family discussions culminated in the decision to sell Dulgaren or otherwise consolidate residences. The daughters were no longer living with Ms. Sozio and visits to Hamilton, according to Ms. Sozio, could now occur at Holimont with Joe, rather than at an independent location.
+Dulgaren’s rapid listing and sale
+[10] Dulgaren was listed for sale on February 19, 2015 and sold on February 24, 2015. Ms. Sozio’s penchant for renting her properties extended to Dulgaren. Although vaguely described in her testimony and referenced in the reply, Dulgaren was rented on the internet through Air BNB. The “single” rental did not end well. There was damage to the drywall, insulation and damaged broadloom, which required the “cleaning and cutting and replacement of damaged sections”.
+III. Issues and Jurisprudence
+initial intention: the first requirement
+[11] The Minister has assumed that Ms. Sozio did not have the initial intention to occupy and that she was not the first to occupy Dulgaren. Therefore, Ms. Sozio must firstly satisfy the Court she intended to occupy Dulgaren as a primary place of residence. Secondly, she must satisfy the Court she actually resided, either directly or indirectly through her daughters, at Dulgaren as its first occupant(s).
+alternative submission at hearing
+[12] An alternative argument was raised by Ms. Sozio’s counsel at the hearing: if Dulgaren was not occupied as a residence by Ms. Sozio or her daughters, then alternatively, it was sold by Ms. Sozio before any occupancy as an exempt supply to a third party who then first occupied Dulgaren as a primary place of residence. This alternative argument still requires satisfaction of the initial intention, but obviates the need to be the first to occupy on the basis that the initial intention to occupy has been frustrated.
+the requirements of subsection 254(2)
+[13] As this Court stated in the case of Margolin v HMQ, 2018 TCC 36, the Tax Court of Canada has interpreted on multiple occasions the statutory framework of intention and occupancy to determine use as a primary residence.
+[14] To paraphrase paragraphs 6 and 7 of Margolin, itself a digest of various GST rebate cases, it was stated:
+i) Initial intention to occupy as a residence
+[6] Subsection 254(2) requires intention to be determinatively measured at the time the purchaser becomes legally bound under the agreement of purchase and sale (the “APS”) concerning the property: Wong v HMQ, 2013 TCC 23 at paragraph 10. The determination at that critical moment will be informed by the stated intention of the claimant. However, this subjective intention is occasionally unreliable and must be filtered through the prism of “actual use” of the rebate property: Coburn Realty Ltd. v Canada, 2006 TCC 245 at paragraph 10, itself referencing 510628 Ontario Ltd. v HMQ, [2000] TCJ No 451, 2000 GSTC 58 at paragraph 11. Accordingly, such a factual analysis of the surrounding factual circumstances is necessary: Nahid Safar-Zadeh v HMQ, 2017 TCC 35 at paragraph 4.
+ii) Occupancy by the claimant of the property as a primary place of residence
+[7] While subjective intention to occupy a property necessarily directs the finder of fact to the objective factual evidence surrounding the intention at the time the APS becomes binding, it is also relevant at the subsequent time when the claimant must be the first to occupy the property as a residence with elements of use rendering it the primary place of residence: Mahendran Kandiah v HMQ, 2014 TCC 276 at paragraph 20. As an example, renting or selling the home before occupancy, notwithstanding the initial intention, will invalidate a claim: Napoli v HMQ, 2013 TCC 307 at paragraph 11. There must be some evidence of positive action culminating in first occupancy of the property as a primary place of residence: Kandiah at paragraphs 21 and 22. Plans may change to shorten or truncate the long term plans after brief occupancy, but the change in plans cannot have taken place or have been contemplated at the time the APS became binding: Montemarano v HMQ, 2015 TCC 151 at paragraph 16.
+is the intention borne out by credible evidence?
+[15] Each case is an exercise in analyzing the taxpayer’s subjective intention using the unique facts of each appeal across a variety of indicia. The facts will provide direction and inform the application and weight to be given to the indicia. In short, is what a taxpayer says or intended supported across the waypoints of occupancy. Such indicia of occupancy as a primary residence are logical:
+a) demarcation of primary place of residence by change of address;
+b) the relocation of sufficient personal effects to the rebate property;
+c) if no occupancy of the residence, was there cogent evidence of frustration of occupancy;
+d) permanent occupant insurance versus seasonal or rental coverage;
+e) delivery of possession of previous primary residence to another;
+f) If dual occupancy continues, then the rebate property must be more frequently occupied, more convenient to third party locations such as work, more convenient amenities and more suitable to the needs of the taxpayer.
+[16] Even at that, these indicia are not exhaustive and will expand and contract based upon each unique factual situation.
+a) demarcation by change of address
+[17] Ms. Sozio did not change her driver’s licence, health cards or other pieces of critical person information. Her response was, “why would I”? She indicated she was constantly living between the two properties. She also did not change her address for service with the CRA. There was no evidence tendered that either of her daughters did so. In fact, the evidence was that for the daughters, any Hamilton area residence would be the typical summer and holiday residence when they were not otherwise “away at school” 8 months of the year.
+b) relocation of personal effects
+[18] Aside from the furniture, primarily purchased from IKEA, there was little independent evidence of the relocation of any personal effects or previously owned furniture to Dulgaren. There were no movers utilized and, not surprisingly, there were no invoices, manifests or work orders with which to gauge the degree and extent of the move. Moreover, given the property was listed and rented for short-term rentals on the internet in January, 2015, it is difficult to imagine personal effects of value had been relocated from Holimont to Dulgaren. There were no photographs, screen shots or phone snaps of the furnished Dulgaren, the Christmas holidays purportedly celebrated there or the actual damage suffered from the Air BNB rental.
+c) if no occupancy, was there evidence of frustration
+[19] Ms. Sozio’s testimony was that Dulgaren had been occupied by her and her daughters during the Christmas holidays of 2014-2015. It was during this occupancy that the determination to sell Dulgaren was made. Or, as corrected in subsequent testimony, to consolidate the occupied and owned properties: Dulgaren, Da Vinci and Holimont. There were inconsistencies and a comingling in this testimony concerning frustration, the degree of occupancy and the actual sale. While Ms. Sozio claimed some kind of obligation existed with the ex-husband concerning a separate residence for her and her daughters but excluding Joe, there were no supportive details. Apart from the public policy issues concerning such covenants in modern family law, assuming it was merely a “moral” undertaking, there is no evidence why it was honoured in November 2012 when Dulgaren was initially acquired, but jettisoned in December 2014 when the property was completed. The only evidence before the Court concerning an alteration of a relationship was not with Mrs. Sozio’s ex-husband and father of her daughters, whose status remained such, but rather with Joe, her boyfriend. He became her future neighbour on Dulgaren in 2012, her fiancé in the summer of 2013 and husband in June 2014. Curiously, there was not much testimony that her engagement and marriage were critical intervening events. Instead, it was the ex-husband’s constructive waiver of his requirement and concern regarding a separate home for her daughters.
+[20] Ms. Sozio claims to have celebrated the holidays at Dulgaren. This is inconsistent with the MLS sale listing which described Dulgaren as “never lived in” and having “new unused appliances”. The same MLS listing agreement commenced February 19, 2015 and reveals a selling date of February 24, 2015. Yet, the Agreement of Purchase and Sale concerning Dulgaren, pleaded within the Minister’s assumptions contained in the reply, bears an execution date identical to the listing date: February 19, 2015. What this does support is Ms. Sozio’s assertion that “it didn’t take a lot to sell”; the “listing” to “sale” of Dulgaren in mere hours bears witness to that. The Agreement of Purchase and Sale selling Dulgaren was not produced by Ms. Sozio.
+d) permanent occupant insurance vs. seasonal or rental coverage or binder
+[21] No policy or initial insurance certificate was produced at the hearing. Instead, a simple page 3 and 4 of the cancellation endorsement was produced. From that partial document, a determination of the nature of the insurance policy cannot be made. Clearly itemized however, is the notation related to Dulgaren which provides that “Vandalism and Malicious Acts coverages are not covered for damage caused by a Tenant of the insured”. Apart from the unfortunate coincidence of this coverage limitation with the Air BNB damage, it would appear rental of the unit was not prohibited in this policy.
+e) delivery of previous primary residence
+[22] This particular factor is the crux of the matter. It is undisputed that Ms. Sozio lived at Holimont prior to taking possession of Dulgaren. Her daughters occupied Dulgaren, if at all, during several nights of the Christmas holidays. This is not sufficient. As for Ms. Sozio, her primary testimony and submissions are that she was the first to occupy Dulgaren for some period between early December 2014 and early January 2015. The property she left to do so was Holimont where she lived with her husband and to which and to whom she returned in January 2015. In support of this, she admits her belongings were parsed among Holimont with Joe, Dulgaren with her visiting daughters and Da Vinci in basement storage.
+conclusions
+[23] In not one of these categories is there evidence which challenges the Minister’s assumptions concerning the lack of vital initial intention to occupy the property as her primary place of residence. Second, on balance, she did not. From the evidence it is undisputed that Ms. Sozio occupied Da Vinci as her residence from November 2009 until June 2013 when she moved to Holimont with Joe. On balance, it is Holimont that remained Ms. Sozio’s primary place of residence from 2013 onward.
+[24] Bald assertions of being the first to occupy Dulgaren are not assisted by the further inconsistencies in her testimony relevant to the initial intention to occupy Dulgaren as her primary place of residence. During the time relevant to such initial intention, Ms. Sozio claimed she selected “upgrades” at Dulgaren, which although at additional cost, made this townhome a “proper home”. It is true she did select these “upgrades” or “extras”. However, the suggestion they were at additional cost to her is simply not true. Initially, all such “extras” or “upgrades” were costed within the APS. The incremental amount was then clearly noted as “no charge” with a “Total Options Price” of “$0.00”. The upgrades may have been strong preferences, but the additional window, hardwood staircase, granite countertop and sliding windows came at no additional cost. As well, Joe’s unit in the same project was adjacent to Ms. Sozio’s. He rented it out and still does. In evidence in-chief, Ms. Sozio described Joe’s unit as “in the interior of the project” while hers was not. She was required to correct in cross-examination. The best light to be assigned to this retreat, from a credibility standpoint at least, is that it glosses over inconvenient fact.
+[25] Lastly, there simply was no evidence or supporting testimony concerning the need for a separate residence for Ms. Sozio and her daughters, but excluding Joe. This is her primary, asserted justification for acquiring this third additional residence, aside from the need to economize. One understands why the purported originator of the requirements, Ms. Sozio’s ex-husband, may not have testified. He is an antipathetic ex-spouse. However, there was no written provision, communication, daughters’ testimony or Joe’s corroborative evidence asserting such a requirement existed, moral or otherwise. The absence of their testimony concerning the need for an additional “family home” was also not heard. While this may not be essential, Ms. Sozio’s unsupported self-serving and vague testimony cannot defeat or demolish the Minister’s assumptions of fact concerning initial intention.
+evaluating the evidence of occupancy
+[26] Similarly, the unsupported assertion of occupancy during December 2014 is undermined by Ms. Sozio’s own actions and other documents. As an example, the selling MLS listing references an unoccupied and never used residence. As odd as that may seem given the occupancy requirement for the HST rebate, these are the precise words used. Ms. Sozio, a fact not to be forgotten, is a real estate agent. Blaming such an error on the advertiser or agent will not work. Additionally, the Court may reasonably conclude that the sale listing for Dulgaren was not causal to its sale. The APS for sale was current-dated with the MLS sale listing agreements. This brings this case factually in line with Margolin where the sale of the subject property, also owned by a real estate agent, had coincident listing and binding sale date. While not fatal, the uncorroborated evidence of a multiple property-owning real estate agent-appellant needs crisp and clear consistency of initial intention to defeat the assumptions of the Minister. Some, perhaps any, evidence from a lesser or disinterested third party might do the same. Where the evidence marshalled to do so is inconsistent or absent, the Minister’s assumptions are not demolished and remain: no initial intention, no first occupancy and continuous primary residency at Holimont.
+f) unoccupied exempt sale
+[27] The Court deals finally with the submission by the Appellant of an occupied exempt sale. This alternative assertion was first raised at the hearing and is not present in the notice of appeal. The notice of appeal only pleaded requisite initial intention and Ms. Sozio was the first to occupy “the Property as her primary place of residence after the Closing Date”. The pleading further indicates that Ms. Sozio “was subsequently to vacate the Property because it became unsuitable to her as a residence, due to changing family circumstances”.
+[28] The Court rejects this argument and submission on several grounds. Firstly, the argument is still grounded factually in whether Ms. Sozio occupied the property and, if that be insufficient, was then frustrated in doing so by subsequent family circumstances. However, the primary circumstances which may have altered such a decision subsisted months if not a full year before completion of Dulgaren. It was in 2013 when Ms. Sozio moved to Holimont with Joe and 2013 when her daughters began leaving for school.
+[29] Secondly, and relevant to the issue of frustration, is whether such an unforeseeable event beyond her control arose to make living primarily and habitually at Dulgaren not possible. At the time she entered into the APS for Dulgaren, she knew her daughters would likely go away to school. She stated that as the reason for economizing. When Ms. Sozio bought Dulgaren, she already owned Da Vinci. Joe owned Holimont and the lot next to Dulgaren. Choosing among these properties was foreseeable, whether living with Joe or not. In totality, this was not, as in some cases before the Court, a situation of an unforeseeable event beyond the buyer’s control which made Ms. Sozio unable to first occupy Dulgaren primarily as her residence: Gagné v. Her Majesty the Queen, 2007 TCC 175 at paragraph 20. Even Ms. Sozio’s uncorroborated evidence does not lead to the conclusion such events were or approached being unforeseeable, uncontrollable and/or prohibitive of occupancy. Such events were more akin to preferences rather than compelled decisions. It was Ms. Sozio’s choice to make her occupancy of Dulgaren insufficient, half-hearted and/or abrupted; unchosen events did not primarily compel or determine such an outcome: Kandiah v. Her Majesty the Queen, 2014 TCC 276 at paragraph 24, itself referencing Gagné, supra. The facts in this appeal do not rise to the thresholds of unforseeability, lack of control and absence of real choice required to embrace frustration as an excuse for a failure to be the first to occupy.
+[30] For the above reasons, the appeal is dismissed, without costs. Ms. Sozio did not have the requisite intention to occupy Dulgaren as her primary place of residence at the time she became liable to acquire it under the APS. Beyond that, she neither first occupied Dulgaren nor failed to do so because her occupancy was thwarted by frustration.
+Signed at Ottawa, Canada, this 18th day of December 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2018 TCC 258
+COURT FILE NO.:
+2017-4360(GST)I
+STYLE OF CAUSE:
+FILOMENA SOZIO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 26, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+December 18, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Craig Burley
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Craig Burley
+Firm:
+Craig Burley, Barrister & Solicitor
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

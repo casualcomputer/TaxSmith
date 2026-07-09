@@ -1,0 +1,547 @@
+---
+title: "Greer c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521125/index.do"
+last_modified: "2022-08-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 100"
+citation2: ""
+neutral_citation: "2023 CCI 100"
+decision_date: "2022-08-17"
+language: "fr"
+item_id: "521125"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5844
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:44:16.796000+00:00"
+cases_cited_count: 8
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "432f66f826079461692b7d8c0e6c900f2351195a7e6c93efe3226617c799239d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Greer c. Le Roi
+
+- Citation: 2023 CCI 100
+- Decision date: 2022-08-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5844, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Greer c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-07-17
+Référence neutre
+2023 CCI 100
+Numéro de dossier
+2017-3940(IT)G
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3940(IT)G
+ENTRE :
+MICHAEL GREER,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 16, 17 et 18 août 2022, à Fredericton (Nouveau‑Brunswick) (observations écrites supplémentaires reçues le 24 février 2023, le 31 mars 2023 et le 24 avril 2023).
+Devant : l’honorable juge David E. Spiro.
+Comparutions :
+Avocate de l’appelant :
+Me Erica C. Brown
+Avocat de l’intimé :
+Me Tokumbo Omisade
+JUGEMENT
+L’appel visant la nouvelle cotisation établie sous le régime de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2005 est accueilli sans dépens, et la nouvelle cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation au motif que, conformément au paragraphe 15(1) de la Loi, l’appelant devait inclure dans le calcul de son revenu pour l’année d’imposition 2005 la somme de 2 436 900 $ à titre d’avantage conféré à un actionnaire.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2023.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 19e jour de février 2025.
+Mylène Boudreau, jurilinguiste principale
+Référence : 2023 CCI 100
+Date : 20230717
+Dossier : 2017-3940(IT)G
+ENTRE :
+MICHAEL GREER,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] La question principale à trancher en l’espèce est celle de savoir si l’appelant, M. Michael Greer, était tenu d’inclure dans le calcul de son revenu pour l’année d’imposition 2005 un avantage conféré à un actionnaire après avoir reçu des biens réels d’une valeur de plus de 2,4 millions de dollars d’une société appartenant à la succession de son défunt père. La juste valeur marchande de ces biens est également en cause.
+[2] Dans l’affirmative, la question subséquente est celle de savoir si le ministre du Revenu national (le « ministre ») avait le droit d’établir une nouvelle cotisation en tenant compte de cet avantage après la période normale de nouvelle cotisation. Si l’appelant a fait une présentation erronée des faits par négligence ou inattention en produisant sa déclaration de 2005, le ministre avait le droit d’établir une nouvelle cotisation. À cet égard, il incombait à la Couronne d’en faire la preuve.
+[3] Je conclus que l’appelant était tenu d’inclure un avantage conféré à un actionnaire dans le calcul de son revenu de 2005. Le ministre avait le droit d’établir une nouvelle cotisation en tenant compte de cet avantage, même après la période normale de nouvelle cotisation parce que, en omettant de déclarer cet avantage, l’appelant a fait une présentation erronée des faits par négligence ou inattention. Je conclus également que la juste valeur marchande des biens réels était de 2 436 900 $, et non de 2 846 200 $ comme l’a supposé le ministre.
+I. Introduction
+[4] Le ministre a établi une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2005 afin d’ajouter 2 846 200 $ dans le calcul de son revenu, conformément aux paragraphes 15(1) et 15(2) de la Loi de l’impôt sur le revenu (la Loi). En particulier, le ministre a ajouté les sommes suivantes :
+a)1 584 200 $ à titre d’avantage conféré à un actionnaire, conformément au paragraphe 15(1) de la Loi;
+b)1 262 000 $ à titre de prêt consenti à un actionnaire, conformément au paragraphe 15(2) de la Loi.
+[5] Voici les parties pertinentes des paragraphes 15(1) et 15(2) de la Loi :
+15(1) La valeur de l’avantage qu’une société confère, à un moment donné d’une année d’imposition, à un actionnaire […] est incluse dans le calcul du revenu de l’actionnaire pour l’année […]
+15(2) La personne […] – actionnaire d’une société donnée […] – qui, au cours d’une année d’imposition, obtient un prêt ou contracte une dette auprès de la société donnée […] est tenue d’inclure le montant du prêt ou de la dette dans le calcul de son revenu pour l’année. [...]
+[6] Dans la nouvelle cotisation, la somme de 1 584 200 $ que le ministre a ajoutée à titre d’avantage conféré à un actionnaire conformément au paragraphe 15(1) correspond à la différence entre le prix que le ministre supposait que l’appelant avait payé pour quatre biens réels situés à Fredericton, au Nouveau‑Brunswick, et dans les environs, que lui avait transférés H. Greer & Son Ltd. (« HGSL ») en 2005 (1 262 000 $) et leur juste valeur marchande au moment du transfert (2 846 200 $).
+[7] Dans la nouvelle cotisation, la somme de 1 262 000 $ que le ministre a ajoutée à titre de prêt consenti à un actionnaire conformément au paragraphe 15(2) correspond au prêt que le ministre supposait avoir été consenti par HGSL à l’appelant afin de lui permettre d’acheter ces biens de HGSL.
+A. Thèse de chaque partie
+[8] L’appelant allègue qu’il n’est plus actionnaire de HGSL depuis 1973 ou 1974. Il fait également valoir qu’il n’a fait aucune présentation erronée des faits en produisant sa déclaration de 2005 et que, même s’il l’avait fait, cette présentation erronée n’a pas été faite par négligence ou inattention. L’appelant fait également valoir qu’après avoir annulé une nouvelle cotisation antérieure pour l’année d’imposition 2006, le ministre n’avait pas le droit de remettre en litige les mêmes questions pour l’année d’imposition 2005. Enfin, l’appelant fait valoir que, même s’il était actionnaire, et même à supposer que le ministre avait raison au sujet de la juste valeur marchande des biens, la nouvelle cotisation devrait être annulée parce que le ministre l’a établie après la période normale de nouvelle cotisation.
+[9] La Couronne allègue que l’appelant était un actionnaire de HGSL le 10 juillet 1996, comme l’indique le registre des actionnaires, et que la juste valeur marchande des biens qu’il a acquis de HGSL en 2005 était d’au moins 2 846 200 $. La Couronne fait également valoir qu’en produisant sa déclaration de 2005 sans déclarer la somme de 1 584 200 $ à titre d’avantage conféré à un actionnaire et la somme de 1 262 000 $ à titre de prêt consenti à un actionnaire, l’appelant a fait une présentation erronée des faits par négligence ou inattention.
+B. Résumé des conclusions
+[10] Je conclus que la juste valeur marchande des quatre biens immédiatement après le transfert était de 2 436 900 $, et non de 2 846 200 $ comme l’a supposé le ministre dans la nouvelle cotisation[1]. Je conclus également que la seule disposition applicable de la Loi est le paragraphe 15(1). En particulier, j’arrive aux conclusions suivantes :
+a)l’appelant était un actionnaire de HGSL en 2005;
+b)HGSL a transféré les biens à l’appelant en 2005, sans contrepartie;
+c)la juste valeur marchande des biens au moment du transfert était de 2 436 900 $;
+d)étant donné que HGSL a conféré à l’appelant, à titre d’actionnaire, un avantage de 2 436 900 $ en 2005, ce dernier était tenu d’inclure la valeur de cet avantage dans le calcul de son revenu pour l’année d’imposition 2005 conformément au paragraphe 15(1) de la Loi;
+e)comme il n’a pas déclaré cet avantage, l’appelant a fait une présentation erronée des faits en produisant sa déclaration de revenus de 2005;
+f)la présentation erronée a été faite par négligence ou inattention.
+[11] L’appel sera donc accueilli, et la nouvelle cotisation sera déférée au ministre pour nouvel examen et nouvelle cotisation au motif que, conformément au paragraphe 15(1) de la Loi, l’appelant devait inclure dans le calcul de son revenu pour l’année d’imposition 2005 la somme de 2 436 900 $ à titre d’avantage conféré à un actionnaire.
+II. La nouvelle cotisation annulée (année d’imposition 2006)
+[12] En 2012, le ministre a établi une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2006, pour le même motif que celui pour lequel il a ensuite établi une nouvelle cotisation pour son année d’imposition 2005. Le ministre a d’abord établi une nouvelle cotisation pour l’année d’imposition 2006 parce qu’il avait présumé à tort que HGSL avait transféré les biens à l’appelant en 2006. L’appelant s’est opposé à cette nouvelle cotisation[2].
+[13] Au cours de la vérification de son année d’imposition 2006, l’appelant a montré au vérificateur le registre des procès-verbaux de HGSL. En particulier, le vérificateur a témoigné qu’en 2009 ou 2010, il s’était rendu au bureau de l’appelant et avait obtenu le registre des procès-verbaux, qu’il avait numérisé et imprimé. Il s’agissait de la source du registre des actionnaires de HGSL qui a été déposé comme pièce R-15 et qui est joint à l’annexe A des présents motifs[3].
+[14] Le ministre a établi une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2006 pour les motifs suivants :
+a) HGSL a transféré quatre biens à l’appelant en 2006;
+b) la juste valeur marchande de ces biens au moment du transfert était d’au moins 2 846 200 $.
+[15] Dans la nouvelle cotisation de 2006, qui a été établie après la période normale de nouvelle cotisation, le ministre a inclus dans le calcul du revenu de l’appelant pour 2006 la somme de 1 584 200 $ à titre d’avantage conféré à un actionnaire, conformément au paragraphe 15(1) de la Loi, et la somme de 1 262 000 $ à titre de prêt consenti à un actionnaire, conformément au paragraphe 15(2) de la Loi.
+[16] Lorsqu’il est devenu évident que les transferts de biens avaient eu lieu en 2005 plutôt qu’en 2006, la Division des appels de l’Agence du revenu du Canada (l’« ARC ») a annulé la nouvelle cotisation pour 2006.
+[17] Aucun appel n’a été interjeté devant la Cour et aucun acte de procédure n’a été déposé à l’égard de la nouvelle cotisation pour 2006. Étant donné que la nouvelle cotisation avait été annulée par la Division des appels de l’ARC à la suite de l’opposition de l’appelant, aucun appel n’a été interjeté contre cette nouvelle cotisation devant la Cour.
+III. La nouvelle cotisation en litige (année d’imposition 2005)
+[18] Quelque temps après l’annulation de la nouvelle cotisation pour 2006, le vérificateur de l’ARC responsable de la nouvelle cotisation pour 2006 a établi une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2005. Le seul changement important aux hypothèses du ministre était que les biens avaient été transférés par HGSL à l’appelant en 2005 plutôt qu’en 2006. Le ministre a établi une nouvelle cotisation en tenant compte du même avantage conféré à un actionnaire et du même prêt consenti à un actionnaire, mais cette fois pour l’année d’imposition 2005. Il s’agit de la nouvelle cotisation faisant l’objet du présent appel.
+IV. Le procès
+[19] Les parties ont déposé un exposé conjoint partiel des faits. L’appelant a ensuite témoigné et a appelé à la barre un comptable avec qui il avait commencé à travailler en 2017. Il est vite devenu évident que le comptable n’avait aucune connaissance personnelle des événements en litige et qu’il n’avait donc aucun élément de preuve pertinent à présenter. L’avocate de l’appelant a ensuite demandé à la Cour d’accepter son témoignage à titre d’expert. J’ai refusé la demande de l’avocate, puisque le règlement des questions soulevées n’exigeait aucun élément de preuve d’un comptable.
+[20] Chaque partie a appelé un expert en évaluation immobilière pour évaluer la juste valeur marchande des quatre biens immédiatement après leur transfert à l’appelant par HGSL.
+[21] Enfin, la Couronne a appelé le vérificateur de l’ARC, M. Ken Stewart, pour qu’il témoigne au sujet de la nouvelle cotisation antérieure établie à l’égard de l’appelant pour l’année d’imposition 2006 et des documents fournis à l’ARC par l’appelant au cours de cette vérification, y compris le registre des procès‑verbaux de HGSL.
+V. Conclusions de fait, analyse juridique et application de la loi aux faits
+[22] L’appelant est un résident du Nouveau-Brunswick. Son père était Hedley Greer et sa belle-mère était Violetta Greer. HGSL était une entreprise d’aménagement immobilier et de vente immobilière. Elle était contrôlée par le défunt père de l’appelant, Hedley Greer, et avait été constituée en société au Nouveau-Brunswick.
+[23] Hedley Greer est décédé en 1998. Après son décès, son bloc de contrôle d’actions dans HGSL a été transféré à sa succession. Le testament de Hedley Greer prévoyait ce qui suit :
+a)Violetta Greer serait l’exécutrice et fiduciaire de la succession;
+b)tous les revenus nets de la succession seraient versés à Violetta Greer de son vivant;
+c)au décès de Violetta Greer, la succession serait divisée en deux : la première moitié serait divisée en parts égales entre l’appelant et ses deux sœurs, et l’autre moitié serait versée en parts égales aux nièces et aux neveux de Violetta Greer.
+[24] En 2000, l’appelant a acquis les intérêts de ses sœurs dans la succession pour 474 000 $ grâce à des fonds qu’il a empruntés à HGSL, mais qu’il n’a jamais remboursés. À la suite de cette transaction, il a acquis un droit de bénéficiaire dans la moitié de la succession.
+[25] Violetta Greer possédait personnellement 100 actions de HGSL. Elle agissait également à titre d’administratrice et dirigeante de HGSL.
+[26] L’appelant était l’unique actionnaire de trois sociétés :
+a)H. Greer & Son (2006) Ltd.;
+b)Five Star Equipment Sales Ltd.;
+c)Greer’s Mountain Salvage Ltd.
+[27] En 2006, l’appelant a constitué en société la première société, H. Greer & Son (2006) Ltd., afin d’exploiter une entreprise d’achat et de vente de biens réels[4].
+[28] Le 4 octobre 2005, lorsque Violetta Greer avait 86 ans, HGSL a transféré quatre biens à l’appelant, sans contrepartie :
+a)le petit centre commercial sur l’avenue Timothy;
+b)le terrain boisé à la jonction des avenues Michael et Violetta;
+c)619 acres à l’extrémité de l’avenue Timothy;
+d)l’extrémité de l’avenue Timothy.
+[29] Lors d’une assemblée des administrateurs de HGSL pour approuver le transfert des biens à l’appelant, Violetta Greer a agi à titre de présidente et l’appelant a agi à titre de secrétaire. Selon l’acte de transfert du 4 octobre 2005 pour chacun des quatre biens, HGSL était le [traduction] « cédant » et l’appelant était le « cessionnaire[5] ».
+[30] En 2006 et 2007, l’appelant a vendu certains biens à des tiers et a transféré la plupart des autres biens à sa propre société, H. Greer & Son (2006) Ltd.
+A. Première question – L’appelant a-t-il reçu un prêt de HGSL?
+[31] Contrairement à l’hypothèse formulée par le ministre lorsqu’il a établi la nouvelle cotisation, je conclus que l’appelant n’a payé aucun des quatre biens que HGSL lui a transférés en 2005. Il s’ensuit donc qu’il n’a reçu aucun prêt de HGSL au sens du paragraphe 15(2) de la Loi.
+[32] Bien qu’il sache pertinemment que c’est HGSL, et non la succession, qui lui a transféré les biens, l’appelant a considéré que le transfert avait été effectué par la succession :
+[traduction]
+Q. En octobre 2005, vous avez acquis des biens de la société.
+R. Oui.
+Q. Et il s’agissait de quatre biens que vous avez acquis de la société en 2005.
+R. Oui. C’était mon héritage.
+Q. […] vous avez acheté ces biens de la société en… le 4 octobre 2005.
+R. Je les ai achetés, vous avez dit?
+Q. D’accord…
+R. Je les ai reçus. C’était un héritage[6].
+***
+Q. Avez-vous à quelque moment remboursé le prêt à la société?
+R. Quel prêt, Monsieur?
+Q. Le prêt de 1,381 million de dollars, la somme des… les trois chiffres que nous venons d’examiner.
+R. Non, ils m’ont été donnés en héritage.
+Q. Eh bien, vous n’avez jamais remboursé… vous n’avez jamais remboursé…
+R. Je n’ai jamais eu à rembourser cette somme parce que c’était un héritage. L’argent que j’aurais dû rembourser était les 274 000 $ ou les 474 000 $ – peu importe ce que c’était, et je n’étais pas obligé parce qu’elle [Violetta] a dit : « Ne t’en fais pas avec ça ».
+Q. D’accord, donc vous n’avez pas remboursé les 474 000 $ et vous n’avez pas payé les 1,381 million de dollars…
+R. Je n’avais pas à rembourser ça; c’était mon héritage. Ma part de la société. Je n’avais pas à acheter ma part de la société parce que c’était mon héritage[7].
+B. Deuxième question – L’appelant était-il un actionnaire de HGSL?
+[33] Il s’agit de la question au cœur du présent appel. Au procès, l’appelant a nié avoir été un actionnaire de HGSL lorsque cette dernière lui a transféré les biens en 2005. À l’appui de cette thèse, son avocate a fait remarquer que l’appelant n’avait reçu aucun certificat d’actions ou dividende de HGSL. Elle s’est également appuyée sur une lettre non déposée en preuve qui avait été rédigée par un avocat quatre ans avant les transactions en cause. Il y était indiqué au passage que Violetta Greer était l’unique actionnaire de HGSL[8].
+[34] Pour conclure que l’appelant était un actionnaire de HGSL lorsque cette dernière lui a transféré les biens, je m’appuie sur trois facteurs : (1) le manque de fiabilité du témoignage de l’appelant; (2) le registre des actionnaires de HGSL; (3) la présomption établie au paragraphe 181(3) de la Loi sur les corporations commerciales du Nouveau-Brunswick (la « LCC ») (maintenant la Loi sur les sociétés par actions).
+(1) Le manque de fiabilité du témoignage de l’appelant
+[35] En ce qui concerne la question de savoir si l’appelant était un actionnaire de HGSL au moment du transfert, je conclus que le témoignage de l’appelant n’est pas fiable[9].
+[36] L’appelant a commencé par nier toute participation dans HGSL :
+[traduction]
+Q. Vous avez également participé aux activités de H. Greer and Sons Limited.
+R. Est-ce que je participe aux activités de H…
+Q. Vous avez aussi participé aux activités de cette société.
+R. Non, je n’y participais pas. J’aidais juste ma belle-mère. Je n’y ai pas du tout participé[10].
+[37] L’appelant est revenu sur son témoignage en disant à la Cour que, pour autant qu’il sache, il ne [traduction] « faisait pas partie[11] » de l’entreprise.
+[38] Toutefois, plus tard dans son contre-interrogatoire, l’appelant a fait une série d’aveux démontrant, contrairement à ce qu’il avait nié précédemment, qu’il avait largement participé aux affaires de HGSL :
+[traduction]
+Me OMISADE : Q. Vous étiez le président de la société?
+R. Oui, j’étais le président de la société.
+Q. Vous étiez aussi à un moment donné vice-président de la société?
+R. C’est exact, j’étais le vice-président de la société.
+Q. Vous étiez un administrateur de la société?
+R. Et j’étais un administrateur de la société.
+Q. Vous avez agi au nom de la société lors de l’assemblée des actionnaires?
+R. Oui.
+Q. Et vous avez également effectué des transactions au nom de la société.
+R. Oui[12].
+[39] À la lumière de ces aveux, le témoignage antérieur de l’appelant concernant son absence de participation dans HGSL a été discrédité. En effet, l’appelant a agi à titre de secrétaire de HGSL lors de l’assemblée générale autorisant le transfert des biens de HGSL à lui‑même. En plus d’avoir été secrétaire, il a occupé les fonctions de président de HGSL et a également été administrateur[13]. Enfin, à titre de président de HGSL, il a signé les documents visant l’exécution du transfert de chaque bien de HGSL à lui‑même.
+[40] Lors de son interrogatoire principal, l’appelant a été interrogé au sujet de l’action de HGSL que le ministre supposait qu’il détenait en 2005 :
+[traduction]
+Q. Et quand déteniez-vous une action de HGSL?
+R. Apparemment, j’en avais une en 1970.
+Q. Savez-vous combien d’actions vous déteniez?
+R. Apparemment, on m’a dit que j’en avais une.
+Q. Qui vous a dit que vous en aviez une?
+R. Mon père.
+Q. Quand?
+R. 1970.
+Q. Quelles autres discussions avez-vous eues avec votre père au sujet de l’action?
+R. C’était tout. Il n’en a plus jamais parlé. Puis, nous nous sommes disputés, et il l’a reprise et l’a donnée à Pete [Mockler]. C’est la dernière fois que j’en ai entendu parler.
+Q. Quand est-ce que ça s’est produit? Vous en souvenez-vous?
+R. Oh, probablement en 1973, près de 1974[14].
+[41] Dans la nouvelle cotisation qu’il a établie, le ministre a supposé que l’appelant détenait une action ordinaire de HGSL[15]. Le témoignage que l’appelant a offert pour réfuter cette hypothèse est loin d’être suffisant et ne permet pas de remettre en question, et encore moins de démolir, l’hypothèse de fait principale sur laquelle le ministre s’est fondé pour établir la nouvelle cotisation, à savoir que l’appelant était un actionnaire de HGSL lorsque les biens lui ont été transférés[16].
+[42] L’appelant a ensuite invoqué l’argument de la « fiducie ». Dans son avis d’appel, il a allégué que, de 1970 à 1974, il [traduction] « détenait une action [de HGSL] en fiducie pour son père[17] ». En interrogatoire principal, son avocate lui a demandé ce qu’il entendait par détenir une action [traduction] « en fiducie ». L’appelant a répondu qu’en fait, il n’avait « aucune idée de ce qu’[était] une action[18] ».
+[43] La réponse de l’appelant à cette question, à savoir qu’il n’a aucune idée de ce qu’est une action, mine davantage sa fiabilité quant à savoir s’il était un actionnaire de HGSL au moment des faits. L’appelant était l’unique actionnaire de trois sociétés[19]. Il savait ou aurait dû savoir ce qu’était une action, d’autant plus qu’il avait reçu des conseils juridiques sur la constitution en société d’au moins une de ces sociétés :
+[traduction]
+Q. Et quand HGSL 2006 a-t-elle été constituée en société?
+R. 2006.
+Q. D’accord, et pourquoi vous êtes-vous constitué en société?
+R. Eh bien, je pensais que ce serait une bonne chose à faire, mais avec le recul, ce n’était probablement pas le cas.
+Q. Pourquoi pensiez-vous que c’était une bonne idée?
+R. Eh bien, je pensais que c’était comme ça qu’on exploite des sociétés. Sérieusement.
+Q. Et est-ce que quelqu’un vous a donné des conseils?
+R. Des avocats et des comptables[20].
+[44] En ce qui concerne l’argument de la « fiducie » avancé par l’appelant, l’avocate de ce dernier a soutenu que l’action de HGSL de l’appelant « était détenue par une fiducie en faveur de Hedley[21] ». Il n’y avait aucune preuve de cette fiducie. La fiabilité de l’appelant quant à savoir s’il était un actionnaire de HGSL au moment des faits est davantage minée par cet argument, qui n’a aucun fondement en fait ou en droit.
+[45] Enfin, le témoignage de l’appelant selon lequel il n’a détenu aucune action de HGSL après 1973 ou 1974 a été discrédité davantage par sa déclaration incompatible antérieure. Dans son avis d’opposition à la nouvelle cotisation pour 2006, l’appelant a admis qu’il était un actionnaire de HGSL avant le 13 juin 1998. Cet aveu ne concorde pas avec ce qu’il a dit dans son témoignage, à savoir que son père a repris son action de HGSL en 1973 ou 1974 et que c’était la dernière fois qu’il en avait entendu parler. En contre‑interrogatoire, l’avocat de la Couronne a rafraîchi la mémoire de l’appelant au sujet de ce qu’il avait déclaré dans son avis d’opposition à la nouvelle cotisation pour 2006 :
+[traduction]
+Me OMISADE : Q. […] M. Greer, je vous demanderais de vous référer à l’onglet 47 du recueil de documents. Lorsque vous avez fait l’objet d’une première cotisation pour l’année d’imposition 2006, vous avez signifié un avis d’opposition au ministre pour l’année 2006, lorsque vous avez fait l’objet d’une cotisation.
+R. Oui.
+Q. Si je pouvais simplement vous référer… vous aviez (inaudible) pour vous représenter, vous en souvenez-vous? (Inaudible), c’est un cabinet d’avocats.
+R. Oui.
+Q. Vous souvenez-vous s’il vous avait représenté auprès de l’ARC?
+R. Oui.
+Q. Et si je peux vous demander de consulter l’onglet 47, il s’intitule « Avis d’opposition à la nouvelle cotisation pour Michael Greer ».
+R. Oui.
+Q. Est-ce que vous le voyez?
+R. Ouais.
+Q. Vous rappelez-vous l’avoir examiné ou en avoir discuté avec vos avocats?
+R. Je suis sûr que nous l’avons fait, oui.
+Q. D’accord. Si je pouvais attirer votre attention sur la page 210, la page suivante.
+R. Oui.
+Q. En ce qui concerne les faits, au paragraphe 3, il est indiqué : « Avant le 13 juin 1998, H. Greer and Sons était contrôlée par Hedley Greer au moyen des actions émises et en circulation suivantes : 899 pour Hedley Greer, 100 pour Violetta Greer et une pour Michael Greer ».
+R. Je vois ça, oui.
+Q. Et êtes-vous d’accord avec ça?
+R. Eh bien, c’est là. Je ne me souviens toujours pas d’avoir eu une action, Monsieur, mais si vous le dites.
+LE JUGE SPIRO : Mais la question est de savoir si vous êtes d’accord avec cette déclaration selon laquelle…
+R. Eh bien, je suis d’accord, oui. Oui, je le suis[22].
+[46] Étant donné que le témoignage de l’appelant sur ce point a été discrédité par la Couronne, passons au registre des actionnaires de HGSL.
+(2) Le registre des actionnaires de HGSL
+[47] Une question de preuve a été soulevée concernant le registre des actionnaires de HGSL. Cet élément de preuve est très certainement pertinent, mais il était assujetti à une règle d’exclusion, à savoir la règle interdisant le ouï‑dire.
+[48] On considère généralement que la preuve par ouï‑dire comporte trois éléments : (1) une déclaration faite extrajudiciairement par un déclarant, (2) qu’une partie cherche à présenter en cour pour établir la véracité de son contenu, (3) sans possibilité pour l’autre partie de contre‑interroger de façon contemporaine le déclarant[23].
+[49] L’« aveu émanant d’une partie » fait habituellement exception à la règle interdisant le ouï‐dire. Cette exception comprend tout « acte ou propos d’une partie présenté en preuve contre cette partie[24] ».
+[50] Lors de la vérification dont il a fait l’objet pour l’année d’imposition 2006, l’appelant a présenté au vérificateur le registre des procès-verbaux de HGSL. Le vérificateur s’est rendu au bureau de l’appelant et a examiné le registre des procès-verbaux, qu’il a numérisé et imprimé pour son dossier. Ce registre des procès-verbaux était la source du registre des actionnaires de HGSL, qui est joint à l’annexe A des présents motifs.
+[51] En fournissant au vérificateur le registre des actionnaires de HGSL, l’actionnaire est réputé avoir fait un aveu. Puisqu’il a fourni ce document au vérificateur, l’appelant ne peut se plaindre de son manque de fiabilité[25].
+[52] L’admissibilité du registre des actionnaires a été établie et j’en tire plusieurs conclusions. Premièrement, l’appelant est inscrit comme détenteur d’une action de HGSL le 10 juillet 1996. Compte tenu de sa participation aux activités de HGSL, l’appelant savait ou aurait dû savoir que cette inscription figurait dans le registre des actionnaires. S’il croyait ne pas être un actionnaire de HGSL à cette date, il aurait pu demander la rectification du registre en vertu de l’article 168 de la LCC, comme je le mentionne plus loin.
+[53] Deuxièmement, selon le registre des actionnaires, la succession détenait 899 actions de HGSL en date du 20 août 1998. Si l’appelant ne détenait aucune action de HGSL à cette date, pourquoi la succession aurait-elle détenu 899 actions de HGSL au lieu de 900? Qui détenait l’action manquante? J’en déduis que c’était l’appelant. Il s’agit de la meilleure explication dans les circonstances.
+(3) La présomption établie au paragraphe 181(3) de la LCC
+[54] En guise de contexte, je fais remarquer que le paragraphe 18(1) de la LCC exige que chaque société prépare et tienne un registre des actions :
+18(1) Une corporation doit établir et tenir, à son bureau enregistré ou en tout autre lieu au Nouveau-Brunswick que désignent les administrateurs, des livres où figurent :
+a) […];
+b) […];
+c) […];
+d) un registre d’actions conformément à l’article 48; et
+e) […].
+[55] Le paragraphe 48(1) de la LCC énonce les renseignements qui doivent figurer dans le registre des actions d’une société :
+48(1) […] une corporation doit tenir un registre d’actions où elle indique les actions ou les fractions d’actions qu’elle a émises, indiquant pour chaque catégorie ou série :
+a) les noms, par ordre alphabétique, et la dernière adresse connue des actionnaires ou de leurs prédécesseurs;
+b) le nombre des actions que détient chaque actionnaire; et
+c) la date et les détails concernant l’émission et le transfert de chaque action.
+[56] Le paragraphe 20(2) de la LCC exige que chaque société prenne des précautions raisonnables pour faciliter la découverte et la rectification des erreurs dans son registre des actions :
+20(2) Une corporation et ses mandataires doivent prendre à l’égard des livres dont la présente loi exige l’établissement et la tenue, les mesures raisonnables pour :
+a) en empêcher la perte ou la destruction,
+b) empêcher la falsification des écritures, et
+c) faciliter la découverte et la rectification des erreurs.
+[57] Plus important encore, le paragraphe 181(3) de la LCC établit une présomption selon laquelle une inscription dans un registre d’actions constitue, en l’absence de preuve contraire, la preuve que le détenteur inscrit dans le registre est le propriétaire de l’action :
+181(3) Une mention dans le registre d’actions ou un certificat d’actions délivré par la corporation établit, à défaut de preuve contraire, que la personne au nom de laquelle l’action est inscrite, est propriétaire de l’action mentionnée dans le registre ou sur le certificat.
+[58] Enfin, le paragraphe 168(1) de la LCC autorise la présentation d’une demande de rectification du registre si le nom d’une personne a été inscrit à tort dans le registre des actions :
+168(1) La corporation ainsi que ses actionnaires ou toute personne qui subit un préjudice, peut demander à la Cour d’ordonner la rectification des registres ou livres, si le nom d’une personne y a été inscrit, supprimé ou omis prétendument à tort.
+[59] Si l’appelant croyait ne pas être un actionnaire de HGSL en date du 10 juillet 1996, il aurait pu demander la rectification du registre en vertu du paragraphe 168(1) de la LCC.
+[60] Je suis d’accord avec l’avocat de la Couronne que la présomption établie au paragraphe 181(3) de la LCC n’a pas été réfutée par une preuve contraire.
+[61] Pour tous ces motifs, je conclus, selon la prépondérance des probabilités, que l’appelant était un actionnaire de HGSL en 2005.
+C. Troisième question – La juste valeur marchande des biens
+[62] Pour établir la nouvelle cotisation, le ministre s’est fondé sur l’hypothèse que la juste valeur marchande des biens immédiatement après que l’appelant les a acquis de HGSL était de 2 846 000 $. La Couronne a établi le tableau des valeurs suivant au début du procès[26] :
+Bien réel
+Juste valeur marchande
+Petit centre commercial sur l’avenue Timothy
+1 000 000 $
+Terrain boisé à la jonction des avenues Michael et Violetta
+219 800 $
+619 acres à l’extrémité de l’avenue Timothy
+771 000 $
+Extrémité de l’avenue Timothy
+855 400 $
+Total
+2 846 200 $
+[63] Le deuxième jour du procès, les parties se sont entendues sur la valeur des deux premiers biens. Elles ont convenu que la juste valeur marchande du petit centre commercial sur l’avenue Timothy était de 944 000 $ et que la juste valeur marchande du terrain boisé à la jonction de l’avenue Michael et de l’avenue Violetta était de 131 000 $[27]. À la lumière de cette entente, la Couronne a établi le tableau des valeurs suivant le deuxième jour du procès :
+Bien réel
+Juste valeur marchande
+Petit centre commercial sur l’avenue Timothy
+944 000 $
+Terrain boisé à la jonction des avenues Michael et Violetta
+131 000 $
+619 acres à l’extrémité de l’avenue Timothy
+771 000 $
+Extrémité de l’avenue Timothy
+855 400 $
+Total
+2 701 400 $
+[64] J’ai dû déterminer la juste valeur marchande des deux derniers biens. Chaque partie a appelé un évaluateur de biens immobiliers pour m’aider en me fournissant un rapport sur la juste valeur marchande de ces deux biens en date du 1er janvier 2006.
+[65] L’appelant a appelé M. Gerald McCombs. J’ai reconnu sa compétence à titre d’évaluateur de biens immobiliers. M. McCombs a rédigé son rapport d’évaluation en 2010 et a pris sa retraite en 2017. Il est venu témoigner au sujet d’un rapport qu’il avait écrit environ 12 ans plus tôt. M. McCombs a utilisé la méthode de la comparaison directe pour évaluer les deux biens. À l’aide de cette méthode, il est arrivé à une juste valeur marchande de 325 500 $ pour le troisième bien et de 489 000 $ pour le quatrième.
+[66] J’ai plusieurs doutes au sujet de la fiabilité du rapport de M. McCombs. Par exemple, en ce qui concerne le troisième bien, M. McCombs a témoigné que la [traduction] « partie du terrain qui est classée comme zone humide n’a pas autant de valeur qu’un terrain qui peut être aménagé[28] ». Toutefois, la façon dont il a calculé le pourcentage de zone humide n’est pas claire, puisqu’aucun des documents sur lesquels il s’est appuyé pour effectuer ce calcul ne figure dans son rapport :
+[traduction]
+R. Trente-neuf pour cent de ces 575 acres sont des zones humides.
+LE JUGE SPIRO : Trente-neuf pour cent?
+R. Oui, environ 225 acres, je crois.
+LE JUGE SPIRO : D’accord, c’est dans votre rapport?
+R. Oui.
+LE JUGE SPIRO : Où est-ce que je peux trouver ça?
+R. Je suis simplement…
+LE JUGE SPIRO : Votre avocate peut me le donner plus tard, vous n’avez pas à le chercher dans votre rapport maintenant.
+R. Merci.
+LE JUGE SPIRO : Alors ne vous inquiétez pas. Mais Maître Brown, si vous pouviez me dire où se trouve ce chiffre de 39 % dans le rapport?
+R. C’est peut-être juste mon calcul et ce n’est pas nécessairement écrit dans le rapport.
+LE JUGE SPIRO : D’accord, mais sur quelle base êtes-vous arrivé à ce calcul?
+R. En regardant les cartes et en calculant à partir des cartes.
+LE JUGE SPIRO : Les cartes figurent-elles dans le rapport?
+R. Malheureusement, ces rapports sont tout ce que j’ai. Tout ce qui se trouvait dans le dossier n’est plus disponible. Il date de 2010 et ils ont tout numérisé, mais ils n’ont pas numérisé… désolé, ils n’ont pas tout numérisé.
+LE JUGE SPIRO : De qui parlez-vous?
+R. …mon ancien employeur. Mon bureau.
+LE JUGE SPIRO : Donc vous vous souvenez juste de mémoire, 39 %?
+R. Je l’ai calculé à nouveau en regardant une carte en ligne.
+LE JUGE SPIRO : Oh, d’accord. Donc la base de ce calcul de 39 % n’est pas dans votre rapport alors?
+R. Je ne le crois pas.
+LE JUGE SPIRO : D’accord, merci[29].
+[67] M. McCombs était d’avis que 28 acres du troisième bien pourraient être aménagés à court terme et que 16 acres pourraient être aménagés ultérieurement. Là encore, le fondement de cette opinion n’est pas clair[30]. Il y a une autre omission importante dans son rapport. Il s’agit d’un rajustement qu’il a fait aux ventes comparables ultérieures en fonction du temps écoulé :
+[traduction]
+LE JUGE SPIRO : Et comment calculez-vous le rajustement en fonction du temps?
+R. Eh bien, si vous… si vous… si la différence de valeur est de 25 dollars par acre et que la période est, disons, de cinq ans, alors c’est un pourcentage du montant en dollars qui sert à déterminer quel est le rajustement en fonction du temps.
+LE JUGE SPIRO : Est-ce que c’est expliqué quelque part dans votre rapport?
+R. Non, ce ne l’est pas[31].
+[68] Cette omission a eu une incidence sur l’opinion exprimée par M. McCombs concernant le quatrième bien :
+[traduction]
+LE JUGE SPIRO : D’accord, j’ai juste une question sur ce rapport. M. McCombs, donc si nous regardons le même tableau, le tableau intitulé « Analyse du marché », je vois que la valeur de l’indice 5, qui a été vendu en juillet 2008, n’a pas été rajustée en fonction du temps; pourtant, la valeur de l’indice 6, qui n’a été vendu qu’un mois plus tard, a été réduite de 15 %. Il n’y a qu’un mois de différence entre les deux ventes; pourquoi avez-vous déterminé qu’août méritait une réduction de 15 %, tandis que juillet ne méritait absolument aucune réduction?
+R. En gros, je… j’aurais probablement dû le faire.
+LE JUGE SPIRO : Qu’est-ce que vous auriez dû faire?
+R. L’indice 5 aurait dû être rajusté à la baisse.
+LE JUGE SPIRO : D’à peu près combien?
+R. De 15 %, si on regarde de juillet à août[32].
+[69] La Couronne a appelé M. Marcel Cormier à témoigner. J’ai reconnu sa compétence à titre d’évaluateur de biens immobiliers. Son statut d’employé de l’ARC n’a suscité aucune opposition de la part de l’avocate de l’appelant. Après avoir examiné ses réponses à mes questions, j’étais tout à fait convaincu que son témoignage d’opinion serait impartial et indépendant. Il a conclu que la juste valeur marchande du troisième bien était de 524 000 $ et que la juste valeur marchande du quatrième était de 837 900 $.
+[70] Lors du témoignage de M. Cormier, j’ai été impressionné par les explications détaillées contenues dans son rapport, particulièrement concernant les ventes comparables, ainsi que par ses réponses approfondies et réfléchies à mes questions. Il a effectué des recherches approfondies, a utilisé des images aériennes et des cartes (qui ont été très utiles pour suivre son témoignage) et a tenu compte de facteurs que M. McCombs n’avait pas pris en compte, comme l’annonce en 2004 d’un échangeur sur la route Transcanadienne et la tendance générale quant à la croissance du développement dans la région de Hanwell après 2004[33]. Il a utilisé une autre méthode d’évaluation pour une partie de l’un des biens, à savoir la méthode de lotissement, qui n’avait pas été utilisée par M. McCombs. Il a également tenu compte d’événements que M. McCombs n’avait pas pris en compte (comme les expropriations foncières). Son appréciation des ventes comparables était différente de celle de M. McCombs[34]. Enfin, il a quantifié et expliqué certains coûts que le propriétaire aurait dû assumer avant de vendre certaines parties du bien[35], ce que M. McCombs n’a pas fait non plus.
+[71] Pour tous ces motifs, j’accorde plus de poids à l’opinion de M. Cormier qu’à celle de M. McCombs, et je conclus que la juste valeur marchande du troisième bien en date du 1er janvier 2016 était de 524 000 $ et que la juste valeur marchande du quatrième bien à la même date était de 837 900 $. Voici la version finale du tableau des valeurs :
+Bien réel
+Juste valeur marchande
+Petit centre commercial sur l’avenue Timothy
+944 000 $
+Terrain boisé à la jonction des avenues Michael et Violetta
+131 000 $
+619 acres à l’extrémité de l’avenue Timothy
+524 000 $
+Extrémité de l’avenue Timothy
+837 900 $
+Total
+2 436 900 $
+D. Quatrième question – L’appelant a-t-il fait une présentation erronée des faits par négligence ou inattention en produisant sa déclaration de 2005?
+[72] Nul ne conteste que le ministre a établi la nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2005 après la période normale de nouvelle cotisation. À la lumière du sous-alinéa 152(4)a)(i) de la Loi, la Couronne doit démontrer, selon la prépondérance des probabilités, que l’appelant a fait une présentation erronée des faits par négligence, inattention ou omission volontaire, ou qu’il a commis quelque fraude en produisant sa déclaration de revenus de 2005 :
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l’année;
+[73] Le processus permettant à la Cour de déterminer si le ministre avait le droit d’établir une nouvelle cotisation à l’égard de l’appelant après la période normale de nouvelle cotisation comporte deux étapes. Premièrement, la Couronne doit prouver que l’appelant a fait une présentation erronée dans sa déclaration de 2005 en ne déclarant pas l’avantage qu’il a obtenu lors de l’acquisition, sans contrepartie, de quatre biens de HGSL d’une valeur de plus de 2,4 millions de dollars. Deuxièmement, la Couronne doit prouver que la présentation erronée a été faite par négligence, inattention ou omission volontaire, ou que l’appelant a commis une fraude en produisant sa déclaration. La Couronne n’a formulé aucune allégation d’omission volontaire ou de fraude.
+[74] Que savait exactement l’appelant lorsqu’il a examiné et signé sa déclaration de 2005? Il savait qu’il n’avait pas acquis les biens de la succession parce qu’il savait que la succession ne détenait pas les biens[36]. Il savait qu’il n’avait pas acquis les biens de sa belle-mère parce qu’il savait que sa belle-mère n’était pas propriétaire des biens. Il savait que HGSL était propriétaire des biens et que ceux-ci lui avaient été transférés sans contrepartie. Enfin, comme je le mentionne plus haut, il savait ou aurait dû savoir qu’il était un actionnaire de HGSL en date du 10 juillet 1996, comme en fait foi le registre des actionnaires.
+[75] Ne pas déclarer un avantage conféré à un actionnaire dans ces circonstances constitue clairement une présentation erronée. La question qui se pose ensuite est celle de savoir si la présentation erronée a été faite par négligence ou inattention.
+[76] Dans l’arrêt Canada c. Paletta (Succession), 2022 CAF 86, la Cour d’appel fédérale a clairement indiqué que la « négligence » renvoie à un manque de diligence raisonnable. La discussion de la Cour sur ce qui constitue une « diligence raisonnable » éclairera la deuxième étape de l’analyse :
+[65] La négligence dont il est question au sous-alinéa 152(4)a)(i) renvoie au manque de diligence raisonnable. Le contribuable s’acquitte de son obligation de diligence raisonnable lorsque, « après un examen réfléchi et attentif de la situation, [il] évalue celle-ci et produit une déclaration selon la méthode qu’en bonne foi il croit appropriée » ou, en d’autres mots, lorsqu’il produit sa déclaration « d’une façon que le contribuable croit véritablement appropriée » (Regina Shoppers Mall Ltd. v. Canada, [1990] 2 C.T.C. 183, 90 D.T.C. 6427 (C. F. 1re inst.), conf. par [1991] A.C.F. no 52 (QL) (C.A.); voir également Canada c. Johnson, 2012 CAF 253, [2012] A.C.F. no 1249 (QL) [2013] 1 R.C.F. F-3). Les parties souscrivent à ce critère. Notre Cour peut également déduire qu’il y a eu négligence par le défaut du contribuable de vérifier la validité de ses certitudes (Robertson c. Canada, 2016 CAF 303, [2016] A.C.F. no 1338 (QL), aux paragraphes 5 et 6)[37].
+[77] Le secteur d’activité de l’une des sociétés de l’appelant était l’achat et la vente de biens réels[38]. L’appelant a aidé à vendre des biens réels appartenant à HGSL[39] et était responsable de conclure les contrats[40]. Il était propriétaire de trois sociétés qu’il avait fondées et avait obtenu des conseils juridiques pour la constitution en société d’au moins l’une d’entre elles. Il était manifestement un investisseur et actionnaire expérimenté.
+[78] En contre-interrogatoire, l’appelant a confirmé qu’au moment de produire sa déclaration de revenus de 2005, il n’avait pas examiné son statut d’actionnaire de HGSL avec son comptable ni consulté un autre professionnel au sujet des répercussions fiscales des biens qu’il avait acquis de HGSL[41].
+[79] L’appelant savait ou aurait dû savoir que l’acquisition de biens de HGSL d’une valeur de plus de 2,4 millions de dollars, sans contrepartie, constituait un avantage conféré à un actionnaire. Le fait qu’il n’a consulté aucun fiscaliste avant de produire sa déclaration de 2005 témoigne d’un manque de diligence raisonnable et, par conséquent, d’une négligence. L’appelant n’a pas évalué la situation de façon réfléchie et attentive avant de produire sa déclaration.
+[80] La décision Cléroux c. La Reine, 2013 CCI 365, de notre Cour est instructive à cet égard. Dans cette affaire, le contribuable était le seul actionnaire et administrateur d’une société qui possédait une filiale (6154301 Canada Inc.). La société avait transféré les actions de la filiale, d’une valeur de près de 278 000 $, au contribuable pour 100 $. Le juge Favreau a eu peu de difficulté à appliquer le paragraphe 15(1) de la Loi à la transaction. Il a conclu que la société avait conféré un avantage à son actionnaire en lui transférant les actions de sa filiale pour une contrepartie inadéquate. La seule question à trancher était de savoir si la Couronne avait démontré que le contribuable avait fait preuve de négligence. Le juge a répondu ce qui suit :
+[19] Dans le présent appel, je suis d’accord avec l’avocate de l’intimée à l’effet que l’[appelant] a fait preuve de négligence en ne déclarant pas la valeur de l’avantage qu’il a obtenu lors de l’acquisition des actions de la société 6154301 Canada Inc. Compte tenu de son expérience en matière immobilière et de sa connaissance de l’ensemble des transactions impliquant l’immeuble de la rue Daniel-Johnson, l’appelant savait ou aurait dû savoir qu’il n’était pas possible de s’approprier les biens d’une société pour une contrepartie inférieure à leur juste valeur marchande[42].
+[Non souligné dans l’original.]
+[81] En l’espèce aussi, la Couronne s’est acquittée du fardeau qui lui incombait aux deux étapes de l’analyse. Le ministre était tout à fait justifié d’établir une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2005 en tenant compte de l’avantage conféré à un actionnaire après la période normale de nouvelle cotisation.
+E. Autres arguments juridiques de l’appelant
+[82] L’avocate de l’appelant a fait valoir que, compte tenu des principes de la chose jugée, de la préclusion ou de l’abus de procédure, le ministre ne pouvait pas établir la nouvelle cotisation, puisque la Cour ne devrait pas lui permettre d’examiner de nouveau des questions qui avaient été réglées après l’annulation de la nouvelle cotisation pour 2006. Toutefois, toute la jurisprudence invoquée par l’avocate à l’appui de cet argument concernait le réexamen de questions tranchées par un tribunal ou réglées par une entente de règlement entre les parties au litige. En l’absence d’un litige devant la Cour concernant la nouvelle cotisation pour 2006, l’argument relatif aux principes de la chose jugée, de la préclusion et de l’abus de procédure invoqué par l’appelant n’a aucun fondement factuel.
+[83] L’avocate a également soutenu que la nouvelle cotisation devrait être annulée parce que le retard du ministre à établir la nouvelle cotisation a entraîné des répercussions négatives et préjudiciables pour l’appelant. Elle a affirmé ce qui suit :
+[traduction]
+Beaucoup de temps s’est écoulé depuis 2005, année où l’appelant a produit la déclaration […]. D’une manière générale, ce laps de temps a placé l’appelant dans une position injustement vulnérable et a nui à sa capacité d’obtenir des renseignements et de convoquer des témoins concernant les actifs et leur évaluation. Des témoins clés sont décédés, comme [Violetta] Greer elle-même […], le comptable Shawny Merrill, et E.J. Mockler, c.r. HGSL a été dissoute en 2015 ou vers cette date. HGSL a renoncé à sa charte. On n’a pas retrouvé le registre de procès‑verbaux de HGSL. Ces problèmes survenus depuis 2005 ont causé un préjudice à l’appelant. Le préjudice causé par ce laps de temps justifie l’annulation de la nouvelle cotisation[43].
+[84] En résumé, l’avocate a fait valoir que le temps qui s’est écoulé [traduction] « a nui de façon permanente à la capacité de l’appelant de réunir tous les faits pertinents dans son dossier[44] ». Une réponse complète se trouve au sous-alinéa 152(4)a)(i) de la Loi, qui définit les circonstances où le ministre peut établir une nouvelle cotisation après la période normale de nouvelle cotisation. Si le législateur avait voulu que le ministre réponde à des exigences supplémentaires, il l’aurait indiqué.
+[85] Comme l’a souligné le juge Rothstein, alors juge de la Cour d’appel fédérale, dans l’arrêt Chaya c. Canada, 2004 CAF 327 :
+[4] Le demandeur soutient que la loi est inéquitable et il demande à la Cour de faire une exception pour lui. Toutefois, la Cour n’a pas le pouvoir de faire droit à sa demande. La Cour doit appliquer la loi telle qu’elle est. Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l’équité. S’il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour[45].
+[86] Enfin, l’avocate s’est appuyée sur l’arrêt Law Society of Saskatchewan c. Abrametz, 2022 CSC 29, de la Cour suprême du Canada. À la lumière de cet arrêt, elle a soutenu que le temps que l’ARC a mis à établir une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2005 constitue un « abus de procédure », de sorte qu’elle doit être annulée. Dans ses observations préalables au procès, elle a exprimé cet argument comme suit :
+[traduction]
+Tout comme il y avait eu abus de procédure dans les instances administratives du barreau dans l’affaire Abrametz, il y a également eu abus de procédure dans l’instance fiscale en l’espèce[46].
+[87] La seule « instance » où l’on pourrait dire qu’il y a eu abus de procédure est celle devant la Cour. Puisque l’appelant n’a formulé aucune allégation de délai excessif contre la Couronne dans la présente instance, cet argument est sans fondement.
+VI. Dépens
+[88] La Couronne a gain de cause sur les questions de l’avantage conféré à un actionnaire et de la prescription. Toutefois, étant donné que près de 45 % du montant total de la nouvelle cotisation a été établi sur le fondement de la mauvaise disposition de la Loi, à savoir le paragraphe 15(2), et que le ministre a attribué une valeur trop élevée aux biens, ce qui l’a amené à ajouter à tort 400 000 $ au revenu de l’appelant, les deux parties ont en partie gain de cause. Pour cette raison, chaque partie devrait assumer ses propres dépens.
+VII. Conclusion
+[89] HGSL a conféré à l’appelant, à titre d’actionnaire, un avantage de 2 436 900 $ en 2005. L’appelant était tenu d’inclure ce montant dans le calcul de son revenu pour l’année d’imposition 2005 conformément au paragraphe 15(1) de la Loi. Comme il n’a pas déclaré cet avantage, l’appelant a fait une présentation erronée en produisant sa déclaration de 2005. Il a fait cette présentation erronée par négligence ou inattention. Par conséquent, l’appel sera accueilli et la nouvelle cotisation sera déférée au ministre pour qu’il établisse une nouvelle cotisation en fonction du bon montant de l’avantage conféré à un actionnaire et sur le fondement de la bonne disposition de la Loi.
+[90] La nouvelle cotisation sera déférée au ministre pour nouvel examen et nouvelle cotisation, sans dépens, au motif que, conformément au paragraphe 15(1) de la Loi, l’appelant devait inclure dans le calcul de son revenu pour l’année d’imposition 2005 la somme de 2 436 900 $ à titre d’avantage conféré à un actionnaire.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2023.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 19e jour de février 2025.
+Mylène Boudreau, jurilinguiste principale
+Annexe A
+REGISTRE DES ACTIONNAIRES
+DATE
+NOM
+INITIALES
+ACTIONS DÉTENUES
+SPÉCIALES
+ORDINAIRES
+1970
+17 juin
+Hamilton
+G.
+1
+17 juin
+Biddiscombe
+M.
+1
+17 juin
+Kennedy
+J.
+1
+17 juin
+Greer (Hedley)
+H.
+1
+17 juin
+Greer
+H.M.
+1
+17 juin
+Greer
+V.
+1
+30 juin
+Greer (Hedley)
+H.
+799
+30 juin
+Greer
+V.
+99
+30 juin
+Greer (Michael)
+H.M.
+99
+1974
+27 juin
+Greer (Hedley)
+H.
+99
+27 juin
+Mockler
+P.T.
+1
+1996
+10 juillet
+Greer (Michael)
+H.M.
+1
+1998
+20 août
+Greer
+Violetta en sa qualité de fiduciaire de la succession de Hedley M. Greer
+899
+RÉFÉRENCE :
+2023 CCI 100
+NO DU DOSSIER DE LA COUR :
+2017-3940(IT)G
+INTITULÉ :
+MICHAEL GREER ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Fredericton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Les 16, 17 et 18 août 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 17 juillet 2023
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Erica C. Brown
+Avocat de l’intimé :
+Me Tokumbo Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Erica C. Brown
+Cabinet :
+Toner Brown
+Fredericton (Nouveau-Brunswick)
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Comme je l’explique plus en détail ci-dessous, le montant inférieur découle de l’entente entre les parties quant à la juste valeur marchande des deux premiers biens et de ma conclusion concernant la juste valeur marchande des deux derniers biens.
+[2] Dans cet avis d’opposition, l’appelant a déclaré qu’il était actionnaire de HGSL.
+[3] Transcription du 17 août 2022, p. 112, lignes 11 à 23. Voir aussi le contre-interrogatoire du vérificateur de l’ARC, aux lignes 7-8 de la page 128 de la même transcription.
+[4] Transcription du 16 août 2022, p. 42, ligne 28, à p. 43, ligne 12.
+[5] Pièce R-3.
+[6] Transcription du 16 août 2022, p. 89, lignes 5 à 20.
+[7] Transcription du 16 août 2022, p. 107, lignes 1 à 19.
+[8] La pièce I-1 est cotée à des fins d’identification. Étant donné que la lettre a été présentée pour établir la véracité de son contenu, il s’agit d’une preuve par ouï-dire inadmissible.
+[9] Voir Cheryl Woodin, Anik K. Kapoor et Sidney Brejak, « Rethinking Credibility » (2023), 42:1 Adv J 19 pour une analyse de l’importante distinction entre la crédibilité et la fiabilité.
+[10] Transcription du 16 août 2022, p. 76, lignes 3 à 10.
+[11] Transcription du 16 août 2022, p. 81, ligne 9.
+[12] Transcription du 16 août 2022, p. 87, lignes 1 à 16.
+[13] Transcription du 16 août 2022, p. 89, ligne 26, à p. 90, ligne 23.
+[14] Transcription du 16 août 2022, p. 35, ligne 25, à p. 36, ligne 11.
+[15] Réponse modifiée, al. 11f).
+[16] Il en va de même si le critère à satisfaire pour démolir une hypothèse de fait exige une preuve prima facie ou une preuve selon la prépondérance des probabilités.
+[17] Avis d’appel, par. 8.
+[18] Transcription du 16 août 2022, p. 36, lignes 12 à 15.
+[19] Les trois sociétés de l’appelant sont énumérées au paragraphe 24 des motifs.
+[20] Transcription du 16 août 2022, p. 42, lignes 5 à 15.
+[21] Observations de l’appelant préalables au procès, par. 87.
+[22] Transcription du 16 août 2022, p. 121, ligne 22, à p. 123, ligne 3.
+[23] R. c. Schneider, 2022 CSC 34, par. 47.
+[24] Voir Schneider, par. 52.
+[25] Voir Schneider, par. 53.
+[26] Réponse modifiée, al. 11n).
+[27] Pièce J-2.
+[28] Transcription du 17 août 2022, p. 27, lignes 20-22.
+[29] Transcription du 17 août 2022, p. 26, ligne 2, à p. 27, ligne 10.
+[30] Transcription du 17 août 2022, p. 74, ligne 11, à p. 75, ligne 25.
+[31] Transcription du 17 août 2022, p. 51, lignes 5 à 13.
+[32] Transcription du 17 août 2022, p. 69, ligne 17, à p. 70, ligne 5.
+[33] Transcription du 17 août 2022, p. 179, ligne 6, à p. 181, ligne 14. Voir aussi la transcription du 18 août 2022, p. 19, lignes 3 à 14.
+[34] Voir, par exemple, la transcription du 18 août 2022, p. 90, lignes 19 et 20.
+[35] Transcription du 18 août 2022, p. 24, ligne 24, à p. 32, ligne 4.
+[36] L’avocate de l’appelant a fait valoir que l’appelant n’avait pas acquis les biens de HGSL, mais de la succession (observations de l’appelant préalables au procès, par. 43). Cet argument ne concorde pas avec l’exposé conjoint des faits, les éléments de preuve présentés au procès et le droit depuis la décision Salomon v. Salomon & Co. Ltd., [1896] UKHL 1, [1897] A.C. 22.
+[37] Canada c. Paletta (Succession), 2022 CAF 86, [2022] 4 R.C.F. 394, par. 65.
+[38] Transcription du 16 août 2022, p. 42, ligne 28, à p. 43, ligne 12.
+[39] Transcription du 16 août 2022, p. 45, lignes 17 à 20.
+[40] Transcription du 16 août 2022, p. 104, lignes 12 à 21.
+[41] Transcription du 16 août 2022, p. 119, lignes 19 à 27.
+[42] Cléroux c. La Reine, 2013 CCI 365, par. 19.
+[43] Observations de l’appelant préalables au procès, par. 53.
+[44] Observations de l’appelant préalables au procès, par. 55.
+[45] Chaya c. Canada, 2004 CAF 327, par. 4. Voir aussi Springer c. La Reine, 2013 CCI 332, par. 8.
+[46] Observations de l’appelant préalables au procès, par. 57.

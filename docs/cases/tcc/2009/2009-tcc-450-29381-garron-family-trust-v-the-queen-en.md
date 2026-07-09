@@ -1,0 +1,1110 @@
+---
+title: "Garron Family Trust v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29381/index.do"
+last_modified: "2009-09-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 450"
+citation2: ""
+neutral_citation: "2009 TCC 450"
+decision_date: "2009-09-10"
+language: "en"
+item_id: "29381"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6872
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:59:17.914000+00:00"
+cases_cited_count: 13
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1def5f832783b8141ee266ad8db9ee11dea68124393dbe2fa25cf32cf088f9f1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Garron Family Trust v. The Queen
+
+- Citation: 2009 TCC 450
+- Decision date: 2009-09-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6872, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garron Family Trust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-10
+Neutral citation
+2009 TCC 450
+File numbers
+2006-1405(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1405(IT)G
+BETWEEN:
+MYRON A. GARRON and BERNA V. GARRON,
+as Trustees of the GARRON FAMILY TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with Berna V. Garron (2006‑1407(IT)G), Myron A. Garron (2006‑1408(IT)G), Fundy Settlement (2006‑1409(IT)G), Andrew T. Dunin (2006‑1410(IT)G) and Summersby Settlement (2006-1411(IT)G) from July 21 - August 6, 2008 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Matthew G. Williams
+Counsel for the Respondent:
+Elizabeth Chasson
+Margaret Nott
+Martin Beaudry
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2000 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that no part of the capital gain realized by Fundy Settlement on the disposition of shares of 1287333 Ontario Ltd. should be included in the income of the appellant.
+The respondent is entitled to costs, with one set of counsel fees for all appeals heard under common evidence.
+The Registry is directed to change the style of cause to conform with this judgment.
+Signed at Ottawa, Canada this 10th day of September 2009.
+“J. M. Woods”
+Woods J.
+Docket: 2006-1407(IT)G
+BETWEEN:
+BERNA V. GARRON,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with Garron Family Trust (2006‑1405(IT)G), Myron A. Garron (2006‑1408(IT)G), Fundy Settlement (2006‑1409(IT)G), Andrew T. Dunin (2006‑1410(IT)G) and Summersby Settlement (2006-1411(IT)G)
+from July 21 - August 6, 2008 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Matthew G. Williams
+Counsel for the Respondent:
+Elizabeth Chasson
+Margaret Nott
+Martin Beaudry
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2000 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that no part of the capital gain realized by Fundy Settlement on the disposition of shares of 1287333 Ontario Ltd. should be included in the income of the appellant.
+The respondent is entitled to costs, with one set of counsel fees for all appeals heard under common evidence.
+Signed at Ottawa, Canada this 10th day of September 2009.
+“J. M. Woods”
+Woods J.
+Docket: 2006-1408(IT)G
+BETWEEN:
+MYRON A. GARRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with Garron Family Trust (2006‑1405(IT)G), Berna V. Garron (2006‑1407(IT)G), Fundy Settlement (2006‑1409(IT)G), Andrew T. Dunin (2006‑1410(IT)G) and Summersby Settlement (2006-1411(IT)G)
+from July 21 - August 6, 2008 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Matthew G. Williams
+Counsel for the Respondent:
+Elizabeth Chasson
+Margaret Nott
+Martin Beaudry
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2000 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that no part of the capital gain realized by Fundy Settlement on the disposition of shares of 1287333 Ontario Ltd. should be included in the income of the appellant.
+The respondent is entitled to costs, with one set of counsel fees for all appeals heard under common evidence.
+Signed at Ottawa, Canada this 10th day of September 2009.
+“J. M. Woods”
+Woods J.
+Docket: 2006-1409(IT)G
+BETWEEN:
+ST. MICHAEL TRUST CORP.,
+as Trustee of the FUNDY SETTLEMENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with Garron Family Trust (2006‑1405(IT)G), Berna V. Garron (2006‑1407(IT)G), Myron A. Garron (2006‑1408(IT)G), Andrew T. Dunin (2006‑1410(IT)G) and Summersby Settlement (2006-1411(IT)G) from July 21 - August 6, 2008 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Matthew G. Williams
+Counsel for the Respondent:
+Elizabeth Chasson
+Margaret Nott
+Martin Beaudry
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+The respondent is entitled to costs, with one set of counsel fees for all appeals heard under common evidence.
+The Registry is directed to change the style of cause to conform with this judgment.
+Signed at Ottawa, Canada this 10th day of September 2009.
+“J. M. Woods"
+Woods J.
+Docket: 2006-1410(IT)G
+BETWEEN:
+ANDREW T. DUNIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with Garron Family Trust (2006‑1405(IT)G), Berna V. Garron (2006‑1407(IT)G), Myron A. Garron (2006‑1408(IT)G), Fundy Settlement (2006‑1409(IT)G) and Summersby Settlement (2006-1411(IT)G)
+from July 21 - August 6, 2008 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Matthew G. Williams
+Counsel for the Respondent:
+Elizabeth Chasson
+Margaret Nott
+Martin Beaudry
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2000 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that no part of the capital gain realized by Summersby Settlement on the disposition of shares of 1287325 Ontario Ltd. should be included in the income of the appellant.
+The respondent is entitled to costs, with one set of counsel fees for all appeals heard under common evidence.
+Signed at Ottawa, Canada this 10th day of September 2009.
+“J. M. Woods”
+Woods J.
+Docket: 2006-1411(IT)G
+BETWEEN:
+ST. MICHAEL TRUST CORP.,
+as Trustee of the SUMMERSBY SETTLEMENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with Garron Family Trust (2006‑1405(IT)G), Berna V. Garron (2006‑1407(IT)G), Myron A. Garron (2006‑1408(IT)G), Fundy Settlement (2006‑1409(IT)G) and Andrew T. Dunin (2006‑1410(IT)G) from July 21 - August 6, 2008 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew
+Matthew G. Williams
+Counsel for the Respondent:
+Elizabeth Chasson
+Margaret Nott
+Martin Beaudry
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+The respondent is entitled to costs, with one set of counsel fees for all appeals heard under common evidence.
+The Registry is directed to change the style of cause to conform with this judgment.
+Signed at Ottawa, Canada this 10th day of September 2009.
+“J. M. Woods”
+Woods J.
+Citation: 2009 TCC 450
+Date: 20090910
+Dockets: 2006-1405(IT)G
+2006-1407(IT)G
+2006-1408(IT)G
+2006-1409(IT)G
+2006-1410(IT)G
+2006-1411(IT)G
+BETWEEN:
+MYRON A. GARRON and BERNA V. GARRON,
+as Trustees of the GARRON FAMILY TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+BERNA V. GARRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+MYRON A. GARRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+ST. MICHAEL TRUST CORP.,
+as Trustee of the FUNDY SETTLEMENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+ANDREW T. DUNIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+ST. MICHAEL TRUST CORP.,
+as Trustee of the SUMMERSBY SETTLEMENT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] These appeals concern assessments made under the Income Tax Act (the “Act”) in respect of dispositions of shares of Canadian corporations by Barbados trusts. All assessments relate to the 2000 taxation year.
+I. Background
+[2] In 1998, in the course of a reorganization of the share structure of PMPL Holdings Inc. (“PMPL”), two trusts (“Trusts”) with Canadian beneficiaries were settled by an individual resident in the Caribbean island of St. Vincent. The sole trustee of each Trust was a corporation resident in Barbados.
+[3] As part of the reorganization, the Trusts subscribed for shares of newly-incorporated Canadian corporations and the corporations in turn subscribed for shares of PMPL. These transactions were effected at nominal consideration.
+[4] In 2000, as part of an arm’s length sale of PMPL, the Trusts disposed of the majority of the shares that they held in the holding companies. Capital gains of over $450,000,000 were realized.
+[5] Amounts on account of potential tax on the capital gains had been remitted to the government pursuant to the withholding procedures in section 116 of the Act. In income tax returns filed for the 2000 taxation year, the Trusts sought a return of the amounts withheld, claiming an exemption from tax pursuant to the Agreement Between Canada and Barbados for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income and Capital (the “Treaty”).
+[6] The exemption relied on, Article XIV(4) of the Treaty, provides:
+4. Gains from the alienation of any property, other than those mentioned in paragraphs 1, 2 and 3 may be taxed only in the Contracting State of which the alienator is a resident.
+[7] The Minister has taken the position that this exemption does not apply, and has issued assessments to each of the Trusts in respect of the gains.
+[8] In addition to assessing the Trusts, the Minister also assessed four Canadian residents with respect to the same gains. These persons all had interests in PMPL, either directly or through a holding company, prior to the 1998 reorganization. In these reasons, this group will be referred to collectively as the “Other Appellants.”
+[9] The assessments issued to the Other Appellants were made as a protective measure only, there being no intent to tax the same gains more than once. In oral argument, counsel for the Minister clarified that the assessments issued to the Trusts should take priority over these assessments.
+[10] All of the assessments have been appealed, and the appeals were heard together on common evidence over a three-week period.
+II. Summary of issues
+[11] The appeals involve several relatively complex legislative provisions and many arguments have been raised.
+[12] I would mention that the arguments made by counsel for the Minister following the presentation of evidence varied slightly from the arguments that were in the Minister’s replies. I have limited the discussion below to those issues that were made in argument, either orally or in writing.
+[13] There is one exception to this, which relates to the interplay between subsection 75(2) of the Act and Article XIV(4) of the Treaty. This was an issue that I raised during oral argument, and for which written submissions were subsequently received.
+[14] Below is a brief summary of the issues that will be discussed. The relevant legislative provisions have been reproduced in an appendix.
+[15] First, the Minister submits that the exemption in Article XIV(4) of the Treaty does not apply because the Trusts are resident in Canada. Although the corporate trustee of each Trust is acknowledged to be a resident of Barbados, the Minister submits that the management and control of each Trust is in Canada.
+[16] Alternatively, the Minister submits that the Trusts are deemed residents of Canada by virtue of having received property from beneficiaries resident in Canada. The relevant provision is paragraph 94(1)(c) of the Act.
+[17] The Minister also submits that the gains are taxable to the Other Appellants pursuant to an attribution rule in subsection 75(2) of the Act.
+[18] Further, the Minister seeks to invoke the general anti-avoidance rule (the “GAAR”) in section 245 of the Act in support of all of the assessments.
+[19] Finally, the Minister submits that the allocation of the sale proceeds in the arm’s length sale was not reasonable and that the proceeds should be partially reallocated from the Trusts to the Other Appellants. The legislative provision relied on is section 68 of the Act.
+[20] For completeness, I would mention two other arguments that were raised by the Minister in the replies but were not pursued in argument. The first is an argument that the Trusts were not validly constituted. The second is that the result sought by the appellants was an abuse of the Treaty without resort to the GAAR.
+III. Facts
+A. Introduction
+[21] In 1992, PMPL was incorporated as a holding company for a Canadian corporation that was in the business of manufacturing and assembling parts for the automotive industry. PMPL also held shares in a small corporation that manufactured tools for the main operating company. The specialty of the business was interior automotive systems, such as consoles.
+[22] The main subsidiary was Progressive Moulded Products Inc. (“Progressive”). The other was called Progressive Tools Limited (“Tools”).
+[23] The Other Appellants are Andrew Dunin, Myron Garron, Berna Garron, and a trust called the Garron Family Trust.
+[24] Immediately prior to the 1998 reorganization, the shares of PMPL were owned equally by Mr. Dunin and a holding company that was wholly-owned by the remaining Other Appellants.
+[25] The 1998 reorganization was similar to a typical estate freeze in which (1) an existing shareholder converts common shares to fixed value redeemable and retractable preference shares, and (2) new common shares are issued for nominal consideration to, or for the benefit of, children and other issue of the former common shareholder.
+[26] Counsel for the Minister emphasized that the 1998 reorganization was not really an estate freeze, as that term is commonly used, because the new common shares were not held exclusively for children and other issue. The parents also had an interest. Counsel suggests that the term “non-freeze” would be more accurate.
+[27] The main steps in the reorganization were these. The owners of common shares of PMPL converted these shares to fixed value preference shares. Newly-issued common shares of PMPL were then issued for nominal consideration to newly-incorporated Canadian holding companies. The Trusts each subscribed for shares in the holding companies for nominal consideration. As a result, the holding companies were wholly-owned by the Trusts.
+[28] In 2000, PMPL was sold in an arm’s length transaction in which PMPL was valued at approximately $532,000,000. As part of the sale, the Trusts disposed of the majority of the shares of the holding companies.
+[29] The parties filed an agreed statement of facts (“ASF”) which includes many of the detailed steps in the 1998 reorganization. The ASF is part of my factual findings and is reproduced in an appendix.
+[30] Attached to the ASF are schematic diagrams that depict the relevant corporate structure both before and after the 1998 reorganization. The ASF also includes a schedule which summarizes the amounts that have been assessed. This schedule has not been reproduced.
+B. List of witnesses
+[31] Testimony for the appellants was provided by:
+· Andrew Dunin, one of the two principals of PMPL;
+· Myron Garron, the other principal of PMPL;
+· Ian Hutchinson, a resident of Barbados who is currently president of St. Michael Trust Corp. (“St. Michael”), the trustee of the Trusts;
+· Mary Mahabir, a solicitor with Lex Caribbean Law Offices in Barbados. Ms. Mahabir provided expert testimony as to whether the Trusts were resident in Barbados;
+· Peter Hatges, president of KPMG Corporate Finance Inc. in Toronto. Mr. Hatges provided expert testimony as to the value of PMPL at the time of the reorganization.
+[32] The only witness for the Minister was Howard E. Johnson, of Campbell Valuation Partners Limited. Mr. Johnson provided expert testimony as to the value of PMPL at the time of the reorganization.
+[33] Mr. Johnson also testified as to the value of a hypothetical option to acquire all the shares of PMPL immediately after the 1998 reorganization. This evidence was presented to support the position of the Minister that the shares held by the Trusts had significant value at the time of the 1998 reorganization. Mr. Johnson’s opinion was limited to the hypothetical option. He did not provide an opinion as to the value of the shares held by the Trusts.
+C. The principal transactions
+[34] By 1990, the plastic moulding business carried on by Progressive was struggling. The principal of the corporation, Myron Garron, approached Andrew Dunin with a view to convincing him to join the company as its general manager.
+[35] Mr. Dunin, who had a business background and experience in the automotive industry, took up the challenge. Over time, he converted Progressive’s business from one that manufactured a variety of plastic moulded products into one that specialized in producing automotive interior systems.
+[36] Over the course of a decade, the business had grown exponentially and Progressive had become a significant supplier to major automotive companies, especially General Motors.
+[37] When Mr. Dunin joined Progressive in 1990, Mr. Garron promised him an equity interest in the company. The terms of this were settled in 1992 and were reflected in a shareholders’ agreement. Under that agreement, Mr. Dunin could earn up to 50 percent of the equity, depending on the earnings of the business.
+[38] To facilitate this agreement, PMPL was incorporated in 1992 to hold the shares of the two operating companies, Progressive and Tools.
+[39] Shortly after the 1992 shareholders’ agreement was entered into, Mr. Dunin became unhappy with its terms and he attempted to renegotiate it. Mr. Garron agreed, but only after Mr. Dunin had earned the maximum 50 percent equity interest. This was achieved in 1996.
+[40] By 1996, 50 percent of the shares of PMPL were held by Mr. Dunin and the remaining 50 percent were held by Garron Holdings Limited (GHL). The shareholders of GHL were Mr. Garron, his spouse Berna Garron, and a family trust known as the Garron Family Trust. Mr. and Mrs. Garron were the trustees of the trust.
+[41] Following protracted and difficult negotiations between Mr. Garron and Mr. Dunin, a new arrangement was implemented in April 1998. By this time, Mr. Garron was no longer playing an active role in the management of the business.
+[42] The new arrangement was quite comprehensive. It included a reorganization of the share structure of PMPL, an increased equity ownership and salary for Mr. Dunin, an amendment to the buy/sell provisions in the shareholders’ agreement, and terms under which Mr. Dunin could manage the business, including its disposition.
+[43] The revised shareholders’ agreement contains a number of provisions that purport to affect the shares held by the Trusts (sections 6.2, 6.4, 6.6), but the Trusts are not parties to the agreement.
+[44] The steps undertaken as part of the reorganization, in brief, are:
+· Mr. Dunin transferred his common shares[1] of PMPL to a newly-incorporated holding company, Dunin Holdings Inc. (DHI). Mr. Dunin was the sole shareholder of DHI;
+· the common shares of PMPL, which were then equally owned by DHI and GHL, were converted into voting, redeemable preference shares. The redemption amount was equal to the fair market value of the common shares immediately prior to the conversion. The amount was to be determined by PMPL, and was set at $50,000,000. The redemption amount was subject to adjustment in the event that the valuation was determined to be incorrect by a taxing authority or by a court;
+· non-voting common shares of PMPL were issued for nominal consideration to two newly-incorporated Canadian corporations, 1287325 Ontario Ltd. (“325”) and 1287333 Ontario Ltd. (“333”). The shares issued to 325 had slightly greater rights of participation than the shares issued to 333; and
+· shares of 325 were issued to Summersby Settlement (a Dunin family trust) and shares of 333 were issued to Fundy Settlement (a Garron family trust), both for nominal consideration.
+[45] On or about December 1998, an unsolicited expression of interest in buying PMPL was made to Mr. Dunin. The prospective buyer was owned by a Swiss company, Sarna Knuststoff Holding AG (“Sarna”).
+[46] Mr. Dunin informed the representative for Sarna that he was interested in pursuing sale negotiations. Upon being asked what the business was worth, Mr. Dunin suggested $400,000,000.
+[47] Negotiations with Sarna were conducted over the next several months. They did not lead to a sale, however, because Sarna walked away shortly before the intended closing. As a result, Mr. Dunin had some concern that Sarna never truly was interested in buying the company.
+[48] Immediately after the Sarna deal fell through around June 1999, Mr. Dunin instituted a process to facilitate the sale of PMPL. He thought that this made sense because PMPL was doing well and the work necessary for a due diligence process had just been completed for the Sarna negotiations.
+[49] Mr. Dunin selected Timothy W. Carroll of the Chicago office of Arthur Anderson to manage the sale process. Arthur Anderson estimated a value for PMPL of approximately $500,000,000.
+[50] Mr. Carroll attempted to find potential buyers for PMPL from its competitors and from equity firms. An equity firm based in New York, Oak Hill Capital Partners, L.P. (“Oak Hill”), expressed an interest and eventually bought the business.
+[51] The sale to Oak Hill was completed in August 2000 at a value for PMPL of approximately $532,000,000. The consideration was paid in the form of equity shares of the buyer, as to the amount of $50,000,000, and the balance was paid in cash.[2]
+[52] As part of the negotiations, Mr. Dunin agreed to continue to work for PMPL for a period of time.
+D. Summersby and Fundy
+(1) General trust terms
+[53] Summersby and Fundy were each established as irrevocable trusts on April 2, 1998. The terms of the trusts are similar.
+[54] The beneficiaries of Summersby are Mr. Dunin, his spouse, children and other issue, and any trust established for the benefit of any of them. When Summersby was established, Mr. Dunin had two children, aged 2 and 4.
+[55] The beneficiaries of Fundy are Mr. Garron, his spouse, his children and other issue, and any trust established for the benefit of any of them. Mr. Garron has two children, who were 31 and 35 years of age when Fundy was established.
+[56] In accordance with the trust indentures, distributions of income or capital could be made at any time in the trustee’s discretion to one or more beneficiaries.
+[57] At a “division date,” defined as 80 years from the date of the trust indentures or such date prior to that as selected by the trustee, the trust property is to be distributed as follows:
+(a) for Summersby, if Mr. Dunin is living the trust property is to be distributed to him, and if he is deceased the property is to be distributed to his issue; and
+(b) for Fundy, the trust property is to be distributed to the issue of Mr. Garron and his spouse.
+[58] Each of the trust indentures provides for the appointment of a protector, who has the ability to remove and replace the trustee at any time.
+[59] Further, under each of the trust indentures the protector may be replaced at any time by a majority of the beneficiaries who have attained a certain age. That age is 35 in the case of Summersby, and 40 in the case of Fundy.
+[60] The trust indentures each specify that the protector has full discretion with respect to his powers. The relevant provision is reproduced below:
+8.4 Protector not Agent. The Protector shall not be subject to any fiduciary duty in favour of any person in the exercise of his powers hereunder and shall not be regarded as a trustee of the Trust nor as the agent or nominee of any person. The exercise of any discretion by the Protector hereunder shall be absolute and uncontrolled. No provision of this Trust Indenture shall impose on the Protector a duty of any kind to act in accordance with any provision in this Trust Indenture. The Protector shall not be liable for any loss to the Trust Property arising out of decisions made or actions taken (or not taken) by the Trustee.
+(2) The trustee, settlor and protector
+[61] The sole trustee of each Trust is St. Michael Trust Corp. (“St. Michael”). St. Michael is incorporated and licensed in Barbados and is regulated by the central bank of Barbados.
+[62] St. Michael began operations around 1987. At that time, its shares were owned by the partners of a Barbados accounting firm called Price Waterhouse. Subsequently, this firm merged with another Barbados accounting firm, Coopers & Lybrand, and thereafter St. Michael became owned by the partners of the merged Barbados firm which operated under the name PricewaterhouseCoopers. It is not exactly clear from the evidence when the merger took place but nothing turns on this. For convenience, I will refer to the firm both before and after the merger as PwC-Barbados.
+[63] In 2002, PwC-Barbados sold the shares of St. Michael to Oceanic Bank & Trust, a bank located in The Bahamas. In January 2008, it was sold again to Premier Bank International NV, a bank located in Curacao.
+[64] During the period of ownership by PwC-Barbados (1987 – 2002), the accounting firm operated St. Michael through its trust division. St. Michael had no employees of its own.
+[65] The persons at PwC-Barbados who in 1998 were in charge of Summersby and Fundy for St. Michael were Peter Jesson, a tax partner of PwC-Barbados and a director of St. Michael, and Jim Knott, who was the general manager of St. Michael.
+[66] Mr. Jesson left PwC-Barbados some time ago. He practiced with PricewaterhouseCoopers in Canada for a time, and then retired. It is not clear from the evidence when Mr. Jesson ceased to be involved with the Trusts.
+[67] Mr. Knott was involved with Summersby and Fundy until his retirement on June 30, 2003. His role was then taken over by Ian Hutchinson.
+[68] Mr. Hutchinson is currently the president of St. Michael and a director. He also remains the person primarily responsible for Summersby and Fundy on behalf of St. Michael.
+[69] Mr. Hutchinson’s background is as an accountant with Coopers & Lybrand in Barbados. In 1999, he moved into the trust division of PwC-Barbados and had only minor involvement with Summersby and Fundy before assuming Mr. Knott’s role in 2003.[3] Mr. Hutchinson described his pre-2003 activity as “investment recording.”
+[70] The settlor of each Trust was Paul Ambrose, a friend of Mr. Garron’s who lives on St. Vincent, an island relatively close to Barbados.
+[71] The protector of each Trust is Julian Gill, another friend of Mr. Garron’s who also lives on St. Vincent.
+(3) Memoranda re intentions of trustee
+[72] Shortly after the Trusts were established, Mr. Jesson prepared an internal memorandum for each Trust that sets out the trustee’s intentions. The memoranda are reproduced in full in Appendix III.
+(4) Transactions undertaken by the Trusts
+[73] The appellants did not provide detailed evidence regarding all the transactions undertaken by the Trusts. The following is a general summary of the main transactions as far as I could determine.
+Transactions by Summersby:
+· April 1998 – acquisition of shares of 325 for nominal consideration;
+· August 2000 – sale of majority of shares of 325 to Oak Hill for cash proceeds of $240,366,978. Summersby retained an equity interest valued at $25,000,000;
+· August 2000 – cash proceeds received from sale were deposited in a bank account at UBS (Bahamas) Ltd.;
+· August 2000 – retained shares in 325 were distributed to a new trust with the same beneficiaries as Summersby. St. Michael was the trustee of that trust;
+· Late in 2000 – approximately 90 percent of cash proceeds received by Summersby and income earned thereon was distributed to a new trust, Sandfield Settlement, with the same or similar beneficiaries as Summersby. The trustee of Sandfield was Abacus Bank and Trust Ltd., which was also owned by the partners of PwC-Barbados. Sandfield qualified as an international trust in Barbados with the result that it was exempt from tax in Barbados on investment income;
+· 2000 – 2003 - the cash held by Summersby was invested in government bonds and similar instruments based on advice from Graham Carter of CAP Advisers Inc. in Toronto;
+· Around 2004 – Cranston, Gaskin, O’Reilly & Vernon (CGOV) in Toronto became the investment manager for Summersby. The investment policy that CGOV followed was developed by Mr. Dunin and Colin Carleton, a consultant based in Toronto.
+Transactions by Fundy:
+· April 1998 – acquisition of shares of 333 for nominal consideration;
+· August 2000 – sale of shares of 333 for cash proceeds of $217,118,436;
+· August 2000 – cash proceeds received from sale were deposited with Barclays Bank PLC (Barbados);
+· Late in 2000 – approximately 90 percent of cash received by Fundy and income earned thereon was distributed to a new trust, Tidal 2000 Trust, with the same or similar beneficiaries as Fundy. The structure of Tidal 2000 was similar to Sandfield;
+· Around 2001 – the property of Fundy became managed by a team of investment managers overseen by Doug Farley of Guardian Capital Advisers Inc. in Toronto.
+[74] The investments were not always made by Summersby and Fundy directly. At some point, the investments were made by corporations incorporated in the British Virgin Islands (BVI). Summersby and Fundy owned common and preference shares in those corporations.
+[75] Very few details about the BVI corporations were provided. According to one of the exhibits, the corporation that invested Fundy’s property was incorporated on April 12, 2001, and Mr. Knott and Mr. Hutchinson were directors of this corporation at the time of Mr. Knott’s retirement (Ex. R-1, Tab 135).
+[76] In addition to the above investments, part of the cash proceeds received by Summersby was transferred to other trusts for the benefit of Mr. Dunin and his family at Mr. Dunin’s request. The funds were used for:
+· a $20,000,000 real estate investment consisting of land adjacent to the Dunin family home near Toronto; and
+· two real estate investments consisting of islands in the Bahamas, which were purchased for a total of $5,000,000. These properties are being held for the personal use of the Dunin family and for investment purposes.
+E. Value of PMPL at time of 1998 reorganization
+[77] The appellants and the respondent each led evidence as to the fair market value of all the shares of PMPL on April 6, 1998, the date at which the common shares of PMPL were converted to fixed value preference shares.
+[78] In making the assessments, the Minister assumed that the fair market value of the preference shares of PMPL on April 6, 1998 was substantially greater than $50,000,000.
+[79] The valuations expert for the Minister, Howard E. Johnson of Campbell Valuation Partners Ltd., determined a value for all the shares of PMPL at $102,000,000. He did not value the different classes of shares.
+[80] I would mention that this valuation was subject to several restrictions, qualifications and assumptions. In particular, Mr. Johnson’s report noted that certain information was provided to him by management and was not independently verified (Campbell Valuation Report, Appendix F).
+[81] The valuation expert for the appellants was Peter Hatges, president of KPMG Corporate Finance Inc. in Toronto. He was of the opinion that the fair market value of all the shares of PMPL as at April 6, 1998 was $50,000,000.
+[82] Mr. Hatges’ opinion was based largely on a valuation that he had prepared in 1998 for the purpose of assisting PMPL in setting the redemption amount of the preference shares as required by the share terms in the Articles of Amendment.
+[83] The valuations of both experts are far lower than the valuations used for purposes of subsequent arm’s length negotiations. In December 1998, Mr. Dunin suggested a value of $400,000,000 to Sarna. In August 1999, a report by Arthur Anderson stated the following (Ex. R-1, Tab 69 – 2):
+Based on our due diligence and further analysis, we continue to believe that Progressive could achieve an equity value of greater than $500 million.
+[84] Notwithstanding this difference, counsel for the Minister did not suggest that the value of PMPL was in excess of $102,000,000 as at April 6, 1998. I would note that the expert for the Minister provided a detailed explanation as to the reason for the large discrepancy. At the relevant time PMPL was a corporation in transition, and as it turned out PMPL was on the cusp of a meteoric rise that was not entirely foreseeable at April 6, 1998.
+[85] I would note in particular that the 1998 reorganization took place at a time that PMPL was in the process of launching two significant business lines for General Motors. The products were consoles referred to as the GMT800 and the GMT425. At the time of the 1998 reorganization, there were business risks associated with these new lines.
+[86] I now turn to the opinion of Mr. Hatges, whose factual assumptions were in part supported by the testimony of Mr. Dunin.
+[87] I did not find Mr. Hatges’ opinion to be convincing. Overall, his report and testimony appeared to significantly over-emphasize PMPL’s business challenges and under-emphasize the business opportunities.
+[88] Mr. Hatges’ view of the GMT800 and GMT425 new business lines is an example of this. It was Mr. Hatges’ opinion that a potential purchaser would not put a positive value on the profit potential for either business line. I am not satisfied based on the evidence as a whole that this was a reasonable view to take.
+[89] The GMT800 contract had been awarded by General Motors approximately three years earlier, and at the time of the valuation the business line was a few months away from an expected launch. I accept that there were business risks associated with this business line at the relevant time, but I am not satisfied that Mr. Hatges gave sufficient weight to its profit potential.
+[90] As for the other new business line, the GMT425, this console was already in production but at the relevant time there was a pricing dispute between General Motors and PMPL. I accept that the pricing dispute would depress value, but I would conclude from the evidence as a whole that Mr. Hatges over-estimated the risk on this business line.
+[91] I would also mention that I have concerns about the independence of Mr. Hatges in relation to his opinion. Mr. Hatges was with KPMG and/or KPMG Corporate Finance Inc. at all relevant times. KPMG had a significant business relationship with PMPL as PMPL’s auditors in 1998, and the firm had also provided tax advice to Mr. Dunin and Mr. Garron.
+[92] A further concern is that in providing an opinion for purposes of these appeals, Mr. Hatges was essentially defending the valuation that he had previously prepared for PMPL to assist with the 1998 reorganization.
+[93] I now turn to Mr. Johnson’s opinion. Mr. Johnson’s report and testimony impressed me as being unbiased and thorough.
+[94] The appellants criticized Mr. Johnson’s opinion for taking into account information that was not available at the April 6, 1998 valuation date. One example is financial forecasts that were not available at the relevant time.
+[95] Although I accept that the use of subsequent information is a weakness in Mr. Johnson’s methodology, it was appropriate for Mr. Johnson to take expected future profitability into account in some fashion. There is no reason for me to conclude that Mr. Johnson’s use of this information led to an unreasonably high valuation.
+[96] Where does that leave us? The conclusion that I have reached is that the fair market value of all the shares of PMPL as at April 6, 1998 was substantially greater than $50,000,000. Since it is not necessary for this decision to determine an actual value, I will refrain from doing so.
+F. Other facts
+[97] The gains realized by the Trusts on the sale to Oak Hill were not subject to income tax in Barbados.
+[98] Summersby and Fundy were subject to income tax in Barbados on income earned in a year (not capital gains) unless the income was distributed in the year. As mentioned earlier, in 2000 the Trusts distributed all but a small portion of their investment income.
+[99] The preference shares of PMPL that were created in the 1998 reorganization were redeemable at the option of PMPL and their holders (DHI and GHL). If, however, one of the holders opposed a redemption of shares requested by the other, the preference shares would not be redeemed at that time. Instead all preference shares would begin to accrue a fixed dividend.
+[100] As mentioned earlier, the Minister introduced evidence from Mr. Johnson regarding the value of a hypothetical option to acquire all the shares of PMPL. The option was valued in the range of $2,400,000 to $21,600,000.
+[101] This evidence was provided to support the argument of the Minister that the common shares acquired by the Trusts had considerable value at the time that they were issued.
+[102] I have some difficulty in making the leap suggested by the Minister that the value of an option is a proxy for the value of the shares acquired by the Trusts. I could understand the analogy better if the preference shares of PMPL were not immediately redeemable and retractable (or dividend-bearing). One of key assumptions that Mr. Johnson relied upon in valuing the option is the length of time that the option could be exercised.
+IV. Issue 1 – Are the Trusts resident in Canada under general principles?
+A. Overview of treaty exemption
+[103] The appellants submit that the Trusts are entitled to the exemption provided in Article XIV(4) of the Treaty. It is worthwhile reproducing it again:
+4. Gains from the alienation of any property, other than those mentioned in paragraphs 1, 2 and 3 may be taxed only in the Contracting State of which the alienator is a resident.
+[104] The expression, “resident of a Contracting State,” has a defined meaning for purposes of the Treaty. Article IV(1) of the Treaty provides:
+1. For the purposes of this Agreement, the term “resident of a Contracting State” means any person who, under the law of that State, is liable to taxation therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. The terms “resident of Canada” and “resident of Barbados” shall be construed accordingly.
+[105] In light of the definition, each of the Trusts is a “resident of Canada” for purposes of the Treaty if it is liable to taxation in Canada by virtue of residence or by one of the other listed criteria.
+[106] The test is the same in determining whether the Trusts are resident in Barbados.
+B. Are the Trusts resident in Barbados?
+[107] The appellants submit that the Trusts are resident in Barbados for purposes of the Treaty.
+[108] The Minister has not taken a view one way or the other on the issue, noting that the residence tie-breaker provision in the Treaty has not been engaged by an agreement of the competent authorities.
+[109] Since this matter has not been put in issue by the Minister, I will not decide the appeals on the basis of whether or not the Trusts are resident in Barbados.
+[110] Nevertheless, it may be useful to set out a summary of the evidence presented regarding Barbados residence.
+[111] The appellants introduced expert evidence in the form of testimony from Mary Mahabir, a Barbadian solicitor. In her opinion, the Trusts are resident in Barbados for the purposes of the Treaty because they are resident in Barbados according to its domestic tax law and they are subject to the most comprehensive basis of taxation there. In effect, this opinion was only in respect of the relevant law, as it should be. The necessary facts to support the opinion were assumed.
+[112] Ms. Mahabir prefaced her opinion regarding Barbados domestic tax law by stating that there is no statutory or judicial authority in Barbados concerning the residence of a trust.
+[113] Notwithstanding the lack of Barbados’ judicial precedent, Ms. Mahabir was of the view that, under the common law, the residence of a trust is determined by reference to the place of residence of the trustees, upon the assumption that the control and administration of the trust was exercised in that place by resident trustees.
+[114] I would make two comments concerning this opinion.
+[115] First, Ms. Mahabir stated in cross-examination that her opinion was based on the assumption that St. Michael exercised its duty as trustee in a manner consistent with its fiduciary obligations and on the basis that St. Michael had sole control of the management and administration of the Trusts in Barbados. She did not conduct an independent investigation of this, and acknowledged that her opinion could differ if this was not the case.
+[116] Second, as for Ms. Mahabir’s opinion as to the common law test, she refers to two authors in support.
+[117] In one reference, the author suggests that Barbados would follow the principles stated in the Canadian Thibodeau decision, referred to below, and in Canadian administrative policy. In this regard, Ms. Mahabir comments:
+[The above common law test] is consistent with the approach taken by Professor Gilbert Kodilinye, in his text Commonwealth Caribbean Trusts Law, who stated that “… These principles of interpretation of the residence of a trust [stated in the leading Canadian case of Thibodeau Family Trust v. The Queen and in Interpretation Bulletin IT-447 Residence of a Trust or Estate May 30, 1980*] are given full weight and acceptability in the Commonwealth Caribbean jurisdictions […].”
+* Not edited.
+[118] The other supporting reference referred to by Ms. Mahabir is of questionable relevance. Ms. Mahabir refers to an excerpt from Stanley & Clarke, Offshore Tax Planning (London: Butterworths, 1986), at 75. This appears to be a reference to a legislative test of residence, not a common law test.
+[119] For this reason, I question the relevance of the reference to Offshore Tax Planning. We are left, then, with the Canadian authorities referred to by Ms. Mahabir, namely Thibodeau and Canadian administrative practice.
+[120] Based on Ms. Mahabir’s opinion and my findings of fact below, there appears to be a serious question about the correctness of the appellants’ position that the Trusts are resident in Barbados for purposes of the Treaty. In light of the fact that the issue has not been engaged, I do not propose to comment further.
+C. Are the Trusts resident in Canada?
+(1) Overview
+[121] In determining Canadian residence for purposes of Article IV(1) of the Treaty, it must be considered whether the Trusts are liable to taxation under the Act by reason of residence or one of the other listed criteria.
+[122] The Minister submits that the Trusts are liable to taxation under the Act by reason of residence. This is the question to be determined.
+[123] In reference to the Act, there is no legislative definition of the term “resident” that is relevant here. Residence must therefore be interpreted in accordance with general principles.
+(2) Positions of the parties
+[124] The appellants submit that, for purposes of the Act, the Trusts are not resident in Canada under general principles.
+[125] They submit, first, that the residence of a trust is determined by the residence of the trustee and that the actual management and control of the trust is not a relevant consideration.
+[126] The applicable judicial authority, it is submitted, is the decision of the Federal Court – Trial Division in Dill and Pearman, Trustees of the Thibodeau Family Trust v. The Queen, 78 DTC 6376 (“Thibodeau”).
+[127] According to the appellants, Thibodeau establishes that a trust is resident in the jurisdiction where its trustee resides. In this case, there is no dispute that St. Michael, the trustee, is resident only in Barbados.
+[128] Further, it is submitted that the court in Thibodeau concluded that the central management and control test (which has historically been applied in determining the residence of corporations) is inapplicable to trusts.
+[129] In the alternative, the appellants submit that the evidence establishes that the management and control of the Trusts was in fact with St. Michael.
+[130] The Minister, on the other hand, submits that Summersby and Fundy were controlled by Mr. Dunin and Mr. Garron, respectively. St. Michael was a compliant trustee, it is submitted, that implemented decisions made by or on behalf of Mr. Dunin, in respect of Summersby, and by or on behalf of Mr. Garron, in respect of Fundy.
+[131] It is submitted that the Trusts should be viewed as resident in Canada on these facts, following the central management and control test that has been accepted for corporations.
+[132] Counsel for the Minister acknowledges that the court in Thibodeau rejected the central management and control test in obiter. However, counsel notes that the judge had actually taken this factor into account in coming to the conclusion that the Thibodeau Family Trust was not resident in Canada. She suggested that Thibodeau is an “odd” case that is not of much assistance in these appeals.
+[133] As for other judicial authorities, the Minister relied on two decisions of the Special Commissioners in the United Kingdom: Wensleydale’s Settlement Trustees v. Inland Revenue Commissioners, [1996] STC (SCD) 241 (“Wensleydale”); and Smallwood and Smallwood, Trustees of the Trevor Smallwood Trust, et al v. Commissioners for Revenue and Customs, [2008] UKSPC SPC0069 (“Smallwood”). My understanding is that Smallwood is currently under appeal after the decision of the Special Commissioners was reversed by the High Court of Justice for reasons unrelated to the issue here ([2009] EWHC 777 (Ch)).
+(3) What is appropriate test of trust residence?
+[134] An appropriate starting point for the analysis is a consideration of the decisions referred to by the parties: Thibodeau, Wensleydale, and Smallwood.
+[135] For the reasons below, I have concluded that none of these decisions are of much assistance.
+[136] First, I cannot agree with the appellants’ submission that Thibodeau sets out a test of trust residence based solely on the residence of the trustee.
+[137] It is clear from the reasons in Thibodeau that the judge did not purport to state a general test of trust residence. The decision was intended to be limited to the particular facts of the case. At page 6386:
+In this case, […] a judicial formula applicable to the facts of this case alone must be employed, […].
+[138] I would also comment that there was nothing on the particular facts in Thibodeau that would support a finding that the trust was resident in Canada. In that case, the Minister had argued that one trustee resident in Canada effectively controlled the Thibodeau Family Trust, notwithstanding that there were two other trustees resident in Bermuda. The judge rejected this and made a factual finding that the Canadian trustee did not control the trust.
+[139] It would be wrong in my view to conclude that Thibodeau stands for the proposition that the residence of a trustee is always the deciding factor in determining the residence of a trust.
+[140] The Thibodeau decision is more relevant in these appeals for Gibson J.’s comment in obiter that rejects the application of a central management and control test to trusts.
+[141] The basis for rejecting this test is stated in Thibodeau at p. 6385:
+The judicial formula for this respecting a corporation, in my view, cannot apply to trustees because trustees cannot delegate any of their authority to co-trustees. A trustee cannot adopt a “policy of masterly inactivity” as commented upon in Underhill on the Law of Trusts and Trustees, 12th Edition, page 284; and on the evidence, none of the trustees did adopt such a policy.
+[142] If the above comment is intended to be applicable in all cases, regardless of the particular facts and circumstances, I respectfully cannot agree with it.
+[143] It may be correct that trustees would generally be in breach of fiduciary obligations if they adopted a policy of “masterly inactivity.” The difficulty that I have with applying the obiter comment in all circumstances, though, is that it presumes that trustees always comply with their fiduciary obligations.
+[144] This may have been a reasonable conclusion for Gibson J. to make on the particular facts before him, but it is not always the case.
+[145] The facts in a decision of the Federal Court of Appeal rendered shortly before Thibodeau provide an example where trustees may not have complied with their fiduciary duties: Robson Leather Company Ltd. v. MNR, 77 DTC 5106 (“Robson Leather”).
+[146] I would mention in particular that the argument accepted in Thibodeau that trustees should be presumed to comply with their fiduciary obligations was rejected by the Federal Court of Appeal in Robson Leather. The decision was not referred to in Thibodeau.
+[147] Robson Leather is a case about arm’s length dealing, not residence. The issue was whether one trustee had de facto control of a trust notwithstanding that there were other trustees.
+[148] Although the context in Robson Leather is quite different, the decision is instructive because the amount of control exercised by the trustees was examined by the Court.
+[149] The relevant excerpt from the decision of Urie J. in Robson Leather is set out from p. 5112:
+[…] It was argued that it could not be assumed that the trustees would not carry out their duties as trustees in accordance with the legal obligations imposed on trustees to formulate their own judgments in matters affecting the trusts, but rather would follow Robson’s instructions merely because he had the power to cause the retirement of either or both of the other two trustees if they did not do so.
+The learned Trial Judge refused to accept this submission for the reasons set out hereafter:
+In my opinion, however, in deciding the larger issue before me. [sic] I must look at the practical and business reality of the operation of the trust. By demanding retirement of trustees, or even the threat of such demand, or the knowledge in the co-trustees that the ultimate power was always in Mr. Robson, I have no doubt that Mr. Robson, for practical and legal purposes, controlled the trust and, therefore, controlled Robson Leather. I add the caveat here, that share control alone, (or absence of it), is not necessarily conclusive; it is a factor to be considered in determining questions of “arm’s length”.
+With this conclusion I agree […]
+[150] With respect to the contrary view expressed by the judge in Thibodeau, it does not make sense in my view to assume that in every case trustees will comply with their fiduciary obligations. The particular facts and circumstances must be considered.
+[151] For these reasons, in my view the Thibodeau decision does not form a solid foundation for rejecting the Minister’s position that residence should be determined by a central management and control test.
+[152] I now turn to Wensleydale and Smallwood.
+[153] The Minister’s argument with respect to these decisions can be briefly dealt with. Although counsel acknowledged that the test of residence that was relevant in these decisions was a legislative rather than common law test, she suggests that the decisions are nevertheless relevant because the courts were influenced by the central management and control test.
+[154] I do not agree with this submission. I am unable to find any assistance in these decisions in determining an appropriate common law test of trust residence.
+[155] Having concluded that the judicial decisions referred to by both counsel do not provide much assistance, I would also comment that my own canvass of the jurisprudence and literature did not reveal much more than this.
+[156] In view of this lacuna, how should the issue of trust residence be approached?
+[157] As mentioned earlier, I have concluded that the Thibodeau decision is insufficient authority for me to reject a central management and control test to determine trust residence. In fact, as I will explain, in my view there are very good reasons why the judicial test for residence that has been developed in a corporate context should also apply to trusts.
+[158] First, the basis for applying this test to corporations is equally applicable in a trust context. In one of the most quoted passages in Canadian tax jurisprudence, the reasons for adopting this test were stated by Lord Loreburn in De Beers Consolidated Mines Ltd. v. Howe, [1906] AC 455, at 458:
+. . . In applying the conception of residence to a company, we ought, I think, to proceed as nearly as we can upon the analogy of an individual. A company cannot eat or sleep, but it can keep house and do business. We ought, therefore, to see where it really keeps house and does business. An individual may be of foreign nationality, and yet reside in the United Kingdom. So may a company. Otherwise it might have its chief seat of management and its centre of trading in England under the protection of English law, and yet escape the appropriate taxation by the simple expedient of being registered abroad and distributing its dividends abroad. The decision of Kelly C.B. and Huddleston B. in the Calcutta Jute Mills v. Nicholson and the Cesena Sulphur Co. v. Nicholson ((1876) 1 Ex. D. 428), now thirty years ago, involved the principle that a company resides for purposes of income tax where its real business is carried on. Those decisions have been acted upon ever since. I regard that as the true rule, and the real business is carried on where the central management and control actually abides.
+It remains to be considered whether the present case falls within that rule. This is a pure question of fact to be determined, not according to the construction of this or that regulation or by-law, but upon a scrutiny of the course of business and trading.
+[Emphasis added.]
+[159] Although there are significant differences between the legal nature of a trust and corporation, from the point of view of determining tax residence, the characteristics are quite similar. The function of each is, at a basic level, the management of property.
+[160] Second, adopting a similar test of residence for trusts and corporations promotes the important principles of consistency, predictability and fairness in the application of tax law.
+[161] The development of a test of trust residence in Canada has been left by Parliament to the courts. If courts decide to develop a totally different test of residence for trusts than they have for corporations, there should be good reasons for doing so. I am not satisfied that there are good reasons.
+[162] I conclude, then, that the judge-made test of residence that has been established for corporations should also apply to trusts, with such modifications as are appropriate. That test is “where the central management and control actually abides.”
+[163] Before leaving this issue, I would mention that there are a number of very early Canadian decisions that concluded that income from a trust was taxable in Canada if the trustee was resident in Canada. These decisions include: McLeod v. Min. of Customs & Excise, [1917-27] CTC 290, 1 DTC 85 (SCC), MNR v. Royal Trust Co., [1928-34] CTC 129, 1 DTC 243 (PC), and MNR v. Holden, [1928-34] CTC 127, 1 DTC 234 (PC).
+[164] Neither counsel referred to these decisions and I think they were right in not doing so. These decisions have outlived their usefulness because the legislative scheme is much different today than it was when these cases were decided.
+[165] The reason that the courts focussed on the residence of the trustee in the earlier jurisprudence was that the tax legislation at the time did not purport to impose tax on trusts. Instead, either the trustee or the beneficiaries were subject to tax on the trust income.
+[166] The legislative scheme in respect of the taxation of trusts has evolved over time. Under the scheme that is applicable in these appeals, a trust is the object of the tax, albeit with the recognition that the involvement of the trustee is necessary for certain purposes. In essence it is a hybrid. This is reflected in subsections 104(1) and (2) of the Act, which are reproduced in an appendix.
+[167] I agree with Gibson J.’s comment in Thibodeau that section 104 does not assist in determining trust residence (at 6377).
+[168] I would also mention that the legislative scheme that was in effect when Thibodeau was decided was less clear on the point than it is now.
+[169] At the time of Thibodeau, section 104(1) provided that a reference in the Act to a trust “shall be read” as a reference to the trustee. Effective in 1998, this subsection was amended to provide that a reference in the Act to a trust “shall, unless the context otherwise requires, be read to include a reference to the trustee.”
+[170] For these reasons, I conclude that the central management and control test should apply in determining the residence of trusts for purposes of the Act. It may be argued that a phrase such as “mind and management” may be more descriptive, but the term “central management and control” has the advantage of promoting consistency and certainty. It is desirable that the test for corporations and trusts be as similar as the circumstances allow.
+(4) What does management and control mean?
+[171] Before applying a management and control test to the facts of this case, it is useful to consider how other courts have approached the issue.
+[172] To my knowledge, the management and control test has to date only been applied in a corporate context. A review of judicial decisions in this area suggests that management and control has usually been found to reside in a board of directors, even though the directors may be under significant influence from shareholders or others.
+[173] This is evident from the few Canadian decisions that are relevant. The most notable may be the decision of the Federal Court of Appeal in Birmount Holdings Ltd. v. The Queen, 78 DTC 6254, at para. 33.
+[174] In the United Kingdom, the issue was quite recently considered by the Court of Appeal in Wood v. Holden, [2006] EWCA Civ 26, [2006] STC 443.
+[175] The issue in Wood v. Holden was whether a Netherlands corporation, Eulalia, was a resident of the United Kingdom under the central management and control test. The Court of Appeal decided that Eulalia’s residence was in the Netherlands, where its managing director, ABN AMRO, was located.
+[176] The threshold level of decision-making that the Court of Appeal accepted from the managing director appears to be low. In particular, the absence of information by ABN AMRO to make an informed decision does not appear to be a significant factor.
+[177] The conclusions of Lord Justice Chadwick are stated in paragraphs 40 and 41:
+40. In my view the judge was correct to hold that the only conclusion open to the special commissioners, on the facts which they had found, was that Eulalia was resident in the Netherlands. The special commissioners made two findings of fact which, as it seems to me, lead necessarily to that conclusion. The first (at paragraph 119 of their decision) was that “the directors of Eulalia . . . were not by-passed nor did they stand aside since their representatives signed or executed the documents”. That finding takes this case outside the class exemplified by the facts in Unit Construction Co Ltd v Bullock. The second – implicit in the finding that “their representatives signed or executed the documents”, but made explicit in the observation (at paragraph 134 of the special commissioners’ decision) that “From the viewpoint of Eulalia we find nothing surprising in the fact that its directors accepted the agreement prepared by Price Waterhouse . . .” – was that ABN AMRO (the managing director of Eulalia), through Mr Fricot and Mr Schmitz, did sign and execute the documents (including the purchase agreement); and so must, in fact, have decided to do so.
+41. Those two facts make it impossible to treat this case as one in which ABN AMRO, as managing director of Eulalia, made no decision. There was no evidence that Price Waterhouse (or anyone else) dictated the decision which ABN AMRO was to make; although, as the special commissioners and the judge pointed out, Price Waterhouse intended and expected that ABN AMRO would make the decisions which it did make. There was no basis for an inference that Price Waterhouse (or anyone else) dictated to ABN AMRO what decision it should take; and it is inherently improbable that a major bank (or its trust company) would allow its actions to be dictated by a client’s professional advisers (however eminent). On a true analysis the position was that there was no reason why ABN AMRO should not decide to accept (on behalf of Eulalia) the terms upon which the Holdings shares were offered for sale by CIL; and ample reason why it should do as it was expected it would.
+[178] If paragraph 40 above had stood alone, without paragraph 41, the management and control test would appear to be usually satisfied by the simple fact of signing documents.
+[179] The comments in paragraph 40 are tempered, however, by the comments that follow. In paragraph 41, the judge notes that the actions of ABN AMRO were reasonable, and that no one had dictated those actions.
+[180] It is difficult, and perhaps unwise, to express a definitive statement of principle based on judicial decisions on management and control, which are quite fact dependent. It is probably fair to conclude, however, that in order to find that management and control is located with shareholders, courts generally require something more than evidence of shareholder influence.
+[181] As far as judicial decisions in a trust context, it is relevant to consider Smallwood.
+[182] The Smallwood case involved a trust created by Mr. Smallwood, a U.K. resident, for the benefit of he and his family. In order to avoid U.K. tax on a sale of shares by the trust, the trustee was changed to a Mauritius corporation for a short period of time. The trust argued that it was entitled to an exemption in the relevant treaty that is similar to the exemption that is at issue here.
+[183] The decision of the Special Commissioners turned on the application of a treaty tie-breaker for determining residence. That test was the “place of effective management” (POEM).
+[184] Effective management was found to have remained in the United Kingdom, notwithstanding that low level decisions were made by the trustee in Mauritius. At para. 140, the Special Commissioners stated that the administration of the trust had moved to Mauritius but the “key” decisions were made in the United Kingdom.
+[185] The decision of the Special Commissioners is useful for its consideration of effective management of a trust where the choice of trustee was purely a tax-driven decision.
+[186] It should be noted that this decision was reversed by the High Court of Justice on unrelated grounds. I understand that a further appeal is pending.
+(5) Application to these appeals
+[187] I turn now to the application of a management and control test to the particular facts in these appeals.
+[188] The relevant time at which residence should be determined is when the shares were disposed of by the Trusts. It is appropriate to consider the facts and circumstances at that time, but it also useful to look at them over a longer period. I have placed little weight, though, on facts and circumstances after the assessments were issued.
+[189] Based on the evidence as a whole, I find that St. Michael was selected by Mr. Dunin and Mr. Garron, or advisers acting on their behalf, to provide administrative services with respect to the Trusts. Its role was to execute documents as required, and to provide incidental administrative services. It was generally not expected that St. Michael would have responsibility for decision-making beyond that.
+[190] I would note that there is no explicit evidence that establishes the limited nature of St. Michael’s role. In the context of this tax-motivated arrangement, which appears to have been carefully planned and implemented with considerable assistance from lawyers, one would not expect there to be such evidence. The conclusion is based on the evidence as a whole, including the failure of the appellants to provide satisfactory evidence establishing otherwise.
+[191] Although the arrangement with respect to St. Michael’s role was likely unwritten, it was effectively enforceable through the ability of the protector to replace St. Michael as trustee through the protector mechanism. That mechanism included the ability of Mr. Dunin and Mr. Garron, with their spouses, to replace the protector.
+[192] The general nature of the decision-making that would be required to administer the Trusts would have been understood at the Trusts’ inception. Such decisions included the purchase and sale of the Trusts’ interests in PMPL, the investment of the cash proceeds received upon the sale, the making of distributions to the beneficiaries, and taking appropriate action to minimize the tax burden of the Trusts.
+[193] I mention taxes in particular because the overall structure seems to involve a large number of trusts and corporations.
+[194] What was the arrangement in regard to these decisions? I find that, more likely than not, St. Michael had agreed from the outset that it would defer to the recommendations of Mr. Dunin and Mr. Garron. Further, I find that Mr. Dunin and Mr. Garron had understood this to be the arrangement from the outset.
+[195] Below are some of the factors that I have taken into account in reaching the conclusion that St. Michael’s role was limited.
+[196] First, shortly after the Trusts were formed, Mr. Jesson prepared internal memoranda setting out the intentions of the trustee. It seems clear from these documents, which are reproduced in an appendix, that there was an understanding that St. Michael’s role would be more limited than that contemplated by the trust indentures.
+[197] In particular, the memoranda suggest that St. Michael would act in an administrative capacity only with respect to the sale of PMPL and that St. Michael would not make distributions to the family members of Mr. Dunin or Mr. Garron without their respective consents.
+[198] Second, there was very little evidence as to the how the investment of the cash proceeds was handled, but what evidence there was suggests that it was under the direction of Mr. Dunin and Mr. Garron for Summersby and Fundy, respectively.
+[199] The evidence revealed that trusts managed by St. Michael often used the investment advisers that the beneficiaries used. It was suggested that this was desirable to coordinate the investment strategy.
+[200] The employment of this practice not only enabled a coordinated investment strategy, it also had the result that the beneficiaries could choose the investment advisers for the trusts, be kept informed by the advisers directly, and give directions to the advisers. Further, the advisers could follow these directions without trustee approval, within the investment parameters provided to them. In short, the beneficiaries could for all intents and purposes direct the investment activity.
+[201] It is likely that Summersby and Fundy operated in this manner while they invested the funds directly. There is also no reason for me to think that the investment of the funds by the BVI corporations was handled differently.
+[202] I would also comment that I was not satisfied from the evidence that Mr. Dunin or Mr. Garron had used the initial investment advisers (Mr. Carter and Mr. Farley, respectively) for their personal investments prior to the sale of PMPL. It may have been that Mr. Dunin and Mr. Garron selected them primarily for the Trusts’ investments, rather than their own.
+[203] In respect of Mr. Carter, he had prior involvement with PMPL due to his insurance expertise, and I note that a proposal to manage investments was provided by him to Mr. Dunin and DHI in April, 2000 (Ex. R-1, Tab 85).
+[204] In respect of Mr. Farley, the following testimony in Mr. Garron’s examination-in-chief is instructive (p. 391-392 of transcript):
+Q. It is an agreed fact that you and Berna and the Garron Family Trust received $25 million from Oak Hill, correct?
+A. Yes.
+Q. What did you, Berna and the Garron Family Trust do with that $25 million?
+A. We gave some to our two boys and then we established a foundation.
+Q. What sort of foundation is that?
+A. A charitable foundation, mostly medical.
+Q. Did you keep any for yourself?
+A. Yes.
+Q. What have you done with the funds you kept for yourself?
+A. I invested them, mostly in equities.
+Q. Do you use investment advisers for those personal investments?
+A. No, not to pick the investments, no.
+Q. You don’t?
+A. No.
+Q. Do you any use any investment advisers at all, personally?
+A. Yes. I gave some of the funds to Guardian Capital.
+[205] Third, as for the tax strategies implemented by Summersby and Fundy, Thorsteinssons likely took a lead role in coordinating the team of professional advisers. Thorsteinssons acted as tax advisers to the Trusts, Mr. Dunin and Mr. Garron. There is no doubt that the tax-minimization plans developed by the team of tax advisers, including PwC-Barbados, were under the direction, explicit or otherwise, of Mr. Dunin for Summersby and Mr. Garron for Fundy.
+[206] Fourth, the appellants introduced virtually no documentation that would support their view that St. Michael took an active role in managing the Trusts. Most of the documentation introduced by the appellants consisted of formal agreements, trustee accounts and tax returns.
+[207] Fifth, the documentary evidence introduced by the Minister, which includes four binders of correspondence and other documents, is generally consistent with the above conclusion. In particular, there is very little documentary evidence that St. Michael had any involvement in the affairs of the Trusts other than in the execution of agreements, and in administrative, accounting and tax matters.
+[208] Another relevant consideration is that St. Michael was, from 1998 to 2002, an arm of an accounting firm. It is likely that St. Michael was formed to provide services that were complementary to its core practice areas, and in particular tax services. It appears that PwC-Barbados provided significant tax advice regarding the overall offshore structure of the property held by the Trusts, and that PwC-Barbados assisted PwC in Toronto in attempting to provide further tax services.
+[209] Although PwC-Barbados had significant expertise in accounting and tax matters, whether they had expertise in managing trust assets is questionable from the evidence.
+[210] I would note in particular an email sent in 1999 from Brandon Fahy of PwC-Barbados to Dean Levitt of PwC in Canada (Ex. R-1, Tab 70). It suggests that Mr. Garron may have been viewed internally as the “client” in respect of Fundy. The email is reproduced in full:
+We have a Canadian resident client who will likely be receiving a large amount of money in their Barbados Trust as a result of an estate freeze (i.e.sale of Canco shares by the Barbados trust).
+The client may contact you for information on investment managers as part of your role in the Investment Advisory Group. He basically needs some guidance for qualified offshore managers and what PwC Toronto might be able to do. However, the Trust will remain a non-resident of Canada and depending on the proposed Canadian Tax legislation on Trusts, will remain exempt from Canadian taxation. He currently has Thorsteinsson’s as tax advisers to the corporate sale.
+Let me know if he contacts you. His name is Myron Garron. Peter Jesson assisted with the estate freeze along with Jim Knott.
+[211] I turn now to a consideration of the oral testimony. For the reasons below, I find that it is not inconsistent with the conclusion about St. Michael’s limited role.
+[212] The only witnesses that were called by the appellants in regards to management and control of the Trusts were Mr. Dunin, Mr. Garron and Mr. Hutchinson.
+[213] The main problem with this testimony is that it did not provide a very clear picture as to how the Trusts operated. The testimony of Mr. Dunin and Mr. Garron was self-interested and was understandably less than full and complete in my view.
+[214] As for Mr. Hutchinson, he had very little knowledge of the Trusts during the most relevant period when St. Michael was owned by PwC-Barbados. He was not intimately involved prior to his taking over from Mr. Knott in July 2003.
+[215] There are many other individuals who could have shed light on this issue. The list of possible witnesses includes:
+· Paul Gibney, tax lawyer from Thorsteinssons in Toronto. Mr. Gibney likely would have been an important witness because he appeared to be a main point of contact for St. Michael and for Mr. Dunin and Mr. Garron with respect to all matters involving the Trusts;
+· Stephen Bowman, tax lawyer formerly of Thorsteinssons in Toronto. It appears that Mr. Bowman played an important role in connection with the 1998 reorganization. In particular, Mr. Bowman travelled with Mr. Dunin to Barbados to interview potential trustees. One of the persons who they met with was Mr. Jesson;
+· Peter Jesson, a former tax partner of PwC-Barbados. Mr. Jesson was the PwC-Barbados partner in charge on behalf of St. Michael when the Trusts were created, and he prepared the memoranda of trustee intentions;
+· Jim Knott, the former general manager of St. Michael who had the day to day responsibility for the Trusts on behalf of St. Michael;
+· Tim Carroll, of Arthur Anderson in Chicago, who was the lead adviser on the sale of PMPL. He could have testified as to whether he had any discussions with St. Michael during the sale process;
+· Doug Farley of Guardian Capital in Toronto, who was the lead manager of investments for Fundy;
+· A representative of Mercers, who led the process to select the investment managers for Fundy;
+· Graham Carter of CAP Advisers in Toronto, who provided investment advice regarding Summersby’s investments from 2000 to 2003;
+· Colin Carleton, a consultant to Summersby who worked with Mr. Dunin to develop an investment strategy around 2003;
+· A representative of CGOV, who became the investment manager for Summersby in 2003; and
+· Julian Gill, a friend of Mr. Garron’s and the protector of the Trusts.
+[216] I was informed that Mr. Knott currently lives in Spain and that he did not want any involvement with St. Michael after his retirement in 2003. If Mr. Knott’s testimony was expected to be helpful to the appellants, I question whether further steps might have been taken to obtain his evidence. Nevertheless, there were many other potential witnesses who also did not testify.
+[217] I am troubled that no further witnesses were called. It leaves me to infer that none of them would have provided evidence that was favourable to the appellants.
+[218] I now turn to the oral testimony that was presented, starting with Mr. Dunin.
+[219] Mr. Dunin is an impressive businessman, whose accomplishments with respect to PMPL speak for themselves.
+[220] It is very likely that Mr. Dunin had a good conceptual understanding of St. Michael’s limited role.
+[221] Although Mr. Dunin testified that it was his understanding that St. Michael controlled the Trusts, I find the statement to be disingenuous. Mr. Dunin oversaw the sale of PMPL, he selected the investment advisers for Summersby, and he co-developed the investment strategy with Mr. Carleton. Further, Mr. Dunin and his wife were effectively able to replace St. Michael at any time.
+[222] Mr. Dunin explained his involvement in the PMPL sale process by saying that he was negotiating a sale of PMPL and not the shares of the holding companies held by the Trusts.
+[223] This explanation does not make any sense given the large amount of Canadian tax that would have been payable if the assets of PMPL, or the shares of PMPL, were sold directly. Mr. Dunin would have known that he was negotiating a sale of shares by the Trusts.
+[224] As for the ability to replace St. Michael, this could be done by asking the protector to do it, or by replacing the protector if he was not compliant. There was no evidence to suggest that the protector believed his role to be other than assisting Mr. Dunin and Mr. Garron in their control of the Trusts.
+[225] In his testimony, Mr. Dunin gave the impression that he had little interest in what St. Michael was actually doing vis a vis Summersby and in knowing the persons at St. Michael who were involved with Summersby.
+[226] I do not find this apparent lack of interest to be helpful to the appellants. If St. Michael truly had a substantive role to play in managing Summersby, Mr. Dunin likely would have been very interested in what St. Michael was doing and in ensuring that the persons involved with Summersby were competent to manage it. As mentioned earlier, there is no evidence that PwC-Barbados’ personnel were qualified to take on a trustee’s duties.
+[227] Mr. Dunin testified that Mr. Garron dealt with St. Michael with respect to Sarna and that Mr. Carroll dealt with St. Michael with respect to Oak Hill. There is no evidence that these men, or anyone else, kept St. Michael informed of anything in connection with these transactions except when it was necessary for agreements to be signed.
+[228] I would comment specifically about the bank account used by Summersby, which was with UBS in the Bahamas. Mr. Dunin testified that he was not aware of this bank account. It is not clear to me whether Mr. Dunin meant that he was not aware of the name of the bank or the specific bank account number. In any event, the evidence suggests that the contact for UBS was made in Toronto (Ex. R-1, Tab 102).
+[229] In terms of Mr. Dunin’s other testimony, the general impression that I had was that, in key areas, Mr. Dunin’s words appeared to be so carefully chosen that his answers were often non-responsive. I had no confidence that the answers he gave provided a complete picture.
+[230] For example, in cross-examination the following exchange took place in reference to the Sarna negotiations which were undertaken by Mr. Dunin (Transcript, p. 219):
+Q. […] To achieve tax efficiency and avoid paying tax, '325 and '333 had to sell the shares of PMPL to the purchaser?
+A. I do not believe we avoided tax. This transaction did not go through but, on the next transaction, the tax was paid. I have a difficulty in saying that we would not pay tax if the structure took place, because it was a similar purchase that Oak Hill took place and the tax was paid.
+[231] The above answer responds to the suggestion that tax was avoided. It appears that the answer was referring to the remittance of withholding taxes pursuant to section 116. The answer, though, deflects from what was being asked, which was that the Sarna sale had to take place at the trust level in order to achieve tax efficiency.
+[232] Further, Mr. Dunin was asked the following in respect of the Sarna letter of intent:
+Q. Was it Sarna’s idea to purchase the four shareholders of PMPL?
+A. I believe so, yes. This is their letter.
+[233] Mr. Dunin was in charge of the negotiations with Sarna. It makes no sense that Sarna would of its own volition offer to purchase the shares of 325 and 333 rather than shares of PMPL. I find the answer to be disingenuous.
+[234] I now turn to the testimony of Mr. Garron.
+[235] Mr. Garron’s testimony was quite brief and it did not shed much light on how Fundy was managed or controlled.
+[236] Like Mr. Dunin, Mr. Garron gave the impression that he had little interest in what St. Michael was doing. He stated that his occasional lunches with Mr. Knott when he was vacationing in Barbados were in essence social occasions. This is inconsistent with what one would expect if St. Michael was to have a greater role in the management of Fundy’s assets.
+[237] I do not believe that Mr. Garron expected St. Michael to have control over Fundy’s assets. I note, for example, that the correspondence from Mr. Fahy noted above suggested that Mr. Garron may follow up concerning “qualified offshore managers” for the sale proceeds to be received by Fundy (Ex. R-1, Tab 70).
+[238] It is perhaps worthwhile mentioning that Mr. Garron expressed surprise that PMPL was being valued at $400,000,000 for purposes of the Sarna negotiations. I accept this testimony because Mr. Garron was not actively involved in PMPL in 1998 and his relationship with Mr. Dunin was strained at the time.
+[239] I now turn to the testimony of Mr. Hutchinson.
+[240] In his testimony, Mr. Hutchinson purported to testify as a representative of St. Michael. I found this to be quite confusing because it was often difficult to determine whether Mr. Hutchinson was speaking from his own personal knowledge or from what he had read in one of St. Michael’s files.
+[241] Mr. Hutchinson would have had considerable direct knowledge as to how St. Michael operated from the time that he took over from Mr. Knott in July 2003. At this point, however, St. Michael was no longer owned by PwC-Barbados. In respect to the prior period, it is not clear how much direct knowledge he had. As for the Trusts, Mr. Hutchinson stated that he had reviewed the files that St. Michael had with respect to the Trusts and he stated that he had spoken to Mr. Knott in 2003 prior to taking over from him.
+[242] Mr. Hutchinson testified as to how St. Michael generally performs its duties and he stated that St. Michael was aware of its fiduciary obligations with respect to trusts and that it generally exercised due diligence.
+[243] Aside from the problem that Mr. Hutchinson may have had little personal knowledge during the most relevant period, I also found that Mr. Hutchinson’s testimony lacked sufficient detail to be persuasive. For example, Mr. Hutchinson stated that St. Michael undertook due diligence but he provided very little detail as to what was actually done in the way of due diligence.
+[244] Based on the evidence as a whole (and the lack thereof), it is likely that the due diligence that St. Michael undertook was quite limited.
+[245] I would note in particular that Mr. Dunin testified that Summersby did not have an investment strategy prior to his development of one with Mr. Carleton in 2003. This suggests that proper due diligence, as one would expect from an experienced professional trustee, was not carried out after the sale proceeds were received from Oak Hill.
+[246] Mr. Hutchinson testified that the directors of St. Michael had to ratify actions proposed to be taken, or were taken, on behalf of trusts. Further, he testified that the directors were spoken to in advance of the meetings to give them the necessary information so that they could approve the transactions. The approval process took place either before or after the transactions were completed.
+[247] Approval by a board does not, by itself, establish due diligence. The fact that there is no evidence that St. Michael had much information about the transactions that they were implementing suggests that the directors were aware that St. Michael’s role with respect to the Trusts was to be a limited one, essentially administrative in nature.
+[248] Mr. Hutchinson testified that he was uncomfortable with CAP advisers because its investments appeared to be ultra conservative. When the evidence is looked at as a whole, it is questionable whether Mr. Hutchinson formed this view on his own initiative, or only after he was advised by Mr. Gibney of Thorsteinssons that Mr. Dunin was working with Mr. Carleton on developing an investment strategy.
+[249] Mr. Hutchinson testified that he believed that no investment reports for Summersby or other Dunin trusts were given to Mr. Dunin. I find this testimony to be disingenuous. It defies common sense that Mr. Dunin would not be provided with the investment results of the Dunin trusts. Mr. Dunin confirmed that he did see the reports.
+[250] Further, some of Mr. Hutchinson’s testimony calls into question how knowledgeable he was concerning trust investments. For example, Mr. Hutchinson was not aware that the Canadian real estate property owned by one of the Dunin trusts was adjacent to the Dunin family home in Canada. Mr. Hutchinson also seemed to lack detailed knowledge of a difficulty that CGOV was having in implementing the investment strategy developed by Mr. Dunin and Mr. Carleton.
+[251] Mr. Hutchinson’s testimony concerning the memoranda of trustee’s intentions that was prepared by Mr. Jesson is also of concern. According to his testimony, the memoranda are consistent with the trustee’s duty to act in the best interest of the beneficiaries as a whole because the interests of Mr. Dunin and Mr. Garron are the same as the interests of the other beneficiaries of Summersby and Fundy, respectively. This makes no sense and I do not find the answer to be credible.
+[252] Based on the evidence as a whole, I conclude that the management and control of both Trusts was located in Canada, namely with Mr. Dunin for Summersby and with Mr. Garron for Fundy. These are the individuals who made the substantive decisions respecting the Trusts, either directly or indirectly through advisers that they directed.
+[253] Counsel for the appellants submitted that, as a result of fiduciary duties imposed on St. Michael by law, it should be presumed St. Michael did whatever was required to make sure the transactions undertaken by the Trusts were in the best interests of beneficiaries.
+[254] I do not accept this submission.
+[255] If the trustee of these Trusts had been a well-recognized trust corporation with significant experience and expertise in managing trusts, then such a presumption may make some sense. However, there is no evidence that PwC-Barbados, which operated St. Michael, possessed either expertise or significant experience.
+[256] I would also mention that, under the trust indentures, the liability of the trustee was generally limited to wilful neglect or default. There likely was no practical concern about legal liability.
+[257] Counsel also suggested that it was not reasonable to expect that the Trusts would participate in the process of selling PMPL because 325 and 333 only owned non-voting shares in PMPL.
+[258] I also disagree with this submission. 325 and 333 may only have owned non-voting shares in PMPL but these shares represented the bulk of the value. From any common sense point of view, Mr. Dunin was conducting the negotiations on behalf of the Trusts.
+[259] Counsel for the appellants submits that the distinction made in Wood v. Holden between “influence” and “dictating” is applicable in these appeals.
+[260] I do not agree with this.
+[261] In Wood v. Holden, it was found as a fact that no one had dictated the decisions made by the managing director. That conclusion, however, was based on a substantial amount of evidence as to how decisions were made. The following passage from the decision of the lower court was referred to by the Court of Appeal, at para. 31:
+[…] They [Mr. and Mrs. Wood] showed that, from the time when Eulalia was acquired by CIL, its managing director was [ABN AMRO] Trust, a large Dutch company with offices in Amsterdam. They showed resolutions and consequential actions being taken in the offices in Amsterdam. They accepted that what Eulalia was doing was part of a tax scheme which was being superintended by Price Waterhouse in their Manchester offices. They called evidence from the Price Waterhouse partners who at the time were heads of the firm's departments for corporate finance and for tax in Manchester. They produced a witness statement from the head of the legal department at [ABN AMRO] Trust [Mr Wirix]. They were willing for the appeal to be adjourned in order that the witness could attend in person to be available for cross-examination. They produced all the documents which existed (so I assume, and no one has suggested that any documents were suppressed). The documents showed guidance and influence coming from Price Waterhouse, but no more than that. Mr and Mrs Wood were able to point out that the Netherlands Revenue had stated to the United Kingdom Revenue that the actual management of Eulalia was carried out by [ABN AMRO] Trust, 'meaning that the taxable domicile of Eulalia Holding BV is located in the Netherlands'. Surely at that point they can say: 'We have done enough to raise a case that Eulalia was not resident in the United Kingdom. What more can the Special Commissioners expect from us? The burden must now pass to the Revenue to produce some material to show that, despite what appears from everything which we have produced, Eulalia was actually resident in the United Kingdom.'
+[262] In contrast, in these appeals the appellants led very little evidence as to the formation and operation of the Trusts. In these circumstances, there is no basis for concluding that St. Michael did not agree to assume a limited role in the management of the Trusts.
+[263] In spite of the very able arguments of counsel, I am not able to agree with these submissions.
+[264] Before leaving this issue, I would comment briefly about the relevance of the Smallwood decision.
+[265] Smallwood was concerned with the place of effective management, which was a term used in the tie-break provision of the relevant treaty. The test appears to be very similar to management and control.
+[266] It is significant in my view that in Smallwood the Mauritius trustee was put in place for a short time and only to implement a single purchase and sale of shares. The facts in the present appeals are so different that the Smallwood decision is of little assistance.
+[267] For these reasons, I conclude that the central management and control of the Trusts was located in Canada and that the Trusts were resident in Canada for purposes of the Treaty.
+[268] This conclusion is sufficient to dispose of these appeals, but I will comment on some of the other issues raised.
+V. Issue 2 – Are the Trusts resident in Canada by virtue of section 94?
+A. Overview
+[269] Section 94 of the Act applies to certain non-resident trusts and their beneficiaries. For this purpose, non-resident trusts include trusts that would be non-resident if the Act were read without reference to section 94.
+[270] The Minister submits that section 94 applies to Summersby and Fundy with the result that they are deemed to be persons resident in Canada.
+[271] The consequences, according to the Minister, are that: (1) the capital gains realized by the Trusts on the sale of shares of 325 and 333 are subject to tax in Canada under the Act, and (2) the Trusts are not eligible for the exemption in Article XIV(4) of the Treaty.
+[272] The appellants take issue with the Minister’s position on the application of both section 94 and the Treaty exemption. The two issues will be discussed separately.
+B. Does section 94 apply?
+(1) Introduction
+[273] Section 94 is an unusual provision and it is useful to understand the background that led to its enactment.
+[274] In the 1966 Report of the Royal Commission on Taxation, the Commission commented on the difficulty that could arise in attempting to tax income earned by a non-resident trust. Below is an excerpt from page 536 of the Report:
+Non-Resident Trusts. It is quite possible that some taxpayers would endeavour to avoid Canadian tax liabilities through the creation of non-resident trusts which would receive income and accumulate it for Canadian beneficiaries. This may present a particular challenge to the Canadian tax authorities in view of the possibilities for tax deferment under such an arrangement. If the interests of the Canadian beneficiaries were contingent or were subject to the exercise of discretion by trustees, it may be difficult to devise a method for taxing such income in Canada on an accrual basis. However, to the extent that income of a non-resident trust was payable to a Canadian beneficiary or was vested in a Canadian beneficiary, we would recommend that it should be treated as direct investment income and subjected to tax under the rules we have recommended for other foreign direct investment income.
+[275] The version of section 94 that is relevant in these appeals tackles the problem identified by the Commission by providing for a different scheme of taxation depending on whether the interest of the beneficiary is discretionary or not.
+[276] Reproduced below is a general description of how the relevant version is intended to operate that was prepared by the Department of Finance:[4]
+Section 94 uses two different methods to impose tax, depending on the terms of the non-resident trust.
+If the amount to be distributed to a beneficiary of the trust depends upon a discretionary power, paragraph 94(1)(c) deems the trust to be resident in Canada for the purposes of Part I of the Act and deems its taxable income for tax purposes to be the total of its Canadian source income and its foreign accrual property income, if any. Each beneficiary is jointly and severally liable to pay the Canadian tax of the trust. However, the liability can be enforced against a particular beneficiary only to the extent that the beneficiary has received a distribution from the trust or proceeds from the sale of an interest in the trust.
+For other non-resident trusts to which section 94 applies, paragraph 94(1)(d) provides that it is to be treated in much the same manner that a non-resident corporation is treated. If a Canadian resident beneficiary holds an interest in the trust with a fair market value equal to 10% or more of the total fair market value of all beneficial interests in the trust, the trust is deemed to be a controlled foreign affiliate of the beneficiary. Consequently, the foreign accrual property income rules apply to the trust and the beneficiary, requiring the beneficiary to include a portion of the foreign accrual property income of the trust in income. […]
+[277] The method described above in paragraph 94(1)(c) is the one that is engaged in these appeals. The interests of the beneficiaries of Summersby and Fundy depend on a discretionary power.
+(2) Application to facts
+[278] The Minister submits that the Trusts are subject to section 94 because they each have acquired property, directly or indirectly in any manner whatever, from a person described in s. 94(1)(b). Summersby has acquired property from Mr. Dunin and Fundy has acquired property from Mr. Garron, it is suggested.
+[279] The appellants disagree that the Trusts have acquired property from Mr. Dunin and Mr. Garron. Further, they submit that the gains realized on the sale of shares of 325 and 333 are not a type of income that is within the scope of section 94.
+[280] The first question is whether “property” has been acquired. The Minister submits that the property acquired is “growth rights” in PMPL. Quite simply, the appellants submit that growth rights are not property.
+[281] The Federal Court of Appeal has considered this issue in two cases, The Queen v. Kieboom, 92 DTC 6382 and Romkey v. The Queen, 2000 DTC 6047.
+[282] In Gehres v. The Queen, 2003 DTC 913 (TCC), Bowie J. describes the principle from these two cases, at para. 5:
+[…] Those cases [Kieboom and Romkey] stand for the proposition that an individual who, through a series of transactions, causes the value of his interest in a corporation to be reduced and the value of a beneficial interest held by his children to increase effects an indirect transfer of property to his children within the meaning of subsection 74.1(2).
+[283] Counsel for the Minister submits that Romkey goes farther than this by finding that there is transfer of property even if there is no reduction in the value of the transferor’s shares.
+[284] In my view, Romkey leaves some questions unanswered in this regard. At paragraph 20 of the decision, Stone J.A. explicitly defers consideration of this issue:
+[…] It was submitted that the appellants had no “equity” and, therefore, no “property” to transfer to the trusts for the benefit of the children. In view of what follows it is not necessary to decide whether the issuance of the shares to the trusts at the time that the Company may have been without any assets constituted, by itself, a transfer of property to the children.
+[285] On the particular facts in these appeals, it is not necessary to consider whether Romkey has extended the principle from Kieboom because there has been a movement of value in this case.
+[286] The common shares of PMPL immediately prior to the 1998 reorganization were worth substantially more than $50,000,000. These shares were then converted to preference shares that had less value, with the difference being shifted to the new common shares issued to 325 and 333.
+[287] Although the preference shares contained a price adjustment mechanism, the appellants themselves submitted that the sale of the preference shares to Oak Hill for $50,000,000 was reasonable because the price adjustment mechanism had not yet resulted in a change to the redemption amount.[5]
+[288] As a result, the 1998 reorganization resulted in a movement of share rights attributable to existing equity from the former holders of common shares of PMPL to new common shareholders. According to Kieboom, this is a transfer of property.
+[289] The next question is whether the property was acquired by the Trusts, directly or indirectly in any manner whatever, from Mr. Dunin and Mr. Garron.
+[290] On this issue, I would agree with the appellants.
+[291] The relevant facts are different for Fundy and Summersby. Fundy will be considered first.
+[292] The question is whether property was acquired by Fundy from Mr. Garron. I am unable to agree with the Minister that it was.
+[293] In applying the principle from Kieboom, it was GHL that transferred property by converting its common shares of PMPL to preference shares. Mr. Garron’s participation was simply as shareholder of GHL. He did not transfer anything, either directly or indirectly.
+[294] The facts are different for Summersby, however. In this case, Mr. Dunin directly owned shares of PMPL prior to the 1998 reorganization. One of first steps in the reorganization was a transfer by Mr. Dunin of shares of PMPL to DHI. In this manner, Mr. Dunin indirectly transferred a property interest in PMPL in the course of the reorganization.
+[295] A more difficult question in respect of Summersby is whether the property, consisting of rights in PMPL, was indirectly acquired by Summersby when such property was acquired by 325.
+[296] The appellants submit that an acquisition of property by 325 is not an acquisition of property by Summersby. The phrase “directly or indirectly in any manner whatever” is intended only to apply to the manner in which a transfer is effected, it is submitted.
+[297] The Minister submits that the language is broad enough to apply to indirect shareholdings through holding companies.
+[298] The phrase “directly or indirectly in any manner whatever” is highly ambiguous. It is not entirely clear which of these interpretations was intended by Parliament.
+[299] The preferred interpretation in my view is the more restrictive one.
+[300] I am particularly troubled by the uncertainty that is inherent in the Minister’s position. Determining ownership of property through a chain of corporations is a murky exercise with unclear results. Should one look through more than a first tier subsidiary? Should one look through a corporation that is not wholly-owned? Should one look through if the shares are non-voting?
+[301] The question is an important one, as the phrase “directly or indirectly” is used in other provisions of the Act. I am loath to adopt an interpretation that is likely to lead to considerable uncertainty. The appellants’ interpretation is the preferred one in my view.
+[302] In the result, I would conclude that there has been no acquisition of property by the Trusts from Mr. Dunin and Mr. Garron.
+[303] The Minister submits in the alternative that there has been a deemed acquisition of property by virtue of subsection 94(6) of the Act because the shares acquired by the Trusts represent financial assistance provided by Mr. Dunin and Mr. Garron.
+[304] I do not propose to discuss this argument in any detail. In my view, to apply the term “financial assistance” to common shares would stretch the ordinary meaning of that term beyond what was intended.
+[305] I would also briefly comment on the argument of the appellants that section 94 does not apply to the type of income that was realized.
+[306] It is acknowledged by the appellants that the gains realized by the Trusts are a type of income that is included in s. 94(1)(c)(i)(B). It is submitted, however, that the operative provision is s. 94(1)(c)(i)(A) which specifically excludes this type of income. The appellants submit that the exclusion in (A) should take precedence over the inclusion in (B).
+[307] I disagree with the appellants’ submission on this point. It is likely in my view that Parliament intended that all items of income described in clause (A) or (B) be included in the tax base. This interpretation is in accordance with the plain meaning of the provision, and I am not persuaded that a contextual and purposive interpretation would provide a different result.
+C. Does s. 94 affect the Treaty exemption?
+[308] If paragraph 94(1)(c) applies to the Trusts, the Minister submits that they are not entitled to the Treaty exemption because the Trusts are deemed to be resident in Canada.
+[309] The issue turns on the meaning of the phrase “resident of Canada” for purposes of the exemption in Article XIV(4) of the Treaty.
+[310] Residence is defined in Article IV(1) of the Treaty. It provides:
+1. For the purposes of this Agreement, the term “resident of a Contracting State” means any person who, under the law of that State, is liable to taxation therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. The terms “resident of Canada” and “resident of Barbados” shall be construed accordingly.
+[311] The Minister submits that, for purposes of the above definition, trusts that are subject to taxation by virtue of s. 94(1)(c) are liable to taxation under the Act by reason of their “residence.”
+[312] The appellants submit that a person is not a resident of Canada for purposes of the Treaty unless the person is liable to taxation in Canada on world-wide income. The argument is based on the appellants’ interpretation of The Queen v. Crown Forest Industries Ltd., 95 DTC 5389 (SCC).
+[313] The interpretation suggested by the Minister is a possible interpretation of Article IV(1), but it is not in harmony with the scheme of the Treaty in my view.
+[314] The concept of residence is central to the Treaty because it defines who the Treaty applies to (Article I). In Article IV(1), the drafters of the Treaty contemplate that residence is generally determined by reference to the domestic tax legislation.
+[315] The essential difficulty that I have with the Minister’s position is that Summersby and Fundy are not liable to taxation by virtue of s. 94(1)(c) in the same way as trusts resident in Canada under general principles.
+[316] The scope of taxation under s. 94(1)(c) is more limited. Basically, it is a scheme that is source-based. In essence, the deemed resident provision in s. 94(1)(c) is part of a formula used in determining the tax base. In only a limited sense could it be said that trusts that are liable to taxation under s. 94(1)(c) are taxed by reason of their residence. It would be more accurate to say that trusts are liable to tax under s. 94(1)(c) because they satisfy the requirements set out in s. 94(1)(a) and (b), namely a beneficiary and contribution test.
+[317] The appellants rely on Crown Forest. This decision is not dispositive of the issue, in my view, because Crown Forest dealt with a different question. Nevertheless, I would agree with the appellants that the Minister’s interpretation is not consistent with the approach taken in Crown Forest.
+[318] The following excerpt from the decision suggests that provisions such as Article IV(1) of the Treaty are intended to extend the benefits of a treaty only where the relevant country “asserts an unlimited right to tax income.” Iacobucci J. states:
+64 The commentaries to the OECD Model Convention as well as academic sources indicate that generally the domestic laws of the contracting states employ residence to apply on "full-tax liability": paragraphs 3 and 8 to the commentary to Article IV; Nathan Boidman, L. Frank Chopin and Alan W. Granwell, "Tax Effects for Canadians of the New U.S. Code and Treaty Residency Rules (Part Two)" (1985), 14 Tax Mgmt. Intl. J. 183, at pages 184-85. So, too, does the American Law Institute, Federal Income Tax Project -- International Aspects of U.S. Income Taxation II -- Proposals on U.S. Income Tax Treaties, at pages 127-28:
+Under prevailing practice, a country entering into an income tax treaty extends the benefits of the treaty to a person or entity that is a "resident of (the other) contracting state". "Residence", in turn, is defined in terms of taxing jurisdiction. A person or entity is considered resident in a country if that country asserts an unlimited right to tax his or its income -- that is, a right based upon the taxpayer’s personal connection with the country (as opposed to the source of the income or other income- or asset- related factors). The test of residence requires that the person or entity claiming treaty benefits be "fully taxable" in the residence country, in the sense of being fully subject to its plenary taxing jurisdiction.
+65 Full tax liability is not satisfied in a case where an entity is liable to tax in a jurisdiction only on a part of its income.
+[Emphasis added]
+[319] It is unlikely that the drafters of the Treaty had in mind including as “residents of a contracting state” persons that are subject to a more limited scope of taxation than persons who are resident under general principles. For this reason, I reject the submission of the Minister.
+[320] In light of this conclusion, it is not necessary that I consider whether the reference to “residence” in Article IV(1) can ever include residence determined by factors other than physical factors.
+[321] I mention this because Simpson J. of the Federal Court recently focussed on this issue in RCI Trust, which is currently under appeal. It was also discussed in obiter in the decision of the Special Commissioners in Smallwood, at para. 101.
+VI. Issue 3 – Does s. 75(2) apply to the Other Appellants?
+[322] Subsection 75(2) of the Act is an attribution provision that is applicable to reversionary trusts.
+[323] The Minister has applied this provision in assessing the Other Appellants (Mr. Dunin, Mr. Garron, Mrs. Garron and the Garron Family Trust) in respect of the gains realized by the Trusts.
+[324] Subsection 75(2) includes an “acquisition of property” provision that is similar to the one in section 94. As a result, both counsel made the same arguments in respect of this provision that they made in respect of the acquisition of property requirement in section 94.
+[325] The relevant part of s. 75(2) provides:
+75(2) Trusts — Where, by a trust created in any manner whatever since 1934, property is held on condition
+(a) that it or property substituted therefor may
+(i) revert to the person from whom the property or property for which it was substituted was directly or indirectly received (in this subsection referred to as “the person”), […]
+[326] Although the relevant language above is slightly different from section 94, the differences are not significant, in my view. I conclude, therefore, that subsection 75(2) does not apply to the facts in these appeals.
+[327] Before leaving this issue, I would comment that the appellants did not rely on the Treaty exemption in reference to s. 75(2). It appears that both counsel had concluded that the Treaty did not apply to exempt a Canadian resident from taxation under the Act, even if the gains were realized by a resident of Barbados.
+[328] In light of the broad wording of Article XIV(4) of the Treaty, I requested submissions from the parties on whether the Other Appellants could rely on the exemption in Article XIV(4) in reference to gains realized by the Trusts. I appreciated these submissions, as well as others that I had requested.
+[329] The submissions did not refer to any judicial authorities specifically on this issue. It appears that the matter has not previously been considered by a court in Canada.
+[330] It is useful to reproduce again the relevant Treaty provision. Article XIV(4) provides:
+4. Gains from the alienation of any property, other than those mentioned in paragraphs 1, 2 and 3 may be taxed only in the Contracting State of which the alienator is a resident.
+[331] Under the plain language of this provision, gains realized from the alienation of property by trusts resident only in Barbados may not be taxed in Canada. The provision is not ambiguous, and it is clearly broad enough to apply to an attribution provision such as s. 75(2).
+[332] Accordingly, unless the plain meaning of Article XIV(4) does not reflect its object and spirit, the exemption applies.
+[333] The Minister submits that the Treaty was not intended to have this result because it would result in Canada ceding its right to tax its own residents.
+[334] The question could be rephrased in the following manner. Did the Treaty’s contracting states intend to reserve to themselves under Article XIV(4) a residual right to tax gains arising in the other contracting state?
+[335] I would have thought that the answer to this is no.
+[336] The interpretation suggested by the Minister is not compatible with one of the primary objectives of the Treaty which is to minimize the potential for double taxation.
+[337] The position of the Minister potentially frustrates this objective, and contravenes the plain meaning of Article XIV(4).
+[338] I would also comment that the Treaty contains a specific override provision in reference to another attribution rule. Article XXX(2) provides an override in reference to the Canadian taxation of foreign accrual property income earned by non-resident corporations. If the drafters of the Treaty had intended an override for other attribution rules, they could have been specifically provided for it.
+[339] For these reasons, I conclude that the exemption in Article XIV(4) takes precedence over the application of subsection 75(2) to the Other Appellants.
+[340] Finally, I would comment that the issue of the interplay between attribution rules in foreign affiliate legislation and treaties was discussed by Robert Couzin, a respected Canadian tax lawyer, in Corporate Residence and International Taxation (Amsterdam: IBFD, 2002), at 235-238. In the discussion, judicial decisions in the United Kingdom and France are mentioned. It appears that the above conclusion is not inconsistent with that jurisprudence.
+VII. Issue 4 – Does the GAAR apply?
+A. General
+[341] The Minister has invoked section 245 of the Act (the GAAR) as an alternative argument in support of all of the assessments. The section is reproduced in an appendix.
+[342] The GAAR requires a three-step analysis: (1) the identification of a “tax benefit,” as defined, (2) the identification of an “avoidance transaction,” as defined, and (3) a finding of a misuse or abuse of legislative provisions.
+[343] The appellants acknowledge that there is a tax benefit and an avoidance transaction.[6] Implicitly therefore, the appellants admit that a transaction or series of transactions was undertaken primarily to obtain a reduction, avoidance or deferral of tax under the Act or the Treaty. They submit, though, that the GAAR does not apply because there has been no misuse or abuse of the Treaty.
+[344] The Minister submits that the steps involved in the 1998 reorganization were each undertaken primarily to avoid Canadian tax on the gains realized by the Trusts. Tax benefits were obtained by the Trusts and the Other Appellants, it is submitted.
+[345] More specifically, the following transactions were assumed by the Minister to be avoidance transactions: the settlement of the Trusts, the incorporation of 325 and 333, the reorganization of the share structure of PMPL, and the subscription by the Trusts for shares of 325 and 333.
+[346] As the appellants did not dispute these assumptions, I will focus the discussion on the misuse or abuse element of the GAAR in s. 245(4).
+[347] I would briefly mention as a preliminary matter that the appellants did not dispute that the GAAR could apply to the Treaty. It is useful in this respect to refer to section 4.1 of the Income Tax Conventions Interpretation Act which specifically provides for this result. This provision is also reproduced in the appendix.
+B. Positions of parties on abuse or misuse
+[348] In terms of identifying legislative provisions that allegedly have been abused, the replies of the Minister for all the appellants are identical. The provisions identified are s. 39, 94, 110(1)(f)(i), 115(1)(b)(i) of the Act and Article XIV(4) of the Treaty. Also mentioned was an abuse of the provisions of the Act and the Treaty read as a whole.
+[349] The Minister’s position was more selective in argument. For one thing, separate arguments were made in reference to the Trusts and the Other Appellants.
+[350] As for the Trusts, counsel for the Minister repeated in argument the reference to the legislative provisions above. As for the Other Appellants, however, the Minister submitted only that there had been an abuse of sections 39 and 75(2) of the Act.
+[351] I would first comment regarding section 39 of the Act. This is a provision of general application that provides for the computation of capital gains and losses.
+[352] Counsel for the Minister provided only a fleeting mention of this provision in argument. The comments were so brief that I could not really determine what the nature of the abuse argument concerning section 39 was. I do not propose to discuss this provision further.
+[353] Although the Minister asserts that the sole reason for the 1998 reorganization was to minimize Canadian tax on the sale of PMPL, counsel did not argue that the tax consequences should be determined under the GAAR as if 1998 reorganization did not take place.
+[354] If I understand the Minister’s position correctly, it is that the 1998 reorganization was undertaken solely to minimize Canadian tax on the sale of PMPL. The Minister suggests that the avoidance provisions in sections 94 and 75(2) are intended to apply when trusts are used in this manner. Accordingly, it is submitted that the tax consequences should be determined as if section 94 or subsection 75(2) applies. In effect, the Minister is suggesting that the tax consequences be determined as if the reorganization had not been implemented in a manner that avoided these provisions.
+[355] Central to that argument, I think, is the submission that the holding companies, 325 and 333, were inserted into the structure so that the Trusts did not acquire shares of PMPL.
+[356] The Minister also submits that there was an abuse of the Treaty, but only in reference to the appeals of the Trusts.
+[357] In reference to the Treaty, the Minister submits that there was an abuse of Article XIV(4). The following arguments were made:
+(a) it is an abuse of the Treaty to avoid an anti-avoidance rule such as s. 94;
+(b) Article XIV(4) of the Treaty is designed to exempt only true non-residents of Canada;
+(c) the Treaty was not intended to exempt foreign accrual property income (FAPI);
+(d) Article XIV(4) is only intended to prevent double taxation; and
+(e) the Treaty was not intended to permit such an erosion of the Canadian tax base that could occur with the widespread use of this type of planning.
+[358] The appellants chose to limit their submissions under the GAAR to one point only. They submitted that the GAAR does not apply because there is no abuse of the Treaty.
+[359] During oral argument, I asked counsel for the appellants to also address whether there had been an abuse of s. 75(2). Counsel submitted in response that it should not be necessary to address this issue because it was not raised by the Minister in any of the replies.
+[360] In reference to the Trusts’ use of the Treaty exemption, the appellants submit that this is in accord with both the plain meaning and a purposive interpretation of Article XIV(4).
+[361] Particular reference was made by counsel to the following comments of Pelletier J. in The Queen v. MIL (Investments) S.A., 2007 FCA 236, 2007 DTC 5437:
+[1] In order to succeed in this appeal, the appellant Her Majesty the Queen must persuade us … that the tax benefit achieved by the Respondent MIL (Investments) S.A. is an abuse or misuse of the object and purpose of article 13(4) of the [Canada-Luxembourg Treaty].
+[6] […] The appellant urged us to look behind this textual compliance with the relevant provisions to find an object or purpose whose abuse would justify our departure from the plain words of the disposition. We are unable to find such an object or purpose.
+C. Analysis
+[362] I will first comment on the procedural point raised by the appellants in reference to whether there was an abuse of s. 75(2).
+[363] I agree with counsel for the appellants on this issue. It would be unfair for the appellants to have to respond to an argument that was not raised before argument. Since an abuse of s. 75(2) was not mentioned either in the pleadings or in the Minister’s opening statement, I would conclude that it has been raised too late.
+[364] I also note that the appellants sought confirmation from the Minister during the discovery process as to the abuse argument. The question and answer, identified as undertaking 54, is reproduced below from the portion of the discovery transcript read in by the appellants:
+Q. With reference to paragraph 17(xxx) of the Summersby Settlement Reply, is this paragraph a complete statement of what the Respondent says is the misuse or abuse for purposes of section 245 of the ITA.
+A. Please see the Reply for Summersby Settlement. The Reply sets out the complete statement of what the Respondent says is the misuse or abuse of section 245 of the ITA.
+In the event that the Respondent intends to add to that statement the Respondent will so advise.
+This answer also applies with respect to A. Dunin, Fundy Settlement, M. Garron, B. Garron and the Garron Family Trust.
+[365] The above answer refers to the reply for Summersby. Neither it, nor any of the other replies, mentions s. 75(2) in reference to the GAAR.
+[366] The appellants were entitled to rely on the replies and on this answer in formulating their argument in reference to the GAAR.
+[367] The appellants chose to limit their arguments respecting the GAAR to whether there was an abuse of the Treaty. The arguments likely would have been different if the Minister had submitted earlier that there had been an abuse of s. 75(2).
+[368] It is only necessary, then, to consider whether the Treaty has been abused.
+[369] It is well established that the Minister must identify an object, spirit or purpose of provisions that are claimed to have been abused. In Canada Trustco Mortgage Co. v. The Queen, 2005 SCC 54, 2005 DTC 5523, McLachlin C.J. and Major J. stated:
+[65] […] The taxpayer, once he or she has shown compliance with the wording of a provision, should not be required to disprove that he or she has thereby violated the object, spirit or purpose of the provision. It is for the Minister who seeks to rely on the GAAR to identify the object, spirit or purpose of the provisions that are claimed to have been frustrated or defeated, when the provisions of the Act are interpreted in a textual, contextual and purposive manner. The Minister is in a better position than the taxpayer to make submissions on legislative intent with a view to interpreting the provisions harmoniously within the broader statutory scheme that is relevant to the transaction at issue.
+[370] As mentioned above, the Minister has raised several arguments.
+[371] First, the Minister submits that it is an abuse of the Treaty to use the exemption in Article XIV(4) to avoid an anti-avoidance rule such as s. 94. Counsel relies on the following comment of Bowman J. in RMM Canadian Enterprises Ltd. v. The Queen, 97 DTC 302 (TCC), at 313-314:
+[…] It would be a surprising conclusion that Canada, or indeed any of the other countries with which it has tax treaties, including the United States, had intentionally or inadvertently bargained away its right to deal with tax avoidance or tax evasion by residents of treaty countries in its own domestic tax laws. It would be equally surprising if tax avoidance schemes that are susceptible of attack under either general anti-avoidance provisions or specific anti-avoidance rules, if carried out by Canadian residents, could be perpetrated with impunity by non-residents under the protection of a treaty. That is not what treaties are for.
+[372] I am not persuaded by this reasoning.
+[373] First, it is contrary to the approach suggested by the Federal Court of Appeal in MIL, above. It does not make sense that a transaction that is subject to tax under the Act by virtue of an anti-avoidance provision necessarily constitutes a misuse or abuse of the Treaty. I would note in particular that the term “anti-avoidance provision” is commonly used in reference to a broad range of provisions in the Act.
+[374] Further, I agree with the argument of counsel for the appellants that the Minister’s position is contrary to commentary published by the OECD in 1977 in reference to the organization’s Model Double Taxation Convention.
+[375] The relevant commentary relates to Article I of the model convention. It corresponds with Article I of the Treaty. Paragraph 7 of that commentary confirms that treaties are not intended to help tax avoidance, but it suggests that treaties should be amended to take into account domestic tax avoidance legislation. The relevant paragraph is reproduced below.
+The purpose of double tax conventions is to promote by, eliminating international double taxation… they should not, however, help tax avoidance or evasion. True, taxpayers have the possibility, double taxation conventions being left aside, to exploit the differences in tax levels as between States and the tax advantages provided by various countries’ taxation laws, but it is for the States concerned to adopt provisions in their domestic law, to counter possible manoeuvres. Such states will then wish, in their bilateral double taxation conventions, to preserve the application of a provision of this kind contained in their domestic laws.
+[Emphasis added]
+[376] Although this commentary is not binding for purposes of the Treaty, I would note that it had been adopted by OECD members (including Canada) at the time that the Treaty was agreed to, which was in 1980, and the commentary would have been available as a guide to both Canada and Barbados at the time that the Treaty was negotiated.
+[377] Second, I would mention that the judge who decided RMM, former Chief Justice Bowman, later distanced himself from the abuse analysis in that decision.
+[378] In Evans v. The Queen, 2005 TCC 684, 2005 DTC 1762, the former Chief Justice commented as follows:
+[34] Counsel argues that this case is similar to Justice Bonner’s decision in McNichol v. The Queen, 97 DTC 111 and mine in RMM Canadian Enterprises Inc. et al., v. The Queen, 97 DTC 302. These cases were early general anti-avoidance rule cases and we did not have the benefit of the Supreme Court of Canada’s guidance that we have today. If we had had the benefit of the Supreme Court of Canada’s views, our analysis might have been quite different. The principal basis of my decision in RMM Canadian Enterprises Inc. was subsection 84(2) of the Income Tax Act. One must bear in mind that what the appellants were attempting to circumvent in RMM and McNichol was subsection 84(2). That is not the situation here. 117679 continued to carry on business and it in fact paid dividends. The situation here is not analogous to the RMM and McNichol cases. In any event, reference to these two early cases does not in my view satisfy the onus that the Supreme Court of Canada has placed on the Crown.
+[Emphasis added.]
+[379] I am not satisfied that an abuse of the Treaty has been established merely because section 94 is found to be applicable, either standing alone or under the GAAR as a result of a transaction that is abusive of section 94.
+[380] The Minister also submits that the Treaty exemption was not intended to apply to the Trusts because they had very little connection with Barbados. It was noted that the assets, contributors and beneficiaries are all Canadian. To apply the Treaty exemption in these circumstances would facilitate the avoidance of tax by Canadians.
+[381] The problem that I have with this argument is that, if accepted, it would result in a selective application of the Treaty to residents of Barbados, depending on criteria other than residence. It seems to me that this is contrary to the object and spirit of the Treaty, which is apparent in Article I and Article IV(1). Residents of Barbados, as defined for purposes of the Treaty, are entitled to the benefits of Article XIV(4) as long as they are not also residents of Canada.
+[382] I would also mention that there is no special rule for trusts in the Treaty. They are defined as persons in Article III(1)(c) of the Treaty.
+[383] If the Trusts are resident only in Barbados under these principles, then the Treaty contemplates that Article XIV(4) will apply to them. It does not matter that the Trusts have few connections with Barbados.
+[384] The Minister submits, further, that the Treaty was not intended to exempt foreign accrual property income.
+[385] The basis for this argument is found in Article XXX(2) of the Treaty which provides:
+2. Nothing in this Agreement shall be construed so as to prevent Canada from imposing its tax on amounts included in the income of a resident of Canada according to section 91 of the Canadian Income Tax Act.
+[386] The problem with this position is that Article XXX(2) does not encompass all income that may be described as “foreign accrual property income.”
+[387] By its plain meaning, Article XXX(2) applies only to amounts that are included in the income of Canadian residents by virtue of section 91 of the Act. It does not apply to the gains realized by the Trusts that are at issue here. I am not persuaded that the object and spirit of this provision extends beyond the plain meaning.
+[388] The Minister also submits that Article XIV(4) should be restricted to situations in which there is double taxation.
+[389] The appellants referred me to the following comment from the Federal Court of Australia in FC of T. v. Lamesa Holdings BV, 97 ATV 4752, at page 4755:
+The allocation [in a treaty] is of the right to tax. There is nothing in the Agreement that compels a jurisdiction to exercise that right.
+[390] They also referred me to the decision of the High Court of Justice in
+Smallwood, at para. 40.
+[391] I agree with the appellants’ argument on this issue. I do not believe that further discussion is necessary.
+[392] Finally, counsel for the Minister submits that one cannot look at the Treaty as if section 94 and FAPI were not there because there would be no tax base left. All Canadians would transfer their assets offshore, it is suggested.
+[393] Even if the Minister is correct that the tax base would be severely eroded if Article XIV(4) of the Treaty were considered to override section 94, this is not a sufficient basis to find that the Treaty has been abused.
+[394] The question is what the drafters of the Treaty from both countries intended. I would have thought that if Canada had intended that section 94 should override the Treaty, this would have been specifically mentioned in the Treaty.
+[395] For these reasons, the Minister has not established that the avoidance transactions in these appeals result in an abuse of the Treaty.
+VIII. Issue 5 – Should sale proceeds be reallocated by virtue of section 68?
+[396] The Minister submits that the Trusts received an unreasonable portion of the proceeds from the sale of PMPL. A portion should be reallocated to the Other Appellants, it is submitted. The Minister’s written submission regarding section 68 is reproduced below:
+Section 68
+160. The fair market value of the Preference Shares as at April 6, 1998 was substantially greater than the value of $50,000,000, concluded by KMPG as the fair market value of the 50 Class A shares and 50 Class B shares as at February 28, 1998.
+161. As a consequence of the implementation of the tax plan, GHL and DHI were allocated $50 million of proceeds on the sale to Oak Hill. The amount allocated to GHL and DHI is less than the amount that can reasonably be regarded as the consideration for the disposition of the shares they held in the capital of PMPL.
+162. The amount of proceeds of disposition allocated to the shareholder of 325 being Summersby, from the sale of the shares of 325 being the holder of the Class B and Class C shares of PMPL, was correspondingly more that the amount that can reasonably be regarded as the consideration for the disposition of the shares indirectly held in PMPL.
+163. The amount of proceeds of disposition allocated to the shareholder of 333 being Fundy, from the sale of the shares of 333 being the holder of the Class C shares of PMPL, was correspondingly more that the amount that can reasonably be regarded as the consideration for the disposition of the shares indirectly held in PMPL.
+[397] The appellants submit that the allocation of the proceeds on the sale to Oak Hill was reasonable. Even if the value of PMPL at the time of the 1998 reorganization was greater than $50,000,000, the preference shares were redeemable for only $50,000,000 at the time of the sale because the adjustment mechanism had not been triggered at that point.
+[398] The appellants also suggest that section 68 can only be used to adjust amounts between properties, not between taxpayers. They rely in support on the reasons of C. Miller J. in Robert Glegg Investment Ltd. v. The Queen, 2008 TCC 20, 2008 DTC 2466. The decision was affirmed on other grounds by the Federal Court of Appeal (2008 FCA 332, 2009 DTC 5009).
+[399] The Minister’s written submission does not fully address these issues. I have concluded that in all the circumstances it would be preferable to defer a consideration of section 68 for another day.
+IX. Conclusion
+[400] As a result of the conclusions above,
+(a) the appeals of Summersby Settlement and Fundy Settlement will be dismissed, and
+(b) the appeals of Andrew Dunin, Myron Garron, Berna Garron, and the Garron Family Trust will be allowed, and their assessments will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that no part of the proceeds received by Summersby Settlement and Fundy Settlement on the sale of 325 and 333 should be included in their income.
+[401] The respondent is entitled to costs, with one set of counsel fees for all appeals.
+Signed at Ottawa, Canada this 10th day of September 2009
+“J. M. Woods”
+Woods J.
+Appendix I
+Relevant Statutory Provisions
+Canada-Barbados Income Tax Agreement
+Article I — Personal Scope
+This Agreement shall apply to persons who are residents of one or both of the Contracting States.
+Article III — General Definitions
+1. (c) the term “person” includes an individual, an estate, a trust, a company, a partnership and any other body of persons;
+Article IV — Fiscal Domicile
+1. For the purposes of this Agreement, the term "resident of a Contracting State" means any person who, under the law of that State, is liable to taxation therein by reason of his domicile, residence, place of management or any other criterion of a similar nature. The terms "resident of Canada" and "resident of Barbados" shall be construed accordingly.
+Article XIV — Gains from the Alienation of Property
+4. Gains from the alienation of any property, other than those mentioned in paragraphs 1, 2 and 3 may be taxed only in the Contracting State of which the alienator is a resident.
+Article XXX — Miscellaneous Rules
+2. Nothing in this Agreement shall be construed so as to prevent Canada from imposing its tax on amounts included in the income of a resident of Canada according to section 91 of the Canadian Income Tax Act.
+Income Tax Conventions Interpretation Act
+4.1 Notwithstanding the provisions of a convention or the Act giving the convention the force of law in Canada, it is hereby declared that the law of Canada is that section 245 of the Income Tax Act applies to any benefit provided under the convention.
+Income Tax Act
+68. Allocation of amounts in consideration for disposition of property. Where an amount received or receivable from a person can reasonably be regarded as being in part the consideration for the disposition of a particular property of a taxpayer or as being in part consideration for the provision of particular services by a taxpayer,
+(a) the part of the amount that can reasonably be regarded as being the consideration for the disposition shall be deemed to be proceeds of disposition of the particular property irrespective of the form or legal effect of the contract or agreement, and the person to whom the property was disposed of shall be deemed to have acquired it for an amount equal to that part; and
+(b) the part of the amount that can reasonably be regarded as being consideration for the provision of particular services shall be deemed to be an amount received or receivable by the taxpayer in respect of those services irrespective of the form or legal effect of the contract or agreement, and that part shall be deemed to be an amount paid or payable to the taxpayer by the person to whom the services were rendered in respect of those services.
+***
+75(2) Trusts — Where, by a trust created in any manner whatever since 1934, property is held on condition
+(a) that it or property substituted therefor may
+(i) revert to the person from whom the property or property for which it was substituted was directly or indirectly received (in this subsection referred to as “the person”), or
+(ii) pass to persons to be determined by the person at a time subsequent to the creation of the trust, or
+(b) that, during the lifetime of the person, the property shall not be disposed of except with the person’s consent or in accordance with the person’s direction,
+any income or loss from the property or from property substituted therefor, any taxable capital gain or allowable capital loss from the disposition of the property or of property substituted therefor, shall, during the lifetime of the person while the person is resident in Canada be deemed to be income or a loss, as the case may be, or a taxable capital gain or allowable capital loss, as the case may be, of the person.
+***
+94. (1) Application of certain provisions to trusts not resident in Canada — Where,
+(a) at any time in a taxation year of a trust that is not resident in Canada or that, but for paragraph (c), would not be so resident, a person beneficially interested in the trust (in this section referred to as a “beneficiary”) was
+(i) a person resident in Canada,
+(ii) a corporation or trust with which a person resident in Canada was not dealing at arm’s length, or
+(iii) a controlled foreign affiliate of a person resident in Canada, and
+(b) at any time in or before the taxation year of the trust,
+(i) the trust, or a non-resident corporation that would, if the trust were resident in Canada, be a controlled foreign affiliate of the trust, has, other than in prescribed circumstances, acquired property, directly or indirectly in any manner whatever, from
+(A) a particular person who
+(I) was the beneficiary referred to in paragraph (a), was related to that beneficiary or was the uncle, aunt, nephew or niece of that beneficiary,
+(II) was resident in Canada at any time in the 18 month period before the end of that year or, in the case of a person who has ceased to exist, was resident in Canada at any time in the 18 month period before the person ceased to exist, and
+(III) in the case of an individual, had before the end of that year been resident in Canada for a period of, or periods the total of which is, more than 60 months, or
+(B) a trust or corporation that acquired the property, directly or indirectly in any manner whatever, from a particular person described in clause (A) with whom it was not dealing at arm’s length
+and the trust was not
+(C) an inter vivos trust created at any time before 1960 by a person who at that time was a non-resident person,
+(D) a testamentary trust that arose as a consequence of the death of an individual before 1976, or
+(E) governed by a foreign retirement arrangement, or
+(ii) all or any part of the interest of the beneficiary in the trust was acquired directly or indirectly by the beneficiary by way of
+(A) purchase,
+(B) gift, bequest or inheritance from a person referred to in clause (i)(A) or (B), or
+(C) the exercise of a power of appointment by a person referred to in clause (i)(A) or (B),
+the following rules apply for that taxation year of the trust:
+(c) where the amount of the income or capital of the trust to be distributed at any time to any beneficiary of the trust depends on the exercise by any person of, or the failure by any person to exercise, any discretionary power,
+(i) the trust is deemed for the purposes of this Part and sections 233.3 and 233.4 to be a person resident in Canada no part of whose taxable income is exempt because of section 149 from tax under this Part and whose taxable income for the year is the amount, if any, by which the total of
+(A) the amount, if any, that would but for this subparagraph be its taxable income earned in Canada for the year,
+(B) the amount that would be its foreign accrual property income for the year if
+(I) except for the purpose of applying subsections 104(4) to (5.2) to days after 1998 that are determined under subsection 104(4), the trust were a non-resident corporation all the shares of which were owned by a person who was resident in Canada,
+(II) the description of A in the definition “foreign accrual property income” in subsection 95(1) were, in respect of dividends received after 1998, read without reference to paragraph (b) of that description,
+(III) the descriptions of B and E in that definition were, in respect of dispositions that occur after 1998, read without reference to “other than dispositions of excluded property to which none of paragraphs (2)(c), (d) and (e) apply”,
+(IV) the value of C in that definition were nil, and
+(V) for the purposes of computing the trust’s foreign accrual property income, the consequences of the application of subsections 104(4) to (5.2) applied in respect of days after 1998 that are determined under subsection 104(4),
+(C) the amount, if any, by which the total of all amounts each of which is an amount required by subsection 91(1) or (3) to be included in computing its income for the year exceeds the total of all amounts each of which is an amount deducted by it for that year under subsection 91(2), (4) or (5), and
+(D) the amount, if any, required by section 94.1 to be included in computing its income for the year
+exceeds
+(E) the amount, if any, by which the total of all amounts each of which is an amount deducted by it under subsection 91(2), (4) or (5) in computing its income for the year exceeds the total of all amounts each of which is an amount included in computing its income for the year because of subsection 91(1) or (3), and
+(ii) for the purposes of section 126,
+(A) the amount that would be determined under subparagraph (i) in respect of the trust for the year, if that subparagraph were read without reference to clause (i)(A), is deemed to be income of the trust for the year from sources in the country other than Canada in which the trust would, but for subparagraph (i), be resident, and
+(B) any income or profits tax paid by the trust for the year (other than any tax paid because of this section), to the extent that it can reasonably be regarded as having been paid in respect of that income, is deemed to be non-business income tax paid by the trust to the government of that country, and
+(d) in any other case, for the purposes of subsections 91(1) to (4) and sections 95 and 233.4,
+(i) the trust shall, with respect to any beneficiary under the trust the fair market value of whose beneficial interest in the trust is not less than 10% of the aggregate fair market value of all beneficial interests in the trust, be deemed to be a non-resident corporation that is controlled by the beneficiary,
+(ii) the trust shall be deemed to be a non-resident corporation having a capital stock of a single class divided into 100 issued shares, and
+(iii) each beneficiary under the trust shall be deemed to own at any time the number of the issued shares that is equal to the proportion of 100 that
+(A) the fair market value at that time of the beneficiary’s beneficial interest in the trust
+is of
+(B) the fair market value at that time of all beneficial interests in the trust.
+[…]
+(6) Where financial assistance given — For the purposes of paragraph (1)(b), a trust or a non-resident corporation shall be deemed to have acquired property from any person who has given a guarantee on its behalf or from whom it has received any other financial assistance whatever.
+***
+104(1) Reference to trust or estate. In this Act, a reference to a trust or estate (in this subdivision referred to as a “trust”) shall, unless the context otherwise requires, be read to include a reference to the trustee, executor, administrator, liquidator of a succession, heir or other legal representative having ownership or control of the trust property, but, except for the purposes of this subsection, subsection (1.1), subparagraph (b)(v) of the definition “disposition” in subsection 248(1) and paragraph (k) of that definition, a trust is deemed not to include an arrangement under which the trust can reasonably be considered to act as agent for all the beneficiaries under the trust with respect to all dealings with all of the trust’s property unless the trust is described in any of paragraphs (a) to (e.1) of the definition “trust” in subsection 108(1).
+[Note: The proviso in the last seven lines does not apply in connection with transfers of property before December 24, 1998.]
+(2) Taxed as individual. A trust shall, for the purposes of this Act, and without affecting the liability of the trustee or legal representative for that person’s own income tax, be deemed to be in respect of the trust property an individual, but where there is more than one trust and
+(a) substantially all of the property of the various trusts has been
+received from one person, and
+(b) the various trusts are conditioned so that the income thereof
+accrues or will ultimately accrue to the same beneficiary, or
+group or class of beneficiaries,
+such of the trustees as the Minister may designate shall, for the purposes of this Act, be deemed to be in respect of all the trusts an individual whose property is the property of all the trusts and whose income is the income of all the trusts.
+***
+110. (1) Deductions permitted — For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable:
+[…]
+(f) deductions for payments — […] any amount that is
+(i) an amount exempt from income tax in Canada because of a provision contained in a tax convention or agreement with another country that has the force of law in Canada,
+[…]
+to the extent that it is included in computing the taxpayer’s income for the year;
+***
+245. General anti-avoidance rule.
+(1) Definitions. In this section,
+“tax benefit” — “tax benefit” means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty;
+“tax consequences” — “tax consequences” to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+“transaction” — “transaction” includes an arrangement or event.
+(2) General anti-avoidance provision. Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+(3) Avoidance transaction. An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+(4) Application of subsection (2). Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+(5) Determination of tax consequences. Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a) any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) any such deduction, exemption or exclusion, any income, loss or other amount or part thereof may be allocated to any person,
+(c) the nature of any payment or other amount may be recharacterized, and
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+(6) Request for adjustments. Where with respect to a transaction
+(a) a notice of assessment, reassessment or additional assessment involving the application of subsection (2) with respect to the transaction has been sent to a person, or
+(b) a notice of determination pursuant to subsection 152(1.11) has been sent to a person with respect to the transaction,
+any person (other than a person referred to in paragraph (a) or (b)) shall be entitled, within 180 days after the day of mailing of the notice, to request in writing that the Minister make an assessment, reassessment or additional assessment applying subsection (2) or make a determination applying subsection 152(1.11) with respect to that transaction.
+(7) Exception. Notwithstanding any other provision of this Act, the tax consequences to any person, following the application of this section, shall only be determined through a notice of assessment, reassessment, additional assessment or determination pursuant to subsection 152(1.11) involving the application of this section.
+(8) Duties of Minister. On receipt of a request by a person under subsection (6), the Minister shall, with all due dispatch, consider the request and, notwithstanding subsection 152(4), assess, reassess or make an additional assessment or determination pursuant to subsection 152(1.11) with respect to that person, except that an assessment, reassessment, additional assessment or determination may be made under this subsection only to the extent that it may reasonably be regarded as relating to the transaction referred to in subsection (6).
+Appendix II
+Statement of Agreed Facts
+1. The Appellant Andrew T. Dunin (“Dunin”) is an individual resident in Aurora, Ontario.
+2. The Appellant Myron A. Garron (“Garron”) is an individual resident in Unionville, Ontario.
+3. The Appellant Berna V. Garron (“Berna”) is an individual resident in Unionville, Ontario.
+4. The Appellant Garron Family Trust (“GF Trust”) was a trust established pursuant to a trust indenture dated April 26, 1993.
+5. Garron and Berna were the trustees of the GF Trust.
+6. The beneficiaries of the GF Trust included the children and grandchildren of Garron and Berna.
+7. Prior to 1992, Garron and his wife, Berna, owned all the shares of Progressive Moulded Products Limited (“Products”) and Progressive Tools Limited (“Tools”) through a family holding company, Garron Holdings Limited (“GHL”).
+8. Products and Tools carried on the business of manufacturing injection moulds and plastic parts used in a variety of businesses under the name of “Progressive”.
+9. In November, 1990, Dunin was hired by Garron as the general manager of Progressive.
+10. Under Dunin’s supervision, Progressive’s business began to concentrate on producing plastic parts used in the assembly of automobiles.
+11. In 1992, PMPL Holdings Ltd. (“PMPL”) was incorporated. GHL transferred the shares it held in the capital of Products and Tools to PMPL in exchange for shares of PMPL. Beginning in 1992, Dunin began to acquire shares of PMPL.
+12. Garron, GHL, Garron Trust, Dunin, PMPL, Products and Tools entered into a shareholders agreement dated November 20, 1992 (the “1992 Shareholders Agreement”).
+13. By 1996, Dunin had acquired a 50% interest in PMPL with the result that the only issued and outstanding shares in PMPL were as follows:
+(a) 50 Class A common shares owned by GHL; and
+(b) 50 Class B common shares owned by Dunin.
+14. Once Dunin had acquired the 50 Class B common shares, the Class A common shares and Class B common shares of PMPL had the same rights and restrictions and the shares held by GHL and Dunin were of equal value.
+15. The corporate structure at this point is graphically depicted at Appendix “A”.
+16. 1287325 Ontario Limited (“325”) was incorporated on March 19, 1998.
+17. 1287333 Ontario Inc. (“333”) was incorporated on March 19, 1998.
+18. On March 24, 1998, Dunin caused Dunin Holdings Inc. (“DHI”) to be incorporated under the Business Corporations Act (Ontario) and Dunin subscribed for one common share on March 27, 1998.
+19. As at March 31, 1998, PMPL was held 50% by GHL and 50% by Dunin. GHL held 50 Class A common shares and Dunin held 50 Class B common shares.
+20. On April 1, 1998, Dunin transferred his 50 Class B common shares of PMPL to DHI pursuant to section 85 of the Income Tax Act (Canada) (the “Act”) in exchange for 499 common shares of DHI.
+21. Paul Ambrose (“Ambrose”) is a long-time friend of Garron who resides in Kingstown, St. Vincent.
+22. Ambrose is not, and has never been, a resident of Canada.
+23. Prior to April 2, 1998, Garron asked Ambrose if Ambrose would be willing to do a favour for Garron and settle a trust for the benefit of Garron and Garron’s family and a trust for the benefit of Dunin and Dunin’s family. Ambrose agreed to accommodate Garron’s request.
+24. Ambrose executed a document entitled “Fundy Settlement Trust Indenture” on April 2, 1998.
+25. During the process of drafting the Fundy Settlement Trust Indenture, Ambrose provided no input into the particulars and no instructions as to the content or terms of the Fundy Settlement Trust Indenture.
+26. Ambrose’s signature on the Fundy Settlement Trust Indenture was witnessed by Agnes E. Cato, a barrister and solicitor in St. Vincent and the Grenadines (“Cato”).
+27. Prior to Ambrose signing the Fundy Settlement Trust Indenture, Cato reviewed the contents of the Fundy Settlement Trust Indenture with Ambrose.
+28. Ambrose signed the Fundy Settlement Trust Indenture and forwarded it to St. Michael Trust Corporation together with a bank draft in the amount of US$100 as the settlement amount referred to at Article 1.2 of the Fundy Settlement Trust Indenture.
+29. The US$100 amount provided to St. Michael Trust Corporation as the settlement amount referred to at Article 1.2 of the Fundy Settlement Trust Indenture came from Ambrose’s own funds.
+30. Ambrose executed a document entitled “Summersby Settlement Trust Indenture” on April 2, 1998.
+31. During the process of drafting the Summersby Settlement Trust Indenture, Ambrose provided no input into the particulars and no instructions as to the content or terms of the Summersby Settlement Trust Indenture.
+32. Ambrose’s signature on the Summersby Settlement Trust Indenture was witnessed by Cato.
+33. Prior to Ambrose signing the Summersby Settlement Trust Indenture, Cato reviewed the contents of the Summersby Settlement Trust Indenture with Ambrose.
+34. Ambrose signed the Summersby Settlement Trust Indenture and forwarded it to St. Michael Trust Corporation together with a bank draft in the amount of US$100 as the settlement amount referred to at Article 1.2 of the Summersby Settlement Trust Indenture.
+35. The US$100 amount provided to St. Michael Trust Corporation as the settlement amount referred to at Article 1.2 of the Summersby Settlement Trust Indenture came from Ambrose’s own funds.
+36. On April 2, 1998, Julian Gill (“Gill”), a relative of Ambrose’s and a friend of Garron’s, lent US$7,190 to the Summersby Settlement (“Summersby”).
+37. The terms of the loan from Gill to Summersby were that the loan carried interest at 10% and the loan was repayable either on the sale by Summersby of its shares in 325 or payment of a dividend from 325.
+38. On April 2, 1998, Gill lent US$7,190 to the Fundy Settlement (“Fundy”).
+39. The terms of the loan from Gill to Fundy were that the loan carried interest at 10% and the loan was repayable either on the sale by Fundy of its shares in 333 or payment of a dividend from 333.
+40. On April 3, 1998, 1,000 Class A and 1,000 Class B shares of 325 were issued to Summersby.
+41. On April 3, 1998, 1,000 Class A and 1,000 Class B shares of 333 were issued to Fundy.
+42. PMPL, Dunin and Garron requested KPMG to provide a valuation of PMPL. The value KPMG arrived at for all the issued and outstanding common shares of PMPL as at February 28, 1998 was $50 million.
+43. On April 6, 1998, the share capital of PMPL was reorganized such that:
+(a) each existing Class A common share and each existing Class B common share was converted into 10 Class A shares (the “Preference Shares”) such that there were, in aggregate, 1,000 Preference Shares;
+(b) 100 Class B shares were created (the “Special Value Shares”); and
+(c) an unlimited number of Class C shares were created (“New Common Shares”).
+44. As at April 6, 1998, DHI and GHL each owned an equal number of Preference Shares.
+45. On April 6, 1998, 325 subscribed for 100 Special Value Shares of PMPL for an aggregate subscription price of $10.00 and subscribed for 800 New Common Shares for an aggregate subscription price of $80.00.
+46. On April 6, 1998, 333 subscribed for 800 New Common Shares for an aggregate subscription price of $80.00.
+47. The Preference Shares:
+(a) were voting fixed-value preference shares; and
+(b) were not participating unless and until they were redeemed at which time dividends would be cumulative and payable between the date of a request to redeem the Preference Shares and the redemption of those Preference Shares.
+48. The Special Value Shares:
+(a) were non-voting;
+(b) carried no dividend entitlement;
+(c) were retractable at a redemption amount equal to 10% of the amount by which the fair market value of all the shares of PMPL and Progressive Marketing, Inc. (as defined in the PMPL Articles of Amendment) at the time of the Event of Retraction exceeds $50,000,000 divided by 100;
+49. The New Common Shares were fully participating but non-voting common shares.
+50. The corporate structure at April 6, 1998 is graphically depicted at Appendix “B”.
+51. The 1992 Shareholders Agreement was amended and restated on April 6, 1998 (the “1998 Shareholders Agreement”) among PMPL, the shareholders of PMPL (GHL, DHI, 333 and 325) and Dunin and Garron.
+52. Subsequent to April 6, 1998, PMPL continued to operate.
+53. An offer to purchase was made in March 2000 by Oak Hill Capital Partners LP, a large third party United States-based private equity capital fund, through 1424666 Ontario Ltd.
+54. The offer from 1424666 Ontario Ltd. was accepted and was the subject of a share purchase agreement made as of June 21, 2000 (the “Share Purchase Agreement”).
+55. Pursuant to the Share Purchase Agreement, on August 10, 2000:
+(a) Fundy sold all 1,000 Class A shares and 1,000 Class B shares in 333 to 1424666 Ontario Ltd. for $217,118,436 cash;
+(b) the shareholders of GHL (Garron, Berna and GF Trust) sold all of the shares of GHL to 1424666 Ontario Ltd. for $25,000,000;
+(c) Summersby sold 907 Class A shares and 907 Class B shares in 325 to 1424666 Ontario Ltd. for $240,366,978 cash; and
+(d) DHI transferred the Preference Shares held by it to 3045036 Nova Scotia Limited, the parent company of 1424666 Ontario Ltd., in exchange for an interest in 3045036 Nova Scotia Limited valued at $25,000,000.
+56. On August 29, 2000, after the sale of the shares of 325, the loan from Gill to Summersby of US$7,190 was repaid in full with interest.
+57. On August 29, 2000, after the sale of the shares of 333, the loan from Gill to Fundy of US$7,190 was repaid in full with interest.
+58. In accordance with the Share Purchase Agreement, Dunin continued to be employed by the new purchaser of PMPL.
+59. The relationship between PMPL and each of Garron, Berna and Anne Dunin (the spouse of Dunin) terminated on August 10, 2000.
+60. 1424666 Ontario Limited withheld $80,122,326 from the purchase price for the 907 Class A shares and 907 Class B shares of 325 and remitted that amount to the Receiver General for Canada.
+61. 1424666 Ontario Limited withheld $72,372,812 from the purchase price for the shares of 333 and remitted that amount to the Receiver General for Canada.
+62. In computing income for the 2000 taxation year, Summersby did not report any capital gain from the disposition of the 907 Class A shares and the 907 Class B shares of 325 to 1424666 Ontario Limited as subject to tax in Canada based on its view that the gain was subject to tax only in Barbados by virtue of Article XIV(4) of the Agreement Between Canada and Barbados for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income and Capital (the “Treaty”).
+63. In computing income for the 2000 taxation year, Fundy did not report any capital gain from the disposition of the shares of 333 to 1424666 Ontario Limited as subject to tax in Canada based on its view that the gain was subject to tax only in Barbados by virtue of Article XIV(4) of the Treaty.
+64. In respect of the 2000 taxation year of each of the Appellants, the Minister of National Revenue (the “Minister”) assessed each of the Appellants as follows (the “Assessments”):
+(a) Summersby was assessed taxable income of $160,244,591 by a Notice of Assessment dated September 1, 2004;
+(b) Fundy was assessed taxable income of $144,745,557 by a Notice of Assessment dated September 1, 2004;
+(c) Dunin was assessed taxable income of $162,298,420 by a Notice of Assessment dated June 17, 2004;
+(d) Garron was assessed taxable income of $14,147,031 by a Notice of Assessment dated June 30, 2004;
+(e) Berna was assessed taxable income of $938,441 by a Notice of Assessment dated June 16, 2004; and
+(f) GF Trust was assessed taxable income of $133,514,811 by a Notice of Assessment dated June 18, 2004.
+65. A reconciliation of the amounts reported by each Appellant and assessed by the Minister is attached as Appendix “C”.
+66. Each Appellant filed a Notice of Objection with the Minister, and the Minister confirmed each of the Assessments by a Notice of Confirmation dated February 21, 2006 and each such Notice of Confirmation has now been appealed to this Court.
+CORPORATE STRUCTURE PRIOR TO APRIL 6, 1998
+______________________________________________
+Appendix III
+Trustee’s Memoranda of Intention
+Re Fundy
+It is the Trustee’s intention, with respect to the Fundy Settlement (Trust), as follows:
+1. Investment Policy
+(a) that the shares of 1287333 Ontario Limited (“1287333”) be
+held until such time as the other shareholders of PMPL Holdings Inc., decide to sell their shares. At that time we will facilitate the sale of the shares of 1287333;
+(b) any sale proceeds which arise from the sale of the shares of
+1287333 (and any other amounts received by the Trust as a consequence of the realisation of any assets of 1287333 or of any entity in which it has a direct or indirect interest) will be invested prudently with a view to the long term preservation of the capital of the Trust; and
+(c) we will seek the investment advice of Myron Garron from
+time to time.
+2. Distribution Policy
+(a) that during the lifetime of Myron Garron the primary
+consideration in making distributions of income and capital should be the best interests of Myron Garron subject only to his wishes with respect to distributions to other beneficiaries;
+(b) if Myron Garron should die at a time we continue to hold
+assets under the terms of the Trust, distribution shall be made in view of the best interests of Myron Garron’s widow during her lifetime, and thereafter the best interests of his issue, as defined in the Trust deed.
+Re Summersby
+1. Investment Policy
+(a) the shares of 1287325 Ontario Limited (“1287325”) should be
+held until such time as the other shareholders of PMPL Holdings
+Inc. decide to sell their shares. At that time, we, as the
+trustee, will facilitate the sale of our shares of 1287325;
+(b) any sale proceeds which arise from the sale of our shares of the
+[sic] 1287325 (and any other amounts received by the Trust as a consequence of the realisation of any assets of 1287325 or of any entity in which it has a direct or indirect interest) will be invested prudently with a view to the long term preservation of the capital of the Trust; and
+(c) we, as trustee, may seek the investment advice of Andrew Dunin, from time to time.
+2. Distribution Policy
+During the lifetime of Andrew Dunin, the primary consideration in making distributions of income and capital should be the best interests of Andrew Dunin, subject only to his wishes with respect to distributions to other beneficiaries. If Andrew Dunin should die at a time when we, as trustee, continue to hold assets under the terms of the Trust, distributions shall be made in view of the best interests of Andrew Dunin’s widow during her lifetime, and thereafter the best interests of his issue (as defined in the Settlement Deed).
+3. Power to Amend Trust
+We, as trustee, will consult with Andrew Dunin each April (*) to determine whether the provision of clauses 3.1(e)(iv) or 3.1(f) of the Settlement Deed should be amended to reflect any amendments which might have been made to the will of Andrew Dunin.
+CITATION:
+2009 TCC 450
+COURT FILE NOS.:
+2006-1405(IT)G, 2006-1407(IT)G
+2006-1408(IT)G, 2006-1409(IT)G
+2006-1410(IT)G, 2006-1411(IT)G
+STYLES OF CAUSE:
+Myron A. Garron and Berna V. Garron, as Trustees of the Garron Family Trust v. Her Majesty the Queen and Berna V. Garron v. Her Majesty the Queen and Myron A. Garron v. Her Majesty the Queen and St. Michael Trust Corp., as Trustee of the Fundy Settlement v. Her Majesty the Queen and Andrew T. Dunin v. Her Majesty the Queen and St. Michael Trust Corp., as Trustee of the Summersby Settlement v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+July 21 - August 6, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M. Woods
+DATE OF JUDGMENTS:
+September 10, 2009
+APPEARANCES:
+Counsel for the Appellants:
+Douglas H. Mathew
+Matthew G. Williams
+Counsel for the Respondent:
+Elizabeth Chasson
+Margaret Nott
+Martin Beaudry
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Douglas H. Mathew
+Firm:
+Thorsteinssons LLP
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Throughout these reasons, the term “common shares” is used to describe either common shares or special shares with rights to participate in profits.
+[2] The $50,000,000 share consideration was held by, or on behalf of, Mr. Dunin and Summersby equally. Mr. Dunin’s interest was effected by having DHI exchange its shares of PMPL for shares of a company owned by the buyer. It is not clear from the evidence how Summersby’s interest was implemented but nothing turns on this. It is not part of the gain that is at issue in these appeals.
+[3] According to the transcript, Mr. Hutchinson stated at one point that he began to work for St. Michael in 1990. This appears to be a clerical error in the transcript.
+[4] David Sherman, ed., Department of Finance Technical Notes, Income Tax, 20th ed. (Toronto: Carswell, 2008)
+[5] This argument was made in reference to section 68.
+[6] The admission of an avoidance transaction was conditional on the Federal Court of Appeal’s decision in The Queen v. MacKay, 2008 DTC 6238, being a final decision. It has now become final as the Supreme Court of Canada denied leave for further appeal.

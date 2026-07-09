@@ -1,0 +1,163 @@
+---
+title: "Larivière v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29378/index.do"
+last_modified: "2009-09-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 424"
+citation2: ""
+neutral_citation: "2009 TCC 424"
+decision_date: "2009-09-04"
+language: "en"
+item_id: "29378"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6869
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:00:21.313000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "070f1eebc70555c3fa4403d90e3d1c0c5e689bfa40ffe6491a36b77b00f58ee1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Larivière v. The Queen
+
+- Citation: 2009 TCC 424
+- Decision date: 2009-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6869, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larivière v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-04
+Neutral citation
+2009 TCC 424
+File numbers
+2008-3293(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-3293(GST)I
+BETWEEN:
+GILLES LARIVIÈRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 10, 2009, at Québec, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the appellant:
+Charles Bourgeois
+Counsel for the respondent:
+Frank Archambault
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessment dated October 26, 2007, (No. FRP‑497(2007-04)) and the reassessment dated November 27, 2008, relative to the Goods and Services Tax for the period from May 1, 2002, to June 30, 2005, are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 4th day of September 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 14th day of October 2009
+Margarita Gorbounova, Translator
+Citation: 2009TCC424
+Date: 20090904
+Docket: 2008-3293(GST)I
+BETWEEN:
+GILLES LARIVIÈRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant is appealing from the assessment dated October 26, 2007, notice of which bears the number FRP-497(2007-04), and the reassessment dated November 27, 2008, in which the Minister of Revenue of Quebec, as an agent for the Minister of National Revenue (collectively the Minister), assessed the appellant for a net tax amount of $4,002.53 under the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the ETA), plus interest and penalty, for the period from May 1, 2002, to June 30, 2005 (the period at issue).
+[2] The issues are related to the input tax credits (ITCs) claimed in regard to the following:
+(a) the cost of food and veterinarian bills for a guard dog;
+(b) the cost of a laptop computer and office printer;
+(c) the cost of building a shed to house a furnace and to store some equipment and the cost or renovating a garage; and
+(d) the cost of a Dodge Dakota pick-up truck as well as of gasoline for and maintenance of said vehicle.
+[3] During the period at issue, the appellant operated a welding business; more specifically, he assembled trailers. The appellant's place of business was his personal residence, and he was a registrant for the purposes of the Goods and Services Tax (GST). In addition to operating his business, the appellant worked full time for the City of Trois-Rivières as a police officer.
+Food and veterinarian expenses for the guard dog
+[4] Based on the evidence adduced, the appellant has always had dogs at his residence. The dog in question is a German shepherd acquired before the appellant started operating his business in 2002. Therefore, he was not bought specifically to guard the garage attached to the residence where the business was operated. The dog guards both the residence and the garage of the appellant. Since the dog is used for both the appellant's personal needs and the needs of his business, no ITCs should be allowed for food and veterinary expenses incurred by the appellant during the period at issue.
+Cost of a laptop computer and printer
+[5] The IBM laptop computer was purchased on September 2, 2002, for $1,250 from an Alain Pelletier. It was a used computer, and the appellant did not pay GST on the purchase. According to the appellant, the laptop was bought to prepare invoices for clients. The experiment being inconclusive, the appellant loaned it to his bookkeeper. No matter what the laptop was used for, technically, the appellant cannot be entitled to ITCs because he paid no GST at the time of its purchase. Since the printer was not discussed and no specific submissions were made concerning it at the hearing, the claim for ITCs regarding the printer must be disallowed.
+Cost of building a shed
+[6] The shed was built to house the heating system required for the garage only. The welding and painting that were done in the garage increased the risk of fire. ITCs were allowed on the purchase of the oil-fired warm-air heating system, but disallowed on the cost of building the shed itself because the conditions in subsection 208(4) of the ETA had been met. During the period at issue, subsection 208(4) read as follows:
+Improvement to capital real property by individual – Where an individual who is a registrant acquires, imports or brings into a participating province an improvement to real property that is capital property of the individual, the tax payable by the individual in respect of the improvement shall not be included in determining an input tax credit of the individual if, at the time that tax becomes payable or is paid without having become payable, the property is primarily for the personal use and enjoyment of the individual or a related individual.
+[7] At the hearing, the agent for the appellant filed as Exhibit A-1 an assessment report dated April 22, 2008, from a general partnership called André Leblanc et associés, a chartered appraiser firm. According to that report, the total area taken up by the appellant's business is 1,649 square feet compared to a total area of 3,228 square feet for the appellant's residence and accessory buildings, that is, 45% of the total area of the property, not taking into account the land, which is 1,493.5 square metres.
+[8] Even if we accept the findings in the appraisal report, the percentage of commercial use of the property after the shed was built did not increase enough so that the entire property could be considered as being used primarily for commercial purposes.
+[9] Although the shed and the garage are used exclusively for commercial purposes, building a shed to house the garage heating system constitutes, nonetheless, an improvement to capital real property made by an individual within the meaning of subsection 123(1) of the ETA. The words "capital property", "improvement" and "real property" are defined as follows in subsection 123(1) of the ETA:
+“capital property”
+in respect of a person, means property that is, or would be if the person were a taxpayer under the Income Tax Act, capital property of the person within the meaning of that Act, other than property described in Class 12, 14 or 44 of Schedule II to the Income Tax Regulations;
+"improvement"
+in respect of property of a person, means any property or service supplied to, or goods imported by, the person for the purpose of improving the property, to the extent that the consideration paid or payable by the person for the property or service or the value of the goods is, or would be if the person were a taxpayer under the Income Tax Act, included in determining the cost or, in the case of property that is capital property of the person, the adjusted cost base to the person of the property for the purposes of that Act;
+"real property"
+“real property” includes
+(a) in respect of property in the Province of Quebec, immovable property and every lease thereof,
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable, and
+(c) a mobile home, a floating home and any leasehold or proprietary interest therein;
+[10] The first paragraph of article 900 of the Civil Code of Quebec sets out that land, and any constructions and works of a permanent nature located thereon and anything forming an integral part thereof, are immovables.
+[11] As stated by Justice Angers in Polley v. The Queen, 2008 TCC 192, at paragraph 9,
+The purpose of subsection 208(4) is to prevent an ITC from being claimed on the cost of improvements to capital real property if the property is primarily for the personal use and enjoyment of the registrant.
+[12] The Act does not distinguish between improvements that are made solely for commercial purposes and those that are not. If all the conditions in subsection 208(4) are present, the tax paid on the improvement does not give rise to an ITC.
+[13] In this case, the conditions for applying subsection 208(4) of the ETA are present because, despite the improvements made to it, the property taken as a whole is still primarily for the personal use and enjoyment of the appellant.
+Dodge Dakota pick-up truck, maintenance costs and gasoline
+[14] According to the appellant's testimony, the Dodge Dakota was bought at an auction in 2003 for $5,000. This is a vehicle from the Ministère de la Faune du Québec [Quebec wilfdlife ministry] that had 280,000 kilometres on it. The vehicle was in bad condition and was always broken.
+[15] In addition to the pick-up, the appellant also owned four more vehicles: a Ford F-150 truck and Firebird, Corvette and Focus automobiles.
+[16] In his 2002 tax return, the appellant did not claim a deduction for expenses of operating a motor vehicle. For 2003, the appellant reported that he had used a vehicle for business purposes and driven 5,200 kilometres for business, that is, 23.6% of the total distance of 22,000 kilometres driven. For 2004, he did the same, reporting a distance of 6,266 kilometres driven for business, that is, 25.3% of the total distance of 24,820 kilometres driven. Despite the business use percentages of 23.6% and 25.3%, the appellant claimed 100% of the ITCs attributable to the acquisition cost and usage fees for the Dodge Dakota.
+[17] At the hearing, the appellant admitted that he did not keep a log for his business travel and for the distance he had driven for that purpose. To justify claiming expenses for the Ford F-150, the appellant stated that the Ford F-150 was used when the Dodge Dakota was broken.
+[18] The auditor from the Ministère du Revenu du Québec testified at the hearing and stated that the appellant had claimed ITCs for all of the gasoline bills for the Dodge Dakota and the Ford F-150, even though some of the gasoline purchases had been made by the appellant's son, Luc Larivière. He also operated a welding business and used the same vehicles to operate his own business. The audit also showed that the two vehicles did not have commercial licence plates.
+[19] The burden of proof to demonstrate the commercial use of the Dodge Dakota is on the appellant and not the respondent. Keeping a log is the best way to clearly establish the distance actually driven for business purposes.
+[20] The quality of the evidence submitted by the appellant and especially the lack of precision concerning the use of the vehicle in the appellant's business mean that the appellant did not discharge his burden of proof and cannot obtain the ITCs claimed in regard to the purchase of the Dodge Dakota and the cost of using that vehicle.
+[21] For these reasons, the appeals are dismissed.
+Signed at Montréal, Quebec, this 4th day of September 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 14th day of October 2009
+Margarita Gorbounova, Translator
+CITATION: 2009TCC424
+COURT FILE NO.: 2008-3293(GST)I
+STYLE OF CAUSE: Gilles Larivière and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: June 10, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: September 4, 2009
+APPEARANCES:
+Agent for the appellant:
+Charles Bourgeois
+Counsel for the respondent:
+Frank Archambault
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

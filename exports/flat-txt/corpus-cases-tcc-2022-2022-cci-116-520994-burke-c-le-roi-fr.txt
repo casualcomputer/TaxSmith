@@ -1,0 +1,123 @@
+Title: Burke c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520994/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-116-520994-burke-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2022-10-11
+
+# Burke c. Le Roi
+
+- Citation: 2022 CCI 116
+- Decision date: 2022-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5796, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burke c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-10-11
+Référence neutre
+2022 CCI 116
+Numéro de dossier
+2020-1112(IT)I
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-1112(IT)I
+ENTRE :
+TIMOTHY RAYMOND BURKE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête en annulation de l’appel concernant les
+années d’imposition 2011, 2012 et 2013 entendu le 5 octobre 2022 à
+Ottawa (Ontario)
+Devant : L’honorable juge Jean Marc Gagnon
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Grace Jothiraj
+JUGEMENT
+Après avoir entendu la requête de l’intimé visant à faire annuler l’appel interjeté par l’appelant concernant les années d’imposition 2011, 2012 et 2013 :
+LA COUR ORDONNE que l’appel interjeté par l’appelant concernant les années d’imposition 2011, 2012 et 2013 soit annulé.
+Aucuns dépens ne sont accordés.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2022.
+« J.M. Gagnon »
+Le juge Gagnon
+Référence : 2022 CCI 116
+Date : 20221011
+Dossier : 2020-1112(IT)I
+ENTRE :
+TIMOTHY RAYMOND BURKE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+I. Introduction
+[1] L’appelant, Timothy Raymond Burke, a interjeté appel sous le régime de la procédure informelle à l’égard des cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2011, 2012 et 2013. La question soulevée en appel concerne la retenue fiscale prévue à partie XIII de la Loi de l’impôt sur le revenu sur les retraits effectués du régime enregistré d’épargne-retraite de l’appelant.
+[2] Devant notre Cour, une requête préliminaire a été présentée par l’intimé en vue d’obtenir une ordonnance demandant l’annulation des appels concernant les années d’imposition 2011, 2012 et 2013.
+[3] Les moyens invoqués à l’appui de la requête de l’intimé sont que l’appelant n’a pas signifié au ministre du Revenu national, aux termes du paragraphe 165(1) de la Loi de l’impôt sur le revenu, un avis d’opposition valide à l’encontre des cotisations, comme l’exige le paragraphe 169(1) de la Loi de l’impôt sur le revenu.
+[4] Le paragraphe 169(1) de la Loi de l’impôt sur le revenu est ainsi libellé :
+169(1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où un avis a été envoyé au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[5] À l’appui de sa thèse, l’intimé a déposé l’affidavit de Peter Gabris, un agent des litiges de l’Agence du revenu du Canada. L’affidavit indique en partie ce qui suit :
+[traduction]
+1. Je suis agent des litiges à l’Agence du revenu du Canada (l’« Agence ») et à ce titre, je suis responsable des dossiers pertinents et je connais les pratiques de l’Agence.
+2. J’ai examiné les documents relatifs à l’appel interjeté par TIMOTHY RAYMOND BURKE et je suis donc au courant des questions dont il est fait état ci-après.
+3. Le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’appelant pour les années d’imposition 2011, 2012 et 2013, et les avis de cotisation ont été déposés en même temps, soit le 13 mars 2020. Les documents joints aux présentes en tant que PIÈCE « A » à cet affidavit sont des reproductions de ces avis de cotisation.
+[…]
+6. Le 90e jour suivant la date de mise à la poste des avis de cotisation pour les années d’imposition 2011, 2012 et 2013 était le 11 juin 2020.
+7. Après avoir examiné et fouillé attentivement les dossiers de l’Agence, je n’ai pas été en mesure de conclure que les avis d’opposition à l’encontre des cotisations établies pour les années d’imposition 2011, 2012 et 2013 ont été reçus au plus tard le 11 juin 2020.
+8. Une année après le dernier jour pour signifier un avis d’opposition relativement aux années d’imposition 2011, 2012 et 2013 tombait le 11 juin 2021.
+9. Après avoir examiné et fouillé attentivement les dossiers de l’Agence, je n’ai pas été en mesure de conclure que l’Agence a reçu une demande de prorogation du délai de signification des avis d’opposition au ministre à l’encontre des cotisations établies pour les années d’imposition 2011, 2012 et 2013.
+[6] En outre, à l’appui de sa thèse, l’intimé a présenté en preuve un avis de cotisation daté du 13 mars 2020 pour chacune des années d’imposition 2011, 2012 et 2013. L’appelant a admis avoir reçu les avis de cotisation.
+Discussion
+[7] Il est clair qu’un appel ne peut pas être interjeté au titre du paragraphe 169(1) de la Loi de l’impôt sur le revenu, à moins qu’un avis d’opposition ait été signifié au ministre du Revenu national [1] .
+[8] L’appelant a été honnête et a fait preuve de transparence en exposant sa position. Il a admis ne pas avoir signifié d’avis d’opposition au ministre du Revenu national. Le seul document qu’il a déposé était un avis d’appel auprès de la Cour canadienne de l’impôt. S’il en avait été conscient à ce moment-là, il aurait respecté les règles de la Loi de l’impôt sur le revenu et aurait signifié un avis d’opposition valide. Il ne l’a malheureusement pas fait. En l’espèce, l’ignorance de la loi n’est d’aucun secours [2] .
+[9] La thèse mise de l’avant par l’appelant combinée avec celle de l’intimé ne laisse planer aucun doute sur l’absence d’un avis d’opposition valide signifié relativement aux cotisations en appel devant notre Cour. Cela porte un coup fatal à l’appel de l’appelant.
+[10] Par conséquent, compte tenu de ce qui précède, je conclus que l’appel interjeté relativement aux années d’imposition 2011, 2012 et 2013 dont notre Cour est saisie doit être annulé.
+[11] Chacune des parties assumera ses propres dépens relativement à la présente requête.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2022.
+« J.M. Gagnon »
+Le juge Gagnon
+RÉFÉRENCE :
+2022 CCI 116
+Nº DU DOSSIER DE LA COUR :
+2020-1112(IT)I
+INTITULÉ :
+TIMOTHY RAYMOND BURKE c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 5 octobre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+Le 11 octobre 2022
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Grace Jothiraj
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir, par exemple, l’arrêt Bormann c. Canada, 2006 CAF 83.
+[2] Voir, par exemple, Corporation de l’école polytechnique c. Canada, 2004 CAF 127 et Robertson c. La Reine, 2015 CCI 246.

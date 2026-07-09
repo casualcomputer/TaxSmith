@@ -1,0 +1,180 @@
+---
+title: "Tucker v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27603/index.do"
+last_modified: "2007-05-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 298"
+citation2: ""
+neutral_citation: "2007 TCC 298"
+decision_date: "2007-05-17"
+language: "en"
+item_id: "27603"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 424
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:06:58.850000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "081a7a2f895a66c764c8a9571c929242ca302c7085e7a95f16bb0fe563d0b2b9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tucker v. The Queen
+
+- Citation: 2007 TCC 298
+- Decision date: 2007-05-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 424, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tucker v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-17
+Neutral citation
+2007 TCC 298
+File numbers
+2005-3450(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3450(IT)G
+BETWEEN:
+RALPH E. TUCKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 14, 2007, at St-John's, Newfoundland.
+Before: The Honourable Gerald J. Rip, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Gary F. Peddle
+Counsel for the Respondent:
+Marcel Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under section 227.1 of the Income Tax Act, notice of which is dated April 29, 2004 and bears number 19353 is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment to delete from the amounts assessed for the period January 1, 2002 to January 31, 2003, the amount of $102,056.47 plus interest, if any.
+Signed at Ottawa, Canada, this 17th day of May 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Citation: 2007TCC298
+Date: 20070517
+Docket: 2005-3450(IT)G
+BETWEEN:
+RALPH E. TUCKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, A.C.J.
+[1] Ralph Tucker has appealed on assessment of a liability pursuant to subsection 227.1(1) of the Income Tax Act ("Act").[1] The assessment, notice of which is dated April 29, 2004, was made since, according to the Minister of National Revenue ("Minister"), D&M Educational Services Limited ("D&M") had failed to deduct tax as required by section 153 or had failed to remit such amounts to the Receiver General for Canada at times when Mr. Tucker was a director of the corporation, that is, from June 15, 2000 to January 31, 2003.
+[2] The amounts and actual periods assessed are as follows:
+Period Covered
+Amount Assessed
+July 15, 2000 to Dec. 31, 2000
+$ 1,080.18
+Jan. 1, 2001 to Oct. 31, 2001
+$ 52,535.58
+Nov. 1, 2001 to Dec. 31, 2001
+$ 11,429.64
+Jan. 1, 2002 to Jan. 31, 2003
+$102,056.47
+[3] Mr. Tucker is a successful businessman in St. John's, Newfoundland. He and his wife founded Keyin College ("Keyin"), a trade school, in 1980 and he served as its business manager since 1981. In about 1994 or 1995 the college was franchised to operators in Atlantic Canada. Mr. Tucker was also a director of about nine or ten corporations. He was president of the Newfoundland Labrador Association of Career College. He was also Chair of the Workplace Health Safety and Compensation Commission of Newfoundland and Labrador and has sat on the national board.
+[4] Mr. Tucker was aware of the duties and liabilities of a director, including liabilities under the Act.
+[5] The franchisor of Keyin was Keycorp Inc. Mr. Tucker was a shareholder of Keycorp. He was also a director of Keycorp and its President. At one time Keycorp had 14 franchises operating in the Atlantic provinces. During the period 2000 to 2002, there were nine active franchises of Keyin.
+[6] Mr. Tucker kept in constant touch with the staff and students of the franchised colleges. The key to the business' success was marketing, making sure the students got what they paid for and that programs offered met the expectations of the students. Franchisees were rated for growth and were offered assistance. If a franchisee had a deficient program, Mr. Tucker ensured that remedial action was in place. Remedial action could be slight or radical, including the closing of a franchise.
+[7] The schools operated under provincial trade school legislation.
+[8] A franchisee was granted a geographical location for his or her school, including a program and operational rules and guidelines. The franchisees were mentored. Programs were updated. There was a formal franchise agreement.
+[9] Keycorp had at least five officers, a president, a director of marketing, a director of operations who was responsible for the curriculum, a controller and a secretary.
+[10] Franchisees were responsible for day-to-day operations such as staff hiring, banking, observing provincial legislation and following Keycorp's guidelines.
+[11] Franchisees had three sources of cash flow: student tuition, Canada student loans and Service Canada, the funding arm of the federal government to support training initiatives.
+[12] The royalty fee the franchisee paid to Keycorp was the aggregate of:
+a) ten per cent of revenue;
+b) three per cent for co-operative advertising; and
+c) one per cent for new marketing and to research new curriculum.
+[13] D&M operated the Halifax campus from 1997 to 2000. The Halifax campus was not progressing to the degree anticipated by Mr. Tucker. The franchise required help. Mr. Tucker visited the school on several occasions and eventually assigned one of his trusted employees, Debbie Lawrence, to the Halifax campus to evaluate the situation, to audit the company's operations, and recommend improvements.
+[14] Ms. Lawrence had been working for Keycorp for about 15 years. She has a Bachelor of Commerce degree. She had worked at IBM and was strong in communications, according to Mr. Tucker. She was originally hired to teach communications and moved through the ranks to Director of Marketing at the St. John's campus and then to Head Office as Director of Operations. Ms. Lawrence had designed curriculum and development, was responsible for advertising and marketing as well as "corporate budget". She eventually had signing authority for the corporation.
+[15] Mr. Tucker described Ms. Lawrence as "very good at what she did". He had confidence in her abilities.
+[16] In any event, Ms. Lawrence made recommendations to Mr. Walsh which, Mr. Tucker stated, Mr. Walsh could not "live with". Mr. Walsh advised Mr. Tucker that he would close the school.
+[17] Mr. Tucker would visit the various campuses about twice a year. When he visited Halifax he did not examine any books or records. He was interested in meeting faculty and students and "facilitate" issues with the Department of Education. He wanted to support Ms. Lawrence to maintain the franchise. Mr. Tucker also relied on the corporate controller. As for himself, Mr. Tucker acknowledged he "couldn't be hands on day-to-day". He could not recall "specifically" asking Ms. Lawrence if she made remittances to the Canada Customs and Revenue Agency ("CCRA").
+[18] Mr. Tucker said he never allowed a student to leave without being properly trained. He did not want to close the school and abandon the students. He asked Ms. Lawrence to take over its operations and adopt her recommendations.
+[19] By agreement dated as of July 15, 2000, Mr. and Mrs. Walsh sold their shares in D&M to Keyin Virtual Campus Limited ("Virtual"), the shares of which were owned by Mr. Tucker's three sons. Mr. and Mrs. Walsh resigned as directors. Mr. Tucker became a director of D&M.
+[20] Financial statements of D&M for the fiscal period ending August 31, 1999 were attached to the agreement. Mr. Tucker acknowledged that no source deductions were outstanding as of July, 2000 but he was aware that the Walshes had a dispute with the CCRA.
+[21] Ms. Lawrence returned to Halifax to become the principal and administrator of the Halifax College. According to Mr. Tucker, she was responsible for the day-to-day operations of the school, accounts receivable, curriculum, hiring and firing and all financial aspects such as payroll and source deductions. Mr. Tucker said control of the payroll was delegated to the controller of Keycorp.
+[22] Mr. Tucker declared that he was "routinely" in contact with Ms. Lawrence during the time she was in charge of the Halifax College. He visited Halifax on several occasions. He believed that she was making a "good progression".
+[23] Mr. Ken Noseworthy, the corporate controller, Mr. Tucker testified, prepared weekly and monthly records of accounts payable and accounts receivable. He made sure, said Mr. Tucker, that there was sufficient cash for Ms. Lawrence to operate the business. Mr. Tucker did not review financial records; he would discuss finances with Mr. Noseworthy.
+[24] Ms. Lawrence did not inform Mr. Tucker of any cash shortfall but did advise Mr. Noseworthy. Eventually Mr. Tucker realized that money was required for Halifax and that the Walshes were "not completely frank with us. The Walshes had taken care of their own personal issues and almost cleared out the bank account." Mr. Noseworthy caused Keycorp to advance funds to D&M.
+[25] Mr. Tucker also complained that Ms. Lawrence had never mentioned that the accounts with the CCRA were outstanding; as far as he was concerned, the only issue with the CCRA was a possible refund of $26,000 from the CCRA to Mr. or Mrs. Walsh. At one point Mr. Tucker thought that the Walshes would pay the $26,000 to D&M.[2]
+[26] Mr. Tucker never suspected that Ms. Lawrence was not keeping him informed. The first time he became aware of the problem with the CCRA, that D&M was not remitting tax, was in about August or September 2001 when Ms. Lawrence called Mr. Noseworthy to inform him "that she was behind on some payroll tax". At that point Mr. Tucker "shipped" Mr. Noseworthy to Halifax to find out what the problem was.
+[27] Mr. Tucker explained that the controller would supervise new franchisees to make sure they were not getting into trouble. He did not say whether or not, in 2000, he considered D&M a "new" franchise.
+[28] After a week in Halifax, Mr. Noseworthy reported to Mr. Tucker that the situation was "worse than the impression he had been given". It was not two or three months of non payments to the CCRA, it was about five months. Mr. Tucker instructed Mr. Noseworthy to take control of the accounts at Halifax. Ms. Lawrence no longer had authority to issue cheques.
+[29] Mr. Noseworthy contacted the CCRA so "we'd know what we owed". The controller worked on accounts payable of all creditors including the CCRA. The CCRA audited D&M. The CCRA believed no remissions of taxes withheld had been made for six months. Mr. Tucker instructed Mr. Noseworthy not to pay any tax arrears until the exact amounts were known. He told Mr. Noseworthy to keep up to date from September on. There were also discussions concerning the $26,000 possible refund and a possible $600 credit.
+[30] Mr. Tucker now had to make a choice: either continue to operate the Halifax College or sell it. He started to look for a new franchisee and as of December 31, 2001, Virtual sold its shares in D&M to Dibblee Consulting Services Inc. ("Dibblee").
+[31] Mr. Tucker recalled that on closing of the transaction with Dibblee he resigned as a director of D&M. A copy of the resignation was attached to several closing documents produced at trial. Mr. Dibblee, a shareholder of Dibblee, was to replace Mr. Tucker as director.
+[32] Amongst the other documents produced at trial is a Service Nova Scotia & Municipal Relations profile of D&M, "as of 2001-12-06", recording Mr. Tucker to be a director of D&M and a Peter G. Green as "recognized agent" of D&M. Mr. Tucker at first said that he believed Mr. Green was Dibblee's legal counsel. He said he never met Mr. Green. However, in cross-examination Mr. Tucker recalled that Mr. Green was D&M's "recognized agent" when he first became a director of D&M in July, 2000.
+[33] Some matters relating to the closing were signed after closing, all as of the effective date of the sale.
+[34] About a year after closing, Mr. Tucker received a telephone call from CCRA advising that he was still on record with Service Nova Scotia as a director of D&M.
+[35] Mr. Tucker knew Mr. Dibblee and thought him to be a credible individual. Keycorp had advanced $40,000 to D&M to make sure its cash flow was positive. He also deferred D&M royalty obligations for a year. Mr. Tucker had considered paying CCRA the $40,000 directly but Mr. Dibblee said he "needed room to manoeuvre". So long as Mr. Dibblee undertook to pay, "we'd advance to the company".
+[36] Again, unfortunately, once Dibblee took over D&M, D&M continued to default in either failing to withhold tax or to remit the tax to the Receiver General. Mr. Tucker has been assessed on these amounts as well as the amounts not remitted before 2001.
+[37] Mr. Noseworthy has had extensive experience as a controller for KFC outlets and at Keycorp. He took an accounting course at Cabot College and was granted a Business Administration Certificate after studying three years at Memorial University.
+[38] At Keycorp Mr. Noseworthy was responsible for accounting functions as well as reviewing financial activity by the various franchises and preparing annual statements for audit. He was also involved in Mr. Tucker's other business activities.
+[39] Mr. Noseworthy declared that Mr. Tucker is involved with a "lot of companies and committees". Mr. Tucker hired people to carry on the day-to-day operations and report to him on a regular basis, weekly, monthly, etc. Mr. Tucker is "hands on" if necessary.
+[40] Mr. Tucker's testimony was essentially corroborated by Mr. Noseworthy. Ms. Lawrence and Mr. Noseworthy spoke on a weekly basis, or even more frequently, when she was in Halifax in 2000. They would "zero in" and discuss payments out of accounts payable "line by line". Unfortunately there was no line for statutory deductions. No discussion on payroll deductions took place until September 2001.
+[41] Mr. Noseworthy stated that Ms. Lawrence had worked as a bookkeeper at Keycorp and all statutory deductions had been sent in on time. Based on past records, he said, "she knew what had to be done". He had no reason to question her or doubt her work before September 2001. If Ms. Lawrence required funds, Mr. Noseworthy would discuss the situation with Mr. Tucker and "he'd address the issue". He repeated that there were no such discussions concerning source deduction remittances. Mr. Tucker never instructed anyone not to remit.
+[42] During discussions with Mr. Dibblee for sale of D&M, Ms. Lawrence provided information to the prospective purchaser, said Mr. Noseworthy. He informed Mr. Dibblee of the tax problem with the source deductions. Mr. Noseworthy stated he had several discussions with Mr. Dibblee so as to proceed to a closing and to make sure D&M would not repeat its failures to remit.
+[43] Mr. Tucker could not be said to be an outside director. He was actively involved in Keycorp's business activities. He took an active interest in the operations of the various franchisees, including D&M, both before and after the sales of shares by Mr. and Mrs. Walsh to Virtual. He had an unlimited influence on management of D&M; both Ms. Lawrence and Mr. Noseworthy answered to him.
+[44] When Virtual acquired the shares of D&M, Mr. Tucker sent Ms. Lawrence to Halifax to manage the operations of the Halifax College. He had utmost faith in her abilities, as did Mr. Noseworthy. She was an excellent employee who was, "good at what she did" and was promoted to various senior positions at Keycorp. Mr. Noseworthy testified that there were no defaults by Keycorp in remitting source deductions when Ms. Lawrence was in charge of payroll for Keycorp. However, throughout the testimony of both Mr. Tucker and Mr. Noseworthy, I was waiting for a description of Ms. Lawrence's experience in remitting source deductions. I was concerned that this had been — and probably still was — a function of the controller at Keycorp.
+[45] Mr. Tucker no doubt delegated functions to his senior employees, including Ms. Lawrence. He was impressed with her experience and results from her other positions. He sent her first to audit and then to take over the operations of the Halifax campus and to clean it up. There is no evidence before me that while she was competent in curriculum and marketing, for example, she was competent to take care of source deductions and their remittance to the Receiver General. The work at Halifax may have been more than she could handle. (She did not testify at trial.) And even after September 1, 2001, when Mr. Tucker was aware of the problems and Mr. Noseworthy had investigated the situation, D&M continued its failures to remit.
+[46] Mr. Tucker did not exercise the degree of care, diligence and skill to prevent the failures of D&M to remit that a reasonably prudent person would have exercised in comparable circumstances and, therefore, is liable for the amounts assessed for the periods July 15, 2000 to December 31, 2000, January 1, 2001 to October 31, 2001 and November 1, 2001 to December 31, 2001.
+[47] On closing of the transaction with Dibblee for the shares of D&M, Mr. Tucker resigned as a director. He signed a document resigning as a director of D&M "effective December 31, 2001" and this document was delivered to D&M on closing. (There is no evidence that the closing did not take place effective as of December 31, 2001 notwithstanding, some matters had yet to be settled after closing.)
+[48] Also produced at trial was a copy of a document purporting to be a record of a resolution of directors of Dibblee, dated December 31, 2001, authorizing the purchase of the shares of D&M and appointing Daryll Dibblee "as the director of D&M".
+[49] Respondent's counsel relied on the records of the Nova Scotia government that Mr. Tucker did not cease to be a director of D&M on December 31, 2001. This is not the correct source to determine whether or not Mr. Tucker resigned as director of D&M. It is absolutely normal for directors of a corporation to resign on a change of ownership. This is what Mr. Tucker did. That the new administrators of D&M did not inform the Nova Scotia government of his resignation does not hold him to that position. He was not a director of D&M after December 31, 2001 when D&M failed to remit source deductions to the Receiver General. He is not liable for any amounts assessed by virtue of subsection 227.1(1) for any periods after December 31, 2001.
+[50] Accordingly, the appeal will be allowed, with costs, and the matter is referred back to the Minister for reconsideration and reassessment to delete from the amounts assessed for the period January 1, 2002 to January 31, 2003, the amount of $102,056.47 plus interest, if any.
+Signed at Ottawa, Canada, this 17th day of May 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+CITATION: 2007TCC298
+COURT FILE NO.: 2005-3450(IT)G
+STYLE OF CAUSE: RALPH E. TUCKER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: St-John's, Newfoundland
+DATE OF HEARING: March 14, 2007
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Associate Chief Justice
+DATE OF JUDGMENT: May 17, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Gary F. Peddle
+Counsel for the Respondent:
+Marcel Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gary F. Peddle
+Firm: Benson Myles
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In his notice of appeal the appellant is also appealing from similar assessments under the provisions of the Nova Scotia Income Tax Act, a statute under which this Court has no jurisdiction, the Canada Pension Plan and the Employment Insurance Act. In her reply, the respondent does not refer to the two latter federal statutes of the reply restricts herself only to the Income Tax Act assessment. I note this because if the appellant is correct and there are similar assessments under the Canada Pension Plan and the Employment Insurance Act his appeals from those assessments may be successful notwithstanding the result of the appeal from the assessment issued under the Income Tax Act. The notice of appeal may include sufficient facts to allow the appeal from the other statutes, absent any replies from the respondent. The Tax Court of Canada is not sent copies of assessments and it is up to one of the parties to produce a notice at trial.
+[2] According to Mr. Tucker, Mr. and Mrs. Walsh used corporate credit cards for their personal benefit and, if I understood Mr. Tucker correctly, they agreed to apply their tax refund to settle the corporate debt. No money was ever repaid to D&M by the Walshes. They left the country.

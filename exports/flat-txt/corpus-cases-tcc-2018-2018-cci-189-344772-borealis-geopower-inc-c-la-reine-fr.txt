@@ -1,0 +1,166 @@
+Title: Borealis Geopower Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/344772/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-189-344772-borealis-geopower-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-09-13
+
+# Borealis Geopower Inc. c. La Reine
+
+- Citation: 2018 CCI 189
+- Decision date: 2018-09-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4934, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Borealis Geopower Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-09-13
+Référence neutre
+2018 CCI 189
+Numéro de dossier
+2017-3210(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3210(IT)I
+ENTRE :
+BOREALIS GEOPOWER INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 22 juin 2018, à Calgary (Alberta)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Avocate de l’appelante :
+Me Melanie Pituch
+Avocat de l’intimée :
+Me Peter Basta
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation datée du 12 août 2016 et d’une nouvelle cotisation datée du 22 août 2016 pour l’année d’imposition 2014 est rejeté, sans dépens, conformément aux motifs de jugement ci-joints.
+Signé à Summerside (Île-du-Prince-Édouard), ce 13e jour de septembre 2018.
+« Diane Campbell »
+La juge Campbell
+Référence : 2018 CCI 189
+Date : 20180913
+Dossier : 2017-3210(IT)I
+ENTRE :
+BOREALIS GEOPOWER INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Le présent appel concerne une cotisation datée du 12 août 2016 et une nouvelle cotisation datée du 22 août 2016 pour l’année d’imposition 2014 de l’appelante.
+[2] L’appelante est une société de droit privé canadienne active dans les domaines du développement, de l’exploration et de l’utilisation d’options géothermiques, au Canada. En 2014, l’appelante a participé à un projet concernant des activités intensives d’exploration sur le terrain et d’analyse et de preuve scientifique de l’existence de ressources géothermiques sur ses terres, en Colombie-Britannique. Pour la réalisation de ce projet, l’appelante a reçu de l’aide gouvernementale de Technologies du développement durable Canada (TDDC).
+[3] TDDC est une [traduction] « fondation sans but lucratif créée dans le but de favoriser le développement et l’adoption de technologies contribuant à l’infrastructure des technologies du développement durable au Canada en soutenant l’évolution, la démonstration et la précommercialisation rapides de solutions technologiques qui visent à résoudre les problèmes liés au changement climatique, à la pureté de l’air ainsi qu’à la propreté de l’eau et des sols; [...] ». (Pièce A-1, entente de contribution, page 3, paragraphe 2)
+[4] L’entente de contribution conclut entre TDDC et l’appelante énonce les modalités liées à ce projet. En août 2014, l’appelante a reçu de TDDC une avance de 528 560,00 $. L’appelante a déposé le chèque dans un compte en fidéicommis ouvert à la CIBC à cette fin. Le ministre du Revenu national (le ministre) a déterminé que ce projet satisfaisait à la définition de l’expression activités de recherche scientifique et de développement expérimental (RS&DE), aux termes du paragraphe 248(1) de la Loi de l’impôt sur le revenu (la Loi), et nulle controverse n’est soulevée à l’égard de cette détermination dans le présent appel.
+[5] Le 23 décembre 2015, l’appelante a produit tardivement sa déclaration de revenus pour l’année d’imposition se terminant le 31 décembre 2014. Pourtant, l’appelante était tenue de produire sa déclaration le 2 juillet 2015. Dans sa déclaration, l’appelante a indiqué un revenu net imposable de 91 000,00 $, elle a demandé le crédit d’impôt à l’investissement (CII) pour la RS&DE et elle a déposé un formulaire Demande pour les dépenses de recherche scientifique et développement expérimental (RS&DE). L’appelante fait valoir qu’elle n’a pas reçu ni ne pouvait recevoir les fonds de TDDC en 2014, raisons pour lesquelles ils ont été déposés dans un compte en fidéicommis. Par conséquent, elle n’a pas déclaré les fonds avancés par TDDC dans sa déclaration de revenus de 2014. Ainsi, l’appelant n’avait aucun impôt à payer, compte tenu du crédit d’impôt.
+[6] Après un examen de la vérification, le ministre a reconnu les dépenses d’environ 373 000,00 $ liées aux activités de RS&DE, mais l’appelante a reçu une cotisation au motif qu’elle avait obtenu, au cours de l’année d’imposition 2014, une aide gouvernementale de 528 560,00 $ versée par TDDC. L’inclusion de cette somme par le ministre à l’égard de l’année d’imposition 2014 a entraîné une réduction des dépenses de RS&DE admissibles, et une récupération de ces mêmes dépenses a fait l’objet d’une cotisation de 188 704,00 $. En conséquence, le ministre a apporté des ajustements totaux de 494 066,00 $ au revenu net de l’appelante. En outre, un CII de 108 657,00 $ a été refusé, compte tenu de l’inclusion du montant de l’aide gouvernementale. (En réalité, ce montant devrait être de 102 497,00 $ plutôt que de 108 657,00 $, puisque l’appelante n’a pas tenu compte de la perception d’une aide non gouvernementale de 17 600,00 $, lorsqu’elle a calculé les dépenses admissibles aux fins du CII.) Tout cela a entraîné un impôt payable de 67 907,00 $, une pénalité pour récidive de production tardive de 13 581,40 $ ainsi que les intérêts courus sur les arriérés d’impôt non réglés.
+[7] Par la suite, l’appelante a présenté une demande de report rétrospectif d’une perte de 240 686,00 $ de l’année d’imposition 2015 à l’année d’imposition 2014. Le 22 août 2016, le ministre a établi une nouvelle cotisation pour l’année d’imposition 2014 de l’appelante, afin de tenir compte de la demande de cette dernière, ce qui a entraîné une réduction du montant de revenu imposable et une réduction correspondante de l’impôt payable établi, lequel est passé de 67 907,00 $ à 37 989,00 $. Le montant de la pénalité pour production tardive est demeuré inchangé.
+[8] La question dont je suis saisi consiste à savoir si l’appelante est passible de la pénalité pour production tardive et des intérêts qui lui ont été imposés. Pour trancher la question, il est nécessaire de déterminer si l’appelante a reçu ou non la somme de 528 560,00 $ de TDDC au cours de l’année d’imposition 2014. Si l’appelante n’a pas reçu la somme de 528 560,00 $ au cours de l’année d’imposition 2014, alors ladite somme ne doit pas être incluse dans les calculs des dépenses en RS&DE de l’appelante, du CII et de la récupération pour l’année d’imposition 2014. Il s’ensuivrait une annulation des pénalités et un nouveau calcul des intérêts, en fonction du montant d’impôt payable révisé à la date d’exigibilité.
+[9] Subsidiairement, l’appelante prétend aussi que le ministre a commis une erreur dans le calcul de la pénalité et des intérêts et que ladite pénalité et lesdits intérêts devraient être réduits, compte tenu du report rétrospectif d’une perte autre qu’en capital de l’année d’imposition 2015 de l’appelante, ce qui entraîne une réduction de son revenu imposable pour l’année d’imposition 2014.
+[10] La thèse de l’appelante veut qu’elle ait gagné un faible revenu au cours de l’année d’imposition 2014, lequel a été annulé par le CII pour la RS&DE, et qu’elle n’avait, par conséquent, aucun impôt à payer. Bien que l’appelante reconnaisse avoir produit sa déclaration de revenus de 2014 tardivement, elle soutient qu’elle ne s’attendait pas à ce qu’une pénalité et des intérêts soient établis, parce qu’elle croyait ne pas avoir d’impôt à payer. L’appelante prétend ne pas avoir « reçu » le financement de TDDC en 2014 et, qu’en conséquence, ces fonds ne devraient pas être utilisés pour le calcul et la réduction des crédits au titre de la RS&DE. Selon l’alinéa 37(1)d) de la Loi, une aide gouvernementale, comme le financement de TDDC, doit être affectée à l’année au cours de laquelle « le contribuable a reç[u], est en droit de recevoir ou peut vraisemblablement s’attendre à recevoir » les fonds. Comme l’appelante a déposé les fonds dans un compte en fidéicommis et qu’elle n’a pas satisfait aux conditions énoncées dans l’entente de contribution, elle n’a pas reçu les fonds de TDDC en 2014.
+[11] L’intimée prétend que le ministre a correctement établi les dépenses en RS&DE de l’appelante et le CII correspondant, parce que le financement de 528 560,00 $ de TDDC était une aide gouvernementale, au sens du paragraphe 127(9) de la Loi, que l’appelante a reçue, était en droit de recevoir ou pouvait vraisemblablement s’attendre à recevoir au cours de l’année d’imposition 2014. Le ministre a correctement imputé le montant du financement à la réduction du compte de dépenses en RS&DE déductibles de l’appelante, conformément à l’alinéa 37(1)d) de la Loi, et il a correctement établi une récupération des dépenses en RS&DE de 188 704,00 $, laquelle a eu pour effet de rendre l’appelante non admissible au CII pour la RS&DE. Conformément au paragraphe 162(2) de la Loi, la pénalité de 13 581,40 $ était justifiée, compte tenu de la production tardive de la déclaration de revenus de 2014. Les intérêts ont été correctement établis pour la période au cours de laquelle l’appelante était tenue de payer des impôts.
+[12] Bien que l’intimée ait consacré beaucoup de temps à la revue de la jurisprudence traitant de la question de savoir si des fonds répondent à la définition donnée à l’aide gouvernementale, cette question n’était pas en litige. En fait, l’avocate de l’appelante, dans ses observations pour le compte de la société, a souligné que cette dernière n’avait jamais soutenu que les fonds de TDDC étaient autre chose qu’une aide gouvernementale. La seule question en litige consiste à se demander si l’appelante doit la pénalité et les intérêts établis, et la réponse à cette question dépend entièrement du moment où l’appelante a reçu le financement de 528 560,00 $ de TDDC.
+[13] Le 23 décembre 2015, l’appelante a produit sa déclaration de revenus de 2014 tardivement parce qu’elle croyait ne pas avoir d’impôt à payer. L’appelante a cru qu’elle n’avait pas reçu les fonds de TDDC en 2014, parce qu’ils ont été délibérément déposés dans un compte en fidéicommis et que l’appelante devait encore satisfaire aux conditions lui permettant de les retirer et de les utiliser. Si l’appelante a reçu les fonds en 2014, alors son compte de dépenses en RS&DE déductibles et l’impôt payable seront touchés, de sorte que l’appelante devra payer la pénalité et les intérêts établis. Autrement dit, l’appelante a-t-elle « [...] reçu, [était-elle] en droit de recevoir ou [pouvait-elle] vraisemblablement s’attendre à recevoir » [alinéa 37(1)d)] les fonds de TDDC au cours de l’année d’imposition 2014?
+[14] Selon l’entente de contribution, certaines étapes devaient être franchies avant que l’appelante puisse demander à TDDC le versement du montant de la contribution au projet. Conformément à l’annexe C.3, [traduction] Versements prévus, la première avance de 528 560,83 $ était payable par TDDC une fois que les deux conditions suivantes avaient été respectées :
+[traduction] Payable lors de :
+1. la signature de l’entente de contribution
+2. la présentation à TDDC de pièces justificatives témoignant qu’Enbridge a soumis ses critères pour la réalisation des activités de la phase 2.
+(Entente de contribution, à la page 43)
+Cette seconde condition n’avait pas été satisfaite au moment où TDDC a avancé les fonds, puisqu’Enbridge, l’une des partenaires financiers du projet, a décidé, à la fin de 2014, de ne pas donner suite.
+[15] L’appelante prétend que, selon l’entente de contribution, comme toutes les conditions pour le versement des fonds par TDDC n’avaient pas été satisfaites, la somme de 528 560,00 $ ne peut pas avoir été reçue au cours de l’année d’imposition 2014, même si elle a été transférée à l’appelante et déposée dans un compte en fidéicommis.
+[16] Dans l’arrêt Hypothèques Trustco Canada c. Canada, [2005] 2 RCS 601, 2005 CSC 54, la Cour suprême du Canada énonce les principes d’interprétation législative servant à dégager l’intention d’une disposition. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Toutefois, lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial, particulièrement lorsqu’il est soutenu par le contexte et l’objectif législatif sous-jacents au libellé de la disposition.
+[17] Le terme [traduction] « recevoir » est défini de manière similaire dans un bon nombre de grands dictionnaires.
+[traduction] (A) 1. obtenir ou accepter (une chose offerte ou donnée)
+2. accepter la livraison de (une chose envoyée)
+Canadian Oxford Dictionary, seconde édition
+[traduction] (B) 1. entrer en possession de : obtenir (un cadeau)
+Webster’s Ninth New Collegiate Dictionary
+[traduction] (C) 1. prendre ou accepter entre ses mains ou en sa possession (une chose offerte ou donnée);
+2. accepter la livraison de (une chose envoyée); être un bénéficiaire (de) [...]
+[traduction] (D) être pourvu ou se voir donner; acquérir, obtenir
+The New Shorter Oxford English Dictionary, volume 2, N à Z
+[traduction] (E) obtenir ou se voir offrir quelque chose
+Cambridge Dictionary On Line
+[traduction] (F) (1) prendre (une chose offerte) entre ses mains ou en sa possession
+(2) [...]
+(3) accepter la livraison ou la transmission de
+Collins English Dictionary On Line
+[18] Le Black’s Law Dictionary, dixième édition, définit aussi le terme [traduction] « recevoir » de manière semblable aux définitions des dictionnaires :
+1. Prendre (une chose offerte, donnée ou envoyée, etc.); entrer en possession de ou obtenir d’une source extérieure [...]
+[19] Plusieurs cas ont traité du terme [traduction] « recevoir », particulièrement dans le contexte de bourses. L’avocate de l’appelante soutient que cette jurisprudence se distingue du présent appel, puisqu’elle traite de types de transfert différents du transfert, en l’espèce, d’une aide gouvernementale par TDDC à l’appelante. En outre, l’entente de contribution énonce diverses conditions contractuelles régissant l’utilisation de ces fonds. Toutefois, bien que ces décisions soient factuellement différentes, elles peuvent fournir une orientation sur la manière dont les cours ont traité la définition du terme « recevoir », de manière générale.
+[20] Dans la décision Jean-Paul Morin v The Queen, [1974] FCJ No 907, la Cour fédérale (première instance) a conclu qu’un employé qui n’avait, en fait, jamais eu en sa possession les fonds retenus à la source par l’employeur pour payer l’impôt fixé par règlement avait toutefois « reçu » les fonds :
+[24] [...] [traduction] le terme « recevoir » signifie obtenir quelque chose ou en tirer bénéfice, profiter de ses avantages sans nécessairement l’avoir en sa possession [...].
+[...]
+[26] [...] [traduction] les expressions « tirer profit de, tirer avantage de ou profiter de » sont comprises dans le terme générique « recevoir ».
+[21] Dans l’arrêt Jones c. La Reine, [2002] ACI no 338, [2002] 3 CCI 2483 (CCI), la Cour a cité avec approbation le raisonnement dans la décision Morin et elle a conclu que le contribuable avait reçu le montant de la bourse d’études, versé au moyen de saisies comptables pour payer les frais de scolarité, parce qu’il avait bénéficié de ces fonds, même s’il n’en avait jamais eu la possession matérielle. Dans l’arrêt Jones, la Cour, au paragraphe 59, a mentionné plusieurs affaires et elle a affirmé qu’elles étayaient toutes « [...] la proposition voulant que, pour que l’on considère qu’un contribuable a reçu un avantage, il n’est pas nécessaire que le contribuable ait en fait eu l’argent entre les mains; il suffit qu’il ait reçu une valeur en argent et qu’il ait bénéficié ou profité de quelque chose ». Dans l’arrêt Simser c. Canada, 2004 CAF 414, la Cour d’appel fédérale a cité avec approbation le raisonnement de l’arrêt Jones.
+[22] Dans l’arrêt Mbarga v. The Queen, 2005 CCI 595, le juge Bell a suivi le raisonnement appliqué dans la décision Morin et dans l’arrêt Jones en concluant, au paragraphe 5, que le terme « réception » comprend la réception implicite.
+[23] Dans l’arrêt Canada c. Livingston, 2008 CAF 89, la Cour d’appel fédérale a examiné s’il y avait eu un « transfert » de biens, aux termes de l’article 160 de la Loi. Au paragraphe 21, la Cour a affirmé ce qui suit :
+[21] Le dépôt de sommes sur le compte bancaire d’une autre personne constitue un transfert de biens. Rappelons, pour lever toute ambiguïté, que le dépôt de sommes par Mme Davies sur le compte de l’intimée permettait à cette dernière de les en retirer n’importe quand. Le bien transféré était le droit d’exiger de la banque qu’elle remette à l’intimée la totalité des sommes déposées. La valeur de ce droit était la valeur totale desdites sommes.
+Compte tenu des conclusions de la cour, si des fonds « transférés » sur le compte bancaire d’une personne constituent un « transfert », de même, il s’agit également d’une « réception » desdits fonds par cette personne.
+[24] En appliquant l’interprétation qui précède aux faits de l’espèce, je conclus que l’appelante a reçu les fonds de TDDC totalisant 528 560,00 $ au cours de l’année d’imposition 2014. TDDC a remis un chèque à l’appelante en 2014. Le chèque a été émis malgré le fait que la seconde condition préalable à l’avance de cette somme n’avait pas et n’a jamais été satisfaite (annexe C.3, entente de contribution). Au paragraphe 3.5 de l’entente de contribution, il est stipulé que l’obligation de TDDC de faire un versement à l’appelante :
+[traduction] [...] dépend du respect de chacune des conditions suivantes au plus tard à la date prévue pour chaque paiement, ou de la renonciation à ces conditions par TDDC, à sa seule discrétion :
+a) Exactitude des déclarations et des garanties [...]
+b) Exécution. Le bénéficiaire admissible devra avoir exécuté et respecté l’ensemble des ententes et conditions contenues dans la présente entente, lesquelles il est tenu d’exécuter et de respecter au plus tard à la date du paiement;
+c) Versement [...]
+[Non souligné dans l’original.]
+[25] Selon le libellé de cette disposition, TDDC pouvait, aux termes de l’entente de contribution, avancer et transférer un versement avant la réalisation de l’objectif de l’étape énoncé dans l’entente. C’est ce qui s’est produit en l’espèce. Lorsque l’appelante a reçu l’avance, elle a déposé les fonds dans un compte en fidéicommis à la Banque CIBC. Au cours de son contre-interrogatoire, M. Timothy Thompson, actuel président du conseil d’administration de Borealis Geopower, a expliqué que les fonds sont restés dans le compte en fidéicommis [traduction] « jusqu’au moment où nous avons été autorisés à les retirer ». (Transcription, page 38, lignes 21 et 22). Toutefois, l’entente de contribution ne prévoit rien concernant la réalisation des étapes une fois qu’une telle avance est versée ainsi qu’à l’égard des avances déposées dans un compte en fidéicommis ouvert par un bénéficiaire admissible.
+[26] L’appelante avait un accès exclusif aux fonds dans son compte en fidéicommis. Elle avait le pouvoir d’y déposer des fonds et d’en retirer. Aucune convention de fiducie n’avait été établie entre TDDC et l’appelante. Il existait peut-être une entente officieuse concernant ces fonds, mais l’appelante n’était pas tenue d’aviser TDDC lorsqu’elle transférait des fonds du compte en fidéicommis à un autre compte. (Transcription, page 40) L’appelante informait TDDC [traduction] « [...] du solde du compte à l’occasion, à la demande de cette dernière [...] » (Transcription, page 40, lignes 21 et 22). En réalité, il semble que TDDC n’a formulé aucune restriction quant à l’utilisation des fonds restants dans le compte en fidéicommis jusqu’au 16 septembre 2016, date à laquelle elle a indiqué à l’appelante, au moyen d’une lettre, que cette dernière ne devait pas retirer d’autres fonds du compte sans son consentement écrit (pièce A-3).
+[27] Lors de son réinterrogatoire, M. Thompson a fourni d’autres éléments de preuve du contrôle exercé par l’appelante sur les fonds contenus dans le compte en fidéicommis. Il a expliqué que les retraits étaient effectués à mesure que les travaux se poursuivaient, mais qu’en fin d’exercice des sommes étaient déposées de nouveau, compte tenu des découverts. [traduction] « [...] nous nous sommes retrouvés dans une position où nous avions pris moins que ce à quoi nous nous étions obligés, et c’est ainsi que nous procédions en quelque sorte ». (Transcription, page 48, lignes 13 à 15).
+[28] Conformément au sens ordinaire du dictionnaire du verbe « recevoir », l’appelant a effectivement obtenu et accepté une avance de fonds versée par TDDC, au moyen d’un chèque. L’avance a été versée avant l’achèvement de la première étape et aucune condition n’a été ajoutée au transfert. L’appelante a pris livraison. Elle a été en possession du chèque. Elle a décidé de son propre chef d’ouvrir un compte en fidéicommis et d’y déposer les fonds. Elle exerçait un contrôle sur les fonds en ce qui concernait les dépenses du projet de travail, c’est-à-dire à quel moment effectuer des retraits et quelles sommes retirer.
+[29] Le deuxième argument de l’appelante, selon lequel la pénalité et les intérêts liés à la production tardive ont été mal calculés, ne peut être retenu. Pour les années d’imposition 2011 et 2013, l’appelante était tenue de produire ses déclarations de revenus le 3 juillet 2012 et le 2 juillet 2014 respectivement. Toutefois, ces déclarations n’ont été produites que le 30 juin 2015. Pour l’année d’imposition 2014, l’appelante a produit sa déclaration de revenus le 23 décembre 2015, alors qu’elle était tenue de la produire le 2 juillet 2015. La pénalité a été calculée conformément au paragraphe 162(2) de la Loi, en tenant compte d’une période de cinq mois au-delà de la date limite de production. Ce retard a entraîné une pénalité pour production tardive de 13 581,00 $.
+[30] Le paragraphe 162(11) de la Loi traite des conséquences des événements ultérieurs sur l’impôt payable par un contribuable pour l’année, notamment le calcul d’une pénalité :
+Conséquence des événements ultérieurs
+(11) Pour le calcul des pénalités prévues aux paragraphes (1) et (2) pour non-production de la déclaration de revenu d’une personne pour une année d’imposition, l’impôt payable par la personne pour l’année en vertu de la présente partie est calculé avant la prise en compte des conséquences fiscales futures déterminées pour l’année.
+[31] L’expression « conséquences fiscales futures déterminées », énoncée au paragraphe 162(11), est définie au paragraphe 248(1) comme comprenant les conséquences d’une déduction ou d’une exclusion d’un montant visé à l’alinéa 161(7)a) de la Loi.
+Effet du report d’une perte sur une année antérieure
+(7) Pour le calcul des intérêts à verser en application des paragraphes (1) ou (2) sur l’impôt ou sur une partie d’un acompte provisionnel pour une année d’imposition et pour l’application de l’article 163.1 :
+(a) l’impôt payable par le contribuable pour l’année en vertu de la présente partie et des parties I.3, VI et VI.1 est réputé être égal à la somme qui serait payable à ce titre si les conséquences de la déduction, de la réduction ou de l’exclusion des montants ci-après n’étaient pas prises en compte [...].
+[32] En conséquence, l’impôt payable par l’appelante, aux fins du calcul de la pénalité pour production tardive pour l’année d’imposition 2014, ne peut être calculé en tenant compte du report rétrospectif d’une perte autre qu’en capital ou du report rétrospectif du CII. Cette application des dispositions au calcul de la pénalité dans le présent appel est aussi soutenue par la jurisprudence (Zandi c. La Reine, 2012 CCI 259, 2012 DTC 1246). Conformément à ces dispositions, le ministre a correctement calculé la pénalité pour production tardive. Le report rétrospectif d’une perte autre qu’en capital subie en 2015 ne peut être pris en compte pour le calcul de l’impôt payable par l’appelante pour l’année d’imposition 2014, aux fins du calcul de la pénalité pour production tardive.
+[33] De même, conformément au paragraphe 161(7) de la Loi, les déductions liées aux reports rétrospectifs utilisés pour réduire l’impôt sur le revenu d’une année d’imposition précédente n’entreront pas dans le calcul des intérêts pour ladite année. Dans l’arrêt Connaught Laboratories Ltd. v The Queen, [1994] FCJ No. 1681, 94 DTC 6697, la Cour d’appel fédérale a conclu que le libellé du paragraphe 161(7) ne présentait aucune ambiguïté et que la disposition ne contrevenait pas à l’intention et à l’objet de la Loi. Le ministre a correctement calculé les intérêts exigibles sur l’impôt qui aurait été payable par l’appelante, en ne comptant pas le report rétrospectif d’une perte autre qu’en capital à l’année d’imposition 2014. Les intérêts ne seront pas éliminés à l’égard d’un solde d’impôt impayé qui est calculé avant un report rétrospectif de pertes ou d’un CII d’une année d’imposition subséquente.
+[34] Pour ces motifs, l’appel est rejeté sans dépens.
+Signé à Summerside (Île-du-Prince-Édouard), ce 13e jour de septembre 2018.
+« Diane Campbell »
+La juge Campbell
+RÉFÉRENCE :
+2018 CCI 189
+NO DU DOSSIER DE LA COUR :
+2017-3210(IT)I
+INTITULÉ :
+BOREALIS GEOPOWER INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 22 juin 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 13 septembre 2018
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Melanie Pituch
+Avocat de l’intimée :
+Me Peter Basta
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Melanie Pituch
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

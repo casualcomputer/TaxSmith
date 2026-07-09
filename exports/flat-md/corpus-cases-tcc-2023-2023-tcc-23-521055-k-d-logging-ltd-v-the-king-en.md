@@ -1,0 +1,260 @@
+---
+title: "K & D Logging Ltd. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521055/index.do"
+last_modified: "2023-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 23"
+citation2: ""
+neutral_citation: "2023 TCC 23"
+decision_date: "2023-02-22"
+language: "en"
+item_id: "521055"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5785
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:45:16.172000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "05d6c4745e225ba16f5f0e075183afe80a803a6f285b88bae6c6c147f507f7ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# K & D Logging Ltd. v. The King
+
+- Citation: 2023 TCC 23
+- Decision date: 2023-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5785, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+K & D Logging Ltd. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-02-22
+Neutral citation
+2023 TCC 23
+File numbers
+2017-4536(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4536(IT)G
+BETWEEN:
+K&D LOGGING LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard November 17 and 18, 2021 at Vancouver, British Columbia
+Before: The Honourable Justice Bruce Russell
+Appearances:
+Counsel for the Appellant:
+Frank Quo Vadis
+Counsel for the Respondent:
+Spencer Landsiedel
+Alexander Wind
+JUDGMENT
+The appeal of the Appellant’s August 17, 2017 reassessments of its 2005 and 2006 taxation years is denied, with costs to the Respondent. The parties are requested to file with the Court written submissions as to costs on or before March 31, 2023.
+Signed at Halifax, Nova Scotia this 23rd day of February 2023.
+“B. Russell”
+Russell J.
+Citation: 2023 TCC 23
+Date: February 23, 2023
+Docket: 2017-4536(IT)G
+BETWEEN:
+K&D LOGGING LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+I. Introduction:
+[1] The appellant, K&D Logging Ltd. (K&D), appeals reassessments of its 2005 and 2006 taxation years, raised by the Minister of National Revenue (Minister) August 17, 2017 under the federal Income Tax Act (Act).
+[2] K&D’s appeal focuses on the Minister’s denial of deductions in the amounts of $495,083 (2005 taxation year) and $6,970 (2006 taxation year), claimed by K&D per subsection 20(21) of the Act.
+II. Issue:
+[3] The respondent Crown maintains that both claimed deduction amounts were not deductible but rather, constituted imputed income per subsection 17(1) of the Act.
+III. Agreed Facts & Evidence:
+[4] The parties submitted a “partial statement of agreed facts” which included the following agreed facts:
+i. K&D is a resident of Canada and in the logging business;
+ii. K&D’s initial shareholders were Kenneth Rasmussen and David Hoy;
+iii. David Hoy passed away in 1998;
+iv. Interan S.A. (Interan) was not a resident of Canada and was incorporated March 31, 1996 under the laws of Uruguay. Interan was in the business of tree farming, cattle ranching and agriculture, specifically a eucalyptus plantation in Uruguay;
+v. as of September 30, 2004, K&D owned the greatest percentage of Interan of all four Interan shareholders. Interan’s shareholder interest then was 44.41%. K&D’s interest in Interan never exceeded that percentage;
+vi. K&D advanced funds to Interan under an agreement dated May 2, 1996 (Loan; 1996 Loan Agreement);
+vii. the 1996 Loan Agreement was drafted by a lawyer in a Uruguayan law firm, Hughes & Hughes;
+viii. David Hoy negotiated the 1996 Loan Agreement on behalf of K&D;
+ix. under the 1996 Loan Agreement:
+i. Interan was the “Borrower”;
+ii. K&D, 82301 International Ltd., Fairwinds Holdings Ltd. and Sebalcor S.A. were the “Lenders”; and
+iii. any payment by Interan insufficient to cover an amount due would be applied in the following order: (1) fees and expenses; (2) overdue payments and interest thereon; (3) interest; and (4) principal;
+x. in the 1996 Loan Agreement the rate of interest was left blank;
+xi. there is no other agreement or correspondence between K&D and Interan that addresses when interest was payable by Interan to K&D re the Loan, other than the 1996 Loan Agreement itself;
+xii. Deloitte LLP prepared K&D’s financial statements and income tax returns for the 1997 to 2006 taxation years based on information provided by K&D’s internal accounting staff;
+xiii. K&D annually reported income with respect to the Loan on its income tax returns for the 1997 to 2005 taxation years as follows: $35,209 (1997); $76,816 (1998); $91,215 (1999); $105,306 (2000); $107,564 (2001); ($46,329) (2002); $46,250 (2003); $37,792 (2004); $41,259 (2005); and $6,970 (2006);
+xiv. in calculating these annual reported amounts DeLoitte LLP used the interest rates prescribed in the Income Tax Regulations;
+xv. K&D reported the reported annual amounts on Schedule 1 of its T2 income tax returns, included in “Net income (loss) after taxes and extraordinary items per financial statements”;
+xvi. K&D booked the amounts as interest receivable in its books and records;
+xvii. Deloitte LLP prepared a summary of the total interest and principal receivable from Interan in relation to the Loan. That summary was based on information provided by K&D’s internal accounting staff. The amounts of interest indicated in the summary are the same as the annual reported amounts, calculated using the prescribed rates;
+xviii. Deloitte LLP used the balances from its summary in preparing K&D’s financial statements;
+xix. K&D’s directors approved its income tax return for each year;
+xx. in 2005, K&D determined that the total amount booked as interest receivable of $495,083 on the Loan would not be received and as such it was written-off as a bad debt;
+xxi. in 2006, K&D determined that a further amount of $6,970 that was booked as interest receivable would not be received;
+xxii. as of December 31, 2005 the total amount of principal outstanding on the Loan was $1,628,173;
+xxiii. on or about February 23, 2006, K&D received a payment of $1,350,651 from Interan in repayment of the outstanding balance of the Loan.
+[5] At the hearing K&D called the two witnesses who testified. They were Ben Hoy (son of David Hoy), president of K&D since 2003, and retired DeLoitte LLP accountant Charles Buchan, who on behalf of his firm had advised K&D’s shareholders from K&D’s 1972 incorporation until his retirement in 2006, and thereafter until 2015 as a DeLoitte consultant.
+[6] Mr. Buchan testified that in or about April and May 1996 [1] the then K&D shareholders, Messrs. D. Hoy and Rasmussen, had travelled to Uruguay to look into potential K&D involvement with Interan.
+[7] Both witnesses testified that only in 2009 had they become aware of the 1996 Loan Agreement itself, which showed that the Loan (which of course they were aware of) had not borne interest given its blank space for entry of any rate of interest.
+[8] Mr. Buchan was asked if he had asked Mr. D. Hoy before his death in 1998 if a written agreement existed pertaining to the Loan. Mr. Buchan responded, “Well, I can’t recall whether I did or didn’t, I’m uncertain… I’m trying to be honest with you, I don’t recall whether I asked or not. I would expect if he had one he would have given it.” [2]
+[9] Mr. Buchan testified that in 1996, in speaking with Mr. D. Hoy (who on behalf of K&D had negotiated the terms of the Loan and signed the 1996 Loan Agreement) about the Loan, he (Mr. Buchan), “suggest[ed] that we consider charging interest because the only security for any of the loans down there were the underlying assets”. [3]
+[10] Mr. Buchan testified also that he, “…had a concern about the fact, well, was this an outlay or an income for tax purposes? Because if we just show the advances without any interest being earned on it and it went bad, would we have a problem getting a write-off?” [4]
+[11] In his direct examination Mr. Buchan was asked what interest rate K&D applied to the Loan. He answered:
+…that was a difficult scenario because in hindsight there was no interest indicated, but the fact was that we had to determine something in ’96. So, what we had done is we went to past history, because if you go back to ’96 there are loans to shareholders and a related company of K&D, and we charged interest on those loans. These were amounts they paid, and we used the prescribed rate under the Income Tax Act. So I said to David [Hoy] it would be fair if we looked at charging the same rate on the monies that we advanced to Interan, and he didn’t disagree with that. He said that was fine. [5] (underlining added)
+[12] In cross-examination Mr. Buchan further testified:
+…Interan was a new venture. We didn’t know at the time we looked at it who those parties were, whereas in here we would know [who] these parties were. So, basically what we looked at is what history did we have in charging interest? Probably could have been an argument the interest rates should have been far higher then the prescribed rate because of the risk factor. But we didn’t do that, because historically what we had done before in situations that were similar, we had charged the prescribed rate.
+So, that’s why we had a rate. We could have said it was nil. But why would we do that? We had no security for the loan, we wanted to look at the tax issues that would have arisen if it became a bad debt, and so we decided what history did we have in charging the prescribed rate, and then we went back and looked at these loans where we had it. Like you say, some are prescribed, and some are not, but that’s the history that we had. We had really not a lot of comparisons, let's put it that way.
+Q. So because you hadn’t seen the agreement, you guessed, an educated guess at what the interest rate should be.
+Well that’s an interesting question you’re asking because we didn’t guess anything. What we decided to do at the time, because we didn’t know what the contents - we didn’t know there was a loan agreement, to be honest with you, at the time. We are talking about ‘96 now, not the loan agreement that was drafted on [May] the 2nd, because we never saw that agreement. We just said given the risk factors of this loan, we should be charging interest, because if we don’t and it goes bad, [is] the CRA going to come back and say, “Well you never had an outlay to earn income with no expectation of profit.” That’s really what pushed us. [6] (underlining added)
+[13] Further to the 1996 Buchan/D. Hoy discussion that Mr. Buchan spoke of wherein they agreed that K&D would charge Interan interest using prescribed rates, there is no evidence that K&D at any subsequent time obtained or sought Interan agreement that the Loan bear interest, at any rate.
+[14] As well there is no evidence that K&D ever sought to notify Interan that, at least in K&D’s view, Interan owed interest to K&D.
+[15] On July 11, 2009, in the course of a Canada Revenue Agency (CRA) audit of K&D’s 2005 and 2006 taxation years, Mr. Buchan communicated with Interan’s Uruguayan lawyers regarding the Loan. In reply the lawyers sent him a copy of the 1996 Loan Agreement, that Mr. Buchan testified he had never seen before. As noted above, it showed that interest was not payable on the Loan.
+[16] As stated in K&D’s counsel’s written submissions, because there was no interest rate indicated in the 1996 Loan Agreement and Interan had never paid any interest, Mr. Buchan “was of the view that the interest had been included in the income of the Appellant [K&D] in error.” [7]
+[17] The Minister, now aware of the 1996 Loan Agreement, on August 14, 2009 reassessed K&D’s 2005 and 2006 taxation years, denying the claimed deductions - $495,083 (2005) and $6,970 (2006). This was as the 1996 Loan Agreement, reflecting that the Loan was interest free, thus provided no basis for K&D booking receivable interest. Consequently, in light of the Loan not bearing interest, the Minister re-calculated imputed income to be reported per subsection 17(1).
+[18] K&D served notices of objection respecting these August 14, 2009 reassessments. In response, on August 17, 2017 the Minister further reassessed K&D’s 2005 and 2006 taxation years, confirming denial of the two claimed deductions. As noted, these reassessments now are before the Court.
+IV. Analysis:
+[19] The question is whether the two amounts K&D claimed as deductions ($495,083 (2005)) and $6,970 (2006)) are deductible, given that the Loan was interest free.
+[20] Mr. Buchan testified that in 2009 he and K&D became aware of the 1996 Loan Agreement, which showed that the Loan, originating in 1996 and closed in 2006, did not bear interest.
+[21] The reassessments of the 2005 and 2006 taxation years that are appealed reflect the reality that the Loan was interest free.
+[22] The respondent Crown pleaded in its Reply (para. 13):
+13. The Attorney General of Canada submits that [K&P] was not entitled to deductions of $495,083 and $6,970 for the 2005 and 2006 taxation years, respectively, on the disposition of a debt obligation under subsection 20(21) of the Act, because there was no interest payable on the [1996 Loan] Agreement. More specifically, [K&P] did not include in income for the 2006 taxation year or any preceding taxation year interest payable on the [1996 Loan] Agreement, but rather, reported an amount of no more than $502,053 in order to comply with subsection 17(1) of the Act. As the amount reported under subsection 17(1) is not itself an amount of accrued interest, there are no amounts that were included in computing [K&P’s] income for the 2006 and preceding taxation years as interest in respect of the [1996 Loan] Agreement. (underlining added)
+[23] The respondent Crown maintains that because the Loan was interest free, K&D was wrong to have annually booked “receivable interest” and report income on that basis. It is understood that K&D does not refute this.
+[24] The respondent further maintains that with the Loan not bearing interest, subsection 17(1) required K&D to have annually reported imputed income calculated at prescribed rates, which imputed income would not be deductible whether pursuant to subsection 20(21) or otherwise.
+Subsection 17(1):
+[25] Subsection 17(1) has existed in various iterations since 1934. [8] Set out below in relevant part are the two versions respectively in force during K&D’s 1997 and 1998 taxation years, and during K&D’s 1999 through 2006 taxation years.
+17(1) version in force during K&D’s 1997 and 1998 taxation years:
+17(1) Amount owing by non-resident [deemed interest income] If this subsection applies to a corporation resident in Canada in respect of an amount owing to the corporation (in this subsection referred to as the “debt”), the corporation shall include in computing its income for a taxation year the amount determined by the formula;
+A-B
+Where A is the amount of interest that would be included in computing the corporation’s income for the year in respect of the debt if interest on the debt were computed at the prescribed rate for the period in the year during which the debt was outstanding; and
+B is the total of all amounts each of which is
+(a) an amount included in computing the corporation’s income for the year as, on account of, in lieu of or in satisfaction of interest in respect of the debt…
+17(1) version in force during K&D’s 1999 through 2006 taxation years:
+17. (1) Where, at any time in a taxation year of a corporation resident in Canada, a non-resident person owes an amount to the corporation, that amount has been or remains outstanding for more than a year and the total determined under paragraph (b) for the year is less than the amount of interest that would be included in computing the corporation’s income for the year in respect of the amount owing if that interest were computed at a reasonable rate for the period in the year during which the amount was owing, the corporation shall include an amount in computing its income for the year equal to the amount, if any, by which
+(a) the amount of interest that would be included in computing the corporation’s income for the year in respect of the amount owing if that interest were computed at the prescribed rate for the period in the year during which the amount was owing exceeds
+(b) the total of all amounts each of which is
+(i) an amount included in computing the corporation’s income for the year as, on account of, in lieu of or in satisfaction of, interest in respect of the amount owing…
+[26] The above version of subsection 17(1), in force during K&D’s 1999 through 2006 taxation years, requires simply that the imputed “amount” be reported as income. In the above subsection 17(1) version in force during K&D’s 1997 and 1998 taxation years, the imputed amount was deemed to be interest, and reportable as interest income.
+[27] In general, subsection 17(1) applies where an amount owed by a non‑resident person (e.g. Interan) to a Canadian resident corporation (e.g. K&D) bears no or unreasonably low interest, and that owed amount has been outstanding for more than a year (e.g., the Loan, commenced in 1996).
+[28] In 1970 the Tax Appeal Board described the general purpose of the then version of subsection 17(1):
+This section is aimed at preventing a corporation that is resident in Canada and therefore taxable therein from using its capital abroad by means of non-interest-bearing loans in order to avoid our income tax on profits to be gained thereby. [9]
+[29] In 1999, G. Watson and S. Baum similarly specified the purpose of the then version of subsection 17(1):
+…section 17 is a specialized transfer-pricing and income imputation provision that, together with, and in some cases potentially overlapping, the FAPI regime and the shareholder loan rules in subsection 15(2), is intended to prevent corporate taxpayers from issuing interest-free or low-interest loans to non-residents to reduce Canadian income tax. [10] (underlining added)
+[30] With respect to the subsection 17(1) version applying to K&D for its 1999 through 2006 taxation years, the imputed income to be reported is, “…equal to the excess of the interest on the amount owing, computed using the prescribed rate under the Act, over the amount included in income under paragraph 17(1)(b).” [11]
+[31] In this case the Loan bore no interest. Therefore, properly, there could not have been any “receivable interest” that K&D had annually booked and reported as income.
+[32] Thus per subparagraph 17(1)(b)(i), there correctly was no, “interest in respect of the amount owing”. Therefore there could not have been any amounts of added income, referenced as booked receivable interest or otherwise, as being, “…on account of, in lieu of or in satisfaction of interest in respect of the amount owing”. [12] Properly there would be a paragraph 17(1)(b) amount of nil to subtract from the paragraph 17(1)(a) amount being the amount owed, multiplied by the pertinent prescribed rate. That would leave the paragraph 17(1)(a) amount itself as the imputed amount to be claimed as income for each of the taxation years, from 1999 to 2006 inclusive. The same would be so for the prior version of subsection 17(1), except that the resulting imputed amount to be added as income would be deemed to be interest.
+[33] As reflected in testimony above set out, K&D took Mr. Buchan’s advice to charge the prescribed rate as interest on the Loan, which was booked as “receivable interest” and reported as income. Although, nothing was done to obtain Interan’s agreement to actually make the charging of such interest a term of the Loan.
+[34] Thus the amounts K&D wrongly had reported as income on account of “receivable interest” from 1997 to 2006, equates with the annual amount of imputed income that per subsection 17(1) should have been reported. That is because subsection 17(1) requires use of the prescribed rate while at the same time K&D selected the prescribed rate to apply in calculating its amount of annual income referable to the fictional “receivable interest”.
+[35] In other words, K&D annually reported the correct income in relation to the Loan, albeit on the wrong basis - i.e., as booked receivable interest, rather than imputed income per subsection 17(1), in recognition that the Loan was interest free. And, these annually reported income amounts total the amounts of $495,083 (2005) and $6,970 (2006), that K&D claims as being deductible.
+[36] K&D argues that the annual amounts it booked as receivable interest, although wrongly as the Loan was interest-free, nevertheless should be recognized as receivable interest for purposes of the subsection 17(1) calculation of imputed income. After all that is what was booked.
+[37] I do not concur. That would bring the result of the subsection 17(1) calculation of imputed income to be nil, relying on delayed awareness that the Loan was interest-free. This would fly in the face of the above-noted purpose of subsection 17(1), being to impute income in respect of Canadian corporations that have made interest free or unreasonably low interest loans to non-residents that remained place for more than a year. Here, the Loan was interest-free, made to a non-resident person by a Canadian corporation. The imputed income cannot be nil if subsection 17(1) is to mean anything.
+[38] Parliament undoubtedly intended that an amount reported as being “receivable interest” actually be receivable interest. Fictional amounts cannot be condoned. This is particularly so in light of the transfer-pricing purpose that subsection 17(1) served.
+[39] K&D submits that if section 17 applies, the 1996 Federal Court Trial Division reconsidered decision of Liampat Holdings Ltd. v. R., 96 D.T.C. 6044, 109 F.T.R. 43 (FCTD), supports that the imputed interest deemed received (per the above older version of subsection 17(1) set out above) would be deductible. In Liampat the particular loan agreement provided that interest be paid, “at a reasonable rate” when the borrower could afford to pay or was wound up. In fact no interest was received.
+[40] The appellant K&D posits in its written submissions (p. 3) that the present case and Liampat are alike insofar as, “interest may have been payable at some stage”. Of course in Liampat that is true, given its particular interest provision. As for the Loan in the present case K&D references the fact that in the 1996 Loan Agreement a provision for rate of interest was left blank. But K&D refers to no evidence providing any basis for speculation that this provision might ever be re-visited. Indeed, the very existence of the 1996 Loan Agreement supposedly was unknown to K&D and Mr. Buchan during the entire 1996 – 2006 life of the Loan, and until 2009.
+[41] Accordingly I find Liampat not applicable to the present case. With the Loan bearing nil interest, subsection 17(1) is applicable, entirely in line with its above-noted transfer-pricing purpose.
+[42] By recognizing in this matter the non-existence of “receivable interest”, by operation of law the correctly calculated amount of imputed income per subsection 17(1) applies. On these facts the correct amounts of imputed per subsection 17(1) perfectly correspond with the amounts annually reported in respect of the Loan and wrongly claimed to be in respect of “receivable interest”.
+[43] Thus the true legal nature of each of the two amounts in issue being $495,083 (2005) and $6,970 (2006) is that the first is an aggregate amount of properly calculated imputed income for the years 1997 through 2005, per subsection 17(1). The second is the properly calculated imputed income amount for the 2006 taxation year.
+[44] Further, how could Parliament contemplate the quantum of “interest in respect of the amount owing” for a non-interest bearing loan as being anything but nil/zero. To suggest that Parliament does not care if amounts reported as income do not actually pertain to, “interest in respect of the debt/amount owing”, opens the door to basically any figure being so identified and reported. Such would fatally flaw subsection 17(1)’s ability to effect its transfer-pricing purpose.
+[45] The fact that it was only in 2009, well after the relevant 1997 – 2006 period, that the appellant K&D is said to have ascertained (in the course of a CRA audit) the true fact that the Loan was interest free, should not assist K&D in its denial of the reassessments at issue. Those reassessments reflect calculation of subsection 17(1) imputed income for each pertinent taxation year on the basis of that true fact that the Loan was interest free. That is entirely appropriate. A fundamental role of reassessments under the Act is to supersede prior assessments/reassessments founded on wrong facts.
+[46] That K&D may well have had subsection 17(1) in mind all along is supported by several facts: (i) Mr. Buchan was well aware of subsection 17(1) as confirmed in a 1998 letter he wrote to another accountant; [13] ii) the annual reported amounts were exactly those amounts as would be calculated as imputed income by subsection 17(1) in recognizing the Loan to be interest free; and (3) no “receivable interest” was reported for the 1996 taxation year in which year the Loan was made. Rather, such reporting was only commenced with the 1997 taxation year. That is consistent with the subsection 17(1) proviso that it only begins to apply where the particular debt has been outstanding for more than a year.
+[47] In any event it is not for taxpayers but rather for the Act itself to determine the tax charging provisions that apply, in light of a factually accurate and relevant context.
+[48] I find in this appeal that properly subsection 17(1) has application, on the factually accurate basis of the Loan at al times having been interest free.
+Subsection 20(21):
+[49] I also address subsection 20(21) of the Act. K&D argues that the sought deductions should be allowed per that provision, which reads in relevant part:
+20(21) [Deduction on disposition of] Debt obligation If a taxpayer has in a particular taxation year disposed of a property that is an interest in, or for civil law a right in, a debt obligation for consideration equal to its fair market value at the time of disposition, there may be deducted in computing the taxpayer’s income for the particular year the amount, if any, by which
+(a) the total of all amounts each of which is an amount that was included in computing the taxpayer’s income for the particular year or a preceding taxation year as interest in respect of that property exceeds the total of all amounts each of which is
+(b) the portion of an amount that was received or became receivable by the taxpayer in the particular year or a preceding taxation year that can reasonably be considered to be in respect of an amount described in paragraph 20(21) (a) and that was not repaid by the taxpayer to the issuer of the debt obligation because of an adjustment in respect of interest received before the time of disposition by the taxpayer, or
+(c) an amount in respect of that property that was deductible by the taxpayer by virtue of paragraph 20(14)(b) in computing the taxpayer’s income for the particular year of a preceding taxation year.
+[50] Subsection 20(21) permits a lender taxpayer to deduct for interest to the extent a debt obligation is subsequently disposed of at fair market value without recovery of interest that the taxpayer has previously reported (e.g., accrued, received, receivable) as income.
+[51] K&D states that it remains entitled to the claimed deductions because per the language of paragraph 20(21)(a), the claimed deductions are constituted of “amounts each of which is an amount that was included in computing the taxpayer’s income for the particular year or a preceding taxation year as interest in respect of that property [i.e., debt obligation]”.
+[52] K&D says it does not matter that in reality there was no “interest in respect of that property”, such that the annual income inclusions based on supposed “receivable interest” were wrong.
+[53] I consider that subsection 20(21) has no application. As concluded above, subsection 17(1) applies, in the context of accurate facts, resulting in the annual reported amounts being imputed income amounts per subsection 17(1).
+[54] Subsection 20(21) cannot apply where subsection 17(1) does. Allowing a subsection 20(21) deduction for reported income on the basis of fictional receivable interest would completely nullify the intended purpose and effect of subsection 17(1). It would leave the appellant in a better place than if the true situation of the Loan being non-interest bearing had governed from the start. Lack of candour would be encouraged.
+[55] The appellant cites Cohen v. Minister of National Revenue, 1988 CarswellNat 405, [1988] 2 C.T.C. 2021, 88 D.T.C. 1404 (T.C.C.), in respect of subsection 20(21). In this 1988 decision this Court determined that an amount erroneously reported as interest by the taxpayer should be included in computing a taxpayer’s entitlement to a subsection 20(21) deduction.
+[56] The difference however is that, unlike in Cohen, here there is a counterpart tax liability provision, being subsection 17(1), that should operate to the extent erroneously claimed interest income is recognized. In the result the reported income remains, but as imputed subsection 17(1) income.
+[57] Thus, Cohen cannot extend to this case, wherein the calculated amount of subsection 17(1) imputed income increases dollar for dollar to the extent the amount of income based on bogus claimed receivable interest is reduced or eliminated.
+[58] Additionally, K&D counsel in his oral submissions stated, “…the appellant is not arguing that subsection 20(21) applies where income is included under section 17.” [14] Thus I do not believe there is an issue here as between the parties.
+[59] One might ask why K&D seemed intent on booking receivable interest in the first place. The answer appears to be Mr. Buchan’s above-noted concern that if the Loan went bad, without a provision for interest there could be “a problem getting a write-off”.
+Alternatively, Interest was Receivable and Received:
+[60] I concur with the respondent’s alternative argument that, assuming interest was payable by Interan, there remains no entitlement to a subsection 20(21) deduction, as K&D received full payment of any interest due when on February 23, 2006 it received Interan’s partial repayment of $1,350,561, being 83% repayment of the $1,628,173 outstanding balance of the Loan.
+[61] Section 6.3 of the 1996 Loan Agreement provides for an ordered allocation of funds where the overall payment is less than the full outstanding balance. As stated above, any payment by Interan insufficient to cover an amount due would be applied in the following order: (i) fees and expenses; (ii) overdue payments and interest thereon; (iii) interest; and (iv) principal.
+[62] This ordering provides that interest is to be satisfied in priority to principal. It is not disputed that in accordance with the above ordering the $1,350,561 partial repayment of the outstanding total of $1,628,173 would cover all asserted overdue interest in the aforementioned amounts of $495,083 and $6,970, totaling $502,053. Accordingly (again on the assumption that any interest was ever due), there would be no remaining interest due, of which for K&D to seek deduction.
+[63] On the basis of the foregoing, the appeal will be denied, with costs.
+Signed at Halifax, Nova Scotia this 23rd day of February 2023.
+“B. Russell”
+Russell J.
+APPENDIX
+Relevant Statutory Provisions:
+CITATION:
+2023 TCC 23
+COURT FILE NO.:
+2017-4536(IT)G
+STYLE OF CAUSE:
+K & D LOGGING LTD. AND THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+November 17 and 18, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Bruce Russell
+DATE OF JUDGMENT:
+February 23, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Frank W. Quo Vadis
+Counsel for the Respondent:
+Spencer Landsiedel
+Alexander Wind
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Frank W. Quo Vadis
+Firm:
+Koffman Kalef
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] C. Buchan testified (Transcript, p. 37) that, “…David [Hoy] and Kenny [Rasmussen] went down in late spring of ’95.” I believe Mr. Buchan meant 1996, not 1995; noting that D. Hoy signed the K&D – Interan loan agreement in May, 1996.
+[2] Ibid., p, 113.
+[3] Ibid., p. 41.
+[4] Ibid.
+[5] Ibid., pp. 44-5.
+[6] C. Buchan, Transcript, pp. 98, 99.
+[7] Appellant’s written submissions, p. 5
+[8] G. Watson & S. Baum, “Section 17: Interpretive Considerations”, Canadian Tax Journal (2010) Vol. 58, No. 3, 653-673, at 660.
+[9] Bain Wagon Co. Ltd. v. Minister National Revenue, [1970] Tax ABC 769, para.1 (ss. 17(1) then was ss.19(1))
+[10] G. Watson & S. Baum, “Section 17: Interpretive Considerations”, Canadian Tax Journal (1999) Vol. 47, No. 3, 653-673 at 660-661.
+[11] Ibid., at 656-7.
+[12] Neither party raised any issue concerning the phrase “in lieu of”. The Federal Court of Appeal found in Transocean Offshore Ltd. v. Canada, 2005 FCA 104, para. 60 the meaning of “in lieu of” to be, “a substitute for something else”. There was no “interest in respect of the amount owing” so there was nothing to be “in lieu of”; i.e. a substitute for.
+[13] Charles Buchan, Transcript, p.77
+[14] Appellant’s counsel, Transcript, p. 229.

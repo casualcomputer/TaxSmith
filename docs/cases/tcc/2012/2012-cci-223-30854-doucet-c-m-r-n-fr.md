@@ -1,0 +1,186 @@
+---
+title: "Doucet c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30854/index.do"
+last_modified: "2012-06-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 223"
+citation2: ""
+neutral_citation: "2012 CCI 223"
+decision_date: "2012-06-20"
+language: "fr"
+item_id: "30854"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7365
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:33:18.979000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "742d10475592ae91e6fc4bb08584ec4d8d7c3c1288c7aeb15896560267872f85"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Doucet c. M.R.N.
+
+- Citation: 2012 CCI 223
+- Decision date: 2012-06-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7365, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doucet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-20
+Référence neutre
+2012 CCI 223
+Numéro de dossier
+2011-2234(EI)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011‑2234(EI)
+ENTRE :
+CHARELLE DOUCET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 juin 2012, à Sydney (Nouvelle‑Écosse)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimé :
+Me Jill Chisholm
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision rendue en vertu de la Loi sur l’assurance‑emploi pour la période allant du 14 décembre 2009 au 25 septembre 2010 est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 20e jour de juin 2012.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 31e jour de juillet 2012.
+Marie-Christine Gervais
+Référence : 2012CCI223
+Date : 20120620
+Dossier : 2011‑2234(EI)
+ENTRE :
+CHARELLE DOUCET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question à trancher dans le présent appel est de savoir si Sylvie Doucet occupait un emploi assurable auprès de l’appelante pendant la période allant du 14 décembre 2009 au 25 septembre 2010.
+[2] Le ministre du Revenu national (le « ministre ») a décidé que Sylvie Doucet (la « travailleuse ») avait été employée par l’appelante en vertu d’un contrat de louage de services, mais que son emploi était exclu parce qu’il existait entre elles un lien de dépendance suivant les alinéas 5(2)i) et 5(3)b) de la Loi sur l’assurance‑emploi (la « Loi »).
+[3] Pour parvenir à sa décision, le ministre s’est appuyé sur les hypothèses factuelles suivantes :
+[traduction]
+a) l’appelante est propriétaire unique d’un salon d’esthétique (l’« entreprise »), qu’elle exploite à Cheticamp (Nouvelle‑Écosse) depuis décembre 2009;
+b) les services offerts par l’entreprise sont les suivants : soins des mains, soins des pieds, épilation à la cire, massages, teinture des sourcils et des cils, maquillage et soins du visage;
+c) pendant la période visée par l’appel, l’appelante exploitait l’entreprise dans une pièce de son domicile;
+d) les clients devaient traverser la salle de séjour de l’appelante pour se rendre à la salle d’esthétique;
+e) la travailleuse a été engagée comme esthéticienne par l’appelante à l’ouverture du salon, en décembre 2009;
+f) la travailleuse était fraîchement diplômée d’un programme d’esthétique;
+g) la travailleuse était la seule employée de l’entreprise à offrir les services d’esthétique décrits au point b);
+h) en plus de ces services, la travailleuse exerçait aussi d’autres fonctions comme répondre au téléphone, fixer les rendez‑vous, désinfecter les instruments, veiller à la propreté de la salle et faire la lessive;
+i) l’appelante fixait les heures d’activité de l’entreprise, les tarifs pour les différents services offerts et s’assurait de la satisfaction des clients;
+j) l’appelante décidait des heures de travail de la travailleuse et de sa rémunération;
+k) la travailleuse ne pouvait prendre de congés sans l’autorisation préalable de l’appelante;
+l) l’appelante fournissait tout l’équipement et tous les produits nécessaires au travail;
+m) la responsabilité d’engager et de payer des assistants revenait à l’appelante;
+n) la travailleuse ne payait pas de loyer pour la salle d’esthétique située dans le lieu d’affaires de l’appelante;
+o) la travailleuse ne facturait pas ses services à l’appelante.
+11. Pour prendre sa décision concernant le caractère assurable de l’emploi de la travailleuse, l’intimé s’est appuyé sur les hypothèses factuelles suivantes :
+a) les faits rapportés au paragraphe 10 ci-dessus;
+b) la travailleuse est la fille de l’appelante;
+c) pendant la période visée par l’appel, la travailleuse était payée 40 heures par semaine;
+d) pendant la période visée par l’appel, les rendez‑vous de clients totalisaient en moyenne 12 heures par semaine;
+e) le salaire de la travailleuse était excessif au vu des heures de travail effectuées pour l’entreprise;
+f) l’appelante a continué à verser ce salaire excessif à la travailleuse pendant neuf mois;
+g) l’entreprise ne disposait pas toujours d’assez de fonds pour payer le salaire de la travailleuse et l’appelante empruntait parfois de l’argent sur sa marge de crédit personnelle pour rémunérer sa fille;
+h) pendant la première année d’exploitation de l’entreprise, l’appelante a subi des pertes de presque 10 000 $ alors que ses revenus s’élevaient à 17 340 $ et que les dépenses salariales totalisaient 17 860 $;
+i) après la période visée par l’appel, les conditions d’emploi de la travailleuse ont été modifiées pour mieux répondre aux besoins de l’entreprise : elle a alors reçu un salaire horaire lié aux heures de rendez‑vous avec les clients;
+j) pendant la période visée par l’appel, la travailleuse résidait avec l’appelante;
+k) la pièce où l’entreprise exerçait ses activités n’était pas séparée du reste de la maison de l’appelante et n’avait pas sa propre porte d’entrée;
+l) l’appelante travaillait à l’extérieur de la maison deux ou trois jours par semaine;
+m) il n’est pas raisonnable de penser qu’une travailleuse ne lui étant pas liée aurait eu accès à toute la maison de l’appelante pendant que celle-ci travaillait à l’extérieur de la maison.
+[4] La travailleuse est intervenue dans l’appel, mais n’a pas témoigné à l’audience. Les témoins étaient l’appelante et Tenia Morris, une agente des appels de l’Agence du revenu du Canada.
+[5] D’après le témoignage de l’appelante, sa fille, la travailleuse, a obtenu son diplôme d’esthéticienne en 2009 et a travaillé à ce titre chez Island Sunset Resort and Spa à Cheticamp (Nouvelle‑Écosse) de juin à octobre 2009. Lorsque celle-ci a été mise à pied, l’appelante a décidé d’ouvrir son propre spa chez elle et l’a engagée; le 14 décembre 2009, elle a ouvert le Laisse Aller Spa dans une pièce de sa maison. Ce salon était exploité comme une entreprise individuelle.
+[6] La travailleuse est la seule personne que l’appelante ait engagée. Les services offerts par Laisse Aller étaient les suivants : soins des mains, soins des pieds, épilation à la cire, massages, teinture des sourcils et des cils, maquillage et soins du visage.
+[7] Il s’agissait de la première entreprise gérée par l’appelante; celle-ci n’avait aucune expérience dans le domaine des spas.
+[8] L’appelante a répondu à chacune des hypothèses formulées par le ministre et a contesté celles des alinéas 11d), e), f) et m).
+[9] Elle a déclaré que certains clients recevaient des traitements supplémentaires qui n’étaient pas consignés dans son carnet de rendez‑vous. Quoiqu’elle ait contesté la moyenne de 12 heures de rendez‑vous hebdomadaires mentionnée à l’alinéa 11d) de la réponse, l’appelante n’a pas offert d’estimation des heures ou de la moyenne des heures consacrées par semaine aux rendez‑vous des clients.
+[10] Pour ce qui est de l’hypothèse énoncée à l’alinéa 11e) de la réponse, l’appelante a déclaré que sa fille était payée 40 heures par semaine et qu’elle effectuait bel et bien ce nombre d’heures. D’après elle, la travailleuse l’a aidée à aménager la pièce dans laquelle les services d’esthétique étaient offerts. En plus d’offrir les services d’esthétique, elle désinfectait l’équipement, nettoyait la pièce et lavait les serviettes. Elle a aussi contribué à la production et à la distribution de dépliants et de cartes de visite et pris part aux réunions que l’appelante avait eues avec des membres de la collectivité.
+[11] L’appelante n’a aucun document faisant état des réunions auxquelles la travailleuse et elle ont assisté, mais elle a déclaré lors du contre‑interrogatoire qu’elles étaient allées à quatre réunions ayant duré d’après elle trois heures chacune.
+[12] Lors du contre‑interrogatoire, l’appelante a également affirmé que, s’il n’y avait pas de rendez‑vous, la travailleuse ne travaillait pas étant donné qu’il n’était pas nécessaire de désinfecter l’équipement, de faire la lessive ou du nettoyage.
+[13] L’appelante conteste l’hypothèse formulée à l’alinéa 11f) et estime que le salaire de la travailleuse n’était pas excessif. Cette dernière ne gagnait que 9,65 $ l’heure plus une indemnité de vacances. Entre mai et septembre 2009, la travailleuse a passé la plupart de ses heures de travail à offrir des services aux clients.
+[14] Pour ce qui est de l’alinéa 11m), l’appelante a déclaré qu’elle avait engagé une personne qui ne lui était pas liée comme gardienne à domicile et aide ménagère lorsque ses enfants étaient jeunes.
+[15] Tenia Morris est l’agente des appels qui a traité le dossier de l’appelante pour le compte du ministre.
+[16] D’après le témoignage de Mme Morris, le salaire horaire de la travailleuse était raisonnable par rapport au secteur d’activités, mais son salaire total n’était pas justifié au regard du nombre d’heures consacrées à offrir des services. D’après le carnet de rendez‑vous de l’appelante, elle a estimé que la travailleuse avait fourni l’équivalent de 470 heures de services pendant la période pertinente, alors que le relevé d’emploi fait état de 1 640 heures. Mme Morris a expliqué que ces 470 heures couvraient la prestation de services d’esthétique, de même que les travaux de lessive et de nettoyage effectués par la travailleuse, mais pas la distribution des cartes de visite et des dépliants ni les réunions auxquelles elle avait assisté avec l’appelante.
+Analyse
+[17] La disposition pertinente de la Loi prévoit :
+5(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l’application de l’alinéa (2)i) :
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[18] La travailleuse et l’appelante ne nient pas qu’il existe entre elles un lien de dépendance. Elles contestent toutefois la décision du ministre au titre de l’alinéa 5(3)b) de la Loi.
+[19] Le rôle du juge de la Cour canadienne de l’impôt saisi d’un appel d’une décision du ministre fondée sur les paragraphes 5(2) et 5(3) de la Loi a été décrit en ces termes par le juge en chef Richard dans l’arrêt Denis c. Canada (Ministre du Revenu national), 2004 CAF 26 :
+[5] Le rôle du juge de la Cour canadienne de l’impôt dans un appel d’une détermination du ministre sur les dispositions d’exclusion contenues aux paragraphes 5(2) et 5(3) de la Loi est de s’enquérir de tous les faits auprès des parties et les témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre paraît toujours raisonnable. Toutefois, le juge ne doit pas substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus (voir Pérusse c. Canada (Ministre du Revenu national – M.R.N.), [2000] A.F.C. no 310, 10 mars 2000).
+[20] Lorsqu’il a rendu sa décision, le ministre ne savait pas que la travailleuse avait aidé à aménager la salle d’esthétique et qu’elle avait distribué des dépliants et assisté à des réunions pour le compte de Laisse Aller. Je dois donc me demander si sa décision est encore raisonnable à la lumière de ces faits nouveaux.
+[21] D’après le témoignage de Mme Morris, la travailleuse a passé environ 470 heures, ou 28 % de son temps, à offrir des services d’esthétique et des services connexes. D’après le témoignage de l’appelante, la travailleuse a consacré 12 heures aux réunions. Si la travailleuse avait véritablement travaillé 1 640 heures, comme l’indique le relevé d’emploi, cela voudrait dire qu’elle aurait consacré 71 % de son temps à l’aménagement de la salle d’esthétique et à la distribution des dépliants et des cartes de visite.
+[22] L’appelante n’a produit aucune autre preuve que sa déclaration générale pour établir que la travailleuse travaillait 40 heures par semaine pendant la période pertinente.
+[23] Je note aussi, d’après le carnet de rendez‑vous, pendant la période, il y a 42 jours où l’appelante n’a eu qu’un seul client et 49 jours où elle n’en a pas eu un seul (à l’exclusion des dimanches).
+[24] Rien de ce qui m’a été présenté ne me permet de conclure que le ministre a mal perçu les faits.
+[25] Compte tenu des faits nouveaux présentés à l’audience, du témoignage et des pièces touchant la rétribution versée, les modalités d’emploi ainsi que la durée et la nature du travail accompli, je conclus que la décision du ministre est encore raisonnable.
+[26] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 20e jour de juin 2012.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 31e jour de juillet 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012CCI223
+No DU DOSSIER DE LA COUR : 2011‑2234(EI)
+INTITULÉ : CHARELLE DOUCET c. M.R.N.
+LIEU DE L’AUDIENCE : Sydney (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 6 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 20 juin 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimé :
+Me Jill Chisholm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

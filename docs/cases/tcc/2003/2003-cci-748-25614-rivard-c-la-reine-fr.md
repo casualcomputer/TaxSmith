@@ -1,0 +1,160 @@
+---
+title: "Rivard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25614/index.do"
+last_modified: "2003-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 748"
+citation2: ""
+neutral_citation: "2003 CCI 748"
+decision_date: "2003-12-02"
+language: "fr"
+item_id: "25614"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2422
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:27:43.539000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d459d919a1bfd9d41b8f9c1fcfc972cc8acaddfbd65ef7494f0da7e74d7fd1a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rivard c. La Reine
+
+- Citation: 2003 CCI 748
+- Decision date: 2003-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2422, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rivard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-02
+Référence neutre
+2003 CCI 748
+Numéro de dossier
+2002-3556(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3556(IT)I
+ENTRE :
+RENÉ RIVARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 10 octobre 2003 à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Gilles L'Écuyer
+Avocate de l'intimée :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2003.
+« Paul Bédard »
+Juge Bédard
+Référence : 2003CCI748
+Date : 20031202
+Dossier : 2002-3556(IT)I
+ENTRE :
+RENÉ RIVARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'un appel interjeté selon la procédure informelle d'une cotisation en vertu de laquelle le ministre du Revenu national (le « Ministre » ) a refusé, dans le calcul du revenu de l'appelant, la déduction d'une somme de 21 161,59 $, au titre d'une pension alimentaire ou autre allocation payable périodiquement à l'égard de l'année d'imposition 2001.
+[2] Le mariage de l'appelant et de madame Johanne Dussault a été célébré le 6 décembre 1975.
+[3] L'appelant et madame Dussault ont eu de leur union deux filles :
+i) Mélysa, née le 25 août 1978;
+ii) Andrée-Anne, née le 6 janvier 1984.
+[4] L'appelant et madame Dussault ont cessé de faire vie commune vers le 26 janvier 2000.
+[5] La réclamation de l'appelant, au titre de pension alimentaire pour l'année d'imposition 2001, se ventilait comme suit :
+i) arrérages (année d'imposition 2000) 5 171,59 $
+ii) pension alimentaire (année en litige) 15 990,00 $
+21 161,59 $
+[6] En produisant sa déclaration de revenu à l'égard de l'année d'imposition 2001, madame Dussault n'a inscrit aucune somme au titre de revenu provenant d'une pension alimentaire.
+[7] Dans son jugement prononcé le 26 avril 2000 et déposé sous la pièce A-1, l'honorable juge Yvan St-Julien, J.C.S., a tiré, entre autres, les conclusions suivantes :
+i) madame Dussault aura la garde d'Andrée-Anne,
+ii) l'appelant continuera à payer à madame Dussault pour son bénéfice et celui d'Andrée-Anne trois cents dollars par semaine.
+[8] L'appelant a également déposé sous la pièce A-2 le jugement de divorce de la Cour supérieure du Québec, daté du 18 janvier 2002, et qui fut prononcé par l'honorable juge Suzanne Hardy-Lemieux, J.C.S., dans lequel la juge a entériné et a donné force exécutoire à une convention sur mesures accessoires intervenue entre les parties le 15 janvier 2002. Les articles 8, 10 et 11 de cette convention contiennent notamment les dispositions suivantes :
+8) l'(appelant) verse à (madame Dussault), à titre de pension alimentaire annuelle, pour elle-même, la somme de 16 000 $ payable en conformité des dispositions de la Loi facilitant le paiement des pensions alimentaires et ce, à compter du 15 janvier 2002,
+10) l'(appelant) reconnaît devoir à (madame Dussault) pour elle-même, sur sa propre pension alimentaire, certains arrérages déductibles par l'appelant et imposables pour madame Dussault, que les parties ont quantifiés à la somme de trois milles dollars, payable au plus tard dans les dix jours de la signature des présentes,
+11) l'(appelant) verse à (madame Dussault), à titre de pension alimentaire annuelle pour Andrée-Anne, dont elle assume la charge, la somme de 8 600 $ payable en conformité des dispositions de la Loi facilitant le paiement des pensions alimentaires et ce, à compter du 15 janvier 2002.
+[9] En s'appuyant notamment sur le paragraphe 56.1(4) et l'alinéa 60b) de la Loi de l'impôt sur le revenu (la « Loi » ), le Ministre soutient que la somme de 21 161,59 $ versée par l'appelant à madame Dussault, au cours de l'année d'imposition 2001, n'était pas déductible au titre de pension alimentaire ou autre allocation payable périodiquement, puisqu'elle découlait d'un jugement établi après le 30 avril 1997, et que ladite somme était considérée comme une pension alimentaire pour enfants, selon les dispositions du paragraphe 56.1(4) et de l'alinéa 60b) de la Loi.
+Analyse
+[10] La définition de « pension alimentaire pour enfants » du paragraphe 56.1(4) de la Loi est ainsi rédigée :
+« pension alimentaire pour enfants » - Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+[11] L'alinéa 60b) de la Loi est ainsi rédigé :
+b) Pension alimentaire - le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A. représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B. le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C. le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure;
+[12] Je suis d'avis que la réclamation de l'appelant au titre de pension alimentaire pour un montant de 21 161,59 $pour l'année d'imposition 2001 découlait du jugement daté du 26 avril 2000 et que la somme hebdomadaire de 300 $ payable à madame Dussault en vertu de ce jugement est comprise dans la définition d'une pension alimentaire pour enfants puisque selon l'ordonnance du tribunal, elle n'est pas destinée uniquement à subvenir aux besoins de madame Dussault. En effet, l'ordonnance ne prévoit aucune répartition de la somme hebdomadaire de 300 $ entre madame Dussault et sa fille, Andrée-Anne.
+[13] Conséquemment, les dispositions de l'alinéa 60b) de la Loi ont pour effet d'empêcher l'appelant de déduire la somme de 21 161,59 $ dans le calcul de son revenu pour l'année d'imposition 2001.
+[14] L'appelant allègue en dernier ressort que la somme de 3 000 $ versée par l'appelant aux termes de la convention sur mesures accessoires datée du 15 janvier 2002 et entérinée par la Cour supérieure du Québec le 18 janvier 2002 est déductible dans le calcul de son revenu pour l'année d'imposition 2001. L'article 10 de la convention prévoit que l'appelant reconnaît devoir à madame Dussault pour elle-même, sur sa propre pension alimentaire, certains arrérages déductibles par l'appelant et imposables pour madame Dussault, que les parties ont quantifiés à la somme de 3 000 $, payable au plus tard dans les 10 jours de la signature de ladite convention.
+[15] Bien qu'il ne soit pas clair que ces arrérages se rapportent à l'année 2001, un contribuable ne peut pas réclamer une déduction en vertu de l'alinéa 60b) de la Loi pour un débours qu'il n'a pas payé durant cette année d'imposition. Or, l'article 10 de la convention du 15 janvier 2002 rappelle que l'appelant doit toujours des arrérages de 3000 $ à madame Dussault, ce qui prouve qu'ils n'ont pas été payés en 2001.
+[16] Pour ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2003.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2003CCI748
+No DU DOSSIER DE LA COUR :
+2002-3556(IT)I
+INTITULÉ DE LA CAUSE :
+René Rivard et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 10 octobre 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+le 2 décembre 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me Gilles L'Écuyer
+Avocate de l'intimée :
+Me Marie-Aimée Cantin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Gilles L'Écuyer
+Étude :
+Pouliot L'Écuyer
+Sainte-Foy (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

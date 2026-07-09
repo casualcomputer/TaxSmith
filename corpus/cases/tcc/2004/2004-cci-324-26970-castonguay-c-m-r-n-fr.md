@@ -1,0 +1,184 @@
+---
+title: "Castonguay c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26970/index.do"
+last_modified: "2004-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 324"
+citation2: ""
+neutral_citation: "2004 CCI 324"
+decision_date: "2004-05-10"
+language: "fr"
+item_id: "26970"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 580
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:29:24.020000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a8c603ab99c59cbe7fc56444d141bdf46f7ea0a2256f8968cc19ea3cf3797b89"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Castonguay c. M.R.N.
+
+- Citation: 2004 CCI 324
+- Decision date: 2004-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 580, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Castonguay c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-10
+Référence neutre
+2004 CCI 324
+Numéro de dossier
+2003-2335(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2335(EI)
+ENTRE :
+JEAN-ROCK CASTONGUAY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 11 mars 2004 à Rivière-du-Loup (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocate de l'appelant :
+Me Nancy Lajoie
+Avocate de l'intimé :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre du Revenu national est infirmée, selon les motifs du jugement ci-joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 10e jour de mai 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI324
+Date :20040510
+Dossier : 2003-2335(EI)
+ENTRE :
+JEAN-ROCK CASTONGUAY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L'appelant interjette appel d'une décision du ministre du Revenu national (ministre) en date du 10 juin 2003 voulant que son emploi auprès de Marcel Castonguay (le payeur), durant les périodes du 7 au 19 avril 1997, du 16 juin au 19 septembre 1997, du 28 juin au 8 octobre 1999, du 27 mars au 22 avril 2000, du 29 mai au 22 septembre 2000, du 1er au 21 avril 2001, du 2 juillet au 21 septembre 2001, du 1er au 27 avril 2002 et du 17 juin au 19 octobre 2002, ne soit pas un emploi assurable au sens de l'alinéa 5(2)i) et du paragraphe 5(3) de la Loi sur l'assurance-emploi au motif qu'un contrat à peu près semblable n'aurait pas été conclu s'il n'y avait pas eu de lien de dépendance entre l'appelant et le payeur durant les périodes en question.
+[2] En rendant sa décision, le ministre s'est fondé sur les hypothèses de fait suivantes qui ont été admises ou niées.
+a) Le payeur exploite une ferme d'élevage de bovins et une érablière. (admis)
+b) La ferme compte 32 reproductrices dont elle vend les veaux. (admis)
+c) La ferme a 150 acres de terre en culture dont 15 en avoine et le reste en foin. (admis)
+d) Le payeur a acquis la ferme de son père. (admis)
+e) Il est aussi le propriétaire d'une érablière d'environ 7 500 entailles et en loue une seconde de 5 000 entailles contiguë à la première. (nié tel quel)
+f) Il détient, de plus, 80% des parts d'une société en nom collectif, Érablière Marockiel, qui est aussi propriétaire d'une érablière d'environ 9 000 entailles. (nié tel quel)
+g) L'appelant et Daniel Castonguay détiennent chacun 10% des parts de la société. (admis)
+h) L'appelant, le payeur et Daniel Castonguay sont frères. (admis)
+i) Les trois érablières sont contiguës et tous leurs érables ne sont reliés par tubulure qu'à une seule installation d'évaporation qui est située sur le terrain du payeur. (nié tel quel)
+j) Le payeur fait aussi des coupes de bois, sur ses terres, qu'il vend à différents moulins à scie. (admis)
+k) L'appelant réside chez le payeur. (admis)
+l) L'appelant ne paie aucune pension au payeur mais il contribue occasionnellement aux dépenses de nourriture à la résidence. (admis)
+m) L'appelant a commencé à travailler pour le payeur en 1997. (admis)
+n) Avant 1997, l'appelant travaillait sur la ferme pour son père. (admis)
+o) Durant la saison des sucres, qui dure généralement un mois, l'appelant parcourt les érablières, vérifie la tubulure et procède aux réparations. (admis)
+p) Après la période des sucres, l'appelant participe aux travaux des semences, fait la réparation des clôtures entourant les terres en culture, participe aux travaux pour la coupe de foin et aux travaux reliés à la récolte d'avoine et des labours. (nié tel quel)
+q) De plus, l'appelant nourrit les animaux matin et soir et fait de la coupe de bois habituellement lorsqu'il pleut durant la période des foins. (nié tel quel)
+r) L'appelant ne possède aucun horaire de travail et le payeur ne comptabilise pas ses heures de travail. (nié)
+s) En dehors des périodes où il était rémunéré, l'appelant rendait des services au payeur sans rémunération. (nié tel quel)
+t) Durant les périodes où il était inscrit au registre des salaires du payeur, l'appelant recevait une rémunération, de parfois 200 $, parfois 300 $ et parfois moins. (nié tel quel)
+u) Le payeur ne versait pas régulièrement la rémunération de l'appelant; il attendait d'avoir des liquidités et se gardait une période jusqu'à un an avant de verser la rémunération due à l'appelant. (nié tel quel)
+v) Lorsqu'il versait une rémunération à l'appelant, le payeur la versait en argent liquide.
+w) Le payeur ne tenait aucun registre des salaires dus à l'appelant et ne peut préciser si les versements ont été faits ni quand ils l'ont été. (nié tel quel)
+x) Les prétendus versements du salaire de l'appelant ne correspondent avec le registre des salaires du payeur. (nié tel quel)
+y) Les prétendues périodes d'emploi de l'appelant, celles où il était inscrit au registre des salaires du payeur, ne correspondent pas avec les périodes d'activités du payeur. (nié)
+z) Entre le 16 juin 1998 et le 26 juin 1999, alors que l'appelant était invalide suite à un accident et ne figurait pas au registre des salaires du payeur, ce dernier ne l'a pas remplacé. (nié tel quel)
+[3] Le payeur est propriétaire de la ferme familiale et dont les activités sont décrites et admises dans les hypothèses ci-haut. L'appelant demeure donc avec lui à la ferme et leur mère habite la maison. Le payeur assume la responsabilité visant les activités de la ferme et embauche l'appelant pour la plupart des travaux. Le payeur occupe un emploi à l'extérieur et ne consacre du temps aux activités de la ferme que pendant les fins de semaine et les congés.
+[4] Une partie du travail de l'appelant se produit pendant la saison des sucres. Il a la tâche de réparer la tubulure, de préparer l'équipement et de travailler durant l'exploitation de l'érablière. La durée de ces activités dépend du climat, mais, habituellement, elles ont lieu de la fin mars à la fin avril. Après cette période, l'appelant reçoit des prestations d'assurance-emploi jusqu'à la saison des semences, soit après le dégel. À ce moment-là, son travail consiste à réparer les clôtures, à ensemencer les champs et à entretenir l'équipement agricole. Il travaille cinq jours par semaine et le payeur exige qu'il fasse au moins 40 heures de travail par semaine. L'appelant connaît ses tâches et sait ce qu'il doit faire. Une fois les récoltes effectuées et les animaux de retour dans leur étable pour l'hiver, son travail cesse. Cela dépend encore du climat.
+[5] Selon l'explication fournie par le payeur, la longueur des périodes en question varie parce que le travail dépend beaucoup du climat. Selon le payeur, en 1998, l'appelant a travaillé pendant la période des sucres mais a été incapable de travailler durant l'été en raison du fait qu'il a subi un grave accident et qu'il a été hospitalisé pendant un mois. En fait, l'appelant souffre de problèmes de mémoire depuis cet accident. Comme le payeur était incapable de trouver quelqu'un de fiable, il n'a pas remplacé l'appelant. Ce n'est que tard en juin 1999 que l'appelant a pu reprendre le travail avec l'approbation de son médecin. Le payeur ne se souvient pas pourquoi, en 2001, l'appelant n'aurait commencé à travailler que le 2 juillet. Par contre, il se souvient avoir prolongé la période d'emploi de l'appelant en 2002 jusqu'au 19 octobre parce qu'il avait subi une intervention chirurgicale au genou. Entre les périodes d'emploi, l'appelant ne travaille pas mais il lui arrive de faire des commissions pour le payeur.
+[6] Le payeur a toujours payé l'appelant en argent liquide. Selon l'explication fournie, même à l'époque où son père exploitait la ferme, c'est comme ça que cela se faisait. Le payeur payait l'appelant 200 à 300 dollars par semaine, mais les paiements dépendaient de son fonds de roulement. Le payeur pouvait prendre de trois à quatre semaines avant de payer les arriérés. Le payeur fait remarquer que l'appelant ne paye pas de pension pour demeurer chez lui mais il lui arrive de contribuer à l'achat des produits d'épicerie et il paye ses dépenses personnelles.
+[7] Depuis la vérification de 2002, le payeur rémunère l'appelant par chèque et ce dernier n'a reçu aucune prestation d'assurance-emploi. L'appelant continue de travailler durant les mêmes périodes, plus ou moins.
+[8] L'appelant est venu confirmer le témoignage du payeur. Il relate qu'il a toujours travaillé à la ferme familiale, et ce depuis le temps où son père l'exploitait. Ses périodes de travail comprennent la saison des sucres, celles des semences et celle des récoltes. Le payeur lui dit quand il doit commencer. Les heures de travail dans une journée dépendent de ce qu'il y a à faire et du climat. Certaines journées sont longues et d'autres plus courtes. Il ne se souvient pas du salaire qu'il touchait au début, mais il croit qu'aujourd'hui il reçoit 300 $ net par semaine. Jusqu'à 2001, son salaire lui a toujours été payé comptant.
+[9] L'enquêteur Pierre Savoie a fait l'analyse de toute la documentation pertinente à l'emploi de l'appelant et a rencontré le payeur et sa soeur Cécile April qui s'occupait du registre des salaires. Il a de plus examiné les comptes de banque du payeur et a conclu que, certaines années, il n'y avait pas suffisamment de retraits pour justifier le salaire de l'appelant. Il a constaté que l'appelant était incapable de lui dire s'il avait reçu sa paye au complet. Lors de la rencontre de l'enquêteur et du payeur, il a été question des retraits bancaires insuffisants pour couvrir le salaire de l'appelant. Le payeur a déclaré que l'appelant avait reçu son salaire selon les notes inscrites aux registres. L'enquêteur a conclu que l'appelant n'a pas pu recevoir son plein salaire puisque les retraits indiqués sur les relevés de caisses sont inférieurs aux paiements allégués.
+[10] L'agente des appels, Louise Dessureault, a examiné le travail de l'enquêteur et a rencontré le payeur et l'appelant. Elle a retenu de cette rencontre qu'il s'agit d'une ferme d'élevage et que les vaches vêlent en avril durant la période des sucres. La semence de l'avoine se fait sur 15 acres de terre et le foin n'est pas ensemencé. Sa coupe se fait à la fin juillet et dure un mois et demi. Il faut réparer les clôtures et vérifier le brochage électrique mis en place. Durant l'été, il faut récolter le grain à la fin d'août et faire des coupes de bois entre les semences et la récolte. L'appelant commence ses journées vers 8 heures et arrête quand il en a assez. Donc, il n'aurait pas un horaire de travail pré-établi. Étant donné que les revenus de la ferme de sont pas réguliers, le payeur se donne du temps pour payer le salaire de l'appelant. Le payeur ne conserve pas de registre des sommes dues à son frère.
+[11] L'agente des appels a préparé des tableaux de vérification (onglet 2 de I-1) pour chacune des périodes et années en question. Ces tableaux sont un résumé des faits visant le salaire net de l'appelant, des dépôts dans ses comptes bancaires et des retraits bancaires du payeur à la même époque. Le tableau indique également le nombre de factures signées par l'appelant pour le payeur en dehors des périodes d'emploi.
+[12] Il incombe à l'appelant d'établir, selon la prépondérance des probabilités, que la décision du ministre, compte tenu de la preuve avancée, n'était pas raisonnable et que l'appelant aurait conclu un contrat de travail à peu près semblable avec le payeur s'ils n'avaient pas eu un lien de dépendance. Le rôle qu'exerce le ministre et que doit exercer la Cour a été établi par la Cour d'appel fédérale dans l'arrêt Légaré c. Canada [1999] A.C.F. no 878 (Q.L.). Le juge Marceau a résumé le tout en ces termes au paragraphe 4 :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable.
+[13] La Cour d'appel fédérale a d'ailleurs réitéré sa position dans l'arrêt Pérusse c. Canada, [2000] A.C.F. no 310 (Q.L.). Le juge Marceau, se référant au passage cité ci-dessus tiré de l'arrêt Légaré, a ajouté ce qui suit au paragraphe 15 :
+Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[14] La preuve a révélé que l'appelant a effectivement travaillé pour le payeur durant les périodes d'emploi et que les périodes d'emploi pouvaient varier en raison des conditions climatiques et des particularités du domaine agricole. L'appelant était rémunéré en fonction d'une semaine de travail de 40 heures établie selon une moyenne et chaque semaine de travail était inscrite au registre des salaires. Compte tenu des circonstances, on peut comprendre que l'appelant n'avait pas d'horaire de travail fixe.
+[15] Le sous-paragraphe 5s) de la Réponse à l'avis d'appel a été confirmé par la preuve. L'appelant a effectivement rendu des services au payeur sans rémunération. Considérant toutefois le fait que l'appelant demeure chez le payeur durant toute l'année sans contribuer aux dépenses et considérant la position prise par la Cour d'appel fédérale dans l'arrêt Théberge c. M.R.N., [2002] C.A.F. 123, où le juge Décary, dans un contexte similaire au cas en l'espèce, concluait que ce fait a peu de pertinence dans certaines circonstances et déclarait :
+Ce que fait un prestataire en dehors de la période pendant laquelle il exerce un emploi que le ministre reconnaît être un emploi assurable peut être pertinent aux fins, par exemple, de vérifier son état de chômage, de calculer le montant de ses prestations ou d'établir sa période de chômage. Aux fins, toutefois, de l'application de l'exclusion prévue à l'alinéa 3(2)c) de la Loi, ce que fait le prestataire en dehors de sa période d'emploi sera de peu de pertinence lorsqu'il n'est pas allégué, comme en l'espèce, que le salaire versé pendant la période d'emploi tenait compte du travail accompli en dehors de cette période, que le demandeur avait inclus dans les heures consacrées à son emploi assurable des heures de travail qu'il avait effectuées en dehors de la période ou encore que du travail accompli en dehors de sa période d'emploi avait été inclus dans le travail accompli pendant sa période d'emploi. Il me paraît aller de soi, ce que confirme la preuve, que dans le cas d'entreprises familiales consacrées à du travail saisonnier, le peu de travail qu'il reste à faire en dehors de la période active est généralement fait, sans rémunération, par les membres de la famille. Exclure un emploi saisonnier, dans une entreprise familiale agricole, au motif que la traite des vaches continue à l'année, c'est à toutes fins utiles priver d'assurance-chômage les membres de la famille qui se qualifient en travaillant pendant la période active et c'est ignorer les deux caractéristiques principales d'une telle entreprise, soit son caractère familial et son caractère saisonnier.
+[16] En l'espèce, aucune allégation semblable n'a été présentée.
+[17] Quant aux sous-paragraphes 5t), u), v), w), x) et y) de la Réponse à l'avis d'appel, ces derniers visent principalement la rémunération versée à l'appelant, la fréquence, la méthode et la question de savoir si le versement a réellement été fait. Le salaire de l'appelant n'a pas fait l'objet de commentaires quant au taux hebdomadaire. Le Ministre s'est surtout intéressé à la question du montant net reçu par l'appelant, qui variait entre 200 et 300 $ par semaine, au fait que le versement était fait en argent liquide, au fait que le versement ne correspondait pas au registre des salaires et au fait qu'il était effecté de façon inrrégulière, sans que le payeur et l'appelant ne tiennent compte de cet état de choses. Finalement, le Ministre soutient que les semaines inscrites au registre des salaires ne correspondent pas aux périodes d'activités du payeur.
+[18] Ces énoncés ont été repris dans les conclusions du rapport de l'agente des appels lorsque cette dernière a considéré les facteurs que mentionnent l'alinéa 5(3)b) de la Loi sur l'assurance-emploi. Sur la question visant la rémunération, une analyse des retraits d'argent des comptes bancaires du payeur et des dépôts effectués par le travailleur à ses comptes bancaires personnels démontre, selon l'agente des appels, que le versement des salaires ne coïncide pas avec le registre des salaires. D'ailleurs, elle a repris pour chacune des périodes en question cet exercice afin de démontrer que, non seulement les retraits du payeur ne correspondent pas au salaire versé à l'appelant, mais que l'appelant n'aurait pas déposé des sommes suffisantes dans ses comptes bancaires durant ses périodes d'emploi. Or, la preuve a révélé que, depuis le temps où leur père était propriétaire de la ferme, toutes les transactions financières se faisaient en argent liquide et que le payeur et l'appelant ont simplement continué à faire les choses de cette façon jusqu'en 2002, soit après la vérification.
+[19] Le payeur a expliqué avoir payé l'appelant en argent comptant en utilisant des sommes à sa disposition. Le salaire de l'appelant était raisonnable et il était comptabilisé dans le registre des salaires. Il semble, en l'espèce, que le payeur et l'appelant avaient conclu des arrangements quant au paiement du salaire qui sembleraient être satisfaisants. Il faut prendre en considération que l'appelant demeurait chez le payeur et qu'il arrivait à ce dernier de retenir certaines sommes sur le salaire versé parce que l'appelant ne payait pas de pension. L'appelant acceptait également de se faire payer plus tard quand son frère en aurait les moyens. Le payeur a témoigné avoir versé à l'appelant tout ce qu'il lui devait et cet arrangement semble avoir convenu à l'appelant.
+[20] Vu les circonstances en l'espèce, il serait, à mon avis, incorrect de conclure que l'appelant n'a pas reçu son plein salaire en se basant sur les retraits et dépôts bancaires, sur le fait qu'il n'était pas payé régulièrement ou sur le fait que les parties ne tenaient pas un registre de ce qui était dû à l'appelant. Un employé sans lien de dépendance pourrait se trouver dans une situation semblable. En l'espèce, le registre des salaires établissait clairement les semaines travaillées et le salaire gagné par l'appelant.
+[21] Pour ce qui est des modalités d'emploi, l'agente des appels a conclu qu'il est déraisonnable de croire qu'un travailleur non lié aurait travaillé sans horaire de travail et aurait bénéficié d'autant de latitude. De plus, un travailleur non lié aurait été rémunéré en fonction des heures de travail effectuées et de ses efforts. La preuve a pourtant révélé que le travail à la ferme et l'exploitation d'une érablière dépendent beaucoup des conditions climatiques et qu'il est presque impossible d'avoir des horaires pré-établis de travail pour cette raison. Il faut se rappeler aussi que l'appelant connaissait le travail qu'il devait effectuer et qu'il était rémunéré sur la base d'une moyenne d'heures de travail. Il serait donc difficile en l'espèce d'établir l'horaires de travail lorsque le climat dicte les journées où il faut travailler.
+[22] Est-ce que les périodes d'emploi de l'appelant concordent avec les activités du payeur? Les activités du payeur se résument comme suit. Il y a la saison des sucres, soit de la fin mars à la fin avril, selon le climat et le nombre d'entailles à effectuer. À la fin mai, au début juin, soit après le dégel, les semences sont à faire, ainsi que l'entretien et la réparation de l'équipement et des clôtures. Il faut faire les foins, récolter le grain et s'occuper des animaux. Lorsque les animaux sont mis à l'étable parce qu'il ne reste plus rien à brouter dans les champs, le travail de l'appelant cesse.
+[23] En 1997, l'appelant a travaillé pendant 16 semaines, soit deux semaines durant les sucres et quatorze semaines de la mi-juin à la mi-septembre. L'appelant a expliqué qu'il n'y avait que 4 000 entailles à effectuer cette année-là et que les semences ont été retardées à cause du dégel tardif.
+[24] En 1998, l'appelant a travaillé quatre semaines en mars et en avril pour la saison des sucres. Le 16 juin 1998, alors qu'il bûchait du bois de chauffage pour la maison, il s'est blessé et a été inactif jusqu'au 26 juin de l'année suivante. Le payeur ne l'a pas remplacé durant l'été. Ne pouvant pas trouver quelqu'un de fiable, et étant trop occupé au travail à la ferme, le payeur n'a pas pu remplacer l'appelant.
+[25] En 1999, l'appelant a repris le travail du 27 juin jusqu'au début d'octobre, soit pour 15 semaines. Selon l'explication fournie par le payeur, celui-ci a tardé à embaucher l'appelant parce qu'il devait d'abord attendre l'autorisation du médecin.
+[26] En 2000, l'appelant a travaillé quatre semaines durant la saison des sucres et 17 semaines de la fin mai à la mi-septembre. En 2001, l'appelant a travaillé 15 semaines, soit trois semaines durant la saison des sucres et 12 semaines pendant la période allant du 2 juillet au 26 septembre. Le payeur ne se souvient pas pourquoi l'appelant a commencé plus tard que d'habitude.
+[27] En 2002, l'appelant a travaillé 20 semaines, soit quatre semaines durant la saison des sucres, deux semaines en juin et 14 semaines pendant la période allant du 14 juillet au 25 octobre. Le payeur a expliqué que l'appelant a travaillé plus tard que d'habitude parce qu'il a eu besoin de lui en raison d'une intervention chirurgicale au genou.
+[28] Je retiens de cette analyse que, durant les périodes en question, il y a une variation de deux semaines tout au plus entre les périodes d'emploi, à l'exception de celles de 2001 et de 2002. En 1998, l'appelant n'a pas travaillé à cause d'un accident et pour ce qui est des périodes d'emploi de 2001 et 2002, le payeur n'a apporté d'explications que pour la fin de la période de 2002. Pour ce qui est de la saison des sucres, la durée de l'emploi est tout à fait compatible avec les conditions climatiques et le nombre d'entailles qu'il faut effectuer durant cette saison. Il en va de même pour la deuxième période d'emploi. Le dégel, le climat, le nombre de réparations et de travaux d'entretien à effectuer et la mise à l'étable du troupeau pour l'hiver sont des facteurs qui peuvent facilement expliquer la durée de l'emploi en fonction des besoins de l'employeur.
+[29] À mon avis, la nature et l'importance du travail de l'appelant dans les activités du payeur sont suffisamment importantes pour justifier son embauche. Le ministre semble conclure que les revenus agricoles du payeur ne justifient pas l'embauche d'un employé, d'autant plus qu'il n'a pas eu à le remplacer durant l'été 1998 et la saison des sucres en 1999. Pour sa part, le payeur a expliqué que, durant la saison des sucres de 1999, il s'est fait aider par un autre de ses frères, soit Daniel, et un beau-frère. Pendant l'été de 1998, il a lui-même fait le travail et a dû travailler plus fort. J'accepte les explications du payeur concernant ces deux périodes.
+[30] Après avoir analysé l'ensemble de la preuve présentée par l'appelant, les modalités d'emploi, la rétribution versée, la durée de l'emploi et la nature et l'importance du travail accompli, j'arrive à la conclusion que le Ministre n'a pas correctement apprécié tous les faits en l'espèce et que sa conclusion ne me paraît pas raisonnable. Pour les motifs énoncés, j'en conclus que les modalités de l'emploi, la durée, la rétribution versée et la nature et l'importance du travail auraient été semblables même s'il n'y avait pas eu de lien de dépendance. L'appel est accueilli et la décision du Ministre est infirmée.
+Signé à Ottawa, Canada, ce 10e jour de mai, 2004.
+Juge Angers
+RÉFÉRENCE :
+2004CCI324
+No DU DOSSIER DE LA COUR :
+2003-2335(EI)
+INTITULÉ DE LA CAUSE :
+Jean-Rock Castonguay et M.R.N.
+LIEU DE L'AUDIENCE :
+Rivière-du-Loup (Québec)
+DATE DE L'AUDIENCE :
+le 11 mars 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge François Angers
+DATE DU JUGEMENT :
+le 10 mai 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Nancy Lajoie
+Pour l'intimé :
+Me Agathe Cavanagh
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Nancy Lajoie
+Étude :
+Rioux, Bossé, Massé, Moreau
+Rivière-du-Loup (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

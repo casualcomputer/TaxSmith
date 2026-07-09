@@ -1,0 +1,202 @@
+---
+title: "Hustak v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/346641/index.do"
+last_modified: "2018-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 199"
+citation2: ""
+neutral_citation: "2018 TCC 199"
+decision_date: "2018-10-24"
+language: "en"
+item_id: "346641"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5009
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:36:44.097000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6d4df86914e2fd36ff9422e406730998d02d1934c2788210519bc25e6fac7e11"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hustak v. The Queen
+
+- Citation: 2018 TCC 199
+- Decision date: 2018-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5009, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hustak v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-10-24
+Neutral citation
+2018 TCC 199
+File numbers
+2017-1119(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-1119(IT)I
+BETWEEN:
+JOHN HUSTAK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 2, 2018, at Hamilton, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laura Rhodes
+JUDGMENT
+The appeal from the assessments made by the Minister of National Revenue pursuant to the Income Tax Act, dated March 28, 2013 in respect of the appellant’s 2005, 2006, 2007, 2008, 2009, 2010 and 2011 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of October 2018.
+“Réal Favreau”
+Favreau J.
+Citation: 2018 TCC 199
+Date: 20181024
+Docket: 2017-1119(IT)I
+BETWEEN:
+JOHN HUSTAK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the assessments made by the Minister of National Revenue (the “Minister”) pursuant to the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “ITA”), dated March 28, 2013 in respect of the appellant’s 2005, 2006, 2007, 2008, 2009, 2010 and 2011 taxation years.
+[2] The appellant filed his tax returns for the 2005, 2006, 2007, 2008, 2009, 2010 and 2011 taxation years on February 27, 2013 and reported on his Statement of Real Estate Rentals (Form “T776”) total rental income and total rental expenses for those years as follows:
+Total Rental Income
+$
+Total Rental Expenses
+$
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+8,100
+8,150
+8,250
+8,100
+8,125
+8,100
+8,200
+16,064
+16,782
+16,334
+15,324
+13,099
+14,092
+15,258
+[3] By way of the March 28, 2013 assessments made pursuant to subsection 152(7) of the ITA, the Minister denied the total rental income and the total rental expenses reported on each yearly T776 because it was determined that the appellant’s rental operation was not a source of income.
+[4] For the purpose of the assessments, the Minister made the assumptions of fact set out in subparagraphs (a) to (w) of paragraph 7 of the Reply to the Notice of Appeal which reads as follows:
+a) the facts stated above;
+b) in 1978 the appellant purchased a 900 square foot bungalow situated at 222 Birchcliffe Crescent, Hamilton (the “Birchcliffe”);
+c) in 1989 the appellant purchased a 1000 square foot bungalow located at 35 Nordale Crescent, Stoney Creek (the “Nordale”);
+d) the appellant claimed combined rental losses for Birchcliffe and Nordale of $7,964, $8,632, $8,084, $7,224, $4,974, $5,992, and $7,058 for the 2005, 2006, 2007, 2008, 2009, 2010 and 2011 tax years, respectively;
+e) the appellant stated he:
+(i) charged rent below fair market value due to high rental vacancies rates in Hamilton between 2005 and 2011 years;
+(ii) to attract tenants;
+(iii) his insurance company advised him if the properties remained vacant they would not cover him; and
+(iv) that the tenants of Birchcliffe and Nordale had expressed an interest to purchase the respective properties;
+f) the Canada Mortgage and Housing Corporation (the “CMHC”) reported Hamilton vacancies rates between 3.2 and 4.3 percent, with an average rent for a structure with three or more units to be between $800 to $900 per month, per unit for the 2005 through 2011 years.
+g) the Hamilton Community Foundation reported similar findings as the CMHC and indicated that average rent for a two bedroom dwelling was approximately$753 per month, and $893 per month for a three bedroom unit for the 2007 year;
+h) the appellant wanted to maintain his insurance on Birchcliffe and Nordale;
+i) the appellant intended to sell Birchcliffe and Nordale to his tenants at his first opportunity;
+Birchcliffe
+j) Birchcliffe was rented out between November 2005 to April 2006 to R. Laframboise for $425 per month;
+k) Birchcliffe was rented out between May 2006 to July 2007 to H. Paterson for $425 per month;
+l) Birchcliffe remained unoccupied between August 2007 to January 2008;
+m) Birchcliffe was rented out (sic) the appellant’s niece since February 2008 for $200 per month;
+Nordale
+n) Nordale remained unoccupied between January 2005 to April 2006;
+o) Nordale was rented to R. LaFramboise from May 2006 to November 2007 for $425 per month;
+p) Nordale remained unoccupied between December 2007 to April 2008;
+q) Nordale was rented to K. Dore, a personal friend of the appellant, from May 2008 for $425 per month;
+r) the appellant did not rent Birchcliffe and Nordale at fair market value for the 2005, 2006, 2007, 2008, 2009, 2010 and 2011 tax years;
+s) the appellant did not operate Birchcliffe and Nordale at arm’s length for the purpose of earning rental income;
+t) at no relevant time did the appellant have a reasonable expectation of profit;
+u) the appellant did not conduct any rental activity for the 2005, 2006, 2007, 2008, 2009, 2010 and 2011 tax years, in a sufficiently commercial manner, for profit;
+v) the combined rental expenses claimed by the appellant for the 2005, 2006, 2007, 2008, 2009, 2010 and 2011 tax years, we’re (sic) not incurred in relation to any rental activity;
+w) if any of the disallowed 2005, 2006, 2007, 2008, 2009, 2010 and 2011 rental expenses were incurred by the appellant, these were the personal expenses of the appellant;
+[5] The Deputy Attorney General of Canada also relied on the following other material facts set out in paragraphs 8 and 9 of the Reply to the Notice of Appeal:
+8. The appellant did not record rental activities for the 2012 and 2013 tax years, nor did he record a disposition of real property.
+9. The appellant has not filed his 2014 and 2015 tax years.
+[6] Mr. Hustak testified at the hearing. He is a former Canada Post’s employee who retired 14 years ago. He explained that he purchased, for investment purposes, the following properties:
+- a 900-square foot bungalow located at 222 Birchcliffe Crescent, Hamilton (the “Birchcliffe”); and
+- a 1,000-square foot bungalow located at 35 Nordale Crescent, Stoney Creek (the “Nordale”).
+[7] The Birchcliffe was purchased in 1978 and the Nordale was purchased in 1989. The appellant financed part of the acquisition costs of the properties by taking a five-year mortgage on each property. The properties were not new and required minor renovations. Mr. Hustak explained that the two properties were always rented and that he never lived in them. He found tenants by putting a sign on the property to be leased and by advertising in the local newspaper.
+[8] Mr. Hustak entered into evidence two orders dated May 18, 2004 pursuant to section 69 of the Ontario Tenant Protection Act, 1997, each of which terminated the tenancy and evicted Dorin Crooks and Jordan Miller (the “Tenants”) because the Tenants did not pay the rent owing for the period from December 1, 2003 to April 19, 2004. The Tenants rented the Birchcliffe and the Nordale. The Tenants were evicted but Mr. Hustak did not get any money from them for the rent owing nor for the substantial damages made to the two properties. Mr. Hustak regained possession of the properties in the fall of 2004 and did the renovations himself during most of 2005. In fact, the Birchcliffe remained vacant until the end of October 2005 and the Nordale remained vacant until the end of April 2006.
+[9] Mr. Hustak also entered into evidence a summary of the occupancy of each property for the years 2005 to 2011.
+[10] The Birchcliffe was rented to R. LaFramboise from November 1, 2005 to April 30, 2006 for a monthly rent of $425. The property was thereafter rented to H. Paterson from May 1, 2006 to August 2007 also for a monthly rent of $425. The property was vacant from September 2007 to January 31, 2008 and was thereafter rented to Corina Hustak, a niece of the appellant, from February 1, 2008 to December 31, 2011 for a monthly rent of $200.
+[11] The Nordale was rented to R. LaFramboise from May 1, 2006 to October 31, 2007, for a monthly rent of $425. The property was vacant from November 1, 2007 to February 2008 and thereafter was rented to R. Dore from March 1, 2008 to December 31, 2011 for a monthly rent of $475.
+[12] Mr. Hustak explained that the rent charged to his tenants were net rent which means that the tenants had to pay for heat, hydro, water, sewage waste, water storm charges and hot water tank rental fees. According to Mr. Hustak, if these expenses were added to the rent, the rent would be about $300 more depending on the tenants’ usage of the utilities.
+[13] Mr. Hustak stated that he could not increase the rent to cover the utilities’ expenses. His primary objective was to recover the interest portion of the mortgage payments, the property taxes and the insurance costs to ensure that the properties were not vacant to maintain the insurance coverage.
+[14] In Stewart v. Canada, [2002] 2 S.C.R. 645, the Supreme Court of Canada established the following test to determine whether or not a taxpayer has a source of income:
+60 In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income. . . .
+[15] At paragraph 54 of the same decision, the Supreme Court of Canada made this additional comment concerning the source of income assessment:
+It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: "Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?" This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+[16] In this case, I believe that there is a material personal element in that one of the properties was rented out to the appellant’s niece for $200 per month, i.e. well below the fair market value and well below the rent charged to the other tenants.
+[17] Based on the evidence before me, I am also convinced that the appellant did not conduct his rental activities in a commercial manner for profit. His expressed intention was not to make a profit but to recover the cost of certain expenses. The appellant was not in pursuit of profit and he did not realize a profit during the six taxation years under appeal.
+[18] The appellant did not carry out his rental activities in a business-like manner. He had no actual leases with his tenants and he made no attempt to determine the comparable rent being charged in the Hamilton area. He also failed to increase the rents over numerous years despite the significant expenses incurred during the years at issue.
+[19] The appellant has not met his burden of proof that he conducted his rental activities in a commercial manner with a view to make a profit and he has not demolished the adverse assumptions made by the Minister in that regard.
+[20] Finally, I would like to point out that the reporting made by the appellant on his Statement of Real Estate Rentals cannot be relied upon because it is very unlikely that his total rental income for 2005 was $8,100 when the two properties were being renovated during most of the year and they were occupied for one or two months only. Furthermore, no detailed review of the expenses claimed by the appellant has been made because the Canada Revenue Agency denied all the expenses.
+[21] As a result of what precedes, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of October 2018.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2018 TCC 199
+COURT FILE NO.:
+2017-1119(IT)I
+STYLE OF CAUSE:
+John Hustak and Her Majesty the Queen
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+May 2, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+October 24, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laura Rhodes
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

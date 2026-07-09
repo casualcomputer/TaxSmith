@@ -1,0 +1,191 @@
+Title: Kallis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/512390/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-58-512390-kallis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-09-01
+
+# Kallis v. The Queen
+
+- Citation: 2021 TCC 58
+- Decision date: 2021-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4466, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kallis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-09-01
+Neutral citation
+2021 TCC 58
+File numbers
+2017-4032(IT)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4032(IT)G
+BETWEEN:
+MICHAEL KALLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 17, 2020, at Calgary, Alberta
+Written submissions on s. 98(3) of the Income Tax Act filed on
+October 1, 2020 (Appellant’s) and October 8, 2020 (Respondent’s)
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Matthew Clark
+Counsel for the Respondent:
+Valerie Meier
+JUDGMENT
+1. The appeal from reassessments made under the Income Tax Act for the Appellant’s 2010, 2011, 2012, 2013 and 2014 taxation years, is dismissed with costs.
+2. The parties shall have until October 29, 2021 to reach an agreement on costs, failing which the Respondent shall file written submissions by November 30, 2021 and the Appellant shall file a written response by January 10, 2022. Any such submissions shall not exceed ten pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then costs shall be awarded to the Respondent in accordance with Tariff B.
+Signed at Ottawa, Canada, this 1st day of September 2021.
+“Susan Wong”
+Wong J.
+Citation: 2021 TCC 58
+Date: 20210901
+Docket: 2017-4032(IT)G
+BETWEEN:
+MICHAEL KALLIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+I. Introduction/Overview
+[1] The appellant is a self-made businessman who founded a successful pipe company in the oil and gas industry. He used some of his income from the pipe company to make interest-bearing loans to third parties. These loans varied in form, duration, and interest rate, among other things. Two third-party borrowers eventually became bankrupt and/or insolvent, and defaulted in repaying him. He sought to deduct his losses as business losses but the Minister of National Revenue says that these losses were on account of capital rather than income.
+II. Issues
+[2] The central question is whether the appellant was in the business of lending money or whether he was an investor during the 2010 to 2014 taxation years. It will determine the question of whether his losses with respect to Assistive Financial Corporation (“AFC”) and First Capital Management (“FCM”) are on account of income or capital.
+[3] There is also a secondary question of whether legal fees incurred by him in an effort to recover monies from AFC are deductible.
+III. Preliminary matters
+(a) Appellant’s alternative position – Business investment losses
+[4] At the commencement of the hearing, the appellant (through his counsel) advised that he was withdrawing his alternative position that the losses in dispute were business investment losses. [1] In the reassessments under appeal, the Minister of National Revenue allowed a business investment loss with respect to FCM but not AFC. [2]
+(b) Section 98 of the General Procedure Rules
+[5] Shortly before the hearing began, an issue arose with respect to the appellant’s intent to give oral testimony containing information that had not been provided to the respondent during or after written discoveries. The respondent objected to this oral evidence on the basis that: (1) the appellant did not take the required corrective measure of providing the information in writing forthwith [3] , and (2) since the information was favorable to his case, the appellant should not be granted leave to introduce it at the hearing. [4] Counsel for the appellant requested an opportunity to make written submissions on the issue and neither party suggested follow-up discoveries as an appropriate remedy. To balance the interests of expediency and fairness, I allowed the appellant to give the impugned testimony without ruling on its admissibility and granted the parties time to file written submissions afterwards.
+[6] The impugned testimony deals with: (1) loans not already described in the respondent’s Reply, and (2) potential borrowers. In the respondent’s written examination for discovery, the appellant was asked to provide particulars of both. [5] In light of the fact that paragraph 2 of the amended notice of appeal asserts that the appellant made many loans of different types, these discovery questions were a logical line of inquiry.
+[7] With respect to category (1), the appellant’s written response in discovery was: “I do not have access to that information anymore. It was a very long time ago.” [6] With respect to category (2), his written response was: “I did not make a file on potential borrowers’ names, therefore, I do not know these names” [7] ; as part of this response, he invited the Minister to review his tax returns for the names of people to whom he loaned money. [8]
+[8] At the hearing, the appellant explained that at the time he answered the written discovery questions, he was travelling abroad without access to his records and gave his response under time pressure. He also explained that he could not recall details from 20 years ago and that over the last several years, he had refreshed his memory by speaking with his wife, among other things.
+[9] I cannot admit the impugned testimony into evidence in light of the appellant’s explanation about the surrounding circumstances. Even if he could not give a detailed response at the time his written discovery answers were due, there appears to have been no attempt to take the corrective measure required by subsection 98(1) of the Rules or to request a time extension to give his answers. When a party gives an answer during examinations for discovery and later realizes that the answer is incorrect, incomplete, or no longer correct and complete, they are obliged by subsection 98(1) to provide the updated information in writing forthwith.
+[10] Rather than being a situation in which the information subsequently came to light, it seems to be more one in which the search effort was not made until close to the eve of hearing. The notice requirement in subsection 98(1) highlights a distinction between the way in which new evidence may be introduced in the General Procedure (where there are multiple pre-hearing steps) versus the Informal Procedure (where there are no pre-hearing steps). In the circumstances of this General Procedure matter, it amounts to unfair surprise for this information to be disclosed to the respondent on the day of hearing because there are earlier stages at which it could have been done.
+IV. Factual background
+[11] The appellant obtained a degree/diploma in Petroleum Engineering Technology in 1978 and worked for various oil companies until about 1990, when he started his own pipe company. In 1990, he also enrolled in a two-year university program in which he learned about business, finance, and marketing. He testified that his company became very successful immediately. He began reducing his physical presence at the company in about 2004 and by 2006, he was able to leave the day-to-day operations with his staff. He stated that he then started considering ways to use his surplus funds.
+[12] He testified that he used word of mouth in the Calgary area to promote his willingness to loan money to potential borrowers, and that he assessed their suitability by speaking with his associates and taking possible candidates out for lunch, dinner or golf to discuss their projects. He testified that he intended to either generate a continuous income stream or receive a lump-sum bonus at the end, depending on the project. He also stated that interest and other loan terms were negotiated as between him and the borrower; for example, some loans were repaid monthly while others included a balloon payment. He testified that he tried to stay under the radar and that he was not trying to compete with banks. He estimated that he spent three or four hours per day or per week on this money-lending operation and did not keep logs or records.
+(a) Assistive Financial Corporation (“AFC”)
+[13] AFC was a private corporation incorporated in 2002 [9] and its capital came from debt financed from the issuance of unsecured notes and debentures. [10] Its main business activity was raising capital and financing loans administered by The Cash Store Financial Services Inc. (“Cash Store Financial”). [11] Cash Store Financial was a payday loan operation which provided short-term payday loans and other financing services to its customers. [12] Funding for the payday loans came from monies which were in turn loaned to Cash Store Financial by AFC. [13] AFC’s principal source of revenue was interest income earned from its loans to Cash Store Financial. [14]
+[14] The appellant began purchasing unsecured debentures from AFC in 2004 [15] . During the period from 2010 to 2014, he subscribed for 16 debentures of which three were issued in 2009 and extended into the period under appeal. [16] The debentures were generally for renewable one-year terms, [17] usually at a rate of 16%, [18] and the amounts ranged from $500,000 to $5.66M. [19]
+[15] For example, he entered into a subscription agreement on April 25, 2013 in which he agreed to purchase a 16.00% subordinated, unsecured debenture from AFC for the aggregate subscription amount of $500,000. [20] The maturity date of the debenture was April 25, 2014 [21] and under the agreement, the maturity date would automatically be extended for consecutive 12-month periods unless the appellant or AFC gave notice. [22] In cross-examination, he agreed that the April 25, 2013 agreement was the standard form of agreement he received from AFC.
+[16] On March 9, 2011, Cash Store Financial notified AFC that increased costs necessitated a proposed reduction in interest paid to its lenders. [23] The next day, AFC sent a letter to investors advising of a 2% reduction in its interest rate and requiring a signed acknowledgment from the appellant as an investor. [24] The appellant signed the acknowledgment on March 31st. [25]
+[17] From 2010 to 2013, he received interest payments totalling $6,445,468 from AFC. [26] In January 2014, 174 debentureholders (including him) applied for a bankruptcy order against AFC on the basis that AFC had defaulted in making interest payments to them beginning in September 2013. [27] With respect to the appellant specifically, AFC owed him $10,025,000 in principal plus unpaid interest. [28]
+(b) First Capital Management (“FCM”)
+[18] FCM was a privately held merchant banking company whose main business was investment in early-stage business opportunities. [29] It did so by financing start-up companies in exchange for founders’ shares, which it held for long-term capital appreciation and future liquidation. [30] It financed its investment activities in part by issuing secured and unsecured promissory notes to third-party investors. [31] FCM held several investments in the energy sector [32] and in 2010, it employed more than five full-time employees. [33]
+[19] The appellant made four loans to FCM totalling $3.5M on February 28, 2006, March 31, 2006, May 31, 2007, and August 31, 2007. [34] The loans had five-year terms at a monthly interest rate of 22.5% payable to him. [35] FCM became insolvent in 2010 and he lost his entire loan principal of $3.5M. [36]
+(c) Legal fees
+[20] The appellant testified that the trustee for AFC’s bankruptcy asked debentureholders to make a pro rata contribution toward legal fees. He stated that as the largest lender, he was required to contribute $75,000 and that $50,000 was eventually returned to him, i.e. he ultimately spent $25,000 in legal fees. [37]
+V. Analysis
+[21] The definition of “business” in the Income Tax Act includes a profession, calling, trade, manufacture or undertaking of any kind whatever. [38] As a result of this broad wording, the question of whether a particular taxpayer’s income comes from a business must be determined by looking at their whole course of conduct in light of the surrounding circumstances. [39] Specifically, one should examine the number of transactions, their volume, their frequency, investment turnover, and the nature of the investments themselves [40] , i.e. the overall level of activity. [41]
+[22] In Kaye, former Chief Justice Bowman stated that:
+It is the inherent commerciality of the enterprise, revealed in its organization, that makes it a business. Subjective intention to make money, while a factor, is not determinative, although its absence may militate against the assertion that an activity is a business.
+. . .
+One must ask “Would a reasonable person, looking at a particular activity and applying ordinary standards of commercial common sense, say ‘yes, this is a business’?” In answering this question the hypothetical reasonable person would look at such things as capitalization, knowledge of the participant and time spent. He or she would also consider whether the person claiming to be in business has gone about it in an orderly, businesslike way and in the way that a business person would normally be expected to do. [42]
+[23] Some indicia which suggest the lack of a business include a lack of advertising and promotion to actively seek out new clients, lack of an accounting system, and the absence of “screening” with respect to new borrowers. [43] On the other hand, some factors in support of a business include activity to acquire funds to lend in the first place (e.g. borrowing at a low interest rate and lending at a higher one), taking security on loans, as well as the overall number and complexity of the loans. [44]
+[24] The appellant’s success as a self-made businessman is admirable and the losses he experienced with respect to his loans to AFC and FCM are very unfortunate. However, I cannot find that he was in the business of lending money during the years under appeal because the positive indicia of a business were either absent or minimally present. For example, he used his own surplus funds for the loans, his AFC debentures were unsecured, his portfolio of borrowers was very limited, and there was no evidence introduced to support the conclusion that the number of loans was significant in the circumstances or that their arrangements were complex. It also does not appear that he negotiated terms with AFC, such as duration and interest rate; rather, his discretion seemed limited to deciding whether not to buy or extend a debenture.
+[25] With respect to advertising and promotion, he relied on word of mouth within his Calgary community and he screened potential borrowers by taking them out for social activities. To the extent that there were other actual or potential borrowers, he did not provide those records to the respondent at the discovery stage nor attempt to introduce any records at the hearing. It leads me to draw an adverse inference that he did not keep business records in relation to his lending activity; rather, the level of recordkeeping is more consistent with a non-business (i.e. investment) situation. The appellant has proven his business acumen with his pipe company and I cannot find that he went about his loan activities in an orderly, businesslike way, as a business person would normally be expected to do.
+[26] Section 230 of the Act requires that every person carrying on business shall keep records and books of account such that taxes and deductions can be determined, and sets a general limitation period of six years. [45] It is the heart of a self-assessing tax system and since the appellant’s lending activities did not amount to a business, I would not expect him to have kept such records. During his testimony, he referred to the fact that his filed tax returns would contain information to address the above business indicia. Although I do not know what his filed returns looked like, it would be highly unusual for a return to contain such information.
+[27] With respect to the legal fees contributed by the appellant during AFC’s bankruptcy, they were spent in an effort to recover $10,025,000 in principal plus unpaid interest. The general limitation in paragraph 18(1)(a) of the Act says that an expense must be incurred for the purpose of earning income from a business or property in order to be deductible. Perhaps there was an argument to be made that to the extent the fees were spent to recover interest (i.e. income), they might be deductible. However, I am unable to make subtle distinctions in light of the lack of evidence adduced. In light of the fact that the entire amount of the principal was claimed as a business loss, I would conclude on a balance that the legal fees were a capital outlay and not deductible. [46]
+[28] The evidence excluded by my section 98 ruling consisted of fairly non-specific oral testimony and would not have affected my conclusion.
+VI. Conclusion
+[29] The appellant’s lending activities were not a business and therefore, his losses with respect to AFC and FMC were on account of capital during the years under appeal. In addition, the legal fees spent to attempt to recover monies during AFC’s bankruptcy were a capital outlay. Although the appellant withdrew his alternative position that the losses in dispute were business investment losses, my decision should not affect the business investment loss already allowed with respect to FCM in the Minister’s reassessments.
+[30] For all of the above reasons, the appeal is dismissed with costs.
+[31] The parties shall have until October 29, 2021 to reach an agreement on costs, failing which the respondent shall file written submissions by November 30, 2021 and the appellant shall file a written response by January 10, 2022. Any such submissions shall not exceed ten pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then costs shall be awarded to the respondent in accordance with Tariff B.
+Signed at Ottawa, Canada, this 1st day of September 2021.
+“Susan Wong”
+Wong J.
+CITATION:
+2021 TCC 58
+COURT FILE NO.:
+2017-4032(IT)G
+STYLE OF CAUSE:
+MICHAEL KALLIS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+September 17, 2020
+Written submissions on s. 98(3) of the Income Tax Act filed on
+October 1, 2020 (Appellant’s) and October 8, 2020 (Respondent’s)
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+September 1, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Matthew Clark
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Matthew Clark
+Firm:
+Matthew Clark Professional Corporation
+Calgary, Alberta
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Amended notice of appeal, paragraph 7
+[2] Reply to the notice of appeal, paragraph 12
+[3] Tax Court of Canada Rules (General Procedure), s. 98(1)
+[4] Tax Court of Canada Rules (General Procedure), s. 98(3)
+[5] Transcript of Tax Court of Canada proceedings at page 58 (lines 14 to 26), page 60 (lines 6 to 12); Appellant’s written submissions filed on October 1, 2020 at paragraphs 5 and 6
+[6] Transcript of Tax Court of Canada proceedings at page 59 (lines 1 to 3); Appellant’s written submissions filed on October 1, 2020 at paragraph 5
+[7] Transcript of Tax Court of Canada proceedings at page 60 (lines 14 to 16); Appellant’s written submissions filed on October 1, 2020 at paragraph 6
+[8] Appellant’s written submissions filed on October 1, 2020 at paragraph 6
+[9] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (n); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[10] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (t); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[11] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (u); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[12] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (x); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[13] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraphs (v) and (w); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[14] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (z); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[15] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (ee); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[16] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraphs (ii), (jj), (kk), and (ll); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[17] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (gg) and (kk); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1; Exhibit R-1, Tab 3 – Subscription Agreement for Debentures, Exhibit 1 (to the agreement) and Schedule “A” (definition of “Maturity Date”)
+[18] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraphs (kk) and (ll); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[19] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraphs (kk) and (ll); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[20] Exhibit R-1, Tab 3 – Subscription Agreement for Debentures, page 1
+[21] Exhibit R-1, Tab 3 – Subscription Agreement for Debentures, Exhibit 1 (to the agreement)
+[22] Exhibit R-1, Tab 3 – Subscription Agreement for Debentures, Schedule “A” (definition of “Maturity Date”)
+[23] Exhibit R-1, Tab 4
+[24] Exhibit R-1, Tab 4
+[25] Exhibit R-1, Tab 4
+[26] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (mm); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[27] Exhibit R-1, Tab 5, paragraph 18 and Schedule A
+[28] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (nn); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1; Exhibit R-1, Tab 5, paragraph 18 and Schedule A
+[29] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (tt) and (uu); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[30] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (vv) and (ww); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[31] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (xx); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[32] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (yy) and (zz); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[33] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (ccc); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[34] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (eee); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[35] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (fff), (ggg), and (hhh); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[36] Exhibit R-1, Tab 1 -- Respondent’s Request to Admit at paragraph (jjj) and (kkk); Exhibit R-1, Tab 2 – Response to Request to Admit at paragraph 1
+[37] Exhibit R-1, Tabs 10 and 11
+[38] Income Tax Act, subsection 248(1), definition of “business”
+[39] Canadian Marconi Company v. The Queen, [1986] 2 SCR 522 at paragraph 12; Meilleur v. The Queen, 2016 TCC 287 at paragraph 50.
+[40] Canadian Marconi Company v. The Queen, [1986] 2 SCR 522 at paragraph 12.
+[41] Langhammer v. The Queen, 2000 CanLII 473 (TCC) at paragraphs 34 and 35.
+[42] Kaye v. The Queen, 1998 CanLII 182 (TCC) at paragraphs 4 and 5.
+[43] Langhammer v. The Queen, 2000 CanLII 473 (TCC) at paragraph 36; Meilleur v. The Queen, 2016 TCC 287 at paragraph 47.
+[44] Langhammer v. The Queen, 2000 CanLII 473 (TCC) at paragraph 35; Meilleur v. The Queen, 2016 TCC 287 at paragraph 47.
+[45] Income Tax Act, subsections 230(1) and (4)
+[46] Income Tax Act, paragraph 18(1)(b)

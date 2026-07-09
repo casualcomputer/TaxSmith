@@ -1,0 +1,202 @@
+Title: Shair v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27053/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-278-27053-shair-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-05-10
+
+# Shair v. The Queen
+
+- Citation: 2006 TCC 278
+- Decision date: 2006-05-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 598, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shair v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-10
+Neutral citation
+2006 TCC 278
+File numbers
+2002-733(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-733(IT)G
+BETWEEN:
+AWNI SHAIR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Awni Shair
+(2002-734(IT)I) and A & C Auto Repairs Ltd. (2002-1438(IT)I),
+on October 5, 2005, at Toronto, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Robert N. Kostyniuk
+Counsel for the Respondent:
+Eleanor Thorn and Eric Sherbert
+____________________________________________________________________
+JUDGMENT
+Upon consent of the parties, the appeal from the reassessment of tax made under the Income Tax Act for the 1994 taxation year is allowed, without costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of May, 2006.
+"C.H. McArthur"
+McArthur J.
+Docket: 2002-734(IT)I
+BETWEEN:
+AWNI SHAIR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Awni Shair
+(2002-733(IT)G) and A & C Auto Repairs Ltd. (2002-1438(IT)I),
+on October 5, 2005, at Toronto, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Robert N. Kostyniuk
+Counsel for the Respondent:
+Eleanor Thorn and Eric Sherbert
+____________________________________________________________________
+JUDGMENT
+The purported appeal from the assessment of tax made under the Income Tax Act for the 1995 taxation year is quashed.
+The appeals from assessments of tax made under the Act for the 1996 and 1997 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalties pursuant to subsection 163(2) of the Act are waived.
+Signed at Ottawa, Canada, this 10th day of May, 2006.
+"C.H. McArthur"
+McArthur J.
+Docket: 2002-1438(IT)I
+BETWEEN:
+A & C AUTO REPAIRS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Awni Shair
+(2002-733(IT)G) and Awni Shair (2002-734(IT)I),
+on October 5, 2005, at Toronto, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Robert N. Kostyniuk
+Counsel for the Respondent:
+Eleanor Thorn and Eric Sherbert
+____________________________________________________________________
+JUDGMENT
+Upon consent of the parties, the purported appeal from the assessment of tax made under the Income Tax Act for the 1994 taxation year is quashed.
+The appeal from the assessment of tax made under the Act for the 1995 taxation year is dismissed.
+The appeals from assessments of tax made under the Act for the 1996, 1997 and 1998 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalties pursuant to subsection 163(2) of the Act are waived.
+Signed at Ottawa, Canada, this 10th day of May, 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC278
+Date: 20060510
+Docket: 2002-733(IT)G
+2002-734(IT)I
+2002-1438(IT)I
+BETWEEN:
+AWNI SHAIR and
+A & C AUTO REPAIRS LTD.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals were heard on common evidence and deal with the net worth reassessments by the Minister of National Revenue of Awni Shair for the 1994, 1995, 1996 and 1997 taxation years. In addition, A & C Auto Repairs Ltd. (A & C) was reassessed for its years ending March 31, 1994, 1995, 1996, 1997 and 1998 with respect to unreported income which was appropriated to Shair, and the disallowance of capital cost allowances in its 1998 taxation year, which losses originated in the 1996 and 1997 taxation years.
+[2] At the commencement of the hearing, the parties informed the Court that the appeal of Mr. Shair with respect to the 1994 taxation year was allowed, without costs, and that the appeal for the 1995 taxation year was quashed since it was a an appeal against a nil assessment. Also, the Court was informed that the 1994 appeal of A & C was quashed, with the consent of the Appellant, as a result of a nil assessment. In addition, counsel for A & C stated that the appeal from the 1995 taxation year was "dealt with, or is being dealt with". Issues related to the 1995 year were therefore not addressed at trial.
+[3] As a result of the above, the appeals before the Court are the 1996 and 1997 taxation years of Mr. Shair, and the 1996, 1997 and 1998 taxation years of A & C, all of which appeals will be dismissed, without costs, for reasons outlined below.
+[4] Mr. Shair is the sole shareholder and director of A & C and Shair Investments Ltd. He was assessed personally on November 29, 2001. After his objection, he was reassessed on February 7, 2003, whereby the Minister accepted the total income reported in the 1995 taxation year resulting in a nil reassessment. Further, as a result of the net worth assessments, the Minister determined that Shair failed to include in income the amounts of $14,882 and $20,909 in the 1996 and 1997 taxation years, respectively, and assumed that these amounts were received as undeclared benefits from A & C and Shair Investments Ltd. The Minister also levied penalties in the amounts of $2,900 and $3,595 for those years, respectively.
+[5] A & C has been in the business of repairing and selling cars since the early 1980s, and for a time in the 1990s, the corporation also sold gasoline. For the most part, it was a cash business and the corporation did not maintain adequate books and records.
+[6] Evidence was adduced on behalf of the Appellants by Shair and by James Weir, an expert witness. Also, Ray Maciel, a Canada Revenue Agency auditor, testified on behalf of the Respondent.
+[7] Mr. Weir is a self-made accountant of many years experience who worked in responsible positions for major Canadian banks before joining CRA, where he developed procedures and training courses, and mediated between auditors and appeals officers. He left the employ of CRA in 1996, took a "traveling hiatus" as he put it, and then worked as an independent tax consultant temporarily, before being rehired by CRA.
+[8] Mr. Weir reviewed the financial records and assessments of both Appellants, in his capacity as an independent consultant, retained by the Appellants, prior to his being rehired by CRA. His evidence was given under subpoena, and I realize that he was placed in an awkward position by virtue of his current employment situation. Based on his qualifications, I accept Mr. Weir as an expert witness.
+[9] Pursuant to his review of the Appellants' books and records, Mr. Weir offered his opinion on their finances, as well as an explanation of perceived irregularities which gave rise to the reassessments of Mr. Shair personally. According to Mr. Weir, the key problem and basis for the initial assessments can be traced back to issues related to the purchase and sale of a single automobile. The vehicle in question was acquired by A & C in its 1997 fiscal year, and at some point Shair began using it as his own personal vehicle, and then the vehicle was resold by A & C in its 1998 fiscal year.
+[10] CRA allowed Shair to amend the 1998 corporate tax return of A & C to include the cost of $22,000 of the vehicle from its resale. This would have the effect of increasing the income of A & C in its 1997 fiscal year by $22,000 and decreasing the income for the company by the same amount for its 1998 fiscal year. Unfortunately, rather than reducing the income of A & C for 1998 by the $22,000 cost of the vehicle (e.g. $28,813 income less $22,000, for a revised income of $6,813), the income for A & C was inadvertently reduced to negative $22,000, a difference in income for the 1998 fiscal year of over $50,000. In Mr. Weir's opinion, the method of accounting for the purchase and sale of the vehicle, and the error in A & C's corporate tax return for 1998, are key elements in the purportedly incorrect assessment of Shair's net worth for 1996. According to Mr. Weir, the 1996 personal income tax return of Shair was accurate.
+[11] There also appears to be confusion surrounding the ownership of the vehicle in question. Mr. Weir stated that CRA attributed ownership of the vehicle to Shair for the 1996 taxation year, but Shair did not assume 'temporary ownership' of the vehicle until March 1997. No other evidence was led to clarify the timing of this acquisition. Mr. Maciel also testified to confusion regarding the actual identity of the vehicle. According to him, when the original auditor left the Revenue Department, he took over the management of the Shair/A & C files. He testified that based on the auditor's notes, she had difficulty tracing the flow of a certain vehicle from the time of its purchase through its resale, and that it appeared that the vehicle identification number for said vehicle was associated with a Volkswagen Jetta at the time of purchase. However, the same VIN was used in reference to a Mercedes Benz at the time that the vehicle was resold. Mr. Maciel was somewhat vague on this point in his testimony and again, no documentary evidence was produced.
+[12] When asked about the discrepancies in his net worth for 1996 and 1997, Shair's response was "I think they're just using what I was told by this auditor and the girl before him, that they're just using a statistic... an assumption. They are just assuming that".
+[13] Turning to the appeals by A & C for the 1996, 1997 and 1998 taxation years, the company reported income/(losses) of ($17,245), ($17,000), and $27,182 respectively. According to the Minister, it failed to report income of $3,721, $16,389, and $15,682, respectively. Late filing penalties were issued pursuant to subsection 162(1) of the Income Tax Act, (the Act) in the amount of $619 for the 1998 taxation year.
+[14] According to the submissions on behalf of A & C, CRA did not allow certain non-capital losses for the 1996 and 1997 taxation years, and those amounts are directly relevant to the determination of tax liability for the 1998 taxation year, since the Appellant wishes to carry forward the losses as against income for 1998. A & C requests that the non-capital losses for 1996 and 1997 available for carry forward be determined as $17,335 and $17,000, respectively.
+[15] The appeals by A & C that the non-capital losses from 1996 and 1997 be available for carry-forward would in effect result in the net worth assessments for those years be vacated, since the losses of $17,335 and $17,000 were recognized by CRA, and were actually set off against the increase in net income arising out of the net worth assessments for 1996 and 1997.
+[16] In copies of CRA documents attached to the Notice of Appeal of A & C, it appears that CRA recognized the loss in its 1996 return as being $17,335, but adjusted this loss by adding unreported income of $3,721 established pursuant to the net worth assessment. Therefore, the net loss for the year was $13,614, which amount was carried back to offset unreported income of A & C for the 1994 and 1995 taxation years. At the hearing, Mr. Weir, for the Appellants, stated that "it has not been determined that there was no unreported income in 1994. So the 1996 loss is still available for carry-forward". This is incorrect. The 1994 appeal of A & C was quashed at the outset of the hearing with the consent of the Appellant. It is clear that the Minister's position is that there was $8,895 of unreported income for 1994, and that the losses in the amount of the unreported income from 1996 are rightly considered absorbed in the 1994 fiscal year.
+[17] The loss indicated in A & C's tax return for 1997 was $17,000, which was adjusted by the unreported income of $16,388, for a net loss of $612. The income of A & C for 1998 was $27,182, which was increased by $15,682 by the net worth assessment, for a revised net taxable income of $42,682.
+[18] In its Notice of Appeal and in the Minister's Reply, there is reference to the company's capital cost allowance deductions for the years in question, indicating that the issue of losses goes beyond the use of the $17,335 and $17,000 business losses. Little or no evidence was offered with respect to the extent of capital cost allowance deductions, and I make no finding in respect of this issue.
+[19] As a result of the above, the issues for determination are:
+(i) whether the use of net worth assessments was justified;
+(ii) whether the Minister properly reassessed Mr. Shair so as to include in his income the amounts of $14,882 and $20,909 in the 1996 and 1997 taxation year, respectively;
+(iii) whether A & C underreported income for the 1996, 1997 and 1998 taxation years in the amounts of $3,721, $16,389, and $15,682, respectively;
+(iv) whether relief can be provided to A & C in respect of losses it wishes to carry forward from 1996 and 1997 into the 1998 taxation year;
+(v) whether the Minister properly levied penalties against Mr. Shair for the 1996 and 1997 taxation years of $2,900.37 and $3,595.18, respectively, pursuant to subsection 163(2) of the Act; and
+(vi) whether the Minister correctly assessed penalties against A & C in the amount of $619 for the 1998 taxation year.
+[20] I accept Mr. Maciel's explanation of why the net worth assessments were deemed necessary, as underscored by the facts of the case, and the admission of Shair that there were many errors in the books and records, and returns filed.
+[21] With respect to net worth assessments, Bowman J. made the following comments in Ramey v. The Queen:[1]
+... The net worth method of estimating income is an unsatisfactory and imprecise way of determining a taxpayer's income for the year. It is a blunt instrument of which the Minister must avail himself as a last resort. A net worth assessment involves a comparison of a taxpayer's net worth, i.e., the cost of his assets less his liabilities, at the beginning of a year, with his net worth at the end of the year. To the difference so determined there are added his expenditures in the year. The resulting figure is assumed to be his income unless the taxpayer establishes the contrary. Such assessments may be inaccurate within a range of indeterminate magnitude but unless they are shown to be wrong they stand. It is almost impossible to challenge such assessments piecemeal. The only truly effective way of disputing them is by means of a complete reconstruction of a taxpayer's income for a year. A taxpayer whose business records and method of reporting income are in such a state of disarray that a net worth assessment is required is frequently the author of his or her own misfortunes. ...
+[22] Expert evidence is to assist the trial judge in complicated fact situations. It cannot replace unproven facts. Not only that the onus of proof is on the Appellants to overcome the assumptions of the Minister, but also that where the assessments are made on a net worth basis, a taxpayer must provide detailed evidence in support of its cause.
+[23] I agree with counsel for the Respondent who submitted that there is a lack of documentary evidence to support the financial statements contained in the Joint Book of Documents,[2]and that the Appellants must support the financial statements by way of evidence. The Respondent further stated that the net worth assessments approach was utilized since the existing books and records did not support the financial statements filed. Also, it was evident that the lifestyle of Mr. Shair was not commensurate with his declared income. The evidence of Mr. Weir in this regard was of no assistance.
+[24] I do understand and appreciate that the Appellants did not want to inundate the Court with boxes of receipts and documents, but I have reservations about accepting at face value the opinions that the accounting and reporting problems with the purchase and sale of a single vehicle are the key to the over-estimation of Mr. Shair's net worth and the underreported income of A & C. Additionally, I find that Mr. Weir's opinion that Mr. Shair's 1996 tax return was accurate is simply insufficient.
+[25] Unfortunately for the Appellants, Mr. Weir did not establish to my satisfaction that the errors in the corporate tax returns of A & C led to a misapprehension by the Minister of Mr. Shair's net worth for the 1996 taxation year. The testimony with respect to the error in A & C's 1998 tax return was clear and understandable, but that error was not effectively linked back to the Appellants' argument that the net worth assessment for 1996 was incorrect. I appreciate Mr. Weir's competence in the realms of accounting and taxation, but the opinions he presented fall short of what would be required for Mr. Shair's 1996 appeal to succeed.
+[26] When asked about the discrepancies in his net worth for 1996 and 1997, Mr. Shair dismissed the Minister's assumptions as "mere assumptions". I would not expect a taxpayer to necessarily fully appreciate the unique nature of assumptions and onus in tax litigation, but as mentioned it is widely accepted that the Minister's assumptions are considered proven if not overcome on a balance of probabilities. Mr. Shair's testimony is simply insufficient to overcome the assumptions of the Minister.
+[27] Mr. Shair's appeal in respect of the reassessment for the 1997 taxation year is also dismissed as it is an appeal from a nil assessment, as discussed above. A "new" reassessment nullifies its predecessor completely, unless that reassessment is itself a nullity which is not the case here. It is trite to say that a reassessment is vitiated by a subsequent reassessment, and that no appeal lies from a nullity. The Respondent relies on Parent v. The Queen[3] for the proposition that an appeal must be quashed if not amended.
+[28] The Respondent also advised that counsel for the Appellant was made aware that a new reassessment had been issued for the 1997 taxation year and that the previous reassessment was a nullity. That the Appellant was aware that the appeals were to be amended is confirmed by the transcript of a conference call held before Justice O'Connor on October 16, 2003. Further, counsel for the Respondent stated that the Appellants' counsel was reminded about this matter multiple times. I find that it would be prejudicial to the Respondent, and to the proceedings, to allow the appeal from the assessment for the 1997 taxation year to proceed considering not only the technical flaw in the Notice of Appeal, but also considering the fact that the Appellant was given ample opportunity to correct the defect and neglected to do so. No request to amend the pleadings was made, and there was no demonstrated intention to do so.
+[29] I have fully reviewed the pleadings and evidence submitted with respect to Mr. Shair's income tax for 1997, and although I am dismissing the appeal on the basis of the inadequacy with the pleadings, I feel compelled to note that the case would also fail on its merits.
+[30] In the appeals of A & C, the issue as framed by the Appellant relates not to the amount of tax assessed for the years in question, but rather to the amounts of losses recognized by CRA. According to the facts set out above, CRA set off unreported income of A & C against the losses declared on the company's income tax returns in the process of arriving at adjusted taxable income for the 1996, 1997 and 1998 fiscal years. The Appellant would like to appeal from the Minister's assessments for 1996 and 1997 in order to utilize losses for those years to offset income for 1998, but is of the understanding that no appeal lies from a nil assessment. Counsel for the Appellant correctly stated that establishing the A & C case depends on two steps: firstly it must be established that a taxpayer can appeal a nil assessment when loss carry-forwards are at issue; and secondly they must establish the true amounts of losses for the years in question.
+[31] Again, a taxpayer cannot appeal a nil assessment and Consumers' Gas Co. v. R.[4] is the leading case on this point, but there are some caveats. It is an affront to common sense that a taxpayer would be unable to appeal a nil assessment when losses rather than net income for the year are at issue to specifically provide for an appeals process for the determination of losses when a taxpayer's liability for a given tax year is nil.
+[32] An alternative means for determining losses where an assessment is nil is provided in Aallcann Wood Suppliers Inc. v. R.[5] Bowman J. held that the determination of capital losses under a nil assessment may be considered by the Court if they affect the taxpayer's loss carry-forwards. He stated at paragraph 4:
+... One of the reasons for the enactment of subsection 152(1.1) was that no appeal lies from a nil assessment. In the absence of a binding loss determination under subsection 152(1.1), it is open to a taxpayer to challenge the Minister's calculation of a loss for a particular year in an appeal for another year where the amount of the taxpayer's taxable income is affected by the size of the loss that is available for carry-forward under section 111. In challenging the assessment for a year in which tax is payable on the basis that the Minister has incorrectly ascertained the amount of a loss for a prior or subsequent year that is available for deduction under section 111 in the computation of the taxpayer's taxable income for the year under appeal, the taxpayer is requesting the court to do precisely what the appeal procedures of the Income Tax Act contemplate: to determine the correctness of an assessment of tax by reviewing the correctness of one or more of the constituent elements thereof, in this case the size of a loss available from another year. This does not involve the court's making a determination of loss under subsection 152(1.1) or entertaining an appeal from a nil assessment. It involves merely the determination of the correctness of the assessment for the year before it.
+[33] In Liampat Holdings Limited. v. The Queen,[6] the approach in Aallcann was approved, however, the cases were distinguishable on their facts, because in Liampat, the taxpayer had no capital gains against which to offset the capital losses in question. Hence, carrying those losses forward would have had no effect on the taxpayer's tax liability.
+[34] In the present appeals, the expenses in question are current, rather than on account of capital, but I see no reason why the general principle from Aallcann should not apply. As argued by the Appellants, the Court has jurisdiction to consider the determination of losses under a nil assessment where loss carry-forwards are at issue, and as such the appeal is not void as being an appeal against a nil assessment.
+[35] In terms of the amount of losses available for carry-forward from 1996 and 1997 to the 1998 taxation year, I cannot allow the amounts requested by the Appellants. A & C requests that $17,245 of losses from 1996 be allowed to be carried forward, however CRA also determined that there was $3,721 of unreported income for that year, which determination has not been challenged in these appeals. The remainder of just over $13,000 in losses were carried-back automatically by CRA and applied to A & C's unreported income for 1994 and 1995. Therefore, as stated, the appeal from the 1994 reassessment was quashed, and counsel for the Appellant alluded to the settlement of the 1995 appeal. In his closing argument counsel for the Appellant suggested that the reassessment of unreported income for 1994 and 1995 had been deleted, but I find this to be in error, or at least wholly unsupported by the record.
+[36] In order for the Appellants to carry-forward the $17,000 loss from the 1997 fiscal year, it would have to establish that that loss was not offset by the unreported income determined by CRA for the same year. The evidentiary problems with Mr. Shair's appeals also apply to the A & C appeals. Additionally, I must remark that the Appellant's argument seems contradictory, or at least confusing, with respect to the correct amounts of income for 1997 and 1998. Either the $22,000 cost-of-goods sold belongs in 1997 or 1998. If it belongs in 1997 then, as I understand it, the loss for the year is correctly determined as being $17,000. If the cost-of-goods sold of $22,000 belongs in the 1998 fiscal year, then the Appellant would have approximately $5,000 in income for 1997 and approximately $6,000 in income for 1998. CRA has made adjustments to those tax years of $16,388 and $15,682 respectively, representing unreported income. Whether the $22,000 is claimed in 1997 or 1998 does not explain away the unreported income for both years, and ultimately does not reduce the Appellant's tax burden. This is confirmed by the evidence of Mr. Weir, who stated that but for the use of carry-backs to 1994 and 1995, there were no tax consequences for the reallocation of the purchase and sale of the vehicle from 1997 to 1998.
+[37] The effect of the miscalculation in A & C's 1998 tax return in which it entered net income of negative $22,000 rather than deducting $22,000 from the $28,813, may have had an impact on CRA's appraisal of the net worth of the company in 1997 and 1998, but this cannot be determined with any degree of certainty considering the evidence before me. Although the Court has the power to grant the relief requested, the Appellants have not made out the case for so doing.
+[38] Penalties can be assessed in respect of net worth assessments. See Philip v. The Queen[7] and Leo Chow and Leo's the Place Cabaret Ltd. v. The Queen.[8] However, the onus is on the Minister to justify penalties pursuant to subsection 163(3) which states:
+163(3) Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[39] In accordance with Gosse v. The Queen,[9] the provisions of section 163 are to be interpreted so as to give the benefit of the doubt to the taxpayer. Moreover, the Minister cannot rely on assumptions that the taxpayer must demolish so as to meet the onus under subsection 163(3).[10] The onus and burden with respect to penalties under subsection 163(2) were recently discussed by the Federal Court of Appeal in Zsoldos et al. v. The Queen,[11] as follows:
+It is clear under subsection 163(2) that the Minister has the onus of proving on a balance of probabilities that Mrs. Zsoldos knowingly, or in circumstances amounting to gross negligence, participated in, assented to or acquiesced in the making of a false statement or omission in filing her returns. In assessing the penalties for gross negligence, the Minister must prove a high degree of negligence, one that is tantamount to intentional acting or an indifference as to whether the law is complied with or not. (See Venne v. R. 84 DTC 6247 at 6256 (F.T.D.)) A taxpayer may avoid these penalty provisions where he or she has relied on the erroneous advice of a tax advisor and has not knowingly failed to report income or a capital gain. (See Findlayv. R., 2000 DTC 6345 (F.C.A.)).
+[40] In this case the Respondent did not justify the penalties levied by the Minister pursuant to subsection 163(2) and, therefore, those penalties in both the Shair and the A & C appeals are waived. In all other respects, the appeals are dismissed.
+Signed at Ottawa, Canada, this 10th day of May, 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2006TCC278
+COURT FILE NO.: 2002-733(IT)G, 2002-734(IT)I and
+2002-1438(IT)I
+STYLE OF CAUSE: Awni Shair and A & C Auto Repairs Ltd. and Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 5, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: May 10, 2006
+APPEARANCES:
+Counsel for the Appellants:
+Robert Kostyniuk
+Counsel for the Respondent:
+Eleanor Thorn and Eric Sherbert
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Robert N. Kostyniuk
+Firm: Kostyniuk & Bruggeman
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 93 DTC 791 (T.C.C.).
+[2] Exhibit R-1.
+[3] 2003 DTC 1002 (T.C.C.).
+[4] 87 DTC 5008.
+[5] 94 DTC 1475 (T.C.C.).
+[6] 96 DTC 6020 (F.C.T.D.).
+[7] 96 DTC 1893 (T.C.C.).
+[8] 2003 DTC 5419 (F.C.A.).
+[9] 2001 DTC 1013 (T.C.C.).
+[10] Barker v. The Queen, 99 DTC 287 (T.C.C.).
+[11] 2004 DTC 6672 (F.C.A.).

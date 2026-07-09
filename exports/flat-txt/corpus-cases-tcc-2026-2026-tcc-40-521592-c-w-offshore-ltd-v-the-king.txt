@@ -1,0 +1,641 @@
+Title: C & W Offshore Ltd. v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521592/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-40-521592-c-w-offshore-ltd-v-the-king.md
+Document type: case_law
+Last modified: 2026-03-04
+
+# C & W Offshore Ltd. v. The King
+
+- Citation: 2026 TCC 40
+- Decision date: 2026-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5547, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+C & W Offshore Ltd. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-03-04
+Neutral citation
+2026 TCC 40
+File numbers
+2020-2178(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-2178(IT)G
+BETWEEN:
+C&W OFFSHORE LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 22 and 23, 2024, at St. John’s, Newfoundland and Labrador
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the Appellant:
+Brandon Siegal
+Counsel for the Respondent:
+Cecil Woon
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act by the Minister of National Revenue in respect of the appellant’s 2014 and 2015 taxation years is dismissed, with costs and in accordance with the attached Reasons for Judgment.
+Signed at Edmonton, Canada, this 4th day of March 2026.
+“Sylvain Ouimet”
+Ouimet J.
+TABLE OF CONTENTS
+I. INTRODUCTION 1
+II. THE ISSUES 3
+III. THE RELEVANT LEGISLATIVE PROVISIONS 4
+IV. FACTS 8
+A. C&W Offshore 8
+B. The rental agreement between C&W Offshore and Seadrill Canada 8
+C. The rental agreement between C&W Offshore and InterMoor UK 9
+D. Withholding tax on the Rental Payments 13
+V. THE PARTIES’ POSITIONS 14
+A. C&W Offshore’s position 14
+1. The withholding tax issue 14
+2. The penalty issue 25
+B. HMTK’s position 28
+1. The withholding tax issue 28
+2. The penalty issue 36
+VI. DISCUSSION 37
+A. The law 37
+1. The withholding tax issue 37
+a) The relevant provisions of the ITA and the Income Tax Application Rules 37
+b) The relevant Tax Convention – The United Kingdom Convention 39
+c) Definition of the term “beneficial owner” 41
+d) Agency relationship 44
+2. The penalty issue 45
+B. Analysis 47
+1. The withholding tax issue 47
+a) Were the Rental Payments subject to withholding tax under paragraph 212(1)(d) of the ITA and Article 12 of the United Kingdom Convention? 47
+b) Was InterMoor UK the beneficial owner of the Rental Payments? 48
+(1) Possession of the Rental Payments 48
+(2) Control of the Rental Payments 49
+(3) Use of the Rental Payments 49
+(4) Risk associated with the Rental Payments 49
+(5) Conclusion 49
+c) Was InterMoor UK an agent of InterMoor Nowway? 50
+(1) Consent to an agency relationship 50
+(2) Authority given to the agent to affect the principal’s legal position 51
+(3) The principal's control of the agent’s actions. 51
+(4) Conclusion 52
+d) Conclusion 52
+2. The penalty issue 52
+a) Did C&W Offshore establish that it took all reasonable precautions to avoid the failure to withhold tax on the Rental Payments? 53
+b) Did C&W Offshore establish that it believed, on reasonable grounds, in a non-existent state of facts which, if it had existed, would have made its omission to withhold tax on the Rental Payments innocent?…………………………………………………………54
+VII. CONCLUSION 55
+Citation: 2026 TCC 40
+Date: 20260304
+Docket: 2020-2178(IT)G
+BETWEEN:
+C&W OFFSHORE LTD.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Ouimet J.
+I. INTRODUCTION [1] This is an appeal by C&W Offshore Ltd. (“C&W Offshore”) from reassessments issued by the Minister of National Revenue (the “Minister”) in respect of its 2014 and 2015 taxation years.
+[2] On February 7, 2019, the Minister issued reassessments pursuant to subsections 215(6) and 227(8.3) and paragraphs 212(1)(d) and 227(10)(d) of the ITA. The Minister also imposed a penalty on C&W Offshore pursuant to paragraphs 227(8)(a) and 227(10)(a) of the ITA.[1]
+[3] The reassessments arose from transactions that took place between December 2013 and February 2015 (the “Relevant Period”). During this period, C&W Offshore leased heavy subsea mooring chains to Seadrill Canada Ltd. (“Seadrill Canada”). C&W Offshore leased these chains from InterMoor Ltd. (“InterMoor UK”), a resident of the United Kingdom. InterMoor UK itself leased the chains from its Norwegian affiliate, InterMoor AS (“InterMoor Norway”). During the Relevant Period, C&W Offshore paid approximately $8,900,000 to InterMoor UK in rental payments (the “Rental Payments”).
+[4] The Minister concluded that the Rental Payments constituted “rent, royalty or similar payment” within the meaning of paragraph 212(1)(d) of the ITA. Consequently, the Minister concluded that the payments were subject to non-resident withholding tax of 10% pursuant to paragraph 215(1) of the ITA and Article 12 of the Convention Between the Government of Canada and the United Kingdom of Great Britain and Northern Ireland for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income and on Capital Gains[2] (the “United Kingdom Convention”).
+[5] Finally, for failing to deduct or withhold the required amounts with respect to the Rental Payments and pursuant to paragraphs 227(8)(a), the Minister concluded that C&W Offshore was liable to a penalty equal to 10% of the amount it failed to deduct or withhold.
+[6] The amounts of the tax and penalty reassessed for the 2014 and 2015 taxation years are the following:
+Year
+Withholding
+Penalty
+Total
+2014
+$693,114.52
+$69,314.45
+$762,428.97
+2015
+$208,135.59
+$20,813.56
+$228,949.15
+Total
+$901,250.11
+$90,128.01
+$991,378.12
+[7] The following individuals testified for C&W Offshore at trial:
+-Alan Duncan (“Mr. Duncan”), managing director of InterMoor UK during the Relevant Period;
+-Ronald J. Malone (“Mr. Malone”), customs manager with P.F. Collins Custom Brokers in St. John’s, Newfoundland, during the Relevant Period;
+-Stephen Joseph Crane (“Mr. Crane”), president and owner of C&W Offshore during the Relevant Period.
+[8] HMTK did not call any witnesses at trial.
+II. THE ISSUES [9] The issues in this appeal are as follows:
+1 -The withholding tax issue
+-Did the Minister correctly reassess C&W Offshore for failure to withhold tax of $693,114.52 and $208,135.59 for the 2014 and 2015 taxation years respectively?
+2 -The penalty issue
+-Did the Minister rightfully impose on C&W Offshore penalties of $69,314.45 and $20,813.56 for the 2014 and 2015 taxation years respectively?
+[10] In determining these issues, the Court will answer the following questions:
+1 -The withholding tax issue
+-Were the Rental Payments subject to withholding under paragraph 212(1)(d) of the ITA and Article 12 of the United Kingdom Convention?
+-Was InterMoor UK or InterMoor Norway the beneficial owner of the Rental Payments?
+2 -The penalty issue
+-Did C&W Offshore exercise a degree of reasonable care and diligence such that the penalty assessed under paragraph 227(8)(a) of the ITA ought to be vacated?
+III. THE RELEVANT LEGISLATIVE PROVISIONS [11] The relevant provisions of the ITA as in force during the Relevant Period are as follows:
+PART XIII Tax on Income from Canada of Non-resident Persons
+Tax
+212 (1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of
+…
+(d) rent, royalty or similar payment, including, but not so as to restrict the generality of the foregoing, any payment
+(i) for the use of or for the right to use in Canada any property, invention, trade-name, patent, trade-mark, design or model, plan, secret formula, process or other thing whatever,
+…
+but not including a payment made for services performed in connection with the sale of property or the negotiation of a contract,
+…
+(v) that was dependent on the use of or production from property in Canada whether or not it was an instalment on the sale price of the property, but not including an instalment on the sale price of agricultural land,
+Withholding and remittance of tax
+215 (1) When a person pays, credits or provides, or is deemed to have paid, credited or provided, an amount on which an income tax is payable under this Part, or would be so payable if this Act were read without reference to subparagraph 94(3)(a)(viii) and to subsection 216.1(1), the person shall, notwithstanding any agreement or law to the contrary, deduct or withhold from it the amount of the tax and forthwith remit that amount to the Receiver General on behalf of the non-resident person on account of the tax and shall submit with the remittance a statement in prescribed form.
+Liability for tax
+215 (6) Where a person has failed to deduct or withhold any amount as required by this section from an amount paid or credited or deemed to have been paid or credited to a non-resident person, that person is liable to pay as tax under this Part on behalf of the non-resident person the whole of the amount that should have been deducted or withheld, and is entitled to deduct or withhold from any amount paid or credited by that person to the non-resident person or otherwise recover from the non-resident person any amount paid by that person as tax under this Part on behalf thereof.
+Penalty
+227 (8) Subject to subsection (9.5), every person who in a calendar year has failed to deduct or withhold any amount as required by subsection 153(1) or section 215 is liable to a penalty of
+(a) 10% of the amount that should have been deducted or withheld.
+Assessment
+227 (10) The Minister may at any time assess any amount payable under
+(a) subsection 227(8), 227(8.1), 227(8.2), 227(8.3) or 227(8.4) or 224(4) or 224(4.1) or section 227.1 or 235 by a person,
+(b) subsection 237.1(7.4) or (7.5) or 237.3(8) by a person or partnership,
+(c) subsection 227(10.2) by a person as a consequence of a failure of a non‑resident person to deduct or withhold any amount, or
+(d) Part XIII by a person resident in Canada,
+and, where the Minister sends a notice of assessment to that person or partnership, Divisions I and J of Part I apply with any modifications that the circumstances require.
+[12] The relevant provisions of the United Kingdom Convention are as follows:
+Article 7 (in force on December 18, 2014)
+Business Profits
+1. Profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits that are attributable to the permanent establishment in accordance with the provisions of paragraph 2 may be taxed in that other State.
+4. Where profits include items of income or gains which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.
+Article 12
+Royalties
+1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
+2. However, such royalties may be taxed in the Contracting State in which they arise, and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed 10 per cent of the gross amount of the royalties.
+4. The term “royalties” as used in this Article means payments of any kind received as a consideration for the use of or the right to use, any copyright, patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial or scientific equipment, or for information concerning industrial, commercial or scientific experience, and includes payments of any kind in respect of motion pictures and works on film, videotape or other means of reproduction for use in connection with television broadcasting.
+5. The provisions of paragraphs 1, 2 and 3 of this Article shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+[13] The relevant provisions of the Convention Between the Government of Canada and the Government of the Kingdom of Norway 1966 For the Avoidance of Double Taxation and the Prevention of Fiscal Evasion With Respect to Taxes On Income[3] (the “Norway Convention”) provide as follows:
+Article 7
+Business Profits
+1. The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on or has carried on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
+Article 12
+Royalties
+1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
+2. However, such royalties may also be taxed in the Contracting State in which they arise, and according to the laws of that State, but if the beneficial owner of the royalties is a resident of the other Contracting State, the tax so charged shall not exceed 10 per cent of the gross amount of the royalties.
+3. Notwithstanding the provisions of paragraph 2,
+a) copyright royalties and other like payments in respect of the production or reproduction of any cultural, dramatic, musical or other artistic work (but not including royalties in respect of motion picture films nor royalties in respect of works on film or videotape or other means of reproduction for use in connection with television broadcasting), and
+b) royalties for the use of, or the right to use, computer software or any patent or for information concerning industrial, commercial or scientific experience (but not including any such royalty in connection with a rental or franchise agreement), arising in a Contracting State and paid to a resident of the other Contracting State who is the beneficial owner of the royalties shall be taxable only in that other State.
+4. The term “royalties” as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright, patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience, and includes payments of any kind in respect of motion picture films and works on film or videotape for use in connection with television.
+IV. FACTS A. C&W Offshore [14] C&W Offshore is a corporation resident in Canada. It has been in operation since 2005. Stephen Joseph Crane (“Mr. Crane”) has been C&W Offshore’s president and owner since 2005.[4]
+[15] C&W Offshore manufactures metal structures for Newfoundland and Labrador’s offshore oil and gas industry. More specifically, C&W Offshore is specialized in the fabrication of carbon steel products, including shipping containers and transport frames. During the Relevant Period, the rental of large industrial equipment such as heavy mooring chains was not part of its usual business activities.[5]
+B. The rental agreement between C&W Offshore and Seadrill Canada [16] In December 2013, C&W Offshore was urgently contacted by one of its customers, Seadrill Canada, to procure two lengths of heavy subsea mooring chains. The request arose after Seadrill experienced a failure on one of the eight mooring chains anchoring the West Aquarius drilling rig (“West Aquarius Rig”) to the ocean floor. The situation was critical due to safety concerns and the potential financial impact of a production shutdown that could result in losses of approximately US$500,000 per day. C&W Offshore was asked to source the chains and arrange delivery to Newfoundland as quickly as possible.[6]
+[17] DNV, a marine certification authority, had referred Seadrill Canada to Sean Conway (“Mr. Conway”), an employee of C&W Offshore and former DNV mooring expert, to assist in sourcing the chains. Seeing a potential business opportunity for C&W Offshore, Mr. Conway informed Mr. Crane of the request. Although C&W Offshore was not ordinarily engaged in the supply of heavy subsea mooring chains, Mr. Crane decided to proceed with sourcing the chains, considering the apparent low risk of the transaction and the potential commercial benefit to the company.[7]
+C. The rental agreement between C&W Offshore and InterMoor UK [18] In early December 2013, Mr. Conway contacted Alan Duncan (“Mr. Duncan”) to source the mooring chains. At that time, Mr. Duncan was the Managing Director of InterMoor UK, a supplier of offshore mooring systems and equipment based in Aberdeen, Scotland. InterMoor UK was a corporation resident in the United Kingdom and did not maintain a permanent establishment in Canada. Prior to this transaction, InterMoor UK had never conducted business with C&W Offshore. Mr. Duncan was acquainted with Mr. Conway through Mr. Conway’s previous employment with DNV.[8]
+[19] At the time, InterMoor UK was part of the Acteon Group, which comprised 23 affiliated companies worldwide, including entities in the United Kingdom, Norway, Singapore, the United States and Brazil. InterMoor UK specialized in engineering services and the rental of offshore mooring equipment for the UK market. Its inventory included anchors, chains, connectors, and buoyancy modules, with rental activities accounting for approximately 55% to 60% of its revenues. At InterMoor UK, Mr. Duncan managed 101 employees and oversaw daily operations. He was responsible for the UK sales team and for pricing the services provided by InterMoor UK. Mr. Duncan personally acted as the salesperson for the chain rental due to his prior relationship with Mr. Conway and because InterMoor UK did not have the required 84 mm chains in its inventory, coupled with the urgency of the request.
+[20] According to Mr. Duncan, larger DNV-certified 84 mm mooring chains are required for drilling rigs operating in harsher environments, such as those offshore in Norway or Canada. Mr. Duncan explained that in deepwater conditions like those encountered off the coast of Canada, DNV-certified chains are standard practice to meet stringent safety requirements. Because InterMoor UK only had 76 mm chains available, Mr. Duncan needed to source the required chains from an affiliate. He located 2,200 metres of 84 mm DNV-certified chain at InterMoor Norway’s facilities in Mongstad. Certification documents identified InterMoor Norway as the owner of the chains. To rent the chains to C&W Offshore, InterMoor UK itself first had to rent the chains from InterMoor Norway.
+[21] On December 3, 2013, Mr. Duncan wrote C&W Offshore that he had found 2,200 metres of chains in Norway.[9]
+[22] On December 4, 2013, Mr. Duncan provided C&W Offshore with copies of InterMoor Norway’s certificates for the chains.[10]
+[23] Within days of the initial request, Seadrill Canada contacted C&W Offshore to request an additional six lengths of 84 mm DNV-certified chain with the same specifications as the two chains originally requested (collectively, the “Chains”). This second request was also made on an urgent basis. C&W Offshore relayed the additional request to Mr. Duncan, copying InterMoor Norway on the communication.[11]
+[24] On December 12, 2013, Mr. Duncan provided C&W Offshore copies of InterMoor Norway’s certificates for the six additional lengths of chain.[12]
+[25] On December 13, 2013, Seadrill Canada authorized C&W Offshore to deliver the additional chains as soon as possible.[13]
+[26] Pursuant to its agreement with InterMoor UK, C&W Offshore was required to take delivery of the chains from InterMoor Norway in Mongstad, Norway, and arrange transportation to Canada. Mr. Duncan recommended that C&W Offshore hire Pentagon Freight Services PLC (“Pentagon”), a United Kingdom corporation, to find the necessary transport vessels and manage the logistics of the transport to Canada. Pentagon was instructed to liaise directly with David Smith (“Mr. Smith”), the Managing Director of InterMoor Norway, to coordinate all logistical arrangements for the delivery and shipment of the Chains.[14]
+[27] Mr. Duncan subsequently coordinated with InterMoor Norway’s staff to verify the chain’s certifications, review inspection results, and confirm port handling requirements. This included determining the procedures for joining chain segments, which were to be completed either in Norway or at the Canadian installation site.[15]
+[28] Mr. Duncan testified that InterMoor UK effectively subleased the Chains from InterMoor Norway to C&W Offshore. There was no written agency agreement between InterMoor UK and InterMoor Norway. InterMoor UK earned a profit margin of approximately 20% on the rental, and the income from the transaction was recorded in InterMoor UK’s corporate books.[16]
+[29] InterMoor Norway invoiced InterMoor UK on 30-day payment terms, while InterMoor UK invoiced C&W Offshore on 60-day terms. C&W Offshore received monthly invoices, denominated in British pounds, from December 31, 2013, through February 28, 2015. Internal sales documentation, including InterMoor Norway’s invoices to InterMoor UK and the related purchase orders, were never shared with C&W Offshore.[17]
+[30] InterMoor Norway retained authority over the Chains, including final approval for the West Aquarius Rig as the destination. InterMoor UK was not permitted to redeploy the Chains without InterMoor Norway’s consent. InterMoor Norway imposed a minimum one-year rental term and rejected C&W Offshore’s request to reduce payments after Seadrill Canada began replacing the Chains with new ones and no longer required all of them.[18]
+[31] In the 2014 taxation year, the Rental Payments made to InterMoor UK by C&W Offshore totalled $6,931,445.22. In the 2015 taxation year, the Rental Payments to InterMoor UK totaled $2,081,355.89. The Rental Payments were paid directly to InterMoor UK in British pounds. The Rental Payments were made by C&W Offshore to the bank account associated with SWIFT code number B0FSGB21353. InterMoor UK exclusively operated and controlled the bank account associated with SWIFT code number B0FSGB21353.[19]
+[32] Following the initial communication with Mr. Duncan, the shipment arrangements were delegated to InterMoor Norway’s operations team in Mongstad.[20] C&W Offshore chartered vessels to pick up the Chains at InterMoor Norway’s marine base in Mongstad and transport them to Canada.[21] Pentagon was retained by C&W Offshore for the transport, and P.F. Collins, a customs broker located in St. John’s, Newfoundland, was hired for the importation of the Chains.[22]
+[33] Ronald J. Malone (Mr. Malone) was the customs consultant with P.F. Collins who acted on behalf of C&W Offshore to prepare customs clearance documentation for the imported Chains. As a manager, he personally supervised staff raters who drafted and submitted the customs entries for the Chains. He coordinated with Mr. Conway to obtain commercial invoices and shipping details to support the entries.[23]
+[34] Mr. Malone explained that marine shipments arriving in St. John’s normally require an arrival notice from a marine agent, and then a commercial invoice from the importer before customs clearance can be finalized. He described the standard B-3 accounting form used for Canadian Customs entries and explained its role in reporting valuation, countries of origin, and duties or taxes. The B-3 form in this matter had two pages because the Chains had two countries of origin, Germany and Spain. The declaration on the B-3 form was filed electronically under the name of Jennifer Royal Newman, a commodity rater who worked under Mr. Malone’s supervision. According to Mr. Malone, the B-3 showed C&W Offshore as the importer of record, with its CRA number, and confirmed C&W Offshore’s responsibility for its accuracy, subject to potential audit.[24]
+[35] Mr. Malone described the value-for-duty calculation as based on the Norwegian krone invoice value, converted to Canadian dollars at the applicable exchange rate. Mr. Malone explained the meaning of “vendor”, “exporter” and “shipper” on the B-3 form, emphasizing that these terms do not determine legal leasing or beneficial ownership. He also testified that no one disputed the validity of the B-3, which was accepted by Customs and showed a release date after approval. [25]
+[36] As for Mr. Crane, he stated that it would have been “unprofessional” to bypass Mr. Duncan and rent the Chains directly from InterMoor Norway since Mr. Duncan had initiated the arrangement. He further explained that requests for discounts or pricing adjustments were channelled through Mr. Duncan, who liaised with Mr. Smith of InterMoor Norway.[26] In cross‑examination, Mr. Crane confirmed that he did not verify whether InterMoor UK remitted funds to InterMoor Norway, but trusted the affiliated group would manage this internally.[27]
+[37] He also explained that he assumed there was an internal group arrangement or agency or commission between the two affiliated companies, and he placed trust in their reputations.[28]
+D. Withholding tax on the Rental Payments [38] Before the rental of the Chains to C&W Offshore, InterMoor UK had never rented equipment to a Canadian company and had no prior experience with Canadian withholding tax. InterMoor UK did not advise C&W Offshore about the requirement to withhold tax on the Rental Payment.[29]
+[39] Mr. Crane testified that he did not engage in any discussions with InterMoor UK regarding Canadian withholding tax and that he did not make any inquiries concerning such obligations with anyone.[30]
+V. THE PARTIES’ POSITIONS A. C&W Offshore’s position 1. The withholding tax issue [40] C&W Offshore’s submissions regarding the taxation of the Rental Payments can be summarized as follows:
+i.Both the Norway Convention and the United Kingdom Convention have force of law in Canada and govern the taxation of various types of payments made between residents of the contracting states. These conventions address, among other things, the taxation of payments such as those characterized as “royalties” and “business profits”.[31]
+ii.Pursuant to both conventions, the Rental Payments were exempt from tax in Canada and therefore not subject to withholding tax under Part XIII of the ITA.[32]
+iii.The Rental Payments consisted of two distinct components, as follows:
+1 -One portion of the Rental Payments was attributable to equipment rental fees (“Rental Charges”), to which InterMoor Norway was beneficially entitled;
+2 -One portion of the Rental Payments was retained by InterMoor UK over and above InterMoor Norway’s Rental Charges. These amounts were InterMoor UK’s processing fees or administration fees (“Processing Fees”).[33]
+iv.Where a single payment is made and two non-residents in different treaty jurisdictions are the beneficial owners of distinct portions of that payment, for the purpose of the application of Part XIII of the ITA, it is necessary that the payment be apportioned according to each non-resident’s respective entitlement. The treaty analysis must then be conducted separately for each portion based on the applicable convention.[34]
+v.InterMoor UK was interposed between C&W Offshore and InterMoor Norway by agreement of the parties to expedite the ordering and invoicing for the two equipment rental transactions, both of which required urgent execution.[35]
+vi.InterMoor Norway was beneficially entitled to the portion of the Rental Payments attributable to C&W Offshore’s rental of its equipment. It was entitled to the Rental Charges. Consequently, C&W Offshore was the beneficial owner of only the Processing Fees.[36]
+[41] C&W Offshore’s submissions regarding the application of the United Kingdom Convention to the Rental Charges can be summarized as follows:
+i.Article 12 of the United Kingdom Convention provides that “royalties” payable by a person resident in Canada to a person resident in the United Kingdom may be taxed in Canada at a rate not exceeding 10%. Unlike the definition of “royalties” in the Norway Convention, paragraph (4) of Article 12 defines “royalties” to include payments made to a resident of a contracting state for the use of, or the right to use, industrial, commercial, or scientific equipment.[37]
+ii.For the purpose of determining whether Article 12 of the United Kingdom Convention applies to payments in the nature of “royalties” (including payments for the rental of movable property) to a non-resident, it is relevant to consider whether the recipient is beneficially entitled to the payment or is merely receiving it on behalf of another person who is entitled to its benefit.[38]
+iii.Payments made by a resident of Canada to the beneficial owner of a royalty who is a resident of the United Kingdom for the use of or the right to use industrial equipment are subject to Part XIII tax in Canada and the withholding requirements under subsection 215(1) of the ITA. However, the applicable withholding rate is reduced from the standard 25% under Part XIII to 10%, pursuant to the United Kingdom Convention.
+iv.The term “beneficial owner” as used in the United Kingdom Convention is not defined. Therefore, the definition of “beneficial owner” is to be defined according to the law of the contracting state. In Canada, the law of beneficial ownership in a treaty context is set out in Prévost Car v Canada.[39]
+v.Based on the language of Article 12 of the United Kingdom Convention and on the importance of beneficial ownership of a payment to a non‑resident, to determine whether a withholding rate in respect of a payment of a “royalty” to a non-resident is reduced or eliminated by a tax treaty, it is necessary to determine whether:
+1-the non-resident payee is the “beneficial owner” of the income or some party other than the payee will have the benefit of the income;
+2-the “beneficial owner” of the income is a resident in a country with which Canada has a tax convention; and
+3-the “beneficial owner” is eligible for Convention benefits under the tax treaty on the income being paid.[40]
+[42] InterMoor UK was not the beneficial owner of the Rental Payments for the following reasons:
+i.InterMoor UK had no discretion over the Rental Payments it received from C&W Offshore. The payments were contractually required to be paid to InterMoor Norway. InterMoor UK’s role was limited to the administrative task of issuing invoices to C&W Offshore, receiving the Rental Payments, and forwarding nearly all the income to InterMoor Norway. The evidence in this case shows that InterMoor UK operated under a strict arrangement with InterMoor Norway. The invoices sent by InterMoor UK to C&W Offshore mirror the invoices that InterMoor UK received from InterMoor Norway, issued on the same dates and for the same equipment. This demonstrates that InterMoor UK had no discretion over the income. It was contractually obligated to pass the payments along to InterMoor Norway immediately, retaining only a small fee for administrative purposes.[41]
+ii.The absence of independent control or discretion on the part of InterMoor UK is further demonstrated by the fact that key financial and operational decisions were made by InterMoor Norway. It was InterMoor Norway that determined the rental price, approved or denied requests for discounts, and exercised control over the use and return of the equipment. The role of InterMoor UK was purely logistical, with no substantive involvement in the management of the rental property or income. These facts align more closely with the concept of a conduit company as defined in the OECD Commentary on Article 12, where an intermediary receives income but has no right to use or enjoy it independently.[42]
+iii.InterMoor UK was not the beneficial owner of the Rental Payments. The evidence demonstrates that InterMoor UK had no such control over the Rental Payments. Its only function was to issue invoices and forward payments to InterMoor Norway according to a predetermined arrangement, leaving it without any meaningful economic stake or risk in the income stream. The contractual structure between InterMoor UK and InterMoor Norway, of which C&W Offshore had no knowledge, left no room for independent decision-making, as evidenced by the matching invoices and the absence of any discretionary authority on the part of InterMoor UK.[43]
+iv.Based on the principles established in Prévost Car, the Court should conclude that InterMoor UK was not the beneficial owner of the Rental Payments received from C&W Offshore. The economic reality of the transaction shows that InterMoor UK acted merely as an intermediary, facilitating payments on behalf of InterMoor Norway. The fact that InterMoor Norway retained both operational control and the economic benefit of the rental income reinforces the conclusion that InterMoor Norway, not InterMoor UK, was the true beneficial owner. As such, InterMoor UK’s involvement should be treated as that of a conduit or agent, with no entitlement to be considered the beneficial owner under the relevant legal framework.[44]
+v.InterMoor UK had no independent authority to modify rental terms or retain income. The UK office merely facilitated the rental by invoicing C&W Offshore and forwarding payments to InterMoor Norway. Under the principles of Prévost Car, a conduit relationship exists when the recipient of the income lacks discretion over its use. InterMoor UK had no freedom to use or enjoy the Rental Payments for its own purposes and was obligated to transfer the income to InterMoor Norway, less any administrative fees. The operational risks and responsibilities such as ensuring equipment availability, maintenance, and compliance were managed entirely by InterMoor Norway, further underscoring that InterMoor Norway was the true beneficial owner.[45] C&W Offshore coordinated directly with InterMoor Norway for logistics and equipment preparation, and InterMoor Norway retained beneficial control over the chains. Any pricing adjustments or discounts also required InterMoor Norway’s approval, further demonstrating that InterMoor UK lacked independent financial or operational authority. InterMoor UK was a facilitator that lacked control over the income and was obligated to transfer the proceeds to the ultimate beneficiary, InterMoor Norway.[46]
+vi.InterMoor UK had no discretion over the Rental Payments it collected from C&W Offshore. The invoices between InterMoor UK and C&W Offshore mirrored the invoices between InterMoor UK and InterMoor Norway, demonstrating that InterMoor UK had no meaningful control or flexibility in managing the payments. InterMoor UK’s role was purely administrative, forwarding the payments to Norway on a predetermined basis.[47]
+vii.InterMoor Norway retained full operational control over the rented equipment and made all critical financial decisions, including setting rental prices and approving discounts. InterMoor UK acted only as a facilitator, issuing invoices and collecting payments on InterMoor Norway’s behalf, without assuming any economic risk.[48]
+viii.InterMoor UK cannot be considered the beneficial owner of the Rental Payments. The evidence demonstrates that InterMoor UK had no independent authority or economic interest in the Rental Payments. The mirroring invoices and the absence of discretionary power over the income show that InterMoor UK was merely a conduit. As such, the Court should find that InterMoor Norway was the true beneficial owner of the Rental Payments, with InterMoor UK acting only as an administrative intermediary. The Rental Payments should therefore be treated as income belonging to InterMoor Norway for the purposes of tax treaty relief and withholding obligations.[49]
+ix.InterMoor UK had no independent discretion over the Rental Payments, pricing, or discounts without InterMoor Norway’s approval. Furthermore, any income generated from the rental ultimately flowed to Norway. These facts strongly support the argument that InterMoor Norway, not InterMoor UK, was the beneficial owner of the income, and InterMoor UK acted only as a conduit.[50]
+[43] Counsel’s submissions summarized above are based on certain facts. Although several of the stated facts are grounded in the evidence, others do not appear to be supported by the record. These facts relate to the business relationships between C&W Offshore, InterMoor UK and InterMoor Norway, outlined below. C&W Offshore’s counsel describes the relationship between InterMoor UK and InterMoor Norway as follows:
+i.InterMoor Norway and InterMoor UK are directly or indirectly controlled by Acteon Group Ltd., a body corporate pursuant to the laws of the United Kingdom. Mr. Duncan testified that at the relevant time, there were five InterMoor companies, which each held their own inventories of subsea mooring equipment based upon the needs of their local markets.[51]
+ii.The InterMoor companies allow for the companies that own mooring equipment in their respective inventories to let their sister companies cross‑hire equipment to facilitate rental transactions when a sister company cannot fill an order from its own inventory.[52]
+iii.On a cross-hiring, the sister company does not obtain from the owners of the equipment the full rights and ownership of any cross-hired equipment. The owners have the right to specify and approve where their equipment is cross‑hired and to set the price and other terms for the rental of its equipment to the end user.[53]
+iv.The owners of the equipment maintain the risks of damage and loss to their equipment and the losses on non-payment from the cross-hired rentals.[54]
+v.The location of the equipment cross-hired is carefully tracked through the company's accounting software, which assigns a sales description starting with an “x”followed by a code for the owner (i.e., XIOS for equipment owned by InterMoor Norway).[55]
+vi.Purchase orders and sales clearly delineate where the equipment is to be used on a cross-hire as approved by the owner of the equipment.[56]
+vii.In this case, the purchase order indicated to InterMoor Norway that the cross-hire was to C&W Offshore and each sales order between InterMoor UK and InterMoor Norway specified that the owner’s equipment was to be used on the West Aquarius Rig owned by Seadrill Canada.[57]
+viii.Mirrored sales invoices are produced by the InterMoor accounting system at the same time for rentals to the end customers such as C&W Offshore and for the cross-hires between the sister companies to track the use and rental of the owner’s equipment.[58]
+ix.If the end customer does not pay, the sister company is not required to pay the owner of the equipment. If the owner has been prepaid for the cross-hire (e.g., if the payment terms for the cross-hire are shorter than the rental terms to the end customer such as in instance, where C&W Offshore had 60 days to pay InterMoor UK, and InterMoor UK had to pay InterMoor Norway in 30 days. The owner of the equipment is then required to credit the sister company for the amounts prepaid.[59]
+x.The ultimate risk and liability for non-payment rested solely with the equipment’s owner. In this case, it was InterMoor Norway.[60]
+xi.Sister companies do not have the right to commit any equipment of an owner to a rental without the permission of the equipment’s owner.[61]
+xii.The equipment owner must approve any change to the rental location or rental terms.[62]
+xiii.Normally, when InterMoor UK is the owner of the equipment it rents, it earns a substantial markup of 85%.[63]
+xiv.When equipment is cross-hired from another InterMoor Group company, the sister company is only able to earn a reduced amount, referred to as the processing fee. In this case, the InterMoor UK processing fee was 13% for the first two legs and 20% for the second shipment of six legs of chain.[64]
+xv.Cross-hired equipment is normally offered only in conjunction with the rental of other equipment wholly owned by InterMoor UK.[65]
+xvi.The cross-hire of the InterMoor Norway chains to C&W Offshore was the first time that InterMoor UK had ever done a 100% cross-rented deal. This of course was necessary because InterMoor UK could not provide any chain from its own inventory to fill the order from C&W Offshore.[66]
+xvii.The breakdown in the rights and duties between InterMoor Norway and InterMoor UK on the rental to C&W Offshore was clear.[67]
+xviii.InterMoor UK facilitated the deal, taking advantage of Mr. Duncan’s initial communications with C&W Offshore to help put together the rental of eight chains from InterMoor Norway to C&W Offshore in under two weeks in December of 2013.[68]
+xix.After the terms of the rentals were set on December 13, 2013, InterMoor UK’s role was limited to the invoicing of the cross-hired equipment to C&W Offshore.[69]
+xx.InterMoor Norway was responsible for providing the heavy mooring chain from its inventory, arranging for the logistics of delivery with Pentagon, inspecting the chain, arranging for its return, and making all decisions with respect to the use and pricing of the chains.[70]
+xxi.As the owner of the equipment, InterMoor Norway also bore sole risk if the equipment was damaged during shipping or in use.[71]
+xxii.When C&W Offshore sought a discount on the rental, InterMoor Norway rejected the request.[72]
+xxiii.While C&W Offshore knew that InterMoor UK was earning something for its role in facilitating the rentals from InterMoor Norway and was processing the billing, at the time it had no reason to believe that it was renting any equipment from InterMoor UK.[73]
+xxiv.C&W Offshore was not privy to any internal arrangements, paperwork, or billing information between InterMoor UK and InterMoor Norway.[74]
+xxv.Once the rentals were set up, C&W Offshore believed they were dealing with InterMoor Norway for the rentals, as evidenced by the fact that C&W Offshore itself was required to obtain the chains directly from Norway and that C&W Offshore’s shipper Pentagon was coordinating directly with InterMoor Norway, and by C&W Offshore’s filing of Canada Border Services Agency paperwork submitted at the time of the importation of the heavy mooring chain that indicated that InterMoor Norway was the vendor of the chain.[75]
+[44] C&W Offshore’s submissions regarding the application of the Norway Convention to the Processing Fees can be summarized as follows:
+i.At all relevant times, InterMoor Norway did not carry on business in Canada through a permanent establishment. Consequently, pursuant to Article 7 of the Norway Convention, the business profits attributable to InterMoor Norway’s share of the Rental Payments are not taxable in Canada as “business profits.”[76]
+ii.The Rental Charges of InterMoor Norway included in the Rental Payments are subject to Article 7, which applies to “business profits”.Article 7 provides that payments for the rental of movable property by a non-resident of a contracting state are not subject to taxation in the other contracting state in the absence of a permanent establishment in that other contracting state.[77]
+iii.The Rental Charges are “business profits” under Article 7 of the Norway Convention.[78] Article 7 makes it clear that the “business profits” earned in Canada by a resident of Norway or the United Kingdom will only be taxable in Canada if the Norwegian resident or United Kingdom resident has a permanent establishment in Canada and only to the extent that such business profits are attributable to that permanent establishment.[79]
+iv.The Rental Charges are not subject to Article 12 of the Norway Convention which applies to “royalties”. Article 12 of the Norway Convention provides that “royalties” payable by a person resident in Canada to a person resident in Norway may be taxable in Canada at a rate not exceeding10%. However, paragraph (4) of Article 12 defines the term “royalties” in a manner that does not include payments to a resident of a contracting state, in this case Norway, on account of rent for the use of movable property.[80]
+v.The exclusion of payments for the rental of movable property from the definition of “royalties” in Article 12 of the Norway Convention eliminates the imposition of Part XIII tax on residents of Norway on amounts that are paid or credited to them by persons resident in Canada for the rental of equipment such as the Chains. Such payments to a resident of Norway are subject to Article 7 of the Norway Convention with respect to business profits.[81] Since InterMoor Norway did not carry on business in Canada during the Relevant Period through a permanent establishment, the Rental Payments were exempt from tax.
+vi.When Articles 7 and 12 of the Norway Convention are properly applied, the portion of the Rental Payments received by InterMoor Norway was not taxable in Canada and therefore not subject to any Part XIII withholding tax under subsection 215(1) of the ITA.[82]
+vii.The Processing Fees charged by InterMoor UK that were included in the invoices to C&W Offshore were in consideration for its role in facilitating the rental of the Chains of InterMoor Norway to C&W Offshore. This portion of the Rental Payments is therefore not in the nature of a “royalty” on account of rent but is rather on account of services performed in the United Kingdom by InterMoor UK as an intermediary in arranging or facilitating the rental of InterMoor Norway’s equipment to C&W Offshore.[83]
+viii.The Processing Fees were paid to InterMoor UK and were subject to Article 7 of the United Kingdom Convention, not Article 12.[84] Since InterMoor UK at all material times did not have a permanent establishment in Canada, under Article 7, the business profits of InterMoor UK were taxable only in the United Kingdom and therefore were not subject to Part XIII withholding tax under subsection 215(1) of the ITA.[85]
+2. The penalty issue [45] C&W Offshore’s submissions regarding the penalty issue can be summarized as follows:
+i.C&W Offshore exercised the care, diligence, and skill expected of a reasonably prudent business under comparable circumstances, satisfying the objective standard required for a due diligence defence under subsection 227(8) of the ITA. C&W Offshore relied on the documentation and guidance provided by InterMoor UK and InterMoor Norway, followed standard business practices, and engaged qualified professionals to assist with logistics and compliance. Given these efforts, C&W Offshore met the standard of care required under subsection 227(8) ITA. Any failure to withhold taxes was the result of a reasonable belief that withholding was not required, not negligence or carelessness. Accordingly, C&W Offshore should not be subject to penalties, as it acted in good faith and with the care expected of a prudent business under the circumstances.[86]
+ii.The due diligence standard does not require perfection, but rather reasonable efforts to comply with legal obligations. In Buckingham v Canada,[87] it is established that the objective standard evaluates whether a taxpayer acted with the degree of care expected of a prudent person based on the available information and circumstances at the time.[88]
+iii.In Buckingham, the Federal Court of Appeal clarified that the due diligence defence is met if C&W Offshore acted reasonably in the circumstances, even if a failure later occurs. The focus of the defence is on whether C&W Offshore took proactive steps to comply with obligations, and it is evaluated using an objective test—not based on the subjective intentions of C&W Offshore, but on what a reasonable person in similar circumstances would have done.[89]
+iv.C&W Offshore relied on InterMoor UK’s invoices and instructions, which contained no indication of a requirement to withhold taxes. A prudent business, receiving invoices from a reputable international supplier, would rely on those invoices in good faith. Furthermore, InterMoor UK did not advise C&W Offshore of any withholding obligations, nor did InterMoor Norway raise concerns about tax compliance. C&W Offshore’s understanding was that the Rental Payments were for equipment owned and controlled by InterMoor Norway, where withholding taxes would not apply. This reasonable belief was reinforced by Norway’s control over logistics, maintenance, and equipment preparation, leaving C&W Offshore with no reason to suspect that withholding was required. Additionally, neither C&W Offshore nor InterMoor UK had engaged in a similar transaction before, further underscoring the company’s reasonable reliance on InterMoor UK’s guidance.[90]
+v.Following the principles set out in Buckingham, C&W Offshore took reasonable business steps by engaging external experts and customs brokers to handle logistics and compliance. Courts have consistently found that reliance on external professional advice and business partners can satisfy the due diligence standard. C&W Offshore followed standard procedures and made reasonable inquiries by requesting the terms and conditions from InterMoor UK to ensure the rental agreement was compliant and transparent. There were no red flags or concerns raised during the transaction that would have triggered the need for further investigation into withholding requirements.[91]
+vi.C&W Offshore’s actions align with the objective standard of due diligence established in Buckingham and reflect reasonable efforts to comply with its tax obligations. The company genuinely believed that the payments were going to Norway, where withholding taxes would not apply, and no indication was given by InterMoor UK or InterMoor Norway that withholding was necessary.[92]
+vii.The payments made to InterMoor UK were made to an agent acting on behalf of InterMoor Norway, and the beneficial owner of the lease income was InterMoor Norway. In this respect, InterMoor UK merely facilitated the lease transaction and charged a processing fee for its administrative services.
+viii.The Norway Convention, not the United Kingdom Convention, governs the withholding tax implications. Because InterMoor Norway was the beneficial owner of the lease income, and the Supply was situated outside Canada, the payment was exempt from tax under Article 12(1) of the Norway Convention.
+ix.C&W Offshore exercised reasonable care and diligence in its compliance obligations. Documentary evidence such as import records show InterMoor Norway as the vendor and the overall structure of the transaction. If there was any deficiency, it arose from a reasonable mistaken belief based on the apparent role and authority of InterMoor UK. C&W Offshore was not privy to any internal arrangements, paperwork, or billing information between InterMoor UK and InterMoor Norway. Once the rentals were set up, C&W Offshore believed they were dealing with InterMoor Norway for the rentals as evidenced by the fact that C&W Offshore itself was required to obtain the chains directly from Norway and that Pentagon was coordinating directly with InterMoor Norway, and by C&W Offshore’s filing of Canada Border Services Agency paperwork, submitted at the time of the importation of the heavy mooring chain, that indicated that InterMoor Norway was the vendor of the chain.[93]
+B. HMTK’s position 1. The withholding tax issue [46] HMTK submits that, pursuant to paragraph 212(l)(d) of the ITA, a 25% tax applied on the Rental Payments, subject to any relief provided by the United Kingdom Convention. Furthermore, under subsection 215(1) of the ITA, C&W Offshore was required to withhold and remit the tax owed by InterMoor UK with respect to the Rental Payments.[94]
+[47] HMTK submits that C&W Offshore leased the Chains directly from InterMoor UK, a company resident in the United Kingdom, and not from InterMoor Norway. InterMoor UK was the legal and beneficial owner of the Rental Payments and was not acting as an agent, conduit, or nominee for InterMoor Norway.[95]
+[48] According to HMTK, there is ample evidence to conclude that there was a lease agreement between C&W Offshore and InterMoor UK. The evidence from Mr. Duncan was that InterMoor UK subleased the Chains to C&W Offshore. The documentary evidence shows that C&W Offshore placed purchase orders with InterMoor UK for the sublease of the Chains, and InterMoor UK invoiced C&W Offshore for the sublease of the Chains monthly. The payments made by C&W Offshore to InterMoor UK in exchange for the right to use the Chains were sufficient consideration for the lease agreement between C&W Offshore and InterMoor UK.[96]
+[49] HMTK submits that the conduct of the parties supports the conclusion that there was a lease agreement between C&W Offshore and InterMoor UK, based on the following:
+i.InterMoorUK supplied C&W Offshore with its own terms and conditions with respect to the subleaseofthe Chains.
+ii.InterMoor UK’s invoices requested that payment be made to its own separate bank account, and the payments by C&W Offshore were made directly into a bank account that was exclusively controlled and operated by InterMoor UK.
+iii.InterMoorUK’s invoicesdo not mention thatitis acting asan agent for any other party, nor do they mention a Processing Fee.
+iv.InterMoor UK recorded the payments as income in its books and records, financial statements and tax returns.[97]
+[50] HMTK submits that there is no evidence to conclude that there was a lease agreement between C&W Offshore and InterMoor Norway because C&W Offshore never placed purchase orders with InterMoor Norway for the lease of the Chains, nor has C&W Offshore received any invoices from InterMoor Norway for the lease of the Chains. Instead, InterMoor Norway leased the Chains to InterMoor UK by way of a lease agreement between InterMoor UK and InterMoor Norway. This is evidenced by the purchase orders and the invoices. InterMoor UK then subleased the Chains to C&W Offshore by way of a lease agreement. This is evidenced by the purchase orders and the invoices.[98]
+[51] HMTK submits that there was no agency relationship between InterMoor UK and InterMoor Norway. Counsel’s submissions in support of the absence of an agency relationship may be summarized as follows:
+i.Mr. Duncan testified that there was no agency agreement between InterMoor UK and InterMoor Norway.[99]
+ii.In Kinguk Trawl Inc v R,[100] the Federal Court of Appeal defined “agency” as “a fiduciary relationship which exists between two persons, one of whom expressly or impliedly consents that the other should act on his behalf so as to affect his relations with third parties, and the other of whom similarly consents so to act or so acts”.It went on to state that the three essential elements of an agency relationship are the following:
+-Consent of principal and agent;
+-Authority of the agent (given by the principal) to affect the principal’s legal position; and
+-Control by the principal of the agent’s actions.
+[52] Counsel for HMTK submits that there is no written agency agreement between InterMoor UK and InterMoor Norway. Counsel further submits that in Fourney v The Queen,[101] this Court held that, in the absence of a written agency agreement, there must be an examination of the conduct of the parties to determine whether there was an implied intention to create an agency relationship. In viewing the conduct of the alleged principal and agent, a key consideration is the determination of the level of control which the alleged principal exerted over the alleged agent. The alleged principal’s control over the actions of the alleged agent may be manifested in the authority given by the former to the latter. In other words, the concepts of authority and control sometimes overlap.[102]
+[53] According to counsel, the conduct between InterMoor UK and InterMoor Norway can be summarized as follows:
+i.InterMoor UK placed purchase orders with InterMoor Norway for the Chains, and InterMoor Norway invoiced InterMoor UK for the lease of the Chains monthly. InterMoor UK’s purchase orders for the Chain, along with InterMoor Norway’s fulfillment of the purchase order, and invoices to InterMoor UK constitute an agreement between the parties for the lease of the Chains. The payments made by InterMoor UK to InterMoor Norway in exchange for the right to use the Chains were sufficient consideration for the lease agreement between InterMoor UK and InterMoor Norway.
+ii.InterMoor Norway invoiced InterMoor UK for the Chains monthly. InterMoor UK did not invoice InterMoor Norway for any alleged agency services provided by InterMoor UK.
+iii.InterMoor Norway’s invoices described the transaction as “Utleiekontrakt 40559”. The word “Utleiekontrakt” is a Norwegian term which in English translates to “rental contract”.
+iv.InterMoor Norway’s invoices requested that payment of its invoices be made to its own separate bank account. There is no evidence that InterMoor Norway could withdraw any portion of the Rental Payments from InterMoor UK’s bank account at its own discretion.
+v.Neither InterMoor UK’s purchase orders nor InterMoor Norway’s invoices mentioned C&W Offshore.
+vi.Neither InterMoor UK’s purchase orders nor InterMoor Norway’s invoices mentioned that InterMoor UK was acting as an agent for InterMoor Norway. Logically, a principal would not invoice its agent for acting on its behalf.
+vii.InterMoor Norway’s invoices to InterMoor UK were due to be paid every 30 days, whereas InterMoor UK’s invoices to C&W Offshore were due to be paid every 60 days. This meant that InterMoor UK’s payments to InterMoor Norway preceded the Rental Payments received by InterMoor UK from C&W Offshore. Thus, InterMoor UK was not acting as an intermediary or conduit for the transfer of the Rental Payments from C&W Offshore to InterMoor Norway. Instead, InterMoor UK was paying InterMoor Norway’s invoices before ever receiving any funds from C&W Offshore. An agent would not be required to forward funds it had not even received.[103]
+viii.There is no evidence to suggest that InterMoor Norway took on any risk with respect to the alleged lease of the Chains from InterMoor Norway to C&W Offshore.
+ix.InterMoor UK recorded the Rental Payments as income in its books and records, financial statements and tax returns. An agent would not be treating its principal’s monies as its own income.[104]
+[54] HMTK submits that there is no indication that InterMoor UK was given any authority by InterMoor Norway to affect InterMoor Norway’s legal position. This is supported by the fact that there is no lease agreement between C&W Offshore and InterMoor Norway. InterMoor UK could not bind InterMoor Norway to a lease agreement with C&W Offshore or any other entity.[105]
+[55] HMTK submits that there is no indication that InterMoor Norway controlled the actions of InterMoor UK. InterMoor UK was acting on its own account, and not as an agent of InterMoor Norway.[106]
+[56] HMTK’s position on the application of the United Kingdom Convention to these Rental Payments can be summarized as follows:
+i.Under Article 7 of the United Kingdom Convention, Canada cedes its jurisdiction to tax a United Kingdom resident’s profits in Canada if that income is not earned through a permanent establishment in Canada, unless the profits fall into a specific category covered by other articles.[107]
+ii.The parties agree that InterMoor UK did not have a permanent establishment in Canada during the Relevant Period.[108]
+iii.Article 12 of the United Kingdom Convention addresses “royalties” earned by a person. “Royalties” are defined to include payments of any kind received as a consideration for the use of or the right to use industrial, commercial or scientific equipment. Under this article, royalties arising in one contracting state and paid to a resident of the other contracting state may be taxed in the latter contracting state. However, under the United Kingdom Convention, such royalties may also be taxed in the contracting state in which they arise, but if the recipient is the beneficial owner of the royalties, the tax so charged shall not exceed 10% of the gross amount of the royalties.[109]
+iv.Article 12 of the United Kingdom Convention reduces the 25% tax applied by paragraph 212(l)(d) of the ITA to 10%. For the reduction to apply, the following conditions must be met:
+-the payments subject to tax must arise in Canada;
+-the payments must be paid to a resident of the United Kingdom;
+-the payments must be received as a consideration for the use of or the right to use industrial, commercial or scientific equipment; and
+-the recipient of the payments must be the beneficial owner of the payments (not the beneficial owner of the industrial, commercial or scientific equipment).[110]
+v.The first three conditions are met. The Rental Payments arose in Canada, were paid to InterMoor UK, a resident of the United Kingdom, and were consideration for the use of the Chains, which were industrial/commercial equipment.[111]
+vi.With respect to the final condition, the term “beneficial owner” is not defined in the United Kingdom Convention or the ITA. In interpreting the meaning of beneficial ownership, case law has held that a person acquires the beneficial ownership of a particular property when the taxpayer has all the normal incidents of ownership: possession, use, risk and control. Each of these elements is given their ordinary meaning. In Club Intrawest v The Queen,[112] this Court defined each element as follows:
+“possession” means to hold property in one’s power or exercise control over it to the exclusion of others;
+“use” means to apply or employ something, especially with long-continued possession, or regularly;
+“risk” signifies the chance of injury, damage or loss; and
+“control” means to exercise power or influence over something.[113]
+vii.Applying the beneficial owner test, InterMoor UK was the beneficial owner of the payments based on the following:
+-InterMoor UK possessed the Rental Payments. C&W Offshore made the Rental Payments directly to InterMoor UK, and they were held in InterMoor UK’s bank account. There is no evidence that anyone other than InterMoor UK exercised control over the Rental Payments to the exclusion of others. Moreover, InterMoor Norway had to invoice InterMoor UK and wait for the payment of that invoice, implying that InterMoor Norway lacked the authority to directly access the Rental Payments;
+-InterMoor UK leased the Chains to C&W Offshore and had the legal right to receive the Rental Payments for its supply. Once the Rental Payments were received by InterMoor UK in its bank account, it had the discretion and ability to use them as it wished, without restriction. There is no indication that anyone other than InterMoor UK could use the Rental Payments;
+-InterMoor UK assumed the risk with respect to the lease of the Chains to C&W Offshore, including the risk of non-payment. There is no indication that anyone other than InterMoor UK would have suffered damages or loss if C&W Offshore failed to pay the Rental Payments;
+-Only InterMoor UK exercised control over the Rental Payments. InterMoor UK issued monthly invoices to demand payment, payment was made to its bank account, and InterMoor UK exercised exclusive control over the bank account. There is no indication that anyone other than InterMoor UK exercised control over the Rental Payments or over InterMoor UK’s bank account. InterMoor Norway had no ability to take the Rental Payments from InterMoor UK directly and no authority to access or withdraw the Rental Payments from InterMoor UK’s bank account.[114]
+[57] Based on the submissions summarized above, counsel argue that InterMoor UK was the beneficial owner of the Rental Payments. Furthermore, there is no evidence that InterMoor Norway was the beneficial owner of the Rental Payments. As a result, because InterMoor UK was the beneficial owner of the Rental Payments, and Article 12 of the United Kingdom Convention applies to the Rental Payments, the 25% withholding tax applicable pursuant to paragraph 212(l)(d) of the ITA is reduced to 10%.[115]
+2. The penalty issue [58] HMTK’s submissions with respect to the penalty issue can be summarized as follows:
+i.Paragraph 227(8)(a) of the ITA empowers the Minister to apply a penalty in respect of the failure to comply with section 215 of the ITA. Counsel submits that under subsection 215(1) of the ITA, C&W Offshore was required to withhold and remit the tax owed pursuant to the application of subsection 212(1) of the ITA.[116]
+ii.Although the penalty in paragraph 227(8)(a) is strict, and the ITA does not provide for a due diligence defence, this Court has held that even strict penalties should not be applied if a taxpayer has taken all reasonable measures to comply with the legislation.[117]
+iii.The due diligence defence is not available if the defendant relies solely on a mistake of law. To successfully mount a defence to the imposition of a penalty, the taxpayer must show that it exercised a high degree of diligence to comply with its obligations under the ITA.[118]
+iv.C&W Offshore did not exercise any reasonable due diligence concerning its obligations under the ITA. Mr. Crane testified that he took no steps to ascertain the true nature of the relationship between InterMoor UK and InterMoor Norway, or how Part XIII tax would apply to the lease transaction at issue. Mr. Crane also testified that he made no inquiries regarding C&W Offshore’s withholding obligations in respect of the payment for the rental of the Chains. There is simply no evidence of any diligence conducted by C&W Offshore. Consequently, C&W Offshore failed to withhold and remit Part XIII tax in respect of these payments as required, cannot rely on the due diligence defence and is liable for the penalty under subsection 227(8) of the ITA.[119]
+VI. DISCUSSION A. The law 1. The withholding tax issue a) The relevant provisions of the ITA and the Income Tax Application Rules [59] Section 212 of the ITA is located in Part XIII, which governs the withholding tax regime applicable to non‑residents of Canada. Part XIII imposes tax on certain types of income that a non‑resident receives from Canadian sources. These amounts are generally subject to withholding at source, often at a statutory rate of 25%, unless reduced by an applicable tax treaty.
+[60] Pursuant to subsection 212(1) of the ITA, every non-resident person is subject to an income tax of 25% on amounts that a person resident in Canada pays or credits, or is deemed to have paid or credited, to the non-resident. This provision imposes a withholding tax on certain types of payments made by Canadian residents to non-residents, if the payments have a specified link to a business carried on in Canada, or income earning property in Canada.[120]
+[61] Pursuant to paragraph 212(1)(d)(i) of the ITA, rent, royalties, or similar payment made to non-residents are subject to withholding tax. The relevant part of subsection 212(1) reads as follows:
+212 (1) Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+(d) rent, royalty or similar payment, including, but not so as to restrict the generality of the foregoing, any payment
+(i) for the use of or for the right to use in Canada any property, invention, trade-name, patent, trade-mark, design or model, plan, secret formula, process or other thing whatever,
+[62] Pursuant to subsection 215(1) of the ITA, a Canadian resident who pays, credits or provides, or is deemed to have paid, credited or provided, an amount on which an income tax is payable under Part XIII, must deduct or withhold from it the amount of the tax and remit that amount to the Receiver General of Canada on behalf of the non-resident person on account of the tax payable by the non‑resident person. Subsection 215(1) reads as follows:
+215(1) When a person pays, credits or provides, or is deemed to have paid, credited or provided, an amount on which an income tax is payable under this Part, or would be so payable if this Act were read without reference to subparagraph 94(3)(a)(viii) and to subsection 216.1(1), the person shall, notwithstanding any agreement or law to the contrary, deduct or withhold from it the amount of the tax and forthwith remit that amount to the Receiver General on behalf of the non-resident person on account of the tax and shall submit with the remittance a statement in prescribed form.
+[63] Pursuant to subsection 215(6) of the ITA, a person who is required to withhold and remit an amount under section 215 of the ITA is liable to pay the amount that was not withheld and remitted to the Receiver General. Subsection 215(6) reads as follows:
+215 (6) Where a person has failed to deduct or withhold any amount as required by this section from an amount paid or credited or deemed to have been paid or credited to a non-resident person, that person is liable to pay as tax under this Part on behalf of the non-resident person the whole of the amount that should have been deducted or withheld, and is entitled to deduct or withhold from any amount paid or credited by that person to the non-resident person or otherwise recover from the non-resident person any amount paid by that person as tax under this Part on behalf thereof.
+[64] Pursuant to subsection 10(6) of the Income Tax Application Rules,[121] the withholding tax rate applicable pursuant to section 212 of the ITA may be reduced or eliminated pursuant to the terms of an agreement or convention between the Government of Canada and the government of any other country that has the force of law in Canada. Subsection 10(6) reads as follows:
+(6) Notwithstanding any provision of the amended Act, where an agreement or convention between the Government of Canada and the government of any other country that has the force of law in Canada provides that where an amount is paid or credited, or deemed to be paid or credited, to a resident of that other country the rate of tax imposed thereon shall not exceed a specified rate,
+(a) any reference in Part XIII of the amended Act to a rate in excess of the specified rate shall, in respect of such an amount, be read as a reference to the specified rate; and
+(b) except where the amount can reasonably be attributed to a business carried on by that person in Canada, that person shall, for the purpose of the agreement or convention in respect of the amount, be deemed not to have a permanent establishment in Canada.
+b) The relevant Tax Convention – The United Kingdom Convention [65] As mentioned above, the withholding tax applicable pursuant to section 212 of the ITA may be reduced or eliminated pursuant to the terms of an agreement or convention between the Government of Canada and the government of any other country. Consequently, the Court must take into consideration tax convention entered into by the Government of Canada.
+[66] In the present matter, the United Kingdom Convention is the relevant convention. Pursuant to Article 7 (Business Profits) of the convention, the profits of an enterprise of Canada or the United Kingdom shall be taxable only in Canada or United Kingdom unless the enterprise carries on business in the other country through a permanent establishment located in that country. The relevant sections of Article 7 (Business Profits) read as follows:
+1. The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on or has carried on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
+4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles embodied in this Article.
+[Emphasis added]
+[67] Article 12 of the United Kingdom Convention deals with royalties. The relevant sections of Article 12 reads as follows:
+1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State.
+2. However, such royalties may be taxed in the Contracting State in which they arise, and according to the law of that State; but if the recipient is the beneficial owner of the royalties the tax so charged shall not exceed 10 percent of the gross amount of the royalties.
+4. The term “royalties” as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright, patent, trade mark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial or scientific equipment, or for information concerning industrial, commercial or scientific experience, and includes payments of any kind in respect of motion pictures and works on film, videotape or other means of reproduction for use in connection with television broadcasting.
+5. The provisions of paragraph 1, 2 and 3 shall not apply if the recipient of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+[Emphasis added]
+[68] Consequently, the profits of a United Kingdom enterprise are taxable only in the United Kingdom, unless the enterprise carries on business in Canada through a permanent establishment located in Canada. If the enterprise carries on business in Canada through a permanent establishment located in Canada, the profits of the enterprise may be taxed in Canada, but only so much of the profits that is attributable to that permanent establishment.
+[69] In the case of royalties arising in Canada and paid to an enterprise that is a resident of the United Kingdom, that does not carry on business in Canada through a permanent establishment located in Canada, the royalties may be taxed in Canada according to the law applicable in Canada. If the United Kingdom recipient is the beneficial owner of the royalties, the Canadian tax charged to the United Kingdom enterprise will not exceed 10%of the gross amount of the royalties paid.
+[70] This means that, pursuant to subsection 10(6) of the Income Tax Application Rules and articles 7 and 12 of the United Kingdom Convention, the withholding tax rate applicable pursuant to section 212(1)(d) of the ITA is reduced to 10% on royalties paid to a United Kingdom enterprise, that is the recipient and the beneficial owner of the royalties.
+[71] In summary, where these provisions apply, the withholding tax rate is reduced to 10%, provided that the following conditions are satisfied:
+1 -The paymentssubject to tax arise in Canada;
+2 -The payments are paid to a resident ofthe United Kingdom;
+3 -The payments are received as a consideration for the use of or the right to use, industrial,commercialor scientificequipment;and
+4 -The recipient of the payments is the beneficial owner of the payments.
+c) Definition of the term “beneficial owner” [72] There is no settled definition of the term “beneficial ownership” in either the United Kingdom Convention or the ITA. The convention is based on the Organisation for Economic Cooperation and Development’s (“OECD”) Model Double Taxation Convention on Income and Capital 1977 (“Model Convention”), which also does not provide a definition of this term.
+[73] As stated by the Federal Court of Appeal in Prévost Car, a judge is entitled to rely on subsequent documents issued by the OECD in order to interpret the Model Convention.[122]
+[74] In Prévost Car, the Court also stated that the worldwide recognition of the provisions of the Model Convention and their incorporation into a majority of bilateral conventions have made the OECD Commentaries on the provisions of the Model Convention a widely-accepted guide to the interpretation and application of the provisions of existing bilateral conventions.[123]
+[75] Finally, in Prévost Car, the Court concluded that, for the purposes of interpreting the relevant Tax Treaty, the OECD Conduit Companies Report (in 1986) as well as the OECD 2003 Amendments to the 1977 Commentary are a helpful complement to the earlier Commentaries, insofar as they are eliciting, rather than contradicting, views previously expressed.[124]
+[76] Article 12 of the United Kingdom Convention mirrors Article 12 of the Model Convention. Because the issue in this case turns on identifying the beneficial owner of the royalty payments, the parties agree that the governing test is the one articulated in Prévost Car.
+[77] In Prévost Car, the issue was the interpretation of the terms “beneficial owner” found in in Article 10(2) of the Convention Between Canada and the Kingdom of the Netherlands for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income, S.C. 1986, c. 48.
+[78] The context was the payment of dividends by a resident Canadian corporation to its shareholder corporation resident in the Netherlands, which in turn paid dividends in substantially the same amount to its corporate shareholders, which were residents of Sweden and of the United Kingdom. The term “beneficial owner” was not defined in the Sweden Convention or in the United Kingdom Convention. The term was not defined in the OECD Model Convention either.
+[79] The Federal Court of Appeal agreed with this Court when it concluded that, when asserting who is the beneficial owner of the items being considered (e.g., a payment of dividends or royalties) in the context of the application of a convention based on the OECD Model Convention, one must determine who has received the payments for their own use and enjoyment and assumed the risk and control of the payment they received. The focus is on the attributes of ownership of the payment or item to be considered.[125] The beneficial owner is the person who receives an amount of money for their own use and enjoyment and assumes the risk and control of the amount they received.[126]
+[80] In Club Intrawest,[127] citing the decisions in Velcro Canada Inc v The Queen,[128] and Prévost Car, this Court stated that there are four elements in considering the attribution of beneficial ownership: possession, use, risk and control. Citing Velcro, this Court stated that, in looking at the beneficial ownership issue one must apply the test set out in Prévost Car, and in doing so, one must look to the meaning of individual words, that is, “possession”, “use”, “risk” and “control”. These words have ordinary meanings.[129]
+[81] The meaning of the words “possession”, “use”, “risk” and “control” in this context was determined in Club Intrawest as follows:
+[91] The first element I will consider is “use”. Black’s Law Dictionary defines the noun “use”, in part, as “the application or employment of something; esp., a long-continued possession and employment of a thing for the purpose for which it is adapted. . .” The Canadian Oxford Dictionary defines the verb “use” as meaning, among other things, “to employ or avail oneself of (something) regularly”.[130]
+…
+[93] The second element to consider is “possession”. Black’s Law Dictionary defines “possession” as:
+1. The fact of having or holding property in one’s power; the exercise of dominion over property. 2. The right under which one may exercise control over something to the exclusion of all others . . .[131]
+…
+[96] The third element to consider is “risk”. This is the key element for the purposes of the Appellant’s argument.
+[97] In Black’s Law Dictionary “risk” signifies “the chance of injury, damage, or loss. . . liability for injury, damage, or loss if it occurs”. The Canadian Oxford Dictionary refers to “a chance or possibility of danger, loss, injury, or other adverse consequences”.[132]
+…
+[104] The last element to consider is “control”. Black’s Law Dictionary defines the verb “control” as meaning “to exercise power or influence over”. The Canadian Oxford Dictionary defines it as having the sense of “dominate or have command of.”[133]
+d) Agency relationship [82] As noted above, the beneficial owner is the person who receives a payment for their own use and enjoyment and who assumes the risk and control associated with that amount. Accordingly, where an intermediary is interposed between the payer and the recipient, the latter may not be the beneficial owner. This is the case where the intermediary is acting as an agent on behalf of the recipient. As a result, in determining beneficial ownership, the Court must often consider whether an agency relationship existed between the parties.
+[83] In Kinguk, the Federal Court of Appeal adopted the following definition of “agency”:
+a fiduciary relationship which exists between two persons, one of whom expressly or impliedly consents that the other should act on his behalf so as to affect his relations with third parties, and the other of whom similarly consents so to act or so acts.[134]
+[84] In Kinguk, the Court, citing Royal Securities Corp v Montreal Trust Co,[135] also enumerated the essential elements of an agency relationship as the following:
+1 -The consent of both the principal and the agent;
+2 -Authority given to the agent by the principal, allowing the former to affect the latter’s legal position; and
+3 -The principal’s control of the agent’s actions.[136]
+2. The penalty issue [85] Paragraph 227(8)(a) of the ITA imposes a penalty when a person fails to deduct or withhold an amount as required under subsection 215(1) of the ITA. paragraph 227(8)(a) reads as follows:
+227(8)
+Subject to subsection (9.5), every person who in a calendar year has failed to deduct or withhold any amount as required by subsection 153(1) or section 215 is liable to a penalty of
+(a) 10% of the amount that should have been deducted or withheld;.
+[86] Paragraph 227(8)(a) of the ITA does not expressly provide for a due diligence defence. However, in Home Depot,[137] relying on the Federal Court of Appeal’s decision in Corporation de l’École Polytechnique v. Canada,[138] this Court held that a taxpayer may invoke such a defence where the relevant provision of the ITA imposes strict liability. Paragraph 227(8)(a) is such a provision.
+[87] As stated in Corporation de l’École Polytechnique, the due diligence defence allows a person to avoid the imposition of a penalty if they present evidence that they were not negligent.[139] The due diligence defence involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made their act or omission innocent.[140] The due diligence defence also involves considering whether the person took all reasonable precautions to avoid the event leading to imposition of the penalty.[141]
+[88] The relevant excerpt from Corporation de l’École Polytechnique reads as follows:
+27 This Court has held that there is no bar to the defence argument of due diligence, which a person may rely on against charges involving strict liability, being put forward in opposition to administrative penalties. In particular, it has held that section 280 of the Excise Tax Act, by its wording and content, gives rise to that defence: Canada (A.G.) v. Consolidated Canadian Contractors Inc., [1999] 1 F.C. 209 (F.C.A.). It may be worth reviewing the principles governing the defence of due diligence before applying them to the facts of the case at bar.
+28 The due diligence defence allows a person to avoid the imposition of a penalty if he or she presents evidence that he or she was not negligent. It involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made his or her act or omission innocent, or whether he or she took all reasonable precautions to avoid the event leading to imposition of the penalty. See The Queen v. Sault Ste. Marie, [1978] 2 S.C.R. 1299; The Queen. v. Chapin, [1979] 2 S.C.R. 121. In other words, due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act.
+29 The defence of due diligence should not be confused with the defence of good faith, which applies in the area of criminal liability, requiring proof of intent or guilty knowledge. The good faith defence enables a person to be exonerated if he or she has made an error of fact in good faith, even if the latter was unreasonable, whereas the due diligence defence requires that the error be reasonable, namely, an error which a reasonable person would have made in the same circumstances. The due diligence defence, which requires a reasonable but erroneous belief in a situation of fact, is thus a higher standard than that of good faith, which only requires an honest, but equally erroneous, belief.
+[30] A person relying on a reasonable mistake of fact must meet a twofold test: subjective and objective. It will not be sufficient to say that a reasonable person would have made the same mistake in the circumstances. The person must first establish that he or she was mistaken as to the factual situation: that is the subjective test. Clearly, the defence fails if there is no evidence that the person relying on it was in fact misled and that this mistake led to the act committed. He or she must then establish that the mistake was reasonable in the circumstances: that is the objective test.[142]
+[89] Applied to the present matter, this means that if a taxpayer demonstrates, on a balance of probabilities, that they were not negligent because either (i) they believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made their act or omission to withhold tax a legitimate innocent mistake, or (ii) that they took reasonable precautionary measures to comply with sections 212 and 215 of the ITA, the Cour will have to conclude that the penalty of subsection 227(8)(a) should not have been applied by the Minister.[143]
+B. Analysis 1. The withholding tax issue a) Were the Rental Payments subject to withholding tax under paragraph 212(1)(d) of the ITA and Article 12 of the United Kingdom Convention? [90] The parties agree that C&W Offshore was required to do so pursuant to paragraph 212(1)(d) of the ITA and Article 12 of the United Kingdom Convention, but only if InterMoor UK was not the beneficial owner of the Rental Payments.
+[91] The parties also agree that the Rental Payments constitute a “rent, royalty or similar payment” under paragraph 212(1)(d)(i) of the ITA and that they constitute “Royalties” under paragraph 4 of Article 12 of the United Kingdom Convention.
+[92] Indeed, the evidence establishes that the Rental Payments were for the lease of offshore mooring chains used for the West Aquarius Rig off the coast of Newfoundland. Mr. Duncan testified that the chains were 84 mm DNV‑certified mooring chains, industrial equipment designed for deepwater oil and gas operations. Therefore, the mooring chains, as DNV-certified equipment for offshore oil and gas activities, fall within the category of “industrial, commercial or scientific equipment” under paragraph 4 of Article 12(4) of the United Kingdom Convention.
+[93] The Court concludes, as the parties agree, that C&W Offshore was required to withhold and remit tax on the Rental Payments pursuant to paragraph 212(1)(d) of the ITA and of Article 12 of the United Kingdom Convention, but only if InterMoor UK was the beneficial owner of the Rental Payments.
+b) Was InterMoor UK the beneficial owner of the Rental Payments? [94] To answer this question, the Court must apply the test established in Prévost Car. As previously stated, the beneficial owner is someone who receives an amount of money for their own use and enjoyment and assumes the risk and control of the amount received. In doing so, the Court will determine if InterMoor UK had the possession, use and control of the payments. The Court will also determine if InterMoor UK assumed any risk in relation to the payments.
+(1) Possession of the Rental Payments [95] The evidence is that InterMoor UK had possession of the Rental Payments. C&W Offshore paid all invoices directly to a UK bank account that was under InterMoor UK’s exclusive control. Mr. Duncan testified that InterMoor UK received and held the funds associated with the payments. Mr. Duncan also testified that the funds were held without any obligation to separate them from other funds it received.
+(2) Control of the Rental Payments [96] The evidence is that InterMoor UK exercised control over the Rental Payments. The payments were deposited into InterMoor UK’s exclusive bank account, granting InterMoor UK unrestricted control over the funds.
+(3) Use of the Rental Payments [97] The evidence establishes that InterMoor UK had the ability to use the Rental Payments for its own benefit. When C&W Offshore remitted payment promptly upon invoicing, it was InterMoor UK, and no one else, that could employ those funds during the 30‑day period before its obligation to pay InterMoor Norway became due. InterMoor UK also recorded the full amount of the payments as revenue in its corporate books. This demonstrates that the funds belonged to InterMoor UK and that it was free to use them as it saw fit.
+(4) Risk associated with the Rental Payments [98] The evidence also shows that InterMoor UK assumed the risks associated with the Rental Payments. The lease agreement for the Chains was concluded between InterMoor UK and C&W Offshore. InterMoor UK invoiced C&W Offshore on 60‑day terms, while its separate lease agreement with InterMoor Norway required InterMoor UK to remit payment within 30 days. This demonstrates that InterMoor UK was liable to InterMoor Norway even if C&W Offshore failed to pay, thereby exposing InterMoor UK to financial risk. In addition, Mr. Duncan testified that InterMoor UK was responsible for any damage to the Chains and obtained insurance to cover this risk, pursuing insurance claims where necessary. This evidence confirms that InterMoor UK bore the commercial risks arising from the lease agreement under which the Chains were provided to C&W Offshore and the Rental Payments were made.
+(5) Conclusion [99] The Court concludes that InterMoor UK was the beneficial owner of the Rental Payments. The evidence is that InterMoor UK received the Rental Payments from C&W Offshore for the rental of the Chains and that it had possession, control and use of the amounts received pursuant to the rental agreement. The evidence is also that it assumed the risks associated with non-payment of the Rental Payments and for possible damages to the Chains, not InterMoor Norway.
+[100] InterMoor Norway’s ownership of the Chains does not confer beneficial ownership of the Rental Payments, as asset ownership and payment entitlement are distinct.[144]
+c) Was InterMoor UK an agent of InterMoor Nowway? [101] C&W Offshore submits that InterMoor UK acted as an agent for InterMoor Norway. Consequently, InterMoor Norway was the beneficial owner of the Rental Payments due to its ownership of the Chains.
+As previously mentioned, in Kinguk, the Federal Court of Appeal enumerated the essential elements of an agency relationship as follows:
+1 -The consent of both the principal and the agent;
+2 -Authority given to the agent by the principal, allowing the former to affect the latter’s legal position; and
+3 -The principal's control of the agent’s actions.
+(1) Consent to an agency relationship [102] There is no evidence that either InterMoor UK or InterMoor Norway consented to an agency relationship. Mr. Duncan testified that there was no written agency agreement. Furthermore, there is also no evidence that either InterMoor UK or InterMoor Norway consented to such agreement either verbally or implicitly.
+[103] With respect to the “administration fees” and “processing fees” charged by InterMoor UK to C&W Offshore, Mr. Duncan testified on cross‑examination that although he used those terms during his testimony, the fees were in fact InterMoor UK’s markup, that is, its profit margin on the rental of the Chains to C&W Offshore. Consequently, this is not evidence supporting the existence of an agency relationship.
+[104] The B-3 customs form listing InterMoor Norway as the “vendor” is unpersuasive. Mr. Malone testified that the term “vendor” on the form refers to the exporter for customs purposes, not the beneficial owner of payments. Consequently, this is not evidence supporting the existence of an agency relationship.
+(2) Authority given to the agent to affect the principal’s legal position [105] There is no evidence that InterMoor Norway authorized InterMoor UK to affect its legal position.
+(3) The principal's control of the agent’s actions. [106] There is no evidence that InterMoor Norway controlled InterMoor UK’s actions.
+[107] According to Mr. Duncan, the invoices issued by InterMoor Norway to InterMoor UK were for the rental of the Chains by InterMoor UK. This confirms that InterMoor Norway rented the Chains to InterMoor UK.[145] InterMoor UK treated the Rental Payments as business income, while InterMoor Norway also recorded its own income from the transaction, treating InterMoor UK as a customer.[146] This supports the conclusion that InterMoor UK treated the rental of the Chains as part of its regular business activities, over which InterMoor Norway had no control.
+[108] Once InterMoor UK rented the Chains, they were used by the company in the ordinary course of its business. InterMoor UK specializes in providing engineering services and rental of offshore mooring equipment. Its rental activity represents approximately 55% to 60% of revenues. Renting mooring equipment is one of its business activities. The Chains rented to C&W Offshore have been described as mooring equipment. Mr. Duncan testified that the invoices that InterMoor UK issued to C&W Offshore were for the rental of the Chains to C&W Offshore.[147] This also supports the conclusion that InterMoor UK treated the rental of the Chains as part of its regular business activities, over which InterMoor Norway had no control.
+[109] InterMoor UK set prices and terms and conditions for the rental agreement with C&W Offshore independently of InterMoor Norway. InterMoor Norway’s role was limited to providing the Chains. As the owner of the Chains, InterMoor Norway could and did decide the length of the rental and the approved usage. There is also no evidence that this was not industry practice. Considering the value of the Chains, which was considerable, and the time it would take to replace them if they were damaged, it was logical for InterMoor Norway to act in this matter. This is not evidence that InterMoor UK’s authority was constrained by InterMoor Norway.
+(4) Conclusion [110] The Court concludes that there is no evidence that any of the elements identified in Kinguk were present. Accordingly, the Court concludes that InterMoor UK was not acting as an agent for InterMoor Norway.
+d) Conclusion [111] The Court concludes that C&W Offshore was required to withhold and remit income tax on the Rental Payments pursuant to paragraph 212(1)(d) of the ITA and of Article 12 of the United Kingdom Convention. The Court also concludes that InterMoor UK was the beneficial owner of the Rental Payments and InterMoor UK was not acting as an agent for InterMoor Norway. Consequently, C&W Offshore was required to withhold and remit tax on the Rental Payments at the rate of 10%.
+2. The penalty issue [112] Having determined that C&W Offshore was required to withhold a 10% tax on Rental Payments to InterMoor UK pursuant to paragraph 215(1) of the ITA and Article 12(2) of the United Kingdom Convention, the Court must determine whether C&W Offshore is liable to the penalty pursuant to subsection 227(8) of the ITA.
+[113] As previously stated, C&W Offshore may rely on the due diligence defence to avoid the imposition of the penalty. HMTK does not dispute this. Applying the principle found in Home Depot and Corporation de l’École Polytechnique to the present matter, to succeed, C&W Offshore must establish, on a balance of probabilities, that it was not negligent.
+[114] This can be accomplished in two ways: first, by establishing that it believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made its omission to withhold tax on the Rental Payments innocent; and second, by establishing that it took all reasonable precautions to avoid the event, that is, the failure to withhold tax on the Rental Payments.
+a) Did C&W Offshore establish that it took all reasonable precautions to avoid the failure to withhold tax on the Rental Payments? [115] The evidence is that C&W Offshore did not take any reasonable precautions to avoid the failure to withhold tax on the Rental Payments. Mr. Crane testified that he did not do anything with respect to the possible tax implications for C&W Offshore of the rental of the Chains or the Rental Payment. He testified that InterMoor UK never discussed the topic of withholding tax with C&W Offshore.
+[116] C&W Offshore submits that the Court should consider the fact that C&W Offshore relied on InterMoor UK’s invoices and instructions, which contained no indication of a requirement to withhold taxes. The Court does not agree. There is no legal requirement for invoices from a non-resident to contain information with respect to withholding taxes. Also, the Court does not agree with counsel for C&W Offshore when he says that a prudent business, receiving invoices from a reputable international supplier, would rely on those invoices in good faith for its own tax obligations.
+[117] C&W Offshore also submits that it took reasonable business steps by engaging external experts and customs brokers to handle logistics and compliance. Counsel for C&W Offshore submits that the courts have consistently found that reliance on external professional advice and business partners can satisfy the due diligence standard. While it might be true that in some cases, the courts have found that reliance on external professional advice and business partners can satisfy the due diligence standard, that was not done in this case. There is no evidence that C&W Offshore hired external tax professionals to provide advice or deal with possible taxation issues with respect to the Rental Payments or any other of its tax matters. In Home Depot, the taxpayer avoided penalties by outsourcing compliance to Deloitte Tax, which, despite a clerical error, had sophisticated processes, including manuals, checklists, and an experienced team. By contrast, the evidence here does not reveal if C&W Offshore had any compliance system.
+b) Did C&W Offshore establish that it believed, on reasonable grounds, in a non-existent state of facts which, if it had existed, would have made its omission to withhold tax on the Rental Payments innocent? [118] As stated by the Federal Court of Appeal in Corporation de l’École Polytechnique, the due diligence defence allows a person to avoid the imposition of a penalty if they present evidence that they were not negligent. The Court also stated the following:
+-The due diligence defence requires determining whether the person believed, on reasonable grounds, in a non‑existent state of facts which, if it had existed, would have rendered their act or omission innocent.
+-A person relying on a reasonable mistake of fact must meet a twofold test: subjective and objective.
+-In the subjective component of the test, it is not sufficient to say that a reasonable person would have made the same mistake in the circumstances. The person must first establish that they were in fact mistaken as to the factual situation.
+-The defence fails if there is no evidence that the person was misled and that this mistake led to the act or omission.
+-In the objective component of the test, once the subjective component is established, the person must then demonstrate that the mistake was reasonable in the circumstances.[148]
+[119] The evidence shows that Mr. Crane was not misled by any person or circumstance. The omission resulted solely from his own assumption that InterMoor UK, as part of an international corporate group, would pay the income tax owed on its income, including on the Rental Payments, if required. As a result, the subjective element of the test has not been met.
+[120] Consequently, it is not sufficient for Mr. Crane to say that a reasonable person would have made the same mistake in the circumstances.
+VII. CONCLUSION [121] For the reasons set out above, the Court concludes the following:
+1 -The withholding tax issue
+[122] The Minister correctly assessed C&W Offshore, pursuant to subsections 212(1), 215(1) and 227(10) of the ITA, for withholding tax of $693,114.52 for the 2014 taxation year.
+[123] The Minister correctly assessed C&W Offshore, pursuant to subsections 212(1), 215(1) and 227(10) of the ITA, for withholding tax of $208,135.59 for the 2015 taxation year.
+2 -The penalty issue
+[124] The Minister rightfully imposed on C&W Offshore penalties of $69,314.45 for the 2014 taxation year and of $20,813.56 for the 2015 taxation year for its failure to withhold and remit tax pursuant to paragraph 227(8)(a) of the ITA. Therefore, the penalty is confirmed.
+[125] For all these reasons, the appeal is dismissed, with costs.
+Signed at Edmonton, Canada, this 4th day of March 2026.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2026 TCC 40
+COURT FILE NO.:
+2020-2178(IT)G
+STYLE OF CAUSE:
+C&W OFFSHORE LTD. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+St. John’s, Newfoundland and Labrador
+DATE OF HEARING:
+October 22 and 23, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+March 4, 2026
+APPEARANCES:
+Counsel for the Appellant:
+Brandon Siegal
+Counsel for the Respondent:
+Cecil Woon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Brandon Siegal
+Firm:
+Siegal Tax Law Professional Corporation
+Toronto, Ontario
+For the Respondent:
+Marie-Josée Hogue Deputy Attorney General of Canada Ottawa, Canada
+[1] Reply to Notice of Appeal, part A, at paras 14–15.
+[2] 8 September 1978, E102382 - CTS 1985 No. 42.
+[3] 23 November 1966, CTS 1967 No 8.
+[4] Partial Agre Partial Agreed Statement of Facts at para 1. Transcript of proceedings dated October 22, 2024, at 123–125.
+[5] Partial Agreed Statement of Facts at para 2. Transcript of proceedings dated October 22, 2024, at 125–127.
+[6] Ibid at 128–129 and 134; Partial Agreed Statement of Facts at para 3.
+[7] Transcript of proceedings dated October 22, 2024, at 128–131.
+[8] Ibid at 14–16, 19–20 and 131; Reply to the Notice of Appeal at paras 7(a) and 9(a).
+[9] Ibid.
+[10] Ibid.
+[11] Partial Agreed Statement of Facts at para 4.
+[12] Transcript of proceedings dated October 22, 2024 at 33.
+[13] Ibid at 36.
+[14] Ibid at 90–92.
+[15] Ibid at 31–32; Exhibit A-7.
+[16] Transcript of proceedings dated October 22, 2024, at 59–60, 69, 70–71 and 77.
+[17] Ibid at 83–84, 92; Partial Agreed Statement of Facts at para 9.
+[18] Transcript of proceedings dated October 22, 2024, at 43–44, 61–65
+[19] Partial Agreed Statement of Facts at paras 10–12.
+[20] Transcript of proceedings dated October 22, 2024, at 41.
+[21] Partial Agreed Statement of Facts at para 8; Transcript of proceedings dated October 22, 2024, at 90-92 and 135-136.
+[22] Transcript of proceedings dated October 22, 2024, at 140–142 and 94.
+[23] Ibid at 95-97.
+[24] Ibid at 96–105.
+[25] Ibid at 106–113 and 120–121.
+[26] Ibid at 152 and 155-156.
+[27] Ibid at 159–160.
+[28] Ibid at 148–151.
+[29] Ibid at 73–74.
+[30] Ibid at 73–74
+[31] Appellant’s Written Arguments at para 48.
+[32] Ibid at para 96.
+[33] Ibid at para 88.
+[34] Ibid at para 60.
+[35] Ibid at para 89.
+[36] Ibid at para 90.
+[37] Ibid at para 52.
+[38] Ibid at para 55.
+[39] Ibid at para 56; 2009 FCA 57 [Prévost Car].
+[40] Appellant’s Written Arguments at para 57.
+[41] Ibid at para 71.
+[42] Ibid at para 72.
+[43] Ibid at para 73.
+[44] Ibid at para 74.
+[45] Ibid at para 75.
+[46] Ibid at para 76.
+[47] Ibid at para 79.
+[48] Ibid at para 80.
+[49] Ibid at para 81.
+[50] Ibid at para 86.
+[51] Ibid at para 19.
+[52] Ibid at para 20.
+[53] Ibid at para 21.
+[54] Ibid at para 22.
+[55] Ibid at para 23.
+[56] Ibid at para 24.
+[57] Ibid at para 25; Joint Book of Documents, Tabs 6 and 7.
+[58] Appellant’s Written Arguments at para 26.
+[59] Ibid at para 27.
+[60] Ibid at para 28.
+[61] Ibid at para 29.
+[62] Ibid at para 30.
+[63] Ibid at para 31.
+[64] Ibid at para 32.
+[65] Ibid at para 33.
+[66] Ibid at para 34.
+[67] Ibid at para 35.
+[68] Ibid at para 36.
+[69] Ibid at para 37.
+[70] Ibid at para 38.
+[71] Ibid at para 39.
+[72] Ibid at para 40.
+[73] Ibid at para 41.
+[74] Ibid at para 42.
+[75] Ibid at para 43.
+[76] Ibid at para 92.
+[77] Ibid at para 91.
+[78] Ibid at para 95.
+[79] Ibid at para 54.
+[80] Ibid at paras 49–50.
+[81] Ibid at para 51.
+[82] Ibid at para 93.
+[83] Ibid at para 94.
+[84] Ibid at para 95.
+[85] Ibid at para 96.
+[86] Ibid at para 99 and 104.
+[87] 2011 FCA 142 [Buckingham].
+[88] Appellant’s Written Arguments at para 99.
+[89] Ibid at para 100.
+[90] Ibid at para 101.
+[91] Ibid at para 102.
+[92] Ibid at para 103.
+[93] Ibid at para 3 and 42.
+[94] Respondent’s Written Submissions at para 52.
+[95] Ibid at para 56.
+[96] Ibid at para 60.
+[97] Ibid para 61.
+[98] Ibid at para 62–65.
+[99]Ibid at para 66.
+[100] 2003 FCA 85 [Kinguk].
+[101] 2011 TCC 520.
+[102] Respondent’s Written Submissions at para 68.
+[103] Ibid at para 69.
+[104] Ibid at para 69.
+[105] Ibid at para 70.
+[106] Ibid at para 71.
+[107] Ibid at para 73.
+[108] Ibid at para 74.
+[109] Ibid at para 75.
+[110] Ibid at para 76.
+[111] Ibid at para 77.
+[112] 2016 TCC 149 [Club Intrawest].
+[113] Respondent’s Written Submissions at para 78.
+[114] Ibid at para 79.
+[115] Ibid at para 80-81.
+[116] Ibid at para 82.
+[117] Ibid at para 83.
+[118] Ibid at para 84.
+[119] Ibid at para 85–88.
+[120] Transocean Offshore Ltd v R, 2005 FCA 104 at para 44.
+[121] RSC 1985, c 2 (5th Supp).
+[122] Supra note 46.
+[123] Prévost Car at para 10.
+[124] Ibid at para 12.
+[125] Ibid at para 27.
+[126] Prévost Car, supra note 46 at para 13 and Prévost Car Inc v The Queen, 2008 TCC 231 at para 100.
+[127] Supra note 122.
+[128] 2012 TCC 57 [Velcro].
+[129] Ibid at para 85.
+[130] Ibid at para 91.
+[131] Ibid at para 93.
+[132] Ibid at paras 96–97.
+[133] Ibid at para 104.
+[134] Kinguk, supra note 110 at para 35.
+[135] (1966), 59 DLR (2d) 666 (Ont HC).
+[136] Home Depot of Canada Inc v R, 2009 TCC 281 at para 13, [2009] TCJ No 198 [Home Depot]; see also Douglas v The Queen, 2012 TCC 74 at para 14; Moore v The Queen, 2019 TCC 141 at paras 18–21; Caron v The King, 2024 TTC 68 at para 20; and 3792391 Canada Inc v R, 2023 TCC 37 at para 43.
+[137] Home Depot, supra note 149.
+[138] 2004 FCA 127 [Corporation de l’École Polytechnique].
+[139] Ibid at para 28.
+[140] Ibid at para 28.
+[141] Ibid at para 28.
+[142] Ibid at paras 27–30.
+[143] Home Depot, supra note 149 at para 14.
+[144] Velcro, supra note 137 at para 95.
+[145] Transcript of proceedings dated October 22, 2024, at 75.
+[146] Ibid at 83.
+[147] Ibid at 75.
+[148] Supra note 138 at para 30.

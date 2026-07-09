@@ -1,0 +1,138 @@
+---
+title: "Barnes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29374/index.do"
+last_modified: "2009-09-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 429"
+citation2: ""
+neutral_citation: "2009 TCC 429"
+decision_date: "2009-09-01"
+language: "en"
+item_id: "29374"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6865
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:01:19.675000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3a80a2cf996a08cca18fdb2b59220287bc2298be3041a2b33e768e28cac4c96c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barnes v. The Queen
+
+- Citation: 2009 TCC 429
+- Decision date: 2009-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6865, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barnes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-01
+Neutral citation
+2009 TCC 429
+File numbers
+2008-2407(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2407(IT)I
+BETWEEN:
+COLIN J. BARNES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 17, 2009, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Rishma Bhimji (student-at-law)
+Elizabeth Chasson
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act with respect to the appellant’s the 2005 taxation year is dismissed without costs in accordance with the reasons herein.
+Signed at Ottawa, Canada, this 1st day of September 2009.
+"Patrick Boyle"
+Boyle J.
+Citation: 2009 TCC 429
+Date: 20090901
+Docket: 2008-2407(IT)I
+BETWEEN:
+COLIN J. BARNES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The appellant claimed a medical expense tax credit (“METC”) pursuant to paragraph 118.2(2)(l.2) in respect of the cost of a swimming pool put in for, and used principally by, his daughter Zoë for physiotherapy and the relief of some of the symptoms of her severe and prolonged mobility impairment. It is the Crown’s position that, notwithstanding the relief that swimming brings to his daughter’s condition, the swimming pool does not meet the requirements of paragraph 118.2(2)(l.2).
+[2] Zoë is now a teenager and has, since birth, suffered from hemiplegia associated with brain damage, with significant cerebral palsy affecting the right side of her body. Her condition affects her gait and causes the limbs on her right side to drag. In addition, she suffers from epilepsy and is prone to very severe seizures. The epilepsy can aggravate her hemiplegia and vice versa. Following a seizure it will take up to six months for Zoë to return to her prior state. Throughout, these conditions affect her ability to walk, to talk, to dress and to attend to the toilet herself.
+[3] Her condition is assisted by her ongoing physiotherapy. Exercise also helps notably. Humidity and temperature change adversely affect her condition.
+[4] Zoë participates in and trains for Special Olympics swimming. This training includes a physical stamina building program. The Special Olympics program runs from September through April or May each year.
+[5] Swimming has been recommended strongly by Zoë’s two neurosurgeons for therapeutic purposes to enhance her neuromuscular functions and abilities. In addition to her participation in the Special Olympics swimming program, Zoë’s physiotherapist has used swimming as part of Zoë’s physiotherapy regime. Zoë’s swimming builds up her strength and control with the direct result that her ability to walk upstairs, to dress and to attend to the toilet herself is notably enhanced.
+[6] Zoë’s parents decided to add a modest sized swimming pool in their backyard for the purpose of assisting Zoë’s ongoing physiotherapy in the months she could not participate in Special Olympics swimming. It is a conventional swimming pool that was not custom-designed for Zoë’s purposes. It takes up most of the yard. It is primarily used by and for Zoë. Her parents were concerned that Zoë’s Special Olympics swimming did not continue in the hot humid summer months which aggravated her condition. Alternate sources of exercise such as bicycling are not available to Zoë in the hot humid summer periods as they will bring on seizures. Further, there was no hydrotherapy physiotherapy available for children at their community hospitals but only at two downtown Toronto hospitals. During the summer, both Zoë’s physiotherapist and her parents work with her in the pool. Zoë is not welcomed or well-accommodated in a public pool setting. According to her physiotherapist, Zoë’s rehabilitative physiotherapy was greatly assisted by the availability of the pool at home in the summer and is a necessary adjunct to Zoë’s overall physiotherapy program.
+[7] Prior to the amendments to the METC provisions in the Income Tax Act (the “Act”) in 2005, the expenses in a case such as Zoë’s would have qualified. Zoë lacks normal physical development and has a severe and prolonged mobility impairment. The pool enhances her mobility and functioning within the home.
+[8] In 2005 Parliament amended the METC provision in question by adding subparagraphs (i) and (ii) to paragraph 118.2(2)(l.2). These were added in response to decisions of this Court and the Federal Court of Appeal which permitted expenses for hot tubs and hardwood flooring to qualify in appropriate circumstances.
+[9] For purposes of Mr. Barnes’ appeal of his 2005 year, the provision reads:
+(2) Medical expenses – For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+. . .
+(l.2) for reasonable expenses relating to renovations or alterations to a dwelling of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, to enable the patient to gain access to, or to be mobile or functional within, the dwelling, provided that such expenses
+(i) are not of a type that would typically be expected to increase the value of the dwelling, and
+(ii) are of a type that would not normally be incurred by persons who have normal physical development or who do not have a severe and prolonged mobility impairment;
+[10] Subparagraph (i) provides that, in addition to otherwise qualifying for the METC, a home renovation or alteration expense must not be of a type that would typically be expected to increase the value of the home in question. Mr. Barnes and his wife listed their home for sale last year because its two-storey layout became unsuitable as Zoë grew up. It did not sell in the spring of 2008. The evidence from the listing agent is that “although the pool was very well done, it took up all of the back yard and this had a negative effect on the price”. In this case, I am satisfied that the Barnes’ swimming pool when installed was not of a type that would be expected to increase the value of their home. Subparagraph (i) does not disqualify the pool expenses in this case.
+[11] New subparagraph (ii) proves more problematic. While perhaps worded somewhat awkwardly, it requires in essence that qualifying home renovations or alterations be of a type that one would not normally expect a person of normal physical development to have done. While no evidence was led by the Crown on what people with normal physical development normally do, I feel I must take judicial notice that many fully able bodied Canadians put just such pools in their backyards. In my opinion, a conventional backyard swimming pool such as the Barnes’ is not able to satisfy this final requirement.
+[12] It is perhaps unfortunate that, in a case such as Zoë Barnes’, this last restriction applies regardless of the purpose or extent of use of the pool. Mr. Barnes may well be correct in questioning a policy that does not provide relief even though the primary purpose of having the pool installed was Zoë’s needs and even though the pool is primarily used for Zoë’s needs. However, Parliament’s legislated intention could not be more clear. This is evidenced by the Department of Finance’s Explanatory Notes and the Budget papers accompanying the amendments to the legislation in 2005. This is consistent with the decision of Paris J. in Hendricks v. The Queen, 2008 TCC 497, 2008 DTC 4852, dealing with the installation of hardwood floors benefiting a person suffering severe asthma.
+[13] This is not to say that, in an appropriate case, a swimming pool especially designed or altered for a person for therapeutic physiotherapy purposes will be unable to qualify.
+[14] Mr. Barnes’ appeal fails for the single reason that subparagraph (ii) imposes a requirement that his swimming pool does not meet. The bar has been clearly set high by Parliament. The Crown urged me more generally not to permit a swimming pool to qualify for METC because it would open the flood gates for other swimming pool claims. I have paid this no heed whatsoever. To my mind, it is entirely inappropriate in a case involving either the disability tax credit or the METC to have regard to possible consequences beyond the individual adversely affected Canadians themselves.
+[15] The Court regrets that it is unable under the provisions of the Act to afford Mr. Barnes the relief he has asked for. The Court wishes him and Zoë continued success with her treatments and could tell from Mr. Barnes’ evidence and submissions in Court that Zoë’s continued relief and progress is genuinely more important to him than his tax claim.
+[16] The law requires me to dismiss this appeal.
+Signed at Ottawa, Canada, this 1st day of September 2009.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2009 TCC 429
+COURT FILE NO.: 2008-2407(IT)I
+STYLE OF CAUSE: COLIN J. BARNES v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 17, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: September 1, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Rishma Bhimji (student-at-law)
+Elizabeth Chasson
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

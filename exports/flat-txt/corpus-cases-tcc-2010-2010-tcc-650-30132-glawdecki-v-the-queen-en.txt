@@ -1,0 +1,105 @@
+Title: Glawdecki v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30132/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-650-30132-glawdecki-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-12-21
+
+# Glawdecki v. The Queen
+
+- Citation: 2010 TCC 650
+- Decision date: 2010-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7797, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glawdecki v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-21
+Neutral citation
+2010 TCC 650
+File numbers
+2010-497(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-497(IT)I
+BETWEEN:
+MARK GLAWDECKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 26, 2010, at Vancouver, British Columbia.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jonathan Wittig
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made by the Minister of National Revenue under the Income Tax Act for the appellant’s 2005 and 2006 taxation years are dismissed in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 21st day of December 2010.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2010 TCC 650
+Date: 20101221
+Docket: 2010-497(IT)I
+BETWEEN:
+MARK GLAWDECKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] These are appeals from reassessments made by the Minister of National Revenue (Minister) under the Income Tax Act (ITA), whereby, among other things, employment expenses of $9,767 and $19,661 claimed by the appellant for the 2005 and 2006 taxation years respectively were disallowed. The appellant takes issue only with the disallowed portion of the motor vehicle expenses, which portion amounts to $8,780 for 2005 and $18,331 for 2006 (as per Schedules A and B of the Reply to the Notice of Appeal). Also, the appellant no longer disputes the business expense amount disallowed for the 2005 taxation year.
+[2] During the years 2005 and 2006, the appellant was employed as a division manager with Flexible Solutions Ltd. (Flexible), being responsible for all aspects of running the sales division for Flexible’s residential liquid pool blanket product from Flexible’s Richmond, B.C., office. On April 2, 2004, they entered into an employment contract in which the appellant’s remuneration (salary and bonuses) was fixed (Exhibit A-1, Tab A, and R-1, Tab 25). In that contract, it was provided that business expenses incurred personally by the appellant would be reimbursed monthly (including 20 cents per kilometre for the actual distance driven on business in his personal vehicle) upon presentation of proper documentation.
+[3] The appellant testified that eventually the agreement with his employer changed with respect to vehicle expenses. He said that he had difficulty getting reimbursed. He apparently requested from his employer a commission of 1% (US $) of gross sales, which he said was increased to 2% by his employer, and that commission would cover his motor vehicle expenses instead of these being reimbursed in accordance with the above-mentioned contract. He referred to a document signed by him, dated June 26, 2005, which is purportedly a draft of a revised business plan for 2005 and years following (Exhibit A-1, Tab B, last three pages). That document is explained by him in a letter addressed to Peter Leong at the Canada Revenue Agency (CRA), Appeals Division (Exhibit R-1, Tab 35).
+[4] The Provincial Court of British Columbia (Small Claims), in its reasons for judgment with respect to a claim for wrongful dismissal introduced by the appellant against Flexible after being laid off in 2007, confirmed the fact that the terms of the April 2, 2004 agreement regarding the calculation of the bonus were changed and instead of being based on achieving target sales levels the bonus was based on 2% of gross sales (Exhibit A‑1, Tab C, par. 6). The court does not say, however, whether this change was made in order to address the vehicle expense issue, as stated by the appellant before me.
+[5] In any event, Flexible filled in a Declaration of Conditions of Employment (Form T2200) for the appellant for the years 2005 and 2006 (Exhibit R‑1, Tabs 26 and 28). Flexible acknowledged that the appellant was required to pay his own expenses while carrying out the duties of his employment and that he was required to travel in North America. Flexible indicated that the appellant did not receive a motor vehicle allowance but also indicated that he was reimbursed $7,017 in 2005 and $4,546 in 2006 for his travel expenses. The appellant was however required to pay other expenses, such as gas, vehicle maintenance and insurance, and supplies, for which he did not receive any allowance or repayment.
+[6] In filing his tax returns for 2005 and 2006, the appellant claimed motor vehicle expenses in the amounts of $16,856 and $27,959 for those years respectively (see Statement of Employment Expenses for each of those two years, Exhibit R‑1, Tabs 27 and 29). In disallowing the expenses at issue, the minister did not challenge the truthfulness of the T2200s, but was of the opinion that the portion disallowed was personal in nature and not related to the appellant’s employment.
+[7] Ms. Jane Bao, an auditor for the CRA, determined the eligibility of the motor vehicle expenses claimed by the appellant in his tax returns. The appellant drove three cars, including a 1990 Jaguar and a 1992 Jaguar, in those years. He did not provide her with any logbooks nor with any odometer readings taken at the beginning and at the end of each year for any of the three cars. She therefore worked with repair invoices, showing odometer readings in order to determine the total kilometres driven per year. She then used single meal receipts to give her an indication of how many days the appellant went to work at his employer’s place of business. The appellant provided her with a map showing the distance between his residence and his place of work, which was 72 km one way. Ms. Bao then deducted from the total kilometres driven in the year the number of kilometres driven back and forth by the appellant between his home and his employer’s place of business, as these related to vehicle use for personal purposes. She then allocated 15 per cent of the total kilometres as representing other personal driving, such as for grocery shopping, recreational activities, etc., in order to arrive at the employment usage percentage. For 2005, she calculated a percentage of 46.77% as having been for employment purposes. For 2006, the percentage was lower, 35.46%, because she also considered weekend trips across the border to the United States as being personal. The appellant stated that he went there to pick up parts that he had purchased on eBay for his Jaguars.
+[8] After the audit, the appellant provided spreadsheets with reconstructed travel logs (Exhibit R‑1, Tabs 2 and 3) based on the OnTime sheets that he recorded for 2005 and 2006, samples of which are reproduced in Exhibit R‑1, Tab 4. The appellant explained that the reconstructed vehicle logs are estimates that he based on these OnTime sheets and on his knowledge of the distances involved, and that he arrived at using GPS tracking software. He acknowledged that he did not use a GPS device at the time and that he did not create the vehicle logs at the time he travelled the mileage indicated (see Transcript, pages 55-58).
+[9] Ms. Bao analyzed the reconstructed logs and noted that the appellant recorded 65 to 70 per cent of the total kilometres driven in the year as having been for the commute between his home and his place of work. He also indicated in the logs that he went to work every day. The appellant indicated that he drove around 20 kilometres per day to pick up mail, ship samples or do other things for his employer. In his representations and testimony, the appellant stated that he also went to the US on weekends for a combination of purposes relating to his small software business, purposes relating to his employment (“to target a dealer” or pickup mail) and personal purposes. He did not, however, provide any breakdown of vehicle use for those purposes, and he claimed vehicle expenses only against his employment income and none against his business income. In his tax return, he reported only $100 in revenue from his business source (see Transcript, pages 85-86, and Exhibit R‑1, Tab 30). He testified that his primary intention was to develop business for Flexible because he was compensated with extra commission for sales, but admitted that those weekend trips had overlapping purposes (see Transcript, pages 66‑67). In his view, the personal aspect was insignificant.
+[10] Furthermore, the appellant indicated that he would visit his distributors on his way to work on the week days or take packages to a local post office for shipping. He also mentioned that he would have breakfast meetings with staff on his way to work. The appellant did not, however, give any details as to how often he would meet the distributors, whom he met, or what additional distance he drove for that purpose either on his way to work or on his way home, which made it impossible for the auditor to determine which trips were primarily for the purpose of performing his employment duties.
+[11] On considering the whole of the evidence, Ms. Bao decided not to change the percentage of employment usage of the cars calculated by her as the figures provided by the appellant in his reconstructed log were not advantageous to him (the commuting distance shown being much higher than that which she herself had determined).
+[12] In his testimony, the appellant stated that he also travelled to the US on weekends to establish contacts with a couple of key US distributors and small chains in the states of Washington and Oregon. He referred to a master client list filed as Exhibit R‑1, Tab 6. I note that there is only one US client on that list. He also mentioned Ms. Kaith Su, who had previously worked with him at Flexible; she reported that the appellant’s normal work shift was from around 5 a.m.to 2 p.m. and that when the appellant was in the office he would stay for the whole day (see T2020 audit report, p. 5, in Exhibit R‑1, Tab 9). The appellant added in court that he made his sales calls in the afternoon on his way home. He also said that he would visit various companies that supplied Flexible with products needed on a daily basis, or that he would provide brochures or other products for trade shows, or would sometimes deliver products.
+[13] The respondent pointed out that the appellant claimed almost $17,000 in motor vehicle expenses for 2005 and nearly $28,000 for 2006. Of those claims, the minister allowed $8,075 for 2005 and $9,627 for 2006 (see Schedules A and B of the Reply to the Notice of Appeal). The expenses were disallowed for three reasons. First, the appellant did not provide a contemporaneous logbook to support his claims. Second, the expenses disallowed were personal in nature. Third, the appellant did not distinguish between expenses relating to his employment and expenses related to his business ventures.
+[14] As for the first point, the respondent submitted that the reconstructed logs provided by the appellant are vague. They do not give specifics as to where he travelled or the purpose of the trips. As Bowie J. of this Court said in Dore v. The Queen, 2004 TCC 638, at paragraph 20:
+20 Ms. Dore explained that during the years prior to 1998 they had kept mileage logs for these vehicles, and for reasons that seemed to be associated with advice given to them by someone, they discontinued keeping those mileage logs. Some partial logs were kept for about six months of 1998 for the van, and a lesser period for the pickup truck. For reasons that defy logic, the Appellants concluded that on their estimate they used the van 90% of the time for business and the pick-up truck about 10% of the time for business, and that they should therefore claim 100% of the expenses related to the van, and none of the expenses related to the truck as business expenses. This, of course, is not any record of actual use, but simply a guesstimate based on partial information. Business people who use personal vehicles for business need to keep accurate logs of their mileage actually driven, if they expect to be entitled to deduct all the costs of operating those vehicles for business purposes. Estimates made at yearend by subtracting an amount estimated to be the personal use from the annual total mileage driven are only that, estimates. Generally, they tend to be generous to the estimator.
+[Emphasis mine.]
+[15] I agree with the respondent that, in the absence of a logbook created at the time the expenses were incurred, the appellant has an evidentiary hurdle that is not easily overcome. The present case is distinguishable from Juralowicz v. R, 2000 CarswellNat 1648, referred to by the appellant. In that case, the taxpayer had recorded her mileage while in her car travelling from one client’s home to another. Here, the appellant obviously had a personal interest in travelling on weekends to the US. The maintenance of his two Jaguars was certainly a personal interest, and the appellant had to demonstrate in a more convincing manner that his primary intention was to perform work for his employer on weekends. He did not provide details of the clients he visited or the trade shows he attended at his own expense when travelling to the US on weekends. Furthermore, expenses related to his own business ventures obviously cannot be deducted as employment expenses against his commission income pursuant to section 8 of the ITA.
+[16] With respect to commuting to work on a daily basis, the respondent is right in saying that this is personal driving (see Daniels v. The Queen, 2004 FCA 125). I am also satisfied that the appellant regularly reported to his employer’s place of business in Richmond, which makes this case different from that in Veinot v. The Queen, 2010 TCC 112, referred to by the appellant. Moreover, I agree with the respondent that the work-related stops which the appellant said he made on his way home from work or on his way from home to work were not adequately documented. In his own reconstructed logs, the appellant attributed a total of 29,324 kilometres to commuting back and forth between home and work in 2005 (Exhibit R-1, Tab 2), which represents almost 70% of the total distance driven in that year, leaving only 30% for work-related use of his vehicles. The auditor allowed 46.77% in the absence of a logbook. With respect to 2006, the appellant attributed a total of 34,853 kilometres just to commuting, which represents 81% of the total mileage for the year (Exhibit R-1, Tab 3), leaving 19% for work-related use of his vehicles. The auditor allowed 35.46%. Even if the appellant made some work-related stops during his commute, there is no evidence as to how often this happened, and in any case, the Minister has already been very generous in that regard.
+[17] For these reasons, I will dismiss the appeals and confirm the reassessments at issue for the 2005 and 2006 taxation years with respect to the claims for motor vehicle expenses incurred in relation to employment, which were the only matters addressed before me in court.
+Signed at Ottawa, Canada, this 21st day of December 2010.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2010 TCC 650
+COURT FILE NO.: 2010-497(IT)I
+STYLE OF CAUSE: MARK GLAWDECKI v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: October 26, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: December 21, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jonathan Wittig
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

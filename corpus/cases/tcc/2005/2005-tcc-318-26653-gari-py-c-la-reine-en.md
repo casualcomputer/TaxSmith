@@ -1,0 +1,113 @@
+---
+title: "Gariépy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26653/index.do"
+last_modified: "2005-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 318"
+citation2: ""
+neutral_citation: "2005 TCC 318"
+decision_date: "2005-05-10"
+language: "en"
+item_id: "26653"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3595
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:44:07.714000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "40fa93aab032cf16779328086fcbff6d36ceffab8605efa7091bf513cab24f9a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gariépy c. La Reine
+
+- Citation: 2005 TCC 318
+- Decision date: 2005-05-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3595, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gariépy c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-10
+Neutral citation
+2005 TCC 318
+File numbers
+2004-4013(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC318
+Date: 20050510
+Docket: 2004-4013(IT)I
+BETWEEN:
+JEAN GARIÉPY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on January 28, 2005, at
+Montréal, Quebec)
+ParisJ.
+[1] This is an appeal under the informal procedure for the 2002 tax year. The issue is whether the Appellant is entitled to claim a deduction for employment expenses totalling $3,300.
+[2] According to the Appellant, the expenses were travel expenses within the meaning of paragraph 8.1(h) of the Income Tax Act (the "Act"). The majority of the facts in this case are not under dispute. In February 2000, the Appellant was hired by the City of Salaberry-de-Valleyfield as a fire chief for the local fire department. His hours of work were Monday to Friday, 8:00 a.m. to 4:30 p.m., with 24-hour duty shifts one week out of every three.
+[3] During these shifts, the Appellant was required to remain within the Salaberry city limits in order to respond immediately to emergency calls. However, the Appellant and his family lived in another city, Vaudreuil-Dorion, approximately 30-40 kilometres from Salaberry. Rather than move to Salaberry, the Appellant rented a small apartment in Salaberry-de-Valleyfield, where he lived during the weeks he was on duty. He paid $275 per month in rent, totalling $3,300 for the year. He only used the apartment during his duty shifts. He explained to the Court that he decided not to move to Salaberry-de-Valleyfield because at that time, there had been substantial budget cuts to fire services in the region, and he did not want to incur the costs of moving before he was certain that his new job would last.
+[4] It is agreed that the place of business of the Appellant's employer is the fire station located on Havre Boulevard in Salaberry-de-Valleyfield. The Appellant's work responsibilities included managing emergency operations, developing and taking part in the public education program, and conducting residential, commercial, and industrial inspections throughout the city.
+[5] The staffing notice for this position was entered as evidence and indicated that among the conditions of employment, the candidate had to reside within the city limits during the duty shifts and had to work the duty weeks according to the set schedule. Form T2200 Declaration of Conditions of Employment was also entered as evidence, accompanied by a letter signed by Mr. Michel Descostes, who had prepared the form and who was acting on the employer's behalf.
+[6] According to these documents, the employer stated that the Appellant was not required to work away from his employer's place of business, that according to his contract of employment, he was required to cover the costs of performing the duties assigned to him, and that his employer required that he incur housing costs for which he was not reimbursed.
+[7] For the reasons that follow, I find that the Appellant was ordinarily required to work away from his employer's place of business and that the information provided by his employer in this regard was incorrect. Travel expenses paid by an employee are deductible as employment expenses under paragraph 8.1(h) of the Act provided that: (1) the employee was ordinarily required to carry on the duties of the employment away from the employer's place of business, (2) the employee was required under the contract of employment to pay his own travel expenses incurred in the performance of the duties of the employment, and (3) the expenses were incurred in order to travel in the performance of the duties of the employment.
+[8] Paragraph 8.1(h) of the Act provides for other conditions in order to deduct travel expenses, but they are not relevant to the case at hand. In the Appellant's case, it is clear that he met the first condition, that is, that he was ordinarily required to carry on the duties of his employment away from the fire station. It is clear that in the course of his duties, the Appellant regularly left the station to respond to emergency calls, to conduct inspections, and to take part in the fire prevention program. Nevertheless, he did not incur any expenses in this regard because his employer had provided him with a vehicle. In the case at hand, the expenses that the Appellant would like to deduct were incurred during his duty shifts as a result of his employer's requirement that he reside within the city limits during those periods. Given that only expenses incurred to travel in the performance of the duties of the employment can be deducted, the issue is whether, during the entire duty shift, the Appellant was carrying on the duties of his employment.
+[9] The dictionary Le Petit Robert defines the French term "fonction" as an action, activity, service, task, and work; Le Petit Larousse defines the term as a role, professional activity, or employment. In paragraph 8.1(h), Parliament uses the term "duties" to translate the French term "fonction." In this context, "duties" refers to the actions or tasks required for an employment. Therefore, I can conclude that the "duties" of an employment within the meaning of paragraph 8.1(h) refers to all of the tasks, activities, or actions that an employer may require an employee to perform. In my opinion, the evidence shows that the Appellant was required, by his employer, to remain in Salaberry-de-Valleyfield for one week out of every three in order to respond to emergency calls. He was therefore performing the duties of his employment during those periods. The evidence also shows that the Appellant could not stay at the station during his duty week and that his employer did not reimburse the rent he was required to pay.
+[10] Counsel for the Respondent is claiming that under no circumstances can rent be considered a travel expense. In his opinion, the Appellant chose not to move to Salaberry-de-Valleyfield, and the requirement to pay the rent in question stemmed from this personal choice.
+[11] In Tremblay v. The Queen, [1997], F.C.J. 1642, the Federal Court of Appeal allowed that rent could be a travel expense. That particular case involved an RCMP officer from Val-Bélair, Quebec, who was sent to Montréal for nine months to study English and had to pay his own lodging expenses. The Court ruled that his rent was deductible under paragraph 8.1(h) because the officer was ordinarily required to carry on the duties of his employment away from his employer's place of business while assigned to Montréal in 1991 and 1992. It should also be noted that the amounts in question were incurred solely as a result of the work conditions imposed on the Appellant by his employer. He stayed in Salaberry-de-Valleyfield for the benefit of his employer, as required by the employer. This was not a personal choice made by the Appellant.
+[12] I also find that during his duty weeks, the Appellant had to travel from the fire hall to another location within the city and had to find accommodations. For this reason, the rent is considered a travel expense in the same way as though he had to travel from the station to any other location for a week at a time as required by his employer.
+[13] Therefore, for these reasons, the appeal is allowed with costs.
+Signed at Ottawa, Canada, this 10th day of May 2005.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 31st day of October 2005.
+Teresa Hewat, Translator
+CITATION: 2005TCC318
+COURT FILE No.: 2004-4013(IT)I
+STYLE OF CAUSE: JEAN GARÉPY and THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: January 28, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: May 10, 2005
+APPEARANCES:
+For the Appellant:
+Counsel for the Respondent:
+The Appellant himself
+Simon Petit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,354 @@
+---
+title: "Otteson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/73121/index.do"
+last_modified: "2014-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 250"
+citation2: ""
+neutral_citation: "2014 CCI 250"
+decision_date: "2014-08-13"
+language: "fr"
+item_id: "73121"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5204
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:47:25.514000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb3c2dec73fc1fef359528eb20acd2395478525775d72e454d872961212208f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Otteson c. La Reine
+
+- Citation: 2014 CCI 250
+- Decision date: 2014-08-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5204, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Otteson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-08-13
+Référence neutre
+2014 CCI 250
+Numéro de dossier
+2012-438(IT)G, 2012-439(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-438(IT)G
+ENTRE :
+RONALD OTTESON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de Donna Otteson (2012‑439(IT)G), les 26 et 27 mars 2014, à Edmonton (Alberta).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l'appelant :
+Me Sanjaya R. Ranasinghe
+Avocates de l'intimée :
+Me Gergely Hegedus
+Me Donna Tomljanovic
+JUGEMENT
+L'appel des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu relativement aux années d'imposition 2008 et 2009 est accueilli et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Les parties disposent de 30 jours pour parvenir à une entente quant aux dépens, à défaut de quoi chaque partie devra présenter, à l'expiration de ce délai, des observations sur cette question d'une longueur d'au plus cinq pages.
+Signé à Magog (Québec), ce 13e jour d'août 2014.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 26e jour de novembre 2014.
+Yves Bellefeuille, réviseur
+Dossier : 2012-439(IT)G
+ENTRE :
+DONNA OTTESON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de Ronald Otteson (2012‑438(IT)G), les 26 et 27 mars 2014, à Edmonton (Alberta).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l'appelante :
+Me Sanjaya R. Ranasinghe
+Avocates de l'intimée :
+Me Gergely Hegedus
+Me Donna Tomljanovic
+JUGEMENT
+L'appel des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu relativement aux années d'imposition 2008 et 2009 est accueilli et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Les parties disposent de 30 jours pour parvenir à une entente quant aux dépens, à défaut de quoi chaque partie devra présenter, à l'expiration de ce délai, des observations sur cette question d'une longueur d'au plus cinq pages.
+Signé à Magog (Québec), ce 13e jour d'août 2014.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 26e jour de novembre 2014.
+Yves Bellefeuille, réviseur
+Référence : 2014 CCI 250
+Date : 20140813
+Dossiers : 2012-438(IT)G
+2012-439(IT)G
+ENTRE :
+RONALD OTTESON,
+DONNA OTTESON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Vue d'ensemble
+[1] En 2003, Ronald et Donna Otteson (les « appelants ») ont fait l'acquisition de 50,16 acres de terrain (les « terres ») dans le but, notamment, d'y exploiter une entreprise forestière et de produire du foin (la « ferme forestière »).
+[2] Au début de 2007, on a découvert, de manière inopinée, que les terres recelaient d'importantes quantités de gravier. Peu après, sans avoir lancé d'invitations à cet effet, les appelants se sont mis à recevoir des offres d'achat répétées concernant les terres. À l'automne 2008, ils ont vendu les terres à un acheteur avec lequel ils n'avaient aucun lien de dépendance pour la somme de 1 600 000 $.
+[3] Dans les déclarations de revenus qu'ils ont produites à l'égard des années d'imposition 2008 et 2009, les appelants ont chacun demandé la déduction maximale autorisée au titre du gain en capital réalisé et inclus dans leurs revenus pour chacune des deux années en question (l'« exemption pour gains en capital liés à des activités agricoles »). Ils se sont fondés, en cela, sur le fait que les terres tombaient sous le coup de la définition de « bien agricole admissible ». Le ministre du Revenu national (le « ministre ») a procédé à de nouvelles cotisations à l'égard des appelants, leur refusant l'exemption pour gains en capital liés à des activités agricoles, après avoir jugé qu'en raison des circonstances entourant leur propriété et leur utilisation, les terres ne remplissaient pas les conditions donnant droit à cette exemption.
+II. Les faits
+[4] À toutes les époques intéressant les présents appels, les appelants étaient époux et résidaient en Alberta.
+[5] En 1994, M. Otteson a pris sa retraite de l'Aviation canadienne, pour laquelle il avait été pilote tout au long de sa carrière.
+[6] Monsieur Otteson croyait qu'après son décès, sa femme recevrait une rente égale à la moitié de ce qu'il recevait lui‑même à titre de prestations de retraite.
+[7] En 2003, le couple a appris qu'un homme âgé avec qui ils s'étaient liés d'amitié envisageait de vendre les terres en cause ici. Les deux appelants avaient grandi sur une ferme et avaient appris les rouages de l'exploitation agricole. La preuve indique que le couple croyait réussir à exploiter une ferme forestière rentable grâce à ces terres.
+[8] Selon le plan d'affaires qu'ils avaient dressé, les appelants devaient d'abord planter 10 000 arbres. Ils avaient estimé que cela leur permettrait de récolter 1 000 arbres par année à partir de 2010. Selon les prévisions établies, 1 000 arbres rapporteraient des revenus bruts de 200 000 $ annuellement. De nouveaux arbres seraient plantés pour remplacer les arbres récoltés, ce qui assurerait aux appelants des revenus stables à partir de 2008.
+[9] Pour lancer leur ferme forestière, les appelants ont fait conjointement l'acquisition des terres le 30 mai 2003 pour la somme de 100 000 $.
+[10] La preuve indique que, de 2003 à 2008, mises à part les sommes négligeables obtenues de la vente au comptant de foin en bordure de la route et du bail consenti à Kevin Frey sur une partie des terres, les principales sources de revenus des appelants étaient les prestations de retraite versées à M. Otteson par l'Aviation canadienne et les prestations de la Sécurité de la vieillesse et du Régime de pensions du Canada.
+[11] Dans leur témoignage, les appelants ont déclaré avoir travaillé sur les terres de 2003 à 2008. Le travail consistait à débarrasser les terres des déchets qui y avaient été jetés avant leur acquisition par les appelants, à éliminer les arbres morts des boisés d'origine, à planter de jeunes arbres, à semer et à récolter le foin, à acheter et épandre de l'engrais et des herbicides et à arroser les arbres.
+[12] La preuve révèle que les appelants ont acquis et réparé du matériel agricole destiné à l'entreprise forestière. Cet équipement comprenait un tracteur agricole, une planteuse d'arbres, un petit tracteur de jardin, une faucheuse, un râteau andaineur, une chargeuse forestière, des fourches, des groupeurs de balles, des scies à chaîne et de petits engins de chantier. Les appelants ont également réparé et reconstruit les bâtiments agricoles qui se trouvaient déjà sur les terres dans le but d'y entreposer leur matériel.
+[13] Les appelants ont déclaré avoir acquitté toutes les dépenses associées à l'exploitation de l'entreprise agricole et le coût de l'équipement agricole à partir de leurs comptes en banque conjoints.
+[14] Les appelants ont décrit les activités de plantation d'arbres qu'ils avaient exercées de 2003 à 2008. Ils auraient ainsi planté 250 arbres en 2004 et 2 000 en 2005. Pour ce qui concerne les années ultérieures, la preuve ne fait état d'aucun nombre précis. Toutefois, en contre‑interrogatoire, Mme Otteson a déclaré qu'en 2008, 5 000 arbres avaient été plantés sur les terres au total.
+[15] En interrogatoire principal comme en contre‑interrogatoire, les appelants ont déclaré que la ferme forestière occupait la plus grande partie des terres, sauf quelques acres qui étaient loués à M. Frey, un fermier du coin, pour la production de foin. Bien que les deux appelants aient été interrogés au sujet de la superficie des terres ayant servi à la ferme forestière et celle louée à M. Frey, il est apparu évident que M. Otteson avait une meilleure connaissance de la question puisqu'il avait effectué des mesures et qu'il s'était chargé d'établir les modalités du bail conclu avec M. Frey.
+[16] Lors de l'interrogatoire principal, M. Otteson a déclaré que les appelants avaient donné à bail 30, 27, 24,25 et 22,9 acres en 2004, 2005, 2006 et 2007, respectivement. En contre‑interrogatoire, il a indiqué qu'en 2004, sa femme et lui avaient exigé de M. Frey un loyer correspondant à 36 acres, même s'ils avaient en fait convenu de ne louer que 30 acres, parce que M. Frey avait ensemencé au‑delà de la superficie qui lui avait été consentie. Toujours en contre‑interrogatoire, M. Otteson a expliqué qu'il avait établi le montant total du loyer en mesurant les terres et en multipliant le nombre d'acres obtenu par le loyer fixé pour un acre. Selon lui, ce loyer avait été fixé à 50 $ l'acre en 2004, 50 $ en 2006, 55 $ en 2007 et 60 $ en 2008. Il n'a pas précisé le montant du loyer exigé en 2005. Toutefois, il a fait allusion aux sommes versées chaque année (les chèques afférents figurent dans le recueil conjoint des documents[1]). Les chèques indiquent que M. Frey a versé à M. Otteson 1 800 $ en 2004, 1 350 $ en 2005, 1 215 $ en 2006, 1 260 $ en 2007 et 1 350 $ en 2008.
+[17] J'ai trouvé que les deux appelants étaient des témoins fort crédibles. Les réponses qu'ils ont données en contre‑interrogatoire concordaient avec celles obtenues lors de l'interrogatoire principal.
+[18] En ce qui concerne la superficie des terres louées pour chacune des années en cause ici, M. Frey a livré un témoignage différent de celui de M. Otteson. Il s'est dit convaincu d'avoir loué une superficie supérieure à celle indiquée par M. Otteson, car son épandeur était équipé d'un lecteur qui calculait le nombre d'acres ensemencé. Selon M. Otteson, cet écart pouvait s'expliquer par le fait que M. Frey avait répandu des semences dans un champ adjacent qu'il croyait appartenir aux appelants alors qu'il appartenait à un autre propriétaire.
+[19] Avant mars 2009, aucun des appelants n'a déclaré de revenus ou de pertes relativement à leurs activités agricoles. Dans leur témoignage, ils ont déclaré que leur aide‑comptable leur avait dit que les dépenses afférentes à leur entreprise agricole devaient faire l'objet d'un report prospectif et qu'elles ne pourraient être déduites que lorsqu'ils commenceraient à déclarer des revenus agricoles.
+[20] Les appelants ont retenu les services d'un nouveau conseiller comptable. Celui‑ci a recommandé à M. Otteson de produire des demandes de redressement pour les années d'imposition 2003 à 2007 afin de demander les déductions suivantes :
+Année
+Revenu agricole brut LIGNE 168
+Revenu agricole net (perte nette) LIGNE 141
+2003
+néant
+(13 358,14 $)
+2004
+2 094 $
+(19 107,71 $)
+2005
+2 371 $
+(13 621,05 $)
+2006
+3 315 $
+(11 168,69 $)
+2007
+4 265 $
+(8 997,12 $)
+[21] Les appelants soutiennent aujourd'hui que leur comptable les a mal conseillés. Le couple aurait dû déclarer les pertes conjointement puisqu'ils étaient conjointement propriétaires des terres et qu'ils exploitaient l'entreprise agricole en parts égales en vertu d'une société de personnes. C'est pourquoi ils ont présenté au ministre des demandes de redressement modifiées.
+[22] Au cours de 2007, on a effectué une étude géologique aérienne des terres. L'étude a été suivie d'une analyse plus poussée qui a mené à la découverte d'importantes quantités de gravier. Peu de temps après, les appelants ont commencé à recevoir des offres d'achat spontanées et répétées concernant les terres. En fin de compte, ils ont décidé de mettre ces dernières en vente.
+[23] Les appelants ont reçu de nombreuses offres d'achat des terres. Après avoir accepté une offre n'ayant pas abouti à la conclusion de la vente, les appelants en ont finalement accepté une autre, moins avantageuse, en novembre 2008. Suivant les modalités de l'entente intervenue, les appelants ont accepté de financer le solde dû par un prêt hypothécaire de 1 000 000 $ (le « prêt hypothécaire accordé par le vendeur » ou « PHAV »), l'acheteur ayant déjà versé 600 000 $ en argent comptant au moment de la conclusion de la vente.
+[24] À l'égard de l'année d'imposition 2008, les appelants ont déclaré le gain en capital réalisé lors de la disposition des terres tout en appliquant une réserve pour le gain en capital relativement au PHAV. En ce qui concerne les gains inclus dans leurs revenus de 2008, ils ont demandé une partie du montant maximal de l'exemption pour gains en capital liés à des activités agricoles. Étant donné que le PHAV a été remboursé en entier en 2009, les appelants ont inclus le montant intégral de la réserve de l'année précédente dans le calcul de leurs revenus relatifs à l'année d'imposition 2009. Lors de cette même année, ils ont aussi demandé le montant restant de l'exemption pour gains en capital liés à des activités agricoles relativement au gain inclus dans leurs revenus de l'année.
+III. Les thèses des parties
+A. Les arguments des appelants
+[25] La Loi de l'impôt sur le revenu (la « Loi ») impose, à l'égard de l'exemption pour gains en capital liés à des activités agricoles, des critères d'admissibilité différents en fonction du propriétaire des terres agricoles et de l'utilisateur de ces terres dans l'exploitation d'une entreprise agricole. Au cours de la présente instance, les appelants ont adopté des positions contradictoires quant à la question de la propriété des terres. Chacune de ces positions leur pose des difficultés particulières.
+[26] Dans leur avis d'appel initial, les appelants soutenaient que les terres leur appartenaient directement et qu'elles étaient utilisées dans l'exploitation de la ferme forestière par l'entremise d'une société de personnes. Dans l'avis d'appel modifié, les appelants ont revu cet argument, affirmant que la société de personnes était propriétaire des terres et les utilisait dans l'exploitation de sa ferme forestière. Pendant le procès, les appelants ont défendu les deux arguments, à savoir que les terres appartenaient à la société de personnes et à eux. Dans leurs observations écrites, ils semblent avoir arrêté leur choix sur la thèse selon laquelle ils seraient, d'après la preuve produite, les propriétaires des terres.
+[27] En ce qui concerne l'existence d'une société de personnes, les appelants soutiennent qu'ils ont participé activement à l'exploitation d'une entreprise en commun en vue de réaliser un bénéfice. Ils affirment avoir tous deux contribué, sous forme d'habiletés, d'apport de capital et de temps, à une entreprise agricole exploitée par l'intermédiaire d'une société de personnes de fait, et ce, jusqu'au moment de vendre les terres.
+[28] Les appelants soutiennent que la société de personnes a utilisé directement plus de la moitié des terres pour ses activités agricoles au cours de la période pertinente. Ils ajoutent qu'ils projetaient d'utiliser un jour la totalité des terres pour l'exploitation de la ferme forestière. Ils ont donné à bail une partie des terres à M. Frey pour financer leur entreprise et ce dernier, par ses activités, a permis de mieux contenir la dissémination des mauvaises herbes susceptibles de nuire à la croissance des arbres. Les appelants défendent une acception large de la notion d'« utilisation » : selon eux, il faut considérer la partie des terres louée à M. Frey comme ayant été indirectement utilisée par la société de personnes dans l'exploitation de la ferme forestière.
+[29] Se fondant sur les arguments qui précèdent, les appelants soutiennent qu'ils remplissent tous les critères les rendant admissibles à l'exemption pour gains en capital liés à des activités agricoles, et ce, pour les motifs qui suivent :
+(i) ils ont été propriétaires des terres pendant la période de 24 mois précédant leur disposition (la « période de propriété pertinente »), un fait qui est admis par l'intimée;
+(ii) tout au long d'une période de 24 mois pendant laquelle les terres leur appartenaient (la « période d'utilisation pertinente »), plus de 50 % des terres étaient utilisées directement par une société de personnes de fait dont ils étaient les associés à parts égales (tandis que le reste des terres a été indirectement utilisé par la société de personnes tout au long de cette même période);
+(iii) tout au long de la période d'utilisation pertinente, les appelants prenaient part de façon régulière et continue à l'exploitation de la ferme forestière;
+(iv) la totalité, ou presque, de la juste valeur marchande des biens de la société de personnes était attribuable à des biens utilisés dans l'exploitation de la ferme forestière tout au long de la période d'utilisation pertinente, de telle sorte qu'à l'égard de cette période, la participation que les appelants détenaient dans la société de personnes était une « participation dans une société de personnes agricole familiale ».
+B. Les arguments de l'intimée
+[30] L'intimée soutient que les appelants n'ont pas exploité leur entreprise agricole par l'entremise d'une société de personnes, mais qu'ils se sont plutôt engagés dans des activités en tant qu'époux agissant dans l'intérêt commun du couple. L'intimée souligne que l'existence d'une société de personnes de fait n'a été invoquée qu'après que le ministre a contesté le droit des appelants à l'exemption pour gains en capital liés à des activités agricoles et après que les appelants ont retenu les services d'un avocat pour qu'il les représente dans leur appel.
+[31] Par ailleurs, l'intimée note que, lorsque les terres appartiennent à des particuliers et que l'entreprise agricole est exploitée directement par eux, le paragraphe 110.6(1.3) de la Loi exige, notamment, que pendant au moins deux années où les terres leur appartenaient, leur revenu brut provenant de l'entreprise agricole dépasse leur revenu provenant de toutes les autres sources. Or, selon l'intimée, puisque les appelants ont admis qu'ils ne satisfaisaient pas à ce critère, leur appel doit être rejeté pour ce seul motif.
+[32] Toutefois, si je devais conclure que les appelants exerçaient leurs activités agricoles par l'entremise d'une société de personnes, l'intimée fait valoir, à titre subsidiaire, qu'il me faut néanmoins rejeter les appels des appelants du fait que leur participation dans cette société de personnes ne constituait pas une « participation dans une société de personnes agricole familiale » tout au long de la période d'utilisation pertinente. Elle soutient que la participation dans une société de personnes remplit les conditions de la définition de ce terme uniquement si (i) d'une part, tout au long de la période d'utilisation pertinente, plus de 50 % des éléments d'actif ont servi principalement dans une entreprise agricole, (ii) d'autre part, au moment de la vente des terres, la totalité ou presque de la juste valeur marchande des biens de la société de personnes était utilisée dans une entreprise agricole. En ce qui a trait à ces deux critères relatifs aux biens, l'intimée avance qu'il est interdit aux appelants de prétendre que les terres n'ont pas été transférées à la société de personnes parce qu'ils ont allégué le contraire dans leur avis d'appel modifié.
+[33] L'intimée ajoute que les appelants ne peuvent obtenir gain de cause dans les présents appels parce qu'ils n'ont pas pris part de façon régulière et continue aux activités de la société de personnes.
+C. Les questions en litige
+[34] Compte tenu des positions opposées des parties, j'estime qu'il me faut trancher les questions suivantes :
+(i) Est‑il interdit à la Cour de conclure que les appelants sont demeurés en tout temps propriétaires des terres, étant donné que, dans leur avis d'appel modifié, ceux‑ci ont allégué qu'elles appartenaient à la société de personnes?
+(ii) Les appelants ont-ils exploité l'entreprise forestière par l'entremise d'une société de personnes de fait?
+(iii) Si on suppose qu'il existait une société de personnes, les appelants ont-ils tous deux participé de façon régulière et continue aux activités de cette société tout au long de la période d'utilisation pertinente? La participation des appelants dans la société de personnes constituait‑elle une « participation dans une société de personnes agricole familiale » pendant la période d'utilisation pertinente?
+(iv) Si on suppose qu'il existait une société de personnes, quelle est la partie des terres qui correspondait à la définition de « bien agricole admissible » au sens de la Loi?
+IV. Analyse
+A. Question préliminaire : la Cour peut-elle conclure que les terres appartenaient aux appelants et étaient utilisées par la société de personnes?
+[35] Comme je l'ai déjà signalé, les appelants ont modifié leurs arguments et leurs allégations de fait à trois reprises au cours de l'instance. Dans leur avis d'appel, ils ont prétendu être les propriétaires des terres où étaient exercées les activités de l'entreprise forestière. Ils ont ensuite modifié leur avis d'appel pour faire valoir qu'ils avaient transféré les terres à la société de personnes. Enfin, lors de la plaidoirie finale, l'avocat des appelants a repris l'argument voulant que les appelants aient été propriétaires des terres qu'utilisait la société de personnes.
+[36] Signalons que, dans sa réponse modifiée, l'intimée rejette l'opinion selon laquelle les appelants auraient transféré les terres à une société de personnes. À l'inverse des appelants, le ministre a tenu pour acquis [TRADUCTION] qu'« il n'existait pas de société de personnes entre l'appelant et Donna Otteson en ce qui concerne la ferme forestière sur les [terres][2] ». Le ministre a aussi tenu pour acquis que ce sont les appelants qui ont vendu les terres. Se fondant sur ces hypothèses, l'intimée a tenu pour acquis que les appelants avaient vendu les terres directement plutôt qu'en qualité de mandataires s'occupant des biens de la société de personnes.
+[37] Suivant la règle normalement applicable dans les appels en matière fiscale, il incombe au contribuable de « démolir » les hypothèses formulées par le ministre[3]. Les hypothèses factuelles de la Couronne sont considérées comme vraies à moins que le contribuable ne parvienne à les réfuter[4]. Ce principe ne s'applique toutefois pas si les hypothèses de fait avancées relèvent de la connaissance exclusive ou particulière du ministre[5].
+[38] Dans tout appel en matière fiscale, des faits seront invariablement contestés, comme c'est le cas en l'espèce pour ce qui est de savoir qui était propriétaire des terres. Le rôle de la Cour consiste à tirer des conclusions de fait en appliquant les règles régissant la preuve. Considérant l'ensemble de la preuve, je suis convaincu que les appelants n'ont pas transféré les terres à la société de personnes ou, à tout le moins, que les appelants n'ont pas réfuté l'hypothèse du ministre selon laquelle ils étaient propriétaires des terres et qu'ils les ont vendues à titre personnel. Sur le plan de l'équité procédurale, je suis également convaincu que les positions inconciliables qu'ont adoptées les appelants n'ont causé aucun préjudice à l'intimée. Cette dernière a contre‑interrogé les appelants sur ce point en plus d'avoir la possibilité de traiter cette question de manière exhaustive dans ses observations tant orales qu'écrites.
+B. Les appelants ont-ils exploité de façon régulière et continue l'entreprise forestière à titre d'associés d'une société de personnes de fait?
+[39] Comme nous le verrons plus loin dans les présents motifs, les conditions d'admissibilité à l'exemption pour gains en capital liés à des activités agricoles varient en fonction des circonstances entourant la propriété et l'utilisation du bien en cause. Rappelons que, selon l'intimée, ce sont les appelants, agissant comme époux, qui étaient les propriétaires des terres et exploitants de la ferme. À l'inverse, les appelants prétendent qu'ils exploitaient l'entreprise forestière en qualité d'associés de fait.
+[40] Dans la loi de l'Alberta intitulée Partnership Act (Loi sur les sociétés de personnes), la société de personnes (« partnership ») est définie comme étant [TRADUCTION] « la relation qui existe entre des personnes qui exploitent une entreprise en commun en vue de réaliser un bénéfice[6] ». La plupart des provinces de common law ont adopté des définitions semblables.
+[41] La loi albertaine dresse une liste de facteurs susceptibles d'être jugés pertinents lorsqu'il s'agit de décider s'il existe une société de personnes. Au nombre des facteurs qui, à eux seuls, ne permettent pas de conclure à l'existence d'une société de personnes, mentionnons la façon dont les biens sont détenus par les parties, la façon dont les revenus sont répartis entre les parties, la réception de certains paiements et le prêt d'argent :
+[TRADUCTION]
+4. Pour déterminer si une société de personnes existe ou non, il est tenu compte des règles suivantes :
+a) la tenance conjointe ou commune, la propriété conjointe ou commune ou la propriété partiaire ne crée pas, en soi, une société de personnes relativement à toute chose qui fait l'objet de cette forme de propriété, que les tenants ou les propriétaires partagent ou non les bénéfices tirés de son usage;
+b) le partage des recettes brutes n'a pas, en soi, pour effet de créer une société de personnes, que les personnes qui les partagent jouissent ou non d'un droit ou d'un intérêt conjoint ou commun sur l'un quelconque des biens dont proviennent les recettes ou de l'usage duquel elles proviennent;
+c) la réception par une personne d'une quote‑part des bénéfices d'une entreprise constitue la preuve, en l'absence de preuve contraire, qu'elle est un associé dans cette entreprise. Toutefois, la réception d'une telle quote‑part ou d'un tel paiement qui dépend des bénéfices d'une entreprise ou qui varie suivant ces derniers ne fait pas, en soi, de cette personne un associé dans cette entreprise, et en particulier :
+(i) la réception par une personne du paiement d'une créance ou d'une autre somme déterminée, sous forme de versements ou autrement, sur les bénéfices que réalise une entreprise ne fait pas, en soi, de cette personne un associé dans cette entreprise et ne lui impose à ce titre aucune responsabilité;
+(ii) un contrat prévoyant la rémunération d'un employé ou d'un mandataire d'une personne qui exploite une entreprise, par une quote‑part des bénéfices réalisés par cette entreprise ne fait pas, en soi, de cet employé ou de ce représentant un associé dans cette entreprise et ne lui impose à ce titre aucune responsabilité;
+(iii) la personne qui est l'époux survivant, le partenaire interdépendant adulte ou l'enfant d'un associé décédé et qui reçoit sous forme de rente une fraction des bénéfices provenant de l'entreprise dans laquelle la personne décédée était associée, n'est pas, de ce seul fait, un associé dans cette entreprise et n'a à ce titre aucune responsabilité;
+(iv) le fait que des fonds soient avancés sous forme de prêt à une personne qui exploite ou s'apprête à exploiter une entreprise suivant un contrat passé avec cette personne et prévoyant que le prêteur :
+(A) soit touchera un taux d'intérêt variant en fonction des bénéfices,
+(B) soit recevra une quote‑part des bénéfices provenant de l'entreprise,
+ne fait pas, en soi, du prêteur un associé de la ou des personnes qui exploite cette entreprise et ne lui impose à ce titre aucune responsabilité, à condition qu'il s'agisse d'un contrat écrit et signé par toutes les parties au contrat ou pour leur compte;
+(v) la personne qui reçoit, sous forme de rente ou autrement, une fraction des bénéfices d'une entreprise à titre de contrepartie pour la vente par elle de l'achalandage de l'entreprise n'est pas, de ce seul fait, un associé dans cette entreprise et n'a à ce titre aucune responsabilité[7].
+[42] À l'instar des autres lois régissant les sociétés de personnes, la loi albertaine reconnaît l'existence d'un mandat entre associés : [TRADUCTION] « Chaque associé est mandataire de la firme ainsi que de ses coassociés aux fins de l'entreprise de la société de personnes[8] ». En outre, on trouve dans la loi une présomption selon laquelle les biens acquis avec l'argent de la société de personnes appartiennent à cette dernière : [TRADUCTION] « Sauf si une intention contraire apparaît, les biens achetés avec des fonds appartenant à la firme sont réputés avoir été achetés pour le compte de la firme[9] ».
+[43] L'existence d'une société de personnes est tributaire des faits propres à chaque espèce. Parmi les critères appliqués pour déterminer si une telle société existe, mentionnons l'apport des parties à l'entreprise commune sous forme de capital, de biens, de travail, de connaissances, d'habiletés ou d'autres éléments, le partage des profits et pertes, l'existence d'un droit mutuel de direction et de gestion de l'entreprise, la production de déclarations de revenus à titre de société de personnes et les comptes bancaires conjoints[10].
+[44] La jurisprudence portant sur la question de l'existence d'une société de personnes m'incite à penser qu'une méthode d'analyse pragmatique s'impose :
+[...] Pour déterminer si une telle société a été établie dans une affaire donnée, il faut analyser et soupeser les facteurs pertinents eu égard à toutes les circonstances. Le fait que l'existence de la prétendue société de personnes doive être examinée au regard de l'ensemble des circonstances est incompatible avec l'application mécanique d'une liste de contrôle ou d'un critère comportant des paramètres définis de façon plus précise[11].
+[45] L'intimée a cité quelques décisions pour appuyer la thèse selon laquelle les tribunaux devraient se montrer réticents à conclure que des époux sont des associés au sein d'une société de personnes[12]. À mon avis, les décisions portées à mon attention dépendent presque exclusivement des conclusions de fait tirées par le tribunal concerné. Par exemple, dans la décision Succession Sedelnick, la Cour devait examiner une opération intervenue avant l'entrée en vigueur d'une modification légale annulant la règle de common law qui interdisait aux femmes mariées, en Saskatchewan, de contracter un lien juridique les liant ou liant leur mari[13]. Par ailleurs, la Cour a tiré une conclusion défavorable du fait qu'on avait omis de citer comme témoin une personne dont le témoignage aurait pu être utile. La Cour a affirmé que le seul témoin appelé « ne m'a pas favorablement impressionné[14] ». À mon sens, ces décisions confirment le principe fréquemment cité selon lequel les déclarations subjectives faites par les parties pour signifier leur intention d'exploiter une entreprise en commun en vue de réaliser un bénéfice doivent être appuyées par une preuve de leur conduite réelle.
+[46] Il ressort de la preuve objective analysée ci‑dessous et établie par les témoignages non contredits des appelants que les circonstances entourant l'exploitation de la ferme forestière concordent avec leur intention déclarée, qui était d'augmenter leurs revenus de retraite en exploitant ensemble une entreprise forestière en vue de réaliser un bénéfice à titre d'associés d'une société de personnes non documentée. La preuve présentée par les appelants montre également qu'ils se consacraient tous deux pleinement, de façon régulière et continue, à l'exploitation de la ferme forestière, et ce, dans l'intention de réaliser des bénéfices annuels importants quand viendrait le temps de la récolte.
+[47] Ensemble, les appelants ont travaillé activement au développement de la ferme forestière. Il s'agissait d'une entreprise visant le long terme : les appelants comptaient pouvoir commencer à vendre des arbres en 2008. Lors de l'interrogatoire principal et du contre‑interrogatoire, ceux‑ci ont déclaré que jusqu'à la découverte du gravier sur leurs terres, le développement de la ferme forestière se déroulait comme prévu. La découverte de gravier a eu une incidence sur leurs projets concernant la ferme forestière. Toutefois, jusqu'à ce qu'ils vendent les terres, les appelants ont investi temps, argent et efforts dans l'exploitation de la ferme forestière.
+C. Les terres étaient-elles, en totalité ou en partie, un « bien agricole admissible » pour l'application du paragraphe 110.6(2) de la Loi?
+[48] La définition de « bien agricole admissible » qui figure au paragraphe 110.6(1) de la Loi constitue le point de départ pour déterminer si les appelants avaient droit à l'exemption pour gains en capital liés à des activités agricoles. Cette définition est la suivante :
+« bien agricole admissible » Sont des biens agricoles admissibles d'un particulier, sauf une fiducie qui n'est pas une fiducie personnelle, à un moment donné les biens ci-après qui, à ce moment, appartiennent au particulier, à son époux ou conjoint de fait ou à une société de personnes dont une des participations est une participation dans une société de personnes agricole familiale du particulier ou de son époux ou conjoint de fait :
+a) un bien réel ou immeuble qui a été utilisé dans le cadre de l'exploitation d'une entreprise agricole au Canada par l'une des personnes ou sociétés de personnes suivantes :
+(i) le particulier,
+(ii) si le particulier est une fiducie personnelle, un bénéficiaire de celle‑ci qui a le droit de recevoir tout ou partie du revenu ou du capital de la fiducie directement de celle-ci,
+(iii) l'époux ou le conjoint de fait, l'enfant, le père ou la mère d'une personne visée aux sous‑alinéas (i) ou (ii),
+(iv) une société dont une action du capital-actions est une action du capital‑actions d'une société agricole familiale d'un particulier visé à l'un des sous‑alinéas (i) à (iii),
+(v) une société de personnes dont une des participations est une participation dans une société de personnes agricole familiale d'un particulier visé à l'un des sous-alinéas (i) à (iii),
+b) une action du capital‑actions d'une société agricole familiale du particulier ou de son époux ou conjoint de fait;
+c) une participation dans une société de personnes agricole familiale du particulier ou de son époux ou conjoint de fait;
+d) une immobilisation admissible (y compris une immobilisation à laquelle les alinéas 70(5.1)b) ou 73(3.1)f) s'appliquent) utilisée par une personne ou société de personnes visée à l'un des sous‑alinéas a)(i) à (v), ou par une fiducie personnelle auprès de laquelle le particulier a acquis le bien, dans le cadre de l'exploitation d'une entreprise agricole au Canada.
+[Non souligné dans l'original.]
+[49] Cette définition mérite quelques observations. En ce qui a trait au présent appel, je remarque que la définition renvoie à la façon dont le bien immeuble était utilisé. L'utilisation du bien immeuble au moment où il en a été disposé n'est pas pertinente. Par ailleurs, dans des versions antérieures de cette définition, il était plutôt fait mention de l'utilisation principale du bien immeuble. La définition a été modifiée en 2013 avec effet rétroactif à compter de 2006 dans le but d'éliminer le terme « utilisé principalement » et de le remplacer par le terme moins contraignant « utilisé ».
+[50] Le paragraphe 110.6(1.3) de la Loi vient compléter les conditions énoncées dans la définition de « bien agricole admissible » en matière de propriété et d'utilisation. À cet égard, il prévoit ce qui suit :
+110.6(1.3) Pour l'application de la définition de « bien agricole admissible », au paragraphe (1), à un moment donné, le bien qui, à ce moment, appartient à un particulier, à son époux ou conjoint de fait ou à une société de personnes dont une des participations est une participation dans une société de personnes agricole familiale du particulier ou de son époux ou conjoint de fait n'est considéré comme ayant été utilisé dans le cadre de l'exploitation d'une entreprise agricole au Canada que si les conditions suivantes sont réunies :
+a) tout au long de la période d'au moins 24 mois précédant ce moment, le bien ou un bien qui lui est substitué (appelés « bien » au présent alinéa) appartenait à l'une ou plusieurs des personnes ou sociétés de personnes suivantes :
+(i) le particulier ou son époux ou conjoint de fait, son enfant, son père ou sa mère,
+(ii) une société de personnes dont une des participations est une participation dans une société de personnes agricole familiale du particulier ou de son époux ou conjoint de fait,
+(iii) si le particulier est une fiducie personnelle, le particulier auprès duquel la fiducie a acquis le bien ou l'époux ou le conjoint de fait, l'enfant, le père ou la mère de ce particulier,
+(iv) la fiducie personnelle auprès de laquelle le particulier, son enfant, son père ou sa mère a acquis le bien;
+b) si l'alinéa c) ne s'applique pas, l'un ou l'autre des faits suivants se vérifie :
+(i) pendant au moins deux ans où le bien appartenait à une ou plusieurs des personnes visées à l'alinéa a) :
+(A) le revenu brut d'une personne visée à l'alinéa a) (appelée « exploitant » à la présente division) provenant de l'entreprise agricole visée à la division (B) pour la période pendant laquelle le bien appartenait à une personne visée à cet alinéa dépassait le revenu de l'exploitant provenant de toutes les autres sources pour cette période,
+(B) le bien était utilisé principalement dans le cadre d'une entreprise agricole exploitée au Canada et dans laquelle un particulier visé à l'alinéa a) ou, si le particulier est une fiducie personnelle, un bénéficiaire de celle‑ci prenait une part active de façon régulière et continue,
+(ii) tout au long d'une période d'au moins 24 mois pendant que le bien appartenait à une ou plusieurs personnes ou sociétés de personnes visées à l'alinéa a), le bien était utilisé soit par une société visée au sous‑alinéa a)(iv) de la définition de « bien agricole admissible » au paragraphe (1), soit par une société de personnes visée au sous‑alinéa a)(v) de cette définition, dans le cadre d'une entreprise agricole dans laquelle un particulier visé à l'un des sous‑alinéas a)(i) à (iii) de cette même définition prenait une part active de façon régulière et continue;
+c) si le bien ou un bien qui lui est substitué a été acquis la dernière fois par le particulier ou la société de personnes avant le 18 juin 1987 ou après le 17 juin 1987 aux termes d'une convention écrite conclue avant cette date :
+(i) au cours de l'année où le particulier en a disposé, le bien a été utilisé principalement dans le cadre de l'exploitation d'une entreprise agricole au Canada par l'une des personnes ou sociétés de personnes suivantes :
+(A) le particulier ou son époux ou conjoint de fait, son enfant, son père ou sa mère,
+(B) un bénéficiaire visé au sous‑alinéa a)(ii) de la définition de « bien agricole admissible », au paragraphe (1), ou son époux ou conjoint de fait, son enfant, son père ou sa mère,
+(C) une société visée au sous‑alinéa a)(iv) de cette définition,
+(D) une société de personnes visée au sous‑alinéa a)(v) de cette même définition,
+(E) une fiducie personnelle auprès de laquelle le particulier a acquis le bien,
+(ii) pendant au moins cinq ans où il appartenait à une personne visée aux divisions (A) à (E), le bien a été utilisé principalement dans le cadre de l'exploitation d'une entreprise agricole au Canada par l'une des personnes ou sociétés de personnes suivantes :
+(A) le particulier ou son époux ou conjoint de fait, son enfant, son père ou sa mère,
+(B) un bénéficiaire visé au sous‑alinéa a)(ii) de la définition de « bien agricole admissible », au paragraphe (1), ou son époux ou conjoint de fait, son enfant, son père ou sa mère,
+(C) une société visée au sous‑alinéa a)(iv) de cette définition,
+(D) une société de personnes visée au sous‑alinéa a)(v) de cette même définition,
+(E) une fiducie personnelle auprès de laquelle le particulier a acquis le bien[15].
+[Non souligné dans l'original.]
+[51] Comme nous l'avons déjà vu, les parties ne s'entendent pas quant à celles des conditions subsidiaires du paragraphe 110.6(1.3) de la Loi qui doivent être respectées. Les appelants soutiennent que ce sont les conditions énoncées au sous‑alinéa 110.6(1.3)b)(ii). Pour sa part, du fait qu'elle nie l'existence d'une société de personnes, l'intimée fonde son principal argument sur le sous‑alinéa 110.6(1.3)b)(i) qui, dans bien des cas, peut être plus contraignant. Étant donné que les règles de droit régissant les sociétés de personnes et la preuve favorisent la position des appelants, j'examinerai la question de savoir si les conditions du sous‑alinéa 110.6(1.3)b)(ii) qui sont pertinentes dans le présent appel sont remplies.
+[52] Pour les besoins de l'espèce, on peut diviser de la manière suivante les conditions d'admissibilité énoncées au sous‑alinéa 110.3(1.3)b)(ii) :
+(i) Utilisation continue
+Le bien immeuble appartenant aux appelants doit avoir été utilisé (en tout ou en partie) par la société de personnes tout au long de la période d'utilisation pertinente. À la lumière de la preuve dont je dispose, je suis convaincu qu'une partie des terres a réellement été utilisée par la société de personnes de façon continue durant la période d'utilisation pertinente retenue par les appelants.
+(ii) Part active
+Les appelants doivent avoir pris une part active de façon régulière et continue dans l'entreprise forestière exploitée par la société de personnes tout au long de la période d'utilisation pertinente. Comme je l'ai déjà signalé, je suis convaincu que c'était le cas.
+(iii) Conditions touchant la société de personnes
+La participation des appelants dans la société de personnes doit correspondre à une « participation dans une société de personnes agricole familiale » (l'« exploitant d'une société de personnes agricole admissible ») tout au long de la période d'utilisation pertinente.
+[53] Le terme « participation dans une société de personnes agricole familiale » est défini ainsi au paragraphe 110.6(1) :
+« participation dans une société de personnes agricole familiale » Est une participation dans une société de personnes agricole familiale d'un particulier, sauf une fiducie qui n'est pas une fiducie personnelle, à un moment donné la participation dans une société de personnes dont le particulier est propriétaire à ce moment, si les conditions suivantes sont réunies :
+a) tout au long de toute période de 24 mois se terminant avant ce moment, plus de 50 % de la juste valeur marchande des biens de la société de personnes est attribuable aux biens suivants :
+(i) des biens qui ont été utilisés par l'une des personnes ou sociétés de personnes ci-après, principalement dans le cadre de l'exploitation d'une entreprise agricole au Canada dans laquelle le particulier, un bénéficiaire visé à la division (C) ou l'époux ou le conjoint de fait, l'enfant, le père ou la mère du particulier ou d'un tel bénéficiaire prenait une part active de façon régulière et continue :
+(A) la société de personnes,
+(B) le particulier,
+(C) si le particulier est une fiducie personnelle, un bénéficiaire de celle‑ci,
+(D) l'époux ou le conjoint de fait, l'enfant, le père ou la mère du particulier ou d'un bénéficiaire visé à la division (C),
+(E) une société dont une action du capital‑actions est une action du capital‑actions d'une société agricole familiale du particulier, d'un bénéficiaire visé à la division (C) ou de l'époux ou du conjoint de fait, de l'enfant, du père ou de la mère du particulier ou d'un tel bénéficiaire,
+(F) une société de personnes dont une des participations est une participation dans une société de personnes agricole familiale du particulier, d'un bénéficiaire visé à la division (C) ou de l'époux ou du conjoint de fait, de l'enfant, du père ou de la mère du particulier ou d'un tel bénéficiaire,
+(ii) des actions du capital-actions, ou des dettes, d'une ou de plusieurs sociétés dont la totalité ou la presque totalité de la juste valeur marchande des biens était attribuable à des biens visés au sous‑alinéa (iv),
+(iii) des participations dans une ou plusieurs sociétés de personnes, ou des dettes d'une ou de plusieurs sociétés de personnes, dont la totalité ou la presque totalité de la juste valeur marchande des biens était attribuable à des biens visés au sous‑alinéa (iv),
+(iv) des biens visés à l'un des sous‑alinéas (i) à (iii);
+b) à ce moment, la totalité ou la presque totalité de la juste valeur marchande des biens de la société de personnes est attribuable à des biens visés au sous‑alinéa a)(iv).
+[Non souligné dans l'original.]
+[54] S'agissant des conditions du sous‑alinéa 110.6(1.3)b)(ii) qui sont pertinentes en l'espèce, la preuve doit indiquer que la société de personnes a respecté les seuils suivants, par rapport aux éléments d'actif, pendant la période d'utilisation pertinente pour être considérée comme l'exploitante d'une société de personnes agricole admissible :
+(i) plus de 50 % de la juste valeur marchande des biens de la société de personnes était attribuable à des biens principalement utilisés dans le cadre de l'exploitation de l'entreprise forestière au Canada (le « seuil de la majorité »);
+(ii) au moment pertinent, la totalité ou la presque totalité de la juste valeur marchande des biens de la société de personnes était attribuable à des biens utilisés dans l'entreprise forestière (le « seuil de la totalité ou presque totalité »).
+[55] En ce qui concerne la période d'utilisation pertinente retenue par les appelants, nous ne savons pas très bien à quel moment chacun des seuils relatifs à ces éléments d'actif doit être respecté. Selon mon interprétation des dispositions applicables, il semble que l'ajout de la définition de « participation dans une société de personnes agricole familiale » dans la Loi visait principalement à déterminer à quel moment une participation dans une société de personnes constituait elle‑même un « bien agricole admissible ». À cet égard, les deux seuils distincts établis par rapport aux éléments d'actif fonctionnent correctement, car ils s'appliquent à des moments différents qui sont bien définis.
+[56] Dans le cas des présents appels, il est difficile de dire précisément à quel moment chacun des seuils relatifs à ces éléments d'actif doit être respecté. Des deux seuils fixés, le seuil de la majorité est celui qui pose le moins de difficultés. Je suis d'avis qu'il doit être respecté tout au long de la période d'utilisation pertinente. C'est par rapport à cette période que la participation des appelants dans la société de personnes doit constituer une « participation dans une société de personnes agricole familiale ». Quant au seuil de la totalité ou presque totalité, à quel moment doit‑il être respecté? Uniquement à la fin de la période d'utilisation pertinente? Tout au long de cette période? Contrairement à l'intimée, je ne crois pas qu'il s'agisse du moment précédant immédiatement le moment où les appelants ont disposé des terres. Quoi qu'il en soit, je note qu'à cette époque plus tardive, même si l'équipement agricole avait été vendu, il restait toujours des arbres sur les terres.
+[57] Puisque j'estime que le seuil de la totalité ou presque totalité, qui est le plus élevé des deux seuils, a été respecté tout au long de la période d'utilisation pertinente, je n'ai pas à trancher cette question pour statuer sur les présents appels. Selon la preuve produite en l'espèce, au cours de cette période allant du 1er janvier 2006 au 31 décembre 2007, il n'y a pas eu transfert des terres à la société de personnes et les éléments d'actif de la société de personnes étaient constitués d'équipement agricole et d'arbres plantés sur les terres qu'elle utilisait. Par conséquent, au cours de la période d'utilisation pertinente, la participation des appelants dans la société de personnes était bel et bien une « participation dans une société de personnes agricole familiale » au sens de la Loi.
+D. Quelle partie des terres a été utilisée par la société de personnes?
+[58] Encore une fois, puisque les terres appartenaient non pas à la société de personnes, mais aux appelants, ceux‑ci doivent démontrer qu'elles ont été utilisées par la société de personnes tout au long de la période d'utilisation pertinente. La preuve révèle que les appelants ont loué directement une partie des terres (les « terres louées ») à M. Frey. Celui‑ci a utilisé les terres louées pour la culture de foin qu'il récoltait ensuite pour ses propres besoins. Je déduis de la preuve présentée que les appelants ont loué des terres à M. Frey parce qu'ils n'en avaient pas besoin aux fins de l'exploitation de la ferme forestière à l'époque. Ils ont donc eu l'idée d'utiliser les terres louées pour gagner un revenu locatif. S'ils avaient décidé de ne pas vendre les terres et de poursuivre l'expansion de la ferme forestière, les terres louées auraient vraisemblablement pu donner droit à l'exemption à un moment donné. Ce n'est pas ce qui s'est produit. Il faut en conclure qu'une certaine partie des terres correspondant à la superficie la plus importante louée à M. Frey au cours de la période d'utilisation pertinente ne peut être considérée comme un « bien agricole admissible ».
+[59] Dans leurs observations écrites, les appelants et l'intimée soutiennent qu'il faut considérer les terres dans leur ensemble. De l'avis des appelants, si les terres ont été majoritairement utilisées par la société de personnes, elles doivent être considérées dans leur ensemble comme ayant servi aux fins de l'exploitation de la société de personnes. Je ne souscris pas à ce point de vue.
+[60] Souvent, les propriétaires d'exploitations agricoles décrivent leur ferme en faisant référence aux limites de leurs terres. De manière générale, leur ferme sera formée de parcelles de terrain contiguës ou non. Les agriculteurs vivent bien souvent sur leurs terres avec leur famille. Une partie de ces terres peut accueillir la résidence familiale et servir de jardin avant et arrière. Cette partie des terres est utilisée à des fins non pas agricoles, mais personnelles. Si la maison est vendue avec la ferme, le gain qui lui est attribuable pourra être exonéré d'impôts au titre de l'exemption pour résidence principale. Il se peut aussi qu'une autre parcelle de terrain soit utilisée à des fins commerciales, mais non agricoles : le propriétaire pourrait décider d'y exploiter un terrain de camping, par exemple. Le paragraphe 110.6(1.3) de la Loi prend en compte toutes ces possibilités en renvoyant à l'utilisation des biens se poursuivant tout au long de la période d'utilisation pertinente.
+[61] Selon moi, rien dans le texte de la disposition n'interdit de ne tenir compte que d'une partie d'un plus vaste ensemble de terres, car cela reviendrait à privilégier les terrains régulièrement lotis à ceux qui ne le sont pas. Une telle politique inciterait les agriculteurs à lotir leurs terres lorsqu'une partie de celles‑ci correspondant, sur les plans quantitatif et qualitatif, à plus de 50 % de la superficie totale est vouée à des fins non agricoles. Rappelons qu'il n'est pas nécessaire que le propriétaire des terres et l'exploitant agricole soient une seule et même personne. Par contre, dans un tel cas, le paragraphe 110.6(1.3) de la Loi exige qu'il y ait un lien étroit entre les parties. En l'espèce, il faut que le bien immeuble appartenant aux appelants ait été utilisé (en totalité ou en partie) par l'exploitant de la société de personnes agricole admissible tout au long de la période d'utilisation pertinente.
+E. Quelle partie des terres était un « bien agricole admissible »?
+[62] Les parties ne s'entendent pas sur la superficie des terres qui ont été louées à M. Frey pendant la période d'utilisation pertinente retenue par les appelants. Sur ce point, je privilégie le témoignage des appelants. La preuve indique que les appelants travaillaient les terres chaque jour. Ils connaissaient les limites de ces terres mieux que M. Frey, qui y passait beaucoup moins de temps à faire la culture du foin. M. Otteson a expliqué de façon convaincante la divergence entre son témoignage et celui de M. Frey. Selon lui, M. Frey aurait semé du foin sur des terres qui n'appartenaient pas aux appelants. La parcelle en question appartenait au comté de Strathcona. M. Otteson a ajouté qu'en régions rurales, ce genre de méprise était courant, car les propriétaires terriens ne font pas respecter strictement leurs droits de propriété sur les terres dont ils ne font pas usage.
+[63] Comme je l'ai déjà indiqué, les appelants ont choisi de faire correspondre la période d'utilisation pertinente à celle du 1er janvier 2006 au 31 décembre 2007. Dans son témoignage, M. Otteson a indiqué qu'au cours de cette période, soit en 2006 et en 2007, les appelants ont respectivement donné à bail 24,25 et 22,9 acres à M. Frey. Les deux appelants ont déclaré avoir utilisé la superficie restante des terres pour la ferme forestière. Cette superficie comprenait la zone où ils faisaient pousser des arbres et du foin, les bâtiments où était entreposé l'équipement agricole et un petit boisé servant à protéger les bâtiments du vent. Je retiens le témoignage des appelants sur ce point.
+[64] Je retranche du nombre d'acres dont les appelants étaient propriétaires la superficie la plus importante louée à M. Frey au cours de la période d'utilisation pertinente et je conclus que 25,91 acres tombaient sous le coup de la définition de « bien agricole admissible ».
+V. Conclusion
+[65] Pour les motifs énoncés précédemment, je conclus que, sur une superficie de 50,16 acres au total, 25,91 acres constituaient un « bien agricole admissible » au sens de la Loi. Les appelants avaient droit à l'exemption pour gains en capital liés à des activités agricoles relativement au gain en capital attribuable à cette partie des terres. Les 24,25 acres restants, qui ont été loués et utilisés par M. Frey durant la période d'utilisation pertinente, ne constituaient pas un « bien agricole admissible ».
+Signé à Magog (Québec), ce 13e jour d'août 2014.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 26e jour de novembre 2014.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2014 CCI 250
+NOS DES DOSSIERS DE LA COUR :
+2012-438(IT)G
+2012-439(IT)G
+INTITULÉ :
+RONALD OTTESON et DONNA OTTESON c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Les 26 et 27 mars 2014
+MOTIFS DU JUGEMENT :
+L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 13 août 2014
+COMPARUTIONS :
+Avocat des appelants :
+Me Sanjaya R. Ranasinghe
+Avocates de l'intimée :
+Me Gergely Hegedus
+Me Donna Tomljanovic
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Sanjaya R. Ranasinghe
+Cabinet :
+Felesky Flynn LLP
+Edmonton (Alberta)
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Recueil conjoint des documents, à l'onglet 27.
+[2] Réponse modifiée à l'avis d'appel (appel de Ronald Otteson), al. 19s) (la « réponse modifiée »).
+[3] Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, au par. 92.
+[4] Les voitures Orly inc. c. La Reine, 2005 CAF 425, au par. 20; Transocean Offshore Ltd. c. La Reine, 2005 CAF 104, au par. 35.
+[5] Transocean, précité, note 4, au par. 35; Canada c. Anchor Pointe Energy Ltd., 2007 CAF 188, [2008] 1 R.C.F. 839, aux par. 35 et 36; Mignardi c. La Reine, 2013 CCI 67, au par. 41.
+[6] Partnership Act (Alberta), R.S.A. 2000, ch. P‑3, alinéa 1g).
+[7] Ibid., art. 4.
+[8] Ibid., art. 6.
+[9] Ibid., art. 24.
+[10] Continental Bank Leasing Corp. c. Canada, [1998] 2 R.C.S. 298, [1998] A.C.S. no 63 (QL), aux par. 23 et 24 (« Continental Bank »).
+[11] Backman c. Canada, 2001 CSC 10, [2001] 1 R.C.S. 367, au par. 26.
+[12] Succession Sedelnick c. Ministre du Revenu national, 86 D.T.C. 1563, no 80‑1266, 4 juillet 1986 (C.C.I.) (« Succession Sedelnick »); Franklin c. La Reine, [1997] A.C.I. no 730 (QL).
+[13] Succession Sedelnick, à la page 1563.
+[14] Ibid., à la page 1565.
+[15] Dans leurs actes de procédure et leurs observations, les parties renvoient au paragraphe 110.6(1.3) de la Loi, dans sa version modifiée par L.C. 2013, ch. 34, Loi modifiant la Loi de l'impôt sur le revenu, la Loi sur la taxe d'accise, la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces, la Loi sur la taxe sur les produits et services des premières nations et des textes connexes. Or, le texte modifié ne s'applique qu'aux biens dont il est disposé après le 5 novembre 2010. L'opération dont il est question en l'espèce est intervenue en 2008, de sorte qu'elle est régie par la Loi qui était en vigueur à ce moment.

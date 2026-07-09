@@ -1,0 +1,226 @@
+---
+title: "Ho c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29847/index.do"
+last_modified: "2010-06-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 325"
+citation2: ""
+neutral_citation: "2010 CCI 325"
+decision_date: "2010-06-15"
+language: "fr"
+item_id: "29847"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6557
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:53:26.006000+00:00"
+cases_cited_count: 11
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "42c6fa281e6645ef6ba1d58127a54fd8f5f268af03aea5eed0a37bcc2c45333f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ho c. La Reine
+
+- Citation: 2010 CCI 325
+- Decision date: 2010-06-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6557, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ho c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-15
+Référence neutre
+2010 CCI 325
+Numéro de dossier
+2007-4122(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4122(IT)G
+ENTRE :
+CHI-LUEN HO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 19 avril 2010, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me William A. Ruskin
+Avocat de l’intimée :
+Me Robert Carvalho
+____________________________________________________________________
+JUGEMENT
+Pour les motifs qui suivent, je conclus que l’attribution à la fiducie Chi‑Luen, au titre d’un revenu gagné par une société non résidente (Nathan Enterprises Ltd. (« Nathan »)), d’un revenu étranger accumulé, tiré de biens (« REATB ») que le ministre du Revenu national cherche, par effet de la loi, à également attribuer à l’appelant en application du paragraphe 75(2) de la Loi de l’impôt sur le revenu (la « Loi ») parce que la fiducie familiale Ho est devenue bénéficiaire de la fiducie Chi‑Luen, ne constitue pas une opération entre Nathan et l’appelant pour l’application du sous‑alinéa 152(4)b)(iii) de la Loi.
+Signé à Ottawa, Canada, ce 15e jour de juin 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour d’octobre 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010CCI325
+Date : 20100615
+Dossier : 2007-4122(IT)G
+ENTRE :
+CHI-LUEN HO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a présenté une requête en application de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale), lequel est ainsi rédigé :
+58. (1) Une partie peut demander à la Cour,
+a) soit de se prononcer, avant l’audience, sur une question de droit, une question de fait ou une question de droit et de fait soulevée dans une instance si la décision pourrait régler l’instance en totalité ou en partie, abréger substantiellement l’audience ou résulter en une économie substantielle des frais;
+b) soit de radier un acte de procédure au motif qu’il ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel,
+et la Cour peut rendre jugement en conséquence.
+[2] L’appelant a initialement posé la question qui suit :
+[TRADUCTION] Les dispositions de l’alinéa 152(3.1)b) et du sous‑alinéa 152(4)b)(iii) [de la Loi de l’impôt sur le revenu] s’appliquent‑elles pour permettre au ministre d’établir, après l’expiration de la période normale de trois ans, une nouvelle cotisation relative aux avis de nouvelle cotisation datés du 31 janvier 2006 visant les années d’imposition 1999 et 2000 de l’appelant? [3] Les parties ont subséquemment circonscrit cette question de la façon suivante :
+[TRADUCTION]
+L’attribution à la fiducie CL, au titre d’un revenu gagné par une société non résidente (Nathan Enterprises Ltd.), d’un revenu étranger accumulé, tiré de biens (« REATB ») que le ministre cherche, par effet de la loi, à également attribuer à l’appelant en application du paragraphe 75(2) de la Loi de l’impôt sur le revenu (la « Loi ») parce que la fiducie familiale Ho est devenue un bénéficiaire de la fiducie CL, constitue‑t‑elle une opération entre Nathan et l’appelant pour l’application du sous‑alinéa 152(4)b)(iii) de la Loi?
+[4] Les parties ont produit un exposé conjoint des faits et les faits sur lesquels elles s’entendent sont énoncés à l’annexe « A » ci‑jointe. La seule question dont je suis saisi dans le cadre de cette requête se limite à savoir si l’attribution d’un revenu comme il est mentionné plus haut constitue une opération pour l’application du sous‑alinéa 152(4)b)(iii) de la Loi de l’impôt sur le revenu (la « Loi »). En l’espèce, il y a deux attributions consécutives de revenu théorique. Tout d’abord, le REATB gagné par Nathan Enterprises Ltd. (« Nathan ») est réputé constituer un revenu pour la fiducie Chi‑Luen (la « fiducie CL »), puis le ministre du Revenu national tente d’inclure ce revenu réputé de la fiducie CL dans le revenu de l’appelant en application des dispositions du paragraphe 75(2) de la Loi. La question de savoir s’il s’agit d’une opération est soulevée parce que le délai de prescription dans lequel l’appelant peut faire l’objet d’une nouvelle cotisation suivant le sous‑alinéa 152(4)b)(iii) de la Loi se fonde sur l’existence d’une telle opération. Cette disposition est, en partie, rédigée ainsi :
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+[…]
+b) la cotisation est établie avant le jour qui suit de trois ans la fin de la période normale de nouvelle cotisation applicable au contribuable pour l’année et, selon le cas :
+[…]
+(iii) est établie par suite de la conclusion d’une opération entre le contribuable et une personne non résidente avec laquelle il avait un lien de dépendance,
+[5] Si aucune opération n’est intervenue, l’intimée ne peut alors s’appuyer sur les dispositions du sous‑alinéa 152(4)b)(iii) de la Loi pour établir une nouvelle cotisation à l’égard de l’appelant dans les trois ans suivant la fin de la période normale de nouvelle cotisation applicable à ce dernier.
+[6] L’opération alléguée touche l’attribution d’un revenu (à la fiducie CL) en application du paragraphe 91(1) de la Loi et, dans l’hypothèse où les dispositions du paragraphe 75(2) de la Loi s’appliquent, l’attribution subséquente d’un REATB théorique à l’appelant. Les paragraphes 91(1) et 75(2) prévoient notamment ce qui suit :
+91. (1) Dans le calcul du revenu pour une année d’imposition d’un contribuable résidant au Canada, il doit être inclus, relativement à chaque action qui lui appartient dans le capital‑actions d’une société étrangère affiliée contrôlée du contribuable, à titre de revenu tiré de l’action, le pourcentage du revenu étranger accumulé, tiré de biens, de toute société étrangère affiliée contrôlée du contribuable, pour chaque année d’imposition de la société affiliée qui se termine au cours de l’année d’imposition du contribuable, égal au pourcentage de participation de cette action, afférent à la société affiliée et déterminé à la fin de chaque telle année d’imposition de cette dernière.
+[…]
+75. (2) Lorsque, en vertu d’une fiducie créée de quelque façon que ce soit depuis 1934, des biens sont détenus à condition : a) soit que ces derniers ou des biens qui leur sont substitués puissent : (i) ou bien revenir à la personne dont les biens ou les biens qui leur sont substitués ont été reçus directement ou indirectement (appelée « la personne » au présent paragraphe), […] tout revenu ou toute perte résultant des biens ou de biens y substitués, ou tout gain en capital imposable ou toute perte en capital déductible provenant de la disposition des biens ou de biens y substitués, est réputé, durant l’existence de la personne et pendant qu’elle réside au Canada, être un revenu ou une perte, selon le cas, ou un gain en capital imposable ou une perte en capital déductible, selon le cas, de la personne.
+[7] Le sens du terme « opération » a fait l’objet d’autres décisions, tant de la présente cour que de la Cour d’appel. Dans la décision Minister of National Revenue v. Granite Bay Timber Company Limited, [1958] C.T.C. 117, 58 DTC 1066, M. le juge Thurlow de la Cour de l’Échiquier du Canada a examiné la signification de ce terme dans le contexte suivant :
+[TRADUCTION]
+1 […] La question en litige dans le présent appel intéresse le fondement permettant de déterminer le coût en capital, pour l’intimée, de certains biens au titre desquels elle a demandé une déduction pour amortissement en application de l’alinéa 11(1)a) de la Loi de l’impôt sur le revenu (S.C. 1948, ch. 52, modifiée par S.C. 1949, 2e sess., ch. 25, art. 4). Cette disposition prévoit que, dans le calcul de son revenu, le contribuable peut déduire, le cas échéant, la fraction du coût en capital du bien permise par règlement. L’intimée a fondé sa demande relative à cette déduction sur le prix auquel elle a acquis le bien de Samuel Heller, de Paul Heller et de John H. Maier en 1947. Lorsqu’il a établi la cotisation, le ministre s’est toutefois appuyé sur l’hypothèse voulant que le bien en cause ait été acquis par l’intimée dans le cadre d’une opération entre parties ne traitant pas à distance, et il a refusé une partie de la déduction demandée par l’intimée. Il a alors appliqué la disposition particulière prévue au paragraphe 8(3) de S.C. 1949, 2e sess., ch. 25, dont le texte était le suivant :
+(3) Lorsque des biens ont effectivement appartenu à une personne (ci‑après appelée le propriétaire initial) et qu’à la suite d’une ou plusieurs opérations survenues antérieurement à mil neuf cent quarante‑neuf, entre personnes ne traitant pas à distance, ils sont dévolus à un contribuable qui les avait au commencement de l’année d’imposition mil neuf cent quarante‑neuf (ou qui les a acquis pendant son année d’imposition mil neuf cent quarante‑neuf, d’une personne dont l’année d’imposition mil neuf cent quarante‑huit n’était pas expirée au moment de l’acquisition), ce que les biens coûtent en capital au contribuable est, pour l’application du sous‑alinéa (i) de l’alinéa a) du paragraphe premier, censé être le moindre des deux montants suivants : ce que les biens coûtent véritablement en capital au propriétaire ou le montant par lequel
+[…]
+[8] Le juge Thurlow a ainsi exposé l’argument touchant la question de savoir si une ou plusieurs opérations avaient eu lieu :
+[TRADUCTION]
+11 L’avocat de l’intimée a, quant à lui, examiné la question d’un autre angle. Il a fait valoir pendant le débat que le calcul du ministre se fonde sur ce que le bien a coûté à Granite Bay Logging Co. Ltd. et sur le fait que, selon ce calcul, cette société est considérée comme le « propriétaire initial » visé au paragraphe 8(3). Il a ensuite soutenu que le bien qui avait initialement appartenu à Granite Bay Logging Co. Ltd. n’avait pas été dévolu à l’intimée « à la suite d’une ou plusieurs opérations survenues […] entre personnes ne traitant pas à distance » parce que les faits ou le processus par suite desquels le bien de Granite Bay Logging Co., Ltd. a été dévolu à ses actionnaires ne pouvaient être assimilés à une opération au sens du paragraphe 8(3). Selon lui, comme il n’y avait eu aucune série ininterrompue d’opérations entre personnes ne traitant pas à distance, le bien de Granite Bay Logging Co. Ltd. n’avait pas été dévolu à l’intimée. Par conséquent, le paragraphe 8(3) ne s’appliquait pas et la déduction pour amortissement n’avait pas à se fonder sur ce que le bien avait coûté en capital à Granite Bay Logging Co. Ltd. En particulier, il a affirmé qu’au moment de l’adoption de la résolution portant liquidation de Granite Bay Logging Co. Ltd., le bien de cette société avait été dévolu à ses actionnaires par effet de la loi et que ni cette dévolution ni la résolution elle‑même ni le fait que les trois actionnaires aient voté en faveur de celle‑ci ne constituait une opération au sens du paragraphe 8(3).
+[9] Au paragraphe 13, le juge Thurlow a signalé [TRADUCTION] « que le terme “opération” a une large portée et qu’il est utilisé dans une variété de sens ». Il a ensuite examiné les définitions de ce terme données dans le Webster’s New International Dictionary, deuxième édition, et le Shorter Oxford Dictionary, ainsi que dans certaines décisions. Il est arrivé à la conclusion suivante :
+[TRADUCTION]
+20 À mon avis, bien qu’ils illustrent la portée et la polyvalence du mot « opération », ni les ouvrages susmentionnés, ni les décisions invoquées par l’avocat ne permettent d’arrêter le sens dans lequel ce terme est employé au paragraphe 8(3). Selon moi, on ne peut considérer que les votes des actionnaires en l’espèce constituaient des opérations de la nature de celle envisagée au paragraphe 8(3), mais cela ne signifie pas pour autant que la résolution elle‑même, qui découle de ces votes et est devenue un acte de la société, ne constituait pas une opération de ce genre ou n’en faisait pas partie. À mon avis, les « opérations » dont il est question au paragraphe 8(3) ne se restreignent pas aux contrats. Certes, l’article 8 intéresse le « coût » en capital, ce qui donne à penser que les « opérations » visées au paragraphe 8(3) consistent en des opérations s’apparentant à des contrats de vente dans le cadre desquels le contribuable supporte un coût pour acheter un bien. Il ne fait aucun doute que, dans la grande majorité des cas, l’opération sera de cette nature. Cependant, lorsqu’il a employé le terme « opérations » au paragraphe 8(3), le législateur a choisi un mot d’un sens beaucoup plus large que les termes « ventes » ou « contrats » et, sauf dans la mesure où ce sens large est nécessairement restreint par le contexte dans lequel il est utilisé, il n’existe, selon moi, aucune raison valable de ne pas lui donner ses pleines portée et signification. Parmi les divers sens du terme, celui offert par la quatrième définition donnée dans le dictionnaire Oxford, à savoir « le fait de transférer ou de céder une chose d’une personne, d’une chose ou d’un état à un autre » me paraît être le plus proche du sens du terme employé au paragraphe 8(3). Même si le mot se limite, dans son contexte, aux opérations dans le cadre desquelles un bien peut être transféré d’une personne et dévolu à une autre ainsi qu’aux termes utilisés par les parties, je ne pense pas qu’il soit restreint aux ventes de biens ni aux opérations contractuelles conclues entre des parties. Je n’ai pas omis, en adoptant ce point de vue, de prendre en compte le terme « traitant »; j’estime qu’il s’applique aux parties et qu’il vise à les décrire plutôt qu’à qualifier le terme « opérations ». À mon sens, l’expression « une ou plusieurs opérations » figurant au paragraphe 8(3) est suffisamment large pour englober tous les genres de processus ou d’actes volontaires par lesquels le bien d’une personne peut être dévolu à une autre, peu importe la raison ou l’occasion à l’origine de ce processus ou de ces actes et peu importe également si le processus est entrepris ou les actes accomplis en échange d’une contrepartie intégrale ou partielle ou même d’aucune contrepartie quelle qu’elle soit. Elle n’est peut‑être pas assez large pour comprendre un transfert ou une dévolution par suite d’un décès mais, compte tenu de la façon dont elle est employée au paragraphe 8(3), je pense qu’elle est suffisamment large pour englober les transferts volontaires de biens entre des personnes appartenant à la catégorie qualifiée de « personnes ne traitant pas à distance ».
+[Non souligné dans l’original.]
+[10] Le transfert ou la dévolution par suite d’un décès consiste en le transfert d’un bien par effet de la loi lorsque survient un événement précis (le décès du propriétaire). Le bien devient la propriété du nouveau propriétaire en vertu de la loi. Il me semble s’agir d’une situation analogue à l’attribution de revenu. Un revenu est attribué par effet de la loi lorsque les exigences fixées par la Loi sont remplies. Le revenu devient celui d’une autre personne en application des dispositions déterminatives de la Loi. Si le transfert ou la dévolution d’un bien par suite d’un décès ne constitue pas une opération, il devrait alors en être de même pour l’attribution d’un revenu.
+[11] Dans la présente affaire, la Cour doit se prononcer sur le sens du terme « opération » tel qu’il est employé au sous‑alinéa 152(4)b)(iii) de la Loi, laquelle est une disposition différente de celle examinée par le juge Thurlow. Dans la décision Heron Bay Investments Ltd. c. La Reine, 2009 CCI 337, 2009 DTC 1288, M. le juge Hogan devait se demander s’il y avait lieu de donner le même sens à un terme lorsqu’il était employé dans différentes parties d’un même texte législatif. Il a déclaré ce qui suit :
+60 Certaines déclarations de tribunaux dont il a ci-dessus été fait mention se rapportaient à des dispositions de la LIR qui ne s’appliquent pas en l’espèce ou à des dispositions d’autres lois. Toutefois, cela ne rend pas nécessairement inapplicables les conclusions des tribunaux concernant ces dispositions. Il est entendu que les rédacteurs de lois se conforment au principe de l’uniformité d’expression, de façon que chaque terme n’ait qu’un seul sens22. Par conséquent, les mêmes mots figurant dans une loi doivent se voir attribuer le même sens.
+[TRADUCTION]
+[S]elon un principe fondamental d’interprétation des lois, lorsque des termes identiques sont employés dans une loi, il faut leur attribuer le même sens.
+Dans la décision Ainsworth Lumber Co. Ltd. c. Canada23, la cour examinait la question de savoir comment il fallait interpréter les termes employés dans la Loi; elle a adopté le commentaire suivant :
+[D]ans la troisième édition de Driedger on the Construction of Statutes, page 163, […] il est dit ce qui suit :
+On présume que le législateur s’exprime avec soin et d’une manière uniforme, de sorte que, dans une loi ou un autre texte législatif, les mêmes termes ont le même sens.
+[...]
+Dans l’arrêt R. c. Zeolkowski, [1989] 1 R.C.S. 1378, 1387, (1989), 61 D.L.R. (4th) 725, p. 732 (C.S.C.), le juge Sopinka a dit :
+Donner aux mêmes mots le même sens dans l’ensemble d’une loi est un principe de base en matière d’interprétation des lois.
+Dans Driedger, il est dit à la page 475 :
+On présume que, dans l’établissement d’un texte législatif, le législateur est au courant de la jurisprudence existante et qu’il en tient compte en rédigeant les dispositions de ce texte. Lorsque des termes ont été interprétés dans une décision ou une série de décisions comme ayant un sens particulier et qu’ils sont ensuite utilisés dans un texte législatif, l’inférence évidente est que le législateur entendait que ces termes aient la signification ainsi établie24.
+[12] Dans la décision Tolhoek c. La Reine, 2006 CCI 681, 2007 DTC 247, Mme la juge Campbell formule les observations suivantes lorsqu’elle qualifie de présomption la règle voulant que le même terme ait le même sens dans tout le texte législatif :
+30 […] À mon sens, la jurisprudence relative au paragraphe 15(2) invoquée par l’appelant soulève des difficultés. Bien qu’il existe une présomption relative à l’uniformité d’expression – principe fondamental d’interprétation législative exigeant que les mêmes termes aient le même sens dans tout le texte législatif –, le poids accordé à cette présomption varie parce que les termes employés dans un texte législatif peuvent avoir des sens différents selon le contexte dans lequel ils sont utilisés (Barrie Public Utilities c. Association canadienne de télévision par câble, [2001] 4 C.F. 237, 2001 CAF 236). Les réalités de la rédaction législative peuvent influer sur cette présomption.
+[13] En l’espèce, il me paraît peu important de savoir si le fait que le même terme doive avoir le même sens dans tout le texte législatif constitue une règle ou une présomption. En effet, selon moi, lorsque l’on compare le sens du mot « opération » figurant au paragraphe 8(3) de S.C. 1949, 2e sess., ch. 25, (disposition transitoire en matière d’amortissement qui s’appliquait aux fins de la Loi) et celui figurant au sous‑alinéa 152(4)b)(iii) de la Loi (disposition ajoutée à la Loi en 1988), il convient de donner le même sens à ce terme. Ce dernier est utilisé dans les deux dispositions pour expliciter un fait qui entraînerait des conséquences suivant la Loi et il doit donc, me semble‑t‑il, avoir le même sens dans chacune de ces dispositions. Quoi qu’il en soit, M. le juge Thurlow n’a pas offert une définition générale du terme « opération » étant donné qu’il a simplement conclu qu’il était [TRADUCTION] « suffisamment large pour englober tous les genres de processus ou d’actes volontaires par lesquels le bien d’une personne peut être dévolu à une autre […] ».
+[14] Dans l’arrêt The Minister of National Revenue v. Dufresne, [1967] C.T.C. 153, 67 DTC 5105, M. le juge Jackett de la Cour de l’Échiquier du Canada a tenu les propos suivants :
+[TRADUCTION]
+35 En 1960, les enfants ont acquis 75 actions de la société au coût de 7 500 $ dans des circonstances telles que, par suite de l’acquisition, ils détenaient 6/17 (90/255) des actions de la société alors qu’ils avaient auparavant détenu 1/12 (15/180) des actions de celle‑ci. Certes, cette « conséquence » découlait d’au moins une opération – soit le contrat de souscription – dans des circonstances très particulières qui ont permis à chacun des enfants de conclure un contrat de souscription avec la société. Cela étant, je n’ai pas à décider si les autres actes accomplis qui faisaient partie intégrante de l’action requise pour donner naissance à ces [page 138] circonstances particulières constituaient des « opérations » (version française) ou des « transactions » (version anglaise) au sens du texte législatif. À mon avis, c’était le cas parce que les termes « transaction » et « opération » sont utilisés dans leur plus large sens possible pour signifier les actes, quels qu’ils soient, ayant un effet opérationnel au regard d’une entreprise ou d’un bien. Comparer la décision Minister of National Revenue v. Granite Bay Timber Company Limited, [1958] Ex. C.R. 179, le juge Thurlow, aux pages 187 à 191, et la jurisprudence qu’il examine. Cependant, je n’ai pas à trancher cette question pour conclure, comme je le fais, que la « conséquence » susmentionnée découlait d’une « opération ».
+[Non souligné dans l’original.]
+[15] Il ne me semble pas que le fait d’attribuer un revenu simplement parce que certaines conditions sont réunies puisse constituer un acte ayant un effet opérationnel au regard d’une entreprise ou d’un bien. Il ne peut y avoir un « acte » sans qu’une action quelconque soit accomplie[1].
+[16] Dans l’arrêt SMX Shopping Centre Ltd. c. La Reine, 2003 CAF 479, 2004 DTC 6013, [2004] 2 C.T.C. 48, la Cour d’appel fédérale s’est penchée sur le sous‑alinéa 152(4)b)(iii) de la Loi. Rédigeant les motifs de la Cour, Mme la juge Sharlow s’est exprimée en ces termes :
+24 Le deuxième argument n’est pas fondé. Dans le contexte du sous‑alinéa 152(4)b)(iii) de la Loi de l’impôt sur le revenu, le mot « opération » doit être interprété comme comprenant une opération qui, selon le contribuable, constitue le fondement factuel d’une déduction qui est faite dans une déclaration de revenu. Ainsi, si le contribuable affirme avoir droit à une déduction pour des frais particuliers qu’il a engagés, et si le paiement des frais (à supposer qu’ils aient été engagés) met en cause le contribuable et une personne non résidente avec qui le contribuable avait un lien de dépendance, le ministre est légalement autorisé à établir une nouvelle cotisation, pendant la période prorogée de nouvelle cotisation, en vue de refuser la déduction. Ce pouvoir légal ne disparaît pas si le contribuable nie par la suite que les frais ont été engagés ou qu’il omet de prouver qu’ils ont été engagés.
+25 En l’espèce, SMX a déduit un montant de 1 180 542 $, représentant apparemment les frais engagés par SMX dans le cadre de l’exploitation de la coentreprise qui avait échoué. SMX a tenté de prouver qu’Amir Malekyazdi avait fait en sorte que ces frais soient engagés envers Golbanoo pour le compte de SMX, et que Golbanoo avait dépensé et perdu l’argent dans le cadre de l’exploitation de la coentreprise. Ces présumés frais se rapportaient aux opérations sur lesquelles SMX fondait sa déduction, et ils se rapportaient donc également aux opérations qui permettent au ministre de se fonder sur le sous‑alinéa 152(4)b)(iii) pour refuser la déduction en établissant une nouvelle cotisation pendant la période prorogée de nouvelle cotisation.
+[17] Les dépenses alléguées dans cette affaire auraient manifestement constitué des opérations si elles avaient été engagées à titre d’actes ayant un effet opérationnel au regard d’une entreprise ou d’un bien. Ces opérations alléguées constituaient des opérations pour l’application du sous‑alinéa 152(4)b)(iii) de la Loi. Cependant, il me semble que cela signifie simplement qu’une opération alléguée pourrait être une opération pour l’application du sous‑alinéa 152(4)b)(iii) de la Loi, mais que l’opération alléguée, si elle a eu lieu, doit néanmoins être une opération. Cela est pertinent en l’espèce puisque, selon le paragraphe 75(2) de la Loi, la seconde attribution d’un revenu théorique ne se produit que si cette disposition s’applique. La question dont je suis saisi n’intéresse que le point très précis soulevé par les parties. La question de savoir si le paragraphe 75(2) de la Loi s’applique en l’espèce n’est pas en litige. Toutefois, la décision SMX Shopping Centre Limited de la Cour d’appel fédérale permettrait d’affirmer que, si l’attribution d’un revenu en application du paragraphe 75(2) de la Loi constitue une opération, il s’agira alors d’une opération pour l’application du sous‑alinéa 152(4)b)(iii) de la Loi, bien que le point de savoir si le paragraphe 75(2) de la Loi s’applique ne doive être tranché que lorsqu’une audience sera tenue à cette fin. En conséquence, la véritable question dont je suis saisi est la suivante : l’attribution du revenu effectuée en application du paragraphe 75(2) de la Loi, dans l’hypothèse où cette disposition s’applique, constitue‑t‑elle une opération?
+[18] Dans la décision Blackburn Radio Inc. c. La Reine, 2009 CCI 155, 2009 DTC 533, [2009] 4 C.T.C. 2213, Mme la juge V. Miller devait se prononcer sur la signification du terme « opération » pour l’application du sous‑alinéa 152(4)b)(iii) de la Loi.
+34 Au vu de ce qui précède et en recourant à une approche textuelle, contextuelle et téléologique* à l’égard de l’interprétation du mot « opération » qui figure au sous‑alinéa 152(4)b)(iii), je conclus que ce mot n’englobe pas un arrangement. Je suis également d’avis que le mot « opération », au sous‑alinéa 152(4)b)(iii), n’englobe pas une série d’opérations. Si le législateur avait envisagé d’inclure une série d’opérations, il l’aurait mentionné expressément, ainsi qu’il l’a fait dans d’autres dispositions, comme celles qui se rapportent aux opérations d’évitement*.
+35 Il n’y a pas de définition générale du mot « opération » à l’article 248 de la Loi, mais ce terme (en anglais, « transaction ») est défini comme suit dans le dictionnaire Canadian Oxford Dictionary :
+[TRADUCTION]
+1 (a) un élément d’une activité, notamment commerciale; une affaire (une opération rentable)
+(b) Amér. du N. = COMMERCE 4b
+(c) la gestion d’activités commerciales, etc.
+2. (plur.) rapports écrits de discussions, de communications, etc., lors d’une réunion d’une société savante.
+[19] Comme l’a signalé la juge Miller, on a étendu la définition du terme « opération » de manière à englober « les arrangements et les événements » pour la seule application de l’article 247 et du paragraphe 247(11) de la Loi (laquelle disposition porte que l’article 152, entre autres, s’applique à la partie XVI.1 de la Loi), mais sans prévoir l’application correspondante de la définition du terme « opération » (donnée au paragraphe 247(1) de la Loi) au mot « opération » qui figure au sous‑alinéa 152(4)b)(iii) de la Loi. La définition du terme « opération » est également étendue, au paragraphe 245(1) de la Loi, pour englober « les arrangements et les événements », mais uniquement pour l’application de l’article 245 de la Loi.
+[20] Dans la décision Shaw-Almex Industries Limited c. La Reine, 2009 CCI 538, 2009 DTC 2080, Mme la juge Lamarre a renvoyé à la définition du terme « opération » figurant dans le Canadian Oxford Dictionary, laquelle a été citée par la juge Miller dans la décision Blackburn Radio Inc. Dans cette décision, la juge Lamarre tient les propos suivants :
+28 Je ne suis pas entièrement certaine de ce que veut dire l’appelante lorsqu’elle affirme que le fait d’honorer la garantie constituait un événement plutôt qu’une opération. Dans la présente affaire, l’appelante a versé les paiements à la banque Wachovia conformément à l’entente de sursis, dont la société Fusion était la signataire. Certes, la responsabilité de l’appelante n’aurait pas été engagée en l’absence de la garantie qu’elle a donnée à la banque Wachovia. Cependant, la preuve a notamment mis en lumière le fait que l’appelante ne voulait pas que la Banque de Nouvelle‑Écosse participe au remboursement du prêt consenti par la banque Wachovia parce que cela aurait pu nuire à sa capacité future d’emprunt auprès de la Banque de Nouvelle‑Écosse. La preuve a en outre révélé que les opérations et les entreprises de l’appelante et de la société Fusion étaient étroitement liées.
+29 Par conséquent, je conclus que le remboursement du prêt à la banque Wachovia était attribuable à [TRADUCTION] « un élément d’une activité [...] commerciale » ou à [TRADUCTION] « la gestion d’activités commerciales » qui intéressaient à la fois l’appelante et la société Fusion. Le remboursement du prêt constituait donc une opération touchant l’appelante, la société Fusion et la banque Wachovia. La nouvelle cotisation refusant la perte qui, pourrait‑on soutenir, a été subie en raison du remboursement du prêt a donc été établie par suite de la conclusion de l’opération décrite plus haut. En conséquence, le délai dans lequel le ministre pouvait établir une nouvelle cotisation suivant le sous‑alinéa 152(4)b)(iii) de la Loi n’était pas expiré.
+[21] Outre la définition du mot « opération » trouvée dans le Canadian Oxford Dictionary à laquelle renvoient tant la juge Miller que la juge Lamarre, je mentionne la définition suivante tirée du Black’s Law Dictionary (8e édition) :
+[TRADUCTION]
+Opération, n. 1. Fait de poursuivre des activités commerciales ou autres; notamment, la formation ou l’exécution d’un contrat. 2. Chose faite ou accomplie; entente ou échange commercial. 3. Activité intéressant au moins deux personnes.
+[22] La dernière définition proposée dans le Black’s Law Dictionary, soit [TRADUCTION] « activité intéressant au moins deux personnes », est trop large pour être d’une grande utilité pour ce qui est de déterminer le sens du mot « opération » pour l’application du sous‑alinéa 152(4)b)(iii) de la Loi. Dans cette disposition, le terme « opération » est employé dans le contexte du délai de prescription applicable aux nouvelles cotisations établies sous le régime de la Loi. Le paragraphe prévoit expressément l’établissement d’une cotisation, d’une nouvelle cotisation ou d’une cotisation supplémentaire par suite de la conclusion d’une opération. Le terme « opération » ne me paraît donc pas avoir été utilisé au sous‑alinéa 152(4)b)(iii) de la Loi pour désigner n’importe quelle activité intéressant au moins deux personnes, mais bien seules les activités susceptibles de donner lieu à une cotisation, à une nouvelle cotisation ou à une cotisation supplémentaire. En conséquence, j’estime que les deux premières définitions susmentionnées sont davantage pertinentes dans le cadre du sous‑alinéa 152(4)b)(iii) de la Loi.
+[23] Il me semble en outre que, pour l’application du sous‑alinéa 152(4)b)(iii) de la Loi, le terme « opération » ne vise pas l’application de certaines dispositions de la Loi selon lesquelles le revenu d’une personne est réputé être le revenu d’une autre personne. L’attribution du revenu en l’espèce découle de certaines dispositions législatives qui exigent que le REATB soit inclus dans le calcul du revenu de l’actionnaire et selon lesquelles le revenu de certaines fiducies est réputé être le revenu de certains bénéficiaires. Aucune activité commerciale n’est poursuivie par suite de l’application de ces dispositions et il n’y a aucun « acte ayant un effet opérationnel au regard d’une entreprise ou d’un bien ». Le revenu d’une personne est tout simplement réputé être le revenu d’une autre personne. À mon avis, il ne s’agit pas d’une opération.
+[24] Par conséquent, j’estime que l’attribution à la fiducie CL, au titre d’un revenu gagné par une société non résidente (Nathan), d’un REATB que le ministre du Revenu national cherche, par effet de la loi, à également attribuer à l’appelant en application du paragraphe 75(2) de la Loi parce que la fiducie familiale Ho est devenue bénéficiaire de la fiducie Chi‑Luen, ne constitue pas une opération entre Nathan et l’appelant pour l’application du sous‑alinéa 152(4)b)(iii) de la Loi.
+Signé à Ottawa, Canada, ce 15e jour de juin 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 26e jour d’octobre 2010.
+Mario Lagacé, jurilinguiste
+Annexe « A »
+[TRADUCTION]
+Exposé conjoint des faits
+1. Avant que l’appelant n’émigre au Canada le 24 septembre 1988, on a établi la fiducie Chi‑Luen (la « fiducie CL ») dans le cadre de laquelle l’appelant a transféré des biens, dont 568 733 actions de la banque Hang Seng, au fiduciaire, Irving Trust Company (Cayman) Limited, conformément à une convention de fiducie intervenue le 1er septembre 1988. 2. Depuis le 24 septembre 1988, l’appelant a toujours été résident du Canada. 3. Les bénéficiaires de la fiducie CL étaient l’épouse de l’appelant, Ho Lau Bak Har, la postérité de l’appelant et Lillian Lai Yin Ho Lu. 4. À tous les moments pertinents, la fiducie CL ne comptait qu’un seul fiduciaire constitué en société, lequel n’était pas résident du Canada. 5. Vers le 24 septembre 1988, Nathan Enterprises Ltd. (« Nathan ») a été constituée en société aux îles Caïmans. À tous les moments pertinents, Nathan était une société non résidente du Canada; 6. Au plus tard le 28 décembre 1992, la fiducie CL a acheté la totalité des actions de Nathan. 7. Le 28 décembre 1992, la fiducie CL a avancé à Nathan, au moyen d’un prêt, des actions de la banque Hang Seng d’une valeur de 9 089 838 $US. 8. À partir de son année d’imposition 1993, la fiducie CL a produit auprès de l’Agence du revenu du Canada (l’« Agence ») des déclarations de revenus faisant état de son revenu de toutes provenances. 9. Lorsqu’elle a déclaré son revenu pour son année d’imposition 1993 et ses années d’imposition subséquentes, la fiducie CL a inclus le revenu gagné par sa société étrangère affiliée contrôlée, Nathan. 10. L’exercice de Nathan se terminait le 31 janvier. 11. En 1999, le fiduciaire de la fiducie CL a exercé le pouvoir que lui conférait la convention de fiducie relative à CL d’ajouter deux autres bénéficiaires, à savoir la fiducie familiale Ho (la « fiducie Ho ») et la fiducie Pine. 12. La fiducie Ho a été établie par l’appelant en 1999 et elle est résidente du Canada depuis sa création. 13. Les bénéficiaires de la fiducie Ho étaient l’appelant, l’épouse de l’appelant (Ho Lau Bak Har) et les enfants de l’appelant (Todd, Daniel et Vivian); 14. Le fiduciaire de la fiducie Ho était la Société Trust Royal du Canada; 15. Le 3 décembre 1998, Mme Lam Fung Kit, non‑résidente du Canada, a établi la fiducie Pine; 16. Les bénéficiaires de la fiducie Pine étaient deux des enfants de l’appelant (Todd et Vivian) ainsi que leurs descendants non‑résidents; 17. Le fiduciaire de la fiducie Pine était la Royal Bank of Canada Trust Company (Cayman) Limited, non‑résidente du Canada; 18. Au cours de l’année civile 1999 et de son exercice 2000, Nathan a transféré des éléments d’actif totalisant 20 026 783 $US à la fiducie CL de la manière suivante : a) 8 100 000 $US (12 069 000 $CAN) au moyen d’un dividende versé à la fiducie CL; b) 11 926 783 $US sous forme d’un prêt de Nathan à la fiducie CL. 19. La fiducie CL a transféré une somme totale de 13 529 839 $US à la fiducie Pine de la façon suivante : a) au cours de l’année 1999 : (i) 2 791 374 $US (4 159 148 $CAN) au moyen d’une distribution de revenus par la fiducie CL; (ii) 10 738 465 $US au moyen d’un prêt; b) la distribution de revenus et le prêt à la fiducie Pine mentionnés ci‑dessus ont été effectués au moyen d’un paiement de 100 000 $US en espèces et du transfert de 527 328 actions de HSBC Holdings évaluées à 13 429 839 $US; c) au cours de l’année 2000, la fiducie CL a augmenté de 5 160 $US le prêt consenti à la fiducie Pine pour une somme totale de 10 743 625 $US et elle a effectué les distributions suivantes en règlement du prêt : (i) une distribution de revenus de 9 637 589 $US en sa faveur; (ii) une distribution prélevée sur les capitaux propres s’élevant à 1 086 536 $US; (iii) une somme de 19 500 $US en acquittement des obligations de la fiducie CL. 20. La fiducie CL a transféré le reste de ses éléments d’actif, soit la somme de 7 077 797 $US, à la fiducie Ho au moyen d’une distribution prélevée sur les capitaux propres. 21. Au cours des années d’imposition 1999 et 2000, la fiducie CL a gagné et déclaré les sommes suivantes à titre de revenu étranger accumulé, tiré de biens :
+1999
+2000
+Revenu étranger accumulé, tiré de biens
+4 159 148 $
+8 006 505 $
+Gains en capital imposables
+Aucuns
+6 298 496 $
+4 159 148 $
+14 307 001 $[2]
+22. Au cours de 1999 et de 2000, l’ensemble du REATB gagné par la fiducie CL a été distribué à la fiducie Pine; aucune somme n’a été transférée à la fiducie Ho. 23. La fiducie CL a été dissoute au cours de l’année d’imposition 2000, après la distribution du reste de ses éléments d’actif à la fiducie Ho. 24. La fiducie Pine a été dissoute avant 2005. 25. Le 1er juin 2000 et le 29 mai 2001, le ministre du Revenu national (le « ministre ») a établi une cotisation initiale à l’égard des années d’imposition 1999 et 2000 de l’appelant, et il a établi des avis en conséquence à ces dates. 26. Par des avis de nouvelle cotisation datés du 31 janvier 2006, le ministre a établi une nouvelle cotisation relative aux années d’imposition 1999 et 2000 de l’appelant afin d’inclure dans le revenu de ce dernier les sommes suivantes au titre de la somme que la fiducie CL a remise à la fiducie Pine au cours années 1999 et 2000 à titre de distributions de revenus, à savoir :
+1999
+2000
+Revenu étranger accumulé, tiré de biens
+4 159 148 $
+8 006 505 $
+Gains en capital imposables
+Aucuns
+6 298 496 $
+4 159 148 $
+14 307 001 $
+RÉFÉRENCE : 2010CCI325
+NO DU DOSSIER DE LA COUR : 2007-4122(IT)G
+INTITULÉ : Chi-Luen Ho et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 19 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 15 juin 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me William A. Ruskin
+Avocat de l’intimée :
+Me Robert Carvalho
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me William A. Ruskin
+Cabinet : Clark Wilson
+Vancouver (Colombie-Britannique)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le Canadian Oxford Dictionary, 2e édition, définit le terme « act » (acte) comme [TRADUCTION] « chose accomplie; un geste; une action ».
+[2] Les sommes figurant dans ce tableau et dans le tableau présenté au paragraphe 26 (y compris les totaux) sont les mêmes que celles mentionnées dans la réponse. Cependant, le total de 8 006 505 $ et de 6 298 496 $ s’élève à 14 305 001 $ et non à 14 307 001 $.

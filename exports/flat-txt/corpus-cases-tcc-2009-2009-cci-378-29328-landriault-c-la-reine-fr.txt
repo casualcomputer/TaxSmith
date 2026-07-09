@@ -1,0 +1,130 @@
+Title: Landriault c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29328/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-378-29328-landriault-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-07-28
+
+# Landriault c. La Reine
+
+- Citation: 2009 CCI 378
+- Decision date: 2009-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7067, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landriault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-28
+Référence neutre
+2009 CCI 378
+Numéro de dossier
+2008-3080(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2008-3080(IT)I
+2008-3081(IT)I
+ENTRE :
+RHÉAL LANDRIAULT
+et
+CAROLE L. BERCIER
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune le 22 juin 2009, à Ottawa (Canada)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour les appelants :
+L’appelante elle-même
+Avocate de l'intimée :
+Me Marie-Ève Aubry
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des cotisations datées du 1er mars 2007, en vertu de la Loi de l’impôt sur le revenu, pour les années d’imposition 2003 et 2004 sont rejetés sans frais, selon les motifs du jugement ci‑joints.
+Signé à Montréal (Québec), ce 28e jour de juillet 2009.
+« Réal Favreau »
+Juge Favreau
+Référence : 2009 CCI 378
+Date : 20090728
+Dossiers : 2008-3080(IT)I
+2008-3081(IT)I
+ENTRE :
+RHÉAL LANDRIAULT
+et
+CAROLE L. BERCIER
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’appels entendus sur preuve commune
+[2] Les appelants interjettent appel à l’encontre des cotisations établies en date du 1er mars 2007 en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, C.1 (5e Suppl.) telle que modifiée (la « Loi ») par lesquelles le ministre du Revenu national (le « ministre ») a refusé les pertes locatives nettes aux montants de 7 523 $ et 4 836 $ pour les années d’imposition 2003 et 2004,
+[3] Les appelants ont acquis en 2001 l’immeuble résidentiel de deux logements, sis au 299, rue Olmstead à Ottawa. Les appelants sont co-propriétaires à parts égales dudit immeuble. Les appelants occupent le logement du bas alors que le logement du haut est loué au fils de madame Carole Bercier, Nicholas Bercier (« Nicholas »). Le logement du haut comprend deux chambres à coucher, une cuisine, une salle de bain ainsi qu’une salle commune.
+[4] Lorsque les appelants ont acquis l’immeuble, les deux chambres du logement du haut étaient louées à deux locataires au prix de 325 $ par mois chacune. Ces derniers ont quitté le logement en mai 2002 et Nicholas a, alors, emménagé dans le logement du haut. Nicholas a occupé seul le logement jusqu’au moment où son frère est venu le rejoindre à une date non précisée (présumément postérieure à 2004).
+[5] Nicholas payait 300 $ par mois pour habiter le logement en 2003 et 450 $ par mois en 2004. Le loger payé par Nicholas couvrait les coûts de l’électricité, de l’eau, du chauffage, du téléphone ainsi que le cable satellite. Pour 2003, les revenus bruts de location ont été de 3 600 $ alors que les dépenses réclamées par les appelants ont été de 11 124 $ (soit 927 $ par mois). Pour 2004, les revenus bruts de location ont été de 5 400 $ alors que les dépenses réclamées ont été de 10 236 $ (soit 853 $ par mois).
+[6] Depuis qu’ils ont acquis l’immeuble, les appelants ont déclaré les pertes de location suivantes :
+2001
+3 022 $
+2002
+2 754 $
+2003
+7 524 $
+2004
+4 836 $
+[7] Les appelants prétendent que leur intention première a toujours été de faire de cette maison à revenu une entreprise profitable. Ils ont déclaré avoir tenté de louer la deuxième chambre du logement du haut à un ami, mais sans succès. Les appelants ont reconnu avoir loué jusqu’en septembre 2003 la chambre à Nicholas à un taux inférieur au prix du marché, mais ils prétendent qu’il s’agissait d’un arrangement temporaire jusqu’à ce que Nicholas puisse bénéficier d’un programme d’aide de la province d’Ontario (le « Ontario Disability Support Program »); c’est à partir du moment où Nicholas est devenu admissible audit programme d’aide que les appelants ont augmenté le loyer à 450 $ par mois, en octobre 2003. Le loyer a été établi à 450 $ par mois après consultation avec les services sociaux en 2002. Un loyer au deuxième étage du genre de celui des appelants donnait droit au bénéficiaire à une prestation de loyer de 450 $ par mois. Madame Bercier a, de plus expliqué lors de l’audience, que sans ce logement elle aurait perdu son fils.
+[8] Les appelants ont de l’expérience en affaires puisque madame Bercier occupe un poste dans l’administration à la Gendarmerie Royale du Canada depuis neuf ans et que monsieur Landriault a eu sa propre entreprise dans le domaine de la construction (fondations) pendant dix-sept ans.
+[9] La question en litige consiste à déterminer si les dépenses locatives réclamées pour les appelants ont été engagées ou encourues en vue de tirer un revenu d’une entreprise ou d’un bien ou s’il s’agit plutôt de frais personnels ou de subsistance aux fins de la Loi.
+[10] Les dispositions législatives pertinentes sont les alinéas 18(1) a) et h) et l’alinéa a) de la définition de « frais personnels ou de subsistance » au paragraphe 248(1) de la Loi. Ces dispositions se lisent comme suit :
+Exceptions d’ordre général
+18. (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+Restriction générale
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+Frais personnels ou de subsistance
+h) le montant des frais personnels ou de subsistance du contribuable ─ à l’exception des frais de déplacement engagés par celui‑ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+Définitions
+248. (1) Les définitions qui suivent s’appliquent la présente loi.
+Frais personnels ou de subsistance
+« frais personnels ou de subsistance » Sont compris parmi les frais personnels ou de subsistance :
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l’usage ou l’avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l’union de fait ou de l’adoption, et non entretenus dans le but ou avec l’espoir raisonnable de tirer un profit de l’exploitation d’une entreprise;
+[11] Les appelants ont mis beaucoup d’emphase sur le fait qu’ils avaient l’intention de tirer un profit de la location du logement du haut. Le seul élément de preuve étayant cette intention a été l’augmentation du loyer lorsque Nicholas est devenu admissible aux prestations d’aide.
+[12] La Cour suprême du Canada a clairement indiqué dans l’arrêt Stewart c. La Reine, 2002 D.T.C. 6983, que l’intention subjective de réaliser un profit devait être accompagnée de facteurs objectifs de comportement d’homme d’affaires sérieux. Voici comment la Cour s’est exprimée à ce sujet aux paragraphes 54 et 55 :
+54. Il y a également lieu de souligner que la détermination de l’existence d’une source de revenu n’est pas un processus purement subjectif. Outre le fait que, pour qu’une activité soit qualifiée de commerciale par nature, le contribuable doit avoir l’intention subjective de réaliser un profit, il faut aussi, tel que mentionné dans l’arrêt Moldowan, que cette détermination se fasse en fonction de divers facteurs objectifs. Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a-t-il l’intention d’exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+55. Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l’état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s’engager, et (4) la capacité de l’entreprise de réaliser un profit. [. . .]
+[13] Dans le cas présent, la prépondérance de la preuve est clairement à l’effet que les appelants n’avaient pas l’intention réelle de tirer un profit de la location du logement à Nicholas. Comme dans l’arrêt Rapuano c. La Reine, 2009 TCC 150, l’entente avec Nicholas était essentiellement un arrangement familial en vertu duquel un loyer minime était payé pour aider à défrayer une partie des coûts d’opérations de l’immeuble.
+[14] Les activités de location n’ont pas été exercées sur une base commerciale et ne peuvent donc constituer une source de revenu aux fins de la Loi. Le loyer payé par Nicholas en 2003 était de l’aveu même des appelants inférieur à la juste valeur marchande des loyers payables dans le secteur pour un logement semblable. Même le loyer payé par Nicholas en 2004, suite à l’augmentation de loyer, est nettement insuffisant pour atteindre la capacité de réaliser un profit.
+[15] Compte tenu de ce qui précède, les dépenses locatives réclamées par les appelants sont des frais personnels ou de subsistance aux fins de la Loi.
+[16] Les appels sont rejetés sans frais.
+Signé à Montréal (Québec), ce 28e jour de juillet 2009.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2009 CCI 378
+Nºs DES DOSSIERS DE LA COUR : 2008-3080(IT)I et 2008-3081(IT)I
+INTITULÉS DES CAUSES : RHÉAL LANDRIAULT ET CAROLE L. BERCIER
+ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Canada)
+DATE DE L’AUDIENCE : le 22 juin 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 28 juillet 2009
+COMPARUTIONS :
+Pour les appelants :
+L’appelante elle-même
+Avocate de l'intimée :
+Me Marie-Ève Aubry
+AVOCAT(E) INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

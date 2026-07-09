@@ -1,0 +1,135 @@
+Title: Cuffaro c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28160/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-821-28160-cuffaro-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-11-26
+
+# Cuffaro c. M.R.N.
+
+- Citation: 2003 CCI 821
+- Decision date: 2003-11-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2006, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cuffaro c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-26
+Référence neutre
+2003 CCI 821
+Numéro de dossier
+2003-1572(EI)
+Juges et Officiers taxateurs
+William E. MacLatchy
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-1572(EI)
+ENTRE :
+GRACE CUFFARO,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LUCY FONICIELLO, FRANK CUFFARO ET RINO NIGRO
+s/n EYES BY DESIGN & DESIGNER ACCESSORIES,
+intervenants.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Grace Cuffaro (2003‑1573(CPP)) le 16 septembre 2003 à St. Catharines (Ontario)
+Devant : l’honorable W.E. MacLatchy, juge suppléant
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me A’Amer Ather
+Représentant des intervenants :
+M. Rino Nigro
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 26e jour de novembre 2003.
+« W.E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 18e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2003CCI821
+Date : 20031126
+Dossier : 2003-1572(EI)
+ENTRE :
+GRACE CUFFARO,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LUCY FONICIELLO, FRANK CUFFARO ET RINO NIGRO
+s/n EYES BY DESIGN & DESIGNER ACCESSORIES,
+intervenants.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant MacLatchy
+[1] Ces appels ont été entendus sur preuve commune à St. Catharines, en Ontario, le 16 septembre 2003.
+[2] L’appelante avait fait appel d’une décision devant le ministre du Revenu national (le « ministre ») pour qu’il décide si elle exerçait un emploi assurable et un emploi ouvrant droit à pension quand elle travaillait pour Lucy Foniciello, Frank Cuffaro, Grace Cuffaro et Rino Nigro, associés s/n Eyes By Design & Designer Accessories, le « payeur », durant la période en cause, soit du 9 juin au 14 septembre 2002, au sens respectivement de la Loi sur l’assurance emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime »).
+[3] Par lettre du 24 janvier 2003, le ministre a informé l’appelante et le payeur avoir jugé que l’appelante n’exerçait pas un emploi assurable ni un emploi ouvrant droit à pension durant la période en cause, puisqu’elle était l’une des associées de l’entreprise et qu’aucun contrat de louage de services n’existait entre les parties, conformément à l’alinéa 5(1)a) de la Loi et à l’alinéa 6(1)a) du Régime, respectivement.
+[4] Certains faits pertinents ont été reconnus par l’ensemble des parties, à savoir :
+a) le payeur exploitait une entreprise de vente au détail à Niagara Falls (Ontario) qui appartenait à parts égales à quatre associés qui l’exploitaient : l’appelante, Frank Cuffaro (l’époux de l’appelante), Rino Nigro (le beau‑frère de l’appelante) et Lucy Foniciello;
+b) l’entreprise du payeur était de nature saisonnière;
+c) les quatre associés avaient signé une lettre, en date du 20 février 2002, énonçant que Rino Nigro prendrait le contrôle du magasin et en transférerait le titre à une société à numéro dont il était propriétaire. Rino Nigro devait assumer l’ensemble de l’actif et du passif et libérer Grace et Frank Cuffaro de toutes responsabilités [TRADUCTION] « à condition que je puisse payer toutes les factures » [non souligné dans l’original]; cette prise de contrôle par Rino Nigro devait avoir lieu en mars 2002, à l’ouverture du magasin. La lettre disait aussi que Grace pourrait travailler comme employée de la société à numéro que possédait Rino Nigro. Rino Nigro devait renouveler le bail pour 10 ans au nom de la société à numéro en janvier 2003. C’est l’interprétation de cette lettre qui est en cause en l’espèce.
+[5] Les autres hypothèses de fait énoncées au paragraphe 4 de la réponse à l’avis d’appel ont été contestées de la façon suivante :
+e) et f) l’appelante continuait à avoir le pouvoir de signature sur le compte bancaire du payeur, durant la période en cause. L’appelante a déclaré être une employée de confiance du payeur et avoir le pouvoir d’exercer des opérations bancaires, notamment le pouvoir de signer des chèques pour le payeur. Le ministre a déclaré que cela n’était pas normal pour une employée.
+h) et i) La marge de crédit du payeur était garantie par un privilège sur la résidence de l’appelante et de son époux, privilège qui ne pouvait être levé tant que le crédit n’aurait pas été entièrement remboursé. Le ministre a déclaré que ce n’était pas là l’indication d’une relation employeur‑employée.
+[6] L’appelante et Rino Nigro, à titre d’intervenant, ont témoigné. Tant l’appelante que Rino Nigro ont convenu que l’entreprise avait des difficultés financières et que l’appelante ne souhaitait plus avoir de responsabilités dans l’entreprise. Ils ont témoigné de façon directe et honnête, croyant à tort qu’ils avaient réglé la question de la limitation de responsabilité de l’appelante et de son époux avec la lettre du 20 février 2002. Or, l’entreprise n’a été transférée officiellement qu’en janvier 2003. Jusqu’à cette date, l’appelante et son époux sont restés responsables des dettes du payeur et notamment du loyer, des services publics, des retenues à la source et des remises de TPS, même s’ils pensaient ne pas l’être. Un créancier du payeur aurait pu se retourner contre eux à tout moment en 2002, y compris durant la période en cause. Cela renforce encore l’hypothèse du ministre selon laquelle aucun employé n’aurait couru ce risque.
+[7] L’appelante a tenté d’expliquer cette erreur en déclarant qu’elle n’avait pas eu assez de temps pour faire publier l’avis de changement de propriété. L’appelante avait entièrement confiance en Rino Nigro et a déclaré qu’il avait toujours payé toutes ses factures et qu’il l’aurait fait également durant la période intérimaire. Pour la Cour, cela semble assez naïf et peu réaliste de la part de l’appelante si elle pensait n’être qu’une employée.
+[8] L’appelante a également déclaré qu’elle croyait être responsable d’une partie de l’impôt pour 2002. Son comptable lui aurait dit que ce n’était pas le cas, mais seulement après la fin de l’exercice 2002.
+[9] L’appelante et Rino Nigro ont tous deux déclaré qu’ils essayaient d’arrêter les frais en signant la lettre du 20 février 2002 et qu’ils auraient à travailler très fort à compter de la date de cette lettre pour payer les comptes non réglés de l’entreprise. Quoi qu’il en soit, l’appelante savait que le privilège sur la maison subsisterait tant que la marge de crédit n’aurait pas été entièrement payée.
+[10] La Cour n’a pas été convaincue par l’appelante ou par Rino Nigro qu’il existait un lien employeur‑employé ou qu’il existait un contrat de louage de services exprès ou tacite. L’appelante a été mêlée à une malheureuse relation d’affaires dont elle a essayé de s’extirper. Le fait de se qualifier d’« employée » ne suffisait pas, dans les circonstances, à créer ce type de relation. Elle est restée responsable des dettes de l’entreprise durant la période en cause. Elle avait fait l’objet de peu, sinon d’aucun contrôle durant l’année 2002 et elle a continué à gérer le payeur comme si elle en était toujours l’un des propriétaires.
+[11] Les appels sont rejetés et la décision du ministre est par les présentes confirmée.
+Signé à Toronto (Ontario), ce 26e jour de novembre 2003.
+« W.E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 18e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE :
+2003CCI821
+No DU DOSSIER DE LA COUR :
+2003-1572(EI) et 2003-1573(CPP)
+INTITULÉ :
+Grace Cuffaro et M.R.N. & Lucy Foniciello, Frank Cuffaro et Rino Nigro s/n Eyes by Design & Designer Accessories
+LIEU DE L’AUDIENCE :
+St. Catharines (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 septembre 2003
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant W.E. MacLatchy
+DATE DU JUGEMENT :
+Le 26 novembre 2003
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me A’Amer Ather
+Représentant des intervenants :
+M. Rino Nigro
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour les intervenants :
+Nom :
+Cabinet :

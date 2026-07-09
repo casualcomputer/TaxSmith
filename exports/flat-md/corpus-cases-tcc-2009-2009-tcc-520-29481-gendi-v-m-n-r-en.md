@@ -1,0 +1,158 @@
+---
+title: "Gendi v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29481/index.do"
+last_modified: "2009-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 520"
+citation2: ""
+neutral_citation: "2009 TCC 520"
+decision_date: "2009-10-16"
+language: "en"
+item_id: "29481"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6299
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:50:55.173000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ea93ad34e0773bcdef91f0a9062d3ac7e1a204ca8de046665e5e575d1bda4e0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gendi v. M.N.R.
+
+- Citation: 2009 TCC 520
+- Decision date: 2009-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6299, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gendi v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-16
+Neutral citation
+2009 TCC 520
+File numbers
+2007-4985(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-4985(EI)
+2007-4986(CPP)
+BETWEEN:
+RIMON GENDI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 7, 2009, at Vancouver, British Columbia
+By: The Honourable Justice Brent Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Natasha Reid
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are dismissed.
+Signed at Ottawa, Canada, this 16th day of October, 2009.
+“Brent Paris”
+Paris J.
+Citation: 2009 TCC 520
+Date: 20091016
+Docket: 2007-4985(EI)
+2007-4986(CPP)
+BETWEEN:
+RIMON GENDI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The Appellant is appealing from decisions of the Minister of National Revenue that the Appellant was not employed by ABC Profiles Inc. (“ABC”) in insurable or pensionable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act and subsection 6(1) of the Canada Pension Plan during the period September 1, 2006 to February 15, 2007.
+[2] The assumptions relied upon by the Minister in making the decisions are set out in paragraph 5 of the Reply to the Notice of Appeal in each case. Those assumptions are identical in both cases and read as follows:
+a) ABC Profiles Inc. incorporated on or about January 16, 2003;
+b) during the Period ABC Profiles manufactured and distributed specialized steel roofing and siding materials;
+c) ABC Profiles purchased a software program, Simply Accounting, to computerize its business records;
+d) the Appellant provides computer training under the businesses name R.W.C. Computer School;
+e) the Appellant was contracted by ABC Profiles to provide training in respect of computer accounting software that ABC Profiles purchased;
+f) the Appellant invoiced ABC Profiles on or about January 27, 2006 for 15 hours of training for a total amount of $450;
+g) the Appellant provided computer training to Billy DeVries at the offices of ABC Profiles from on or about January 2006 to May 2006;
+h) the Appellant in providing the computer training to ABC Profiles, provided a computer chair, a 5-foot round conference table, a back-up flash hard drive, a cordless telephone and miscellaneous office supplies;
+i) during the Period, ABC Profiles did not enter into a contract of employment with the Appellant;
+j) during the Period, ABC Profiles did not instruct, direct or supervise the Appellant;
+k) the Appellant received $4,500 from ABC Profiles in or about December 2006 as payment for a sale of roofing material made to a customer of ABC Profiles;
+1) the Appellant received $1,400 from ABC Profiles as reimbursement for supplies the Appellant purchased for ABC Profiles;
+m) the Appellant incurred vehicle expenses during the Period he provided training to ABC Profiles;
+n) during the Period, the Appellant incurred vehicle expenses for which he was not reimbursed by ABC Profiles;
+o) ABC Profiles did not withhold any deductions on account of employment insurance or Canada pension plan or taxes from the payments made to the Appellant;
+p) during the Period, the Appellant did not perform duties for ABC Profiles to earn a salary or wages;
+q) the Appellant did not file a complaint for unpaid wages with the British Columbia Labour Standards Bureau;
+r) the Appellant ordered a Record of Employment (“ROE”) from Human Resources Skills Development Canada under ABC Profiles’ business account number;
+s) the Appellant completed the ROE for the Period to indicate that he had insurance hours of 1140 and insurable earnings of $17,500;
+t) the ROE was presented by the Appellant to Elly DeVries for signature; and
+u) although Elly De Vries’s signature is on the ROE, Elly DeVries signed the ROE in error.
+[3] The issue in these appeals centers around the assumptions contained in subparagraphs 5(i) and 5(p) above, which set out that the Appellant did not enter into a contract of employment with ABC and did not perform any duties for ABC to earn a salary or wages. The Appellant maintains that he was hired as a fulltime employee of ABC on August 1, 2006 and was employed by the company until February 15, 2007. He says that he was paid a salary of $4,500 per month regardless of the hours worked.
+[4] The onus is on the Appellant to show that the facts assumed by the Minister in coming to the decisions in the appeals were incorrect, and in particular, those in subparagraphs 5(i) and (p) of the Replies, to which I have referred above.
+[5] It is not disputed by the parties that the Appellant provided training to Ms. DeVries in early 2006 on how to use certain accounting software, and that the Appellant did so as an independent contractor. What is disputed is what took place after that training was completed. The Appellant maintains that he was hired as a full-time employee by ABC to perform a number of tasks, including accounting and office work, pickups and deliveries, meeting with creditors, clients, suppliers and government agencies, working on ABC’s production line and monitoring roofers installing ABC’s roofing materials at job sites.
+[6] On the evidence that was presented at the hearing, I am not satisfied that the Appellant has shown that he was hired as and worked as an employee of ABC, or that the record of employment he relied on was accurate and intentionally signed by Ms. DeVries.
+[7] A number of inconsistencies and implausibilities in the Appellant’s testimony and in the documents he has presented at various points to Human Resources Development Canada and the Canada Revenue Agency lead me to find that the Appellant was not a credible witness. Firstly, the Appellant’s evidence that his rate of pay was $4,500 per month contradicts his statement to the Human Resources Development Canada investigator in the file, Ms. Banwait, that his salary at ABC was between $3,500 and $4,000 per month. It also contradicted the information he provided on his application for employment insurance benefits that his salary was $ 3,500 per month. He also admitted that he had filled out part of the record of employment, including the amount of his insurable earnings, which he showed as $17,500. Ms. Banwait testified that the Appellant told her that the $17,500 amount was based on a salary of $ 3,500 per month. On the other hand, in a claim for unpaid wages from ABC which the Appellant filed with the British Columbia Employment Standards Branch, he stated that his monthly salary was $4,500.
+[8] The Appellant relied on certain documents purporting to be payroll records kept by ABC to show he was paid a salary. However, these were not authenticated by anyone from ABC. Neither Mr. nor Ms. DeVries testified at the hearing. Apparently, they have moved back to Holland. The purported payroll records appear to show that salary was deposited to the Appellant’s bank account, but the Appellant did not bring any of his own bank records to substantiate this. The Appellant also failed to produce any records to support his statements that he received additional payments in cash and by means of payments made by ABC to his credit card. Furthermore, the figures shown on the purported payroll records do not correspond with any of the amounts the Appellant said he was paid.
+[9] To further confuse matters, the purported payroll records for ABC show wages and salaries of $2,433.60 per month paid to the Appellant for each of three months, and $3,071.12 for one month, as well as a payment of salary to Mr. Devries of $9,540.00 while the income tax return filed by ABC for the year ended December 31, 2006 shows the company paid total salaries of only $8,437 in 2006.
+[10] The Appellant did produce two cancelled cheques from ABC, one for $4,500, dated December 18, 2006 and a second, dated March 8, 2007 for $1,400.
+[11] A handwritten note on the December 18 cheque stated it was for payroll. However, another of the purported payroll records of ABC referred to a paycheque for $3,345.12 being issued to the Appellant on December 15, 2006 and showing gross pay of $3,500. The Appellant said that Ms. DeVries probably only recorded part of the $4,500 he was paid in order to avoid paying tax on all of it. This explanation makes little sense, as it is the Appellant who would have had to pay income tax on the payment rather than ABC. I also note that the same purported payroll cheque records show that the Appellant’s year-to-date gross pay up to December 15, 2006 was $3,500. In any event, as I have already noted, it is not clear who prepared these records
+[12] The March 8 cheque bore the notation “last payment to Rimon Gendi Visa and Mastercard.” The Appellant said that this was a reimbursement of amounts he had charged to his credit cards on behalf of ABC.
+[13] In the complaint he filed with the Employment Standards Branch, the Appellant indicated that ABC owed him wages of $35,254.99. This amount is greater than the total that he would have if, as he alleges, his salary was $4,500 per month and he worked from August 1, 2006 to February 15, 2007. This would also tend to suggest that the Appellant, for the purposes of the complaint at least, was taking the position that he was not paid at all by ABC.
+[14] The information provided by the Appellant regarding the date of his alleged employment was also inconsistent. At the hearing, he said that he became a fulltime employee of ABC on August 1, 2006. This was what he told Ms. Banwait as well. However, on his application for employment insurance benefits, he said that his first day worked was September 1, 2006. At the hearing he stated that Ms. DeVries put on the record of employment that his first day worked was September 1, 2006 so that the company would not have to pay employee source deductions for the Appellant for the month of August. He said that he therefore felt obliged to use that date on his application for benefits in order to be consistent with the record of employment. However, in cross‑examination, the Appellant contradicted himself, admitting that he filled out the portion of the record of employment that included the first day worked. A further contradiction appears on the application for benefits, where the Appellant indicated that at the time of filling out the application, he had not yet received the record of employment from ABC.
+[15] The Appellant also relied on three statements of account relating to ABC's source deductions to show that ABC had made remittances of income tax, employment insurance premiums and Canada Pension Plan contributions for him but these forms were filled out by the Appellant, as were the references to the month in relation to which the payments were supposedly made. It is difficult to tell whether the payments that were made matched the amounts written on the form, and it is not possible to determine who made the payments or whether those payments were made in relation to the Appellant’s alleged employment. There was evidence in an affidavit that the Appellant gave to the Employment Standards Branch investigator that he paid the source deduction amounts himself. The Appellant at the hearing of these appeals said that he did not pay these source deductions but paid other source deductions for himself because ABC did not have the money, but no other receipts showing such payments were produced by him.
+[16] The Appellant’s testimony concerning his departure from ABC also conflicts with the information he provided earlier to Human Resources Development Canada. At the hearing he said that he was fired because he had threatened to reveal that the company had received GST refunds to which it was not entitled. On the questionnaire filled out by the Appellant for Ms. Banwait concerning his alleged employment with ABC, he stated that he was laid off due to a shortage of work. The Appellant also said that he ordered the blank record of employment from the CRA on behalf of ABC on February 6, 2007, which was nine days before he was supposedly fired. It appears incongruent to me that the Appellant would have known to order a record of employment in advance of being fired.
+[17] Another unexplained discrepancy in what the Appellant told the Canada Revenue Agency rulings officer, Ms. Sausa-Gaufredo, relates to whether there was a written contract of employment between himself and ABC. In a questionnaire she had him fill out concerning his claim, he said that he had worked for ABC under a written contract but that his copy of the contract had been removed from his briefcase by the “owner on or before he was laid off”. Later, however, the Appellant provided her with his purported employment contract with ABC, a document signed only by him.
+[18] The Appellant did not call any witness to corroborate his claim that he was a full-time employee of ABC for over six months during which time he said he personally dealt with ABC’s clients, suppliers, creditors and contractors. I infer that the evidence of such persons would have not been favourable to the Appellant.
+[19] In light of the many inconsistencies and contradictions in the Appellant’s evidence, and in the absence of any other evidence supporting his allegation that he was employed by ABC, I find that he has not met the onus upon him to show that the assumptions relied upon by the Minister are incorrect. The Appellant has not shown that he was engaged and worked as an employee of ABC during the period in issue, and the appeals must therefore be dismissed.
+Signed at Ottawa, Canada, this 16th day of October, 2009.
+“Brent Paris”
+Paris J.
+CITATION: 2009 TCC 520
+COURT FILE NOS.: 2007-4985(EI) and 2007-4986(CPP)
+STYLE OF CAUSE: RIMON GENDI and THE
+MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 7, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: October 16, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Natasha Reid
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

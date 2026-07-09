@@ -1,0 +1,282 @@
+---
+title: "McFadyen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29012/index.do"
+last_modified: "2008-07-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 441"
+citation2: ""
+neutral_citation: "2008 CCI 441"
+decision_date: "2008-07-31"
+language: "fr"
+item_id: "29012"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6760
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:31:24.719000+00:00"
+cases_cited_count: 3
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e0d7dd8836915d9559cd16969325f5ed37981e1ce4121c441b685c1adf38f5ff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McFadyen v. The Queen
+
+- Citation: 2008 CCI 441
+- Decision date: 2008-07-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6760, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McFadyen v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-31
+Référence neutre
+2008 CCI 441
+Numéro de dossier
+2007-4938(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4938(IT)G
+ENTRE :
+NEIL MCFADYEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 8 mai 2008, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Andrew Miller
+____________________________________________________________________
+ORDONNANCE
+Attendu que l’avocat de l’intimée a présenté une requête en vue d’obtenir une ordonnance annulant l’avis d’appel modifié ou, subsidiairement, une ordonnance radiant certains paragraphes de l’avis d’appel modifié, ou encore subsidiairement, une ordonnance accordant à l’intimée une prorogation de 60 jours pour déposer une réponse à l’avis d’appel modifié, ainsi qu’une ordonnance adjugeant à l’intimée les dépens de la présente requête;
+Attendu que la Cour a pris connaissance des affidavits de l’appelant, de Sheridan Gardner et de Craig Harvey qui ont été déposés;
+Et attendu que les allégations des parties ont été entendues;
+La requête est accueillie selon les modalités suivantes :
+Toutes les allégations de fait, tous les arguments et toutes les autres dispositions de l’avis d’appel modifié de 2007, notamment les paragraphes 59 à 64, 70 à 77, 79, 81 à 86, 88, 89, 91 à 99, 101 à 107, 109 à 141, 143 à 159, 162 à 167, 169, 249 à 251, la dernière phrase du paragraphe 252, le sous‑alinéa d)(vi) et l’alinéa f) du paragraphe 253, sont radiés de l’avis d’appel modifié de 2007, sauf pour les dispositions se rapportant uniquement et directement à la question du calcul des intérêts, aux dispositions législatives sur lesquelles l’appelant se fonde en soulevant la question des intérêts, aux moyens que l’appelant a l’intention de soumettre à l’appui de la question des intérêts et à la réparation que l’appelant sollicite à l’égard de la question des intérêts, comme il en est fait mention à l’alinéa k) du paragraphe 170 de l’avis d’appel modifié de 2007, ces dispositions ne devant pas être radiées de l’avis d’appel modifié de 2007.
+L’appelant déposera un avis d’appel modifié de nouveau dans lequel sera uniquement soulevée la question du calcul des intérêts dont il veut faire appel, cet avis d’appel modifié de nouveau devant être déposé dans les 90 jours qui suivront la date de la présente ordonnance.
+L’intimée disposera d’un délai de 60 jours à compter de la réception de l’avis d’appel modifié de nouveau pour déposer une réponse à cet avis d’appel modifié de nouveau.
+Les dépens de la présente requête sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2008.
+Gerald J. Rip, juge en chef
+Traduction certifiée conforme
+ce 12e jour de septembre 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2008 CCI 441
+Date : 20080731
+Dossier : 2007-4938(IT)G
+ENTRE :
+NEIL MCFADYEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Rip
+[1] L’intimée, Sa Majesté la Reine, a présenté une demande en vue d’obtenir une ordonnance annulant l’avis d’appel modifié ou, subsidiairement, une ordonnance radiant les paragraphes suivants de l’avis d’appel modifié : les paragraphes 59 à 64, 70 à 77, 79, 81 à 86, 88, 89, 91 à 99, 101 à 107, 109 à 141, 143 à 159, 162 à 167, 169, l’alinéa k) du paragraphe 170, les paragraphes 249 à 251, la dernière phrase du paragraphe 252, le sous‑alinéa d)(vi) et l’alinéa f) du paragraphe 253. Les paragraphes concernés sont reproduits à l’appendice I joint aux présents motifs.
+[2] Le 17 décembre 2007, l’appelant, M. Neil Barry McFadyen, a modifié l’avis d’appel qu’il avait déposé à l’encontre des cotisations concernant les années d’imposition 1993, 1994 et 1995, dont les avis sont datés du 6 mars 2006 (les « nouvelles cotisations de 2006 »). Il s’agit ici de savoir si, au cours de ces années d’imposition, l’appelant était résident du Canada.
+[3] Le 10 mai 1999 ou vers cette date, l’appelant a déposé auprès de la Cour un avis d’appel modifié (l’« avis d’appel modifié de 1999 ») à l’encontre de nouvelles cotisations d’impôt sur le revenu établies pour les années 1993, 1994 et 1995, dont les avis étaient datés du 16 décembre 1996 (les « nouvelles cotisations de 1996 ») pour le motif qu’il n’était pas résident du Canada ou de l’Ontario au cours de ces années‑là. L’épouse de l’appelant à ce moment‑là avait accepté un poste à titre d’employée du gouvernement canadien à l’ambassade du Canada, à Tokyo, au Japon. L’appelant a mis fin à son emploi au Canada et, en 1992, l’appelant, sa femme et son enfant se sont installés au Japon. Apparemment, l’appelant a fourni des services à l’ambassade du Canada, au Japon, en 1993 et en 1994, à titre d’employé et à titre d’entrepreneur indépendant. En 1994 et en 1995, l’appelant travaillait également pour une maison de courtage en valeurs mobilières à Tokyo. Dans son avis d’appel modifié de 1999, l’appelant a déclaré que les questions à trancher étaient les suivantes :
+[traduction]
+46. L’appelant était‑il résident de fait du Canada ou résidait‑il habituellement au Canada en 1993, en 1994 et jusqu’au mois de septembre 1995?
+47. L’appelant était‑il réputé résider au Canada en 1993, en 1994 et jusqu’au mois de septembre 1995, du fait que son épouse était agente ou préposée du Canada et du fait qu’il résidait au Canada au cours d’une année antérieure, conformément aux dispositions de l’alinéa 250(1)e) de la LIR?
+48. L’appelant était‑il résident du Japon, au sens de la Convention fiscale Canada‑Japon, de sorte que le revenu qu’il a gagné est imposable au Japon seulement, conformément aux dispositions des articles 14, 15 et 18 de la Convention fiscale Canada‑Japon?
+49. Si l’appelant était réputé résider au Canada conformément aux dispositions de l’alinéa 250(1)e) de la LIR, ces dispositions sont‑elles inopérantes pour le motif qu’elles vont à l’encontre des dispositions de l’article 15 de la Charte canadienne des droits et libertés, en ce sens qu’elles privent l’appelant du droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment de la discrimination fondée sur l’état matrimonial?
+[4] Les appels des nouvelles cotisations de 1996 ont été entendus par le juge en chef Garon[1], qui a conclu que, compte tenu des faits soumis dans leur ensemble, M. McFadyen était un résident de fait du Canada au cours des années 1993, 1994 et 1995, et qu’il résidait habituellement au Canada au sens du paragraphe 259(3) de la Loi de l’impôt sur le revenu (la « Loi »). De plus, le juge en chef Garon a conclu que l’appelant était assujetti à la disposition déterminative figurant à l’ancien alinéa 250(1)e) de la Loi à l’égard du personnel de l’ambassade et que la disposition n’était pas contraire au paragraphe 15(1) de la Charte canadienne des droits. M. McFadyen a interjeté appel devant la Cour d’appel fédérale; l’appel a été accueilli uniquement dans la mesure où, en établissant la cotisation, le ministre du Revenu national (le « ministre ») devait créditer l’impôt payé au Japon[2]. La demande de pourvoi à la Cour suprême du Canada a été refusée. En 2003, M. McFadyen a fait l’objet d’une nouvelle cotisation conformément au jugement rendu par la Cour d’appel fédérale[3].
+[5] Dans l’intervalle, l’épouse de M. McFadyen, Sheridan Gardner, qui travaillait à l’ambassade du Canada, faisait elle‑même face à des problèmes fiscaux en ce qui concerne son statut de résidente à l’égard des cotisations fédérale et de l’Ontario. Le ministère des Finances de l’Ontario a finalement convenu que Mme Gardner n’était pas résidente de l’Ontario au cours des années visées par l’appel et il a consenti au jugement par lequel était accueilli l’appel que celle‑ci avait interjeté. De plus, le fisc de l’Ontario a reconnu que M. McFadyen n’était pas résident de l’Ontario à l’époque en cause et, par conséquent, l’Agence du revenu du Canada (l’« ARC »), soit l’administration fiscale actuelle, a établi les nouvelles cotisations de 2006 de l’Ontario à l’égard de M. McFadyen.
+[6] Après s’être opposé aux nouvelles cotisations de 2006, M. McFadyen a déposé un avis d’appel, suivi d’un avis d’appel modifié, en date du 29 août 2007 (l’« avis d’appel modifié de 2007 ») à l’encontre des nouvelles cotisations de 2006. M. McFadyen reconnaît que onze questions sont soulevées dans l’appel. Ces questions sont énoncées à l’annexe II jointe aux présents motifs. L’avis d’appel modifié de 2007 porte principalement sur le fait que M. McFadyen n’était pas résident du Canada au cours des années visées par l’appel, soit la même question que celle qui était soulevée dans l’avis d’appel modifié de 1996.
+[7] Les moyens invoqués dans la requête de l’intimée sont les suivants :
+[traduction]
+a) les appels concernant les années d’imposition 1993, 1994 et 1995 de l’appelant font l’objet de la chose jugée; ils sont scandaleux, frivoles ou vexatoires, ou ils constituent un abus de procédure;
+b) subsidiairement, les nouvelles cotisations du 6 mars 2006 concernant les années d’imposition 1993, 1994 et 1995 de l’appelant étaient des cotisations portant qu’aucun impôt n’est payable;
+c) subsidiairement encore, les appels n’ont plus d’intérêt pratique parce que, même si l’appelant devait avoir gain de cause, les remboursements d’impôt sur le revenu demeureraient entre les mains de l’ARC, puisque les remboursements d’impôt sur le revenu préalables à la faillite sont dévolus au syndic afin d’être distribués aux créanciers, et que l’appelant a fait faillite en 2003, l’ARC détenant 98 p. 100 des créances non garanties;
+d) subsidiairement encore :
+I. les paragraphes 59 à 64, 70 à 77, 79, 81 à 86, 88, 89, 91 à 99, 101 à 107, 109 à 141, 143 à 159 et 162 à 167 n’énoncent pas de faits importants;
+II. le paragraphe 169, l’alinéa k) du paragraphe 170 ainsi que les paragraphes 249 à 251, la dernière phrase du paragraphe 252, le sous‑alinéa d)(vi) du paragraphe 253 et l’alinéa f) du paragraphe 253 ne relèvent pas de la compétence de la Cour.
+[8] L’intimée se fonde sur les dispositions législatives suivantes :
+[traduction]
+e) l’article 53 et l’alinéa 44(1)b) des Règles de la Cour canadienne de l’impôt (procédure générale);
+f) les paragraphes 152(1), 152(3.1), 152(4), 165(1), 165(1.1), 169(1), 169(2) et 171(1) de la Loi de l’impôt sur le revenu;
+g) l’article 12 de la Loi sur la Cour canadienne de l’impôt;
+h) le paragraphe 41(11) ainsi que les articles 67 et 71 de la Loi sur la faillite et l’insolvabilité.
+[9] L’intimée a produit un affidavit de Craig Harvey, agent de programmes qui était antérieurement agent des appels auprès de l’ARC et de ses prédécesseurs. M. Harvey a déclaré avoir une connaissance directe des faits attestés et avoir examiné les documents du fisc concernant les années d’imposition 1993, 1994 et 1995 de M. McFadyen.
+[10] À l’affidavit de M. Harvey étaient joints de nombreux documents, notamment une copie de l’avis d’appel modifié de 1999 de l’appelant; une copie de la réponse modifiée de l’intimée à l’avis d’appel modifié; une copie des motifs du jugement par lequel le juge en chef Garon rejetait les appels; une copie de l’avis d’appel que l’appelant avait déposé devant la Cour d’appel fédérale; une copie des motifs du jugement par lequel la Cour d’appel fédérale accueillait l’appel de l’appelant uniquement à l’égard de l’octroi du crédit pour impôt étranger se rapportant à l’impôt japonais retenu sur le revenu de 1994 et de 1995 de l’appelant, ainsi qu’à l’égard d’une concession qui, selon l’intimée, a été faite par le ministre au sujet du salaire de l’appelant pour l’année 1993, mais rejetant par ailleurs les appels; une copie d’une note de service interne de l’ARC demandant au fisc d’établir une nouvelle cotisation à l’égard de l’appelant conformément aux motifs rendus par la Cour d’appel fédérale; une copie de la demande d’autorisation de pourvoi à la Cour suprême du Canada que l’appelant avait présentée et une copie du jugement par lequel la Cour suprême du Canada rejetait la demande; une copie du dossier de la requête de l’appelant, demandant à la juge en chef du Canada de réexaminer le rejet de la demande d’autorisation de pourvoi à la Cour suprême du Canada et une copie d’une lettre datée du 10 juillet 2003 du registraire de la Cour suprême du Canada informant l’appelant du rejet de sa requête; des copies de documents se rapportant à la faillite de l’appelant; des copies de documents se rapportant aux nouvelles cotisations d’impôt établies pour les années 1993, 1994 et 1995 conformément à la Loi de l’impôt sur le revenu de l’Ontario; et les lettres échangées entre M. McFadyen et les agents de l’ARC.
+[11] M. McFadyen a également déposé un affidavit dans lequel il déclarait ce qui suit : [traduction] « Certains faits en plus de ceux énoncés dans l’avis d’appel modifié [...] montrent que la doctrine de la chose jugée ou la préclusion découlant d’une question déjà tranchée (issue estoppel) ne devraient pas s’appliquer et que, si elles s’appliquent, il existe des circonstances exceptionnelles qui, selon moi, justifient leur non‑application. » À l’affidavit de M. McFadyen étaient joints des documents qui comprennent des copies de documents internes du gouvernement, des notes ou des lettres échangées entre diverses agences ou divers ministères du gouvernement, notamment avec le fisc; des avis de nouvelle cotisation datés du 16 décembre 1996 pour les années 1993, 1994 et 1995; des avis de nouvelle cotisation datés du 18 mars 2003 à l’égard des années d’imposition 1993, 1994 et 1995, ainsi que des explications portant sur les modifications apportées aux nouvelles cotisations antérieures; des avis des nouvelles cotisations de 2006 et des explications portant sur les modifications apportées aux cotisations antérieures; la réponse modifiée de 1999 à l’avis d’appel; le jugement formel de la Cour d’appel fédérale portant sur les demandes de contrôle judiciaire de décisions de la Commission canadienne des droits de la personne; des lettres échangées entre l’honorable John Manley et le chef de cabinet du ministre; le chapitre 3 du rapport de 2007 de la vérificatrice générale portant sur la gestion des ressources humaines – Affaires étrangères et Commerce international Canada; et la transcription des témoignages entendus par le Comité permanent des comptes publics de la Chambre des communes, 15 avril 2008.
+[12] M. McFadyen a également produit un affidavit de Sheridan Gardner, son ancienne épouse, avec qui il était marié en 1993, en 1994 et en 1995. Mme Gardner a fait l’objet de cotisations pour les impôts sur le revenu fédéral et de l’Ontario à l’égard des années 1993 et 1994 pour le motif qu’elle était [traduction] « résidente de fait » de l’Ontario au cours des années en question. Mme Gardner a fait opposition aux cotisations, qui ont été ratifiées; elle a interjeté appel des cotisations devant la Cour. Elle déclare que, le 14 septembre 2000, l’intimée [traduction] « a présenté une requête dans le cadre de laquelle la Cour canadienne de l’impôt a conclu [qu’elle] étai[t] réputée résider en Ontario et [que] la Cour de l’impôt n’avait pas compétence pour décider de [s]on statut de résidente de l’Ontario ». Apparemment, le fisc fédéral à ce moment‑là n’a pas donné à Mme Gardner les bons renseignements concernant ses droits d’appel à l’encontre des cotisations provinciales. Le 28 novembre 2000, le ministère des Finances de l’Ontario a informé Mme Gardner que les cotisations provinciales n’avaient pas été ratifiées. Mme Gardner avait à ce moment‑là le droit d’interjeter appel de ses cotisations de l’Ontario devant la Cour supérieure de justice de l’Ontario. Par un avis daté du 29 juin 2001, l’Agence des douanes et du revenu du Canada a ratifié les cotisations de l’Ontario et a informé Mme Gardner de son droit d’en appeler devant la Cour de l’Ontario.
+[13] Le 18 février 2005, le juge Lalonde, de la Cour supérieure de justice de l’Ontario, a approuvé un consentement au jugement accueillant les appels interjetés par Mme Gardner pour les années 1993 et 1994 pour le motif que Mme Gardner n’était pas résidente de l’Ontario au cours des années 1993 et 1994. Comme il en a déjà été fait mention, c’est sur cette base que l’Ontario a convenu que M. McFadyen n’était pas non plus un résident de l’Ontario en 1993, en 1994 et en 1995, et que ses cotisations provinciales ont été ramenées à néant.
+a) Dans les avis de nouvelle cotisation délivrés à M. McFadyen en 1996, les nouvelles cotisations étaient ainsi décrites :
+Impôt fédéral net
+Impôt provincial net
+Rajustement du total des intérêts
+1993
+6 512,23 $
+3 667,08 $
+104,50 $
+1994
+29 299,27 $
+18 991,56 $
+7 789,04 $
+1995[4]
+18 040,25 $
+11 131,10 $
+1 743,17 $
+b) Dans les avis de nouvelle cotisation délivrés le 18 mars 2003, les nouvelles cotisations établies conformément au jugement de la Cour d’appel fédérale étaient décrites de la manière suivante :
+Impôt fédéral net
+Impôt provincial net
+Rajustement du total des intérêts
+1993
+4 223,88 $
+2 378,49 $
+3 857,94 $
+1994
+28 274,23 $
+18 991,56 $
+1 121,57 $
+1995
+13 308,80 $
+11 131,10 $
+3 818,02 $
+c) Dans les avis de nouvelle cotisation délivrés en 2006, les nouvelles cotisations étaient décrites en ces termes :
+Impôt fédéral net
+Impôt provincial net
+Rajustement du total des intérêts
+1993
+4 223,88 $
+Néant
+3 260,62 $
+1994
+28 274,23 $
+Néant
+11 210,70 $
+1995
+13 308,80 $
+Néant
+4 988,80 $
+Dans les notes expliquant les modifications apportées à l’impôt sur le revenu, il est déclaré ce qui suit : [traduction] « Les impôts exigibles de l’Ontario ont été ramenés à zéro. »
+[14] De toute évidence, les nouvelles cotisations de 2006 se rapportaient uniquement aux cotisations établies conformément à la Loi de l’impôt sur le revenu de l’Ontario et non à la Loi de l’impôt sur le revenu du Canada. Les cotisations d’impôt fédérales pour les années 1993, 1994 et 1995 qui ont été établies en 2006 sont identiques à celles qui ont été établies en 2003. Les avis de cotisation étaient peut‑être bien différents des avis délivrés en 2003, en ce sens que les nouvelles cotisations d’impôt sur le revenu de 2006 de l’Ontario avaient été ramenées à néant, mais un avis de cotisation ou de nouvelle cotisation n’est pas une cotisation ou une nouvelle cotisation; l’avis vise uniquement à informer le contribuable des montants établis au titre de l’impôt, des intérêts et de la pénalité, le cas échéant, en vertu de la Loi de l’impôt sur le revenu fédérale et de la Loi de l’impôt sur le revenu provinciale pertinente, ainsi que de l’évaluation des cotisations à verser dans le cadre du Régime de pensions du Canada et en vertu de la Loi sur l’assurance‑emploi. En l’espèce, aucune modification n’a été effectuée dans les nouvelles cotisations de 2006 relatives à l’impôt sur le revenu fédéral par rapport aux cotisations établies en 2003. Or, M. McFadyen cherche à interjeter appel de l’impôt sur le revenu fédéral.
+[15] L’appelant n’a pas le droit d’en appeler devant la Cour canadienne de l’impôt des impôts établis par suite des nouvelles cotisations de 2006. Le droit d’appel est conféré au paragraphe 169(1) de la Loi. Comme je l’ai conclu au paragraphe précédent, le droit d’appel existe à l’égard d’une cotisation et non d’un avis de cotisation. La distinction entre les deux a été soulignée par le président Thorson dans la décision Pure Spring Co. v. M.N.R.[5] :
+[traduction] Il existe une différence entre une cotisation et un avis de cotisation. L’une est une mesure et l’autre est un document. La nature de la cotisation a été clairement expliquée par le juge en chef adjoint Isaacs d’Australie dans l’arrêt Federal Commissioner of Taxation v. Clarke ((1927) 40 C.L.R. 246 à la page 277) :
+[traduction]
+Une cotisation n’est qu’une constatation et l’établissement d’une obligation.
+[...]
+C’est l’opinion que l’on s’est faite et non les documents sur lesquels elle est fondée qui constitue une des circonstances pertinentes de la cotisation. À mon avis, la cotisation constitue la conclusion finale de l’examen de tous les facteurs correspondant à l’obligation fiscale, évalués de différentes façons, et l’établissement du résultat final lorsque tous les calculs nécessaires ont été effectués.
+[16] Une cotisation est établie lorsque le ministre fixe l’obligation du contribuable de payer un impôt. La réception d’un avis de cotisation n’équivaut pas à l’établissement d’une cotisation. Une cotisation est quelque chose de plus que le simple fait qu’un avis a été délivré.
+[17] Les avis de nouvelle cotisation de 2006 accomplissaient deux objectifs. En premier lieu, l’obligation fiscale provinciale de l’appelant pour les années en cause a été ramenée à néant. Une cotisation concernant une obligation fiscale provinciale établie conformément à une loi provinciale ne confère pas le droit d’interjeter appel d’un impôt fédéral.
+[18] L’appelant semble également avoir fait l’objet d’une cotisation à l’égard des intérêts sur les impôts fédéraux qui avaient couru depuis que l’avis de nouvelle cotisation avait été délivré en 2003. L’appelant soutient que la cotisation relative aux intérêts sur l’impôt fédéral a pour effet de rouvrir toute la cotisation fédérale de manière à lui permettre d’en faire appel. Je ne suis pas d’accord.
+[19] Le paragraphe 152(1) de la Loi prévoit que le ministre fixe l’impôt pour l’année, ainsi que les intérêts et les pénalités. La cotisation relative aux intérêts est différente de la cotisation relative à l’impôt; elle est le résultat d’une cotisation fiscale.
+[20] Le paragraphe 152(4) prévoit qu’une cotisation ne peut pas être établie après l’expiration de la « période normale de nouvelle cotisation », selon la définition figurant au paragraphe 152(3.1) de la Loi. Étant donné que les nouvelles cotisations pour les années 1993, 1994 et 1995 avaient été établies en 1996, les avis de nouvelle cotisation de 2006 ont de toute évidence été délivrés après la « période normale de nouvelle cotisation ». Même si le ministre avait voulu établir une nouvelle cotisation à l’égard de l’appelant au titre des impôts fédéraux, de sorte que l’appelant se verrait conférer un droit d’appel, la prescription l’aurait empêché de le faire.
+[21] L’appelant a fait l’objet de nouvelles cotisations en 2003 conformément au jugement rendu par la Cour d’appel fédérale. Étant donné que les nouvelles cotisations de 2003 relatives à l’obligation fiscale de l’appelant avaient été établies en conformité avec l’ordonnance d’un tribunal, le paragraphe 169(2) de la Loi se serait appliqué à ces appels. Selon le paragraphe 169(2), aucun appel ne peut être interjeté d’une cotisation fondée sur une ordonnance judiciaire, sauf en ce qui concerne des questions se rapportant à la cotisation que la Cour n’a pas tranchées définitivement. Si l’appelant s’était opposé aux avis de cotisation de 2003, le paragraphe 169(2) l’aurait empêché de soulever toute question soulevée dans les présents appels, de sorte qu’il faut se demander pourquoi les avis de cotisation de 2006, qui ne font que mettre à jour le montant des intérêts exigibles sur l’obligation fiscale fédérale, devraient conférer à l’appelant un droit d’appel plus étendu que celui qu’il avait à l’égard des nouvelles cotisations de 2003. La réponse est que les avis n’ont pas cet effet.
+[22] Les parties ont soulevé la question de la chose jugée, que j’examinerai. La doctrine de la chose jugée comporte deux volets : la préclusion fondée sur la cause d’action (cause of action estoppel) et la préclusion découlant d’une question déjà tranchée (issue estoppel). La distinction entre les deux volets de la doctrine de la chose jugée a été énoncée en ces termes par le juge Dickson (tel était alors son titre), dans l’arrêt Angle c. M.R.N.[6] :
+[...] La première, soit la « cause of action estoppel », empêche une personne d’intenter une action contre une autre lorsque la même cause d’action a déjà été décidée dans des procédures antérieures par un tribunal compétent. [...] La deuxième sorte d’estoppel per rem judicatam est connue sous le nom d’issue estoppel, expression qui a été créée par le juge Higgins de la Haute Cour d’Australie dans l’arrêt Hoystead v. Federal Commissioner of Taxation, [(1921), 29 C.L.R. 537], à la p. 561 :
+[traduction] Je reconnais pleinement la distinction entre le principe de l’autorité de la chose jugée applicable lorsqu’une demande est intentée pour la même cause d’action que celle qui a fait l’objet d’un jugement antérieur, et cette théorie de la fin de non‑recevoir qu’on applique lorsqu’il arrive que la cause d’action est différente mais que des points ou questions de fait ont déjà été décidés (laquelle je puis appeler théorie de l’« issue‑estoppel »).
+[23] Les parties à la présente requête ont présenté leurs observations au sujet de l’applicabilité de la préclusion fondée sur une question déjà tranchée à la présente affaire. Compte tenu de l’avis exprimé dans l’arrêt Angle[7], il semble que la préclusion fondée sur la cause d’action soit la doctrine qu’il convient d’appliquer aux faits de la présente espèce. L’appelant cherche à remettre en question son obligation établie de payer un impôt sur ses revenus de toutes provenances pour les années d’imposition 1993, 1994 et 1995. Il s’agit du même ensemble de faits et de la même cotisation d’impôt (sous réserve des rajustements ordonnés par la Cour d’appel fédérale) que dans le litige antérieur. Il semble clair que la cause d’action que l’appelant cherche maintenant à invoquer est la même cause d’action que celle qui a été plaidée devant le juge en chef Garon. Par conséquent, j’estime que la préclusion fondée sur la cause d’action est la doctrine qui s’applique à la présente requête.
+[24] L’énoncé classique de la doctrine de la préclusion fondée sur la cause d’action figure dans l’arrêt Henderson v. Henderson[8]. En concluant qu’un jugement par défaut rendu à l’étranger empêchait la présentation de nouveaux moyens de défense dans une instance engagée en Angleterre, le vice‑chancelier Wigram a énoncé la règle en ces termes, à la page 139 :
+[traduction] Pour trancher cette question, je crois que j’énonce correctement le principe auquel le tribunal est assujetti en disant que, lorsqu’une question donnée fait l’objet d’un litige qui est du ressort d’un tribunal compétent, le tribunal exige des parties au procès qu’elles invoquent tous les moyens dont elles disposent et il ne permettra pas aux parties (sauf dans des circonstances exceptionnelles) de rouvrir le débat sur des questions qui auraient pu être soulevées en même temps que l’objet du litige a été examiné mais qui ne l’ont pas été uniquement parce qu’on a omis de les soulever par négligence, par inadvertance ou même par accident. Le moyen tiré du principe de l’autorité de la chose jugée s’applique, sauf dans des cas spéciaux, non seulement aux questions au sujet desquelles la Cour était effectivement requise par les parties de former une opinion et de rendre un jugement, mais aussi à toutes les questions qui faisaient à juste titre partie de l’objet du litige et que les parties auraient pu soulever à ce moment‑là si elles avaient fait preuve d’une diligence raisonnable.
+[25] L’arrêt Henderson a non seulement pour effet d’empêcher que des questions qui ont déjà été tranchées d’une façon concluante par un tribunal compétent soient de nouveau débattues, mais il énonce aussi le principe[9] selon lequel une question qui aurait pu ou aurait dû être soulevée ne peut être invoquée de nouveau, principe qui fait en sorte que les questions qui auraient à juste titre dû faire partie du litige initial, mais qu’une partie a omis de plaider, ne peuvent pas être soulevées dans un litige ultérieur[10].
+[26] Les conditions qui doivent être remplies lorsqu’il s’agit de démontrer l’application de la préclusion fondée sur la cause d’action sont bien établies en droit canadien. Dans l’arrêt Bjarnarson v. Manitoba[11], la cour a énoncé quatre conditions, en se fondant sur un arrêt de principe rendu par la Cour suprême du Canada :
+[traduction] Dans l’arrêt Town of Grandview v. Doering, (1975), 61 D.L.R. (3d) 455, la Cour suprême du Canada a énoncé quatre critères qui doivent être présents pour que la doctrine de la préclusion fondée sur la cause d’action s’applique :
+1. Il doit y avoir une décision définitive rendue par un tribunal compétent dans l’action antérieure;
+2. Les parties au litige ultérieur doivent avoir été parties à l’action antérieure ou avoir connexité d’intérêts avec les parties à l’action antérieure [réciprocité];
+3. La cause d’action dans l’action antérieure ne doit pas être séparée et distincte;
+4. Le fondement de la cause d’action et l’action ultérieure ont été débattus ou auraient pu être débattus dans l’action antérieure si les parties avaient fait preuve d’une diligence raisonnable.
+[27] La décision rendue par le juge en chef Garon était une décision définitive rendue par un tribunal compétent, et les parties au litige antérieur sont celles qui sont maintenant devant la Cour. Comme il en a ci‑dessus était fait mention, l’appel à l’encontre de la même cotisation concernant une obligation fiscale pour les mêmes années d’imposition constitue une même cause d’action. Enfin, toutes les questions invoquées dans l’avis d’appel modifié de 2007 (à l’exception d’une question sur laquelle nous reviendrons) ont été débattues dans l’appel antérieur ou auraient pu l’être si l’on avait fait preuve d’une diligence raisonnable. Par conséquent, les conditions d’application de la préclusion fondée sur la cause d’action sont réunies.
+[28] La préclusion fondée sur la cause d’action semble constituer le fondement approprié pour statuer sur la présente requête. Toutefois, étant donné que les parties ont attiré l’attention de la Cour sur des arrêts faisant autorité en ce qui concerne la préclusion découlant d’une question déjà tranchée, j’examinerai brièvement l’applicabilité de ce volet de la doctrine de la chose jugée.
+[29] Au Canada, c’est l’arrêt Angle, précité, qui fait autorité en ce qui concerne la préclusion découlant d’une question déjà tranchée. Le juge Dickson (tel était alors son titre), au nom de la majorité de la Cour suprême, a cité l’arrêt Carl Zeiss Stiftung v. Rayner & Keeler Ltd. (No. 2)[12], en ce qui concerne trois conditions d’application de la préclusion découlant d’une question déjà tranchée :
+[traduction] [...] (1) que la même question ait été décidée; (2) que la décision judiciaire invoquée comme étant la fin de non‑recevoir soit finale; et, (3) que les parties dans la décision judiciaire invoquée, ou leurs ayants droit, soient les mêmes que les parties engagées dans l’affaire où la fin de non‑recevoir est soulevée, ou leurs ayants droit.
+[30] Le juge Dickson s’est reporté à l’arrêt Spens v. I.R.C.[13], pour imposer une quatrième condition d’application de la doctrine :
+[traduction] [...] si la décision sur laquelle on cherche à fonder la fin de non‑recevoir a été « si fondamentale » à la décision rendue sur le fond même du litige que celle‑ci ne peut valoir sans celle‑là. Rien de moins ne suffira.
+[31] Comme il en a ci‑dessus été fait mention, lorsque la question de la préclusion fondée sur la cause d’action est examinée en l’espèce, il est clair que la décision judiciaire antérieure était définitive et que les parties au litige antérieur sont celles qui sont ici en cause.
+[32] Il convient de faire certaines remarques au sujet de la question de savoir si les mêmes questions ont déjà été tranchées dans le litige antérieur. Dans le présent appel, l’appelant cherche à soulever de nouvelles questions qu’il n’a pas soulevées dans l’instance dont était saisi le juge en chef Garon. Cela semble indiquer que la préclusion découlant d’une question déjà tranchée n’empêcherait pas maintenant l’appelant d’aborder ces questions dans la présente instance. Toutefois, plusieurs tribunaux canadiens ont appliqué le principe voulant qu’une question qui aurait pu ou aurait dû être soulevée ne puisse pas être invoquée de nouveau à la préclusion découlant d’une question déjà tranchée ainsi qu’à la préclusion fondée sur la cause d’action. De fait, c’est ce que la Cour d’appel fédérale a fait dans l’arrêt Apotex Inc. c. Merck & Co. (C.A.)[14]. La position en common law continuera peut‑être à évoluer sur ce point. La décision, dans l’affaire Apotex, a été rendue par la Cour suprême du Canada et fait fortement autorité. Le principe susmentionné s’applique à la préclusion découlant d’une question déjà tranchée de manière à empêcher que de nouvelles questions qui auraient dû être soulevées dans le litige antérieur soient maintenant soulevées.
+[33] Dans l’arrêt Danyluk c. Ainsworth Technologies Inc.[15], la Cour suprême du Canada a fermement établi que l’application de la préclusion découlant d’une question déjà tranchée, lorsque les conditions applicables à cette doctrine sont réunies, est assujettie au pouvoir discrétionnaire judiciaire. Il semble qu’il en soit de même pour ce qui est de la préclusion fondée sur la cause d’action[16].
+[34] Dans l’arrêt Danyluk, précité, la Cour suprême du Canada s’est fondée sur la décision qu’elle avait rendue dans l’affaire General Motors du Canada Ltée c. Naken[17], pour énoncer la thèse voulant que le pouvoir discrétionnaire judiciaire soit limité dans son application lorsqu’une décision antérieure rendue par un tribunal est examinée. En l’espèce, le pouvoir discrétionnaire devrait s’appliquer d’une façon fort limitée.
+[35] L’appelant cherche à se fonder sur la décision Withler v. Canada (Attorney General)[18] à l’appui de la thèse voulant que la partie qui cherche à invoquer la doctrine de la chose jugée ait la charge d’établir qu’il ne convient pas d’exercer le pouvoir discrétionnaire judiciaire. À mon avis, cette interprétation de la décision Withler est erronée, et la décision Gebreselassie v. VCR Active Media Ltd.[19] la contredit. Il incombe à l’appelant d’établir qu’il convient de limiter ce pouvoir discrétionnaire dans son application.
+[36] L’appelant cite la décision Withler à l’appui de la thèse voulant que la doctrine de la chose jugée ne doive pas s’appliquer si elle donne lieu à une injustice grave. J’accepte ce point de vue. L’appelant a sans aucun doute personnellement subi de graves conséquences par suite du litige antérieur, notamment une faillite personnelle. Toutefois, ces conséquences ne peuvent pas être assimilées à une grave injustice. Il ne s’agit pas ici d’un cas où l’appelant a été victime d’un manquement au principe de l’application régulière de la loi, malgré les arguments contraires qu’il a invoqués. L’appelant n’a pas attiré l’attention de la Cour sur quelque élément de preuve que ce soit indiquant que l’application de la doctrine de la chose jugée donnerait lieu à une grave injustice, et je n’exercerai donc pas mon pouvoir discrétionnaire en faveur de l’appelant.
+[37] Étant donné que la préclusion fondée sur la cause d’action ou la préclusion découlant d’une question déjà tranchée s’applique pour empêcher une remise en cause dans la présente affaire, on me demande de décider s’il existe des circonstances exceptionnelles permettant de suspendre l’application de ces doctrines. L’application de circonstances exceptionnelles découle également de l’arrêt rendu dans l’affaire Henderson, précitée.
+[38] Aux dires de l’appelant, il existe de nouveaux éléments de preuve, à savoir une décision de la Cour supérieure de l’Ontario rendue sur consentement, justifiant une nouvelle audition de la présente affaire. En ce qui concerne les nouveaux éléments de preuve, Donald J. Lange, dans l’ouvrage intitulé The Doctrine of Res Judicata in Canada[20], résume bien la circonstance exceptionnelle que représente un nouvel élément de preuve :
+[traduction] [...] Lorsque la fraude n’est pas en cause, la position en common law, pour ce qui est de la nouvelle preuve, est fort claire. Pour qu’une nouvelle preuve empêche l’application de la préclusion découlant d’une question déjà tranchée ou de la préclusion fondée sur la cause d’action résultant d’un jugement qui a été enregistré, la nouvelle preuve doit être presque concluante. La nature incontestable de la nouvelle preuve est au cœur du critère. Il doit être presque impossible de contredire cette nouvelle preuve. [Note de bas de page omise.]
+[39] La justification sous‑tendant l’application restreinte de la circonstance exceptionnelle représentée par une nouvelle preuve a été énoncée dans l’arrêt Phosphate Sewage Co. v. Molleson[21], que la Cour suprême a cité en l’approuvant dans l’arrêt Grandview c. Doering[22], précité :
+[traduction] Selon mon interprétation du droit sur la doctrine de la chose jugée, elle ne permet pas, et le contraire serait inadmissible, qu’une partie qui n’a pas eu gain de cause au cours d’un procès puisse relancer le litige en affirmant simplement que depuis la fin du procès antérieur elle a découvert un autre fait qui concorde exactement avec ceux avancés précédemment et qui ne modifie en rien le redressement demandé antérieurement, mais qui, ajouté aux autres faits mentionnés, permettrait d’intenter une nouvelle action fondée sur ce fait nouveau. Vos Seigneuries, cela n’est possible que si la partie en question est en mesure d’affirmer : je vais vous démontrer que ce fait modifie entièrement l’aspect du litige et je vais également vous démontrer que je ne le connaissais pas et qu’il m’était impossible, malgré l’exercice d’une diligence raisonnable, de connaître l’existence de ce fait plus tôt. Je ne m’arrête pas à examiner si le fait présentement allégué, advenant qu’il soit conforme à la description contenue dans l’expression res noviter veniens in notitiam, aurait pu modifier tout l’aspect du litige. Qu’il me soit permis d’en douter. Ce fait m’apparaît comme n’étant rien de plus qu’un ingrédient additionnel qui, seul, n’aurait pu justifier un redressement auquel les parties, en d’autres circonstances, n’auraient pas eu droit.
+[40] La détermination par le ministère des Finances de l’Ontario de la résidence provinciale de l’appelant n’est pas le genre de preuve concluante qui déclenchera la réparation recherchée. Il en va de même pour le jugement rendu par le juge Lalonde, étant donné, entre autre choses, qu’il s’agissait d’un jugement rendu sur consentement en vertu d’une loi provinciale. Rien ne permet d’appliquer les circonstances exceptionnelles en l’espèce.
+Les intérêts
+[41] En ce qui concerne l’alinéa k) du paragraphe 170 de l’avis d’appel modifié de 2007, soit une disposition que l’intimée cherche à faire radier, l’appelant soulève la question suivante :
+[traduction] Le ministre a‑t‑il calculé d’une façon inexacte les rajustements se rapportant aux intérêts et au remboursement pour les nouvelles cotisations concernant les années 1993, 1994 et 1995 et ou les a‑t‑il appliqués en violation de l’article 68 de la Loi sur la faillite et sur l’insolvabilité?
+[42] Aux dires de l’intimée, l’alinéa 170k) de l’avis d’appel modifié de 2007 doit être radié pour défaut de compétence. L’alinéa 170k) semble comporter deux questions touchant les intérêts. La seconde partie de l’alinéa vise à contester l’application d’un remboursement; il s’agit d’une question de recouvrement dont je ne suis pas ici saisi. Toutefois, dans la première partie de l’alinéa 170k), il est allégué que le ministre a calculé d’une façon inexacte les intérêts sur l’obligation fiscale. Cette partie ne devrait pas être radiée. Les avis concernant les nouvelles cotisations de 2006 indiquent de fait les intérêts courus sur l’impôt fédéral impayé. Étant donné que de nouveaux montants sont calculés et établis au titre des intérêts, l’appelant devrait être autorisé à contester le calcul des intérêts effectué par le ministre. En outre, il ne s’agit pas du genre de question qu’il aurait été raisonnable de soulever dans un litige antérieur, de façon à donner lieu à l’application de la doctrine de la chose jugée.
+[43] Par conséquent, toutes les allégations de fait, tous les arguments et toutes les autres dispositions de l’avis d’appel modifié de 2007 sont radiés, sauf les dispositions se rapportant uniquement et directement à la question du calcul des intérêts, aux dispositions législatives sur lesquelles l’appelant se fonde en soulevant la question des intérêts, aux moyens que l’appelant a l’intention de soumettre à l’appui de la question des intérêts et à la réparation que l’appelant sollicite à l’égard de la question des intérêts. En fait, toutes les dispositions se rapportant à des questions autres que les intérêts, dans l’avis d’appel modifié de 2007, sont radiées.
+[44] Le maintien de l’avis d’appel modifié existant causera peut‑être de la confusion pour tous les intéressés puisque presque toutes ses dispositions sont radiées. Par conséquent, l’appelant déposera un avis d’appel modifié de nouveau dans lequel sera uniquement soulevée la question du calcul des intérêts dont il veut faire appel, cet avis d’appel modifié de nouveau devant être déposé dans les 90 jours qui suivront la date de la présente ordonnance. L’intimée disposera d’un délai de 60 jours à compter de la réception de l’avis d’appel modifié de nouveau pour déposer une réponse à cet avis d’appel modifié de nouveau. Les dépens de la présente demande seront adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2008.
+« Gerald J. Rip »
+Gerald J. Rip, juge en chef
+Traduction certifiée conforme
+ce 12e jour de septembre 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI441
+No DU DOSSIER DE LA COUR : 2007-4938(IT)G
+INTITULÉ : Neil McFadyen
+et
+La Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 8 mai 2008
+MOTIFS DE L’ORDONNANCE : L’honorable Gerald J. Rip, juge en chef
+DATE DE L’ORDONNANCE : Le 31 juillet 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2000] 4 C.T.C. 2573, 2000 DTC 2473.
+[2] 2002 CAF 496, 2003 DTC 5015, [2003] 2 C.T.C. 28.
+[3] Voir les paragraphes 10, 11 et 12 des présents motifs pour une description de documents se rapportant à diverses questions ayant donné lieu à la présente demande.
+[4] Dans un autre avis de nouvelle cotisation concernant l’année 1995, également délivré le 16 décembre 1996, un montant néant était indiqué au titre de l’impôt fédéral et de l’impôt provincial.
+[5] [1946] C.T.C. 169 (C. de l’É.), page 198.
+[6] [1975] 2 R.C.S. 248, page 254.
+[7] Voir également les remarques incidentes dans Arnold v. NatWest Bank Plc., [1991] 2 A.C. 93 (C.L.) (Angl.), pages 104 et 105.
+[8] (1843) 3 Hare 100, Vol. LXVII, recueils anglais (contenant Hare, vol. 2 à 6) 313.
+[9] Voir Donald J. Lange, The Doctrine of Res Judicata in Canada, 2e éd. (Markham : LexisNexis Canada Inc., 2004), page 127.
+[10] Je remarque que dans d’autres décisions, la Cour canadienne de l’impôt a utilisé le principe de la chose jugée pour empêcher un appelant de soumettre de nouveaux arguments en vue de mettre en question une cotisation qui avait déjà été contestée. Voir, par exemple, Modlivco Inc. v. Canada, [1995] 2 C.T.C. 2880 (C.C.I.) et Ahmad v. R., [2004] 2 C.T.C. 2766 (C.C.I. [procédure informelle]).
+[11] (1987), 38 D.L.R. (4th) 32 (B.R. Man.), confirmé (1987), 45 D.L.R. (4th) 766 (C.A. Man.).
+[12] [1967] 1 A.C. 853, page 935.
+[13] [1970] 3 All. E.R. 295, page 301.
+[14] [2003] 1 C.F. 242.
+[15] [2001] 2 R.C.S. 460, page 481.
+[16] Dans l’arrêt Toronto (City) v. Canadian Union of Public Employees, Local 79 (2001), 55 O.R. (3d) 541 (C.A.), la Cour d’appel de l’Ontario a dit que l’application souple préconisée dans l’arrêt Danyluk, précité, s’applique également à la préclusion fondée sur la cause d’action. En statuant sur l’appel fondé sur l’abus de procédure pour remise en cause, la Cour suprême du Canada a laissé telles quelles les remarques que la Cour d’appel de l’Ontario avait faites au sujet de la chose jugée.
+[17] [1983] 1 R.C.S. 72, page 101.
+[18] (2002), 3 B.C.L.R. (4th) 365 (C.S.).
+[19] [2007] O.J. No. 4165 (C.S.J. Ont.).
+[20] 2e éd. (Markham : LexisNexis Canada Inc., 2004), pages 264 et 265.
+[21] (1879), 4 App. Cas. 801 (C.L.).
+[22] [1976] 2 R.C.S. 621, page 636.

@@ -1,0 +1,145 @@
+Title: Julien c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27002/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-388-27002-julien-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-06-04
+
+# Julien c. La Reine
+
+- Citation: 2003 CCI 388
+- Decision date: 2003-06-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 547, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Julien c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-04
+Référence neutre
+2003 CCI 388
+Numéro de dossier
+2002-1762(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1762(IT)I
+ENTRE :
+SONYA JULIEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 28 mai 2003 et jugement rendu séance tenante
+à Rouyn-Noranda (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocate de l'appelante :
+Me Sylvie Roy
+Avocat de l'intimée :
+Me Yanick Houle
+____________________________________________________________________
+JUGEMENT
+L'appel de la détermination de la prestation fiscale canadienne pour enfants à l'égard de l'enfant Gabriel Milhomme-Julien, pour la période de mai 1999 à mai 2001, est accordé, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada ce 4e jour de juin 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+Référence : 2003CCI388
+Date : 20030604
+Dossier : 2002-1762(IT)I
+ENTRE :
+SONYA JULIEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx, C.C.I.
+[1] Il s'agit d'un appel, par voie de la procédure informelle, concernant la prestation fiscale canadienne pour enfants pour la période de mai 1999 à mai 2001.
+[2] La question en litige est de savoir si l'appelante était pour cette période le particulier admissible à l'égard de l'enfant Gabriel Milhomme-Julien conformément à la définition de cette expression à l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[3] Par nouvelle détermination le ministre du Revenu national (le « Ministre » ) a révisé à néant la prestation fiscale de l'appelante et a établi le paiement en trop au montant de 4 432,67 $.
+[4] Pour établir sa nouvelle détermination, le Ministre s'est appuyé sur les faits décrits à l'article 6 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+a) l'appelante est la tante du jeune Gabriel Milhomme-Julien, né le 11 janvier 1998;
+b) les parents du jeune Gabriel sont madame Sindy Milhomme et monsieur Sacha Julien;
+c) monsieur Sacha Julien est le frère de l'appelante;
+d) l'appelante a déposé au mois de mars 2000 une demande de prestation fiscale canadienne pour enfants à l'égard du jeune Gabriel;
+e) le 20 septembre 2000, le Ministre, n'ayant reçu aucune réponse à un questionnaire envoyé à madame Sindy Milhomme, décida de considérer l'appelante comme étant le particulier admissible du jeune Gabriel et procéda à l'émission de nouvelles déterminations de prestation fiscale canadienne pour enfants, à l'égard des années de base 1997, 1998 et 1999 pour les périodes respectives suivantes :
+i) le mois de mai et le mois de juin 1999,
+ii) du mois de juillet 1999 au mois de juin 2000,
+iii) du mois de juillet au mois de septembre 2000;
+f) suite au dépôt, au mois de mars 2001, par madame Sindy Milhomme d'une demande de prestation fiscale canadienne pour enfants, à l'égard du jeune Gabriel, le Ministre reprit l'étude du dossier;
+g) en réponse au questionnaire que le Ministre lui a fait parvenir vers le 9 avril 2001, la mère de Gabriel, madame Sindy Milhomme a déclaré ce qui suit :
+i) de la naissance de l'enfant Gabriel jusqu'au mois d'avril 1999, le couple faisait vie commune et s'occupait de l'enfant;
+ii) du mois de mai 1999 jusqu'au mois d'août 2000, le couple étant séparé, l'enfant était principalement avec la mère, le père prenant l'enfant une fin de semaine sur deux;
+iii) suite à un déménagement de la mère dans la province voisine (Ontario) au mois de septembre 2000, le père prenait sous sa garde l'enfant une semaine par mois jusqu'au début du mois de novembre 2000, le reste du temps, l'enfant était sous la garde de la mère,
+iv) du 5 novembre 2000 jusqu'au 8 décembre 2000, l'enfant fut confié à son père, la mère étant hospitalisée;
+v) à partir du 14 décembre 2000, il y eût entente de garde partagée entre la mère, le père et l'appelante, c'est-à-dire que lorsque le père exerçait sa période de garde, l'enfant habitait chez l'appelante;
+h) suite à cette nouvelle étude, le Ministre a considéré la mère, madame Sindy Milhomme, comme étant le particulier admissible de l'enfant Gabriel en se fondant sur le fait que l'appelant était majoritairement avec elle et que l'appelante agissait plutôt à titre de gardienne pendant les périodes de garde de son frère.
+[5] L'Avis d'appel mentionne notamment ceci :
+...
+Notre cliente, madame Sonya Julien, a vu à l'éducation de l'enfant Gabriel depuis la naissance de celui-ci. L'enfant lui a été confié pendant de très longues périodes par les parents et ce n'est que lorsque notre cliente a entrepris les démarches en vue d'obtenir les allocations familiales et prestations fiscales pour enfants et la garde légale de l'enfant Gabriel que la mère Sindy Milhomme s'est alors manifestée et a désiré vouloir reprendre la garde de l'enfant Gabriel.
+Notre cliente a vu à assumer tous les frais de l'enfant, tels que l'achat des vêtements, les activités, les soins de santé et toutes les autres dépenses afférentes à l'enfant, le tout tel qu'il sera plus amplement démontré.
+...
+[6] Les témoins pour la partie appelante ont été mesdames Sarah Julien et Claudette Labrecque, l'appelante elle-même, mesdames Joan-Marie Bédard, Anne-Marie Allard et Annie Barrette. Pour la partie intimée, les témoins ont été monsieur Sacha Julien, mesdames Sindy Milhomme et Carole Tourangeau.
+[7] Madame Sarah Julien est la soeur aînée de l'appelante. Elle a expliqué que la mère de l'enfant était jeune à la naissance de l'enfant Gabriel. La preuve a révélé par la suite qu'elle avait 17 ans. Au début dans le but de l'aider, la grand-mère, madame Anne-Marie Allard et la tante, l'appelante, gardaient souvent le bébé. Selon le témoin, on peut dire qu'au début c'était les parents qui en assumaient le soin bien que très souvent il était gardé par sa soeur et sa mère. Par la suite, dès avril 1998, quelques trois ou quatre mois après la naissance de Gabriel, c'était pendant plusieurs jours consécutifs qu'il habitait avec elles. Puis ces jours consécutifs sont devenus plutôt la permanence, les parents ne prenant plus l'enfant avec eux que de manière sporadique.
+[8] C'était l'appelante qui achetait tout ce qui était nécessaire aux soins de l'enfant dont les couches et le lait. Elle a acheté aussi au fur et à mesure l'équipement et les vêtements dont un enfant a besoin.
+[9] Le souvenir que la soeur de l'appelante a de cette époque est que l'enfant Gabriel était toujours là quand elle allait visiter sa soeur et sa mère dans l'appartement situé dans le quartier McWatters.
+[10] Le prochain témoin fut madame Claudette Labrecque. Elle est la propriétaire de l'immeuble locatif de McWatters où l'appelante et sa mère habitaient le sous-sol. Le témoin habitait une maison contiguë à celle de l'appelante. Elle a confirmé que Gabriel semblait être chez lui et non en visite pour se faire garder.
+[11] Lors de son propre témoignage, l'appelante a repris les faits décrits par sa soeur. Au début, elle et sa mère se sont occupées de l'enfant pour aider les parents. Cette situation est devenue rapidement que l'enfant était toujours avec elles. La mère de l'enfant a continué de se manifester mais pour un ou deux jours par semaine.
+[12] En 1998, l'appelante avait 21 ans et habitait avec sa mère. Toutes les deux ont déménagé à McWatters en 1998. L'enfant Gabriel était déjà si souvent avec elles qu'elles se sont questionnées à savoir si elle ne devait pas prendre un appartement de cinq pièces et demie. Elles ont décidé que non. Par la suite quand elles ont déménagé à nouveau dans le quartier Granada en 2000, elles ont pris un appartement de cinq pièces et demie car Gabriel faisait partie de la famille. Il y avait sa chambre. Des photos ont été déposées comme pièce A-1. On y voit que l'enfant fait vraiment partie de l'environnement familial. Ce sont des photos actuelles. Une photo a été présentée comme pièce A-2 où l'on voit l'enfant Gabriel et l'appelante déguisés en clowns prêts à aller passer l'halloween il y a quelques années.
+[13] En novembre 2000, l'appelante a demandé la garde légale de l'enfant. Il y a eu quelques actions en cour mais le 28 novembre 2001, l'appelante a obtenu la garde légale de l'enfant Gabriel. Le jugement de la Cour supérieure la lui accordant a été déposé comme pièce A-3. La partie demanderesse était Syndy Milhomme et la partie défenderesse était monsieur Sacha Julien et Sonya Julien, l'appelante.
+[14] Madame Joan-Marie Bédard est une amie de l'appelante depuis 1993. Elle a donc vu son amie s'occuper comme une mère de l'enfant qui était un enfant heureux. Elle savait exercer la discipline nécessaire et l'enfant s'y conformait.
+[15] Madame Anne-Marie Allard est la grand-mère de l'enfant. Elle a affirmé que depuis qu'il a trois mois, Gabriel habite avec elle et sa fille. Il a continué à voir ses parents sur la base d'un jour ou deux par semaine. Il a maintenant cinq ans et il habite toujours avec elles.
+[16] Madame Annie Barrette connaît l'appelante depuis janvier 1995. Elle a confirmé les faits déjà décrits.
+[17] Monsieur Sacha Julien a témoigné à la demande de l'avocat de l'intimée. Il est le père de l'enfant. Il n'a pas confirmé les présomptions de fait du Ministre énoncées à la Réponse. Il a affirmé qu'à partir de juin 1998, c'est Sonya, l'appelante, et sa mère qui se sont occupées principalement de l'enfant Gabriel. Il a expliqué que lui et la mère de l'enfant ont continué de voir Gabriel mais plutôt comme des gardiens, sans tenir le rôle principal de la charge et des soins. Il a nié que certains documents apparemment signés par lui et paraissant à l'onglet 3 de la pièce I-1 portaient sa véritable signature.
+[18] Madame Syndy Milhomme, la mère de l'enfant a témoigné. Son témoignage a été une version contraire à celle des témoins précédents en ce qui concerne le rôle de parent auprès de l'enfant Gabriel. Elle a affirmé que c'était elle qui avait le rôle principal et que l'appelante était une gardienne. D'ailleurs ce n'est pas à cette dernière à qui elle avait confié Gabriel, mais à la grand-mère de l'enfant, madame Allard. En ce qui concerne les différents lieux habités, les versions des témoins concordaient.
+[19] Madame Carole Tourangeau, une amie de madame Milhomme a relaté que d'octobre à décembre 1999, elle habitait avec madame Milhomme. L'enfant habitait avec elles et le père de l'enfant venait régulièrement les voir.
+[20] Au moment des plaidoiries, l'avocat de l'intimée a laissé le tout à l'appréciation de la Cour.
+[21] J'ai accordé l'appel de l'appelante en me fondant sur le jugement de la Cour supérieure du Québec produit comme pièce A-3 et sur la crédibilité des témoins.
+[22] En effet, le jugement de la Cour supérieure en date du 28 novembre 2001 accorde la garde légale de l'enfant Gabriel à madame Sonya Julien. Ce jugement a pris en compte les rapports des experts et le témoignage des témoins. Un tel jugement où les parties sont d'une part la mère biologique et d'autre part le père de l'enfant et sa soeur, qui, elle, affirme exercer le rôle parental, ne peut se fonder sur des faits récents. Nécessairement, il s'agit d'un état des faits qui s'est développé longtemps avant la décision.
+[23] Ce jugement mentionne des rapports d'expert. Il aurait été intéressant de les consulter car on peut penser qu'ils décrivent la situation entre les parties. De toute façon en conclusion ce jugement accordait la garde légale à l'appelante.
+[24] Madame Syndy Milhomme, en tant que mère biologique, pouvait croire que son rôle était le rôle principal, car elle pouvait à tout moment réclamer et exiger la présence de son enfant. Ce qu'elle faisait à l'occasion. Elle a au cours de ces années gardé contact avec son fils et le père de son fils. Il semblerait même qu'elle l'ait eu avec elle pour certaines périodes mais jamais pour des périodes prolongées. Elle a mentionné que c'était à la grand-mère et non à la tante qu'elle avait confié son enfant. Je crois, si je peux me permettre d'exprimer mon avis à ce sujet, que la garde de l'enfant aurait été impossible s'il n'y avait eu la participation active de la tante.
+[25] En conclusion, je suis d'avis que la preuve a clairement révélé que la tante de l'enfant était pour la période en question la personne qui a assumé principalement la responsabilité pour le soin et l'éducation de l'enfant Gabriel et que ce dernier résidait avec elle.
+[26] L'appel est accordé avec frais.
+Signé à Ottawa, Canada ce 4e jour de juin 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI388
+No DU DOSSIER DE LA COUR :
+2002-1762(IT)I
+INTITULÉ DE LA CAUSE :
+Sonya Julien et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Rouyn-Noranda (Québec)
+DATE DE L'AUDIENCE :
+le 28 mai 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 4 juin 2003
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Sylvie Roy
+Avocat de l'intimée :
+Me Yanick Houle
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Sylvie Roy
+Étude :
+Lapointe Bédard Roy
+Avocats et conseillers juridiques
+Rouyn-Noranda (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,197 @@
+Title: Barrette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26458/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-437-26458-barrette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-06-15
+
+# Barrette c. La Reine
+
+- Citation: 2004 CCI 437
+- Decision date: 2004-06-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3143, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barrette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-15
+Référence neutre
+2004 CCI 437
+Numéro de dossier
+2002-4491(IT)I, 2002-4615(IT)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI437
+Date : 20030615
+Dossiers : 2002-4491(IT)I
+2002-4615(IT)I
+ENTRE :
+GÉRARD BARRETTE,
+DOMINIQUE BÉRARD,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le 20 août 2003 à Montréal (Québec)
+et modifiés pour plus de clarté.)
+Le juge Archambault
+[1] Messieurs Dominique Bérard et Gérard Barrette interjettent appel des cotisations établies par le ministre du Revenu national (ministre) à l'égard de l'année d'imposition 1998. Le ministre leur a refusé la déduction de pertes déductibles au titre d'un placement d'entreprise au sens de l'alinéa 38c) de la Loi de l'impôt sur le revenu (Loi). Le montant de la déduction refusée s'élève à 51 344 $ (75 % d'une perte de 68 459 $) dans le cas de monsieur Bérard et à 42 098 $ (75 % de 56 131 $) dans celui de monsieur Barrette. Les pertes ont été subies sur des placements dans Groupe Immobilier Diese inc. (Diese).
+[2] Le ministre a refusé les déductions parce qu'il considérait les pertes en question comme des pertes en capital étant donné que Diese n'était pas une « société exploitant une petite entreprise » au sens du paragraphe 248(1) de la Loi. Le ministre soutient que Diese exploitait plutôt une « entreprise de placement determinée », selon la définition au paragraphe 125(7) de la Loi. Tous ses revenus étaient tirés de biens et elle n'employait pas, tout au long de l'année d'imposition pertinente, plus de cinq employés à plein temps. Quant à eux, les appelants prétendent que Diese était une société exploitant une petite entreprise parce que son entreprise consistait dans l'achat et la vente d'immeubles.
+[3] Au début de l'audience, les appelants ont admis tous les faits énoncés dans les réponses à l'avis d'appel préparées par l'intimée, sauf l'alinéa 4 i) de la réponse concernant monsieur Barrette. Je reproduis ici chacun des alinéas des paragraphes pertinents des réponses à l'avis d'appel. Voici d'abord les alinéas en question tirés de la réponse concernant monsieur Bérard :
+a) Au cours de l'année en litige, l'appelant était actionnaire de la société Groupe Immobilier Diese Inc. (la « société »);
+b) Cette société a été constituée le 13 avril 1989;
+c) Le seul actif de cette société consistait en un immeuble commercial situé au 2131 rue Sainte‑Hélène dans la municipalité de Longueuil;
+d) Cet immeuble a été acquis par la société le 13 juillet 1989 pour la somme de 258 000 $;
+e) Les seuls revenus de la société consistaient en des revenus de location;
+f) Personne n'était à l'emploi de la société;
+g) La société n'était associée à aucune autre société;
+h) La société a déclaré faillite le 3 février 1999;
+i) Entre 1989 et 1998, l'appelant a investi un total de 68 459 $ dans cette entreprise.
+Et voici ceux tirés de la réponse concernant monsieur Barrette :
+a) Au cours de l'année en litige, l'appelant était actionnaire de la société Groupe Immobilier Diese Inc. (la « société »);
+b) Cette société a été constituée le 13 avril 1989;
+c) Le seul actif de cette société consistait en un immeuble commercial situé au 2131 rue Sainte‑Hélène dans la municipalité de Longueuil;
+d) Cet immeuble a été acquis par la société le 13 juillet 1989 pour la somme de 258 000 $;
+e) Les seuls revenus de la société consistaient en des revenus de location;
+f) Personne n'était à l'emploi de la société;
+g) La société n'était associée à aucune autre société;
+h) La société a déclaré faillite le 3 février 1999;
+i) Entre 1989 et 1998, l'appelant a investi un total de 39 605 $ dans la société.
+Faits
+[4] L'intimée a produit les déclarations de revenus de Diese pour les années d'imposition 1992 à 1997; dans chacune des déclarations il est indiqué que l'activité principale de cette société est la location d'immeubles. L'immeuble détenu par Diese est traité comme une immobilisation dans ces déclarations et les états financiers qui y sont joints. De plus, des déductions pour amortissement totalisant 25 514 $ ont été faites pour la période de 1992 à 1994.
+[5] L'analyse de ces déclarations de revenus et de ces états financiers révèle que Diese a subi une perte fiscale et comptable pour chacune des années de 1991[1] à 1997. Les pertes comptables sont les suivantes :
+1991
+23 589 $
+1992
+18 537 $
+1993
+13 386 $
+1994
+14 218 $
+1995
+9 857 $
+1996
+4 510 $
+1997
+1 035 $
+85 132 $
+[6] Les appelants ont relaté les circonstances dans lesquelles ils ont été amenés à investir dans cette société. La belle‑soeur de monsieur Barrette, Diane Beaudry, une courtière en immeubles résidentiels et commerciaux, a intéressé un groupe de quatre particuliers à investir dans cette société. C'est elle qui a trouvé l'immeuble que Diese a acquis et qui a négocié son achat. L'immeuble, situé sur la rue Sainte‑Hélène à Longueuil, était en bon état et ne nécessitait pas de travaux de rénovation, même si monsieur Bérard a reconnu qu'il n'avait pas été inspecté par des experts. Au moment de son achat, l'immeuble était occupé par trois locataires, soit une entreprise de réparation de téléviseurs et d’autres appareils électroniques, qui versait un loyer mensuel de 1 100 $, une école de karaté, qui versait un loyer de 700 $ par mois, et un organisme à but non lucratif, qui versait un loyer mensuel de 800 $.
+[7] La promesse d'achat de Diese a été acceptée par le vendeur le 10 avril 1989. Le prix convenu était de 258 000 $. L'acte d'achat a été signé devant un notaire le 12 juillet 1989. Une somme de 223 000 $ aurait alors été versée (en partie grâce à un emprunt hypothécaire) et le solde de 35 000 $ était payable un an plus tard, le 12 juillet 1990, et portait intérêt à 10 %.
+[8] Diese a été constituée trois jours après l'acceptation de la promesse d'achat, soit le 13 avril 1989. Les quatre actionnaires, qui détenaient chacun 25 % des actions de Diese, étaient, en plus des deux appelants, madame Beaudry et un monsieur Roussel. Les trois hommes étaient tous inspecteurs à la Régie du bâtiment. L'investissement initial de chacun des quatre actionnaires s'élevait à 3 000 $.
+[9] Diese a déposé auprès de l'Inspecteur général des institutions financières (IGIF) une déclaration financière en date du 6 juin 1989 signée par madame Beaudry. Cette dernière y décrit la nature des activités de Diese comme étant l'achat, la rénovation et la revente d'immeubles. Lors de son témoignage, monsieur Bérard a confirmé que l'intention de Diese et de ses actionnaires était de faire l'achat de l'immeuble de Longueuil et de le revendre à profit dans un délai d'un an. À la fin des années 1980, l'immobilier allait bien. C'était un marché assez animé. La valeur des immeubles était constamment à la hausse et, selon les dires de madame Beaudry, on pouvait s'attendre à une plus‑value de 15 000 $ à 20 000 $ sur cet immeuble. Monsieur Bérard a expliqué que les états financiers de Diese avaient été préparés par un comptable, un CGA, qui avait également rempli les déclarations de revenus de Diese. C'est lui qui a décrit l'activité principale de Diese comme la location d'immeubles.
+[10] Au cours de 1990, les actionnaires ont visité un autre immeuble que Diese envisageait d'acheter. Par contre, aucune offre n'a été faite au vendeur en raison des rénovations trop importantes qu'il aurait fallu faire à cet immeuble. Il ne s'agissait pas pour eux d'une opération attrayante.
+[11] Monsieur Bérard a décrit lors de son témoignage les problèmes relatifs à l'immeuble en cause et les tentatives infructueuses de Diese pour le vendre. Six mois après l'acquisition de l'immeuble en 1989, l'organisme à but non lucratif a abandonné son local et Diese n'a pu trouver, malgré tous ses efforts, un nouveau locataire avant 1995. De plus, madame Beaudry s'est trouvée en difficultés financières en 1990 et a même fait faillite. Elle n'a pas non plus été en mesure de payer sa part du solde dû au vendeur de l'immeuble. Selon monsieur Bérard, madame Beaudry a tenté de vendre l'immeuble à cette époque, mais sans succès. Les appelants ont dû assumer sa part de la dette et les trois actionnaires restants ont versé la somme de 35 000 $ exigible au mois de juillet 1990.
+[12] Une deuxième tentative de vendre l'immeuble a été faite le 25 janvier 1991. Le mandat a été confié à madame Verreault, une autre courtière en immeubles. C'était un mandat pour un an. Il s'agissait d'une inscription « MLS » et la commission à être versée était de 5 %. Le prix demandé pour l'immeuble s'élevait à 298 000 $. Selon l'inscription, le solde impayé de l'hypothèque s'élevait à 188 850 $, le taux d'intérêt était de 15 1/2 % et l'emprunt venait à échéance dans l'année.
+[13] Au cours des deux années qui ont suivi, l'école de karaté a changé de propriétaire et n'a versé son loyer qu'un mois sur deux.
+[14] L'immeuble a été inscrit auprès d'un nouveau courtier le 9 mars 1993. Le mandat de vente était valide jusqu'en septembre 1993. Le prix demandé a été réduit, d’abord à 240 000 $, et à nouveau, le 28 mars 1993, à 235 000 $. L'entente sur la commission a également été modifiée : la commission de 7 % sur le prix de vente que la venderesse s'était initialement engagée à verser a été remplacée par une commission forfaitaire de 10 000 $. Une commission de 7 % sur un prix de vente de 235 000 $ représente 16 450 $. Évidemment, si l'immeuble était vendu à un prix inférieur à 142 857 $, le pourcentage effectif deviendrait plus élevé que 7 %.
+[15] En juillet 1994, un mandat de location, valide jusqu'au mois de janvier 1995, a été confié à La Capitale. Diese s'est engagée à verser une commission de 5 % sur le loyer.
+[16] Au cours de l'année 1994 ou 1995, une infiltration d'eau a obligé Diese à remplacer le toit à un coût de 5 000 $ à 6 000 $.
+[17] Diese a réussi finalement à trouver un nouveau locataire en 1995 pour remplacer l'organisme à but non lucratif. Il s'agissait d'un bail d'un an qui ne serait, dans les faits, renouvelé qu'une seule fois. Compte tenu du marché difficile existant à cette époque, Diese n'a pu obtenir plus de 400 $ par mois, soit la moitié du loyer que l'organisme à but non lucratif lui avait payé. Selon monsieur Bérard, ce loyer valait mieux que rien. Pour faire signer ce bail, les actionnaires avaient dû aménager eux-mêmes le local en démolissant certains murs intérieurs et en le repeignant. Le coût des matériaux s'est élevé à environ 1 000 $.
+[18] Un nouveau mandat de location a été signé en février 1996 en faveur de La Capitale. Il était valide jusqu'au mois d'août 1996 et la commission s'élevait toujours à 5 %.
+[19] Selon monsieur Bérard, Diese a perdu ses trois locataires en 1997. Par la suite, on a tenté de changer la vocation commerciale de l'immeuble pour lui donner une vocation résidentielle. Toutefois, en raison des coûts élevés que cela comportait et du refus de la banque de financer les travaux nécessaires, le projet a été abandonné. Diese a fait faillite en février 1999. L'immeuble aurait été vendu pour un prix dérisoire.
+[20] Monsieur Barrette a reconnu qu'il n'était pas en mesure de justifier d'un chiffre de 56 131 $ pour son placement dans Diese, placement que le ministre a établi à 39 605 $.
+Analyse
+[21] La seule question en litige dans ces appels est de savoir si Diese était une « société exploitant une petite entreprise », et plus précisément, si son entreprise était une « entreprise exploitée activement » ou une « entreprise de placement déterminée ». L'expression « entreprise exploitée activement » est définie ainsi au paragraphe 248(1) de la Loi :
+« entreprise exploitée activement » Relativement à toute entreprise exploitée par un contribuable résidant au Canada, toute entreprise exploitée par le contribuable autre qu'une entreprise de placement déterminée ou une entreprise de prestation de services personnels.
+[22] Selon le même paragraphe, la définition d'une « entreprise de placement déterminée » se trouve au paragraphe 125(7) de la Loi, qui est ainsi rédigé :
+« entreprise de placement déterminée » Entreprise, sauf une entreprise exploitée par une caisse de crédit ou une entreprise de location de biens autres que des biens immeubles, dont le but principal est de tirer un revenu de biens, notamment des intérêts, des dividendes, des loyers et des redevances. Toutefois, sauf dans le cas où la société est une société à capital de risque de travailleurs visée par règlement au cours de l'année, l'entreprise exploitée par une société au cours d'une année d'imposition n'est pas une entreprise de placement déterminée si, selon le cas :
+a) la société emploie dans l'entreprise plus de cinq employés à plein temps tout au long de l'année;
+[...]
+[Je souligne.]
+[23] La position de l'intimée est essentiellement la suivante. Comme les seuls revenus déclarés par Diese étaient des revenus de loyers, il s'agissait d'une entreprise de placement déterminée. Il faut souligner de plus qu'il n'est pas indiqué dans la réponse de l'intimée aux avis d'appel que le ministre a tenu pour acquis que le but principal de Diese était de tirer un revenu de biens. Comme le « but principal » de tirer un revenu de biens constitue, à mon avis, un élément essentiel pour que l'on puisse conclure à l'existence d'une entreprise de placement déterminée et que cet élément n'a pas été tenu pour acquis par le ministre, j'ai informé au début de l'audience la procureure de l'intimée qu'elle avait la tâche de l'établir. J'ai eu à traiter de cette question dans l'affaire Stein c. Canada, [1996] A.C.I. no 685 (Q.L.), paragraphes 12 à 15, 96 DTC 1526, à la page 1529, où je fais un rappel des décisions importantes en matière de fardeau de la preuve. J’y cite notamment la décision M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184, à la page 5188, où le juge Cattanach de la Cour de l'Échiquier du Canada explique comment un contribuable doit faire pour contester avec succès une cotisation fiscale :
+[. . .]
+[TRADUCTION]
+Pour répondre à l'acte de procédure du ministre selon lequel ce dernier avait, en établissant la cotisation à l'égard de l'intimée, présumé les faits énoncés au paragraphe 6 de l'avis d'appel, l'intimée aurait pu :
+a) soit contester l'allégation du ministre selon laquelle il avait présumé ces faits,
+b) soit se charger de démontrer qu'une ou plus d'une hypothèse était erronée,
+c) soit soutenir que, même si les hypothèses étaient justifiées, en soi, elles n'étayent pas la cotisation.
+(Évidemment, au lieu de se fonder sur les faits qu'il avait constatés ou présumés en établissant à l'égard de l'intimée, le ministre aurait pu alléguer par son avis d'appel des faits complémentaires ou supplémentaires étayant ou aidant à étayer la cotisation. S'il avait allégué des faits complémentaires ou supplémentaires, il lui aurait vraisemblablement incombé de les établir [. . .]
+[Je souligne.]
+[24] J'ajoutais ce qui suit, au paragraphe 15 page (Q.L.), 1529 (DTC) :
+Plus récemment, la Cour d'appel fédérale a, dans l'arrêt Pollock v. the Queen, 94 DTC 6050, décrit le fardeau qui incombe au ministre de défendre sa cotisation lorsqu'un contribuable est parvenu à réfuter certaines des hypothèses du ministre. Le juge Hugessen disait à la page 6053 :
+Cependant, lorsque le ministre n'a plaidé aucune supposition or lorsque les suppositions qu'il a plaidées ont été en tout ou en partie démolies, il reste la possibilité au ministre, en tant que défendeur, de prouver, s'il le peut, le bien-fondé de la cotisation qu'il a établie. À cette fin, il doit supporter le fardeau de preuve qui incombe ordinairement à toute partie à un procès, soit celui de prouver les faits qui étayent sa prétention à moins que ceux-ci n'aient déjà été introduits en preuve par son adversaire.
+[Je souligne.]
+[25] Ici, la preuve principale, sinon la seule preuve, présentée par l'intimée, est que tous les revenus bruts déclarés par Diese ont été des loyers et que Diese avait indiqué dans ses déclarations de revenus que son activité principale était la location d'immeubles.
+[26] Lors de sa plaidoirie, la procureure de l'intimée a cité plusieurs décisions jurisprudentielles, notamment Boulanger c.R., 2002 CarswellNat 1556, 2002 DTC 2016, Prosperous Investments Ltd c. Canada, [1992] A.C.I. no 6 (Q.L.), Rogers c. Canada, [1997] A.C.I no 2 (Q.L.), Mayon Investments Inc. c. Canada, [1990] A.C.I. no 1121 (Q.L.), Canadian Marconi c. Canada, [1986] 2 R.C.S. 522, [1986] A.C.S. no 66 (Q.L.), Lee c. Canada, [1999] A.C.I. no 249 (Q.L.), Martel c. Canada, [2002] A.C.I. no 302 (Q.L.), et finalement, Gascoigne c. Canada, [1996] A.C.I. no 24 (Q.L.).
+[27] Pour résoudre le litige soulevé par ces appels, il faut revenir, selon moi, au texte même du paragraphe 125(7) de la Loi (reproduit plus haut), qui définit une entreprise de placement déterminée. Les mots clés de cette définition sont « dont le but principal est de tirer un revenu de biens ». Je souligne que le texte ne dit pas qu'une entreprise de placement déterminée est une entreprise dont les revenus proviennent majoritairement de biens ou sont en grande majorité ou principalement tirés de biens.
+[28] Il est donc important de déterminer le but principal, qui, évidemment, dépend de l'intention véritable du contribuable. Parmi les décisions citées par la procureure de l'intimée, il y a Prosperous Investments (précitée) dans laquelle mon collègue le juge Bowman, maintenant juge en chef adjoint, s'est penché sur cette question. Il y tient les propos suivants :
+En déterminant le « but principal » d'une entreprise exploitée par une corporation, l'objectif déclaré de la personne qui l'exploite n'est pas nécessairement le seul ni même le plus important critère. Sont d'importance cruciale ce que la corporation fait effectivement et ce qui constitue ses sources de revenu.
+[29] Il est important de rappeler les faits de cette décision tels qu'ils sont rapportés par le juge Bell dans la décision Rogers (précitée) au paragraphe 14 :
+Le juge Bowman a entrepris d'analyser les états financiers du contribuable, états dans lesquels il a remarqué que les créances hypothécaires et les éléments locatifs représentaient bien plus que cinquante pour cent de la valeur des actifs de la compagnie. En outre, la partie principale des revenus du contribuable provenait de loyers et d'intérêts, et la part prépondérante des capitaux de la corporation était affectée à des biens locatifs et à des prêts hypothécaires.
+[30] Selon moi, les propos du juge Bowman font appel essentiellement aux mêmes principes que ceux appliqués dans la jurisprudence lorsqu'il s'agit de déterminer si un bien constitue un bien en immobilisation ou un bien faisant partie du stock pour décider si le gain résultant de la vente de ce bien représente un gain en capital ou un gain d'entreprise. Il n'y a pas de doute que l'intention d'un contribuable est importante dans la détermination de la nature d'un bien mais, bien évidemment, les tribunaux ne peuvent rendre leurs décisions uniquement sur la foi des déclarations du contribuable. La jurisprudence a élaboré des indices pour vérifier la crédibilité d'un contribuable et déterminer le caractère plausible de déclarations d'intention faites subséquemment à l'acquisition du bien.
+[31] Parmi ces indices, sans en faire une liste exhaustive, il y a la nature du bien, la durée de sa possession, les circonstances entourant la vente du bien et la profession qu'exerce le contribuable. Si le bien est un immeuble locatif qui génère des revenus de location, cela pourra être l'indice d'une immobilisation, alors que l'achat d'un grand nombre de voitures ou d'une quantité importante de savon sera l'indice de biens faisant partie du stock. D'autre part, si le contribuable qui fait l'achat d'un immeuble est un courtier en immeubles, il s'agit là certainement d'un indice que c'est un bien qui pourrait constituer un élément du stock.
+[32] Compte tenu des principes pertinents en matière d'interprétation de la Loi et compte tenu des faits pertinents de cette affaire, il faut conclure ici que l'intimée ne s'est pas acquittée de sa tâche d'établir que le but principal de Diese était de tirer un revenu de loyers. Au contraire, les appelants ont établi que le but principal poursuivi par Diese était de spéculer sur les immeubles. Les faits qui appuient la conclusion que l'immeuble de la rue Sainte‑Hélène à Longueuil a été acquis dans le cadre d'une entreprise d'achat et de vente d'immeubles sont les suivants. Diese a acheté son immeuble dans le but de le revendre rapidement à profit. De plus, lorsqu'un immeuble est détenu par une société, les tribunaux ont tendance à conclure plus facilement que l'activité d'une telle société constitue une « entreprise exploitée » plutôt qu'un simple « projet comportant un risque » ou « une affaire de caractère commercial ». Il faut rappeler également que Diese avait fait des démarches pour acquérir un deuxième immeuble.
+[33] À mon avis, il est clair que les deux appelants ont été entraînés dans un projet de nature commerciale comportant un risque par une courtière en immeubles, la belle-soeur de monsieur Barrette. Cette personne avait, en raison de sa profession et de son expérience, les connaissances voulues pour spéculer sur des immeubles. Compte tenu de leur expérience professionnelle d'inspecteurs en bâtiment, les appelants n'avaient ni les connaissances pour spéculer, ni celles non plus — faut‑il l'ajouter — pour faire de la location commerciale. Ils se sont fiés à madame Beaudry, qui a été la véritable instigatrice du projet et la personne qui le dirigeait, au moins au début. L'intention de cette dame est significative aux fins de déterminer l'intention de Diese dans la poursuite de son projet. Or, l'intention de madame Beaudry s'est manifestée au tout début lorsqu'elle a déclaré, en juin 1989, dans la déclaration financière envoyée à l'IGIF, que l'activité de Diese serait l'achat, la rénovation et la vente d'immeubles. Compte tenu de sa profession de courtier et de ses connaissances de la fiscalité[2], madame Beaudry connaissait fort bien les conséquences de cette mention. Vu cette déclaration, Diese n'aurait pas pu traiter ses gains sur ses opérations immobilières comme des gains en capital. Si l'intention de Diese avait été d'acquérir un placement immobilier à long terme, madame Beaudry n'aurait pas donné cette description de l'entreprise de celle-ci.
+[34] Il est vrai qu'il est indiqué dans les états financiers de Diese que son activité principale était la location d'immeubles, mais évidemment cette indication ne correspond pas à celle qu'on trouve dans la déclaration financière. Il est probable que madame Beaudry n'était plus actionnaire de Diese quand le comptable a dréssé ces états financiers et je ne suis pas convaincu que les appelants étaient en mesure de saisir la portée de cette indication et l'impact qu'elle pouvait avoir. Je suis persuadé que si le comptable avait été bien informé des intentions véritables de Diese, il n'aurait pas décrit l'activité principale de celle-ci comme il l'a fait. Il n'aurait pas non plus inscrit l'immeuble au bilan comme une immobilisation et il n'aurait pas fait de déduction pour amortissement. À mon avis, la déclaration financière préparée par la coactionnaire qui a trouvé l'immeuble, négocié l'achat et joué le rôle de leader au sein de la société Diese a une valeur probante plus grande que la simple description qu'a pu faire un comptable dans les états financiers.
+[35] Il faut rappeler que les conditions du marché en 1989 encourageaient à la spéculation en raison de l'augmentation constante de la valeur de l'immobilier à laquelle on assistait depuis de nombreuses années, pour ne pas dire deux décennies. Le fait que Diese n'a jamais fait de bénéfices provenant de la location de son immeuble mais a plutôt accumulé une perte de plus de 85 000 $ en sept ans n'aide pas l'intimée à s'acquitter de sa tâche de démontrer que le but principal de cette société était de tirer des revenus de biens.
+[36] Ma conclusion demeure la même lorsque j'analyse la conduite de Diese. A‑t‑elle agi de façon conséquente par rapport à ce qui était indiqué dans la déclaration financière envoyé à l'IGIF? A‑t‑elle effectivement tenté de vendre rapidement l'immeuble en question? La preuve a révélé qu'il y a eu plusieurs tentatives de vente. D'abord, au tout début, madame Beaudry a essayé. Malheureusement, les détails sont quelque peu vagues là-dessus parce que les appelants n'avaient pas en leur possession les documents pertinents et parce que madame Beaudry n'a pas témoigné. Dans son témoignage, monsieur Bérard a indiqué qu'il y avait eu tentative de la part de madame Beaudry de vendre l'immeuble avant que les actionnaires soient tenus d'acquitter le solde du prix d'achat, c'est-à-dire dans les 12 premiers mois suivant l'achat. Cette démarche est conforme à l'échéancier qui avait été prévu au départ.
+[37] En janvier 1991, il y a eu une nouvelle tentative. En effet, on a déposé des documents qui établissent qu'un mandat a été donné pour vendre l'immeuble à un prix de 298 000 $, soit 40 000 $ de plus que le coût d'achat initial de l'immeuble. En 1993, on a dû réduire le prix deux fois et, malgré tous ses efforts, Diese n'a jamais réussi à vendre l'immeuble. On se trouve donc dans une situation où le plan initial a échoué en raison de la conjoncture économique et de l'état du marché immobilier. On sait que le marché immobilier, en particulier dans la région de Montréal, s'est écroulé dans les années 1990. Il faut dire également que la perte d'un locataire, laissant un local vacant pendant une période de cinq ou six ans n'a pas aidé, évidemment, à vendre l'immeuble.
+[38] La preuve fournie par l'intimée n'a pas révélé non plus qu'il y avait eu un changement d'entreprise pour Diese. La location de l'immeuble s'est continuée, à mon avis, en attendant que le marché immobilier s'améliore. Les faits de cet appel rappellent ceux décrits dans la décision Stein mentionnée plus haut. Voici ce que dit, en partie, le résumé de cette décision que l'on trouve à la page 1526 des DTC :
+The evidence clearly established that the taxpayer had not acquired the condominium for the purpose of earning rental income. He acquired it for speculative purposes, not intending to resell it quickly at a profit. Any rental income received, therefore, was only intended to mitigate his carrying charges, since the taxpayer's intention to rent was only ancillary to his overall purposes. Nor did the taxpayer ever have any expectation of profit from renting. Accordingly the Minister was correct in disallowing the taxpayer's attempt to deduct rental losses in computing his income for 1986 and 1987. On the facts, morever, when the taxpayer acquired the condominium, he did indeed have a reasonable expectation of profit on subsequent resale. And even though such expectation was thwarted by the recession, the taxpayer's intention throughout had always been to resell. The property, therefore, was inventory, so that the taxpayer was required to capitalize, rather than to deduct, any running expenses incurred by him during 1986 and 1987.
+[39] Il s'agissait là d'un cas où le ministre avait refusé la déduction des pertes au motif — trop souvent invoqué à tort — qu'il n'y avait pas un espoir raisonnable de profit. À mon avis, le ministre a tiré la même conclusion erronée ici. Or, ce n'est pas parce qu'une entreprise n'est pas exploitée de la façon dont on avait planifié de le faire et qu'un contribuable se trouve pris avec un bien spéculatif qui ne se vend pas qu'il faut conclure que ce contribuable a cessé d'exploiter le type de commerce en question.
+[40] Avant de conclure, j'aimerais mentionner que j'ai lu attentivement les décisions que m'a présentées la procureure de l'intimée. La question qui est en jeu ici est une question de faits ou, à tout le moins, une question mixte de droit et de faits. Chaque cas est un cas d'espèce. Je ne crois pas qu'il soit utile de commenter chacune de ces décisions et de les distinguer d'avec la présente espèce. Je commenterai par contre la décision Boulanger dans laquelle la juge Lamarre a écrit au paragraphe 28 :
+[. . .]
+Je rejette donc l'argument des appelants que la simple intention de vouloir exploiter une entreprise est suffisante pour qualifier la Société comme une société exploitant une petite entreprise aux fins de la déduction d'une PTPE.
+[41] Il est important de remettre cette affirmation dans son contexte. Il est clair que la simple intention de vouloir exploiter une entreprise n'est pas suffisante pour exploiter une entreprise. Il faut passer à l'acte. Dans cette affaire‑là, il s'agissait d'un projet qui, de l'avis de la juge Lamarre, n'avait pas dépassé le stade des préparatifs en vue d'établir l'entreprise. Voici comment elle s'exprime au paragraphe 34 :
+Je suis d'accord avec l'avocat de l'intimée que les éléments essentiels à la mise en oeuvre du projet se sont effondrés avant même que le projet ne voit le jour. Ainsi, la Société n'avait pas obtenu le financement nécessaire pour démarrer son projet, et aucune opération importante n'a pu être entreprise par la Société relativement au genre d'entreprise qu'elle était censée exercer.
+[42] Dans cette affaire, on voulait réunir sur un même site plusieurs concessionnaires d'automobiles. La juge ajoute ce qui suit, toujours au paragraphe 34 :
+Aucune structure organisationnelle suffisante n'a été établie pouvant permettre à la Société de débuter les activités se rattachant à l'exploitation même, telles la recherche de fournisseurs, le développement de marchés pour les produits, la recherche de la main d'oeuvre nécessaire. Tout ceci n'existait tout simplement pas et il est dans ce sens difficile de concevoir, tel qu'il a été dit dans l'affaire Samson & Frères Ltée, précitée, qu'une entreprise ait débuté avant même que ces éléments essentiels se rattachant à la structure d'une telle entreprise n'aient été réunis.
+[43] Au paragraphe 35, in fine, elle écrit :
+Il est difficile de prétendre que la Société exploitait activement un centre automobile en 1996, alors que l'unique bâtisse construite sur le terrain acheté à cette fin n'appartenait même pas à la Société (voir à ce sujet l'affaire Goren, précitée). A mon avis, la Société n'était à toutes fins utiles qu'une Société inactive sans le capital nécessaire pour mettre en oeuvre le projet de services reliés aux automobiles qu'elle avait l'intention d'exploiter un jour.
+[44] Cette décision illustre bien, à mon avis, qu'il ne faut pas citer hors contexte les propos d'un juge. Il faut les rattacher aux faits pertinents de la décision.
+[45] Ici, l'exploitation de l'entreprise de Diese avait manifestement débuté. Cette société avait acquis un immeuble dans le but de le revendre à profit; elle avait obtenu un emprunt pour financer l'achat et, dans les mois et même les années qui ont suivi, a tenté de vendre l'immeuble, mais sans succès.
+[46] Pour tous ces motifs, les appels des appelants sont accueillis et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations en tenant pour acquis que les appelants détenaient des placements dans une société exploitant une petite entreprise. Toutefois, quant à monsieur Barrette, qui n'a pas démontré que le coût de son placement dépassait 39 605 $, la perte au titre d'un placement d'entreprise doit être calculée en fonction de ce montant.
+Signé à Ottawa, Canada, ce 15e jour de juin 2004.
+« Juge Archambault »
+Juge Archambault
+RÉFÉRENCE :
+2004CCI437
+No DES DOSSIERS DE LA
+COUR :
+2002-4491(IT)I
+2002-4615(IT)I
+INTITULÉS DE LA CAUSE :
+Gérard Barrette et Sa Majesté la reine
+Dominique Bérard et Sa Majesté la reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 19 août 2003
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Pierre Archambault
+DATE DU JUGEMENT :
+(Dossier 2002-4491(IT)I)
+le 28 août 2003
+DATE DU JUGEMENT CORRIGÉ :
+(Dossier 2002-4615(IT)I)
+le 19 septembre 2003
+DÉCISION RENDUE
+ORALEMENT :
+le 20 août 2003
+MOTIFS ÉDITÉS DU JUGEMENT :
+le 15 juin 2004
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l'intimée :
+Me Marie-Aimée Cantin
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelants :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour l'année 1991, seul le montant de la perte comptable est disponible. Aucune donnée n'est disponible pour 1990.
+[2] Il est de connaissance judiciaire que les courtiers doivent prendre des cours en fiscalité pour obtenir le droit de pratiquer leur profession.

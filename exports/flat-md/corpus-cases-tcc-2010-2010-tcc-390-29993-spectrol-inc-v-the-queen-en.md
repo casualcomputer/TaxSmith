@@ -1,0 +1,218 @@
+---
+title: "Spectrol Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29993/index.do"
+last_modified: "2010-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 390"
+citation2: ""
+neutral_citation: "2010 TCC 390"
+decision_date: "2010-07-22"
+language: "en"
+item_id: "29993"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7998
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:08:53.859000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "27ca24990e034959baebf63cafbe6460be8eeb31f62ca21c5219bced7d62964c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Spectrol Inc. v. The Queen
+
+- Citation: 2010 TCC 390
+- Decision date: 2010-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7998, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spectrol Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-22
+Neutral citation
+2010 TCC 390
+File numbers
+2010-216(IT)APP
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-216(IT)APP
+BETWEEN:
+SPECTROL INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on June 29, 2010 at
+Toronto ,
+Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Applicant:
+Patrick Murphy
+Counsel for the Respondent:
+Ernesto Caceres
+Carol Calabrese
+____________________________________________________________________
+ORDER
+The Appellant’s application to extend the time within which a notice of objection may be served in relation to the assessment of the Appellant’s 2003 and 2004 taxation years is granted, without costs, and the notice of objection is deemed to be served on the date of this order.
+Signed at
+Halifax ,
+Nova Scotia
+, this 22nd day of July 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC390
+Date: 20100722
+Docket: 2010-216(IT)APP
+BETWEEN:
+SPECTROL INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb, J.
+[1] The Appellant filed a document with this Court on April 16, 2009 which, although it was identified as a Notice of Appeal, stated that the Appellant was requesting an extension of time to file a Notice of Objection in relation to the assessment of the Appellant’s 2003 and 2004 taxation years. The Appellant subsequently filed on January 18, 2010, a short document that is stated to be an Application for extension of time within which an appeal may be instituted.
+[2] A hearing was held to determine if the Appellant’s appeal to this Court can proceed. The Respondent objected to the Appellant’s appeal on the basis that the Appellant had not filed a notice of objection in relation to the assessment of its 2003 and 2004 taxation years. However, it seems to me that the correct interpretation of the application being made by the Appellant is that it was an application to extend the time within which a notice of objection may be served and not an application to extend the time within which an appeal may be made to this Court. The Appellant in paragraphs (B) and (D) of the document filed on April 16, 2009 (which was incorporated by reference into the document filed on January 18, 2010) seeks an extension of time to file a notice of objection, not an extension of time to appeal.
+[3] The Appellant had filed its 2003 and 2004 tax returns within the time specified for filing such returns. It appears that since the Appellant had claimed amounts for scientific research and experimental development (SR&ED), the assessment for 2003 was not issued until March 26, 2008 and the assessment for 2004 was not issued until May 7, 2008.
+[4] The Appellant introduced a letter from the Canada Revenue Agency (the “CRA”) dated September 16, 2008 which referred to notices of reassessment that would be mailed under separate cover. The Appellant introduced this to question whether the original assessments had been issued on March 26, 2008 and May 7, 2008. However the letter dated September 16, 2008 is related to the review of the
+Ontario
+corporate tax returns, not the federal tax returns. The reassessments referred to in the letter were reassessments issued under the
+Ontario legislation not under the Income Tax Act (
+Canada
+) (the “Act”).
+[5] The President of the Appellant stated that the appellant did not receive the notice of assessment for 2003 until after an inquiry was made in 2009. It also appears clear that the Appellant had not received the assessment for 2004 prior to filing the document with this Court on April 16, 2009. I accept the Appellant’s testimony and I find that the Appellant had not received the notice of assessment for 2003 until April 2009. Shortly after the Appellant received a copy of the notice of assessment for 2003 in April 2009, the Appellant filed the document which is stated to be a notice of appeal. Ray Kapoor, the President of the Appellant, stated that at the same time as the appeal was filed with this Court he also sent a document to the CRA.
+[6] Sadruddin Suleman, a litigation officer with the CRA also testified. He stated that there was no record of the CRA receiving a notice of objection or an application for an extension of time to serve a notice of objection in relation to either the assessment issued for 2003 or the assessment issued for 2004 other than Notices of Objection for 2003 and 2004 that were received on May 5, 2010 – more than two years after the assessment for 2003 was issued and approximately two years after the assessment for 2004 was issued.
+[7] On cross examination, Ray Kapoor acknowledged that he did not personally send the documents to the CRA. It is, however, clear that Ray Kapoor and the accountant for the Appellant were both very concerned about the Appellant’s SR&ED claims for 2003 and 2004 and the length of time that it was taking CRA to assess the Appellant’s 2003 and 2004 taxation years. The Appellant had received a proposal letter from the CRA dated May 30, 2007 in which various adjustments to the SR&ED claims were proposed. On July 31, 2007 the accountant for the Appellant sent an e-mail to Elizabeth Sahsuvar of the CRA in which the accountant noted that they had responded to the proposal letter several weeks earlier and in which he expressed concerns about the Science Reviews. It seems obvious that the Appellant was very concerned about the SR&ED claims and wanted to protect its right of appeal. It seems to me that it is more likely than not that the Appellant sent to the CRA in April 2009 the same document that was filed with this Court at that time and I find that the Appellant did send the same document to the CRA in April 2009.
+[8] It appears that the Appellant had previously been audited with respect to claims for SR&ED. It is not clear whether previous audit issues were resolved at the audit stage or only following the filing of a notice of objection. The accountant for the Appellant acknowledged that when they received the copy of the notice of assessment for 2003 in April 2009 they knew that the time to file a notice of objection had expired and that they needed to obtain an extension of time to file the notice of objection. As a result a document was drafted and filed with this Court on April 16, 2009 and also sent to the CRA.
+[9] This document that was filed with this Court on April 16, 2009 is clearly identified as a Notice of Appeal to this Court. The top half of the first page is as follows:
+FORM 21(1)(a)
+NOTICE OF APPEAL – GENERAL
+TAX COURT OF CANADA
+BETWEEN
+SPECTROL INC.
+350 BRUNEL DRIVE
+MISSISSAUGA
+,
+ONTARIO
+L4Z 2C2
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent
+NOTICE OF APPEAL
+[10] However, paragraphs (A) and (B) of this document state that:
+(A) I, SPECTROL INC., of
+350 Brunel Road ,
+Mississauga ,
+Ontario
+(B) Hereby request an EXTENSION in time to file a Notice of Objection to my 2003 and 2004 Scientific Research and Experimental Development part denial due to insufficient documentation
+(emphasis added in original document)
+[11] Since this document was formatted and set up as a Notice of Appeal to this Court it could easily not have been recognized by the CRA as an application to extend the time to serve a notice of objection and hence not entered into their records as such. All that the litigation officer for the CRA could confirm was that there was nothing in the records of the CRA to confirm that an application to extend time to serve a notice of objection had been received. If it would have been received but not recorded as such, then it would not appear in the records of the CRA. But this would not change the fact that it had been received.
+[12] The procedure to follow if a taxpayer wants to object to an assessment (or a reassessment) is set out in the Act. Subsection 165(1) of the Act provides that:
+165. (1) A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment.
+[13] In this case, since the Appellant is a corporation, the time period within which a notice of objection to the assessments for 2003 and 2004 could have been served on the Minister is 90 days from the date of mailing of the assessments. As noted above, when the Appellant received the copy of the notice of assessment for 2003 in April of 2009, the Appellant knew that it could not file a notice of objection at that time since the 90 days from the date of the assessment (which, without any evidence to the contrary, would be the date of mailing) had elapsed. Although the Appellant did not receive the original notice of assessment, it appears that it was mailed in 2008. The date of mailing (and not the date of receipt) determines the time period within which a notice of objection may be served.
+[14] Section 166.1 of the Act provides a procedure for a taxpayer to request an extension of time within which a notice of objection may be served. This section provides as follows:
+166.1 (1) Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+(2) An application made under subsection (1) shall set out the reasons why the notice of objection or the request was not served or made, as the case may be, within the time otherwise limited by this Act for doing so.
+(3) An application under subsection (1) shall be made by being addressed to the Chief of Appeals in a District Office or a Taxation Centre of the Canada Revenue Agency and delivered or mailed to that Office or Centre, accompanied by a copy of the notice of objection or a copy of the request, as the case may be.
+(4) The Minister may accept an application under this section that was not made in the manner required by subsection (3).
+(5) On receipt of an application made under subsection (1), the Minister shall, with all due dispatch, consider the application and grant or refuse it, and shall thereupon notify the taxpayer in writing of the Minister's decision.
+(6) Where an application made under subsection (1) is granted, the notice of objection or the request, as the case may be, shall be deemed to have been served or made on the day the decision of the Minister is mailed to the taxpayer.
+(7) No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted.
+[15] The proper procedure to follow to request an extension of time to file a notice of objection is to make such request to the Minister, not this Court. If the Minister refuses the application or 90 days have elapsed without a decision from the Minister, then (and only then) the taxpayer may apply to this Court to have the application granted to extend the time within which a notice of objection may be served.
+[16] Section 166.2 of the Act provides that:
+166.2 (1) A taxpayer who has made an application under subsection 166.1[(1)] may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister's decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+(2) An application under subsection (1) shall be made by filing in the Registry of the Tax Court of Canada, in accordance with the provisions of the Tax Court of Canada Act, three copies of the documents referred to in subsection 166.1(3) and three copies of the notification, if any, referred to in subsection 166.1(5).
+(3) The Tax Court of Canada shall send a copy of each application made under this section to the office of the Commissioner of Revenue.
+(4) The Tax Court of Canada may grant or dismiss an application made under subsection (1) and, in granting an application, may impose such terms as it deems just or order that the notice of objection be deemed to have been served on the date of its order.
+(5) No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[17] No appeal may be made to this Court unless a notice of objection has first been served [1] . Subsection 169(1) of the Act provides that:
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[18] In this case, when the Appellant filed the document with this Court on April 16, 2009, there was no decision from the Minister with respect to any application to extend the time to file a notice of objection (the Minister does not even acknowledge receiving this request) and 90 days had not elapsed from the date that the Appellant sent the document to the CRA as the Appellant stated that the document was sent to this Court at the same time as the document was sent to the CRA. As a result the document filed on April 16, 2009 is not a valid application made to this Court under subsection 166.2 of the Act.
+[19] However, the Appellant did file another document with this Court on January 18, 2010, which would be more than 90 days after the document was sent to the CRA in April 2009. Although this document refers to the Appellant applying for an order extending the time within which an appeal may be instituted for 2003 and 2004, this document incorporates by reference the document filed on April 20, 2009. The April 20, 2009 document refers to a request for an extension of time to file a notice of objection. It seems to me that the correct interpretation to apply to this document is that it is an application to extend the time within which a notice of objection may be served. In both paragraph (B) at the beginning of the document and paragraph (D) near the end of the document the Appellant refers to the request for an extension of time to file a notice of objection.
+[20] In order to grant the Appellant’s application for an order to extend the time to serve a notice of objection the requirements of subsection 166.2(5) of the Act must be satisfied. The first requirement is that the Appellant’s application under subsection 166.1(1) of the Act (which is the application to the Minister) must have been made within one year after the end of the time period within which a notice of objection could have been served. This condition is satisfied as the application was sent to the CRA in April 2009 and the one year time period referred to above would not have expired until June 2009 (which would be 90 days plus one year after March 26, 2008 - the date of the assessment for 2003). It is clear that the reason that the Appellant did not serve a notice of objection within 90 days of March 26, 2008 is that the Appellant did not receive the notice of assessment for 2003 until April 2009.
+[21] It is clear that the Appellant had a bona fide intention to appeal. The Appellant had responded to the proposal letter and had expressed concerns about the Science Reviews before the assessments were issued. It also seems clear that if the Appellant would have received the assessments for 2003 and 2004 when they were sent in 2008, then a notice of objection would have been filed at that time. The Appellant received a copy of the notice of assessment for 2003 only after the Appellant had made an inquiry about it in 2009. Very shortly after receiving the copy of the notice of assessment for 2003 (which was sent on April 2, 2009) the Appellant sent the application for an extension of time to serve the notice of objection to the Court and to the CRA. Therefore this application to the CRA would have been sent on or about April 16, 2009 or within 2 weeks of receiving the copy of the notice of assessment for 2003.
+[22] It also seems to me that it is just and equitable in the circumstances that the application be granted.
+[23] As a result the Appellant’s application to extend the time within which a notice of objection may be served in relation to the assessment of the Appellant’s 2003 and 2004 taxation years is granted, without costs, and the notice of objection is deemed to be served on the date of this order.
+[24] The Appellant had also made certain additional requests in paragraph (D) of the document dated April 16, 2009. These requests confirm that the Appellant was seeking a review of the matter by the CRA and hence was seeking an extension of time to file the notice of objection. However since none of these requests were addressed during the hearing, I will not be addressing these additional requests.
+Signed at
+Halifax ,
+Nova Scotia
+, this 22nd day of July 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC390
+COURT FILE NO.: 2010-216(IT)APP
+STYLE OF CAUSE: SPECTROL INC.
+AND THE QUEEN
+PLACE OF HEARING:
+Toronto ,
+Ontario
+DATE OF HEARING: June 29, 2010
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: July 22, 2010
+APPEARANCES:
+Agent for the Applicant:
+Patrick Murphy
+Counsel for the Respondent:
+Ernesto Caceres
+Carol Calabrese
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan,
+Deputy Attorney General of
+Canada
+Ottawa, Canada
+[1] Bormann v. The Queen, 2006 DTC 6147 (FCA)

@@ -1,0 +1,215 @@
+---
+title: "Madsen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25997/index.do"
+last_modified: "2004-07-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 511"
+citation2: ""
+neutral_citation: "2004 TCC 511"
+decision_date: "2004-07-29"
+language: "en"
+item_id: "25997"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3730
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:11:09.251000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8bd8f82194f3beb183c3cc3ee96f82817f403faa4242dd94bd0c47dcfd11c224"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Madsen v. The Queen
+
+- Citation: 2004 TCC 511
+- Decision date: 2004-07-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3730, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Madsen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-29
+Neutral citation
+2004 TCC 511
+File numbers
+2001-887(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-887(IT)G
+BETWEEN:
+MARY MADSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 14, 2003 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Timothy W. Clarke
+Counsel for the Respondent:
+Eric Douglas
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to the Notice of Assessment Number 04694 dated May 3, 1999 with respect to section 160 of the Income Tax Act is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 29th day of July 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC511
+Date: 20040729
+Docket: 2001-887(IT)G
+BETWEEN:
+MARY MADSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+A. FACTS:
+[1] Gunnar Madsen (the "Transferor") is the spouse of the Appellant.
+[2] On or about August 1, 1989 the Transferor transferred to the Appellant his one-half interest in a home located at 3065 Lazy A Street, Port Coquitlam, British Columbia (the "Property").
+[3] At the time of the transfer of the Property to the Appellant on August 1, 1989 the Transferor owed income tax in an amount in excess of $685,000.00. The tax was imposed in connection with the 1982-1983 taxation years. The Transferor disputed the tax assessments. The Transferor was unsuccessful in appeals filed with the Tax Court of Canada,[1] the Federal Court of Appeal[2] and the Supreme Court of Canada[3].
+[4] At the time of the transfer of the Property to the Appellant, the fair market value of the Property as determined by the Minister was $205,000.00 and the fair market value of the Transferor's interest in the Property was $102,500.00. (Note: - Counsel for the Appellant indicated at the commencement of the hearing that the fair market value of the Property on August 1, 1989 as determined by the Minister was not in dispute.)
+[5] On June 15, 1994 the Appellant transferred title in the Property to the Appellant's holding company GMT Holdings Ltd. ("GMT").
+[6] On May 3, 1999 the Minister of National Revenue (the "Minister") assessed the Appellant for tax in the amount of $102,500.00. The Notice of Assessment (the "Assessment") states that the Assessment is in respect of the following:
+Liability under subsection 160(1) of the Income Tax Act in the amount of $102,500.00 in respect of a transfer on or about August 1, 1989 from Gunnar Madsen to Mary Madsen of property, namely, 3065 Lazy A Street, Port Coquitlam, B.C.
+B. ISSUE:
+[7] The issue is whether the Appellant is liable to pay the amount of $102,500.00 that was assessed by the Minister pursuant to the section 160 Assessment issued on May 3, 1999.
+C. ANALYSIS:
+[8] Section 160 of the Income Tax Act (the "Act") permits the Minister to collect a tax debt from someone other than the tax debtor provided the various statutory conditions contained in the section are met.
+[9] Subsection 160(1) of the Act reads as follows:
+160. (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person's spouse or a person who has since become the person's spouse,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year.
+Subsection 160(2) reads as follows:
+160. (2) The Minister may at any time assess a taxpayer in respect of any amount payable because of this section and the provisions of this Division apply, with any modifications that the circumstances require, in respect of an assessment made under this section as though it had been made under section 152.
+[10] During the hearing of the appeal counsel for both parties referred to the decision of the Supreme Court of Canada in The Queen v. Markevich et al.[4]
+[11] During the hearing of the appeal I requested that counsel provide me with a written submission on the application of the Markevich decision to the present appeal.[5]
+[12] In the submission filed with the Court counsel for the Appellant submitted that the Tax Court of Canada has the jurisdiction to vacate the assessment issued against the Appellant on the basis that the Appellant's liability, if it existed at all, was extinguished on August 2, 1995. Counsel for the Appellant noted that the Appellant's liability for tax under section 160 of the Act arises on the date of transfer of the Property by the Transferor which occurred on August 1, 1989. In support of his argument counsel for the Appellant said that the tax liability under section 160 arises "at the moment of the transfer" whether the taxpayer has been assessed or not (see The Queen v. Heavyside[6]). However, counsel for the Appellant maintains that this liability under section 160 was extinguished on August 2, 1995 under section 3.2 of the Crown Liability and Proceedings Act by virtue of the findings of the Supreme Court of Canada in Markevich.
+[13] In response to this issue counsel for the Respondent said as follows:
+A limitation period begins to run on the date that a cause of action arises. The fact that liability under section 160 exists at the date of transfer does not mean that a cause of action exists at that date. Instead Major J. writing (in Markevich) for the majority found as follows:
+"I conclude that the collection proceedings under the ITA are subject to prescription six years after the cause of action arose. As noted above, the cause of action in this case comprised the respondent's tax debt and the expiry of the 90 day delay period after the mailing of the Notice of Assessment dated June 17, 1996[7]."
+[15] Before dealing with the submissions referred to above I must first comment upon the jurisdiction of the Tax Court of Canada.
+[16] The jurisdiction of the Tax Court is outlined in section 12 of the Tax Court of Canada Act. Subsection 12(1) of the Act provides as follows:
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the ... Income Tax Act ... where references or appeals to the Court are provided for in those Acts.
+[17] Subsection 169(1) of the Act provides as follows:
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or ...
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed. (Note: - The Appellant filed a valid Notice of Appeal with the Tax Court within the time specified in section 169.)
+[18] Section 171 of the Act outlines the jurisdiction of the Tax Court of Canada regarding the disposition of appeals. Section 171 reads as follows:
+171. (1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[19] I have concluded that the Tax Court has the jurisdiction to review the Notice of Appeal filed by the Appellant and either (a) dismiss the appeal, or (b) allow the appeal by vacating the assessment or varying the assessment and referring the assessment back to the Minister for reconsideration and reassessment.
+[20] In order to determine if the section 160 Assessment issued against the Appellant is valid I must first carefully analyse the decision of the Supreme Court of Canada in Markevich.[8]
+[21] In Markevich the taxpayer filed income tax returns for taxation years before 1986 reporting tax payable in excess of $230,000.00. Revenue Canada (now known as the Canada Revenue Agency) assessed those returns as filed and Mr. Markevich filed Notices of Objection. Revenue Canada collected as much of the tax debt as they could from Mr. Markevich's available assets. In 1987, by "internal bookkeeping action" the tax indebtedness was written off by Revenue Canada but the tax debt was not extinguished or forgiven.
+[22] Revenue Canada made no effort to collect from Mr. Markevich the pre-1986 tax or interest payable until 1998 when a representative of Revenue Canada issued a letter requesting that Mr. Markevich pay the amount of $770,583.42.
+[23] Mr. Markevich brought an application for judicial review in the Federal Court, Trial Division under section 18.1 of the Federal Court Act seeking a declaration that the amount was not owing and an order restraining the Minister from issuing requirements to pay to Mr. Markevich's creditors.
+[24] Mr. Markevich argued that the Federal Crown Liability and Proceedings Act,[9] together with the British Columbia Limitation Act supported his assertion that the time limit within which the Crown could collect any amount for which a taxpayer was liable under the Act was six years. Mr. Justice Evans dismissed the application on the basis that the Income Tax Act is a complete code and, there being no specific time limitation within which the Crown must collect tax or other amounts, Mr. Markevich's argument should fail.[10] Mr. Markevich filed an appeal with the Federal Court of Appeal.
+[25] On May 7, 2001, Mr. Justice Rothstein of the Federal Court of Appeal ruled that the Income Tax Act is not a complete code and that any court action by the Minister to collect a tax debt is subject to the applicable limitation period in section 32 of the Crown Liability and Proceedings Act.[11] Furthermore, the Federal Court of Appeal ruled that the term "proceedings" in section 32 also applies to the non-court or statutory collection procedures under the Income Tax Act.
+[26] The Federal Court of Appeal also held that the applicable limitation in section 32 is the six-year limitation period in subsection 3(5) of the British Columbia Limitation Act. This subsection covers self-help remedies and applies to both court and statutory collection procedures under the Income Tax Act.
+[27] The Federal Court of Appeal also stated that after expiry of the relevant limitation period, the cause of action is extinguished under subsection 9(1) of the Limitation Act. In other words, Mr. Markevich's liability for tax under the Income Tax Act, even though properly assessed in the 1980s, had been extinguished by virtue of the provisions of the Federal Crown Liability and Proceedings Act and the British Columbia Limitation Act.
+[28] The Crown appealed the decision of the Federal Court of Appeal to the Supreme Court of Canada.
+[29] By Judgment dated March 6, 2003, the Supreme Court of Canada dismissed the Crown's appeal.[12]
+[30] Justice Major delivered the judgment of the Court. Justice Major said at page 5186:
+The issue in this appeal is narrow and easily stated: that is, whether federal and provincial limitation periods when exceeded apply to the Crown's ability to exercise its statutory powers to collect tax debts. I have concluded that the limitation period prescribed by s. 32 of the Crown Liability and Proceedings Act, R.S.C. 1985, c-50 ("CLPA"), bars the Crown from collecting the respondent's federal tax debt, and that s. 3(5) of the British Columbia Limitation Act, R.S.B.C. 1996, c. 266 ("B.C. Limitation Act") bars the Crown from collecting the respondent's provincial tax debt.
+At page 5189 (paragraphs 14, 15 and 16) Justice Major said:
+[14] There is no authority to support the proposition that the ITA is a complete code that cannot be informed by laws of general application. The ITA does not operate in a legislative vacuum ...
+[15] Absent legislation or judicial support, the appellant nonetheless requests the Court to interpret s. 222 of the ITA as if it permits the collection of tax debts "at any time". It is "a basic principle of statutory interpretation that the Court should not accept an interpretation which requires the insertion of extra wording where there is another acceptable interpretation which does not require any additional wording": see Friesen v. Canada, [1995] 3 S.C.R. 103, at para. 27. This principle weighs against accepting the appellant's interpretation. The provision does not include the words "at any time', and is capable of a reasonable construction without that insertion. The legislative silence with regard to prescription gives rise to the logical inference that Parliament intended for limitation provisions of general application to apply to the Minister's collection powers.
+[16] This conclusion is supported by the explicit manner in which the ITA addresses limitation periods in its assessment provisions. ...
+At paragraph 34 Justice Major said:
+[34] A court action brought by the Minister to recover tax debt in this appeal would be subject to the limitation provisions in s. 32. It would be incongruous to find that s. 32 of the CLPA was intended to apply to the court action but not to the statutory collection procedures that serve the identical purpose. The certainty, evidentiary and diligence rationales that support the application of limitation provisions to Crown proceedings apply equally to both the court and non-court proceedings at issue here. See Berardinelli v. Ontario Housing Corp., [1979] 1 S.C.R. 275, per Estey J., at p. 284:
+When one interpretation can be placed upon a statutory provision which would bring about a more workable and practical result, such an interpretation should be preferred if the words invoked by the Legislature can reasonably bear it ...
+There is no reason to infer that Parliament intended for s. 32's application to turn solely upon the technicality of whether the relevant proceeding took place in court. To exclude s. 32's application to proceedings that are equivalent in purpose and effect to a court action would frustrate the object and aim of the provision.
+At paragraph 41 and following Justice Major said:
+[41] I conclude that the collection proceedings under the ITA are subject to prescription six years after the cause of action arose. As noted above, the cause of action in this case comprised the respondent's tax debt and the expiry of the 90-day delay period after the mailing of the Notice of Assessment dated June 17, 1986. As a result, the cause of action arose on September 16, 1986. The Minister undertook no action in the six years after that date to effect a renewal of the limitation period. Consequently, as of September 16, 1992, s. 32 of the CLPA barred the Minister from collecting the respondent's 1986 federal tax debt. Limitation periods have traditionally been understood to bar a creditor's remedy but not his or her right to the underlying debt. In my view, this is a distinction without a difference. For intents and purposes, the respondent's federal tax debt is extinguished.
+...
+[48] Consequently, the province's right to pursue collection proceedings under the B.C. ITA is subject to the limitation period set out in s. 3(5) of the B.C. Limitation Act. Moreover, pursuant to s. 9(1) of the B.C. Limitation Act, on the expiration of the limitation period, the province's right and title to the tax debt is extinguished, and pursuant to s. 9(3), the province's right and title to interest on the tax debt is extinguished.
+[49] As noted above, the federal Crown's right to collect provincial taxes in this case is no greater than the right delegated to it by the province. Since the province's collection rights are subject to expiry six years after the underlying cause of action arose, so too are the collection rights of the federal Crown as its agent.
+[50] The cause of action here consisted of the tax debt and the expiry of the delay period allowing collection action to be taken on September 16, 1986. The Minister undertook no action in the six years after that date to effect a renewal of the limitation period. Consequently, as of September 16, 1992, the federal Crown became statute-barred from collecting the provincial tax debt. As well, the right and title of any claimant to the respondent's provincial tax debt, and its accrued interest, were extinguished on that date. (Underlining added)
+VI. Conclusion
+[51] For the foregoing reasons, I would dismiss the appeal with costs.
+[31] In this case a Notice of Assessment was issued by the Minister against the Appellant under section 160 of the Act on May 3, 1999. According to the decision of the Supreme Court of Canada in Markevich any limitation period that may apply with respect to the tax debt did not start running until 90 days after May 3, 1999, i.e. the limitation period would commence on August 2, 1999.
+[32] In my opinion counsel for the Appellant's argument that the limitation period with respect to the Appellant's tax liability began to run on August 1, 1989 is not in accordance with the decision of the Supreme Court of Canada in Markevich.
+[33] The appeal is dismissed with costs.
+Signed at Vancouver, British Columbia, this 29th day of July 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2003TCC511
+COURT FILE NO.:
+2001-887(IT)G
+STYLE OF CAUSE:
+Mary Madsen and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+April 14, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+July 29, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Timothy W. Clarke
+Counsel for the Respondent:
+Eric Douglas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Timothy W. Clarke
+Firm:
+Bull, Housser and Tupper
+Vancouver, British Columbia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Madsen et al. v. The Queen, 98 DTC 1668.
+[2] See Madsen v. The Queen, 99 DTC 5470 (F.C.A.).
+[3] See Madsen v. Canada, [2001] SCCA No. 96.
+[4] 2003 DTC 5185.
+[5] Transcript, p. 63, l. 6-8.
+[6] 97 DTC 5026 (FCA) at 5028
+[7] See Markevich supra - Note 4
+[8] See Markevich supra Note 4.
+[9] R.S.C. 1985, c-50, s. 1.
+[10] Markevich v. Canada, [1999] 3 F.C. 28.
+[11] Markevich v. The Queen, 2001 DTC 5305.
+[12] The Queen v. Markevich, 2003 DTC 5185.

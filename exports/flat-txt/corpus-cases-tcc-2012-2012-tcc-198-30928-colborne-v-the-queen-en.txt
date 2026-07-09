@@ -1,0 +1,113 @@
+Title: Colborne v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30928/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-198-30928-colborne-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-08-20
+
+# Colborne v. The Queen
+
+- Citation: 2012 TCC 198
+- Decision date: 2012-08-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7427, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Colborne v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-08-20
+Neutral citation
+2012 TCC 198
+File numbers
+2010-1712(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1712(IT)G
+BETWEEN:
+TAMMY COLBORNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 28, 2012, at Moncton, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marcel Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under section 160 of the Income Tax Act is allowed and the assessment is vacated in accordance with the attached Reasons for Judgment. The appellant is entitled to her costs.
+Signed this 20th day of August 2012.
+« François Angers »
+Angers J.
+Citation: 2012 TCC 198
+Date: 20120820
+Docket: 2010-1712(IT)G
+BETWEEN:
+TAMMY COLBORNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant was assessed an amount of $84,499.89 pursuant to section 160 of the Income Tax Act (ITA) on June 10, 2008, and the assessment was confirmed on February 24, 2010. The assessment was issued in respect of transferred property described as cash payments made to the appellant by 511432 NB Incorporated (hereinafter referred to as 511) between January 1, 2005 and August 15, 2006 (the period).
+[2] During that period, the appellant was an employee of 511 on either a full-time or a part-time basis. She assisted 511's bookkeeper and the accountant and performed some managerial duties. She was also, during the period, in a common-law relationship with Ronald Poirier, who was the sole director and shareholder of 511, a corporation that was in the communications business, more particularly the sale of cell phones.
+[3] Back in 2004, 511 was experiencing some financial difficulties and in order to generate more revenue it acquired a "white label" bank machine, that is, an ATM operated independently of the banks, which it placed at the Colonial Inn Motel (hereinafter referred to as the Inn) in Moncton, New Brunswick.
+[4] In the relevant period, 511's financial situation had not improved. It was already deeply indebted to its bank and in order to protect its payroll it opened a bank account with a different bank, but no line of credit was made available to it except for minor amounts.
+[5] Since it had no access to credit, it became difficult for 511 to provide its ATM with sufficient cash for customers using the machine. This became even more difficult on weekends when all banks are closed. Although 511 did have a bank card, withdrawals were limited to a very low amount and it therefore had no access to cash on weekends.
+[6] The appellant's personal bank account had a $2,000 cash overdraft. As a result, 511 would write a cheque to her that she could deposit and thereupon withdraw instantly an amount up to $2,000. She would then deposit the money in 511's ATM so people could make withdrawals. Within 24 hours, the money withdrawn from the ATM was automatically deposited back into 511's bank account by a processing centre. If the cheques payable to her exceeded $2,000, the appellant would only withdraw the $2,000; she would subsequently make a further withdrawal to eventually cover the entire amount of the cheque such that the full amount ended up in the ATM and eventually back in 511's bank account.
+[7] During the period in question, over $400,000 circulated through the ATM and, of that amount, $104,982.21 went through the appellant's bank account. From the latter amount there was subtracted the appellant's net pay for the period, which totalled $20,482.32, leaving a balance of $84,499.89, which is the amount of the assessment.
+[8] The majority of the transactions conducted through the appellant were for the purpose of covering the weekend transactions on the ATM. That explains why, on some occasions, two cheques for identical amounts were drawn on the same day. A further deposit could be made during the weekend, if need be. The need would arise if a convention or other activity was held at the Inn and, as a consequence, more withdrawals than usual were made. At the end of the day, all the money withdrawn from the ATM would end up back in 511's bank account.
+[9] According to the appellant, all the cheques issued to her by 511 during the period and which she cashed went back into 511's account within 24 hours of a client making a withdrawal. The ATM was filled with cash when the staff at the Inn called to inform 511 that the machine could not do anymore transactions.
+[10] The above explanation was given to the Canada Revenue Agency's collection officer in verbal exchanges he had with Ronald Poirier. The collection officer later wrote to the appellant requesting further documents. He was subsequently provided with 511's general ledger, which shows all the deposits made into 511's account through the processing centre, including some identified by the number of the cheque issued to the appellant. The appellant's personal bank statements were not provided to the collection officer, although, at trial, the appellant stated that she believed she had provided them.
+[11] The criteria to apply when considering subsection 160(1) have been stated in many decisions of this Court and of the Federal Court of Appeal. In the Queen v. Livingston, 2008 FCA 89, Sexton J.A, had this to say at paragraph 17:
+1) The transferor must be liable to pay tax under the Act at the time of transfer;
+2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3) The transferee must either be:
+i. The transferor's spouse or common-law partner at the time of transfer or a person who has since become the person's spouse or common-law partner;
+ii. A person who was under 18 years of age at the time of transfer; or
+iii. A person with whom the transferor was not dealing at arm's length.
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+[12] It is of interest, I believe, to also quote paragraphs 18 and 19 of the Livingston decision in order to better appreciate the application of subsection 160(1) of the Act.
+The purpose of subsection 160(1) of the Act is especially crucial to inform the application of these criteria. In Medland v. Canada 98 DTC 6358 (F.C.A.) ("Medland") this Court concluded that "the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse [or to a minor or non-arm's length individual] in order to thwart the Minister's efforts to collect the money which is owned [sic] to him." See also Heavyside v. Canada [1996] F.C.J. No. 1608 (C.A.) (QL) ("Heavyside") at paragraph 10. More apposite to this case, the Tax Court of Canada has held that the purpose of subsection 160(1) would be defeated where a transferor allows a transferee to use the money to pay the debts of the transferor for the purpose of preferring certain creditors over the CRA (Raphael v. Canada 2000 D.T.C. 2434 (T.C.C.) at paragraph 19).
+As will be explained below, given the purpose of subsection 160(1), the intention of the parties to defraud the CRA as a creditor can be of relevance in gauging the adequacy of the consideration given. However, I do not wish to be taken as suggesting as [sic] there must be an intention to defraud the CRA in order for subsection 160(1) to apply. The provision can apply to a transferee of property who has no intention to assist the primary tax debtor to avoid the payment of tax: see Wannan v. Canada [2003] F.C.J. No. 1693, 2003 FCA 423 at paragraph 3.
+[13] In our fact situation, no evidence was adduced to dispute the fact that the transferor, 511, was liable to pay tax under the ITA at the time that the transfers took place. The appellant also admitted that she was in a common-law relationship with the sole director and shareholder of 511, which made them related persons under the ITA. On the issue of whether there was an actual transfer of funds, the Federal Court of Appeal made it clear in Livingston (supra) that the deposit of funds into another person's account constitutes a transfer of property. Here is what was said at paragraph 21 of that decision:
+The deposit of funds into another person's account constitutes a transfer of property. To make the point more emphatically, the deposit of funds by Ms. Davies into the account of the respondent permitted the respondent to withdraw those funds herself anytime. The property transferred was the right to require the bank to release all the funds to the respondent. The value of the right was the total value of the funds.
+[14] There is therefore no doubt that depositing 511's cheques into the appellant's bank account constituted a transfer of property. This therefore leaves the issue of whether there was adequate consideration given at the time of the transfers.
+[15] I want to emphasize the fact that both the appellant and Ronald Poirier testified with candour and that their credibility is not at issue in this appeal. I have no reason to disbelieve that the sole purpose of the entire exercise was to feed 511's ATM with sufficient cash to accommodate its users and that the cheques issued to the appellant during the period were so issued for that very purpose. I accept the appellant's testimony that the cash obtained from the deposit of the cheques issued was all deposited in 511's ATM and that these funds found their way back into 511's bank account within 24 hours. Exhibit A-1 is evidence of that movement of funds into 511's account.
+[16] It is true that there are no documents to show or corroborate the actual deposit of the funds in the ATM, but I have no reason to disbelieve the appellant and Ronald Poirier's explanation that the object of the exercise was to ensure 511 had sufficient cash on weekends to feed the ATM. As 511 had no line of credit available to it, they used the appellant's line of credit. I also have no reason to disbelieve that all the money from the deposits found its way into the ATM and therefore back into 511's bank account and that it happened that way because 511 had used up its line of credit with one of its banks and there was no line of credit with its new account at its other bank. Had the money from the cheques issued to the appellant not found its way back into 511's bank account, that account would have been substantially overdrawn. Considering 511's financial difficulties, I do not believe 511 would otherwise have survived during the entire period. In order to operate an ATM, one only needs to have a minimum amount of cash in the machine as it is the same cash that circulates from the machine via the processing centre into the account of the ATM owner and back into the machine. The purpose of the exercise here was to give 511 access to cash on weekends, when none was available to it. I cannot see how that exercise could produce the amount of $84,499.89 that was assessed against the appellant, for it was no doubt always the same money that was in circulation.
+[17] I am satisfied, on a balance of probabilities, that a valid legal contract existed here between the appellant and 511 in that the money being transferred to the appellant was to be used solely for the benefit of 511 as it was deposited immediately or within a very short time into 511's ATM. By depositing into 511's ATM the same amount of money as she had received, the appellant was giving 511 a consideration equivalent in value to that of the property transferred; in other words, the same amount of money was being transferred back to 511. There was therefore full consideration given by the appellant for the funds transferred by 511. In these circumstances, I find that section 160 of the ITA has no application. The appeal is allowed and the assessment vacated. The appellant is entitled to her costs.
+Signed this 20th day of August 2012.
+« François Angers »
+Angers J.
+CITATION: 2012 TCC 198
+COURT FILE NO.: 2010-1712(IT)G
+STYLE OF CAUSE: Tammy Colborne and Her Majesty the Queen
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: May 28, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: August 20, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marcel Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,427 @@
+---
+title: "Lee c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/230757/index.do"
+last_modified: "2017-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 74"
+citation2: ""
+neutral_citation: "2017 CCI 74"
+decision_date: "2017-05-04"
+language: "fr"
+item_id: "230757"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2217
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:31:28.422000+00:00"
+cases_cited_count: 12
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c7f1cd275896edf24705df223b9c3665f4ed16147671fccbd7997fd66322648b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lee c. La Reine
+
+- Citation: 2017 CCI 74
+- Decision date: 2017-05-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2217, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lee c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-05-04
+Référence neutre
+2017 CCI 74
+Numéro de dossier
+2012-5023(IT)G, 2012-5024(GST)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-5023(IT)G
+ENTRE :
+EUN-SOOK LEE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel d’Eun-Sook Lee – 2012-5024(GST)G les 18 et 19 juin 2015 et les 21, 22 et 23 mars 2016 à Hamilton (Ontario), avec observations écrites à produire au plus tard le 26 mai 2016.
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat de l’appelante :
+Me Duane R. Milot
+Avocat de l’intimée :
+Me Tokunbo C. Omisade
+JUGEMENT
+Les appels relatifs aux nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003, 2004, 2005 et 2006 sont accueillis en partie, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, conformément aux motifs du jugement ci-joints.
+Un seul mémoire de dépens entre parties est accordé à l’appelante.
+Signé à Vancouver (Colombie-Britannique), ce 4e jour de mai 2017.
+« K. Lyons »
+La juge Lyons
+Traduction certifiée conforme
+ce 22e jour de novembre 2018.
+Mario Lagacé, jurilinguiste
+Dossier : 2012-5024(GST)G
+ENTRE :
+EUN-SOOK LEE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel d’Eun-Sook Lee – 2012-5023(IT)G les 18 et 19 juin 2015 et les 21, 22 et 23 mars 2016 à Hamilton (Ontario), avec observations écrites à produire au plus tard le 26 mai 2016.
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat de l’appelante :
+Me Duane R. Milot
+Avocat de l’intimée :
+Me Tokunbo C. Omisade
+JUGEMENT
+L’appel relatif à la nouvelle cotisation établie au titre de la Loi sur la taxe d’accise pour les périodes de déclaration du 1er janvier 2002 au 31 décembre 2006 est accueilli en partie, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joint.
+Un seul mémoire de dépens entre parties est accordé à l’appelante.
+Signé à Vancouver (Colombie-Britannique), ce 4e jour de mai 2017.
+« K. Lyons »
+La juge Lyons
+Traduction certifiée conforme
+ce 22e jour de novembre 2018.
+Mario Lagacé, jurilinguiste
+Référence : 2017 CCI 74
+Date : 20170504
+Dossiers : 2012-5023(IT)G
+2012-5024(GST)G
+ENTRE :
+EUN-SOOK LEE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lyons
+I. Introduction
+[1] L’appelante a exploité une entreprise de vente de fleurs au détail à titre de propriétaire unique au cours des années d’imposition 2002, 2003, 2004, 2005 et 2006 (les « années pertinentes ») et elle était inscrite aux fins de la taxe sur les produits et services du 1er janvier 2002 au 31 décembre 2006 (les « périodes de déclaration »). Elle interjette appel des nouvelles cotisations qui ont été établies sous le régime de la Loi de l’impôt sur le revenu (la « LIR ») pour les années pertinentes ainsi que sous le régime de la Loi sur la taxe d’accise (la « LTA ») pour les périodes de déclaration [1] . Elle est d’avis que les années pertinentes sont frappées de prescription; elle soutient qu’elle a déclaré la totalité de ses revenus, et elle laisse entendre que l’évaluation fondée sur la valeur nette que le ministre du Revenu national a établie contient une foule d’erreurs.
+[2] Le ministre a déterminé selon la méthode de la valeur nette que l’appelante avait des revenus non déclarés de 51 842 $, de 77 774 $, de 68 403 $, de 128 090 $ et de 114 140 $, respectivement, soit un montant total de revenus non déclarés de 440 249 $ pour les années pertinentes, et il a imposé sur ce montant des pénalités pour faute lourde et établi de nouvelles cotisations pour chacune des années pertinentes après l’expiration de la période normale de nouvelle cotisation. Il a par ailleurs établi une nouvelle cotisation à l’endroit de l’appelante au titre de la taxe sur les produits et services et de la taxe de vente harmonisée (collectivement, la « TPS ») d’un montant de 30 853,89 $ [2] , en lien avec les revenus non déclarés, pour les périodes de déclaration, et imposé de plus des pénalités pour faute lourde et un montant de 13 001,48 $ en intérêts.
+[3] Pendant et après l’audience, l’intimée a concédé divers montants, ce qui a eu pour effet de réduire les revenus non déclarés à 51 124,18 $, à 119 101,32 $ et à 48 474,23 $ pour les années d’imposition 2002, 2005 et 2006, respectivement; le montant total révisé des revenus non déclarés s’élève donc à 364 876,73 $ pour les années pertinentes. Cette mesure a donné lieu à son tour à un montant de TPS révisé de 25 319,80 $ pour les périodes de déclaration [3] . L’intimée reconnaît que des erreurs ont été commises, mais un grand nombre de ses concessions ont été faites après qu’elle a reçu des informations de l’appelante dans le cadre de la procédure judiciaire, dont des éléments de preuve qui sont ressortis à ce moment-là [4] .
+[4] Les questions en litige consistent à savoir :
+a) si le ministre a modifié à juste titre les revenus de l’appelante, de la manière révisée ci-dessus, par l’ajout des montants qui s’appliquent aux années pertinentes;
+b) si le ministre est en droit d’établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation pour chacune des années pertinentes;
+c) si l’appelante est responsable du montant révisé de TPS qui s’applique aux périodes de déclaration;
+d) si, dans les circonstances, des pénalités pour faute lourde, imposées au titre du paragraphe 163(2) de la LIR et de l’article 285 de la LTA, sur le montant révisé des revenus non déclarés, pour les années pertinentes et pour les périodes de déclaration, respectivement, sont justifiées.
+II. Le contexte factuel
+[5] Après avoir quitté la Corée du Sud pour immigrer au Canada en 1975, l’appelante a suivi un cours de composition florale en ligne tout en travaillant à temps plein comme opératrice d’imprimante. Après quelques années, elle est devenue serveuse dans un restaurant, où elle a travaillé pendant 22 ans et demi. Elle a aussi travaillé comme serveuse, à temps partiel, dans d’autres restaurants. Pendant dix ans, elle a ramassé des vers de terre la nuit, durant l’été, pour des entreprises de vente d’appâts vivants.
+[6] Vers l’année 2000, l’appelante s’est mise à ressentir de vives douleurs au bras gauche et n’a pas pu continuer à travailler comme serveuse. Elle a alors acheté, à un prix d’environ 124 000 $, les éléments d’actif d’une entreprise locale de vente de fleurs au détail, qui comptait deux boutiques et environ cinq employés. Elle a vendu l’une des boutiques en 2002 au prix d’environ 40 000 $. La seconde boutique a généré des revenus bruts d’environ 180 000 $ chaque année, jusqu’à ce que l’appelante la vende en 2009.
+[7] David Lee Ko, le fils de l’appelante, a déclaré avoir fréquenté l’université de 1994 à 2000. Pendant qu’il terminait ses études universitaires, il a commencé à vendre de la drogue; il a vendu de la marijuana, de l’ecstasy et de la cocaïne jusqu’à ce que la GRC l’arrête en 2004. De la drogue d’une valeur de 150 000 $ à 250 000 $ a fait l’objet d’une saisie. Toutefois, la saisie n’a rapporté aucune somme d’argent comptant. On a accordé au fils de l’appelante une mise en liberté sous caution et il a été tenu de vivre avec sa mère jusqu’à sa date de comparution devant le tribunal en 2007. En fin de compte, il a plaidé coupable à l’accusation de complot en vue de faire le trafic d’ecstasy, a été condamné à quatre années d’emprisonnement et a purgé onze mois de sa peine avant d’obtenir sa mise en liberté conditionnelle. Depuis, il vit à Hamilton.
+[8] L’appelante a témoigné qu’elle ignorait que son fils vendait de la drogue avant de recevoir un appel téléphonique de la GRC. Peu après l’arrestation de son fils, sa maison a été perquisitionnée; la GRC y a trouvé un document faisant état d’un dépôt à terme de 125 000 $ à la Toronto Dominion Trust. Soupçonnant qu’elle était en possession du produit de la criminalité de son fils, la GRC en a avisé l’Agence du revenu du Canada (l’« ARC »).
+[9] En 2006 ou en 2007, elle a reçu de l’ARC une lettre lui faisant part d’une vérification prochaine. Le 18 février 2008, l’appelante a été interrogée par un premier vérificateur de l’ARC et on lui a demandé de fournir ses livres et ses registres à l’ARC, ce qu’elle n’a pas fait.
+Les livres et les registres
+[10] L’appelante a déclaré qu’elle tenait des registres comptables appropriés, qu’elle conservait ses reçus et qu’elle faisait tous les jours le suivi de ses ventes et de ses dépenses d’entreprise dans un journal [5] . Elle a retenu les services d’un comptable agréé pour s’occuper de ses déclarations de revenus et de TPS/TVH, et celui-ci l’a aidée à compter de l’année 2000 jusqu’à son décès, en 2005. Elle lui remettait la plupart de ses documents d’entreprise pour qu’il établisse les états financiers et les déclarations fiscales. Après le décès du comptable, les documents ont été rangés au domicile de celui-ci (au sous-sol), mais une inondation en a détruit une grande partie. Elle est plus tard parvenue à récupérer quelques documents par l’entremise du fils du comptable.
+[11] Tanya Davis, vérificatrice de l’ARC, a témoigné pour le compte du ministre (la « vérificatrice »), et ce, de manière crédible. En juin 2009, le dossier de l’appelante lui a été réaffecté. Elle a déclaré que le processus d’établissement des demandes péremptoires était en cours, que le premier vérificateur lui avait donné instruction de continuer à établir les demandes péremptoires et qu’elle n’avait pas demandé à l’appelante de fournir ses livres et ses registres, parce que celle-ci n’avait pas répondu à la même demande que le premier vérificateur lui avait faite en février 2008 [6] . Elle a déclaré que l’absence de livres et de registres explique principalement pourquoi le calcul de la valeur nette a été effectué [7] .
+[12] En janvier 2010, la vérificatrice est entrée en contact avec l’appelante; elle l’a rencontrée en mai 2010, elle lui a demandé ses livres et ses registres et elle a parlé de la première lettre de proposition de l’ARC. Cependant, l’appelante n’a pas fourni directement les livres et les registres à l’ARC [8] . Elle a plutôt retenu les services de la commis-comptable de son église, Sathya Harrington (la « commis-comptable »). Elle a déclaré que la commis-comptable allait l’aider dans le cadre de la vérification; elle lui a remis des reçus, des journaux et d’autres pièces et les deux se sont rencontrées à plusieurs reprises pour parler de ces documents. L’appelante soutient que, si aucun document n’a été fourni à l’ARC, c’est en partie parce qu’elle se fiait à la commis-comptable et en partie parce que, au moment où elle avait fini par recueillir certains des documents requis, l’ARC avait déjà établi ses nouvelles cotisations; elle affirme néanmoins qu’elle était disposée à fournir les documents à l’ARC.
+III. Analyse
+L’évaluation fondée sur la valeur nette
+[13] La disposition clé, le paragraphe 152(7) de la LIR, est la suivante :
+152(7) Cotisation indépendante de la déclaration ou des renseignements fournis. Le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+[14] Dans l’arrêt Hsu c. Canada, la Cour d’appel fédérale dit du paragraphe 152(7) de la LIR qu’il permet au ministre d’établir des cotisations « arbitraires » en employant toute méthode appropriée pour déterminer l’impôt qu’un contribuable doit payer.
+[15] Le ministre peut recourir à une évaluation fondée sur la valeur nette, que l’on considère comme une solution de dernier recours, dans les cas où des déclarations de revenus n’ont pas été produites, les documents sont insuffisants, des renseignements inexacts sont fournis, il est impossible de vérifier des renseignements ou un contribuable refuse de fournir des renseignements. Cette méthode est fondée sur l’hypothèse selon laquelle une augmentation de la richesse d’un contribuable au cours d’une certaine période peut être imputée au revenu pour cette période à moins que le contribuable ne démontre qu’il en est autrement.
+[16] Indépendamment de toute erreur, de tout vice de forme ou de toute omission dans la cotisation et jusqu’à preuve du contraire, en vertu du paragraphe 152(8) une cotisation, y compris une évaluation fondée sur la valeur nette au titre du paragraphe 152(7), est valide et exécutoire.
+[17] Le ministre, s’il recourt à cette méthode, est tenu de démontrer que la valeur nette du contribuable a augmenté entre deux dates, mais il n’a pas à prouver l’existence d’une source de revenu imposable [9] . Une fois qu’il est démontré qu’il y a eu augmentation, il incombe au contribuable de présenter séparément son revenu imposable et ses gains provenant de sources non imposables [10] .
+[18] L’appelante est d’avis que l’état de la valeur nette qui a été produit (l’« état de la valeur nette ») est peu fiable et [TRADUCTION] « lacunaire, inexact et établi de manière négligente [11] ». Certes, il y a eu des erreurs, mais pas autant que l’appelante le laisse entendre, et les inexactitudes sont principalement attribuables au fait que l’appelante n’a pas voulu fournir ses livres, ses registres et ses renseignements en temps opportun, ce qui a exacerbé les inexactitudes.
+[19] Je ne souscris pas à l’explication de l’appelante selon laquelle elle s’est fiée à la commis-comptable pour fournir les renseignements. Je privilégie la preuve de la vérificatrice et j’y souscris. Cette dernière a dit avoir continué de demander des documents à la commis-comptable en juillet 2010 et en septembre 2010, avant de transmettre la dernière lettre de proposition le 15 octobre 2010, de même que les nouvelles cotisations subséquentes. Laisser entendre que la vérificatrice aurait dû envoyer une autre demande de renseignements en juin 2009 ne tient pas compte du fait que l’appelante a omis de répondre à la première demande de l’ARC, établie 16 mois plus tôt. Environ 27 mois après la première demande de l’ARC, seuls quelques-uns des documents de l’appelante avaient été fournis à l’ARC; ceux-ci auraient pu être fournis plus tôt sans qu’il soit nécessaire de relancer davantage l’appelante.
+[20] On reconnaît dans la jurisprudence que la méthode de la valeur nette ne produit pas des chiffres de revenus précis. Dans la décision Bigayan c. Canada, le juge Bowman, tel était alors son titre, fait remarquer que l’inexactitude fait partie inhérente de cette méthode et que, même s’il s’agit d’un instrument imprécis, ce n’est parfois que le seul moyen d’arriver à un chiffre qui se rapproche du revenu d’un contribuable [12] . Dans l’arrêt Hsu, la Cour d’appel fédérale le reconnaît :
+30 Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute iniquité perçue se rapportant à ce genre d’évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l’estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l’erreur que le ministre a commise.
+Les années frappées de prescription
+[21] Il incombe au ministre de prouver, selon la prépondérance des probabilités, que l’appelante a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, à l’égard des années pertinentes [13] . Le ministre s’acquitte de son fardeau de preuve, dans le cas d’une évaluation fondée sur la valeur nette visant des années frappées de prescription, s’il établit selon des données fiables qu’il existe un écart entre les éléments d’actif du contribuable et ses dépenses et que cet écart demeure inexpliqué et inexplicable [14] . Il appartient alors au contribuable d’indiquer la source et d’établir la nature non imposable de ses revenus [15] .
+[22] L’avocat de l’appelante a souligné que, même si le calcul de la valeur nette de l’appelante, produit à l’audience, fait état d’un montant cumulatif de revenus non déclarés dans les années pertinentes, sa cliente est d’avis qu’elle a déclaré la totalité de ses revenus [16] .
+[23] L’appelante, David Lee Ko, Neung Ja Jung et Kumja Ro (les deux sœurs de l’appelante) et Michael Andrew Steele, ont témoigné pour le compte de l’appelante. Les évaluations fondées sur la valeur nette reposent habituellement sur la crédibilité de l’appelant et de ses témoins, ainsi que sur les explications qu’ils donnent quant à la raison pour laquelle les calculs du ministre sont inexacts.
+[24] Les critères permettant d’évaluer la crédibilité sont résumés au paragraphe 23 de la décision Nichols c. La Reine, 2009 CCI 334, 2009 DTC 1203, où la juge V.A. Miller écrit :
+23 En matière de crédibilité, je peux tenir compte des incohérences ou des faiblesses que comporte le témoignage des témoins, y compris les incohérences internes (si le témoignage change pendant que le témoin est à la barre ou s’il diverge du témoignage rendu à l’interrogatoire préalable), les déclarations antérieures contradictoires et les incohérences externes (soit lorsque le témoignage est incompatible avec des éléments de preuve indépendants que j’ai acceptés). Il m’est ensuite loisible d’apprécier l’attitude et le comportement du témoin. Troisièmement, je peux rechercher si le témoin a des raisons de rendre un faux témoignage ou d’induire la Cour en erreur. Enfin, je peux prendre en compte la teneur générale de la preuve. C’est‑à‑dire que j’ai toute latitude pour rechercher si l’examen du témoignage à la lumière du sens commun donne à penser que les faits exposés sont impossibles ou hautement improbables.
+[25] J’ai conclu que, hormis de légères incohérences, en appliquant les critères relatifs à l’évaluation de la crédibilité, l’appelante et les témoins ont fourni en général un certain nombre d’éléments de preuve précis, plausibles et dignes de foi qui contestent certains des éléments et des montants qui apparaissent dans l’état de la valeur nette du ministre, comme je l’explique en détail ci-après.
+1) Les éléments d’actif commerciaux
+[26] La première erreur alléguée, d’après l’appelante, est le fait que l’état de la valeur nette du ministre exclut ses éléments d’actif et de passif commerciaux. La vérificatrice a demandé des documents de base – mais ne les a pas reçus – pour pouvoir vérifier les montants relatifs à ces éléments que l’appelante avait indiqués dans ses déclarations de revenus. La vérificatrice n’a donc pas commis d’erreur, mais elle a exclu les éléments en question parce qu’ils n’étaient pas corroborés. Le ministre n’est pas tenu de souscrire aux renseignements qui figurent dans les déclarations de revenus.
+[27] Au départ, seuls les soldes de compte bancaire étaient inclus dans cette partie de l’état de la valeur nette. À la conclusion de l’audience, l’intimée a fait des concessions et a inclus des montants liés à de l’équipement et à un véhicule. La valeur de ces deux éléments a été fixée à un montant équivalant à leurs soldes de la fraction non amortie du coût en capital. Les valeurs de l’appelante diffèrent de celles de l’intimée dans le cas des années 2005 et 2006, et la différence est attribuable au fait que l’appelante n’a pas fait de rajustement pour la règle de la demi-année, relativement à l’ajout du véhicule en 2005. Le montant que l’intimée a fixé est donc correct pour l’élément appelé [TRADUCTION] « FNACC conf. à l’annexe 1a – DPA ».
+[28] L’autre erreur alléguée est le fait que la vérificatrice n’a pas pris en compte que l’appelante s’était servie de son véhicule automobile à des fins commerciales. Comme dans le cas qui précède, cet élément n’était pas corroboré. En fin de compte, l’intimée a concédé en partie cet élément.
+[29] La vérificatrice a exclu des montants relatifs aux éléments d’actif commerciaux restants, parce que la documentation était insuffisante. Les valeurs attribuées par l’appelante aux comptes débiteurs, aux stocks, aux montants payés d’avance, à l’achalandage et au compte cumulatif des immobilisations admissibles ont été tirées de l’avis au lecteur accompagnant les états financiers ainsi que des déclarations de revenus de l’appelante. En excluant ces montants, on crée une somme d’environ 60 000 $ de « revenus » supplémentaires sur une base cumulative dans le calcul de la valeur nette de l’appelante. Je conclus que les montants que l’appelante a utilisés pour les éléments d’actif commerciaux ne devraient pas être exclus des calculs figurant dans l’état de la valeur nette du ministre.
+2) Les éléments d’actif personnels
+a) L’encaisse
+[30] La vérificatrice a reconnu avoir commis une erreur en n’indiquant pas une « encaisse » de 8 000 $ à la fin de 2002, et cela justifie un rajustement en faveur de l’appelante.
+[31] L’appelante soutient qu’une erreur aurait été commise dans le cas de la [TRADUCTION] « vente de bijoux » au prix de 15 900 $, en argent comptant, en 2004. Les bijoux ont été vendus, dit-elle, à un prix estimatif de 17 000 $ et cette somme a été déposée dans ses comptes bancaires en 2004 et dépensée en 2004 [17] . Il ne faudrait donc pas que le produit soit indiqué comme un élément d’actif distinct à la fin de 2004.
+[32] Dans ses notes, la vérificatrice a indiqué que le 23 juillet 2010 la commis-comptable lui a dit que le produit de la vente de bijoux était de 15 900 $. La vérificatrice a déclaré dans son témoignage qu’il n’avait pas été indiqué que le produit en argent comptant avait été déposé dans les comptes bancaires de l’appelante en 2004 (ou tiré de ces comptes). Elle a donc tenu pour acquis que l’appelante avait conservé l’argent comptant en 2004 et qu’elle l’avait dépensé en 2005.
+[33] Selon moi, la preuve de la vérificatrice est plus fiable que l’estimation de l’appelante, et c’est celle que je privilégie et que je retiens. Notamment, les soldes de compte bancaire en fin d’année de l’appelante ont augmenté de 1 772 $ de 2003 à 2004, et de 18 760 $ de 2004 à 2005; cela confirme l’inclusion de la somme de 15 900 $ à titre d’élément d’actif à la fin de 2004 et cela concorde avec le calcul fait dans l’état de la valeur nette du ministre.
+b) Le compte personnel se terminant par les chiffres 88 à la Banque de Montréal (le « compte de la BM »)
+[34] Une autre erreur alléguée est le solde de fin d’année inexact du compte de la BM de l’appelante pour 2006.
+[35] Comme on ne lui a pas fourni le relevé bancaire de décembre 2006 concernant le compte de la BM, la vérificatrice s’est fondée sur les renseignements qui lui ont été fournis et qui montraient qu’en novembre 2006 le solde de clôture était de 13 975,86 $. Ses documents de travail font état d’un solde de 19 975,86 $ en date du 27 décembre 2006 dans le compte de la BM. Le montant qu’a utilisé le ministre pour établir le solde au 31 décembre 2006 du compte personnel de Toronto‑Dominion Canada Trust (« TDCT ») se terminant par les chiffres 46 comporte un virement de 15 000 $. L’appelante a montré que la somme de 15 000 $ a été virée le 28 décembre 2006 du compte de la BM au compte personnel de TDCT. Il est donc nécessaire d’effectuer un rajustement de 15 000 $, et cette somme est à soustraire du montant de 19 975,86 $. Cela étant, je conclus que le montant de 4 975,86 $ dont fait état l’appelante est le montant exact.
+c) Le compte d’épargne à intérêt quotidien de TDCT se terminant par les chiffres 05 (le « compte de TDCT »)
+[36] Je conviens avec l’appelante que la vérificatrice a tenu pour acquis erronément que des revenus d’intérêt d’un montant de 25 cents, de 4 cents et de 12,50 $, gagnés en 2002, 2005 et 2006, respectivement, étaient attribuables à un compte d’épargne ordinaire. Le compte de TDCT est un compte de régime enregistré d’épargne-retraite (« REER »), de sorte que les intérêts gagnés, avant qu’ils ne soient retirés, ne sont pas imposables. Ces montants, dans les années indiquées, doivent être rajustés et retirés de l’état de la valeur nette du ministre.
+d) Les comptes débiteurs – Les prêts à des membres de la famille
+[37] Une part importante des témoignages a porté sur les prêts accordés à des membres de la famille. L’appelante s’est décrite comme une personne [TRADUCTION] « pingre », qui aimait économiser de l’argent et qui était capable d’en prêter à sa famille. Bien qu’elle prétende avoir conservé des documents relatifs aux sommes prêtées, ces documents, dit-elle, ont été éliminés après le remboursement des prêts. Je ne vois pas comment l’appelante peut laisser entendre que la vérificatrice s’est trompée en ne tenant pas compte du fait que tous les prêts à la famille avaient été remboursés, alors qu’elle n’a fourni aucun document satisfaisant au sujet de leur remboursement. Je traiterai des prêts séparément.
+[38] L’appelante a déclaré avoir fait les prêts suivants :
+a) 10 000 $ à sa belle-sœur, Jennifer Kim, en 2000. L’appelante a obtenu un remboursement de 5 000 $ en argent comptant en 2001 et en 2002, ainsi que 5 000 $ par chèque en 2002 et en 2003, sans intérêts.
+b) 26 000 $ à sa sœur, Neung Ja Jung, en 2001, par chèque, plus un prêt supplémentaire de 25 000 $ à Mme Jung en 2003. Le premier prêt a été remboursé entre 2002 et 2006 et le second sur une période de deux ans et demi, par le dépôt de sommes d’argent dans le compte bancaire de l’appelante [18] . Il n’y a eu aucune entente de prêt entre l’appelante et Mme Jung, ni entre l’appelante et sa belle-sœur.
+Mme Jung a corroboré que les montants ont été prêtés en 2001 et en 2003. Elle a indiqué que le premier montant avait servi à payer des frais de subsistance et à exploiter des entreprises à Vancouver [19] . Il a été remboursé au moyen d’une combinaison de chèques et de virements télégraphiques au cours d’une période d’environ cinq ans. Le second montant a été remboursé dans un délai d’environ trente mois. Mme Jung prétend avoir suivi ses remboursements de mémoire seulement.
+c) 60 000 $ à sa sœur, Kumja Ro, en 2004, par chèque. Ce prêt a été remboursé à l’appelante en argent comptant au cours d’une période de deux ans. Pour financer ce prêt, l’appelante a emprunté la somme de 90 000 $ auprès de TD Canada Trust et elle a conservé une somme de 30 000 $ pour aider à payer les frais juridiques de son fils.
+Mme Ro a confirmé que le prêt lui avait été accordé en 2004 au moyen de deux chèques de 30 000 $, et que son époux avait établi une entente écrite faisant état du prêt de 60 000 $ [20] . Elle a expliqué que les fonds avaient servi à payer les frais juridiques de son fils, car celui-ci avait été arrêté pour trafic de drogue, ainsi que d’autres dépenses. Le prêt a été remboursé, en argent comptant, dans un délai d’un an ou deux, et le remboursement a commencé au cours du mois ou des deux mois suivant la réception de l’argent.
+[39] La vérificatrice a vérifié quelques avances de prêt totalisant 111 900 $ ainsi que des remboursements totalisant 20 400 $ en consultant les relevés bancaires de l’appelante. Le montant total des avances de prêt qu’elle a vérifiées s’élevait à 111 900 $. Cela a donc donné lieu à un solde de prêt à recouvrer de 91 500 $ en 2006.
+[40] Selon la vérificatrice, le solde de prêt impayé de l’appelante à la fin de 2001 était de 18 000 $, solde qu’elle a créé pour tenir compte des trois remboursements de prêt vérifiés qui avaient eu lieu en 2002 et en 2003, car, comme elle l’a déclaré, [TRADUCTION] « Je devais être sûre que le solde d’ouverture était logique pour 2001 [21] ».
+[41] À l’inverse, l’appelante fait valoir que le solde de prêt impayé à la fin de 2001 s’élevait à 36 514,73 $, soit 10 500 $ à payer par Mme Kim et 26 014,73 $ à payer par Mme Jung. Elle a déclaré dans son témoignage que le prêt de 26 000 $ avait été fait en 2001 par chèque, mais aucune copie de ce chèque n’a été déposée en preuve, pas plus qu’une copie du relevé bancaire de l’appelante faisant état du retrait de 26 000 $ de son compte.
+[42] Dans son témoignage, la vérificatrice a déclaré qu’elle n’était pas au courant du prêt de 26 000 $ qui avait été fait à Mme Jung en 2001. Cependant, ses documents de travail indiquaient un remboursement de prêt de 10 000 $ de la part de « Hans Lee Jung » le 22 octobre 2002 [22] .
+[43] L’appelante a montré que des remboursements de prêt, d’un montant total de 30 310 $, ont été déposés dans son compte bancaire par Mme Jung, dans différentes succursales en Colombie-Britannique [23] . Comme l’appelante a prêté à Mme Jung une somme supplémentaire de 25 000 $ en 2003 et qu’un montant total de 40 310 $ a été remboursé entre 2002 et 2006 [24] , j’admets que le solde de prêt impayé de Mme Jung, à la fin de 2001, était d’au moins 15 000 $.
+[44] Je conclus que Mme Kim a emprunté 10 000 $ en 2000 et remboursé 5 000 $ en argent comptant en 2001, et qu’elle a remboursé 5 000 $ par chèque en 2002. De ce fait, son solde de prêt impayé à la fin de 2001 était de 5 000 $. En me basant sur ces chiffres et sur le solde de prêt impayé de Mme Jung, je conclus que le solde de clôture des prêts était de 20 000 $ en 2001.
+[45] Le ministre a vérifié que la somme de 10 000 $ avait été remboursée en 2002. Je conclus, toutefois, conformément au témoignage de l’appelante, que le montant des remboursements qu’elle a reçus totalisait 10 200 $ pour 2002. Compte tenu de cela, le solde de clôture des prêts était de 9 800 $ en 2002.
+[46] Le ministre a vérifié que la somme de 8 000 $ avait été remboursée et que la somme de 27 500 $ (constituée de virements de 25 000 $, de 1 800 $ et de 700 $) avait été prêtée en 2003 à Mme Jung. L’appelante a indiqué que la somme de 9 600 $ avait été remboursée, ce que j’admets, et que la somme de 25 000 $ était la somme prêtée, ce que je rejette, car elle n’a pas expliqué à quoi avaient servi les virements de 1 800 $ et de 700 $. Je conclus donc que la somme de 27 500 $ constitue le montant total qui a été prêté à Mme Jung en 2003. De ce fait, le solde de clôture des prêts était de 27 700 $ en 2003.
+[47] Le ministre a vérifié que 1 000 $ avaient été remboursés et que la somme de 63 200 $ (constituée de deux chèques de 30 000 $ payés à M. Ro, 3 000 $ payés à la fille de l’appelante, Mme Yeri Ko, et 200 $ payés à Mme Jung) représentait le montant total prêté en 2004. L’appelante a indiqué que la somme de 6 960 $ avait été remboursée, ce que j’admets, et que la somme de 60 000 $ avait été prêtée, ce que je rejette, car l’appelante n’a pas expliqué à quoi avaient servi les montants payés à Mme Ko et à Mme Jung. Je conclus que la somme de 63 200 $ constitue le montant total prêté en 2004. Cela étant, le solde de clôture des prêts était de 83 940 $ en 2004.
+[48] Le ministre a vérifié que 1 400 $ avaient été remboursés et que 1 700 $ (somme constituée de virements de 300 $ et de 1 400 $) avaient été prêtés en 2005 à Mme Jung. L’appelante a indiqué que la somme de 15 450 $ avait été remboursée, ce que j’admets, et la somme de 1 400 $ est celle que je rejette parce que l’appelante n’a pas expliqué à quoi se rapportait le virement de 300 $. J’accepte que la somme de 1 700 $ fût le montant total qui a été prêté en 2005.
+[49] Les calculs de la valeur nette de l’appelante, de pair avec son annexe intitulée [TRADUCTION] « Prêts à la famille », montrent que la somme de 60 000 $, le prêt accordé à Mme Ro, a été ajoutée en 2004, mais qu’elle n’a pas été reportée en 2005 et en 2006 [25] . Cela donne à penser que le prêt de 60 000 $ a été entièrement remboursé avant la fin de 2005. Cela est toutefois inexact, car tant l’appelante que Mme Ro ont indiqué qu’il avait fallu plus d’un an pour rembourser le prêt. M. Ro a également signé une lettre datée du 9 décembre 2010, disant que son épouse et lui avaient emprunté 60 000 $ à l’appelante en 2004 et qu’ils avaient remboursé cette somme au cours des années 2004, 2005 et 2006 [26] . La question consiste donc à savoir si Mme Ro a remboursé à l’appelante une part quelconque du prêt de 60 000 $ entre les années 2004 et 2006. L’appelante et Mme Ro ont déclaré que les remboursements ont tous été faits en argent comptant; Mme Ro a indiqué que son époux et elle remboursaient souvent l’appelante à coups de plusieurs milliers de dollars à la fois [27] .
+[50] Cependant, il ressort des documents de travail de la vérificatrice que la marge de crédit a été intégralement payée entre les mois d’octobre 2004 et de novembre 2005 [28] . Les paiements étaient une combinaison de dépôts en argent comptant et de virements provenant d’autres comptes. Ces dépôts variaient de 3 360 $ à 6 000 $ et ils n’ont eu lieu qu’en 2005. Le montant total des dépôts en argent comptant imputés sur la marge de crédit en 2005 s’élevait à 19 360 $. Si l’on se fonde sur le témoignage de l’appelante et celui de Mme Ro, de pair avec les documents de travail de la vérificatrice, selon lesquels la somme de 19 360 $ représentait des remboursements en espèces de Mme Ro, cela réduit le solde de clôture des prêts en 2005 de 19 360 $. En conséquence, le solde de clôture des prêts s’élevait à 50 740 $ en 2005.
+[51] Le ministre a vérifié qu’aucun montant n’avait été remboursé et que la somme de 1 500 $ (constituée de virements de 1 000 $ et de 500 $) avait été prêtée en 2006 à Mme Jung. L’appelante a indiqué que la somme de 4 500 $ avait été remboursée, ce que j’accepte, et qu’aucun montant n’avait été prêté, ce que je rejette, car elle n’a pas expliqué à quoi la somme de 1 500 $ avait servi. Je conclus que cette somme constitue le montant total qui a été prêté en 2006. Étant donné que l’appelante n’a produit aucune preuve documentaire sur le remboursement du prêt de 60 000 $ en 2006, je conclus que le solde impayé des prêts était de 47 740 $ à la fin de 2006.
+e) Les placements
+[52] Je conviens avec l’appelante qu’il y a eu une erreur de méthode dans l’évaluation des placements de l’appelante à leur juste valeur marchande (« JVM ») ainsi que dans l’exclusion connexe de la valeur de ces placements en 2001. L’intimée a fait des concessions en révisant la valeur des placements en fonction des montants des contributions cumulatives et elle a révisé les montants de façon à indiquer seulement les contributions faites dans ses comptes de placement. Le revenu généré par les placements non enregistrés n’a pas été inclus dans le calcul, car la vérificatrice croyait qu’en le faisant elle imposerait deux fois l’appelante. Bien que cette croyance soit inexacte, elle est favorable à l’appelante.
+(i) La valeur en 2001
+[53] L’état de la valeur nette du ministre montre que la valeur des placements faits par l’appelante chez Toronto-Dominion (« TD ») Canada Trust est de 150 782,01 $ à la fin de 2001. Après le début du procès et la révision des montants des placements, l’intimée a retiré cette somme de l’état de la valeur nette. La vérificatrice a expliqué que ce retrait était attribuable au fait que le montant représentait la JVM des placements et des contributions dans les comptes de placement de l’appelante. L’intimée ne s’est toutefois pas rendue compte qu’une partie de la somme de 150 782 $ représente les contributions cumulatives que l’appelante a faites dans ses comptes de placement de TD Canada Trust. Le retrait de cette partie de 150 782 $ majore artificiellement la valeur nette de l’appelante dans les années pertinentes. Cela étant, cette partie « coût » de la somme de 150 782 $ doit être incluse dans l’état de la valeur nette à titre d’élément d’actif à la fin de 2001.
+(ii) Les certificats de placement garantis de TD Canada Trust (les « CPG »)
+[54] Le ministre n’a reconnu qu’un seul élément d’actif de TD Canada Trust dans le calcul de la valeur nette de l’appelante au cours des années 2002 à 2006. Il s’agit d’un CPG de 125 000 $ acquis en 2002 et portant intérêt à un taux de 4,6 % par année. Le ministre n’a pas inclus dans le calcul de la valeur nette le revenu d’intérêt accumulé. Je conviens avec l’appelante que cette approche est erronée [29] .
+[55] Le ministre a omis de reconnaître les autres CPG de TD Canada Trust de l’appelante parce qu’ils ne constituaient pas de « nouvelles » contributions dans les années pertinentes. Le problème, c’est que l’on présume que les CPG de TD Canada Trust ont été détenus de façon continue pendant toutes les années pertinentes, de sorte que l’intimée tient pour acquis que l’appelante n’a jamais vendu ces placements et n’en a pas utilisé le produit pour acheter d’autres éléments d’actif, réduire son passif ou régler diverses dépenses. L’appelante soutient qu’elle a effectivement vendu ces placements en 2003 et en 2004 et qu’elle s’est servie d’une part du produit pour acheter des placements de Berkshire [30] . Son argument est plausible, d’après mon examen de la pièce A‑1, onglet 12. Je conclus donc que les montants de CPG de TD Canada Trust présentés par l’appelante pour les années pertinentes sont plus exacts.
+[56] La valeur du « coût » des autres CPG de TD Canada Trust de l’appelante devrait être incluse dans les calculs du ministre qui figurent dans l’état de la valeur nette à la fin de 2001. Cependant, étant donné qu’aucune preuve n’a été fournie sur la valeur de ce coût, la valeur du coût égale à celle de 2002 est suffisante pour la fin de 2001. Je conclus que les autres CPG de TD Canada Trust que détenait l’appelante devraient être estimés à 106 787,66 $ à la fin de 2001 [31] .
+(iii) Les placements de Berkshire
+[57] L’intimée allègue que le montant total des contributions cumulatives que l’appelante a faites dans ses comptes de placement de Berkshire au cours des années 2002 à 2006 s’élevait à 273 000 $. L’appelante soutient que le coût total de ces placements, y compris le revenu cumulatif gagné sur ces derniers, est égal à 247 155,05 $ pour la même période.
+[58] Cependant, le montant qu’indique l’appelante ne tient pas compte des placements qu’elle a faits dans le compte de Berkshire dont le numéro se termine par 07‑R, qui est un compte REER [32] . Les contributions faites dans ce compte s’élevaient à 26 500 $, ce qui correspond à peu près à la différence entre les montants indiqués par les parties (une différence de 24 844,95 $) [33] . Au vu de la preuve, je conclus que les montants des placements de Berkshire sont exacts et que les contributions cumulatives au compte REER de l’appelante devraient figurer sur une ligne distincte dans les calculs de la valeur nette.
+(iv) Le REER de Berkshire
+[59] La vérificatrice a déclaré qu’elle avait inclus dans le calcul de la valeur nette les contributions de placement cumulatives faites à partir des comptes bancaires de l’appelante dans les comptes de placement de TD Canada Trust et de Berkshire. Ce faisant, elle n’a pas fait de distinction entre les contributions faites dans des comptes enregistrés et non enregistrés [34] . Comme il a été indiqué, l’appelante a contribué pour un montant total de 26 500 $ dans son compte REER de Berkshire entre 2004 et 2006. Les contributions au REER de Berkshire ont été inscrites sur une ligne distincte dans les calculs de la valeur nette.
+(v) L’assurance-vie d’AIG
+[60] L’appelante a déclaré avoir acheté 18 000 $ d’assurance-vie d’AIG en 2004 [35] . L’intimée a fait remarquer que l’appelante avait payé une somme additionnelle de 18 000 $ à AIG en 2005 [36] . La vérificatrice a déclaré que la première somme de 18 000 $ a été payée par chèque le 12 novembre 2004, et la deuxième somme de 18 000 $ a été payée par traite bancaire le 8 décembre 2005 [37] . L’appelante n’a pas contesté l’un ou l’autre de ces deux montants lors du contre-interrogatoire de la vérificatrice [38] . Je conclus donc que les montants correspondant à l’assurance-vie d’AIG qui figurent dans l’état de la valeur nette du ministre sont exacts.
+3) Les éléments de passif commerciaux
+[61] Pour les mêmes raisons que celles qui ont été mentionnées plus tôt au sujet des éléments d’actif commerciaux de l’appelante, ses éléments de passif commerciaux doivent être inclus dans le calcul de la valeur nette du ministre, et ce, conformément aux montants que l’appelante a fournis.
+4) Les dépenses personnelles
+[62] L’appelante allègue que la vérificatrice a commis une erreur en se fondant sur les moyennes et les données de Statistique Canada (collectivement, les « moyennes »), car celles-ci sont nettement plus élevées que les dépenses personnelles qu’elle a réellement engagées chaque année.
+[63] La vérificatrice a formulé des hypothèses basées sur les moyennes, parce que l’appelante n’avait pas fourni de preuves documentaires claires. Dans cette catégorie, la vérificatrice a tenté d’inscrire les montants tirés des comptes bancaires personnels de l’appelante. Si la vérificatrice n’était pas en mesure d’identifier la nature d’un montant et si elle croyait qu’il s’agissait d’une dépense personnelle, elle inscrivait cette dernière sous les rubriques [TRADUCTION] « Divers » ou [TRADUCTION] « Autres ». Si des montants étaient tirés des comptes bancaires personnels de l’appelante pour payer des soldes de carte de crédit, la vérificatrice consultait les relevés de carte de crédit pour vérifier si les montants avaient servi à payer des dépenses personnelles. Si la vérificatrice n’avait pas de relevés de carte de crédit, elle tenait pour acquis que tous les montants étaient des dépenses personnelles. Après cette catégorisation, la vérificatrice s’est servie des chiffres de Statistique Canada pour toute catégorie de dépenses personnelles qui était en blanc.
+[64] Dans la décision Cox c. La Reine [39] , le juge en chef adjoint Bowman, tel était alors son titre, a rajusté à la baisse les chiffres de Statistique Canada qui avaient été utilisés dans une évaluation fondée sur la valeur nette en se fondant sur la preuve que le style de vie de l’appelant était frugal et ne cadrait pas avec la norme moyenne de Statistique Canada et qu’il manquait d’autres renseignements [40] .
+a) La famille
+[65] En l’espèce, les chiffres de Statistique Canada étaient des moyennes qui s’appliquaient à un ménage de deux personnes. L’appelante a témoigné que sa mère âgée vivait avec elle au cours des années pertinentes. Sa fille aussi avait vécu avec elle au cours des années 2001 et 2002 ainsi qu’au cours de la moitié de 2003. Mme Ro a vécu avec elle pendant un peu plus d’un an, à compter de septembre 2003, et son fils a vécu avec elle en 2004, 2005, 2006 et pendant une partie de 2007.
+[66] L’appelante recevait des paiements mensuels de 1 100 $ de sa mère, de 500 $ de sa fille et de 800 $ de sa sœur. Sa mère lui donnait aussi des dons en argent qu’elle recevait de membres de sa famille. Il s’agissait de montants élevés, comme 8 000 $, 7 000 $ et 3 000 $. L’appelante s’est servie des fonds provenant de sa famille pour payer des dépenses du ménage.
+[67] M. Ko a déclaré qu’il entretient une relation très étroite avec sa mère, mais qu’il ne lui avait jamais parlé de ses affaires de drogue avant son arrestation et qu’il ne lui avait jamais donné de l’argent tiré de ces activités. Il a déclaré qu’à l’époque où il vendait de la drogue, il [TRADUCTION] « dépens[ait] comme un fou » et n’économisait pas d’argent. Il faisait des achats relativement importants [41] . Pour [TRADUCTION] « investir », il achetait davantage de drogue à revendre.
+[68] De 2000 à 2004, il n’a pas vécu avec sa mère, mais il a travaillé à temps partiel au sein de son entreprise. Il a travaillé pour elle à temps plein de 2004 à 2007. Il a déclaré qu’il remettait à sa mère les gains d’emploi qu’il touchait de l’entreprise de vente de fleurs. Au cours des années 2000 à 2004, il lui remboursait en argent – en lui remettant des montants relativement peu élevés à la fois – les frais de sa carte de crédit personnelle Visa de la Banque Royale, qui était liée au compte de sa mère, et elle payait systématiquement les états de compte de Visa. Tout cela corroborait le témoignage de sa mère.
+[69] L’appelante a déclaré qu’à part le remboursement de ses frais de carte de crédit, son fils ne lui avait jamais remis d’argent comptant.
+[70] Dans son témoignage, Mme Ro a qualifié l’appelante de [TRADUCTION] « bourreau de travail », avec laquelle elle avait vécu pendant un an à compter de septembre 2003 et à qui elle avait payé environ 800 $ par mois pour supporter les dépenses du ménage. Elle a déclaré qu’elle dépensait entre 200 $ et 400 $ par mois en provisions alimentaires pour la famille. Là encore, cela corroborait le témoignage de l’appelante.
+b) La méthode
+[71] Je suis convaincue que l’appelante vivait frugalement et qu’elle a fourni une preuve et des estimations suffisantes pour montrer qu’elle dépensait généralement moins au chapitre des dépenses personnelles que les moyennes de Statistique Canada [42] . Je reconnais, de façon générale, que son témoignage est digne de foi au sujet des dépenses personnelles. À moins d’une indication contraire ci-après, diverses catégories de dépenses personnelles seront rajustées en supprimant les moyennes de Statistique Canada et en les remplaçant par les estimations de l’appelante, lorsque ces dernières sont inférieures aux moyennes de Statistique Canada [43] .
+c) La nourriture
+[72] Quand seule sa mère vivait avec elle, l’appelante dépensait environ 200 $ par mois en aliments achetés au magasin, et elles mangeaient rarement au restaurant; elle a dépensé environ 100 $ par mois en aliments achetés au restaurant au cours des années pertinentes. Quand son fils vivait avec elle, elle dépensait environ 400 $ par mois en aliments, et sa fille payait ses propres produits d’épicerie.
+[73] Je conclus que l’appelante a dépensé environ 2 400 $ par année en aliments achetés au magasin en 2002 et en 2003, et environ 4 800 $ par année en aliments achetés au magasin en 2004, en 2005 et en 2006. Je conclus aussi qu’elle a consacré environ 1 200 $ par année à l’achat d’aliments au restaurant. La catégorie [TRADUCTION] « Aliments achetés au magasin » est donc réduite à 2 400 $ en 2002 et la catégorie [TRADUCTION] « Aliments achetés au restaurant » est réduite à 1 200 $ pour chacune des années 2002 et 2003.
+d) Le logement
+[74] Les taxes foncières étaient d’environ 3 500 $ à 3 800 $ par année, l’assurance-habitation était de 500 $ par année et les services d’utilité publique coûtaient environ 1 080 $ par année. En 2003, l’appelante a payé des frais de rénovation domiciliaire d’un montant d’environ 10 000 $ pour réparer une fuite dans le toit et les fenêtres de sa maison. Il n’est pas nécessaire selon moi de procéder à des rajustements dans cette catégorie, car les montants apparaissant dans l’état de la valeur nette du ministre sont tirés du compte bancaire et des relevés de carte de crédit de l’appelante.
+e) Les dépenses courantes
+[75] Les frais de téléphone étaient d’environ 1 200 $ à 1 500 $ par année. Les frais relatifs aux animaux domestiques s’élevaient à quelques centaines de dollars par année. Les produits de nettoyage coûtaient environ 100 $ par année. Les articles de papier, de plastique et d’aluminium coûtaient environ 200 $ par année. Comme j’accepte ces preuves, les [TRADUCTION] « Produits de nettoyage » sont réduits à 100 $ et les [TRADUCTION] « Articles de papier, de plastique et d’aluminium » sont réduits à 200 $ pour chacune des années 2002 et 2003, respectivement.
+f) Les vêtements
+[76] L’appelante ne se souvenait pas d’avoir acheté des vêtements pour elle-même, car elle en recevait de sa tante et de ses cousins en Corée, qui possédaient une usine de vêtements, et elle a peut-être dépensé de 300 $ à 500 $ par année pour des vêtements destinés à sa mère. Les deux ont nettoyé leurs vêtements à la main, mais ne les ont jamais nettoyés à sec. Jamais elle n’a acheté de vêtements pour son fils.
+[77] Pour l’année 2002, je conclus que le montant des [TRADUCTION] « Vêtements pour femmes » s’élève à 400 $. Pour chacune des années 2002 et 2003, je conclus que les montants relatifs aux [TRADUCTION] « Tissus pour vêtements, menus articles et blanchisserie » sont tous réduits à zéro. Pour les années 2003 et 2004, bien que les montants relatifs aux [TRADUCTION] « Vêtements pour femmes » et aux [TRADUCTION] « Vêtements pour hommes » ne soient pas des moyennes de Statistique Canada, ces montants sont réduits à 400 $ et à zéro, respectivement, parce que les montants excédentaires dépensés pour ces articles se rapportaient à M. Ko, qui a déclaré s’être servi de la carte de crédit de l’appelante pour s’acheter des vêtements pour lui-même et sa petite amie en 2003.
+g) Les transports
+[78] À partir de 2002, l’appelante a loué une automobile au prix d’environ 9 324 $ par année, et elle a dépensé environ 5 800 $ par année en essence et en assurance. Ce véhicule a été utilisé à 80 % pour son entreprise. Je conclus que les dépenses personnelles liées à l’automobile auraient été d’environ 3 025 $ par année [44] . De ce fait, les montants que le ministre a fixés pour les années 2002, 2003 et 2004 seront réduits de 80 % pour tenir compte de l’utilisation commerciale du véhicule automobile de l’appelante.
+h) Les soins de santé
+[79] L’appelante a dépensé environ 650 $ en tout, de 2002 à 2006, pour des médicaments et des soins oculaires. Même si les montants indiqués dans l’état de la valeur nette du ministre pour 2003 et 2004 sont supérieurs aux estimations de l’appelante, aucun rajustement n’est justifié, car les montants figurant dans l’état de la valeur nette sont fondés sur les relevés de compte bancaire et de carte de crédit de l’appelante.
+i) Les soins personnels
+[80] L’appelante coupait elle-même ses cheveux et ceux de sa mère, de sorte qu’aucun argent n’a été dépensé à cet égard. Un montant estimé à 50 $ par mois a été dépensé au chapitre des soins personnels. Cependant, cette somme ainsi que tout autre montant lié aux soins personnels étaient déjà inclus dans son estimation du coût des produits d’épicerie, dans la catégorie [TRADUCTION] « Aliments » qui précède. Je conclus que les catégories [TRADUCTION] « Articles et accessoires de soins personnels » et [TRADUCTION] « Coupes de cheveux, lavages, mises en plis » seront toutes deux réduites à zéro.
+j) Les loisirs
+[81] À l’exception d’une somme de 960 $ pour la télévision par câble, l’appelante n’a pas dépensé d’argent pour des divertissements ou des loisirs et n’a pas eu de temps pour faire de l’exercice en 2002. Je conclus qu’à part la somme de 960 $, les [TRADUCTION] « Services récréatifs » seront réduits à zéro.
+[82] Quant à 2003 et à 2004, la vérificatrice a alloué la somme de 6 950 $ et de 12 002 $, respectivement, à la catégorie [TRADUCTION] « Loisirs ». Ces montants ont été tirés des relevés de compte bancaire et de carte de crédit de l’appelante, mais celle-ci a déclaré qu’elle est très active au sein de son église à Kitchener depuis les quarante dernières années et qu’elle achète souvent des produits d’épicerie et des décorations pour les fonctions religieuses. Son fils a également déclaré que, de 2002 à 2004, il s’était servi de la carte de crédit de l’appelante pour faire des achats importants. Ce fait, combiné au style de vie frugal et au témoignage de l’appelante, m’amène à conclure que le montant relatif à cette catégorie est réduit à 1 000 $ pour chacune des années 2003 et 2004 afin de tenir compte de la télévision par câble.
+k) Les imprimés
+[83] L’appelante a déclaré qu’elle ne lisait pas de revues ou de journaux. Elle écoutait plutôt la radio et regardait la télévision. Quand elle voulait lire des livres, elle les empruntait à la bibliothèque de son église. Selon moi, aucun rajustement n’est nécessaire, car les montants indiqués dans l’état de la valeur nette du ministre ont été tirés des relevés de compte bancaire et de carte de crédit de l’appelante.
+l) Le tabac et l’alcool
+[84] Ni l’appelante ni sa mère ne consommaient d’alcool ou ne fumaient. Pour ce qui est de la catégorie [TRADUCTION] « Tabac et articles de fumeur » pour 2003 et 2004 et celle des boissons alcoolisées pour 2004, bien que les montants aient été tirés des relevés de compte bancaire et de carte de crédit de l’appelante, j’en déduis que ces dépenses étaient attribuables à son fils, qui se servait de sa carte de crédit. Les montants sont donc réduits à zéro pour chacune des années 2003 et 2004.
+m) La sécurité
+[85] La seule sous-catégorie au sein de la catégorie [TRADUCTION] « Sécurité » est celle des [TRADUCTION] « Primes d’assurance-vie ». L’appelante avait une assurance-vie, mais elle ne se souvenait pas exactement du montant de ses primes. La prime d’assurance-vie en 2004 est élevée : 18 522 $. Le ministre a réduit ce montant à 18 000 $ en effectuant un rajustement dans la sous-catégorie [TRADUCTION] « RAJUSTEMENT EN FONCTION DES CHIFFRES RÉELS » [45] . Le montant net pour 2004 est donc de 522 $, sans rajustements nécessaires.
+n) Les cadeaux et les contributions
+[86] L’appelante faisait régulièrement des dons en espèces à son église. Les montants indiqués dans la catégorie [TRADUCTION] « Autres (fleurs, jouets, etc.) » pour les années 2002, 2004 et 2005 seront réduits à zéro, car elle a expliqué qu’en tant que responsable de la cuisine de son église, elle achetait souvent des aliments et des décorations pour l’église, qui la remboursait ensuite. La preuve concernant le rôle qu’elle jouait a été corroborée par Michael Steele lors de son témoignage. La vérificatrice n’était pas au courant de cette information avant le procès [46] .
+o) Divers
+[87] L’appelante a indiqué que la quasi-totalité des dépenses que le ministre a incluses dans la catégorie [TRADUCTION] « Divers » ont été effectuées à des fins commerciales [47] . Je considère que son explication est plausible et je conclus que la catégorie [TRADUCTION] « Autres sommes des banques » est réduite comme suit [48] :
+2003
+361,77 $
+2005
+2 194,92 $ [49]
+2006
+3 648,87 $ [50]
+p) Autres
+[88] L’appelante a déclaré que la quasi-totalité des dépenses que le ministre a incluses dans la catégorie [TRADUCTION] « Autres » ont été engagées à des fins commerciales.
+(i) La carte Mastercard de Citi
+[89] M. Steele a déclaré que toutes les dépenses payées au moyen de la carte Mastercard de Citi, soit 3 126,41 $ et 1 471,82 $ en 2003 et en 2004, étaient liées à des fins commerciales [51] .
+[90] Pour 2003, l’intimée a fait une concession, et elle en a fait une semblable pour 2004, qui a supprimé la totalité du solde indiqué dans la sous-catégorie [TRADUCTION] « MasterCard de CITI – pas de relevés ». Cependant, dans le cadre des concessions que l’intimée a faites pour l’année 2003, la somme de 5 191,08 $ a été ajoutée à titre de dépenses personnelles supplémentaires dans les sous-catégories [TRADUCTION] « Mastercard de Citi (Achats) » et [TRADUCTION] « Mastercard de Citi (Intérêts) ». Aucune explication pour cet ajout n’a été donnée au procès, ce qui aurait permis à l’appelante de le contester. Cela étant, il est nécessaire de procéder à un rajustement pour supprimer l’ajout, par l’intimée, du montant de 5 191,08 $ dans les dépenses personnelles inscrites dans la sous-catégorie [TRADUCTION] « Mastercard de CITI ».
+(ii) Les chèques
+[91] Selon M. Steele, un montant de 640,47 $ sur la somme de 60 640,47 $ que le ministre a fixée pour 2004 représente la venue à échéance d’un CPG et il soutient que la vérificatrice a omis de prendre en compte le dépôt des 640,47 $ dans le compte bancaire de l’appelante et n’a fait que constater le retrait de cette somme; cette dernière ne devrait donc pas être indiquée comme une [TRADUCTION] « Dépense personnelle » parce qu’elle a servi à acquérir un CPG [52] . Dans son explication, M. Steele a fait référence à la pièce R‑5, onglet 37, aux pages 14 et 15, mais ces documents n’étayent pas sa déclaration selon laquelle le montant a servi à faire l’acquisition d’un CPG. Aucun rajustement n’est requis.
+(iii) Rajustement en fonction des chiffres réels
+[92] En 2003, l’appelante a payé 2 210,19 $ à un cabinet d’avocats pour l’aider à vendre l’un de ses lieux d’affaires [53] . Elle a fait remarquer de plus que le travail que ce cabinet d’avocats avait accompli était purement de nature commerciale [54] . Le ministre a qualifié ce montant de dépense personnelle [55] . Pour 2003, la sous-catégorie [TRADUCTION] « Rajustement en fonction des chiffres réels » devrait être réduite de 2 210,19 $ pour tenir compte du fait que les frais juridiques de l’appelante avaient trait à des activités commerciales.
+[93] En 2004, l’appelante a payé la somme de 1 434,34 $ à titre de dépense commerciale à une entreprise de livraison pour qu’elle livre des fleurs depuis son entreprise [56] . Le ministre a qualifié ce montant de dépense personnelle [57] . L’intimée a concédé une réduction de 1 500 $ dans la sous-catégorie [TRADUCTION] « Retraits en espèces (rajustement en fonction des chiffres réels [58] ) ». Cela est vraisemblablement lié aux dépenses de livraison. Cela étant, aucun rajustement n’est requis.
+[94] L’appelante a corroboré le témoignage de son fils selon lequel elle n’avait pas toujours payé à M. Ko la totalité des gains d’emploi qu’il gagnait dans l’entreprise de vente de fleurs. Selon elle, il faudrait déduire la totalité de ses [TRADUCTION] « autres revenus » déclarés [59] . Elle a déclaré que son fils lui remettait souvent ses gains d’emploi pour lui donner un coup de main et aussi pour lui rembourser les achats qu’il faisait par carte de crédit. Comme il n’a pas déclaré qu’il remettait la totalité de ses gains à sa mère, il convient de ne déduire que la moitié de ses [TRADUCTION] « autres revenus » déclarés, de sorte qu’un rajustement doit être fait dans chaque année d’imposition pour tenir compte du revenu d’emploi tiré de l’entreprise de l’appelante qui ne lui a pas été réellement payé.
+5) Les déductions
+a) Le remboursement d’impôt sur le revenu
+[95] M. Steele a déclaré qu’en 2003, la fille de l’appelante avait reçu un remboursement de 177 $, mais il n’a pas pu trouver les documents de base prouvant ce remboursement au cours de l’audience, pas plus que l’appelante n’a pu livrer quelque témoignage que ce soit sur ce point [60] . Je conclus que le montant indiqué dans l’état de la valeur nette du ministre est plus fiable.
+b) L’argent du père à la fille
+[96] M. Steele a également déclaré dans son témoignage qu’en 2004 l’appelante avait reçu la somme de 3 000 $ de la part de son ex-époux en guise de cadeau à remettre à sa fille [61] . Cependant, l’appelante a déclaré que la somme de 3 000 $ lui avait été donnée par sa mère, qui l’avait reçue en cadeau de la belle-sœur de l’appelante [62] . On ne sait avec certitude si M. Steele et l’appelante parlaient de la même somme de 3 000 $ ou non. Je conclus que le montant indiqué dans l’état de la valeur nette du ministre est plus fiable.
+c) Les remboursements de prêt de la famille
+[97] Les montants indiqués dans l’état de la valeur nette du ministre sous la sous-rubrique [TRADUCTION] « Remboursements de prêt de la famille » sont les [TRADUCTION] « Virements de la famille à titre de remboursement, vérifiés » [63] . L’appelante a fait valoir que les remboursements de prêt effectués au cours de chaque année étaient supérieurs aux montants apparaissant dans l’état de la valeur nette du ministre, mais elle n’a pas contesté les montants qui y étaient indiqués sous la rubrique [TRADUCTION] « Déductions ». Malgré cela, il y a lieu de rajuster les montants indiqués dans l’état de la valeur nette du ministre en fonction des conclusions que j’ai tirées plus tôt sur les remboursements de prêt effectués dans chacune des années pertinentes.
+d) Les remboursements de dépenses de l’église
+[98] M. Steele a témoigné au sujet de nombreuses dépenses que l’appelante avait engagées, selon lui, pour le compte de son église, dans le cadre de son rôle de responsable de la cuisine de cette église, des dépenses pour lesquelles elle a été remboursée [64] . Là encore, cela était lié au rôle qu’elle jouait comme responsable de la cuisine de cette église, dépenses pour lesquelles l’église l’a remboursée. Je souscris à la preuve relative à cet aspect et je considère que les montants de l’appelante sont fiables.
+e) Le rendement du capital investi
+[99] M. Steele a déclaré qu’il fallait accorder une déduction pour le montant du rendement du capital en 2005 [65] .
+[100] Je ne suis pas d’accord, compte tenu de la méthode qu’a suivie l’intimée pour comptabiliser les placements de l’appelante. Le rendement du capital est vraisemblablement lié aux placements de Berkshire de l’appelante, qui ont été inclus dans le calcul de la valeur nette sur la base des contributions cumulatives. Les dividendes réinvestis, les intérêts et les montants de rendement du capital n’ont pas été comptabilisés selon la méthode des contributions cumulatives. Je conclus donc que la méthode du ministre est correcte et qu’aucune déduction de ce genre n’est justifiée.
+f) Le soutien de la sœur
+[101] M. Steele a indiqué que Mme Ro avait payé à l’appelante la somme de 1 000 $ par mois pendant qu’elle vivait chez elle.
+[102] Cette information a été tirée des documents de travail de la vérificatrice [66] . Ces derniers renferment des notes indiquant que Mme Ro avait emménagé chez l’appelante au milieu de l’année 2004, qu’elle y était restée jusqu’en 2008 et qu’elle avait fourni pendant ce temps à l’appelante une aide financière d’un montant de 800 $ à 1 000 $ par mois. Cependant, la note de la vérificatrice contredit le témoignage de Mme Ro et de l’appelante, à savoir que Mme Ro a vécu avec cette dernière pendant un an à compter de septembre 2003 et qu’elle lui a payé la somme de 800 $ par mois. Les déductions effectuées pour 2004, 2005 et 2006 devraient donc être de 3 200 $, de 7 200 $ et de 0 $, respectivement. Cependant, le ministre a concédé des déductions de 4 800 $, de 9 600 $ et de 9 600 $ pour 2004, 2005 et 2006, respectivement. Pour cette catégorie, je conclus que les montants indiqués dans l’état de la valeur nette du ministre sont plus fiables.
+[103] Compte tenu des rajustements qui précèdent, je conclus que la différence entre les montants cumulatifs des revenus non déclarés pour les années pertinentes est maintenant réduite à un montant total de 109 951 $, qui représente l’ajout des montants suivants dans les revenus non déclarés de l’appelante :
+4 595 $ en 2002;
+13 654 $ en 2003;
+17 713 $ en 2004;
+45 383 $ en 2005;
+28 606 $ en 2006.
+Les années frappées de prescription
+[104] Les nouvelles cotisations qui s’appliquent aux années pertinentes ont été établies après l’expiration de la période normale de nouvelle cotisation. Il incombe donc à l’intimée d’établir qu’il y a eu présentation erronée des faits par négligence, inattention ou omission volontaire, selon le sous-alinéa 152(4)a)(i) de la LIR.
+[105] L’avocat de l’appelante a déclaré que le reste de la différence [TRADUCTION] « peut s’expliquer par le remboursement de prêts, par les dépenses de David, par les dépenses relatives à l’église ainsi que par l’argent comptant provenant d’autres sources et que, juste à cause de la nature intrinsèquement peu fiable des valeurs nettes, nous n’avons pas pu relever [67] ».
+[106] Même après avoir rajusté les calculs de la valeur nette du ministre à partir des éléments de preuve présentés au procès, il est manifeste qu’il y a encore une différence entre les revenus que l’appelante a déclarés (de pair avec son fils et sa mère) et ceux qui ont été calculés au moyen de la méthode de la valeur nette. À mon avis, l’appelante n’a pas expliqué comme il le fallait le reste de la différence de revenu. Je conclus donc que le ministre s’est acquitté de son fardeau de preuve en rouvrant les années frappées de prescription pour les années pertinentes.
+Les pénalités pour faute lourde
+[107] Le ministre a imposé à l’appelante des pénalités pour faute lourde (sur les revenus non déclarés) en vertu du paragraphe 163(2) de la LIR pour chacune des années pertinentes, ainsi qu’en vertu de l’article 285 de la LTA pour les périodes de déclaration. Il incombe au ministre d’établir les faits qui justifient les pénalités imposées.
+[108] Dans la décision Laplante c. La Reine [68] , le juge Bédard résume les règles de droit qui s’appliquent aux pénalités pour faute lourde :
+11 La notion de « faute lourde » qui est acceptée par la jurisprudence est celle qui a été définie par le juge Strayer dans la décision Venne c. Canada (ministre du Revenu national – M.R.N.) […] :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+12 Dans Da Costa c. Canada, […] le juge en chef Bowman […] fit les commentaires suivants :
+[9] […] Les questions qui se posent dans chaque cas […] sont les suivantes :
+a) « le contribuable a-t-il commis une faute en faisant un faux énoncé ou une omission dans la déclaration de revenus? »
+b) « la faute était-elle assez grave pour justifier l’utilisation de l’épithète "lourde" qui est quelque peu péjoratif? »
+[…]
+[11] Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l’importance de l’omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l’erreur, ainsi que le niveau d’instruction du contribuable et son intelligence apparente. Il n’existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qui convient dans le contexte de l’ensemble de la preuve.
+[…]
+13 La Cour d’appel fédérale a de plus précisé, dans l’arrêt Villeneuve c. Canada, 2004 DTC 6077, que l’expression « faute lourde » pouvait englober l’aveuglement volontaire en plus de l’acte intentionnel et de l’intention coupable. […] [69]
+[109] Aux dires de la vérificatrice, la raison la plus importante pour appliquer les pénalités pour faute lourde était l’ampleur des revenus d’entreprise qui n’auraient pas été déclarés pendant les années pertinentes (440 249 $) [70] . L’intimée a fait remarquer qu’outre l’importance des revenus non déclarés : (1) l’appelante n’avait pas fourni à l’ARC des livres et des registres suffisants, 2) elle s’était fait aider par un comptable et une commis-comptable au fil des ans et aurait pu leur poser des questions, 3) elle s’occupait directement de la tenue de ses livres et de ses registres et aurait su quels chiffres avaient servi à établir ses déclarations, et 4) elle signait ses déclarations [71] .
+[110] L’appelante a indiqué dans son témoignage qu’elle produisait ses déclarations chaque année, dans le délai prescrit, depuis son immigration au Canada. Elle savait qu’elle devait déclarer la totalité de ses revenus d’entreprise et elle l’a fait. Elle a catégoriquement nié avoir reçu de l’argent tiré des activités de vente de drogue de son fils, ce que ce dernier a corroboré. Quand elle a acheté l’entreprise, elle était au courant qu’elle devait tenir la totalité de ses livres et de ses registres à des fins fiscales, elle a retenu les services d’un comptable et, à cette fin, elle lui a fourni les reçus, les relevés de compte et les registres comptables. Quand il établissait les déclarations fiscales, ce comptable les passait en revue avec elle; elle se fiait à son expertise.
+[111] Selon moi, le ministre ne s’est pas acquitté du fardeau d’établir les faits qui justifient l’imposition de pénalités pour faute lourde dans ces circonstances, de sorte que j’accorde le bénéfice du doute à l’appelante. Le tableau qui ressort est le suivant : ses livres et registres étaient insuffisants, mais elle en a néanmoins tenu, elle a retenu les services d’un comptable agréé (et plus tard d’une commis-comptable) pour l’aider à remplir ses déclarations fiscales, mais celui-ci est décédé [72] . En outre, l’appelante a récupéré certains des livres et des registres, mais pas tous, en s’adressant au fils du comptable, même si certains documents ont été détruits par une inondation.
+[112] Un fait d’une certaine importance est la nette réduction de l’ampleur de ses revenus non déclarés, en raison des éléments de preuve qui ont été présentés au procès et des concessions que le ministre a faites, comparativement aux revenus déclarés. Si l’on considère la totalité des éléments de preuve et des circonstances, je ne suis pas persuadée que les présentations erronées qui ont été faites dans ses déclarations fiscales équivalent à des gestes intentionnels que l’on peut assimiler à un degré d’insouciance répréhensible.
+IV. Conclusion
+[113] Je conclus que le ministre s’est acquitté du fardeau qui lui incombait en lien avec la question de la prescription. L’appelante a produit un certain nombre de preuves dignes de foi pour réfuter les présomptions du ministre quant au montant des revenus qui n’avaient pas été déclarés au cours des années pertinentes. Le ministre ne s’est pas acquitté du fardeau relatif à l’imposition de pénalités pour faute lourde à l’égard des années pertinentes et des périodes de déclaration.
+[114] Au vu de ce qui précède, les appels relatifs aux années pertinentes sont accueillis, en partie, et les nouvelles cotisations sont renvoyées au ministre pour nouvel examen et nouvelles cotisations, afin qu’il soit tenu compte des concessions que l’intimée a faites et des présents motifs du jugement relativement aux revenus non déclarés et aux pénalités pour faute lourde, pour les années pertinentes et les périodes de déclaration, avec le résultat qu’il y a lieu de rajuster l’assujettissement de l’appelante à la TPS pour les périodes de déclaration.
+[115] Un seul mémoire de dépens entre parties est accordé à l’appelante.
+Signé à Vancouver (Colombie-Britannique), ce 4e jour de mai 2017.
+« K. Lyons »
+La juge Lyons
+Traduction certifiée conforme
+ce 22e jour de novembre 2018.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 74
+No DU DOSSIER DE LA COUR :
+2012-5023(IT)G et 2012-5024(GST)G
+INTITULÉ :
+EUN-SOOK LEE et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATES DE L’AUDIENCE :
+Les 18 et 19 juin 2015 et les 21, 22 et 23 mars 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge K. Lyons
+DATE DES MOTIFS :
+Le 4 mai 2017
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Duane R. Milot
+Avocat de l’intimée :
+Me Tokunbo C. Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Duane R. Milot
+Cabinet :
+Milot Law
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] LRC 1985, ch. 1 (5e suppl.), dans sa forme modifiée [LIR], et LRC 1985, ch. E ‑15 [LTA].
+[2] Réponse au dossier de la Cour no 2012-5024(GST)G, au par. 4. Selon la liste supplémentaire de documents de l’intimée, les [TRADUCTION] « rajustements de vérification de TPS/TVH connus » font état d’une légère variation du [TRADUCTION] « Montant percevable de TPS/TVH non déclaré selon la valeur nette », établi à 30 244,74 $, pour la période de 2002 à 2006.
+[3] Pièce R-12, p. 14 (annexe VII). 25 319,80 $ (3 578,66 $ + 5 444,11 $ + 4 787,85 $ + 8 358,22 $ + 3 150,96 $). Transcription de l’audience du 23 mars 2016, p. 459. Les concessions de l’intimée figurent dans une lettre datée du 11 mars 2016.
+[4] Transcription de l’audience du 23 mars 2016, p. 507, lignes 9-14.
+[5] Pièce A-1, onglet 15.
+[6] Transcription de l’audience du 22 mars 2016, de la p. 293, ligne 22, à la p. 294, ligne 23, et de la p. 317, ligne 23, à la p. 318, ligne 14.
+[7] Transcription de l’audience du 22 mars 2016, p. 282, lignes 13-14.
+[8] Transcription de l’audience du 21 mars 2016, p. 167, lignes 22-24; transcription de l’audience du 22 mars 2016, de la p. 317, ligne 23, à la p. 318, ligne 14; transcription de l’audience du 21 mars 2016, p. 162, lignes 8-12, et p. 168, lignes 7-13.
+[9] Hsu c. Canada, 2001 CAF 240, 2001 DTC 5459 (CAF), autorisation d’interjeter appel devant la CSC refusée [arrêt Hsu], aux par. 24, 25, 29 et 30. Le Manuel des opérations de l’impôt établi par Revenu Canada décrit la méthode de la valeur nette : « Le recours à la méthode de la valeur nette pour calculer le revenu repose sur la prémisse selon laquelle le revenu d’un client pour une période est égal à l’augmentation de la valeur nette du client (position financière) entre le début et la fin de cette période. La valeur nette d’un client est l’excédent de son actif total (d’entreprise et personnel) sur son passif total (d’entreprise et personnel) à une date donnée. »
+[10] Gentile c. Canada, [1988] A.C.F. no 3 (QL), 1 CTC 253 (CF 1re inst.).
+[11] Transcription de l’audience du 23 mars 2016, p. 488, lignes 9-10. Réponse, annexe « A ».
+[12] Bigayan c. La Reine, 1999 CanLII 86(CCI), 2000 DTC 1619, au par. 2 [décision Bigayan].
+[13] Kozar c. La Reine, 2010 CCI 389, 2010 DTC 1251, au par. 7 [décision Kozar].
+[14] Molenaar c. Canada, 2004 CAF 349, 2004 DTC 6688 (CAF), au par. 4.
+[15] Ibid.
+[16] Pièce A-1, onglets 1, 2 et 3.
+[17] Transcription de l’audience du 21 mars 2016, de la p. 77, ligne 17, à la p. 78, ligne 14.
+[18] Transcription de l’audience du 21 mars 2016, p. 57, lignes 6-16.
+[19] Les entreprises avaient pour objet le nettoyage de bureaux et la vente d’aliments santé.
+[20] Pièce A-3, onglet 29.
+[21] Transcription de l’audience du 22 mars 2016, p. 243, lignes 24-28, et p. 244, ligne 1.
+[22] Transcription de l’audience du 22 mars 2016, p. 426, lignes 6-10.
+[23] Pièce A-1, onglet 14. Le montant total de tous les remboursements faisant référence à un numéro de transit, y compris la note de crédit de 1 000 $ d’Inhwa Jung, le 24 juin 2004, est de 30 310 $.
+[24] Pièce A-1, onglet 14. Le montant total des remboursements de 40 310 $ est calculé comme suit : 26 014,73 $ (prêt effectué le 31 déc. 2001) plus 25 000 $ (prêt effectué le 27 fév. 2003) moins 10 704,73 $ (solde de clôture du prêt consenti à Mme Jung au 31 déc. 2006).
+[25] Pièce A-1, onglets 1 et 14, respectivement.
+[26] Pièce A-3, onglet 29.
+[27] Transcription de l’audience du 19 juin 2015, p. 118, lignes 8-18.
+[28] Pièce R-8, onglet 68.
+[29] Transcription de l’audience du 23 mars 2016, p. 480, lignes 13-20.
+[30] Transcription de l’audience du 23 mars 2016, p. 480, lignes 21-25.
+[31] Montant calculé comme suit : 25 967,30 $ + 23 757,86 $ + 57 062,50 $ = 106 787,66 $. Pièce A ‑1, onglet 12, et pièce R-12, p. 3.
+[32] Pièce R-3, onglet 20, à la première page (001357).
+[33] Montant calculé comme suit : 6 000 $ + 10 000 $ + 7 500 $ + 3 000 $ = 26 500 $.
+[34] Transcription de l’audience du 22 mars 2016, de la p. 398, ligne 16, à la p. 401, ligne 1.
+[35] Transcription de l’audience du 21 mars 2016, de la p. 94, ligne 20, à la p. 95, ligne 6.
+[36] Pièce R-12, p. 3.
+[37] Transcription de l’audience du 22 mars 2016, p. 255, lignes 13-18, et p. 401, lignes 2-18.
+[38] Transcription de l’audience du 22 mars 2016, p. 401, lignes 2-19.
+[39] Cox c. La Reine, 2001 CanLII 9 (CCI), 2002 DTC 1515.
+[40] Ibid, par. 14-15.
+[41] Comme des bijoux, des billets d’avion, des chambres d’hôtel, des repas au restaurant, des paiements de location d’automobile, des soins personnels, des meubles, de l’alcool, du tabac, un téléphone cellulaire, le câble, Internet, des factures de vétérinaire, des vêtements et quelques produits d’épicerie.
+[42] Aucune preuve n’a été produite quant à savoir si ces moyennes étaient nationales ou si elles s’appliquaient à une région géographique précise.
+[43] La pièce R-12, p. 15-24, indique que tout montant désigné par le chiffre « 1 » dénote qu’il s’agit d’une moyenne de Statistique Canada.
+[44] Montant calculé comme suit : (9 324 $ + 5 800 $) x 20 % = 3 024,80 $.
+[45] Pièce A-1, onglet 3, p. 4. Cela figure dans la catégorie [TRADUCTION] « Autres » qui suit.
+[46] Transcription de l’audience du 22 mars 2016, p. 419, lignes 20-27.
+[47] Pièce A-2, onglet 22, p. 116-125.
+[48] Pièce A-1, onglet 3, p. 5.
+[49] Pièce A-1, onglet 3, p. 5.
+[50] Pièce A-1, onglet 3, p. 5.
+[51] Transcription de l’audience du 19 juin 2015, p. 16-18.
+[52] Transcription de l’audience du 19 juin 2015, p. 14.
+[53] Le montant de 2 210,19 $ est constitué de deux montants distincts : 1 210,19 $ et 1 000 $. Les montants distincts sont visibles dans les documents comptables manuscrits de l’appelante que comporte la pièce A ‑1, onglet 15, p. L-25 et L-35.
+[54] Transcription de l’audience du 21 mars 2016, de la p. 129, ligne 25, à la p. 130, ligne 20.
+[55] Transcription de l’audience du 19 juin 2015, de la p. 20, ligne 17, à la p. 21, ligne 18.
+[56] Chèque figurant à la pièce A-3, onglet 28.
+[57] Transcription de l’audience du 19 juin 2015, p. 22, lignes 7-27.
+[58] Lettre de l’intimée à la Cour, datée du 11 mars 2016.
+[59] Pièce A-1, onglet 3, p. 3. Pièce A-2, onglet 21 – déclarations de revenus de M. Ko.
+[60] Transcription de l’audience du 18 juin 2015, p. 133.
+[61] Transcription de l’audience du 18 juin 2015, p. 133.
+[62] Transcription de l’audience du 21 mars 2016, de la p. 72, ligne 11, à la p. 74, ligne 13.
+[63] Pièce R-12, p. 2, note 4.
+[64] Transcription de l’audience du 18 juin 2015, de la p. 135, ligne 15, à la p. 136, ligne 17.
+[65] Transcription de l’audience du 18 juin 2015, de la p. 136, ligne 18, à la p. 137, ligne 4.
+[66] Pièce A-2, onglet 25, p. « V-1 ».
+[67] Transcription de l’audience du 23 mars 2016, p. 494, lignes 23-27.
+[68] Laplante c. La Reine, 2008 CCI 335, [2008] ACI no 262 (QL).
+[69] Ibid., aux par. 11-13.
+[70] Transcription de l’audience du 22 mars 2016, de la p. 428, ligne 26, à la p. 429, ligne 5.
+[71] Transcription de l’audience du 23 mars 2016, de la p. 512, ligne 19, à la p. 513, ligne 14.
+[72] Par exemple, le [TRADUCTION] « Journal des opérations commerciales » que l’appelante a tenu sous forme manuscrite, à la pièce A-1, onglet 15.

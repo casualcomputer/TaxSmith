@@ -1,0 +1,316 @@
+---
+title: "De Gennaro v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144186/index.do"
+last_modified: "2016-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 108"
+citation2: ""
+neutral_citation: "2016 TCC 108"
+decision_date: "2016-05-02"
+language: "en"
+item_id: "144186"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3079
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:52:17.901000+00:00"
+cases_cited_count: 14
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c7a04fa46df7c3ea02f4061becc8f7fee1165958d09ed21cb0841b8693e84e3c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# De Gennaro v. The Queen
+
+- Citation: 2016 TCC 108
+- Decision date: 2016-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3079, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+De Gennaro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-05-02
+Neutral citation
+2016 TCC 108
+File numbers
+2012-3273(IT)G
+Judges and Taxing Officers
+John R. Owen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3273(IT)G
+BETWEEN:
+GEORGE DE GENNARO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 29, 2016, at Toronto, Ontario
+Before: The Honourable Justice John R. Owen
+Appearances:
+Counsel for the Appellant:
+Peter Aprile
+Yoni Moussadji
+Counsel for the Respondent:
+H. Annette Evans
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 2008 taxation year, notice of which is dated March 24, 2011, is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 2nd day of May 2016.
+“J.R. Owen”
+Owen J.
+Citation: 2016 TCC 108
+Date: 20160502
+Docket: 2012-3273(IT)G
+BETWEEN:
+GEORGE DE GENNARO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Owen J.
+[1] This is an appeal by George De Gennaro of the reassessment of his 2008 taxation year by notice dated March 24, 2011 (the “Reassessment”). By the Reassessment, the Minister of National Revenue (the “Minister”) denied a loss of $696,134 (the “Adjustment Loss”) claimed by Mr. De Gennaro in a T1 Adjustment Request filed by him for his 2008 taxation year (the “2008 Adjustment Request”) and assessed a penalty under subsection 163(2) of the Income Tax Act (the “ITA”) in the amount of $100,939.70 (the “penalty”).
+[2] The Appellant was not present at the hearing in person but was represented by his counsel. The Appellant was not subpoenaed by the Respondent as a witness, so he was certainly not compelled to attend. The absence of the Appellant meant that the Respondent could not rely on subsections 146(2) and (3) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) to call and cross-examine the Appellant.
+[3] The Respondent’s only witness was Mr. Suleman, who is the Canada Revenue Agency (“CRA”) litigation officer assigned to the Appellant’s appeal. Mr. Suleman had no personal knowledge of the audit or the administrative appeal that followed the filing of a notice of objection by the Appellant. Mr. Suleman’s testimony was directed solely at the identification of copies of documents that he had obtained from the files maintained by the CRA in respect of the Appellant.
+[4] With the consent of counsel for the Appellant, the documents identified by Mr. Suleman as being part of the Appellant’s CRA file were marked as exhibits.
+[5] Following the testimony of Mr. Suleman, the Respondent asked to read in extensive portions of the examination for discovery of the Appellant under subsection 100(1) of the Rules (collectively, the “Respondent’s Read-Ins”).[1] The examination for discovery of the Appellant was in the form of written questions and answers under sections 114 and 115 of the Rules. The Court took a 2½-hour recess for the Appellant’s counsel to review the proposed read-ins. With the exception of clarifying one answer, the Appellant’s counsel did not object to the read-ins proposed by the Respondent, and as the evidence in the read-ins was otherwise admissible I allowed all of the proposed read-ins.
+[6] The Respondent did not object to the Appellant’s proposed read-ins to qualify or explain the read-ins of the Respondent (collectively, the “Appellant’s Read-Ins”), which I also allowed.
+[7] I note that, generally speaking, the basis on which evidence given on an examination for discovery may be read in and form part of the evidentiary record is that the statements are admissions by the party being discovered.[2] The Respondent is taken to adopt the evidence read in by the Respondent whether that evidence is favourable or unfavourable to the Respondent’s case.[3]
+[8] The discovery read-ins by the Respondent and the Appellant are attached to these reasons as Appendix A. I have taken the following salient facts from the read-ins.
+[9] The Appellant is a high school graduate with 2½ years of college.[4] The Appellant was employed full-time by Ontario Hydro from 1978 to 2008. He started as a mechanical maintainer in the nuclear generating division, progressed to journeyman and was promoted to first line manager after 22 years.[5] During the years relevant to this appeal, his duties involved supervising Bruce Power’s Outage Maintenance Services Department, which included “running inspection programs during power outages, preparing pre-job briefs, preparing work reports, coordinating surrounding work or supporting tasks, liaising between Bruce Power and other contractors or work groups, and developing and scheduling the work plan.”[6] In January 2009, the Appellant incorporated a numbered company and through that company provides “Consultation Services for First Line Management Supervisory services.”[7]
+[10] The Appellant e-filed his 2008 T1 income tax return.[8] Michael Bolton of BDO Canada prepared the return on the basis of the Appellant’s information slips.[9]
+[11] The Appellant first contacted Mr. Tom Thompson by telephone in March or April 2009.[10] The Appellant told Mr. Thompson that a friend had received a $50,000 income tax refund after Mr. Thompson prepared his return. The Appellant asked Mr. Thompson for a meeting so that he could give the Appellant information on that filing position.[11]
+[12] The Appellant met with Mr. Thompson three times at the Appellant’s house, but never at Mr. Thompson’s office.[12] The meetings were in or around early April 2009, early June 2009 and mid-June 2009.[13] The Appellant did not ask Mr. Thompson or anyone affiliated with him for references.[14] The Appellant provided Mr. Thompson with his T4 slips and other documents for 2008 in or about early June 2009.[15]
+[13] The Appellant took rough notes of his meetings with Mr. Thompson, which indicate the basic aspects of the proposal that led to the filing of the 2008 Adjustment Request.[16] Paragraph 14 of the Appellant’s Notice of Appeal states that four tax lawyers developed the filing position but, when asked about these four individuals, the Appellant answered that he had not met with them, did not know their identities and did not know how to contact them.[17]
+[14] The Appellant conceded that the so-called “detax” filing position presented by Mr. Thompson has no basis in law and is incorrect, although he also states that he did not understand that at the time he filed the 2008 Adjustment Request.[18] Mr. Thompson’s explanation of the detax filing position is as set out below.
+[15] Specifically, Tom Thompson stated that the agency-principal distinction allows the Government of Canada to use an individual's personal registration number or birth certificate number as a bond account, against which the Government borrows funds from foreign sources to allow it to get good rates, make money on citizens, and “bolster” government coffers. Tom Thompson also stated that a person’s social insurance number functions like a company, separate from the person him- or herself, and that the CRA has to refund taxes to the individual but not to the social insurance number.[19]
+[16] The Appellant attempted to improve his understanding of the plan, and did in fact improve his understanding of it, by asking Mr. Thompson questions.[20] The Appellant says that he was not cautioned against the plan by his accountant or his financial planner and that he was persuaded that the plan relied on a little-known legal loophole and was legitimate by the fact that others had received refunds.[21] The Appellant did not have any notes or documents when he discussed the plan with his accountant.[22]
+[17] Mr. Thompson prepared and delivered the completed 2008 Adjustment Request to the Appellant in or about mid-June 2009.[23] The Appellant reviewed the completed 2008 Adjustment Request, the Request for Loss Carryback and the Statement of Agent Activities before he signed these documents.[24]
+[18] The Appellant signed and then mailed the 2008 Adjustment Request.[25] He filed the Statement of Agent Activities with the 2008 Adjustment Request.[26] This statement identified the following three material amounts included in the computation of the amount of $696,134 identified on the 2008 Adjustment Request as a negative adjustment to Line 135[27] of the Appellant’s 2008 T1 income tax return (the Appellant believed he was the principal and his social insurance number was his agent):[28]
+B. Line 162 *Total money collected as Agent for Principal: $190,589.66
+Minus:
+. . .
+*Amount to principal in exchange for labour $703,287.78
+. . .
+[Minus]
+*Money Collected as Agent for Principal and reported by third parties and Already Posted on lines 101-130 via T4’s, T5’s, T3’s, Other slips, etc.
+$183,435.67
+[19] The Appellant has never conducted a business personally and understands now that he did not have a business loss in 2008.[29] The Appellant was aware at the time that he signed the 2008 Adjustment Request that he was reporting a business loss of $696,134.[30] The Appellant reported this business loss because Tom Thompson had advised him that this was the “technical method required to file in accordance with the legal loophole.”[31] The Appellant now agrees that the loss stated on the 2008 Adjustment Request was a false business loss.[32]
+[20] The Appellant believed that he would receive a full or partial refund of the income tax withheld at source for 2008.[33] The largest refund received by the Appellant prior to 2008 was $15,000 received after he had made a $34,000 RRSP contribution in or about the 1998 taxation year.[34]
+[21] The Appellant reviewed a Request for Loss Carryback prepared by Mr. Thompson and was aware that he was claiming refunds for the 2005, 2006 and 2007 taxation years.[35] The Appellant signed the request on or around June 15, 2009 and filed it by mail.[36] After Mr. Thompson delivered the request to the Appellant, the Appellant did not communicate with anyone affiliated with Mr. Thompson to discuss the request prior to mailing it.[37]
+I. Position of the Appellant [22] Counsel for the Appellant submits that the Appellant should not be liable for the penalty assessed by the Minister under subsection 163(2) of the ITA. The burden of establishing the facts justifying the assessment of the penalty falls on the Minister and the Minister has not satisfied that burden. In particular, counsel submits that there is no evidence to support the conclusion that the Appellant failed to consult a third party advisor regarding the plan prior to filing the 2008 Adjustment Request. In fact, counsel submits, the Appellant stated in answer to questions 33 and 35 of the Appellant’s Read-Ins that he did discuss the plan with his accountant and financial advisor and that neither cautioned him against it.
+[23] The Appellant submits that, as the Respondent’s Read-Ins are the only evidence on this point, the Respondent has failed to establish the third requirement for a finding of wilful blindness identified in Torres v. The Queen, 2013 TCC 380[38] at paragraph 65(f):
+The final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.
+II. Position of the Respondent [24] The Respondent acknowledges that subsections 163(2) and (3) of the ITA place the onus on the Minister to establish that the Appellant has made a false statement in a return, form, certificate, statement or answer and that the false statement was made by the Appellant knowingly or under circumstances amounting to gross negligence.
+[25] The Respondent submits on the basis of the factors identified in Torres that the Appellant, either knowingly or under circumstances amounting to gross negligence, made a false statement in the 2008 Adjustment Request. In making this submission, counsel for the Respondent acknowledges that the evidence available to the Court in this case in support of the assessment of a penalty against the Appellant under subsection 163(2) of the ITA is confined to the four corners of the discovery read-ins and the documents in evidence that are identified by the Appellant in the read-ins.
+III. Analysis A. The Standard of Proof and the Burden of Proof under Subsections 163(2) and 163(3) of the ITA [26] The issue in this appeal is whether the Appellant is subject to the penalty assessed by the Minister under subsection 163(2) of the ITA. In Guindon v. Canada, 2015 SCC 41, [2015] 3 S.C.R. 3, the Supreme Court of Canada confirmed that the penalty provisions found in Part I, Division I of the ITA impose civil penalties and not criminal penalties. Subsection 163(2) is found in Part I, Division I of the ITA. Accordingly, the standard of proof that must be met in order for the Court to uphold a penalty assessed under subsection 163(2) of the ITA is proof on a balance of probabilities.
+[27] The Supreme Court explained this standard in civil cases in F.H. v. McDougall, 2008 SCC 53, [2008] 3 S.C.R. 41 at paragraphs 45 to 49:
+[45] To suggest that depending upon the seriousness, the evidence in the civil case must be scrutinized with greater care implies that in less serious cases the evidence need not be scrutinized with such care. I think it is inappropriate to say that there are legally recognized different levels of scrutiny of the evidence depending upon the seriousness of the case. There is only one legal rule and that is that in all cases, evidence must be scrutinized with care by the trial judge.
+[46] Similarly, evidence must always be sufficiently clear, convincing and cogent to satisfy the balance of probabilities test. But again, there is no objective standard to measure sufficiency. In serious cases, like the present, judges may be faced with evidence of events that are alleged to have occurred many years before, where there is little other evidence than that of the plaintiff and defendant. As difficult as the task may be, the judge must make a decision. If a responsible judge finds for the plaintiff, it must be accepted that the evidence was sufficiently clear, convincing and cogent to that judge that the plaintiff satisfied the balance of probabilities test.
+[47] Finally there may be cases in which there is an inherent improbability that an event occurred. Inherent improbability will always depend upon the circumstances. As Baroness Hale stated in In re B, at para. 72:
+Consider the famous example of the animal seen in Regent’s Park. If it is seen outside the zoo on a stretch of greensward regularly used for walking dogs, then of course it is more likely to be a dog than a lion. If it is seen in the zoo next to the lions’ enclosure when the door is open, then it may well be more likely to be a lion than a dog.
+[48] Some alleged events may be highly improbable. Others less so. There can be no rule as to when and to what extent inherent improbability must be taken into account by a trial judge. As Lord Hoffmann observed at para. 15 of In re B:
+Common sense, not law, requires that in deciding this question, regard should be had, to whatever extent appropriate, to inherent probabilities.
+It will be for the trial judge to decide to what extent, if any, the circumstances suggest that an allegation is inherently improbable and where appropriate, that may be taken into account in the assessment of whether the evidence establishes that it is more likely than not that the event occurred. However, there can be no rule of law imposing such a formula.
+(5) Conclusion on Standard of Proof
+[49] In the result, I would reaffirm that in civil cases there is only one standard of proof and that is proof on a balance of probabilities. In all civil cases, the trial judge must scrutinize the relevant evidence with care to determine whether it is more likely than not that an alleged event occurred.[39]
+[28] The introductory words of subsection 163(2) of the ITA state:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of . . .
+[29] The introductory words identify two conditions that must be satisfied if the assessment by the Minister of a penalty under subsection 163(2) of the ITA is to be maintained.
+[30] First, the Appellant must have made, participated in, assented to or acquiesced in the making of a false statement or omission in a return, form, certificate, statement or answer, referred to collectively as a “return”.
+[31] The terms “false statement” and “omission” do not identify the mental requirement for the penalty, which is instead identified in the second requirement.[40] Accordingly, for the purposes of subsection 163(2) of the ITA, a “false statement” is simply a statement that is untrue and an “omission” is simply something that is left out.
+[32] Second, the false statement or omission must have been made by the Appellant knowingly or under circumstances amounting to gross negligence, or the Appellant must have participated in, assented to or acquiesced in the making of the false statement or omission knowingly or under circumstances amounting to gross negligence.
+[33] Under subsection 163(3) of the ITA, the Minister has the burden of establishing the facts that justify the assessment of a penalty under subsection 163(2) of the ITA.[41] This burden is described by the Federal Court of Appeal in Lacroix v. The Queen, 2008 FCA 241 at paragraph 26, as follows:
+Although the Minister has the benefit of the assumptions of fact underlying the reassessment, he does not enjoy any similar advantage with regard to proving the facts justifying a reassessment beyond the statutory period, or those facts justifying the assessment of a penalty for the taxpayer’s misconduct in filing his tax return. The Minister is undeniably required to adduce facts justifying these exceptional measures.
+[34] The manner in which this burden may be satisfied is described by the Court at paragraph 32:
+What, then, of the burden of proof on the Minister? How does he discharge this burden? There may be circumstances where the Minister would be able to show direct evidence of the taxpayer’s state of mind at the time the tax return was filed. However, in the vast majority of cases, the Minister will be limited to undermining the taxpayer’s credibility by either adducing evidence or cross-examining the taxpayer. Insofar as the Tax Court of Canada is satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth, the Minister has discharged the burden of proof on him within the meaning of subparagraph 152(4)(a)(i) and subsection 162(3) [sic].
+[35] The result of the combination of the civil standard of proof and the burden of proof applicable under subsection 163(2) of the ITA is that the Respondent has the burden of establishing on a balance of probabilities facts that lead to the legal conclusion that the Appellant knowingly or in circumstances amounting to gross negligence made a false statement in a return. The role of the trial judge is to carefully scrutinize all of the evidence (including any admissible evidence of the Respondent obtained by the Respondent through the discovery or cross-examination of the Appellant and any admissible evidence presented by the Appellant to rebut or qualify the evidence of the Respondent) to determine if the burden of proof imposed on the Minister has been met to the civil standard of proof. [42]
+[36] In Farm Business Consultants Inc. v. The Queen, 95 DTC 200 (TCC) (affirmed by the FCA at 96 DTC 6085), Judge Bowman (as he then was) stated at pages 205-206:
+A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. . . . Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer’s conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted. . . .
+[37] Judge Bowman highlights two points. First, subparagraph 152(4)(a)(i) of the ITA imposes different standards[43] with respect to opening up an otherwise statute-barred year than does subsection 163(2) of the ITA for the assessment of a penalty. Consequently, the fact that one of the standards in subparagraph 152(4)(a)(i) of the ITA is met is not, in and of itself, a basis for imposing a penalty under subsection 163(2) of the ITA. Second, where the facts suggest two equally possible results, the benefit of the doubt goes to the taxpayer. Another way of stating this is to say that in such a case the Minister has not met the requirement under subsection 163(3) of the ITA of establishing on a balance of probabilities facts that justify the assessment of the penalty.
+B. False Statement or Omission [38] The Respondent submits that the Appellant made a false statement in a return[44] when he signed the 2008 Adjustment Request in order to claim a business loss of $696,134 for 2008.
+[39] In the answers to questions 13, 16 to 19, and 65 to 68 of the Respondent’s Read-Ins, the Appellant states that Mr. Thompson prepared the 2008 Adjustment Request but that he (the Appellant) signed the form and mailed it to the CRA. The Appellant also states that he subsequently came to understand that he was not carrying on a business in 2008 and that he did not have a business loss in 2008. In light of these admissions by the Appellant, the $696,134 figure identified as a business loss on the 2008 Adjustment Request is a false statement made by the Appellant in a return.
+C. Knowingly, or Under Circumstances Amounting to Gross Negligence [40] The remaining question is whether the false statement in the 2008 Adjustment Request was made by the Appellant knowingly or under circumstances amounting to gross negligence. The false statement was made at the time the Appellant signed the 2008 Adjustment Request. Accordingly, this determination must be made as at the time the Appellant signed the 2008 Adjustment Request.
+(1) Knowingly [41] A textual reading of the term “knowingly” requires that the Appellant subjectively knew that the impugned statement was false when it was made. The context of the word “knowingly”, which is in contrast to “circumstances amounting to gross negligence”, supports this meaning.
+[42] Some of the cases addressing subsection 163(2) of the ITA might be read as suggesting that knowledge can be imputed through a finding of wilful blindness.[45] However, I do not believe that these cases are suggesting that wilful blindness is a substitute for the subjective knowledge required by the word “knowingly”. Rather, they simply confirm that wilful blindness is sufficient to establish “circumstances amounting to gross negligence”. This is made clear in the reasons of the Federal Court of Appeal in Attorney General of Canada v. Villeneuve, 2004 FCA 20 at paragraph 6, Panini v. The Queen, 2006 FCA 224 at paragraphs 41 to 43 and Strachan v. The Queen, 2015 FCA 60 at paragraph 4.
+[43] I note that this interpretation is also consistent with the fact that in criminal matters wilful blindness can substitute for actual knowledge whenever knowledge is a component of mens rea, but cannot be used to impute subjective knowledge where such knowledge is a statutory requirement for the criminal offence.[46]
+[44] Turning to the evidence presented by the Respondent in the form of the Respondent’s Read-Ins, it is clear from the Appellant’s answers to questions 65 and 68 of the Respondent’s Read-Ins that the Appellant did not conduct any business in 2008 and as a consequence could not have made any outlay or incurred any expense that would qualify as a deductible business expense. In my view, even a rudimentary understanding of Canada’s income tax system is sufficient for an average individual to be aware that deductible business losses do not simply appear out of thin air. However, the only evidence I have on the Appellant’s subjective knowledge is the evidence from the Respondent’s Read-Ins. In his answer to question 68, the Appellant states that “at the time I signed the T1 Adjustment, I did not believe it [the loss of $696,134] was a false business loss. I believed I was filing in accordance with the law.” The Appellant elaborates on his understanding of the loss in his answers to questions 20, 29 and 31 of the Respondent’s Read-Ins.
+[45] In light of the Appellant’s uncontradicted evidence regarding his subjective understanding of the basis for the claimed business loss at the time he signed the 2008 Adjustment Request, I have no choice but to accept that the false statement in the 2008 Adjustment Request was not made by the Appellant knowingly. This leaves only the question of whether the false statement was made by the Appellant under circumstances amounting to gross negligence.
+(2) Under Circumstances Amounting to Gross Negligence (a) General Comments on Negligence [46] The concept of negligence is well understood in tort law; however, the concept of “gross negligence” is not a staple concept in that area of the law. Philip H. Osborne states in The Law of Torts (5th ed.):
+. . . Negligence is conduct that gives rise to a foreseeable and substantial risk of its consequences. As the likelihood of the consequences increases, the conduct of the defendant may be described first as grossly negligent and then as reckless.[47]
+[47] The author then adds the following footnote:
+These concepts [i.e., gross negligence and recklessness] play no significant role in tort law. At common law they are drawn within the umbrella concept of negligence. There are, however, some legislative provisions that require the proof of gross negligence or recklessness in order to establish statutory causes of action.[48]
+[48] In a glossary of terms, the author defines “gross negligence” as “[c]onduct that carries a high degree of risk.”[49] Negligence is defined as a “tort based on careless conduct or conduct that creates a reasonably foreseeable risk of harm.”[50]
+[49] The standard against which conduct is assessed is that of a reasonable person, which is an objective standard. Osborne explains:
+. . . The common law has, however, typically resorted to the reasonable person when it is in need of a normative standard of conduct, and negligence law is no exception. The standard of care that must be met in the tort of negligence is that of the reasonably careful person in the circumstances of the defendant.[51]
+[50] In the area of criminal law, the Supreme Court of Canada has consistently held that in offences that involve a determination of negligence, the minimum standard that must be applied is that of a marked departure from the conduct of a reasonable person in the same circumstances.[52] The Court explains the basis for the higher standard (when compared to the civil standard for negligence) as follows:
+In a civil setting, it does not matter how far the driver fell short of the standard of reasonable care required by law. The extent of the driver’s liability depends not on the degree of negligence, but on the amount of damage done. Also, the mental state (or lack thereof) of the tortfeasor is immaterial, except in respect of punitive damages. In a criminal setting, the driver’s mental state does matter because the punishment of an innocent person is contrary to fundamental principles of criminal justice. The degree of negligence is the determinative question because criminal fault must be based on conduct that merits punishment.
+For that reason, the objective test, as modified to suit the criminal setting, requires proof of a marked departure from the standard of care that a reasonable person would observe in all the circumstances. As stated earlier, it is only when there is a marked departure from the norm that objectively dangerous conduct demonstrates sufficient blameworthiness to support a finding of penal liability. With the marked departure, the act of dangerous driving is accompanied with the presence of sufficient mens rea and the offence is made out.[53]
+[Emphasis added.]
+[51] The Court elaborates on the standard of care that a reasonable person would observe in all the circumstances:
+. . . Short of incapacity to appreciate the risk or incapacity to avoid creating it, personal attributes such as age, experience and education are not relevant. The standard against which the conduct must be measured is always the same - it is the conduct expected of the reasonably prudent person in the circumstances. The reasonable person, however, must be put in the circumstances the accused found himself in when the events occurred in order to assess the reasonableness of the conduct.[54]
+[52] In the case of criminal negligence such as criminal negligence causing death, the standard adopted by the Supreme Court is that of a marked and substantial departure from reasonable conduct.[55] Professor Roach observes:
+The decision in J.F. recognizes subtle and fine distinctions in the degree of objective fault between the general rule of proof of a marked departure from reasonable conduct, and the higher standard of marked and substantial departure from reasonable conduct that is required for criminal negligence.[56]
+[53] In either case, the conduct is measured against the standard of care that a reasonable person would observe in all the circumstances, without regard to the personal attributes of the offender, unless it is established that the individual cannot reasonably be held responsible for satisfying that standard. Professor Roach describes the exception to the reasonable person standard as follows:
+In short, the reasonable person will not be invested with the personal characteristics of the accused unless the characteristics are so extreme as to create an incapacity to appreciate the prohibited risk or the quality of the prohibited conduct.[57]
+[54] To summarize, in criminal law (as in tort law) the standard against which the marked departure and marked and substantial departure requirements are applied is an objective one except that the reasonable person is placed in the circumstances of the offender to determine the conduct expected of a reasonable person in those circumstances.
+[55] In my view, these principles are instructive in applying the gross negligence standard in subsection 163(2) of the ITA.
+(b) Gross Negligence under Subsection 163(2) of the ITA [56] The phrase “gross negligence” as used in subsection 163(2) of the ITA was considered in the widely adopted decision of Venne v. The Queen, 84 DTC 6247 (FCTD). At page 6256 of that decision, Strayer J. stated:
+. . . “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[57] Clearly, there is a parallel between this description of gross negligence and the standard for a finding of negligence under the criminal law. Both require at least a marked departure from the conduct of a reasonable person in the circumstances. In fact, the description in Venne may best be equated with the “marked and substantial departure” standard required for a finding of criminal negligence.
+[58] Gross negligence for the purposes of subsection 163(2) of the ITA has been found to exist in circumstances involving wilful blindness. In Villeneuve, supra, the Federal Court of Appeal stated at paragraph 6:
+With respect, I think the judge failed to consider the concept of gross negligence that may result from the wrongdoer’s willful blindness.
+[59] In Strachan, supra, the Federal Court of Appeal agreed with the trial judge’s finding of wilful blindness in a case involving a similar detaxing scheme to the one in issue here. It is instructive to repeat the reasons of the Court in their entirety:
+[1] Subsection 163(2) of the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.) renders a taxpayer liable to payment of a penalty when the taxpayer knowingly, or under circumstances amounting to gross negligence, makes a false statement in a return.
+[2] For reasons cited as 2013 TCC 380, a judge of the Tax Court of Canada dismissed an appeal brought by the appellant from the assessment of a gross negligence penalty in respect of the 2007 taxation year. The facts giving rise to the imposition of the penalty were that the appellant, at the behest of an unscrupulous tax preparer, claimed a fictitious business loss in an amount sufficient to generate a complete refund of all taxes paid by the appellant in respect of her employment income.
+[3] While counsel for the appellant asserts various errors on the part of the Judge, the appellant has failed to establish any basis for interfering with the judgment of the Tax Court. We reach this conclusion on the following basis.
+[4] First, as conceded in oral argument by counsel for the appellant, the Judge made no error in articulating the applicable legal test. Gross negligence may be established where a taxpayer is willfully blind to the relevant facts in circumstances where the taxpayer becomes aware of the need for some inquiry but declines to make the inquiry because the taxpayer does not want to know the truth (Canada (Attorney General) v. Villeneuve, 2004 FCA 20, 327 N.R. 186, at paragraph 6; Panini v. Canada, 2006 FCA 224, [2006] F.C.J. No. 955, at paragraphs 41-43).
+[5] Contrary to counsel for the appellant’s submissions, the Judge’s reasons demonstrate that he properly considered the appellant's background and circumstances.
+[6] Second, the appellant has failed to establish that the Judge misapplied the correct legal test. No palpable and overriding error has been shown in the Judge's finding of mixed fact and law that given the numerous “warning” signs, the appellant was required to make further inquiries of her tax preparer, an independent advisor or the Canada Revenue Agency itself before signing her tax return. Nor has any palpable and overriding error been shown in the Judge’s conclusion that the circumstances precluded a defence that, based upon the wrongful representations of her tax preparer, the appellant believed that what she was doing was permissible.
+[Emphasis added.]
+[60] The Court makes several important points. First, it confirms that gross negligence may be proven by establishing wilful blindness on the part of the taxpayer. Second, the Court confirms that an aspect of a finding of wilful blindness is a failure by a taxpayer to seek out advice when faced with clear warning signs indicating that something is amiss. Finally, the Court confirms that, in the face of clear warning signs, a taxpayer cannot hide behind the wrongful representations of his or her tax preparer.
+[61] It is important to recognize, however, that a finding of wilful blindness is but one basis on which to conclude that a false statement in a return was made under circumstances amounting to gross negligence. One must not lose sight of the basic question of whether the false statement or omission was made in circumstances amounting to gross negligence. A finding of wilful blindness is simply a finding that, in a particular set of circumstances, the actions of the taxpayer support a finding of gross negligence. The concept of wilful blindness is not intended to limit the circumstances in which a finding of gross negligence may be made.
+[62] As stated in Venne, a finding of “gross negligence” requires a high degree of negligence. The existence (or non-existence) of a high degree of negligence is determined by reference to the objective standard of a reasonable person in the same circumstances as the person against whom the penalty is assessed and not by reference to the subjective beliefs or characteristics of this person.[58] The objective standard is only relaxed if it is established that the person is incapable of understanding the duty not to make a false statement or an omission in a return.
+[63] In summary, for the purposes of this case, absent evidence that the Appellant was incapable of understanding his duty not to make a false statement or an omission in a return,[59] to establish circumstances amounting to gross negligence, the Respondent must establish on a balance of probabilities facts that lead to the conclusion that the making of the false statement in the 2008 Adjustment Request by the Appellant was a marked and substantial departure from the conduct of a reasonable person in the same circumstances. It is through this prism that I will review the evidence presented by the Respondent in the form of the Respondent’s Read-Ins.
+(c) Application of the Law to the Facts [64] The Appellant graduated from high school and has 2½ years of college. He was employed by Ontario Hydro from 1978 to 2008, first as a mechanical maintainer in the nuclear generating division, then as a journeyman and finally, after 22 years, as a first line manager, which is a supervisory position. The Appellant performed substantial duties in the course of his employment, including the supervision of others. In 2009, the Appellant incorporated a corporation and provided first line management services to Bruce Power through that corporation.
+[65] The education and employment duties and experience of the Appellant strongly suggest that he was capable of understanding his duty not to make a false statement or omission in a return. The Appellant had a reasonable level of education and his employment required him to carry out reasonably complex duties, including the supervision of others.[60] To the extent that the facts suggest that the Appellant may have been gullible, that is a personal trait that is not material to the determination of gross negligence.
+[66] The Appellant knew when he signed the 2008 Adjustment Request that he was claiming a business loss of $696,134. He also anticipated a refund. I have no doubt that a reasonable person presented with the plan advocated by Mr. Thompson would immediately recognize that there was something seriously wrong with the plan and that it is not possible to materialize a $696,134 business loss out of thin air, regardless of the nature of the purported loophole. Nevertheless, notwithstanding his education and employment experience, the Appellant claimed a $696,134 business loss in the absence of an actual business and actual business expenses. In my view, these facts alone suggest conduct that is a marked and substantial departure from that of a reasonable person in the same circumstances.
+[67] There are other facts that support this conclusion. The business loss claimed by the Appellant was almost four times the Appellant’s employment income for his 2008 taxation year. The claim for the loss not only eliminated his income for 2008 but created a non-capital loss of $522,826 that the Appellant attempted to carryback to his 2005, 2006 and 2007 taxation years. If allowed, the business loss claimed by the Appellant would have eliminated all income tax otherwise payable for 2008. It also appears very likely that the loss would have eliminated all or a significant portion of the tax paid by the Appellant in 2005, 2006 and 2007.[61] In my view, a reasonable person would view such a remarkable result with great suspicion and would not pursue such a course of action without confirmation from an independent advisor or the CRA that the position taken in the T1 Adjustment Request had merit.[62] The failure of an advisor, who may or may not have been aware of the details of the plan, to caution the Appellant against the plan is not confirmation of the merit of the plan.
+[68] Prior to 2008, the only significant refund received by the Appellant was $15,000 and resulted from a $34,000 RRSP contribution. The refund promised by the plan was at least four times larger for 2008 alone and did not require any actual outlay or expenditure by the Appellant. Again, a reasonable person would view such a remarkable result with great suspicion.
+[69] Mr. Thompson’s name does not appear anywhere on the 2008 Adjustment Request even though he prepared the request for the Appellant. A reasonable person would question why Mr. Thompson’s name is missing from the form.
+[70] The Appellant communicated with Mr. Thompson primarily by telephone and e-mail. The Appellant met with Mr. Thompson in his (the Appellant’s) home and did not attend Mr. Thompson’s office in Kincardine. A reasonable person would want to visit the office of an individual advocating a tax plan that produces such a remarkable result if for no other reason than to confirm that the individual actually had an office.
+[71] The Appellant could not identify, and did not meet with, any of the four tax lawyers credited with having conceived the plan. A reasonable person would have insisted on discussing a tax plan that generates such a remarkable result with at least one of the four tax lawyers who purportedly came up with the plan.
+[72] The Appellant was given the 2008 Adjustment Request with the word “per” before the place where he was to sign the form. A reasonable person would have questioned why the word “per” was being used on a form that had to be signed by that person.
+[73] Mr. Thompson was not known to the Appellant prior to his retaining him to prepare the 2008 Adjustment Request. A reasonable person would be very wary of tax advice from a stranger that produces such a remarkable result, and would seek reliable confirmation that the advice is correct.
+[74] The Appellant initiated contact with Mr. Thompson on the recommendation of a friend who had received an inordinately large tax refund. A reasonable person would be suspicious of a recommendation based on a filing position that generates an inordinately large tax refund. As well, the fact that a refund was given is not proof of a valid tax plan.
+[75] The Appellant did not ask for or receive references from Mr. Thompson. A reasonable person would want to ensure that the individual advocating a tax plan that produces such a remarkable result had legitimate references.
+[76] The Appellant states in his discovery evidence that he relied on Mr. Thompson’s explanation of the plan and that he believed he was relying on a legal loophole to create the business loss.[63] The Appellant explained his understanding of the plan in his answers to questions 20 and 29 of the Respondent’s Read-Ins:
+. . . the agency-principal distinction allows the Government of Canada to use an individual’s personal registration number or Birth Certificate number as a bond account, against which the Government borrows funds from foreign sources, to allow the Government [to] get good rates, make money on citizens, and bolster the coffers. Tom Thompson also stated that a person’s social insurance number functions like a company, separate from the person him- or herself, and that CRA has to refund taxes to the individual but not to the SIN.
+[77] The Appellant explains his understanding of the Statement of Agent Activities filed with the 2008 Adjustment Request in his answer to question 71:
+My understanding of the Statement of Agent Activities is set out in my response to question 29. I believe that I was the principal and my social insurance number was my agent.
+[78] The explanation provided by Mr. Thompson is on its face patently absurd and no reasonable person would accept that explanation in support of a $696,134 business loss that has no other justification whatsoever. The idea that a social insurance number functions like a company or that a social insurance number can be an agent of the person holding that number is ridiculous. The idea that a loss of $696,134 can, in effect, be plucked out of thin air is also ridiculous.
+[79] The explanation in the answers to questions 20, 29 and 71 of the Respondent’s Read-Ins is not the description of a tax plan or of a legal loophole. Rather, it is pure nonsense and gobbledegook. In my view, no reasonable person would accept Mr. Thompson’s explanation in support of a tax plan that produces a $696,134 business loss purportedly on the basis of a legal loophole. Accordingly, the fact that the representations of Mr. Thompson are part of the circumstances in which the reasonable person is placed is of no assistance to the Appellant.
+[80] The Appellant indicates in his discovery evidence that he discussed the plan with his accountant and with his financial advisor and that they did not caution him against the plan. I have already noted that a failure to caution against the plan is not the same as confirmation that the plan has merit, which a reasonable person would seek in the circumstances. In any event, the Appellant also states that he did not have any notes or documents when he discussed the plan with his accountant, Again, those are not the actions of a reasonable person in the circumstances.
+[81] The Appellant’s counsel submits that the Respondent has failed to produce evidence that the Appellant did not seek the advice of a third party and therefore has not met the burden established by subsection 163(3) of the ITA. In my view, the absence of such evidence is not fatal to the position of the Respondent because it is the totality of the evidence that must be considered in determining whether the Respondent has met the burden established by that subsection. After careful consideration of all of the Respondent’s evidence regarding the circumstances of the false statement made by the Appellant in the 2008 Adjustment Request, I am of the view that the burden on the Respondent established by subsection 163(3) of the ITA has been satisfied.
+[82] In particular, the Appellant’s signing and filing of the 2008 Adjustment Request in the circumstances disclosed by the evidence tendered by the Respondent represents a marked and substantial departure from the conduct of a reasonable person in the same circumstances and constitutes gross negligence as described in Venne. Accordingly, the false statement made by the Appellant in the 2008 Adjustment Request was made in circumstances amounting to gross negligence.
+[83] If the Appellant wished to explain why the facts disclosed by the evidence of the Respondent do not properly reflect the facts that should be considered by this Court, it was incumbent on him to testify, which he chose not to do.
+[84] For the foregoing reasons, the appeal of the Appellant is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 2nd day of May 2016.
+“J.R. Owen”
+Owen J.
+APPENDIX
+CITATION:
+2016 TCC 108
+COURT FILE NO.:
+2012-3273(IT)G
+STYLE OF CAUSE:
+GEORGE DE GENNARO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 29, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John R. Owen
+DATE OF JUDGMENT:
+May 2, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Peter Aprile
+Yoni Moussadji
+Counsel for the Respondent:
+H. Annette Evans
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Peter Aprile
+Firm:
+Counter Tax Lawyers
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Prior to the commencement of the hearing, the Respondent made a motion to have the four-day notice requirement in Practice Note 8 waived. The Respondent in fact gave two days’ notice to the Appellant after being told that the Appellant would not be present at the hearing. It is, of course, incumbent on counsel to ensure that the deadlines in the Rules and the Practice Notes are complied with. However, as the Appellant was given two days’ notice (as opposed to no notice), I concluded that in this particular case there would be no material prejudice to the Appellant from the waiver of the four-day notice period, and so I allowed the motion and waived the notice period applicable to the Respondent. I also waived the notice period for the Appellant to read in portions of the examination for discovery of the Appellant that qualify or explain the answers read in by the Respondent.
+[2] See, generally, Sidney N. Lederman, Alan W. Bryant & Michelle K. Fuerst, The Law of Evidence in Canada, 4th ed.(Markham, Ont.: LexisNexis, 2014), at paragraph 16.168 and Stanley Schiff, Evidence in the Litigation Process, Master Edition (Scarborough, Ont.: Carswell, 1993), at page 445.
+[3] See, for example, Mackow v. Sood, 1993 ABCA 152 (CanLII) at paragraph 15.
+[4] Question 9 of the Respondent’s Read-Ins.
+[5] Question 10 of the Respondent’s Read-Ins.
+[6] Question 11 of the Respondent’s Read-Ins.
+[7] Questions 13 and 21 of the Respondent’s Read-Ins.
+[8] Question 14 of the Respondent’s Read-Ins.
+[9] Question 15 of the Respondent’s Read-Ins.
+[10] Questions 23 and 24 of the Respondent’s Read-Ins.
+[11] Question 24 of the Respondent’s Read-Ins.
+[12] Questions 25 and 39 of the Respondent’s Read-Ins.
+[13] Question 25 of the Respondent’s Read-Ins.
+[14] Question 40 of the Respondent’s Read-Ins.
+[15] Question 58 of the Respondent’s Read-Ins.
+[16] Question 27 of the Respondent’s Read-Ins.
+[17] Question 30 of the Respondent’s Read-Ins.
+[18] Question 20 of the Respondent’s Read-Ins.
+[19] Question 20 of the Respondent’s Read-Ins. See also question 29.
+[20] Question 69 of the Respondent’s Read-Ins.
+[21] Question 31 of the Respondent’s Read-Ins and question 35 of the Appellant’s Read-Ins.
+[22] Question 33 of the Appellant’s Read-Ins.
+[23] Questions 16, 18 and 59 of the Respondent’s Read-Ins.
+[24] Question 61 of the Respondent’s Read-Ins. Both documents are in Exhibit R-1. In the Respondent’s Read-Ins, the Appellant identifies the Statement of Agent Activities and the Request for Loss Carryback as being in Tabs 2 and 3 respectively of the Respondent’s book of documents. However, during the hearing, the Respondent’s counsel stated that the same documents were also in Tab 1 (together with the 2008 Adjustment Request), which is correct. To avoid duplication, only Tab 1 was entered as an exhibit.
+[25] Questions 17, 18 and 19 of the Respondent’s Read-Ins.
+[26] Question 70 of the Respondent’s Read-Ins.
+[27] Line 135 of the T1 return states the taxpayer’s net business income for the year. A negative number indicates a loss from business.
+[28] Question 71 of the Respondent’s Read-Ins. The Appellant also refers to his understanding as set out in question 29 of the Respondent’s Read-Ins.
+[29] Questions 13 and 65 of the Respondent’s Read-Ins.
+[30] Question 67 of the Respondent’s Read-Ins.
+[31] Question 66 of the Respondent’s Read-Ins.
+[32] Question 68 of the Respondent’s Read-Ins.
+[33] Question 74 of the Respondent’s Read-Ins.
+[34] Question 76 of the Respondent’s Read-Ins.
+[35] Question 84 of the Respondent’s Read-Ins.
+[36] Questions 79 and 81 of the Respondent’s Read-Ins.
+[37] Question 87 of the Respondent’s Read-Ins.
+[38] Affirmed under the name Strachan v. The Queen, 2015 FCA 60.
+[39] See, also, paragraph 94 of Merck Frosst Canada Ltd. v. Canada (Health), 2012 SCC 3, [2012] 1 S.C.R. 23.
+[40] This can be contrasted with the use of the phrase “false or deceptive statements” in paragraph 239(1)(a) of the ITA, which encompasses the mens rea for the offence described in that paragraph.
+[41] I note that because subsection 163(3) of the ITA is an unambiguous statutory rule, the Court has no authority to alter or shift the burden of proof imposed by this rule. See also, Vine Estate v. Canada, 2015 FCA 125, [2015] 4 F.C.R. 698 at paragraph 25.
+[42] See also, Vine, supra footnote 41, at paragraph 25.
+[43] There must be a misrepresentation attributable to neglect, carelessness, or wilful default, or there must be fraud in filing the return or in supplying any information under the ITA.
+[44] The word “return” is defined in subsection 163(2) as “a return, form, certificate, statement or answer”.
+[45]For example, Panini v. The Queen, 2006 FCA 224 at paragraph 43. However, the Court’s description of wilful blindness in that paragraph must be read in light of paragraphs 41 and 42 of the judgment, which make it clear that a finding of wilful blindness is a basis for a finding of gross negligence. This is discussed in more detail later on in these reasons.
+[46] See, for example, Shand v. The Queen, 2011 ONCA 5, a case involving a charge of murder under paragraph 229(c) of the Criminal Code. An application for leave to appeal to the Supreme Court of Canada was dismissed on January 19, 2012.
+[47] Philip H. Osborne, The Law of Torts, (5th ed.)(Toronto: Irwin Law, 2015) at page 264.
+[48] Osborne, supra, at page 264 footnote 1.
+[49] Osborne, supra, at page 485.
+[50] Osborne, supra, at page 486.
+[51] Osborne, supra, at pages 27-28.
+[52] See, for example, R. v. Beatty, 2008 SCC 5, [2008] 1 S.C.R. 49, a case involving a charge of dangerous operation of a motor vehicle causing death. Beatty was applied in R. v. Roy, 2012 SCC 26, [2012] 2 S.C.R. 60.
+[53] Beatty, supra, paragraphs 35 and 36.
+[54] Beatty, supra, paragraph 40.
+[55] See, for example, R. v. J.F., 2008 SCC 60, [2008] 3 S.C.R. 215, a case involving the charges of manslaughter by criminal negligence and manslaughter by failing to provide the necessaries of life.
+[56] Kent Roach, Criminal Law, 6th ed.(Toronto: Irwin Law, 2015), at page 204.
+[57] Supra, at page 201.
+[58] As stated above, subjective knowledge is, however, relevant to the “knowingly” standard in subsection 163(2) of the ITA.
+[59] The burden of establishing such incapacity is on the Appellant.
+[60] In any event, as stated earlier, the onus to establish incapacity is on the Appellant.
+[61] I do not have direct evidence as to the effect of the loss carry-back, if it were allowed. However, it seems unlikely, given the Appellant’s 2008 income and the nature of his employment, that the Appellant’s income was significantly different in 2005, 2006 and 2007.
+[62] The suggestion that the Appellant relied on Mr. Thompson is addressed below.
+[63] I consider this fact to be relevant because it relates to one aspect of the circumstances under which the “reasonable person” is considered to be acting, as required by the application of a gross negligence standard.

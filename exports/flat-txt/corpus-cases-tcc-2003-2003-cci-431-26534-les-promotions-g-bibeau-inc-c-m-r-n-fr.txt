@@ -1,0 +1,178 @@
+Title: Les Promotions G. Bibeau Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26534/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-431-26534-les-promotions-g-bibeau-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-06-25
+
+# Les Promotions G. Bibeau Inc. c. M.R.N.
+
+- Citation: 2003 CCI 431
+- Decision date: 2003-06-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3216, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Promotions G. Bibeau Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-25
+Référence neutre
+2003 CCI 431
+Numéro de dossier
+2002-4709(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2002-4709(EI)
+ENTRE :
+LES PROMOTIONS G. BIBEAU INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SERGE LAVERDIÈRE
+intervenant.
+____________________________________________________________________
+Appel entendu le 22 avril 2003 à Montréal (Québec)
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Représentante de l'appelante :
+Ginette Bibeau
+Avocate de l'intimé :
+Me Julie David
+Pour l'intervenant :
+L'intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de juin 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Référence : 2003CCI431
+Date : 20030625
+Dossier : 2002-4709(EI)
+ENTRE :
+LES PROMOTIONS G. BIBEAU INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SERGE LAVERDIÈRE
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Montréal (Québec), le 22 avril 2003.
+[2] L'appelante interjette appel de la décision du ministre du Revenu national (le « Ministre » ), selon laquelle l'emploi exercé par Serge Laverdière, le travailleur, lorsqu'à son service, au cours de la période en litige, soit du 28 janvier 2000 au 23 juillet 2001, était assurable au sens de la Loi sur l'assurance-emploi (la « Loi » ) car le travailleur était embauché en vertu d'un contrat de louage de services.
+[3] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[4] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel, lesquelles ont été admises ou niées par la représentante de l'appelante :
+a) L'appelante, constituée en société en 1986, fait la promotion de cartes de crédit dans les centres commerciaux, foires, salons et festivals. (admis)
+b) L'appelante exploite son entreprise à l'année longue dans la province de Québec et occasionnellement dans les provinces maritimes. (nié)
+c) L'appelante embauche des personnes, qu'elle considère comme des sous-contractants ou travailleurs indépendants, pour effectuer la vente de cartes de crédit. (admis)
+d) Durant la période en litige, le travailleur a travaillé pour l'appelante pour faire la promotion de cartes de crédit d'institutions bancaires et de grands magasins. (admis)
+e) L'appelante fournissait au travailleur tout l'équipement nécessaire à son travail : le kiosque, les cadeaux promotionnels, les formulaires d'application et les formulaires de rapports. (nié)
+f) Une superviseure de l'appelante communiquait avec le travailleur pour lui faire part des lieux de travail où il devait se présenter et de son horaire de travail. (nié)
+g) Le travailleur devait respecter sa cédule de travail. (nié)
+h) La superviseure téléphonait au travailleur à la fin de chaque jour de travail afin de connaître le nombre d'applications complétées et d'obtenir un résumé des activités de la journée. (nié)
+i) La superviseure se présentait une ou deux fois par semaine au kiosque du travailleur afin de compléter les inventaires de primes remises aux clients et les inventaires de formulaires nécessaires au travailleur. (nié)
+j) Le travailleur devait préparer un rapport hebdomadaire de ses activités et le retourner à l'appelante. (nié)
+k) Le travailleur recevait 4,00 $ par formulaire de demande complété. (admis)
+l) Le travailleur était payé à chaque semaine par chèque ou par dépôt direct. (nié)
+[5] L'appelante, constituée en société en 1986, fait la promotion de cartes de crédit dans les centres commerciaux, foires, salons et festivals. L'entreprise est exploitée à l'année dans la province de Québec et occasionnellement dans les provinces maritimes. L'appelante embauche des personnes qu'elle considère comme des sous-contractants ou travailleurs indépendants pour effectuer la vente de cartes de crédit.
+[6] Durant la période en litige, le travailleur a oeuvré pour l'appelante à la promotion de cartes de crédit d'institutions bancaires et de grands magasins.
+[7] Ginette Bibeau, directrice de l'appelante et représentante de cette dernière à l'audition de cet appel, a expliqué que l'appelante avait fourni, à la demande de Serge Laverdière, l'équipement nécessaire pour son travail, mais qu'en règle générale les travailleurs fournissaient leur propre équipement. Elle a déclaré que l'appelante fournissait le kiosque, les cadeaux de promotion et les formulaires d'application et de rapports.
+[8] Ginette Bibeau a nié le paragraphe 5 f) de la Réponse à l'avis d'appel et a expliqué que l'appelante ne choisissait pas le lieu de travail et que le travailleur n'avait pas d'horaire fixe ou de cédule de travail à respecter. Elle a ajouté qu'un sous-contractant se présentait au kiosque du travailleur, à l'occasion, pour vérifier si tout était sous contrôle et que le travailleur ne devait pas faire rapport hebdomadaire de ses activités.
+[9] Le travailleur était rémunéré par dépôt direct selon son formulaire de travail. Les clients de l'appelante étaient les banques et des grands magasins. Le travailleur oeuvrait dans la région de Québec alors que la place d'affaires de l'appelante est située à Montréal. Le travailleur n'a reçu aucune formation de l'appelante.
+[10] Selon Ginette Bibeau, le travailleur faisait partie de l'équipe d'une certaine Carmen Vaillancourt, une travailleuse autonome. Un document déposé en preuve sous la cote I-3 indique, en plus du nom de l'équipe, les nom, heures et endroits de travail de Serge Laverdière, le nom et la source de la demande de carte de crédit ainsi qu'une case pour les commentaires réservés au bureau. Selon ce témoin, madame Vaillancourt n'assignait ni les endroits, ni les heures du travailleur.
+[11] En contre-interrogatoire, Ginette Bibeau a admis que l'appelante louait les kiosques moyennant une commission moindre.
+[12] Selon un document, imprimé sur la papeterie de l'appelante, intitulé « critères » (pièce I-1), cette dernière offrait un bonus aux employés à tous les trois mois « selon le taux d'acceptation » À la page 2 de ce document on peut y lire : « Il est très important QUE CHACUN DES EMPLOYÉS respecte les critères pour augmenter notre taux d'acceptation, alors tous les employés auront la chance d'obtenir un BONUS. » Ce document a été préparé par l'appelante et remis au travailleur.
+[13] Un document déposé sous la cote I-2 indique les salaires payés à Serge Laverdière du 28 janvier 2000 au 23 juillet 2001.
+[14] Madame Bibeau a admis que le travailleur devait se conformer aux critères énoncés ci-haut. Elle a émis un communiqué (pièce A-1) expliquant le rôle de l'entreprise et les conditions de travail de Serge Laverdière qui était considéré comme travailleur autonome.
+[15] Carmen Vaillancourt a témoigné qu'elle travaille pour le payeur depuis 1998 dans la région de Québec; ses tâches consistaient à trouver les emplacements de travail dans les centres commerciaux ou les banques.
+[16] Elle a trouvé des endroits pour le travailleur Serge Laverdière. Selon elle, Serge Laverdière ne communiquait qu'avec elle et ce à tous les jours ou aux deux jours car il la considérait comme la superviseure; elle était le point de repère.
+[17] Elle faisait la compilation des ventes hebdomadaires faites par le travailleur. Elle préparait les kiosques des travailleurs et allait récupérer le matériel, dont celui de Serge Laverdière, car c'était un travail d'équipe.
+[18] Serge Laverdière donnait ses disponibilités et Carmen Vaillancourt préparait son horaire. L'appelante a communiqué trois fois avec Carmen Vaillancourt au sujet du travail de Serge Laverdière.
+[19] Contrairement au témoignage de madame Bibeau, le travailleur, Serge Laverdière a déclaré qu'il n'a pas négocié avec l'appelante pour établir sa rémunération.
+[20] Serge Laverdière a admis qu'il avait déjà reçu une formation ailleurs avant de travailler pour l'appelante. Il a affirmé qu'il n'avait pas négocié avec l'appelante quant à son statut de travailleur autonome.
+[21] Il recevait 4% de son salaire pour tenir lieu des vacances en plus de sa rémunération. Il faisait rapport à l'appelante sur son travail à toutes les semaines.
+[22] La distinction entre un contrat de louage de services et un contrat de travailleur autonome est une question mixte de droit et de fait.
+[23] La jurisprudence établie ne considère pas qu'un contrat d'entreprise existe par la simple reconnaissance des parties. Il faut tenir compte de toutes les circonstances entourant les relations contractuelles entre les parties.
+[24] Le contrat de louage de services est un contrat en vertu duquel une partie, le préposé ou l'employé, convient pour une période déterminée ou un temps indéfini à temps complet ou à temps partiel de travailler pour l'autre partie.
+[25] Un contrat d'entreprise (travailleur autonome) est un contrat en vertu duquel une partie accepte d'effectuer pour une autre partie un certain travail précis. Il envisage ordinairement l'exécution d'un travail délimité et n'exige pas que le contractant exécute personnellement quelque chose.
+[26] Une jurisprudence constante reconnaît les quatre éléments de base pour distinguer un contrat de louage de services d'un contrat d'entreprise.
+[27] La Cour d'appel fédérale dans la cause Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, énumère les quatre critères pour distinguer le contrat de louage de services du contrat d'entreprise (travailleur autonome). Il faut examiner l'ensemble des divers éléments qui composent la relation entre les parties.
+[28] Les critères sont les suivants :
+a) le degré de contrôle;
+b) la propriété des outils;
+c) les risques de perte ou les chances de profit;
+d) le degré d'intégration.
+Le degré de contrôle
+[29] Le travailleur Laverdière devait se rapporter à la superviseure, madame Carmen Vaillancourt, et celle-ci lui indiquait les lieux et son horaire de travail.
+[30] Selon le formulaire préparé par l'appelante (pièce I-3), le travailleur faisait partie de l'équipe de Carmen Vaillancourt et cette dernière communiquait avec lui une fois par jour ou aux deux jours.
+[31] Sur ce formulaire, le travailleur indiquait le lieu de travail, le nom des clients et les heures travaillées à un taux établi par l'appelante.
+[32] S'ils avaient des plaintes, les clients de l'appelante les adressaient à madame Carmen Vaillancourt et celle-ci communiquait avec le travailleur pour remédier aux problèmes sur le formulaire (pièce I-3), une case était réservée pour permettre à l'appelante d'y formuler des commentaires sur la performance du travailleur.
+[33] Selon les faits précités, il existait suffisamment de contrôle sur le travail de Serge Laverdière pour qu'il soit considéré comme un employé.
+Propriété des outils
+[34] La direction de l'entreprise a admis que l'équipement appartenait à l'appelante. Les lieux de travail étaient déterminés par la superviseure Carmen Vaillancourt; selon cet élément l'appelante et le travailleur étaient liés par un contrat de louage de services.
+Risques de perte ou chances de profit
+[35] Le travailleur était rémunéré à commission dont le taux était déterminé par l'appelante. Le travailleur n'avait qu'à remplir le formulaire préparé par l'appelante en indiquant ses heures de travail. Le travailleur était payé à toutes les semaines par dépôt direct; donc le travailleur n'avait aucune chance de profit ni risque de perte. De fait l'appelante a payé les heures travaillées (pièce I-2). Donc les parties étaient liées par un contrat de louage de services.
+L'intégration
+[36] Le travailleur faisait partie des opérations de l'entreprise. Les clients étaient ceux de l'appelante et non ceux du travailleur. Dans le communiqué préparé par l'appelante (pièce I-1), cette dernière définit les critères pour effectuer les tâches. Selon cet élément, il faut donc conclure que le travailleur était intégré dans les opérations de l'entreprise.
+[37] Dans la cause sous étude, l'entreprise appartenait à l'appelante; ses opérations étaient gérées par la directrice et appuyées par la superviseure madame Carmen Vaillancourt qui avait formé une équipe dans la région de Québec.
+[38] Le travailleur était en contact constant avec madame Vaillancourt à partir des lieux de travail désignés par celle-ci. Le travailleur était contrôlé par l'appelante et était intégré dans les opérations de celle-ci.
+[39] Pour les raisons précitées, selon l'ensemble de la preuve, le travailleur occupait un emploi assurable au sens de la Loi sur l'assurance-emploi pendant la période en litige puisque lui et l'appelante étaient liés par un contrat de louage de services.
+[40] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 25e jour de juin 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Jurisprudence consultée
+671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983
+Wiebe Door Services Ltd. c. Canada (ministre du Revenu national - M.R.N.), [1986] 3 C.F. 553
+M.R.N. et Emily Standing, CAF A-857-90, (non publiée en français)
+Promotions DND Inc. c. Canada (ministre du Revenu national - M.R.N.),
+[2001] A.C.I. no 480
+9049-9955 Québec Inc. c. Canada (ministre du Revenu national - M.R.N.),
+[2000] A.C.I. no 129
+RÉFÉRENCE :
+2003CCI431
+No DU DOSSIER DE LA COUR :
+2002-4709(EI)
+INTITULÉ DE LA CAUSE :
+Les Promotions G. Bibeau Inc. et M.R.N. et Serge Laverdière
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 22 avril 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+le 25 juin 2003
+COMPARUTIONS :
+Pour l'appelante :
+Ginette Bibeau (représentante)
+Pour l'intimé :
+Me Julie David
+Pour l'intervenant :
+L'intervenant lui-même
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenant :
+Nom :
+Étude :

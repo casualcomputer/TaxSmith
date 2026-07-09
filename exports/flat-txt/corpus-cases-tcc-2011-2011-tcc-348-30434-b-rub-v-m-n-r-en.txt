@@ -1,0 +1,279 @@
+Title: Bérubé v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30434/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-348-30434-b-rub-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2011-07-12
+
+# Bérubé v. M.N.R.
+
+- Citation: 2011 TCC 348
+- Decision date: 2011-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7904, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bérubé v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-12
+Neutral citation
+2011 TCC 348
+File numbers
+2010-3164(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010‑3164(EI)
+BETWEEN:
+MARTIN BÉRUBÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9205-0194 QUÉBEC INC. and MICHEL LEBEL o/a GESTION J.P.L.,
+Interveners.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Michel Lebel (2010‑3208(EI)) and 9205-0194 Québec Inc. (2010‑3207(EI))
+on April 14, 2011, at Québec, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Ilinca Ghibu
+Counsel for the interveners:
+Louis Sirois
+____________________________________________________________________
+JUDGMENT
+Martin Bérubé's appeal is dismissed, and the Minister's decision that Martin Bérubé was employed in insurable employment by Michel Lebel, operating as Gestion J.P.L., during the periods from January 1 to December 1, 2009, and from January 1 to January 3, 2010, is confirmed.
+Signed at Ottawa, Canada, this 12th day of July 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 19th day of August 2011
+Susan Deichert, Reviser
+Docket: 2010‑3208(EI)
+BETWEEN:
+MICHEL LEBEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MARTIN BÉRUBÉ,
+Third Party.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Martin Bérubé (2010‑3164(EI)) and 9205-0194 Québec Inc. (2010‑3207(EI))
+on April 14, 2011, at Québec, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Louis Sirois
+Counsel for the respondent:
+Ilinca Ghibu
+For the third party
+The third party himself
+____________________________________________________________________
+JUDGMENT
+Michel Lebel's appeal is dismissed, and the Minister's decision that Martin Bérubé was employed in insurable employment by Michel Lebel, operating as Gestion J.P.L., during the periods from January 1 to December 31, 2009, and from January 1 to January 3, 2010, is confirmed.
+Signed at Ottawa, Canada, this 12th day of July 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 19th day of August 2011
+Susan Deichert, Reviser
+Docket: 2010‑3207(EI)
+BETWEEN:
+9205-0194 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MARTIN BÉRUBÉ,
+Third Party.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Martin Bérubé (2010‑3164(EI)) and Michel Lebel (2010‑3208(EI))
+on April 14, 2011, at Québec, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Louis Sirois
+Counsel for the respondent:
+Ilinca Ghibu
+For the third party
+The third party himself
+____________________________________________________________________
+JUDGMENT
+The appeal of 9205-0194 Québec Inc. is dismissed, and the Minister's decision that Martin Bérubé was employed in insurable employment by Michel Lebel, operating as Gestion J.P.L., during the periods from January 1 to December 31, 2009, and from January 1 to January 3, 2010, is confirmed.
+Signed at Ottawa, Canada, this 12th day of July 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 19th day of August 2011
+Susan Deichert, Reviser
+Citation: 2011 TCC 348
+Date: 20110712
+Docket: 2010‑3164(EI)
+BETWEEN:
+MARTIN BÉRUBÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+9205-0194 QUÉBEC INC. and MICHEL LEBEL o/a GESTION J.P.L.,
+Interveners,
+AND BETWEEN:
+Docket: 2010‑3208(EI)
+MICHEL LEBEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MARTIN BÉRUBÉ,
+Third Party,
+AND BETWEEN:
+Docket: 2010‑3207(EI)
+9205-0194 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MARTIN BÉRUBÉ,
+Third Party.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These appeals, which were heard on common evidence, pertain to the insurability of the employment of Martin Bérubé (appellant) with the employer, Michel Lebel, operating as Gestion J.P.L. (payor), from January 1 to December 31, 2009, and from January 1 to January 3, 2010.
+[2] By letter dated July 15, 2010, the Minister of National Revenue (Minister) determined that the appellant held employment that is included in insurable employment because he was called upon by a placement or employment agency, namely Michel Lebel operating as Gestion J.P.L., to perform services for and under the direction and control of the agency's clients, while being remunerated by the agency.
+[3] In making his decision regarding Mr. Bérubé, the Minister relied on the following assumptions of fact, set out in paragraph 5 of the Reply to the Notice of Appeal:
+[translation]
+(a) The payor operates a business that supplies butchery personnel to grocery chains.
+(b) Michel Lebel purchased Gestion J.P.L. in January 2009, and kept the business name because its clients knew it by that name.
+(c) Also in January 2009, Michel Lebel incorporated 9205-0194 Québec Inc., a company of which he is the sole shareholder, and which is used solely as a conduit for remunerating workers, a process that has been contracted out to Desjardins Payroll Services.
+(d) Gestion J.P.L. was responsible for billing, reconciliations and collection, and for managing the workers.
+(e) Michel Lebel's clients pay Gestion J.P.L. for the services received, and money is transferred into the account of 9205-0194 Quebec Inc. to pay the workers.
+(f) The payor has 20-25 clients under all banners — Metro, Provigo, etc. — throughout the city of Québec.
+(g) The payor has no employees; he uses experienced butchers to meet client demand.
+(h) The payor has a pool of 20-25 experienced butchers.
+(i) The payor negotiates service contracts with his clients orally, and determines the work schedules and the hourly rate.
+(j) After entering into a contract with a client, the payor offers the work to one of his butchers.
+(k) The work is accepted by the butcher orally.
+(l) There is a written contract between the payor and the butchers. It describes the butcher's obligations to the payor.
+(m) The appellant signed the contract in issue on December 28, 2008, as it appears in the respondent's record.
+(n) During the period in issue, the appellant performed services for the payor's clients at the payor's request.
+(o) Most of the time, the payor offered work periods of eight hours a day.
+(p) The appellant performed his services on the payor's clients' premises and was supervised by the payor's clients.
+(q) The appellant supplied his knives, gloves and boots, and the payor's clients supplied the large equipment that a butcher would need.
+(r) The appellant had to notify the payor in the event of an absence, and the payor was responsible for replacing him.
+(s) The appellant was paid $19 per hour and received an extra $1 per hour if the work was in a location that was farther away, such as Lévis.
+(t) The appellant submitted an invoice to the payor monthly, setting out the hours worked each week.
+(u) The payor paid the appellant each week through 9205-0194 Québec Inc., which acted as the payor's mandatary.
+[4] Counsel for the respondent relies on paragraph 5(1)(d) of the Employment Insurance Act, S.C. 1996, c. 23, as amended (Act), paragraph 6(g) of the Employment Insurance Regulations, and section 7 of the Insurable Earnings and Collection of Premiums Regulations. Those provisions read:
+5. [Types of insurable employment] (1) Subject to subsection (2), insurable employment is
+. . .
+(d) employment included by regulations made under subsection (4) or (5); and
+. . .
+Section 6 of the Employment Insurance Regulations
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+. . .
+(g) employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+Section 7 of the Insurable Earnings and Collection of Premiums Regulations
+7. Where a person is placed in insurable employment by a placement or employment agency under an arrangement whereby the earnings of the person are paid by the agency, the agency shall, for the purposes of maintaining records, calculating the person’s insurable earnings and paying, deducting and remitting the premiums payable on those insurable earnings under the Act and these Regulations, be deemed to be the employer of the person.
+[5] In his Notice of Intervention, the intervener Michel Lebel, operating as Gestion J.P.L., alleges that the appellant is an independent contractor and relies on the following submissions at paragraphs 8 through 16 of the Notice:
+[translation]
+8. Michel Lebel (Gestion JPL) submits that, for all of the following reasons, he is not the appellant's employer because he is not a placement or employment agency.
+9. Gestion JPL is not a placement or employment agency because the sole purpose of its existence is to manage its clients' personnel shortages, not recruit potential employees.
+10. Gestion JPL's service is directed to businesses, not potential employees.
+11. Personnel shortages are filled as a result of searches by Gestion JPL among self-employed workers in the butchery sector.
+12. The self-employed workers called by Gestion JPL have the choice to accept or refuse the specific contract they are called about.
+13. Gestion JPL exercises no form of control over the persons it refers to its clients.
+14. Gestion JPL's clients exercise no form of control over the persons engaged as butchers either, since all those persons are self-employed.
+15. There is no relationship of subordination or direct or indirect control that could cause the work done by the appellant to be regarded as work under an employment contract as defined in articles 2085 et seq. of the Civil Code of Québec, S.Q. 1991, c. 64.
+16. These elements show that Gestion JPL is not a placement or employment agency, and therefore does not employ the appellant, who is self-employed.
+[6] Three people testified at the hearing: Michel Lebel, Martin Bérubé, and Michel Fournier as the owner of the Tradition grocery in Saint-Agapit and as a client of Gestion J.P.L.
+[7] Mr. Lebel's testimony discloses that Gestion J.P.L. has a pool of roughly 30 self-employed butchers with at least three to five years of experience. The work weeks run from Sunday to Saturday. Every Friday morning, Gestion J.P.L. determines the schedule and work location of each butcher for the coming week. Butchers unavailable for the coming week must notify Gestion J.P.L. prior to Friday morning. At first, Gestion J.P.L. signed contracts with the butchers, but it no longer does so because, based on what Mr. Lebel said, there was no point. However, in the appellant's case, an [translation] "Agreement between the self‑employed workers and Gestion J.P.L." was entered into on December 28, 2008. On Saturday evening, each butcher must submit his or her weekly time sheet to Gestion J.P.L. The hours on that time sheet are paid on Thursday of the following week at a rate of $19.00 per hour, plus $1.00 per hour to take account of the cost of gasoline used to commute outside Québec, plus taxes (goods and services tax and Québec sales tax) where applicable. In Mr. Bérubé's case, those taxes are applicable. In addition, the butchers must submit a monthly invoice to Gestion J.P.L. for the hours worked each month.
+[8] Mr. Lebel also confirmed that Gestion J.P.L. has oral agreements with its clients to fill personnel shortages. Gestion J.P.L. billed its clients each week for the butchers' services at a rate that is $3.50 to $7.00 per hour higher than the rate paid to the butchers. The clients paid the invoices directly to Gestion J.P.L. 30 to 90 days after the invoice date. Gestion J.P.L. remitted to 9205‑0194 Québec Inc. all amounts received from its clients so that 9205‑0194 Québec Inc. could pay the butchers as well as the operating and management costs of Gestion J.P.L.
+[9] Mr. Lebel stated that Gestion J.P.L. did not assume any of the butchers' expenses. Travel costs, lodging and food were paid by the clients following negotiations with them. Mr. Lebel also confirmed that he was the sole shareholder of 9205-0194 Québec Inc.
+[10] In his testimony, Mr. Bérubé stated that he considered himself self-employed. He decided the days, hours and places that he wanted to work, and could work for other organizations similar to Gestion J.P.L. He reported his income as business income, and collected goods and services tax and Québec sales tax on the amounts he invoiced. In performing his services, he had to supply his gloves, boots and knives. He provided his services on the clients' premises and was not under Gestion J.P.L.'s supervision or control. He spoke to Mr. Lebel frequently by phone but rarely ever met him. He said that he was not penalized if he refused work.
+[11] Mr. Fournier has been a client of Gestion J.P.L. for 4½ years, and knows the appellant well, having used his services many times. He acknowledged that he has an oral agreement with Gestion J.P.L. for the supply of butchers' services; the agreement is about the individual, the number of days and hours of work, and the schedule. Mr. Fournier said that he had no discussions with Mr. Lebel concerning the duties to be performed by the butchers. The production list is submitted to the butchers upon their arrival at the store. Apart from their pay, the butchers are treated like other butchers who are employees. They must comply with the client's safety code and hygiene standards and adhere to the client's work schedule. While on the premises, the butchers are under the supervision and control of the meat department manager or the grocery department manager. At his establishment, the union succeeded in having the employer pay the external butchers' union dues. Mr. Fournier confirmed that, on Mondays, he received Gestion J.P.L.'s invoices for the preceding week, and that he paid those invoices on Friday of the same week.
+[12] The agreement that Gestion J.P.L. entered into with the appellant on December 28, 2008, pertains to the following subjects:
+- the self-employed worker's dress code while at work;
+- the reporting of earnings from the self-employed worker's activity with Gestion J.P.L.;
+- a declaration by the self-employed worker that he is authorized to work in Canada;
+- the application of a hiring restriction by a client for 12 months. Gestion J.P.L.'s authorization is required, and severance pay equal to 40 hours at the hourly rate billed to the client must be paid to Gestion J.P.L. by the self-employed worker;
+- the self-employed worker's undertaking not to request advances or loans from clients;
+- the self-employed worker's undertaking to report to the clients' premises at the agreed time and date, failing which the self-employed worker must notify Gestion J.P.L. as quickly as possible;
+- the self-employed worker's undertaking to comply with the client's safety code;
+- the self-employed worker's undertaking not to accept money, securities, negotiable instruments or other valuables from clients without bearing full and sole responsibility for them;
+- the self-employed worker's undertaking to notify Gestion J.P.L. as quickly as possible of any accident or incident that occurs during hours of work; and
+- Gestion J.P.L.'s refusal to tolerate any derogation from these obligations for any reason whatsoever.
+Analysis and determination
+[13] The appellant's and interveners' submissions in support of these appeals raise two questions: whether Michel Lebel, operating as Gestion J.P.L., was a "placement or employment agency"; and whether the terms and conditions of Martin Bérubé's work were the terms and conditions of a contract of service.
+[14] Paragraph 6(g) of the Employment Insurance Regulations can only apply if four conditions are met. The first condition is that the employment must be performed by a person placed by a placement or employment agency. Michel Lebel, operating as Gestion J.P.L., argues that he is not a placement or employment agency.
+[15] "Placement or employment agency" is defined as follows in subsection 34(2) of the Canada Pension Plan Regulations, SOR/78-142:
+For the purposes of subsection (1), "placement or employment agency" includes any person or organization that is engaged in the business of placing individuals in employment or for performance of services or of securing employment for individuals for a fee, reward or other remuneration.
+[16] The Employment Insurance Act and Regulations do not define "placement or employment agency", but courts tend to apply the definition from the Canada Pension Plan Regulations to employment insurance issues (see OLTCPI Inc. v. Canada (Minister of National Revenue), 2010 FCA 74, at paragraph 27).
+[17] Based on the definition in subsection 34(2) of the Canada Pension Plan Regulations, a placement or employment agency includes any person engaged in the business of placing individuals for performance of services for remuneration. Consequently, the activities of a placement or employment agency are not limited to placing individuals in employment, or securing employment for individuals. In my opinion, the activities carried on by Michel Lebel, operating as Gestion J.P.L., fall squarely in the category of the activities of a placement or employment agency as far as placing individuals for the performance of services is concerned. No services, other than placing individuals for performance of services, are provided by Gestion J.P.L. Moreover, based on the information contained in the Quebec Enterprise Register, Gestion J.P.L. and Michel Lebel have declared their primary area of activity to be that of a placement agency (CAE 7711). Consequently, the first condition of paragraph 6(g) of the Employment Insurance Regulations is met.
+[18] The second condition established by paragraph 6(g) is that the agency must place the workers with clients. Based on the evidence, this condition is clearly met in the case at bar.
+[19] The third condition is that the workers must be under the direction and control of the agency's clients. Mr. Fournier's testimony was very clear. The butchers provided by Gestion J.P.L. are treated like the other butchers who are employees, except with regard to their remuneration. They are subject to the client's safety code and rules of hygiene, and must follow the client's work schedule. The butchers are under the supervision and control of the meat department manager or grocery department manager, who gives them a list specifying what is to be produced and what tasks are to be performed. Since the butchers are experienced, the clients do not have to explain to them how to perform their tasks. Even if they have finished their work, the butchers must remain on the premises to finish the hours for which they are remunerated. In my opinion, this third condition is met as well, because the activities of a butcher who is placed by an agency for the purpose of providing services to a client of that agency, under the direction and control of the client, and the nature of the work performed, are "similar" or "analogous" to services performed under a contract of service. (See the decision of the Federal Court of Appeal in Silverside Computer Systems Inc. v. Canada (Minister of National Revenue), [1997] F.C.J. No. 1591 (QL), at paragraph 8, and the wording of paragraph 5(4)(c) of the Act.)
+[20] The fourth and last condition is that the placement or employment agency must pay remuneration. This condition is also met in the case at bar, because it has been admitted that the agency remunerated the butchers and that the agency's clients were then billed for that remuneration plus a mark-up.
+[21] In view of the conclusion that the conditions for paragraph 6(g) of the Employment Insurance Regulations to apply have been met, we must now consider whether the provision can apply to self-employed workers.
+[22] In Silverside, above, the Federal Court of Appeal examined the situation of IT experts who were independent contractors, and it nonetheless held that they were caught by subsection 34(1) of the Canada Pension Plan Regulations and paragraph 12(g) of the Unemployment Insurance Regulations, which has become paragraph 6(g) of the Employment Insurance Regulations.
+[23] In Care Nursing Agency Ltd. v. M.N.R., 2007 TCC 527, Justice Weisman, of this Court, drew the following conclusion from Silverside in relation to the application of paragraph 6(g) of the Employment Insurance Regulations:
+15 Therefore, certainly for the purposes of the Employment Insurance Act, it does not matter whether the workers are an independent contractor or an employee; both are caught by that section.
+[24] In 1517719 Ontario Ltd. o/a Experience Works v. M.N.R., 2008 TCC 687, Justice Weisman once again considered the question of whether paragraph 6(g) of the Employment Insurance Regulations applied to independent contractors. He held that it did, for the reasons set out in paragraphs 5 and 14 of his decision:
+5 But there is jurisprudence that is quite clear, and it is adverted to by Counsel for the Minister, a case called Sheridan v. M.N.R., which is cited at [1985] F.C.J. No. 230 in the Federal Court of Appeal. In construing the predecessor section to section 6(g), which is 12(g), which has identical wording, it found that nurses placed by an appellant agency in employment in hospitals which were its clients, were in insurable employment, even though they had no contract of service either with the agency or with the hospital.
+. . .
+14 To summarize, there are four requirements under Regulation 6(g) of the Employment Insurance Act. All four have been satisfied by the Minister that indeed these truck drivers retained by the Appellant, even though they may be independent contractors, are brought into the scheme of the Employment Insurance Act by Regulation 6(g), and therefore with reference to the 54 workers, I find that the appeal has to be dismissed.
+[25] Section 7 of the Insurable Earnings and Collection of Premiums Regulations stipulates that when a placement or employment agency places a person in insurable employment whereby it pays the earnings to that person, the agency is deemed to be the person's employer, notably for the purpose of paying the premiums required by the Act.
+[26] Consequently, the appeals under the Act are dismissed, and the Minister's decisions that Martin Bérubé was employed in insurable employment by Michel Lebel, operating as Gestion J.P.L., during the periods from January 1 to December 31, 2009, and from January 1 to January 3, 2010, are confirmed.
+Signed at Ottawa, Canada, this 12th day of July 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 19th day of August 2011
+Susan Deichert, Reviser
+CITATION: 2011 TCC 348
+COURT FILE NOS. 2010-3164(EI), 2010-3207(EI),
+2010-3208(EI)
+STYLES OF CAUSE: Martin Bérubé v. M.N.R. and
+9205-0194 Québec Inc. and Michel Lebel
+9205-0194 Québec Inc. v. M.N.R. and Martin Bérubé
+Michel Lebel v. M.N.R. and Martin Bérubé
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: April 14, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: July 12, 2011
+APPEARANCES:
+For the appellants:
+Martin Bérubé and Louis Sirois
+Counsel for the respondent:
+Ilinca Ghibu
+Counsel for the interveners:
+Louis Sirois
+COUNSEL OF RECORD:
+For the appellants:
+Name: Louis Sirois
+Firm: Sirois & Tremblay
+Québec, Quebec
+For the interveners:
+Name: Louis Sirois
+Firm: Sirois & Tremblay
+Québec, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

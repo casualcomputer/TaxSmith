@@ -1,0 +1,221 @@
+---
+title: "Lawson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/232723/index.do"
+last_modified: "2017-07-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 131"
+citation2: ""
+neutral_citation: "2017 CCI 131"
+decision_date: "2017-07-06"
+language: "fr"
+item_id: "232723"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2101
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:26:03.951000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fa31a1b6a84298d0bb27a0e654a4c9c51787c182c0789d056b61378ae310aa7d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lawson c. La Reine
+
+- Citation: 2017 CCI 131
+- Decision date: 2017-07-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2101, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lawson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-07-06
+Référence neutre
+2017 CCI 131
+Numéro de dossier
+2015-3474(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-3474(IT)I
+ENTRE :
+CHRIS E. LAWSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 juin 2017, à Hamilton (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Amit Ummat
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2013 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national aux fins de réexamen et de nouvelle cotisation, pour le motif que l’appelant a droit aux crédits d’impôt en vertu des alinéas 118(1)b) et 118(1)b.1) de la Loi pour l’année d’imposition 2013.
+Signé à Ottawa, Canada, ce 6e jour de juillet 2017.
+« Campbell J. Miller »
+Le juge C. Miller
+Référence : 2017 CCI 131
+Date : 20170706
+Dossier : 2015-3474(IT)I
+ENTRE :
+CHRIS E. LAWSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] M. Chris Lawson interjette appel sous le régime de la procédure informelle à l’égard de la nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») pour l’année d’imposition 2013 où le ministre lui a refusé le crédit accordé pour une personne entièrement à charge aux termes de l’alinéa 118(1)b) de la Loi de l’impôt sur le revenu (la « Loi ») et le crédit pour enfant aux termes de l’alinéa 118(1)b.1) de la Loi (les « crédits d’impôt »). Il est utile au départ de présenter ces dispositions, ainsi que les alinéas 118(5) et 118(5.1) de la Loi et la définition de l’expression « pension alimentaire » que l’on trouve à l’alinéa 56.1(4) de la Loi, pour bien comprendre sur quoi reposent exactement les appels de M. Lawson. Ces dispositions sont ainsi rédigées :
+118(1) Le produit de la multiplication du total des montants visés aux alinéas a) à e) par le taux de base pour l’année est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition
+...
+b) le total de [...] si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année :
+i) :
+A) d’une part, il n’est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui-ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+B) (ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+(A) (A) elle réside au Canada, sauf s’il s’agit d’un enfant du particulier,
+(B) (B) elle est entièrement à charge soit du particulier, soit du particulier et d’une ou de plusieurs de ces autres personnes,
+(C) (C) elle est liée au particulier,
+(D) (D) sauf s’il s’agit du père, de la mère, du grand-père ou de la grand-mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d’une infirmité mentale ou physique,
+celle des sommes ci-après qui est applicable :
+b.1) i) pour chaque enfant du particulier qui est âgé de moins de 18 ans à la fin de l’année et qui réside habituellement, tout au long de l’année, avec le particulier et un autre parent de l’enfant, le total des sommes suivantes :
+(A) 2 131 $ pour chaque enfant, et...
+118(5) Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+b) demande une déduction pour l’année par l’effet de l’article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait.
+(5.1) À supposer que la présente loi s’applique compte non tenu du présent paragraphe, dans le cas où personne n’a droit, par le seul effet du paragraphe (5), à la déduction prévue aux alinéas (1)b) ou b.1) pour une année d’imposition relativement à un enfant, le paragraphe (5) ne s’applique pas relativement à l’enfant pour l’année en cause.
+...
+56.1(4) Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+Pension alimentaire qui, d’après l’accord ou l’ordonnance aux termes duquel elle est à recevoir, n’est pas destinée uniquement à subvenir aux besoins d’un bénéficiaire qui est soit l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur, soit le père ou la mère d’un enfant dont le payeur est le père naturel ou la mère naturelle.
+Pension alimentaire désigne le montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[2] L’importance de ces dispositions réside dans le fait que, dans le cas d’une personne telle que M. Lawson, qui doit verser une pension alimentaire (tel que cela est défini), ne peut pas réclamer de crédits d’impôt à moins de pouvoir démontrer que sa situation relève du champ de l’alinéa 118(5.1) de la Loi : c’est-à-dire que les deux ex-conjoints n’auraient autrement pas droit aux crédits visés aux alinéas 118(1)b) ou 118(1)b.1) de la Loi parce que les deux sont « tenus de verser une pension alimentaire ». Dans un tel cas, l’alinéa 118(5) de la Loi ne s’applique pas et l’un d’eux peut en fait réclamer des crédits d’impôt.
+[3] L’appel de M. Lawson comporte deux arguments :
+1) L’un est qu’il convient d’interpréter son accord de séparation comme exigeant que lui et son ex-conjointe versent une pension alimentaire, de sorte qu’il est admissible aux crédits d’impôt;
+2) L’Agence du revenu du Canada (l’« ARC ») a enfreint ses droits en vertu de l’article 8 de la Charte canadienne des droits et libertés prise en vertu de la Loi constitutionnelle de 1982 (la « Charte ») en « exigeant l’intégralité de son accord de séparation, alors qu’elle n’avait besoin que des sections pertinentes », ce qui porte atteinte à son droit à la protection de renseignements très personnels : il demande une réparation en vertu de l’alinéa 24.2 de la Charte, ce qui aurait pour effet d’exclure la production de l’accord de séparation. Lors du procès, M. Lawson n’a pas hésité à produire l’accord de séparation. (Je lui ai promis que celui-ci serait conservé sous pli cacheté jusqu’à ce qu’il lui soit rendu.)
+Je considère que cela aura pour effet de rendre son argument fondé sur la Charte quelque peu théorique à ce stade. Cependant, je vais tout d’abord aborder l’argument fondé sur la Charte.
+[4] Les dispositions pertinentes de la Charte sont les suivantes :
+1. La Charte canadienne des droits et libertés garantit les droits et libertés qui y sont énoncés. Ils ne peuvent être restreints que par une règle de droit, dans des limites qui soient raisonnables et dont la justification puisse se démontrer dans le cadre d’une société libre et démocratique.
+...
+8. Chacun a droit à la protection contre les fouilles, les perquisitions ou les saisies abusives.
+...
+24.(1) Toute personne, victime de violation ou de négation des droits ou libertés qui lui sont garantis par la présente charte, peut s’adresser à un tribunal compétent pour obtenir la réparation que le tribunal estime convenable et juste eu égard aux circonstances.
+(2) Lorsque, dans une instance visée au paragraphe (1), le tribunal a conclu que des éléments de preuve ont été obtenus dans des conditions qui portent atteinte aux droits ou libertés garantis par la présente charte, ces éléments de preuve sont écartés s’il est établi, eu égard aux circonstances, que leur utilisation est susceptible de déconsidérer l’administration de la justice.
+[5] Initialement, M. Lawson était d’avis que son appel devrait être accueilli, d’une part, parce que l’ARC exigeait illicitement son accord de séparation et que ses commentaires[1] et sa correspondance étaient trompeurs et, d’autre part, en raison de ce qu’il a appelé un « manquement systématique » au sein de l’ARC à reconnaître la possibilité que l’alinéa 118(5.1) de la Loi puisse s’appliquer aux circonstances d’un contribuable. Il est de jurisprudence constante de notre Cour que le comportement de l’ARC n’a jamais constitué et ne devrait jamais constituer un motif pour déterminer le bien-fondé d’une cotisation. Il est certes malheureux qu’un ou qu’une contribuable ait le sentiment d’être induit en erreur par les autorités fiscales, surtout dans une situation, comme en l’espèce, où l’ARC a tenté dans son commentaire de clarifier un aspect du droit quelque peu nébuleux au bénéfice d’un contribuable. Que l’ARC ait échoué ou réussi n’a aucune incidence sur la détermination de notre Cour relativement à la possibilité que M. Lawson puisse réclamer des crédits d’impôt en raison des circonstances qui entourent sa séparation.
+[6] Cela étant dit, je tiens toujours à aborder plusieurs préoccupations de M. Lawson, car on pourrait peut-être en tirer quelques enseignements.
+[7] Tout d’abord, en ce qui concerne son argument voulant que la demande de production de son accord de séparation constitue une saisie illégale, cet argument repose sur la forme qu’a prise la demande de l’ARC. Il maintient qu’on ne lui a donné d’autre choix que de produire son accord de séparation dans son intégralité, ce que son ex-conjointe et lui ont fait le 12 avril 2012, à défaut de quoi l’ARC refuserait les crédits d’impôt réclamés. Il ressort clairement de l’argument de M. Lawson que, si l’ARC avait simplement demandé les parties de l’accord de séparation pertinentes pour déterminer qui devait verser une pension alimentaire et à qui, il n’aurait pas allégué que cette demande portait atteinte à ses droits en vertu de l’article 8 de la Charte.
+[8] Comme l’a énoncé la Cour suprême du Canada dans R. c. Mckinlay Transport Ltd.[2], la détermination de ce qui constitue une démarche appropriée par les autorités fiscales pour obtenir les documents d’un contribuable s’apparente à une recherche du juste équilibre entre l’intérêt de l’État et la protection de la vie privée d’une personne. Les propos de la Cour suprême du Canada sont instructifs :
+4. ... Au début de mon analyse, j’ai souligné que la Loi de l’impôt sur le revenu se fondait sur le principe de l’auto‑déclaration et de l’auto-cotisation. La Loi aurait pu prévoir que chaque contribuable doit remettre tous ses documents au Ministre et à ses fonctionnaires pour qu’ils puissent faire les calculs nécessaires pour déterminer le revenu imposable de chacun. La Loi n’exige pas cela, sûrement parce qu’un tel système serait extrêmement coûteux et peu commode. Cependant, un régime d’auto‑déclaration a ses désavantages, dont le principal est que son succès dépend de l’honnêteté et de l’intégrité du contribuable dans la préparation de sa déclaration. Bien qu’il ne fasse pas de doute que la plupart des contribuables respectent le régime et s’y conforment, c’est un fait que certaines personnes tentent d’en tirer profit et d’échapper en partie au fisc.
+Conséquemment, le ministre du Revenu national doit disposer, dans la surveillance de ce régime de réglementation, de larges pouvoirs de vérification des déclarations des contribuables et d’examen de tous les documents qui peuvent être utiles pour préparer ces déclarations. Le Ministre doit être capable d’exercer ces pouvoirs, qu’il ait ou non des motifs raisonnables de croire qu’un certain contribuable a violé la Loi. Il est souvent impossible de dire, à première vue, si une déclaration a été préparée de façon irrégulière.
+Il ne faut pas conclure que toutes les formes de perquisitions et de saisies effectuées sous le régime de la Loi de l’impôt sur le revenu sont valides. L’intérêt qu’a l’État à contrôler le respect de la Loi doit être soupesé en fonction du droit des particuliers à la protection de leur vie privée. Plus grande est l’atteinte aux droits à la vie privée des particuliers, plus il est probable que des garanties semblables à celles que l’on trouve dans l’arrêt Hunter seront nécessaires. Ainsi, le fait pour des agents du fisc de pénétrer dans la propriété d’un particulier pour y faire une perquisition et une saisie constitue une immixtion beaucoup plus grande que la simple demande de production de documents. La raison en est que même s’il est possible que le contribuable s’attende peu à ce que son droit à la protection de sa vie privée soit respecté relativement à ses documents commerciaux utiles pour établir son assujettissement à l’impôt, il n’en attache pas moins d’importance au respect de l’inviolabilité de son domicile.
+À mon sens, le par. 231(3) prescrit la méthode la moins envahissante pour contrôler efficacement le respect de la Loi de l’impôt sur le revenu. Elle n’entraîne pas la visite du domicile ni des locaux commerciaux du contribuable, elle exige simplement la production de documents qui peuvent être utiles au dépôt des déclarations d’impôt sur le revenu. Le droit du contribuable à la protection de sa vie privée à l’égard de ces documents est relativement faible vis‑à‑vis le Ministre. Ce dernier est absolument incapable de savoir si certains documents sont utiles avant d’avoir eu la possibilité de les examiner. En même temps, le droit du contribuable à la protection de sa vie privée est garanti autant qu’il est possible de le faire puisque l’art. 241 de la Loi interdit la communication de ses documents et des renseignements qu’ils contiennent à d’autres personnes ou organismes.
+[9] Pour pouvoir prétendre aux crédits d’impôt, la Loi exige une ordonnance d’un tribunal ou un accord écrit. Il n’est pas déraisonnable, au moment d’appliquer la Loi et dans l’intérêt de l’État, que l’ARC demande à voir de tels documents afin de déterminer l’admissibilité d’un contribuable. Le contribuable peut alors choisir : i) de ne pas produire l’accord et, évidemment, d’avoir à assumer les conséquences, à savoir le rejet de sa demande de crédits et ensuite d’interjeter appel devant notre Cour; et ii) de fournir une copie caviardée de l’accord qui ne révélera que les dispositions pertinentes pour la question de la pension alimentaire. Je peux comprendre que la réaction de M. Lawson ait été de ne pas croire que ce dernier choix était une option. Ça l’était, même si là encore cela risquait d’amener les autorités à se demander si ce qui n’avait pas été divulgué pouvait être pertinent. Donc, est-ce que l’ARC devrait, dans sa demande, offrir au contribuable la possibilité de ne soumettre que les portions de l’accord portant sur la pension alimentaire? Franchement, je ne crois pas que cela soit nécessaire. Le contribuable bénéficie de la protection conférée par l’article 241 de la Loi et l’ARC avait indiqué dans sa demande que les renseignements du contribuable étaient confidentiels. Un accord est toujours mieux interprété dans son contexte.
+[10] Il existe une troisième option qui est de simplement fournir l’accord, ce qu’a fait M. Lawson. L’ayant fait et ayant expliqué que lui et son ex-conjointe estimaient que le libellé de l’accord créait des obligations mutuelles de payer, il s’attendait à une réponse positive de l’ARC. Il ne l’a pas obtenue. Il croit maintenant que c’est parce que l’objectif principal de l’ARC, voire son seul objectif, est la génération de revenus.
+[11] M. Lawson a soulevé quelques points à ce sujet pour étayer son opinion. Le premier est que, dans sa correspondance, l’ARC lui a déclaré à maintes reprises qu’il n’était pas admissible parce qu’il n’était pas tenu de verser une pension alimentaire. Il prétend que l’ARC ne l’a pas informé qu’il serait admissible si son ex-conjointe était également tenue de verser une pension alimentaire (en fait s’appuyant sur l’alinéa 118(5.1) de la Loi). Selon M. Lawson, cette déclaration qui a été répétée était erronée et trompeuse. Il a cru, à la lecture du commentaire de l’ARC, que lui et son ex-conjointe pourraient tous deux devoir faire des paiements; pourtant, pour des raisons de facilité, il suffisait qu’ils n’envoient qu’un chèque combinant les montants.
+[12] M. Lawson a également mentionné qu’un « Bloc-notes » interne de l’ARC renferme les rubriques ci-après, “Tax year, Year of separation, Type/Date of document received, Custody arrangements, Child support payable “Yes ___ No ___”, Child support start date, Payer, Recipient, Child support payable for …,” (« Année d’imposition, année de séparation, type de documents reçus et leur date, arrangement visant la garde, pension alimentaire payable « Oui___ Non___ », date de début de la pension alimentaire, payeur, bénéficiaire, pension alimentaire pour enfants... »); cependant, aucune ne semble offrir la possibilité que les deux conjoints soient tenus de verser une pension alimentaire, de sorte que l’alinéa 118(5.1) de la Loi s’applique. Il soutient que cela était trompeur et ne lui a pas permis de donner un consentement éclairé quant à la divulgation de son accord.
+[13] M. Lawson conclut que ce comportement ne constitue pas une divulgation détaillée, juste et honnête et enfreint les articles 1 et 8 de la Charte. Avec déférence, je ne vois pas comment un tel comportement implique l’article 8 ou l’article 1 de la Charte. J’estime que les actes de l’ARC ne constituent pas une violation de l’article 8. L’article 1 est une disposition dérogatoire qui prend effet si les droits prévus dans d’autres dispositions de la Charte sont menacés. M. Lawson n’a pas précisé quels étaient les autres droits que ce comportement avait bafoués. Je conviens avec lui que l’on s’attend à ce que notre gouvernement agisse correctement lorsqu’il traite avec un contribuable lésé, mais une telle attente n’est pas toujours satisfaite. En outre, cela ne signifie pas nécessairement que les droits prévus dans la Charte sont bafoués. Au moment de traiter avec un contribuable, l’ARC doit toujours s’exprimer le plus clairement possible, surtout lorsqu’il s’agit de contextes chargés d’émotions tels que les droits en vertu d’accords de séparation. Comme je l’ai mentionné dans Ochitwa v R[3], ce qui est malheureux à ce chapitre est [traduction] qu’il suffit d’un trait de stylo pour accorder ou refuser des crédits à des contribuables qui sont dans des situations identiques. Un couple peut se référer aux Lignes directrices fédérales sur les pensions alimentaires pour enfants (les « Lignes directrices ») et conclure qu’un paiement de 100 $ seulement, par exemple, est requis – et se voir refuser les crédits. Un autre couple peut ne pas consulter les Lignes directrices, mais l’un doit payer 400 $ et l’autre, 300 $, et conclure qu’un paiement de 100 $ seulement est requis, puis obtenir les crédits. Cela est, à mon humble avis, problématique, mais ne constitue pas une question liée à la Charte.
+[14] Bref, en ce qui concerne l’argument portant sur la Charte, en demandant un document sur lequel sont fondés les crédits selon la Loi même, en informant incidemment un contribuable que lesdits renseignements demeureront confidentiels, l’ARC a reconnu l’équilibre délicat entre l’intérêt de l’État et les droits à la protection des renseignements personnels. Je ne vois aucune violation des droits de M. Lawson que lui confère la Charte. En outre, j’en arrive maintenant à déterminer si le comportement de l’ARC, soit ne pas avoir porté à l’attention de M. Lawson dans sa correspondance avec lui l’impact de l’alinéa 118(5.1) de la Loi, peut avoir une incidence sur la conclusion de la Cour quant au bien-fondé de la cotisation.
+[15] Est-ce que l’accord de séparation de M. Lawson engendre une seule obligation de verser une pension alimentaire ou deux?
+[16] L’accord se lit en partie comme suit :
+[traduction]
+4. QUESTIONS FINANCIÈRES
+a) Pension alimentaire pour enfants
+Le mari et la femme conviennent que, pendant la période de transition, le mari versera à la femme la somme de 600 $ au titre de pension alimentaire pour les deux enfants. Ce montant est fondé sur le revenu annuel brut du mari qui est de 177 041,00 $ pour l’année 2011, sur le temps que les enfants passeront réellement au domicile du mari, ainsi que sur le calcul par la femme des dépenses mensuelles pour les enfants. Ils conviennent que le montant ci-dessus sera réparti en deux paiements de 300 $ et sera acquitté deux fois par mois sous forme de chèque à l’ordre de la femme, les jours de paie (le mari et la femme touchent tous deux leur salaire de leur emploi le même jour, soit tous les deux jeudis), à compter du 5 juillet 2012 et jusqu’à ce les enfants commencent à passer autant de temps ou presque autant de temps aux deux domiciles (c.-à-d. que la répartition du temps passé entre les deux domiciles sera d’au moins 40 % à celui du mari et d’au plus 60 % à celui de la femme) ou jusqu’à la fin de la période de transition.
+Ils conviennent également que, lorsque les enfants commenceront à passer autant de temps ou presque autant de temps aux deux domiciles (lorsque le versement de 600 $ par mois sera interrompu), le mari, ayant un revenu plus élevé, versera à la femme 100 $ par mois. Ce montant correspond aux tableaux applicables des Lignes directrices fédérales sur les pensions alimentaires pour enfants et représente la différence entre la pension alimentaire pour enfants qu’ils se verseraient autrement pour les deux enfants. Ce montant pourrait être modifié conformément au tableau applicable dans les Lignes directrices fédérales sur les pensions alimentaires pour enfants si les revenus de chacune des parties devaient évoluer considérablement à la suite d’une promotion, d’une rétrogradation ou de la perte de l’emploi. […] [Non souligné dans l’original.]
+...
+d) Prestation fiscale canadienne pour enfants et déductions fiscales
+Le mari et la femme conviennent qu’aux fins des déductions et des demandes de remboursement de l’impôt, lorsque le paiement de dépenses réelles peut être réclamé par chacun des parents, conformément aux dispositions de la Loi de l’impôt sur le revenu (p. ex., ligne 305, ligne 365 et ligne 214 du formulaire de déclaration de revenus), ces déductions et demandes seront partagées, aux fins de l’impôt sur le revenu, de la manière suivante : la femme réclamera ces dépenses pour les années paires, tandis que le mari les réclamera pour les années impaires. Toutefois, ils conviennent que lorsqu’une seule partie peut réclament le paiement des dépenses réelles pour les enfants (p. ex., ligne 367 du formulaire de déclaration de revenus), ils alterneront de la manière suivante : la femme réclamera ces dépenses pour les années paires, tandis que le mari les réclamera pour les années impaires.
+En ce qui concerne l’émission de reçus de services de garde d’enfants, le mari et la femme conviennent conformément au présent paragraphe qu’ils donneront les instructions suivantes aux établissements de garde d’enfants : les reçus devront être émis au nom des deux parties, afin que chacune puisse réclamer 50 %, ou aussi près que possible de 50 %, du montant total des frais de garde d’enfants au titre de déductions de l’impôt sur le revenu.
+[17] Dans son témoignage, M. Lawson a déclaré que le paiement de 100 $ mentionné dans l’accord ne représente pas, en fait, le montant la compensation directe prévue dans les Lignes directrices, car son ex-conjointe avait accepté de contribuer à ses frais de déplacement, ce qui augmentait le montant qu’elle devait lui verser et donc réduisait le montant net à 100 $.
+[18] M. Lawson a fourni une lettre de son ex-conjointe à l’ARC qui indiquait, en référence à la partie soulignée ci-dessus de l’accord :
+Si je me souviens bien, l’intention de cette déclaration dans l’accord signifiait que, lorsque les enfants commenceraient à passer un nombre égal ou presque égal de mois à chacun des deux domiciles, Chris et moi devrions nous verser réciproquement une pension alimentaire pour enfants et que la somme de 100 $ représente la différence entre les deux montants. Toutefois, pour des raisons de facilité, il me remet un chèque, de sorte que nous n’avons pas à nous remette un chèque à l’autre.
+[19] Dans son témoignage, M. Lawson a déclaré que l’accord que lui et son ex‑conjointe avaient rédigé était fondé sur le fait qu’ils croyaient que l’ARC permettait qu’un seul chèque soit émis. Ils ont supposé qu’ils avaient droit aux crédits, ce qui explique l’insertion de l’alinéa d) ci-dessus dans l’accord de séparation.
+[20] Dans le procès-verbal de règlement signé en décembre 2015, les parties ont exprimé leurs intentions de manière parfaitement claire, y compris les dispositions ci-après :
+1. Les dispositions concernant la garde, l’accès, la pension alimentaire pour enfants et l’assurance-vie contenues dans l’accord de séparation daté du 12 avril 2012 (« l’accord de séparation ») seront remplacées par celles dans le procès-verbal de règlement final. Les dispositions visant la pension alimentaire pour conjoint et le partage des biens contenues dans l’accord de séparation demeurent pleinement en vigueur.
+...
+Afin de s’acquitter de l’obligation de chacune des parties de payer une pension alimentaire pour enfants conformément aux Lignes directrices, le demandeur et le répondant paieront à l’autre partie les sommes ci-après :
+a) À compter du 1er septembre 2015, l’appelant versera au répondant une pension alimentaire pour enfants au montant de 1 810 $ par mois, tandis que le répondant paiera à l’appelant une pension alimentaire pour enfants au montant de 1 469 $ par mois pour les enfants issus du mariage, à savoir [caviardé] né [caviardé] et [caviardé] né [caviardé], ce qui correspond aux revenus de chacune des parties et à l’article 9 des Lignes directrices fédérales sur les pensions alimentaires pour enfants.
+b) Les parties aviseront l’Agence du revenu du Canada qu’elles partagent à parts égales la garde des enfants et l’Agence du revenu du Canada fixera le montant de la Prestation fiscale canadienne pour enfants devant être versé à chacune des parties, ainsi que les crédits de TVH.
+c) Le répondant réclamera le crédit pour enfant admissible pour [caviardé], tandis que le demandeur réclamera le crédit pour enfant admissible pour [caviardé]. Les parties réévalueront l’admissibilité au crédit pour enfant admissible lorsque [caviardé] ne sera plus admissible de manière à partager également tout crédit accordé par l’Agence du revenu du Canada.
+[21] Pour l’année d’imposition 2015, l’ARC a accordé les crédits d’impôt à M. Lawson.
+[22] Dans ces circonstances, peut-on conclure que l’accord exigeait que les parties se versent réciproquement une pension?
+[23] Le répondant soutient que non, que la Cour d’appel fédérale a clairement établi, dans Verones c. Canada[4], que le montant d’une différence fondée sur les Lignes directrices impose une obligation unilatérale seulement, c’est-à-dire qu’une seule partie doit toucher une pension alimentaire. L’accord de séparation des Lawson n’indique pas qu’une partie doit verser x et que l’autre partie doit verser y et, en conséquence, les parties ne sont pas obligées de se verser réciproquement une pension alimentaire.
+[24] M. Lawson soutient :
+1) L’intention était une obligation réciproque.
+2) Le paiement n’était pas fondé uniquement sur les Lignes directrices.
+3) L’inclusion du paragraphe d) porte à croire qu’il était possible de toucher des crédits.
+4) L’accord indique que la somme de 100 $ représente la différence entre les paiements de pension alimentaire pour enfants qu’ils se verseraient autrement réciproquement l’un à l’autre.
+[25] À cela s’ajoute la modification que les parties ont apportée au procès-verbal de règlement afin que celui-ci reflète avec exactitude le libellé qui, selon les notes de l’ARC, est jugé acceptable. Est-ce suffisant pour distinguer le cas en l’espèce de la décision de la Cour d’appel fédérale dans Verones où la Cour a déclaré :
+3. ... L’appelant verse une pension alimentaire de 1 763 $ par mois à ses enfants. Ce montant représente la différence entre la contribution totale de l’appelant au titre des besoins de ses enfants (2 202 $) et la somme que son ex‑épouse doit verser à ce titre (439 $) selon les Lignes directrices fédérales sur les pensions alimentaires pour enfants, DORS/97‑175 (les « Lignes directrices fédérales »).
+...
+6. Tout le débat autour du concept de la compensation directe ne fait que détourner notre attention de la véritable question, en l’occurrence celle de savoir si l’appelant est ou non le seul parent payant une « pension alimentaire pour enfants » conformément à une « ordonnance d’un tribunal compétent » ou à un « accord écrit » au sens de la Loi.
+7. Dans l’arrêt Contino c. Leonelli‑Contino, 2005 CSC 63; [2005] 3 R.C.S. 217 [Contino], le juge Bastarache explique dans les termes les plus nets qu’en matière de pension alimentaire pour enfants, la Loi sur le divorce, L.R.C. 1985, ch. 3 (2e suppl.) (par. 26.1(2)) et les Lignes directrices fédérales (art. 1) sont fondées sur le principe que « l’obligation financière de subvenir aux besoins des enfants à charge [est] commune aux époux et qu’elle [est] répartie entre eux selon leurs ressources respectives permettant de remplir cette obligation » (au paragraphe 32).
+8. Une fois que l’obligation de chacun des parents par rapport aux enfants a été précisée, le parent dont les revenus sont les plus élevés peut être obligé de verser une pension alimentaire pour enfants au parent dont les revenus sont moins élevés dans le cadre de l’exécution de son obligation. Cependant, au bout du compte, le concept de la compensation directe ne transforme pas l’obligation respective des parents de contribuer à l’éducation des enfants en une « pension alimentaire » au sens de la Loi.
+[26] La Cour semble faire une distinction entre l’obligation de contribuer (autre qu’une pension alimentaire) et les exigences légales de payer (une pension alimentaire). Les Lignes directrices établissent les obligations de contribuer, mais seulement une personne est tenue de payer. Contrairement au procès-verbal de règlement, lequel crée explicitement deux obligations de payer, l’accord de séparation ne le fait pas explicitement.
+[27] Toutefois, est-ce que le témoignage de M. Lawson et l’information que l’ARC a reçue de Mme Lawson concernant leur compréhension de l’accord qu’ils avaient eux-mêmes rédigé, indiquant que chacun avait une obligation de payer, ont une incidence sur cette interprétation? Est-ce que les modalités du contrat sont limitées à la teneur de l’accord écrit? Il est bien admis que, même si l’on peut rarement invoquer un témoignage oral pour modifier les modalités d’un contrat, on peut invoquer un tel témoignage pour en interpréter un. En fait, M. Lawson croit que le passage « représente la différence entre les paiements de pension alimentaire pour enfants qu’ils se verseraient autrement réciproquement l’un à l’autre » devrait plutôt se lire comme suit : « représente la différence entre les paiements de pension alimentaire pour enfants qu’ils sont tenus de se verser l’un à l’autre ».
+[28] À mon avis, cette interprétation ne constitue pas une modification du contrat, mais plutôt une clarification par les deux parties au contrat et qui ont rédigé ledit contrat. J’accepte également le témoignage de M. Lawson lorsqu’il affirme que le respect rigoureux des Lignes directrices ne représenterait pas simplement une différence de 100 $, mais qu’un autre facteur était en jeu, à savoir la conséquence de la reconnaissance par Mme Lawson des frais de déplacement de M. Lawson. Enfin, j’admets également que le libellé du procès-verbal de règlement, jugé acceptable par l’ARC, ne reflète pas ce que les Lawson ont compris d’entrée de jeu. Bref, lorsqu’un couple divorcé s’appuie sur un commentaire de l’ARC suggérant qu’il suffit qu’un seul chèque soit émis, pour des raisons de facilité, lorsque le couple rédige son accord dans le but d’établir les exigences réciproques en matière de versement de pension alimentaire, lorsque les versements nets ne sont pas fondés uniquement sur les Lignes directrices, mais qu’ils représentent l’obligation d’une partie à assumer une part des frais de déplacement de l’autre partie, et lorsqu’un accord écrit subséquent est accepté par l’ARC sans toutefois que ledit accord ne modifie un arrangement convenu au préalable, je suis disposé à conclure que l’accord de séparation crée deux obligations et qu’il ne constitue pas seulement un moyen de calculer la pension alimentaire de l’une des parties. En conséquence, je suis disposé à accueillir l’appel au motif que leur accord de séparation crée deux obligations de verser une pension alimentaire, ce qui met en vigueur l’alinéa 118(5.1) de la Loi et permet à M. Lawson de réclamer des crédits d’impôt.
+[29] Comme je l’ai indiqué précédemment, j’ai déjà exprimé mes préoccupations, en ce qui concerne ces dispositions. Il y a une distinction subtile entre une obligation de verser un montant net de pension alimentaire et l’émission d’un seul chèque pour des raisons de facilité représentant les deux pensions alimentaires devant être versées réciproquement. Je reconnais que cette distinction subtile s’applique en l’espèce.
+[30] L’appel est accueilli et la question est renvoyée au ministre aux fins de réexamen et d’établissement de nouvelles cotisations pour le motif que M. Lawson a droit à des crédits d’impôt pour l’année d’imposition 2013.
+Signé à Ottawa, Canada, ce 6e jour de juillet 2017.
+« Campbell J. Miller »
+Le juge C. Miller
+RÉFÉRENCE :
+2017 CCI 131
+NO DU DOSSIER DE LA COUR :
+2015-3474(IT)I
+INTITULÉ DE LA CAUSE :
+CHRIS E. LAWSON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 juin 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 6 juillet 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Amit Ummat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[BLANK/EN BLANC]
+Cabinet :
+[BLANK/EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Publication de l’ARC intitulée « Garde partagée et montant pour une personne à charge admissible ».
+[2] [1990] 1 RCS.
+[3] 2014 CCI 263.
+[4] 2013 CAF 69.

@@ -1,0 +1,236 @@
+---
+title: "Gouskos c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/486852/index.do"
+last_modified: "2020-10-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 110"
+citation2: ""
+neutral_citation: "2020 CCI 110"
+decision_date: "2020-10-08"
+language: "fr"
+item_id: "486852"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4571
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:57:16.833000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "649a6a1b01a30b1fc67ea94625f773e12ca20351da7814fecfcfcc1fb344639a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gouskos c. La Reine
+
+- Citation: 2020 CCI 110
+- Decision date: 2020-10-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4571, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gouskos c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-10-08
+Référence neutre
+2020 CCI 110
+Numéro de dossier
+2019-2607(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-2607(IT)I
+ENTRE :
+MAVRA GOUSKOS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 25 août 2020, à Montréal (Québec)
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Gabriel Girouard
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles déterminations établies le 20 août 2014 aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2011 et 2012 concernant la Prestation fiscale canadienne pour enfants sont rejetés, sans dépens, au motif que le ministre du Revenu national a correctement déterminé que Mme Gouskos n’était pas admissible à la Prestation fiscale canadienne pour enfants (PFCE) puisque son revenu familial net dépassait le revenu maximal admissible qui lui permettrait de se prévaloir de la PFCE pour les années d’imposition 2011 et 2012.
+Signé à Ottawa, Canada, ce 8e jour d’octobre 2020.
+« Johanne D’Auray »
+La juge D’Auray
+Référence : 2020 CCI 110
+Date : 20201008
+Dossier : 2019-2607(IT)I
+ENTRE :
+MAVRA GOUSKOS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. Aperçu
+[1] La question en litige est celle de savoir si Mme Gouskos était admissible à la PFCE pour les années d’imposition 2011 et 2012.
+[2] À la suite d’une nouvelle détermination, le ministre du Revenu national (le ministre) a rejeté sa demande au titre de la PFCE au motif que, pour chacune des deux années, son revenu combiné à celui de son conjoint, M. Nikolaos Milonakos, était supérieur au maximum autorisé qui lui aurait permis de se prévaloir de la PFCE.
+[3] Pour les motifs exposés ci-dessous, je rejette l’appel de Mme Gouskos.
+II. Demande au titre de la PFCE
+[4] Mme Gouskos et M. Milonakos sont mariés depuis le 24 juin 2001. Ils ont cohabité pendant toute la période pertinente.
+[5] Mme Gouskos et son époux ont deux enfants : G., né le 18 mars 2002, et P., né le 22 septembre 2003.
+[6] Au cours des années d’imposition 2011 et 2012, Mme Gouskos et M. Milonakos ont déclaré les revenus nets suivants, et Mme Gouskos a demandé et reçu la PFCE en conséquence :
+[EN BLANC]
+Revenu net pour 2011
+Revenu net pour 2012
+Appelante
+0 $
+125 $
+Conjoint
+20 800 $
+16 901 $
+Revenu familial net
+20 800 $
+17 026 $
+PFCE versée
+6 913 $
+7 051 $
+[7] En 2014, à la suite d’un audit, une nouvelle cotisation a été établie à l’égard de M. Milonakos et son revenu net a été révisé comme suit :
+Année d’imposition
+Revenu net déclaré
+Revenu net révisé
+Écart
+2011
+20 800 $
+271 743 $
+250 943 $
+2012
+16 901 $
+115 460 $
+98 559 $
+[8] Compte tenu de la nouvelle cotisation à l’égard du revenu de M. Milonakos, le revenu familial net de Mme Gouskos pour 2011 et 2012 a fait l’objet d’une nouvelle cotisation et sa demande au titre de la PFCE pour ces années a été rejetée. Les modifications apportées au revenu familial net ont été les suivantes :
+[EN BLANC]
+Revenu net déclaré
+Revenu net révisé
+Écart
+Appelante
+0 $
+0 $
+0 $
+Conjoint
+20 800 $
+271 743 $
+250 943 $
+Revenu familial net pour 2011
+20 800 $
+271 743 $
+250 943 $
+Appelante
+125 $
+125 $
+0 $
+Conjoint
+16 901 $
+115 460 $
+98 559 $
+Revenu familial net pour 2012
+17 026 $
+115 585 $
+98 559 $
+III. Thèses des parties et analyse
+[9] Mme Gouskos a fait valoir qu’aux fins du calcul de l’admissibilité à la PFCE, les revenus de son conjoint ne devaient pas être pris en compte, étant donné qu’elle n’était pas impliquée dans ses activités commerciales et qu’elle ne recevait aucun revenu ou avantage de celles-ci.
+[10] Compte tenu du libellé clair de la Loi de l’impôt sur le revenu (la Loi), cet argument n’est pas fondé. L’article 122.6 de la loi prévoit que, pour le calcul de l’admissibilité à la PFCE, le revenu de la personne qui demande la PFCE doit être combiné avec celui de son époux tant et aussi longtemps qu’ils cohabitent. Le revenu familial net ne peut pas dépasser un montant déterminé – en 2011, le plafond était de 47 745 $ et en 2012, il était de 49 763 $. L’article 122.6 est rédigé comme suit :
+En ce qui concerne un particulier pour une année d’imposition, [le revenu modifié est] le total des sommes qui représenteraient chacune le revenu pour l’année du particulier ou de la personne qui était son époux ou conjoint de fait visé à la fin de l’année si, dans le calcul de ce revenu, aucune somme :
+a) n’était incluse :
+(i) en application de l’alinéa 56(1)q.1) ou du paragraphe 56(6),
+(ii) au titre d’un gain provenant d’une disposition de bien à laquelle s’applique l’article 79,
+(iii) au titre d’un gain visé au paragraphe 40(3.21);
+b) n’était déductible en application des alinéas 20(1)ww) ou 60y) ou z).
+[11] Il n’est pas contesté que Mme Gouskos et son époux cohabitaient pendant toute la période pertinente. Par conséquent, son revenu doit être combiné à celui de son époux pour déterminer son admissibilité à la PFCE.
+[12] Mme Gouskos a également remis en question la nouvelle cotisation établie par le ministre à l’égard du revenu de M. Milonakos pour les années d’imposition 2011 et 2012 [1] . Elle a fait valoir que son époux avait correctement déclaré son revenu pour ces deux années et que le ministre avait commis une erreur en incluant la somme de 250 943 $ dans son revenu pour l’année d’imposition 2011 et de 98 559 $ pour l’année d’imposition 2012.
+[13] M. Milonakos a témoigné pour le compte de l’appelante. Il a expliqué que lui et son frère, Niktario Milonakos, étaient les seuls actionnaires et administrateurs de la société Les Entreprises Gary Makris Inc. Cette dernière possédait toutes les actions de Masson Hot Dog Inc., qui exploitait un restaurant sous le nom de Masson Hot Dog.
+[14] Le restaurant avait une capacité d’environ trente personnes. On y servait le petit déjeuner, le déjeuner, le dîner et des repas à emporter. Toutefois, le restaurant n’avait pas de permis pour servir de l’alcool. En 2012, pour stimuler les ventes, il a introduit un service de livraison.
+[15] M. Milonakos est un chef cuisinier. Au restaurant, il était responsable de la préparation du menu, de la cuisine et de l’ensemble de l’exploitation quotidienne. Son frère était responsable de l’aspect administratif de l’exploitation du restaurant.
+[16] À la fin de l’année 2011, Niktario est parti pour la Grèce, laissant M. Milonakos comme seul actionnaire et administrateur du restaurant. En plus de ses fonctions de chef cuisinier, M. Milonakos a dû reprendre les tâches administratives de son frère. M. Milonakos a expliqué qu’il s’agissait d’une période difficile pour le restaurant. Un manque de liquidités a rendu difficile l’exploitation de l’établissement. En outre, les banques ne lui accordaient pas de prêts, ni à lui ni au restaurant.
+[17] M. Milonakos a témoigné qu’il avait pour objectif que le restaurant produit suffisamment de revenus pour payer les fournisseurs et les salaires des employés. Il a déclaré qu’il travaillait de longues heures sans toucher de salaire ou presque. Toutefois, il a admis avoir pris de l’argent au restaurant pour réapprovisionner un compte bancaire commun qu’il détenait avec son épouse et pour payer des dépenses personnelles.
+[18] Lorsque l’audit a commencé le 9 octobre 2012, le restaurant et Les Entreprises Gary Makris Inc. n’avaient pas produit leurs déclarations de revenus et de TPS et TVQ pour les années d’imposition se terminant le 30 avril 2010, le 30 avril 2011 et le 30 avril 2012. En outre, les livres et registres n’étaient pas tenus correctement. L’affaire a atteint un point où M. Milonakos a réalisé qu’il devait retenir les services d’un comptable pour l’aider. Il a donc fait appel à M. Andrй Lemelin. Selon la preuve, il n’est pas clair quand M. Lemelin a été embauché par M. Milonakos.
+[19] Au moment de l’audit, Masson Hot Dog était en activité depuis une vingtaine d’années.
+[20] Mme Catherine Massey a témoigné pour le compte de l’intimée. Elle est à l’emploi de l’Agence du revenu du Québec (ARQ) depuis 2003 et y occupe actuellement un poste de gestionnaire. Elle travaille au sein d’un groupe dédié à l’audit de restaurants. Elle a été l’auditrice responsable des audits de la société Les Entreprises Gary Makris Inc., du restaurant Masson Hot Dog Inc. et de M. Milonakos.
+[21] Mme Massey a déclaré que l’ARQ avait sélectionné le restaurant Masson Hot Dog pour un audit, car il avait déclaré des pertes de 1999 à 2012 et n’avait pas produit ses déclarations de TPS/TVQ ni ses déclarations de revenus pour ses années d’imposition 2010, 2011 et 2012. M. Milonakos a été sélectionné pour un audit, car ses revenus déclarés étaient faibles compte tenu du fait qu’il subvenait aux besoins d’une épouse et de deux jeunes enfants.
+[22] Le 3 octobre 2012, lors d’une visite surprise au restaurant, Mme Massey et un autre auditeur de l’ARQ ont rencontré la serveuse en chef, Mme Delima Basque.
+[23] Lors de cette visite, Mme Massey a examiné les documents liés au comptage quotidien de la caisse pour les années 2011 et 2012. Les documents comprenaient un compte quotidien des ventes au comptant et par Interac ainsi que les factures payées aux fournisseurs. Mme Massey a pris une photo de tous les documents liés au comptage quotidien de la caisse pour le mois de septembre 2012. Au cours de cette visite, Mme Massey a également remarqué des boîtes de carnets de commandes utilisés par les serveurs et serveuses pour noter les commandes des clients.
+[24] Mme Massey a déclaré que les ventes enregistrées dans les documents liés au comptage quotidien de la caisse étaient supérieures aux ventes enregistrées dans le module d’enregistrement des ventes (MEV). Le MEV est obligatoire dans la province de Québec. Toutes les ventes doivent être enregistrées à l’aide du MEV. Mme Massey a donc estimé qu’elle ne pouvait pas se fier au MEV.
+[25] Lors de sa deuxième visite au restaurant, Mme Massey a rencontré M. Milonakos et lui a demandé de lui fournir les documents établissant les ventes du restaurant qu’elle avait vus lors de sa première visite. M. Milonakos a indiqué à Mme Massey qu’il n’avait plus ces documents en main, car Mme Basque les avait jetés par erreur lors du nettoyage du garage à côté du restaurant. M. Milonakos a invité Mme Massey à travailler avec son comptable, M. Lemelin, ce qu’elle a fait.
+[26] Mme Massey a témoigné que le restaurant ne tenait pas de livres et de registres adéquats. Elle a déclaré que le restaurant n’avait jamais entrepris d’inventaire de son stock. Outre le MEV, il n’y avait aucune pièce justificative établissant les ventes pour 2011 et 2012. De juillet 2011 à septembre 2012, les factures des achats étaient disponibles, mais elles ne l’étaient pas toutes pour le reste de la période. Parfois, les ventes déclarées aux fins de la TPS n’étaient pas du même montant que celles déclarées aux fins du calcul de l’impôt sur le revenu.
+[27] Mme Massey a décrit comment les employés du restaurant étaient payés. Tous les employés étaient payés en espèces, mais à des jours et des périodes différents. Certains employés étaient payés de façon quotidienne au cours d’un mois donné, mais le mois suivant, ils étaient payés au bout de quatre ou cinq jours.
+[28] M. Milonakos n’a pas déposé l’argent gagné par le restaurant. Les seuls dépôts bancaires étaient les paiements Interac des clients. M. Milonakos a déclaré à Mme Massey qu’il payait les fournisseurs et les employés en espèces. En outre, tel qu’il a été déjà mentionné, lorsque M. Milonakos avait besoin d’argent pour ses dépenses personnelles ou familiales, il prenait de l’argent à même la caisse du restaurant.
+[29] Étant donné les documents financiers incomplets et manquants du restaurant, Mme Massey a déclaré qu’elle devait utiliser une autre méthode d’audit afin d’établir les revenus gagnés par le restaurant.
+[30] La méthode choisie consistait à reconstituer les achats et les ventes de nourriture du restaurant. Mme Massey a analysé combien de pains à hot dogs et à hamburgers le restaurant achetait auprès de ses fournisseurs. Ces achats ont ensuite été comparés aux ventes enregistrées dans le MEV afin de déterminer s’il existait un écart entre les achats et les ventes en tenant compte de la détérioration des aliments, de la consommation personnelle et des pourboires.
+[31] Mme Massey a conclu que, pour la période du 1er novembre 2011 au 30 septembre 2012, il existait un écart de 40,4 % entre les articles vendus enregistrés dans le MEV et les articles mis en vente. Elle a appliqué cet écart à tous les autres articles du menu et a conclu que le restaurant avait sous-déclaré ses ventes de 202 510 $ pour la période se terminant le 30 avril 2011 et de 223 459 $ pour la période se terminant le 30 avril 2012.
+[32] Mme Massey a utilisé d’autres méthodes pour vérifier son analyse. Tout d’abord, elle a analysé le ratio loyer/ventes du restaurant pour déterminer s’il se situait dans les limites du ratio standard du secteur de la restauration. En général, le ratio pour les restaurants avec salle à manger est de 6,3 %. Avant d’ajouter les revenus non déclarés, le ratio pour le restaurant Masson Hot Dog était de 14,1 %. Après l’inclusion des revenus non déclarés, le ratio loyer/ventes du restaurant est passé à 6,3 %, ce qui se rapproche davantage du ratio standard.
+[33] Ensuite, Mme Massey a analysé la consommation de gaz du restaurant. Elle a déclaré que la consommation de gaz du restaurant correspondait aux revenus qu’elle avait ajoutés.
+[34] Enfin, à l’aide des seuls documents liés au comptage quotidien de la caisse dont elle disposait, à savoir ceux du mois de septembre 2012, Mme Massey a calculé les revenus du restaurant tels qu’ils étaient enregistrés dans ces documents. Elle a ensuite extrapolé les revenus pour ce mois en question pour obtenir un montant annuel. Mme Massey a déclaré que le résultat était analogue au montant des revenus déclarés en partie seulement qu’elle avait calculés en utilisant l’autre méthode de vérification, à savoir la reconstitution des achats et des ventes de nourriture.
+[35] Mme Massey a conclu que les revenus sous-déclarés du restaurant ont été appropriés par M. Milonakos et a établi une cotisation à son égard en conséquence. L’ARQ a établi une nouvelle cotisation à l’égard de M. Milonakos pour une appropriation de 250 943 $ pour 2011 et de 98 559 $ pour 2012 [2] .
+[36] Le restaurant et M. Milonakos n’ont pas déposé d’opposition aux nouvelles cotisations. Lors du procès, M. Milonakos n’a déposé aucun élément de preuve établissant que ses nouvelles cotisations et les nouvelles cotisations concernant le restaurant étaient incorrectes. Il a déclaré que les éléments de preuve n’étaient plus disponibles.
+[37] M. Milonakos a néanmoins contesté les calculs de l’ARQ. Il a fait valoir qu’il avait toujours déclaré toutes les ventes effectuées par le restaurant. Quoi qu’il en soit, il a soutenu qu’il était impossible qu’un si grand nombre de ventes n’aient pas été déclarées. Il a également fait valoir qu’il y avait une plus grande détérioration des pains à hot dogs et à hamburgers que ce qui avait été pris en compte par l’ARQ. Il n’a toutefois pas mentionné le montant de la détérioration que l’ARQ aurait dû prendre en compte. Il a déclaré que le restaurant n’était pas en mesure de remettre la TPS et la TVQ parce qu’il connaissait des difficultés financières. Un restaurant en difficulté financière n’aurait pas pu réaliser les ventes établies par Mme Massey.
+[38] Pour que Mme Gouskos soit admissible à la PFCE, le revenu familial net ne pouvait pas dépasser 47 745 $ en 2011 et 49 763 $ en 2012. Le revenu familial net avant l’audit du restaurant et de M. Milonakos a été déclaré comme étant de 20 800 $ en 2011 et de 17 026 $ en 2012. Par conséquent, si M. Milonakos a sous-déclaré son revenu d’au moins 26 946 $ [3] en 2011 et 32 737 $ [4] en 2012, Mme Gouskos ne serait pas admissible à la PFCE.
+[39] Aux fins du présent appel, je n’ai pas à déterminer l’exactitude du revenu du restaurant calculé par Mme Massey qui a été attribué à M. Milonakos. Je conclus que M. Milonakos a considérablement sous-déclaré ses revenus pour les années en question et que le revenu familial net de Mme Gouskos a dépassé la limite imposée par la loi pour se prévaloir de la PFCE.
+[40] M. Milonakos était le seul soutien financier de sa famille de quatre personnes en 2011 et 2012 (Mme Gouskos n’a déclaré aucun revenu en 2011 et 125 $ en 2012). M. Milonakos et Mme Gouskos ont tous deux admis qu’ils avaient fait des rénovations dans la maison familiale. L’argent pour les dépenses familiales devait bien venir de quelque part, et la seule source de revenus mentionnée dans son témoignage était le restaurant. Il a admis avoir pris de l’argent au restaurant pour payer les dépenses personnelles et familiales ainsi que pour réapprovisionner le compte bancaire conjoint de la famille.
+[41] Mme Gouskos a déposé devant la Cour des copies des relevés du compte bancaire personnel conjoint pour 2011 et 2012. Le montant des dépenses figurant dans ces relevés dépasse le revenu familial net déclaré par M. Milonakos et Mme Gouskos. Cela confirme ma conclusion selon laquelle M. Milonakos a déclaré ses revenus en partie seulement. Le revenu de M. Milonakos n’était peut-être pas exactement celui que Mme Massey avait calculé. L’emploi d’une autre méthode d’audit est loin d’être la solution parfaite. Il s’agit d’une méthode de dernier recours lorsque les livres et registres réels d’une entreprise font défaut. Selon l’audit de Mme Massey et les éléments de preuve concernant l’utilisation de l’argent du restaurant pour les dépenses familiales, je suis tout à fait convaincu que le revenu familial net de la famille Gouskos-Milonakos était d’au moins 47 746 $ en 2011 et d’au moins 49 764 $ en 2012.
+[42] Il incombait à Mme Gouskos d’établir que son revenu familial net était inférieur à 47 746 $ en 2011 et à 49 764 $ en 2012. Elle n’est pas parvenue à réfuter, selon la prépondérance des probabilités, que les nouvelles cotisations établies par le ministre étaient incorrectes. Par conséquent, Mme Gouskos n’a pas pu demander la PFCE pour ses années d’imposition 2011 et 2012.
+[43] Les appels sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 8e jour d’octobre 2020.
+« Johanne D’Auray »
+La juge D’Auray
+RÉFÉRENCE :
+2020 CCI 110
+NO DU DOSSIER DE LA COUR :
+2019-2607(IT)I
+INTITULÉ :
+MAVRA GOUSKOS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 25 août 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 8 octobre 2020
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Gabriel Girouard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Mme Gouskos conteste les nouvelles cotisations sous-jacentes, à savoir celles de son époux.
+[2] Les chiffres sont différents puisque l’exercice du restaurant se termine le 30 avril et celui de M. Milonakos, le 31 décembre.
+[3] Pour 2011, le revenu familial net ne peut pas dépasser 47 745 $ pour qu’un particulier soit admissible à la PFCE. Le revenu familial net déclaré est de 20 800 $. Par conséquent, si le revenu net de M. Milonakos a été à juste titre augmenté par le ministre de 26 946 $, Mme Gouskos n’a pas droit à la PFCE.
+[4] Pour 2012, le revenu familial net ne peut pas dépasser 49 763 $ pour qu’un particulier soit admissible à la PFCE. Le revenu familial net déclaré est de 17 026 $. Par conséquent, si le revenu net de M. Milonakos a été à juste titre augmenté par le ministre de 32 737 $, Mme Gouskos n’a pas droit à la PFCE.

@@ -1,0 +1,129 @@
+Title: Bach v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26078/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-328-26078-bach-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-05-13
+
+# Bach v. The Queen
+
+- Citation: 2003 TCC 328
+- Decision date: 2003-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4073, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bach v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-13
+Neutral citation
+2003 TCC 328
+File numbers
+2002-4835(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4835(IT)I
+BETWEEN:
+LEONARD BACH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 2, 2003 at Kamloops, British Columbia
+Before: The Honourable Judge D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 13th day of May, 2003.
+J.T.C.C.
+Citation: 2003TCC328
+Date: 20030513
+Docket: 2002-4835(IT)I
+BETWEEN:
+LEONARD BACH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.T.C.C.
+[1] This appeal pursuant to the Informal Procedure was heard at Kamloops, British Columbia, on May 2, 2003. The Appellant testified and called Margaret Galon, a part-time Gaming Supervisor at the Lake City Casino ("Casino") in Kamloops and Sherry Molansky, a Dealing Supervisor at the same Casino. The Respondent called the auditor on the file, Diana King, C.G.A.
+[2] Paragraphs 7 to 14 inclusive of the Reply to the Notice of Appeal outline the matters at issue. They read:
+7. In computing income for the 1999 taxation year the Appellant included $727.00 on account of tips that he received from his employment as a dealer for Lake City Casinos.
+8. The Minister conducted an audit of the tips paid to the dealers of Lake City Casinos and determined that the Appellant received additional tips totalling $5,941.00. The Appellant did not include the additional $5,941.00 of tips in calculating his income for the 1999 taxation year.
+9. The Minister reassessed the Appellant for the 1999 taxation year to include the unreported tips of $5,941.00 (the "Unreported Amount") and issued a reassessment notice dated September 4, 2001.
+10. The Appellant filed a Notice of Objection on October 29, 2001 and disputed the inclusion of the Unreported Amount in calculating his income for the 1999 taxation year.
+11. The Minister confirmed the 1999 taxation year reassessment by Notice dated September 16, 2002.
+12. In so reassessing and confirming, the Minister relied on the following assumptions of fact:
+a) the Appellant was employed as a dealer at Lake City Casino (the "Casino") in 1999;
+b) the Appellant, in addition to his employment income from the Casino, received amounts on account of tips;
+c) the tips paid by the Casino patrons to the dealers were paid in the forms of cash, chips or winnings from bets referred to as "dealer bets" (collectively, the "Tips");
+d) a dealer bet involved a Casino patron placing a bet and turning the winnings, if any, over to the dealers as a tip;
+e) the Appellant placed the Tips given to him in a tip box during each of his shifts;
+f) the Appellant's Tips were pooled with the Tips of the other dealers;
+g) a committee comprised of Casino employees performed the record keeping respecting the Tips and distributed the Tips on a biweekly basis to the Appellant and to the other dealers;
+h) a tip share allocation based on a formula of time worked and seniority was used to calculate the amount to be paid out to the Appellant and to the other dealers;
+i) the Appellant's entitlement to his share of the pooled Tips was as a result of his employment duties as a dealer, and were paid to him regardless of the amount he contributed to the Tips pool;
+j) the Appellant did not purchase the right to the chance to win with respect to the dealer bets placed by the Casino patron on his behalf;
+k) the Appellant did not place any dealer bets himself;
+l) the Appellant had no control over the placement of any dealer bets;
+m) the Appellant did not receive the Unreported Amount on account of a prize in connection with a lottery scheme; and
+n) the Appellant received the Unreported Amount due to his employment.
+B. ISSUES TO BE DECIDED
+13. The issue is whether the Unreported Amount was correctly included in calculating the Appellant's income for the 1999 taxation year.
+C. STATUTORY PROVISIONS RELIED ON
+14. He relies on paragraph 6(1)(a) and on subsections 5(1) and 52(4) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act").
+[3] None of the assumptions were refuted. However some deserve a further explanation. By reference to the subparagraphs to paragraph 12, the explanations are:
+g) the committee was elected by the employees.
+h) probationary employees got a smaller fixed share then non-probationary employees. All non-probationary employees who worked a 4½ hour full day got 6 shares for that full day. (Probationary employees got 3 shares for a full day). Forty-two employees shared in the pool consisting of the dealers and the pit supervisors on all shifts. The committee allotting the money was elected by the people who shared in the pool from among themselves.
+j) the Appellant's major argument was that his dealer bets were the proceeds of gambling. Thus they are not taxable. However the Court was given a demonstration of the dealer bet process in two simulated casino Black Jack games. The casino patron places his own bet chip and a second chip beside his placed chip as a bet for the dealer. If the bet is lost, all the chips go to the casino. If the bet is won, the dealer gets his chip plus a matching chip paid off. If the patron's cards tie the dealer's, there is no win and no loss; the result is a tie or a "push" and the patron keeps all his chips, including the bet for the dealer. The result of this demonstration established that the bet for the dealer is not the dealer's, rather the tip bet is the patron's. Only if the gamble of the dealer bet by the patron is a win does the dealer ever receive anything - after the patron's game is concluded. Therefore, there is no gamble by the dealer. He or she never does own or possess the dealer bet chip until the patron wins the game.
+[4] The amount of $727 that the Appellant reported was merely his estimate as he stated. The assessment of the "Unreported Amount" was derived from the committee records of payment of tips to the Appellant and an amount averaged by the auditor for two weeks for which records were missing. The auditor's calculations were not refuted in evidence and they are accepted as correct. The actual "tips" in question are described correctly in assumption 7 c). There are two categories of these; (1) straight payments of cash or chips by a patron to a dealer, and (2) the so-called "dealer bets" which the Appellant claims are subject to chance and therefore are gambling winnings. No records or evidence exists which describe the amount of each category.
+[5] The final question is whether the Appellant received his share of the pool as a result of his employment with the Casino. In considering this, it should be noted that:
+1. The dealer bets were only paid to dealers who were employees of the Casino.
+2. The dealers and the pit supervisors, a total of 42 people on two shifts of Casino employees, shared then in a pool of employees. That is to say that the person who received the dealer bet was not the only recipient of it; other employees received part of it too, in respect of their employment by the Casino. Just as the Appellant received part of the dealer bets paid to other dealers on his or the second shift of each day.
+3. The patron paid the dealer bet as a form of tip, that is, in recognition of the dealer dealing the patron a winning hand. That payment had no element of chance in it, since the payment itself only occurred after a win. Only then did the dealer actually receive it.
+4. Similarly, the amount that a qualified Casino employee might receive from the pool was only known upon the employee being paid by the committee of Casino employees.
+[6] The appeal is dismissed. The Unreported Amount is income to the Appellant from an office or employment within the meaning of both subsection 5(1) and of paragraph 6(1)(a) of the Income Tax Act.
+Signed at Saskatoon, Saskatchewan, this 13th day of May, 2003.
+J.T.C.C.
+CITATION:
+COURT FILE NO.:
+2002-4835(IT)I
+STYLE OF CAUSE:
+Leonard Bach v. Her Majesty the Queen
+PLACE OF HEARING:
+Kamloops, British Columbia
+DATE OF HEARING:
+May 2, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge D.W. Beaubier
+DATE OF JUDGMENT:
+May 13, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

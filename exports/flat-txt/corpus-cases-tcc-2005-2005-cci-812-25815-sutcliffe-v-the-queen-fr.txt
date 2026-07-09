@@ -1,0 +1,469 @@
+Title: Sutcliffe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25815/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-812-25815-sutcliffe-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-12-22
+
+# Sutcliffe v. The Queen
+
+- Citation: 2005 CCI 812
+- Decision date: 2005-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3891, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sutcliffe v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-22
+Référence neutre
+2005 CCI 812
+Numéro de dossier
+2001-2556(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI812
+Date : 20051222
+Dossier : 2001-2556(IT)G
+ENTRE :
+MARK SUTCLIFFE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Il s'agit d'un appel interjeté par Mark Sutcliffe, autrefois pilote d'Air Canada, concernant la rémunération qu'il a reçue pendant une période où il ne résidait pas au Canada. Les cotisations ont été établies en application de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « Loi » ), et se rapportent aux années d'imposition 1996, 1997 et 1998[1].
+[2] Les cotisations dont l'appelant a fait l'objet ne sont pas uniques en leur genre. Après avoir reçu une demande de renseignements d'un député fédéral, l'Agence du revenu du Canada (l' « Agence » ) a entrepris l'examen de l'imposition de pilotes employés par Air Canada et par les Lignes aériennes Canadien (comme cette société s'appelait alors) qui avaient produit des déclarations de revenus à titre de non-résidents du Canada. L'examen de l'Agence a abouti à l'élaboration d'une politique en matière de cotisation, laquelle a été communiquée à l'appelant par une lettre datée du 7 décembre 1998.
+[3] Plusieurs pilotes, dont l'appelant, ont fait l'objet de nouvelles cotisations, conformément à la politique en matière de cotisation décrite dans la lettre. Dans certains cas, l'Agence a contesté la détermination de la résidence du pilote alors que dans d'autres cas, la qualité du pilote à titre de non-résident a été reconnue et les nouvelles cotisations ont uniquement eu pour effet d'augmenter le montant de la rémunération qui était assujettie à l'impôt.
+[4] Les nouvelles cotisations établies à l'égard de l'appelant appartiennent à cette dernière catégorie. Le ministre a reconnu que l'appelant était un non-résident et il a établi des cotisations par lesquelles il augmentait son « revenu imposable gagné au Canada » .
+[5] En plus de contester le calcul de l'impôt fédéral, l'appelant a demandé l'autorisation d'appeler de l'attribution du revenu aux fins de l'impôt provincial. La question de l'attribution provinciale ne fait pas partie du présent appel, parce que la demande que l'appelant a présentée pour faire modifier l'avis d'appel en vue d'inclure cette question a été rejetée : Sutcliffe c. Canada, 2004 CAF 376, [2005] 1 C.T.C. 149 (C.A.F.)[2].
+[6] La principale question qui se pose dans le présent appel se rapporte à la façon dont la rémunération doit être imputée aux fonctions exercées au Canada. Le litige comporte trois aspects. Le premier concerne les vols internationaux, et l'appelant prend la position selon laquelle la rémunération reçue pour ces vols n'est pas assujettie à l'impôt, même pour ce qui est du « trajet intérieur » des vols. Le deuxième aspect se rapporte aux vols intérieurs, et l'intimée est d'avis que la rémunération est pleinement imposable, même à l'égard du « trajet étranger » des vols intérieurs qui survolent les États-Unis. Le dernier aspect se rapporte à la rémunération telle que les indemnités de congé et de maladie qui ne sont pas liées à des fonctions précises. L'appelant soutient que la rémunération qui n'est pas liée à des fonctions précises n'est pas imposable.
+[7] Les deux parties ont avancé de nombreux arguments à l'appui de leurs positions respectives; ces arguments seront examinés d'une façon passablement détaillée ci-dessous. En général, j'ai conclu que les positions susmentionnées que l'appelant et l'intimée ont prises ne sont pas étayées par le libellé clair de la Loi ou de la Convention fiscale de 1980 entre le Canada et les États-Unis (la « Convention » ).
+Les faits
+a) Généralités
+[8] Pendant la période pertinente, l'appelant travaillait pour Air Canada comme pilote et il résidait aux États-Unis. Il est devenu non-résident en 1994 lorsqu'il a quitté le Canada pour s'installer à Lewiston (New York), à une distance où il pouvait faire la navette jusqu'à l'aéroport de Toronto.
+[9] L'appelant avait les grades de commandant de bord et de copilote sur des appareils DC9 et A320. Ses affectations de vol, qui étaient faites selon un système de postulation, étaient faites sur la base de jumelages de vols. Tous les jumelages assignés à l'appelant commençaient et prenaient fin à Toronto, qui était la base d'exploitation de l'appelant aux fins de l'emploi.
+[10] L'appelant a effectué plus de 1 000 vols pendant la période visée par l'appel. Ces vols étaient tous énumérés dans des relevés salariaux qui ont été délivrés par la société aérienne, les vols étant désignés au moyen d'un code d'aéroport. Il semble que la plupart des vols étaient effectués entre deux points au Canada (les vols intérieurs) ou entre un point situé au Canada et un autre situé aux États-Unis (les vols internationaux). L'appelant avait également effectué un petit nombre de vols à destination des Caraïbes. Un examen superficiel de la liste des vols montre que les villes vers lesquelles l'appelant effectuait le plus souvent des vols, mis à part Toronto, étaient Boston, Newark, New York, Chicago, Ottawa, Montréal, Winnipeg et Halifax.
+b) Description des fonctions
+[11] Les conditions d'emploi de l'appelant étaient régies par des conventions collectives négociées par l'Association des pilotes d'Air Canada. Deux conventions étaient en vigueur pendant la période pertinente (les « conventions collectives » ).
+[12] Les principales fonctions de l'appelant consistaient à piloter des aéronefs de passagers, à titre de commandant de bord ou de copilote. En plus de piloter l'aéronef, l'appelant devait exercer des fonctions au sol avant et après chaque vol. En général, l'appelant était de service pendant une période commençant environ 60 minutes avant le décollage et se terminant environ 30 minutes après l'atterrissage.
+[13] Les conditions d'emploi comportaient également les exigences suivantes :
+· l'appelant devait assister à des séances de formation comportant des vols d'entraînement (l' « expérience préparatoire en vol » ), une formation au sol et une formation sur simulateur;
+· l'appelant devait effectuer des vols en tant que passager lorsqu'il n'était pas déjà dans la ville d'où un vol devait partir (la « mise en place » );
+· l'appelant devait s'absenter de chez lui pour un certain temps entre les vols (les « repos en escale » );
+· les vols assignés à l'appelant pouvaient être à nouveau assignés à des pilotes ayant plus d'ancienneté (le « déplacement » ). En cas de déplacement, l'appelant recevait un préavis raisonnable avant de quitter la maison pour se rendre à l'aéroport;
+· l'appelant devait être « en réserve » , ce qui voulait dire que l'appelant devait être disponible pour effectuer un vol sur demande, mais qu'il pouvait refuser si un pilote ayant moins d'ancienneté était disponible.
+c) Description de la rémunération
+[14] Les dispositions des conventions collectives portant sur la rémunération des pilotes sont complexes. En général, la rémunération de l'appelant ressemblait plus ou moins à un salaire annuel fixe, parce que l'appelant était rémunéré pendant des périodes telles que les congés de maladie et les vacances, lorsque aucune fonction n'était exercée. Toutefois, les chèques de paie de l'appelant n'étaient pas établis pour des montants fixes. La rémunération variait en fonction de la nature des fonctions exercées et du type de période d'inactivité. Ainsi, l'appelant recevait des montants déterminés au moyen d'une formule pour le temps consacré aux vols, à la mise en place ou à la formation. Il recevait également différents montants pour les périodes pendant lesquelles aucune fonction n'était exercée, par exemple lorsqu'il était « en réserve » , qu'il était déplacé, qu'il était en vacances ou qu'il était malade.
+[15] Je résumerai ci-dessous les différents types de rémunérations reçues par l'appelant pendant la période pertinente. Il s'agit de descriptions générales, mais elles suffisent aux fins qui nous occupent.
+[16] Rémunération de vol - La rémunération de vol était un montant payé pour chaque vol, déterminé principalement selon la durée du vol[3]. Le temps était déterminé en minutes, à compter du refoulement de l'aéronef depuis la porte d'embarquement jusqu'au moment où il s'arrêtait à la porte des arrivées[4]. De nombreux autres facteurs entraient également en ligne de compte dans le calcul de la rémunération de vol, comme la question de savoir si le vol était un vol outre-mer, si le pilote effectuait un vol de nuit et le type d'aéronef. L'appelant était tenu d'être de service pour une période donnée avant et après chaque vol afin d'accomplir des tâches liées au vol, mais le temps de préparation n'était pas inclus dans le calcul des minutes de vol qui était utilisé pour calculer la rémunération de vol[5]. Le montant de la rémunération de vol qui pouvait être gagnée chaque mois était assujetti à un minimum et à un maximum, qui variait en fonction des circonstances. Ainsi, la rémunération de vol pouvait être ajustée pour des heures de vol minimales et maximales de 70 et 78 heures respectivement.
+[17] Mise en place - Un certain montant était payé lorsque l'appelant effectuait un vol en tant que passager aux fins de son emploi. Le montant était exprimé en tant que pourcentage de la rémunération de vol.
+[18] Formation - Un certain montant était payé pour les périodes pendant lesquelles l'appelant suivait des cours de formation. En général, le montant payé représentait un pourcentage de la rémunération de vol.
+[19] Déplacement - S'il était déplacé (c'est-à-dire s'il était supplanté pour une affectation de vol par un pilote ayant plus d'ancienneté), l'appelant touchait un montant égal au montant de la rémunération de vol qu'il aurait gagnée s'il avait pris l'affectation. Le temps de vol était déterminé non en fonction de la durée réelle du vol, mais en fonction de la durée du vol indiquée dans l'horaire publié par Air Canada.
+[20] Vacances - Un certain montant était payé pour chaque jour de vacances. Le montant était en général calculé en tant que pourcentage de la rémunération de vol.
+[21] Maladie - Un certain montant était payé pour chaque jour où l'appelant ne pouvait pas s'acquitter de ses tâches pour cause de maladie. Le montant était calculé selon une formule qui dépendait d'un certain nombre de facteurs. Ainsi, le pilote qui devait effectuer un vol un jour particulier et qui était malade pouvait être rémunéré comme s'il avait effectué le vol et la durée était calculée en fonction de la durée du vol indiquée dans l'horaire publié par Air Canada.
+[22] Garanties - L'appelant recevait des montants minimaux, généralement appelés garanties dans les conventions collectives. Trois types différents de garanties sont pertinents dans le présent appel :
+· Garantie mensuelle minimale - Lorsque l'appelant n'avait que quelques affectations de vol au cours d'un mois donné, il recevait une rémunération de vol additionnelle. Cette rémunération était souvent payée lorsque l'appelant était en réserve. Le montant était calculé en fonction d'un nombre minimal d'heures de rémunération de vol par mois, lequel était fixé au prorata si l'appelant était en réserve pendant une partie du mois seulement.
+· Garantie concernant la période de service - Pour chaque « période » de service de vol, l'appelant recevait un montant minimal de rémunération de vol. Ce montant supplémentaire s'appliquait lorsque la durée réelle du vol pour une affectation particulière était peu importante.
+· Garantie de jumelage - L'appelant recevait une indemnité additionnelle pendant les repos en escale. Les paiements étaient organisés sous forme de garantie, de sorte que l'appelant recevait en général au moins une heure de rémunération de vol pour chaque période de quatre heures pendant laquelle il s'absentait de son aéroport d'attache au cours d'un jumelage.
+[23] La rémunération totale reçue par l'appelant au cours des années d'imposition pertinentes est indiquée dans le tableau suivant, qui établit une distinction entre la rémunération des vols intérieurs et internationaux et les autres types de rémunération[6] :
+Rémunération pour vols intérieurs
+Rémunération pour vols internationaux
+Autre rémunération
+1996
+47 663 $
+51 144 $
+36 887 $
+1997
+48 491 $
+86 138 $
+35 910 $
+1998
+45 475 $
+92 952 $
+46 215 $
+d) Les déclarations de revenus de l'appelant
+[24] Dans les déclarations de revenus de l'appelant pour les deux premières des trois années d'imposition visées par l'appel, l'appelant a calculé le « revenu imposable gagné au Canada » en excluant la rémunération de vol pour les vols internationaux et une bonne partie de la rémunération figurant sous la rubrique « Autre rémunération » dans le tableau qui apparaît ci-dessus. L'appelant n'a pas fourni une liste complète des types de rémunération qui étaient inclus ou exclus. Je crois que l'impôt a généralement été payé sur la rémunération relative aux vols intérieurs et à la formation (à l'exclusion des vols d'entraînement sur les vols internationaux).
+[25] L'appelant a témoigné que, pour la troisième année d'imposition visée par l'appel, il avait préparé sa déclaration de revenus de façon à essayer de se conformer à la nouvelle politique de l'Agence en matière de cotisation.
+e) Les nouvelles cotisations
+[26] Les nouvelles cotisations dont l'appelant a fait l'objet ont été établies sur la base indiquée dans une lettre de l'Agence en date du 7 décembre 1998. En général, la rémunération de l'appelant était divisée en parties imposables et en parties non imposables, la partie imposable se rapportant à la rémunération qui était raisonnablement attribuée aux fonctions exercées au Canada. La répartition était fondée sur des renseignements réels, lorsqu'ils étaient connus, et sur des hypothèses, lorsque les faits pertinents n'étaient pas connus.
+[27] Je reproduis ci-dessous des passages de la lettre du mois de décembre 1998 expliquant d'une façon passablement détaillée la façon dont la nouvelle cotisation de l'appelant a été établie :
+[TRADUCTION]
+Selon la position prise par le ministère, le revenu gagné par un employé non-résident travaillant pour une société aérienne située au Canada est imposable au Canada sur la base suivante :
+a) La rémunération de vol
+[...] Nous sommes d'avis que la rémunération relative aux vols intérieurs est entièrement imposable au Canada indépendamment de la question de savoir si la trajectoire de vol entre les deux points situés au Canada franchit la frontière américaine.
+[...] La partie d'un vol international qui commence ou qui prend fin au Canada et qui passe par l'espace aérien canadien est imposable au Canada. [...]
+En déterminant l'élément intérieur attribuable aux vols internationaux, le ministère a préparé le tableau ci-joint. Les renseignements recueillis sont fondés sur les trajectoires moyennes de vol et ne se rapportent pas à un vol précis. Toutefois, les hypothèses suivantes sont incluses dans les calculs :
+i) les trajectoires moyennes de vol sont déterminées comme étant la route la plus directe entre le point d'origine et celui de destination en utilisant la navigation traditionnelle, c'est-à-dire les arcs de grand cercle;
+ii) la distance au Canada est calculée en prenant la distance entre le point d'origine (ou de destination) et (ou depuis) le point à la frontière ou dans les eaux territoriales où le vol quitte le Canada (ou y entre), ce qui est déterminé compte tenu de la trajectoire moyenne de vol;
+iii) la distance pour la trajectoire de vol est obtenue à l'aide des données reçues d'une société aérienne canadienne et cette distance a été vérifiée auprès d'une source indépendante;
+iv) le temps au Canada est déterminé en divisant la distance parcourue au Canada par la vitesse;
+v) la vitesse est la vitesse moyenne pendant toute la durée du vol, déterminée par rapport à la distance et aux minutes pour le vol telles qu'elles sont indiquées par la société aérienne;
+vi) au moins 15 minutes au Canada pour tout vol afin de couvrir la circulation à la surface et le départ.
+[...]
+b) La formation
+[...] Aux fins de l'impôt, il est considéré que la source de cette rémunération est l'endroit où la formation a eu lieu et que la rémunération devrait être répartie sur la base des jours de travail. Lorsque la formation inclut des vols réels (intérieurs ou internationaux), la rémunération applicable devrait être répartie conformément à ce qui est prévu ci-dessus à l'alinéa a).
+c) La mise en place
+Selon la position prise par le ministère, la rémunération de mise en place devrait être répartie sur la même base que celle qui est prévue ci-dessus à l'alinéa a), et ce, peu importe que vous ayez effectué le voyage de mise en place ou non. Cette position est fondée sur le fait que vous recevez cette rémunération parce que vous êtes mis en place sur l'ordre de votre employeur, à défaut de quoi vous ne recevriez pas cette rémunération. Par conséquent, nous considérons que vous fournissez des services à votre employeur, et ce, peu importe que vous ayez effectué le voyage de mise en place ou non.
+[...]
+f) Les indemnités de congé et de maladie, les déplacements, les cumuls d'heures, la rémunération garantie minimale et les autres types de rémunération
+Ces montants sont considérés comme des montants non liés à des services et en tant que tels ils ne peuvent pas être associés à un endroit précis. Par conséquent, ils sont considérés comme imposables dans la mesure où les autres services que vous fournissez à Air Canada sont fournis au Canada. Par conséquent, ce revenu devrait être réparti comme suit :
+Total des éléments a) à e) gagnés au Canada
+x
+Total des éléments f) pour l'année
+Total des éléments a) à e) ci-dessus pour l'année
+Le cas échéant, les montants accessoires comme la garantie concernant la période de service, Navi-Aid, la rémunération des opérations outre-mer, la garantie de jumelage, et ainsi de suite, devraient être inclus dans les éléments a) à f)* ci-dessus auxquels ils sont associés. S'ils ne peuvent pas être imputés à un élément précis énoncé aux alinéas a) à e), les montants devraient être inclus dans les éléments énoncés à l'alinéa f).
+[* Il aurait peut-être fallu mentionner l'alinéa e) au lieu de l'alinéa f).]
+[28] Dans le cas de l'appelant, il semble qu'en établissant les nouvelles cotisations, la rémunération de vol, la rémunération de formation, la rémunération de mise en place et les garanties concernant la période de service aient été imputées aux endroits où les fonctions étaient exercées et que les autres types de rémunération reçues par l'appelant aient été répartis au prorata, conformément à ce qui est prévu à l'alinéa f) ci-dessus.
+[29] Dans le cas de la rémunération de vol pour les vols internationaux, la rémunération a été imputée au Canada sur la base des minutes de vol pendant lesquelles l'aéronef survolait le territoire canadien (le « trajet intérieur » ). Ainsi, pour un vol entre Toronto et New York, on suppose que le vol a été effectué au Canada pendant dix pour cent du temps et dix pour cent de la rémunération payée pour ce vol serait imputée aux fonctions exercées au Canada.
+[30] En utilisant cette méthode, le ministre a imputé au Canada une partie relativement peu importante de la rémunération pour les vols internationaux. Le tableau suivant résume, pour chaque année, la rémunération totale pour les vols internationaux et la partie imposable calculée aux fins de l'établissement des nouvelles cotisations.
+Revenu tiré de vols internationaux
+Montants imputables aux fonctions exercées au Canada
+1996
+51 144 $
+10 001 $ (20 %)
+1997
+86 138 $
+16 023 $ (19 %)
+1998
+92 952 $
+13 849 $ (15 %)
+f) Les autres faits
+(i) Les vols intérieurs
+[31] Toute la rémunération de vol pour les vols intérieurs a été attribuée, dans les nouvelles cotisations, aux fonctions exercées au Canada, et ce, peu importe que les trajets de vol aient franchi la frontière américaine ou non.
+[32] Il y a trois itinéraires pour lesquels la chose est pertinente, Toronto étant à une extrémité de chaque itinéraire et Vancouver, Montréal et Halifax étant à l'autre extrémité. Selon le témoignage de l'appelant, que je retiens sur ce point, les vols entre Toronto et Montréal ou entre Toronto et Halifax survolent habituellement les États-Unis et les vols entre Toronto et Vancouver survolent parfois les États-Unis.
+(ii) La règle des quinze minutes
+[33] Lorsque la durée de vol imputée au Canada pour un vol particulier était inférieure à 15 minutes, le ministre a augmenté la durée de vol à 15 minutes. Un fonctionnaire de l'Agence, Rene Fleming, a expliqué qu'il était raisonnable de procéder à ce rajustement, parce qu'il tenait compte d'une façon fort minime des tâches du pilote au sol, comme la préparation du vol et la circulation à la surface. Le rajustement a été effectué à l'égard de plusieurs vols de l'appelant, comme les vols de Toronto à New York, où la distance entre Toronto et la frontière est minime.
+(iii) La preuve concernant l'exactitude des cotisations
+[34] Les deux parties ont présenté une preuve au sujet de l'exactitude, ou de l'inexactitude, des nouvelles cotisations.
+[35] Plusieurs pilotes d'Air Canada et un régulateur de vol ont témoigné pour le compte de l'appelant. En général, ils ont décrit la méthode employée par l'Agence comme étant beaucoup trop simpliste, puisqu'elle est fondée sur l'idée des « trajets moyens » et sur des vitesses qui sont essentiellement fictives[7]. De plus, cette méthode ne prend pas en compte les retards qui surviennent au décollage ou à l'atterrissage.
+[36] Selon les témoignages, les pilotes reçoivent les plans de vol préparés par les régulateurs de vol avant le départ d'un vol. Les régulateurs de vol utilisent un système informatisé pour calculer la distance la plus courte entre deux points, modifiée par rapport à l'espace aérien réglementé, à la situation météorologique et au courant-jet. Ces plans de vol changent inévitablement une fois que le vol a commencé à cause des changements de météo et de la configuration des vents. Le carburant coûte fort cher, de sorte qu'il est important, en établissant le trajet, de tirer parti des vents arrière et d'éviter les vents de face. Les pilotes ont témoigné que le trajet de vol réel et la durée de chaque vol sont intrinsèquement imprévisibles à cause de ces variables. Par conséquent, la méthode employée par l'Agence était fort artificielle, selon les pilotes.
+[37] À l'appui des cotisations, l'intimée a affirmé qu'un certain nombre d'hypothèses que l'Agence avait utilisées étaient favorables à l'appelant. Ainsi, les cotisations ne tenaient pas compte des tâches au sol avant et après chaque vol[8]. Les tâches au sol sont de toute évidence accomplies à des endroits situés à l'intérieur du pays et à l'étranger. L'omission de tenir compte de ces tâches à chaque extrémité favorise probablement l'appelant à cause du montant relativement peu élevé de la rémunération imputée au Canada. Le pourcentage de la rémunération imputée au Canada augmenterait si les tâches au sol étaient prises en compte.
+[38] Quant à la corroboration par des sources indépendantes, l'intimée a produit un tableau préparé par les Lignes aériennes Canadien, lequel répartit la rémunération parmi les provinces. Aucun représentant de la société aérienne n'a témoigné à l'audience et aucune preuve n'a été fournie au sujet de la façon dont la répartition avait été effectuée. Cela étant, je n'ai pas trouvé le tableau très utile.
+[39] L'intimée a également produit les données de vol réelles qui avaient été obtenues de Nav Canada, une société sans but lucratif qui est responsable du contrôle aérien au Canada et dans certaines parties de l'Atlantique Nord.
+[40] Quelque temps après que les cotisations eurent été établies, l'Agence a appris que Nav Canada tenait des registres détaillés sur les points réels d'entrée au Canada et de sortie du Canada pour chaque vol international.
+[41] L'Agence a demandé l'aide de Nav Canada afin de vérifier l'exactitude de ses hypothèses concernant les distances que l'appelant avait parcourues au Canada pour des vols internationaux. Un représentant de Nav Canada a recueilli des renseignements sur des vols réellement effectués au cours d'une période de 12 mois qui a pris fin le 31 octobre 2003 pour les mêmes itinéraires internationaux que ceux que l'appelant avait suivis.
+[42] L'intimée a produit en preuve un tableau[9] préparé par l'Agence montrant comment le revenu différerait si les distances étaient calculées à l'aide des documents de Nav Canada pour la période de 12 mois à laquelle s'appliquaient les données recueillies, au lieu des hypothèses émises par l'Agence quant à la distance (habituellement les arcs de grand cercle). Dans le tableau, on comparait le revenu imposable de l'appelant gagné au Canada par rapport aux vols internationaux à l'aide de ces deux méthodes. Cela comprenait tous les vols internationaux effectués par l'appelant, sauf ceux pour lesquels la règle des 15 minutes s'appliquait (par exemple, New York).
+[43] Voici un extrait de ce tableau. Il montre que le revenu imposable gagné au Canada est similaire selon les deux méthodes. Je tiens cependant à faire remarquer qu'un grand nombre de vols internationaux sont exclus, probablement parce que la règle des 15 minutes s'appliquait à ces vols[10].
+Revenu selon les cotisations
+Revenu selon les données de NavCan
+1996
+4 442 $
+4 438 $
+1997
+6 115 $
+6 214 $
+1998
+4 724 $
+5 405 $
+[44] L'intimée a également produit un tableau préparé par l'Agence[11], dans lequel on compare les distances enregistrées par Nav Canada et celles présumées par l'Agence pour certains trajets effectués par l'appelant. Des extraits de ce tableau figurent à l'appendice A. Le tableau est plus ou moins utile parce que l'Agence a utilisé des vols « choisis » , mais je l'ai inclus dans les présents motifs parce qu'il est intéressant de constater la différence quant à la distance parcourue pour des vols particuliers.
+Les positions des parties
+[45] Les deux parties ont avancé plusieurs arguments à l'appui de leurs positions respectives. Le résumé suivant est fondé sur leurs observations écrites[12].
+a) La position de l'appelant
+[46] Selon la position prise par l'appelant, les dispositions pertinentes figurent au sous-alinéa 115(1)a)(i) de la Loi et à l'article XV de la Convention.
+[47] L'appelant soutient que, compte tenu de ces dispositions, il n'est pas imposé à l'égard de la rémunération qui est attribuable aux vols internationaux ou à l'égard de celle qui est de la nature d' « avantages » qui ne sont pas payés pour des tâches accomplies.
+[48] En ce qui concerne les vols internationaux, l'appelant soutient que compte tenu de la nature unique en son genre des voyages par avion, il est peu pratique pour les pilotes de déterminer avec exactitude la rémunération tirée des fonctions exercées au Canada à l'égard des vols transfrontaliers. Il affirme que ce problème est reconnu partout au monde et que les pays n'imposent généralement pas la rémunération reçue pour les vols internationaux en dehors du pays de résidence des pilotes. On affirme que le Canada devrait suivre cette pratique afin d'éviter la double imposition et la complexité administrative. L'appelant affirme en outre qu'il convient d'exclure la rémunération se rapportant aux vols internationaux, parce que c'était la méthode de répartition suivie par son employeur pour les retenues à la source.
+[49] L'appelant fait valoir subsidiairement qu'il devrait y avoir un fondement uniforme d'imposition à l'égard des vols internationaux et des vols intérieurs. L'appelant affirme que s'il est imposé sur la rémunération qui lui est versée pour les vols internationaux, il devrait être autorisé à exclure la partie de la rémunération se rapportant aux vols intérieurs qui est attribuable à la période pendant laquelle l'aéronef n'était pas en territoire canadien.
+[50] Quant à la rémunération qui s'applique aux périodes pendant lesquelles aucune fonction n'a été exercée, comme les indemnités de maladie et de congé, l'appelant affirme que cette rémunération n'est pas imposable, parce qu'elle n'est pas attribuable à des fonctions exercées au Canada. En outre, l'appelant affirme qu'étant donné que cette rémunération est de la nature d' « avantages » , elle est exemptée d'impôt aux termes de l'article XV de la Convention.
+b) La position de l'intimée
+[51] L'intimée prend la position selon laquelle les cotisations sont exactes, parce que l'on a raisonnablement attribué une partie de la rémunération aux fonctions exercées au Canada conformément au sous-alinéa 115(1)a)(i) de la Loi et à l'article XV de la Convention. Selon l'intimée, eu égard aux circonstances de l'espèce, il serait raisonnable d'imposer l'appelant à l'égard de toute la rémunération reçue pour les vols intérieurs, à l'égard de la partie de la rémunération se rapportant aux vols internationaux qui est attribuable au « trajet intérieur » de ces vols et à l'égard d'une partie au prorata de toute autre rémunération qui n'est pas attribuable à des fonctions précises ou qui n'est pas attribuable à des endroits précis.
+[52] L'intimée fait valoir que, même si la rémunération de l'appelant n'est pas répartie d'une façon raisonnable, les cotisations devraient être confirmées parce que l'appelant n'a pas proposé de solution de rechange acceptable.
+[53] Quant aux vols intérieurs, l'intimée prétend que la rémunération qui leur est attribuable est pleinement imposable même si certaines fonctions sont exercées à l'étranger. Cette position est fondée sur une interprétation contextuelle du sous-alinéa 115(1)a)(i) de la Loi et de l'article XV de la Convention, compte tenu du fait que les vols intérieurs ont un lien substantiel avec le Canada. L'intimée affirme également qu'il ne convient pas de modifier les cotisations parce qu'il n'existe pas de fondement factuel suffisant permettant d'établir que l'un quelconque des vols intérieurs effectués par l'appelant survolait réellement les États-Unis.
+[54] Quant à la rémunération qui n'est pas attribuable à des fonctions précises, l'intimée affirme qu'il est raisonnable d'attribuer une partie de cette rémunération aux fonctions exercées au Canada. Subsidiairement, l'intimée affirme qu'aucune répartition ne devrait être faite et que cette rémunération est pleinement imposable au Canada. L'argument est fondé sur l'application du sous-alinéa 115(1)a)(v) de la Loi, plutôt que sur le sous-alinéa 115(1)a)(i).
+Analyse
+a) Le régime général
+[55] Selon le régime fiscal général qui s'applique au revenu d'emploi gagné par un résident des États-Unis, la rémunération est assujettie à l'impôt à titre de « revenu imposable gagné au Canada » dans la mesure où elle est attribuable à des fonctions exercées au Canada.
+[56] Les principales dispositions sont le sous-alinéa 115(1)a)(i) de la Loi et le paragraphe 1 de l'article XV de la Convention, qui sont rédigés comme suit :
+Article 115
+(1) Pour l'application de la présente loi, le revenu imposable gagné au Canada pour une année d'imposition d'une personne qui ne réside au Canada à aucun moment de l'année correspond à l'excédent éventuel du montant qui représenterait son revenu pour l'année selon l'article 3 :
+a) si elle n'avait pas de revenu autre :
+(i) que les revenus tirés des fonctions de charges et d'emplois exercées par elle au Canada [...]
+[Non souligné dans l'original.]
+Article XV
+1. Sous réserve des dispositions des articles XVIII (Pensions et rentes) et XIX (Fonctions publiques), les salaires, traitements et autres rémunérations similaires qu'un résident d'un État contractant reçoit au titre d'un emploi salarié ne sont imposables que dans cet État, à moins que l'emploi ne soit exercé dans l'autre État contractant. Si l'emploi y est exercé, les rémunérations reçues à ce titre sont imposables dans cet autre État.
+[Non souligné dans l'original.]
+[57] Une exemption spéciale prévue par la Convention à l'égard des employés qui travaillent dans le domaine du transport international l'emporte sur ce régime général. Toutefois, l'exemption ne s'applique pas à l'appelant, parce qu'elle est limitée aux pilotes qui travaillent pour des sociétés aériennes qui résident aux États-Unis.
+[58] L'exemption est énoncée au paragraphe 3 de l'article XV, qui est rédigé comme suit :
+Article XV
+3. Nonobstant les dispositions des paragraphes 1 et 2, les rémunérations qu'un résident d'un État contractant reçoit au titre d'un emploi salarié exercé régulièrement dans plus d'un État sur un navire, un aéronef, un véhicule à moteur ou un train exploité par un résident de cet État contractant ne sont imposables que dans cet État.
+[59] Le régime général est clair. La rémunération qui se rapporte à des fonctions exercées au Canada est assujettie à l'impôt prévu à la partie I au titre d'un « revenu imposable gagné au Canada » . Il s'agit en l'espèce de savoir de quelle façon cela s'applique aux types de rémunération gagnée par l'appelant. Je commencerai l'analyse en traitant de la rémunération payée pour les vols internationaux.
+b) Les vols internationaux
+(i) Généralités
+[60] Ni la Loi ni la Convention ne prévoient de règle de répartition applicable aux employés qui exercent uniquement une partie de leurs fonctions au Canada. En l'espèce, la partie imposable peut être calculée sur une base raisonnable.
+[61] Dans le bulletin d'interprétation IT-420R3[13], intitulé « Non-résidents - Revenu gagné au Canada » , l'Agence laisse entendre que les pilotes qui effectuent des vols internationaux peuvent attribuer leur rémunération au Canada en fonction du temps ou de la distance. Voici un passage tiré du paragraphe 7 :
+[...] Dans le cas d'un non-résident qui est employé au transport de passagers ou de marchandises, en partie au Canada et en partie à l'étranger, par chemin de fer, autobus, camion ou avion (et qui n'est pas exempté de l'impôt canadien en vertu d'une convention fiscale), la répartition du revenu peut être calculée soit en fonction du temps, soit en fonction du kilométrage parcouru. [...]
+[62] Bien sûr, cette position ne lie pas les contribuables, mais elle informe l'appelant de la position générale prise par l'Agence en matière d'établissement des cotisations.
+[63] Il n'est pas contesté que l'appelant exerçait au Canada certaines fonctions de son emploi liées à des vols internationaux. Chaque vol était en partie effectué au Canada[14] et l'appelant était tenu d'accomplir des tâches au sol avant ainsi qu'après chaque vol.
+[64] Il importe de noter que l'appelant ne prend pas la position selon laquelle les tâches accomplies dans les airs, au-dessus du territoire canadien, ne sont pas des tâches accomplies au Canada aux fins du présent appel[15]. J'ai donc supposé que ces tâches sont exécutées « au Canada » .
+[65] L'appelant affirme malgré tout qu'aucune rémunération reçue pour les vols internationaux ne devrait être attribuée au Canada.
+[66] La preuve de l'appelant était axée sur les lacunes décelées dans les hypothèses que l'Agence avait utilisées pour attribuer une partie de la rémunération au Canada. Cependant, lorsque l'on examine différentes méthodes de répartition, il ne s'agit pas de savoir si une méthode particulière comporte des lacunes. Il s'agit de savoir quelle est la méthode employée par les parties qui est la plus raisonnable[16].
+[67] En comparant les deux méthodes proposées par les parties, il est clair que l'approche adoptée par le ministre entraîne un résultat beaucoup plus proche de la valeur exacte que l'approche préconisée par l'appelant.
+[68] En outre, l'appelant n'a pas soumis de preuve qui étaye une attribution plus exacte. Il ne suffit pas que l'appelant établisse que la répartition effectuée par le ministre est inexacte. L'appelant n'a pas fourni de fondement raisonnable justifiant la modification des cotisations telles qu'elles se rapportent aux vols internationaux.
+[69] L'appelant affirme que, si je rejette sa position au sujet des vols internationaux, la répartition devrait être effectuée en fonction des trajets de vol réels. Cette thèse est manifestement déraisonnable, parce que rien ne montre qu'il existe encore des documents faisant état des trajets de vol réels. Au contraire, la preuve sur ce point donne à penser que les plans de vol déposés par les pilotes après chaque vol ne sont conservés par la société aérienne que pendant une brève période.
+[70] Avant d'examiner certains des arguments précis invoqués par l'appelant, j'aimerais faire remarquer que si la méthode de l'appelant était retenue, cela aurait en pratique pour effet d'étendre l'exemption prévue au paragraphe 3 de l'article XV de la Convention à tous les pilotes qui résident aux États-Unis. Cette interprétation n'est pas justifiée, compte tenu du libellé clair du paragraphe 3.
+[71] J'examinerai maintenant certains arguments précis que l'appelant a invoqués au sujet des vols internationaux.
+(ii) La méthode que l'appelant préconise en vue d'attribuer la rémunération de vol est-elle généralement reconnue partout au monde?
+[72] L'appelant affirme qu'il est raisonnable de payer un impôt sur la rémunération qui s'applique aux vols intérieurs, et non sur celle applicable aux vols internationaux, parce qu'il s'agit d'une pratique reconnue partout au monde. L'avocat qualifie cette approche de [TRADUCTION] « méthode traditionnelle » et laisse entendre que, si le Canada ne suivait pas la pratique internationale, il en résulterait un grave préjudice ([TRADUCTION] « la double imposition et le chaos » ).
+[73] Selon l'appelant, la « méthode traditionnelle » a été reconnue par l'Agence jusqu'en 1998, lorsque la pratique de l'Agence en matière d'établissement de cotisations a changé. L'appelant laisse entendre qu'elle a uniquement changé pour les pilotes d'Air Canada et pour les pilotes des Lignes aériennes Canadien. Les pilotes des autres sociétés aériennes ne sont toujours pas tenus de payer un impôt sur la rémunération se rapportant aux vols internationaux.
+[74] À l'appui de cet argument, un témoignage a été soumis par M. Brian Campbell, expert-conseil en affaires spécialisé dans l'industrie aéronautique. Le curriculum vitae de M. Campbell montre qu'une bonne partie de sa carrière de 35 ans était [TRADUCTION] « fortement axée sur les éléments économiques du transport aérien commercial » . En plus d'être expert-conseil indépendant, M. Campbell a fondé en collaboration deux nouvelles sociétés aériennes, Midway Airlines Inc. et Air Chicago.
+[75] Je tiens à faire remarquer que M. Campbell n'a pas témoigné à titre d'expert et qu'il a reconnu qu'il n'était pas qualifié pour exprimer une opinion au sujet des lois fiscales. En outre, il n'y a rien dans le curriculum vitae de M. Campbell ou dans son témoignage qui indique qu'il ait des connaissances spécialisées en matière fiscale, si ce n'est ce que son expérience générale en matière financière lui a appris.
+[76] Monsieur Campbell a témoigné quant aux connaissances qu'il possédait au sujet de l'imposition de pilotes partout au monde. En général, l'extrait suivant tiré de l'interrogatoire principal indique quel est son avis :
+[TRADUCTION]
+Q. [...] À votre connaissance, [la méthode de l'Agence] est-elle utilisée ou suivie aux États-Unis ou dans d'autres pays?
+R. Je n'ai jamais constaté quoi que ce soit qui montre qu'elle est suivie aux États-Unis; et je n'ai jamais constaté quoi que ce soit qui montre qu'elle est suivie dans un autre pays avec lequel je suis familier.
+[77] Il n'est pas clair, selon moi, que les pratiques en matière fiscale qui sont adoptées dans d'autres pays aient quelque chose à voir avec l'interprétation des dispositions de la Loi ou de la Convention. Cela mis à part, cependant, je ne suis pas convaincue que M. Campbell s'y connaît quant à ces pratiques.
+[78] Les titres de compétence de M. Campbell sont impressionnants, mais ils n'avaient rien à voir avec le domaine fortement spécialisé de la fiscalité. Monsieur Campbell, à vrai dire, n'était pas un expert en matière de fiscalité et rien n'indique, dans son témoignage, qu'il ait eu une connaissance approfondie en ce qui concerne l'imposition des pilotes. Je conclus que son témoignage n'est pas suffisant pour établir, ne serait-ce qu'à première vue[17], que la méthode de répartition proposée par l'appelant est une pratique internationale qui a été reconnue partout au monde.
+[79] L'argument de l'appelant pose un autre problème : aucun élément de preuve ne m'a été soumis de la façon appropriée au sujet des lois fiscales internes d'autres pays ou de conventions fiscales autres que la Convention fiscale de 1980 entre le Canada et les États-Unis. L'omission de l'appelant de présenter une preuve d'expert au sujet des lois fiscales étrangères ou de la pratique suivie à l'étranger en matière fiscale n'aide pas son argument. De plus, l'appelant n'a pas mentionné le Modèle de convention fiscale publié par l'Organisation de coopération et de développement économiques (l' « OCDE » ) qui est « reconnu mondialement comme un document de référence fondamental aux fins de la négociation, de l'application et de l'interprétation de conventions fiscales bilatérales ou multilatérales » [18].
+[80] Je ferais en outre remarquer que s'il existe une pratique internationale reconnue, comme le laisse entendre l'appelant, elle n'apparaît pas dans les conventions fiscales auxquelles le Canada est partie. Le Canada a établi un réseau étendu de conventions fiscales avec d'autres pays. Comme il en a ci-dessus été fait mention, la seule convention fiscale à laquelle on m'a référée était la convention conclue avec les États-Unis. Un examen superficiel d'autres conventions fiscales auxquelles le Canada est partie montre que ces conventions semblent adopter la même approche que celle qui est énoncée au paragraphe 3 de l'article XV de la convention fiscale avec les États-Unis, ou une approche similaire.
+[81] Les conventions fiscales que le Canada a signées permettent de conclure que le Canada et les états contractants ont tenu compte des problèmes que pose la double imposition des pilotes qui effectuent des vols internationaux. Afin de remédier au problème, ils ont accordé une exemption générale à l'égard de la rémunération se rapportant aux vols internationaux, mais l'exemption est limitée aux cas dans lesquels le pilote travaille pour une société aérienne située dans son pays de résidence. La politique semble établir l'équilibre entre deux objectifs contradictoires - d'une part, le fait qu'il est souhaitable d'éviter la complexité et la double imposition dans le cas de pilotes qui effectuent des vols internationaux et, d'autre part, la reconnaissance du droit d'un pays d'imposer la rémunération gagnée par les pilotes qui travaillent pour des sociétés aériennes situées dans leur pays. La position de l'appelant va à l'encontre de ce dernier objectif.
+[82] Quant à la pratique suivie par le Canada en matière d'établissement des cotisations, l'appelant affirme qu'avant 1998, le Canada permettait aux pilotes non-résidents d'exclure la rémunération applicable aux vols internationaux. Je n'accepte pas cet argument, parce que le bulletin d'interprétation IT-420R3 donne à penser exactement le contraire. Comme il en est fait mention dans le bulletin, l'Agence avait comme politique, pendant la période pertinente, d'exiger de l'impôt dans la mesure où les fonctions étaient exercées au Canada, à moins qu'une exemption ne soit prévue par une convention fiscale.
+[83] Pour ces motifs, je rejette la thèse selon laquelle il est raisonnable d'exclure la rémunération se rapportant aux vols internationaux parce que cela serait conforme à la pratique internationale.
+(iii) Les autres méthodes de répartition sont-elles trop complexes?
+[84] L'appelant soutient qu'une interprétation qui exige que la rémunération soit répartie selon l'endroit où les fonctions sont exercées devrait être rejetée, parce qu'elle est trop complexe et qu'elle nécessite une tenue de livres rigoureuse.
+[85] L'appelant signale le lourd fardeau qui est imposé aux pilotes sur le plan administratif s'ils sont tenus d'établir des documents permettant de répartir la rémunération avec exactitude. Cet argument constitue une interprétation erronée de ce qu'il faut faire pour se conformer au sous-alinéa 115(1)a)(i).
+[86] Si une activité génératrice de revenu est exercée dans plus d'un pays, il faut souvent répartir le revenu sur une base raisonnable. Une méthode de répartition appropriée doit viser l'exactitude, tout en étant pratique sur le plan de la tenue de livres. Les échantillonnages et les estimations constituent certaines des méthodes qui pourraient être acceptables dans un cas particulier en vue de réduire la complexité administrative.
+[87] Dans le cas de l'appelant, l'utilisation d'un échantillon de plans de vol et de temps de vol aurait peut-être permis d'éviter en bonne partie la complexité dont l'appelant fait mention tout en fournissant une estimation raisonnable de la rémunération reçue pour les fonctions exercées au Canada. Par conséquent, je rejette l'idée selon laquelle il faut accepter la méthode préconisée par l'appelant parce que les autres méthodes sont trop complexes.
+(iv) Les autres méthodes tendent-elles à entraîner la double imposition?
+[88] L'appelant laisse entendre que l'approche adoptée par l'Agence pose de graves problèmes de double imposition pour tous les pilotes partout au monde.
+[89] Premièrement, je ne retiens pas la thèse selon laquelle la décision rendue dans le présent appel aura des incidences importantes sur l'imposition de tous les pilotes partout au monde. Si d'autres pays ont accordé aux pilotes des exemptions semblables à celle qui est prévue au paragraphe 3 de l'article XV de la Convention, la préoccupation soulevée par l'appelant se limite en pratique aux pilotes qui, comme lui, résident dans un pays différent du pays de résidence de la société aérienne pour laquelle ils travaillent.
+[90] En outre, si la double imposition suscite de graves préoccupations, c'est au législateur qu'il appartient d'y répondre au moyen de modifications de la Loi et des conventions fiscales auxquelles le Canada est partie. Comme il en a ci-dessus été fait mention, il semble que le législateur ait tenu compte des problèmes de complexité et de double imposition soulevés par l'appelant et qu'il ait prévu l'exemption énoncée au paragraphe 3 de l'article XV de la Convention. Il n'appartient pas aux tribunaux d'étendre la portée de l'exemption qui a été expressément prévue.
+(v) L'appelant devrait-il avoir le droit de se fonder sur la méthode de répartition utilisée par l'employeur?
+[91] L'appelant affirme qu'il peut avec raison se fonder sur la méthode de répartition utilisée par Air Canada aux fins des retenues à la source. Il affirme en outre que, selon la Loi, l'employeur est responsable d'une tenue de livres appropriée et qu'aucune obligation du genre n'est imposée aux employés.
+[92] Je ferai d'abord remarquer que les employeurs ne sont généralement pas tenus, aux termes de la Loi, de répartir la rémunération entre différents pays. Un employeur est généralement obligé de retenir l'impôt sur toute la rémunération de l'employé, et ce, peu importe qu'elle soit assujettie ou non à l'impôt au Canada[19]. L'employeur peut retenir l'impôt sur une base restreinte, mais cela nécessite généralement le consentement de l'Agence[20].
+[93] Quant aux obligations des employés, il ne suffit généralement pas qu'un employé déclare son revenu en se fondant sur la méthode de retenue à la source utilisée par l'employeur si ce dernier a employé une méthode déraisonnable. Selon une exigence fondamentale de la Loi, les contribuables indiquent, dans leur déclaration de revenus annuelle, le juste montant du revenu ou du revenu imposable gagné au Canada[21].
+[94] En outre, les employés sont obligés d'établir des documents appropriés, de façon que le montant d'impôt exact puisse être vérifié[22].
+[95] Ni l'une ni l'autre des parties n'a cité la décision Sumner susmentionnée. Dans cette décision, le juge en chef Bowman laisse entendre qu'une répartition effectuée par un employeur constitue une preuve prima facie d'une répartition raisonnable. Le juge en chef laisse entendre qu'il en est ainsi parce que l'employeur est généralement en mesure d'évaluer les diverses méthodes de répartition.
+[96] Aucun représentant de l'administration à Air Canada n'a témoigné à l'audience et on ne sait pas ce sur quoi la société aérienne se fondait pour effectuer les retenues à la source. À supposer que les retenues à la source constituent néanmoins une preuve prima facie d'une répartition raisonnable, je conclus qu'une méthode qui exclut toute la rémunération payée pour les vols internationaux n'est pas raisonnable. À mon avis, il ne suffit pas que l'appelant se fonde sur les retenues à la source effectuées par Air Canada.
+[97] Pour ces motifs, je conclus que la méthode de répartition proposée par l'appelant à l'égard de la rémunération se rapportant aux vols internationaux n'est pas raisonnable et qu'il n'existe aucun fondement permettant de modifier les cotisations telles qu'elles se rapportent à cette rémunération.
+c) Les vols intérieurs
+[98] À mon avis, la conclusion que j'ai tirée au sujet des vols internationaux s'applique également aux vols intérieurs. Par conséquent, la rémunération reçue pour les vols intérieurs ne devrait pas être imposée, dans la mesure où l'aéronef passe par les États-Unis.
+[99] L'appelant n'a pas présenté cet argument à titre principal, mais il l'a avancé à titre subsidiaire au cas où l'argument concernant les vols internationaux ne serait pas accepté.
+[100] L'intimée affirme que les vols intérieurs ont avec le Canada un lien substantiel si important que toute la rémunération qui leur est attribuable devrait être incluse dans le revenu imposable gagné au Canada. L'avocat prétend que cette interprétation est conforme au régime de la Loi et de la Convention et qu'elle est étayée par la jurisprudence.
+[101] Comme il en a ci-dessus été fait mention, à mon avis, le régime de la Loi et de la Convention, pour ce qui est de l'imposition de la rémunération, est clair. Le seul facteur pertinent à prendre en considération est celui de savoir si la rémunération est attribuable à des fonctions exercées au Canada. Il importe peu que la rémunération ait d'autres liens avec le Canada. La rémunération qui n'est pas attribuable à des fonctions exercées au Canada n'est pas imposable.
+[102] L'intimée fait valoir que le régime de la Loi, pour ce qui est du transport international, est révélé dans d'autres dispositions. L'avocat se reporte à l'alinéa 81(1)c), qui prévoit une exemption pour le revenu gagné par un non-résident qui exerce une activité commerciale à titre d'exploitant d'un navire ou d'un aéronef utilisé en transport international. L'avocat fait valoir que, puisque l'alinéa 81(1)c) ne s'applique pas aux vols intérieurs, le revenu tiré de vols intérieurs est, selon le régime global établi par la Loi, généralement imposable.
+[103] Cet argument pose un problème : le régime légal général qui s'applique à l'imposition des exploitants de navires et d'aéronefs n'est pas le même que le régime qui s'applique à l'imposition d'employés engagés dans l'industrie du transport. Aucun régime fiscal global ne s'applique dans le domaine du transport. Si le législateur avait voulu qu'un régime fiscal similaire s'applique aux exploitants et aux pilotes, il l'aurait prévu.
+[104] L'intimée soutient également que cette interprétation est conforme à l'article XV de la Convention et elle mentionne le commentaire du modèle de convention de l'OCDE à l'appui.
+[105] Le modèle de convention de l'OCDE[23] renferme des dispositions semblables à l'article XV de la Convention. Les dispositions pertinentes du modèle de convention sont les paragraphes 1 et 3 de l'article 15, intitulé « Revenus d'emploi » , lesquelles sont rédigées comme suit :
+1. Sous réserve des dispositions des articles 16, 18 et 19, les salaires, traitements et autres rémunérations similaires qu'un résident d'un État contractant reçoit au titre d'un emploi salarié ne sont imposables que dans cet État, à moins que l'emploi ne soit exercé dans l'autre État contractant. Si l'emploi y est exercé, les rémunérations reçues à ce titre sont imposables dans cet autre État.
+3. Nonobstant les dispositions précédentes du présent article, les rémunérations reçues au titre d'un emploi salarié exercé à bord d'un navire ou d'un aéronef exploité en trafic international, ou à bord d'un bateau servant à la navigation intérieure, sont imposables dans l'État contractant où le siège de direction effective de l'entreprise est situé.
+[106] La règle générale qui est énoncée au paragraphe 1 du modèle de convention est fort semblable à la règle générale figurant à l'article XV de la Convention. Il existe toutefois une différence en ce qui concerne la règle spéciale qui s'applique à l'emploi exercé à bord d'un navire ou d'un aéronef. Le paragraphe 3 de l'article XV confère une compétence complète en matière fiscale au pays où se trouve le siège de direction de la société aérienne. Cela a une portée plus étendue que la disposition correspondante de la Convention.
+[107] Je note également les passages suivants du commentaire du modèle de convention :
+1. Le paragraphe 1 pose la règle générale applicable en matière d'imposition des revenus provenant d'activités salariées, à l'exception des pensions, selon laquelle ces revenus sont imposables dans l'État où l'emploi salarié est effectivement exercé. L'emploi est exercé à l'endroit où le salarié est physiquement présent lorsqu'il exerce les activités au titre desquelles les revenus liés à l'emploi sont payés. [...]
+[Non souligné dans l'original.]
+9. [...] Le paragraphe 3 rend applicable aux rémunérations des équipages de navires ou d'aéronefs en trafic international ou de bateaux servant à la navigation intérieure, une règle qui suit, jusqu'à un certain point, celle qui est applicable aux revenus de la navigation maritime, intérieure et aérienne, c'est-à-dire qu'elles sont imposables dans l'État contractant où se trouve le siège de direction effective de l'entreprise. [...] Cette disposition [l'article 8], de même que celle du paragraphe 3 de l'article 15, suppose que la législation interne de l'État auquel est conféré le droit d'imposition lui permet d'imposer la rémunération d'une personne qui est un service de l'entreprise intéressée, quelle que soit sa résidence. [...]
+[Non souligné dans l'original.]
+[108] Si la Convention avait suivi le libellé utilisé au paragraphe 3 du modèle de convention, le Canada serait autorisé à établir un impôt sur toute la rémunération gagnée par l'appelant, ou du moins sur toute la rémunération reçue pour les vols internationaux. Toutefois, comme il en est fait mention dans le commentaire précité du modèle de convention, les lois fiscales internes doivent envisager ce résultat. Or, le Canada n'a pas adopté cette loi. Par conséquent, même si la Convention renfermait une règle semblable à celle qui est énoncée dans le modèle de convention, cette règle n'aurait aucun effet à moins que les lois internes du Canada ne soient modifiées.
+[109] La position que l'intimée a prise au sujet des vols intérieurs semble être basée sur le régime fiscal plus général prévu au paragraphe 3 de l'article XV du modèle de convention. Or, ce régime n'a été adopté ni dans la Loi ni dans la Convention.
+[110] L'intimée mentionne également un ouvrage de Klaus Vogel portant sur l'interprétation des traités[24]. Le passage cité dans l'argumentation de l'intimée est le suivant :
+[TRADUCTION]
+La rémunération versée aux membres d'équipage d'un navire ou d'un aéronef utilisé exclusivement pour le transport intérieur est régie par les dispositions des paragraphes 15(1) et (2). L'état où l'emploi est exercé est celui dans lequel le navire ou l'aéronef est exploité.
+[111] À mon avis, le passage précité n'étaye pas la position de l'intimée en ce qui concerne les vols intérieurs. Le professeur Vogel signale que l'état d'imposition, en ce qui concerne les vols intérieurs, est l'état où l'aéronef est exploité. En l'espèce, l'aéronef est exploité dans plus d'un état à l'égard des vols intérieurs. Selon la conséquence logique du commentaire du professeur Vogel, un état peut exiger un impôt dans la mesure où l'aéronef est exploité dans cet état. Cela n'étaye pas la position de l'intimée.
+[112] L'intimée se fonde également sur un arrêt de la Cour suprême du Canada concernant la portée extraterritoriale d'une disposition de la Loi sur le droit d'auteur : Société canadienne des auteurs, compositeurs et éditeurs de musique c. Assoc. canadienne des fournisseurs Internet, [2004] 2 R.C.S. 427.
+[113] Dans cet arrêt, la Cour suprême a appliqué une règle d'interprétation qu'elle a appelée le critère du « lien réel et important » . Il s'agit d'une règle jurisprudentielle qui peut être appliquée afin de faciliter l'interprétation des lois ayant un effet extraterritorial. Au paragraphe 54, le juge Binnie dit ce qui suit :
+Même si, contrairement aux législatures provinciales, le Parlement du Canada a le pouvoir d'adopter une loi ayant une portée extraterritoriale, en l'absence d'un libellé clair ou d'une déduction nécessaire à l'effet contraire, il est présumé ne pas avoir voulu le faire. [...]
+[114] Je ne puis constater l'existence d'un fondement permettant d'appliquer cette règle en vue de donner au sous-alinéa 115(1)a)(i) le sens préconisé par l'intimée. Si le critère du « lien réel et important » était appliqué de la façon proposée par l'intimée, cela aurait pour effet d'étendre la portée du sous-alinéa 115(1)a)(i). Or, la règle ne vise pas à avoir cet effet. Si le revenu est attribuable à des fonctions exercées à l'étranger, le revenu n'est tout simplement pas visé par la loi et il n'est pas imposable.
+[115] Enfin, dans son argumentation écrite, l'intimée se reporte aux lois fiscales internes des États-Unis et du Royaume-Uni, qui énoncent des règles précises de répartition à l'égard des voyages aériens. L'intimée laisse entendre que les dispositions de la Loi devraient être interprétées d'une façon qui s'harmonise avec ces lois étrangères.
+[116] Les lois étrangères n'ont pas été prouvées au moyen d'un témoignage d'expert, mais, de toute façon, elles n'étayent pas la position de l'intimée. Il peut être souhaitable d'harmoniser la législation fiscale interne de différents pays, mais il appartient au législateur de se demander si le Canada doit adopter des règles de répartition précises applicables aux pilotes comme l'ont peut-être fait d'autres pays.
+[117] Subsidiairement, l'intimée fait valoir que la rémunération gagnée par l'appelant à l'égard des vols intérieurs devrait être imposée au complet, parce que l'appelant n'a pas établi qu'il avait effectué des vols intérieurs qui l'ont amené en dehors du Canada.
+[118] Je ne souscris pas non plus à cette prétention. La preuve établit que l'appelant survolait fort probablement en partie les États-Unis lorsqu'il effectuait des vols entre Toronto et Montréal ainsi qu'entre Toronto et Halifax, et que son aéronef survolait peut-être les États-Unis lorsqu'il effectuait certains vols entre Toronto et Vancouver.
+[119] Voici ces extraits du témoignage de l'appelant, que je retiens[25] :
+[TRADUCTION]
+On ne peut pas effectuer un vol de Toronto à Halifax sans survoler les États-Unis, à moins de vouloir, pour une raison ou une autre, faire des centaines de milles pour éviter les États-Unis.
+Cependant, on entre aux États-Unis, selon un itinéraire normal à destination de Halifax - à un endroit quelconque entre Watertown (New York) et Massena (New York), on survole ensuite l'État de New York, on survole le Maine et on revient ensuite au Canada, en Nouvelle-Écosse.
+[...] le vol le plus fréquent qu'un pilote d'Air Canada peut effectuer serait un vol de Toronto à Montréal. [...] On ne peut pas faire un tel vol sans survoler Massena (New York).
+[120] Je suis convaincue que l'appelant survolait en partie les États-Unis lorsqu'il effectuait certains vols intérieurs. La rémunération versée à l'appelant qui est attribuable à la partie américaine de ces vols n'est pas imposable.
+d) Un résultat dans l'ensemble raisonnable
+[121] Les deux parties ont avancé des arguments subsidiaires selon lesquels leurs positions respectives donnaient un résultat qui était dans l'ensemble raisonnable. L'appelant prétend que tout paiement en moins de l'impôt afférent à la rémunération reçue pour les vols internationaux est compensé par un paiement en trop de l'impôt sur la rémunération reçue pour les vols intérieurs. L'intimée prend la position inverse, c'est-à-dire que tout paiement en trop afférent aux vols intérieurs est compensé par un paiement en moins à l'égard des vols internationaux.
+[122] Je rejette ces deux arguments compte tenu du manque de preuve. Quant aux vols intérieurs, je ne dispose pas d'une preuve suffisante me permettant d'estimer d'une façon raisonnable un paiement en trop de l'impôt pour les vols intérieurs. La preuve était particulièrement faible en ce qui concerne les vols effectués entre Toronto et Vancouver.
+[123] Quant aux vols internationaux, il semble que sous certains aspects la méthode de répartition employée par l'Agence ait été favorable à l'appelant[26], mais il n'existe pas suffisamment d'éléments de preuve permettant de savoir si la méthode employée par l'Agence est dans l'ensemble exacte. De plus, l'intimée n'a pas invoqué son argument subsidiaire dans ses actes de procédure; or, l'appelant aurait pu fournir des éléments de preuve additionnels s'il avait su que le paiement en moins de l'impôt afférent aux vols internationaux était en litige.
+[124] Pour ces motifs, je ne suis pas convaincue que la position de l'une ou l'autre partie donne un résultat qui soit dans l'ensemble raisonnable. J'examinerai maintenant d'autres types de rémunération.
+e) La rémunération non liée à des fonctions précises
+(i) La rémunération est-elle tirée d'un emploi?
+[125] Le ministre a établi de l'impôt sur la rémunération versée à l'appelant qui n'était pas liée à des fonctions précises sur la base d'une répartition au prorata entre les divers endroits où les fonctions étaient exercées.
+[126] L'appelant fait valoir que cette rémunération n'est pas imposable, parce qu'il n'y a pas d'activité génératrice de revenu au Canada. Selon l'argumentation orale de l'avocat, l'appelant était rémunéré parce qu'il était malade ou parce qu'il était en vacances, et non parce que des fonctions étaient exercées.
+[127] Il s'agit de savoir si cette rémunération constitue un revenu tiré de fonctions exercées au Canada au sens du sous-alinéa 115(1)a)(i).
+[128] Les indemnités de maladie et de congé sont reçues pour cause de maladie ou en raison de congés, en ce sens qu'elles s'accumulent durant ces périodes, mais la rémunération est également reçue parce que l'employé a convenu de fournir des services à l'employeur. L'appelant n'aurait pas droit à une indemnité de maladie ou de congé s'il n'avait pas convenu d'exercer ses fonctions de pilote.
+[129] À mon avis, selon la seule interprétation raisonnable du sous-alinéa 115(1)a)(i), la rémunération de l'appelant qui s'accumule pendant les périodes où celui-ci n'est pas de service, y compris l'indemnité de vacances prévue par la loi, est attribuable aux fonctions qui sont exercées. L'essence de la relation entre l'employé et l'employeur veut que les services soient rendus en contrepartie du paiement de ces services.
+[130] Le lien entre la rémunération qui est versée et les services qui sont rendus permet aux employeurs de déduire la rémunération versée et exige que les employés soient imposés à cet égard. Je rejette l'argument de l'appelant selon lequel une partie de la rémunération ne comporte aucun lien avec le Canada, pour ce qui est de la réalisation du revenu.
+[131] L'appelant affirme que sa position est étayée par l'arrêt New Brunswick v. Canadian Pacific Railway Co., [1952] 2 R.C.S. 359, de la Cour suprême du Canada. Dans cette affaire, la Cour suprême avait à décider si une indemnité d'accident du travail était payable à une employée qui s'était grièvement blessée en se baignant pendant qu'elle n'était pas de service. La Cour suprême a statué que les actes d'une personne pendant une période où elle n'est pas de service ne sont pas accomplis [TRADUCTION] « dans le cours de l'emploi » .
+[132] L'appelant se reporte au passage suivant de la décision du juge Rand, lequel figure à la page 370 :
+[TRADUCTION]
+[...] à mon avis, ce qui est faux dans l'argument qui a été avancé devant nous, c'est qu'il considère tous les privilèges accordés à un employé en raison de l'emploi, qui sont susceptibles d'être exercés dans les locaux de l'employeur, comme étant accessoires au travail que l'employé doit exécuter. Le privilège qui consiste à permettre à la jeune femme de se baigner depuis l'embarcadère lui a été conféré en sa qualité de membre du personnel; il en allait de même pour les privilèges liés au golf et au tennis : il aurait pu s'agir de la possibilité de tirer au fusil dans un bois voisin ou de voyager dans un train de la société grâce à un laissez-passer, mais il ne s'ensuit pas nécessairement que ces activités étaient accessoires au travail de l'employée.
+[133] Je ne vois pas en quoi cette décision est utile à l'appelant. En l'espèce, il s'agit de savoir si la rémunération qui n'était pas liée à des fonctions précises se rapporte aux fonctions qui étaient exercées. La rémunération versée à un employé est clairement gagnée « dans le cours de l'emploi » . La décision de la Cour suprême étaye l'idée selon laquelle aucune partie de la rémunération gagnée par un employé n'est liée à des activités accomplies pendant que l'employé n'est pas de service, par exemple lorsqu'il est malade au lit ou qu'il est sur la plage pendant ses vacances.
+(ii) La rémunération est-elle de la nature de « salaires, traitements et autres rémunérations similaires » ?
+[134] L'appelant soutient que la rémunération qui n'est pas liée à des fonctions précises est exemptée d'impôt en vertu de l'article XV de la Convention, parce qu'elle est de la nature [TRADUCTION] d' « avantages passifs, de privilèges ou d'accessoires de l'emploi » et qu'il ne s'agit pas de « salaires, traitements et autres rémunérations similaires » .
+[135] Le paragraphe 1 de l'article XV est rédigé comme suit :
+1. Sous réserve des dispositions des articles XVIII (Pensions et rentes) et XIX (Fonctions publiques), les salaires, traitements et autres rémunérations similaires qu'un résident d'un État contractant reçoit au titre d'un emploi salarié ne sont imposables que dans cet État, à moins que l'emploi ne soit exercé dans l'autre État contractant. Si l'emploi y est exercé, les rémunérations reçues à ce titre sont imposables dans cet autre État.
+[Non souligné dans l'original.]
+[136] Je tiens d'abord à faire remarquer que la position de l'appelant va à l'encontre du commentaire publié par l'OCDE au sujet de la disposition correspondante figurant dans le modèle de convention. Le paragraphe 2.1 du commentaire se rapportant à l'article 15 est rédigé comme suit :
+Les pays Membres ont généralement compris l'expression « salaires, traitements et autres rémunérations similaires » comme incluant les avantages en nature reçus au titre d'un emploi (par exemple, l'usage d'une habitation ou d'une automobile, le bénéfice d'une assurance-maladie ou d'une assurance-vie et les adhésions à des clubs).
+[137] Je note également que la Cour d'appel fédérale a examiné la question de savoir si la définition large de l'expression « traitement ou salaire » au paragraphe 248(1) de la Loi s'appliquait à un libellé similaire figurant dans la Convention fiscale entre le Canada et le Royaume-Uni et qu'il a été statué qu'il s'agissait d'une question non résolue[27].
+[138] La question de savoir si les « avantages » , comme on les appelle communément, sont exemptés d'impôt aux termes de l'article XV de la Convention n'est peut-être pas encore tranchée en droit, mais cela n'est pas pertinent aux fins qui nous occupent. À mon avis, la rémunération régulière en espèces que l'appelant a reçue est clairement visée par le sens ordinaire de l'expression « salaires, traitements et autres rémunérations similaires » .
+[139] Les mots anglais « salary » ( « salaire » ) et « wage » ( « traitement » ) sont définis comme suit dans le dictionnaire Black's Law Dictionary, huitième édition :
+[TRADUCTION]
+salaire. Indemnité convenue pour des services - en particulier pour des services professionnels ou semi-professionnels - habituellement payée à des intervalles réguliers sur une base annuelle, par opposition à une base horaire. [...]
+traitement. Paiement effectué pour un travail ou des services, habituellement en fonction du nombre d'heures effectuées ou de la quantité produite, et plus précisément, indemnisation d'un employé en fonction du temps travaillé ou de la production. [...]
+[140] La rémunération versée aux pilotes d'Air Canada en vertu des conventions collectives est habituellement considérée comme un salaire. Elle est composée de paiements en espèces effectués régulièrement.
+[141] Cette rémunération comporte peut-être un aspect inhabituel en ce sens que les paiements varient en fonction d'un grand nombre de facteurs. À mon avis, cet aspect ne change rien à la nature générale de la rémunération. Il s'agit essentiellement d'un salaire. Quoi qu'il en soit, cette rémunération est clairement visée par l'expression « salaires, traitements et autres rémunérations similaires » .
+[142] L'appelant se reporte aux décisions Hurd c. La Reine, 3 juin 1981, 81 D.T.C. 5140 (C.A.F.), et Jarlan c. La Reine, 20 juillet 1984, 84 D.T.C. 6452 (C.F. 1re inst.). Il est possible d'établir une distinction à l'égard de ces décisions quant aux faits qui y étaient en cause. La rémunération visée par le présent appel est composée d'une rémunération en espèces versée sur une base régulière en contrepartie des services rendus. L'arrêt Hurd se rapportait à l'imposition d'avantages reçus aux termes d'une convention d'option d'achat d'actions et la décision Jarlan se rapportait à l'imposition de redevances pour l'utilisation de brevets.
+[143] Pour ces motifs, je ne retiens pas la prétention de l'appelant selon laquelle il est exempté d'impôt à l'égard de la rémunération qui n'est pas liée à des fonctions précises.
+[144] La répartition de la rémunération à des fonctions exercées au Canada aux fins de l'établissement des cotisations n'a pas été contestée par l'appelant et il n'est donc pas nécessaire d'examiner la question. Le ministre a réparti la rémunération au prorata à des fonctions exercées au Canada sur la base des faits limités dont il avait connaissance.
+f) Le sous-alinéa 115(1)a)(v)
+[145] Le ministre s'est appuyé sur le sous-alinéa 115(1)a)(i) en établissant les cotisations, mais l'avocat de l'intimée a soutenu dans son argumentation qu'il aurait fallu appliquer le sous-alinéa 115(1)a)(v)[28]. Cette disposition exige que toute la rémunération soit incluse dans le « revenu imposable gagné au Canada » , sauf dans la mesure où elle est liée à des fonctions exercées à l'étranger.
+[146] Les dispositions pertinentes de la Loi sont le sous-alinéa 115(1)a)(v), les alinéas 115(2)d) et e), ainsi que les alinéas 115(2)c) et c.1) (pour les années d'imposition 1996 et 1997) et l'alinéa 115(2)c.1) (pour l'année d'imposition 1998).
+[147] La disposition cruciale est l'alinéa 115(2)e), qui est en partie rédigé comme suit :
+e) pour l'application du sous-alinéa (1)a)(v), le total déterminé en vertu du présent alinéa, au sujet de la personne non-résidente, est le total des montants suivants :
+(i) toute rémunération relative à une charge ou à un emploi, que lui a payée directement ou indirectement une personne résidant au Canada et qui a été reçue par la personne non-résidente au cours de l'année, sauf dans la mesure où cette rémunération est attribuable aux fonctions d'une charge ou d'un emploi qu'elle a remplies n'importe où à l'étranger [...]
+[Non souligné dans l'original.]
+[148] Selon l'intimée, la rémunération qui s'est accumulée pendant les périodes où l'appelant n'était pas de service n'est aucunement liée à l'exercice de fonctions. Selon cet argument, il aurait donc fallu imposer l'appelant au complet, plutôt que simplement au prorata, à l'égard de la rémunération telle que celle qui lui était versée pour les congés de maladie et les vacances[29].
+[149] J'ai conclu qu'il n'était pas nécessaire d'examiner cet argument en détail, parce que le « revenu imposable gagné au Canada » de l'appelant est le même, et ce, peu importe qu'il soit calculé aux termes du sous-alinéa 115(1)a)(i) ou du sous-alinéa 115(1)a)(v).
+[150] L'intimée fait valoir que le sous-alinéa 115(1)a)(v) donne un montant plus élevé de « revenu imposable gagné au Canada » , parce qu'il comprend la rémunération qui n'est pas attribuable aux fonctions qui sont exercées. Pour les motifs qui ont été exposés dans la section précédente, je suis d'avis que toute la rémunération de l'appelant qui est ici en litige est « tirée » des fonctions exercées. Dans la mesure où la rémunération n'est pas liée à des fonctions précises, elle doit être répartie sur une base raisonnable entre les fonctions exercées à l'intérieur du Canada et celles qui sont exercées à l'étranger, comme le ministre l'a fait en établissant les cotisations. Par conséquent, le « revenu imposable gagné au Canada » est le même, et ce, peu importe la disposition que l'on applique.
+[151] Compte tenu de cette conclusion, je n'ai pas à examiner les autres arguments que l'appelant a invoqués sur ce point. Ces prétentions étaient, entre autres, que l'argument invoqué par l'intimée constitue un nouveau fondement de cotisation qui est prescrit, que les dispositions légales, si elles sont interprétées dans leur contexte, ne s'appliquent pas à l'appelant parce qu'il était employé au Canada pendant les années d'imposition pertinentes et que la position prise par l'intimée est incompatible avec la Convention.
+Conclusions et dispositif
+[152] Les conclusions que j'ai tirées dans le présent appel sont fondées sur les faits qui ont été présentés. Compte tenu de ces faits et du droit pertinent, j'ai conclu que les cotisations devaient être confirmées, sauf dans la mesure où elles omettent de tenir compte de la rémunération attribuable aux fonctions exercées à l'étranger pour des vols intérieurs. Cela influerait sur la partie imposable de la rémunération de vol se rapportant aux vols intérieurs ainsi que sur le calcul de la répartition au prorata.
+[153] J'ai demandé aux parties de faire connaître leurs positions au sujet de la façon d'effectuer un rajustement pour les vols intérieurs parce que, à l'audience, on n'avait pas présenté suffisamment d'éléments de preuve sur ce point.
+[154] L'avocat de l'intimée s'est vigoureusement opposé à ce que l'affaire soit déférée pour nouvel examen et nouvelles cotisations. À son avis, l'appelant avait amplement eu la possibilité de présenter une preuve sur ce point et il a décidé de ne pas le faire. Selon l'avocat, il serait inéquitable de permettre à l'appelant de faire traîner l'appel encore plus longtemps.
+[155] L'argument de l'avocat est fondé. Je comprends que ce litige était, au départ, ce qu'on appelle un cas type. Eu égard aux circonstances de l'affaire, l'appelant aurait dû fournir une preuve détaillée au sujet de la répartition des fonctions qu'il exerçait à l'égard des vols intérieurs.
+[156] Par contre, la position que le ministre a prise au sujet des vols intérieurs n'est pas étayée par la législation pertinente. Si l'appel est prolongé encore plus longtemps, les deux parties doivent assumer une part de blâme.
+[157] J'ai conclu que les cotisations devaient être déférées au ministre pour nouvel examen et nouvelles cotisations en vue d'exclure du calcul du revenu imposable gagné au Canada la rémunération qui est raisonnablement attribuable aux fonctions exercées à l'étranger à l'égard des vols intérieurs. Aux autres égards, l'appel est rejeté.
+[158] Pour que l'appel ne se prolonge pas plus longtemps qu'il n'est nécessaire, je reporterai le jugement formel tant que la question ne sera pas résolue. Je suis prête à recevoir d'autres éléments de preuve sur ce point si les parties ne peuvent pas arriver à s'entendre dans un bref délai[30]. L'une ou l'autre partie pourra demander la réouverture de l'appel à cette fin.
+[159] Je serais également prête à recevoir des observations quant aux dépens.
+Signé à Toronto (Ontario), ce 22e jour de décembre 2005.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 9e jour de janvier 2007.
+Yves Bellefeuille, réviseur
+Appendice A
+Extrait du tableau de l'Agence comparant les distances recueillies par Nav Canada et les distances présumées par l'Agence
+Trajet
+Nombre de milles au Canada, rajusté, selon Nav Canada
+Nombre de milles au Canada selon l'ARC
+Toronto - Atlanta
+86
+90
+145
+90
+92
+90
+148
+90
+110
+90
+97
+90
+101
+90
+84
+90
+Toronto - Houston
+127
+150
+129
+150
+136
+150
+173
+150
+101
+150
+158
+150
+Toronto- Laguardia
+34
+28
+39
+28
+35
+28
+Toronto - Philadelphie
+77
+28
+78
+28
+86
+28
+Toronto- Seattle
+1625
+126
+204
+126
+1632
+126
+1560
+126
+1639
+126
+1919
+126
+Toronto - San Francisco
+156
+126
+146
+126
+174
+126
+Notes : 1. La différence pour l'itinéraire Toronto-Seattle est fortement favorable à l'appelant. Toutefois, il semble que l'appelant ait effectué fort peu de vols à destination de Seattle pendant la période pertinente.
+2. L'Agence a légèrement rajusté les chiffres pour tenir compte du fait que l'espace aérien sous contrôle canadien (pertinent aux fins visées par Nav Canada) et le territoire canadien (pertinent aux fins de l'impôt) sont différents.
+RÉFÉRENCE : 2005CCI812
+No DU DOSSIER DE LA COUR : 2001-2556(IT)G
+INTITULÉ : Mark Sutcliffe c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATES DES AUDIENCES : Du 2 au 10 février, le 16 février et le 4 mai 2005
+MOTIFS DU JUGEMENT : L'honorable juge Judith Woods
+DATE DU JUGEMENT : s.o.
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Emilio S. Binavince
+Me Michael Eng
+Avocats de l'intimée :
+Me Marley Dash
+Me David G. Frayer, c.r.
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Emilio S. Binavince
+Cabinet : Binavince et associés
+Ottawa (Ontario)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L'appelant a également interjeté appel à l'égard de l'année d'imposition 1995, mais les parties ont convenu que cette cotisation était prescrite. Compte tenu des observations écrites des parties, j'ai supposé que la cotisation avait été annulée et que je n'avais pas à l'examiner.
+[2] L'appelant a soulevé un certain nombre de questions incidentes dans l'avis d'appel. Étant donné qu'il n'en est pas fait mention dans les observations écrites de l'appelant, je ne les ai pas analysées dans les présents motifs.
+[3] La rémunération de vol était déterminée au moyen du temps de vol réel ou du temps de vol indiqué dans l'horaire publié par la société aérienne, en prenant le chiffre le plus élevé.
+[4] Le temps était déterminé électroniquement.
+[5] La preuve ne montrait pas clairement les modalités de rémunération du temps de préparation. La rémunération était peut-être « enfouie » dans les taux horaires applicables à la rémunération de vol, mais il s'agit d'une pure conjecture. Cependant, la preuve montrait clairement que le temps de préparation n'était pas inclus dans la détermination du nombre de minutes de vol.
+[6] Ces chiffres sont tirés de la réponse.
+[7] L'appelant a présenté bon nombre d'éléments de preuve sur ce point, mais ce bref résumé devrait suffire aux fins qui nous occupent.
+[8] Un rajustement mineur pour les tâches accomplies au sol (et la circulation à la surface) a été effectué conformément à l'hypothèse selon laquelle il faudrait attribuer au Canada, pour chaque vol, au moins 15 minutes de la rémunération de vol.
+[9] Pièce R-12, onglet B.
+[10] Les chiffres peuvent être comparés à la rémunération totale attribuée au Canada pour les vols internationaux dont il est ci-dessus fait mention.
+[11] Pièce R-12, onglet D.
+[12] Je tiens à faire remarquer que les observations écrites de l'intimée étaient particulièrement bien organisées et qu'elles étaient exhaustives.
+[13] Le bulletin d'interprétation IT-420R3 est daté du 30 mars 1992. Le paragraphe 7 a été modifié au moyen d'un communiqué spécial daté du 20 février 1995.
+[14] Dans le présent appel, il n'est pas question des vols internationaux entre des villes situées à l'étranger. Les cotisations ne comprenaient pas la rémunération de vol se rapportant à ces vols.
+[15] Dans l'avis d'appel, il était déclaré que l'appelant avait l'intention d'invoquer le peu d'importance des fonctions qu'il exerçait au Canada. La question n'a pas été débattue plus à fond.
+[16] Cette approche a été utilisée par le juge en chef adjoint Bowman (maintenant juge en chef) dans la décision Sumner c. Canada, no 98-1222(IT)G, 7 décembre 1999, 2000 D.T.C. 1667 (C.C.I.).
+[17] Il incombe à l'appelant de soumettre une preuve prima facie. L'intimée n'a pas produit de preuve admissible sur ce point, sauf pour faire mention de la pratique administrative du Canada dont il est fait état dans le bulletin d'interprétation IT-420R3.
+[18] Crown Forest Industries Ltd. c. Canada, [1995] 2 R.C.S. 802, [1995] 2 C.T.C. 64 (C.S.C.), au paragraphe 55.
+[19] Paragraphe 153(1) de la Loi et partie I du Règlement de l'impôt sur le revenu.
+[20] Paragraphe 153(1.1) de la Loi.
+[21] Paragraphe 150(1) de la Loi.
+[22] Paragraphe 230(1) de la Loi.
+[23] Les modifications apportées au modèle de convention de l'OCDE ont été approuvées le 15 juillet 2005, mais elles n'ont pas d'incidences sur les questions qui se posent dans le présent appel.
+[24] Klaus Vogel, Klaus Vogel on Double Taxation Conventions, troisième édition, page 917.
+[25] Transcription, pages 69 et 70.
+[26] Ainsi, l'Agence n'a pas attribué de rémunération aux tâches accomplies avant et après chaque vol, sauf pour la règle des 15 minutes.
+[27] Hale c. La Reine, no A-820-90, 5 juin 1992, 92 D.T.C. 6473 (C.A.F.), page 6475.
+[28] Cet argument n'était pas mentionné dans la réponse initiale, mais il a été inclus dans la réponse modifiée de nouveau, déposée le 30 janvier 2004.
+[29] Les cotisations n'ont pas été établies sur cette base, mais il semble que l'intimée invoque cet argument, du moins en partie, pour faire en sorte qu'il y ait un coussin si je concluais que les cotisations étaient en partie trop élevées.
+[30] Une approche similaire a été adoptée par le juge en chef adjoint Bowman (maintenant juge en chef) dans la décision McCoy c. La Reine, no 1999-4555(IT)G, 28 mai 2003 et 18 juillet 2003, 2003 D.T.C. 660 et 2003 D.T.C. 1559.

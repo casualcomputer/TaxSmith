@@ -1,0 +1,174 @@
+Title: Van de Velde v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28394/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-533-28394-van-de-velde-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-09-06
+
+# Van de Velde v. The Queen
+
+- Citation: 2007 CCI 533
+- Decision date: 2007-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1913, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Van de Velde v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-06
+Référence neutre
+2007 CCI 533
+Numéro de dossier
+2006-3193(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006‑3193(IT)I
+ENTRE :
+ROBERT VAN DE VELDE, appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 août 2007 à Toronto (Ontario)
+Devant : L’honorable juge Valerie A. Miller
+Comparutions :
+Pour l’appelant : L’appelant lui‑même
+Avocate de l’intimé : Me Katie Leslie
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté.
+Signé à Vancouver (Colombie‑Britannique) ce 6e jour de septembre 2007.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 3e jour de décembre 2007.
+Aleksandra Koziorowska, LL.B.
+Référence : 2007CCI533
+Date : 20070906
+Dossier : 2006‑3193(IT)I
+ENTRE :
+ROBERT VAN DE VELDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Miller
+[1] L’appelant interjette appel d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de l’année d’imposition 2004. La cotisation établie par le ministre du Revenu national (le « ministre ») à l’égard de l’appelant était fondée sur la déclaration que celui‑ci avait produite pour l’année d’imposition 2004. Toutefois, l’appelant conteste le montant indiqué sur un des feuillets T4 que lui a remis Allstream Inc. (« Allstream ») à l’égard de l’année d’imposition 2004.
+LES FAITS
+[2] L’appelant était un cadre dirigeant chez Allstream. En 2003 et en 2004, Allstream avait un programme d’incitation au rendement à l’intention des cadres comprenant un régime lui permettant d’octroyer des unités d’actions à négociation restreinte (les « UANR ») à ses cadres dirigeants afin de les fidéliser.
+[3] L’appelant a reçu 1 000 UANR le 17 avril 2003. Durant l’année 2003, il a reçu 334 UANR supplémentaires à titre de prime de rendement. Le 3 février 2004, il a reçu 360 UANR. L’appelant a reconnu que certaines conditions devaient être remplies avant que les UANR lui soient cédées.
+[4] Les parties ont toutes les deux déposé en preuve une lettre portant la date du 7 mai 2004 qu’Allstream a envoyée à l’appelant. En voici un extrait :
+[traduction]
+Avis aux porteurs d’unités d’actions à négociation restreinte d’Allstream
+Comme vous le savez peut‑être déjà, Allstream a annoncé le 18 mars 20004 que la société Manitoba Telecom Services (« MTS ») a accepté d’acquérir toutes les actions de catégorie A avec droit de vote et toutes les actions de catégorie B avec droit de vote restreint (ensemble, les « actions d’Allstream ») de la société en contrepartie de 23 $ et de 1,0909 action de MTS par action d’Allstream. Le 12 mai 2004, la proposition de transaction fera l’objet d’un vote des actionnaires. Vous trouverez de l’information supplémentaire quant à la transaction proposée dans la circulaire de sollicitation de procurations qui a été envoyée par la direction de la société en date du 8 avril 2004 et qui a été versée à SEDAR et à EDGAR.
+Vos UANR vous ont été octroyées en vertu du programme d’incitation au rendement à l’intention des cadres (le « programme ») de la société. Aux termes programme, la conclusion par la société d’une transaction dont résulterait un « changement de contrôle » (tel que défini par le programme) entraînerait la cession, au moins dix jours ouvrables avant la clôture de cette transaction, de toutes les UANR qui vous ont été octroyées en vertu du programme. La transaction proposée constitue un changement de contrôle pour l’application du programme. Par conséquent, la cession de toutes vos UANR sera devancée.
+Nos dossiers indiquent que vous détenez les unités d’actions à négociation restreinte suivantes, lesquelles sont visées par la transaction :
+Description
+Date de l’octroi
+Octroyées
+Prime de rendement pour 2003
+Absence inadmissible pour 2003*
+Cédées
+UANR
+17 avril 2003
+1 200
+134
+1 334
+UANR
+3 février 2004
+360
+360
+*Un total d’absences dépassant 21,75 jours de travail durant l’année visée par le programme sera rajusté au prorata.
+La société met présentement en œuvre une procédure visant à faciliter le rachat des UANR. L’ensemble des détails vous sera fourni prochainement.
+Si la clôture de la transaction n’a pas lieu, la cession des UANR se fera selon les modalités initialement prévues dans le cadre du programme. [Non souligné dans l’original.]
+[5] De même, les deux parties ont déposé en preuve une lettre datée du 19 juin 2006 et adressée au chef des Appels :
+[traduction]
+Le 19 juin 2006
+Chef des Appels
+Agence du revenu du Canada
+Bureau des services fiscaux de Barrie
+81, rue Mulcaster
+Barrie (Ontario)
+L4M 6T7
+Objet : Robert Van de Velde
+Année d’imposition 2004
+Monsieur,
+En 2003 et en 2004, Allstream avait deux programmes d’incitation au rendement à l’intention des cadres : un régime d’unités d’actions à négociation restreinte (UANR) et un régime d’options d’achat d’actions. Robert Van de Velde était admissible au régime d’UANR.
+En 2004, Manitoba Telecom Inc. a acquis les actions de Allstream Inc. dans le cadre d’un transaction conclue le 4 juin 2004. En raison de cette transaction, les actions octroyées à M. Van de Velde en 2003 et en 2004 ont été cédées à celui‑ci et remises au fiduciaire le 25 mai 2005, afin de permettre à M. Van de Velde de participer à la transaction. Le fiduciaire de la transaction a reçu 1 694 actions d’une valeur approximative de 118 410,60 $ (69,90 $ l’action) pour le compte de Robert Van de Velde. Puisque l’employé n’a rien eu à payer pour obtenir ces actions, on lui a attribué un revenu d’emploi équivalant à la valeur marchande des actions remises au fiduciaire.
+Description
+Nombre/Montant
+UANR octroyées le 17 avril 2003
+1 000
+UANR octroyées à titre de prime au rendement en 2003 – 33,5% de 1 000 actions
+334
+UANR octroyées le 3 février 2004
+360
+Nombre total d’UANR octroyées, cédées et admissibles à la participation
+1 694
+Valeur marchande des UANR le 25 mai 2004 (symbole ALR.A)
+69,90 $
+Avantage imposable – 1 694 actions à 69,90 $ l’action
+· 1 694 : nombre d’actions remises au fiduciaire pour le compte de l’employé.
+· L’employé n’a rien payé pour obtenir les actions.
+· Avantage imposable : le nombre d’actions multiplié par leur valeur marchande.
+· Il ne s’agissait pas d’une transaction visant des options d’achat de titres; la déduction pour options d’achat de titres (T4, case 39) ne s’applique pas.
+118 410,60 $
+Case 14 – 2004 T4 (Revenus d’emploi)
+118 410,60 $
+Case 38 – 2004 T4 (Avantage lié à des options d’achat de titres de la société)
+118 410,60 $
+Case 39 – 2004 T4 (Il ne s’agit pas d’une transaction visant une option d’achat de titres.)
+Ne s’applique pas
+Les employés ont été encouragés à consulter leur propre conseiller financier quant aux incidences fiscales de la transaction puisque aucune déduction légale n’a été retenue dans le cadre de la transaction.
+Si vous avez des questions ou désirez obtenir plus d’information, veuillez communiquer directement avec la soussignée au (416) 345‑2130, à l’adresse postale indiquée précédemment ou à l’adresse électronique Ann.Murrell@mstallstream.com.
+Recevez, Monsieur, mes salutations distinguées.
+Signature
+Ann Marie Murrell
+Directrice principale des ressources humaines
+QUESTION EN LITIGE
+[6] Le présent appel porte sur la question suivante : l’avantage reçu sous la forme des UANR doit‑il être évalué au moment de l’octroi des UANR ou au moment de la cession de ces dernières?
+LES RÈGLES DE DROIT APPLICABLES
+[7] Au début du procès, l’intimée a présenté une requête visant la modification de la réponse à l’avis d’appel par l’ajout de l’article 7 de la Loi. L’appelant a consenti à la requête et celle‑ci a été accueillie.
+[8] Voici le libellé de l’alinéa 7(1)a) de la Loi :
+7(1) Sous réserve des paragraphes (1.1) et (8), lorsqu’une personne admissible donnée est convenue d’émettre ou de vendre de ses titres, ou des titres d’une personne admissible avec laquelle elle a un lien de dépendance, à l’un de ses employés ou à un employé d’une personne admissible avec laquelle elle a un lien de dépendance, les présomptions suivantes s’appliquent :
+a) l’employé qui a acquis des titres en vertu de la convention est réputé avoir reçu, en raison de son emploi et au cours de l’année d’imposition où il a acquis les titres, un avantage égal à l’excédent éventuel de la valeur des titres au moment où il les a acquis sur le total de la somme qu’il a payée ou doit payer à la personne admissible donnée pour ces titres et de la somme qu’il a payée pour acquérir le droit d’acquérir les titres; […]
+[9] Dans Steen c. La Reine, [1987] 1 C.F. 139, le juge Rouleau a fait un examen de la jurisprudence portant sur l’alinéa 7(1)a) de la Loi. Voici ce qu’il a écrit au paragraphe 31 :
+En conclusion, après avoir examiné le sens de l'alinéa 7(1)a) de la Loi et la jurisprudence pertinente, je suis convaincu qu'un contribuable est réputé avoir reçu un avantage, s'il y a lieu, au moment où il obtient le droit de propriété ou bénéficie des effets du droit de propriété sur les actions souscrites.
+[10] Le Black’s Law Dictionary définit le verbe « céder » (« vest » en anglais) en ces termes :
+[traduction]
+Céder, v. tr. 1. Attribuer la propriété (d’un bien) à une personne. 2. Conférer (à une personne) l’ensemble du droit de propriété. 3. Donner (à une personne) un droit immédiat et permanent de jouissance présente ou future. 4. Hist. Mettre (une personne) en possession d’une terre par la cérémonie d’investiture. — cession, n.
+CONCLUSION
+[11] La preuve démontre clairement que l’octroi des UANR à l’appelant n’a pas entraîné leur cession immédiate. Bien que l’appelant ait reçu un avantage lors de l’octroi des UANR, cet avantage n’a pas pu être quantifié avant qu’il n’en eût acquis la propriété.
+[12] Pour ces motifs, je conclus que l’avantage reçu par l’appelant doit être évalué au moment où les UANR lui ont été cédées, puisque c’est à ce moment‑là qu’il en est devenu propriétaire en droit. À la lumière de la preuve, c’est le 25 mai 2004 que les UANR ont été cédées à l’appelant, et leur valeur était de 118 410,60 $ à cette date.
+[13] L’appel est rejeté.
+Signé à Vancouver (Colombie‑Britannique) ce 6e jour de septembre 2007.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 3e jour de décembre 2007.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2007CCI533
+Nº DU DOSSIER DE LA COUR : 2006‑3193(IT)I
+INTITULÉ : Robert Van de Velde et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 13 août 2007
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 6 septembre 2007
+COMPARUTIONS :
+L’appelant lui‑même POUR L’APPELANT
+Me Kate Leslie POUR L’INTIMÉE
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+John H. Sims, c.r. POUR L’INTIMÉE
+Sous‑procureur général du Canada
+Ottawa (Canada)

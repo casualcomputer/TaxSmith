@@ -1,0 +1,148 @@
+Title: Sourani c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29494/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-536-29494-sourani-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-10-22
+
+# Sourani c. La Reine
+
+- Citation: 2009 CCI 536
+- Decision date: 2009-10-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6284, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sourani c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-22
+Référence neutre
+2009 CCI 536
+Numéro de dossier
+97-1896(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 97-1896(IT)G
+98-1350(IT)G
+ENTRE :
+RON S. SOURANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 15 octobre 2009, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Paolo Torchetti
+____________________________________________________________________
+ORDONNANCE
+Vu les deux requêtes présentées par l’appelant et entendues le 15 octobre 2009;
+Vu les documents produits, et vu les observations de l’appelant et de l’avocat de l’intimée;
+Les présentes requêtes sont rejetées avec dépens, lesquels sont fixés à 1 400 $ et doivent être payés sans délai à l’intimée.
+Signé à Ottawa, Canada, ce 22e jour d’octobre 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 18e jour de décembre 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 536
+Date : 20091022
+Dossier : 97-1896(IT)G
+98-1350(IT)G
+ENTRE :
+RON S. SOURANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge V.A. Miller
+[1] L’appelant a présenté deux requêtes : l’une a été déposée le 11 septembre 2009, l’autre, le 16 septembre 2009. L’annexe A jointe aux présents motifs renferme les mesures de redressement demandées par l’appelant.
+[2] L’appelant a déposé ses avis d’appel il y a plus de dix ans pour les années d’imposition 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991 et 1992. Ses appels faisaient partie d’un groupe d’appels concernant une stratégie d’opérations de couverture sur des valeurs convertibles.
+Requête déposée le 11 septembre
+Comptes chez BMO/Nesbitt – points 1, 2 et 4, page 1 de l’annexe A
+[3] Le redressement demandé ne peut être accordé sur requête. Il s’agit de questions qui supposent la production d’éléments de preuve, ce qui ne peut être fait que lors de l’audition des présents appels.
+Enquêtes par la Cour – points 3 et 5, page 1 de l’annexe A
+[4] La Cour n’est pas un organisme d’enquête. Elle n’a pas compétence pour obtenir des preuves de manière indépendante en vue de leur utilisation lors de l’instruction. Elle n’a pas non plus compétence pour fournir des directives quant à la façon dont une affaire devrait être réglée.
+[5] La Cour canadienne de l’impôt a compétence pour connaître des appels sur des questions qui découlent de la Loi de l'impôt sur le revenu (la « Loi »). Dans les limites de cette compétence, dans le cadre d’un appel formé en vertu de la Loi, la Cour peut trancher l’appel soit en le rejetant, soit en l’admettant et en annulant la cotisation, en la modifiant ou en la déférant au ministre du Revenu national en vue de son réexamen et de l’établissement d’une nouvelle cotisation.
+Renvoi – point 6, page 1 et point 17, page 2 de l’annexe A
+[6] L’audition des présents appels est fixée pour le 16 novembre 2009 et la demande d’ajournement est refusée.
+Requête déposée le 16 septembre
+Mandamus – points 1, 2, 3, 5, 6, 7, 10, 11, 12, 18 et 19, page 2 de l’annexe A
+[7] Le redressement demandé par l’appelant est une ordonnance de mandamus. Il s’agit d’une mesure que la Cour n’a pas la compétence d’accorder[1].
+Questions factuelles – points 4, 8, 9, 13, 14, 15 et 16, page 2 de l’annexe A
+[8] Le redressement demandé suppose des conclusions de fait qui nécessitent des éléments de preuve. Ce sont des questions qu’il est préférable de laisser au juge du fond.
+[9] Les présentes requêtes sont rejetées avec dépens, lesquels sont fixés à 1 400 $ et doivent être payés sans délai à l’intimée.
+Signé à Ottawa, Canada, ce 22e jour d’octobre 2009.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 18e jour de décembre 2009.
+Marie-Christine Gervais, traductrice
+Annexe A
+Requête déposée le 11 septembre 2009
+LA PRÉSENTE REQUÊTE EST DÉPOSÉE AUX FINS :
+1. Que la Cour prenne note du fait que le compte géré par Peter McCrodan chez BMO/Nesbitt de 1984 à 1988 ne fonctionnait pas de la même manière que les comptes du même type tenus par d’autres courtiers chez BMO/Nesbitt ou par d’autres courtiers auprès d’autres maisons de courtage/banques que l’appelant a utilisés au cours des mêmes années.
+2. Que la Cour prenne acte du fait que les transactions effectuées chez BMO/Nesbitt de 1984 à 1988 l’ont été de diverses manières, ce qui a une incidence sur la façon dont doit être calculée chaque transaction.
+3. Que la Cour obtienne une copie du résumé détaillé de la Commission des valeurs mobilières de l’Ontario (CVMO) sur la manière dont chaque transaction a été effectuée par Peter McCrodan dans chacun des comptes chez BMO/Nesbitt au cours de la période de 1984 à 1988. La CVMO possède également une copie du registre des transactions effectuées par Peter McCrodan au cours des années 1984 à 1988 pour chaque compte chez BMO/Nesbitt. La Cour de l’impôt peut facilement obtenir des copies desdits documents en présentant une demande écrite à la CVMO. La CVMO ne communiquera pas de copies à l’appelant ou à un autre particulier.
+4. Que la Cour examine les diverses méthodes suivant lesquelles les transactions ont été effectuées et donne des indications quant à la manière dont les calculs doivent être effectués.
+5. Que la Cour donne d’autre part des directives écrites quant à la façon dont les calculs doivent être effectués pour chaque transaction dans les comptes de l’appelant.
+6. D’ajourner l’audience du 16 novembre 2009 devant la Cour jusqu’à ce qu’il soit donné suite aux demandes exposées ci-dessus, avec tous les documents requis, et que les parties aient eu la possibilité de recalculer les transactions de 1984 à 1988 chez BMO/Nesbitt et, en cas d’appel, après l’audience devant la Cour d’appel fédérale et la décision rendue par celle-ci.
+Requête déposée le 16 septembre 2009
+LA PRÉSENTE REQUÊTE EST DÉPOSÉE AUX FINS :
+1. Que l’Agence du revenu du Canada (ARC) ou le ministère de la Justice (Justice) explique la raison pour laquelle les banques n’ont pas été attraites devant la Cour de l’impôt.
+2. Que l’ARC ou Justice explique quelles sont les ententes, les ententes de nouveau client et les ententes de garantie que l’appelant a signées.
+3. Que l’ARC ou Justice explique qui a fourni des explications au sujet desdites ententes, expliqué leur portée et donné des conseils à l’appelant.
+4. Que la Cour prenne acte du fait que c’est à partir des explications fournies par les banques quant à la portée de ces ententes de garantie que l’appelant a procédé aux transactions en question.
+5. Que l’ARC ou Justice explique la raison pour laquelle aucune des personnes qui, au sein des banques, ont fourni les explications relatives aux ententes et à leur portée n’ont été invitées à s’expliquer devant la Cour de l’impôt.
+6. Que l’ARC ou Justice explique la raison pour laquelle les clients des banques qui ont signé les mêmes ententes et effectué des transactions similaires avant 1984 ou au cours de l’année 1984 et, encore aujourd’hui, ne sont pas liés par les décisions dites « Schultz » et « Rezek ».
+7. Que l’ARC ou Justice explique la raison pour laquelle les membres des « groupes » qui étaient clients de ces banques, qui ont effectué des transactions du même type et qui ont produit leurs propres déclarations de revenus de la même manière que l’appelant au cours de la même période, n’ont pas été liés par la décision Schultz, mais ont au contraire été traités comme les autres clients des banques.
+8. Que la Cour précise quand la décision sur la portée des ententes de garantie a réellement pris effet, si elle est encore valable et si elle prendra fin un jour. S’appliquait-elle à des types précis de transactions et d’ententes avant 1984, ou a-t-elle seulement été conçue en 1993 avec la décision Schultz?
+9. Cette portée vaut-elle pour tous les Canadiens, indépendamment de leur province de résidence, pour autant qu’ils prennent part aux mêmes transactions et signent les mêmes ententes et, dans la négative, pour quelle raison?
+10. Que l’ARC ou Justice explique la raison pour laquelle seul Peter McCrodan a été assigné à comparaître?
+11. Que l’ARC ou Justice expose la raison pour laquelle les antécédents de Peter McCrodan n’ont pas été communiqués à la Cour de l’impôt.
+12. Que l’ARC ou Justice précise qui Peter McCrodan représentait devant la Cour de l’impôt? Quelle était sa fonction lors des audiences devant la Cour de l’impôt?
+13. Pourquoi les banques n’ont-elles pas plaidé ces affaires pour le compte de leurs clients?
+14. L’ARC ou Justice a-t-elle aidé à protéger les banques en cause?
+15. Que la Cour examine tous les faits et les éléments de preuve disponibles et constate que l’appelant n’est pas traité différemment des autres clients de la banque qui ont signé les mêmes ententes et suivi les conseils de la banque.
+16. Que la Cour de l’impôt prenne le temps d’examiner tous les détails présentés et d’examiner ce qui a mal tourné en l’espèce.
+17. D’ajourner l’audience devant la Cour de l’impôt prévue pour le 16 novembre 2009 jusqu’à l’examen complet des faits et la décision de la Cour sur la présente requête et, en cas d’appel, jusqu'à l’audience devant la Cour d’appel fédérale et la décision rendue par celle-ci.
+18. L’appelant demande une explication écrite de l’ARC ou de Justice ou même de la Cour de l’impôt quant à la raison pour laquelle les banques n’ont pas été parties prenantes à l’affaire devant la Cour de l’impôt, alors même que les ententes que l’appelant a signées ont été rédigées par elles et que les explications sur les ententes de garantie et leur portée ont également été fournies par celles‑ci.
+19. L’appelant demande des réponses écrites de l’ARC ou de Justice ou de la Cour de l’impôt sur l’ensemble des points abordés dans la présente section – « La présente requête est déposée aux fins ».
+RÉFÉRENCE : 2009 CCI 536
+No DU DOSSIER DE LA COUR : 97-1896(IT)G
+98-1350(I)G
+INTITULÉ : RON S. SOURANI
+ET LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 octobre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 22 octobre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Paolo Torchetti
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Sourani c. La Reine, 2009 CCI 210.

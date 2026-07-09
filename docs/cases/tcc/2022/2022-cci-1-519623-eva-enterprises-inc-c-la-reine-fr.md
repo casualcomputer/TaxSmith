@@ -1,0 +1,248 @@
+---
+title: "Eva Enterprises Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/519623/index.do"
+last_modified: "2022-01-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 1"
+citation2: ""
+neutral_citation: "2022 CCI 1"
+decision_date: "2022-01-06"
+language: "fr"
+item_id: "519623"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4428
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:10:36.563000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7472b15812da317b105c886ed02162b0f7c71eefd588341decaa85cdfdf31ca4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Eva Enterprises Inc. c. La Reine
+
+- Citation: 2022 CCI 1
+- Decision date: 2022-01-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4428, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eva Enterprises Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-01-06
+Référence neutre
+2022 CCI 1
+Numéro de dossier
+2019-2832(IT)I
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-2832(IT)I
+ENTRE :
+EVA ENTERPRISES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 9 décembre 2021, à Toronto (Ontario)
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Représentant de l’appelante :
+Miroslaw Chmielewska
+Avocat de l’intimée :
+Me Kevin Hong
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2012, 2013 et 2017 de l’appelante sont rejetés, sans dépens.
+Signé à Toronto (Ontario), ce 6e jour de janvier 2022.
+« David E. Spiro »
+Le juge Spiro
+Référence : 2022 CCI 1
+Date : 20220106
+Dossier : 2019-2832(IT)I
+ENTRE :
+EVA ENTERPRISES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] M. Miroslaw Chmielewska conduit un camion de transport pour l’appelante, Eva Enterprises Inc. (la « société »). Durant les trois années d’imposition en litige, il était le seul employé de la société. M. Chmielewska et son épouse sont les actionnaires et administrateurs de la société. La société utilise son camion pour le transport transfrontalier entre le Canada et les États-Unis de divers produits agricoles, notamment de la viande, des légumes et autres produits.
+[2] La société interjette appel des cotisations et des pénalités pour déclaration tardive qui ont été établies par le ministre du Revenu national (le « ministre ») aux termes de la Loi de l’impôt sur le revenu (la « Loi ») pour chacune de ses années d’imposition 2012, 2013 et 2017.
+[3] Ces cotisations ont été établies en application du paragraphe 152(7) de la Loi, laquelle disposition permet au ministre d’établir une « cotisation arbitraire » de l’impôt à payer durant une année d’imposition, sans tenir compte du contenu de la déclaration et de la production ou non d’une déclaration :
+152 (7) Le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+[4] Pour obtenir gain de cause dans ses appels interjetés à l’encontre des cotisations établies aux termes du paragraphe 152(7) de la Loi, la société doit réfuter, selon la prépondérance des probabilités, les hypothèses de fait qui sous-tendent les cotisations établies par le ministre pour chacune de ses années d’imposition (2012, 2013 et 2017).
+[5] Dans sa réponse à l’avis d’appel (la « réponse »), l’intimée décrit chacune des cotisations fiscales et des pénalités pour production tardive qui sont en litige dans les présents appels :
+5. Par ces cotisations, le ministre :
+a. a établi l’impôt à payer comme suit :
+[EN BLANC]
+Année d’imposition 2012
+Année d’imposition 2013
+Année d’imposition 2017
+Revenu d’entreprise brut
+71 376 $
+133 198 $
+119 880 $
+Dépenses d’entreprise
+21 413
+39 960
+35 964
+Charges salariales
+27 534
+35 003
+30 052
+Revenu imposable
+22 439 $
+58 235 $
+53 864 $
+b. a fixé des cotisations d’impôt fédéral de 3 442 $, 8 734 $ et 8 080 $ pour les années d’imposition 2012, 2013 et 2017, respectivement;
+c. a imposé des pénalités pour défaut répété de production de 3 010 $ et 7 715 $ pour les années d’imposition 2012 et 2013, respectivement, conformément au paragraphe 162(2) de la Loi;
+d. a imposé une pénalité de 1 141 $ pour défaut de déclaration de revenu pour l’année d’imposition 2017, conformément au paragraphe 162(1) de la Loi.
+[6] M. Chmielewska est le seul témoin qui été assigné par la société. L’avocat de l’intimée a présenté une preuve sous la forme d’une déclaration sous serment d’un représentant de l’Agence du revenu du Canada (l’« ARC »).
+Cotisations pour les années 2012, 2013 et 2017
+[7] Durant son témoignage, M. Chmielewska a déclaré qu’il avait stocké les données financières et fiscales de la société pour les années 2012 et 2013 dans le logiciel QuickTax, sur un ordinateur portable. Il conservait cet ordinateur portable dans le camion.
+[8] En juillet 2018, M. Chmielewska a été impliqué dans un grave accident de la route alors qu’il conduisait le camion aux États-Unis. Il a passé une journée à l’hôpital et il lui a ensuite fallu plusieurs mois pour se rétablir. Il a déclaré qu’il lui a été impossible de récupérer quoi que ce soit qui se trouvait à bord du camion après l’accident [1] .
+[9] J’admets que le camion a été totalement détruit lors de l’accident [2] . J’admets également que l’ordinateur portable se trouvait dans le camion au moment de l’accident. Je n’admets toutefois pas qu’il a été impossible pour M. Chmielewska de récupérer l’ordinateur portable du camion après l’accident. Aucun élément de preuve n’indique qu’il a tenté lui-même de le faire ou qu’il a demandé à la compagnie de remorquage, à la police ou à quiconque d’autre de le faire à sa place.
+[10] Même si M. Chmielewska a été incapable de récupérer l’ordinateur portable après l’accident, il est possible que les données saisies dans le programme QuickTax aient été stockées dans le nuage informatique et qu’elles auraient donc pu être récupérées. Cependant, aucun élément de preuve n’indique qu’il a demandé à QuickTax de tenter de récupérer ces données.
+[11] Le problème des données manquantes est aggravé par les pratiques plutôt désinvoltes de la société en matière de tenue de registres financiers, comme en témoigne la réponse donnée par M. Chmielewska à une question qui lui a été posée en contre-interrogatoire au sujet de l’inscription des sommes que la société lui remboursait.
+Q : Lorsque vous payiez avec votre carte de crédit personnelle, étiez-vous remboursé par Eva Enterprises?
+R : Oui, bien sûr.
+Q : Avez-vous quelque document qui indique les sommes d’argent qu’Eva vous a transférées à titre de remboursement?
+R : Non, parce qu’il s’agit d’une entreprise familiale [3] .
+[12] Ce laisser-aller mine la confiance de la Cour quant à la fiabilité des registres financiers de la société. La société n’avait ni comptable ni commis-comptable. M. Chmielewska conservait les reçus et les factures de la société à son domicile, à Toronto. Pourtant, M. Chmielewska a choisi de n’apporter aucun de ces reçus ni aucune de ces factures à l’audience. Il a admis avoir reçu l’avis d’audience dans lequel figure la mention suivante en caractères gras [4] :
+[traduction]
+VEUILLEZ NOTER que tous les documents pertinents à l’appui de l’appel devront être disponibles lors de l’audition de l’appel [5] .
+[13] Lors de son contre-interrogatoire, M. Chmielewska a expliqué qu’il n’avait pas apporté les reçus ou les factures avec lui, car ces documents étaient conservés dans de « grosses boîtes » [6] .
+[14] C’est dans ce contexte que M. Chmielewska a présenté à la Cour un résumé d’une page faisant état des revenus et des dépenses d’exploitation pour chacune des années d’imposition (2012 et 2013) de la société (pièces A-1 et A-2). Il a déclaré qu’il avait compilé chacun de ces résumés à partir des reçus et factures de la société. Il n’a pas présenté à la Cour de résumé pour l’année d’imposition 2017 de la société, car il a déclaré l’avoir déjà envoyé à l’ARC [7] .
+[15] Pour les motifs qui suivent, j’ai de grandes réserves quant à la fiabilité de ces résumés; par conséquent, je n’y accorderai que peu de poids.
+[16] Premièrement, les frais de carburant indiqués sur le résumé de 2012 étaient de 15 000 $ exactement et les frais de représentation, de 2 000 $ exactement. Ces montants semblent avoir été arrondis par excès ou par défaut. Il est peu probable qu’ils représentent le montant total réel des factures ou des reçus. Il est plus probable qu’il s’agisse de simples estimations. Mais il n’y a aucun moyen de le savoir sans examiner les documents-source eux-mêmes.
+[17] Deuxièmement, si les reçus et factures se trouvaient à son domicile, pourquoi M. Chmielewska ne les a-t-il pas apportés à l’audience? Il a déclaré qu’il ne l’avait pas fait parce que ces documents se trouvaient dans de « grosses boîtes » [8] . Mais ces boîtes n’auraient contenu que les registres financiers de trois années d’exploitation d’une compagnie de transport qui n’a qu’un seul camion et un seul chauffeur. En quoi était-il difficile de les apporter au tribunal? Cette question demeure sans réponse.
+[18] Le paragraphe 230(1) de la Loi exige que quiconque exploite une entreprise tienne des registres afin de pouvoir déterminer l’impôt à payer durant chaque année d’imposition :
+230(1) Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d’affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues [9] .
+J’en conclus que ces registres n’existent pas ou que, s’ils existent, ils n’auraient pas corroboré les arguments de la société.
+[19] Quant aux montants en litige, le ministre a déterminé que le revenu de la société était de :
+a) 22 439 $ en 2012;
+b) 58 235 $ en 2013;
+c) 53 864 $ en 2017 [10] .
+[20] Ainsi qu’il est indiqué à l’alinéa 5a) de la réponse, le ministre a calculé le revenu pour ces années conformément au paragraphe 152(7) de la Loi, en fonction de ce qui suit :
+a) revenu brut indiqué sur la déclaration de TPS/TVH de la société pour l’année civile la plus près de l’année d’imposition visée [11] ;
+b) application d’une déduction de 30 % pour estimer les dépenses raisonnables [12] ;
+c) déduction du salaire indiqué sur les documents de paie de la société [13] .
+[21] Le résumé de la société pour 2012 fait état de dépenses supplémentaires de 11 269 $ que le ministre n’a pas déduites du calcul du revenu pour cette année-là [14] . Le résumé de la société pour 2013 fait état de dépenses supplémentaires de 27 435 $ que le ministre n’a pas déduites du calcul du revenu pour cette année-là [15] . Malheureusement, la société a omis de présenter quelque élément de preuve fiable pour appuyer sa thèse quant à l’admissibilité de ces dépenses supplémentaires.
+[22] La méthode utilisée par le ministre pour calculer le revenu en application du paragraphe 152(7) de la Loi était raisonnable dans les circonstances. Vu l’absence totale de documents-source et les sérieuses réserves quant à la fiabilité des résumés, la société n’a pas réfuté, selon la prépondérance des probabilités, les hypothèses de fait qui sous-tendent les cotisations fiscales établies par le ministre pour chacune des années d’imposition 2012, 2013 et 2017 de la société.
+Pénalités imposées pour les années 2012, 2013 et 2017
+[23] Comme l’année d’imposition de la société prend fin le 7 octobre de chaque année, les déclarations de revenus de la société pour les années d’imposition 2012, 2013 et 2017 étaient exigibles :
+a) le 8 avril 2013 pour son année d’imposition 2012;
+b) le 8 avril 2014 pour son année d’imposition 2013;
+c) le 9 avril 2018 pour son année d’imposition 2017 [16] .
+[24] Au début de l’instruction, j’ai passé en revue avec M. Chmielewska chacune des hypothèses de fait du ministre. L’une de ces hypothèses est que la société, [traduction] « en date du 28 août 2018, n’avait produit aucune déclaration de revenus pour les trois années d’imposition 2012, 2013 et 2017 ». Il s’agit de la date des cotisations en litige [17] .
+[25] Bien que M. Chmielewska ait contesté cette hypothèse [18] , il a admis que [traduction] « [l]à est le problème, car je ne peux pas prouver que j’ai produit les déclarations de revenus » [19] .
+[26] Durant son témoignage, il a déclaré que l’ARC avait écrit à la société en mai 2018 pour lui demander de produire les déclarations de revenus pour les années d’imposition 2012, 2013 et 2017 et que l’ARC avait écrit de nouveau à la société en juin 2018 pour demander la production de ces déclarations [20] . Ces deux lettres précèdent la date de l’accident.
+(a) Pénalités pour défaut répété de produire des déclarations pour 2012 et 2013
+[27] Au paragraphe 13 de la réponse, l’intimée allègue les faits suivants relativement aux pénalités imposées pour défaut répété de production pour chacune des années d’imposition 2012 et 2013 de la société :
+13. En imposant des pénalités pour défaut répété de production pour chacune des années d’imposition 2012 et 2013, conformément au paragraphe 162(2) de la Loi, le ministre s’est fondé sur les faits supplémentaires suivants :
+a. l’appelante n’a pas produit ses déclarations de revenus pour les années d’imposition 2012 et 2013 avant les échéances du 8 avril 2013 et du 8 avril 2014, respectivement;
+b. le ou vers le 25 juin 2018, le ministre a envoyé une demande afin que soient produites les déclarations de revenus pour les années d’imposition 2012 et 2013;
+c. l’appelante s’est vu imposer une pénalité de 142 $ pour défaut de déclaration de revenu pour l’année d’imposition 2010, conformément au paragraphe 162(1) de la Loi.
+[28] Les portions non contestées de la déclaration sous serment présentée par l’intimée définissent chacun des éléments factuels des pénalités imposées pour défaut répété de production, comme l’exige le paragraphe 162(2) de la Loi :
+162(2) La personne [est passible d’une pénalité]
+qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1)
+après avoir été mise en demeure de le faire conformément au paragraphe 150(2) et
+qui, avant le moment du défaut, devait payer une pénalité en application du présent paragraphe ou du paragraphe (1) pour défaut de production d’une déclaration de revenu pour une des trois années d’imposition précédentes. [...]
+[29] Durant son témoignage, M. Chmielewska a déclaré qu’il ne se rappelait pas à quel moment il avait produit la déclaration de revenus de la société pour l’année 2012 [traduction] « parce que c’était il y a longtemps » [21] . Il ne se rappelait pas s’il avait produit les déclarations de revenus de la société pour les années 2012 et 2013 dans les délais prescrits [22] . Il n’a pu dire à quel moment exactement la société a produit ses déclarations de revenus pour les années d’imposition 2012 et 2013 [23] .
+[30] Mais il a par la suite déclaré qu’il a dû produire les déclarations de revenus de la société dans les délais prescrits, car il les aurait produites au même moment où ont été produites les déclarations de TPS/TVH de la société, à savoir en janvier ou février de l’année civile suivante [24] . Il a toutefois modifié de nouveau ses propos durant l’argumentation, en déclarant que la société avait produit ces déclarations [traduction] « peut-être un an en retard » [25] .
+[31] Quoi qu’il en soit, M. Chmielewska n’a présenté aucune confirmation de la transmission de copies électroniques de ces déclarations et il n’a pas non plus produit de copies papier. Il n’a pas présenté l’avis de cotisation qui aurait été délivré par le ministre après la production de chacune de ces déclarations.
+[32] Après avoir soupesé les portions non contestées de la déclaration sous serment de l’intimée en regard des éléments de preuve vagues, variables et contradictoires présentés par M. Chmielewska, je conclus que l’intimée a démontré, selon la prépondérance des probabilités, les faits qui sous-tendent les pénalités imposées par le ministre pour défaut répété de production des déclarations de revenus de la société pour les années d’imposition 2012 et 2013, en application du paragraphe 162(2) de la Loi.
+b) Pénalité pour déclaration tardive pour l’année 2017
+[33] Le ministre a présumé que la société n’avait pas produit de déclaration de revenus pour son année d’imposition 2017 à la date d’échéance du 9 avril 2018 [26] . Le ministre a également présumé que le 28 août 2018 – date à laquelle la cotisation a été établie – la société n’avait pas produit sa déclaration de revenus pour l’année 2017 [27] .
+[34] M. Chmielewska n’a pas contesté l’hypothèse du ministre selon laquelle la déclaration de la société pour l’année 2017 a été produite tardivement [28] . Durant l’argumentation, il a reconnu qu’elle n’avait pas été produite dans le délai prescrit [29] . La société n’a présenté aucun élément de preuve pour réfuter l’hypothèse du ministre selon laquelle la société n’avait pas produit de déclaration de revenus pour son année d’imposition 2017 à la date de la cotisation, le 28 août 2018.
+Conclusion
+[35] Les éléments de preuve de la société ne réussissent pas à démontrer que les cotisations fiscales ou les pénalités établies par le ministre étaient erronées. Par conséquent, les appels sont rejetés, sans dépens.
+Signé à Toronto (Ontario), ce 6e jour de janvier 2022.
+« David E. Spiro »
+Le juge Spiro
+RÉFÉRENCE :
+2022 CCI 1
+NO DU DOSSIER DE LA COUR :
+2019-2832(IT)I
+INTITULÉ :
+EVA ENTERPRISES INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 décembre 2021
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 6 janvier 2022
+COMPARUTIONS :
+Représentant de l’appelante :
+Miroslaw Chmielewska
+Avocat de l’intimée :
+Me Kevin Hong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription, page 23, lignes 4 à 7.
+[2] Deux photographies du camion, présentées à titre de pièce A-3, montrent l’état du camion après l’accident.
+[3] Transcription, page 49, lignes 12 à 17.
+[4] Transcription, page 64, lignes 5 à 22.
+[5] L’avis d’audience précise également ce qui suit : [traduction] « Si plus d’une période de cotisation est en cause, veuillez lire le ou les présents appels dans leur intégralité ».
+[6] Transcription, page 44, lignes 10 à 12.
+[7] Transcription, page 52, lignes 2 à 19. Comme je l’ai indiqué à M. Chmielewska au début de l’audience, la Cour canadienne de l’impôt est une entité entièrement indépendante, qui n’a aucun lien avec le ministre ou l’ARC (transcription, de la page 4, ligne 27, à la page 5, ligne 6).
+[8] Transcription, page 44, lignes 10 à 12. Ce point a été soulevé de nouveau durant l’argumentation de la société. Voir la transcription, de la page 95, ligne 27, à la page 96, ligne 4.
+[9] Le paragraphe 248(1) de la Loi définit comme suit le mot « registre » :
+Sont compris parmi les registres les comptes, conventions, livres, graphiques et tableaux, diagrammes, formulaires, images, factures, lettres, cartes, notes, plans, déclarations, états, télégrammes, pièces justificatives et toute autre chose renfermant des renseignements, qu’ils soient par écrit ou sous toute autre forme;
+[10] Alinéa 12k) de la réponse. Voir aussi les alinéas 12e) à 12j) de la réponse.
+[11] M. Chmielewska a reconnu que les chiffres sur le revenu brut, utilisés par le ministre et extraits des déclarations de TPS/TVH de la société, étaient exacts. Voir la transcription, de la page 8, ligne 13, à la page 9, ligne 18.
+[12] M. Chmielewska a contesté l’estimation des dépenses faite par le ministre, estimant qu’elle était trop basse. Voir la transcription, de la page 10, ligne 21, à la page 12, ligne 5, et la page 15, lignes 10 à 21.
+[13] M. Chmielewska a reconnu que les montants imputés à la charge salariale étaient exacts. Voir la transcription, page 14, lignes 9 à 17.
+[14] Le ministre a autorisé des dépenses de 48 947 $ dans le calcul du revenu pour l’année d’imposition 2012 [alinéa 5a) de la réponse]. Le résumé de la société fait état de dépenses de 60 216 $ pour cette année-là.
+[15] Le ministre a autorisé des dépenses de 74 963 $ dans le calcul du revenu pour l’année d’imposition 2013 [alinéa 5a) de la réponse]. Le résumé de la société fait état de dépenses de 102 398 $ pour cette année-là.
+[16] Réponse, alinéa 12c).
+[17] Réponse, alinéa 12d). Une partie de la déclaration sous serment présentée par l’intimée (pièce R-1) va à l’encontre de cette hypothèse. Dans cette déclaration sous serment, il est indiqué que la société a produit des déclarations pour ses années d’imposition 2012, 2013 et 2017 le 30 juillet 2018 [alinéas 12b) et c) et paragraphe 14]. M. Chmielewska nie avoir produit quelque déclaration à cette date. Je juge que son élément de preuve sur ce point est crédible, compte tenu notamment du fait qu’il se rétablissait des blessures subies lors de l’accident survenu plus tôt durant ce mois. Je n’attribue aucun poids à cette portion de la déclaration sous serment, vu l’existence de « preuve contraire » au sens du paragraphe 244(8) de la Loi :
+244(8) Lorsque la présente loi ou son règlement oblige une personne à faire une déclaration, un état, une réponse ou un certificat, un affidavit d’un fonctionnaire de l’Agence du revenu du Canada, souscrit en présence d’un commissaire ou d’une autre personne autorisée à recevoir les affidavits, indiquant qu’il a la charge des registres appropriés et qu’après en avoir fait un examen attentif il a constaté que la déclaration, l’état, la réponse ou le certificat a été produit, présenté ou fait un jour particulier doit être reçu comme preuve, sauf preuve contraire, que ces documents ont été produits, présentés ou faits ce jour-là et non antérieurement.
+[Non souligné dans l’original.]
+[18] Transcription, page 8, lignes 1 à 8.
+[19] Transcription, page 7, lignes 6 à 11.
+[20] Transcription, de la page 56, ligne 26, à la page 58, ligne 12. La lettre de juin 2018 est également mentionnée au paragraphe 11 de la déclaration sous serment présentée par l’intimée (pièce R-1).
+[21] Transcription, de la page 23, ligne 26, à la page 24, ligne 5.
+[22] Transcription, page 27, lignes 4 à 10, et page 31, lignes 21 à 24.
+[23] Transcription, page 59, lignes 17 à 20.
+[24] Transcription, de la page 66, ligne 17, à la page 68, ligne 2.
+[25] Transcription, page 95, lignes 11 à 17.
+[26] Le paragraphe 14 de la réponse indique que la déclaration de 2017 était exigible le 8 avril 2018, mais cette date correspondait à un dimanche. À l’alinéa 12c) de la réponse, le ministre a correctement présumé que la date d’échéance était le 9 avril 2018.
+[27] Alinéa 12d) de la réponse.
+[28] Transcription, page 27, lignes 11 à 14.
+[29] Transcription, page 96, lignes 22 à 24.

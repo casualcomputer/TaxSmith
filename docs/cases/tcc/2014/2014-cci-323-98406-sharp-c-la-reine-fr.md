@@ -1,0 +1,190 @@
+---
+title: "Sharp c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98406/index.do"
+last_modified: "2014-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 323"
+citation2: ""
+neutral_citation: "2014 CCI 323"
+decision_date: "2014-10-31"
+language: "fr"
+item_id: "98406"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5260
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:40:38.065000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "69c9e3cf3a8b68c1728d93bb8a8bd9cd71da4ddf5d86fca01f35c6ee83a70f1f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sharp c. La Reine
+
+- Citation: 2014 CCI 323
+- Decision date: 2014-10-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5260, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sharp c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-31
+Référence neutre
+2014 CCI 323
+Numéro de dossier
+2013-2770(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-2770(GST)I
+ENTRE :
+ANDREA SHARP,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 20 octobre 2014, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Richard Yasny
+Avocats de l’intimée :
+Me Aaron Tallon
+Me Lesley L’Heureux
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, visant la période du 1er août 2011 au 31 août 2011 et refusant à l’appelante le remboursement pour habitations neuves, est rejeté.
+Signé à Ottawa, Canada, ce 31e jour d’octobre 2014.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 10e jour de novembre 2014.
+Mylène Boudreau, traductrice
+Référence : 2014 CCI 323
+Date : 20141031
+Dossier : 2013-2770(GST)I
+ENTRE :
+ANDREA SHARP,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] L’intimée a refusé d’accorder à Mme Sharp le remboursement pour habitations neuves de 24 000 $ sur l’achat d’une nouvelle maison à Milton, en Ontario, en 2011. Le refus de l’intimée est fondé sur le fait que les conditions énumérées au paragraphe 254(2) de la Loi sur la taxe d’accise (la « Loi »), qui auraient permis à Mme Sharp de bénéficier du remboursement, n’étaient pas réunies. Plus particulièrement, l’intimée a conclu que, comme un collègue de travail sans lien de parenté avec Mme Sharp, M. Da Silva, a signé un contrat de vente sans avoir l’intention de déménager dans la maison et qu’il n’est en fait jamais devenu propriétaire, Mme Sharp ne peut bénéficier du remboursement. Madame Sharp prétend que la maison a toujours été destinée à ses parents et que M. Da Silva a signé le contrat de vente seulement au cas où ses parents décidaient de ne pas acheter la maison et qu’elle elle aurait alors besoin de son aide financière.
+[2] Une brève explication des faits viendra préciser cette situation inhabituelle. En 2010, Mme Sharp était mère célibataire et vivait à Milton, en Ontario. Ses parents, qui demeuraient à Mississauga, se rendaient régulièrement à Milton pour l’aider à prendre soin des enfants. Un nouveau complexe devait être construit à seulement un pâté de maisons de celle de Mme Sharp. Les terrains étaient fortement convoités. Comme un acheteur potentiel est revenu sur sa promesse, Mme Sharp, elle‑même agente immobilière, a rapidement saisi l’occasion pour faire une offre le 20 mai 2010 (pour conclusion à l’été 2011) sur un terrain situé à seulement un pâté de maisons de la sienne. Elle voulait que cette maison soit celle de ses parents. Lorsqu’elle a annoncé cette transaction à sa mère en mai 2010, cette dernière a rechigné à l’idée. Madame Sharp a déclaré qu’elle n’était pas vraiment étonnée de la réaction de sa mère, mais qu’elle avait toutes les raisons de croire que ses parents changeraient d’avis.
+[3] Pour protéger ses arrières (mes propres mots et non les siens), Mme Sharp a parlé à un ami et collègue de travail, M. Da Silva, qui a accepté de partager l’achat de la nouvelle maison à parts égales avec elle, dans l’éventualité où les parents choisissaient de ne pas acheter la maison conjointement avec elle. Le 21 mai 2010, le jour après que Mme Sharp a signé le contrat de vente, M. Da Silva et elle ont signé une modification par laquelle ils ont ajouté M. Da Silva à titre d’acheteur. Le constructeur, Mattamy Homes (« Mattamy »), a signé le contrat de vente le 25 mai 2010.
+[4] Monsieur Da Silva a déclaré que lui aussi croyait que les parents de Mme Sharp changeraient d’avis, mais il sentait qu’il ne pouvait être perdant dans le marché de l’époque s’il achetait le bien à parts égales avec Mme Sharp. Il est évident qu’il aidait une amie dans le cas où elle éprouverait des difficultés financières, mais aussi que cet achat représenterait un investissement pour lui si les parents de Mme Sharp ne changeaient pas d’avis. Il croyait que signer le contrat à titre d’acheteur était la meilleure garantie pour lui.
+[5] Madame Sharp a versé tous les dépôts et a négocié toutes les améliorations.
+[6] En janvier 2011, les parents de Mme Sharp ont finalement saisi l’occasion et ont accepté d’acheter la maison avec leur fille. Monsieur Da Silva était prêt à se retirer de l’affaire à ce moment‑là. Madame Sharp a communiqué avec Mattamy pour que M. Da Silva soit rayé du contrat de vente à titre d’acheteur et que ses parents y soient ajoutés. Mattamy était prêt à ajouter les parents, mais pas à retirer M. Da Silva. Madame Sharp a tenté plusieurs fois de convaincre Mattamy de retirer M. Da Silva à titre d’acheteur aux termes du contrat de vente. Cela allait à l’encontre de sa politique. Selon M. Culbert, le représentant de Mattamy qui a témoigné, Mattamy se sentait plus en sécurité financièrement si plus d’acheteurs se portaient garants, et elle n’envisagerait de rayer un acheteur du contrat de vente que si elle avait une bonne raison de le faire, par exemple si une banque refusait de prêter si une personne en particulier demeurait acheteur. Fait intéressant, M. Culbert l’a expliqué à Mme Sharp dans une lettre datée du 26 janvier 2013 :
+[traduction] Après examen de la correspondance provenant de l’Agence du revenu du Canada que vous nous avez remise, il ne fait désormais aucun doute que vous n’êtes pas admissible au remboursement de la TVH, puisque M. Da Silva n’est pas un proche de vos parents. Malheureusement, ce fait n’a pas été considéré par Mattamy ou n’a pas été porté à son attention comme étant un obstacle au remboursement au moment de la conclusion. Avec le recul, compte tenu de ce que nous savons maintenant, Mattamy aurait selon toute vraisemblance permis que le nom de M. Da Silva soit rayé du contrat de vente, ce qui vous aurait rendu admissible au remboursement.
+[7] Monsieur Culbert a reconnu que Mattamy savait que M. Da Silva ne serait pas propriétaire du bien.
+[8] Lorsque le bien était prêt pour la prise de possession, à la fin de l’été 2011, Mme Sharp, M. Da Silva et les parents de Mme Sharp ont tous signé un document d’instructions concernant le titre de propriété autorisant Mattamy et ses avocats à transférer le titre à Mme Sharp et à ses parents. Les parents ont pris possession de la maison le 21 août 2011 et le titre de propriété leur a été transféré, à eux ainsi qu’à Mme Sharp. Les parents demeurent dans la maison.
+[9] Madame Sharp a signé la demande de remboursement qui avait été remplie par Mattamy indiquant que M. Da Silva, ses parents et elle étaient les propriétaires. La demande de remboursement a été rejetée par l’Agence du revenu du Canada (l’« ARC ») au moyen d’une lettre datée du 15 août 2012 :
+[traduction] Nous avons terminé notre examen de la demande de remboursement de la TPS/TVH pour habitations neuves présentée en votre nom à l’égard de la propriété sise au 353 Peregrine Way, à Milton, en Ontario, par Mattamy Homes. Pour que vous soyez admissible au remboursement de la TPS/TVH pour habitations neuves, l’article 254 de la Loi sur la taxe d’accise exige que le bien serve de résidence habituelle pour tous les acheteurs ou les proches admissibles. Puisque José Da Silva n’avait pas l’intention d’utiliser ce bien comme résidence habituelle, vous n’êtes pas admissible au remboursement.
+[10] Madame Sharp a‑t‑elle droit au remboursement pour habitations neuves?
+[11] Je vais d’abord citer la loi applicable. Le paragraphe 254(2) de la Loi énonce les exigences pour bénéficier du remboursement. Il dispose que :
+254(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le constructeur d’un immeuble d’habitation à logement unique ou d’un logement en copropriété en effectue, par vente, la fourniture taxable au profit du particulier;
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+c) le total des montants — appelé « contrepartie totale » au présent paragraphe — dont chacun représente la contrepartie payable pour la fourniture de l’immeuble ou du logement et pour toute autre fourniture taxable, effectuée au profit du particulier, d’un droit sur l’immeuble ou le logement est inférieur à 450 000 $;
+d) le particulier a payé la totalité de la taxe prévue à la section II relativement à la fourniture et à toute autre fourniture, effectuée à son profit, d’un droit sur l’immeuble ou le logement (le total de cette taxe prévue au paragraphe 165(1) étant appelé « total de la taxe payée par le particulier » au présent paragraphe);
+e) la propriété de l’immeuble ou du logement est transférée au particulier une fois la construction ou les rénovations majeures de ceux-ci achevées en grande partie;
+f) entre le moment où les travaux sont achevés en grande partie et celui où la possession de l’immeuble ou du logement est transférée au particulier en vertu du contrat de vente :
+(i) l’immeuble n’a pas été occupé à titre résidentiel ou d’hébergement,
+(ii) le logement n’a pas été occupé à titre résidentiel ou d’hébergement, sauf s’il a été occupé à titre résidentiel par le particulier, ou son proche, qui était alors l’acheteur du logement aux termes d’un contrat de vente;
+g) selon le cas :
+(i) le premier particulier à occuper l’immeuble ou le logement à titre résidentiel, à un moment après que les travaux sont achevés en grande partie, est :
+(A) dans le cas de l’immeuble, le particulier ou son proche,
+(B) dans le cas du logement, le particulier, ou son proche, qui, à ce moment, en était l’acheteur aux termes d’un contrat de vente,
+(ii) le particulier effectue par vente une fourniture exonérée de l’immeuble ou du logement, et la propriété de l’un ou l’autre est transférée à l’acquéreur de cette fourniture avant que l’immeuble ou le logement n’ait été occupé à titre résidentiel ou d’hébergement.
+[12] Il convient également de citer le paragraphe 262(3) de la Loi. Il est rédigé ainsi :
+262(3) Lorsque la fourniture d’un immeuble d’habitation ou d’une part du capital social d’une coopérative d’habitation est effectuée au profit de plusieurs particuliers ou que plusieurs particuliers construisent ou font construire un immeuble d’habitation, ou y font ou font faire des rénovations majeures, la mention d’un particulier aux articles 254 à 256 vaut mention de l’ensemble de ces particuliers en tant que groupe. Toutefois, seulement l’un d’entre eux peut demander le remboursement en application des articles 254, 254.1, 255 ou 256 relativement à l’immeuble ou à la part.
+[13] Enfin, l’article 133 de la Loi dispose que :
+133. Pour l’application de la présente partie, la fourniture objet d’une convention est réputée effectuée à la date de conclusion de la convention. La livraison du bien ou la prestation du service aux termes de la convention est réputée faire partie de la fourniture et ne pas constituer une fourniture distincte.
+[14] Ensemble, ces dispositions prévoient que, pour être admissibles au remboursement, tous les membres d’un groupe (le « particulier » visé à l’alinéa 254(2)b) de la Loi) qui assument une responsabilité aux termes du contrat de vente doivent avoir signé le contrat au motif que le bien servirait de lieu de résidence habituelle pour le « particulier » ou son proche, et cette personne doit occuper le bien pour la première fois. La question se résume à savoir si, dans ces circonstances, M. Da Silva faisait partie du groupe qui constituait le « particulier ». Dans l’affirmative, les conditions pour bénéficier du remboursement n’ont pas été réunies.
+[15] L’appelante prétend que M. Da Silva ne faisait pas partie du groupe qui constituait le « particulier » parce qu’il n’était pas un acheteur aux termes du contrat de vente, mais simplement un mandataire ou un simple fiduciaire. Maître Yasny, l’avocat de l’appelante, énumère les faits suivants à l’appui de cette prétention :
+a) Monsieur Da Silva n’avait pas l’intention d’acquérir un titre de propriété.
+b) Il ne s’attendait pas à avoir un droit sur la nouvelle maison.
+c) Il n’a payé aucune partie du paiement initial.
+d) Il n’a pas signé la modification visant les améliorations, même si elle augmentait le prix d’achat de 41 000 $ et le constructeur a accepté cette modification comme étant valablement signée par tous les acheteurs.
+e) Il a renoncé à son rôle dans le contrat de vente dès que les parents ont accepté d’aller de l’avant avec l’achat et a cédé son droit à l’appelante et à ses parents, à leur demande, dès que le constructeur lui en a donné la chance, au moyen du document d’instructions concernant le titre de propriété.
+f) Lorsqu’il a signé le document d’instructions concernant le titre de propriété, accordant le titre uniquement à l’appelante et à ses parents, il n’a reçu aucune partie des gains accumulés.
+[16] L’appelante prétend que ces faits démontrent qu’elle conserve le droit de contrôler et de guider les actes de M. Da Silva dans toutes les affaires relatives au bien – un critère qui s’applique au simple fiduciaire conformément au bulletin d’information technique sur la TPS/TVH B-068. Je ne suis pas d’accord.
+[17] Je ne crois pas que ces faits puissent me permettre de conclure que M. Da Silva n’était pas le « particulier ». Au moment où il a signé le contrat de vente, les parents de Mme Sharp avaient clairement indiqué qu’ils n’allaient pas acheter le bien. Madame Sharp et lui avaient une participation à parts égales. Monsieur Da Silva avait des obligations envers Mattamy. Nonobstant le fait que Mme Sharp et lui s’attendaient (attente qui s’est finalement avérée) à ce que les parents aillent finalement de l’avant et qu’il se retire de l’affaire, il s’était personnellement engagé envers Mattamy. Madame Sharp n’avait pas le droit de contrôler ou de guider les actes de M. Da Silva à cet égard. L’entente informelle entre M. Da Silva et Mme Sharp n’a pas créé de relation fiduciaire ou de mandataire.
+[18] Maître Yasny a ensuite fait valoir que M. Da Silva n’était pas le « particulier » parce que son droit était assujetti au refus des parents de signer. Toutefois, au moment où il a signé le contrat de vente, son droit n’était plus « assujetti », puisque les parents n’avaient pas convenu de faire partie de la transaction. À ce moment‑là, Mme Sharp et M. Da Silva avaient convenu ensemble d’acheter un bien à titre d’investissement. Le refus des parents n’était pas, comme l’a décrit Me Yasny, une condition suspensive au droit de M. Da Silva. À la signature du contrat de vente, M. Da Silva avait le même droit que Mme Sharp à titre d’acheteur du bien, nonobstant le fait qu’il n’avait donné aucun dépôt ni n’avait participé à la négociation des améliorations.
+[19] Maître Yasny prétend qu’il y a deux contrats en jeu : celui conclu entre Mattamy et M. Da Silva et celui conclu entre Mme Sharp et M. Da Silva. Il n’y a certainement aucune condition suspensive dans le premier contrat. Et, je ne suis pas convaincu qu’il y en a une dans l’autre. C’était l’inverse d’une condition suspensive. En signant le contrat de vente ensemble, Mme Sharp et M. Da Silva ont convenu qu’ils étaient des acheteurs tant que les parents de Mme Sharp n’intervenaient pas pour remplacer M. Da Silva dans le contrat de vente. On peut supposer que l’intervention des parents aurait mis fin à leur entente. Je ne vois pas comment cela constitue une condition suspensive telle qu’elle a été décrite par la juge Lamarre dans la décision Lepage c La Reine[1] :
+[U]n contrat sujet à une condition suspensive ne devient exécutoire que si la condition a été satisfaite ou si les parties y ont renoncé.
+Je ne suis tout simplement pas en présence d’une telle situation en l’espèce.
+[20] Le statut de M. Da Silva à titre d’acheteur a‑t‑il été modifié d’une quelconque façon par la modification apportée au contrat de vente en 2011 par laquelle les parents ont été ajoutés à titre d’acheteurs? En ce qui concerne Mme Sharp et M. Da Silva, cette modification a mis fin au droit de ce dernier sur le bien. Malheureusement, Mattamy ne l’a pas vu de cette façon, même si elle a reconnu que M. Da Silva ne deviendrait pas un acheteur et désirait être rayé du contrat de vente. L’appelante fait valoir qu’à ce moment‑là, M. Da Silva est simplement devenu garant du paiement.
+[21] Pour parvenir à ce résultat, je devrais conclure que l’entente entre M. Da Silva et Mattamy avait été modifiée. Or, ce n’est pas le cas. Mattamy ne voyait pas M. Da Silva comme un garant; Mattamy a précisément conservé son nom sur le contrat de vente à titre d’acheteur. Il n’y a eu aucune modification.
+[22] Enfin, Me Yasny se fonde sur l’article 134 de la Loi, qui dispose que :
+Pour l’application de la présente partie, le transfert d’un bien, ou d’un droit y afférent, aux termes d’une convention concernant une dette ou une obligation et visant à garantir le paiement de la dette ou l’exécution de l’obligation est réputé ne pas constituer une fourniture. Il en est de même pour le retour du bien ou du droit, une fois la dette payée ou remise ou l’obligation exécutée ou remise.
+Cette disposition ne s’applique pas : il n’y a eu aucun transfert d’un droit afférant à un bien pour garantir le paiement.
+[23] On m’a également renvoyé aux décisions Davidson c La Reine[2] et Goyer c La Reine[3], décisions avec lesquelles j’ai établi une distinction dans la décision Rochefort c La Reine[4]. J’estime qu’elles n’aident pas Mme Sharp en l’espèce, mais elles confirment la conclusion selon laquelle une personne qui conclut un contrat de vente est un « particulier » pour l’application du paragraphe 254(2) de la Loi et est assujettie aux exigences de cette disposition.
+[24] Ce qui m’amène à la décision Rochefort et aux commentaires que j’y ai formulés :
+En ce qui concerne la politique, il est clair que le remboursement est censé profiter aux Rochefort, étant donné qu’ils sont les acheteurs du bien, qu’ils sont tenus de payer la TPS et qu’ils ont pris possession du bien une fois que la construction a été achevée en grande partie pour qu’il leur serve de résidence habituelle.
+[25] Maître Yasny laisse entendre que Mme Sharp et ses parents devraient être considérés dans la même perspective, soit comme les acheteurs d’une maison à qui le remboursement est censé profiter. Ils sont visés par l’esprit de la loi. Je souscris à cette opinion. Cependant, contrairement à la décision Rochefort, dans laquelle je pouvais trouver une thèse juridique justifiable assujettissant les Rochefort à l’esprit et au libellé de la loi, je ne saurais trouver une façon de le faire pour Mme Sharp, malgré les arguments habiles et innovateurs de son avocat. En m’appuyant sur les faits, je ne saurais conclure qu’il existe un contrat de fiducie, une convention de mandat ou une entente financière qui ferait en sorte que M. Da Silva n’est pas un « particulier » pour les besoins du remboursement. Il s’agit d’une situation malheureuse compte tenu de l’intention des parties. Je dois toutefois rejeter l’appel.
+Signé à Ottawa, Canada, ce 31e jour d’octobre 2014.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 10e jour de novembre 2014
+Mylène Boudreau, traductrice
+RÉFÉRENCE :
+2014 CCI 323
+NO DU DOSSIER DE LA COUR :
+2013-2770(GST)I
+INTITULÉ :
+ANDREA SHARP ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 octobre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 31 octobre 2014
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Richard Yasny
+Avocats de l’intimée :
+Me Aaron Tallon
+Me Lesley L'Heureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Richard Yasny
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2000 CanLII 397 (CCI).
+[2] 2002 CanLII 872 (CCI).
+[3] 2010 CCI 511.
+[4] 2014 CCI 34.

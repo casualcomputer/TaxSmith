@@ -1,0 +1,305 @@
+---
+title: "Belcourt Properties inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72957/index.do"
+last_modified: "2014-06-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 208"
+citation2: ""
+neutral_citation: "2014 CCI 208"
+decision_date: "2014-06-27"
+language: "fr"
+item_id: "72957"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5190
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:51:04.860000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3853d78dc348908445f3ba563635a37fea5f33fd86d3a6d0738a4eedbb1b6e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Belcourt Properties inc. c. La Reine
+
+- Citation: 2014 CCI 208
+- Decision date: 2014-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5190, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Belcourt Properties inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-06-27
+Référence neutre
+2014 CCI 208
+Numéro de dossier
+2011-3726(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3726(IT)G
+ENTRE :
+LES PROPRIÉTÉS Belcourt Inc./Belcourt properties Inc.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 mars 2014, à Montréal (Québec).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Avocats de l’appelant :
+Me Konstantinos Voggas
+Me Elisabeth Robichaud
+Avocate de l’intimée :
+Me Marie-France Camiré
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvelle cotisation, étant entendu que le profit réalisé sur la vente des deux biens en question a été dûment déclaré comme gain en capital comme il est indiqué dans les livres comptables de l’appelante et dans sa déclaration de revenus pour l’année d’imposition 2005.
+Signé à Ottawa, Canada, ce 27e jour de juin 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 24e jour d’octobre 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 208
+Date : 20140627
+Dossier : 2011-3726(IT)G
+ENTRE :
+LES PROPRIÉTÉS Belcourt INC./ Belcourt Properties Inc.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+Les questions en litige
+[1] Dans le présent appel, les questions en litige sont les suivantes : le ministre du Revenu national (le « ministre ») a‑t‑il commis une erreur en requalifiant comme revenu d’entreprise le gain (déclaré par l’appelante comme gain en capital) réalisé par l’appelante au cours de son année d’imposition 2005 à la suite de la disposition de deux biens, l’un situé au 5253, avenue du Parc, à Montréal (acquis en juin 2002) et l’autre situé au 5655-5685, chemin de la Côte‑des‑Neiges (coin chemin de la Côte‑Sainte‑Catherine), à Montréal (acquis en décembre 2000), et en établissant une nouvelle cotisation sur ce fondement? Le traitement fiscal du produit de ces dispositions, lequel produit a été déclaré par l’appelante et requalifié par le ministre, est illustré ci-après tel qu’il ressort des redressements proposés de l’Agence du revenu du Canada (l’« ARC ») indiqués à l’annexe 1 du document daté du 14 juillet 2009, et déposé comme pièce A-1, onglet 12 (arguments écrits de l’appelante et précédents invoqués, page 4).
+Bien de l’avenue du Parc
+situé au 5253, avenue du Parc, à Montréal
+Gain déclaré
+Gain recalculé
+Écart
+Prix de vente
+700 000 $
+700 000 $
+Coût du terrain
+(65 780 $)
+(65 780 $)
+Coût du bâtiment
+(187 220 $)
+(187 220 $)
+Déduction de l’année antérieure
+___________
+18 128 $
+Gain en capital
+447 000 $
+___________
+___________
+Gain en capital imposable
+223 500 $
+-
+(223 500 $)
+Revenu
+-
+465 128 $
+465 128 $
+Récupération de la DPA
+18 128 $
+-
+(18 128 $)
+Total :
+241 628 $
+465 128 $
+223 500 $
+Bien des deux Côtes
+situé au 5655-5685, chemin de la Côte-des-Neiges (coin chemin de la Côte-Ste-Catherine), à Montréal
+Gain déclaré
+Gain recalculé
+Écart
+Prix de vente
+1 150 000 $
+1 150 000 $
+Coût du terrain
+(72 000 $)
+(72 000 $)
+Coût du bâtiment
+(305 065 $)
+(305 065 $)
+Déduction de l’année antérieure
+29 540 $
+Coût des améliorations locatives
+(59 364 $)
+Amortissements cumulés des améliorations locatives
+14 266 $
+Gain en capital
+727 837 $
+___________
+___________
+Gain en capital imposable
+363 919 $
+-
+(363 919 $)
+Revenu
+-
+802 475 $
+802 475 $
+Récupération de la DPA
+29 540 $
+-
+(29 540 $)
+Total :
+393 459 $
+802 475 $
+409 016 $
+[2] L’appelante affirme que son intention lors de l’acquisition de ces biens était de les détenir comme investissements pour qu’ils génèrent des revenus locatifs, d’où le gain en capital déclaré à la suite de la disposition, 50 p. 100 du profit étant imposable en application des articles 38 et 39 de la Loi de l’impôt sur le revenu (la « LIR »). L’intimée est d’avis pour sa part que la vente des deux biens a eu lieu dans le cours normal des activités de l’appelante (ou à tout le moins était un projet comportant un risque ou une affaire de caractère commercial), et par conséquent la totalité du profit devait être incluse dans le revenu d’entreprise de l’appelante en application des articles 3 et 9 de la LIR.
+Les faits
+[3] Le président et unique actionnaire de l’appelante, Michael Zunenshine, et la vice-présidente et directrice financière de l’appelante, Maria Lerakis, ont tous deux témoigné au sujet des activités de l’appelante au fil des ans. D’après eux, les activités de l’appelante étaient réparties en deux catégories : d’une part, la construction et la vente, dans un but lucratif, d’immeubles d’habitation en copropriété (les bénéfices tirés des ventes étant considérés comme des revenus d’entreprise), et, d’autre part, la construction et/ou l’achat de biens à usage commercial, à titre d’investissements, dans le but de gagner un revenu locatif à long terme. Dans l’état des renseignements déposé auprès du Registraire des entreprises du Québec (pièce A-1, onglet 1, page 2, Activités économiques), l’appelante a décrit ainsi ces deux sphères d’activité : « promotion et construction de maisons individuelles », et « sociétés d’investissement ». Dans les états financiers, les biens mis en valeur en vue d’une vente figurent au bilan en tant qu’actif (à court terme), et les biens productifs apparaissent dans l’actif d’investissement à long terme (états financiers pour les années d’imposition 2000 à 2005, pièce A-1, onglet 3).
+[4] Les deux biens en question n’ont pas été inclus dans l’inventaire de l’appelante, mais ont été transférés dans l’actif d’investissement à long terme en 2002 (l’année d’acquisition du bien de l’avenue du Parc, et l’année d’achèvement de la construction du bien du chemin de la Côte-des-Neiges). Ce fait est attesté par les feuilles de travaux en cours, qui rendent compte du coût des deux biens (terrain et bâtiment). Le même coût indiqué est utilisé et inclus dans la liste des biens productifs (pièce A-1, onglet 5), et les soldes de clôture servent à calculer l’amortissement pris, comme le confirme le bilan de fin d’exercice de 2002 (états financiers de l’appelante pour l’année d’imposition terminée en 2002, pièce A-1, onglet 3-C, page 2 et page 8, note 7). En outre, le revenu locatif tiré des deux biens en question est calculé dans l’état du revenu locatif net, en même temps que le revenu locatif tiré de cinq autres biens productifs appartenant à l’appelante (pièce A-1, onglet 4).
+[5] M. Zunenshine a témoigné qu’il s’occupait de promotion immobilière depuis environ 60 ans. Avant d’investir par l’entremise de l’appelante, lui et son défunt frère avaient, par l’intermédiaire d’autres sociétés dont ils étaient copropriétaires, mis en valeur des biens à usage industriel, résidentiel ou commercial, ainsi que des immeubles d’habitation, pour en tirer des revenus locatifs. M. Zunenshine a dit qu’il avait entrepris 20 ans auparavant de liquider le portefeuille immobilier détenu conjointement par l’entremise de sociétés autres que l’appelante, et cela sur l’insistance de sa belle-sœur, lorsque le mari de celle-ci, frère de M. Zunenshine, avait commencé à souffrir de la maladie d’Alzheimer; son frère est décédé en décembre 2013. M. Zunenshine avait continué seul, reconstituant un portefeuille de biens immobiliers par l’entremise de l’appelante à partir de 1995.
+[6] Toutefois, au milieu des années 1990, obligé de s’adapter à une nouvelle réalité économique, il avait entrepris d’investir dans des immeubles d’habitation en copropriété comportant des locaux commerciaux au rez-de-chaussée. Les unités d’habitation en copropriété divise étaient aménagées pour être vendues à profit. Les locaux commerciaux apportaient un revenu locatif à long terme qui générait une capacité d’autofinancement (Transcription, pages 40, 84, 92 et 158).
+[7] Mme Lerakis a parlé de ses fonctions, qui consistent à surveiller la tenue des registres et les documents financiers établis au niveau interne. Elle a travaillé auprès des frères Zunenshine, et par la suite auprès de l’appelante, pendant au moins 25 ans. D’après son témoignage, l’appelante gère ses activités locatives commerciales, à l’aide de son propre personnel. Ces activités comprennent la négociation des baux, tâche qui revient pour l’essentiel à M. Zunenshine personnellement; la conservation de résumés de baux à l’aide d’un logiciel immobilier spécialisé de gestion des baux, afin de permettre au personnel de l’appelante d’accomplir les tâches précises que chacun pouvait avoir concernant les baux commerciaux conclus par l’appelante (des copies de tels résumés ont été produites sous la cote A-1, onglets 26 et 36, pour les deux biens en question); la rédaction de baux d’après des modèles de baux établis par l’appelante, que celle-ci modifie pour chaque locataire donné (des copies de baux vierges entre l’appelante et les divers locataires en 2002 et en 2003 ont été produites comme pièce A-1, onglets 28 (Bell), 37 (Telus), 38 (Soupe et Nouilles), 39 (Restaurant Mikes) et 41 (Soupe et Nouilles)). Mme Lerakis a dit que les copies signées étaient remises à l’acheteur lorsque les biens étaient vendus.
+[8] Il semble que les activités locatives de l’appelante ont connu une croissance continue depuis la date d’acquisition du premier bien en question, c’est-à-dire en 2000, jusqu’à la vente des deux biens en 2005. Le revenu brut total et le revenu net total avant et après dépréciation et amortissement (D et A) tirés de tous les biens locatifs entre 2000 et 2005 sont reproduits ci-dessous à partir des états du revenu locatif net pour les années d’imposition 2000 à 2005 (pièce A-1, onglet 4) :
+Revenu brut
+Revenu net avant D et A
+Après D et A
+Fin d’exercice 2000
+395 265 $
+107 661 $
+48 799 $
+Fin d’exercice 2001
+622 846 $
+207 147 $
+79 577 $
+Fin d’exercice 2002
+1 037 594 $
+161 719 $
+(34 349 $)
+Fin d’exercice 2003
+1 115 634 $
+261 087 $
+52 038 $
+Fin d’exercice 2004
+1 186 423 $
+348 767 $
+142 406 $
+Fin d’exercice 2005
+834 480 $
+(année de la vente de 4 biens)
+(37 596 $)
+(92 431 $)
+[9] Par ailleurs, l’appelante recourait à son propre personnel pour vendre les unités d’habitation en copropriété divise. Le personnel n’avait pas pour mandat ou directive de vendre les biens à usage commercial ni de trouver des acheteurs pour tels biens.
+Le bien de l’avenue du Parc
+[10] M. Zunenshine a témoigné qu’un courtier s’était adressé à lui pour l’achat du bien de l’avenue du Parc. Le bâtiment se composait à l’époque de locaux commerciaux au rez-de-chaussée, loués à Vidéotron, et de locaux sur le toit, loués à des sociétés de téléphonie cellulaire pour l’installation d’antennes. Les étages supérieurs se composaient de locaux administratifs vides que le propriétaire antérieur n’avait pas été en mesure de louer.
+[11] L’appelante avait acheté le bâtiment dans l’intention de transformer les bureaux en unités d’habitation en copropriété divise, pour revente, et de garder le rez‑de‑chaussée et le toit comme investissement permettant de gagner un revenu locatif et ainsi de reconstituer sa capacité d’autofinancement (témoignage de M. Zunenshine et de Mme Lerakis, Transcription, pages 16 et 17, 92, 101 et 158).
+[12] À la date d’acquisition, les locaux commerciaux étaient déjà loués. L’acte de vente a été signé le 21 juin 2002, et des lettres ont été envoyées le même jour aux trois locataires commerciaux pour les informer que l’appelante était la nouvelle propriétaire bailleresse (Acte de vente, pièce A-1, onglet 23, et lettres datées du 21 juin 2002, pièce A-1, onglet 24).
+[13] Selon le témoignage de M. Zunenshine, après l’acquisition, l’appelante a renouvelé le bail avec Bell pour un loyer supérieur, et elle a accru la taille des locaux loués par Vidéotron, moyennant une hausse du loyer de Vidéotron (Transcription, pages 16, 20 et 78 à 80). Les trois baux étaient des baux à long terme : un terme de cinq ans avec une option de cinq ans pour Vidéotron; un terme de cinq ans avec trois options de cinq ans pour Bell; un terme de 10 ans avec trois options de cinq ans pour Rogers (Fichier des loyers, pièce A-1, onglet 25; Rapport détaillé des résumés de baux, pièce A-1, onglet 26; avis d’inscription des droits au bureau de la publicité des droits par Rogers, pièce A-1, onglet 27; convention de bail avec Bell, pièce A-1, onglet 28; et avis d’inscription des droits au bureau de la publicité des droits par Bell, pièce A-1, onglet 29). En 2005, le total des loyers perçus dans l’année pour les trois locataires se chiffrait à 77 899,20 $ (Fichier des loyers pour l’avenue du Parc, pièce A-1, onglet 25).
+[14] En 2005, l’appelante a vendu le bien de l’avenue du Parc (la portion commerciale, c’est-à-dire le rez-de-chaussée et le toit) à la suite d’une offre non sollicitée. M. Zunenshine a témoigné avoir été approché plusieurs fois par le voisin de sa fille, M. Shaika, un monsieur d’Israël. Apparemment, M. Shaika avait montré à maintes reprises son vif intérêt pour le bien de l’avenue du Parc et avait offert en échange à M. Zunenshine de lui présenter des occasions d’investissement en Israël, ayant lui-même de très bonnes relations dans ce pays. M. Zunenshine souhaitait investir en Israël pour son autre fille et son gendre, qui y résidaient. C’est dans ce contexte qu’il avait finalement accepté de vendre à un prix plus bas que le prix auquel il aurait vendu dans d’autres circonstances (une remise de 10 p. 100 aurait été accordée à M. Shaika en échange de l’aide qu’il pourrait apporter à M. Zunenshine lorsque celui-ci ferait un investissement de valeur semblable en Israël, Transcription, pages 86 et 90). Peu après cette vente, M. Zunenshine s’est rendu plusieurs fois en Israël, où il s’est mis à faire des investissements immobiliers par l’entremise de M. Shaika. Mme Lerakis, qui a confirmé ce fait, avait elle-même participé à des voyages d’affaires liés à ces investissements en Israël (Transcription, pages 158 et 159). Le bien de l’avenue du Parc a été vendu le 1er novembre 2005.
+Le bien du chemin de la Côte-des-Neiges
+[15] Ce bien, stratégiquement situé au coin des chemins de la Côte‑des‑Neiges et de la Côte‑Sainte‑Catherine à Montréal, avait été exploité comme station-service par Shell, qui l’avait mis en vente. L’offre d’achat faite par M. Zunenshine n’avait pas été retenue, mais un certain M. Osher, qui avait pu mettre la main sur le bien par l’entremise d’une société, Brandev Properties Inc., avait communiqué avec M. Zunenshine pour lui proposer d’unir leurs efforts dans l’aménagement du bien. L’idée était de construire des unités d’habitation en copropriété divise, puis de les vendre à profit. M. Zunenshine et M. Osher ont affirmé qu’ils voulaient réserver le rez‑de‑chaussée pour des locaux commerciaux (en accord avec la réglementation municipale), qui seraient ensuite loués. Vu l’emplacement stratégique du bien (à proximité d’un hôpital et d’une université), ils croyaient que les unités d’habitation se vendraient rapidement et qu’il serait facile de trouver de bons locataires pour les locaux commerciaux.
+[16] Un accord de coentreprise a été conclu entre l’appelante et Brandev Properties Inc. (pièce A-1, onglet 33). Le bien a été par la suite acquis par l’appelante et S.O.S. Taxi Ltée, une société appartenant à M. Osher, et chacun des acheteurs détenait un intérêt de 50 p. 100 dans l’immeuble (acte de vente daté du 11 décembre 2000, pièce A-1, onglet 34).
+[17] La coentreprise a en fait conclu des baux à long terme avec trois locataires : Restaurant Mikes, qui occupait la surface la plus importante au rez-de-chaussée; le restaurant Soupe et Nouilles; et un franchisé Telus. Les baux prévoyaient des termes de 5 à 10 ans, et ils étaient assortis d’augmentations de loyer et d’options de renouvellement. La coentreprise a eu ses premiers locataires commerciaux au cours de l’année 2002 (Fichier des loyers, pièce A-1, onglet 35; Rapports détaillés des résumés de baux 2000-2005, pièce A-1, onglet 36; et les baux ainsi qu’un avis d’inscription des droits au bureau de la publicité des droits par Restaurant Mikes, pièce A-1, onglets 37 à 40). En 2005, le total des loyers de l’année s’est chiffré à 216 772 $ (pièce A-1, onglet 35).
+[18] En 2004, la coentreprise a contracté un emprunt garanti par une hypothèque sur les locaux commerciaux (extrait du répertoire des immeubles, pièce A-1, onglet 31). Les unités d’habitation étaient alors presque toutes vendues. Selon M. Osher, il est courant pour les propriétaires d’immeubles d’emprunter de l’argent comme fonds de roulement, puis d’utiliser les loyers pour rembourser l’emprunt.
+[19] En 2004, M. Zunenshine a été contacté par un courtier qui souhaitait acheter le bien. Selon M. Osher et lui-même, Restaurant Mikes, qui payait quand même encore son loyer, ne faisait pas de bonnes affaires et avait très peu de clients. Tous deux craignaient que le commerce ne déclare faillite. Le franchisé Telus louait également des locaux dans un autre immeuble du centre-ville appartenant à M. Osher, lequel connaissait des difficultés avec ce locataire à cet endroit, et M. Osher s’attendait aux mêmes difficultés avec ce locataire à l’emplacement sur le chemin de la Côte‑des‑Neiges (Transcription, pages 111 à 113). Pour ce qui est du troisième locataire, qui exploitait le restaurant Soupe et Nouilles, un conflit interne entre les associés et un défaut de paiement du loyer préoccupaient la coentreprise (un avis de résiliation du bail avait semble-t-il été envoyé à l’exploitant du restaurant Soupe et Nouilles en août 2003, mais cet avis avait été annulé après que la caution de Soupe et Nouilles avait rempli les obligations du restaurant, protocole d’accord, non signé, pièce A-1, onglet 42).
+[20] M. Osher a témoigné qu’il considérait au départ le bien du chemin de la Côte‑des‑Neiges comme un immeuble d’exception à cause de son emplacement et de son potentiel locatif à long terme. Malheureusement, les choses ne se sont pas passées comme il l’avait escompté. Il était inquiet et ne souhaitait pas s’exposer à l’éventualité d’une perte de locataires. C’est pourquoi, lorsque M. Zunenshine l’avait informé qu’une offre intéressante avait été faite pour l’achat des locaux commerciaux, il avait pensé que cette offre devrait être acceptée par la coentreprise, et M. Zunenshine avait donné son accord. D’après eux, ils avaient décidé de vendre à cause d’un changement des circonstances, et non parce qu’ils avaient pu avoir l’intention, à la date d’acquisition, de vendre le bien à profit (Transcription, page 114). Le 1er avril 2005, la coentreprise a vendu le bien du chemin de la Côte-des-Neiges.
+Autres faits signalés par l’intimée
+[21] L’intimée a fait observer qu’au cours d’une période de 10 ans (1997 à 2007), l’appelante avait déclaré, entre autres revenus, un revenu locatif brut total et un revenu total tiré de la vente de biens, ce qui représentait respectivement 3 p. 100 et 84 p. 100 du revenu total (rapport de vérification, tableau de répartition des revenus, pièce R-1, onglet 7, page 153). La liste des biens vendus durant cette même période montre qu’environ 24 projets immobiliers (la majorité étant des projets d’immeubles d’habitation en copropriété) ont été vendus par l’appelante (pièce R‑1, onglet 10, 2e et 3e pages). Il semble aussi que, au 9 juin 2008, à peu près 18 projets d’immeubles à usage d’habitation étaient en cours d’aménagement par l’appelante pour être vendus (pièce R-1, onglet 10, 1re page). De 2000 à 2005, l’appelante possédait de deux à sept immeubles locatifs (y compris sept en 2005, dont quatre ont été vendus cette année-là, pièce A-1, onglet 4, et onglet 2, annexe 6). L’appelante a reconnu avoir déclaré en 2005, pour la première fois, des gains en capital sur la vente de biens (alinéa 15 k) de la réponse à l’avis d’appel (la « réponse »), reconnue à l’audience).
+[22] L’intimée a aussi fait observer que la vente des locaux commerciaux de l’avenue du Parc avait eu lieu 91 jours après la vente de la dernière unité d’habitation en copropriété divise (alinéas 15 y) et bb) de la réponse). Ce fait n’a toutefois pas été reconnu par l’appelante. Il a été reconnu que la première unité d’habitation en copropriété divise avait été vendue en juillet 2003 et que l’appelante avait cédé le bien au syndicat des copropriétaires en juillet 2004 (alinéas 15 w) et x) de la réponse).
+[23] En ce qui concerne le bien du chemin de la Côte-des-Neiges, l’intimée, se référant à l’accord de coentreprise (pièce R-3, onglet 3, page 1), a relevé que l’objet indiqué dans le préambule de l’accord était [traduction] « l’aménagement et la construction d’un immeuble d’habitation en copropriété de quatre à six étages à usage commercial et à usage d’habitation » et que les copropriétaires avaient aussi exprimé leur volonté d’assurer, entre autres, [traduction] « la location ou vente et la gestion du bien ». L’accord prévoit aussi l’éventualité d’une offre d’achat du bien (autre que les locaux d’habitation) qui serait faite par un tiers et que l’un des copropriétaires souhaiterait accepter; dans un tel cas, l’autre copropriétaire avait le droit d’offrir autant que le tiers pour ainsi conserver le bien (partie 11 de l’accord, pièce R-3, onglet 3, page 6).
+[24] Il est admis que l’appelante a cédé le bien (la partie relative aux unités d’habitation en copropriété divise) au syndicat des copropriétaires en novembre 2003. L’appelante a reçu le 9 août 2004 une offre écrite d’achat des locaux commerciaux, offre qui a été acceptée le même jour (pièce A-1, onglet 43). Le bien a été vendu le 1er avril 2005, environ 18 mois après que l’appelante se fut départie des locaux d’habitation.
+[25] L’intimée a aussi fait observer que la société S.O.S. Properties, copropriétaire du bien du chemin de la Côte-des-Neiges, avait déclaré le produit de la vente comme revenu d’entreprise et non comme gain en capital.
+Arguments des parties
+[26] L’intimée a fait valoir que les deux opérations en question s’inscrivaient dans le cours normal des activités de l’appelante (à savoir achat, construction, rénovation et vente d’immeubles), ou, subsidiairement, que ces opérations constituaient un projet comportant un risque, ou une affaire de caractère commercial et que le profit réalisé sur la vente des deux biens devrait dans l’un et l’autre cas être considéré comme un revenu aux termes de l’article 9 de la LIR.
+[27] L’appelante, quant à elle, soutient avoir montré que son intention à la date d’acquisition des deux biens était de les conserver à des fins d’investissement, pour en tirer un revenu locatif, et non pour les intégrer dans son inventaire de biens (formant l’ensemble des unités d’habitation en copropriété divise) devant être vendus à profit.
+Analyse
+[28] Le paragraphe 248(1) de la LIR englobe dans la définition du mot « entreprise » les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et les projets comportant un risque ou les affaires de caractère commercial.
+[29] Du point de vue de l’appelante, d’une part elle exploite une entreprise qui achète des biens immobiliers et qui construit et vend des immeubles d’habitation en copropriété. D’autre part, les biens productifs, dont les deux biens en question, ne font pas partie des activités commerciales de l’entreprise, mais sont acquis et conservés à des fins d’investissement, et ils doivent donc être considérés comme des investissements de capitaux et non comme partie d’un projet comportant un risque, ou partie d’une affaire de caractère commercial.
+[30] Une décision de la Section de première instance de la Cour fédérale, Happy Valley Farms Ltd. c. La Reine, [1986] 2 C.T.C. 259, demeure très pertinente pour la question de savoir si une opération qui ne constitue pas un commerce ou une entreprise peut ou non être considérée comme un projet comportant un risque ou comme une affaire de caractère commercial. La Cour fédérale s’est exprimée ainsi, aux pages 262 à 264 :
+Depuis que l’impôt sur le revenu a été introduit au Canada, l’expression « un projet comportant un risque ou une affaire de caractère commercial » figurant dans la définition générale du terme « entreprise », dans le paragraphe 248(1) de la Loi de l’impôt sur le revenu, a fait l’objet de nombreux arrêts. Selon la disposition législative en question, le terme « entreprise ou affaire » comprend une profession, un métier, un commerce, une manufacture ou une activité de quelque genre que ce soit et comprend « un projet comportant un risque ou une affaire de caractère commercial mais ne comprend pas une charge ni un emploi ». L’examen le plus complet de l’expression « projet comportant un risque de caractère commercial » se trouve dans l’arrêt M.N.R. v. Taylor, [1956] CTC 189; 56 D.T.C. 1125 (C. de l’Éch.), dans lequel la Cour a énoncé un certain nombre de critères devant s’appliquer afin de déterminer dans quels cas une opération, qui ne constitue pas en soi un commerce ou une entreprise, peut être considérée comme « un projet comportant un risque ou une affaire de caractère commercial ». La décision montre clairement que dans des cas de ce genre, il s’agit de savoir si le bien a ou non été acquis par le contribuable à titre d’investissement. Dans la négative, tout gain retiré par le contribuable par suite de la vente du bien est imposable à titre de revenu. Pour déterminer si un bien a été acquis à titre d’investissement, il faut tenir compte de tous les faits de l’affaire en cause, et notamment du comportement du contribuable, de la nature de la propriété en cause, de la probabilité qu’un revenu soit tiré du bien sans qu’il soit nécessaire de revendre celui-ci et de la ressemblance de l’opération en question avec une opération commerciale.
+Plusieurs critères, dont un bon nombre sont semblables à ceux qui ont été énoncés par la Cour dans l’arrêt Taylor, ont été utilisés par les tribunaux afin de déterminer si un gain constitue un revenu ou s’il est imputable au capital. Mentionnons, entre autres choses, les critères suivants :
+1. La nature du bien qui est vendu. Presque tous les biens, quels qu’ils soient, peuvent être acquis pour qu’on en fasse le commerce, mais certains genres de biens, comme les produits manufacturés, qui sont en général commercialisés seulement, font rarement l’objet d’un investissement. Il y a plus de chances pour qu’un bien qui ne rapporte à son propriétaire aucun revenu ou qui ne lui procure aucune satisfaction personnelle du simple fait qu’il lui appartient soit acquis afin d’être vendu que le bien qui rapporte pareille [sic] revenu ou procure pareille satisfaction.
+2. La durée de la possession. En règle générale, les biens destinés à faire l’objet d’un commerce sont convertis en espèces peu de temps après avoir été acquis. Néanmoins, il existe de nombreuses exceptions à cette règle générale.
+3. La fréquence ou le nombre d’opérations similaires effectuées par le contribuable. Si des biens d’une catégorie particulière ont été vendus à maintes reprises pendant un certain nombre d’années ou si plusieurs ventes ont eu lieu vers la même époque, on peut présumer qu’il s’agissait d’opérations commerciales.
+4. Les améliorations faites sur le bien converti en espèces ou se rapportant à pareil bien. Si le contribuable s’efforce de mettre le bien dans un état qui lui permettre [sic] de le vendre plus facilement pendant qu’il en est propriétaire, ou s’il fait un effort particulier afin de trouver ou d’attirer des acheteurs (par exemple, en ouvrant un bureau ou en faisant de la publicité), la chose tend à prouver l’existence d’une opération commerciale.
+5. Les circonstances qui ont entraîné la vente du bien. Il peut exister certaines explications, comme un cas urgent ou une occasion nécessitant de l’argent en espèces, qui feront qu’il sera impossible de conclure que le bien a initialement été acquis à des fins commerciales.
+6. Le motif. Dans tous les cas de ce genre, le motif du contribuable est toujours pertinent. L’intention au moment de l’acquisition d’un bien, déduite à partir des circonstances et de la preuve directe, constitue l’un des éléments les plus importants aux fins de la détermination de la question de savoir si un gain constitue un revenu ou s’il est imputable au capital.
+Tous les facteurs précités ont été examinés par les tribunaux, mais c’est le dernier facteur, soit le motif ou l’intention, qui a été le plus étudié. Ce facteur, en plus de l’examen du comportement du contribuable dans son ensemble lorsqu’il avait le bien en sa possession, constitue ce qui, en fin de compte, influe sur la conclusion de la Cour.
+Ce critère a été précisé par les tribunaux canadiens et est devenu ce qui est généralement appelé le critère de l’« intention secondaire ». Cela a voulu dire, dans certains cas, que même s’il pouvait être établi que le contribuable avait principalement l’intention d’effectuer un investissement, un gain retiré par suite de la vente du bien serait jugé imposable à titre de revenu si la cour croyait qu’au moment de l’acquisition, le contribuable envisageait la possibilité de vendre le bien si pour quelque raison que ce soit, son projet d’investissement ne se matérialisait pas. Dans l’arrêt Racine, Demers and Nolin v. Minister of National Revenue, 65 DTC 5098 (C. de l’Éch.), le juge Noël a résumé comme suit le critère de l’intention secondaire, à la p. 5103 :
+[traduction]
+[…] le seul fait qu’une personne achetant un bien en vue de l’utiliser à titre de bien en immobilisations pourrait être portée à le revendre, si un prix suffisamment élevé lui était offert, ne suffit pas pour en faire un projet comportant un risque de caractère commercial. De fait, ce n’est pas là ce qu’il faut entendre par « intention secondaire », si je puis employer cette expression.
+Pour qu’une transaction qui implique l’acquisition de capitaux soit en même temps une initiative de caractère commercial, l’acheteur doit avoir l’intention, lors de l’achat, de revendre et ce doit être le motif de l’achat; c’est-à-dire qu’il doit avoir l’intention de revendre le bien à profit au lieu de l’immobiliser dès que surviendront certaines circonstances. D’une façon générale, si l’on décide qu’un tel motif existe, l’on doit se fonder sur des présomptions découlant des circonstances qui entourent la transaction plutôt que sur la déposition de l’acheteur quant à son intention.
+[31] Dans l’arrêt Canada Safeway Limited c. La Reine, 2008 CAF 24, 2008 DTC 6074, le juge Nadon a écrit que, bien que les tribunaux appliquent divers facteurs pour savoir si une opération constitue un projet comportant un risque de caractère commercial ou si elle constitue une opération en capital, le facteur le plus déterminant est l’intention qu’avait le contribuable au moment de l’acquisition du bien. Si cette intention révèle l’existence d’un plan visant la réalisation d’un bénéfice, alors le tribunal conclura que l’opération répond à la définition de projet comportant un risque de caractère commercial (paragraphe 43). Si l’intention première du contribuable est d’exploiter le bien, il est nécessaire de savoir également s’il a aussi acquis le bien en vue de le revendre à profit pour peu que l’occasion lui en soit offerte (l’intention secondaire) (paragraphes 48 et 50). Pour ce qui est de l’intention secondaire, le juge Nadon a ensuite rappelé le principe selon lequel, pour que l’opération soit considérée comme un projet comportant un risque de caractère commercial, il faut qu’au moment de l’acquisition, le contribuable ait eu à l’esprit la possibilité de revendre comme motif qui le poussait à faire cette acquisition. La conclusion qu'une telle motivation existe devrait être basée sur des inférences découlant des circonstances qui entourent la transaction, ce qui signifie que c’est le comportement du contribuable dans son ensemble qu’il faudra apprécier. Les critères de la doctrine de l’intention secondaire ne seront respectés que si la perspective de revente à profit a joué un rôle important dans la décision d’acquérir le bien (paragraphe 61).
+[32] La Cour d’appel fédérale a jugé dans cette affaire-là que Canada Safeway n’avait pas acquis sa participation dans la coentreprise avec l’intention de tirer un revenu de cette participation, c’est-à-dire en vue de générer des revenus locatifs, et sa participation ne devait pas non plus être utilisée pour exploiter son entreprise d’alimentation. La preuve autorisait la présomption de fait selon laquelle, dès le départ, Canada Safeway n’avait pas souhaité conserver sa participation dans la coentreprise pour une longue période, mais avait dans l’idée de la revendre à profit. La Cour a conclu qu’il ne s’agissait pas là d’un cas où la vente d’un bien est déclenchée par des circonstances imprévues, par exemple des difficultés financières ou des offres d’achat non sollicitées (paragraphes 70 et 71, et motifs concordants du juge Pelletier, paragraphe 81).
+[33] En l’espèce, il est vrai que M. Zunenshine et l’appelante font de longue date le commerce d’immeubles, plus exactement d’immeubles d’habitation en copropriété. L’intimée a fait valoir que c’est là un facteur pertinent qui exclut l’idée que les immeubles en question ont été achetés dans l’intention première d’acquérir des avoirs productifs (arrêt Vaughan Construction Co. v. M.N.R., [1970] C.T.C. 350, à la page 353, mentionné dans la décision Leonard Reeves Inc. v. M.N.R., [1985] 2 C.T.C. 2054, à la page 2059). Cependant, je suis persuadée que l’appelante a prouvé que sa ligne de conduite concernant les locaux productifs de loyers s’accorde avec une intention d’investir, ce qui n’est pas la même chose que les opérations immobilières. D’ailleurs, les documents comptables se rapportant à ces biens montrent clairement qu’ils n’étaient pas censés faire partie de l’inventaire, mais étaient déclarés comme investissements à long terme, soit dès la date d’acquisition (dans le cas du bien de l’avenue du Parc), soit à la date d’achèvement de leur construction (dans le cas du bien du chemin de la Côte‑des‑Neiges), en 2002 dans les deux cas. M. Zunenshine s’est exprimé sur ses longs antécédents dans la location d’immeubles, et sur sa volonté de reconstruire son portefeuille immobilier après qu’il avait dû compter sur lui seul au décès de son frère. Mme Lerakis a confirmé que c’était bien la ligne de conduite suivie par M. Zunenshine par l’entremise de l’appelante. La documentation interne (résumés de baux générés par un logiciel immobilier spécialisé de gestion des baux, projets de baux s’inspirant de baux types créés par l’appelante, registres comptables classant les biens productifs parmi les avoirs à long terme, et ne les incluant pas dans l’inventaire des biens immeubles) montre que le portefeuille immobilier de l’appelante comprenait des immeubles locatifs et que ces immeubles locatifs étaient séparés des opérations immobilières.
+[34] L’intimée a fait valoir que le bien de l’avenue du Parc avait été vendu 91 jours après la vente de la dernière unité d’habitation en copropriété divise comprise dans cet immeuble, et le bien de la Côte-des-Neiges, un an et demi après la vente de la dernière unité d’habitation en copropriété divise comprise dans cet immeuble. Elle a prétendu que l’appelante n’avait pas été longtemps propriétaire de ces deux biens, et, selon elle, cela montrait que les biens en cause faisaient partie de l’inventaire et que le gain réalisé sur leur vente devrait donc être considéré comme un revenu d’entreprise. En premier lieu, je relève que l’on ne connaît pas la date à laquelle les dernières unités d’habitation en copropriété divise ont été vendues. Deuxièmement, je reconnais avec l’appelante que la preuve ne révèle aucun lien entre la vente de la dernière unité d’habitation en copropriété divise et l’aliénation des locaux commerciaux. Si l’appelante avait eu à l’esprit, au moment de l’acquisition des locaux commerciaux, de les vendre plutôt que de les conserver pour en tirer un revenu locatif, alors on a du mal à voir pourquoi elle n’aurait pas pu s’en départir avant que la dernière unité d’habitation en copropriété divise ne soit vendue. L’appelante a durant trois ans tiré un revenu locatif des locaux commerciaux. Selon moi, le temps durant lequel elle en a été propriétaire n’est pas ici un facteur qui devrait de quelque façon influer sur la qualification du gain.
+[35] L’intimée a aussi fait valoir que seul un faible pourcentage du revenu total de l’appelante résultait de ces activités locatives. Selon moi, cela ne change rien au fait que les biens en question étaient véritablement détenus comme investissements immobiliers. D’ailleurs, comme l’a écrit le juge Dussault dans la décision Immeubles M.H.T. Ltée c. Ministre du Revenu national, 1992 CarswellNat 428, au paragraphe 30, 93 DTC 79, à la page 87, « un contribuable [peut] avoir deux approches différentes quant à la détention d’actifs immobiliers et […] ce n’est pas parce qu’il a déjà acquis un tel bien dans le but de le revendre à profit que toutes les transactions subséquentes qu’il effectue doivent être considérées comme donnant lieu à un revenu d’entreprise plutôt qu’à un gain en capital ».
+[36] Les deux biens en question se trouvaient à de bons emplacements; ils attiraient des locataires de longue durée et ils étaient en état de produire des loyers constants. Au fil des ans, le revenu locatif brut total s’est accru. Si l’on ajoute à cela que M. Zunenshine, par l’entremise de diverses entités, a toujours conservé parmi ses avoirs immobiliers des biens productifs, alors il y a lieu de croire que l’appelante a acquis ces biens comme partie de son portefeuille d’investissement.
+[37] Par ailleurs, l’investissement dans un bien productif, avec la perspective d’un accroissement de la valeur en capital, n’est pas nécessairement la preuve d’un achat à des fins de revente susceptible d’équivaloir au lancement d’un projet comportant un risque de caractère commercial (arrêt Hiwako Investments Ltd. v. R., 1978 CarswellNat 200, au paragraphe 7, 78 DTC 6281, à la page 6282 (CAF)). Le simple fait qu’une personne qui achète un bien en le considérant comme un investissement puisse être amenée à le revendre si un prix suffisamment élevé lui était offert ne suffit pas non plus à faire de l’acquisition du bien un projet comportant un risque de caractère commercial (décision Racine Demers and Nolin v. M.N.R., 65 DTC 5098, à la page 5103, [1965] C.T.C. 150, à la page 159). « Pour donner à une transaction qui comporte l’acquisition d’un capital le double caractère d’être aussi en même temps une initiative d’une nature commerciale, l’acquéreur doit avoir, au moment de l’acquisition, dans son esprit, la possibilité de revendre comme motif qui le pousse à faire cette acquisition » (décision Racine, précitée, 65 DTC, à la page 5103, et [1965] C.T.C., à la page 159). C’est ce que la jurisprudence appelle l’intention secondaire, ainsi que l’indique le juge Nadon dans l’arrêt Canada Safeway, précité.
+[38] Dans le présent appel, l’intention secondaire serait décelable, d’après l’intimée, parmi les moyens invoqués par elle dans la réponse. Cependant, cela ne saurait pour autant autoriser le ministre à présumer, au moment d’établir la cotisation, que l’une des motivations de l’acheteur du bien était l’espoir que, si l’investissement ne se révélait pas rentable, le bien pourrait être vendu à profit, ni que cet espoir était l’un des facteurs qui avaient amené le contribuable à faire l’achat (décision Hiwako, précitée, 78 DTC, aux pages 6284 et 6285 et 1978 CarswellNat 200, aux paragraphes 16 et 17). Les hypothèses de fait sur lesquelles se fonde le ministre, énoncées au paragraphe 15 de la réponse, comprenaient ce qui suit : [traduction] « [l]’intention de l’appelante lorsqu’elle a acquis le bien de l’avenue du Parc était de rénover le bâtiment, d’y aménager des unités d’habitation en copropriété divise et de les vendre à profit » (alinéa 15 n)); [traduction] « [l]’appelante a toujours eu l’intention de vendre à profit les locaux commerciaux » (alinéa 15 ff)); [traduction] « [l]’intention de l’appelante lorsqu’elle a acquis le bien du chemin de la Côte-des-Neiges était de vendre à profit toutes les unités d’habitation en copropriété divise » (alinéa 15 hh)); [traduction] « [l]’appelante a toujours eu l’intention de vendre à profit les locaux commerciaux (alinéa 15 vv)); et [traduction] « [l]’appelante a toujours su qu’elle pouvait vendre à profit les locaux commerciaux du bien de l’avenue du Parc et ceux du bien du chemin de la Côte‑des‑Neiges » (alinéa 15 zz)). Ces hypothèses ont trait selon moi à l’intention primaire ou à la véritable intention de l’appelante, qui, selon l’intimée, était d’acquérir les biens en question non pas pour les exploiter comme immeubles locatifs, mais pour les revendre à profit.
+[39] Comme le faisait remarquer le juge Dussault dans la décision Immeubles M.H.T., précitée, 93 DTC 79, à la page 86, 1992 CarswellNat 428, au paragraphe 23, l’appelante n’a pas la charge de prouver l’inexistence d’un fait sur lequel le ministre ne s’est pas fondé au moment d’établir la cotisation, et qui d’ailleurs n’était pas allégué dans les actes de procédures. Par conséquent, et comme c’était le cas dans l’affaire Immeubles M.H.T., puisque l’intention secondaire de revendre à profit n’était pas explicitement alléguée par l’intimée dans la réponse comme facteur décisif ayant motivé l’appelante à acheter les deux biens en question, l’appelante n’était pas tenue de prouver qu’elle n’avait aucune intention du genre (décision Immeubles M.H.T., précitée, 93 DTC 79, à la page 86).
+[40] En ce qui concerne le bien de l’avenue du Parc, je n’ai aucune raison de mettre en doute le témoignage de M. Zunenshine, qui affirmait avoir accepté de vendre le bien au voisin de sa fille, M. Shaika, sur l’insistance de celui-ci (et en échange de l’aide qu’il pourrait apporter à M. Zunenshine pour investir en Israël), à un prix inférieur au prix qu’il aurait pu demander sur le marché. Mme Lerakis a confirmé ce témoignage. Par ailleurs, la preuve ne montre pas que l’appelante avait possédé ce bien jusqu’à ce qu’elle puisse le revendre à profit, en en tirant, dans l’intervalle, des revenus locatifs (comme on peut le lire dans la décision Hazeldean Farm Co. Ltd. v. Minister of National Revenue, [1967] 1 R. C. de l’Éch. 245, à la page 256, citée dans l’arrêt Canada Safeway, précité, au paragraphe 49). Au contraire, M. Zunenshine a dit que l’appelante n’avait pas vendu ce bien au prix courant, mais l’avait vendu avec une remise de 10 p. 100 sur le prix de vente. Qui plus est, l’appelante avait effectué, sur les locaux commerciaux du bien, des travaux qui avaient permis d’obtenir des loyers plus élevés et de négocier avec au moins l’un des locataires existants des baux renouvelables de longue durée.
+[41] En ce qui concerne le bien du chemin de la Côte-des-Neiges, l’existence dans l’accord de coentreprise du droit conféré à un copropriétaire de faire une offre d’achat équivalant à celle d’un tiers et de conserver ainsi le bien aurait peut-être pu donner à l’appelante l’idée additionnelle qu’elle pouvait revendre le bien productif de loyers si les choses ne se passaient pas comme prévu. M. Zunenshine a cependant expliqué que les clauses de ce genre n’étaient pas inhabituelles et que la clause servait à protéger les copropriétaires de toute tentative de leur associé (agissant seul ou en concertation avec un tiers) de les désintéresser (Transcription, page 68). Cette clause s’appliquait d’ailleurs explicitement aux locaux commerciaux; aucune clause du genre n’était nécessaire pour les unités d’habitation en copropriété divise puisque les copropriétaires n’avaient pas l’intention de les conserver (Transcription, page 92). En fait, et comme je le mentionnais plus haut dans les présents motifs, M. Osher a témoigné qu’il avait d’abord considéré le bien du chemin de la Côte-des-Neiges comme un bien d’exception en raison de son emplacement et de son potentiel locatif à long terme. Malheureusement, les choses ne se sont pas passées comme il l’avait espéré. Il est devenu inquiet et ne souhaitait pas se trouver dans une situation où il leur faudrait perdre leurs locataires. C’est la raison pour laquelle, lorsque fut présentée l’offre non sollicitée, M. Osher avait dit à M. Zunenshine qu’il souhaitait accepter l’offre, et M. Zunenshine avait donné son accord.
+[42] Je partage aussi l’avis de l’appelante pour qui le préambule de l’accord de coentreprise, qui prévoit que l’objet de la coentreprise était, entre autres, la [traduction] « location ou vente » du bien, ne signifiait pas que la portion commerciale de l’immeuble devait être soit vendue, soit louée, mais signifiait plutôt, comme l’ont dit M. Zunenshine et M. Osher dans leurs témoignages, que l’activité de location se rapportait aux locaux commerciaux de l’immeuble et l’activité de vente aux unités d’habitation en copropriété divise (Transcription, pages 61 et 109).
+[43] En ce qui concerne le point soulevé par l’intimée, à savoir le fait que S.O.S Properties avait déclaré le produit de la vente comme revenu d’entreprise, M. Osher a expliqué qu’il ne connaissait rien à la comptabilité et qu’il ne savait pas comment son comptable avait qualifié le profit (Transcription, page 125). Je suis persuadée que cela n’entache pas nécessairement, d’une manière ou d’une autre, la crédibilité de M. Osher pour ce qui concerne son témoignage sur ce qu’était son intention à l’époque de l’investissement (M. Osher a confirmé le témoignage de M. Zunenshine selon lequel l’objet de la coentreprise était de vendre les unités d’habitation en copropriété divise et de conserver les locaux commerciaux du rez‑de‑chaussée comme bien locatif (Transcription, page 40 et page 109). Je serais plutôt d’avis que M. Osher, en raison de sa méconnaissance, n’avait pas évoqué avec son comptable la manière dont le profit réalisé sur la vente devrait être qualifié dans la déclaration de revenus de S.O.S. Properties pour l’année d’imposition 2005.
+[44] Si l’on tient compte du fait que le ministre n’a pas clairement envisagé l’intention secondaire de revente à profit comme facteur décisif ayant motivé l’appelante à acheter les biens en question, et que, par conséquent, la charge de prouver le contraire n’incombe pas à l’appelante, l’explication donnée par M. Osher et M. Zunenshine me satisfait, c’est-à-dire qu’ils ont accepté des offres non sollicitées, et cela pour des raisons indépendantes de leur volonté qu’il leur était impossible de prévoir à la date d’achat des biens.
+Dispositif
+[45] L’appel est accueilli et la nouvelle cotisation est déférée au ministre pour nouvelle cotisation, étant entendu que le profit réalisé sur la vente des deux biens en question a été dûment déclaré comme gain en capital, comme il est indiqué dans les livres comptables de l’appelante ainsi que dans sa déclaration de revenus pour l’année d’imposition 2005.
+Dépens
+[46] L’appelante a droit à ses dépens. À sa demande, elle devra déposer dans un délai de 30 jours après la date du présent jugement ses observations sur le montant des dépens réclamés. L’intimée aura 30 jours ensuite pour y répondre.
+Signé à Ottawa, Canada, ce 27e jour de juin 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 24e jour d’octobre 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2014 CCI 208
+NO DU DOSSIER DE LA COUR : 2011-3726(IT)G
+INTITULÉ : Les Propriétés Belcourt Inc./ Belcourt Properties Inc. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 4 mars 2014
+OBSERVATIONS ÉCRITES DE L’APPELANTE :
+Le 18 mars 2014
+OBSERVATIONS ÉCRITES DE L’INTIMÉE :
+Le 2 avril 2014
+RÉPLIQUE DE L’APPELANTE :
+Le 16 avril 2014
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 27 juin 2014
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Konstantinos Voggas
+Me Elisabeth Robichaud
+Avocate de l’intimée :
+Me Marie-France Camiré
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Konstantinos Voggas et Elisabeth Robichaud
+Cabinet : Sweibel Novek s.e.n.c.r.l.
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

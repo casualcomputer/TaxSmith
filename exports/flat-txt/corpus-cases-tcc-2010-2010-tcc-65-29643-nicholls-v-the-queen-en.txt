@@ -1,0 +1,73 @@
+Title: Nicholls v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29643/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-65-29643-nicholls-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-02-24
+
+# Nicholls v. The Queen
+
+- Citation: 2010 TCC 65
+- Decision date: 2010-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6150, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicholls v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-24
+Neutral citation
+2010 TCC 65
+File numbers
+2009-3459(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2010TCC65
+Date: 20100224
+Docket: 2009-3459(IT)G
+BETWEEN:
+PATRICK E. NICHOLLS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Sheridan, J.
+[1] By way of background, the Appellant represented himself at the hearing of the Respondent’s motion to dismiss the appeal of his 1998 taxation year. It was not clear from his Notice of Appeal, his evidence or his submissions in respect of the Respondent’s motion exactly what his intentions were in filing his appeal. After hearing from the parties, I granted the Respondent’s motion on the basis that:
+1. if the purpose of the Appellant’s appeal was to challenge the assessment of his 1998 taxation year, it must be dismissed because there was no tax payable in that year and there can be no appeal from a ‘nil’ assessment; and
+2. alternatively, if his appeal was in respect of his request for a determination of loss for the 1998 taxation year, then it must be quashed for being premature as, as of the date of this hearing, the Minister had not yet issued a Notice of Determination of Loss in respect of the 1998 taxation year.
+[2] After rendering the above decision from the Bench, I inadvertently deferred the question of costs to the trial judge. Having since realized this oversight, I have, pursuant to subsection 172(1) of the Tax Court of Canada Rules (General Procedure), turned my mind to the matter of costs. Notwithstanding the Respondent’s success in this motion, taking into account the Appellant’s self‑represented status and his financial straits[1], I am not satisfied that an order of costs against the Appellant is in the best interest of justice. Accordingly, it is hereby ordered that each party shall bear its own costs throughout.
+These Amended Reasons for Order are issued in substitution for the Reasons for Order dated February 9, 2010.
+Signed at Ottawa, Canada, this 24th day of February, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC65
+COURT FILE NO.: 2009-3459(IT)G
+STYLE OF CAUSE: PATRICK E. NICHOLLS AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 2, 2010
+REASONS FOR ORDER BY: The Honourable Justice G. A. Sheridan
+DATE OF AMENDED REASONS February 24, 2010
+FOR ORDER:
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Iris Kingston
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Order of Sheridan, J. dated November 6, 2009 waiving the General Procedure filing fee.

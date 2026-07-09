@@ -1,0 +1,175 @@
+Title: Yourkin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66838/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-48-66838-yourkin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-02-13
+
+# Yourkin c. La Reine
+
+- Citation: 2014 CCI 48
+- Decision date: 2014-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5952, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yourkin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-13
+Référence neutre
+2014 CCI 48
+Numéro de dossier
+2013-1430(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1430(IT)I
+ENTRE :
+WALTER YOURKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Audience tenue à Toronto (Ontario), le 10 février 2014.
+Devant : L’honorable Rommel G. Masse, juge suppléant
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est rejeté.
+L’appelant doit verser à l’intimée des dépens fixés à 625 $.
+Le présent jugement modifié remplace le jugement daté du 13 février 2014.
+Signé à Montréal (Québec), ce 4e jour de mars 2014.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 3e jour d’avril 2014
+S. Tasset
+Référence : 2014 CCI 48
+Date : 20140213
+Dossier : 2013-1430(IT)I
+ENTRE :
+WALTER YOURKIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] L’appelant fait appel de la cotisation établie à son égard par le ministre du Revenu national (le « ministre ») pour l’année d’imposition 2011. Il s’agit de décider s’il a le droit de déduire la somme de 13 587 $ qu’il aurait versée à son ex‑épouse, Phyllis Yourkin, à titre de pension alimentaire. Les paiements de pension alimentaire faits à l’ex‑épouse provenaient directement du régime de pension de l’appelant.
+Les faits
+[2] L’appelant et son ex‑épouse, Phyllis Yourkin, se sont mariés en 1959. Le mariage a connu l’échec et, en août 1994, le couple s’est finalement séparé.
+[3] Le 18 avril 1995, l’honorable juge O’Connell, de l’ancienne Cour de l’Ontario (Division générale), a ordonné à l’appelant de verser à son épouse, à titre provisoire, une pension alimentaire de 1 500 $ par mois. En application de cette ordonnance, l’employeur de l’appelant, Lever Brothers Limited, retenait sur le salaire qu’il lui versait le montant de la pension alimentaire dû à son épouse et les sommes étaient remises au Régime des obligations alimentaires envers la famille.
+[4] Le litige entre les époux a suivi son cours et, le 13 janvier 1997, l’honorable juge Walsh, de la Cour de l’Ontario (Division générale) a rendu un jugement (voir la pièce R‑1, onglet 4) au titre de l’égalisation des biens familiaux nets. Selon le paragraphe 4 de ce jugement, les droits de l’appelant dans le régime de pension d’Unilever Canada (le « régime de pension ») ont été divisés et l’ex‑épouse de l’appelant a eu droit à 42,5 % de toutes les prestations de pension payables à l’appelant. Le juge Walsh a ordonné la division de la pension de l’appelant en deux parties, l’une pour l’appelant et l’autre pour son ex‑épouse. En conséquence, l’administrateur du régime de pension devait se charger de verser à l’ex‑épouse sa part des prestations de pension sous forme de mensualités. Quant à l’ex‑épouse, elle devait indemniser l’appelant et le décharger des responsabilités fiscales se rapportant à sa part du régime de pension. En conséquence de ce jugement, Phyllis Yourkin devait recevoir sa part de la pension sous forme de versements périodiques provenant directement du régime de pension, et elle et l’appelant seraient imposés séparément en fonction des montants touchés par chacun. Par ailleurs, le jugement mettait un terme à l’obligation de l’appelant de verser une pension alimentaire à son ex‑épouse à partir du 1er janvier 1997. Pour rendre son jugement, le juge Walsh s’est fondé sur le procès‑verbal de transaction que les parties avaient censément signé (voir la pièce R‑1, onglet 5). Phyllis Yourkin a elle‑même signé le procès‑verbal de transaction, alors que les avocats représentant l’appelant à l’époque, Lang Michener LLP, l’ont signé au nom de leur client.
+[5] Au cours de l’année d’imposition 2011, l’appelant a touché du régime de pension un revenu de pension de 19 786 $. Dans le calcul de ses revenus pour cette année d’imposition‑là, il a déduit 13 587 $ au titre de paiements de pension alimentaire. Il n’est pas contesté que l’appelant n’a reçu aucune somme du régime de pension pour le compte de son ex‑épouse, qu’il n’a rien versé à cette dernière durant l’année d’imposition et qu’il n’a pas non plus payé d’impôt sur les 13 587 $ dont il demande la déduction au titre du paiement d’une pension alimentaire. En fait, son ex‑épouse était tenue au paiement de l’impôt imputable aux sommes qu’elle avait reçues du régime de pension.
+[6] Le ministre a refusé la déduction, estimant que les 13 587 $ demandés à cet égard ne correspondaient pas à une obligation alimentaire établie en faveur de l’épouse aux termes de la décision, de l’ordonnance ou du jugement d’un tribunal compétent, ou d’un accord écrit. La somme correspondait à l’égalisation des biens familiaux nets, en l’occurrence le régime de pension de l’appelant. Par conséquent, le ministre a conclu que l’appelant n’avait pas droit à la déduction pour pension alimentaire prévue à l’alinéa 60b) de la Loi de l’impôt sur le revenu, L.R.C. 1995, ch. 1 (5e suppl.) (la « Loi »), d’où le présent appel.
+La thèse de l’appelant
+[7] L’appelant prétend qu’il n’est pas lié par le jugement du juge Walsh daté du 13 janvier 1997 parce qu’il n’a pas signé le procès‑verbal de transaction qui a servi de fondement à ce jugement et qu’il n’a pas non plus autorisé les avocats qui le représentaient à l’époque à signer ce procès‑verbal en son nom. Par conséquent, il estime que l’ordonnance rendue par le juge O’Connell le 18 avril 1995 s’applique et que les sommes qui ont été versées à son ex‑épouse durant l’année d’imposition représentent des paiements de pension alimentaire qu’il a le droit de déduire de ses revenus.
+La thèse de l’intimée
+[8] L’intimée soutient que les sommes que Phyllis Yourkin a reçues du régime de pension sont la conséquence de l’égalisation des biens familiaux nets. Ces sommes ne lui ont pas été versées en tant que paiement d’une pension alimentaire établie aux termes de la décision, de l’ordonnance ou du jugement d’un tribunal compétent ou d’un accord écrit. Le juge Walsh a rendu une ordonnance valide et exécutoire qui n’a pas été portée en appel ni fait l’objet d’une annulation ou de quelque autre modification. Le jugement du juge Walsh a expressément mis fin à l’obligation de l’appelant de verser une pension alimentaire à son ex‑épouse et a opéré un partage des biens familiaux nets, dont les avoirs de l’appelant dans le régime de pension. L’appelant n’a versé aucune somme à son ex‑épouse durant l’année d’imposition et il n’a pas non plus payé d’impôt sur les sommes que cette dernière a reçues du régime de pension. L’appelant n’avait donc pas le droit de déduire ces sommes de ses revenus comme s’il s’était agi du versement d’une pension alimentaire.
+Les dispositions législatives applicables
+[9] Les dispositions applicables de la Loi sont les suivantes :
+56.1(4) Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+« date d’exécution » Quant à un accord ou une ordonnance :
+a) si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement;
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l’accord ou de l’ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d’exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l’accord ou l’ordonnance, ou dans toute modification s’y rapportant, pour l’application de la présente loi.
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+« pension alimentaire pour enfants » Pension alimentaire qui, d’après l’accord ou l’ordonnance aux termes duquel elle est à recevoir, n’est pas destinée uniquement à subvenir aux besoins d’un bénéficiaire qui est soit l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur, soit le parent, père ou mère d’un enfant dont le payeur est légalement l’autre parent.
+60. Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+b) Le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où
+A
+représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B
+le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C
+le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure;
+60.1(4) Les définitions figurant au paragraphe 56.1(4) s’appliquent au présent article et à l’article 60.
+Analyse
+a) La validité du jugement rendu par le juge Walsh
+[10] Je suis d’avis que le jugement prononcé par le juge Walsh en date du 13 janvier 1997 est valide et qu’il lie l’appelant. Il est clair que son ex‑épouse, Phyllis Yourkin, a signé le procès‑verbal de transaction et que le cabinet représentant l’appelant à l’époque, Lang Michener LLP, l’a signé au nom de l’appelant. Bien que l’appelant soutienne qu’il n’a pas autorisé ses avocats à signer ce procès‑verbal en son nom, il ne s’est pas soucié de faire appel du jugement ou de s’adresser à un tribunal compétent pour en obtenir l’annulation ou la modification.
+[11] Il est bien établi en droit qu’une ordonnance judiciaire est valide et exécutoire tant qu’elle n’a pas été infirmée ou annulée. Comme le signale la Cour suprême du Canada dans l’arrêt Wilson c La reine, [1983] 2 R.C.S. 594 (C.S.C.) :
+Selon un principe fondamental établi depuis longtemps, une ordonnance rendue par une cour compétente est valide, concluante et a force exécutoire, à moins d’être infirmée en appel ou légalement annulée.
+Et plus loin, dans ce même arrêt Wilson, précité, elle déclare :
+De plus, la jurisprudence établit très clairement qu’une telle ordonnance ne peut faire l’objet d’une attaque indirecte; l’attaque indirecte peut être décrite comme une attaque dans le cadre de procédures autres que celles visant précisément à obtenir l’infirmation, la modification ou l’annulation de l’ordonnance ou du jugement.
+Voilà précisément ce que l’appelant cherche à faire dans le cadre de la présente instance : il essaie d’attaquer indirectement la validité du jugement du juge Walsh, ce qu’il n’est pas autorisé à faire.
+[12] Il s’ensuit que le jugement du juge Walsh demeure valide et qu’il a force exécutoire. Je n’ai pas compétence pour arriver à une conclusion différente.
+[13] L’appelant fait valoir qu’il n’a jamais autorisé ses avocats de l’époque, Lang Michener LLP, à signer le procès‑verbal de transaction ni par ailleurs à engager des négociations en vue du règlement du litige l’opposant à son ex‑épouse. Il prétend donc qu’en conséquence, il ne peut être lié par ce procès‑verbal de transaction ni par le jugement du juge Walsh. Cet argument ne peut non plus être retenu.
+[14] Il est de droit constant que l’avocat, en qualité de mandataire de son client, a le pouvoir de négocier et de régler à l’amiable un différend intéressant son client et que ce dernier est lié par le règlement ainsi négocié. Dans l’arrêt Scherer c. Paletta [1966] 2 O.R. 524-527, le juge Evans, de la Cour d’appel de l’Ontario, a fait les remarques suivantes :
+[traduction]
+Les pouvoirs d’un procureur découlent de son mandat et, en ce qui concerne son client, ils se limitent aux transactions auxquelles s’étend ce mandat et sont subordonnés aux restrictions qui y sont précisées. Toutefois, il n’en va pas de même à l’égard des tiers avec qui le procureur traite. Le pouvoir de transaction d’un procureur peut s’inférer de son mandat de résoudre un litige à moins qu’une disposition restreignant ce pouvoir ne soit communiquée à la partie adverse. Le client qui retient les services d’un procureur pour une affaire particulière investit ce dernier des pouvoirs d’un mandataire chargé de mener à bien l’affaire qu’on lui a confiée. En principe, le procureur est le mandataire du client et il est autorisé à le représenter dans toute affaire qui doit faire l’objet d’une décision et qui est la conséquence normale de son mandat. Lorsqu’un mandant donne à un mandataire le pouvoir général de conduire en son nom une affaire, le mandant est responsable envers les tiers de tout acte accompli par son mandataire dans le cours ordinaire de cette affaire, ou de tout acte accompli dans les limites apparentes de ses pouvoirs. Entre le mandant et le mandataire, les pouvoirs peuvent être restreints par un accord ou par des directives spéciales; mais à l’égard des tiers, le mandataire détient les pouvoirs qui s’infèrent normalement de la nature de son travail et de ses obligations. […]
+Le procureur dont le mandat est établi dans le cadre de procédures particulières peut lier son client en concluant une transaction relativement à ces procédures, à moins que le client n’ait restreint ses pouvoirs et que la partie adverse n’en ait eu connaissance, sous réserve, dans tous les cas, du pouvoir discrétionnaire de la cour, si on sollicite son intervention pour qu’elle rende une ordonnance, de faire enquête sur les circonstances entourant l’affaire et d’accepter ou de refuser d’intervenir si elle le juge opportun; et sous réserve aussi de l’incapacité du client. […] Par contre, lorsque les parties sont majeures et capables et que ni l’existence du mandat ni les modalités de l’entente conclue par les procureurs ne sont contestées, la Cour ne cherchera pas à découvrir si le client a imposé quelque restriction aux pouvoirs de son procureur.
+[15] Au paragraphe 4 de l’arrêt Sourani c. Canada, [2001] A.C.F. no 904, le juge Malone, de la Cour d’appel fédérale, fait les observations suivantes :
+[…] L’avocat est le représentant autorisé de son client en ce qui concerne toutes les questions dont on peut raisonnablement s’attendre à ce qu’elles soient soulevées dans le cadre de l’instance précise pour laquelle ses services ont été retenus. M. Sourani a autorisé le dépôt d’un avis d’appel et il faut présumer que l’avocat qui a déposé l’avis d’appel était autorisé à conclure des ententes ou à faire des compromis dans le cadre du procès qui a suivi le dépôt de l’avis d’appel. Il se peut qu’il y ait eu une restriction de pouvoirs dans le mandat que M. Sourani a confié à son avocat, mais cette restriction ne liait ni le juge de la Cour de l’impôt ni l’avocat du ministre qui n’était pas au courant de cette restriction (Scherer v. Paletta, [1966] 2 O.R. 524, aux pages 526 et 527(C.A.)).
+Il ajoute, au paragraphe 6 :
+L’avocat de M. Sourani avait le pouvoir apparent et manifeste de signer les ententes du 28 avril 1995 et du 25 mai 1995. M. Sourani est par conséquent lié par ces ententes et la question du pouvoir de son avocat de les conclure n’est pas une question que la Cour de l’impôt doit réexaminer. Je ne formule aucun commentaire sur la question de savoir si M. Sourani peut exercer un autre type de recours contre son avocat.
+[16] Ainsi, bien que l’appelant n’ait pas signé le procès‑verbal de transaction et qu’il prétende ne pas avoir autorisé ses avocats à le signer en son nom, il est lié par le jugement du juge Walsh envers tout tiers et notamment, de son ex‑épouse.
+b) Les principes de la chose jugée et de la préclusion
+[17] L’intimée invoque les principes relatifs à la chose jugée et fait valoir que l’appelant ne peut, pour clause de préclusion, remettre la même question en litige. Ce n’est pas la première fois que M. Yourkin s’adresse à la Cour au sujet de cette question. Il a déjà contesté sans succès les cotisations d’impôt établies à son égard pour les années d’imposition 2001, 2002, 2003, 2005, 2006 et 2009. Dans tous ces appels antérieurs, les parties étaient les mêmes, la question en litige était identique et les faits invoqués ne différaient pas, sauf en ce qui concerne les années d’imposition visées et, peut-être, les sommes en jeu. Dans tous ces appels, l’appelant a avancé le même argument, à savoir qu’il n’était pas lié par le jugement du juge Walsh pour les motifs déjà évoqués. Cet argument a été rejeté par le juge McArthur dans Yourkin v. R., [2004] 2 C.T.C. 2166 (C.C.I.), par le juge Paris dans Yourkin v. R., [2006] 3 C.T.C. 2559 (C.C.I.), par le juge Margeson dans Yourkin c. La Reine., 2008 CCI 686 et, enfin, par la juge Sheridan dans Yourkin c. La Reine, 2011 CCI 557.
+[18] Que l’on considère la situation sous l’angle de la chose jugée ou de la préclusion, le résultat est identique. Puisque les parties, les faits en cause et la question litigieuse étaient les mêmes, le résultat doit nécessairement être le même. L’affaire a été tranchée de manière définitive et les jugements antérieurs n’ont pas été portés en appel. Il s’agit donc de jugements définitifs et je suis lié par eux. Et même si j’estimais ne pas être lié par les jugements des juges McArthur, Paris, Margeson et Sheridan, je n’en souscrirais pas moins à ces décisions.
+c) Les frais et dépens
+[19] L’avocate de l’intimée sollicite une ordonnance quant aux frais et dépens. Il est rare que la Cour canadienne de l’impôt alloue des dépens lorsque l’appelant opte pour la procédure informelle. Cela dit, aux articles 10 et 11 des Règles de la Cour canadienne de l’impôt (procédure informelle) (les « Règles »), DORS/90-688, dans leur version modifiée, la question des frais et dépens est laissée à la discrétion de la Cour.
+[20] En effet, l’article 10 des Règles prévoit ce qui suit :
+10.(1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) La Cour ne peut allouer les frais à l’intimé que si les actions de l’appelant ont retardé indûment le règlement prompt et efficace de l’appel et ce, jusqu’à concurrence des sommes prévues à l’article 11.
+(3) La Cour peut ordonner le paiement d’une somme forfaitaire, au lieu des dépens taxés.
+[21] L’article 11, quant à lui, prévoit :
+11. Lors de la taxation des dépens entre parties, les honoraires suivants peuvent être adjugés pour les services d’un avocat :
+[…]
+b) la préparation de l’audience — 250 $ ;
+c) l’audience — 375 $ pour chaque demi-journée ou fraction de celle-ci;
+[…]
+[22] Dans l’arrêt Fournier c. R., 2005 G.T.C. 1398, la Cour d’appel fédérale fournit quelques indications quant à l’usage qui peut être fait du pouvoir d’adjuger des dépens. En effet, le juge Létourneau y déclare clairement que la Cour canadienne de l’impôt possède le pouvoir inhérent de prévenir et de contrôler un abus de ses procédures : voir également Yacyshyn c. R., A.C.F. no 196 (C.A.F.). Or, l’adjudication de frais ou dépens se veut l’un des mécanismes de prévention ou de réparation des abus de délai ou de procédure : voir Blencoe c. Colombie‑Britannique (Human Rights Commission), [2001] 2 R.C.S. 307 (C.S.C.). Il ne fait aucun doute que l’adjudication de dépens peut servir à dissuader les plaideurs d’introduire des procédures qui, manifestement, sont dépourvues de tout fondement et n’ont aucune chance de succès.
+[23] Dans la décision Graham c. La Reine, 2013 CCI 294, le juge Boyle, de la Cour, a condamné aux dépens l’appelant, dont il venait de rejeter l’appel, après avoir conclu que celui‑ci avait avancé des arguments qu’il savait vides de sens et sans fondement et qu’il avait ainsi donné lieu à une procédure complètement inutile, retardant par le fait même le règlement prompt et efficace de son appel en matière d’impôt par le rejet de l’action. Le juge Boyle a fixé les dépens conformément à l’article 10 des Règles à 375 $, soit le montant prévu par l’alinéa 11c) des Règles pour une demi‑journée d’audience ou moins.
+[24] Dans l’affaire R. c. Yourkin (2 juin 2010; 2010-382(IT)I), le juge Hogan a rejeté l’appel de M. Yourkin en exposant succinctement et de vive voix les motifs de sa décision. Toutefois, il a refusé d’adjuger des dépens, n’étant pas convaincu que l’appelant avait les moyens de les payer. Or, il est évident que M. Yourkin n’a pas été le moindrement découragé de poursuivre des appels dénués de fondement. Il sait que ses arguments sont « vides de sens et sans fondement », pour reprendre l’expression du juge Boyle dans Graham. Le présent appel est une procédure complètement inutile qui était vouée à l’échec. Le fait que M. Yourkin ait déposé un appel devant la Cour pour débattre d’une question qui a déjà fait l’objet de nombreuses décisions défavorables à son endroit tout en sachant qu’il sera débouté une fois de plus constitue un recours abusif à la Cour. Conformément à l’article 10 et aux alinéas 11b) et c) des Règles, je le condamne à payer des dépens de 250 $ pour la préparation de l’audience et de 375 $ pour une demi‑journée d’audience, ce qui fait 625 $ au total.
+Conclusion
+[25] Il ressort clairement des termes du procès‑verbal de transaction et du jugement rendu par le juge Walsh que la question de la pension alimentaire pour époux et celle du partage des prestations de pension ont été traitées séparément; les prestations de pension faisant partie du règlement relatif à l’égalisation des biens, et non du régime de l’obligation alimentaire envers l’époux. En fait, d’après le procès‑verbal de transaction et le jugement, l’appelant n’était plus tenu au paiement d’une pension alimentaire. Le jugement du juge Walsh a eu pour effet de scinder les prestations, de telle manière qu’au moment où elles sont devenues payables, la part de chacun des ex-époux lui était payée directement. Cette part constituait pour chacun un revenu lui étant propre. Chacun était tenu au paiement de l’impôt sur les sommes qu’il touchait. En 2011, Phyllis Yourkin n’a reçu aucun paiement de pension alimentaire de l’appelant puisque celui‑ci n’avait plus l’obligation de lui en verser une. Elle n’a reçu que les paiements mensuels représentant la part qui lui revenait dans le régime de pension, lequel constituait un bien familial. De plus, l’appelant n’a pas payé d’impôt sur les sommes versées à Phyllis Yourkin par son régime de pension. Il n’a versé aucune somme à Phyllis Yourkin. Il serait par conséquent illogique qu’il puisse demander une déduction pour une somme qu’il n’a jamais versée. Le versement d’une partie des prestations de pension par le régime de pension ne peut pas être considéré comme étant un paiement fait par appelant à son ex‑épouse.
+[26] En conclusion, l’appelant n’a versé à son ex‑épouse aucune pension alimentaire au cours de l’année d’imposition en cause aux termes de l’ordonnance rendue par un tribunal compétent. Il s’ensuit qu’il ne peut pas demander que des versements de pension alimentaire soient déduits de ses revenus.
+[27] Par conséquent, l’appel est rejeté.
+[28] L’appelant doit verser à l’intimée des dépens fixés à 625 $.
+Signé à Toronto (Ontario), ce 13e jour de février 2014.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 2e jour d’avril 2014
+S. Tasset
+RÉFÉRENCE : 2014 CCI 48
+NO DU DOSSIER DE LA COUR : 2013-1430(IT)I
+INTITULÉ : WALTER YOURKIN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 10 février 2014
+MOTIFS DU JUGEMENT : L’honorable Rommel G. Masse, juge suppléant
+DATE DU JUGEMENT : Le 13 février 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lindsay Beelen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

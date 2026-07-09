@@ -1,0 +1,161 @@
+---
+title: "Chandler v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26109/index.do"
+last_modified: "2003-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 34"
+citation2: ""
+neutral_citation: "2003 CCI 34"
+decision_date: "2003-05-13"
+language: "fr"
+item_id: "26109"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4170
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:11:26.872000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3bdd26cfc0ae2b05404ea15047a0f285094a7c2ad78e79ecfed50a9ef9e8b2bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chandler v. The Queen
+
+- Citation: 2003 CCI 34
+- Decision date: 2003-05-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4170, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chandler v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-13
+Référence neutre
+2003 CCI 34
+Numéro de dossier
+2002-2078(IT)I
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-2078(IT)I
+ENTRE :
+PAUL CHANDLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 15 janvier 2003, à Victoria (Colombie-Britannique).
+Devant : L'honorable juge Michael J. Bonner
+Comparutions :
+Avocat de l'appelant :
+Me D. Laurence Armstrong
+Avocat de l'intimée :
+Me Victor Caux
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation d'impôt sur le revenu pour l'année d'imposition 1999 est admis et la cotisation est déférée au ministre du Revenu national pour nouvelle cotisation afin de supprimer le montant en cause.
+Signé à Toronto (Ontario), ce 13e jour de mai 2003.
+« Michael J. Bonner »
+J.C.C.I.
+Traduction certifiée conforme
+ce 11e jour de mars 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI34
+Date: 20030513
+Dossier: 2002-2078(IT)I
+ENTRE :
+PAUL CHANDLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bonner, C.C.I.
+[1] Il s'agit d'un appel de la cotisation d'impôt sur le revenu pour l'année d'imposition 1999 de l'appelant. La cotisation a été établie en tenant pour acquis qu'au cours de l'année concernée, Charter Telecom Inc. (Charter) a conféré un avantage à l'appelant. Ce dernier possédait 60 p. 100 des actions de Charter. De l'avis du ministre du Revenu national (le « ministre » ), la valeur de l'avantage en cause devait être incluse dans le revenu de l'appelant conformément au paragraphe 15(1) de la Loi de l'impôt sur le revenu (la « Loi » ). L'avantage est considéré avoir été conféré lorsque Charter a érigé un immeuble à ses frais sur un terrain qui appartenait à l'appelant. Le coût de l'immeuble pour Charter s'est élevé à 31,707 $.
+[2] En 1999, l'appelant était propriétaire de fait d'un lopin de terre de 56 acres (le bien Impala) situé environ 15 milles à l'extérieur de la ville de Victoria. L'appelant habitait une maison située sur ce bien.
+[3] Charter a été constituée en 1997; elle avait pour objectif de concevoir et de vendre des réseaux informatiques. Elle avait besoin d'un bureau pour exploiter son entreprise. L'espace était nécessaire à ses fins générales, dont les rencontres avec les clients ainsi que le montage et l'entreposage temporaire des différentes composantes des réseaux. À ces fins, Charter se servait d'une grange située sur le bien Impala, mais l'espace utilisé dans la grange était plutôt primitif et l'accès à l'immeuble n'était pas facile.
+[4] Charter a donc engagé un entrepreneur pour dessiner et construire un immeuble convenable sur le bien Impala. Les travaux de construction du nouvel immeuble ont débuté; il devait comprendre un étage, soit un garage au rez-de-chaussée et un bureau à l'étage. La construction a cessé avant que les cloisons sèches et l'isolation ne soient posées. Les travaux alors faits l'ont été aux frais de Charter.
+[5] L'intimée a plaidé dans la réponse à l'avis d'appel qu'en établissant la cotisation de l'appelant, le ministre s'est fondé sur des hypothèses de fait, dont les suivantes :
+[TRADUCTION]
+b) en 1999, l'appelant était actionnaire et administrateur de Charter;
+c) en 1999, l'entreprise de Charter était située au 3786, Belgrave Road, à Victoria;
+d) la résidence principale de l'appelant est le bien résidentiel;
+e) Charter a payé le coût de la construction d'un garage distinct à étage pour deux autos (le « garage » ) érigé sur le bien résidentiel;
+f) en 1999, la société a versé 31 707 $ pour le coût de la construction du garage;
+g) l'appelant a engagé un entrepreneur pour construire le garage;
+h) l'appelant a ordonné à Charter de payer les frais de construction du garage;
+i) en 1999, le garage a été assuré par l'appelant en vertu de sa police d'assurance de propriétaire;
+j) en 1999, l'appelant a utilisé le garage pour y garer ses véhicules personnels;
+k) l'appelant est propriétaire du garage;
+l) en 1999, Charter n'avait pas de droit de tenure à bail dans le garage;
+m) en 1999, Charter n'avait conclu avec l'appelant aucune entente de location du garage;
+n) l'appelant n'a pas déclaré l'avantage en cause dans le calcul de son revenu pour l'année d'imposition 1999.
+[6] Les hypothèses avancées suggèrent que le répartiteur avait une compréhension des faits incomplète et quelque peu inexacte. Les éléments de preuve présentés à l'audition de l'appel, particulièrement le témoignage de l'appelant, appuient les remarques suivantes au sujet desdites hypothèses :
+Hypothèses
+Remarques
+b)
+L'appelant ne détenait que 60 p. 100 de l'avoir; le reste était détenu par une personne non liée;
+c)
+3786 Belgrave était uniquement une adresse postale; Charter n'y exploitait pas son entreprise;
+e)
+Le mot « garage » est une description incomplète et donc plutôt trompeuse de la structure projetée;
+e), g), h)
+L'appelant, en sa qualité d'administrateur de Charter, a pris les mesures décrites pour répondre au besoin réel d'espace supplémentaire de la société pour l'exploitation de l'entreprise;
+j)
+Inexact;
+l), m)
+Charter a été négligente en omettant de documenter correctement l'arrangement projeté;
+h)
+La question est de savoir si un avantage au sens de l'article 15 a été conféré; si tel est le cas, il est évident que sa valeur aurait dû être déclarée.
+[7] Le ministre semble avoir tenu pour acquis que la valeur de l'avantage correspondait à la somme déboursée par Charter. Les parties n'ont pas traité de la question de savoir de combien, le cas échéant, s'était accru l'intérêt de l'appelant dans le bien Impala en raison de la somme déboursée.
+[8] L'alinéa 15(1)a) de la Loi est rédigé comme suit :
+(1) La valeur de l'avantage qu'une société confère, à un moment donné d'une année d'imposition, à un actionnaire ou à une personne en passe de le devenir est incluse dans le calcul du revenu de l'actionnaire pour l'année - sauf dans la mesure où cette valeur est réputée par l'article 84 constituer un dividende - si cet avantage est conféré autrement que :
+a) par la réduction du capital versé, le rachat, l'annulation ou l'acquisition, par la société, d'actions de son
+capital-actions ou à l'occasion de la liquidation, cessation ou réorganisation de son entreprise, ou par une opération à laquelle l'article 88 s'applique;
+[...]
+Cette disposition remplace l'article 8 de la Loi dans sa forme antérieure à 1972. Sa place dans la Loi a été considérée dans la décision M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184. À la page 5186, le juge Cattanach a déclaré :
+[TRADUCTION]
+Les versements et les répartitions normaux d'une société à un actionnaire en cette qualité sont :
+a) les dividendes au cours de l'existence de la société,
+b) les versements et les répartitions du capital au cours de l'existence de la société,
+c) les versements et les répartitions au moment de la liquidation de la société.
+Les dispositions de la Loi de l'impôt sur le revenu, autres que l'article 8, régissent l'assujettissement à l'impôt de ces versements et répartitions lorsqu'ils sont effectuées de façon orthodoxe. Dans le reste du jugement, lorsque je fais mention de dividendes, il faut entendre par ce terme n'importe lequel ou laquelle de ces versements ou répartitions mentionnés dans ce paragraphe.
+Le paragraphe (1) de l'article 8 vise les versements, les répartitions et les avantages que reçoit un actionnaire de la part de la société, à l'exception de ceux mentionnés au paragraphe précédent. Bien que le paragraphe (1) ne le mentionne pas expressément, il est permis d'inférer que le législateur entendait, par l'article 8, inclure les versements, les répartitions et les avantages que reçoit un actionnaire de la part de la société d'une façon autre que par l'octroi de dividendes et dont on pourrait s'attendre à ce qu'ils revêtent cette forme plus traditionnelle si la société et l'actionnaire traitaient sans lien de dépendance. Tel est le cas de l'alinéa a) du paragraphe (1). Une société fait normalement des versements à ses actionnaires sous forme de dividendes sauf si le versement se fait dans le cadre d'une transaction commerciale véritable. Dans ce cas, il ne s'agit pas d'un versement effectué à l'actionnaire en tant qu'actionnaire.
+[...]
+Par ailleurs, il y a des transactions effectuées entre des corporations et le groupe fort restreint d'actionnaires qui les dominent, qui sont des moyens ou des mesures accordant des bénéfices ou avantages aux actionnaires en tant qu'actionnaires; il est clair que l'alinéa c) s'applique à de telles transactions. (Comparer l'arrêt Robson v. M.N.R., [1952] 2 S.C.R. 223 [52 DTC 1088].) C'est une question de fait de déterminer si une transaction qui paraît, à première vue, être une transaction ordinaire est en fait un moyen ou une mesure de ce genre.
+[...]
+[9] Les travaux de construction ont débuté en 1998 et ils ont été terminés, en grande partie, au cours de l'automne de l'année où le paiement a été effectué à l'entrepreneur. Le coût de l'immeuble a été inscrit dans les états financiers de Charter à titre d'amélioration apportée à la tenure à bail. L'immeuble a été assuré, le montant de sa perte étant payable à Charter. La nouvelle structure n'a pas été utilisée ni par l'appelant ni par Charter en 1999.
+[10] Le premier janvier 2002, l'appelant et Charter ont conclu un bail écrit en leurs qualités respectives de propriétaire et de locataire. Le bien loué était [TRADUCTION] « la partie de 1979 Impala Road à Victoria (C.-B.) décrite comme mesurant environ 28 pieds sur 28 pieds, aux fins d'y construire un immeuble de bureaux. » La durée du bail était de dix ans à partir du premier janvier 2002. Le loyer annuel était 1 200 $ payable mensuellement en tranches de 100 $.
+[11] Une modification postérieure du bail autorisait la locataire à ériger une structure et prévoyait de plus que la structure devait être et demeurer l'entière propriété de la locataire. Cette dernière était autorisée à enlever la structure à la fin du bail.
+[12] Naturellement, un bail conclu en 2002 ne peut, rétroactivement, retirer un avantage qui aurait été conféré en 1999. Cependant, à mon avis, les documents de 2002 n'ont fait que rendre officielle une mesure du genre envisagée dès le début. Le défaut de dûment consigner la mesure n'est qu'un oubli, rien de plus. Dans son témoignage, que j'accepte, l'appelant indique que la construction de l'immeuble aux frais de Charter répondait au besoin d'espace requis par cette dernière pour exploiter son entreprise. Il ne s'agit pas d'un moyen ou d'une mesure visant à conférer un avantage à l'appelant en tant qu'actionnaire. Je souligne que l'intimée n'a pas fait valoir que le ministre s'était fondé sur une hypothèse différente. Il s'ensuit qu'aucun avantage au sens de l'article 15 n'a été conféré. L'appel est donc admis et la cotisation est déférée au ministre du Revenu national pour nouvelle cotisation afin de supprimer le montant en cause.
+Signé à Toronto (Ontario), ce 13e jour de mai 2003.
+« Michael J. Bonner »
+J.C.C.I.
+Traduction certifiée conforme
+ce 11e jour de mars 2005.
+Sophie Debbané, réviseure

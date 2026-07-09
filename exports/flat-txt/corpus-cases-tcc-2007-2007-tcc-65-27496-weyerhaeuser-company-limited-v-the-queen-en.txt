@@ -1,0 +1,589 @@
+Title: Weyerhaeuser Company Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27496/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-65-27496-weyerhaeuser-company-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-31
+
+# Weyerhaeuser Company Limited v. The Queen
+
+- Citation: 2007 TCC 65
+- Decision date: 2007-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 54, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Weyerhaeuser Company Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-31
+Neutral citation
+2007 TCC 65
+File numbers
+2004-520(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC65
+Date: 20070131
+Docket: 2004-520(IT)G
+BETWEEN:
+WEYERHAEUSER COMPANY LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] Paragraph 153(1)(g) of the Income Tax Act[1] (the Act) makes provision for withholding from a payment of fees, or other amounts paid for services, of an amount on account of the payee's potential liability for tax under the Act.
+153(1) Every person paying at any time in a taxation year
+(a) ...
+(g) fees, commissions or other amounts for services, other than amounts described in subsection 212(5.1),
+shall deduct or withhold from the payment the amount determined in accordance with prescribed rules and shall, at the prescribed time, remit that amount to the Receiver General on account of the payee's tax for the year under this Part or Part XI.3, as the case may be, and, where at that prescribed time the person is a prescribed person, the remittance shall be made to the account of the Receiver General at a designated financial institution.
+153(1)Toute personne qui verse au cours d'une année d'imposition l'un des montants suivants:
+a) ...
+g) des honoraires, commissions ou autres sommes pour services, à l'exception des sommes visées au paragraphe 212(5.1);
+doit en déduire ou en retenir la somme fixée selon les modalités réglementaires et doit, au moment fixé par règlement, remettre cette somme au receveur général au titre de l'impôt du bénéficiaire ou du dépositaire pour l'année en vertu de la présente partie ou de la partie XI.3. Toutefois, lorsque la personne est visée par règlement à ce moment, la somme est versée au compte du receveur général dans une institution financière désignée.
+To give effect to this provision in the context of payments to non-residents, the Governor in Council enacted section 105 of the Income Tax Regulations (the Regulations).[2]
+105(1) Every person paying to a non-resident person a fee, commission or other amount in respect of services rendered in Canada, of any nature whatever, shall deduct or withhold 15 per cent of such payment.
+(2) Subsection (1) does not apply to a payment described in the definition "remuneration" in subsection 100(1).
+105(1) Quiconque verse à une personne non- résidente un honoraire, commission ou autre montant à l'égard de services rendus au Canada, de quelque nature que ce soit, doit déduire ou retrancher 15 pour cent de ce versement.
+(2) Le paragraphe (1) ne s'applique pas aux paiements mentionnés dans la définition « rémunération » figurant au paragraphe 100(1).
+Subsection 100(1) gives an exhaustive definition to the word "remuneration", but it does not include professional fees within in it.
+[2] This appeal is concerned with the validity of subsection 105(1) and, if it is valid, with its application. The appellant's position, shortly stated, is that the regulation is ultra vires, and in the alternative, that it requires withholding only from fees or other compensation earned in Canada, but not from payments of disbursements. The respondent's position is that the regulation is intra vires, and that it required the appellant to withhold not only 15% of the fees that it paid in 1998 to various non-resident suppliers of services, but also 15% of all the payments it made to those suppliers to reimburse them for travel costs and other out-of-pocket disbursements, and for time spent traveling to Canada to render services. The respondent relies entirely on paragraph 153(1)(g) as the legislative authority to support Regulation 105. Counsel did not seek to find authority for it in the general regulation-making power found in subsection 221(1).
+[3] At the opening of the hearing, the respondent conceded that $4,200.00 had been assessed in error and that this amount should be deleted from the assessment in any event. There is also a concession by the Appellant that if it is not successful in its contention that Regulation 105 is ultra vires, then it ought to have withheld from the payments for services rendered in Canada under the 19 invoices found in Exhibit A-1 at the following Tabs: 24, 25, 61, 62, 63, 76, 88, 89, 94, 95, 103, 105, 106, 116, 117, 118, 119, 120, and 121.
+[4] The parties have entered into a comprehensive agreement as to the facts of the case and a statement of the issues. It includes a summary of the position advanced by each party. I shall reproduce it in its entirety.[3]
+1) The Appellant is a corporation with an address at 5th Floor, Cathedral Place, 925 West Georgia Street, Vancouver, British Columbia.
+2) The Appellant is a successor by amalgamation to MacMillan Bloedel Limited (the "Company").
+3) In 1998 the Company, in the ordinary course of its forestry business, made payments totalling $14,313,726.30 to non-resident service providers, and withheld 15% from payments the Company considered to have been made to non-residents for services rendered in Canada. The Appellant remitted those amounts to the Respondent.
+4) Where a non-resident provider obtained a waiver from the Minister of National Revenue (the "Minister") in relation to the Company's withholding obligation, no withholding or remittance was required or made by the Company.
+5) Non-resident service providers sometimes provided an estimate of what portion of their services were rendered in Canada. If no estimate was provided, the Company generally withheld from the entire service fee. If an estimate was provided, the Company generally relied on it and withheld from the portion of the fee estimated by the service provider to be for services rendered in Canada.
+6) The Company did not withhold from the following categories of payments made to non-residents in 1998:
+a) the portion of service fees allocated to services rendered outside of Canada according to estimates made by the service provider;
+b) reimbursements of non-residents' out-of-pocket costs and related items, including travel time and expenses; and
+c) amounts paid as retainers in relation to services which the service provider expected to be rendered outside of Canada.
+These payments are collectively referred to as the "Disputed Payments".
+7) The Company withheld and remitted $1,551,341 from the approximately $14.3 million of payments it made to certain non-resident service providers in 1998.
+8) The Minister audited those same payments and determined that the Company should have withheld and remitted $2,101,088 from those payments. The difference ($549,745) between the Minister's determination and the amount actually withheld and remitted is attributable to the Minister's position that the Disputed Payments were made "in respect of" services rendered in Canada within the meaning of Regulation 105 of the regulations to the Income Tax Act (Canada) (the Act"). A copy of the Notice of Assessment (the "Assessment") is at tab 130 of the Joint Book of Documents.
+9) By way of the Assessment, the Minister assessed the Appellant $549,745 in tax pursuant to subsections 227(8.4) and 227(10). The Assessment also imposed a penalty of 10% of the tax assessed under subsections 227(9) and 227(10.1) and assessed interest under subsections 227(8.3) and 227(10).
+10) The total of tax, interest and penalties for 1998 under Assessment was $902,871.40.
+11) Enclosed at tab 129 of the Joint Book of Documents is a summary prepared by the Canada Revenue Agency setting out the 128 invoices in respect of which the Respondent claims there was insufficient withholding, with the total shortfall from these invoices being $549,745. These invoices give rise to the tax assessed in that same amount.
+12) Tabs 1 through 128 of the Joint Book of Documents contain the invoices or evidence of the amount invoiced for each item on the summary at tab 129.
+13) Of the $549,745 in tax assessed, $501,647 remains in dispute in this appeal. The nature of the dispute is more fully described in the following paragraphs and in schedules A - E to this Statement of Agreed Facts. The Appellant agrees that withholding was required in the amount of $48,097 of the $549,745 that was assessed.
+14) Schedule A to this Agreed Statement of Facts set out those invoices from tabs 1 though 128 of the Joint Book of Documents in respect of which the Appellant did not withhold from payments made to reimburse non-residents for expenses incurred. The Appellant did not consider payments of this type to be for services rendered in Canada. The Appellant generally relied on the service providers' representation on the face of the invoice as proof that the expenses were incurred, and did not require supporting documents from the non-resident service providers.
+15) The Respondent's position in respect of the Schedule A invoices is that such expenses are subject to withholding tax because:
+a) they are in respect of services rendered in Canada because the expense is assumed to relate to a service rendered in Canada; and
+b) where they are travel expenses, they are not supported by vouchers from the non-resident service provider to support what was on the face of the invoice (as required by Information Circular 75-6R).
+16) Schedule B to this Agreed Statement of Facts sets out those invoices from tabs 1 through 128 of the Joint Book of Documents for which the Appellant relied on service provider estimates as to the proportion of their services rendered in Canada.1 The Appellant withheld only from amounts payable for services the non-resident identified as having been rendered in Canada, and did not require supporting documents from the non-resident service providers.
+1 Where indicated on Schedule B, these invoices included a small amount of reimbursed travel and other expenses as well.
+17) The Respondent's position in respect of the Schedule B invoices is that the Appellant is not entitled to rely on the non-resident service providers' statements on their invoices as to the proportion of services rendered in Canada. Rather, the Appellant has an obligation to verify that the allocations of services made on the non-residents' invoices are correct and, if unable to do so, to withhold from the entire payment in accordance with Regulation 105 of the regulations to the Act.
+18) Schedule C to this Agreed Statement of Facts sets out those invoices from tabs 1 through 128 of the Joint Book of Documents relating to retainers paid to non-resident service providers. The Appellant withheld from retainers to the extent that the non-resident service providers indicated that the retainer was for services rendered or to be rendered in Canada, and did not require supporting documents from the non-resident service providers.
+19) The Respondent's position in respect of the Schedule C invoices is that the Appellant is not entitled to rely on the non-resident service providers' statements on their invoices as to the proportion of services rendered or to be rendered in Canada. Rather, the Appellant has an obligation to verify that the allocations of services made on the non-residents' invoices are correct and, if unable to do so, to withhold from the entire payment in accordance with Regulation 105 of the regulations to the Act.
+20) The Respondent draws support for the positions set out above in relation to the invoices on Schedules A, B and C to this Agreed Statement of Facts from published administrative policy in Information Circular 75-6R and opinions provided to the auditor by personnel at the International Tax Directorate in Ottawa, Ontario. Tabs 131,132 and 133 of the Joint Book of Documents contain original Information Circular 75-6, Information Circular 75-6R (in force at the time of the audit) and Information Circular 75-6R2 (currently in force). Correspondence between the auditor in this matter and International Tax Directorate personnel is at Tab 134 and the Non-Resident Tax Auditor's Report prepared in respect of the matter is at Tab 135 of the Joint Book of Documents.
+[5] The basic principles that govern this case are not in doubt. The power to make regulations is limited to that which Parliament has conferred in the statute. It was put this way by Walsh J. in a judgment later affirmed by the Supreme Court of Canada:[4]
+It is indisputable, as a general principle of law, that the Executive government cannot by Order in Council amend the law or enact regulations which may go beyond the enabling authority contained in the Statute itself. ...
+I shall therefore consider first the scope of the enabling authority, and thereafter, in light of that, the reach of Regulation 105.
+[6] The operative words of paragraph 153(1)(g) are "[e]very person paying ... fees, commissions or other amounts for services ... shall deduct and withhold from the payment ... on account of the payee's tax for the year ...". The plain meaning of the words "fees, commissions or other amounts for services" (des honoraries, commissions ou autre sommes pour services) embraces amounts paid for the services but not the reimbursement of expenses incurred by the provider of the services in the course of providing them. This is true of the text in both languages. In normal parlance, the words "for services" ("pour services") denote an amount paid as a fee or other remuneration, rather than an amount that is the reimbursement of an out-of-pocket expense. The context in which paragraph (g) is found also militates in favour of the view that it is directed to amounts that would have the character of revenue in the hands of the recipient. Fees and commissions are both categories of payment that are in the nature of income, and as such are potentially liable to be taxed in Canada, depending on the circumstances of the recipient. The same is true of all the types of payment described in paragraphs (a) to (t) of subsection 153(1).
+[7] Consideration of the purpose of subsection 153(1) leads to the same conclusion. It does not impose a tax; as the respondent quite rightly argues, the purpose of paragraph 153(1)(g) is to ensure that if the non-resident recipient of a payment is, after all the facts are known, liable to pay income tax in Canada, then there will be funds available, in the form of the 15% withheld and remitted, to satisfy the obligation. That is inescapable, as the section does not impose a tax but simply requires withholding "on account of the payee's tax for the year".[5] While I do not have before me all the written contracts between the appellant and its consultants, a perusal of the invoices leads me to conclude that, as one would expect, the appellant's obligation in respect of the disbursements is simply to repay that which the consultant has paid on the appellant's behalf in the course of rendering the service. To withhold 15% from that amount would not at all further the purpose of paragraph 153(1)(g), or of the Act as a whole. Indeed, the result that would flow from doing so would be quite contrary to the interests of Canadian industry. It is not difficult to foresee that if foreign service providers were to be reimbursed their expenses only to the extent of 85% until such time as they had filed a Canadian income tax return after the year end, and then waited for an assessment and a refund, that would create a considerable disincentive for them to offer their services to Canadian clients. As the purpose of the provision is simply to provide security for tax that may later be assessed, it need only be concerned with providing that security with reference to income earned in Canada as that is what subsection 2(3) of the Act taxes.
+[8] I turn now to consider the reach of Regulation 105. The appellant's position is that the same broad interpretation must be given here to the words "... in respect of ..." as was given to them by the Supreme Court of Canada in Nowegijick v. The Queen,[6] with the result that the Regulation, so interpreted, would require the payor to withhold not just 15% of the fees paid to a non-resident for services rendered in Canada, but also 15% of all payments, including disbursements, and payments for time spent traveling to Canada in connection with those services. As this would give the Regulation an effect that exceeds the power given to the Governor in Council by the statute, it should be held to be ultra vires, with the result that there is no requirement to withhold at all. For the reasons that follow, I do not agree.
+[9] Certainly Dickson J. (as he then was) did describe the phrase "in respect of" as being "of the widest possible scope". It is fundamental, however, that words and phrases have flexible meanings, and they must be examined and applied having regard to the context in which they are found. In Nowegijick, the Court was dealing with the phrase in the context of section 87 of the Indian Act,[7] which was later described by La Forest J. as being:
+... part of a legislative "package" which bears the impress of an obligation to native peoples which the Crown has recognized at least since the signing of the Royal Proclamation of 1763. From that time on, the Crown has always acknowledged that it is honour-bound to shield Indians from any efforts by non-natives to dispossess Indians of the property which they hold qua Indians, i.e., their land base and the chattels on that land base.[8]
+Such a context clearly calls for the broadest interpretation of the phrase.
+[10] The principle governing the present case, however, is that expressed by Cartwright J (as he then was) in The Queen v. McKay:[9]
+... if an enactment, whether of Parliament or of a legislature or of a subordinate body to which legislative power is delegated, is capable of receiving a meaning according to which its operation is restricted to matters within the power of the enacting body it shall be interpreted accordingly. An alternative form in which the rule is expressed is that if words in a statute are fairly susceptible of two constructions of which one will result in the statute being intra vires and the other will have the contrary result the former is to be adopted.
+The question to be answered, therefore, is whether the words of Regulation 105 are capable of bearing a construction that would be intra vires. To put it another way, can the expression "... a fee commission or other amount in respect of services rendered in Canada, of any nature whatever, ..." properly be read as including only amounts that may be taxable in Canada in the hands of the recipient, which is to say "income earned in Canada": see subsection 2(3) of the Act. In my view, the words are capable of that construction, and so that is the meaning they should be given.
+[11] The authorities are clear that a regulatory vacuum is to be avoided if the Court can say with confidence how the Governor in Council would have exercised the regulation making power had it properly recognized the limit of that power. The Federal Court of Appeal has considered such a situation in two recent cases, British Columbia Ferry Corporation v. M.N.R.,[10] and Canada v. Société des alcools du Québec.[11] In the B.C. Ferry case, the Court found the Ships Stores Regulations[12] made under subsection 59(3.2) of the Excise Tax Act[13] to be ultra vires. Strayer J.A., writing for a unanimous Court, considered whether the Court could, in effect, rewrite the Regulation in a way that would render it intra vires. Although he concluded that it could not do so, it is implicit in the Court's reasoning that it would have done so if it could have been confident that, in so doing, it would have been implementing accurately the intention of the Excise Tax Act, or an intention that could be imputed to the Governor in Council, had it appreciated the invalidating discrimination in the Regulation that it had enacted. Strayer J.A. put it this way at paragraph 40:
+[40] In short, there is no practical way in which the Court can, through selective nullification of the Regulations and their adopted definitions, or by reading in some simple exemptions, design a scheme which we could confidently pronounce as accurately implementing the intention of the Excise Tax Act in its conferral of the regulation-making power in subsection 59(3.2), nor which we could hold out as implementing an intention which the Governor in Council would have had, had it known the discrimination against the appellants to be invalid. We therefore cannot give the appellants a retroactive entitlement to claim refunds or drawbacks under the existing Ships Stores Regulations. Nor, for reasons which have been given, is it appropriate to strike down the Regulations as of 1986 or 1988, because we are unable to say that the Governor in Council would not have intended to benefit the ship operators who were and are benefited under the Regulations, had it known that it could not validly exclude everybody else from benefits.
+[12] In Canada v. Société des alcools du Québec,[14] the trial judge held that the Regulation governing the rate of rebate to be paid to the Société under the Excise Tax Act upon the transition from the federal sales tax to the goods and services tax was ultra vires, insofar as it applied to the plaintiff Société. However, he also found that he was able to reach a conclusion as to the extent of the rebate that Parliament had intended to confer, and he granted relief to the plaintiff on that basis. An appeal from this judgment was dismissed.[15] The Federal Court of Appeal applied the principle enunciated by Strayer J. in B.C. Ferry, but concluded that in this case that the Court was able to fill the regulatory void. Noël J.A., for a unanimous Court, said this at paragraphs 57 to 60:
+[57] The question that arises is this: is the Court in a position to say how the holder of the delegated power would have designed the factor to be applied to alcoholic beverages if he had known that the Act required that a special factor be established for those goods? A positive answer would invite the Court to fill the regulatory vacuum that results from its declaration of invalidity.
+[58] As we have seen, the purpose of the Act, and in particular of section 120, is unequivocal. The reasoning followed by the Minister of Finance in designing and implementing the method and factors that Parliament had authorized, in order to achieve that objective, is also readily understood. It involved formulating factors which, when applied to the cost of inventories held as of January 1, 1991, would identify, with as much accuracy as possible, the amount of the tax paid under the former Act, so that it could be refunded.
+[59] It can therefore be said, without fear of error, that in establishing a specific factor for alcoholic beverages the Minister of Finances would have had regard to the rate of tax that applied to those goods under the former Act. He would also have had regard to the uniform method by which those goods are marketed which results in the cost of inventories composed of those goods being, as a rule, equal to the amount on which the tax had been paid.
+[60] In the circumstances, it seems obvious that the Minister would have made the rebate factor that applied to alcoholic beverages coincide with the rate of tax that was levied on those goods under the former Act, as he did for gasoline and diesel fuel. Incidentally, the foresight that I am imputing to the Minister of Finance is verified by the experience of the respondent, which, as the appellant admits, accurately identified the tax levied on the inventory it held as of January 1, 1991, by applying a factor of 19 percent.
+[13] If I had concluded that the expression "... a fee commission or other amount in respect of services rendered in Canada, of any nature whatever, ..." were not capable of a construction that would render the Regulation intra vires, I would nevertheless have concluded that it was entirely beyond doubt that the Governor in Council's intention in enacting Regulation 105 was to require withholding at the rate of 15% from all payments to non-resident service providers to the fullest extent that paragraph 153(1)(g) of the Act permits - that is, from all payments having the character of remuneration for services rendered in Canada, and thus potentially taxable by Canada in the non-resident's hands. I would have applied the principle laid down in the B.C. Ferry case to that end. In either event, the conclusion as to the validity of Regulation 105 is that it is intra vires, but its operation does not extend beyond requiring the payor to deduct and withhold from payments of amounts that are in the nature of fees or commissions that, in the hands of the recipient, have the character of income earned in Canada.
+[14] I turn now to the specifics of the 128 invoices that are referred to in the Agreed Statement of Facts. The parties have divided these into four categories.
+[15] There are 78 invoices listed in Schedule A to the Agreed Statement of Facts. These are all, in whole or in part, invoices by which various suppliers recovered from the appellant reimbursable expenses for such things as travel costs, telephone, fax and postage charges, photocopying and the like. The respondent's principal position with respect to these amounts is that they are all subject to withholding under Regulation 105, on the basis that they are, although not fees, "amounts paid in respect of services rendered in Canada". This proposition cannot succeed for the reasons that I have given. These payments are not in the nature of income to the recipients, and so they are not subject to the requirement to withhold.
+[16] The respondent's alternate submission as to these amounts is that the appellant was not, and is not now, entitled to rely on the invoices alone to establish that the amounts in issue (which is to say the amounts billed on those invoices as disbursements) were amounts paid to reimburse the service supplier for out-of-pocket expenses, rather than fees, commissions or other amounts having the character of income that would potentially be taxable by Canada in the suppliers' hands. The argument in support of this position, as I understand it, is based to some degree on the Information Circulars[16] dealing with the subject of withholding from payments to non-residents that have been issued by the Minister of National Revenue, and to a greater degree upon the Minister's assessing assumption found at paragraph 9(n) of the Reply to the Notice of Appeal. The Information Circulars are published by the Minister to give a general overview of the provisions of the Act and Regulations dealing with the requirement to withhold from payments made to non-residents. With each revision, more detail has been added, so that Information Circular 75-6R2, published February 23, 2005, long after the payments in issue here had been made, purports to establish the terms upon which the Canada Revenue Agency (the Agency) may provide "administrative exceptions" from withholding requirements,[17] and to establish required standards of proof of such things as expenses[18] and the extent to which services provided under a contract are performed outside rather than inside Canada.[19] No doubt these circulars can, to some extent, serve a useful purpose in advising the reader as to the assessing policy that will be applied by the Agency. They do not have the force of law, however, and they cannot have the effect of imposing requirements on taxpayers beyond those that are created by the Act and the Regulations. Nor can they establish a standard of proof that must be met by a taxpayer appealing to this Court from the Minister's assessment. The substantive question that I must decide is whether the appellant withheld and remitted 15% from the correct amount in respect of each of the invoices that have been put in issue. I must ascertain what that correct amount is on the basis of the pleadings and the evidence before me.
+[17] In view of the great reliance that the respondent has placed on the assumptions, I shall reproduce them here in full.
+a) the Appellant is a successor corporation to the Company by amalgamation;
+b) in the 1998 taxation year, the Company carried on a forestry business;
+c) in the 1998 taxation year, the Company made numerous payments totaling $14,313,726.30 to non-residents (the "Payees") in respect of services provided in Canada (the "Payments");
+d) the Company withheld tax at the prescribed rate of 15% from some but not all of the Payments;
+e) the Company was obligated to withhold and remit a total of $2,101,087.93 from the Payments in the 1998 taxation year;
+f) the Company withheld and remitted only $1,551,342.73 from the Payments in the 1998 taxation year;
+g) the Company failed to withhold and remit, as required, tax of at least $549,745.20 from certain of the Payment, as set out in Appendix "A";
+h) the Company did not withhold tax from those Payments described in the Payees' invoices as reimbursement of out-of-pocket expenses;
+i) the Appellant did not substantiate all of the out-of-pocket expenses claimed to be reimbursed to Payees;
+j) the Company did not withhold tax from those Payments described in the Payees' invoices as fees for time spent traveling for the purpose of rendering services in Canada;
+k) the Company did not withhold tax from the portion of the Payments that various Payees allocated to services rendered outside Canada;
+l) the Appellant did not substantiate any allocation of the various payees' fees for services to services rendered outside Canada;
+m) the Company refunded some withheld amounts to a Payee rather than remit those amounts;
+n) where Payments made to Payees included unsubstantiated reimbursements of a Payee's out-of-pocket expenses or fees for a Payee's time spent traveling for the purpose of performing services in Canada, and where an allocation between services rendered in Canada and services rendered outside Canada was not substantiated, the gross amount of the Payments to the Payee was a payment in respect of services rendered in Canada;
+o) the Company was not required to withhold tax from Payments to Payees who had obtained a waiver respecting those Payments from the Canada Customs and Revenue Agency (the "CCRA", now Canada Revenue Agency);
+p) the Company was aware of the withholding requirements;
+q) the Company was aware that it had failed to withhold tax from some Payment from which it was obligated to withhold;
+r) the Company had a long-term relationship with the Waiver Department of the CCRA; and
+s) the Company did not take adequate steps to prevent a failure to withhold and remit tax from Payments that were subject to statutory withholding requirements.
+[18] I shall also reproduce here the additional facts that, although not assumed by the assessor, are alleged by the respondent in the Reply:
+a) those Payments made to Payees which included unsubstantiated reimbursements of a Payee's out-of-pocket expenses, fees for a Payee's time spent traveling for the purpose of performing services in Canada, or retainers paid to Payees were payments to the Payees for services rendered in Canada;
+b) the Company relied solely on the Payee's invoices to determine the amount of withholdings to make without making its own efforts to substantiate claims for out-of-pocket expenses;
+c) where no services are proven to have been rendered outside Canada, those Payment to Payees which were allocated between services rendered in Canada and services rendered outside Canada were wholly paid for services rendered in Canada;
+d) the Company relied solely on the Payee's invoices to determine the allocation of Payments between services rendered in Canada and services rendered outside Canada, and did not make its own allocation; and
+e) the Company failed to withhold tax from some Payments due to errors by its own employees.
+[19] Examining first the assumptions pleaded in paragraph 12, those in subparagraphs a), b), c), d), f), h), j), k), p) and r) are undisputed facts, and quite innocuous. Those in subparagraphs e), g), o) and q) are to a greater or lesser extent statements of the respondent's view of the law, and much of what they contain is exactly what I have to decide. To plead these as assumptions of fact is exactly what this Court and the Federal Court of Appeal have both condemned as improper in the Anchor Pointe[20] case. They should have been struck out, and I will ignore them. It is assumptions i), l) and n) upon which the respondent to a large extent bases her case. To say that the appellant did not "substantiate" the out-of-pocket expenses that were billed to it, or the allocation by its suppliers of the work done as between Canada and the United States, as the respondent does in i) and l), is simply to say that the appellant relied entirely on the information contained in the invoices when deciding whether it ought to withhold and remit from some or all of the payment that it made in response to those invoices. That fact, with only some minor exceptions, is not in dispute.
+[20] It is assumption n) that is most invidious. It addresses no specific invoice or transaction. It refers to "unsubstantiated" reimbursements of out-of-pocket expenses and allocations of fees between services rendered in the two countries, without ever defining what the Minister would regard as substantiation. In my view, it is simply an attempt by the respondent to use the advantage that the Crown secures in litigation by pleading the assumptions of fact that underpin an assessment to establish an evidentiary threshold at some undefined level that the respondent says is higher than the reach of the appellant's only evidence, which everyone agrees is simply the suppliers' invoices.
+[21] The authorities since Anderson Logging Co. v. The King[21] make it clear that the purpose of the requirement for the respondent to plead the assumptions of fact that gave rise to the assessment under appeal is so that the appellant will have notice of the case he has to meet. As Rand J. put it in Johnson v. M.N.R.:[22]
+... the onus was his to demolish the basic fact on which the taxation rested.
+It is implicit in these and other cases that it is the facts material to the incidence of taxation that are to be pleaded; the obligation to disclose the material facts on which the assessment rests is not a license for the Minister to attempt to impugn the weight of the taxpayer's evidence before it is led by a general assumption of unreliability such as is found in paragraph 12 n). This is as true of documentary evidence such as the invoices that are in evidence before me as it is of testimony that a taxpayer might give as to the facts. That is not to say that the respondent cannot plead that the Minister assumed a certain document to be false, but it has always been the rule that fraud must be pleaded with particularity, and there is no such plea here. As L'Heureux-Dubé J. said in Hickman Motors Ltd. v. Canada,[23] quoting Brulé J. of this Court in Kamin v. M.N.R.:[24]
+... the Minister should be able to rebut such [prima facie] evidence and bring forth some foundation for his assumptions. ... The Minister does not have a carte blanche in terms of setting out any assumption which suits his convenience. On being challenged by evidence in chief he must be expected to present something more concrete than a simple assumption.
+[the emphasis is that of L'Heureux-Dubé J.]
+[22] The transactions with which this appeal is concerned were entered into between parties dealing with each other at arm's length, in the ordinary course of commerce. There is no suggestion in the pleadings, or elsewhere for that matter, of fraud or sham. The appellant paid the invoices that were submitted to it as they were rendered, after examination. It was satisfied that the invoices were appropriate under the terms of its contracts with the various suppliers. The invoices were entered into evidence on consent of both parties. With neither a specific, valid assumption to the contrary pleaded, nor contradictory evidence from the respondent, the invoices, and some parts of the examination for discovery that were read in, are the only available proof of the essential facts in issue, namely the quantum of disbursements repaid, and the quantum of the fees attributable to work done in Canada. There was little in the discovery read in that was truly probative. I accept the invoices at face value as reliable evidence of the facts asserted in them, subject to certain minor exceptions to which I shall refer in due course.
+[23] Much of the argument for the respondent rested on the rather frail foundation that because it is difficult for the Minister to enforce the Act outside Canada, he must have the benefit of compliance with the "requirements" found in his Information Circulars by taxpayers making payments to foreign suppliers. Accepting this for the sake of argument "because no proof of it was offered", it is trite that administrative convenience, or even necessity, does not give administrative practice the force of law. Counsel recognize this at paragraph 55 of their Memorandum. Nor, as I have said earlier, can the Minister's administrative difficulties be solved by the type of pleading resorted to here in paragraph 12 n). If the Minister cannot make specific assumptions on a transaction by transaction basis then it will require a specific enactment to establish a specific evidentiary threshold that the taxpayer must meet.
+[24] In their Memorandum of Argument, counsel for the respondent take issue with the accuracy of 14 accounts rendered to the appellant by Andy Love & Associates between March 17, 1988 and November 23, 1998, on the basis that they are quite inconsistent as to the percentage of the services that were said to have been rendered in Canada. Initially, it was as high as 85%, while that percentage dropped to less than 5% towards the end of the period. There is no internal inconsistency in any of these accounts, however, and there is no evidence before me that impugns their accuracy. It may well be that the Minister's assessor would like to see more detail as to the nature of the work done and the location at which it was done, but there is no requirement in law that those be provided, or that the appellant treat the work as work done in Canada in the absence of them. On the basis of the only evidence before me, the accounts, I accept that the work was done as described in them.
+[25] The respondent also questions the accuracy of two accounts, dated January 21, 1998 and March 5, 1998, rendered by Geduldig & Ferguson, Inc. of New York for their professional services. Specifically, the person identified in the accounts as "DLF" billed $3,247.50 for work done on November 17 and 18, 1997, and $3,170.00 for work done on February 16, 1998 as fees for work done in the United States, although the charges for travel in the same accounts show that "DLF" was in fact in Canadaon those dates. Obviously, an error has been made. Again, the accounts are the only evidence, and they convince me that the appellant should have withheld $487.13 and $475.50, respectively, from these two payments. In fact, it withheld nothing.
+[26] The respondent argues that the appellant was wrong not to withhold and remit under Regulation 105 when paying the accounts of Pearl Meyer and Partners Inc. (PMP) found at Exhibit A-1, Tabs 88, 89 and 94, and those of Solomon Smith Barney (SSB) found at Exhibit A-1, Tab 102. The respondent refers to the retainer of $25,000 invoiced by PMP, but it is clear from the documents at Tab 83, page 2 and at Tab 94, page 6 that this retainer is in the nature of a security deposit and is refundable on completion of the engagement. It is therefore not a fee, and not referable to any work, and as such would not be subject to withholding even on the broadest application of the Regulation. The other amounts billed as fees by PMP are clearly specified to be for work in either the United States or Canada. As I have said earlier with respect to the Andy Love invoices, the Minister's assessors might like to have more information about the services, but there is nothing in law that entitles them to it. The accounts are clear, and they are the only evidence before me of the location at which the services were performed.
+[27] The SSB account is made up of a retainer of $1,000,000 in respect of services to be performed, and certain amounts for disbursements. I have already dealt with the respondent's submission concerning withholding from payments for disbursements. Insofar as the retainer is concerned, SSB expressly state that 25% of the retainer is attributable to work to be done in Canada, and 75% of it to work to be done in the United States. Just like all the other attributions in all the other invoices, one may speculate as to the accuracy of this estimate; however, the fact remains that it is an invoice submitted and paid in the ordinary course of commerce, and so it has evidentiary value, and there being neither a valid contrary assumption that the appellant must rebut nor contradictory evidence, it is sufficient to satisfy the appellant's burden of showing that the assessment is, so far as it relates to this item, ill-founded.
+[28] Counsel for the respondent argue in paragraphs 70 to 73 of their Memorandum of Points of Argument that charges for time spent traveling to Canada are subject to the withholding requirements of paragraph 153(1)(g) of the Act and Regulation 105 because those charges are part of what is charged "for services rendered in Canada". They point specifically to certain invoices,[25] and suggest that the amounts invoiced for traveling time are "often significant in comparison to the amount invoiced as fees for services." Of course, consultants traveling from the southern United Statesto British Columbia must bill for significant amounts of traveling time, but that does not mean that the amounts they are paid for that time is earned in Canada, and so taxable in Canada. Nor does it in any way impugn the accuracy of their accounts.
+[29] The remaining issue is the penalty. The respondent accepts that the penalty is subject to a due diligence defense. This, however, means more than that simple good faith must be shown. The test has been expressed by Bowman J. (as he then was) as requiring "affirmative proof that all reasonable care was exercised to ensure that errors not be made".[26] A truly careful inspection of the invoices would have led to inquiries of the contractors. There was no evidence other than the excerpts from the discovery transcripts that were read in and I do not find therein evidence establishing that all reasonable care was taken in the review of those invoices from which the appellant improperly failed to withhold the required amount. I therefore conclude that the appellant is liable for the 10% penalty in those instances where it has been properly assessed for amounts that it improperly failed to withhold.
+[30] For convenience, I shall summarize the foregoing conclusions.
+(i) The purpose of paragraph 153(1)(g) of the Act is simply to ensure that funds are available to satisfy an assessment for tax against a non-resident, should one be made. It is not a charging provision. Construed in light of that purpose, the words "fees, commissions or other amounts for services" are limited to amounts that have the character of income earned in Canada in the hands of the non-resident recipient, as it is only such amounts that are potentially taxable by Canadaunder subsection 2(3) of the Act.
+(ii) Regulation 105 is intra vires the Governor in Council, but the words "fee, commission or other amount in respect of services rendered in Canada, of any nature whatever" reach only those payments having the character of income earned in Canada by the non-resident payee.
+(iii) Fees for work done in Canada are income earned in Canada.
+(iv) Amounts paid to reimburse contractors for their disbursements are not income earned in Canada.
+(v) Amounts paid for time spent traveling to Canada are not income earned in Canada. Amounts paid for time spent traveling within Canada are income earned in Canada.
+(vi) Neither administrative fiat in the form of Information Circulars issued by the Minister of National Revenue nor vague general assumptions pleaded by the Deputy Attorney General are competent to cast on the Appellant a burden of proof exceeding that which the law imposes on a party asserting a positive fact in any civil action.
+(vii) Subject to any internal inconsistency, or contradictory evidence, the invoices are adequate to discharge the onus on the appellant to establish the nature of the payments made by it to its non-resident contractors, and the extent to which fees paid were for work done in Canada.
+(viii) The appellant has not established that it took all reasonable care to comply with the requirements of the Act and the Regulations when making payments to non-residents and the 10% penalty therefore applies in those instances where it improperly failed to withhold.
+[31] The appeal will be allowed. The appellant has been substantially successful and is entitled to its costs. Counsel for the appellant shall prepare a draft judgment giving effect to these Reasons for Judgment and the concessions made by counsel at the hearing, for approval by counsel for the respondent. If counsel are unable to agree as to the form of the judgment, I may be spoken to.
+Signed at Ottawa, Canada, this 31st day of January, 2007.
+"E.A. Bowie"
+Bowie J.
+ANNEX "A"
+SCHEDULE A
+Invoices on Which Nothing Withheld on Reimbursement of Expenses
+BOD Tab
+Provider
+Amount in Dispute ($)
+2
+Robert Anderson
+2,700.00
+4
+Andy Love
+97.75
+5
+Andy Love
+964.45
+6
+Andy Love
+608.27
+11
+Andy Love
+570.16
+14
+Andy Love
+110.22
+16
+Andy Love
+218.61
+18
+Andy Love
+460.65
+20
+Andy Love
+892.94
+23
+AppDev Training Co.
+571.98
+24
+J. Annette Arnold
+240.24
+26
+J.L. Barnard
+1,035.77
+27
+Barr-Mullin
+264.94
+28
+Beloit
+229.01
+31
+Comptrol
+128.92
+33
+Geduldig & Ferguson
+566.37
+37
+Geduldig & Ferguson
+3,342.93
+38
+Geduldig & Ferguson
+1,349.46
+40
+Geduldig & Ferguson
+323.56
+41
+Geduldig & Ferguson
+107.13
+42
+Geduldig & Ferguson
+130.49
+43
+Geduldig & Ferguson
+2,304.81
+44
+Geduldig & Ferguson
+143.70
+46
+Geduldig & Ferguson
+1,661.69
+47
+Geduldig & Ferguson
+1,681.69
+48
+Geduldig & Ferguson
+117.25
+49
+Geduldig & Ferguson
+1,320.03
+- 2 -
+BOD Tab
+Provider
+Amount in Dispute ($)
+50
+Geduldig & Ferguson
+18.11
+51
+Geduldig & Ferguson
+201.05
+53
+Geduldig & Ferguson
+1,431.81
+54
+Geduldig & Ferguson
+246.42
+57
+Geduldig & Ferguson
+115.00
+58
+Geduldig & Ferguson
+1,537.87
+59
+Hyperion
+106.96
+61
+Johns Manville
+376.811
+62
+Linkage
+710.121
+63
+Linkage
+778.791
+64
+McKinsey
+14,534.64
+65
+McKinsey
+10,113.93
+66
+McKinsey
+3,851.42
+67
+McKinsey
+9,960.55
+68
+McKinsey
+8,114.93
+69
+McKinsey
+6,421.98
+70
+McKinsey
+17,746.58
+71
+McKinsey
+11,224.29
+72
+McKinsey
+8,590.89
+73
+McKinsey
+8,057.28
+74
+McKinsey
+1,660.89
+75
+McKinsey
+11,709.39
+77
+Paradigm
+96.68
+82
+Pearl Meyer
+142.76
+86
+Pearl Meyer
+91.16
+87
+Pearl Meyer
+3,542.47
+90
+Pearl Meyer
+3,695.63
+92
+Pearl Meyer
+680.43
+93
+Pearl Meyer
+6,960.00
+95
+Dan Petersen
+269.681
+- 3 -
+BOD Tab
+Provider
+Amount in Dispute ($)
+99
+Robert Teicher
+868.94
+100
+Salomon Smith Barney
+25,272.86
+101
+Salomon Smith Barney
+7,486.78
+103
+Scientific Cert. Systems
+518.931
+104
+Harry Sherman
+2,105.00
+105
+Steve Clark
+543.321
+106
+Steve Clark
+619.701
+107
+Steve Clark
+851.04
+108
+Steve Clark
+527.77
+109
+Steve Clark
+185.59
+110
+Steve Clark
+36.14
+111
+Steve Clark
+149.06
+112
+Steve Clark
+89.31
+113
+Steve Clark
+92.38
+114
+Steve Clark
+99.02
+116
+Timwood
+675.231
+117
+Timwood
+1,465.851
+118
+Timwood
+120.601
+119
+Timwood
+1,583.311
+120
+Timwood
+456.571
+121
+Timwood
+1,608.381
+Total
+$200,487.33
+1 Total withholding required by CRA was a greater amount; the difference related to services rendered in Canada for which withholding inadvertently did not occur, and which the Appellant no longer disputes.
+SCHEDULE B
+Reliance on Service Provider Estimates
+BOD Tab
+Provider
+Amount in Dispute ($)
+22
+Andy Love
+20,902.81
+34
+Geduldig & Ferguson
+4,330.611
+39
+Geduldig & Ferguson
+5,457.731
+45
+Geduldig & Ferguson
+2,771.581
+52
+Geduldig & Ferguson
+2,181.921
+55
+Geduldig & Ferguson
+1,339.89
+56
+Geduldig & Ferguson
+2,772.00
+76
+Paradigm
+1,448.40
+78
+Paradigm
+89.40
+79
+Pearl Meyer
+1,052.70
+84
+Pearl Meyer
+1,692.00
+85
+Pearl Meyer
+816.10
+88
+Pearl Meyer
+9,212.78
+89
+Pearl Meyer
+5,162.93
+91
+Pearl Meyer
+532.80
+94
+Pearl Meyer
+9,429.71
+122
+Valmet
+1,811.88
+123
+Valmet
+1,369.71
+124
+Voith Sulzer
+3,273.561
+Total
+$75,648.52
+____________________________
+1 Invoice includes some reimbursed expenses and travel the Respondent considers to be in respect of services rendered in Canada.
+SCHEDULE C
+Retainers
+BOD Tab
+Provider
+Amount in Dispute ($)
+9
+Andy Love
+2,610.01
+10
+Andy Love
+2,476.24
+12
+Andy Love
+2,463.75
+13
+Andy Love
+2,679.00
+15
+Andy Love
+2,592.45
+17
+Andy Love
+2,643.95
+19
+Andy Love
+2,616.07
+21
+Andy Love
+2,945.25
+83
+Pearl Meyer
+5,287.50
+102
+Salomon Smith Barney
+$195,506.351
+Total
+$221,820.57
+1 This can be broken down to $187,129.86 in relation to $750,000 of a (U.S.) 1,000,000 retained allocated by Salomon Smith Barney to U.S. services and $8,376.59 in relation to travel and other expenses.
+SCHEDULE D
+Other Invoices in Issue
+BOD Tab
+Provider
+Amount in Dispute ($)
+3
+Andritz
+1,553.561
+29
+Bloomberg L.P.
+1,500.002
+30
+Bran Luebbe
+637.70
+Total
+$3,691.26
+1 Withholding done by mill personnel, based on their estimate of the percentage of the fee attributable to services rendered in Canada.
+2 10% originally withheld corrected by filing an amended T4A-NR form (and payment) withholding 15%. The Respondent has not given credit for this payment.
+SCHEDULE E
+Invoices Not in Issue
+The following invoices are not in issue as the appellant obtained waivers, no withholding was required, or the appellant agrees with the Respondent's position.
+1, 7, 8, 24, 25, 32, 35, 36, 60, 80, 81, 96, 97, 98, 125, 126, 127, 128
+CITATION: 2007TCC65
+COURT FILE NO.: 2004-520(IT)G
+STYLE OF CAUSE: WEYERHAEUSER COMPANY LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: December 5 and 6, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF REASONS FOR JUDGMENT: January 31, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Thomas M. Boddez
+and Douglas Powrie
+Counsel for the Respondent:
+Lynn M. Burch
+and Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Thomas M. Boddez
+Firm: Thorsteinssons LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] C.S.C. c. 945 as amended.
+[3] The five Schedules to the document are attached as Annex "A" to these Reasons.
+[4] M.N.R. v. Midwest Hotel Co. Ltd., 70 DTC 6316 @ 6320 (Exch. Ct.); aff'd 72 DTC 6440 (SCC).
+[5] See Ogden Palladium Services (Canada) Inc. v. Canada, [2001] 2 C.T.C. 2404; aff'd [2003] 1 C.T.C. 206.
+[6] [1983] 1 S.C.R. 29.
+[7] R.S.C. 1970, c. I-6.
+[8] Mitchell v. Peguis Indian Band, [1990] 2 S.C.R. 85 at 131.
+[9] [1965] S.C.R. 798 at 803-4
+[10] [2001] 4 F.C. 3.
+[11] 2002 FCA 69.
+[12] SOR/86-878.
+[13] R.S.C. 1985, c. E-15 as amended.
+[14] [2001] 1 F.C. 386 (Fed T.D.)
+[15] Supra, note 13.
+[16] IC 75-6, IC 75-6R and IC76-R2, found at Tabs 131, 132 and 133 of Exhibit A-1, vol. 2.
+[17] See IC 75-6R2, para. 24.
+[18] Ibid., paras. 25 and 26.
+[19] Ibid., paras. 32-4.
+[20] Anchor Pointe Energy Ltd. v. Canada, [2002] 4 C.T.C. 2633 at para. 28; aff'd [2004] 5 C.T.C. 98, paras. 25 to 28.
+[21] [1925] S.C.R. 45.
+[22] [1948] S.C.R. 486 at 489.
+[23] [1997] 2 S.C.R. 336 at para. 96.
+[24] 93 DTC 62 at p.64.
+[25] Invoices of Adritz Inc., Exhibits R-3, R-4, R-5 and R-6; Invoice of J. L. Barnard, Exhibit A-1, Tab 26; Invoices of Geduldig & Ferguson, Exhibit A-1, Tab 33
+[26] Pillar Oilfield Projects v. Canada, [1993] G.S.T.C. 49.

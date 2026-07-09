@@ -1,0 +1,150 @@
+---
+title: "Simser v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28105/index.do"
+last_modified: "2003-09-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 597"
+citation2: ""
+neutral_citation: "2003 TCC 597"
+decision_date: "2003-09-05"
+language: "en"
+item_id: "28105"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1690
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:46:38.496000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7eaeea109b99ce146fab58f6d0dea4aecf6f9300c75d65adf4226fcb30fb363d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Simser v. The Queen
+
+- Citation: 2003 TCC 597
+- Decision date: 2003-09-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1690, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simser v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-05
+Neutral citation
+2003 TCC 597
+File numbers
+2003-1904(IT)APP
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1904(IT)APP
+BETWEEN:
+IRENE SIMSER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on August 25, 2003 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Applicant:
+Brian Simser
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+ORDER
+Upon application for an Order extending the time within which an appeal from the assessment for the 1997 taxation year and the Notice of Reassessment for the 1998 taxation year may be instituted;
+And upon hearing what was alleged by the parties;
+The application is dismissed in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 5th day of September 2003.
+"L.M. Little"
+Little, J.
+Citation: 2003TCC597
+Date: 20030905
+Docket: 2003-1904(IT)APP
+BETWEEN:
+IRENE SIMSER,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little, J.
+A. FACTS:
+[1] The Applicant claimed a loss of approximately $90,000.00 when she filed her income tax return for the 1997 taxation year.
+[2] The Applicant claimed a farming loss and a capital loss when she filed her income tax return for the 1998 taxation year.
+Re: 1997 Taxation Year
+[3] The Applicant's 1997 taxation year was assessed by the Minister of National Revenue (the "Minister") on the 8th day of August 2000 and the loss claimed by the Applicant was denied.
+[4] The Applicant did not file a Notice of Objection to the 1997 assessment issued by the Minister within the 90-day period specified by the Income Tax Act (the "Act") to file a Notice of Objection. The Applicant filed an application to extend the time within which a Notice of Objection might be filed.
+[5] On the 14th day of November 2000 the Minister granted the Applicant's request for the 1997 taxation year and advised the Applicant that the Notice of Objection for the 1997 taxation year was considered to have been served on that day.
+[6] On the 11th day of May 2001 the Minister issued a Notification of Confirmation confirming the assessment issued for the 1997 taxation year.
+[7] The 90th day following the mailing of the Notification of Confirmation for the 1997 taxation year was the 9th day of August 2001. The Applicant did not file a Notice of Appeal to the Tax Court within the 90-day period specified by the Act.
+[8] A Notice of Appeal dated the 16th day of May 2003 for the 1997 and 1998 taxation years was filed with the Tax Court.
+Re: 1998 Taxation Year
+[9] The Applicant's 1998 taxation year was reassessed by a Notice of Reassessment dated the 24th day of January 2000.
+[10] The Applicant did not file a Notice of Objection for the 1998 taxation year within the 90-day period specified by the Act to file a Notice of Objection. On the 7th day of November 2000 the Applicant filed an application requesting that the time within which to file a Notice of Objection for the 1998 taxation year be extended.
+[11] On the 14th day of November 2000 the Minister granted the Applicant's request for the 1998 taxation year and advised the Applicant that the Notice of Objection for the 1998 taxation year was considered to have been served on that day.
+[12] On the 25th day of May 2001 the Minister issued a further Notice of Reassessment for the 1998 taxation year.
+[13] The 90th day following the mailing of the Notice of Reassessment dated the 25th day of May 2001 was the 23rd day of August 2001. The Applicant did not file a Notice of Appeal to the Tax Court within the 90-day period specified by the Act.
+[14] A Notice of Appeal dated the 16th day of May 2003 for the 1997 and 1998 taxation years was filed with the Court.
+B. ISSUE:
+[15] The issue is whether the Applicant should be granted an extension of time within which to file Notices of Appeal for the 1997 and 1998 taxation years.
+C. ANALYSIS:
+[16] As noted above, the Notification of Confirmation for the 1997 taxation year was issued by the Minister on the 11th day of May 2001. The 90-day period within which the Applicant might file a Notice of Appeal to the Court would expire on the 9th day of August 2001. Paragraph 167(5)(a) of the Act specifies that if the Applicant wishes to extend the time within which to file a Notice of Appeal the application for an extension of time must be made within one year of the time limited by the Act for filing a Notice of Appeal, i.e. the application must be made on or before the 9th day of August 2002. The Applicant did not file an application to extend the time to file a Notice of Appeal for the 1997 taxation year until the 16th day of May 2003, i.e. approximately nine months after the deadline imposed by the Act.
+[17] Since the Notice of Appeal for the 1997 taxation year was filed after the one-year period specified by the Act, the application to extend the time must be dismissed.
+[18] As indicated above, the Notice of Reassessment for the 1998 taxation year was issued by the Minister on the 25th day of May 2001. The 90-day period within which the Applicant might file a Notice of Appeal to the Court would expire on the 23rd day of August 2001. As noted above, paragraph 165(5)(a) of the Act specifies that if the Applicant wishes to extend the time within which to file a Notice of Appeal the application for an extension of time must be made within one year of the time limited by the Act for filing a Notice of Appeal, i.e. on or before the 23rd day of August 2002. The Applicant did not file an application to extend the time within which to file a Notice of Appeal for the 1998 taxation year until the 16th day of May 2003, i.e. approximately nine months after the deadline imposed by the Act.
+[19] Since the Notice of Appeal for the 1998 taxation year was filed after the one-year period specified by the Act, the application to extend the time must be dismissed. The court has no jurisdiction to extend the time imposed by the Act.
+[20] The application is dismissed.
+Signed at Vancouver, British Columbia, this 5th day of September 2003.
+"L.M. Little"
+Little, J.
+CITATION:
+2003TCC597
+COURT FILE NO.:
+2003-1904(IT)APP
+STYLE OF CAUSE:
+Irene Simser v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 25, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+September 5, 2003
+APPEARANCES:
+Agent for the Applicant:
+Brian Simser
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

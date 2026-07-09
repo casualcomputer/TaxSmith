@@ -1,0 +1,209 @@
+Title: Corpor-Air Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27238/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-75-27238-corpor-air-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-02-28
+
+# Corpor-Air Inc. v. The Queen
+
+- Citation: 2006 TCC 75
+- Decision date: 2006-02-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 812, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corpor-Air Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-28
+Neutral citation
+2006 TCC 75
+File numbers
+2003-2064(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2064(IT)G
+BETWEEN:
+CORPOR-AIR INC.,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on November 29, 2005, at Sept-Îles, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Charles-Henri Desrosiers
+Counsel for the Respondent:
+Sophie-Lyne Lefebvre
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments under the Income Tax Act for the 1999, 2000 and 2001 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Ontario, this 28th day of February 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 16th day of August 2006.
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC75
+Date: 20060228
+Docket: 2003-2064(IT)G
+BETWEEN:
+CORPOR-AIR INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is challenging the reassessments made in respect of it by the Minister of National Revenue (the "Minister") for the 1999, 2000 and 2001 taxation years (the "relevant period"). The Minister disallowed the Appellant's claim for $26,568, $25,059 and $30,297 as small business deductions ("SBDs") for the taxation years ending June 30, 1999, 2000, 2001, respectively.
+Background
+[2] During the relevant period, Yvette Poirier was the sole director, shareholder and officer of the Appellant. During that same period, Harvey Stever, Ms. Poirier's spouse, directly and indirectly controlled the following corporations (the "Stever Group"):
+- Les Gestions H.J. Stever Inc. ("Gestion"),
+- Avitair Inc. ("Avitair"),
+- Transsol Aviation Service Inc. ("Transsol"),
+- Air Sol Mécanique Inc. ("Airsol"),
+- Hand-Air Inc. ("Hand Air"),
+- Contract Air Inc. (except in 2001) ("Contractair").
+[3] The Stever Group corporations shared the entire $200,000 business limit during the taxation years in issue.
+[4] The only issue is whether Mr. Stever exercised de facto control over the Appellant, that is to say, as required by subsection 256(5.1) of the Income Tax Act (the "Act"), whether, during the relevant period, Mr. Stever had any direct or indirect influence that, if exercised, would have resulted in control in fact of the Appellant. If such control in fact existed, Mr. Stever would have controlled the Appellant directly or indirectly in any manner whatever during the relevant period. If such control existed, the Appellant and the Stever Group were associated corporations under paragraph 256(1)(b) of the Act and must then share the $200,000 business limit. There would then be grounds to confirm the Minister's assessments, since the entire $200,000 business limit had previously been allocated to the Stever Group corporations. In the opposite case, the Appellant would be entitled to the full amount of the SBD.
+The Facts
+[5] The activities of the Stever Group consist in providing various services to airline companies, such as supplying fuel, glycol and food, leasing equipment and hangar space, providing aircraft and baggage-handling services, and handling passenger check-in and boarding. The Appellant's operations mainly consist in providing counter services (passenger boarding, baggage handling, issuing of airline tickets and boarding passes) to airlines. During the relevant period, Ms. Poirier reported a salary from Airsol as her only source of income. The Appellant has no capital assets. It supplied its services to the commercial establishments of the Stever Group located at the Québec and Sept-Îles airports and used the Stever Group's assets, such as facilities, trucks and equipment.
+[6] During the relevant period, the Appellant's assets consisted essentially of cash and advances from the Stever Group. The advances made by the Appellant to the Stever Group bore no interest and had no terms of repayment. For example, at the end of its fiscal year ending June 30, 2001, the Appellant had assets of $1,739,265, allocated as follows:
+- Short-term assets $92,783
+- Advances to corporations $1,646,482
+$1,739,265
+[7] Advances were made to the following corporations:
+- Transsol $1,118,200
+- 33881672 Canada Inc. (sister) $112,282
+- Avitair $416,000
+$1,646,482
+[8] During the relevant period, the Appellant's liabilities consisted essentially of amounts owed to the Stever Group. The advances made by the Stever Group to the Appellant bore no interest and had no terms of repayment. For example, at the end of its fiscal year ending June 30, 2001, the Appellant had liabilities of $1,287,452, broken down as follows:
+- Short-term liabilities $81,905
+- Advances from corporations $1,205,547
+$1,287,452
+[9] The advances had been made to the Appellant by the following corporations:
+- Airsol $1,081,742
+- Gestion $91,794
+- Hand Air $32,011
+$1,205,547
+[10] During the relevant period, the Appellant never paid dividends to Ms. Poirier.
+[11] On May 30, 1993, the Appellant and Airsol signed a management agreement[1] under which:
+[TRANSLATION]
+(a) the Appellant was to hire all the Airsol employees it needed to handle aircraft refuelling and supply equipment on the ground;
+(b) the Appellant was to remunerate the employees that it had also hired based on market requirements;
+(c) the Appellant's remuneration for the services thus rendered was as follows: the cost of services rendered plus a minimum of 12 percent and a maximum of 15 percent annually;
+(d) Airsol agreed to make advances to the Appellant in order to finance the latter's activities.
+[12] On May 30, 1993, the Appellant and Transsol signed a management agreement[2] the terms of which were essentially the same as those of the agreement entered into that same day between the Appellant and Airsol.
+[13] The Appellant's management income and salary expenses were entered or corrected, respectively, at the end of each fiscal year by means of adjusting entries.
+[14] The Appellant's income was broken down as follows as of June 30, 2000:
+- Hydro use $17,500 (1)
+- Equipment rental $20,484 (1)
+- Glycol-related income $58,330 (2)
+- Fees - translation gain $3,188
+- Service $142,206 (3)
+- Total flight income $241,708
+- Management fees $151,433 (4)
+$393,141
+(1) This income came from AOM French Airlines, one of whose aircraft was out of service at the Québec airport in January 2000.
+(2) This income came from AOM French Airlines and Corsair International for glycol de-icing for their aircraft parked at the Québec airport.
+(3) This income came from AOM French Airlines, Corsair International and Air Inuit for various services related to the maintenance of their aircraft.
+(4) This amount came from an internal entry at the end of January 2000 to account for Airsol fees.
+[15] At June 30, 2001, the Appellant's income broke down as follows:
+- Materials revenue $1,930
+- Other revenue $1,000,000 (1)
+- Flight revenue $72,735
+- Sub-total $1,074,665
+- Management fees $121,200 (2)
+- Total revenues $1,195,865
+(1) This amount comes from the following internal entry made at the end of the Appellant's fiscal year:
+- Other revenue $1,000,000
+- Advance (due) Airsol 90,000
+- Advance (due) Avitair 410,000
+- Advance (due) Transsol 450,000
+- Advance (due) Tecno 50,000
+(2) This amount comes from the following internal entry made by the outside accountant:
+- Management fees $121,200
+- Advance (due) Gestion $20,000
+- Advance (due) Transsol $101,200
+[16] Most of the Appellant's revenues and management fees for its fiscal year ending June 30, 2001, came from the Stever Group through year-end adjusting entries.
+Preliminary Remarks
+[17] In these appeals, only Ms. Poirier testified in support of the Appellant's position, while only Pierre Jacques, an auditor with the Canada Customs and Revenue Agency, testified in support of the Respondent's position.
+[18] In weighing the evidence adduced by the Appellant, it is necessary to comment on the failure to call certain witnesses and to provide documentary evidence that could have confirmed the Appellant's statements. In Huneault v. The Queen, 98 DTC 1488, at paragraph 25, my colleague Lamarre J. recalled certain remarks made by Sopinka and Lederman in The Law of Evidence in Civil Cases which were cited by Sarchuk J. of our Court in Enns v. M.N.R., No. APP-1992(IT), February 17, 1987, 87 DTC 208, at page 210:
+In The Law of Evidence in Civil Cases, by Sopinka and Lederman, the authors comment on the effect of failure to call a witness and I quote:
+In Blatch v. Archer, (1774), 1 Cowp. 63, at p. 65, Lord Mansfield stated:
+'It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted.'
+The application of this maxim has led to a well-recognized rule that the failure of a party or a witness to give evidence, which it was in the power of the party or witness to give and by which the facts might have been elucidated, justifies the court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed.
+In the case of a plaintiff who has the evidentiary burden of establishing an issue, the effect of such an inference may be that the evidence led will be insufficient to discharge the burden. (Levesque et al. v. Comeau et al. [1970] S.C.R. 1010, (1971), 16 D.L.R. (3d) 425.)
+[19] In the instant case, before analyzing the relevant facts in detail, it is useful to make some general comments on the credibility of Ms. Poirier who, I would point out, was the only person to testify in support of the Appellant's position. I emphasize that the Appellant filed only three documents in support of its position: two management contracts (Exhibits A-2 and A-3) and its minute book (Exhibit A-1). In my opinion, it would be dangerous to consider Ms. Poirier's testimony credible without any solid, conclusive evidence in the form of documentation or the testimony of credible witnesses. Ms. Poirier's answers were generally vague, imprecise and ambiguous. Too often in cross-examination, she could not give any valid explanations of the transactions between the Appellant and the Stever Group; she constantly repeated that only the Appellant's in-house and outside accountants were able to provide valid explanations, and, I would point out, those accountants did not come and testify. Not only were her answers vague and imprecise, but they were too often contradicted by documentary evidence, as will be seen below. For these reasons, I attach little probative value to Ms. Poirier's testimony where not corroborated by sound documentary evidence or the testimony of credible witnesses.
+Appellant's Position
+[20] Counsel for the Appellant contended that the concepts of influence and control in fact used in subsection 256(5.1) of the Act are vague and imprecise and that the overly broad scope of this provision should therefore be limited.
+[21] He explained that the Stever Group had given the Appellant a mandate to perform certain contracts that its clients had awarded it because Ms. Poirier had the expertise to carry them out, expertise that the Stever Group did not have. He therefore contended that Mr. Stever could not exercise any influence over the Appellant's activities as he did not have the expertise to do so.
+[22] Counsel for the Appellant contended that, although the family ties between Ms. Poirier and Mr. Stever were more likely to give rise to a significant level of influence, it must not be automatically concluded that Mr. Stever had de facto control over the Appellant. He claimed that the Appellant had proven its expertise and economic independence in the instant case.
+[23] Counsel for the Appellant claimed that the fact that the Appellant had no capital assets and instead used the assets of the Stever Group to operate its business does not necessarily show that the Appellant was economically dependent. He explained that the Appellant was a service business and that it therefore did not need a lot of capital assets to operate its business. He added that the Appellant could have leased the assets needed to operate its business from another person rather than from the Stever Group.
+[24] Counsel for the Appellant contended that the fact that the Appellant had made loans to the Stever Group that bore no interest and had no terms of repayment did not necessarily show the influence of Mr. Stever. He explained on this point that the money belonged to the Appellant and that it could therefore do what it wanted with it. He added that the fact that the Stever Group had made loans to the Appellant did not demonstrate the Appellant's economic dependence. He explained that, if that were the case, the banks would control most Canadian corporations.
+[25] Counsel for the Appellant also contended that the fact that Ms. Poirier was unable to give any explanations whatsoever concerning the Appellant's audit balances nevertheless did not show that Ms. Poirier did not control the management of the Appellant. He explained that most taxpayers who control a corporation are unable to explain the adjusting entries made by their accountants.
+[26] In the alternative, counsel for the Appellant contended that there can be no de facto control of a corporation where a person holds de jure control of that corporation, as is here the case.
+Analysis
+[27] The only issue is whether, during the relevant period, Mr. Stever had any direct or indirect influence that, if exercised, would have resulted in control in fact of the Appellant. It should be immediately emphasized that it is not necessary for the evidence to establish that Mr. Stever held control in fact of the Appellant or that dominant influence was actually exercised. It is enough to find that such influence existed.
+[28] Subsection 256(5.1) of the Act does not set out the circumstances that may lead to the conclusion that such influence exists. However, it emerges from an analysis of that subsection that such influence may be derived from a franchise, licence, lease, marketing, supply or management contract or some other similar type of agreement. The text expressly provides that the mere fact that such an agreement exists does not mean that there is control, if two conditions are met. First, the corporation and the dominant entity must be dealing with each other at arm's length. Second, the main purpose of the agreement or arrangement from which the influence is derived must be to determine the ties between the corporation and the dominant entity regarding the manner in which a business carried on by the corporation is to be conducted. On the contrary, the existence of a management agreement or a marketing or supply agreement regarding the manner in which a business is conducted and binding parties that are not dealing with each other at arm's length could therefore constitute a relevant factor in determining that the dominant entity does exercise influence.
+[29] It should be noted that the Court is not limited to considering only agreements of these kinds in determining whether an entity has an influence that would result in the control in fact of a corporation. Each case must be analyzed based on the relevant facts, and, even though it might be desirable, it is not possible to provide an exhaustive list of all relevant factors. It is useful to recall the comments of Bowman J., who in Société foncière d'investissement Inc. v. Canada, No. 95-1996(IT)I, December 6, 1995, [1995] T.C.J. No. 1568, 1995 CarswellNat 1504, referred to an influence, whether economic, contractual or moral, over a corporation's affairs. Lastly, I would add that I consider the statement made in paragraph 23 of Interpretation Bulletin IT-64R4 a reasonable description of relevant factors in deciding whether an influence exists which, if exercised, could result in de facto control of a corporation.
+[30] In my view, the evidence brought in these appeals shows that Mr. Stever had a direct or indirect influence that, if exercised, would have resulted in control in fact of the Appellant. The most important factor supporting the finding that such an influence existed is the Appellant's economic dependence on the Stever Group.
+[31] First, before examining the economic dependence factor in light of the evidence adduced, I wish to emphasize that my analysis of the evidence concerning the Appellant's revenue and expenses allows me to conclude that the transactions between the Appellant and the Stever Group were artificial and, in my view, had as their sole purpose to increase the $200,000 business limit. First, I note that the services rendered by the Appellant to the Stever Group were not invoiced. I also note that the management income and salaries were entered or corrected, respectively, at the end of each fiscal year by means of adjusting entries for which Ms. Poirier could not give any explanation. I also see that, in 2000, the Appellant sold services worth $241,708 to third parties, in particular by leasing equipment for $20,484 and selling glycol for $58,330. However, I see no expense of that kind in the "operating expenses" item of the Appellant's financial statements for its fiscal year ending June 30, 2000. I emphasize that Ms. Poirier gave no explanation on this point. These financial statements show that, during that fiscal year, the Appellant received management fees of $141,433, all of which came from Airsol. Ms. Poirier testified that Airsol had paid those fees to the Appellant in accordance with the management agreement binding them (Exhibit A-3). I would point out that that agreement states the following: [TRANSLATION] "Corpor-Air Inc. shall hire all the employees of Airsol Mécanique Inc. and shall remunerate those employees in accordance with market requirements and shall re-invoice those same employees, including employee benefits and all expenses arising from the management of those employees to Airsol Mécanique Inc., plus a minimum of 12 percent and a maximum of 15 percent annually." However, I find that, if 15 percent is added to all the operating expenses (including salaries) incurred by the Appellant during that fiscal year, it would have received, at most, management fees of approximately $35,000. I would add that the description, given by Ms. Poirier in her testimony, of the services that the Appellant rendered during that fiscal year corresponds only in part to the description of the services that were to be rendered under the written agreement.
+[32] All these facts lead me to believe that the Stever Group, with the complicity of Ms. Poirier and Mr. Stever, simply transferred, by means of year-end adjusting entries, substantial income to the Appellant during the relevant period in order to enable it to qualify for the small business deduction.
+[33] Regardless of my findings on the artificial nature of the transactions between the Appellant and the Stever Group, I am of the view that the evidence adduced in these appeals shows that Mr. Stever had a direct or indirect influence that, if exercised, would have resulted in control in fact of the Appellant. The most important factor in support of the existence of such an influence is the Appellant's economic dependence on the Stever Group.
+[34] The following facts are, in my view, highly revealing of the existence of economic dependency.
+(i) The evidence showed that the Stever Group was virtually the Appellant's only client because the revenues from the Appellant's other clients (Air Inuit, AOM French Airlines and Corsair International) represented only a very small percentage of the Appellant's total revenue during the relevant period. For example, analysis of the Appellant's revenue in 2001 shows that, of revenues of $1,195,851, generating a profit of $188,895, $1,071,000 came from the Stever Group.
+(ii) The Appellant owned no capital assets. Not only did the Appellant render services to the Stever Group at the latter's facilities, it also used its assets, such as buildings, trucks and equipment. I agree with counsel for the Appellant that this fact, considered in isolation, is not sufficient to conclude automatically that the Appellant was economically dependent on the Stever Group. However, although the fact that it used or leased capital property from the Stever Group rather than lease it from another person cannot be in itself decisive, I nevertheless cannot disregard it since this was in no way an isolated fact, particularly since the Appellant was unable to show that it had paid the Stever Group a consideration for the use of its assets.
+(iii) The size of the loans between the corporations - loans which, I would point out, had no terms of repayment and bore no interest - also shows, in my view, the degree to which the Appellant was economically dependent on the Stever Group. I note that virtually all the Appellant's retained earnings were invested in the form of non-interest-bearing loans and that the loans payable by the Appellant to the Stever Group represent virtually all of its liabilities.
+[35] I have no hesitation in finding here not only that Mr. Stever had a direct or indirect influence on the Appellant, but also that, in actual fact, it was Mr. Stever who had control in fact of the Appellant.
+[36] As to the alternative argument raised by counsel for the Appellant, that there could be no de facto control of the Appellant where there existed de jure control of that corporation, I find that subparagraph 256(1.2)(b)(ii) of the Act expressly provides that a person may control a corporation even if another person controls it as well. The fact that subsection 256(1.2) does not refer to subsection 256(2.1) of the Act does not preclude the coexistence of de jure control by one person and de facto control by another. These two notions appear in subsection 256(1) of the Act. In other words, it is not necessary for subsection 256(2.1) of the Act to refer to subsection 256(5.1). The reference to subsection 256(1) of the Act is sufficient.
+[37] Consequently, the appeals are dismissed, and costs are awarded to the Respondent.
+Signed at Ottawa, Ontario, this 28th day of February 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 16th day of August 2006.
+Monica F. Chamberlain, Reviser
+CITATION:
+2006TCC75
+COURT FILE NO.:
+2003-2064(IT)G
+STYLE OF CAUSE:
+Corpor-Air Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Sept-Îles, Quebec
+DATE OF HEARING:
+November 29, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+February 28, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Charles-Henri Desrosiers
+Counsel for the Respondent:
+Sophie-Lyne Lefebvre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Charles-Henri Desrosiers
+Firm:
+Desrosiers et Associés
+Sept-Îles, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-3.
+[2] Exhibit A-2.

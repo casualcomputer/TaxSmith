@@ -1,0 +1,117 @@
+Title: Dnebosky v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/397297/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-78-397297-dnebosky-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-02-06
+
+# Dnebosky v. The Queen
+
+- Citation: 2019 TCC 78
+- Decision date: 2019-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4359, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dnebosky v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-02-06
+Neutral citation
+2019 TCC 78
+File numbers
+2017-4368(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Notes
+A correction was made on June 7, 2019
+Decision Content
+Citation: 2019 TCC 78
+Date: 20190604
+Docket: 2017-4368(IT)I
+BETWEEN:
+ILYA DNEBOSKY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+(Edited for punctuation, capitalization, spelling, paragraph breaks and accuracy from the transcript of Reasons for Judgment delivered orally from the Bench on February 6, 2019 at Vancouver, British Columbia)
+Graham J.
+[1] In 2012, 2013 and 2014 Ilya Dnebosky was employed as a security guard in the film and television industry in British Columbia. When he filed his tax returns for those years Mr. Dnebosky deducted various expenses from his employment income. The Minister of National Revenue denied the deduction of those expenses and Mr. Dnebosky has appealed that denial. I am going to give my oral judgment on the appeals at this time. I will not be issuing written reasons for judgment.
+[2] I heard the testimony and cross-examination of Mr. Dnebosky. Except as noted below, I found him to be a credible witness.
+[3] The key issue in this case is whether the denied expenses should be allowed or not. I will deal with each category of expenses separately.
+[4] Turning first to the accounting fees, Mr. Dnebosky deducted $160, $160 and $200 in accounting fees in 2012, 2013 and 2014 respectively. While there are circumstances where accounting fees may be a deductible expense for tax purposes, they are never deductible as employment expenses. Accordingly, I find
+[5] that Mr. Dnebosky's deduction of those fees was properly disallowed by the Minister.
+[6] Turning next to home office expenses, Mr. Dnebosky deducted $477, $495 and $502 as home office expenses in 2012, 2013 and 2014 respectively. Subsection 8(13) of the Act prevents an employee from deducting home office expenses unless the space used by the employee is either the place where the employee principally performs the duties of his or her employment or is used exclusively for the purpose of earning income from the employment and used on a regular and continuous basis for meeting customers or other persons in the ordinary course of performing the duties of the employment.
+[7] Mr. Ilya Dnebosky does not meet these tests. His evidence was that he used his home office for organizing his employment expenses and preparing his tax returns. Accordingly, I find that he was not entitled to deduct his home office expenses.
+[8] Turning next to the other business expenses, Mr. Dnebosky deducted $771 and $481 in other business expenses in 2012 and 2013 respectively. He had no recollection of what those amounts consisted of and no supporting receipts. He has thus failed to prove that these expenses were incurred for employment purposes. Accordingly, I find that Mr. Dnebosky was not entitled to deduct his other business expenses.
+[9] Before moving on to the next categories of expenses, I need to deal with a key issue that arose in this appeal.
+[10] Pursuant to subsection 8(10) of the Income Tax Act, an employee is only entitled to deduct motor vehicle expenses, travel expenses and supplies expenses if the employee has obtained a signed T2200 form from his or her employer certifying that the conditions necessary for claiming those expenses were met.
+[11] The circumstances surrounding Mr. Dnebosky's T2200s are complicated. I heard evidence on this issue from both Mr. Dnebosky and from three other witnesses: Richard Walker of Entertainment Partners Canada Inc., Bill Caywood of Cast & Crew Entertainment Services Inc., and Lorrie Ward of the Teamsters Union. I found all of these witnesses to be credible.
+[12] Mr. Dnebosky was a member of the Teamsters Union. The union negotiated a master agreement with various film and television producers. It established the terms and conditions pursuant to which production companies would employ union members. The master agreement governed all work that Mr. Dnebosky did in the years in question.
+[13] Mr. Dnebosky worked on various different movies and television shows. Generally, each of those movies or shows involved a different production company. He was hired by the production companies using a system through which the union and producers had agreed that work would be allocated to union members. However, in a system that appears unique to the film and television industry, Mr. Dnebosky was not paid by the production companies. Instead the production companies paid other companies and those companies, in turn, paid Mr. Dnebosky. Mr. Dnebosky and the other witnesses referred to these companies as "employers of record". The main two companies in the years in question were Entertainment Partners Canada Inc. and Cast & Crew Entertainment Services Inc. These companies were neither what one would normally consider to be payroll companies nor employment agencies.
+[14] A traditional payroll company processes an employer's payroll, issues paycheques or direct deposits, prepares the necessary remittances and prepares the necessary tax forms, such as T4s. The payroll company does all of this as an agent for the employer. The remittances are made to the employer's remittance account and the T4s are issued in the employer's name. When a payroll company is involved, any T2200s that are required are issued by the actual employer, not the payroll company.
+[15] An employment agency hires employees and sends them to work for its clients. It pays the employees, makes the remittances on its own account and issues T4s in its own name. When an employment agency is involved, any T2200s that are required are issued by the employment agency, not by its clients.
+[16] The companies that process Mr. Dnebosky's pay appear to be a blend of payroll companies and employment agencies. Like both payroll companies and employment agencies, they pay workers, make remittances and issue T4s. They are like a payroll company in that they do not hire or fire the employees, yet they are like an employment agency in that they make remittances on their own accounts and issue T4s in their own names. This somewhat unusual situation leaves employees like Mr. Dnebosky in a difficult position when it comes to T2200s.
+[17] The companies that issue T4s to these employees will not issue T2200s to them because the companies have no idea what the terms and conditions of the employees' employment were. At the same time, despite the fact that the master agreement indicates that the production companies should issue T2200s to the employees, the evidence before me indicates that they are generally unwilling to do so. Despite this rather unusual arrangement, I find that for the purpose of claiming employment expenses, Mr. Dnebosky's employers were the production companies, not the companies that issued T4s to him. Accordingly, I find that the production companies are the ones that should have issued T2200s to him. Since none of the production companies that employed Mr. Dnebosky issued T2200s to him, Mr. Dnebosky is in a difficult position.
+[18] Deputy Judge Jorré recently issued a decision involving employment expenses in the film and television industry in a case called Chao v. The Queen. The case involves one of the companies that issued T4s to Mr. Dnebosky, Entertainment Partners Canada Inc. In that decision, Deputy Judge Jorré considered what would happen if an employer refused to provide a T2200 to an employee. He reviewed the case law and held that the employee “…would need to make the efforts that a careful diligent person who was aware of their legal obligations would make”. and that “[in] addition, in a case where an employer has refused to fill out the form, it would have to be shown that the employer acted unreasonably or in bad faith”.
+[19] Deputy Judge Jorré went on to conclude that the taxpayer before him had not met that standard. Mr. Dnebosky submits that he has met the standard described by Deputy Judge Jorré and that accordingly he should be relieved of the obligation to produce T2200s. The Respondent submits that Mr. Dnebosky has not met the standard.
+[20] For the reasons set out in more detail below, I find that even if Mr. Dnebosky had met the standard and was not required to produce a T2200, I still would not have allowed him to claim the expenses in question. I therefore do not have to decide whether he met the standard or not and I decline to do so.
+[21] Returning then to the remaining categories of expenses, Mr. Dnebosky deducted $6,744, $6,959 and $7,411 as motor vehicle expenses in 2012, 2013 and 2014 respectively.
+[22] His evidence was that he used his vehicle to travel to and from the various jobsites where he worked. He argues that it would be impossible for him to get to work if he did not have a vehicle, as he often works in locations that are not served by transit or works at night when transit is not running or not running as frequently.
+[23] While I appreciate Mr. Dnebosky's argument, the law is clear that travel between one's home and one's work is a personal expense and thus may not be deducted as an employment expense. This is true even if it is impossible to get to the jobsite without a vehicle. Even if Mr. Dnebosky had a T2200 from each of his employers, he would still not have been permitted to deduct his costs of commuting to and from the jobsites.
+[24] I acknowledge that Mr. Dnebosky sometimes had to travel to more remote locations. My understanding is that these locations fell into two categories. The first category was within the Lower Mainland, but a fair distance from Vancouver. The second category was locations in the interior of B.C. or on Vancouver Island. I will deal with each category separately.
+[25] For the first category, my understanding is that the master agreement with the union provided that the employer would pay a mileage allowance for every kilometre driven outside of certain defined boundaries. Paragraph 8(1)(h.1) of the Act specifically prevents an employee from deducting motor vehicle expenses if the employee has received an allowance in respect of those expenses and that allowance has not been included in the employee's income. There was no evidence that would indicate that any allowances that Mr. Dnebosky received when travelling outside of the boundaries established by the master agreement were included in his income. Therefore, I find that any expenses related to travel within this first category would not be deductible.
+[26] Turning then to the second category, Mr. Dnebosky testified that the production companies did not pay a mileage allowance for travel to work in the interior of B.C. and on Vancouver Island. This is because the production companies exercised their rights under the master agreement to hire local workers in the parts of B.C. where they were filming. I find that when Mr. Dnebosky worked on these jobs, he did so not because his employer required him to travel to these areas, but rather because he chose to travel there in order to obtain work from an employer who would not otherwise have offered him work and would otherwise have offered it to local employees. While I understand Mr. Dnebosky believes that the expenses that employees incur travelling to get work that would not otherwise be available to them in their hometown should be deductible, Parliament has decided that these expenses are not deductible and has written the Income Tax Act on that basis. I do not have the power to change the Act, even if I do not think that it is fair. Although I am sympathetic to Mr. Dnebosky's argument and I applaud the fact that he worked hard and incurred extra expenses to ensure that he was fully employed, I cannot change the law to allow him these deductions.
+[27] In addition to all the foregoing, Mr. Dnebosky also argues that his vehicle provides him with a safe place to hide from threats he may encounter on the job and a place to warm up and eat during his frequent overnight shifts. There is a difference between an expense that an employee incurs because it will make his or her employment easier and an expense that an employer requires an employee to incur. Only the latter type of expense is deductible.
+[28] The problem that Mr. Dnebosky faces is that a T2200 generally serves as evidence of the terms and conditions of an employee's employment and demonstrates what expenses the employer requires the employee to incur. Without a T2200, Mr. Dnebosky is missing a key piece of evidence. Thus, he needs to prove through other means that the various production companies require him to incur various expenses in the course of his employment. In other words, he needs to provide other evidence of the conditions of his employment.
+[29] The master agreement between the union and producers was entered into evidence. Mr. Dnebosky did not point to anything in that agreement whereby his various employers could be said to require him to have a vehicle for safety or warmth purposes. I heard evidence that various additional forms were completed every time Mr. Dnebosky began working for a new production company. None of those forms was entered into evidence, so I have no way of knowing whether those forms required him to have a vehicle. Even if I stepped back and consider whether, from a common sense of point of view, it is more likely than not that the production companies would have required Mr. Dnebosky to have vehicle as a condition of his employment to keep safe and warm, I am forced to conclude that they would not have. On the contrary, absent some term in their agreement with the union requiring them to do otherwise, it seems more likely to me that they would have preferred that Mr. Dnebosky was outside patrolling the assets he was protecting than sitting in his vehicle and would have been indifferent as to where he took his breaks.
+[30] Based on all of the foregoing, I find that Mr. Dnebosky was not entitled to deduct his vehicle expenses.
+[31] Turning next to the travel expenses, Mr. Dnebosky deducted $618 in travel expenses in 2014. He testified that these expenses were for ferry trips to Vancouver Island for work purposes. I find that he was not entitled to deduct these expenses for the same reason that I found he was not able to deduct his vehicle expenses for travelling to get work in the interior of B.C. and on Vancouver Island. I am not satisfied that these were expenses that his employers required him to incur.
+[32] Turning next to meals. Mr. Dnebosky deducted $409, $558 and $544 as meal expenses in 2012, 2013 and 2014 respectively. It appears to me that these meals were simply personal expenses that Mr. Dnebosky incurred to feed himself during the long shifts that he worked. There is no evidence that would indicate that his employers required him to incur meal expenses. As a result, I find that Mr. Dnebosky was not entitled to deduct his meal expenses.
+[33] Turning next to office expenses, Mr. Dnebosky deducted $913, $1,363 in office expenses in 2012 and 2013 respectively. He did not provide any receipts for these expenses. He stated that he kept all of his receipts in his vehicle and that he lost all of them when his vehicle was stolen. This is the sole point on which I did not find Mr. Dnebosky to be credible. His explanations of where he kept his documents, how he came to lose those documents and why he had certain documents but not others were inconsistent and implausible.
+[34] On a balance of probabilities, I find that Mr. Dnebosky simply did not keep copies of the receipts in question. In the absence of receipts, I am not prepared to allow any of Mr. Dnebosky's office expenses, as I neither accepted these expenses were incurred nor if they were incurred, that they were incurred for employment purposes.
+[35] Finally, turning to supplies, Mr. Dnebosky deducted $1,191 as supplies expenses in 2014. He did not provide receipts for these expenses either. I would deny them on the same basis that I have denied the office expenses. In addition, the types of supplies that Mr. Dnebosky described in his testimony were, for the most part, not things that I would have expected his employers would have required him to provide.
+[36] Based on all of the foregoing, the appeals are dismissed.
+This Amended Reasons for Judgment is issued in substitution of the Reasons for Judgment dated April 12, 2019.
+Signed at Ottawa, Canada, this 4th day of June 2019.
+“David E. Graham”
+Graham J.
+CITATION:
+2019 TCC 78
+COURT FILE NO.:
+2017-4368(IT)I
+STYLE OF CAUSE:
+ILYA DNEBOSKY v THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 5 and 6, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF ORAL REASONS:
+February 6, 2019
+DATE OF REASONS FOR JUDGMENT:
+April 12, 2019
+DATE OF AMENDED REASONS FOR JUDGMENT
+June 4, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marta Zemojtel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

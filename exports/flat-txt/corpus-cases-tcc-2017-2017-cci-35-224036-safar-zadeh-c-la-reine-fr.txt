@@ -1,0 +1,184 @@
+Title: Safar-Zadeh c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/224036/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-35-224036-safar-zadeh-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-03-07
+
+# Safar-Zadeh c. La Reine
+
+- Citation: 2017 CCI 35
+- Decision date: 2017-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2263, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Safar-Zadeh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-03-07
+Référence neutre
+2017 CCI 35
+Numéro de dossier
+2016-642(GST)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-642(GST)I
+ENTRE :
+NAHID SAFAR-ZADEH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 8 décembre 2016, à Toronto (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocat de l’appelante :
+Me Bryan A. Rowe
+Avocate de l’intimée :
+Me Judy Michaely
+JUGEMENT
+Conformément aux motifs du jugement ci-joint, l’appel relatif à la cotisation établie au titre de la Loi sur la taxe d’accise, dont l’avis est daté du 8 novembre 2013 et par lequel le ministre du Revenu national a refusé la demande de l’appelante en vue d’obtenir un remboursement pour habitations neuves à l’égard de la maison située au no 161, promenade Shirrick, à Richmond Hill (Ontario), est rejeté sans frais.
+Signé à Ottawa, Canada, ce 7e jour de mars 2017.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2017 CCI 35
+Date : 20170307
+Dossier : 2016-642(GST)I
+ENTRE :
+NAHID SAFAR-ZADEH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] L’appelante a présenté une demande de remboursement de la taxe sur les produits et services/taxe de vente harmonisée pour habitations neuves à l’égard d’une maison située au no 161, promenade Shirrick, à Richmond Hill. Le ministre du Revenu national a rejeté la demande de remboursement.
+[2] La question en litige dans le présent appel consiste à savoir si l’appelante, au moment elle a signé le contrat d’achat, achetait la maison dans l’intention de s’en servir comme lieu de résidence habituelle de sa famille [1] .
+[3] L’intimée a établi la cotisation en tenant pour acquis que l’appelante et sa famille n’avaient pas l’intention de se servir de la maison située au no 161, promenade Shirrick comme lieu de résidence habituelle à l’époque où l’appelante l’a achetée, et qu’ils n’ont pas résidé à cet endroit.
+[4] La présente affaire repose sur les faits qui lui sont propres ainsi que sur la crédibilité. Il est bien établi que, lorsqu’il est nécessaire de déterminer une intention, il faut prendre en compte non seulement l’intention déclarée de la personne, mais aussi les circonstances factuelles connexes.
+[5] L’appelante a témoigné, tout comme son époux, son beau-frère, Ebrahim, et un autre beau-frère, Yusuf.
+[6] L’appelante a signé le contrat d’achat et de vente relatif à la maison située au no 161, promenade Shirrick le 27 juin 2011. À cette époque, le terrain était vacant et la maison était à construire. La clôture de l’achat a eu lieu le 21 novembre 2012, ou aux environs de cette date.
+[7] La demande de remboursement a été présentée le 2 janvier 2013 et l’avis de cotisation refusant le remboursement était daté du 8 novembre 2013.
+[8] L’appelante et sa famille ont vécu au no 215, promenade Shirrick (l’« ancienne maison ») pendant les deux ou trois années précédant la clôture de l’achat, en novembre 2012. L’ancienne maison est située à une distance d’environ 200 ou 210 mètres du no 161, promenade Shirrick (la « nouvelle maison »). Les deux sont situées aux extrémités opposées du même pâté de maisons.
+[9] Le prix d’achat indiqué dans le contrat du 27 juin 2011 était de 501 490 $, et l’appelante devait effectuer trois acomptes d’un montant total de 40 000 $. Le dernier acompte devait être versé le 4 novembre 2011.
+[10] Ces acomptes ont été payés par son beau-frère, Ebrahim.
+[11] L’appelante a déclaré que la maison leur avait coûté environ 500 000 $ et qu’ils avaient dépensé environ 50 000 $ pour d’autres améliorations, ce qui donne en tout un montant d’environ 550 000 $ [2] . La somme d’environ 50 000 $ a été empruntée sur une marge de crédit conjointe appartenant à l’époux de l’appelante et à Ebrahim.
+[12] L’appelante a vendu l’ancienne maison environ cinq ou six mois après la clôture du 21 novembre 2012, au prix de 625 000 $.
+[13] En 2010, 2011, 2012 et 2013, l’appelante et son époux ont déclaré les revenus bruts approximatifs suivants : 34 000 $, 14 500 $, 16 400 $ et 13 125 $ [3] .
+[14] L’appelante a relaté dans son témoignage qu’à l’époque de la signature du contrat d’achat, la famille était à la recherche d’une nouvelle maison, différente de celle qu’elle possédait et dotée d’une nouvelle cuisine et d’une cour arrière plus vaste.
+[15] L’appelante a déclaré qu’elle était emballée, parce que la nouvelle maison aurait la cuisine qu’elle voulait, ainsi que certaines autres caractéristiques. La maison était proche de leur ancienne maison et, de ce fait, encore proche de l’école que fréquentait leur enfant aîné. Elle était également proche de l’école que l’appelante elle-même fréquentait à l’époque.
+[16] Selon l’appelante, après la clôture de l’achat de la nouvelle maison, la famille y a emménagé lentement.
+[17] Pendant le premier mois, elle y a fait quelques travaux supplémentaires. Ces travaux ont consisté à faire des réparations dans le sous-sol et à poser des appareils d’éclairage.
+[18] Le déménagement a été fait principalement par des membres de la famille, mais celle-ci a quand même embauché quelques personnes étrangères à la famille pour déplacer des articles plus lourds. Ces personnes ont été payées en argent comptant, et l’appelante n’a pas de reçus pour le déménagement.
+[19] Ils n’ont pas vendu leur ancienne maison.
+[20] L’époux de l’appelante a expliqué que, à l’époque, le beau-frère de l’appelante, Yusuf, était à la recherche d’une maison dans laquelle sa petite amie et lui emménageraient et qu’ils ont donc offert à Yusuf de lui louer l’ancienne maison. Ce dernier a accepté l’offre et ils lui ont loué la maison.
+[21] Comme le beau-frère n’était pas pressé d’emménager, la famille a pu quitter lentement l’ancienne maison. Le beau-frère y a emménagé avec sa petite amie, et il leur payait 1 800 $ par mois en argent comptant. Cela procurait à la famille un revenu supplémentaire.
+[22] Au cours du premier mois d’occupation de la nouvelle maison, l’appelante a constaté quelques problèmes. Cela l’a contrariée et attristée, parce qu’elle voulait vivre dans cette maison.
+[23] Plus précisément, elle a pris conscience du bruit et, la nuit, de la vive lueur qui venaient de la rue Yonge, laquelle était située à une distance d’environ 20 pieds de la maison.
+[24] L’appelante n’avait pas pris conscience du bruit avant d’emménager. Ce bruit avait un effet sur le sommeil des enfants. En fait, l’école que fréquentait leur aîné avait téléphoné pour dire que ce dernier s’endormait en classe.
+[25] Il y avait non seulement du bruit, mais aussi un problème de sécurité pour leurs enfants. À deux reprises, leur fille cadette, née en 2010, s’était mise à courir vers la rue Yonge. Il n’y avait pas de clôture et, par chance, l’un des parents avait pu intercepter la fillette.
+[26] L’appelante a déclaré qu’en raison du bruit et du problème de sécurité, son époux et elle ont évoqué pendant deux ou trois mois l’idée de déménager de nouveau et, en janvier ou en février, ils ont décidé qu’ils ne pouvaient pas rester là à cause du problème de sécurité [4] .
+[27] Ils ont parlé avec leur beau-frère Yusuf, qui louait leur ancienne maison, et ils ont expliqué qu’ils devaient s’y réinstaller. Yusuf était mécontent, mais il a accepté de déménager en raison du problème de sécurité.
+[28] Yusuf a déménagé, la famille s’est réinstallée dans son ancienne maison, située à l’autre extrémité du pâté de maisons, et l’appelante a mis en vente la nouvelle maison. Leur retour à l’ancienne maison a été facilité par le fait que certains de leurs effets avaient été laissés dans le garage de cette maison quand ils avaient emménagé dans la nouvelle maison.
+[29] La nouvelle maison s’est vendue six mois environ après la date à laquelle l’appelante en était devenue propriétaire, soit le 21 novembre 2012.
+[30] Elle a expliqué qu’il y avait une certaine urgence à vendre la maison, parce que leurs revenus n’étaient pas suffisants pour payer l’hypothèque.
+[31] L’appelante a déclaré avoir mis en vente la nouvelle maison en janvier 2013. Ils ont occupé cette dernière pendant deux ou trois mois avant de réintégrer leur ancienne maison.
+[32] Elle s’est servie du produit de la vente pour rembourser à son beau-frère Ebrahim les acomptes de 40 000 $ que celui-ci avait payés, pour rembourser le montant emprunté sur la marge de crédit conjointe de son époux et d’Ebrahim et pour payer la commission immobilière sur la vente [5] .
+[33] L’appelante a également déclaré qu’après avoir fait ces remboursements, il ne restait plus de profit [6] .
+[34] L’appelante et son époux ont tous deux déclaré n’avoir jamais fait part de leur changement d’adresse à un organisme gouvernemental ou à une société de carte de crédit. Ils ont affirmé qu’il en était ainsi, parce qu’ils ne sont pas demeurés assez longtemps dans la nouvelle maison et qu’ils pouvaient récupérer leur courrier chez Yusuf. L’époux a bien reçu quelques factures de services publics à la nouvelle maison, mais il n’en a gardé aucune.
+[35] L’ancienne maison était enregistrée au nom de l’appelante et de son époux, mais la nouvelle maison n’était enregistrée qu’au nom de l’appelante. Celle-ci n’a pas expliqué pourquoi.
+[36] En contre-interrogatoire, l’appelante a déclaré n’être jamais allée jeter un coup d’œil au terrain sur lequel serait bâtie la nouvelle maison avant de l’acheter. Elle l’avait juste examiné sur la carte. Elle était trop occupée par les enfants et ses études.
+[37] Une bonne part du témoignage de l’époux de l’appelante confirmait ce que celle-ci a déclaré. Outre une partie du témoignage de l’époux mentionnée plus tôt, ce dernier a également déclaré ce qui suit.
+[38] Yusuf est retourné vivre à l’endroit où il vivait avant lorsqu’il a quitté l’ancienne maison.
+[39] L’époux de l’appelante est allé jeter un coup d’œil au terrain avant l’achat de la maison. Il était au courant qu’il n’y avait pas de barrière ou de clôture, mais la Ville était censée en construire une [7] .
+[40] Il n’avait jamais songé à d’éventuels problèmes de sécurité pour les enfants avant qu’ils emménagent et il n’avait jamais pensé ériger une clôture ou une barrière sur le terrain de la nouvelle maison.
+[41] L’époux de l’appelante a aussi déclaré que leur ancienne maison se trouvait loin de la nouvelle maison, et qu’il était très difficile d’imaginer de quoi aurait l’air une maison vue sur papier une fois construite.
+[42] Le beau-frère de l’appelante, Ebrahim, a témoigné. Il est tailleur, il tient boutique à trois endroits différents et il est aussi agent immobilier à temps partiel.
+[43] Ebrahim a payé au nom de l’appelante les 40 000 $ d’acompte qu’exigeait le contrat d’achat. Environ 30 000 $ venaient de fonds qu’il avait économisés et les 10 000 $ restants d’une marge de crédit. Il n’a facturé à l’appelante aucun intérêt sur l’argent prêté et il n’a eu aucune objection à payer les intérêts sur les fonds tirés de la marge de crédit.
+[44] Il était également entendu que l’appelante et son époux devaient lui rembourser, petit à petit et à la longue, l’argent emprunté. Aucun délai de remboursement n’était fixé.
+[45] Il n’a pas pris part à l’achat de la nouvelle maison, mais il a agi comme agent de l’appelante pour la vente. Il y avait une commission de 3,5 %; 1 % de la commission lui revenait, tandis que les 2,5 % restants étaient destinés à l’agent qui représentait les acheteurs. Sa commission a été de 6 250 $.
+[46] Le beau-frère de l’appelante, Yusuf, a déclaré que sa petite amie et lui avaient décidé de vivre ensemble. L’appelante lui avait dit que la famille songeait à mettre en location l’ancienne maison et elle a offert de la lui louer. Il a accepté, a pris en location la maison et y a emménagé avec sa petite amie. Le loyer était de 1 800 $ par mois, qu’il payait en argent comptant, et le loyer incluait tout.
+[47] Il a vécu dans cette maison environ trois ou quatre mois.
+[48] Il ignorait à quel moment il quitterait cette maison avant d’y emménager, mais il s’attendait à y vivre pendant un certain temps.
+[49] Il n’a averti aucun organisme gouvernemental de son changement d’adresse. Il n’a pas reçu de facture de services publics pour cette maison, parce que le loyer incluait tout et il n’a jamais informé un organisme gouvernement quelconque que son adresse avait changé pour le no 215, promenade Shirrick. Il n’a pas fait changer son permis de conduire, parce qu’il était trop occupé.
+[50] Il n’avait pas à avertir une société de carte de crédit de son changement d’adresse, parce qu’il ne détenait aucune carte de crédit; son crédit était mauvais.
+[51] Yusuf a été mécontent quand il a dû déménager, mais il a conclu qu’il devait le faire et laisser l’appelante et sa famille revenir dans leur ancienne maison pour assurer la sécurité de sa nièce et de son neveu, étant donné [traduction] « […] la façon dont ils [lui avaient] expliqué ce qui se passait dans ce quartier [8] ».
+[52] Son déménagement l’a aussi amené à rompre avec sa petite amie, et il est retourné là où il vivait avant, dans la maison de ses parents.
+[53] Il y a d’importantes parties des témoignages de l’appelante et de ses témoins auxquelles je ne souscris pas et, de ce fait, je n’admets pas que l’appelante et sa famille ont emménagé dans la nouvelle maison, pas plus que l’appelante a acheté la nouvelle maison dans l’intention de s’en servir comme lieu de résidence habituelle de la famille.
+[54] Les facteurs examinés ci-après, lorsqu’on les considère dans leur ensemble, font que la preuve de l’appelante est peu vraisemblable.
+[55] Il semble peu vraisemblable que l’appelante n’aurait pas été consciente d’un problème de bruit avant la conclusion de l’achat si elle avait l’intention d’emménager dans la maison.
+[56] C’est un comportement commun que d’aller voir l’emplacement d’une nouvelle maison avant de signer le contrat d’achat et de vente, ainsi que d’aller inspecter les lieux de temps à autre pendant la construction, et ce, d’autant plus que la nouvelle maison était située à l’extrémité opposée du pâté de maisons, à une distance de 200 ou 210 mètres seulement, ce qui représentait une promenade de trois minutes peut-être. Cela semble encore plus probable, étant donné que l’appelante a déclaré qu’elle était emballée par la nouvelle maison.
+[57] Il est difficile de concevoir qu’en visitant les lieux l’appelante n’aurait pas constaté le bruit venant de la rue Yonge, surtout étant donné que le bruit d’une rue est plus évident à l’extérieur d’une maison qu’à l’extérieur [9] .
+[58] Il semble également peu vraisemblable que la famille n’ait pas été consciente du bruit au préalable, car le beau-frère de l’appelante, Ebrahim, était agent immobilier à temps partiel. On s’attendrait à ce qu’un agent immobilier soit au courant des avantages et des désavantages d’emplacements particuliers, et à ce qu’il souligne divers facteurs, comme le niveau de bruit. D’autant plus qu’il aurait voulu que son frère et sa belle-sœur soient heureux dans leur nouvelle maison et qu’il avait un intérêt personnel, étant donné qu’il leur prêtait une somme de 40 000 $ pendant une période indéterminée pour verser l’acompte.
+[59] J’ai aussi du mal à admettre que l’appelante a été surprise par le problème de sécurité que présentait la maison pour leur jeune enfant. Il s’agissait de leur second enfant et les parents n’auraient pas pu ne pas être au courant du risque qu’une enfant âgée de trois ans s’échappe en courant [10] . On s’attendrait à ce que les parents considèrent l’installation d’une clôture comme une priorité. Il est peu vraisemblable que cela n’aurait pas été prévu [11] .
+[60] Ni l’appelante, ni son époux, ni Yusuf, qui a emménagé dans leur ancienne maison, n’ont averti un organisme gouvernemental quelconque de leur déménagement, ce qui inclut le Régime d’assurance-maladie de l’Ontario (le « RAMO ») et, pour les permis de conduire, le ministère des Transports de l’Ontario. Ils ont également omis de fournir un document quelconque montrant que leur nouvelle adresse était le no 161, promenade Shirrick ou, dans le cas de Yusuf, le no 215, promenade Shirrick.
+[61] Il est bien connu qu’il est obligatoire d’aviser des organismes gouvernementaux, notamment pour sa carte du RAMO et son permis de conduire. En fait, pour ce qui est du permis de conduire en Ontario, la loi exige que le changement soit fait dans un délai de six jours; pour le RAMO, le délai est de 30 jours [12] .
+[62] Si l’appelante et son époux ainsi que Yusuf ont emménagé comme ils l’ont affirmé, il est peu vraisemblable qu’ils auraient tous omis d’en informer un organisme gouvernemental quelconque, surtout pour ce qui était du permis de conduire et de la carte du RAMO. Les gens se soucient beaucoup de leur assurance-maladie et de leur capacité de conduire. Il est également peu vraisemblable qu’aucun d’eux ne détienne le moindre document pouvant corroborer le déménagement en montrant leur adresse.
+[63] En 2010, l’année précédant la date du contrat d’achat et de vente de la nouvelle maison, l’appelante et son époux ont déclaré un revenu brut d’environ 34 000 $. En 2011, l’année du contrat d’achat et de vente, l’appelante et son époux ont déclaré un revenu brut d’environ 14 500 $. En 2012, l’année où l’appelante a conclu l’achat de la nouvelle maison, l’appelante et son époux ont déclaré un revenu brut d’environ 16 400 $. En 2013, l’appelante et son époux ont déclaré un revenu brut d’environ 13 125 $.
+[64] L’appelante et son époux ne devaient pas avoir beaucoup d’économies, car ils ont dû emprunter à Ebrahim la totalité de l’acompte de 40 000 $. Il est difficile de concevoir comment cette famille de deux adultes et de deux enfants avait les moyens d’acheter une maison d’un prix d’environ 500 000 $ et de dépenser ensuite la somme de 50 000 $ pour des travaux supplémentaires avec un revenu de 34 000 $ et, encore moins, un revenu de 16 400 $, surtout qu’ils n’avaient pas l’intention de vendre leur ancienne maison.
+[65] Ebrahim ne leur a pas facturé des intérêts, mais il aurait quand même fallu qu’ils paient des frais d’intérêts hypothécaires élevés sur une somme de l’ordre de 450 000 $.
+[66] Même si le loyer de 1 800 $ par mois que payait Yusuf aurait aidé l’appelante et son époux, le montant réel dont ils disposaient pour aider à payer la nouvelle maison aurait été inférieur, car le loyer incluait tout et aurait à couvrir les frais de chauffage, d’électricité, d’eau et d’assurance ainsi que les taxes foncières concernant l’ancienne maison. Tout ce qui restait, peu importe le montant, aurait été utile, mais l’appelante et son époux avaient à supporter des frais supplémentaires élevés dans leur nouvelle maison; une hypothèque comportant un capital de 450 000 $ pourrait facilement donner lieu à des paiements hypothécaires d’au moins 1 000 $ par mois.
+[67] Compte tenu du revenu brut relativement peu élevé que l’appelante et son époux ont déclaré, il est peu vraisemblable que la nouvelle maison était financièrement gérable pour eux.
+[68] Quand Yusuf a parlé de son déménagement de l’ancienne maison, il a déclaré qu’il avait le sentiment d’avoir à le faire pour la sécurité de sa nièce et de son neveu, à cause de [traduction] « […] […] la façon dont ils [lui avaient] expliqué ce qui se passait dans ce quartier [13] » [non souligné dans l’original]. Ce passage est curieux. À l’époque où l’on aurait demandé à Yusuf de déménager, il vivait à l’extrémité opposée du pâté de maisons; il est donc curieux qu’il ait parlé de « ce quartier ».
+[69] Les termes que Yusuf a employés concordent davantage avec le fait de vivre dans un autre quartier que de vivre à l’extrémité opposée du pâté de maisons [14] .
+[70] Pour toutes les raisons qui précèdent, je ne suis pas convaincu que l’appelante a acheté la nouvelle maison dans l’intention de s’en servir comme lieu de résidence habituelle de la famille. L’appel est donc rejeté, sans frais.
+Signé à Ottawa, Canada, ce 7e jour de mars 2017.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE :
+2017 CCI 35
+No DE DOSSIER DE LA COUR :
+2016-642(GST)I
+INTITULÉ :
+NAHID SAFAR-ZADEH c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 décembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 7 mars 2017
+COMPARUTIONS :
+[EN BLANC]
+Avocat de l’appelante :
+Me Bryan A. Rowe
+Avocate de l’intimée :
+Me Judy Michaely
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour l’appelante :
+Bryan A. Rowe
+Cabinet :
+Morra Caruso Law
+Stouffville (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cette exigence figure à l’al. 254(2)b) de la Loi sur la taxe d’accise, dont le libellé est le suivant :
+au moment où le particulier devient responsable […] aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[2] La somme de 500 000 $ semble se situer plus ou moins dans la bonne fourchette si l’on ajoute le montant de TPS/TVH et si l’on soustrait ensuite le remboursement pour habitations neuves demandé. Voir les quatrième et cinquième pages situées à l’onglet 2 de la pièce A‑1.
+[3] Voir l’hypothèse 6f) dans la réponse du ministre à l’avis d’appel. Cette hypothèse n’a pas été contestée.
+[4] Même si, à un moment donné, l’appelante a parlé du fait d’avoir décidé, en janvier ou en février, qu’ils ne pouvaient pas rester sur place, comme il est indiqué plus loin, elle a plus tard déclaré avoir mis en vente la maison en janvier.
+[5] Aucun des témoins n’a mentionné le remboursement de l’hypothèque mais, vraisemblablement, le produit de la vente a également servi à cette fin. Comme il a été indiqué plus tôt, l’appelante a bel et bien parlé de la pression qu’exerçaient les paiements hypothécaires.
+[6] Au vu de la preuve, j’ai de la difficulté à comprendre cela. Les coûts que l’appelante a supportés étaient d’environ 500 000 $ pour la maison, 50 000 $ pour des améliorations ainsi que la commission de 3,5 % sur le prix de vente de 625 000 $, soit un peu moins de 22 000 $, ce qui totalise en tout environ 575 000 $. Mathématiquement, il doit y avoir un gain d’environ 50 000 $.
+[7] Il semble que cela ait été fait nettement plus tard.
+[8] Cette déclaration figure à environ 11 h 36-11 h 37 dans l’enregistrement audio.
+[9] À la fin de novembre, quand l’achat a été conclu, et au cours des mois suivants, quand les fenêtres seraient principalement fermées, les niveaux de bruit à l’intérieur de la maison seraient plus faibles qu’au cours des mois plus chauds, pendant lesquels les fenêtres seraient souvent ouvertes.
+[10] La preuve n’a pas révélé le jour et le mois de naissance en 2010 de l’enfant la plus jeune, de sorte que cette dernière était peut-être âgée de deux ans le 21 novembre 2012, mais elle aurait eu trois ans le 31 décembre au plus tard.
+[11] L’appelante a dit qu’elle était contrariée et triste quand elle avait pris conscience des problèmes que présentait la nouvelle maison. Dans ce contexte, on aurait pu s’attendre à ce que l’appelante et son époux fassent des efforts pour vérifier s’il y avait des moyens d’atténuer les problèmes, comme faire construire une clôture pour la cour arrière afin d’éliminer le risque de sécurité, acheter d’épais rideaux pour couper la lumière et vérifier s’il y avait des options pour atténuer le bruit, comme un vitrage triple. Il ne semble pas que beaucoup d’efforts aient été déployés en ce sens.
+Si l’on examine le bas de la cinquième page figurant à l’onglet 1 de la pièce A-1, il y a un élément appelé [traduction] « Clôture », ce qui dénote que le constructeur offrait une clôture à titre d’option.
+[12] Pour ce qui est du permis de conduire, cette exigence figure au par. 9(2) du Code de la route, L.R.O. 1990, c. H.8; pour le RAMO, l’exigence figure au par. 11(3) de la Loi sur l’assurance-maladie, L.R.O. 1990. c. H.6.
+[13] « Ils » voulant dire son frère et sa belle-sœur.
+[14] Il est surprenant aussi qu’il dise qu’il était nécessaire de déménager à cause de ce qui [traduction] « se passait »; il s’agit là d’un moyen curieux de faire état de deux problèmes simples, le bruit et le risque qu’un enfant s’échappe en courant vers la rue en l’absence d’une clôture.

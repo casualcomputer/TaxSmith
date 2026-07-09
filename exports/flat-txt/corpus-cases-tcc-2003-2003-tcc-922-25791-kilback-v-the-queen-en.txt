@@ -1,0 +1,169 @@
+Title: Kilback v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25791/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-922-25791-kilback-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-19
+
+# Kilback v. The Queen
+
+- Citation: 2003 TCC 922
+- Decision date: 2003-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3815, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kilback v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-19
+Neutral citation
+2003 TCC 922
+File numbers
+2003-1900(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1900(IT)I
+BETWEEN:
+LARRY KILBACK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 5, 2003 at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+G.D. Mason
+Counsel for the Respondent:
+Gavin Laird
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Canada, this 19th day of December 2003.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-1901(IT)I
+BETWEEN:
+CAROL KILBACK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 5, 2003 at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+G.D. Mason
+Counsel for the Respondent:
+Gavin Laird
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Canada, this 19th day of December 2003.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2003TCC922
+Date: 20031219
+Docket: 2003-1900(IT)I
+BETWEEN:
+LARRY KILBACK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2003-1901(IT)I
+AND BETWEEN:
+CAROL KILBACK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence at Kelowna, British Columbia on December 5, 2003. Larry Kilback was the only witness. He is Carol's husband. Larry's appeal is for 1998 and is of a reassessment for 1998 which disallowed his claim for a spousal tax credit of $5,380. The result of his appeal turns on whether Carol's appeal is allowed or not. Therefore the substance of these reasons relate to Carol.
+[2] Paragraphs 3 to 12 inclusive of the Reply to Carol's Notice of Appeal read:
+3. In respect of paragraph 3 of the Notice of Appeal, he admits that the Nevada Bob's Canada Inc ("NBCI") shares (the "Shares") were the only stocks the Appellant has ever purchased and that the intention was to sell them but he otherwise has no knowledge of and does not admit the facts contained in that paragraph.
+4. In respect of paragraph 4 of the Notice of Appeal, he admits that the Shares were purchased to sell at a profit but he otherwise has no knowledge of and does not admit the facts contained in that paragraph.
+5. He denies all other allegations of fact contained in that paragraph.
+6. In filing her Return of Income for the 1998 taxation year, the Appellant claimed a business loss of $38,291.00 (the "Loss") in respect of the disposition of the Shares.
+7. The Minister of National Revenue (the "Minister") initially assessed the Appellant for the 1998 taxation year on April 26, 1999 as filed by the Appellant.
+8. On February 28, 2002, the Minister reassessed the Appellant for the 1998 taxation year disallowing the Loss as a business loss and allowing the Loss as a capital loss.
+9. In so assessing the Appellant for the 1998 taxation year, the Minister relied on the following assumptions of fact:
+a) the Appellant did not carry on any active business in the 1998 taxation year;
+b) in the period from May 14, 1998 to June 24, 1998, the Appellant purchased 122,100 shares of NBCI using funds provided by her husband;
+c) the Appellant's husband provided the funds free of interest and with no terms of repayment;
+d) on or about November 3, 1998, the Appellant sold 36,000 of the Shares for proceeds of $34,863.00;
+e) the Appellant reported the Loss from the sale of the Shares as a business loss, calculated as follows:
+Gross income
+$34,863.00
+Less: Purchases
+73,154.00
+Net Loss
+$38,291.00
+f) after December 31, 1998, the Appellant transferred the remaining Shares to her husband, receiving no proceeds;
+g) at all relevant times, the Appellant:
+i) was not a trader or dealer in securities,
+ii) had no extensive history of buying or selling stocks, and
+iii) had no knowledge or experience in the securities market;
+h) the buying and selling of stocks was not part of the Appellant's ordinary business;
+i) the time invested by the Appellant in the course of buying and selling the Shares was minimal; and
+j) neither the Appellant or her husband received any insider knowledge in respect of the Shares.
+B. ISSUE TO BE DECIDED
+10. The issue is whether the Loss reported by the Appellant is a business loss or a capital loss.
+C. STATUTORY PROVISIONS RELIED ON
+11. He relies on sections 9, 38 and 39 and subsection 248(1) of the Income Tax Act (the "Act"), as amended for the 1998 taxation year.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+12. He submits that the Loss incurred by the Appellant in the 1998 taxation year from the disposition of the Shares was not in respect of a business carried on by the Appellant or an adventure in the nature of trade and therefore was not a business loss. Therefore, the Loss has been properly assessed as a capital loss according to section 38 of the Act.
+[3] Assumptions 9 b), c), d), e), f), g), h) and i) were not refuted by the evidence. Assumptions 9 a) and j) are the heart of the dispute.
+[4] The Court accepts all of Larry's testimony as true. It also finds that Larry was the operating mind in Carol's transactions, although Carol did them of her own free will. This finding is made in the context of what occurred.
+[5] Larry and a partner each owned 50 per cent of a company that operated two Nevada Bob's franchises in the lower mainland of British Columbia. In 1997's they sold them out for cash and shares in NBCI when NBCI bought up all of its franchises in Canada. Larry and Carol then moved to Kelowna and retired. Larry appears to be in his late 50s. Larry's shares in NBCI were tied up in escrow-like agreements so that he could not sell them on the Alberta Stock Exchange, where NBCI was listed or, for that matter, elsewhere. Nonetheless, in 1998 he had cash of about $250,000 or slightly more as a result of the franchise sale.
+[6] Larry stayed in contact with his former employees at the lower mainland Nevada Bob's and with the NBCI employee who negotiated the sale of Larry's franchises. He also golfed occasionally with NBCI's chief officer, Ian Higginson, who lived in Kelowna. The conditions on his shares in NBCI were that he could sell 137,500 shares after each of May 31, 1998, 1999, 2000 and 2001.
+[7] Larry learned from these people that NBCI was going to buy up all of its United States franchises from its franchisees and that it was going to move its listing to the Toronto Stock Exchange. NBCI's shares had been going up in price and the consensus was that they would more than double again. Larry and Carol discussed this and they thought so too. Given Larry's tax and share restriction situation, they decided that Carol would buy NBCI shares with money borrowed from Larry. She did so through a local broker.
+[8] Larry testified, and the Court accepts it as true that they expected the shares at least to double in value before April of 1999, that Carol would sell when the shares doubled in value, that she would pay Larry back, and that he would pay his large income tax bill with these monies at the end of April, 1999. One of the many reasons this is believed by the Court is that it is what most happily married couples who are unfamiliar with the share capital business, its problems, manipulations and machinations would think, plan and do - as they did. It also fits in completely with their financial circumstances and what they saw and heard respecting NBCI's shares.
+[9] But the price went down and kept going down. They needed the money. So Carol sold in November 1998 at a loss. She had owned those shares for less than six months.
+[10] On the evidence, Carol used borrowed money for the transaction, bought quickly, held for a short time, intended to sell out within twelve months or less and did so, apparently locked all of the couple's cash into the NBCI shares, purchased shares that had no dividend history and were listed on a lesser stock exchange and, on the evidence, she had no other business or financial interests - she had no other income. It was an organized scheme to make a quick, substantial profit out of a prompt sale of a very substantial number of shares.
+[11] In the Court's view Carol conducted a business transaction; it was an adventure in the nature of trade.
+[12] The appeals are allowed. These matters are submitted to the Minister of National Revenue for reconsideration and reassessment accordingly.
+Signed at Saskatoon, Canada, this 19th day of December 2003.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2003TCC922
+COURT FILE NOS:
+2003-1900(IT)I
+2003-1901(IT)I
+STYLE OF CAUSE:
+Larry Kilback v. The Queen
+Carol Kilback v. The Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+December 5, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+December 19, 2003
+APPEARANCES:
+Agent for the Appellant:
+G.D. Mason
+Counsel for the Respondent:
+Gavin Laird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

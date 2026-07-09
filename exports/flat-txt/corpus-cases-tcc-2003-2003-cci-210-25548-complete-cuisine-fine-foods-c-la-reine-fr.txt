@@ -1,0 +1,151 @@
+Title: Complete Cuisine & Fine Foods c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25548/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-210-25548-complete-cuisine-fine-foods-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-04-14
+
+# Complete Cuisine & Fine Foods c. La Reine
+
+- Citation: 2003 CCI 210
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2453, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Complete Cuisine & Fine Foods c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-14
+Référence neutre
+2003 CCI 210
+Numéro de dossier
+2002-683(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-683(GST)I
+ENTRE :
+COMPLETE CUISINE & FINE FOODS TO GO (1988) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 2 avril 2003 à Victoria (Colombie-Britannique)
+Devant : l’honorable juge Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me George F. Jones, conseiller de la Reine
+Avocat de l’intimée :
+Me Michael Taylor
+____________________________________________________________________
+JUGEMENT
+Le présent appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 18 septembre 2001 et porte le numéro 11CU2000256, est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Les dépens entre parties sont adjugés à l’appelante.
+Signé à Saskatoon (Saskatchewan), ce 14e jour d’avril 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 29e jour d'avril 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI210
+Date: 20030414
+Dossier: 2002-683(GST)I
+ENTRE :
+COMPLETE CUISINE & FINE FOODS TO GO (1988) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier, C.C.I.
+[1] Le présent appel interjeté sous le régime de la procédure informelle a été entendu à Victoria (Colombie-Britannique), le 2 avril 2003. Roy Greve, le fondateur de la compagnie appelante, a témoigné au nom de l’appelante. Rosa Liu, B. Comm., C.G.A., a témoigné pour le compte de l’intimée.
+[2] Les paragraphes 3 à 8 inclusivement de la réponse à l’avis d’appel exposent sommairement les questions en litige. Ils se lisent comme suit :
+[TRADUCTION]
+3. Dans l’avis de cotisation daté du 18 septembre 2001 et portant le numéro 11CU2000256, le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’appelante pour ne pas avoir déclaré la somme de 16 521, 31 $ au titre de la taxe sur les produits et services (« TPS »), comme le précise l’annexe « A » ci-jointe. L'appelante s'est vu imposer des pénalités et des intérêts correspondants de l’ordre de 1 961,76 $ et de 1 658,26 $ respectivement pour la période de déclaration allant du 1er octobre 1998 au 30 septembre 2000 (la « période de déclaration »).
+4. Un avis d’opposition a été déposé le 28 septembre 2001.
+5. Par voie d’un avis de décision daté du 15 janvier 2002, le ministre a ratifié la cotisation.
+6. Pour établir ainsi la cotisation à l’égard de l’appelante, le ministre s’est appuyé sur les hypothèses de faits suivantes :
+a) l’appelante a été constituée en personne morale en Colombie-Britannique, le 5 octobre 1988;
+b) l’appelante a enregistré son entreprise en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15 (la « Loi ») en vigueur depuis le 1er janvier 1991, et a reçu le numéro d’inscription 101076826 aux fins de la TPS;
+c) l’appelante était tenue de produire une déclaration de TPS tous les trois mois;
+d) L’activité commerciale principale de l’appelante consiste à fournir des repas gastronomiques à emporter et des services de traiteur;
+e) pendant toute la période pertinente, l’appelante se faisait connaître au public en tant que traiteur;
+f) pendant toute la période pertinente, l’appelante fournissait des produits détaxés et imposables au taux habituel de 7 %;
+g) pendant toute la période pertinente, les produits imposables au taux de 7 % de l’appelante comprenaient :
+i) la livraison de repas frais;
+ii) des sandwiches et des soupes;
+iii) des desserts et des biscuits;
+iv) des plateaux garnis;
+v) des services de traiteur;
+h) pour la période de déclaration, l’appelante a produit sa déclaration de TPS dans laquelle elle a déclaré le montant de 1 860,51 $ au titre de la TPS et la somme de 20 856,46 $ à titre de crédits de taxe sur les intrants (« CTI »), demandant ainsi un remboursement de 18 995,95 $, comme le précise l’annexe « B »;
+i) dans l’avis de cotisation daté du 18 septembre 2001 et portant le numéro 11CU2000256, le ministre a établi une cotisation à l’égard de l’appelante pour ne pas avoir déclaré la somme de 16 521,31 $ au titre de la TPS et ce, relativement aux repas préparés (les « repas »);
+j) pendant toute la période pertinente, l’appelante préparait et faisait cuire tous les aliments qui faisaient partie des repas;
+k) en ce qui concerne les repas, l’appelante offrait un menu de sept plats pour un prix fixe de 6,50 $ le plat ou la portion;
+l) les clients pouvaient soit aller chercher les repas ou les faire livrer en payant des frais supplémentaires;
+m) les repas se composaient d’aliments entièrement cuits et réfrigérés;
+n) pendant toute la période pertinente, les repas ne comprenaient pas d’aliments surgelés;
+o) en préparant les repas, l’appelante traitait et arrangeait les aliments selon les exigences du client et les repas étaient prêts à la consommation après leur réchauffement.
+B. QUESTIONS À TRANCHER
+7. La question est de savoir si les repas étaient imposables au taux habituel de sept pour cent.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+8. Il invoque le paragraphe 123(1) et les articles 165, 221, 222, 228, 238, 280 et 296 de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15 (la « Loi »), dans sa forme modifiée, ainsi que le paragraphe 1(o.5) de la partie III de l’annexe VI.
+[3] Les paragraphes et les alinéas suivants des hypothèses du paragraphe 6 n’ont pas été réfutés :
+a); b); c); g) ii), iii), iv); h); i); j); k); et l).
+[4] Selon les autres paragraphes et alinéas du paragraphe 6, la Cour arrive aux conclusions suivantes :
+6 d) l’activité commerciale principale de l’appelante consiste à vendre des repas gastronomiques au comptoir.
+6 e) Ce n’est exact que parce que l’appelante s’est fait connaître au public, notamment sous la rubrique « traiteur » des Pages jaunes de l’annuaire téléphonique de Victoria.
+6 f) Cette question est en litige relativement aux repas frais qui étaient livrés aux clients.
+6 g) i) Cette question représente l’objet de l’action. L’appelante préparait des légumes en grandes quantités jusqu’à l’étape du blanchiment, puis elle les réfrigérait pendant 24 heures; les féculents (les pommes de terre, le riz et les pâtes) étaient également préparés, cuits et réfrigérés pendant 24 heures; la viande, la volaille et le poisson étaient partiellement cuits en grandes quantités jusqu’à une température fixe puis ils étaient réfrigérés (réfrigération rapide) pendant 24 heures. Au bout de 24 heures, ils étaient emballés dans des paquets en pellicule d’aluminium de 7 po, d’un poids total fixe et vendus au prix de 6,50 $ le paquet en plus des frais de livraison. La portion de viande ou de poisson avait un poids fixe qui variait selon les coûts de l’appelante. Les autres ingrédients étaient ajoutés aux paquets pour qu’ils aient un poids total uniforme. Si un client passait une commande par téléphone et demandait un autre légume cuisiné que l’appelante avait réfrigéré, ce légume-là pouvait remplacer celui que l’appelante avait envisagé pour ce groupe de paquets. Ainsi, l’appelante affirme qu’elle vendait des aliments dont le poids était fixe tandis que l’intimée soutient qu’elle préparait des repas. Les aliments n’étaient pas entièrement cuits. Les instructions qui figuraient sur chaque paquet recommandaient à l’acheteur de réchauffer les ingrédients dans un four à une température de 375º pendant 30 minutes ou de les réchauffer au micro-ondes, dans un autre récipient, pendant 3 minutes. (Pièce R-2). M. Greve est un chef cuisinier professionnel et il a déclaré dans son témoignage qu’on devait suivre ces instructions pour achever la cuisson. La Cour accepte le témoignage de M. Greve. Enfin, dans les cas où des paquets pré-emballés restaient en stock à la fin de la journée, ils étaient congelés et vendus comme aliments surgelés; ces derniers ne sont pas visés par cette cotisation.
+6 g) v) Nous examinerons le concept des « services de traiteur » ci-dessous dans les présents motifs.
+6 m) Par conséquent, la Cour estime que les aliments n’étaient pas entièrement cuits lorsqu’ils étaient livrés au client. Ce dernier devait réchauffer le contenu du paquet selon les instructions qui y figuraient pour achever la cuisson.
+[5] La question est alors de savoir si les aliments cuisinés des paquets livrés constituaient des aliments ou des boissons vendus dans le cadre d’un contrat conclu avec un traiteur en vertu du paragraphe 1 (o.5) de la partie III de l’annexe VI de la Loi sur la taxe d’accise.
+[6] Le terme « restauration » est défini dans le dictionnaire Oxford, deuxième édition, comme suit :
+[TRADUCTION]
+Fournir des aliments ou d’autres produits demandés.
+et
+Qui se rapporte à la préparation des repas; à la restauration.
+[7] La Loi comporte l’expression « services de traiteur ». Le mot « services » est défini dans le dictionnaire Oxford, deuxième édition, comme étant [TRADUCTION] « l’exécution des tâches d’un préposé dans le cadre d’un travail effectué sous les ordres et au profit d’un commettant. » Ainsi, les services de traiteur doivent être exécutés au profit du traiteur. Dans le présent cas, l’acheteur doit remplir les tâches de cuisinier pour lui-même. L’appelante n’est pas tenue d’offrir des services de traiteur. Le mot « services » implique plus que le simple fait de fournir ou de vendre des aliments ou d’autres articles demandés.
+[8] Les fournitures détaxées en vertu de l’alinéa 1. (o.5) de la partie III comprennent « la fourniture d’aliments et de boissons destinés à la consommation humaine […], sauf les fournitures suivantes […] (o.5) les aliments ou boissons vendus dans le cadre d’un contrat conclu avec un traiteur ».
+[9] L’appelante n’a pas fourni de services se rapportant aux aliments. Elle a simplement vendu un paquet d’aliments. Elle a effectivement livré le paquet sur demande, contre le paiement de frais supplémentaires, comme le font un grand nombre d’épiceries qui livrent encore les provisions. Toutefois, le service de livraison ne se voulait pas autre chose. Il n’avait rien à voir avec les aliments. L’objet de la livraison aurait pu être une paire de chaussures et cela n’aurait pas requis plus d’efforts ou d’autres services.
+[10] À la réception du paquet, l’acheteur devait cuire les aliments avant de les consommer. Les aliments qui se trouvaient dans le paquet n’avaient pas été entièrement cuits par l’appelante. Il fallait plus qu’un simple « réchauffement ». Les instructions qui figuraient sur chaque paquet se lisaient comme suit :
+[TRADUCTION]
+CHEF ON THE RUN
+2020, avenue Oak Bay
+Victoria
+Tél. : (250) 595-3151
+RECOMMANDATIONS RELATIVES AU RÉCHAUFFEMENT
+FOUR – méthode préférée
+Toujours garder le couvercle en place
+REPAS FRAIS
+Préchauffer le four à une température de 375º
+Réchauffer dans le four pendant 30 min
+Garder le couvercle en place.
+REPAS SURGELÉS
+Préchauffer le four à une température de 425º
+Mettre le repas surgelé dans le four
+- 45 minutes
+MÉTHODE DE CUISSON AU MICRO-ONDES
+*REPAS FRAIS UNIQUEMENT*
+Mettre le tout dans une assiette
+Réchauffer pendant environ 3 minutes
+à haute température
+[11] L’appelante n'a pas fourni d’installation ou « d’autres commodités ».
+[12] De plus, M. Greve a déclaré qu’un grand nombre des clients de l’appelante se servait du paquet pour faire plus d’une portion; les restes peuvent servir à un autre repas; le contenu ne peut être consommé sur place; normalement, le préparateur met le contenu du paquet dans une ou plusieurs assiettes après l’avoir cuit; en outre, il faut des ustensiles pour manger les aliments cuisinés. En fait, cela ne se compare même pas à la préparation de fèves au lard en boîte qu’on peut manger froides, directement de la boîte. L’acheteur doit d’abord cuire ces aliments.
+[13] L’appel est admis. Les dépens entre parties sont adjugés à l’appelante.
+Signé à Saskatoon (Saskatchewan), ce 14e jour d’avril 2003.
+« D. W. Beaubier »
+J.C.C.I.
+Traduction certifiée conforme
+ce 29e jour d'avril 2005.
+Mario Lagacé, réviseur

@@ -1,0 +1,309 @@
+---
+title: "On-Line Finance & Leasing Corporation  v. Canada"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29990/index.do"
+last_modified: "2010-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 475"
+citation2: ""
+neutral_citation: "2010 TCC 475"
+decision_date: "2010-09-21"
+language: "en"
+item_id: "29990"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8001
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:00:27.867000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "990fe83e7f08341e95204b02ec27dcd019d510d17845ae01306c25539d79c2d6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# On-Line Finance & Leasing Corporation  v. Canada
+
+- Citation: 2010 TCC 475
+- Decision date: 2010-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8001, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+On-Line Finance & Leasing Corporation v. Canada
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-21
+Neutral citation
+2010 TCC 475
+File numbers
+2006-2175(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2175(IT)G
+BETWEEN:
+ON-LINE FINANCE & LEASING CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 16 and 17, 2009 and April 13 to 16, 2010, at Vancouver, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+John Drove
+Counsel for the Respondent:
+Andrew Majawa
+Carl Januszczak
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act with respect to the 2000 and 2003 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of September 2010.
+“Diane Campbell”
+Campbell J.
+Citation: 2010 TCC 475
+Date: September 21, 2010
+Docket: 2006-2175(IT)G
+BETWEEN:
+ON-LINE FINANCE & LEASING CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+Introduction:
+[1] These appeals concern a determination of the proper treatment to be accorded lease payments received by the Appellant in the 2000 and 2003 taxation years, pursuant to a leasing program involving the Municipal Finance Authority of British Columbia (“MFA”) and the Appellant.
+[2] Until 2004, the Appellant reported the lease payments as its lease income, deducted an amount for interest paid to the MFA on the borrowed funds and claimed capital cost allowance in each year. In November 2004, the Appellant filed amended tax returns for the 1997 to 2003 taxation years. In these amended returns, the Appellant removed the lease payments from its income and no longer claimed capital cost allowance in respect to the assets. Because the undepreciated capital cost of the assets was now much higher, available terminal losses were also much larger. Since the 1997 to 1999 taxation years were statute-barred, the Minister of National Revenue (the “Minister”) reassessed the Appellant with respect to its 2000 to 2003 taxation years. In addition, the Appellant appealed its 2004 taxation year. Prior to the hearing, by Order of Boyle J. dated October 30, 2009, the appeals for the 2001, 2002 and 2004 taxation years were quashed. As a result, only the 2000 and 2003 taxation years are before me.
+The Evidence:
+[3] I heard evidence from three witnesses called by the Appellant:
+Robert Leighton, the President and sole director of the Appellant Corporation; James Craven, the executive director of the MFA until December 31, 2001; and Victor Blamey, the Appellant’s accountant, who prepared the amended income tax returns filed by the Appellant on November 16, 2004.
+[4] The MFA was created by local government members in 1971 to provide municipalities across British Columbia with the opportunity to acquire financing for the purchase of capital assets. The MFA was able to offer a number of favourable borrowing options to municipalities including the leasing program which is central to these appeals.
+[5] In 1991, Mr. Leighton and Mr. Craven began discussions concerning the creation of a short-term leasing program to be available to municipalities that wanted to purchase large capital assets such as fire trucks, snowploughs or buildings.
+[6] The Appellant corporation was created in 1995 as a leasing entity to facilitate the implementation and operation of this leasing program. Initially, Robert Leighton owned 100 per cent of the shares in the Appellant corporation. Since 2004, 98 per cent of the shares are owned directly or indirectly by Mr. Leighton.
+[7] The arrangement between the Appellant and the MFA was an arms-length business relationship governed primarily by four agreements:
+(a) a Services Agreement dated April 1, 1995;
+(b) a Pricing Agreement dated April 7, 1998;
+(c) a Leasing Agreement dated April 5, 2000; and
+(d) an Assignment of Lease Agreement dated October 30, 2002.
+[8] The MFA maintained a substantial line of credit with the Bank of Montreal. When a municipality wanted to acquire a specific asset, rather then purchasing it outright or leasing it directly from the manufacturer, it had the option of leasing the required asset from the Appellant corporation at a more favourable interest rate. The municipality would apply to the MFA for an extension of the line of credit, in an amount sufficient to purchase the asset. The MFA then determined whether the creditworthiness of the municipality was acceptable. The necessary funds to purchase the asset were then provided by the MFA to the Appellant. The Appellant used the funds to purchase the asset that the municipality wished to acquire and, in turn, leased the item to the municipality. The Appellant retained legal ownership to the asset. The municipality made the lease payments directly to the MFA. The Appellant assigned the lease payments, lease agreements and assets to the MFA.
+[9] Mr. Leighton provided the following as a typical example of the mechanics of the leasing program:
+(1) The Appellant is approached by the municipality to acquire a specific asset. The MFA approves or rejects this request based on the municipality’s creditworthiness;
+(2) A lease agreement is developed, drafted and prepared by the Appellant. The lessor on the lease is the Appellant and the lessee is the municipality. Once signed by both parties, the lease agreement is faxed to the MFA;
+(3) The municipality places a purchase order with the manufacturer for the asset it wants to acquire. The Appellant is billed and listed as the purchaser on the purchase order;
+(4) Once the MFA receives the lease agreement, it advances funds to the Appellant so that the asset can be purchased;
+(5) Once the asset is delivered, the municipality either accepts or rejects the asset. If it is rejected the funds are returned to the MFA but if it is accepted, the Appellant remits the amount owing to the vendor of the asset; and
+(6) Where the asset is accepted, the Appellant assigns the asset, lease agreement and lease revenue to the MFA (the “Assignment”) but the Appellant retains title/ownership to the asset. The Appellant receives broker fees for each lease it enters into with the municipality.
+[10] The nature and purpose of the Assignment to the MFA by the Appellant, as well as the nature of the funds advanced by the MFA to the Appellant and the nature of the Appellant’s obligation to repay these funds, are the aspects of the leasing program that are in dispute in these appeals. Essentially, much of the dispute involves the proper characterization of the MFA advances to the Appellant to purchase the asset. In other words, who is the borrower of these funds, the Appellant or the municipality? In addition, the characterization of the Assignment and the subsequent lease payments are also in dispute. The Respondent’s position is that the advances are on-going loans from the MFA to the Appellant, with each lease payment reducing the principal balance of the loan. The Assignment, according to the Respondent, is security for the on-going loan. The Appellant’s position is that the advances are loans from the MFA to the Appellant which are interim only and are immediately repaid through the Assignment. The Assignment is for the benefit of the MFA and allows the MFA to pursue default remedies when necessary.
+[11] The lease program ceased in 2003. The MFA, now under the leadership of Steve Berna, filed a petition in bankruptcy against the Appellant. A proposal and an amended proposal in the bankruptcy proceeding was made by the Appellant, accepted by the creditors and approved by the British Columbia Supreme Court. Both the Appellant and the MFA entered into written transfer agreements respecting the Appellant’s disposition of the assets of the leasing program to the MFA and the extinguishment of the debt under the line of credit. The Respondent attempted to place reliance on these bankruptcy documents, as well as a number of other agreements and affidavits related to the bankruptcy proceedings, to support its position. Whether the Respondent will be permitted to place reliance upon these extrinsic documents, to assist in interpreting the written leasing program agreements, depends upon the application of the parol evidence rule.
+Appellant’s Position:
+[12] The Appellant’s position is that the funds it received from the MFA were interim unsecured loans or advances which were immediately repaid and extinguished through the absolute assignment of the lease payments (Appellant’s Written Submissions, paragraph 3). As a result, the Appellant claims that the lease payments cannot be characterized as its income and it is entitled to the terminal losses claimed in the amended returns. In filing amended tax returns in 2004, the Appellant no longer viewed the lease payments as income belonging to it and no longer claimed a capital cost allowance. As a result, the undepreciated capital cost of the assets was much higher than previously reported in the earlier returns and gave rise to larger terminal losses than were claimed in the Appellant’s original tax filings.
+The Respondent’s Position:
+[13] The Respondent’s position is that the funds received by the Appellant from the MFA were advanced pursuant to an on-going line of credit extended to it by the MFA. Therefore, any subsequent lease revenue was received by the Appellant despite the fact that it may have been directly transferred to the MFA by the municipality to decrease the principal balance on the line of credit. According to the Respondent, the Assignment acted as security for the Appellant’s indebtedness to the MFA pursuant to the line of credit which the MFA had extended to the Appellant. The Minister’s reassessments were consistent with the plain words and meaning of the leasing program agreements as well as with the Appellant’s original tax filings in which the Appellant treated the lease payments as its income.
+The Issues:
+[14] The issues are:
+(1) Is the Respondent entitled to rely on extrinsic evidence to assist in the interpretation of the written leasing program agreements?
+(2) What is the proper characterization of the funds advanced by the MFA to the Appellant?
+(3) What is the proper characterization of the Assignment and subsequent lease payments received by the MFA?
+(4) Does the Respondent’s alternative argument have any merit?
+Analysis:
+Preliminary Issue: Does the parol evidence rule apply to the Respondent?
+[15] This issue is central to these appeals and will dictate the outcome. If I conclude that the Respondent should be permitted to rely on the extrinsic evidence it introduced, then the Appellant is at peril of having its appeal dismissed. The extrinsic evidence is comprised primarily of documentation from subsequent bankruptcy proceedings that occurred between the Appellant and the MFA and include a General Transfer Agreement, an Amended Proposal made by the Appellant and affidavits, indemnities, releases and proposals. Many of these documents contradict the position of the Appellant in these appeals.
+[16] At the beginning of the hearing, the Appellant attempted to introduce into evidence correspondence between the MFA and the Appellant relating to the negotiation stage of their lease program dealings. The Respondent brought a Preliminary Motion objecting to its introduction on the basis that it violated the parol evidence rule because it related to evidence of the intention of the parties to the leasing program. The Respondent argued that the four agreements in that program were clear and unambiguous and therefore extrinsic evidence was not required to assist with their interpretation. As it was the Appellant’s intention to introduce further documentation in addition to the correspondence and because of the significant impact a decision in this Motion could have on the scope of the hearing, I adjourned the hearing and requested written submissions from both counsel. My Order of March 2, 2010 concluded that the agreements constituted the entire agreement between the parties and I directed that the Appellant would not be permitted to introduce extrinsic evidence to assist with explaining the leasing program agreements. I concluded that the relevant agreements were not ambiguous so that extrinsic evidence would not be required to assist in interpreting them.
+[17] At the recommencement of the hearing, the Respondent sought to introduce extrinsic evidence to support its position, arguing that my Order of March 2, 2010 applied only to the Appellant, but not to the Respondent. The Appellant, although invited to do so, did not object as such and submitted that it would address this issue in its submissions.
+[18] The Respondent’s argument, that it is entitled to rely on extrinsic evidence while the Appellant is not, relies on the Federal Court of Appeal decision in Urichuk v. The Queen, 93 D.T.C. 5120, where the Court, at page 5121, held that:
+… We also reject the appellant's attempt to invoke the parol evidence rule to object to evidence of the circumstances leading up to the making of the agreement; the Minister, not being a party to that agreement, is entitled to rely on any available evidence to support his characterization of the payments…
+(Emphasis added)
+[19] This decision was followed by Hogan J. in Husky Oil Limited v. The Queen, 2009 D.T.C. 1094. That case was subsequently reversed by the Federal Court of Appeal. However, no specific comments were made with respect to the parol evidence rule.
+[20] The Respondent submits that, because it was not a party to the leasing program agreements, then as a third party, it is entitled to rely upon any available evidence to support its characterization of the leasing program agreements; that is, that the lease payments were assigned as security and that payments made by the municipalities reduced the Appellant’s indebtedness to the MFA over time. The Respondent submits that the parties’ treatment in the bankruptcy documentation, which was subsequent to the initial leasing agreements, is consistent with the Respondent’s interpretation of the unambiguous leasing documentation.
+[21] The Appellant submits that the Court Order of March 2, 2010 is binding on both parties to these appeals for three reasons:
+(1) the Federal Court of Appeal decision in Urichuk does not stand for the general proposition that the Minister is always entitled to rely on extrinsic evidence simply because it was not a party to the contract and the Urichuk decision should therefore be limited in its application;
+(2) Justice Hugessen’s comments in Urichuk have been superseded by subsequent case law; and
+(3) it would be severely prejudiced and placed at a substantial and unfair disadvantage in the hearing if the Respondent were allowed to rely on extrinsic evidence.
+[22] On a plain reading of the Urichuk decision, it would seem a logical conclusion that the Respondent should be permitted to rely on the extrinsic evidence it tendered. However, it is necessary to examine the background and context of this decision. The primary issue was the characterization of payments made by the taxpayer to his spouse and whether those payments were maintenance payments which could therefore be deducted. At the Federal Court – Trial Division, Cullen J. dismissed the appeal and allowed parol evidence to be introduced by the Respondent in order to determine the proper characterization of the payments. However, Cullen J. specifically noted that he allowed parol evidence based on the Federal Court of Appeal decision in The Queen v. McKimmon, 90 D.T.C. 6088, which held, at page 6090, that in the context of spousal support payments, “there can be very few hard and fast rules” and a “…Court is required to look at all the circumstances surrounding the payment and to determine what, in the light of those circumstances, is its proper characterization”.
+[23] In the context of this background, I do not believe that the Federal Court of Appeal’s comments in Urichuk can be expanded to stand for the general proposition that a party that is not a party to a contract will always be entitled to rely on extrinsic evidence. Instead, as suggested by the Appellant, the rule to be taken from Urichuk is much more limited and applicable only to situations involving spousal support payments.
+[24] The Appellant’s second argument is that the Urichuk decision has been superseded by the decisions in Eli Lilly & Co. v. Novopharm Ltd., [1998] 2 S.C.R. 129 (“Eli Lilly”), Gilchrist v. Western Star Trucks Inc., 2000 BCCA 70, and The Queen v. General Motors of Canada Ltd., 2008 D.T.C. 6381 (“GM Canada”). The Federal Court of Appeal summarized the current state of the parol evidence rule in the GM Canada decision at paragraph 36:
+[36] A number of propositions emerge from the above authorities. First, failing a finding of ambiguity in the document under consideration, it is not open to the Court to consider extrinsic evidence. Second, where extrinsic evidence may be considered, that evidence must pertain to the “surrounding circumstances which were prevalent at the time”. Third, even where there is ambiguity, evidence only of a party’s subjective intention is not admissible.
+[25] Although these cases do not specifically refer to the application of the parol evidence rule to third parties to a contract, the propositions articulated in subsequent case law by the Federal Court of Appeal seem inconsistent with the Urichuk decision unless the Urichuk comments are limited as I have suggested.
+[26] With respect to evidence surrounding subjective intention, the Federal Court of Appeal in GM Canada clearly states that while a Court may examine the “surrounding circumstances” it may not examine the “intention of the parties”. In Urichuk, Cullen J., at the Trial Division level, examined the intention of both parties at length and held, at page 5379, that:
+… Mrs. Urichuk’s petition for divorce was the catalyst which moved Mr. Urichuk to go to his wife and accept her terms of $200,000 to stop the divorce action… While the agreement states that Mrs. Urichuk was to discontinue the divorce action, in my opinion the plaintiff’s real goal in paying the $200,000 was only to have the divorce delayed …
+These comments are clearly examinations into the subjective intention of the parties, which, according to the Federal Court of Appeal in GM Canada, is never admissible.
+[27] Secondly, in allowing parol evidence to be admitted in Urichuk, the Federal Court – Trial Division noted, at page 5378, that “parol evidence is admissible to determine the real nature of a transaction” and that the “well-established practice in tax law is to look behind the form of an agreement to determine its substance”. These comments are contrary to the Supreme Court of Canada’s decision in Shell Canada Ltd. v. The Queen, [1999] 3 S.C.R. 622, where, at paragraph 39, Justice McLachlin (as she was then) held that while “courts must be sensitive to the economic realities”, they cannot use economic realities to recharacterize bona fide legal relationships. It follows from these comments that it cannot be the established practice in tax law to look behind the form of an agreement. In fact, as the Supreme Court of Canada made clear in its decision, bona fide legal relationships established through an unambiguous contract must be respected.
+[28] In respect to the Appellant’s third point, that it would be prejudicial to the Appellant to allow the Respondent to rely on extrinsic evidence, while the Appellant could not, the scope of the parol evidence rule in Canada has been described as producing harsh results [John McCamus, The Law of Contracts, (Irwin Law: Toronto, 2005) at 198]. In Corey Developments Inc. in Trust v. Eastbridge Developments (Waterloo) Ltd., 34 O.R. (3d) 73 (“Corey Developments”), Macdonald J. commented on the injustice that would arise with a strict application of the parol evidence rule and stated, at page 80, that:
+… the purpose of the parol evidence rule is to ensure that the expectations of the contracting parties are upheld. …
+Macdonald J. then quoted from the The Law of Contract, 3rd ed. (Aurora, Ont: Canada Law Book, 1993) by S.M. Waddams, in which, at page 82, S.M. Waddams expressed the following views on the narrow application of the rule:
+The parol evidence rule, as set out above, is not an unduly harsh, nor an unreasonable rule. It asserts simply that where the parties have agreed that a document is to constitute the exclusive record of their agreement, their intention will prevail. Unfortunately, however, many of the cases purporting to apply the rule do not formulate it, and give the appearance of applying some other, more rigid, rule, such as a rule that signed documents are absolutely binding. No such rule as this has even been authoritatively formulated, and there are very many decisions that are inconsistent with it. Such a rule would give rise to severe injustice, and could not be easily defended.
+(Emphasis added)
+[29] McLachlin J. (as she was then) in Ahone v. Holloway, [1988] B.C.J. No. 1603 (B.C.C.A.), noted that “the parol evidence rule is not absolute”. Macdonald J., in Corey Developments, agreed with these comments and held that the parol evidence rule is not an inflexible one and that courts should not allow the rule to be used in such a manner that it would cause obvious injustice by providing a tool for one party to dupe another. Although the present appeals do not involve such a scenario, the underlying issues of unfairness and prejudice do exist. While the Respondent objected to and did obtain an Order to prevent the Appellant from introducing extrinsic evidence, the Respondent now seeks to introduce and rely upon extrinsic evidence to assist in supporting its position. If I permitted the Respondent to do so in these appeals, I would be creating an inequitable environment which would be prejudicial to the Appellant’s presentation of its appeal. The Respondent’s argument leads to the conclusion that it should have the freedom to rely on whatever evidence it can locate while the Appellant may be denied the very same opportunity. I do not believe that the parol evidence rule, which exists to ensure the primacy of written contracts, dictates such a conclusion. It would simply create unfair and prejudicial circumstances that taxpayers could be subjected to in having their appeals heard.
+[30] I believe that the Federal Court of Appeal’s comments in Urichuk should be limited to situations involving spousal support payments. I do not believe that Urichuk can be expanded so that the Court is always required to admit extrinsic evidence when tendered by the Respondent. I also note that I always considered that the reasons in my Court Order, on the Respondent’s Preliminary Motion respecting the introduction of extrinsic evidence, applied equally to both parties in these appeals. The written submissions in the Motion never requested or implied that my reasons should apply solely to the Appellant, leaving the Respondent with free rein to introduce evidence as it saw fit. Although the Motion was brought by the Respondent and aimed at the Appellant in respect to one item of correspondence which the Appellant sought to introduce, my reasons applied generally to the introduction of extrinsic evidence by both parties. Consequently, none of the Respondent’s extrinsic evidence will be accorded any weight because that evidence violates that parol evidence rule and my Court Order dated March 2, 2010.
+What is the proper characterization of the funds advanced by the MFA to the Appellant?
+[31] The Respondent submits that the MFA extended a line of credit to the Appellant, the borrower, to purchase assets that could be leased to municipalities and that this indebtedness was secured by an assignment of the lease assets and payments. The Respondent argues that the leasing agreements clearly and unambiguously support its position. It cites the following provisions, contained in the Leasing Program Agreement dated April 5, 2000, to support this position:
+WHEREAS the Authority:
+Is prepared to offer a line of credit to On-Line guaranteed by Canadian municipalities and eligible institutions…for the purpose of purchasing assets to be leased to Canadian municipalities and eligible institutions;
+(Leasing Program Agreement, Preamble)
+1. The Authority hereby extends a line of credit guaranteed by Canadian municipalities and eligible institutions for a term from the above date until April 1, 2005. …
+(Leasing Program Agreement, paragraph 1)
+2. The Authority agrees:
+[…]
+(d) to provide funding for the purchase of assets to be leased by On‑Line, …;
+(e) to charge interest at the Canadian Prime Rate minus One Hundred Basis Points (1.00%) on funds advanced to On-Line …;
+(Leasing Program Agreement, paragraphs 2(d) and (e))
+WHEREAS:
+[…]
+B. Pursuant to the Leasing Program Agreement, the Authority provides a line of credit (the “Financing”) for the purpose of purchasing assets to be leased …;
+(Assignment of Lease Agreements, Preamble)
+(Emphasis added)
+[32] The leasing program agreements are between the Appellant and the MFA. Since they state that the MFA agrees to provide funding to the Appellant, it follows that the borrower must be the Appellant because the municipalities are not a party to the agreements and, as submitted by the Respondent, the municipalities are not identified as the recipients of the line of credit.
+[33] The Respondent argues that the Appellant’s position that the MFA did not loan money to the Appellant is inconsistent with the provisions in these agreements. The Appellant’s position, that the advances are not a loan, is inconsistent with its position that the advances by the MFA were immediately repaid through an absolute assignment. According to the Respondent, the Appellant’s position, that it was not the borrower of the funds and yet the debt was extinguished by the absolute assignment of the lease payments, cannot both be correct.
+[34] The Appellant relies on the following provision in the Assignment of Lease Agreements to support its position that the MFA provided funding to the municipalities, which were the borrowers, not the Appellant:
+WHEREAS:
+A. Pursuant to the provisions of section 11.1(1) of the Municipal Finance Authority Act, On-Line and the Authority entered into a leasing program agreement (the “Leasing Program Agreement”) dated as of the 5th day of April, 2000;
+B. Pursuant to the Leasing Program Agreement, the Authority provides a line of credit (the “Financing”) for the purpose of purchasing assets to be leased to local governments and eligible institutions prescribed under section 11.1(5) of the Municipal Finance Authority Act;
+(Assignment of Lease Agreements, Preamble)
+[35] Subsection 11.1(1) of the Municipal Finance Authority Act, R.S.B.C. 1996, c. 325 (the “MFAA”) allows the MFA to loan money only to local governments and specific institutions, but not to private entities. The Appellant submits that it cannot be the borrower of the funds as it is a private corporation and that, since the Preamble clearly states that the agreement is pursuant to the MFAA, the agreement would be illegal and unenforceable if the Appellant was the borrower. There is no merit, however, to the Appellant’s argument that it could not be the borrower because of the prohibitions contained in the MFAA. Any potential circumvention of the provisions contained in the MFAA will have no bearing on the interpretation of the agreements and the ultimate characterization of the line of credit advanced by the MFAA.
+[36] According to the wording of the agreements, the Appellant was clearly the borrower of the funds from the MFA. In the Preamble to the Leasing Program Agreement, it states that:
+… the Authority: Is prepared to offer a line of credit to On-Line guaranteed by Canadian municipalities…
+(Emphasis added)
+Although the Agreements do not specifically state that the Appellant is the borrower of the funds, because the agreements are solely between the Appellant and the MFA, one is left with the distinct impression that it was the Appellant that was the borrower of the funds from the MFA.
+[37] In explaining the operation of the Leasing Program Agreements, the Appellant stated:
+The MFA would, on receipt of the signed lease agreement, advance the proceeds of the line of credit extended by the MFA to the municipality to On-Line as an interim unsecured advance.
+(Transcript, volume 4, page 280, lines 22-25)
+This assertion is inconsistent with the Agreements between the MFA and the Appellant which clearly state that the Authority is prepared to offer a line of credit to On-Line guaranteed by Canadian municipalities.
+[38] The purchase/leaseback scenario, as explained by Mr. Leighton in cross‑examination, appears to be at odds with commercial realities. Pursuant to his scenario, a large portion of the leasing programs’ assets that were originally owned by the municipalities were purchased by the Appellant and then leased back to the municipalities. If, as the Appellant contends, the loan is between the MFA and the municipality, then the municipality under the purchase/leaseback scenario would be borrowing money to purchase assets that the municipality already owned in order to subsequently lease them from the Appellant.
+[39] Although there are the inconsistencies with the Appellant’s position as highlighted by the Respondent, there are also some inconsistencies with the view taken by the Respondent. For example, if the Appellant truly is the borrower, then why would the MFA examine the creditworthiness of the municipality? Clearly, the Agreements do not address the role of the municipality, although they are an integral part of the program. In Eli Lilly, at paragraph 56, the Supreme Court held:
+56 When there is no ambiguity in the wording of the document, the notion in Consolidated-Bathurst that the interpretation which produces a “fair result” or a “sensible commercial result” should be adopted is not determinative. Admittedly, it would be absurd to adopt an interpretation which is clearly inconsistent with the commercial interests of the parties, if the goal is to ascertain their true contractual intent. However, to interpret a plainly worded document in accordance with the true contractual intent of the parties is not difficult, if it is presumed that the parties intended the legal consequences of their words. This is consistent with the following dictum of this Court, in Joy Oil Co. v. The King, [1951] S.C.R. 624, at p. 641:
+. . . in construing a written document, the question is not as to the meaning of the words alone, nor the meaning of the writer alone, but the meaning of the words as used by the writer.
+(Emphasis added)
+[40] The Agreements are not ambiguous, are plainly worded and, consequently, must govern the arrangement between the parties. As a result, the funds advanced by the MFA to the Appellant via the Bank of Montreal line of credit must be characterized as a loan from the MFA to the Appellant. Therefore, the Appellant is the borrower of the funds notwithstanding that this arrangement may have contravened the provisions of the MFAA.
+What is the proper characterization of the assignment and subsequent lease payments received by the MFA?
+[41] The Appellant’s position on the proper characterization of the Assignment is that it extinguished the loan that was interim between the Appellant and the MFA. The MFA would then use the Assignment as security to guarantee the lease payments and thus the Appellant would no longer have any right to the lease revenue. The Respondent’s interpretation is that the Assignment acted as security for the loan between the Appellant and the MFA with each payment by the municipality to the MFA constituting payment on, and the gradual reduction of, the loan between the Appellant and the MFA.
+[42] The Appellant relied on the following provisions from the Leasing Agreements to support its interpretation that the Assignment was absolute and extinguished the Appellant’s interim debt to the MFA:
+WHEREAS:
+[…]
+D. Pursuant to the Leasing Program Agreement, On-Line has agreed to assign all existing and future lease agreements as may be modified from time to time, lease payments and the related assets thereto (the “Lease Agreements”) to the Authority as security for the Financing.
+(Assignment of Lease Agreements, Preamble, at paragraph “D”)
+1. Assignment. On-Line hereby grants to the Authority a continuing and specific security interest in, and hereby grants, assigns, transfers and sets over to, the Authority all of its right, title and interest in and to the Lease Agreements entered into pursuant to the Leasing Program Agreement and all benefits and advantages to be derived from the Lease Agreements, including, without limitation, any payment derived therefrom and the benefit of any and all representations, warranties, conditions, terms and covenants on the part of all other parties to the Lease Agreements therein or implied or expressed by law in relation thereto with full power and authority to enforce performance of such terms or covenants, or to demand, sue for and collect damages in connection with any misrepresentation, breach of warranty or breach of covenant either in the name of and as agent for On‑Line, or in the name of the Authority, to have and to hold for the Authority until all monies under and all obligations of the respective lessees under the Lease Agreements have been fully paid and fulfilled.
+(Assignment of Lease Agreements, at paragraph 1)
+3. Credit. The Authority acknowledges that, by virtue of the assignment and the physical lodging of the original Lease Agreements with the Authority, the Authority has accepted the credit extended to the Lessees by On-Line, and therefore has accepted the responsibility for any credit losses, provided that On‑Line has complied with all of the terms and conditions as required under the Leasing Program Agreement.
+(Assignment of Lease Agreements, at paragraph 3)
+(Emphasis added)
+[43] The Appellant submits that these provisions clearly demonstrate that the Appellant assigned all of the lease revenue absolutely. The Appellant submits that the lease revenue cannot be attributed to it because it did not actually receive the lease payments and, in addition, the Appellant’s financial statements did not show any outstanding loans between the Appellant and the MFA.
+[44] The Respondent’s argument is that the provisions of the Agreements relied on by the Appellant are plainly worded and support the position that the Assignment is security for the funding. Further, in order for the Appellant’s position to be accepted, the plain words of the Agreement would have to be qualified and that should not be permitted.
+[45] The Respondent relied on the following excerpts from the Agreements in support of its position:
+AND WHEREAS On-Line:
+[…]
+Is prepared to assign all Accounts (“the Accounts”) to the Authority as security for funding:
+(Services Agreement, Preamble)
+AND WHEREAS On-Line:
+[…]
+Is prepared to assign all lease agreements (the “Lease Agreements”), lease payments and the related assets to the Authority as security for the funding;
+(Leasing Program Agreement, Preamble)
+WHEREAS:
+[…]
+D. Pursuant to the Leasing Program Agreement, On-Line has agreed to assign all existing and future lease agreements as may be modified from time to time, lease payments and the related assets thereto (the “Lease Agreements”) to the Authority as security for the Financing;
+(Assignment of Lease Agreements, Recital D)
+1. Assignment. On-Line hereby grants to the Authority a continuing and specific security interest in, and hereby grants, assigns, transfers and sets over to, the Authority of all of its right, title and interest in and to the Lease Agreements… and all benefits and advantages to be derived from the Lease Agreements, including, without limitation, any payment derived therefrom… to have and to hold for the Authority until all monies owing under and all obligations of the respective leases under the Lease Agreements have been fully paid and fulfilled.
+(Assignment of Lease Agreements, at paragraph 1)
+2. Attachment. The security interest created hereby is intended to attach when this Assignment is executed by On-Line and delivered to the Authority.
+(Assignment of Lease Agreements, at paragraph 2)
+(Emphasis added)
+[46] The Respondent’s view is that the Preamble portion of the Agreements is consistent with the operative provisions of the Agreements. In contrast, the Appellant argues that the operative provisions are clear and unambiguous and support its interpretation. In addition, to the extent that the Preamble is inconsistent with the operative provisions, it cannot alter the meaning of the operative terms.
+[47] Which of these two interpretations will govern, depends primarily upon the wording in paragraphs 1 and 3 of the Assignment of Lease Agreements:
+1. Assignment. On-Line hereby grants to the Authority a continuing and specific security interest in … the Lease Agreements … and all benefits and advantages to be derived … including, … any payment … to have and to hold for the Authority until all monies owing under and all obligations … under the Lease Agreements have been fully paid and fulfilled.
+(Emphasis added)
+3. Credit. The Authority acknowledges that, by virtue of the assignment … the Authority has accepted the credit extended to the Lessees by On-Line, and therefore has accepted the responsibility for any credit losses …
+(Emphasis added)
+[48] There are a number of conclusions that can be drawn from the aforesaid paragraphs 1 and 3:
+(1) The Appellant grants a security interest in the lease agreements to the MFA, including the lease payments until all payments and terms contained in the original lease agreement between the Appellant and the municipality are satisfied.
+(2) Since the Appellant is the borrower of the funds advanced to it by the MFA, paragraph 3 of the Assignment of Lease Agreements implies that the Appellant then extends that credit to the lessees.
+(3) With the assignment, the MFA now steps into the shoes of the Appellant, notwithstanding the fact that it was the original creditor in respect to the funds advanced. At this point, the Appellant has no further right to any of the lease revenue.
+(4) The purpose of the security is to ensure that the terms of the lease agreement between the Appellant and the municipality are fulfilled. This is also supported by paragraph 3, which states that the MFA accepts the responsibility for any credit losses.
+[49] The Preamble to the Agreements clearly states that the Appellant is assigning the lease agreements as security for the financing provided to the Appellant by the MFA which supports the Respondent’s position on these transactions. The Respondent, as opposed to the Appellant, submits that the recitals in the Preamble are consistent with the operative clauses of the Assignment of Lease Agreements. However, contrary to the Respondent’s position, there does appear to be an inconsistency between the Preamble and the operative terms of the Agreements.
+[50] The Appellant cited several authorities to support the proposition that in the event of an inconsistency between the recital and operative provisions of a contract, the operative provisions prevail. In Monarch Timber Exporters Ltd. v. Bell, [1963] B.C.J. No. 154 (B.C.C.A.), aff’d [1964] S.C.R. 375, the British Columbia Court of Appeal, at paragraph 18, held that:
+18. In the construction of an instrument the recitals are subordinate to the operative part, and consequently, where the operative part is clear, this is treated as expressing the intention of the parties, and it prevails over any suggestion of a contrary intention afforded by the recitals: 11 Hals., 3rd ed., p. 418, para. 677. …
+The Supreme Court of Canada adopted a similar approach in Eli Lilly. The Court, at paragraph 63, stated:
+63 It is true that, in the recitals, the parties refer to a mutual intention to “share their rights”, which itself might well be taken to suggest an intention to create a sublicence. However, this provision must be read in light of the rest of the agreement, which clearly discloses the intention not to create a sublicence.
+[51] Although the Preamble provisions in many of the Agreements stipulate that the assignment made by the Appellant is made as security for financing, only the Assignment of Lease Agreements, and more specifically paragraphs 1 and 3, provide detailed terms with respect to the assignment. Based on the remarks of the Supreme Court of Canada, the inconsistency between the Preamble and the operative provisions must be resolved in favour of the Appellant by following the operative provisions of the Assignment of Lease Agreement. Since there were no allegations of fraud or sham, the legal relationship created by the Agreements must be given full effect.
+[52] The assignment by the Appellant of the lease agreements, revenue and assets should be characterized as extinguishing the outstanding loan between the Appellant and the MFA. Consequently, all future lease revenue paid by the municipalities is properly received by the MFA and should not be reflected in the Appellant’s income.
+The Respondent’s Alternative Argument: Is the Respondent permitted to introduce its alternative argument and, if so, does it have any merit?
+[53] Based on my conclusion, that the advances from MFA to the Appellant were interim loans that were immediately repaid through an absolute assignment, the Respondent wishes to rely on its proposed alternative argument: each absolute assignment constituted a disposition and the resulting proceeds must be added to the Appellant’s income, to the extent that it does not increase the amount of tax payable.
+[54] The terms “property” and “disposition” are defined in subsection 248(1) of the Income Tax Act (the “Act”):
+“property” means property of any kind whatever whether real or personal or corporeal or incorporeal …
+“disposition” of any property, except as expressly otherwise provided, includes
+(a) any transaction or event entitling a taxpayer to proceeds of disposition of the property, […]
+[55] The Respondent submits that the lease revenue and agreements constitute property and that the absolute assignment constitutes a disposition. Consequently, there is a resulting gain or loss, depending on the proceeds of disposition and the adjusted cost base. The Respondent argues that the Appellant’s adjusted cost base is zero since it is completely financed by the MFA. Therefore, all proceeds of disposition are to be included in the Appellant’s income.
+[56] The Appellant relies on the decision in First Vancouver Finance v. M.N.R., 2002 SCC 49, to argue that there was no disposition of the lease payments. In addition, the Appellant disagrees with the Respondent’s characterization of the adjusted cost base of each lease as being zero and instead argues that it is “…the discounted value of the lease payments at the date of inception of each lease and is equal to the remaining principal balance outstanding under each lease at that time” (Appellant’s Reply to Respondent’s Closing Arguments, at paragraph 19(b)).
+[57] The Appellant also objects to the Respondent’s alternative argument on the basis that it violates subsection 152(4), which states that no reassessment may be issued after the normal assessment period. The Appellant also argues that this alternative argument relies on a “different transaction” which is not permitted under subsection 152(9). Lastly, the Appellant argues that, although the Respondent has stated that the alternative argument will not increase the total tax payable, this is an attempt to circumvent the issue as there will actually be an increase in tax payable.
+[58] Since the enactment of subsection 152(9), there are a number of cases that have defined exactly what “an alternative argument in support of an assessment” may include. In Anchor Pointe v. The Queen, 2003 FCA 294, the Court held that there was no distinction between “a new basis of assessment” and “a new argument in support of an assessment”. The main issue is whether the Minister is taking into account other transactions or increasing the amount of tax payable. If so, then the alternative argument cannot stand. In the present appeals, the Respondent is not seeking to increase the tax payable by the Appellant nor is it trying to introduce new transactions. Therefore, the Respondent is permitted to argue this alternative argument.
+[59] The Appellant relied on the decision in First Vancouver Finance to support its position that an absolute assignment does not constitute a disposition. The Appellant relies specifically on paragraphs 15 and 16:
+15 On the preliminary issue of the ownership of the factored accounts, Wimmer J. relied upon the definition of a factoring agreement from Alberta (Treasury Branches) v. M.N.R., [1996] 1 S.C.R. 963, at paras. 30-31. In that case, Cory J. stated at para. 31 that, “A factoring of accounts receivable is based upon an absolute assignment of them. It is in effect a sale by a company of its accounts receivable at a discounted value to the factoring company for immediate consideration.”
+16 Wimmer J. observed that, according to Alberta (Treasury Branches), an absolute and unconditional assignment of book debts is beyond the reach of the Minister under garnishment provisions. He held further that the assignments from Great West to First Vancouver were absolute and unconditional because, upon completion of the assignments, Great West had no residual rights in the property and could not redeem or recover the accounts and, in that circumstance, Canada Safeway had no liability to Great West after there was a completed transfer of accounts. Although the Minister argued that the assignments were not absolute because under the factoring agreement First Vancouver had recourse to Great West if a customer disputed or failed to pay an account, Wimmer J. noted that the definition of factoring approved by Cory J. contemplated that a factor may acquire an absolute interest in book debts with or without recourse (p. 718).
+(Emphasis added)
+However, I do not agree with the conclusion that the Appellant suggests.
+[60] In the context of factoring agreements, it appears that the Supreme Court has accepted that an absolute assignment is a disposition of property. Bowman J. reached a similar result in Sussex Square Apartments Limited v. The Queen, 99 D.T.C. 443. At paragraph 32 he states:
+[32] The legal difference between an assignment and a sublease results as well in a difference for income tax purposes. An assignment of the entire term is a disposition of property and the consideration for that disposition constitutes a receipt on income or capital account, depending on the circumstances. …
+[61] If an absolute assignment can be considered a disposition, then the question that must be answered is whether the Respondent’s characterization is accurate. Because the MFA financed everything, the Respondent argues that the Appellant’s adjusted cost base is zero.
+[62] This argument has no merit. If the Respondent calculates the proceeds of disposition as the value of the loan (or the purchase price of the asset), then there has to be a cost associated with it. Whether or not the MFA financed the leasing program is irrelevant since it does not change the fact that there was still outstanding debt between the Appellant and the MFA. The Respondent’s interpretation is contrary to the Agreements which clearly state that the MFA extended a line of credit to the Appellant. Even if the Respondent’s characterization of the disposition is accurate, then essentially the MFA gave the Appellant something for nothing as the Appellant would have received funds to purchase assets without having to repay the MFA.
+[63] In the present appeals, the proceeds of disposition are those amounts submitted by the Respondent. However, the adjusted cost base of the assets is not zero. Instead, it should be the exact amount as the proceeds of disposition, since each step of the leasing program arrangement occurred immediately one after another, such that there would be no income attributable to the Appellant.
+Can the Appellant seek to have losses adjusted in statute-barred years and years for which no loss determination request was made?
+[64] In 2004, the Appellant submitted amended tax returns for the 1997 to 2002 taxation years. The Minister refused to accept the 1997 to 1999 amended returns as they were statute-barred. The Appellant is now seeking to have the losses in those statute-barred years adjusted so that non-capital losses from those years may be carried forward to subsequent taxation years. The Appellant relied on the remarks of Bowie J. in Sherway Centre Limited v. The Queen, 2001 D.T.C. 1021, at paragraph 11:
+[11] That principle, as I understand it, is simply this. If, the Minister in assessing a taxpayer, has misstated the non-capital loss for a particular taxation year, which is statute-barred, and so has also misstated the balance of non-capital losses available to be applied to other years, then that error may be remedied in the reassessment or the appeal of a later year, provided that either the later year is open for reassessment, or there is a valid appeal with respect to it before the Court. The Minister or the Court, as the case may be, should, in dealing with that later year, re-compute the non-capital loss balance available to be carried forward, and in doing so should correct the error in respect of the earlier year.
+(Emphasis added)
+[65] The Appellant argues that, since the non-capital losses in these statute-barred taxation years, 1997 to 1999, have been misstated, the balance of available non‑capital losses in subsequent taxation years is therefore misstated. Since the Appellant’s 2003 taxation year is validly before the Court, the Appellant’s non‑capital losses for the 1997 to 1999 taxation years and the non-capital loss balance available for carry-forward should be recalculated.
+[66] The Respondent relies on the decision of Bowman J. (as he was then) in Aallcann Wood Suppliers Inc. v. The Queen, 94 D.T.C. 1475, at page 1476, where he states:
+… In the absence of a binding loss determination under subsection 152(1.1), it is open to a taxpayer to challenge the Minister's calculation of a loss for a particular year in an appeal for another year where the amount of the taxpayer's taxable income is affected by the size of the loss that is available for carry-forward under section 111. …
+(Emphasis added)
+The Respondent’s position is that the Appellant “…is not entitled to a determination of its non-capital losses from years that are not under appeal.” (Respondent’s Closing Argument, paragraph 116). The Respondent submits that the Appellant had a taxable income of nil in its 2000 taxation year and a taxable income of $314,876 in its 2003 taxation year. If the Appellant is successful in these appeals, the Appellant’s taxable income will be reduced to nil and because the tax payable would not be affected by losses available for carry-forward from prior years, these losses should not be recalculated as they will have no impact upon the Appellant.
+[67] Justice Bowman’s decision in Aallcann implies that if an error with respect to losses from a prior year is discovered but the taxpayer does not have taxable income in the year under appeal, then the error cannot be corrected until the taxpayer begins to turn a profit. Since I have allowed these appeals, the Appellant is entitled to a determination of its non-capital losses from prior years that are not under appeal, including those statute-barred years, if its taxable income, in the years under appeal, is affected. The Appellant asked that either this Court or the Minister correct the error in the 1997 to 1999 taxation years and recalculate the Appellant’s non-capital loss balance available for carry-forward. I believe the Minister is in the best position to make these adjustments and recalculations if, in fact, there is taxable income upon which those losses could impact. If it is determined that there is, in fact, no taxable income in the years under appeal, then no adjustment would be required in those years.
+Conclusion:
+[68] In summary, I believe the decision in the Urichuk case has more limited application than the Respondent suggests and, consequently, cannot be extended to the present appeals. In limiting the Urichuk comments on the parol evidence rule to spousal and maintenance support issues and pursuant to the reasons contained in my Order dated March 2, 2010, the Respondent was not permitted to rely on extrinsic evidence to support its position.
+[69] Since I limited the scope of the evidence in this manner, the leasing agreements, as they are written between the parties, lead to the following conclusions:
+(1) the MFA loaned funds to the Appellant; and
+(2) those funds were immediately repaid to the MFA when the Appellant absolutely assigned its rights in the lease agreements between itself and the municipalities together with the lease revenue to the MFA.
+[70] In many ways, the Appellant acted as a conduit between the MFA and the municipalities to facilitate the leasing program by using its proprietary leasing software. Therefore, the appeals are allowed with costs because the lease revenue is not attributable to the Appellant’s income.
+[71] One final matter, that requires a brief comment, is the submissions by the Appellant respecting relief sought through this Court for so-called “taxpayer oppression”. These claims were made “at the instance of Mr. R. Leighton” and I understand why Appellant counsel wished to divorce himself in this manner from these submissions. Firstly, I have no jurisdiction to provide such relief but secondly, and far more importantly, it is highly inappropriate for Appellant counsel to reference pre-hearing settlement discussions and particularly to quote in the final written submissions from the Respondent’s pre-hearing brief. Since the final submissions in these appeals were made in writing, I did not have the opportunity to stop such a reference at the outset. Pre-hearing conferences encourage all parties to be open and frank concerning settlement possibilities. Discussions that occur at those conferences and all materials filed in support are never intended to be part of the record of the Judge hearing the case. It is the reason that all of those materials are sealed after the conclusion of any settlement negotiations. Mr. Drove should know better and he should realize that such conduct is highly unprofessional.
+Signed at Ottawa, Canada, this 21st day of September 2010.
+“Diane Campbell”
+Campbell J.
+CITATION: 2010 TCC 475
+COURT FILE NO.: 2006-2175(IT)G
+STYLE OF CAUSE: ON-LINE FINANCE & LEASING CORPORATION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 16 and 17, 2009 and
+April 13 to 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: September 21, 2010
+APPEARANCES:
+Counsel for the Appellant:
+John Drove
+Counsel for the Respondent:
+Andrew Majawa
+Carl Januszczak
+COUNSEL OF RECORD:
+For the Appellant:
+Name: John Drove
+Firm: John Drove Law Corporation
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

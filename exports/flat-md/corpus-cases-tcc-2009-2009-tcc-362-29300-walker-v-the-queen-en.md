@@ -1,0 +1,145 @@
+---
+title: "Walker v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29300/index.do"
+last_modified: "2009-07-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 362"
+citation2: ""
+neutral_citation: "2009 TCC 362"
+decision_date: "2009-07-10"
+language: "en"
+item_id: "29300"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7101
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:08:13.447000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f43c205d5f13dbd40d506304cb6200e0b58ef72b8377f849571bc0f03ec8db60"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Walker v. The Queen
+
+- Citation: 2009 TCC 362
+- Decision date: 2009-07-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7101, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walker v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-10
+Neutral citation
+2009 TCC 362
+File numbers
+2008-3350(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-3350(GST)I
+BETWEEN:
+HARRY J. WALKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 26, 2009, at Winnipeg, Manitoba
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Melissa Danish
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated November 22, 2007 and bears number 823165949RT0001, is dismissed with costs.
+Signed at Ottawa, Canada, this 10th day of July 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TC362
+Date: 20090710
+Docket: 2008-3350(GST)I
+BETWEEN:
+HARRY J. WALKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] This is an appeal from a Notice of Confirmation dated July 16, 2008 which was issued pursuant to the Excise Tax Act (“the Act”) for the periods ending December 31, 2001, December 31, 2002, December 31, 2003 and December 31, 2004 (“the period”).
+[2] The issue is whether, for the period, the Appellant is entitled to a deduction under subsection 234(2) of the Act in calculating net tax.
+[3] The Appellant is a hunting guide. During the period, the Appellant’s services were provided in Canada to clients who were non-residents. As part of his services, the Appellant provided tour packages that included short-term accommodation.
+[4] The Appellant stated that he telephoned the Canada Revenue Agency (“CRA”) to ascertain if he had to collect GST from his clients. He said that he was informed that his services were “GST exempt” because his clients were non-residents. From the evidence given by the Appellant, I infer that this telephone call would have been made to the CRA sometime in 1991 or 1992. In 2005, he was contacted by a person who worked for the CRA and informed that he had to collect GST. After he explained his business to this person, she told him that he did not have to collect the GST. A few days later, this same person telephoned him again to say that he was required to collect GST. He was given a registration number and asked to file returns for the period in issue.
+[5] On November 24, 2005, the Appellant filed the returns. As he did not collect the GST from his clients, he paid the net tax himself. He stated that, in 2007, he learned about the rebate for non-residents and he filed amended returns on June 22, 2007 wherein he sought to claim a deduction from net tax equal to 50% of the tax collectible which he had reported in his initial returns. The deductions claimed by the Appellant were $3,117.36, $2,587.39, $4,211.45 and $3,719.16 for the periods ending December 31, 2001, December 31, 2002, December 31, 2003 and December 31, 2004 respectively.
+[6] The relevant provisions of the Act are as follows:
+252.1 (2) Accommodation rebate for tour packages -- If
+(a) a non-resident person is the recipient of a supply made by a registrant of a tour package that includes short-term accommodation or camping accommodation,
+(b) the tour package is acquired by the person otherwise than for supply in the ordinary course of a business of the person of making such supplies, and
+(c) the accommodation is made available to a non-resident individual,
+the Minister shall, subject to subsection (8) and section 252.2, pay a rebate to the person equal to the tax paid by the person in respect of the accommodation.
+252.1 (8) Rebate paid by registrant -- If
+(a) a registrant makes a supply of a tour package that includes short-term accommodation or camping accommodation to a non-resident recipient who either is an individual or is acquiring the tour package for use in the course of a business of the recipient or for supply in the ordinary course of a business of the recipient of making supplies of tour packages,
+(b) the registrant pays to, or credits in favour of, the recipient an amount on account of a rebate under subsection (2) or (3) to which the recipient would be entitled in respect of the accommodation if the recipient had paid the tax in respect of the supply and had satisfied the conditions of section 252.2,
+(c) the amount paid or credited is equal to the amount that would be determined in respect of the supply under paragraph (5)(b), and
+(d) in the case of a rebate under subsection (2),
+(i) payment of the consideration for the supply is made at a place outside Canada at which the registrant, or an agent of the registrant, is conducting business, or
+(ii) if the supply of the tour package includes the short-term accommodation or camping accommodation and also includes other property or services (other than meals or property or services that are provided or rendered by the person who provides the accommodation and in connection with it), a deposit of at least 20% of the total consideration for the tour package is paid
+(A) by the recipient to the registrant at least 14 days before the first day on which any short-term accommodation, or camping accommodation, included in the tour package is made available under the agreement for the supply of the tour package, and
+(B) by means of a credit card or charge card issued by, or a cheque, draft or other bill of exchange drawn on an account outside Canada with, a non-resident institution that is a bank, cooperative credit society, trust company or similar institution,
+the registrant may claim a deduction under subsection 234(2) in respect of the amount paid or credited, and the recipient is not entitled to any rebate or to any refund or remission of tax in respect of the accommodation.
+234 (2) Deduction for rebate in respect of supplies to non-residents -- Where, in the circumstances described in subsection 252(3), 252.1(8) or 252.4(2) or (4), a registrant pays to, or credits in favour of, a person an amount on account of a rebate referred to therein, the registrant may deduct the amount in determining the net tax of the registrant for
+(a) the reporting period of the registrant that includes the particular day that is the later of the last day on which any tax to which the rebate relates became payable and the day on which the amount is paid or credited; or
+(b) any subsequent reporting period of the registrant for which a return is filed within one year after the particular day.
+[7] Subsection 252.1(2) provides for a rebate of the GST to a non-resident if certain conditions are met. Subsection 252.1(8) of the Act provides that if the non-resident is entitled to a rebate and the registrant who makes the supply of short-term accommodation to the non-resident pays to or credits in favour of the non-resident, an amount on account of the rebate under subsection 252.1(2), then the registrant may claim a deduction under subsection 234(2) in respect of the amount paid or credited to the non-resident.
+[8] In this appeal, the Appellant has not met the conditions in section 252.1. He did not charge his clients GST and consequently, they would not have been eligible to claim a rebate. The Appellant cannot claim a deduction under subsection 234(2) of the Act.
+[9] At the hearing, the Appellant stated that as a result of misinformation that he received from the CRA he paid all of the GST. He felt that the CRA should be held accountable.
+[10] This court does not have jurisdiction to grant an equitable remedy. As well, in spite of the misinformation that may have been given by the employees of the CRA, the Minister of National Revenue cannot be estopped from assessing in accordance with the provisions of the Act[1].
+[11] The appeal is dismissed.
+Signed at Ottawa, Canada, this 10th day of July 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC362
+COURT FILE NO.: 2008-3350(GST)I
+STYLE OF CAUSE: HARRY J. WALKER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: June 26, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: July 10, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Melissa Danish
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] M.N.R. v. Stickel, [1972] C.T.C. 210 (F.C.T.D.); Woon v. M.N.R., [1950] C.T.C. 263 (Ex. Ct.)

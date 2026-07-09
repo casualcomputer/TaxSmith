@@ -1,0 +1,309 @@
+---
+title: "Carrier Sekani Tribal Council v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29052/index.do"
+last_modified: "2008-12-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 671"
+citation2: ""
+neutral_citation: "2008 TCC 671"
+decision_date: "2008-12-10"
+language: "en"
+item_id: "29052"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6860
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:33:05.907000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d30c5745813f8389697faf8711844a5de7d5a6e8c7b304bffed79d06b5bb97d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carrier Sekani Tribal Council v. M.N.R.
+
+- Citation: 2008 TCC 671
+- Decision date: 2008-12-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6860, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carrier Sekani Tribal Council v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-10
+Neutral citation
+2008 TCC 671
+File numbers
+2007-780(EI)
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-780(EI)
+BETWEEN:
+CARRIER SEKANI TRIBAL COUNCIL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on August 9, 2007, at Prince George, British Columbia.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the Appellant:
+Jason Morgan
+Counsel for the Respondent:
+Pavanjit Mahil
+AMENDED JUDGMENT
+This Amended Judgment is issued in substitution for the Judgment signed on December 10, 2008. The Reasons for Judgment remain unchanged.
+The appeal is allowed and the decision made by the Minister of National Revenue on December 5, 2006 under the Employment Insurance Act is varied on the basis that Harry Pierre was engaged in insurable employment with the Appellant from July 9, 2003 to July 28, 2006.
+Signed at Ottawa, Canada, this 7th day of January 2009.
+"Gaston Jorré"
+Jorré J.
+Citation: 2008 TCC 671
+Date: 20081210
+Docket: 2007-780(EI)
+BETWEEN:
+CARRIER SEKANI TRIBAL COUNCIL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+The Issue
+[1] The issue in this appeal is whether Tribal Chief Harry Pierre was employed in insurable employment within the meaning of the Employment Insurance Act by the Carrier Sekani Tribal Council, the Appellant, during the period from July 9, 2003 to July 28, 2006.
+The Facts
+[2] The Carrier Sekani Tribal Council, hereinafter the “Council”, is a body incorporated under the Society Act of British Columbia[1]. It is not a band under the Indian Act.
+[3] The Council’s members are either members of certain specific Indian bands (hereinafter the specified bands) or are persons of Carrier and Sekani ancestry.
+[4] Broadly, the Council has two types of functions. First, it has what might be broadly described as political and representational functions. Secondly, it provides technical assistance to its members by employing qualified persons who can assist the specified bands in areas such as treaty negotiations, water systems or roads. One consequence is that the members benefit from the ability of the Council to achieve economies of scale and scope, thereby increasing the effectiveness of their efforts as compared to a situation where the members had not come together.
+[5] The purposes of the Society are set out in section 2 of the Society’s Constitution[2]:
+2. The purposes of the Society are:
+A. To preserve and promote the Native heritage and identity of the Carrier and Sekani people of North Central British Columbia.
+B. To improve the social and economic independence of the Carrier and Sekani people.
+C. To achieve just resolution of the land claims and aboriginal rights issues of the Carrier and Sekani people.
+D. To promote and improve communications between members of the Society and other Native communities in British Columbia and Canada.
+E. To promote better understanding between native people and the general public.
+F. To advance and improve the standard of living of the Sekani and Carrier people.
+G. To promote self-government for Carrier and Sekani people.
+It should be noted that the Constitution constitutes, in effect, in the terminology of the Society Act, the bylaws of the Council. Many provisions of the Constitution are the same as the bylaws in Schedule B of the Society Act[3].
+[6] Section 25 of the Constitution provides that there shall be the following directors:
+a) the Tribal Chief and Vice Tribal Chief, known as the officers,
+b) a director appointed by each of the specified bands whose members are members of the Society,
+c) a director to represent members of Carrier and Sekani ancestry who are not members of the specified bands.
+The Board of Directors of the Council is often referred to as the Council of Chiefs. In practice the Directors in category b) above are the Chiefs of the specified bands[4].
+[7] The Tribal Chief and Vice Tribal Chief are elected at large by all the members. According to the Constitution, their term is one year and there is an election at each annual general meeting of the members[5]. However, testimony at trial kept referring to Chief Pierre having a three-year term and there is one document where, notwithstanding the Constitution[6], the Directors approve his successor, Chief Luggi, having a three‑year term.
+[8] The members may by special resolution remove an officer before the end of his term and elect a successor to complete the term[7]. A special resolution requires a 75% vote.
+[9] Subsection 24(2) of the Society Act states:
+24(2) Subject to this Act and the constitution and bylaws of the society, the directors
+(a) must manage, or supervise the management of, the affairs of the society, and
+(b) may exercise all of the powers of the society.
+[Emphasis added.]
+[10] Section 24 of the Constitution states:
+24(1) The directors may exercise all the powers and do all the acts and things that the Society may exercise and do, and which are not by these bylaws or by statute or otherwise lawfully directed or required to be exercised or done by the Society in general meeting, but subject, nevertheless to
+(a) all laws affecting the Society;
+(b) these bylaws; and
+(c) rules, not being inconsistent with these bylaws, which are made from time to time by the Society in general meeting.
+(2) No rule, made by the Society in general meeting invalidates a prior act of the directors that would have been valid if that rule had not been made.
+[11] Sections 40 to 43 of the Constitution set out duties of the Tribal Chief, Vice Tribal Chief and General Manager. Section 40 sets out that:
+40(1) The Tribal Chief shall preside at all meetings of the Society and of the directors.
+(2) The Tribal Chief is the political leader and spokesperson of the Society.
+[12] Further information regarding the role of the Tribal Chief is found in a document entitled “Draft 1” CSTC, IAS Committee – Job Description update June 1, 1999[8]. It is useful to set out the entire document:
+Position: Tribal Chief
+Reports to:
+Reports to the Council of Chiefs.
+Reports to the membership on a consistent basis on political matters.
+Supervises:
+Education Programs
+First Nation Education Director at CNC
+Dakehl Education Instructor
+Qualifications:
+Elected position, Good knowledge of Carrier Sekani communities, Member of a Carrier Sekani Tribal Council member nation. Experience in dealing with Carrier Sekani political issues. Nominated and elected by Individual Members of Carrier Sekani Tribal Council as per Carrier Sekani Tribal Council Bylaws.
+Purpose of the position:
+· Political leader and spokesperson of the Society.
+· Protect and promote the Native heritage and identity of the Carrier and Sekani people of North Central British Columbia.
+· To improve the Social and Economic independence of the Carrier and Sekani people.
+· To assist in achieving just resolution of the Land Claims and Aboriginal rights issues of Carrier and Sekani people.
+· To promote and improve the communications between members of the Society and other Native communities in British Columbia and Canada.
+· To promote better understanding between Native people and the general public.
+· To advance and improve the standard of living of the Carrier and Sekani people.
+· To promote self-government of the Carrier and Sekani people.
+· Acts as Main political spokesperson of the Carrier Sekani Tribal Council.
+· Presides at all official meetings of the Council of Chiefs.
+· Acts as the main Carrier Sekani Tribal Council contact person for non‑aboriginal government agencies and other First Nations.
+· Facilitates meetings with non-government agencies on behalf of individual member Bands.
+Duties:
+· Ensure the Council of Chiefs meet regularly on a quarterly basis to discuss Society business.
+· Calls emergency Council of Chiefs meetings or conference calls when necessary.
+· Ensures that all political decisions are taken action upon.
+· Makes political decisions on an emergency basis on behalf of the Board of Directors and advises as soon as possible.
+· Ensures that any constitutional and tabled issues are followed up at a Special Assembly
+· for the membership and to report on program deliveries.
+· Participates in meetings as required/requested.
+· The Tribal Chief may appoint other Directors to attend functions on his/her behalf.
+· Negotiates for funding on behalf of the Carrier Sekani Tribal Council administration along with the General Manager.
+· Maintain positive communication with the Bands.
+· May travel to communities, when necessary, to listen to Bands’ political concerns.
+· Liaise with governments, agencies and other Native organizations for political concerns.
+· Maintain communication with the media.
+· Act as moderator and chair grievance meetings in political matters when requested by
+· member Bands or others.
+· To make quarterly reports on expenditures approved by the Committee/ Directors.
+[Emphasis added.]
+[13] Chief Pierre worked full-time for the Council. He was elected to the position by the members of the Society and subsequently lost the position when he was defeated in an election. The other Directors were also Chiefs of the specified bands who had to fulfill their responsibilities as Chiefs of those bands[9]. They devoted only part of their time to the Council. The Board met monthly.
+[14] His normal work week was 35 hours and he was not normally paid overtime. At one point he took on so much that the Directors agreed, exceptionally, to pay overtime.
+[15] The Council deducted EI and CPP premiums. Chief Pierre also participated in the pension plan.
+[16] The Vice Chief and other Directors were not paid[10].
+[17] There was no written contract of employment.
+[18] The General Manager reported to the Tribal Chief[11]. Chief Pierre had an executive assistant that he was able to select although, in general, the ultimate approval for hiring must come from the Board of Directors.
+[19] Chief Pierre was provided with his office and equipment by the Council.
+[20] It is quite clear that Chief Pierre had no chance of profit or risk of loss and that his activities were fully integrated into those of the Council.
+[21] He chaired the meeting of the Directors and also reported to them at the monthly meetings of the Board.
+[22] The Chief’s signing authority is limited to $10,000 and requires a signature by a second authorized person. Anything above $10,000 would have to be approved by the Board.
+[23] The current Tribal Chief of the Council, David Luggi, testified that there are similarities between his current position and that of being the Chief of an Indian band. Chief Luggi has been the Chief of the Stellat’en First Nation.
+[24] Chief Luggi defeated Chief Pierre in the 2006 elections for the Tribal Chief position. He paid his own expenses during the election campaign.
+Analysis
+[25] The Notice of Appeal appeared to raise an issue under section 15 of the Charter[12]. At the opening of the hearing the Appellant stated that it would not pursue such an argument[13].
+[26] The Notice of Appeal raised an alternative argument that Chief Pierre was specifically included by reason of subparagraph 6(f)(i) of the Employment Insurance Regulations. Again the Appellant did not pursue this argument[14].
+[27] The only question is whether Chief Pierre was an employee as opposed to someone holding an office who is not an employee.
+[28] There is absolutely no doubt that Chief Pierre was not an independent contractor[15]. He worked full-time for the Council, had no chance of profit or loss, used tools provided by the Council and was not only fully integrated into the Council’s activities but he also played a crucial role in those activities.
+[29] While there is much case law on the issue of whether an individual is an employee or an independent contractor there is much less on when the holder of an office is or is not an employee. Indeed, the term “office” is one of several different meanings.
+[30] The evidence amounts to this:
+a) Chief Pierre was, to use generic terminology, both Chairman of the Board of Directors of a non-profit organization and also the Chief Executive Officer (CEO) of the organization. One of his key roles was that of spokesperson.
+b) The posts of Chairman and CEO are always filled by one person pursuant to the bylaws of the organization.
+c) Pursuant to the bylaws, this person is elected to the position for a one‑year term by a vote of all the members. Although it is not clear on what legal basis this was done it appears that the Board may have converted the one-year term into a three-year term. Only the members may remove the Chairman/CEO, the Tribal Chief.
+d) Under the Society Act and the bylaws the Directors must either “manage or supervise the management of . . .” the organization.
+[31] It is well established that the directors of an incorporated entity are not employees. It is also clear that an individual can function in more than one capacity in relation to that entity. Thus an owner can also be an employee and a director can also be an employee provided that the two distinct roles are clearly established[16].
+[32] There is no question that Chief Pierre occupied two distinct roles. As Chairman of the Board, he was not an employee. There remains the question whether, as CEO, he was or not an employee.
+[33] The Respondent’s key argument on this issue was that the control test was not met, particularly because the Board had no way to compel the Chief to follow its directions. Notably, the Board could not dismiss him if he failed to comply with its direction.
+[34] Insofar as Chief Pierre was acting as Chairman of the Board, I agree that the Board had no control over Chief Pierre. They could not tell him how to vote, for example. For this he was accountable to the members as a whole.
+[35] There is also no question that under the bylaws the Board did not have the power to dismiss Chief Pierre.
+[36] However, when Chief Pierre was acting as CEO, the law of British Columbia clearly gave the Board the power to direct Chief Pierre’s actions whenever he was outside his director’s role[17].
+[37] There was no evidence that Chief Pierre failed to comply with any direction provided by the Board in matters where he was not acting as a Board member.
+[38] While Chief Pierre no doubt had a fair amount of latitude in his CEO functions, that is no different from the situation of most CEOs in relation to their board. Given that the key is the potential power to control, whether or not it is exercised, there would be little doubt that Chief Pierre acting as CEO was an employee if the Board had had the power to hire and to dismiss the Chief.
+[39] Acting as CEO, I do not see how the fact that Chief Pierre obtained his position by election, by itself, effects the control the Board has. If the Board could have dismissed him from the CEO role clearly it would have control. The critical question thus amounts to this:
+Is the absence of the power by the Board to dismiss the Chief, by itself, reason to conclude that Chief Pierre, when acting as CEO, was not under the control of the Society and therefore not an employee in circumstances where the applicable law does give the Board the power to direct the Chief when he is acting as CEO[18]?
+[40] The Board, not the members, controlled the Chief’s remuneration[19]. The Board could also exert pressure on the Chief in a number of other ways such as the control of budgets or its ability to direct other employees.
+[41] The Appellant and Respondent provided me with a number of authorities[20].
+[42] It is clear from Sagaz and Wiebe Door that one must look at the totality of the factors. Many of the factors used in those cases do not have any application here. Both an employee and a non-employee holder of an office will have their tools provided to them and both will have no risk of loss or chance of profit. Clearly control is the most important factor. To a limited extent the integration test may be relevant. A non-employee office holder is likely to be relatively less integrated into the entity than an employee. For example, directors control an incorporated entity but they are not part of the day-to-day operation; a typical CEO is part of the day-to-day operation.
+[43] I have two general observations about the Respondent’s authorities. First, many of the Respondent’s authorities relate to Chiefs of Indian bands under the Indian Act and not to the head of a private non-profit organization. Second, to the extent the authorities support the proposition that a director, as such, is not an employee, I agree[21].
+[44] I want to focus on those cases cited by the Respondent with respect to persons exercising CEO-like functions as did Chief Pierre.
+[45] A case with similarities to this one is Flamand v. M.N.R.[22]. Flamand was elected as Vice-President of the Manitoba Metis Federation, an incorporated body, and although he was free from day-to-day control, he was accountable to the Board of Directors. In Flamand, “[t]he Appellant's duties were to lobby governments, sit‑in on numerous boards, attend meetings of the Board, and monitor government programs”. He also supervised seven employees.
+[46] As I understand the decision in Flamand, it was that “. . . the employment of the Appellant would be insurable were it not for sections 3(1)(d) and 4(1)(g) of the . . .” Unemployment Insurance Act. Put another way the finding appears to be that the Appellant was an employee at common law but for those sections (which sections seem to be similar but not identical with paragraphs 5(1)(e) and 5(4)(g) of the Employment Insurance Act). The judgment then went on to hold that the individual was not insurable because he did not fall within any regulation enacted.
+[47] The effect of paragraphs 5(1)(e) and 5(4)(g) of the current Employment Insurance Act is to extend the notion of insurable employment not to limit it. As a result given that Flamand found that the Appellant was an employee of the Manitoba Metis Federation under the common law tests, it supports the conclusion that Chief Pierre was an employee in this case.
+[48] The appeal of Many Grey Horses v. M.N.R. involved a band councillor who also had administrative duties. That case appears to me to be different in a material respect from the facts here. First, given the statement that “. . . the Appellant was the chairperson of the Committee of Council that ran the Lands Department”, it is not clear to me that the Appellant in Many Grey Horses had a separate job as an employee. It appears that although the Appellant was involved in day-to-day management issues more than one would usually expect a Board member to be, the Appellant in that case did so in her capacity as a director who was chairperson of the Subcommittee of the Council that ran the Lands Department and not in any other capacity.
+[49] The case of McKay v. M.N.R. involves a band councillor who was also hired by the band through the Chief as manager of capital projects. He received $4,000 per year as a band councillor and $36,000 per year as manager of capital projects. The Court found that there was little if any control over the Appellant as manager of capital projects and that he only held this position because he was a band councillor. Given the finding that the Board had little control, if any, that case is not comparable to this one.
+[50] In Myers v. M.N.R., the Appellant was a Band Chief who appeared to carry out functions that went beyond his role as a councillor. In Christopher v. M.N.R., the Band Chief automatically became CEO, a distinct position.
+[51] In Myers and Christopher, the Band Council could not dismiss the Chiefs. Also there is nothing in the reasons of those cases that indicates that the Band Council could direct the Chiefs’ activities in the same way as the Board of Directors in this case could direct Chief Pierre, acting as CEO, pursuant to subsection 24(2) of the Society Act. Again the situation in those cases is not comparable to this one[23].
+[52] In this case the Board clearly had the power to control Chief Pierre acting as CEO and the control test is met with the result that there was a contract of employment.
+[53] It is interesting to compare this with the law relating to wrongful dismissal which reaches a comparable result through a slightly different analysis. In Ferguson v. British Columbia Nurses’ Union[24], the plaintiff, a registered nurse, was elected to the office of President. She was a member of and presided at the Council. She was also subject to direction from the Council:
+23 The defendant Union is a trade union certified under the Labour Relations Code, R.S.B.C. 1996, c. 244, to represent nurses employed at hospitals, facilities and in the community through British Columbia.
+24 The plaintiff, Catherine Anne Ferguson is a nurse and is a member of the Union.
+25 The British Columbia Nurses Union's Constitution provides for the election of officers.
+26 The President's term of office is two years. Under the Constitution no individual can hold office for more than two consecutive terms. The President is the only full-time elected position.
+27 Under the Constitution, the Union is governed by an annual Convention, but between Conventions the business is conducted by the Council which is comprised of 28 members. The Council is required to meet not less than four times each year (Article 8.01). The Council is the governing body of the Union when the Convention is not in session (Article 9.01).
+28 Council determines the compensation package of the President.
+29 Article 5 of the Constitution describes the duties of the Union officers. Section 5.01 says that the duties of the President include these:
+a. to preside at the Conventions of the Unions, meetings of Council and meetings of the Executive Committee.
+b. to interpret Union activities and policies to others.
+c. to be a signing officer.
+d. to perform other duties which may, from time to time, be assigned by the Council.
+e. to be an ex-officio member of all other Committees, except the Nominating Committee.
+f. to be a Director of the BCNU Holding Society.
+g. to be a Member of CFNU's National Executive Board.
+[emphasis added]
+30 The Council, prior to the plaintiff's first election, passed a motion adopting a document called "Roles and Functions 1995". This document describes in point form the various roles and functions of the Council, the President, the Chief Operating Officer and others. This document also says that the Council "approves [the] President's terms and conditions of employment and remuneration".
+31 The terms of the President's compensation and the Roles and Functions 1995 document were attached to the nomination forms in 1998 when the plaintiff first ran for president. Candidates were accordingly informed that the President "reports to Council and accepts direction from Council".
+32 In terms of the President's role, the roles and functions document provides that the President reports to Council and accepts direction from Council, presides at meetings of Council as well as at the annual Convention, recommends policies and actions for decision by Council and ensures Council gets complete, relevant, and timely information for decision making. The President's role also includes leading and providing vision to the Union, determining action on urgent and important issues between Council meetings, acting as the chief spokesperson with the media and maintaining external relationships required in the achievement of Union objectives. These are only examples of the many roles and functions of the President.
+[54] The British Columbia Supreme Court held that she was an employee applying a three-part test elaborated in earlier case law[25]. The Court stated:
+68 How does the three part test of the power of selection, control and termination apply in this case?
+69 The selection process here was similar to that in Hokanson. The plaintiff was elected as President by the entire membership of the Union. The selection process in Hokanson was said to be with the defendant because of the membership's right to vote on the person who would be the business agent. In that respect the selection process here is the same.
+70 While I think, as in Hokanson, this aspect of the test was satisfied, if the other aspects of the test were not satisfied, the plaintiff would only be an elected office holder, not an employee, and would not be able to maintain a wrongful dismissal action as an employee. But I agree with Hokanson that the fact a person is an elected officer does not mean that he is not also an employee who is capable of maintaining a wrongful dismissal action.
+71 Control is the probably the most important and significant factor. In Hokanson the element of control was satisfied in that the plaintiff was subject to the direction of the business manager. Spencer J. found that there was control over the way that the business representative carried out his functions. He said that the business representative came under the direction of the business manager as provided by the constitution and that he undertook to conform to the constitution which in turn governed the local.
+72 The defendant argues that there was no control and suggests that this was recognized by the plaintiff in her discovery evidence when she testified as to the lack of restrictions on her public speaking, her own determination of her working hours and where she worked, and that, although she received direction, it was up to her to decide how to carry out those directions. The previous President understood that as President, she was answerable to Council, who could direct her accordingly.
+73 Geoff England, in Individual Employment Law, (Toronto: Irwin Law, 2000) at 14, refers to the control aspect of the various tests as being a significant degree of control:
+They all require a minimum degree of control over the where and when of employment. This makes sense as the hallmark of the employment relationship is the subordination of the employee to the authority of the employer.
+74 Is there control here and what is the extent of it?
+75 Although there is no written contract, the Constitution of the Union provides the hierarchical framework within which the office of President exists. The Constitution provides that the Council, between Conventions, is the governing body of the Union. While the President presides over the meetings of both of these bodies and interprets Union activities and policies to others, the President performs "such other duties which may, from time to time, be assigned to it by Council". The Council is also required to report on its stewardship at the Convention and the Council appoints the Chief Operating Officer.
+76 The nature of the Council's control is not specific but the essential point I think is that the Council is the governing body and has the authority to direct the duties of the President, even though the President has some flexibility in how she carries out those duties. Although there are some areas where the President has some autonomy and may determine action on an urgent basis, on an overall basis she reports to Council and accepts direction from them.
+77 Because of the level of the plaintiff's position there is not the same direct and obvious control as there was of the union agent in Hokanson but by the same token there does not appear to be the same autonomy that you would expect in an elected corporate director, for example. That is probably because of the nature of the defendant Union. The governance of the Union when it is not in Convention is the Council, not the President.
+78 The defendant says that the President may be answerable to the Council but that does not mean that she is answerable to the defendant Union. I disagree. The governing body of the Union is the Council when it is not in Convention. Any control exercised by Council is, in essence, delegated by the Union as prescribed by the Constitution.
+79 I find that there is a significant degree of control.
+80 The next element relates to the question of termination. The defendant argues that there was no right of termination and that this factor weighs heavily against a finding of an employment relationship. The defendant also submits, parenthetically, that such a finding is often used as a mechanism to provide a measure of protection to "employees" through the doctrines of wrongful and constructive dismissal and reasonable notice. The defendant says that there is no such need to expand the concept of employment to include a Union office holder since there is already ample protection for such individuals. Under the Union Constitution, an office holder can only be removed through the complaint process, and this process incorporates an entitlement to notice and is subject to the rules of natural justice.
+81 The only ability to terminate the President during her fixed term is if a complaint results in the termination of her membership in the Union. This is similar to Hokanson where the constitution provided a mechanism for removal for cause. Under Article 24, the discipline could involve removal of the plaintiff's Union card which would have the effect of her being removed as President.
+82 Does the fact that there are there are procedures that require a hearing and proof of offences suggest that the plaintiff may not be an employee? Does this lack of vulnerability suggest that there is not an employment relationship? It might be argued that the mechanism in the Constitution for removal of membership is at least as consistent with the plaintiff simply being an office holder as it is with being an indicator of employment.
+83 Upon a consideration of all the evidence, I find this element to be satisfied. I find that the defendant, under the Constitution, had the right to terminate the plaintiff by removing her status as a Union member through the complaint process.
+84 In considering the weight to be given to this factor in determining if there is a employment contract here, it is important to place it in the proper context. The plaintiff does not allege breach of a contract that could be terminated on reasonable notice. The plaintiff held the office of President for a fixed term. She says that it was a term of her employment contract that the defendant would not create an intolerable working situation. That is the term of her employment she alleges was breached.
+[Emphasis added.]
+[55] Clearly if Chief Pierre had been suing the Appellant for wrongful dismissal in the courts of British Columbia, the facts here would justify a finding that he was an employee when acting as CEO[26].
+[56] It is clear from the evidence that the time at Board meetings would only have been part of Chief Pierre’s work. Even allowing for preparation as Chairman of the Board, the majority of his time was spent on his functions as CEO[27].
+[57] To conclude, Chief Pierre was an employee under the common law of employment and accordingly held insurable employment. Consequently, the appeal is allowed and the Minister’s decision is varied on the basis that Chief Pierre held insurable employment from July 9, 2003 to July 28, 2006.
+[58] Finally, I wish to commend the agent for the Appellant, Jason Morgan, and the counsel for the Respondent, Pavanjit Mahil, for their presentation of the case.
+Signed at Ottawa, Canada, this 10th day of December 2008.
+"Gaston Jorré"
+Jorré J.
+CITATION: 2008 TCC 671
+COURT FILE NO.: 2007-780(EI)
+STYLE OF CAUSE: CARRIER SEKANI TRIBAL COUNCIL v. M.N.R.
+PLACE OF HEARING: Prince George, British Columbia
+DATE OF HEARING: August 9, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: December 10, 2008
+APPEARANCES:
+Agent for the Appellant:
+Jason Morgan
+Counsel for the Respondent:
+Pavanjit Mahil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.B.C. 1996, c. 433.
+[2] Exhibit A-3, tab 1 or Exhibit R-1.
+[3] Schedule B provides a model set of bylaws which a Society may choose to adopt.
+[4] Transcript, page 62.
+[5] Section 26 of the Constitution, Exhibit R-1.
+[6] Exhibit A-3, tab 4, second from last page, motion No. 100406.03.
+[7] Section 29 of the Constitution.
+[8] Tab 5, Exhibit A-3.
+[9] With the possible exception of the Director representing the members who were not members of the specified bands. There was no evidence as to who filled that director’s position.
+[10] This may have changed since then with respect to the Vice Chief.
+[11] Transcript, page 40, line 2.
+[12] Had the issue arisen, there would have had to have been Notice to the Attorneys General pursuant to section 19.2 of the Tax Court of Canada Act.
+[13] Transcript, pages 7 to 10.
+[14] Notice of Appeal, paragraphs 33 to 40. Transcript, pages 7 to 10 and pages 151 to 166. The Respondent's counsel did review this alternative argument thoroughly. While it is not necessary for me to deal with it, I agree with the Respondent that Chief Pierre was not specifically added to insurable employment by reason of subparagraph 6(f)(i) of the Employment Insurance Regulations.
+[15] I hastened to add that the Respondent did not suggest that Chief Pierre was an independent contractor.
+[16] See for example: Lee v. Lee’s Air Farming, [1960] 3 All ER 420 (Privy Council), and the discussion at paragraphs 9 to 15 of Zupet v. M.N.R., 2005 TCC 89.
+[17] Subsection 24(2) of the Society Act. See paragraph 9 above.
+[18] I should note that no argument was made as to whether or not any legal remedies would be available to the Board to prohibit the CEO from acting contrary to direction or to compel the CEO to follow through on any direction. Section 85 gives the British Columbia Supreme Court certain powers to deal with certain types of governance issues. However, given the wording of paragraphs 85(1)(d) and (e) it does not appear that it could apply to a situation where a CEO did not comply with direction. There remains the question whether other remedies would exist.
+[19] This flows from their power to manage the Council and is illustrated at tab 2 of Exhibit A-1 where three Board members decided to increase the Chief's salary. Clearly this factor is only a consideration.
+[20] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 CarswellOnt 3357; Wiebe Door Services Ltd. v. Minister of National Revenue, 1986 CarswellNat 366; Hutchison v. M.N.R., docket #84-389(UI); Tobacco v. Canada (M.N.R.), [1986] T.C.J. No. 1036 (QL); Flamand v. Canada (M.N.R.), [1987] T.C.J. No. 1038 (QL); Many Grey Horses v. Canada (M.N.R.), [1991] T.C.J. No. 437 (QL); Greene v. Canada (M.N.R.), [1993] T.C.J. No. 799 (QL); McKay v. Canada (M.N.R.), [1994] T.C.J. No. 1232 (QL); Hare v. Canada (M.N.R.), [1995] T.C.J. No. 656 (QL); Christopher v. Canada (M.N.R.), [1995] T.C.J. No. 786 (QL); Kakum v. Canada (M.N.R.), [1995] T.C.J. No. 1351 (QL); Myers v. Canada (M.N.R.), [1995] T.C.J. No. 1537 (QL); Bergeron v. Canada (M.N.R.), [2005] T.C.J. No. 305 (QL); Bekker v. Canada (M.N.R.), [2004] F.C.J. No. 819 (QL); Raghavan v. Canada, [2001] T.C.J. No. 324; Raghavan v. Canada, [2002] S.C.C.A. No. 472 (QL); Faber v. R., 2007 CarswellNat 778; Hokhold v. R., 1993 CarswellNat 933; Zupet v. Minister of National Revenue, 2005 CarswellNat 382; Linklater v. Fort Albany First Nation, 2004 CarswellOnt 2062; Eggspectations International Holding Corp. v. Minister of National Revenue, 2003 CarswellNat 1856; Fournier v. Minister of National Revenue, 1996 CarswellNat 3268; Chadee v. Norway House First Nation, 1996 CarswellMan 462; Whitebear Band Council v. Carpenters Provincial Council of Saskatchwan, 1982 CarswellSask 153.
+[21] In this category are Hutchison v. M.N.R. and Kakum v. M.N.R., where the evidence set out in the reasons does not disclose the Appellants as having a separate CEO-type role.
+[22] [1987] T.C.J. No. 1038 (QL).
+[23] For the purposes of this appeal, it is sufficient to note that the cases provided to me involving Indian bands and their Chiefs did not find that the Band Councils had the ability to control their Chiefs. It is not necessary for me to examine the legal relation of Band Councils and their Chiefs. I would note, however, that the part of the Indian Act entitled “Powers of Council” has nothing like subsection 24(2) of the Society Act of British Columbia. The key powers of Councils are in section 81 of the Indian Act. Section 81 gives Councils the power to enact various kinds of bylaws.
+[24] 2005 BCSC 982.
+[25] See paragraphs 60 to 67 of Ferguson.
+[26] In Wells v. Newfoundland, [1999] 3 S.C.R. 199, Wells was a Commissioner of the Public Utilities Commission who was appointed until age 70 during good behaviour and who lost his position when the legislature enacted a new Public Utilities Act that restructured the Commission and provided that all existing Commissioners would cease to hold office. He sued for damages. The appeal in the Supreme Court was argued and decided on various grounds and no one appears to have argued that Wells was not an employee even though he could not have been fired in the usual way.
+[27] This is reflected in the fact that Chief Pierre was paid unlike the other Board members.

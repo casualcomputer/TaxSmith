@@ -1,0 +1,325 @@
+Title: Elim Housing Society v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/126520/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-282-126520-elim-housing-society-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-11-10
+
+# Elim Housing Society v. The Queen
+
+- Citation: 2015 TCC 282
+- Decision date: 2015-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2679, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elim Housing Society v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-11-10
+Neutral citation
+2015 TCC 282
+File numbers
+2013-148(GST)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-148(GST)G
+BETWEEN:
+ELIM HOUSING SOCIETY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 23 - 26, 2015
+at Vancouver, British Columbia
+Before: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Kimberley L. Cook
+Counsel for the Respondent:
+Victor Caux
+Sara Fairbridge
+JUDGMENT
+The appeal with respect to assessments made under the Excise Tax Act for periods from January 1, 2007 to December 31, 2007, January 1, 2009 to December 31, 2009, and January 1, 2011 to December 31, 2011 is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to public service body rebates on the basis that The Emerald is a “health care facility,” as defined, and The Harrison is a “qualifying facility,” as defined.
+The appellant is entitled to costs.
+Signed at Toronto, Ontario this 10th day of November, 2015.
+“J.M. Woods”
+Woods J.
+Citation: 2015 TCC 282
+Date: 20151110
+Docket: 2013-148(GST)G
+BETWEEN:
+ELIM HOUSING SOCIETY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+I. Introduction [1] Elim Housing Society (“Elim”) is a British Columbia non-profit organization that operates residential care facilities, including a long-term care facility called The Harrison. This appeal under the Excise Tax Act (the “Act”) concerns Elim’s entitlement to a public service body rebate with respect to this facility.
+[2] For purposes of goods and services tax (GST) and harmonized sales tax (HST) under the Act, Elim claimed public service body rebates with respect to The Harrison on the basis that its supplies are encompassed by the term “facility supply,” as that term is defined in subsection 259(1) of the Act. Elim has been reassessed to reduce the amount of eligible rebates on the basis that The Harrison did not make facility supplies.
+[3] There are two claim periods at issue, 2009 and 2011. For 2009, the GST was in effect and the rebate with respect to The Harrison was reduced from 83 percent to 50 percent. For 2011, the HST was in effect and the rebate was similarly reduced. It is not necessary that I outline the specifics of the HST reduction. For convenience, I will refer to the rebate claimed by Elim as the “83 percent rebate” and the rebate that was assessed as the “50 percent rebate.”
+[4] It appears that the amounts at issue with respect to The Harrison are approximately $293,337 for 2009 (related to the construction of the facility) and $13,775 for 2011 (Ex. R‑1, Tabs 5, 6).
+[5] For the information of readers, counsel advised at the commencement of the hearing that several long-term care facilities have outstanding tax disputes similar to this one which may be affected by the outcome of this appeal.
+[6] Prior to the hearing, the parties settled a separate rebate issue with respect to another of Elim’s residential facilities, The Emerald, which is an assisted living facility. This issue was settled in Elim’s favour on the basis that The Emerald was a health care facility that qualified for the 50 percent rebate. The claim periods at issue are 2007 and 2011.
+II. Applicable legislation A. Background [7] The relevant legislation, which became effective in 2005, expanded the types of facilities that qualified for the 83 percent rebate. Prior to this, only facilities that were designated as hospital authorities qualified for this rebate.
+[8] When the legislative amendments were announced, the Department of Finance described the amendments as reflecting the fact that some services traditionally provided by hospitals were now being performed by other non-profit entities.
+[9] As explained in the Supplementary Information to the 2005 federal budget, the legislation is meant to accommodate “significant variations in health care delivery models across the country,” and it lists seven types of facilities that now qualify for the high rate. The category that is relevant to this appeal is described in the Supplementary Information as a facility that offers “high-level therapeutic care.” (Supplementary Information, Annex 8, p. 406, 407.)
+[10] An entity such as Elim qualifies for rebates because it is a non-profit organization that receives government funding to operate a health care facility. As will be described below, the essential question in this appeal is whether The Harrison provides a sufficiently high level of care to satisfy the requirements in the 2005 amendments for the enhanced 83 percent rebate.
+B. Legislative provisions [11] The essential issue in this appeal is whether services ordinarily rendered at The Harrison are a “facility supply,” as that term is defined in s. 259(1) of the Act. The provision is reproduced below.
+259. [Public service body rebate] – (1) Definitions – In this section,
+[…]
+"facility supply" means an exempt supply (other than a prescribed supply) of property or a service in respect of which
+(a) the property is made available, or the service is rendered, to an individual at a public hospital or qualifying facility as part of a medically necessary process of health care for the individual for the purpose of maintaining health, preventing disease, diagnosing or treating an injury, illness or disability or providing palliative health care, which process
+(i) is undertaken in whole or in part at the public hospital or qualifying facility,
+(ii) is reasonably expected to take place under the active direction or supervision, or with the active involvement, of
+(A) a physician acting in the course of the practise of medicine,
+(B) a midwife acting in the course of the practise of midwifery,
+(C) if a physician is not readily accessible in the geographic area in which the process takes place, a nurse practitioner acting in the course of the practise of a nurse practitioner, or
+(D) a prescribed person acting in prescribed circumstances, and
+(iii) in the case of chronic care that requires the individual to stay overnight at the public hospital or qualifying facility, requires or is reasonably expected to require that
+(A) a registered nurse be at the public hospital or qualifying facility at all times when the individual is at the public hospital or qualifying facility,
+(B) a physician or, if a physician is not readily accessible in the geographic area in which the process takes place, a nurse practitioner, be at, or be on-call to attend at, the public hospital or qualifying facility at all times when the individual is at the public hospital or qualifying facility,
+(C) throughout the process, the individual be subject to medical management and receive a range of therapeutic health care services that includes registered nursing care, and
+(D) it not be the case that all or substantially all of each calendar day or part during which the individual stays at the public hospital or qualifying facility is time during which the individual does not receive therapeutic health care services referred to in clause (C), and
+(b) if the supplier does not operate the public hospital or qualifying facility, an amount, other than a nominal amount, is paid or payable as medical funding to the supplier;
+[…]
+[12] Although the term “facility supply” is at the heart of this dispute, it is desirable to briefly describe the legislative trail that leads to this definition.
+[13] I begin with subsection 259(3) of the Act which provides for rebates of specified percentages. It is sufficient to reproduce the provision as it read for the 2009 claim period. It provides:
+259.(3) Rebate for persons other than designated municipalities - If a person (other than a listed financial institution, a registrant prescribed for the purposes of subsection 188(5) and a person designated to be a municipality for the purposes of this section) is, on the last day of a claim period of the person or of the person's fiscal year that includes that claim period, a selected public service body, charity or qualifying non-profit organization, the Minister shall, subject to subsections (4.1) to (4.21) and (5), pay a rebate to the person equal to the total of
+(a) the amount equal to the specified percentage of the non- creditable tax charged in respect of property or a service (other than a prescribed property or service) for the claim period, and
+(b) the amount equal to the specified provincial percentage of the non-creditable tax charged in respect of property or a service (other than a prescribed property or service) for the claim period.
+[Emphasis added]
+[14] Elim qualifies for rebates under the provision above because it is a “charity” within an expanded definition of that term in s. 259(1), which definition includes a non-profit organization that operates a health care facility.
+"charity" includes a non-profit organization that operates, otherwise than for profit, a health care facility within the meaning of paragraph (c) of the definition of that expression in section 1 of Part II of Schedule V;
+[15] The definition of “health care facility” is set out below from section 1 of Part II of Schedule V to the Act.
+"health care facility" means
+(a) a facility, or a part thereof, operated for the purpose of providing medical or hospital care, including acute, rehabilitative or chronic care,
+(b) a hospital or institution primarily for individuals with a mental health disability, or
+(c) a facility, or a part thereof, operated for the purpose of providing residents of the facility who have limited physical or mental capacity for self-supervision and self-care with
+(i) nursing and personal care under the direction or supervision of qualified medical and nursing care staff or other personal and supervisory care (other than domestic services of an ordinary household nature) according to the individual requirements of the residents,
+(ii) assistance with the activities of daily living and social, recreational and other related services to meet the psycho-social needs of the residents, and
+(iii) meals and accommodation;
+[16] Subsection 259(1) provides for specific rebate percentages that vary depending on the type of public service body. It reads:
+"specified percentage" means
+(a) in the case of a charity or a qualifying non-profit organization that is not a selected public service body, 50%,
+(b) in the case of a hospital authority, a facility operator or an external supplier, 83%,
+(c) in the case of a school authority, 68%,
+(d) in the case of a university or public college, 67%, and
+(e) in the case of a municipality, 100%;
+[Emphasis added]
+[17] It is worth mentioning that the rebates apply to Elim, and not The Harrison. This is significant because Elim has other operations. It appears that this may have been a drafting oversight which was corrected by retroactive amendments that restricted the rebates to particular activities (subsections 259(4.11) and (4.12) of the Act). Nothing turns on this in this appeal.
+[18] Elim takes the position that its specified percentage is 83 percent since it qualifies as a “facility operator” with respect to The Harrison. The Crown submits that Elim is not a facility operator and only qualifies for a specified percentage of 50 percent as a charity.
+[19] A “facility operator” includes a charity that operates a “qualifying facility.” The definition of “facility operator” is reproduced from s. 259(1):
+"facility operator" means a charity, a public institution or a qualifying non-profit organization (other than a hospital authority), that operates a qualifying facility;
+[Emphasis added]
+[20] In summary, since Elim is a charity, as defined, it will qualify as a facility operator if it operates a qualifying facility. The conditions for being a “qualifying facility” are set out in s. 259(2.1) of the Act. Paragraph (a) of this provision refers to a “facility supply” which, as mentioned above, is at the heart of this litigation. Subsection 259(2.1) is reproduced below.
+259.(2.1) Qualifying facilities - For the purposes of this section, a facility, or part of a facility, other than a public hospital, is a qualifying facility for a fiscal year, or any part of a fiscal year, of the operator of the facility or part, if
+(a) supplies of services that are ordinarily rendered during that fiscal year or part to the public at the facility or part would be facility supplies if the references in the definition "facility supply" in subsection (1) to "public hospital or qualifying facility" were references to the facility or part;
+(b) an amount, other than a nominal amount, is paid or payable to the operator as qualifying funding in respect of the facility or part for the fiscal year or part; and
+(c) an accreditation, licence or other authorization that is recognized or provided for under a law of Canada or a province in respect of facilities for the provision of health care services applies to the facility or part during that fiscal year or part.
+[Emphasis added]
+[21] A few additional points should complete the legislative summary. First, a “facility supply” refers to a single supply to an individual. The tie in to services as a whole is found in subsection 259(2.1) of the Act which refers to supplies of services “ordinarily rendered” at a facility.
+[22] Second, subsection 259(2.1) of the Act refers to services ordinarily rendered at the facility or “part” of the facility. Neither party suggests that the reference to “part” of a facility has any relevance to this appeal.
+[23] Third, the reference to “exempt supply” in the definition of “facility supply” is not at issue. The Crown acknowledges that the supplies at The Harrison are generally exempt supplies because they are made by a charity.
+III. Positions of parties [24] Elim submits that it satisfies all of the requirements to qualify for the 83 percent rebate with respect to The Harrison.
+[25] The Crown takes issue with several of the required elements in the definition of “facility supply.” The disputed elements are listed below.
+• The supplies by The Harrison are not part of a medically necessary process of health care.
+• The process of medically necessary health care is not reasonably expected:
+• to take place under the active direction or supervision, or with the active involvement, of a physician,
+• to require that residents be subject to medical management throughout the process, and
+• to require that residents receive a range of therapeutic health care services and that such services are provided for the required minimum number of hours each day.
+IV. Factual background A. Introduction [26] The witnesses at the hearing, all of whom were called by Elim, were: (1) Larry Gustavson, a physician who works in a senior administrative capacity for the Fraser Health Authority, which is the government agency responsible for The Harrison; (2) Mark Blinkhorn, a physician and the Medical Director at The Harrison; (3) Hilde Wiebe, a registered nurse and the Director of Care at The Harrison during the relevant period; and (4) Shannon Dueck, the Director of Recreation at The Harrison. The evidence also included extensive documentation and excerpts from the discovery of Ms. Wiebe and Ron Pike, who is the Executive Director of The Harrison.
+[27] I find the testimony of all the witnesses to be reliable. As for Dr. Blinkhorn in particular, he had an unfortunate tendency during his testimony to describe care services using terms that are in dispute in this litigation (e.g., “therapeutic”). Although these legislative references were not helpful to Elim’s case, they did not affect the general reliability of Dr. Blinkhorn’s testimony, especially bearing in mind the natural tendency of witnesses to present their “side” in the best light.
+[28] I turn now to findings of fact. The Harrison is generally referred to as a long-term care facility and has a capacity of 118 residents. Elim receives provincial government funding for a portion of The Harrison’s residents. There is no difference in the services provided for residents who are funded and those who are not, and nothing turns on this in this appeal.
+[29] Virtually all of the residents at The Harrison are elderly and the vast majority suffer from dementia. The residents are generally frail and usually have complex medical problems. Their life expectancy is generally between three months and three years.
+[30] All of the residents at The Harrison have conditions that require “complex care” as that term is described in a policy manual by the B.C. Ministry of Health Services (the “Policy Manual”) (Home and Community Care Policy Manual, Ex. A-1, Tab 2).
+[31] Most of the residents at The Harrison fall into one of three categories of complex care, which are set out below from the Policy Manual. It will be noted that the categories are not black and white and require the exercise of some judgment. In all cases, however, the residents are extremely dependent on care either by reason of mental or physical impairments, or both.
+[…]
+Complex care refers to the increasing levels of resources needed to meet the specialized care requirements of specific individuals. Complex care recognizes individuals whose needs fall within one of 5 possible groupings of care requirements. All groupings require 24 hour supervision and continuous professional care in a care facility environment.
+Complex Care Groupings
+[…]
+Group B
+A person who has cognitive impairment, ranging from moderate to severe but who is socially appropriate. The person may or may not be independently mobile with use of ambulatory aids. Assessment indicators for this grouping include that the person:
+• is unable to direct own care;
+• is unable to communicate their own needs;
+• needs considerable directional assistance, supervision of activities, and requires considerable staff time due to impaired comprehension;
+• requires total care in their activities of daily living (ADL dependent with transfer, mobility, feeding, toileting);
+• requires secure environment for self protection.
+Group C
+A person who has cognitive impairment, ranging from moderate to severe but who is socially inappropriate. The person may or may not be independently mobile with assistance. Assessment indicators for this grouping include that the person:
+• is unable to direct own care;
+• is unable to communicate own needs;
+• needs considerable directional assistance, supervision of activities, and requires considerable staff time due to impaired comprehension;
+• requires total care in their activities of daily living (ADL dependent with transfer, mobility, feeding, toileting);
+• exhibits anti-social habits such as spitting, voiding and/or defecating in public, indecent exposure, etc.;
+• if ambulant, needs a secure environment for self protection;
+• may misappropriate the property of others.
+Group D
+A person who is physically dependent but cognitively intact with medical needs that require professional nursing, and whose condition requires a planned program to retain or improve functional ability. Assessment indicators for this grouping include that the person:
+• is unable to use a wheelchair independently and/or needs 2 person transfer;
+• requires professional nursing care for monitoring and for extensive interventions daily; for example requires ostomy care, decubitus ulcer care, nursing care to prevent pressure areas, oxygen therapy, enteral feeding, bowel and bladder management;
+• requires supervision by other health workers such as an Occupational therapist or Physiotherapist.
+[…]
+B. Care services at The Harrison [32] This section sets out the care services that are available at The Harrison. The description below is from Elim’s policy on standard of care at The Harrison (Ex. A-1, Tab 15).
+[…]
+4.1 Medical Services:
+Each resident is under the care of a licensed physician. Medical Services are coordinated by four in-house physicians. The Advisory and Safety Committee provides a forum for communication and dialogue on matters pertaining to the delivery of medical care within the facility and obtained in the community.
+4.2 Wellness Services:
+Wellness programs provide residents with a continuum of therapeutic recreation and activities. For complex care residents, specialized recreation/wellness activities are developed because residents may require assistance and/or adaptive devices in order to participate because of physical limitations or cognitive impairment. Wellness aides provide individual and group wellness programs on each neighbourhood.
+4.3 Physio and Occupational Therapy Services:
+Physio and Occupational Therapy services (PT/OT) are available on a fee for service basis.
+4.4 Pastoral Care Services:
+The Harrison Pastoral Care program provides spiritual care programs and responds to the spiritual needs of residents, families, and staff. The program is coordinated under The Harrison Chaplain.
+4.5 Dietetics:
+The dietician is a contracted service and responsible for assessing the nutritional needs of each resident.
+4.6 Nursing:
+Nursing services are as follows:
+• DOC [Director of Care] is responsible for the overall management and coordination of resident care and Wellness program at The Harrison.
+• Care Coordinator provides overall direction in the day-to-day provision and coordination of residents care at The Harrison.
+• Team Leaders (RNs/LPNs) provide resident assessment and care including medication and treatments as well as communication with physicians and other professionals related to resident needs.
+• Resident Care Aides (RCAs) provided direct resident care.
+4.7 Pharmacy Services:
+Rexall Pharmacy provides pharmaceutical services as ordered by the resident’s individual physician. Residents are billed through their individual MSP plan. Rexall also provides a Pharmacist who serves as a clinical resource and participates in med reviews and other core planning or operational committees. Rexall also supports staff education.
+4.8 Laboratory/Diagnostic Services:
+The Harrison
+BC Bio Laboratory provides once a week on-site lab services. Residents access community based diagnostic services or are transferred to Surrey Memorial Hospital.
+4.9 Music Therapy:
+The Music Therapist plans and implements music therapy programs and services by methods such as improvisation, guided imagery and grief and loss support for individuals and/or groups.
+[…]
+C. Care providers at The Harrison [33] The Harrison is required by government regulation to have a nurse on duty at all times, and each resident is required to have a physician who agrees to be on call.
+[34] In order to give some idea of the number of care providers at The Harrison, Elim provided a sample staffing plan. The summary below is based on staffing for day shifts at The Harrison.
+[35] The Harrison has approximately 5 nurses (registered or licensed) and 16 care aides available to provide care during the day. All residents are checked by the care staff on an hourly basis (24/7). The Harrison also has 3 recreation aides and a rehabilitation worker (R-1, Tab 33).
+[36] Other types of care providers are contracted out by The Harrison. These include a physiotherapist, a music therapist and a dietician.
+[37] During the periods at issue, The Harrison received government funding for care staff equivalent to 2.8 care hours per day per “funded” resident. This amount was based on The Harrison’s scheduled staffing hours.
+[38] As for physicians, most residents use one of four physicians who have an arrangement with The Harrison to be available for residents who choose their services. These physicians make regular visits to the facility, roughly on a bi‑weekly basis. Some residents have other physicians, which is permitted as long as the physician agrees to be on call. In addition to regular visits, the physicians are regularly contacted by the nursing staff for prescriptions and advice.
+D. The process of care [39] The care services at The Harrison are highly regulated by the provincial government. The residents must have health assessments and care plans must be developed to address health concerns; detailed records must be kept of the implementation of the care plans; there must be medication reviews every six months and inter-disciplinary meetings must be held annually. In addition, some of the records must be sent quarterly to the relevant government authority.
+[40] According to the testimony of Dr. Blinkhorn, which I accept, the residents at The Harrison generally:
+• have diagnoses that include several diseases; • are frail and at risk of falls; • have skin that is prone to tears; • suffer from dementia and have impaired cognition; • have impaired sensory function; • often have severe impaired mobility; and • often suffer from depression. [41] Some records with respect to three of the residents were entered into evidence by both parties. These exhibits have been sealed to protect confidentiality.
+[42] The most complete care records are for one resident listed at Tab 77 of Ex. R-2. These records suggest that the day-to-day care of this resident was planned with great care and detail in order to alleviate medical concerns. The care plan provides for specific action (called intervention) for the following problems:
+• allergic reactions (goal no reactions); • fall risk (goal no falls); • choking risk (goal to prevent aspiration); • pain management (goal to resolve within one hour); • bathing (requires two person assistance; goal for resident to bathe one limb, bathe safely, and be clean and neat); • mobility (goal to walk 3 feet with assistance, be in chair for 60 minutes per day, and move about in bed without assistance); • transferring (goal to receive appropriate assistance); • incontinence (goal of no infection, be clean and dry); • dental (goal to eat and drink free of pain); • dehydration risk (goal to maintain a minimum fluid intake); • nutrition concerns (goal to address several medical issues); • skin integrity issues (goal to reduce risk of skin breakdown); • wound from surgery (goal to heal properly). [43] In addition to the care above provided by the staff, the resident referred to at Tab 77 received regular visits from Dr. Blinkhorn approximately every two weeks. Dr. Blinkhorn also attended inter-disciplinary meetings and medication reviews. This is documented in Dr. Blinkhorn’s notes at Ex. R-2, Tab 64.
+[44] Many of Dr. Blinkhorn’s visits report no change in the resident, but a significant number involve monitoring and/or treating health concerns ranging from syringing the resident’s ears to addressing pain and skin problems.
+[45] This particular resident is the only one for which the evidence relating to health care provided appears to be relatively complete. The evidence contains detailed charts and notes and includes the testimony of Dr. Blinkhorn.
+[46] As for the evidence with respect to the other two residents, I am not satisfied that it was complete, and these residents’ physicians did not testify. Accordingly, I am not satisfied that the evidence regarding the other residents is detailed enough to be relied on as representative for residents as a whole.
+[47] Dr. Blinkhorn testified that the health condition of the resident at Tab 77 was in the middle of the range for residents at The Harrison. I have concluded that the care provided to this resident, as reflected in the evidence, is generally representative of the care provided at The Harrison. Either party could have provided additional evidence if this was not the case.
+V. Analysis A. Introduction [48] As described above, the definition of “facility supply” contains several elements that must be satisfied in order for Elim to qualify for the 83 percent rebate with respect to The Harrison.
+[49] The dispute between the parties relates to several of these elements, both from the perspective of the proper interpretation of the legislation and its application to the facts in this case. This analysis focusses on the disputed elements listed below.
+• The services provided to a resident by The Harrison must be part of a medically necessary process of health care.
+• The health care process must reasonably be expected to take place under the active direction or supervision, or with the active involvement, of a physician.
+• The health care process must reasonably be expected to require that, throughout the process, the resident be subject to medical management and receive a range of therapeutic health care services.
+• It is reasonably expected that the health care process will require that the resident receive a significant amount of therapeutic health care services on a daily basis. The concept of significant is expressed in the legislation by the term “all or substantially all.”
+[50] These elements will be discussed separately, but first I will briefly summarize my conclusion.
+[51] I would first observe that some of the disputed parts of the legislation use very broad terms, such as “active” and “therapeutic.”
+[52] The Crown argues for restrictive meanings of these terms. In my respectful view, if Parliament wished that these terms be given the restrictive meanings suggested by the Crown, different legislative wording would have been used.
+[53] One of the central arguments made by the Crown for a restrictive interpretation is that this better reflects the legislative intent as expressed in budget documents. In particular, the Crown suggests that the facility must provide services that were traditionally provided by hospitals.
+[54] In my view, this is not supported by the legislation. The legislation makes no reference to services provided by hospitals. It is not appropriate to read this requirement into the legislation, since this would cross the line from judicial interpretation to impermissible legislative drafting (Canada (Attorney General) v. Friends of the Canadian Wheat Board, 2012 FCA 183, at para. 40).
+[55] Further, as pointed out by Elim’s counsel, the Crown led no evidence as to what services were traditionally provided by hospitals. Accordingly, the Crown’s argument concerning hospital services is not supported by the law or the evidence.
+[56] Second, I disagree with the Crown’s position regarding the facts of this case. In my view, this position understates the level of the care and the medical aspects of the care that is provided to the residents of The Harrison.
+[57] The Crown submits that The Harrison provides nursing care and not medical care, and that this type of care is not encompassed by the definition of “facility supply.” In my view, this argument downplays the role of the physicians in the care of the residents at The Harrison. Although physicians are not employed by The Harrison, the physicians play an important role in the health care team. This level of participation satisfies the legislative requirements, in my view.
+[58] Having outlined my conclusion that Elim qualifies for the 83 percent rebate with respect to The Harrison, I will now consider the specific elements of “facility supply” that are in dispute.
+B. Does Elim provide a medically necessary process of health care? [59] In order for Elim to qualify for the 83 percent rebate, The Harrison must make supplies of property or services that satisfy the requirement in paragraph (a) of the definition of “facility supply” excerpted below.
+[…]
+(a) […] the property is made available, or the service is rendered, to an individual at a public hospital or qualifying facility as part of a medically necessary process of health care for the individual for the purpose of maintaining health, preventing disease, diagnosing or treating an injury, illness or disability or providing palliative health care, […]
+[Emphasis added]
+[60] The essence of the disagreement between the parties is whether the health care provided by The Harrison is medically necessary.
+[61] What is meant by the term “medically necessary”? The difficulty with this language is that it is extremely broad. A simple example is a supply of food and drink, which may be considered a health care service that is medically necessary.
+[62] In the case of The Harrison, it makes sense in my view to look at the nature of the care services provided and determine the extent to which they address medical concerns.
+[63] The process of health care that is provided to residents at The Harrison is intensive care throughout the day and night to best maintain the health of individuals who are nearing the end of their lives and who are generally in poor medical condition. Generally, the health of the residents is fragile and they are at risk for a number of medical problems, such as choking, skin wounds, infections, complications from medical conditions, and complications from falls. Much of the care at The Harrison is delivered through care plans, created by nurses, and which are tailored to address specific medical concerns. The health care process provided to residents is medically necessary, in my view.
+[64] The Crown suggests that the term “medically necessary” should mean medically necessary as determined by a physician (Respondent’s Written Submissions, para. 91). I reject this interpretation because it is not supported by the legislation.
+C. Is there active direction, supervision or involvement of physicians? [65] Subparagraph (a)(ii) of the definition of “facility supply” requires that the health care process be reasonably expected to take place under the “active direction or supervision,” or with the “active involvement” of a physician. The provision is reproduced below.
+(a) […] which process
+[…]
+(ii) is reasonably expected to take place under the active direction or supervision, or with the active involvement, of
+(A) a physician acting in the course of the practise of medicine,
+(B) a midwife acting in the course of the practise of midwifery,
+(C) if a physician is not readily accessible in the geographic area in which the process takes place, a nurse practitioner acting in the course of the practise of a nurse practitioner, or
+(D) a prescribed person acting in prescribed circumstances, and
+[…]
+[66] This element involves looking at the medically necessary process of health care and considering the nature of the involvement of the physician. The element has two requirements: (1) that the physician is reasonably expected to be involved in the health care process, and (2) that such involvement is “active.”
+[67] The Crown concedes that physicians are involved in the health care process at The Harrison. The dispute is whether such involvement is “active.”
+[68] Given that Parliament used a general term such as “active,” it is clear that Parliament did not envisage a bright line test. Moreover, the term “active” potentially has a very wide meaning. There is no good reason for it to be given an unduly narrow interpretation, in my view.
+[69] The evidence concerning the role of physicians at The Harrison was provided mainly by Dr. Blinkhorn.
+[70] The majority of residents at The Harrison use the physicians associated with the facility. However, some residents have physicians who are not connected with the facility. It may be that these residents wish to retain the services of a physician with whom they have an existing relationship. I accept Dr. Blinkhorn’s testimony that many of these residents decide later to switch to physicians associated with The Harrison for practical reasons.
+[71] The health care process at The Harrison is intensive and ongoing. In circumstances such as this, the requirement that the physicians are expected to be “active” is satisfied on the basis that the physicians’ involvement is frequent and regular. The physicians generally have a pro-active approach by visiting their patients roughly every two weeks. As well as seeing their patients, the physicians would at the same time receive updates from the nursing staff at The Harrison. In addition, the physicians are available at all times and participate in The Harrison’s inter‑disciplinary meetings and medication reviews.
+[72] The Crown suggests that the physicians’ visits are generally of a routine nature. I think this downplays the importance of these visits given the poor medical condition of the residents. In any event, routine visits also contribute to satisfying the “active” requirement. If Parliament had intended a greater amount of physician involvement, it would have clearly provided for it in the legislation.
+[73] The Crown also suggests that, given the policy intent set out in budget materials, the term “active” means that only facilities established to provide medical or surgical treatment qualify (Respondent’s Written Submissions, para. 85). This interpretation is not supported by the words of the legislation. The key phrase is “medically necessary process of health care.” This is broader than medical and surgical treatment.
+[74] The Crown implies that the role of physicians who treat residents at The Harrison have a passive or incidental part in the health care process (Respondent’s Written Submissions, para. 64). This view does not reflect the true role of physicians in the health care process. The physicians not only make themselves available at all times for the residents, but through their regular visits and other interactions with the nursing staff, the physicians would be very knowledgeable about the condition of their patients and involved with their care.
+[75] Finally, the Crown submits that residents admitted to The Harrison are required by regulation to be medically stable. Dr. Blinkhorn expressed doubt that this accurately reflects the reality of the situation, but in any event this requirement appears to only apply at the point in time when the individual becomes a resident. The fact is that the life expectancy of the residents at The Harrison is between three months and three years. It is reasonable to expect that the residents will require substantial medical care by a physician during this final stage of their lives.
+D. Are residents subject to medical management? [76] A further condition is only applicable to chronic care facilities, which include The Harrison. The condition is that the health care process must reasonably be expected to require that, throughout the process, the resident be subject to medical management. The relevant provision is reproduced below.
+[…]
+(iii) in the case of chronic care that requires the individual to stay overnight at the public hospital or qualifying facility, requires or is reasonably expected to require that
+[…]
+(C) throughout the process, the individual be subject to medical management […]
+[…]
+[77] This requirement is satisfied in respect of the residents at The Harrison. Medical management is demonstrated by the fact that residents are required to have a physician on call at all times and The Harrison is required to have inter‑disciplinary meetings for each resident annually, which generally involve the attendance of a physician. In addition, the residents at The Harrison who have physicians associated with The Harrison are visited regularly by physicians and during the visits the physicians are kept up-to-date by the nursing staff. The health care process is a team approach, which includes nurses and physicians.
+[78] It is worth mentioning that this legislative requirement focusses on the resident. It is the resident who is required to be subject to medical management, not the health care process. Accordingly, it is not necessary that the physician have management of the health care process itself.
+[79] It is clear that residents at The Harrison are generally subject to medical management and that this is reasonably expected to be required by the health care process.
+E. Do residents receive enough therapeutic health care services? [80] There remain two disputed elements in the definition of “facility supply,” both of which involve the term “therapeutic health care services.” These elements are that the health care process must reasonably be expected to require that the resident receive both a range of therapeutic health care services throughout the process, and a sufficient amount of therapeutic health care services during each calendar day.
+[81] The relevant legislative provisions are set out below.
+[…]
+(iii) in the case of chronic care that requires the individual to stay overnight at the public hospital or qualifying facility, requires or is reasonably expected to require that
+[…]
+(C) throughout the process, the individual […] receive a range of therapeutic health care services that includes registered nursing care, and
+(D) it not be the case that all or substantially all of each calendar day or part during which the individual stays at the public hospital or qualifying facility is time during which the individual does not receive therapeutic health care services referred to in clause (C),
+[…]
+[82] It is first necessary to determine which care services provided to residents of The Harrison, if any, are therapeutic health care services.
+[83] The gist of the dispute between the parties is whether the services provided by care aides at The Harrison, such as toileting and bathing, are therapeutic health care services.
+[84] I begin the discussion with the ordinary meaning of the terms “health care” and “therapeutic.”
+[85] As for “health care,” this term is not defined in the legislation and the ordinary meaning is broad. The Canadian Oxford Dictionary (2nd edition) defines “health care” as:
+The maintenance and improvement of health, esp. as administered by organized medical services and facilities.
+[86] As for the term “therapeutic,” its ordinary meaning is also very broad. As recently adopted by the Supreme Court of Canada, the term “therapeutic” can mean “having a good effect on the mind or body”: Cuthbertson v. Rasouli, 2013 SCC 53 (a decision concerning patient consent in the context of life support measures). At paragraph 41, McLachlin C.J. wrote:
+[41] The New Oxford Dictionary of English (1998), defines “therapeutic” as “relating to the healing of disease”, but also as “having a good effect on the body or mind” (p. 1922). Maintaining life support for Mr. Rasouli does not serve the purpose of “healing of disease”. However, it can be argued that maintaining life support has a “good effect on the body”, in the sense of keeping it alive.
+[87] The context in which the term “therapeutic” is used in the legislation must also be considered. It is clear that Parliament intended the term “therapeutic” to narrow the type of “health care” that will qualify; otherwise the modifier would not be used. In other respects, the context supports the general, broad meaning of the term “therapeutic.”
+[88] An appropriate way to approach the issue in this particular case is to consider the extent to which the care provided by the care aides at The Harrison is expected to alleviate medical concerns.
+[89] Although the term “therapeutic health care service” would not always encompass assistance with toileting and bathing, it could encompass these activities if the assistance is provided in such a way to take into account medical concerns.
+[90] According to the evidence, many of the routine services provided to residents by care aides apply nursing expertise to address particular medical concerns. The care plans are developed by the nursing staff and are implemented by the care aides. The plans are very detailed and specifically address the special needs of The Harrison’s infirm residents. This is reflected in the care plan set out at Tab 77 as summarized above.
+[91] It is not necessary in this appeal to give an all-encompassing definition of the term “therapeutic.” As reflected in Tab 77, the care that is provided by care aides at The Harrison is of a different type than ordinary assistance with activities of daily living that a more robust individual might require. I find that the level of expertise that is reflected in the care plans that are implemented by the care aides satisfies the requirement for a range of “therapeutic health care services.”
+[92] The Crown also submits that the term “therapeutic” has a narrower meaning than that suggested above. The Crown suggests that the ordinary meaning involves “an identification or diagnosis of a particular injury, illness, disability or other health issue of an individual and it must be reasonable to conclude that the service in question is rendered with the objective of treating and curing that health condition or its symptoms.” (Respondent’s Written Submissions, para. 122.)
+[93] Although the Crown referred to several authorities in support of a narrow meaning of the term “therapeutic,” the Crown did not cite the relatively recent Supreme Court of Canada decision in Rasouli, above. Instead, the Crown relied on the lower court decision in Rasouli (Rasouli v. Sunnybrook Health Sciences Centre, 2011 ONCA 482). The narrow meaning given to the term “therapeutic” by the lower court was not endorsed by McLachlin C.J. It was a serious error on the part of the Crown, in my view, not to refer to the final decision in this case.
+[94] Finally, I would briefly mention another requirement regarding therapeutic health care services. It is the “all or substantially all” test in clause D above.
+[95] The “all or substantially all” test in this part of the legislation contains a double negative and is extremely difficult to interpret. Fortunately, it is not necessary that I spend too much time trying to decipher it because I am satisfied that the test is met applying the interpretation that was adopted by both parties. The agreed upon test was that therapeutic health care services had to be provided for at least 2.4 hours (10 percent) each calendar day.
+[96] Although it is not necessary for my decision, I would mention that judicial interpretations of the “all or substantially all” test in other tax contexts, which are numerous, do not support the bright line 10 percent test suggested by the parties. Something less than this will suffice.
+[97] Turning to the facts of this case, The Harrison received funding during the relevant period for 2.8 hours of care per resident per day. Since some of the care provided at The Harrison is provided in groups (e.g. oversight for choking risk at meals), the funding actually provides greater than 2.8 hours of care per day per resident.
+[98] When one considers the high level of health care that is provided generally at The Harrison, I find that this requirement is satisfied.
+VI. Conclusion [99] As reflected in the reasons above, I have concluded that Elim qualifies for the rebates that it seeks. The appeal will be allowed in full, with costs.
+Signed at Toronto, Ontario this 10th day of November 2015.
+“J.M. Woods”
+Woods J.
+CITATION:
+2015 TCC 282
+COURT FILE NO.:
+2013-148(GST)G
+STYLE OF CAUSE:
+ELIM HOUSING SOCIETY and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATES OF HEARING:
+March 23 - 26, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+November 10, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Kimberley L. Cook
+Counsel for the Respondent:
+Victor Caux
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kimberley L. Cook
+Firm:
+Thorsteinssons LLP
+Vancouver, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,199 @@
+Title: Scott c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/459337/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-4-459337-scott-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-01-10
+
+# Scott c. La Reine
+
+- Citation: 2020 CCI 4
+- Decision date: 2020-01-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4241, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-01-10
+Référence neutre
+2020 CCI 4
+Numéro de dossier
+2017-1842(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-1842(IT)G
+ENTRE :
+JOHN RANDALL SCOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 octobre 2019 à North Bay (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelant :
+Me Gregory J. DuCharme
+Avocat de l’intimée :
+Me Dominik Longchamps
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie aux termes de la Loi de l’impôt sur le revenu est accueilli en partie seulement, et l’affaire est renvoyée au ministre du Revenu national aux fins de réexamen et d’établissement d’une nouvelle cotisation, conformément aux motifs du jugement ci-joints. Chaque partie doit assumer ses propres dépens.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2020.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 24e jour de février 2020.
+François Brunet, réviseur
+Référence : 2020 CCI 4
+Date : 20200110
+Dossier : 2017-1842(IT)G
+ENTRE :
+JOHN RANDALL SCOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction
+[1] La Cour est saisie d’un appel interjeté par John Randall Scott (l’appelant) à l’encontre d’une cotisation établie par le ministre du Revenu national (le ministre) aux termes du paragraphe 160(1) de la Loi de l’impôt sur le revenu dans les circonstances décrites ci-après.
+II. Exposé conjoint partiel des faits
+[2] Au début de l’audience, les parties ont déposé un exposé conjoint partiel des faits qui est rédigé ainsi :
+Daniel William Clayton Scott (ci-après Daniel W. Scott) est le frère de l’appelant, John Randall Scott.
+Au cours des années d’imposition 1995 à 2005, Daniel W. Scott exerçait les fonctions de pilote d’avion au service d'Air Canada [1] .
+Entre 1999 et 2014, Daniel W. Scott a été impliqué dans un différend avec l’Agence du revenu du Canada (ci-après l’Agence) concernant le calcul de son revenu pour les années d’imposition 1995 à 2001. Ce différend a donné lieu à un appel devant la Cour canadienne de l’impôt portant le numéro de dossier 2003-3579(IT)G.
+Le 20 octobre 2000, l’Agence a établi une nouvelle cotisation à l’égard de Daniel W. Scott pour les années d’imposition 1996 et 1997.
+Le 26 juillet 1999, l’Agence a établi une nouvelle cotisation à l’égard de Daniel W. Scott pour l’année d’imposition 1998.
+Le 5 mars 2001, le 3 mai 2001 et le 29 novembre 2002, l’Agence a établi de nouvelles cotisations à l’égard de Daniel W. Scott pour l’année d’imposition 1999.
+Le 2 décembre 2002, l’Agence a établi une nouvelle cotisation à l’égard de Daniel W. Scott pour l’année d’imposition 2001.
+Le 5 avril 2004, l’Agence a établi une nouvelle cotisation à l’égard de Daniel W. Scott pour l’année d’imposition 2002.
+Le 4 avril 2005, l’Agence a établi une nouvelle cotisation à l’égard de Daniel W. Scott pour l’année d’imposition 2003.
+Le 20 septembre 2007, l’Agence a établi une nouvelle cotisation à l’égard de Daniel W. Scott pour l’année d’imposition 2005.
+Le 7 juin 2013, Daniel W. Scott et le procureur général du Canada sont parvenus à une transaction quant à l’appel devant la Cour canadienne de l’impôt portant le numéro de dossier 2003-3579(IT)G. Des copies du consentement à jugement et du jugement de la Cour canadienne de l’impôt sont jointes à l’annexe 1 du présent exposé conjoint des faits.
+Le 15 janvier 2014, l’Agence a établi une nouvelle cotisation à l’égard de Daniel W. Scott pour les années d’imposition 1996, 1997, 1998, 1999 et 2001. Le 5 mai 2014, l’Agence a établi une nouvelle cotisation à l’égard de Daniel W. Scott pour les années d’imposition 2002 et 2005.
+Les montants impayés de la dette fiscale sous-jacente
+Le 16 janvier 2006, Daniel W. Scott avait une dette fiscale de 126 603,42 $ pour ses années d’imposition 1997, 1998, 1999, 2001, 2002, 2003 et 2005.
+Le 22 mai 2015, Daniel W. Scott avait une dette fiscale de 233 835,56 $ pour ses années d’imposition 1996, 1997, 1998, 1999, 2001, 2003 et 2005. La copie des détails de la cotisation expliquant le montant de la dette fiscale est jointe à l’annexe 2 du présent exposé conjoint des faits.
+En février 2016, l’Agence a accordé un allègement fiscal à Daniel W. Scott. Cet allègement a eu pour effet d’annuler les arriérés d’intérêts qui s’étaient accumulés pendant la période comprise entre le 17 mars 2009 et le 26 juillet 2013 à l’égard de la dette fiscale de Daniel W. Scott pour les années d’imposition 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2004 et 2005. Les intérêts annulés s’élevaient à 58 312,07 $.
+L’annexe 3 du présent exposé conjoint des faits est la copie d’une analyse de l’état des comptes présentant avec précision la dette fiscale de Daniel W. Scott aux différentes époques mentionnées ci-dessus.
+Daniel W. Scott a présenté à l’Agence une demande d’allègement pour les contribuables datée du 31 décembre 2009. Aucun intérêt n’a été annulé en ce qui concerne cette demande. L’intimée ne sait pas si cette demande a été examinée ou si elle a fait l’objet d’une décision.
+Daniel W. Scott a présenté à l’Agence une demande d’allègement pour les contribuables datée du 7 avril 2017. L’Agence n’a pas encore répondu à cette demande.
+Les transferts
+Le 16 décembre 2005, Daniel W. Scott a transféré 104 000 $ à l’appelant par virement télégraphique.
+Le 19 décembre 2005, Daniel W. Scott a transféré 500 $ à l’appelant par virement télégraphique.
+Le 16 janvier 2006, Daniel W. Scott a transféré 120 000 $ à l’appelant par virement télégraphique.
+La cotisation aux termes du paragraphe 160(1) de la Loi de l’impôt sur le revenu
+Le 22 mai 2015, le ministre a émis un avis de cotisation aux termes duquel l’appelant a fait l’objet d’une cotisation de 224 500 $ aux termes du paragraphe 160(1) de la Loi de l’impôt sur le revenu.
+L’appelant a signifié un avis d’opposition au ministre le 11 août 2015, aux termes de l’article 165 de la Loi de l’impôt sur le revenu.
+Le 28 janvier 2017, le ministre a émis un avis de confirmation concernant la cotisation du 22 mai 2015.
+L’appelant a déposé un avis d’appel à la Cour canadienne de l’impôt le 18 avril 2017.
+III. Faits et procédures
+Le capitaine Scott
+[3] Il ressort de la preuve que le capitaine Scott réside dans les îles Turks et Caicos depuis décembre 1993. À partir de cette date, l’impôt canadien sur le revenu s’est uniquement appliqué à la partie de son revenu d’emploi relative aux services qu’il a assurés au Canada pour Air Canada.
+[4] Selon le capitaine Scott, les sociétés aériennes canadiennes et l’Agence du revenu du Canada (l’Agence) avaient convenu d’une formule qui serait appliquée pour déterminer la manière dont les pilotes non résidents seraient imposés sur leurs revenus d’emploi gagnés dans le cadre de vols internationaux. Air Canada a appliqué cette formule pour déterminer ses obligations en matière de retenue d’impôt. Étant donné que le capitaine Scott était affecté à des vols internationaux, une grande partie de son revenu d’emploi n’était pas imposable au Canada.
+[5] Selon le capitaine Scott, l’Agence a modifié rétroactivement sa politique. Ainsi, une partie beaucoup plus importante des revenus du capitaine Scott s’est retrouvée assujettie à l’impôt canadien.
+[6] Le capitaine Scott a engagé un avocat pour contester les cotisations établies à son encontre. Son dossier a progressé très lentement, tant au niveau administratif que devant la Cour. Ce n’est qu’en 2013 que les appels du capitaine Scott ont fait l'objet d'une transaction à la suite d’un consentement à jugement.
+[7] En 2005, le capitaine Scott a pris sa retraite d’Air Canada. Il a choisi de recevoir un paiement forfaitaire du régime de retraite d’Air Canada au lieu d’une rente. Ce paiement forfaitaire a été transféré dans un régime enregistré d’épargne-retraite (« REER »).
+[8] En 2007, le capitaine Scott a liquidé son REER et a payé la retenue d’impôt prévue à la partie XIII sur les fonds qu’il a retirés. Ces fonds ont été investis à l’étranger.
+[9] Le capitaine Scott reconnaît avoir conservé un compte bancaire conjoint au Canada de 2005 à 2007 avec son frère, l’appelant. Il reconnaît également avoir transféré 224 500 $ à son frère en trois versements de 104 000 $, de 500 $ et de 120 000 $, tel qu’il est indiqué dans l’exposé conjoint partiel des faits.
+[10] Selon le capitaine Scott, ces fonds ont été empruntés par son frère aux termes d’un accord verbal. Le témoin a déclaré qu’il n’avait pas jugé nécessaire de consigner le prêt, car il était confiant que l’appelant honorerait son obligation de rembourser l’argent emprunté lorsqu’il aurait suffisamment de fonds pour le faire. Il a considéré l’accord comme un crédit permanent. Aux termes de cet accord, l’appelant pouvait lui emprunter de l’argent, puis le lui rembourser dès qu’il avait les fonds nécessaires. Il a témoigné que son frère avait utilisé ces fonds pour verser un acompte sur un appartement en copropriété nouvellement construit à Burlington, en Ontario.
+[11] L’appelant a également témoigné qu’il avait emprunté les fonds pour lui permettre de payer un appartement en copropriété nouvellement construit dont il était propriétaire et dans lequel il avait vécu pendant environ un an.
+[12] Il ressort de la preuve des incohérences flagrantes dans les témoignages des deux témoins. De plus, l’explication de l’appelant sur les raisons pour lesquelles il a emprunté une importante somme d’argent au capitaine Scott a considérablement changé lorsque l’intimée lui a présenté des éléments de preuve objectifs qui contredisaient sa version des faits. Ces incohérences sont examinées ci-dessous dans la section intitulée « Analyse ».
+IV. Thèses des parties
+L’appelant
+[13] L’appelant soutient qu’il a emprunté les fonds à son frère. L’argent emprunté était remboursable sur demande. Selon l’appelant, ce prêt ne donne pas lieu à un transfert de biens au sens du paragraphe 160(1).
+[14] Subsidiairement, si le prêt contracté par l’appelant constitue effectivement un transfert d’argent du capitaine Scott à l’appelant, ce dernier soutient que sa promesse de rembourser le prêt constitue une contrepartie au sens du paragraphe 160(1). Selon l’appelant, la juste valeur marchande du prêt est égale à son principal. Par conséquent, le paragraphe 160(1) ne joue pas parce que le bien transféré et la contrepartie étaient de valeur égale.
+[15] L’appelant porte un autre argument subsidiaire à mon attention au cas où je rejetterais les deux arguments susmentionnés et conclurais que le paragraphe 160(1) joue. Il fait valoir que la cotisation établie à son encontre devrait être réduite du montant des intérêts auxquels le ministre a renoncé par la suite aux termes des dispositions d’équité qui ont été incluses dans la dette fiscale du capitaine Scott et qui ont été utilisées pour déterminer le fondement de la cotisation établie à son encontre.
+L’intimée
+[16] L’intimée nie que l’accord entre l’appelant et son frère constitue un prêt. À cet égard, l’intimée soutient que l’appelant et son frère n’étaient pas des témoins crédibles ou fiables. L’intimée insiste en particulier sur le fait que ni l’appelant ni son frère n’ont été en mesure d’expliquer pourquoi l’argent aurait été emprunté par l’appelant et quel en a été l’usage. Selon l’intimée, il est tout simplement invraisemblable que l’appelant ne se souvienne pas de l’objet de l’accord. L’intimée soutient que l’appelant et le capitaine Scott refusent délibérément de divulguer la raison pour laquelle le capitaine Scott a transféré des fonds à l’appelant parce que cela ne serait pas utile à la cause de ce dernier.
+V. Analyse
+Voici le texte du paragraphe 160(1) :
+160. 1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi [...].
+[17] Le paragraphe 160(1) joue lorsque les quatre conditions suivantes sont réunies :
+(i) L’auteur du transfert doit avoir une dette fiscale au moment du transfert. L’existence d’une dette fiscale n’est pas contestée en l’espèce. Toutefois, l’appelant conteste le montant de cette dette parce qu’une partie des intérêts qui ont été inclus dans la dette fiscale du capitaine Scott au moment du transfert et utilisés pour établir le montant de la dette de l’appelant aux termes du paragraphe 160(1) a par la suite fait l’objet d’une renonciation aux termes des dispositions d’équité.
+(ii) Il doit y avoir un transfert. L’appelant conteste l’existence d’un transfert, car les fonds ont été empruntés par l’appelant.
+(iii) Les parties ont un lien de dépendance. Ce fait n’est pas contesté en l’espèce.
+(iv) Les parties sont conjointement responsables dans la mesure où la somme payée par le bénéficiaire du transfert est inférieure à la juste valeur marchande du bien transféré. Comme je l’ai mentionné précédemment, l’appelant fait valoir que la juste valeur marchande du prêt est égale à la juste valeur marchande du bien transféré.
+(i) Le capitaine Scott a-t-il prêté à l’appelant les fonds qui ont été transférés à ce dernier?
+[18] Je voudrais souligner les raisons pour lesquelles j’ai rejeté l’allégation de l’appelant selon laquelle il aurait emprunté à son frère les fonds transférés.
+[19] L’appelant souligne que son frère et lui-même ont tous deux témoigné que les fonds en cause en l’espèce avaient été prêtés par le capitaine Scott à l’appelant. L’appelant m’invite à retenir ce témoignage, car il est corroboré par des éléments de preuve objectifs. À cet égard, il a été souligné que le capitaine Scott avait pris sa retraite d’Air Canada lorsque les fonds ont été transférés à l’appelant. Le capitaine Scott a déclaré que son avoir net était d’environ un million de dollars à l’époque.
+[20] Il ressort de la preuve que lorsque le capitaine Scott a pris sa retraite d’Air Canada, il avait l’intention de la prendre de façon définitive. Bien qu’il ait finalement accepté un emploi auprès de sociétés aériennes étrangères peu de temps après, il affirme que son potentiel de gains futurs et son avoir net étaient insuffisants pour qu’il puisse transférer les fonds en question à son frère sans contrepartie.
+[21] Dans ces circonstances, selon l’appelant, la seule explication plausible est que les fonds transférés lui ont été prêtés par le capitaine Scott. Le fait que l’appelant ait remboursé l’argent au capitaine Scott va dans le sens de cette allégation.
+[22] Pour les motifs qui suivent, je rejette la thèse de l’appelant.
+[23] Au cours de son interrogatoire préalable, l’appelant a témoigné qu’il avait utilisé l’argent prétendument emprunté pour payer le solde du prix d’achat (la somme manquante) d’un appartement en copropriété nouvellement construit; ce solde n’était pas couvert par le montant du prêt hypothécaire qu’il avait contracté auprès d’une institution financière, lequel était garanti par la mère de l’appelant. L’appelant a indiqué que c’était le seul but du prêt. En réponse à un engagement pris à l’égard d’une autre question concernant le prêt, sa version des faits a changé : il a affirmé avoir utilisé l’argent prétendument emprunté pour payer l’appartement en copropriété et pour financer ses frais de subsistance.
+[24] Au procès, l’appelant a de nouveau laissé entendre qu’il avait utilisé l’argent emprunté principalement pour payer le solde du prix d’achat de l’appartement en copropriété. Lors du contre-interrogatoire, l’appelant a admis qu’il avait utilisé ses propres économies pour payer la somme manquante, à l’exception de 4 000 $ environ qui ont été pris dans les fonds transférés.
+[25] Bien qu'il semble ressortir de la preuve que l’appelant n’avait pas suffisamment de liquidités pour payer les coûts de détention de l’appartement en copropriété, ces coûts de détention se sont élevés tout au plus à 24 000 $ pour la période d’un an pendant laquelle l’appelant a détenu l’appartement. Même si je retiens le témoignage de l’appelant, au mieux, l’appelant n’est en mesure d’expliquer que l’utilisation de 10 % des fonds transférés.
+[26] Il ressort de la preuve que l’appelant avait rarement emprunté de l’argent avant l’acquisition de l’appartement en copropriété. Il vivait très modestement. Il avait emprunté une petite somme pour acheter une voiture et avait peut-être quelques petites dettes sur sa carte de crédit qu’il payait régulièrement. Il ressort également de la preuve qu’il ne s’est pas endetté de manière importante depuis qu’il a vendu l’appartement en copropriété.
+[27] Dans ce contexte, il me semble invraisemblable que l’appelant ne puisse pas expliquer clairement ce qu’il a fait des fonds transférés. Bien que je sois conscient du fait que quatorze années se sont écoulées depuis que les fonds ont été transférés par le capitaine Scott à l’appelant, il est très difficile, voire absurde, de croire que l’appelant ne peut pas se souvenir de ce qu’il a fait de la somme substantielle reçue de son frère. Je pense qu’une personne qui est opposée à l’endettement se souviendra des circonstances et des modalités d’un prétendu prêt important.
+[28] La conclusion que je tire est que les parties ont choisi de ne pas divulguer le véritable objectif de leur accord, soit parce qu’il n’est pas utile à l’appel interjeté par l’appelant, soit parce qu’il peut mettre en péril les positions adoptées par l’appelant au moment de produire sa déclaration de revenus en ce qui concerne l’achat et la vente de l’appartement en copropriété ou une quelconque autre opération. En fin de compte, je ne peux que conjecturer sur les raisons pour lesquelles les parties ont conclu cet accord.
+[29] Comme nous l’avons indiqué, il existe de nombreuses autres contradictions entre les éléments de preuve du capitaine Scott et ceux de l’appelant. Lors de l’interrogatoire préalable, l’appelant a déclaré qu’il pensait que le prêt portait intérêt, ce qui l’irritait puisqu’il prétendait n’en avoir été informé que plusieurs mois après avoir reçu les fonds. Lors de l’audience, cependant, il semblait dire qu’il reconnaissait désormais que le prétendu prêt fût sans intérêt.
+[30] Le capitaine Scott a témoigné que les parties avaient passé peu de temps à définir les conditions du prêt. Selon lui, il n’y avait pas d’échéance fixe pour le remboursement du prêt. Il s’attendait à ce que son frère ne rembourse le prétendu prêt que lorsqu’il aurait suffisamment de fonds pour le faire. Il a également reconnu qu’il n’aurait pas poursuivi son frère en justice pour le remboursement des fonds si son frère n’avait pas remboursé l’argent prétendument emprunté [2] .
+[31] En règle générale, un prêt se caractérise par l’existence d’une obligation de rembourser l’argent emprunté, soit sur demande, soit à l’expiration d’une échéance, soit en cas de défaut.
+[32] Contrairement à la version des faits du capitaine Scott, l’appelant affirme qu’il croyait que le prêt était remboursable sur demande. Le capitaine Scott a admis que tel ’était pas le cas, car son frère n’avait tout simplement pas les moyens financiers d’accepter de rembourser le prêt sur demande. C’est pourquoi il ne s’attendait à être remboursé que lorsque son frère aurait suffisamment de fonds pour le faire.
+[33] Lorsque j’examine la preuve dans son ensemble, je conclus que l’appelant et le capitaine Scott ne sont pas des témoins fiables ou crédibles. En outre, les rares éléments de preuve documentaires incomplets que l’appelant a produits sont insuffisants pour prouver l’existence d’un prêt.
+[34] Le régime fiscal canadien repose sur le principe de l’autodéclaration. La raison en est que les contribuables sont bien mieux placés que le gouvernement pour expliquer les circonstances pertinentes entourant les événements, les ententes ou les opérations qui peuvent donner lieu à une dette fiscale. Pour que le système fonctionne, les contribuables doivent tenir des dossiers adéquats ou, à tout le moins, témoigner en toute sincérité des faits substantiels relatifs à leurs opérations lorsqu’ils contestent une cotisation établie par le ministre et fondée sur des faits présumés différents. Si le contribuable n’est pas disposé à communiquer les faits matériels relatifs à un prétendu accord verbal conclu entre des personnes apparentées, ou s’il produit des explications incohérentes, ou encore s’il cherche à induire la Cour en erreur, celle-ci peut écarter la totalité de son témoignage. En l’espèce, j’estime que le capitaine Scott et l’appelant connaissent tous deux la raison de leurs accords, mais ne sont pas disposés à divulguer le véritable objet de leurs opérations parce que cela n’aiderait pas la cause de l’appelant.
+[35] En fin de compte, étant donné que l’appelant et son frère ont choisi de dissimuler l’objet de leur accord, ils n’ont pas été en mesure de produire des réponses cohérentes aux questions de l’intimée concernant les circonstances et les caractéristiques de leurs opérations. Compte tenu de ce qui précède, je conclus que l’appelant n’a pas réussi à établir qu’il avait emprunté l’argent qui, comme il l’a admis, lui avait été transféré par son frère. Par conséquent, les conditions qui font jouer le paragraphe 160(1) sont réunies [3] .
+(ii) La dette fiscale de l’appelant doit-elle être réduite du montant des intérêts auxquels le ministre a renoncé par la suite?
+[36] Les deux parties reconnaissent que le montant de la cotisation établie à l’encontre de l’appelant comprend les intérêts dus par le capitaine Scott et auxquels le ministre a ensuite renoncé aux termes des dispositions d’équité. Elles conviennent que le montant des intérêts remis se rapportant à la cotisation est de 50 538 $.
+[37] L’appelant soutient que sa cotisation devrait être réduite, car il ne doit pas être obligé de payer un montant supérieur à celui que le capitaine Scott est obligé de payer pour la période couverte par la cotisation établie à l’encontre de l’appelant. L’intimée prétend que la renonciation à l’intérêt n’est pas d’application rétroactive. Selon l’intimée, la dette fiscale du capitaine Scott s’élevait à 233 835 $. Par conséquent, aucun rajustement ne devrait être effectué à cet égard.
+[38] Si je retiens la thèse de l’intimée, l’appelant pourrait se retrouver redevable d’un montant plus élevé que celui de son frère, le capitaine Scott. Le paragraphe 160(1) rend le bénéficiaire du transfert solidairement responsable avec l’auteur du transfert de la totalité ou d’une partie moindre de l’impôt à payer par ce dernier si le montant est déterminé aux termes du sous-alinéa 160(1)e)(ii). Étant donné que la dette est solidaire aux termes du paragraphe 160(1), je suis d’avis que la dette fiscale du bénéficiaire du transfert ne peut pas dépasser la dette fiscale de l’auteur du transfert.
+[39] Avant la renonciation à l’intérêt, la dette fiscale du capitaine Scott s’élevait à 233 835 $ lorsque les fonds ont été transférés pour la première fois à son frère. Cette somme comprenait des intérêts de 149 350,27 $, dont 50 302,95 $ ont fait l’objet d’une renonciation par la suite. Après la renonciation à l’intérêt, la dette du capitaine Scott s’élevait à 183 532 $. C’est le moindre des deux montants calculés conformément à l’alinéa 160(1)e). Par conséquent, la dette fiscale de l’appelant devrait être réduite de 224 500 $, soit la juste valeur marchande du bien transféré, et passer à 183 532 $.
+Conclusion
+[40] Pour toutes ces raisons, l’appel est accueilli en partie seulement et l’affaire est renvoyée au ministre du Revenu national aux fins de réexamen et d’établissement d’une nouvelle cotisation conformément aux présents motifs. Chaque partie doit assumer ses propres dépens.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2020.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 24e jour de février 2020.
+François Brunet, réviseur
+RÉFÉRENCE :
+2020 CCI 4
+No DU DOSSIER DE LA COUR :
+2017-1842(IT)G
+INTITULÉ :
+JOHN RANDALL SCOTT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+North Bay (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 10 janvier 2020
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Gregory J. DuCharme
+Avocat de l’intimée :
+Me Dominik Longchamps
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Gregory J. DuCharme
+Cabinet :
+Gregory J. DuCharme Professional Corporation
+Avocat de l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Dans les motifs du jugement, Daniel W. Scott est désigné sous le nom de capitaine Scott.
+[2] Le capitaine Scott soutient dans son témoignage que son frère n’était pas obligé de rembourser les fonds transférés. Même si je devais retenir le témoignage du capitaine Scott, ce qui n’est pas le cas, je serais enclin à rejeter l’appel de l’appelant. La description que fait le capitaine Scott de l’accord est, au mieux, celle d’un accord moral non exécutoire entre personnes apparentées. Un tel accord ne constitue pas une contrepartie au sens du paragraphe 160(1).
+[3] Les parties semblent accepter la prémisse selon laquelle l’argent transféré aux termes d’un prêt ne constitue pas un transfert au sens du paragraphe 160(1). Je n’ai pas à trancher cette question, car je conclus que l’appelant n’a pas réussi à établir qu’il a emprunté au capitaine Scott les fonds transférés. Cela dit, j’estime qu’un prêt donne effectivement lieu à un transfert. L’argent est un bien. L’argent change de mains lorsque des fonds sont empruntés par un contribuable. Les dollars restitués au prêteur ne sont pas les mêmes biens que ceux qui ont été initialement transférés au bénéficiaire du transfert. Si l’on retient la thèse selon laquelle un prêt donne effectivement lieu à un transfert, l’auteur et le bénéficiaire du transfert qui souhaitent contourner le paragraphe 160(1) pourraient simplement convenir d’un prêt sans intérêt remboursable dans 40 ans. À mon avis, un prêt, qu’il porte intérêt ou non, donne lieu à un transfert de biens au sens du paragraphe 160(1). S’il est question d’un prêt ne portant pas intérêt, un taux d’actualisation raisonnable doit être appliqué au moment où les fonds sont consentis au contribuable afin de déterminer la juste valeur marchande du prêt.

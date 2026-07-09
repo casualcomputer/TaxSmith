@@ -1,0 +1,139 @@
+---
+title: "Corsaut v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29768/index.do"
+last_modified: "2008-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 73"
+citation2: ""
+neutral_citation: "2008 TCC 73"
+decision_date: "2008-01-31"
+language: "en"
+item_id: "29768"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6514
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:35:24.921000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f386a95b5e5fe68469390fc13b2729a32f66a03d3761d76b0e9127414834df37"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Corsaut v. M.N.R.
+
+- Citation: 2008 TCC 73
+- Decision date: 2008-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6514, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corsaut v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-31
+Neutral citation
+2008 TCC 73
+File numbers
+2006-3068(EI)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-3068(EI)
+BETWEEN:
+RONALD CORSAUT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 21, 2008 at London, Ontario
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+The Minister’s decision is varied to reflect that Mr. Corsaut worked 35 hours of insurable employment each week during the period in question and that his insurable earnings reflect earnings of $15 per hour.
+Signed at Ottawa, Canada, this 31st day of January 2008.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2008TCC73
+Date: 20080131
+Docket: 2006-3068(EI)
+BETWEEN:
+RONALD CORSAUT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle, J.
+[1] This is an appeal by Mr. Ron Corsaut from a decision of the Minister of National Revenue regarding an Employment Insurance Act ruling by Canada Revenue Agency on the amount of his insurable earnings and insurable hours for the period April 20, 2002 to April 25, 2003. At the opening of this appeal, Crown’s counsel had advised that the dates and period referred to in its Reply should be corrected to reflect these dates.
+[2] In addition, at the opening of this appeal Crown counsel withdrew its written submissions previously filed with the Court that this appeal was not commenced within the required time, as well as the Crown’s position that this Court did not have jurisdiction to hear a second appeal from Mr. Corsaut in respect of the same employment. The former position of the Crown appeared to overlook the Order for late filing issued by Justice Woods in 2006. The latter position was simply incorrect. Sections 90, 91 and 103 of the EI Act clearly provide that an employee can appeal any ruling enumerated in subsection 90(1). If CRA makes multiple rulings, each one can be appealed to the Minister under section 91, and each decision of the Minister on an appeal can be appealed to the Tax Court.
+[3] In 2005, Mr. Corsaut was successful before the Chief Justice of this Court in appealing from an earlier CRA ruling that he was not engaged in insurable employment in the period in question: Corsaut v. M.N.R., 2005TCC112. Because the 2005 decision held that Mr. Corsaut was engaged in insurable employment, it was necessary for CRA to determine his insurable earnings and his hours in insurable employment in order to determine the amount of his EI benefits. This appeal is in respect of those determinations. Both the 2005 decision and this appeal involve the same employment. The periods overlap but are not the same. The 2005 appeal was in respect of his employment during the period April 28, 2001 to April 28, 2003. In computing his EI benefits, this appeal is to determine his insurable earnings and hours only for the period April 20, 2002 to April 25, 2003.
+[4] In 2007, Mr. Corsaut also appeared briefly before Justice Rossiter of this Court in this matter for some reason relating to CRA’s inability to obtain sufficient employment records and financial information from the employer, an individual who carries on an automotive tire sales and servicing business.
+Evidence
+[5] Mr. Corsaut testified that during the period relevant to this appeal, which is only the latter portion of the period in question in the 2005 decision, he worked from 8 a.m. to 6 p.m. every Monday, Wednesday and Friday in the tire shop. He said he also worked one other day, usually for the most part of a full day, going to local tire dealers to sort through and pick through available used or blemished tires for his employer’s shop.
+[6] In the period in question, Mr. Corsaut testified he was paid at a rate of $15 per hour and that his net take-home was paid in cash net of the usual employee deductions. His wage had increased to $15 per hour from $14 per hour at some point in his first year of employment. There were no corroborating documents.
+[7] The employer testified on behalf of the Crown. He confirmed that Mr. Corsaut worked for 10 hours a day every Monday, Wednesday and Friday. He denied that Mr. Corsaut worked any other day or that there was any work to be done at suppliers or elsewhere outside his shop. He also disputes that Mr. Corsaut was paid $15 per hour. He testified clearly that he had, since Mr. Corsaut began working for him in 2001, always paid Mr. Corsaut a daily rate in cash. In 2001 he paid him $90 cash for a ten‑hour day, increasing to $100 in 2002 and $110 in 2003. He testified that since this was a “cash deal” no deductions were made for any employee withholdings. The employer said he had no other employees besides Mr. Corsaut and his son in the period Mr. Corsaut worked for him. In cross-examination, Mr. Corsaut put to his former employer the Ontario Workplace Safety and Insurance Appeals Tribunal 2007 decision which says the employer testified at the earlier proceeding that Mr. Corsaut was only paid $40 to $100 per week. The witness said he did not remember saying that. Mr. Corsaut also put to the witness that the Ontario Tribunal’s decision says there were a number of other employees at the time. The witness again said he did not remember saying that they were employees. He only remembers there were suppliers and others who just hung out at the shop.
+[8] The employer’s son also testified. He was also a full-time employee at the tire shop. He confirmed that Mr. Corsaut worked full ten-hour days each Monday, Wednesday and Friday. He confirmed his father’s testimony that Mr. Corsaut did not work at the shop or away from the shop picking up tires on any other day. He could not provide any helpful evidence on the subject of Mr. Corsaut’s wage rate as he was never involved with payroll, except perhaps he could have occasionally paid Mr. Corsaut $100 at the end of a day.
+[9] The final Crown witness was the CRA Appeals Officer who considered the CRA ruling in question when it was contested and issued the decision which is the subject of this appeal. The same Appeals Officer had also resolved the ruling or assessment issued to the employer in respect of his employment of Mr. Corsaut, which the employer did not appeal to this Court. Following Mr. Corsaut’s success in 2005 in front of Chief Justice Bowman that he was employed in insurable employment, the rulings on insurable hours and insurable earnings were needed because neither the employee nor the employer made adequate financial information available to CRA. At the ruling stage, CRA was unable to make contact with either party. Apparently, neither the employer nor the employee were satisfied and both contested the ruling. At the Appeals stage, neither the employer nor the employee provided any business or other financial records. The Appeals Officer used figures provided as estimates by the employer’s accountant. These were that Mr. Corsaut worked 30 hours per week and was paid $9 per hour in 2001, $10 per hour in 2002 and $11 per hour in 2003. The Appeals Officer confirmed that these were within the range of the Service Canada occupational databanks available to CRA for similar positions before accepting them as the basis of her decision.
+[10] The Appeals Officer did not provide any explanation for not accepting the employee’s number of hours or hourly wage. While the officer provided her testimony clearly, professionally and credibly, I do wonder about the wisdom of the Crown’s only witness from CRA being the very Appeals Officer who has decided the appeal. Mr. Corsaut, like other Canadians, is perhaps correct to be surprised that the person who was held out as their impartial reviewer and adjudicator becomes the sole witness for the Crown regarding CRA’s position against them. Further, and this in no way reflects personally on the Appeals Officer in question or her testimony, the general appearance that an Appeals Officer has a personal interest in his or her decision being upheld is unattractive. Finally, I do not understand why she was not asked by the Crown to explain how or why she decided in favour of the employer’s version over the employee’s in these circumstances involving no corroborating evidence of either person’s version.
+Findings
+[11] I am called to decide if I accept Mr. Corsaut worked for about 40 hours per week at $15 per hour during the period in question in this appeal as Mr. Corsaut testified, if I accept he worked 30 hours per week at $11 per hour for the 2003 portion of the period and $10 per hour for the 2002 portion of the period as the employer testified, or if I believe on a balance of probabilities that different hours were worked or amounts were paid. In order to do this, I must first address the fact there are significant inconsistencies on the part of both the employee and the employer between what they testified to in this appeal and what they said or wrote previously in the history of this dispute.
+[12] In his 2005 Reasons, the Chief Justice very sensibly cautioned judges faced with deciding issues of credibility in the face of conflicting testimony that such decisions should not be made lightly. In that decision Bowman CJ wrote:
+[15] At the end of the trial it appeared to me that the two witnesses were, credibility-wise, in a dead heat. Therefore, I reserved judgment, based on my decision in 1084767 Ontario Inc. (c.o.b. Celluland) v. Canada, [2002] T.C.J. No. 227:
+[8] The evidence of the two witnesses is diametrically opposed. I reserved judgment because I do not think findings of credibility should be made lightly or, generally speaking, given in oral judgments from the bench. The power and obligation that a trial judge has to assess credibility is one of the heaviest responsibilities that a judge has. It is a responsibility that should be exercised with care and reflection because an adverse finding of credibility implies that someone is lying under oath. It is a power that should not be misused as an excuse for expeditiously getting rid of a case. The responsibility that rests on a trial judge to exercise extreme care in making findings of credibility is particularly onerous when one considers that a finding of credibility is virtually unappealable.
+See also Chomica v. The Queen, 2003 DTC 535.
+[13] Mr. Corsaut’s version that he was paid $15 per hour (having increased after his first year from $14 per hour) for working four ten-hour days a week is consistent with how Chief Justice Bowman summarized his evidence in the 2005 appeal. As is well summarized by the Chief Justice in that decision, Mr. Corsaut had earlier given several different numbers of hours worked and different numbers for his weekly cash take-home pay. These same inconsistencies were brought out in this appeal.
+[14] The employer testified in this appeal clearly that since 2001 he had always paid Mr. Corsaut at the rate of $90 per ten-hour day for working in the shop, rising to $100 a day and $110 a day and that Mr. Corsaut worked 30 hours a week for him. In the 2005 proceedings in this Court, according to the Chief Justice’s Reasons, the employer testified that Mr. Corsaut had never worked for him and was never employed by him, even though he told other officials Mr. Corsaut helped out a bit or worked 15 hours a week.
+[15] I find that it is more likely that Mr. Corsaut worked 35 hours per week at a gross wage of $15 per hour even though his net cash take-home pay was less than that to reflect that withholdings should have been made. With respect to the additional five hours per week, that number reflects Mr. Corsaut’s testimony that he worked for the better part of a day on his fourth day and that the shop was only open seven hours on Saturdays not ten.
+[16] On balance and on reflection, I cannot accept the employer’s new version of events as at all persuasive. No supporting documentation of any sort was produced to support or corroborate how much he paid Mr. Corsaut. Most significantly his testimony was completely at odds with his testimony in this Court in 2005 involving the same issue (as that evidence is summarized by the Chief Justice in his Reasons). It is also inconsistent with his testimony as summarized by the Ontario Workplace Safety and Insurance Appeals Tribunal in its 2007 decision involving Mr. Corsaut’s employment. In short, in the 2005 decision the Chief Justice of this Court already made an adverse finding of credibility against the employer. It is striking that the employer could now come to Court and give a most different version of the same events.
+[17] I question why this appeal had to proceed to court given that the Crown’s only material witness was to be the employer who had previously testified under oath in this Court that Mr. Corsaut had never worked for him, which testimony was not accepted then by this Court, but who would now testify that he clearly always worked 3 full ten-hour days each week and was paid regularly from the beginning, which evidence was now corroborated by his son. The outcome of this case in such circumstances should have been readily predictable to both CRA Appeals and the Department of Justice.
+[18] On one point the evidence in this appeal was consistent. That is that Mr. Corsaut was paid by the hour. According to Mr. Corsaut it was a certain amount per hour. According to the employer it was a certain amount for each ten-hour day. Both testified the earnings were paid on an hourly basis. Since I have found Mr. Corsaut’s insurable earnings were $15 per hour, I do not need to deal with the Crown’s argument that under section 10(3) of the EI Regulations this Court’s jurisdiction to vary the ruling as it relates to insurable hours is removed.
+[19] Judgment will issue varying the Minister’s decision to reflect that Mr. Corsaut worked 35 hours of insurable employment each week during the period in question and that his insurable earnings reflect earnings of $15 per hour.
+Signed at Ottawa, Canada, this 31st day of January 2008.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2008TCC73
+COURT FILE NO.: 2006-3068(EI)
+STYLE OF CAUSE: RONALD CORSAUT AND M.N.R.
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: January 21, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: January 31, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

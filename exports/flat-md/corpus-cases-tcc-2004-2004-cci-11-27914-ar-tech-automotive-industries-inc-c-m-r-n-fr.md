@@ -1,0 +1,199 @@
+---
+title: "Ar-Tech Automotive Industries Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27914/index.do"
+last_modified: "2004-01-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 11"
+citation2: ""
+neutral_citation: "2004 CCI 11"
+decision_date: "2004-01-07"
+language: "fr"
+item_id: "27914"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1697
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:09:42.059000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2202eb5516f232b02aecabb7dadc2f38cb4607267ddae007f962e9d817833595"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ar-Tech Automotive Industries Inc. c. M.R.N.
+
+- Citation: 2004 CCI 11
+- Decision date: 2004-01-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1697, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ar-Tech Automotive Industries Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-07
+Référence neutre
+2004 CCI 11
+Numéro de dossier
+2003-821(EI)
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-821(EI)
+ENTRE :
+AR-TECH AUTOMOTIVE INDUSTRIES INC.,
+appelante,
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+PIERRE BOCQUET,
+intervenant.
+____________________________________________________________________
+Appel entendu le 25 novembre 2003 à Montréal (Québec)
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Représentante de l'appelante :
+Lina Simeone (stagiaire en droit)
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+Avocat de l'intervenant :
+Me Guy Matte
+____________________________________________________________________
+JUGEMENT
+L'appel, en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant une décision rendue par le ministre du Revenu national (« Ministre ») en date du 27 janvier 2003, est admis et la décision du Ministre est modifiée en tenant pour acquis que monsieur Pierre Bocquet n'exerçait pas un emploi assurable lorsqu'il était au service de l'appelante « Ar-Tech Automotive Industries Inc. », entre le 1er janvier 2001 au 1er janvier 2002, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2004.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2004CCI11
+Date : 20040107
+Dossier : 2003-821(EI)
+ENTRE :
+AR-TECH AUTOMOTIVE INDUSTRIES INC.,
+appelante,
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+PIERRE BOCQUET,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (« Ministre ») selon laquelle monsieur Pierre Bocquet occupait un emploi assurable auprès de l'appelante du 1er janvier 2001 au 1er janvier 2002 puisqu'il était lié à celle-ci en vertu d'un contrat de louage de services.
+[2] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait que l'on retrouve aux alinéas a) à m) du paragraphe 9 de la Réponse à l'avis d'appel (« Réponse »). Ces alinéas se lisent ainsi :
+a) L'appelante exploite, depuis 1966, une entreprise de fabrication de pièces de suspension pour automobiles.
+b) Le ou vers le 1er décembre 1994, l'appelante a embauché le travailleur comme représentant des ventes; il devait visiter les clients et vendre le produit, la garantie et les services de l'appelante.
+c) Le travailleur travaillait sur la route et couvrait tout le Québec et l'est de l'Ontario.
+d) Au début de son emploi auprès du payeur, le travailleur a reçu une liste des clients du payeur qu'il devait rencontrer à une fréquence de 4 à 6 semaines.
+e) Le travailleur devait maintenir et augmenter la clientèle de l'appelante.
+f) Le travailleur travaillait généralement entre 8 h et 17 h, du lundi au vendredi.
+g) Malgré une flexibilité dans ses heures de travail, l'appelante contrôlait le travail du travailleur sur réception de ses rapports de ventes, de ses commandes et des plaintes reçues de ses clients.
+h) L'appelante rencontrait le travailleur au moins une fois par mois, dans le cadre d'une réunion fixée à Montréal, pour discuter de sont travail.
+i) Le travailleur devait respecter une liste de prix et d'escomptes établie par l'appelante; il ne pouvait modifier cette liste sans obtenir préalablement l'autorisation de l'appelante.
+j) L'appelante fournissait au travailleur toute la documentation et la paperasse nécessaire à son travail.
+k) Le travailleur devait fournir son automobile et en assumer les frais; il fournissait aussi son cellulaire, son « paget », son bureau à la maison et son équipement de bureau.
+l) Le travailleur recevait une rémunération fixe de 250 $ par semaine plus une commission de 3,5 % sur les ventes effectuées.
+m) Le travailleur était payé mensuellement par chèque.
+[3] Les alinéas b), f), g) et l) sont niés par l'appelante.
+Résumé de la preuve
+[4] Monsieur Donato Latella, directeur du développement des affaires pour l'appelante, monsieur Pierre Bocquet, le travailleur, et madame Françoise Bienvenue, agent des appels, ont témoigné.
+[5] L'appelante manufacture et distribue des pièces d'automobile notamment des pièces de châssis et de freins. Son entreprise est située à Toronto.
+[6] En 1994, c'est monsieur Bocquet lui-même qui aurait approché l'appelante pour distribuer ses produits au Québec et dans l'est de l'Ontario. L'appelante avait déjà une entente avec la société UniSelect qui possédait deux centres de distribution de pièces d'automobile et comptait environ 250 membres au Québec.
+[7] Monsieur Latella est au service de l'appelante depuis mars 2001. Il a affirmé que selon l'entente verbale initiale entre l'appelante et monsieur Bocquet celui-ci s'est vu confié le territoire du Québec et de l'est de l'Ontario comme représentant autonome dans le but d'augmenter la clientèle et la vente des produits manufacturés ou importés par l'appelante.
+[8] Toujours selon monsieur Latella, l'appelante aurait offert une commission égale à 4 p. 100 des ventes nettes à monsieur Bocquet. Toutefois, comme au départ les ventes n'étaient pas assez élevées, il aurait été convenu de lui payer une avance de 250 $ par semaine, payable aux deux semaines et une commission égale à 2.5 p. 100 ou à 3 p. 100 des ventes selon le type de pièces vendues avec rajustement à la fin de chaque mois, sauf pour les six premiers mois, et un rajustement annuel final pour équivaloir en définitive à 4 p. 100 des ventes nettes. L'entente serait toujours demeurée la même. De cette façon, monsieur Bocquet recevait de l'argent au cours du mois au lieu d'attendre à la fin du mois pour être payé le montant de ses commissions. Monsieur Latella a affirmé que tout ce qui était requis de monsieur Bocquet c'est qu'il visite les clients et sollicite l'achat des produits de l'appelante. Monsieur Bocquet devait fournir tout ce qui était nécessaire à l'accomplissement de son travail notamment bureau à la maison, télécopieur, téléphone et automobile et en assumer seul tous les frais.
+[9] Monsieur Latella, a dit qu'il venait rencontrer monsieur Bocquet une fois par mois à Montréal pour discuter des ventes et examiner de nouveaux programmes introduits par l'appelante pour conserver et augmenter le niveau des ventes. Selon lui, monsieur Bocquet pouvait décider « face aux clients ».
+[10] Selon monsieur Latella, monsieur Bocquet n'était pas limité à vendre les produits de l'appelante en autant qu'il ne vende pas le même type de produits pour des concurrents.
+[11] À la fin de l'année, l'appelante émettait à monsieur Bocquet un formulaire T4A indiquant le montant total payé, à titre de « commissions d'un travail indépendant » et sans aucune déduction à la source. Le formulaire T4A pour l'année 2001 a été déposé en preuve (pièce A-4). Un relevé des commissions payées, y compris les montants de 500 $ payés à toutes les deux semaines, a également été soumis en preuve (pièce A-5). Le montant total correspond au montant des commissions inscrit sur le formulaire T4A. Monsieur Bocquet était un inscrit pour les fins de la taxe sur les produits et services (« TPS ») et la taxe était payée de façon distincte par l'appelante sur le montant des commissions versées à l'exception du montant de 500 $ payé à monsieur Bocquet aux deux semaines. Selon monsieur Latella, le montant de 500 $ comprenait la TPS (voir pièces A-1, A-2, A-5 et INT-6). À la fin de l'année la TPS était rajustée selon le montant des commissions rajustées. Bien qu'à la lecture de ces documents, il semble y avoir une certaine confusion concernant l'inclusion ou non de la TPS, il apparaît évident qu'elle n'est pas incluse dans le total des commissions versées à monsieur Bocquet en 2001, selon les pièces A-2 et A-5 et dont le montant est inscrit sur le formulaire T4A émis par l'appelante pour les fins de l'application de la Loi de l'impôt sur le revenu.
+[12] Monsieur Bocquet prétend qu'il était un employé de l'appelante. Dans son témoignage il affirme qu'il a été engagé comme représentant des ventes pour le Québec avec un salaire garanti de 250 $ par semaine plus 6 p. 100 de commission sur les ventes. Il a voulu soumettre en preuve un document faisant état de calculs des commissions sur cette base, calculs inscrits par le président de l'appelante sur ce document (pièce INT-1). Toutefois, le document n'est pas signé et la représentante de l'appelante s'est objectée à sa production en preuve. En réalité, il semble bien que les commissions étaient de l'ordre de 2 p. 100 à 3 p. 100 en plus d'un montant de 500 $ versé par l'appelante à toutes les deux semaines. Toutefois, monsieur Bocquet a affirmé qu'il « avait aussi des clients à 7 % ». Selon lui, il s'agissait de petits clients bénéficiant d'un escompte beaucoup moins élevé que les clients plus importants.
+[13] Selon monsieur Bocquet, lorsqu'il a approché l'appelante en 1994, celle-ci n'était pas très connue et ses dirigeants ne parlaient pas le français. Il a affirmé que lui-même voyait le potentiel de développement de la clientèle pour ses produits. Toutefois, il a dit qu'il recevait ses instructions de Toronto notamment en ce qui concerne les clients qu'il devait visiter et ceux qu'il ne devait pas visiter. À cet égard, il a soumis une liste qu'on lui aurait remis au départ en 1994 (voir pièces INT-2 et 3). En 1998, l'appelante lui a fait parvenir une autre liste de clients potentiels en lui demandant de vérifier pourquoi ceux-ci n'achetaient pas ses produits et ce, de façon à pouvoir mettre à jour les données informatiques (pièce INT-5). Ce document fait également état que l'appelante aurait également demandé à monsieur Bocquet de voir au recouvrement de quelques comptes (voir pièce INT-5, Annexe 13).
+[14] L'appelante fournissait à monsieur Bocquet ses cartes d'affaires. Il y est décrit comme représentant des ventes. L'adresse indiquée est celle de l'appelante à Toronto. Par ailleurs, les numéros de téléphone et de télécopieur sont ceux de monsieur Bocquet. L'adresse de courrier électronique est également la sienne.
+[15] Selon monsieur Bocquet ses tâches consistaient à visiter les clients à toutes les quatre ou six semaines, à faire compléter une formule d'ouverture de crédit le cas échéant, à prendre les commandes des clients et à acheminer le tout à Toronto pour approbation. Il a affirmé qu'il n'avait aucun pouvoir de décision sur les prix et escomptes lesquels étaient fixés à Toronto. Selon lui, il ne faisait que compléter la « paperasse ». Il s'occupait également de voir au retour des pièces défectueuses le cas échéant et ce, après avoir obtenu l'autorisation de Toronto. Monsieur Bocquet a affirmé qu'en réalité, il visitait les clients que les dirigeants de Toronto lui indiquaient que ce soit pour la vente ou le retour des pièces et qu'il organisait son horaire de visite en fonction de la disponibilité des clients. Il a affirmé qu'il était en contact quotidien avec Toronto par téléphone notamment avec une secrétaire bilingue que l'appelante avait engagée à sa suggestion.
+[16] Bien que monsieur Bocquet devait assumer toutes les dépenses reliées à l'accomplissement de ses tâches, selon lui, c'est toutefois l'appelante qui assumait les dépenses en rapport avec la présentation de foires commerciales auxquelles il assistait pour y faire la promotion des produits de l'appelante.
+[17] Monsieur Bocquet a reconnu qu'il lui était possible de vendre des produits pour d'autres entreprises, mais qu'on lui aurait dit qu'il perdrait alors son 250 $ par semaine garanti. C'est lui-même qui aurait décidé de ne pas travailler pour d'autres entreprises.
+[18] Lorsqu'on lui a fait remarquer que l'appelante lui émettait à chaque année un formulaire T4A sur lequel sa rémunération était indiquée comme étant des « commissions d'un travail indépendant » (pièce A-4), monsieur Bocquet a affirmé qu'il n'avait « jamais regardé ». Comme je l'ai fait remarquer plus haut, il est clair que le montant total des commissions inscrit sur le formulaire T4A pour l'année 2001 comprend la somme de 500 $ versée aux deux semaines par l'appelante (pièce A-5). Par ailleurs, il semble bien que monsieur Bocquet n'ait jamais déclaré de salaire comme tel et qu'il a traité le montant total reçu comme revenu (brut) d'entreprise dans ses déclarations de revenu. L'examen de sa déclaration de revenu pour l'année 2000, la seule qu'il avait en sa possession lors de l'audition confirme ce fait. Selon son témoignage, cette façon de faire aurait toujours été la même y compris pour l'année 2001.
+[19] Madame Françoise Bienvenue, agent des appels, a témoigné sur ses vérifications auprès de monsieur Bocquet et de monsieur Latella ainsi que sur sa décision de considérer monsieur Bocquet un employé de l'appelante.
+[20] Madame Bienvenue a notamment fait état que monsieur Bocquet avait un territoire à couvrir et qu'il devait visiter les clients, essentiellement ceux de l'appelante, à toutes les quatre ou six semaines, qu'il n'avait aucune autorité concernant les prix, qu'il était limité dans l'exercice de ses fonctions et puisqu'il avait de l'expérience, qu'il était supervisé de façon plus ou moins directe par téléphone de façon quotidienne par les dirigeants de l'appelante.
+[21] Madame Bienvenue a également considéré que monsieur Bocquet n'encourait aucun risque de perte financière puisqu'il n'avait pas d'autre risque que celui d'assumer les dépenses normales de quelqu'un qui travaille sur la route. Quant à la possibilité de gain, madame Bienvenue a estimé que monsieur Bocquet n'avait qu'un seul client, l'appelante qui lui payait sa rémunération et qu'ainsi sa possibilité de gain était réduite.
+Position de l'appelante
+[22] La représentante de l'appelante s'est référée principalement à la décision de la Cour d'appel fédérale dans l'affaire Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, (« Wiebe Door »), pour soutenir que monsieur Bocquet était un travailleur autonome et non un employé de l'appelante.
+[23] Selon elle, les agents de vente étaient des travailleurs autonomes qui accomplissaient leurs tâches de leur domicile sans contrôle de la part de l'appelante dont les dirigeants les rencontraient simplement une fois par mois dans le but d'augmenter les ventes.
+[24] Ayant à fournir tout ce qui était nécessaire à l'accomplissement de leurs tâches, sauf les cartes d'affaires et la papeterie, les agents de vente devaient assumer tous les frais reliés à la possession de leurs instruments de travail. De plus, comme monsieur Bocquet n'était payé que par des commissions, il y avait pour lui, compte tenu des dépenses à assumer, un risque de perte et une possibilité de gain résultant de son travail dont il déterminait lui-même les modalités d'exécution sans instructions de la part de l'appelante.
+[25] Finalement, la représentante de l'appelante a souligné que monsieur Bocquet avait toujours reçu de l'appelante un formulaire T4A indiquant qu'on lui versait des « commissions d'un travail indépendant », qu'il ne s'est jamais plaint de cette situation et qu'il a déclaré cette rémunération comme étant du revenu d'entreprise. Malgré cela, il prétend maintenant qu'il était un employé de l'appelante.
+Position de l'intimé
+[26] Quant à l'avocate de l'intimé, elle fonde sa prétention que monsieur Bocquet était un employé de l'appelante sur l'analyse des critères dégagés dans l'affaire Wiebe Door (précitée), critères qui ont été repris par la Cour suprême du Canada dans l'affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983, [2001] A.C.S. no 61 (Q.L.), (« Sagaz »).
+[27] Selon l'avocate de l'intimé, dans cette analyse il convient de se demander à qui appartient l'entreprise. Selon elle, l'assignation d'un territoire par l'appelante à monsieur Bocquet, l'obligation de visiter ou de ne pas visiter les clients de celle-ci selon une liste établie, l'absence de discrétion laissée à monsieur Bocquet concernant les prix et l'approbation des escomptes ou rabais ainsi que les rencontres mensuelles sont des indications claires du contrôle exercé par l'appelante. Comme monsieur Bocquet avait beaucoup d'expérience, l'appelante n'avait pas à lui imposer de méthode de travail et exerçait ainsi une supervision moins directe sur ses activités.
+[28] L'avocate de l'intimé souligne le fait que monsieur Bocquet travaillait certes de son domicile, mais que l'appelante lui fournissait ses cartes d'affaires et un service de secrétariat.
+[29] Elle estime que monsieur Bocquet n'avait rien investi et qu'il n'avait quant à ses activités aucun risque de perte. Quant à la possibilité de gain, celle-ci était limitée puisque les prix dont dépendaient les commissions étaient fixés par l'appelante.
+[30] Selon l'avocate de l'intimé, l'examen de la relation globale entre les parties porte à conclure que monsieur Bocquet était lié à l'appelante par un véritable contrat de louage de services.
+Position du travailleur
+[31] L'avocat de monsieur Bocquet s'est également référé aux critères énoncés dans l'affaire Wiebe Door (précitée) ainsi qu'à la doctrine. Selon lui, les cartes d'affaires fournies par l'appelante indiquent bien que monsieur Bocquet était un représentant des ventes pour l'appelante, que celle-ci lui fournissait un service de secrétariat depuis Toronto et que les clients étaient ceux de l'appelante.
+[32] L'avocat de monsieur Bocquet a aussi souligné que celui-ci avait beaucoup d'expérience et que le contrôle exercé par l'appelante se situait au niveau « opérationnel ». Selon lui, monsieur Bocquet n'avait aucune discrétion quant aux prix des produits vendus et c'est l'appelante qui décidait des escomptes à accorder.
+[33] L'avocat de monsieur Bocquet a souligné également le fait que celui-ci était un représentant exclusif de l'appelante bien qu'il avait été autorisé à vendre d'autres produits ce qui lui aurait toutefois fait perdre sa garantie de rémunération de 250 $ par semaine. Selon lui, cet élément démontre l'intégration des tâches de monsieur Bocquet aux activités de l'appelante.
+Analyse
+[34] Comme le fait remarquer le juge Major au paragraphe 44 de la décision dans l'affaire Sagaz (précitée), le juge MacGuigan dans Wiebe Door (précitée), reconnaissait que la meilleure synthèse du problème concernant la distinction entre un contrat de louage de services et un contrat d'entreprise avait été faite par le juge Cooke dans la décision Market Investigations, Ltd. c. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), lorsqu'il disait aux pages 737 et 738:
+[TRADUCTION] Les remarques de LORD WRIGHT, du LORD JUGE DENNING et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s'est engagée à accomplir ces tâches les accomplit-elle en tant que personne travaillant à son compte ? » Si la réponse à cette question est affirmative, alors il s'agit d'un contrat d'entreprise. Si la réponse est négative, alors il s'agit d'un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n'a été dressée, peut-être n'est-il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l'importance relative qu'il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu'on peut dire, c'est qu'il faudra toujours tenir compte du contrôle même s'il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s'il engage lui-même ses aides, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion, et jusqu'à quel point il peut tirer profit d'une gestion saine dans l'accomplissement de sa tâche. [Je souligne.]
+[35] De même, dans l'affaire Sagaz (précitée), au paragraphe 46, le juge Major partage l'opinion exprimée par le juge MacGuigan dans Wiebe Door (précitée), lorsque celui-ci affirmait à la page 563, en citant l'auteur P.S. Atiyah (Vicarious Liability in the Law of Torts. London: Butterworths, 1967 p. 38) « qu'il faut déterminer quelle relation globale les parties entretiennent entre elles ».
+[36] Une partie de la citation tirée de l'ouvrage de Atiyah est reprise par le juge Major dans le même paragraphe. Il s'agit de ce qui suit :
+[TRADUCTION] Nous doutons fortement qu'il soit encore utile de chercher à établir un critère unique permettant d'identifier les contrats de louage de services [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. De la même façon, il n'est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+[37] Ayant ces remarques à l'esprit, j'estime que les circonstances de la présente affaire justifient une conclusion que monsieur Bocquet n'était pas un employé de l'appelante au cours de la période en litige.
+[38] D'abord, c'est monsieur Bocquet lui-même qui a approché l'appelante en 1994 parce qu'il avait constaté que celle-ci n'était pas très connue au Québec et qu'il y voyait le potentiel de développement de la clientèle pour ses produits. Dans ce contexte, on s'étonne qu'il ait pu affirmer qu'il devait visiter les seuls clients indiqués sur une liste établie par l'appelante. Certes, dès le départ en 1994, on lui a fourni une liste de clients à visiter ou à ne pas visiter. Puisqu'il devait justement augmenter la clientèle au Québec et dans l'est de l'Ontario on ne peut que conclure qu'il n'était aucunement limité dans ses activités à ne solliciter que des clients déjà connus de l'appelante. D'ailleurs, ce fait est expressément admis à l'alinéa 9 e) de la Réponse. Sur la façon de développer la clientèle on ne sait pas grand-chose et il y a bien peu d'information pouvant permettre de conclure que monsieur Bocquet était quant à l'organisation de son travail sous la supervision ou le contrôle de l'appelante.
+[39] Que l'appelante ait conservé le contrôle des prix de ses produits et des escomptes ou rabais à accorder aux clients ne signifie pas qu'elle contrôlait la façon dont l'appelant organisait son travail ni le temps qu'il y consacrait. De plus, monsieur Bocquet lui-même a admis qu'il aurait pu vendre des produits pour d'autres entreprises pourvu qu'il ne s'agisse pas de produits concurrents.
+[40] Dans l'affaire Sagaz (précitée), le juge Major analyse le critère du contrôle dans une situation où certains éléments ressemblent à ceux de la présente affaire. Ainsi, au paragraphe 55 de la décision il dit :
+Le degré de contrôle exercé sur AIM par Sagaz revêt une importance cruciale dans la présente analyse. Alors que Sagaz fixait les prix, les conditions et les autres modalités que AIM devait négocier pour le compte de Sagaz, c'est AIM qui, en définitive, décidait de l'aide apportée à Sagaz en vue d'obtenir la clientèle de Canadian Tire. Là encore, AIM décidait combien de temps elle consacrait respectivement à Sagaz et aux autres fournisseurs qu'elle desservait. Sagaz décidait de ce qu'il y avait à faire alors que AIM déterminait comment le faire. Cela indique que Sagaz n'exerçait aucun contrôle sur M. Landow.
+[41] Monsieur Bocquet devait fournir tout ce qui était nécessaire à son travail notamment un bureau à domicile, un téléphone, un télécopieur ainsi qu'une automobile et en assumer seul tous les frais sans aucun remboursement de la part de l'appelante.
+[42] Quant à la rémunération, malgré certains éléments de preuve contradictoires, elle était essentiellement constituée de commissions sur les ventes sans autre avantage ou bénéfice de quelque nature que ce soit. L'appelante considérait les sommes versées à monsieur Bocquet comme des « commissions d'un travail indépendant » et émettait pour les fins de l'impôt sur le revenu un formulaire T4A en faisant état (pièce A-4). Selon les informations contenues dans sa déclaration de revenu pour l'année 2000, le montant total reçu de l'appelante a été traité par monsieur Bocquet comme du revenu (brut) d'entreprise à l'encontre duquel il a réclamé ses dépenses. Aucun montant n'a été déclaré reçu sous forme de salaire. Du témoignage de monsieur Bocquet on peut conclure que cette façon de déclarer ses revenus a toujours été la même au cours des années.
+[43] Il est également à noter que monsieur Bocquet était un inscrit aux fins de la TPS et que celle-ci était payée par l'appelante et perçue par monsieur Bocquet sur les commissions gagnées.
+[44] L'ensemble de ces éléments ne porte certainement pas à conclure que les parties considéraient que leur relation en était une d'employeur-employé.
+[45] Quant à la question du risque de perte et de la possibilité de gain, la position de l'intimé est difficile à concilier avec l'appréciation de la situation d'un vendeur à commissions que fait la Cour suprême du Canada dans l'affaire Sagaz (précitée). Au paragraphe 54 de la décision, le juge Major s'exprime ainsi :
+En ce qui concerne le risque de perte ou la possibilité de profit, M. Landow et AIM touchaient une commission sur les ventes des produits de Sagaz. Par conséquent, AIM pourrait subir une perte ou réaliser un profit selon que le montant de ses dépenses (tels les frais de déplacement) serait supérieur ou inférieur à celui des commissions qu'elle toucherait.
+[46] On sait que monsieur Bocquet devait fournir tout ce qui était nécessaire à l'accomplissement de ses tâches et en assumer seul tous les frais à l'exception de la papeterie et de ses cartes d'affaires. Or, sur la question de la papeterie, ce n'est qu'une seule enveloppe avec l'entête de l'appelante qui a été présentée en preuve (pièce INT-4) et on peut se demander jusqu'à quel point les activités de monsieur Bocquet exigeaient que lui-même communique par écrit avec les clients. La même remarque s'applique à la question des services de secrétariat qui lui auraient été fournis à partir de Toronto. Aucun élément de correspondance entre monsieur Bocquet et les clients n'a été soumis en preuve.
+[47] Quant à la question des cartes d'affaires, il est vrai que monsieur Bocquet y est décrit comme représentant des ventes pour l'appelante et que c'est celle-ci qui a assumé le coût, par ailleurs minime, pour l'impression de ces cartes. On peut certes y déceler un indice d'une certaine forme d'intégration à l'entreprise de l'appelante. Par ailleurs, on doit noter que ce sont les numéros de téléphone et de télécopieur ainsi que l'adresse électronique de monsieur Bocquet qui sont inscrits sur ses cartes. Connaissant la fonction des cartes d'affaires on peut aussi n'y voir qu'une introduction de monsieur Bocquet comme personne autorisée à vendre les produits de l'appelante. En tout état de cause, j'estime que cet élément est mineur et insuffisant par comparaison aux autres éléments décrits plus haut, pour permettre de conclure à une relation employeur-employé entre l'appelante et monsieur Bocquet. J'estime au contraire, compte tenu de l'ensemble des éléments caractérisant la relation globale entre les parties que monsieur Bocquet n'était pas un employé de l'appelante au cours de la période en litige.
+[48] En conséquence de ce qui précède, l'appel est admis et la décision rendue par l'intimé est modifiée en tenant pour acquis que monsieur Pierre Bocquet n'exerçait pas un emploi assurable auprès de l'appelante au cours de la période du 1er janvier 2001 au 1er janvier 2002.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2004.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2004CCI11
+No DU DOSSIER DE LA COUR :
+2003-821(EI)
+INTITULÉ DE LA CAUSE :
+Ar-Tech Automotive Industries Inc. et M.R.N. et Pierre Bocquet
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 25 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P.R. Dussault
+DATE DU JUGEMENT :
+le 7 janvier 2004
+COMPARUTIONS :
+Représentante de l'appelante :
+Lina Simeone (stagiaire en droit)
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+Avocat de l'intervenant :
+Me Guy Matte
+AVOCATE INSCRITE AU DOSSIER:
+Pour l'appelante :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

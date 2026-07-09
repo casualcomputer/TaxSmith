@@ -1,0 +1,144 @@
+---
+title: "Sandhu c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29191/index.do"
+last_modified: "2009-04-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 217"
+citation2: ""
+neutral_citation: "2009 CCI 217"
+decision_date: "2009-04-22"
+language: "fr"
+item_id: "29191"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6687
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:58:07.930000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7036f1917bda01aa5ada11d6b8f4a06e64576580c936d5fb5574b7e46af5cf96"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sandhu c. M.R.N.
+
+- Citation: 2009 CCI 217
+- Decision date: 2009-04-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6687, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sandhu c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-22
+Référence neutre
+2009 CCI 217
+Numéro de dossier
+2007-840(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2007-840(EI)
+2007-841(CPP)
+ENTRE :
+SURINDER KAUR SANDHU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 avril 2009, à Edmonton (Alberta)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+Gursewak Sandhu
+Avocate de l’intimé :
+Me Valerie Meier
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des décisions rendues par le ministre du Revenu national en application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada est rejeté, et les décisions selon lesquelles l’appelante n’exerçait pas un emploi assurable et ouvrant droit à pension auprès de la société The Indo Canadian Phulwari Publications Incorporated pendant la période du 11 au 23 février 2005 sont confirmées.
+Signé à Ottawa, Canada, ce 22e jour d’avril 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour de mai 2009.
+Hélène Tremblay, traductrice
+Référence : 2009 CCI 217
+Date : 20090422
+Dossiers : 2007-840(EI)
+2007-841(CPP)
+ENTRE :
+SURINDER KAUR SANDHU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question à trancher dans le présent appel est de savoir si Surinder Sandhu exerçait un emploi assurable et ouvrant droit à pension auprès de la société The Indo Canadian Phulwari Publications Incorporated (la société « Indo Canadian ») pendant la période du 11 au 23 février 2005.
+[2] Le ministre avait conclu que Mme Sandhu n’était pas une employée de la société Indo Canadian pendant la période en cause. En fait, le ministre soutient que Mme Sandhu n’a pas travaillé du tout auprès de la société Indo Canadian pendant cette période, que ce soit comme employée ou autrement.
+[3] Le ministre fait valoir que le prétendu emploi n’était qu’une fabrication conçue pour permettre à Mme Sandhu d’accumuler assez d’heures assurables afin d’être admissible à des prestations d’assurance‑emploi. Elle avait déjà fait une demande pour recevoir des prestations d’assurance‑emploi, mais sa demande avait été refusée parce qu’il lui manquait environ 39 heures. Le prétendu emploi auprès de la société Indo Canadian, s’il est accepté, lui donnerait 55 heures de plus.
+[4] À l’audience, Mme Sandhu, qui avait besoin d’un interprète, était représentée par son époux.
+[5] En guise de contexte, je souligne qu’il s’agit ici de la deuxième fois que la Cour est saisie de la présente question.
+[6] Le 13 mai 2008, la question a été entendue par le juge en chef adjoint Rossiter, à Vancouver, dans le cadre d’appels interjetés par Mme Sandhu et par la société Indo Canadian.
+[7] À la demande du ministre, les appels avaient été entendus séparément afin que les témoins puissent être exclus la salle d’audience. Le ministre ne s’était pas prononcé sur la question de savoir quel appel devait être entendu en premier. Donc, à la demande des appelants, c’est l’appel de la société Indo Canadian qui avait été entendu en premier.
+[8] En rétrospective, je me demande si le ministre aurait dû demander que l’appel de Mme Sandhu soit entendu en premier, comme elle était celle qui cherchait à obtenir des prestations d’assurance‑emploi. Quoi qu’il en soit, l’appel de Mme Sandhu a été ajourné et j’en ai été saisi, près d’un an plus tard, à Edmonton.
+[9] Je commencerai l’analyse en examinant brièvement les conclusions du juge en chef adjoint Rossiter, qui a donné raison au ministre. Selon la transcription des motifs qu’il a rendus oralement, le juge en chef adjoint Rossiter a conclu qu’il y avait trop de discordances entre les témoignages de Mme Sandhu et de M. Mahli, le propriétaire de la société Indo Canadian, et ce qu’ils avaient dit à d’autres personnes à différents moments, et qu’il n’était pas satisfait de certaines explications sur d’autres questions.
+[10] Les personnes qui ont été appelées à témoigner devant moi à l’audience pour l’appelante sont Mme Sandhu et Kashmir Hayer, qui exploitait une entreprise dans le même édifice que la société Indo Canadian. M. Mahli n’a pas témoigné.
+[11] Le témoignage de Mme Sandhu, en interrogatoire principal, était en fait une déclaration écrite comportant des précisions sur certaines discordances que le juge en chef adjoint Rossiter avait soulignées.
+[12] Compte tenu de l’ensemble de la preuve, je ne suis pas convaincue que Mme Sandhu était une employée de la société Indo Canadian pendant la période en cause.
+[13] Mes motifs peuvent être exposés brièvement.
+[14] D’abord, les éléments de preuve présentés par Mme Sandhu concernant le soi‑disant travail qu’elle faisait étaient beaucoup trop vagues et imprécis et ne me permettent pas de conclure qu’il existait quelque relation que ce soit entre elle et la société Indo Canadian.
+[15] Ensuite, les précisions que Mme Sandhu a fournies au sujet des discordances dans sa déclaration écrite (pièce A‑1) n’étaient pas convaincantes. Par exemple, Mme Sandhu dit qu’en raison de problèmes d’interprétation, elle a été mal comprise lorsqu’elle a affirmé à un enquêteur qu’elle commençait à travailler en après‑midi. En fait, l’affirmation en question était très détaillée et il est peu probable qu’il y ait eu un problème au moment de l’interprétation.
+[16] De plus, il y avait des discordances entre le témoignage de Mme Sandhu et celui de M. Hayer. De son côté, Mme Sandhu a laissé entendre que M. Hayer était venu quelques fois chez elle pendant sa pause de l’après‑midi pour lui faire savoir si elle devait se rendre au travail le jour suivant. M. Hayer, lui, a affirmé qu’il s’était bel et bien rendu quelques fois chez Mme Sandhu, mais jamais pendant sa pause de l’après‑midi. Il a dit qu’il s’y rendait après la fermeture, soit vers 19 h.
+[17] Enfin, Mme Sandhu a choisi de ne pas appeler M. Mahli à témoigner. Le témoignage de ce dernier aurait été bien plus concluant que celui de M. Hayer. Eu égard aux circonstances dans la présente affaire, je tire une inférence défavorable du fait qu’on n’ait pas appelé M. Mahli à témoigner. Il convient de conclure que le témoignage de ce dernier n’aurait pas été favorable à Mme Sandhu. Je souligne aussi que le juge en chef adjoint Rossiter avait conclu que le témoignage de M. Mahli n’était pas satisfaisant.
+[18] Par conséquent, l’appel concernant la question de savoir si Mme Sandhu exerçait un emploi assurable et ouvrant droit à pension auprès de la société Indo Canadian est rejeté, et les décisions du ministre du Revenu national sont confirmées.
+Signé à Ottawa, Canada, ce 22e jour d’avril 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour de mai 2009.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2009 CCI 217
+Nos DES DOSSIERS DE LA COUR : 2007-840(EI)
+2007-841(CPP)
+INTITULÉ : SURINDER KAUR SANDHU ET
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 2 avril 2009
+MOTIFS DU JUGEMENT PAR : L’honorable juge Woods
+DATE DU JUGEMENT : Le 22 avril 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+Gursewak Sandhu
+Avocate de l’intimé :
+Me Valerie Meier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

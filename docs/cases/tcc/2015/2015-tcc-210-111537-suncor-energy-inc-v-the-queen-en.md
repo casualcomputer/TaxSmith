@@ -1,0 +1,194 @@
+---
+title: "Suncor Energy Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/111537/index.do"
+last_modified: "2015-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 210"
+citation2: ""
+neutral_citation: "2015 TCC 210"
+decision_date: "2015-11-16"
+language: "en"
+item_id: "111537"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2635
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:07:04.032000+00:00"
+cases_cited_count: 6
+cases_citing_count: 10
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c58c5b4a8e45551e9049c31de77b71ad5b4fd5b454e12de2bf3c0ba63443278"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Suncor Energy Inc. v. The Queen
+
+- Citation: 2015 TCC 210
+- Decision date: 2015-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2635, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Suncor Energy Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-11-16
+Neutral citation
+2015 TCC 210
+File numbers
+2011-4013(IT)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-4013(IT)G
+BETWEEN:
+SUNCOR ENERGY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on April 30, 2015, at Calgary, Alberta
+By: The Honourable Eugene P. Rossiter, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Jehad Haymour
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+AMENDED ORDER
+It is hereby ordered that the following question shall be determined, pursuant to paragraph 58 of the Tax Court of Canada Rules (General Procedure), prior to the hearing of the appeal:
+Is the “property” referred to in the “rental property” definition the “PCC” or “petro-Canada’s” undivided 50% interest in the PCC?
+It is further ordered that the Appellant be awarded $5,000 in costs, payable within sixty days of the date of this Order by the Respondent to the Appellant in accordance with the attached Amended Reasons for Order.
+This Amended Order and Amended Reasons for Order are issued in substitution of the Order and Reasons for Order issued on August 24, 2015 as a result of formatting issues only; the substance of the Reasons for Order remain in effect.
+Signed at Ottawa, Canada, this 16th day of November, 2015.
+“E.P. Rossiter”
+Rossiter C.J.
+Citation : 2015 TCC 210
+Date : 20151116
+Docket: 2011-4013(IT)G
+BETWEEN:
+SUNCOR ENERGY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Rossiter C.J.
+I. EXECUTIVE SUMMARY [1] Both the Appellant and the Respondent bring Rule 58 motions. The Appellant seeks a determination of one question before hearing, while the Respondent seeks a determination of four questions before hearing, with the Appellant’s question and the Respondent’s third questions being very similar. Rule 58 motions have two stages. First, decide whether to determine the question(s) before hearing. Second, hear argument and decide the question(s). The issue of the motion is solely to decide if there are questions to determine before the hearing.
+[2] The Court has discretion to decide whether to determine the question(s) before hearing. Two requirements must be met. First, the question(s) must be properly raised as issues in the pleadings. In terms of the Appellant’s questions and the Respondent’s questions, the third question is properly raised in the pleadings; the rest of the Respondent’s questions are not properly raised in the pleadings.
+[3] Second, the questions must dispose of all or part of the proceeding, substantially shorten the hearing of the appeal, or result in a substantial savings of costs. The Respondent’s first and second questions fail this requirement because they only potentially shorten the hearing of the appeal. The third and fourth questions meet this requirement as they dispose of part of the proceeding. The fourth question would fail this requirement unless it is determined under the third question that the “property” in Regulation 1100(14)(a) of the Income Tax Regulations is only 50% of Petro-Canada’s undivided interest in the PCC.
+[4] The Appellant’s question and the Respondent’s third question are very similar.
+II. BACKGROUND The Appeal
+[5] Suncor Energy Inc. (the “Appellant”) is the successor by amalgamation to Petro-Canada. In 1981, Petro-Canada Explorations Inc., a predecessor to Petro-Canada, purchased a 50% undivided beneficial interest in land principally to make office space available for its own use and occupation. Petro-Canada entered into a co-tenancy agreement with ARCI to develop an office tower complex that ultimately became the Petro-Canada Centre (“PCC”).
+[6] PCC’s total rentable area was about 1,730,000 square feet. PCC’s total rentable office space was about 1,707,000 square feet. The difference was retail space.
+[7] The Respondent pleads that Petro Canada had an undivided interest in the entire property of the PCC so the rental property consists of the entire building. The total space occupied by Petro Canada in 1998 was approximately 750,000 square feet, which represents 43% of the building. Therefore, the building was a “rental property” because it was used principally by Petro Canada for the purpose of gaining or producing gross revenue that is rent.
+[8] The Appellant argues that the Income Tax regulation 1100(14) focuses on what use was made of the property owned by the taxpayer, not on the entire property. Petro-Canada, as a tenant in common, owned a 50% interest in the PCC, separate and distinct from ARCI’s interest. 50% of PCC’s total rentable area is about 865,000 square feet, so Petro Canada used about 87% for the purpose of gaining or producing business income. Therefore, Petro Canada’s 50% interest was not a rental property because it was used principally by Petro Canada for the purpose of gaining or producing business income.
+The Rule 58 Motion
+[9] The Appellant seeks determination of the following question:
+Applying s. 1100(14) of the Income Tax Regulations to a set of four circumstances in quantitatively determining whether Petro-Canada’s use of its 50% interest in Petro-Canada Centre (“PCC”) was principally (i.e. more than 50%) for income or rent, should Petro-Canada’s business use be calculated based on 50% or 100% of the total rentable area of the PCC?
+[10] The Respondent seeks determination of the following questions:
+(1) Is the PCC a building owned by the Appellant, whether owned jointly with another person or otherwise (within the meaning of regulation 1100(14)(a)) of the Income Tax Regulations?
+(2) Did Petro-Canada use the property entirely for rent because Petro-Canada leased all of the property?
+(3) Is the “property” referred to in the “rental property” definition the entire PCC or only Petro-Canada’s undivided 50% interest in PCC?
+(4) If the “property” is only Petro-Canada’s undivided 50% interest in PCC, in determining Petro-Canada’s use of that property,
+i. should its business use of the PCC be divided in half?
+ii. and, is total possible “use” of the property restricted to the total rentable space or does it include all quantifiable uses of the property?
+III. LAW AND ANALYSIS A. Should the Court Determine the Preliminary Questions Before the Hearing? [11] An application under Rule 58 is a two-step process. First, the court must decide whether the question is appropriately dealt with under Rule 58. Second, if so, the court will hear argument and decide the question. Gregory v. R., 2000 D.T.C. 2027 at 2029. Warawa v. R., 2002 D.T.C. 1264 at para 6.
+[12] The Court may grant an order to determine a question before the hearing if two conditions are met:
+(1) Rule 58(1) requires the question to be one of law, fact, or mixed law and fact raised in a pleading. [emphasis added]
+(2) Rule 58(2) only allows the Court to grant the order if it appears that the determination of the question before the hearing may:
+i. Dispose of all or part of the proceeding,
+ii. Result in a substantially shorter hearing, or
+iii. Result in a substantial saving of costs.
+[13] In McIntyre v. R., 2014 TCC 11 Justice Campbell held at paragraph [23] that three technical requirements must be met under the first stage of a Rule 58 motion:
+(1) there are questions of law, fact or mixed law and fact;
+(2) they are raised by the pleadings; and
+(3) the questions may dispose of all or part of the proceeding, may substantially shorten the hearing of the appeal, or may result in a substantial savings of costs.
+[14] In Sentinel Hill Productions IV Corp. v. R., 2013 TCC 267, Justice Woods held at paragraph [3] that the “main focus’ of the first stage is to determine whether the second and third requirements, above, are met. This suggests that Justice Woods did not see the first requirement that the questions be of law, fact, or mixed law and fact as important, perhaps because every question must be either a question of law, fact, or mixed law and fact. These are all the possibilities of what form a question could take.
+[15] Based on McIntyre and Sentinel Hill, there are essentially only two requirements:
+(1) the questions are raised by the pleadings; and
+(2) the questions may dispose of all or part of the proceeding, may substantially shorten the hearing of the appeal, or may result in a substantial savings of costs.
+[16] Also, it should be noted that Campbell, in McIntyre, supra at paragraph [25] found that beyond the technical requirements, “the Court has the discretion to consider other factors, together with all the circumstances of the case”.
+B. Are the Preliminary Questions of Law, Fact, or Mixed Law and Fact Raised in a Pleading? [17] In Sentinel Hill, at paragraphs [27] to [31], Justice Woods held that a proposed question must be properly raised as an issue in the pleadings; it is insufficient for the question to be merely referred to in the pleading. It is not an appropriate use of s. 58(1)(a) to raise a new issue.
+[18] The Appellant’s question, whether the denominator is 50% or 100% of the total rentable area, was raised at paragraph 65(a) of the Notice of Appeal. The s. 58(1) condition is therefore met.
+[19] Under the Respondent’s first question, the definition of “rental property” in regulation 1100(14)(a), is not directly raised in the pleadings. The Respondent points to paragraph 23(a) of the Amended Reply, which only states that “the rental property consists of the entire building”. These few words alone do not constitute properly raising an issue. The Respondent also points to several paragraphs in the Notice of Appeal (65(a)(i), 71, and 74). Subparagraph 65(a)(i) states the Respondent’s third question, not his first question. Paragraphs 71 and 74 are relevant to the Respondent’s third question.
+[20] The second question, whether the property was entirely for rent because it was leased, may have been referred to in the Amended Reply but was not properly raised as an issue. The Respondent points to paragraphs 20(k) and 23(b). Paragraph 20(k) simply states that ARCI was in the business of acquiring and developing real estate; it does not raise the Respondent’s second question as an issue. Paragraph 23(b) pleads that “as a Co-Tenant, Petro-Canada leased the entire PCC principally for the purpose of gaining or producing income that is rent”. This simply restates the issue on appeal (whether the PCC was leased principally for rent), it does not specifically raise the Respondent’s second question, that Petro-Canada leased all of the property.
+[21] The third question, whether the property is the PCC or merely the 50% interest in the PCC, is raised in paragraph 65(a) of the Notice of Appeal. The s. 58(1) condition is therefore met.
+[22] The Respondent’s question 4(i), whether the business use ought to be divided in half, is not raised in the pleadings. The Respondent points to paragraph 24 of the Amended Reply which just states that “more than half of Petro-Canada’s use of [the 50% undivided interest]… was to gain or produce gross revenue that is rent”, which is essentially the issue on appeal, not question 4(i). The Respondent also points to several paragraphs of the Notice of Appeal which at best have a remote nexus with question 4(i).
+[23] The Respondent’s question 4(ii), whether “use” includes non-rentable space, was not properly raised in the pleadings. The Respondent does not even attempt to argue that it was raised in the Amended Reply. Instead, the Respondent points to several paragraphs of the Notice of Appeal which at best have a remote nexus with question 4(ii).
+[24] Of the Respondent’s questions only the third question is properly raised in the pleadings; the other questions are not.
+C. Does it Appear that the Determination of the Preliminary Questions Before the Hearing May: Dispose of All or Part of the Proceeding, Result in a Substantially Shorter Hearing, Or Result in a Substantial Saving of Costs? Jurisprudence [25] As noted in McIntyre, supra, in 2004, Rule 58(1) was amended to include questions of fact and questions of mixed law and fact to the pre-existing questions of law already permitted. The existence of factual disputes is no longer an absolute bar to granting an application but will remain relevant to a court considering whether a determination will substantially shorten the hearing or save costs.
+[26] Despite the 2004 amendment, as noted in McIntyre, supra, at paragraph [27], a Rule 58 determination should never be a substitute for a hearing and there should never be a dispute as to a material fact underpinning the question of law. Similarly, in HSBC Bank Canada v. R., 2011 TCC 37, Justice C. Miller held that case law has established that on a determination there should be no dispute as to the facts underpinning the questions of law to be answered. Although Rule 58 contemplates questions of fact and of mixed law and fact, the determination of such questions is very much like a trial, except that an actual trial has the benefits of a fair hearing with evidentiary protections.
+[27] In Devon Canada Corp. v. R., 2013 TCC 4, Justice Hogan confirmed that the test is not whether there are facts in dispute but whether there are facts that are in dispute that are material to a determination of the proposed question.
+[28] In Sentinel Hill, 2014 FCA 161, the Federal Court of Appeal upheld Justice Woods’ dismissal of a Rule 58 motion where the proposed question had no reasonable chance of success and therefore would not dispose of the proceeding, shorten the hearing, or save costs.
+[29] In McIntyre, supra, permitting the question to go to the second stage had the potential of shortening the hearing and saving costs, but only if the question was determined in a particular way. Justice Campbell held that this was insufficient to satisfy the third requirement. Similarly, in Kwok v. R., 2008 TCC 238, Justice V. Miller found a question that would only shorten the hearing if answered a particular way to fail this requirement.
+[30] The Respondent states that the preliminary questions may dispose of all or part of the appeal, or result in a substantially shorter hearing or a substantial savings of costs. The Respondent also states that the preliminary questions are not premised on any disputed fact.
+[31] The first question is vague and not effectively explained in the Respondent’s submissions. If it asks whether “property” means the taxpayer’s interest in the property or the building itself, then it is redundant as it is essentially answered by the Appellant’s question (or the Respondent’s third question). Further, it would not shorten the hearing and thus fails the requirement in section 58(2).
+[32] The second question, if answered in the affirmative, may effectively dispose of the appeal in favour of the Respondent. However, if answered negatively, the hearing would not be shortened. McIntyre and Kwok both suggest that this type of question fails the requirement.
+[33] The third question may dispose of all or part of the appeal because it appears to be the main question at issue on the appeal. If the “property” is the entire PCC, the Respondent’s case will be made significantly easier because the Minister’s assumptions then lead to the inference that only 43% of the property was occupied by Petro-Canada for a use other than rent. If instead the “property” is merely Petro-Canada’s 50% undivided interest, then the Appellant’s case will be made significantly easier.
+[34] The fourth question depends on the resolution of the third question. Thus, it would not likely result in a shorter hearing unless the third question is determined in a particular way. If the “property” is the entire PCC, then the fourth question is unnecessary to answer at all.
+[35] If instead, under the third question, the “property” is only Petro-Canada’s 50% undivided interest, then there is a possibility that the fourth question will be helpful to resolving the remaining issues on appeal. Even so, question 4(i) is essentially redundant on question 3, because it is basically an indirect way of achieving the exact same result as if question 3 had been answered differently. Therefore, question 4(i) will not be helpful to resolving the remaining issues on appeal.
+[36] Question 4(ii) will not make a difference in the appeal and is therefore unhelpful. The total rentable office space is approximately 1,707,000 square feet and the total rentable space is approximately 1,730,000 square feet. In either event, Petro Canada’s business use amount of approximately 749,000 square feet is less than half of the total space and more than half of Petro Canada’s 50% interest in the total space. Therefore, the third question is determinative; question 4(ii) cannot resolve live issues on the appeal nor save time or costs.
+[36] The Appellant’s question involves the same analysis as the Respondent’s third question discussed in paragraph [32] above and as such, the condition set out in section 58(2) has been met.
+D. What Combination of Motions Should Be Granted? 1) Test [37] Considering the test under Rule 58 motions, it should be noted that Rule 58(2) allows the Court to determine questions before the hearing if doing so would dispose of all or part of the hearing, result in a substantially shorter hearing, or result in a substantial saving of costs. These are the goals of a Rule 58 motion. Therefore, in exercising discretion to grant a Rule 58 motion, I must consider which combination will best meet the objectives found in Rule 58(2).
+2) Options [38] There are essentially three options – the Appellant’s question, the Respondent’s third question, or some other similar question.
+3) The Respondent’s Concerns with the Appellant’s Question [39] The Respondent has several concerns with the Appellant’s question.
+[40] First, the Respondent submits that, by not seeking an interpretation of the words “use” and “property” within the meaning of regulation 1100(14), the Appellant’s question incorrectly assumes that “property” means the taxpayer’s interest in the property, not the property itself. I do not believe this is correct. The Appellant’s question offers two possibilities for the denominator; while 50% of the total rentable area is essentially the taxpayer’s interest in the property, the other option of 100% of the total rentable area is the property itself. Therefore, the Appellant’s question does not assume away the issue.
+[41] Second, even assuming that the proper focus is the use made of Petro Canada’s 50% interest, the numerator must be similarly modified. The Appellant’s question does not look at the use made of the 50% interest but rather of the space leased under the Head Lease, representing approximately 80% of the space in the PCC. Therefore, if the denominator is restricted to 50% of the PCC, then the numerator should also be restricted to 50%.
+[42] Shouldn’t the Respondent be instead suggesting that the numerator be restricted to 50% divided by 80% (or 62.5%) of the Appellant’s proposed use because the Appellant had already restricted its use from 100% down to 80%? Of course, this approach would decide the entire case in favour of the Appellant, because 62.5% of the approximately 749,000 square feet of business use is approximately 468,000 square feet, which means that 54% was used for the purpose of gaining or producing income.
+[43] Further, this is almost completely redundant. The Respondent’s third question and the Appellant’s question deal with whether the denominator should be the entire PCC or merely 50% of the PCC; the Respondent’s question 4(i) asks whether the numerator should be Petro-Canada’s entire business use or merely 50% of it. Therefore, the Respondent’s question 4(i) achieves, in the alternative, exactly the same result as if his third question had been answered in favour of the Respondent.
+[44] Third, the Respondent argues that the Appellant’s question also incorrectly presupposes that “use” should be compared with rentable space instead of the entire building. This argument is completely irrelevant because the only issue that will decide the quantitative test is whether the denominator is 50% or 100%, regardless of whether it is rentable space or the entire building. Whether the Respondent is correct may be relevant at trial to aid the Court in properly framing the legal test to be applied, but it will not affect how the appeal is resolved and is inappropriate on a Rule 58 motion.
+4) Conclusion [45] It is my view that the Respondent’s third question is much simpler but less contextualized than the Appellant’s question. It asks whether the “property” is the PCC or Petro Canada’s 50% interest in the PCC. This is the same as the Appellant’s question, which asks whether the denominator ought to be 50% or 100% of the total rentable area.
+[46] I would prefer the Respondent’s third question because of its simplicity and lack of dependence on assumptions. I believe that the proper question to be put before the Court is the Respondent’s third question.
+5) Costs [47] I believe that there was no need for the Respondent to dispute this motion and certainly no need for the Respondent to bring his own Rule 58 motion. The Respondent’s third question and the Appellant’s question were essentially the same. The Respondent sought the determination of several questions that were quite obviously inappropriate on a Rule 58 motion. Questions 1, 4(i), and 4(ii) were not raised in the pleadings and were also either redundant or immaterial. Also raising these questions did not appear to have the Court focus on the real issue on the appeal. Question 2 was not completely meritorious but could simply have been dealt with at trial instead of on a Rule 58 motion. I believe the Appellant should have costs of the motion. Considering how the matter proceeded, the result, and the obvious effort put in by the parties on the motions, even though the matter was reasonably straightforward, I believe costs in the amount of $5,000 are appropriate. I order $5,000 in costs in favour of the Appellant, payable within sixty days of the date of this Order by the Respondent to the Appellant.
+[48] These Amended Reasons for Order are issued in substitution of the Order dated August 24, 2015.
+Signed at Ottawa, Canada, this 16th day of November, 2015.
+“E.P. Rossiter”
+Rossiter C.J.
+CITATION:
+2015 TCC 210
+COURT FILE NO.:
+2011-4013(IT)G
+STYLE OF CAUSE:
+SUNCOR ENERGY INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+April 30, 2015
+REASONS FOR ORDER BY:
+The Honourable E.P. Rossiter, Chief Justice
+DATE OF AMENDED ORDER:
+November 16, 2015
+APPEARANCES:
+For the Appellant:
+Jehad Haymour
+For the Respondent:
+Ifeanyi Nwachukwu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jehad Haymour
+Firm:
+Dentons Canada LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

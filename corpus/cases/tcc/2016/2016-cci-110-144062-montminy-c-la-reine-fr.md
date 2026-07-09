@@ -1,0 +1,893 @@
+---
+title: "Montminy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144062/index.do"
+last_modified: "2016-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 110"
+citation2: ""
+neutral_citation: "2016 CCI 110"
+decision_date: "2016-05-03"
+language: "fr"
+item_id: "144062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3072
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:03:25.858000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57f2df4881c9b3270578bc4af99cf1eda4603ca2e7818b2f6ce953afec426ec9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Montminy c. La Reine
+
+- Citation: 2016 CCI 110
+- Decision date: 2016-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3072, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Montminy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-03
+Référence neutre
+2016 CCI 110
+Numéro de dossier
+2012-2142(IT)G, 2012-2144(IT)G, 2012-2145(IT)G, 2012-2146(IT)G, 2012-2147(IT)G, 2012-2148(IT)G, 2012-2150(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2142(IT)G
+ENTRE :
+MARIO MONTMINY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Alberto Galego (2012-2144(IT)G), Serge Latulippe (2012-2145(IT)G), Rémi Dutil (2012-2146(IT)G), Éric Haché (2012-2147(IT)G), Philippe Beauchamp (2012-2148(IT)G) et Jacques Benoit (2012‑2150(IT)G) les 24, 25 et 26 septembre 2014 et les 26 et 27 mai 2015, à Québec (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocate de l’appelant :
+Me Anne-Marie Bonin Lavoie
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 3e jour de mai 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2012-2144(IT)G
+ENTRE :
+ALBERTO GALEGO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Mario Montminy (2012-2142(IT)G), Serge Latulippe (2012‑2145(IT)G), Rémi Dutil (2012-2146(IT)G), Éric Haché (2012‑2147(IT)G), Philippe Beauchamp (2012-2148(IT)G) et Jacques Benoit (2012‑2150(IT)G) les 24, 25 et 26 septembre 2014 et les 26 et 27 mai 2015, à Québec (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocate de l’appelant :
+Me Anne-Marie Bonin Lavoie
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 3e jour de mai 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2012-2145(IT)G
+ENTRE :
+SERGE LATULIPPE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Mario Montminy (2012-2142(IT)G), Alberto Galego (2012-2144(IT)G), Rémi Dutil (2012-2146(IT)G), Éric Haché (2012-2147(IT)G), Philippe Beauchamp (2012-2148(IT)G) et Jacques Benoit (2012‑2150(IT)G) les 24, 25 et 26 septembre 2014 et les 26 et 27 mai 2015, à Québec (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocate de l’appelant :
+Me Anne-Marie Bonin Lavoie
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 3e jour de mai 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2012-2146(IT)G
+ENTRE :
+RÉMI DUTIL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Mario Montminy (2012-2142(IT)G), Alberto Galego (2012-2144(IT)G), Serge Latulippe (2012-2145(IT)G), Éric Haché (2012-2147(IT)G), Philippe Beauchamp (2012-2148(IT)G) et Jacques Benoit (2012‑2150(IT)G) les 24, 25 et 26 septembre 2014 et les 26 et 27 mai 2015, à Québec (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocate de l’appelant :
+Me Anne-Marie Bonin Lavoie
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 3e jour de mai 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2012-2147(IT)G
+ENTRE :
+ÉRIC HACHÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Mario Montminy (2012-2142(IT)G), Alberto Galego (2012-2144(IT)G), Serge Latulippe (2012-2145(IT)G), Rémi Dutil (2012-2146(IT)G), Philippe Beauchamp (2012-2148(IT)G) et Jacques Benoit (2012‑2150(IT)G) les 24, 25 et 26 septembre 2014 et les 26 et 27 mai 2015, à Québec (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocate de l’appelant :
+Me Anne-Marie Bonin Lavoie
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 3e jour de mai 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2012-2148(IT)G
+ENTRE :
+PHILIPPE BEAUCHAMP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Mario Montminy (2012-2142(IT)G), Alberto Galego (2012-2144(IT)G), Serge Latulippe (2012-2145(IT)G), Rémi Dutil (2012-2146(IT)G), Éric Haché (2012-2147(IT)G) et Jacques Benoit (2012‑2150(IT)G) les 24, 25 et 26 septembre 2014 et les 26 et 27 mai 2015, à Québec (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocate de l’appelant :
+Me Anne-Marie Bonin Lavoie
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 3e jour de mai 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2012-2150(IT)G
+ENTRE :
+JACQUES BENOIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec les appels de Mario Montminy (2012-2142(IT)G), Alberto Galego (2012-2144(IT)G), Serge Latulippe (2012-2145(IT)G), Rémi Dutil (2012-2146(IT)G), Éric Haché (2012-2147(IT)G) et Philippe Beauchamp (2012‑2148(IT)G) les 24, 25 et 26 septembre 2014 et les 26 et 27 mai 2015, à Québec (Québec).).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocate de l’appelant :
+Me Anne-Marie Bonin Lavoie
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 3e jour de mai 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2016 CCI 110
+Date : 20160503
+Dossier : 2012-2142(IT)G
+ENTRE :
+MARIO MONTMINY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2144(IT)G
+ENTRE :
+ALBERTO GALEGO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2145(IT)G
+ENTRE :
+SERGE LATULIPPE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2146(IT)G
+ENTRE :
+RÉMI DUTIL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2147(IT)G
+ENTRE :
+ÉRIC HACHÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2148(IT)G
+ENTRE :
+PHILIPPE BEAUCHAMP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2150(IT)G
+ENTRE :
+JACQUES BENOIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. Contexte [1] Les présents appels portent sur l’année d’imposition 2007 et ils ont été entendus sur preuve commune.
+[2] Les appelants étaient tous des employés-cadres de 9178-4488 Québec inc., antérieurement connue sous la raison sociale Cybectec inc. (« Cybectec »).
+[3] Cybectec est une entreprise de conseils et de conception de systèmes informatiques industriels sur mesure pour ses clients.
+[4] En 2001, Cybectec a établi un régime d’options d’achat d’actions (le « régime d’options ») en faveur des appelants.
+[5] En vertu de l’alinéa 110(1)d) de la Loi de l’impôt sur le revenu (la « Loi »), un contribuable peut déduire la moitié de la valeur de l’avantage imposable découlant d’un régime d’options à la suite de la disposition de ses actions. Pour ce faire, certaines conditions doivent être remplies.
+[6] Les appelants prétendent qu’ils remplissent toutes les conditions de l’alinéa 110(1)d) de la Loi et de l’article 6204 du Règlement de l’impôt sur le revenu (le « Règlement »). Les appelants ont donc tous déduit, en vertu de l’alinéa 110(1)d) de la Loi, la moitié de la valeur de l’avantage imposable qu’ils ont reçu à la suite de la disposition de leurs actions.
+[7] L’intimée fait valoir que les appelants ne remplissent pas les conditions de l’alinéa 110(1)d) de la Loi et de l’article 6204 du Règlement. Par conséquent, les appelants ne peuvent déduire la moitié de l’avantage imposable conféré en vertu du régime d’options.
+[8] En l’espèce, la question à trancher est de savoir si les appelants remplissent les conditions énoncées à l’alinéa 110(1)d) de la Loi, c’est-à-dire si les actions de Cybectec étaient des actions visées par l’article 6204 du Règlement. De plus, les appelants devront établir, comme le prescrit l’alinéa 110(1)d) de la Loi, que le prix payé pour le titre, soit 0,20 $ l’action, est égal ou supérieur à la juste valeur marchande du titre lors de l’octroi des options.
+II. Les faits [9] Lors de l’audience, les parties ont déposé une entente partielle sur les faits, que je reproduis ici intégralement :
+A. Entente partielle sur les faits 1 Les appelants étaient employés par la société 9178-4488 Québec inc. (antérieurement Cybectec inc.) (la société).
+2 [Paragraphe biffé par les parties.]
+3 Avant le 1er décembre 2003, la société était contrôlée par Yves Racine et Jean-Louis Paquet, par l’entremise des sociétés 2755-5945 Québec inc. et 2755-5952 Québec inc.
+4 À compter du 1er décembre 2003, la totalité des actions du capital-actions de la société était détenue par la société 9135-8184 Québec inc.
+5 Le 1er mai 2001, la société a mis en place un Régime d’options d’achat d’actions (le « Régime ») à l’intention de ses dirigeants et employés-cadres.
+6 En vertu de l’article 7.2 du Régime, toute option octroyée ne pouvait être exercée qu’au moment de la survenance de l’un ou l’autre des évènements suivants : (1) un appel public à l’épargne effectué par la Compagnie suivi immédiatement de l’inscription des actions de catégorie « A » du capital-actions de la Compagnie à la cote d’une bourse reconnue ou (2) une vente de la totalité des actions de toutes catégories émises et en circulation du capital-actions de la Compagnie.
+7 Le 16 décembre 2001, le nombre d’actions réservées aux fins du Régime a été augmenté de 1 740 000 à 2 500 000 actions de catégorie « A » de la société.
+8 Les 17 décembre 2001 et 18 janvier 2002, la société a octroyé à onze (11) employés des options d’achat d’actions selon la répartition suivante :
+Date
+Employé
+Option
+17 décembre 2001
+Rémi Dutil
+130 500
+17 décembre 2001
+Serge Latulippe
+348 000
+17 décembre 2001
+Jacques Benoît
+261 000
+17 décembre 2001
+Mario Montminy
+261 000
+17 décembre 2001
+Alberto Galego
+261 000
+17 décembre 2001
+Éric Haché
+261 000
+17 décembre 2001
+Philippe Beauchamp
+43 500
+17 décembre 2001
+Denis Corriveau
+43 500
+17 décembre 2001
+Paul Dionne
+174 000
+17 décembre 2001
+Claude St-Pierre
+174 000
+18 janvier 2002
+Manon Lessard
+17 400
+Total :
+1 974 900
+9 Le 10 janvier 2007, le Régime a été modifié afin que la vente de la quasi-totalité des éléments d’actif de la compagnie à un tiers, soit à la compagnie Cooper Industries (Electrical) inc., soit considérée comme un évènement permettant l’exercice des options octroyées en vertu du Régime.
+10 La société a établi la juste valeur marchande de l’action au moment de l’octroi de l’option à 0,20 $ par action.
+11 Le 28 janvier 2007, certains des employés ayant bénéficié des options d’achat d’actions ont exercé leur droit en vertu du Régime.
+12 Le 28 janvier 2007, la société a émis à neuf (9) employés des actions pour un prix de 0,20 $ par action, selon la répartition suivante :
+Employé
+Actions
+Prix/action
+Total
+Manon Lessard
+17 400
+0,20 $
+3 480 $
+Denis Corriveau
+43 500
+8 700 $
+Philippe Beauchamp
+43 500
+8 700 $
+Rémi Dutil
+130 500
+26 100 $
+Mario Montminy
+261 000
+52 200 $
+Alberto Galego
+261 000
+52 200 $
+Jacques Benoît
+261 000
+52 200 $
+Éric Haché
+261 000
+52 200 $
+Serge Latulippe
+348 000
+69 600 $
+1 626 900
+325 380 $
+13 Le 28 janvier 2007, ces employés ont vendu à la société 9135-8184 Québec inc. les actions de catégorie « A » qu’ils détenaient dans le capital-actions de la société pour une somme de 1,2583 $ par action, soit une somme totale de :
+Employé
+Actions
+Prix/action
+Total
+Manon Lessard
+17 400
+1,2583 $
+21 894 $
+Denis Corriveau
+43 500
+54 736 $
+Philippe Beauchamp
+43 500
+54 736 $
+Rémi Dutil
+130 500
+164 208 $
+Mario Montminy
+261 000
+328 416 $
+Alberto Galego
+261 000
+328 416 $
+Jacques Benoît
+261 000
+328 416 $
+Éric Haché
+261 000
+328 416 $
+Serge Latulippe
+348 000
+437 888 $
+1 626 900
+2 047 128 $
+14 La société a vendu tous ses actifs le 26 janvier 2007.
+15 Pour l’année d’imposition 2007, les appelants ont reçu et déclaré un avantage imposable découlant de leur emploi calculé selon un produit de disposition de 1,2583 $ et un prix de base rajusté de 0,20 $.
+16 Pour l’année d’imposition 2007, les appelants ont réclamé la déduction égale à 50 % de l’avantage imposable suivant les dispositions de l’alinéa 110(1)d) de la Loi, les avantages imposables et la déduction réclamée par chacun sont les suivants :
+Employé
+Actions
+Avantage imposable
+Déduction (110(1)d)
+Philippe Beauchamp
+43 500
+46 036 $
+23 018 $
+Rémi Dutil
+130 500
+138 108 $
+69 054 $
+Mario Montminy
+261 000
+276 216 $
+138 108 $
+Alberto Galego
+261 000
+276 216 $
+138 108 $
+Jacques Benoît
+261 000
+276 216 $
+138 108 $
+Éric Haché
+261 000
+276 216 $
+138 108 $
+Serge Latulippe
+348 000
+368 288 $
+184 144 $
+17 Au stade de la vérification, l’Agence a établi la juste valeur marchande de l’action au moment de l’octroi de l’option à 0,415 $ par action.
+18 Le ou vers le 16 novembre 2010, le Ministre du Revenu national (le Ministre) a émis à l’encontre des appelants une nouvelle cotisation pour l’année 2007 afin de refuser la déduction réclamée en vertu du paragraphe 110(1)d) de la Loi.
+19 Le ou vers le 10 décembre 2010, les appelants ont signifié au Ministre un avis d’opposition à l’encontre des nouvelles cotisations émises pour l’année d’imposition 2007.
+20 Au stade des oppositions, l’Agence a établi la juste valeur marchande de l’action au moment de l’octroi de l’option à 0,3246 par action.
+21 Le 27 février 2012, le Ministre a confirmé les nouvelles cotisations.
+B. Constitution et capital-actions de Cybectec [10] Cybectec a été constituée en 1980 par quatre personnes, dont Jean‑Louis Pâquet et Yves Racine. Les deux autres actionnaires fondateurs de Cybectec ont quitté la société peu de temps après sa constitution[1].
+[11] Jusqu’à la vente de la société en 2007, M. Pâquet et M. Racine détenaient des parts égales dans Cybectec. M. Pâquet était le président de Cybectec. Il était ingénieur et il participait activement aux aspects techniques des projets. M. Racine était le vice-président de Cybectec; il était responsable du développement des affaires et de l’exploitation de Cybectec.
+[12] Le 2 mai 1998, Cybectec a entrepris une opération de cristallisation afin de permettre à M. Pâquet et à M. Racine d’utiliser leurs exonérations pour gains en capital. En 1998, avant l’opération de cristallisation, Cybectec avait émis 200 actions ordinaires de catégorie « A » et 12 actions de catégorie « D »[2]. En raison de l’opération, M. Pâquet et M. Racine ont chacun disposé de 13 actions de catégorie « A » en contrepartie de 13 actions de catégorie « C », rachetables à 32 000 $ au gré du détenteur[3].
+[13] À la suite de cette opération, il restait encore 174 actions de catégorie « A » émises et en circulation. Les 174 actions de catégorie « A » ont ensuite été fractionnées, de sorte qu’il y avait désormais 17 400 000 actions de catégorie « A ». Considérant le nombre d’actions résultant du fractionnement, chaque action de catégorie « A » valait 0,32 $ au moment de l’opération de cristallisation[4]. Il est important de souligner qu’au moment de l’opération de cristallisation, il n’y avait pas eu d’évaluation formelle de la juste valeur marchande des actions. La valeur des actions avait été déterminée à l’interne par M. Legros, le comptable de longue date de Cybectec[5].
+[14] Avant le 1er décembre 2003, Cybectec était contrôlée par M. Pâquet et M. Racine, par l’entremise de sociétés de portefeuille. La société de portefeuille de M. Pâquet, 2755-5952 Québec inc., détenait 50 % des actions de Cybectec et la société de portefeuille de M. Racine, 2755-5945 Québec inc., détenait l’autre 50 %[6].
+[15] À la suite de cette opération et de la constitution de la société 9135-8184 Québec inc., cette dernière est devenue, à compter du 1er décembre 2003, détentrice des actions de Cybectec[7]. La structure corporative de Cybectec était la suivante :
+C. L’évolution des activités et de la clientèle de Cybectec [16] La répartition des activités de Cybectec entre l’offre de services de développement de logiciels sur mesure et la conception d’un produit semi‑standardisé a évolué au cours des années. Jusqu’en 1999, Cybectec consacrait 100 % de ses efforts au développement de logiciels sur mesure[8]. Ce pourcentage a progressivement diminué, pour s’établir à 80 % au milieu de 2001[9].
+[17] Cybectec facturait à ses clients un montant forfaitaire pour ses services de développement de logiciels sur mesure, ainsi qu’un tarif horaire pour les travaux d’entretien des logiciels[10]. Pour les grands projets s’échelonnant sur plusieurs années, Cybectec facturait chaque fois qu’elle franchissait une étape importante déterminée d’avance avec le client.
+[18] M. Pâquet a témoigné que de 1993 à 2000, les contrats typiques de Cybectec étaient de l’ordre de 10 000 $ à 100 000 $. À ces contrats s’ajoutait un nombre plus restreint de contrats d’envergure de l’ordre de plus d’un million de dollars, dont les contrats avec son principal client, Hydro-Québec[11]. La plupart des contrats étaient obtenus après un processus de soumissions.
+[19] Vers 1994, Hydro-Québec a confié à Cybectec le mandat de moderniser ses systèmes informatiques dans plusieurs centaines de centres de contrôle de son réseau électrique. Cybectec a proposé un système innovateur appelé système multiprotocole (« SMP ») pour moderniser l’infrastructure informatique d’Hydro‑Québec[12]. Il est important de noter que les droits de propriété intellectuelle portant sur le SMP appartenaient à Hydro‑Québec. Cybectec, pour sa part, était responsable de la conception du système.
+[20] Au cours de l’année 1998, le fournisseur des machines de traitement de données utilisées pour faire fonctionner le SMP a cessé de fabriquer lesdites machines[13]. Cet évènement fut dévastateur pour Cybectec, puisque cette machine de traitement des données était une composante essentielle pour le fonctionnement des logiciels que Cybectec avait développés. Cet inconvénient a obligé Cybectec à développer, à ses propres frais[14], un nouveau logiciel pour Hydro‑Québec. Dans ce contexte, Cybectec est devenue pour la première fois propriétaire des droits de propriété intellectuelle d’une machine de traitement des données[15] fonctionnant avec un système dorénavant appelé SMP2.
+[21] Vers la fin 1999, la société ontarienne Hydro One a fait part à Cybectec de son intérêt pour un logiciel similaire au SMP développé pour Hydro-Québec. À la suite d’un appel d’offres international, Hydro One a accordé le contrat à Cybectec. Ainsi, en 2000, Cybectec a commencé à travailler sur ce projet pour Hydro One.
+[22] La différence principale entre le contrat conclu avec Hydro-Québec et le contrat conclu avec Hydro One est qu’Hydro One ne voulait pas payer le coût entier de développement du logiciel. Cybectec s’est donc engagée à livrer le logiciel. Cela cadrait avec le plan d’affaires de Cybectec, soit d’augmenter ses ventes et ses services liés à des produits génériques et ainsi de dépendre dans une moindre mesure de contrats spécifiques de développement qu’elle effectuait pour des clients.
+[23] De façon concurrente, vers la fin de l’année 1999 ou au début de l’année 2000, Hydro-Québec a accordé à Cybectec un contrat d’envergure d’approvisionnement de délesteurs[16]. Le rôle d’un délesteur dans un réseau électrique est de délester la charge électrique, pendant des périodes de forte demande, afin d’éviter les pannes d’électricité. Ce type de système requiert une composante matérielle précise, ainsi qu’un logiciel pour intégrer cette composante au système électrique.
+[24] Vu la complexité du logiciel d’intégration du délesteur, Hydro‑Québec a également voulu s’approvisionner auprès de Cybectec pour le matériel. Cybectec achetait d’abord le matériel de GenTech, un fournisseur de délesteurs, et revendait ensuite à profit le délesteur à Hydro‑Québec à un prix fixe, qui incluait les frais de développement du logiciel d’intégration[17].
+[25] Les contrats d’approvisionnement de délesteurs étaient d’une durée renouvelable de deux ans, à raison de 25 ou 30 délesteurs par année[18].
+[26] Lors de son témoignage, M. Pâquet a déclaré qu’en 2001, Cybectec ne s’attendait pas à obtenir de nouveaux contrats d’envergure pour le développement de logiciels sur mesure[19].
+D. Régime d’options d’achat d’actions de catégorie « A » [27] Le 1er mai 2001, le conseil d’administration de Cybectec, composé de M. Pâquet et de M. Racine, a autorisé, par résolution, la mise en place d’un régime d’options à l’intention de ses dirigeants et de ses employés‑cadres (« les employés »). La concurrence féroce pour la main-d’œuvre spécialisée en informatique industrielle et un problème de roulement du personnel ont incité Cybectec à mettre en œuvre un régime d’options pour fidéliser ses employés clés. Ce régime prévoyait que Cybectec émettrait des actions de catégorie « A » à ses employés, à la juste valeur marchande des actions déterminée par le conseil d’administration lors de l’octroi de l’option.
+[28] Le 17 décembre 2001, Cybectec a accordé des options d’achat d’actions aux appelants en vertu du régime d’options[20].
+[29] Tous les appelants, à l’exception de M. Philippe Beauchamp, avaient des emplois techniques et étaient au service de l’entreprise depuis au moins 10 ans lors de l’octroi des options d’achat d’actions[21]. M. Beauchamp était assigné aux ventes et n’était au service de l’entreprise que depuis quelques années. Ce fait explique son nombre moindre d’options d’achat d’actions.
+[30] La convention adoptée le 1er mai 2001 qui régissait le régime d’options énonçait que les options d’achat d’actions ne pouvaient être exercées qu’au moment d’un des évènements prévus aux articles 7.2 et 7.3. Ces articles énoncent ce qui suit :
+7.2 Toute option octroyée en vertu du Régime ne peut être exercée qu’au moment de la survenance de l’un ou l’autre des évènements suivants :
+7.2.1 un appel public à l’épargne effectué par la Compagnie suivi immédiatement de l’inscription des actions de catégorie « A » du capital-actions de la Compagnie à la cote d’une bourse reconnue.
+7.2.2 une vente de la totalité des actions de toutes catégories émises et en circulation du capital-actions de la Compagnie.
+7.3 Toute option octroyée en vertu du Régime peut également être exercée au dixième anniversaire de la date de son octroi si aucun des évènements prévus aux paragraphes 7.2.1 et 7.2.2 n’est survenu avant ce dixième anniversaire. […]
+[31] Il ressort du témoignage de M. Pâquet que, compte tenu de l’absence d’un projet d’un premier appel public à l’épargne ou d’une vente de la totalité des actions, la levée des options après une période de 10 ans était la voie la plus vraisemblable[22].
+[32] En 2007, Cybectec a reçu une offre non sollicitée de Cooper Industrial Electrical inc. (« Cooper ») pour acheter la totalité de ses actions émises. Cependant, pour des raisons fiscales, Cooper a préféré acheter la quasi-totalité des actifs de Cybectec. À la lumière de cette situation, le conseil d’administration de Cybectec a dû clarifier les conditions permettant la levée des options. Cette clarification était nécessaire, puisque la clause 7.2.2 du régime d’options prévoyait la vente des actions de Cybectec, et non pas la vente de la quasi-totalité de ses actifs.
+[33] M. Pâquet et M. Racine trouvaient injuste de ne pas permettre aux employés-cadres, soit les appelants, d’exercer leurs options d’achat d’actions pour une raison technique[23].
+[34] Le 10 janvier 2007, le conseil d’administration de Cybectec a adopté une résolution écrite qui avait pour effet de permettre aux employés visés par le régime d’options d’exercer leurs options d’achat d’actions. Selon cette résolution, la vente de la quasi-totalité des actifs de Cybectec à Cooper constituait un évènement permettant la levée des options selon l’article 7.2.2 du régime.
+[35] Également le 10 janvier 2007, M. Pâquet et M. Racine, les administrateurs de Cybectec, ont fait parvenir une lettre à chacun des appelants énonçant, entre autres, ce qui suit :
+CYBECTEC INC.
+730, rue Commerciale
+Bureau 200
+St-Jean-Chrysostome (Québec) G6Z 2C5
+St-Jean-Chrysostome, ce 10 janvier 2007
+Employé visé
+A/S CYBECTEC INC.
+730, rue Commerciale
+Bureau 200
+St-Jea[sic]-Chrysostome (Québec) G6Z 2C5
+Objet : Régime d’options d’achat d’actions à l’intention des dirigeants et employés-cadres (le « Régime »)
+Cher monsieur,
+En accord avec les dispositions d’une résolution adoptée par le conseil d’administration de la compagnie le 10 janvier 2007, la compagnie considère qu’à la suite de la clôture de la transaction ayant pour objet la vente de la quasi-totalité des éléments d’actif de la compagnie à la société Cooper Industries (Electrical) inc. qui doit intervenir le ou vers le 30 janvier 2007, vous serez en droit d’exercer les options d’achat d’actions qui vous ont été conférées en vertu du Régime le 17 décembre 2001.
+Conditionnellement à la réalisation de la clôture de la transaction, vous pourrez donc exercer ces options au prix et selon les modalités prévus au Régime.
+Dès que les actions sous-jacentes aux options que vous exercerez vous auront été émises, vous vous engagez à en faire immédiatement la vente conformément aux engagements que vous avez pris à cet égard aux termes du document « Déclarations et engagements du bénéficiaire » que vous avez signé le 17 décembre 2001 lors de l’octroi de vos options.
+La vente interviendra en faveur de 9135-8184 Québec inc. qui se portera acquéreur à cette date de la totalité [nombre d’actions] qui vous auront été émises, au prix de 1,2583$ l’action, soit un prix global de [montant].
+[…]
+Enfin, par la présente, vous autorisez la compagnie 9135-8184 Québec inc. à retenir sur le prix de vente des actions qui vous seront émises à la suite de l’exercice de vos options, un montant égal au prix d’exercice de vos options et à en faire la remise à votre acquit à la compagnie en paiement du prix d’émission de vos actions.
+CYBECTEC INC.
+Par : Jean-Louis Pâquet
+Par : Yves Racine
+[36] Les appelants ont tous signé cette lettre en guise d’approbation. Ils ont donc accepté de vendre leurs actions à 9135‑8184 Québec inc. Cette dernière est une société apparentée à Cybectec inc.
+[37] Le 28 janvier 2007, le conseil d’administration de Cybectec a adopté une résolution écrite confirmant que le 28 janvier 2007, les employés avaient exercé leurs options d’achat d’actions et que les actions avaient été émises aux appelants à un prix de 0,20 $ l’action conformément aux modalités du régime d’options d’achat d’actions.
+[38] Le 28 janvier 2007, le conseil d’administration de la société 9135-8184 Québec inc. a adopté une résolution écrite afin que la société achète les actions de catégorie « A » détenues par les employés visés de Cybectec, soit les appelants, pour un prix de 1,2583 $ l’action, soit pour un prix global de 1 626 900 $.
+III. Questions en litige [39] Est-ce que les appelants pouvaient déduire dans le calcul de leurs revenus pour l’année d’imposition 2007, en vertu de l’alinéa 110(1)d) de la Loi, la moitié de l’avantage conféré par le régime d’options?
+[40] Pour répondre à cette question, il faut examiner les deux questions suivantes :
+- Est-ce que les actions de Cybectec étaient des actions visées en vertu de l’article 6204 du Règlement?
+- Est-ce que le prix payé par les appelants, soit 0,20 $ l’action, est supérieur ou égal à la juste valeur marchande de l’action lors de l’octroi des options d’achat d’actions, soit le 17 décembre 2001?
+IV. Droit applicable et analyse juridique [41] En l’espèce, les dispositions applicables sont les paragraphes 7(1) et 7(1.1) et les alinéas 110(1)d) et 110(1)d.1) de la Loi et l’article 6204 du Règlement.
+[42] Sous réserve des paragraphes 7(1.1) et 7(8) de la Loi, le paragraphe 7(1) s’applique à un contribuable lorsqu’une société convient de vendre des actions de son capital‑actions à ses employés. Ainsi, l’employé qui acquiert des actions de son employeur en vertu d’un régime d’options sera généralement tenu d’inclure, dans son revenu d’emploi au cours de l’année d’imposition où il acquiert l’action, un montant à titre d’avantage conféré.
+[43] Cependant, le paragraphe 7(1.1) de la Loi change le moment d’imposition pour un employé d’une société privée sous contrôle canadien (« SPCC »), en le repoussant au moment où l’employé dispose de ses actions. Le contribuable peut ainsi déférer l’imposition du montant à titre d’avantage conféré par le régime d’options jusqu’au moment de la disposition des actions.
+[44] Le pendant de l’article 7 est la déduction de la moitié de l’avantage imposable, ce qui simule l’effet d’un gain en capital. Des déductions relatives au régime d’options sont prévues aux alinéas 110(1)d) et 110(1)d.1) de la Loi. Ces déductions réduisent de façon importante le fardeau fiscal de l’employé, mais ces derniers n’y ont pas droit automatiquement.
+[45] À la lumière des faits de l’espèce, l’alinéa 110(1)d.1) de la Loi n’est pas utile aux appelants, car une des conditions pour l’application de cet alinéa est que les appelants doivent avoir détenu leurs actions pendant une période de deux ans après leur acquisition. Dans le présent appel, les actions de Cybectec ont été acquises par les appelants le 28 janvier 2010 et ont été vendues la même journée. L’exigence quant à la période de détention des actions n’étant pas remplie, l’alinéa 110(1)d.1) de la Loi n’est donc d’aucune utilité aux appelants.
+[46] Par conséquent, pour être en mesure de déduire la moitié de l’avantage, les appelants doivent avoir recours à l’alinéa 110(1)d) de la Loi.
+[47] Les conditions à l’alinéa 110(1)d) de la Loi sont les suivantes :
+1. il doit s’agir d’une action visée par l’article 6204 du Règlement au moment de sa vente ou de son émission[24];
+2. le montant que le contribuable paie pour acquérir l’action doit être supérieur ou égal à la juste valeur marchande de l’action lors de l’octroi de l’action;
+3. immédiatement après la conclusion de la convention, le contribuable n’a pas de lien de dépendance avec son employeur ou la société émettrice des actions.
+[48] En l’espèce, la troisième condition à l’alinéa 110(1)d) de la Loi est remplie. Les appelants n’ont pas de lien de dépendance avec Cybectec.
+[49] Quant à la première condition, les appelants doivent établir que les actions de Cybectec sont des actions visées par le paragraphe 6204(1) du Règlement.
+[50] En ce qui a trait à la deuxième condition, les appelants doivent établir que le prix payé pour acquérir les actions de Cybectec, soit 0,20 $ l’action, est supérieur ou égal à la juste valeur marchande lors de l’octroi des options, le 17 décembre 2001.
+1) Est-ce que les actions de Cybectec sont des actions visées par le paragraphe 6204(1) du Règlement?[25] A. Thèses des parties [51] L’intimée fait valoir qu’en l’espèce les actions ne sont pas des actions visées, car les appelants ne remplissent pas la condition énoncée à l’alinéa 6204(1)b) du Règlement, soit qu’on ne pouvait « raisonnablement s’attendre à ce que, dans les deux ans suivant la vente ou l’émission de l’action, la société ou une personne apparentée à celle-ci rachète, acquière ou annule l’action en tout ou en partie ». Je référerai à l’exigence de l’alinéa 6204(1)b) en utilisant les termes « l’attente raisonnable de deux ans ».
+[52] Les appelants admettent que l’exigence de l’attente raisonnable de deux ans n’est pas remplie, car lors de l’émission des actions par Cybectec, la société apparentée à Cybectec, soit 9135-8184 Québec inc., s’était engagée au préalable à acquérir les actions des appelants. Par conséquent, lors de l’émission des actions, la société apparentée s’attendait à ce que les actions soient achetées.
+[53] Cependant, les appelants font valoir qu’à la lumière de l’exception prévue à l’alinéa 6204(2)c) du Règlement, les actions de Cybectec sont des actions visées. Les appelants soutiennent qu’ils n’avaient pas à détenir leurs actions pendant une période de deux ans.
+[54] En effet, les appelants font valoir que le paragraphe 6204(2) du Règlement prévoit des exceptions et que ces exceptions s’appliquent à tout le paragraphe 6204(1), incluant l’alinéa 6204(1)b), et non seulement à certains alinéas du paragraphe 6204(1) comme le fait valoir l’intimée. Les appelants font valoir que leur interprétation du paragraphe 6204(2) est confirmée par le libellé d’ouverture qui énonce ce qui suit en français et en anglais :
+6204(2) Pour l’application du paragraphe (1) :
+6204(2) For the purposes of subsection (1),
+[55] Selon les appelants, l’alinéa 6204(2)c) du Règlement fait abstraction de l’attente raisonnable de deux ans énoncée à l’alinéa 6204(1)b) du Règlement. Selon les appelants, si le législateur[26] avait voulu restreindre l’application du paragraphe 6204(2) à certains alinéas du paragraphe 6204(1), le paragraphe introductif du paragraphe 6204(2) aurait précisé « pour l’application de l’alinéa 6204(1)a) ».
+[56] Par conséquent, les appelants font valoir que si un contribuable remplit les conditions énoncées à l’alinéa 6204(2)c) du Règlement, il n’a pas à remplir la condition énoncée à l’alinéa 6204(1)b), soit l’attente raisonnable de deux ans.
+[57] À cet égard, les appelants soutiennent qu’ils remplissent toutes les conditions énumérées aux sous-alinéas 6204(2)c)(i), (ii) et (iii) et à la division 6204(2)c)(ii)(B) du Règlement. Par conséquent, les appelants affirment que les actions de Cybectec sont des actions visées par l’article 6204 du Règlement, et donc que la première condition à l’alinéa 110(1)d) de la Loi est remplie.
+[58] De plus, les appelants font valoir que le régime d’options a été mis en place afin de fidéliser les dirigeants et employés-cadres de Cybectec; il ne s’agit donc pas de rémunération déguisée. Ainsi, selon les appelants, le régime d’options ne contrevient pas à la politique fiscale ayant trait au régime d’options d’achat d’actions. À cet égard, les appelants ont cité madame Janette Pantry[27] quant à l’objet de l’article 6204 du Règlement :
+[TRADUCTION] L’article 6204 du Règlement énonce les exigences applicables pour qu’une action soit une action visée. Il faut essentiellement que l’action soit une action tout à fait ordinaire. L’objectif de l’article 6204 est de s’assurer que les employés auxquels on accorde des options d’achat d’actions et qui bénéficieront d’un taux d’imposition équivalant au taux applicable aux gains en capital acquièrent leurs options d’achat dans des circonstances où il n’est pas garanti que la valeur de l’action en cause augmentera. Par exemple, l’employé ne devrait pas avoir droit à la déduction pour option d’achat d’actions lorsque le salaire ou la rémunération que l’employé recevrait normalement est remplacé par une option d’acquisition d’une action qui est conçue pour que sa valeur augmente […]
+[59] Pour sa part, l’intimée fait valoir que l’interprétation des paragraphes 6204(1) et 6204(2) du Règlement proposée par les appelants est erronée.
+[60] L’intimée fait valoir que le paragraphe 6204(2) du Règlement ne s’applique qu’à certains alinéas du paragraphe 6204(1). Selon l’intimée, la lecture de l’ensemble des paragraphes 6204(1) et 6204(2) du Règlement confirme son interprétation.
+[61] À titre d’exemple, l’intimée souligne que l’alinéa 6204(2)a) du Règlement s’applique seulement au sous-alinéa 6204(1)a)(i). Quant à l’alinéa 6204(2)b), il s’applique seulement au sous-alinéa 6204(1)a)(ii). L’intimée souligne aussi qu’il n’y a aucun alinéa du paragraphe 6204(2) qui s’applique aux sous-alinéas 6204(1)a)(iii) et (v).
+[62] Quant à l’alinéa 6204(2)c) du Règlement, l’intimée fait valoir que cet alinéa s’applique seulement aux sous-alinéas 6204(1)a)(iv) et 6204(1)a)(vi). L’alinéa 6204(2)c) permet de faire abstraction des droits ou obligations énoncés aux sous-alinéas 6204(1)a)(iv) et 6204(1)a)(vi). Par exemple, si la société détient un droit de rachat d’actions, l’alinéa 6204(2)c) permettra de faire abstraction de ce droit de rachat si toutes les conditions énoncées à cet alinéa sont remplies.
+[63] L’intimée note également que les dispositions pertinentes, soit les alinéas 6204(1)a) et 6204(1)c) et les sous-alinéas 6204(1)a)(iv) et 6204(1)a)(vi) du Règlement, utilisent toutes le même libellé. Elles font toutes référence à des droits ou à des obligations prévus par les modalités de l’action ou par un accord relatif à l’action ou à son émission.
+[64] Selon l’intimée, l’alinéa 6204(1)b) du Règlement ne fait aucune référence aux droits ou aux obligations prévus par les conditions d’une action ou par un accord relatif à l’action ou à son émission. L’intimée soutient que l’alinéa 6204(1)b) soulève une question de fait : est-ce qu’on pouvait raisonnablement s’attendre à ce que les actions soient acquises ou rachetées dans les deux ans suivant l’émission des actions? Par conséquent, l’alinéa 6204(2)c) ne permet pas de faire abstraction à l’attente raisonnable de deux ans.
+[65] L’intimée fait valoir que si les faits avaient établi que Cybectec ou 9135‑8184 Québec inc. ne pouvaient raisonnablement s’attendre, à la date de l’émission des actions, à ce que, dans les deux ans suivant l’émission des actions, la société apparentée achète les actions des appelants, l’alinéa 6204(1)b) serait rempli.
+[66] Cependant, en l’espèce, l’intimée soutient que ni Cybectec ni 9135-8184 Québec inc. ne pouvaient raisonnablement s’attendre à ce que les actions ne soient pas rachetées dans les deux ans suivant l’émission des actions par Cybectec. À cet égard, les appelants avaient signé une entente avant l’émission des actions par laquelle 9135-8184 Québec inc. s’engageait à acheter les actions des appelants la même journée que celle de l’émission des actions, le 28 janvier 2007.
+[67] L’intimée fait valoir qu’en l’espèce, les appelants ne remplissaient pas l’alinéa 6204(1)b) du Règlement. Par conséquent, l’intimée fait valoir que, les actions de Cybectec n’étant pas des actions visées au sens du paragraphe 6204(1) du Règlement, les appelants n’ont pas droit à la déduction prévue à l’alinéa 110(1)d) de la Loi.
+B. Analyse [68] Les parties ont indiqué lors de l’audience qu’il n’y avait pas de jurisprudence relativement à l’interaction des alinéas 6204(1)b) et 6204(2)c) du Règlement, soit la question de savoir si l’alinéa 6204(2)c) permet de ne pas tenir compte de l’attente raisonnable de deux ans à l’alinéa 6204(1)b). Afin de trancher cette question, je suivrai les enseignements de la Cour suprême du Canada en matière d’interprétation des lois fiscales[28]. Dans l’arrêt Hypothèques Trustco Canada c Canada, [2005] 2 RCS 601, 2005 CSC 54 (CanLII), au paragraphe 10, la Cour suprême du Canada énonce comment les lois fiscales doivent être interprétées :
+[…] L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[69] Au paragraphe 13, la Cour suprême observe que « la Loi de l’impôt sur le revenu demeure un instrument dominé par des dispositions explicites qui prescrivent des conséquences particulières et commandent une interprétation largement textuelle ». Toutefois, « lorsque le texte d’une loi peut recevoir plus d’une interprétation raisonnable, le sens ordinaire des mots joue un rôle moins important et il peut devenir nécessaire de se référer davantage au contexte et à l’objet de la Loi »[29].
+[70] Je vais d’abord analyser les paragraphes 6204(1) et 6204(2) du Règlement en utilisant une approche textuelle et par la suite je vais utiliser l’approche qui renvoie davantage au contexte et à l’objet de la Loi.
+[71] À la lecture des paragraphes 6204(1) et 6204(2) du Règlement, on note que le paragraphe 6204(2) sert de règle d’application. Ainsi, le paragraphe 6204(2) permet de faire abstraction de certains droits, conditions et obligations énoncés à certains alinéas du paragraphe 6204(1).
+[72] Le paragraphe 6204(1) du Règlement définit ce qui constitue une action visée. Il prévoit ce qui suit :
+6204 (1) Pour l’application de l’alinéa 110(1)d) de la Loi, une action est une action visée du capital-actions d’une société à la date de sa vente ou de son émission, selon le cas, si à cette date :
+a) conformément aux conditions de l’action ou à un accord relatif à l’action ou à son émission :
+(i) le montant des dividendes — appelé « part des bénéfices » au présent article — que la société peut déclarer ou verser sur l’action n’est pas limité à un montant maximum ni fixé à un montant minimum, à cette date ou ultérieurement, par une formule ou autrement,
+(ii) le montant — appelé « part de liquidation » au présent article — que le détenteur de l’action a le droit de recevoir sur celle-ci à la dissolution ou liquidation de la société n’est pas limité à un montant maximum ni fixé à un montant minimum, par une formule ou autrement,
+(iii) l’action ne peut être convertie en une autre valeur, sauf s’il s’agit d’une valeur de la société ou d’une autre société avec laquelle elle a un lien de dépendance qui est une action visée ou qui le serait à la date de la conversion,
+(iv) le détenteur de l’action ne peut, à cette date ou ultérieurement, faire en sorte que l’action soit rachetée, acquise ou annulée par la société ou par une personne apparentée à la société, sauf si le rachat, l’acquisition ou l’annulation est exigé aux termes d’une conversion que le sous-alinéa (iii) n’interdit pas,
+(v) aucune personne ou société de personnes n’a l’obligation, conditionnelle ou non, de réduire ou de faire en sorte que la société réduise, à cette date ou ultérieurement, le capital versé au titre de l’action, sauf si la réduction est exigée aux termes d’une conversion que le sous-alinéa (iii) n’interdit pas,
+(vi) ni la société ni une personne apparentée à elle n’ont le droit ou l’obligation, conditionnel ou non, de racheter, d’acquérir ou d’annuler, à cette date ou ultérieurement, tout ou partie de l’action, sauf en contrepartie d’un montant qui correspond approximativement à la juste valeur marchande de l’action, déterminée compte non tenu d’un tel droit ou d’une telle obligation, ou d’un montant inférieur;
+b) on ne peut raisonnablement s’attendre à ce que, dans les deux ans suivant la vente ou l’émission de l’action, la société ou une personne apparentée à celle-ci rachète, acquière ou annule l’action en tout ou en partie, ou réduise le capital versé de la société au titre de l’action, autrement que par suite :
+(i) soit de la fusion d’une filiale à cent pour cent,
+(ii) soit d’une liquidation à laquelle s’applique le paragraphe 88(1) de la Loi,
+(iii) soit d’une distribution ou attribution à laquelle s’applique le paragraphe 84(2) de la Loi;
+c) il n’est pas raisonnable de s’attendre à ce que les modalités de l’action ou une convention concernant l’action ou sa vente ou son émission soient modifiées, ou à ce qu’une nouvelle convention concernant l’action, sa vente ou son émission soit conclue, dans les deux ans suivant la date de la vente ou de l’émission de l’action, de telle sorte que l’action n’aurait pas été une action visée si elle avait été vendue ou émise à la date d’une telle modification ou à la date où la nouvelle convention est conclue.
+[Je souligne.]
+[73] Pour les fins de la déduction prévue à l’alinéa 110(1)d) de la Loi, c’est le passage introductif du paragraphe 6204(1) du Règlement qui détermine le moment pertinent pour qu’une action soit une action visée, c’est-à-dire lors de la date de sa vente ou de son émission, selon le cas. Dans ce paragraphe, la vente de l’action signifie la vente par la société de l’action à son employé. En l’espèce, la date de la vente et de l’émission des actions en faveur des appelants ont eu lieu le 28 janvier 2007. Par conséquent, la date pertinente en vertu du paragraphe 6204(1) est le 28 janvier 2007.
+[74] Une action sera une action visée en vertu du paragraphe 6204(1) du Règlement si les conditions aux alinéas 6204(1)a), 6204(1)b) et 6204(1)c) sont remplies.
+[75] En vertu de l’alinéa 6204(1)a), les actions sont des actions visées si, conformément aux conditions de l’action ou à un accord relatif à l’action ou à son émission, les actions ne comportent aucune condition, ni aucune restriction. Les auteurs anglophones utilisent une expression qui définit bien ce qu’est une action visée en renvoyant à des « plain vanilla common shares » (actions tout à fait ordinaires).
+[76] Les actions doivent également satisfaire à l’alinéa 6204(1)b) du Règlement, soit l’attente raisonnable de deux ans. Si, à la date de l’émission des actions, on ne pouvait pas raisonnablement s’attendre, à la lumière des faits établis, à ce que les actions soient rachetées par la société ou une société apparentée dans les deux ans suivant leur émission, l’exigence de l’alinéa 6204(1)b) sera remplie.
+[77] L’exigence de l’alinéa 6204(1)b) sera également remplie si la société a procédé par voie de fusion d’une filiale à 100 %, par voie de liquidation selon l’article 88 de la Loi ou par voie de distribution à laquelle s’applique le paragraphe 84(2) de la Loi.
+[78] L’alinéa 6204(1)c), pour sa part, vise à empêcher de contourner l’application de l’alinéa 6204(1)a) par la modification des modalités de l’action après sa vente ou son émission. Autrement dit, si dans les deux ans suivant la vente ou l’émission des actions, il est raisonnable de s’attendre à ce que les modalités de l’action soient modifiées ou qu’une nouvelle convention soit conclue de telle sorte que l’action n’aurait pas été une action visée si elle avait été vendue ou émise à la date d’une telle modification ou à la date de la nouvelle convention, l’action ne sera pas une action visée. En l’espèce, les conditions de cet alinéa sont remplies, car la convention concernant les actions de Cybectec n’a pas été modifiée après l’émission des actions.
+[79] Tel que je l’ai déjà mentionné, les appelants ont admis, et à mon avis à juste titre, qu’ils ne satisfaisaient pas à l’attente raisonnable de deux ans en vertu de l’alinéa 6204(1)b) du Règlement. La preuve a démontré que lors de l’émission des actions des appelants par Cybectec, la société apparentée 9135-8184 Québec inc. savait qu’elle achèterait les actions. Les ententes entre les appelants, Cybectec et 9135-8184 Québec inc. ne laissent aucun doute. Malgré cela, les appelants font valoir que leurs actions sont des actions visées en vertu de l’alinéa 6204(2)c), ce que conteste l’intimée.
+[80] Avant d’aborder la question de savoir si l’alinéa 6204(2)c) fait abstraction de l’alinéa 6204(1)b), il est important de comprendre l’interaction des paragraphes 6204(1) et 6204(2).
+[81] Par exemple, à la lecture du sous-alinéa 6204(1)a)(i) du Règlement, on note qu’une action sera visée si « le montant des dividendes – appelé « part des bénéfices » au présent article − que la société peut déclarer ou verser sur l’action n’est pas limité à un montant maximum ni fixé à un montant minimum ». L’alinéa 6204(2)a) vient préciser cette condition, en énonçant que le montant du dividende lié à une action du capital-actions d’une société sera réputé ne pas être limité à un montant maximum ni fixé à un montant minimum lorsqu’il est raisonnable de croire que la totalité ou presque du dividende peut être déterminée par comparaison au dividende lié à une autre action du capital-actions de la société, qui répond aux exigences du sous-alinéa 6204(1)a)(i). Il est donc évident que l’alinéa 6204(2)a) sert à préciser l’application du sous-alinéa 6204(1)a)(i).
+[82] Pour sa part, le sous-alinéa 6204(1)a)(ii) du Règlement indique qu’une action sera visée si la part de liquidation que l’actionnaire peut recevoir lors d’une dissolution ou d’une liquidation n’est pas limitée à un montant maximum ni fixée à un montant minimum. L’alinéa 6204(2)b) vient préciser cette condition en énonçant que la part de liquidation d’une action du capital-actions d’une société est réputée ne pas être limitée à un montant maximum ni fixée à un montant minimum lorsqu’il est raisonnable de croire que la totalité ou presque de cette part peut être déterminée par comparaison à la part de liquidation d’une autre action du capital‑actions de la société qui répond aux exigences du sous-alinéa 6204(1)a)(ii). Il est donc évident que l’alinéa 6204(2)b) sert à préciser l’application du sous-alinéa 6204(1)a)(ii).
+[83] Quant au sous-alinéa 6204(1)a)(iv) du Règlement, il dispose qu’une action sera une action visée si l’actionnaire ne peut faire en sorte que l’action soit rachetée, acquise ou annulée par la société ou par une personne apparentée à celle-ci. L’alinéa 6204(2)c) permet de faire abstraction à ces droits ou ces obligations en énonçant que « la question de savoir si une action du capital‑actions d’une société donnée est une action visée est déterminée compte non tenu du droit ou de l’obligation de racheter, d’acquérir ou d’annuler l’action ou de faire en sorte qu’elle soit rachetée, acquise ou annulée »[30]. Par exemple, même si une action comporte une modalité qui fait qu’un actionnaire peut forcer la société à racheter son action, l’alinéa 6204(2)c) permet de faire abstraction de ce droit de rachat si les conditions énoncées à l’alinéa 6204(2)c) sont remplies.
+[84] Quant au sous-alinéa 6204(1)a)(vi), il dispose qu’une action sera une action visée si ni la société ni une personne apparentée à elle n’ont le droit ou l’obligation, conditionnel ou non, de racheter d’acquérir ou d’annuler une action. L’alinéa 6204(2)c), qui énonce que « la question de savoir si une action du capital-actions d’une société donnée est une action visée est déterminée compte non tenu du droit ou de l’obligation de racheter, d’acquérir ou d’annuler l’action ou de faire en sorte qu’elle soit rachetée, acquise ou annulée », fait abstraction de ces droits ou obligations. Par exemple, en l’espèce, malgré que la société apparentée peut acquérir les actions des appelants en vertu d’une entente à cet effet, l’alinéa 6204(2)c) fera abstraction de ce droit d’acquisition. En d’autres mots, l’alinéa 6204(2)c) permet de ne pas tenir compte du droit ou de l’obligation de la société de racheter, d’acquérir ou d’annuler l’action, si les conditions énoncées à l’alinéa 6204(2)c) sont remplies.
+[85] À la lumière de ce qui précède, on constate un lien logique, un fil conducteur entre les alinéas du paragraphe 6204(2) du Règlement qui servent d’application aux sous-alinéas du paragraphe 6204(1).
+[86] Contrairement aux prétentions des appelants, je suis d’avis que le paragraphe 6204(2) du Règlement ne sert pas d’application à l’ensemble du paragraphe 6204(1). Je m’explique.
+[87] Il est clair à la lecture des alinéas 6204(2)a) et 6204(2)b) que ces derniers ne s’appliquent pas aux sous-alinéas 6204(1)a)(iii) et 6204(1)a)(v). Il n’y a aucun lien logique entre ces dispositions. Il est aussi évident que l’alinéa 6204(2)c) du Règlement ne peut faire abstraction des conditions aux sous-alinéas 6204(1)a)(iii) et 6204(1)a)(v). L’alinéa 6204(2)c) permet de faire abstraction du droit ou de l’obligation de racheter, d’acquérir ou d’annuler l’action ou de faire en sorte qu’elle soit rachetée, acquise ou annulée, alors que le sous-alinéa 6204(1)a)(iii) renvoie à des droits de conversion et que le sous‑alinéa 6204(1)a)(v) renvoie à la réduction du capital versé. Il n’y a aucun lien logique entre l’alinéa 6204(2)c) et les sous-alinéas 6204(1)a)(iii) et 6204(1)a)(v).
+[88] Ainsi, à la lumière de ce que je viens d’énoncer, on constate que les alinéas du paragraphe 6204(2) s’appliqueront aux alinéas du paragraphe 6204(1) en présence d’un lien logique.
+[89] Il me reste donc à déterminer si l’alinéa 6204(2)c) s’applique à l’alinéa 6204(1)b), c’est-à-dire s’il fait abstraction de l’attente raisonnable de deux ans.
+[90] L’intimée n’a pas contesté que les appelants satisfaisaient aux conditions énoncées à l’alinéa 6204(2)c), soit aux sous-alinéas 6204(2)c)(i), (ii) et (iii) du Règlement. De toute manière, je suis d’avis que la preuve a démontré que les conditions prévues aux sous-alinéas 6204(2)c)(i) et 6204(2)c)(iii) et à la division 6204(2)c)(ii)(B) du Règlement sont remplies.
+[91] Tel que je l’ai déjà déterminé aux paragraphes 83 et 84 des présents motifs, l’alinéa 6204(2)c) permet de faire abstraction des conditions aux sous‑alinéas 6204(1)a)(iv) et 6204(1)a)(vi), c’est-à-dire, du droit ou de l’obligation de racheter, d’acquérir ou d’annuler l’action ou de faire en sorte qu’elle soit rachetée, acquise ou annulée.
+[92] Cependant, je suis d’avis que l’alinéa 6204(2)c) du Règlement ne s’applique pas à l’alinéa 6204(1)b). En d’autres mots, l’alinéa 6204(2)c) ne fait pas abstraction à l’attente raisonnable de deux ans. Je m’explique.
+[93] Bien que le texte français de l’alinéa 6204(1)b) soit conforme au texte anglais du Règlement, à mon avis, le texte anglais est plus explicite. En anglais, l’alinéa 6204(1)b) prévoit :
+(b) the corporation or a specified person in relation to the corporation cannot reasonably be expected to, within two years after the time the share is sold or issued, as the case may be, redeem, acquire or cancel the share in whole or in part, or reduce the paid-up capital of the corporation in respect of the share, otherwise than as a consequence of (i) an amalgamation of a subsidiary wholly-owned corporation, (ii) a winding-up to which subsection 88(1) of the Act applies, or (iii) a distribution or appropriation to which subsection 84(2) of the Act applies;
+[Je souligne.]
+[94] On note à la lecture de l’alinéa 6204(1)b) du Règlement que ce ne sont pas les droits ou les obligations de racheter, d’acquérir ou d’annuler les actions qui déclenchent l’application de cet alinéa, mais plutôt l’attente raisonnable (« the expectation ») que les actions seront rachetées, acquises ou annulées dans les deux ans suivant la vente ou l’émission des actions.
+[95] L’alinéa 6204(1)b) du Règlement soulève une question de fait : en l’espèce, est-ce que la société apparentée 9138-5184 Québec inc. s’attendait, lors de l’émission des actions aux appelants, à ce qu’elle achète les actions dans les deux ans suivant cette émission? En l’espèce, les ententes entre Cybectec, 9135‑8184 Québec inc. et les appelants ne laissent aucun doute.
+[96] Le libellé de l’alinéa 6204(2)c) du Règlement a pour seul but de faire abstraction de certains droits ou obligations, notamment le rachat, l’acquisition ou l’annulation de l’action, si toutes les conditions à l’alinéa 6204(2)c) sont remplies. Par conséquent, le libellé utilisé à l’alinéa 6204(2)c) ne permet pas de faire abstraction d’une question de fait, soit l’attente raisonnable de deux ans à l’alinéa 6204(1)b).
+[97] Ma conclusion que l’alinéa 6204(2)c) du Règlement ne fait pas abstraction de l’alinéa 6204(1)b) est confirmée par le fait que l’alinéa 6204(1)b) s’applique dans les cas où il n’y a pas de droit ou d’obligation de racheter, d’acquérir ou d’annuler les actions au moment où elles sont émises. Par exemple, si, au moment de l’émission, l’action est une action ordinaire sans condition, l’action est alors une action visée. Cependant, si les faits établissent que la société savait qu’elle rachèterait les actions de ses employés dans les deux ans de l’émission des actions, l’action ne sera pas une action visée, car c’est l’expectative que l’action sera rachetée qui déclenche l’alinéa 6204(1)b), peu importe que l’action comporte des droits ou des obligations. Cela démontre que l’alinéa 6204(2)c) qui permet de ne pas tenir compte de certains droits ou obligations, n’est pas pertinent à l’alinéa 6204(1)b).
+[98] De plus, contrairement aux situations dans lesquelles il y a un lien logique entre l’application du paragraphe 6204(2) du Règlement et certains des sous‑alinéas de l’alinéa 6204(1)a), il est difficile de faire un lien logique entre la question de fait à l’alinéa 6204(1)b), soit l’attente raisonnable de deux ans, et l’alinéa 6204(2)c), qui a pour but de faire abstraction du droit ou de l’obligation de racheter, d’acquérir ou d’annuler l’action ou de faire en sorte que l’action soit rachetée, acquise ou annulée.
+[99] Tel que l’a mentionné M. Nickerson le 26 novembre 1984 lors d’un débat à la Chambre des communes[31], le but des régimes d’options d’achat d’actions est d’encourager l’achat d’actions par les employés d’une société afin que ceux-ci aient un intérêt dans la croissance de la société. Je suis d’avis que dans l’atteinte de cet objectif, les employés qui acceptent de participer au régime doivent également accepter d’être exposés à un certain risque, c’est-à-dire le risque de voir la valeur de leurs actions fluctuer.
+[100] Le législateur a choisi de traiter de la même manière les employés qui ont acheté des actions de leur employeur en vertu d’un régime d’options et le contribuable qui achète des actions sans avoir recours à un régime d’options et qui, au moment de la disposition, paiera de l’impôt sur 50 % du gain. Cependant, les conditions à l’article 6204 du Règlement doivent être remplies.
+[101] La politique fiscale sous-jacente à l’alinéa 110(1)d) de la Loi et à l’alinéa 6204(2)b) du Règlement est de faire en sorte que les régimes d’options d’achat d’actions ne deviennent pas de la rémunération déguisée et que les employés qui souscrivent à ces actions soient assujettis à un certain risque. Je suis d’avis qu’en utilisant une approche contextuelle, j’en serais arrivée au même résultat, puisqu’il ressort du contexte législatif que la période de détention de deux ans est liée au risque. En effet, en vertu d’un régime d’options, l’employé n’encourt pas de risque tant qu’il n’a pas exercé son option d’achat. De plus, dans le cadre de l’alinéa 110(1)d), l’attente raisonnable de deux ans ne s’appliquera pas si la preuve démontre que lors de l’émission de l’action, la société ou la société apparentée n’avait aucune expectative de racheter, d’acquérir ou d’annuler l’action, comme le prescrit l’alinéa 6204(1)b).
+[102] Les appelants font valoir que certains auteurs critiquent l’exigence de l’attente raisonnable de deux ans à l’alinéa 6204(1)b) du Règlement. Selon ces auteurs, un employé d’une société publique n’a pas à conserver ses actions pour une période de deux ans. Je comprends cette interrogation. Cela étant dit, ce délai de deux ans fait toujours partie de la législation actuelle.
+[103] Les appelants ont aussi démontré qu’après la vente des actifs de Cybectec, si cette dernière avait utilisé une autre stratégie, les actions de Cybectec auraient été des actions visées. J’en conviens. Cependant, je dois analyser la transaction dont je suis saisie et qui a été utilisée par Cybectec.
+[104] À la lumière du libellé des alinéas 6204(1)b) et 6204(2)c) du Règlement, et vu la politique fiscale relative aux régimes d’options d’achat d’actions, je ne peux conclure que l’alinéa 6204(2)c) fait abstraction de l’attente raisonnable de deux ans prévue à l’alinéa 6204(1)b).
+[105] Avant de passer à la deuxième question, je tiens à souligner que les paragraphes 6204(1) et 6204(2) sont des dispositions techniques et complexes. Il m’est difficile de concevoir comment une personne exploitant une entreprise peut arriver à déchiffrer le mécanisme de ces deux paragraphes. Avec la popularité grandissante des régimes d’options, une réforme de ces paragraphes est sûrement propice.
+2) Juste valeur marchande de l’action de Cybectec le 17 décembre 2001 [106] Malgré ma conclusion voulant que les actions des appelants ne sont pas des actions visées, je vais tout de même examiner la deuxième condition à l’alinéa 110(1)d) de la Loi, soit en l’espèce celle de savoir si le prix payé par les appelants, soit 0,20 $ l’action, est supérieur ou égal à la juste valeur marchande de l’action lors de l’octroi des options d’achat d’actions, soit le 17 décembre 2001.
+[107] À cet égard, les appelants ont produit un rapport d’expertise préparé par M. Brisson et M. Fortin de Fortin Gaignard Groupe Conseil inc. (« FGGC ») et daté du 24 mars 2011, ci-après nommé le « rapport initial ». M. Brisson a témoigné à titre d’expert relativement au rapport initial. L’intimée a, pour sa part, produit un rapport d’expertise préparé par Mme Demers de l’ARC et daté du 23 juin 2014. Mme Demers a témoigné à titre d’experte pour l’intimée. En réponse au rapport de l’intimée, les appelants ont produit un rapport critique préparé par M. Brisson et M. Fortin en août 2014, ci‑après nommé le « rapport critique ». M. Fortin a témoigné à titre d’expert relativement au rapport critique.
+[108] Mentionnons que le rapport critique aborde plusieurs éléments clés du rapport d’expertise de l’intimée. Cependant, certains redressements effectués par l’intimée ne font l’objet d’aucun commentaire dans le rapport critique. À ce sujet, les appelants ont insisté sur le fait que sauf pour les éléments expressément admis[32], le silence du rapport critique sur un élément particulier n’équivaut pas à une admission. Par conséquent, chacun des éléments divergents du rapport initial et du rapport de l’intimée devra être analysé afin de déterminer si la juste valeur marchande des actions de catégorie « A » s’établit à 0,20 $ l’action le 17 décembre 2001.
+[109] Lors d’une évaluation des actions d’une société, le but recherché est de déterminer la juste valeur marchande de l’action à une date précise. L’expression « juste valeur marchande » désigne le prix le plus élevé, exprimé en équivalent de trésorerie, pouvant être obtenu dans le cadre d’une transaction sur un marché libre et sans restriction, entre un acheteur et un vendeur hypothétiques, consentants, aptes à conclure une entente, sans lien de dépendance, libres de toute contrainte et raisonnablement informés des faits pertinents.
+[110] Les parties s’entendent pour utiliser la méthode de capitalisation des flux monétaires représentatifs. Cette méthode d’évaluation implique :
+- la détermination des flux monétaires représentatifs de la société;
+- la détermination d’un taux de capitalisation approprié;
+- la détermination de la valeur actualisée des fractions non amorties du coût en capital (les « FNACC ») des immobilisations et les montants cumulatifs des immobilisations admissibles des actifs incorporels à la date d’évaluation;
+- l’addition des éléments d’actif excédentaires.
+[111] Pour faciliter la lecture, j’ai joint à l’annexe 2 des motifs un schéma des évaluations de chaque expert.
+[112] Les éléments sur lesquels les experts ne s’entendent pas sont :
+1) les revenus locatifs et le coût du loyer;
+2) les honoraires professionnels;
+3) la provision pour facturation à venir et la facture à Hydro One;
+4) les dépenses supplémentaires pour la recherche scientifique et le développement expérimental (« RS&DE »);
+5) les frais de RS&DE;
+6) l’augmentation de la masse salariale;
+7) le choix des flux monétaires représentatifs;
+8) les intérêts sur la capacité d’emprunt additionnel;
+9) le choix du multiple;
+10) la valeur actualisée des économies d’impôt;
+11) les actifs excédentaires;
+12) la valeur des projets en développement.
+[113] J’ai aussi joint à l’annexe 3 mes conclusions sur les éléments contestés. De plus, j’ai tenu compte des faits suivants dans mon analyse de la juste valeur marchande de l’action de Cybectec le 17 décembre 2001, notamment :
+- la bonne santé financière de Cybectec, bien que la marge bénéficiaire diminue depuis 1998. On note que le bénéfice avant impôts est passé de 1 245 358 $ en 1998 à 750 000 $ en 2001. Par conséquent, on note une baisse des revenus des services de conseils;
+- l’expertise et la bonne réputation de Cybectec sur le marché;
+- l’expérience et les compétences de M. Pâquet et M. Racine; cependant, un risque découle de la dépendance de Cybectec envers ses deux dirigeants dans tous les aspects des opérations de Cybectec;
+- la dépendance économique envers un client représentant 60 % à 70 % du chiffre d’affaires de Cybectec;
+- le taux de roulement des employés et la pression sur les salaires de certains employés; une certaine difficulté à réaliser les mandats à la lumière du taux de rotation;
+- l’importance des crédits de RS&DE et la perte envisageable de ces crédits pour des acquéreurs potentiels;
+- l’absence de contrat important dans le carnet de commandes en 2001.
+A. Analyse 1) Les revenus locatifs et le coût du loyer [114] Lors de son témoignage, M. Racine a indiqué que Cybectec louait une surface d’environ 4 000 pieds carrés à Montréal. Le bail était pour une période de cinq ans. Au cours des années 1999, 2000 et 2001, Cybectec a loué à une firme française en informatique un espace d’environ 150 pieds carrés. Cybectec a reçu à titre de revenus locatifs, 4 000 $, 5 000 $ et 6 000 $ pour les années 1999, 2000 et 2001 respectivement.
+[115] Quant au montant que Cybectec a payé pour ses locaux à Montréal et à Québec, on note une augmentation du prix payé pour les loyers. Cybectec a payé à titre de loyer 91 229 $, 121 258 $ et 148 415 $ pour les années 1999, 2000 et 2001 respectivement.
+[116] Dans le rapport initial, M. Brisson a diminué le bénéfice avant impôt, intérêt et amortissement (« BAIIA ») de 4 000 $, 5 000 $ et 6 000 $ pour les années 1999, 2000 et 2001 respectivement. Ces montants représentaient les revenus locatifs reçus par Cybectec. Selon M. Brisson, les revenus locatifs devraient être soustraits du BAIIA, car ces montants ne sont pas récurrents. Selon M. Brisson, on ne doit pas tenir compte de ce revenu, car on ne peut supposer qu’un acheteur éventuel louerait à une tierce partie le local excédentaire.
+[117] M. Brisson a aussi rajusté le BAIIA pour les années 1999 et 2000 en ajoutant 60 000 $ et 30 000 $ afin de tenir compte de l’augmentation du loyer payé par Cybectec. M. Brisson a réduit le BAIIA pour les années 1999 et 2000 car, selon lui, le loyer payé par Cybectec ne reflète pas les taux du marché; en d’autres mots, les loyers payés par Cybectec étaient trop faibles en 1999 et 2000.
+[118] Je ne suis pas d’accord avec ces rajustements. Tel que l’a fait valoir M. Fortin lors de son témoignage sur une autre question, lors de l’évaluation des actions d’une société, les années antérieures ne devraient pas être rajustées sauf si le rajustement est structurel, ce qui, à mon avis, n’est pas le cas en l’espèce.
+[119] De plus, l’experte de l’intimée a expliqué que généralement, lorsqu’une société loue un local ayant une superficie trop grande, on doit réduire le poste des dépenses relié au loyer afin de tenir compte de l’espace réellement utilisé[33]. Ce rajustement a pour effet d’augmenter le BAIIA. Cependant, en l’espèce, Cybectec a loué l’espace supplémentaire[34]. Le revenu tiré de la sous‑location vient donc annuler une partie de cette dépense de loyer excédentaire. De plus, il est logique que le loyer soit plus élevé au cours des années 1999, 2000 et 2001, puisque le nombre d’employés a augmenté. Cybectec est passée de 38 employés en 1998 à 52 employés en 2001. Par conséquent, aucun rajustement n’est requis pour les revenus locatifs et pour les montants payés pour le loyer.
+2) Les honoraires professionnels [120] L’experte de l’intimée, Mme Demers, a ajouté 45 070 $ et 37 515 $ au BAIIA à titre d’honoraires professionnels relatifs à la modification de la convention des actionnaires et à la mise en place d’un régime d’options d’achat d’actions. Selon Mme Demers, le BAIIA doit être augmenté, car ces dépenses ne sont pas récurrentes; elles ont donc pour effet de sous-estimer les bénéfices.
+[121] Lors de l’audience, Mme Demers a indiqué s’être fiée aux conclusions du rapport de vérification préparé par un de ses collègues, M. Jean‑François Paradis, pour établir ces rajustements liés aux années 2000 et 2001. Il est à noter que M. Paradis n’a pas témoigné lors de l’audience. De plus, il n’y avait aucune mention dans le rapport d’expertise de Mme Demers qu’elle s’est fiée à un collègue pour établir ce rajustement. Selon, les appelants, le grand livre ne contenait aucune trace de ces honoraires professionnels[35]. Dans la décision Drouin c La Reine, 2012 CCI 94, le juge Bédard renvoie à la décision Taylor (Succession de) c Ministre du Revenu national, 90 DTC 1768 (CCI), dans laquelle le juge Couture exprime ce qui suit, à la page 1775, quant à la fiabilité d’un témoignage d’un expert :
+Un évaluateur ne peut pas dans la préparation d’une évaluation qui doit servir de preuve devant un tribunal accepter des chiffres qu’il n’a pas contrôlés ou prendre pour acquis des faits dont il ne contrôle pas l’exactitude. Une expertise doit être le produit de l’opinion personnelle de l’expert basée sur des faits établis dont l’existence est prouvée et non sur des conjectures ou sur l’information qu’il reçoit de tierces personnes. [...]
+[122] Un expert ne peut, lors de la préparation d’un rapport exhaustif, se fier à une tierce personne, sans faire les recherches qui s’imposent pour justifier son rajustement. De plus, Mme Demers aurait dû en faire mention dans son rapport. Lors de son témoignage, Mme Demers n’a pas indiqué si les honoraires professionnels ont été confirmés suite à la vérification.
+[123] Je suis d’avis que ce rajustement relatif aux honoraires professionnels devrait être annulé. Il m’est impossible de déterminer si les montants ajoutés par Mme Demers sont valides. De plus, j’accepte l’affirmation des appelants voulant que ces montants n’étaient pas inclus au grand livre à titre de dépenses.
+3) La provision pour facturation à venir et la facture à Hydro One [124] Dans son rapport, Mme Demers élimine une écriture de régularisation qui renverse une provision de 22 052 $ effectuée par Cybectec pour la facturation à effectuer le 30 avril 2011[36]. Mme Demers ajoute également une facture de Hydro One du 20 juin 2001 pour 64 252 $ relativement à des services rendus jusqu’au 20 avril 2001[37].
+[125] Ces redressements renvoient aux notes F et G de Mme Demers à l’annexe IV de son rapport d’expertise. Dans son rapport, aux pages 28 et 29, Mme Demers a expliqué pourquoi elle a procédé à ces rajustements :
+Les états financiers examinés ont été produits par la firme Ouellet & Legros, comptables agréés dans le cadre d’une mission d’examen. Une réserve est indiquée quant à la conformité aux principes comptables généralement reconnus : « Les principes comptables généralement reconnus recommandent que les états financiers soient préparés sur base d’exercice. La compagnie comptabilise ses revenus sur base de facturation et à cet égard les états financiers ne sont pas conformes aux principes généralement reconnus. L’effet de cette dérogation ne peut être évalué. En conséquence, l’impact sur les ventes, les impôts des sociétés, le bénéfice net et les travaux en cours ne peuvent être déterminés. »
+Quoiqu’il soit difficile d’évaluer l’effet monétaire de cette dérogation aujourd’hui, il est important d’en connaître les impacts sur les états des résultats et au bilan.
+Dans ce cas-ci, les dépenses liées à un contrat sont passées en charge immédiatement lorsqu’elles sont encourues, tandis que la vente des services est inscrite au moment de la facturation seulement, le principe de rattachement des charges aux produits n’est pas respecté. Il en résulte une sous-évaluation des revenus au cours de l’exercice, un effet de réduction de la marge bénéficiaire, une sous-évaluation du bénéfice avant impôt et l’absence d’un actif à court terme « travaux en cours ».
+Ainsi, nous devrons tenir compte de ces éléments lors de l’application de la méthode d’évaluation, au moment de la sélection du bénéfice représentatif des opérations de l’entreprise.
+[126] Lors de l’audience, M. Fortin a exprimé son désaccord concernant ces rajustements totalisant environ 86 000 $ (22 052 $ et 64 252 $)[38]. À la page 13 de son rapport critique, il mentionne ce qui suit:
+L’ARC ne peut tirer une pareille conclusion qui laisse nettement entendre que les profits et les actifs sont sous-évalués alors que le rapport du comptable indique qu’on ne peut mesurer l’impact.
+Comme conséquence de son raisonnement, l’ARC fait des redressements à l’annexe 5, Tableau A qui ont pour effet d’augmenter les bénéfices de 2001 d’environ 86 000 $. Cet ajustement est inapproprié. Pour procéder à ce genre d’ajustement, un travail complexe et devant s’appliquer de façon rétroactive à chaque début et fin d’année financière aurait été nécessaire. En fait, il aurait fallu faire l’analyse détaillée sur plusieurs années afin d’être en mesure de conclure sur l’impact de la dérogation[39].
+[127] Mme Demers s’est fiée à la note aux états financiers affirmant que Cybectec ne respectait pas les principes comptables généralement reconnus (« PCGR ») et sur le fait que Cybectec avait déjà été avertie par l’ARC qu’elle devait se conformer aux PCGR. Cependant, Mme Demers n’a jamais interrogé à ce sujet M. Legros, le comptable de Cybectec, ni M. Pâquet, ni M. Racine[40]. Mme Demers n’a pas tenu compte du fait qu’en vertu de l’entente avec Hydro One, Cybectec ne pouvait remettre une facture à Hydro One avant de recevoir une approbation de cette dernière. Mme Demers n’a également pas tenu compte du fait que Cybectec avait toujours utilisé la comptabilité de caisse.
+[128] De plus, comme l’a mentionné M. Fortin lors de son témoignage, pour procéder à ce rajustement, l’experte de l’intimée aurait dû examiner les autres exercices de la société, et ce, afin de mesurer l’effet net de la dérogation au 30 avril 2001[41]. En effet, il est possible et même probable que des dérogations similaires aient eu lieu pour l’exercice terminé le 30 avril 2000. Cela aurait eu pour effet de modifier la valeur du rajustement effectué. Or, c’est l’effet net des écritures qu’il convient de considérer afin de mesurer le redressement approprié.
+[129] À la lumière de mes commentaires, je suis d’avis que les rajustements effectués par Mme Demers ne sont pas fondés.
+4) Les dépenses supplémentaires pour la RS&DE [130] Dans son rapport d’expertise, Mme Demers a fait des rajustements aux dépenses supplémentaires en recherche scientifique qui, selon elle, auraient été faites pour le développement de nouveaux produits. Ces rajustements sont de 402 665 $ en 2001 et de 84 148 $ en 2000. Ces rajustements diminuent les dépenses d’exploitation de Cybectec, ce qui a pour effet d’augmenter le BAIIA. Selon Mme Demers, tous ces frais de RS&DE auraient dû être capitalisés.
+[131] Selon Mme Demers, un constat s’impose. Les bénéfices avant impôt de Cybectec sont passés de 1 581 000 $ en 1999 à 705 000 $ en 2001, et ce, malgré l’embauche de dix nouvelles personnes en 2001. Selon Mme Demers, la diminution des bénéfices est imputable à l’embauche de dix personnes affectées au développement de nouveaux produits.
+[132] De plus, selon Mme Demers, en vertu du paragraphe 3450.21 du manuel de l’Institut canadien des comptables agréés (« ICCA ») en vigueur en 2001, les dépenses liées au développement de nouveaux produits doivent être capitalisées. Afin de déterminer les montants des rajustements à effectuer aux dépenses supplémentaires pour le développement de nouveaux produits en RS&DE, Mme Demers a utilisé le ratio entre les revenus de consultation et les dépenses de main-d’œuvre directes. En utilisant les données de l’année 1998, Mme Demers a conclu que le coût de la main-d’œuvre directe représentait 28 % des revenus de consultation. Mme Demers a utilisé ce ratio de 28 % pour effectuer les rajustements salariaux de 84 148 $[42] pour l’an 2000 et de 402 665 $ pour 2001.
+[133] Selon Mme Demers, ces rajustements correspondent à la directive au paragraphe 3450.21 du manuel de l’ICCA. À la page 29 de son rapport d’expertise, Mme Demers énonce ce qui suit :
+Un autre élément important a trait aux frais de développement, en raison du changement d’orientation de la Compagnie au début de l’année 2000, plusieurs frais ont été encourus au cours de l’exercice se terminant le 30 avril 2001 et sont susceptibles de générer des bénéfices au cours de l’exercice suivant.
+À notre avis, les conditions relatives à l’application du paragraphe 3450.21 du manuel de l’ICCA étaient remplies et auraient nécessité un report de certaines dépenses.
+Les frais de développement doivent être reportés sur des périodes futures si toutes les conditions ci-dessous sont remplies :
+Le produit ou le procédé en question est bien défini et l’on peut identifier les coûts qui lui sont afférents;
+Du point de vue technique, la faisabilité du produit et du procédé a été démontrée;
+La direction de l’entreprise a indiqué son intention de produire et de commercialiser, ou d’utiliser, le produit ou le procédé;
+Le marché potentiel du produit ou du procédé est clairement défini ou, dans le cas où l’entreprise compte s’en servir pour son propre usage, il est établi que le produit ou le procédé sera utile à l’entreprise;
+L’entreprise dispose déjà, ou prévoit pouvoir disposer, des ressources nécessaires pour mener le projet à terme.
+[134] Je suis d’avis que, même si j’acceptais le fondement des rajustements, soit que le paragraphe 3450.21 du manuel de l’ICCA s’applique et la méthode choisie pour effectuer ces rajustements est fondée, Mme Demers aurait dû considérer les crédits d’impôt qui découleraient d’une demande de RS&DE. Cela aurait eu pour effet de diminuer de 50% à 60% les montants des rajustements faits en 2000 et 2001.
+[135] De plus, quant à la méthode choisie pour en arriver aux montants de ces rajustements, Mme Demers a utilisé le ratio entre les revenus des services de consultation et les dépenses de main-d’œuvre directes pour l’année 1998. Il est à noter que l’année 1998 a été la plus profitable « à vie » pour Cybectec[43]. Ainsi, tenir compte de cette seule année comme année de référence fausse l’évaluation et les rajustements effectués. Cela est d’autant plus vrai lorsque l’on constate que les résultats de l’exercice 1997 révèlent un ratio entre les services de conseils et les salaires de 38 % comparativement à 28 % pour 1998.
+[136] De plus, Mme Demers, pour établir le ratio de 28 %, tient pour acquis que tous les projets de RS&DE sont des projets pour lesquels Cybectec est propriétaire des droits de propriété intellectuelle. Mme Demers n’a pas tenu compte du fait que pour la plupart des projets pour lesquels Cybectec avait demandé des crédits pour la RS&DE, Cybectec n’était pas propriétaire des droits de propriété intellectuelle. Les projets de développement étaient effectués par Cybectec en vertu de ses activités de services de conseils; ce sont les clients qui payaient la RS&DE effectuée par Cybectec. D’ailleurs, les crédits de RS&DE étaient compris dans les montants facturés aux clients.
+[137] De plus, contrairement aux prétentions de l’experte de l’intimée, M. Racine a indiqué qu’il n’y avait pas d’équipe dédiée au développement de nouveaux produits. Tous les employés de Cybectec travaillaient sur plusieurs projets en même temps. À cet égard, M. Racine a indiqué qu’en 2001, 80% du travail effectué par les employés de Cybectec était pour le développement de produits pour des clients précis en vertu des activités de services de conseils. Ces clients conservaient les droits de propriété intellectuelle des produits développés par Cybectec, puisque ce sont les clients qui payaient la recherche et le développement des produits.
+[138] M. Racine a aussi expliqué lors de son témoignage que, bien que dans les demandes de crédits de RS&DE, on associait dix employés à un projet, ces dix employés ne travaillaient pas à temps plein au projet. L’experte de l’intimée s’est fiée aux demandes de crédits de RS&DE pour conclure que Cybectec avait une équipe de dix employés qui travaillaient à temps plein aux projets en développement relativement à des nouveaux produits.
+[139] À la lumière du témoignage de M. Racine, la prémisse de Mme Demers voulant que Cybectec était propriétaire des droits de propriété intellectuelle de tous les projets de RS&DE est erronée. La prémisse de Mme Demers voulant que dix employés ne travaillaient qu’à des nouveaux produits est également erronée.
+[140] Mme Demers a aussi insisté sur le contrat d’Hydro One en ce qui a trait au développement de nouveaux produits dont Cybectec garderait certains droits de propriété intellectuelle. Lors de son témoignage, M. Pâquet a indiqué qu’à la suite d’une soumission, Hydro One a accordé un contrat à Cybectec vers la fin de 1999. M. Pâquet a noté que Cybectec a mis un peu plus d’un an à développer le prototype pour Hydro One[44]. Cependant, contrairement à la prétention de Mme Demers voulant que Cybectec pouvait congédier dix employés si le virage aux nouveaux produits ne fonctionnait pas, M. Pâquet a indiqué que Cybectec ne pouvait se permettre de congédier les dix employés, car ces derniers travaillaient au projet Hydro One et sur d’autres projets pour des clients spécifiques.
+[141] Cela étant dit, il est important de noter qu’en 2001, il était impossible de déterminer si Hydro One donnerait l’approbation finale à la mise en œuvre du projet. La réussite du projet n’était pas assurée; Cybectec assumait des risques. Les premières livraisons du prototype ont été effectuées en avril 2001 et quelques installations auraient eu lieu en 2002[45].
+[142] De plus, bien que Cybectec gardait la propriété de certaines composantes du produit développé pour Hydro One, en 2001, il n’était pas facile de prédire ce qui allait advenir du développement fait pour le contrat Hydro One. Lors de son témoignage, M. Pâquet a mentionné ce qui suit :
+[…] au début des contacts avec Hydro One c’était pas clair du tout ce qu’on aurait fait avec ça, mais c’est un contrat qu’on pouvait pas laisser passer parce que c’était notre spécialité à l’époque.
+[143] Quant au paragraphe 3450.23 du manuel de l’ICCA, en abordant les conditions d’application du paragraphe 3450.21 du manuel, les appelants font valoir que « l’ARC ne fait pas le lien avec la réalité de Cybectec et ne fait pas la démonstration requise que toutes les conditions sont rencontrées ».
+[144] Je suis d’accord avec les appelants pour les raisons suivantes. Premièrement, pour que des frais à l’égard des projets de recherche et de développement en cours soient capitalisés, il faut détenir les droits de propriété intellectuelle, sinon cela n’a aucune valeur au niveau des actifs pour la société. Deuxièmement, les directives à l’alinéa 3450.21 b) et au paragraphe 3450.23 du manuel de l’ICCA énoncent ce qui suit :
+3450.21 Les frais de développement d’un produit ou d’un procédé doivent être capitalisés si toutes les conditions ci-dessous sont remplies :
+[…]
+b) du point de vue technique, la faisabilité du produit ou du procédé a été démontrée
+[…]
+3450.23 Lorsqu’un projet de développement satisfait aux conditions justifiant la capitalisation définies au paragraphe 3450.21, les frais de développement doivent être capitalisés jusqu’à concurrence du montant que l’on est raisonnablement certain de récupérer.
+[145] Je n’ai aucune preuve qui démontre quels sont les montants que Cybectec est en mesure de récupérer si ces dépenses sont capitalisées. Également en 2001, il ressort de la preuve que les projets ne satisfaisaient pas à l’alinéa 3450.21 b) du manuel de l’ICCA. À part les demandes de crédits de RS&DE, je n’ai aucune autre preuve qui démontre la faisabilité des projets en développement en 2001.
+[146] De plus, le comptable de Cybectec, M. Legros, a choisi de ne pas comptabiliser ces montants. Cybectec n’a jamais capitalisé ces dépenses. De plus, si ces dépenses devaient être capitalisées, il aurait fallu tenir compte de l’amortissement.
+[147] À la lumière de la preuve, je ne peux accepter les rajustements faits par Mme Demers. La méthode choisie par Mme Demers pour conclure à des rajustements de 402 665 $ en 2001 et de 84 148 $ en 2000 n’est pas fondée. De surcroît, je suis d’avis que si la directive de l’ICCA s’appliquait, ce qui n’est pas le cas en l’espèce, chaque projet de RS&DE en cours aurait dû être analysé, ce qui n’a pas été fait par Mme Demers. De plus, pour les projets que Cybectec développait pour des clients précis, ces travaux en cours ne pouvaient pas être capitalisés, car Cybectec ne détenait pas les droits de propriété intellectuelle relativement à ces projets.
+5) Les frais de RS&DE engagés [148] Mme Demers a aussi fait des rajustements aux frais de RS&DE engagés en ce qui a trait aux nouveaux produits, de 158 808 $ en 2001, de 182 323 $ en 2000 et de 187 695 $ en 1999[46]. Le ratio entre les frais de RS&DE et les ventes de services de conseils est passé de 6,4 % en 1998 à 13,5 % en 2001. Selon Mme Demers, une partie de cette augmentation est attribuable au développement des nouveaux produits.
+[149] À cet égard, elle a consulté M. Racine et M. Pâquet pour évaluer les coûts attribuables au développement de nouveaux produits. Ceux-ci auraient répondu qu’un montant de 5 % semblait raisonnable[47]. Ainsi, Mme Demers a apporté des rajustements de 158 808 $ en 2001, 182 323 $ en 2000 et 187 695 $ en 1999 relativement aux frais de RS&DE engagés en tenant pour acquis que ces frais représentaient 5 % des frais liés à la RS&DE.
+[150] Tout comme pour les dépenses supplémentaires pour le développement de RS&DE, je considère qu’une méthode qui s’appuie sur un ratio entre les ventes de services de conseils et les frais de recherche tend à créer un redressement aléatoire qui n’est pas représentatif. La composante de RS&DE peut varier significativement d’un mandat à l’autre. Ces frais ont été correctement déduits à titre de dépenses dans le calcul du bénéfice brut. Au surplus, ces frais ne devraient pas être capitalisés, car comme je l’ai préalablement déterminé au sujet des dépenses supplémentaires pour la RS&DE, les directives du manuel de l’ICCA ne sont pas applicables.
+[151] De plus, la méthode choisie donne un résultat qui ne colle pas à la réalité. En effet, le raisonnement de Mme Demers laisse entendre que les frais de RS&DE pour le développement de nouveaux produits étaient plus importants en 1999 (182 323 $) qu’en 2001 (158 808 $). Or, le contexte démontre que ces frais devraient être plus élevés en 2001, et ce, vu le virage amorcé en 1999 et le fait que cette nouvelle orientation occupe une place de plus en plus importante au fil du temps.
+[152] Je n’accepte donc pas le rajustement fait par Mme Demers à cet élément.
+6) L’augmentation de la masse salariale [153] L’expert, M. Brisson, a expliqué lors de l’audience pourquoi, lors de son rapport initial, il avait effectué un redressement pour les années 1999 et 2000 afin d’augmenter la masse salariale de Cybectec. Selon M. Brisson, ce rajustement vise à rendre représentatif le salaire des employés de la société, qui serait anormalement bas pour les années 1999 et 2000 lorsqu’on le compare avec le marché.
+[154] À cet égard, les postes des salaires aux états financiers ne démontrent pas que la masse salariale a augmenté d’une manière importante eu égard au nombre de personnes au service de Cybectec pour les années 1999, 2000 et 2001.
+[155] Je suis d’avis que le redressement proposé par les appelants ne devrait pas être accepté. En effet, bien qu’il soit clair que les salaires de certains employés ont subi une augmentation très importante entre 1999 et 2001, la preuve n’est pas suffisante pour me convaincre que la masse salariale globale devrait être augmentée dans les années précédentes.
+7) Le choix des flux monétaires représentatifs [156] Le flux monétaire représentatif est le flux monétaire d’exploitation qu’une société sera en mesure de réaliser dans l’avenir. Le flux monétaire représentatif est généralement déterminé en fonction des résultats selon les derniers états financiers et des résultats prévus pour la ou les prochaines années.
+[157] Dans le rapport initial de l’expert des appelants, il est proposé d’utiliser une moyenne pondérée afin d’établir les flux monétaires. L’experte de l’intimée propose, quant à elle, l’utilisation du BAIIA de 2001 pour établir le bas de la fourchette et la moyenne des BAIIA de 1999 à 2001 pour établir le haut.
+[158] Je suis d’avis que la méthode employée par l’experte de l’intimée est raisonnable. Je retiens donc un BAIIA d’au moins 900 000 $ ainsi qu’un BAIIA d’au plus 1 321 667 $.
+8) Les intérêts sur la capacité d’emprunt additionnelle [159] L’expert des appelants a déterminé une capacité d’emprunt excédentaire en comparant le ratio d’endettement (dette/équité) de Cybectec à celui de l’industrie de la conception de systèmes informatiques[48]. Il a retenu un ratio dette/équité pour l’industrie de 0,8 à 12,0 avec une médiane de 2,1[49]. L’experte de l’intimée a, pour sa part, utilisé le même ratio pour une période non identifiée et a considéré un ratio de 1,0 à 1,9[50].
+[160] En s’appuyant sur les ratios identifiés précédemment, les appelants ont considéré un redressement minimal et maximal de 335 000 $ et 435 000 $ relativement à la capacité d’emprunt à court terme. Mme Demers a, pour sa part, considéré un rajustement unique de 400 000 $. Comme la méthode utilisée se fonde sur un ratio pour l’industrie et comme les parties n’ont pas expliqué l’écart important entre leurs ratios, je crois opportun d’adopter une approche conservatrice.
+[161] Je retiendrai une capacité d’emprunt à court terme minimale et maximale de 335 000 $ et 435 000 $. Non seulement cette fourchette inclut la somme de 400 000 $ retenue par l’intimée, mais le ratio dette/équité après rajustement est également compris dans la fourchette du ratio dette/équité de l’industrie proposé par l’intimée. La capacité d’emprunt à long terme sera quant à elle fixée à 50 000 $.
+[162] Quant aux intérêts, la note 6 des états financiers de Cybectec du 30 avril 2001 indique que Cybectec dispose d’une marge de crédit inutilisée au taux préférentiel + 0,5 %. Dans son évaluation, Mme Demers retient un taux d’intérêt aux entreprises de 4,0% plus une prime de 0,5 % pour un prêt à court terme, ainsi qu’une prime additionnelle de 1,0 % pour un prêt à long terme. Au vu de ces informations, je considère ces taux comme raisonnables et j’utiliserai ceux‑ci afin de calculer les intérêts sur la capacité d’emprunt additionnelle.
+[163] Considérant ce qui précède, il convient de tenir compte d’un montant d’intérêts minimal et maximal sur la capacité d’emprunt à court terme de 15 075 $ et 19 575 $. Les intérêts sur la capacité d’emprunt à long terme seront, pour leur part, fixés à 2 750 $.
+[164] Comme les autres éléments de la détermination des flux monétaires représentatifs ne sont pas contestés, à savoir les impôts et le réinvestissement dans les immobilisations, je retiens des flux monétaires représentatifs minimal et maximal de 546 701 $ et 809 546 $.
+9) Le taux de capitalisation (« le multiple ») [165] Le multiple correspond à la réciproque ou l’inverse du taux de rendement qu’un investisseur considère comme acceptable pour un investissement dans une société compte tenu de la croissance prévue, de la rentabilité et des risques y étant associés.
+[166] Les appelants proposent d’utiliser un taux de capitalisation qui est calculé au 30 avril 2001. L’experte de l’intimée propose, quant à elle, un taux de capitalisation calculé avec des données du marché datant du 30 novembre 2001.
+[167] Je souligne que l’écart entre la thèse des appelants et celle de l’intimée est minime. En effet, les appelants proposent d’utiliser des multiples de 4,75 et 4,50 alors que l’intimée propose des multiples de 4,80 et 4,60.
+[168] Dans son rapport critique, M. Fortin, pour les appelants, critique le rapport d’expertise de l’intimée quant à la détermination de la prime liée à l’entreprise[51]. En effet, M. Fortin prétend que l’intimée n’aurait pas tenu compte de certains facteurs propres à l’entreprise, tels que l’importance des crédits d’impôt pour RS&DE, la baisse des revenus de consultation en 2001, ainsi que le taux de roulement élevé des employés.
+[169] Je suis d’avis que l’intimée n’a pas suffisamment tenu compte de certains de ces facteurs, alors que d’autres ont fait l’objet d’une analyse exempte d’erreur. À titre d’exemple, l’intimée diminue le risque de l’entreprise en raison de son historique de rentabilité. Or, la preuve démontre que les bénéfices avant impôts ont diminué de façon importante entre 1999 et 2001. De plus, l’intimée ne tient pas compte de la prime relativement à l’importance des crédits de RS&DE. Par contre, pour ce qui est du roulement du personnel, l’intimée a tenu compte à juste titre d’un risque, mais ce risque a été inclus dans le calcul du risque lié à l’industrie.
+[170] Or, même si j’augmentais la prime de risque liée à l’entreprise de 3,75 % à 4,00 %, comme l’ont fait les appelants dans le rapport d’expertise initial[52], cela n’aurait aucun effet sur le multiple minimal à la date de l’évaluation. En effet, en augmentant la prime de risque liée à l’entreprise dans le tableau de l’intimée, le multiple serait de 4,79[53]. Il serait donc raisonnable de tenir compte d’un multiple de l’ordre de 4,6 et 4,8.
+10) La valeur actualisée des économies d’impôt [171] Selon la méthode de la capitalisation du flux monétaire, il faut ajouter à la valeur d’exploitation la valeur actualisée des économies d’impôt futures sur les soldes fiscaux, puisque les impôts sont calculés selon le BAIIA et non selon le revenu imposable. Dans son rapport initial, M. Brisson a utilisé une valeur actualisée des économies d’impôt de 60 000 $. Cependant, il n’a fourni aucun détail au soutien de ses conclusions. Dans le rapport de Mme Demers, une valeur de 45 000 $ a été déterminée. À l’appui de son argumentaire, l’intimée a fourni un tableau qui détaille les économies d’impôt futures[54].
+[172] Lors de l’audience, l’intimée a expliqué la différence entre le montant qu’elle a déterminé et celui des appelants[55]. De leur côté, les appelants n’ont pas fourni d’explication sur ces écarts et ont même considéré ceux-ci comme négligeables[56]. Vu les thèses des parties, j’accepte la thèse de l’intimée quant à la valeur actualisée des économies d’impôts.
+11) Les actifs excédentaires [173] Un actif excédentaire est un actif qui n’est pas nécessaire à l’exploitation quotidienne de la société. La direction de Cybectec pourrait disposer de ses actifs et retirer ces fonds de Cybectec sous forme de dividendes sans toucher de façon importante le niveau d’activité et la rentabilité de la société.
+[174] Pour ce qui est du calcul des actifs excédentaires, les appelants et l’intimée ne s’entendent pas sur la capacité d’emprunt à court terme ainsi que sur l’ajout d’un montant de 270 000 $ au titre de l’encaisse.
+[175] Quant à la capacité d’emprunt, j’ai déterminé préalablement que la capacité d’emprunt à court terme se situait dans une fourchette de 335 000 $ à 435 000 $. La capacité d’emprunt à long terme, quant à elle, est fixée à 50 000 $.
+[176] Les évaluations des experts étant faites au 30 avril 2001, l’intimée a déterminé qu’à part l’encaisse, il n’y avait pas de rajustement à faire pour déterminer la juste valeur marchande au 17 décembre 2001. Elle a donc ajouté 270 000 $ à l’encaisse[57]. L’intimée a utilisé des déclarations à l’ARC au 30 avril 2002 pour déterminer ce montant.
+[177] Les appelants invoquent que cela est contraire aux principes d’évaluation selon lesquels un examen rétrospectif n’est pas admissible, sauf si ce n’est que pour vérifier la légitimité des hypothèses énoncées par les évaluateurs[58]. De plus, les appelants font valoir, à mon avis à juste titre, que si l’année 2002 devait être prise en compte, elle devrait être prise en compte pour tous les calculs dont le BAIIA et non seulement pour l’encaisse, puisque le bénéfice brut de Cybectec a continué de diminuer en 2002.
+[178] Or, je ne suis pas en présence d’un examen postérieur pour valider une hypothèse. En effet, l’intimée utilise carrément un prorata des liquidités excédentaires générées par l’exploitation au 30 avril 2002 afin d’ajouter un montant d’encaisse aux actifs excédentaires. Elle n’utilise pas ces données pour valider une tendance ou une hypothèse. Ainsi, il convient de rejeter le redressement proposé.
+[179] Le détail des actifs excédentaires est donc le suivant :
+Actifs excédentaires
+Minimum
+Maximum
+Encaisse
+102 700 $
+102 700 $
+Dépôt à terme
+600 000 $
+600 000 $
+Placements
+212 574 $
+212 574 $
+Capacité d’emprunt à court terme
+335 000 $
+435 000 $
+Capacité d’emprunt à long terme
+50 000 $
+50 000 $
+Total
+1 300 274 $
+1 400 274 $
+12) La valeur des projets de développement [180] Pour la valeur des projets de développement, les appelants ont utilisé une valeur minimale et maximale de 500 000 $ et 600 000 $. L’intimée a toutefois haussé le haut de la fourchette à 625 000 $. Toutefois, mentionnons que les raisonnements pour arriver à ces résultats sont diamétralement opposés.
+[181] En effet, les appelants se sont appuyés sur la valeur des projets de développement selon l’annexe C du rapport de Ouellet & Legros, en y soustrayant les coûts de développement des produits délesteurs, Pastec 2 et Consparam. Pour sa part, l’intimée a considéré une fourchette représentant 40 % et 50 % des dépenses engagées pour le développement de nouveaux produits. À cet égard, elle a tenu compte des frais de mise en marché, des dépenses supplémentaires de RS&DE ainsi que des frais de RS&DE calculés pour 1999, 2000 et 2001. Elle a ensuite additionné ces dépenses pour établir les fourchettes de valeurs.
+[182] L’expert de l’intimée a également inversé les valeurs minimales et maximales des projets de développement. Lors de son témoignage, elle a répondu que cela n’avait pas « une très grande importance ». Elle a ajouté que cela visait à contrebalancer le risque lié à la prestation de services de conseils et le développement de nouveaux produits[59].
+[183] Je suis d’avis que la méthode utilisée par les appelants est plus solide et moins aléatoire que celle utilisée par l’intimée. J’accepte donc la méthode utilisée par les appelants.
+[184] L’intimée a aussi fait valoir que le 2 mai 1998, M. Pâquet et M. Racine, lors d’un gel d’action, avaient évalué la valeur des actions de Cybectec à 0,32 $ l’action. Il est important de noter qu’en 1998, Cybectec n’avait pas procédé à une évaluation exhaustive de la valeur de l’action. De plus, après 1998, les bénéfices avant impôt ont diminué considérablement. Les bénéfices en 1998 étaient de 1 245 358 $ alors qu’ils étaient de 705 489 $ en 2001. À la lumière d’une baisse de profits, il est raisonnable de constater la diminution de la valeur de l’action de Cybectec.
+[185] Je suis donc d’avis que la juste valeur marchande des actions de catégorie « A » est de 0,20 $ l’action au 17 décembre 2001.
+V. Dispositif [186] Les conditions de l’alinéa 110(1)d) de la Loi n’ayant pas toutes été remplies, c’est-à-dire que les actions de Cybectec n’étaient pas des actions visées au moment de l’émission des actions, les appelants ne peuvent déduire dans le calcul de leurs revenus 50% de l’avantage conféré découlant de la disposition de leurs actions.
+[187] Les appels sont rejetés, sans frais.
+Signé à Ottawa, Canada, ce 3e jour de mai 2016.
+« Johanne D’Auray »
+Juge D’Auray
+ANNEXE 1
+DISPOSITIONS LÉGISLATIVES PERTINENTES
+Émission de titres en faveur d’employés
+7 (1) Sous réserve des paragraphes (1.1) et (8), lorsqu’une personne admissible donnée est convenue d’émettre ou de vendre de ses titres, ou des titres d’une personne admissible avec laquelle elle a un lien de dépendance, à l’un de ses employés ou à un employé d’une personne admissible avec laquelle elle a un lien de dépendance, les présomptions suivantes s’appliquent :
+a) l’employé qui a acquis des titres en vertu de la convention est réputé avoir reçu, en raison de son emploi et au cours de l’année d’imposition où il a acquis les titres, un avantage égal à l’excédent éventuel de la valeur des titres au moment où il les a acquis sur le total de la somme qu’il a payée ou doit payer à la personne admissible donnée pour ces titres et de la somme qu’il a payée pour acquérir le droit d’acquérir les titres;
+[…]
+Options d’achat d’actions accordées à des employés
+(1.1) Lorsque, après le 31 mars 1977, une société privée sous contrôle canadien (appelée l’« émetteur » au présent paragraphe) est convenue d’émettre une action de son capital-actions, ou du capital-actions d’une société privée sous contrôle canadien avec laquelle elle a un lien de dépendance, en faveur d’un de ses employés ou d’un employé d’une société privée sous contrôle canadien avec laquelle elle a un lien de dépendance, ou de vendre une telle action à un tel employé, et que, immédiatement après la conclusion d’une telle convention, l’employé n’avait aucun lien de dépendance :
+a) avec l’émetteur;
+b) avec la société privée sous contrôle canadien dont l’émetteur est convenu de vendre l’action du capital-actions;
+c) avec la société privée sous contrôle canadien qui est son employeur,
+pour l’application de l’alinéa (1)a) à l’acquisition de cette action par l’employé, le passage « au cours de l’année d’imposition où il a acquis les titres » à cet alinéa est remplacé par « au cours de l’année d’imposition où il a disposé des titres ou les a échangés ».
+SECTION C
+Calcul du revenu imposable
+Déductions
+110 (1) Pour le calcul du revenu imposable d’un contribuable pour une année d’imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+Options d’employés
+d) la moitié de la valeur de l’avantage que le contribuable est réputé par le paragraphe 7(1) avoir reçu au cours de l’année relativement à un titre qu’une personne admissible donnée est convenue, après le 15 février 1984, d’émettre ou de vendre aux termes d’une convention, ou relativement au transfert ou à une autre forme de disposition des droits prévus par la convention, dans le cas où les conditions suivantes sont réunies :
+(i) le titre, selon le cas :
+(A) est une action visée par règlement au moment de sa vente ou de son émission,
+(B) aurait été une action visée par règlement s’il avait été vendu au contribuable, ou émis en sa faveur, au moment où il a disposé de ses droits prévus par la convention,
+(C) aurait été une part d’une fiducie de fonds commun de placement au moment de sa vente ou de son émission si les parts émises par la fiducie qui n’étaient pas identiques au titre n’avaient pas été émises,
+(D) aurait été une part d’une fiducie de fonds commun de placement si, à la fois :
+(I) il avait été vendu au contribuable, ou émis en sa faveur, au moment où celui-ci a disposé de ses droits prévus par la convention,
+(II) les parts émises par la fiducie qui n’étaient pas identiques au titre n’avaient pas été émises,
+(ii) si les droits prévus par la convention n’ont pas été acquis par le contribuable par suite d’une disposition de droits à laquelle le paragraphe 7(1.4) s’applique, à la fois :
+(A) le montant que le contribuable doit payer pour acquérir le titre aux termes de la convention est au moins égal à l’excédent du montant visé à la subdivision (I) sur le montant visé à la subdivision (II) :
+(I) la juste valeur marchande du titre au moment de la conclusion de la convention,
+(II) le montant éventuel que le contribuable a payé pour acquérir le droit d’acquérir le titre,
+(B) immédiatement après la conclusion de la convention, le contribuable n’avait de lien de dépendance avec aucune des personnes suivantes :
+(I) la personne admissible donnée,
+(II) chacune des autres personnes admissibles qui, immédiatement après la conclusion de la convention, était un employeur du contribuable et avait un lien de dépendance avec la personne admissible donnée,
+(III) la personne admissible dont le contribuable avait le droit d’acquérir un titre aux termes de la convention,
+(iii) si les droits prévus par la convention ont été acquis par le contribuable par suite d’une ou de plusieurs dispositions auxquelles le paragraphe 7(1.4) s’applique, à la fois :
+(A) le montant que le contribuable doit payer pour acquérir le titre aux termes de la convention est au moins égal au montant qui a été inclus, relativement au titre, dans le montant total payable visé à l’alinéa 7(1.4)c) à l’égard de la plus récente de ces dispositions,
+(B) immédiatement après la conclusion de la convention prévoyant les droits qui ont fait l’objet de la première de ces dispositions (appelée « convention initiale » au présent sous-alinéa), le contribuable n’avait de lien de dépendance avec aucune des personnes suivantes :
+(I) la personne admissible ayant conclu la convention initiale,
+(II) chacune des autres personnes admissibles qui, immédiatement après la conclusion de la convention, était un employeur du contribuable et avait un lien de dépendance avec la personne admissible ayant conclu la convention initiale,
+(III) la personne admissible dont le contribuable avait le droit d’acquérir un titre aux termes de la convention initiale,
+(C) le montant qui a été inclus, relativement à chaque titre donné que le contribuable avait le droit d’acquérir aux termes de la convention initiale, dans le montant payable visé à l’alinéa 7(1.4)c) à l’égard de la première de ces dispositions était au moins égal à l’excédent du montant visé à la subdivision (I) sur le montant visé à la subdivision (II) :
+(I) la juste valeur marchande du titre donné au moment de la conclusion de la convention initiale,
+(II) le montant éventuel que le contribuable a payé pour acquérir le droit d’acquérir le titre,
+(D) pour ce qui est de déterminer si la condition énoncée à l’alinéa 7(1.4)c) a été remplie à l’égard de chacune des dispositions données suivant la première de ces dispositions, le montant visé à la subdivision (I) était au moins égal au montant visé à la subdivision (II) :
+(I) le montant qui a été inclus, relativement à chaque titre donné pouvant être acquis aux termes de la convention prévoyant les droits qui ont fait l’objet de la disposition donnée, dans le montant payable visé à l’alinéa 7(1.4)c) à l’égard de la disposition donnée,
+(II) le montant qui a été inclus, relativement au titre donné, dans le montant total payable visé à l’alinéa 7(1.4)c) à l’égard de la dernière de ces dispositions précédant la disposition donnée;
+Don d’un titre constatant une option d’employé
+d.01) sous réserve du paragraphe (2.1), lorsque le contribuable dispose d’un titre qu’il a acquis au cours de l’année aux termes d’une convention mentionnée au paragraphe 7(1) en faisant don du titre à un donataire reconnu, un montant, relatif à la disposition du titre, égal à la moitié de l’avantage qu’il est réputé par l’alinéa 7(1)a) avoir reçu au cours de l’année relativement à l’acquisition du titre ou, si elle est inférieure, à la moitié du montant qui aurait représenté cet avantage si la valeur du titre, au moment où le contribuable l’a acquis, avait été égale à sa valeur au moment où il en a disposé, si, à la fois :
+(i) le titre est visé au sous-alinéa 38a.1)(i),
+(ii) [Abrogé, 2002, ch. 9, par. 33(1)]
+(iii) le don est fait au cours de l’année et au plus tard le trentième jour suivant le jour où le contribuable a acquis le titre,
+(iv) le contribuable peut déduire un montant en application de l’alinéa d) relativement à l’acquisition du titre;
+Idem
+d.1) la moitié de la valeur de l’avantage dans le cas où le contribuable, à la fois :
+(i) est réputé, selon l’alinéa 7(1)a) à cause du paragraphe 7(1.1), avoir reçu un avantage au cours de l’année au titre d’une action qu’il a acquise après le 22 mai 1985,
+(ii) n’a pas disposé de l’action (autrement que par suite de son décès) ou ne l’a pas échangée dans les deux ans suivant la date où il l’a acquise,
+(iii) n’a pas déduit de montant en vertu de l’alinéa d) pour l’avantage, dans le calcul de son revenu imposable pour l’année;
+Règlement de l’impôt sur le revenu
+6204 (1) Pour l’application de l’alinéa 110(1)d) de la Loi, une action est une action visée du capital-actions d’une société à la date de sa vente ou de son émission, selon le cas, si à cette date :
+a) conformément aux conditions de l’action ou à un accord relatif à l’action ou à son émission :
+(i) le montant des dividendes — appelé « part des bénéfices » au présent article — que la société peut déclarer ou verser sur l’action n’est pas limité à un montant maximum ni fixé à un montant minimum, à cette date ou ultérieurement, par une formule ou autrement,
+(ii) le montant — appelé « part de liquidation » au présent article — que le détenteur de l’action a le droit de recevoir sur celle-ci à la dissolution ou liquidation de la société n’est pas limité à un montant maximum ni fixé à un montant minimum, par une formule ou autrement,
+(iii) l’action ne peut être convertie en une autre valeur, sauf s’il s’agit d’une valeur de la société ou d’une autre société avec laquelle elle a un lien de dépendance qui est une action visée ou qui le serait à la date de la conversion,
+(iv) le détenteur de l’action ne peut, à cette date ou ultérieurement, faire en sorte que l’action soit rachetée, acquise ou annulée par la société ou par une personne apparentée à la société, sauf si le rachat, l’acquisition ou l’annulation est exigé aux termes d’une conversion que le sous-alinéa (iii) n’interdit pas,
+(v) aucune personne ou société de personnes n’a l’obligation, conditionnelle ou non, de réduire ou de faire en sorte que la société réduise, à cette date ou ultérieurement, le capital versé au titre de l’action, sauf si la réduction est exigée aux termes d’une conversion que le sous-alinéa (iii) n’interdit pas,
+(vi) ni la société ni une personne apparentée à elle n’ont le droit ou l’obligation, conditionnel ou non, de racheter, d’acquérir ou d’annuler, à cette date ou ultérieurement, tout ou partie de l’action, sauf en contrepartie d’un montant qui correspond approximativement à la juste valeur marchande de l’action, déterminée compte non tenu d’un tel droit ou d’une telle obligation, ou d’un montant inférieur;
+b) on ne peut raisonnablement s’attendre à ce que, dans les deux ans suivant la vente ou l’émission de l’action, la société ou une personne apparentée à celle-ci rachète, acquière ou annule l’action en tout ou en partie, ou réduise le capital versé de la société au titre de l’action, autrement que par suite :
+(i) soit de la fusion d’une filiale à cent pour cent,
+(ii) soit d’une liquidation à laquelle s’applique le paragraphe 88(1) de la Loi,
+(iii) soit d’une distribution ou attribution à laquelle s’applique le paragraphe 84(2) de la Loi;
+c) il n’est pas raisonnable de s’attendre à ce que les modalités de l’action ou une convention concernant l’action ou sa vente ou son émission soient modifiées, ou à ce qu’une nouvelle convention concernant l’action, sa vente ou son émission soit conclue, dans les deux ans suivant la date de la vente ou de l’émission de l’action, de telle sorte que l’action n’aurait pas été une action visée si elle avait été vendue ou émise à la date d’une telle modification ou à la date où la nouvelle convention est conclue.
+(2) Pour l’application du paragraphe (1) :
+a) la part des bénéfices liée à une action du capital-actions d’une société est réputée ne pas être limitée à un montant maximum ni fixée à un montant minimum, lorsqu’il est raisonnable de croire que la totalité ou presque de cette part peut être déterminée par comparaison à la part des bénéfices liée à une autre action du capital-actions de la société, qui répond aux exigences du sous-alinéa (1)a)(i);
+b) la part de liquidation d’une action du capital-actions d’une société est réputée ne pas être limitée à un montant maximum ni fixée à un montant minimum, lorsqu’il est raisonnable de croire que la totalité ou presque de cette part peut être déterminée par comparaison à la part de liquidation d’une autre action du capital-actions de la société, qui répond aux exigences du sous-alinéa (1)a)(ii);
+c) la question de savoir si une action du capital-actions d’une société donnée est une action visée est déterminée compte non tenu du droit ou de l’obligation de racheter, d’acquérir ou d’annuler l’action ou de faire en sorte qu’elle soit rachetée, acquise ou annulée, si les conditions suivantes sont réunies :
+(i) au moment de la vente ou de l’émission de l’action, la personne (appelée détenteur au présent alinéa) à qui l’action est vendue ou émise n’a de lien de dépendance ni avec la société donnée ni avec les sociétés avec lesquelles celle-ci a un lien de dépendance,
+(ii) le droit ou l’obligation est prévu par les modalités de l’action ou dans une convention concernant l’action ou son émission et, compte tenu de toutes les circonstances, il est raisonnable de considérer :
+(A) soit que le droit ou l’obligation est prévu principalement en vue de garantir le détenteur contre les pertes pouvant résulter de l’action et que la somme à payer lors du rachat, de l’acquisition ou de l’annulation (appelés « acquisition » au présent sous-alinéa et au sous-alinéa (iii)) de l’action ne dépassera pas le prix de base rajusté de l’action pour le détenteur immédiatement avant l’acquisition,
+(B) soit que le droit ou l’obligation est prévu principalement en vue de fournir au détenteur un marché pour l’action et que la somme à payer lors de l’acquisition de l’action ne dépassera pas la juste valeur marchande de l’action immédiatement avant l’acquisition,
+(iii) compte tenu de toutes les circonstances, il est raisonnable de considérer qu’aucune partie de la somme à payer lors de l’acquisition de l’action n’est déterminable directement en fonction des bénéfices de la société donnée ou d’une autre société avec laquelle celle-ci a un lien de dépendance, pour tout ou partie de la période au cours de laquelle le détenteur est propriétaire de l’action ou a le droit de l’acquérir, sauf si la mention des bénéfices de la société donnée ou de l’autre société ne sert qu’à établir la juste valeur marchande de l’action suivant une formule prévue par les modalités de l’action ou dans la convention concernant l’action ou son émission, selon le cas.
+(3) Pour l’application du paragraphe (1), « personne apparentée » à une société s’entend des personnes suivantes :
+a) une personne ou une société de personnes avec laquelle la société a un lien de dépendance sauf en raison d’un droit visé à l’alinéa 251(5)b) de la Loi qui découle de l’offre de la personne ou de la société de personnes d’acquérir la totalité ou la presque totalité des actions du capital-actions de la société;
+b) une société de personnes ou une fiducie dont la société (ou une personne ou une société de personnes avec laquelle elle a un lien de dépendance) est respectivement associé ou bénéficiaire.
+(4) Pour l’application du paragraphe (3), il n’est pas tenu compte du paragraphe 256(9) de la Loi.
+ANNEXE 2
+ANNEXE 3
+RÉFÉRENCE :
+2016 CCI 110
+Nº DU DOSSIER DE LA COUR :
+2012-2142(IT)G, 2012-2144(IT)G,
+2012-2145(IT)G, 2012-2146(IT)G,
+2012-2147(IT)G, 2012-2148(IT)G et
+2012-2150(IT)G
+INTITULÉ DE LA CAUSE :
+MARIO MONTMINY c SA MAJESTÉ LA REINE
+ALBERTO GALEGO c SA MAJESTÉ LA REINE
+SERGE LATULIPPE c SA MAJESTÉ LA REINE
+RÉMI DUTIL c SA MAJESTÉ LA REINE
+ÉRIC HACHÉ c SA MAJESTÉ LA REINE
+PHILIPPE BEAUCHAMP c SA MAJESTÉ LA REINE
+JACQUES BENOIT c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Les 23, 24 et 25 septembre 2014 et les 26 et 27 mai 2015
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 3 mai 2016
+COMPARUTIONS :
+Avocate des appelants :
+Me Anne-Marie Bonin Lavoie
+Avocate de l’intimée :
+Me Anne Poirier
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Anne-Marie Bonin Lavoie
+Cabinet :
+DS Welch Bussières, Avocats S.E.N.C.R.L.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription, volume 1, à la page 16.
+[2] Notes aux états financiers de l’exercice terminé le 30 avril 1999, à la note 7; Cahier des annexes au rapport d’évaluation des actions de catégorie « A » de Cybectec inc., à la page 29.
+[3] M. Pâquet, M. Racine et la société se sont prévalus du roulement prévu au paragraphe 85(1) de la LIR pour effectuer l’opération.
+[4] On arrive à cette valeur en faisant le calcul suivant: (174 X 32 000 $ / action) / 17 400 000.
+[5] Transcription, volume 1, aux pages 115 à 117.
+[6] Entente partielle sur les faits, au paragraphe 3.
+[7] Entente partielle sur les faits, au paragraphe 1.
+[8] Transcription, volume 1, à la page 38.
+[9] Transcription, volume 1, aux pages 42 et 43.
+[10] Transcription, volume 1, à la page 25.
+[11] Transcription, volume 1, aux pages 26 et 35.
+[12] Transcription, volume 1, aux pages 30 à 33.
+[13] Transcription, volume 1, à la page 34.
+[14] Transcription, volume 1, à la page 35.
+[15] Transcription, volume 1, à la page 36.
+[16] Le besoin d’un tel système s’est fait ressentir après la crise du verglas au Québec en 1998.
+[17] Transcription, volume 1, aux pages 40 à 42.
+[18] Transcription, volume 1, à la page 40.
+[19] Transcription, volume 1, à la page 44.
+[20] Entente partielle sur les faits, au paragraphe 8.
+[21] Transcription, volume 1, aux pages 104 et 105.
+[22] Transcription, volume 1, aux pages 107 et 108.
+[23] Transcription, volume 1, aux pages 143 à 145.
+[24] En l’espèce, au moment de l’émission des actions par Cybectec, le 28 janvier 2007.
+[25] J’ai joint, à l’annexe A, les dispositions législatives pertinentes.
+[26] Les règlements d’application de la Loi sont approuvés par le Gouverneur en conseil.
+[27] Pantry, Janette, « Paragraph 110(1)(d) – Stock Option Deduction – Unwarranted Application of Prescribed Share Provisions », 17(1) Taxation of Executive Compensation & Retirement (Federated Press) 563-66 (July/Aug 2005).
+[28] Coté, Pierre-André, Interprétation des lois, par. 88 : Les principes jurisprudentiels d’interprétation des lois sont appliqués et applicables à l’interprétation des textes réglementaires, soit pour déterminer leur sens, soit pour préciser leur portée.
+[29] Placer Dome Canada Ltd c Ontario (Ministre des Finances), 2006 CSC 20 (CanLII), [2006] 1 RCS 715, par. 22.
+[30] Voir l’analyse de McCarthy Tétrault, « Émission du titre en faveur d’employés ». L’alinéa 6204(2)c) du Règlement permet d’ignorer certains droits et obligations aux fins du paragraphe 6204(1) si toutes les conditions de l’alinéa 6204(2)c) sont remplies.
+[31] Débats de la Chambre des communes, 26 novembre 1984, p. 578.
+[32] Par exemple, le redressement relatif à la rémunération des dirigeants ou à la juste valeur marchande du placement qui a été fixé à 212 574 $ dans le calcul des actifs excédentaires.
+[33] Transcription, volume 2, à la page 212, ligne 14.
+[34] Transcription, volume 2, à la page 177, ligne 7.
+[35] Transcription, volume 3, à la page 124, ligne 10.
+[36] Rapport d’expertise de l’intimée, à la page 35.
+[37] Rapport d’expertise de l’intimée, à la page 36.
+[38] Rapport critique de FGGC, à la page 16, « Notes F et G ».
+[39] Rapport critique de FGGC, à la page 13.
+[40] Transcription, volume 3, à la page 120, ligne 15.
+[41] Transcription, volume 4, à la page 44, ligne 25.
+[42] (1 105 154 x 100 / 3 646 450) = 30,3 % (rajustements salariaux de 84 148 $ pour ramener le taux à 28 %).
+[43] Transcription, volume 1, à la page 45, ligne 15.
+[44] Transcription, volume 1, à la page 50, lignes 24 à 26.
+[45] Rapport d’expertise de l’intimée, volume 1, à la page 25.
+[46] Voir le rapport d’expertise de l’intimée, volume 2, annexe 5, notes « I » et « J ».
+[47] Transcription, volume 2, à la page 198, ligne 5.
+[48] Système de classification des industries de l’Amérique du Nord (« SCIAN »), no 541511.
+[49] Annexe 1 du rapport initial de FGGC.
+[50] Page 7.2 de l’annexe du rapport d’expertise de l’intimée.
+[51] Rapport critique de FGGC, à la page 19.
+[52] Voir à cet égard la prime pour autres facteurs de risque à la page 27 du rapport initial de FGGC ainsi que la prime de risque liée à l’entreprise à la page 7.1 de l’annexe du rapport d’expertise de l’intimée.
+[53] Page 7.1 de l’annexe du rapport d’expertise de l’intimée.
+[54] Page 5.8 de l’annexe du rapport d’expertise de l’intimée.
+[55] Transcription, volume 2, à la page 223, ligne 26.
+[56] Transcription, volume 2, à la page 92, ligne 19.
+[57] Transcription, volume 2, à la page 236 ligne 11 et transcription, volume 5, à la page 230.
+[58] Zellers Succession c Canada, 2008 CCI 426, au par. 42; McClintock c La Reine, 2003 CCI 259, au par. 54.
+[59] Transcription, volume 2, à la page 225, ligne 19.

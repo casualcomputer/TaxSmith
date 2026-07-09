@@ -1,0 +1,336 @@
+Title: Malkaya v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520957/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-89-520957-malkaya-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-08-05
+
+# Malkaya v. The Queen
+
+- Citation: 2022 TCC 89
+- Decision date: 2022-08-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4497, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malkaya v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-08-05
+Neutral citation
+2022 TCC 89
+File numbers
+2015-3156(IT)G, 2015-3157(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-3157(IT)G
+BETWEEN:
+BULENT MALKAYA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Rukiye Malkaya – 2015-3156(IT)G on November 15 to 18, 2021, at Toronto, Ontario
+Before: The Honourable Mr. Justice K. Lyons
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo C. Omisade
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act (the “Act”) for the 2006 taxation year is allowed.
+The appeals from the reassessments made under the Act for the 2007 and 2008 taxation years are dismissed.
+One set of costs in accordance with the Tariff is awarded to the respondent for this appeal and the appeal of Rukiye Malkaya, 2015-3156(IT)G. The Appellant and Rukiye Malkaya are to pay the costs to the respondent within 45 days of this Judgment.
+Signed at Ottawa, Canada, this 5th day of August 2022.
+“K. Lyons”
+Lyons J.
+Docket: 2015-3156(IT)G
+BETWEEN:
+RUKIYE MALKAYA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Bulent Malkaya – 2015-3157(IT)G on November 15 to 18, 2021, at Toronto, Ontario
+Before: The Honourable Mr. Justice K. Lyons
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo C. Omisade
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act (the “Act”) for the 2006 taxation year is allowed.
+The appeals from the reassessments made under the Act for the 2007 and 2008 taxation years are:
+a) Allowed with respect to the penalties only under subsection 163(2) of the Act, which are to be deleted; and
+b) The appeals are dismissed with respect to the unreported income.
+One set of costs in accordance with the Tariff is awarded to the respondent for this appeal and the appeal of Bulent Malkaya, 2015-3157(IT)G. The Appellant and Bulent Malkaya are to pay the costs to the respondent within 45 days of this Judgment.
+Signed at Ottawa, Canada, this 5th day of August, 2022.
+Lyons J.
+Citation: 2022 TCC 89
+Date: 20220805
+Docket: 2015-3157(IT)G
+BETWEEN:
+BULENT MALKAYA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2015-3156(IT)G
+AND BETWEEN:
+RUKIYE MALKAYA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] Bulent Malkaya and Rukiye Malkaya appeal reassessments for 2006, 2007 and 2008 taxation years made by the Minister of National Revenue under the Income Tax Act. For the 2007 and 2008 taxation years (the “relevant years”), the Appellants were reassessed unreported income using a combined net worth method of determining income. [1] Penalties were imposed under subsection 163(2) of the Income Tax Act (“penalties”) on unreported income.
+[2] For the 2006 taxation year, the respondent conceded during the hearing that the discrepancy in income totalling $46,973.36, as reassessed, was incorrect. Consequently, the Appellants’ appeals for that year are no longer in issue. [2]
+[3] The appeals for the relevant years (“2007”, and “2008”) were heard on common evidence. Bulent Malkaya testified and Rukiye Malkaya, his former spouse, chose to adopt Mr. Malkaya’s evidence and arguments in respect of her appeal. Interpretation services were available. Ronald Ihasz, and Wendell Szuch, their friend, testified on behalf of the Appellants. Robin Noyes, president of Coins Unlimited, and Audrey Rancourt, the Canada Revenue Agency auditor, testified on behalf of the respondent.
+[4] At the hearing, the respondent produced a substantial number of documents. The Appellants produced few. Mr. Malkaya claimed they did not have all the documents and alleged CRA had withheld some despite a provincial Court Order requiring all documents seized from the Appellants and others in 2012 to be returned. [3] Pursuant to that Order, he had obtained four bankers boxes from CRA containing all records seized as acknowledged by him in four documents titled Acknowledgements of Return of Seized Documents, produced by the respondent, that were signed by him on February 5, 2013. [4] Also, the hearing of their income tax appeals were previously adjourned twice before their appeals commenced, leaving them ample time to obtain documentation from their former lawyers and prepare for the hearing
+[5] Several weeks before the hearing, the Appellants filed a Notice of Intention to Act in person notifying the Court they would act on their own behalf after their counsel ceased to act. Shortly before and at the outset of the hearing, the Appellants’ requested adjournments; these were denied.
+[6] All statutory references that follow in these reasons are to the Income Tax Act unless otherwise stated. [5]
+I. ISSUES
+[7] The issues are whether the Minister correctly reassessed the Appellants for unreported income, and, if so, penalties on unreported income in the relevant years.
+II. FACTS
+[8] In 1999, Bulent Malkaya immigrated from Turkey to the United States, and studied English while he waited for Rukiye Malkaya, his then wife, and their children to immigrate. In 2002, the Malkaya’s and their children immigrated to Canada.
+[9] Mr. Malkaya testified that in October 2007 he separated from Mrs. Malkaya because their relationship deteriorated. They did not live together but he would go to her house to watch their children when she was out of town, otherwise he lived in Ronald Ihasz’s basement. Her Notice of Appeal states they separated in 2008.
+Financial affairs intertwined
+[10] Despite the separation, Mr. Malkaya said that their financial affairs remained “intertwined” because of private loans, business dealings and personal bank accounts. The Appellants bank accounts were held at the Royal Bank of Canada, the Bank of Montreal, and the Toronto Dominion (“TD”) bank with their joint account ending in #807 (the “joint account”). They also held nine credit cards which were mostly paid from the joint account, with some paid by cash. [6] He said he used these cards for purchases for only the business, PC Canada Computer Warehouses Inc. (“PC Computer”). In cross-examination, it was established the credit cards were also used for personal transactions such as groceries, clothes, McDonald’s, The Beer Store, monthly installments on a lawnmower, and other items.
+[11] Ms. Rancourt agreed that the Appellants’ affairs were intertwined, and added that everything was combined including their financial affairs, their business dealings, property, personal loans, and personal and business expenses with all credit cards being paid through the joint account including business purchases.
+Property
+[12] According to property registration documentation obtained by Ms. Rancourt, one or both Appellants were identified as owners of the following properties located in Welland, Ontario:
+Owners
+Purchased and Sold
+187 King Street
+(“187 King”)
+Appellants
+August 31, 2006
+3 Robin Hood Lane
+(“3 Robin Hood”)
+Appellants
+August 2, 2005 to November 14, 2008
+125 Redwood Court
+(“125 Redwoood”)
+Mrs. Malkaya
+August 31, 2007 to January 15, 2010
+79 Oxford Road
+(“79 Oxford”)
+Mrs. Malkaya and Mr. Szuch
+November 14, 2008
+[13] In 2006, the Appellants purchased 187 King, PC Computer’s only store. They financed it by jointly borrowing funds from Wendell Szuch, and by mortgaging 3 Robin Hood, their residence since 2005. According to Mr. Malkaya, when they separated Mrs. Malkaya moved to 125 Redwood.
+[14] From the proceeds of sale of 3 Robin Hood in 2008, $250,000 was used as part of the purchase price for 79 Oxford, with an additional $130,000 provided by Mr. Malkaya. He asked Ms. Rancourt during cross-examination why the $130,000 cheque received from him was not in the documentation produced at the hearing. She explained CRA does not have copies of every cheque he issued, and the lawyer’s document acknowledges receipt of that money from Mr. Malkaya.
+[15] When asked in cross-examination why in her audit she had shown $380,000 when Mrs. Malkaya and Mr. Szuch were both on title at 79 Oxford, she responded it was assumed that it was owned by the Appellants. In 2015, CRA appeals recognized Mrs. Malkaya and Mr. Szuch as co-owners, and made a reduction in the asset value of $190,000 in 2008 to reflect only Mrs. Malkaya’s allocation. Consequently, reassessments then reduced the unreported income by $95,000 for each Appellant.
+[16] Ms. Rancourt noted that during the relevant years Mr. Malkaya had “four active plated vehicles” registered to him. [7] He said that he drove the Volkswagen daily, that Mrs. Malkaya does not drive because she could not afford it, and the children were not old enough to drive.
+PC Canada Computer Warehouses Inc.
+[17] In 2003, Mr. Malkaya was the sole proprietor of PC Canada, a computer business.
+[18] In 2004, PC Computer was incorporated. It opened a store at Niagara Street, St. Catharines, Ontario, but closed after two months. [8] During the relevant years, its business premises were located at 187 King St. It sold and repaired computers, sold computer accessories and provided consulting services through Mr. Malkaya. He claimed he was the sole shareholder of it during the relevant years.
+Tangarine Payment Solutions
+[19] Mr. Malkaya confirmed in his testimony that in 2006 and 2007, PC Computer had an ATM. Since customers used the ATM infrequently, the ATM’s management company removed it. PC Computer started using Tangarine Payment Solutions (“TPS”) to electronically process debit and credit card payments made by PC Computer’ customers to PC Computer. Such payments, belonging to PC Computer, were deposited into the Appellants’ personal joint account (“deposited payments”). Mr. Malkaya initially denied that the deposited payments were used for personal purposes, and claimed the joint account was used only for business purposes. He indicated that deposited payments were not made by TPS into the corporate bank account because TPS required overdraft protection which PC Computer’s corporate bank account did not have.
+[20] Mr. Malkaya testified that Sheila Collings, the CRA auditor that had audited PC Computer in 2009, had sought proof of its income and proof of how all its bills and credit cards were paid. [9]
+[21] Ms. Rancourt confirmed Mr. Malkaya’s testimony regarding Ms. Collings involvement, and added by way of background that:
+a) Ms. Collings had obtained TPS Statements of Account from TPS after the Appellants told Ms. Collings these were unavailable which formed the basis of Ms. Collings’ working papers (“working papers”);
+b) the TPS Statements of Account show the total debit and credit card sales made by PC Computer, from which Ms. Collings determined the deposited payments totalled $58,096.08 for 2007, compared to the reported sales of $37,091, such that there was unreported corporate income, and the Appellants’ benefitted as shareholders; and
+c) that Irv Cochrane (“the bookkeeper”) was not informed of the deposited payments made to the joint account thus were not entered in his general ledger nor were bank statements provided to him when he had prepared tax returns for PC Computer. Ms. Collings then referred the matter to CRA’s Investigations Division, and it executed a search warrant to obtain records from the Appellants, the business premises and the bookkeeper.
+[22] The Appellants filed income tax returns for the relevant years, and were initially assessed as filed. His source of income was a small salary from PC Computer, her source of income was from government benefits. Combined, they reported total income of $30,680 in their tax returns for 2007 and 2008 as follows:
+Reported income
+2007
+2008
+Mr. Malkaya
+$15,000
+$12,480
+Mrs. Malkaya
+$2,000
+$1,200
+Total
+$17,000
+$13,680
+[23] For the 2006, 2007 and 2008 taxation years combined, Ms. Rancourt said that Mr. Malkaya reported income of $34,128, of which $33,090 was management fees from PC Computer, but these were never paid to him as these were posted as a credit to the shareholder loan account thus were merely put back into PC Computer.
+2012 Audit
+[24] In 2012, Ms. Rancourt (the “auditor”) conducted an audit of the Appellants for the 2006, 2007 and 2008 taxation years. Her audit report indicates Ms. Collings had obtained banking records, including copies of the deposits, pursuant to requirements for both the corporate bank account and the Appellants’ joint account showing the deposited payments belonged to PC Computer, and a reconciliation of sales reported by it concluded that the deposited payments were not reported. [10]
+[25] Having determined that the total income reported by the Appellants for the relevant years could not support their lifestyle, and that their and PC Computer’s books and records were unreliable and incomplete, the auditor decided a combined net worth analysis was necessary in order to ascertain an accurate measure of each Appellants income for the relevant years.
+[26] After completing her review of all information obtained, including credit card and bank statements obtained pursuant to production orders sought by her in July and October 2012 to determine the personal expenditures and business purchases for the net worth calculation, the auditor prepared a balance sheet analysis. She determined that payments from sales made by PC Computer to its customers were deposited into the Appellants’ joint account for their personal use, were appropriated from PC Computer, and resulted in discrepancies when compared with the income each Appellant had reported. [11]
+[27] The auditor stated that all credit card purchases for PC Computer and a significant number of transactions regarding it, were placed in the Appellants’ joint account during the relevant years. It was apparent from the bank statements that satellite dishes sold by PC Computers were purchased from HarmonyFTA.Com, and computer equipment came from other suppliers placed on the Canadian Tire credit card. [12] Income was generated from sales of such equipment on the internet without the income being reported by PC Computer during the relevant years. It was assumed that the Appellants appropriated revenue of PC Computer by depositing payments to their personal bank accounts, including the joint account, which were used for personal purposes.
+Assets
+[28] The auditor took the total assets, minus liabilities (and factored in the income reported by the Appellants to account for any increase in net worth from the beginning of the year to the end of the year), and adjusted for any personal expenditures incurred. [13] She described the nature of a shareholder loan, how a shareholder loan account operates (money put in is a credit in the account, money taken out is a debit) and emphasized she ensures it is accurate. In cross-examination, she said that a shareholder loan appears on the balance sheet when there is a balance owing to the shareholder from the corporation. When asked when the shareholder contributes more funds into the corporation, is the loan a liability on the balance sheet, she said “no” as it is placed on the equity portion of the balance sheet.
+[29] After reviewing all information gathered, including bank and credit card statements showing all personal expenses and business purchases made by the Appellants, net worth schedules and working papers (“summaries”) were prepared by the auditor and sent to the Appellants; these reflected the Appellants bank accounts plus the corporate bank account. [14] The summaries summarized the assets by starting with the balances from the bank statements as at December 31st for each of 2006, 2007 and 2008.
+[30] Funds repeatedly advanced by the Appellants to PC Computer due to them from it were also included under assets by the auditor. These total $121,739 and $164,025.31 (“Advanced Funds”) as at December 31, 2007 and December 31, 2008, respectively. [15] The Advanced Funds constitute yearly increases in the Restated Shareholder Loan Account (“account”).The numbers reflect all purchases made on behalf of PC Computer, and the deposited payments to the joint account from PC Computer that comprise the corporate TPS transactions. She said that sizeable business was going through the joint account and she tracked all the amounts the Appellants put into PC Computer noting Mr. Malkaya’s close involvement.
+Liabilities
+[31] The auditor’s analysis of the liabilities consisted of the Advanced Funds, personal loans, and credit cards. Although she was unsure how the Appellants arrived at the item “Allowance doubtful loans” on Ronald Ihasz’s revised net worth analysis (the “analysis”), she noted these coincide exactly with the Advanced Funds in the account each year. She highlighted that the account had ongoing activity (debits and credits) such that there is no point in time when it can be said such loans are doubtful during the relevant years. She articulated that funds are deposited into the joint account from PC Computer with it repaying any loans and then any purchases that are made in the current year. Further, had all sales been recorded during the relevant years, PC Computer would have been in a taxable position, and it is still operating.
+[32] Mr. Malkaya told Ms. Collings that PC Computer’s bills and credit cards were paid by personal loans the Appellants received from Wendell Szuch which were used to purchase inventory, to pay the Appellants’ credit cards used for its business expenses, and to provide cash advances to its customers. In 2006 and 2008, they jointly borrowed $150,000 and $230,000 (the “loans”), respectively. He produced a document titled “Series Form Promissory Note”, Exhibit A3, dated November 14, 2008, signed by them and Mr. Szuch (the “Note”) reflecting $380,000 in total.
+[33] Mr. Szuch testified that the loans were made to them a long time ago, but he could not recall when and later said it was about 15 years ago. He withdrew the funds for the loans each in a lump sum cash payment from his Bank of Montreal account. When asked about the terms for the loans, he said it was whenever they could pay him back; no payments have been made. His evidence was brief and short on detail. I found his evidence vague.
+[34] The auditor reviewed and summarized all receipts and cheques provided to her regarding the loans. [16] The amounts of $98,000 and $70,000 were allowed for 2007 and 2008, respectively, based on supporting documentation. [17] The purported $62,000 loan in 2008 (“$62,000 loan”) was disallowed without supporting documentation other than the Note.
+Personal expenses
+[35] The auditor said she determined the amounts of the Appellants’ known expenses based on all their credit card statements and bank statements. These were summarized with an ending balance of $127,021.25 for December 31, 2007, and $99,710.12 for December 31, 2008 (“personal expenses”). She recorded all transactions posted for the year for each credit card account, and summarized the expenses by category on a working paper, which lists all personal expenses and business purchases. [18] The total amounts and information for each category of personal expenses are summarized on the Personal Expenditures Master List. [19] The same approach was taken for bank statement transactions for each of 2007 and 2008. Mr. Malkaya’s only comment was that it is common for an individual to pay for corporate expenses with a credit card. The personal expenses went unchallenged. He did not testify to prove their personal expenses or confirm they did not incur such expenses or, if they did incur them, to prove the amounts. I am not satisfied the auditor made any mistakes in calculating the Appellants’ personal expenses.
+[36] The auditor sent proposal letters dated April 4, 2013, with a summary of the combined net worth assessment, to the Appellants with an explanation of the adjustments, particularized below. [20]
+[37] In June 2013, each Appellant was reassessed based on the combined net worth assessment with the unreported income being equally divided (the “equal division”) between them because it was assumed that they were shareholders of and involved in PC Computer, and they operated as one financial unit.
+[38] In reassessing the Appellants, CRA:
+a) added the Advanced Funds as yearly increases reflected in the “Restated Shareholder Loan Account” due from PC Computer for the relevant years; [21]
+b) allowed as liabilities’: [22]
+(i) $150,000 loan from Wendell Szuch in 2006 as “Private Mortgage as per Taxpayer”; and
+(ii) $168,000 loan from Mr. Szuch in 2008 as “Loan as per Receipt Book”.
+c) disallowed as a liability the $62,000 loan in 2008;
+d) summarized the personal expenses for the relevant years; [23]
+e) added $1,455 as “Net Rent Income” in 2007 as owners of 3 Robin Hood ; [24]
+f) increased each Appellant’s income by $33,273 and $158,212 in 2007 and 2008, respectively, as unreported shareholder benefits conferred on them; and
+g) imposed penalties in the amounts of $9,129.22 and $27,973.05 for 2007 and 2008, respectively, on the unreported income.
+[39] By letter dated March 20, 2015, the Appellants requested that the Minister reconsider the amount of Advanced Funds included in the calculation, and submitted that 80% of the Advanced Funds should have been considered impaired in the relevant years.
+[40] On March 31, 2015, the Minister confirmed the reassessments and penalties for 2007. On June 8, 2015, the Minister reassessed and allowed the Appellants’ objections, in part, for 2008. The shareholder benefit was decreased from $158,212 by $95,000 (to $63,212 for each Appellant) in 2008 representing a correction to the value of 79 Oxford as an asset. [25] The Minister also reduced the penalties to $11,927.87 for each Appellant in 2008. Accordingly, each Appellant was reassessed as follows:
+Unreported Rental
+Income
+Unreported
+Income
+Penalties
+2007
+$728
+$33,273
+$9,129.22
+2008
+$63,212
+$11,927.87
+[41] Ronald Ihasz, an accountant retained by the Appellants, testified he prepared a revised balance sheet analysis (“analysis”), Exhibit A1, based on Ms. Collings’ working papers. [26] Summarizing his analysis, he revised the assets, liabilities and determined that they had a combined net worth of $72,851.68 as of December 31, 2005, and a “negative net worth” as of December 31 for each of the ensuing three years. He said the Advanced Funds were injected into PC Computer to get it “off the ground”, and “should have been done like an Accounts Receivable system, only the current year end balance is the only asset it is not added to prior year balances” as supported by GAAP, and these constituted a cash portion to be added back. If the $62,000 was loaned, he said, there would be a negative situation with no assets because Mr. Szuch was owed $464,000 resulting in nil assessments.
+Parties’ positions
+[42] The Appellants’ position is they reported all income earned by them in the relevant years, they did not use their joint account to appropriate any of PC Computer’s revenue, and the adjustments made by the Minister do not relate to any income earned by them such that there was no unreported income. Further, the Minister’s method of calculation is flawed because of equal division of the total combined net worth assessment is inappropriate in their circumstances, 80% of the Advanced Funds should be deducted from taxable income as a debt (doubtful, impaired or bad), and the $62,000 loan was a liability resulting in a negative net worth situation during the relevant years. Hence, no penalties should be imposed.
+[43] The respondent disagrees and contends the Appellants appropriated PC Computers revenue by depositing payments, from sales, to their joint account in the relevant years used for personal purposes, and received rental income in 2007. Consequently, they made false statements or omissions in their returns by underreporting their income, and the Minister properly imposed penalties under subsection 163(2).
+III. ANALYSIS
+[44] Before turning to the issues, I will address the Appellants’ comment that it was reasonable for the Minister to use a combined net worth assessment when they resided together, and theirs and PC Computer’s books and records were properly maintained. Since a net worth assessment is a means of approximating a taxpayers income to determine the taxpayers tax liability in a given year and is used as a last resort in certain instances, including where books and records were not properly maintained, their comment is confusing.
+[45] In my view, the Appellants’ and PC Computer’s books and records were lacking. Mr. Malkaya had prepared computerized sales invoices without identifying the method of payment by the customer, there was no cash register, there were no controls regarding sales, and in cross-examination claimed certain sales receipts were actually for cash advances because he did not have the ability to print cash advance receipts. Further, he gave the external bookkeeper only sales invoices, expense invoices and the corporate bank statements; the bookkeeper summarized invoices by month. Significantly, the bookkeeper was unaware of and was not provided with the TPS statements in which electronic payments were processed nor was he given their joint account bank statements; the latter statements document all the deposited payments placed into their joint account for all PC Computer’s sales. This information was not given to the bookkeeper when preparing the corporate tax returns, nor were all sales invoices for the St. Catherines and Niagara Falls locations.
+[46] After the expense invoices are summarized, information is then entered into Simply Accounting but not all expenses were claimed because Mr. Malkaya decided he did not want PC Computer to be in a loss position. In reviewing the statements for personal credit cards obtained pursuant to the production orders, the auditor concluded that the purchases were supressed by approximately $70,000 a year.
+a) Unreported income
+[47] Turning now to the issue of unreported income. Subsection 152(7) authorizes the Minister to make a net worth assessment. It provides:
+The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+[48] In Ramey v The Queen, 93 DTC 791 at para 6, [1993] 2 CTC 2119, Justice Bowman, as he then was, observed that the net worth method of estimating income is an unsatisfactory and imprecise way of determining a taxpayer's income, assessments may be inaccurate, and used “as a last resort”.
+[49] In Hsu v The Queen, 2001 FCA 240, the Federal Court of Appeal acknowledged a net worth assessment is an arbitrary and imprecise approximation of a taxpayer’s income, and stated that: [27]
+Any perceived unfairness relating to this type of assessment is resolved by recognizing that the taxpayer is in the best position to know his or her own taxable income. Where the factual basis of the Minister's estimation is inaccurate, it should be a simple matter for the taxpayer to correct the Minister's error to the satisfaction of the Court.
+[50] Since the taxpayer knows his or her financial affairs better than the Minister, a taxpayer can either demonstrate what income he or she actually earned in a taxation year, or absent documentary evidence, show that the Minister’s method of calculating the net worth assessment was flawed. [28] With respect to the second method, in Bigayan the Court pointed out that:
+4. This method of challenging a net worth assessment is accepted, but even after the adjustments have been completed one is left with the uneasy feeling that the truth has not been fully uncovered. Tinkering with an inherently flawed and imperfect vehicle is not likely to perfect it…
+[51] In Sprio v The Queen, 2009 TCC 275, the Minister used a combined net worth assessment to determine income tax liability by combining Mr. Sprio’s, his parents and his girlfriends assets and liabilities because they intermingled their affairs, he reported very low income and enjoyed an extravagant lifestyle. [29] Justice Lamarre (as she then was) found that the approach was more than justified in the circumstances. She noted that subsection 152(7) does not specify how the Minister must calculate a net worth assessment, and may apply whatever methodology she sees fit.
+[52] In the present appeals, a combined net worth assessment was appropriate, in my view, given the Appellants’ business dealings, loans and financial affairs were intertwined, as acknowledged by Mr. Malkaya. Again, they owned property together, equally shared and accessed their joint account into which the deposited payments belonging to PC Computer were made, and from which business and personal expenses were paid. The auditor testified it was not possible to isolate one property from another given “all the intertwining of only one account between the two of them”, and Mrs. Malkaya did not have a bank account. Further, everything was combined, everything was paid through their joint account (including personal and business items) regardless of who held the credit card, they paid each others’ bills, and they jointly owned property.
+[53] The taxpayer has the burden of proof to rebut the Minister’s assumptions of fact on a balance of probabilities. [30] Thus, the Appellants must prove mistakes were made in the net worth calculations.
+[54] The Minister assumed, amongst other things, that the Appellants appropriated PC Computer’s revenue because during the relevant years the deposited payments were placed into their personal joint account, often in cash, and they used those deposits for personal purposes. When asked in cross-examination why the deposited payments were not placed into PC Computer’s corporate bank account, Mr. Malkaya indicated that TPS required payments to be deposited into a bank account with overdraft protection, which the corporate bank account did not have. The Appellants provided no proof to confirm TPS’ requirement. I am not persuaded overdraft protection was the reason that the deposited payments were placed into the Appellants’ joint account.
+[55] The Appellants’ first argument that they “reported every penny” of the income they actually earned and lived a modest lifestyle does not ring true. The personal expenses, at paragraph 35 of these reasons, alone far exceed the Malkaya’s combined reported income of $30,680 for both years, noting that they also said the loans covered some expenses. In addition, on May 11, 2007 each Appellant had applied for five tax-cab licences from the local authorities, the total application fee costs is $13,500 compared with their combined reported income of $17,000 for 2007.
+[56] In cross-examination, it was established that credit card applications completed in the fall of 2006 and 2008 by Mr. Malkaya indicate his annual income was $40,000, and $60,000, and was employed by PC Computer. Mrs. Malkaya’s President’s Choice Financial MasterCard Application in 2006 indicates her annual income is $98,000, and she is a “computer tech”. [31] He disavowed that information, remarked that the annual income for each of them did not reflect reality, and stated that “everyone” misstates their income on credit card applications.
+Rental Income
+[57] The Minister further assumed the Appellants received rental income in 2007. Mr. Malkaya claims Mr. Viggars, their friend, was allowed to stay rent free at 3 Robin Hood in 2007. He stated that although the cheque, in the amount of $1,455, issued by Jake Viggars to him indicates “October rent”, it was a one-time reimbursement for three months’ worth of utility bills. It is implausible to me that someone would specify rent on a cheque that was purportedly for reimbursement of three months of utility bills, nor were the utility bills produced to corroborate Mr. Malkaya’s assertion.
+[58] The auditor had obtained the cheque pursuant to the production orders, verified that rental income had not been reported by the Appellants in their tax returns, and had contacted Mr. Viggar’s spouse whom confirmed that she and her husband rented the upstairs of 3 Robin Hood from October 2007 to August 2008; others lived downstairs. Mr. Malkaya did not reside at that property during that period. [32]
+[59] Mr. Malkaya was not a credible witness. There were inconsistencies as between his testimony and documents, inconsistencies between his testimony and previous statements made by him, and there were inconsistencies within his own testimony. Apart from other examples in these reasons, he had initially testified that he only used the joint account and credit cards for business purposes. Yet, he later agreed in cross-examination both were used for a multitude of personal transactions, as evidenced by the Respondent’s documentary production. In considering what would account for the discrepancies between the increase in net worth and reported income for in the relevant years, Mr. Malkaya offered no credible explanations nor presented evidence that would warrant any change or adjustment to the combined net worth assessment.
+[60] I prefer and accept the evidence provided by Ms. Rancourt. She was methodical, and her analysis logical based on the information available to her. I find that PC Computer’s funds were appropriated by having all the deposited payments from credit and debit cards placed into the Appellants joint account in the relevant years, and they used the funds to pay personal expenses (to support their lifestyle) and corporate expenses. I also find that they received rental income in 2007.
+[61] The Appellants second argument is that the method of calculating the combined net worth assessment is flawed. Three submissions were made. First, equal division of the unreported income is inappropriate because they separated in 2007, they were not one financial unit, he was the sole shareholder and Mrs. Malkaya had “nothing to do” with PC Computer.
+[62] While they divorced in 2014, and I accept the Appellants had marital difficulties, I do not accept that they were separated and living apart in the relevant years. Assertions regarding their separation without documentary evidence to show arrangements were made for the Appellants to sever ties are unconvincing. Mr. Malkaya’s testimony that Mrs. Malkaya moved from 3 Robin Hood to 125 Redwood, and he lived in Mr. Ihasz’s basement, conflicts with what he had previously told the auditor. That is, he had resided at 187 King even though those business premises have no living quarters. Although Mrs. Malkaya is described as the owner of 125 Redwood, when it was purchased in August 2007 the funds to purchase it came from their joint account and the Bank of Montreal, and the Offer to purchase is signed by both Appellants as purchasers.
+[63] The evidence establishes the Appellants lived at 3 Robin Hood up to the fall of 2007, and then rented it to others. I infer and find that the Appellants and their children moved to the 125 Redwood in the fall of 2007 and resided there in 2008 consistent with utility bills in 2007 and 2008 and an invoice for furniture in November 2007, that indicate Mr. Malkaya also resided at 125 Redwood. I observe that the provincial court Order issued in February 2013 and Exhibit A, an inventory of things seized by CRA, describe 79 Oxford as the “Personal Residence” of the Appellants in March 2012.
+[64] The Malkaya’s claim there was not one financial unit in the relevant years is unsupported by the evidence. Evidence outlined at paragraphs 10, 11 and 52 of these reasons indicates, in my view, one financial unit.
+[65] I do not believe Mr. Malkaya’s claim he was the sole shareholder of PC Computer in the relevant years. In cross-examination, he said that initially both Appellants were shareholders. Previously he had told Mrs. Collings in March 2009 he was to purchase Mrs. Malkaya’s 20% shareholding, but then said he could not pay for the shares but nevertheless transferred her shares to him. [33] Nor do I believe that Mrs. Malkaya had nothing to do with PC Computer in 2008 or earlier. He had testified she worked part-time around the store doing “small stuff”, and helped when he was unavailable. She also made cash infusions into it from their joint borrowings, regularly made business purchases using their credit cards to pay for inventory and business expenses and the deposited payments were placed into their joint account that she accessed. Her co-ownership in the business premises at 187 King remained intact. I find that Mr. Malkaya was an 80% shareholder and Mrs. Malkaya was a 20% shareholder of and involved in PC Computer in 2007 and 2008.
+[66] Second, the Appellants submit, as supported by Mr. Ihasz’s analysis, there should have been an 80% (of Advanced Funds) “Allowance for Doubtful loans” deducted from taxable income for the shareholder loan account such that the amount of the balance at the end of each year should be found to be doubtful. They say this is because these constitute doubtful, impaired or bad debts. They relied on paragraph 20(1)(l), for doubtful or impaired, because the loans were freighted with high risk in the relevant years. Alternatively, paragraph 20(1)(p) as bad debts. However, the fact is there was ongoing activity in the account, and if all sales were recorded it would have been in a taxable position which undermines their submission.
+[67] Even if I were to accept that PC Computer was “technically” insolvent during the relevant years as they suggest, which I do not, they did not demonstrate any such risk (to suggest doubtful or impaired). Nor tender any evidence as to how they made their determination it was a bad debt in order to satisfy the conditions for deductibility under either provision. In any event, had they believed that the Advanced Funds were doubtful or impaired debts, they ought to have been deducted under paragraph 20(1)(l) each year, and then included in income the following year for as long as the debts were doubtful. Had they determined that the Advanced Funds were bad debts, they ought to have been deducted under paragraph 20(1)(p). They did neither.
+[68] Third, the Appellants submit that a $62,000 loan was borrowed by them, as supported by the Note, and is still owed to Mr. Szuch. Therefore, it should be reflected as a liability in 2008. During cross-examination, Mr. Ihasz identified the fax sent to CRA in September 2014 together with another Series Form Promissory Note (“faxed Note”). [34] The faxed Note is virtually identical to the Note, except Dave Miller’s signature, as witness, is in the Note only. Mrs. Malkaya signed as a witness on the faxed Note, and as a promissor on the Note. Mr. Ihasz was unable to explain why there are two versions for the same loans, agreed he had no direct knowledge of the $62,000 loan (or the loans), knows only what the Appellants told him, nor had he made any independent verification of the matters at hand in preparing his analysis. He confirmed he only became involved in May 2013 when reassessing. I do not attach any evidentiary weight to the faxed Note, the Note, and reject Mr. Ihasz’s evidence and analysis.
+[69] The only other evidence was the testimony of Mr. Malkaya and Mr Szuch, but neither produced documents such as bank statements showing debits or credits to their banks accounts at the time of the purported $62,000 loan that could corroborate the existence of the loan. Given that, I am not convinced on a balance of probabilities that Mr. Szuch loaned the Appellants $62,000.
+[70] The Appellants have not discharged the burden on them nor offered credible explanations for the discrepancies as determined in the Minister’s combined net worth assessment. Looking at the evidence as a whole, the conclusion I draw is more consistent with the Appellants having unreported income that explains their increase in net worth during the relevant years.
+b) Penalties
+[71] Given my finding that there was unreported income in the relevant years, I now turn to issue of penalties on the unreported income.
+[72] Subsection 163(2) authorizes the Minister to impose a penalty if a taxpayer knowingly or under circumstances amounting to gross negligence made a false statement or omission in a tax return.
+[73] The Minister bears the burden of establishing the facts justifying the assessment of the penalty. [35] The Minister must prove that the taxpayer made a false statement or omission in a tax return, and that the false statement or omission was made knowingly or under circumstances amounting to gross negligence. [36]
+[74] The concepts of knowledge and gross negligence in subsection 163(2) are not conjunctive, and the Minister only needs to prove one. [37]
+[75] In the oft-cited decision Venne v The Queen, [1984] CTC 223, Justice Strayer defines gross negligence at paragraph 37:
+…“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[76] Recently, in Deyab v The Queen, 2020 FCA 222, the Federal Court of Appeal confirmed that the type of “Conduct that would justify the assessment of a gross negligence penalty is conduct that is tantamount to intentional acting.” [38] It cited the Supreme Court of Canada in Guindon v The Queen, 2015 SCC 41 and its endorsement of the descriptions of gross negligence for the purposes of subsection 163(2), encapsulated in the following paragraphs from Guindon, in which the Supreme Court instructs:
+[59] The expressions “shows an indifference as to whether this Act is complied with” and “tantamount to intentional conduct” originated in the jurisprudence on the gross negligence penalty applicable directly to taxpayers in s. 163(2) of the ITA, which states:
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of . . . . [Penalty calculations omitted.]
+[60] The Minister states in her factum that “culpable conduct” in s. 163.2 of the ITA “was not intended to be different from the gross negligence standard in s. 163(2)”: para. 79. The Federal Court in Venne v. The Queen, [1984] C.T.C. 223 (T.D.), in the context of a s. 163(2) penalty, explained that “an indifference as to whether the law is complied with” is more than simple carelessness or negligence; it involves “a high degree of negligence tantamount to intentional acting”: p. 234. It is akin to burying one’s head in the sand: Sirois (L.C.) v. Canada, 1995 CarswellNat 555 (WL Can.) (T.C.C.), at para. 13; Keller v. Canada, 1995 CarswellNat 569 (WL Can.) (T.C.C.). The Tax Court in Sidhu v. R., 2004 TCC 174, [2004] 2 C.T.C. 3167, explaining the decision in Venne, elaborated on expressions “tantamount to intentional conduct” and “shows an indifference as to whether this Act is complied with”:
+Actions “tantamount” to intentional actions are actions from which an imputed intention can be found such as actions demonstrating “an indifference as to whether the law is complied with or not”… The burden here is not to prove, beyond a reasonable doubt, mens rea to evade taxes. The burden is to prove on a balance of probability such an indifference to appropriate and reasonable diligence in a self-assessing system as belies or offends common sense. [para. 23]
+[77] There must be clear justification for a penalty. Evidence adduced in support of the penalty must be scrutinized with great care. [39] If there is any doubt in the evidence, the taxpayer must receive the benefit of the doubt. [40]
+[78] The auditor testified that penalties were assessed because of materiality of the increase in income (unreported income totalling $192,970), the bookkeeper was not given complete or accurate books and records for determining accurate tax liability, and the income reported by both Appellants on their tax returns (totalling $30,680) would not sustain their lifestyle nor cover their living expenses. She noted that the reported net income for PC Computer in each of 2006 and 2007 was nil even though for the relevant years, Mr. Malkaya knew that PC Computer had earned income as the majority of unreported sales were deposited into the Appellants’ joint account. When the corporate income in 2007 had been reduced to nil, $15,000 was remaining which was reported by Mr. Malkaya as a management fee, thus determined by the income earned by PC Computer.
+[79] The Respondent argues that the evidence demonstrates, on a balance of probabilities, the Appellants knew about the omission of unreported income for the relevant years or it was attributable to gross negligence. They were aware corporate funds were appropriated by having the deposited payments placed in their joint account and knew what they were doing; they then used those funds to pay both personal and business expenses.
+[80] Liability for penalties must be determined separately for each Appellant.
+[81] Since I concluded that each Appellant had unreported income, this establishes the first element that there were false statements or omissions made in the returns in the relevant years.
+[82] The question then becomes were the false statements or omissions made as a result of the Appellants knowing or under circumstances amounting to gross negligence. No satisfactory explanation was provided for the failure to report all income. It is improbable to me that that their combined reported income would have supported a family of six during the relevant years even if they lived a modest lifestyle. For the reasons that follow, I conclude Mr. Malkaya knowingly or under circumstances amounting to gross negligence made misrepresentations in his tax returns for the relevant years. I have reached a contrary conclusion with respect to Mrs. Malkaya.
+[83] The Appellants submit there was no reported income, and hired and relied on a professional bookkeeper to prepare their tax returns because they lacked knowledge regarding accounting and tax matters. They assumed he had the expertize, they assumed their income was accurately reported, and at the time of signing their returns were unaware of any discrepancy between their respective taxable income and the amounts reported.
+[84] That submission can not succeed in my view. The expectation that income would be accurately determined and reported is premised on the bookkeeper having been supplied with accurate information and complete documentation in the first place. Neither was done. Nor can a taxpayer avoid a penalty by passing responsibility for preparation of income tax returns to another individual. Ultimately, taxpayers, the Appellants included, are responsible for ensuring the content and accuracy of their own tax returns independent from a tax preparer.
+[85] Mr Malkaya graduated with a mechanical engineering degree in 1992, and then worked as an aircraft engineer in Istanbul, Turkey until 1997. Mrs. Malkaya completed high school. Again he was “closely” involved with PC Computer and familiar with all aspects. He maintained its records, interacted with the bookkeeper, including selecting what information or documentation would be given to the bookkeeper, and decided which expenses to claim and formulated a rationale for those not claimed. Clearly, he was the decision maker, and had input into and signed the corporate tax returns. His conduct in not disclosing the information and then accessing the funds for personal purposes was consistent with concealing material amounts of taxable income, and the unreported income is material compared to the reported income. I find that Mr. Malkaya had unreported income, used the deposited payments to fund personal expenses, and the failure to report such income was done either knowingly or as a result of gross negligence. If he was unaware of the unreported income, it can only be wilful blindness. A penalty for each year is justifiable in his situation.
+[86] Conversely, penalties are not justifiable as it relates to Mrs. Malkaya. Her role with PC Computer was much more limited.There was no evidence that she was involved in the activities Mr. Malkaya was involved in, described in the preceding paragraph, nor made decisions on corporate matters. I have some doubt if she was even aware of the limitations Mr. Malkaya had placed on the provision of information and documentation to the bookkeeper or understood what had transpired or the implications. I find that Mrs. Malkaya had unreported income, that it was used to fund personal expenses, but the failure to report such income was not done knowingly or through gross negligence on her part.
+IV. CONCLUSION
+[87] As a consequence of the Respondent’s concession, the appeals of the reassessments for Mr. Malkaya and Mrs. Malkaya for the 2006 taxation year are allowed, and are to be referred back to the Minister for reconsideration and reassessment.
+[88] With respect to the 2007 and 2008 taxation years:
+The Appellants have failed to discharge their onus regarding the unreported income;
+The Minister has satisfied her onus regarding the imposition of penalties as it relates to Mr. Malkaya, but not as it relates to Mrs. Malkaya;
+Mr. Malkaya’s appeals of the reassessments are dismissed in full; and
+Mrs. Malkaya’s appeals of the reassessments are dismissed regarding the unreported income, and allowed regarding the penalties which are to be deleted.
+[89] There will be one set of costs for both appeals awarded to the Respondent in accordance with the Tariff. The Appellants are to pay the costs to the Respondent within 45 days of this Judgment.
+Signed at Ottawa, Canada, this 5th day of August, 2022.
+“K. Lyons”
+Lyons J.
+CITATION:
+2022 TCC 89
+COURT FILE NO.:
+2015-3157(IT)G; 2015-3156(IT)G
+STYLE OF CAUSE:
+BULENT MALKAYA AND HER MAJESTY THE QUEEN; RUKIYE MALKAYA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 15 to 18, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+August 5, 2022
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo C. Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The unreported income comprise of benefits conferred on the Appellants as shareholders in the relevant years and rental income in the 2007 taxation year.
+[2] It was confirmed Wendell Szuch sold gold to Coins Unlimited, and he then loaned $84,000 to Mr. Malkaya which remains outstanding. The Respondent conceded that loan as a liability for 2006 and the relevant years. Income of $24,987 and a penalty of $5,646.54 reassessed to each Appellant in 2006 was incorrect.
+[3] Order of January 22, 2013, Return Things Seized, signed by a Justice of the Peace for the Province of Ontario, ordered seized documents from the Appellants’ residence, 187 King, Irv. Cochrane and another business entity are to be returned to them. Records seized include emails, receipts, supplier and sales invoices, chequebooks, bank statements, bankbooks, mortgage documents, personal receipts and expenses, land documents etc.
+[4] Exhibit R11.
+[5] Income Tax Act, RSC, 1985, c 1 (5th Supp).
+[6] Sears, Canadian Tire Master Card, Leons, and The Brick credits are in his name, and CIBC Visa, American Express, Sears, The Brick, and President’s Choice are in her name.
+[7] 1999 Volkswagen Jetta, a 2004 Lincoln Navigator, a 1999 Pontiac Trans Sport, and a 2006 BMW 325.
+[8] Mr. Malkaya indicated that the store at another location belonged to a third party; PC Computer only sold inventory wholesale to that store.
+[9] Respondent’s Book of Documents for Mr. Malkaya (“RBOD”), Tab 1, Tabs 28 and 29.
+[10] RBOD, Tab 5.
+[11] Reply to Notice of Appeal, Schedule 3 for each Appellant. Exhibits R2 and R7.
+[12] RBOD, Tab 39; Summary of Canadian Tire card/Master Card ending in number 5917, 2006 shows purchases from Harmony. Exhibits R22 and R23.
+[13] Once the increase (or decrease) in the net worth was calculated for a particular year, adjustments such as personal expenditures are made to determine the total income of the individual, to establish the income tax net worth discrepancy. The individual’s net worth at the start of the period (the opening balance of the net worth) must be determined, established by the previous one year of records of assets and liabilities.
+[14] Exhibit R19.
+[15] Total funds as at December 31, 2005, the starting point, was $23,492.
+[16] RBOD, Tab 89. Exhibits R21 and A5.
+[17] Verified two cheques were issued by Mr. Szuch to the Appellants.
+[18] RBOD, Tabs 34 and 35. Exhibit R31 relates to Tab 34 Master List. Categories for personal expenses: stores, restaurants, property taxes, utilities, telephone, household goods, clothing, gas, travel dental, personal care, recreation, gifts, bank charges, interest, immigration, vehicle and life insurance, and property and maintenance for transport and shelter.
+[19] RBOD, Tabs 51 to 67 (Master List and working papers) for 2007, and Tabs 68 to 86 (Master List and working papers) for 2008. Exhibits R33 and R34.
+[20] RBOD, Tab 4.
+[21] Reply to Notice of Appeal, Schedule 1, for each Appellant.
+[22] Reply to Notice of Appeal, Schedule 2, for each Appellant.
+[23] Reply to Notice of Appeal, Schedule 4, for each Appellant.
+[24] Reply to Notice of Appeal, Schedule 5, for each Appellant.
+[25] Ronald Ihasz had not realized CRA appeals made this adjustment until the hearing.
+[26] He is a retired CPA, CMA tax manager, a former provincial auditor and a retail sales tax auditor with experience preparing net worth assessments.
+[27] Hsu, para 31, cites Bigayan v The Queen, 2000 DTC 1619, (TCC) paragraph 2.
+[28] Bigayan, paragraph 3.
+[29] Sprio v The Queen, 2009 TCC 275 at paragraph 31. Mr. Sprio, convicted and sentenced to four years in prison for conspiring to import drugs, did not have a bank account, and used his parents and his girlfriend’s bank accounts for his transactions; one of his parents’ accounts were used by him to pay all construction costs of the new home. In Francisco v The Queen, [2003] 2 CTC 2378, 2003 DTC 3958 (Informal Procedure), Justice Bowie rejected a combined net worth assessment (of common law spouses who operated a business together) to estimate their combined income. Justice Lamarre noted in Sprio that since the decision in Francisco the method has been used and accepted by the Courts in some circumstances and confirmed by the Federal Court of Appeal.
+[30] Estra Flooring Services Ltd. v the Queen [2021] TCC 20 at paragraph 31.
+[31] Exhibit R13, Enterprise Personal Credit Account Application, and Canadian Tire, and Exhibit R15, President’s Choice Financial MasterCard Application 2006.
+[32] RBOD, Tab 25, page 12 and Tab 9. Exhibits R35 and R17, respectively.
+[33] RBOD, Tab 24. CRA Memo for File.
+[34] RBOD, Tab 16.
+[35] Subsection 163(3).
+[36] Corriveau v The Queen, [1999] 2 CTC 2580 at paragraph 26, 99 DTC 3485 (Informal Procedure). This test was recently confirmed in Deyab v. The Queen, 2020 FCA 222.
+[37] Wynter v R, 2017 FCA 195, paragraph 11. Confirmed in Paletta v R, 2022 FCA 86.
+[38] Deyab, paragraph 63.
+[39] Menash v The Queen, 2008 TCC 378.
+[40] Farm Business Consultants Inc. v The Queen, [1994] 2 CTC 2450 at paragraph 27, 95 DTC 200 aff’d [1996] 2 CTC 200, 96 DTC 6085 (FCA).

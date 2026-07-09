@@ -1,0 +1,379 @@
+Title: Uppal v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25962/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-255-25962-uppal-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-03-31
+
+# Uppal v. M.N.R.
+
+- Citation: 2004 TCC 255
+- Decision date: 2004-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3760, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Uppal v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-31
+Neutral citation
+2004 TCC 255
+File numbers
+2002-1130(EI)
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-1130(EI)
+BETWEEN:
+BHAJAN SINGH UPPAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with appeals 2002-1374(EI) and 2002-1375(EI) on March 20 and 21, 2003, at Vancouver, British Columbia,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Avtar Dhinsa
+Counsel for the Respondent:
+Johanna Russell
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act, is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of that Act is vacated on the basis that the Appellant was engaged in insurable employment by Randhawa Farm Contractors Ltd. within the meaning of paragraph 5(1)(a) of the Act for the period April 7 to August 23, 1997.
+Signed at Ottawa, Canada, this 31st day of March, 2004.
+"M.A. Mogan"
+Mogan J.
+Docket: 2002-1374(EI)
+BETWEEN:
+BHAJAN SINGH UPPAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with appeals 2002-1130(EI) and 2002-1375(EI) on March 20 and 21, 2003, at Vancouver, British Columbia,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Avtar Dhinsa
+Counsel for the Respondent:
+Johanna Russell
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act, for the periods April 15 to August 31, 1996 and June 24 to October 8, 1999, is dismissed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of that Act is confirmed.
+Signed at Ottawa, Canada, this 31st day of March, 2004.
+"M.A. Mogan"
+Mogan J.
+Docket: 2002-1375(EI)
+BETWEEN:
+BHAJAN SINGH UPPAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with appeals 2002-1130(EI) and 2002-1374(EI) on March 20 and 21, 2003, at Vancouver, British Columbia,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Avtar Dhinsa
+Counsel for the Respondent:
+Johanna Russell
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act, for the period June 29 to October 24, 1998, is dismissed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of that Act is confirmed.
+Signed at Ottawa, Canada, this 31st day of March, 2004.
+"M.A. Mogan"
+Mogan J.
+Citation: 2004TCC255
+Date: 20040331
+Docket: 2002-1130(EI)
+2002-1374(EI)
+2002-1375(EI)
+BETWEEN:
+BHAJAN SINGH UPPAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] The Appellant has three separate appeals before the Court identified by the following Court File Numbers: 2002-1130; 2002-1374; and 2002-1375. All three appeals were heard together on common evidence. The issues in those appeals are whether the Appellant was engaged in insurable employment in the following four periods:
+1996 April 15 to August 31
+1997 April 7 to August 23
+1998 June 29 to October 24
+1999 June 24 to October 8
+[2] For each period, the Minister of National Revenue concluded that the Appellant's employment was excluded from insurable employment because (i) the Appellant was not at arm's length with his employer; and (ii) the Minister was not satisfied that the Appellant and his respective employer would have entered into a substantially similar contract of employment if they had been dealing at arm's length. The Appellant admits that, for each period, he and his respective employer were not at arm's length. The only question then, for each period, is whether the Appellant and the employer would have entered into a substantially similar contract of employment if they had been dealing at arm's length. These appeals arise out of the following provisions of the Employment Insurance Act:
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person ...
+(b) ...
+5(2) Insurable employment does not include
+(a) ...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[3] Paragraph 5(3)(b) and its predecessor in the Unemployment Insurance Act (subparagraph 3(2)(c)(ii)) have been the subject of much litigation. The decision of the Federal Court of Appeal in Tignish Auto Parts Inc. v. M.N.R., [1994] F.C.J. No. 1130, established the principle that the Minister has a discretion under paragraph 5(3)(b). That principle was explained by Isaac C.J. as follows in Jencan Ltd. v. Attorney General of Canada, [1997] F.C.J. No. 876:
+31 The decision of this Court in Tignish, supra, requires that the Tax Court undertake a two-stage inquiry when hearing an appeal from a determination by the Minister under subparagraph 3(2)(c)(ii). At the first stage, the Tax Court must confine the analysis to a determination of the legality of the Minister's decision. If, and only if, the Tax Court finds that one of the grounds for interference are established can it then consider the merits of the Minister's decision. As will be more fully developed below, it is by restricting the threshold inquiry that the Minister is granted judicial deference by the Tax Court when his discretionary determinations under subparagraph 3(2)(c)(ii) are reviewed on appeal. ...
+33 ... The jurisdiction of the Tax Court to review a determination by the Minister under subparagraph 3(2)(c)(ii) is circumscribed because Parliament, by the language of this provision, clearly intended to confer upon the Minister a discretionary power to make these determinations. The words "if the Minister of National Revenue is satisfied" contained in subparagraph 3(2)(c)(ii) confer upon the Minister the authority to exercise an administrative discretion to make the type of decision contemplated by the subparagraph. Because it is a decision made pursuant to a discretionary power, as opposed to a quasi-judicial decision, it follows that the Tax Court must show judicial deference to the Minister's determination when he exercises that power. ...
+37 On the basis of the foregoing, the Deputy Tax Court Judge was justified in interfering with the Minister's determination under subparagraph 3(2)(c)(ii) only if it was established that the Minister exercised his discretion in a manner that was contrary to law. And, as I already said, there are specific grounds for interference implied by the requirement to exercise a discretion judicially. The Tax Court is justified in interfering with the Minister's determination under subparagraph 3(2)(c)(ii) (by proceeding to review the merits of the Minister's determination) where it is established that the Minister: (i) acted in bad faith or for an improper purpose or motive; (ii) failed to take into account all of the relevant circumstances, as expressly required by paragraph 3(2)(c)(ii); or (iii) took into account an irrelevant factor.
+[4] As I understand the law, the first stage of the inquiry is to determine the legality of the Minister's decision. In other words, did the Minister (i) act in bad faith or for an improper purpose; (ii) fail to consider all relevant circumstances; or (iii) take into account an irrelevant factor? If I conclude that the Minister exercised his discretion within the law, then his decision must stand. But if I conclude that the Minister exercised his discretion in a manner contrary to law, then I may embark upon the second stage to consider the merits of the Minister's decision. In theory, the two-stage inquiry for appeals under paragraph 5(3)(b) is clearly the correct approach but, in practice, when a judge starts on the first stage of the inquiry, he or she must review all of the evidence and, in doing so, the judge consciously or subconsciously is involved in the second stage of considering the merits of the Minister's decision.
+[5] I will first consider whether the Minister exercised his discretion within the law. The Appellant has made no allegation of bad faith or improper purpose against the Minister. Therefore, I will consider only whether the Minister failed to consider all relevant circumstances or took into account any irrelevant factor. Although the Appellant admits that he was not at arm's length with his employer in any relevant period, it is necessary to set out the details of the non-arm's length relationships.
+[6] The Appellant and his wife, Jagrajbir Uppal, lived at 387 Defehr Road, Abbotsford, British Columbia at all relevant times from after the early 1990s. The property at 387 Defehr Road comprised five acres on which the Appellant and his wife grew blueberries to sell. They had two sons: Pavenvir born in 1980 and Gurminder born in 1983. In 1995, the Appellants' wife and her sister, Mrs. Bhalvinder Thandi, purchased a 20-acre farm near Mission, British Columbia. Abbotsford and Mission are adjoining municipalities in the lower Fraser Valley of British Columbia about 20 kilometres apart. The Appellant's wife and Mrs. Thandi operated their new farm under the business name "B & J Farms". It was not a corporation. The Appellant was employed by B & J Farms for the following two periods which are part of these appeals;
+1996 April 15 to August 31 - 139 days (20 weeks)
+1999 June 24 to October 8 - 107 days (15 weeks)
+[7] Kanwarbir Randhawa is the Appellant's brother-in-law being the brother of the Appellant's wife and Mrs. Thandi. Mr. Randhawa operated a farm and he also carried on a contractor business providing farm labour to various farms in the lower Fraser Valley. The contractor business was carried on by Randhawa Farm Contractors Ltd., a corporation owned by Mr. Randhawa. In 1997, the Appellant was employed by Randhawa Farm Contractors Ltd. and, in 1998, he was employed by Randhawa Farms which was Mr. Randhawa's farm at 221 Defehr Road, Abbotsford. The relevant working periods were:
+1997 April 7 to August 23 - 139 days (20 weeks)
+1998 June 29 to October 24 - 118 days (17 weeks)
+Employment in 1996 and 1999
+[8] Having regard to the facts summarized in paragraphs 6 and 7 above, the Minister made his determinations under paragraph 5(3)(b), or its predecessor, denying insurable employment to the Appellant. I propose to consider first the Appellant's employment by B & J Farms in 1996 and 1999 because those two periods include the first year under appeal. The Appellant's appeal for 1996 and 1999 is Court File Number 2002-1374. The Respondent's Reply in Court File 2002-1374 sets out the assumptions of fact relied on by the Minister. Those facts taken from paragraph 3 of the Reply are:
+a) B & J Farms operates greenhouses located in the Matsqui Flats area of the Fraser Valley;
+b) the greenhouses take up approximately 2½ acres of a 20 acre parcel of land;
+c) B & J Farms is a partnership between the Appellant's spouse, Jagrajbir Uppal and the Appellant's sister-in-law, Bhalvinder Thandi;
+d) the greenhouse crop consists mainly of peppers;
+e) the Appellant's duties during the Periods were to straighten out the water pipes, tighten clamps, check the crop for disease, fertilize the crop, remove the picked peppers, supervise and other general duties;
+f) the Appellant kept track of his hours and handed this record to B & J Farms at the end of each week;
+g) B & J Farms owned all the tools and equipment necessary for the Appellant to perform his duties;
+h) before the Appellant was hired and subsequent to his being laid off his duties were performed by family members;
+i) the Appellant worked between 9 and 11 hours per day;
+j) B & J Farms set the Appellant's wage at $7.00 per hour and this rate was later increased to $9.00 per hour;
+k) most of the non-related workers were paid the minimum hourly wage during the Periods;
+l) the Appellant was not paid by B & J Farms on a regular or timely basis;
+m) B & J Farms issued a cheque to the Appellant dated August 11, 1998 for the amount of $4,000.00 and this cheque was cashed on October 4, 1999;
+n) the non-related workers were paid on a regular basis by B & J Farms;
+o) the Appellant performed duties for B & J Farms before and after the Period and he was not paid for these duties nor was he shown as being on B & J Farms payroll for this work;
+p) the Appellant and his souse, Jagrajbir Uppal operated their own farm during the 1996, 1997, 1998, 1999 and 2000 taxation years;
+q) the Appellant was related to B & J Farms within the meaning of subsection 251(2) of the Income Tax Act (the "IT Act");
+r) the Appellant and B & J Farms were not dealing with each other at arm's length within the meaning of section 251 of the IT Act during the Period; and
+s) having regard to all the circumstances of employment, including the remuneration paid, the terms and conditions of employment, the duration and the nature and importance of the work performed, the Appellant and B & J Farms would not have entered into a substantially similar contract of employment had the Appellant and B & J Farms been dealing at arm's length.
+[9] The Appellant was employed by B & J Farms in 1995 but that period of employment is not involved in these appeals. The Appellant did not participate in the business (profit or loss) of B & J Farms and he did not do any bookkeeping or provide any administration. The Appellant does not read or write and he speaks very little English although he has resided in Canada since 1979. Most of his evidence was given through a Punjabi interpreter. He has a driver's licence and a special licence which permits him to transport passengers (up to 15) in a van. In 1996, all of the B & J Farms land was used to grow strawberries. The Appellant was paid a salary of $600 per week to perform the following tasks:
+- each day, he picked up and dropped off four workers using his own car;
+- he and others picked strawberries;
+- he delivered strawberries to the cannery;
+- he sprayed the plants and did some digging.
+[10] The first page of Exhibit A-1 is the Appellant's Record of Employment ("ROE") for 1996 showing that he worked 20 weeks and earned $12,000 which is consistent with his weekly salary of $600. The remaining pages in Exhibit A-1 are the ROEs for the other five employees of B & J Farms in 1996. Combining Exhibit A-1 with Exhibit A-7, the following facts are established for the six employees of B & J Farms in 1996:
+Name
+No. of Weeks
+Pay Per Week
+Last Day of Work
+B.Uppal
+(Appellant)
+20
+$600
+Aug. 31
+J. Dherari
+3
+$400
+Aug. 31
+D. Sahota
+20
+$400
+Sept. 21
+P. Sahota
+20
+$400
+Sept. 21
+A. Sahota
+20
+$350
+Sept. 21
+B. Sahota
+26
+$420 *
+Oct. 5
+* $7.50 per hour for 56-hour week
+[11] There is a problem comparing the facts assumed by the Minister with the evidence concerning the Appellant's employment at B & J Farms because, in the Respondent's Reply for Court File No. 2002-1374, the same facts appear to have been assumed for both 1996 and 1999 when the evidence disclosed different circumstances for those years. For example, when the Appellant's wife and Mrs. Thandi purchased the 20 acres near Mission in 1995, there was no greenhouse and they grew only strawberries. They built their first one-acre greenhouse in 1997 and added a 1½-acre greenhouse in 1999. The Appellant claims to have had different responsibilities in those years. I will consider only those facts assumed by the Minister which appear to distinguish the Appellant from other employees at B & J Farms.
+[12] The Minister assumed the following facts already set out in paragraph 8 above:
+m) B & J Farms issued a cheque to the Appellant dated August 11, 1998 (sic) for the amount of $4,000.00 and this cheque was cashed on October 4, 1999;
+n) the non-related workers were paid on a regular basis by B & J Farms;
+These facts make it appear that the Appellant was paid on a less frequent basis than non-related workers. The evidence for 1996 clearly contradicts those assumed facts. Exhibit A-8 shows that the five non-related workers were all paid on a delayed basis and the Appellant on a less delayed basis. The facts in Exhibit A-8 are as follows:
+Name
+Employment Period
+Net Wages
+Payment Dates
+B. Uppal (Appellant)
+Apr 14-Aug 31
+$9,800.81
+July 19: 5,000.00
+Aug 14: 2,000.00
+Sept 5: 2,800.81
+J. Dherari
+Aug 12-Aug 31
+$1,076.63
+Sept 5: 1,076.63
+D. Sahota
+May 5-Sept 21
+$7,096.00
+Sept 5: 4,000.00
+Sept 19: 2,000.00
+Sept 24: 1,096.00
+P. Sahota
+May 5-Sept 21
+$7,096.00
+Sept 5: 4,000.00
+Sept 19: 2,000.00
+Sept 24: 1,096.00
+A. Sahota
+May 5-Sept 21
+$6,263.70
+Sept 5: 4,000.00
+Sept 19: 1,500.00
+Sept 24: 763.70
+B. Sahota
+Apr 7-Oct 5
+$9,303.35
+Sept 5: 4,000
+Sept 19: 2,000
+Oct 7: 3,303.35
+[13] It is a fact, however, that the Appellant was paid about 50% more than any other worker in 1996 (see paragraph 10 above) and he denied having any supervisory or foreman-like duties at B & J Farms. Throughout 1996 and 1999 inclusive, Mrs. Thandi and her sister, the Appellant's wife, worked full-time (not seasonal) for their brother, Mr. Randhawa. They would work for Mr. Randhawa from early morning until mid-afternoon when they would go to their 20-acre farm near Mission. In late afternoon, Mrs. Thandi would issue instructions to the workers for the next day and the Appellant's wife, who had some computer skills, would do some administrative duties.
+[14] The Appellant stated that his only extra duty in 1996 was to drive the four Sahota family workers in his own car from their home on Defehr Road (near where the Appellant lived) to B & J Farms near Mission, about a 30-minute drive. No one explained how the Sahota family got to work after August 31, 1996 when the Appellant was laid off by B & J Farms. Three of the Sahotas continued to work at B & J Farms until September 21 and the fourth worked until October 5. The Sahota family workers would not have been transported by Mrs. Thandi or the Appellant's wife because they (the two sisters) worked full-time for their brother, Mr. Randhawa, throughout 1996 to 1999.
+[15] The Appellant's wife and Mrs. Thandi both testified in these appeals. They confirmed that they worked full-time for Mr. Randhawa throughout 1996 to 1999. Mrs. Thandi stated that B & J Farms built the first one-acre greenhouse in 1997. They added another 1½-acre greenhouse in 1999. They were required to keep the greenhouse heated all year round, maintaining a constant temperature of 24 or 25 degrees Celsius. The boilers which maintained the temperature were operated by a thermostat and computer. If the boiler stopped, an alarm would go off at a local security company which would call the Appellant's home and, if no person answered, there were other cellular numbers as backup.
+[16] The Appellant stated that it was easy to re-start the boiler if a call came from the security company to say that the boiler was off. Someone had to attend at the greenhouse and press a green button or switch. He said that if the boiler stopped on an evening or weekend while he was employed at B & J Farms, he would drive (about 30 minutes) from his home on Defehr Road to the B & J Farms greenhouse to restart the boiler. He further stated that if the boiler stopped on an evening or weekend while he was not employed at B & J Farms, he would not go to the greenhouse to restart it. This last statement is simply not credible. All indications in Court were that the Appellant and his wife and their two sons lived in a harmonious relationship at the family home on Defehr Road. I do not believe that the Appellant would have his wife make a one-hour round trip to the B & J Farms greenhouse in the middle of the night to restart the boiler.
+[17] Exhibit A-5 contains the Appellant's Application for Unemployment Benefits for 1999. The first page of the Application shows that he worked a six-day week at nine hours per day and $9.00 per hour. His evidence is that he worked mainly in the greenhouse in 1999 repairing and strapping the pipes; spraying for bugs and delivering peppers (the only product of the greenhouse). Although the Appellant worked from June 24 to October 8, 1999 earning net take home pay of $7,871.03, he was paid only three cheques in the following amounts:
+August 11, 1998 (sic) $4,000.00
+September 20, 1999 $2,000.00
+October 15, 1999 $1,871.03
+The August 11 cheque was not cashed until October 4, 1999. The Appellant said that he might have forgotten to cash it but he might also have been offering some financial accommodation to B & J Farms.
+[18] One of the Appellant's duties at B & J Farms was to deliver strawberries to the cannery. He used his pickup truck to deliver the strawberries. He said that he had both a car and a pickup truck and that he left his pickup at B & J Farms all the time. Because the delivery of strawberries was essential to the operation of B & J, the Appellant's pickup truck at B & J was important. The Appellant and his wife and Mrs. Thandi all agreed that he was the only "family" person employed at B & J Farms in the summers of 1996 and 1999.
+[19] The Appellant may well have been in attendance at B & J Farms all or substantially all of the time when he claims to have been employed there in the summers of 1996 and 1999. I find, however, that he was there in a management capacity and not as an ordinary employee. He was the only person in attendance throughout the day who was related to the owners. He delivered the strawberries to the cannery with his own truck which he left at B & J Farms all the time. The delivery of the strawberries (from the field) and peppers (from the greenhouse) served an important audit function for B & J Farms because it was the only source of revenue. The Appellant could ensure for the benefit of the owners that all of the berries or peppers went only to the cannery or market; that he knew the quantity of berries and peppers delivered; and that he would obtain a receipt for the correct quantity. This was an important function in the management of B & J Farms; and the Appellant was the only family member who was there each day to perform it.
+[20] When Mrs. Thandi was asked at the beginning of her testimony what the Appellant did for B & J Farms, she answered:
+At that time there was strawberry. He used to pick strawberry and that there were four or five people that he used to bring, to deliver the berry, too. And it was his responsibility to look after the people.
+(Transcript page 140)
+I interpret Mrs. Thandi's last sentence to mean that the Appellant was responsible for supervising the workers because there was no one else in attendance representing the owners. In 1996, he was paid about 50% more than other workers, consistent with his responsibilities. But in 1999, he appears to have been paid at about the same level as other workers, not consistent with his responsibilities.
+[21] Counsel for the Respondent brought out some interesting facts which must have been known to the Minister of National Revenue although they do not appear in the Respondent's pleadings. In the Appellant's income tax returns for 1995, 1996 and 1999, he reported the following amounts as gross revenues which he and his wife received from farming blueberries on the five acres adjoining their home:
+1995 $44,000
+1996 65,000
+1999 80,000
+[22] Blueberries are picked from July to early September. The Appellant and his wife rely on a contractor to provide workers to pick the berries. Sometimes there could be as many as 50 workers picking blueberries on their small farm. It happens that the season to pick blueberries (July to early September) is a time when the Appellant and his wife were employed away from their home in the summers of 1996 to 1999. When asked who supervised the workers picking blueberries, the Appellant answered that his two sons did. In 1996, the older son Pavenvir was 16 and the younger son Gurminda was 13. It seems like a significant responsibility to impose on two teenage boys to supervise a brief harvesting operation which would produce about $50,000 in gross revenue.
+[23] With respect to the years 1996 and 1999, I cannot find that the Minister failed to consider all relevant circumstances or that he took into account irrelevant factors. Even if I could conclude that the Minister had exercised his discretion in a manner contrary to law, I would find it difficult to reverse the Minister's decision on the merits of the case. The Appellant has a serious credibility problem. Exhibit A-3 includes the Appellant's Application for Unemployment Benefits for the 20 weeks in 1997 when he was employed by Randhawa Farm Contractors Ltd. The Application contains the following question number 35 with two small squares for answer marked "Yes" or "No":
+35. Were you related to your employer or to one or more of its majority shareholders, by blood, marriage (including common-law) or adoption?
+The Appellant placed an "x" in the square marked "No" although he was clearly related to Mr. Randhawa (the majority shareholder of Randhawa Farm Contractors Ltd.) by marriage (the Appellant's wife is Mr. Randhawa's sister).
+[24] Exhibit A-4 includes the Application for Unemployment Benefits for 1998 when the Appellant worked for Randhawa Farms; and Exhibit R-1 is the same Application for 1999 when the Appellant worked for B & J Farms. Both Applications contain the same question number 35 and the Appellant has answered "No" although, in each year, he was clearly related to his employer. The Appellant stated that his wife completed his Applications for Unemployment Benefits because he could not read or write. When the Appellant's wife testified, the following exchange took place in cross-examination:
+Q. If I could refer you to Exhibit A-4 and specifically to Mr. Uppal's unemployment benefits application in Exhibit 4. And this was the application that he submitted in 1998.
+A. Yes.
+Q. Do you recognize the writing on this form to be your writing?
+A. Mine.
+Q. So you filled out this application for him?
+A. I did.
+Q. And again in question number 35 on page 2, you indicated that Mr. Uppal was not related to Randhawa Farms.
+A. I was thinking the blood relation. I was thinking it was the blood relation they are talking about, either a brother or a sister.
+(Transcript page 180)
+Q. And I refer you to Exhibit A-3. And again I'm showing you Mr. Uppal's application for unemployment insurance benefits for '97. And is this - do you recognize the writing on this application to be yours?
+A. Yes.
+Q. So you understood enough to fill out this application?
+A. Yes. Then again I would have probably there, too, I was thinking it was the blood they are talking about.
+Q. Well, why would you think it's just the blood they're talking about when question number 35 specifically says marriage, and you marked "No", on Mr. Uppal's application for the year that he worked for you?
+A. That's my mistake. I was just thinking it was a blood relation they're talking about. I was just thinking it was blood relation they're talking about.
+(Transcript page 181)
+I do not believe Mrs. Uppal's explanation for the totally inaccurate answers to question number 35.
+[25] The Appellant's wife helped him to complete his applications for unemployment benefits in each of the years 1995 to 1999 inclusive but the applications for 1995 and 1996 are not in evidence. She stated that she did not know how many weeks her husband was required to work each year in order to qualify for unemployment insurance benefits. I do not believe her answer. A person cannot participate in the unemployment insurance scheme for five years in a particular area of Canada (i.e. the lower Fraser Valley of BC) and not know the minimum number of work weeks required to qualify for unemployment benefits in that area.
+[26] The evidence of the Appellant and his wife does not have a true ring. They both worked away from their family farm (five acres of blueberries) in the summers of 1996, 1997, 1998 and 1999 when many contract workers came to pick their blueberries. According to the Appellant's evidence, gross revenue from their blueberries was $65,000 in 1996 and $80,000 in 1999. His ROE from B & J Farms for 1996 (Exhibit A-1) described him as a "Labourer". His ROE for 1999 described him as "Supervisor/Labour" and his Application for Benefits in 1999 (Exhibit R-1) described his job title as "Greenhouse". I am asked to believe that the Appellant worked for 15 weeks (June 24 to October 8) at B & J Farms in the summer of 1999 as "supervisor/labour" to earn $8,332.74 (see Exhibit A-5) while his two teenage sons stayed at home to supervise the harvest of blueberries having a value of $80,000. I find that proposition not believable in all the circumstances of this case.
+[27] If the Appellant worked at B & J Farms in the summer of 1999, it was in a proprietary sense as spouse of a co-owner and not as a labourer. For most of each day, he was the only person in attendance representing the owners. He was the only person delivering the product to market and recording the owners' entitlement to gross revenue. He had co-signed the mortgage in 1996 borrowing money to build the first greenhouse. I do not accept the statement of the Appellant's hours worked each day (part of Exhibit A-5) as if he were a common labourer punching a time clock when there must have been times when he would have to go back to 387 Defehr Road to check on the blueberry harvest.
+[28] As I stated in paragraph 23 above, I cannot conclude that the Minister exercised his discretion in a manner contrary to law for 1996 and 1999. And even if I could, the evidence on the merits supports the Minister for 1996 and 1999. Appeal No. 2002-1374 is dismissed.
+Employment in 1997 and 1998
+[29] Appeal No. 2002-1130 is about the Appellant's employment by Randhawa Farm Contractors Ltd. (the "Company") in 1997, and Appeal No. 2002-1375 is about the Appellant's employment by Randhawa Farms in 1998. Because the Appellant had two different employers for those two years, the facts assumed by the Minister are different for each case. Mr. Randhawa testified at the hearing of the appeals. His evidence and that of the Appellant may be summarized as follows.
+[30] Exhibit A-3 contains photocopies of three documents: (i) a payroll book showing the hours worked each day from April 7 to August 23, 1997; (ii) the Appellant's ROE for working at the Company in 1997; and (iii) the Appellant's Application for Unemployment Benefits in 1997. The payroll book shows the precise hours per day; a rate of $7.00 per hour; the calculation of gross earnings at $7,614.25; and an amount $3,000 with the word "bonus". Mr. Randhawa explained that the $3,000 amount was not a bonus but compensation (under the column "other earnings" in the payroll book) at the rate of $25 per day for driving a van to transport 15 contract workers to different farm locations in the lower Fraser Valley. Compensation for driving at $25 per day for a six-day week would be $150 per week, and $3,000 for 20 weeks. The arithmetic in the exhibit is consistent with Mr. Randhawa's testimony.
+[31] Exhibit A-6 shows that the Appellant received seven cheques from the Company in 1997 paying him in aggregate his net take-home pay. Details of those cheques are as follows:
+May 31 $1,500
+June 30 2,000
+October 31 2,000
+November 30 900
+November 30 900
+November 30 900
+November 30 779.48
+The first six cheques in round numbers were like an employer's advance. Mr. Randhawa stated that the last cheque for a precise amount took into account all of the source deductions for income tax, CPP, etc. In the Respondent's Reply for Appeal 2002-1130, the following facts assumed by the Minister as set out in paragraph 3 are relevant:
+(m) Randhawa paid the Appellant $3,000 in addition to his net wages;
+...
+(o) the Appellant was not paid on a regular basis;
+(p) the non-related workers were paid on a regular basis by Randhawa;
+(q) the non-related workers were paid on hourly rate of pay basis and the majority of non-related workers were paid at the rate of $7.00 per hour;
+[32] Having regard to the above assumed facts, the Appellant and Mr. Randhawa have explained to my satisfaction the $3,000 amount in (m). The assumed facts in (o) and (q) are true but the assumed fact in (p) is clearly not true. Exhibit A-6 shows that a number of non-related workers were paid with more than one cheque on particular dates like October 31 and November 30. Mr. Randhawa stated that his delayed payments to workers in 1997 were in breach of a provincial law, and his company had its license revoked for contract farm workers. The Company went out of business; and the Appellant was employed directly by Randhawa Farms in 1998.
+[33] Bella Black, an investigation and control officer for Human Resources Development Canada testified in these appeals. She had reviewed the payroll books for the Company and Randhawa Farms and, as a result, had prepared Exhibits R-2 and R-3 which showed the payroll list for Randhawa Farms in 1997 (Exhibit R-3) and the payroll list for the Company in 1998 (Exhibit R-2). In Exhibit R-3, the Appellant's name appears as employee no. 20 beginning to work in April. Ms. Black stated that the Appellant's name appeared to be out of order in Exhibit R-3 with respect to some other workers who began to work in January but who came after the Appellant in the list. That may be true but I would observe that (i) a number of employees in Exhibit R-3 are out of order with respect to their employee number and the month when they began work; and (ii) there are no employees ahead of the Appellant (no. 20) who began to work after April 1997.
+[34] In my view, the Minister was too preoccupied with delayed payments to the Appellant alone and his place on the payroll list. When many employees are paid late, the late payments to the Appellant are less significant. Also, the order of names on the payroll list is not consistent for many employees with respect to the month when they began work. Therefore, the payroll list is not significant to show that the Appellant was treated differently from an arm's length employee.
+[35] I find that the Minister, when exercising his discretion for 1997, failed to consider relevant circumstances pertaining to employees other than the Appellant which showed that the Appellant and other employees were treated the same with respect to delayed payments and the place of employee names on the payroll list. Accordingly, I may consider the merits of the Minister's decision. On the merits, I conclude that the Company would have entered into a substantially similar contract of employment if the Company and the Appellant had been dealing at arm's length. I reach this conclusion notwithstanding the Appellant's untruthful answer to question 35 on his 1997 Application for Unemployment Benefits. Appeal No. 2002-1130 is allowed.
+[36] Appeal No. 2002-1375 is about the Appellant's employment by Randhawa Farms in 1998. As in 1997, the Appellant was required to drive the employer's van to pick up and drop off workers. He also worked in the greenhouse. He was paid at the rate of $10 per hour (up from $7 in 1997) but there was no additional compensation for driving the workers (he had been paid an additional $25/day in 1997). Exhibit A-4 contains photocopies of various documents all relating to the Appellant's employment by Randhawa Farms in 1998: (i) a payroll book showing the hours worked each day from June 29 to October 24, 1998; (ii) the Appellant's ROE for working at Randhawa Farms in 1998; (iii) the Appellant's Application for Unemployment Benefits; and (iv) nine cheques issued between July 6 and November 7, 1997. Details of the nine cheques are as follows:
+Date on Cheque
+Amount
+Date Cashed
+July 6, 1998
+$204.33
+December 29, 1998
+July 20, 1998
+1,500.00
+October 28, 1998
+August 6, 1998
+619.37
+December 29, 1998
+August 20, 1998
+1,500.00
+October 27, 1998
+September 6, 1998
+554.75
+December 23, 1998
+September 20, 1998
+1,500.00
+October 26, 1998
+October 7, 1998
+575.30
+December 23, 1998
+October 15, 1998
+1,000.00
+December 29, 1998
+November 7, 1998
+541.66
+December 30, 1998
+[37] I find it interesting that not one of the above nine cheques was cashed until after the Appellant's last day of work, October 24. The three largest cheques for $1,500 each were cashed on October 26, 27 and 28. The other large cheque ($1,000) and the five smaller cheques were all cashed in the last few days of December. In the Respondent's Reply for Appeal 2002-1375, the following facts assumed by the Minister as set out in paragraph 3 are relevant:
+(g) the Appellant's wage was set at $10 per hour;
+(h) the non-related workers were paid the minimum hourly wage of $7.15 during the 1998 taxation year;
+...
+(j) the Appellant was not paid by Randhawa on a regular or timely basis;
+(k) the cheques the Appellant received from Randhawa were as follows:
+(Details set out in paragraph 36 above)
+(l) the non-related workers were paid on a regular basis for Randhawa;
+(m) the Record of Employment indicated that the Appellant was laid off due to a shortage of work;
+(n) Randhawa's 1998 payroll record indicates that out of 34 workers 25 continued to work beyond the Appellant's last day of work;
+[38] Having regard to the above assumed facts in (g) and (h), the higher hourly wage paid to the Appellant was explained by Mr. Randhawa on the basis that, in 1997, the Appellant was paid the basic wage of $7.00 per hour with an extra $25 for driving the van. In 1998, Mr. Randhawa decided to pay the Appellant $10 per hour but cancelled the extra $25 for driving the van. For an eight or nine-hour day, the difference in the hourly rates ($10 or $7) is $24 or $27. This compares favourably with the additional $25 which the Appellant was paid in 1997. I accept Mr. Randhawa's explanation.
+[39] Considering the assumed facts in (j) and (k), cheques were issued in the Appellant's name on a regular or timely basis but they were not cashed until after his last day of work. The Appellant said that the cheques were delivered to him on a timely basis but that his delay in cashing them was simply neglect. I do not believe him. The Appellant and his wife were raising two teenage boys in 1998 (one was 18 and the other 15). Cash flow must have been a concern when the Appellant was laid off on October 24 and applied for unemployment benefits. The only inference I can draw is that the Appellant had an arrangement with his brother-in-law (Mr. Randhawa) that he would help finance Randhawa Farms in 1998 by not cashing any cheques until after October 26 when Randhawa Farms would have received most of the proceeds from the delivery of its crops.
+[40] The delay in the cashing of the cheques was known to the Minister. If the Minister concluded that an arm's length employee would not have delayed the cashing of all cheques until after the last day of employment, the Minister was entitled to draw that adverse inference against the Appellant.
+[41] Having regard to the assumed facts (l), (m) and (n), there are no documents to indicate when the non-related workers were paid. The onus of proof was on the Appellant. In the absence of documentary evidence, I will accept the fact assumed in (l), making a significant distinction between the Appellant and the non-related workers. Mr. Randhawa stated that the Appellant was laid off on October 24, 1998 because of some problem in his relationship with his brother-in-law, the Appellant. The Appellant testified first (witnesses were excluded) and made no allusion to such problem. If there were any problem between the Appellant and Mr. Randhawa, I think the Appellant would have gone to the bank and cashed all of his cheques immediately after October 24 if the cheques were in his possession. As I have indicated above, the Appellant's credibility in these appeals was a continuing problem.
+[42] I cannot conclude that the Minister exercised his discretion in a manner contrary to law for 1998. And even if I could, the evidence on the merits supports the Minister. Appeal No. 2002-1374 is dismissed.
+Signed at Ottawa, Canada, this 31st day of March, 2004.
+"M.A. Mogan"
+J.T.C.C.
+CITATION:
+2004TCC255
+COURT FILE NO.:
+2002-1130(EI), 2002-1374(EI)
+and 2002-1375(EI)
+STYLE OF CAUSE:
+Bhajan Singh Uppal and The Minister of National Revenue
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 20 and 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+March 31, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Avtar Dhinsa
+Counsel for the Respondent:
+Johanna Russell
+COUNSEL OF RECORD:
+Name:
+Avtar Dhinsa
+Firm:
+Dhinsa Law Office
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

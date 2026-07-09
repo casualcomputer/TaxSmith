@@ -1,0 +1,189 @@
+---
+title: "Soshiroda v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/97821/index.do"
+last_modified: "2014-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 256"
+citation2: ""
+neutral_citation: "2014 TCC 256"
+decision_date: "2014-08-26"
+language: "en"
+item_id: "97821"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5171
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:36:07.835000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fdc04f92742db2c50fbd73e62a1e50c68d4605a5232b1a1371d326a61453f7b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Soshiroda v. The Queen
+
+- Citation: 2014 TCC 256
+- Decision date: 2014-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5171, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Soshiroda v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-08-26
+Neutral citation
+2014 TCC 256
+File numbers
+2013-2688(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2688(IT)I
+BETWEEN:
+SUSUMU SOSHIRODA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of
+Atsuko Okamoto (2013-2689(IT)I), on May 14, 2014,
+at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Atsuko Okamoto
+Counsel for the Respondent:
+Sara Jahanbakhsh
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2008 and 2009 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of August 2014.
+“Paul Bédard”
+Bédard J.
+Docket: 2013-2689(IT)I
+BETWEEN:
+ATSUKO OKAMOTO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of
+Susumu Soshiroda (2013-2688(IT)I), on May 14, 2014,
+at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sara Jahanbakhsh
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2008 and 2009 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of August 2014.
+“Paul Bédard”
+Bédard J.
+Citation: 2014 TCC 256
+Date: 20141001
+Dockets: 2013-2688(IT)I,
+2013-2689(IT)I
+BETWEEN:
+SUSUMU SOSHIRODA,
+ATSUKO OKAMOTO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Bédard J.
+[1] These appeals were heard on common evidence. The appellants own a web design business which operates under the names S‑Design and Abeillex. When filing their 2008 and 2009 tax returns, both appellants deducted host server fees as well as programming and licensing fees of $90,100 and $55,650, representing each one’s percentage (50%) of the total partnership amounts of $180,200 and $111,300 for those taxation years respectively. By Notices of Reassessment dated December 28, 2011, the Minister of National Revenue (the “Minister”) disallowed the amounts of $90,100 and $55,650 as not being proper expenses for each appellant’s 2008 and 2009 taxation years respectively. On February 20, 2012, the Minister received from each appellant a Notice of Objection with regard to the December 28, 2011 reassessments for the 2008 and 2009 taxation years. On April 5, 2013, the Minister partially confirmed each appellant’s reassessment dated December 28, 2011 for the 2008 and 2009 taxation years, as follows:
+Year
+Additional Other Business
+Expenses Allowed
+2008
+$9,188
+2009
+$8,363
+The appellants have appealed from these reassessments.
+[2] In so reassessing Mr. Susumu Soshiroda, the Minister relied on the following assumptions of fact (in reassessing Ms. Atsuko Okamoto, the Minister relied, mutatis mutandis, on the same assumptions of fact):
+a) at all times, the Appellant held 50% of the business partnership and his wife held the other half;
+b) the expenses claimed as “other expenses” were for host server costs as well as programming and licensing fees;
+c) several differing versions of the supporting documents were provided during the audit and objection review. These receipts did not give a detailed breakdown of the services rendered;
+d) no contract was provided to support the services rendered and the amounts paid;
+e) substantial weekly amounts were charged to the Appellants by Heat Systems Inc. for taxation years 2008 and 2009 however, given that the receipts submitted did not give a detailed breakdown of the services rendered, it was impossible to confirm whether or not these expenses were incurred for the purpose of gaining or producing business income;
+f) it is likely however, that the business did incur some expenses for host server fees. An amount was determined by conducting a price comparison for seven (7) companies which averaged $1,096 per month for host server fees; this amount was then applied to the Appellant’s business, rounding it to $14,000 for each of the taxation years under review;
+g) the Appellant’s share of this expense is $7,000 for each of the taxation years 2008 and 2009 — his wife was allowed the other half;
+h) given the information submitted in the file, there was insufficient detail to allow the same analysis for programming and licensing fees;
+i) a reasonable amount for programming and licensing fees was nevertheless allowed, using the pro‑rata calculation obtained in the determination of allowable host server fees, which amounts to approximately 10.2% of the amounts originally claimed by the Appellant in 2008 and 16% in 2009;
+j) this resulted in allowing the business an expense for programming and licensing fees, totalling $4,375 and $3,726 for taxation years 2008 and 2009 respectively;
+k) the Appellant’s share of the programming and licensing fees is $2,188 and $1,863 for taxation years 2008 and 2009 respectively – his wife was allowed the other half.
+[3] The issue to be decided is whether the appellants are entitled to deduct host server fees as well as programming and licensing fees in excess of the amounts allowed by the Minister, the amounts disallowed for the 2008 and 2009 taxation years having been so disallowed on the double premise that:
+a) they were not incurred for the purpose of gaining or producing income from the business;
+b) they were personal or living expenses.
+The Evidence Submitted by the Appellants [4] In assessing the evidence presented by the appellants, the Court must comment on the failure to call certain persons as witnesses and to provide documentary evidence that could have confirmed the statements of the appellants. In Huneault v. Canada, [1998] T.C.J. No. 103 (QL), 98 DTC 1488 (Fr.), my colleague Judge Lamarre referred, at paragraph 25 (page 1491 DTC), to remarks made by Sopinka and Lederman in The Law of Evidence in Civil Cases, which were cited by Judge Sarchuk of this Court in Enns v. M.N.R., 87 DTC 208, at page 210:
+In The Law of Evidence in Civil Cases, by Sopinka and Lederman, the authors comment on the effect of failure to call a witness and I quote:
+In Blatch v. Archer, (1774), 1 Cowp. 63, at p. 65, Lord Mansfield stated:
+“It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted.”
+The application of this maxim has led to a well‑recognized rule that the failure of a party or a witness to give evidence, which it was in the power of the party or witness to give and by which the facts might have been elucidated, justifies the court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed.
+In the case of a plaintiff who has the evidentiary burden of establishing an issue, the effect of such an inference may be that the evidence led will be insufficient to discharge the burden. (Lévesque et al. v. Comeau et al., [1970] S.C.R. 1010, (1971), 16 D.L.R. (3d) 425.)
+[5] In the instant cases, Ms. Atsuko Okamoto was the only person to testify in support of the appeals of each appellant. The appellants’ only documentary evidence consisted of emails (Exhibit A‑1) in Japanese from Mr. Hiroshi Miyadera (XXXXXXXX), all dated June 25, 2012, all listed under the heading: Reissued Invoice, and all sent to XXXXXXXXXXX.
+[6] In the instant cases, it is useful to make certain comments on the credibility of Ms. Okamoto, who, I repeat, was the only person to testify in support of the appeals of both appellants. I emphasize that the appellants filed nothing other than Japanese emails (Exhibit A‑1) in support of their position. In my view, it would be hazardous to give Ms. Okamoto’s testimony any credence without any conclusive corroborating evidence in the form of sound documentation or testimony by credible witnesses.
+[7] Ms. Okamoto’s answers were generally vague, imprecise and ambiguous. In fact, her testimony can be summarized as follows: we were billed by Heat Systems Inc. for host server fees as well as programming and licensing fees; the host server fees were paid directly to Heat Systems Inc. but the programming fees were paid directly to Mr. Miyadera. She never explained what the digital content was or what their costs were. Her testimony was also silent regarding Heat Systems Inc.’s server (what kind of server was it? what was the data transfer speed?) Her testimony was likewise silent regarding the basis on which the programming fees were charged by Heat Systems Inc. and paid to Mr. Miyadera. All too often, she was unable to provide any valid explanation of how their business operated. In this regard, she was unable to explain why all the programming and licensing fees that were billed by Heat Systems Inc. were paid directly to Mr. Miyadera. She was also unable to explain the inconsistencies between the several versions of the supporting documents that were provided during the audit and during the review following the objection. In addition, the evidence showed that in 2010 the appellants switched to another provider (Hurricane Electric LLC). Ms. Okamoto was unable as well to explain why Hurricane’s host server fees were much less expensive than those of Heat Systems Inc. The evidence further showed that the appellants had declared to the CRA’s auditor that the owner of Heat Systems Inc. was Mr. Miyadera. In this regard, the evidence (Exhibit R‑1) proves the contrary. Ms. Okamoto again was unable to explain the contradiction. Finally, the evidence also showed that the appellants never informed the tax auditor that they themselves had prepared the first set of invoices filed with him. This also added to my doubts regarding Ms. Okamoto’s credibility. For these reasons, I attached little probative value to her testimony.
+Conclusion [8] The onus was on the appellants to prove that the reassessments were erroneous. No reliable proof of any kind was provided by the appellants to support their claims. The documentary evidence filed by them was not sound. The probative value I attached to Ms. Okamoto’s testimony was slight. The appellants could have submitted documents in evidence (certified English translations of the original invoices). This they did not do. I infer from this that such evidence would not have been favourable to them. The appellants could also have called Mr. Miyadera or another representative of Heat Systems Inc. Mr. Miyadera’s testimony could have confirmed Ms. Okamoto’s statements. Yet they did not call him as a witness, from which I infer that his evidence would not have been favourable to the appellants either.
+[9] The income tax system is based on self‑reporting, and as a matter of public policy the burden of proving deductions and claims properly rests with the taxpayer. The appellants must maintain and have available detailed information and documentation in support of the claims they make. They are responsible for documenting their personal affairs in a reasonable manner. Self‑written receipts and assertions without proof are not sufficient.
+[10] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 1st day of October 2014.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated August 26, 2014.
+“Paul Bédard”
+Bédard J.
+CITATION:
+2014 TCC 256
+COURT FILE NOS:
+2013-2688(IT)I,
+2013-2689 (IT)I
+STYLE OF CAUSE:
+SUSUMU SOSHIRODA v. HER MAJESTY THE QUEEN
+ATSUKO OKAMOTO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+October 1, 2014
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+August 26, 2014
+APPEARANCES:
+Agent for the Appellant
+Susumu Soshiroda:
+Atsuko Okamoto
+For the Appellant
+Atsuko Okamoto:
+The Appellant herself
+Counsel for the Respondent:
+Sara Jahanbakhsh
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,94 @@
+Title: Tufts v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28442/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-68-28442-tufts-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-29
+
+# Tufts v. The Queen
+
+- Citation: 2008 TCC 68
+- Decision date: 2008-01-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1175, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tufts v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-29
+Neutral citation
+2008 TCC 68
+File numbers
+2006-3370(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3370(IT)I
+BETWEEN:
+NORMAN TUFTS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 22, 2008, at London, Ontario
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pascal Tétrault
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years is allowed in part, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The appeal from the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years is dismissed.
+Signed at Ottawa, Canada, this 29th day of January 2008.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2008TCC68
+Date: 20080129
+Docket: 2006-3370(IT)I
+BETWEEN:
+NORMAN TUFTS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle, J.
+[1] Mr. Tufts donated a historic vehicle to a Canadian museum. It was duly certified as Canadian cultural property and appraised at $52,000 for that purpose. Neither the donation nor the value of the car are in question by either party.
+[2] Prior to deciding to donate a car he had owned since new and maintained and restored for almost 50 years, Mr. Tufts met with CRA officials on more than one occasion. These discussions focused on the tax consequences to Mr. Tufts of making a $52,000 gift of cultural property. According to Mr. Tufts, this included CRA agents filling out written sample Schedule 9 gift calculations and annotating the CRA guides and forms regarding such donations. Apparently CRA spent considerable time with Mr. Tufts determining his expected tax consequences. The two CRA offices he consulted, also consulted with the CRA in Ottawa in the course of working with him.
+[3] Relying on this information, Mr. Tufts made the gift in 2000 and began claiming tax credits for his gift. Mr. Tufts testified that, based upon and relying on the representations of CRA and his understanding, he claimed the credit for his donation in the first year based on the full amount of the gift even though his income for the year was less than $52,000. The Income Tax Act (the “Act”) provides that the amount of the gift that can result in a credit in a year is limited to the taxpayer’s income for the year since the resulting credit is non-refundable. The Act does not allow any greater credit, nor is it apparent how one could use it in any event, notwithstanding what Mr. Tufts may have been initially advised by CRA. The excess of the gift can, however, be carried forward to generate a credit in the following years as a result of the definition of “total cultural gifts” in the Act.
+[4] This is where the second and more substantive problem arises for Mr. Tufts. Mr. Tufts says that the CRA officials also explained to him that the portion of the $52,000 gift available to be carried forward to the next year was $52,000 less the amount of the credit claimed in the year of the gift. Again he testified this was discussed clearly and shown to him by the CRA officials after careful thought, review and consultation with Ottawa. This too reflects a misunderstanding since the definition of “cultural gifts” sensibly provides that, in determining the balance of the gift which can be carried forward to a subsequent year, the $52,000 initial amount of the gift is reduced by the amount of the gift already used to compute a tax credit.
+[5] Despite Mr. Tufts’ misunderstandings and despite whatever CRA officials initially may have advised him, his appeal on these calculations cannot succeed in this Court.
+[6] Mr. Tufts testified he would have not made the gift but for the representations made to him by CRA that he could claim tax credits as he did. Mr. Tufts said he would have not donated the car to the Canadian museum but would have sold it to one of several potential purchasers for cash instead. He did not argue that the Crown should be estopped from reassessing contrary to CRA’s initial representations, and it is most unlikely that such a claim could have succeeded in this Court. Apparently Mr. Tufts and CRA do have this whole matter before both a Fairness Committee and a Remission Order review committee and Mr. Tufts is hopeful of finding some relief from these processes as a result of his having received incorrect, or at least poorly explained, advice from CRA at the outset. However, he understands both of those committees require him to exhaust his avenues of appeal to this Court before they will finally decide his matters. I trust that is not truly the case since two such high level committees should have had no difficulty anticipating the outcome of this appeal.
+[7] Mr. Tufts’ appeal cannot succeed on its substantive merits. The Crown has conceded that the amount of the cultural gift tax credit reassessed for 2000 to 2002 should be further reassessed to allow certain other tax credits available to Mr. Tufts to be used in those years. This is described in paragraph 12 of the Minister’s Reply and shown in Schedule B thereto.
+[8] I should add that, in this proceeding, I am not called upon to determine the source of Mr. Tufts’ misunderstandings regarding the tax credit resulting from the $52,000 cultural gift he made. Nor in the circumstances could I determine if CRA made one or more misrepresentations to him in this regard. No CRA official provided any evidence and I did not need to sort out whose writing appears on which part of the several forms and guides. I was not told what, if any, part the Canadian museum receiving the gift may have played in contributing to Mr. Tufts’ misunderstandings.
+[9] I am referring the 2000 to 2002 reassessments back to the Minister for reconsideration and reassessment in accordance with these Reasons. I am dismissing the appeals for the 2003 and 2004 years.
+Signed at Ottawa, Canada, this 29th day of January 2008.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2008TCC68
+COURT FILE NO.: 2006-3370(IT)I
+STYLE OF CAUSE: NORMAN TUFTS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: January 22, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: January 29, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

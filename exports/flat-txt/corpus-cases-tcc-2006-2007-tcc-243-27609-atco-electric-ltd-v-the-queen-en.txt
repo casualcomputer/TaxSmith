@@ -1,0 +1,319 @@
+Title: ATCO Electric Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27609/index.do
+Corpus path: corpus/cases/tcc/2006/2007-tcc-243-27609-atco-electric-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-09-18
+
+# ATCO Electric Ltd. v. The Queen
+
+- Citation: 2007 TCC 243
+- Decision date: 2006-09-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 430, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ATCO Electric Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-18
+Neutral citation
+2007 TCC 243
+File numbers
+2004-1170(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1170(IT)G
+BETWEEN:
+ATCO ELECTRIC LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 18, 19 and 20, 2006 at Calgary, Alberta
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Curtis Stewart
+Jo'Anne Strekaf
+Counsel for the Respondent:
+William L. Softley
+Belinda Schmid
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment, on the basis that:
+1. in respect of the 1997 and 1998 taxation years, the sub-bituminous coal used by the Appellant to produce electric energy reached its equivalent to the prime metal stage at the pulverization stage; and
+2. in respect of the 2000 taxation year, the amount of $622,990 expended by the Appellant to replace electrical transformers was a current expense.
+Signed at Ottawa, Canada, this 4th day of May, 2007.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2007TCC243
+Date: 20070504
+Docket: 2004-1170(IT)G
+BETWEEN:
+ATCO ELECTRIC LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, ATCO Electric Ltd., is appealing the reassessments by the Minister of National Revenue of its 1997, 1998 and 2000 taxation years. In those years, the Appellant was in the business of generating, transmitting and distributing retail electricity in Alberta and owned, wholly or jointly, the generating stations and adjacent coal mines at Battle River and Sheerness.
+[2] The reassessments concern two unrelated aspects of the Appellant's business operations:
+1. in respect of its 1997 and 1998 taxation years, for the purposes of determining its income from resource profits and its entitlement to certain capital cost allowances, at what point the coal used as a fuel to provide electric energy reached the "prime metal stage or its equivalent"; and
+2. in respect of its 2000 taxation year, whether certain expenses incurred in the replacement of transformers used in the transmission and distribution of electricity were capital or current in nature.
+[3] The parties filed a partial Agreed Statement of Facts[1] and a Joint Book of Documents[2] pertaining to these issues. Each issue is dealt with separately in these Reasons for Judgment.
+The Prime Metal Stage or its Equivalent Issue
+Legislation
+[4] The relevant legislative provision is clause 1204(1)(b)(ii)(A) of the Income Tax Act Regulations[3]:
+1204: (1) For the purposes of this Part, "gross resource profits" of a taxpayer for a taxation year means the amount, if any, by which the aggregate of
+(a) the amount, if any, by which the aggregate of
+(i) the aggregate of amounts, if any, that would be included in computing the taxpayer's income for the year by virtue of subsection 59(2) and paragraphs 59(3.2)(b) and 59.1(b) of the Act if subsection 59(2) were read without reference to subsection 64(1) therein, and
+(i.1) the amount, if any, by which the amount included in computing his income for the year by virtue of paragraph 59(3.2)(c) of the Act exceeds the proceeds of disposition of property described in clause 66(15)(c)(ii)(A) of the Act that became receivable in the year or a preceding taxation year and after December 31, 1982 to the extent that such proceeds have not been deducted in determining the amount under this subparagraph for a preceding taxation year
+exceeds
+(ii) the aggregate of amounts, in any, deducted in computing his income for the year by virtue of paragraph 59.1(a) of subsections 64(1.1) and (1.2) of the Act,
+(b)the amount, if any, of the aggregate of his incomes for the year from
+…
+(ii) the production and processing in Canada of
+(A) ore, other than iron ore or tar sands ore, from mineral resources in Canada operated by him to any stage that is not beyond the prime metal stage or its equivalent,
+…
+[5] Pursuant to subsection 248(1) of the Income Tax Act, a "mineral resource" means "a coal deposit".
+[6] Paragraph 20(1)(a) of the Act permits a taxpayer to deduct such part of the capital cost of a property as is allowed by the Regulations. Pursuant to subparagraphs 1100(1)(a)(i) and (xxvii) of the Regulations, Class 1 assets may be deducted at a rate of 4% of their undepreciated capital cost and Class 41 assets, at 25%. Class 41(b)(i) of Schedule II of the Regulations includes property that was, among other things, acquired "for the purpose of gaining or producing income from a mine". Subparagraph 1104(5)(a)(i) defines "mining" for the purposes of Class 41 assets as:
+"Mining – for the purposes of ... [Class] ... 41 in Schedule II, a taxpayer's "income from a mine", or any expression referring to a taxpayer's income from a mine, includes income reasonably attributable to
+(a) the processing by the taxpayer of
+(i) ore (other than iron ore or tar sands ore) all or substantially all of which is from a mineral resource owned by the taxpayer to any stage that is not beyond the prime metal stage or its equivalent,
+Pursuant to subsection 1104(2) of the Regulations, "ore" includes ore from a mineral resource that has been processed to any stage that is not beyond the prime metal stage or its equivalent.
+[7] Paragraphs 12 to 16 of the Agreed Statement of Facts set out the respective positions of the Appellant and the Respondent in respect of the calculation of the Appellant's tax liability for 1997 and 1998:
+12. In computing its income tax liability under Part I of the Act for the taxation years ending December 31, 1997 and December 31, 1998, the Appellant:
+(a) computed its resource profits for resource allowance purposes based on an imputed rate of return on coal handling equipment; and
+(b) classified the coal handling equipment utilized up to the point that the coal has been pulverized in the pulverisor ("Assets") as Class 41 assets pursuant to Class 41(b)(i) of Schedule II to the Regulations,
+on the basis that the equivalent of the prime metal stage for coal is reached at the point immediately after the coal has been pulverized. Copies of Appellant's T-2 Returns for the 1997 and 1998 taxation years are located in the Joint Book of Documents, Tabs 3 and 4, respectively.
+13. Based on its position that the equivalent of the prime metal stage for coal is reached immediately after the coal has been pulverized, for its taxation years ended December 31, 1997 and December 31, 1998, the Appellant:
+(a) determined its resource loss to be $3,992,848 and its resource profits to be $2,351,924, respectively, pursuant to the formula prescribed in section 1210.1 of the Income Tax Regulations ("Regulations") and included 25% of such amounts, being an inclusion of $998,212 and a deduction of $587,981, respectively, in its calculation of income tax for the taxation years ending December 31, 1997 and December 31, 1998 pursuant to paragraph 12(1)(2.5) of the Act; and
+(b) deducted 25% of the undepreciated capital cost of the Assets pursuant to paragraph 20(1)(a) of the Act and paragraph 1100(1)(a)(xxvii) of the Regulations.
+14. The Assets were acquired after 1987.
+15. The Assets used to handle coal up to the point of deposit at the reclaim or reclamation piles constitute property, machinery, equipment, a building or other structure that were acquired for the purpose of earning or gaining income from a mine.
+16. The Minister of National Revenue ("Minister") issued reassessments to the Appellant on May 9, 2002 for its taxation years ending December 31, 1997 and December 31, 1998 ("Prime Metal Stage Reassessments"), on the basis that the equivalent of the prime metal stage for coal is reached at the reclamation piles. As a result, the Minister:
+(a) decreased the Appellant's resource loss and increased the Appellant's resource profits under paragraph 12(1)(z.5) of the Act by $29,858 and $29,871 for the taxation years ending December 31, 1997 and December 31, 1998 respectively, on the basis that profits imputed to that part of the process occurring after the point the thermal coal was deposited at the reclaim or reclamation piles at the Generating Stations are not eligible to be included as part of the Appellant's resource profits; and
+(b) decreased the Appellant's capital cost allowance claim under paragraph 20(1)(a) of the Act by $446,252 and $669,156 for the taxation years ending December 31, 1997 and December 31, 1998 respectively, on the basis that the assets used during that part of the process after the point the thermal coal is deposited at the reclaim or reclamation piles do not constitute Class 41 assets, but rather are Class 1(m) assets.
+Issue
+[8] Expressed in the language of the legislative provision, the issue is to what stage in the production and processing of the sub-bituminous coal from the coal deposit operated by Appellant was the sub-bituminous coal not beyond its equivalent of the prime metal stage.
+[9] The Respondent says the point at which the sub-bituminous coal was not beyond its equivalent of the prime metal stage was when it was placed on the reclaim pile, just after having gone through the primary crusher.
+[10] The Appellant's position is that the sub-bituminous coal reached that point later in the crushing process when it had been pulverized, just before being introduced as fuel into the generating stations’ combustion chamber to manufacture electricity.
+[11] It is necessary to determine when the coal reached its equivalent to prime metal stage in order to calculate the Appellant's resource profits and resource allowance, as well as to determine whether its assets are Class 1 or Class 41 assets for the purposes of calculating the applicable capital cost allowance.
+Preliminary Issue: The Admissibility of the Respondent's Expert Witness Report
+[12] Each party proposed an expert witness, each of whom had prepared reports. While taking no objection to his qualifications, counsel for the Appellant objected to the admission of the report of the Respondent's expert witness, Mr. John Mossop, on the basis that the opinions expressed therein amounted to a determination of the ultimate issue before the Court: the interpretation of the term "prime metal stage or its equivalent" and when, on the facts of this case, the coal reached its equivalent of the prime metal stage.
+[13] According to counsel for the Appellant, Mr. Mossop's report is riddled with the very conclusions that are the Court's to make. To see the extent to which the report exceeded the bounds of expert evidence, counsel argued, one need look no further than Mr. Mossop's statement of his mandate: "I was asked to examine at what point thermal coal reaches 'prime metal stage or its equivalent' (the 'PMSE') in the Battle River and Sheerness mine mouth electricity generation operations"[4]. After acknowledging that "prime metal stage" is a term without "technical or trade meaning from use within the industry"[5], Mr. Mossop sets about interpreting its meaning. Looking first to the ordinary dictionary meaning of the word "prime", he concludes in the first section of his report "that 'prime metal stage' for a metal, and 'the equivalent' for a non‑metal, is reached at the point when the product of the mine first becomes a recognized commodity with a market value". In Section II under "Background", Mr. Mossop writes that "… it was required to establish the PMSE for the Battle River and Sheerness Operations". In Section III, applying "[his] definition" of prime metal stage, he explains how copper ore is processed to the prime metal stage of the metal known as copper. In Section IV he states that for "commercial coal", the equivalent state is reached when it "has become a commercial product, widely traded on both local and world markets". He then applies that test to the operations at Battle River and Sheerness to conclude in Section VI that when coal at the generating stations is "placed in the stockpile to be reclaimed for use in the power plant …, it has reached the customer's specification for power plant operation" and can then "… be considered as the equivalent stage as prime metal because it is a recognized commodity with market value to a customer". In Section VII, he sets out his conclusion that "… the PMSE for coal at Battle River and Sheerness is at the coal stockpile [the reclaim pile] after it has been mined and prepared to be delivered to the power plant".
+[14] Counsel for the Respondent did his best to minimize the effect of the above by attributing it to Mr. Mossop's particular writing style. I share the view of counsel for the Appellant, however, that the report's flaws go beyond semantics. As stated by Dussault, J. in Oligny v. The Queen[6], "… it is the responsibility of the judge, not of an expert, to interpret the Act and to give the words that are used therein their rightful meaning"[7]. In my view, the Mossop report violates this principle and is therefore, not admissible.
+[15] Even if the report had been admitted, however, I would have preferred the evidence of the Appellant's expert witness, Mr. Donald Downing. No objection was taken to Mr. Downing's qualifications or to his report[8]. He was duly recognized as an expert qualified to give opinion evidence in connection with providing a general background on the coal industry and coal-fired generating facilities. Mr. Downing has had direct experience in the operation of coal-fired generating stations. In preparing his report, he visited the Battle River and Sheerness operations; Mr. Mossop, on the other hand, relied on photos of the sites and generalized information on coal mining from various publications including, at Tab 7 of the report, a print-out on "Coal-Fired Thermal Generating Plants" from Appellant's[9] own website. Finally and most importantly, in his report, Mr. Downing restricted his conclusions to his area of expertise providing technical information regarding the coal mining industry, leaving to the Court the task of determining, on the evidence of the present case, the stage at which the equivalent of the prime metal stage for thermal coal was reached.
+The Witnesses
+[16] The Respondent called no witnesses other than Mr. Mossop. In addition to its expert witness, the Appellant called Mr. Thomas Walker. From 2001 to 2005, Mr. Walker was the commercial manager at the Sheerness Generating Station. In 2005, he became responsible for both generating stations as the commercial manager of operations at ATCO Power[10], overseeing the commercial activities at both Sheerness and Battle River. Using diagrams[11] of the generating stations as an aid, Mr. Walker explained the Appellant's operations at Battle River and Sheerness. His testimony was entirely credible and, except for the matter of the "specifications" of the coal as delivered to the reclaim pile, went largely unchallenged by the Respondent on cross-examination.
+[17] As for Mr. Downing, in addition to the qualifications set out above, he has a Bachelor of Science in Geology and a Bachelor of Arts in Economics from the University of New Brunswick. He holds a Master of Science from the Department of Mining and Metallurgical Engineering at McGill University and a Master of Science from Pepperdine University School of Business. He has extensive experience in the coal industry, including mine operations, domestic marketing and export abroad, and transportation. He has dealt with a wide variety of coal customers including electricity producers, utilities, steel mills and other industrial clients. He acted as a consultant on Genesee 3, an Alberta coal‑fired electricity generating station supplied by an adjacent coal mine. He served as president of the Coal Association of Canada from 1993-1998.
+[18] He presented his testimony in a knowledgeable and straight-forward fashion. His report addressed six specific questions put to him by the Appellant, as well as certain of the ministerial assumptions with which the Appellant took issue[12].
+Facts
+[19] In 1997 and 1998, the Appellant owned, wholly or jointly, the coal mines and the generating stations at Battle River and Sheerness. The coal mined there is sub-bituminous coal; while ideal for fueling generating stations, its low energy content can make the transport of sub-bituminous coal and therefore, its use, uneconomical. One solution is to minimize its transportation costs (thereby making its production and processing more economical) by building the generating station beside the mine; such facilities, like those at Battle River and Sheerness, are known as "integrated" coal-fired generating stations.
+[20] The mines at the Appellant's integrated generating stations were exploited specifically to provide an economic source of fuel for the manufacture of electricity in its adjacent generating station. Except for a negligible quantity which under the Mines and Minerals Act of Alberta the Appellant was required to sell for domestic use[13], the coal was not directly marketed or sold to third parties[14]. Indeed, according to the Minister's own assumption[15], the Appellant was the only consumer for the coal extracted from the mines. Thus, in 1997 and 1998, there was effectively no general market for the sub‑bituminous coal mined at Battle River and Sheerness.
+[21] Before considering the Appellant's coal-related activities at Battle River and Sheerness, it is useful to note certain unique aspects of the Appellant's operations. First, the Appellant owned both the mines and the electricity generation stations; this differs from the more typical situation where "miner" and "consumer" are separate entities. As aptly summarized by counsel for the Respondent, the question in this case is to define "… the edge of the Appellant's mining activities as opposed to [its] manufacturing of electricity activities"[16]. A related factor is the Appellant's contractual relationship with a third party to extract and transport sub‑bituminous coal. At no time relevant to this appeal, however, was that third party "selling" coal to the Appellant since it was the Appelllant who owned the Battle River and Sheerness mines.
+[22] Turning, then, to the Appellant's activities at Battle River and Sheerness, the coal mines adjacent to the generating stations were "strip mines". The first step in the extraction of coal was the removal of the layer of top soil. A drag line then removed the next layer of earth (the “over-burden”) to expose the coal deposit below. Machines called "dozers" pushed out large pieces of coal and broke them into chunks capable of being handled by the "front-end loaders" that loaded them into over-sized trucks known as "haulers". Such large pieces of coal are referred to in the industry as "run-of-mine" or "ROM" coal.
+[23] The haulers then transported the run-of-mine-coal to the receiving hopper, a metal-lined cone-shaped pit approximately 20-feet deep. Above the receiving hopper was a kind of grate, known as a "grizzly", consisting of bars spaced closely enough to permit the haulers to drive safely over them while at the same time, allowing pieces of run-of-mine-coal measuring "not in excess of" 3 feet (1.2 meters) to pass through it. As Mr. Downing explained, in the coal mining industry, the optimum size of the coal pieces at each stage in the crushing process is typically expressed in terms of a size "not to exceed"[17] a certain specified dimension.
+[24] From the receiving hopper, sub-bituminous coal of varying quality was drawn from identifiable access points at its base and "blended" in the conveyor system; the percentage of low-quality coal in the mix ranged from 10 to 30 percent[18].
+[25] The blended sub-bituminous coal then proceeded to the "primary crusher" where it was crushed to a size not in excess of 6 inches[19] and stockpiled on the "reclaim pile". (It is at this point that the Respondent says the sub-bituminous coal reached its equivalent of prime metal stage.)
+[26] The sub-bituminous coal was then drawn from underneath the reclaim pile through another series of feeders and conveyed to the secondary crusher[20] where it was crushed to a size not in excess of 1 inch. Also at this stage, electro-magnets were employed to remove metals from the sub-bituminous coal to improve its efficient combustion.
+[27] Next, the sub-bituminous coal was conveyed into the generating stations and dropped into the "bunker", a large cylindrical storage container. From the bunker's conical bottom, the coal was drawn into a "mill" where it was further crushed to a baby-powder fineness[21]. Pulverizering the coal in this fashion also served to remove pyrites[22] and other waste products which could not be burned. At this stage, the pulverized sub-bituminous coal was ready to be blown by air from the pulverizer to the nozzle tip which introduced the fuel into the combustion chamber. (It is at this point that the Appellant says the sub-bituminous coal reached its equivalent of prime metal stage).
+[28] Finally, if there was a lack of suitable-quality coal or there were emissions problems resulting from an excess of sulfur or ash in the coal, the combustion chambers were equipped to use natural gas and could have been modified to use oil. In such circumstances, the alternate fuel would also have been introduced into the combustion chamber at the nozzle tip.
+[29] Coal is a rock that is a combination of minerals, including a significant percentage of organic carbonaceous material that is combustible and can be used as a source of heat energy in electricity generation. As a non-metallic ore, coal is ranked from its lowest grade, lignite, to sub-bituminous coal to bituminous coal and finally, to anthracite. Its rank depends on how much ash and moisture it contains as well as its carbon and energy content. Its energy content, as well as determining its use, is a factor in determining the whether its transport is economical.
+[30] Metallic mineral-bearing rock is known in the industry as "mineral ore", an economic (rather than geological) term indicating a sufficient concentration of metal in that rock to give rise to an expectation that its mining and processing will be economic. An example would be the processing of copper mineral-bearing rock to produce nearly pure copper metal. Briefly summarized, that process involves freeing the metal from the rock in three specific steps: extracting and crushing the ore for handling, separating metallic mineral concentrate from the ore and finally, smelting the concentrate to produce (nearly) pure metal. Metals are not ready for use prior to the smelting process, although metallic mineral-bearing ores and concentrates are tradeable commodities in themselves. The term "ore" is not typically applied to coal within the coal industry, making difficult direct comparisons between the production and processing of coal rock and metallic mineral-bearing rock.
+Analysis
+[31] Because sub-bituminous coal is a non‑metallic ore, it cannot be said to have a "prime metal stage"; accordingly, what must be determined in the present case is when the sub‑bituminous coal at Battle River and Sheerness reached "its equivalent" of prime metal stage. To answer that question, it is necessary to know what is meant by the term "prime metal stage" in clause 1204(1)(b)(ii)(A) of the Income Tax Regulations. The term "prime metal stage" is not defined in the Act nor does it have a technical meaning in the industry. It has, however, been the subject of judicial consideration in two Federal Court of Appeal decisions, Canadian Pacific Ltd. v. Canada[23] and Gulf Canada Resources Ltd. v. Canada[24].
+[32] In Canadian Pacific Ltd., the Court considered its meaning in the context of the Excise Tax Act[25]. Stating that there was not "… a 'popular sense' in which the term 'prime metal stage', much less its equivalent as applied to coal, is understood by those conversant with the subject matter"[26], Mahoney, J.A. concluded:
+In my opinion, when metallurgical and thermal coal has been processed to the condition in which it meets the specifications of its consumers and they buy and take delivery of it as coal in that condition, it has certainly reached the equivalent of the prime metal stage within the contemplation of the definition of "mining" in subsection 49.01(1) of the Excise Tax Act.[27]
+[33] This interpretation was adopted by Linden, J.A. (a member of the panel in Canadian Pacific Ltd.) in his dissenting judgment[28] in Gulf Canada Resources Ltd.[29], who expressed the test for "prime metal stage" as follows:
+In my view, the equivalent of the prime metal stage for mineral production is that point where the production processes have produced a marketable, saleable commodity which meets the specifications of its consumers.[30] [Emphasis added.]
+[34] It is upon the use of the word "commodity" in the above passage that the Respondent hinges its argument that the sub-bituminous coal at Battle River and Sheerness reached its equivalent to the prime metal stage when it arrived at the reclaim pile. Under the rubric "thermal coal is thermal coal as a commodity", counsel for the Respondent argued that:
+… the case law establishes that the application of the test to determine the point of ‘prime metal stage or its equivalent' is not related to the particular contractual arrangements under which coal is brought to the point where it is transportable, deliverable and marketable for users or the particular business structure under which coal moves from a mine to a user's operation. It is related to the determination of the point where the coal, as a commodity, is transportable, deliverable and marketable for use by consumers.[31]
+[35] As I understand the Respondent's thesis, there is a universally applicable point at which coal reaches its equivalent to prime metal stage which, regardless of the facts of any particular production and processing operation, attaches upon its arrival at the reclaim pile of a generating station. I am not persuaded by this argument. In my view, the Respondent's position is inconsistent with the legislation, the jurisprudence and the evidence in the present case.
+The Legislation
+[36] Reduced to its essential elements, clause 1204(1)(b)(ii)(A) states that the calculation of the gross resource profits of "a taxpayer" for a taxation year will depend on[32] his incomes for that year from "… the production and processing … of ore … from mineral resources … operated by him [the taxpayer] to any stage that is not beyond the prime metal stage or its equivalent". [Emphasis added.] Nowhere in the provision is there any reference to "commodity".
+[37] In my view, the wording of clause 1204(1)(b)(ii)(A) contemplates a subjective approach to the determination of when, for any particular ore in the circumstances of any particular taxpayer, the prime metal stage or its equivalent may be reached. The language used in clause 1204(1)(b)(ii)(A) requires an examination of the facts of the actual production and processing operation of a specific taxpayer in a specific year. By defining the moment at which the prime metal stage or its equivalent may occur as "any" stage that is not beyond that point, the legislation provides for an infinite range of possibilities, suggesting to me Parliament's intention to leave that determination to the particular circumstances of each case.
+[38] I agree with Counsel for the Appellant that had Parliament intended to impose on producers and processors of ore the standardized "commodity" regime argued by the Respondent, it would have been a simple matter to add "for that ore" to the words "prime metal stage or its equivalent". Alternatively, it could have devised a regulatory schedule (similar to that established for capital cost allowances) arbitrarily assigning a prime metal stage for each ore mined in Canada. Instead, Parliament chose to express itself in a manner which permits a flexibility consistent with its objective of providing incentives to Canadian resource development and production in a diverse and ever-changing industry.
+The Jurisprudence
+[39] As for the case law, in the two cases which have addressed the issue of "prime metal stage", the Federal Court of Appeal was careful to couch its conclusions in terms of the particular facts of each case.
+[40] Looking first at Canadian Pacific, the facts in that case were significantly different from the present matter. There, the Appellants were the railways that had transported the coal from the mine to the consumer[33]. Hoping to bring their transportation of the coal within the definition of "mining" under the Excise Tax Act[34] so as to qualify for a fuel tax rebate, the railways argued that during its transport, the coal was not yet beyond its equivalent to prime metal stage. In rejecting the railways' argument, the Court carefully examined the findings of the lower tribunals including the types of coal in question (metallurgic or thermal) and the respective roles of the mine, the railways and the consumers of the coal in its journey from extraction to consumption. Noting that, for the purposes of determining the prime metal stage or its equivalent, "nothing in the definition of mining requires that the processing included in the definition be conducted at the mining site"[35]. Mahoney, J.A. went on to say:
+… There is necessarily a point in the processing of a metal-bearing ore to the ultimate state required by a user of the metal where what is being processed is no longer ore or concentrate or something else and is recognized by knowledgeable persons as metal. It has, at that point, reached the prime metal stage.[36]
+[41] The above citations illustrate firstly, that in determining when the prime metal stage is reached, there is no magic in any particular location. Further, the Court recognized that although there would "necessarily" be a point at which it could be determined that a metal had reached it prime metal stage, it left to the facts of each case what "the ultimate state required by a user" might be. Consistent with the open-ended nature of the legislative provisions, the Court went on to consider the different uses (steel production vs. electricity manufacturing) to which each consumer intended to put the coal, the different modes of "processing" the coal ore (crushing, pulverizing and blending vs. crushing, pulverizing and drying) as well as the different nature of the "ores" (metallurgical coal ore and thermal coal ore) involved:
+… I would not exclude the possibility that [the coal] had reached that stage sooner but that is not the issue here. The crushing, pulverizing and blending, in the case of metallurgical coal, and the crushing, pulverizing and drying, in the case of the thermal coal, done by the steel and electricity producers were not integral to the processing of coal to the equivalent of the prime metal stage.[37]
+[42] The same fact-specific analysis was conducted by Linden, J.A. in Gulf Canada Resources. Before considering the findings in that case, he turned his attention to section 1204 which he described as:
+... a provision which regulates the computation of "resource profits" for the resource income sources it describes. As a provision triggering resource income treatment, section 1204 plays an important part in the larger scheme applicable to resource operations generally. It is better understood against this larger backdrop, and it is advisable, if possible for its interpretation to be consistent with the scheme as a whole. Hence, a contextual approach to statutory interpretation is vital when any one provision of a complicated scheme becomes the focal point of an analysis.[38]
+[43] With this approach in mind, the learned appellate judge stated that:
+[T]he question that follows, then, is to determine in the context of Syncrude's operations, what is meant by the "equivalent of the prime metal stage"[39]. [Emphasis added.]
+[44] Being careful to link his conclusions to the facts in that case, he then concluded:
+… In the present context, the equivalent of the prime metal stage is that point where bituminous sands are turned into marketable crude oil. I am, therefore, satisfied that the production process contemplated by both clause 1204(1)(b)(ii)(A) and (B), for the purposes of this appeal, is the production to the point of crude oil. [Emphasis added.] [40]
+[45] This qualifying passage immediately follows the portion of Linden J.A.'s dissent that forms the corner stone to the Respondent's submission that "thermal coal is thermal coal as a commodity":
+In my view, the equivalent of the prime metal stage for mineral production is that point where the production processes have produced a marketable, saleable commodity which meets the specifications of its consumers.[41] [Emphasis added.].
+[46] It seems to me then, that when taken in context, Linden J.A.'s use of the word "commodity" does not have the significance urged by the Respondent. Rather than setting a prime metal stage benchmark for bituminous sand that would apply in all cases, the overall effect of Justice Linden's analysis is to underscore the importance of the specific requirements of the consumer in assessing the marketability and saleability of what is being produced and processed. The evidence shows that this determination will necessarily be subject to an infinite range of variables including such things as the kind of ore produced, its quality, its location relative to the consumer, the economics of its transport, technological developments and the market demand, at any given moment, for the product which the ore is required to produce[42]. Mr. Downing gave as an example certain non-integrated generating stations located in Ontario and Atlantic Canada. Without the necessary coal resources locally to produce the electricity needed for community demand, these generating stations have been constructed near coastal waters (rather than coal mines) to provide access to barge delivery of coal from foreign markets. In the United States, where coal rail rates are more favourable than in Canada, some non-integrated generating stations may be located near rail lines. In these examples, the coal will have been crushed at the mine to a “deliverable size”; upon delivery to a reclaim site, the coal will typically be subjected to additional crushing at the generating station to permit its intended use as a combustible fuel. This is not always the case, however. In Japan, where storage space is a factor, coal may be crushed to its ultimate useable state at the mine and then delivered to the generating station ready for immediate combustion.
+[47] Accordingly, I am not persuaded that the above passage supports the Respondent’s position that the determination of "the prime metal stage or its equivalent is not related to the particular contractual arrangements or the particular business structure under which coal moves from a mine to a user's operation". While such factors may not be solely determinative of the question, the case law does not preclude taking them into consideration along with any of the other circumstances surrounding a taxpayer's "operations" to determine when the production and processing results in the equivalent of the prime metal stage having been reached.
+The Evidence
+[48] The Respondent's view of the evidence is that it establishes "that the point where one has a recognized ‘marketable saleable commodity which meets the specifications of its consumers', or where that commodity is 'processed to the condition in which it meets the specifications of its consumers and they buy and take delivery of it as coal in that condition', is the point where thermal coal is crushed and available for transportation and delivery into the conveyoring and combustion system at an electricity generating station, and that that occurs at the reclamation stockpiles …"[43].
+[49] A significant weakness in the Respondent's position is that it has for its foundation the opinion evidence of its expert witness, Mr. Mossop. According to the Respondent's submissions, Mr. Mossop's evidence "… focuses on the status of the thermal coal as a physical commodity with economical value when it is in the form it has reached in the stockpiles [reclaim pile] ..."[44]. Having excluded Mr. Mossop's report and in any event, preferring the evidence of the Appellant's expert witness, I am unable to conclude there is sufficient evidence to support the Respondent's position that the coal reached its equivalent to prime metal stage at the reclaim pile.
+[50] There is ample evidence, however, in favour of the Appellant's arguments. As mentioned above, I found Mr. Walker to be very credible in his evidence. As for Mr. Downing's evidence, in addition to his general testimony, I accept his evidence in response to certain of the assumptions challenged by the Appellant[45]: first, that it is difficult to draw precise parallels between the processes for metallic ore and non-metallic ore; that the specifications for coal as fuel for electricity manufacturers will vary (i.e., in form or size) according to the particular needs of each consumer; that while the coal at Battle River and Sheerness is not "washed" in the sense that there are no technical "washing" facilities located at the mines, the removal of impurities from the coal through the use of screening or magnets was an essential part of the handling and crushing the coal to put it in a form suitable for combustion in the Appellant's generating stations. Further, that the Minister's assumption that no "benefication (removal of waste to improve quality)" occurred after the reclaim pile[46] is incorrect; in fact, hard pieces of rock and foreign matter were separated from the coal throughout the crushing process and pyrites in particular could only be removed at the pulverization stage. The term "beneficiation" in its technical sense is different from its use in paragraph 23(q) in that it means the removal of ash content; this step was simply not required for the coal used at the Battle River and Sheerness generating stations.
+[51] On the whole, the evidence satisfies me that the Appellant was engaged in the production and processing of sub-bituminous coal up to and including its pulverization. To paraphrase Justice Linden's conclusion in Gulf Resources that "[t]he complete Syncrude operation is geared toward the production of marketable crude oil"[47], the Appellant's complete operation up to and including the pulverization hopper was geared toward the crushing and purifying of sub‑bituminous coal preparatory to its only marketable use as a fuel in the Appellant's generating stations. From the extraction of the coal from the seam to its final pulverization, the essence of the process was the crushing of coal: large chunks of run-of-mine-coal had to be broken to fit into the front-end loaders and haulers; broken again, to fall through the grizzly; further crushed to 6‑inch and 1‑inch pieces in the primary and secondary crushers; and finally, pulverized. Thus, while I take the Respondent’s point that Mr. Downing agreed that the sub‑bituminous coal deposited on the reclaim pile "met the Appellant's specifications", his response has to be considered in light of the fact that such specifications were just one in a series of varying size specifications required to permit the coal to move through each stage of what was, in fact, a seamless crushing operation to produce and process the coal ore into the state required by its only user, the Appellant.
+[52] There was no market for the Appellant's sub-bituminous coal in its reclaim pile condition. The only condition in which it became marketable and saleable was in its pulverized form, crushed to a baby-powder fineness that would permit its injection into and combustion in its generating stations. Indeed, the Appellant's generating stations were equipped to use (or, with some modification of its equipment, could have used) an alternative fuel in the event coal was not available. No matter what the fuel – pulverized coal, natural gas, oil – the point at which it met the Appellant's specifications for use in its electricity manufacturing business was at the nozzle tip. Had the Appellant converted its generating stations from coal fuel to natural gas or oil, all of the machinery and conveyor systems as well, as the coal mine themselves, would have become obsolete.
+[53] Expressed in the language of the case law, the "marketable saleable commodity" which met the Appellant's specifications as a consumer, and the point at which that commodity was processed to the condition in which it met the specifications of the Appellant who bought and took delivery of it as coal, was in its pulverized form. At that point, as a result of the Appellant's multi-step crushing operations, the coal first acquired the measure of economic equivalence contemplated by the term "prime metal stage or its equivalent". In these circumstances, the heavy machinery, system of conveyors and crushers and other assets employed in each step of the process up to that point were, "integral"[48] to the production and processing of sub-bituminous coal to its equivalent of the prime metal stage.
+[54] For the reasons set out above, I am satisfied that the sub-bituminous coal used by the Appellant in its electricity manufacturing reached its equivalent to the prime metal stage at the pulverization stage of the crushing operation. It is on this basis that the computation of the Appellant's resource profits and its resource allowance and the characterization of its assets is to be made.
+Transformer Issue
+[55] The second issue is whether the amount of $622,990[49] incurred by the Appellant in its 2000 taxation year to replace certain transformers in its business of the transmission and distribution of electricity is a current expense that is deductible from business income under paragraph 18(1)(a) of the Income Tax Act, or a capital expenditure that is precluded from being deducted under paragraph 18(1)(b) of the Act.
+The Legislation
+[56] The relevant legislative provisions are subsection 9(1) and paragraphs 18(1)(a) and (b):
+SECTION 9: Income.
+(1) Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+...
+SECTION 18: General Limitations
+(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation – an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) Capital outlay or loss – an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+...
+The Evidence
+[57] The parties filed an Agreed Statement of Facts in respect of the Transformer issue:
+...
+19. During its taxation year ending December 31, 2000, ATCO Electric incurred expenses in the amount of $1,280,267.51 relating to the cost of materials and labour to replace transformers throughout its distribution and transmission network which were under 3MVA in capacity that had failed.
+20. The actual cost of materials and labour incurred by ATCO Electric in 2000 to replace all transformers under 3 MVA was $1,707,023, as described in the schedules contained in the Joint Book of Documents, Tab 12. This amount was reduced by 25% to $1,280,267.51 based upon an internal study conducted by ATCO Electric for 2002 which indicated that 75% of the transformers replaced were replaced due to failure and were not reusable, whereas the balance were reused as the replacement was due to other reasons, such as a change in voltage. The same percentage applies to 2000. A summary of the study entitled "Equipment Report Analysis for 2002" is located in the Joint Book of Documents, Tab 10.
+21. A copy of ATCO Electric's T2 Return for the 2000 taxation year is located in the Joint Book of Documents, Tab 11.
+22. In reassessing the Appellant for its taxation year ending December 31, 2000 by Notice of Reassessment dated April 4, 2002, the Minister made adjustments to certain balances of the Appellant, none of which are in issue in this appeal.
+23. ATCO Electric served a Notice of Objection on the Minister on April 23, 2002 raising for the first time an issue regarding the proper characterization of certain outlays as current instead of capital expenditures including, inter alia, a claim for adjustment in the amount of $622,990 in respect of outlays which related to the material and labour costs of replacing transformers which had been damaged ("Rainbow Pipelines Objection"). A copy of ATCO Electric's Notice of Objection for the 2000 taxation year is located in the Joint Book of Documents, Tab 13.
+24. By Notice of Reassessment dated February 11, 2004 ("Transformer Reassessment"), the Minister allowed the Rainbow Pipelines Objection in part, but did not accept that $622,990 in transformer replacement costs were not capital in nature (“Transformer Expenses”). A copy of the Notice of Reassessment and the T7WC are located in the Joint Book of Documents, Tab 14.
+[58] In reassessing the Appellant's 2000 taxation year in respect of the transformer replacements, the Minister relied on the following assumptions:
+a) the Appellant is a corporation with a fiscal year end of December 31;
+b) the Appellant is engaged in the generation, transmission, distribution and retailing of electrical energy;
+c) the Appellant expended the amount of $622,990 with respect to the replacement of electrical transformers;
+d) the replacement of the electrical transformers included the installation of new transformers and the removal of existing transformers;
+e) electrical transformers are sold as separate assets;
+f) electrical transformers are expensive;
+g) electrical transformers are large;
+h) the Transformer Replacement Amounts were expended in order to achieve an enduring benefit to the Appellant's operations and business; and
+i) the Appellant capitalized the Transformer Replacement Amounts for accounting purposes.[50]
+[59] As in all tax appeals, the Appellant has the onus of proving wrong the assumptions upon which the reassessment was based. However, most of the assumptions set out above are not in dispute and have been incorporated into the Agreed Statement of Facts.
+Analysis
+[60] The case law for determining whether an expense is current or capital in nature are well established.[51] In Rainbow Pipe Line Co. v. Her Majesty the Queen[52], Mogan, J. set out the relevant considerations:
+1. whether the expense was recurring or non-recurring;
+2. whether the expense was a major repair;
+3. whether the expense brought into existence an asset for the enduring benefit of the appellant's business; and
+4. whether the expense was substantial in relation to the book value of the property, other expenses and annual profits.
+[61] The only witness to testify was Mr. Dennis DeChamplain, a Chartered Accountant who is currently the vice-president controller of financial reporting and accounting for the Appellant. He presented his evidence in a clear and concise manner. I found his answers entirely convincing, including his explanation of the regulatory environment in which the Appellant decided to change how it expensed the transformers.
+[62] How do transformers fit into the Appellant's electricity manufacturing business? Electricity is generated at the Appellant’s generating stations and makes its way to Alberta consumers through a series of substations, wires, poles and transformers. A transformer is a device that allows for the transfer of electricity from one circuit to another: the voltage can be either increased or decreased depending on what is required for the movement of electricity at any particular point in the network. There are approximately 83,000 transformers in the Appellant's system varying in capacity, size and price: from the “10kVA” (10,000 volts), about the size of a garbage can[53] at a unit price of $300 to $350 to the "3MVA" (3 million volts), the size of a mini-van and worth approximately $50,000 each.
+[63] Because the smaller transformers are sealed units, it is more economical to replace than to repair them. I accept Mr. DeChamplain's evidence detailing his calculation that in 2000, the Appellant replaced 709 transformers ranging from 10 to 75 kMV at an average unit cost of $943.16[54]. Only about 2,000 of the Appellant's 83,000 transformers were 3MVA transformers. Unlike smaller transformers, in the case of malfunction they can be opened up and repaired; in 2000, however, five of the 3MVA's had to be replaced rather than repaired. Because of their greater value and the infrequency of their replacement, the Appellant classified such expenses as capital; thus, their cost was not included in the $622,990 at issue in this appeal.
+[64] Turning, then, to the Rainbow Pipe Line factors, the Respondent contends that the transformer replacement costs were "non-recurring" since the average life span of a transformer is 33 years. This submission might be persuasive if all of the transformers always lived up to such projections. The fact is, however, that each year 500 to 1,000 of the 83,000 transformers in the Appellant's distribution system become non-functional thanks to lightning strikes, "shorting-out" and vandalism[55] all of which are, by their nature, quite likely to continue to occur. In these circumstances, it is probable that the Appellant will always be and in 2000 was obliged to replace a certain percentage of its transformers. Accordingly, the expense of regular transformer replacement is recurring in nature.
+[65] The next consideration is whether the replacement expense was "major". This, like the Minister's assumption that transformers are "large"[56] and "expensive"[57], is a relative question. It is common ground that the Appellant's outlays were limited to the costs of replacing transformers which had been damaged; newly acquired transformers or upgraded models of existing transformers were not included in the Appellant's claim. The number of transformers and the cost per unit was small relative to the Appellant’s overall distribution system, representing less than 1% of all of the transformers in the system and their replacement cost, less than 1% of the Appellant's revenues, expenses and profit for 2000.
+[66] In these circumstances, the replacement of a few transformers here and there in a multi-million dollar electrical system is akin to changing a few bulbs in an otherwise functioning string of Christmas tree lights[58]. Perhaps a better example is that of the spark plug, described in Interpretation Bulletin IT-128R:
+...
+(d) Relative value - The amount of the expenditure in relation to the value of the whole property or in relation to previous average maintenance and repair costs often may have to be weighed. This is particularly so when the replacement itself could be regarded as a separate, marketable asset. While a spark plug in an engine may be such an asset, one would never regard the cost of replacing it as anything but an expense; but where the engine itself is replaced, the expenditure not only is for a separate marketable asset but also is apt to be very substantial in relation to the total value of the property of which the engine forms a part, and, if so, the expenditure likely would be regarded as capital in nature.
+[67] In the circumstances of this appeal, the small transformers are the sparkplugs, rather than the engine, in the automobile that is the Appellant's electricity distribution system. Relative to the quantum of the expense in relation to the book value of the assets, other expenses and annual profits, the transformer replacement expense was not "major" in the sense contemplated by Rainbow Pipe Line.
+[68] It remains to consider whether the transformers constituted an "enduring benefit" to the Appellant's business. In support of the Respondent's position that their replacement was an enduring benefit, counsel for the Respondent argued that the transformers are an integral part of the electrical distribution system. As each one was replaced, the overall asset was enhanced by 33 years of use; thus, their replacement was a "betterment" that materially improved the distribution system beyond its original condition.
+[69] I am not persuaded this is so. The issue of the transformers' life expectancy has already been considered above. I accept that the transformers were "integral" to the Appellant's system in the sense that electricity could not be transmitted without them. Their replacement, however, did not enhance the system; it merely restored it to the state required to keep it functioning as intended. Turning once more to Interpretation Bulletin IT-128R, "(w)here an expenditure made in respect of a property serves only to restore it to its original condition, that fact is one indication that the expenditure is of a current nature" as illustrated by the example of the replacement of a ship's rudder in IT-128R:
+...
+(c) Integral Part or Separate Asset - Another point that may have to be considered is whether the expenditure is to repair a part of a property or whether it is to acquire a property that is itself a separate asset. In the former case the expenditure is likely to be a current expense and in the latter case it is likely to be a capital outlay. For example, the cost of replacing the rudder or propeller of a ship is regarded as a current expense because it is an integral part of the ship and there is no betterment; but the cost of replacing a lathe in a factory is regarded as a capital expenditure because the lathe is not an integral part of the factory but is a separate marketable asset.
+[70] Thus, while any given transformer might remain useful for 33 years, at any given moment there will always be another, somewhere in the system, that needs to be replaced. In these circumstances, the benefit of replacing non-functional transformers is anything but enduring; rather, the effect of the replacement was simply to preserve the status quo of the original network.
+[71] For all of these reasons, I am persuaded by the Appellant's argument that the transformer replacement expenditures are analogous to the costs associated with the sort of on-going maintenance repairs which Mogan, J. concluded in Rainbow Pipe Line should be treated as current expenses. On the evidence before me, I am satisfied that the replacement of the transformers was a current expense.
+[72] The appeals are allowed with costs and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. in respect of the 1997 and 1998 taxation years, the sub-bituminous coal used by the Appellant to produce electric energy reached its equivalent to the prime metal stage at the pulverization stage; and
+2. in respect of the 2000 taxation year, the amount of $622,990 expended by the Appellant to replace electrical transformers was a current expense.
+Signed at Ottawa, Canada, this 4th day of May, 2007.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC243
+COURT FILE NO.: 2004-1170(IT)G
+STYLE OF CAUSE: ATCO ELECTRIC LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: September 18, 19 and 20, 2006
+REASONS FOR JUDGMENT: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: May 4, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Curtis Stewart
+Jo'Anne Strekaf
+Counsel for the Respondent:
+William L. Softley
+Belinda Schmid
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Curtis Stewart and Jo'Anne Strekaf
+Firm: Bennett Jones, LLP
+Calgary, Alberta
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] Exhibit A-2.
+[3] For the capital cost allowance provisions, see subsection 1104(2) for the definition of "ore", subparagraph 1104(5)(a)(i) for "income from a mine", and 1104(5.1)(a)(i) for "gross revenue from a mine".
+[4] Mossop Report, I. Introduction
+[5] Mossop Report, I. Introduction, a conclusion that accords with both the case law and the Appellant's position.
+[6] 96 DTC 1744.
+[7] Supra, at page 1746.
+[8] Exhibit A-3.
+[9] Now known as ATCO Power.
+[10]ATCO Power was spun off from Appellant sometime after the taxation years in question.
+[11] Exhibit A-1, Tabs 2, 15 and 16.
+[12] Subparagraphs 23(h), (m), (p), (q), (r), (s), (t), (u), (v), (w), (x) and (dd) of the Reply to the Amended Notice of Appeal. I accept the Appellant's submission that paragraphs 23(n), (o), (y), (aa), (cc), and (dd) in the Reply to the Amended Notice of Appeal are not proper assumptions of fact as they are merely a restatement of the statutory provisions that are the subject of dispute.
+[13] In 1997, Sheerness consumed approximately 3,600,000 tons of coal; only 10,000 tons was sold for domestic use. Battle River consumed 3,000,000 tons; less than 9,000 tons went to domestic use.
+[14] See the Minister's assumption; paragraph 23(k) of the Reply to the Notice of Appeal.
+[15] Paragraph 23(l) of the Reply to the Notice of Appeal.
+[16] Transcript, page 452, lines 10-12.
+[17] Interestingly, an expression of quantification also favoured by the drafters of the Income Tax Act.
+[18] "Blending" of a more rough-and-ready nature also took place at the loading stage when front‑end loader operators load coal of differing quality into the haulers.
+[19] Sample, Exhibit A-36.
+[20] Also known as the "frozen coal crusher". Coal on the reclaim pile is exposed to the elements which, in Alberta, means that it may become frozen; this frozen coal is crushed in the secondary crusher.
+[21] Sample, Exhibit A-38.
+[22] Sample, Exhibit A-37.
+[23] [1994] F.C.J. No. 933.
+[24] [1996] F.C.J. No.110.
+[25] The relevant portion is quoted in Canadian Pacific at paragraph 2 as:
+49.01(1) In this section,
+"mineral resource" means
+...
+(b) a coal deposit, ...
+"mining" means the extracting of minerals from a mineral resource, the processing of ore, other than iron ore, from a mineral resource to the prime metal stage or its equivalent…
+[26] Canadian Pacific, supra at paragraph 19.
+[27] Supra, at paragraph 30.
+[28] The majority decided the case on other grounds so did not directly address the interpretation of the "prime metal stage or its equivalent" under the Income Tax Act.
+[29] The appeal in Gulf Canada Resources Ltd. concerned the taxpayer's 1978 taxation year; the wording of clause 1204(1)(b)(ii)(A) has been slightly amended since that time.
+[30] Supra, at paragraph 41.
+[31] Respondent’s Written Submissions, page 4.
+[32] Among other factors not relevant to this appeal.
+[33] Unlike the present case, the mine and the consumer were two separate entities. Neither the mine or the consumers was the initiator of the appeal in respect of the "prime metal stage or its equivalent".
+[34] The relevant portions of which read:
+49.01(1) In this section,
+"mineral resource" means
+...
+(b) a coal deposit, ...
+"mining" means the extracting of minerals from a mineral resource, the processing of ore, other than iron ore, from a mineral resource to the prime metal stage or its equivalent …
+[35] Canadian Pacific, supra at paragraph 25.
+[36] Canadian Pacific, supra.
+[37] Canadian Pacific, supra at paragraph 30.
+[38] Gulf Canada Resources Ltd., supra at paragraph 31.
+[39] Supra at paragraph 40.
+[40] Supra at paragraph 43.
+[41] Supra, at paragraph 41.
+[42] For an illustration of the degree to which the circumstances of production and processing can change from year to year, see the description of the majority in Gulf Resources (96 D.T.C. 6065 at page 6067) of the exploitation of bituminous sands in Northern Alberta since Syncrude established itself there in 1964. The changes since the Federal Court of Appeal considered the case in 1996 are no less dramatic.
+[43] Respondent's Written Submission, page 5.
+[44] Respondent's Written Submission, page 6.
+[45] Subparagraphs 23(h), (m), (p), (q), (r), (s), (t), (u), (v), (w), (x) and (dd) of the Reply to the Notice of Appeal.
+[46] Paragraph 23(q) of the Reply to the Notice of Appeal.
+[47] Supra at paragraph 42.
+[48] Canadian Pacific, supra at paragraph 30, although on the facts of that case the Court concluded that the activities of the electricity producers were not integral to processing to the prime metal stage.
+[49] It is common ground that pursuant to subsections 225.1(8), 165(1.11) and 169(2.1) of the Act, the Appellant (as a "large corporation") is precluded from seeking a deduction from income in excess of $622,990, the amount originally put in issue in its Notice of Objection.
+[50] Reply to the Notice of Appeal, Paragraph 24.
+[51] Canderel Ltd. v. R., [1998] 2 C.T.C. 35 (S.C.C.); Johns-Manville Canada Inc. v. R., [1985] 2 C.T.C. 111 (S.C.C.).
+[52] [2000] 1 C.T.C. 2091 (T.C.C.), affirmed [2002] F.C.J. No. 920 (F.C.A.).
+[53] There are also intermediate-sized transformers ranging from 150 kVA to 500kVA which the are about the size of a desk.
+[54] Ranging in price from $334.63 to $4,042 per transformer.
+[55] Transformers apparently holding an irresistible allure for target shooters.
+[56] Assumption 24(f).
+[57] Assumption 24(g).
+[58] This analogy dates me. Given the disposition of our society to use-and-toss, it is probably no longer possible to replace the bulbs in a string of lights.

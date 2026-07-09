@@ -1,0 +1,228 @@
+---
+title: "Bouraima c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521564/index.do"
+last_modified: "2026-01-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 CCI 198"
+citation2: ""
+neutral_citation: "2025 CCI 198"
+decision_date: "2026-01-12"
+language: "fr"
+item_id: "521564"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5635
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-01-17T09:01:52.864000+00:00"
+cases_cited_count: 12
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b9ae7badcafc7ed15542fee66a1a6b7a6e04ba261d3f1c3ff6c159a7fe9604b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bouraima c. Le Roi
+
+- Citation: 2025 CCI 198
+- Decision date: 2026-01-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5635, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouraima c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2026-01-12
+Référence neutre
+2025 CCI 198
+Numéro de dossier
+2024-2468(IT)I, 2024-2470(IT)I, 2024-2474(IT)I
+Juges et Officiers taxateurs
+Andrew Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2024-2468(IT)I
+ENTRE :
+MOUHAMMAD MOUWAFFAK BOURAIMA,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Requête entendue le 12 décembre 2025 à Montréal (Québec)
+Devant : Juge adjoint Andrew Miller
+Comparutions :
+Avocat de l'appelant :
+Me Issiakou Moustapha
+Avocat de l'intimé :
+Me Louis-Roch Desjardins
+ORDONNANCE
+La requête de l’intimé est accordée.
+La Cour ordonne ce qui suit :
+1) La Réponse à l’avis d’appel, modifiée en date du 30 juin 2025, est réputée déposée à la Cour et signifiée à l’appelant en date de la présente Ordonnance.
+2) Des dépens au montant forfaitaire de 1 000$ sont accordés à l’appelant.
+3) L’intimé aura 60 jours de la date de la présente Ordonnance pour payer les dépens à l’appelant.
+Signé ce 12e jour de janvier 2026.
+« Andrew Miller »
+Juge adjoint Miller
+Dossier : 2024-2470(IT)I
+ENTRE :
+LORNG ESMEL ADJE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Requête entendue le 12 décembre 2025 à Montréal (Québec)
+Devant : Juge adjoint Andrew Miller
+Comparutions :
+Avocat de l'appelant :
+Me Issiakou Moustapha
+Avocat de l'intimé :
+Me Louis-Roch Desjardins
+ORDONNANCE
+La requête de l’intimé est accordée.
+La Cour ordonne ce qui suit :
+1) La Réponse à l’avis d’appel, modifiée en date du 30 juin 2025, est réputée déposée à la Cour et signifiée à l’appelant en date de la présente Ordonnance.
+2) Des dépens au montant forfaitaire de 1 000$ sont accordés à l’appelant.
+3) L’intimé aura 60 jours de la date de la présente Ordonnance pour payer les dépens à l’appelant.
+Signé ce 12e jour de janvier 2026.
+« Andrew Miller »
+Juge adjoint Miller
+Dossier : 2024-2474(IT)I
+ENTRE :
+JEANNE BAZIE,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Requête entendue le 12 décembre 2025 à Montréal (Québec)
+Devant : Juge adjoint Andrew Miller
+Comparutions :
+Avocat de l'appelante :
+Me Issiakou Moustapha
+Avocat de l'intimé :
+Me Louis-Roch Desjardins
+ORDONNANCE
+La requête de l’intimé est accordée.
+La Cour ordonne ce qui suit :
+1) La Réponse à l’avis d’appel, modifiée en date du 30 juin 2025, est réputée déposée à la Cour et signifiée à l’appelante en date de la présente Ordonnance.
+2) Des dépens au montant forfaitaire de 1 000$ sont accordés à l’appelante.
+3) L’intimé aura 60 jours de la date de la présente Ordonnance pour payer les dépens à l’appelante.
+Signé ce 12e jour de janvier 2026.
+« Andrew Miller »
+Juge adjoint Miller
+Référence : 2025 CCI 198
+Date : 20260112
+Dossier : 2024-2468(IT)I
+ENTRE :
+MOUHAMMAD MOUWAFFAK BOURAIMA,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+ET ENTRE :
+Dossier : 2024-2470(IT)I
+LORNG ESMEL ADJE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+ET ENTRE :
+Dossier : 2024-2474(IT)I
+JEANNE BAZIE,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DE L’ORDONNANCE
+Juge adjoint Miller
+[1] Les appels de Mouhammad Mouwaffak Bouraima, Jeanne Bazie et Lorng Esmel Adje (les « appelants ») ont été fixés pour audition dans la même journée.
+[2] Or, l’intimé a avisé la Cour et les appelants à l’avance de son intention de présenter oralement une requête, le jour de l’audition des appels, afin de modifier la Réponse à l’avis d’appel dans chacun des appels (les « Réponses »).
+[3] Les actes de procédure contiennent de nombreuses similitudes, tant dans les faits et moyens invoqués au soutien des appels que dans les faits pris pour acquis par le ministre du Revenu national et les moyens soulevés par l’intimé au soutien des avis de cotisations. Avec l’accord des parties, j’ai entendu les requêtes de l’intimé sur la base d’arguments communs, puisque les modifications que l’intimé souhaite apporter aux Réponses sont identiques.
+Résumé des questions en litige des appels [4] Par avis de nouvelles cotisations, les appelants se sont vu refuser des pertes d’entreprise conformément à l’article 9 de la Loi de l’impôt sur le revenu (« LIR »). Les appelants disent avoir encouru des dépenses d’entreprise pour des activités commerciales qui se tiennent à l’étranger et demandent à cette Cour d’admettre leurs appels en leur accordant les dépenses d’entreprise refusées par le ministre.
+[5] L’intimé soutient que les appelants n’exploitaient pas d’entreprises pendant les années en litige. Dans l’alternative, l’intimé soumet que certaines dépenses réclamées sont de nature personnelle et doivent être refusées en vertu des paragraphes 18(1)a) et h) de la LIR, ou qu’elles ne constituent pas des montants raisonnables et doivent être refusées conformément à l’article 67 de la LIR.
+Les actes de procédure [6] Les avis d’appel dans chacun des appels ont été déposés le 30 octobre 2024. L’intimé a déposé ses Réponses le 10 février 2025. Le 30 juin 2025, l’intimé a envoyé des lettres à la Cour annonçant son intention de présenter des requêtes afin de modifier les Réponses. L’intimé a également inclus, avec ces lettres, une copie d’une réponse à l’avis d’appel modifié dans chacun des appels.
+[7] Les modifications recherchées par l’intimé aux Réponses sont identiques. Il s’agit de radier le survol et les faits additionnels qui avaient été avancés par le Procureur général du Canada.[1] Le survol et les faits additionnels du Procureur général du Canada visent essentiellement à soutenir l’argument de l’intimé quant à l’inexistence des entreprises avec des allégations que les appelants font partie d’un plus large groupe de contribuables qui participent tous dans un même effort de réclamer des dépenses relatives à des « prétendues entreprises ». Pour une raison qui est inexplicable, l’intimé allègue également que l’avocat des appelants est au cœur de cette initiative.
+Analyse [8] La jurisprudence est claire quant aux critères applicables relatifs à une demande de modification d’un acte de procédure. Dans l’arrêt El Ad Ontario Trust, la Cour d’appel fédérale nous informe que :[2]
+[L]es modifications d’un acte de procédure devraient être autorisées si elles aident le tribunal à trancher les véritables questions en litige entre les parties, pourvu qu’elles ne causent pas à l’autre partie une injustice que des dépens ne pourraient réparer et qu’elles servent les intérêts de la justice: Canada c. Pomeroy Acquireco Ltd., 2021 CAF 187, par. 4, et les décisions qui y sont citées.
+[9] Les modifications aux Réponses recherchées par l’intimé sont des modifications par soustraction, et non pas des modifications par addition. Par ces modifications, l’intimé vise à radier des faits et allégations touchant sur la conduite d’autres contribuables et qui soulignent le rôle de l’avocat des appelants dans les réclamations des pertes d’entreprise en litige.
+[10] La décision de l’intimé de référer aux agissements d’autres contribuables dans les Réponses soulève des questions quant à la pertinence de ces faits. Je n’ai pas à trancher là-dessus pour les fins de ces requêtes. Cependant, il est manifeste que les allégations, même implicites, par lesquelles l’avocat des appelants est jumelé aux efforts menant aux déductions réclamées par ces contribuables n’ont pas leur place dans un acte de procédure devant cette Cour.
+[11] Il est alors surprenant que les appelants contestent les modifications proposées par l’intimé. En premier lieu, les appelants soutiennent que les efforts de l’intimé pour modifier les Réponses sont tardifs. Ils ajoutent que cet effort n’est qu’une tactique stratégique visant à cacher le fait que la décision du ministre de refuser les dépenses d’entreprise n’est pas uniquement fondée sur les dispositions de la LIR, mais aussi sur la conduite prétendue de l’avocat des appelants. Les appelants reprochent également à l’intimé la décision initiale d’inclure le survol et les faits additionnels sur la base qu’elle visait à influencer la Cour sur le bien-fondé des appels, de dissuader les autres contribuables de faire appel des cotisations du ministre, et d’intimider les appelants avec des « attaques virulentes » contre l’avocat des appelants.[3] Bref, les appelants insistent que, pour des raisons de transparence, la conduite du ministre menant aux avis de nouvelles cotisations devrait faire partie des faits soumis à la Cour pour les fins des appels sur le fond.
+[12] Peu importe les motifs pour lesquelles l’intimé souhaite modifier les Réponses, il n’en demeure pas moins que la conduite du ministre n’est pas un motif pour annuler, modifier ou déférer au ministre une cotisation établie en vertu de la LIR. La Cour d’appel fédérale nous rappelle que :
+Lorsqu’une cotisation d’impôt sur le revenu fait l’objet d’un appel devant la Cour de l’impôt, la seule question en litige devant la Cour de l’impôt est la validité de la cotisation en fonction des dispositions applicables de la Loi de l’impôt sur le revenu : Main Rehabilitation Co. c. Canada, 2004 CAF 403, par. 8; Ereiser c. Canada, 2013 CAF 20, par. 31. Il est « bien établi que la Cour canadienne de l’impôt n’a pas compétence pour annuler une cotisation établie sur la base d’une conduite fautive du ministre » (Robertson c. Canada, 2017 CAF 168, par. 59) ou tout autre représentant du gouvernement, et ce, même si cette conduite est avérée et qu’elle peut être considérée comme une « conduite fautive […], tel un abus de pouvoir ou un manquement à l’équité » : Canada (Revenu national) c. JP Morgan Asset Management (Canada) Inc., 2013 CAF 250, par. 83, et la jurisprudence qui y est citée.[4]
+[13] Même si les appelants seraient en mesure d’associer le contenu des modifications recherchées dans les Réponses à une conduite quelconque du ministre, celle-ci n’aurait aucun impact sur la validité des cotisations. Il en découle qu’en supprimant les extraits des Réponses qui font l’objet des modifications proposé par l’intimé, les appelants ne subissent aucun préjudice ou injustice.
+[14] Conséquemment, les modifications aux Réponses recherchées par l’intimé devraient être accordées. En supprimant dans les Réponses le survol et les faits additionnels du Procureur général du Canada, ceci aidera la Cour à trancher les véritables questions en litige entre les parties, aucune injustice ne sera subie par les appelants que des dépens ne peuvent réparer, et les modifications serviront les intérêts de la justice.
+Hypothèses de faits [15] Lors de l’audience des requêtes, j’ai questionné l’intimé sur la qualité de certaines hypothèses de faits du ministre qui ne font pas l’objet des modifications proposé par l’intimé. En effet, les hypothèses de faits occupent une place unique dans le litige fiscal. Généralement, elles imposent un fardeau de preuve à un appelant qui doit réfuter un ou plusieurs faits avec une preuve établie selon la prépondérance des probabilités.[5]
+[16] Les hypothèses suivantes sont celles qui ont attiré mon attention :
+L'appelant n'est pas en mesure d'expliquer la provenance de ses revenus d'entreprise bruts.[6]
+L'appelant n'est pas en mesure de justifier les dépenses réclamées.[7]
+En réalité, l'appelant n'apporte aucune justification suffisante pour l'ensemble de ses dépenses.[8]
+Le préparateur des déclarations de revenus de l'appelant pour les années en litige est Me Issiakou Moustapha.[9]
+[17] Bien que j’aie des doutes quant à la qualité de ces hypothèses et au fardeau qu’elles peuvent imposer aux appelants, je trouve qu’il ne serait pas approprié de les radier. En effet, je garde à l’esprit ce que la Cour d’appel fédérale nous dit dans l’arrêt Preston Family Trust II :
+Une hypothèse qui est un énoncé mixte de fait et de droit n’impose pas de fardeau supplémentaire au contribuable. […] Comme l’a fait observer la Cour de l’impôt dans la décision Kopstein, [traduction] « [p]our déterminer s’il est approprié de radier un paragraphe [...] il faut garder à l’esprit l’effet pratique du paragraphe » et [traduction] « une hypothèse invalide ou non applicable n’impose pas de fardeau à [un contribuable] simplement parce qu’elle a été invoquée » (par. 67 et 68).
+[…]
+Au contraire, la Cour a expressément reconnu qu’il est possible de laisser en l’état « un acte de procédure qui présente certaines lacunes si, par exemple, les faits sont relativement simples, qu’il y ait peu ou pas de controverse au sujet des principes juridiques applicables, ou s’il y a peu de risques que la partie adverse subisse un préjudice ou soit obligée de consacrer à l’affaire inutilement des ressources » : arrêt BCIC, par. 94.[10]
+[18] Ainsi, il incombera au juge saisi du procès de déterminer si un fardeau quelconque est imposé aux appelants quant aux hypothèses de fait, étant donné leurs natures péremptoires et leurs pertinences quant aux questions en litige.
+Dépens [19] Bien qu’accorder des dépens dans des appels régis par la procédure informelle est inhabituel et bien que les requêtes de l’intimé soient accordées, des dépens de 1 000$ sont accordés à chacun des appelants.
+[20] Cette décision d’accorder des dépens aux appelants n’est pas prise à la légère. Cependant, il est indéniable que les requêtes de l’intimé ont retardé indûment la tenue des auditions des appels. Ceci n’est pas un critique de la décision de présenter ces requêtes. Au contraire, la décision de modifier les Réponses est appropriée, mais la nécessité de présenter ces requêtes découle d’une décision prise par l’intimé qui se range quelque part entre une décision maladroite ou inopportune et un manque total de jugement.
+[21] En effet, il est difficile de réconcilier l’existence du survol et les faits additionnels avec un but légitime lié au litige. Je ne fais aucune conclusion quant aux motifs derrière ces allégations, d’ailleurs je n’ai pas une preuve suffisante des motifs de l’intimé. Il n’en demeure pas moins que la décision de les inclure dans les Réponses constitue une erreur importante qui a causé des délais pour la tenue des auditions des appels et qui a sans doute obligé les appelants à encourir des dépenses imprévues.
+Par conséquent, en vertu de l’article 18.26 de la Loi sur la cour canadienne de l’impôt, de l’article 10 et de l’alinéa 21(4) des Règles de la Cour canadienne de l’impôt (procédure informelle), et en vertu de la compétence inhérente nécessaire à l’exercice de la fonction judiciaire de cette Cour, ainsi qu’à l’exécution du mandat d’administrer la justice[11], des dépens au montant forfaitaire de 1 000$ sont accordés à chacun des trois appelants.
+Signé ce 12e jour de janvier 2026.
+« Andrew Miller »
+Juge adjoint Miller
+RÉFÉRENCE :
+2025 CCI 198
+Nº DU DOSSIER DE LA COUR :
+2024-2468(IT)I, 2024-2470(IT)I, 2024-2474(IT)I
+INTITULÉ DE LA CAUSE :
+MOUHAMMAD MOUWAFFAK BOURAIMA, LORNG ESMEL ADJE, JEANNE BAZIE ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 12 décembre 2025
+MOTIFS DE L’ORDONNANCE PAR :
+Juge adjoint Andrew Miller
+DATE DE L’ORDONNANCE :
+Le 12 janvier 2026
+COMPARUTIONS :
+Avocat des appelants :
+Me Issiakou Moustapha
+Avocat de l'intimé :
+Me Louis-Roch Desjardins
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants:
+Nom :
+Me Issiakou Moustapha
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Pour les appels Bouraima et Adje, ces faits additionnels se trouvent aux paragraphes 8 des Réponses. Pour l’appel Bazie, ils se trouvent au paragraphe 7 de la Réponse.
+[2] El Ad Ontario Trust c. Sa Majesté le Roi, 2023 CAF 231, par. 4. Voir aussi Sa Majesté la Reine c. Pomeroy Acquireco Ltd., 2021 CAF 187, par. 4; Polarsat Inc. c. Sa Majesté le Roi, 2023 CAF 247, par. 3; Sa Majesté la Reine c. Canderel Limitée, [1994] 1 F.C. 3, par. 9.
+[3] L’avocat des appelants prétend également que les requêtes en modifications ne sont pas spontanées, mais plutôt un geste calculé suite à l’envoi d’un subpoena par un appelant à un représentant de l’intimé suite au dépôt d’une réponse à l’avis d’appel dans un appel similaire et qui ne fait pas partie des présents appels. Pour les fins de ces requêtes, je n’ai pas cette preuve. Si les appelants voulaient mettre en preuve l’existence du subpoena, il aurait pu être déposé à l’audience des requêtes, ce qui n’a pas été fait.
+[4] Lorence Hud c. Sa Majesté le Roi, 2024 CAF 82, par. 39.
+[5] Sa Majesté la Reine c. Anchor Pointe Energy Ltd., 2007 CAF 188, par. 28.
+[6] Pour l’appel Bouraima, il s’agit du paragraphe 7.6. Pour l’appel Adje, il s’agit du paragraphe 7.3. Pour l’appel Bazie, il s’agit du paragraphe 6.7.
+[7] Pour l’appel Bouraima, il s’agit du paragraphe 7.9. Pour l’appel Adje, il s’agit du paragraphe 7.6. Pour l’appel Bazie, il s’agit du paragraphe 6.10.
+[8] Pour l’appel Bouraima, il s’agit du paragraphe 7.18. Pour l’appel Adje, il s’agit du paragraphe 7.12. Pour l’appel Bazie, il s’agit du paragraphe 6.16.
+[9] Pour l’appel Bouraima, il s’agit du paragraphe 7.22. Pour l’appel Adje, il s’agit du paragraphe 7.16. Pour l’appel Bazie, il s’agit du paragraphe 6.20.
+[10] Sa Majesté le Roi c. John Preston, Monika Preston et The Preston Family Trust II, 2023 CAF 178, par. 20 et 32.
+[11] R. c. Cunningham, 2010 CSC 10, par. 18; Levy c. Canada, 2021 CAF 93, par. 1.

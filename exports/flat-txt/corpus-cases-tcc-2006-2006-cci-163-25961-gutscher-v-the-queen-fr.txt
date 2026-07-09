@@ -1,0 +1,128 @@
+Title: Gutscher v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25961/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-163-25961-gutscher-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-03-15
+
+# Gutscher v. The Queen
+
+- Citation: 2006 CCI 163
+- Decision date: 2006-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3759, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gutscher v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-15
+Référence neutre
+2006 CCI 163
+Numéro de dossier
+2005-4088(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4088(IT)I
+ENTRE :
+DARRYL GUTSCHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 7 mars 2006, à Kingston (Ontario).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Pour l’appelant : L’appelant lui-même
+Avocat de l’intimée : Me George Boyd Aitken
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont rejetés.
+Signé à Ottawa, Canada, ce 15e jour de mars 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 6e jour de février 2008.
+Maurice Audet, réviseur
+Référence : 2006CCI163
+Date : 20060315
+Dossier : 2005-4088(IT)I
+ENTRE :
+DARRYL GUTSCHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels sont interjetés à l’encontre des cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003. Ils concernent une demande présentée par M. Gutscher, qui est major dans les Forces canadiennes (les « FC »), en vue de déduire certains frais de déplacement. Le major Gutscher, officier d’artillerie, était stationné au camp Shilo, au Manitoba, où il demeurait avec sa femme et son fils. Sa fille, qui avait apparemment des problèmes de santé, demeurait avec les parents de sa femme à Cobalt en Ontario.
+[2] En 2002, le major Gutscher a été affecté à Ottawa. Il s’agissait d’une affectation dite sujette à restrictions, c’est‑à‑dire qu’il a déménagé sans sa famille ou ses objets personnels. Pour des raisons personnelles, sa femme et son fils ont déménagé à Cobalt, où sa fille demeurait avec ses beaux‑parents. Si je me souviens bien du témoignage, sa fille est retournée vivre avec sa femme dans une maison qu’il avait achetée à Cobalt. La ville de Cobalt est située à environ une heure et demie de North Bay et à quelque cinq heures et demie ou six heures de voiture d’Ottawa.
+[3] Quand le major Gutscher n’était pas de service à Ottawa, il se rendait à Cobalt en voiture pour être avec sa femme et sa famille. Il a déduit ses frais d’automobile en application de l’alinéa 8(1)h.1) de la Loi de l’impôt sur le revenu, qui est libellé ainsi :
+h.1) dans le cas où le contribuable, au cours de l'année, a été habituellement tenu d'accomplir les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d'emploi, d'acquitter les frais afférents à un véhicule à moteur qu'il a engagés dans l'accomplissement des fonctions de sa charge ou de son emploi, les sommes qu'il a dépensées au cours de l'année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l'exercice des fonctions de son emploi, sauf s'il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l'effet de l'alinéa 6(1)b), n'est pas incluse dans le calcul de son revenu pour l'année,
+(ii) demandé une déduction pour l'année en application de l'alinéa f);
+[4] Au départ, le major Gutscher a demandé la déduction en fonction des taux au kilomètre approuvés par le Conseil du Trésor. L’Agence des douanes et du revenu du Canada l’a avisé que ce n’était pas acceptable et qu’il devait demander la déduction des frais d’automobile dans un formulaire T777 E. Il a produit le formulaire et fourni les reçus et pièces justificatives indiquant ses frais réels. Je considère ses frais réels comme s’ils avaient été démontrés. Le droit de l’appelant à une déduction est toutefois une autre question. Il s’est avéré que les frais indiqués dans le formulaire T777 E étaient bien moins élevées que ceux dont la déduction avait été demandée au départ en fonction du kilométrage parcouru.
+[5] L’appelant a également produit, pour chacune des années, un formulaire T2200 E signé par le commandant Matte, coordonnateur du Centre de commandement de la Défense nationale. Voici les six premières questions et réponses du formulaire :
+1. Selon son contrat de travail, l'employé devait-t-il payer les frais qu'il a engagés pour l'exécution des tâches qui lui étaient confiées? X Oui -- Non
+2. a) Demandiez-vous régulièrement que cet employé travaille ailleurs qu'à votre établissement ou à différents endroits? X Oui -- Non
+b) Si oui, quelle était la région de déplacement de l'employé? Entre Cobalt et Ottawa
+3. Indiquez la période d'emploi au cours de l'année. De : _2003_ _Janv. À : _2003_ _Déc._
+(Année) (Mois) (Année) (Mois)
+4. a) L'employé a-t-il reçu une allocation? -- Oui X Non
+b) Si oui, indiquez selon le cas :
+i) le montant reçu comme allocation fixe, telle qu'une indemnité forfaitaire mensuelle. ________________ $
+ii) le taux au kilomètre utilisé _______ ($/km) et le montant reçu. ________________ $
+iii) le montant de l'allocation qui a été indiqué sur le feuillet T4 de l'employé. ________________ $
+5. a) Cet employé a-t-il reçu un remboursement pour les frais qu'il a payés dans l'exécution des tâches qui lui étaient confiées? -- Oui X Non
+b) Si oui, indiquez selon le cas le montant qui a été :
+i) reçu sur preuve de paiement. ________________ $
+ii) porté au débit de l'employeur, par exemple par carte de crédit. ________________ $
+iii) indiqué sur le feuillet T4 de l'employé. ________________ $
+6. a) Avez-vous exigé que cet employé engage d'autres frais pour lesquels il n'a reçu ni allocation ni remboursement? X Oui -- Non
+b) Si oui, indiquez les genres de frais. Frais afférents à un véhicule à moteur______________
+[6] Il se peut qu’un employé soit obligé de fournir de tels formulaires pour avoir le droit de déduire des frais d’automobile, mais ces formulaires ne font pas foi des faits qui y sont énoncés et ne lient pas la Cour.
+[7] En l’espèce, le major Gutscher a choisi de ne pas faire déménager sa famille à Ottawa, pour des raisons familiales et personnelles tout à fait valables. Il l’a plutôt installée à Cobalt (Ontario) où il la visitait quand il avait suffisamment de temps pour le faire : c’était là une décision personnelle. Les FC, son employeur, ne l’avaient pas obligé à acheter une maison familiale à Cobalt et ne l’obligeaient pas, non plus, à y visiter sa famille. L’emplacement de la maison familiale du major Gutscher et ses déplacements pour s’y rendre n’étaient aucunement liés aux fonctions de son emploi.
+[8] La règle habituelle veut que les frais de déplacement entre la maison et le lieu de travail soient des frais personnels. Cette règle a été établie dans de nombreuses décisions remontant aussi loin que l’arrêt Ricketts v. Colquhoun, [1926] A.C. 1, qui a été suivi dans l’arrêt Hogg c. La Reine, [2002] 4 C.F. 443.
+[9] Il peut y avoir des exceptions à la règle dans des circonstances particulières, mais ce n’est pas le cas ici. Je comprends la position du major Gutscher, mais je ne pense pas que ses fonctions l’obligeaient à aller à Cobalt.
+[10] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 15e jour de mars 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 6e jour de février 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE :
+2006CCI163
+NO DU DOSSIER DE LA COUR :
+2005-4088(IT)I
+INTITULÉ DE LA CAUSE :
+Darryl Gutscher c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Kingston (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 mars 2006
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT :
+Le 15 mars 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me George Boyd Aitken
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Étude :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

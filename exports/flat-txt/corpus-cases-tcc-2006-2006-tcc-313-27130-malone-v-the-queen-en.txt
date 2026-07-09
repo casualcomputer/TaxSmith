@@ -1,0 +1,315 @@
+Title: Malone v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27130/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-313-27130-malone-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-06-26
+
+# Malone v. The Queen
+
+- Citation: 2006 TCC 313
+- Decision date: 2006-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 934, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malone v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-26
+Neutral citation
+2006 TCC 313
+File numbers
+2003-4067(IT)G
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4067(IT)G
+BETWEEN:
+EDWARD MALONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 11, 2006, at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Ravinder Sawhney
+Counsel for the Respondent:
+Carol Calabrese
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are dismissed except that there shall be no penalties and except that the correct amount of unreported income to be added for the 2000 taxation year shall be $17,314. There shall be no costs.
+The whole in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of June, 2006.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2006TCC313
+Date: 20060626
+Docket: 2003-4067(IT)G
+BETWEEN:
+EDWARD MALONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The basic facts in this appeal are as follows:
+1. The Appellant ("Malone") operated a catering truck owned by Sully's Catering & Vending Ltd. ("Sully's") for which Sully's paid him $21,000 in 1998 and 1999 and $21,600 in 2000. Although Malone's Income Tax returns referred to these amounts as business income it was established and agreed that the amounts constituted employment income but this had no effect on the outcome of this appeal.
+2. Sully's supplied food products to Malone who sold them from the catering truck. The Minister of National Revenue ("Minister") maintains that Malone sold at higher prices than Sully's charged Malone and retained the difference with the result that his income in those three years was higher than he declared.
+3. A net worth audit was conducted which led to a reassessment by the Minister asserting that Malone failed to include amounts of not less than $15,287, $16,781 and $17,875, [correct amount is $17,314 as explained later] in the computation of his income for the 1998, 1999, and 2000 taxation years, respectively.
+[2] The statutory basis for a net worth assessment is found in subsections 152(4) and 152(7) of the Income Tax Act ("Act"). This type of assessment is used frequently and has been the subject of many tax appeals. Once the assessment is made the taxpayer has the onus to establish it is incorrect.
+[3] In Ramey v. The Queen, 93 DTC 791 (T.C.C.), Bowman T.C.C.J. at page 793 described the net worth process as follows:
+... The net worth method of estimating income is an unsatisfactory and imprecise way of determining a taxpayer's income for the year. It is a blunt instrument of which the Minister must avail himself as a last resort. A net worth assessment involves a comparison of a taxpayer's net worth, i.e., the cost of his assets less his liabilities, at the beginning of a year, with his net worth at the end of the year. To the difference so determined there are added his expenditures in the year. The resulting figure is assumed to be his income unless the taxpayer establishes the contrary. Such assessments may be inaccurate within a range of indeterminate magnitude but unless they are shown to be wrong they stand. It is almost impossible to challenge such assessments piecemeal.
+[4] In Bigayan v. The Queen, 2000 DTC 1619 (T.C.C.), Bowman T.C.C.J. at page 1619 elaborated as follows:
+...
+[2] The net worth method, ... is a last resort to be used when all else fails. Frequently it is used when a taxpayer has failed to file income tax returns or has kept no records. ... It is based on an assumption that if one subtracts a taxpayer's net worth at the beginning of a year from that at the end, adds the taxpayer's expenditures in the year, deletes non-taxable receipts and accretions to value of existing assets, the net result, less any amount declared by the taxpayer, must be attributable to unreported income earned in the year, unless the taxpayer can demonstrate otherwise. It is at best an unsatisfactory method, arbitrary and inaccurate but sometimes it is the only means of approximating the income of a taxpayer.
+[3] The best method of challenging a net worth assessment is to put forth evidence of what the taxpayer's income actually is. A less satisfactory, but nonetheless acceptable method is described by Cameron, J. in Chernenkoff v. Minister of National Revenue, 49 DTC 680 at page 683:
+In the absence of records, the alternative course open to the appellant was to prove that even on a proper and complete "net worth" basis the assessments were wrong.
+[4] This method of challenging a net worth assessment is accepted, but even after the adjustments have been completed one is left with the uneasy feeling that the truth has not been fully uncovered. Tinkering with an inherently flawed and imperfect vehicle is not likely to perfect it.
+[5] In this appeal the Schedules attached to the Amended Reply set forth the net worth calculations. Schedule I establishes total assets at $6,478.16 in 1997, $8,257.16 in 1998, $9,934.16 in 1999 and $15,257.16 in 2000. Schedule II establishes total liabilities of $2,000 for 1997, $2,000 for 1998, $2,000 for 1999 and $6,000 for 2000. The liabilities are deducted from the assets producing net assets of $4,478.16 for 1997, $6,257.16 for 1998, $7,934.16 for 1999 and $9,257.16 for 2000. Thus as shown in Schedule II the increases in net asset worth in 1998 is $1,779 ($6,257.16 - $4,478.16), in 1999 it is $1,677 ($7,934.16 - $6,257.16) and in 2000 it is $1,323 ($9,257.16 - $7,934.16). Schedule III assembles all the figures and arrives at the net worth discrepancies.
+SCHEDULE III
+Client: EDWARD MALONE
+Auditor: Prepared: 13-June-02
+Audit Period:
+Net worth statement - for tax purposes
+1998
+1999
+2000
+W/P
+Increase (Decrease) in net worth (per schedule II)
+1,779.00
+1,677.00
+1,323.00
+Adjustments
+Additions
+Personal Expenditures
+(per schedule IV)
+34,495.21
+35,939.65
+37,775.69
+Loss on sale of ....
+-
+-
+-
+Personal Income Tax Payments
+1,443.02
+1,749.46
+1,431.23
+Withholding tax on RRSP cashed in
+-
+-
+-
+RRSP cashed in
+-
+-
+-
+Non-deductible portion of capital losses
+-
+-
+-
+Income on Calendar Basis - Spouse
+-
+-
+-
+Prior year reserve re: changing year ends
+-
+-
+-
+Other
+143.00
+40.00
+-
+Total Additions
+36,081.23
+37,729.11
+39,206.92
+Deductions
+Gain on sale of ....
+-
+-
+-
+Income tax refund -
+-
+-
+-
+GST/HST credit refund received
+503.00
+450.50
+404.00
+Child tax benefit
+-
+-
+-
+Insurance proceeds
+-
+-
+-
+Gift from family
+-
+-
+-
+Inheritance
+-
+-
+-
+Lottery winnings
+-
+-
+-
+Non-taxable portion of capital gain
+-
+-
+-
+Reserve re: changing year ends
+-
+-
+-
+Income on Fiscal Basis - spouse
+-
+-
+-
+Other
+-
+-
+-
+Total Deductions
+503.00
+450.50
+404.00
+Net Adjustments
+35,578.23
+37,278.61
+38,802.92
+Income Per Adjusted Net Worth
+37,357.23
+38,955.61
+40,125.92
+Less: Total Income Reported
+House Hold Income
+21,000.00
+21,000.00
+21,600.00 *
+Discrepancy per Net Worth
+16,357.23
+17,955.61
+18,525.92 *
+* These are corrected figures.
+[6] Thus Schedule II shows increases in net asset values of $1,779, $1,677 and $1,323.00 in 1998, 1999 and 2000 respectively. Schedule III refers to Schedule IV which is a lengthy detailed analysis of personal expenditures with the conclusion that the net amounts of personal expenditures were $35,357.23, $38,955.61 and $40,125.92 in 1998, 1999 and 2000 respectively. These are then added to the net asset values mentioned above with the conclusion that the incomes per net worth are $37,357.23, $38,955.61 and $40,125.92 in 1998, 1999 and 2000 respectively. From these figures the income reported of $21,000, $21,000 and $21,600 are deducted thus producing discrepancies of $16,357.23, $17,955.61 and $18,525.92. From these three figures the GST components of 7/107, thus $1,070, $1,175 and $1,212 are deducted producing the final amounts of undeclared income of $15,287, $16,781 and $17,314. [Note the following mathematical error in the Minister's calculations: the income reported in 2000 was $21,600 (not $21,000); therefore the correct amount of undeclared income for 2000 is $40,125.92 - $21,600 = $18,525.92 - 7/107 GST or $1,212 = $17,314].
+[7] Schedule IV to the Reply contains an extremely detailed analysis of personal expenditures. Many items were challenged and considerable evidence was given by Malone disputing certain items and detailed explanations were offered by Steven Harper, the CRA auditor, but the principal changes in personal expenditures between Malone's estimates and the amounts established by the net worth assessment may be summarized as follows:
+Food expenditures were increased considerably as follows:
+Malone estimates
+Net Worth
+1998
+2,150.00
+6,591.39
+1999
+2,150.00
+6,707.21
+2000
+2,150.00
+6,889.31
+Transportation expenses
+Malone estimates
+Net Worth
+1998
+1,159.35
+2,318.70
+1999
+1,759.00
+3,518.00
+2000
+1,560.00
+3,900.00
+[8] Explanations and discussions concerning food and transportation are set forth in extracts from submissions below. In brief the auditor felt Malone's food estimates were very low for a family of three and used Statistics Canada figures. As to transportation, the Auditor determined two cars were registered to Malone in 1998 and 1999 and he acquired a third car in 2000 and absent proof that Malone did not pay all expenses the amounts of expenses were increased.
+[9] The third principal item of personal expenditures in dispute are referred to in Schedule IV as "Other" which means unexplained cheques totalling $6,587.01 in 1998, $6,107.85 in 1999 and $5,763.19 in 2000. As will be seen from extracts of submissions referred to below, these amounts represented cheques (or cash withdrawals) the details for which were not provided or could not be ascertained and which the auditor considered as further personal expenditures.
+[10] The following are extracts from submissions of Mr. Sawhney, counsel for Malone and Ms Calabrese, counsel for the Minister:
+SUBMISSIONS BY MR. SAWHNEY:
+MR. SAWHNEY: Your Honour, the case revolved around only a few identifiable items of expenditures that are truly the subject matter of debate: the first being expenditure on food; and the second being the expenditure on the automobiles.
+...
+The expenditures on food are on the low side, ...The expenditure that my friend claimed by all means is an average StatsCan figure, but I would like to submit that it is not an estimated figure that everybody necessarily lives on. It is an average amount. ...
+Mr. Malone lives with his wife and a daughter and belongs to a low income bracket. His estimated income was $21,000.00. By all accounts that is a low income. ...
+Mr. Malone has been subjected to an employer who has a lot of authority and Mr. Malone has practically no discretion, given the nature of his job. He was not in a position to negotiate in any way as to how he would want to be paid, even if he wanted to be paid any other way, receive payments, have cheques and so on, with respect to the employ. He is dictated by what the employer says.
+It is also common knowledge that the business that he is in is largely based on cash. ... we are talking about very small items that are not, in this industry, subject to a lot of evidentiary documentary backup.
+...
+Subject to the method of cheques and disbursements which are largely unwritten, a lot of this evidence comes from a class of society where he belongs, not being too good with a letter in a significant way, which proved for example when he has a car which his daughter uses, he hasn't gone to the trouble of drawing up documents, and nor does it appear that he is able to do so. ...
+It is a very simple matter. He has two or three cars at a time. So the man spends most of his time going to a truck job where he goes and sells his items. He does not potentially have use for two or three cars. That would follow from the kind of lifestyle that he led. He claimed to have had very minimal expenses in his lifestyle. There's not many places that he would go where he used more than one car. Being the driver for the one car that he would have, it is only reasonable and logical that the second car, of very low value itself, was one that was actually given to the daughter for her use. And obviously this is a second daughter. He said on the evidence he has four daughters and a son. It is very very reasonable that he had no use for the car.
+His repairs and so on were exemplified by Revenue Canada to be the amount that he gave. But they were doubled two-and-a-half times and multiplied, because the assumption was he actually had ownership of those cars. ...
+Given the fact that the food is in fact less than the value than the average figure would indicate for a man, like Mr. Ed Malone, given the fact that he probably only had the use of one car, we don't really have many things on the evidence that suggests that he has a whole lot of high income. ...
+We don't really have anything on the evidence therefore to suggest that there is an actual expenditure that a man like this would have spent on, based on the objective ground, despite the arbitrary nature of the assessment that the law permits Revenue Canada.
+...
+FURTHER SUBMISSIONS BY MR. SAWHNEY IN REPLY:
+So the net worth assessment is, yes, an included method of arriving at a figure that cannot otherwise be included. But it is not one, once stated, that cannot be demolished. The evidence can demolish that ...
+And when I see the burden case, it can be read in three ways; it is clear that these are the assumptions that we would go to, namely that the StatsCan figure is the only figure that stands. As we said, my client demonstrates that he has a much lower level of income than the average people who would use that StatsCan figure. He is in a low category. So obviously it is possible to demolish an assumption of a StatsCan figure. It is not one that stands and must stand in a net worth method. All it says is it is a way of starting something and concluding something from the point of view of doing a net worth, and the burden then falls on my client. And under these circumstances it is not accurate. So the assumption can be demolished.
+The assumption of proving that one or more of the assumptions were wrong, obviously the onus stands on my client, so he has tried to do that and hopefully the court accepts that, and that is the burden that he has, to show that the assumptions were wrong.
+And the third, contending that even if the assumptions were justified, they do not of themselves support his testimony; that from the fact that the bank statements showed 6,000 odd dollar figures that he could not explain.
+Thirdly, when you are discharging the burden of contending the net worth method, the burden is not of the type that the Crown has in a criminal case to prove beyond a reasonable doubt. It is just a burden that has to be discharged in accordance with the evidence basis.
+It is also not expected that he would be knowledgeable about each and every item that the bank statement might show. And if he's showing deposits and withdrawals, I can't think of anybody who could say six years or four years ago as to each and every disbursement from a bank as to what they did with their money. It isn't always obvious. They don't necessarily know where they spent it.
+...
+And the statement of law that I stated in my opening, and I would like to re-emphasize, that the Minister has to give the precise basis upon which the net worth has been formulated. And in that position, when you assess StatsCan and so on, it just comes back to the same point that it is not automatic, that just because you use a net worth method that it must stand. It does not stand just by itself and I think I have discharged the burden that it does not stand.
+My friend lays emphasis on the lack of documentation and the insurance company, the insurance policy and so on. He acknowledged that those changes were not made on the insurance policy. So the documents that he did not provide was because they were not available, they could not have been available. It's not that he had documents that would have shown Revenue Canada for this case. Those documents simply show his own policy and yet in his own name. So it really became a question of fact, whether he has to drive a car or whether his daughter drives it. Under these circumstances no documentary evidence could assist him to make his point other than through a trial.
+...
+So, in general, I would say that the documentation has been provided to an extent that is reasonable and to an extent that demonstrated cooperation on the part of his representative.
+SUBMISSIONS BY MS CALABRESE:
+MS CALABRESE: ... the respondent doesn't dispute that the appellant's income was low, whether it was the income he reported or the income taken into account, the unreported amounts that the Minister alleged he received.
+He worked in a cash business and, as set out in the Reply, the respondent's assumption is that he was selling the products for more than what Sully's recommended and retaining the excess. That's where his extra income came from.
+Because a net worth assessment was done it doesn't mean that we think he had a lot of money. What we think he had was amounts that he didn't report. We are not disputing that he wasn't a wealthy man. What we're saying is that he just had amounts that he didn't report.
+As my friend said, there weren't a whole lot of items in dispute on the asset statement. ... so really the only items on the asset statement were the third car, the Cavalier that was purchased in 2000, and what the auditor did was take a value from the red book. And he did that because the appellant didn't provide any documents to show what the actual value of what that car was. He doesn't dispute that he acquired the car, but he didn't provide any documents to show the actual value. So it was sort of a no choice situation.
+And again, today, he didn't provide any documents to suggest that the red book value was incorrect.
+... And the personal expenditure statement, most of the numbers he gave them, although they were low amounts, but the CRA took a conservative approach and didn't change them unnecessarily. They only changed the items where they saw a real problem. And the only place where they saw a real problem was food. They thought it was unreasonable to assume that a family of three could eat for $40.00 a week. And it maybe Stats Canada, you know, is probably not the best number to work with, but the problem with that was that Mr. Malone didn't show them any other number to work with. He didn't give them anything other than this very, what they considered to be, unreasonably low estimate.
+Transportation: the issue is whether he was paying the expenses for one or two cars, and in 2000 a third car. And again he was invited, when he made the submission that his daughter was driving one of his cars, he was invited to provide documents to support that. And my friend's referred to the fact that he wouldn't go to a lawyer and draw up agreements with his daughter. But that's not what he was asked for. He was asked for an insurance policy that showed her as the principal driver, any kind of documents that would show that she was paying the expenses. And he just didn't provide them, and he hasn't provided them today.
+So again, you know, they [the auditor] used ... a reasonable estimate of what the expenses for a second car would be. And given that Mr. Malone owned it and didn't provide any documents to show that someone else paid the expenses, they assumed the expenses were his and doubled the figures.
+...
+And that the only other item, and it's a big item, is the "Other" category. ... So the big disputable item there is the cash and cheques. And Mr. Harper explained clearly what he did to get those amounts, and explained that Mr. Malone was given the opportunity to show what those cheques were for, to give him cheques. And, you know, in cases where he [the auditor] could figure out what the cheques were for he didn't include them in the "other" category. But, without documents to work with, this is the way the net worth assessment had to be done.
+...
+The onus with respect to demonstrating that the amount of the net worth assessment is wrong, as my friend pointed out, ... is on the appellant, ... And the Minister's submission is that the amounts in the net worth assessment, ... [are assumed] to be true unless they are disproven by the appellant. And the respondent's submission is that the appellant, because of his lack of documentation, has not shown that the amounts used by the Minister are wrong.
+...
+So the respondent's submission is that the appellant has just not shown his net worth assessment to be wrong. During the audit and today he thinks that the numbers the Minister uses are too high but he can't tell us what he thinks the numbers actually were, or at least can't support his position with documents.
+[Counsel referred to the Ramey and Bigayan cases mentioned above].
+[11] The Amended Reply also alleges that Malone was grossly negligent in making false statements as a result of which the Minister levied gross negligence penalties pursuant to subsection 163(2) of the Act in the amounts of $1,473.10, $1,703.62 and $1,826.45 for the taxation years 1998, 1999 and 2000 respectively.
+[12] The following extracts from submissions of counsel address penalties:
+MR. SAWHNEY:
+...
+In terms of the circumstance of gross negligence, I do not think, Your Honour, that this case lends itself to any kind of penalty. Given that the burden for such a penalty is clearly on the government, it is a much higher burden and the government has not discharged it under the facts of this case.
+In terms of income, the net method analyses do not lend themselves to an automatic inclusion of penalties. In particular, the law dictates that the burden of such a penalty must be met by the government.
+MS CALABRESE: Again there is no dispute with respect to the amount he owes with respect to penalties imposed by the respondent. The respondent is required to show that, by understating his income, the appellant knowingly, or under circumstances amounting to gross negligence in carrying out a duty or obligation imposed under the act, made or participated in, assented to or acquiesced in the making of a false statement or omission in his income tax return.
+Although the amount of the unreported income was estimated by way of a net worth assessment, the respondent submits that because the net worth assessment demonstrates that the appellant had income in excess of that which he reported, it demonstrates that the appellant did fail to report income in the three years under appeal.
+...
+And the respondent submits that the appellant filed his return and, in doing so, failed to include amounts of income in excess of what he reported, and those amounts were estimated by the net worth, they may not be precisely the amounts, but they were an estimate of what his income was. And the respondent alleges that the appellant operated in a cash business and that his unreported income probably came from excess amounts from the products he sold. And that penalties should therefore be imposed.
+Analysis and Conclusion
+[13] In my opinion, owing to the lack of proper records or other sufficient proofs to establish the Appellant's correct and true amounts of taxable income in the years in question, the Minister was justified in using the net worth method to establish those amounts. Further I am satisfied that the auditor, whose testimony was entirely credible, applied the calculations in a fair and conservative manner. It is also noteworthy that many of the figures were not contested and were based on figures either submitted by the Appellant or extracted from his returns and that there clearly were several items of undeclared income. The onus was on the Appellant to establish that the amounts arrived at by the net worth analysis were incorrect and he has failed to meet the onus. Moreover, the Appellant has not attempted to establish his true income for the years in question but has rather attempted to challenge individual items in the net worth calculations, an approach which the jurisprudence has cautioned, is most difficult to result in over turning or altering the reassessment.
+[14] I am also satisfied on the facts of this appeal that the use of Statistics Canada figures and the "Red Book" valuations were in order.
+[15] However, I firmly believe that this was not a case where the Appellant knowingly, or under circumstances amounting to gross negligence made false statements or omissions in his returns of income. He may have been slightly remiss but it appears that resulted from the influence exercised over him by his employer or the approach taken by his tax preparer. In any event the onus regarding imposition of penalties is on the Minister and it has not been discharged.
+[16] Consequently, the appeals from the reassessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are dismissed except that there shall be no penalties and except that the correct amount of unreported income to be added for the 2000 taxation year shall be $17,314. There shall be no costs.
+Signed at Ottawa, Canada, this 26th day of June, 2006.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2006TCC313
+COURT FILE NO.: 2003-4067(IT)G
+STYLE OF CAUSE: EDWARD MALONE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 11, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: June 26, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Ravinder Sawhney
+Counsel for the Respondent:
+Carol Calabrese
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ravinder Sawhney
+Firm: Ravinder Sawhney
+Mississauga, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

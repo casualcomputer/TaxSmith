@@ -1,0 +1,127 @@
+Title: Sztern v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30009/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-497-30009-sztern-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-10-07
+
+# Sztern v. The Queen
+
+- Citation: 2010 TCC 497
+- Decision date: 2010-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7676, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sztern v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-07
+Neutral citation
+2010 TCC 497
+File numbers
+2007-4687(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4687(IT)G
+BETWEEN:
+HENRY SZTERN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 18, 2010, at Montréal, Quebec
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2001 taxation year is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of October, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC497
+Date: 20101007
+Docket: 2007-4687(IT)G
+BETWEEN:
+HENRY SZTERN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Henry Sztern, is appealing the assessment of his 2001 taxation year in which the Minister of National Revenue disallowed certain deductions claimed for bad debts and business expenses.
+Facts
+[2] The Appellant represented himself and testified on his own behalf. I regret to say that I found his testimony often difficult to follow and not always credible.
+[3] More convincing were the Respondent’s witnesses Corina Stoica, the auditor, and Mark Toner, the Appeals Officer. Both were able to explain the steps taken in conducting their analysis of the material provided by the Appellant and the basis for their conclusions.
+[4] The onus is on the taxpayer to justify the deductions claimed. Here, the Appellant’s oral and documentary evidence was insufficient to rebut the assumptions upon which the Minister’s assessment was based or to outweigh the evidence of the Respondent’s officials. Accordingly, the appeal is dismissed, with costs, for the reasons set out below.
+Background
+[5] In the 2001 taxation year, the Appellant was a chartered accountant and, for at least some part of that year, a licenced trustee under the Bankruptcy and Insolvency Act (“BIA”).
+[6] He was also the majority shareholder[1] of Henry Sztern & Associés Inc. (“Henry Sztern Inc.”), a licenced corporate trustee under the BIA. The business address of Henry Sztern Inc. was 50, Place Crémazie Ouest, Montreal[2].
+[7] The Appellant also had a sole proprietorship which operated under the strikingly similar name of Henry Sztern & Associés Registered (“Henry Sztern Registered”). According to the business registration records[3], Henry Sztern Registered was located at 500, Place d’Armes, Montreal and was in the business of providing management consultant services (“Bureaux de conseillers en gestion”).
+[8] The Appellant described himself, in his capacity as Henry Sztern Registered, as the “administrator” of Henry Sztern Inc., but whether by that term he meant he was a sort of manager of the corporation’s business, as opposed to an “administrator” under the BIA, was not made clear. He was adamant in his testimony, however, that only the corporate trustee, Henry Sztern Inc., was engaged in the business of acting as a trustee in bankruptcy and accordingly, responsible for and authorized to manage the estates of the bankrupts and more particularly, their estate trust accounts.
+[9] The estate trust accounts were maintained at the same bank as what was apparently the Appellant’s sole proprietorship business account. I say “apparently” because it is not clear on the face of the cheques whose account it was: firstly, the account holder is shown on the cheques as “H. Sztern & Associés”, a name which corresponds with neither the business name of the corporate trustee, Henry Sztern & Associés Inc., or the Appellant’s personal business which he distinguished throughout his testimony as “Henry Sztern & Associés Registered”. Further confusing matters is the fact that the address on the cheques is “50 Place Crémazie Ouest, Montreal”, the business address of Henry Sztern Inc. Such details are important in the present case because of the overlap between the business operations, the onus on the Appellant to link the claims made with the appropriate entity and his general lack of credibility.
+[10] The Appellant was candid that he had not been as careful as he might have been in keeping banking and business records for each entity. Even more troubling, at various times, he moved amounts from the H. Sztern & Associés account to the trust accounts (which he said were under the exclusive control of the corporate trustee, Henry Sztern Inc.) with little regard to the ethics or legality of such conduct. To cite only one example, I accept Ms. Stoica’s evidence that during the audit, she discovered that a GST refund cheque properly belonging to an estate had been deposited in the Appellant’s business account; it was later withdrawn and apparently, never deposited into the appropriate trust account.
+[11] This persistent intermingling of the two business operations lies at the heart of the Appellant’s difficulties. The Minister rejected the amounts claimed for bad debts and business expenses partly because the Appellant was unable to provide records to trace them to his personal business. While during his testimony and in argument the Appellant repeatedly underscored the legal distinction between Henry Sztern Registered and Henry Sztern Inc., he was less successful at maintaining that distinction in practice.
+Bad Debts
+[12] Turning first to the bad debt deduction, the Appellant claimed approximately $400,000[4] for amounts not recovered for work done in respect of bankrupts’ estates. His evidence was that although a lot of time could be spent on the bankrupts’ files, there was no guarantee of payment. According to the Appellant, this is the cost and risk of acting as a trustee in bankruptcy.
+[13] While it may have been the Appellant (in his capacity of directing mind of the company) who actually performed such work, his evidence was unwavering that only Henry Sztern Inc. was engaged in the business of managing bankrupts’ estates. From this it follows that (even assuming such bad debts could be shown to exist) any entitlement to claim a deduction in respect of them would lie with Henry Sztern Inc., not the Appellant. On these facts, the Appellant is unable to satisfy the criteria under paragraph 20(1)(p) of the Income Tax Act.
+Reimbursements to Estates
+[14] The Appellant also claimed an amount for what he called “reimbursements to estates”. As I understand his evidence, these were amounts that Henry Sztern Registered had advanced to the bankrupts’ estates. When asked why he would have made such advances, the Appellant said it was “… to insure that the estate itself does not … default”[5]. He went on to say that in many instances, he was unable to recover the amounts advanced so he deducted them as a business expense deduction on the basis that they were a kind of goodwill gesture, a way of drumming up new clients[6].
+[15] While I have no doubt that the Appellant was moving money in and out of bankrupts’ estates, I am less convinced he had any business purpose for doing so. The mere characterization of such advances as “reimbursements” suggests that he had, prior to that time, taken money out of the trust accounts, something he, in his personal capacity, had no obligation and certainly, no authority to do. Furthermore, by the time the “advances” were made, the bankrupts had already been discharged. In these circumstances, I agree with counsel for the Respondent that his explanation for having taken it upon himself to “reimburse” the trust accounts of estates makes no sense. As the Appellant has not established a link between these amounts and any business carried on by the Appellant, there is no justification for interfering with the Minister’s assessment on this score.
+Management Fees
+[16] The Appellant initially claimed a management fee deduction totalling some $1.2 million, most of which was allowed. Here, only the disallowed portion of $101,192 is in dispute: it includes claims for legal fees incurred to defend himself against professional disciplinary proceedings, fines levied by the Superintendent in Bankruptcy, and various bank charges and loans interest. Each of these is dealt with under the headings below.
+[17] The Appellant was given the opportunity, at both the audit and the objection stage, to explain the nature of his work and to provide documentation in support of these claims. Instead of doing that, he simply delivered a box of jumbled papers to the Canada Revenue Agency officials for their review. Yet at the hearing, he challenged their findings on the basis that they had no expertise in bankruptcy, did not understand his business practices and had arbitrarily estimated his expenses rather than going through his unsorted materials item by item.
+[18] I would have thought that the Appellant, as a chartered accountant, would have realized that under the Income Tax Act, a taxpayer has an obligation to maintain adequate records so that, if ever it is necessary, he is in a position to justify his claims. Because of the Appellant’s failure to keep good records and to provide a credible explanation of his expenses, he was unable to satisfy the Minister’s officials of the legitimacy of his claims. For the reasons set out below, he had been equally unsuccessful before this Court.
+A. Legal Fees
+[19] The Appellant is seeking an additional deduction of $40,025 for legal fees. In support of his claim, he put in evidence a copy of a list of outstanding invoices from Heenan Blaikie SRL / LLP[7] and copies of four cheques[8] made out to that firm. I do not find these documents persuasive. First of all, the list of invoices is addressed to “Sztern & Associés” so it is not clear whether it was in respect of services rendered to the Appellant’s sole proprietorship or to the corporate trustee, Henry Sztern Inc., especially since the address shown in the invoice is that of the corporation. As for the cheques, in addition to the ambiguities already noted above, there is no direct correlation between the amounts payable in the cheques and the invoiced amounts listed in Exhibit A-7. Finally, it seems likely to me that the claim for these legal fees is a duplication of an amount already taken into account by the Canada Revenue Agency officials.
+B. Fines
+[20] The Appellant put in evidence a document entitled “Trustee Suspension Order, Corporate Trustee Limitation Order and Payment Order Issued Under the Bankruptcy and Insolvency Act”[9]. Pursuant to this document, the Appellant and Henry Sztern Inc. were “jointly and severally liable for payment to the Office of the Superintendent of Bankruptcy of costs related to the investigation of the conduct of the trustee and corporate trustee, in the amount of $15,000.00”. The Appellant was allowed a deduction of $5,000 and is seeking to claim a further $10,000. In my view, there is insufficient evidence to support his entitlement to any additional amount. It seems equally likely that Henry Sztern Inc. paid the rest of the fine.
+C. Bank Charges and Loan Interest
+[21] Proving bank charges and loan interest is normally not that difficult as it is the usual practice of banks to include such costs in their statements. For reasons not made clear to the Court, no bank statements were put in evidence. They were before Mr. Toner, however. I accept his evidence that when making his review, he was unable to identify the amounts claimed in the bank statements the Appellant had provided[10]. At the hearing, the Appellant put in evidence a bundle of cheques[11] which, he said, were in payment of such amounts. Again, there was no direct correlation between the “H. Sztern & Associés” cheques and his personal business or between the amounts shown in the cheques and the deductions claimed. In these circumstances, I can see no justification for interfering with the Minister’s assessment.
+[22] For the reasons set out above, the appeal of the Appellant’s 2001 taxation year is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 7th day of October, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC497
+COURT FILE NO.: 2007-4687(IT)G
+STYLE OF CAUSE: HENRY SZTERN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 18, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: October 7, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nathalie Labbé
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit, A-1.
+[2] Exhibit A-1.
+[3] Exhibit A-2.
+[4] Exhibit, A-3.
+[5] Transcript, page 58, lines 12-13. For the Appellant’s detailed explanation, see Transcript, page 57, lines 9-25 to page 60, lines 1-5.
+[6] Transcript, page 93, lines 3-25 to page 96, lines 1-17.
+[7] Exhibit A-7.
+[8] Exhibit A-8.
+[9] Exhibit A-9.
+[10] Exhibit R-1, Tabs 18 and 19; Exhibit A-6.
+[11] Exhibit A-11.

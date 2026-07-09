@@ -1,0 +1,167 @@
+Title: Barel c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29152/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-156-29152-barel-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-03-19
+
+# Barel c. La Reine
+
+- Citation: 2009 CCI 156
+- Decision date: 2009-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6712, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-19
+Référence neutre
+2009 CCI 156
+Numéro de dossier
+2007-3942(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3942(IT)G
+ENTRE :
+PAUL C.J. BAREL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 12 mars 2009, à London (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Pascal Tétrault
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de mars 2009.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 19e jour de juin 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009CCI156
+Date : 20090319
+Dossier : 2007-3942(IT)G
+ENTRE :
+PAUL C.J. BAREL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] Le présent appel a été interjeté à l’égard d’une cotisation établie pour l’année d’imposition 2006 de l’appelant. La question formulée dans l’avis d’appel est celle de savoir si la Cour permettra à l’appelant de verser une cotisation à un régime enregistré d’épargne‑retraite (un « REER ») pour l’année en cause.
+[2] Comme je l’expliquerai ci‑après, la Cour n’a pas le pouvoir d’accorder la mesure de redressement demandée par l’appelant.
+[3] Les parties ont présenté un exposé conjoint de faits, qui est ainsi rédigé :
+[TRADUCTION]
+Aux seules fins du présent appel, les parties admettent les faits suivants. Les deux parties pourront présenter des éléments de preuve pour établir d’autres faits, dans la mesure où ces faits ne contredisent pas l’exposé conjoint des faits :
+1. L’appelant est né le 15 mars 1936. En 2006, il était âgé de 70 ans.
+2. Entre 1998 et 2003, l’appelant travaillait pour The Austin Company (« Austin »), aux États-Unis d’Amérique (les « É.‑U. »). Durant cette période‑là, l’appelant était simplement résident des É.‑U.
+3. Austin avait établi l’Austin Employee’s Saving Plan, un régime d’épargne à long terme qui visait à assurer la sécurité financière des employés à la retraite.
+4. L’Austin Employee’s Saving Plan permettait aux employés de verser des cotisations à un compte admissible en vertu de l’alinéa 401(k) du Internal Revenue Code des É.‑U. (le régime 401(k)). Lorsqu’un employé versait une cotisation au régime 401(k), Austin versait elle aussi une cotisation au régime conformément à une formule préétablie.
+5. Le régime 401(k) n’était pas un régime d’épargne‑retraite accepté par le ministre du Revenu national aux fins d’enregistrement pour l’application de la Loi de l’impôt sur le revenu.
+6. Les cotisations versées au régime 401(k) par les employés étaient déduites de leurs revenus, et, pour l’application des lois fiscales des É.‑U., les cotisations versées par les employés et par Austin n’étaient pas imposables pour l’année où elles étaient faites. Selon les lois fiscales des É.‑U., le report de l’impôt ne s’appliquait pas seulement aux cotisations versées au régime 401(k), mais aussi aux revenus de placement produits par ce régime.
+7. Durant les années où l’appelant a travaillé pour Austin aux É.‑U., l’appelant et Austin ont versé des cotisations au régime 401(k) de l’appelant.
+8. En février 2003, l’appelant a pris sa retraite d’Austin et est revenu vivre au Canada, où il a recouvré son statut de résident canadien. À la fin de 2005, l’appelant a envoyé à l’administrateur du régime, The Vanguard Group (« Vanguard »), le formulaire exigé pour retirer des fonds de son régime 401(k).
+9. De février 2006 à juillet 2006, l’appelant a reçu 6 paiements mensuels tirés de son régime 401(k). Chacun de ces paiements s’élevait à 500 $US, avant déduction des retenues d’impôt des É.‑U.
+10. En 2006, Vanguard a informé l’appelant que le régime 401(k) allait être fermé et que les fonds cotisés au régime ne pouvaient pas être transférés à un compte de retraite individuel des É.‑U. ou à un régime enregistré d’épargne‑retraite du Canada (un « REER »).
+11. L’appelant a décidé de retirer ses fonds du régime 401(k). Le 2 novembre 2006, il a reçu un paiement forfaitaire de 68 309 $US, moins les retenues d’impôt des É.‑U. Ce paiement a été déposé dans le compte bancaire de l’appelant à la succursale de la Banque de Montréal de London, en Ontario.
+12. Le 7 novembre 2006, les fonds provenant du régime 401(k) ont été transférés à un compte auprès de BMO Nesbitt Burns. Les fonds ont ensuite servi à acheter des actions et des obligations.
+13. En mars 2007, l’appelant a été informé que les fonds provenant du régime 401(k) auraient pu être transférés à un REER dans les deux mois suivant leur réception. À ce jour, les fonds que l’appelant a reçus du régime 401(k) n’ont pas été investis dans un REER ou dans un fonds enregistré de revenu de retraite.
+[4] En plus des faits décrits dans l’exposé conjoint des faits, l’appelant a soutenu qu’en 2003, TD‑Waterhouse l’avait informé qu’il ne pouvait plus transférer les fonds provenant d’un régime de pension établi en vertu de l’alinéa 401(k) du Internal Revenue Code des États-Unis d’Amérique (respectivement, le « régime 401(k) » et les « É.‑U. ») à un régime enregistré d’épargne. À la mi‑mars 2007, l’appelant a de nouveau parlé à sa personne‑ressource chez TD‑Waterhouse, qui, cette fois, lui a dit qu’il était encore possible de transférer des fonds provenant de régimes de retraite des É.‑U. à des REER canadiens. On a dit à l’appelant qu’il aurait dû transférer les fonds à un REER dans les deux mois suivant la fin de 2006, c’est‑à‑dire avant le 1er mars 2007.
+[5] Lorsque l’appelant a produit sa déclaration de revenus pour 2006, il y a joint une lettre dans laquelle il demandait que l’âge maximum pour cotiser à un REER soit haussé et que le délai pour transférer des fonds provenant d’un régime 401(k) à un REER soit prolongé. Le passage suivant est aussi tiré de la lettre de l’appelant :
+[TRADUCTION]
+Il serait malheureux que le principe du régime enregistré d’épargne soit contrecarré par l’effet combiné de la faillite d’une entreprise des É.‑U., des lois des É.‑U. et de fausses informations fournies par des spécialistes des É.‑U. et du Canada. Sans la faillite, mon régime 401(k) aurait continué à exister sans problème. Si l’information qu’on m’a communiquée le 21 mars m’avait été fournie au début de novembre, j’aurais eu bien assez de temps pour transférer les fonds en cause.
+Je n’ai jamais eu l’intention de liquider mon régime 401(k) pour obtenir un paiement forfaitaire.
+[6] L’appelant est vexé que l’Agence du revenu du Canada n’ait pas « réagi » ou répondu à sa lettre. Il a affirmé que la loi est injuste et qu’elle devrait être modifiée pour devenir juste.
+[7] À l’audience, l’intimée a soutenu que l’appelant avait dépassé l’âge limite pour cotiser à un REER lorsqu’il a reçu les fonds provenant de la liquidation de son régime 401(k) et, lorsque la loi a été modifiée, que l’appelant n’a pas investi ces fonds dans un REER dans les 60 jours suivant la fin de l’année où il les avait reçus.
+[8] La preuve démontre clairement que l’appelant avait 70 ans en 2006; il ne pouvait donc pas cotiser à un REER, car l’âge limite pour ce faire était alors fixé à 69 ans[i]. La disposition pertinente, l’alinéa 146(2)b.4) de la Loi de l’impôt sur le revenu (la « LIR »), est ainsi rédigée :
+146(2) Acceptation du régime aux fins d’enregistrement – Le ministre n’accepte pas aux fins d’enregistrement pour l’application de la présente loi un régime d’épargne-retraite, à moins que, à son avis, il ne réponde aux conditions suivantes :
+[…]
+b.4) il ne prévoit pas d’échéance postérieure à la fin de l’année au cours de laquelle le rentier atteint 69 ans;
+[Non souligné dans l’original.]
+[9] Cette disposition a été modifiée – L.C. 2007, ch. 29 (projet de loi C‑52) –, pour que le ministre du Revenu national puisse accepter un régime d’épargne‑retraite aux fins d’enregistrement jusqu’à la fin de l’année au cours de laquelle le rentier atteint 71 ans. Cette modification est entrée en vigueur après 2006, et l’appelant devait ainsi verser les fonds provenant de son régime 401(k) dans les 60 jours suivant la fin de 2006, comme l’exige le sous‑alinéa 60j)(ii) de la LIR, qui est rédigé de la sorte :
+60. Autres déductions – Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+j) Transfert de prestation de retraite [à un REER] – la partie – non déduite dans le calcul du revenu du contribuable pour une année d’imposition antérieure – du total des montants représentant chacun soit un montant admissible par application de l’article 60.01, des paragraphes 104(27) ou (27.1) ou de l’alinéa 147(10.2)d) pour le contribuable pour l’année, soit une prestation de retraite ou de pension (à l’exception d’un montant au titre d’une prestation déduite en application du sous-alinéa 110(1)f)(i) dans le calcul du revenu imposable du contribuable pour une année d’imposition et d’une prestation qui fait partie d’une série de paiements périodiques) payable dans le cadre d’un régime de pension qui n’est pas un régime de pension agréé, attribuable à des services que le contribuable ou son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait a rendus au cours d’une période tout au long de laquelle il ne résidait pas au Canada et incluse dans le calcul du revenu du contribuable pour l’année en application du sous‑alinéa 56(1)a)(i), laquelle partie :
+(i) d’une part, est indiquée par le contribuable dans sa déclaration de revenu produite pour l’année en vertu de la présente partie,
+(ii) d’autre part, ne dépasse pas le total des montants qu’il a versés au cours de l’année ou dans les 60 jours suivant la fin de cette année :
+(A) soit à titre de cotisation dans le cadre d’un régime de pension agréé, à son profit, à l’exclusion de la fraction de cette cotisation qu’il peut déduire en application de l’alinéa 8(1)m) dans le calcul de son revenu pour l’année,
+(B) soit à titre de prime, au sens du paragraphe 146(1), à un régime enregistré d’épargne-retraite dont il est rentier, au sens de ce paragraphe, à l’exclusion de la fraction de cette prime qu’il indique dans sa déclaration de revenu pour une année d’imposition pour l’application de l’alinéa l);
+[Non souligné dans l’original.]
+[10] Malheureusement, ce n’est qu’à la mi‑mars que l’appelant a appris qu’il aurait pu verser les fonds en cause dans un REER. Il était déjà trop tard.
+Compétence de la Cour pour accorder la mesure de redressement demandée
+[11] Les pouvoirs de la Cour canadienne de l’impôt sont fixés par la loi. Sa compétence exclusive pour entendre les appels en matière d’impôt découle du paragraphe 12(1) de la Loi sur la Cour canadienne de l’impôt (la « LCCI »), qui est rédigé de la façon suivante :
+12(1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application [entre autres] de la Loi de l’impôt sur le revenu, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+[12] Le paragraphe 12(1) de la LCCI restreint la compétence de la Cour, car il spécifie que le droit d’appel doit être prévu dans la loi en cause dans l’appel. Ainsi, pour les appels en matière d’impôt sur le revenu, il faut consulter la LIR pour délimiter plus précisément la compétence de la Cour. Les dispositions pertinentes de la LIR sont les articles 169 et 171, qui sont ainsi rédigés :
+169(1) Appel – Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+171(1) Règlement d’un appel – La Cour canadienne de l’impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l’admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[13] Bien que la Cour canadienne de l’impôt puisse statuer sur un appel en l’accueillant et en modifiant la cotisation, elle doit d’abord décider si la cotisation est fondée en droit et en fait. Dans Addison & Leyen Ltd. v. Canada[ii], la juge Sharlow s’est exprimée de la sorte :
+[42] Le contribuable qui est insatisfait de la réponse donnée par le ministre à un avis d’opposition peut interjeter appel de la cotisation devant la Cour canadienne de l’impôt, à condition de respecter certains délais (article 169 de la Loi de l’impôt sur le revenu; une prorogation de délai peut être autorisée en vertu de l’article 167). La Cour peut statuer sur l’appel en le rejetant ou en l’admettant. Si l’appel est admis, la Cour peut annuler ou modifier la cotisation, ou la déférer au ministre pour nouvel examen et nouvelle cotisation (article 171 de la Loi de l’impôt sur le revenu). En vertu de l’article 27 de la Loi sur les Cours fédérales, il peut être interjeté appel de la décision de la Cour canadienne de l’impôt devant la Cour fédérale du Canada.
+[43] Dans un appel relatif à l’impôt sur le revenu, la Cour de l’impôt doit décider si, relativement aux questions formulées dans l’avis d’appel et la réponse du ministre, la cotisation contestée est fondée en droit et en fait. Parce que l’obligation fiscale principale d’une personne pour une année donnée est fonction des événements pertinents survenus durant cette année, le délai indu ou la conduite inappropriée de la part d’un fonctionnaire du fisc dans le processus de cotisation ou d’opposition ne sont pas des facteurs pertinents pour le calcul du montant de cette obligation : voir, par exemple, Bolton c. Canada (1996), 200 N.R. 303, [1996] 3 C.T.C. 3, 96 D.T.C. 6413 (C.A.F.), Ginsberg c. Canada (C.A.), [1996] 3 C.F. 334 (demande d’autorisation d’appel rejetée, dossier no 25520 de la C.S.C.)[iii]. […]
+[Non souligné dans l’original.]
+[14] Dans les affaires semblables au présent appel – où une cotisation a été établie en fonction des dispositions de la LIR dans sa version de 2006 –, la cotisation doit être confirmée et l’appel doit être rejeté. La Cour n’a pas le pouvoir d’accueillir un appel sur le fondement de l’équité comme l’appelant lui a demandé de le faire. Le passage suivant est tiré de la décision du juge Sobier (CCI) dans Sunil Lighting Products c. Canada[iv] :
+[18] La jurisprudence indique clairement que la Cour canadienne de l’impôt n’est pas une cour d’équité et que sa compétence repose sur les dispositions de sa loi d’habilitation. En outre, la Cour n’est pas habilitée à rendre un jugement déclaratoire, étant donné que cela excède sa compétence. Dans le cas des appels portant sur l’impôt sur le revenu, les pouvoirs de la Cour sont énoncés au paragraphe 171(1) de la Loi de l’impôt sur le revenu. Ces pouvoirs consistent donc essentiellement à déterminer si la cotisation a été établie conformément aux dispositions de la Loi de l’impôt sur le revenu. […]
+[15] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de mars 2009.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 19e jour de juin 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2009CCI156
+No DU DOSSIER DE LA COUR :
+2007-3942(IT)G
+INTITULÉ :
+Paul C.J. Barel et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 12 mars 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 19 mars 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Pascal Tétrault
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[i] Voir Labonte v. R., [2003] 3 C.T.C. 2525 (CCI).
+[ii] [2006] 3 C.T.C. 95 (CAF).
+[iii] Idem, paragraphes 42 et 43.
+[iv] [1993] A.C.I. no 666.

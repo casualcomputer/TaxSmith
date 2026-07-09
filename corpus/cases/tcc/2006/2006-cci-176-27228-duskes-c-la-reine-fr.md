@@ -1,0 +1,193 @@
+---
+title: "Duskes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27228/index.do"
+last_modified: "2006-03-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 176"
+citation2: ""
+neutral_citation: "2006 CCI 176"
+decision_date: "2006-03-24"
+language: "fr"
+item_id: "27228"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 834
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:46:31.860000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "03c0a0473582ecc28b40fbb379e73b275e7985d5c68a04d3d7d2fbad96d08802"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duskes c. La Reine
+
+- Citation: 2006 CCI 176
+- Decision date: 2006-03-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 834, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duskes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-24
+Référence neutre
+2006 CCI 176
+Numéro de dossier
+2005-1810(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1810(IT)I
+ENTRE :
+IAN DUSKES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de
+Shelly Cohen (2005-2229(IT)I),
+à Montréal (Québec), le 28 février 2006.
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Vlad Zolia
+JUGEMENT
+L'appel interjeté contre la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est admis, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour qu'il la réexamine et qu'il en établisse une autre au motif suivant :
+1. en ce qui concerne l'appel de M. Duskes, 2005-1810 (IT) I, du montant de 8 000 $ qu'il avait indiqué dans sa déclaration de revenus pour l'année 2003, un montant de 4 000 $ est déductible à titre de pension alimentaire,
+conformément aux motifs de jugement ci-annexés.
+Signé à Ottawa, Canada, ce 24e jour de mars 2006.
+« G. Sheridan »
+La juge Sheridan
+Traduction certifiée conforme ce 27e jour d'avril 2006.
+Joanne Robert, traductrice
+Dossier : 2005-2229(IT)I
+ENTRE :
+SHELLY COHEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de
+Ian Duskes (2005-1810(IT)I),
+à Montréal (Québec), le 28 février 2006.
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Vlad Zolia
+JUGEMENT
+L'appel interjeté contre la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est admis, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour qu'il la réexamine et qu'il en établisse une autre au motif suivant :
+1. en ce qui concerne l'appel de Mme Cohen, 2005-2229(IT)I, des 8 000 $ inclus dans son revenu par le ministre, seuls 4 000 $ ont été reçus par elle à titre de pension alimentaire,
+conformément aux motifs de jugement ci-annexés.
+Signé à Ottawa, Canada, ce 24e jour de mars 2006.
+« G. Sheridan »
+La juge Sheridan
+Traduction certifiée conforme ce 27e jour d'avril 2006.
+Joanne Robert, traductrice
+Référence : 2006CCI176
+Date : 20060324
+Dossier : 2005-1810(IT)I
+ENTRE :
+IAN DUSKES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2005-2229(IT)I
+SHELLY COHEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Les appels de Ian Duskes et Shelly Cohen ont été entendus sur preuve commune, sous le régime de la procédure informelle de la Cour. À ce titre, les présents motifs n'ont aucune valeur de précédent, et les décisions qui s'y rapportent sont propres aux faits particuliers de ces appels.
+[2] Le ministre du Revenu national a établi de nouvelles cotisations à l'égard des appelants pour l'année d'imposition 2003, où il a refusé à M. Duskes la déduction d'un montant de 8 000 $ à titre de pension alimentaire pour épouse[1], et où il a inclus un montant équivalent dans le revenu de Mme Cohen pour cette année-là. Sur la recommandation de l'Agence, M. Duskes et Mme Cohen ont interjeté appel contre la nouvelle cotisation dont ils avaient fait l'objet. La question en litige est de savoir quel montant, le cas échéant, a été payé par M. Duskes et reçu par Mme Cohen à titre de pension alimentaire pour épouse. La partie pertinente de la définition du terme « pension alimentaire » qui est énoncée au paragraphe 56.1(4) de la Loi de l'impôt sur le revenu est libellée comme suit :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, [...] si le bénéficiaire peut utiliser le montant à sa discrétion et, [...]
+[3] Après la rupture de leur mariage, M. Duskes a emménagé dans le sous-sol de sa soeur, laissant Mme Cohen et leurs enfants vivre dans l'ancienne maison familiale en attendant qu'elle soit vendue. Il y avait peu d'argent pour entretenir une résidence, encore moins deux. M. Duskes et Mme Cohen ont tous deux retenu les services d'un avocat pour régler des questions telles le partage des biens, la pension alimentaire pour enfants et la pension alimentaire pour épouse. Une entente préliminaire, écrite à la main par l'avocat de Mme Cohen et modifiée par écrit par l'avocat de M. Duskes, a été signée le 17 mars 2003. Intitulée [TRADUCTION] « Consentement à jugement intérimaire » [2], elle dit ceci au paragraphe 5 :
+[TRADUCTION]
+5. En outre, le défendeur [M. Duskes] paiera les montants suivants à titre de pension alimentaire pour épouse, qu'il versera directement aux créanciers indiqués :
+a) 600 $ pour le prêt hypothécaire relatif à la résidence familiale (par mois);
+b) 58,33 $ pour l'électricité (par mois);
+c) 30 $ pour les services de Bell Canada (par mois);
+d) 65 $ pour les services de câblodiffusion et d'Internet (par mois);
+e) 46,23 $ pour l'assurance-habitation (par mois);
+f) 387 $ pour le remboursement du solde actuel chez Gaz Métropolitain. La demanderesse paiera les factures à venir;
+g) 1 423,54 $ pour la taxe municipale et la taxe scolaire payables en juin 2003;
+h) 50 $ pour les dépenses supplémentaires de la demanderesse [Mme Cohen] (par mois).
+Juste au-dessous de ce paragraphe, l'avocat de M. Duskes a ajouté ces mots :
+[TRADUCTION]
+[...] [L]a demanderesse présentera les factures susmentionnées au défendeur, qui les paiera à la date d'échéance.
+[4] Le 4 juin 2003, la Cour supérieure du Québec (chambre de la famille) a rendu un jugement de divorce[3]. La question de la pension alimentaire pour épouse était traitée au paragraphe 4 :
+[TRADUCTION]
+4. PENSION ALIMENTAIRE POUR ÉPOUSE
+4.1 Les parties s'entendent pour que le PÈRE verse à la MÈRE une pension alimentaire pour épouse de MILLE DOLLARS (1 000 $) par mois à compter du 1er juillet 2003, pour une période de vingt-quatre (24) mois se terminant le 30 juin 2005.
+4.2 Les parties s'entendent pour dire, et la MÈRE confirme, que le montant de la pension alimentaire pour épouse excède la capacité financière du PÈRE et qu'il en est ainsi pour aider la MÈRE pendant qu'elle étudie à temps plein. Par la présente, la MÈRE déclare qu'elle sera autonome financièrement au plus tard le 30 juin 2005 et elle renonce sur-le-champ à demander au PÈRE quelque autre pension alimentaire.
+4.3 Les parties sont d'accord et la MÈRE confirme qu'entre le 1er mars 2003 et le 30 juin 2003, 2 000 $ ont été versés mensuellement à la MÈRE à titre de pension alimentaire pour épouse.
+[5] Le litige ne porte pas sur la période allant de juillet à décembre 2003, où Mme Cohen a reçu un montant de 1 000 $ par mois sur lequel elle a payé de l'impôt et où ce montant a été déduit du revenu de M. Duskes. La seule période qui fait l'objet du litige est celle qui s'étend de mars à juin 2003, pour laquelle Mme Cohen a confirmé, selon le paragraphe 4.3, avoir reçu 2 000 $ par mois pour un total de 8 000 $. Toutefois, Mme Cohen dit que le paragraphe 4.3 ne reflète pas la réalité de ce qui s'est passé entre mars et juin 2003. Elle a témoigné qu'elle avait accepté ces conditions « sous la contrainte » , car l'avocat de M. Duskes l'avait amenée à croire que si elle ne signait pas l'entente, le produit de la vente de la maison familiale serait retenu. Mme Cohen a fait valoir qu'en réalité, elle n'a reçu de M. Duskes que 50 $ par mois à titre de pension alimentaire pour épouse et que de plus, tous les montants supplémentaires payés par M. Duskes (lesquels, à son avis, totalisent moins de 2 000 $) ont été versés directement à ses créanciers, et non à elle. Étant donné qu'elle n'a jamais vu la couleur de cet argent, il ne peut être dit qu'elle pouvait l'utiliser à sa discrétion comme le prévoit le paragraphe 56.1(4). Finalement, Mme Cohen dit qu'elle n'a jamais été informée des éventuelles conséquences fiscales du paragraphe 4.3.
+[6] M. Duskes prétend que les parties, toutes deux représentées par un avocat, ont négocié les conditions énoncées au paragraphe 4.3 et qu'elles se sont entendues à cet égard. Il admet que les montants énoncés au paragraphe 5 du consentement à jugement intérimaire totalisent un peu moins que le montant de 2 000 $ dont il est question au paragraphe 4.3, mais il dit qu'ils se sont mis d'accord sur ce montant pour tenir compte des paiements qu'il avait faits avant mars 2003 ou de ceux qu'il serait probablement obligé de faire plus tard, selon les besoins. Un tel montant devait aussi prendre en considération le fait qu'il avait accepté de payer plus qu'il n'en était capable. M. Duskes dit qu'il a été informé qu'il pourrait déduire le montant de 2 000 $ et que de fait, c'était là une incitation à accepter de payer un montant qui allait au-delà de ses moyens. Selon le paragraphe 4.2 du jugement de divorce, ce montant excessif devait permettre à Mme Cohen d'achever ses études, et donc que celle-ci et M. Duskes réalisent plus rapidement leur objectif commun, c'est-à-dire qu'elle soit autonome financièrement en juin 2005 ou avant.
+Analyse
+[7] Les deux appelants m'ont paru intelligents, intéressants et crédibles. D'après leur témoignage, il est toutefois évident qu'il y a un décalage important entre ce qu'ils disent (aujourd'hui) avoir accepté en juin 2003. Cela est peut-être inévitable vu la tension causée par la rupture du mariage, les pressions financières qu'ils subissent tous deux, et leur souci pour leurs enfants. C'est sur cette toile de fond que je dois déterminer les faits en l'espèce et appliquer la loi.
+[8] La première question en litige est une question de fait, à savoir : combien M. Duskes a-t-il réellement payé? La formulation du paragraphe 4.3 confirme que Mme Cohen a reçu 2 000 $ par mois, un chiffre basé sur les montants énoncés au paragraphe 5 du consentement à jugement intérimaire et, selon M. Duskes, sur d'autres montants qu'il a payés. Les éléments de preuve portés à ma connaissance n'appuie pas la conclusion selon laquelle M. Duskes a payé 2 000 $. Je suis convaincue qu'en réalité, il a payé environ 1 000 $ par mois de mars à juin 2003. La preuve ne permet pas d'affirmer qu'il était « entendu » que des paiements passés ou futurs étaient inclus dans le montant de 2 000 $. Le montant de 50 $ que M. Duskes a versé directement à Mme Cohen tous les mois au cours des quatre mois dont il est question n'est pas un point en litige. En ce qui concerne les montants énumérés au paragraphe 5 du consentement à jugement intérimaire, j'accepte la preuve présentée par Mme Cohen selon laquelle les taxes municipales totalisant 1 453 $ n'ont pas été payées par M. Duskes au cours de la période en question, mais qu'elles ont plutôt été déduites du produit de la vente de la maison familiale le 30 juin 2003. J'accepte également la preuve qu'elle a présentée selon laquelle elle s'est entendue avec la banque pour réduire le versement hypothécaire de 600 $ à 450 $ par mois au cours de la période en question. Finalement, d'après la preuve présentée tant par M. Duskes que par Mme Cohen, le montant payé à Gaz Métropolitain devrait être réduit de 378 $ à 300 $ par mois pour tenir compte du début de la saison chaude.
+[9] Ayant établi que M. Duskes a payé en réalité 1 000 $ par mois pour la période allant de mars à juin 2003, je dois maintenant déterminer si ce montant constitue une « pension alimentaire » . M. Duskes a payé directement ce montant aux créanciers de Mme Cohen pour le prêt hypothécaire, l'assurance, les taxes et les services publics relatifs à la maison familiale où vivaient Mme Cohen et les enfants. Celle-ci fait maintenant valoir que si elle avait eu l'argent au cours des mois en question, elle aurait pu décider de la façon dont elle l'aurait dépensé. C'est peut-être vrai, mais il n'en demeure pas moins que d'une façon ou d'une autre, les factures du ménage devaient être payées. Bien que Mme Cohen dise avoir accepté « sous la contrainte » que M. Duskes paie ses créanciers, elle était représentée par un avocat. Mme Cohen et M. Duskes, ainsi que leurs avocats respectifs, semblent avoir pris part activement à la rédaction du consentement à jugement intérimaire et du jugement de divorce, comme en témoignent les diverses modifications et corrections. Si Mme Cohen a le sentiment d'avoir été mal servie par son avocat, la preuve présentée devant cette cour n'est pas suffisante pour qu'une telle allégation entre en ligne de compte dans le présent appel. Pas plus que le fait de ne pas être informée des conséquences fiscales de l'entente qu'elle avait signée ne justifie qu'elle n'en ait pas tenu compte.
+[10] Après avoir écouté attentivement les deux appelants, je suis convaincue que dans le contexte difficile de la rupture de leur mariage et vu les ressources disponibles limitées, les appelants se sont entendus de façon très raisonnable (sinon heureuse) pour que M. Duskes, plutôt que de verser directement à Mme Cohen une pension alimentaire pour épouse sur laquelle ils se seraient mis d'accord, fasse directement les paiements mensuels aux créanciers pour le compte de Mme Cohen. Il ne faut pas oublier que les dettes dues aux « créanciers » concernaient toutes le fonctionnement et l'entretien de la maison dans laquelle Mme Cohen et M. Duskes avaient un intérêt commun : Mme Cohen et les enfants y habitaient en attendant la vente et le partage du produit de la vente entre les époux. Mme Cohen donnait[4] les factures à M. Duskes, qui les payait « en ligne » , qui inscrivait la mention « payée » sur les factures, et qui les lui retournait pour en confirmer le paiement. Pour ces motifs, je suis convaincue que le montant de 4 000 $ qu'a en réalité payé M. Duskes aux créanciers de Mme Cohen était une pension alimentaire aux termes du paragraphe 56.1(4) de la Loi.
+[11] Par conséquent, ces appels sont admis, et les nouvelles cotisations sont renvoyées au ministre pour qu'il les réexamine et qu'il en établisse d'autres aux motifs suivants :
+1. en ce qui concerne l'appel de M. Duskes, 2005-1810 (IT) I, du montant de 8 000 $ qu'il avait indiqué dans sa déclaration de revenus pour l'année 2003, un montant de 4 000 $ est déductible à titre de pension alimentaire;
+2. en ce qui concerne l'appel de Mme Cohen, 2005-2229(IT)I, des 8 000 $ inclus dans son revenu par le ministre, seuls 4 000 $ ont été reçus par elle à titre de « pension alimentaire » .
+Signé à Ottawa, Canada, ce 24e jour de mars 2006.
+« G. Sheridan »
+La juge Sheridan
+Traduction certifiée conforme ce 27e jour d'avril 2006.
+Joanne Robert, traductrice
+RÉFÉRENCE : 2006CCI176
+Nos DES DOSSIERS DE LA COUR : 2005-1810(IT)I; 2005-2229(IT)I
+INTITULÉ DE LA CAUSE : Ian Duskes et Shelly Cohen c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : Le 28 février 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 24 mars 2006
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l'intimée :
+Me Vlad Zolia
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour les appelants :
+Nom :
+Étude :
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] La pension alimentaire pour enfants versée par M. Duskes à Mme Cohen n'est pas un point en litige dans les présents appels.
+[2] Pièce A-1.
+[3] Pièce A-2.
+[4] Pièce A-1.

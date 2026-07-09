@@ -1,0 +1,131 @@
+Title: Wise v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28328/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-741-28328-wise-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-12-13
+
+# Wise v. The Queen
+
+- Citation: 2007 CCI 741
+- Decision date: 2007-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1847, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wise v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-12-13
+Référence neutre
+2007 CCI 741
+Numéro de dossier
+2007-2600(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2600(IT)I
+ENTRE :
+KARYN MARIE WISE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 novembre 2007, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Max Matas
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2005 est rejeté sans dépens conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 13e jour de décembre 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 17e jour de janvier 2008.
+Hélène Tremblay, traductrice
+Référence : 2007CCI741
+Date : 20071213
+Dossier : 2007-2600(IT)I
+ENTRE :
+KARYN MARIE WISE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Faits
+[1] L’appelante est la mère de Vanessa Marie Panton (« Vanessa »).
+[2] Vanessa était étudiante étrangère à l’école New South Wales Technical and Further Education (la « TAFE »), à Sydney, en Australie.
+[3] La TAFE est une école située à Sydney, en Australie, qui donne de la formation sur divers sujets. Lors de l’audience, Vanessa a expliqué que la TAFE était semblable au British Columbia Institute of Technology.
+[4] À la suite de son cours, Vanessa a obtenu un diplôme en gestion d’événements. Le diplôme lui a été décerné en décembre 2005 (pièce A‑3).
+[5] Dans son témoignage, l’appelante a affirmé avoir payé 8 922,05 $ ($A) en frais de scolarité pour sa fille, Vanessa, en 2004. Elle a aussi payé un autre montant de 3 012 $ ($A) en frais de scolarité en 2005.
+[6] Dans le calcul de ses revenus pour l’année d’imposition 2005, l’appelante a déduit 5 000 $ ($CAN) au titre de frais de scolarité payés pour sa fille.
+[7] Le 21 août 2006, le ministre du Revenu national (le « ministre ») a envoyé un avis de nouvelle cotisation dans lequel il a refusé les crédits pour frais de scolarité transférés de Vanessa à l’appelante.
+[8] L’appelante a présenté un avis d’opposition à la nouvelle cotisation. Dans un avis daté du 13 décembre 2006, le ministre a ratifié la nouvelle cotisation.
+B. Point en litige
+[9] La question en l’espèce est de savoir si l’appelante peut déduire les frais de scolarité s’élevant à 5 000 $ qui lui ont été transférés de Vanessa dans le calcul de ses revenus pour l’année d’imposition 2005.
+C. Analyse et décision
+[10] Le paragraphe 118.5(1) de la Loi de l’impôt sur le revenu (la « Loi ») est rédigé en ces termes :
+118.5(1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition,
+a) si le particulier est inscrit au cours de l'année à l'un des établissements d'enseignement suivants situés au Canada
+(i) établissement d'enseignement – université, collège ou autre – offrant des cours de niveau postsecondaire
+(Non souligné dans l’original)
+L’alinéa 118.5(1)b) est rédigé en ces termes :
+b) si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'université pour l'année, à l'exception des frais […]
+(Remarque : les exceptions énumérées ne s’appliquent pas en l’espèce.)
+(Non souligné dans l’original.)
+(Dans la situation en l’espèce, l’appelante a payé les frais de scolarité de Vanessa, et cette dernière a transféré une partie de ces frais à l’appelante. Le ministre ne remet pas en question le fait que Vanessa puisse transférer les frais (en tout ou en partie) à l’appelante.)
+[11] Il est à noter que le paragraphe 118.5(1) de la Loi prévoit certaines conditions :
+Si le particulier fréquente un établissement d’enseignement au Canada, cet établissement peut être une université, un collège ou un autre type d’établissement d’enseignement, c.‑à‑d., il n’est pas obligatoire que l’établissement d’enseignement soit une université s’il est situé au Canada.
+Cependant, si le particulier fréquente un établissement d’enseignement situé à l’extérieur du Canada, le libellé de la loi indique clairement que ce dernier doit fréquenter comme étudiant à temps plein une université située à l’étranger où il suit des cours conduisant à un diplôme.
+Cette conclusion est d’ailleurs appuyée dans un bon nombre de décisions de la Cour. Je cite la décision rendue par le juge Mogan de la Cour canadienne de l’impôt dans l’affaire Gilbert v. Canada, [1998] A.C.I. n° 1091. Dans cette décision, le juge Mogan a indiqué ce qui suit, au paragraphe 21 :
+21. Le législateur a prévu une plus vaste gamme d'établissements qu'une personne peut fréquenter au niveau postsecondaire au Canada tout en ayant droit au crédit pour frais de scolarité, mais il a limité le nombre d'établissements situés à l'étranger à l'égard desquels un crédit pour frais de scolarité peut être obtenu. J'ai déjà indiqué ce que je considère comme étant la définition généralement reconnue de ce qu'est une université, soit un établissement qui décerne un diplôme. Selon mon hypothèse, la distinction vise à assurer un certain contrôle sur le genre d'établissements d'enseignement postsecondaire pouvant exister à l'étranger, à l'égard desquels il serait impossible de déterminer s'il s'agissait vraiment d'établissements d'enseignement décernant un diplôme. Je pense que la mesure législative est plus restrictive à l'alinéa b), de manière à assurer un certain contrôle quant au genre de frais de scolarité payés à des établissements situés à l'étranger et à l'égard desquels la personne qui paie les frais ou le parent aura droit à un crédit d'impôt. Pour ces deux raisons, l'interprétation de ce qu'est une université en tant qu'établissement autonome et la comparaison entre les alinéas 118.5(1)a) et b) m'amènent à conclure que l'appel considéré en l'espèce doit être rejeté.
+[12] Après l’audience, l’avocat de l’intimée, Me Max Matas, a présenté à l’appelante et à la Cour une copie d’une récente décision de la Cour d’appel fédérale, Klassen c. Canada, [2007] A.C.F. n° 1442. Au paragraphe 17 de ses motifs, le juge Noël a indiqué ce qui suit :
+17. Il faut lire l’expression « université située à l’extérieur du Canada » dans son contexte en suivant son sens ordinaire qui s’harmonise avec l’esprit et l’objet de la LIR ainsi que l’intention du législateur. Parallèlement, il importe de porter une attention particulière au sens textuel des mots lorsqu’on cherche à interpréter des dispositions détaillées de la LIR comme celles en l’espèce (A.Y.S.A. Amateur Youth Soccer Association c. Canada (Agence du revenu), 2007 CSC 42, paragraphe 16).
+18. Les définitions précitées indiquent toutes que l’université est un établissement de haut savoir qui décerne des diplômes attestant d’une compétence donnée. La plupart des gens considèrent le baccalauréat comme l’exigence minimale à satisfaire pour poursuivre des études supérieures (que l’on appelle habituellement des études de cycle supérieur) qui conduisent à la maîtrise et au doctorat.
+19. Fait important, dans le cas des établissements d’enseignement situés au Canada et celui des étudiants qui franchissent la frontière (ceux qui se rendent chaque jour à un établissement d’enseignement américain), les crédits sont non seulement offerts aux étudiants universitaires, mais aussi à ceux qui fréquentent un « collège ou autre [établissement d’enseignement] – offrant des cours de niveau postsecondaire […] » (voir les sous‑alinéas 118.5(1)a)(i) et 118.5(1)c)(i) et l’alinéa 118.6(1)c)). Il semble évident que, en étendant les crédits à ces deux catégories d’étudiants, le législateur a fait une distinction entre, d’une part, l’« université » et, d’autre part, les autres établissements d’enseignement dont il est question dans cette expression.
+20. Je souscris à la déclaration faite par le juge Mogan dans Gilbert, précité (paragraphe 21), et reprise par le juge McArthur dans Cleveland, précité (paragraphe 16), selon laquelle le législateur a préconisé une approche plus restrictive à l’égard des établissements étrangers en limitant l’application des alinéas 118.5(1)b) et 118.6(1)b) aux « université[s] située[s] à l’extérieur du Canada ». Cette mesure avait pour objet de permettre au ministre d’exercer un certain contrôle sur le type et le niveau d’éducation visés par les crédits d’impôt. Pour donner effet à la distinction faite par le législateur, le trait le plus important qui distingue l’« université » des autres établissements d’enseignement est le type de diplôme qu’elle décerne, et particulièrement le baccalauréat, le seuil établi par les universités pour la poursuite d’études supérieures. Je ne puis imaginer aucune autre norme fiable ou objectivement mesurable sur laquelle pourrait reposer la distinction établie par le législateur.
+21. Je conclus donc que l’expression « université située à l’extérieur du Canada » renvoie à un établissement d’enseignement qui confère des diplômes décernés habituellement par des universités, c’est-à-dire un doctorat, une maîtrise ou, tout au moins, un baccalauréat ou l’équivalent de celui-ci. Le diplôme décerné par la MSU-Bottineau dans la présente affaire (soit le diplôme d’associé) atteste la réussite d’un programme biennal de premier cycle. Puisqu’il s’agit du plus haut diplôme que la MSU-Bottineau est habilitée à décerner, elle n’est pas une « université située à l’extérieur du Canada ». Le fait que la MSU-Bottineau se présente comme une université ne saurait modifier cette conclusion.
+[13] En fonction de la preuve dont j’ai été saisi, je conclus que la TAFE n’est pas une université et que Vanessa a obtenu de la TAFE un simple diplôme, et non un grade universitaire. Elle n’était donc pas une étudiante fréquentant une université à l’extérieur du Canada où elle suivait des cours conduisant à un diplôme au sens de l’alinéa 118.5(1)b) de la Loi.
+[14] L’appel est rejeté avec dépens.
+[15] Avant de conclure, je tiens à souligner que je suis chargé d’interpréter le libellé de la Loi de l’impôt sur le revenu, je n’ai pas le pouvoir de le modifier.
+Signé à Vancouver (Colombie‑Britannique), ce 13e jour de décembre 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 17e jour de janvier 2008.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI741
+N° DE DOSSIER : 2007-2600(IT)I
+INTITULÉ : Karyn Marie Wise
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 21 novembre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 13 décembre 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Max Matas
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

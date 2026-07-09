@@ -1,0 +1,175 @@
+Title: Gyimah v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30104/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-621-30104-gyimah-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-12-03
+
+# Gyimah v. The Queen
+
+- Citation: 2010 TCC 621
+- Decision date: 2010-12-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7644, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gyimah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-03
+Neutral citation
+2010 TCC 621
+File numbers
+2010-77(IT)APP
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-77(IT)APP
+BETWEEN:
+ANTHONY GYIMAH,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application for Extension of Time heard on August 19, 2010
+at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Applicant:
+V. William Andreou
+Counsel for the Respondent:
+Rishma Bhimji
+____________________________________________________________________
+ORDER
+Having heard the application for an Order extending the time within which Notices of Objection to assessments made under the Income Tax Act for the 1997, 1998 and 1999 taxation years may be served;
+And having heard what was alleged and argued by the parties;
+This Court orders that the application to serve such Notices of Objection is granted and the Notices of Objection served with Canada Revenue Agency on March 8, 2010 shall thereby be accepted as having been validly served, in accordance with and for the reasons set out in the attached Reasons for Order.
+Signed at Ottawa, Canada this 3rd day of December 2010.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2010 TCC 621
+Date: 20101203
+Docket: 2010-77(IT)APP
+BETWEEN:
+ANTHONY GYIMAH,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hershfield J.
+[1] An Application to the Court to extend time to serve Notices of Objection for the Applicant’s 1997, 1998 and 1999 taxation years was filed on January 7, 2010.
+[2] At an initial hearing before this Court, the Application was adjourned sine die as it had not gone first to the Minister of National Revenue (the “Minister”) as required by subsection 166.2(1) of the Income Tax Act (the “Act”).
+[3] An application was then filed with the Minister on March 8, 2010 (Exhibit R-1) and the Minister refused it on May 27, 2010 (Exhibit R-2) because it did not satisfy the time limit requirement under paragraph 166.1(7)(a) of the Act. No assertion was made by the Minister that the other requirements of that subsection had not been met and Respondent’s counsel acknowledged at the hearing that no reliance was being placed on any arguments concerning any such other requirements. Regardless, I note that I am satisfied, based on the evidence presented at the hearing, that all such other requirements have been met.
+[4] The Application is now properly before the Court pursuant to subsection 166.2(1) of the Act and the issue is whether the Application was made within the required time.
+[5] Paragraph 166.2(5)(a) of the Act provides as follows:
+166.2(5) When application to be granted -- No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+…
+[6] The time otherwise limited by the Act for serving a Notice of Objection is set out in subsection 165(1) of the Act which reads as follows:
+165.(1) Objections to assessment -- A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) where the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a testamentary trust, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of mailing of the notice of assessment; and
+(b) ….
+[7] The later date referred to in paragraph 165(1)(a) is, in this case, 90 days after the mailing of the Notices of Assessment as determined under subparagraph (a)(ii).
+[8] The date by which an application for an extension of time must be made to the Court pursuant to paragraph 166.2(5)(a) has been determined accordingly on the following basis:
+1997: Assessment date: October 31, 2005
+Date by which the Applicant was required to file an objection:
+January 30, 2006
+Date by which an application for an extension of time must be made: January 30, 2007
+1998: Assessment date: December 19, 2005
+Date by which the Applicant was required to file an objection:
+March 20, 2006
+Date by which an application for an extension of time must be made: March 20, 2007
+1999: Assessment date: November 18, 2003
+Date by which the Applicant was required to file an objection: February 16, 2004
+Date by which an application for an extension of time must be made: February 16, 2005
+[9] The Canada Revenue Agency (the “CRA”) alleges that the Notices of Assessment bearing the date October 31, 2005 in respect of the 1997 taxation year, December 19, 2005 in respect of the 1998 taxation year, and November 18, 2003 in respect of the 1999 taxation year were all mailed to the Applicant.
+[10] Mr. Gyimah alleges that he did not receive the Notices of Assessment. He testified that he did not learn of the existence of the Notices of Assessment until after the time for filing an objection and applying for an extension of time to file one had expired.
+[11] Respondent’s counsel called on a litigation officer of the CRA to testify to the fact that the assessments were mailed as required to give effect to the deadlines noted above. However, under cross-examination such evidence was anything but certain. Before elaborating on the reasons why such uncertainties have resulted in my granting the Applications, I will review the factual background as to the Applicant’s circumstances during the relevant period.
+[12] In 1997, 1998 and 1999, Mr. Gyimah worked as an air conditioner mechanic fixing air conditioners. In June of 2000, he was involved in a car accident. The Applicant testified that he sustained a brain injury and suffered from memory loss and behavioral and comprehension problems as a result of the accident. He testified that he worked on average three months per year after the accident and stopped working in 2004 altogether. Medical evidence was produced at the hearing to support that the injury sustained was genuinely debilitating in a material way regarding the Applicant’s ability to comprehend and respond to an assessment.[1]
+[13] Still, the Applicant retained a lawyer in April 2002, to seek damages that arose from the accident. The lawyer wanted him to see an accountant to prepare tax returns that were presumably necessary for the computation of damages. The Applicant said he met an accountant to assist in a filing. It makes sense that a return for 1999, the last year prior to the accident, would have been filed at some point after the retention of the lawyer. In fact, a return was filed in 2003 for 1999. However, there is no evidence that returns were filed, at that time, for 1997 or 1998.
+[14] Before getting into the evidence regarding filing returns for these years, I will review Mr. Gyimah’s testimony regarding the behavioral problems he suffered after the accident.
+[15] He testified that as a result of the accident he often reacted violently to various stimuli and had been incarcerated several times for up to two or three months at a time. He was never convicted of any charges. The time spent in jail was awaiting bail or a trial. My impression was that, in all cases, charges were eventually dropped due to his condition or he was found not guilty due to it. He offered his incarceration as a possible explanation as to why he did not receive the assessments although there seemed to be some doubt in his mind as to this as his son, who he said took care of his affairs, did not receive anything to the Applicant’s knowledge.[2]
+[16] Another explanation as to why he did not receive the assessments was that the assessments were mailed, if mailed at all, to the wrong address. In the years 2003 and 2005, Mr. Gyimah owned two residential properties, one at 1 Victoria Avenue West and the other at 7 Victoria Avenue West. The Applicant resided at 7 Victoria Avenue West at those times. The other residence was rented.[3] Mr. Gyimah believed that the assessments, if sent, may have been sent to the wrong address.
+[17] It was not until June of 2005 that one of his tenants, residing at the rented premises, presented him with a Requirement to Pay (referred to at the hearing as a garnishment) from the CRA.[4] The garnishment stipulated that the tenant should pay the rent to the CRA rather than to Mr. Gyimah. Knowing nothing of the reason for the garnishment, the Applicant attended at the offices of the CRA. A CRA officer at the North Toronto tax office informed Mr. Gyimah that he owed CRA monies and advised him to retain an accountant to update his returns as they would not address the matter until he did.[5] Mr. Gyimah alleges that the CRA officer did not inform him of any Notices of Assessment.
+[18] Such information, at that time, might have helped clear things up because the Applicant did see someone to assist him in filing at least one pre-2000 return. However, whether things might have been cleared up, assumes that the Applicant was competent to comprehend and respond to any information concerning a prior assessment had it been provided. Indeed, it might well have been. And then, of course, there is the question of the ability of the Applicant, at that time, to properly inform and instruct the person who filed his returns. As well, the reliability of the testimony of the Applicant on any of this, given his mental condition and memory problems between the time of the accident in 2000 and his stabilization by 2008, is questionable.
+[19] Still, the status regarding past returns can, to some extent, be found in the record presented by the Respondent’s witness.
+[20] As I said, the Respondent called a litigation officer of the CRA who referred me to two sets of CRA printouts called an Option C and Option E. These printouts reflect standard entries documenting return filing dates as well as when and where the subject assessments were sent.
+[21] The Option C printout for 1997 consists of a single page. It shows an assessment date of November 21, 2005. No filing date is shown. As stated, the Applicant asserts he never received the assessment. The assessed income for 1997 is identified on the printout but in a rather unusual manner. It states, in what I would refer to as a highlighted line, “A MULTI-YEAR REASSESSMENT HAS MODIFIED THIS ASSESSMENT”. It shows income of some $70,000. The Court has no information regarding a modifying assessment. Contrary to the clear statement on the Option C printout, the Respondent’s witness testified that there were no other assessments. This strikes me as too irregular to ignore. Indeed, it seems to give some credibility to the Applicant’s speculation that changes in 2005 respecting these 3 years did not properly adjust his income for 1999. [6] In any event, my confidence in gleaning reliable information from these printouts, in this case, is somewhat less than normal.
+[22] The Option C printout for 1998 consists of two pages. It shows a filing date of August 4, 2005 on page 2 and an assessment date of December 19, 2005 on page 1. The Applicant, as stated, asserts he never received it. However, it appears that in response to the CRA’s request for updated returns after the June, 2005 garnishment, the Applicant received help filing at least a return for 1998. The income for 1998 is said to be in the order of $153,000. The Applicant testified that he could not possibly have earned that amount.
+[23] The Option C printout for 1999 consists of three pages. It shows a filing date of October 7, 2003 on page 2 and an assessment date of November 18, 2003 on page 1. This corresponds with the filing that was requested by the lawyer on the civil claim for damages resulting from the accident. The income for 1999 is said to be in the order of $143,000 and again the Applicant testified that he could not possibly have earned that amount. There was no explanation for the amounts said to have been reported other than the original accounting representative may have erroneously lumped his cumulative incomes earned over a longer period or included amounts that were not attributable to him.[7]
+[24] Returning now to the events following the garnishment which would have arisen from the 2003 assessment of the 1999 year, Mr. Gyimah testified that after his initial contact with the CRA, he made persistent attempts over the next two years to meet with CRA personnel to learn not only the source of the garnishment referred to above but the source of another garnishment issued in November 2006 to the tenant at 1 Victoria Avenue West. The maximum garnishment amount had increased from some $64,000 to over $229,000. The increase would presumably have resulted primarily from the additional assessment in 2005 of the Applicant’s 1997 and 1998 taxation years.[8] His attempts to meet with CRA personnel resulted in his being shuffled from person to person over that period. He insisted that he was always being put off and that he was never told about the outstanding assessments.
+[25] As well, he was unable to contact the persons who assisted him file his previous returns. Finally, he retained an accountant, Mr. Gustavo Beher, in July of 2008 to prepare tax returns for the years 2000 on and to resolve matters related to the monies owed to the CRA which Mr. Beher learned arose from assessments of the Applicant’s 1997, 1998, and 1999 taxation years.
+[26] Mr. Beher testified at the hearing. He acknowledged he did not know when returns for 1997, 1998 and 1999 were filed. He testified that had he been able to file amended returns for those years, the adjusted gross income would have been $20,500, $19, 900 and $3, 000 respectively. [9]
+[27] At this point, there appears to be little or nothing in this recital of events that assists the Applicant to deal with the statutory limitation period for granting the Application sought. I say “appears” because Applicant’s counsel argued the Applicant’s mental condition must be considered in determining when the limitation clock can start running. However, while I have included the evidence that relates to that argument thus far, there is more that relates to the argument concerning the mailing of the assessments.
+[28] The one page Option C printout for 1997 is dated August 19, 2010 and shows the mailing address at that time as “1 Victoria Avenue West ”.[10] The mailing address shown on the Option E printout at the time of the 2005 assessment was “7 Victoria Avenue West ”.
+[29] The two page Option C printout for 1998 is dated August 19, 2010 and shows the mailing address at that time as “1 Victoria Avenue West”. The mailing address shown on the Option E printout at the time of the 2005 assessment was “7 Victoria Avenue West”.
+[30] The three page Option C printout for 1999 is dated August 19, 2010 and shows the mailing address at that time as “1 Victoria Avenue West”. The mailing address shown on the Option E printout at the time of the 2003 assessment is shown on two entries, first as “7 Victoria Avenue West” and next as “391 Keele St.”. They are recorded in that sequence as being effective on the same day; namely, October 23, 2003. They are entered in a manner that indicates that they would have been entered based on information provided by the taxpayer or his authorized agent. The CRA litigation officer could not explain how such conflicting entries, both effective on the same day, both entered by the same CRA officer, could come about. That being the case, the unexplained irreconcilable double entries made on October 23, 2003 cannot be taken as evidencing a change of address that the Respondent can rely on. The reliability of the sequence of the entries and their source is dubious at best. Indeed, I believe it is fair to say that the Respondent’s witness’s confidence in the reliability of the evidence he was called to address, was shaken at least in respect of the 1999 year. More importantly, he admitted that he could not say with certainty where the Notice of Assessment would have been mailed.
+[31] When I say the Respondent’s witness’s confidence was shaken at least in respect of 1999, I note that there was further confusion regarding the mailing address for the 1997 and 1998 assessments which were mailed on November 21, 2005 and December 19, 2005, respectively. The source of the address recorded on the Option E printout was stated on the printout to have been taken from a tax return. The Respondent’s witness testified it could have come from any return; he could not tell from the printout which one. Given the absence of any other returns filed near that time, he suggested it must have been taken from the 1998 return. However, as I indicated above, I am not satisfied that the records show all the returns which puts in doubt the source and reliability of the change in address relied on by the CRA in mailing the 1997 and 1998 assessments. That does not necessarily mean that they were sent to the wrong address. Indeed it appears, unlike the case in respect of the 1999 assessments that they were, in fact, sent to the right address. Still, the interrelationship of all three assessments arising from a “MULTI-YEAR REASSESSMENT” persuades me to find that the failure in this case to send one assessment, the first and arguably the most critical in the chain of assessments, to the right address, in practical terms, taints the delivery process of the entire multi-year assessment. Indeed, in practical terms, the 1999 year cannot be effectively dealt with separately if, in fact, it has lumped together income from the three years in question.
+[32] This finding, that the delivery of the subject assessments was tainted, leads me to conclude that the Application for an extension of time to file objections to them must be granted. Applicant’s counsel cites 236130 British Columbia Ltd. v. R.[11] in support of this finding. This case dealt with the issue of a notice of assessment mailed to the wrong address. In that case, the Court stressed that “the fact that the assessment was sent to the wrong address leads to the conclusion that they were not issued at all.”[12] Counsel for the Applicant submits that this conclusion supports the Applicant’s position that the limitation period clock cannot be regarded as having started.
+[33] I agree. The evidence that the Respondent can normally rely on that the assessments were sent to the right address is not sufficient in this case. The Option C and Option E printouts have raised so many questions that an additional onus of proof has arisen on the Respondent and the burden in respect of that onus has not been met. Further, the confusion and circumstances of this case encourage me to give the Applicant the benefit of the doubt. Accordingly, notices of objection shall be treated as having been timely filed in respect of the three years in question and the Minister shall respond in due course as required under the Act.
+[34] Were it not for that finding, it would be necessary to consider the Applicant’s argument relating to his inability to receive and respond to a notice of assessment due to his mental incapacity.
+[35] The Applicant’s counsel took the position that as long as the taxpayer is mentally incapacitated, and there is no guardian or legal representative, time cannot run against them so as to deny them a right to object to an assessment. He cited Meunier v. M.N.R.,[13] Lesage v. Minister of National Revenue[14] and R. v. Tohms.[15] Each of these cases allowed extensions based on an incapacity to act.
+[36] However, none of those cases appear to have dealt with the provision under which there was a statutory prohibition for applications for extensions to be granted beyond the year and 90 days. They all appear to be applications beyond the 90 day limitation period but within the additional one year allowable extension period.[16]
+[37] Further, the Respondent answers the capacity argument by reliance on the well established law that time runs from the date of mailing. If receipt is irrelevant then capacity to act is irrelevant. The Act sets a rule that prevents objections and appeals to clog up the system forever regardless of the equities. If I cannot act because the post office fails to deliver an assessment, then my inability to act is no less excusable if I am unable to act because I am mentally unable to respond, even if I had received it.
+[38] Considering the authorities she cites, it is difficult for me to take issue with her. She cites Chu v. Canada[17] for example. In that case I wrote:
+18 However, with respect, the language of the subject provisions is absolutely, unambiguously clear. It does not suggest that receipt of the notice of assessment is relevant. Accordingly, the authorities have found, for example, that proof of failure of the postal service resulting in a non-receipt does not change the start date of the prescribed limitation period. This was confirmed by the Federal Court of Appeal in 2000, in Schafer v. Canada. Essentially, such decisions frustrate the application of the doctrine of discoverability. I believe my hands are tied.[18]
+[39] Respondent’s counsel seems to be on pretty safe ground then when the essence of her argument is that if receipt is irrelevant, what difference does the state of mind of the intended recipient make? If the receipt is rendered irrelevant by the statute, then understanding its content or being able to respond are equally irrelevant and this Court has no jurisdiction to re-write the legislation.
+[40] While I agree that both the legislation and the authorities favour the view that the 90 days plus one year provision is an absolute limitation period, there is one aspect of this case that does present a new question. Namely, there is a question here as to the reliability of any information contained in a return filed by or on behalf of an adult person with a mental illness who has no guardian or legal representative. There is a statutory obligation in paragraph 150(1)(d) of the Act for a legal representative or guardian to file returns for a person unable to do so. If a person is mentally incapacitated but has no guardian or legal representative, but a return is filed on behalf of such person, it is arguable that no return has been filed and no assessment in respect of it can be said to have been issued. How can an incapacitated person effectively authorize someone to file a return, provide income information and a mailing address? Arguably, that can only be done effectively through a legal representative or guardian. None exists in this case.[19]
+[41] I note here, as well, that there is no statutory guardian or legal representative provision with respect to notifying the Minister of a change of address, filing objections or appeals or making applications by prescribed dates. It seems unlikely that such omission to provide for such a representative in situations other than in respect of filing returns would suggest that a mentally disabled person should thereby be viewed as having effective legal capacity for the purposes of the Act in such other situations. The medical evidence I referred to above indicated that the Applicant could not understand the filing requirements relating to income tax. If that was the case, if he was incompetent to file income tax returns during the period in question, he was not competent to provide the necessary information or requisite authorizations without a legal representative or guardian.
+[42] On the other hand, that argument could well confront a contrary view if the limitation period is read as an absolute or ultimate one. This leads to a whole other area of law about which much can be said in respect of the impact of statutes of limitation on mentally disabled persons.[20] Arguably, the 90 days and one year rule in the Act must be seen and applied as an absolute and ultimate limitation period. Nothing in the existing authorities that have been brought to my attention suggests otherwise.
+[43] The question remains open. However, I note here that were it necessary to decide the Application on the basis of capacity, the sufficiency of the doctor’s letter might well be questioned in this case. Further, the absence of action by the family and various professionals that dealt with the Applicant, including the doctor, might suggest that a guardian was not necessary. In any event, as I said the question remains open as the Application is allowed for other reasons. Based on my concerns respecting the mailing issues and applying 236130 British Columbia Ltd. as good law, I find that the Application should be granted. As the matter proceeds, consideration should be given to proceeding under the General Procedure, in which case costs in the respect of this Application might be awarded in the cause or as otherwise determined by the Court.
+Signed at Ottawa, Canada this 3rd day of December 2010.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2010 TCC 621
+COURT FILE NO.: 2010-77(IT)APP
+STYLE OF CAUSE: ANTHONY GYIMAH AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 19, 2010
+REASONS FOR ORDER BY: The Honourable Justice J.E. Hershfield
+DATE OF ORDER: December 3, 2010
+APPEARANCES:
+Counsel for the Applicant:
+V. William Andreou
+Counsel for the Respondent:
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Applicant:
+Name: V. William Andreou
+Barrister and Solicitor
+Firm: Park Place Corporate Centre
+Suite 411, 15 Wertheim Court
+Richmond Hill, Ontario, L4B 3H7
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The evidence tendered from a psychiatrist was a letter dated April, 2008 in which the doctor confirmed that the Applicant was suffering from a severe psychotic bipolar disorder and was not “until now” competent to understand and file a tax return. There was also a 2001 disability certificate from the same doctor saying he lacked the mental functions necessary for everyday life and was under psychotherapy. Such evidence did not afford the Respondent the opportunity to cross-examine the doctor but no objection was made and given the circumstances of this Informal Procedure application, it was appropriate, in my view, to allow the evidence presented. That would not, however, dissuade me from having reservations about accepting it at face value were it determinative of the issue before me. Allowing evidence in, does not speak to the weight it can be given.
+[2] There is no evidence before the Court as to the age of the Applicant’s son or whether he had any legal capacity as a representative of the Applicant. He did not appear at the hearing.
+[3] The Applicant did testify that he lived briefly at 1 Victoria Avenue West after he sold number 7 in 2008.
+[4] The address to the tenant was shown as 7 Victoria Avenue West on the Requirement to Pay document submitted by the Applicant. Mr. Gyimah’s address, as the tax debtor, was shown as the same address. No explanation of this apparent discrepancy was offered at the hearing.
+[5] It is uncertain at this point, the summer of 2005, what returns had not been filed, although it would appear likely that the only return that had been filed for the years between 1997 and 2004 was the return for 1999. For the years after 1999, it may be that returns were not required to be filed given the testimony of the Applicant that he had not worked during that time except for a few months in 2000. No demands for returns had apparently been made. Still, he was being told that he could not get any information about his indebtedness until his tax filings were up to date.
+[6] The Option C printout for 1999 had an unusual third page. On its face it states that it is an Option C printout for the 1999 taxation year, however, the only information it sets out concerns the 1997 year. It shows previous amounts of income and taxable income for 1997 as “0.00” and shows a change of “+70,383.00”. This is the same income amount shown on the Option C printout for 1997 under the heading: “A MULTI-YEAR REASSESSMENT HAS MODIFIED THIS ASSESSMENT”. This suggests that the “modification” made, presumably in 2005 when 1997 was assessed or re-assessed, was to add income to the 1997 year without a corresponding reduction of the 1999 assessed income amount. Addressing the Applicant’s speculation that the 1999 assessed amount must have included his income from 1997 would require that 1999 income be reduced by that addition to 1997.
+[7] He testified that he carried on business under the business name “Duffern Used Appliance” and that he had a partner. The suggestion he seemed to be making was that the firm’s income may have been lumped with his.
+[8] Yet another garnishment or Requirement to Pay issued to the Applicant’s lawyer after settling the civil suit in 2008 resulted in 100% of his damage award being absorbed by legal fees and payments to the CRA for tax debts. Even that did not settle all tax debts owed. The Applicant testified he had to sell his residence at 7 Victoria to pay the balance.
+[9] Although he used the phrase “amended returns” inclusive of the 1997 year, I am not of the view that he necessarily intended to suggest that he had any knowledge of any such return. Indeed, I am of the view, based on the evidence presented, that he never had access to any prior returns. The adjusted gross income amounts he came up with, however, had no supporting basis. Indeed, for 1999 there was in evidence a T4A information slip from a service company that subcontracted the Applicant’s mechanical repair services for some $18,000.
+[10] The Option E printout shows a change of address in 2009 to 1 Victoria Avenue West. The Applicant acknowledged moving there at about this time after selling 7 Victoria Avenue West.
+[11] [2007] DTC 5021.
+[12] At paragraph 20.
+[13] 71 DTC 5119. (Ex. Ct.). This case was under the pre-1972 Act however the provisions for extensions were much the same as under the current Act. The Court allowed an extension of time within which an appeal could be brought due to an incapacitating illness during the period when the appeal should have been filed and because there appeared to be reasonable grounds for an appeal.
+[14] [1981] C.T.C. 3070 (TRB). In this case, an application for an extension of time in which to file a notice of objection was allowed on the basis that both the applicant and his agent suffered serious and disabling illnesses during the years under assessment. The Court also noted that reference to the 90-day statutory limitation period in which to file a notice of objection should be on the front of the assessment notice rather than on the back, as is the case now.
+[15] [1985] 2 C.T.C. 130 (FCA). The Federal Court of Appeal upheld a Tax Court of Canada grant of an extension in view of the respondent's mental and physical condition during the period at issue. The Court expressly refrained from comment on the Tax Court of Canada’s judge's reasons, which differed from those advanced by the respondent.
+[16] Meunier and Lesage are within the statutory limitation period. The FCA in Tohms gives no particulars as to how late the application was. The trial decision is not reported.
+[17] 2009 TCC 444, [2010] 2 C.T.C. 2326 (T.C.C.).
+[18] Schafer v. Canada, 2000 DTC 6542 (FCA), [2000] F.C.J. No. 1480. That conclusion has been approved by the Federal Court of Appeal in Carlson v. R. 2002 FCA 145 at paragraph 13 and was shared by Justice Woods in Nagle v. R. 2005 TCC 462 where at paragraphs 11 and 12, she considered Peixeiro v. Haberman, (1997) 151 D.L.R. (4th) 429 (S.C.C.) which offers further support for the view that even though the discoverability rule is necessary in a limitation period context to avoid precluding an action before the person is able to raise it, the rule will not apply where time runs from an event that clearly occurs without regard to the party’s knowledge.
+[19] Generally, a guardian would be a person with authority, either by statute or by court appointment, to act on behalf of another person. Although the term “legal representative” is defined in the Act at section 248 in somewhat broader terms in that it covers a long list of representatives that qualify, including unlisted “like” persons, the list suggests persons with some recognized authority to act in a fiduciary capacity. In other contexts, that is certainly the case; see Jesuit Fathers of Upper Canada v. Guardian Insurance Co. of Canada, 2006 CarswellOnt 3265 (S.C.C.) and Somersall v. Friedman, 2002 Carswell Ont 2550 (S.C.C.).
+[20] There has been a judicially imposed trend not to impose statutory limitation periods on incapacitated persons. To bring closure and certainty and insurability, the concept of the ultimate limitation period emerged. In British Columbia for example under the Limitation Act that period is 30 years. A proposal to reduce that to 10 years was never implemented. In contrast, the Ontario Limitations Act, 2002, S.O. Chapter 24, Schedule B which came into force and effect on January 1st, 2004, introduced significant changes to the law regarding limitation periods without an ultimate limitation period. For minors and claims involving parties who are deemed to be under a legal disability, sections 6 and 7 require that there be a litigation guardian representing such persons before the basic two-year limitation period can commence. With respect to a person under a legal disability, subsection 7(2) provides that person shall be presumed to have been capable of commencing a proceeding in respect of a claim at all times unless the contrary is proven.

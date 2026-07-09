@@ -1,0 +1,177 @@
+---
+title: "Cosmopolitan Industries Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29941/index.do"
+last_modified: "2010-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 96"
+citation2: ""
+neutral_citation: "2010 TCC 96"
+decision_date: "2010-06-22"
+language: "en"
+item_id: "29941"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6487
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:13:47.916000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0f735610895dda14ac8b4ca3bb6c1d13787e2f0a4182df3580c15307ea1ea840"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cosmopolitan Industries Ltd. v. The Queen
+
+- Citation: 2010 TCC 96
+- Decision date: 2010-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6487, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cosmopolitan Industries Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-22
+Neutral citation
+2010 TCC 96
+File numbers
+2009-2784(GST)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-2784(GST)I
+BETWEEN:
+COSMOPOLITAN INDUSTRIES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 28, 2010, at Saskatoon, Saskatchewan,
+and decision rendered orally on February 12, 2010, by teleconference
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Agent for the Appellant:
+Peter Gerrard
+Counsel for the Respondent:
+Lyle Bouvier (January 28, 2010)
+Jamie Hammersmith (February 12, 2010)
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 6, 2008 and bears the reference number 08036004012310083 is dismissed, without costs.
+This Amended Judgment adds the name of counsel at hearing and is substituted for the Judgment dated February 15, 2010.
+Signed at Ottawa, Canada, this 22nd day of June 2010.
+“S. D’Arcy”
+D'Arcy, J.
+Citation: 2010 TCC 96
+Date: 20100622
+Docket: 2009-2784(GST)I
+BETWEEN:
+COSMOPOLITAN INDUSTRIES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+____________________________________________________________________
+Agent for the Appellant:
+Peter Gerrard
+Counsel for the Respondent:
+Lyle Bouvier (January 28, 2010)
+Jamie Hammersmith (February 12, 2010)
+____________________________________________________________________
+ORAL REASONS FOR JUDGMENT
+(Delivered orally by conference call on
+February 12, 2010, at Ottawa, Ontario,
+modified for clarity and accuracy)
+(Corrected to show counsel at hearing)
+[1] The Appellant, Cosmopolitan Industries Ltd., referred to as “Cosmopolitan”, has appealed an assessment by the Minister in respect of Cosmopolitan’s GST reporting period of October 1, 2007 to December 31, 2007.
+[2] The issue before the Court is whether the supply of recyclable paper by Cosmopolitan constituted a taxable or exempt supply under Part IX of the Excise Tax Act, which will be referred to as the Act.
+[3] Cosmopolitan has taken the position that the supply of the recyclable paper constituted a taxable supply. As a result, it collected GST on the consideration charged for supplies of the recyclable paper that were made in Canada and claimed input tax credits for GST paid on goods and services acquired by it for consumption or use in the course of making the supplies of the recyclable paper.
+[4] The Minister has taken the position that the supply of the recyclable paper constituted an exempt supply under Section 1 of Part V.1 of Schedule V to the Act. As a result, when assessing Cosmopolitan, the Minister disallowed $2,853.96 of input tax credits claimed by Cosmopolitan on the basis that the related supplies were acquired for consumption or use in the course of making exempt supplies.
+[5] I will first summarize the facts.
+[6] Cosmopolitan is a GST registrant and a registered charity. It collects recyclable paper in the City of Saskatoon for eventual sale to third parties.
+[7] Mr. Peter Gerrard, the Executive Director of the Appellant, was the only witness at the hearing. He used photos and a video to explain the operations of the Appellant.
+[8] The recyclable paper was collected by the Appellant from the following sources: from the residents of Saskatoon who placed the recyclable paper in central collection bins located throughout the city, directly from businesses, through the use of commercial mobile shredders, and from third parties who provided private curb-side pickup services to certain residences of Saskatoon.
+[9] The recyclable paper was comprised of newsprint, cardboard, office paper and mixed paper.
+[10] Once the recyclable paper arrived at the Appellant’s premises it was dumped into a general collection area. It was then placed on a conveyor belt. The conveyor belt passed over what was referred to as a star wheel sorter. The sorter separated the cardboard from all other paper.
+[11] The paper then moved to two parallel sort lines. The persons performing the sorting removed waste and paper that was not old newspaper. The paper then passed through transfer belts, with old newspaper moving in one direction and mixed waste paper moving in a different direction.
+[12] The sorted paper was then placed in a baler where it was baled.
+[13] The Appellant sold the bails of recyclable paper to various third parties. The selling price obtained depended on the grade of paper in the bale. It appears that the primary grades of paper sold by the Appellant were old newspaper, office paper, mixed paper and a mixture of old newspaper and mixed paper.
+[14] The Appellant also purchased recyclable paper from certain printing companies who shipped the paper directly to the Appellant’s customers.
+[15] I will now turn to the position of the parties.
+[16] The agent for the Appellant argued that the process employed by the Appellant resulted in the creation of a new product, a product that was manufactured or produced. He focused on the fact that the sorting added significant value to the product. He argued that when the paper first arrived at the plant it was worthless, just garbage.
+[17] The process of sorting the paper converted into something of value, bales of old newspapers, cardboard, office paper and mixed use paper. These bales could be stored and subsequently sold on the open market; a market that offered different pricing depending on the quality of paper contained in a specific bale.
+[18] Counsel for the Respondent argued that the activities of the Appellant did not constitute manufacturing or processing. The product contained in the bales was the same product that entered the sorting facilities. The Appellant did not make a new product. It merely processed an existing product.
+[19] I will now summarize the law. Section 1 of Part V.1 of Schedule V to the Act provides that a supply made by a charity of any property or service constitutes an exempt supply, subject to certain exclusions.
+[20] One of the exclusions is contained in paragraph 1(d) of the Schedule. It excludes from Section 1 tangible personal property that was acquired, manufactured or produced by the charity for the purpose of making a supply of the property, provided the property was neither donated to the charity, nor used by another person before its acquisition by the charity. Also excluded is certain leased property.
+[21] The issue before the Court is whether the Appellant manufactured or produced the recyclable paper that it sold to third parties.
+[22] The exclusion for tangible personal property acquired for the purpose of making a supply did not apply to the recycled paper since, as noted by counsel for the Respondent, the recycled paper had been used by another person before it was acquired by the Appellant.
+[23] Counsel for the Respondent noted that there was very little jurisprudence with respect to the meaning of manufactured or produced. Such a statement is simply not correct. There is a substantial body of jurisprudence dealing with the meaning of manufactured or produced, including a number of decisions of the Supreme Court of Canada. It is not clear to me why these cases were not provided to the Court.
+[24] The leading case is the decision of the Supreme Court of Canada in Canada v. York Marble, Tile and Terrazzo Limited, [1968] S.C.R. 140.
+[25] The Court was required, in this case, to determine when something was manufactured or produced for purposes of subsection 30(1) of the Excise Tax Act which levied the old federal sales tax on all goods manufactured or produced in Canada.
+[26] When delivering the decision of the court, Justice Spence noted the following at paragraph 10:
+Manufacture is the production of articles for use from raw or prepared materials by giving to these materials new forms, qualities and properties or combinations whether by hand or machinery.
+[27] The key question is whether the form, quality or properties of the raw or prepared material differ from their point of arrival to their point of departure.
+[28] The definition of “manufacture” in York Marble was later confirmed by another Supreme Court of Canada decision, Royal Bank of Canada v. Canada (Deputy Minister of National Revenue, Customs and Excise), [1981] 2 S.C.R. 139.
+[29] In Deputy Minister of National Revenue v. Skega Canada Ltd., [1986] 72 N.R. 280 (Fed. C.A.) at page 285, the Federal Court of Appeal provided the following definition of the phrase “prepared material” as it appeared in the York Marble definition of “manufacture”:
+… the reference to prepared materials contemplates that the material employed in the production of a final end use product may be raw materials or intermediate materials … which … had no end use of their own.
+[30] In the York Marble case, Justice Spence at paragraph 15 also dealt with the meaning of the word produce. He noted that “manufacture” is not synonymous with “produce”. The two terms are different and mean different things. An article can be produced even if it is not manufactured.
+[31] In Enseignes Imperial Signs Ltée v. Minister of National Revenue, [1991] 1 C.T.C. 229, the Federal Court of Appeal addressed the issue of when something is produced. The Court, at page 3, held as follows:
+What matters is not the complexity of the operation but its result. A thing is produced if what a person does has a result of producing something new; and a thing is new when it can perform a function that could not be performed by the things which existed previously.
+A mechanic who resells used cars after repairing and repainting them is not producing or manufacturing a new car.
+A car which a mechanic has repaired and repainted has exactly the same function as before, it is the same car…
+[32] I will now apply the law to the facts before me. I will first consider whether the Appellant manufactured the recycled paper.
+[33] As the Supreme Court noted in the York Marble case, the key question is whether the form, quality or properties of the recyclable materials differed from the time they were dumped in the general collection area of the Appellant’s facility to the time they were shipped as bails of recyclable paper.
+[34] While I accept that the processing operations of the Appellant were substantial, they did not, in my view, change the form, quality or properties of the recyclable paper.
+[35] For example, while cardboard may have been separated from the other materials, the Appellant did not transform the cardboard into a new product. The cardboard that entered the facility had the same end use as the cardboard that left the facility in bales.
+[36] While the sorting activities of the Appellant may have prepared the recyclable material for sale, there was no processing performed on the actual material that entered the Appellant’s facility.
+[37] As the Federal Court of Appeal noted in Ford Motor Co. of Canada v. Minister of National Revenue, [1997] 3 C.T.C. 80 at pages 114 to 115:
+… for a good to be considered “manufactured” by an individual, it had to be given new form, qualities, or properties by the activities of that individual.
+[38] This simply did not occur in the present case. The sorting activities of the Appellant did not result in the creation of an article which had its own use.
+[39] The individual pieces of recyclable papers that left the facility had the same form, qualities and properties as the individual pieces that entered the facility.
+[40] Having concluded that the Appellant did not manufacture a new product, I will now consider whether it produced something.
+[41] In the Imperial Signs case, the Court of Appeal stated that a thing can be produced by carrying out a very simple operation. The Court referred to the example referenced in the York Marble case of someone who imported watch cases and movements separately and then placed the movements in the watch cases. The person was found not to be manufacturing the watches; however, he was found to be producing the watches.
+[42] The difficulty I have in the current situation is that the Appellant did not perform any activities on the actual material that entered its facilities. While its activities prepared the materials for distribution, the activities did not produce anything new. The recyclable paper that left the Appellant’s facilities in bales had the same function as the recyclable paper that entered its facility.
+[43] For the foregoing reasons, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 22nd day of June 2010.
+“S. D’Arcy”
+D'Arcy, J.
+CITATION: 2010 TCC 96
+COURT FILE NO.: 2009-2784(GST)I
+STYLE OF CAUSE: COSMOPOLITAN INDUSTRIES LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: January 28 and February 12, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice
+Steven K. D'Arcy
+DATE OF AMENDED JUDGMENT: June 22, 2010
+APPEARANCES:
+Agent for the Appellant:
+Peter Gerrard
+Counsel for the Respondent:
+Lyle Bouvier (January 28, 2010)
+Jamie Hammersmith (February 12, 2010)
+COUNSEL OF RECORD:
+For the Appellant: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

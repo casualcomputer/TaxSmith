@@ -1,0 +1,160 @@
+---
+title: "Amberhill Collection Incorporated c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29039/index.do"
+last_modified: "2009-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 54"
+citation2: ""
+neutral_citation: "2009 CCI 54"
+decision_date: "2009-01-27"
+language: "fr"
+item_id: "29039"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6848
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:15:22.475000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "425238c7812583d052730fa20aa009ba1335f16ce62bdbd82c6d2fbe0b591264"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Amberhill Collection Incorporated c. La Reine
+
+- Citation: 2009 CCI 54
+- Decision date: 2009-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6848, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Amberhill Collection Incorporated c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-27
+Référence neutre
+2009 CCI 54
+Numéro de dossier
+2007-3717(GST)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-3717(GST)I
+ENTRE :
+AMBERHILL COLLECTION INCORPORATED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 octobre 2008, à St. Catharines (Ontario).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+Doug M. Robertson
+Avocate de l’intimée :
+Me Sonia Singh
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et l’affaire est renvoyée devant le ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que le Yukon Denali n’était pas une « voiture de tourisme » au sens de la Loi sur la taxe d’accise.
+DE PLUS, LA COUR ORDONNE que le droit de dépôt de 100 $ soit remboursé à l’appelante.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 11e jour de février 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009CCI54
+Date : 20090127
+Dossier : 2007-3717(GST)I
+ENTRE :
+AMBERHILL COLLECTION INCORORATED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante interjette appel de la nouvelle cotisation établie à son égard par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur la taxe d’accise (la « Loi ») pour la période allant du 1er novembre 2002 au 31 octobre 2005. Pour situer les faits dans leur contexte, rappelons que l’intimée a omis de répondre à l’avis d’appel dans le délai de 60 jours applicable aux instances régies par la procédure informelle en vertu de la Loi sur la Cour canadienne de l’impôt[1]. Par conséquent, les allégations de fait sur lesquelles le ministre a fondé sa décision ne sont pas réputées vraies (ce qui serait normalement le cas), et le fardeau de la preuve incombe dès lors à l’intimée. En outre, les allégations de fait contenues dans l’avis d’appel sont réputées vraies[2].
+[2] L’avis d’appel est constitué d’une lettre d’accompagnement rédigée par le comptable de l’appelante, indiquant l’intention de celle‑ci d’interjeter appel sous le régime de la procédure informelle à l’encontre de la nouvelle cotisation établie à son égard, de copies d’une lettre du comptable portant sur les motifs invoqués à l’appui de l’avis d’opposition, et d’une autre lettre écrite par la présidente de l’appelante, Mme Kristy A. Dukelow, en réponse aux redressements qui ont été proposés à l’appelante après la vérification. Les faits allégués dans ces trois documents sont réputés vrais. Pendant l’audition de l’appel, l’appelante n’a cité aucun témoin.
+[3] L’intimée a cité un seul témoin : Matthew Bolta, le vérificateur chargé du dossier de l’appelante. M. Bolta m’est apparu comme un témoin crédible, qui a fait preuve de beaucoup de franchise.
+[4] Le représentant de l’appelante ayant avisé la Cour que sa cliente ne contestait pas la cotisation de TPS concernant certains avantages conférés aux actionnaires, la seule question qui reste à trancher est de savoir si le camion Yukon Denali (le « Yukon Denali ») dont l’appelante était propriétaire était une « voiture de tourisme » au sens de la Loi. L’appelante a demandé des crédits de taxe sur les intrants (« CTI ») relativement à l’intégralité du prix d’achat du Yukon Denali au motif qu’il ne s’agissait pas d’une « voiture de tourisme »; en établissant une nouvelle cotisation à l’égard de l’appelante, le ministre en a décidé autrement, et a diminué le montant déductible à titre de CTI afin qu’il soit conforme à la limite pécuniaire imposée par l’article 201 de la Loi.
+[5] Le paragraphe 123(1) de la Loi reprend la définition de « voiture de tourisme » qui se trouve au paragraphe 248(1) de la Loi de l’impôt sur le revenu :
+« automobile » Véhicule à moteur principalement conçu ou aménagé pour transporter des particuliers sur les routes et dans les rues et comptant au maximum neuf places assises, y compris celle du conducteur […] [Non souligné dans l’original.]
+[6] Le Yukon Denali est visé par cette partie de la définition; la question en litige est de savoir s’il est visé par l’une des clauses d’exclusion dont est assortie la définition de « voiture de tourisme » qui se trouvent aux sous‑alinéas 248(1)d)(i) et (ii) :
+« automobile » Véhicule à moteur […] à l’exclusion des véhicules suivants :
+[…]
+d) les véhicules à moteur suivants :
+(i) les véhicules de type fourgonnette ou camionnette, ou d’un type analogue, comptant au maximum trois places assises, y compris celle du conducteur, et qui, au cours de l’année d’imposition où ils sont acquis ou loués, sont utilisés principalement pour le transport de marchandises ou de matériel en vue de gagner un revenu,
+(ii) les véhicules de type fourgonnette ou camionnette, ou d’un type analogue, dont la totalité ou la presque totalité de l’utilisation au cours de l’année d’imposition où ils sont acquis ou loués est pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu,
+[…]
+[7] L’intimée est d’avis qu’aucune de ces clauses d’exclusion ne s’applique au Yukon Denali. En effet, en ce qui a trait au sous‑alinéa d)(i), le Yukon Denali comptait plus de trois places assises; en ce qui concerne le sous‑alinéa d)(ii), « la totalité ou la presque totalité » de son utilisation n’était pas pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu.
+[8] En examinant d’abord le sous‑alinéa d)(i), que le ministre a invoqué à l’appui de sa position, l’avocate de l’intimée a fait référence au témoignage du vérificateur, qui a inspecté le Yukon Denali et l’a décrit comme un véhicule comptant des places assises dans sa partie centrale ainsi qu’un autre siège complètement à l’arrière. L’intimée s’est fondée sur les décisions Kowalchuk[3] et Olson[4], et a demandé à la Cour de ne pas adopter la démarche suivie dans la décision Muller[5].
+[9] Il ressort clairement de la jurisprudence que la détermination du nombre de places assises que compte un véhicule dépendra des faits propres à chaque cause. Outre le témoignage susmentionné, les déclarations de M. Bolta ont également confirmé les allégations de l’appelante, voulant que le siège situé dans la partie centrale du véhicule ait été replié et le siège arrière retiré. Quand on a interrogé M. Bolta au sujet du nombre exact de places assises que comptait le véhicule de l’appelante, celui‑ci a admis franchement qu’il se pourrait qu’il le confonde avec un véhicule similaire appartenant à ses beaux‑parents. Cela est compréhensible compte tenu du nombre de dossiers qu’un vérificateur traite normalement.
+[10] En l’espèce, les circonstances sont inhabituelles, et il revient à l’intimée de réfuter les faits allégués par l’appelante dans son avis d’appel. Je suis d’avis que la preuve présentée par l’intimée est insuffisante à cet égard.
+[11] M. Bolta a affirmé que le Yukon Denali était en excellent état. Sa déclaration est compatible avec les allégations de fait contenues dans l’avis d’appel, selon lesquelles l’appelante a utilisé le Yukon Denali dans [traduction] « […] le marché haut‑de‑gamme de l’équitation et des articles de voyage, avec des débouchés dans le marché des accessoires de luxe pour animaux de compagnie. Les activités de l’appelante l’amènent à participer à de nombreux salons professionnels et présentations itinérantes aux États-Unis chaque année » [6]. L’avis d’appel indique que l’image de marque est capitale dans le secteur d’activité de l’appelante. Afin de répondre aux attentes des clients et d’éviter d’avoir à payer des montants élevés afin d’expédier les marchandises à destination, l’appelante a investi dans le Yukon Denali, afin de transporter et d’exposer les articles dont elle fait commerce :
+[traduction]
+L’industrie est habituée à ce que la qualité soit présente à tous les niveaux, elle s’y attend. Je ne peux tout simplement pas me présenter à des salons professionnels ou à des présentations itinérantes dans de simples camions ou fourgons grand volume. L’image que l’on projette est très importante, et elle est sans nul doute directement liée au volume des ventes de ma société[7].
+[12] Dans sa lettre datée du 4 août 2006, qui fait partie de l’avis d’appel, la présidente de l’appelante a donné d’autres détails concernant la description du véhicule et l’utilisation qui en était faite :
+[traduction]
+Pour revenir sur ce que mon comptable et moi avons dit plus tôt, l’espace de chargement sert à apporter aux présentations itinérantes ou aux salons professionnels auxquels il m’est donné de me rendre une (très grande) penderie d’exposition pliable ainsi que toutes les marchandises et tous les accessoires nécessaires. L’espace de chargement est toujours rempli au maximum, du sol au plafond, et la plupart du temps, le siège passager est également plein.
+Non seulement le siège pouvait‑il être complètement retiré, mais il l’a été, et a été vendu dès que le véhicule a été acheté. Vous [le vérificateur] avez pu le constater quand vous avez vu le véhicule en procédant à la vérification. Il s’agit de ce que je qualifierais de modification permanente (c’est apparemment ce que la loi exige strictement). Le siège situé dans la partie centrale du véhicule se replie pour se fondre au sol dans l’espace de chargement. Conformément à ce que vous avez déclaré à l’étape de la vérification, personne ne s’est jamais assis dans ces sièges, et vous avez convenu que les sièges et la moquette au sol semblaient neufs. Il aurait été insensé de « modifier de façon permanente » le véhicule en retirant les sièges qui se trouvaient dans la partie centrale et en installant un genre de plancher étant donné que c’était déjà fait : il suffisait de replier le siège central. Il serait illogique d’engager des frais additionnels sans raison. Mon comptable m’informe qu’il s’agit d’une question capitale pour l’ARC, et il est tout simplement insensé de penser que j’aurais pu faire modifier ce siège de façon permanente d’une manière ou d’une autre. En fait, le véhicule ne compte qu’un seul siège passager, et ce siège est presque toujours rempli d’articles. […]
+[13] En l’espèce, compte tenu des circonstances, je suis convaincue que le Yukon Denali ne comptait pas plus de trois places assises. Par conséquent, il est exclu de la définition de « voiture de tourisme » en vertu du sous‑alinéa 248(1)d)(i), et il n’est pas une « voiture de tourisme » au sens de la Loi.
+[14] L’étape suivante consiste à définir dans quelle mesure l’appelante a utilisé le Yukon Denali dans le cadre de ses activités commerciales. En se fiant au kilométrage dont il est fait état dans les registres afférents au véhicule que l’appelante a fournis pendant la vérification, M. Bolta a calculé que le véhicule avait été utilisé à des fins commerciales 62 % du temps en 2004, et 72 % du temps en 2005, ce qui, d’après le ministre, ne suffit pas à satisfaire aux exigences de la loi.
+[15] Dans l’avis d’appel, Mme Dukelow a admis que le véhicule n’était pas utilisé à des fins commerciales plus de 90 % du temps. Toutefois, elle a également noté que les registres étaient incomplets, dans la mesure où ils ne faisaient pas état des kilomètres parcourus localement à des fins commerciales. Elle a renforcé davantage sa position voulant que le Yukon Denali fût presque uniquement utilisé dans le cadre des activités commerciales de l’appelante en expliquant qu’elle avait à sa disposition une autre voiture pour son usage personnel, une voiture qui [traduction] « … avait une bien meilleure suspension et [était] plus facile à garer au centre‑ville, où l’espace de stationnement est réduit »[8]. Le témoignage de M. Bolta ne vient en aucune manière contredire ces faits additionnels. Tout bien considéré, je suis convaincue que l’appelante a utilisé le Yukon Denali à des fins commerciales 85 % du temps, ce qui est suffisant pour justifier du fait que « la totalité ou la presque totalité » de son utilisation était à des fins commerciales comme l’exige la Loi.
+[16] L’appel est accueilli, et l’affaire est renvoyée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que le Yukon Denali n’était pas une « voiture de tourisme » au sens de la Loi.
+Signé à Ottawa, Canada, ce 27e jour de janvier 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 11e jour de février 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009CCI54
+NO DU DOSSIER DE LA COUR : 2007-3717(GST)I
+INTITULÉ : Amberhill Collection Incorporated et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : St. Catharines (Ontario)
+DATE DE L’AUDIENCE : Le 23 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 27 janvier 2009
+COMPARUTIONS :
+Représentant de l’appelant :
+Doug M. Robertson
+Avocate de l’intimée :
+Me Sonia Singh
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Paragraphe 18.3003(1) de la Loi sur la Cour canadienne de l’impôt.
+[2] Paragraphe 18.16(4) de la Loi sur la Cour canadienne de l’impôt.
+[3] 2005 DTC 1754.
+[4] [2007] A.C.I. n° 344.
+[5] [2004] A.C.I. n° 413.
+[6] Avis d’appel, lettre du comptable de l’appelante datée du 9 novembre 2006.
+[7] Voir ci‑dessus, lettre de la présidente de l’appelante datée du 4 août 2006.
+[8] Voir ci‑dessus.

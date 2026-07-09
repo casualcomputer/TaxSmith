@@ -1,0 +1,141 @@
+Title: Fiwchuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27216/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-144-27216-fiwchuk-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-13
+
+# Fiwchuk v. The Queen
+
+- Citation: 2007 TCC 144
+- Decision date: 2007-03-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 822, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiwchuk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-13
+Neutral citation
+2007 TCC 144
+File numbers
+2006-2049(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2049(IT)I
+BETWEEN:
+STEVE R. FIWCHUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Mary L. Fiwchuk
+(2006-2050(IT)I) on March 5, 2007 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant: The appellant himself
+Counsel for the Respondent: Josh Hunter
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is allowed without costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to reduce Steve R. Fiwchuk's T4 income to $34,160.
+Signed at Ottawa, Canada this 13th day of March 2007.
+"D.G.H. Bowman"
+Bowman, C.J.
+Docket: 2006-2050(IT)I
+BETWEEN:
+MARY L. FIWCHUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Steve R. Fiwchuk
+(2006-2049(IT)I) on March 5, 2007 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant: The appellant herself
+Counsel for the Respondent: Josh Hunter
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is allowed without costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to reduce Mary L. Fiwchuk's T4 income to $21,039.72.
+Signed at Ottawa, Canada this 13th day of March 2007.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2007TCC144
+Date: 20070313
+Dockets: 2006-2049(IT)I
+BETWEEN:
+STEVE R. FIWCHUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+- AND -
+2006-2050(IT)I
+BETWEEN:
+MARY L. FIWCHUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals were heard together. They involve the addition of certain amounts to the income of the appellants, who are husband and wife.
+[2] From December 1999 until their dismissal in, if I recall the evidence correctly, 2004, the appellants were employed by York Region Condominium Corporation #865 ("YRCC"). Steve Fiwchuk ("Steve") was the superintendent of a complex of townhouses and towers and his wife ("Mary") was the head cleaner of the buildings.
+[3] In filing his return of income for 2003, Steve declared $31,610 as employment income and Mary declared $18,260. These amounts were based on their pay stubs. YRCC later prepared and sent to the Canada Revenue Agency ("CRA") T4 slips showing Steve's income to be $36,101 and Mary's to be $21,264, an increase of $4,491 and $3,004, respectively.
+[4] The amounts shown on the T4 slips, which the appellants never received, were based on calculations made by Mr. Richard Wronzberg, a chartered accountant who was the property manager for YRCC. Exhibit R-3 contains, in addition to the schedule prepared by Mr. Wronzberg, a large number of invoices submitted to YRCC by the appellants as well as cancelled cheques issued to the appellants by YRCC. These amounts were for services rendered in addition to the services for which the appellants were paid in addition to their basic salary ($28,500 in the case of Steve and $18,260 in the case of Mary).
+[5] In addition, Steve stated that he received a taxable benefit in the form of a rent free use of an apartment. This was calculated at $184.61 every two weeks or $4,800 for the year. Thus, if we add his basic salary of $28,500 and the taxable benefit it comes to $33,300 which is higher than the amount reported by him. I do not see in the material where this benefit was included in his income.
+[6] Mr. Wronzberg's schedule shows a total of $4,490.47 which he calculated as income from other services, such as installation of hoses in the washing machines of the apartment and repairs in the buildings. This amount was added to the $31,610 to arrive at the $36,101 shown in the T4 slip. Similarly, in Mary's case the calculation was $3,139.72 for services which she provided - for the most part, cleaning and taking care of guest suites.
+[7] The assessment against Steve started with the $31,610 employment income declared by him. This, incidentally, was the amount shown on the reproduction of the T4 slip as "pens. earn" (pensionable earnings, I presume). To this figure was added the $4,490.47 calculated by Mr. Wronzberg to arrive at the $36,101 on which Steve was taxed.
+[8] The respondent now concedes that of the $4,490.47 two amounts, $1,498 and $441.71 were received in 2002 and should not have been included. This should have reduced the increase to $2,550.76 so that Steve's income as adjusted should have been $34,160.76.
+[9] The respondent argues however that on Steve's own admission his income apart from the extra amounts of $4,490.47 calculated by Mr. Wronzberg was $28,500 plus the taxable benefit of $4,800 was $33,300. Therefore, even if we add the reduced amount of $2,550.76 we still do not exceed the $36,101 on which Steve was taxed.
+[10] This raises in my mind a question that may seem rather insignificant but it involves a matter of principle. We are all familiar with the classic statement of Thurlow J. (as he then was) in Harris v. M.N.R., 64 DTC 5332, to the effect that the Minister cannot appeal from his own assessment and the court may not refer an assessment back to permit the Minister to increase the assessment. The statement at page 5337 is worth repeating:
+As already mentioned it was suggested by counsel for the Minister that if I reached the conclusion that the appellant was entitled to a deduction of capital cost allowance based on a capital cost of $19,500 for the property the proper course would be to refer the assessment back to the Minister to disallow the rent deduction and to allow a proper deduction for capital cost allowance. As no issue had been raised as to the allowance of $775.02 as rent expense counsel for the Minister also asked leave to amend the reply to raise the question so that the $775.02 deduction might be disallowed when and if capital cost allowance was deducted.
+I do not think, however, that this is the correct way to deal with the matter. On a taxpayer's appeal to the Court the matter for determination is basically whether the assessment is too high. This may depend on what deductions are allowable in computing income and what are not but as 1 see it the determination of these questions is involved only for the purpose of reaching a conclusion on the basic question. No appeal to this Court from the assessment is given by the statute to the Minister and since in the circumstances of this case the disallowance of the $775.02 while allowing $525 would result in an increase in the assessment the effect of referring the matter back to the Minister for that purpose would be to increase the assessment and thus in substance allow an appeal by him to this Court. The application for leave to amend is therefore refused.
+[11] Counsel for the respondent recognizes this principle. The problem that I have is to decide whether to start with the $31,610 which Steve declared which the Minister and Mr. Wronzberg started with and add the $4,490.47 less the $1,939.71 which the Crown concedes should not have been included to arrive at $34,160.76. There seems to be no basis for concluding that the Minister's assessment included in the $36,101 the $4,800 taxable benefits and accordingly it is not included in my figure of $34,160. The alternative approach is to take Steve's figure of $33,300 and add to it Mr. Wronzberg's adjusted figure of $2,550.76 to arrive at $35,850.76 which is still less the $36,101.
+[12] I think the former approach is fairer. At this stage we are dealing with an assessment as made by the Minister based upon certain premises - the taxpayers declared income plus certain additions that brought the income up to the amount in the T4.
+[13] To take a calculation made by the taxpayer in court and add to it an adjusted component forming part of the T4 figure results in an unacceptable hybrid that strikes me as unfair to an unrepresented taxpayer. Therefore, I am allowing Steve Fiwchuk's appeal and referring the matter back to the Minister of National Revenue for reconsideration and reassessment to reduce his T4 income to $34,160.
+[14] The Crown has conceded that the figure in the calculations for Mary of $3,139.72 on Exhibit R-3 should be reduced by $360 to $2,779.72. This is $224.28 less than the $3,004 added to her declared income. Mary's appeal should be allowed to reduce her T4 income to $21,039.72.
+[15] Mrs. Mary Fiwchuk asked that the late filing penalties be deleted. This court has no power to do this. The Minister may wish to consider waiving the penalties under his discretionary power. Mrs. Fiwchuk stated that the reason the returns were late was that they did not receive the T4 slips.
+[16] There will be no order for costs.
+Signed at Ottawa, Canada this 13th day of March 2007.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2007TCC144
+COURT FILES NOS.:
+2006-2049(IT)I
+2006-2050(IT)I
+STYLE OF CAUSE:
+Steve R. Fiwchuk and
+Mary L. Fiwchuk
+v. Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 5, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND
+REASONS FOR JUDGMENT:
+March 13, 2007
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Josh Hunter
+COUNSEL OF RECORD:
+Counsel for the Appellant:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

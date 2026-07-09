@@ -1,0 +1,134 @@
+Title: 725685 Alberta Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28657/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-301-28657-725685-alberta-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-06-05
+
+# 725685 Alberta Ltd. v. The Queen
+
+- Citation: 2008 TCC 301
+- Decision date: 2008-06-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1121, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+725685 Alberta Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-05
+Neutral citation
+2008 TCC 301
+File numbers
+2007-2054(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC301
+Date: 20080605
+Docket: 2007-2054(IT)I
+BETWEEN:
+725685 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench
+on November 28, 2007, in Calgary, Alberta
+and subsequently edited as to form)
+Paris, J.
+[1] This is an appeal from a reassessment of the Appellant's taxation year ending June 30th, 2002, by which the Minister of National Revenue (the "Minister") disallowed the deduction of $62,723 claimed as a bad debt expense in the calculation of the Appellant's income from business.
+[2] The assumptions made by the Minister in reassessing appear in paragraph 8 of the Reply to Notice of Appeal as follows:
+(a) the Appellant is in the business of providing oilfield and pipeline inspection services;
+(b) the voting shares of the Appellant are owned as follows:
+Shareholder
+Percentage of Shares
+Marge Stephan
+67%
+Ryan Stephan
+33%
+(c) the Appellant’s fiscal period ending is June 30;
+(d) in computing income for its 2002 taxation year, the Appellant claimed a deduction for bad debts in the amount of $62,723.00;
+(e) bad debts claimed in the amount of $62,723.00 was originally classified by the Appellant on its balance sheet as an investment, but was reclassified by the Appellant as bad debts in 2002;
+(f) the Appellant’s claim for bad debts was comprised of the following amounts:
+Loans to 609574 BC Ltd. (“609574”)
+$57,573.00
+Loan to Indigenous Consulting & Environmental Ltd. (“ICE”)
+4,150.00
+Mis-categorized subcontracting expenses-not in issue in the appeal
+1,000.00
+Total
+$62,723.00_________
+609574
+(g) the Appellant owns 100% of the voting shares of 609574;
+(h) the amounts loaned to 609574 were for the purpose of paying the operating expenses of 609574;
+(i) the amounts loaned to 609574 were not included in computing the Appellant’s income in the 2002 year or a preceding taxation year;
+(j) although 609574 has ceased business operations, it is still registered with Corporate Registry in the Province of British Columbia;
+(k) the Appellant has not established that the debt owing to it by 609574 is uncollectible;
+(l) the amounts loaned to 609574 were not made by the Appellant for the purpose of gaining or producing income from business or property;
+(m) the amounts loaned to 609574 were on account of capital;
+ICE
+(n) the voting shares of ICE are owned as follows:
+Shareholder
+Percentage of Shares
+Appellant
+50
+D.K. Oilfield Services Ltd.
+50
+(o) the amounts loaned to ICE were not included in computing the Appellant’s income in the 2002 year or a preceding taxation year;
+(p) Ice is a going concern;
+(q) the Appellant has not established that the debt owing to it by ICE was uncollectible;
+(r) the amounts loaned to ICE were not made by the Appellant for the purpose of gaining or producing income from business or property; and
+(s) the amounts loaned to ICE were on account of capital.
+The Appellant was represented at the hearing by Mr. Ted Stephan, a director of the Appellant.
+[3] At the hearing Mr. Stephan conceded that the amount in issue was $57,573 which was the total of amounts loaned by the Appellant to 609574 BC Limited. (“609”). 609 operated a travel agency in White Rock, B.C. under the name Cruises Unlimited.
+[4] The shares of the Appellant were owned equally by Ms. Marge Stephan, Ted Stephan's wife, and their son Ryan Stephan. The shares of 609 were held by the Appellant in trust until the amounts owing by 609 were repaid to the Appellant. Once the loans were repaid, the shares of 609 were to be transferred to Michael Stephan, another of Mr. and Ms. Stephan's sons. Michael Stephan ran the business of 609.
+[5] The amounts loaned by the Appellant to 609 were loaned pursuant to an agreement entered into on September 20th, 2000. The loan was used by 609 to pay any shortfall between its revenue and its operating expenses, and was advanced at various points in 2000 and 2001 as 609 required the funds. The loan agreement provided for interest of 15 percent on the loaned amounts. The loans and interest were to become repayable once 609 had operated at a profit for six months.
+[6] Due to the terrorist attacks of September 11th, 2001, 609's business collapsed, and it was unable to repay any of the loan or interest to the Appellant.
+[7] In its calculation of its income for the year in issue, the Appellant deducted the entire unpaid amount of the 609 loan as a bad debt expense. The Minister denied the deduction on the basis that the loan was a capital amount, and that it was not made to earn income from business or property. The Minister also took the position that the Appellant had not shown that the loan had become uncollectible during the Appellant's 2002 taxation year. This latter position was abandoned at the hearing as counsel recognized that the loan had become uncollectible upon the collapse of 609's business. The Respondent also took the position that no deduction for a bad debt was available because the Appellant did not meet the conditions in paragraph 20(1)(p) of the Income Tax Act. In particular the Respondent said that no amount of the debt had previously been included in the Appellant's income and that the Appellant's ordinary business did not include the lending of money.
+[8] The evidence shows that the amount advanced to 609 was a loan on which the Appellant expected to earn a return in the form of interest. As such, the amount was a capital outlay to the Appellant, the deduction of which would, in first instance be prohibited by paragraph 18(1)(b) of the Act.
+[9] Section 20 of the Act sets out certain exceptions to the prohibition in paragraph 18(1)(b) against the deduction of the outlays of capital. One exception is that found in paragraph 20(1)(p) for bad debts. This is the only provision that would allow the Appellant to deduct the amount in issue. Paragraph 20(1)(p) reads as follows:
+20(1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing the taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(p) Bad Debts – the total of
+(i) all debts owing to the taxpayer that are established by the taxpayer to have become bad debts in the year and that have been included in computing the taxpayer's income for the year or proceeding taxation year, and
+(ii) all amounts each of which is that part of the amortized cost to the taxpayer at the end of the year of a loan or lending asset, other than a mark-to-market property as defined in subsection 142.2(1), that is established in the year by the taxpayer to have become uncollectible and that,
+(A) where the taxpayer is an insurer or a taxpayer whose ordinary business includes the lending of money, was made or acquired in the ordinary course of the taxpayer's business of insurance or the lending of money, or
+(B) where the taxpayer is a financial institution as defined in subsection 142.2(1) in the year is a specified debt obligation as defined in that subsection of the taxpayer.
+[10] I agree with the Respondent's counsel that no deduction is available under subparagraph 20(1)(p)(i), since the evidence showed that the Appellant had not included any of the amount loaned to 609 in its income for a prior taxation year or for the 2002 taxation year.
+[11] Clause 20(1)(p)(ii)(B) is not applicable either because the Appellant is not a financial institution as defined in subsection 142.2(1) of the Act.
+[12] The only question that remains is whether for the year in issue the Appellant's ordinary business included the lending of money so as to entitle it to a deduction pursuant to clause 20(1)(p)(ii)(A).
+[13] The Minister assumed in reassessing the Appellant that the Appellant “is in the business of providing oil field and pipeline inspection services.” Mr. Stephan, on the other hand, testified that the Appellant had made certain loans besides the loan to 609, and that it “did anything to earn income including loaning money.”
+[14] The documentation submitted to the Court on behalf of the Appellant showed loans were made to two individuals, one for $1,400 in August, 2002 and one for $600 in February 2005. Mr. Stephan also referred to a loan of more than $45,000 made for a period of two months in 2006 but no documentation was provided with respect to this loan.
+[15] Mr. Stephan said that interest was charged on each of the loans and that some minor loans were also made to another related company, ICE, to assist with start up expenses before ICE had a bank account. Other than these loans, Mr. Stephan said that people were aware that the Appellant would loan money, although the Appellant never advertised itself as a money lender.
+[16] In cross-examination, when he was asked what the Appellant did, Mr. Stephan's response was that it did oil field and pipeline inspections using contractors. Mr. Stephan also said that the Appellant's only source of income prior to June 30th, 2002 (i.e. the end of its 2002 taxation year), was its pipeline and oil field inspection business. Finally, when asked if the Appellant had made loans prior to June 30th, 2002, Mr. Stephan was unable to recall, saying only that it was possible.
+[17] It would seem reasonable to assume that if money lending were a part of the Appellant's ordinary business in the year in issue or in a prior year the Appellant would have earned some income from it, or that, at the least, Mr. Stephan would have been able to say with certainty that the Appellant had made loans, and made those loans on a regular basis. The evidence shows no pattern of lending money as a business by the Appellant up to the end of its 2001 taxation year. I therefore conclude that the lending of money was not an ordinary part of the Appellant's business operations in that taxation year or any previous year, and no amount may be deducted by it under paragraph 20(1)(p) of the Act.
+[18] The appeal must therefore be dismissed.
+Signed at Ottawa, Canada, this 5th day of June, 2008.
+“B.Paris”
+Paris, J.
+CITATION: 2008TCC301
+COURT FILE NO.: 2007-2054(IT)I
+STYLE OF CAUSE: 725685 Alberta Ltd. v. Her Majesty the Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: November 28, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: June 5, 2008
+APPEARANCES:
+Agent for the Appellant:
+Edwin Ted Albert Stephan
+Counsel for the Respondent:
+Martha E. Burns
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

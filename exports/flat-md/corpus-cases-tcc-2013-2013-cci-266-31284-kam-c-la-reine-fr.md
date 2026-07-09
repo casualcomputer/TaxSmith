@@ -1,0 +1,190 @@
+---
+title: "Kam c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31284/index.do"
+last_modified: "2013-08-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 266"
+citation2: ""
+neutral_citation: "2013 CCI 266"
+decision_date: "2013-08-28"
+language: "fr"
+item_id: "31284"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4942
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:06:40.631000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "215b5bff720d19d9f0b8e42602ef7650705ef00e13df54085031e8f721193393"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kam c. La Reine
+
+- Citation: 2013 CCI 266
+- Decision date: 2013-08-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4942, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kam c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-08-28
+Référence neutre
+2013 CCI 266
+Numéro de dossier
+2012-4922(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4922(IT)I
+ENTRE :
+PING KAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 15 juillet 2013, à Edmonton (Alberta).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jeff Watson
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations datées du 23 janvier 2012 établies en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2007, 2008 et 2009 de l’appelant sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 28e jour d’août 2013.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 8e jour d’octobre 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2013 CCI 266
+Date : 20130828
+Dossier : 2012-4922(IT)I
+ENTRE :
+PING KAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelant a demandé des crédits pour frais de scolarité relativement à des frais d’examen et à des frais de scolarité qui avaient été payés en 2004 et de 2006 à 2009 pour des leçons de piano que son fils avait reçues de M. Boris Konovalov. Les crédits ont été transférés à l’appelant au titre de l’article 118.9 de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « Loi »).
+[2] Dans le calcul de ses crédits d’impôt non remboursables et de son impôt à payer pour l’année d’imposition 2004 et pour les années d’imposition 2006 à 2009, l’appelant n’a déduit aucun montant pour les frais d’examen et les frais de scolarité que son fils lui avait transférés.
+[3] En 2011, l’appelant a produit des demandes de redressement d’une T1 pour l’année d’imposition 2004 et pour les années d’imposition 2006 à 2009 afin de demander à l’égard de son fils les crédits suivants :
+Année
+Frais d’examen
+Frais de scolarité
+Total
+2004
+113 $
+0 $
+113 $
+2006
+394 $
+1 035 $
+1 429 $
+2007
+178 $
+2 160 $
+2 338 $
+2008
+206 $
+2 445 $
+2 651 $
+2009
+627 $
+2 940 $
+3 567 $
+[4] Au moyen de nouvelles cotisations datées du 23 janvier 2012, le ministre du Revenu national (le « ministre ») a limité les frais pouvant être transférés par le fils de l’appelant à des frais d’examen de 178 $ pour 2007, de 206 $ pour 2008 et de 627 $ pour 2009.
+[5] Les déclarations de revenus de l’appelant pour 2004 et 2006 ont fait l’objet de cotisations initiales le 18 avril 2005 et le 22 octobre 2007 (les « cotisations »). L’appelant n’a pas déposé auprès du ministre un avis d’opposition relativement aux cotisations dans les délais impartis à l’article 165 de la Loi, c’est‑à‑dire au plus tard le 30 avril 2006 et le 30 avril 2008, respectivement; l’appelant n’a pas non plus présenté de demande en vue d’obtenir une prorogation de délai pour déposer un avis d’opposition concernant les cotisations dans les délais prescrits à l’alinéa 166.1(7)a) de la Loi, à savoir au plus tard le 30 avril 2007 et le 30 avril 2009, respectivement.
+[6] L’appelant a déposé auprès du ministre un avis d’opposition relativement aux cotisations le 16 mars 2012, date qui se situait en dehors du délai de prescription d’un an imparti pour signifier un avis d’opposition.
+[7] Au début de l’audience, l’intimée a présenté une requête en annulation de l’appel interjeté par l’appelant relativement aux années d’imposition 2004 et 2006, et la Cour a accueilli la requête et a annulé l’appel interjeté par l’appelant pour les années d’imposition 2004 et 2006, au motif que l’appel de l’appelant n’avait pas été formé auprès de la Cour comme il se doit, étant donné que l’avis d’opposition n’avait pas été déposé dans le délai prescrit par la Loi.
+[8] Les appels interjetés par l’appelant ne concernent que les frais de scolarité payés à M. Boris Konovalov en 2007, en 2008 et en 2009.
+[9] En l’espèce, la question en litige est de savoir si les frais de scolarité ont été payés relativement à un cours de niveau postsecondaire suivi dans un établissement d’enseignement qui offre des cours de ce niveau.
+[10] Le paragraphe 118.5(1) de la Loi prévoit en partie ce qui suit :
+(1) Les montants suivants sont déductibles dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+a) si le particulier est inscrit au cours de l’année à l’un des établissements d’enseignement suivants situés au Canada :
+(i) établissement d’enseignement — université, collège ou autre — offrant des cours de niveau postsecondaire,
+[…]
+le produit de la multiplication du taux de base pour l’année par les frais de scolarité payés à l’établissement pour l’année si le total de ces frais dépasse 100 $, à l’exception des frais :
+(ii.1) soit qui sont payés à un établissement visé au sous‑alinéa (i) pour des cours qui ne sont pas de niveau postsecondaire,
+[11] Pour que le fils de l’appelant ait droit aux crédits pour frais de scolarité, il aurait fallu qu’il soit inscrit à un établissement d’enseignement situé au Canada offrant des cours de niveau postsecondaire et que les montants aient été payés pour ces cours.
+[12] L’appelant a témoigné à l’audience et il a expliqué que son fils recevait des leçons particulières de piano (habituellement une heure par semaine) que lui donnait M. Boris Konovalov à son studio de piano. M. Konovalov a été recommandé au fils de l’appelant par son ancien professeur, parce qu’il était l’un des meilleurs professeurs de piano à Edmonton. M. Konovalov donnait au fils de l’appelant des cours de dixième année en piano. Les niveaux sont établis par le Conservatoire royal de musique.
+[13] Lors de son témoignage, l’appelant a aussi confirmé que M. Konovalov ne donnait pas de cours à l’université, au collège ou à autre établissement d’enseignement offrant des cours de niveau postsecondaire et qu’il n’était ni affilié ni associé à une université, à un collège ou à un autre établissement d’enseignement.
+[14] L’appelant a soulevé deux questions principales relativement à cette cause. La première question est de savoir si les leçons de piano reçues par le fils de l’appelant étaient des leçons de niveau postsecondaire. La deuxième question est de savoir si le studio de M. Boris Konovalov était un établissement d’enseignement pour l’application du paragraphe 118.5(1) de la Loi.
+[15] La position de l’appelant est fondée sur la décision Tarkowski v. The Queen, 2007 D.T.C. 1555, rendue par le juge Webb (tel était alors son titre). Dans cette affaire, Mateusz Tarkowski était inscrit comme étudiant à la Mississauga School of Music où il suivait des cours d’harmonie, troisième et quatrième années, et des cours de piano, neuvième année, dans les locaux de l’école. Un professeur particulier lui donnait les cours à l’école.
+[16] Afin de déterminer si la Mississauga School of Music était un établissement d’enseignement au sens du paragraphe 118.5(1) de la Loi, le juge Webb a cité, au paragraphe 10 sa décision, les observations suivantes faites par le juge Rip (tel était alors son titre) dans la décision Hillman v. The Queen, 2006 CCI 578 :
+[12] Bien que j’aie déjà décidé que BAR/BRI n’est pas un établissement d’enseignement situé au Canada, il peut être utile d’examiner la question de savoir s’il s’agit d’un établissement d’enseignement. Dans la décision Friedland v. R., le juge suppléant Rowe de la Cour canadienne de l’impôt, après avoir fait observer qu’il ne semble pas y avoir de définition universelle du terme « établissement d’enseignement », a tenté d’établir les paramètres de la définition dans le cadre de la Loi :
+Le Oxford English Dictionary définit le mot « enseignement » (education) de la façon suivante :
+[traduction]
+3. Instruction, étude ou formation systématiques données aux jeunes gens afin de les préparer à une vie de travail; par extension, instruction ou formation obtenue à l’âge adulte. Désigne également le processus complet de l’instruction scolaire dont un individu a bénéficié. Souvent utilisé avec des mots restrictifs qui indiquent la nature ou l’objet principal de l’instruction ou le genre de vie auquel elle prépare, comme classique, juridique, médical, technique, commercial, artistique.
+et définit le mot « établissement » (institution) ainsi :
+[traduction]
+7. Institution, organisation ou association fondée pour la promotion d’un certain objectif, particulièrement un objectif d’utilité publique ou générale, religieux, charitable, d’enseignement, etc., comme une église, une école, un collège, un hôpital, un asile, une maison de correction, un poste de missionnaire; [...] Ce mot est souvent familièrement utilisé pour désigner les édifices utilisés par un établissement de bienfaisance ou d’enseignement.
+[13] Le Black’s Law Dictionary, 6e édition, définit un « établissement d’enseignement » (educational institution) de la façon suivante :
+[traduction]
+École, séminaire, collège, université ou autre institution d’enseignement, qui ne détient pas nécessairement de charte. Tel qu’il est utilisé dans les ordonnances de zonage, ce terme peut inclure les édifices ainsi que tous les terrains nécessaires pour mener à bien l’enseignement éducatif dans son ensemble, y compris les aspects essentiels du développement mental, moral et physique.
+[Notes de bas de page omises.]
+[17] Le juge Webb a conclu que la Mississauga School of Music était un établissement d’enseignement étant donné que l’on y enseignait la musique à Mateusz Tarkowski. Le fait que l’enseignement était donné par un professeur particulier et que, selon la méthode d’enseignement employée, la Mississauga School of Music elle‑même ne faisait pas passer d’examen ne veut pas dire pour autant que l’école n’enseignait pas à Mateusz Tarkowski ou que celui‑ci ne suivait pas de cours.
+[18] Au paragraphe 15 de la décision Tarkowski, le juge Webb a conclu que la Mississauga School of Music donnait des cours de niveau postsecondaire pour les raisons suivantes :
+[15] Toutefois, en l’espèce, pour suivre les cours de piano, neuvième année, et d’harmonie, troisième et quatrième années, que Mateusz Tarkowski suivait, l’étudiant devait avoir complété le niveau d’école secondaire en musique. Cela étant, ces cours étaient de niveau postsecondaire […]
+[19] En l’espèce, l’appelant a soutenu que les leçons de piano que M. Boris Konovalov donnait à son fils de 2006 à 2009 satisfont aux mêmes conditions que les cours que la Mississauga School of Music donnait à Mateusz Tarkowski, étant donné que les leçons de piano de dixième année données au fils de l’appelant étaient d’un niveau plus élevé que les cours de neuvième année donnés à Mateusz Tarkowski par la Mississauga School of Music. Elles constituent également des cours de musique de niveau postsecondaire. L’appelant ne voit pas pourquoi la Mississauga School of Music répond aux critères d’un établissement d’enseignement décrit au sous‑alinéa 118.5(1)a)(i) de la Loi, et pourquoi le studio d’enseignement du piano de M. Boris Konovalov ne répond pas à ces critères.
+[20] L’avocat de l’intimée a soutenu qu’un particulier ne peut pas être considéré comme un établissement d’enseignement pour l’application du sous‑alinéa 118.5(1)a)(i) de la Loi, et il a établi une distinction entre l’espèce et la décision Tarkowski en soulignant le fait que la Mississauga School of Music était une école de musique qui enseignait la musique et qu’un professeur particulier donnait des cours à Mateusz Tarkowski à cette école.
+[21] L’appelant n’a pas produit beaucoup d’éléments de preuve démontrant que le studio de M. Konovalov était en réalité une école de musique ou un établissement d’enseignement, qui était organisé et qui fonctionnait en tant que tel, même s’il n’était peut‑être pas une institution ou une école qui détenait une charte. Aucun renseignement concernant un site Web, aucune carte de visite, aucune facture ou aucun reçu n’a été produit à titre de preuve documentaire. Les seuls renseignements fournis par l’appelant sur ce point concernent le fait que l’épouse de M. Konovalov donnait aussi des leçons de musique au studio.
+[22] Je ne pense pas que des leçons de piano d’une heure par semaine soient suffisantes pour que le fils de l’appelant soit considéré comme étant inscrit à une université, à un collège ou à un autre établissement d’enseignement offrant des cours de niveau postsecondaire.
+[23] En tout état de cause, je ne suis pas lié par la décision Tarkowski, parce qu’elle a été rendue sous le régime de la procédure informelle, et je doute que le législateur ait jamais eu l’intention d’accorder des crédits pour frais de scolarité dans une situation comme l’espèce qui concerne des frais de scolarité payés à un professeur de piano donnant des cours particuliers à son domicile.
+[24] Pour les motifs exposés ci‑dessus, les appels interjetés par l’appelant sont rejetés.
+Signé à Ottawa, Canada, ce 28e jour d’août 2013.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 8e jour d’octobre 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 266
+No DU DOSSIER DE LA COUR : 2012-4922(IT)I
+INTITULÉ : PING KAM c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 15 juillet 2013
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 28 août 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Jeff Watson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

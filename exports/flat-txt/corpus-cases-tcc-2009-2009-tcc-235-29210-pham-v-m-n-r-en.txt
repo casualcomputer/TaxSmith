@@ -1,0 +1,101 @@
+Title: Pham v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29210/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-235-29210-pham-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-04-28
+
+# Pham v. M.N.R.
+
+- Citation: 2009 TCC 235
+- Decision date: 2009-04-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6706, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pham v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-28
+Neutral citation
+2009 TCC 235
+File numbers
+2008-2264(EI)APP
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-2264(EI)APP
+BETWEEN:
+THUY PHAM,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Application heard on February 10, 2009, at Edmonton, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Cynthia Isenor
+____________________________________________________________________
+ORDER
+UPON application made by the Applicant under subsection 103(1) of the Employment Insurance Act for an order extending the time within which an appeal may be instituted;
+AND UPON hearing the submissions of the parties;
+The Court orders that the letter received by the Appeals Division of the Edmonton Tax Services Office on October 31, 2007 is deemed to be a valid notice of appeal filed on October 31, 2007.
+The Court further orders that the letter dated July 10, 2008 filed by Ms. Pham be treated as an amendment to the letter received on October 31, 2007 and thus as an amended notice of appeal. The Respondent is granted 60 days from the date of this Order to file his reply.
+Signed at Ottawa, Canada, this 28th day of April 2009.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2009 TCC 235
+Date: 20090428
+Docket: 2008-2264(EI)APP
+BETWEEN:
+THUY PHAM,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+[1] These are the reasons for my order in the case of Thuy Pham v. The Minister of National Revenue (the "Minister").
+[2] By letter dated August 3, 2007, the Minister advised the Applicant, Ms. Pham, of his decision that Ms. Pham was not employed in insurable employment while working for 1115006 Alberta Ltd. during the period from July 2, 2004 to March 31, 2005.
+[3] Ms. Pham sent to the Appeals Division of the Edmonton Tax Services Office (the "Tax Services Office") a letter, which was received on October 31, 2007, stating that she wished to appeal the Minister’s decision. By letters dated November 2, 2007 and November 19, 2007, the Minister advised Ms. Pham that her appeal should be filed directly with the Tax Court of Canada.
+[4] Ms. Pham filed on July 17, 2008 an application for an extension of time within which an appeal to the Tax Court of Canada may be instituted.
+[5] The issues for me to determine are:
+(1) whether the letter filed by Ms. Pham with the Tax Services Office can be treated as an appeal to the Tax Court of Canada; and
+(2) if not, whether the application that was filed with the Registry of the Tax Court of Canada on July 17, 2008 was filed within the time prescribed by subsection 103(1) of the Employment Insurance Act (the "EI Act").
+[6] Subsection 103(1) of the EI Act provides that an appeal must be filed with the Tax Court of Canada within 90 days of the Minister’s decision, or within 90 days after the expiration of the first 90-day period with the permission of the Court. The case law has established that the Court cannot entertain outside of this 180-day period (the total of both 90-day periods) an application for an extension of time for filing an appeal. This being said, Ms. Pham will still be within the first 90‑day period if her letter filed with the Canada Revenue Agency can be treated as a notice of appeal filed with the Tax Court of Canada.
+[7] Subsection 5(4) of the Tax Court of Canada Rules of Procedure respecting the Employment Insurance Act (the "EI Tax Court Rules") prescribes how an employment insurance appeal should be instituted with the Tax Court of Canada. Subsection 27(3) of the same rules provides that the Court may, where and as necessary in the interests of justice, dispense with compliance with any rule at any time.
+[8] I believe that it would be in the interests of justice to treat the letter received by the Tax Services Office on October 31, 2007 as a notice of appeal filed with the Tax Court of Canada.
+[9] Ms. Pham testified during the hearing of the application for an extension of time. She does not understand English very well. She also has difficulty speaking English. I surmise that she has great difficulty reading English. She testified that a close family member in her native country fell ill around the period that she sent the letter to the Tax Services Office. She alleges that she suffered from considerable anxiety, despair and depression. Her mental state prevented her from thinking clearly during that period. She was unemployed at the time, which surely added to her level of stress. She testified that she returned to her native country later in the year and that the close family member ultimately died. I have no reason to doubt Ms. Pham’s testimony on this matter.
+[10] I do not believe that the Minister suffers any prejudice from the relaxation of the rules regarding the form of a notice of appeal and where it is to be filed. The Minister was advised of Ms. Pham’s intention to file an appeal in the letter received on October 31, 2007. On the other hand, Ms. Pham would be subject to undue prejudice if I ruled that her appeal was not valid. Ms. Pham would lose her right to have the substantive issue heard as a result of the illness of a close family member, her inability to understand English properly, her lack of understanding of rules of form and, lastly, stress attributable to the loss of her minimum wage employment. For all of these reasons, I am of the view that this is a proper case in which to use the discretion afforded me under subsection 27(3) of the EI Tax Court Rules. Therefore, because I have decided to treat the letter of October 31 as a valid appeal to the Tax Court under the discretion given to me by the Rules of this Court, there is no need for Ms. Pham to apply to this Court to request an extension of the time for filing her notice of appeal. My decision is also consistent with the requirement that an appeal be filed within 90 days of the Minister’s decision, failing which an application must be brought within 90 days of the expiration of the first period. The EI Act provides that a notice of appeal must be filed with the Tax Court. It does not contain any provision regarding the form of the notice of appeal, nor for that matter, regarding where it must be filed. The EI Tax Court Rules provide for both of these matters, and they also allow me to modify the manner in which those rules are complied with, when the interests of justice so demand. This case will be set down for hearing before me at my next sitting in Edmonton. The Registry will advise the parties in advance of the hearing date.
+Signed at Ottawa, Canada, this 28th day of April 2009.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2009 TCC 235
+COURT FILE NO.: 2008-2264(EI)APP
+STYLE OF CAUSE: THUY PHAM v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: February 10, 2009
+REASONS FOR ORDER BY: The Honourable Justice Robert J. Hogan
+DATE OF ORDER: April 28, 2009
+APPEARANCES:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Cynthia Isenor
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

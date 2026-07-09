@@ -1,0 +1,317 @@
+Title: Grafton Developments Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27786/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-356-27786-grafton-developments-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-07-05
+
+# Grafton Developments Inc. v. The Queen
+
+- Citation: 2006 CCI 356
+- Decision date: 2006-07-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 267, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grafton Developments Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-05
+Référence neutre
+2006 CCI 356
+Numéro de dossier
+2004-52(GST)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-52(GST)G
+ENTRE :
+GRAFTON DEVELOPMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 2 février 2006 à Halifax (Nouvelle‑Écosse)
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocat de l'appelante :
+Me Raymond G. Adlington
+Avocat de l'intimée :
+Me John Bodurtha
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation nº 01CB‑119035251 établie en vertu de la partie IX de la Loi sur la taxe accise, dont l'avis est daté du 23 septembre 2004, est accueilli sans dépens pour les raisons énoncées dans les motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour de juillet 2006.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 13e jour de juillet 2007.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI356
+Date : 20060705
+Dossier : 2004-52(GST)G
+ENTRE :
+GRAFTON DEVELOPMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L'appelante est une personne morale constituée en société sous le régime de la loi intitulée Companies Act (Loi sur les sociétés) de la Nouvelle‑Écosse.
+[2] L'appelante est un inscrit pour l'application de la Loi sur la taxe d'accise (la « Loi »), et elle s'est vu attribuer le numéro d'inscription 893689836 aux fins de la TPS.
+[3] Le 1er décembre 1997, la société Nasco Consultants Inc. (ci‑après « Nasco ») a acquis un immeuble situé au 1646, rue Barrington (l'« immeuble »), dans la ville de Halifax, en Nouvelle‑Écosse, pour le prix de 600 000 $.
+[4] Au moment de l'acquisition de l'immeuble, celui‑ci avait neuf étages, y compris un sous‑sol. L'immeuble était utilisé entièrement à des fins commerciales.
+[5] Nasco a fait des rénovations majeures dans l'immeuble et a converti quatre étages de celui‑ci en 19 logements.
+[6] Nasco a loué le premier logement dans l'immeuble à compter du 1er juin 2000.
+[7] Grafton Developments Inc. (ci‑après « Grafton ») est une personne morale constituée en société sous le régime de la Companies Act de la Nouvelle‑Écosse. En 2004, Grafton et Nasco ont fusionné, et la société issue de cette fusion est Grafton.
+[8] Le ministre du Revenu national (le « ministre ») a initialement évalué la juste valeur marchande de la partie résidentielle de l'immeuble au 1er juin 2000 à 1 550 000 $. Le ministre a décidé plus tard que la juste valeur marchande de la partie résidentielle de l'immeuble au 1er juin 2000 n'était pas inférieure à 1 400 000 $.
+[9] L'évaluateur de l'appelante a chiffré la juste valeur marchande de la partie résidentielle de l'immeuble au 1er juin 1999 à 890 000 $.
+[10] Le 23 septembre 2003, le ministre a établi un avis de nouvelle cotisation en vertu de la loi intitulée Harmonized Sales Tax Act (Loi sur la taxe de vente harmonisée) (la « LTVH »). La taxe à payer fixée en vertu de la LTVH à l'égard de la fourniture à soi‑même de l'immeuble a été calculée par le ministre ainsi :
+Juste valeur marchande de la partie résidentielle
+de l'immeuble au 1er mai 2000
+1 400 000 $
+Multiplié par 15 %
+x 15 %
+TVH due sur la partie résidentielle
+210 000 $
+B. POINT EN LITIGE
+[11] La question à trancher est de savoir si l'appelante a fait l'objet d'une cotisation dûment établie par le ministre relativement à la taxe de vente harmonisée (la « TVH ») payable sur la conversion d'une partie de l'immeuble non résidentiel en logements.
+C. ANALYSE
+[12] Afin de déterminer si la nouvelle cotisation établie par le ministre est exacte, je dois répondre aux questions suivantes :
+A. Est‑ce que l'appelante est assujettie à la TVH en application des paragraphes 190(1) et 191(3) de la partie IX de la Loi en raison des règles sur la fourniture à soi‑même portant sur la conversion de l'immeuble, qui était d'abord utilisé à des fins exclusivement commerciales, en un immeuble à usage mixte commercial et résidentiel?
+B. Quelle est la date qu'il convient de retenir dans cette situation?
+C. Si l'appelante est tenue de payer de la taxe fixée en vertu des « règles sur la fourniture à soi‑même », quelle était la juste valeur marchande de la partie résidentielle de l'immeuble?
+A. Règles sur la fourniture à soi‑même
+[13] Les définitions applicables en l'espèce sont les suivantes :
+« habitation » Maison individuelle, jumelée ou en rangée, unité en copropriété, maison mobile, maison flottante, appartement [...].
+« immeuble d'habitation »
+a) La partie constitutive d'un bâtiment qui comporte au moins une habitation, y compris :
+(i) la fraction des parties communes et des dépendances et du fonds contigu au bâtiment qui est raisonnablement nécessaire à l'usage résidentiel du bâtiment,
+(ii) la proportion du fonds sous-jacent au bâtiment correspondant au rapport entre cette partie constitutive et l'ensemble du bâtiment;
+[...]
+« immeuble d'habitation à logements multiples » Immeuble d'habitation, à l'exclusion d'un immeuble d'habitation en copropriété, qui contient au moins deux habitations[1].
+Le paragraphe 190(1) de la Loi prévoit ce qui suit :
+190(1) Lorsque, à un moment donné, une personne commence à détenir ou à utiliser à titre d'immeuble d'habitation un immeuble qui a été acquis par elle à cette fin la dernière fois qu'elle en a fait l'acquisition ou qui, immédiatement avant le moment donné, était détenu pour fourniture dans le cadre de son entreprise ou de son activité commerciale ou était utilisé ou détenu pour utilisation, à titre d'immobilisation, dans ce cadre, les présomptions suivantes s'appliquent à la présente partie dans le cas où, immédiatement avant le moment donné, l'immeuble n'était pas un immeuble d'habitation et où la personne n'a pas procédé à la construction ou à des rénovations majeures de l'immeuble d'habitation et n'en serait pas le constructeur en l'absence du présent article :
+a) la personne est réputée avoir fait des rénovations majeures à l'immeuble d'habitation;
+b) les rénovations sont réputées avoir débuté à ce moment et avoir été achevées en grande partie au premier en date du moment où l'immeuble d'habitation est occupé à titre résidentiel ou d'hébergement et du moment où la personne en transfère la propriété à une autre personne;
+c) la personne est réputée être un constructeur de l'immeuble d'habitation, sauf si elle est :
+(i) un particulier qui acquiert le bien à ce moment pour le détenir ou l'utiliser exclusivement comme résidence pour lui, son ex-époux ou ancien conjoint de fait ou un autre particulier qui lui est lié,
+(ii) une fiducie personnelle qui acquiert le bien à ce moment pour le détenir ou l'utiliser exclusivement comme résidence d'un particulier bénéficiaire de la fiducie.
+[14] Lorsqu'une personne convertit un immeuble à usage commercial en immeuble d'habitation et qu'il est satisfait aux conditions énoncées dans la partie de l'article 190 qui précède l'alinéa 190(1)a), le paragraphe 190(1) s'applique et donne lieu à l'application de la disposition déterminative qui s'y trouve. Trois présomptions, exposées ci‑dessous, se dégagent des dispositions déterminatives du paragraphe 190(1) :
+a) une présomption selon laquelle l'immeuble a fait l'objet de rénovations majeures;
+b) une présomption selon laquelle les rénovations majeures ont été achevées au premier en date de deux événements :
+(i) le moment où l'immeuble était occupé à titre résidentiel;
+(ii) le moment où la personne en a transféré la propriété à une autre personne;
+c) une présomption selon laquelle la personne qui change le mode d'utilisation de l'immeuble est le constructeur aux fins de l'application des règles de fourniture à soi‑même.
+Le paragraphe 191(3) de la Loi prévoit ce qui suit :
+191(3) Pour l'application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d'un immeuble d'habitation à logements multiples sont achevées en grande partie,
+b) le constructeur, selon le cas :
+(i) transfère à une personne, qui n'est pas l'acheteur en vertu du contrat de vente visant l'immeuble, la possession d'une habitation de celui-ci aux termes d'un bail, d'une licence ou d'un accord semblable conclu en vue de l'occupation de l'habitation à titre résidentiel,
+(i.1) transfère à une personne la possession d'une habitation de l'immeuble aux termes d'une convention prévoyant :
+(A) d'une part, la fourniture par vente de tout ou partie du bâtiment faisant partie de l'immeuble,
+(B) d'autre part, la fourniture par bail du fonds faisant partie de l'immeuble ou la fourniture d'un tel bail par cession,
+(ii) étant un particulier, occupe lui-même à titre résidentiel une habitation de l'immeuble,
+c) le constructeur, la personne ou un particulier locataire de celle‑ci ou titulaire d'un permis de celle-ci est le premier à occuper à titre résidentiel une habitation de l'immeuble après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l'immeuble le jour où les travaux sont achevés en grande partie ou, s'il est postérieur, le jour où la possession de l'habitation est transférée à la personne ou l'habitation est occupée par lui;
+e) avoir payé à titre d'acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l'immeuble ce jour-là.
+Il est à noter que trois conditions doivent être remplies pour que puisse être établie la taxe à payer :
+a) la construction ou les rénovations majeures doivent avoir été achevées en grande partie;
+b) le contribuable doit avoir transféré à une autre personne la possession d'une des habitations de l'immeuble ou l'avoir occupée lui-même;
+c) la personne qui a pris possession de l'habitation doit avoir été la première à occuper l'immeuble après que les rénovations majeures ou la construction ont été achevées en grande partie.
+Lorsque ces trois conditions sont réunies, le contribuable est assujetti aux règles sur la fourniture à soi‑même prévues par la Loi. Si le contribuable est assujetti aux règles sur la fourniture à soi‑même, la date à laquelle la fourniture est réputée avoir été effectuée est le jour où les rénovations majeures ou la construction ont été achevées en grande partie ou, s'il est postérieur, le jour où l'habitation a été occupée par le premier locataire.
+Application de ces dispositions en l'espèce
+[15] L'appelante a acquis l'immeuble en 1997.
+[16] L'appelante a témoigné que l'immeuble était utilisé à des fins commerciales le 7 octobre 1998. Le « Mercury », un restaurant et une boîte de nuit dans lequel l'appelante détient une participation de 50 %, était le premier locataire de l'immeuble.
+[17] En septembre 1999, un restaurant Tim Hortons est également devenu un locataire commercial de l'immeuble.
+[18] La preuve indique que les travaux de rénovation relatifs aux appartements ont commencé en décembre 1999.
+[19] Bien que le premier bail en vertu duquel a été loué un appartement situé dans la partie résidentielle de l'immeuble porte la date du 21 mai 2000, la date d'occupation précisée dans le bail est le 1er juin 2000.
+[20] J'ai conclu que l'application du paragraphe 190(1) avait été déclenchée le 1er juin 2000, lorsque le premier locataire avait commencé à occuper un des appartements. De plus, comme la preuve l'a démontré, l'immeuble a été utilisé dans le cadre de l'activité commerciale de l'appelante immédiatement avant cette date.
+[21] Les rénovations majeures ont été achevées en grande partie, puisque la disposition déterminative contenue au paragraphe 190(1) le prévoit. L'appelante a transféré la possession de la première habitation à son premier locataire le 1er juin 2000. Et finalement, ce locataire a été le premier à occuper l'immeuble d'habitation. J'ai conclu que les trois conditions prévues au paragraphe 191(3) ont été remplies.
+[22] En arrivant à ma conclusion, j'ai examiné la déclaration suivante au sujet de l'interprétation légale reprise par le juge Iacobucci de la Cour suprême du Canada dans l'arrêt Entreprises Ludco ltée c. Canada[2] :
+Aujourd'hui il n'y a qu'un seul principe ou solution : il faut lire les termes d'une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s'harmonise avec l'esprit de la loi, l'objet de la loi et l'intention du législateur...
+À ce propos, le juge Iacobucci dit ce qui suit au paragraphe 38 :
+[38] Par ailleurs, les tribunaux appelés à interpréter la Loi de l'impôt sur le revenu doivent se rappeler qu'ils jouent un rôle distinct de celui du législateur. En l'absence d'un texte législatif clair, il n'est pas souhaitable que les tribunaux innovent : [...]
+[23] J'ai conclu que le libellé du paragraphe 190(1) était clair et je rejette l'argument présenté par l'avocat de l'appelante sur cette question.
+B. Date appropriée à appliquer
+[24] À mon avis, l'appelante est réputée avoir effectué une fourniture taxable et avoir perçu la TPS/TVH le 1er juin 2000, et le montant de la taxe devait être calculé en tenant compte de la juste valeur marchande de l'immeuble d'habitation à ce moment‑là.
+[25] J'ai répondu aux questions A et B ci‑dessus. Je dois maintenant traiter la question de la juste valeur marchande.
+C. Juste valeur marchande
+[26] La définition du terme « juste valeur marchande » adoptée par la Cour suprême du Canada est la suivante :
+[TRADUCTION]
+[...] la « juste valeur marchande » est le plus haut prix exprimé en termes pécuniaires qu'un vendeur consentant peut obtenir pour le bien dans un marché libre et dépourvu de toute restriction de la part d'un acheteur avisé et consentant avec lequel il n'a pas de lien de dépendance[3].
+[27] La Cour a entendu deux témoins experts au sujet de la juste valeur marchande de la partie résidentielle de l'immeuble.
+[28] Monsieur John Ingram a témoigné pour le compte de l'appelante, et son rapport d'expert a été déposé sous la cote A‑7.
+[29] Monsieur Paul Hare a témoigné pour le compte de l'intimée, et son rapport d'expert a été déposé sous la cote R‑2.
+[30] Dans ses observations écrites, l'avocat de l'appelante a reconnu que la date de prise d'effet indiquée dans l'avis écrit de John Ingram était, par mégarde, le 1er juin 1999 plutôt que le 1er juin 2000. Dans son témoignage, M. Ingram a confirmé que si on lui avait présenté les mêmes faits et les mêmes hypothèses le 1er juin 2000, son avis quant à la valeur de l'immeuble d'habitation aurait été le même. J'ai pris acte du fait qu'une date incorrecte avait été inscrite sur le rapport d'expert de John Ingram et j'accepte de considérer l'avis de John Ingram comme étant daté du 1er juin 2000.
+[31] Dans son rapport, M. Ingram a conclu que la valeur marchande de la partie résidentielle de l'immeuble au 1er juin 2000 (et non au 1er juin 1999) était de 890 000 $.
+[32] Dans ses observations écrites, l'avocat de l'appelante a mentionné les valeurs suivantes en ce qui concerne la partie résidentielle de l'immeuble :
+Méthode du coût 781 722 $ (voir la page 15)
+Méthode du revenu 500 000 $ (voir la page 22)
+[33] L'avocat de l'appelante a ensuite dit ce qui suit à la page 23 de ses observations :
+[TRADUCTION]
+[...] l'appelante demande que l'appel soit accueilli et que la Cour ordonne que le ministre établisse une nouvelle cotisation à son égard en tenant compte du fait que la juste valeur marchande de l'immeuble d'habitation faisant partie de l'immeuble était de 640 000 $ au 1er juin 2000, ce qui représente la moyenne des valeurs déterminées selon la méthode du coût et la méthode du revenu.
+[34] Monsieur Hare, l'expert dont l'intimée avait retenu les services, a conclu que la juste valeur marchande de la partie résidentielle de l'immeuble au 1er juin 2000 était de 1 550 000 $.
+[35] L'avocat de l'appelante et l'avocat de l'intimée conviennent qu'il existe trois méthodes ayant trait à l'établissement de la juste valeur marchande d'un bien :
+1. La méthode du coût
+2. La méthode du revenu
+3. La méthode de la parité
+[36] Les deux témoins experts ont convenu que la méthode du coût ne convenait pas à l'immeuble en cause.
+[37] À la page 20 de son rapport (pièce A‑7), M. Ingram a dit ce qui suit au sujet de la méthode du coût :
+A. Méthode du coût
+[TRADUCTION]
+La méthode du coût comporte deux étapes principales : d'abord, l'évaluation du terrain effectuée comme s'il n'avait pas fait l'objet d'améliorations et qu'il était utilisé de la meilleure façon possible, et ensuite, l'estimation du coût de reproduction des améliorations, moins toute perte de valeur (dépréciation) causée par la détérioration ou l'obsolescence. Étant donné l'âge et la catégorie à laquelle appartient l'immeuble, de même que le taux initial d'inoccupation, cette méthode ne serait pas prise en considération par des acquéreurs et vendeurs typiques et elle n'a pas été utilisée aux fins d'établissement du présent rapport.
+[38] À la page 29 de son rapport, M. Hare a dit ce qui suit au sujet de la méthode du coût :
+[TRADUCTION]
+En l'espèce, nous ne croyons pas qu'une estimation fiable de la valeur marchande puisse être établie de cette manière à cause des difficultés et des inexactitudes associées à l'estimation de la dépréciation d'un immeuble de quarante ans qui a été partiellement rénové et en raison du manque de données sur le marché permettant d'évaluer la composante du profit.
+[39] Compte tenu de ces commentaires faits par les deux témoins experts, j'ai conclu qu'il n'était pas opportun en l'espèce d'utiliser la méthode du coût pour déterminer la juste valeur marchande de la partie résidentielle de l'immeuble.
+B. Méthode du revenu
+1. Revenu estimatif
+[40] Messieurs Ingram et Hare ont adopté des techniques différentes pour déterminer le revenu généré par l'immeuble d'habitation. Monsieur Ingram a utilisé l'estimation des loyers fournie par M. Ghosn, le président de l'appelante. Monsieur Hare s'est fondé sur les loyers effectivement reçus et les loyers du marché demandés pour des logements comparables.
+[41] Les chiffres sur les loyers qui ont été utilisés par les témoins étaient les suivants :
+M. Ingram 20 885 $ x 12 = 250 620 $
+M. Hare 21 730 $ x 12 = 260 760 $
+J'ai conclu qu'il était opportun d'utiliser les chiffres sur les loyers retenus par M. Ingram, à savoir 20 885 $ x 12 = 250 620 $.
+2. Taux d'inoccupation
+[42] Messieurs Ingram et Hare ont adopté des points de vue différents sur le taux d'inoccupation de l'immeuble d'habitation. Monsieur Hare a retenu un taux d'inoccupation de 1 % pour les créances irrécouvrables et l'inoccupation à l'égard de la première année, et un taux stable de 2 % pour l'inoccupation et les créances irrécouvrables pour les années suivantes.
+[43] Monsieur Ingram a utilisé un taux d'inoccupation stable de 5 %. Monsieur Ghosn a fourni une preuve détaillée qui faisait état de problèmes d'inoccupation de l'immeuble d'habitation causés par le bruit provenant de la boîte de nuit Mercury Night Club et le manque de places de stationnement. Dans ses observations écrites, l'avocat de l'appelante a soutenu que le taux d'inoccupation était de 10 %, c'est‑à‑dire le double du taux d'inoccupation déterminé par M. Ingram. J'ajoute foi au témoignage de M. Ghosn, lequel fait état d'un taux important d'inoccupation de l'immeuble, et j'admettrai un taux de 8 % pour l'inoccupation et les créances irrécouvrables.
+Provision pour inoccupation 250 620 $ x 0,08 = 20 049 $
+3. Frais d'exploitation
+[44] Dans son rapport, M. Ingram a chiffré les frais d'exploitation stables de l'immeuble d'habitation à 95 870 $. (Remarque : Si nous souscrivons à l'argument de l'avocat de l'appelante selon lequel le rapport de M. Ingram qui était daté du 1er juin 1999 devrait plutôt être daté du 1er juin 2000, le montant estimé des frais d'exploitation pour la première année selon M. Ingram est de 88 221 $.) Monsieur Hare a conclu que les frais d'exploitation stables de l'immeuble d'habitation étaient de 73 858 $.
+[45] Dans ses observations écrites, l'avocat de l'appelante a soutenu que les frais d'exploitation stables devaient être de 130 000 $.
+[46] Les chiffres suivants permettent de calculer les frais d'exploitation :
+a) Services publics
+Dans ses observations écrites, l'avocat de l'appelante a soutenu que le coût des services publics pour l'immeuble d'habitation pouvait être déterminé ainsi :
+Paragraphe 70
+Eau
+15 763 $
+Paragraphe 71
+Mazout de chauffage
+34 685 $
+Paragraphe 72
+Électricité
+37 901 $
+88 349 $
+Remarque : Le témoin expert de l'appelante, M. Ingram, a affirmé que, selon ses calculs, les services publics avaient coûté 27 300 $ pendant la première année.
+J'ai conclu que les arguments de l'avocat de l'appelante présentés pour faire passer de 27 300 $ à 88 349 $ le coût des services publics pour la partie résidentielle de l'immeuble étaient déraisonnables et insoutenables. Eu égard aux circonstances, j'accepterai le résultat du calcul du coût des services publics obtenu par M. Ingram, c'est‑à‑dire 27 300 $. Cependant, compte tenu du témoignage de M. Ghosn, je suis prêt à augmenter de 20 000 $ le coût des services publics.
+Services publics − 47 300 $
+b) Assurances
+Dans son rapport, M. Ingram a chiffré à 2 900 $ les frais d'assurance pour la partie résidentielle de l'immeuble.
+Dans son rapport, M. Hare a indiqué que, selon ses calculs, les frais d'assurance applicables à la partie résidentielle étaient de 1 900 $.
+Dans son témoignage, M. Ghosn a mentionné un chiffre plus élevé.
+J'accepterai le chiffre retenu par le témoin expert de l'appelante, soit 2 900 $.
+Assurances − 2 900 $
+a) Honoraires
+J'accepterai le chiffre de 2 000 $ indiqué par l'avocat de l'intimée.
+Honoraires − 2 000 $
+Selon mes calculs, compte tenu de la preuve présentée par le témoin expert, les frais d'exploitation de l'immeuble d'habitation pour la période du 1er juin 2000 au 31 mai 2001 étaient les suivants :
+Frais d'exploitation
+Impôt foncier
+16 136 $
+Services publics
+47 300 $
+Assurances
+2 900 $
+Honoraires
+2 000 $
+Publicité
+1 330 $
+Réparations et entretien
+11 780 $
+Bureau et gestion
+10 222 $
+Frais de concierge
+9 500 $
+101 168 $
+4. Taux de capitalisation
+[47] Dans son rapport, M. Ingram a utilisé un taux de capitalisation de 12 %.
+[48] Dans son rapport, M. Hare a utilisé un taux de capitalisation de 10 %.
+[49] Compte tenu de la preuve qui a été portée à ma connaissance, j'ai conclu que le taux de capitalisation qui devait être utilisé était de 10 %.
+[50] Selon les chiffres indiqués ci‑dessus, le revenu net tiré de la partie résidentielle serait le suivant :
+Loyers annuels bruts
+250 620 $
+Inoccupation et créances irrécouvrables
+20 049 $
+Frais d'exploitation
+101 168 $
+129 403 $
+[51] Si nous retenons un taux de capitalisation de 10 %, la valeur de la partie résidentielle serait de 1 294 030 $.
+[52] Dans ses observations écrites, l'avocat de l'appelante a proposé un redressement de 40 000 $ pour la période de démarrage des baux. Monsieur Hare a proposé un redressement de 38 400 $ pour la période de démarrage des baux. J'accepterai le chiffre de 40 000 $ proposé par l'avocat de l'appelante dans ses observations écrites.
+[53] L'avocat de l'appelante a aussi soutenu que les coûts de construction de 260 000 $ engagés après le 1er juin 2000 devaient être déduits.
+[54] Puisque nous calculons la juste valeur marchande de la partie résidentielle de l'immeuble au 1er juin 2000 et que nous utilisons la méthode du revenu, comme l'ont proposé les deux témoins experts, je ne suis pas disposé à admettre une déduction des coûts de construction engagés après le 1er juin 2000.
+[55] Selon la méthode du revenu, la juste valeur marchande de la partie résidentielle de l'immeuble sera celle‑ci :
+Valeur selon la méthode du revenu
+1 294 030 $
+Déduction du montant correspondant au redressement pour la période de démarrage des baux
+40 000 $
+Juste valeur marchande
+1 254 030 $
+5. Méthode de la parité
+[56] Aux pages 55, 56 et 57 de son rapport, M. Hare traite de plusieurs ventes comparables d'immeubles d'habitation. À la page 58 de son rapport, il affirme qu'à son avis, à la lumière de ventes comparables, la valeur de la partie résidentielle de l'immeuble en cause était de 1 662 000 $.
+[57] J'ai décidé que la méthode du revenu était la méthode appropriée pour évaluer la partie résidentielle de l'immeuble, et, à mon avis, la juste valeur marchande de la partie résidentielle de l'immeuble au 1er juin 2000 était de 1 254 030 $. Pour arriver à cette décision, j'ai tenu compte des commentaires faits par le juge Walsh dans la décision Bibby c. La Reine, no T‑3587‑82, 17 mars 1983, 83 D.T.C. 5148, à la page 5157, auxquels je souscris :
+Bien qu'il ait été souvent jugé qu'un tribunal ne devait pas, après avoir étudié tous les témoignages d'expert et autres preuves, se contenter d'adopter un chiffre qui soit un compromis entre les chiffres proposés par les parties au procès, il a aussi été dit que le tribunal pouvait, lorsqu'il ne jugeait pas la preuve d'un expert totalement satisfaisante ou concluante et les ventes comparables particulièrement valables, se faire sa propre opinion sur l'évaluation à condition que toute la preuve contradictoire soit toujours étudiée de façon soigneuse. Le chiffre auquel le tribunal parvient ne doit pas nécessairement être celui qu'a suggéré l'expert ni celui que les parties souhaitent voir adopter[4].
+[58] L'avocat de l'appelante a écrit à la Cour une lettre datée du 6 février 2006. Elle est ainsi rédigée :
+[TRADUCTION]
+L'appelante demande qu'il soit confirmé que les dépens de 1 000 $ alloués par le juge Campbell dans l'ordonnance qu'elle a rendue le 27 janvier 2006 ne sont pas payables à l'intimée en raison de la déclaration faite par le juge Little le 2 février 2006 qui a été versée au dossier.
+[59] La transcription de l'audience tenue le 6 février 2006 renferme les commentaires suivants :
+[TRADUCTION]
+Me Adlington : Nous demanderions aussi des commentaires sur l'allocation des dépens qui a été faite par le juge Campbell relativement à la présente affaire.
+Le juge Little : J'examinerai votre demande et je vous donnerai mon avis d'ici peu.
+[60] Puisque je suis arrivé à la conclusion qu'un ajournement donnait lieu à une nouvelle audience et que j'en ai avisé les parties, j'ai décidé que l'ordonnance du juge Campbell rendue le 27 janvier 2006 devait être annulée.
+[61] Avant de conclure, je tiens à noter que j'ai trouvé étrange que l'avocat de l'appelante ait tenté de mettre en doute la preuve présentée par son propre témoin expert. Je cite les exemples suivants :
+1) Dans son rapport, M. Ingram a affirmé que la méthode du coût ne serait pas prise en considération par des acquéreurs et des vendeurs typiques et qu'elle n'avait pas été incluse aux fins d'établissement du rapport en question (voir la page 20). Dans ses observations écrites, l'avocat de l'appelante a soutenu qu'en utilisant la méthode du coût, on parvenait à une juste valeur marchande de l'immeuble d'habitation au 1er juin 2000 de 781 722 $ (voir la page 15).
+2) De plus, dans ses observations écrites, l'avocat de l'appelante a soutenu que la juste valeur marchande de l'immeuble d'habitation au 1er juin 2000 était de 640 000 $ (voir la page 23). Cependant, M. Ingram, le témoin expert auquel avait fait appel l'avocat de l'appelante, avait conclu que la juste valeur marchande de l'immeuble d'habitation au 1er juin 2000 était de 890 000 $.
+[62] Comme les parties ont chacune obtenu partiellement gain de cause, je ne suis pas disposé à allouer des dépens.
+[63] L'appel est accueilli sans dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour de juillet 2006.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 13e jour de juillet 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI356
+Nº DU DOSSIER DE LA COUR :
+2004-52(GST)G
+INTITULÉ :
+Grafton Developments Inc. et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATE DE L'AUDIENCE :
+Le 2 février 2006
+MOTIFS DU JUGEMENT :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 5 juillet 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Raymond G. Adlington
+Avocat de l'intimée :
+Me John Bodurtha
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Raymond G. Adlington
+Cabinet :
+McInnes, Cooper
+Pour l'intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Voir le paragraphe 123(1) de la Loi.
+[2] Entreprises Ludco ltée c. Canada, [2001] 2 R.C.S. 1082.
+[3] Dans l'arrêt Minister of Finance of British Columbia c. Succession Mann, 21 février 1974, [1974] C.T.C. 222 (C.S.C.).
+[4] Bibby c. La Reine, no T‑3587‑82, 17 mars 1983, 83 D.T.C. 5148, à la page 5157.

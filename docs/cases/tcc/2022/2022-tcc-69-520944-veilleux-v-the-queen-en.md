@@ -1,0 +1,223 @@
+---
+title: "Veilleux v. The Queen"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/520944/index.do"
+last_modified: "2022-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 69"
+citation2: ""
+neutral_citation: "2022 TCC 69"
+decision_date: "2022-06-28"
+language: "en"
+item_id: "520944"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5480
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:10:01.043000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e4c124a085aa407daaec50c54da3dea764c80d15158d2244a1bf5593fc80a99"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Veilleux v. The Queen
+
+- Citation: 2022 TCC 69
+- Decision date: 2022-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5480, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Veilleux v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-06-28
+Neutral citation
+2022 TCC 69
+File numbers
+2018-3895(IT)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3895(IT)G
+BETWEEN:
+DANIEL VEILLEUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 5, 2022, at Montreal, Quebec.
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+Félix St-Vincent Gagné
+Counsel for the Respondent:
+Julien Dubé-Sénécal
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, the notice of which bears the number 4139578, is dismissed, with costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 28th day of June 2022.
+"Gabrielle St-Hilaire"
+St-Hilaire J.
+Translation certified true
+on this 23rd day of September 2022.
+Melissa Paquette
+Citation: 2022 TCC 69
+Date: 20220628
+Docket: 2018-3895(IT)G
+BETWEEN:
+DANIEL VEILLEUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Introduction
+[1] This is an appeal from the assessment made pursuant to section 160 of the Income Tax Act (the Act).[1] The Minister of National Revenue (the Minister) assessed the appellant, holding him liable for $23,733.28—namely, the amount of tax debt that 9135-0280 Québec inc. (9135) owed as of December 14, 2016, the assessment date.
+[2] 9135 carried on a store interior fit-out business. The appellant, Daniel Veilleux, held 50% of the shares of 9135. Pietro Felice Carile held the other 50%. Mr. Veilleux and Mr. Carile were the sole shareholders, directors and executives of 9135 during the relevant periods.
+[3] During the taxation years ending November 30, 2011, and 2013, (the 2011 and 2013 taxation years), 9135 paid the appellant dividends of $80,000 and $25,000 respectively. The Minister made the assessment on the basis that the appellant was jointly and severally, or solidarily, liable for 9135's tax debt on the ground that the business transferred property, i.e., the dividends, at a time when it had tax debt. The amount of the assessment, $23,733.28, is the lesser of the amount transferred to the appellant as dividends and 9135's tax debt.
+II. The law relating to section 160 and the issue
+[4] It should be recalled that section 160 is a collection provision that authorizes the Minister to collect tax debt from a person who has received a transfer of property from a tax debtor with whom the person was not dealing at arm's length for an inadequate consideration. As the Federal Court of Appeal stated in Canada v. Livingston,[2] the purpose of section 160 is to preserve the assets in the taxpayer, 9135 in this case, for collection of the tax debt. Yet section 160 prevents a taxpayer from avoiding his or her tax liability by transferring his or her assets to described persons by allowing the Minister to seek payment from them.[3]
+[5] In the version applicable in this case, the relevant part of section 160 reads as follows:
+160(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+. . .
+. . .
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+[6] The four following criteria must be satisfied for section 160 to apply:
+1. The transferor must be liable to pay tax under the Act at the time of transfer;
+2. There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3. The transferee must either be:
+. . .
+iii. a person with whom the transferor was not dealing at arm's length.
+4. The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.[4]
+[7] The appellant acknowledged that three of the four criteria have been satisfied. It is common ground that 9135 transferred property to the appellant, in this case dividend payments, at a time when 9135 was liable to pay tax. It is also common ground that the payment of dividends constituted a transfer of property without consideration; as a result, the fair market value of the property that was transferred exceeded the fair market value of the consideration given by the appellant.
+[8] It remains to be determined whether the non-arm's length criterion has been satisfied. Therefore, the only issue in this case is whether 9135 as transferor was not dealing at arm's length with the appellant as transferee. For the reasons that follow, I find that 9135 was not dealing with Mr. Veilleux at arm's length.
+III. Non-arm's length relationship
+[9] Subsection 251(1) of the Act sets out the rules for determining whether two parties are not dealing with each other at arm's length. It reads in part as follows:
+251(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+. . .
+(c) in any other case, it is a question of fact whether persons not related to each other are, at a particular time, dealing with each other at arm's length.
+[10] According to the definition of "related persons" in subparagraph 251(2)(b)(i), a corporation and a person who controls the corporation are related persons. Given that the appellant owns 50% of the shares, he does not have de jure control of 9135. That is to say, the appellant alone does not have the power to elect the directors of the company and therefore to exercise true legal control over the company.[5] In these circumstances, the appellant and 9135 are not related persons under subparagraph 251(2)(b)(i) and are therefore not deemed to have a non-arm's length relationship that falls under paragraph 251(1)(a).
+[11] It is therefore necessary to examine paragraph 251(1)(c), which provides that it is a question of fact whether persons not related to each other are dealing with each other at arm's length.
+[12] In Canada v. McLarty,[6] the Supreme Court of Canada affirmed the usefulness of the following criteria in determining whether or not two parties were in fact dealing with each other at arm's length:
+(i)was there a common mind which directs the bargaining for both parties to a transaction;
+(ii)were the parties to a transaction acting in concert without separate interests; and
+(iii)was there "de facto" control.[7]
+[13] As to the question of what transactions this Court is called upon to examine in order to determine whether the parties are in fact dealing with each other at arm's length, in McLarty, the Supreme Court of Canada indicated that the relationship between the parties at the time of the transaction must be examined, but it refused to adhere to a restrictive approach, preferring instead an approach that would consider relevant facts that may precede the transactions at issue.[8]
+[14] In her Reply to the Notice of Appeal, the respondent relied on the second criterion set out in McLarty, i.e., acting in concert without separate interests, to support her position that the appellant and 9135 were not dealing with each other at arm's length.[9] More specifically, the respondent argued that the appellant and Mr. Carile acted in concert without separate interests in the two declarations of dividends during the 2011 and 2013 taxation years. According to the respondent, the appellant and Mr. Carile, in their role as directors, did not consider the company's financial situation and interests at all. In paying the dividends to its shareholders, 9135 disregarded its own interests and instead acted in concert with and without separate interests from its shareholders.[10] According to the respondent, this is sufficient to establish the existence of a non-arm's length relationship between the appellant and 9135.
+[15] The appellant argued that since he had separate interests from Mr. Carile, he was dealing at arm's length with 9135.
+[16] Mr. Veilleux testified at the hearing. He explained that he partnered with Mr. Carile to form 9135, and they created a store interior fit-out company from the ground up that was very successful from its inception. As mentioned above, Mr. Veilleux and Mr. Carile each held 50% of the shares of 9135 at the time of its incorporation until 2016. During this period, Mr. Veilleux and Mr. Carile were the sole directors and executives.
+[17] Incorporated in 2003, 9135 had sales of over $1 million in its first year of operation. In subsequent years, turnover fluctuated, but averaged around $1.6 million before decreasing significantly around 2012. According to the appellant, 9135 started to have financial difficulties in 2009. Speaking of 2010 and 2011, he stated, [translation] "it's starting to get painful . . . it's not working out very well."[11] In 2011, a major client's bankruptcy exacerbated 9135's financial difficulties.
+[18] Mr. Veilleux's testimony indicated that his role in operating 9135 was more administrative in nature, i.e., he was in charge of office work, orders, and contracts, whereas Mr. Carile performed the work on the construction sites. According to Mr. Veilleux, [translation] "we each minded our own business."[12] They both had the authority to sign cheques, and they each had a credit card. However, Mr. Veilleux and Mr. Carile made all major decisions together on behalf of 9135. Mr. Veilleux asserted that Mr. Carile always attended meetings with the 9135 accountant. When asked how 9135 chose the amounts to be paid in salaries and dividends, Mr. Veilleux explained that he and Mr. Carile were following the advice of their accountant, who had expressed the view that they were receiving [translation] "too much salary and not enough dividends".[13] Asked why the directors had declared dividends during the years when 9135 was having financial difficulties, Mr. Veilleux replied, [translation] "we still worked."[14] He stated that he disagreed with the assertion that he had received dividends for no consideration.[15] I would point out that Mr. Veilleux testified that he worked hard and that it was normal to withdraw money from the company. The dividend declaration reflected services that he and Mr. Carile had rendered to 9135.
+[19] Mr. Veilleux acknowledged that 9135 was liable for an amount of tax payable and of interest for the 2011 and 2013 taxation years. These amounts owed under the Act as well as amounts owed to suppliers were not paid because 9135 did not have the necessary cash. Mr. Veilleux also acknowledged that despite this tax liability, 9135 paid him and Mr. Carile dividends. He stated that [translation] "you can't have no income . . . that's what we call dividends".[16] Mr. Veilleux had many conversations with Canada Revenue Agency officers to make payment arrangements. There were many arrangements. Some could be honoured; some could not.
+[20] Mr. Veilleux asserted that he did not want to go bankrupt for personal reasons. Also, he believed that if he declared bankruptcy, he would lose his contractor's licence and be prohibited from owning a construction company for three years.[17] According to his testimony, the appellant and Mr. Carile had different financial needs. Mr. Veilleux stated that he had income from other sources while Mr. Carile received all his income from 9135. Given his personal circumstances, it appears that Mr. Carile needed more money than Mr. Veilleux did and wanted to withdraw more money from 9135. For these reasons, the appellant maintained that he did not act in concert with Mr. Carile, without separate interests, and that he was therefore dealing at arm's length with 9135.
+[21] I note that Mr. Carile did not testify. However, even if I were to assume that Mr. Carile would not have contradicted any part of Mr. Veilleux's testimony and that he would have confirmed that they sometimes had different financial interests with regard to the amount of money that they wanted to withdraw from 9135, this does not resolve the central issue, i.e., whether Mr. Veilleux and Mr. Carile acted in concert to declare the dividends, and in doing so, whether they acted without separate interests both in their capacity as directors and shareholders of 9135.
+[22] The facts in this case are similar to the facts in H.L.B. Smith Holdings Ltd. v. The Queen[18] and Fournier v. M.N.R..[19] Like Justice D'Arcy in H.L.B.,[20] I adopt the remarks of Justice Dussault (as he then was), who expressed himself as follows in Fournier:
+For his part, Thurlow, J. of the Exchequer Court (as he then was) said in Swiss Bank Corporation v. Minister of National Revenue, supra, at 437–48(D.T.C. 5241):
+To this I would add that where several parties—whether natural persons or corporations or a combination of the two—act in concert, and in the same interest, to direct or dictate the conduct of another, in my opinion the "mind" that directs may be that of the combination as a whole acting in concert or that of any one of them in carrying out particular parts or functions of what the common object involves.
+We have here two principal shareholders in a company who are for all practical purposes the only real shareholders and directors and who decide together, on the advice of the company accountant, to withdraw profits made by the company in the form of dividends declared at year-end. It is agreed between them that in the meantime they will receive advances from the corporation and that the dividends to be declared subsequently will be for an amount equivalent to the advances received. A dividend of $100,000 was in fact declared at year-end and the appellant admitted receiving his share in the form of advances throughout the year.
+I cannot find a situation more suited to application of the concept of a non-arm's length transaction between unrelated persons, in that the company's two principal directors and shareholders apparently acted in concert and with a common economic interest to decide how they would withdraw the profits made by the company for their personal use. Acting both as directors of the company and its shareholders, they were in a position where the concept of not being at arm's length in fact as established by our courts could hardly be better applied. In this sense, therefore, I consider that Les Évaluateurs Fra-Mic Inc. was not at arm's length with the appellant at the time of the property transfer made during its 1983 taxation year, and that accordingly the respondent was right to apply subsection 160(1) of the Act to this transaction.[21]
+[Emphasis added.]
+[23] In the words of Justice Dussault, I cannot find a situation more suited to application of the concept of a de facto non-arm's length relationship between unrelated persons in that the only two directors and shareholders of the company, Mr. Veilleux and Mr. Carile, acted in concert and with a common economic interest to decide how they would withdraw the profits made by 9135 for their personal use. Acting both as directors of 9135 and as company shareholders, they were in a position where the concept of not being at arm's length in fact could hardly be better applied.
+[24] Mr. Veilleux and Mr. Carile acted in concert and without separate interests, following their accountant's advice, in deciding how much money they would withdraw as salaries and how much they would withdraw as dividends. The appellant was therefore not dealing at arm's length with 9135.
+[25] Counsel for the appellant drew the Court's attention to the case law relating to the first criterion set out in McLarty, according to which a non-arm's length relationship between unrelated persons may be found where a "common mind directs the bargaining for both parties to a transaction".[22] The appellant relied on M.N.R. v. Merritt,[23] in which the Exchequer Court, considering the issue of a non-arm's length relationship between parties, expressed itself as follows:
+In my view, the basic premise on which this analysis is based is that, where the "mind" by which the bargaining is directed on behalf of one party to a contract is the same "mind" that directs the bargaining on behalf of the other party, it cannot be said that the parties are dealing at arm's length. In other words where the evidence reveals that the same person was "dictating" the "terms of the bargain" on behalf of both parties, it cannot be said that the parties were dealing at arm's length.[24]
+[26] In this case, Mr. Veilleux led the negotiations for both parties to the transaction; he acted in his own interest as a shareholder who wished to withdraw profits made by 9135, and he acted for 9135 as a director, with Mr. Carile, with regard to the determination of the amounts of dividends that would be declared.
+[27] The appellant also relied on Gestion Yvan Drouin Inc. v. The Queen[25] to support his position. I agree with Justice Archambault in Drouin when he stated that the fact that a shareholder votes, in his or her capacity as a director, to declare a dividend to himself or herself and to the other shareholders does not necessarily mean that he or she is not dealing at arm's length with the corporation.[26] It is not necessarily the case that such circumstances will give rise to a non-arm's length relationship, but it is a question of fact, and I am of the view that in this case, we are dealing with circumstances that differ from those in Drouin.
+[28] In Drouin, there were long and laborious negotiations between Mr. Drouin (indirect shareholder holding his shares through Gestion Yvan Drouin Inc., of which he was the sole shareholder) and Mr. Moisan. They did not share the same views on the direction that DPCI should take. There was talk of a reorganization of capital that involved the redemption of shares and the payment of cumulative dividends, both achieved through the transfer of land. Mr. Moisan wanted to have a going concern and Mr. Drouin wanted to have his shares redeemed as quickly as possible and receive payment of the dividend arrears owed to him. Justice Archambault held that although Mr. Drouin and Mr. Moisan may have acted in concert, they did so with separate and opposing interests.[27]
+[29] In this case, there were no such divergent or opposing interests. The two directors and shareholders, Mr. Veilleux and Mr. Carile, both wanted to withdraw profits from 9135. They followed their accountant's advice and chose to receive salaries and dividends. It is perfectly acceptable for a taxpayer to want to take advantage of tax relief authorized under the Act. Regardless of the reason behind the choice to declare dividends, including tax reasons based on advice that they received from their accountant, Mr. Veilleux must accept the consequences of this choice, which from a legal standpoint are not the same as receiving amounts as salary.[28] I would note that Mr. Veilleux viewed dividends as a consideration for the work that he was performing on behalf of 9135, i.e., for services rendered. However, it is settled in the case law that the payment of dividends constitutes a transfer without consideration.[29]
+[30] Having found that there was a de facto non-arm's length relationship between Mr. Veilleux and 9135, the Minister rightly cited section 160 with respect to the appellant regarding the payment of dividends by 9135 during the 2011 and 2013 taxation years. The appeal is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 28th day of June 2022.
+"Gabrielle St-Hilaire"
+St-Hilaire J.
+Translation certified true
+on this 23rd day of September 2022.
+Melissa Paquette
+CITATION:
+2022 TCC 69
+COURT FILE NO.:
+2018-3895(IT)G
+STYLE OF CAUSE:
+DANIEL VEILLEUX AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+May 5, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St‑Hilaire
+DATE OF JUDGMENT:
+June 28, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Félix St-Vincent Gagné
+Counsel for the Respondent:
+Julien Dubé-Sénécal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Félix St-Vincent Gagné
+Firm:
+Ravinsky Ryan Lemoine, L.L.P.
+1010 De la Gauchetière Street West
+Suite 2100
+Montreal, QC H3B 2N2
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada
+[1] Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) [the Act].
+[2] Canada v. Livingston, 2008 FCA 89 at paragraph 27 [Livingston].
+[3] See Heavyside v. The Queen, [1997] 2 C.T.C. 1 at paragraph 8.
+[4] Livingston, supra note 2 at paragraph 17.
+[5] See Duha Printers (Western) Ltd. v. Canada, [1998] 1 S.C.R. 795.
+[6] Canada v. McLarty, 2008 SCC 26 [McLarty].
+[7] Ibid. at paragraph 62, which cites the Canada Revenue Agency Interpretation Bulletin IT-419-R2, "Meaning of Arm's Length", which has been replaced by Canada Revenue Agency Income Tax Folio S1-F5-C1, "Related Persons and Dealing at Arm's Length" (November 26, 2015) at paragraph 1.38. The Supreme Court of Canada has recognized that these criteria, set out in an interpretation bulletin, have been accepted by the courts, citing as an example the decision of the Federal Court of Appeal in Peter Cundill & Associates Ltd. v. The Queen, [1991] 1 C.T.C. 197.
+[8] McLarty, supra note 6 at paragraph 65.
+[9] Reply to the Notice of Appeal, at paragraph 8(e).
+[10] Transcript of the May 5, 2022, hearing, at pages 164 and 165.
+[11] Ibid. at page 40 and the recording of the hearing.
+[12] Ibid. at page 32 and the recording of the hearing.
+[13] Ibid. at pages 33 and 34.
+[14] Ibid. at page 39; see also pages 55, 100 and 113.
+[15] Ibid. at page 111.
+[16] Ibid.
+[17] Ibid. at page 46.
+[18] H.L.B. Smith Holdings Ltd. v. The Queen, 2018 TCC 83 [H.L.B.] (appeal heard on common evidence with the appeals of Smith Family Trust (2001) (2016‑4104(IT)G), Wayne Smith (2016‑4544(IT)G), and Brenda Lee Brunelle (2016‑4568(IT)G)).
+[19] Fournier (F.) v. M.N.R., 91 D.T.C. 743 (TCC) [Fournier].
+[20] H.L.B., supra note 18 at paragraph 24.
+[21] Fournier, supra note 19 at page 745.
+[22] McLarty, supra note 6 at paragraph 23.
+[23] M.N.R. v. Merritt, [1969] C.T.C. 207.
+[24] Ibid. at paragraph 60.
+[25] Gestion Yvan Drouin Inc. v. The Queen, [2001] 2 C.T.C. 2315 [Drouin].
+[26] Ibid. at paragraph 85.
+[27] Ibid. at paragraph 96.
+[28] Valovic v. The Queen, 2020 TCC 101.
+[29] See, for example, Canada v. Gilbert, 2007 FCA 136, citing the Supreme Court of Canada decisions in McClurg v. Canada, [1990] 3 S.C.R. 1020 and Neuman v. M.N.R., [1998] 1 S.C.R. 770.

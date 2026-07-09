@@ -1,0 +1,191 @@
+Title: Autobus Hélie Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26408/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-512-26408-autobus-h-lie-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-07-22
+
+# Autobus Hélie Inc. c. M.R.N.
+
+- Citation: 2004 CCI 512
+- Decision date: 2004-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3355, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Autobus Hélie Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-22
+Référence neutre
+2004 CCI 512
+Numéro de dossier
+2004-376(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2004-376(EI)
+ENTRE :
+AUTOBUS HÉLIE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 13 juillet 2004 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante :
+Alain Savoie
+Avocat de l'intimé :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant les décisions du ministre du Revenu national en date du 30 octobre 2003 est accordé et les décisions sont infirmées, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de juillet 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI512
+Date : 20040722
+Dossier : 2004-376(EI)
+ENTRE :
+AUTOBUS HÉLIE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'appels de trois décisions du ministre du Revenu national (le « Ministre » ), en date du 30 octobre 2003, voulant que messieurs Pierre, Normand et Jocelyn Hélie, aient occupé un emploi assurable, pour la période du 1er janvier 2002 au 24 avril 2003.
+[2] La décision du Ministre a été rendue en vertu de l'alinéa 5(3)b) de la Loi sur l'assurance-emploi (la « Loi » ).
+[3] Les faits sur lesquels le Ministre s'est fondé pour rendre ses décisions sont décrits aux paragraphes 6 et 7 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+6. Le ministre a déterminé que les travailleurs exerçaient un emploi auprès de l'appelante aux termes d'un contrat de louage de services, en s'appuyant sur les faits présumés suivants :
+a) l'appelante, constituée en société en 1975, exploite une entreprise de transport par autobus;
+b) les différentes activités de transport de l'appelante se répartissent comme suit :
+- transport nolisé (environ 59% de ses activités)
+- transport scolaire (environ 39% de ses activités)
+- transport en commun (environ 1% de ses activités)
+- mécanique et débosselage (environ 1% de ses activités)
+c) l'appelante exploite son entreprise au Québec, en Ontario, dans les provinces maritimes et aux États-Unis;
+d) en 2001 et 2002, l'appelante a généré un chiffre d'affaires d'environ 5 millions par année;
+e) en plus des 3 travailleurs impliqués, l'appelante embauche généralement 2 employés de bureau, 10 employés à la mécanique et à l'entretien des véhicules et 60 chauffeurs;
+f) Normand Hélie était responsable de la division des ventes et de la répartition des différents transports et voyages nolisés; il supervisait les employés de ce secteur (les chauffeurs) et s'occupait de la négociation des contrats en collaboration avec le président de l'entreprise;
+g) Jocelyn Hélie était responsable de la division mécanique (le garage); il supervisait les employés de ce secteur, s'occupait de la gestion des inventaires, de la vérification et des commandes de pièces;
+h) Pierre Hélie était responsable de la division administration; il s'occupait de la gestion de l'entreprise, de l'analyse des états financiers, de la supervision des employés de ce secteur, de l'embauche du personnel et s'occupait de la comptabilité quotidienne de l'entreprise de l'appelante;
+i) l'horaire de travail de chacun des travailleurs pouvait varier mais chacun faisait environ 60 heures par semaine durant l'année 2002;
+j) chacun des travailleurs devait demeurer disponible, une fin de semaine sur trois, pour répondre aux chauffeurs en cas de besoin;
+k) toutes les décisions majeures concernant les activités de l'appelante étaient prises conjointement par les travailleurs;
+l) les décisions opérationnelles quotidiennes étaient prises par chacun des travailleurs dans son champ de compétence (sa division);
+m) chacun des travailleurs utilisait une voiture fournie par l'appelante qui en assumait toutes les dépenses;
+n) chaque travailleur bénéficiait d'une assurance-vie dont les coûts étaient défrayés par l'appelante;
+o) les outils de travail de chacun des travailleurs, utilisés dans le cadre de son travail, appartenaient à l'appelante;
+p) la rémunération de chacun des travailleurs a été déterminée par l'appelante et était versée, par dépôt direct, hebdomadairement;
+q) en 2002, chaque travailleur a reçu une rémunération fixe de 1 200 $ par semaine; cette rémunération est passée à 1 500 $ par semaine le 1er janvier 2003;
+r) durant la période en litige, chaque travailleur a reçu un boni de 15 000 $ de l'appelante;
+s) chacun des travailleurs recevait une rémunération hebdomadaire fixe et n'encourait pas de risque de pertes financières ou de possibilités de gains financiers à titre d'employé de l'appelante.
+7. Le travailleur et l'appelante sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+a) Durant la période en litige, les actions comportant droit de vote de l'appelante étaient réparties ainsi :
+Normand Hélie avec 33 1/3 %
+Jocelyn Hélie avec 33 1/3 %
+Pierre Hélie avec 33 1/3 %
+b) les actionnaires de l'appelante (les travailleurs) sont frères;
+c) chacun des travailleurs est membre d'un groupe lié qui contrôle l'appelante.
+[4] Les motifs selon lesquels le Ministre a déterminé que les emplois n'étaient pas des emplois exclus sont donnés au paragraphe 8 de la Réponse comme suit :
+8. Le ministre a déterminé aussi que chacun des travailleurs et l'appelante étaient réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi car il a été convaincu qu'il était raisonnable de conclure que chacun des travailleurs et l'appelante auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) chacun des travailleurs recevait, pour environ 60 heures de travail, une rémunération hebdomadaire raisonnable compte tenu de ses tâches et responsabilités;
+b) malgré une grande expérience de chacun des travailleurs dans son champ d'activités respectif, il ne pouvait agir seul et l'appelante avait un droit de contrôle sur ses tâches;
+c) chaque travailleur rendait des services à l'appelante sur une base continue et annuelle, ce qui correspondait à la période d'activités de l'appelante;
+d) les services rendus par chacun des travailleurs faisaient partie intégrante des activités de l'appelante et étaient essentiels à son bon fonctionnement.
+[5] En ce qui concerne l'Avis d'appel, je cite la conclusion :
+En tenant compte de toutes les informations ci-haut mentionnées, nous estimons donc que les emplois occupés par messieurs Pierre, Jocelyn et Normand Hélie sont exclus des emplois assurables en vertu des alinéas 5(2)i) et 5(3)b) de la Loi sur l'assurance-emploi pour les raisons suivantes :
+a) il existe un lien de dépendance entre messieurs Pierre, Jocelyn et Normand Hélie d'une part et l'appelante d'autre part;
+b) un contrat de travail semblable au leur ne serait pas conclu ou n'aurait pas été conclu avec une personne non liée à l'entreprise car :
+- si l'un des trois travailleurs cessait de travailler pour l'entreprise, il ne serait pas remplacé;
+- l'entreprise n'offrirait pas le même traitement salarial à une personne non liée;
+- l'entreprise n'offrirait pas les mêmes conditions de travail à une personne non liée;
+- entre autres, les trois travailleurs concernés établissent eux-mêmes leurs heures de travail et elles ne sont pas contrôlées;
+- ils décident de leur emploi du temps et peuvent déléguer leur travail à volonté;
+- lorsqu'ils délèguent leur travail, tâches ou responsabilités, ce sont eux qui dictent comment et quand le travail doit être accompli;
+- même s'ils font des heures supplémentaires, ils ne sont pas rémunérés pour celles-ci;
+- ils bénéficient tous trois de plus de vacances payées que les autres travailleurs de la compagnie et peuvent en plus d'absenter du travail pour des raisons personnelles s'ils le désirent;
+- leurs tâches comprennent le fait d'être « de garde » le soir, la nuit et les week-ends pendant 15 jours à tour de rôle et une personne non liée n'accepterait pas nécessairement ces responsabilités additionnelles et si elle les acceptait, ce ne serait sûrement pas de façon bénévole.
+c) Au contraire, une personne non liée embauchée pour remplacer l'un ou l'autre des trois travailleurs concernés n'aurait pas eu le même traitement salarial mais plutôt un salaire considérablement moindre et sans boni, aurait été payée pour le nombre d'heures réellement travaillées, aurait eu un horaire de travail fixe, aurait eu un nombre déterminé de semaines de vacances payées par l'entreprise et n'aurait pas pu en prendre plus; cette personne non liée n'aurait pas eu de voiture de luxe fournie par la compagnie, n'aurait pas eu le pouvoir de signer les chèques de la compagnie et n'aurait également pas eu accès aux comptes bancaires de l'entreprise.
+L'ensemble des facteurs pertinents se rapportant aux emplois en question démontre donc que les emplois de messieurs Pierre, Jocelyn et Normand Hélie pour le compte de l'entreprise Autobus Hélie Inc. doivent être exclus des emplois assurables, puisqu'un lien de dépendance existe entre eux et l'appelante et qu'un contrat de travail semblable au leur n'aurait pas été conclu entre le payeur et une personne non liée à l'entreprise.
+[6] Les trois frères Hélie ont témoigné. Ils ont relaté qu'en 1979, ils ont acquis l'entreprise de leur père à parts égales. Il y a eu une répartition des tâches qui semble s'être toujours maintenue et s'être exercée dans l'autonomie et l'harmonie.
+[7] Le partage des profits s'est toujours fait de façon égale et selon leur propre détermination. Ce partage des profits prend la forme de salaires et de dividendes. Ainsi, vers la fin des années en litige, les salaires hebdomadaires ont été doublés pour plusieurs semaines. Les dividendes sont substantiels. La pièce A-1 montre l'état du revenu d'emploi gagné de 1991 à 2003. Nous y voyons que le revenu de 1991 à 2003 a quadruplé.
+[8] Chaque frère détermine son propre horaire, le temps et la longueur de ses vacances. L'appelante détermine l'horaire des autres employés et ils n'ont droit en temps de vacances qu'à deux ou trois semaines par année.
+[9] Chacun a droit de signer des chèques. Tous les trois avaient droit à l'usage d'une voiture de luxe.
+[10] L'appelante a acquis deux ou trois autres entreprises d'autobus. Elle a conservé les services de deux employés clés de ces entreprises. Messieurs Hélie ont affirmé que les salaires de ces excellents gestionnaires ne peuvent se comparer avec ce qu'eux gagnent en tant que gestionnaires propriétaires.
+[11] L'appelante a pris à leur égard des assurances de décès et d'invalidité. Si un des frères décédait ou devenait incapable, l'assurance paiera ses parts qui reviendront aux frères survivants. Selon les frères, aucun ne serait remplacé pour exercer les mêmes tâches et obtenir les mêmes droits et privilèges. Les structures administratives et opérationnelles seraient modifiées en conséquence.
+[12] Monsieur Normand Hélie a été le premier à témoigner. Son titre au sein du conseil d'administration est vice-président. Ses heures de travail sont habituellement de 8 h à 17 h 30. Il peut toutefois arriver à l'heure qu'il veut. Il n'a de compte à rendre à personne en ce qui concerne son horaire. Ses petites semaines peuvent être de 25 à 30 heures et les grosses de 60 heures. Le nombre d'heures n'a pas d'influence sur la rémunération. Ses vacances sont de sept à huit semaines.
+[13] Monsieur Jocelyn Hélie est secrétaire-trésorier au niveau du conseil d'administration. Son horaire de travail est flexible. Il arrive habituellement vers 8 h et repart quand il veut. Il détermine son propre horaire. Ainsi, au cours de l'année 2002, il a pris des cours de pilotage. Il les prenait durant la semaine car c'était plus facile d'obtenir les heures qui lui convenaient. Ses vacances sont de 12 à 14 semaines par année.
+[14] Monsieur Pierre Hélie est le président du conseil d'administration. Il aime arriver tôt au bureau. Il arrive à 7 h et repart habituellement vers 3 h. Il a expliqué qu'il y avait une réunion officielle du conseil d'administration par année. Au cours de l'année, les trois frères se réunissent au moins une fois par mois et quelques fois plus souvent au moyen de déjeuners ou de dîners d'affaires. Ils se voient aussi régulièrement soit aux bureaux de l'entreprise ou dans des activités sociales ou sportives.
+[15] Il confirme que chaque frère est autonome dans sa sphère d'activité. Les employés qui ne sont pas liés à l'appelante sont supervisés, bien que le degré de supervision puisse différer de l'un à l'autre.
+Analyse
+[16] Les décisions auxquelles s'est référé le représentant de l'appelante sont : Putter c. Canada (ministre du Revenu national - M.R.N.), [2000] A.C.I. no 92 (Q.L.); Crawford & Co. Ltd. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 850 (Q.L.); Bayside Drive-In Ltd. c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.I. no 1212 (Q.L.); Bergen c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.I. no 73 (Q.L.); et St-Pierre c. Canada (ministre du Revenu national - M.R.N.), [2003] A.C.I. no 156 (Q.L.)
+[17] Les décisions auxquelles s'est référé l'avocat de l'intimé sont : Roxboro Excavation Inc. c. Canada, [1999] A.C.I. no 32 (Q.L.); [2000] A.C.F. no 799 (Q.L.); Groupe Desmarais Pinsonneault & Avard Inc. c. Canada, [2002] A.C.F. no 572 (Q.L.); Canada c. Jencan, [1998] 1 C.F. 187; Légaré c. Canada, [1999] A.C.F. no 878 (Q.L.); Pérusse c. Canada, [2000] A.C.F. no 310 (Q.L.); Miller c. Canada, [2002] A.C.F. no 1498 (Q.L.); Quigley Electric Ltd. c. Canada, [2003] A.C.F. no 1789 (Q.L.); Feader v. Canada, [2004] T.C.J. No 236 (Q.L.) et Quincaillerie Beaubien Inc. c. Canada, [2002] A.C.I. no 428 (Q.L.).
+[18] L'alinéa 5(2)i) et le paragraphe 5(3) de la Loi se lisent ainsi :
+5(2) N'est pas un emploi assurable :
+...
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+5(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[19] Le débat n'est pas de savoir si les travailleurs sont des employés ou des travailleurs autonomes. Le revenu est un revenu d'emploi. Ils reçoivent des salaires de l'appelante. Il s'agit de savoir si les conditions d'emploi des travailleurs seraient les mêmes ou similaires à celles d'employés qui n'auraient pas de lien avec l'employeur.
+[20] La preuve a clairement révélé que le salaire des travailleurs n'est pas en fonction du travail exécuté, mais en fonction de leur qualité de propriétaires de l'entreprise. Ce sont les travailleurs qui déterminent eux-mêmes leurs propres salaires. Si un des travailleurs en question quitte l'entreprise, il ne sera pas remplacé par une personne ayant droit aux même privilèges. Ce sont des gens sûrement très responsables, mais le salaire ne serait évidemment pas celui qu'ils reçoivent s'ils n'étaient liés à l'appelante. Ils ont d'excellents employés et le salaire de ces derniers est le salaire normal de gens faisant le même travail. Ce n'est pas celui des frères Hélie.
+[21] La preuve a aussi révélé que les frères Hélie ne rendent pas compte à l'appelante de leur horaire de travail. Les heures et les jours de travail sont à leur discrétion.
+[22] Je me reporte à une décision citée par l'avocat de l'intimée, celle dont les faits pourraient se rapprocher le plus des présentes circonstances, soit la décision dans Roxboro Excavation Inc. (supra), toutefois cette décision a été rendue en fonction du paragraphe 5(1) de la Loi. Il s'agissait de savoir si les travailleurs étaient employés ou des travailleurs autonomes et il a été décidé qu'ils étaient des employés. Ce n'est pas la disposition qui est sous étude dans la présente affaire.
+[23] Je trouve quand même d'intérêt de rappeler les propos du juge Marceau dans la décision Scalia c. Canada (ministre du Revenu national - M.R.N.) (C.A.F.), [1994] A.C.F. no 798 (Q.L.), concernant le rapport d'indépendance nécessaire à la création d'un véritable lien de subordination et le corollaire de cette absence d'indépendance stipulé à l'alinéa 5(2)i) et le paragraphe 5(3) de la Loi :
+4 À l'analyse de la preuve, cependant, on constate que le requérant avait sur la compagnie, sur ses activités, sur les décisions de son bureau de direction composé de lui-même, de son neveu et de sa belle-soeur, un ascendant tel qu'entre lui-même et la compagnie ne pouvait exister ce rapport d'indépendance nécessaire à la création d'un véritable lien de subordination. Il aurait peut-être été plus facile pour le juge de se référer comme le Ministre à l'exclusion en vigueur au temps pertinent du paragraphe 14a) du Règlement telle qu'interprétée et appliquée par la jurisprudence, mais l'approche du juge, en définitive, n'était pas erronée puisque le contrôle que la personne morale locataire des services peut exercer sur celui qui la domine complètement est plus fictif que réel (comme le confirmait le législateur en 1990 en adoptant les nouveaux alinéas 3(2)c) et d) de la Loi). Le raisonnement du juge n'est donc pas erroné et nous aurions tort de rejeter sa conclusion au seul motif du manque de clarté ou de l'équivoque de son raisonnement.
+[24] Je cite également le juge Marceau dans la décision de la Cour d'appel fédérale dans Légaré (supra), paragraphe 4 :
+4 La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[25] Il a repris les mêmes propos dans Pérusse (supra) aux paragraphes 13 à 15 :
+13 Il est clair, en lisant les motifs de la décision, que pour le président du tribunal l'objet de son enquête était de savoir si le ministre avait « judicieusement » , selon l'expression consacrée, exercé la discrétion que la Loi lui accorde de « reconnaître la non-exclusion » d'un contrat entre personnes liées. Il lui fallait donc examiner si la décision avait été prise de bonne foi, sur la base de faits pertinents révélés par une enquête sérieuse, et non sous l'influence indue de considérations étrangères. Ainsi, dès le départ, à la page 3 de ses motifs, le juge écrit :
+La détermination dont fait l'objet le présent appel résulte du pouvoir discrétionnaire prévu par les dispositions de l'article 3(2)(c) de la Loi qui se lit comme suit :
+L'appelante devait relever, par prépondérance de la preuve, le fardeau de preuve à l'effet que l'intimé n'avait pas, lors de l'évaluation du dossier, respecté les règles de l'art relatives à la discrétion ministérielle, une réponse négative ayant pour effet d'empêcher toute intervention de ce tribunal.
+Et finalement sa conclusion, à la page 16 :
+Pour ce qui est de l'appel, je ne puis y faire droit étant donné que l'appelante n'a pas fait la preuve que l'intimé avait mal exercé sa discrétion.
+14 En fait, le juge agissait dans le sens que plusieurs décisions antérieures pouvaient paraître prescrire. Mais cette Cour, dans une décision récente, s'est employée à rejeter cette approche, et je me permets de citer ce que j'écrivais alors à cet égard dans les motifs soumis au nom de la Cour (Francine Légaré c. M.R.N., cause no A-392-98, et Johanne Morin c. M.R.N., [1999] A.C.F. No. 878, cause no A-393-98, datées du 28 mai 1999, non rapportées, au paragraphe 4.) :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+15 Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[26] Il appartient donc à cette Cour de vérifier si les faits retenus par le Ministre étaient exacts et, si exacts ou non, s'ils ont été appréciés correctement en tenant compte du contexte où ils sont survenus. Selon le paragraphe 4 de la Réponse, le Ministre a considéré que chacun des travailleurs recevait pour environ 60 heures de travail une rémunération raisonnable. Or, la preuve a révélé que les heures de travail variaient et étaient à la discrétion du travailleur. Le nombre de jours de vacances était aussi à la discrétion du travailleur. Il ne s'agit pas là de conditions normales d'emploi.
+[27] Quant à la rémunération, elle était augmentée ou diminuée en fonction des profits de l'entreprise ou en fonction des besoins en capital de l'appelante. La rémunération n'était pas en fonction du travail exécuté, ce qui n'était pas le cas des employés non propriétaires oeuvrant dans les mêmes domaines que les travailleurs en question. Par exemple, il n'est jamais arrivé que le salaire de ces employés soit doublé sur plusieurs semaines à la fin de l'année fiscale.
+[28] L'alinéa 4 b) de la Réponse parle d'un droit de contrôle de l'appelante sur les travailleurs. Il ne s'agit pas dans le contexte de l'analyse de l'alinéa 5(3)b) d'un critère pertinent. C'est ainsi que s'est exprimé le juge Dussault de cette Cour dans Marché du Faubourg Ste-Julie Inc. c. Canada (ministre du Revenu national - M.R.N.) [2003] A.C.I. no 513 (Q.L.). Le contrôle est un critère pertinent en fonction du paragraphe 5(1) de la Loi. De toute façon, la preuve a révélé une grande autonomie de la part des travailleurs, mais il faut tout de même penser qu'il fallait que les frères Hélie travaillent de concert pour que leur entreprise fonctionne bien.
+[29] Bref et somme toute, je suis d'avis qu'il n'était pas raisonnable de conclure que compte tenu de toutes les circonstances dont notamment la rétribution versée et les modalités de l'emploi, que l'appelante aurait conclu un contrat de travail à peu près semblable avec les frères Hélie, s'ils n'y avaient eu un lien de dépendance entre elle et les frères ou en d'autres termes si ces derniers n'avaient été les propriétaires de l'appelante.
+[30] L'appel est accordé et les décisions du Ministre sont infirmées.
+Signé à Ottawa, Canada, ce 22e jour de juillet 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI512
+No DU DOSSIER DE LA COUR :
+2004-376(EI)
+INTITULÉ DE LA CAUSE :
+Autobus Hélie Inc. et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 13 juillet 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 22 juillet 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+Alain Savoie
+Avocat de l'intimé :
+Me Simon Petit
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

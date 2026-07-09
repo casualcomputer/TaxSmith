@@ -1,0 +1,177 @@
+---
+title: "Jennings v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109214/index.do"
+last_modified: "2015-04-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 96"
+citation2: ""
+neutral_citation: "2015 TCC 96"
+decision_date: "2015-04-17"
+language: "en"
+item_id: "109214"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2864
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:24:30.329000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "69d7d8ea577935f59eeb2aae96e0b022913e8df25095214332a3e00832e9db4e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jennings v. The Queen
+
+- Citation: 2015 TCC 96
+- Decision date: 2015-04-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2864, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jennings v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-04-17
+Neutral citation
+2015 TCC 96
+File numbers
+2014-3694(IT)I, 2014-3695(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3694(IT)I
+BETWEEN:
+RICHARD JENNINGS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Madeleine Jennings on April 15, 2015 at Ottawa, Ontario
+Before: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Dean E. Blachford
+Counsel for the Respondent:
+Gabrielle White
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2010 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the deduction claimed for expenditures relating to a zoning amendment on a rental property.
+Costs are awarded to the appellant, with one set of counsel fees for the appeals heard together.
+Signed at Ottawa, Ontario this 17th day of April 2015.
+“J.M. Woods”
+Woods J.
+Docket: 2014-3695(IT)I
+BETWEEN:
+MADELEINE JENNINGS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Richard Jennings on April 15, 2015 at Ottawa, Ontario
+Before: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Dean E. Blachford
+Counsel for the Respondent:
+Gabrielle White
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2010 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the deduction claimed for expenditures relating to a zoning amendment on a rental property.
+Costs are awarded to the appellant, with one set of counsel fees for the appeals heard together.
+Signed at Ottawa, Ontario this 17th day of April 2015.
+­­­­­­­­“J.M. Woods”
+Woods J.
+Citation: 2015 TCC 96
+Date: 20150417
+Docket: 2014-3694(IT)I
+BETWEEN:
+RICHARD JENNINGS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2014-3695(IT)I
+AND BETWEEN:
+MADELEINE JENNINGS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Richard and Madeleine Jennings appeal in respect of assessments under the Income Tax Act that denied deductions for expenditures made in relation to a zoning matter on a rental property. In aggregate, the expenditures are $13,464.26 for application fees for a zoning change and $7,686.26 for related consulting fees.
+[2] The question to be decided is whether the expenditures are on income account, as submitted by the appellants, or on capital account, as submitted by the respondent.
+Background facts [3] In 1987, the appellants purchased a residential property in Ottawa that had three rental units, including one in the basement. The property was purchased solely as a rental property. The appellants assumed the three tenancies.
+[4] When purchasing the property, the appellants relied on a report on zoning from the City of Ottawa (the “City”) that seemed to suggest that there were no zoning violations.
+[5] Six years later, in 1993, the appellants received a notice of violation of zoning by-laws from the City. The nature of the alleged violation was set out in a letter (Ex. R-1) as follows:
+[…] the previous use of the property, as a legal non-conforming duplex, is also no longer permitted given that the building was converted to a three unit dwelling without prior approvals. The only means of legalizing the property as either a three unit converted dwelling or as a duplex would be to apply for a zoning amendment to request that these uses be permitted. […]
+[6] To the appellants’ surprise, the City was taking the position that the property could only have one rental unit under existing laws. It appeared that the alleged violation occurred when the basement began to be ­­­­­­­­­­­­­­­­­rented, which was prior to the appellants’ ownership.
+[7] Soon after, the appellants applied for rezoning “to legalize the property as a three unit converted dwelling” (Ex. R-2). In the application, the appellants mention that the property had been assessed property tax since 1980 as a three-unit building, and that the City had informed the appellants that the property enjoyed non-conforming rights.
+[8] Consideration of the application was delayed for several years through no fault of the appellants and the existing use of the property was permitted during this period because an application was pending.
+[9] The appellants were required to make a new application in 2010, which they did with the assistance of a planning consultant. The expenditures at issue relate to application fees for this application and the related fees of the planning consultant.
+[10] The application was approved in 2010, and a zoning by-law was passed for use of the property as a duplex. According to the by-laws at the time, this enabled the property to also have a “secondary unit” which qualified the basement unit as well.
+Analysis [11] The question to be decided is whether the zoning-related expenses incurred in 2010 are on current or capital account. There is no bright line test for this – each case depends on its own particular facts. In this case, the question is whether the expenditures are an ordinary expense incurred in the management of the property or whether they are extraordinary expenses designed to achieve an enduring benefit.
+[12] The appellants essentially argue that the expenditures are on current account because the zoning amendment did not expand their use of the property.
+[13] It is submitted that the appellants had the right to use the property as a duplex in 1987, and the zoning by-law entrenched this right in 2010. The qualification of the basement unit was a matter of permitted use under an existing by-law and was not part of the application. What the expenditures achieved from the appellants’ perspective was to ward off losing their right to use the property as they historically had done.
+[14] I would first comment that the classification of the expenditures as current or capital should not turn on the niceties of the legal rights relating to the property. It is the nature of the expenditures from a practical perspective that should govern (Johns-Manville Canada Inc. v. The Queen, 85 D.T.C. 5373, at page 5383).
+[15] According to the evidence, which I accept, the appellants applied for the zoning amendment in 1993 and again in 2010 as the best way of dealing with the notice of zoning violation and in accordance with professional advice.
+[16] From a practical perspective, the appellants were doing what was appropriate from time to time to ensure compliance with City by-laws. This was an activity that was part and parcel of the day-to-day management of the rental property. Zoning compliance was on ongoing matter from the time the property was acquired in 1987, until the zoning amendment was finally approved in 2010. I understand that the appellants tried to avoid having a new application in 2010, but the City required them to go through a new process.
+[17] Throughout this whole period, the use of the property did not change.
+[18] In my view, the expenditures should be viewed as ordinary expenditures incurred in connection with the day-to-day management of the rental property. It is true that the expenditures would likely have a long term benefit in the sense that the property was now clearly in compliance with existing by-laws. However, I do not think that this should tip the balance to result in the expenditures being non-deductible capital expenditures.
+[19] The appeals will be allowed, with costs to the appellants based on one set of counsel fees.
+Signed at Ottawa, Ontario this 17th day of April 2015.
+“J.M. Woods”
+Woods J.
+CITATION:
+2015 TCC 96
+COURT FILE NOS.:
+2014-3694(IT)I
+2014-3695(IT)I
+STYLES OF CAUSE:
+RICHARD JENNINGS and HER MAJESTY THE QUEEN
+MADELEINE JENNINGS and HER
+MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+April 15, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENTS:
+April 17, 2015
+APPEARANCES:
+Counsel for the Appellants:
+Dean E. Blachford
+Counsel for the Respondent:
+Gabrielle White
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Dean E. Blachford
+Firm:
+Susan G. Tataryn Professional Corporation
+Ottawa, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,128 @@
+Title: Big Bird Trucking Inc.  v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127413/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-340-127413-big-bird-trucking-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2015-12-31
+
+# Big Bird Trucking Inc.  v. M.N.R.
+
+- Citation: 2015 TCC 340
+- Decision date: 2015-12-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3050, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Big Bird Trucking Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-12-31
+Neutral citation
+2015 TCC 340
+File numbers
+2015-1041(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2015-1041(EI)
+2015-1051(CPP)
+BETWEEN:
+BIG BIRD TRUCKING INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard on December 15, 2015 at Calgary, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Dan Misutka
+Jean-François Perrouty
+Counsel for the Respondent:
+Mary Softley
+JUDGMENT
+The appeals, made pursuant to subsection 103(1) of the Employment Insurance Act and subsection 28(1) of the Canada Pension Plan, are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Mr. R. Hyatt, Mr. D. Gilroy and Mr. M. Vinette were not employees.
+Signed at Ottawa, Canada, this 31st day of December 2015.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2015 TCC 340
+Date: 20151230
+Dockets: 2015-1041(EI)
+2015-1051(CPP)
+BETWEEN:
+BIG BIRD TRUCKING INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Mr. Corbeil is the owner of the Appellant, Big Bird Trucking Inc. (“Big Bird”). In 2013 the Appellant contracted with three individuals, Mr. R. Hyatt, Mr. D. Gilroy and Mr. M. Vinette to drive the Appellant’s trucks. Mr. Corbeil maintains they were hired as contract drivers - independent contractors. The Minister of National Revenue (the “Minister”) takes the view that for Employment Insurance Act (“EI Act”) and Canada Pension Plan (“CPP”) purposes the drivers were employees of the Appellant and ruled accordingly. The Appellant appeals those decisions.
+[2] Mr. Corbeil operated as a sole proprietor until 2013. In that year, he was presented with an opportunity to obtain a lucrative contract with Canada North Camps for the hauling of camp shacks from Surprise, Arizona to northern Alberta. Mr. Corbeil incorporated Big Bird. Big Bird had two trucks at the time. Mr. Corbeil determined he needed two additional trucks to provide the hauling service required by this contract. He also determined he needed drivers and, therefore, advertised on Kijiji for qualified drivers to assist in fulfilling this contract. Messrs. Gilroy, Hyatt and Vinette responded to this ad. Mr. Gilroy was the only driver to testify.
+[3] Mr. Corbeil certainly intended to hire the drivers as independent contractors. He testified that he advised them of that arrangement upfront, requiring not only their professional qualifications, licences, log books and experience but also that they have or obtain a GST number. Mr. Corbeil also stated it was made clear to the drivers at the outset that they were free to drive elsewhere or accept other customers when there were no loads to be hauled for Canada North Camps. He indicated the drivers were advised they had to remit invoices after each load, hauled at a rate of $1,800 per load. While under contract with Big Bird, the drivers could keep control of the truck. Mr. Corbeil even suggested the drivers could use Big Bird’s trucks for other jobs provided he got a cut. As will be seen shortly, this aspect of the deal was not reflected in the written agreement. He also testified he advised the drivers they could hire replacement workers provided they were properly qualified. No such workers were ever hired by the three drivers. Mr. Gilroy testified he did not believe he had that option.
+[4] Mr. Corbeil testified that the drivers had to sign an agreement. Three agreements were presented at trial, all identical except for the names and dates. Mr. Gilroy’s was dated September 1, 2013, on the front page, while the signature page, which he acknowledged signing, was dated September 2, 2013. He started work in July and claimed he did not sign for a couple months and only did so when in Montana on the way home because Mr. Corbeil insisted he sign. He claims to have signed under duress.
+[5] Mr. Hyatt’s agreement is dated on the face, but undated on the signing page, though it appears Mr. Hyatt signed. Mr. Vinette’s agreement is dated July 15, 2013 but is unsigned. Mr. Corbeil maintains Mr. Vinette agreed to the terms initially but then refused and left the truck somewhere in southern Alberta. Mr. Corbeil had to go get it.
+[6] What did the written agreement stipulate? It is not long and I have therefore attached a copy as Appendix “A” to these Reasons. It is an unusual document, apparently more concerned with hammering home the independent contractor nature of the arrangement than setting out much detail of the arrangement. There is no indication of the rate of remuneration for the driver; there is no detail of what constitutes “normal” expenses that would be reimbursed; there is no minimum of loads to be offered; there is no rate of remuneration for Big Bird if the drivers use the trucks for jobs other than for Big Bird customers; references are made to a policy and procedures manual and safety policies, neither of which were produced; and there is no detail on how the layovers were to be treated. There is simply an agreement that a driver may be offered loads by Big Bird, which the driver may refuse or accept, and if he accepts he can get another driver to do the work. If the driver accepts the load, Big Bird will provide the truck and trailer and insurance. To be paid for a load the driver is required to submit an invoice. That is it.
+[7] Mr. Corbeil explained that the drivers were paid $1,800 for a load for delivering goods from Surprise, Arizona to Edmonton, with an additional $30 per hour for any time spent hauling beyond that. The trip normally took about a week: the drivers were paid no more if it took longer. They would be paid for layovers for which the customer (Canada North Camps) would be responsible, and if the customer did not pay then Big Bird could not pay the drivers. With respect to expenses, the driver could incur minor expenses without prior approval, though for more major repairs, Mr. Corbeil had to be provided a quote. Mr. Gilroy testified every expense needed approval.
+[8] It is clear Mr. Corbeil ran a small operation. He had no dispatcher. He suggested he simply provided “the iron”. I do not see it quite that way. He provided the iron certainly, but he also offered loads from this one major contract. That is what he hired the drivers for.
+[9] With respect to invoices, copies were presented in court. Mrs. Patchett, Big Bird’s bookkeeper, acknowledged the drivers were provided a template. Mr. Gilroy confessed to never having seen the invoices.
+[10] With respect to training, if a driver required safety training and could not afford it, Big Bird would assist. Mr. Gilroy needed such help and did not repay any such fee.
+[11] Big Bird also provided the drivers with a fuel card which would save a few cents per litre, though it was ultimately the customer who paid for the fuel.
+[12] Mr. Gilroy clearly was not one for paying a great deal of attention to detail. My impression was that he saw a good deal and signed up. He did apply for a GST number and did sign the agreement, claiming it was under duress. He never completed the GST returns or remitted GST. He professed to not running his own business and could not recall how he reported income for 2013, as he left that to his accountant.
+[13] Were these drivers independent contractors or employees of Big Bird? There has been considerable jurisprudence on this issue from the well-worn test in Wiebe Door Services Ltd. v M.N.R.[1] to the Supreme Court of Canada’s comments in Sagaz Industries Canada Inc. et al v. 671122 Ontario Limited,[2] the introduction of the factor of intent in Royal Winnipeg Ballet v M.N.R.[3] and the massaging of that by the Federal Court of Appeal in 1392644 Ontario Inc. (Connor Homes) v Canada.[4] With all this guidance as to what factors to consider and how to structure the analysis, there will be cases, and I suggest this is one of them, where the nature of the work is such that it could readily be structured with not much tweaking to be either a contract of service or a contract for services. The written employment agreement, which Big Bird relies on heavily to support its position of independent contractor, would be an appropriate starting point had both Big Bird and the drivers willingly signed it reflecting their intentions and understanding. I have not been convinced it was entered into on that basis, given Mr. Vinette did not sign and Mr. Gilroy signed it unwillingly, admitting to not having read it. There is no evidence with respect to Mr. Hyatt’s circumstances of signing the agreement. I put little weight on the agreement as reflecting the three drivers’ intentions. What it is not, however, is reflective of an employment agreement, not because of the independent contractor-like language which I interpret as so much window dressing, but because it is just so loose. It is effectively an arrangement that Big Bird will provide their trucks to the drivers if the drivers accept their offers of the Canada North Camp loads. The drivers can refuse or accept, and can work elsewhere if the mood strikes. In this regard, I note Mr. Gilroy went to help a relative operate a farm rather than take a load under this arrangement. The very basic premise of the work arrangement is just too unlike an employment agreement. There is a lack of commitment on either side, a lack of security, a lack of continuity and inherent risk that one seeking employment would find unattractive, while a business person could view it as a fallback, fill-in-the-work-gaps opportunity. All to say, the starting point, not so much from the “intention” perspective, but simply from the perspective of the nature of such a loose arrangement does not inherently have the nature of employment.
+[14] So, to borrow from the Federal Court of Appeal’s term of looking at the usual factors (control, ownership of equipment, risk of loss and chance of profit) through a prism, it is through the prism of this loose arrangement. Do the factors, objectively viewed, support a contract of an independent contractor nature; that is, did Big Bird engage the three drivers as persons in business on their account, being the business of driving?
+Control [15] The Respondent argues that Big Bird controlled the load to be shipped, where it was to be delivered, what repairs were approved as well as requiring copies of log books. These factors, cited by the Respondent as going to control, do not really evidence to me control of the drivers. Whether an employee or independent contractor, a driver could not dictate to the shipper what load is to be shipped, nor suggest it is to be delivered somewhere other than where the shipper wants it delivered. With respect to repairs, that goes to the Appellant’s hauling business, maintaining the good condition of its main assets. It does not necessarily relate to a driver’s business of driving. Keeping a log book is more the driver’s requirement and providing a copy to the Appellant is not suggestive of control. No, I conclude that with respect to qualified, professional, experienced drivers, control in this case is not a significant indicator one way or the other – a similar conclusion reached in a similar situation faced by the Federal Court of Appeal in TBT Personnel Services Inc. v Her Majesty the Queen.[5]
+Equipment [16] It is not implicit that a professional driver cannot be in business without providing him or herself with a vehicle. The drivers provided the services of driving which required the necessary qualifications and licence, and in this case, the provision of some tools. To suggest that because they did not own the trucks they were in the truck owner’s employ, presumes there is only one business in issue and that is the transport business. This fails to acknowledge the possibility the drivers could be in the driving business. I do not conclude ownership of the truck by Big Bird necessarily favours employment.
+Hiring replacement drivers [17] Similar to the finding in TBT, while Mr. Corbeil suggested, and the written agreements corroborated, the drivers could hire other drivers, no one did. I give this little weight.
+Risk of loss [18] I differentiate this from the TBT decision which puts significant weight on the ownership of the trucks and the fact the drivers face no risk related to the investment in the trucks. Again, this presupposes the truck to be part of the driver’s business. In TBT, the court discounts the risk of damage due to the driver’s own negligence. Surely there is some risk in that regard.
+[19] The risk, however, in entering this loose arrangement is that no loads are offered by Big Bird and the driver is left to seek loads elsewhere. Further, if Canada North Camps refuses for whatever reason to pay Big Bird for the cost of layovers, Big Bird would not pay the drivers. This is some risk. I conclude this factor slightly favours independent contractor.
+Degree of responsibility for investment and management [20] The drivers required little investment in whatever was required to meet their driving obligations. Further, management of their work was likewise limited. Invoices were prepared and submitted though the evidence was contradictory as to who did it. Mrs. Patchett admitted Big Bird prepared a template, but it was left to the drivers to complete and submit the invoices. I am not convinced Mr. Gilroy, for one, did. This factor points more to employment.
+Chance of profit [21] The drivers were paid $1,800 a load which usually took about a week. There is little evidence regarding the negotiation of the rate, though Mr. Gilroy stated the rate was better than many. There was also no evidence suggesting a driver could more efficiently drive the load so that it would take less than a week. What the loose arrangement did permit, however, was for a driver to arrange his own time however he wished to take advantage of other opportunities if presented. I conclude this factor is not strongly determinative one way or the other.
+[22] As I indicated at the outset, there are certain arrangements that could be viewed in either light depending which way the sun is shining. Stepping back and looking at the realities of what was going on here, there is effectively a one-man trucking operation who needs drivers to fulfill an attractive contract. There is no dispatcher in the trucking business. A very loose agreement is entered into for qualified professional drivers to drive loads that may be offered to them. That is all. One side clearly was just looking for the drivers’ services. It is unclear what the drivers believed to be the arrangement. The traditional factors are not as helpful as they can sometimes be, but I tip the balance slightly towards independent contractor: the drivers were in the business of providing driving services.
+[23] The appeals are allowed and referred back to the Minister on the basis that under the provisions of the EI Act and CPP legislation the drivers were not employees.
+Signed at Ottawa, Canada, this 31st day of December 2015.
+“Campbell J. Miller”
+C. Miller J.
+SCHEDULE “A”
+CITATION:
+2015 TCC 340
+COURT FILE NOS.:
+2015-1041(EI), 2015-1051(CPP)
+STYLE OF CAUSE:
+BIG BIRD TRUCKING INC. and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+December 15, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+December 31, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Dan Misutka
+Jean-François Perrouty
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Names:
+Dan Misutka
+Jean-François Perrouty
+Firm:
+Deloitte Tax Law LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 87 DTC 5025.
+[2] 2001 SCC 59.
+[3] 2006 FCA 87.
+[4] 2013 FCA 85.
+[5] 2011 FCA 256.

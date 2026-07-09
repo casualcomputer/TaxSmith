@@ -1,0 +1,137 @@
+Title: Thill v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30372/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-280-30372-thill-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-05-30
+
+# Thill v. The Queen
+
+- Citation: 2011 TCC 280
+- Decision date: 2011-05-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7890, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thill v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-30
+Neutral citation
+2011 TCC 280
+File numbers
+2008-1482(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1482(IT)G
+BETWEEN:
+BERNICE THILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 14, 2010 at Vancouver, British Columbia
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Patrick William Watson
+Counsel for the Respondent:
+Elizabeth (Lisa) McDonald
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the Appellant’s 2005 and 2006 taxation years is dismissed.
+Costs are awarded to the Respondent.
+Signed at Saskatoon, Saskatchewan, this 30th day of May, 2011.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2011 TCC 280
+Date: 20110530
+Docket: 2008-1482(IT)G
+BETWEEN:
+BERNICE THILL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Appellant, Bernice Thill, has appealed notice of reassessments in respect of her 2005 and 2006 taxation years. The issues before the Court are whether the Appellant failed to report income in the amounts of $353,000 and $164,551 for the 2005 and 2006 taxation years (the “Unreported Income”) and whether the Minister properly imposed gross negligence penalties under subsection 163(2) of the Income Tax Act (the “Act”) in respect of the Unreported Income.
+[2] The parties filed a Statement of Agreed Facts (Partial) (the “SAF”), which is attached hereto as Appendix A. In addition, I heard testimony from two witnesses, the Appellant and Ms. Shellen Leung, an auditor with the Canada Revenue Agency (the “CRA”).
+[3] I found the Appellant’s testimony to be vague, inconsistent, and contradicted by the objective documentary evidence before me. In short, I did not find her to be a credible witness.
+[4] I found Ms. Leung to be a credible witness.
+Summary of Relevant Facts
+[5] The Appellant was married to Mr. Henry Thill. Mr. Thill died on June 10, 2006. The Unreported Income relates to amounts deposited in the Appellant’s bank accounts by two corporations that were incorporated by Mr. Thill, Prime Packaging Ltd. (“Prime”) and Quadrant Management Systems Ltd. (“Quadrant”).
+[6] The Appellant described her husband’s business as promoting tax shelters or tax schemes.[1] One of these tax shelters appears to have involved Prime, Quadrant, the Canadian Literacy Enhancement Society (“CLES”), a Canadian charity and Reading Enhancement and Development (“READ”), a U.S. charity. It is clear from the evidence before me that substantial amounts of money were paid by CLES and READ to Prime and Quadrant.
+[7] The Appellant was a director of CLES. She signed cheques that transferred some of the funds from CLES and READ to Prime and Quadrant.
+[8] The Appellant testified that she has been a realtor since 1990. However, it appears that she did not earn any income from real estate activities in 2005 and 2006.
+[9] On her 2005 tax return, she reported a single source of income; business income of $120,000, comprised of “net sales, commission or fees” from Prime. No expenses were deducted from the $120,000 of gross income.
+[10] On her 2006 tax return, she also reported a single source of income; business income of $12,743. This business income was comprised of $8,243 of net sales, commissions or fees from Quadrant and $4,500 of net sales, commissions or fees from TCOB Management.[2] No expenses were deducted from the $12,743 of gross income.
+[11] When first asked about her 2005 and 2006 tax returns, the Appellant did not recall reviewing the returns before they were filed with the CRA. However, once counsel for the Respondent drew her attention to her signature on her 2005 tax return, she remembered that she had indeed reviewed the return.
+[12] It was the Appellant’s testimony that she did not know where the information contained in the tax returns “came from”. She was just given a copy of the returns by her accountant. The returns were filed and she wrote a cheque for the tax owing.
+[13] She did appear to accept that the $120,000 of business income from Prime was properly reported on her 2005 income tax return. She referred to the amount as money that her husband had deposited in her bank account as management fees[3].
+[14] The Appellant’s 2005 and 2006 income tax returns were filed after her husband passed away.
+[15] As noted previously, the issue in this appeal is whether certain amounts deposited into the Appellant’s bank account constituted income to the Appellant. One of the bank accounts was maintained at the Prospera Credit Union (the “Prospera Account”) and the second bank account was maintained at the Royal Bank of Canada (the “RBC Account”). The Appellant was the sole signatory of both the Prospera Account and the RBC Account. The Appellant noted that her husband had not maintained a bank account for a “long, long time” because he “owed a lot of money to Revenue Canada, and he was aware that if he kept a personal bank account, Revenue Canada would take the money.”[4]
+[16] The Appellant admitted that $548,157 was deposited in her bank account by Prime and Quadrant in 2005 and 2006[5] (the “Deposits”). Further, she admitted that in 2006, cheques totalling $97,637.39 were issued by Prime to Chrisdale Homes Ltd. for renovation work performed on the Appellant’s home.[6] It is these amounts (minus the amounts reported on her 2005 and 2006 tax returns) that constitute the Unreported Income.
+[17] The Appellant testified that she did not do anything to initiate the payments. The amounts were deposited into her account by her late husband. She testified that although her husband was not a signatory of the account he deposited amounts into it by phone transfer.
+[18] It was the Appellant’s testimony that her husband deposited the amounts to allow her to pay the household bills. She also noted that her husband determined the payment of amounts out of the bank accounts.
+[19] It was the Appellant’s testimony that she did not work for Prime or Quadrant and that she was not a director of either company.
+[20] She noted that her husband made her a signing officer for Quadrant’s bank accounts after he became ill.
+[21] I do not accept the Appellant’s testimony. After considering all of the evidence before me, I find that the Appellant was indeed involved in the businesses of both Prime and Quadrant and the amounts deposited into her account constituted income she had earned from these companies.
+[22] She was an officer of Quadrant and had signing authority for its bank account. Also she was a director of CLES, the charity that paid significant amounts to Prime and Quadrant. Further she was the executor of her husband’s estate. Her statements that she was not aware of the business operations of Prime and Quadrant are simply not credible.
+[23] On her 2005 and 2006 income tax returns, the Appellant reported business income derived from Prime and Quadrant of nearly $130,000. The reporting of such income clearly contradicts her oral testimony that she was not involved in the activities of Prime and Quadrant.
+[24] In addition, a significant portion of the Deposits were deposited into her bank account after her husband passed away and at a time the Appellant had signing authority for the Quadrant bank account. Clearly, these amounts were not deposited at the direction of her husband. Amounts were also paid to her by Prime after her husband’s death. The Appellant stated that she was not sure how this occurred. She did not have signing authority over the Prime bank account. She thought that perhaps her husband had left her a “few” blank cheques. This is another example of testimony of the Appellant that was not credible.
+[25] In the fall of 2005, the Appellant applied for a mortgage with the Prospera Credit Union. The mortgage was for $305,000 and it was secured by the home that the Appellant owned in Richmond, British Columbia.
+[26] The loan officer at Prospera Credit Union made the following comments in an internal memo summarizing her meeting with the Appellant and her husband:
+. . . Capacity: GDS_TDS 33% based on [the Appellant’s] income only of $120K confirmed by 2004 tax assess. (exception). Income is from their jointly held company Prime Packaging acct#1816560. Mbrs have not provided us with financial statements as they claim they are in storage and do not show a profit for tax reasons. Account activity shows $4.24m in deposits annually. . . .[7]
+(Emphasis added)
+[27] The Appellant claimed that the above information is not correct; she did not own a part of the company. She stated that her husband provided the information. She did not know that Prime took in $4.2 million annually. She merely signed the documents. The Appellant is a sophisticated business person, a real estate agent and the director of a charity (CLES) that clearly raised significant amounts of money. I cannot accept that such a person would sign a document for a mortgage without discussing the matter with the loan officer.
+[28] The preceding provides examples of the Appellant’s testimony with respect to any contradictory written evidence presented to the Court. Either she had no idea what the documents were referring to or they were prepared by her late husband and are not accurate. I do not accept either of these explanations.
+[29] In summary, I conclude that the amounts deposited into the Appellant’s bank account by Prime and Quadrant were income to the Appellant.
+[30] In reaching this conclusion, I am satisfied that the amounts at issue were not included in her late husband’s return. The Appellant, as the executor of her late husband’s estate, filed his tax returns for 2005 and 2006. The amounts at issue were not included in these returns.
+Gross Negligence
+[31] Subsection 163(2) of the Act levies a penalty on
+[e]very person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act. . .
+Pursuant to subsection 163(3) of the Act, the burden of establishing the facts justifying the assessment is on the Minister.
+[32] As Justice Strayer stated in Venne v. the Queen, 84 DTC 6247 (FCTD), [1984] C.T.C. 223:
+. . . “Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[33] On the basis of the evidence before me, it is clear that the Appellant either intentionally failed to report the income at issue, or was completely indifferent as to whether the income should be reported. As a result, she knowingly, or under circumstances amounting to gross negligence, either made, or acquiesced in the making of, a false statement or omission on her tax returns for the 2005 and 2006 taxation years.
+[34] For the foregoing reasons, the appeal is dismissed with costs to the Respondent.
+Signed at Saskatoon, Saskatchewan, this 30th day of May, 2011.
+“S. D’Arcy”
+D'Arcy J.
+Appendix A
+CITATION: 2011 TCC 280
+COURT FILE NO.: 2008-1482(IT)G
+STYLE OF CAUSE: BERNICE THILL v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 14, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: May 30, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Patrick William Watson
+Counsel for the Respondent:
+Elizabeth (Lisa) McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Patrick William Watson
+Firm: Patrick W. Watson
+Richmond, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, page 53.
+[2] TCOB Management was a corporation incorporated by a Mr. Ed Cop, a long-time business associate of the Appellant’s late husband. TCOB took over the business of Quadrant.
+[3] Transcript, page 78.
+[4] Respondent’s Discovery Read-Ins, Questions 294 and 298.
+[5] Statement of Agreed Facts (Partial), para. 14.
+[6] Ibid, para. 15.
+[7] Respondent's Book of Documents, Tab 12.

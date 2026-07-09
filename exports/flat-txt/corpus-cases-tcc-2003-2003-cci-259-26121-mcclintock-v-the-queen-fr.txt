@@ -1,0 +1,215 @@
+Title: McClintock v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26121/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-259-26121-mcclintock-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-05-02
+
+# McClintock v. The Queen
+
+- Citation: 2003 CCI 259
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4116, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McClintock v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-02
+Référence neutre
+2003 CCI 259
+Numéro de dossier
+2000-4185(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2000-4185(IT)G
+ENTRE :
+WILLIAM J. McCLINTOCK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 11 et 12 février 2003 à Toronto (Ontario)
+Devant : l'honorable juge Gerald J. Rip
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Brent E. Cuddy
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1991 est admis et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait qu'Alias était une corporation privée dont le contrôle est canadien en 1990 et 1991, mais seulement si ladite nouvelle cotisation est favorable à l'appelant.
+L'appelant doit payer les frais de son appel.
+Signé à Ottawa, Canada, ce 2e jour de mai 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 7e jour de mars 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI259
+Date: 20030502
+Dossier: 2000-4185(IT)G
+ENTRE :
+WILLIAM J. McCLINTOCK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] William J. McClintock interjette appel d'une cotisation d'impôt sur le revenu pour 1991 au motif que le ministre du Revenu national (le « ministre » ) a commis une erreur en déterminant que la valeur des 24 338 actions ordinaires d'Alias Research Inc. ( « Alias » ) qu'il a vendues en 1991 était supérieure à 6 $ par action au 25 avril 1990 et au 5 juillet 1990.
+[2] Le ministre a en outre considéré que, après le 17 juillet 1990, Alias n'était pas une corporation privée dont le contrôle est canadien ( « CPCC » ) au sens du paragraphe 125(7) de la Loi de l'impôt sur le revenu (la « Loi » ) et que, par conséquent, l'appelant ne pouvait invoquer le paragraphe 7(1.1) de la Loi relativement à la disposition d'actions d'Alias en 1991; cela est contesté par l'appelant. Une CPCC est une corporation privée qui est une corporation canadienne qui n'est pas contrôlée par une personne non résidente ou par une corporation publique.
+[3] Le fait de déterminer si la valeur des actions ordinaires d'Alias était supérieure à 6 $ par action[1] au 25 avril 1990 et au 5 juillet 1990[2] permettra de trancher si le ministre a établi à juste titre la nouvelle cotisation à l'égard de l'appelant pour 1991 dans laquelle il :
+a) a augmenté de 36 358 $ l'autre revenu d'emploi déclaré par l'appelant;
+b) a réduit de 27 269 $ les gains en capital imposables déclarés par l'appelant; et
+c) a réduit de 69 560 $ le montant de la déduction au titre de l'option d'achat d'actions déclarée par l'appelant en vertu de l'alinéa 110(1)d) de la Loi.
+[4] M. McClintock est comptable agréé. Avant et après le 24 mai 1990, il était un cadre dirigeant d'Alias; il était directeur financier de la société et est par la suite devenu vice-président principal - Finance. Il a également été administrateur d'Alias jusqu'à la mi-mai 1990[3].
+[5] Pendant toute la période pertinente, Alias exploitait une entreprise de création et de commercialisation de logiciels avancés de conception industrielle assistée par ordinateur ( « CIAO » ). Son exercice se termine le 31 janvier. Le ministre a concédé que, jusqu'au 17 juillet 1990, lorsqu'Alias a effectué un premier appel public à l'épargne ( « PAPE » ) à l'égard de ses actions ordinaires sur le marché boursier américain NASDAQ, Alias était une CPCC. Après le 17 juillet 1990, la majeure partie des actions d'Alias était détenue par des non-résidents du Canada et, selon le ministre, Alias était dès lors contrôlée par des non-résidents et avait de ce fait cessé d'être une CPCC.
+[6] La Cour d'appel fédérale a décidé dans l'affaire Silicon Graphics Limited c. La Reine[4] qu'Alias était une corporation privée dont le contrôle est canadien durant les années d'imposition 1992 et 1993. La Cour d'appel fédérale a conclu qu'il n'y avait aucune preuve que les actionnaires non-résidents d'Alias avaient agi ensemble afin d'exercer le contrôle d'Alias : les actionnaires non-résidents ne possédaient pas le contrôle de droit d'Alias. D'après la preuve devant moi, les actionnaires non-résidents d'Alias n'ont pas agi différemment, après le 17 juillet 1990, qu'ils ne l'ont fait en 1992 et 1993. Alias était une CPCC après le 17 juillet 1990 et pendant toute la période pertinente aux fins du présent appel.
+[7] Par conséquent, pour ce qui est des options d'achat d'actions qu'il s'est vu accorder par Alias, M. McClintock pourrait invoquer les dispositions du paragraphe 7(1.1) de la Loi au seul motif qu'Alias était une CPCC, ce qui signifie que tout avantage tiré de la vente des actions qu'il a reçues d'un régime d'options d'achat d'actions d'Alias serait réputé avoir été reçu par lui au cours de l'année durant laquelle il a disposé des actions, et non durant l'année où il les a acquises.
+[8] En 1988, 1989 et 1990, M. McClintock s'est vu accorder des options par Alias pour acheter des actions ordinaires de celle-ci. Le 5 juillet 1990, il a levé quelques options et a acquis 6 544 actions ordinaires d'Alias, comme suit :
+Date
+de l'option
+Actions
+Prix
+par action
+Coût
+total
+20 avril 1988
+2 500
+1,70 $
+4 250,00 $
+20 avril 1988
+2 500
+2,50 $
+6 250,00
+1er mai 1989
+1 544
+2,50 $
+3 860,00
+6 544
+14 360,00 $
+[9] Le 31 mai 1991, M. McClintock a levé d'autres options et a acquis 17 794 actions ordinaires d'Alias, comme suit :
+Date
+de l'option
+Actions
+Prix
+par action
+Coût
+total
+20 avril 1988
+2 500
+6,00 $
+15 000,00 $
+1er mai 1989
+1 544
+6,00 $
+9 264,00
+25 avril 1990
+13 750
+6,00 $
+82 500,00
+17 794
+106 764,00 $
+[10] Le 31 mai 1991, M. McClintock a vendu les 6 544 actions ordinaires d'Alias qu'il avait acquises le 5 juillet 1990 et les 17 794 actions ordinaires d'Alias qu'il avait acquises le 31 mai 1991.
+[11] Le ministre soutient que la juste valeur marchande des 13 750 actions d'Alias était, au 25 avril 1990 et au 5 juillet 1990, de 11,556 $ l'action; l'appelant affirme que la valeur des actions à ces dates était de 6 $ l'action. L'appelant demande que les actions d'Alias soient considérées comme valant 6 $ chacune au 25 avril 1990 et au 5 juillet 1990 aux fins de l'alinéa 110(1)d) de la Loi. Cet alinéa prévoit un mécanisme permettant l'imposition des avantages tirés des options d'achat d'actions d'un contribuable au même taux que les gains en capital. En 1991, cela a été fait par une déduction de 25 pour cent de l'avantage qui est réputé, par le paragraphe 7(1), avoir été reçu par le contribuable durant l'année relativement aux actions acquises en vertu de la convention d'options d'achat d'actions.[5] L'une des conditions pour se prévaloir d'une déduction en vertu de l'alinéa 110(1)d), tel qu'il était rédigé en 1991, est que le montant que le contribuable doit payer pour acheter une action aux termes d'une convention d'options d'achat d'actions doit être au moins égal au montant par lequel la juste valeur marchande de l'action au moment de la conclusion de la convention excède le montant, le cas échéant, que le contribuable a payé pour acquérir le droit d'acheter l'action. Dans la cotisation établie à l'égard de M. McClintock pour 1991, le ministre a réduit le montant de la déduction demandée au titre de l'option d'achat d'actions.
+[12] M. McClintock a expliqué que, tous les ans, les administrateurs d'Alias déterminaient la juste valeur marchande des actions ordinaires d'Alias au mois d'avril de l'année en cours (l' « année de détermination » ) aux fins des divers régimes d'options d'achat d'actions ou programmes de participation des employés d'Alias[6]. La valeur ainsi déterminée correspond au prix pour lequel les participants aux programmes peuvent acquérir des actions au cours de l'année suivant l'année de détermination; ainsi, en 1990, un participant à un régime d'options d'achat d'actions pouvait acheter des actions au prix fixé en avril 1989.
+[13] Lors d'une réunion tenue le 25 avril 1990, le conseil d'administration a déterminé que la juste valeur marchande des actions ordinaires d'Alias était de 6 $ par action au mois d'avril 1990 aux fins des divers régimes d'options d'achat d'actions des employés d'Alias. Un protocole d'entente entre M. McClintock et Alias, en vigueur à compter du 25 avril 1990, confirmait que la juste valeur marchande des actions aux fins des régimes auxquels il participait avait été fixée à 6 $ par action, prix de levée de l'option en 1991, 1992 et 1993.
+[14] Selon M. McClintock, la détermination de la valeur des actions d'Alias pendant les années en cause était fondée notamment sur les états financiers d'Alias. À son avis, les administrateurs [traduction] « ont surestimé la valeur de l'entreprise » lorsqu'ils ont fixé la valeur des actions d'Alias en 1990 à 6 $ par action, étant donné qu'il y avait là [traduction] « une augmentation trop importante [des bénéfices] comparativement à l'année précédente » .
+[15] M. McClintock a témoigné que, le 25 avril 1990, Alias étudiait la possibilité, comme elle le faisait depuis un certain temps, d'offrir ses actions au public. Plusieurs de ses administrateurs étaient employés de sociétés d'investissement en capital de risque et possédaient de l'expérience avec des entreprises spécialisées dans la technologie. Ils étaient prêts à faire profiter de leur expérience avec des sociétés [traduction] « de même niveau » . M. McClintock a affirmé que deux sociétés d'investissement en capital de risque avaient investi dans Alias en 1987, en prévision d'une offre publique.
+[16] D'après le procès-verbal de la réunion du conseil d'administration tenue le 25 avril 1990, les gestionnaires d'Alias devaient [traduction] « poursuivre les préparatifs expéditifs en vue d'un premier appel public à l'épargne » à l'égard des actions d'Alias. Les services d'un avocat américain ont été retenus à cette fin. M. McClintock a toutefois insisté sur le fait que la décision relative à cet appel public n'avait pas encore été prise et que, rétrospectivement, il [traduction] « ne savait absolument pas que le PAPE aurait lieu dans un délai aussi court » . Il se souvenait que les états financiers intermédiaires pour la période terminée le 31 mars 1990, distribués aux administrateurs lors de la réunion, indiquaient pour la première fois qu'Alias était rentable. Une réunion avec des syndicataires n'a eu lieu qu'en mai 1990. Un prospectus provisoire déposé à la Securities and Exchange Commission ( « SEC » ) de Washington pour commentaires porte la date du 24 mai 1990. D'après les souvenirs de M. McClintock, aucune convention de prise ferme n'a été signée avant le 16 juillet 1990, à la veille de la vente des actions.
+[17] Les éléments de risque relatifs au placement dans Alias sont exposés dans le prospectus provisoire. Le marché de la CIAO en 1990 était récent et les changements technologiques se succédaient rapidement. La réussite de la société dépendait de son principal logiciel ainsi que du matériel et des services liés à ce produit. Son principal logiciel n'était exploité que sur un poste de travail de Silicon Graphics, et l'évolution de Silicon Graphics pouvait avoir une incidence sur Alias. Alias n'était rentable que depuis peu; elle s'était révélée rentable pour chacun des huit derniers trimestres d'exercice à compter du trimestre terminé le 31 juillet 1988, mais rien ne pouvait assurer que les bénéfices et le revenu poursuivraient cette tendance[7]. La réussite d'Alias dépendait de son principal personnel de gestion et de son principal personnel technique : la perte des services d'employés clés pouvait nuire à la société. Alias dépendait également de sa technologie logicielle brevetée. Comme l'a fait valoir M. McClintock, ces risques, et d'autres éléments de risque avaient pour effet de réduire la valeur des actions. Il a cependant reconnu que, en dépit des faibles résultats financiers obtenus par le passé, Alias possédait un [traduction] « produit exceptionnel » . Quoi qu'il en soit, malgré ces risques et les autres éléments de risque en jeu, les syndicataires avaient estimé dans le prospectus provisoire un prix pour le PAPE de 9 $US à 11 $US par action ordinaire[8].
+[18] M. McClintock a fait savoir que la société prévoyait embaucher des syndicataires pour effectuer une « tournée de présentation » en juillet 1990 en vue de faire connaître la société aux investisseurs et courtiers institutionnels et aux autres investisseurs et courtiers importants. On espérait que, d'ici là, les points faibles du prospectus provisoire auraient été corrigés.
+[19] Ce n'est que le 15 juillet 1990 que le conseil d'administration a rencontré les syndicataires et a accepté leur recommandation d'émettre les actions au prix de 13 $US chacune. La négociation des actions sur NASDAQ a commencé le 17 juillet à ce prix.
+[20] M. McClintock a expliqué que ses actions n'étaient pas liquides et qu'elles avaient pour lui une valeur inférieure à la valeur établie par le ministre. En sa qualité de directeur financier d'Alias, ses actions ont été « immobilisées » pendant 135 jours. Il a également mentionné une réunion du conseil d'administration d'Alias qui aurait eu lieu en avril 1990 et au cours de laquelle il avait été décidé que, dans le cas d'un PAPE, les participants au régime d'actionnariat à l'intention des employés de 1990 et aux régimes antérieurs ne seraient pas autorisés à vendre leurs actions au cours des 180 jours suivant l'offre. La période de 135 jours a pris fin le 29 novembre 1990 et la période de 180 jours a pris fin le 13 janvier 1991. Par la suite, durant une période de quatre jours (14, 15, 16 et 17 janvier 1991), M. McClintock pouvait lever ses options et vendre des actions. M. McClintock a déclaré qu'il n'avait pas eu connaissance de cette période de vente de quatre jours. Il se souciait également du fait que la publication des rapports financiers d'Alias influerait sur le moment à partir duquel il pourrait vendre ses actions. Il croyait que le 5 avril 1991 était le premier jour où il pouvait vendre ses actions.
+[21] En contre-interrogatoire, M. McClintock a affirmé qu'un rapport d'évaluation des actions ordinaires d'Alias avait été préparé avant la réunion des administrateurs tenue le 25 avril 1990. Il a reconnu que le procès-verbal de la réunion ne faisait pas mention de cette évaluation. Il n'était pas en mesure de témoigner sur la nature de ce rapport. Le témoin cité par M. McClintock, M. Bohdan Myroskiv Mocherniak, a témoigné qu'il avait [traduction] « compris » qu'un rapport d'évaluation provisoire des actions d'Alias préparé par Duff & Phelps Financial Consulting Company avait été présenté aux administrateurs d'Alias lors de la réunion du 25 avril. Cependant, M. Mocherniak n'a pas vu le rapport provisoire et ne sait pas quelles valeurs y figurent. M. McClintock et l'intimée ont inclus dans leurs documents une copie du rapport d'évaluation final daté du 1er juin 1990, préparé par Duff & Phelps (le « rapport d'évaluation de Duff & Phelps » ). M. McClintock et l'avocat de l'intimée ont fait savoir que l'auteur du rapport ne serait pas appelé à témoigner. Comme les deux parties ont fait référence à ce rapport, je l'ai admis en preuve, mais j'ai prévenu les parties que, dans les circonstances, je n'accorderais au rapport qu'un poids limité. Le rapport manquait de valeur probante.
+[22] Dans son rapport annuel à la SEC pour l'exercice terminé le 31 janvier 1991 ( « formule 10-K » ), Alias déclarait que des options d'achat d'actions avaient été accordées et que le prix de levée, fixé à 6 $ par action par les administrateurs le 25 avril 1990, était [traduction] « [...] inférieur à la juste valeur marchande aux fins de la présentation de l'information financière selon les principes comptables généralement reconnus des États-Unis » .
+[23] RBC Dominion Securities, au nom d'un groupe d'investisseurs, a offert, le 24 avril 1990, d'acquérir 50 000 actions d'Alias à 3,15 $ l'action, ou 6,30 $ après consolidation. L'offre comportait également une option d'achat d'autres actions d'Alias pour une période de deux ans et demi. L'offre était structurée de telle sorte que, si Alias devenait une société publique, la différence entre le produit de disposition des actions vendues au prix d'émission et le coût de base rajusté des actions serait divisée de manière égale entre l'offrant et le destinataire de l'offre. L'opération n'a pas été conclue.
+[24] L'offre de RBC Dominion Securities a été signée par Gary Peter Selke, vice-président et directeur de RBC Dominion Securities à l'époque. Il a témoigné au procès pour le compte de l'appelant. Au moment du procès, il était président d'une société privée d'investissement. Il se considère comme un investisseur averti et prudent.
+[25] M. Selke ne se souvenait plus [traduction] « après tout ce temps... » de quelle manière le prix de 3,15 $ par action d'Alias avait été fixé. Il ne s'agissait pas d'un montant dont il avait discuté avec le destinataire de l'offre, mais d'un montant qui avait été déterminé [traduction] « de notre propre chef » . Il jugeait l'offre équitable pour les deux parties. Il connaissait l'expertise et la réputation d'Alias. Il connaissait M. McClintock et il avait rencontré les dirigeants d'Alias. Au moment de l'offre, M. Selke n'était pas au courant de la possibilité qu'Alias procède à un PAPE; il considérait la clause de rajustement du prix contenue dans l'offre comme une clause « innovatrice » . Selon lui, Alias était semblable et même supérieure à Softimage, une corporation acquise par Microsoft Corporation. Si l'offre avait été acceptée, l'acheteur, qui détenait directement 24,47 pour 100 des actions d'Alias, aurait possédé plus de 25 pour cent de son capital-actions.
+[26] M. McClintock n'a pas produit de rapport d'évaluation à l'appui de sa position selon laquelle les actions d'Alias avaient une valeur d'au plus 6 $ aux dates pertinentes. En revanche, il a cité comme témoin M. Mocherniak, C.A., expert en évaluation d'entreprises chez Grant Thornton Corporate Finance Inc., afin de commenter et de réfuter les conclusions d'une évaluation des actions d'Alias préparée par Tim Dunham pour l'Agence des douanes et du revenu du Canada ( « ADRC » ).
+[27] M. Dunham est directeur de la section d'évaluation des entreprises et des titres de l'ADRC à Toronto. Il est expert en évaluation d'entreprises et analyste financier agréé. Il a préparé plus de 200 évaluations d'entreprises et, dans certains cas, il a tenu compte d'escomptes et de restrictions relatives à la négociation des actions; il a également évalué une douzaine de corporations qui planifiaient un PAPE.
+[28] M. Dunham a conclu que le montant de 11,55 $ constituait un [traduction] « indicateur raisonnable » de la juste valeur marchande des actions d'Alias au 5 juillet 1990 et que la valeur des actions au 25 avril 1990 dépassait 6 $ par action. Il a témoigné qu'il n'avait pas préparé d'évaluation comme telle, mais plutôt un [traduction] « rapport critique indépendant sur la juste valeur marchande des actions d'Alias » . Il a utilisé le mot « critique » parce que les renseignements qu'il a examinés [traduction] « provenaient en grande partie d'Alias, des rapports d'évaluation de la société, et du prospectus [...] J'émets des commentaires sur [...] les calculs qu'ils ont fournis. » M. Dunham a déclaré que, de son [traduction] « point de vue, c'est le marché qui a fait l'évaluation et je n'ai pas réévalué le cours du marché » . Il a considéré la valeur de 13 $US (ou 15 $CAN) pour le PAPE comme étant un indicateur de la juste valeur marchande des actions d'Alias. Il ne s'était produit aucun changement significatif ou fondamental dans l'exploitation de la société au cours des deux à douze semaines antérieures au PAPE. Son rapport visait donc à établir, a-t-il déclaré, l'escompte de négociabilité qui pouvait être accordé sur la valeur de 15 $. Il a conclu qu'un escompte de 25 pour 100 serait approprié.
+[29] Le rapport de Duff & Phelps compte parmi les renseignements que M. Dunham a reçus d'Alias; ce rapport évaluait le capital-actions ordinaire d'Alias entre 34 et 39 millions de dollars. Duff & Phelps a estimé que le prix de 3 $ par action ordinaire [traduction] « se situait dans la fourchette de la juste valeur marchande » au 25 avril 1990. Les auteurs du rapport ont tenu compte d'un escompte de 25 pour 100 pour compenser la difficulté de négocier les actions. M. Dunham s'est penché sur l'analyse contenue dans le rapport de Duff & Phelps relativement à d'autres éléments comparables du marché, tels que des sociétés dont les actions étaient négociées [traduction] « sur le marché hors cote » , et il a soutenu que ces renseignements n'étaient pas pertinents pour l'évaluation d'Alias. Il a signalé que le prix du PAPE éventuel de 15 $ correspondait à une [traduction] « valeur du PAPE » supérieure à 75 millions de dollars.
+[30] En juillet 1989, Sony Corp. a fait une offre de 10 millions de dollars en vue d'acquérir une participation minoritaire de dix pour cent dans Alias; l'offre a été rejetée comme étant inadéquate selon Duff & Phelps, et M. Dunham était d'accord. L'offre de Sony a été étudiée par M. Dunham qui a admis qu'il était possible que cette offre et son rejet fassent partie d'une stratégie. Dans son rapport, il a conclu que l'offre de Sony était pertinente étant donné que la valeur de 6 $ par action établie dans le rapport de Duff & Phelps était inférieure à celle de l'offre de Sony.
+[31] Le rapport Duff & Phelps mentionnait également que Crownx, le plus important actionnaire d'Alias, a laissé le délai pour lever 50 000 options à un prix de 2,75 $ par action arriver à terme en novembre 1989.
+[32] M. Dunham a également commenté le rapport déposé à la SEC par Alias, lequel indiquait un prix d'émission par action supérieur à 6 $, même au 24 mai 1990. Il a déclaré qu'il n'y avait aucune preuve à l'effet que la situation fondamentale d'Alias avait changé entre le 25 avril 1990 et le 17 juillet 1990, date du PAPE. Ce jour-là, les actions d'Alias ont d'abord été échangées sur le marché libre, en pleine concurrence : le cours des actions représentait donc leur juste valeur marchande. Il a ainsi conclu que l'escompte et le risque relatifs à la négociabilité étaient les seuls facteurs pouvant avoir une incidence sur la valeur du placement de M. McClintock.
+[33] Selon M. Dunham, le [traduction] « concept de négociabilité correspond à la capacité de convertir des biens en argent rapidement, avec des frais d'opération minimaux et un degré de certitude élevé de réaliser le montant prévu de produits nets » . Il a expliqué qu'un escompte de négociabilité pour les actions d'une société effectuant un PAPE se justifiait, entre autres, par un horizon incertain pour finaliser l'offre, par le risque relatif au prix de vente éventuel et par l'incapacité d'emprunter une somme sur la valeur estimée du capital-actions.
+[34] De l'avis de M. Dunham, l'escompte de négociabilité représenterait la différence entre une participation publique (actions liquides) et une participation privée avec une forte probabilité de PAPE. Le PAPE doit être inclus dans la valeur estimée puisque les transferts effectués en pleine concurrence à la date du PAPE entrent dans le cadre de la définition classique de la juste valeur marchande.[9]
+[35] M. Dunham estime qu'une partie sans lien de dépendance n'aurait pas été en mesure d'acquérir une participation dans Alias au prix de 6 $ aux dates pertinentes. Un PAPE était sur le point d'être effectué. Le 17 juillet 1990, l'offre a été bien reçue par les investisseurs à un prix de 15 $ par action, lequel, déclare-t-il, représente la juste valeur marchande des actions, moins un escompte approprié pour compenser le manque de négociabilité des actions de M. McClintock.
+[36] M. Dunham soutient que l'évaluation de Duff & Phelps de 6 $ par action tenait compte des mêmes éléments que le prospectus du PAPE qui fixait la valeur à 15 $ : analyse du marché, élaboration du produit, résultats financiers antérieurs et position concurrentielle. Puisque rien n'a changé entre le 25 avril 1990 et le 17 juillet 1990 dans l'exploitation d'Alias et dans sa perspective, la valeur sous-jacente de la société devrait être à peu près la même. Il a ainsi résumé l'évaluation de Duff & Phelps (avant consolidation) :
+[traduction]
+Valeur par action négociable, selon les éléments comparables
+3,95 $
+4,54 $
+Moins - escompte de négociabilité
+25 %
+25 %
+Valeur escomptée par action
+2,97 $
+3,40 $
+[37] L'évaluateur de Duff & Phelps a fixé la valeur avant consolidation des actions détenues par M. McClintock à 3 $ par action, ce qui comprenait un escompte de 25 pour 100 visant à compenser le manque de négociabilité.
+[38] À 6 $ l'action, il y a un escompte de 60 pour 100 appliqué au prix du PAPE de 15 $; M. Dunham estime qu'il s'agit d'un escompte trop élevé. Il a fait remarquer que, en calculant à compter du 25 avril 1990, ce prix donnerait un rendement de 150 pour 100 en moins de trois mois et un rendement annuel de plus de 600 pour 100. Un tel taux n'est pas « plausible » , vu le rendement obtenu dans d'autres catégories de placement. Le taux implicite de rendement à compter de la date de levée des options le 5 juillet 1990, douze jours avant le PAPE, serait encore plus élevé. Il a conclu que, si des parties sans lien de dépendance étaient autorisées à acquérir les actions d'Alias au cours des premières semaines suivant le PAPE, elles n'auraient pas visé un taux de rendement annuel de 600 pour 100. M. Dunham a convenu qu'il était juste d'accorder un escompte de négociabilité aux dates pertinentes, mais pas de l'ordre de 60 pour 100. Dans son rapport, il a appliqué le taux d'escompte de Duff & Phelps de 25 pour 100 au prix du PAPE de 15 $ considéré comme étant la juste et raisonnable valeur marchande aux dates pertinentes.
+[39] En contre-interrogatoire, M. Dunham a déclaré que l'escompte de 25 pour 100 appliqué à compter du 5 juillet 1990 devait comprendre une certaine compensation pour les restrictions de négociation imposées à M. McClintock après le 17 juillet 1990. [traduction] « Autrement, » a-t-il expliqué, [traduction] « on obtient un taux de rendement annuel hypothétique de mille pour cent. » Il a reconnu qu'à partir du 25 avril 1990, l'application d'un escompte différent serait justifiable.
+[40] M. Dunham a suggéré avec réticence qu'il serait approprié, au 25 avril 1990, d'appliquer un escompte de 40 à 50 pour 100 pour les actions entièrement liquides d'une société privée ne planifiant pas de PAPE. Au cours de cet échange, on a souligné qu'Alias prévoyait un PAPE depuis 1987, qu'elle avait rejeté l'offre de Sony de 10 millions de dollars pour une participation de 10 pour 100, que ses syndicataires la harcelaient, que le prospectus préliminaire du 24 mai 1990 suggérait un prix pour le PAPE de 9 $US à 11 $US et que, en avril, le PAPE n'était pas imminent.
+[41] Par la suite, M. Dunham a fait valoir que le taux de 40 à 50 pour 100 diminuerait de manière significative à mesure que se rapprocherait la date du PAPE. Il était influencé par le fait que le PAPE s'est réalisé sans problèmes apparents et que les actions se sont vendues sur un [traduction] « marché en pleine effervescence » . Selon lui, cela signifiait que le marché avait procédé à sa propre analyse fondamentale et qu'il était entièrement d'accord avec le prix de 15 $ par action.
+[42] Pour ce qui est du fait que les administrateurs ont fixé la juste valeur marchande à 6 $ par action, M. Dunham a souligné qu'il existait probablement un avantage à accorder aux employés des options d'achat d'actions, à titre d'incitatif ou de compensation. Selon lui, cela peut en partie expliquer la différence entre le prix par action de 6 $ et de 11,556 $.
+[43] L'une des principales critiques émises par M. Mocherniak à l'égard du rapport de M. Dunham tient au fait que M. Dunham n'a pas effectué une analyse fondamentale des gains ou de l'actif, n'a pas examiné un grand nombre de documents pertinents ni parlé à un grand nombre d'administrateurs, de dirigeants et d'employés principaux d'Alias ou de son syndicataire. Ainsi, M. Dunham n'était pas suffisamment bien informé pour pouvoir évaluer les actions ordinaires d'Alias ou émettre des commentaires à cet égard.
+[44] M. Mocherniak n'est pas d'accord avec le fait que M. Dunham ait rejeté les valeurs comparables du marché présentées dans le rapport de Duff & Phelps. Selon lui, les sociétés comparables[10] choisies par Duff & Phelps étaient appropriées puisqu'elles menaient le même type d'activités qu'Alias et qu'elles avaient un profil économique semblable. Ce dernier point, insiste-t-il, est démontré par les marges avant impôt pour 1989 qui sont similaires pour Alias et la moyenne de ces sociétés.
+[45] M. Mocherniak soutient en outre que l'évaluation de M. Dunham des actions d'Alias, laquelle se fonde sur le prix du PAPE, n'était pas appropriée puisque son analyse a été faite après coup et que ce type d'analyse rétrospective a été « expressément rejetée » par les tribunaux, tel qu'il a été énoncé dans l'affaire National System Baking of Alberta c. La Reine[11]. En outre, ajoute-il, on ne pouvait savoir aux dates d'évaluation si le PAPE serait réalisé, s'il serait réussi et quel en serait le prix; ces facteurs ne sont donc pas pertinents.
+[46] M. Mocherniak a déclaré qu'il n'est pas pertinent de tenir compte de l'offre de Sony de 10 millions de dollars pour une participation de 10 pour 100, puisqu'elle a été rejetée pour des raisons stratégiques. M. Dunham n'a pas étudié les documents à l'appui de cette offre et n'est donc pas en mesure de faire des commentaires éclairés à cet égard. M. Mocherniak suggère que l'on peut déduire que Crownx n'a pas levé l'option à 2,75 $ par action car elle estimait que les actions valaient moins que cela. M. Dunham a déclaré que le fait que les options soient devenues caduques n'indique pas forcément que les actions n'avaient aucune valeur. Crownx avait probablement des motifs pour laisser les options devenir caduques; toutefois, comme l'a souligné M. Mocherniak, M. Dunham n'a pas communiqué avec les dirigeants de Crownx et ne peut donc pas savoir quels étaient ces motifs.
+[47] M. Mocherniak prétend également que le prix du PAPE n'équivaut pas à la juste valeur marchande étant donné que la définition du PAPE, contrairement à celle de la juste valeur marchande, exclut certains acquéreurs, savoir les particuliers. Un PAPE ne constitue pas une vente d'actions sur le marché libre. Ainsi, le fait que M. Dunham se soit fondé sur le prix du PAPE rend son évaluation inexacte.
+[48] M. Mocherniak suggère également que la référence, lors la réunion des administrateurs tenue le 25 avril 1990, relativement aux « préparatifs expéditifs » en vue d'un PAPE n'est pas pertinente étant donné que prévoir et préparer un PAPE n'est pas la même chose qu'un PAPE réalisé ou réussi à 15 $ par action. En outre, affirme-t-il, il ne convient pas de tenir compte de la formule 10-K déposée au SEC le 27 avril 1992, laquelle décrivait le prix de levée de l'option comme étant [traduction] « inférieur à la juste valeur marchande » , car cette observation a été faite à une date postérieure aux dates d'évaluation.
+[49] M. Mocherniak critique également le fait que M. Dunham ait omis de tenir compte des restrictions concernant la négociation des actions après le PAPE, lesquelles auraient une incidence sur le risque et la liquidité des actions.
+[50] De l'avis de M. Mocherniak, il n'est pas rare de constater des taux de rendement élevés sur des périodes très courtes dans le cas de placements privés d'actions ayant lieu peu de temps après un PAPE. Il ajoute que le rendement d'un portefeuille de capital de risque ne devrait pas être comparé au rendement d'un placement individuel.
+[51] M. Mocherniak a également émis l'idée qu'un escompte en un bloc devrait être appliqué aux actions de M. McClintock étant donné que sa participation était de nature minoritaire et qu'il n'avait donc pas de contrôle sur le taux de rendement du placement.
+[52] En dernier lieu, M. Mocherniak a fait ressortir un point évident : les administrateurs d'Alias ne pouvaient pas savoir, le 25 avril 1990, quel serait le prix du PAPE, à quel moment il aurait lieu et s'il serait réussi. Il a fait remarquer qu'un évaluateur se doit d'effectuer une analyse fondamentale des gains ou de l'actif d'une corporation et de communiquer avec les dirigeants en vue de préparer son évaluation, ce que M. Dunham n'a pas fait. Je suis d'accord avec lui.
+[53] En l'espèce, l'appelant invoque le fait que les administrateurs d'Alias ont déterminé que la juste valeur marchande, au 25 avril 1990, était de 3 $ par action (avant consolidation) pour les « fins » des divers programmes de participation des employés. À l'exception du rapport de Duff & Phelps, rien n'indique que la juste valeur marchande, au 25 avril 1990, était de 3 $ (avant consolidation) pour des fins autres que celles de ces options d'achat d'actions accordées aux employés. L'auteur du rapport de Duff & Phelps savait au moment de la rédaction de son rapport que les administrateurs d'Alias avaient fixé la juste valeur marchande des actions ordinaires d'Alias à 3 $ (avant consolidation) le 25 avril 1990. Comme je l'ai fait remarquer plus tôt, l'auteur de ce rapport n'a pas été cité comme témoin lors du procès et je n'ai donc pas eu la possibilité de me pencher sur son témoignage relativement aux conclusions du rapport.
+[54] M. Mocherniak n'a pas réussi à me convaincre que M. Dunham avait erré de manière significative dans son rapport. Tout d'abord, il appartient au juge d'exercer son pouvoir discrétionnaire pour décider, d'après les faits propres à un appel, s'il convient de procéder à un examen rétrospectif en vue de déterminer si la supposée valeur d'un bien est juste ou afin d'en fixer la valeur[12].Cela est particulièrement vrai lorsqu'il n'y a pas eu de ventes de biens comparables immédiatement avant la date d'évaluation.
+[55] De plus, aucun élément de preuve ne permet de connaître les critères qui ont été appliqués par les administrateurs d'Alias lorsqu'ils ont déterminé la juste valeur marchande le 25 avril 1990. M. McClintock a déclaré que les états financiers avaient été examinés. Il a également mentionné qu'une évaluation avait été préparée. Toutefois, je ne vois absolument pas comment la valeur de 6 $ a été calculée à partir des états financiers. M. McClintock n'a pas appelé à la barre une personne ayant été administrateur d'Alias à l'époque ni toute autre personne informée qui aurait pu jeter ne serait-ce qu'un peu de lumière sur cette question.
+[56] L'évaluation effectuée par M. Dunham se rapproche de la juste valeur marchande des actions aux dates pertinentes. Je ne constate aucune erreur grave dans son rapport; si je devais apporter un rajustement à ses calculs, j'accorderais un escompte de, disons, 40 pour 100 pour ramener la valeur à 6 $ ou moins par action aux dates pertinentes.
+[57] Les actions d'Alias valaient définitivement plus de 6 $ chacune aux dates pertinentes. Je tiens compte du fait qu'il n'y a pas eu de changement fondamental ou important dans l'exploitation d'Alias entre le 25 avril 1990 et le 19 juillet 1990. Si cela est exact, M. McClintock n'a pas expliqué la raison pour laquelle la valeur des actions avait augmenté au cours de la période, passant de 6 $ à 15 $, soit le montant du PAPE. Par exemple, il n'a pas été démontré que les cours sur le marché boursier NASDAQ ont augmenté de manière proportionnelle au cours de la période en cause et que le prix des actions d'Alias a été rajusté conformément à cette hausse. Le prospectus provisoire, en date du 24 mai 1990, c'est-à-dire un mois après la réunion des administrateurs, estime que le prix par action se situe entre 9 $US et 11 $US, soit un montant nettement supérieur à 6 $.
+[58] M. Mocherniak a d'abord remis en cause le rapport de M. Dunham et a tenté, en deuxième lieu, de défendre celui de Duff & Phelps. Toutefois, son témoignage n'a pas réussi à me convaincre que les actions de M. McClintock avaient une valeur marchande de 6 $ ou moins par action aux dates pertinentes. Même si j'accepte la critique émise par M. Mocherniak au sujet du rapport de M. Dunham, j'ai tout de même des motifs de conclure que la valeur établie par M. Dunham était fondamentalement correcte.
+[59] Je dois également ajouter que, pour ce qui est de la déduction au titre de l'option d'achat d'actions demandée par M. McClintock en vertu de l'alinéa 110(1)d.1), comme il a disposé des actions en cause dans les deux ans suivant leur acquisition, il ne peut pas se prévaloir de cette déduction.
+[60] L'appel est uniquement admis pour permettre au ministre d'établir une nouvelle cotisation à l'égard de M. McClintock en tenant compte du fait qu'Alias était une CPCC en 1990 et 1991, et seulement si ladite nouvelle cotisation est établie en faveur de M. McClintock.
+[61] L'appelant doit assumer les frais de son appel.
+Signé à Ottawa, Canada, ce 2e jour de mai 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 7e jour de mars 2005.
+Mario Lagacé, réviseur
+[1] Les valeurs des actions d'Alias renvoient à des valeurs consolidées le 16 mai 1990 dans une proportion de 2:1. Dans les présents motifs, toutes les valeurs sont des valeurs après consolidation et exprimées en monnaie canadienne, sauf indication contraire. (Voir le paragraphe 110(1.5) de la Loi pour connaître l'effet des actions sur la consolidation.)
+[2] Le 25 avril 1990 est la date à laquelle les administrateurs d'Alias ont fixé le prix pour lequel les participants au régime d'options d'achat d'actions pouvaient acquérir des actions d'Alias durant une année subséquente, et la date à laquelle il s'est vu accordé des options d'achat de 13 750 actions d'Alias. Le 5 juillet 1990 est la date à laquelle M. McClintock a levé une option à titre de participant au régime d'options d'achat d'actions en vue d'acquérir des actions d'Alias : voir plus loin les paragraphes 8 et 9.
+[3]
+M. McClintock ne se souvenait pas de la date à laquelle il avait cessé d'être administrateur, mais il affirme qu'il a cessé de l'être avant le 24 mai 1990.
+[4] [2002] A.C.F. no 922 (Q.L.), 2002 C.A.F. 260. Silicon Graphics Limited est la société remplaçante d'Alias.
+[5] En ce qui a trait à l'avantage qui est réputé, selon l'alinéa 7(1)a) en raison du paragraphe 7(1.1.), avoir été reçu lors de la disposition d'actions acquises après le 2 mai 1985, l'alinéa 110(1)d.1) de la Loi prévoit notamment que le contribuable ne doit pas avoir disposé de l'action dans les deux ans suivant la date où il l'a acquise afin d'avoir droit à une déduction. En outre, le contribuable ne peut se prévaloir de l' « exonération cumulative des gains en capital » qui était antérieurement prévue à l'article 110.6 de la Loi.
+[6] Il existait au moins quatre programmes : le 1986 Employee Stock Ownership Plan, le 1988 Employee Stock Ownership Plan, le 1989 Employee Share Ownership Plan et le New Employee Stock Ownership Plan établi en 1990 et parfois appelé 1990 Employee Stock Ownership Plan.
+[7] Cela semble contredire les propos de M. McClintock selon lesquels les administrateurs d'Alias ont appris pour la première fois qu'Alias était rentable lors de la réunion du conseil le 25 avril 1990.
+[8] Durant la période allant du 25 avril 1990 au 17 juillet 1990, le taux de change du dollar américain en dollar canadien variait entre 1,1534 $CAN et 1,1883 $CAN. Le dollar américain a clôturé comme suit aux dates pertinentes :
+25 avril
+1,1610 $CAN
+24 mai
+1,1847 $
+5 juillet
+1,1640 $
+13 juillet
+(dimanche)
+17 juillet
+1,1534 $
+[9] La juste valeur marchande est traditionnellement définie comme étant le prix le plus élevé en termes d'argent ou de valeur monétaire pouvant être obtenu sur un marché libre entre des parties bien informées et prudentes qui n'ont pas de lien de dépendance et qui ne sont en aucune façon obligées d'acheter ou de vendre.
+[10] Il s'agit des corporations suivantes : Autodesk Inc., Cadence Design, Evans & Sutherland Computer, Intergraph Corp., MacNeal-Schwendler, Mentor Graphics et Structural Dynamics Research.
+[11] C.F. 1re inst, no du greffe T-3035-76, 19 décembre 1977 (78 DTC 6018), décision du juge Mahoney.
+[12] Voir notamment la décision Bailey c. M.R.N., C.C.I., no 88-2034(IT), 19 février 1990 ([1990] 1 C.T.C. 2450). Pour l'opinion d'un évaluateur sur la prise en considération de ventes subséquentes, voir : Ian R. Campbell, The Principles and Practice of Business Valuation, Richard DeBoo Limited, Toronto, 1995, p. 20.

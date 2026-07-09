@@ -1,0 +1,119 @@
+Title: Patenaude v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25628/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-7-25628-patenaude-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-01-09
+
+# Patenaude v. The Queen
+
+- Citation: 2004 TCC 7
+- Decision date: 2004-01-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2434, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patenaude v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-09
+Neutral citation
+2004 TCC 7
+File numbers
+2003-1361(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1361(IT)I
+BETWEEN:
+SERGE PATENAUDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+________________________________________________________________
+Appeal heard on October 16, 2003, at Montréal, Quebec
+Before: The Honourable Justice Brent Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 9th day of January 2004.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 9th day of March 2009.
+Brian McCordick, Translator
+Citation: 2004TCC7
+Date: 20040109
+Docket: 2003-1361(IT)I
+BETWEEN:
+SERGE PATENAUDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] Serge Patenaude is seeking to deduct, in computing his income for the 2000 taxation year, an amount of $10,000 as an allowance payable periodically to his former spouse, Lucie Villeneuve. This deduction was refused by the Minister of National Revenue ("the Minister") in an assessment dated May 2, 2002.
+[2] The issue is whether the amount was payable by Mr. Patenaude pursuant to a judgment or a written agreement as a periodic allowance for the maintenance of Ms. Villeneuve under paragraph 60(b) of the Income Tax Act ("the Act").
+[3] The record shows that Mr. Patenaude and Ms. Villeneuve divorced on January 31, 1995. Under a judgment of that date by the Superior Court of Quebec, Mr. Patenaude was to pay Ms. Villeneuve $150,000 as a lump sum on the sale of the family residence or in December 1995, whichever came first. The Court also ordered Mr. Patenaude to pay Ms. Villeneuve support for the maintenance of the children in the amount of $1,700 per month, and ordered that the proceeds of the sale of the family residence be shared equally.
+[4] This order of the Superior Court was amended on November 17, 1995 by a judgment of the Quebec Court of Appeal, which officially recognized the parties' agreement providing that Ms. Villeneuve would receive ownership of the family residence, that Mr. Patenaude would pay $26,500 as support within no more than four years, that is no later than November 17, 1999, in place of the lump sum of $150,000, and that the support for the maintenance of the children would be reduced to $1,275 per month.
+[5] Some new amendments were made to Mr. Patenaude's obligations resulting from the divorce on June 2, 1998 pursuant to a motion to vary the corollary relief for a change in custody and a cancellation of spousal support filed by Mr. Patenaude. By a consent to judgment, Mr. Patenaude and Ms. Villeneuve agreed to some changes pertaining to the custody of the children and a reduction in the spousal support to $275 per month.
+[6] Although the amount of $26,500 appearing in the judgment of November 17, 1995 was supposed to be paid to Ms. Villeneuve by November 17, 1999, Mr. Patenaude encountered some financial difficulties and, according to his testimony, he requested an extension of time in which to pay. By a letter dated February 9, 2000, the representative of Ms. Villeneuve agreed that the payment would be spread over four years as follows: $10,000 payable by March 10, 2000, and the amounts of $6,200, $5,800 and $5,400 payable in 2001, 2002 and 2003 respectively on the anniversary date of the first cheque. The latter three amounts included principal and interest.
+[7] The first payment of $10,000 was made in accordance with this schedule and Mr. Patenaude is claiming the deduction of this amount.
+[8] Mr. Patenaude argued that the judgment of the Court of Appeal required him to pay $26,500 to Ms. Villeneuve for her maintenance and that this amount was payable periodically because it was payable in four annual instalments as it had been agreed by Ms. Villeneuve and him in a letter dated February 9, 2000.
+[9] On the first point, I find that the sum of $26,500, which appears in the consent to judgment recognized by the Court of Appeal on November 17, 1995 was intended for Ms. Villeneuve's maintenance and was not a capital lump sum. The two parties concerned stated that this was a sum payable as support and, according to Mr. Patenaude's testimony, the purpose of the payment was to give Ms. Villeneuve four years in which to find a job.
+[10] In Larivière v. Canada,[1] the Federal Court of Appeal described the periodic allowance referred to in paragraph 60(b) of the Act as "an amount paid to enable the payee to provide for her maintenance, at least in part, until the next payment rather than for the purpose of allowing her to accumulate a capital sum". In that case, the trial judge had considered the payment of a lump sum of $20,000 in three instalments to the ex-wife "as a temporary provision allowing her to reorganize her life, complete her training and begin a new life". The Court of Appeal held that the three instalments were income rather than capital for the ex-wife and that they were used for her maintenance.
+[11] Concerning the question of periodicity, I am of the opinion that the payments involved in this case were not to be made periodically. The judgment of the Quebec Court of Appeal left it to the payer to determine as he wished, within a prescribed period, the time and frequency of the payments to be made to reach the total of $26,500.
+[12] The payer could even have complied with that judgment by making only one payment of the total amount at any time up to November 17, 1999. Paragraph 60(b) provides that the amount in question must by "payable" periodically and not "paid" periodically and it is the order or written agreement establishing the duty to pay that determines how the amount is payable.
+[13] In the present case, because the order does not require the payer to make the payments according to a set schedule, it is impossible to say that the amount is payable periodically.
+[14] The letter of February 9, 2000 did not alter Mr. Patenaude's obligation under the judgment of November 17, 1995, but constituted an arrangement for the payment of Mr. Patenaude's debt to Ms. Villeneuve. This letter does not amend the judgment of the Court of Appeal. To amend it, that Court will have to render an amending judgment.
+[15] To sum up, I find that the amount of $10,000 paid by Mr. Patenaude was paid pursuant to the judgment of the Court of Appeal dated November 17, 1995, because that judgment was still in force at the time of the payment and governed Mr. Patenaude's obligations as a result of the divorce. It is necessary to refer to the judgment that creates the obligation to pay the allowance in order to determine whether it is payable periodically. For the reasons expressed above, I am satisfied that the amount in question was not payable periodically, and that it therefore did not meet the necessary preconditions for it to be deductible under paragraph 60(b) of the Act.
+[16] The appeal is dismissed.
+Signed at Ottawa, Canada, this 9th day of January 2004.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 9th day of March 2009.
+Brian McCordick, Translator
+CITATION:
+2004TCC7
+COURT FILE NO.:
+2003-1361(IT)I
+STYLE OF CAUSE:
+Serge Patenaude and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+October 16, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+January 9, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1989] 2 F.C. 104.

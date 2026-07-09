@@ -1,0 +1,147 @@
+---
+title: "Legge v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99802/index.do"
+last_modified: "2014-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 360"
+citation2: ""
+neutral_citation: "2014 TCC 360"
+decision_date: "2014-12-01"
+language: "en"
+item_id: "99802"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5226
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:25:44.020000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c97da018273466e2472db4e6f5b2ee9f097434c84f5d0faa01936c2da26299ec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Legge v. M.N.R.
+
+- Citation: 2014 TCC 360
+- Decision date: 2014-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5226, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Legge v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-12-01
+Neutral citation
+2014 TCC 360
+File numbers
+2014-2560(CPP)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2014-2560(CPP)
+BETWEEN:
+GEORGE E. LEGGE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on October 29, 2014 at Halifax, Nova Scotia
+Before: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo C. Omisade
+JUDGMENT
+Upon appeal with respect to a decision of the respondent under the Canada Pension Plan that contributions by the appellant are deemed to be zero for 2006 and 2007 pursuant to subsection 30(5), the appeal is allowed on the basis that subsection 30(5) of the Canada Pension Plan does not apply to contributions for the years 2006 and 2007.
+Signed at Toronto, Ontario this 1st day of December 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 360
+Date: 20141201
+Docket: 2014-2560(CPP)
+BETWEEN:
+GEORGE E. LEGGE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in this appeal is whether the respondent correctly decided that contributions by George Legge made under the Canada Pension Plan are deemed to be zero for 2006 and 2007 pursuant to subsection 30(5) of that legislation.
+[2] Subsection 30(5) is reproduced below:
+30(5) The amount of any contribution required by this Act to be made by a person for a year in respect of their self-employed earnings for the year is deemed to be zero where
+(a) the return of those earnings required by this section to be filed with the Minister is not filed with the Minister before the day that is four years after the day on or before which the return is required by subsection (1) to be filed; and
+(b) the Minister does not assess the contribution before the end of those four years.
+Background
+[3] The basis for the Minister’s position is set out in the Reply to the Notice of Appeal at paragraph 10. It is reproduced below.
+10. In making her decision, the Minister relied on the following assumptions of fact:
+a) the Appellant received pension and business income in both the 2006 and 2007 taxation years;
+b) the Appellant’s income tax returns for the 2006 and 2007 taxation years were due to be filed with the Minister by June 15, 2007 and June 15, 2008, respectively;
+c) the Appellant filed income tax returns for the 2006 and 2007 taxation years on November 27, 2008;
+d) upon filing income tax returns for the 2006 and 2007 taxation years, the Appellant reported business losses from self-employment;
+e) upon filing income tax returns for the 2006 and 2007 taxation years, the Appellant’s pensionable earnings were nil;
+f) on or around November 12, 2012, the Appellant filed T1 adjustment requests for his 2006 and 2007 taxations years and changed his business losses to business income; and
+g) the Appellant did not file a return reporting self-employed earnings of $5,524 and $5,116 within four years of the day his income tax returns for 2006 and 2007 were due to be filed.
+Analysis
+[4] The only issue to be decided is whether subsection 30(5) of the Canada Pension Plan deems contributions to be zero for the years 2006 and 2007.
+[5] The Crown submits that subsection 30(5) applies on the basis that Mr. Legge did not file a return of self-employed earnings within four years of the filing due date for the income tax return for those years. The Crown submits that this requirement is not satisfied because Mr. Legge reported losses rather than earnings.
+[6] I do not accept the Crown’s submission because it ignores that there are two requirements for the application of s. 30(5), a taxpayer filing requirement in paragraph (a) and an assessment requirement in paragraph (b).
+[7] Even if I were to accept the Crown’s argument, subsection 30(5) does not apply unless I also find that the Minister had not assessed contributions within the requisite four year period. The assessment requirement in paragraph (b) is not mentioned in the Reply and it was not mentioned by the Crown at the hearing. It would be unfair to Mr. Legge to dismiss the appeal in these circumstances.
+[8] Further, there is no stated assumption as to what assessments, if any, were made within the four year period. Accordingly, the Crown has the burden to establish by evidence that the requirement in s. 30(5)(b) has been satisfied. This burden has not been satisfied.
+[9] For these reasons, the appeal will be allowed on the basis that subsection 30(5) of the Canada Pension Plan does not apply to contributions for the years 2006 and 2007.
+[10] The result is in a sense a windfall to Mr. Legge because it is likely that there was no assessment of contributions for 2006 and 2007. However, the Crown is well aware of the requirement to properly plead its case and to establish the facts supporting its position, either by evidence or by assumptions.
+[11] If this appeal were governed by the general procedure rules of the Court, it may have been appropriate to obtain written submissions of the parties with respect to this issue. However, written submissions are generally not practical when the appeal is not under the general procedure. Accordingly, it is appropriate for the Court to issue judgment without further submissions.
+Signed at Toronto, Ontario this 1st day of December 2014.
+“J.M. Woods”
+Woods J.
+CITATION:
+2014 TCC 360
+COURT FILE NO.:
+2014-2560(CPP)
+STYLE OF CAUSE:
+GEORGE E. LEGGE and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+October 29, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+December 1, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo C. Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

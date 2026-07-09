@@ -1,0 +1,234 @@
+---
+title: "Courtney c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30233/index.do"
+last_modified: "2011-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 117"
+citation2: ""
+neutral_citation: "2011 CCI 117"
+decision_date: "2011-02-22"
+language: "fr"
+item_id: "30233"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7751
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:05:22.082000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "81be3b93ab11615ea0ce9ab6d7daffdfa2d44082cfb48e33d2afa8a41a50a7e1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Courtney c. M.R.N.
+
+- Citation: 2011 CCI 117
+- Decision date: 2011-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7751, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Courtney c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-22
+Référence neutre
+2011 CCI 117
+Numéro de dossier
+2009-3112(EI)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-3112(EI)APP
+ENTRE :
+CRYSTAL L. COURTNEY,
+requérante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 19 avril 2010, à Fort McMurray (Alberta), et le 20 janvier 2011, à Edmonton (Alberta)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour la requérante :
+La requérante elle-même
+Avocat de l’intimé :
+Me Adam Gotfried
+____________________________________________________________________
+ORDONNANCE
+La demande de prorogation du délai pour interjeter appel de la décision rendue par le ministre du Revenu national est rejetée conformément aux motifs de jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 22e jour de février 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 30e jour de mars 2011.
+Hélène Tremblay, traductrice
+Référence : 2011 CCI 117
+Date : 20110222
+Dossier : 2009-3112(EI)APP
+ENTRE :
+CRYSTAL L. COURTNEY,
+requérante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. LES FAITS
+[1] La requérante a présenté à la Cour une demande en vue d’obtenir une ordonnance lui accordant une prorogation du délai dans lequel elle peut interjeter appel d’une décision rendue par le ministre du Revenu national (le « ministre »). Elle cherche à faire réduire ou éliminer le montant des prestations d’assurance-emploi (les « prestations d’AE ») que l’Agence du revenu du Canada (l’« ARC ») lui demande de rembourser en vertu de l’article 44 de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23 (la « LAE »).
+[2] L’avocat de l’intimé a déposé un avis de requête en vue de faire rejeter l’avis d’appel pour le motif que la Cour n’a pas compétence pour entendre l’appel.
+[3] La demande a initialement été entendue à Fort McMurray (Alberta), le 19 avri1 2010. Elle a été ajournée sine die afin de donner à la requérante la possibilité d’obtenir certains documents de son avocat, à Terre-Neuve-et-Labrador.
+[4] L’audience a repris à Edmonton (Alberta) le 20 janvier 2011. À la fin de l’audience, j’ai déclaré que j’examinerais l’affaire et que je rendrais une ordonnance.
+[5] J’ai également tenu compte des renseignements supplémentaires que la requérante a soumis et de la lettre datée du 9 février 2011 de Me Adam Gotfried, du ministère de la Justice.
+[6] Les faits indiquent qu’en 2003, la requérante a reçu des prestations d’AE pendant qu’elle cherchait un emploi.
+[7] La requérante a pu trouver un emploi à la garderie Bloomsberry (la « garderie »), à Terre-Neuve, mais deux ou trois semaines plus tard, elle a découvert qu’elle ne pouvait pas continuer à exercer cet emploi à cause de problèmes de dos.
+[8] La requérante a erronément supposé que le relevé d’emploi (le « RE ») que la garderie lui avait remis était suffisant pour informer les fonctionnaires, à l’AE, de son travail.
+[9] Les fonctionnaires, à l’AE, ont décidé qu’à cause de cette erreur, la requérante n’avait pas droit aux prestations d’AE et ils lui ont demandé de rembourser au complet le montant des prestations qu’elle avait reçues, lequel s’élevait à environ 7 000 $.
+[10] Par la suite, en 2006, la requérante, qui n’avait pas les moyens de satisfaire à ses obligations financières, a fait cession de ses biens en vertu de la Loi sur la faillite.
+[11] La requérante a déposé devant la Cour les documents se rapportant à sa faillite, lesquels indiquaient, au titre d’une obligation à acquitter sous le numéro de compte 128031887 de « Développement social Canada », un montant de 6 870 $.
+[12] La requérante a témoigné que le montant susmentionné représentait le montant qu’elle devait au titre de l’AE; elle croyait comprendre que cette dette devait être libérée dans le cadre de sa faillite.
+[13] La requérante a été libérée de sa faillite au mois d’octobre 2006.
+[14] Le 8 janvier 2008, l’ARC a envoyé à la requérante une lettre l’informant que, selon les dossiers de l’ARC, elle devait encore de l’argent à Ressources humaines et Développement social Canada. L’avis informait la requérante que l’ARC pouvait effectuer une retenue sur les remboursements d’impôt sur le revenu et de TPS/TVH afin de recouvrer cette dette.
+[15] La requérante a répondu à cette lettre le 18 janvier 2008 en vue de rappeler aux fonctionnaires de l’ARC qu’ils avaient été avisés, au mois de janvier 2006, qu’elle avait fait faillite et que la dette relative à l’AE avait donc été libérée.
+[16] La requérante a témoigné que, malgré cette lettre, les fonctionnaires de l’ARC avaient continué à effectuer des retenues sur les remboursements d’impôt sur le revenu et de TPS/TVH. Elle a également témoigné que l’ARC continue à saisir une partie des prestations de maternité en cours.
+[17] La requérante a déclaré que l’ARC continue à affirmer qu’elle doit 4 450 $ à l’égard de la dette relative à l’AE, et ce, bien qu’un montant d’environ 3 300 $ ait déjà été recouvré au moyen de retenues effectuées sur les remboursements d’impôt et de la saisie des prestations de maternité.
+[18] À l’heure actuelle, la requérante assure la gestion d’une entreprise de nettoyage qu’elle a lancée avec son époux. Elle a témoigné qu’ils nettoient des immeubles d’habitation, à Fort McMurray, lorsque les locataires s’installent dans un appartement ou le quittent, qu’ils nettoient des bureaux et qu’ils exécutent les autres travaux d’entretien qu’on leur confie.
+[19] L’avocat de l’intimé a soutenu que la Cour n’a pas compétence pour entendre les affaires se rapportant à l’admissibilité aux prestations d’AE lorsque l’assurabilité du contribuable n’est pas mise en question.
+B. LES POINTS EN LITIGE
+[20] 1. La Cour de l’impôt a-t-elle compétence pour entendre la présente affaire?
+2. Dans la négative, à qui la requérante doit-elle s’adresser pour faire trancher l’affaire?
+C. ANALYSE ET DÉCISION
+[21] L’article 12 de la Loi sur la Cour canadienne de l’impôt, (L.R.C.) 1985, ch. T‑2 (la « LCCI ») énonce quelle est la compétence et quels sont les pouvoirs de la Cour :
+12. (1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.l de la Loi sur les douanes, de la Loi sur l’assurance-emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+[22] La LAE confère dans certains cas une compétence à la Cour :
+103. (1) Appel devant la Cour canadienne de l’impôt – La Commission ou une personne que concerne une décision rendue au titre de l’article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l’impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l’expiration de ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l’impôt de la manière prévue par la Loi sur la Cour canadienne de l’impôt et les règles de cour applicables prises en vertu de cette loi.
+[Non souligné dans l’original.]
+[23] Les articles 91 et 92 de la LAE prévoient ce qui suit :
+91. Appel d’une décision – La Commission peut porter la décision en appel devant le ministre à tout moment, et tout autre intéressé, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit notification de cette décision.
+92. Demande de révision – Lorsque le ministre a évalué une somme payable par un employeur au titre de l’article 85, l’employeur peut, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit l’avis d’évaluation, demander au ministre de reconsidérer l’évaluation quant à la question de savoir s’il y a matière à évaluation ou quel devrait être le montant de celle-ci.
+[24] Les types de décisions et d’évaluations qui peuvent faire l’objet d’un appel sont énoncés aux articles 85 et 90 de la LAE :
+85. (1) Évaluation – Le ministre peut établir une évaluation initiale, une évaluation révisée ou, au besoin, des évaluations complémentaires de ce que doit payer un employeur, et le mot « évaluation », lorsqu’il est utilisé dans la présente loi pour désigner une initiative ainsi prise par le ministre en vertu du présent article, s’entend également de l’évaluation révisée ou complémentaire.
+90. (1) Demande de décision – La Commission, de même que tout employé, employeur ou personne prétendant être l’un ou l’autre, peut demander à un fonctionnaire de l’Agence du revenu du Canada autorisé par le ministre de rendre une décision sur les questions suivantes :
+a) le fait qu’un emploi est assurable;
+b) la détermination de la durée d’un emploi assurable, y compris ses dates de début et de fin;
+c) la détermination de la rémunération assurable;
+d) la détermination du nombre d’heures exercées dans le cadre d’un emploi assurable;
+e) l’existence de l’obligation de verser une cotisation;
+f) la détermination du montant des cotisations à verser;
+g) l’identité de l’employeur d’un assuré;
+h) le fait qu’un employeur est un employeur associé;
+i) le montant du remboursement prévu à l’un ou l’autre des paragraphes 96(4) à (10).
+[25] Enfin, l’article 114 de la LAE traite des appels de décisions rendues par la Commission de l’assurance-emploi :
+114. (1) Appels devant un conseil arbitral – Quiconque fait l’objet d’une décision de la Commission, de même que tout employeur d’un prestataire faisant l’objet d’une telle décision, peut, dans les trente jours suivant la date où il en reçoit communication, ou dans le délai supplémentaire que la Commission peut accorder pour des raisons spéciales dans un cas particulier, interjeter appel de la manière prévue par règlement devant le conseil arbitral.
+[26] La Loi sur la faillite et l’insolvabilité, L.R.C. (1985), ch. B-3, (la « LFI ») indique quelle est la compétence des tribunaux en matière de faillite. L’article 2 définit le mot « tribunal » pour l’application de la LFI :
+« tribunal »
+« tribunal » Sauf aux alinéas 178(1)a) et a.l) et aux articles 204.1 à 204.3, tout tribunal mentionné aux paragraphes 183(1) ou (1.1). Y est assimilé tout juge de ce tribunal ainsi que le greffier ou le registraire de celui‑ci, lorsqu’il exerce les pouvoirs du tribunal qui lui sont conférés au titre de la présente loi.
+Le paragraphe 183(1) est libellé comme suit :
+Tribunaux compétents
+183. (1) Les tribunaux suivants possèdent la compétence en droit et en equity qui doit leur permettre d’exercer la juridiction de première instance, auxiliaire et subordonnée en matière de faillite et en d’autres procédures autorisées par la présente loi durant leurs termes respectifs, tels que ces termes sont maintenant ou peuvent par la suite être tenus, pendant une vacance judiciaire et en chambre :
+[…]
+d) dans les provinces du Nouveau-Brunswick et d’Alberta, la Cour du Banc de la Reine;
+[…]
+[Non souligné dans l’original.]
+[27] Dans la décision 512146 B.C. Ltd. v. Dextras Engineering & Construction Ltd., 2001 BCSC 534, 26 CBR (4th) 128 [Dextras], la cour insiste sur le fait qu’il est important de présenter les requêtes relatives à une faillite devant le tribunal qui a la compétence voulue pour siéger en matière de faillite. Dans cette affaire, la requérante avait présenté une requête devant la Cour suprême de la Colombie-Britannique, mais elle avait porté l’affaire devant la section civile régulière plutôt que devant la division de faillite. Le juge Burnyeat a dit ce qui suit :
+[traduction]
+[32] L’avocat du syndic soutient que les juges de la Cour suprême ont compétence concurrente, de sorte qu’une ordonnance peut être rendue en matière de faillite dans une instance civile, telle qu’une procédure d’annulation. Je suis arrivé à la conclusion contraire.
+[33] Le mot « tribunal » est défini à l’article 2 de la LFI comme s’entendant de « [...] la juridiction compétente en matière de faillite ou un de ses juges [...] ». Cette définition s’applique d’une façon générale en vertu de la LFI, sauf dans le cas de renvois à un « tribunal » prévus à l’alinéa 178(1)a), aux articles 204.1 à 204.3 et au paragraphe 243(1). Il ressort de la définition du mot « tribunal » que les demandes telles que celle que le syndic a présentée en vertu de l’article 135 de la LFI doivent être présentées, dans le cas d’une faillite, devant un juge de la Cour suprême de la Colombie-Britannique. Dans ce cas‑ci, la requête aurait dû être entendue dans le cadre de la procédure de faillite. Or, cela n’a pas été fait.
+[34] Le paragraphe 187(10) de la LFI n’aide pas le syndic. Cette disposition traite de procédures qui ont été intentées, prises ou continuées devant un tribunal n’ayant pas compétence en matière de faillite et non de procédures qui n’ont pas été intentées, prises ou continuées en matière de faillite. Étant donné que les procédures de faillite doivent être déposées au greffe de faillite le plus rapproché de la résidence du débiteur, le paragraphe 187(10) de la LFI peut uniquement être invoqué afin de permettre que les procédures de faillite soient transférées d’un greffe à un autre – d’un tribunal de faillite et un autre. Voir, par exemple, Re Tobin (1930), 12 C.B.R. 55 (C.S.Q.), Re Soloway (1938), 19 C.B.R. 350 (C.S. Ont.), confirmé [(1939),] 20 C.B.R. 309 (C.S. Ont.) et Re Fundy Supplies Ltd. (1972), 18 C.B.R. (N.S.) 171 (C.A.N.‑B.).
+[35] On ne saurait avoir recours au paragraphe 187(10) aux fins du transfert des procédures de la Cour suprême siégeant à titre de tribunal de faillite à la Cour suprême siégeant à titre de tribunal civil. De même, un tribunal ne peut pas rendre valide, au moyen d’un transfert effectué en vertu du paragraphe 187(10), une procédure qui est nulle : Re Chambers (1937), 18 C.B.R. 149 (C.S. Ont.). Il importe de noter que le paragraphe 187(10) parle d’un « tribunal n’ayant pas compétence » (wrong court) et non d’une « action irrecevable ».
+[Non souligné dans l’original.]
+[28] Les énoncés de droit susmentionnés montrent clairement que la Cour n’a pas la compétence voulue pour entendre la présente affaire.
+[29] La seule compétence conférée à la Cour à l’article 104 de la LAE se rapporte à des décisions telles que celles qui se rapportent à l’admissibilité aux prestations d’AE et à l’applicabilité des cotisations. Je crois que l’avocat de l’intimé avait raison de souligner que la requête de la requérante porte sur l’admissibilité aux prestations (du moins dans la mesure où la législation sur l’AE est pertinente). Cela ne fait pas partie des questions visées aux articles 85 ou 90 de la LAE. Cela relève plutôt de l’article 114, qui traite de la compétence accordée au conseil arbitral sur ce point. Toutefois, la question de l’admissibilité de la requérante aux prestations d’AE ne constitue qu’une des formes que le présent litige peut prendre.
+[30] L’autre point en litige – le plus saillant – est centré sur la question de savoir pourquoi l’ARC continue à retenir certaines sommes en paiement d’une dette qui a manifestement été éteinte par suite de la libération de la requérante. Il s’agit clairement d’une question relevant d’une cour supérieure siégeant en matière de faillite. À coup sûr, ni la LCCI ni la LFI n’accordent la compétence voulue à la Cour en matière de faillite. Selon la décision Dextras, la Cour ne saurait pas non plus simplement transférer la présente affaire à la Cour du Banc de la Reine de l’Alberta siégeant en matière de faillite et d’insolvabilité, quoique cela constitue peut-être la solution la plus simple pour tous les intéressés.
+[31] Je crois que, pour faire trancher cette question, la requérante doit présenter à la Cour du Banc de la Reine de l’Alberta siégeant en matière de faillite et d’insolvabilité une requête en vue d’obtenir une déclaration de libération de la dette relative à l’AE. Les Règles générales sur la faillite et l’insolvabilité, C.R.C. ch. 368, prévoient ce qui suit :
+Procédure judiciaire
+9.(1) Tous les actes de procédure présentés devant le tribunal sont datés et portent en titre le nom du tribunal visé et la mention « En matière de faillite et d’insolvabilité ».
+(2) Les documents utilisés lors du dépôt d’une requête en faillite ou après le dépôt d’une cession portent le titre « Dans l’affaire de la faillite de... ».
+[…]
+Requêtes et motions
+11. Sous réserve des autres dispositions des présentes règles, toute demande au tribunal se fait par requête ou par motion, à moins que celui‑ci n’en ordonnance autrement.
+[…]
+[Non souligné dans l’original.]
+[32] À mon avis, la Cour n’a pas compétence pour entendre le présent appel. J’ai conclu qu’il s’agit ici d’un cas qui doit être réglé par la Cour du Banc de la Reine de l’Alberta siégeant en matière de faillite et d’insolvabilité ou par le conseil arbitral.
+[33] Avant de conclure, j’aimerais dire qu’à mon avis, il s’agit d’un cas dans lequel le ministre du Revenu national devrait recommander une remise de dette en vertu de l’article 23 de la Loi sur la gestion des finances publiques, L.R.C. (1985), ch. F-11 (la « LGFP »). Le législateur fédéral a édicté des dispositions législatives qui permettent, à la discrétion du gouverneur en conseil, une remise des taxes, pénalités ou autres dettes payables à la Couronne. Le paragraphe 23 de la LGFP est libellé comme suit :
+Définitions
+23. (1) Les définitions qui suivent s’appliquent au présent article.
+« autre dette»
+« autre dette » Somme due à Sa Majesté à l’exception d’une taxe, d’une pénalité ou d’une créance visée au paragraphe 24.1(2).
+« pénalité »
+« pénalité » Confiscation ou peine pécuniaire sanctionnant, sous le régime d’une loi fédérale, une infraction à une loi portant recettes ou à la législation relative à des ouvrages publics dont l’usage est générateur de droits ou péages ou de recettes, indépendamment de la fraction qui en est payable notamment au dénonciateur ou au poursuivant.
+« taxes »
+« taxes » Impôts, taxes, droits de douane ou autres contributions payables à Sa Majesté sous le régime d’une loi fédérale.
+Remise de taxes ou de pénalités
+(2) Sur recommandation du ministre compétent, le gouverneur en conseil peut faire remise de toutes taxes ou pénalités, ainsi que des intérêts afférents, s’il estime que leur perception ou leur exécution forcée est déraisonnable ou injuste ou que, d’une façon générale, l’intérêt public justifie la remise.
+Remise des dettes
+(2.1) Sur recommandation du Conseil du Trésor, le gouverneur en conseil peut faire remise de toutes autres dettes, ainsi que des intérêts afférents, s’il estime que leur recouvrement est déraisonnable ou injuste ou que, d’une façon générale, l’intérêt public justifie la remise.
+[…]
+[Non souligné dans l’original.]
+[34] Par conséquent, le Conseil du Trésor peut recommander au gouverneur en conseil de faire une remise du montant dû par la requérante au titre de l’AE. Si le gouverneur en conseil estime que le recouvrement de la dette relative à l’AE est déraisonnable ou injuste ou que l’intérêt public justifie la remise, il peut rendre une ordonnance en ce sens.
+[35] En l’espèce, il est possible d’invoquer un argument convaincant, à savoir qu’il est de fait déraisonnable et injuste de recouvrer la dette relative à l’AE de la requérante. Dans l’arrêt Vachon c. Canada (Commission de l’emploi et de l’immigration), [1985] 2 R.C.S. 417, 23 D.L.R. (4th) 641 [Vachon], de la Cour suprême, un particulier avait reçu un paiement en trop de prestations d’assurance‑chômage par suite d’une erreur. Le particulier n’avait commis aucune fraude. Toutefois, par suite du paiement en trop, il devait un montant de 922 $ à la Couronne. Il avait par la suite fait cession de ses biens en vertu de la Loi sur la faillite. La Commission de l’assurance-chômage avait néanmoins continué à recouvrer le montant en cause en effectuant des retenues sur les prestations futures. Le juge Beetz a expliqué comme suit la question dont la cour était saisie :
+[11] La question qu’il s’agit de trancher est la suivante : le recouvrement du trop‑perçu par voie de retenue sur les prestations subséquentes, dont l’intimée s’est prévalue, constitue‑t‑il, au sens du par. 49(1) de la Loi sur la faillite, un recours contre le débiteur ou contre ses biens, une action, exécution ou autre procédure qui se trouvait suspendu sauf, comme le prévoit cet article, avec l’autorisation du tribunal et aux conditions que ce dernier pouvait imposer?
+[36] La Cour suprême a décidé à l’unanimité que la retenue constituait de fait un recours ou une action, exécution ou autre procédure de ce genre qui ne pouvait avoir lieu qu’avec l’autorisation du tribunal. Les motifs à l’appui de cette conclusion ont été énoncés par le juge Beetz :
+[45] L’appelant a raison selon moi de voir une analogie entre le salaire d’un failli et les prestations d’assurance‑chômage et de souligner que la suppression partielle ou totale de ces dernières risque de priver le failli de ses moyens de subsistance, à l’encontre d’un autre objectif de la Loi sur la faillite. Si la retenue des prestations d’assurance‑chômage ne peut se faire sans l’autorisation du tribunal, comme le prescrit le par. 49(1), le tribunal veillera à ce que cet autre objectif ne soit pas perdu de vue.
+[46] D’autre part, le seul objectif de la Loi sur la faillite mentionné par l’intimée, savoir la distribution équitable des biens du failli entre ses créanciers et l’intérêt de ces derniers sera également pris en considération par le tribunal à qui l’intimée demandera, en conformité du par. 49(1), l’autorisation de recouvrer le trop‑perçu par voie de retenue sur les prestations subséquentes. Le tribunal pourra accorder cette autorisation, la refuser, ou ne l’accorder que pour partie ou à certaines conditions, compte tenu de toutes les circonstances.
+[47] En d’autres termes, l’interprétation grammaticale ou littérale du par. 49(1) de la Loi sur la faillite, qui soumet la retenue des prestations d’assurance‑chômage à l’autorisation du juge, n’empêche la poursuite d’aucun des objectifs de la Loi sur la faillite. Elle permet au contraire la poursuite intégrée de ces divers objectifs, sous la surveillance du tribunal. Ajoutons qu’au surplus, elle est de nature à faciliter l’administration de la faillite par le syndic ainsi automatiquement informé des retenues faites par des créanciers qui ont également déposé des réclamations dans la faillite.
+[Non souligné dans l’original.]
+[37] Je crois que les faits de l’affaire Vachon et le raisonnement qui y a été fait s’appliquent aux faits de la présente espèce. Comme dans l’affaire Vachon, aucune décision selon laquelle la requérante avait reçu ses prestations d’AE par suite de la perpétration de quelque fraude n’a été rendue. Ni l’ARC ni la Commission de l’assurance-emploi n’ont demandé à la Cour la permission de continuer à assurer le recouvrement de la dette relative à l’AE. Néanmoins, on a procédé à une réduction des prestations de maternité subséquentes de la requérante, de sorte que cette dernière a été privée de ses moyens de subsistance.
+[38] J’aimerais en outre faire remarquer que même si la Commission de l’assurance‑emploi avait décidé à l’interne que la requérante s’était livrée à une fraude en commettant l’erreur de ne pas déclarer les trois semaines d’emploi parce qu’elle supposait que son RE serait suffisant pour informer les autorités, à l’AE, cela ne suffit pas pour permettre à ces dernières de recouvrer unilatéralement la dette relative à l’AE après la faillite. Dans la décision Canada (Attorney General) v. Bourassa (Trustee of), 2002 ABCA 205, [2002] 11 WWR 285 [Bourassa], un failli avait fait l’objet d’une ordonnance de libération en vertu de la LFI. Le procureur général du Canada n’avait pas comparu à l’audition de la demande de libération, de sorte qu’il ne s’y était pas opposé. Toutefois, la Commission de l’assurance-emploi avait antérieurement eu recours à son propre mécanisme interne pour décider que la dette résultait d’une fraude commise par M. Bourassa. Néanmoins, une conclusion de fraude tirée au moyen des processus internes d’un organisme créancier ne suffisait pas pour convaincre la Cour d’appel de l’Alberta qu’une exemption permettant à la dette de survivre à la faillite était déclenchée. Le juge McClung, au nom de la majorité, a dit ce qui suit :
+[traduction]
+[4] Devant la Cour, le procureur général appelant a soutenu qu’une dette qui est visée à l’alinéa 178(1)e) survit à la faillite par application de la loi, de sorte qu’il n’est pas nécessaire de rendre une déclaration judiciaire à cet effet. Par conséquent, est-il soutenu, le registraire n’avait pas compétence pour imposer une telle condition, obligeant la Couronne à présenter une autre demande en justice. Le procureur général appelant se fonde sur la conclusion interne de fraude tirée par la Commission de l’assurance-emploi en affirmant avec insistance que c’est le failli qui doit chercher à réfuter cette conclusion en portant l’affaire en appel selon la procédure d’appel prévue par la Loi sur l’assurance-emploi, ou en cherchant à répondre aux tentatives que le procureur général appelant a faites pour recouvrer le montant dû compte tenu de sa faillite et de sa libération subséquente.
+[5] Je ne souscris pas au point de vue de l’appelant. Il est vrai que l’alinéa 178(1)e) n’exige pas expressément une déclaration judiciaire, mais le créancier, même s’il s’agit de la Couronne, ne saurait être autorisé à conclure lui-même à la fraude et à chercher ensuite à recouvrer le montant dû sur ce fondement. Pour que le créancier puisse continuer à faire valoir sa réclamation contre un failli qui a été libéré, il doit exister une ordonnance judiciaire dans laquelle il est conclu à l’existence d’une fraude, et ce, que l’ordonnance soit obtenue avant, durant ou après la libération. […]
+[Non souligné dans l’original.]
+[39] Compte tenu de cet énoncé judiciaire, qui n’a pas été annulé et qui vaut encore en tant qu’énoncé exact du droit de la faillite au Canada, il est difficile de concevoir pourquoi la Commission de l’assurance-emploi et l’ARC continueraient à se fonder uniquement sur une conclusion interne de fraude (qui, à ce jour, n’a même pas été alléguée en l’espèce) pour continuer à essayer de recouvrer une dette qui, sur le plan juridique, a été éteinte par suite de la cession des biens et de la libération subséquente de la requérante.
+[40] En effectuant des retenues sur les prestations de maternité, l’ARC prive de ses moyens de subsistance la requérante, qui est, selon la preuve présentée à la Cour, une personne dont les moyens sont modestes et qui s’est vue obligée de faire faillite parce qu’elle n’était pas en mesure de rembourser une dette relativement peu élevée. En outre, afin de faire valoir ses droits devant les tribunaux, la requérante serait maintenant obligée de présenter une autre requête devant un autre tribunal pour des raisons liées à une question de compétence. Elle se verrait obligée d’engager des frais supplémentaires, de subir des retards et de faire face au stress additionnel d’avoir à naviguer les méandres du système judiciaire, dans le domaine de la faillite, que la plupart des particuliers canadiens ne connaissent pas. L’ARC semble agir en violation de principes valables du droit de la faillite, tels qu’ils ont été énoncés par la Cour suprême du Canada dans l’arrêt Vachon et par la Cour d’appel de l’Alberta dans l’arrêt Bourassa. Selon moi, il s’agit ici d’un cas dans lequel il serait approprié pour le Conseil du Trésor de recommander, en vertu de l’article 23 de la LGFP, une remise du montant dû par la requérante au titre de l’AE. Il serait déraisonnable et injuste de continuer à essayer de recouvrer cette dette.
+[41] L’avis de requête du ministre est accepté.
+Signé à Vancouver (Colombie-Britannique), ce 22e jour de février 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 30e jour de mars 2011.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2011 CCI 117
+No DU DOSSIER DE LA COUR : 2009-3112(EI)APP
+INTITULÉ : CRYSTAL L. COURTNEY
+c.
+MINISTRE DU REVENU NATIONAL
+LIEUX DE L’AUDIENCE : Fort McMurray (Alberta)
+Edmonton (Alberta)
+DATES DE L’AUDIENCE : Les 19 avril 2010 et 20 janvier 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge L.M. Little
+DATE DE L’ORDONNANCE : Le 22 février 2011
+COMPARUTIONS :
+Pour la requérante :
+La requérante elle-même
+Avocat de l’intimé :
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

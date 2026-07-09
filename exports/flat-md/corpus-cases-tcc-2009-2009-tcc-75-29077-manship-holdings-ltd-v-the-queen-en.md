@@ -1,0 +1,168 @@
+---
+title: "Manship Holdings Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29077/index.do"
+last_modified: "2009-02-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 75"
+citation2: ""
+neutral_citation: "2009 TCC 75"
+decision_date: "2009-02-05"
+language: "en"
+item_id: "29077"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6823
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:36:09.446000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3b1c0baaf843a4249ece0402abbcfaebe3cc3b236eed3b54703e9c9072e05b3f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Manship Holdings Ltd v. The Queen
+
+- Citation: 2009 TCC 75
+- Decision date: 2009-02-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6823, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manship Holdings Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-05
+Neutral citation
+2009 TCC 75
+File numbers
+2006-3027(GST)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-3027(GST)G
+BETWEEN:
+MANSHIP HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 10, 2008, at Fredericton, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Andrew Rouse
+Counsel for the Respondent:
+Catherine McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment under Part IX of the Excise Tax Act dated July 6, 2005 for the period from January 1, 2001 to September 30, 2004 is dismissed with costs.
+Signed at Ottawa, Canada, this 5th day of February 2009.
+« François Angers »
+Angers J.
+Citation: 2009TCC75
+Date: 20090203
+Docket: 2006-3027(GST)G
+BETWEEN:
+MANSHIP HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal with respect to an assessment under Part IX of the Excise Tax Act (the “Act”) dated July 6, 2005 for the period from January 1, 2001 to September 30, 2004 (the “period”). The starting point of the period under appeal had originally been October 1, 2000, but the appellant agreed at the beginning of the hearing that the period prior to January 1, 2001 was statute-barred pursuant to subsection 298(1) of the Act.
+[2] The appellant at all relevant times operated a massage parlour under the name Gentleman’s Massage Club in various locations in New Brunswick and Nova Scotia. To provide this service, the appellant entered into verbal agreements, called bookings, with masseuses. These so-called bookings could be for anything from a few days to as many as 10 days.
+[3] In early 1998, the appellant requested an interpretation concerning the application of the Harmonized Sales Tax (HST) to the operations of its massage parlours and, in response, the Saint John Tax Services Office of Revenue Canada issued a ruling that the masseuses were employees. The subsequent interpretation given by the Atlantic Technical Interpretation Services Centre was based on that fact. That interpretation was that HST was collectable by the person who made the taxable supply and payable by the recipient of that supply at the applicable rate on the value of the consideration for the supply.
+[4] To the question of whether HST applied to that part of the consideration that the appellant allocated to the masseuses’ salaries, the answer was that the appellant had to collect HST in respect of the consideration paid, and the fact that the appellant allocated a portion of that consideration to its employees’ salaries was immaterial.
+[5] For the period in issue, the appellant, collected and paid HST on the value of the consideration paid by the recipient for the services rendered by the appellant at its various parlours. The rates were fixed by the appellant at $70 for half hour, $120 for one hour and $150 for what is known as a Turkish bath. The appellant would keep half of that rate and the masseuses would get the other half. The recipient paid cash for the services; no receipts were given and the HST was included in the rates. The appellant calculated the HST on the total rate charged and paid it out of its half of the fees collected.
+[6] In early 2005, the appellant amended its HST returns for the period from January 1, 1995 to September 30, 2004, reducing the amount of HST payable on the basis that the HST was collected and remitted in error on the masseuses’ portion of the fees collected, as, in the appellant’s submission, they were not his employees. The Minister protected the appellant’s right to appeal by posting the amended returns to its account for the period. The posting of the amended returns resulted in a refund to the appellant, as the HST collected was reduced with respect to each of the amended returns except those prior to January 1, 2001. The Minister determined, though, that the refunds generated by the amended returns were not valid and assessed the appellant for the period in issue by adjusting the amended returns to reflect appellant’s initial returns. The Minister’s position is that the masseuses were under a contract of service, that the appellant was required to collect HST on the total consideration received for the services it provided, and that, accordingly, no HST was remitted in error and therefore no refund is available.
+[7] The parties agreed, at the hearing, that the refund amount at issue for the period in question is $90,962.68.
+[8] While the main issue raised in the pleadings is centred on the question of whether the masseuses were working as independent contractors or as employees, the respondent’s position is that the nature of the transaction between the appellant and the customer is an equally important consideration in that the appellant is the actual supplier of the services notwithstanding the nature of the relationship between the appellant and the masseuses. In the alternative, the respondent submits that only the person who bears the burden of payment of the tax is entitled to a rebate under s. 261 of the Act. The respondent submits that when the appellant remitted the tax, it was calculated on the basis of the total sales by its club, as required by virtue of the fact that the appellant was the supplier of the taxable supply. Thus, there was no overpayment. The respondent submits lastly that subsection 232(3) of the Act is of no assistance to the appellant, since that subsection requires a person who has overcharged or overcollected from another to issue a credit note containing prescribed information, and there has been no overcharge or overcollection here.
+[9] The appellant’s main argument is that the evidence clearly supports a finding that the masseuses were independent contractors. As a result, the legal characterization of the nature of the transactions is that there were multiple supplies, that is to say, the appellant made a supply to the masseuses of the use of the facilities at the club and the masseuses made a supply of massage services to the customers or the appellant made the supply to the customers and the masseuses made a supply of their services to the appellant or the appellant and the masseuses all made separate supplies to the customers.
+[10] It is my belief that the question that must be answered is the following: Who is the supplier of the services? It need only be answered, however, if the masseuses are held to have been independent contractors, for if they are employees, they cannot be suppliers for HST purposes.
+[11] The parlours operated by the appellant consisted of a reception area, a waiting room or lounge area and the rooms where the services were rendered. Those services are described as non-therapeutic massages for entertainment purposes and included what was described as a Turkish bath. In addition, at the appellant’s facilities, but on another floor, free living accommodation was provided for the use of the masseuses during their shifts or for the duration of their booking.
+[12] The appellant employed a manager for each parlour, whose responsibilities were to book the masseuses, greet the customers and generally manage and supervise the parlour. The parlours or clubs were open 7 days a week with slightly different hours, ranging from noon to 3 a.m.
+[13] In general, the masseuses would call the club to book their time. The bookings at the Moncton, New Brunswick, club were usually for 10 days and those at the Dartmouth, Nova Scotia, club were for three days. On occasion, the club would call a masseuse to book her if there was a need to replace one who did not show up or if the club was short of masseuses for the number of rooms available. Masseuses could also book in advance or leave at the club details as to their availability. In a year, the Moncton, New Brunswick, club could book up to 60 different masseuses, and up to 50 could be booked at the Dartmouth Club.
+[14] The masseuses were free to advertise their services. They did not do such advertising under the club’s name but they did mention in it the club at which they would be working. They informed the customers of their return dates. Some operated on their own from their home and had a website and business cards. What was not permitted by the appellant was for the masseuses to leave with a customer at a club information on obtaining their services at places other than the club.
+[15] Once a customer had chosen the service to be provided by the masseuse, she handed the money over to the club manager who was on duty. In 2002, time cards were introduced. At the end of each day, the appellant would collect its flat rate amount on the basis of those time cards. The masseuses were not allowed to charge more than double the flat rate but could charge less with respect to their own share of the rate. If caught charging more, they were not booked again. They also had the right to refuse a customer. No fines were levied by the appellant against the masseuses.
+[16] The masseuses were not required to be licensed and did not come under any provincial legislation that could restrict their services. The manager-receptionist did supervise the activities carried on at the club by making sure that no alcohol or drugs were consumed on the premises and that the rates charged did not exceed those determined by the appellant.
+[17] The appellant had the right to terminate a booking if a masseuse did not adhere to her schedule or was caught stealing a customer or consuming drugs or alcohol. On the other hand, a masseuse was allowed to leave if her services were not requested by customers. A masseuse whose services were not requested was not remunerated and she owed nothing to the appellant. The masseuses were allowed to have a flexible schedule if they so chose. They were also free to choose what they wore when performing their work. The appellant did not provide clothing but did provide the necessary tools, supplies and equipment. The masseuses could provide their own oils or other paraphernalia if they so chose.
+[18] There were no specific areas set up at the clubs that any of the masseuses could designate as her own workspace. If a masseuse became unavailable or could not be reached, the appellant would find a replacement to cover the day’s appointments. The masseuses were not paid vacation time and did not receive any pension benefits or health care coverage.
+Employees or independent contractors
+[19] The leading case on this question is the decision of the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, which reaffirmed the test enunciated in Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 3 F.C. 553, a decision of the Federal Court of Appeal. The factors to be considered are set out in paragraph 47 of the Sagaz decision:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[20] In support of their respective positions, the parties referred to several decisions of this Court with similar fact situations to that in the present case. In particular, reference was made to Zivkovic v. R., [2000] G.S.T.C. 16, Maltais v. R., [2008] G.S.T.C. 122 and Vergara v. Minister of National Revenue, 2004 TCC 263. These cases were ably distinguished by counsel to support their respective positions, but each case must be decided on its own facts.
+[21] The first factor in analyzing the fact situation of a case is the determination of the level of control exercised by the employer over a worker. In our fact situation, the masseuses would make their availability known to the appellant and their bookings were scheduled accordingly. The schedule was also, at times, set so as to accommodate the masseuses. They had the right to refuse a customer, and although they could not charge more than the rates determined by the appellant, they could choose to charge less, albeit at their own expense. The appellant did not provide any training nor was there any supervision of the masseuses. In fact, the appellant did not exercise any control over how the services were performed. If any control was exercised, it was very minimal. Thus this key factor points towards the masseuses being independent contractors.
+[22] With regard to the factor relating to the degree of financial risk or the chance of profit or loss, the masseuses would call in to book their schedules with the appellant according to their availability. They were allowed to have a flexible schedule if they so chose. A masseuse could leave if business was slow, and she earned nothing if she was not picked by the customers. She could choose to charge less for her services, but at her own expense, not the appellant’s. If she was good, she could earn more. The masseuses were also free to provide their services in their own home and some had websites. All these facts also point towards the masseuses being independent contractors or individuals in business for themselves.
+[23] The appellant provided the facilities at which the services were to be rendered, together with the necessary equipment and supplies. The masseuse would decide what to wear, and if she so chose, she could provide her own oils or other paraphernalia. In the context of ownership of tools, in order for the appellant to be able to provide the services on its premises, it is clear that it had to have and provide the above-mentioned facilities so that the masseuses would be able to perform their work at the appellant’s club. Although these aspects could point in the direction of the masseuses being employees, they are not conclusive.
+[24] In Zivkovic, Judge Mogan concluded that since the masseuses in question needed a licence to perform and could only perform in a licensed establishment, they were to be considered as employees. There is no such requirement in our fact situation. I therefore find the masseuses in the present case to be independent contractors.
+Single supply or multiple supplies
+[25] Having come to the above conclusion, it now becomes necessary to address the issue of who had the duty to collect the HST. The answer to that question will depend on the nature of the service provided, that is, on whether a single supply or multiple supplies were made.
+[26] The duty to collect is set out in subsection 221(1) of the Act which reads as follows:
+221 (1) Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+[27] A taxable supply is defined in subsection 123(1) to mean a supply that is made in the course of a commercial activity, and a supplier, in respect of a supply, means the person making the supply. Supply is defined as follows:
+“supply” means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition.
+[28] The issue of single versus multiple supplies has been analyzed in many decisions of this Court and the Federal Court of Appeal. The case most cited is the decision of Judge Rip (as he then was) in O. A. Brown Ltd. v. Canada, [1995] G.S.T.C. 40. Judge Rip, after reviewing principles from the United Kingdom pertaining to the value added tax, summarized as follows the central determination that must be made:
+In deciding this issue, it is first necessary to decide what has been supplied as consideration for the payment made. It is then necessary to consider whether the overall supply comprises one or more than one supply. The test to be distilled from the English authorities is whether, in substance and reality, the alleged separate [supply] is an integral part, integrant or component of the overall supply. One must examine the true nature of the transaction [to] determine the tax consequences. The test was set out by the Value Added Tax Tribunal in the following fashion:
+In our opinion, where the parties enter into a transaction involving a supply by one to another, the tax (if any) chargeable thereon falls to be determined by reference to the substance of the transaction, but the substance of the transaction is to be determined by reference to the real character of the arrangements into which the parties have entered.
+One factor to be considered is whether or not the alleged separate supply can be realistically omitted from the overall supply. This is not conclusive but is a factor that assists in determining the substance of the transaction. The position has been framed in the following terms:
+What should constitute a single supply of services as opposed to two separate supplies, is not laid down in express terms by the value added tax enactments. It would therefore be wrong to attempt to propound a rigid and precise definition lacking statutory authority. One must, it seems to us, merely apply the statutory language, interpreting its terminology, so far as the ordinary meaning of the words allows, with the aim of making the statutory system of value added tax a practical workable system. For this purpose one should look at the degree to which the services alleged to constitute a single supply are interconnected, the extent of their interdependence and intertwining, whether each is an integral part or component of a composite whole. Whether the services are rendered under a single contract, or for a single undivided consideration, are matters to be considered, but for the reasons given above are not conclusive. Taking the nature, content and method of execution of the services, and all the circumstances, into consideration against the background of the value added tax system, particularly its methods of accounting for and payment of tax, if the services are found to be so interdependent and intertwined, so much integral parts or mere components or items of a composite whole, that they cannot sensibly be separated for value added tax purposes into separate supplies of services, then Parliament, in enacting the value added tax system, must be taken to have intended that they should be treated as a single system, otherwise, they should be regarded for value added tax purposes as separate supplies.
+The fact that a separate charge is made for one constituent part of a compound supply does not alter the tax consequences of that element. Whether the tax is charged or not charged is governed by the nature of the supply. In each case it is useful to consider whether it would be possible to purchase each of the various elements separately and still end up with a useful article or service. For if it is not possible then it is a necessary conclusion that the supply is a compound supply which cannot be split up for tax purposes.
+[29] Another interesting passage from Judge Rip’s decision is that in which he cites Lord Widgery C.J. in Customs and Excise Commissioners v. Scott, [1978] S.T.C. 119 (U.K.) at paragraph 28.
+I think it would be a great pity if we allowed this subject to become over-legalistic and over-dressed with legal authorities when, to my mind, once one has got the question posed, the answer should be supplied by a little common sense and concern for what is done in real life.
+[30] The appellant in O. A. Brown was in the business of purchasing livestock for customers, which was a zero-rated supply. In doing so, the appellant incurred costs for other supplies, such as feed, inoculation, transportation and insurance. The appellant charged a markup fee to cover these costs. The respondent contended that each of the disbursements for those items was a separate supply and that the goods and services tax ought to have been charged. The appellant argued that there was a single zero-rated supply of livestock and any disbursements were included in that single supply. In finding for the appellant, Judge Rip made the following comment at paragraph 31:
+. . . It is difficult to isolate these buying activities as being distinct supplies, independent of the whole activity. Only if taken together do they form a useful service. In substance and reality, the alleged separate supply, that of a buying service, is an integral part of the overall supply, being the supply of livestock. The alleged separate supplies cannot be realistically omitted from the overall supply and in fact are the essence of the overall supply. The alleged separate supplies are interconnected with the supply of livestock to such a degree that the extent of their interdependence is an integral part of the composite whole. The services are rendered under a single contract, for a single consideration, albeit the invoice is itemized. The appellant is making a single supply of livestock and the commission and disbursements charged are part and parcel of the consideration for that supply. They do not amount to separate supplies. This is simply a matter of common sense. No GST is collectible on the commission charged and the disbursements.
+[31] The approach taken by Judge Rip has been adopted in many Tax Court decisions and by the Federal Court of Appeal (see Oxford Frozen Foods Ltd. v. Canada, [1996] G.S.T.C. 76, Club Med Sales Inc. v. R., [1997] G.S.T.C. 28, Hidden Valley Golf Resort Assn. v. R., [2000] G.S.T.C. 42 and Camp Mini-Yo-We Inc. v. R., [2006] G.S.T.C. 154).
+[32] In Gin Max Enterprises Inc. v. The Queen, 2007 TCC 223, Justice McArthur of this Court summarized the Canada Revenue Agency’s position on the nature of supplies, as illustrated in its policy statement P-077R2, and concluded that, in light of the case law, the true nature of the transaction was a question of fact to be determined by considering whether in substance the two transactions in issue were so intertwined and interdependent that they had to be supplied together. He quoted Justice Hershfield of this Court, who wrote as follows in 1219261 Ontario Inc. v. R., [2004] G.S.T.C. 4:
+[…] As recognized by the English authorities cited in O.A. Brown, it would, lacking statutory authority, be wrong to attempt to propound a rigid and precise definition of a single (compound) supply. Factors include: the degree of interconnectedness of constituent elements of a supply; the extent of interdependence; and, whether each is an integral part or component of a composite whole. Whether the services are rendered under a single contract, or for a single undivided consideration, are matters to be considered but are not conclusive. How can they be? To so find would mean the Minister could never assess a separate taxable supply where it is coupled with a non-taxable supply under one contract at one price.
+[33] CRA policy statement P-077R2, dated April 26, 2004, uses the following principles to determine whether a transaction consisting of several elements is to be regarded as a single supply or multiple supplies:
+· Every supply should be regarded as distinct and independent.
+· A supply that is single supply from an economic point of view should not be artificially split.
+· There is a single supply where one or more elements constitute the supply and any remaining elements serve only to enhance the supply.
+[34] In the case at bar, one must ask if the supply of the massage along with the supply of the premises constitutes a single supply or multiple supplies. Is it possible or realistic to omit one component from the overall supply? In our fact situation, the appellant could not supply or offer massage services without, or independently from, the use of the premises; thus, both elements are highly interconnected and interdependent. The true nature of the transaction for which consideration was paid was the supply of the massage, which, in the fact situation here, cannot be made without the use of the appellant’s premises. The supply of the premises to the customers cannot stand by itself or be omitted from the overall supply of the massage. In other words, the fact situation of this case would make it impossible to purchase each of the supplies or elements separately and still end up with a useful service. The end result is that the supply in the case at bar is a compound supply whose elements cannot be separated for tax purposes.
+[35] A review of the facts with this approach in mind, as opposed to an approach in which it is necessary to define the contract between the appellant and the masseuses as being either a contract of service or a contract for services, supports the view that I have expressed in that customers would not come to the appellant were it not for the massage services being offered. From a business standpoint, the appellant supplies a massage parlour service, one element of which is to provide the premises.
+[36] The appellant provided the premises, the rooms and the supplies and made the appointments, although the masseuses were free to use their own oils and could also make appointments. The appellant had a reception area where the customers were greeted and a manager was there to supervise, to check for drug and alcohol use, to receive the time cards and to keep an account of the masseuses’ and the appellant’s shares of the flat rate. The masseuses were paid on the basis of the time during which they provided services to the appellant’s customers. A masseuse owed the appellant nothing if she did not have any bookings during her presence on the appellant’s premises. Replacement masseuses were found by the appellant. Were it not for the services being offered, no one would have gone to the appellant’s premises. In my opinion, the appellant was providing a single supply of services to its customers who paid for a massage. The appellant was thus obliged to collect and remit HST on the entire amount received from the customers. The HST remittance was therefore not made in error and the appellant cannot claim a rebate.
+[37] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 5th day of February 2009.
+« François Angers »
+Angers J.
+CITATION: 2009TCC75
+COURT FILE NO.: 2006-3027(GST)G
+STYLE OF CAUSE: Manship Holdings Ltd. and Her Majesty The Queen
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: June 10, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: February 5, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Andrew Rouse
+Counsel for the Respondent:
+Catherine McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Andrew Rouse
+Firm: Mockler Peters Oley Rouse
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,194 @@
+---
+title: "832866 Ontario Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/68861/index.do"
+last_modified: "2014-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 93"
+citation2: ""
+neutral_citation: "2014 CCI 93"
+decision_date: "2014-03-26"
+language: "fr"
+item_id: "68861"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5325
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:03:21.607000+00:00"
+cases_cited_count: 7
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "364525e836b73f5d031dfa9f7f6fdba3cc6bb89191f8d06fdf6676eb7cecd48e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 832866 Ontario Inc. c. La Reine
+
+- Citation: 2014 CCI 93
+- Decision date: 2014-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5325, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+832866 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-26
+Référence neutre
+2014 CCI 93
+Numéro de dossier
+2013-2695(GST)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-2695(GST)I
+ENTRE :
+832866 ONTARIO INC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 février 2014, à London (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocate de l’appelante :
+Me Linda Smits
+Avocat de l’intimée :
+Me Christopher Kitchen
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 1er mars 2012, pour la période de déclaration du 1er janvier 2006 au 31 mars 2006, est rejeté.
+Signé à Ottawa, Canada, ce 26e jour de mars 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 20e jour de mai 2014.
+M.-C. Gervais
+Référence : 2014 CCI 93
+Date : 20140326
+Dossier : 2013-2695(GST)I
+ENTRE :
+832866 ONTARIO INC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] L’unique question qui se pose dans le présent appel, qui est interjeté à l’encontre d’une cotisation de taxe sur les produits et services (la « TPS »), est de savoir si la contribuable a « fait une présentation erronée des faits, par négligence, inattention ou omission volontaire », au sens du paragraphe 298(4) de la Loi sur la taxe d’accise (la « Loi »), lors de l’établissement et de la production d’une déclaration de TPS pour la période du 1er janvier 2006 au 31 mars 2006[1].
+[2] Pendant toute la période en cause, la société construisait des habitations sur demande. Elle exerce ses activités depuis plus de 20 ans. Elle continue de faire affaire sous la dénomination sociale « Carriage Hills Construction », bien qu’elle exerce maintenant ses activités principalement dans le domaine de la rénovation. L’appelante avait coutume d’obtenir du financement dans le but d’acquérir plusieurs lots d’un même lotissement, puis de construire une maison‑témoin que pouvaient visiter d’éventuels acheteurs. Elle ne faisait pas de spéculation : elle procédait uniquement à la construction d’une habitation après la signature d’une convention d’achat.
+[3] En 2006, les actions de la contribuable étaient détenues, en parts égales, par M. et Mme DeMarco. M. DeMarco, qui avait fait des études à Ryerson pour devenir dessinateur, supervisait les travaux de construction et traitait avec les clients et les avocats. M. et Mme DeMarco négociaient tous deux les contrats avec les fournisseurs. M. DeMarco est décédé en avril 2011. Mme DeMarco organisait l’horaire des ouvriers et était présente au bureau. Elle avait travaillé pendant 17 ans pour une équipe de gestion à Bell Canada. Toutefois, la tenue de livres ne faisait pas partie de ses fonctions à Bell Canada.
+[4] En 2005, les affaires tournaient au ralenti. Les DeMarco avaient de la difficulté à entretenir la résidence où ils vivaient et la maison‑témoin appartenant à la contribuable. Au début de 2006, ils ont décidé de vendre leur maison et d’emménager avec leurs enfants dans la maison‑témoin qui était restée vacante depuis la fin des travaux de construction, en 2004. Aux dires de Mme DeMarco, la maison‑témoin était en vente pendant que la famille y vivait.
+[5] Apparemment, M. et Mme DeMarco ne savaient pas qu’une fois la famille installée dans la maison‑témoin, celle‑ci cesserait d’être considérée comme un investissement et deviendrait un bien locatif. Pour l’application de la Loi, le déménagement constituait une fourniture à soi‑même, fourniture assujettie à la TPS.
+[6] Mme Sherry Aul, vérificatrice de la TPS à l’Agence du revenu du Canada (l’« ARC »), a témoigné pour le compte de l’intimée. Il revient à cette dernière de prouver que l’omission d’inclure la fourniture à soi‑même dans la déclaration de TPS est attribuable à la « négligence » ou à l’« inattention » de l’appelante. L’intimée ne prétend pas qu’il s’agit d’une « omission volontaire » ou que l’appelante a commis une fraude en faisant ou en produisant la déclaration.
+[7] En 2010, Mme Aul a été chargée de la vérification du dossier de TPS de l’appelante pour la période en cause. L’ARC avait appris que l’appelante avait vendu la maison‑témoin à M. et Mme Meloche. La convention d’achat‑vente, qui avait été signée le 12 novembre 2009, prévoyait le paiement de 15 988,37 $ au titre de la TPS. Toutefois, le 28 novembre 2009, les mêmes parties ont signé une nouvelle convention qui passait sous silence la question de la TPS.
+[8] Le 20 avril 2006, lorsqu’elle a produit la déclaration de TPS de la société pour la période se terminant le 31 mars 2006, Mme DeMarco a inclus toutes les ventes faites par la société pendant cette période, à l’exception de celle de la maison‑témoin. Lors de l’examen de cette déclaration, Mme Aul a découvert que les états financiers de la société ne faisaient pas état du changement d’utilisation de la maison‑témoin. Le comptable agréé qui a rédigé l’« avis au lecteur » accompagnant les états financiers de l’appelante, M. Peter Benson, a confirmé que la maison‑témoin avait continué de figurer dans les stocks de la société pendant que les DeMarco y vivaient.
+[9] Au cours de sa vérification, Mme Aul s’est entretenue avec M. et Mme DeMarco ainsi qu’avec le comptable de l’appelante, M. Benson. Après le décès de M. DeMarco, elle a continué de discuter de la vérification avec Mme DeMarco et M. Benson ainsi qu’avec une autre personne du cabinet de M. Benson, Crista Wilkem. Mme Aul a obtenu confirmation du fait que les DeMarco avaient vécu dans la maison‑témoin du 1er mars 2006 jusqu’au mois de mai 2009.
+[10] Dans une lettre datée du 11 octobre 2001 adressée à Mme Aul pour donner suite à la demande de renseignements reçue de cette dernière, M. Benson a déclaré que l’appelante avait recours aux services de Dorian Drakos pour sa comptabilité et sa tenue de livres, ajoutant que c’était Mme Drakos qui avait établi [traduction] « toutes les déclarations de TPS au cours [de la] période et [que] la contribuable n’avait aucune raison de penser qu’elles n’étaient pas établies correctement et avec rigueur ». Il a en outre déclaré que [traduction] « la contribuable n’était pas au courant de l’omission et s’en remettait légitimement à l’expérience de la commis comptable qui faisait sa tenue de livres, Dorian Drakos ».
+[11] Mme Dorian Drakos compte 27 années d’expérience dans le domaine de la tenue de livres. Elle a [traduction] « probablement » commencé à travailler pour l’appelante vers la fin des années 1990, une relation qui a pris fin en mai 2005 [traduction] « lorsqu’ils ont cessé de [lui] téléphoner ». Elle a déclaré qu’il était [traduction] « déplaisant » de travailler avec l’appelante et qu’elle [traduction] « n’avait pas cherché à y retourner ». Elle s’est plainte du fait qu’il manquait des notes et des documents dans les dossiers. L’appelante devait [traduction] « beaucoup d’argent » et [traduction] « [Mme DeMarco] était très en colère ». Le travail de Mme Drakos consistait principalement à faire le rapprochement bancaire et elle [traduction] « n’a jamais prodigué de conseils » quant au traitement des maisons-témoins. Elle n’a pas travaillé pour l’appelante en 2006.
+[12] En fait, la déclaration de TPS de l’appelante se rapportant à la période en cause a été établie par Mme Nancy Drew, commis comptable travaillant pour son propre compte. Mme Drew a fourni ses services à l’appelante après le départ de Mme Drakos, en 2005. Mme Drew était une commis comptable d’expérience comptant de nombreux clients, mais l’appelante était sa seule cliente à exercer des activités dans le domaine de la construction. Mme Drew a insisté sur le fait qu’elle n’avait [traduction] « pas produit de déclarations de revenus ». Elle se rendait chaque mois au bureau de l’appelante, lequel s’est toujours trouvé dans l’une des pièces de la résidence des DeMarco, y compris lorsqu’ils vivaient dans la maison‑témoin.
+[13] Mme DeMarco a décrit son travail d’établissement des déclarations de TPS de la manière suivante : elle saisissait tous les montants de TPS facturés dans le logiciel « Simple Comptable » et effectuait des rajustements. Cela avait lieu au cours de la première semaine suivant la fin de la période de déclaration. Tous les renseignements requis pour remplir la déclaration de TPS étaient censés se trouver dans un dossier. Mme Drew [traduction] « extrayait les données » comptables et remplissait la déclaration de TPS. Mme DeMarco vérifiait le travail de Mme Drew uniquement si cette dernière avait une question, auquel cas elle la mettait en communication avec leur avocat ou leur comptable. L’information nécessaire pour l’établissement de la déclaration de TPS était fournie par « Simple Comptable ».
+[14] L’appelante se servait d’un logiciel, « Simple Comptable », pour tenir ses comptes. Mme DeMarco s’occupait de la saisie initiale des données. Mme Drew a déclaré qu’avant d’établir les déclarations de TPS, elle [traduction] « imprimai[t] tous les éléments de la période » à partir du logiciel. Elle confirmait les soldes d’ouverture, s’assurant qu’il n’y avait aucune [traduction] « erreur manifeste ». Elle vérifiait les soldes à la recherche d’« événements à venir ». Elle posait des questions. Mme Drew a dit qu’elle présentait son travail à Mme DeMarco de manière organisée. Elle a reconnu que, s’il manquait quelque chose dans le grand livre, elle ne pouvait pas le savoir.
+[15] Selon ses souvenirs, Mme Drew n’a su que les DeMarco vivaient dans une maison-témoin que [traduction] « quelque temps » après le déménagement. Elle s’était déjà rendue à l’ancienne résidence de la famille DeMarco.
+[16] Enfin, Mme Drew a convenu qu’elle n’était pas qualifiée pour donner des conseils en matière fiscale et qu’elle n’offrait pas de services de cette nature.
+[17] M. Benson a déclaré qu’il avait informé les DeMarco du changement d’utilisation de la maison‑témoin au moment où la famille avait commencé à en faire un usage personnel; il leur avait également conseillé de verser un loyer à la société afin d’éviter que la maison-témoin ne soit considérée comme un avantage imposable pour l’application de la Loi de l’impôt sur le revenu. Aucun élément de preuve n’a été produit à l’égard de la date à laquelle M. Benson a prodigué ce conseil. Il n’a pas informé M. ou Mme DeMarco des conséquences du changement d’utilisation sur le plan de la TPS, et ces derniers ne lui ont pas non plus posé de questions à ce sujet.
+[18] Mme Aul a constaté que, même si les DeMarco avaient déclaré des loyers dans leurs déclarations de revenus personnelles, ces loyers n’ont pas été inclus dans l’état des résultats de la société. Il semblerait, selon elle, que le loyer ait été déclaré comme revenu d’emploi par les DeMarco ou comme avantage imposable calculé, en 2006, d’après un loyer mensuel de 250 $ attribué à M. et Mme DeMarco, soit 500 $ au total. Aucun formulaire T4 n’a été annexé à l’une ou l’autre des déclarations de revenus.
+[19] Dans les déclarations de revenus de 2007, aucun avantage n’a été déclaré. En 2008, un avantage de 3 000 $ a été inclus dans les déclarations de revenus de M. et Mme DeMarco et, en 2009, un formulaire T4 faisant état d’un avantage a été joint à chacune des déclarations de revenus.
+[20] L’ARC publie des guides afin d’aider les contribuables à bien comprendre le régime applicable à la TPS. Mme Aul a fait référence au verso de la déclaration de TPS, qui renvoie le contribuable au guide intitulé « Renseignements généraux sur la TPS/TVH pour les inscrits », publié en 2005, et à un autre guide intitulé « La TPS/TVH pour l’industrie de la construction », également publié en 2005. Elle a attiré mon attention sur les règles relatives à la fourniture à soi‑même, qui sont décrites à la page 9 de ce dernier guide. Le premier guide renvoie les constructeurs d’immeubles à ce second guide.
+[21] Lors du contre‑interrogatoire de Mme Aul, l’avocate de l’appelante a présenté à cette dernière la déclaration de TPS de la période en cause. Elle a demandé au témoin de lui indiquer à quel endroit dans la déclaration il fallait inscrire le montant de la fourniture à soi‑même, à savoir, à la ligne 101, total des ventes et autres recettes, ou à la ligne 105, TPS/TVH établie après autocotisation. L’avocate de l’appelante a signalé que le formulaire ne comportait pas de ligne réservée aux « fournitures à soi‑même » et qu’il y avait lieu de faire une distinction entre une vente résultant d’un changement d’utilisation et une vente ordinaire. Elle a laissé entendre que la déclaration de TPS n’était pas aussi détaillée que la déclaration de revenus des particuliers, qui fait allusion à divers types précis de revenus.
+[22] Aujourd’hui, Mme DeMarco comprend que la société aurait dû payer la TPS lorsque sa famille et elle ont emménagé dans la maison‑témoin. Toutefois, elle prétend que son mari et elle ne savaient pas que le déménagement entraînait des conséquences en matière de TPS. Elle affirme également ne pas avoir fait preuve de négligence ou d’inattention lorsqu’elle a signé la déclaration au nom de la société en omettant d’y inclure la valeur de la maison.
+[23] L’une des tâches de Mme DeMarco consistait à consigner les écritures nécessaires dans le journal de l’appelante. Or, elle n’a rien inscrit au titre du versement de loyers pour la maison‑témoin au cours de la période de déclaration. Elle a convenu que, si elle ne saisissait pas de loyers, la commis comptable n’avait aucun moyen de savoir qu’un loyer était payé.
+[24] Mme DeMarco a été interrogée au sujet de la vente de la maison‑témoin à M. et Mme Meloche et sur les raisons pour lesquelles aucune TPS n’avait été payée. Elle a déclaré que la décision de ne pas percevoir de TPS devait avoir été prise par M. DeMarco, M. Benson ou l’avocat. Mme Aul a produit une lettre datée du 11 janvier 2010 dans laquelle l’avocat faisait le compte rendu de la vente aux Meloche ainsi que des documents connexes qu’elle avait reçus de M. Benson par télécopieur autour du 1er février 2011. Dans sa lettre de compte rendu, Me Perry Ambrogio, avocat de l’appelante, fait référence à la première convention comme [traduction] « comprenant la TPS nette », mais, à l’issue de discussions avec le comptable de l’appelante, il a été décidé que l’acheteur n’était pas tenu de verser la TPS [traduction] « étant donné que la TPS devait être payée par la société au moment où la maison a commencé à être utilisée comme résidence familiale ». Sur la page couverture du document télécopié, M. Ambrogio déclare qu’il [traduction] « croyai[t] que la société avait déjà versé la TPS ou que [M. DeMarco prendrait] des dispositions pour verser la TPS qui devait être payée au moment ou [la famille a] commencé à vivre dans la maison ».
+[25] Suivant son témoignage, Mme DeMarco n’a pas demandé conseil à M. Benson pour établir les déclarations de TPS; elle n’a pas non plus cherché à obtenir des renseignements auprès de l’ARC ni consulté ses publications. Elle s’est fiée à la commis comptable et s’est contentée de signer la déclaration établie par Mme Drew sans la vérifier. Elle se disait que Mme Drew poserait des questions s’il manquait quoi que ce soit. Elle croyait que tout était en ordre. (Il n’a pas été allégué que M. DeMarco était peut-être au courant de l’obligation de l’appelante de payer la TPS.)
+[26] M. Benson a déclaré que ce n’était qu’en 2009, au moment où la maison‑témoin avait été vendue, qu’il avait discuté le problème de la TPS avec M. DeMarco. Selon lui, l’avocat de l’appelante avait abordé la question une première fois avec M. DeMarco au moment de la vente aux Meloche. Il a dit qu’il avait [traduction] « présumé » que la TPS avait été payée.
+[27] L’alinéa 298(4)a) de la Loi est ainsi libellé :
+Une cotisation peut être établie à tout moment si la personne visée a :
+An assessment in respect of any matter may be made at any time where the person to be assessed has, in respect of that matter,
+a) fait une présentation erronée des faits, par négligence, inattention ou omission volontaire;
+(a) made a misrepresentation that is attributable to the person’s neglect carelessness or wilful default;
+[28] La majorité des décisions publiées qui traitent de la question de l’établissement d’une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation concernent le sous‑alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu. Le sous‑alinéa 152(4)a)(i) et l’alinéa 298(4)a) sont très semblables, mais ils ne sont pas identiques. Le sous‑alinéa 152(4)a)(i) permet l’établissement d’une cotisation concernant l’impôt après l’expiration de la période normale de nouvelle cotisation pour l’année :
+[…] que dans les cas suivants :
+… only if
+a) le contribuable ou la personne produisant la déclaration :
+(a) the taxpayer or person filing the return
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[29] L’alinéa 298(4)a) fait référence à une présentation erronée se rapportant à un aspect (en anglais, « in respect of a matter ») qui fait l’objet d’une cotisation : il ne vise pas précisément la présentation erronée faite en produisant une déclaration. Dans le présent appel, cet « aspect » (ou « matter ») est la présentation erronée par omission d’un montant figurant dans une déclaration de TPS et faisant l’objet d’une cotisation. La jurisprudence relative à l’actuel sous‑alinéa 152(4)a)(i) et à ses versions antérieures fait autorité pour ce qui est de l’interprétation à donner à l’alinéa 298(4)a) de la Loi[2].
+[30] Pour l’application de l’alinéa 298(4)a), il y a présentation erronée des faits lorsqu’une déclaration est faite et que la présentation erronée est attribuable à la négligence, à l’inattention ou à une omission volontaire survenue à ce moment‑là. Et la présentation erronée des faits ne peut être effacée ni autrement modifiée par suite de l’action ou de l’inaction du contribuable qui en est l’auteur. Par conséquent, même en supposant que M. DeMarco n’ait appris qu’en 2009 que la TPS dût être payée lorsque la famille a emménagé dans la maison‑témoin ou que Mme DeMarco n’ait été mise au courant de la TPS due par l’appelante aussi tardivement qu’en février 2011, il s’agit de considérations qui sont sans conséquence. Ce qui compte, c’est de déterminer ce qu’elle savait réellement ou ce qu’elle aurait dû savoir, comme toute personne raisonnable, au moment d’établir et de produire la déclaration.
+[31] Dans l’arrêt Nesbitt v. The Queen[3], la Cour d’appel fédérale a rejeté l’appel d’un contribuable dont la déclaration de revenus contenait une erreur de calcul, même si cette erreur pouvait aisément être relevée dans les feuilles de calcul annexées à la déclaration. Le juge Strayer a fait les commentaires suivants :
+[…] l’un des objets du paragraphe 152(4) est de favoriser l’établissement soigné et exact des déclarations de revenus. C’est au moment où la déclaration est produite que l’on peut déterminer s’il y a eu ou non présentation erronée de faits par négligence ou inattention en remplissant la déclaration. Des faits ont été présentés erronément s’il se trouve un élément inexact dans la déclaration, du moins un élément qui est important pour les fins de la déclaration ainsi que de toute nouvelle cotisation ultérieure […]
+[32] Dans le même ordre d’idée, le juge Bowie a statué, dans la décision College Park Motors Ltd. v. The Queen[4], que, même si la contribuable avait porté l’erreur à l’attention des autorités fiscales, cela n’effaçait pas le fait que des faits avaient été présentés erronément dans la déclaration. Indépendamment des efforts déployés par la contribuable pour remédier à l’erreur, celle‑ci était la conséquence de la négligence dont elle avait fait preuve au moment de produire la déclaration[5].
+[33] Mme DeMarco fait valoir que la déclaration de TPS a été établie par Mme Drew. Elle ne savait pas que l’appelante avait effectué une fourniture à soi‑même et s’est contentée de signer la déclaration sans l’examiner et sans poser de questions à Mme Drew. Cette même Mme Drew a déclaré qu’elle était commis comptable et qu’elle n’avait pas les compétences voulues pour donner des conseils en matière fiscale, ce qu’elle s’est abstenue de faire. Mme DeMarco a déclaré que, lorsque Mme Drew avait des questions au sujet de la tenue des livres de l’appelante, elle lui disait de les adresser au comptable ou à l’avocat de l’appelante. Mme Drew faisait la tenue des comptes de l’appelante au moyen de « Simple Comptable ». Cependant, c’est Mme DeMarco qui a initialement saisi tous les chiffres; Mme Drew s’est simplement fiée aux données saisies.
+[34] Lorsqu’il s’agit d’établir que la présentation erronée des faits constatée dans une déclaration de revenus n’a pas été faite par négligence ou inattention, la décision de principe concernant la norme de diligence requise du contribuable, une fois que le ministre s’est acquitté de son fardeau de preuve, est la décision Venne v. The Queen[6]. Au paragraphe 16 des motifs de cette décision, le juge Strayer, qui siégeait alors à la Cour fédérale, a donné les explications suivantes :
+Je suis convaincu qu’il suffit au Ministre, pour invoquer son pouvoir en vertu de l’alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l’égard d’un ou plusieurs éléments de sa déclaration de revenus au titre d’une année donnée. Cette négligence est établie s’il est démontré que le contribuable n’a pas fait preuve de diligence raisonnable. C’est sûrement là le sens des termes « présentation erronée des faits, par négligence », en particulier avec d’autres motifs comme l’inattention ou l’omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée. Sauf si ces termes étaient superflus dans cet article, hypothèse que je ne puis accepter, le terme « négligence » impose un critère moins strict de faute, semblable à celui qui est utilisé dans les autres domaines du droit, comme la responsabilité délictuelle […]
+[35] Les faits portés à ma connaissance en l’espèce ne ressemblent pas tout à fait à ceux qui étaient en cause dans l’une ou l’autre des décisions publiées qui m’ont été signalées par l’avocate de l’appelante. Dans l’affaire Aridi c. La Reine[7], le contribuable a suivi les conseils de son comptable après en avoir longuement discuté avec ce dernier. Il a ainsi décidé de ne déclarer la vente de la moitié d’un immeuble qu’au moment où il vendrait l’autre moitié. Ce contribuable a obtenu gain de cause.
+[36] Dans la décision College Park[8], la contribuable a été déboutée de son appel parce que la personne qui avait signé les déclarations de revenus établies par son comptable n’avait pas « porté à l’examen des projets de déclaration le soin qu’y aurait mis un contribuable avisé et prudent ». Autrement, il aurait lu les questions figurant dans la déclaration au sujet d’un impôt particulier (l’impôt de la partie I.3) et aurait demandé au comptable en quoi consistait cet impôt et aurait vu que ce dernier ne le savait pas non plus. Ils auraient alors pu effectuer des recherches.
+[37] Enfin, dans la décision Fukushima v. The Queen[9], les comptables ont omis d’inclure dans le calcul des revenus certains montants relatifs à du travail en cours qui avaient été déduits l’année précédente en vertu de l’article 34 de la Loi de l’impôt sur le revenu et dont ils savaient qu’ils devaient être inclus. Le contribuable et son associé n’ont pas agi avec une diligence raisonnable en remplissant et en produisant leurs déclarations de revenus respectives, qui présentaient des faits de façon erronée.
+[38] La Cour fédérale a statué qu’en raison de la confusion qui régnait, l’erreur commise en était une qu’un contribuable normalement prudent et avisé aurait commise sans qu’il y ait négligence de sa part : Minister of Revenue v. Bisson[10].
+[39] Mme DeMarco n’est pas une ancienne employée de l’ARC ayant une bonne connaissance du régime de la TPS comme c’était le cas pour le directeur de l’entreprise Construction Daniel Provencher Inc.[11]. Elle n’était pas non plus comptable de profession. La déclaration de TPS ne comporte pas autant de questions que la déclaration de revenus, et, selon l’avocate de Mme DeMarco, on était en droit de douter que l’examen de la déclaration de TPS ait pu susciter des questions chez Mme DeMarco. Or, ce n’est pas là une raison pour s’abstenir de prendre les précautions nécessaires pour tenter de parvenir, tout au moins, à établir correctement la déclaration.
+[40] En revanche, Mme DeMarco n’a pas fait appel à une personne qui, si elle ne détenait pas les titres professionnels, connaissait à tout le moins bien les questions générales d’ordre fiscal ou, plus particulièrement, la TPS. L’appelante avait retenu les services d’un comptable agréé, mais elle n’a même pas communiqué avec ce dernier. Elle n’a pas non plus consulté l’ARC, ni aucune de ses publications. C’était elle qui s’occupait de la saisie initiale des données dans le logiciel et dans le journal d’où la commis comptable extrayait l’information utile à la tenue des comptes et à l’établissement de la déclaration de TPS. Or, c’est à cette étape de la saisie initiale que les faits ont été erronément présentés. Mme DeMarco s’est contentée d’effectuer les saisies et de signer la déclaration de TPS sans l’examiner.
+[41] Contrairement à la contribuable en cause dans l’affaire Bondfield Construction Co. (1983) Ltd. c. La Reine[12], l’appelante, qui s’en est entièrement remise à ses comptables, internes et externes, n’a pas exercé « tout le contrôle interne et externe possible pour assurer la conformité ». En fait, elle n’en a exercé aucun. Le fait que le déménagement de la famille dans la maison‑témoin correspondait à une opération jamais effectuée par les DeMarco depuis la constitution de la société, il y a de cela plus de 20 ans, ou du moins depuis l’entrée en vigueur du régime de la TPS, ne l’a pas tracassée suffisamment pour la pousser à s’informer.
+[42] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 26e jour de mars 2014.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 20e jour de mai 2014.
+M.-C. Gervais
+RÉFÉRENCE : 2014 CCI 93
+NO DU DOSSIER DE LA COUR : 2013-2695(GST)I
+INTITULÉ : 832866 ONTARIO INC
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 26 février 2014
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 26 mars 2014
+COMPARUTIONS :
+Avocate de l’appelante:
+Me Linda Smits
+Avocat de l’intimée :
+Me Christopher Kitchen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Keith M. Trussler
+Cabinet : McKenzie Lake Lawyers LLP
+London (Ontario)
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Par souci de commodité, il est fait référence, dans les présents motifs, à la taxe sur les produits et services (la TPS) plutôt qu’à la taxe de vente harmonisée (la TVH), malgré le fait que les deux taxes soient en cause. La déclaration est intitulée « Déclaration des inscrits – Taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) ». L’avis de cotisation n’a pas été produit en preuve.
+[2] C’est à l’alinéa 298(4)b) qu’un lien est établi entre la commission d’une fraude et le fait d’établir ou de produire une déclaration, et, en l’espèce, l’intimée n’a pas allégué qu’il y avait eu une fraude.
+[3] 96 DTC 6588; 1996 CarswellNat 1916, par. 8. En 1981, le délai dont disposait le ministre pour établir une nouvelle cotisation à l’égard d’une déclaration de revenus était de quatre ans à compter de la date de la cotisation initiale. Toutefois, une exception était prévue :
+Sous réserve du paragraphe (5), le ministre peut, à un moment donné, fixer l’impôt pour une année d’imposition, ainsi que les intérêts ou pénalités payables en vertu de la présente partie par un contribuable, ou donner avis par écrit, à toute personne qui a produit une déclaration de revenu pour une année d’imposition, qu’aucun impôt n’est payable pour l’année, et peut, selon les circonstances, établir des nouvelles cotisations, des cotisations supplémentaires ou des cotisations d’impôt, d’intérêts ou de pénalités en vertu de la présente partie :
+a) à un moment donné, si le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[4] 2009 DTC 1469, 2009 CarswellNat 2405. L’affaire concernait les années d’imposition 1999 et 2000.
+[5] Dans un arrêt antérieur, Regina Shoppers Mall Ltd. v. The Queen, 91 DTC 5101, la Cour d’appel fédérale avait statué que le ministre ne pouvait se prévaloir du sous‑alinéa 152(4)a)(i) pour établir une nouvelle cotisation à l’égard de la contribuable, car, en plus d’être au courant des faits ayant donné lieu à la nouvelle cotisation, ces faits étaient au cœur d’un litige en cours entre les parties au sujet des cotisations établies à l’égard d’années antérieures.
+[6] 84 DTC 6247 (C.F. 1re inst.), 1984 CarswellNat 210.
+[7] 2013 CCI 74, 2013 DTC 1123 (fr.); 2013 DTC 1189 (angl.), le juge Hogan.
+[8] Précitée.
+[9] 99 DTC 553, 1999 CarswellNat 190, le juge Sarchuk.
+[10] 72 DTC 6224, 1972 CarswellNat 148, le juge Pratte.
+[11] Construction Daniel Provencher Inc. c. La Reine, 2007 CCI 147 (fr.); 2007 TCC 147 (angl.), 2007 CarswellNat5271.
+[12] 2005 CCI 78, [2005] G.S.T.C. 110, 2005 CarswellNat 1444, par. 113, la juge Campbell.

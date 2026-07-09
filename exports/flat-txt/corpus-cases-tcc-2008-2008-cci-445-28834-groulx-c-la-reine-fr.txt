@@ -1,0 +1,135 @@
+Title: Groulx c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28834/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-445-28834-groulx-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-08-15
+
+# Groulx c. La Reine
+
+- Citation: 2008 CCI 445
+- Decision date: 2008-08-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1344, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groulx c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-15
+Référence neutre
+2008 CCI 445
+Numéro de dossier
+2008-1302(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1302(IT)I
+ENTRE :
+PATRICK GROULX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Amit Ummat
+____________________________________________________________________
+ORDONNANCE Vu la requête présentée par l’intimée en vue d’obtenir une ordonnance annulant les prétendus appels interjetés par l’appelant à l’encontre des cotisations établies à son égard en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997, 1998, 2000, 2001, 2003 et 2004;
+La requête est accueillie, sans dépens, et les prétendus appels sont annulés.
+Signé à Halifax (Nouvelle‑Écosse), ce 15e jour d’août 2008.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 28e jour d’octobre 2008.
+Alya Kaddour‑Lord, traductrice
+Référence : 2008CCI445
+Date : 20080815
+Dossier : 2008-1302(IT)I
+ENTRE :
+PATRICK GROULX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Miller
+[1] L’intimée a présenté une requête en vue d’obtenir une ordonnance annulant les appels interjetés par l’appelant à l’encontre des cotisations établies à son égard pour les années d’imposition 1997, 1998, 2000, 2001, 2003 et 2004. Les moyens invoqués par l’intimée afin d’appuyer sa requête sont les suivants :
+a) Les appels visant les années d’imposition 2000, 2001, 2003 et 2004 concernent des cotisations portant qu’aucun impôt fédéral, ni aucuns intérêts ou pénalités y afférents ne sont payables;
+b) Les appels visant les années d’imposition 1997 et 1998 concernent de nouvelles cotisations établies avec le consentement du contribuable en application du paragraphe 152(4.2) de la Loi de l’impôt sur le revenu (« la Loi »). Or, en vertu des paragraphes 165(1.2) et 169(1) de la Loi, l’appelant ne peut ni s’opposer aux nouvelles cotisations en question ni en interjeter appel.
+[2] L’intimée a demandé, à titre subsidiaire, que soit rendue une ordonnance en vertu du paragraphe 18.16(1) de la Loi sur la Cour canadienne de l’impôt lui donnant l’autorisation de répondre à l’avis d’appel. Elle a demandé à la Cour de lui accorder un délai de 60 jours suivant la date de l’ordonnance pour ce faire.
+[3] Le paragraphe 18.16(1) de la Loi sur la Cour canadienne de l’impôt prévoit ce qui suit :
+18.16 (1) Le ministre du Revenu national dispose de soixante jours suivant la transmission de l'avis d'appel par le greffe de la Cour pour y répondre; il peut, toutefois, répondre après ce délai avec le consentement de l'appelant ou la permission de la Cour; le consentement et la permission peuvent être demandés soit avant, soit après l'expiration du délai.
+18.16 (1) The Minister of National Revenue shall file a reply to a notice of appeal within sixty days after the day on which the Registry of the Court transmits to that Minister the notice of appeal unless the appellant consents, before or after the expiration of the sixty day period, to the filing of that reply after the sixty day period or the Court allows the Minister, on application made before or after the expiration of the sixty day period, to file the reply after that period.
+[4] L’appelant a lui aussi déposé une requête demandant à la Cour d’entendre la question en litige dans l’appel à la date fixée pour l’audition de la requête de l’intimée. Les moyens invoqués par l’appelant pour appuyer sa requête sont les suivants :
+a) Les discussions qui ont été menées n’ont pas permis de trouver de solutions compatibles avec le droit fiscal canadien et les bulletins d’interprétation connexes, d’où la requête demandant à la Cour de trancher la question à la date susmentionnée.
+b) Il s’agit simplement de calculer correctement :
+(i) la perte autre que perte en capital reportée sur les années antérieures et/ou ultérieures;
+(ii) les intérêts sur le remboursement connexe, la majeure partie desdits intérêts faisant déjà l’objet d’un accord.
+[5] Si je rejette la requête de l’intimée, je lui accorderai alors un délai de 60 jours pour déposer la réponse à l’avis d’appel. Par conséquent, vu que cela m’empêchera d’entendre la question en litige dans l’appel, je rejette la requête de l’appelant.
+[6] L’intimée s’est fondée sur le témoignage par affidavit de Carlene Josephs. Dans son affidavit, Mme Josephs a déclaré que de nouvelles cotisations avaient été établies à l’égard de l’appelant pour les années d’imposition 1997 et 1998 en vertu du paragraphe 152(4.2) de la Loi, le 31 janvier 2007 et le 4 septembre 2007 respectivement.
+[7] Le paragraphe 152(4.2) de la Loi prévoit ce qui suit :
+Nouvelle cotisation et nouvelle détermination
+(4.2) Malgré les paragraphes (4), (4.1) et (5), pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable – particulier, autre qu’une fiducie, ou fiducie testamentaire – pour une année d’imposition le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition, à la fois :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+b) déterminer de nouveau l’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l’année.
+Reassessment with taxpayer’s consent
+(4.2) Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining, at any time after the end of the normal reassessment period of a taxpayer who is an individual (other than a trust) or a testamentary trust in respect of a taxation year, the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under this Part by the taxpayer for the year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is ten calendar years after the end of that taxation year,
+(a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year; and
+(b) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer’s tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer’s liability under this Part for the year.
+[8] Essentiellement, le paragraphe 152(4.2) permet à un contribuable de demander au ministre du Revenu national (« le ministre ») d’examiner de nouveau une déclaration et d’établir une nouvelle cotisation après la période normale de nouvelle cotisation si la nouvelle cotisation se traduisait par un remboursement ou une réduction de l’impôt, des pénalités ou des intérêts pour l’année concernée. Voir la décision Mellish c. La Reine, 2007 CCI 228.
+[9] Une fois que le ministre a établi la nouvelle cotisation en vertu du paragraphe 152(4.2), un contribuable ne peut plus s’y opposer. Le paragraphe 165(1.2) prévoit ce qui suit :
+Restriction
+(1.2) Malgré les paragraphes (1) et (1.1), aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes 118.1(11), 152(4.2), 169(3) ou 220(3.1). Il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d’opposition.
+Limitation on objections
+(1.2) Notwithstanding subsections 165(1) and 165(1.1), no objection may be made by a taxpayer to an assessment made under subsection 118.1(11), 152(4.2), 169(3) or 220(3.1) nor, for greater certainty, in respect of an issue for which the right of objection has been waived in writing by the taxpayer.
+[10] Étant donné qu’un contribuable ne peut s’opposer à une nouvelle cotisation établie en vertu du paragraphe 152(4.2), il en découle qu’il ne peut interjeter appel de cette nouvelle cotisation. Tout appel auprès de la Cour canadienne de l’impôt doit être interjeté conformément aux dispositions de l’article 169, qui est ainsi rédigé :
+Appel
+169. (1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation : . . .
+Appeal
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either […]
+[11] Le contribuable n’a pas le droit d’interjeter appel des nouvelles cotisations établies à son égard pour les années d’imposition 1997 et 1998 auprès de la Cour canadienne de l’impôt dans la mesure où il ne peut s’opposer aux nouvelles cotisations en question du fait qu’elles ont été établies en application du paragraphe 152(4.2). Dans la décision Mellish, le juge O’Connor s’est exprimé en ces termes :
+[10] La Cour a examiné l’interaction de ces trois paragraphes dans le passé et a systématiquement conclu qu’il n’existait pas de droit d’appel auprès de la Cour canadienne de l’impôt si une nouvelle cotisation était établie en vertu du paragraphe 152(4.2) :
+· Yaremy - Après s’être assurée que la nouvelle cotisation avait été établie en vertu du paragraphe 152(4.2), la Cour conclut, au paragraphe 10, que : « le paragraphe 165(1.2) s'applique et que l'appelant ne pouvait pas faire une opposition valable à cette nouvelle cotisation. S'il est impossible de faire une opposition valable, alors aucun appel valable ne peut être interjeté en vertu du paragraphe 169(1). »
+· Haggart - La Cour conclut, au paragraphe 37 : « il n’est pas possible de signifier un avis d’opposition ou un avis d’appel en bonne et due forme pour une nouvelle cotisation établie selon le paragraphe 152(4.2) de la Loi. »
+· Chou - La Cour conclut, au paragraphe 15 : « comme l’appelante n’a pas pu signifier un avis d’opposition en bonne et due forme à l’égard de la nouvelle cotisation établie […] en vertu du paragraphe 152(4.2) de la Loi, les paragraphes 165(1.2) et 169(1) de la Loi l’empêchent d’interjeter appel de la nouvelle cotisation devant la Cour. »
+[12] Dans son affidavit, Mme Josephs a également déclaré que les dossiers de l’Agence canadienne du revenu révélaient que de nouvelles cotisations avaient été établies à l’égard de l’appelant pour les années d’imposition 2000, 2001 et 2004 le 4 septembre 2007, le 18 mai 2006 et le 23 mai 2006 respectivement. Le 26 août 2004, une cotisation a été établie à l’égard de l’appelant pour l’année d’imposition 2003. Pour chacune de ces années, il s’agissait de nouvelles cotisations ou de cotisations portant qu’aucun impôt fédéral n’était payable.
+[13] On ne peut interjeter appel d’une cotisation portant qu’aucun impôt n’est payable. Voir Her Majesty The Queen v. Bowater Mersey Paper Company Limited, 1987 CarswellNat 453, [1987] 2 C.T.C. 159, 78 N.R. 233, 87 D.T.C. 5382 (C.A.F.).
+[14] Pour tous ces motifs, la requête en annulation de l’intimée est accueillie. Les appels interjetés à l’encontre des nouvelles cotisations et cotisations établies pour les années d’imposition 1997, 1998, 2000, 2001, 2003 et 2004 sont annulés.
+Signé à Halifax (Nouvelle‑Écosse), ce 15e jour d’août 2008.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 28e jour d’octobre 2008.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI445
+NO DU DOSSIER DE LA COUR : 2008-1302(IT)I
+INTITULÉ : Patrick Groulx et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 21 juillet 2008
+MOTIFS DE L’ORDONNANCE : L’honorable juge Valerie Miller
+DATE DE L’ORDONNANCE : Le 15 août 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’appelant :
+Me Amit Ummat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Patrick Groulx, pour son propre compte
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

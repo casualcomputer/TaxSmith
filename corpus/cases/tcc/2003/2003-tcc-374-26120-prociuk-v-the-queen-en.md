@@ -1,0 +1,181 @@
+---
+title: "Prociuk v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26120/index.do"
+last_modified: "2003-06-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 374"
+citation2: ""
+neutral_citation: "2003 TCC 374"
+decision_date: "2003-06-06"
+language: "en"
+item_id: "26120"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4115
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:04:57.258000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "23630624a287e0c8642b090807b2cc3dd7ee2dbbcc4a0bf37c817adf3278be05"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prociuk v. The Queen
+
+- Citation: 2003 TCC 374
+- Decision date: 2003-06-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4115, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prociuk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-06
+Neutral citation
+2003 TCC 374
+File numbers
+2001-4409(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4409(IT)I
+BETWEEN:
+PAUL PROCIUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 2, 2003 at Winnipeg, Manitoba
+Before: The Honourable Judge Terrence O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Naomi Goldstein
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1993, 1994 and 1995 taxation years are allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of June 2003.
+"T. O'Connor"
+J.T.C.C.
+Citation: 2003TCC374
+Date: 20030606
+Docket: 2001-4409(IT)I
+BETWEEN:
+PAUL PROCIUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+O'Connor, J.T.C.C.
+[1] This appeal was heard at Winnipeg, Manitoba, on May 2, 2003. The appeal relates to whether certain employment expenses claimed in 1993, 1994 and 1995 by the Appellant, a car salesman, were properly claimed; there is also an issue as to whether penalties for late filing were properly levied.
+[2] The Appellant's receipts for the expenses had been lost or stolen. However, at the hearing the Appellant furnished various exhibits consisting principally of log-books and re-cap sheets detailing the various expenses that he claimed on his income tax returns.
+[3] Counsel for the Respondent accepted most of the evidence and submissions of the Appellant and this resulted in the granting of several concessions with respect to most of the expenses.
+[4] The concessions made are summarized at pages 43 to 46 of the Transcript of the Hearing which reads as follows:
+MS. GOLDSTEIN: Thank you, Your Honour. I have decided not to call a witness. And in light of some of the evidence that I have heard from Mr. Prociuk, the CCRA is willing to make a number of concessions. Perhaps if I could read those out to you and then you can deal with the remaining issues.
+You will have to, I believe, take the returns, Exhibits R-1, R-2 and R-3, and I will tell you what we are willing to agree should now be allowed to Mr. Prociuk.
+HIS HONOUR: All right.
+MS. GOLDSTEIN: The first expense issue is advertising and promotion, the CCRA is not willing to concede any more than has already been conceded for 1993, that would be the $400.00.
+With respect to the allowable motor vehicle expenses, Mr. Prociuk claimed -
+HIS HONOUR: Just one second.
+MS. GOLDSTEIN: Sorry.
+HIS HONOUR: The first one?
+MS. GOLDSTEIN: CCRA's position is that we already permitted him $400.00 on account of entertainment and so we are not willing to change that one.
+The next one is allowable motor vehicle expenses, $2,337.40, we will concede that that is now an allowable expense.
+HIS HONOUR: That is $2,237.40?
+MS. GOLDSTEIN: Yes.
+The $48.00, again part of the entertainment and we are not willing to concede on that.
+The $100.00 parking, we are willing to concede on that.
+Supplies, $153.94, we are willing to concede on that.
+Referral fees of $350.00, we are willing to concede on.
+The other issue for 1993 would be late filing penalties, the respondent is willing to adjust them to take into account the current concessions and to that extent would reduce them, but not delete them completely.
+On Exhibit R-2 for 1994.
+HIS HONOUR: Yes?
+MS. GOLDSTEIN: Turning to the Statement of Employment Expenses, the first number of advertising and promotion $567.58, the CCRA reduced that, in part for lack of documentation and in part due to the 50 percent reduction and allowed Mr. Prociuk $250.00. We are not willing to provide anything more than that.
+The next line is the allowable motor vehicle expenses, we are willing to allow that in full.
+HIS HONOUR: So they are conceding $2,412.20?
+MS. GOLDSTEIN: Correct.
+HIS HONOUR: All right.
+MS. GOLDSTEIN: It looks as if the $8.00 and the $25.00 below that have been properly calculated and reduced, so we will concede those as now being allowable.
+Parking, allowable.
+Supplies, $79.08, allowable.
+And referral fees of $325.00, allowable.
+Late filing penalties would be adjusted downward accordingly, but not eliminated.
+And now turning to Exhibit R-3, 1995, the Statement of Employment Expenses.
+HIS HONOUR: Yes.
+MS. GOLDSTEIN: Advertising and promotion, we provided $250.00 as an allowable amount and that is with the 50 percent reduction. We stay by that amount.
+The allowable motor vehicle expenses -
+HIS HONOUR: I am sorry, you are sticking with the $250.00?
+MS. GOLDSTEIN: Correct.
+HIS HONOUR: Yes, okay.
+MS. GOLDSTEIN: Allowable motor vehicle expenses of $4,032.48 we are willing to concede was properly expensed.
+The $142.62 looks like it has already been reduced by 50 percent so it too should be allowed.
+Supplies of $393.54 should be allowed.
+Referral fees of $325.00 should be allowed.
+And on the penalties, again the respondent is willing to reduce them to bring them into alignment with the additional reductions to income, but not eliminate them altogether.
+HIS HONOUR: What about the calculation of allowable motor vehicle expenses?
+MS. GOLDSTEIN: Oh, $4,032.48.
+HIS HONOUR: Okay, that is the total, yes.
+MS. GOLDSTEIN: That is now acceptable.
+HIS HONOUR: Okay.
+The foregoing concessions produce the following results.
+[5] For 1993 the expense claimed for advertising and promotions of $419.87 counsel for the Respondent was prepared only to allow the amount previously granted of $400 thus producing an amount disallowed of $19.87. Also, counsel for the Respondent refused to concede on the $48 item for entertainment, as was the previous position of the Minister of National Revenue (the "Minister"). Consequently the amounts disallowed total $67.87. The total amount claimed by the Appellant on his return was $3,409.21. Thus the reduction of $67.87 to this amount results in an employment expense allowed to the Appellant of $3,341.34 in 1993.
+[6] For 1994 counsel for the Respondent reduced the $567.58 figure in respect of advertising and promotions to $250 representing one-half of what the Minister considered a reasonable amount of $500. The 50 per cent reduction results from the application of section 67.1 of the Income Tax Act (the "Act"). Thus the amount disallowed was $317. The total amount originally claimed by the Appellant on his return was $3,516.86 which when reduced by the said amount of $317 results in an employment expense allowed in 1994 of $3,199.86.
+[7] For 1995 the expense of $731.13 representing advertising and promotions was reduced to $250 for the same reasons as set forth above for 1994. Thus the amount disallowed was $731.13 less $250 resulting in the disallowance of $481.13. The total amount claimed by the Appellant on his return was $5,624.77 which when reduced by the said amount of $481.13 produces an allowable employment expense for 1995 of $5,143.64.
+[8] Considering the lack of receipts for certain items and considering the 50 per cent reduction in 1994 and 1995 pursuant to said section 67.1 of the Act, in my opinion the amounts disallowed as set forth above are correct.
+[9] Consequently the employment expenses allowed are $3,341.34 for 1993, $3,199.86 for 1994 and $5,143.64 for 1995 and the matter is referred back to the Minster for reconsideration and reassessment on that basis.
+[10] As to the late filing penalties, which I find are justified, this matter is also referred back to the Minister to recalculate the penalties taking into consideration the reductions in taxes resulting from the aforesaid reassessment.
+Signed at Ottawa, Canada, this 6th day of June 2003.
+"T. O'Connor"
+J.T.C.C.
+CITATION:
+2003TCC374
+COURT FILE NO.:
+2001-4409(IT)I
+STYLE OF CAUSE:
+Paul Prociuk v. The Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+May 2, 2993
+REASONS FOR JUDGMENT BY:
+The Honourable Judge O'Connor
+DATE OF JUDGMENT:
+June 6, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Naomi Goldstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

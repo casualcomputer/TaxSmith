@@ -1,0 +1,134 @@
+---
+title: "DeRepentigny c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28687/index.do"
+last_modified: "2008-05-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 304"
+citation2: ""
+neutral_citation: "2008 CCI 304"
+decision_date: "2008-05-14"
+language: "fr"
+item_id: "28687"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1477
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:46:30.585000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ec345f6d294e648b637866e6cf16c02dcd2478ce9a040cb7eada1bb1c5b0ff94"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DeRepentigny c. La Reine
+
+- Citation: 2008 CCI 304
+- Decision date: 2008-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1477, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DeRepentigny c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-14
+Référence neutre
+2008 CCI 304
+Numéro de dossier
+2007-3330(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3330(IT)I
+ENTRE :
+BRIGITTE DeREPENTIGNY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 25 février 2008, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L’appel de l’appelante à l’encontre des avis de nouvelle détermination datés du 20 février 2007 pour la période de juillet 2005 à juin 2006 et du 13 décembre 2006 pour la période de juillet à novembre 2006 en vertu desquels les prestations fiscales pour enfants de l’appelante ont été révisées et à l’encontre des avis de nouvelle détermination datés du 26 janvier 2007 pour la période d’octobre 2005 à avril 2006 et du 1er décembre 2006 pour la période de juillet à octobre 2006 en vertu desquels les montants des crédits pour la taxe sur les produits et services de l’appelante ont été révisés, est accueilli et le tout est déféré au ministre du Revenu national pour nouvel examen et établissement de nouveaux avis de nouvelle détermination donnant effet au présent jugement.
+Signé à Ottawa, Canada, ce 14e jour de mai 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008CCI304
+Date : 20080514
+Dossier : 2007-3330(IT)I
+ENTRE :
+BRIGITTE DeREPENTIGNY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Par avis de nouvelle détermination datés du 20 février 2007 pour la période de juillet 2005 à juin 2006 et du 13 décembre 2006 pour la période de juillet à novembre 2006, le ministre du Revenu national (le « ministre ») a révisé les prestations fiscales pour enfants de l’appelante et a déterminé que celle-ci a reçu un paiement en trop de 4 258,91 $ pour l’année de base 2004 et de 3 031,30 $ pour l’année de base 2005.
+[2] Par avis de nouvelle détermination datés du 26 janvier 2007 pour la période d’octobre 2005 à avril 2006 et du 1er décembre 2006 pour la période de juillet à octobre 2006, le ministre a révisé les montants des crédits pour la taxe sur les produits et services versés à l’appelante et a déterminé que celle-ci a reçu un paiement en trop de 461,40 $ pour l’année d’imposition 2004 et de 476,00 $ pour l’année d’imposition 2005.
+[3] La seule question à répondre dans le cadre de cet appel consiste à déterminer si l’appelante et un certain, M. Igal Ravimi, vivaient séparés pendant les périodes visées par les avis de nouvelle détermination mentionnés ci-dessus aux paragraphes 1 et 2 (les « périodes en litige »).
+[4] L’appelante est la mère de quatre enfants, soit de David Lauzon né le 26 août 1991, de Raphaël Lauzon né le 5 juillet 1993, de Frédérick Lauzon né le 17 février 1996 et de Eden Ravimi née le 6 février 2001.
+[5] L’appelante avait la garde de ses enfants pendant les périodes en litige.
+[6] Selon le témoignage de l’appelante, elle a débuté la vie commune avec M. Igal Ravimi en février 1999 et ils se sont mariés en mai 2000. Leur vie de couple a duré jusqu’au mois d’août 2005, mois au cours duquel ils se sont séparés.
+[7] M. Ravimi est d’origine israélienne et, à son arrivée au Canada, il n’avait qu’un permis de séjour temporaire à titre de touriste. Pour l’aider à régulariser sa situation auprès du ministère de l’immigration et pour lui permettre de rester au Canada, l’appelante s’est portée garante de lui. Lors de l’audition de l’appel, l’appelante était toujours responsable pour M. Ravimi, et ce, pour les trois prochaines années à venir. M. Ravimi a obtenu, dans les semaines qui ont précédé l’audition de l’appel, son permis de résidence permanente au Canada.
+[8] Au cours des périodes en litige, l’appelante demeurait au 75, rue Saint‑Lambert à Salaberry-de-Valleyfield. Le 5 septembre 2006, l’appelante a signé, devant un commissaire à l’assermentation, une affirmation solennelle confirmant qu’elle était signataire du bail de la résidence sise au 75, rue Saint‑Lambert à Salaberry‑de‑Valleyfield et que M. Igal Ravimi demeurait à cette adresse. Lors de son témoignage, l’appelante a expliqué qu’elle avait signé cette affirmation solennelle pour permettre au père de sa fille de recevoir ses papiers d’Immigration Canada, et que, dans les faits, il utilisait toujours cette adresse suite à leur séparation et refusait de fournir à l’appelante toute autre adresse. Lors de son témoignage, M. Igal Ravimi a affirmé toujours être marié et vivre avec sa conjointe à cette adresse.
+[9] Selon le témoignage de l’appelante, les problèmes du couple ont débuté lorsque le frère de son conjoint est venu habiter avec eux au mois de juillet 2002. À compter de ce moment, le conjoint de l’appelante s’absentait de plus en plus sans donner d’informations sur ses allées et venues et sur les endroits où il travaillait. Pour rejoindre son conjoint, l’appelante devait l’appeler sur son cellulaire. Depuis 2002, M. Ravimi ne contribuait plus aux dépenses de la maison, sauf parfois pour de l’épicerie et pour certaines dépenses pour leur fille. En août 2005, l’appelante a mis à la porte son conjoint et son frère avec tous leurs effets personnels (vêtements, outils, bicyclettes, etc.). Le témoignage de l’appelante concernant la séparation du couple a été confirmé par une lettre datée du 22 février 2008 de madame Andrée Bédard, une amie qui connaissait bien la famille (pièce A-1). L’appelante a également expliqué qu’elle n’avait pas entrepris de procédures de divorce à cause des coûts associés à ces procédures et pour ne pas interférer dans les procédures d’immigration de son ex‑conjoint. Malgré leur séparation, l’appelante n’a pas mis un terme à leurs relations parce qu’elle ne voulait pas priver le père de son droit d’accès à leur fille. Elle préférait que le père de sa fille vienne la voir à la maison plutôt que de le voir partir avec elle sans savoir où il allait. L’appelante a également admis avoir eu des relations conjugales avec M. Ravimi lorsqu’il venait voir sa fille chez elle.
+[10] Tel que mentionné précédemment, la seule question à résoudre dans le présent cas consiste à déterminer si les époux en l’espèce vivaient séparés pour cause d’échec de leur mariage? Selon la jurisprudence, chaque cas doit être examiné selon les faits objectifs qui lui sont propres.
+[11] À mon avis, l’appelante a établi, selon la prépondérance des probabilités, qu’elle vit séparée de son conjoint depuis le mois d’août 2005. Parmi les facteurs pertinents pris en considération, il y a lieu de mentionner les suivants :
+a) l’ex‑conjoint fréquentait une autre femme à l’insu de l’appelante, ce qui a été confirmé par madame Bédard dans sa lettre du 22 février 2008;
+b) l’appelante s’occupait seule des soins médicaux de ses enfants (visites chez le pédiatre, achats de médicaments, etc.);
+c) l’appelante s’occupait seule de l’éducation de ses enfants (inscription, transport, rencontres avec les professeurs, etc.);
+d) l’appelante s’occupait seule de l’entretien et des dépenses de la résidence (le loyer, l’électricité, le téléphone); elle s’occupait également du lavage du linge alors que son ex‑conjoint s’occupait de la préparation des repas lorsqu’il était présent à la résidence;
+e) l’appelante ne voit plus les membres de la famille de son ex‑conjoint depuis plus de trois ans et ils n’appellent plus à la résidence lorsqu’ils veulent parler à son ex-conjoint;
+f) l’appelante a fait arrêter le courrier de son ex-conjoint au bureau de poste de la localité; et
+g) l’appelante utilise son propre compte de banque mais elle n’a pu se retirer du compte de banque conjoint qu’elle avait avec son ex‑conjoint parce qu’elle avait signé pour son auto.
+[12] Compte tenu de ce qui précède, il m’apparaît que l’appelante a satisfait à son fardeau de preuve. L’appel est donc accueilli.
+Signé à Ottawa, Canada, ce 14e jour de mai 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008CCI304
+Nº DU DOSSIER DE LA COUR : 2007-3330(IT)I
+INTITULÉ DE LA CAUSE : Brigitte DeRepentigny et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 25 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 14 mai 2008
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Vlad Zolia
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

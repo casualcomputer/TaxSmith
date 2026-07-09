@@ -1,0 +1,181 @@
+---
+title: "Municipalité de Maria c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29445/index.do"
+last_modified: "2009-10-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 491"
+citation2: ""
+neutral_citation: "2009 CCI 491"
+decision_date: "2009-10-02"
+language: "fr"
+item_id: "29445"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6936
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:30:07.243000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bf698f2e132a2fdb5d5eac341d066c7b9130314d006fce8cbfc0a831791d839c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Municipalité de Maria c. M.R.N.
+
+- Citation: 2009 CCI 491
+- Decision date: 2009-10-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6936, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Municipalité de Maria c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-02
+Référence neutre
+2009 CCI 491
+Numéro de dossier
+2009-843(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-843(EI)
+ENTRE :
+Municipalité de Maria,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 14 août 2009, à New Carlisle (Québec).
+Devant : l’honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Gilbert Leblanc
+Avocat de l'intimé :
+Me Michel Lamarre
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est accueilli au motif que le travail de monsieur Jean-Paul Leblanc à titre de pompier bénévole et de pompier en chef adjoint pour la municipalité de Maria, du 1er janvier 2007 au 31 décembre 2007, était un travail non assurable aux termes de la Loi.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2009.
+« Alain Tardif »
+Juge Tardif
+Référence : 2009 CCI 491
+Date : 20091002
+Dossier : 2009-843(EI)
+ENTRE :
+Municipalité de Maria,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif au caractère assurable du travail exécuté par monsieur Jean-Paul Leblanc à titre de pompier bénévole et de pompier en chef adjoint pour la municipalité de Maria, du 1er janvier 2007 au 31 décembre 2007.
+[2] Pour établir sa décision, l’intimé a tenu pour acquis les hypothèses de fait suivantes :
+a) l’appelante assurait un service d’incendie pour la municipalité de Maria, et elle prêtait assistance aux autres municipalités de la région, soit de Nouvelle jusqu’à New-Richmond;
+b) l’appelante offrait des services de lutte aux incendies, de secours pour les accidentés de la route et de sauvetage en forêt;
+c) le service d’incendie comprenait un chef, un chef pompier adjoint, un capitaine et 15 pompiers volontaires certifiés et non certifiés;
+d) les équipements du service d’incendie comprenaient un camion-pompe nécessitant 4 intervenants, un camion-citerne nécessitant 2 intervenants, un véhicule d’urgence et un véhicule tout terrain nécessitant 1 intervenant chacun;
+e) le travailleur rendait des services à l’appelante depuis 31 ans;
+f) durant la période en litige, le travailleur travaillait pour l’appelante comme chef pompier adjoint;
+g) les tâches du travailleur consistaient à compléter les rapports d’incendie et à approuver les feuilles de temps des pompiers, à donner des directives aux pompiers, à combattre les incendies, à intervenir sur les lieux d’accidents automobiles avec les pinces de désincarcération, à participer aux sauvetages en forêt et à participer à la pratique hebdomadaire;
+h) le chef pompier établissait les horaires de garde pour les pompiers incluant le travailleur et ceci, pour les fins de semaine uniquement, il n’y avait pas de garde durant la semaine;
+i) l’horaire se divisait entre une garde du vendredi 18 h au samedi 18 h et une autre du samedi 18 h au dimanche 18 h;
+j) les pompiers devaient assumer d’une façon régulière leur tour de garde;
+k) le pompier de garde ne pouvait pas quitter la municipalité de Maria;
+l) le pompier de garde était obligé de répondre aux appels d’urgence;
+m) le pompier de garde était responsable d’évaluer la situation et d’établir si des renforts de pompiers des municipalités voisines sera requis;
+n) le travailleur gardait sur lui en permanence un téléavertisseur (paget) [sic] fourni par l’appelante et qui était directement relié avec le service 911;
+o) le travailleur devait participer au pratique hebdomadaire du mercredi soir de 19 h à 21 h et d’effectuer un tour de garde la fin de semaine, en rotation avec les autres pompiers;
+p) le travailleur exécutait ses tâches sous les directives du chef pompier;
+q) le travailleur devait avertir le directeur s’il ne pouvait pas assurer son tour de garde et trouver un remplaçant;
+r) les heures de travail de l’appelant étaient consignés [sic] sur des feuilles de temps;
+s) le travailleur était rémunéré selon des taux déterminés par l’appelante;
+t) le travailleur recevait une rémunération de 15,72 $ de l’heure lors de l’accomplissement de ses tâches;
+u) le travailleur recevait une rémunération de 1,00 $ de l’heure, soit 24,00 $ par jour lorsqu’il effectuait son tour de garde;
+v) dans l’exécution de ses tâches, le travailleur ne fournissait pas d’outil ou d’équipement;
+w) dans le cadre de ses fonctions, le travailleur utilisait les biens et équipements fournis par la municipalité, tel que camion, pince de désincarcération, uniforme et un téléavertisseur;
+x) le travailleur était couvert par une assurance accident de la CSST dont les primes étaient payées par l’appelante.
+[3] À l’appui de sa preuve, l’appelante a fait témoigner messieurs Jean‑Paul Leblanc et Gilbert Leblanc, respectivement pompier en chef adjoint et directeur général de la municipalité de Maria.
+[4] La preuve a essentiellement confirmé la très grande majorité des faits tenus pour acquis. Il a cependant été clairement établi que le montant forfaitaire de 450 $ payé pour chaque pompier bénévole y compris le pompier en chef adjoint, monsieur Leblanc, ainsi que les montants payés pour la garde les fins de semaine, étaient payés à l’association des pompiers bénévoles, qui avait entière liberté quant à l’utilisation des montants en question et non aux pompiers volontaires directement.
+[5] À cet égard, il a été établi que chaque pompier était appelé à assurer la garde durant une fin de semaine et cela, toutes les vingt semaines. Pour les jours fériés, aucune garde n’était prévue.
+[6] Monsieur Leblanc a expliqué que l’équipe était composée de pompiers bénévoles, intéressés et dynamiques qui participaient à l’entraînement pour accroître leurs habiletés en matière de protection contre les incendies, tant pour la prévention que pour la lutte contre les incendies, et cela, non seulement sur tout le territoire de la municipalité de Maria, mais aussi sur le territoire des municipalités voisines avec lesquelles il y avait des ententes contractuelles.
+[7] Les pompiers bénévoles, dont monsieur Leblanc, s’occupaient également des accidents en forêt et des accidents de la route. Pour ce faire, ils avaient tout le matériel, l’équipement et les outils, par exemple, des pinces de désincarcération et ainsi de suite.
+[8] Tout le matériel appartenait conjointement à l’association des pompiers bénévoles et à la municipalité appelante. Le matériel était acquis, entretenu, réparé et remplacé en partie par la municipalité, en partie par l’association et en partie par des commanditaires, dont la Caisse populaire de Maria qui, semble-t-il, a été très généreuse ayant beaucoup collaboré au fil des ans.
+[9] L’association organisait également des campagnes de financement et demandait, à l’occasion, l’appui de la population, particulièrement les commerces et les entreprises.
+[10] Monsieur Leblanc a affirmé que tous les membres étaient dévoués, engagés et actifs. Il a aussi reconnu qu’un pompier bénévole qui ne participait pas ou refusait de collaborer aux diverses activités, mais surtout à l’entraînement, était rapidement écarté de l’association.
+[11] Les faits ont été établis d’une manière spontanée, volontaire et très complète. La réponse à la question en litige consiste essentiellement à déterminer si le travail du pompier en chef adjoint, monsieur Jean-Paul Leblanc, était assurable ou non en vertu de la Loi, les faits étant clairs et précis.
+[12] D’entrée de jeu, je crois pouvoir affirmer que le contexte de la situation est très particulier; en effet, le travail de pompier bénévole est beaucoup plus une question de dévouement, de sens civique développé et de goût de s’impliquer pour le bien-être de la communauté qu’une question de rémunération, et ce, bien qu’il s’agisse d’un travail rémunéré tout au moins en partie, soit lors des sorties officielles et lors d’incendies ou d’accidents de la route ou en forêt. La dimension pécuniaire est plus marginale et symbolique que réelle.
+[13] De fait, il serait théoriquement possible qu’un pompier bénévole, dont le pompier en chef adjoint, monsieur Jean‑Paul Leblanc, ne reçoive aucune rémunération pour de très longues périodes. Cela se produirait s’il n’y avait pas d’incendie et que les activités étaient alors essentiellement de l’entraînement, de la formation et de la collecte de fonds. En outre, le début et la fin des périodes dites rémunérées dépendent non pas de la volonté de l’une des parties, mais essentiellement d’une urgence, soit un incendie ou un accident.
+[14] Cette particularité a de toute évidence constitué l’un des fondements de l’article 7 du Règlement sur l’assurance-emploi, qui se lit comme suit :
+7. Sont exclus des emplois assurables les emplois suivants :
+a) [Abrogé, DORS/97-310, art. 1]
+b) l’emploi exercé par un membre d’un ordre religieux, si celui-ci a fait voeu de pauvreté et si sa rétribution est versée à l’ordre directement ou par son intermédiaire;
+c) l’emploi pour lequel des cotisations sont payables en vertu de l’une des lois étrangères suivantes :
+(i) la loi sur l’assurance-chômage d’un État des États-Unis, du District de Columbia, de Porto Rico ou des îles Vierges, du fait de l'Accord entre le Canada et les États-Unis d’Amérique concernant l’assurance-chômage signé les 6 et 12 mars 1942,
+(ii) la loi des États-Unis intitulée Railroad Unemployment Insurance Act;
+d) l’emploi exercé au Canada par une personne qui réside dans un pays étranger, si, en vertu de la loi sur l’assurance-chômage de ce pays, des cotisations sont payables pour les services qu’elle fournit au Canada;
+e) l’emploi exercé par une personne chargée d’opérer un sauvetage, si celle-ci n’exerce pas régulièrement un emploi au service de l’employeur qui l’a embauchée à cette fin;
+f) l’emploi exercé dans le cadre des prestations d’emploi intitulées Travail indépendant ou Partenariats pour la création d’emplois, mises sur pied par la Commission en vertu de l’article 59 de la Loi, ou dans le cadre d’une prestation similaire offerte par un gouvernement provincial ou un autre organisme et faisant l’objet d’un accord conclu aux termes de l’article 63 de la Loi.
+[Je souligne.]
+[15] L’intimé soutient que le fait que monsieur Leblanc, tout comme les autres pompiers bénévoles, soit appelé à être de garde une fois tous les deux mois est suffisant pour conclure que l’emploi est assurable, soutenant que cet élément établit qu’il s’agit d’un travail ou d’un emploi exercé régulièrement.
+[16] L’intimé a aussi soutenu que le fait que la municipalité versait à l’association 450 $ par pompier est un autre facteur pour soutenir une telle conclusion.
+[17] Pour ce qui est du 450 $, il a été établi que le montant n’était pas payé directement à chaque pompier, comme l’intimé avait semblé le comprendre, mais plutôt à l’association qui, elle, pouvait en disposer à sa guise. Le montant reçu était déposé au compte de l’association, qui pouvait le dépenser comme bon lui semblait.
+[18] Le chef adjoint a indiqué que les pompiers recevaient 5 $ par entraînement, mais la preuve ne permet pas de conclure que ce montant provient du montant global de 450 $ que l’association a reçu.
+[19] La preuve a aussi révélé que l’appelante payait les cotisations de la Commission de la santé et de la sécurité du travail (« C.S.S.T. »). La municipalité de Maria paye également les coûts d’une assurance vie pour tous les pompiers bénévoles, y compris, évidemment, le chef adjoint.
+[20] Dans l’affaire Municipalité d’Eastman c. ministre du Revenu national, [2000] A.C.I. no 521, j’écrivais ce qui suit :
+21. La preuve a révélé que monsieur Laramée avait la totale discrétion de se rendre ou ne pas se rendre sur les lieux d’une urgence, pourtant localisée sur le territoire dont il était responsable. […]
+[21] Dans l’affaire Whitchurch-Stouffville (Ville) c. ministre du Revenu national, [1993] A.C.I. no 152, l’honorable juge Teskey écrivait ce qui suit :
+21. En l’espèce, les volontaires sont des employés à temps partiel et sont rémunérés pour les heures passées à répondre aux appels et à acquérir une formation. Vu la nature du travail des pompiers volontaires, les heures de travail, à l’exception des heures consacrées à la formation, sont imprévisibles, étant donné qu’ils ne travaillent que lorsqu’ils reçoivent un appel. Par conséquent, leurs heures de travail peuvent être qualifiées d’« intermittente[s] et sporadique[s] », comme dans l’affaire Malo. Par contre, si les volontaires étaient tenus d’être « en disponibilité », c’est-à-dire s’ils devaient être prêts à répondre aux appels pendant certaines périodes données, leurs heures de travail pourraient alors être considérées comme « régulières ».
+22. Les jugements rendus dans les affaires Abrahams et Malo établissent certaines lignes directrices qui permettent de déterminer si un emploi doit être considéré comme « régulier » dans le contexte de la Loi. Si le libellé de la Loi est ambigu, la Cour doit adopter l’interprétation qui favorise le contribuable.
+23. En l’espèce, compte tenu des propos du juge Lacombe dans l’affaire Malo, il semblerait que l’emploi des volontaires à titre de pompiers volontaires à temps partiel ne constitue pas un emploi assurable aux fins de la Loi, étant donné qu’il est impossible d’établir une certaine uniformité en ce qui a trait à la fréquence et à la continuité des services que les volontaires sont appelés à fournir. Même si cet aspect d’irrégularité est inhérent à la nature du travail, le juge Lacombe a expressément déclaré que « le prestataire doit démontrer […] que, dans les faits, il l’a réellement et effectivement exercé dans les cadres d’un horaire régulier de travail, et ce, sans égard particulier à la nature même du travail à effectuer ».
+[22] L’intimé soutient que l’obligation d’être de garde toutes les 20 semaines environ, selon le nombre de pompiers bénévoles, fait en sorte que le travail était « régulier ».
+[23] Je ne crois pas qu’il soit possible, à la lumière de la preuve, de conclure qu’il s’agissait d’un travail régulier.
+[24] L’une des conditions essentielles pour conclure au caractère assurable d’une prestation de travail est la rémunération. Or, les seules prestations de travail rémunérées sont lors d’accidents, d’incendies ou de tragédies. Ces évènements sont non prévisibles, et surviennent de manière ponctuelle. Pour cette seule raison, je crois qu’il n’est pas approprié de conclure qu’il s’agit d’un travail régulier.
+[25] Le sens d’une situation ou le sens d’un mot peut dépendre de la façon dont l’analyse est faite. Ainsi, si l’analyse ne tient pas compte du contexte, la conclusion pourrait être très différente de l’analyse qui est faite selon le contexte.
+[26] En l’espèce, il n’y a aucun doute que le législateur a voulu créer une exception pour les personnes effectuant un service essentiel dans les très petites municipalités.
+[27] Le contexte et l’objectif ne peuvent pas être écartés ou occultés sous prétexte qu’une façon de faire ou d’organiser l’activité peut fournir un argument pour conclure à la non‑application de l’exception.
+[28] Pour ces motifs, l’appel est accueilli.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2009 CCI 491
+Nº DU DOSSIER DE LA COUR : 2009-843(EI)
+INTITULÉ DE LA CAUSE : MUNICIPALITÉ DE MARIA ET M.R.N.
+LIEU DE L’AUDIENCE : New Carlisle (Québec)
+DATE DE L’AUDIENCE : le 14 août 2009
+MOTIFS DU JUGEMENT PAR : Honorable juge Alain Tardif
+DATE DU JUGEMENT : le 2 octobre 2009
+COMPARUTIONS :
+Représentant de l'appelante :
+Gilbert Leblanc
+Avocat de l'intimé :
+Me Michel Lamarre
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

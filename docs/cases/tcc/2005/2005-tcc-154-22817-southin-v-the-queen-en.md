@@ -1,0 +1,195 @@
+---
+title: "Southin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22817/index.do"
+last_modified: "2005-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 154"
+citation2: ""
+neutral_citation: "2005 TCC 154"
+decision_date: "2005-02-28"
+language: "en"
+item_id: "22817"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2323
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:58:31.833000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "24d6e7f56f6e8a918dbc57ab75d64c2eda174d0d9e631633640a9f8a1e619c07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Southin v. The Queen
+
+- Citation: 2005 TCC 154
+- Decision date: 2005-02-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2323, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Southin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-28
+Neutral citation
+2005 TCC 154
+File numbers
+2002-819(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-819(IT)G
+BETWEEN:
+ROGER SOUTHIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard with the appeals of Jack Riordan (2002-806(IT)G),
+LucianoPanini (2002-809(IT)G), Bertram Whitzman (2002-811(IT)G), Guy Riendeau( 2002-814(IT)G), and Zachary Klapka (2002-885(IT)G)
+on November 22 and 23, 2004, at Montreal, Quebec, by
+The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Denis A. Lapierre and
+Konstantinos Voggas
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeals from assessment of tax made under the Income Tax Act for the 1996 and 1997 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 28th day of February, 2005.
+"C.H. McArthur"
+McArthur J.
+Citation: 2005TCC154
+Date: 20050228
+Docket: 2002-819(IT)G
+BETWEEN:
+ROGER SOUTHIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals were heard consecutively with the appeals of five other taxpayers with respect to the imposition by the Minister of National Revenue of penalties pursuant to subsection 163(2) of the Income Tax Act. The other Appellants are Jack Riordan, File no. 2002-806, Luciano Panini, File no. 2002-809, Bertram Whitzman, File no. 2002-811, Guy Riendeau, File No. 2002-814 and Zachary Klapka, File no. 2002-885. All six Appellants were employees of Pfizer Canada and had exercised stock options and realized substantial profits on the sale of their shares. After an audit of Pfizer, the Minister reviewed the income tax returns of 46 employees who had received stock options. The six Appellants referred to are amongst a group of 26 who had not declared the proceeds from the exercise of their options and, in most cases, the sale of their stock. The six Appellants subsequently filed amended income tax returns and paid the resulting tax. For the most part, the facts and analysis in Mr. Riordan's appeals apply equally to the five other Appellants although a separate judgment is rendered for each Appellant.
+[2] Mr. Southin appeals from assessments of penalties dated February 23, 2001, imposed by the Minister for his 1996 and 1997 taxation years in the amounts of $6,347.22 and $18,400.11 in accordance with subsection 163(2) of the Act. The Appellant did not include in his income net proceeds in relation to the exercise of Pfizer employee stock options of $63,788 and $184,689 for the two relevant years, respectively. Pursuant to subparagraph 152(4)(a)(i) of the Act, the Minister reassessed the Appellant after the normal three-year assessment period to include the stock option benefits which total $248,477.[1] The Appellant not only exercised his options, he in fact sold his stock and received the amounts referred to.
+[3] The issues are whether the Minister can reassess the Appellant beyond the normal assessment period for the years 1996 and 1997[2] and whether the assessed penalties are justified. Pfizer Inc. is a multi-national pharmaceutical corporation with its head office in the United States and Pfizer Canada is a subsidiary of it. The Appellant was a senior employee during the relevant period. He received notices from Pfizer US at least annually setting out his stock option information. He knew other employees received stock options but did not know any details.
+[4] The following paragraphs from the Reasons for Judgment in the Jack Riordan appeals apply equally to these appeals.
+[5] The Appellant exercised his options and sold his stock over the years without declaring the amounts received in his relevant income tax returns. As stated, subsequent to an audit of Pfizer Canada conducted by the Minister, reassessments were issued to the Appellant and he paid the resulting tax pursuant to subsection 7(1) of the Act. These appeals are with respect to penalties only.
+[6] The Appellant's Notice of Appeal includes the following accepted facts:
+The Appellant does not hold any professional qualifications in the fields of accounting or taxation.
+In the course of his employment, the Appellant received, from Pfizer Canada, options to acquire shares of Pfizer USA (the "Stock Options").
+Pfizer Canada granted the Stock Options to a limited number of key employees at various levels of sales and management.
+The Stock Options were granted as performance bonuses and were awarded on a case-by-case basis: There was no defined or published stock option plan policy.
+The Stock Options were not widely available and were awarded in a very confidential manner.
+Employees wishing to exercise their Stock Options contacted an employee of Pfizer USA and correspondence related to the exercise of the Stock Options was sent directly from Pfizer USA to said employees.
+The payroll function, including T4 preparation, for Pfizer Canada employees was handled out of Pfizer Canada's Montreal office, while Stock Option matters were handled out of the Pfizer USA head office in New York City.
+Pfizer Canada did not report the benefits related to the exercise of the Stock Options on the Appellant's T4 slips.
+... a total of 46 Pfizer Canada employees exercised Stock Options over the period 1993 to 1997... 23 individuals, including the Appellant, failed to report the benefits related to the exercise of their Stock Options.
+[7] To exercise his options, the Appellant informed the Pfizer US office and he would receive a cheque from the USbrokerage firm of Merrill Lynch. I have no doubt that he also completed a form titled "Pfizer Stock Option Exercise Form - Stock and Incentive Plan Sale of Option Shares through Merrill Lynch",[3]which sets out the following:
+INSTRUCTIONS:
+Enter Social Security Number, date, name and address in space provided: Indicate appropriate employment status. Complete all information in sections, 1, 2, 3 and 4. Be sure to sign and date the form in both of the authorized blocks. Return all copies intact to the Payroll office from which you are paid. International employees return copies to International Personnel in the New York Office. All employees should consult a tax/financial advisor when considering the sale of shares from a Company stock option.
+(Emphasis added)
+Subsections 152(4) and 163(2)
+[8] The relevant provisions of the legislation provide as follows:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or willful default or has committed any fraud in filing the return or in supplying any information under this Act, ...
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty ...
+Appellant's position
+[9] The Appellant submits that the penalties should be cancelled because:
+(i) the income received was not included in a T4 and all Appellants believed that they did not have to include these amounts in their respective returns;
+(ii) section 7 of the Act is a complicated provision and it would be unfair to find that the Appellants were all grossly negligent for not understanding all the technicalities of that section; and
+(iii) they did not intentionally omit to include the amounts in issue nor did their conduct amount to indifference or gross negligence.
+[10] In these appeals, the Appellant did not testify to anything more than what is found in paragraph 9 above.
+Analysis
+[11] I do not accept that the Appellant seriously believed that tax had been deducted at the source. I have no doubt that a clear and accurate accounting was provided to him by Merrill Lynch. In 1997, the stock option benefits he received were greater than his salary.
+[12] In this instance, the Minister had the right to reassess the Appellant after the normal reassessment period pursuant to subsection 152(4). In a similar situation in Hyndman v. Canada,[4] Angers J. of this Court stated the following which applies equally in the present case:
+16 ... The appellant is a well-educated individual. He may not have had much experience in share trading and other related matters but such a transaction should have alerted him about his obligation as a taxpayer to report that income. The Minister was therefore justified in reassessing the appellant.
+Mr. Hyndman was one of the 46 Pfizer employees referred to earlier. He was assessed for not including stock option employment income of $94,274 for the 1994 taxation year only. Like Mr. Southin, he paid the subsection 7(1) tax after being assessed and appealed the Minister's subsection 152(4) reassessment and subsection 163(2) penalty. Anger J. found that the Appellant's life was unmanageable because he suffered from alcoholism and allowed the appeal, concluding:
+20 Although the amount of money involved is quite substantial, I find that on a balance of probabilities, the Minister has failed to establish that the conduct of the appellant amounted to gross negligence. The appellant had completely forgotten the benefits he could derive from exercising those stock options. As mentioned earlier, that benefit would have been lost had he not been notified by a Pfizer official of the looming deadline. Such inaction could be considered to be gross negligence by some but it is not that conduct that needs to be assessed. It is his conduct when he filed his tax return that must be assessed. There is no evidence here to allow me to conclude that the appellant intentionally omitted to include that revenue in his income. The fact that he believed that the taxes on that amount had been withheld, and I accept his evidence on this point, is sufficient to establish that he was not completely indifferent as to whether the law had been complied with. He believed that the taxes had been withheld and although he failed to make inquiries and was careless in failing to report the income, that does not amount to an intentional omission or indifference tantamount to a high degree of negligence. There is no evidence as well that his conduct amounts to wilful blindness.
+[13] This belief that "the taxes on that amount had been withheld" which leads to a finding of fact by Justice Angers is explained by him as follows:
+6 ... The only other reference to taxes on Form 8200-20A is in the payment authorization section where the appellant instructs Merrill Lynch to withhold taxes if applicable.
+...
+8 In October 1994, he received a cheque from Pfizer U.S. in U.S. funds for the value of his stock. He went to a friend at the Toronto Dominion Bank to exchange the amount in Canadian dollars and to deposit it. He later invested the money with Canada Trust and never considered the tax implications nor did he discuss the matter with his wife. The appellant testified that his recollection from the procedure information he was given led him to believe that taxes had been withheld and that the amount on the cheque he received was a net amount. ...
+[14] In the six appeals before me, however, no such findings of fact can be made because documents mentioned in paragraphs 6 and 8 of Hyndman were not presented in these appeals. For this, and for the reasons that follow, I arrive at an opposite conclusion than Angers J. insofar as the penalties are concerned.
+Respondent's position
+[15] The Respondent's position was generally the same for all six Appellants. Counsel submitted that:
+(i) while the Appellants did not possess accounting experience, they were all nevertheless intelligent individuals;
+(ii) section 7 of the Act is not complicated to apply once a taxpayer receives the amounts in question. Even if it had been difficult to understand, a taxpayer still has the duty to consult a tax professional;
+(iii) none of the Appellants consulted a tax professional (but for Mr. Riordan, as referred to earlier) when they received the amounts in issue;[5]
+(iv) the undeclared amounts in all six appeals are substantial when compared with what each Appellant should have declared, varying from twenty percent to thirteen hundred times of what would have been declared; and
+(v) None of the present Appellants had complicated returns. Their employment was by far their primary source of income other than the subject stock proceeds. In Nicholas v. Canada,[6] penalties were still upheld even though Dr. Nicholas "had many sources of income, including income from his medical practice, rental income, dividends and interest income, taxable capital gains and income from limited partnerships".
+[16] I am in essential agreement with the Respondent's submissions. Not only has the Minister met the burden of proof under subsection 152(4), it has also been able to demonstrate on a balance of probabilities that the Appellant's conduct amounted to gross negligence based upon wilful blindness. Had counsel for the Minister not conceded at trial that the Appellant's conduct was not intentional, I may have been inclined to find such conduct in the present appeals.
+[17] Evidence adduced to establish subsection 163(2) penalties must be carefully scrutinized even where the standard of proof is a civil one. In Farm Business Consultants Inc. v. Canada,[7] Bowman A.C.J. stated:
+28 A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. Conduct of the type contemplated in paragraph 152(4)(a)(i) may in some circumstances also be used as the basis of a penalty under subsection 163(2), which involves the penalizing of conduct that requires a higher degree of reprehensibility. In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established. Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer's conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted. I think that in this case the required degree of probability has been established by the respondent, and that no hypothesis that is inconsistent with that advanced by the respondent is sustainable on the basis of the evidence adduced.
+In the present appeals, I find that the required degree of probability has been established by the Respondent and that no inconsistent hypothesis advanced by the Appellant is sustainable.
+[18] In conclusion, I find that (i) not having received T4 slips is insufficient reason to not inform himself; professional assistance was readily available to him; (ii) while section 7 of the Act is complex, the Appellant made no effort to inform himself as to whether it applied to him; (iii) the omissions of the Appellant were errors that an average taxpayer would not make; (iv) his lack of disclosure was not simply a failure to use reasonable care but was an indifference as to whether the law was complied with;[8] (v) the Appellant had a duty to at least seek the advice of an informed financial advisor; (vi) it is incomprehensible that the Appellant could ignore amounts in excess of his annual employment income; and (vii) the standard of care of the Appellant is greater than for a taxpayer of marginal intelligence.
+[19] For these reasons, the appeals are dismissed, with one set of costs to the Respondent.
+Signed at Ottawa, Canada, this 28th day of February, 2005.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2005TCC154
+COURT FILE NO.:
+2002-819(IT)G
+STYLE OF CAUSE:
+Roger Southin and Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+November 22 and 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+February 28, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Denis A. Lapierre and
+Konstantinos Voggas
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Denis A. Lapierre
+Firm:
+Sweibel Novek
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It is common ground that the reassessments were outside of the normal assessment period.
+[2] The 1997 taxation year was reassessed within three years of the original assessment.
+[3] Exhibit R-1.
+[4]
+2004TCC641.
+[5] The Federal Court of Appeal in Zsoldos v. Canada, 2004FCA338, stated:
+21 ... A taxpayer may avoid these penalty provisions where he or she has relied on the erroneous advice of a tax advisor and has not knowingly failed to report income or a capital gain. (See Findlayv. Her Majesty the Queen, 2000 DTC 6345 (FCA)). However, that is not our case.
+[6] [1996] T.C.J. No. 622.
+[7] [1994] T.C.J. 760.
+[8]
+Venne v. The Queen, 84 DTC 6247 (S.C.C.).

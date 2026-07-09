@@ -1,0 +1,179 @@
+---
+title: "Pacific National Exhibition v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27077/index.do"
+last_modified: "2004-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 823"
+citation2: ""
+neutral_citation: "2004 TCC 823"
+decision_date: "2004-12-21"
+language: "en"
+item_id: "27077"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 947
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:42:52.437000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e1c8df3edc72521954c5107a4ae42b153113fbb244c70edc67c2ed30ae53d8b0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pacific National Exhibition v. The Queen
+
+- Citation: 2004 TCC 823
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 947, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pacific National Exhibition v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-21
+Neutral citation
+2004 TCC 823
+File numbers
+2004-3011(GST)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-3011(GST)I
+BETWEEN:
+PACIFIC NATIONAL EXHIBITION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on December 6 and 8, 2004 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Carl Beck
+Counsel for the Respondent:
+Lynn M. Burch
+Raj Grewal
+____________________________________________________________________
+ORDER
+Upon motion made by the Respondent for an Order, pursuant to subsection 18.3002(1) of the Tax Court of Canada Act that the Tax Court of Canada Rules (General Procedure) set out in sections 17.1, 17.2 and 17.4 to 17.8 and section 14 of the Tax Court of Canada Rules of Procedure Respecting the Excise Tax Act (Informal Procedure) apply in respect of this appeal;
+The Respondent's motion is granted and it is ordered, pursuant to section 18.12 of the Tax Court of Canada Act, that the provisions of sections 17.1 to 17.8 of the Act and section 14 of the Tax Court of Canada Rules of Procedure Respecting the Excise Tax Act (Informal Procedure) apply in respect of this appeal in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 21st day of December 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC823
+Date: 20041221
+Docket: 2004-3011(GST)I
+BETWEEN:
+PACIFIC NATIONAL EXHIBITION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+(Delivered orally from the bench at Vancouver,
+British Columbia on December 8, 2004.)
+Little J.
+A. FACTS:
+[1] The Appellant is registered as a charity under Part IX of the Excise Tax Act (the "Act").
+[2] At all relevant times the Appellant was engaged in providing amusement and recreational services to the public. The Appellant leased property from the City of Vancouver, erected a number of buildings on the leased property and provided amusement and recreational services to the public on the property.
+[3] The Appellant filed a Goods and Services Tax Return ("GST Return") in which it claimed that it was entitled to a refund of GST paid.
+[4] Mr. Carl Beck appeared at the hearing as the agent for the Appellant. Mr. Beck said that he recalculated the net GST owed by the Appellant from 1997 to 2001 and he concluded that the Appellant had overpaid GST and was entitled to a refund of approximately $1,900,000.00.
+[5] The Minister of National Revenue (the "Minister") agreed to refund approximately $1,300,000.00 to the Appellant. Mr. Beck said that the amount in dispute is $607,306.00.
+[6] On July 16, 2004 Mr. Beck filed a Notice of Appeal on behalf of the Appellant to the Tax Court of Canada. In the Notice of Appeal the Appellant elected to have the Informal Procedure apply.
+[7] The Notice of Appeal was transmitted to the Canada Revenue Agency (the "Agency") on July 23, 2004.
+[8] An official of the Agency prepared and filed a Reply on September 16, 2004.
+[9] According to the Affidavit of Raj Grewal, a lawyer with the Department of Justice, a file which included the Appellant's Notice of Appeal was received by the British Columbia Regional Office of the Department of Justice on September 17, 2004.
+[10] Counsel for the Respondent filed a Notice of Motion with the Court on October 20, 2004. In the Notice of Motion counsel for the Respondent requested an Order that:
+1. the General Procedure set out in sections 17.1, 17.2 and 17.4 to 17.8 of the Tax Court of Canada Act (the "Act") apply in respect of the appeal pursuant to section 18.3002(1) of the Act and section 14 of the Tax Court of Canada Rules of Procedure respecting the Excise Tax Act (Informal Procedure); and
+THE GROUNDS FOR THE MOTION ARE THAT:
+1. the Attorney General of Canada requests that sections 17.1, 17.2 and 17.4 to 17.8 of the Act apply in respect of this appeal;
+2. the Attorney General of Canada's request is being made after 60 days from the transmission of the Notice of Appeal to the Minister of National Revenue; (emphasis added)
+3. it is reasonable in the circumstances to grant the request;
+4. the amount in dispute is more that $7,000, meaning that on this application an order should not be made that Her Majesty in Right of Canada should bear the Appellant's costs.
+[11] Mr. Beck, as agent for the Appellant, maintained that the Appellant's appeal should not be changed from the Informal Procedure to the General Procedure.
+B. ISSUE:
+[12] Should the Respondent's Notice of Motion be granted?
+C. ANALYSIS:
+[13] Section 18.3002 of the Act reads as follows:
+18.3002 (1) Where the Attorney General of Canada so requests, the Court shall order that sections 17.1, 17.2 and 17.4 to 17.8 apply in respect of an appeal in respect of which sections 18.3003 and 18.3007 to 18.302 would otherwise apply.
+(2) A request under subsection (1) shall not be made after sixty days after the day the Registry of the Court transmits to the Minister of National Revenue the notice of appeal unless
+(a) the Court is satisfied that the Attorney General of Canada became aware of information that justifies the making of the request after the sixty days had elapsed or that the request is otherwise reasonable in the circumstances; or
+(b) the person who has brought the appeal consents to the making of the request after the sixty days have elapsed.
+(3) The Court shall, on making an order under subsection (1), order that all reasonable and proper costs of the person who has brought the appeal be borne by Her Majesty in right of Canada where
+(a) in the case of an appeal under Part V.1 of the Customs Act, the amount in dispute does not exceed $10,000;
+(b) in the case of an appeal under the Excise Act, 2001, the total of sales by the person for the prior calendar year did not exceed $1,000,000; and
+(c) in the case of an appeal under Part IX of the Excise Tax Act, the amount in dispute does not exceed $7,000 and the aggregate of supplies for the prior fiscal year of the person did not exceed $1,000,000. 1990, c. 45, s. 61; 1998, c. 19, s. 297, 2001, c. 25, s. 105; 2002, c. 22, ss. 402, 408(12).
+[14] In support of her Motion counsel for the Respondent stated that the appeal should be transferred from the Informal Procedure to the General Procedure for the following reasons:
+(a) There is a large amount of money involved - in excess of $600,000.00.
+(b) The issues are complex and an Examination for Discovery, which is allowed under the General Procedure Rules, would assist in clarifying the issues.
+(c) There is a dispute over the relevant period. The Appellant says that the period in question goes back to the 1997 year. The Respondent maintains that only the 2000 and 2001 years are involved.
+[15] Section 18.3002 of the Act provides that the Attorney General of Canada may request that the Court order that an informal appeal be changed to the General Procedure if the Attorney General files a Motion within 60 days of the day that the Court Registry transmits a Notice of Appeal to the Minister.
+In this appeal the Notice of Appeal was transmitted to the Agency on July 23, 2004. The Notice of Motion requesting that the file be transferred from the Informal Procedure to the General Procedure was not filed with the Court until October 21, 2004, i.e. beyond the 60-day period specified in the Act.
+[16] Subsection 18.3002(2) provides that if the Respondent fails to make a request within the 60-day period, the request is only to be granted if one of the following conditions apply:
+1. The Court is satisfied that the Attorney General of Canada became aware of information that justifies making the request after the 60-day period. (I am not satisfied that this condition has been established).
+2. The Appellant consents (in this situation the agent for the Appellant opposes the Respondent's request).
+3. The Court is satisfied that the request is otherwise reasonable in the circumstances.
+I must therefore determine the meaning to be attributed to the phrase "otherwise reasonable in the circumstances".
+[17] After carefully reviewing the pleadings and hearing from the agent for the Appellant I am satisfied that it would be "reasonable in the circumstances" to bump this appeal from the Informal Procedure to the General Procedure. I have reached this conclusion for the following reasons:
+1. There is a substantial sum of money involved - over $600,000.00.
+2. I am satisfied that the issues in this appeal are very complex and technical in nature. In this connection I wish to note that the Notice of Appeal is 13 pages in length - single-spaced. Mr. Beck said that the issues involved are not that complex. I do not agree.
+3. Counsel for the Respondent maintains that the Agency has not received all of the relevant documents that will be required to determine whether the appeal should succeed or fail.
+4. In my opinion an Examination for Discovery is essential to obtain further information and to clarify the issues in dispute.
+5. If the Informal Procedure were to be followed the hearing will probably be much longer and more complex than necessary. Furthermore, a hearing under the Informal Procedure could result in a "trial by ambush".
+[18] I am therefore convinced that it is "reasonable in the circumstances" to bump the appeal from the Informal Procedure to the General Procedure.
+[19] The Respondent's Motion is granted.
+[20] I am not prepared to award costs because the amount in dispute exceeds $7,000.00. I refer to paragraph 18.3002(3)(c) of the Act, which prohibits costs being awarded if the amount in dispute is in excess of $7,000.00.
+Signed at Vancouver, British Columbia, this 21st day of December 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2004TCC823
+COURT FILE NO.:
+2004-3011(GST)I
+STYLE OF CAUSE:
+Pacific National Exhibition and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 6 and 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+December 21, 2004
+APPEARANCES:
+Agent for the Appellant:
+Carl Beck
+Counsel for the Respondent:
+Lynn M. Burch
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

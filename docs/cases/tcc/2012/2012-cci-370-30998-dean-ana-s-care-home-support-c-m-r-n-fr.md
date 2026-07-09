@@ -1,0 +1,216 @@
+---
+title: "Dean (Ana's Care & Home Support) c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30998/index.do"
+last_modified: "2012-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 370"
+citation2: ""
+neutral_citation: "2012 CCI 370"
+decision_date: "2012-10-19"
+language: "fr"
+item_id: "30998"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4850
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:19:44.582000+00:00"
+cases_cited_count: 5
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3060548421d48337bf0838d8dc6f97f2b7d1859e076185824e18a042f947aa68"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dean (Ana's Care & Home Support) c. M.R.N.
+
+- Citation: 2012 CCI 370
+- Decision date: 2012-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4850, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dean (Ana's Care & Home Support) c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-19
+Référence neutre
+2012 CCI 370
+Numéro de dossier
+2012-1027(EI), 2012-1028(CPP)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2012-1027(EI)
+2012-1028(CPP)
+ENTRE:
+ANA C. DEAN, s/n ANA’S CARE & HOME SUPPORT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MILANI S. NIDOY,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 septembre 2012,
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge J. M. Woods
+Comparutions :
+Représentant de l’appelante :
+M. Antonio Mejia
+Pour l’intimé :
+Pour l’intervenante :
+Mme Kristin McHale (stagiaire en droit)
+Me Shankar Kamath
+L’intervenante elle‑même
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la décision rendue par le ministre du Revenu national selon laquelle (1) Virginia Sison, Eliadora Clores, Evangeline Abalos et Charlene Apalon Garzon occupaient des emplois assurables et ouvrant droit à pension auprès de l’appelante pendant la période allant du 1er janvier 2008 au 31 octobre 2009, et (2) Milani Nidoy occupait un emploi assurable et ouvrant droit à pension auprès de l’appelante pendant la période allant du 1er juin 2009 au 31 octobre 2009 est rejeté, et la décision est confirmée. Chaque partie assumera ses propres dépens.
+Signé à Ottawa (Ontario), ce 19e jour d’octobre 2012.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour de novembre 2012.
+Alya Kaddour, traductrice
+Référence : 2012CCI370
+Date : 20121019
+Dossiers : 2012-1027(EI)
+2012-1028(CPP)
+ENTRE :
+ANA C. DEAN, s/n ANA’S CARE & HOME SUPPORT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MILANI S. NIDOY,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Ana’s Care & Home Support est une entreprise individuelle exploitée par Ana Dean qui offre des services de soins aux personnes âgées, en établissement et à domicile. Elle est en activité depuis environ 19 ans. Mme Dean conclut des contrats avec des aides-soignants, et ceux‑ci fournissent à ses clients les services demandés. Les aides‑soignants sont rémunérés selon un taux horaire et Mme Dean facture un taux plus élevé à ses clients.
+[2] Le présent appel porte sur la décision rendue par le ministre du Revenu national en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada à l’égard de cinq aides-soignantes que Mme Dean a engagées. Le litige porte sur la conclusion du ministre selon laquelle Mme Dean a employé Milani Nidoy pendant la période allant du 1er juin 2009 au 31 octobre 2009, et Virginia Sison, Eliadora Clores, Evangeline Abalos et Charlene Apalon Garzon pendant la période allant du 1er janvier 2008 au 31 octobre 2009. Mme Dean soutient que ces personnes n’étaient pas des employées, mais des entrepreneures indépendantes.
+[3] Mme Nidoy a déposé un avis d’intervention dans le présent appel.
+[4] Dans les présents motifs, il sera fait référence aux personnes dont le statut est en litige sous l’appellation « travailleuses ».
+Commentaires préliminaires
+[5] Mme Dean, qui était représentée à l’audience par son fils, a témoigné pour son propre compte. Elle a également demandé à déposer en preuve des affidavits de deux des travailleuses, lesquels appuyaient sa prétention selon laquelle ces travailleuses étaient des entrepreneures indépendantes. J’ai refusé d’admettre ces documents en preuve. Pour que de tels éléments de preuve soient valables, il est important que les travailleuses soient présentes à l’audience pour être contre‑interrogées. Il est malheureux qu’elles ne se soient pas présentées à l’audience.
+[6] Ainsi, le seul témoignage de vive voix qui appuie la position de Mme Dean est son propre témoignage, qui est intéressé. J’ai conclu que ses déclarations étaient par moments très intéressées.
+[7] Mme Nidoy et Mme Abalos ont comparu pour le compte de la Couronne. Elles étaient des témoins crédibles, mais je me suis demandé si leurs opinions relatives à leur relation avec Mme Dean n’étaient pas teintées par une appréciation défavorable des pratiques professionnelles de celle‑ci.
+[8] Par conséquent, j’ai considéré l’ensemble des témoignages avec circonspection.
+Le contexte factuel
+[9] Je commencerai par énoncer les hypothèses de fait formulées par le ministre, lesquelles sont étayées par des éléments de preuve, sauf dans les limites dont il est fait état dans l’analyse ci‑dessous. Les hypothèses en question sont tirées de la réponse de la Couronne à l’avis l’appel concernant le Régime de pensions du Canada.
+[traduction]
+10. Pour établir que les travailleuses occupaient un emploi ouvrant droit à pension auprès de l’appelante pendant la période en cause, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante exploitait une entreprise de soins à domicile ou en établissement et de services de soutien personnel;
+b) l’appelante exerce ses activités depuis environ 18 ans;
+c) lorsqu’elle a engagé les travailleuses, l’appelante n’a pas conclu de contrats écrits;
+d) l’appelante fixait les journées et les heures de travail des travailleuses;
+e) l’appelante était la personne-ressource pour les clients qui souhaitaient obtenir des services de soins à domicile;
+f) les clients qui recevaient des services de soins à domicile étaient les clients de l’appelante;
+g) l’appelante fixait les montants qu’elle facturait à ses clients pour les services fournis par les travailleuses;
+h) l’appelante donnait des instructions aux travailleuses relativement aux tâches à accomplir;
+Les travailleuses
+i) les travailleuses étaient payées selon un tarif horaire;
+j) les travailleuses étaient payées toutes les deux semaines, par chèque;
+k) les travailleuses devaient consigner leurs heures de travail dans des feuilles de temps;
+l) les travailleuses ne remettaient pas de factures à l’appelante;
+m) les travailleuses étaient payées entre 12 $ et 13 $ l’heure;
+n) les travailleuses ne bénéficiaient d’aucun avantage, comme des heures supplémentaires, des vacances ou une paie de vacances;
+o) les travailleuses ne facturaient pas la TPS à l’appelante pour les services qu’elles fournissaient;
+p) les travailleuses ne fournissaient pas les outils et le matériel nécessaires pour l’exécution des services;
+q) les travailleuses n’engageaient pas de dépenses;
+r) les travailleuses n’engageaient pas leurs propres assistants;
+s) l’appelante a inscrit toutes les travailleuses sur la liste de paie à compter du 1er novembre 2009.
+Les principes juridiques applicables
+[10] Les principes juridiques généraux qui s’appliquent ont été récemment énoncés par la juge Sharlow dans l’arrêt TBT Personnel Services Inc. c Canada, 2011 CAF 256, aux paragraphes 8 et 9 :
+[8] L’arrêt qui fait autorité en ce qui concerne les principes pour établir une distinction entre un contrat de louage de services et un contrat d’entreprise est Wiebe Door Services Ltd. c. M.N.R. [1986] 3 C.F. 553 (C.A.). Le juge Major, rédigeant l’arrêt de la Cour suprême du Canada, a approuvé Wiebe Door dans l’arrêt 67112 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983. Il a résumé, aux paragraphes 47 et 48, les principes pertinents comme suit :
+47. [...] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48. Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[9] Dans les arrêts Wolf c. Canada, 2002 CAF 96, [2002] 4 C.F. 396 (C.A.), et Royal Winnipeg Ballet c. Canada (Ministre du Revenu national – M.N.R.) 2006 CAF 87, [2007] 1 R.C.F. 35, la Cour a ajouté que lorsqu’il est établi que les parties avaient l’intention commune d’établir une relation juridique entre elles, il est nécessaire de tenir compte de cette preuve, mais il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties.
+[11] L’application de ces principes généraux à un cas précis est largement tributaire des faits. Toutefois, certains principes sont ressortis de la jurisprudence, principes que le juge Hershfield a clairement résumés dans une affaire de soins infirmiers à domicile : Direct Care In-Home Health Services Inc. c M.R.N., 2005 CCI 173. Les parties pertinentes de cette décision sont reproduites ci‑dessous.
+Contrôle
+[11] Dans le cadre de l’analyse de ce facteur, il faut déterminer qui contrôle le travail et comment, quand et où il doit être effectué. S’il est jugé que le travailleur a le contrôle du travail une fois qu’il lui est confié, cela semble davantage indiquer que le travailleur est un entrepreneur indépendant, et s’il est jugé que l’employeur exerce un contrôle sur l’exécution du travail par le travailleur, cela laisse entendre qu’il y a une relation employeur‑employé. Toutefois, lorsque les travailleurs ont une spécialisation accrue, il se peut que ce critère soit considéré comme moins fiable. On accorde donc plus d’importance à la question de savoir si le service que le travailleur doit fournir dans le cadre de ses fonctions est simplement axé sur les « résultats »; c.‑à‑d. « voici une tâche précise – vous avez été engagé pour l’exécuter ». Dans un tel cas, il n’y a pas de lien de subordination, ce qui est une exigence fondamentale pour qu’il y ait une relation employé-employeur. De plus, il ne faut pas confondre le contrôle des résultats, qui peut être exigé à chaque fois qu’un travailleur est engagé pour fournir des services, avec le contrôle ou la subordination d’un travailleur.
+[…]
+Outils et matériel
+[13] Pour ce qui est de ce facteur, il faut se demander qui possède les biens ou le matériel nécessaires pour l’exécution du travail, l’employeur ou la travailleuse. Ce facteur semble indiquer que la travailleuse est une entrepreneuse indépendante si c’est elle qui contrôle les biens ou le matériel. En revanche, si c’est l’employeur qui en a le contrôle, il est probable que la conclusion sera que la travailleuse est une employée.
+[…]
+Risque de perte/possibilité de profit
+[16] Ce facteur permet d’examiner la possibilité de profit et le risque de perte du travailleur. Normalement, un entrepreneur indépendant assume les risques de perte et est responsable des possibilités de profit résultant de l’exécution de son travail, alors que dans le cas d’un employé, c’est l’employeur qui assume ce fardeau et qui a ces possibilités.
+[…]
+À qui appartient l’entreprise?
+[…]
+[22] Toutefois, il ne faut pas tomber dans le piège et penser que seulement ce qui revêt les signes extérieurs d’une « entreprise » est une entreprise pour les besoins de cette analyse. À cet égard, je fais référence au paragraphe 13 de l’arrêt D & J Driveway :
+[...] Il faut bien se prémunir à l’encontre d’un réflexe de songer uniquement à une corporation d’affaires ou à une entreprise commerciale structurée lorsque l’on pense à des travaux qui sont réalisés ou des services qui sont fournis autrement qu’en vertu d’un contrat de travail. Ce sont souvent les exemples de l’entrepreneur en électricité, en plomberie ou en construction qui viennent immédiatement à l’esprit dans un tel contexte. Mais il existe toute une gamme de services qui sont offerts en vertu d’un contrat de service. D’ailleurs, le Code civil du Québec, à l’article 2098, a bien pris soin de mettre sur un pied d’égalité le « contrat d’entreprise » et le « contrat de service » et d’appeler « entrepreneur » la personne qui exécute un contrat d’entreprise et « prestataire de services » celle qui exécute un contrat de service.
+[23] Même si le Code civil du Québec ne s’applique pas en l’espèce, je trouve que les propos du juge Letourneau sont instructifs. […]
+Analyse
+[12] À titre de commentaire préliminaire, j’aimerais signaler que la Couronne m’a invitée à tirer des conclusions générales relativement à l’embauche des cinq travailleuses en fonction des témoignages de Mme Dean, de Mme Nidoy et de Mme Abalos. Cela est approprié en l’espèce.
+[13] Je voudrais aussi formuler un commentaire au sujet de l’alinéa 10s) de la réponse, dans laquelle il est précisé que Mme Dean a commencé à traiter tous les membres de son personnel soignant comme des employés à compter du 1er novembre 2009. Cette hypothèse n’aide pas la Couronne parce que Mme Dean a pris cette mesure en réponse à la position adoptée par l’Agence du revenu du Canada.
+[14] Je me penche maintenant sur l’application des principes juridiques aux faits de l’espèce. Je commencerai par les critères énoncés dans l’arrêt Wiebe Door.
+Le contrôle
+[15] En général, l’arrangement en vigueur entre Mme Dean et chaque travailleuse était souple, en ce sens que Mme Dean ne donnait aux travailleuses aucune garantie de travail et que les travailleuses n’avaient aucune obligation d’accepter un travail particulier. En outre, aussi bien les travailleuses que Mme Dean pouvaient mettre fin à une entente en tout temps. Les travailleuses pouvaient également travailler ailleurs, et notamment fournir d’autres services de soins.
+[16] En ce qui concerne l’horaire de travail, je conclus que Mme Dean attribuait des quarts de travail aux travailleuses, mais que les heures de travail réelles variaient quelque peu selon les besoins des clients. Cela donne à penser qu’on s’attendait à ce que les travailleuses effectuent des heures de plus en fonction des besoins. Je conclus également que, si une travailleuse n’était pas disponible pour un quart de travail, la travailleuse en question pouvait trouver un remplaçant ou contacter Mme Dean pour qu’elle lui en trouve un.
+[17] En ce qui concerne les tâches, Mme Dean a laissé entendre qu’elle n’avait pas à donner de directives aux travailleuses parce qu’elles étaient toutes des aides‑soignantes expérimentées qui savaient quoi faire. Il se peut qu’il n’ait pas été bien souvent nécessaire de donner des directives aux travailleuses, mais là n’est pas le critère. Il s’agit plutôt de savoir si Mme Dean avait le pouvoir de contrôler le travail, et non si elle exerçait effectivement un contrôle.
+[18] Le bon sens veut que dans le type de travail en cause, le client (ou la personne responsable du client, comme un membre de la famille ou un curateur) a le pouvoir d’imposer le type de travail à exécuter ainsi que les modalités d’exécution. Étant donné que les travailleuses avaient une relation contractuelle avec Mme Dean, et non avec les clients, toute directive donnée par les clients était en fait la manifestation d’un contrôle exercé par Mme Dean.
+[19] Je voudrais également souligner le fait que Mme Dean continuait par ailleurs d’intervenir auprès des clients. Elle leur rendait régulièrement visite et passait chercher les feuilles de temps des travailleuses. Ce contact lui permettait de superviser le travail des travailleuses.
+[20] Tout compte fait, l’examen du critère de contrôle fait davantage pencher la balance en faveur d’une relation employeur-employé. Le fait que Mme Dean n’avait aucune obligation d’offrir du travail aux travailleuses ou que les travailleuses n’avaient aucune obligation d’accepter du travail fait pencher la balance en sens inverse, mais il s’agit d’un élément de moindre importance en l’espèce parce que la preuve donne à penser que le travail, une fois accepté, représentait plutôt une entente à long terme.
+[21] Je voudrais m’attarder tout particulièrement sur la situation de Mme Nidoy parce qu’elle comporte des éléments uniques. Mme Nidoy fournissait des services à une personne qui avait besoin de soins 24 heures sur 24. Mme Nidoy fournissait déjà des soins à cette personne avant que Mme Dean soit engagée et Mme Nidoy était une des trois personnes désignées par la cliente, tant qu’elle en était capable, pour lui fournir des soins.
+[22] Mme Dean a ensuite été engagée parce que la maison de retraite demandait l’intervention d’une agence. En outre, à ce stade, un curateur assumait la responsabilité des soins fournis à la cliente et le curateur en question souhaitait faire affaire avec Mme Dean. Mme Nidoy avait très peu de contacts avec Mme Dean et ses heures de travail étaient fixées par une des deux autres personnes occupant les fonctions d’aide‑soignant auprès de la cliente.
+[23] Le fait que Mme Dean ait fait affaire avec un curateur qui était responsable des soins fournis à la cliente donne à penser que Mme Dean avait le pouvoir de contrôler la manière dont Mme Nidoy exécutait son travail. En ce qui concerne l’horaire de travail fixé par l’autre personne qui fournissait des soins, il faudrait voir cet élément comme une délégation consentie par Mme Dean. L’examen du critère de contrôle fait pencher la balance en faveur d’une relation employeur-employé.
+[24] Mme Dean a expliqué qu’elle avait joué un rôle d’intermédiaire entre le curateur et les trois personnes qui fournissaient des soins, et qu’elle l’avait fait pour rendre service. Cela ne change rien au fait que l’entente contractuelle avait été conclue avec Mme Dean et non avec les aides‑soignantes. C’est l’entente contractuelle qui définit la relation.
+Les outils et le matériel
+[25] L’examen de ce critère donne un résultat neutre. Les travailleuses devaient assumer le coût de leur transport pour se rendre au travail et en revenir, mais pour le genre de travail en cause, on s’attendrait à cela aussi bien des employés que des entrepreneurs indépendants. Il n’y avait que très peu de matériel requis et c’est le client qui le fournissait.
+Le risque de perte / la possibilité de profit
+[26] Au vu des éléments de preuve qui ont été produits, je dirais qu’il s’agit d’un critère relativement neutre. Les travailleuses étaient payées selon un tarif horaire et on ne leur promettait pas de leur fournir régulièrement du travail. Les ententes de ce type sont courantes aussi bien dans les relations employeur-employé que dans les relations employeur-entrepreneur indépendant.
+L’intention
+[27] L’application des critères énoncés dans l’arrêt Wiebe Door aux faits de l’espèce porte à la conclusion que les travailleuses avaient été engagées à titre d’employées. Compte tenu de cette conclusion, il n’est pas utile d’examiner la question de savoir quelle était l’intention des parties.
+[28] Quoi qu’il en soit, la preuve donne à penser que les parties n’avaient aucune intention commune. Il n’y a que peu d’éléments de preuve indiquant que les travailleuses avaient réfléchi à la nature de leur relation d’emploi, ou que Mme Dean en avait discuté avec elles. Les travailleuses qui ont témoigné n’étaient pas versées dans les questions d’affaires et il se peut qu’elles n’aient pas compris que Mme Dean les traitait comme des entrepreneures indépendantes du fait qu’elle ne prélevait pas de retenues à la source. L’intention n’est pas un critère pertinent en l’espèce.
+[29] Par conséquent, l’appel interjeté à l’égard de la décision selon laquelle Virginia Sison, Eliadora Clores, Evangeline Abalos, Charlene Apalon Garzon et Milani Nidoy occupaient un emploi assurable et ouvrant droit à pension pendant les périodes mentionnées ci‑dessus est rejeté, et la décision est confirmée. Chaque partie assumera ses propres dépens.
+Signé à Ottawa (Ontario), ce 19e jour d’octobre 2012.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 29e jour de novembre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 370
+NOS DES DOSSIERS DE LA COUR : 2012-1027(EI) et
+2012-1028(CPP)
+INTITULÉ : Ana C. Dean s/n Ana’s Care & Home Support c. Le ministre du Revenu national et Milani S. Nidoy
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 26 septembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 19 octobre 2012
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Antonio Mejia
+Pour l’intimé :
+Mme Kristin McHale (stagiaire en droit)
+Me Shankar Kamath
+Pour l’intervenante :
+L’intervenante elle‑même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa (Ontario)

@@ -1,0 +1,173 @@
+Title: Tobin v. MNR
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25839/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-503-25839-tobin-v-mnr-en.md
+Document type: case_law
+Last modified: 2003-07-21
+
+# Tobin v. MNR
+
+- Citation: 2003 TCC 503
+- Decision date: 2003-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3910, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tobin v. MNR
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-21
+Neutral citation
+2003 TCC 503
+File numbers
+2003-88(EI)
+Judges and Taxing Officers
+Murray F. Cain
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-88(EI)
+BETWEEN:
+MARK TOBIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+_______________________________________________________________
+Appeal heard on May 27, 2003 at St. John's, Newfoundland
+Before: The Honourable M.F. Cain, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Paul Brown
+Counsel for the Respondent:
+Susan McKinney
+_______________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Rothesay, New Brunswick, this 21st day of July 2003.
+"M.F. Cain"
+Cain, D.J.
+Citation: 2003TCC503
+Date: 20030721
+Docket: 2003-88(EI)
+BETWEEN:
+MARK TOBIN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent.
+REASONS FOR JUDGMENT
+Cain,D.J.
+[1] The Appellant appeals the decision of the Respondent dated October 23, 2002, that the Appellant's engagement by Spy Glass Ltd. (the "Payor") during the period August 13, 2001 to October 19, 2001 (the "period in question") was not insurable employment as the Appellant was not dealing at arm's length with the Payor and that it was reasonable to conclude that a substantially similar contract of employment would not have occurred if the Appellant and the Payor were dealing at arm's length. The Respondent relied on paragraph 5(2)(i) of the Employment Insurance Act (the "Act") in support of his decision.
+[2] The Respondent based his decision on the following assumptions of fact:
+(a) Stan Tobin is the Payor's sole shareholder;`
+(b) Stan Tobin is the Appellant's father;
+(c) the Payor hired the Appellant to reduce the size of the stalls in an existing barn to accommodate calves rather than cows and sheep;
+(d) during the period under appeal the Appellant completed the restoration to the lower level of the structure;
+(e) the Appellant was not a carpenter;
+(f) the Appellant's wage was calculated based on $12 per hour;
+(g) the duties performed by the Appellant required rough carpentry work and the wage reported was excessive considering the Payor's requirements and the Appellant's skills;
+(h) the Appellant had exhausted his previous claim for employment insurance benefits;
+(i) the Payor provided the Appellant with a Record of Employment which reported 500 insurable hours with insurable earnings of $6,000;
+(j) the Appellant did not receive the wages reported on his Record of Employment;
+(k) the Appellant was related to the Payor within the meaning of the Income Tax Act;
+(l) the Appellant was not dealing with the Payor at arm's length;
+(m) having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is not reasonable to conclude that the Appellant and the Payor would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+The Appellant admitted assumptions (a) to (d) inclusive, (f), (h) and (i) and (k) but denied all of the other assumptions hereinabove set out.
+FACTS
+[3] The Payor is the owner of a farm at Ship's Cove, Newfoundland/Labrador. Stan Tobin, the father of the Appellant is the sole shareholder of the Payor and his family is the only resident of the community.
+[4] In or about 1988, the father built a barn on the farm which was designed originally to house sheep. The business of raising sheep was discontinued sometime in the 1990's. The Payor and Stan Tobin experienced financial difficulties and the business of raising animals for sale was curtailed and for all intents and purposes discontinued.
+[5] In or about 2000, the Appellant was employed by a dairy and qualified for employment insurance benefits. His benefits terminated in mid-summer 2001.
+APPELLANT'S TESTIMONY
+[6] The Appellant testified that he was employed by the Payor to renovate the stalls in the barn to accommodate calves to be raised and sold.
+[7] He was also to ditch and spread gravel on a roadway on the farm when weather permitted.
+[8] His father Stan Tobin was the sole shareholder of the Payor.
+[9] While his hourly wage was reported to be $10, that was his net pay per hour after deductions. He actually received $12 per hour. His work schedule was 8 hours per day, Monday through Friday. On some days he worked less than 8 hours and would make up the lost time the following day.
+[10] Stan Tobin supervised the work from time to time but the Appellant kept his own time on scraps of paper and reported the time worked to the Payor.
+[11] He was paid $500.00 a week every Friday or Saturday. He was paid in cash because his father was in trouble with his bank and did not want it to know of the operation. The Appellant never calculated nor did he know his gross pay. He was issued a T4 slip for the moneys received. The T4 slip was not tendered in evidence.
+[12] The Appellant was hired because of his familiarity with calves having worked and tended them since he was a small boy.
+[13] He dismantled existing stalls and constructed approximately 40 smaller stalls, 7 feet long, 3 feet wide and 4 feet high. It took approximately one-half to a full day to construct each stall. When weather permitted he ditched and spread gravel on a short roadway on the farm property.
+[14] The Payor required the work to be completed by October when the calves would be housed. They would be nurtured and sold in February of the following year. The calves were purchased for $65, medicine during their nurturing at the farm would cost $75 per calf and a calf would bring on sale from $200 to $700.
+RESPONDENT'S EVIDENCE
+[15] The Respondent called one Scott Nightingale, an appeals officer with 10 years experience.
+[16] He received from Human Resources Development Canada, the financial records of the Payor and reviewed them.
+[17] He conducted telephone calls with both Stan Tobin and the Appellant and recorded them with their knowledge.
+[18] He advised both the Appellant and Stan Tobin that he was unable to find any evidence of activity that would produce sufficient income to pay the Appellant. Stan Tobin confirmed that the calves were purchased, nurtured and sold but he did not report the income to the bank or Revenue Canada.
+[19] In addition Nightingale found that the calf operation had not been viable for several years and there were only several head of livestock on the farm at the time that the Appellant was hired.
+[20] The Appellant told him he was familiar with construction and estimated that it would take him about a day to construct a stall.
+[21] The roadway was 250 feet long and the Appellant was unable to say how long it took him to complete the spread of gravel. Nightingale concluded that there was not sufficient work to keep the Appellant employed for the 10 weeks reported.
+DECISION
+[22] The Respondent relies on paragraphs 5(2)(i) and 5(3)(b) of theAct.
+5(2)(i)
+(2) Insurable employment does not include
+(i) employment if the employer and the employee are not dealing with each other at arm's length.
+5(3)(a) and (b)
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, with the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions , the duration and the nature and importance of the work, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[23] It follows from the above sections that a more exhaustive review of the circumstances of the employment of one relative by another is required than when the employee is a non-relative.
+[24] In making his determination in exercise of his power under paragraph 5(3)(b) of the Act, the Respondent is bound by certain criteria. The Federal Court of Appeal in Canada (Attorney General of Canada) (Applicant) v. Jencan Ltd. (Respondent), [1998] 1 F.C. 187 set out the criteria by which the Tax Court of Canada should exercise its jurisdiction in dealing with appeals in respect to rejected claims for employment insurance benefits by the Minister of National Revenue (the "Minister") where the Payor and the Appellant are related and the Minister determines that the relationship is one of non-arm's length. These criteria may be summarized as follows.
+[25] In the exercise of its jurisdiction, the Tax Court must exhibit a high degree of judicial deference in reviewing the Minister's determination. While the Court has authority to decide questions of law and fact, the Court's jurisdiction is circumscribed.
+[26] While the process is called an appeal, in reality it most resembles a judicial review. The Court does not have to decide whether the Minister's determination was correct but whether it resulted from a proper exercise of his discretionary authority.
+[27] Failure to take into account all of the relevant circumstances required by either the Unemployment or the Employment Insurance Act or taking into consideration irrelevant facts would result in an improper exercise of that jurisdiction. If the Minister acted in bad faith or for an improper purpose then the same result would
+occur.
+[28] The Court does not have the right to substitute its decision for that of the Minister because the Court would have come to a different conclusion on the facts relied on by the Minister.
+[29] However since the Appellant is not privy to the Minister's decision and has the onus of proving his or her case, the Appellant has the right to bring new evidence to challenge the assumptions of fact relied on by the Minister. If after considering all of the evidence the Court finds the facts on which the Minister acted are insufficient in law to support his determination, the Court is justified in scrutinizing that determination and if it finds it legally wanting, of intervening.
+[30] An assumption of fact that is disproved at trial may not necessarily constitute a defect that renders the Minister's determination contrary to law. It will depend on the strength and weakness of the remaining evidence. The Court must go one step further and ask itself whether without the assumption of fact or facts that has or have been disproved there is sufficient evidence to support the Minister's determination.
+[31] In summary to find the Minister's determination insufficient in law, the Appellant must establish the he acted in bad faith or for an improper motive, that he failed to take into account all of the relevant circumstances as required by subparagraph 3(2)(c)(ii) of the Unemployment Insurance Act or that he took into account an irrelevant factor.
+[32] In Candor Enterprises Ltd. v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 2110, a decision of the Federal Court of Appeal delivered at Ottawa, Ontario on December 15, 2000, Sharlow J.A., who delivered the judgment for the majority discussed the principles that emanate from Jencan (supra) and its predecessors Tignish Auto Parts Inc v. M.N.R. (1994) 185 N.R. 73 (F.C.A.) and Bayside Drive-In Ltd. v. Minister of National Revenue - M.N.R.) (1997), 218 N.R. 150 (F.C.A.) and in particular the two-step approach that must be followed by the Tax Court of Canada at page 14 of the original judgment:
+There is some question as to whether a determination by the Minister under the subparagraph 3(2)(c)(ii) is correctly described as "discretionary", and whether the two step procedure suggested in these cases is necessary or helpful. Where a statute requires the Minister to be "satisfied" on a factual question, the Minister's deliberations can lead to nothing more than a factual determination. I refer to the decision of Marceau J.A. in Légaré v. Minister du Revenue national (1999), 246 NR 176 (F.C.A.) at paragraph 4:
+[4] The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable"
+[37] Marceau J.A. elaborated on this statement in Pérusse v. Canada (Minister of National Revenue), [2000] F.C.J. No. 310 (F.C.A.) at paragraph 15 (the emphasis is mine):
+[para 15] The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[33] Reference to subparagraph 3(2)(c)(ii) in the above quotes was reference to the Unemployment Insurance Act and that subparagraph is identical to paragraph 5(3)(b) in the Act.
+[34] The onus of proof is on the Appellant to lead evidence that destroys the assumptions on which the Minister made his decision. The rules of evidence are relaxed and an appellant can produce evidence in a form that might not be accepted in a court with all the normal trappings. However an appellant is still required to lead before the Court the best evidence that is available to him. While his own evidence may be believable it is self-serving evidence and where corroborating evidence is available he should call it.
+[35] In Hickman Motors Limited v. Canada, [1997] 2 S.C.R. 336, the Supreme Court of Canada outlined the principles applicable when a person challenges the assumptions made by the Minister. In that case the Court was dealing with assumptions made by the Minister in making an assessment in a tax matter. The principles apply equally well to assumptions made by the Minister in a ruling under the Unemployment Insurance Act. L'Hereux-Dubé, J.A. said at p. 378:
+It is trite law that in taxation the standard of proof is the civil balance of probabilities and that within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter. The Minister, in making assessments, proceeds on assumptions and the initial onus is on the taxpayer to "demolish" the Minister's assumptions in the assessment. The initial burden is only to "demolish" the exact assumptions made by the Minister but no more...
+This initial onus of "demolishing " the Minister's assumptions is met where the appellant makes out at least a prima facie case. The law is settled that unchallenged and uncontradicted evidence "demolishes" the Minister's assumptions.
+Where the Minister's assumptions have been "demolished" by the appellant, the "onus... shifts to the Minister to rebut the prima facie case" made out by the appellant and to prove the assumptions...
+Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed...
+[36] A prima facie case is one supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence that excludes the possibility of the truth of any other conclusion than the one established by that evidence.
+[37] To satisfy the obligation of demolishing the assumptions of the Respondent, the Appelant was required to call sufficient evidence to establish a prima facie case. There is a well-recognized rule of evidence that the failure of a party or witness to give evidence, which was in the power of the party or witness to give and by which the facts might have been elucidated, justifies the court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed. The party against whom the inference operates may explain it away by showing circumstances that prevented the production of such a witness. (see Murray v. Saskatchewan, [1952] 2 D.L.R. 499, at pp. 05-506.
+[38] In the case at bar, no documents were introduced to support either a contract of service or payment of wages except the viva voce evidence of the Appellant. Stan Tobin was not called. Notwithstanding that he may have devised a scheme to prevent the bank and Revenue Canada from knowing of his calving operation, the Appellant should have called him so the Court could test his credibility.
+[39] The Appellant's evidence lacked much detail. The Court understands from his evidence that he worked 8 hours a day, 5 days a week. He apparently worked fewer than 8 hours a day from time to time and he made up the deficiency by working in excess of 8 hours the following day. He testified that while his Record of Employment stated his hourly rate to be $10, this was his net pay per hour and the difference was represented by deductions at source made by the Payor. The period in question was from August 13, 2001 to and including October 19, 2001, a period of 10 weeks or 400 hours. At $12 an hour the Appellant should only have received $480 per week. His gross income during this period would have been $4,800. His Record indicated that he worked 500 hours and received $6,000.
+[40] The Appellant testified that it would take one-half day to a full day to construct a stall. While he failed to detail the actual work performed, it appears that the barn had stalls and the only requirement was to reduce their size and create new walls to make the stalls conform to the necessary requirements. Suggesting that one day would be required to complete one new stall seems unreasonable. Allocating one-half day for the forty stalls constructed would consume 20 days or approximately 3 weeks. That would leave 7 weeks for road construction for which little or no credible evidence was led.
+[41] The Respondent led evidence to show that there was no history of recent livestock activity on the Payor's farm and no financial records of the Payor existed to support the activity on which the claim for employment was based. That evidence called into question the evidence of the Appellant and it was incumbent on him to call evidence to overcome that question. Stan Tobin was the logical person to support the evidence of the Appellant. If in fact a viable cash operation of raising and selling calves was conducted, Stan Tobin could have given evidence of the numbers involved, the gross returns realized so that the Court could find that the expenses incurred in realizing those returns were reasonable. He could have given that evidence under the protection of the Court if he was concerned about retaliation by the authorities. The Court can and does draw the inference that the evidence of Stan Tobin, the father of the Appellant, would have been unfavourable to the Appellant. No explanation was offered as to why Stan Tobin was not called.
+[42] The evidence of the Appellant did not establish a prima facie case. It failed to demolish any of the Respondent's assumptions.
+[43] The Court is satisfied that the assumptions of the Minister were reasonable under the circumstances and put the onus directly on the Appellant to show that, having regard to all the circumstances of the employment, it was reasonable to conclude that the Payor and the Appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. He failed to do that by credible evidence.
+[44] The appeal is dismissed and the decision of the Respondent is confirmed.
+Signed at Rothesay, New Brunswick, this 21st day of July 2003.
+"M.F. Cain"
+Cain, D.J.
+CITATION:
+2003TCC503
+COURT FILE NO.:
+2003-88(EI)
+STYLE OF CAUSE:
+Mark Tobin and M.N.R.
+PLACE OF HEARING
+St. John's, Newfoundland
+DATE OF HEARING
+May 27, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable M.F. Cain,
+Deputy Judge
+DATE OF JUDGMENT
+July 21, 2003
+APPEARANCES:
+Agent for the Appellant:
+Paul Brown
+Counsel for the Respondent:
+Susan McKinney
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

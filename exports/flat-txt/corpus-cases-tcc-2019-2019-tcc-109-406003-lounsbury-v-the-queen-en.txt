@@ -1,0 +1,258 @@
+Title: Lounsbury v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/406003/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-109-406003-lounsbury-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-05-10
+
+# Lounsbury v. The Queen
+
+- Citation: 2019 TCC 109
+- Decision date: 2019-05-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4416, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lounsbury v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-10
+Neutral citation
+2019 TCC 109
+File numbers
+2018-895(GST)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018-895(GST)I
+BETWEEN:
+CRYSTAL LOUNSBURY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 23, 2019, at London, Ontario.
+Additional submissions received on March 5 and 6, 2019.
+Before: The Honourable Gaston Jorré, Deputy Judge
+Appearances:
+For the Appellant:
+Murray Hill
+Counsel for the Respondent:
+Chris Eccles
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated August 18, 2017, is dismissed, without costs.
+Signed at Ottawa, Ontario, this 10th day of May 2019.
+“Gaston Jorré”
+Jorré D.J.
+Citation: 2019 TCC 109
+Date: 20190510
+Docket: 2018-895(GST)I
+BETWEEN:
+CRYSTAL LOUNSBURY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré D.J.
+[1] The Appellant claimed a federal and Ontario new housing rebate. The position of the Respondent is that the Appellant is not eligible for the rebate for two reasons: first, the application was not submitted in a timely fashion and, second, the new house was not constructed for use as the Appellant’s primary place of residence.
+[2] There are no issues as to quantum and, at the opening of the hearing, counsel for the Respondent stated that they were not pursuing the other alternative arguments in paragraph 20 of the Reply to Notice of Appeal. These alternative arguments would have raised issues as to the fair market value of the new house and as to the quantum of GST paid by the Appellant.
+[3] The relevant portions of the federal legislation are found in paragraph (2)(a) and subparagraph (3)(a)(iii) of section 256 of the Excise Tax Act (the “Act”). For the purposes of this appeal, the relevant portions of the text read as follows:
+(2) Rebate for owner-built homes — Where
+(a) a[n] . . . individual constructs . . . a single unit residential complex . . . for use as the primary place of residence of the . . . individual . . .
+. . .
+(3) Application for rebate — A rebate . . . shall not be paid . . . unless the individual files an application . . . on or before
+(a) the day . . . that is two years after the earliest of
+(i) . . .
+(ii) . . .
+(iii) the day on which construction . . . is substantially completed; or
+. . .
+[4] Nothing turns on any legislative provision specific to Ontario portion of the rebate.
+[5] The Appellant’s husband is co-owner of the new house and was the only witness. In testifying he made use of a typed timeline. In order to have a clear record, I treated that timeline as an aide memoire and had it marked as Exhibit A-1 for identification only.
+[6] The Respondent assumed that the new housing rebate application made by the Appellant was received by the Minister of National Revenue (the “Minister”) on or around June 8, 2017. The receipt date stamp on the copy of the application filed as Exhibit R-1 shows a date of June 15, 2017, and the date of the Appellant’s signature on the form is May 31, 2017. Based on the evidence before me, nothing turns on whether the application was filed on any date between May 31 and June 15, 2017.
+[7] Thus, whether or not the application was filed within the requisite two-year period turns on whether the house was substantially completed prior to May 31, 2015.
+[8] The Appellant takes the position that substantial completion occurred in August 2015, a little before the Appellant received the final occupancy permit from the municipality on September 25, 2015.
+[9] The Minister’s position is that the property was substantially complete by December 18, 2013. Alternatively, the Minister submits that the subject property was substantially complete no later than March 14, 2014. While it is not entirely clear to me why the Minister took the position that December 18, 2013, was the relevant date, the March 14, 2014 date is based on a first occupancy permit of that date and filed as Exhibit R-4. I shall return to R-4 in a moment.
+[10] The construction of the house has spanned a long period of time because the Appellant and her husband did a large portion of the work themselves. Construction began in 2008. [1]
+[11] When construction began in 2008, the Appellant and her husband were living in a rental apartment in Brampton. They also worked full-time in Brampton, Ontario. Currently they still rent the apartment in Brampton. The Appellant continues to work in Brampton whereas her husband works in Scarborough, Ontario. It takes him about an hour to get from the apartment to work in Scarborough.
+[12] The new house built by the Appellant and her husband is to the west of Brampton near Lake Huron. It takes approximately 2 ½ hours to drive there from Brampton.
+[13] During the period of construction, the Appellant and her husband would generally leave Brampton Friday night and come back on Sunday night.
+[14] Prior to May 31, 2015, more than two years prior to the filing of the application for rebate, the following work on the house had been completed. The complete outer structure of the house had been built: walls, windows, doors and the roof; in addition there was radiant in-floor heating, a septic system, a functioning bathroom and a functioning kitchen. [2] There was also a garage but it was not yet insulated or drywalled.
+[15] The municipality issued a first occupancy certificate on March 14, 2014. [3] A final occupancy permit was issued on September 25, 2017.
+[16] This first occupancy permit states:
+PERMISSION is hereby granted to the above-named applicant to use and occupy the building at the above location which the applicant has stated has been constructed in compliance of the Building Code Act, and regulations and orders made there under and of any by-law, or amendments thereto, of the municipality which in part or in whole regulates the construction, the erection, alteration, location, use etc. of buildings and is:
+[After this there are three alternative boxes and statements one of which is ticked off. The one that is ticked off reads as follows.]
+x Partially completed and ready for residential occupancy in accordance with OBC [4] . Division C - part 1, article 1.3.3.4.
+[17] There is also a comment box on the form which says that the construction is incomplete and that before a final occupancy permit is issued the following is required:
+Provide smoke and carbon detector alarms that are hardwired and interconnected on each floor.
+Provide a self-closing device on garage/house door.
+Provided guard on second floor deck.
+Provided guard and handrail on basement stair.
+Electrical certificate of inspection.
+Provide Sewage System Service and Maintenance Agreement.
+[18] Prior to the issuance of the March 14, 2014, occupancy permit the Appellant and her husband slept in the cabin of a sailboat on a trailer that was at the property. Once they received the certificate they slept inside the new house whenever they went there.
+[19] I have read Division C — part 1, article 1.3.3.4 of the Ontario Building Code as it read on March 14, 2014, [5] and I do not see in it any restriction on the structure being used by the Appellant and her husband as a home after the issue of the first occupancy permit.
+[20] The requirements set out in Division C — part 1, article 1.3.3.4(4) of the Ontario Building Code are quite extensive and include:
+(a) the structure of the building with respect to the dwelling unit to be occupied is substantially complete and ready to be used for its intended purpose,
+(b) the building envelope, including, but not limited to, cladding, roofing, windows, doors, assemblies requiring fire-resistance ratings, closures, insulation, vapour barriers and air barriers, with respect to the dwelling unit to be occupied, is substantially complete,
+. . .
+(d) required electrical supply is provided for the dwelling unit to be occupied,
+. . .
+(f) the following building components and systems are complete and operational for the dwelling unit to be occupied:
+(i) required exits, floor access and egress Systems, handrails, guards, smoke alarms, carbon monoxide alarms and fire separations, including, but not limited to, fire stopping,
+(ii) required exhaust fume barriers and self-closing devices on doors between an attached or built—in garage and the dwelling unit,
+(iii) water supply, sewage disposal, lighting and heating systems, and
+(iv) protection of foamed plastics required by Article 9.10.17.10. of Division 8,
+(g) the following building components and systems are complete, operational and tested for the dwelling unit to be occupied: -
+(i) water system,
+(ii) building drain and building sewer, and
+(iii) drainage system and venting system,
+(h) required plumbing fixtures in the dwelling unit to be occupied are substantially complete and operational, and
+. . .
+[21] In the 14 March 2014 occupancy permit comments section, the list of items to be done prior to the final occupancy permit was relatively modest.
+[22] The absence on the 14 March 2014 of the required items did not prevent the Appellant and her husband from being able to make normal use of the house.
+[23] While the first occupancy certificate is not in itself determinative, the fact that it permits residential occupancy combined with the relatively minor list of items that are required to be done before issuance of a final certificate are significant factors to be considered.
+[24] The Appellant took the position that the first occupancy certificate should not have much impact because the certificate was issued to them only because the inspector knew that they would not be living there all the time.
+[25] The difficulty I have with the Appellant’s position based on this last point is twofold. First, I see nothing in the certificate or in the provision of the Ontario Building Code that is incorporated by reference which prevents the Appellant, legally, from residing in the house. Second, although there are requirements before the final certificate will be issued, the fact remains that those requirements are relatively modest compared to what has already been built.
+[26] Thus, while, as I said earlier, I do not view the certificate as determinative, it does seem to me to be a factual element showing that the house was very advanced.
+[27] Another consideration is to look at what was left to do.
+[28] As of March 2014, the Appellant had yet to complete the items listed above in the comment section of the first occupancy permit. Apart from those items, the principal work yet to be done was: some insulation and drywall in the garage, the deck and most of the landscaping of the property. As of the hearing, the driveway was still gravel. [6]
+[29] Considering the situation overall, although there were still some things to be done, compared to what had been done, what had yet to be done was very modest in scope. I would also add that certain items are not necessary for there to be a completed house. [7] Also, the Appellant and her husband were clearly able to live in their house by the end of March 2014.
+[30] I find that, prior to May 31, 2015, the new house was substantially complete. [8]
+[31] In respect of this question there is one other matter I should deal with. The Appellant says that they were advised by the Canada Revenue Agency that they had two years from the date of the occupancy permit to claim the rebate. Whatever may or may not have been said to the Appellant by the Canada Revenue Agency does not modify the Act and my obligation is to apply the Act and the substantial completion test in that Act to the facts in evidence before me.
+[32] What advice might or might not have been given might, however, be a relevant question to be considered by the Minister if she received a request to extend the time pursuant to paragraph 256(3)(b) of the Excise Tax Act. Such a request is not something this Court could deal with. [9]
+[33] Turning to the second issue, was the house constructed for use as the Appellant’s “primary place of residence”? I note that “primary place of residence” for GST purposes is not the same as principal residence for income tax purposes.
+[34] The test in the Act is that the Appellant must constructed the house “for use as [their] primary place of residence”. It is well accepted that where one must determine intention one must consider not only the stated intention but also all the surrounding factual circumstances.
+[35] The test has to be applied in the context here where, after substantial completion, the Appellant and her husband had two residences: the new house they built and the apartment they rent.
+[36] Within these surrounding factual circumstances, there may be a number of indicia which help to determine whether a particular house is a person’s primary place of residence. There is no fixed list of relevant indicia and there is no specific weighting to be given to particular indicia.
+[37] For example, Justice Bocock in Sozio v. The Queen [10] enumerates the following as some of the potentially relevant indicia:
+a) demarcation of primary place of residence by change of address;
+b) the relocation of sufficient personal effects to the rebate property;
+c) if no occupancy of the residence, was there cogent evidence of frustration of occupancy;
+d) permanent occupant insurance versus seasonal or rental coverage;
+e) delivery of possession of previous primary residence to another;
+f) if dual occupancy continues, then the rebate property must be more frequently occupied, more convenient to third party locations such as work, more convenient amenities and more suitable to the needs of the taxpayer.
+[38] One must also consider that while a house constructed for use as a primary place of residence need not be so used immediately upon completion, it must be the intention at the time of construction to so use it within a reasonable period: see the decision of Justice Woods, as she then was, in Solanko v. The Queen. [11]
+[39] Starting in October 2015, the Appellant and her husband have considered the new house near Lake Huron to be there primary place of residence.
+[40] The Appellant and her husband changed their address for their driver’s licenses and health cards to the new house in the second half of 2015. They also started to vote in elections in the electoral districts within which the new house is located starting with the federal election in October 2015.
+[41] The new house is bigger than the apartment they rented and still rent. They furnished the new house, in part, with items taken out of storage.
+[42] In terms of time spent, the general pattern was the same after construction as before. The Appellant and her husband would generally leave Brampton on Friday night for the new house and then returned to Brampton on Sunday. [12]
+[43] This pattern was still true at the time of hearing and was likely to continue until retirement. At that point, the Appellant and her spouse intend to live in the new house full time.
+[44] The Appellant and her spouse do not have a fixed date on which they plan to retire but, at the hearing, the husband stated that it would be within the foreseeable future “[i]n the next couple of years.”
+[45] On one hand, stated intention, changing addresses, location where the Appellant and her husband vote, the greater size of the house compared to the apartment are all indicia which favour the new house being the primary place of residence of the Appellant.
+[46] On the other hand, the apartment in Brampton is where the Appellant and her husband live during the greater part of the week and is much closer to the workplaces of the Appellant and her husband. Given the distance, it is not feasible for the Appellant and her husband to commute from the new house to their respective places of employment.
+[47] This last consideration regarding time spent in each location is very important and must be given great weight. In my view, it outweighs the other indicia which point in the opposite direction. In this, I agree with Justice Bocock in Sozio, supra, when he says:
+f) If dual occupancy continues, then the rebate property must be more frequently occupied, more convenient to third party locations such as work, more convenient amenities and more suitable to the needs of the taxpayer.
+[Emphasis added.]
+[48] As a result, I am satisfied that, at the time the new house became one of the Appellant’s residences, it was not the Appellant’s principal place of residence.
+[49] Is this result changed by the fact that the new house will eventually become the Appellant’s principal place of residence?
+[50] On the facts before me, the Appellant and her husband may retire approximately two years after the hearing of this matter. This would be 6 ½ years after substantial completion. Applying the decision in Solanko, supra, this is too far in the future. [13]
+[51] As a result, I agree with the Minister that the new house was not constructed for use as the Appellant’s primary place of residence.
+[52] Accordingly, the appeal is dismissed. There will be no order as to costs.
+Signed at Ottawa, Ontario, this 10th day of May 2019.
+“Gaston Jorré”
+Jorré D.J.
+ONTARIO REGULATION 332/12 - https://www.ontario.ca/laws/regulation/120332/v5
+BUILDING CODE
+Historical version for the period January 1, 2014 to September 22, 2014.
+1.3.3.4. Occupancy Permit — Certain Buildings of Residential Occupancy
+(1) No person shall occupy or permit to be occupied a building described in Sentence (3), or
+part of it, unless the chief building official or a person designated by the chief building
+official has issued a permit authorizing occupation of the building or part of it in accordance
+with Sentence (4).
+(2) This Article does not apply in respect of the occupancy of an existing building, or part of
+it, that has been subject to extension or material alteration or repair.
+(3) A building referred to in Sentence (1) is a building intended for residential occupancy
+that,
+(a) is of three or fewer storeys in building height and has a building area not
+exceeding 600 m2,
+(b) has no accommodation for tourists,
+(c) does not have a dwelling unit above another dwelling unit, and
+(d) does not have any dwelling units sharing a common means of egress.
+(4) The chief building official or a person designated by the chief building official shall issue
+a permit authorizing occupation of a building described in Sentence (3), where,
+(a) the structure of the building with respect to the dwelling unit to be occupied is
+substantially complete and ready to be used for its intended purpose,
+(b) the building envelope, including, but not limited to, cladding, roofing, windows,
+doors, assemblies requiring fire-resistance ratings, closures, insulation, vapour
+barriers and air barriers, with respect to the dwelling unit to be occupied, is
+substantially complete,
+(c) the walls enclosing the dwelling unit to be occupied conform to Sentence
+9.25.2.3.(7) of Division B,
+(d) required electrical supply is provided for the dwelling unit to be occupied,
+(e) required firefighting access routes to the building have been provided and are
+accessible,
+(f) the following building components and systems are complete and operational for
+the dwelling unit to be occupied:
+(i) required exits, floor access and egress systems, handrails, guards, smoke
+alarms, carbon monoxide alarms and fire separations, including, but not
+limited to, fire stopping,
+(ii) required exhaust fume barriers and self-closing devices on doors between
+an attached or built-in garage and the dwelling unit,
+(iii) water supply, sewage disposal, lighting and heating systems, and
+(iv) protection of foamed plastics required by Article 9.10.17.10. of Division B,
+(g) the following building components and systems are complete, operational and
+tested for the dwelling unit to be occupied:
+(i) water system,
+(ii) building drain and building sewer, and
+(iii) drainage system and venting system,
+(h) required plumbing fixtures in the dwelling unit to be occupied are substantially
+complete and operational, and
+(i) where applicable, the building conforms to Article 9.1.1.7. of Division B with
+respect to the dwelling unit to be occupied.
+(5) Where a registered code agency has been appointed to perform the functions described
+in clause 4.1 (4) (b) or (c) of the Act in respect of the construction of a building described in
+Sentence (3), the chief building official or a person designated by the chief building official
+shall issue the permit referred to in Sentence (4) after receipt of a certiﬁcate for the
+occupancy of a building described in Sentence 1.3.3.4.(3) of Division C issued by the
+registered code agency in respect of the building.
+CITATION:
+2019 TCC 109
+COURT FILE NO.:
+2018-895(GST)I
+STYLE OF CAUSE:
+CRYSTAL LOUNSBURY
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+January 23, 2019
+ADDITIONAL SUBMISSIONS
+RECEIVED FROM THE PARTIES:
+March 5 and 6, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+May 10, 2019
+APPEARANCES:
+For the Appellant:
+Murray Hill
+Counsel for the Respondent:
+Chris Eccles
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It was slowed in 2012/2013 because of health issues of one of the spouses.
+[2] See page 9 of the transcript.
+[3] See Exhibit R-4.
+[4] This is a reference to the Ontario Building Code. The OBC is enacted as a regulation.
+[5] Ontario regulation 332/12 as it then read. A copy is attached as an annex. No one had a copy of the regulation at the hearing. After obtaining the regulation, I invited the parties to make comments in writing on article 1.3.3.4.
+[6] Although there was no evidence at the hearing, the Notice of Appeal alleged that the basement was unfinished as of 2018.
+[7] A paved driveway as opposed to a gravel driveway is not necessary. Similarly, assuming that the allegation that the basement was still unfinished in 2018 is correct, I would note that some houses are sold with unfinished basements.
+[8] I would note that this is not a case where one can analyse the percentage of overall expenditures incurred prior to May 31, 2015. There are two reasons for this. The first is that the presentation of the evidence simply does not permit one to determine clearly the timing of expenditures. Among other limitations in the evidence, in some cases, various supplies for work were bought well in advance of the work using those supplies. In other cases, we do not know the date of the expenditure. Secondly, because the Appellant and her husband did an enormous portion of the work themselves, the value of that work is not reflected in the actual expenditures.
+[9] The evidence before me does not disclose whether or not such a request was made.
+[10] 2018 TCC 258 [Sozio].
+[11] 2014 TCC 100 [Solanko]. In that case, the rebate was denied in circumstances where the appellant intended to retire eight years after completion.
+[12] There was also testimony that the Appellant and her husband would go to the new house during vacations - both before and after construction.
+[13] Even if I agreed with the Appellant as to the timing of substantial completion, it would still be over five years after substantial completion.

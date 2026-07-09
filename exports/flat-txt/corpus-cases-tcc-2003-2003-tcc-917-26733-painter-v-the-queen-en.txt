@@ -1,0 +1,146 @@
+Title: Painter v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26733/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-917-26733-painter-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-29
+
+# Painter v. The Queen
+
+- Citation: 2003 TCC 917
+- Decision date: 2003-12-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3414, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Painter v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-29
+Neutral citation
+2003 TCC 917
+File numbers
+2003-384(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-384(IT)I
+BETWEEN:
+EDWARD J. PAINTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 24, 2003 at Vancouver, British Columbia
+Before: The Honourable Justice Terrence O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of December 2003.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2003TCC917
+Date:20031229
+Docket: 2003-384(IT)I
+BETWEEN:
+EDWARD J. PAINTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard at Vancouver, British Columbia on September 24, 2003.
+[2] The facts and issues are disclosed by the following paragraphs from the Reply to the Notice of Appeal:
+The Minister of National Revenue (the "Minister") initially assessed the Appellant for the 2001 taxation year by Notice dated April 15, 2002.
+In computing income for the 2001 taxation year the Appellant claimed a non-capital loss carry forward from prior years of $15,006.00
+The Minister assessed the Appellant's 2001 taxation year on April 15, 2001 and allowed $1,799.00 on account of a non-capital loss carry forward from prior years.
+5. In so assessing the Appellant, the Minister relied on the following assumptions of fact:
+a) the Appellant declared bankruptcy on March 7, 1994;
+b) the Appellant's absolute discharge from bankruptcy was November 15, 1996;
+c) the Appellant incurred a net loss of $1,799.00 in the 1998 taxation year which was available to the Appellant to carry forward as a non-capital loss;
+d) the Appellant did not incur any losses in excess of the $1,799.00 referred to in paragraph 5c herein subsequent to his discharge from bankruptcy that would be available to carry forward as a non-capital loss.
+ISSUES TO BE DECIDED
+The issue is whether the Appellant is entitled to a non-capital loss carry forward in excess of the $1,799.00 non-capital loss allowed in calculating his income for the 2001 taxation year.
+STATUTORY PROVISIONS RELIED ON
+He relies on paragraph 128(2)(g) and subsections 111(1) and 248(1) of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended (the "Act").
+GROUNDS RELIED ON AND RELIEF SOUGHT
+He respectfully submits that the Appellant's 2001 taxation year was correctly assessed to allow $1,799.00 as a non-capital loss carry forward pursuant to paragraphs 111(1)(b) and 128(2)(g) of the Act.
+[3] At the hearing of this appeal, the Appellant referred to an Order Conditionally Discharging Bankrupt and a later Absolute Order of Discharge. He was given until October 31, 2003 to produce those Orders (which was done) and both parties were given to November 28, 2003 to comment on the Orders.
+[4] The Appellant did not provide comments. The submissions of counsel for the Respondent are set forth in a letter to the Tax Court dated November 10, 2003; it reads in part as follows:
+The Appellant became bankrupt on March 7, 1994. On August 28, 1995, the Court of Queen's Bench of Manitoba granted an Order Conditionally Discharging Bankrupt (the "Conditional Order"). The Conditional Order provided that, upon the Registrar being satisfied that the Appellant had paid the bankruptcy Trustee $5,000.00 within 18 months and made an assignment of future tax refunds and GST credits, an Absolute Order of Discharge would issue. The Appellant testified that he paid the bankruptcy Trustee the $5,000.00 in July of 1996. On November 15, 1996, the Court of Queen's Bench of Manitoba issued a new Absolute Order Discharging Bankrupt (the "Absolute Order").
+The issue in this appeal is whether, in the 2001 taxation year, the Appellant may deduct non-capital losses carried forward from 1995 under paragraph 111(1)(a) of the Income Tax Act. The Respondent's position is that the Appellant may not do so because of paragraph 128(2)(g) of the Act. In simple terms, that paragraph (as it applied to bankruptcies that occurred before 1995) provided that a taxpayer who became a bankrupt may not carry forward, for deduction in a future year under section 111, losses from before the year in which an order of discharge from bankruptcy is granted.
+In this case, the Respondent maintains that the Appellant is not entitled to carry forward losses from the 1995 taxation year because that year is before the year in which his order of discharge was granted. In 1995, the Appellant had the legal status of bankrupt under the Bankruptcy and Insolvency Act, R.S.C. 1985, c. B-3, as amended. He retained that legal status until the Absolute Order was granted on November 15, 1996.
+The Respondent submits that the Appellant's order of discharge cannot be said to have been granted before 1996 for two reasons. First, the Appellant was not discharged in 1995 by the Conditional Order because he remained a bankrupt under the Bankruptcy Act at least until he fulfilled the conditions of that Order, which he did not do until July of 1996. This is supported by the cases Re Gray and Re Harrison, which both hold that after-acquired property acquired while a conditional order of discharge is in effect, but before the conditions are fulfilled, is part of a bankrupt's estate because the discharge does not have effect until the conditions are fulfilled.
+The second reason why the order discharging the Appellant from bankruptcy may not be said to have been granted before 1996 is because the Conditional Order did not operate retroactively to discharge the Appellant as of August 28, 1995 once its conditions were fulfilled. In the Re Gray and Re Harrison cases, the bankrupts were granted actual discharge orders subject to conditions, such that when the conditions were met the discharges took effect. In this case, however, the Conditional Order did not operate to discharge the Appellant once he had paid his Trustee the $5,000.00. Rather, the Conditional Order merely provided that a new, separate Absolute Order of Discharge would issue. Therefore, the Conditional Order may not even be read as retroactively discharging the Appellant as of August 28, 1995, once the condition was fulfilled. The new Absolute Order, which was issued on November 15, 1996, has effect from that date forward. It is not a retroactive order either, on its very face.
+The evidence is clear that the order discharging the Appellant from bankruptcy was granted in 1996, and therefore no losses from years before 1996 may be carried forward because of paragraph 128(2)(g) of the Act. The Appellant argued that he could have realized the losses in question in 1996 instead of 1995 had he known of the tax consequences of his discharge. However, the Respondent submits that we are not concerned with what the Appellant could have done, but what he actually did, and what the Conditional and Absolute Orders actually provide. Therefore, the appeal ought to be dismissed.
+[5] The submission of the Appellant is that he should be entitled to claim in 2001 the entire amount of the non-capital loss carry forward of $15,006. He argues that the difference between $15,006 and the amount allowed by the Minister $1,799, namely $13,207 was a shareholder loan by the Appellant to a corporation, which loan was made after the date of the Conditional Order. Therefore, he argues that the loss resulting from the loan was not a loss which was incurred prior to the Conditional Discharge and therefore paragraph 128(2)(g) of the Income Tax Act should not operate to deny him the ability to carry forward that loss.
+Analysis
+[6] The Conditional Order dated August 28, 1995 reads as follows:
+IN THE MATTER OF THE BANKRUPTCY OF
+EDWARD JAMES PAINTER
+CONDITIONAL ORDER DISCHARGING BANKRUPT
+Upon the application of Edward James Painter, who made an assignment on the 7th day of March, 1994, and upon reading the report of the Trustee as to the bankrupt's conduct and affairs, and upon hearing the Trustee's representative, and the bankrupt absent but excused, and no creditors present or opposing;
+AND WHEREAS proof has been made of the following fact under Section 173 of the Bankruptcy and Insolvency Act, namely the assets of the bankrupt are not of a value equal to fifty cents in the dollar on the amount of his unsecured liabilities;
+IT IS ORDERED THAT, upon the Registrar being satisfied that the bankrupt has made payment to the Trustee in the amount of $5,000.00 within 18 months, and
+he has made assignment of future tax refunds and GST credits for the purpose of satisfying any outstanding balance
+an Absolute Order of Discharge shall issue.
+SIGNED at the City of Winnipeg in the Province of Manitoba this 28th day of August, 1995.
+[7] The absolute Order discharging bankrupt dated November 15, 1996 reads as follows:
+IN THE MATTER OF THE BANKRUPTCY OF
+EDWARD JAMES PAINTER
+ABSOLUTE ORDER DISCHARGING BANKRUPT
+UPON the application of Edward James Painter, who made an assignment on the 7th day of March, 1994;
+AND WHEREAS the bankrupt has complied with the order of the Court dated the 16th day of August, 1995 setting terms for the discharge of the bankrupt;
+IT IS ORDERED that he be and he is hereby discharged.
+SIGNED at the City of Winnipeg in the Province of Manitoba this 15th day of November, 1996.
+[8] Subsection 111(1) and paragraph 128(2)(g) of the Income Tax Act, as applicable, read as follows:
+111(1) Losses deductible - For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such portion as the taxpayer may claim of the taxpayer's
+(a) non-capital losses - non-capital losses for the 7 taxation years immediately preceding and the 3 taxation years immediately following the year;
+...
+128(2) Where an individual has become bankrupt the following rules are applicable:
+(g) where an absolute order of discharge is granted in respect of the individual, for the purpose of section 111 any loss of the individual for a taxation year preceding the year in which the order of discharge was granted is not deductible by the individual in computing the individual's taxable income for the taxation year in which the order was granted or any subsequent year;
+[9] I find that the Respondent's counsel's written submissions are correct and make it clear that until an absolute discharge is granted the bankruptcy continues. A conditional discharge subject to conditions does not constitute an absolute discharge, which is what paragraph 128(2)(g) contemplates.
+[10] Consequently for the reasons set forth in the written submissions of counsel for the Respondent the appeal is dismissed.
+Signed at Ottawa, Canada, this 29th day of December 2003.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2003TCC917
+COURT FILE NO.:
+2003-384(IT)I
+STYLE OF CAUSE:
+Edward J. Painter v. Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 24, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+December 29, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

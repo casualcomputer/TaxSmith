@@ -1,0 +1,145 @@
+---
+title: "Shapiro v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67216/index.do"
+last_modified: "2014-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 74"
+citation2: ""
+neutral_citation: "2014 TCC 74"
+decision_date: "2014-03-07"
+language: "en"
+item_id: "67216"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5397
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:54:43.464000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b8805598100fcdf0f24a34d6f84beda048e3907fbbf08ee50eafb0352f71ac1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shapiro v. The Queen
+
+- Citation: 2014 TCC 74
+- Decision date: 2014-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5397, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shapiro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-07
+Neutral citation
+2014 TCC 74
+File numbers
+2012-3132(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3132(IT)I
+BETWEEN:
+RACHEL SHAPIRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 8, 2013, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Robert Shapiro
+Counsel for the Respondent:
+Rita Araujo
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2010 taxation year is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 7th day of March 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 74
+Date: 20140307
+Docket: 2012-3132(IT)I
+BETWEEN:
+RACHEL SHAPIRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Appellant, Rachel Shapiro, claimed in her 2010 tax return a medical expense tax credit pursuant to subsection 118.2(1) of the Income Tax Act (the “ITA”) in respect of costs incurred for the storage of cord blood. The Minister of National Revenue (the “Minister”) disallowed the medical expense tax credit on the basis that the processing and storage of the cord blood was not an eligible medical expense.
+[2] This appeal was heard under the informal procedure.
+Factual Summary
+[3] The Appellant gave birth to a child in 2009. Given the Appellant’s family’s history of cancer, the Appellant and her husband chose to investigate cord blood banking.
+[4] In general terms, cord blood banking involves collecting stem-cell-containing blood from the child’s umbilical cord and the placenta after delivery. The cord blood is then processed and stored for potential use. Cord blood can be used in stem cell therapy and in the treatment of diseases of the blood such as leukemia.
+[5] The Appellant chose to store her child’s cord blood at a hematology laboratory operated by Progenics.
+[6] Progenics is a for-profit private enterprise.
+[7] In 2009 and 2010, the Appellant’s child was healthy and the cord blood was not required in order to treat an illness.
+Analysis
+[8] The Appellant argues that cord-blood-banking expenses fall within paragraph 118.2(2)(o) of the ITA. This provision refers to a medical expense:
+118.2(2)(o) for laboratory, radiological or other diagnostic procedures or services together with necessary interpretations, for maintaining health, preventing disease or assisting in the diagnosis or treatment of any injury, illness or disability, for the patient as prescribed by a medical practitioner or dentist;
+[Emphasis added.]
+[9] Four conditions must be satisfied in order for an expense to be deductible under this provision. The expense must be incurred:
+(a) in respect of a laboratory, radiological or other diagnostic procedure or service together with necessary interpretations;
+(b) for maintaining health, preventing disease or assisting in the diagnosis or treatment of any injury, illness or disability;
+(c) for the patient; and
+(d) as prescribed by a medical practitioner.
+A Laboratory, Radiological or Other Diagnostic Procedure or Service Together with Necessary Interpretations
+[10] While the first part of the phrase is relatively clear (referring to diagnostic procedures or services), the use of the phrase “together with necessary interpretations” (the “generic term”) creates some ambiguity. Such language is present in both the English and French versions of the provision. Applying basic principles of statutory interpretation, one can construe the phrase as including medical tests and procedures of a kind similar to diagnostic procedures and services such as laboratory or radiological procedures or services.
+[11] Under this interpretation, the storage of placental or cord blood stem cells qualifies as a medical procedure or service similar in nature to laboratory or radiological tests. A medical doctor is required for the extraction of blood containing umbilical cord or placental stem cells (typically the obstetrician‑gynecologist who delivers the child). The extracted blood is appropriately packaged for delivery to the cryogenics laboratory. At the laboratory, the stem-cell-containing component is extracted from the blood. An analysis is conducted to determine the stem cell count and stem cell viability. From this description, placental or cord blood stem cell storage would appear to be similar to other laboratory procedures and services and would accordingly meet the requirement under the first condition.
+For Maintaining Health, Preventing Disease or Assisting in the Diagnosis or Treatment of any Injury, Illness or Disability
+[12] The ordinary meaning of this portion of the provision is relatively clear. The purpose of the above-discussed category of medical procedures or services must be maintaining health, preventing disease or assisting in the diagnosis or treatment of injury, illness or disability. Essentially, the person would not have to be sick, nor be required to wait until diagnosed, nor necessarily have to be genetically predisposed to an illness.
+[13] While there is a question of whether the extracted stem cells would ever be needed to treat an illness, this is a similar situation to the use of various diagnostic tests for the prevention or early detection of diseases. For example, mammograms, which are often done routinely after a certain age, qualify for the deduction under the provision in question if all of the conditions are met, irrespective of whether the person has been diagnosed with breast cancer.
+For the Patient
+[14] Counsel for the Crown argues that there is no patient in this case because neither the child nor the parents were ill at any point during the taxation year in question. The French version of the provision uses the words “du particulier, de son époux ou de son conjoint de fait ou d’une personne à charge visée à l’alinéa a)” instead of just “patient”. The French version does not support the interpretation that the person in question must be a patient and suffer from an illness during the taxation year in question. The Respondent’s argument also fails to make allowance for the fact that the provision allows deductions for the purpose of maintaining health and preventing disease. In neither of those cases is it required that the person be ill. Therefore, the fact that neither the child nor the mother was sick during the taxation year in question is irrelevant.
+As Prescribed by a Medical Practitioner
+[15] The Appellant’s obstetrician was not called at the hearing. There was no evidence emanating from the Appellant’s obstetrician to suggest that the procedure was directed or recommended by that physician.
+[16] During oral argument, counsel for the Appellant suggested that, because the Appellant’s obstetrician extracted the cord blood, it must be inferred that that physician prescribed the processing and storage of the cord blood.
+[17] I do not agree with this interpretation. In my opinion, “prescribed” means that the procedure or service must be recommended by the medical practitioner. The evidence shows that the Appellant and her spouse made a choice on their own to have their child’s cord blood processed and stored. They did so because of a family history of cancer. The evidence shows that the Appellant and her spouse researched private cord blood banks and chose Progenics to provide the cord blood processing and storage facilities. The Appellant has failed to persuade me that the obstetrician had a role in recommending the cord blood processing and storage.
+[18] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 7th day of March 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2014 TCC 74
+COURT FILE NO.: 2012-3132(IT)I
+STYLE OF CAUSE: RACHEL SHAPIRO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 8, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: March XX, 2014
+APPEARANCES:
+Counsel the Appellant:
+Robert Shapiro
+Counsel for the Respondent:
+Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert Shapiro
+Firm: Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

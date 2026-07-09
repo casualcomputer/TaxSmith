@@ -1,0 +1,136 @@
+---
+title: "Henrie c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29289/index.do"
+last_modified: "2009-07-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 356"
+citation2: ""
+neutral_citation: "2009 CCI 356"
+decision_date: "2009-07-02"
+language: "fr"
+item_id: "29289"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7090
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:46:51.088000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5d5d05e8da2a51dcf69acae5038c0b26b179d0c2041611695a0dd43f4b3f02c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Henrie c. La Reine
+
+- Citation: 2009 CCI 356
+- Decision date: 2009-07-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7090, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henrie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-02
+Référence neutre
+2009 CCI 356
+Numéro de dossier
+2008-3240(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3240(IT)I
+ENTRE :
+MAURICE HENRIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 22 juin 2009, à Ottawa (Canada)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Geneviève Léveillée
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations datées du 27 avril 2007 en vertu desquelles le ministre du Revenu national (le « ministre ») a refusé la déduction de certains frais de voyage encourus au cours des années d’imposition 2004 et 2005 sont rejetés sans frais, selon les motifs ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de juillet 2009.
+« Réal Favreau »
+Juge Favreau
+Référence : 2009 CCI 356
+Date : 20090702
+Dossier : 2008-3240(IT)I
+ENTRE :
+MAURICE HENRIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Monsieur Maurice Henrie interjette appel à l’encontre de nouvelles cotisations datées du 27 avril 2007 en vertu desquelles le ministre du Revenu national (le « ministre ») a refusé la déduction de certaines dépenses qui avaient été accordées lors des cotisations initiales pour les années d’imposition 2004 et 2005.
+[2] Les dépenses qui font l’objet du présent litige concernent les frais de voyage que l’appelant a encourus au cours des années d’imposition 2004 et 2005. Les frais de voyage réclamés s’élèvent à 15 466,32 $ pour l’année d’imposition 2004 et à 13 371,11 $ pour l’année d’imposition 2005. Dans sa déclaration de revenu pour l’année d’imposition 2004, l’appelant n’a réclamé que 25 % des frais de voyage encourus, soit la somme de 3 866,58 $, pour éviter toute contestation de la part de l’Agence de revenu du Canada (l’« ARC »). Le montant réclamé à ce titre a été accordé à l’appelant tant au niveau de la cotisation initiale qu’au niveau des avis de nouvelle cotisation mais l’appelant réclame maintenant 100 % de ses frais de voyage. Dans sa déclaration de revenu pour l’année d’imposition 2005, l’appelant a réclamé 100 % de ses frais de voyage encourus mais le ministre n’a accepté que 25 % desdits frais, soit la somme de 3 342,78 $.
+[3] Dans ses déclarations de revenu pour les années d’imposition 2004 et 2005, l’appelant a déclaré des pertes nettes de profession libérale aux montant de 11 564 $ et de 10 403 $ respectivement sur des revenus d’honoraires professionnels de 3 274 $ pour 2004 et de 13 411 $ pour 2005. L’appelant est un écrivain franco‑ontarien qui compte à son actif plusieurs oeuvres littéraires de langue française.
+[4] En 2004, l’appelant a notamment voyagé aux endroits suivants : Cuba (2 fois), Allemagne, Russie, Mont‑Tremblant, Sudbury. En 2005, l’appelant a visité l’Égypte, le Pérou, la République dominicaine, la Tunisie et Mont‑Laurier (motoneige). Les voyages à l’étranger sont souvent des tours à vocation culturelle organisés par des agences spécialisées.
+[5] À l’audience, il a été admis par l’appelant qu’au cours des voyages effectués au cours des années 2004 et 2005, il n’a participé à aucun événement littéraire et que le but recherché était d’élargir ses expériences et d’enrichir son esprit. Au cours des années en litige, l’appelant écrivait des romans, des nouvelles et des mémoires mais aucun ouvrage requérant des recherches historiques. Selon l’appelant, les expériences vécues au cours des voyages ne se retrouvent pas de manière directe ou évidente dans un livre en particulier mais se reflètent plutôt sur l’ensemble de son œuvre. Pour appuyer ses dires, l’appelant a produit une quinzaine d’extraits de ses livres à titre d’exemples des influences directes découlant desdits voyages.
+[6] Au cours desdits voyages, l’appelant était accompagné de sa conjointe mais cette dernière payait pour ses propres dépenses.
+[7] Selon l’appelant, tout écrivain doit pouvoir voyager le plus possible afin d’ajouter à ses connaissances et nourrir son imagination. Il s’agit-là d’un principe reconnu au Canada et les conseils des Arts des différentes provinces ont des programmes spéciaux de subventions dont le but est d’encourager les auteurs à voyager dans des pays étrangers.
+[8] Les articles de loi applicables en l’espèce sont les alinéas 18(1)a) et 18(1)h) et l’article 67 de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e suppl.), telle que modifiée (la « Loi »). Ces dispositions se lisent comme suit :
+Article 18 : Exception d’ordre général
+(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale -- les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+[…]
+h) Frais personnels ou de subsistance -- le montant des frais personnels ou de subsistance du contribuable -- à l'exception des frais de déplacement engagés par celui-ci dans le cadre de l'exploitation de son entreprise pendant qu'il était absent de chez lui;
+Article 67 : Restriction générale relative aux dépenses
+Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l'égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+[9] Les frais de voyage dont il est ici question ne sont pas des dépenses encourues pour générer un revenu tiré d’une entreprise ou d’un bien et constituent plutôt des frais personnel ou de subsistance. L’existence d’un lien direct entre la dépense encourue et l’activité qui consiste à gagner du revenu n’a pas été démontrée par l’appelant. Il est en effet impossible de quantifier combien chaque dollar dépensé en frais de voyage au cours d’une année d’imposition donnée génère en termes de revenu additionnel pour l’entreprise de l’appelant dans l’année en question ou dans les années futures. Dans ce cas, il n’y a pas de cause à effet entre la dépense et le revenu.
+[10] Les frais de voyage encourus par l’appelant semblent être plus orientés vers la capacité de gagner du revenu en fournissant de l’inspiration pour l’écriture de nouveaux livres plutôt qu’à générer des revenus additionnels. En ce sens, les frais de voyage seraient plutôt de la nature d’une dépense en capital dont la déduction serait prohibée par l’alinéa 18(1)b) de la Loi. L’alinéa 18(1)b) de la Loi se lit comme suit :
+b) Dépense ou perte en capital -- une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[11] L’ARC a arbitrairement accordé en déduction 25 % des frais de voyage encourus par l’appelant au cours des années 2004 et 2005. Ce pourcentage a été retenu parce qu’il correspondait au pourcentage utilisé par l’appelant lors de la production de sa déclaration de revenu pour 2004. À mon avis, ce pourcentage de 25 % est raisonnable et est même généreux dans les circonstances puisque la déduction de ces frais aurait pu être totalement refusée.
+[12] Les frais de voyage réclamés en 2004 représentaient 472 % des revenus bruts tirés de l’entreprise alors que les frais de voyage en 2005 représentaient 100 % des revenus bruts tirés de l’entreprise. Quelle que soient les raisons pour lesquelles les revenus tirés de l’entreprise de l’appelant sont si bas (marché limité du livre de langue française en Ontario), il n’en demeure pas moins que les frais de voyage réclamés sont excessifs et disproportionnés par rapport aux revenus générés. Par conséquent, la déduction réclamée dans le calcul du revenu de l’appelant au titre des frais de voyage pour les années 2004 et 2005 est prohibée par l’article 67 de la Loi.
+[13] Pour ces motifs, les appels à l’encontre des nouvelles cotisations datées du 27 avril 2007 sont rejetés sans frais.
+Signé à Ottawa, Canada, ce 2e jour de juillet 2009.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2009 CCI 356
+Nº DU DOSSIER DE LA COUR : 2008-3240(IT)I
+INTITULÉ DE LA CAUSE : MAURICE HENRIE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Canada)
+DATE DE L’AUDIENCE : le 22 juin 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 2 juillet 2009
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Geneviève Léveillée
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

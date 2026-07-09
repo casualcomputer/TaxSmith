@@ -1,0 +1,164 @@
+---
+title: "Carson v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28013/index.do"
+last_modified: "2003-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 474"
+citation2: ""
+neutral_citation: "2003 TCC 474"
+decision_date: "2003-07-16"
+language: "en"
+item_id: "28013"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1599
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:56:41.264000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c667b766ab53c95bde7bd662783a7e0b9fba493336ccee2c9aac52ed96ec6606"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carson v. M.N.R.
+
+- Citation: 2003 TCC 474
+- Decision date: 2003-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1599, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carson v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-16
+Neutral citation
+2003 TCC 474
+File numbers
+2002-3342(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3342(EI)
+BETWEEN:
+GERALDINE CARSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 21, 2003 at Edmonton, Alberta
+Before: The Honourable Michael H. Porter, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Shawn Carson
+For the Respondent:
+Nadine Nesbitt (Articling Student)
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is varied in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 16th day of July 2003.
+"Michael H. Porter"
+Porter, D.J.
+Citation:2003TCC474
+Date:20030716
+Docket: 2002-3342(EI)
+BETWEEN:
+GERALDINE CARSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Porter, D.J.
+[1] This appeal was heard at Edmonton, Alberta on the 21st of May, 2003. The Appellant was represented by her husband, Shawn Carson.
+[2] The Appellant has appealed from the decision of the Minister of National Revenue (hereinafter called the "Minister") dated August 6, 2002, that her insurable hours for employment insurance purposes while employed as a teacher with the Dene Tha' Education Authority from August 27 to December 21, 2001, had been calculated at 697 hours.
+[3] The decision was said to be issued under subsection 93(3) of the Employment Insurance Act (the "EI Act") and was based on subsection 10(3) of the Employment Insurance Regulations (the "Regulations").
+[4] The material facts reveal that the Appellant worked for the Dene Tha' Education Authority as a teacher during the time in question at Assumption, Alberta, a remote area in northern Alberta. Her husband also worked for the same Education Authority for part of the same time, returning to Edmonton sometime in November after the unfortunate and unexpected death of their adult son.
+[5] The Appellant concluded her work on the 21st of December 2001. The total insurable hours recorded on her Record of Employment issued by the Education Authority and signed by a clerk in their office by the name of Debra Ahkimnachie, was 595 hours. No negotiations took place between the Education Authority and the Appellant or her husband around the number of hours recorded. The Appellant challenged that number of hours so recorded and by letter dated April 4, 2002 the Edmonton Tax Services Office of the Canada Customs and Revenue Agency issued a ruling that the Appellant had 688.50 insurable hours for the period in question. In response to her appeal against that ruling, the Minister decided that she had 697 insurable hours.
+[6] As the Appellant had not worked for a number of years prior to starting with this Education Authority in August 2001, she, in order to qualify for the receipt of employment insurance benefits, had to meet the requirements of a new entrant or re-entrant to the labour force as set out in subsections 7(3) and (4) of the EI Act. Those subsections read as follows:
+(3) Qualification requirement for new entrants and re‑entrants – An insured person who is a new entrant or a re‑entrant to the labour force qualifies if the person
+(a) has had an interruption of earnings from employment; and
+(b) has had 910 or more hours of insurable employment in their qualifying period.
+(4) New entrants and re-entrants – An insured person is a new entrant or a re-entrant to the labour force if, in the last 52 weeks before their qualifying period, the person has had fewer than 490
+(a) hours of insurable employment;
+(b) hours for which benefits have been paid or were payable to the person, calculated on the basis of 35 hours for each week of benefits;
+(c) prescribed hours that relate to employment in the labour force; or
+(d) hours comprised of any combination of those hours.
+[7] As the Appellant had no hours of insurable employment in the prior 52 weeks, she has to be treated under the statute as a new entrant or re-entrant. In order to qualify for benefits, the Appellant would need to establish 910 or more hours of insurable employment in the period in question.
+[8] Both the Appellant and her husband gave evidence. They were indignant, to say the least, that the authorities on behalf of the Minister had not given credit for all the extra hours she felt she had put in to her work, particularly as they expected a sympathetic hearing in view of the loss of their son, which had caused her to resign her position. This, of course, is a matter set by statute and neither the Minister nor his officials have any discretion in the disbursement of public funds and can only follow the rules set by Parliament. I find no evidence of any bad faith on the part of the Minister or any of his officials.
+[9] The evidence was clear that at the school in question there were many aboriginal children with learning difficulties which placed additional demands on the principal and, in turn, the teachers. They were clearly expected to put in extra time in order to be properly prepared to instruct their classes. In addition, as this was her first year at this school and she had been out of teaching for some time, the Appellant herself had a lot of preparation time to put in. I have no doubt that she was most conscientious and diligent in going about her duties. There were many hours needed to be put into the school work over and above the actual teaching time in the classroom. The challenge has always been to clearly identify the amount of hours that time represented.
+[10] The Appellant produced her daily class work notes in which, on an almost daily basis, she has recorded the time she left the school each afternoon. Her evidence was that she was there after the children left doing additional preparation work, amongst other things. I accept her evidence in this respect, confirmed as it is by her class notes. She was clearly working at the school doing a greater amount of preparation work than the one hour per day for which the Minister has given her credit. He allowed her until 5:00 p.m. each day and it is clear that she often worked until 5:30 p.m. I calculate from her notes that there were 65 days where she worked until 5:30 p.m., i.e. an additional 32.5 hours.
+[11] The Appellant also produced a calendar for the period in question in which there is typed a number of hours worked on Saturdays and Sundays during the period in question. It was hard to ascertain from where these numbers were obtained as there are no working sheets or notes made at the time to substantiate them, such as the class notes above. I gather from her evidence that these numbers were put together by her after her return to Edmonton, sometime most likely in January 2002, when making her application for benefits. It was not a concern of hers to track those hours prior to that time. Thus, I do not find the calendar per se supports her verbal evidence. The calendars were clearly created after the fact.
+[12] Nonetheless, she gave very clear evidence that almost always she returned to the school and worked between 1:00 and 5:00 p.m. each Saturday. It was her regular routine with some exceptions that she has noted. She also said that after she returned from church on Sundays, it was again almost her regular practice to return to the school on Sunday afternoons for 3 hours again to do preparation work. I accept her evidence in respect of the work she did on these Saturday and Sunday afternoons. Her evidence had a sufficient ring of credibility about it that I believe her when she says she worked these times.
+[13] In addition to that, she says that she worked on November 12, the statutory holiday, and on October 2 and November 7 and 8 during evening meetings with parents and the Elders. Again, I accept her evidence in this respect.
+[14] Her funeral and bereavement time has already been counted in by the Minister and she had been given credit for this time.
+[15] The Appellant has also lumped into the total hours she is claiming, amounts for professional development, extras, award presentations, report card preparation, ordering supplies, balancing her register and marking. No specific evidence was given concerning these items. I have the greatest difficulty, in the absence of specific evidence, in believing that all these things were not covered in the late afternoons or weekend times for which she has already been given credit. I have to agree with the agent for the Minister that these have the appearance of being double-counted. I do allow her the evening time for the Christmas concert, 5 hours on December 19. This appears in her notes.
+[16] Lastly, the Appellant said that she did much work at home in the evenings. Again, no specifics were given and I have nothing on which to base any credit for time she says she spent working during the evenings.
+[17] Taking the above into account, and in particular reviewing her daily class notes in detail, I now calculate her insurable hours as follows:
+Hours calculated by the Minister
+8.5 hours for 82 days (8:30 to 4:00 p.m.) 697 hours
+½ hour x 65 days for work during afternoons
+after school from class notes 32.5 hours
+Remembrance Day 8.5 hours
+Elders and parent meetings October 2 evening 5 hours
+Parent-teacher interviews November 7 and 8
+5 hours x 2 10 hours
+Christmas concert December 19 evening 5 hours
+Saturdays 11 days x 4 hours 44 hours
+2 days x 5 hours 10 hours
+Sundays 12 days x 3 hours 36 hours
+Computer in service work on November 4 5 hours
+TOTAL 853 hours
+[18] In the event, I find that the Appellant worked 853 insurable hours during the period in question. That is unfortunately still less time than the number of hours required for her to qualify under the statute for employment insurance benefits. The appeal is allowed accordingly.
+Signed at Calgary, Alberta, this 16th day of July 2003.
+"Michael H. Porter"
+Porter, D.J.
+CITATION:
+2003TCC474
+COURT FILE NO.:
+2002-3342(EI)
+STYLE OF CAUSE:
+Geraldine Carson and M.N.R.
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+May 21, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Michael H. Porter,
+Deputy Judge
+DATE OF JUDGMENT:
+July 16, 2003
+APPEARANCES:
+Agent for the Appellant:
+Shawn Carson
+For the Respondent:
+Nadine Nesbitt (Articling Student)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

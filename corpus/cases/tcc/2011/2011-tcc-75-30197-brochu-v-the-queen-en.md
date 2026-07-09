@@ -1,0 +1,197 @@
+---
+title: "Brochu v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30197/index.do"
+last_modified: "2011-02-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 75"
+citation2: ""
+neutral_citation: "2011 TCC 75"
+decision_date: "2011-02-09"
+language: "en"
+item_id: "30197"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7725
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:52:32.398000+00:00"
+cases_cited_count: 2
+cases_citing_count: 22
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "63f793702f1f117266ed0cedde7bc67253d980a1fbc2b3ecd0effd32af605cd8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brochu v. The Queen
+
+- Citation: 2011 TCC 75
+- Decision date: 2011-02-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7725, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brochu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-09
+Neutral citation
+2011 TCC 75
+File numbers
+2009-3400(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3400(IT)I
+BETWEEN:
+NADYNE BROCHU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on September 9, 2010, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments dated March 26, 2009, made under the Income Tax Act for the 2001, 2004 and 2006 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of February 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 31st day of March 2011
+Margarita Gorbounova, Translator
+Citation: 2011 TCC 75
+Date: 20110210
+Docket: 2009-3400(IT)I
+BETWEEN:
+NADYNE BROCHU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau, J.
+[1] These are appeals from reassessments dated March 26, 2009, made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act) in respect of the 2001, 2004 and 2006 taxation years.
+[2] In making these reassessments, the Minister of National Revenue (the Minister) disallowed the following deductions, credits and losses claimed by the appellant:
+(a) For the 2001 taxation year,
+(i) a business loss of $3,600, that is, a total of $7,200 x 50% (appellant's percentage interest in a general partnership) resulting from a rent expense of $6,000 and telephone, heating, electricity and other public utility expenses of $1,200;
+(ii) a $1,000 reduction in employment income; and
+(iii) a spouse or common-law partner amount of $6,293.
+(b) For the 2004 taxation year, a deduction of $1,398 for child care expenses;
+(c) For the 2006 taxation year, a business loss of $20,127.32 resulting from a deduction of $2,127.32 for motor vehicle expenses and from a deduction of $18,000 for a private management fee claimed at 100%.
+[3] The Minister imposed a penalty under subsection 163(2) of the Act on the amounts of $4,600 and $20,127 for the 2001 and 2006 taxation years respectively, namely, $354.98 for 2001 and $2,529.34 for 2006.
+[4] The reassessments for the 2001 and 2004 taxation years were issued outside the normal reassessment period.
+[5] In making the reassessments dated March 26, 2009, in respect of the 2001, 2004 and 2006 taxation years, the Minister relied on the following assumptions of fact stated in paragraph 7 of the Reply to the Notice of Appeal:
+[Translation]
+(a) In her original returns for the 2001 and 2006 taxation years, the appellant reported no business activity; [admitted]
+(b) In her original return for the 2001 taxation year, the appellant correctly reported her employment income; [admitted]
+(c) In her amended return for the 2001 taxation year, the appellant tried to claim $3,600 in business losses and a $1,000 reduction in employment income; [admitted]
+(d) In her amended return for the 2001 taxation year, the appellant also tried to claim the spouse or common-law partner amount; [admitted]
+(e) In her original return for the 2004 taxation year, the appellant claimed a credit for a wholly dependent person and child care expenses; [admitted]
+(f) In an adjustment request for the 2006 taxation year, the appellant tried to claim a business loss of $20,127; [admitted]
+(g) The appellant confirmed that she had never operated a business; [admitted]
+(h) The appellant had no spouse in the 2001 taxation year; [admitted]
+(i) The Minister denied the appellant's adjustments for 2001 and 2006; [admitted]
+(j) The appellant had a common-law partner in the 2004 taxation year; [admitted]
+(k) The appellant's common-law partner had the lower net income for the 2004 taxation year; [admitted]
+[6] The Minister imposed a penalty for gross negligence set out in subsection 163(2) based on the following facts:
+(a) The appellant had signed her amended tax return as well as her adjustment request.
+(b) The appellant knowingly made false statements by claiming business losses that did not exist in 2001 and 2006.
+(c) The appellant knowingly made false statements by claiming child care expenses in 2004.
+[7] The appellant testified at the hearing. She stated that she had been a victim of an unscrupulous accountant named Guylaine Tremblay, who did the accounting for the founder of the self-employed workers association. According to the appellant, the accountant reviewed her tax returns saying that they had not been correctly prepared. The accountant prepared an amended income tax and benefit return in respect of the 2001 taxation year and a T1 adjustment request for the 2006 taxation year. The appellant acknowledged that she had signed the amended income tax and benefit return for 2001 and the T1 adjustment request for 2006, trusting the accountant's statements that everything was fine and that she had verified the credits to which every Canadian citizen was entitled. The appellant, who has a bachelor's degree in communication from Université Laval, acknowledged that a percentage of the tax refund had to be given to the accountant as a fee for reviewing the files.
+[8] The appellant acknowledged that she had been naive when she trusted the accountant's words, but she stated that she did not have bad intentions and that she had never wanted to make false statements or to defraud the system.
+Analysis and conclusion
+[9] The relevant provisions of the Act concerning the normal reassessment period are set out in paragraphs 152(3.1)(a) and (b), subparagraphs 152(4)(a)(i) and 152(4.01)(a)(i) and subsection 152(4.2). These provisions read as follows:
+152(3.1) Definition of "normal reassessment period" – For the purposes of subsections (4), (4.01), (4.2), (4.3), (5) and (9), the normal reassessment period for a taxpayer in respect of a taxation year is
+(a) if at the end of the year the taxpayer is a mutual fund trust or a corporation other than a Canadian-controlled private corporation, the period that ends four years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year; and
+(b) in any other case, the period that ends three years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year.
+. . .
+152(4) Assessment and reassessment [limitation period] – The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+. . .
+(4.01) Assessment to which paragraph 152(4)(a), (b) or (c) applies – Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a), (b) or (c) applies in respect of a taxpayer for a taxation year may be made after the taxpayer’s normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
+(a) where paragraph 152(4)(a) applies to the assessment, reassessment or additional assessment,
+(i) any misrepresentation made by the taxpayer or a person who filed the taxpayer’s return of income for the year that is attributable to neglect, carelessness or wilful default or any fraud committed by the taxpayer or that person in filing the return or supplying any information under this Act, or
+. . .
+(4.2) Reassessment with taxpayer’s consent – Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining, at any time after the end of the normal reassessment period of a taxpayer who is an individual (other than a trust) or a testamentary trust in respect of a taxation year, the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under this Part by the taxpayer for the year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is ten calendar years after the end of that taxation year,
+(a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year; and
+(b) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer’s tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer’s liability under this Part for the year.
+[10] From these provisions, it is evident that
+(a) The normal reassessment period for an individual is three years after the day of sending of a notice of an original assessment;
+(b) The Minister can make an assessment at any time if the taxpayer or person filing the return made any misrepresentation that is attributable to neglect, carelessness or wilful default;
+(c) At any time after the end of the normal reassessment period, the Minister may reassess tax, interest or penalties, if any, payable by a taxpayer in respect of a taxation year if the taxpayer makes an application to do so on or before the day that is ten calendar years after the end of that taxation year.
+[11] In the case at bar, the appellant's 2001 taxation year was outside the normal reassessment period, but, by filing an amended income tax and benefit return in respect of that year on July 10, 2007, the appellant sought to reopen the year. Under those circumstances, the Minister was justified in issuing a reassessment for the year in question.
+[12] Given the appellant's admissions in regard to the 2001 taxation year to the effect that she had not operated a business, that her employment income had been correctly reported in her original tax return and that she had had no spouse, the Minister was justified in disallowing the deduction claimed as a self-employed worker, the business loss of $3,600, the $1,000 reduction in employment income and the amount of $6,293 claimed as a spouse or common-law partner amount.
+[13] In making a reassessment for the 2001 taxation year, the Minister imposed a penalty set out in subsection 163(2) of the Act, which provides for a penalty for every person who, under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of a false statement or omission in a return in respect of a taxation year. The part of subsection 163(2) preceding the conditions for determining the penalty reads as follows:
+163(2) False statements or omissions – Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+[14] The burden of establishing the facts justifying the assessment of a penalty is on the Minister, not the taxpayer. To that end, subsection 163(3) stipulates the following:
+163(3) Burden of proof in respect of penalties
+Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[15] At paragraph 10 of Venne v. Canada, [1984] F.C.J. No. 314 (F.C.T.D.), Justice Strayer defines the concept of "gross negligence" as follows:
+. . . "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+. . .
+[16] In Villeneuve v. Canada, 2004 FCA 20, the Federal Court of Appeal specified that "gross negligence" could include wilful blindness. Thus, knowing about the specialist's negligence is not required. In this regard, Justice Létourneau stated the following at paragraph 6 of that decision:
+With respect, I think the judge failed to consider the concept of gross negligence that may result from the wrongdoer's willful blindness. Even a wrongful intent, which often takes the form of knowledge of one or more of the ingredients of the alleged act, may be established through proof of willful blindness. In such cases the wrongdoer, while he may not have actual knowledge of the alleged ingredient, will be deemed to have that knowledge.
+[17] In cross-examination, the appellant explained that she had prepared her original return for 2001 herself and that she had correctly reported her employment income. After claiming that she was a [Translation] "word girl" and not a [Translation] "numbers girl", she said that, when she had signed her tax return, she had not tried to get information from another accountant or another person with accounting knowledge in regard to the content of her return because she had trusted Ms. Tremblay.
+[18] As for the business losses, Ms. Brochu indicated that she did not understand the words "business income" and had simply trusted Ms. Tremblay.
+[19] The appellant also claimed that she was not indifferent to whether she complied with the Act, but that she had been naive and did not understand the errors. The Minister's counsel claimed that the appellant had committed gross negligence in carrying out her obligations under the Act because she had been wilfully blind.
+[20] Since Villeneuve, the issue is no longer confined to determining whether a taxpayer was aware of the specialist's negligence and whether he or she was indifferent, but also includes cases where the taxpayer blindly trusts the person preparing the return. In this case, even though the appellant had no intentional and deliberate knowledge of Ms. Tremblay's errors, she was still wilfully blind.
+[21] Examining the factors stated in Venne, supra, I have no doubt that the appellant should have paid more attention to the returns filed by Ms. Tremblay. Moreover, the errors were evident because she claimed credits to which she was not entitled. The following excerpt from paragraph 15 of Justice Bédard's decision in Ghislain Laplante v. The Queen, 2008 TCC 335 (CanLII), also applies to this case:
+In any event, the Court finds that the Appellant's negligence (in not looking at his income tax returns at all prior to signing them) was serious enough to justify the use of the somewhat pejorative epithet "gross". The Appellant's attitude was cavalier enough in this case to be tantamount to total indifference as to whether the law was complied with or not. Did the Appellant not admit that, had he looked at his income tax returns prior to signing them, he would have been bound to notice the many false statements they contained, statements allegedly made by Mr. Cloutier? The Appellant cannot avoid liability in this case by pointing the finger at his accountant. By attempting to shield himself in this way from any liability for his income tax returns, the Appellant is recklessly abandoning his responsibilities, duties and obligations under the Act. In this case, the Appellant had an obligation under the Act to at least quickly look at his income tax returns before signing them, especially since he himself admitted that, had he done so, he would have seen the false statements made by his accountant.
+[22] The appellant testified that she had quickly leafed through the return but that she did not understand the words "business income" and "credit". Considering her education level and the fact that she had prepared her original return for the 2001 taxation year herself, it is difficult to believe that the appellant did not understand those words. If it is true that she did not understand them, she cannot use that as an excuse to avoid her liability. She should have tried to understand by asking Ms. Tremblay questions or by getting information from others in order to ensure that her income and expenses were properly accounted. For some reason, she did not think it necessary to get informed, and it is that carelessness which constitutes gross negligence, in my opinion. The penalty is thus justified under the circumstances.
+[23] The reassessment dated March 26, 2009, in respect of the 2004 taxation year was also made outside of the normal reassessment period since the original assessment was dated April 7, 2005. In that reassessment, the Minister disallowed a $1,398 deduction for child care expenses because the appellant had a common-law partner at that time and that partner had the lower net income of the two. Since the appellant admitted those facts, the Minister was justified in making a reassessment outside of the normal reassessment period. The appellant made a misrepresentation through neglect, carelessness or wilful default when she filed her tax return. For the 2004 taxation year, the Minister did not impose a penalty for gross negligence.
+[24] The reassessment dated March 26, 2009, in respect of the 2006 taxation year followed up on an adjustment request filed by the appellant but was not outside the normal reassessment period. The Minister disallowed the deductions claimed and the business loss and imposed the penalty for gross negligence.
+[25] The above reasoning concerning the assessment of a penalty for gross negligence in respect of the 2001 taxation year also applies to the 2006 taxation year in that the Minister was justified in assessing the penalty set out in subsection 163(2) of the Act.
+[26] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 9th day of February 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 31st day of March 2011
+Margarita Gorbounova, Translator
+CITATION: 2011 TCC 75
+COURT FILE NO.: 2009-3400(IT)I
+STYLE OF CAUSE: Nadyne Brochu v. Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 9, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: February 9, 2011
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

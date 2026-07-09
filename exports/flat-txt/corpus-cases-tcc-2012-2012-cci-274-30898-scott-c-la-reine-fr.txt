@@ -1,0 +1,120 @@
+Title: Scott c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30898/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-274-30898-scott-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-07-25
+
+# Scott c. La Reine
+
+- Citation: 2012 CCI 274
+- Decision date: 2012-07-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7457, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-25
+Référence neutre
+2012 CCI 274
+Numéro de dossier
+2011-3631(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-3631(GST)I
+ENTRE :
+JOSHUA SCOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 juillet 2012 à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentante de l’appelant :
+Mme Maureen Bell
+Avocate de l’intimée :
+Me Cherylyn Dickson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté par l’appelant contre la décision lui refusant le remboursement qu’il avait demandé au titre de la Loi sur la taxe d’accise concernant la taxe sur les produits et services que l’appelant avait payée à Ken Shaw Lexus Toyota relativement à l’achat d’une automobile le 21 mai 2010 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 13e jour de septembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 274
+Date : 20120725
+Dossier : 2011-3631(GST)I
+ENTRE :
+JOSHUA SCOTT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La Cour est appelée à trancher la question de savoir si l’appelant a droit au remboursement d’une quelconque partie de la taxe sur les produits et services (la « TPS ») qu’il a payée sur l’achat d’une automobile en 2010.
+[2] Le 21 mai 2010, l’appelant a acheté une Toyota Corolla d’occasion de Ken Shaw Lexus Toyota. Avant l’achat du véhicule, l’appelant a décelé un problème relatif au climatiseur. L’appelant a reçu toutes les assurances que le véhicule n’avait rien de défectueux.
+[3] Après que l’appelant a pris livraison du véhicule, il a remarqué que le problème persistait. Il s’est rendu chez le concessionnaire pour faire inspecter le véhicule, et on a découvert une fuite dans le climatiseur. Le concessionnaire a dit à l’appelant qu’il pouvait échanger la voiture contre un véhicule comparable, s’il pouvait en trouver un. Le concessionnaire a tenté de trouver un véhicule semblable à celui que l’appelant avait acheté, mais ses recherches ont été vaines. Étant donné qu’on n’avait pas réussi à trouver un véhicule similaire, l’appelant et le concessionnaire ont conclu une entente au mois d’août, en vertu de laquelle le concessionnaire achetait le véhicule de l’appelant.
+[4] Lorsque le véhicule a été vendu à l’appelant le 21 mai 2010, le prix d’achat (taxes non comprises) était de 11 061,94 $. L’appelant a payé la taxe de vente provinciale (la « TVP ») de 884,96 $ et la TPS de 553,10 $. Comme le véhicule avait roulé environ 4 000 km durant la période où il était en possession de l’appelant, le concessionnaire a payé 9 700 $ à l’appelant pour le véhicule le 3 août 2010. Aucune TPS n’a été facturée ni perçue sur la vente du véhicule par l’appelant à Ken Shaw Lexus Toyota le 3 août 2010.
+[5] L’appelant a présenté une demande au gouvernement provincial pour un remboursement de la TVP qu’il avait payée sur le prix d’achat du véhicule le 21 mai 2010 et à l’Agence du revenu du Canada (l’ « ARC ») pour un remboursement de la TPS qu’il avait payée sur le prix d’achat du véhicule le 21 mai 2010. Alors que l’appelant a reçu un remboursement d’une partie de la TVP qu’il avait payée sur le prix d’achat du véhicule, aucun remboursement de la TPS ne lui a été accordé.
+[6] Deux dispositions de la Loi sur la taxe d’accise (la « LTA ») ont été citées au moment des plaidoiries, à savoir les articles 261 et 232. L’article 261 de la LTA est ainsi libellé :
+261(1) Dans le cas où une personne paie un montant au titre de la taxe, de la taxe nette, des pénalités, des intérêts ou d’une autre obligation selon la présente partie alors qu’elle n’avait pas à le payer ou à le verser, ou paie un tel montant qui est pris en compte à ce titre, le ministre lui rembourse le montant, indépendamment du fait qu’il ait été payé par erreur ou autrement.
+[7] Il y avait deux actes de vente en l’espèce. Le premier acte de vente montre l’achat, le 21 mai 2010, d’une Toyota Corolla d’occasion par l’appelant de Ken Shaw Lexus Toyota. Le second document constitue un contrat de vente entre commerçants daté du 3 août 2010 qui fait état d’une vente du véhicule par l’appelant à Ken Shaw Lexus Toyota.
+[8] En l’espèce, il n’y a rien à quoi l’article 261 de la LTA pouvait s’appliquer relativement à la taxe payée par l’appelant à Ken Shaw Lexus Toyota le 21 mai 2010. Manifestement, la vente du véhicule à l’appelant à cette date-là constituait une fourniture taxable acquise par l’appelant, et la taxe était payable selon la LTA à l’égard de cette opération[1].
+[9] L’autre disposition qui a fait l’objet de discussions est l’article 232 de la LTA. Voici la teneur de cette disposition :
+232(1) La personne qui exige ou perçoit d’une autre personne un montant au titre de la taxe prévue à la section II qui excède celui qu’elle pouvait percevoir peut, dans les deux ans suivant le jour où le montant a été ainsi exigé ou perçu :
+a) si l’excédent est exigé mais non perçu, redresser la taxe exigée;
+b) si l’excédent est perçu, le rembourser à l’autre personne ou le porter à son crédit.
+[…]
+(2) La personne qui exige ou perçoit d’une autre personne la taxe prévue à la section II, calculée sur tout ou partie de la contrepartie d’une fourniture, laquelle contrepartie est par la suite réduite en tout ou en partie au cours d’une de ses périodes de déclaration pour une raison quelconque peut, au cours de cette période ou dans les quatre ans suivant la fin de celle-ci :
+a) si la taxe est exigée mais non perçue, la redresser en soustrayant la partie de la taxe qui a été calculée sur le montant de la réduction;
+b) si la taxe est perçue, rembourser à l’autre personne la partie de la taxe qui a été calculée sur le montant de la réduction, ou la porter à son crédit.
+[10] Dans la décision Elguindy c. La Reine, [2006] CCI 107, [2006] G.S.T.C. 18, le juge Bowie a décrit l’article 232 de la LTA de la manière suivante :
+8 L’article 232* de Loi prévoit que les vendeurs doivent rembourser les clients de la taxe qu’ils ont payée si le contrat est résilié par suite d’un accord mutuel ou rajusté en vue de réduire le prix de vente. Cependant, cet article ne s’applique pas à la présente affaire, étant donné que le contrat n’a été ni résilié ni modifié.
+(*indique une note de bas de page qui n’a pas été incluse)
+[11] En l’espèce, le contrat initial conclu entre Ken Shaw Lexus Toyota et l’appelant n’a ni été résilié ni fait l’objet d’un rajustement du prix d’achat du véhicule au titre de cette opération. Les parties ont considéré les opérations comme deux ventes séparées – la première réalisée le 21 mai 2010 et la deuxième le 3 août 2010. L’article 232 de la LTA ne s’applique donc pas en l’espèce. En tout état de cause, même si cette disposition devait s’appliquer, la taxe serait remboursée à l’appelant par Ken Shaw Lexus Toyota et non par l’intimée.
+[12] Il n’y a rien sur quoi l’appelant peut se fonder pour demander que l’intimée lui rembourse une quelconque partie de la TPS qu’il a payée à Ken Shaw Lexus Toyota à l’achat du véhicule le 21 mai 2010.
+[13] Par conséquent, l’appel interjeté par l’appelant contre la décision lui refusant le remboursement qu’il avait demandé au titre de la LTA concernant la TPS que l’appelant avait payée à Ken Shaw Lexus Toyota relativement à l’achat d’une automobile le 21 mai 2010 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 13e jour d’août 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 274
+NO DU DOSSIER DE LA COUR : 2011-3631(GST)I
+INTITULÉ : JOSHUA SCOTT
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 20 juillet 2012
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 25 juillet 2012
+COMPARUTIONS :
+Représentante de l’appelant :
+Mme Maureen Bell
+Avocate de l’intimée :
+Me Cherylyn Dickson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le paragraphe 165(1) de la Loi sur la taxe d’accise et les définitions des expressions « fourniture taxable » et « activité commerciale » au paragraphe 123(1) de la Loi sur la taxe d’accise.

@@ -1,0 +1,207 @@
+---
+title: "Sokolowska c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28139/index.do"
+last_modified: "2003-10-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 730"
+citation2: ""
+neutral_citation: "2003 CCI 730"
+decision_date: "2003-10-09"
+language: "fr"
+item_id: "28139"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1658
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:41:00.729000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "96f45ebd9c15740e9023598142f1dd892a0b62b2005a06bc68451fac3abd2fc5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sokolowska c. La Reine
+
+- Citation: 2003 CCI 730
+- Decision date: 2003-10-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1658, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sokolowska c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-09
+Référence neutre
+2003 CCI 730
+Numéro de dossier
+2000-1798(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI730
+Date: 20031009
+Dossier: 2000-1798(IT)I
+ENTRE :
+ELWIRA SOKOLOWSKA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+(Ces motifs du jugement remplacent les motifs du jugement
+signés le 22 janvier 2002)
+Le juge Lamarre
+[1] Les présents appels interjetés selon la procédure informelle sont à l’encontre des cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 1995, 1996, 1997, 1998 et 1999.
+[2] Dans sa déclaration d’impôt sur le revenu pour 1995, l’appelante a déclaré une perte au titre d’un placement d’entreprise de 268 897 $ à l’égard de placements dans huit hypothèques détenues « en fiducie » pour son propre compte et pour celui de son père, M. Henry Sokolowski, par Kiminco Acceptance Co. Ltd. (« Kiminco »), un membre du groupe de compagnies Glen Coulter. Les huit placements hypothécaires ont été faits en 1987 et 1988 et sont mentionnés comme suit au paragraphe 13 de la réponse à l’avis d’appel :
+Compte/Hypothèque
+Numéro
+Dernier emprunteur
+Montant brut du placement
+6658
+Mid-Canada Construction Ltd.
+300 000 $
+7492
+Janre Estate
+Development Corp.
+120 000 $
+7425
+Armour
+19 000 $
+7495
+Re/Max Gateway Realty
+23 000 $
+7586
+Nesrallah
+53 000 $
+8338
+G. Capello
+31 000 $
+6464
+Dumont
+16 000 $
+8111
+Danilov, Frechette
+20 000 $
+[3] Les pertes déclarées sont imputées à la faillite de Kiminco le 17 juillet 1989.
+[4] Par avis de nouvelle cotisation en date du 6 mai 1999, la déduction pour pertes au titre d’un placement d’entreprise découlant des placements de l’appelante dans Kiminco a été réduite par le ministre pour passer des 268 897 $ déclarés par l’appelante à 13 072 $ pour l’année imposition 1995. Cette réduction a été faite pour les motifs énoncés ci-après.
+[5] En ce qui concerne le placement hypothécaire dans Mid-Canada Construction Ltd., le cabinet Peat Marwick Thorne Inc. (« Peat Marwick”), le syndic de faillite nommé à l’égard de Kiminco, a, en 1989, recouvré 16 143 $ des 300 000 $ investis à l’origine, de sorte que la perte a été chiffrée à 283 856 $. La même année, soit 1989, l’appelante a déclaré cette perte et le ministre a admis les 2/3 de 283 856 $ (= 189 237 $) au titre d’une perte en capital. À l’époque, l’appelante a été autorisée à déduire 50 p. 100 de cette perte en capital comme perte déductible au titre d’un placement d’entreprise (« PDTPE »). La part de l’appelante de 50 p. 100 de cette perte en capital s’élevait à 94 619 $. L’autre 50 p. 100 a été attribué au père de l’appelante en tenant pour acquis que M. Henry Sokolowski et Mme Elwira Sokolowska avaient conjointement effectué le placement hypothécaire en question par le biais de Kiminco, conformément à la documentation fournie à l’époque par l’appelante.
+[6] En ce qui concerne le placement hypothécaire dans Janre Estate Development Corp., Peat Marwick, toujours en sa qualité de syndic avait, aussi en 1989, recouvré 6 457 $ des 120 000 $ investis à l’origine, de sorte que la perte a été chiffrée à 113 542 $. Le ministre a admis les 2/3 des 113 542 $ (= 75 695 $) au titre d’une perte en capital en 1989. La même année, l’appelante a été autorisée à déduire 50 p. 100 de cette perte (37 847 $) comme PDTPE. L’autre 50 p. 100 a été attribué à M. Henry Sokolowski, conformément à la documentation fournie à l’époque par l’appelante et son père.
+[7] Étant donné que la déduction des pertes imputables à ces deux placements hypothécaires (Mid-Canada Construction et Janre Estate Development Corp.) avait déjà été accordée à l’appelante et à M. Henry Sokolowski en 1989, le ministre n’a rien accordé à l’égard de ces pertes en 1995.
+[8] La déduction d’aucune autre perte n’a été accordée en 1989 relativement aux six autres placements hypothécaires parce qu’à l’époque, l’appelante n’a fourni aucun renseignement à leur égard. Toutefois, selon la documentation supplémentaire fournie par l’appelante, on lui a accordé la déduction d’une perte au titre d’un placement d’entreprise s’élevant à 13 072 $ pour 1995 à l’égard des six autres placements hypothécaires, de la façon suivante (voir le paragraphe 33 de la réponse à l’avis d’appel) :
+Hypothèque
+Placement
+Recouvrement de Peat
+Perte nette
+Déductible par Henry Sokolowski
+Déductible par l’appelante
+7425
+Armour
+19 000 $
+16 429 $
+2 571 $
+1 285 $
+1 285 $
+7495
+Re/Max
+23 000 $
+21 636 $
+1 364 $
+682 $
+682 $
+7586
+Nesrallah
+53 000 $
+46 137 $
+6 863 $
+3 431 $
+3 431 $
+8338
+Capello
+31 000 $
+25 768 $
+5 232 $
+2 616 $
+2 616 $
+6464
+Dumont
+16 000 $
+14 253 $
+1 747 $
+0
+1 747 $
+8111
+Danilov/
+Frechette
+20 000 $
+16 689 $
+3 311 $
+0
+3 311 $
+Totaux
+21 087 $
+8 014 $
+13 072 $
+[9] Comme on le constate dans le tableau ci-haut et dans [TRADUCTION] l’« Analyse des pertes déductibles au titre d’un placement d’entreprise » rédigée par Tiffany Golding, agente des appels auprès de l’Agence des douanes et du revenu du Canada (l’« Agence ») (Pièce R-1, onglet 1), 100 p. 100 des pertes imputables respectivement aux placements auprès de « 6464 Dumont » et de « 8111 Danilov, Frechette » a été attribué à l’appelante pour 1995 parce que ces placements ont été faits au nom de l’appelante uniquement (Pièce R-1, onglets 14 et 15). Les pertes imputables aux autres placements ont été attribuées dans une proportion de 50 p. 100 à l’appelante et de 50 p. 100 à M. Henry Sokolowski pour 1995 parce que les documents relatifs aux placements hypothécaires montrent qu’ils ont été faits aux noms d’Elwira Sokolowska et de Henry Sokolowski (voir la pièce R-1, onglets 10 à 13 inclusivement). La perte en capital totale accordée à l’appelante en qualité de PDTPE pour 1995 s’élevait à 13 072 $.
+[10] La moitié des gains en capital imposables découlant des recouvrements effectués par le syndic, Peat Marwick, à l’égard du placement hypothécaire auprès de Mid‑Canada Construction Ltd. et celui auprès de Janre Estate Development Corp. en 1995 a aussi été attribuée à l’appelante. Cette attribution à l’appelante et à son père s’est faite dans la même proportion que pour de semblables gains en capital imposables pour les années 1990, 1991 et 1992 (comme on le voit au paragraphe 22 de la réponse à l’avis d’appel).
+[11] En effet, dans un jugement du juge Bonner de notre cour le 16 avril 1997, (Sokolowska c. Canada, [1997] A.C.I. no 321 (Q.L.)) concernant les années d’imposition 1990, 1991 et 1992 de l’appelante, il a été statué que l’intérêt de cette dernière dans les deux placements hypothécaires visés au paragraphe précédent était de 50 p. 100, l’autre 50 p. 100 de la propriété bénéficiaire de ces placements hypothécaires appartenant à M. Henry Sokolowski.
+[12] En plus de la cotisation pour l’année d’imposition 1995 de l’appelante, le ministre a établi des avis de nouvelle cotisation en date du 6 mai 1999, qui rejetaient les pertes autres que les pertes en capital qui avaient été reportées prospectivement à partir d’années antérieures et qui avaient été appliquées aux montants de 11 215 $ à l’année d’imposition 1996, de 12 701 $ à l’année d’imposition 1997 et de 24 586 $ à l’année d’imposition 1998.
+[13] Par lettre en date du 19 février 2001, l’avocat de l’intimée a avisé l’appelante et la Cour que le ministre consentirait à un jugement qui accueillerait le report prospectif sur les années d’imposition 1996, 1997 et 1998 de ces mêmes montants de PDTPE, à savoir : 11 215 $ pour l’année d’imposition 1996, 12 701 $ pour l’année d’imposition 1997 et 24 586 $ pour l’année d’imposition 1998.
+[14] La question litigieuse relativement à l’année d’imposition 1999 porte aussi sur le montant des PDTPE applicable à l’année en question. Le ministre est d’avis que le solde non déduit des PDTPE, s’il en est, dont peut se prévaloir l’appelante au titre de ses pertes imputables à ses placements auprès de Kiminco, retournait à ses « pertes en capital nettes » antérieures à son année d’imposition 1999.
+[15] Si je comprends bien la mère de l’appelante, Mme Maria Sokolowska, qui a été la seule à témoigner à l’audience, l’unique question litigieuse tient à ce qu’elle s’oppose à la part de 50 p. 100 des PDTPE attribuée à sa fille, l’appelante, à l’égard du placement hypothécaire auprès de Janre Estate Development Corp. (voir la pièce R-1, onglet 7 et la pièce A-1). Bien qu’elle ait fait valoir devant le juge Bonner, qui a jugé les appels interjetés par l’appelante à l’égard de ses années d’imposition 1990, 1991 et 1992, que M. Henry Sokolowski était l’unique propriétaire bénéficiaire de ce placement hypothécaire, elle avance maintenant que l’appelante en était l’unique propriétaire bénéficiaire et qu’elle devrait se voir accorder 100 p. 100 de la perte attribuable à l'égard du placement hypothécaire auprès de Janre Estate Development Corp. pour les années d’imposition 1995 et suivantes.
+[16] Cette nouvelle prétention est toutefois contradictoire avec le document en date du 30 juin 1992 que l’appelante à transmis à l’Agence (pièce R-1, onglet 3), qui fait état d’un placement conjoint aux noms de Mme Elwira Sokolowska et de M. Henry Sokolowski à l'égard du placement hypothécaire auprès de Janre Estate Development Corp. De plus, le document rédigé par le syndic, Peat Marwick, fait état lui aussi d’un placement hypothécaire conjoint effectué par l’appelante et son père auprès de Janre Estate Development Corp. (pièce R-1, onglet 6). L’appelante n’a attiré mon attention sur aucun document qui la désignerait comme étant l’unique propriétaire bénéficiaire de ce placement hypothécaire.
+[17] De plus, je partage l’argument de l’avocat de l’intimée qu’il y a préclusion fondée sur la chose jugée en ce qui concerne la question des parts respectives de la propriété bénéficiaire attribuables à M. Henry Sokolowski et Mme Elwira Sokolowska relativement aux deux principaux placements hypothécaires faits en 1989 (Mid-Canada Construction Ltd. et Janre Estate Development Corp.). Le juge Bonner de notre cour a déjà tranché cette question. Il en a alors traité afin de déterminer les parts respectives des frais financiers et des gains en capital relatifs aux mêmes placements effectués en 1989 à attribuer aux années d’imposition 1990, 1991 et 1992. Le juge Bonner a décidé que l’appelante possédait 50 p. 100 de la propriété bénéficiaire de ces placements hypothécaires. L’appelante veut maintenant reporter en 1995 (et les années subséquentes) 100 p. 100 de la perte subie sur les placements hypothécaires à l’égard desquels le juge Bonner a déterminé qu'elle ne possédait que 50 p. 100 de la propriété bénéficiaire. À mon avis, cette question est chose jugée entre les parties (voir Wierbicki c. Canada, [2000] A.C.F. no 413 (2000 DTC 6243)) et l’appelante n’est pas en mesure de déclarer plus de 50 p. 100 de la perte reportée relativement au placement hypothécaire auprès de Janre Estate Development Corp. pour les années d’imposition 1995 et subséquentes. En outre, le reste non affecté des PDTPE qui revient à l’appelante en raison des pertes qu’elle a subies en 1989 relativement à ses placements auprès de Kiminco (qui s’élevait à 74 774 $ le 31 décembre 1996 conformément à la pièce R-1, onglet 2) est retourné aux « pertes en capital nettes » après le 31 décembre 1996. Par conséquent, l’appelante ne peut déduire aucune perte au titre d’un placement d’entreprise subie à l’égard de ses investissements auprès de Kiminco après 1996. À compter de cette date, ces pertes ont fait partie des pertes en capital nettes et elles sont donc devenues déductibles uniquement à l’égard des gains en capital (voir les alinéas 111(1)a) et b) et le paragraphe 111(8) de la Loi cités en partie comme suit) :
+ARTICLE 111 : Pertes déductibles.
+111. (1) Pour le calcul du revenu imposable d’un contribuable pour une année d’imposition, peuvent être déduites les sommes appropriées suivantes :
+4111(1)a)3
+a) Pertes autres que des pertes en capital - ses pertes autres que des pertes en capital subies au cours des 7 années d’imposition précédentes et des 3 années d’imposition qui suivent l’année;
+4111(1)b)3
+b) Pertes en capital nettes - les pertes en capital nettes que le contribuable subit pour les années d’imposition qui précèdent et pour les trois années d’imposition qui suivent l’année;
+4111(8)3
+(8) Définitions. Les définitions qui suivent s’appliquent au présent article.
+« perte autre qu’une perte en capital » S’agissant de la perte autre qu’une perte en capital subie par un contribuable pour une année d’imposition, le montant calculé selon la formule suivante :
+(A + B) – (D + D.1 + D.2)
+où
+A représente le montant calculé selon la formule suivante :
+E – F
+où
+E représente le total des sommes représentant chacune la perte que le contribuable a subie pour l’année relativement à une charge, à un emploi, à une entreprise ou à un bien, sa perte déductible au titre d’un placement d’entreprise pour l’année, une somme déduite en application de l’alinéa (1)b) ou de l’article 110.6 dans le calcul de son revenu imposable pour l’année ou une somme déductible en application de l’un des alinéas 110(1)d) à d.3), f), g), j) et k), de l’article 112 et des paragraphes 113(1) et 138(6) dans le calcul de son revenu imposable pour l’année,
+F la fraction calculée selon l’alinéa 3c) à l’égard du contribuable pour l’année;
+[...]
+« perte en capital nette » S’agissant de la perte en capital nette subie par un contribuable pour une année d’imposition, le résultat du calcul suivant :
+A – B + C – D
+où
+A représente le montant éventuel calculé selon le sous-alinéa 3b)(ii) à l’égard du contribuable pour l’année;
+B le moins élevé du total calculé selon le sous-alinéa 3b)(i) à l’égard du contribuable pour l’année ou de l’élément A déterminé à l’égard du contribuable pour l’année;
+C le moins élevé des montants suivants :
+a) le montant des pertes déductibles au titre d’un placement d’entreprise du contribuable pour sa septième année d’imposition précédente,
+b) l’excédent éventuel de la perte autre qu’une perte en capital du contribuable pour sa septième année d’imposition précédente sur le total des montants à l’égard de cette perte que le contribuable a déduits dans le calcul de son revenu imposable ou demandés en vertu des alinéas 186(1)c) ou d) pour l’année ou pour une année d’imposition antérieure,
+[...]
+[18] Finalement, je comprends d’après la plaidoirie de l’intimée et les paragraphes 47 et 49 de la réponse à l’avis d’appel que l’intimée reconnaît que l’appelante dispose d’un nombre suffisant de PDTPE non expirées pour lui permettre de déduire les montants de 11 215 $ pour 1996, de 12 701 $ pour 1997 et de 24 586 $ pour 1998. Je comprends que l’appelante ne dispose d’aucun PDTPE qu’elle pourrait imputer à son année d’imposition 1999. Bien que l’on ait donné aucune explication à l’audience relativement à ces montants de PDTPE supplémentaires, je comprends que le fait d’en permettre la déduction n’a pas eu lieu au détriment de l’appelante mais à son avantage. Je crois que l’appelante ne le conteste pas.
+[19] Conséquemment, les appels relatifs aux années d’imposition 1995 et 1999 sont rejetés et les appels relatifs aux années d’imposition 1996, 1997 et 1998 sont admis et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que l’appelante peut reporter des pertes déductibles au titre d’un placement d’entreprise subies au cours d’années précédentes s’élevant à 11 215 $, à 12 701 $ et à 24 586 $ pour les années d’imposition 1996, 1997 et 1998 respectivement.
+Signé à Ottawa, Canada, ce 9e jour d’octobre 2003.
+Lamarre, J.
+Traduction certifiée conforme
+ce 20e jour de juin 2005.
+Sophie Debbané, réviseure

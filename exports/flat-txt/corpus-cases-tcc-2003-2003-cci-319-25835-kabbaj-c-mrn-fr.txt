@@ -1,0 +1,173 @@
+Title: Kabbaj c. MRN
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25835/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-319-25835-kabbaj-c-mrn-fr.md
+Document type: case_law
+Last modified: 2003-05-14
+
+# Kabbaj c. MRN
+
+- Citation: 2003 CCI 319
+- Decision date: 2003-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3906, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kabbaj c. MRN
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-14
+Référence neutre
+2003 CCI 319
+Numéro de dossier
+2002-4207(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4207(EI)
+ENTRE :
+KARIMA KABBAJ,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MÉNAGE À PERFECTION INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 31 mars 2003 à Montréal (Québec)
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Marie-Aimée Cantin
+Pour l'intervenante :
+Personne n'a comparu
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de mai 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Référence : 2003CCI319
+Date : 20030514
+Dossier : 2002-4207(EI)
+ENTRE :
+KARIMA KABBAJ,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MÉNAGE À PERFECTION INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Montréal (Québec), le 31 mars 2003.
+[2] L'appelante interjette appel de la décision du ministre du Revenu national (le « Ministre » ) en date du 10 septembre 2002, selon laquelle son emploi auprès du payeur, Ménage à Perfection Inc., au cours de la période en litige, soit du 3 décembre au 22 décembre 2001 était assurable car il existait un contrat de louage de services entre elle et le payeur et que pour cette période la rémunération assurable totalisait 1 500,00 $ et les heures assurables totalisaient 120 et, de plus, pour la période du 24 décembre au 17 mai 2002, son emploi était exclu des emplois assurables pour le motif qu'il existait un lien de dépendance entre elle et le payeur.
+[3] Dans sa Réponse à l'avis d'appel, le Ministre soutient que :
+- l'emploi de l'appelante était assurable au cours de la période du 3 décembre au 22 décembre 2001 car il existait un contrat de louage de services entre elle et le payeur et que pour cette période la rémunération assurable totalisait 1 500,00 $ et les heures assurables totalisaient 120.
+De plus le Ministre a décidé que :
+- l'appelante n'occupait pas un emploi assurable durant la semaine du 23 au 28 décembre 2001 puisqu'elle n'a rendu aucun service et n'a pas été rémunérée;
+- l'emploi exercé par l'appelante n'était pas assurable au cours de la période du 29 décembre 2001 au 17 mai 2002, puisqu'il existait un lien de dépendance entre elle et le payeur, conformément aux dispositions de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » ) et des articles 251 et 252 de la Loi de l'impôt sur le revenu.
+[4] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[5] Les paragraphes 5(2) et (3) de la Loi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[...]
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[6] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Article 251 : Lien de dépendance.
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de lien « personnes liées » .
+Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+[...]
+[7] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[8] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel, lesquelles ont été admises, niées ou ignorées par l'appelante :
+a) le payeur a été constitué en société le 17 juillet 2001; (ignoré)
+b) le payeur exploitait une entreprise d'entretien ménager résidentiel et commercial; (admis)
+c) l'actionnaire unique du payeur était Georges Dibé; (admis)
+d) le 29 décembre 2001, l'appelante mariait Georges Dibé; (admis)
+e) l'appelante avait été engagée comme directrice des opérations; (admis)
+f) les tâches de l'appelante consistaient à répondre au téléphone, à fixer les rendez-vous, à préparer l'horaire des employés, à faire la facturation et à s'occuper des plaintes; (nié)
+g) l'appelante avait un horaire de 40 heures par semaine avec le payeur; (admis)
+h) le salaire de l'appelante avait été fixé à 26 000 $ par année par le payeur; (admis)
+i) l'appelante a reçu une rémunération pour 3 semaines en décembre 2001; (nié)
+j) pour la période du 3 décembre au 22 décembre 2001, l'appelante a travaillé pour 120 heures et a reçu une rémunération de 1 500 $; (nié)
+k) le reste de la période en litige, l'appelante était inscrite au journal des salaires du payeur avec une rémunération de 1 000 $ aux deux semaines; (nié)
+l) l'entreprise n'a eu aucune activité durant la semaine du 23 au 29 décembre 2001; (nié)
+m) après son mariage le 29 décembre 2001, la rémunération de l'appelante a cessé d'être versée; (nié)
+n) le journal des salaires du payeur ne reflète pas la réalité; (nié)
+o) le 19 juin 2002, dans une déclaration signée au DRHC, l'appelante déclarait « je n'ai pas été payée pour toutes les semaines travaillées parce que la compagnie n'avait pas d'argent pour me payer » ; (nié)
+p) le 19 juin 2002, dans une déclaration signée au DRHC, l'appelante déclarait : « depuis que j'ai cessé de travailler le 17-5-2002, j'ai continué d'aller à la compagnie à raison de 4 à 5 heures par jour, 5 jours semaine, pour y faire de la recherche d'emploi sur Internet, mais aussi pour travailler, je réponds au téléphone » ; (nié)
+q) le 22 mai 2002, le payeur remettait un relevé d'emploi à l'appelante pour la période commençant le 3 décembre 2001 et se terminant le 17 mai 2002 et qui indiquait 960 heures assurables et une rémunération assurable totale de 12 480,00 $; (admis)
+r) suite à sa mise à pied, l'appelante a continué de rendre des services au payeur sans rémunération; (nié)
+s) le relevé d'emploi de l'appelante n'est pas conforme à la réalité quant à la rémunération et quant à la période travaillée par l'appelante; (nié)
+t) la période prétendument travaillée de l'appelante ne correspond pas avec la période réellement travaillée. (nié)
+[9] Le payeur, constitué en société le 17 juillet 2001, exploitait une entreprise d'entretien ménager résidentiel et commercial. L'actionnaire unique du payeur, Georges Dibé, a épousé l'appelante le 29 décembre 2001.
+[10] L'appelante a été engagée par le payeur à titre de directrice des opérations. Ses tâches consistaient à répondre au téléphone, à fixer les rendez-vous, à préparer l'horaire de travail de 3-4 employés, à faire la facturation et à s'occuper des plaintes. De plus, l'appelante faisait la traduction de documents de l'anglais au français et s'occupait de la gestion générale du bureau.
+[11] L'appelante travaillait 40 heures par semaine et son salaire avait été fixé par le payeur à 26 000 $ par année. Pour la période du 3 décembre au 22 décembre 2001, l'appelante a travaillé 120 heures et a reçu une rémunération de 1 500 $. Pour le reste de la période en litige, l'appelante a affirmé qu'elle devait recevoir 757,48 $ aux deux semaines et qu'elle avait reçu sa dernière paie le 12 janvier 2002. Elle a ajouté qu'elle avait travaillé pour le payeur jusqu'au 17 mai 2002 mais qu'elle n'a pas été rémunérée jusqu'à cette date.
+[12] L'appelante a été la seule à témoigner au soutien de son appel. Lors de son témoignage l'appelante a déclaré que l'entreprise du payeur avait fonctionné normalement le 23 décembre 2001 mais non les 24 et 25 décembre et qu'elle avait épousé l'actionnaire unique du payeur le 29 décembre de la même année.
+[13] Dans une déclaration statutaire en date du 19 juin 2002 (pièce I-1), l'appelante a déclaré, entre autres :
+...Je dois préciser que je n'ai pas été payée pour toutes les semaines travaillées parce que la compagnie n'avait pas d'argent pour me payer, mais cet argent m'est dû, je n'ai reçu environ que 6 à 8 semaines de salaire... J'ai cessé de travailler parce que la compagnie ne pouvait plus assumer mon salaire, pas assez de clients pour l'instant. Je n'ai pas été remplacée, mon mari a une boîte vocale et il est au lieu d'affaires au 27 Grande Côte, Boisbriand. Depuis que j'ai cessé de travailler le 17-5-2002 j'ai continué d'aller à la compagnie à raison de 4 à 5 heures par jour, 5 jours semaine, pour y faire de la recherche d'emploi sur Internet, mais aussi pour travailler, je réponds au téléphone...Je ne suis pas payée par mon mari ces jours-là.
+et à l'audition de cet appel, l'appelante a fait la même affirmation que celle citée ci-haut. Elle a affirmé qu'elle n'avait pas rendu de services au payeur après sa mise à pied le 17 mai 2002.
+[14] Lors de son témoignage à l'audition de cet appel, Clermont Poulin, agent des appels auprès de l'Agence des douanes et du revenu du Canada, a déclaré qu'il avait eu une conversation téléphonique avec l'appelante le 19 août 2002 et une avec le payeur le 20 août 2002 et qu'il avait préparé par la suite son rapport sur un appel déposé sous la cote I-2.
+[15] Clermont Poulin a déclaré que l'appelante était vague dans ses réponses. Quant au mode de paiement de sa rémunération, l'appelante lui a déclaré qu'elle était payée en argent comptant, par chèque ou par dépôt direct. Elle a également déclaré avoir reçu « seulement trois semaines de salaire » . Selon l'appelante, les autres employés du payeur étaient payés à toutes les deux semaines.
+[16] Selon le rapport de Clermont Poulin, Georges Dibé lui a déclaré que l'appelante était à son emploi durant la période en litige, que son salaire avait été fixé à 26 000 $ par année et que ses heures n'étaient pas comptabilisées.
+[17] Selon le journal des ventes déposé sous la cote I-4, le chiffres d'affaires du payeur pour les mois de février, mars et avril 2002 était de 3 025,35 $, 3 189,48 $ et 2 741,35 $ respectivement. Pour ce qui est du chiffre d'affaires pour les mois de juin et juillet 2002, soit après la mise à pied de l'appelante, Georges Dibé a déclaré à l'agent des appels qu'il était de 4 000 $ et 6 000 $ respectivement.
+[18] Dans l'arrêt Ferme Émile Richard et Fils Inc. c. M.R.N., [1994] A.C.F. no 1859, la Cour d'appel fédérale a indiqué que lorsqu'il s'agit d'appliquer le sous-alinéa 3(2)c)(ii) de la Loi sur l'assurance-chômage, maintenant l'alinéa 5(3)b) de la Loi sur l'assurance-emploi, la Cour doit se demander si la décision du Ministre « résulte d'un exercice approprié de son pouvoir discrétionnaire » . La Cour doit exiger dans un premier temps que l'appelant(e) fasse la preuve d'un comportement capricieux ou arbitraire du Ministre.
+[19] La preuve a démontré qu'il existait un lien de dépendance entre l'appelante et l'actionnaire unique du payeur. Les heures de travail de l'appelante n'étaient ni contrôlées, ni comptabilisées et cette dernière n'était pas rémunérée régulièrement pour son travail alors que les autres employés du payeur recevaient leur salaire à toutes les deux semaines. Une personne sans lien de dépendance n'aurait pas travaillé pour le payeur sans être rémunérée. Le relevé d'emploi ne reflète pas la réalité.
+[20] Le chiffre d'affaires du payeur a augmenté, presque doublé, après la mise à pied de l'appelante, ce qui implique que le payeur était beaucoup plus occupé que durant les mois où l'appelante était à son emploi. Cependant, l'appelante n'a pas été remplacée et Georges Dibé s'occupait des tâches jadis exécutées par celle-ci.
+[21] Le Ministre a bien exercé son pouvoir discrétionnaire et n'a pas agi de façon capricieuse ou arbitraire.
+[22] Par conséquent, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce 14e jour de mai 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Jurisprudence consultée
+Canada (Procureur général) c. Jencan Ltd. (C.A.), [1998] 1 C.F. 187
+RÉFÉRENCE :
+2003CCI319
+No DU DOSSIER DE LA COUR :
+2002-4207(EI)
+INTITULÉ DE LA CAUSE :
+Karima Kabbaj et M.R.N. et Ménage à Perfection Inc.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 31 mars 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+le 14 mai 2003
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Marie-Aimée Cantin
+Pour l'intervenante :
+Personne n'a comparu
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenante :

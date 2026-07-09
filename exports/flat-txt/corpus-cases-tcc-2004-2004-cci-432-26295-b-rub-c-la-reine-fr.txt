@@ -1,0 +1,66 @@
+Title: Bérubé c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26295/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-432-26295-b-rub-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-07-30
+
+# Bérubé c. La Reine
+
+- Citation: 2004 CCI 432
+- Decision date: 2004-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3307, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bérubé c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-30
+Référence neutre
+2004 CCI 432
+Numéro de dossier
+2000-1812(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI432
+Date : 20040730
+Dossier : 2000-1812(IT)G
+ENTRE :
+RAYMOND BÉRUBÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement sur le banc le 7 mai 2004 à Montréal (Québec) et révisés à Ottawa, Canada)
+Le juge Paris,
+[1] L'appelant interjette appel à l'encontre des nouvelles cotisations pour ses années d'imposition 1993 à 1997 par lesquelles le ministre de Revenu national (le « ministre » ) a inclus comme revenus non déclarés les montants de 29 504,58 $ en 1993, 61 366,22 $ en 1994, 15 596,55 $ en 1995, 6814,89 $ en 1996 et 32 373,82 $ en 1997.
+[2] En établissant ces nouvelles cotisations à l'égard de l'appelant, le ministre a calculé le revenu de l'appelant en se fondant sur une vérification relative à l'avoir net. Le ministre a de plus imposé des pénalités en vertu du paragraphe 163.2 de la Loi de l'impôt sur le revenu sur les montants non déclarés. Pour l'année 1993, il s'agit aussi d'une cotisation émise en vertu du paragraphe 152.4 de la Loi. La preuve révèle que durant toute la période pertinente, l'appelant exerçait l'emploi et exploitait une entreprise de vente d'artisanat. Il vendait les articles dans les marchés aux puces et à partir de 1994, il en a aussi vendu à certains magasins. Son dossier a été référé au ministre suite à une vérification par Revenu Québec, des pertes d'entreprise réclamées par l'appelant. Selon la vérificatrice fédérale, madame Lise Ouellette, après son enquête initiale, elle a décidé de procéder à une vérification de l'avoir net de l'appelant parce que beaucoup d'opérations de son commerce se faisaient en argent comptant et elle considérait que les livres de l'appelant n'étaient pas complets. Les résultats de sa vérification se trouvent en annexe à la réponse à l'avis d'appel signifié par l'intimée. Ces annexes font partie des présents motifs.
+[3] L'appelant indique son désaccord avec huit postes calculés par madame Ouellette, soit l'argent en main au début de chaque période, le montant de placement en actions en 1996 et 1997, les prêts personnels, les remboursements d'impôt provincial et dons et héritage en 1996, les dépenses personnelles pour habillement et transport, les assurances et les pensions reçues de ses enfants.
+[4] En ce qui concerne les remboursements d'impôt provincial, le procureur de l'intimée reconnaît que l'appelant a reçu des montants supérieurs à ceux que la vérificatrice a accordés et que les revenus non déclarés devraient être réduits de 2 038,85 $ pour l'année 1993 et de 1 635,31 $ pour l'année 1997.
+[5] L'appelant dit avoir reçu 10 000 $ de son frère André Bérubé en remboursement de prêts personnels consentis en 1987 et 1991. Il a reçu l'argent en deux versements, en 1994 et 1995. À cet effet, il a produit des copies de reconnaissance de dette signées par André Bérubé et des reçus pour les remboursements.
+[6] Pour les dons et héritage, l'appelant réclame un montant additionnel de 4 174 $ reçu de l'héritage de son fils, Martin, en 1996. Cette somme comprend deux éléments. Premièrement, il dit avoir vendu la motocyclette de son fils pour 2 000 $ comptant. Deuxièmement, il soumet que la valeur des actions qui lui ont été transférées a été supérieure de 2 174 $ à ce que la vérificatrice a permis.
+[7] Il soumet également que les actions reçues de la succession de son fils ne devraient pas être ajoutées à ses actifs en 1996 et 1997. L'appelant conteste les montants de dépenses personnelles inscrits par la vérificatrice pour les vêtements et les transports. Selon lui, il n'achetait pas de vêtements et presque la totalité de ses déplacements était faite pour les fins de son commerce et était payée par sa compagnie. De plus, il habitait près de son travail. Les montants utilisés par la vérificatrice étaient des montants arbitraires parce qu'elle n'acceptait pas que l'appelant n'avait rien dépensé pour ces articles.
+[8] Pour les assurances, l'appelant demande une réduction des montants inscrits pour refléter le fait qu'une partie des dépenses a été engagée pour les polices d'assurance des voitures de ses enfants et que ses enfants les lui ont remboursées. Certaines de ces polices ont été produites en preuve.
+[9] Ensuite, l'appelant prétend avoir reçu les pensions de ses enfants totalisant 3 900 $ en 1993 et 1994, 7 800 $ en 1995, 7 000 $ en 1996 et 7 800 $ en 1997. Lorsque ses enfants sont devenus majeurs, il leur demandait un loyer de 75 $ par semaine pour rester chez lui. Ces montants ont été refusés par la vérificatrice parce qu'elle croyait que les revenus des enfants n'étaient pas suffisants pour leur permettre de payer cette pension à leur père.
+[10] Finalement, l'appelant a témoigné qu'il avait 55 000 $ en argent comptant au début de 1992 et 1993 et que ce montant a diminué à 25 000 $ au début de 1994 et 1995, à 15 000 $ en 1996 et à 0 $ en 1997. Pour sa part, la vérificatrice a fixé le montant d'argent en main au début de chaque période à 1 000 $. L'appelant a expliqué que la nature de son commerce l'obligeait à garder beaucoup d'argent comptant comme fonds de roulement avec lequel il payait ses fournisseurs. Quand il a commencé à vendre au magasin en 1994, son besoin d'argent comptant dans ses affaires a diminué et à ce moment il a ouvert une marge de crédit et a placé l'argent comptant. En contre-interrogatoire, l'appelant a dit qu'il gardait cet argent à la maison et ne se servait pas d'un coffre-fort. Aussi, il a admis avoir envoyé une lettre à l'agent des Oppositions disant qu'il avait beaucoup d'argent en main pour le garder à l'abri des réclamations de son épouse dont il était alors séparé.
+Conclusion
+[11] J'accepte que l'appelant a reçu des remboursements de prêts de son frère pendant les années en question et qu'ils ne sont pas des revenus imposables. Le témoignage de l'appelant est corroboré par les documents et je note que la vérificatrice a indiqué que l'appelant, au moment de la vérification, lui avait parlé de ces prêts. J'accepte aussi que les montants de l'héritage provenant de la succession de Martin Bérubé devaient être majorés de 2 000 $ pour tenir compte de fonds reçus lors de la vente d'une motocyclette.
+[12] Le témoignage de l'appelant à ce sujet n'a pas été mis en doute lors de son contre-interrogatoire. Les actions reçues de la succession devraient être inscrites à la valeur qu'elles avaient au moment du transfert, soit 18 128,42 $ comme le demande l'appelant. Pourtant, il est aussi nécessaire de refléter ce changement au niveau des actifs de l'appelant pour les années 1996 et 1997 parce que les actions de la valeur indiquée lui ont été transférées. Pour les fins du calcul de l'avoir net, ces deux changements se neutralisent.
+[13] En ce qui a trait aux dépenses personnelles, les montants pour les transports et habillement seront réduits de cinquante pour cent (50 %). J'accepte les arguments de l'appelant, mais je ne suis pas convaincu qu'il n'a rien dépensé pendant cinq ans pour les transports et les vêtements et les montants de 450 $ et 400 $ par année respectivement me semblent raisonnables.
+[14] Pour les assurances, la preuve documentaire me convainc que l'appelant a payé les montants pour ses enfants et j'accepte que ses enfants lui ont remboursé les montants indiqués, 1 025,08 $ en 1993, 783,99 $ en 1994, 1 284,82 $ en 1995, 147,25 $ en 1996 et 1 267,12 $ en 1997.
+[15] Je suis aussi convaincu que l'appelant a reçu les montants de pension qu'il réclame. Il me semble raisonnable qu'il demande aux enfants de payer la somme modique de 75 $ par semaine pour rester chez lui. Et encore, la preuve démontre que l'appelant a parlé de ces paiements à la vérificatrice tôt dans la vérification.
+[16] Finalement, l'appelant ne s'est pas déchargé du fardeau de prouver d'autres erreurs dans l'état de l'avoir net. Il est bien établi en droit que c'est à la partie appelante qu'incombe la charge de prouver l'inexactitude des faits sur lesquels est basée une cotisation fiscale. Le témoignage de l'appelant quant au montant d'argent en main n'a pas été corroboré, l'appelant n'a pas pu fournir à la Cour quelque pièce justificative que ce soit et n'a présenté aucun témoin pour appuyer ses dires. Il n'a pas fait témoigner ses fournisseurs au sujet de possibles transactions importantes effectuées en argent comptant pendant les périodes en question, ni personne d'autre pour corroborer le fait qu'il gardait de si importantes sommes d'argent liquide. Lorsqu'une partie omet de faire témoigner une personne qui pourrait fournir des preuves pertinentes, la Cour peut en tirer une conclusion négative. En plus, à mon avis, l'allégation que l'appelant gardait des montants en argent comptant allant jusqu'à 55 000 $, est invraisemblable, même s'il a dit qu'il payait ses fournisseurs en argent comptant, rien ne l'aurait empêché de déposer les recettes de ses ventes à la banque et de retirer son argent au fur et à mesure, afin de faire des paiements, ce qu'il semble avoir fait après 1994.
+[17] Je dois aussi considérer la question des pénalités qui ont été imposées en vertu du paragraphe 163.2 de la Loi de l'impôt. C'est à la partie intimée qu'incombe la charge de prouver qu'une pénalité doit être imposée. Dans l'arrêt Venne c. Canada (ministre du Revenu national - M.R.N.) [1984] A.C.F. no 314, le juge Strayer explique le degré de négligence nécessaire pour l'imposition de pénalité. La faute lourde doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui correspond à une action délibérée, une indifférence au respect de la Loi. Dans ce cas, même après les réductions accordées, les revenus qui n'ont pas été déclarés pour les années 1993, 1994 et 1997 sont élevés en comparaison avec ce qui a été déclaré. L'appelant était au courant de ses obligations de déclarer tous ses revenus et il s'y connaît en affaires. En prenant en considération ces faits et le fait que l'appelant a omis de déclarer tous ses revenus d'une façon répétée, même dit qu'il y avait le degré requis de négligence pour justifier l'imposition des pénalités pour les trois années mentionnées. Je conclus aussi que le ministre était justifié d'émettre la nouvelle cotisation pour l'année d'imposition 1993, en vertu du paragraphe 152.4 de la Loi de l'impôt.
+[18] En résumé, les revenus de l'appelant doivent être réduits de 7 813,93 $ en 1993, 10 533,99 $ en 1994, 14 934,82 $ en 1995, 10 997,25 $ en 1996 et 11 552,43 $ en 1997. Ceci correspond aux montants accordés pour les transports et l'habillement, les assurances, le montant reçu de l'héritage de son fils, les impôts provinciaux et les remboursements de prêts et les pensions. L'appel est donc accueilli en partie, sans frais.
+Signé à Ottawa (Canada), ce 30e jour de juillet 2004.
+« B. Paris »
+Juge Paris

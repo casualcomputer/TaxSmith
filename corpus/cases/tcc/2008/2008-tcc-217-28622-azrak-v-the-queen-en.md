@@ -1,0 +1,700 @@
+---
+title: "Azrak v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28622/index.do"
+last_modified: "2008-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 217"
+citation2: ""
+neutral_citation: "2008 TCC 217"
+decision_date: "2008-04-28"
+language: "en"
+item_id: "28622"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1154
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:17:23.557000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f22582deb22fc5924b3ac78a3932ba0f2e381e4919045d2653f1b807a6442f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Azrak v. The Queen
+
+- Citation: 2008 TCC 217
+- Decision date: 2008-04-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1154, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Azrak v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-28
+Neutral citation
+2008 TCC 217
+File numbers
+2007-3116(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3116(IT)I
+BETWEEN:
+JOSEPH AZRAK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 14, 2008, at Montreal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeal of the reassessments established under the Income Tax Act for the 2003 and 2004 taxation years is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of April 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 4th day of June 2008.
+Elizabeth Tan, Translator
+Citation: 2008TCC217
+Date: 20080428
+Docket: 2007-3116(IT)I
+BETWEEN:
+JOSEPH AZRAK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The issue in question is relatively simple: whether the Appellant could deduct his losses from the disposition of publicly traded shares as business losses in calculating his income. Were they business losses or capital losses?
+[2] When he produced his tax returns, the Appellant deducted business losses of $23,840 for the 2003 taxation year and $29,671 for the 2004 taxation year.
+[3] By notices of reassessment dated December 18, 2006, the Minister of National Revenue (the "Minister") cancelled the business losses deducted for the 2003 and 2004 taxation years and recorded a capital loss of $23, 840 in the Appellant's file for the 2003 taxation year, and $23,417 for the 2004 taxation year.
+[4] On or around February 2, 2007, the Appellant filed a Notice of Objection to the Ministers against the December 18, 2006, reassessments for the 2003 and 2004 taxation years.
+[5] On June 20, 2007, the Minister confirmed the December 18, 2006, reassessments for the 2003 and 2004 taxation years.
+[6] On July 3, 2007, the Appellant appealed to the Court to have the December 18, 2006, reassessments vacated, for the 2003 and 2004 taxation years.
+[7] To establish and confirm the reassessments for the 2003 and 2004 taxation years, the Minister relied on the same hypotheses, namely:
+[translation]
+(a) During the years in question, the Appellant had a job with the company Hani Autos Inc; (admitted)
+(b) His employment income was $52,850 for the 2003 taxation year and $79,875 for the 2004 taxation year; (admitted)
+(c) The Appellant did not have professional training in the securities field; (denied)
+(d) During the 2003 taxation year, the Appellant performed three security transactions, which resulted in a loss of $23,839; (denied)
+(e) During the 2004 taxation year, the Appellant performed 15 security transactions, which resulted in a loss of $23,417; (admitted)
+(f) During the 2000 taxation year, the Appellant made a profit during the disposition of securities and this profit was assessed by the Respondent as a capital gain. (admitted)
+[8] The purchase and sale of shares the Appellant carried out and their price, dates of purchase and sale for 2000 are described at Schedule "A", attached to these Reasons.
+[9] The purchase and sale of shares the Appellant carried out and their price, dates of purchase and sale for 2001 are described at Schedule "B", attached to these Reasons.
+[10] The purchase and sale of shares the Appellant carried out and their price, dates of purchase and sale for 2002 are described at Schedule "C", attached to these Reasons.
+[11] The purchase and sale of shares the Appellant carried out and their price, dates of purchase and sale for 2003 are described at Schedule "D", attached to these Reasons.
+[12] The purchase and sale of shares the Appellant carried out and their price, dates of purchase and sale for 2004 are described at Schedule "E", attached to these Reasons.
+[13] The evidence shows that the Appellant purchased publicly traded shares for $188,071; $408,584; $188,346; $44,671 and $117,016 in 2000, 2001, 2002, 2003 and 2004, respectively. The evidence also shows that the Appellant sold publicly traded shares for $200,623; $414,143; $159,761; $19,522 and $93,040 in 2000, 2001, 2002, 2003 and 2004, respectively.
+[14] The Appellant testified that:
+(a) he worked as an employee in 2003 and 2004, around 40 hours a week;
+(b) during the years in question, he and members of his family spent around 80 hours a week doing market studies on securities and researching potential purchases;
+(c) during the 2000 and 2001 taxation years, he made a profit of $12,589 and $8,393, respectively, through the disposition of publicly traded shares; he treated these profits as capital gains in his tax returns for those years;
+(d) during the 2002 taxation year he had a loss of $28,586 through the disposition of publicly traded shares; he treated these losses as capital losses in his tax return that year;
+(e) in 1999, he actively operated a jewellery purchase and sale company and a stock market investment company. On April 26, 1999, as a natural person operating an individual business, the Appellant produced a certificate of registration (Exhibit A-3) indicating he operated these two businesses. The Appellant explained that in 2000 he stopped actively operating his stock market investment business because the publicly traded shares were "at their peak" and that was why he submitted a deregistration certificate for his investment business (Exhibit A-6) to the Inspecteur général des institutions financières on June 4, 2000. The Appellant added that he started to actively operate his investment business again in December 2003 and that was why he again submitted a registration certificate in April 2004 (Exhibit A-11) stating that he had again begun operating his investment business.
+[15] I would point out that the Appellant's overall testimony did not mention his knowledge and training in the securities field, his investment strategy and research tools.
+Appellant's position
+[16] The Appellant claimed that profits and losses in 2000, 2001 and 2002 from the disposition of publicly traded shares during those years were treated as capital gains and losses because he did not operate the investment business during those years as shown by the registration statement he produced. Moreover, he claims that the losses in 2003 and 2004 from the provision of these publicly traded shares in those same years were considered as business gains and losses because he operated an investment business during those years as shown by the registration statement he produced.
+Analysis and conclusion
+[17] In general, the result of an operation is a capital gain (or a loss) insomuch as there is investment-related accounting, meaning when there is a disposition of property acquired for financial return (to draw income from property or a business) or even for personal purposes. On the contrary, the result of an operation is considered a business income (or loss) when the operation is related to a business concept, speculation or a commercial business or project.
+[18] With no definitions in the legislation, the courts have had to develop several criteria in an effort to characterize a gain or loss resulting from specific work. However, no criterion taken in isolation is necessarily sufficient or determinative and that, in each case, all the circumstances of the operation must be examined. The criteria or factors most often used include the following:
+(i) the taxpayer's true intention as shown by the taxpayer's conduct and the circumstances in which the transactions occurred;
+(ii) the time between the purchase and the sale;
+(iii) the frequency of transactions (history of extensive buying and selling of securities);
+(iv) the nature of the securities (whether are they speculative);
+(v) whether the transactions are of the same kind or carried out in the same way as those of a dealer in securities. In this sense, does the taxpayer spend a substantial part of his or her time studying the securities markets and investigating potential purchases? Are security purchases financed primarily on margin or by some other form of debt?
+[19] The Appellant must first understand that producing a registration statement that he operates an investment business does not ensure that the profits and losses from the disposition of securities in a given year are, for the purposes of the Act, business profits or losses during that year. The registration statement is an element that enters into our analysis; however, I feel that this element is not a determinative one. The Appellant's producing statements of registration indicating he operated an investment business in 1999, 2003 and 2004 and that he stopped operating this business in 2000, 2001 and 2002 is even less determinative in this case since there were more operations and their monetary value was higher in the years the statement of registration indicates he stopped operating his investment business.
+[20] The Appellant purchased publicly traded shares (as thousands of Canadians do) to make a profit. However, nothing in the evidence submitted indicates that the Appellant's transactions fit within the concept of business, trade, speculation or a commercial matter or project. In this case, the securities transactions were not speculative. There were few operations (no purchases in 2003, 14 in 2004, one sale in 2003, and 12 sales in 2004). The shares sold in 2003 had been held for around two years. The fact that the period of detention for shares was generally shorter in 2004 is not determinative as to the nature of the Appellant's losses. The Appellant did not submit any evidence that his operations were similar to those of a dealer and that they were carried out in the same way.
+[21] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of April 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 4th day of June 2008.
+Elizabeth Tan, Translator
+SCHEDULE "A"
+I. 2000 REPORT
+DATE OF PURCHASE
+TITLE
+SHARES
+PURCHASE
+DATE OF SALE
+SALE
+PROFIT
+LOSS
+30 NOV 00
+BBD,B
+500
+11485.50
+08 DEC 00
+11970.50
+485.00
+18 SEP 00
+INVT
+1450
+2210.27
+19 SEP 00
+3168.07
+957.80 CA
+02 NOV 00
+INVT
+4000
+3331.60
+08 NOV 00
+3777.45
+445.85 US
+04 OCT 00
+LU
+450
+13754.35
+11 OCT 00
+14932.65
+1178.30 US
+30 OCT 00
+LU
+700
+14160.60
+03 NOV 00
+15840.11
+1679.51 US
+08 NOV 00
+WCOM
+800
+14329
+08 NOV 00
+14470.16
+140.81 US
+14 NOV 00
+WCOM
+1000
+16279.35
+17 NOV 00
+16970.08
+690.73 US
+24 NOV 00
+WCOM
+1250
+19172.85
+6 DEC 00
+20273.97
+1101.12 US
+8 DEC 00
+WCOM
+1250
+18319.10
+11 DEC 00
+19336.50
+1017.40 US
+12 DEC 00
+WCOM
+1250
+18475.35
+14 DEC 00
+19727.92 US
+1251.77 US
+TOTAL
+TOTAL
+CANADIAN
+US
+EXCHANGE RATE 1.4852 x
+1442.80 CA
+7505.49 US
+TOTAL
+IN CANADIAN
+12589.95
+Symbols
+Companies
+Activities
+BBD,B
+Bombardier
+Aeronautics
+INVT
+InvestAmerica
+Telecommunications network
+LU
+Lucent Technologies
+Telecommunications
+WCOM
+Worldcom
+Telephony and telecommunications
+SCHEDULE "B"
+I. 2001 REPORT
+DATE OF PURCHASE
+TITLE
+SHARES
+PURCHASE
+DATE OF SALE
+SALE
+PROFIT
+LOSS
+20 DEC 00
+BBD,B
+520
+11703.50
+02 JAN 01
+12216.50
+513.00
+05 JAN 01
+BBD,B
+550
+12129.5
+22 JAN 01
+12730.5
+601
+8 MAR 01
+BBD,B
+650
+12932
+08 MAR 01
+13039.50
+103.5
+27 SEP 01
+BBD,B
+1000
+13479
+27 SEP 01
+13541
+62
+23 OCT 01
+BBD,B
+1000
+11289
+23 OCT 01
+1139
+102
+02 NOV 01
+BBD,B
+2000
+21060
+8 NOV 01
+21060
+502
+10 JUL 01
+ERICY
+1000
+4879.35 US
+2 AUG 01
+5070.48 US
+191.13 US
+07 SEP 01
+ERICY
+1000
+4229 US
+22 OCT 01
+4420.85 US
+191.85 US
+22 JAN 01
+QQQ
+750
+48780.6 US
+23 JAN 01
+4982.78 US
+402.18 US
+06 JUL 01
+QQQ
+250
+11434.35 US
+10 JUL 01
+11220.27 US
+<214.10> US
+05 JAN 01
+WCOM
+1450
+21431.35 US
+27 DEC 00
+21431.35 US
+1452.16 US
+16 JAN 01
+WCOM
+1000
+21216.85 US
+17 JAN 01
+21344.93 US
+128.08 US
+25 MAY 01
+WCOM
+750
+13304.35 US
+25 MAY 01
+13775.18 US
+470.83 US
+5 JUN 01
+WCOM
+750
+13266.85 US
+6 JUN 01
+13312.70 US
+45.85 US
+27 JUL 01
+WCOM
+1000
+13529.35 US
+31 JUL 01
+13970.18 US
+440.78 US
+14 AUG 01
+WCOM
+1000
+13379
+16 AUG 01
+13620.5 US
+241.54 US
+30 AUG 01
+WCOM
+1000
+13289 US
+30 AUG 01
+13370.65 US
+80.55 US
+31 AUG 01
+WCOM
+1000
+13120 US
+10 SEP 01
+13220.55 US
+91.55 US
+29 OCT 01
+WCOM
+1000
+12074 US
+29 OCT 01
+12120.59 US
+46.59 US
+21 DEC 01
+NT
+1000
+11925.1
+31 DEC 01
+12031
+106 US
+14 JUN 01
+AVA
+37
+DIVIDENT
+14 JUN 01
+529.33
+529.33 US
+TOTAL
+US RATE 1.5484 x 4204.32
+CA
+CA
+1883.50
+6509.96
+8393.46
+Symbols
+Companies
+Activities
+BBD,B
+Bombardier
+Aeronautics
+ERICY
+Ericsson Telephone
+Telephones
+QQQ
+Nasdaq 100 shares
+Top 100 technology cos.
+WCOM
+Worldcom
+Telephony and telecommunications
+NT
+Nortel Networks
+Telecommunications
+AVA
+Avaya
+Telecom equipment
+SCHEDULE "C"
+I. 2002 REPORT
+DATE OF PURCHASE
+TITLE
+SHARES
+PURCHASE
+DATE OF SALE
+SALE
+PROFIT
+LOSS
+14 JAN 02
+BMO
+1000
+36229
+14 JAN 02
+36301
+72
+16 JAN 02
+BMO
+1000
+36069
+27 JAN 02
+36371
+302
+12 FEB 02
+QQQ
+700
+24839 US
+13 FEB 02
+24897.6 US
+58.62 US
+04 JAN 02
+WCOM
+1000
+14109 US
+7 JAN 02
+14250.78 US
+141.78 US
+14 JAN 02
+WCOM
+2000
+26298 US
+7 FEB 02
+16239 US
+<10058> US
+12 APR 02
+WCOM
+1500
+8670 US
+5 JUL 02
+85.98 US
+<8584.02> US
+TOTAL
+US RATE 1.5704 x
+<18642> US
+<29275> CA
+688.70 CA
+LOSS IN 2002
+<28586> CA
+SCHEDULE "D"
+I. 2003 REPORT
+DATE OF PURCHASE
+TITLE
+SHARES
+PURCHASE
+DATE OF SALE
+SALE
+PROFIT
+LOSS
+7 MAR 00
+SIKG
+1500
+1154.50
+BANKRUPT
+—
+<1154.5>
+29 SEP 00
+ITMS
+3500
+3039.50
+BANKRUPT
+—
+<3039.5>
+24 JAN 01
+QQQ
+400
+26985.59 US
+11 DEC 03
+13015.34 US
+<19646>
+Rate 1.5095
+TOTAL
+<23840.52>
+Symbols
+Companies
+Activities
+SIKG
+Sigmen Gold
+Gold mining
+ITMS
+Micro-Tempus
+Software equipment
+QQQ
+Nasdaq 100 shares
+Top 100 technology cos.
+SCHEDULE "E"
+I. 2004 REPORT
+DATE OF PURCHASE
+TITLE
+SHARES
+PURCHASE
+DATE OF SALE
+SALE
+PROFIT
+LOSS
+12 JAN 04
+NT
+1000
+7379
+13 JAN 04
+7821
+442
+13 JAN 04
+NT
+1000
+7819
+14 JAN 04
+7921
+102
+21 JAN 04
+NT
+1000
+8949
+21 JAN 04
+8971
+22
+26 JAN 04
+NT
+1000
+8479
+26 JAN 04
+8621
+142
+27 JAN 04
+NT
+1000
+8379
+28 JAN 04
+8521
+142
+5 FEB 04
+NT
+1000
+11209
+10 JUL 04
+5351
+<5858>
+27 MAY 04
+QQQ
+600
+21209 US
+28 MAY 04
+21246.5 US
+37.5 US
+28 NOV 04
+QQQ
+350
+13679 US
+30 NOV 04
+13708 US
+29.17 US
+14 NOV 04
+UBS
+3000
+80705
+19 OCT 04
+232
+<7838.5>
+25 MAR 00
+SGI
+1650
+5170
+6 DEC 04
+162.40
+<5007.6>
+14 MAR 00
+GEM
+850
+837
+24 DEC 04
+0
+<837>
+28 NOV 00
+INVT
+2900
+2141.95 US
+23 DEC 04
+0
+<2414.95> US
+Rate 1.542
+<3723.85> CA
+7 MAR 00
+SIKGOLD
+1500
+1154.50
+DEC 04
+BANKRUPT
+<1154.50>
+6 MAR 00
+VENGOLD
+260
+1078.5
+DEC 04
+BANKRUPT
+<1078.5>
+TOTAL
+9528
+<25497>
+GRAND TOTAL
+<24544> CA
+Symbols
+Companies
+Activities
+NT
+Nortel Networks
+Telecommunications
+QQQ
+Nasdaq 100 shares
+Top 100 technology cos.
+UBS
+Unique Broadband
+Fibre optics
+INVT
+InvestAmerica
+Telecommunications network
+SIKG
+Sigmen Gold
+Gold mining
+VENG
+VenGold
+Gold mining
+SGI
+Signalgene
+Biomedical
+GEM
+Nortern Financial
+Internet advertising
+CITATION: 2008TCC217
+COURT FILE No.: 2007-3116(IT)I
+STYLE OF CAUSE: JOSEPH AZRAK AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 14, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: April 28, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

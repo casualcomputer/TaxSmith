@@ -1,0 +1,307 @@
+---
+title: "Stanley J. Tessmer Law Corporation  c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31074/index.do"
+last_modified: "2013-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 27"
+citation2: ""
+neutral_citation: "2013 CCI 27"
+decision_date: "2013-01-28"
+language: "fr"
+item_id: "31074"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4715
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:31:40.558000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "41d1230bb8d11200ee0e6677d041b527a99b9ed3c1326f216d2a07b92e74dc04"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stanley J. Tessmer Law Corporation  c. La Reine
+
+- Citation: 2013 CCI 27
+- Decision date: 2013-01-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4715, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stanley J. Tessmer Law Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-28
+Référence neutre
+2013 CCI 27
+Numéro de dossier
+2007-3627(GST)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2007-3627(GST)G,
+2007-3628(GST)G, 2007-3629(GST)G,
+2007-3630(GST)G, 2007-3631(GST)G
+ENTRE :
+STANLEY J. TESSMER LAW CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 15 décembre 2011, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat de l’appelante :
+Me Craig C. Sturrock
+Avocats de l’intimée :
+Me David Jacyk
+Me Darren McLeod
+ORDONNANCE
+VU la requête de l’avocat de l’appelante visant l’obtention d’une ordonnance en vue de faire trancher par la Cour la question suivante, conformément au paragraphe 310(1) de la Loi sur la taxe d’accise (la « LTA ») :
+[traduction]
+Compte tenu des faits énoncés dans l’exposé conjoint des faits déposé par la présente, la taxe sur les produits et services (TPS) qu’impose l’article 165 de la Loi sur la taxe d’accise porte‑t‑elle atteinte aux droits que tirent de l’alinéa 10b) de la Charte des droits et libertés les clients de l’appelante ou est‑elle incompatible avec ces droits, de sorte que l’article 165 de la Loi sur la taxe d’accise est, en cas d’une telle incompatibilité, et, sous réserve de l’article premier de la Charte, inopérant vu le paragraphe 52(1) de la Loi constitutionnelle?
+ET VU les documents déposés à l’appui de la requête;
+ET VU les observations des parties;
+La réponse à la question est la suivante :
+Compte tenu des faits énoncés dans l’exposé conjoint des faits que les parties ont déposé, la taxe sur les produits et services (TPS) qu’impose l’article 165 de la Loi sur la taxe d’accise ne porte pas atteinte aux droits que tirent de l’alinéa 10b) de la Charte des droits et libertés les clients de l’appelante et n’est pas incompatible avec ces droits.
+Les dépens de la requête sont adjugés à l’intimée sur la base partie-partie.
+Signé à Ottawa, Canada, ce 28e jour de janvier 2013.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 6e jour de novembre 2013.
+François Brunet, réviseur
+Référence : 2013 CCI 27
+Date : 20130128
+Dossiers : 2007-3627(GST)G,
+2007-3628(GST)G, 2007-3629(GST)G,
+2007-3630(GST)G, 2007-3631(GST)G
+ENTRE :
+STANLEY J. TESSMER LAW CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Paris
+[1] Les parties dans les présents cinq appels connexes ont déféré la question suivante à la Cour pour décision, conformément au paragraphe 310(1) de la Loi sur la taxe d’accise[1] (la « LTA ») :
+[traduction]
+Compte tenu des faits énoncés dans l’exposé conjoint des faits déposé par la présente, la taxe sur les produits et services (TPS) qu’impose l’article 165 de la Loi sur la taxe d’accise porte‑t‑elle atteinte aux droits que tirent de l’alinéa 10b) de la Charte des droits et libertés les clients de l’appelante ou est‑elle incompatible avec ces droits, de sorte que l’article 165 de la Loi sur la taxe d’accise est, en cas d’une telle incompatibilité, et, sous réserve de l’article premier de la Charte, inopérant vu le paragraphe 52(1) de la Loi constitutionnelle.
+[2] La question déférée à la Cour vise l’article 7 et l’alinéa 10b) de la Charte canadienne des droits et libertés[2] (la « Charte »), mais l’avocat de l’appelante a informé la Cour à l’audience qu’il ne se fondait maintenant plus que sur l’alinéa 10b). La question est donc modifiée en conséquence.
+[3] Les parties ont convenu que la décision relative à l’article premier de la Charte sera rendue à une date ultérieure si la Cour vient à conclure que l’appelante a établi qu’il y a eu atteinte à des droits garantis par la Charte.
+LES FAITS
+[4] Voici un résumé des faits pertinents, tiré de l’exposé conjoint des faits que les parties ont présenté.
+[5] Les activités de l’entreprise de l’appelante sont la fourniture de services juridiques, par l’intermédiaire de Stanley J. Tessmer et de deux autres avocats. L’appelante est spécialisée en droit pénal.
+[6] Lors de la période du 1er juillet 1999 au 31 décembre 2006, l’appelante n’a pas perçu la taxe sur les produits et services (la « TPS ») à l’égard de services juridiques de défense en matière pénale facturés à certains de ses clients qui avaient été arrêtés ou mis en détention et qui avaient été inculpés d’une infraction pénale ou avaient été arrêtés sous le coup d’accusations au pénal.
+[7] Le montant de TPS que l’appelante aurait dû percevoir, si la TPS était à payer sur ces services de défense en matière pénale sans porter atteinte à la Charte, s’élevait à 228 440,97 $.
+[8] L’appelante n’a pas procédé à l’examen indépendant de la situation financière de ses clients en vue d’établir de manière indépendante la capacité qu’avaient ses derniers de payer ses honoraires ainsi que tout montant de TPS connexe.
+[9] À l’audition de la présente affaire, aucun document financier concernant les clients de l’appelante n’a été produit.
+[10] À la suite d’une série de cinq avis de cotisation visant en tout la période du 1er juillet 1999 au 31 décembre 2006, l’appelante a fait l’objet d’une cotisation de TPS d’un montant de 228 440,97 $, de même que des pénalités et des intérêts s’y rapportant.
+Les dispositions législatives applicables
+[11] L’alinéa 10b) de la Charte dispose :
+Chacun a le droit, en cas d’arrestation ou de détention :
+[…]
+d’avoir recours sans délai à l’assistance d’un avocat et d’être informé de ce droit;
+[…]
+[12] Le paragraphe 52(1) de la Charte dispose :
+La Constitution du Canada est la loi suprême du Canada; elle rend inopérantes les dispositions incompatibles de toute autre règle de droit.
+[13] Pour la période en cause antérieure au mois de juillet 2006, le paragraphe 165(1) de la LTA disposait:
+Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+[14] Pour la période en litige allant du 1er juillet au 31 décembre 2006, le taux de TPS était de 6 %.
+[15] Les mots « fourniture taxable » et « fourniture » sont définis ainsi, au paragraphe 123(1) de la LTA :
+« fourniture taxable » Fourniture effectuée dans le cadre d’une activité commerciale.
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+Le contexte
+[16] L’appelante a déjà interjeté appel devant la Cour d’une cotisation de TPS concernant une période antérieure à celle que visent les appels dont il est question en l’espèce. Lors de cet appel antérieur, l’appelante a fait valoir aussi que l’obligation de payer la TPS sur les honoraires d’avocats de la défense au pénal portait atteinte au droit à l’assistance d’un avocat que tirent ses clients de l’alinéa 10b) de la Charte. Cet appel a été rejeté : Stanley J. Tessmer Law Corporation c. La Reine [3].
+[17] L’appelante a par la suite fait l’objet d’une cotisation visant la période du 1er juillet 1999 au 31 décembre 2006, comme il est indiqué au paragraphe 10 qui précède. Les cinq appels en question ont été formés par elle relativement à ces cotisations.
+[18] Par requête, l’intimée a contesté la qualité qu’avait l’appelante pour soulever de prétendus manquements aux droits que tirent de la Charte ses clients, relativement à la TPS à payer sur les honoraires d’avocats de la défense au pénal. Notre Cour a décidé que l’appelante avait bel et bien qualité pour soulever les prétendus manquements à la Charte[4]. L’intimée a interjeté appel de cette décision auprès de la Cour d’appel fédérale. L’appel a été mis en suspens en attendant qu’une décision soit rendue sur la question que les parties ont soulevée dans la présente instance.
+La jurisprudence antérieure relative à la Charte au sujet des taxes imposées sur les services juridiques
+[19] Par l’arrêt John Carten Personal Law Corporation v. British Columbia (Attorney General)[5], la Cour d’appel de la Colombie-Britannique a confirmé la constitutionnalité d’une taxe de la Colombie-Britannique sur les services juridiques. L’appelante avait contesté la validité de cette taxe en invoquant plusieurs moyens, notamment qu’elle portait atteinte à l’article 7, aux alinéas 10b) et 11d) ainsi qu’à l’article 15 de la Charte. La Cour d’appel de la Colombie-Britannique a rejeté l’appel parce que l’appelante n’avait pas produit une preuve suffisante pour montrer que l’effet de la taxe était inconstitutionnel. S’exprimant au nom de la majorité de la Cour d’appel, le juge Lambert a observé :
+[traduction]
+Compte tenu de tout ce qui a été dit, selon moi les arguments de M. Carten sur ces questions ne peuvent pas être maintenus devant la présente Cour en raison du manque de preuve qu’il y a eu déni des droits d’accès aux tribunaux, à la justice ou aux services juridiques en raison de cette taxe de 7 % sur le montant payé ou à payer au titre de services juridiques.
+Il y a de nombreuses raisons pour lesquelles le coût des services juridiques ou le manque de fonds peuvent restreindre ou empêcher une personne d’exercer un droit d’accès aux tribunaux ou à d’autres services juridiques. Pour pouvoir conclure que la Loi est tout à fait inconstitutionnelle, voire inconstitutionnelle dans son application à un cas particulier, il faudrait faire la preuve que des personnes, une catégorie de personnes en général ou une personne en particulier qui auraient été en mesure d’exercer les droits légaux en litige si la taxe n’avait pas été imposée n’ont pas pu le faire en raison de la taxe. Le simple fait de démontrer que cette dernière empêchait ou décourageait les personnes d’exercer le droit protégé par la loi ne suffirait pas pour étayer l’argument selon lequel la Loi est inconstitutionnelle en principe ou dans son application. Il faudrait pouvoir prouver que le droit a été violé ou que la personne a été empêchée de l’exercer en raison de l’existence ou de l’application de cette taxe. En d’autres mots, fournir la preuve qu’un droit qui aurait pu être exercé sans cette taxe n’a pu l’être à cause de cette taxe.
+À mon avis, la preuve présentée en l’espèce ne suffit pas pour permettre de conclure que la Loi est inconstitutionnelle. L’affidavit de M. Carten est le seul élément de preuve disponible. Ce document indique que la taxe lui cause, dans sa pratique du droit, des inconvénients et des dépenses. Mais, bien sûr, là n’est pas la question.
+[…]
+Selon moi, cette preuve est insuffisante pour servir de fondement à des faits constitutionnels allant dans le sens des arguments de nature constitutionnelle qui ont été invoqués dans les sept premiers points de M. Carten. Et nous ne sommes pas en droit de supposer, en l’absence d’une preuve suffisante, que l’existence même de la taxe empêcherait sûrement quelqu’un, quelque part, de s’adresser aux tribunaux. Si nous étions tentés de nous livrer à une conjecture de cette nature, nous serions aussitôt confrontés au fait que l’aide juridique est largement accessible à ceux qui éprouvent des difficultés financières et que la taxe ne s’applique pas aux services d’aide juridique.
+La Cour suprême du Canada enseigne qu’il doit y avoir des faits constitutionnels prouvés pour étayer un argument de nature constitutionnelle. Une question constitutionnelle ne peut pas être abordée dans le vide. Voir l’arrêt Danson v. Ontario (Procureur général), [1990] 2 R.C.S. 1086, à la page 1099. À mon avis, dans la présente affaire, aucun fait constitutionnel de base suffisant n’a été prouvé[6].
+[20] Dans cette affaire, s’exprimant en dissidence, le juge en chef McEachern a observé que la taxe, [traduction] « en faisant augmenter le coût du litige, fait obstacle à un accès effectif à un avocat et donc aux droits et aux réparations que prévoit la Charte[7] » et que [traduction] « l’État ne peut assujettir à une taxe l’accès effectif à un avocat[8] ». Il a conclu que [traduction] « une taxe sur une facture d’honoraires juridiques concernant des services liés à l’application ou à la protection de droits constitutionnels au civil ou au pénal est incompatible avec la Charte »[9] et, de ce fait, que la loi qui imposait la taxe excédait la compétence de la province dans un tel cas.
+[21] La Cour suprême a rejeté une demande d’autorisation d’interjeter appel de cette décision de la Cour d’appel de la Colombie-Britannique[10].
+[22] Dans l’affaire Colombie-Britannique (Procureur général) c. Christie[11], la Cour suprême du Canada était saisie d’une autre contestation constitutionnelle concernant la taxe de la Colombie-Britannique sur les services juridiques. Dans cette affaire, l’intimé, M. Christie, a fait valoir l’existence d’un droit constitutionnel général à des services juridiques dans la détermination et l’interprétation de droits juridiques devant des tribunaux judiciaires et administratifs. La Cour d’appel de la Colombie-Britannique a retenu l’idée qu’un tel droit constitutionnel existait; elle a statué que la taxe sur les services juridiques portait atteinte à ce droit et a déclaré que cette taxe était inconstitutionnelle. En appel de cette décision, la Cour suprême du Canada a annulé l’ordonnance de la Cour d’appel de la Colombie-Britannique compte tenu du fait qu’il n’existe aucun droit constitutionnel général aux services d’un avocat dans les instances portant sur des droits et des obligations qui sont déférées aux juges judiciaires et administratifs. La Cour a également souligné l’absence d’un dossier de preuve suffisant pour établir que l’effet de la taxe était inconstitutionnel :
+Du fait de cette conclusion, point n’est besoin de se demander si la preuve sur laquelle le demandeur fait reposer son action est suffisante. Il n’est sans doute pas inopportun, toutefois, de formuler quelques commentaires quant au caractère adéquat du dossier, vu l’importance du résultat recherché – l’annulation d’une taxe provinciale par ailleurs constitutionnelle. L’avocat de M. Christie a plaidé, devant nous, que l’État ne pouvait pas, au regard de la Constitution, ajouter des frais qui ne servent d’aucune façon à favoriser la justice aux coûts déjà requis pour retenir les services d’un avocat afin d’avoir accès à la justice. Cet argument suppose l’existence d’un rapport de causalité direct et inéluctable entre toute majoration du coût des services juridiques et le fait de retenir les services d’un avocat et d’obtenir accès à la justice. Cependant, comme le souligne le procureur général de la Colombie‑Britannique, le coût des services juridiques est susceptible d’être influencé par un éventail complexe de facteurs, ce qui tend à faire ressortir la nécessité d’obtenir, de la part d’experts, des éléments de preuve de nature financière visant à établir que la taxe entravera concrètement l’accès à la justice. Sans nous interroger sur le caractère adéquat du dossier en l’espèce, nous tenons cependant à signaler que notre Cour a déjà indiqué qu’il faut se garder de statuer sur des litiges constitutionnels en l’absence d’un dossier factuel adéquat : R. c. Edwards Books and Art Ltd., [1986] 2 R.C.S. 713, p. 762 et 767‑768, le juge en chef Dickson; MacKay c. Manitoba, [1989] 2 R.C.S. 357, p. 361; Danson c. Ontario (Procureur général), [1990] 2 R.C.S. 1086, p. 1099[12].
+[23] Dans l’affaire R. v. Yung[13], l’accusé contestait la constitutionnalité de deux taxes : la taxe provinciale de la Colombie-Britannique et la TPS sur les services juridiques fournis. M. Yung et son coaccusé étaient les défendeurs dans une instance pénale menée devant la Cour suprême de la Colombie‑Britannique et ils étaient représentés par Stanley Tessmer. Il était allégué que la taxe sur les services juridiques était incompatible avec leur droit à l’assistance d’un avocat aux termes de l’alinéa 10b) de la Charte, avec leur droit à un procès équitable aux termes de l’alinéa11d) ainsi qu’avec leur droit à la vie, à la liberté et à la sécurité de la personne aux termes de l’article 7. En rejetant la demande en déclaration portant que les dispositions législatives fédérales et provinciales applicables étaient inopérantes, le juge Brooke a conclu que les défendeurs n’étaient pas parvenus à produire une preuve montrant que les taxes les empêchaient de retenir les services d’un avocat. Le juge s’est fondé sur une jurisprudence de la Cour d’appel de la Colombie‑Britannique, John Carten Personal Law Corporation, et il a observé :
+[traduction]
+La preuve qui m’a été présentée est insuffisante pour démontrer qu’un droit qui aurait été exercé, n’eût été de ces taxes, n’a pas pu l’être à cause de celles-ci[14].
+[24] Le juge Brooke a également conclu que la jurisprudence Christie de la Cour suprême [traduction] « dictait la réponse quant à la question en litige[15] ».
+[25] Dans la décision Stanley J. Tessmer Law Corporation c. La Reine[16], mentionnée au paragraphe 15 qui précède, l’appelante a fait valoir que la TPS sur les honoraires d’avocat qu’elle facturait à ses clients portait atteinte aux droits que tiraient l’alinéa 10b) de la Charte ces derniers. Le juge McArthur, de la Cour canadienne de l’impôt, a rejeté l’appel, concluant « qu’il n’était pas essentiel que les prévenus aient la liberté de choisir leur avocat pour répondre aux exigences de l’al. 10b) » et que l’appelante n’avait « présenté aucun élément de preuve démontrant que des personnes avaient été empêchées d’exercer leur droit d’avoir recours à l’assistance d’un avocat[17] ».
+La thèse de l’appelante
+[26] L’appelante soutient qu’une taxe sur les services juridiques de défense en matière pénale fournis à une personne qui a été arrêtée ou mise en détention est incompatible avec le droit à l’assistance d’un avocat de son choix que confère l’alinéa 10b) de la Charte. La taxe fait selon elle obstacle à l’exercice de ce droit et est donc inconstitutionnelle quant à son objet et à son effet.
+[27] L’appelante soutient qu’elle n’est pas tenue de produire la preuve que l’un de ses clients s’est vu privé de l’assistance d’un avocat de son choix en raison de la taxe imposée sur les services d’un avocat. Elle soutient qu’elle n’est tenue que de montrer que l’effet général de la taxe est inconstitutionnel dans des situations raisonnablement hypothétiques : R. c. Mills[18], R. c. Goltz[19], R. c. Seaboyer; R. c. Gayme[20], R. c. Big M Drug Mart Ltd.[21]. L’appelante dit donc qu’il importe peu qu’il y ait eut atteinte aux droits que confère l’alinéa 10b) à l’un quelconque de ses clients.
+[28] L’appelante soutient également que cette jurisprudence de la Cour suprême (à l’exception de l’arrêt Mills, qui a été prononcé plus tard) n’a pas été portée à l’attention de la Cour d’appel de la Colombie-Britannique dans l’affaire John Carten Personal Law Corporation, et, de ce fait, que cette jurisprudence et celles qui l’ont suivie (soit les affaires Yung et Tessmer) ne dictaient pas la réponse quant à la question de la nécessité de disposer d’un dossier de preuve dans les affaires de cette nature.
+[29] L’appelante ajoute que, de par sa nature, une taxe sur les frais juridiques de défense en matière pénale est, dans une certaine mesure, prohibitive ou que, à tout le moins, elle fait obstacle au droit à l’assistance d’un avocat, étant donné que le coût additionnel que la taxe représente pour l’accusé amoindrit les ressources financières dont il dispose pour préparer une défense contre les accusations portées contre lui : Stein I (United States v. Stein)[22] .
+Analyse
+[30] L’appelante soutient que la TPS imposée sur les services de défense en matière pénale que l’on assure à la personne qui a été arrêtée ou mise en détention est inconstitutionnelle tant sur le plan de son objet que sur celui de son effet. Comme l’a observé le juge Dickson dans l’arrêt R. c. Big M Drug Mart Ltd.[23] :
+[…] l’objet et l’effet d’une loi sont tous les deux importants pour déterminer sa constitutionnalité; un objet inconstitutionnel ou un effet inconstitutionnel peuvent l’un et l’autre rendre une loi invalide.
+[31] L’appelante soutient que l’objet général des dispositions législatives sur la TPS qui imposent la taxe est de percevoir des recettes, mais qu’elle a aussi un objet précis, soit celui de taxer l’accusé à l’égard de la prestation de services juridiques assurés dans la défense contre une poursuite engagée par l’État. Son seul argument au sujet de l’inconstitutionnalité de l’objet de la taxe était qu’il est manifestement incompatible de poursuivre une personne et, en même temps, de taxer les services juridiques dont cette personne a besoin pour pouvoir se défendre contre la poursuite engagée.
+[32] Il m’est impossible d’attribuer l’objet précis invoqué par l’appelante au paragraphe 165(1) de la LTA, que je reproduis de nouveau ici, par souci de commodité :
+Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+[33] Le paragraphe 165(1) est une disposition d’application générale qui englobe toutes sortes d’opérations. Je ne crois pas que l’on puisse dire qu’un objet précis du paragraphe 165(1) est de taxer les services juridiques assurés dans une défense contre une poursuite engagée par l’État, étant donné que le législateur n’a pas mentionné de manière précise que ces services particuliers bénéficient d’un traitement différent au titre de cette disposition. Je conclus donc que l’appelante n’a pas établi que l’objet du paragraphe 165(1) de la LTA n’est pas valide.
+[34] L’appelante soutient par ailleurs que l’effet de l’article 165 porte atteinte aux droits que confère l’alinéa 10b) de la Charte.
+[35] Au vu des décisions qui ont été rendues dans les affaires John Carten Personal Law Corporation, Christie et Yung, la première question à trancher consiste à savoir si l’appelante est tenue de produire la preuve de l’effet qu’a la TPS sur l’un quelconque de ses clients après son arrestation ou sa mise en détention. Le fait de ne pas avoir présenté d’éléments probants a porté un coup fatal à la contestation présentée dans les affaires John Carten Personal Law Corp. et Yung, et a fait l’objet d’une remarque incidente dans l’arrêt Christie.
+[36] Comme il est souligné dans l’arrêt Christie, la Cour suprême a souligné à maintes reprises l’obligation de présenter un dossier de preuve dans les affaires relatives à la Charte. Par exemple, dans l’arrêt MacKay c. Manitoba[24], le juge Cory a observé :
+Les affaires relatives à la Charte porteront fréquemment sur des concepts et des principes d’une importance fondamentale pour la société canadienne. Par exemple, les tribunaux seront appelés à examiner des questions relatives à la liberté de religion, à la liberté d’expression et au droit à la vie, à la liberté et à la sécurité de la personne. Les décisions sur ces questions doivent être soigneusement pesées, car elles auront des incidences profondes sur la vie des Canadiens et de tous les résidents du Canada. Compte tenu de l’importance et des répercussions que ces décisions peuvent avoir à l’avenir, les tribunaux sont tout à fait en droit de s’attendre et même d’exiger que l’on prépare et présente soigneusement un fondement factuel dans la plupart des affaires relatives à la Charte. Les faits pertinents présentés peuvent toucher une grande variété de domaines et traiter d’aspects scientifiques, sociaux, économiques et politiques. Il est souvent très utile pour les tribunaux de connaître l’opinion d’experts sur les répercussions futures de la loi contestée et le résultat des décisions possibles la concernant.
+Les décisions relatives à la Charte ne doivent pas être rendues dans un vide factuel. Essayer de le faire banaliserait la Charte et produirait inévitablement des opinions mal motivées. La présentation des faits n’est pas, comme l’a dit l’intimé, une simple formalité; au contraire, elle est essentielle à un bon examen des questions relatives à la Charte. Un intimé ne peut pas, en consentant simplement à ce que l’on se passe de contexte factuel, attendre ni exiger d’un tribunal qu’il examine une question comme celle‑ci dans un vide factuel. Les décisions relatives à la Charte ne peuvent pas être fondées sur des hypothèses non étayées qui ont été formulées par des avocats enthousiastes[25].
+[37] Et, dans l’arrêt Danson c. Ontario (Procureur général)[26], le juge Sopinka a dit :
+Notre Cour a toujours veillé soigneusement à ce qu’un contexte factuel adéquat existe avant d’examiner une loi en regard des dispositions de la Charte, surtout lorsque le litige porte sur les effets de la loi contestée. Par exemple, dans l’arrêt R. c. Edwards Books and Art Ltd., [1986] 2 R.C.S. 713, aux pp. 767 et 768, notre Cour a refusé de conclure que la Loi sur les jours fériés dans le commerce de détail, L.R.O. 1980, ch. 453, violait les droits des hindous et des musulmans reconnus à l’al. 2a) de la Charte en l’absence de preuve concernant les détails de leur observance religieuse respective. De même, dans l’arrêt Rio Hotel Ltd. c. Nouveau‑Brunswick (Commission des licences et permis d’alcool), [1987] 2 R.C.S 59, à la p. 83, notre Cour a refusé d’examiner la contestation, fondée sur l’al. 2b) de la Charte, de certaines dispositions de la Loi sur la réglementation des alcools, L.R.N.‑B. 1973, ch. L‑10, en l’absence de preuve relative à la nature de la conduite que l’on prétendait constituer une « expression » au sens de l’al. 2b)[27].
+[38] Il semble toutefois qu’il soit possible dans certains cas de passer outre à l’obligation de produire des éléments de preuve concernant les effets d’une loi contestée. Dans l’arrêt Danson, le juge Sopinka a ajouté :
+Cela ne veut pas dire que de tels faits doivent être établis dans toutes les contestations fondées sur la Charte. Chaque instance doit être examinée en regard de ses propres faits (ou absence de faits)[28].
+[39] Dans deux arrêts relatifs à la Charte que l’appelante a cités : R. c. Mills[29] et R c. Goltz[30], la Cour suprême s’est explicitement fondée sur des hypothèses raisonnables ou des circonstances imaginables à la place de faits concernant l’accusé.
+[40] Dans l’affaire Mills, la Cour suprême avait à décider s’il était possible de contester la constitutionnalité d’une disposition législative attaquée en l’absence d’une preuve que les droits de l’accusé avaient en fait été violés. Dans cette affaire, l’accusé contestait la validité de modifications apportées au Code criminel qui portaient sur la production de documents dans une poursuite relative à une infraction d’ordre sexuel, au motif que ces modifications violaient les droits qu’il tirait de l’article 7 et l’alinéa 11d) de la Charte. Le juge de première instance avait conclu que tel était le cas, et que ces dispositions n’étaient pas sauvegardées par l’article premier de la Charte.
+[41] Devant la Cour suprême, le procureur général de l’Alberta a soutenu que la conclusion d’invalidité constitutionnelle était « prématurée et n’avait aucun fondement factuel adéquat » parce que l’accusé ne s’était pas encore vu refuser l’accès à des dossiers. En réponse à cet argument, les juges McLachlin et Iacobucci ont observé :
+Le simple fait qu’il ne soit pas clair que l’intimé se verra effectivement refuser l’accès à des dossiers susceptibles d’être nécessaires pour pouvoir présenter une défense pleine et entière ne rend pas la demande prématurée. L’intimé n’a pas à prouver que la mesure législative contestée porterait vraisemblablement atteinte à son droit à une défense pleine et entière. Il suffirait d’établir que cette mesure législative est inconstitutionnelle sur le plan de son incidence générale, étant donné que l’art. 52 de la Loi constitutionnelle de 1982 rend inopérante la règle de droit qui est incompatible avec la Constitution.
+Toutefois, accepter que l’intimé peut contester la constitutionnalité générale de la mesure législative en cause ne répond pas à la question de savoir si, avant de procéder à une contestation constitutionnelle, il doit préalablement demander et se voir refuser la communication de dossiers de tiers. La question à laquelle il faut répondre est de savoir si le dossier d’appel contient suffisamment de faits pour permettre à la Cour de bien trancher les questions soulevées. Comme le juge Sopinka l’a dit au nom de notre Cour dans l’arrêt R. c. DeSousa, [1992] 2 R.C.S. 944, à la p. 955, lorsqu’il analysait la règle générale selon laquelle les contestations constitutionnelles devaient être tranchées à la fin des débats : « Une attaque, fondée sur la Charte, contre la loi en vertu de laquelle l’accusé a été inculpé, qui semble bien fondée et qui ne dépend pas de faits devant être prouvés au cours du procès pourrait être visée par cette exception à la règle générale » (nous soulignons).
+Notre Cour a souvent souligné l’importance de l’existence d’un fondement factuel dans les affaires relatives à la Charte. Voir, par exemple, MacKay c. Manitoba, [1989] 2 R.C.S. 357, à la p. 361; R. c. Edwards Books and Art Ltd., [1986] 2 R.C.S. 713, aux pp. 762, 767 et 768, le juge en chef Dickson; Rio Hotel Ltd. c. Nouveau Brunswick (Commission des licences et permis d’alcool), [1987] 2 R.C.S. 59, à la p. 83; Danson c. Ontario (Procureur général), [1990] 2 R.C.S. 1086, à la p. 1099; Baron c. Canada, [1993] 1 R.C.S. 416, à la p. 452; DeSousa, précité, à la p. 954; Société Radio Canada c. Nouveau Brunswick (Procureur général), [1996] 3 R.C.S. 480, au par. 15. Ces faits ont été divisés en deux catégories: les faits législatifs et les faits en litige. Dans l’arrêt Danson, précité, à la p. 1099, le juge Sopinka, s’exprimant au nom de notre Cour, a exposé ces catégories de la façon suivante :
+Ces expressions proviennent de l’ouvrage de Davis, Administrative Law Treatise (1958), vol. 2, para. 15.03, à la p. 353. (Voir également Morgan, « Proof of Facts in Charter Litigation », dans Sharpe, ed., Charter Litigation (1987).) Les faits en litige sont ceux qui concernent les parties au litige : pour reprendre les termes de Davis [traduction] « qui a fait quoi, où, quand, comment et dans quelle intention... » Ces faits sont précis et doivent être établis par des éléments de preuve recevables. Les faits législatifs sont ceux qui établissent l’objet et l’historique de la loi, y compris son contexte social, économique et culturel. Ces faits sont de nature plus générale et les conditions de leur recevabilité sont moins sévères : par exemple, voir Renvoi : Loi anti‑inflation, [1976] 2 R.C.S. 373, le juge en chef Laskin, à la p. 391; Renvoi : Loi de 1979 sur la location résidentielle, [1981] 1 R.C.S. 714, le juge Dickson (plus tard Juge en chef), à la p. 723; et Renvoi relatif à la Upper Churchill Water Rights Reversion Act, [1984] 1 R.C.S. 297, le juge McIntyre, à la p. 318.
+L’argument que le présent pourvoi est prématuré repose sur la prétention que notre Cour est saisie de peu de faits en litige. On peut répondre à cet argument de deux façons.
+Premièrement, on ne sait pas clairement quels seraient les autres faits en litige si l’intimé avait suivi la procédure contestée et s’était vu refuser la communication. Bien que, en vertu du par. 278.8(1) du Code criminel, le juge du procès doive motiver sa décision de refuser d’ordonner la communication d’un dossier ou d’une partie d’un dossier, ses motifs ne pourraient vraisemblablement pas en dire long sur le contenu du dossier en question, car cela contrecarrerait l’objet même des nouvelles dispositions.
+Deuxièmement, le dossier contient suffisamment de faits pour trancher les questions soulevées par le présent pourvoi. En réalité, on n’a pas prétendu que les faits en litige, si clairsemés soient-ils, sont insuffisants. De plus, pour déterminer si la mesure législative en cause dans le présent pourvoi est inconstitutionnelle sur le plan de son incidence générale, il faut en évaluer les effets dans des circonstances hypothétiques raisonnables. Dans R. c. Goltz, [1991] 3 R.C.S. 485, le juge Gonthier a affirmé, au nom de la majorité, aux pp. 515 et 516 :
+Notre Cour a certes veillé autant que possible à s’assurer de l’existence d’une base factuelle appropriée avant d’évaluer une loi en fonction de la Charte (Danson c. Ontario (Procureur général), [1990] 2 R.C.S. 1086, à la p. 1099, et MacKay c. Manitoba, [1989] 2 R.C.S. 357, aux pp. 361 et 362). Pourtant, comme nous l’avons indiqué plus haut, la jurisprudence portant sur l’art. 12 n’envisage pas une norme d’examen qui repose dans chaque cas sur ce genre de base factuelle. La norme applicable doit être centrée sur des circonstances imaginables qui pourraient se présenter couramment dans la vie quotidienne. [Nous soulignons.]
+De même, compte tenu de la nature du cadre législatif, où l’accusé et le tribunal ignorent le contenu des dossiers demandés, un bon nombre d’arguments portent nécessairement sur des « circonstances imaginables »[31].
+[42] Dans l’affaire Mills, il me semble que la disposition de la Cour suprême à prendre en considération des circonstances imaginables dans le fondement factuel d’un différend fondé sur la Charte était subordonnée au fait qu’il était impossible de produire des faits réels à l’appui de l’allégation selon laquelle il y avait eu atteinte à un droit garanti par la Charte. Dans l’affaire Mills, il a été jugé que la possibilité de faire état d’un manquement réel aux droits de l’accusé aurait été restreinte par un manque de connaissance du contenu des dossiers dont la production avait été refusée, même s’il en avait fait la demande. C’est pour cette raison que la Cour suprême, dans l’arrêt Mills, était disposée à prendre en compte des circonstances imaginables en vue d’évaluer la constitutionnalité de la loi contestée.
+[43] Dans l’affaire Goltz, la question en litige consistait à savoir si une peine minimale obligatoire de sept jours d’emprisonnement pour conduite pendant une interdiction était contraire au droit que tirait de l’article 12 de la Charte l’accusé de ne pas être soumis à des traitements ou peines cruels et inusités. Le critère qui permet à l’heure actuelle de décider si une loi prescrit une peine cruelle et inusitée est celui de savoir si cette peine est exagérément ou excessivement disproportionnée à l’infraction[32]. Par l’arrêt Goltz, la Cour suprême a expliqué que l’analyse de la disproportion exagérée comporte deux aspects. Premièrement, on procède à l’évaluation de la peine sous l’angle du contrevenant. Si aucune conclusion de disproportion excessive n’est tirée au vu des faits de l’affaire, l’on procède à l’examen fondé sur des circonstances hypothétiques raisonnables.
+[44] La norme de contrôle que la Cour suprême a défini par la jurisprudence Goltz est propre aux contestations fondées sur l’article 12 de la Charte. Cette jurisprudence ne semble pas prescrire l’utilisation générale d’hypothèses en vue d’évaluer la loi par rapport à d’autres dispositions de la Charte. En expliquant l’usage qu’elle faisait d’hypothèses, la Cour suprême a dit dans l’arrêt Goltz :
+Notre Cour a certes veillé autant que possible à s’assurer de l’existence d’une base factuelle appropriée avant d’évaluer une loi en fonction de la Charte (Danson c. Ontario (Procureur général), [1990] 2 R.C.S. 1086, à la p. 1099, et MacKay c. Manitoba, [1989] 2 R.C.S. 357, aux pp. 361 et 362). Pourtant, comme nous l’avons indiqué plus haut, la jurisprudence portant sur l’art. 12 n’envisage pas une norme d’examen qui repose dans chaque cas sur ce genre de base factuelle. La norme applicable doit être centrée sur des circonstances imaginables qui pourraient se présenter couramment dans la vie quotidienne[33].
+[Non souligné dans l’original.]
+[45] Outre les circonstances relevées dans les arrêts Mills et Goltz, la Cour suprême a également dit qu’il n’est peut-être pas nécessaire du tout de produire éléments probants qui établissent l’existence d’un manquement à la Charte si la question de la constitutionnalité est une question de pur droit. C’est ce qui ressort des motifs du juge Beetz dans l’arrêt Manitoba (Procureur général) c. Metropolitan Stores Ltd.[34] :
+Il peut exister des cas rares où la question de la constitutionnalité se présente sous la forme d’une question de droit purement et simplement, laquelle peut être définitivement tranchée par un juge saisi d’une requête. Un exemple théorique qui vient à l’esprit est la situation où le Parlement ou une législature prétendrait adopter une loi imposant les croyances d’une religion d’État. Pareille loi enfreindrait l’al. 2a) de la Charte canadienne des droits et libertés, ne pourrait possiblement pas être justifiée par l’article premier de celle‑ci et courrait peut‑être le risque d’être frappée d’illégalité sur‑le‑champ : voir Procureur général du Québec c. Quebec Association of Protestant School Boards, [1984] 2 R.C.S. 66, à la p. 88. Or, il va sans dire qu’il s’agit là de cas exceptionnels[35].
+[Non souligné dans l’original.]
+[46] Le juge Sopinka, dans l’arrêt Danson, a fait référence à l’exemple que donne le juge Beetz dans ce passage :
+Dans le cas hypothétique présenté par le juge Beetz, l’objet inconstitutionnel de la loi ressort clairement du texte même de la loi et n’exige aucune preuve extrinsèque[36].
+[47] Outre les arrêts Mills, Goltz et Metropolitan Stores Ltd., l’appelante a également invoqué les arrêts que la Cour suprême a rendus dans les affaires Seaboyer/Gayme[37], Big M Drug Mart[38], et R. c. Ferguson[39] à l’appui de sa thèse selon laquelle il est possible d’utiliser des hypothèses raisonnables comme fondement factuel dans une contestation fondée sur la Charte.
+[48] Dans l’affaire Seaboyer/Gayme, la question en litige était de savoir si les articles 276 et 277 du Code criminel (les dispositions relatives à la « protection des victimes de viol ») portaient atteinte aux droits que tirait de l’article 7 et de l’alinéa 11d) de la Charte l’accusé. Ces dispositions restreignaient le droit de la défense mener un contre-interrogatoire et de présenter une preuve sur le comportement sexuel du plaignant à d’autres occasions. Dans cette affaire, on avait empêché l’accusé à l’enquête préliminaire de contre-interroger la plaignante sur sa conduite sexuelle à d’autres occasions. La majorité des juges de la Cour suprême ont conclu que l’article 276 était incompatible avec l’article 7 et l’alinéa 11d) de la Charte et n’était pas sauvegardé par l’article premier de la Charte parce qu’il donnait la possibilité d’exclure des éléments de preuve qui étaient pertinents pour la défense et dont la valeur probante ne l’emportait pas sensiblement sur leur effet préjudiciable possible. La Cour suprême n’a pas discuté la question de l’utilisation des situations hypothétiques raisonnables, mais elle a manifestement tenu compte de la possibilité que la loi cause un résultat particulier, c’est-à-dire l’exclusion d’éléments de preuve pertinents. Cependant, à mon avis, il s’agit là d’un autre exemple d’examen de circonstances imaginables dans un cas où il n’y avait aucune preuve disponible – et où il ne pouvait y en avoir aucune de disponible – sur l’effet réel, sur l’accusé, du déni du droit de mener un contre‑interrogatoire parce qu’on l’avait empêché de contre-interroger la plaignante. Il n’y avait aucun moyen de savoir quelle aurait été la preuve de la plaignante et quel effet cette preuve aurait eu sur la défense.
+[49] Dans l’affaire Ferguson, la question en litige était de savoir si la peine minimale de quatre ans que prescrivait le Code criminel pour l’infraction d’homicide involontaire coupable avec usage d’une arme à feu constituait une peine cruelle et inusitée et donc contraire à l’article 12 de la Charte. Dans cette affaire, la Cour suprême a conclu qu’on ne lui avait pas montré, soit d’après les faits relatifs à l’accusé, soit d’après les situations hypothétiques raisonnables qui lui avaient été présentés, que la peine imposée était assimilable à une peine cruelle et inusitée. Il est clair toutefois que la Cour suprême a pris en compte les situations hypothétiques raisonnables au regard de l’analyse relative à l’article 12, qui comporte une norme de contrôle particulière. S’exprimant au nom de la Cour, la juge en chef McLachlin a déclaré :
+J’estime donc que rien ne permet de conclure que la peine minimale de quatre ans prescrite par le législateur constitue une peine cruelle et inusitée compte tenu des faits de l’espèce.
+Habituellement, l’évaluation d’une peine minimale obligatoire au regard de l’art. 12 requiert à la fois l’analyse des faits propres à l’accusé et l’analyse des situations hypothétiques raisonnables : Goltz, p. 505-506. Or, lors de l’audience de détermination de la peine et devant la Cour d’appel, le gendarme Ferguson ne s’est pas appuyé sur des situations hypothétiques raisonnables pour contester la constitutionnalité de l’al. 236a). Il a simplement fait valoir que cette disposition était inconstitutionnelle lorsqu’elle était appliquée aux faits qui lui étaient propres. L’argument fondé sur des situations hypothétiques raisonnables n’ayant pas été plaidé, rien ne permettait au juge chargé de la détermination de la peine ni à la Cour d’appel de trancher la question de savoir si, au terme d’une telle analyse, ils auraient conclu à l’inconstitutionnalité de l’al. 236a). Le gendarme Ferguson plaide, pour la première fois, devant notre Cour, l’argument subsidiaire fondé sur les situations hypothétiques raisonnables. À mon avis, le gendarme Ferguson n’a pas décrit de situation hypothétique où le degré minimal de culpabilité morale d’un contrevenant ayant commis un homicide involontaire coupable au moyen d’un acte illégal comportant l’usage d’une arme à feu serait moindre que dans les situations hypothétiques raisonnables examinées dans Morrisey[40].
+[50] Enfin, par l’arrêt Big M Drug Mart, la Cour suprême a conclu que la loi qui obligeait les entreprises à fermer le dimanche violait la garantie de liberté religieuse visée par l’alinéa 2a) de la Charte. L’un des arguments qu’avait invoqués l’intervenant le procureur général de l’Alberta était que la société appelante n’avait pas qualité pour invoquer la question de la violation de la liberté de religion parce qu’une société ne peut pas avoir de religion. La Cour suprême a conclu que l’intimée avait qualité :
+La question de savoir si une personne morale peut jouir de la liberté de religion est donc sans importance. L’intimée soutient que la loi en cause est inconstitutionnelle parce qu’elle porte atteinte à la liberté de religion – si cette loi porte atteinte à la liberté de religion, il n’importe pas de se demander si la compagnie peut avoir des croyances religieuses. Un athée pourrait tout autant contester une accusation portée en vertu de la Loi. Cette question ne pourrait être pertinente que si l’al. 2a) était interprété comme ne protégeant que les personnes qui peuvent démontrer qu’elles ont véritablement des croyances religieuses. Je ne vois rien qui permet de limiter ainsi la portée de l’al. 2a) en l’espèce.
+L’argument portant que l’intimée, parce qu’elle est une personne morale, est incapable d’avoir des croyances religieuses et, par conséquent, incapable d’invoquer des droits en vertu de l’al. 2a) de la Charte a pour effet de brouiller la nature de ce pourvoi. La loi qui porte atteinte à la liberté de religion est, de ce seul fait, incompatible avec l’al. 2a) de la Charte et il n’importe pas de savoir si l’accusé est chrétien, juif, musulman, hindou, bouddhiste, athée ou agnostique, ou s’il s’agit d’une personne physique ou morale. C’est la nature de la loi, et non pas le statut de l’accusé, qui est en question[41].
+[Non souligné dans l’original.]
+[51] L’appelante se fonde sur cette dernière observation de la Cour suprême (« [c’]est la nature de la loi, et non pas le statut de l’accusé, qui est en question ») à l’appui de sa thèse portant qu’elle n’a pas à produire une preuve montrant les effets réels de la facturation de la TPS sur ses services pour établir l’existence d’une atteinte à l’alinéa 10b).
+[52] Selon moi, l’appelante isole cette observation de son contexte. La Cour suprême discutait alors la question de la qualité qu’avait l’intimée pour présenter la contestation fondée sur la Charte, et non celle de savoir si elle avait démontré que soit l’objet soit l’effet de la loi étaient inconstitutionnels. La Cour suprême a discuté de ces questions plus loin dans sa décision. La Cour a déjà conclu que l’appelante avait qualité pour débattre la constitutionnalité de la TPS sur les services juridiques en question. La question de savoir si l’appelante a prouvé que la loi, soit sur le plan de son objet soit sur celui de son effet, porte atteinte à l’alinéa 10b) est une question distincte.
+[53] En fin de compte, dans l’arrêt Big M Drug Mart, la Cour a conclu qu’étant donné que l’objet de la loi était d’imposer l’observation d’une pratique religieuse, elle portait atteinte à l’alinéa 2a) et il n’était pas nécessaire d’en examiner les effets. L’objet de la loi a été examiné sous la forme d’une question de droit, qui n’exigeait donc pas de preuve à l’appui. Le juge Dickson a observé :
+D’après la jurisprudence, il n’est tout simplement pas possible de conclure que la Loi sur le dimanche a un objet laïque. L’objet religieux qu’elle poursuit, en rendant obligatoire l’observance du dimanche, est établi depuis longtemps et a été constamment confirmé par les tribunaux de notre pays[42].
+[54] Il ressort de mon analyse de la jurisprudence de la Cour suprême qui porte sur ce point qu’une partie ne peut invoquer des situations hypothétiques en vue d’établir le fondement factuel d’une contestation relative à la Charte que dans les cas où cette partie ne dispose pas de faits concrets. Dans de tels cas, la Cour suprême a été disposée à prendre en compte des circonstances imaginables qui pourraient aisément survenir dans la vie de tous les jours. Dans ces cas, l’utilisation de situations hypothétiques est assimilable au fait que la Cour prenne connaissance d’office de faits ou de circonstances, qui servent alors de fondement probant à la contestation relative à la Charte. Ces situations hypothétiques sont tenues pour vraies parce qu’elles pourraient survenir couramment dans la vie de tous les jours ou qu’elles sont incontestables à première vue.
+[55] La partie sera également dispensée de l’obligation de présenter un fondement factuel quelconque dans les cas où l’inconstitutionnalité de la loi contestée est manifeste au vu de la loi elle-même.
+[56] À part ces exceptions restreintes, la partie qui conteste une loi est tenue de produire une preuve de ses effets. Je rejette donc la thèse de l’appelante selon laquelle dans toute contestation relative à la Charte la Cour peut se fonder sur des circonstances imaginables en vue d’établir les effets de la loi contestée.
+[57] En outre, étant donné que l’appelante ne soutient pas qu’une preuve concernant l’effet de la TPS sur la capacité qu’ont ses clients mis en détention ou arrêtés de payer ses services n’est pas disponible, je conclus que la présente affaire ne relève pas de l’exception qui est consacrée par l’arrêt Mills et implicitement reconnue par l’arrêt Seaboyer/Gayme.
+[58] Il est également évident que la norme de contrôle applicable à l’article 12 de la Charte qui a été suivie à l’occasion des affaires Goltz et Ferguson n’est pas pertinente en l’espèce.
+[59] Même si on m’avait convaincu que l’appelante était dispensée de l’obligation de présenter des faits concrets relativement à l’application de la TPS aux frais juridiques liés à la fourniture de services de défense en matière criminelle à ses clients mis en détention ou arrêtés, j’aurais quand même conclu qu’elle n’avait pas présenté à la Cour de circonstances raisonnablement imaginables ou de situations hypothétiques qui démontreraient l’existence d’une atteinte aux droits que confère l’alinéa 10b).
+[60] Dans ses conclusions écrites, l’appelante a dit :
+[traduction]
+[…] le degré d’atteinte dépendra de la série de variables, telles que le taux de taxe applicable, la situation financière de l’accusé et les honoraires, tant réels que potentiels, qui, eux-mêmes, seront liés à la durée du procès, le mode de procès choisi, la question de savoir si un ou plusieurs voir-dire ont lieu, le fait de savoir si des experts ont été appelés, le temps de préparation, l’ampleur des recherches juridiques, la convocation de témoins, l’inscription d’un plaidoyer et le dépôt d’un appel. Des honoraires de 30 000 $ au taux de TVH actuel de 12 % imposeront à l’accusé une obligation fiscale de 3 600 $. Ce coût additionnel, suivant les capacités financières de l’accusé, empiètera sur les ressources financières dont il disposera pour préparer une défense contre les accusations portées, y compris le coût des honoraires juridiques plus les taxes[43].
+[61] Toutefois, le cas hypothétique exposé dans cet exemple fait état d’honoraires assumés pour une représentation juridique qui excède nettement le stade de l’arrestation ou de la mise en détention qui fait jouer les droits que visés par l’alinéa 10b) de la Charte. Le droit à l’assistance d’un avocat que garantit l’alinéa 10b) n’est pas un droit qui demeure constant pendant toutes les étapes de la préparation et de l’audition. Il est restreint, vu le libellé de la disposition, au moment de l’arrestation ou de la mise en détention. Par l’arrêt Christie, la Cour suprême a déclaré que le droit énoncé à l’alinéa 10b) joue « dans une situation bien précise » et, par l’arrêt R. c. Willier[44], elle a observé :
+[…] l’al. 10b) donne aux détenus la possibilité de communiquer avec un avocat lorsqu’ils sont privés de leur liberté et sous le contrôle de l’État, et que, de ce fait, ils se trouvent à la merci de son pouvoir et courent un risque sur le plan juridique. L’objectif de l’al. 10b) est de donner aux détenus la possibilité d’atténuer ce désavantage juridique[45].
+[62] Même si le droit à l’assistance d’un avocat au procès peut survenir dans certaines circonstances aux termes de l’article 7 ou de l’alinéa 11d) de la Charte, qui garantissent à une personne un procès équitable conformément aux principes de justice fondamentale[46], au début de la présente audience, l’appelante a renoncé à invoquer l’article 7 de la Charte et a axé ses arguments uniquement sur l’alinéa 10b). C’est donc dire que l’exemple que donne l’appelante n’illustre pas une atteinte hypothétique aux droits que garantit l’alinéa 10b).
+[63] Dans le même ordre d’idées, l’affaire Stein[47] à laquelle l’appelante a fait référence est une affaire américaine qui mettait en cause une ingérence du gouvernement dans les ressources dont disposaient les défendeurs pour préparer une défense contre les accusations portées contre eux. Cette question avait trait à l’équité du procès ainsi qu’à la question de la justice fondamentale. Dans le contexte constitutionnel canadien, il s’agit là d’aspects de droit que garantissent l’article 7 et l’alinéa 11d) de la Charte, et non l’alinéa 10b).
+[64] En réponse à la thèse de l’appelante selon laquelle un préjudice aux droits que l’alinéa 10b) garantit à une personne doit être présumé en l’espèce, la seule chose que je puis dire et qu’il m’est impossible d’imaginer facilement que la personne qui a été arrêtée ou mise en détention serait empêchée, voire dissuadée, de retenir les services d’un avocat dans cette situation-là par le montant additionnel de TPS à payer sur les honoraires d’avocat.
+[65] Enfin, je ne retiens pas la thèse de l’appelante selon laquelle la constitutionnalité de la TPS sur les services de défense en matière pénale est uniquement une question de droit et qu’elle n’est donc pas tenue de produire une preuve quelconque parce qu’il est manifeste à première vue que la taxe fera obstacle à l’accès aux services d’un avocat.
+[66] J’ai déjà conclu que l’appelante n’a pas montré que l’objet de la taxe est expressément axé sur ces services et, étant donné qu’il s’agit d’une taxe d’application générale, il n’y a pas d’analogie entre les faits de la présente affaire et l’exemple qu’a donné le juge Beetz dans l’arrêt Metropolitan Stores Ltd. et qu’a cité le juge Sopinka dans l’arrêt Danson, soit celui d’une loi imposant une religion d’État. Elle n’est pas analogue non plus à l’exemple qu’a donné l’avocat à l’audience, soit celui d’une taxe sur l’entrée dans une église. Comme dans l’exemple d’une loi imposant une religion d’État, une taxe sur l’entrée dans une église aurait un objet manifestement inconstitutionnel.
+Conclusion
+[67] Par ces motifs et en l’absence de preuve que l’un quelconque des clients de l’appelante n’a pu recourir à l’assistance d’un avocat à cause de la TPS à payer sur les services juridiques fournis, je conclus qu’il y a lieu de répondre ainsi à la question qui a été déférée à la Cour pour décision, et modifiée par la supression de la mention de l’article 7 de la Charte :
+Compte tenu des faits énoncés dans l’exposé conjoint des faits que les parties ont déposé, la taxe sur les produits et services (TPS) qu’impose l’article 165 de la Loi sur la taxe d’accise ne porte pas atteinte aux droits que tirent de l’alinéa 10b) de la Charte des droits et libertés les clients de l’appelante et n’est pas incompatible avec ces droits.
+Les dépens de la requête sont adjugés à l’intimée sur la base partie-partie.
+Signé à Ottawa, Canada, ce 28e jour de janvier 2013.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 6e jour de novembre 2013.
+François Brunet, réviseur
+RÉFÉRENCE : 2013 CCI 27
+No DU DOSSIER DE LA COUR : 2007-3627(GST)G
+INTITULÉ : STANLEY J. TESSMER LAW CORPORATION c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 15 décembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 28 janvier 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Craig C. Sturrock
+Avocats de l’intimée :
+Me David Jacyk
+Me Darren McLeod
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Craig C. Sturrock
+Cabinet : Thorsteinsson LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C., 1985, ch. E-15.
+[2] Partie I de la Loi constitutionnelle de 1982.
+[3] [1999] A.C.I. no 220.
+[4] Stanley J. Tessmer Law Corporation c. La Reine, 2009 CCI 104.
+[5] (1998) 40 B.C.L.R. (3d) 181.
+[6] Ibidem, aux paragraphes 12 à 15.
+[7] Ibidem, au paragraphe 84.
+[8] Ibidem, au paragraphe 90.
+[9] Ibidem, au paragraphe 105.
+[10] [1998] 8 2 R.C.S. viii.
+[11] [2007] 1 R.C.S. 873.
+[12] Ibidem, au paragraphe 28.
+[13] 2010 BCSC 1023.
+[14] Ibidem, au paragraphe 7.
+[15] Ibidem, au paragraphe 23.
+[16] Précité, note 3.
+[17] Ibidem, aux paragraphes 7 et 11
+[18] [1999] 3 R.C.S. 668.
+[19] [1991] 3 R.C.S. 485.
+[20] [1991] 2 R.C.S. 577.
+[21] [1985] 1 R.C.S. 295.
+[22] SI 05 Crim. 0888 LAK, Cour de district des États-Unis, district sud de New York, 26 juin 2006).
+[23] Précité, note 7, à la page 331.
+[24] [1989] 2 R.C.S. 357.
+[25] Ibidem, aux pages 361-362.
+[26] [1990] 2 R.C.S. 1086.
+[27] Ibidem, à la page 1099.
+[28] Ibidem, à la page 1099.
+[29] Précité, note 5.
+[30] Précité, note 6.
+[31] Précité, note 5, aux paragraphes 36 à 41.
+[32] R. c. Smith [1987] 1 R.C.S. 1045.
+[33] Précité, note 6, à la page 515.
+[34] [1987] 1 R.C.S. 110.
+[35] Précité, note 34, à la page 133.
+[36] Précité, note 27, à la page 110.
+[37] Précité, note 20.
+[38] Précité, note 21.
+[39] 2008 CSC 6
+[40] Précité, note 34, aux paragraphes 29 et 30.
+[41] Précité, note 7, aux paragraphes 40 et 41.
+[42] Précité, note 7, au paragraphe 78.
+[43] Argumentation écrite de l’appelante, au paragraphe 22.
+[44] 2010 CSC 37.
+[45] Ibidem, au paragraphe 28.
+[46] R. c. Rowbotham (1988) 41 C.C.C. (3d) (C.A. Ont.).
+[47] Précité, note 9.

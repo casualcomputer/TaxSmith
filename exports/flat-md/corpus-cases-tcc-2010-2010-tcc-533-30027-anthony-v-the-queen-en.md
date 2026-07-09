@@ -1,0 +1,350 @@
+---
+title: "Anthony v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30027/index.do"
+last_modified: "2010-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 533"
+citation2: ""
+neutral_citation: "2010 TCC 533"
+decision_date: "2010-10-21"
+language: "en"
+item_id: "30027"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7659
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:56:02.265000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "42cb254963a3447bbd041cfb5bacf6d66431390f4118f52238caa4b0721f58a3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anthony v. The Queen
+
+- Citation: 2010 TCC 533
+- Decision date: 2010-10-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7659, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anthony v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-21
+Neutral citation
+2010 TCC 533
+File numbers
+2009-618(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-618(IT)I
+BETWEEN:
+GERALDINE ANTHONY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Heather Friesen, 2009-619(IT)I, Leslie Morgan, 2009- 620(IT)I and Jarrod Baker, 2009‑621(IT)I, on September 24 and 25, 2009 and on March 18 and 19, 2010, at Toronto, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+Counsel for the Appellants:
+Jacques Bernier
+Counsel for the Respondent:
+Bobby Sood and Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the parking provided to the Appellant by her employer was a benefit from employment and the value of that benefit was $675 in 2003 and $693 in 2004.
+Signed at Ottawa, Canada, this 21st day of October, 2010.
+“Brent Paris”
+Paris J.
+Docket: 2009-619(IT)I
+BETWEEN:
+HEATHER FRIESEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Geraldine Anthony, 2009-618(IT)I, Leslie Morgan, 2009-620 and
+Jarrod Baker, 2009‑621(IT)I, on September 24 and 25, 2009 and on March 18 and 19, 2010, at Toronto, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+Counsel for the Appellants:
+Jacques Bernier
+Counsel for the Respondent:
+Bobby Sood and Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the parking provided to the Appellant by her employer was a benefit from employment and the value of that benefit was $675 in 2003 and $693 in 2004.
+Signed at Ottawa, Canada, this 21st day of October, 2010.
+“Brent Paris”
+Paris J.
+Docket: 2009-620(IT)I
+BETWEEN:
+LESLIE MORGAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Geraldine Anthony, 9-619(IT)I, Heather Friesen, 2009-619(IT)I and Jarrod Baker, 2009‑621(IT)I, on September 24 and 25, 2009 and on March 18 and 19, 2010, at Toronto, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+Counsel for the Appellants:
+Jacques Bernier
+Counsel for the Respondent:
+Bobby Sood and Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the parking provided to the Appellant by her employer was a benefit from employment and the value of that benefit was $675 in 2003 and $693 in 2004.
+Signed at Ottawa, Canada, this 21st day of October, 2010.
+“Brent Paris”
+Paris J.
+Docket: 2009-621(IT)I
+BETWEEN:
+JARROD BAKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Geraldine Anthony, 2009-618(IT)G, Heather Friesen, 2009-619(IT)I and
+Leslie Morgan, 2009- 620(IT)I, on September 24 and 25, 2009 and on March 18 and 19, 2010, at Toronto, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+Counsel for the Appellants:
+Jacques Bernier
+Counsel for the Respondent:
+Bobby Sood and Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessment made under the Income Tax Act for the 2004 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the parking provided to the Appellant by his employer in 2004 was a benefit from employment and the value of that benefit was and $269.50.
+Signed at Ottawa, Canada, this 21st day of October, 2010.
+“Brent Paris”
+Paris J.
+Citation: 2010 TCC 533
+Date: 20101021
+Docket: 2009-618(IT)I, 2009-619(IT)I
+2009-620(IT)I, 2009-621(IT)I
+BETWEEN:
+GERALDINE ANTHONY, HEATHER FRIESEN,
+LESLIE MORGAN and JARROD BAKER,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The issues in these appeals are whether the free parking provided to the Appellants by their employer was a benefit under paragraph 6(1)(a) of the Income Tax Act (Act), and if so, what the value of that benefit was.
+[2] The Appellants were employed by Branksome Hall, a non-profit private school in the Toronto neighbourhood of Rosedale. They, along with approximately 100 other employees, were reassessed for their 2003 and 2004 taxation years to include $92 per month in their income, which the Minister of National Revenue (Minister) determined to be the value of the free parking provided by Branksome Hall, including GST and PST.
+[3] These four appeals were chosen as test cases and were heard on common evidence.
+Background
+[4] Branksome Hall is located on a 23-acre campus at the intersection of Mount Pleasant Road and Elm Avenue in Toronto. At the time of the hearing, the school had about 870 students and 160 faculty and staff.
+[5] Prior to September 2003, the school provided unreserved free parking to faculty and staff, in several different lots, in various locations on its campus. In September 2003, it implemented a system of assigned parking spots for employees. The new system was necessary because some of the parking areas were redeveloped for other uses, which reduced the supply of parking places. As in the past, the school did not charge for parking. Employees who did not park at the school were not given any additional compensation.
+[6] After September 2003, employees were required to apply to the school for a parking space. Each year the demand was slightly greater than the supply, and a few employees did not get a space. In all, there were 105 parking spaces available. An unspecified number of these were “tandem” spaces, meaning one car had to be parked directly in front of another. The car that was behind could only leave if the first car was moved. Employees
+[7] The gates to the parking area at the school were locked during evenings and weekends. On weekdays the gates would be opened at 6:00 a.m. and, depending on the lot, would be locked at 6:00 p.m. or 10:00 p.m. The lots were closed for the Christmas holidays, during March break and for the summer holidays. Students were not allowed to park on school property.
+Evidence of the Appellants
+[8] Ms. Leslie Morgan was Associate Director of Human Resources at Branksome Hall and had worked at the school since 1997. In 2003 and 2004, she drove to work and parked at the school. She said she did so for convenience, and that she did not believe she saved any money by driving rather than by taking public transit. She also said that there were free parking spots on Elm Avenue and on surrounding streets where one could park until 4:00 p.m. She worked until 4:30 p.m.
+[9] During the audit that led to these reassessments, Ms. Morgan was asked to give the Canada Revenue Agency (CRA) auditor a list of employees who used the free parking for the period January 2003 to December 2004. She said that, in preparing the list for the CRA auditor, she had assumed that all employees who parked at the school after September 2003 had also parked there prior to September 2003. In her testimony, Ms. Morgan said that she later realized that there was no way of knowing who had parked at the school prior to September 2003, because prior to that time the school did not keep a record of who parked at the school and therefore that the list she provided was unreliable to this extent. She had advised the auditor that this was the case, in a follow-up letter.
+[10] Ms. Geraldine Anthony was an administrative assistant at the school in 2003 and 2004. She often drove to work, but sometimes took the subway. She drove for convenience, and like Ms. Morgan, said she did not save anything by driving instead of taking transit. From September 2003 on, she was assigned a tandem parking spot at the school. She indicated that she did not encounter any difficulties using the tandem spot.
+[11] Mr. Jarrod Baker started teaching at Branksome Hall in September 2003. He drove to work, but in the 2003-2004 school year, no parking space was available for him at the school, so he parked on the surrounding streets. He said that he was able to park on Crescent Street, a five—minute walk from the school, until 4:00 p.m. daily. On those occasions when he worked past 4:00 p.m., he would move his car during the day to Sherbourne Street, where parking was only prohibited from 9:00 a.m. to 11:00 a.m. daily. In September 2004, he was assigned a parking spot at the school. He said he chose to park there for convenience, reliability, and out of necessity.
+[12] The remaining Appellant, Ms. Heather Friesen, was unable to attend the hearing of these appeals. Counsel indicated that she intended to rely on the evidence given by the other three Appellants concerning parking at Branksome Hall.
+Evidence of Eugene Zenger
+[13] Mr. Zenger was the Director of Facilities at Branksome Hall during the relevant period. He testified that approximately 0.3 acres of school property was used for employee parking, and he estimated that the cost of snow removal and salting together with the amortized cost of paving for this area was approximately $20,000 per year.
+[14] Mr. Zenger also gave evidence that in 2005 he had made enquiries with the owner of Clifton Manor, an apartment building across the street from the school, about the possibility of the school renting parking there in the future. He said that in December 2005, he received an email from the property manager at Clifton Manor indicating that the cost of parking was $85 per spot per month but that if the school rented 10 spots, the cost would be $55 per spot per month[1].
+Expert Evidence
+[15] Three expert witnesses (one for the Appellants and two for the Respondent) gave opinion evidence about the fair market rental rate for the parking at the school. Each expert used the direct comparison approach in their valuation of the parking in issue. This approach values property by reference to transactions involving similar properties.
+[16] The Appellants’ expert, Mr. Edward Bruce, examined parking rates at Clifton Manor, at several commercial parking lots in the vicinity of Branksome Hall, and at a number of public institutions such as schools, hospitals and health care facilities with lots adjacent to their facilities.
+[17] He rejected the commercial lots and the lots operated by hospitals as relevant comparables, because they were operated for profit. He said that zoning restrictions prevented Branksome Hall from allowing parking on its premises with an exception for parking incidental to the operation of the school. Mr. Bruce concluded that the parking at Branksome Hall could not be used in a commercial operation, and that the rental value of the school parking was not comparable to the rental value of parking space in lots operated with a profit motive.
+[18] The comparables which Mr. Bruce felt were most indicative of the value of the Branksome Hall parking, after making certain adjustments, were:
+(i) parking offered at Clifton Manor;
+(ii) parking at several long-term health care facilities and rehabilitation centres in Toronto; and
+(iii) parking at the campuses of Seneca College in Markham, in the Township of King (north of the GTA) and at Don Mills and Finch.
+[19] Clifton Manor offered underground parking across the street from the school on Elm Avenue for $85 per month. However, on the basis of the offer made to Mr. Zenger in December 2005, Mr. Bruce used a monthly rental rate of $55 per month for this comparable. Mr. Bruce applied a discount to the Clifton Manor parking rate on the basis that the Branksome Hall parking spaces, being in surface lots, were inferior to underground parking.
+[20] Mr. Bruce also relied heavily on the monthly rates charged for employee parking at seven health care facilities in various parts of Toronto. Mr. Bruce said that the first five of these facilities was operated by “Toronto Rehab” and charged $42 per month for employee parking in 2009. The Providence and Bridgepoint facilities charged $30 and $60 per month to their employees, respectively.
+[21] Finally, Mr. Bruce also considered parking offered at the three Seneca College locations as reliable indicators of the value of parking at Branksome Hall. The parking rates in those locations ranged from $44 to $54 per month at the time of Mr. Bruce’s report.
+[22] He also applied a discount to take into account the increase in parking rates over time and applied a 25% discount for tandem stalls to take into account “potential disruption and inconvenience” to users.
+[23] In conclusion, in Mr. Bruce’s opinion, the fair market rental value of the employee parking spots at the Branksome Hall was $40 per month for an individual parking space and $30 per month for a tandem space in 2003. He found that the value for both types of spaces increased by $1 per month for 2004.
+[24] The Respondent’s first expert witness, Mr. Brian Walsh, testified that, in his opinion, the fair market rental rate of the Branksome Hall parking was $75 per month per parking spot in 2003. In arriving at that rate, Mr. Walsh relied on three different sets of comparables:
+(i) properties at commercial lots on the periphery of the Rosedale neighbourhood;
+(ii) parking at universities and private colleges in what he described as “the surrounding area”; and
+(iii) parking at residential apartment buildings in the neighbourhood of the school.
+[25] He described the trend that he observed in the commercial parking rates that he reviewed, namely, that the rates decreased going north along Yonge Street and moving either east or west from Yonge Street. The commercial lot closest to Branksome Hall charged a rate of $150 per month, which he said was at the low end of the range ($100-$217) of commercial lots he looked at.
+[26] Mr. Walsh chose certain university and private college parking lots on the basis that they were “similar in character” to Branksome Hall and close in proximity and size to the parking areas at Branksome Hall. He felt those lots would would offer comparative rates for staff parking. The rates at these lots varied from $83 to $155 per month.
+[27] Mr. Walsh also considered parking offered at five residential apartment buildings in Rosedale, where the charges ranged between $85 and $105 per month. The closest building to Branksome Hall was Clifton Manor, which according to his research offered underground parking for $85 per month. He was unaware of the offer made to Mr. Zenger for a discount rate for 10 spots.
+[28] On the basis of what Mr. Walsh referred to as “the collective patterns of all of the data” relating to the three categories of parking he examined, he arrived at a value of $85 per month for the equivalent monthly parking at Branksome Hall at December 31, 2008. He further determined that rates at the commercial lots closest to the school had increased by 12% between 2003 and 2008, and on the basis of this figure, obtained a value of $75 per month for parking at Branksome Hall in 2003.
+[29] The Respondent’s second expert, Mr. Don Bennett, relied on four comparables, all of which were commercial lots on Bloor Street offering monthly parking rates. These lots charged between $120 plus tax and $262.39 plus tax per month.
+[30] Applying an adjustment of 50% for location and 10% to take into account that the Branksome Hall parking was in a surface lot as opposed to being covered, Mr. Bennett arrived at a fair market rental rate of $80 per month for the Branksome Hall parking spaces.
+[31] Mr. Bennett stated that he rejected street parking as an appropriate comparable because of restrictions in effect on the streets surrounding Branksome Hall. These restrictions included no parking between 7:00 a.m. and 9:00 a.m., between 9:00 a.m. and 1:00 p.m., between 8:00 a.m. and 4:00 p.m. and from 4:00 p.m. to 6:00 p.m. Elm Avenue offered unrestricted parking daily before 4:00 p.m., but Mr. Bennett noted that only 13 spaces were available there.
+First issue: Did the Appellants receive a benefit?
+Appellants’ position
+[32] First, the Appellants’ counsel argued that free parking provided to the Appellants did not represent either a material acquisition, or anything of value. He said that the Appellants had no right to receive the free parking, and were required to apply each year for it. If there were more applicants than spaces, not everyone was given a space, and no compensation was provided to those who applied but did not receive a space.
+[33] Counsel also submitted that the Appellants did not save any money by being allowed to park at the school. Ms. Morgan and Ms. Anthony testified that it cost them as much to drive as take transit.
+[34] Counsel conceded that the free parking at the school was convenient for the Appellants, but suggested that convenience alone was not an economic benefit. Finally, counsel argued that the cost to the school of providing the parking was minimal – less than a dollar a day according to the evidence of Mr. Zenger.
+[35] In the alternative, counsel submitted that if an economic benefit accrued to the Appellants in this case, the benefit was incidental to the operation of the school. Counsel said that the parking was a “mere incident” of the school’s infrastructure, and could only be used for school purposes.
+Analysis
+[36] Paragraph 6(1)(a) brings into income the value of any benefits received by an employee as a result of his or her employment. The relevant portions of that provision read as follows:
+6(1) There shall be included in computing the income of a taxpayer for a
+taxation year as income from an office or employment such of the following amounts as are applicable
+(a) the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, …
+[37] In Schroter v. The Queen,[2] Dawson JA reviewed the relevant case law and set out the principles to be used in order to determine whether a benefit, within the meaning of paragraph 6(1)(a), has been received. The following portions of her reasons are relevant for the purpose of establishing whether the Appellants in this case received a benefit from employment:
+15 Paragraph 6(1)(a) is cast in broad terms. It attempts to capture in employment income various fringe or ancillary benefits, whether received in monetary or other form. …
+16 In R. v. Savage, [1983] 2 S.C.R. 428 (S.C.C.), the Supreme Court held the meaning of the phrase "benefits of any kind whatsoever" in paragraph 6(1)(a) was "clearly quite broad" and the phrase "in respect of" was intended to convey the widest possible scope. The paragraph was held to take into income a material acquisition which conferred an economic benefit, so long as the acquisition did not fall within one of the exceptions, and so long as the acquisition was received in connection with employment.
+17 In Phillips v. Minister of National Revenue, [1994] 2 F.C. 680 (Fed. C.A.) at page 693, this Court expressed the intent of the provision in the following terms:
+An economic advantage received by an employee from his or her employer will be deemed a benefit within the meaning of paragraph 6(1)(a) unless the employee can demonstrate that the payment was not a benefit in respect of employment, but made in his or her capacity as a person. Framed in this manner, the test is able to embrace conveniently the categories of gifts, loans and other contractual arrangements.
+…
+20 … this Court confirmed in Phillips that to be a taxable benefit a payment must confer an economic advantage on the employee. The Court cautioned, however, that economic benefit “cannot be assessed on the basis of subjective criteria and that the taxation of benefits cannot be made to depend on the perceptions of individual taxpayers.
+…
+23 A further factor relevant to the economic advantage analysis has been articulated by this Court in cases such as Lowe v. R, [1996] 2 C.T.C. 33 (Fed. C.A). If an employee receives an economic advantage, but the primary beneficiary of that receipt is the employer, no benefit arises under paragraph 6(1)(a). At issue in Lowe was whether an expense paid trip to New Orleans constituted benefit under paragraph 6(1)(a). At paragraph 15 the Court wrote:
+[…] It seems to me in light of existing jurisprudence that no part of the appellant’s trip expenses should be regarded as a personal benefit unless that part represents a material acquisition for or something of value to him in an economic sense and that if the part which represents a material acquisition or something of value was a mere incident of what was primarily a business trip it should not be regarded as a taxable benefit within paragraph 6(1)(a) of the Act.
+[38] The Appellant’s argument that they did not receive a material benefit by virtue of being given free parking at the school cannot succeed. Firstly, I find that the Appellants did have a right to a parking spot at the school by virtue of their employment.
+[39] Prior to September 2003, the evidence shows that there was sufficient parking for all employees, and after September 2003 (September 2004 in Mr. Baker’s case) a parking space was assigned to them and they were entitled to use that space during the school year. Quite rightly, counsel acknowledged that they received “something for nothing” and even the evidence led by them indicated that this benefit was material. Mr. Zenger said that the cost to the school of providing the parking was at least $20 per month and Mr. Bruce put the fair market rental rate of the parking at $40 per month.
+[40] The fact that no compensation in lieu of parking was given to the employees who did not get a spot or who did not want one does not change the fact that the right enjoyed by the Appellants was something of value.
+[41] I am also not persuaded that the benefit to the Appellants was merely incidental to any benefit to the school. In fact, there was no evidence at all that any benefit arose to the school as a result of providing parking to its employees. None of the Appellants were required to use their vehicle in the course of their employment, and I fail to see how Branksome Hall could have otherwise been the primary beneficiary of the parking arrangement.
+[42] I am likewise unconvinced that the Appellants saved nothing by parking at the school. In their testimony, Ms. Morgan and Ms. Anthony were comparing driving their own vehicles and parking at the school with taking public transit. The appropriate comparison, however, would be between driving to work and parking at the school, and driving to work and parking somewhere else for the duration of the workday. In the absence of evidence on this point, this argument must fail.
+Second issue: How is the benefit valued?
+[43] Having found that the Appellants received a benefit from Branksome Hall in the form of free parking, the “value” of that benefit must be included in their income. The first question that arises is the basis on which the benefit is to be valued.
+Appellants’ position
+[44] Counsel for the Appellants argued that the word “value” in paragraph 6(1)(a) can mean something other than fair market value. He pointed out that in other sections of the Act, such as section 69, Parliament has used the term fair market value. He submitted, therefore, that if Parliament intended to require that the fair market value of employment benefits be included in income, it would have used those words.
+[45] Counsel referred to the decision of this Court in Detchon et al v. The Queen[3], where the taxpayers were teachers at a private school, and their children were allowed to attend the school free of charge. The Minister assessed the taxpayers on the basis that they had received a benefit from their employer in the form of free tuition for their children, and that the value of the benefit was equal to the amount of tuition charged to other parents whose children attended the school.
+[46] Rip J. (as he then was) held that the value of the benefit received by the taxpayers, in respect of each of their children that attended the school, was equal to the employer’s average cost per student of providing the schooling, rather the amount charged to the other parents. In doing so, Rip J. said:
+[T]here is no obligation for an employer to charge its employees for a good or service any more than its actual cost of the good or service. The employer need not add any profit element and indirect overhead costs to any good or service it provides to its employees: ABC Steel Buildings Ltd. et al v. M.N.R., 74 DTC 424 (T.R.B.).
+Counsel for the Appellants cited two other cases, Stauffer v. The Queen[4] and Spence v. The Queen[5], in which this Court followed Detchon and found that the value of the employment benefits in issue was equal to the employer’s cost of providing the benefits.
+[47] It was also submitted by the Appellants that the context and purpose of paragraph 6(1)(a) militated to favour a finding that the employer’s cost was the appropriate measure of the value of a benefit provided to employees. Counsel stated that this interpretation of “value” accords with the purpose of paragraph 6(1)(a) which was to prevent employees who received non-cash compensation from being better off than they would be if they received cash compensation. He said that paragraph 6(1)(a) aims at taxing amounts that pass from an employer to an employee, which is the cost to the employer of providing the benefit.
+[48] Counsel said that the application of the principle that there is no obligation on an employer to charge mark-up on the goods or services it sells or provides to an employee makes even more sense in this case, given that Branksome Hall is a non‑profit entity. He also cited the CRA's own administrative policy, which states that employee discounts on merchandise are not normally regarded as employment benefits. This is set out in paragraph 27 of Interpretation Bulletin IT-470R:
+27. Where it is the practice of an employer to sell merchandise to employees at a discount, the benefits that an employee may derive from exercising such a privilege are not normally regarded as taxable benefits. However, this does not extend to an extraordinary arrangement with a particular employee or a select group of employees nor to an arrangement by which an employee is permitted to purchase merchandise (other than old or soiled merchandise) for less than the employer's cost. Furthermore, this treatment does not extend to a reciprocal arrangement between two or more employers whereby the employees of one can exercise such a privilege with another by whom the employees are not employed. A commission received by a sales employee on merchandise acquired for that employee's personal use is not taxable. Similarly, where a life insurance salesperson acquires a life insurance policy, a commission received by that salesperson on that policy is not taxable provided the salesperson owns that policy and is obligated to make the required premium payments thereon.
+[49] The CRA also accepts that the value of subsidized meals provided by an employer to its employees is the employer’s cost of supplying and serving the meals (see IT-470R, paragraph 28).
+[50] The Appellants’ counsel contended that valuing employee benefits at the employer’s cost for the purposes of paragraph 6(1)(a) is also preferable from an administrative perspective, because the employer’s cost of providing the benefit is within the employer’s knowledge or can be easily calculated. He said that this approach results in greater certainty and predictability, which the Supreme Court has underlined as important considerations in the interpretation of fiscal legislation.
+Analysis: Second issue
+[51] In Schroter, cited earlier in these reasons, the Federal Court of Appeal has confirmed that, generally speaking, fair market value is the appropriate measure of the value of an employment benefit for the purposes of paragraph 6(1)(a) of the Act. In that case, the taxpayer argued that the value of the benefit he received from his employer was only equal to the amount it would have cost him to commute to work using public transit. The Court of Appeal rejected the notion that an employment benefit could be valued using this “costs saved” approach and said:
+47 The equal treatment of taxpayers is facilitated by valuing their benefits at their fair market value. On an administrative basis, the Canada Revenue Agency recognizes this and instructs employers that where the fair market value of a parking pass cannot be determined, no benefit should be added to an employee’s remuneration. Where the fair market value can be determined, employers are instructed that the value of the benefit is based on the fair market value of the parking pass, less any payment the employee makes to use the space. See: Canada Revenue Agency, Employers’ Guide – Taxable Benefits and Allowances 2009, T4130(E) Rev. 09.
+48 Given the inherent fairness of this method of valuation, and the absence of objective evidence demonstrating that a fair market value based valuation is somehow inappropriate on the facts of this case, the Tax Court judge did not err by valuing the parking pass in the amount of its fair market value.
+[52] This interpretation of the word “value” in paragraph 6(1)(a) is consistent with the interpretation that has been placed on the same word in other provisions of the Act. For example, in Steen v. The Queen,[6] the Federal Court Trial Division held that the words “the value of the shares”, in paragraph 7(1)(a) of the Act (dealing with stock option benefits), referred to the fair market value of the shares. In arriving at this conclusion, Rouleau J. said:
+35 The plaintiff argued before me that because the word "value" is used in paragraph 7(1)(a) rather than the term "fair market value", which is used in several other provisions of the Act, some difference in meaning was intended by the legislators. However, for most purposes concerning provisions of the Act the term value has been held to mean "market value" or "fair market value". In Untermyer Estate v. A.G. for British Columbia, [1929] S.C.R. 84 the issue before the Court was the value to be attributed to certain shares held by the appellant at the time of his death for succession duty purposes. Speaking for the Court, Mignault, J. stated at 91:
+We were favoured by counsel with several suggested definitions of the words "fair market value". The dominant word here is evidently "value", in determining which the price that can be secured on the market -- if there be a market for the property (and there is a market for shares listed on the stock exchange) -- is the best guide. It may, perhaps, be open to question whether the expression "fair" adds anything to the meaning of the words "market value", except possibly to this extent that the market price must have some consistency and not be the effect of a transient boom or a sudden panic on the market. The value with which we are concerned here is the value at Untermyer's death, that is to say, the then value of every advantage which is properly possessed, for these advantages, as they stood, would naturally have an effect on the market price. Many factors undoubtedly influence the market price of shares in financial or commercial companies, not the least potent of which is what may be called the investment value created by the fact -- or the prospect as it then exists -- of large returns by way of dividends, and the likelihood of their continuance or increase, or again by the feeling of security induced by the financial strength or the prudent management of a company. The sum of all these advantages controls the market price, which, if it be not spasmotic or ephemeral, is the best test of the fair market value of property of this description.
+I therefore think that the market price, in a case like that under consideration, where it is shown to have been consistent, determines the fair market value of the shares. [Emphasis added.]
+36 In Montreal Island Power Company v. The Town of Laval Des Rapides, [1935] S.C.R. 304, in analyzing the propriety of an assessment of the actual value of a parcel of submerged land for taxation purposes, Duff, C.J.C. noted the following at 305:
+[...] The meaning of "actual value," when used in a legal instrument, subject, of course, to any controlling context, is indicated by the following passage from the judgment of Lord MacLaren in Lord Advocate v. Earl of Home (1891) 28 Sc. L.R. 289, at 293:
+Now, the word "value" may have different meanings, like many other words in common use, according as it is used in pure literature, or in a business communication or in conversation. But I think that "value" when it occurs in a contract has a perfectly definite and known meaning unless there be something in the contract itself to suggest a meaning different from the ordinary meaning. It means exchangeable value -- the price which the subject will bring when exposed to the test of competition.
+When used for the purpose of defining the valuation of property for taxation purposes, the courts have, in this country, and, generally speaking, on this continent, accepted this view of the term "value." [Emphasis added.]
+[53] Also, in Youngman v. The Queen,[7] it appears that the Federal Court of Appeal accepted that the “value” of a shareholder benefit, required to be included in a taxpayer’s income under section 15, was equal to the fair market value of the benefit. At paragraph 19, the Court said:
+19 In order to assess the value of a benefit, for the purposes of paragraph 15(1)(c), it is first necessary to determine what that benefit is or, in other words, what the company did for its shareholder; second, it if necessary to find what price the shareholder would have had to pay, in similar circumstances, to get the same benefit from a company of which he was not a shareholder.
+[54] The decision of the Federal Court of Appeal in Schroter would suggest that the decisions from this Court in Detchon, Stauffer and Spence should be viewed with caution. While Schroter leaves open the possibility that another approach to valuation might be used where there is “objective evidence demonstrating that a fair market based-valuation is somehow inappropriate on the facts of [the] case”, I am unable to see that such evidence was before the Court in Detchon or Stauffer or Spence.
+[55] In Detchon, for example, the fair market value of the tuition was readily apparent from what other parents paid for their children’s tuition. In any event, the Court did not set out its reasons for rejecting a fair market valuation for the benefit in favour of the employer’s cost approach. In Stauffer, the Court simply followed Detchon without analyzing the issue. In Spence, the Court relied expressly on Detchon, and held that the benefit of reduced tuition offered to the children of the taxpayers at a school run by their employer was to be valued on the basis of the employer’s costs. Although Spence was decided after the Court of Appeal decision in Schroter, the judge does not appear to have had the benefit of the appellate court’s reasons. Furthermore, there is no mention of any circumstances in Spence that would justify displacing the general rule that employment benefits should be valued at their fair market value.
+[56] The decision of the Court of Appeal in Schroter also suggests to me that the proposition put in Detchon that employee discounts are not benefits that would be caught under what is now paragraph 6(1)(a) is also doubtful. Since the fair market value of goods or services is what an unrelated third party is willing to pay for the goods or services, a discount offered by an employer to its employees from the normal sale price would be a discount from fair market value, and would be a benefit to the employee, equal in value to the discount unless, of course, it could be shown that the goods or services could not be sold to the public at the normal selling price.
+[57] In light of Schroter, I would decline to place any weight on the Detchon, Stauffer or Spence decisions.
+[58] I find that the evidence in this case does not show that a fair market valuation of the parking provided to the Appellants is in any way inappropriate. The evidence discloses that there is a market for parking in the area of the school, and that the rates for that parking are determinable. As such, a fair market value is, in my view, the fairest method of valuation in the circumstances.
+[59] Even if I had accepted that the parking benefit to the Appellants should be valued at Branksome Hall’s cost of providing the parking, I would have concluded that the evidence adduced by them was not sufficient to prove what those costs were. I find that the estimate of costs prepared by Mr. Zenger is unreliable, and may materially under-estimate those costs.
+[60] Firstly, Mr. Zenger did not take into account any cost of maintaining the driveways used to access the parking lots. Although some of those driveways were not used exclusively for the purpose of access, it would be reasonable to allocate at least a portion of the costs associated with those areas to the cost of providing the parking lot. The paved areas that were used exclusively to access the parking spaces and to allow cars to turn in to and out of the spaces should certainly have formed part of his calculations but the evidence leaves some doubt as to whether this was the case.
+[61] As well, Mr. Zenger did not include any costs of the parking area in front of 10 Elm Avenue, because he said this area was for visitor parking. The evidence of Ms. Judy Gordon, director of financial and administration at Branksome Hall, was that eight of the employee parking spots were located in front of 10 Elm.[8] Finally, as pointed out by counsel for the Respondent, the cost estimate omitted any amount for insurance or for gates or fencing used to enclose the parking areas.
+Third issue: Value of the parking benefit
+Appellants’ position
+[62] Counsel for the Appellants argued that Mr. Bruce’s valuation of the parking at Branksome Hall was the most reliable indication of value before the Court, because it took into account the zoning restrictions on the use of the school property that limited parking to an accessory use to the operation of the school. Since the school could not operate a commercial parking lot open to the public, he said Mr. Bruce correctly rejected the commercial lots in the vicinity of the school as comparable for the purpose of establishing market value, and chose comparables whose utility more closely matched that of the parking at Branksome Hall.
+[63] He further submitted that the evidence of value provided by the Respondent’s two expert witnesses should be given little weight because, unlike Mr. Bruce’s report, neither of their reports conformed to the standard set by the Appraisal Institute of Canada for the preparation of a formal opinion of value as set out in the Institute’s publication entitled “Canadian Uniform Standards of Professional Accounting Practice” (CUSAP).[9] The consulting reports that they prepared fell short of what was required by CUSAP because they failed to consider the impact of the zoning restrictions affecting the Branksome Hall parking, and failed to address the highest and best use of that property. Counsel said the reports were “not proper” and were of no probative value. He also said that Mr. Bennett’s report was of limited scope because it relied entirely on four comparables all of which were commercial parking lots, and as a result, Mr. Bennett “equated Branksome Hall to some fictitious commercial lot on Bloor Street.”
+[64] With respect to Mr. Walsh’s report, counsel for the Appellants said that all of the comparables used, with one exception, were dissimilar to the parking at Branksome Hall and were not appropriate for establishing the fair market value of the parking at Branksome Hall.
+[65] Finally, he said that Mr. Walsh had become an advocate, rather than an impartial expert in this matter because in his report, he referred to valuing the “parking benefit”.
+Respondent’s position
+[66] Counsel for the Respondent submitted that the appropriate value of the parking at Branksome Hall was the market value for parking near Branksome Hall. He said further that the issue of the zoning for the school was not relevant, because under the zoning restrictions, all of the Appellants were entitled to use the parking. Therefore, the parking was something of value because it was a right that others would pay for.
+[67] Counsel also argued that it was not necessary for Mr. Bennett and Mr. Walsh to prepare an appraisal report in order to express an estimate of market rental value. He said that an appraisal report is only required under CUSAP if a fee simple interest in land was being valued, which was clearly not the case here. He also stated that, regardless of the form of their reports, their opinions should be assessed on their merits and not on the form in which they presented their findings.
+[68] Counsel submitted that both Mr. Bennett and Mr. Bruce attempted to draw values from parking properties in similar areas and as close to Branksome Hall as possible and with similar utility to the parking that was provided to the Appellants, and also that their valuations were consistent and conservative.
+[69] Counsel asked the Court to reject Mr: Bruce’s valuation on the basis that each of the three groups of properties he chose as comparables were inappropriate. Firstly, the rate of $55 per month for parking at Clifton Manor (supposedly offered to Mr. Zenger) could not be verified by Mr. Bruce, and therefore, the rate should not be relied upon. Secondly, the long-term care facilities and Seneca College Campuses were a considerable distance from Branksome Hall and being much farther from downtown than the school, it would be expected that the rates there would be much lower. Given the distance, he said that it was common sense that these locations would not have any bearing on the rate for parking at the school.
+Third issue: Analysis
+[70] With respect to the Appellants’ first argument, I agree that the consulting reports prepared by Mr. Bennett and Mr. Walsh do not conform to CUSAP standards for preparing an estimate of value. Part 11.1.1 of CUSAP provides that consulting “is a broad term that is applied to studies of real estate other than estimating value” (my emphasis). Part 11.1.1 goes on to state that:
+[the] standard developed for consulting services does not provide for real property appraisals. If an appraisal is required within the consulting assignment, it must be developed under the Appraisal Standards.
+“Real property” is defined in Part 2.45 of CUSAP as:
+The interests, benefits and rights inherent in the ownership of real estate.
+“Appraisal” is defined in Part 2.6 as:
+A formal opinion of value: prepared as a result of a retainer; intended for reliance by identified parties, and for which the appraiser assumes responsibility.
+[71] It seems clear that the intent of these rules is to limit consulting services and reports to ones that do not result in an estimate or opinion of the value of real property. Mr. Walsh and Mr. Bennett both provide estimates of market rental rates for the Branksome Hall parking, and therefore, it appears that the consulting report form they used is not in accordance with CUSAP.
+[72] I agree with counsel for the Respondent, however, that it is necessary to consider what effect this has on the reliability of the conclusions reached by these witnesses. The material differences between a consulting report and an appraisal report in this case would be that Mr. Bennett and Mr. Walsh did not “identify the land use controls”[10] (i.e. zoning regulations) that affected the parking at the school, and did not “define and resolve highest and best use”[11]. To me, the highest and best use of the right the Appellants had to park was just that – for parking. On the evidence, that was the only use that the Appellants could make of the parking spot for which they had been given a license. This is the conclusion reached by Mr. Bruce in his report where, at page 13 under the heading “Highest and Best Use”, he says:
+For the purposes of this report, the existing use is the only use to be considered. Therefore, a study of the highest and best use is unnecessary for the purpose of this report.
+[73] The failure to identify land use controls as they affected Branksome Hall parking warrants greater consideration. The effect of zoning regulations that applied to Branksome Hall was a key factor in Mr. Bruce’s report. Since the school was restricted by its zoning from operating a commercial parking lot on its property, Mr. Bruce rejected commercial parking lots as appropriate comparables for establishing value. Both Mr. Bennett and Mr. Walsh relied on those lots as comparables. Therefore, the question is which approach is more reasonable. It is my role to resolve that question and on the basis of my conclusion concerning the comparables used by each expert, determine the weight to be attached to their conclusions. I do not think I am required to reject Mr. Bennett’s and Mr. Walsh’s reports or conclusions outright, but must consider to what extent, if any, their omission to consider zoning undermines the results they came up with.
+[74] Has it been shown, then, that the zoning restriction relating to parking at Branksome Hall had a material effect on the value of the parking? Mr. Walsh said in his evidence that “the value of real estate is a function of its demand (which is of course one side of the rule that states that value is determined by both supply and demand). Therefore it must be determined whether the zoning restriction would have limited the demand for parking at Branksome Hall. If not, the failure to take zoning into account would not diminish the reliability of the resulting estimate of value.
+[75] Both Mr. Walsh and Mr. Bruce observed that the demand for parking was limited in the area of Branksome Hall as a result of its location in a residential area. As pointed out by Mr. Bruce, residents of the houses in the area of Branksome Hall had their own driveways, and the covered parking at Clifton Manor was more than sufficient to meet the needs of that building’s residents.
+[76] The school is also some distance from commercial, retail and high density residential influence along Bloor Street. Given the distance from Bloor Street, it is unlikely that a parking lot at Branksome Hall would draw from the demand for parking along that street, even if the parking were offered at a discount relative to rates on Bloor. This is borne out by the availability of parking at Clifton Manor for substantially less than what was charged for parking at commercial lots on Bloor. To me this indicates that there was little, if any, spillover demand from Bloor Street to Clifton Manor.
+[77] It is also possible that there was some demand for parking around the school from students at the school, but it has not been shown that they would have been willing to pay for monthly parking. Since Branksome Hall only went to Grade 12, I find it unlikely that there was much demand from students.
+[78] In the end, it appears that all or almost all of the demand for parking at Branksome Hall would have come from employees of the school. Therefore, I find that the zoning would not have had a significant impact on the demand for parking at the school.
+[79] Since each of the expert witnesses used the direct comparison approach, the reliability of their conclusions will depend on the comparables they chose and the similarity of those comparables to the Branksome Hall parking. It would seem to me that the best comparables would be the ones with similar characteristics and nearest to the subject property because supply and demand factors of properties near the subject could be presumed to be similar to those affecting the subject. In order for a property that is some distance from the subject to be a valid comparable, there would need to be some evidence to show that the supply and demand factors are similar in both cases, or that the difference in location could somehow be adjusted for.
+[80] Mr. Bruce relied on three indications of value: parking at Clifton Manor, parking at long-term health care facilities and rehabilitation centres, and parking at three Seneca College campuses. Of these, only Clifton Manor was close to Branksome Hall. His remaining comparables were in different neighborhoods and relatively far from Branksome Hall. Mr. Bruce testified that he chose these locations because they were “within a similar area … a low density residential area that had no commercial zoning or commercial use”.
+[81] The health care facilities and rehabilitation centers he used were “generally in more residential areas” and “the surrounding character was more residential and less commercial, and that we found that a bit more similar to the subject neighborhood”.[12] Beyond this general description, there was no particular evidence of the supply of or demand for parking in those areas.
+[82] The Seneca Colleges Mr. Bruce used were “generally in residential areas” and the King campus was “out in the countryside”. Of note, Mr. Bruce did not check the zoning for those comparables nor was there any apparent effort made to check the supply and demand for parking in the areas of these comparables. It seems overly simplistic to assume that, by virtue of the fact that these comparables were located in residential areas, they would be an indicator of what one could expect to have to pay for parking at Branksome Hall. The use of comparables scattered throughout the large Toronto metropolitan areas with only one characteristic in common leads me to question the result obtained by Mr. Bruce from his analysis.
+[83] Furthermore, the evidence does not show whether in fact the rates charged at those locations were true market rates. With respect to the rehabilitation centers, he looked at, Mr. Bruce said:
+These are institutions that obviously want to charge something for the parking, but they seem to be trying to arrive at something they feel is fair to their employees.
+For two of the rehabilitation centers and for all three of the Seneca campuses, the employee parking rates were below the public parking rates at the same locations. This reinforces my concern that the rates used by Mr. Bruce for these comparables were not in fact the fair market value of parking at those locations.
+[84] In Mr. Bennett’s case, the four comparables he used were all commercial lots on Bloor Street. The evidence showed that Bloor Street was a busy, highly developed urban strip. In my view, the supply and demand factors for parking on Bloor Street were so different from parking in the area immediately adjacent to Branksome Hall that it is difficult to compare them. Mr. Bennett made a substantial adjustment to account for location, but his rationale for the adjustment was simply distance from Yonge Street, and did not adjust for any other differences. In determining the magnitude of the adjustment, he relied only on the variety in rates charged by commercial lots on Bloor Street as one moves east or west of Yonge Street. No account was taken of the distance Branksome Hall was from Bloor Street, or how this would affect his estimate of value. For these reasons, I place little weight on Mr. Bennett’s conclusion.
+[85] Mr. Walsh based his conclusion on the rates charged at certain schools and at a University of Toronto campus and the rates charged at certain apartment buildings. The schools and University of Toronto campus were in different areas of Toronto from downtown to Scarborough. As was the case of certain comparables used by Mr. Bruce, the parking at these locations was not shown to have similar supply and demand factors to Branksome Hall parking. The schools and University of Toronto campus were surrounded by much different uses than what was found around Branksome Hall, and have not been shown to be valid comparables for the same reasons given above regarding Mr. Bruce’s comparables. Also, I agree with counsel for the Appellants that the rate used by Mr. Walsh for parking at St. Michael’s School was not an actual rate paid by the employees of the School, but a rate that was used by the CRA in assessing those employees in respect of an employment benefit. Without more information on how the rate was determined, its reliability as an indicator of market value is questionable.
+[86] Of the apartment parking garages looked at by Mr. Walsh, only two were in the residential area of Rosedale: Clifton Manor and South Gate, at 45 Glen Road[13]. The others were on or adjacent to Bloor Street, and again, for reasons I have already explained are not valid comparables. Both Clifton Manor and The South Gate offered underground parking, and in the case of Clifton Manor, Mr. Bruce stated it was secured and heated as well.
+[87] In summary, in my opinion the only reasonable comparables presented by the expert witnesses were the two nearby apartment buildings. These were the only comparables that were shown to have similar demand factors to those of the Branksome Hall parking. I therefore reject the proposition that the remaining comparables used by the expert witnesses were sufficiently similar to the Branksome Hall property to be useful in establishing the value of the latter. These comparables were integral to the valuations expressed by the expert witnesses, and without them, their conclusions cannot be relied upon. As a result, I must make the best estimate of value from the evidence that is before me.[14]
+[88] I start by reiterating that the rates charged by Clifton Manor and The South Gate are most indicative of a monthly parking rate in the area of Branksome Hall. The evidence that parking was available at the South Gate for $100 per month in 2008 was not contradicted. However the parties disputed which rate should be used for parking at Clifton Manor. The Appellants maintain that it was available a discount rate of $55 per month in 2005, whereas the Respondent maintains that the rate that should be used was $85 per month.
+[89] The Respondent’s counsel disputes the relevance of the offer made by the manager of Clifton Manor in the email sent to Mr. Zenger, suggesting that the offer was a departure from fair market value. I agree that the rate that was offered to Mr. Zenger for the rental of at least 10 parking spots is not indicative of the fair market rental rate of each individual spot. It is the value of each of the employee parking spots at Branksome Hall that is in issue, not the rate for rental of a block of 10 spots. The basis for the offer of a reduced rate on the rental of 10 spots was not clear. Whether it was for administrative expediency or some other reason, it is impossible to say. What is relevant, though, is that in the same email, the rate for single spots was stated to be $85 per month.
+[90] This gives a range of $85 to $100 per month for parking at the two locations.
+[91] An adjustment is warranted for the fact that the Branksome Hall parking is surface parking and the apartment parking in both cases is covered. Both Mr. Bruce and Mr. Bennett applied a 10% discount to the apartment parking rate for this reason, so I accept this approach.
+[92] It is also necessary to adjust for increases to parking rates between 2003 and 2008. I accept Mr. Walsh’s evidence that an average rate of increase in rates was 12% between 2003 and 2008 which is equal to an annual rate of 2.4%. This is also in line with Mr. Bruce’s adjustment for time.
+[93] The South Gate rate was obtained in 2008, and the $85 per month rate was offered by Clifton Manor in 2005. Using an annual adjustment of 2.4% would result in a time adjustment of 12% to the South Gate rate, on top of the 10% adjustment for being covered parking. The total adjustment to the South Gate rate of $100 would therefore be 22%, giving a monthly rate of $78 in 2003. The Clifton Manor rate of $85 would need to be adjusted downward by 14.8%, giving a rate of $72 in 2003. An average of these rates is $75 per month in 2003, and with a 2.4% increase, results in a rate of approximately $77 per month in 2004.
+[94] It has not been shown that any reduction is warranted for the tandem parking spots. Although I would have thought that there would be some inconvenience associated with the use of these spots, the only evidence on this point, from Ms. Anthony, was that this was not the case.
+[95] One factor that should be addressed is street parking in the area of Branksome Hall. Counsel for the Appellants maintained that the availability of free parking should be taken into account in determining the fair market value of parking at Branksome Hall. I disagree. I find that the street parking was not comparable to the parking offered at Branksome Hall. It was not shown that parking would be available on the street for the full work day of any of the Appellants given the parking restrictions in place.
+[96] The next question is whether an amount for taxes should be added to these values. Since the rates were established by reference to the rates charged by Clifton Manor and The South Gate, it would be necessary to determine whether those rates were inclusive or exclusive of tax. There is no evidence on this point, and I am not prepared to add an amount to the fair market rental rate for tax in the absence of evidence or an assumption to this effect in the Replies to the Notices of Appeal that the Clifton Manor and South Gate rates were exclusive of tax.
+[97] Finally, since parking was not available to the Appellants at Branksome Hall during holidays and in the summer, the amount included in their income as a benefit should be reduced on the basis that benefit was only received for nine months a year. The evidence showed that Ms. Anthony and Ms. Morgan parked at the school during the school terms in 2003 and 2004, and so they should be assessed on the basis that they received parking at Branksome Hall for nine months each year. Ms. Friesen did not give evidence, and therefore, has not shown that her situation was different from that of Ms. Anthony or Ms. Morgan, and I find that she also received parking at Branksome Hall for nine months each year. Mr. Baker testified that he received parking from September 2004 on, and therefore, he shall be reassessed on the basis that he received no benefit in 2003, and a benefit with respect to parking for 3 ½ months in 2004 (i.e. September to December, minus two weeks at Christmas).
+[98] I calculate, therefore, that the value of the parking benefit to Ms. Anthony, Ms. Morgan and Ms. Friesen was $675 in 2003 and $693 in 2004, and the value for Mr. Baker was $269.50 in 2004.
+[99] Counsel for the Appellants requested the opportunity to speak to costs after judgment was given. Counsel will therefore have fifteen days from the date of judgment to contact and arrange with the hearings coordinator for a date to do so.
+Signed at Ottawa, Canada, this 21st day of October, 2010
+“Brent Paris”
+Paris J.
+CITATION: 2010 TCC 533
+COURT FILE NOS.: 2009-618(IT)I, 2009-619(IT)I, 2009‑620(IT)I, 2009-621(IT)I
+STYLE OF CAUSE: GERALDINE ANTHONY, HEATHER FRIESEN, LESLIE MORGAN and JARROD BAKER and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 24 and 25, 2009 and
+March 18 and 19, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: October 21, 2010
+APPEARANCES:
+Counsel for the Appellants:
+Jacques Bernier
+Counsel for the Respondent:
+Bobby Sood and Darren Prevost
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Jacques Bernier
+Firm: Bennett Jones
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-4.
+[2] 2010 FCA 98.
+[3] [1995] T.C.J. No. 1342.
+[4] 2002 CanLII 999.
+[5] 2010 TCC 455.
+[6] 86 DTC 6498.
+[7] 90 FTC 6322.
+[8] Transcript, page 17.
+[9] Exhibit A-27.
+[10] CUSAP Part 6.2.12
+[11] CUSAP Part 6.2.14
+[12] Transcript, September 24, 2009, page 157.
+[13] This apartment building was approximately ½ kilometre from Branksome Hall.
+[14] Canada (National Capital Commission) v.Marcus [1970] S.C.R. 39

@@ -1,0 +1,179 @@
+Title: Randall v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28447/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-549-28447-randall-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-10-12
+
+# Randall v. The Queen
+
+- Citation: 2006 CCI 549
+- Decision date: 2006-10-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1180, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Randall v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-12
+Référence neutre
+2006 CCI 549
+Numéro de dossier
+2006-1153(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1153(IT)I
+ENTRE :
+LAURIE D. RANDALL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 octobre 2006 à Victoria (Colombie‑Britannique)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocate de l’appelante :
+Me Trudi L. Brown, c.r.
+Avocate de l’intimée :
+Me Sara Fairbridge
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Les dépens entre parties sont alloués à l’appelante.
+Signé à Saskatoon (Saskatchewan), ce 12e jour d’octobre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour de novembre 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI549
+Date : 20061012
+Dossier : 2006-1153(IT)I
+ENTRE :
+LAURIE D. RANDALL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] La Cour est saisie d’un appel instruit sous le régime de la procédure informelle à Victoria, en Colombie‑Britannique, le 3 octobre 2006. L’appelante a été la seule à témoigner.
+[2] Les détails en litige sont exposés ainsi aux paragraphes 6 et 10 à 15 inclusivement de la réponse à l’avis d’appel modifiée :
+[traduction]
+6. Dans un avis de nouvelle cotisation daté du 21 juillet 2005, le ministre a inclus dans le calcul du revenu de l’appelante pour son année d’imposition 2003 un montant de 9 000 $ représentant des paiements de pension alimentaire.
+[…]
+10. En établissant une nouvelle cotisation d’impôt à l’égard de l’appelante pour son année d’imposition 2003 et en ratifiant cette cotisation, le ministre s’est fondé sur les faits suivants :
+a) l’appelante et James Broad (ci‑après « M. Broad ») ont vécu ensemble du 1er avril 1989 au 1er juillet 1990;
+a) l’appelante est l’ancienne conjointe de fait de James Broad (ci‑après « M. Broad »);
+b) au cours de leur relation, l’appelante et M. Broad ont eu un enfant, Matthew James Broad (ci‑après « Matthew »), né le 1er octobre 1989;
+c)b) tout au long de l’année d’imposition 2003, l’appelante a vécu séparée de M. Broad;
+d) entre le 1er janvier 2003 et le 31 décembre 2003, M. Broad était tenu de verser à l’appelante pour subvenir aux besoins de Matthew 750 $ par mois le 1er jour de chaque mois aux termes d’un accord écrit daté du 1er juillet 1990;
+c) entre le 1er janvier 2003 et le 31 décembre 2003, M. Broad était tenu de verser à l’appelante 750 $ par mois aux termes d’un accord écrit daté du 15 février 1995 (l’« accord de 1995 »);
+e)d) l’appelante a reçu de M. Broad un total de 9 000 $ au cours de l’année d’imposition 2003, à raison de 750 $ par mois pendant douze mois;
+f) le ministre a décidé que l’appelante était tenue de déclarer les paiements de pension alimentaire reçus de M. Broad comme une source de revenu dans sa déclaration de revenu T1 pour l’année 2003;
+g) aucun autre accord prévoyant le paiement d’une pension alimentaire n’a été conclu après celui du 1er juillet 1990.
+B. AUTRES FAITS PERTINENTS
+11. a) l’appelante et M. Broad ont vécu ensemble du 1er avril 1989 au 1er juillet 1990;
+b) pendant leur relation, l’appelante et M. Broad ont eu un enfant, Matthew James Broad (ci‑après « Matthew »), né le 1er octobre 1989;
+c) l’appelante et M. Broad ont conclu un accord le 1er juillet 1990 (l’« accord de 1990 »);
+d) entre le 1er janvier 2003 et le 31 décembre 2003, M. Broad était tenu de verser à l’appelante, pour subvenir aux besoins de Matthew, 750 $ par mois le 1er jour de chaque mois aux termes de l’accord de 1990;
+e) l’accord de 1995 ne précisait pas si les paiements visaient à subvenir aux besoins de l’appelante, ou de Matthew;
+f) à l’exception de l’accord de 1995, aucun accord prévoyant le paiement d’une pension alimentaire n’a été conclu après celui de 1990.
+C. POINT EN LITIGE
+11.12. Le litige porte sur la question de savoir si l’appelante est tenue d’inclure dans le calcul de son revenu pour l’année d’imposition 2003 une pension alimentaire totalisant 9 000 $ reçue de M. Broad.
+C.D. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+12.13. Il se fonde sur l’article 56.1 et l’alinéa 56(1)b) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), modifiée (la « Loi »).
+D.E. MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+13.14. Il soutient respectueusement que le ministre a inclus à bon droit la pension alimentaire dans le calcul du revenu de l’appelante pour l’année 2003 en application de l’alinéa 56(1)b) de la Loi.
+15. Il fait aussi valoir que la pension alimentaire, qu’elle ait été versée aux termes de l’accord de 1990 ou de celui de 1995, constitue une pension alimentaire au sens du paragraphe 56.1(4) de la Loi.
+14.16. Il soutient également qu’aucun autre accord n’a été conclu après l’accord de 1995 l’accord daté du 1er juillet 1990 aux termes duquel devait être versée une pension alimentaire, et, par conséquent, il n’existe aucune « date d’exécution » au sens du paragraphe 56.1(4) de la Loi.
+15.17. Il demande le rejet de l’appel.
+[3] Les hypothèses 10a), b) et d) n’ont pas été réfutées. L’hypothèse c) est contestée.
+[4] L’appelante et James Broad ont vécu ensemble à Vancouver du 1er avril 1989 jusqu’au 1er juillet 1990 et ils ont eu un enfant, Matthew, le 1er octobre 1989. Après le 1er juillet 1990, ils ont signé un accord de séparation rédigé par M. Broad, un avocat (pièce A‑1, onglet 3), lequel est daté du 1er juillet 1990. Le paragraphe 3 de cet accord prévoyait que M. Broad verserait à l’appelante, pour subvenir aux besoins de Matthew, 750 $ par mois du 1er juillet 1990 jusqu’au moment où Matthew atteindrait l’âge de 19 ans. L’accord énonçait, au paragraphe 1, qu’il resterait en vigueur jusqu’au moment où les deux parties conviendraient par écrit de le résilier. L’appelante a reçu les sommes de 750 $ par mois et les a déclarées à des fins fiscales.
+[5] Le couple a de nouveau vécu ensemble à Vancouver du 1er août 1993 jusqu’à leur séparation en février 1995, et, pendant cette période, M. Broad a cessé de payer les 750 $ par mois. Ils n’ont signé aucun accord de résiliation, et l’appelante n’a pas déclaré avoir touché 750 $ par mois comme revenu au profit de Matthew pendant ces 18 mois.
+[6] La Cour en vient à la conclusion que l’accord de séparation daté du 1er juillet 1990 a été éteint lorsque le couple a recommencé à vivre ensemble.
+[7] Le 15 février 1995, l’avocat de M. Broad a écrit la lettre suivante (pièce A‑1, onglet 4) à l’avocat de Mme Randall (l’appelante portait le nom de Laurie Bermingham à cette époque) :
+[traduction]
+[…]
+Le 15 février 1995
+Référence : 66166
+Monsieur I. Greer Gibson
+Cohen & Fraser
+7313, 120th Street, bureau 211
+Delta (C.‑B.) V4C 6P5
+Objet : Bermingham c. Broad
+Monsieur,
+Vous trouverez ci‑joint un chèque de 750 $.
+À des fins fiscales, le chèque doit être établi aux termes d’un accord écrit. Je proposerais que l’accord prévoie tout simplement que M. Broad fera un paiement de 750 $ le 15e jour de chaque mois, sans préjudice des droits de chacune des parties à l’accord, et que celui‑ci puisse être annulé par l’une ou l’autre des parties après un préavis de 15 jours.
+De plus, je vous demanderais de bien vouloir signer la présente lettre à titre de représentant de votre cliente pour indiquer que vous acceptez les dispositions qui y sont énoncées et que vous reconnaissez que la présente lettre ainsi signée constituera l’accord écrit.
+Vous m’avez avisé qu’il pourrait être nécessaire de modifier les dates de paiement qui tombent au cours des 30 premiers jours suivant la date d’entrée en vigueur de l’accord en raison de dépenses telles que des frais de déménagement. Le cas échéant, veuillez me fournir des détails à ce sujet, et j’obtiendrai des instructions.
+Veuillez agréer, Monsieur, mes salutations distinguées.
+(Signature)
+Fred D. Banning
+Baumgartel & Gould
+[…]
+L’appelante a reçu et a encaissé le chèque. À côté de la signature de M. Banning figurent une ligne horizontale tracée à la main et quelques traits verticaux. Mme Randall n’avait jamais vu ces marques et elle n’a autorisé personne à signer cette lettre. Elle n’a pas accepté les modalités qui y sont présentées.
+[8] Plusieurs observations s’imposent à l’égard de cette lettre :
+1. Il n’est pas spécifié à quoi doivent servir les 750 $. Il se peut que cette somme ne serve à subvenir aux besoins de personne.
+2. Le griffonnage figurant du côté droit de la lettre n’a jamais été attribué à qui que ce soit. Mme Randall n’a pas autorisé son avocat à signer cette lettre et n’a jamais vu ce gribouillage, qui ne se trouve pas sur sa copie de cette lettre.
+3. Aucune date d’exécution ou d’expiration n’est fixée pour l’accord.
+[9] Compte tenu de ce qui précède, l’effet de cette lettre n’est pas de faire en sorte que les 750 $ constitueront une « pension alimentaire » au sens du paragraphe 56.1(4), soit un « montant [...] à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants [qui] est à recevoir aux termes [...] d’un accord écrit ».
+[10] M. Broad a payé 750 $ par mois à Mme Randall jusqu’au 18 juin 1999, date où il lui a envoyé une copie de la déclaration de revenu qu’il avait produite pour l’année 1988 (pièce A‑2) et une copie des tables de montants fédéraux de pensions alimentaires pour enfants (pièce A‑3). Il a collé sur la déclaration de revenu deux papillons adhésifs (pièce A‑2) sur lesquels il a noté ce qui suit :
+[traduction]
+Laurie
+La présente constitue la déclaration de revenu pour l’année en cours, que j’ai produite le 15 juin, c’est‑à‑dire il y a quelques jours. Comme j’exploite une société, je suis en mesure de reporter mon revenu d’une année à l’année suivante. Donc, ceci représente mon revenu d’il y a deux ans. JB
+Laurie
+chèques 18 juin /99
+1er juillet /99
+1er août /99 de 750 $
+Je te demande de bien vouloir me retourner le reste des chèques postdatés de 750 $ que tu as d’ici la fin du mois. JB
+[11] Dans la pièce A‑2, M. Broad a surligné en jaune la mention d’un revenu de 40 000 $ et d’une allocation mensuelle pour un enfant de 343 $. Du 1er juillet 1999 jusqu’au 1er décembre 1999, il a envoyé à Mme Randall des chèques de 343 $ par mois, qu’elle a encaissés. Mais, le 18 novembre 1999, l’avocat de M. Broad a envoyé à Mme Randall le [traduction] « chèque en fiducie de 2 442 $ établi [par M. Broad] en guise de règlement de l’arriéré d’aliments au profit de votre fils, Matthew, y compris le paiement pour décembre 1999 ». Selon l’avocate de l’appelante, le montant de 2 442 $ était le résultat du calcul suivant :
+750 $
+- 343 $
+407 $
+x 6 mois (du 1er juillet au 1er décembre)
+2 442 $
+L’avocate de l’appelante a fait valoir que cela représentait la tentative de M. Broad de faire en sorte que les paiements soient déductibles en vertu de la Loi de l’impôt sur le revenu (la « Loi »).
+[12] À peu près à la même époque, il semble que M. Broad ait intenté une action devant un tribunal de la famille pour obtenir la garde de Matthew et un droit de visite auprès de lui (voir les pièces R‑2 et R‑3 datées de janvier 2000). Mme Randall a présenté une demande reconventionnelle de garde exclusive et de pension alimentaire pour enfants. Mais la demande reconventionnelle de pension alimentaire n’a apparemment abouti à rien.
+[13] Tout bien considéré, la Cour conclut que :
+1. L’accord daté du 1er juillet 1990 (pièce A‑1, onglet 3) a été éteint lorsque les parties ont recommencé à vivre ensemble le 1er août 1993.
+2. La lettre datée du 15 février 1995 n’a jamais été un accord écrit prévoyant le paiement d’une pension pour subvenir aux besoins de l’appelante ou de Matthew.
+3. Les divers chèques établis en 1999 et les deux notes précitées écrites cette année‑là ne constituent pas un accord écrit prévoyant le paiement d’une pension pour subvenir aux besoins de l’appelante ou de Matthew.
+[14] Par conséquent, la présente affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que les paiements de pension alimentaire de 9 000 $ n’ont pas été inclus à juste titre dans le calcul du revenu de l’appelante pour l’année 2003 en application de l’alinéa 56(1)b) de la Loi.
+[15] Les dépens entre parties sont alloués à l’appelante.
+Signé à Saskatoon (Saskatchewan), ce 12e jour d’octobre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour de novembre 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI549
+Nº DU DOSSIER DE LA COUR : 2006‑1153(IT)I
+INTITULÉ : Laurie D. Randall et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Victoria (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 3 octobre 2006
+MOTIFS DU JUGEMENT : L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 12 octobre 2006
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Trudi L. Brown, c.r.
+Avocate de l’intimée :
+Me Sara Fairbridge
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Trudi L. Brown, c.r.
+Cabinet : Brown Henderson
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

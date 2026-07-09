@@ -1,0 +1,135 @@
+Title: Ghosi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405690/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-104-405690-ghosi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-04-11
+
+# Ghosi c. La Reine
+
+- Citation: 2019 CCI 104
+- Decision date: 2019-04-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4409, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ghosi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-04-11
+Référence neutre
+2019 CCI 104
+Numéro de dossier
+2018-1345(GST)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2019 CCI 104
+Date : 20190506
+Dossier : 2018-1345(GST)I
+ENTRE :
+MOHAMMAD GHOSI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 11 avril 2019 à Toronto [Ontario].)
+La juge Campbell
+[1] Qu’il soit consigné au dossier que je rends mes motifs oralement à l’égard de l’appel interjeté par Mohammad Ghosi, que j’ai entendu plus tôt aujourd’hui. Dans le présent appel, la Cour est appelée à décider si l’appelant est admissible à un remboursement pour une habitation neuve (« remboursement ») de 24 000 $ relativement à une propriété située au 128, croissant Novan Crescent, à Aurora, en Ontario.
+[2] M. Ghosi enseigne depuis plus de 17 ans. Pendant la période où il a demandé le remboursement, il était un enseignant suppléant travaillant dans différentes écoles. Son épouse et lui ont emménagé dans une propriété située au 103, boulevard Vine Cliff, à Markham, en 2005.
+[3] En 2015, il a décidé d’aider une amie de la famille, Mahshad Mehrabian, à acheter la propriété située dans la rue Novan, à Aurora. Il a déclaré dans son témoignage qu’il souhaitait l’aider financièrement à obtenir une hypothèque sur la propriété, car son seul revenu ne lui permettait pas de se qualifier pour un prêt hypothécaire. Elle voulait une résidence pour son fils en raison de conflits entre le fils et son père.
+[4] Selon son témoignage, l’appelant et son épouse avaient l’intention de résider dans la propriété avec le fils de Mme Mehrabian afin de lui donner une tranquillité d’esprit quant au fils.
+[5] Le 5 avril 2015, l’appelant, son épouse et l’amie ont signé le contrat d’achat de la propriété d’Aurora. Les éléments de preuve étayent que Mme Mehrabian n’était pas une proche des appelants, mais simplement une amie de la famille. Le titre de propriété a été transféré à ces trois personnes en tant que copropriétaires le 27 janvier 2016 et la prise de possession s’est faite à cette date.
+[6] Le fils a résidé dans cette propriété d’Aurora en permanence. Certaines réparations ont été effectuées après l’achat et au cours du premier mois suivant l’achat.
+[7] À la mi-mars 2016, l’appelant a déclaré dans son témoignage que son épouse et lui avaient emménagé dans la propriété d’Aurora. Un ami qui possédait un camion l’a aidé à déménager. Il a déclaré dans son témoignage n’avoir déménagé que les nécessités quotidiennes.
+[8] Au cours de son contre-interrogatoire, il a déclaré qu’il pensait pouvoir essayer de rénover l’ancienne résidence de Markham et la louer comme maison meublée. Il n’a pas changé d’adresse postale aux fins des paiements de factures, du permis de conduire, des communications avec l’ARC ou des services bancaires parce qu’il était trop occupé à ce moment-là, a-t-il affirmé.
+[9] La propriété de Markham n’a jamais été louée ni vendue, et l’appelant et son épouse sont revenus dans cette propriété quelques mois plus tard, à la mi-juin. Il n’a avancé aucune raison expliquant pourquoi les coûts des services publics pour trois personnes vivant dans la résidence d’Aurora seraient inférieurs aux prévisions.
+[10] La propriété était située à seulement 18 kilomètres supplémentaires du lieu de travail de l’appelant par rapport à la propriété de Markham. Il a déclaré dans son témoignage qu’ils sont retournés dans leur ancienne propriété en raison du stress supplémentaire causé par le fait de conduire et d’arriver au travail à temps. Même s’il n’y avait que 18 kilomètres supplémentaires à parcourir, il a déclaré dans son témoignage que la circulation était plus lente et que le volume était plus élevé. Il fallait donc plus de temps que les 11 minutes supplémentaires de conduite alléguées par le ministre.
+[11] Après le retour de l’appelant et de son épouse dans leur propriété de Markham en juin, le fils de l’amie a continué à vivre à l’adresse d’Aurora jusqu’à la vente de la maison en février 2017.
+[12] Pour avoir droit à ce remboursement, l’appelant doit se conformer aux exigences de l’article 254 de la Loi sur la taxe d’accise (la Loi). Ce remboursement ne sera payé que si l’appelant peut satisfaire aux exigences énoncées aux alinéas 254(2)a) à g) de la Loi :
+254(2) Remboursement – habitation neuve [résidence achetée]
+Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le constructeur d’un immeuble d’habitation à logement unique ou d’un logement en copropriété en effectue, par vente, la fourniture taxable au profit du particulier;
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+c) le total des montants – appelé « contrepartie totale » au présent paragraphe – dont chacun représente la contrepartie payable pour la fourniture de l’immeuble ou du logement et pour toute autre fourniture taxable, effectuée au profit du particulier, d’un droit sur l’immeuble ou le logement est inférieur à 450 000 $;
+d) le particulier a payé la totalité de la taxe prévue à la section II relativement à la fourniture et à toute autre fourniture, effectuée à son profit, d’un droit sur l’immeuble ou le logement (le total de cette taxe prévue au paragraphe 165(1) étant appelé « total de la taxe payée par le particulier » au présent paragraphe);
+e) la propriété de l’immeuble ou du logement est transférée au particulier une fois la construction ou les rénovations majeures de ceux-ci achevées en grande partie;
+f) entre le moment où les travaux sont achevés en grande partie et celui où la possession de l’immeuble ou du logement est transférée au particulier en vertu du contrat de vente :
+(i) l’immeuble n’a pas été occupé à titre résidentiel ou d’hébergement,
+(ii) le logement n’a pas été occupé à titre résidentiel ou d’hébergement, sauf s’il a été occupé à titre résidentiel par le particulier, ou son proche, qui était alors l’acheteur du logement aux termes d’un contrat de vente;
+g) selon le cas :
+(i) le premier particulier à occuper l’immeuble ou le logement à titre résidentiel, à un moment après que les travaux sont achevés en grande partie, est :
+(A) dans le cas de l’immeuble, le particulier ou son proche,
+(B) dans le cas du logement, le particulier, ou son proche, qui, à ce moment, en était l’acheteur aux termes d’un contrat de vente,
+(ii) le particulier effectue par vente une fourniture exonérée de l’immeuble ou du logement, et la propriété de l’un ou l’autre est transférée à l’acquéreur de cette fourniture avant que l’immeuble ou le logement n’ait été occupé à titre résidentiel ou d’hébergement.
+Le remboursement est égal au montant suivant : […]
+[13] Lorsque plus d’un particulier est bénéficiaire d’un remboursement, il faut également se reporter au paragraphe 262 (3) de la Loi et à l’article 40 du règlement pris en application de la Loi :
+262(3) Groupe de particuliers
+(3) Lorsque la fourniture d’un immeuble d’habitation ou d’une part du capital social d’une coopérative d’habitation est effectuée au profit de plusieurs particuliers ou que plusieurs particuliers construisent ou font construire un immeuble d’habitation, ou y font ou font faire des rénovations majeures, la mention d’un particulier aux articles 254 à 256 vaut mention de l’ensemble de ces particuliers en tant que groupe. Toutefois, seulement l’un d’entre eux peut demander le remboursement en application des articles 254, 254.1, 255 ou 256 relativement à l’immeuble ou à la part.
+40. Groupe de particuliers – Si la fourniture d’un immeuble d’habitation ou d’une part du capital social d’une coopérative d’habitation est effectuée au profit de plusieurs particuliers ou que plusieurs particuliers construisent ou font construire un immeuble d’habitation ou y font ou y font faire des rénovations majeures, la mention d’un particulier aux articles 41, 43, 45 et 46 ainsi qu’à l’article 256.21 de la Loi vaut mention de l’ensemble de ces particuliers en tant que groupe. Toutefois, seulement l’un d’entre eux peut demander un remboursement en application du paragraphe 256.21(1) de la Loi relativement à l’immeuble ou à la part, dont le montant est déterminé selon les articles 41, 43, 45 ou 46.
+[14] Dans le présent appel, la fourniture de la résidence d’Aurora a été effectuée au profit de trois personnes : l’appelant, son épouse et leur amie. Par conséquent, les mentions à l’article 254 d’un particulier doivent être interprétés comme des renvois à ces trois particuliers en tant que groupe, même si un seul d’entre eux peut demander le remboursement. Cela signifie que les trois propriétaires de la propriété doivent satisfaire individuellement aux exigences énoncées au paragraphe 254(2) de la Loi.
+[15] Mme Mehrabian est admissible même si elle n’a pas occupé la propriété, car son fils y a résidé jusqu’à la vente. Selon l’intimée, ni l’appelant ni son épouse ne sont admissibles, car ils n’occupaient pas la propriété comme lieu de résidence habituelle et ne l’avaient pas non plus acquise pour un proche admissible aux fins de résidence habituelle.
+[16] Il incombe à l’appelant d’établir qu’il a droit au remboursement. Il s’agit d’une question de fait. À la lumière des éléments de preuve dont je dispose, je conclus que l’appelant n’a pas présenté d’éléments de preuve suffisants pour infirmer les hypothèses de fait du ministre à cet égard.
+[17] Sa thèse repose presque entièrement sur son témoignage oral selon lequel l’ARC ne peut pas connaître son intention concernant la propriété et que des facteurs, comme le changement d’adresse ou la distance du lieu de travail, ne peuvent pas suffire à remplacer son intention déclarée d’utiliser la résidence d’Aurora comme lieu de résidence habituelle lorsqu’en réalité, il a quitté son adresse de Markham où il résidait depuis 2005 ou 2006 et s’y est installé pendant plusieurs mois.
+[18] Ce n’est pas un facteur pris isolément qui soutient ou ne soutient pas l’intention subjective du contribuable, mais ce sont tous les faits et toutes les circonstances considérés dans leur ensemble qui vont prouver ou non que l’intention subjective du contribuable est en réalité ce qui s’est passé.
+[19] Dans la décision Bérubé c. La Reine, [2000] ACI no 415, la juge Lamarre Proulx énonce plusieurs critères qu’un tribunal peut examiner pour déterminer si une résidence est une résidence habituelle ou secondaire du contribuable.
+[20] Au paragraphe 11, elle inclut ce qui suit :
+L’adresse postale, l’impôt sur le revenu, le droit de vote, les taxes municipales ou scolaires, la liste des inscriptions téléphoniques, les effets personnels déplacés dans le nouveau bien, l’utilisation déclarée dans la police d’assurance, les éléments de preuve que l’ancienne résidence, si elle est détenue ou louée, est offerte en vente ou en location au moment de l’occupation au nouvel emplacement ou avant. Si l’ancienne résidence n’est ni vendue ni louée, des facteurs, comme l’emplacement de chaque propriété par rapport au travail, le temps passé dans la nouvelle résidence par rapport à l’ancienne, sa pertinence et la disponibilité de commodités personnelles, seront tous utilisés pour déterminer quelle résidence est la résidence habituelle par opposition à la résidence secondaire du contribuable.
+[21] Il n’y avait pas suffisamment d’éléments de preuve pour établir que l’appelant avait acquis la propriété d’Aurora à titre de résidence habituelle ou pour un proche admissible. Selon son témoignage, l’appelant voulait aider une amie de la famille qui souhaitait avoir une résidence pour son fils en raison de problèmes familiaux avec son père, mais qui ne pouvait se permettre financièrement d’acheter la propriété seule. L’appelant a déclaré que cela faisait partie de la culture d’aider les amis proches de cette manière.
+[22] Dans une lettre du 30 mai 2017 de M. Ghosi adressée à l’ARC, il a clairement indiqué que son épouse et lui avaient été nommés acheteurs de la propriété dans le contrat de vente pour des raisons de sécurité. C’est après l’achat et après un mois de travaux de rénovation que les trois copropriétaires se sont entendus pour que l’appelant et son épouse emménagent dans la propriété et partagent les dépenses avec le fils.
+[23] La lettre indique, en outre, qu’après trois mois et demi dans la propriété, l’appelant et son épouse sont retournés dans leur propriété de Markham parce qu’il était stressé par le temps supplémentaire nécessaire pour se rendre au travail.
+[24] Toutefois, l’appelant travaille comme enseignant suppléant auprès du Conseil scolaire du district de Toronto. On peut donc lui demander de travailler à divers endroits. Ce fait n’appuie tout simplement pas le témoignage de l’appelant selon lequel il devait retourner à Markham en se fondant uniquement sur ce trajet en automobile, car la distance qui le séparait du travail risquait de changer à différents moments du fait de sa suppléance.
+[25] Les éléments de preuve corroborent ma conclusion selon laquelle, au moment où son épouse et lui-même ont signé le contrat d’achat, il n’avait pas l’intention requise que la propriété acquise lui serve de lieu de résidence habituelle. Les éléments de preuve indiquent plutôt qu’il a signé le contrat d’achat simplement pour aider une amie de la famille à résoudre les problèmes familiaux touchant le fils de l’amie en l’aidant à obtenir un financement bancaire pour acheter la propriété d’Aurora. L’appelant me demande d’accepter son intention subjective déclarée, qui n’est pas étayée par des éléments de preuve objectifs.
+[26] Comme le juge en chef Bowman l’a souligné dans ses motifs dans la décision Coburn Realty Ltd. c. La Reine, 2006 CCI 245, au paragraphe 10 :
+Les énoncés que fait le contribuable de ses buts et de ses intentions ne sont pas nécessairement et toujours le fondement le plus fiable sur lequel une question de ce genre peut être tranchée. L’utilisation réelle du bien constitue souvent la meilleure preuve du but de l’acquisition. [...]
+[27] Il a ajouté ce qui suit au paragraphe 11 :
+Il y a lieu de noter que l’expression « en vue d’être utilisé [...] » nécessite la détermination de l’objet de l’acquisition, non de l’utilisation réelle. Néanmoins, je crois qu’en pratique, si un bien est utilisé en fait principalement à des fins commerciales, il est raisonnable d’inférer qu’il a été acquis à ces fins.
+[28] En l’espèce, l’utilisation réelle de la résidence à Aurora était clairement de servir de résidence pour le fils.
+[29] L’appelant n’avait pas l’intention requise d’occuper la propriété d’Aurora comme lieu de résidence habituelle au moment de la signature du contrat d’achat. Ce seul facteur l’empêche de satisfaire à l’une des exigences énoncées au paragraphe 254(2) de la Loi et, plus précisément, au libellé de l’alinéa 254(2)b).
+[30] Si l’appelant avait l’intention d’utiliser la résidence d’Aurora comme lieu de sa résidence habituelle – ce qui, toutefois, ne s’est même pas produit à une date ultérieure – cette intention n’existait pas au moment de la signature du contrat d’achat, selon ce qui est requis au titre de cette disposition lorsqu’il a assumé sa responsabilité aux termes du contrat.
+[31] Bien qu’il se soit installé dans la propriété plusieurs mois après l’achat, les faits objectifs et indépendants qui entourent cet emménagement ne corroborent pas l’intention subjective déclarée de l’appelant. Il a déplacé très peu d’effets personnels dans la nouvelle résidence – seulement quelques nécessités et certainement aucune des commodités permettant d’y vivre à long terme.
+[32] Il a déclaré dans son témoignage qu’il souhaitait rénover la résidence de Markham et la vendre ou la louer à titre de lieux meublés. Cependant, cela ne s’est jamais produit et je ne disposais d’aucun élément de preuve concernant l’origine de ces objets essentiels quotidiens, comme les gros appareils électroménagers, les lits, les tables et les chaises, ou s’ils avaient même déménagé ces objets dans la propriété à un moment donné. L’ami qui a déménagé l’appelant n’était pas présent à l’audience, et je n’ai donc pas entendu d’éléments de preuve à cet égard. De plus, rien n’a été tenté pour changer l’adresse postale dont il disposait depuis 2005 pour quelque motif que ce soit.
+[33] J’estime que le témoignage de l’appelant et son contre-interrogatoire étayent ma conclusion lorsqu’il a convenu qu’il s’était partiellement installé dans la résidence d’Aurora, car il souhaitait mettre à l’essai ces conditions de logement et que, si cela fonctionnait pour lui et son épouse, ils resteraient dans cette propriété, mais, si ce n’était pas le cas, ils retourneraient à la propriété de Markham. Encore une fois, cela étaye la conclusion selon laquelle l’appelant n’a jamais eu l’intention établie, à aucun moment, de considérer la propriété d’Aurora comme son lieu de résidence habituelle et permanente.
+[34] Elle ne peut non plus être considérée, à mon avis, comme une résidence secondaire à la lumière de la situation de l’appelant. Il a plus ou moins fait l’essai pendant quelques mois sur une base hypothétique, et quand cela n’a pas fonctionné avec son lieu de travail actuel, qui pouvait changer à tout moment, il est simplement retourné à sa résidence de Markham, et la propriété a été mise en vente à Aurora.
+[35] Enfin, l’intimée a également souligné que l’appelant n’était pas en mesure de satisfaire aux exigences énoncées à l’alinéa 254(2)g) de la Loi. Il est énoncé à cet alinéa g) que le premier particulier à occuper l’immeuble ou l’unité en tant que lieu de résidence sera ce particulier ou l’un de ses proches dans le cas d’un immeuble d’habitation à logement unique. Et, en ce qui concerne un logement en copropriété, un particulier ou l’un de ses proches qui était au moment donné acheteur aux termes d’un contrat de vente ou encore le particulier donné qui effectue une fourniture exonérée par vente de l’immeuble ou du logement, et la propriété de cette personne est transférée à l’acquéreur de la fourniture avant que quiconque ne l’occupe comme lieu de résidence.
+[36] Les éléments de preuve montrent clairement que le fils de Mme Mehrabian était le premier occupant de la propriété d’Aurora et que, par conséquent, aucun des faits exposés dans le présent appel ne satisfait aux éléments énoncés à l’alinéa g). Pour tous ces motifs, l’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 6e jour de mai 2019.
+« Diane Campbell »
+La juge Campbell
+RÉFÉRENCE :
+2019 CCI 104
+NO DU DOSSIER DE LA COUR :
+2018-1345(GST)I
+INTITULÉ :
+MOHAMMAD GHOSI ET LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 avril 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT ORAL :
+Le 11 avril 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Priya Bains
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

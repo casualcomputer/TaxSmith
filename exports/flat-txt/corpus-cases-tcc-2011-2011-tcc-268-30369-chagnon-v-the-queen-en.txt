@@ -1,0 +1,193 @@
+Title: Chagnon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30369/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-268-30369-chagnon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-05-25
+
+# Chagnon v. The Queen
+
+- Citation: 2011 TCC 268
+- Decision date: 2011-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7888, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chagnon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-25
+Neutral citation
+2011 TCC 268
+File numbers
+2009-1197(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009‑1197(IT)G
+BETWEEN:
+CLAUDE CHAGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 13, 2011, at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Pierre Barsalou
+Counsel for the Respondent:
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the Appellant’s 2005 taxation year is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 25th day of May 2011.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 31st day of May 2011
+Erich Klein, Revisor
+Citation: 2011 TCC 268
+Date: 20110525
+Docket: 2009‑1197(IT)G
+BETWEEN:
+CLAUDE CHAGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Boyle J.
+[1] This case arises out of the well‑publicized sale in 2000 of Le Groupe Vidéotron ltée (“Vidéotron”) to Quebecor Média Inc. (“QMI”) by the Chagnon family and the unsuccessful rival Vidéotron bid by Rogers Communications Inc.
+[2] The principal issues to be decided in this case involve the scope and application of the paragraph 8(1)(b) of the Income Tax Act deduction available to employees for salary‑related legal expenses.
+I. Facts
+[3] The facts are relatively straightforward. The parties filed a partial agreed statement of facts, a copy of which is appended to these reasons. No witnesses were called. The 11 exhibits entered are described in the partial agreed statement of facts.
+[4] In January 2000, Mr. Claude Chagnon was appointed president and chief executive officer (CEO) of Vidéotron. As part of his remuneration package he was granted options (in addition to those he already held) to purchase shares of Vidéotron in accordance with the company’s 1991 stock option plan. The total number of additional options, both base and performance‑related, was 1,223,033. The exercise price was set at $26 per share based upon the trading price of Vidéotron shares. The parties agreed that the shares were related to Mr. Chagnon’s employment and specifically to his appointment at that time as president and CEO. The salary and benefits, including the options, were set by an independent member of the board relying upon outside advice.
+[5] In October 2000, the Vidéotron stock option plan was amended to provide that, “au moment de la levée d’une option” ([TRANSLATION] “on exercising an option”), an employee could instead choose to receive additional salary equal to the difference between the fair market value of the share and the exercise price of the option, in which case the option would become “caduque” ([TRANSLATION] “null”).
+[6] Following the acquisition of Vidéotron by QMI, Claude Chagnon chose to receive additional salary from Vidéotron in accordance with the amended stock option plan. He received $19 for each of the 1,223,033 options, that being the difference between the $45 share value and the $26 exercise price. This totalled $23,237,627 for the options in question, which amount was paid to Mr. Chagnon net of tax withholdings. A T4 slip including that amount was issued to Mr. Chagnon by Vidéotron, and Mr. Chagnon reported it as employment income for tax purposes.
+[7] The legal expenses in question relate to Mr. Chagnon’s defence of an unsuccessful action brought against him two years later by Vidéotron and QMI in the Superior Court of Quebec reclaiming $23,237,627 on the basis that Mr. Chagnon had inside information relating to Rogers’ interest in Vidéotron when the options were granted and that he had breached a duty of loyalty to Vidéotron. In 2009, the Superior Court of Quebec dismissed the claim against Mr. Chagnon with costs. In his reasons for judgment, Mr. Justice Riordan found that the terms of Mr. Chagnon’s compensation package, including the options, were those proposed by an independent director acting upon expert advice and were simply accepted by Mr. Chagnon without any negotiation. The Court found that Mr. Chagnon had done nothing wrong.
+[8] This appeal involves Mr. Chagnon’s 2005 taxation year, in respect of which he incurred $383,005 in legal expenses relating to the action against him by Vidéotron and QMI.
+II. Law
+[Income Tax Act]
+8(1) Deductions allowed — In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+8(1) Éléments déductibles — Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+. . .
+[…]
+(b) Legal expenses of employee — amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect or establish a right to salary or wages owed to the taxpayer by the employer or former employer of the taxpayer;
+b) Frais judiciaires d’un employé — les sommes payées par le contribuable au cours de l’année au titre des frais judiciaires ou extrajudiciaires qu’il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci;
+[9] The issues to be decided are:
+(1) whether paragraph 8(1)(b) extends to legal fees incurred by an employee defending himself in an action by an employer, or a member of a related employer group, seeking to reclaim an amount of salary received by the employee; and
+(2) if paragraph 8(1)(b) is of such a scope, does it apply to the particular facts of this case?
+[10] The question of the scope of paragraph 8(1)(b), properly interpreted, was considered by Woods J. in Fenwick v. The Queen, 2008 TCC 243, 2008 DTC 3523. Fenwick involved legal expenses incurred to defend the taxpayer in litigation by his two sibling shareholders and in a derivative action by them on behalf of the private corporation of which he was president. The taxpayer was not the only named defendant. There were a large number of claims, one of which alleged that the taxpayer had been paid excessive remuneration. The statement of claim sought a declaration of trust and a tracing order along with $100,000,000 in damages.
+[11] In Fenwick, Woods J. described the first issue we face in this case as follows:
+[21] The elements of the section that are particularly relevant in this appeal are: (1) that the deduction is for the purpose of computing income from an office or employment; (2) that the expenses must be incurred by an employee (including an officer); and (3) that the expenses must be incurred for the purpose of either collecting or establishing salary or wages owed.
+[22] I would first comment about the word “owed” in s. 8(1)(b). The respondent submits that the use of this word suggests that Parliament had in mind legal disputes concerning unpaid remuneration. If this interpretation is correct, it would be fatal to this appeal because the Hemispheres’ lawsuit had nothing to do with unpaid remuneration.
+[23] In support of this position, the respondent referred to the decision of the Federal Court of Appeal in Loo v. The Queen, 2004 D.T.C. 6540. According to Loo, it is suggested, the taxpayer must satisfy two conditions in order to qualify for the deduction in s. 8(1)(b). These are referred [to] in Loo as “branches” of the section and they are described in paragraphs 7 and 8 of the decision as follows:
+[7] Paragraph 8(1)(b) has two branches. The first branch permits a deduction for legal expenses incurred in an action to collect salary or wages owed. It contemplates litigation resulting from the failure of an employer to pay the salary or wages due to an employee. In such a case, there may be no dispute as to the amount of salary or wages that the employee is entitled to be paid for the services the employee has performed, but there may be a factual dispute as to how much of the salary or wages remains unpaid.
+[8] The second branch of paragraph 8(1)(b) contemplates a situation in which the matter in controversy is the legal entitlement to the salary claimed. The second branch applies if, for example, an individual incurs legal expenses in litigating a factual dispute as to whether he or she has actually performed the services required by the contract of employment, or a dispute as to the rate of salary payable for services performed. That would include, for example, a dispute as to the term and conditions of employment.
+[24] I would comment briefly that I do not interpret Loo as suggested by the respondent that both branches must be satisfied in order to qualify for the deduction. Such an interpretation would be contrary to the words of the statutory provision, which clearly permits a deduction for two different situations – legal expenses to “collect” and legal expenses to “establish a right.”
+[25] I have trouble with the limited interpretation of the word “owed” suggested by the respondent because it is difficult to see why Parliament would want to make a distinction based on whether the remuneration has been paid or not. It seems to make more sense in this context to interpret the word “owed” as equivalent to “earned.”
+[26] It is not necessary that I reach a conclusion on this, however, because in my opinion the expenses incurred by the appellant do not qualify for the deduction for other reasons.
+[27] The essential question to be decided in this case is whether the appellant incurred legal fees to establish a right to salary or wages. I have concluded that this was not the case, essentially because there is no evidence that the threatened lawsuit would impact the appellant’s right to salary or wages paid to him by Hemispheres or Fenwix.
+[12] The Court’s suggestion, by equating “owed” or “dû” with “earned”, that paragraph 8(1)(b), properly interpreted, could apply to legal costs for defending one’s right not to have to repay salary paid was obiter dictum. The Court went on to decide that the taxpayer could not succeed because he had not been able to establish on the evidence that the lawsuit would have an impact on his right to the salary paid to him.
+[13] This Court’s decision was upheld by the Federal Court of Appeal in Fenwick v. Canada, 2008 FCA 370, 2009 DTC 5013. Of relevance to this appeal are the following remarks by Sharlow J.A.:
+[6] It is argued for Mr. Fenwick that paragraph 8(1)(b) should be interpreted to apply to the legal expenses he incurred to establish that the amount of salary he received from Hemispheres was reasonable, because he had to prove that the remuneration he received was reasonable in order to prove that he was legally entitled to receive and retain it. As I understand this argument, it raises a question of the interpretation of paragraph 8(1)(b), which is a question of law, as well as a question of the characterization of the claims against Mr. Fenwick and of the application of paragraph 8(1)(b) to that characterization, which are questions of mixed fact and law. The decision of Justice Woods must stand unless she misinterpreted paragraph 8(1)(b), or made a palpable and overriding error in characterizing the claims against Mr. Fenwick or in applying paragraph 8(1)(b) to the facts.
+[7] Justice Woods rejected the broad interpretation of paragraph 8(1)(b) proposed on behalf of Mr. Fenwick. In my view she was correct to do so. Paragraph 8(1)(b) has a relatively narrow scope. It is intended to apply where an employee incurs legal expenses in attempting to collect unpaid salary or wages, or in attempting to resolve a dispute with an employer or former employer as to the amount of salary to which the employee is entitled (see Loo v. Canada, 2004 FCA 249). In the latter case, it is usually the employee alleging an underpayment.
+[8] It is an open question whether paragraph 8(1)(b) also applies to legal expenses incurred by an individual who is being sued by an employer or former employer for reimbursement of an overpayment of salary or wages. For the purposes of this appeal, I will assume without deciding that paragraph 8(1)(b) could apply in those circumstances. However, Justice Woods held, and I agree, that paragraph 8(1)(b) is not intended to permit legal expenses to be deducted when they are incurred in litigation involving a claim for damages involving disputes other than those arising from the terms of employment, merely because the defendant’s entitlement to particular remuneration is an element of the claim.
+[14] The Federal Court of Appeal also agreed, in the circumstances, with the trial judge’s decision to determine the essential nature of the claim against the taxpayer based upon a review of the statement of claim.
+[15] I agree with the obiter comments of Woods J. in Fenwick that paragraph 8(1)(b) is capable of being interpreted, and should be interpreted, as extending to legal expenses incurred by an employee in order to retain salary already paid when that employee is faced with litigation seeking to reclaim such amount. In such a case the point in controversy remains the employee’s legal entitlement to the salary, and the employee is seeking to establish his right to the salary.
+[16] That issue was not before the Federal Court of Appeal in Loo v. Canada, 2004 FCA 249, 2004 DTC 6540, which predated the Federal Court of Appeal’s decision in Fenwick. Further, the issue in this case is materially different from those in the cases referred to by the Federal Court of Appeal in Loo, which involved proceedings to establish a right to a promotion that would have made it possible to earn future higher income, proceedings to maintain a professional qualification in order to earn future income, and a claim against an employer for damages for wrongdoing in the course of employment.
+[17] The remaining question is whether the action against Mr. Chagnon sought to reclaim compensation paid to him as an employee, or whether his situation was as described in Fenwick, namely one involving a significantly broader claim brought against the taxpayer that relates to alleged wrongdoing by him while he was an employee.
+[18] I am of the opinion that, on the particular facts of this case, Mr. Chagnon should succeed. The claim against him related to the very issuance of the options to him upon his appointment as president and CEO. My conclusion on this point might have been otherwise had the claim related to alleged inside information used in the course of disposing of options already received. The amount claimed in the “Déclaration précisée” ([TRANSLATION] “Detailed Statement of Claim”) filed in the Superior Court of Quebec is the precise amount of the additional salary reported in respect of the options at issue. That is the sole relief requested in that statement of claim. The Superior Court of Quebec found Mr. Chagnon to have done nothing wrong; specifically, it found him not to have been involved in setting the terms of the grant of the options, and dismissed the action. This contrasts with Fenwick, in which there was a large number of allegations and a confidential settlement.
+[19] It is true that, in support of their attempt to reclaim the amount of option‑related employment compensation at issue, Vidéotron and QMI relied upon the insider trading prohibition in the Securities Act and the employment loyalty provisions of the Civil Code of Quebec. That these were the means that they felt could best support their attempt to reclaim the amount does not change the important fact that they sought solely to reclaim the very amount of compensation paid to Mr. Chagnon. There is no suggestion by the Respondent that the section 67.6 (Income Tax Act) restriction on the deduction of fines and penalties applies.
+[20] For these reasons I hold that the taxpayer’s appeal should be allowed on the basis that the legal expenses were incurred by him to establish his right to salary earned by him.
+[21] With respect to the amount of Mr. Chagnon’s deduction of legal expenses for 2005, the $383,005 amount of such expenses incurred by him must be reduced by the amount of costs awarded him by the Superior Court of Quebec that relates to 2005.
+[22] The taxpayer has raised two alternative arguments, which I do not have to rule upon. First, the taxpayer maintains that the legal expenses should be deductible as an expense incurred to earn income from property, namely the options, and thus should give rise to a corresponding property loss for 2005. Second, the taxpayer maintains that the legal expenses give rise to a capital loss. I would observe that, since section 7 of the Income Tax Act deems employment stock option revenues to be employment income, I have considerable difficulty understanding how options such as these, that is, options in respect of which all amounts are included in employment income, can also be a source of property income or be capital property. Similarly, given that the options became null in 2000, it is not clear how they could have given rise to a property loss in 2005.
+[23] The appeal is allowed with costs.
+Signed at Ottawa, Canada, this 25th day of May 2011.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 31st day of May 2011
+Erich Klein, Revisor
+APPENDIX
+2009‑1197(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+CLAUDE CHAGNON
+Appelant
+-et-
+SA MAJESTÉ LA REINE
+Intimée
+EXPOSÉ PARTIEL ET CONJOINT DES FAITS
+1. Avant le 19 janvier 2000, l’appelant détenait 426 467 options d’achat d’actions de Le Groupe Vidéotron Limitée (GVL) dont le prix d’exercice variait entre 6,225 $ et 24,10 $.
+2. Le 19 janvier 2000, l’appelant est devenu le président et chef de direction de GVL et s’est vu à ce titre octroyer et a accepté 1 223 033 options d’achat d’actions de GVL au prix unitaire de 26 $.
+Pièce 1 : Copie du procès‑verbal de la réunion du comité de régie d’entreprise et des ressources humaines de Le Groupe Vidéotron Ltée du 18 janvier 2000.
+Pièce 2 : Copie du procès‑verbal de l’assemblée du conseil d’administration de Le Groupe Vidéotron Ltée du 19 janvier 2000.
+Pièce 3 : Convention d’octroi d’options d’achat d’actions du 19 janvier 2000.
+3. Le 16 octobre 2000, le régime d’options d’achat d’actions de GVL fut modifié pour permettre aux participants de recevoir de GVL un montant correspondant à la différence entre la valeur des actions de GVL pour lesquelles ils détiennent des options et le prix d’exercice de leurs options.
+Pièce 4 : Copie de l’extrait du procès‑verbal de la réunion du conseil d’administration de Le Groupe Vidéotron Ltée du 16 octobre 2000 approuvant cette modification au régime d’options d’achat d’actions.
+4. Suite à une acquisition de GVL par Quebecor Média Inc. (QMI), le 23 octobre 2000, l’appelant s’est prévalu des modifications apportées au régime d’options d’achat d’actions concernant les 1 649 500 options d’achat d’actions qu’il détenait dans GVL.
+5. Le prix d’exercice de ces options s’élevait à 37 544 583,50 $, dont 23 237 627 $[1] équivalent à la différence entre la valeur des actions de GVL résultant de la levée des 1 223 033 options acceptées le 19 janvier (soit 45 $) et le prix d’exercice des ces options (26 $).
+6. De ce montant de 37 544 583,50 $, GVL a retenu à la source une somme de 19 023 840 $ et a versé à l’appelant la somme de 18 520 743 $.
+7. L’appelant a inclus cette somme dans son revenu d’emploi tel que requis par l’alinéa 7(1)(b) de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2000.
+Pièce 5 : Copie de T4 de Claude Chagnon pour l’année 2000.
+8. GVL et QMI ont par ailleurs intenté une poursuite en 2002 réclamant à l’appelant la somme de 23 237 627 $, soit une somme équivalente à la différence entre la valeur des actions de GVL résultant de la levée des 1 223 033 options acceptées le 19 janvier et le prix d’exercice de ces options, sous prétexte que l’acceptation des 1 223 033 options d’achat de GVL le 19 janvier 2000 et l’exercice des droits relatifs à ces options d’achat d’actions représentaient dans les circonstances un délit d’initié aux termes de la Loi sur les valeurs mobilières[2]. GVL et QMI invoquaient également que monsieur Chagnon avait manqué à son obligation de loyauté à titre d’administrateur et de dirigeant de GVL en contravention des articles 322 et 323 du Code civil du Québec et à son obligation précontractuelle de renseignement en contravention des articles 6, 7 et 1375 du Code civil du Québec.
+Pièce 6 : Déclaration précisée du Groupe Vidéotron Ltée et Quebecor Média inc. dans le dossier Le Groupe Vidéotron Ltée et Quebecor Média inc. c. Monsieur Claude Chagnon de la Cour supérieure portant le numéro 500-05-074208-024, datée du 15 novembre 2002.
+Pièce 7 : Défense et demande reconventionnelle précisée de monsieur Claude Chagnon dans le dossier Le Groupe Vidéotron Ltée et Quebecor Média inc. c. Monsieur Claude Chagnon de la Cour supérieure portant le numéro 500-05-074208-024, datée du 23 janvier 2004.
+9. Le 27 mai 2009, la Cour supérieure a rejeté la poursuite de GVL et QMI contre Claude Chagnon mentionnée dans le paragraphe ci-haut.
+Pièce 8 : Copie du jugement de Le Groupe Vidéotron Ltée et Quebecor Média Inc. c. Monsieur Claude Chagnon de la Cour supérieure portant le numéro 500-05-074208-024, daté du 27 mai 2009.
+10. Dans le cadre de cette poursuite, l’appelant a engagé et déduit de son revenu pour les années d’imposition 2005 à 2009 les montants suivants à titre de frais judiciaires et d’expert en vertu de l’alinéa 8(1)(b) de la Loi :
+Année fiscale
+Montant des frais
+judiciaires
+2005
+383 005,00
+2006
+678 846,63
+2007
+276 323,64
+2008
+237 982,67
+2009
+930 074,71
+Total
+2 506 232,65
+11. Par avis de cotisation daté du 21 août 2006, la Division de la vérification de l’Agence a refusé la déduction de 383 005,00 $ pour l’année fiscale 2005.
+Pièce 9 : Copie de l’avis de cotisation, daté du 21 août 2006, refusant la déduction des frais judiciaires pour l’année d’imposition 2005.
+12. Le ou vers le 20 novembre 2006, l’appelant s’est opposé à l’avis de cotisation établi par l’intimée le 21 août 2006 pour l’année d’imposition 2005.
+Pièce 10 : Copie de l’avis d’opposition, daté du 20 novembre 2006, contre l’avis de cotisation daté du 21 août 2006.
+13. Le ou vers le 19 janvier 2009, l’Agence du revenu du Canada a confirmé l’avis de cotisation daté du 21 août 2006.
+Pièce 11 : Copie de la lettre de l’Agence du revenu du Canada datée du 19 janvier 2009.
+14. Seule la cotisation relative à l’année d’imposition 2005 est en litige devant cette Cour.
+CITATION: 2011 TCC 268
+COURT FILE NO.: 2009‑1197(IT)G
+STYLE OF CAUSE: CLAUDE CHAGNON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: April 13, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: May 25, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Barsalou
+Counsel for the Respondent:
+Nathalie Labbé
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Pierre Barsalou
+Firm: Barsalou Lawson
+Montreal, Quebec
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] (45 $ moins 26 $) X 1 223 033 = 23 237 627 $.
+[2] Loi sur les valeurs mobilières du Québec, L.R.Q., c. V-1.1.

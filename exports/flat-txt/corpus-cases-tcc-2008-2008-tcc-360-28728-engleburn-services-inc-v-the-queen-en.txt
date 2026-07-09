@@ -1,0 +1,248 @@
+Title: Engleburn Services Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28728/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-360-28728-engleburn-services-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-06-18
+
+# Engleburn Services Inc. v. The Queen
+
+- Citation: 2008 TCC 360
+- Decision date: 2008-06-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1451, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Engleburn Services Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-18
+Neutral citation
+2008 TCC 360
+File numbers
+2004-2187(GST)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-4396(GST)G
+BETWEEN:
+JOHN PAUL REXE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Engleburn Services Inc. (2004-2187(GST)G) on May 5 and 6, 2008, at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Paul E. Hawa
+Counsel for the Respondent:
+Ronald MacPhee
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment Third Party Goods and Services Tax made under Part IX of the Excise Tax Act, notice of which is dated June 9, 1997 and bears number 24730 is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of June 2008.
+“B. Paris”
+Paris, J.
+Docket: 2004-2187(GST)G
+BETWEEN:
+ENGLEBURN SERVICES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of John Paul Rexe (2003-4396(GST)G) on May 5 and 6, 2008, at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Paul E. Hawa
+Counsel for the Respondent:
+Ronald MacPhee
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under Part IX of the Excise Tax Act, notice of which is dated April 4, 1996 and bears number 04DP0105883 is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of June 2008.
+“B. Paris”
+Paris, J.
+Citation: 2008TCC360
+Date: 20080618
+Dockets: 2003-4396(GST)G
+2004-2187(GST)G
+BETWEEN:
+JOHN PAUL REXE,
+ENGLEBURN SERVICES INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] These are appeals from a reassessment of the corporate appellant, Engleburn Services Inc. (“Engleburn”) dated April 4, 1996, and an assessment of the director of Engleburn, John Paul Rexe (“Rexe”), dated June 9, 1997, both made under Part IX of the Excise Tax Act R.S.C. 1985, c. E-15. The appeals were consolidated by Order of the Court dated December 22, 2004.
+[2] The portion of the Engleburn, reassessment that is in dispute relates to the denial of notional input tax credits of $3,902,053.32 which Engleburn had claimed for the period from June 14, 1993 to December 31, 1995. Engleburn is also disputing the imposition of gross negligence penalties totaling $975,513.33.
+[3] Rexe was the sole director and shareholder of Engleburn. He was assessed in his capacity as director for the unpaid liability of Engleburn for GST and interest and penalties totaling $5,899,636.50.
+Issues
+[4] Engleburn claimed the notional input tax credits in the course of its business of purchasing and reselling used vehicles which it commenced on June 14, 1993. Engleburn purchased the vast majority of the vehicles from native vendors operating ostensibly on a reserve. At the time it filed its GST returns, Engleburn took the position that it was entitled to notional input tax credits because no GST was paid or payable on the used vehicles it bought from the native vendors.
+[5] At the hearing of the appeals, counsel for the Appellants conceded that the native vendors were required to charge GST on the sales to Engleburn and therefore that Engleburn was not entitled to the notional input tax credits that it had claimed. However, he submitted that Engleburn was still entitled to actual input tax credits (equal to the amount of the notional input tax credits originally claimed) because GST was included in the purchase price of the vehicles.
+[6] The first issue, then, is whether Engleburn is entitled under subsection 169(1) of the Act to input tax credits of $3,902,053.32 for the period in question.
+[7] If it is found that Engleburn was not entitled to the input tax credits, the second issue is whether Engleburn is liable for gross negligence penalties under section 285 of the Act for over claiming the notional input tax credits.
+[8] If Engleburn is liable for GST and the related penalties, the third issue is whether Rexe, as director of Engleburn, is liable for those amounts pursuant to section 323 of the Act.
+Evidence
+[9] The parties filed a partial statement of agreed facts and Rexe gave evidence for the Appellants. The Respondent called Michael Schwarz, Linda Whetung (“Whetung”), and Larry Norman (“Norman”). Schwarz was the GST auditor who raised the assessments, Whetung is a lawyer in Peterborough who had done work for Rexe, and Norman was one of the native automobile vendors from whom Engleburn purchased vehicles.
+[10] Rexe has been a teacher in Peterborough for many years. He obtained a diploma in education from the University of Toronto, where he had also taken courses in business, economics and law. He also said that he had done two years of chartered accountancy in the early 1960s. He has been involved in municipal politics in Peterborough since 1972 and was a city councilor for a number of years in the 1980s. In addition to his teaching job, he also ran a consulting business preparing marketing and business plans, evaluating business proposals and providing a financial and policy review for at least one government department.
+[11] Rexe said that he incorporated Engleburn in 1985 as a shelf company to have available in order to take advantage of any business opportunity that might present itself as a result of his consulting work. The company was dormant until June 1993. Just before that time, his brother, Steve Rexe (“Steve”), lost his job as an automobile wholesaler with Condie Motors in Napanee and Kingston (“Condie”) and had decided to go into business himself. Steve approached Rexe for help, and they decided to use Engleburn to carry on the business of buying and selling used automobiles, using the name “Rexe Wholesale Automotive.” Rexe prepared a comprehensive business plan for Engleburn in May 1993 that was used to obtain a $15,000 startup loan from the CIBC. He also invested $15,000 of his own money.
+[12] Steve and his son, Ryan, handled the vehicle purchases and sales, and Rexe dealt with administrative matters including the banking. Rexe used his home address as the company’s mailing address and he arranged to pay all the bills. Rexe said that, apart from his administrative duties, his participation in the business was limited to attending a few vehicle auctions with his brother and driving to certain locations to pick up or drop off vehicles. He said that he had little time to devote to the business.
+[13] According to the evidence, Engleburn intended from the outset to purchase a significant number of vehicles from native vendors on nearby reserves to claim notional input tax credits in respect of those purchases. Rexe and his brother got the idea of claiming notional input tax credits on vehicles purchased from natives after Steve had seen it done at Condie. Rexe said that the notional input tax credits were Engleburn’s edge in the business and allowed it to undercut other vehicle wholesalers. Engleburn allegedly sold the cars that it purchased from the native dealers for less than it had paid for them, but still made a profit on each sale as a result of claiming the notional input tax credits.
+[14] It was Rexe’s understanding that GST was not payable on vehicles purchased from a status Indian where the purchaser took possession of the vehicle on the reserve. He said that Whetung, confirmed this position, and that the local GST office told him that there was no GST payable if he purchased a car from a native on a reserve. He also said that the sales manager at Condie told him that Condie had obtained three legal opinions on the point and that Condie had been audited by Revenue Canada and its claims for notional input tax credits had been allowed. In cross-examination Rexe said he also discussed notional input tax credits with his accountant at Grant and Company.
+[15] To protect Engleburn in the event that his understanding turned out to be incorrect and that GST was required to be paid, Rexe said that Steve had an agreement with the native vendors that the purchase price would include GST. In this way the native vendors, and not Engleburn, would be liable for any GST that was due.
+[16] From June 14, 1993 to December 31, 1995, Engleburn purchased approximately $59 million worth of vehicles from two native vendors: Jackie Edward Maracle, operating as JEM Auto Sales (“JEM”), and Larry Norman, operating as CTM Wholesale and Leasing (“CTM”). In Engleburn’s GST returns filed between June 1993 and December 31, 1995 it claimed notional input tax credits totaling over $3.9 million on these purchases. During this period it resold these vehicles and collected GST from the purchasers. In filing its GST returns, Engleburn offset the GST that it had collected with the notional input tax credits with the result that it made minimal remittances of net GST.
+[17] Rexe testified that he was unaware of the large volume of business that Engleburn did during the period in question. According to the business plan Rexe prepared for Engleburn in order to obtain the CIBC loan, Engleburn’s sales from 1993 to 1998 were projected to be between $2 and $5 million annually. He could not explain how the volume of business was so much greater than projected, saying only that he was not there, and that his brother was doing the buying and selling. He said that all he saw with respect to the business was the final figures on the GST returns that were prepared by the accountants. He said that Steve would take all records relating to vehicle purchases and sales to Engleburn’s accountants, who would prepare the GST returns and a cheque for the amount owing, and Rexe would simply sign them. The accountants only performed basic bookkeeping functions for Engleburn and no financial statements were ever prepared. Rexe testified that Engleburn intended to purchase vehicles from other sources, but the extent to which this occurred was not clear from the evidence. It seems that few such vehicles were purchased by Engleburn.
+[18] Rexe also said he was not aware of where the money came from to make the purchases and that his brother handled it. He also said that he was not aware that notional input tax credits were being claimed on over $50 million worth of purchases until much later and that he had never seen the invoices for the transactions until years later.
+[19] Engleburn was audited by Revenue Canada for GST in July 1995. In a letter dated July 28, 1995 the auditor proposed to disallow the notional input tax credits claimed by Engleburn on used vehicles purchased from JEM and CMT because both vendors were required by the Act to be registered and to collect GST on their sales. The amount of notional input tax credits that had been claimed by Engleburn up to that point was $386,846.46.
+[20] In order to defend Engleburn’s position, Rexe drafted letters for signature by Maracle and Norman setting out that the cars purchased from JEM and CTM, respectively, were picked up on Indian reserves and that the price paid was “the total price.” He said that Steve had Norman and Maracle sign the letters.
+[21] Engleburn continued to make purchases from the native vendors and to claim an additional approximately $3.6 million of notional input tax credits. Engleburn was subsequently assessed on April 4, 1996 to deny all of the $3,902,053.32 of notional input tax credits claimed for the period between June 14, 1993 and December 31, 1995.
+[22] Norman testified that CTM was a new business he started in 1993 that brokered cars for sale and for export to the U.S. He said that Steve purchased cars from him on half a dozen occasions, but that he had not sold him $53 million worth of cars as claimed by Engleburn. He said that the signature on the bills of sale for the cars was not his and pointed out that the Motor Vehicle Dealers Association registration number shown for him was wrong on a number of bills. He said that he was aware that other people had used his name and registration number in order to “claim GST back” but did not elaborate. He said that he did not know if the money paid by Engleburn for the vehicles went through his bank account because he never checked, and he did not keep his bank statements.
+[23] Norman confirmed that he was not registered for the GST and did not charge GST on cars that he sold to Engleburn. He said that he had been told by his Chief not to register for the GST. However, he said at one point he had to register in order to claim a refund of tax paid on a car purchased at auction. Once he received his refund he said he asked Revenue Canada to de-register him because he was a native operating on a reserve and that Revenue Canada de-registered him.
+[24] Norman denied that he ever agreed that if GST were payable on the transaction he would be responsible to pay it. He also denied signing the letter stating that the price paid by Engleburn to CTM for vehicles was the “total price”. Norman said that the signature was his but that he had not signed the letter.
+[25] Whetung testified that she never gave Rexe advice on GST. She had done legal work for Rexe on a number of occasions but he was not a regular client. She could recall only one occasion on which specifically recalled Rexe seeking her advice on a matter involving natives and GST in a conversation that took place at the counter of her law firm, when Rexe dropped by for “five minutes.” She recalled that he had a plan involving cars and natives on a reserve and GST. However, she advised Rexe that she was not qualified to give an opinion regarding liability for GST. She said that she would remember if she had given him an opinion, and she was adamant that she had not done so.
+Issue 1: Availability of input tax credits
+[26] Input tax credits may be claimed under subsection 169(1) of the Act where a registrant acquires or imports a service or property that is used in the registrant’s business and GST is paid or payable by the registrant on the supply or importation.
+[27] The relevant portions of subsection 169(1) read as follows:
+Subdivision b
+Input tax credits
+169. (1) General rule for credits — Subject to this Part, where property or a service is supplied to or imported by a person and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply or importation becomes payable by the person or is paid by the person without having become payable, the input tax credit of the person in respect of the property or service for the period is the amount determined by the formula
+A x B
+where
+A is the total of all tax in respect of the supply or importation that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been
+paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service for consumption, use or supply in the course of commercial activities of the person.
+[28] The Respondent’s counsel argued that there were two reasons why Engleburn was not entitled to any input tax credits in respect of vehicles purchased from JEM and CTM. Firstly, he said that Engleburn had not paid GST on any vehicles purchased from those vendors. Secondly, even if Engleburn had paid GST, Engleburn did not have a GST registration number for either Maracle or Norman, and that this was fatal to a claim for input tax credits since it was required to have this information by paragraph 169(4)(a) of the Act and section 3 of the Input Tax Credit Information Regulations. Those provisions read as follows:
+(4) Required documentation – A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed;
+. . .
+Prescribed Information
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply, or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the supplier’s name or the name under which the supplier does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150
+(i) the information set out is paragraph (a),
+(ii) the registration number assigned to the supplier pursuant to section 241 of the Act,
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies, a statement to the effect that tax is included in the amount paid or payable for each supply in respect of which there is tax paid or payable, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply, and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraph (a) and subparagraphs (b)(ii) to (v),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[29] The Appellants’ counsel submitted that Engleburn was entitled to the input tax credits because it had paid GST on all of its purchases of vehicles from the native vendors, and had sufficient records available to establish the GST paid on those purchases.
+[30] Counsel referred to invoices relating to vehicles purchased by Engleburn from JEM Auto Sales, on which the vendor wrote “all applicable taxes included in price”, or “prices include all applicable taxes” and to the letters from Norman and Maracle that Engleburn had obtained after the GST audit that stated that the price paid was the total price.
+[31] Counsel for the Appellant conceded that Maracle and Norman did not have GST registration numbers at the time they sold vehicles to Engleburn, but he argued that the Minister still has discretion under subsection 169(5) of the Act to allow input tax credits. Subsection 169(5) gives the Minister the power to exempt a registrant from the requirements of subsection 169(4) and the prescribed Input Tax Credit Information Regulations. It reads as follows:
+(5) Exemption – Where the Minister is satisfied that there are or will be sufficient records available to establish the particulars of any supply or importation or of any supply or importation of a specified class and the tax in respect of the supply or importation paid or payable under the Part, the Minister may
+(a) exempt a specified registrant, a specified class of registrants or registrants generally from any of the requirements of subsection (4) in respect of that supply or importation or a supply or importation of that class; and
+(b) specify terms and conditions of the exemption.
+[32] It is clear from the wording of subsection 169(1) that a registrant may claim an input tax credit in respect of the supply where GST is paid or payable with respect to the supply. Given that both the Appellants and the Respondent agree that GST was payable by Engleburn on its purchases of vehicles from Maracle and Norman, it is not material whether GST was in fact paid, and it is not necessary to make a finding in this respect. It is sufficient that Engleburn was required under the Act to pay GST on the purchases, even if it may not have done so.(see Ventes D'Autos Giordano Inc. v. R., [2001] G.S.T.C. 37 at paragraph 44, and Morin v. R., [2004] G.S.T.C. 48, at footnote 1).
+[33] However, I find that Engleburn’s failure to obtain GST registration numbers for Maracle and Norman as required by paragraph 169(4)(a) of the Act and paragraph 3(b)(i) of the Input Tax Credit Information Regulations is fatal to its claim for the input tax credits. It is now clearly established that the information requirements in those provisions are mandatory: (see Systematix Technology Consultants Inc. v. R. [2007] F.C.A. 226 at paragraphs 4 and 5.)
+[34] Also, this Court has no jurisdiction under subsection 169(5) to grant any relief from the requirements of subsection 169(4) and the related regulations. Such relief is solely at the discretion of the Minister, and this Court does not have jurisdiction to compel the Minister to exercise that discretion in a particular way.
+Issue 2: Section 285 penalties
+[35] Section 285 imposes a penalty for false statements or omissions, made knowingly or in circumstances amounting to gross negligence. The penalty is equal to 25% of the amount of tax that is under-remitted or of the excess refund obtained.
+[36] That provision reads as follows:
+285. False statements or omissions — Every person who knowingly, or under circumstances amounting to gross negligence in the carrying out of any duty or obligation imposed by or under this Part, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (in this section referred to as a “return”) made in respect of a reporting period or transaction is liable to a penalty of the greater of $250 and 25% of the amount, if any, by which
+(a) in the case of net tax for a period,
+(i) the amount of net tax of the person for the period
+exceeds
+(ii) the amount that would be the net tax of the person for the period if the net tax were determined on the basis of the information provided in the return;
+(b) in the case of tax payable for a period or transaction,
+(i) the amount of tax payable by the person for the period or transaction
+exceeds
+(ii) the amount that would be the tax payable by the person for the period or transaction if the tax were determined on the basis of the information provided in the return; and
+(c) in the case of an application for rebate,
+(i) the amount that would be the rebate payable to the person if the rebate were determined on the basis of the information provided in the return
+exceeds
+(ii) the amount of the rebate payable to the person.
+[37] It is well settled that the Respondent has the onus of proving the facts which would justify the imposition of the penalty: Alex Excavating Inc. v. Canada, [1995] G.S.T.C. 57; 897366 Ontario Ltd. v. R., [2000] G.S.T.C. 13. It is also well established that the standard for the imposition of penalties for gross negligence is a high one. The classic definition of “gross negligence” for this purpose is found in Venne v. The Queen, [1984] C.T.C. 223 (F.C.T.D.) at p. 234:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[38] The question before the Court is whether Engleburn knowingly, or in circumstances amounting to gross negligence, claimed notional input tax credits to which it was not entitled on the GST returns it filed for the periods between June 14, 1993 and December 31, 1995. It was admitted that Engleburn claimed the notional input tax credits on returns that were prepared by its accountants and signed by Rexe.
+[39] The notional input tax credit mechanism has since been removed from the Act, but in the years in issue section 176 deemed GST to have been paid by a registrant where the registrant had acquired used tangible personal property on which he or she was not required to pay GST. This enabled the registrant to claim notional input tax credits in respect of these purchases. Since no GST had in fact been paid, the input tax credits were referred to as “notional.”
+[40] Section 176 read as follows:
+176(1) Acquisition of used goods – Subject to this Division, where
+(a) used tangible personal property is supplied in Canada by way of sale after 1993 to a registrant , tax is not payable by the registrant in respect of the supply, and the property is acquired for the purpose of consumption, use or supply in the course of commercial activities of the registrant, or
+(b) used tangible personal property is supplied in Canada by way of sale before 1994 to a registrant, tax is not payable by the registrant in respect of the supply, and the property is acquired for the purpose of supply in the course of commercial activities of the registrant,
+for the purposes of this Part, the registrant shall be deemed (except where the supply is a zero-rated supply or where section 167 applies to the supply) to have paid, at the time any amount is paid as consideration for the supply, tax in respect of the supply equal to the tax fraction of that amount.
+[41] The requirement to pay GST is found in subsection 165(1) of the Act, which provides that every recipient of a taxable supply made in Canada must pay a tax equal to 7% of the consideration for the supply. A taxable supply is defined in subsection 123(1) as a supply that is “made in the course of commercial activity.”
+[42] Engleburn’s claim for notional input tax credits was based on the position that GST was not payable on any purchases of property from natives where the property was located on a reserve. Counsel maintained that Rexe made reasonable efforts to ensure the correctness of this position prior to claiming the notional input tax credits, seeking advice from a lawyer and Revenue Canada itself. Counsel argued that the policy of Revenue Canada was that natives were not required to register for GST or to collect it and that this policy had been communicated to and relied upon by Engleburn. Since the claims for the notional input tax credits were consistent with this advice and with Revenue Canada policy and information received from Condie, it could not be said that Engleburn knowingly or in circumstances amounting to gross negligence made any false statements.
+[43] The Respondent submits that Engleburn was grossly negligent in claiming notional input tax credits without making any effort to determine whether it was legally entitled to them. Counsel submits that Rexe was well educated and had extensive business experience and knew or ought to have known to obtain legal advice on behalf of Engleburn about how the GST legislation applied, especially since the claims were central to Engleburn’s business, and the claims were so large. Finally, he says that the fact that Engleburn continued to claim the notional input tax credits even after the Revenue Canada auditor advised that they would be disallowed showed that Rexe and Engleburn had little concern for complying with the Act.
+[44] While I am not satisfied that Engleburn knew at the time it made claims for the credits that those claims were false, in my view, it was recklessly indifferent to whether those claims were legitimate or not. The efforts that were shown to have been made to determine the legitimacy of the claims were woefully inadequate given the magnitude of the claims.
+[45] Firstly, the Appellants have not shown that Revenue Canada ever had a policy exempting natives from registering for GST. Rexe never said that he received this information in the telephone call he says he made to the local office in 1993. With respect to that conversation, Rexe simply testified that he asked if GST was payable if he bought a car from a native on reserve, and that he was told that no GST would be payable. No mention was made of a discussion of Revenue Canada policy.
+[46] Norman’s evidence is insufficient as well to show that Revenue Canada ever had the policy alleged. In general, his testimony was imprecise and often evasive, and I accord it little weight. He provided few specifics of his registration and de-registration for GST and I am unable to read in to his evidence any indication that Revenue Canada had a blanket policy of exempting all natives on a reserve from collecting GST, even where they were selling goods to non-natives for use off of a reserve.
+[47] Secondly, I am not satisfied that Rexe was told by the local Revenue Canada office that GST was not payable on the transactions Engleburn proposed to engage in with the native vendors. The conversation that was related by Rexe could at best be described as perfunctory. He admitted in cross-examination that he did not go into details with the person at Revenue Canada, and did not indicate how many cars he proposed to buy. It is difficult to understand why Rexe would not have gone into the details of his plan when speaking with the officer, and as a result, how he would have thought that the advice was sufficient basis for claiming notional input tax credits of almost $4 million. Finally, I note that the conversation was uncorroborated by any other evidence.
+[48] I also do not accept the evidence of Rexe that he ever obtained legal advice from Whetung concerning Engleburn’s obligation to pay GST on purchases made from natives operating on reserve.
+[49] Rexe said in his examination-in chief that Whetung told him that she knew nothing about GST but he said that Whetung stated that “if there was a conflict between the GST legislation and the Indian Act, the latter would prevail.” I presume that he took this to mean that GST would not be payable on the proposed transactions. He also said that Whetung told him that if the vendors said that GST was included in the sale price this should be marked on the invoice. This again was denied by Whetung.
+[50] I prefer the evidence given by Whetung that she did not give any legal advice to Rexe regarding the GST, even to the limited extent suggested by him. Her testimony was clear and consistent and unshaken in cross-examination. Whetung told Rexe that she did not have the expertise to give an opinion regarding GST payable on purchases of vehicles from natives on a reserve, and I find it unlikely that a lawyer would give a client any off the cuff opinion in those circumstances. Even if she had, it is hard to imagine anyone relying on it, given her explicit lack of expertise in the area.
+[51] Furthermore, Rexe’s recollection of the advice purportedly given was vague and confusing, and to a certain extent contradictory. If Whetung gave him advice that GST was not payable by Engleburn it is hard to understand why she would have also told him that the invoices should be marked to show that tax was included in the price paid.
+[52] Rexe admitted that he had no written opinion or reporting letter from Whetung and made no notes regarding this discussion, and had no legal bill showing any consultation with her regarding Engleburn.
+[53] Rexe also said he was told by the sales manager at Condie, Doug McMillian, that Condie had purchased cars from native dealers on a reserve and claimed notional input tax credits which had been allowed after an audit and that Condie had three legal opinions that said that it was entitled to the notional input tax credits. This evidence, which was tendered only as proof of what Rexe was told by McMillian, was uncorroborated. Rexe did not ask for a copy of the opinions and apparently made no notes of the conversation. The Appellants’ failure to call McMillian as a witness leads me to draw a negative inference in respect of the evidence he would have given concerning the alleged discussions with Rexe.
+[54] Rexe’s evidence in cross-examination that he spoke to Engleburn’s accountant at Grant and Company about the notional input tax credit matter, was not corroborated either. It is also inconsistent with evidence that Grant and Company was hired only to provide bookkeeping services to Engleburn, and performed no audit function. Furthermore, Rexe did not say what was talked about or whether he even received an opinion from the accountant. In addition, I draw another negative inference from the Appellants’ failure to call the accountant.
+[55] Overall I did not find the evidence of Rexe persuasive. If he had, in fact, got all of the legal advice from his lawyer and accountant and information from a Revenue Canada official and from McMillian at Condie that he said he did why then would he have insisted that the invoices be marked that the sale price included all taxes?
+[56] Other statements Rexe made in his testimony were hard to accept, too, or were contradictory. For example, he said that he was unaware that Engleburn was doing up to $500,000 of business a day, although the funds for the transactions passed through its bank account and Rexe received the bank statements. He also said he signed the GST returns in which Engleburn reported revenue of between $10 million and $14 million for each quarter of 1995. The only explanation he offered was that he was busy and signed the GST returns in a rush. He had no idea where the money for the purchases came from, although he handled administrative matters for Engleburn. At one point he said that he did not instruct the accountant to claim the notional input tax credits, but said later that he discussed notional input tax credits with him. At another point he said that when he prepared the business plan for Engleburn dated May 1993 he knew nothing about notional input tax credits, yet in earlier testimony he described the credits as Engleburn’s edge in the business it intended to carry on. May 1993 was also the month in which he met with Ms. Whetung to obtain GST advice. Later on, he said that he did not make any reference to the notional input tax credits in the business plan he prepared the same month because he was in a rush when he wrote it.
+[57] What I take from the evidence is that from the start of Engleburn’s operations, Rexe knew that its plan to buy vehicles from native dealers and claim notional input tax credits depended on GST not being payable on sales by natives made on a reserve. He was also aware that this could be a contentious issue. This led Rexe to attempt to confirm with Whetung that GST would not be payable. However, when he was told by Whetung that she was not qualified to give an opinion on the matter, he did not take any further action to get a legal opinion. Rexe’s conversation with the Revenue Canada officer, even if it did take place would not strike me as a genuine attempt to find out what Revenue’s policy was since little detail was disclosed by Rexe. Furthermore, the evidence did not show that any legal advice on the point was sought after Engleburn was advised by the auditor that the notional input tax credits would be disallowed. It continued to claim the credits in even larger amounts up to the end of 1995.
+[58] In failing to obtain the requisite legal advice, the Appellant was in my view indifferent to whether it was legally required to pay GST on the purchases from JEM and CTM. Engleburn was therefore indifferent to whether it complied with subsection 176(1) of the Act. Therefore, I find that Engleburn was grossly negligent in making the claims for the credits.
+Issue 3: Directors’ liability assessment
+[59] The assessment against Rexe was made under section 323 of the Act which reads as follows:
+(1) Liability of directors —Where a corporation fails to remit an amount of net tax as required under subsection 228(2), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+(2) Limitations — A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation ahs made an assignment or a receiving order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or receiving order.
+(3) Diligence—A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(4) Assessment —The Minister may assess any person for any amount payable by the person under this section and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+(5) Time limit — An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+(6) Amount recoverable — Where execution referred to in paragraph (2)(a) has issued, the amount recoverable from a director is the amount remaining unsatisfied after execution.
+(7) Preference —Where a director of a corporation pays an amount in respect of a corporation’s liability referred to in subsection (1) that is proved in liquidation, dissolution or bankruptcy proceedings, the director is entitled to any preference that Her Majesty in right of Canada would have been entitled to had the amount not been so paid and, where a certificate that relates to the amount has been registered, the director is entitled to an assignment of the certificate to the extent of the director’s payment, which assignment the Minister is empowered to make.
+(8) Contribution — A director who satisfies a claim under this section is entitled to contribution from the other directors who were liable for the claim.
+[60] Rexe relies on the defence available in subsection 323(3). He takes the position that he is not personally liable for any unremitted and unpaid amounts, because he exercised due care, diligence and skill to ensure that Engleburn met all of its GST obligations. In particular, he says that he took reasonable steps to ensure that the notional input tax credit claims were legitimate and therefore to ensure that Engleburn remitted the correct amount of GST.
+[61] The Federal Court of Appeal has held that the “due diligence” test applicable under subsection 227.1(3) of the Income Tax Act is an “objective-subjective” test (see Soper v. R., [1997] F.C.J. No. 881.). The same can be said of the due diligence test in section 323(3) of the Act. Therefore, in determining whether a director has exercised the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances to prevent a failure to remit GST, the court must take into account the characteristics of the directors whose conduct is in question, including their levels of relevant skill, experience and knowledge. The court must then ask whether, if faced with similar circumstances, a reasonably prudent person with comparable levels of skill, experience and qualifications would have acted in the same way as these directors: see Worrell v. R., [2000] G.S.T.C. 91 at paragraph 26.
+[62] Rexe is well-educated, intelligent and experienced in business and he was active in the administration and management of the affairs of the company. As Engleburn’s only director, it was incumbent upon him to take adequate steps to ensure that the company’s claims met the requirements of the Excise Tax Act.
+[63] For the reasons set out above, I am not satisfied that Rexe did what he said he did to verify Engleburn’s entitlement to the notional input tax credits. It is not necessary to repeat those findings. It is sufficient to say that he recognized the need for legal advice on the point, but failed to obtain any. Any reasonably prudent person with Rexe’s skill experience and knowledge would have sought and obtained an assurance from a qualified source that the plan to claim the notional input tax credits was permitted by the law. The large amounts of the claims and their importance to the operation of Engleburn’s business further underscore the duty to seek qualified advice.
+[64] In the result, I find that Rexe did not act as a reasonably prudent person would have done in similar circumstances and he cannot avail himself of the due diligence defence in subsection 323(3).
+[65] Both appeals are therefore dismissed, with one set of costs to the Respondent.
+Signed at Ottawa, Canada, this 18th day of June 2008.
+“B. Paris”
+Paris J.
+CITATION: 2008TCC360
+COURT FILE NOs.: 2003-4396(GST)G 2004-2187(GST)G
+STYLE OF CAUSE: JOHN PAUL REXE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto , Ontario
+DATE OF HEARING: May 5 and 6, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: June 18, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Paul E. Hawa
+Counsel for the Respondent:
+Ronald MacPhee
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Paul E. Hawa
+Firm: Paul Hawa
+Markham, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,135 @@
+---
+title: "Zarich v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521219/index.do"
+last_modified: "2023-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 157"
+citation2: ""
+neutral_citation: "2023 TCC 157"
+decision_date: "2023-11-08"
+language: "en"
+item_id: "521219"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5669
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T11:05:19.322000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f078f00a02d157656d934847b3daf100fa321887a1fd8a5d0b23a5fa1aaeacd9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zarich v. The King
+
+- Citation: 2023 TCC 157
+- Decision date: 2023-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5669, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zarich v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-11-08
+Neutral citation
+2023 TCC 157
+File numbers
+2021-8(IT)I
+Judges and Taxing Officers
+John R. Owen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-8(IT)I
+BETWEEN:
+MICHAEL ZARICH,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Written Motion filed September 26, 2023
+Before: The Honourable Justice John R. Owen
+Signatories:
+Agent for the Appellant:
+Allen Crosgrey
+Counsel for the Respondent:
+Sam Perlmutter
+ORDER
+WHEREAS the parties have brought a joint motion in writing for an Order to set aside the March 20, 2023 Judgment of this Court allowing the appeal without costs and referring the matter back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Consent to Judgment filed on March 20, 2023;
+AND UPON reviewing the parties’ joint motion in writing filed by the parties on September 26, 2023;
+IN ACCORDANCE with the attached Reasons for Order the motion is dismissed without costs.
+Signed at Ottawa, Canada, this 8th day of November 2023.
+“J.R. Owen”
+Owen J.
+Citation: 2023 TCC 157
+Date: 20231108
+Docket: 2021-8(IT)I
+BETWEEN:
+MICHAEL ZARICH,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Owen J.
+[1] The parties bring a joint motion under section 172 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) requesting that the Court:
+(1) set aside the March 20, 2023 Judgment of this Court allowing the appeal without costs and referring the matter back to the Minister of National Revenue (the “Minister”) for reconsideration and reassessment in accordance with the Consent to Judgment filed by the parties on March 20, 2023; and
+(2) issue a judgment that allows the appeal, without costs, and refers the matter back to the Minister for reconsideration and reassessment in accordance with an Amended Consent to Judgment filed on September 26, 2023.
+[2] The motion materials do not identify any case law in support of the motion. Even assuming I apply section 172 of the Rules to an appeal under the Informal Procedure,[1] the case law regarding section 172 of the Rules does not support this motion. In Highway Customs Warehouse Ltd. v. R., 2007 TCC 715, Bowie J. summarizes the applicable law in paragraph 12 of his reasons:
+In summary, then, the jurisprudence in this Court, in the Exchequer Court, in the Federal Court, and in the Federal Court of Appeal, as well as in England, establishes that the availability of the slip rule is limited to those cases in which the Court, not one or both of the parties, has made an accidental mistake or omission, or has given a judgment that manifestly does not accord with the reasons given. This is not such a case. The Court is functus officio in respect of these appeals. The respondent has consented to the amendment sought, and filed a brief in support of the motion. It is trite, however, that consent cannot confer jurisdiction: see Fleming v. Canadian Pacific Railway.
+[Emphasis and double emphasis added]
+[3] The Appellant was represented by counsel. The parties jointly filed a consent to judgment on March 20, 2023 (the “Consent”). The Court accepted the Consent and issued a judgment (not an Order, as suggested by the motion) giving effect to the terms of the Consent (the “Judgment”). At that point, the Court was functus officio save for the possible application of section 172 of the Rules.
+[4] The Consent was unambiguous and there was no indication on the face of the Consent that the agreement was inconsistent with the principle stated in paragraph 8 of Galway v. MNR, 74 DTC 6355 (FCC-AD) and confirmed in CIBC World Markets Inc. v. R., 2012 FCA 3. Consequently, there was no reason for the Court to question the agreement of the parties described in the Consent.
+[5] The Judgment was exactly as the Court intended: a judgment to give effect to the terms of the Consent. If there was an error in the Consent, it was an error of the parties, not an error of the Court. Consequently, section 172 of the Rules does not apply. As stated by Bowman, J. (as he then was) in CIT Financial Ltd. v. R., 2003 TCC 882 at paragraph 4:
+I do not think that the correction that counsel for the appellant asks that I make to my reasons falls within either section 168 or subsection 172(1) of the Rules. The judgment accords with the reasons and I have not overlooked or accidentally omitted something that should have been dealt with. There is no error or accidental slip or omission within the meaning of section 171 [sic] of the Rules. I rendered the judgment that I intended to. I am, in my view, functus officio.
+[6] As for any other basis on which to amend the Judgment, in Lehner v. MNR, 97 DTC 5270, the Federal Court of Canada-Appeal Division stated in paragraphs 2 and 3:
+2 It is common ground that the appeals which the applicant wished to amend had already been disposed of by two consent judgments of the Tax Court. It follows that those appeals could not be amended since an appeal which has been disposed of no longer exists.
+3 In effect, the applicant, in making these motions before the Tax Court, did not intend to re-open the two appeals. His purpose was to challenge the correctness of the reassessments made by the Minister following the two consent judgments. However, the only proper way to do that was to object to and appeal from those reassessments.[2]
+[7] For the foregoing reasons, the motion is dismissed without costs.
+Signed at Ottawa, Canada, this 8th day of November 2023.
+“J.R. Owen”
+Owen J.
+CITATION:
+2023 TCC 157
+COURT FILE NO.:
+2021-8(IT)I
+STYLE OF CAUSE:
+MICHAEL ZARICH AND HIS MAJESTY THE KING
+REASONS FOR ORDER BY:
+The Honourable Justice John R. Owen
+DATE OF ORDER:
+November 8, 2023
+SIGNATORIES:
+Agent for the Appellant:
+Allen Crosgrey
+Counsel for the Respondent:
+Sam Perlmutter
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[blank]
+Firm:
+[blank]
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Subsection 21(4) of the Tax Court of Canada Rules (Informal Procedure) provides for this possibility.
+[2] Cited in Scarola v. MNR, 2003 FCA 157 at para 21 and Tedesco v. Canada, 2019 FCA 235 at paragraphs 27. See, also, Mailloux v. R., 2012 FCA 331 at paragraph 8 and Struck v. R., 2017 FCA 69.

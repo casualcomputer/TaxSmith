@@ -1,0 +1,159 @@
+Title: Fisher v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31240/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-216-31240-fisher-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-07-11
+
+# Fisher v. The Queen
+
+- Citation: 2013 TCC 216
+- Decision date: 2013-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5145, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fisher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-11
+Neutral citation
+2013 TCC 216
+File numbers
+2011-1(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1(IT)G
+BETWEEN:
+KAY FISHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 26, 2013, at Toronto, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Alfred S. Schorr
+Counsel for the Respondent:
+Tony Cheung and Annette Evans
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years is dismissed, with costs payable to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 11th day of July 2013.
+“B.Paris”
+Paris J.
+Citation: 2013 TCC 216
+Date: 20130711
+Docket: 2011-1(IT)G
+BETWEEN:
+KAY FISHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from reassessments of Ms. Fisher’s 2003 and 2004 taxation years. The issue before the Court is whether Ms. Fisher is entitled to a capital loss of $239,236.19 in either her 2003 or 2004 taxation year in relation to a project to purchase and redevelop a regional shopping mall near Niagara Falls, New York. The project was ultimately abandoned and money which Ms. Fisher had provided was lost.
+[2] In her 2003 tax return, which she filed in 2006, Ms. Fisher claimed a business loss of $239,236.19 in respect of the project. She also sought to carry forward for the unused portion of the loss to her 2004 taxation year. The request for the loss led to an audit of her 2000 to 2004 taxation years by the Canada Revenue Agency (“CRA”). The audit resulted in a denial of her claim for the business loss and the loss carry forward. She was also reassessed for other matters that were subsequently reversed at the objection level.
+[3] In her original Notice of Appeal, Ms. Fisher claimed that she was entitled to a capital loss of $170,500 in her 2003 and 2004 taxation years in respect of the project, and requested a carry back of the allowable capital loss to her 2002 taxation year to offset a capital gain she realized in that year.
+[4] At the hearing, Ms. Fisher was represented by counsel and was permitted to amend her Notice of Appeal to increase the amount of the loss claimed to $239,236.19, and to advance the additional claim that the loss was a business investment loss within the meaning of paragraph 39(1)(c) of the Income Tax Act (“the Act”) in either 2003 or 2004. At the conclusion of the evidence, counsel for Ms. Fisher abandoned the business investment loss argument, presumably because it was clear the corporation in which Ms. Fisher alleges she invested the money was a U.S. corporation.
+Facts
+[5] In early 2003, an individual by the name of Howard Hurst (“Hurst”) was attempting to raise funds for a U.S. company, Niagara Falls Entertainment and Attraction Limited (“Niagara”), to fund the purchase of an aging regional shopping mall known as the Summit Park Mall. Hurst represented that he was a director of Niagara. I infer from his actions and from the documentation that he controlled Niagara as well.
+[6] According to a memo dated February 8, 2003 written by Hurst, Niagara was in negotiations to buy the mall, which it intended to redevelop into a major tourist attraction by adding a planetarium, a space theatre, a science and cultural museum, a Comedy Hall of Fame, a sports complex, a golf course, ice rinks, an aquatic park and a 200 room hotel.
+[7] Ms. Fisher became aware of the mall project through a work colleague, Arthur Lyew, (“Lyew”) who was a friend of Hurst’s. Lyew told Ms. Fisher that the project was a good investment and vouched for Hurst’s professionalism and skill. Ms. Fisher said she was also aware that Hurst had successfully developed a large property on Yonge Street in Toronto. All of this led her to agree to provide funding for the project out of an inheritance she had received.
+[8] Ms. Fisher entered into a Letter of Intent with Hurst and Niagara. The Letter of Intent was dated March 27, 2003 but it appears that it was executed by the parties on April 9, 2003 because other documents refer to this date in relation to it.
+[9] The Letter of Intent stated that Hurst was a director of Niagara and that Niagara had a letter of intent with ‘The Oberlin Partnership’ to purchase the Summit Park Mall for $3.55 million plus unpaid taxes of approximately $450,000 under an agreement of purchase and sale with a closing date of June 30, 2003. It also set out that Niagara would become the General Partner in a Limited Liability Partnership to acquire the mall.
+[10] The Letter of Intent provided that Ms. Fisher would loan Niagara a minimum of $125,000 US to be used as the deposit for the purchase of the mall and for related expenses. Niagara agreed to repay the loan along with a “20% interest bonus” on closing. Hurst agreed to personally guarantee the repayment of the principal portion of the loan. In addition, Ms. Fisher was to receive a 5% equity interest in Niagara and the option to convert her loan into an interest in the Limited Partnership. She was also to be given the opportunity to obtain investment financing for the Mall in return for a 3% commission.
+[11] Ms. Fisher also produced a copy of an “Interoffice Memorandum” from Hurst addressed to her, dated April 8, 2003, stating that he had entered into an agreement to purchase the Summit Park Mall on her behalf, and that he incorporated Niagara to sign the agreement as ‘bare trustee’ on her behalf. Ms. Fisher agreed, though, that she never intended to purchase the mall herself, and that she could not have afforded to do so. She said that it was her understanding that she would be one of a number of investors in the project.
+[12] Ms. Fisher gave Hurst three certified cheques for $50,000 each on April 14, 2003 and Hurst gave Ms. Fisher two promissory notes: one for $100,000 and one for $50,000. The promissory notes were both dated April 9, 2003 and were payable by Hurst personally.
+[13] Ms. Fisher said that after she gave Hurst the money she visited the mall with Hurst and met other potential investors and local government officials from the town in which the mall was located. She trusted Hurst to handle the matter and relied on him to keep her informed about the project. She kept in regular contact with him and was told that the closing was delayed a number of times. She said that on various occasions Hurst asked her for more money for the project. Often, he requested that she provide him with cash, which he said was necessary to expedite the payment of expenses relating to the prospective purchase. The only records she had of these additional payments were two cancelled cheques for $17,500 and $3,000 dated January 12, 2004 and February 24, 2004, respectively. Ms. Fisher wrote “accounting” on the former cheque and “loan” on the latter.
+[14] What happened next is not entirely clear. The purchase of the mall by Niagara did not proceed and there is a reference in later documents to litigation between Niagara and Oberlin. Ms. Fisher was apparently made aware of these events by Hurst, at least in a general sense, but she was not able to say with any certainty when the mall project was ultimately abandoned. Generally, Ms. Fisher’s recollection with respect to the timing of events and the amounts paid to Hurst was not good. This is understandable, given the amount of time that has passed since her dealings with Hurst. Ms. Fisher was adamant, though, that she knew by the end of 2003 or the beginning of 2004 that her money had been lost.
+[15] In her testimony, Ms. Fisher said that when it became clear that the mall project was not going ahead, Hurst repeatedly assured her that he would “replace” her loss by giving her an interest in other projects, but nothing ever came of it. She tried contacting him many times, but learned that he was out of the country working in Ghana. Eventually, she said, he stopped responding to her emails. Again, it was not clear from Ms. Fisher’s testimony when these events took place. I also gather from Ms. Fisher’s testimony that she did not attempt to contact Hurst to give evidence in this matter because she believed that he was still out of the country.
+[16] In mid-2006 Ms. Fisher emailed Hurst to request a copy of the Agreement of Purchase and Sale for the mall. On June 23, 2006, Hurst emailed Ms. Fisher and attached an unexecuted copy of the Agreement of Purchase and Sale. He also stated that he was attaching a “letter setting out the relationship between the parties to the transaction”, but no such letter was attached to the copy of the email that was produced at the hearing. It is not clear to which letter he was referring and Ms. Fisher was unable to shed any light on the matter.
+[17] In the June 23, 2006 email, Hurst also wrote to Ms. Fisher that:
+As you are aware, Oberlin would not close the transaction necessitating our filing of a ‘lis pendens’ on title.
+Because of the legal advice we were given and the fact that the Summit Park Mall lost almost all of their major tenants while the litigation was ongoing, we agreed to drop the action for payment by Oberlin of our litigation fees.
+[18] There is no indication in the evidence when the events referred to by Hurst in the email took place.
+[19] On September 11, 2006, at Hurst’s request, Ms. Fisher signed a “Termination Agreement” between herself, Hurst, Niagara and another company. That agreement read as follows:
+Termination Agreement – The Summit Park Mall
+This letter is in furtherance to the Letter of Intent dated April 9, 2003 between Niagara Attraction & Entertainment Inc., Mesh Entertainment Inc., Mr. Howard Hurst, and Ms. Kay Fisher (“Letter of Intent”) with respect to the acquisition of The Summit Park Mall (“Property”).
+We hereby acknowledge and agree that:
+1. the Agreement of Purchase and Sale between Niagara Attraction & Entertainment Ltd. (“Niagara”) as bare trustee and Oberlin Investors, LLC (“Oberlin”) to acquire the Property was terminated and that Niagara and Oberlin have provided mutual releases with respect to the acquisition.
+2. all funds invested were utilized in accordance with the Statement of Real Estate Operations dated December 31, 2003 and that all and any Security generated directly or indirectly with respect to this transaction have been satisfied and discharged (Schedule A).
+3. the Letter of Intent and all related documentation are hereby null and void and of no further force or effect, and
+4. to provide mutual releases as required.
+[20] No copy of Schedule A, as referred to in paragraph 2 of the Termination Agreement, was entered into evidence.
+[21] Ms. Fisher testified that Hurst told her the deal was over and that she needed to sign the release because there were “lawsuits pending”. She did not obtain any legal advice before signing the Termination Agreement. I infer that the main reason for the termination agreement was that Hurst wanted to obtain a release from his obligation under the promissory notes he gave to Ms. Fisher in 2003. Despite what Hurst apparently told Ms. Fisher, there is nothing in the evidence to suggest that any other party to the Termination Agreement had any claims against the others.
+[22] At some point, Hurst gave Ms. Fisher a statement setting out that in the year ending December 31, 2003 she paid expenses totalling $239,236.19 relating to the “aborted acquisition” of the mall. Those expenses included consulting and option fees, legal and accounting fees as well as various other amounts. Ms. Fisher could not recall exactly when Hurst gave her the statement, but thought that it was around the end of 2003 or the beginning of 2004. Therefore she believed that her money had been lost by that point. She was also unable to say if the $239,236.19 figure shown on the statement included the $17,500 and $3,000 she gave Hurst in 2004.
+[23] After Ms. Fisher filed her tax return for 2003 to claim a business loss in relation to the mall project, the Canada Revenue Agency commenced an audit of her 2000 to 2004 taxation years. That audit took over two years to complete and resulted in the addition of large amounts of income and the disallowance of expenses relating to Ms. Fisher’s principal business as a real estate broker. In the course of the audit, Ms. Fisher submitted two boxes of documents to substantiate the amounts reported on her returns and she testified that Hurst, at her request, also submitted documents to the auditor to support the claim for the business loss in respect of the mall project. After the audit was completed and the reassessments were issued, Ms. Fisher asked to have these documents returned to her so that she could use them to support her objection to the reassessments. The CRA could not locate the documents and as a result, it vacated the reassessments in respect of her brokerage income and expenses. However, the CRA maintained its position that there was insufficient proof that she had suffered a business loss on the mall project in her 2003 taxation year.
+Position of the appellant
+[24] Ms. Fisher’s counsel maintained that Ms. Fisher provided $239,236.19 to Niagara in 2003 on the understanding that she was to be a 5% investor in the mall project. Although the Letter of Intent provided that Ms. Fisher would loan money to Niagara, counsel said that this was not determinative of the nature of her interest, and that the funds were advanced to Niagara in the context of Ms. Fisher becoming an investor rather than a lender. Counsel also maintained that the interest became worthless when the project was discontinued at the end of 2003 or in early 2004 at the latest and that she incurred a capital loss at that time.
+[25] Counsel argued that the Statement of Real Estate Operations provided by Hurst to Ms. Fisher was proof of the amounts that she advanced for the project and proof that those amounts were spent on the project. It showed that the total amount invested by Ms. Fischer that year was $239,236.19, which was consistent with Ms. Fisher’s testimony that she gave cash in addition to the cheques totalling $170,500 to Hurst.
+[26] With respect to the timing of the loss, counsel submitted that the purchase of the mall was ‘dead’ soon after the closing date of June 30, 2003, and that Ms. Fisher’s investment was gone by early 2004 at the latest. He said that the Termination Agreement was not conclusive of when the project was terminated but was only for the purpose of preventing a lawsuit against Hurst.
+[27] Counsel also maintained that, given Ms. Fisher’s age and circumstances, and given that Hurst was difficult to track down, the efforts she made to obtain some kind of return from Hurst on her investment were reasonable. He said that it could not seriously be suggested that Ms. Fisher could have collected anything from Niagara or Hurst after the end of 2003, no matter how vigilant she had been.
+[28] He further submitted that any claim by Ms. Fisher against Hurst would have become statute-barred under the Ontario Limitations Act, 2002, prior to the Termination Agreement.
+Position of the respondent
+[29] The respondent takes the position that there was no proof that the money Ms. Fisher gave to Hurst was used for the mall project, since Niagara, not Hurst, was the intended purchaser of the mall. Counsel said that it was more likely that Ms. Hurst loaned the money to Hurst, since the promissory notes given to her by Hurst contained no reference to the mall project.
+[30] In the alternative, if Ms. Hurst is found to have provided money to Niagara, counsel argued that it was a loan and that only $150,000 of the amount paid by Ms. Fisher could be tied to the purchase of the mall.
+[31] Counsel also submitted that Ms. Fisher has not established that the debt went bad before the termination agreement was executed in 2006 and therefore that she had not shown that she had suffered a capital loss before that point. He suggested that the evidence showed that Ms. Fisher was still hoping in 2006 that the project would continue. Finally, counsel cautioned against relying on the statement of operations that Hurst gave to Ms. Fisher as evidence of when the project was abandoned, since the statement was undated and Ms. Fisher could not recall when she received it.
+Analysis
+[32] A capital loss arises under the Act where a taxpayer disposes of a capital property for proceeds that are less than his or her adjusted cost base of the property. In certain circumstances, the Act also deems a taxpayer to have disposed of property, giving rise to deemed proceeds of disposition. The relevant deeming provision here is paragraph 50(1)(a). According to that provision, a taxpayer may elect to have disposed of a debt that he or she has established to be bad. Where the taxpayer makes the election, he or she is deemed to have disposed of the debt for no proceeds and to have reacquired it for no cost.
+[33] In this case, it is first necessary to establish what amounts Ms. Fisher paid to Hurst in relation to the mall project. After considering all of the evidence, I find that Ms. Fisher has only shown that she provided Hurst with a total of $170,500. This amount is supported by the cancelled cheques, copies of which were produced by Ms. Fisher at the hearing. While Ms. Fisher’s testified that she gave Hurst additional amounts of cash, she had no records regarding these amounts and her evidence is vague on this point. I find that the Statement of Real Estate operations prepared by Hurst as at December 31, 2003 is not sufficiently reliable to constitute prima facie proof of the amounts advanced by Ms. Fisher. The Statement appears to contradict the evidence by way of cancelled cheques that Ms. Fisher advanced additional funds in January and February 2004 and that the project had not been aborted by December 31, 2003. I also find that the documentation prepared by Hurst in a number of instances was inaccurate. The most obvious example is the Interoffice Memorandum dated April 8, 2003 stating that the mall was being purchased on behalf of Ms. Fisher. The Memorandum completely contradicts the Letter of Intent that the parties executed the next day, and Ms. Fisher herself testified that she did not intend to purchase the mall herself. Other examples include the variations in the nomenclature used to designate Niagara in various documents, and the inclusion of a party in the Termination Agreement who had no apparent involvement in the project.
+[34] There was a suggestion by counsel that the amounts might have been proven by information sent by Hurst to the auditor which was among the material that was lost by the CRA. In my view, this is merely speculation. There is nothing in the record that confirms that Hurst in fact sent anything to the auditor or that if he did, it would prove the amounts paid by Ms. Fisher.
+[35] The next question is whether Ms. Fisher loaned the $170,500 (whether to Hurst or to Niagara) or whether she provided the funds in order to acquire an equity interest in the mall project.
+[36] I find that Ms. Fisher loaned at least the initial $150,000 in issue to Niagara. The Letter of Intent she entered into with Niagara and Hurst on April 9, 2003 provided that she was loaning money to Niagara and that Hurst was guaranteeing the repayment of those amounts. This arrangement was also corroborated by the promissory notes that Hurst gave to Ms. Fisher.
+[37] While the Respondent’s counsel submitted that there was no proof that Hurst used the money from Ms. Fisher in the course of Niagara’s proposed acquisition of the mall property, I accept that it was. There was sufficient evidence presented at the hearing to show that the mall project was genuine and that Niagara had entered into negotiations to purchase the property. Ms. Fisher visited the mall and met with local government representatives and other potential investors in the project, and documentation concerning the project was produced at the hearing.
+[38] According to the Letter of Intent, Ms. Fisher was also to be “provided with a 5% equity ownership interest in Niagara”, but there was no consideration given by her for that interest. Furthermore, there was no indication that she was ever issued shares in Niagara or that the Limited Partnership that was to be set up with Niagara as General Partner to purchase the mall ever came into existence. Therefore, I find that the $150,000 paid by Ms. Fisher in April 2003 was a loan to Niagara.
+[39] It is unclear how the parties intended to treat the remainder of the money advanced by Ms. Fisher. Ms. Fisher simply referred to all of the amounts paid to Hurst as “an investment” in the project. However, there was no evidence of any agreement that the subsequent amounts were given in exchange for any additional equity interest in Niagara or for any rights to profits that might be generated by it or for any other rights whatsoever. Given that the initial amounts were advanced as a loan, and given that the cheque dated February 24, 2004 given by Ms. Fisher to Hurst was marked “Loan”, and in the absence of any evidence to the contrary, I am inclined to view the subsequent amounts as being loans to Niagara as well. There is no proof though that Hurst personally guaranteed the subsequent amounts since no promissory notes were given in relation to them.
+[40] In order for Ms. Fisher to have a capital loss in her 2003 or 2004 taxation year in respect of the debt owing to her by Niagara, she must establish according to paragraph 50(1)(a) of the Act that the debt became bad before the end of 2003 or 2004.
+[41] In Rich v The Queen 2003 FCA 38, one of the issues before the Federal Court of Appeal was when a debt owing to the taxpayer had become bad. At paragraphs 12 to 15 of that decision, Rothstein J.A. wrote:
+[12 ] The assessment of whether a debt is bad is one based upon the facts at a particular point in time, i.e. December 31, 1995. The Income Tax Act does not prescribe factors to be considered in assessing the collectibility of a debt. However, Tax Appeal Board judgments in Hogan v. The Minister of National Revenue, 56 D.T.C. 183 and No. 81 v. The Minister of National Revenue, 53 D.T.C. 98, suggest some of the factors to be taken into account. After the creditor personally considers the relevant factors, the question is whether the creditor honestly and reasonably determined the debt to be bad.
+[13] I would summarize factors that I think usually should be taken into account in determining whether a debt has become bad as:
+1. the history and age of the debt;
+2. the financial position of the debtor, its revenues and expenses, whether it is earning income or incurring losses, its cash flow and its assets, liabilities and liquidity;
+3. changes in total sales as compared with prior years;
+4. the debtor's cash, accounts receivable and other current assets at the relevant time and as compared with prior years;
+5. the debtor's accounts payable and other current liabilities at the relevant time and as compared with prior years;
+6. the general business conditions in the country, the community of the debtor, and in the debtor's line of business; and
+7. the past experience of the taxpayer with writing off bad debts.
+This list is not exhaustive and, in different circumstances, one factor or another may be more important.
+[14] While future prospects of the debtor company may be relevant in some cases, the predominant considerations would normally be past and present. If there is some evidence of an event that will probably occur in the future that would suggest that the debt is collectible on the happening of the event, the future event should be considered. If future considerations are only speculative, they would not be material in an assessment of whether a past due debt is collectible.
+[15] Nor is it necessary for a creditor to exhaust all possible recourses of collection. All that is required is an honest and reasonable assessment. Indeed, should a bad debt subsequently be collected in whole or in part, the amount collected is taken into income in the year it is received.
+[42] Since Ms. Fisher continued to provide funds for the project at least until the end of February 2004, I find that she did not establish that the debt was bad by December 31, 2003. On the evidence before me, I also find that Ms. Fisher has not established that the portion of the debt guaranteed by Hurst became bad by the end of 2004. Whether or not Niagara could repay the debt at that time, which I will consider later in these reasons, Ms. Fisher has not shown that she took any steps to collect from Hurst on the promissory notes he gave her or even to assess whether she could collect from him. I infer from the fact that Hurst had Ms. Fisher sign the Termination Agreement in September 2006 that Hurst was concerned about his exposure on the promissory notes and this suggests to me that it was likely Ms. Hurst could have recovered something from Hurst at that time. In any event, she did not investigate Hurst’s financial position and presented no evidence at the hearing relating to his ability to pay.
+[43] I do not agree with counsel for Ms. Fisher that any claim against Hurst had become statute-barred pursuant to the Ontario Limitations Act, 2002 prior to the date of the Termination Agreement. The Limitations Act, 2002 came into force on January 1, 2004. It created a new regime for calculating the limitation period for initiating court proceedings in respect of a claim. According to the transitional rules in subsection 24(5), where a claim for which a limitation period is provided in the Act had been discovered by a claimant prior to the coming into force of the Limitations Act, 2002, the former limitation period in respect of the claim applied. The former limitation period for a claim under a promissory note was six years and the new limitation period is two years. It is clear that Ms. Fisher was aware that the loans had not been repaid by June 30, 2003, which was the date set in the April 9, 2003 Letter of Intent for the closing of the purchase of the Mall and therefore the date for repayment of the loan to Niagara. Therefore, Ms. Fisher had until June 30, 2009 to commence an action against Hurst.
+[44] I must also decide whether Ms. Fisher established that the remainder of the debt owing to her had become bad by December 31, 2004. Ms. Fisher’s position is that the debt became bad when the mall project was abandoned, which she said occurred in early 2004 at the latest.
+[45] Ms. Fisher did not make any enquiries about Niagara’s finances or whether it had any assets, but it seems reasonable to assume that, once the project was abandoned, Niagara would have been unable to repay the loans. This goes to the considerations listed in the Rich decision relating to the history of the debt and the financial position of the debtor. The company was set up to purchase and redevelop the mall and I accept that all of the funds raised by it were used in attempting to acquire the property. Unfortunately, Ms. Hurst’s evidence concerning the date the project was abandoned was not corroborated in any manner whatsoever and she herself admitted that her recollection of the timing of events was affected by her poor health and by the amount of time that had passed. While the Statement of Real Estate Operations for the year ended December 31, 2003 prepared by Hurst gives the impression that the project was terminated by the end of 2003, the fact that Ms. Hurst continued to advance money into early 2004 would disprove that view. Also, Hurst’s email to Ms. Fisher dated June 23, 2006, set out that Niagara sued Oberlin to complete the sale of the mall after Oberlin refused to do so. According to the email, “Summit Park Mall lost almost all of their major tenants while the litigation was ongoing”. This, along with the fact that the Termination Agreement was not entered into until September 2006, leads me to believe that the dispute and the litigation lasted for some time, and therefore that it is unlikely that the lawsuit against Oberlin was dropped before the end of 2004. In any event, Ms. Fisher has not shown that the litigation was discontinued prior to December 31, 2004.
+[46] Most of the remaining considerations in Rich were not addressed by counsel and are not relevant in the circumstances of this case, since Niagara was in the start up phase and had not yet acquired the mall or begun earning revenue.
+[47] In light of all of the evidence, it does not appear to me that it was reasonable to consider that the amounts owing by Niagara had become uncollectible by the end of 2003 or 2004. Therefore Ms. Fisher has not shown that the debt owing to her by Niagara became bad during either year and paragraph 50(1)(a) is not applicable in this case in the years in issue.
+[48] The appeal is dismissed, with costs to the Respondent.
+Signed at Vancouver, British Columbia this 11th day of July 2013.
+“B.Paris”
+Paris J.
+CITATION: 2013 TCC 216
+COURT FILE NO.: 2011-1(IT)G
+STYLE OF CAUSE: KAY FISHER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 26, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: July 11, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Alfred Schorr
+Counsel for the Respondent:
+Tony Cheung and Annette Evans
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Alfred S. Schorr
+Firm: Markham, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

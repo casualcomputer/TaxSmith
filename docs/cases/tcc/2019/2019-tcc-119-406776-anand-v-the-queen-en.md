@@ -1,0 +1,254 @@
+---
+title: "Anand v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/406776/index.do"
+last_modified: "2019-05-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 119"
+citation2: ""
+neutral_citation: "2019 TCC 119"
+decision_date: "2019-05-23"
+language: "en"
+item_id: "406776"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4390
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:11:34.623000+00:00"
+cases_cited_count: 14
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0ebccf5fb56ba5167bd8b9337d811352f0e6c901f0dbfac5b469c0c4e29aa63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anand v. The Queen
+
+- Citation: 2019 TCC 119
+- Decision date: 2019-05-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4390, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anand v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-23
+Neutral citation
+2019 TCC 119
+File numbers
+2015-5217(GST)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-5217(GST)G
+BETWEEN:
+SUTIKSHAN ANAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 11-12, 2017, at Hamilton, Ontario. Written submissions received from Respondent on April 25 2019 and from Appellant on May 25, 2019.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+John P. McLaughlin
+Counsel for the Respondent:
+Stan W. McDonald
+JUDGMENT
+The appeal from the assessment of goods and services tax and harmonized sales tax for the period from November 10, 2010 to December 31, 2012 is allowed and the assessment is vacated. Costs are awarded to the Appellant.
+Signed at Ottawa, Canada, this 23rd day of May 2019.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2019 TCC 119
+Date: 20190523
+Docket: 2015-5217(GST)G
+BETWEEN:
+SUTIKSHAN ANAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Minister of National Revenue (the “Minister”) has assessed the Appellant net goods and services tax and harmonized sales tax (“GST/HST”) with respect to services supplied by him in connection with the construction of a custom home in Burlington, Ontario (“Home Construction Project”) during the period from November 10, 2010 to December 31, 2012.
+[2] In the assessment under appeal, the Minister determined that the Appellant should have collected GST/HST in the amount of $178,318.59. In raising the assessment, the Minister allowed the Appellant input tax credits (“ITCs”) of $57,835.76 in connection with bills paid by him for construction services and materials supplied by other registrants. The amount of net GST/HST in dispute after credit for the ITCs is approximately $120,482.83.
+[3] The Minister also imposed gross negligence penalties for the periods under appeal pursuant to section 285 of the Excise Tax Act (“Act”). During the hearing, counsel for the Respondent conceded that the Respondent had failed to establish circumstances that justified the imposition of the gross negligence penalty and he consented to judgment in favour of the Appellant on this point.
+[4] The Respondent assessed the Appellant on the grounds that he had acted as a general contractor. The Respondent based the assessment on her interpretation of the written agreement entered into between the Appellant and the homeowners, Dr. Gupta and his wife Dr. Khanna (the “Homeowners”), for the construction of
+[5] their home. According to the Respondent, the Appellant agreed to construct the home for $1,550,000 inclusive of GST/HST.
+[6] The Respondent alleges that the Appellant purchased all the material required to construct the home purely on his own account and hired subcontractors to assist him in the construction of the home according to the plans supplied to him by the Homeowners.
+[7] In her written submissions filed with the Court on April 25, 2019, the Respondent alleges that the Appellant seeks to have this Court consider extensive parol evidence presented at the hearing to explain the alleged intent of the parties in contracting as they did. The Respondent claims that such evidence is inadmissible.
+[8] The Appellant disputes the Minister’s characterization of the arrangement at issue in this appeal. According to the Appellant, he acted solely as a construction project manager in connection with the Home Construction Project, while his wife was hired by the Homeowners to provide interior design services. Together they earned $150,000 over a three-year period for their services. The agreement was for them to split the $150,000 fee on a 50-50 basis. The Appellant and his wife reported $25,000 as income from services in each of the 2010, 2011 and 2012 taxation years. According to the Appellant, he and his wife were not required to collect GST on the fees charged to the Homeowners because they qualified as “small suppliers” under the Act.
+[9] The Appellant submits that the parol evidence put forward by his witnesses is admissible because there are ambiguities in the written contract that can only be resolved by the consideration of parol evidence.
+I. Factual Background
+[10] Dr. Gupta was called to testify by the Appellant. Dr. Gupta explained that he and his wife purchased an existing home located at 1344 Beaufort Drive in Burlington, Ontario. The house was situated in an upscale neighbourhood on a large lot. When they purchased the home, the couple planned to tear it down and build a new custom-designed home on the lot. They paid approximately $650,000 for the land and building.
+[11] Dr. Gupta then hired an architect to prepare detailed plans for his family’s new home. A close family member, learning of the project, suggested to Dr. Gupta, that his friend, the Appellant, could supervise the Home Construction Project. Dr. Gupta and his wife are busy dentists. Dr. Gupta explained that their busy dental practice left the couple with little time to devote to the Home Construction Project and that they were not very knowledgeable about construction. He knew the Appellant personally as the Appellant was a close friend of his wife’s uncle.
+[12] The Appellant is a foreign-trained engineer but is not licensed to practise in Canada. Prior to beginning the construction project, the Appellant was working as a salesperson. He had previously overseen the construction of his current family home in Oakville, Ontario. On that project, The Appellant’s wife handled the interior design of the home.
+[13] Dr. Gupta was impressed with the quality of the Appellant’s existing home. He was confident that the Appellant could oversee the construction of his home. In this regard, he explained that he hired the Appellant to assist him with:
+(1) the establishment of a budget;
+(2) the hiring of qualified trades-people;
+(3) the sourcing of all materials and supplies;
+(4) supervision of the execution of the work over the planned construction period; and
+(5) the interior design of the home.
+[14] Dr. Gupta testified that the Appellant’s wife provided the interior design services for the construction. The Appellant’s wife, Bindu Anand, assisted Dr. Khanna with the overall design and look of their new home.
+[15] For all of the above services, Dr. Gupta and his wife agreed to pay the Appellant and his wife $150,000 payable in three equal instalments over the three-year construction period.
+[16] Dr. Gupta explained that he trusted the Appellant because of his personal ties to a close family member and that the arrangement between them was “almost a handshake deal”. This being said, he wanted the parties to enter into an agreement that would set out the work that he expected to be carried out in connection with the Home Construction Project. He could not recall whether he or the Appellant found the template that was used by them to draw up their agreement. He may have found it by searching on the Internet.
+[17] According to Dr. Gupta, the agreement was used to establish a budget for the project. He and his wife had arranged for a construction loan and wanted assurance that the actual construction costs would not exceed the funds that were made available to the couple by the bank. Dr. Gupta also wanted to set a fee for the specific services that were provided by the Appellant and his wife. As noted above, Dr. Gupta agreed to pay the Appellant a fixed fee of $150,000, inclusive of GST/HST, for overseeing the construction project and for the Appellant’s wife providing interior design services. He claims not to have seen the Appellant during the actual construction, do any of the construction work personally. Instead, the Appellant relied entirely on subcontractors.
+[18] During his testimony, Dr. Gupta confirmed that he was responsible for cost overruns. In fact, the project ended up being over budget. Dr. Gupta also testified that the subcontractors were paid through a combination of him paying them directly and the Appellant paying them (with funds provided by Dr. Gupta).
+[19] The Appellant’s testimony was consistent with that of Dr. Gupta. The Appellant explained that he was approached by Dr. Gupta’s uncle who enquired whether the Appellant was willing to act as construction project manager. In this regard, he explained that initially he helped Dr. Gupta and his wife to prepare a budget for their project. He then interviewed the subcontractors that were interested in working on the project and agreed with them on a budget for their services. The subcontractors would be introduced to the Homeowners for final approval before they were hired. He and his wife also assisted the couple in choosing kitchen cabinetry, woodwork, bathroom equipment, tiling and other interior materials. He reported regularly to the Homeowners on the progress being made on their home. More often than not, the Homeowners transferred the funds to the Appellant to pay for the goods and services that were supplied by the subcontractors and other suppliers to the Homeowners. In a couple of instances, Dr. Gupta paid suppliers directly.
+[20] The Appellant produced a document from BMO Harris Private Banking that explained that the construction financing loan was funded in the amount of $1,395,000. Dr. Gupta and Dr. Khanna transferred funds to the Appellant in the amounts of $198,000, $569,000, $198,000, $107,000 and $98,000. This evidence shows that the Appellant received $1,170,000 in total, which less than the $1,550,000 that the CRA auditor estimated that the Appellant had received.
+[21] The Appellant testified that he reported $25,000 of the project management fees in each of his 2010, 2011 and 2012 taxation years. His wife confirmed that she reported the same amount in each of the aforementioned taxation years. She corroborated her husband’s testimony that they worked as a team on the Home Construction Project, she handling the Homeowners’ interior design needs and her husband providing project management services in connection with the Home Construction Project.
+[22] Katie Benoit, the Canada Revenue Agency (“CRA”) auditor, assigned to audit the Appellant, was called to testify by the Appellant. From her testimony, it is clear that she concluded that the Appellant acted as a general contractor in connection with the Home Construction Project and that she based this conclusion almost exclusively on her interpretation of the contract between the Appellant and the homeowners. [1]
+[23] Ms. Benoit was subjected to a lengthy cross-examination during which the Appellant’s counsel questioned her at length on the terms and conditions of the contract. For example, counsel pointed out to her that the preamble to Schedule F (entitled “Description of Work”) to the contract provided that Sutikshan Anand and the subcontractors were to provide services to the owner for the contract price of $1,550,000. This was followed by a list of services to be provided. The gist of counsel’s questioning was that none of the services listed were actually performed by the Appellant and that this was inconsistent with Ms. Benoit’s understanding that the Appellant had acted as principal in engaging subcontractors to work on the project on his own behalf. Instead the language used in that Schedule suggests that the subcontractors provided their services directly to the Homeowners.
+[24] From her evidence, it was apparent that Ms. Benoit did not speak to the Homeowners to discern their understanding of the arrangement. As noted earlier, Dr. Gupta’s testimony was consistent with the Appellant’s testimony that he had acted solely as a project manager in connection with the Construction Project.
+[25] The Appellant’s counsel presented other evidence which was inconsistent with the position adopted by Ms. Benoit in recommending that the assessment at issue here be raised against the Appellant. For example, he pointed out to Ms. Benoit that the Appellant did not receive payments from the Appellant totalling $1,550,000. She had assumed that the Appellant had received the full amount. In Ms. Benoit’s defence, the Appellant was unable to provide her with his bank records for the full construction period.
+[26] Counsel for the Appellant also pointed out that Dr. Gupta testified that he had paid some suppliers directly. In this regard, counsel pointed to an invoice of $73,111 for windows which was addressed to Dr. Gupta rather than the Appellant. These are more consistent with the Appellant’s claim that the subcontractors provided their services to the Homeowners and not the Appellant. Finally, counsel for the Appellant suggested to the witness that the Appellant did not personally perform any services in connection with the Home Construction Project other than facilitation and oversight. The witness did not dispute this finding.
+II. Issues
+[27] This matter involves, first, addressing the issue of whether, and to what extent, parol evidence is admissible to assist in the interpretation of the contract entered into by the parties and relied on by the Minister in raising the assessment against the Appellant.
+[28] This evidence will then be used to determine the role of the Appellant in providing construction services to the Homeowners. Did he act as a project manager, potentially making him an agent of the Appellant, or as a general contractor as determined by the Minister? If he is found to be a project manager, does this mean that the Appellant was an agent of the homeowners?
+III. Analysis
+A. Can parol evidence be considered in determining whether the Appellant acted as a project manager or a general contractor for the Homeowners?
+[29] The parol evidence rule is a rule of contract law that prohibits the use of extrinsic evidence “to alter, vary, or interpret in any way the words used in the writing.” [2] According to Sopinka J., it is rooted in the assumption “that when parties reduce an agreement to writing they will have included all the necessary terms and circumstances and that the intention of the parties is that the written contract is to be the embodiment of all the terms.” [3] This rule aims at “prevent[ing] the use of fabricated or unreliable extrinsic negotiations to attack formal written contracts.” [4] The motivation for this rule is a concern that if contracts cannot be taken at face value it will create uncertainty in the commercial realm. [5]
+[30] I observe that, in the present case that the parol evidence was not presented for this purpose. Rather than attacking the validity of the contract signed by them, the Appellant and Dr. Gupta instead seek to use parol evidence in order to establish that the formal contract that they signed was not an accurate reflection of the agreement and underlying legal relationship that existed between them.
+B. When can parol evidence be considered?
+[31] The parol evidence rule is not an absolute rule, as extrinsic evidence can be considered in order to dispel ambiguities. [6] Ambiguities may be patent or latent. [7] A patent ambiguity refers to ambiguity that occurs within the contract itself, specifically when a provision or the wording chosen in the contract are capable of having more than one reasonable interpretation. [8] Latent ambiguity, on the other hand, arises where the ambiguity is not apparent within the contract itself, but becomes apparent when the surrounding circumstances or factual matrix are considered. [9]
+[32] Reflecting the two forms of ambiguity, the courts have developed two conflicting approaches for considering when parol evidence is admissible for resolving ambiguities when engaging in contractual interpretation. Under the so-called “textualist” approach, parol evidence is admissible only in circumstances where the words or terms of the agreement are considered to be ambiguous (that is, when there is patent ambiguity). The “contextualist” approach, on the other hand, allows for the consideration of extrinsic evidence when there is latent ambiguity, thus making it possible for the factual matrix surrounding the contract at the time it was formed to be considered.
+[33] The textualist approach is derived from Iacobucci J.’s reasoning in Eli Lilly & Co. v. Novopharm Ltd. [10] In Eli Lilly, Iacobucci J. adopted the position that no extrinsic evidence is to be considered when an agreement is “clear and unambiguous on its face.” Specifically, he stated: [11]
+. . . The contractual intent of the parties is to be determined by reference to the words they used in drafting the document, possibly read in light of the surrounding circumstances which were prevalent at the time. Evidence of one party’s subjective intention has no independent place in this determination.
+Indeed, it is unnecessary to consider any extrinsic evidence at all when the document is clear and unambiguous on its face. In the words of Lord Atkinson in Lampson v. City of Quebec (1920), 54 D.L.R. 344 (P.C.), at p. 350:
+. . . the intention by which the deed is to be construed is that of the parties as revealed by the language they have chosen to use in the deed itself . . . [I]f the meaning of the deed, reading its words in their ordinary sense, be plain and unambiguous it is not permissible for the parties to it, while it stands unreformed, to come into a Court of justice and say: “Our intention was wholly different from that which the language of our deed expresses. . .” [12]
+[34] In the context of tax law, this more stringent test was applied by Nadon J.A. Writing for the majority of the Federal Court of Appeal in GM, [13] he noted:
+. . .First, failing a finding of ambiguity in the document under consideration, it is not open to the Court to consider extrinsic evidence. Second, where extrinsic evidence may be considered, that evidence must pertain to the “surrounding circumstances which were prevalent at the time.” Third, even where there is ambiguity, evidence only of a party’s subjective intention is not admissible. [14]
+[35] Nadon J.A. concluded that the Tax Court judge erred in finding an ambiguity from extrinsic evidence presented by the parties rather than from an analysis of the four corners of the agreement at issue.
+[36] My colleague Campbell J. followed this reasoning in Online Finance v. The Queen. [15]
+[37] The contextualist approach relies on a more recent body of English jurisprudence than that considered by Iacobucci J. in Eli Lilly. It aims at promoting commercial certainty and protecting the parties’ reasonable expectations.
+[38] This approach was first adopted in Dumbrell v. The Regional Group of Companies Inc. (Dumbrell). [16] According to Doherty J.A. in that case, while the plain meaning of the words “will be important and often decisive in determining the meaning of a document”, a consideration of the “objective contextual scene” in which the written agreement was made “is an integral part of the interpretive process and is not something that is resorted to only where the words viewed in isolation suggest some ambiguity”. [17] Consequently, he concluded that consideration of extrinsic evidence should not be limited to cases of patent ambiguity.
+[39] In River Hills Ranch Ltd. v The Queen, [18] I commented on the contextual approach as follows:
+More recent court decisions have clarified the relevancy of “surrounding circumstances” and suggested an approach different than that outlined in GM. For instance, in Dumbrell v. Regional Group of Companies Inc. (“Dumbrell”), [19] Doherty J.A. of the Ontario Court of Appeal, having referred to Lord Hoffmann’s opinion in Investors Compensation Scheme Ltd v. West Bromwich Building Society, [20] noted that the “meaning of [a] written agreement must be distinguished from the dictionary and syntactical meaning of the words used in the agreement”. According to Doherty J.A., while the plain meaning of the words “will be important and often decisive in determining the meaning of the document”, a “consideration of the [“objective contextual scene”] [21] in which the written agreement was made is an integral part of the interpretative process and is not something that is resorted to only where the words viewed in isolation suggest some ambiguity
+[40] The contextual approach was also used in Henco Industries Ltd. v. The Queen, [22] a case decided by my colleague Justice C. J. Miller. Henco involved the classification of a sale of property from a real estate developer to the government of Ontario as being on income or capital account. The central issue was the interpretation of the sale agreement, with the sale occurring due to significant unrest caused by First Nations protesters, with the protesters having gone as far as to barricade the property.
+[41] Justice Miller concluded that the case did not involve a transaction between two arm's-length parties reaching a reasonable commercial decision and putting it in writing. [23] Rather, the transaction was the result of exceptional circumstances and it was imperative to delve into how those surrounding circumstances or the factual matrix had an impact on the agreement made between the parties. [24]
+[42] Justice Miller also noted that the mandate of the Tax Court to determine the correctness of a tax assessment may result in a loosening of the parol evidence rule. [25]
+[43] In the instant case, both parties agree that the contract does not accurately reflect their bargain, Dr. Gupta testifying that, because of the trust engendered through their close familial relationship, his intention was to hire the Appellant as a project manager and the Appellant testifying that he signed the contract without reading it. Nonetheless, the contract itself remains an important piece of evidence and is a reasonable starting point for determining if there are any ambiguities that would invite the consideration of parol evidence.
+[44] The CRA auditor concluded that the Appellant was not an agent, basing that conclusion on her interpretation of the contract, which, she found indicated that the Appellant entered into the agreement as a general contractor who agreed to construct the house for a fixed price. This belief was based in part on the “stipulated fixed cost basis” of $1,550,000 referred to under the “Terms of Payment” in the contract, with the payments from the Homeowners to the Appellant being shown in the “Payment Schedule” in the contract as occurring in a series of stages based on this amount.
+[45] A definition of a fixed price contract is provided in Jo/Vi Ltd. v. Balmoral Developments Inc.: [26]
+Fixed price contracts are special types of contracts in construction law. Under such contracts, the contractor agrees to carry out all the work involved in the construction for a fixed sum. In that respect, the contractor takes a calculated risk that the actual cost of the work to be carried out may be more than anticipated. Irrespective of the actual amount of work involved he must perform the whole of the work, in return for which he is entitled to receive the agreed upon price, but no more
+[46] In Schedule F to the contract, the management and designer fee is stated to be $150,000, an amount presumably meant to encompass the profit that the Appellant was intended by Dr. Gupta to receive from the project. This fee is inconsistent with the (Terms of Payment) provisions which appear at first blush to suggest that the contract was a fixed price contract, with the Appellant acting as general contractors and is also inconsistent with the CRA auditor’s conclusion that the contract was a fixed price contract entered into with a general contractor.
+[47] As stated in the above cited excerpt from Jo/Vi Ltd., the hallmark of a fixed price contract is the idea that, in offering a fixed price, the contractor bears the risk of diminished profits if the costs of the project are higher than anticipated. Correspondingly, a higher profit will be earned if the costs wind up being lower than anticipated. Regardless, the client is not concerned with how much profit the contractor earns as he is protected by the fixed price, on which the profit earned by the contractor has no impact.
+[48] In contrast, under a project management contract, the project manager will charge either a fixed fee or an hourly fee based on the recorded hours spent overseeing the work. The fee arrangement agreed to by the Homeowners and the Appellant is typical of a project management contract.
+[49] In Schedule F entitled “Description of Work”, it is also stated that “Sutikshan Anand and the sub-trades shall provide the Owner with the following services included in the contract price of $1,550,000.00” which is then followed by a long list of services. Typically, in a contract for services with a general contractor, the services offered would be described as being offered by the general contractor exclusively, with the cost of any goods and services offered by subtrades being marked up by the contractor before being passed on to the end customer.
+[50] The Appellant and Dr. Gupta also testified that the subcontractors were paid either by the Appellant (with funds provided by the Homeowners) or by Dr. Gupta directly. Although a large number of the invoices from the subcontractors were addressed to the Appellant, counsel for the Appellant pointed to an invoice in the amount of $73,111, for windows that was addressed to Dr. Gupta. Among the invoices provided, there also appears to be one for a security system that was addressed to the Homeowners. [27]
+[51] These facts, combined with the management and designer fee of $150,000 being stated in the contract, suggest at least some degree of compartmentalization, with the Appellant being assigned a specific task (which was to oversee the construction) that was only one component of the broader Home Construction Project. This is reinforced by the fact that there is an engineer’s seal of approval on the diagrams included in the contract. The Appellant, although an engineer by training, is not a licensed engineer and, as a result, is not able to certify engineering blueprints.
+[52] During the hearing, the Appellant testified that he was able to obtain discounts from several of the suppliers, which he then passed on to Dr. Gupta. This would be unusual behaviour for a general contractor as, typically, when setting the fixed price and forecasting the profit that can be earned in connection with a project, the general contractor will have already taken into account the discounts offered to him by the suppliers.
+[53] The inconsistencies noted above allow me to conclude that the contract is ambiguous even under the more conservative textualist approach. Looking at the broader factual matrix of the agreement (as mandated by the contextualist approach) yields additional sources of ambiguity, the result of which is that I agree with the Appellant’s position that parol evidence proffered by Dr. Gupta, his wife and himself is admissible because of the patent ambiguity in the contract noted above.
+[54] In determining specifically what parol evidence is admissible, even after the further liberalization of the parol evidence rule for tax cases in Henco, it remains the case that evidence cannot be brought forward to purely elaborate on the subjective intentions of parties. Within the tax context, this was recently reiterated by the Federal Court of Appeal in the Club Intrawest v. R decision (which, coincidentally, was also an agency case), where the court indicated that testimony from the alleged principal that he did not know that the appellant was holding itself out as his agent was inadmissible and contrary to the parol evidence rule. [28]
+[55] In contrast, the evidence brought forward by the Appellant, his wife and Dr. Gupta in the present case, concerns objective facts, which, as confirmed to by Justice Rothstein in Creston Moly Corp., is now regarded as being acceptable evidence. [29]
+[56] As noted in Henco, tax is not assessed in a vacuum. Parol evidence is often considered to determine the true legal relationship of contracting parties. Justice Miller provides numerous examples of this in Henco, including, as noted above, the determination of whether someone is an employee or an independent contractor, which is highly analogous to the determination of whether an agency relationship exists.
+[57] In the instant case, the Respondent’s position appears to be manifestly unfair. The Respondent invites me to ignore the Appellant’s parol evidence in interpreting the agreement. It is clear, when I consider the factual context in which the Agreement was negotiated and the parties’ subsequent conduct, that the Agreement does not accurately reflect their true intent. While they were careless in documenting their arrangement, there are enough inconsistencies in the agreement to render its interpretation difficult without consideration of the parol evidence adduced by the Appellant.
+C. Issue 2: Was the Appellant an agent?
+[58] In defining what an agent is, in The Queen v. Merchant Law Group, the Federal Court of Appeal enunciated the following principle:
+. . .an essential quality of the agency relationship [is] the ability to affect the principal's legal position with respect to the particular transaction at issue. [30]
+[59] Agency specifically requires three elements: [31]
+(a) the principal's control of the agent's action,
+(b) the consent of both the agent and the principal, and
+(c) the authority of the agent to affect the principal's legal position. [32]
+[60] In terms of the evidence required to establish an agency relationship, in a situation where the two parties do not actually describe their relationship as an agency relationship and where there is no express appointment of one as the agent of the other, it was stated by me in Fourney v. The Queen that: [33]
+. . .the test for finding an agency relationship in the absence of a written agreement is restrictive; it requires evidence of the necessary conduct.
+[61] I then set out some of the principles of implied agency: [34]
+(a) In the absence of a written agreement, a court must closely examine the conduct of the parties to determine whether there was an implied intention to create an agency relationship. [35]
+(b) In reviewing the conduct of the alleged principal and the alleged agent, a key consideration is the determination of the level of control which the former exerted over the latter. [36]
+(c) The alleged principal's control over the actions of the alleged agent may be manifested in the authority given by the former to the latter. In other words, the concepts of authority and control sometimes overlap. [37]
+[62] As the Tax Court of Canada stated in Club Intrawest v. The Queen: [38]
+. . .Where an agent is acting for a principal when acquiring property or a service from a third party supplier, the agent is not making a supply of the property or service to its principal, but is merely acting as a conduit.
+[63] When I consider the parol evidence, I am of the opinion that the Appellant did not agree to act as a general contractor. Instead, he acted as a project manager. In this capacity, he represented the Homeowners when he hired, paid and supervised subcontractors on their behalf, as well as when he purchased materials used in the Home Construction Project. In both cases, the Appellant was reimbursed for these expenses by the Homeowners. In other words, an implied agency relationship existed as the Appellant acted as a conduit between the suppliers and the Homeowners.
+[64] Because he was a small supplier under section 166 of the Act, the Appellant was not obligated to register under the Act and collect GST/HST with respect to his $75,000 project management fee.
+[65] For all of these reasons, the appeal is allowed and the assessment is vacated.
+Signed at Ottawa, Canada, this 23rd day of May 2019.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2019 TCC 119
+COURT FILE NO.:
+2015-5217(GST)G
+STYLE OF CAUSE:
+SUTIKSHAN ANAND v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+October 11-12, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+May 23, 2019
+APPEARANCES:
+Counsel for the Appellant:
+John P. McLaughlin
+Counsel for the Respondent:
+Stan W. McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John P. McLaughlin
+Barrister & Solicitor
+Firm:
+2135 Lakeshore Road West
+Oakville, Ontario L6L 1H1
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The contract was produced as Exhibit R-2.
+[2] G.H.L. Fridman, The Law of Contract in Canada, 6th ed. (Toronto: Carswell, 2011) at p. 440.
+[3] See United Brotherhood of Carpenters and Joiners of America, Local 579 v. Bradco Construction Ltd., [1993] 2 S.C.R. 316 (QL) at para. 42 (Bradco).
+[4] Ibid.
+[5] Leeds Neckware Inc. v. Deputy Minister of National Revenue, 1998 CarswellNat 6114 (Canadian International Trade Tribunal).
+[6] See King v. Operating Engineers Training Institute of Manitoba Inc., 2011 MBCA 80, at paras. 34 ff. and Gallen et al. v. Allstate Grain Co. Ltd. et al., (1984), 9 D.L.R. (4th) 496 (B.C.C.A.) at p. 506.
+[7] See Bradco, note 3 supra, at para. 43 and The Queen v. General Motors of Canada Ltd., 2008 FCA 142 (GM)
+[8] Bradco, note 3 supra, at para. 43; GM, note 7 supra at para. 34.
+[9] Bradco, note 3 supra at para. 43; Bovey v. Bovey Estate, [1991] B.C.J. No. 3370 (QL)
+[10] [1998] 2 S.C.R. 129 (Eli Lilly).
+[11] Ibid, at paras. 54 and 55.
+[12] See preceding footnote.
+[13] 2008 FCA 142 (F.C.A.).
+[14] GM, note 7 supra at para. 36.
+[15] 2010 TCC 117.
+[16] Dumbrell v. The Regional Group of Companies Inc., 2007 ONCA 59, [2007] O.J. No. 298 (QL), 85 O.R. (3d) 616 at paras. 51 to 55.
+[17] Ibid. at paras. 52 to 56.
+[18] 2013 TCC 248 at para. 42.
+[19] Dumbrell, note 16 supra, at paras. 51 to 56.
+[20] [1998] 1 All E.R. 98.
+[21] Dumbrell, note 16 supra, at para. 56, quoting Lord Justice Steyn.
+[22] 2014 TCC 192 (Henco).
+[23] Ibid. at para. 92.
+[24] Ibid.
+[25] Ibid. at paras. 89 and 90.
+[26] Jo/Vi Ltd. v. Balmoral Developments Inc., 2014 ONSC 6803, 2014 CarswellOnt 17299, 247 A.C.W.S. (3d) 559 at para. 22 (Jo/Vi Ltd.)
+[27] Exhibit R-1, Tab 4, p. 18.
+[28] Club Intrawest v. R., 2017 FCA 151, 2017 CarswellNat 3241 at para. 61.
+[29] Sattva Capital Corp. v. Creston Moly Corp., 2014 SCC 53, [2014] 2 S.C.R. 633 at para. 58.
+[30] The Queen v. Merchant Law Group, 2010 FCA 206 at para. 28.
+[31] Grosvenor Canada Ltd. v. South Coast British Columbia Transportation Authority, 2015 BCSC 177; 2015 CarswellBC 285 at para. 58.
+[32] Creston Moly Corp. v. Sattva Capital Corp., 2014 SCC 53, 2014 CSC 53, 2014 at para. 57
+[33] Fourney v. The Queen, 2011 TCC 520 at para. 39.
+[34] Ibid. at para. 43.
+[35] Ibid. at para. 44.
+[36] Ibid. at para. 45.
+[37] Ibid. at para. 46.
+[38] Club Intrawest v. The Queen, 2016 TCC 149, 2016 CarswellNat 2327, [2016] G.S.T.C. 59 (General Procedure) at para. 71.

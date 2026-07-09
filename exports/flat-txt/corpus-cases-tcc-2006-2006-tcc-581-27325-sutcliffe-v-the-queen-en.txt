@@ -1,0 +1,110 @@
+Title: Sutcliffe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27325/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-581-27325-sutcliffe-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-10-24
+
+# Sutcliffe v. The Queen
+
+- Citation: 2006 TCC 581
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 865, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sutcliffe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-24
+Neutral citation
+2006 TCC 581
+File numbers
+2001-2556(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2556(IT)G
+BETWEEN:
+MARK SUTCLIFFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on February 2 to 10, February 16 and May 4, 2005 at Ottawa, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Emilio S. Binavince
+Michael Eng
+Claude-Alain Burdet
+Counsel for the Respondent:
+Marley Dash
+David G. Frayer, Q.C.
+_______________________________________________________________
+JUDGMENT
+It is ordered that the appeal with respect to assessments made under the Income Tax Act for the 1996, 1997 and 1998 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amounts of income reasonably attributable to duties of employment performed outside of Canada by the appellant during each relevant taxation year on the routes identified in the Reasons for Judgment are the following percentages of the total income earned by the appellant for flying each flight as shown on the detailed time pay summaries filed as evidence at the hearing of the appeal:
+Halifaxto Toronto 22%
+Toronto to Halifax 51%
+Montreal to Toronto 0%
+Toronto to Montreal 11%
+Vancouver to Toronto 31%
+Toronto to Vancouver 49%
+There will be no order as to costs.
+Signed at Toronto, Ontario, this 24th day of October, 2006.
+"J. Woods"
+Woods J.
+Citation: 2006TCC581
+Date: 20061024
+Docket: 2001-2556(IT)G
+BETWEEN:
+MARK SUTCLIFFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+ADDENDUM TO REASONS FOR JUDGMENT
+Woods J.
+[1] Further to my Reasons for Judgment issued on December 22, 2005, the parties submitted a letter to the Court dated October 20, 2006 which reads in part as follows:
+For the purposes of resolving the outstanding issue in this appeal, the parties agree that the amounts of income reasonably attributable to duties of employment performed outside of Canada by Mr. Sutcliffe during the tax years under appeal on the routes identified by the Court are the following percentages of the total income earned by Mr. Sutcliffe for flying each flight as shown on the detailed time pay summaries filed as evidence at the hearing of the appeal:
+Halifax to Toronto 22%
+Toronto to Halifax 51%
+Montreal to Toronto 0%
+Toronto to Montreal 11%
+Vancouver to Toronto 31%
+Toronto to Vancouver 49%
+[2] Judgment will be issued in accordance with my earlier reasons and this agreement.
+[3] By further agreement of the parties, there will be no order as to costs.
+Signed at Toronto, Ontario, this 24th day of October, 2006.
+"J. Woods"
+Woods J.
+CITATION: 2006TCC581
+COURT FILE NO.: 2001-2556(IT)G
+STYLE OF CAUSE: Mark Sutcliffe and Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: February 2 to 10, February 16 and May 4, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: October 24, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Emilio S. Binavince
+Michael Eng
+Claude-Alain Burdet
+Counsel for the Respondent:
+Marley Dash
+David G. Frayer, Q.C.
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Claude-Alain Burdet
+Firm: Viele Burdet
+Ottawa, Canada
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

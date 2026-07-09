@@ -1,0 +1,112 @@
+Title: Di Fruscia c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27674/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-310-27674-di-fruscia-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-06-05
+
+# Di Fruscia c. La Reine
+
+- Citation: 2007 TCC 310
+- Decision date: 2007-06-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 495, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Di Fruscia c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-05
+Neutral citation
+2007 TCC 310
+File numbers
+2006-1318(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1318(IT)I
+BETWEEN:
+CARMINE DI FRUSCIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 11, 2007, at Montreal Quebec.
+Before: The Honourable Associate Chief Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+Sophie Lauzon
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed, without costs and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment to add the amounts of $6,087.00, $2,911.72 and $1,000.00, that is, $9,998.72, to the capital cost of the property in issue.
+Signed at Ottawa, Canada, this 5th day of June 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Citation: 2007TCC310
+Date : 20070605
+Docket: 2006-1318(IT)I
+BETWEEN:
+CARMINE DI FRUSCIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip A.C.J.
+[1] Carmine Di Fruscia appeals from an income tax assessment for 1999 in which the Minister of National Revenue ("Minister") denied his claim for a capital gain of $10,000 on the disposition of a building on Jean Talon Est in Montreal. The Minister assessed on the basis that the appellant's capital gain on the disposition was $42,480.
+[2] The building had been used as a garage. It was built in the early 1960s and required substantial renovations when acquired by the appellant.
+[3] The appellant and another person purchased the property for $235,000 in 1995. While the purchase price was $235,000, the City of Montreal valued the property at about $450,000, according to Mr. Di Fruscia. He stated the building was in a bad state and that was the reason for the lower price. He calculated his capital gain by adding $35,000 of "capital expenditures" to the cost and deducted the $270,000 from his proceeds of sale, $280,000. The Minister, on reassessing, allowed only $513 as capital expenses and increased the capital gain to $44,487. At the objection stage, the Minister allowed an additional amount of $2,007 to capital cost and reduced the capital gain to $42,480.
+[4] The dispute between the parties is whether, prior to disposition, the appellant incurred expenses on account of income or capital.
+[5] The expenditures in issue are the following:
+Replacement of a furnace and burner
+$ 2,911.72
+Garage floor repairs
+$ 3,304.70
+Replace brick on exterior wall of building
+$19,324.00
+Transfer tax on purchase of building
+$ 6,087.00
+Notary expenses
+not known
+[6] The expenditure of $6,087 was a "transfer fee", a tax payable by the purchaser of a building when title is transferred. This is surely a capital expenditure. Respondent's counsel conceded this in argument.
+[7] My colleague Lamarre Proulx J. reviewed in depth the distinction between capital and current expenses when a building is being renovated: Bergeron et al. c. M.R.N.[1]
+[8] In M.N.R. v. Vancouver Tug Boat Company Limited,[2] the Exchequer Court held that the replacements of a boat engine and of the engine for a power shovel were capital expenditures. The Supreme Court of Canada held that the acquisition of stoves and refrigerators were not repairs but replacements and thus capital outlays: M.N.R. v. Haddon Hall Realty Inc.[3] At the case at bar, the purchase of a new furnace was also the purchase of a capital asset. The new furnace replaced the old furnace, but without a new furnace the use and enjoyment of the building would be affected. A new asset was acquired.
+[9] The repair of a floor is a current expense. There is no addition of an asset. An old asset, because of its use, has been repaired.[4] Similarly, the replacement of bricks to the exterior wall of a building is a repair. No wall is being replaced. Old, damaged brick has been replaced by new bricks to make the building suitable for normal use.[5]
+[10] Unfortunately, there is no evidence as to what fees were charged by the notary on the appellant's acquisition of the property. The appellant estimates notarial fees to have been between $2,000 and $3,000. An amount, no doubt, was charged and such an amount would be a capital expense. There is no doubt that notarial fees were paid and I am inclined to allow notarial fees of $1,000 as a capital expenditure.
+[11] I shall therefore allow the appeal and refer the matter back to the Minister for reconsideration and reassessment to add the amounts of $6,087.00, $2,911.72 and $1,000.00, that is, $9,998.72, to the capital cost of the property. The appellant shall not be entitled to costs.
+Signed at Ottawa, Canada, this 5th day of June 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+CITATION: 2007TCC310
+COURT FILE NO.: 2006-1318(IT)I
+STYLE OF CAUSE: CARMINE DI FRUSCIA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal Quebec
+DATE OF HEARING: April 11, 2007
+REASONS FOR JUDGMENT BY: The Honourable Associate Chief Justice Gerald J. Rip
+DATE OF JUDGMENT: June 5, 2007
+APPEARANCES:
+Counsel for the Appellant :
+Sophie Lauzon
+Counsel for the Respondent:
+Marie-Aimée Cantin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Me Sophie Lauzon
+Firm:
+For the Respondent : John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 90 DTC 1505, at pp. 1508-1511.
+[2] 57 DTC 1126.
+[3] 62 DTC 1001.
+[4] See Canada Steamship Lines Limited v. M.N.R., 66 DTC 5205, at 5207, per Jackett P.
+[5] Gold Bar Developments Ltd. v. Canada, 87 DTC 5152 (FCJ).

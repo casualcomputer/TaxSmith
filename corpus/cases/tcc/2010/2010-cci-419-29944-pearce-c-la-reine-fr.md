@@ -1,0 +1,196 @@
+---
+title: "Pearce c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29944/index.do"
+last_modified: "2010-08-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 419"
+citation2: ""
+neutral_citation: "2010 CCI 419"
+decision_date: "2010-08-11"
+language: "fr"
+item_id: "29944"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6490
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:40:14.494000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "af1391301e2d6890d629d394e3cf66678d8df738073960d35e153cae8ba945fc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pearce c. La Reine
+
+- Citation: 2010 CCI 419
+- Decision date: 2010-08-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6490, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pearce c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-08-11
+Référence neutre
+2010 CCI 419
+Numéro de dossier
+2008-623(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-623(IT)G
+ENTRE :
+KENNETH EDGAR PEARCE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 12 et 13 novembre 2009 et le 12 avril 2010,
+à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Elizabeth (Lisa) MacDonald
+Me Pavanjit Mahil Pandher
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002, 2003 et 2004 sont accueillis en ce qui a trait à deux admissions de l’intimée pour l’année d’imposition 2002 relativement aux frais d’automobile et aux frais de bureau. Les montants figurent en détail à l’annexe « A » modifiée de la réponse à l’avis d’appel déposée par l’intimée et entraînent une diminution de 3 890 $ du montant total de l’avantage conféré à un actionnaire, soit 39 383 $, ce qui donne un montant révisé de 35 493 $ à ce titre pour l’année 2002. Les cotisations sont renvoyées au ministre pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+À tous autres égards, les appels sont rejetés et les dépens sont adjugés à l’intimée.
+Signé à Charlottetown (I.-P.-É.), ce 11e jour d’août 2010.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 29e jour de novembre 2010.
+Mario Lagace, jurilinguiste
+Référence : 2010 CCI 419
+Date : 11 août 2010
+Dossier : 2008-623(IT)G
+ENTRE :
+KENNETH EDGAR PEARCE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+A. LES FAITS
+[1] Il s’agit d’appels interjetés à l’encontre des nouvelles cotisations que le ministre du Revenu national (le « ministre ») a établies pour les années d’imposition 2001, 2002, 2003 et 2004 de l’appelant. En ce qui concerne les années d’imposition 2001 et 2002, le ministre s’est fondé sur le paragraphe 152(4) de la Loi de l’impôt sur le revenu (la « Loi ») pour établir une nouvelle cotisation à l’égard de l’appelant après la période normale de nouvelle cotisation.
+[2] L’appelant, qui était actionnaire et employé de Pearce Forest Products Ltd. (« Pearce ») au cours des années d’imposition en question, a déclaré les sommes suivantes inscrites sur un feuillet T4 à titre de revenus :
+Année d’imposition
+Revenu déclaré
+2001
+82 876 $
+2002
+78 000 $
+2003
+62 900 $
+2004
+6 936 $
+L’appelant a également déclaré un montant de 44 426 $ inscrit sur un feuillet T4A à titre de revenu à l’égard de l’année d’imposition 2004.
+[3] Dans la nouvelle cotisation qu’il a établie à l’égard de l’appelant le 2 février 2007, le ministre a ajouté au revenu de celui-ci les montants suivants à titre d’avantages conférés à un actionnaire :
+Année d’imposition
+Avantage conféré à un actionnaire
+2001
+20 297 $
+2002
+39 383 $
+2003
+23 337 $
+2004
+1 800 $
+De plus, le ministre a refusé d’accorder la déduction de 14 144 $ demandée pour l’année 2003 et celle de 24 176 $ demandée pour l’année 2004 au titre des dépenses d’emploi. Des pénalités pour faute lourde ont été exigées pour chacune des années d’imposition relativement aux montants des avantages conférés à un actionnaire.
+[4] La société Pearce était un grossiste spécialisé dans la distribution de bois d’œuvre qui a exercé ses activités depuis la résidence de l’appelant entre février 1999 et avril 2004. Avant de créer cette entreprise en 1999, l’appelant exerçait d’autres activités liées au commerce du bois d’œuvre. En raison des problèmes financiers que l’appelant éprouvait, trois de ses amis ont investi des fonds dans Pearce en 2000 ou en 2001 et sont devenus actionnaires et administrateurs. Cependant, il appert clairement de la preuve que l’appelant est demeuré l’âme dirigeante de l’entreprise, qu’il a conservé un pouvoir de signature et qu’il a continué à utiliser la carte de débit de la société tout au long des années d’imposition en question.
+[5] William Wheeler, un des investisseurs, a expliqué au cours de son témoignage que l’intention de ceux-ci était de prêter l’argent, d’obtenir un rendement à l’égard du placement et de faire racheter leurs participations par l’appelant. Au début, les investisseurs ont simplement examiné les états financiers; cependant, lorsque l’entreprise a éprouvé des difficultés, ils ont mis en œuvre des mesures de contrôle des coûts. À partir de l’année 2003, la signature de l’un des investisseurs en plus de celle de l’appelant était exigée à l’égard des opérations relatives au compte bancaire de la société. M. Wheeler a expliqué que les seuls coûts contrôlables étaient ceux qu’il a appelés les [traduction] « coûts liés à Ken » (transcription, page 275, ligne 19), comme les frais des services publics, les frais de divertissement, les frais d’automobile et ainsi de suite. De plus, à compter de 2003, M. Wheeler et un autre investisseur, Peter Bonner, ont pris en charge la signature des chèques afin de permettre une autre vérification des coûts. M. Wheeler a parlé de la correspondance et des courriels qui ont été échangés entre les investisseurs et l’appelant et qui faisaient état des préoccupations des actionnaires et de l’admission de l’appelant selon lesquelles les frais qu’il réclamait ne pouvaient pas tous être justifiés. Les investisseurs ont également restreint à un montant de 9 000 $ par mois les dépenses remboursables à l’appelant. Malgré ces mesures de contrôle, les frais sont demeurés plus élevés que ce qu’ils auraient dû être, selon M. Wheeler. En avril 2004, les investisseurs ont appris que l’appelant avait en sa possession une carte de débit de l’entreprise qu’il utilisait à sa guise pour dépasser les limites de dépenses qui lui avaient été imposées. Ils ont également constaté que les états financiers ne présentaient pas la véritable situation financière de la société. Ainsi, certaines créances, qui n’étaient manifestement pas recouvrables, étaient restées inscrites dans les registres. De plus, des écritures inexactes étaient effectuées dans le bilan lors de certains retraits : des écritures de compensation étaient effectuées et comptabilisées en stock. Devant ces faits, les investisseurs ont décidé de retirer leur appui et de mettre fin aux activités de la société.
+[6] Carol Logan, la commis-comptable et directrice de bureau de la société au cours des années d’imposition en question, a déclaré au cours de son témoignage qu’elle avait été embauchée par l’appelant et qu’elle relevait directement et uniquement de celui-ci. Elle était chargée d’assurer le suivi des dépenses de l’appelant et a expliqué que, lorsque celui-ci lui remettait des reçus, il était remboursé par chèque ou par carte de débit. Dans les premiers temps, l’appelant ou Mme Logan préparait le chèque destiné à l’appelant à l’égard du remboursement des frais et l’appelant le signait. Lorsque les investisseurs ont commencé à surveiller les chèques relatifs aux dépenses, dont ils avaient fixé la limite à 9 000 $ par mois, Mme Logan savait que cette limite avait été établie, parce que l’appelant lui avait dit d’inscrire les frais portés tous les mois à la carte de débit dans différentes catégories. Selon le témoignage de Mme Logan, l’appelant participait de très près aux décisions concernant la classification et la description des frais dans les états financiers. Mme Logan a simplement suivi les directives de l’appelant, mais elle a avoué qu’elle craignait qu’une partie des dépenses n’aient été des dépenses personnelles de l’appelant. En conséquence, elle a commencé à consigner des notes dans les écritures de journal.
+[7] La vérificatrice, Judith Robitaille, a conclu qu’une bonne partie des frais étaient de nature personnelle et ils ont été considérés comme des montants que l’appelant avait reçus à titre d’avantages conférés à un actionnaire. En conséquence, la déduction de ces frais a été refusée à la société.
+[8] Les questions à trancher sont les suivantes :
+a) Le ministre a-t-il le droit d’établir une nouvelle cotisation à l’égard des années 2001 et 2002 qui sont frappées de prescription, en application du paragraphe 152(4) de la Loi?
+b) L’appelant a-t-il, au cours des années 2001, 2002, 2003 et 2004, reçu de la société des avantages à titre d’actionnaire selon l’article 15 ou, subsidiairement, en sa qualité d’employé selon le paragraphe 6(1) de la Loi?
+c) Les pénalités ont-elles été imposées à juste titre sur les montants de ces avantages non déclarés en application du paragraphe 163(2) de la Loi?
+d) L’appelant a-t-il le droit de déduire des frais additionnels en 2003 et en 2004, les seules années au cours desquelles il a déduit des dépenses d’emploi supérieures aux montants autorisés par le ministre?
+[9] L’appelant soutient que la vérification est erronée parce que les avantages qui ont fait l’objet de la cotisation avaient déjà été pris en compte. Selon son avis d’appel, [traduction] « les montants qui avaient été consignés à l’origine à titre de dépenses d’emploi et que Pearce Forest Products (PFP) avait plus tard considérés comme des dépenses personnelles ont été inclus à nouveau dans mon revenu sur mon feuillet T4 pour les années 2001 à 2004. Ce montant s’élevait à 37 776 $. Un autre montant de 44 426 $ couvrant les mêmes années a été ajouté à mon revenu au moyen d’un feuillet T4A en 2004 lorsque la société a cessé ses activités. Les impôts relatifs à ces montants ont été entièrement payés au cours des années pertinentes ». En fait, l’appelant soutient que son revenu a fait l’objet d’une double imposition de la part du ministre. En conséquence, comme il n’y a pas de présentation erronée, le ministre ne devrait pas être autorisé à rouvrir les années d’imposition de 2001 et 2002, qui sont frappées de prescription. Quant aux dépenses d’emploi dont le ministre a refusé la déduction, l’appelant a invoqué l’arrêt Coffen v. The Queen, 97 D.T.C. 5552, pour faire valoir que le ministre doit prouver hors de tout doute raisonnable que chaque dépense effectuée au cours de chaque année d’imposition a été refusée à juste titre et que chaque élément est véritablement assujetti à l’impôt.
+[10] Pour sa part, l’intimée soutient que la vérification a été effectuée en bonne et due forme, que l’appelant a fait des présentations erronées qui permettent la réouverture des années frappées de prescription et que les avantages conférés à un actionnaire étaient personnels et sont distincts des montants inscrits sur les feuillets T4 et T4A établis par la société. Le feuillet T4A se rapportait à des avances à l’employé et à des rajustements des stocks à l’égard de frais payés d’avance et ne concernait donc pas des avantages. L’intimée a ajouté que la société avait remboursé à l’appelant la plupart des dépenses d’emploi qu’il avait engagées en 2003 et 2004 ou que les montants en question n’avaient pas été payés à des fins commerciales. La vérificatrice connaissait très bien la position de l’appelant et a donc accordé une attention particulière aux montants inclus dans les feuillets T4 et T4A.
+B. ANALYSE
+[11] Dans les présents appels, l’intimée doit, selon le sous-alinéa 152(4)a)(i) de la Loi, prouver que l’appelant « a fait une présentation erronée des faits par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi ». De plus, le fardeau de preuve incombe à l’intimée en ce qui a trait aux pénalités pour faute lourde. J’ai expliqué à maintes reprises pendant l’audience que le fardeau de preuve incombait à l’appelant en ce qui concerne toutes les autres questions. L’appelant a soutenu constamment que [traduction] « selon la règle de common law, le vérificateur doit vérifier chaque élément de dépense soumis pour chacune des années » (transcription, page 19, lignes 15 à 17). Cet argument était fondé sur la décision rendue par le juge Sheppard dans l’affaire Coffen, notamment sur les commentaires suivants qui figurent à la page 5554 :
+[traduction]
+[…] Dans une procédure engagée sous le régime du Code criminel, il incombe à la Couronne de prouver hors de tout doute raisonnable la culpabilité de l’accusé relativement à l’infraction qui lui est reprochée. Dans une affaire concernant l’impôt sur le revenu, cela signifie que la Couronne doit prouver hors de tout doute raisonnable que chaque élément du revenu sur lequel un impôt est exigé est dûment imposable conformément au droit fiscal et que chaque dépense refusée est refusée à juste titre conformément au droit fiscal. Dans des litiges semblables à la présente affaire, où il y a suffisamment de documents pour remplir une petite pièce, il s’agit d’une tâche très difficile. Cependant, il faut le faire, et ce, pour chaque année d’imposition.
+[...]
+[Non souligné dans l’original.]
+Ce principe a subséquemment été infirmé en appel et la Cour d’appel de l’Ontario a conclu qu’il n’était pas nécessaire qu’un chef d’évasion fiscale soit lié à une seule année d’imposition. Or, les commentaires du juge Sheppard sont précédés de la locution-clé [traduction] « dans une procédure engagée sous le régime du Code criminel » et, par conséquent, ils ne s’appliquent pas aux questions à trancher dans les présents appels et au fardeau de preuve connexe.
+[12] Même si l’appelant a répété fréquemment qu’il comprenait que le fardeau lui incombait (sauf en ce qui a trait aux questions concernant les deux années frappées de prescription et les pénalités), étant donné qu’il s’est fondé à tort sur la décision rendue dans Coffen, il a consacré la majeure partie de son temps à la présentation d’éléments de preuve visant à démontrer que la vérification était erronée et que le ministre fût incapable de prouver que les frais étaient personnels plutôt que tenter de réfuter les hypothèses du ministre selon la prépondérance des probabilités. Pour se décharger du fardeau qui lui incombait, il ne lui suffisait pas de faire valoir que la vérification était erronée et que les montants inscrits à titre de frais devraient être déductibles. L’appelant n’a fourni aucune précision et s’est plutôt limité principalement à formuler des affirmations générales et imprécises. Il a semblé par moment qu’il voulait que ses arguments soient imprécis, ambigus et trompeurs. Or, dans un régime d’autocotisation, c’est l’appelant qui est le mieux placé pour fournir les détails nécessaires afin de montrer pourquoi les cotisations sont erronées. L’appelant n’a tout simplement pas fourni ces détails.
+[13] En ce qui concerne la réouverture des deux années frappées de prescription, je suis d’avis que l’intimée a présenté suffisamment d’éléments de preuve pour que j’en arrive à la conclusion que l’appelant a présenté des faits erronés dans ses déclarations de revenus pour les années d’imposition 2001 et 2002, ce qui permet la réouverture de ces années en application du sous-alinéa 152(4)a)(i) de la Loi. À tout le moins, l’appelant a fait montre de négligence et d’insouciance et la preuve me permet également de conclure qu’il avait vraiment l’intention de tromper l’intimée.
+[14] L’appelant est titulaire d’un baccalauréat en commerce de l’Université de la Colombie-Britannique. Il a traité pendant de nombreuses années avec d’autres sociétés dans le domaine du commerce du bois d’œuvre. Homme d’affaires expérimenté, il exerçait un contrôle complet sur les activités quotidiennes de l’entreprise tout au long des années d’imposition, comme le montrent le témoignage de la commis-comptable, Carol Logan, et celui de l’un des investisseurs, William Wheeler. Même si des investisseurs faisaient partie du conseil d’administration en 2002, l’entreprise était en réalité celle de l’appelant. Il a ordonné que des paiements visant à couvrir ses dépenses personnelles soient effectués et donné des directives à Mme Logan au sujet de la consignation de ces dépenses. Il était le seul titulaire d’un pouvoir de signature au départ et, lorsque la signature de l’un des trois investisseurs a été exigée sur les chèques, il a contourné les directives des investisseurs en question et s’est servi de la carte de débit de la société à leur insu. Il connaissait très bien la différence entre les dépenses personnelles et les dépenses d’entreprise. Compte tenu de ses connaissances, de sa formation et de son expérience, il aurait dû être vigilant pour éviter ces erreurs. Dans bien des cas, les erreurs sont claires et sans équivoque.
+[15] Dans Venne v. The Queen, 84 D.T.C. 6247, le juge Strayer a formulé les commentaires suivants à la page 6251 :
+Je suis convaincu qu'il suffit au Ministre, pour invoquer son pouvoir en vertu de l'alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l'égard d'un ou plusieurs éléments de sa déclaration de revenus au titre d'une année donnée. Cette négligence est établie s'il est démontré que le contribuable n'a pas fait preuve de diligence raisonnable. C'est sûrement là le sens des termes « présentation erronée des faits, par négligence », en particulier avec d'autres motifs comme l'inattention ou l'omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée. Sauf si ces termes étaient superflus dans cet article, hypothèse que je ne puis accepter, le terme « négligence » impose un critère moins strict de faute, semblable à celui qui est utilisé dans les autres domaines du droit, comme la responsabilité délictuelle. [...]
+[Non souligné dans l’original.]
+[16] Dans Nesbitt v. The Queen, 96 D.T.C. 6588, le juge Strayer a commenté à nouveau cette disposition et formulé les commentaires suivants à la page 6589 :
+[...] Il me semble que l'un des objets du paragraphe 152(4) est de favoriser l'établissement soigné et exact des déclarations de revenus. C'est au moment où la déclaration est produite que l'on peut déterminer s'il y a eu ou non présentation erronée de faits par négligence ou inattention en remplissant la déclaration. Des faits ont été présentés erronément s'il se trouve un élément inexact dans la déclaration, du moins un élément qui est important pour les fins de la déclaration ainsi que de toute nouvelle cotisation ultérieure. Cela demeure une présentation erronée de fait même si le ministre pourrait relever ou relève effectivement l'erreur dans la déclaration en procédant à une analyse attentive des documents justificatifs. Le caractère autodéclaratif du système fiscal serait miné si les contribuables pouvaient remplir avec négligence les déclarations tout en fournissant dans les documents de travail des données de base exactes, en espérant que le ministre ne trouve pas l'erreur mais que, si cela arrivait dans les quatre années suivantes, la pire conséquence serait l'établissement d'une nouvelle cotisation exacte à ce moment-là.
+Il importe donc peu que le ministre ait pu, malgré la représentation erronée de faits dans la déclaration, déterminer les faits véridiques avant l'expiration du délai de prescription. Au moment où elle a été produite, et par la suite, la déclaration fautive constituait une présentation erronée de faits au sens du sous-alinéa 152(4)a)(i) de la Loi.
+[Non souligné dans l’original.]
+[17] L’appelant a soutenu qu’il avait agi de manière transparente et qu’il n’avait pas tenté de dissimuler des renseignements pertinents au ministre. Cependant, la norme de preuve applicable à la question de savoir si une présentation erronée de faits a eu lieu est minimale et exige simplement qu’il y ait une déclaration inexacte portant sur un élément important. L’appelant participait à la tenue des registres comptables de la société et donnait des directives à la commis-comptable au sujet du traitement des écritures de journal. Il a établi sa propre déclaration à la main pour l’année d’imposition 2002. La preuve donne à penser qu’il savait qu’en incitant la société à payer des frais personnels comme le loyer et les frais de services publics, il s’accordait à lui-même des avantages imposables. En tout état de cause, eu égard à sa formation et à son expérience, s’il ignorait le résultat de sa conduite, il aurait dû le connaître. Les avantages bruts non déclarés s’élevaient à 22 172 $ pour l’année 2001 et à 42 571 $ pour l’année 2002. Ces montants étaient assez importants. Or, l’appelant explique simplement que ces dépenses étaient toutes des dépenses d’emploi ou que les montants avaient été inclus dans le feuillet T4A. Cependant, il n’a produit aucun élément de preuve pour étayer que les montants avaient été imposés deux fois ou que, même si ces sommes avaient été dépensées par la société, l’appelant les avait effectuées pour tirer un revenu de l’exploitation de l’entreprise ou de son emploi. En fait, l’appelant a admis en contre-interrogatoire que la plupart des avantages n’avaient pas été inscrits deux fois sur le feuillet T4A. Dans ces circonstances, le ministre était justifié de rouvrir les années frappées de prescription.
+[18] Quant aux avantages que la société a payés, notamment le loyer, les frais des services publics, les frais d’automobile, les frais de bureau, les frais de divertissement, les frais de déplacement et les frais juridiques, je conclus qu’il s’agissait de dépenses personnelles et que, à ce titre, les montants en question auraient dû être ajoutés au revenu de l’appelant à titre d’avantages conférés à un actionnaire en application du paragraphe 15(1) de la Loi. L’appelant soutient essentiellement que ces avantages avaient déjà été inclus dans le feuillet T4A que la société avait établi en 2004, de sorte que l’ajout de ces montants à son revenu donne lieu à une double imposition. Au cours de son témoignage, M. Wheeler a souligné que les montants du feuillet T4A se composaient d’une avance à l’appelant et d’un rajustement des stocks, lequel rajustement était en réalité une autre avance prélevée par l’appelant. Le feuillet T4A a été établi lorsque les investisseurs ont été informés de ces avances après avoir pris des mesures de contrôle pour limiter les dépenses de l’appelant. M. Wheeler a conclu que bon nombre des dépenses n’étaient pas liées aux activités de la société. À son avis, la société payait les frais directement à l’appelant ou lui remboursait les dépenses d’emploi raisonnables qu’il effectuait. C’est d’ailleurs ce qui ressort des conditions du contrat d’emploi (pièce R-2). Bon nombre des frais que l’appelant avait cherché à déduire correspondaient à des montants que la société payait également. L’appelant n’a proposé aucune explication, raisonnable ou non, à ce sujet. Au cours de son témoignage, la vérificatrice a expliqué qu’elle avait tenu compte des préoccupations de l’appelant au sujet des risques de double imposition et, lorsqu’elle avait procédé à la vérification, elle avait tenté de trouver la source des avances afin de s’assurer que les montants ne comprenaient aucun autre avantage ayant fait l’objet d’une cotisation. Ainsi, la vérificatrice avait déterminé la source d’une somme d’environ 20 000 $ versée à l’appelant à l’aide d’une série de chèques au sujet desquels l’appelant a admis qu’il s’agissait en fait de frais personnels qui avaient été décrits comme des [traduction] « frais payés d’avance » dans les registres de la société.
+[19] Bien que l’appelant ait soutenu qu’il y avait eu double imposition, il n’a présenté aucun élément de preuve donnant à penser que tel était le cas en ce qui a trait aux montants visés par la cotisation du ministre et ceux inscrits sur le feuillet T4A. L’appelant était le mieux placé pour fourni des éléments de preuve à ce sujet, car il est évident qu’il dirigeait les activités de la société, qu’il participait de près à la tenue des registres de celle-ci et qu’il dépensait librement l’argent, même après que les investisseurs eurent pris des mesures pour essayer de contrôler les dépenses. L’appelant n’a pas réussi à démontrer que la vérificatrice avait commis une erreur lors de l’établissement de la nouvelle cotisation ou qu’il y avait eu double imposition.
+[20] En ce qui a trait aux dépenses d’emploi, le ministre a refusé d’en accorder la déduction, soit parce qu’elles n’avaient pas été effectuées pour tirer un revenu, soit parce que la société les avait remboursées. L’appelant a soutenu qu’il avait choisi de payer une bonne partie de ces frais lui-même en raison des relations tendues qui existaient entre les investisseurs et lui-même. Il a déduit d’autres frais parce qu’il estimait que la société ne les lui avait pas remboursés.
+[21] Il appert clairement du contrat d’emploi (pièce R-2) que la société s’engageait à payer tous les frais supportés aux fins de l’entreprise. Il incombe à l’appelant de convaincre la Cour que les frais autres que les frais envisagés dans le contrat en question étaient nécessaires aux fins de l’entreprise et qu’aucune partie de ces montants ne lui avait été remboursée. Cependant, encore là, la preuve de l’appelant à cet égard était imprécise et ambiguë. De prime abord, une bonne partie des frais comportent manifestement un élément personnel. L’appelant n’a pas réussi à prouver que les frais liés à des fêtes d’anniversaire, à des voyages de chasse et de pêche, à l’achat de nourriture pour chiens et d’articles de cuisine et à un voyage au mont Blackcomb le Jour de l’an avaient un objet commercial. Qui plus est, les actionnaires et investisseurs n’ont pas contesté les nouvelles cotisations établies à l’égard de la société et dans lesquelles la déduction des frais en question était refusée à celle-ci, ce qui est très révélateur. En fait, les investisseurs avaient des doutes au sujet des activités liées aux dépenses de l’appelant et ont tenté de lui imposer des mesures de contrôle qu’il a réussi à contourner à leur insu pendant un certain temps.
+[22] En dernier lieu, j’en arrive à la conclusion que les pénalités pour faute lourde qui sont exigées en application du paragraphe 163(2) de la Loi sont justifiées dans les circonstances. Une bonne partie de la preuve que l’intimée a présentée au sujet de la question des pénalités correspond à celle qui concernait la réouverture des années frappées de prescription. Cependant, comme je l’ai souligné dans Dao v. The Queen, 2010 D.T.C. 1086, le type de conduite d’un contribuable qui appuierait la réouverture d’années frappées de prescription en application du paragraphe 152(4) ne justifierait pas nécessairement ou automatiquement l’imposition de pénalités en application du paragraphe 163(2). Le paragraphe 163(2) est une disposition pénale, mais non le paragraphe 152(4). Comme l’a souligné le juge Strayer dans la décision Venne, à la page 6256 :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [...]
+De plus, à la page 6249, le juge Strayer ajoute ce qui suit :
+[…] En vertu du paragraphe 163(3) « la charge d'établir les faits qui justifient l'imposition de la pénalité incombe au Ministre ». Il convient de souligner que, pour que la pénalité soit applicable, il faut un degré de culpabilité plus élevé, soit avec connaissance réelle, soit avec faute lourde, que ne l'impose le paragraphe 152(4) pour que soient réouvertes des cotisations antérieures de plus de quatre ans, la simple négligence étant suffisante apparemment dans ce dernier cas. [...]
+[23] Il a été mis en preuve que l’appelant était l’âme dirigeante de la société. Il a établi et signé ses propres déclarations de revenus pour les années d’imposition 2002, 2003 et 2004. Il a donné des directives à la commis-comptable au sujet de la consignation de montants dans les états financiers ainsi qu’au sujet du remboursement de ses frais, et la commis-comptable a déclaré qu’elle avait simplement suivi les directives de l’appelant et consigné les montants comme il lui avait dit de le faire. Les courriels échangés entre l’appelant et les actionnaires et investisseurs montrent les préoccupations croissantes de ceux‑ci au sujet des dépenses de l’appelant. Afin d’essayer d’éviter les mesures de contrôle qui lui étaient imposées, l’appelant s’est servi de la carte de débit de l’entreprise. À ce sujet, l’appelant a expliqué qu’il était humiliant pour lui de demander à M. Wheeler de signer un chèque pour la moindre dépense. Cependant, je conviens avec l’intimée que ces événements s’expliquent plus raisonnablement par le fait que la liberté dont l’appelant bénéficiait en ce qui a trait à ses dépenses personnelles était désormais freinée par les investisseurs. De plus, l’appelant a ordonné à la commis‑comptable de consigner des dépenses dans les comptes des frais payés d’avance et dans les comptes de stocks afin de minimiser les questions relatives aux créanciers et les problèmes que les investisseurs éprouvaient relativement aux dépenses qu’il faisait. La preuve donne à penser que l’appelant a pris intentionnellement ces mesures comptables irrégulières et s’est servi de la carte de débit de la société pour pouvoir dépenser à sa guise. En raison de cette conduite, les registres de la société n’étaient pas entièrement transparents. Enfin, les montants à l’égard desquels des pénalités ont été imposées sont élevés. Comme la vérificatrice l’a mentionné dans son rapport relatif aux pénalités recommandées, pour chacune des années d’imposition, le revenu non déclaré dépassait 25 p. 100 du revenu déclaré.
+[24] Malgré sa formation et son expérience, l’appelant n’a pas déclaré des avantages qui étaient manifestement personnels et a déduit des frais qui étaient personnels ou qu’il ne convenait pas de déduire. Il a été incapable d’expliquer pourquoi il avait déduit une bonne partie de ces dépenses. Il a commis volontairement ces irrégularités comptables afin de présenter un portrait erroné des véritables activités de la société. Tous ces faits justifient l’imposition des pénalités en application du paragraphe 163(2).
+[25] En résumé, tout au long de l’audience, l’appelant a soutenu que la vérification était erronée et que le ministre n’avait pu prouver que les frais étaient personnels. Malgré mes avertissements, il n’a pas reconnu qu’il lui appartenait de présenter des éléments de preuve montrant qu’il n’avait pas reçu les avantages conférés à un actionnaire ou qu’une partie de ces avantages avaient déjà été inclus dans les feuillets T4 et T4A. De plus, il n’a pas réussi à démontrer pourquoi la déduction des dépenses d’emploi aurait dû être acceptée. Fondamentalement, il a soutenu que, s’il pouvait produire un reçu, il serait en mesure de déduire automatiquement le montant correspondant comme dépense sans tenter de montrer comment la dépense en question était liée à ses fonctions. Il était très important pour l’appelant de préciser s’il existait un contrat d’emploi obligeant la société à lui payer ou à lui rembourser directement les dépenses liées à l’entreprise. L’appelant n’ayant présenté aucun élément de preuve sur ces questions, je dois déduire que, si cette preuve avait été présentée, elle n’aurait pas été favorable à la thèse de l’appelant. La preuve appuie le témoignage de M. Wheeler selon lequel l’appelant a simplement utilisé les liquidités de l’entreprise malgré les mesures de contrôle que les actionnaires et investisseurs avaient mises en place pour limiter ses dépenses.
+[26] Les appels seront accueillis en ce qui a trait à deux admissions que l’intimée a faites au début de l’audience pour l’année d’imposition 2002 en ce qui concerne les frais d’automobile et les frais de bureau. Les montants figurent en détail à l’annexe « A » modifiée de la réponse à l’avis d’appel déposée par l’intimée et entraînent une diminution de 3 890 $ du montant total de l’avantage conféré à un actionnaire, soit 39 383 $, ce qui donne un montant révisé de 35 493 $ au titre de l’avantage conféré à un actionnaire pour l’année 2002. À tous autres égards, les appels sont rejetés et les dépens sont adjugés à l’intimée.
+Signé à Charlottetown (Î.-P.-É.), ce 11e jour d’août 2010.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 29e jour de novembre 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 419
+No DU DOSSIER DE LA COUR : 2008-623(IT)G
+INTITULÉ : Kenneth Edgar Pearce c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE : Les 12 et 14 novembre 2009 et
+le 12 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 11 août 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Elizabeth (Lisa) MacDonald
+Me Pavanjit Mahil Pandher
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

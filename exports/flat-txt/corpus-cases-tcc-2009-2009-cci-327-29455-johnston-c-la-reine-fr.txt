@@ -1,0 +1,404 @@
+Title: Johnston c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29455/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-327-29455-johnston-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-06-17
+
+# Johnston c. La Reine
+
+- Citation: 2009 CCI 327
+- Decision date: 2009-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6946, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnston c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-17
+Référence neutre
+2009 CCI 327
+Numéro de dossier
+2008-1030(IT)APP
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1030(IT)APP
+ENTRE :
+PAMELA JOHNSTON,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue sur preuve commune avec les demandes de
+Cheryl Sutherland (2008-1429(IT)APP),
+Darlene McGregor (2008-1539(IT)APP) et
+Andrew Agawa (2008-1761(IT)APP),
+les 30 et 31 mars 2009, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de la demanderesse :
+Me Eric Lay
+Avocat de la défenderesse :
+Me Gordon Bourgard
+____________________________________________________________________
+ORDONNANCE
+La demande que Pamela Johnston a présentée en vue de faire proroger le délai dans lequel un appel de la nouvelle cotisation concernant l’obligation qui lui incombe en vertu de la Loi de l’impôt sur le revenu pour ses années d’imposition 1999, 2000, 2001, 2002, 2004 et 2005 peut être interjeté est rejetée sans qu’aucuns dépens soient adjugés.
+Signé à Ottawa, Canada, ce 17e jour de juin 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 15e jour de septembre 2009.
+Hélène Tremblay, traductrice
+Dossier : 2008-1429(IT)APP
+ENTRE :
+CHERYL SUTHERLAND,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue sur preuve commune avec les demandes de
+Pamela Johnston (2008-1030(IT)APP),
+Darlene McGregor (2008-1539(IT)APP) et
+Andrew Agawa (2008-1761(IT)APP),
+les 30 et 31 mars 2009, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de la demanderesse :
+Me Eric Lay
+Avocat de la défenderesse :
+Me Gordon Bourgard
+____________________________________________________________________
+ORDONNANCE
+La demande que Cheryl Sutherland a présentée en vue de faire proroger le délai dans lequel un appel de la nouvelle cotisation concernant l’obligation qui lui incombe en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour ses années d’imposition 1995, 2003 et 2004 et un appel de la cotisation concernant l’obligation qui lui incombe en vertu de la Loi pour ses années d’imposition 2000, 2001 et 2002 peuvent être interjetés est rejetée sans qu’aucuns dépens soient adjugés.
+Signé à Ottawa, Canada, ce 17e jour de juin 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 15e jour de septembre 2009.
+Hélène Tremblay, traductrice
+Dossier : 2008-1539(IT)APP
+ENTRE :
+DARLENE MCGREGOR,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue sur preuve commune avec les demandes de
+Pamela Johnston (2008-1030(IT)APP),
+Cheryl Sutherland (2008-1429(IT)APP) et
+Andrew Agawa (2008-1761(IT)APP),
+les 30 et 31 mars 2009, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de la demanderesse :
+Me Eric Lay
+Avocat de la défenderesse :
+Me Gordon Bourgard
+____________________________________________________________________
+ORDONNANCE
+La demande que Darlene McGregor a présentée en vue de faire proroger le délai dans lequel un appel de la nouvelle cotisation concernant l’obligation qui lui incombe en vertu de la Loi de l’impôt sur le revenu pour ses années d’imposition 1999, 2000, 2001, 2002 et 2003 peut être interjeté est rejetée sans qu’aucuns dépens soient adjugés.
+Signé à Ottawa, Canada, ce 17e jour de juin 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 15e jour de septembre 2009.
+Hélène Tremblay, traductrice
+Dossier : 2008-1761(IT)APP
+ENTRE :
+ANDREW AGAWA,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue sur preuve commune avec les demandes de
+Pamela Johnston (2008-1030(IT)APP),
+Cheryl Sutherland (2008-1429(IT)APP) et
+Darlene McGregor (2008-1539(IT)APP),
+les 30 et 31 mars 2009, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat du demandeur :
+Me Eric Lay
+Avocat de la défenderesse :
+Me Gordon Bourgard
+____________________________________________________________________
+ORDONNANCE
+La demande qu’Andrew Agawa a présentée en vue de faire proroger le délai dans lequel un appel de la cotisation concernant l’obligation qui lui incombe en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour son année d’imposition 2000 et un appel de la nouvelle cotisation concernant l’obligation qui lui incombe en vertu de la Loi pour son année d’imposition 2001 peuvent être interjetés est rejetée sans qu’aucuns dépens soient adjugés.
+Signé à Ottawa, Canada, ce 17e jour de juin 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 15e jour de septembre 2009.
+Hélène Tremblay, traductrice
+Référence : 2009 CCI 327
+Date : 20090617
+Dossier : 2008-1030(IT)APP
+ENTRE :
+PAMELA JOHNSTON,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse,
+Dossier : 2008-1429(IT)APP
+ET ENTRE :
+CHERYL SUTHERLAND,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse,
+Dossier : 2008-1539(IT)APP
+ET ENTRE :
+DARLENE MCGREGOR,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse,
+Dossier : 2008-1761(IT)APP
+ET ENTRE :
+ANDREW AGAWA,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] Un grand nombre de demandes visant à faire proroger le délai dans lequel un appel peut être interjeté auprès de la Cour ont été présentées par des particuliers, ou pour le compte de particuliers, qui affirmaient que le revenu qu’ils avaient gagné par suite de leur emploi auprès de Native Leasing Services ou d’O.I. Employee Leasing Inc. est exempté d’impôt par suite des dispositions de l’article 87 de la Loi sur les Indiens. Par une ordonnance de la juge Sheridan, de la Cour, signée le 17 décembre 2008, sept demandes ont été inscrites au rôle. Au cours de l’audience, des avis de désistement ont été déposés pour le compte de deux des sept demandeurs (Lou Henry et Frank Horn) et les demandes de ces derniers ont été rejetées. Un troisième demandeur (Joanne Miller) n’a pas comparu au cours des deux journées prévues pour la tenue de l’audience et l’avocat des autres demandeurs a indiqué qu’il n’avait pas reçu d’instructions de Joanne Miller. La demande de Joanne Miller a donc également été rejetée.
+[2] Les quatre autres demandes ont été entendues ensemble sur preuve commune. Toutes les demandes se rapportent aux appels que les demandeurs cherchent à interjeter sous le régime de la procédure informelle. Les paragraphes 167(1) et (5) de la Loi de l’impôt sur le revenu (la « LIR ») prévoient ce qui suit :
+167 (1) Le contribuable qui n’a pas interjeté appel en application de l’article 169 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. La Cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+[…]
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[3] Le tableau ci‑dessous indique les années d’imposition pertinentes pour chaque demandeur, la date de l’avis de ratification applicable et la date à laquelle la demande de prorogation du délai dans lequel un appel pouvait être interjeté a été déposée :
+Demandeur
+Années d’imposition
+Date de l’avis de ratification
+Date du dépôt de la demande de prorogation de délai
+Nota
+Andrew Agawa
+2000 et 2001
+19 septembre 2006
+30 mai 2008
+(1)
+Pamela Johnston
+1999, 2000, 2001 et 2002
+24 juillet 2006
+29 février 2008
+(1)
+Pamela Johnston
+2004 et 2005
+24 mai 2007
+29 février 2008
+(2)
+Darlene McGregor
+1999, 2000, 2001, 2002 et 2003
+14 septembre 2006
+26 mai 2008
+(1) et (3)
+Cheryl Sutherland
+1995, 2000, 2001, 2002, 2003 et 2004
+31 mai 2006
+30 avril 2008
+(1) et (3)
+(1) La demande de prorogation du délai dans lequel l’appel pouvait être interjeté a été présentée après l’expiration du délai d’un an prévu à l’alinéa 167(5)a) de la LIR;
+(2) La demande de prorogation du délai dans lequel l’appel pouvait être interjeté a été présentée dans le délai d’un an prévu à l’alinéa 167(5)a) de la LIR. Dans son avis d’appel initial, Pamela Johnston a inclus un renvoi à l’année d’imposition 2003. Dans son avis d’appel modifié, l’année d’imposition 2003 n’est pas incluse. Il semble qu’à la date de l’audience, aucun avis de ratification se rapportant à l’avis d’opposition qui avait été déposé à l’égard de la nouvelle cotisation relative à l’année d’imposition 2003 n’avait été envoyé à Pamela Johnston. Par conséquent, il ne serait pas nécessaire de présenter une demande en vue de faire proroger le délai d’appel en ce qui concerne la nouvelle cotisation relative à l’année d’imposition 2003;
+(3) La demanderesse avait également déposé un avis d’appel dans les 90 jours qui ont suivi la date de l’avis de ratification, sans inclure le droit de dépôt (ou sans demander qu’il soit renoncé au droit de dépôt).
+[4] Comme il en a ci‑dessus été fait mention, la demande de prorogation du délai dans lequel un appel pouvait être interjeté a uniquement été présentée dans le délai prévu à l’alinéa 167(5)a) de la LIR pour l’un des demandeurs (Pamela Johnston) et uniquement à l’égard de l’avis de ratification se rapportant à la nouvelle cotisation relative aux années d’imposition 2004 et 2005 de cette demanderesse.
+Dépôts antérieurs
+[5] Deux des demandeurs, Darlene McGregor et Cheryl Sutherland, avaient déjà déposé un avis d’appel sous le régime de la procédure informelle dans les 90 jours qui ont suivi la date de leur avis de ratification. Toutefois, ni l’une ni l’autre de ces demanderesses n’avait inclus le droit de dépôt requis ou une demande de renonciation au droit de dépôt. Avant le 10 décembre 2008, l’article 18.15 de la Loi sur la Cour canadienne de l’impôt (la « LCCI ») prévoyait notamment ce qui suit :
+18.15 (1) Sous réserve de la loi habilitante, l’appel visé à l’article 18 est interjeté par écrit et contient l’exposé sommaire des faits et moyens; la présentation de la plaidoirie n’est assujettie à aucune condition de forme.
+[...]
+(3) Pour interjeter l’appel visé à l’article 18, il faut :
+a) d’une part, déposer au greffe de la Cour le document écrit mentionné au paragraphe (1);
+b) d’autre part, acquitter la somme de 100 $ comme droit de dépôt.
+[6] Le paragraphe 18.15(3) de la LCCI a été modifié par L.C. 2006 ch. 11, en vue de supprimer l’exigence concernant le paiement d’un droit de dépôt aux fins de l’introduction d’un appel sous le régime de la procédure informelle; toutefois, la modification est entrée en vigueur le 10 décembre 2008 seulement. Par conséquent, la modification de la LCCI par laquelle a été supprimée l’exigence concernant le paiement d’un droit de dépôt de 100 $ aux fins de l’introduction d’un appel a pris effet après que les avis d’appel de Darlene McGregor et de Cheryl Sutherland eurent été déposés, en 2006.
+[7] Ni Darlene McGregor ni Cheryl Sutherland n’ont versé le droit de dépôt de 100 $ avec les avis d’appel qu’elles ont déposés en 2006. De plus, ni l’une ni l’autre n’a demandé qu’il soit renoncé au droit de dépôt. Un certain nombre d’avis d’appel avaient été déposés à ce moment‑là, en 2006 et, le 6 décembre 2006, le juge en chef Bowman (tel était alors son titre) a rendu une ordonnance qui prévoyait notamment ce qui suit :
+[traduction]
+Les appelants qui ont reçu des avis de ratification dont la date était antérieure au 6 décembre 2006 et qui ont déposé des avis d’appel sont autorisés, jusqu’au 8 mars 2007, ou jusqu’à toute autre date que la Cour aura fixée sur présentation d’une demande, à payer le droit de dépôt ou à déposer auprès de la Cour canadienne de l’impôt une demande sous forme de lettre en vue de la renonciation au droit de dépôt. Dans les cas où des avis d’appel ont été envoyés à la Cour avant le 6 décembre 2006, lorsque ces avis ont été reçus plus de 90 jours après la mise à la poste de l’avis de ratification, ces avis d’appel sont réputés être des demandes de prorogation du délai dans lequel un avis d’appel peut être déposé et ces demandes sont réputées, sur consentement de l’avocat de l’intimée, ne pas avoir donné lieu à des oppositions; il y est donc fait droit.
+[8] Cette ordonnance a été modifiée le 16 mars 2007 par une ordonnance qui, a‑t‑il été déclaré, a été rendue à la place de l’ordonnance du 6 décembre 2006. Cette ordonnance prévoyait notamment ce qui suit :
+[traduction]
+Les appelants qui ont reçu des avis de ratification dont la date était antérieure au 6 décembre 2006 et qui ont déposé des avis d’appel sont autorisés, jusqu’au 8 mai 2007, ou jusqu’à toute autre date que la Cour aura fixée sur présentation d’une demande, à payer le droit de dépôt ou à déposer auprès de la Cour canadienne de l’impôt une demande sous forme de lettre en vue de la renonciation au droit de dépôt. Dans les cas où des avis d’appel ont été envoyés à la Cour avant le 8 mai 2007, lorsque ces avis ont été reçus plus de 90 jours après la mise à la poste de l’avis de ratification, ces avis d’appel sont réputés être des demandes de prorogation du délai dans lequel un avis d’appel peut être déposé et ces demandes sont réputées, sur consentement de l’avocat de l’intimée, ne pas avoir donné lieu à des oppositions; il y est donc fait droit, à condition que la présumée demande soit reçue dans l’année qui suit l’expiration du délai fixé à l’article 169 de la Loi de l’impôt sur le revenu aux fins de l’introduction d’un appel.
+[9] Une ordonnance datée du 18 mai 2007 a été rendue à la place de l’ordonnance modifiée du 16 mars 2007; cette ordonnance prévoyait notamment ce qui suit :
+[traduction]
+Les appelants qui ont reçu des avis de ratification dont la date était antérieure au 6 décembre 2006 et qui ont déposé des avis d’appel sont autorisés, jusqu’au 2 août 2007, ou jusqu’à toute autre date que la Cour aura fixée sur présentation d’une demande, à payer le droit de dépôt ou à déposer auprès de la Cour canadienne de l’impôt une demande sous forme de lettre en vue de la renonciation au droit de dépôt. Dans les cas où des avis d’appel ont été envoyés à la Cour avant le 2 août 2007, lorsque ces avis ont été reçus plus de 90 jours après la mise à la poste de l’avis de ratification, ces avis d’appel sont réputés être des demandes de prorogation du délai dans lequel un avis d’appel peut être déposé et ces demandes sont réputées, sur consentement de l’avocat de l’intimée, ne pas avoir donné lieu à des oppositions; il y est donc fait droit, à condition que la présumée demande soit reçue dans l’année qui suit l’expiration du délai fixé à l’article 169 de la Loi de l’impôt sur le revenu aux fins de l’introduction d’un appel.
+[10] Étant donné que l’ordonnance du 18 mai 2007 disait qu’elle était rendue à la place de l’ordonnance antérieure, la mention : [traduction] « Les appelants [...] qui ont déposé des avis d’appel » se rapporterait aux appelants qui avaient déposé des avis d’appel au plus tard le 18 mai 2007. L’avocat des demandeurs a confirmé que, selon ce qu’il croyait comprendre, cette mention : [traduction] « Les appelants [...] qui ont déposé des avis d’appel », dans l’ordonnance du 18 mai 2007, se rapportait aux appelants qui avaient déposé des avis d’appel au plus tard le 18 mai 2007. Cela s’appliquerait à Darlene McGregor et à Cheryl Sutherland. Darlene McGregor avait déposé son avis d’appel, sans le droit de dépôt, le 13 décembre 2006 et Cheryl Sutherland avait déposé son avis d’appel, sans le droit de dépôt, le 24 août 2006.
+[11] À la dernière date limite du 2 août 2007, ni l’une ni l’autre de ces demanderesses n’avait payé le droit de dépôt ou n’avait demandé une renonciation au droit de dépôt. Par conséquent, ni l’une ni l’autre de ces demanderesses n’avait interjeté appel auprès de la Cour étant donné qu’à ce moment‑là, la LCCI prévoyait qu’un appel pouvait uniquement être interjeté si l’avis d’appel et le droit de dépôt étaient soumis. L’avocat des demanderesses n’a pas soutenu que l’une ou l’autre de ces demanderesses avait interjeté appel en 2006 ou en 2007.
+[12] En 2008, ces deux demanderesses ont présenté une demande de prorogation du délai dans lequel un appel pouvait être interjeté pour les mêmes années d’imposition que celles qui étaient visées par les avis d’appel antérieurs qui avaient été déposés. La demande de Cheryl Sutherland a été présentée le 30 avril 2008 et la demande d’Arlene McGregor a été présentée le 26 mai 2008. Ce sont ces demandes qui font l’objet de la présente audience.
+Les arguments des demandeurs
+[13] L’avocat des demandeurs a soulevé deux arguments dans le cadre des demandes. Le premier argument s’applique uniquement à Pamela Johnston et uniquement aux années d’imposition 2004 et 2005. Pour ces années d’imposition, la demande que Pamela Johnston a présentée en vue de faire proroger le délai dans lequel un appel pouvait être interjeté a été déposée dans le délai prévu à l’alinéa 167(5)a) de la LIR. La question qui se pose dans cette demande est de savoir s’il est satisfait aux exigences de l’alinéa 167(5)b) de la LIR. Le second argument soulevé par l’avocat des demandeurs était que, par suite des dispositions de la Loi sur les Indiens (qui prévoient une exemption d’impôt indépendamment des dispositions de toute autre loi), les délais d’appel devant la présente cour fixés dans la LIR ne s’appliquent pas à quelqu’un qui demande une exemption d’impôt conformément à l’article 87 de la Loi sur les Indiens.
+Pamela Johnston – années 2004 et 2005
+[14] Pamela Johnston a témoigné à l’audience. Elle est Indienne au sens de l’article 2 de la Loi sur les indiens. Elle a gagné le revenu en question pendant qu’elle était une employée de Native Leasing Services. Elle avait fourni des services à Anishnawbe Health Toronto, à Toronto, au cours des années ici en cause.
+[15] Dans l’arrêt Dewey c. La Reine, 2004 CAF 82, 2004 DTC 6159, [2004] 2 C.T.C. 311, la juge Sharlow, de la Cour d’appel fédérale, a dit ce qui suit :
+3 L’article 167 de la Loi de l’impôt sur le revenu permet à la Cour canadienne de l’impôt de proroger le délai pour introduire un appel devant la Cour canadienne de l’impôt, s’il est satisfait à un certain nombre de conditions. Le défaut de satisfaire à l’une ou l’autre des conditions porte un coup fatal à la demande.
+[16] Pour que Pamela Johnston ait gain de cause dans la demande qu’elle a présentée en vue de faire proroger le délai dans lequel l’appel concernant la nouvelle cotisation relative à ses années d’imposition 2004 et 2005 peut être interjeté, toutes les conditions énoncées au paragraphe 167(5) de la LIR doivent être réunies. En l’espèce, la question en litige se rapporte à l’exigence énoncée au sous‑alinéa 167(5)b)(iv) de la LIR, qui prévoit ce qui suit :
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+[…]
+b) le contribuable démontre ce qui suit :
+[…]
+(iv) l’appel est raisonnablement fondé.
+[17] L’avocat de l’intimée a déclaré qu’il ne soumettait aucun argument au sujet de l’exigence voulant que Pamela Johnston démontre que l’appel est raisonnablement fondé et il n’a pas posé de questions au sujet de cette exigence à Pamela Johnston ou à Meredith Rose, qui était l’avocate interne d’O.I. Employee Leasing Inc. et qui a témoigné à l’audience. De plus, aucun argument se rapportant à cette exigence n’a été avancé dans la réponse à une demande de prorogation de délai qui avait été déposée par l’intimée dans le cadre de la demande de prorogation de délai de Pamela Johnston.
+[18] Si l’intimée n’a pas présenté d’arguments au sujet de cette exigence, il me semble que cela veut dire qu’elle n’invoquait pas cette exigence à l’encontre de la demanderesse. Si l’intimée n’invoque pas cette exigence ou l’une ou l’autre des autres exigences énoncées à l’alinéa 167(5)b) de la LIR, il s’agit de savoir si la demanderesse est libérée de l’obligation de démontrer qu’il y a été satisfait.
+[19] Dans l’ouvrage intitulé Craies on Legislation, 9e édition, il est dit ce qui suit à la page 516 :
+[traduction]
+12.5.1 Tous ceux et celles qui doivent s’acquitter d’une obligation légale sont tenus de s’y conformer.
+[20] Il me semble que le sous‑alinéa 167(5)b)(iv) de la LIR impose une obligation légale claire à tout demandeur qui cherche à obtenir une ordonnance prorogeant le délai dans lequel l’appel peut être interjeté.
+[21] Le fait que l’intimée n’a pas soumis d’arguments sur ce point pourrait être interprété comme voulant dire qu’elle a renoncé aux obligations de la demanderesse à cet égard. L’intimée peut‑elle renoncer à cette exigence?
+[22] Dans l’ouvrage intitulé : « L’interprétation des lois », de Pierre‑André Côté, 2e édition, il est déclaré ce qui suit à la page 207 :
+Il est, en principe, permis à quiconque de renoncer à un droit édicté en sa faveur : quilibet licet renuntiare juri pro se introducto. Ce principe général ne s’applique que si la loi a été édictée dans le seul intérêt d’un particulier ou d’une catégorie de particuliers : comme on verra plus loin, il ne saurait permettre de déroger à une loi qui a été adoptée entièrement ou partiellement dans l’intérêt public.
+[23] Dans l’ouvrage intitulé Craies on Legislation, 9e édition, il est déclaré ce qui suit à la page 510 :
+[traduction]
+Malgré le principe selon lequel les tribunaux n’interviendront pas en vue de libérer une personne de l’effet de la loi, il existe un ancien précédent à l’appui de la thèse selon laquelle les gens peuvent, par contrat ou de gré à gré, s’engager à ne pas se fonder sur la préclusion à l’égard des droits reconnus par la loi, à y renoncer ou à ne pas l’invoquer, sauf disposition contraire expresse de la loi en cause. Comme le lord juge Goddard l’a dit dans l’arrêt Bowmaker v. Tabor :
+[...] qu’il y ait exclusion contractuelle ou renonciation, les mêmes principes s’appliquent. La maxime qui sanctionne l’inobservation d’une disposition législative est la maxime cuilibet licet renuntiare juri pro se introducto. Toute personne peut renoncer à se prévaloir d’une loi qui est édictée uniquement à son profit ou en vue de la protéger en tant que personne privée, mais il ne peut pas en être ainsi si la renonciation viole un droit public ou l’intérêt public : voir MacAllister v. Bishop of Rochester [...]
+[24] Dans la note de bas de page 58 figurant à la page 510 de cet ouvrage, il est également dit ce qui suit :
+[traduction]
+[...] Mais il importe de noter qu’il peut y avoir des droits auxquels il est impossible de renoncer, et ce, dans l’intérêt public, et qu’il se peut qu’une partie ne puisse pas renoncer à un droit qui établit une règle de procédure ou de compétence : voir les diverses considérations examinées dans Kimmins Ballroom Co. Ltd. v. Zenith Investments (Torquay) Ltd. [1971] A.C. 850, C.L. et dans Equitable Life assurance Society of the United States v. Reed [1914] A.C. 587, C.P.
+[25] Dans l’arrêt Nova Scotia (Director of Assessment) v. Warren, 1999 NSCA 135, 180 N.S.R. (2d) 327, la Cour d’appel de la Nouvelle‑Écosse a dit ce qui suit :
+[traduction]
+7 Nous sommes tous d’avis que le présent appel doit être rejeté parce que, même si le paragraphe 86(1) de l’Assessment Act n’a pas été observé pour ce qui est de la signification à la municipalité, cette partie a expressément renoncé au droit à l’avis exigé par la loi. Dans l’arrêt Canadian Acceptance Corporation Limited v. Fisher (1958), 14 D.L.R. (2d) 225 (C.S.C.), le juge Rand a reconnu qu’une partie peut renoncer à une exigence législative prévoyant qu’un avis doit être donné.
+8 Le principe de la renonciation à une exigence législative a été appliqué par la Cour divisionnaire de la Haute Cour de justice de l’Ontario dans la décision In Re N.H.D. Developments Limited and Regional Assessment Commissioner, Region No. 11 et al. (1980) 118 D.L.R. (3d) 365, 30 O.R. (2d) 689. Dans cette affaire‑là, la Commission des affaires municipales de l’Ontario a conclu qu’elle n’avait pas compétence pour entendre un appel d’une évaluation parce que le contribuable n’avait pas observé l’exigence concernant la signification énoncée au paragraphe 63(6) de l’Assessment Act, R.S.O. 1970, ch. 32, et ce, même si la partie qui n’avait pas reçu signification de façon régulière avait renoncé à l’exigence concernant la signification.
+9 Le paragraphe 63(3) de l’Assessment Act, R.S.O. 1970, ch. 32, comme l’article 85 de l’Assessment Act susmentionné, prévoyait un droit d’appel devant la Commission des affaires municipales de l’Ontario. Le paragraphe 63(6) de l’Assessment Act, R.S.O. 1970, ch. 32, comme le paragraphe 86(1) de l’Assessment Act susmentionné, énonce les exigences qui s’appliquent à la signification de l’avis d’appel.
+10 En accueillant l’appel de la décision rendue par la Commission, le juge Southey a dit ce qui suit :
+Avec égards, même si le commissaire a reconnu qu’il s’agissait d’un problème épineux, nous sommes tous d’avis que les exigences concernant la signification énoncées au paragraphe 63(6) n’influent pas sur la compétence de la Commission lorsqu’il s’agit d’entendre un appel de la Commission de révision de l’évaluation foncière. En l’espèce, la compétence y afférente découle avant tout du paragraphe 63(3).
+Étant donné qu’il ne s’agit pas d’une question de compétence, nous ne doutons aucunement que la partie au profit de laquelle les dispositions relatives à la signification énoncées au paragraphe 63(6) ont été édictées peut renoncer à l’observation de ces dispositions. En cas de renonciation, l’omission de se conformer aux dispositions relatives à la signification n’empêchent pas la Commission d’entendre l’appel.
+[Non souligné dans l’original.]
+[26] À mon avis, l’exigence législative voulant que le demandeur démontre que l’appel est raisonnablement fondé est une condition qu’il faut remplir pour que la Cour ait compétence en vue de rendre l’ordonnance prorogeant le délai dans lequel un appel peut être interjeté et il ne s’agit pas d’une exigence à laquelle l’intimée peut renoncer. Il ne s’agit pas d’une exigence qui est imposée uniquement au profit de l’intimée. L’exigence voulant que le demandeur démontre que l’appel est raisonnablement fondé est une condition à remplir pour que la Cour rende l’ordonnance demandée.
+[27] Dans la décision Newmont Canada Ltd. v. The Queen, [2005] 2 C.T.C. 2792, 2005 DTC 617 (confirmée en appel [2006] 2 C.T.C. 148, 2006 DTC 6029), la juge Sheridan a dit ce qui suit :
+22 [...] Les règles de droit empêchent clairement les parties d’élargir la compétence de la Cour par consentement. [...]
+[28] Étant donné que la compétence de la Cour d’accorder l’ordonnance de prorogation du délai dans lequel un appel peut être interjeté est limitée au paragraphe 167(5) de la LIR, cette compétence ne peut pas être élargie sur consentement des parties et, par conséquent, pour avoir gain de cause dans sa demande, Pamela Johnston doit démontrer que l’appel est raisonnablement fondé.
+[29] Meredith Rose avait pris un congé de maternité lors de l’audience. Elle a témoigné à l’audience et elle a décrit l’O.I. Group comme suit :
+[traduction]
+Q. Pourriez-vous nous donner un bref aperçu de ce en quoi consistent en gros les activités de l’O.I. Group?
+R. Comme vous l’avez déjà mentionné, il s’occupe principalement du louage de services d’employés. Les deux principales composantes de l’O.I. Group sont l’O.I. Employee Leasing et Native Leasing Services, qui louent les services de leurs employés à des organisations ou à des entreprises qui ont besoin de ces services.
+Q. Vous avez parlé de deux composantes. Pouvez-vous nous dire quelles sont ces composantes et comment elles sont structurées, simplement pour que la chose soit consignée en preuve?
+R. La composante principale, et je crois qu’il s’agit ici de la seule composante, est Native Leasing Services. Il s’agit d’une entreprise à propriétaire unique appartenant à Roger Obonsawin. Ses bureaux principaux sont situés dans la réserve des Six nations, à Brantford. L’autre entreprise de louage de services d’employés est O.I. Employee Leasing, qui est une société.
+Q. Pour plus de clarté, la distinction que vous faisiez, si je comprends bien, au début de cette réponse était que la seule composante ici en cause est Native Leasing Services. Qu’entendez‑vous par là?
+R. Je crois que tous les appelants, dans ce cas‑ci, sont des employés de Native Leasing Services.
+Q. Étant donné que vous avez décrit l’une des composantes comme étant exploitée dans le cadre d’une entreprise à propriétaire unique, alors que l’autre est exploitée en tant que société, exercent‑elles les mêmes activités?
+R. Oui.
+[30] Pamela Johnston a identifié son employeur comme étant O.I. Leasing, mais dans son avis d’appel et dans son avis d’appel modifié (qui a été déposé au cours de l’audience), l’employeur est identifié comme étant Native Leasing Services. L’avocat des demandeurs (qui agissait à titre de représentant de Meredith Rose, étant donné que cette dernière avait pris un congé de maternité), a confirmé, au début de l’audience, que tous les demandeurs étaient des employés de Native Leasing Services. Étant donné que l’avocat des demandeurs agissait à titre de représentant de l’avocate interne d’O.I. Employee Leasing Inc. et puisqu’il existe de toute évidence un lien très étroit entre O.I. Employee Leasing Inc. et Native Leasing Services (la distinction n’étant probablement pas aussi importante pour Pamela Johnston qu’elle ne l’était pour Meredith Rose ou pour l’avocat des demandeurs), je reconnais que l’employeur de Pamela Johnston était Native Leasing Services.
+[31] Meredith Rose a confirmé ne pas connaître les détails ou les faits précis se rapportant à l’appel de chaque particulier étant donné que plus de mille appels ont été interjetés. Mme Rose a préparé les avis d’appel (et notamment l’avis d’appel de Pamela Johnston). Les avis d’appel étaient les mêmes pour chaque demandeur, sauf que les noms et les adresses ont été changés, de façon à indiquer le nom et l’adresse de chaque demandeur particulier. Meredith Rose a indiqué qu’habituellement, elle modifiait les avis d’appel avant l’audience en vue d’indiquer les faits particuliers qui s’appliquaient aux appelants individuels.
+[32] Le paragraphe suivant a été inséré dans l’avis d’appel initial de Pamela Johnston :
+[traduction]
+11. La Cour d’appel fédérale est actuellement saisie des questions soulevées dans le présent appel dans les causes types Horn c. Sa Majesté la Reine [la Reine] et Williams c. La Reine.
+[33] Le juge Phelan, de la Cour fédérale, avait conclu que le revenu de Margaret Horn et le revenu de Sandra Williams n’étaient pas exemptés d’impôt en vertu de l’article 87 de la Loi sur les Indiens, [2008] 1 C.T.C. 140, 2007 DTC 5589. La Cour d’appel fédérale a maintenant rendu sa décision dans ces affaires. Les deux appels ont été rejetés (2008 CAF 352, 2008 DTC 6743). La demande d’autorisation de pourvoi devant la Cour suprême du Canada a été rejetée ([2009] C.S.C.R. no 8).
+[34] À l’audience, un avis d’appel modifié a été déposé pour le compte de Pamela Johnston. Pamela Johnston a également témoigné au cours de l’audience. Compte tenu des faits allégués dans l’avis d’appel modifié et dans son témoignage, elle est Indienne (selon la définition figurant à l’article 2 de la Loi sur les Indiens); en 2004 et en 2005 (soit les deux seules années qui sont ici pertinentes), elle vivait à Toronto; elle était une employée de Native Leasing Services et elle travaillait à Anishnawbe Health Toronto, dans le centre‑ville de Toronto. L’avis d’appel modifié renferme en outre une description de Native Leasing Services et d’Anishnawbe Health Toronto.
+[35] Dans l’arrêt Williams c. La Reine, [1992] 1 R.C.S. 877, le juge Gonthier a décrit le critère des facteurs de rattachement qu’il faut utiliser pour établir si un bien meuble est un bien meuble situé sur une réserve :
+37 La méthode qui tient le mieux compte de ces préoccupations est celle qui analyse la situation sous le rapport des catégories de biens et des types d’imposition. Par exemple, la pertinence des facteurs de rattachement peut varier selon qu’il s’agit de prestations d’assurance‑chômage, de revenu d’emploi ou de prestations de pension. Il faut d’abord identifier les divers facteurs de rattachement qui peuvent être pertinents. On doit ensuite analyser ces facteurs pour déterminer le poids à leur accorder afin d’identifier l’emplacement du bien, en tenant compte de trois choses : (1) l’objet de l’exemption prévue dans la Loi sur les Indiens, (2) le genre de bien en cause et (3) la nature de l’imposition de ce bien. Il s’agit donc de déterminer, relativement à chaque facteur de rattachement, le poids qui devrait lui être accordé pour décider si l’imposition en cause de ce type de bien représenterait une atteinte aux droits de l’Indien à titre d’Indien sur une réserve.
+[36] La question qui se pose en l’espèce est de savoir si Pamela Johnston a identifié certains facteurs de rattachement ou des facteurs de rattachement possibles qui n’ont pas déjà été examinés dans d’autres décisions. Les deux affaires désignées comme étant des causes types (Horn et Williams) ont été rejetées par la Cour fédérale, par la Cour d’appel fédérale et par la Cour suprême du Canada (en ce qui concerne la demande d’autorisation); de plus, l’arrêt The Queen v. Shilling, 2001 DTC 5420 (C.A.F.) en particulier suscite des questions. L’autorisation de se pourvoir en appel de cette décision devant la Cour suprême du Canada a été refusée ([2001] C.S.C.R. no 434). Dans cette affaire, la Cour d’appel fédérale a conclu que le revenu du particulier n’était pas exempté d’impôt conformément à l’article 87 de la Loi sur les Indiens. Mme Shilling vivait à Toronto; elle était une employée de Native Leasing Services et elle fournissait des services à Anishnawbe Health Toronto, soit l’organisation même à laquelle Pamela Johnston fournissait des services.
+[37] Les facteurs de rattachement mentionnés dans l’avis d’appel modifié de Pamela Johnston sont les suivants :
+• Les bureaux de son employeur étaient situés sur une réserve;
+• Au cours des années visées par l’appel, Native Leasing Services conférait des avantages réels tangibles aux membres de la réserve sur laquelle ses bureaux étaient situés;
+• Native Leasing Services cherche à promouvoir la cause et le bien‑être social des membres des Premières nations, dans les réserves et ailleurs;
+• Anishnawbe Health, l’organisation à laquelle l’appelante fournissait des services, servait principalement des membres des Premières nations, et elle cherchait à améliorer la santé et le bien‑être des membres des Premières nations;
+• Anishnawbe Health utilisait un modèle de prestation de soins de santé qui était conforme aux idées et au bien‑être traditionnels des Premières nations, dans un contexte multidisciplinaire moderne;
+• L’appelante avait décidé, sciemment et d’une façon délibérée, de travailler pour un employeur autochtone situé sur une réserve et de fournir des services à une organisation à but non lucratif servant les intérêts des membres des Premières nations.
+[38] L’employeur de Pamela Johnston (Native Leasing Services) et l’organisation à laquelle les services étaient fournis (Anishnawbe Health Toronto) étaient les mêmes que dans l’affaire Shilling. Dans l’affaire Shilling, il y avait également le fait additionnel que Mme Shilling fournissait certains de ses services dans une réserve. Or, rien n’indique en l’espèce que Pamela Johnston fournissait des services dans une réserve.
+[39] Dans l’arrêt Shilling, la Cour d’appel fédérale a fait les remarques suivantes au sujet de M. Obonsawin et de ses entreprises :
+[36] L’exposé conjoint des faits et la transcription de l’interrogatoire préalable de Mme Shilling ne renferment aucun détail qui puisse accroître l’importance de ce facteur. Le bureau principal de NLS se trouve dans une réserve et NLS a des comptes bancaires dans une autre réserve, mais rien n’indique quelles activités, le cas échéant, de l’entreprise de NLS sont exercées depuis le bureau principal, si des résidents de la réserve sont employés à cet endroit ou de quelle façon la réserve bénéficie du contrat de travail de Mme Shilling.
+[37] Le dossier est en outre fort peu détaillé et imprécis en ce qui concerne M. Obonsawin et ses entreprises. Ainsi, l’exposé conjoint des faits ne fait pas mention du lieu de résidence de l’unique propriétaire de NLS, M. Obonsawin. Cependant, il fait mention d’ « OI » , ce qui est apparemment l’appellation générale de diverses entreprises de M. Obonsawin, dont NLS. Toutefois, le dossier ne révèle pas où OI exploite son entreprise. Étant donné que l’exposé conjoint des faits dit que Mme Shilling est une employée de NLS et qu’elle a décidé de devenir une employée d’OI, et puisque NLS est une entreprise à propriétaire unique, nous avons supposé, aux fins du présent appel, qu’OI et NLS constituent sur le plan juridique une seule entité.
+[38] Le seul élément de preuve se rapportant aux activités de NLS montre qu’au cours de chaque période de paie, NLS effectue les travaux d’écritures relatifs au salaire de chaque employé et aux retenues y afférentes et fournit ces renseignements au service de la paie de la CIBC. Lorsque la CIBC produit un registre de paie, NLS l’approuve. La CIBC retire ensuite des fonds du compte de NLS et dépose directement dans le compte de chaque employé individuel le montant qui est dû à celui-ci au titre du salaire.
+[39] Même si NLS a bénéficié du travail de l’intimée, il n’y a rien dans le dossier qui permette d’inférer que la réserve des Six nations ait de quelque façon bénéficié de l’emploi que l’intimée exerçait auprès de NLS. Il n’existe tout simplement pas la moindre preuve à ce sujet.
+[40] Après qu’une décision eut été rendue dans l’affaire Shilling, la Cour fédérale a encore une fois été saisie de certaines affaires, soit les affaires Horn et Williams, dans lesquelles Native Leasing Services était en cause. Il y a en outre les décisions subséquemment rendues par la Cour dans les affaires Roe v. The Queen, 2009 DTC 1020 and Googoo v. The Queen, 2009 DTC 1061, dans lesquelles les particuliers en cause étaient également des employés de Native Leasing Services. Rien n’indique comment les faits se rapportant à Native Leasing Services, pour ce qui est de l’appel de Pamela Johnston, seraient différents de ceux qui se rapportaient à Native Leasing Services, tels qu’ils ont été constatés dans ces affaires. Les particuliers en cause n’ont pas réussi à établir que leur revenu était exonéré d’impôt. Dans l’affaire Roe, il y avait neuf appelants différents dont les appels avaient été entendus ensemble et dans l’affaire Googoo, il y avait sept appelants différents dont les appels avaient été entendus ensemble.
+[41] Dans l’arrêt Shilling, la Cour d’appel fédérale a fait les remarques suivantes en ce qui concerne Anishnawbe Health Toronto :
+[51] AHT semble être une organisation de services sociaux qui s’occupe de soins de santé préventifs et fournit de l’aide, à Toronto, aux Autochtones qui ne sont pas dans une réserve. AHT et sa clientèle hors réserve tirent bénéfice du travail de l’intimée, contrairement à ce qui se produisait dans l’affaire Folster, où les patients de l’hôpital habitaient presque tous dans la réserve. Comme le juge de première instance l’a conclu, l’emploi n’est pas rattaché à une réserve indienne au sens physique du terme du simple fait que la nature de l’emploi consiste à fournir des services à des Indiens.
+[52] En concluant que la nature des tâches de l’intimée ne constitue pas un facteur de rattachement avec une réserve, nous n’omettons pas de tenir compte du fait que les services fournis sont des services sociaux à l’intention des Autochtones, par opposition à un emploi exercé dans le cadre de l’exploitation d’une entreprise à but lucratif. Toutefois, il existe dans les villes canadiennes un grand nombre d’organisations à but non lucratif offrant des services sociaux. Les employés de pareilles organisations ne sont pas exemptés de l’impôt sur le revenu. Compte tenu du but restreint de l’alinéa 87(1)b) de la Loi sur les Indiens, le fait que l’emploi en question se rapporte à la prestation de services sociaux à des Autochtones en dehors d’une réserve ne confère pas pour autant un traitement fiscal privilégié en vertu de cette disposition.
+[42] Par AHT, on entend Anishnawbe Health Toronto.
+[43] Quant au dernier facteur de rattachement qui a été identifié, Pamela Johnston a témoigné ce qui suit au sujet de son placement auprès d’Anishnawbe Health Toronto :
+[traduction]
+Q. Lorsque je vous ai demandé où vous travailliez, vous avez répondu que vous étiez placée. Qu’entendez‑vous par là?
+R. J’étudiais au collège, à Brantford, et je vivais dans la réserve des Six nations avec ma mère. Lorsque j’ai obtenu mon diplôme, je cherchais un emploi. O.I. Leasing publie un bulletin d’information sur les possibilités d’emploi, indiquant diverses agences sous l’égide d’O.I. qui acceptent des offres d’emploi.
+J’ai présenté une demande auprès d’O.I., qui a fait parvenir mon curriculum vitae à Anishnawbe Health.
+[44] Il me semble que, comme un grand nombre d’autres titulaires de diplômes collégiaux, Pamela Johnston cherchait simplement un emploi. Quoi qu’il en soit, il est loin d’être clair que son revenu est un bien meuble d’un Indien situé sur une réserve du simple fait qu’elle a [traduction] « décidé, sciemment et d’une façon délibérée », de travailler pour Native Leasing Services et pour Anishnawbe Health Toronto, plutôt que d’accepter l’emploi parce qu’elle était sans emploi et qu’elle avait besoin de travailler.
+[45] Par conséquent, à mon avis, Pamela Johnston n’a pas réussi à démontrer que l’appel était raisonnablement fondé en ce qui concerne la nouvelle cotisation établie à l’égard de ses années d’imposition 2004 et 2005.
+Tous les demandeurs
+[46] En ce qui concerne la demande de prorogation du délai dans lequel Pamela Johnston peut interjeter appel de la nouvelle cotisation concernant ses années d’imposition 1999, 2000, 2001 et 2002 ainsi que les demandes des trois autres particuliers, l’avocat des demandeurs invoque le paragraphe 87(1) de la Loi sur les Indiens. Les paragraphes (1) et (2) sont ainsi libellés :
+87. (1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l’article 83 et de l’article 5 de la Loi sur la gestion financière et statistique des premières nations, les biens suivants sont exemptés de taxation :
+a) le droit d’un Indien ou d’une bande sur une réserve ou des terres cédées;
+b) les biens meubles d’un Indien ou d’une bande situés sur une réserve.
+(2) Nul Indien ou bande n’est assujetti à une taxation concernant la propriété, l’occupation, la possession ou l’usage d’un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l’un de ces biens.
+[47] L’avocat des demandeurs fait valoir qu’étant donné que le paragraphe 87(1) de la Loi sur les Indiens prévoit que « [n]onobstant toute autre loi fédérale [...] les biens meubles d’un Indien [...] situés sur une réserve » sont exemptés de taxation, les demandeurs, s’ils ne sont pas autorisés à poursuivre leurs appels auprès de la Cour, se verront refuser l’exemption qui leur est accordée à l’article 87 de la Loi sur les Indiens[1]. Selon l’argument de l’avocat, étant donné que l’article 87 de la Loi sur les Indiens prévoit expressément qu’il s’applique malgré toute autre loi, les délais de prescription prévus par la LIR pour les appels (les droits d’appel devant s’éteindre si ces délais ne sont pas observés) ne s’appliquent pas aux particuliers qui demandent une exemption en vertu de la Loi sur les Indiens.
+[48] Il me semble que les arguments des demandeurs seraient plus convaincants si la Cour était la seule à laquelle ceux‑ci peuvent s’adresser en vue de faire valoir leur demande d’exemption en vertu de l’article 87 de la Loi sur les Indiens.
+[49] La Cour a clairement compétence pour entendre les appels de cotisations ou de nouvelles cotisations en vertu de la LIR, à la suite de la signification de l’avis d’opposition, si un appelant respecte les délais fixés aux fins de l’introduction d’un appel devant la Cour[2].
+[50] L’alinéa 81(1)a) de la LIR prévoit ce qui suit :
+81. (1) Ne sont pas inclus dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) une somme exonérée de l’impôt sur le revenu par toute autre loi fédérale, autre qu’un montant reçu ou à recevoir par un particulier qui est exonéré en vertu d’une disposition d’une convention ou d’un accord fiscal conclu avec un autre pays et qui a force de loi au Canada;
+[51] Par conséquent, si une personne qui a fait l’objet d’une cotisation d’impôt affirme que son revenu est exempté d’impôt par suite des dispositions de l’article 87 de la Loi sur les Indiens, la Cour a compétence pour entendre son appel. Il s’agirait de savoir si le revenu aurait dû être exclu du revenu (tel qu’il est déterminé pour l’application de la LIR) par suite de l’application de l’alinéa 81(1)a) de la LIR et de l’article 87 de la Loi sur les Indiens, même si la Loi sur les Indiens n’est pas l’une des lois énumérées à l’article 12 de la LCCI.
+[52] Toutefois, il semblerait également que la Cour fédérale a compétence pour entendre des demandes se rapportant à la question de savoir si l’exemption prévue à l’article 87 de la Loi sur les Indiens s’applique dans un cas particulier. Les décisions ci‑après mentionnées se rapportaient à des employés de Native Leasing Services et à la question de savoir si le revenu était exempté d’impôt par suite des dispositions de l’article 87 de la Loi sur les Indiens :
+Rachel Shilling c. La Reine – entendue par la Section de première instance de la Cour fédérale en 1999 ([1999] 4 C.F. 178). Rachel Shilling avait fait l’objet d’une cotisation d’impôt compte tenu du fait qu’elle était admissible à l’exemption prévue à l’article 87 de la Loi sur les Indiens (paragraphe 24). L’affaire a été entendue par la Cour fédérale dans le cadre de la détermination d’une question de droit en vertu de l’article 220 des Règles de la Cour fédérale (1998) (paragraphe 2);
+Margaret Horn c. la Reine, entendue par la Cour fédérale en 2006 avec l’affaire Sandra Williams v. The Queen, [2008] 1 C.T.C. 140, 2007 DTC 5589. Le juge Phelan a dit que l’Agence du revenu du Canada avait établi une cotisation à l’égard des deux particuliers compte tenu du fait que leur revenu n’était pas exempté d’impôt (paragraphe 4). Au paragraphe 5, le juge Phelan a indiqué que « [l]es demanderesses souhaitent obtenir un jugement déclaratoire suivant lequel le revenu d’emploi est visé par l’exonération d’impôt prévue à l’article 87 de la Loi sur les Indiens ».
+[53] Par conséquent, il semble que si l’affaire est présentée « sous forme de question de droit, en vertu [...] des Règles de la Cour fédérale » ou d’« un jugement déclaratoire suivant lequel le revenu d’emploi est visé par l’exonération d’impôt prévue à l’article 87 de la Loi sur les Indiens », la Cour fédérale a compétence pour décider si l’exemption prévue à l’article 87 de la Loi sur les Indiens a été refusée.
+[54] Dans l’arrêt La Reine c. Addison & Leyen Ltd., [2007] 2 R.C.S. 793, la Cour suprême du Canada a accueilli un appel d’une décision dans laquelle la Cour d’appel fédérale avait conclu que la Cour fédérale avait compétence pour procéder au contrôle judiciaire de l’exercice par le ministre de son pouvoir discrétionnaire en vue d’établir une cotisation à l’égard d’un contribuable en vertu de l’article 160 de la LIR. La Cour suprême du Canada a dit ce qui suit :
+7
+Dans le présent pourvoi, la Cour doit décider s’il est possible de se prévaloir du recours en contrôle judiciaire prévu à l’art. 18.5 de la Loi sur les Cours fédérales, L.R.C. 1985, ch. F‑7, pour contester l’exercice du pouvoir discrétionnaire d’établir des cotisations conféré au ministre par l’art. 160 LIR. C’est une question qui dépend, en fin de compte, de l’interprétation de l’art. 160.
+8
+Nul besoin de s’engager dans une longue discussion théorique sur la question de la possibilité de se prévaloir de l’art. 18.5 pour faire contrôler l’exercice de pouvoirs ministériels discrétionnaires. Personne ne conteste que le ministre fasse partie de la catégorie de personnes et d’entités visée par l’exercice de la compétence de la Cour fédérale prévue à l’art. 18.5. Le recours au contrôle judiciaire demeure possible dans la mesure où la question n’est pas autrement susceptible d’appel. Il reste également possible en cas d’abus de pouvoir, notamment de délais abusifs. On peut élaborer des réparations adaptées aux faits pour corriger les injustices ou problèmes soulevés dans une affaire donnée.
+[…]
+11
+Dans de telles circonstances, les tribunaux de révision ne doivent ouvrir la voie aux recours en contrôle judiciaire qu’avec beaucoup de circonspection. Il y a lieu de protéger l’intégrité et l’efficacité du système de cotisation et d’appel en matière fiscale. Le Parlement a édifié une structure complexe pour assurer le traitement d’une multitude de revendications se rapportant au fisc, et cette structure s’appuie sur un tribunal spécialisé et indépendant, la Cour canadienne de l’impôt. On ne saurait permettre que le contrôle judiciaire serve à créer une nouvelle forme de procédure connexe destinée à contourner le système d’appel établi par le Parlement en matière fiscale ainsi que la compétence de la Cour de l’impôt. Dans ce contexte, le contrôle judiciaire devrait demeurer un recours de dernier ressort.
+[55] Selon moi, la Cour suprême du Canada n’a pas exclu le contrôle judiciaire par la Cour fédérale d’une décision d’établir une cotisation (ou une nouvelle cotisation) conformément au paragraphe 152(4) de la LIR (qui dit également que « [l]e ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire »)[3], mais elle l’a plutôt limité à un recours en dernier ressort.
+[56] Il me semble donc que, même si la Cour a compétence exclusive lorsqu’il s’agit d’entendre des appels de cotisations (ou de nouvelles cotisations) établies en vertu de la LIR, il semblerait que la Cour fédérale a compétence en ce qui concerne la détermination de questions de droit ou les jugements déclaratoires se rapportant à la question de savoir si un particulier s’est vu refuser l’exemption prévue à l’article 87 de la Loi sur les Indiens. En dernier ressort, il se peut également qu’il existe un recours devant la Cour fédérale aux fins du contrôle judiciaire d’une décision du ministre d’établir une nouvelle cotisation à l’égard d’un particulier conformément au paragraphe 152(4) de la LIR par suite de la détermination selon laquelle l’exemption prévue à l’article 87 de la Loi sur les Indiens ne s’applique pas. Toutefois, il n’appartient pas à la Cour de décider des recours qui peuvent être exercés devant la Cour fédérale.
+[57] Il faut également se rappeler que la Loi sur les Indiens n’est pas l’une des lois à l’égard desquelles une compétence a été accordée à la Cour conformément à l’article 12 de la LCCI. La compétence de la Cour, en ce qui concerne l’article 87 de la Loi sur les Indiens, découle probablement du fait que l’alinéa 81(1)a) de la LIR prévoit que le revenu exonéré par une autre loi fédérale ne doit pas être inclus dans le revenu, tel qu’il est déterminé pour l’application de la LIR. Étant donné que la Cour a compétence pour entendre les appels découlant de la LIR, la détermination de la question de savoir si l’exemption prévue par la Loi sur les Indiens s’applique est pertinente en ce qui concerne un appel interjeté en vertu de la LIR à l’encontre d’une cotisation ou d’une nouvelle cotisation fondée sur la détermination selon laquelle l’exemption ne peut pas être accordée, étant donné qu’il faut déterminer si le revenu doit être exclu dans le calcul du revenu pour l’application de la LIR par suite des dispositions de l’alinéa 81(1)a) de la LIR et de l’article 87 de la Loi sur les Indiens.
+[58] La Cour a été constituée par une loi fédérale, intitulée LCCI, dont l’article 12 prévoit ce qui suit :
+12. (1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance‑emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+[Non souligné dans l’original.]
+[59] La LIR prévoit un droit d’appel lorsque l’appel est interjeté dans le délai fixé au paragraphe 169(1) ou lorsqu’une demande de prorogation de délai est présentée dans l’année qui suit la fin du délai d’appel. Par conséquent, la compétence de la Cour est limitée aux appels prévus par la LIR qui sont interjetés dans ce délai ou aux demandes de prorogation du délai dans lequel l’appel peut être interjeté qui sont présentées dans le délai fixé au paragraphe 167(5) de la LIR.
+[60] Comme la Cour d’appel fédérale l’a fait remarquer dans l’arrêt The Queen v. Carlson, [2002] 2 C.TC. 212, 2002 DTC 2556:
+13 [...] Comme notre Cour l’a statué à de nombreuses occasions, lorsqu’un contribuable n’est pas en mesure de respecter un délai prévu par la Loi, même à cause d’une défaillance du système postal, ni le ministre ni la CCI ne peuvent lui venir en aide (Voir Schafer c. Sa Majesté la Reine [2000] A.C.F. 1480 (C.A.F.); Le Procureur général du Canada c. John F. Bowen [1992] 1 C.F. 311 (C.A.F.)). […]
+[61] Il me semble que l’exigence voulant qu’un appel soit interjeté devant la Cour dans le délai fixé au paragraphe 169(1) de la LIR ou qu’une demande de prorogation du délai d’appel soit présentée dans l’année qui suit l’expiration du délai prévu à l’article 169 aux fins de l’introduction d’un appel sont simplement les exigences auxquelles il faut satisfaire pour qu’un particulier puisse interjeter appel devant la présente cour. Si l’appel n’est pas interjeté ou si la demande de prorogation de délai n’est pas présentée dans ces délais, toute personne (y compris un Indien selon la définition de la Loi sur les Indiens) perdra le droit de faire trancher l’affaire par la présente cour. Il ne semble pas que cela ait pour effet de faire perdre aux demandeurs ici en cause tous les recours qu’ils peuvent exercer à l’égard de la demande d’exemption prévue à l’article 87 de la Loi sur les Indiens, mais uniquement le droit de faire trancher par la présente cour la question de savoir s’ils peuvent se prévaloir de cette exemption.
+[62] Par conséquent :
+a) la demande que Pamela Johnston a présentée en vue de faire proroger le délai dans lequel peut être interjeté l’appel de la nouvelle cotisation relative à l’obligation qui lui incombe en vertu de la LIR pour ses années d’imposition 1999, 2000, 2001, 2002, 2004 et 2005 est rejetée sans qu’aucuns dépens soient adjugés;
+b) la demande qu’Andrew Agawa a présentée en vue de faire proroger le délai dans lequel peuvent être interjetés l’appel de la cotisation relative à l’obligation qui lui incombe en vertu de la LIR pour son année d’imposition 2000 ainsi que l’appel de la nouvelle cotisation relative à l’obligation qui lui incombe en vertu de la LIR pour son année d’imposition 2001 est rejetée sans qu’aucuns dépens soient adjugés;
+c) la demande que Darlene McGregor a présentée en vue de faire proroger le délai dans lequel peut être interjeté l’appel de la nouvelle cotisation relative à l’obligation qui lui incombe en vertu de la LIR pour ses années d’imposition 1999, 2000, 2001, 2002 et 2003 est rejetée sans qu’aucuns dépens soient adjugés;
+d) la demande que Cheryl Sutherland a présentée en vue de faire proroger le délai dans lequel peuvent êtres interjetés l’appel de la nouvelle cotisation relative à l’obligation qui lui incombe en vertu de la LIR pour ses années d’imposition 1995, 2003 et 2004 ainsi que l’appel de la cotisation relative à l’obligation qui lui incombe en vertu de la LIR pour ses années d’imposition 2000, 2001 et 2002 est rejetée sans qu’aucuns dépens soient adjugés.
+Signé à Ottawa, Canada, ce 17e jour de juin 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 15e jour de septembre 2009.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2009 CCI 327
+No DES DOSSIERS DE LA COUR : 2008-1030(IT)APP; 2008-1429(IT)APP;
+2008-1539(IT)APP; 2008-1761(IT)APP
+INTITULÉ : PAMELA JOHNSTON c. SA MAJESTÉ LA REINE; CHERYL SUTHERLAND c. SA MAJESTÉ LA REINE; DARLENE MCGREGOR c. SA MAJESTÉ LA REINE; ANDREW AGAWA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 30 et 31 mars 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE
+ET DES MOTIFS DE
+L’ORDONNANCE : Le 17 juin 2009
+COMPARUTIONS :
+Avocat des demandeurs :
+Me Eric Lay
+Avocat de la défenderesse :
+Me Gordon Bourgard
+AVOCATS INSCRITS AU DOSSIER :
+Pour les demandeurs :
+Nom : Eric Lay
+Cabinet : Eric Lay Law
+Pour la défenderesse : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Bien que seuls les particuliers qui réussiraient à établir que leur revenu est admissible à l’exemption se verraient refuser cette exemption, puisque certains particuliers ont eu gain de cause dans leurs appels (par exemple, Bourbard v. The Queen 2008 DTC 3015, [2008] 5 C.T.C. 2565 (confirmé en appel 2009 DTC 5035, [2009] 2 C.T.C. 77, Folster v. The Queen 97 DTC 5315, [1997] 3 C.T.C. 157 (C.A.F.)), certains particuliers perdraient l’exemption à laquelle ils auraient par ailleurs droit si la Cour était l’unique tribunal qui peut accorder une réparation à la personne dont le revenu est admissible à l’exemption et à qui l’exemption est refusée.
+[2] Voir l’article 12 de la LCCI et l’article 169 de la LIR.
+[3] Au paragraphe 152(4) de la version anglaise de la LIR, le mot « may » (« peut ») est employé, mais au paragraphe 152(1), c’est le mot « shall » qui est employé, ce qui a pour effet de supprimer le pouvoir discrétionnaire d’établir une cotisation si cette cotisation est établie conformément au paragraphe 152(1) de la LIR.

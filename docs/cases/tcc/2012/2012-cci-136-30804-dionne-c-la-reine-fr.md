@@ -1,0 +1,149 @@
+---
+title: "Dionne c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30804/index.do"
+last_modified: "2012-05-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 136"
+citation2: ""
+neutral_citation: "2012 CCI 136"
+decision_date: "2012-05-17"
+language: "fr"
+item_id: "30804"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7549
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:38:19.605000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4cd59ec3ad64d8620b8affbc8de6f298d1a9539f92d12f7b3a10db74197e290f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dionne c. La Reine
+
+- Citation: 2012 CCI 136
+- Decision date: 2012-05-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7549, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dionne c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-05-17
+Référence neutre
+2012 CCI 136
+Numéro de dossier
+2009-2561(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-2561(GST)G
+ENTRE :
+GASTON DIONNE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 27 et 28 février 2012, à Rimouski (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Pierre Lévesque
+Avocate de l'intimée :
+Me Caroline Roy
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli en partie et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci‑joints. Il n'y a pas d'adjudication de dépens.
+Signé ce 17e jour de mai 2012.
+« François Angers »
+Juge Angers
+Référence : 2012 CCI 136
+Date : 20120517
+Dossier : 2009-2561(GST)G
+ENTRE :
+GASTON DIONNE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Le 10 mai 2007, le ministre du Revenu national (le « ministre ») a établi à l'égard de l'appelant une cotisation pour un montant de 47 288,43 $, représentant de la taxe sur les produits et services (« TPS ») non remise, en vertu de la Loi sur la taxe d'accise (« LTA ») pour la période du 1er janvier 2001 au 30 septembre 2005. L'appelant s'est dûment opposé à la cotisation et, le 10 juillet 2009, le ministre a confirmé la cotisation, mais en a réajusté le montant pour une partie de la période en litige, soit la période du 1er janvier 2003 au 31 décembre 2004. Le montant réajusté s'élevait à 47 867,07 $ en date du 10 juillet 2009.
+[2] Au stade de l'opposition, un grand nombre de transactions ont été examinées et mises sous différentes rubriques, mais les transactions contestées par l'appelant étaient celles que la vérificatrice avaient mises sous les rubriques « revenus d'affaires » et « autres revenus ». Ce n'est finalement que cette dernière rubrique qui fait l'objet du présent litige.
+[3] Les « autres revenus » totalisent 192 242 $ et ils correspondent à une série de dépôts bancaires que l'appelant n'a pu expliquer de façon satisfaisante à la vérificatrice et que celle-ci a considérés comme se rapportant à des fournitures taxables. Le montant de TPS sur les « autres revenus » s'établit donc à 13 456,96 $.
+[4] L'appelant a exploité pendant la période en litige une entreprise dans le domaine de l'immobilier, dont la dénomination sociale était l'Immobilier de l'Estuaire inc. (ci-après la « société »). Il en était actionnaire et agissait à titre d'agent immobilier. Il a aussi fait des opérations immobilières, soit l'achat et la vente d'immeubles, pour son propre compte. Au cours des années de 1999 à 2004, l'appelant a personnellement fait l'acquisition de 13 immeubles et en a vendu onze. Pour certains de ces achats, l'appelant a fait des rénovations et toutes les factures concernant chacun de ces immeubles ont été conservées dans une chemise.
+[5] En 1999, l'appelant a été grièvement blessé dans un accident d'auto. Il souffre, par suite de cet accident, d'une incapacité partielle permanente pour laquelle il reçoit des prestations mensuelles de la Société d'assurance automobile du Québec (SAAQ) et pour laquelle il a reçu également des sommes forfaitaires. Parmi les séquelles de cet accident, mentionnons un traumatisme cranio-cérébral entraînant pour l'appelant des restrictions qui ont des conséquences importantes dans sa vie quotidienne en ce qu'il a de la difficulté à gérer et à organiser ses affaires. Il a cependant très bien réussi à donner un témoignage cohérent et à répondre aux questions de façon claire.
+[6] Madame Johanny Tremblay est technicienne en vérification fiscale au ministère du Revenu du Québec. Elle a commencé sa vérification en novembre 2005 et a constaté que l'appelant ne tenait aucune comptabilité. Elle a donc choisi de procéder par une méthode alternative de vérification, soit la méthode des dépôts. Ainsi, elle a fait une liste de tous les dépôts dans le but de les comparer avec les revenus déclarés. Les sources des revenus de l'appelant, selon ce qu'elle a pu constater, étaient des loyers, ses prestations de la SAAQ, la vente d'immeubles et, finalement, des dépôts qui sont demeurés inexpliqués.
+[7] Elle a examiné quatre comptes bancaires de l'appelant pour une période de trois ans. En 2002, l'appelant a fait dans les quatre comptes des dépôts totalisant 462 114,14 $. Pour 2003, le total est de 248 522,22 $ et, pour 2004, il est de 581 966,95 $. De ces montants ont été déduits les dépôts non reliés aux affaires tels que des emprunts, des dépôts provenant de sa marge de crédit, certains dépôts provenant d'autres comptes et qui étaient identifiables, des virements bancaires identifiables et des prestations de la SAAQ. Elle a ensuite soustrait les revenus d'entreprises déclarés, soit les revenus locatifs et autres, pour finalement arriver aux chiffres se trouvant sous rubrique « autres revenus » et totalisant 88 956,24 $, 62 820,05 $ et 40 465,83 $ pour les années 2002, 2003 et 2004 respectivement. C'est le total de ces trois chiffres qui constitue les 192 242,62 $ qui sont demeurés sans explication. Au stade de l'opposition, la vérificatrice a appris que l'appelant détenait aussi un compte à la Banque Nationale et à la Banque de développement du Canada. Elle n'a cependant pas vérifié les transactions. Madame Tremblay reconnaît qu'il est possible qu'il y ait parmi les dépôts inexpliqués des transactions qui ne sont pas de nature commerciale et qui sont par conséquent, non taxables. Elle n'a pu, cependant, avancer aucune hypothèse à cet égard.
+[8] Madame Tremblay a aussi pris en considération, dans sa méthode alternative, certains prêts provenant des membres de la famille de l'appelant et, lorsqu'une pièce justificative lui était présentée, elle a accordé le montant et a réduit en conséquence le montant des dépôts inexpliqués.
+[9] Madame Nicole Ruest, qui est vérificatrice à Revenu Québec, a examiné la réclamation de l'appelant au titre des intrants et tout ce qui était relié aux transactions immobilières. En ce qui concerne la question des dépôts inexpliqués sous la rubrique « autres revenus », elle n'a reçu de l'appelant ou de ses comptables aucune explication lui permettant de soustraire de ces dépôts quelque montant que ce soit qui ne serait pas taxable. Elle a par conséquent taxé le plein montant.
+[10] L'appelant est venu expliquer les difficultés financières qu'il a connues depuis son accident et particulièrement durant la période en litige. Il a passé en revue ses acquisitions d'immeubles, les rénovations effectuées et les reventes. Certaines de ces transactions n'auraient produit de bénéfice. Il a aussi expliqué qu'un seul des quatre comptes en banque était personnel. Les trois autres comptes existaient parce qu'il avait contracté des emprunts auprès des établissements concernés. Il faisait des dépôts dans ces comptes pour couvrir les paiements. La majorité des dépôts ont d'ailleurs été faits dans son compte personnel.
+[11] L'appelant a témoigné que ses difficultés financières l'ont amené à faire beaucoup de transferts d'un compte à l'autre dans le but d'arriver à couvrir les chèques en circulation. Il utilisait l'internet pour effectuer ces transferts. Il avait aussi recours à ses deux frères et à sa mère, leur empruntant de l'argent afin de couvrir les chèques en circulation et d'éviter d'être à découvert. Toutefois, il n'a aucun document prouvant toutes ces transactions et n'est pas en mesure d'identifier les dépôts qui auraient servi à cette fin. Plusieurs ont été faits à des guichets automatiques et il n'a aucun bordereau de dépôt pouvant identifier la source des sommes déposées.
+[12] Les deux frères de l'appelant ont témoigné qu'ils prêtaient de façon régulière des sommes d'argent à l'appelant parce que ce dernier manquait d'argent tout le temps. Ils ont relaté les difficultés qu'a connues l'appelant en ce qui concerne la gestion de ses affaires après son accident et particulièrement lorsqu'il rénovait ses immeubles et qu'il en a transformé un en résidence pour personnes âgées. Durant la période en litige, le total des montants prêtés par chacun des deux frères se serait élevé à près de 20 000 $, mais seulement quelques-uns de ces montants ont pu être identifiés lors de la vérification, dans ces cas, les copies des chèques ont été mises en preuve. Les deux frères n'ont pas de pièces justificatives appuyant les autres avances, mais ils relatent qu'elles étaient nombreuses et pour des montants variant de 1 000 $ à 3 000 $ chaque fois. Ils ont relaté finalement que le train de vie de leur frère n'est pas compatible avec les revenus que Revenu Québec lui attribue étant donné ses difficultés financières, particulièrement durant la période en litige.
+[13] L'appelant a fait témoigner monsieur Marcel Léveillé, comptable agréé. Les services de ce dernier ont été retenus en décembre 2006 afin qu'il puisse aider l'appelant dans sa contestation. Il a examiné les dépôts faits aux quatre institutions financières où l'appelant a un compte, mais plusieurs pièces étaient manquantes. Il a fait une compilation relative aux immeubles achetés et vendus par l'appelant. Les sources de revenu de l'appelant sont les loyers provenant d'immeubles locatifs résidentiels et commerciaux, les bénéfices, le cas échéant, tirés de la vente d'immeubles et les prestations versées par la SAAQ. Il a fait des observations auprès de Revenu Québec pour démontrer l'impossibilité pour l'appelant d'avoir eu les revenus qu'on lui attribue étant donné ses dettes, les chèques sans provision qu'il a faits et ses autres difficultés financières.
+[14] En janvier 2011, il a procédé à la détermination de l'avoir net de l'appelant. Je tiens à souligner que monsieur Léveillé n'a pas témoigné à titre d'expert en comptabilité. Son rapport a néanmoins été admis en preuve. Monsieur Léveillé voulait, par la méthode de l'avoir net, démontrer que les cotisations de Revenu Québec n'étaient pas fondées puisque, pour qu'aient été générés les revenus que Revenu Québec attribue à l'appelant, il aurait fallu que l'avoir net de ce dernier ait augmenté de 96 000 $ en 2002, de 164 000 $ en 2003 et de 99 000 $ en 2004, ce qui n'est pas le cas.
+[15] Pour déterminer l'avoir net de l'appelant et dresser le bilan de chaque année, monsieur Léveillé a pris le montant de l'encaisse et du solde des emprunts d'après les relevés de banque. Pour les immeubles, il s'est basé sur les contrats d'achat, y ajoutant les dépenses pour les rénovations et les agrandissements. Les sommes à payer comprennent celles dues par suite des différentes poursuites ainsi que celles à payer pour les rénovations ainsi que les taxes foncières impayées en fin d'année. Il a ajouté les dépenses personnelles, les revenus déclarés, les sommes non imposables reçues de la SAAQ ainsi que les revenus additionnelles faisant l'objet des cotisations, à l'exception des revenus d'entreprise et des autres revenus et des sommes refusées par Revenu Québec. Monsieur Léveillé a calculé un écart de – 28 846 $ pour 2002, de 7 790 $ pour 2003 et de 9 999 $ pour 2004, ce qui est, selon lui, très loin des revenus établis par le ministre.
+[16] Dans son témoignage, monsieur Léveillé a dit avoir constaté que l'appelant transférait de l'argent d'un compte à l'autre, mais a ajouté qu'il ne pouvait rien certifier à cet égard. En contre-interrogatoire, monsieur Léveillé a reconnu que le montant établi au titre des dépenses personnelles au bilan personnel est purement arbitraire. Il n'a pas questionné l'appelant sur son coût de la vie, mais s'est fondé plutôt sur le montant que ce dernier recevait de la SAAQ. Il n'a pas non plus calculé son coût de la vie en fonction des retraits faits par l'appelant de ses comptes en banque. Il n'a pu expliquer avec certitude certaines dépenses liées au déménagement d'une maison et a simplement conjecturé sur le montant.
+[17] Dans son témoignage, monsieur Léveillé a reconnu que l'appelant avait fait beaucoup de transactions à des guichets automatiques, dont, évidemment, plusieurs dépôts, mais a dit qu'il n'avait pu obtenir des institutions financières aucune pièce justificative ni aucun document pouvant identifier la source des fonds. Il a réitéré la position de l'appelant voulant que ce dernier ait profité du temps qui s'écoule entre le moment où un chèque est tiré sur un compte en banque et celui où il est déposé dans une autre institution bancaire puis transféré à nouveau à une autre institution; ainsi, le même argent pouvait figurer dans trois ou même quatre comptes en banque, mais c'était toujours le même argent. Il a dit que cette façon de faire pouvait expliquer le grand nombre de dépôts. Il a dit entendre que les multiples emprunts que l'appelant a obtenus de ses deux frères et de sa mère peuvent aussi expliquer certains dépôts puisque ces emprunts n'étaient pas comptabilisés. Monsieur Léveillé n'a pas tenté d'en faire la vérification. Il a expliqué que, pour qu'il y ait du revenu, il faut identifier la source, ce que la méthode des dépôts ne fait pas. Finalement, il a reconnu ne pas avoir pu établir de lien entre les retraits faits par l'appelant de sa société et les dépôts.
+[18] Il a reconnu aussi que la méthode de l'avoir net contient elle aussi des imperfections. En contre-interrogatoire, il a admis qu'il est possible que certains actifs de l'appelant ne soient pas identifiés, tout comme il est possible qu'il y ait des dettes non identifiées et que cela a pour conséquence de fausser l'avoir net. Relativement à la question des avances faites par la société à l'appelant, monsieur Léveillé a affirmé que cette information ne provient pas des états financiers de la société mais ressort de documents que lui aurait transmis le comptable de l'appelant. Il a reconnu qu'il aurait fallu ajouter 10 000 $ aux actifs de l'appelant, lequel montant représente la valeur des actions de catégorie A que ce dernier détient dans la société. Monsieur Léveillé a reconnu aussi ne pas avoir questionné l'appelant sur son coût de la vie personnelle; il a dit qu'il avait tenu pour acquis un montant basé sur le revenu que l'appelant recevait de la SAAQ. Il a reconnu que le montant indiqué est purement arbitraire. Certaines dépenses attribuées par lui aux immeubles de l'appelant sont fondées sur des conjectures également.
+[19] Il s'agit donc de déterminer si le ministre a correctement établi le montant des fournitures taxables effectuées par l'appelant au cours de la période en litige.
+[20] Il ne fait aucun doute qu'en l'espèce les factures et les autres pièces justificatives, tout comme la comptabilité de l'appelant, étaient manquantes ou déficientes. L'appelant reconnaît d'ailleurs cette lacune et son manque de rigueur dans la tenue des livres et dans les opérations sur ses comptes bancaires. Il avoue même ne pas avoir gardé séparés ses comptes personnels et ceux de sa société. Cela ouvre donc la porte à l'établissement de cotisations basées sur une méthode alternative, en l'occurrence, la méthode des dépôts.
+[21] L'appelant, de son côté, pour contrer la méthode utilisée par le ministre, s'est prévalu lui aussi d'une méthode alternative, soit la méthode de l'avoir net. La raison pour laquelle l'appelant a utilisé cette méthode est que, d'après lui, il est impossible qu'il puisse avoir gagné tous les revenus que lui attribue l'intimée sans pour autant augmenter ses avoirs. Ce que les deux méthodes utilisées en l'espèce n'indiquent pas, cependant, c'est dans quelle proportion ces revenus sont taxables compte tenu des activités d'affaires décrites par l'appelant. Dans les deux méthodes, on attribue à ce dernier des revenus non déclarés et potentiellement imposables, mais ces revenus sont-ils tous taxables?
+[22] Il est reconnu en droit que la méthode alternative est insatisfaisante et imprécise et qu'elle est un instrument qui doit être utilisé en dernier recours (voir Khullar Au Gourmet International Ltd. c. Canada, [2003] A.C.I. no 348 (QL), [2003] G.S.T.C. 100. Il est aussi reconnu qu'il faut avoir recours à des normes objectives qui sont soit officielles, soit généralement reconnues par l'industrie, à défaut de quoi la preuve de leur fiabilité doit être faite au procès. Je reproduis à cet égard un passage tiré du jugement du juge Dussault de notre Cour dans l'affaire Brasserie Futuriste de Laval Inc. c. R., [2006] G.S.T.C. 140, paragraphe 158, décision confirmée par la Cour d'appel fédérale (2007 CAF 393).
+[...] Si les autorités fiscales estiment que la seule façon d'établir les ventes d'un contribuable dont la comptabilité est déficiente et qui ne possède pas les documents appropriés est de majorer ses achats d'un certain pourcentage, encore faut-il démontrer, sinon par expert, par la présentation de statistiques, par une preuve quant aux normes de l'industrie ou autrement que la majoration appliquée constitue une norme reconnue, raisonnable et pertinente relativement à l'entreprise du contribuable. Je ne peux souscrire à la prétention de l'avocat de l'intimée selon laquelle la présomption de validité de la cotisation emporte automatiquement présomption de validité quant à toutes les hypothèses retenues par le ministre pour établir une cotisation, sans qu'il soit jamais nécessaire d'apporter quelque preuve que ce soit. Il se peut que la majoration de 200 % retenue par madame Morand corresponde effectivement à une norme reconnue, fiable et raisonnablement applicable en l'espèce ce dont je doute dans les circonstances. Il se peut que la majoration appropriée eût dû être de 175 %, de 150 % ou même moins. En un mot, lorsqu'un contribuable peut soulever un doute sérieux, il s'agit de démontrer que la majoration retenue n'est pas une norme purement subjective, mais une norme objective, fiable et acceptable dans les circonstances. On ne peut se réfugier derrière la présomption de validité de la cotisation pour s'abstenir de faire cette preuve. Prétendre le contraire, c'est donner ouverture à l'arbitraire en permettant aux autorités fiscales de formuler n'importe quelle hypothèse, qui serait toujours réputée valide. Ce n'est pas parce qu'un contribuable manque à ses obligations, qu'il a une comptabilité déficiente ou qu'il n'a pas les documents appropriés ou qu'il les a détruits qu'on peut supposer n'importe quoi et prétendre que ces suppositions sont tout simplement réputées valides en toutes circonstances. En matière d'impôt sur le revenu, lorsque l'on établit une cotisation à l'égard d'un contribuable par la méthode indirecte de l'avoir net et que, faute de mieux, l'on établit le montant de ses dépenses personnelles en formulant des hypothèses, on le fait en utilisant des normes objectives minimales tirées des statistiques officielles publiées par Statistique Canada sur le coût de la vie des individus et des ménages dans les différentes régions du pays et non en s'appuyant sur des chiffres qui sont le produit des impressions du vérificateur. À mon avis, cette façon de faire est également applicable en matière de TPS. [...]
+[23] Cela étant dit, il incombe tout de même à l'appelant de faire sa preuve selon la prépondérance des probabilités, c'est-à-dire, de produire une preuve suffisante servant à démolir les présomptions du ministre qui constituent le fondement de la cotisation. Il s'agit de présenter au moins une preuve prima facie.
+[24] En l'espèce, il me paraît important de souligner le fait que les activités commerciales taxables de l'appelant se résument à la location de locaux commerciaux, à l'achat et à la vente d'immeubles et à leurs rénovations. Il ne s'agit pas d'un commerce de vente au détail. Il faut aussi se rappeler que la rubrique « autres revenus » n'a rien à voir avec les transactions se rapportant auxdits immeubles ni avec des revenus locatifs à caractère commercial. Il s'agit de dépôts non expliqués dans les comptes personnels de l'appelant, dépôts dont la source est inconnue.
+[25] Dans sa preuve, l'appelant a relaté ses difficultés financières et les moyens qu'il utilisait pour faire face à ces difficultés. Il est devenu évident lors de la vérification que l'appelant se servait de ses comptes en banque pour mettre à profit le temps qui s'écoule entre le moment où un chèque est tiré sur un compte en banque et celui où le montant du chèque est déposé dans un autre compte, ce qui a eu pour effet que le même argent pouvait se retrouver dans trois ou quatre comptes différents. La vérification n'a cependant pas permis d'en relever tous les cas parce que les montants ne correspondaient pas. L'appelant a témoigné qu'il faisait cela par l'internet et qu'il s'agissait là d'une pratique courante pour lui. Il est donc impossible en l'espèce de préciser un montant d'argent ayant été ainsi utilisé.
+[26] L'appelant a aussi témoigné qu'à plusieurs occasions il avait été obligé d'emprunter des sommes d'argent à ses deux frères et à sa mère. Ses deux frères ont témoigné sur cette question et quoiqu'ils n'aient pas eu de pièce justificative pour confirmer les avances qu'ils ont faites à l'appelant durant la période en litige, leurs témoignages étaient crédibles. Je tiens donc pour avéré qu'ils ont tous les deux avancé à l'appelant des sommes allant de 15 000 à 20 000 $ durant ladite période, soit des sommes dépassant le montant des avances qui ont été retracées lors de la vérification.
+[27] Il ne fait aucun doute que l'avoir net établi par monsieur Léveillé contient des imperfections qui viennent fausser les résultats. Je crois cependant que, malgré ces imperfections, il est difficile, compte tenu de l'ensemble de la preuve, de conclure que l'appelant a pu gagner dans la période en litige tous les revenus que veut lui attribuer le ministre. Je dois donc accorder un certain poids au bilan qu'a dressé monsieur Léveillé et je conclus qu'il ne peut s'agir en totalité de revenus imposables ou taxables.
+[28] Si je prends en considération les emprunts obtenus de ses frères, le chevauchement des dépôts dans plusieurs comptes, l'avoir net établi et le témoignage de l'appelant, il est possible de réduire de façon assez substantielle le montant indiqué sous la rubrique « autres revenus », sauf que la réduction serait purement arbitraire.
+[29] Le solde restant sous cette rubrique constitue un revenu imposable, mais est-ce que, dans les présentes circonstances, il constitue un revenu taxable? La technicienne en vérification fiscale qui a compilé les dépôts a reconnu, dans son témoignage, qu'elle ne savait pas si la source de tous les dépôts était de nature commerciale et qu'il était possible que certains ne soient pas taxables. La difficulté repose sur le fait que les activités commerciales de l'appelant produisent des revenus locatifs et des revenus tirés de l'achat et de la vente d'immeubles qui ont été taxés sous des rubriques autres que celle de « autres revenus ». Le ministre a simplement choisi de taxer tous les dépôts non expliqués sans faire abstraction de ce qui pouvait ne pas être taxable et, à cet égard, il n'avait peut être pas plus de choix que moi j'en ai, du moins en ce qui concerne le solde qui demeure inexpliqué.
+[30] À la lumière de tous ces faits, j'arrive à la conclusion qu'il est probable que le montant attribué sous la rubrique « autres revenus » n'est pas de l'ordre de 192 000 $. Je suis donc prêt à réduire le montant, et ce, de façon arbitraire. et je l'établis à 100 000 $.
+[31] Étant donné la nature des activités commerciales de l'appelant, mais prenant en considération que la Loi sur la taxe d'accise taxe plus d'activités commerciales qu'elle n'en taxe pas, je conclus que 80% des revenus que j'ai établis sont des revenus taxables en vertu de cette Loi.
+[32] L'appel est accueilli en partie et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les présents motifs du jugement. Il n'y a pas d'adjudication de dépens.
+Signé ce 17e jour de mai 2012.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2012 CCI 136
+Nº DU DOSSIER DE LA COUR : 2009-2561(GST)G
+INTITULÉ DE LA CAUSE : Gaston Dionne c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Rimouski (Québec)
+DATE DE L’AUDIENCE : les 27 et 28 février 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 17 mai 2012
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Pierre Lévesque
+Avocate de l'intimée :
+Me Caroline Roy
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Pierre Lévesque
+Cabinet : Cain Lamarre Casgrain Wells
+Rimouski (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

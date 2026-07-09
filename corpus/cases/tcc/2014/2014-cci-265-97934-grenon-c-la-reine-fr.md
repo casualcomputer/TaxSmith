@@ -1,0 +1,207 @@
+---
+title: "Grenon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/97934/index.do"
+last_modified: "2014-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 265"
+citation2: ""
+neutral_citation: "2014 CCI 265"
+decision_date: "2014-10-03"
+language: "fr"
+item_id: "97934"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5176
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:43:25.878000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c7ce221cf57222ab82d4f7657d438c505797e3527d7dcd6a222fb075532ee74"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grenon c. La Reine
+
+- Citation: 2014 CCI 265
+- Decision date: 2014-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5176, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grenon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-03
+Référence neutre
+2014 CCI 265
+Numéro de dossier
+2002-3842(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3842(IT)G
+ENTRE :
+JAMES T. GRENON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 27, 28 et 29 mai 2014, à Calgary (Alberta).
+Devant : L'honorable juge David E. Graham
+Comparutions :
+Avocat de l'appelant :
+Me Ronald J. Robinson
+Avocate de l'intimée :
+Me Wendy Bridges
+JUGEMENT
+L'appel est rejeté et les dépens sont adjugés à l'intimée.
+La demande présentée par l'intimée en vue d'être autorisée à rouvrir sa preuve pour produire des éléments de preuve supplémentaires est rejetée.
+Signé à Toronto (Ontario), ce 3e jour d'octobre 2014.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 23e jour de décembre 2014.
+Yves Bellefeuille, réviseur
+Référence : 2014 CCI 265
+Date : 20141003
+Dossier : 2002-3842(IT)G
+ENTRE :
+JAMES T. GRENON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] James Grenon s'est séparé de son ex‑épouse en 1998. Au moment de la séparation, les deux enfants issus de leur mariage étaient mineurs. En 1999, Mme Grenon a engagé une procédure en matière familiale devant la Cour du Banc de la Reine de l'Alberta concernant la garde des enfants, le paiement d'une pension alimentaire à leur égard et au sien et le partage du patrimoine conjugal. M. Grenon a chargé un avocat de le représenter dans cette instance et il a supporté des frais pour payer ce dernier. L'affaire a finalement été réglée en 2001 et, notamment, M. Grenon a dû verser à son ex‑épouse une pension alimentaire pour les enfants.
+[2] En 2001, M. Grenon a demandé au ministre du Revenu national le redressement de sa déclaration de revenus de 1999 afin de lui permettre de déduire 11 816,21 $ au titre de ses frais de justice relativement à la procédure en matière familiale. Le ministre lui a fait parvenir un avis de nouvelle cotisation portant refus de sa demande. Puis, dans la déclaration de revenus de 2000 qu'il a produite, M. Grenon a demandé la déduction de 165 187,70 $ au titre de frais de justice supportés pour cette même procédure. Le ministre a une nouvelle fois refusé la déduction. M. Grenon fait appel de ces refus et, par la même occasion, en conteste la validité au titre de l'article 15 de la Charte canadienne des droits et libertés.
+Les questions en litige
+[3] Le présent appel soulève trois questions.
+a) Quels sont les frais de justice supportés par M. Grenon dans la procédure en matière familiale relativement à son obligation de verser une pension alimentaire pour enfants?
+b) M. Grenon a‑t‑il le droit de déduire les frais de justice supportés pour la procédure en matière familiale des revenus qu'il a touchés en 1999 et en 2000?
+c) Si M. Grenon n'a pas droit à la déduction de ses frais de justice, ce refus constitue-t-il une atteinte aux droits à l'égalité qui lui sont garantis par l'article 15 de la Charte?
+[4] En plus d'analyser les questions qui précèdent, il me faudra examiner le témoignage des experts appelés par M. Grenon et statuer sur la demande présentée par l'intimée en vue d'être autorisée à rouvrir sa preuve pour produire des éléments de preuve supplémentaires.
+Le montant des frais de justice
+[5] Le ministre n'a formulé aucune hypothèse de fait quant au montant des frais de justice supportés par M. Grenon dans la procédure en matière familiale ou à la partie de ces frais se rapportant spécifiquement à la détermination de ses obligations au titre de la pension alimentaire pour enfants. M. Grenon a témoigné pour son propre compte. J'estime qu'il était un témoin digne de foi. Il a expliqué que trois cabinets juridiques différents l'avaient représenté tout au long de l'instance en matière familiale : il a décrit leurs rôles respectifs et expliqué comment il avait calculé, pour chacun, le pourcentage des honoraires attribuable à la détermination de ses obligations concernant la pension alimentaire pour enfants.
+[6] Bien que le témoignage de M. Grenon et les documents justificatifs produits comme pièces soient loin d'être aussi complets ou clairs que je l'aurais souhaité, l'intimée n'a pas sérieusement mis cette preuve en doute en contre‑interrogatoire et elle n'a pas non plus présenté de preuve du contraire. J'admets par conséquent que M. Grenon a supporté, relativement à la détermination de ses obligations en matière de pension alimentaire pour enfants, des frais de 10 265,82 $[1] en 1999 et de 116 360,65 $[2] en 2000 (collectivement, les « frais »).
+M. Grenon a-t-il le droit de déduire ces frais?
+[7] Aucune disposition de la Loi de l'impôt sur le revenu n'autorise expressément M. Grenon à déduire les frais de la même façon que le fait l'alinéa 60o) de la Loi, pour citer cet exemple, à l'égard des frais de justice supportés pour contester une cotisation d'impôt sur le revenu devant un tribunal. Il s'ensuit que, pour que M. Grenon puisse déduire les frais, il faudrait que ceux‑ci constituent une dépense qu'il a engagée en vue de tirer un revenu d'une entreprise ou d'un bien.
+[8] Or, M. Grenon est le parent qui paie la pension alimentaire pour enfants, et non celui qui la reçoit. En matière de déductibilité des frais de justice se rapportant aux paiements de pension alimentaire pour enfants, la décision qui fait autorité est celle rendue par la Cour d'appel fédérale dans l'affaire Nadeau c. Ministre du Revenu national[3]. Au paragraphe 18 des motifs de cette décision, la Cour d'appel a clairement indiqué que « les dépenses encourues par le payeur d'une pension alimentaire (soit pour empêcher qu'elle soit établie ou augmentée, ou soit pour la diminuer ou y mettre fin), ne peuvent être considérées comme ayant été encourues pour gagner un revenu et les tribunaux n'ont jamais reconnu de droit à la déduction de ces dépenses ».
+[9] Monsieur Grenon soutient que, malgré l'interdiction générale énoncée dans l'arrêt Nadeau concernant la déduction des frais de justice par le payeur d'une pension alimentaire, il a quand même le droit de déduire les frais, car ceux‑ci ont été engagés en vue de tirer un revenu d'un bien. Aux termes d'une entente visant à régler le différend qui opposait M. et Mme Grenon en matière familiale, Mme Grenon a accepté de rembourser à M. Grenon les sommes qu'il dépensait au profit des enfants et qu'elle était par ailleurs tenue de dépenser en vertu de cette entente. Selon M. Grenon, ce droit au remboursement est un « bien » au sens du paragraphe 248(1) de la Loi. Je peux convenir que ce droit constitue un bien, mais j'ai du mal à voir en quoi il peut se traduire par un revenu. Tout au plus peut‑on considérer qu'il donne lieu à un remboursement.
+[10] Compte tenu de tout ce qui précède, je conclus que M. Grenon n'avait pas le droit de déduire les frais dans le calcul de ses revenus pour les années d'imposition 1999 et 2000.
+Le refus de la déduction des frais porte-t-il atteinte aux droits à l'égalité garantis à M. Grenon par l'article 15 de la Charte?
+[11] Monsieur Grenon soutient que la Loi traite différemment les payeurs et les bénéficiaires de pensions alimentaires pour enfants et que cette différence de traitement est le fruit d'une discrimination fondée sur le sexe qui constitue une atteinte aux droits que lui garantit l'article 15 de la Charte.
+[12] Le critère à deux volets qu'il convient d'appliquer lors d'une analyse fondée sur l'article 15 a été confirmé par la Cour suprême du Canada dans l'arrêt Withler c. Canada (Procureur général)[4]. Dans un premier temps, il me faut déterminer si la loi crée une distinction fondée sur un motif énuméré à l'article 15 ou un motif analogue. Je dois ensuite déterminer si cette distinction crée un désavantage par la perpétuation d'un préjugé ou l'application de stéréotypes.
+La loi crée-t-elle une distinction?
+[13] Comme nous l'avons vu précédemment, le payeur d'une pension alimentaire au profit d'un enfant n'est pas autorisé à déduire les frais de justice qu'il a supportés pour faire établir son obligation alimentaire, s'opposer à l'augmentation d'une obligation alimentaire existante, s'opposer à son paiement, la faire diminuer ou la faire éliminer. Le ministre, tout comme les tribunaux, a toujours appliqué ce principe de manière uniforme. En revanche, le ministre permet aux bénéficiaires de déduire les frais de justice supportés pour faire établir, augmenter ou respecter une ordonnance alimentaire au profit d'un enfant et pour s'opposer à une procédure intentée par le payeur en vue d'obtenir la réduction ou l'élimination des paiements de pension[5]. Pour déterminer le fondement de cette différence de traitement, il me faut cerner les raisons pour lesquelles les bénéficiaires d'une pension alimentaire pour enfant sont autorisés à déduire leurs frais de justice.
+[14] Aucune disposition de la Loi ne permet expressément au bénéficiaire d'une pension alimentaire pour enfant de déduire ses frais de justice. L'idée que ces frais constituent des sommes dépensées pour tirer un revenu d'un bien est ce qui sert de justification pour autoriser leur déduction. Dans l'arrêt Nadeau, la Cour d'appel fédérale remarque qu'une « jurisprudence constante reconnaît depuis plus de 40 ans que le droit à une pension alimentaire lorsqu'établi par un tribunal est un "bien" au sens du paragraphe 248(1) de la Loi et que le revenu issu d'une telle pension constitue entre les mains de la personne qui la reçoit un revenu de bien »[6]. Plus loin, la Cour d'appel affirme avoir « peu de difficulté à conclure qu'un revenu issu d'une pension alimentaire est un revenu de bien et qu'à ce titre, les dépenses encourues pour en obtenir le paiement peuvent être déduites »[7]. Puis, elle ajoute : « ‪il s'agit là du traitement que prône et applique le ministre depuis plus de 40 ans. Il est loisible de croire que si ce traitement était en quelque point contraire aux vœux du Parlement, une modification aurait été apportée »[8]. En tirant ces conclusions, la Cour d'appel signale que les modifications apportées à la Loi en 1996 en vue de mettre fin à l'imposition des pensions alimentaires pour enfants ont été rédigées de manière à continuer de permettre la déduction des dépenses afférentes au titre de l'alinéa 18(1)a); partant de là, elle conclut que le législateur considérait que les paiements de pension alimentaire au profit d'un enfant constituaient un revenu provenant d'un bien[9]. Je suis lié par ce raisonnement.
+[15] L'arrêt Nadeau n'aborde pas la question de savoir si les frais de justice supportés pour faire établir le montant de l'obligation alimentaire envers les enfants sont déductibles. Certes, on s'attendrait normalement à ce que les sommes dépensées pour faire naître un droit à un revenu soient considérées comme étant imputables au capital, mais la Cour a largement reconnu, depuis près de vingt ans, que les frais de justice supportés par le bénéficiaire d'une obligation alimentaire au profit d'un enfant pour faire établir la pension sont déductibles[10]. Ce choix s'explique par le fait que le droit à une pension alimentaire pour enfants est vu comme un droit déjà existant. Il s'ensuit que les frais de justice supportés pour faire établir le montant de la pension sont considérés comme une dépense visant à faire respecter le droit à un revenu et non à créer un tel droit; par conséquent, on a jugé qu'ils étaient imputables au revenu plutôt qu'au capital.
+[16] On peut donc constater, au vu de ce qui précède, que le traitement différent réservé aux payeurs d'une pension alimentaire pour enfants par rapport aux bénéficiaires d'une telle pension en ce qui a trait à la possibilité de déduire les frais de justice afférents à l'établissement des paiements de pension repose uniquement sur le fait que les bénéficiaires ont une source de revenus provenant d'un bien qui prend la forme d'un droit à la pension alimentaire, alors que les payeurs n'en ont pas. La déductibilité des frais ne dépend aucunement du sexe du payeur ou du bénéficiaire. Cette distinction entre personnes tirant un revenu d'un bien et personnes ne tirant pas de tels revenus n'a rien d'exceptionnel sous le régime de la Loi. Citons l'exemple du propriétaire de logements locatifs à qui il est permis de déduire l'impôt foncier, les intérêts hypothécaires et le coût des services publics payés relativement à son bien locatif, alors que le propriétaire‑occupant ne peut pas en faire autant.
+[17] Le fait de disposer ou non d'une source de revenus provenant d'un bien ne figure certes pas parmi les motifs énumérés à l'article 15. On ne peut non plus considérer qu'il s'agit d'un motif analogue, c'est‑à‑dire un motif fondé sur « une caractéristique personnelle qui est soit immuable, soit modifiable uniquement à un prix inacceptable du point de vue de l'identité personnelle »[11]. On voit mal en quoi le fait de tirer ou non un revenu d'un bien pourrait être considéré comme un motif de cette nature. Il faut en conclure que les arguments de M. Grenon fondés sur la Charte échouent au premier volet du critère de l'arrêt Withler. Pour cette raison, je n'ai pas à examiner le deuxième volet du critère.
+[18] Je suis arrivé à cette conclusion tout en ayant à l'esprit l'argument avancé par M. Grenon. Selon son avocat, l'arrêt Nadeau consacrerait le principe selon lequel les paiements de pension alimentaire au profit d'un enfant constituent un revenu provenant d'un bien non pas parce qu'il existerait actuellement un fondement logique à cette conclusion, mais parce qu'ils sont depuis si longtemps systématiquement considérés comme un revenu tiré d'un bien que toute autre qualification est devenue impossible. Je suis sensible à cette façon d'expliquer la décision rendue dans l'arrêt Nadeau. Il me semble qu'on a eu tendance, depuis de nombreuses années, d'ajouter à l'article 60 de la Loi une disposition autorisant les bénéficiaires d'une pension alimentaire au profit de leur enfant à déduire leurs frais de justice, indépendamment du fait que ceux‑ci soient ou non supportés pour tirer un revenu d'un bien. Cela dit, je suis lié par le raisonnement suivi dans l'arrêt Nadeau. M. Grenon fera certainement appel de ma décision. Il parviendra peut‑être à convaincre la Cour d'appel fédérale qu'il lui faut revenir sur les conclusions tirées dans l'arrêt Nadeau ou que la déduction à laquelle ont actuellement droit les bénéficiaires d'une pension alimentaire pour enfant est accordée non pas parce qu'ils versent des frais de justice en vue de tirer un revenu d'un bien, mais tout simplement parce qu'ils reçoivent une telle pension. Puisque les bénéficiaires de pensions alimentaires pour enfants sont très majoritairement des femmes et les payeurs, des hommes, M. Grenon sera peut‑être alors mieux placé pour faire valoir, selon sa croyance, que le fait d'accorder une déduction aux bénéficiaires et de la refuser aux payeurs a pour effet de créer de la discrimination fondée sur le sexe.
+Les témoins experts
+[19] Deux experts ont témoigné au procès pour le compte de M. Grenon. Leurs témoignages visaient à présenter des éléments de preuve permettant de satisfaire au deuxième volet du critère énoncé dans l'arrêt Withler. En principe, vu la conclusion à laquelle je suis arrivé en ce qui concerne le premier volet du critère, je ne devrais pas avoir à examiner ces témoignages. Toutefois, comme j'ai la quasi‑certitude que M. Grenon interjettera appel de ma décision devant la Cour d'appel fédérale, il me faut me pencher sur cette preuve d'expert au cas où cela serait nécessaire pour l'appel. Je me propose d'examiner tour à tour les témoignages de ces experts.
+Le professeur Paul Millar
+[20] Le professeur Paul Millar est professeur adjoint à l'École de criminologie et de justice criminelle de l'université Nipissing. Il a un doctorat en sociologie et se spécialise dans les domaines suivants : le droit et la société, la criminologie, la sociologie et les méthodes statistiques quantitatives. Je reconnais l'expertise du professeur Millar dans ces domaines. Il a rédigé un rapport d'expert intitulé « Gender Bias and Disadvantage in the Family Law System » (Les préjugés et les désavantages fondés sur le sexe en droit de la famille).
+[21] J'aborde le rapport du professeur Millar avec une bonne dose de scepticisme, puisqu'il a affiché envers la position de M. Grenon un parti pris qui n'est pas conforme à l'impartialité attendue d'un témoin expert. Il a cité des études effectuées par d'autres sans attirer mon attention sur les diverses faiblesses qu'elles présentaient, il a, dans son propre rapport, tiré un peu rapidement des conclusions comportant d'importantes lacunes logiques sans me les signaler clairement, il a employé le terme « garde » pour désigner des notions différentes dans diverses parties de son rapport sans apporter de précisions à cet égard et il est resté évasif lorsqu'on lui a demandé de parler de son expérience personnelle de contestation fondée sur la Charte devant la Cour d'appel de l'Alberta en ce qui concerne le programme d'exécution des ordonnances alimentaires[12].
+[22] Au paragraphe 15 de son rapport, le professeur Millar écrit : [TRADUCTION] « Une étude réalisée par le Canadian Research Institute for Law and the Family en 2007 a révélé l'existence d'une nette impression selon laquelle le système de justice favoriserait les mères et pénaliserait les pères, indépendamment de la conduite de chacun des parents. » La lecture du rapport faisant état des résultats de cette étude nous apprend que les auteurs de l'étude s'inquiétaient de ce qu'on puisse en généraliser la portée compte tenu de la taille réduite de l'échantillon et du faible taux de réponse[13]. Ils se demandaient par ailleurs si les participants à l'étude avaient bien saisi les questions. Je trouve troublant que le professeur Millar ait fait reposer son rapport sur cette étude malgré de telles lacunes et qu'il n'ait pas porté ces lacunes à mon attention. J'estime par le fait même qu'il ne faut accorder aucun poids au paragraphe 15 du rapport du professeur Millar.
+[23] Dans son rapport, le professeur Millar conclut qu'il existe traditionnellement, au sein du système judiciaire canadien, un parti pris consistant à confier la garde des enfants aux femmes et que ce parti pris se poursuit encore aujourd'hui. À mon avis, les faits sur lesquels se fonde le professeur Millar pour tirer cette conclusion laissent place à d'autres interprétations. Le professeur Millar n'a pas réussi à me convaincre qu'il avait de bonnes raisons d'écarter ces autres interprétations. Ainsi, il constate que le sexe du parent ne constitue pas un indice valable de ses compétences parentales. Il constate également que les tribunaux accordent presque toujours la garde des enfants aux femmes. Je crois comprendre qu'à partir de ces renseignements, il conclut que les tribunaux doivent avoir un préjugé contre les pères. Il me semble y avoir dans ce raisonnement une faille qui me pose des difficultés. Je ne suis pas convaincu que le professeur Millar ait attaché suffisamment d'importance, voire quelque importance que ce soit, à d'autres variables, comme les questions suivantes : les causes qui aboutissent réellement à un procès sont‑elles représentatives de toute la population de parents? Dans les causes qui ont fait l'objet d'une instruction, le père a‑t‑il même demandé à se voir accorder la garde des enfants ou cherchait‑il simplement à faire établir le montant de la pension alimentaire? Si j'ajoute ces préoccupations à celles que j'ai déjà au sujet de l'impartialité du professeur Millar, je me vois dans l'impossibilité d'accorder le moindre poids à sa conclusion voulant que les tribunaux aient un préjugé contre les hommes.
+[24] Le professeur Millar emploie le mot « garde » de manières différentes à divers endroits dans son rapport. Apparemment, il faisait tantôt allusion à la garde juridique (à savoir le droit de prendre des décisions concernant, notamment, l'éducation, les soins de santé et la religion de l'enfant, indépendamment du lieu de résidence de l'enfant), tantôt à l'endroit où vit l'enfant. Dans ce dernier cas, il n'a pas précisé s'il réservait ce terme aux situations où l'enfant vivait avec le parent visé tout le temps ou simplement la majorité du temps. Étant donné que le professeur Millar a omis d'apporter ces clarifications dans son rapport et lors de l'interrogatoire principal, et qu'en contre‑interrogatoire, il a semblé incapable d'expliquer avec précision comment il avait employé le terme tout au long de son rapport, je ne puis accepter les données statistiques figurant aux paragraphes 8, 11, 12 et 14 de son rapport, ne sachant pas au juste ce qu'elles veulent dire. Par contre, je retiens les chiffres figurant aux alinéas 13b) et c) du rapport puisque le professeur Millar a clairement indiqué, en contre‑interrogatoire, que le terme « garde », au sens où il est employé dans ces alinéas, renvoie à l'endroit où vit l'enfant, et non à la notion de garde juridique.
+[25] Malgré les réserves que j'ai quant au parti pris du professeur Millar, je suis disposé à accepter ce qui, je crois, représente l'élément clé du rapport du professeur Millar sur lequel M. Grenon entend se fonder. Il s'agit d'une donnée statistique qui, à l'alinéa 13a) du rapport, nous révèle que dans 92,8 % des cas, ce sont les pères qui versent une pension alimentaire pour les enfants. Le professeur Millar tire cette donnée d'un rapport publié par le ministère de la Justice : « Enquête sur les ordonnances de pensions alimentaires pour enfants : Rapport final de la phase 2 »[14]. L'intimée a porté à mon attention un certain nombre de problèmes susceptibles de compromettre la fiabilité du rapport. Je reconnais que ces problèmes existent, mais je me permets de souligner que l'administration publique ne les a pas jugés importants au point de s'abstenir de publier le rapport. Le professeur Millar a dit avoir effectué des recherches similaires à partir de données provenant d'une source différente et être arrivé à un pourcentage comparable. En définitive, il importe peu de connaître avec exactitude quelle proportion de payeurs de pensions alimentaires pour enfants est constituée d'hommes. Pour les besoins du présent appel, je reconnais que la quasi‑totalité des payeurs de pensions alimentaires pour enfants sont des hommes.
+Le professeur Douglas W. Allen
+[26] Le professeur Douglas W. Allen est professeur d'économie et titulaire de la chaire Burnaby Mountain à l'université Simon Fraser. Il a un doctorat en économie et est spécialiste de l'analyse économique du droit. Il s'intéresse notamment aux dimensions économiques de la famille. Il a publié quatre rapports au sujet des Lignes directrices fédérales sur les pensions alimentaires pour enfants. Je reconnais l'expertise du professeur Allen dans les domaines mentionnés. Son rapport d'expert a été versé au dossier de la Cour.
+[27] J'ai trouvé que le rapport et le témoignage du professeur Allen étaient essentiellement exempts de parti pris. S'il est clair qu'il a des opinions bien arrêtées sur les questions au sujet desquelles il s'est exprimé, je n'ai pas l'impression qu'il a cherché à se poser en défenseur de la cause de M. Grenon. Je n'ai qu'une seule préoccupation concernant le rapport du professeur Allen, et c'est qu'il se fonde dans une certaine mesure sur les travaux du professeur Christopher Sarlo. En conférence préparatoire, l'intimée s'est opposée à la production d'une version antérieure du rapport du professeur Allen en invoquant divers motifs. L'un d'eux avait justement trait au fait que le rapport accordait trop d'importance aux travaux du professeur Sarlo. M. Grenon a été autorisé à déposer une version modifiée du rapport d'expert à la condition suivante : si le rapport continuait de se fonder sur les travaux du professeur Sarlo, l'intimée pourrait exiger de contre‑interroger ce dernier lors du procès. N'ayant pas lu le précédent rapport, je ne sais pas exactement dans quelle mesure il était fondé sur les travaux du professeur Sarlo. Il reste toujours trois références à ces travaux dans le rapport actuel du professeur Allen. Le professeur Sarlo n'ayant pas été cité comme témoin au procès, je dois écarter de la preuve les paragraphes 38 et 51 du rapport et les conclusions fondées sur ces paragraphes, de même que la référence faite aux travaux du professeur Sarlo en première note de bas de page du rapport.
+Peut‑on autoriser l'intimée à rouvrir sa preuve?
+[28] L'intimée n'a pas présenté de preuve susceptible d'étayer une défense fondée sur l'article premier de la Charte pour le cas où M. Grenon parviendrait à prouver qu'il y a eu violation des droits que lui garantit l'article 15. À la fin des plaidoiries, l'avocate de l'intimée a demandé à rouvrir la preuve de sa cliente afin d'ajouter des éléments de preuve pouvant servir d'assise à une défense fondée sur l'article premier. Bien que cela n'ait pas été parfaitement clair, je crois que la demande était aussi censée viser la production d'une preuve se rapportant au paragraphe 15(2) de la Charte.
+[29] Je ne suis pas disposé à accorder cette autorisation. L'intimée s'attendait apparemment à obtenir gain de cause dans le présent appel sur la base du premier volet du critère énoncé dans l'arrêt Withler en partant du fait que je serais lié par la décision rendue dans l'arrêt Nadeau et, pour cette raison, elle ne semble pas s'être inquiétée de la possibilité de devoir présenter une preuve répondant au deuxième volet du critère ou de préparer une défense fondée sur l'article premier. Le présent appel dure depuis plus d'une décennie. L'intimée savait fort bien que M. Grenon n'était pas simplement un contribuable qui se sentait lésé et qui croyait que la Charte lui conférait globalement le droit à un traitement « équitable ». Il était représenté par un avocat, avait une bonne idée de la raison pour laquelle il existait selon lui de la discrimination et il avait manifestement l'intention de présenter la preuve factuelle qu'il croyait nécessaire pour soutenir une contestation fondée sur l'article 15. Vu l'historique du présent appel, il aurait dû apparaître comme une évidence, aux yeux de l'intimée, que si M. Grenon devait perdre le procès, il interjetterait presque assurément appel à la Cour d'appel fédérale[15]. Or, même si l'intimée devinait que je me considérerais probablement comme étant lié par l'arrêt Nadeau, il est clair que la Cour d'appel fédérale ne serait pas ainsi liée. Par conséquent, l'intimée aurait dû savoir qu'il lui fallait, à l'étape du procès, jeter les fondements de la preuve qu'elle entendait présenter pour se défendre contre une contestation fondée sur l'article 15 en appel. À n'en pas douter, M. Grenon savait lui aussi que je me considérerais vraisemblablement comme lié par l'arrêt Nadeau; cela ne l'a pas empêché de soumettre la preuve d'expert dont il aura besoin lors de l'appel à la Cour d'appel fédérale.
+[30] Pour les motifs exposés ci‑dessus, la demande présentée par l'intimée en vue d'être autorisée à rouvrir sa preuve pour y ajouter des éléments est refusée.
+[31] Je tiens à préciser que les commentaires qui précèdent ne visent aucunement à mettre en doute le jugement de l'avocate de l'intimée. Je sais pertinemment qu'une multitude de représentants du ministère de la Justice, de l'Agence du revenu du Canada et peut‑être du ministère des Finances sont vraisemblablement intervenus dans la prise des décisions relatives à la conduite du présent appel et que celles‑ci ne traduisent pas forcément la façon dont l'avocate aurait elle‑même choisi de procéder si la décision lui était revenue à elle seule.
+Conclusion
+[32] Compte tenu de tout ce qui précède, l'appel est rejeté et les dépens sont adjugés à l'intimée.
+Préoccupations relatives à l'état du droit
+[33] J'ai consacré un temps considérable à l'examen des questions soulevées dans le présent appel. J'aimerais exposer certaines des préoccupations que j'ai quant à l'état actuel du droit. À mon sens, de graves iniquités risquent de se produire dans un régime qui permet aux bénéficiaires d'une pension alimentaire pour enfant de déduire les frais de justice supportés pour faire établir les paiements de pension alimentaire, mais qui n'autorise pas les payeurs à faire de même. J'estime que ces iniquités ont grand besoin d'être examinées par le Parlement. Veuillez noter que les commentaires qui suivent concernent les frais de justice supportés pour faire établir la pension alimentaire pour enfants, et non pour contraindre le payeur au paiement d'arriérés de pension alimentaire pour enfants.
+[34] Prenons l'exemple de divorcés. Supposons que chacun d'eux travaille à temps plein, mais que la mère gagne annuellement 1 000 $ de plus que le père. S'ils s'adressent tous deux au tribunal afin d'obtenir la garde de leurs enfants à raison de 75 % du temps, quatre issues sont possibles :
+a) Exemple « A » : La mère obtiendra la garde des enfants pour 75 % du temps. Puisqu'il s'agit d'un pourcentage supérieur à 60 %, le montant de la pension alimentaire sera déterminé en fonction du revenu du père sans tenir compte de celui de la mère. La mère percevra donc une pension alimentaire pour les enfants et pourra déduire ses frais de justice, alors que le père, à titre de payeur, n'aura pas droit à une telle déduction.
+b) Exemple « B » : Le père obtiendra la garde des enfants pour 75 % du temps. Puisqu'il s'agit d'un pourcentage supérieur à 60 %, le montant de la pension alimentaire sera déterminé en fonction du revenu de la mère sans tenir compte de celui du père. Le père percevra donc une pension alimentaire pour les enfants en plus de pouvoir déduire ses frais de justice, alors que la mère, à titre de payeuse, n'aura pas droit à une telle déduction.
+c) Exemple « C » : Le tribunal répartira la garde selon des proportions se situant quelque part entre ce que les deux parents ont demandé. Pour simplifier, supposons que la garde est partagée également. En pareil cas, la détermination de la pension alimentaire se fera en comparant les revenus des parents. Puisque le revenu de la mère est légèrement plus élevé que celui du père, ce dernier recevra une pension alimentaire pour les enfants (d'un montant relativement minime, toutefois). Le père pourra ainsi déduire ses frais de justice tandis que la mère, à titre de payeuse, n'aura pas droit à une telle déduction.
+d) Exemple « D » : Le tribunal accordera au père la garde d'un des enfants pour 75 % du temps et à la mère celle de l'autre enfant, également pour 75 % du temps. Le montant de la pension alimentaire relative au premier enfant sera déterminé en fonction du revenu de la mère et celui de la pension alimentaire relative au deuxième enfant, en fonction du revenu du père. On ne conservera ensuite que la différence entre les deux montants obtenus. La mère deviendra ainsi payeuse d'une pension puisqu'elle a le revenu le plus élevé, de sorte que le père pourra déduire ses frais de justice, mais pas la mère.
+[35] Indépendamment du fait que le bénéficiaire d'une pension alimentaire tire ou non un revenu d'un bien, je n'arrive pas à saisir en quoi il peut être acceptable, du point de vue de l'ordre public, de permettre que le bénéficiaire, dans les exemples précédents, puisse déduire ses frais de justice tout en refusant cette même déduction au payeur. Les deux parties s'adressent au tribunal pour débattre des mêmes questions. Quel peut bien être l'objectif d'intérêt public justifiant un tel résultat? Il ne peut s'agir d'alléger le fardeau financier de la partie dont les besoins à cet égard sont les plus pressants puisque dans l'exemple « A », c'est le parent ayant le revenu le plus élevé qui a droit à la déduction. Il ne peut non plus s'agir d'assurer la sécurité financière des enfants étant donné que dans chaque exemple, ces derniers profiteraient du fait que les deux parents puissent se prévaloir de la déduction. L'objectif ne peut pas être de récompenser la partie qui obtient gain de cause, puisque dans l'exemple « C », chaque parent a réussi à accroître de 25 % son temps de garde, si l'on considère que l'autre parent demandait 75 % du temps, mais n'en a obtenu que 50 %; or, la mère n'est pas autorisée à déduire ses frais de justice. Enfin, l'objectif ne peut pas être de garantir l'accès à la justice puisqu'une subvention est accordée à l'un des parents, mais non à l'autre, sans tenir compte de leurs ressources financières respectives (ainsi, dans l'exemple « C », le père reçoit la subvention, que son revenu soit de 4 000 $, de 49 000 $ ou de 499 000 $, alors qu'elle est refusée à la mère, que son revenu soit de 5 000 $, de 50 000 $ ou de 500 000 $).
+[36] À mon sens, le problème du régime actuel tient au fait qu'il existe, dans une large mesure, une tendance malheureuse à aborder la question en ayant recours au stéréotype classique du « père mauvais payeur »[16]. Si l'on applique ce stéréotype, le régime ne semble pas présenter de problème particulier, car d'après ce stéréotype, le « père mauvais payeur » se trouve dans une bien meilleure situation financière que la mère, ne veut pas la garde des enfants ou alors, dans une proportion très réduite, et espère que ses paiements de pension alimentaire demeureront aussi bas que possible. En pareil cas, il est aisé de faire valoir que le fait d'accorder la déduction à la mère contribue à la réalisation des objectifs invoqués ci‑dessus : la mère est la partie dont les besoins sont les plus grands; le sort des enfants est amélioré si la mère peut compter sur une subvention pour l'aider à obtenir une pension alimentaire élevée pour eux et que le père ne dispose d'aucune aide équivalente dans son combat pour payer la pension alimentaire la moins élevée possible; la mère obtient gain de cause en cour; enfin, sans la déduction, la mère ne pourrait peut-être pas faire valoir ses droits en justice.
+[37] Toutefois, il ne faut pas permettre que les politiques fiscales soient influencées par des stéréotypes. La réalité, de nos jours, est que l'exemple « C » concerne de plus en plus de parents. Le régime fiscal devrait donc, à mon avis, mieux tenir compte de cette réalité.
+[38] La décision rendue par la juge Woods dans Trignani c. La Reine[17] et celle du juge Angers dans Mercier c. La Reine[18] nous montrent que le payeur, dans les exemples qui précèdent, pourrait peut‑être obtenir une déduction si sa demande de pension alimentaire « a été faite de bonne foi, n'était pas frivole et avait une chance raisonnable de succès »[19]. Je félicite les juges Woods et Angers pour l'ingéniosité dont ils ont fait preuve afin de pallier l'iniquité du système, mais je suis d'avis que les payeurs de pensions alimentaires pour enfants ne devraient pas avoir à attendre que la Cour propose un ensemble de règles disparates au fil des décisions qu'elle rend. Les contribuables seraient nettement mieux servis par la création d'un régime général de règles bien pensées qui établirait un équilibre entre les divers enjeux fiscaux et sociaux et répondrait à la fois aux besoins des parents visés par les exemples que j'ai donnés et à ceux des parents aux prises avec une situation du type « père mauvais payeur ». La Cour ne peut tout simplement pas arriver au
+même résultat en intervenant au cas par cas. On ne peut qu'espérer que le Parlement voudra bien envisager sérieusement la création d'un tel régime.
+Signé à Toronto (Ontario), ce 3e jour d'octobre 2014.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 23e jour de décembre 2014.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2014 CCI 265
+NO DU DOSSIER DE LA COUR :
+2002-3842(IT)G
+INTITULÉ :
+JAMES T. GRENON ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+Les 27, 28 et 29 mai 2014
+MOTIFS DU JUGEMENT :
+L'honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 3 octobre 2014
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Ronald J. Robinson
+Avocate de l'intimée :
+Me Wendy Bridges
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Ronald J. Robinson
+Calgary (Alberta)
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Recueil conjoint des documents, onglets 10 et 11.
+[2] Recueil conjoint des documents, onglet 12.
+[3] 2003 CAF 400, [2004] 1 R.C.F. 587.
+[4] 2011 CSC 12, [2011] 1 R.C.S. 396.
+[5] Voir le bulletin d'interprétation IT‑99R5 et les modifications qui y sont apportées dans le no 24 de la publication Nouvelles techniques du 1er octobre 2002.
+[6] Voir Nadeau, au paragraphe 14.
+[7] Nadeau, au paragraphe 29.
+[8] Nadeau, au paragraphe 30.
+[9] Nadeau, aux paragraphes 32 à 34.
+[10] Wakeman c. La Reine, [1996] A.C.I. no 477, 96 D.T.C. 3220; McColl c. La Reine, 2000 CanLII 363; Sol c. La Reine, 2000 CanLII 546; Sabour c. La Reine, 2001 CanLII 839 (opinion incidente, au paragraphe 9); Rabb c. La Reine, 2006 CCI 140; Trignani c. La Reine, 2010 CCI 209; et Mercier c. La Reine, 2011 CCI 427.
+[11] Corbiere c. Canada (Ministre des Affaires indiennes et du Nord canadien), [1999] 2 R.C.S. 203, au paragraphe 13.
+[12] Millar c. Millar, 2000 ABCA 100.
+[13] Pièce R‑1, pages 5 à 7.
+[14] Recueil conjoint des documents, onglet 22.
+[15] Dans le présent appel, M. Grenon s'est déjà adressé à deux reprises à la Cour d'appel fédérale sur des questions interlocutoires (2007 CAF 239 et 2011 CAF 147) et a demandé à la Cour suprême du Canada l'autorisation de se pourvoir contre la première de ces décisions, ce qui lui a été refusé (no 32236, 6 décembre 2007).
+[16] Je souligne au passage qu'il s'agit de l'un des stéréotypes invoqués par M. Grenon dans les observations qu'il a formulées à l'égard du deuxième volet du test de l'arrêt Withler.
+[17] 2010 CCI 209.
+[18] 2011 CCI 427.
+[19] Trignani, au paragraphe 28.

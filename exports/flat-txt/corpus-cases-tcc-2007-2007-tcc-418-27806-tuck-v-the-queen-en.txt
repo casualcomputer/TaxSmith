@@ -1,0 +1,156 @@
+Title: Tuck v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27806/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-418-27806-tuck-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-26
+
+# Tuck v. The Queen
+
+- Citation: 2007 TCC 418
+- Decision date: 2007-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 281, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tuck v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-26
+Neutral citation
+2007 TCC 418
+File numbers
+2006-3135(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3135(IT)I
+BETWEEN:
+TRUEMAN TUCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on March 26, 2007 at Kingston, Ontario
+Before: The Honourable Justice G.A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pascal Tétrault
+____________________________________________________________________
+ORDER
+Upon a motion by the Respondent for an order striking out the Notice of Appeal and dismissing the Appellant’s appeal;
+And upon having heard the submissions of and read the materials filed by the parties,
+IT IS HEREBY ORDERED THAT:
+1. The Notice of Appeal of the Appellant is struck out and the appeals from the assessments made under the Income Tax Act for the 2002 and 2003 taxation years are dismissed, with costs payable to the Respondent in the amount of $100.00, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 23rd day of July, 2007.
+“G.A. Sheridan”
+Sheridan J.
+Docket: 2006-3136(IT)I
+BETWEEN:
+YVONNE B. TUCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on March 26, 2007 at Kingston, Ontario
+Before: The Honourable Justice G.A. Sheridan
+Appearances:
+Agent for the Appellant:
+Trueman Tuck
+Counsel for the Respondent:
+Pascal Tétrault
+____________________________________________________________________
+ORDER
+Upon a motion by the Respondent for an order striking out the Notice of Appeal and dismissing the Appellant’s appeal;
+And upon having heard the submissions of and read the materials filed by the parties,
+IT IS HEREBY ORDERED THAT:
+1. The Notice of Appeal of the Appellant is struck out and the appeal from the assessment made under the Income Tax Act for the 2004 taxation year is dismissed, with costs payable to the Respondent in the amount of $100.00, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 23rd day of July, 2007.
+“G.A. Sheridan”
+Sheridan J.
+Citation: 2007TCC418
+Date: 20070723
+Dockets: 2006-3135(IT)I
+2006-3136(IT)I
+BETWEEN:
+TRUEMAN TUCK
+YVONNE B. TUCK,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sheridan, J.
+[1] The Respondent brings a motion for an Order:
+1. striking out the Notice of Appeal in its entirety and dismissing the appeal accordingly; or
+2. in the alternative, granting an extension of time for filing a Reply to the Notice of Appeal pursuant to subsection 18.16(1) of the Tax Court of Canada Rules (Informal Procedure)(sic), to 30 days from the date of the Order of this Honourable Court disposing of the present motion; and
+3. such further and other relief as this Honourable Court deems just.
+[2] The grounds for the Respondent’s motion are:
+4. that the Notice of Appeal discloses no reasonable ground for appeal;
+5. that the Notice of Appeal is scandalous, frivolous and vexatious;
+6. that the Notice of Appeal is an abuse of process of this Court, and;
+7. such further and other grounds as counsel may submit.
+[3] The Respondent brings a similar motion in respect of the Notice of Appeal of Yvonne Tuck, wife of the Appellant. The motions were heard together. Ms. Tuck was not present at the hearing but the Appellant advised the Court that he was authorized to represent her at the hearing of the motion.
+[4] The Appellant served on the Respondent and filed with the Court a “Notice of Constitutional Question” in respect of the Respondent’s motion to dismiss his Notice of Appeal. In that document, the Appellant describes himself as “Trueman of the Tuck family, aka Trueman, Trueman Tuck, Gerrard Trueman Tuck” and goes on to say in paragraph (a) that he is:
+… a faith-based human being that was born … as a free-man citizen of the British Commonwealth and believes that GOD created human beings in GOD’s image, as sons and daughters of GOD. [Emphasis appears in original.]
+[5] The Appellant also filed another document entitled “Notice of Special Appearance in Propria Persona” in which he is similarly described.
+[6] In the “Notice of Constitutional Question” filed in respect of Yvonne Tuck, Ms. Tuck is described in the style of cause as “YVONNE BARBARA TUCK, aka YVONNE B. TUCK, YVONNE TUCK, a federally created CAPITAL CORPORATE PERSON apparently created in the 1960’s by the federal Canadian government, and Yvonne Barbara Tuck, aka Yvonne Tuck, Yvonne B. Tuck a human being” [Emphasis appears in original.].
+[7] According to the Appellant’s submissions, the basis for the challenges contained in these documents and in the Notices of Appeal is that the Appellants never “contractually consented voluntarily to the current taxation schemes attempting to be enforced by the [Respondent] against the Appellant”.[1] Accordingly, in the case of Trueman Tuck, the Appellant did not file income tax returns and his tax liability was assessed under subsection 152(7) of the Income Tax Act. Although Ms. Tuck filed a return, she joins her husband in disputing the constitutionality of the Minister’s assessment powers. The Appellant challenges the assessments on the further grounds that in the Notices of Assessment under the heading “account number” are noted numbers which are their social insurance numbers. The Appellant says they never “asked for” social insurance numbers and accordingly, their “accounts”, and therefore the assessments, are not valid. Finally, he argues that the assessments are without legal effect because in them, his name and that of his wife have been typed in capital letters. When challenged on the essential silliness of this point, the Appellant had the good grace to retreat from, if not completely abandon, that line of argument.
+[8] The Notice of Appeal of the Appellant was filed on August 7, 2006. It is a long, rambling document which, in addition to the points set out above, includes a series of questions which the Appellant insists must be answered by the Minister or by this Court as a condition precedent to his paying any tax. A portion of the Notice of Appeal is also devoted to the alleged misdeeds of certain Canada Revenue Agency officials. The Notice of Appeal of Yvonne Tuck, filed September 19, 2006, is essentially the same as the Appellant’s, though shorter and modified slightly to reflect her specific circumstances.
+[9] The Respondent takes the position that the Notices of Appeal ought to be struck out and the appeals dismissed.
+[10] In considering whether to strike a pleading, the facts alleged must be taken as true. Further, the Court must be satisfied that it is “plain and obvious” that the impugned claim is without merit.[2] Finally, the pleadings must be considered as drafted, without evidence to rehabilitate any shortcomings. As counsel for the Respondent quite correctly submitted, the case law is well settled that it is within Parliament’s power to impose taxes on its citizens.[3] Accordingly, those portions of the Notice of Appeal which dispute the Minister’s authority to assess tax liability are without merit. The same applies to the allegations in respect of the behaviour of the Minister’s officials: the jurisdiction of this Court is limited to determining the correctness of the amount assessed; it does not extend to a consideration of the conduct of the officials in making that assessment.[4] With the exception of the paragraphs considered below, the deletion of the above paragraphs from the Notices of Appeal leaves little more than what I would describe as the Appellant’s personal opinions on the unpalatability of paying taxes. These have no place in properly drafted pleadings.
+[11] Turning now to each Notice of Appeal, in the case of Ms. Tuck, although she filed an income tax return for 2004, nowhere in the Notice of Appeal does she specifically address the Minister’s reassessment of that return. The closest she comes is in paragraph 6 of the section entitled “Closing Remarks”:
+6. Should one or both of the Plaintiffs be deemed liable then the Plaintiffs will request that this Honourable Court clarify the various legal questions contained herein and provide a reasonable time for the Plaintiff or Plaintiffs to both file the appropriate Court order documents with the assistance of a Chartered Accountant.
+[12] Her reference in the above paragraph to “the appropriate Court order documents” seems to suggest that Ms. Tuck is asking to be allowed to file a proper Notice of Appeal should the present one be rejected. This is not an appropriate pleading. If Ms. Tuck was aware in September 2006 that her Notice of Appeal was likely defective, then was the time to draft it properly. In any case, it is not the task of the Court to go about redrafting defective pleadings,[5] especially where a party has clearly elected to follow a particular litigation strategy:
+21 It is not the duty of a judge to redraft pleadings. It is his or her duty, however, to closely examine a proceeding before determining that it cannot be saved through proper amendments. To use the words of my brother Stone in Krause…, the judge seized with a motion [to strike pleadings[6]] must decide whether the document is “so defective that it cannot be cured by simple amendment”. This determination requires a balancing act which cannot be subject to any definite norms. Each proceeding is to be assessed on its own merits, with consideration being given to, inter alia, the personal situation of the party, the issues and arguments raised, the manner and tone in which they are raised, the number and proportion of allegations that are defective and the readiness of the amendments needed. Where the Court is dealing with a self-represented litigant, it should resist being too easily put off by the mere phrasing of allegations and arguments that do not fall within established legal parameters.[7] [Footnote added.]
+[13] By the same token, the Appellant (who undoubtedly drafted Ms. Tuck’s Notice of Appeal), devotes only one paragraph of his lengthy Notice of Appeal to the details of the assessment of his 2002 and 2003 taxation years:
+The Plaintiff will also rely in the alternative, should the assessment be deemed valid that the Plaintiff be allowed to immediately file the drafted income tax returns for the 2002 and 2003 taxation years and that the determined liability be reviewed by this Honourable Court based upon further evidence once the various critical points of law are determined as outlined herein. These adjustments would include the Plaintiff’s gross income, the dividend tax credits, personal exemptions, business losses, and other normal deductions which are currently missing from the Defendants’ deemed assessments for the 2002 and 2003 taxation years and need to be credited in accordance with the normal practices.[8]
+[14] But even so, this paragraph is directed, not at a determination of the correctness of that assessment but rather, at his being allowed to do what he ought to have done in the first place, to file his 2002 and 2003 income tax returns, documents which, in paragraph 33 of his Notice of Appeal under the heading “Issues”, he alleges he had already prepared “years ago … with professional assistance”. Notwithstanding that fact, instead of filing his returns or getting on with a properly formulated appeal of the arbitrary assessment, the Appellant elected to spend his time drafting the voluminous documents and materials filed in these matters, none of which focuses on the one area within this Court’s jurisdiction; namely, the correctness of the Minister’s assessment.
+[15] Because the Appellant represented himself at the hearing of these motions, I permitted him more time than was perhaps merited to develop his position. Among the many points of information provided to the Court was the fact that he considered himself a sort of “unlicensed” lawyer and that as such, he had appeared frequently in Court and learned a lot about litigation from these experiences. He went on to inform the Court that he was not basing his case on the so-called “natural person” theory for avoiding paying his taxes. Despite such assurances, however, many of the paragraphs in the Notices of Appeal bear a certain similarity to the boiler plate clauses promoted and used by the anti-tax groups in furtherance of their objectives.[9]
+[16] The Appellant insisted in his presentation that he was quite willing to file returns and pay taxes - if only he were given a legal basis for doing so. The more the Appellant expanded on his views, however, the less convinced I was of his bona fides. Having patiently listened to what effectively became a rant against the Government of Canada, the Prime Minister, the Minister of National Revenue, Canada Revenue Agency officials, politicians, judges and the general unpleasantness of having to pay taxes, I concluded that the appeals have more to do with providing a forum for the Appellant’s anti-tax theories than seeking a determination of the correctness of the assessments. Interestingly, though the Appellant fervently objects to paying taxes himself, he has no qualms about availing himself of the various government services paid for by the tax dollars of hard-working Canadians who regularly fulfill their obligations under the Act.
+[17] All in all, the arguments advanced and the materials filed by the Appellant lead me to believe that the Notices of Appeal have little, if anything, to do with seeking the relief provided under the Act and were a waste of the time of the Court and the Respondent and of taxpayers’ dollars. In such circumstances, I am mindful of the words of the Federal Court of Appeal in Dominique Fournier v. Her Majesty the Queen, 2005 FCA 131:
+[11] The judge stated that he had no jurisdiction to impose costs on an appellant who unnecessarily delayed an appeal process initiated within an informal proceeding. I should point out that the Tax Court of Canada has the inherent jurisdiction to prevent and control an abuse of its process: see Yacyshyn v. Canada, [1999] F.C.A. No. 196 (F.C.A.).
+[12] The awarding of costs is one mechanism for preventing or remedying abusive delays or procedures: see Blencoe v. British Columbia (Human Rights Commission), [2000] 2 S.C.R. 307, at paragraphs 179 and 183. In Sherman v. Canada (Minister of National Revenue – M.N.R.), [2003] 4 F.C. 865, at paragraph 46, this Court addressed the issue in the following terms:
+It is now generally accepted that an award of costs may perform more than one function. Costs under modern rules may serve to regulate, indemnify and deter. They regulate by promoting early settlements and restraint. They deter impetuous, frivolous and abusive behaviour and litigation. They seek to compensate, at least in part, the successful party who has incurred, sometimes, large expenses to vindicate its rights. [Emphasis appears in original.]
+[18] The striking out of a pleading is a drastic step and one which ought not to be taken lightly. Having carefully reviewed the pleadings and considered the submissions of the parties, however, I am persuaded by the Respondent’s argument that the Notices of Appeal ought to be struck out in their entirety and the appeals dismissed. Given the frivolous and abusive nature of the pleadings, I am further satisfied that circumstances warrant the exercise of my discretion to impose costs against the Appellants to prevent and control an abuse of the process of the Tax Court of Canada. Accordingly, the Appellants, Trueman Tuck and Yvonne Tuck, shall each pay costs to the Respondent in the amount of $100.
+Signed at Ottawa, Canada, this 23rd day of July, 2007.
+“G.A. Sheridan”
+Sheridan J.
+CITATION: 2007TCC418
+COURT FILE NOS.: 2006-3135(IT)I and 2006-3136(IT)I
+STYLE OF CAUSE: TRUEMAN TUCK, YVONNE B. TUCK AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kingston, Ontario
+DATE OF HEARING: March 26, 2007
+REASONS FOR ORDER BY: The Honourable Justice G.A. Sheridan
+DATE OF ORDER: July 23, 2007
+APPEARANCES:
+For the Appellants:
+Trueman Tuck
+Counsel for the Respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Notice of Constitutional Question, page 2, paragraph (e).
+[2] Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959.
+[3] Frank J. Bruno v. Canada (Customs and Revenue Agency), [2000] 4 C.T.C. 57 (B.C.C.A.); Reinhard G. Mueller v. Her Majesty the Queen, [1993] 1 C.T.C. 143.
+[4] Main Rehabilitation Co. Ltd. v. Her Majesty the Queen, [2005] 1 C.T.C. 212 (F.C.A.).
+[5] HMTQ v. Galbraith, [2001] B.C.J. No. 2900, 2001 BCSC 675; R. v. Dick, [2003] B.C.J. No. 187, 2003 BCPC 13 (B.C. Prov. Ct.); R. v. Carew, [1992] B.C.J. No. 995 (BCSC); R. v. Sullivan, [1991] 1 S.C.R. 489; PPG Industries Canada Ltd. v. Canada, [1983] B.C.J. No. 2260 (BCSC); Kennedy v. Canada Customs & Revenue Agency, [2000] O.J. No. 3313 (Ontario Supreme Court of Justice); R. v. Lindsay, [2006] B.C.J. No. 636, 2006 BCCA 150.
+[6] On the grounds that the pleadings were "scandalous, frivolous and vexatious".
+[7] Sweet v. Canada, [1999] F.C.J. No. 1539 (F.C.A.).
+[8] See the ninth unnumbered paragraph of the section of the Notice of Appeal entitled “Closing Remarks”.
+[9] See such cases as Hovey Ventures Inc. v. Her Majesty the Queen, 2007 TCC 139; R. v. Sydel, [2006] 5 C.T.C. 88 (British Columbia Provincial Court); Kennedy v. Canada (Customs & Revenue Agency), [2000] O.J. No. 3313 (Ontario Supreme Court of Justice); R. v. Lindsay, [2006] B.C.J. No. 636, 2006 BCCA 150 (B.C.C.A.).

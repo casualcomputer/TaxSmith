@@ -1,0 +1,168 @@
+Title: Price Chopper Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28829/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-451-28829-price-chopper-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-08-14
+
+# Price Chopper Canada Inc. v. The Queen
+
+- Citation: 2008 TCC 451
+- Decision date: 2008-08-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1339, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Price Chopper Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-14
+Neutral citation
+2008 TCC 451
+File numbers
+2007-3982(GST)I
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-3982(GST)I
+BETWEEN:
+PRICE CHOPPER CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 10, 2008 at Toronto, Ontario
+Before: The Honourable E. P. Rossiter, Associate Chief Justice
+Appearances:
+Agent for the Appellant:
+Jefferson Jaiwant Sooknarine
+Counsel for the Respondent:
+Bonnie Boucher
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, for the period September 30, 1998 to August 31, 2003, is dismissed, with costs to the Respondent, for and in accordance with the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of August, 2008.
+"E. P. Rossiter"
+Rossiter, A.C.J.
+Citation: 2008TCC451
+Date: 20080814
+Docket: 2007-3982(GST)I
+BETWEEN:
+PRICE CHOPPER CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter, A.C.J.
+A. Introduction
+[1] This appeal by Price Chopper Canada Inc. (“PC Canada”) is in relation to an assessment by Canada Revenue Agency (“CRA”) on May 20, 2005, with respect to GST for the period September 30, 1998 to August 31, 2003. The Appellant asserts that it is entitled to Input Tax Credits (“ITCs”) in the amount of approximately $112,698.06 for GST it paid on purchases of domestic and imported supplies. The issues on the appeal are who is the recipient of the supplies and who is the importer of the supplies, where applicable, under the terms of the Excise Tax Act (“ETA”) and the Customs Act.
+B. Facts
+[2] The Appellant was in the business of taking orders for wristbands, manufacturing and processing the orders and then delivering the finished wristband product. The wristbands were primarily made up of two items; paper and adhesive and the printing on the paper.
+[3] The Appellant had no office or physical address in Canada, other than a mailing address at its accountant’s office. The Appellant’s principal shareholder, Nyla Sooknarine, resides in Orlando, Florida, and she is a sole shareholder of the Appellant. Besides suppliers, there are other companies which the Appellant does business with, most principally, Price Chopper Inc. (“PC USA”) of which Nyla Sooknarine, owns 10%.
+[4] Typically, PC Canada, would place a purchase order for supplies with Unisource Canada, Inc. (“Unisource”), which would be delivered over a period of time directly to the printing service, SBS Imprinting Service (“SBS”), located in London, Ontario. The invoices and orders from Unisource were addressed to PC Canada at an address in Florida. Orders for adhesive would be placed by PC Canada to Ludlow Technical Products (“Ludlow”) in the United States and this product would be delivered over a period of time to SBS. On occasion, Cariflex (1994) Limited (“Cariflex”) provided supplies to PC Canada from Trinidad and Tobago.
+[5] At trial, invoices were not produced with respect to the adhesive products from Ludlow. Canadek Declarations showed the importer as PC Canada but it was in care of SBS and the invoices were in the same form whether the product was provided by Ludlow or Cariflex. Invoicing was in US dollars as were the Canadek Declarations. Canadek Declarations were used to have the supplies from Ludlow and Cariflex clear customs. The importer on the Canada Customs documents was shown as Price Chopper Canada Inc. whether the products were shipped by Cariflex or Ludlow.
+[6] The Appellant used Link Customs Services Ltd. (“Link”) to look after the supplies once they arrived at the U.S. border. Link would arrange for the supplies to be imported into Canada and then invoice PC Canada for the duty, GST, and their services accordingly. For the period in question, the bills from Link went to PC Canada at an address in Florida. The wristbands when processed or manufactured were invariably shipped to PC Canada or PC USA both at the same address in the United States or to the address of PC Canada in Florida, that is 2721 Forsyth Road, Suite 210, Winter Park, Florida, 32792. The Appellant asserts there were loans from PC USA to PC Canada or monies owing by PC USA to PC Canada and as such, PC USA was directed to pay the accounts of PC Canada suppliers.
+[7] When PC Canada’s business was established in 1998, Nyla Sooknarine wrote a note to her accountant to explain about how PC Canada operated. In her note, the operations were basically described as follows: PC USA would order and pay for all materials for the wristbands, that is the glue from Ludlow and the paper from Unisourse, both of which would be sent to SBS, Link would clear all the shipments into Canada and then invoice PC Canada. Some are paid by PC Canada and the rest, payable in US funds, are paid by PC USA. They also had supplies from Trinidad going to SBS and GST was charged on those shipments. The invoices from Unisource were billed with GST. The adhesive from Ludlow comes from the USA and Link pays the GST for imports into Canada and then bills PC Canada. The finished goods as wristbands are shipped back to the United States via Link to PC USA or to others as custom orders. PC USA wires the money to SBS for the printing; some are paid by PC Canada on personal cheques.
+[8] CRA in conducting an audit on ITCs was provided little documentation. Bank statements were used to recreate a summary of expenses which was compared to the General Ledger provided by the Appellant’s accountant. There were significant differences between the sales figures provided for GST purposes and those on the income tax returns. ITCs were allowed where the cheque was matched with an invoice. It was noted that most of the invoices were for PC Canada but issued to the address of PC USA. CRA was of the view that PC USA would order paper supplies from a Canadian source, i.e. Unisource, and glue from a USA source Ludlow, and had the supplies sent to SBS for printing. GST was paid on the supplies by PC Canada when Link invoiced PC Canada for the GST and its brokerage fees. PC Canada paid Link but the Minister opines that PC Canada was not the importer and as such not eligible for ITCs. PC Canada paid the GST because PC USA was not the registrant and therefore was not entitled to claim the ITCs. Since the work was done in Canada and therefore product exported to a consignee in the USA who received the goods in the USA, they would pay the GST even though PC Canada is the importer on record. PC Canada did not take possession of the goods. They were not the recipient of the supplies therefore they could not claim ITCs. PC Canada was not the purchaser of the goods. If PC USA was registered they could claim the ITCs; absent that registration, they could pass on this entitlement to SBS, providing they had the proper U.S. documentation. The goods were invoiced according to the CRA auditor’s appreciation of the documents he had seen, to PC USA and paid for by PC USA. Of the $112,698.06 in ITCs not allowed about 80% related to imports. Most of the sales were not recorded in PC Canada’s records. Almost all the supplies were ordered and paid for by PC USA. Numerous attempts to obtain additional information or particulars from the Appellant by the Respondent, were to no avail. There was no response to inquiries with respect to the location of the permanent address of the Appellant’s establishment in Canada or elsewhere. The PC Canada corporate tax account and importer account were closed in September 2001, yet in 2003 the Appellant reported revenue in a GST return but did not report any corporate income or importer income since its account was closed.
+[9] CRA was of the view that PC USA was the importer because:
+(1) The invoice for the supplies was from PC USA.
+(2) The supplies were ordered by PC USA.
+(3) Payments were made by PC USA.
+(4) There was no paper trail to PC Canada except for the fact they were shown on the customs documents (Canadek Declarations) as the importer.
+(5) There were alternatives that PC USA could have employed to obtain the ITCs.
+C. Issues
+[10] There are two issues to be considered by the Court:
+1. Was the Appellant the recipient on the purchase of domestic supplies?
+2. Was the Appellant the importer of imported supplies?
+D. Law and Analysis
+(i) Statutory Provisions
+[11] The liability to pay the GST on supplies purchased in Canada is imposed by subsection 165(1) of the ETA, which reads as follows for the years under appeal:
+165. (1) Imposition of goods and services tax - Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply. [Emphasis Added].
+[12] The liability to pay the GST on supplies imported from outside Canada is imposed by section 212 of the ETA, which reads as follows for the years under appeal:
+212. Imposition of goods and services tax - Subject to this Part, every person who is liable under the Customs Act to pay duty on imported goods, or who would be so liable if the goods were subject to duty, shall pay to Her Majesty in right of Canada tax on the goods calculated at the rate of 7% on the value of the goods.
+[13] The ability to claim an ITC is granted by subsection 169(1) of the ETA, which reads as follows for the years under appeal:
+169. (1) General rule for [input tax] credits - Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A x B
+Where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+[…]
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[14] For the purposes of interpreting subsection 169(1), the following definitions from subsection 123(1) of the ETA are relevant:
+123. (1) Definitions - In section 121, this Part and Schedules V to X,
+[…]
+"commercial activity" of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person, […]
+"recipient" of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+[…]
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply;
+(ii) Recipient of Supply
+[15] The prerequisites to claiming an ITC are provided in subsection 169(1) of the ETA. In considering the eligibility of an ITC claimant, Justice Campbell summarized the requirements inherent to subsection 169(1) in General Motors of Canada Limited v. R., [2008] G.S.T.C. 41 (T.C.C.) at paragraph 30.
+(1) The claimant (GMCL) must have acquired the supply (the Investment Management Services);
+(2) The GST must be payable or was paid by the claimant (GMCL) on the supply (the Investment Management Services);
+(3) The claimant (GMCL) must have acquired the supply (the Investment Management Services) for consumption or use in the course of its commercial activity.
+(1) Acquisition of the Supply
+[16] Neither party’s pleadings addressed the first requirement, that the claimant must have acquired the supply. This question can be answered from the evidence at trial. PC Canada asserts that it acquired the supply, however, the evidence with respect to acquisition is somewhat weak. According to evidence at trial, the only thing PC Canada did was receive an invoice from Link for brokerage fees and the GST on the items which were imported from the USA. The remainder of the evidence reveals that:
+a) PC USA ordered the paper for the wristbands from Unisource.
+b) PC USA ordered the adhesive from Ludlow.
+c) PC USA arranged for these supplies to be shipped from the US directly to the printer, SBS in London, Ontario.
+d) PC USA was invoiced for these supplies.
+e) PC USA paid these invoices in most instances.
+Although it was suggested that there was some sort of loan or borrowing relationship between PC USA and PC Canada, it was very skimpy at best and there was no documentation or record of any nature to establish such a relationship or how this relationship operated. The director and sole shareholder of PC Canada clearly enunciated to PC Canada’s accountant, (Exhibit R-1), as to how the transactions for the supplies worked. PC Canada never laid a hand on any of the imported materials; or on any of the materials which were eventually manufactured. The manufacturing of wristbands was completed at SBS; these were then shipped directly to the ultimate buyer. Based on the evidence, it has not been established by the Appellant that it acquired the supply in question.
+(2) Payable or Paid by the Claimant
+(i) Domestic Supplies
+[17] Subsection 169(1) permits ITCs to be claimed when the GST was payable by a claimant. For domestic supplies GST is imposed by subsection 165(1) of the ETA which states that every recipient of a taxable supply must pay GST. Therefore, the person entitled to claim the ITC must be the recipient of the taxable supply.
+[18] The definition of “recipient” in subsection 123(1) of the ETA states that the recipient of a taxable supply is the person liable to pay under the agreement for the supply. While the Appellant had pleaded it was liable under the supply agreement to pay the suppliers, the Respondent in denying this allegation stated that PC USA was the recipient of such supplies, and that PC USA was liable to pay the suppliers under the various suppliers contract.
+[19] Contractual liability appears to be paramount in determining eligibility for ITCs. In Y.S.I.’s Yacht Sales International Ltd. v. R., [2007] G.S.T.C. 59 (T.C.C.), Justice Woods at paragraph 57 stated as follows:
+… A person is not a recipient under the Excise Tax Act unless they are liable to pay the consideration under the agreement.
+Also, I would note the following comment by Justice Hershfield in West Windsor Urgent Care Centre Inc. v. R., [2005] G.S.T.C. 179 (T.C.C.) at paragraph 26 when he stated in part as follows:
+The definition of “recipient” clearly establishes a hierarchy for determining the recipient of a supply of a service. Liability to pay for the supply will govern where there is consideration payable. The person who receives the supply is the recipient only where there is no consideration payable.
+[20] The question comes down to: who is liable to pay under the contract, not who actually pays. From the evidence I conclude that the liability to pay under the contract belonged to PC USA. PC USA placed the order for the supplies, paper from Unisource and glue from Ludlow; PC USA was invoiced and according to the evidence provided by the Respondent, actually paid most of the invoices. It was suggested by the Appellant that it was owed money by PC USA and this money was offset by PC USA paying the various invoices but this assertion was not consistent with the evidence presented; very little evidence was presented on this point by the Appellant. There was little, if any, documentation to substantiate this assertion. A major reason for the disallowance of the ITCs was that the audit had revealed that invoices from the suppliers were issued to PC USA as opposed to PC Canada. This evidence coupled with the testimony of the sole shareholder and director of PC Canada can certainly justify the position of CRA with regard to the real nature of the enterprise of PC Canada in terms of ITC eligibility.
+[21] I was not particularly impressed by the evidence adduced by the Appellant. Although the Appellant through its primary witness, Jefferson Sooknarine, produced a number of documents, most of these were irrelevant in establishing its position. Mr. Sooknarine on many instances was vague; his presentation and evidence was rambling and misdirected. The Appellant’s documents did not substantiate the ITC claims, notwithstanding numerous requests of the Respondent. The evidence of a witness for the Respondent, Cameron Brent Wilton, a Certified Management Accountant and auditor, was direct, concise and dealt with the specific issues before the Court. Based on the evidence presented at trial, I do not believe PC Canada was liable to pay the consideration for the domestic supplies – that liability rested with PC USA.
+(ii) Import Supplies
+[22] In dealing with imported supplies, the question is not whether the Appellant was the recipient of the supplies but rather the inquiry begins from the proposition that ITCs may be claimed by a person by whom the GST becomes payable. Section 212 of the ETA makes it clear that GST is paid on import supplies by the person who is liable to pay any import duties under the Customs Act. The focus therefore shifts to the Customs Act in determining the liability for import duties. Although the Appellant argues in its pleadings of section 32 of the Customs Act, for the proposition that either the owner or the importer of the goods may account for them and pay the required duties, section 32 of the Customs Act does not create liability to pay import duties but merely expresses the requirements for having import goods “released”. Liability for import duties is generally created by subsection 18(2) which reads as follows:
+Liability of person reporting goods short landed -- Subject to subsections (3) and 20(2.1), any person who reports goods under section 12, and any person for whom that person acts as agent or employee while so reporting, are jointly and severally or solidarily liable for all duties levied on the goods unless one or the other of them proves, within the time that may be prescribed, that the duties have been paid or that the goods
+(a) were destroyed or lost prior to report or destroyed after report but prior to receipt in a place referred to in paragraph (c) or by a person referred to in paragraph (d);
+(b) did not leave the place outside Canada from which they were to have been exported;
+(c) have been received in a customs office, sufferance warehouse, bonded warehouse or duty free shop;
+(d) have been received by a person who transports or causes to be transported within Canada goods in accordance with subsection 20(1);
+(e) have been exported; or
+(f) have been released.
+[23] Subsections 18(3) and 18(20)2.1 of the Customs Act are not relevant to this appeal. Subsection 18(2) of the Customs Act creates liability for two persons: the person who reported the goods and the person who engaged the reporter of the goods as employee or agent. The Customs Act along with the reporting of imported goods regulations seems to be rather permissive as to who may report goods to the nearest customs office.
+[24] In the case at bar, Link was used to import the goods into Canada. They paid the brokerage fees and the GST and then they invoiced PC Canada for the brokerage fees and the GST and this was apparently paid by PC Canada albeit PC Canada never had an office or location in Canada; it was paid by PC Canada out of the same address in the USA, frequently used by PC USA.
+[25] The Appellant takes the position that it is the importer of the supplies in question, because it appears as such on the declaration documents. This is an erroneous assumption. Link was simply used as a vehicle to arrange the importation of the supplies and as indicated earlier on the evidence, the supplies were in fact ordered by PC USA; shipped at the direction of PC USA; invoiced to PC USA; shipped to SBS with the finished product being shipped directly to PC USA or to others who had ordered the finished products. Almost all supplies were paid for by PC USA. On those facts alone the importer was PC USA and not PC Canada.
+[26] In answering the first two prerequisites for claiming ITCs in the negative, I need not address the third question, that is, whether the Appellant acquired the supply for consumption or use in the course of its commercial activity. I am not sure what commercial activity PC Canada was involved in, other then to have a post office box and shuffle paper from point A to point B. It did not order the supplies; it did not pay for the supplies; it did not ship the supplies; all it did was lend its name as importer on the declaration documents and pay for the brokerage fees and the GST and really, that was the end of the matter. It did some direct shipping with respect to domestic orders but these were by far the significant minority with respect to ITCs claimed. I highly question the extent of its commercial activity. Although the Appellant may have been involved in commercial activity, it certainly was not to the extent alleged by the Appellant’s primary witness, Mr. Sooknarine.
+[27] I believe the Appellant incorrectly sought these ITCs. The Respondent’s witness, Mr. Wilton, stated quite clearly that there was a method by which the ITCs could be recovered on imports but it required a different process, one not followed by the Appellant. On the whole of the evidence, I find as a fact that the Appellant was not the recipient or the importer of the supplies in question, therefore is not entitled to the ITCs claimed except what was allowed by CRA. I would suggest the Appellant discuss with CRA the method by which the ITCs can be claimed.
+[28] The appeal is dismissed with costs in favour of the Respondent.
+Signed at Ottawa, Canada, this 14th day of August, 2008.
+"E. P. Rossiter"
+Rossiter, A.C.J.
+CITATION: 2008TCC451
+COURT FILE NO.: 2007-3982(GST)I
+STYLE OF CAUSE: PRICE CHOPPER CANADA INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 10, 2008
+REASONS FOR JUDGMENT BY: The Honourable E. P. Rossiter,
+Associate Chief Justice
+DATE OF JUDGMENT: August 14, 2008
+APPEARANCES:
+Agent for the Appellant:
+Jefferson Jaiwant Sooknarine
+Counsel for the Respondent:
+Bonnie Boucher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,189 @@
+Title: Active Asset Management Inc. v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521295/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-87-521295-active-asset-management-inc-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-06-14
+
+# Active Asset Management Inc. v. The King
+
+- Citation: 2024 TCC 87
+- Decision date: 2024-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5501, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Active Asset Management Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-06-14
+Neutral citation
+2024 TCC 87
+File numbers
+2019-670(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-670(IT)G
+BETWEEN:
+ACTIVE ASSET MANAGEMENT INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on May 22, 2024, at Toronto, ON
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+Molly Martin
+Rebecca E. Potter
+Counsel for the Respondent:
+Brent E. Cuddy
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal against the assessment and various reassessments of the Appellant under s.160 of the Income Tax Act concerning the 1993 tax liability of Bakorp Management Ltd. is allowed;
+Costs are awarded provisionally according to the applicable tariff, subject to the right of the Appellant to make further written submissions within 30 days of this judgment and the Respondent’s right to respond thereto within 30 days thereafter to any such written submissions by the Appellant; such written submissions not to exceed 10 pages (excluding authorities). Provided that should no submissions be made, this provisional cost order shall become final.
+Signed at Ottawa, Ontario, this 14th day of June 2024.
+“R. S. Bocock”
+Bocock J.
+Citation: 2024 TCC 87
+Date: 20240614
+Docket: 2019-670(IT)G
+BETWEEN:
+ACTIVE ASSET MANAGEMENT INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Facts in Brief
+[1] The Appellant, Active Asset Management Inc. (“AAM”), was reassessed under subsection 160(1) of the Income Tax Act (“ITA”) on April 5, 2018 identified as control # 47123 (the “s.160 Assessment”).
+[2] As of December 31, 2004, Bakorp Inc. (“Bakorp”), the principal taxpayer, owed $11,983,406.55 taxes and penalties (the “tax liability”).
+Deemed dividends
+[3] The shareholder of Bakorp resolved on December 1, 2004, to increase the stated capital of its Class A shares by $30,041,400.07 resulting in a deemed dividend of $30,041,400.07 to AAM (the “Class A deemed dividend”). As well, Bakorp resolved December 1, 2004, to increase the stated capital of its Class B shares by $34,958,599.92, resulting in a deemed dividend of $34,958,599.92 to AAM (the “Class B deemed dividend”) (collectively the “deemed dividends”).
+Declared dividends
+[4] By director’s resolution dated December 1, 2004, Bakorp declared a dividend of $29,194.58 per share on the issued and outstanding Class A shares in its capital, resulting in a declaration of aggregate dividends of $35,850,944.67 to AAM (the “Class A declared dividends”). As well, Bakorp resolved December 1, 2004, to declare a dividend of $29,194.58 per share on the issued and outstanding Class B shares, resulting in a declaration of aggregate dividends of $41,719,055.32 to the Appellant (the “Class B declared dividends”) (collectively the “declared dividends”.
+Promissory notes
+[5] On December 1, 2004, Bakorp issued a promissory note, due upon demand, to AAM in the amount of $35,850,944.67 in respect of the Class A declared dividends (the “Class A promissory note”).
+[6] On December 1, 2004, Bakorp issued a promissory note, due upon demand, to AAM in the amount of $41,719,055.32 in respect of the Class B Declared Dividends (the “Class B promissory note”).
+[7] Bakorp has neither paid, nor has AAM ever demanded payment of the amounts owing under the Class A promissory note or the Class B promissory note (collectively the “promissory notes”).
+Tax returns reflect dividends
+[8] In filing its T2 Corporation Income Tax Return for the taxation year ending October 31, 2005, AAM reported the amount of $142,570,000 (representing the cumulative total of the Class A deemed dividend, the Class B deemed dividend, the Class A declared dividends and the Class B declared dividends) on line 250 of its return.
+Assessment raised
+[9] By issuing the s.160 Assessment, the Minister assessed AAM for its joint liability under subsection 160(1) of the ITA in the amount of $20,304,746.00.
+[10] As referenced in the s.160 Assessment, “[t]he liability under subsection 160(1) of the Income Tax Act, in the amount of $20,304,746.00, is in respect of a transfer on or about December 31, 2004 from [Bakorp] to [AAM] of assets in the form of dividends.”
+Assessment reduced after objection
+[11] After objection by AAM, the s.160 Assessment, dated April 15, 2018, was reduced. AAM’s liability under subsection 160(1) of the ITA became $11,983,407.00. The s.160 Reassessment (the “s.160 Reassessment”). provided that “[t]his reassessment provides for a decrease to the liability of the previously issued assessment bearing control #41920 issued on March 24, 2006.”
+[12] The.160 Reassessment was objected to and successfully confirmed. It is the operative s.160 Reassessment before the Court and the subject of this appeal.
+II. Issues
+The issues are clear and succinct
+[13] There are two issues before the Court. Does either:
+(1) The increase to Bakorp’s stated capital which yielded the deemed dividends; and/or,
+(2) the declaration of the declared dividends and/or the issuance of the promissory notes;
+constitute a transfer of property, such that subsection 160(1) of the ITA is engaged and thereby makes AAM liable for Bakorp’s tax liability?
+III. Section 160 Itself
+[14] Subsection 160(1) is triggered when a person transfers property to a non-arm’s length person (for which there is no consideration tendered) where the transferor is a tax debtor at the time of the transfer.[1] Subsection 160(1) applies whether or not the transferor or the transferee were aware of the tax liability at the time of the transfer.[2]
+160 (0.1) In this section … a transaction includes an arrangement or event.
+Tax liability re property transferred not at arm’s length
+Where a person has… transferred property either directly or indirectly, by means of a trust or by any other means whatever, to
+…
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply
+…
+(e) the transferee and transferor are … liable to pay under this Act an amount equal to the lesser of:
+(i) the amount… by which the fair market value of the property … exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts … the transferor is liable to pay under this Act … in respect of the taxation year in which the property was transferred or any preceding taxation year.
+[15] The components of s.160 jurisprudence provide that the following four cumulative criteria must be fulfilled in order to engage subsection 160(1) and thereby impose a transferor’s outstanding tax liability onto a transferee:
+(1) The transferor must be liable to pay a tax under the ITA at the time of transfer;
+(2) There must be a transfer of property;
+(3) The transferee must be a person with whom the transferor was not dealing at arm’s length or to an otherwise designated transferee; and,
+(4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee for the property.[3]
+[16] The only component at issue before the Court in this appeal is whether subparagraph (2) above: a transfer of property has occurred. For there to be a transfer of property for the purpose of subsection 160(1) “it is essential that the transferor be divested of his ownership and that the property [vests] in the transferee.”[4]
+Dividends generally
+[17] Generally, dividends, when declared and paid, are amounts paid to shareholders as a recognition of a return on their investment in a corporation proportionate to their shareholdings.[5] This Court in Gosselin[6] outlined the consequential effect of declaring a dividend:
+“The declaration of a dividend is essentially the allocation of a company's undistributed profits to its shareholders in proportion to the shares held by them and in accordance with the rights attached to those shares. Payment of the dividend is the act by which the dividends so allocated by the directors in their discretion, and in compliance with the principles of company law and the specific rules laid down in this regard, distribute to the shareholders the dividend allocated to each class of shares.”
+Deemed dividends specifically
+[18] Contrastingly, a deemed dividend can occur when there is not a declaration and/or a direct payment or transfer from a corporation to a shareholder. Subsection 84(1) of the ITA outlines the definition and operation of deemed dividends:
+Deemed Dividend
+84(1) Where a corporation resident in Canada has … increased the paid-up capital in respect of the shares of any particular class of its capital stock, otherwise than by
+… [not applicable]
+the corporation shall be deemed to have paid at that time a dividend on the issued shares of the particular class equal to the amount, if any, by which the amount of the increase in the paid-up capital exceeds the total of
+(d) the amount, if any, of the increase referred to in subparagraph 84(1)(b)(i) or the decrease referred to in subparagraph 84(1)(b)(ii), as the case may be,
+(e) the amount, if any, of the reduction referred to in paragraph 84(1)(c), and
+(f) the amount, if any, of the increase in the paid-up capital that resulted from a conversion referred to in paragraph 84(1)(c.1), (c.2) or (c.3),
+and a dividend shall be deemed to have been received at that time by each person who held any of the issued shares of the particular class immediately after that time equal to that proportion of the dividend so deemed to have been paid by the corporation that the number of the shares of the particular class held by the person immediately after that time is of the number of the issued shares of that class outstanding immediately after that time. [my emphasis]
+[19] For the purposes of income inclusion under the ITA, if a corporation increases the paid-up capital of a particular class of shares, the corporation will be deemed to have paid the shareholders of that particular class of shares a dividend. Correspondingly, the shareholders of that particular class of shares will be deemed to have received a dividend from the corporation.
+[20] This Court in McClarty Family Trust[7] outlined the purpose of deemed dividends pursuant to section 84 of the ITA:
+“The purpose of section 84 of the ITA, in general terms, is to deem certain events that are not payments of dividends in corporate law to be payments of dividends for tax purposes”[8]
+[21] Subsection 84(1) operates to render the tax treatment of dividends and deemed dividends identically. Provided the conditions under subsection 84(1) are met, namely an increase in the paid-up capital of a class of shares, a corporation will be deemed to have paid, and a shareholder will be deemed to have received a dividend for tax purposes.
+[22] A dividend which is declared and paid constitutes an actual transfer of property from a corporation to a shareholder in recognition of the shareholder’s contribution to the corporation and ownership of shares, whereas a deemed dividend is a recognition of an increase in value of a shareholder’s ownership of shares. However, subsection 84(1) operates to impose the same income and tax treatment on these otherwise distinct factual situations.
+IV. Analysis
+[23] Both counsel agree that the sole issue before the Court is whether there was a transfer of property from Bakorp to AAM. This pre-condition of transfer will determine whether s.160 applies to either of the deemed dividends or the declared dividends.
+(a) The deemed dividends [24] For a transfer of property to have occurred within the ambit of s.160, the parties also agree an enrichment need be conferred on the recipient and a concordant impoverishment settled upon the grantor.[9]
+[25] In submissions, the Court asked Respondent’s counsel to identify the enrichment and impoverishment in the context of the deemed dividends. Respondent’s counsel contends that AAM’s (qua shareholder’s) receipt of the appreciation of its stated capital value ascribable to the deemed dividends in an enrichment. Bakorp was impoverished because “funds” reflecting such enrichment were no longer available to Bakorp for other purposes.
+[26] The Court disagrees. The deemed dividends burdened no impoverishment. Bakorp paid no funds whatsoever, it incurred no liability and it reflected no transfer. It simply took its recorded retained earnings and re-characterized them as appreciated stated capital to the lawful owner: the shareholder of record.
+[27] Regarding enrichment, the Court finds the change as non-tangible as it did the impoverishment. AAM has the same number of shares, it simply has a revised stated (or recorded) value. Notionally, AAM can now say its shares reflect a different stated value, but not a penny has been received by it as a consequence of the deemed dividend.
+[28] As importantly, the mischief targeted by s.160 , avoidance of payment of a tax debt to the Crown, has also not occurred. The “funds” available to Bakorp have not changed in the slightest. Its bank account, working capital, other assets and reserves have not been depleted in any way by the increase to stated capital or declaration of the deemed dividend.
+[29] For these reasons, s.160 does not apply to the deemed dividends because their accrual to AAM is not a transfer of property under s.160 of the ITA.
+(b) The declared dividends [30] The Respondent asserts that the payment of declared dividends is a transfer of property “based upon the authorities”. It is easily envisaged that a corporation may use declared dividends to divest its assets and avoid paying its tax otherwise owing.[10] Because there is no consideration tendered by AAM for such declared dividends, receipt of the declared dividends may attract applicability of s.160.[11]
+[31] Further, the Respondent, distinctly from the deemed dividends submissions, identifies further evidence of transfer of property. Counsel identifies three circumstantial hallmarks of a transfer:
+(i) the delivery of the promissory notes payable on demand which demand may be asserted on the date of making; (ii) the recording of the declared dividend as taxable and payment of the tax by AAM; and, (iii) the assumption by Bakorp of the obligation reflected by the promissory notes. [32] When pressed, counsel said the promissory notes, together with the recordal and assumption of the debt by Bakorp evidenced by the promissory notes, constitute a transfer of property because AAM was enriched and Bakorp was impoverished by virtue of these “circumstances”.
+[33] Logic demolishes these notions of a transfer of property. The promissory notes are evidence of debt. Their very existence belies that any payment of cash or transfer of assets in kind (securities, bonds or even shares) occurred. Subsequent payments, once made, factually denote transfers of property. The fact that the promissory notes exist is emblematic that no such payment or transfer of property has been made. Similarly, the promissory note is not payable until demand is made. Demand has not been made. Even then, upon such demand and presentment being made, no transfer would occur until payment, in cash or in kind, actually occurs.
+[34] The accrual and payment of the declared dividend for tax purposes is just that, a requirement under the ITA to record and include the dividend in income, irrespective and despite no corresponding, but anticipated, transfer of property (payment) having been made.
+[35] Lastly, no funds, resources or assets of Bakorp concerning the declared dividends or promissory notes enriched AAM or were foreborn by Bakorp to impoverish it. It has recorded a contingent liability, becoming due and payable upon demand. This final point goes to the heart of the s.160 targeted mischief. Where and how has Bakorp transferred, dissipated or surrendered control of its assets, funds or property to circumvent the payment of its tax liability.[12] It has not in any way done so. No assets or funds of Bakorp, consequentially arising from the declaration of the declared dividends or making of the promissory notes, reside with AAM.
+[36] At some point in the future perhaps, and upon demand by AAM under the promissory notes and payment to it, a transfer of property may occur. Speculatively, such an event would, factually at least, constitute a transfer of property. At best, and until then, the Minister’s assessment of AAM under s.160 is premature.
+V. Conclusions
+[37] The appeal is allowed. All section consequential 160 assessments and reassessments against AAM are vacated.
+[38] Costs are awarded to AAM subject to further rights of submissions contained in the actual signed judgment. The Appellant shall provide its written submissions within 30 days, not to exceed 10 pages. The Respondent shall have a further 30 days for any responding submissions.
+Signed at Ottawa, Ontario, this 14th day of June 2024.
+“R. S. Bocock”
+Bocock J.
+CITATION:
+2024 TCC 87
+COURT FILE NO.:
+2019-670(IT)G
+STYLE OF CAUSE:
+ACTIVE ASSET MANAGEMENT INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 22, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+June 14, 2024
+APPEARANCES:
+For the Appellant:
+Molly Martin
+Rebecca E. Potter
+Counsel for the Respondent:
+Brent E. Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Molly Martin
+Rebecca E. Potter N/A
+Firm:
+Thorsteinssons LLPN/A
+For the Respondent:
+Brent E. Cuddy Deputy Attorney General of Canada Ottawa, Canada
+[1] Eyeball Networks Inc. v Her Majesty the Queen 2021 FCA 17 at para 2 [Eyeball]; Livingstone v Canada 2008 FCA 89 at para 9 [Livingstone]
+[2] Livingstone ibid at para 24
+[3] Livingstone ibid at para 17
+[4] Tetrault v HMQ 2004 TCC 332 at para 39 [Tetrault]
+[5] Neuman v MNR [1998] 1 SCR 770 at para 64 [Neuman]
+[6] Gosselin v HMQ [1997] 2 CTC 2830, 1996 CanLII 21633 (TCC) [Gosselin]
+[7] McClarty Family Trust v HMQ 2012 TCC 80 [McClarty]
+[8] Ibid at para 59
+[9] Algoa Trust v. HMQ, [1993] ICTC 2994 [Algoa Trust] at pg. 230, Watts v. HMK, 2023 TCC 11 at para 64.
+[10] Addison & Leyen Ltd. v. HMQ [2006] FCJ No. 489 at paras 57 – 60.
+[11] ibid, at para 60 specifically, as cited with approval in R v. Gilbert 2007 FCA 136 at paras 15 – 16.
+[12] Algoa, supra at para 2305

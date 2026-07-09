@@ -1,0 +1,463 @@
+Title: Jayco, Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/306562/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-34-306562-jayco-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-02-16
+
+# Jayco, Inc. v. The Queen
+
+- Citation: 2018 TCC 34
+- Decision date: 2018-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7214, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jayco, Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-02-16
+Neutral citation
+2018 TCC 34
+File numbers
+2015-3545(GST)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-3545(GST)G
+BETWEEN:
+JAYCO, INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 16, 17, 18 and 19, 2017,
+at Vancouver, British Columbia.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Jonathan Ip
+David Douglas Robertson
+Counsel for the Respondent:
+Donna Tomljanovic
+JUDGMENT
+The appeal from assessments made under the Excise Tax Act dated March 26, 2012, for the periods April 1 through December 31, 2007; January 1 through December 31, 2008; and January 1 through December 31, 2009 is allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+The appellant was not required to charge and collect the GST/HST in respect of its supplies of recreational vehicles to Canadian dealers during the periods under appeal;
+All other aspects of the assessments will remain unchanged;
+With costs in favour of the appellant.
+Signed at Ottawa, Canada, this 16th day of February 2018.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2018 TCC 34
+Date: 20180216
+Docket: 2015-3545(GST)G
+BETWEEN:
+JAYCO, INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+I. INTRODUCTION [1] The appellant Jayco, Inc. (“Jayco”) appeals from notices of assessment issued by the Minister of National Revenue (“Minister”), which assessed Jayco for GST/HST owing under the Excise Tax Act[1] (the “ETA”) on sales of recreational vehicles (“RVs”) and of parts shipped from the United States to Canadian dealers from April 1, 2007 to December 31, 2009.
+[2] As a result of the assessments, Jayco was assessed $14,178,034.81 composed of the uncollected GST/HST on sales of the RVs and the freight transportation service and the uncollected provincial component of the HST with respect to the parts. An additional $589,149.38 in interest was assessed against Jayco. Jayco subsequently remitted $50,000 plus interest on that amount with respect to certain itemized adjustments contained in the assessment which it no longer disputed. As a result, the total amount under dispute in this appeal is $14,717,184.19.
+[3] Jayco’s argues that the RVs and the parts “were delivered or made available outside Canada” pursuant to paragraph 142(2)(a) of the ETA. Therefore, it did not have to collect and remit the GST/HST on the RVs. In addition, since the parts were not taxable supplies having also been delivered outside Canada, Jayco did not have to collect the provincial component of the HST on them.
+[4] The respondent argues that the RVs and the parts were “delivered or made available in Canada” pursuant to paragraph 142(1)(a) of the ETA. Accordingly, Jayco should have collected and remitted the GST/HST on the RVs and on the parts.
+[5] For the following reasons, I have decided that the RVs were delivered or made available outside Canada, at Jayco business’ premises in the USA, therefore the RVs do not constitute taxable supplies.
+[6] For the parts, I have decided that the parts were delivered or made available in Canada, therefore the parts do constitute taxable supplies.
+II. FACTS A. RVs [7] Jayco called three witnesses:
+- Mr. John Wolf, an executive vice president and the chief financial officer of Jayco. Mr. Wolf works at Jayco’s Head Office in Middlebury, Indiana;
+- Mr. Dale Wesley Howe, the sole shareholder and president of Traveland Leisure Vehicles Inc. (“Traveland Vehicles”), a RV Dealership in Langley, British Columbia and a Jayco authorized dealer since 1995;
+- Mr. Paul D. Borghesani, a lawyer and member of the Indiana State bar. Mr. Borghesani testified as an expert witness on the law of Sale of Goods in Indiana.
+[8] The respondent called one witness: Ms. Janice Cohoe. She is a large file auditor with the Canada Revenue Agency (“CRA”) and the auditor in charge of Jayco’s audit. She is a Certified Professional Accountant.
+[9] Jayco is incorporated pursuant to the laws of the State of Indiana. Its Head Office and principal place of business are in Middlebury, Indiana. It has an additional manufacturing facility in Idaho, USA.
+[10] Jayco’s business consists of manufacturing and selling various models of RVs and parts to dealers located throughout the USA and Canada.
+[11] During the periods under appeal, most of Jayco’s sales were made to dealers located in the USA.
+[12] During the periods under appeal, Jayco was registered for GST/HST purposes.
+[13] To become an authorized dealer, Jayco required an applicant to complete a “Dealer Application Form”[2] and be approved by it.
+[14] Once approved, the dealer had to enter into a “Dealership Sales and Service Agreement”[3] with Jayco.
+[15] Once the Dealership Sales and Service Agreement was executed by Jayco and the dealer, the latter became an authorized dealer of Jayco. The dealer was then able to sell RVs and parts manufactured by Jayco to its customers.
+[16] The Dealership Sales and Service Agreement was governed by the law of the State of Indiana.
+[17] Authorized dealers ordered RVs from Jayco using its “Price Sheet and Order Form” (the “Order Form”).[4]
+[18] The Order Form allowed the dealer to choose one of two options for shipment of the RV, namely the “Dealer pick up” option (“DPU”) or the “Other Transportation” option (“OT”).
+[19] Under the DPU method of shipping, the dealer was responsible for picking up the RV at one of Jayco’s business locations in the USA or for arranging the delivery of the RV by a common carrier.
+[20] Under the OT method of shipping, Jayco arranged to have a common carrier transport the RV from the USA to the dealer whether in the USA or in Canada.
+[21] On the Order Form, the selling price for the RV was in US dollars and the price of the RV did not include freight transportation charges.
+[22] Once an order was accepted by Jayco, it would send an Acknowledgement Order Number Form to the dealer.[5] If the dealer had indicated a method of shipment on the Order Form, it was mentioned in the Acknowledgement Number Order Form. The Acknowledgment Number Order Form contained the same information regardless of whether the DPU or the OT option had been chosen.
+[23] Dealers paid for the RVs with financing obtained from inventory financing companies. To facilitate financing for the dealers, Jayco entered into agreements, referred to as manufacturer’s financing agreements (“MFA”)[6], with inventory financing companies, including Transamerica Financing Corporation and GE Commercial Distribution Finance Corporation.
+[24] Prior to the completion of an RV, Jayco would send a notice to the dealer’s inventory financing company to seek approval and confirmation that the financing company would pay Jayco, on behalf of the dealer, for the RV.[7]
+[25] If the inventory financing company approved Jayco’s request, it would issue an approval number to Jayco confirming that it would advance funds to Jayco as payment for the RV upon the issuance of an invoice by Jayco to the financing company. The approval number of the financing company had to be on the invoice.[8]
+[26] Jayco Enterprise Transportation Inc. (“JET”) was a freight transportation company and a wholly-owned subsidiary of Jayco. Mr. Wolf testified that once the RV was manufactured and if the OT option had been chosen, the RV was transferred to JET’s OT lot for shipping purposes. On the other hand, if the DPU method of shipping was chosen by the dealer, once manufactured the RV was transferred to the DPU lot. JET leased the OT lot from Jayco.
+[27] According to Mr. Wolf, only employees of JET had access to the DPU and the OT lots.
+[28] JET’s primary role was to act as the common carrier of first instance for Jayco in arranging the shipment of products released to it by Jayco to dealers throughout the USA and Canada. Mr. Wolf testified that at times, JET hired other common carriers to transport Jayco’s products. JET also provided freight transportation services to third parties.
+[29] Therefore, once a dealer’s inventory financing company confirmed that it would pay for an RV and the manufacturing of the RV was completed and it was ready for shipment, regardless of the shipping option chosen by the dealer, DPU or OT, Jayco would:
+a) prepare and issue an invoice to the inventory financing company of the dealer;[9]
+b) move the RV either directly from its production line or from its finishing goods inventory lot, to the DPU lot or the OT lot, both under the supervision of JET, for shipping purposes;
+c) notify the dealer that the RV was ready for shipment by sending electronically a “Dealer Ready to Ship Advisory”.[10] On this form, Jayco wrote “that the above unit(s) are now ready to ship. They have been released for shipment”.
+[30] With respect to the invoices prepared and issued to a dealer’s inventory financing company:
+a) regardless of whether the DPU or the OT option had been chosen by a Canadian dealer, the invoices were “BILLED TO” the dealer’s inventory financing company and under “SHIPPED TO” the destination address indicated was the address of the dealer in Canada;
+b) if the dealer chose the DPU method of shipping, the invoice issued by Jayco for the RV was the sale price of the RV in US dollars;
+c) if the dealer chose the OT option of shipping, the invoice issued by Jayco for the RV included the sale price of the RV in US dollars and the freight transportation service costs also in US dollars. These latter costs were indicated separately from the price of the RV.
+[31] Mr. Wolf described the transportation charge on several occasions as “pass-through” fees, which he said were intended purely to offset the expenses to Jayco. He characterized Jayco’s approach as follows:[11]
+Our company had always taken the position that our primary or core business was the manufacture and sale of recreational vehicles and parts. We were not in the business of making money on freight. It was simply convenience to our dealers. It was simpler for us administratively just do to straight pass through.
+[32] Mr. Wolf testified that it was Jayco that determined the cost of the freight transportation service, since at the time of the invoice it did not know exactly how much JET would be charging Jayco. He stated that there were essentially three elements to the freight transportation charge: a base shipping charge (the “destination charge”), a fuel surcharge, and a Canadian Surcharge.
+[33] Mr. Wolf explained that the base destination charge was based on mileage and each zone had a fixed rate. The fuel surcharge was based on the national diesel fuel average price as reported on the eia.gov website on a weekly basis. The Canadian Surcharge was a rate per mile negotiated by JET and the drivers. In addition, drivers were paid their out of pocket expenses.
+[34] Mr. Wolf stated that Jayco attempted to recover from the dealers all the freight costs that it paid to JET. That said, this was not always possible on individual sales. Therefore, Jayco could only attempt to achieve a pass-through system on a company-wide basis. Mr. Wolf testified that Jayco did not make a profit on the freight transportation service. He indicated that the reason why the freight transportation service was on the Jayco invoice and not on a JET invoice was to allow the dealer to finance these costs via the dealer’s inventory financing company. The freight costs were high and this was a way of assisting the dealers.
+[35] Mr. Wolf also testified that the dealers remained free to provide additional instructions to Jayco regarding the transportation arrangements. He described the range of these instructions as follows:[12]
+There would be situations where - not related to this type of product series, but on some of our smaller trailers that we produce, should a dealer order, for example, our fold-down camping trailer series, it’s possible that we can deliver up to six of those units on a single, we call them “decker”, which is a trailer, much like automobiles are delivered. So, if a dealer places an order, obviously it reduces the shipping cost per unit, if we’re able to consolidate loads like that. We also produce other small travel trailers, some only 12 - 14 feet long. There are two other ways those might be shipped to our dealer. One method is what we call “Low boys”, where we have a long, flatbed trailer, that depending on the length of the trailer that the dealer has ordered, we can ship two or three. So that the dealer can request multiple orders be shipped in that method. They could also suggest in the event they had an immediate need for a trailer that could have been delivered with another unit or two on a lowboy, if they need it immediately they could request it be shipped what we call “single pull” or by a pickup truck. So, and then the third and final option, there were a few carriers that had a truck with a shorter flatbed with a hitch on the back. So essentially a dealer could request, in that case up to two units delivered at the same time. One on the flatbed, the other one towed.
+[36] Mr. Wolf also testified that Jayco was acting on behalf of the Canadian dealer when arranging the delivery of an RV. He testified that once the RV was turned over to the common carrier, the ownership of the RV was transferred to the owner.
+[37] Mr. Howe, the Canadian dealer, confirmed the testimony of Mr. Wolf. He stated that in arranging delivery with JET, Jayco was acting on behalf of his dealership, Traveland Vehicles. He also stated that Traveland Vehicles became the owner of the RV at the time it was turned over to JET, since at that time Traveland Vehicles became liable to pay for the RV. He also stated that he was the importer of record for the RV.
+[38] For Canada customs purposes, each RV that was shipped to Canada was accompanied by an original certificate of origin,[13] a Canada Customs invoice,[14] a copy of the original invoice,[15] a Jayco ready-to-ship-advice[16] and a bill of lading,[17] regardless of whether the DPU option or the OT option of shipping had been chosen by the dealer.
+[39] The certificate of origin that accompanied the RV was always dated on or before the date the RV was picked up by the common carrier for shipment to the dealer.
+[40] The ready-to-ship-advice was prepared by Jayco when the RV was transferred to the carrier to be shipped to Canada. It was signed by the carrier’s driver at the time the carrier took possession of the RV. The point of dispatch on the ready-to-ship-advice was USA.
+[41] Mr. Wolf also reviewed a sample Canada Customs Invoice.[18] Under the Conditions of Sale and Term of payments, it was indicated “USA”.
+[42] For Mr. Wolf, these were all indications that the delivery of the RV took place at the business premises of Jayco in the USA.
+[43] Since the Canadian dealers acted as importer on record, they paid the GST on the importation of the RV to Canada Customs at the time of importation into Canada.
+[44] Mr. Wolf was asked whether Jayco had any discussions with its Canadian authorized dealers regarding the time and place of legal delivery on sales of RVs. Mr. Wolf confirmed that, during the period in issue, no such discussions had occurred.[19] Mr. Wolf stated that the same method was followed for USA shipments and Canadian shipments. Once the RV was transferred to JET’s OT lot, the dealer became the owner of the RV and if damages occurred during the transportation, the dealer had to deal with the common carrier and not Jayco.
+[45] Mr. Wolfe stated that Jayco did not collect the GST/HST on the RVs sold to Canadian dealers during the period under litigation, regardless of the shipment option used, namely DPU or OT.
+[46] The Minister did not assess Jayco with respect to the supply of RVs made using the DPU method of shipping. The Minister’s position is that the RVs purchased by Canadian dealers and shipped using the DPU method were delivered outside of Canada and did not constitute taxable supplies. In issue, therefore, are only the supply of RVs made by Jayco where the OT method of shipping was used by the Canadian dealers.
+B. Parts [47] According to paragraphs 20s) and t) of the Reply to Notice of Appeal, the Minister, in assessing Jayco on the sales of parts, relied upon the following assumptions of fact:
+s) In the period of April 1, 2007 through December 31, 2009, Jayco did not collect the GST/HST in respect of the sales of RVs or parts it arranged to deliver to Canadian customers.
+t) In the period of April 1, 2007 through December 31, 2009, the Canadian customer acted as the importer of record for the RVs or parts imported into Canada and paid tax under the Division III of Part IX of the ETA (Tax on Importations of Goods).
+[48] The evidence has established that these two assumptions are incorrect. Contrary to paragraph 20s), it is clear from the testimony of Mr. Wolf and the documents submitted in evidence that when the OT option was chosen, the GST was collected and remitted by Jayco with respect to parts. However, the provincial component of the HST was not collected on parts shipped to a Canadian dealer located in an HST participating province. In addition, the GST/HST was not collected by Jayco on the freight transportation service relating to the parts.
+[49] Contrary to paragraph 20t), during the period of April 1, 2007 through December 31, 2009, the Canadian dealers were not the importers of record with respect to the parts. Jayco was.
+[50] That said, there are some similarities between the RVs and the parts. For example, the Canadian dealers could choose the DPU method of shipment and pick up the parts at one of Jayco’s facilities in the USA or the dealers could choose the OT method of shipping and have Jayco arrange their shipment to Canada.
+[51] During the periods under litigation, Jayco stated that it retained Frontier Supply Chain Solutions (“Frontier”) exclusively to assist it in shipping parts. Frontier is a customs broker and logistics firm.
+[52] Orders for parts from Canadian dealers were processed by Jayco’s parts department in Middlebury, Indiana. Once an order was received, the department would select, pack, label and address the requested part(s). Jayco then consolidated all the parts’ orders bound for Canada. Daily, Frontier would arrange for a carrier, namely, Alvin Motor Freight Inc., to pick up the consolidated orders at Jayco’s premises in Middlebury and ship them to Frontier’s facility in Bensenville, Illinois.
+[53] At its facility in Bensenville, Illinois, Frontier further consolidated the parts’ orders into one master load. Then nightly Alvin Motor Freight Inc. transported the load from Frontier’s Bensenville facility to Frontier’s facility in Winnipeg, Manitoba with one bill of lading for the entire shipment. Jayco was the importer of record.
+[54] Once in Winnipeg, Frontier separated the consolidated shipment into orders bound for eastern Canada and those bound for the western Canada. Frontier then contracted with third party carriers to deliver them to the dealers.
+[55] Frontier then invoiced Jayco for freight services, customs duties, and the GST it had paid on Jayco’s behalf to Canada Customs.
+[56] In turn, Jayco invoiced the Canadian dealers for the parts, the GST and the freight costs without any mark up for the freight costs. In filing its GST returns, Jayco reported the GST and claimed input tax credits (“ITCs”).
+[57] Relying on the advice of Frontier, Jayco only collected from the dealers the GST charged to it by Frontier. Therefore, the provincial component of HST was not collected by Jayco. Nor did Jayco collect the GST/HST on freight transportation services since Frontier did not collect them.
+[58] Jayco’s position is that it was not required to collect the GST on parts since the parts were delivered or made available outside Canada pursuant to paragraph 142(2)(a) of the ETA. Jayco submits that the GST it paid on the parts was paid in error. It follows that Jayco did not have to collect and remit the provincial component of the HST on parts.
+[59] In addition, Jayco argues that the parts and the freight transportation services are multiple supplies. The freight transportation of tangible personal property is zero rated, pursuant to section 8 of Schedule V1, Part VII of the ETA. Therefore, Jayco submits that it was not obliged to collect GST/HST on the freight transportation services.
+[60] The respondent took the same position as she did for the RVs. She argued that in light of the contractual relationship, express or implied, between Jayco and the Canadian dealers, Jayco agreed to deliver the parts to the Canadian dealers at their business’ premises in Canada. In addition, she stated that Jayco was not acting on behalf of the Canadian dealers in arranging the delivery of the parts. In addition, Frontier was not acting on behalf of the Canadian dealers, since it is clear from the evidence that Frontier acted as the agent of Jayco. The contractual relationship was between Frontier and Jayco and not Frontier and the Canadian dealers.
+III. PRELIMINARY ISSUES [61] Before addressing the issues under appeal, I first have to deal with two procedural objections: one raised by Jayco and the other by the respondent.
+[62] Jayco argues that I cannot entertain the respondent’s argument that JET is not a separate corporate entity but rather an extension of Jayco since this issue was not raised in her Reply to Notice of Appeal. In order to do so, I would have to pierce the corporate veil.
+[63] I agree with Jayco. Since the issue was not raised in the respondent’s pleading and the respondent did not ask to amend her Reply, I will not entertain it.
+[64] For her part, the respondent argues that the issue of whether the freight transportation service was a taxable supply or not and whether it constituted a single supply or multiple supplies, could not be raised before me.
+[65] In her written submissions filed on February 2, 2018, the respondent points out that although Jayco raised the issue at trial, it had failed to do so in its Notice of Appeal.
+[66] I agree with the respondent. Since Jayco did not raise the issue in its Notice of Appeal, it was not entitled to do so at trial.
+[67] Although this is sufficient to dispose of this objection, there is a further reason for supporting the respondent’s objection. The respondent pointed out that since Jayco was a specified person pursuant to subsections 301(b) and 301(1.2) of the ETA, it could not have raised the issue of the taxability of the freight transportation service in its Notice of Appeal pursuant to paragraph 306.1(1) of the ETA, since the issue was not raised its Notice of Objection.
+[68] In light of the amounts in issue, it is clear that Jayco was a specified person under subsections 301(b) and 301(1.2) of the ETA. Under paragraph 306.1(1)(a) of the ETA, a specified person is not allowed to raise an issue in its Notice of Appeal, unless the issue was first raised in its Notice of Objection. Here, Jayco had not raised the issue of the taxability of freight transportation service in its Notice of Objection.
+IV. ISSUES [69] Therefore, the issues in this appeal are:
+- was Jayco required to collect and remit the GST/HST on the RVs it sold to Canadian dealers when the OT option method of shipping was chosen by the dealers?
+- was Jayco required to collect and remit the provincial component of the HST on the parts shipped from the USA to Canada?
+V. APPELLANT’S POSITION [70] Jayco submits that the RVs and the parts were “delivered or made available outside Canada” to the Canadian dealers pursuant to paragraph 142(2)(a) of the ETA. Neither the RVs nor the parts were taxable supplies. Jayco submits that it did not have to collect and remit the GST/HST on these supplies. In addition, Jayco submits that it was acting on behalf of the Canadian dealers when arranging delivery of the goods to Canada.
+[71] Jayco argues that the RVs and parts were delivered and made available to the Canadian dealers at its manufacturing facilities in Indiana and Idaho when the products were turned over to the common carrier, JET with respect to the RVs and Frontier with respect to the parts.
+[72] Jayco submits that its position is confirmed by the testimonies of Mr. Wolf and Mr. Howe and the documentary evidence. Jayco argues that there was an implicit agreement between Jayco and the Canadian dealers that the delivery of the RVs and the parts took place outside Canada at Jayco’s business premises in the USA.
+[73] Jayco also argues that if the contractual relationship between Jayco and the Canadian dealers is not sufficient to allow me to determine where the delivery occurred with respect to the RVs and the parts, I have to apply the provisions dealing with the sale of goods in Indiana, namely the Uniform Commercial Code‑Sales Chapter 26 (“IC-26-1-2”). This legislation is similar to the Sale of Goods legislation in effect in Ontario, British Columbia and Alberta. Jayco submits that under the provisions of the IC-26-1-2, delivery occurred at the place of business of Jayco in the USA.
+VI. RESPONDENT’S POSITION [74] The respondent’s position is that the RVs and the parts were delivered or made available in Canada pursuant to paragraph 142(1)(a) of the ETA. Therefore, the supplies are taxable. She argues that the evidence supports a contractual relationship between the Canadian dealers and Jayco, whereby Jayco agreed to deliver, in Canada, the RVs and parts it sold to the Canadian dealers. She argued that this relationship may be inferred, either from the documents or from the course of conduct of Jayco and the Canadian dealers. She submits that the documents between Jayco and the Canadian dealers created an expectation on the part of the Canadian dealers that the RVs would be delivered to Canada.
+[75] The respondent argued that for the Canadian dealers, it did not matter if the RVs were delivered by Jayco or JET, as long as the RVs were delivered to their business’s premises in Canada. In any event, she argued that JET acted as an agent of Jayco and not as agent of the Canadian dealers, when delivering the RVs to the Canadian dealers.
+[76] The respondent submitted that Jayco could not have been acting as an agent on behalf of the Canadian dealers when arranging the transportation with JET for delivery in Canada, since under the general provisions of the Dealership Sales and Services Agreement, Jayco could not act as agent for the dealers.
+VII. ANALYSIS A. Was Jayco required to collect and remit the GST/HST on the RVs it sold to Canadian dealers when the OT option method of shipping was chosen by the dealers? [77] This issue turns on whether paragraph 142(1)(a) or 142(2)(a) of the ETA applies.
+[78] Paragraph 142(1)(a) of the ETA provides that in the context of the sale of tangible personal property, a supply is deemed to be made in Canada, and thus subject to the GST/HST, if the property is delivered, or made available to the recipient of the supply, in Canada. Paragraph 142(1)(a) reads as follows:
+142(1) For the purposes of this Part, subject to sections 143, 144 and 179, a supply shall be deemed to be made in Canada, if
+(a) in the case of a supply by way of sale of tangible personal property, the property is, or is to be, delivered or made available in Canada to the recipient of the supply;
+[79] Conversely, paragraph 142(2)(a) of the ETA provides that the supply of tangible personal property by way of sale is deemed to be made outside Canada if the property is delivered or made available outside Canada to the recipient of the supply. Paragraph 142(2)(a) reads as follows:
+142(2) For the purposes of this Part, a supply shall be deemed to be made outside Canada if
+(a) in the case of a supply by way of sale of tangible personal property, the property is, or is to be, delivered or made available outside Canada to the recipient of the supply;
+[80] The ETA does not define the meaning of the phrase “delivered or made available” which is used in both paragraphs 142(1)(a) and 142(2)(a) of the ETA. However, in light of the jurisprudence the words “delivered or made available” is to be interpreted in the same manner as the concept of “delivery” in the sale of goods legislation.[20] The meaning of “delivery” is well established under such legislation.[21]
+[81] In its GST/HST Memorandum,[22] the CRA has adopted this jurisprudence and indicated that the phrase, “delivered or made available” in Canada or outside Canada used in paragraphs 142(1)(a) and 142(2)(a), is to be given the same meaning as that assigned to the concept of “delivery” in sale of goods legislation. The memorandum states as follows:
+7. For purposes of paragraph 142(1)(a) and 142(2)(a) which deems supplies of tangible personal property by way of sale to be made in Canada or outside Canada, the phrase “delivered or made available” has the same meaning as that assigned to the concept of “delivery” under the law of the sale of goods, as follows:
+• “Delivered” refers to those situations where delivery of the tangible personal property under the applicable law of the sale of goods is effected by actual delivery.
+• “Made Available” refers to those situations where delivery of the tangible personal property under the applicable law of the sale of goods is effected by constructive delivery (i.e., actual physical possession of the tangible personal property is not transferred to the recipient of the supply yet is recognized as having been intended by the parties and as sufficient in law). For example, situations arise when a person sells tangible personal property to another person and agrees to hold the property as bailee for the buyer.
+8. In any given case, the place where the tangible personal property is delivered or made available may be determined by reference to the place where the tangible personal property is considered to have been delivered under the law of the sale of goods applicable in that case.
+9. Generally, the place where tangible personal property is delivered or made available can be determined by reference to the terms of the contract.
+10. In common law provinces, the law of the sale of goods is primarily contained in the appropriate Sale of Goods Act. In the province of Quebec, the obligation of the seller to deliver tangible personal property to the buyer is contained in the Civil Code rather than in a Sale of Good Act.
+11. In those cases where the contract between the parties is governed by the United Nations Convention on Contract for the International Sale of Goods (Convention), the place where the tangible personal property is delivered or made available will have to be determined in accordance with the rules relating to delivery contained in the Convention rather than in accordance with the domestic law of any province.
+[Underlining added.]
+[82] The Dealership Sales and Service Agreement provides that relationship between Jayco and authorized dealers is to be governed by the laws of the State of Indiana.[23] Therefore, regard must be had to the law of that jurisdiction.
+[83] As foreign law is a matter of fact to be proved at trial through a qualified witness, Jayco called as a witness Mr. Borghenasi to explain the provisions of IC 26-1-2 and how they applied to the transactions in this appeal.
+[84] Mr. Borghenasi referred to the following provisions of IC 26-1-2, that he stated were relevant.
+[85] Under subsection 201.(14) of IC-26-1-2, delivery is defined as:
+201.(14) – “Delivery” means the following:
+(A) With respect to an electronic document of title, voluntary transfer of control;
+(B) With respect to instruments, tangible documents of title, chattel paper, or certificated securities, voluntary transfer of possession.
+[86] Under section 301 of IC 26-1-2, the general obligations of the parties in a sales transaction are set out:
+General Obligation-Sec. 301. The obligation of the seller is to transfer and deliver and that of the buyer is to accept and pay in accordance with the contract.
+[87] Subsection 308(a) of IC 26-1-2 provides that in the sale of goods, the place of delivery is the seller’s place of business, unless otherwise agreed:
+Absence of specified place for delivery- Sec 308. Unless otherwise agreed:
+(a) The place for delivery of goods is the seller’s place of business or if he has none his residence; but
+(b) In a contract for sale of identified goods which to the knowledge of the parties at the time of contracting are in some other place, that place is the place for their delivery; and . . .
+[88] Section 503 of IC 26-1-2 sets out the rules respecting tender of delivery:
+Manner of seller’s tender of delivery-Sec. 503 (1) Tender of delivery requires that the seller put and hold conforming goods at the buyer’s disposition and give the buyer any notification reasonably necessary to enable him to take delivery. The manner, time and place for tender are determined by the agreement and IC 26-1-2, and in particular:
+(a) tender must be at a reasonable hour, and if it is of goods they must be kept available for the period reasonably necessary to enable the buyer to take possession; but
+(b) unless otherwise agreed, the buyer must furnish facilities reasonably suited to the receipt of the goods.
+(2) Where the case is within IC 26-1-2-504 respecting shipment, tender requires that the seller comply with its provisions.
+(3) Where the seller is required to deliver at a particular destination, tender requires that he comply with subsection (1) and also in any appropriate case tender documents as described in subsections (4) and (5).
+(4) Where goods are in the possession of a bailee and are to be delivered without being moved:
+(a) tender requires that the seller either tender a negotiable document of title covering such goods or procure acknowledgement by the bailee of the buyer’s right to possession of the goods; but
+(b) tender to the buyer of a nonnegotiable document of title or of a record directing the bailee to deliver is sufficient tender unless the buyer seasonably objects, and except as otherwise provided in IC 26-1-9.1, receipt by the bailee of notification of the buyer’s rights fixes those rights as against the bailee and all third persons; but risk of loss of the goods and of any failure by the bailee to honor the nonnegotiable document of title or to obey the direction remains on the seller until the buyer has had a reasonable time to present the document or direction, and a refusal by the bailee to honor the document or to obey the direction defeats the tender.
+(5) Where the contract requires the seller to deliver documents:
+(a) he must tender all such documents in correct form, except as provided in IC 26-1-2-323(2) with respect to bills of lading in a set; and
+(b) tender through customary banking channels is sufficient and dishonor of a draft accompanying the documents constitutes non-acceptance or rejection.
+[89] With respect to shipment by a seller, section 504 of IC 26-1-2 provides as follows:
+Shipment by seller- Sec. 504. Where the seller is required or authorized to send the goods to the buyer and the contract does not require him to deliver them at a particular destination, then unless otherwise agreed he must
+(a) put the goods in the possession of such a carrier and make such a contract for their transportation as may be reasonable having regard to the nature of the goods and other circumstances of the case; and
+(b) obtain and promptly deliver or tender in due form any document necessary to enable the buyer to obtain possession of the goods or otherwise required by the agreement or by usage of trade; and
+(c) promptly notify the buyer of the shipment.
+[90] In his written summary opinion, Mr. Borghesani stated as follows:
+Under the laws of the State of Indiana, unless otherwise agreed by the seller and the buyer:
+the place of delivery of goods is the sellers’ place of business or, if the seller does not have place of business, his residence, but
+if the contract for sale of identified goods which to the knowledge of the parties at the time of contracting are in some other location than the seller’s place of business or residence, that place is the place of delivery.
+If the seller is required or authorized to send the goods to the buyer, in order to effect tender of delivery, unless otherwise agreed between the seller and buyer, the seller must
+put the goods in the possession of a carrier and make a contract for their transportation as may be reasonable having regard to the nature of the goods and other circumstances of the case,
+obtain and promptly deliver or tender in due form any document necessary to enable the buyer to obtain possession of the goods or otherwise required by the agreement between the seller and buyer or by usage of trade, and
+promptly notify the buyer of the shipment.
+However, regardless of whether the seller is required or authorized to send the goods to the buyer, the place of delivery remains the place agreed between the seller and the buyer, or in the absence of such agreement, the seller’s place of business or residence.
+[91] Therefore, under IC-26-1-2, absent an agreement between the seller and the buyer, delivery occurs at the seller’s place of business. Where the seller is authorized, as here, to send the goods to the buyer, the seller has to put the goods in the hands of a carrier and notify the buyer of the shipment. In these circumstances, the place of delivery is the seller’s place of business. This principle was confirmed by the Court of Appeal of Indiana, Fourth District in Dept., State Rev. v Martin Marietta Corp.,[24] where Justice Miller, writing for the Court, stated as follows:
+The sales contracts between Standard and its customers were shipment contracts. Title to the goods passed and delivery occurred when the goods were loaded onto the common carrier for shipment to Standard’s purchasers.
+[92] Mr. Borghesani also opined that once a seller turns the goods over to the buyer, the buyer becomes responsible for any damages incurred during transportation as title has passed to it. Mr. Borghesani noted, however, that the provisions of the US Transportation Code dealing with Bill of Lading issued by a common carrier for the transportation of goods from a place in a State to a place in a foreign country, rendered the carrier liable for any damages to the goods while in transit.[25] Therefore, if damages were to occur to goods in transit, the Canadian dealer would have to deal with the carrier (JET) and not the seller (Jayco).
+[93] Absent an agreement between Jayco and its Canadian dealers on place of delivery, it is clear from a reading of section 308(a) of the IC-26-1-2 and the testimony of Mr. Borghesani that delivery of the RVs to the dealers would have occurred at Jayco’s place of business in the USA.
+[94] However, section 308 of IC 26-1-2 permits a seller and purchaser to agree on a place of delivery other than the default one of the seller’s place of business or residence. Both parties submit that there was such an agreement.
+[95] The respondent submits that there was an agreement between Jayco and the Canadian dealers that the delivery of the RVs would take place at the dealers’ business premises in Canada and that therefore the default place of delivery provided in section 308(a) of IC 26-1-2 was inapplicable. She states that the contractual relationship setting out the place of delivery is to be inferred from the conduct of Jayco and the dealers and the documentary evidence.
+[96] Jayco, on the other hand, submits that it had agreement with the Canadian dealers to arrange for the delivery of the RVs at its business premises in the USA. In support of its position, it points to the testimonial evidence, its conduct and that of its Canadian dealers and the documentary evidence.
+[97] After an analysis of the evidence, I conclude that there was an agreement between Jayco and the Canadian dealers that the delivery of the RVs would take place at the business premises of Jayco in the USA at the time the RVs were turned over to the common carrier.
+[98] It is clear from the testimony of Mr. Wolf that Jayco was acting on behalf of the Canadian dealer when arranging the transportation of an RV with the common carrier JET. He stated that he understood that the dealer became the owner of the RV when it was turned over to JET. Mr. Wolf explained that if damages occurred to the RV at the time it was imported into Canada, the dealer had to deal with JET, as Jayco did not have any insurance to cover damages occurring at the time of importation of the RV to Canada.
+[99] The Canadian dealer, Mr. Howe, testified that Jayco was acting on behalf of his dealership when arranging the delivery of an RV with the common carrier JET. His understanding was that his dealership owned the RV from the date of the issuance of the invoice which was issued the day on which that the RV was turned over to the common carrier JET. This was because his dealership became liable to the financing company for the RV at that time. Therefore, he considered that his dealership was already the owner of the RV when it was imported into Canada.
+[100] I do not have any reason to doubt the testimonies of Mr. Wolf and Mr. Howe. Both were credible witnesses. Their testimonies were forthright, un‑contradicted and supported by the documentary evidence submitted at trial.
+[101] I have already described the various documents governing the relationship between Jayco and the Canadian dealers and the process for purchasing an RV, i.e. the Dealership Sale and Service Agreement, the Order Form, the Acknowledgment Number Order Form, the Invoices, the Dealer to Ship Advisory. With one exception, the documents did not distinguish between a sale where the DPU method of shipment was used and one where the OP method was used. The exception was that under the OT option, the invoice included the transportation charges as a separate charge.
+[102] None of the above documents contain any explicit mention as to where the delivery of the RV would take place. This was acknowledged by Ms. Cohoe in her testimony.
+[103] However, there are a number of indications in the documents which support Jayco’s position that delivery of the RVs took place at its place of business in the USA.
+[104] Under the MFA with the inventory financing companies, Jayco agreed that the RV included in the invoice had to be shipped to, or made available for pick up by, the dealer as of the date of the invoice. If Jayco did not meet this requirement, it had to reimburse the financing company for the amount advanced by the company. In addition, the financing company could only withdraw its financing approval before the RV was shipped, namely before the RV was transferred over to the common carrier at the date of the invoice. Therefore, at that point in time, the delivery had to occur, since according to the MFA, Jayco had the right to be paid for the RV by the financing companies. At the same time, the Canadian dealer became liable to pay for the RV.
+[105] It is also clear from the evidence that Jayco was acting on behalf of the Canadian dealers in arranging the shipment with the common carrier JET. Once the RV was turned over to JET, JET became the agent of the Canadian dealer and became responsible for any damages occurring to the RV while in its possession pursuant to the provisions of the US Transportation Code dealing with the Bill of Lading.
+[106] The Dealer Ready to Ship Advisory[26] provides another indication that the delivery occurred at the business’ premises of Jayco. At the time that the RV was turned over to the common carrier JET, Jayco notified the Canadian dealer in writing that the RV was ready to be shipped with the point of dispatch being Middlebury, Indiana or Twin Falls, Idaho.
+[107] In addition, the certificate of origin was always issued and dated on or before the RV was turned over to the common carrier for shipment to the dealer. The certificate of origin stated that “Jayco transferred the vehicle to the Canadian dealer.” Although the certificate of origin does not determine the place of delivery, the terms on the certificate of origin indicated that “the vendor had transferred the ownership to the Canadian dealer at the time that the RV was turned over to the common carrier”, which is another indication that the delivery occurred at that time.
+[108] Proof of delivery can be evidenced by documents of title, including a bill of lading. In this appeal, the common carrier was the agent for the consignee on the bill of lading, namely the Canadian dealer. This is another indication that title had passed to the Canadian Dealer and the delivery occurred in the USA. As it was stated by Justice Hogg of the Ontario Court of Appeal in Marshall and Van Allen v Crown Assets Disposal Corporation,[27] at paragraph 8:
+The agreement to sell and the actual sale are two distinct things. The act of delivery completes the sale. Delivery is accomplished by the purchaser obtaining the actual physical possession of the goods or, if certain conditions are present, there may be a symbolical delivery which divests the seller’s possession and, in the event of the purchase-price of the goods not having been paid, such delivery is sufficient to terminate the vendor’s lien or right to detain the goods until the purchase-price is paid. Delivery may be made by giving the purchaser possession of the key of the warehouse where the goods are located. The transfer to the buyer of a bill of lading, as representing the goods, forms a good delivery in performance of the contract. Other mercantile documents, such as a delivery order from the seller to a warehouseman to deliver the goods to the purchaser, do not represent the goods, so far as delivery by the seller in performance is concerned, and in the case of such a document some further act or acts must be done: Benjamin on Sale, 8th ed. 1950, pp. 741-2. Benjamin also states, referring to s. 29(3) of the English Sale of Goods Act, which is identical in its terms with s.28(3) of the Ontario statute, that the proviso in this section that nothing therein “shall affect the operation of the issue or transfer of any document of title to goods” does not alter the common law distinction between the transfer of a bill of lading and that of other documents so far as regards performance of the contract. The present case is not concerned with a bill of lading but with the order from the respondent to the custodian to deliver the tractor crawlers to the appellants.
+[Underlining added.]
+[109] Finally, the clarifications made in 2015 to the Dealership Sale and Service Agreement reflect the conduct of Jayco and the Canadian dealers during the periods under appeal. In 2015, Jayco went back to using the method of shipping with respect to the RVs that it had used prior to 2010 and during the periods under appeal. This was confirmed by both Mr. Wolf and Mr. Howe in their testimonies. In 2015, the Dealership Sale and Service Agreement, was modified to clearly indicate that delivery of the RVs would take place in the USA.
+ACKNOWLEDGEMENT OF EXISTING FOB FACTORY TERMS:
+CLARIFICATION TO
+DEALERSHIP SALES AND SERVICE AGREEMENT
+PLACE OF DELIVERY OF PRODUCT(S)
+All products sold by Jayco to the Dealer are sold FOB factory, or more specifically Ex Works (Incoterms 2010) Jayco’s factory in the United States.
+Meaning of DPU (Dealer Pick-Up): If the Dealer selects DPU (Dealer Pick-up) when placing an order with Jayco, the product(s) purchased are sold by Jayco to the Dealer Ex Works (Incoterms 2010) Jayco’s manufacturing facilities in Indiana or Idaho, or such Jayco facilities or warehouse as may be determined by Jayco.
+Meaning of O/T (Other Transport): If the Dealer selects O/T (Other Transport) when placing an order with Jayco, the product(s) purchased are sold by Jayco to the Dealer Ex Works (Incoterms 2010) Jayco’s manufacturing facilities in Indiana or Idaho, or such Jayco facilities or warehouse as may be determined by Jayco (the “Delivery Point”), but Jayco shall for a separate fee in addition to the purchase price of the product(s) contract or procure a contract for the carriage of the product(s) from the Delivery Point to the Dealer’s Dealership Location or such other place in North America as the Dealer may specify.
+(A copy of Incoterms 2010 can be found at http://www.iccwbo.org/products-and-services/trade-facilitation/incoterms-2010/.)
+[110] I will now explain why I rejected the respondent’s position. She argued that the Canadian dealers had an expectation that the RVs would be delivered by Jayco to their business’ premises in Canada. She submitted that it was clear from the documents produced at trial that the RVs would be delivered in Canada.
+[111] She stated that by Jayco accepting the Order Form whereby the dealer had chosen the OT method of shipment for the RV, Jayco became legally and factually obligated to deliver the RVs to Canada.
+[112] In my view, what the Canadian dealers expected, when opting for the OT method of shipping, was that Jayco would make the arrangements on their behalf with a common carrier for the shipment of the RVs to Canada, not that Jayco would deliver the RVs. This was assumed as a factual basis by the Minister in assessing Jayco, at subparagraph 20(h)ii) of the Reply to Notice of appeal:
+20(h)ii) The customer (the dealer) could have the Appellant (Jayco) arrange a common carrier to transport the product to the customer, in which cases the customer would select the “OT” (Other Transportation Method).
+[113] This is further illustrated on some of the Order Forms, where some of the Canadian dealers indicated JET beside the OT option of shipment. The Canadian dealers knew that JET or a common carrier chosen by JET would deliver the RVs and not Jayco.
+[114] The respondent further argued that Jayco could not act as an agent of the Canadian dealers when arranging the transportation with JET for delivery in Canada, in light of the Dealership Sale Service Agreement. Paragraph M.1 of the Agreement states as follows:
+This Agreement does not make either party the agent of legal representative of the other for any reason, nor does it grant either party authority to assume or create any obligation in the name of the other.
+[115] Mr. Wolf explained that this provision of the Dealership Sale Service Agreement was put in to ensure that the Canadian dealers would not represent to their customers that they were acting on behalf of Jayco, namely selling RVs on behalf of Jayco. He also added that the clause was also included so as to protect the dealers, by ensuring them that Jayco was not going to sell factory direct into a dealer’s territory.
+[116] In my view, this clause has to be interpreted in its context. The purpose of clause M.1 is to protect Jayco, the dealers and the customers of the dealers. In addition, the evidence was that the Canadian dealers authorized Jayco to arrange the delivery on behalf of them. Once the RVs were transferred to the common carrier JET, the latter became the agent of the dealers.[28]
+[117] The respondent argued that the decision in ADV Ltd and AFX Company,[29] (“ADV”), was applicable to this appeal. In ADV, the question to be determined was the same as in this appeal, namely whether the delivery of the ADV’s products took place in Canada or outside Canada. If the delivery took place outside Canada, ADV did not have to collect and remit the GST/HST.
+[118] ADV had two mail order companies located in New York State. The Canadian customers placed an order with ADV by completing an order form and mailing it to a post office box address in Windsor, Ontario. The customers had to pay, in addition to the price of the goods, a pre-set shipping charge and one dollar for insurance. The insurance was charged by ADV for lost shipments or if damage occurred to the goods during transit. Most of the goods sold by ADV cost less than twenty dollars. All the goods were individually placed in envelopes with the address of the customers. Once there were enough goods to merit a shipment to Canada, the goods were transported from the business premises of ADV in Farmingdale, New York by a cartage company J.B. Hunt (“Hunt”) to Detroit. In Detroit, another carrier, P.D.Q. Courier (“PDQ”), cleared the goods through Canadian Customs in Windsor and mailed the goods to the Canada Post facility in Windsor. Pursuant to a contract with ADV, Canada Post applied the proper postage and delivered the goods by parcel post to the buyers across Canada.
+[119] Justice Bowie rejected the argument that delivery to the carrier in such circumstances constituted delivery to the Canadian customers. He noted, on the basis of subsection 31(2) of the Ontario Sale of Goods Act and decisions such as Dunlop v Lambert that the law contemplates that the carrier in such circumstances must be acting as agent of the buyer, “even though it may be selected and instructed by the seller.”[30] Justice Bowie held in ADV that there was nothing in the evidence, except the consist sheets, that ADV either through PDQ or otherwise, were acting as agents for the customers to enter the goods to Canada. Justice Bowie also rejected the argument that because the customers were billed for shipping costs and insurance, delivery had been effected when the goods were transferred to the carrier. He noted that the shipping charge was a flat sum for goods being delivered throughout the country,[31] and concluded that the shipping charges and insurance were part of the selling price of the goods.[32]
+[120] In my view, Justice Bowie’s findings in ADV do not apply to the RVs, since I have concluded that Jayco was acting for the Canadian dealers when arranging the shipping of the RVs with JET. JET as a common carrier became by law the agent of the Canadian dealers when the RVs were imported to Canada. No evidence was submitted to prove otherwise.
+[121] In addition, unlike the situation in ADV, where the freight costs charged was a flat rate no matter where the purchasers lived in Canada, Jayco provided significant evidence as to the efforts taken by it and JET to structure the transportation charges and surcharges in order to ensure that the dealers would bear cost of the freight charges. In addition, the price for the RV was the same regardless of which shipping option was chosen by the Canadian dealers (DPU or OT). As explained by Mr. Wolf, it was decided that freight transportation charges would be on the same invoice as the RVs, to allow the dealers to obtain financing on the freight as well as the RVs sold by Jayco. Therefore, the facts with respect to the RVs are distinguishable than the facts in ADV.
+[122] Accordingly, after an analysis of the facts and the applicable law, I conclude that the RVs were delivered at the business premises of Jayco in the USA. The supplies of RVs were deemed to be made outside Canada pursuant to paragraph 142(2)(a) of the ETA. Therefore, the supply of the RVs did not constitute taxable supplies.
+B. Was Jayco required to collect and remit the provincial component of the HST on the parts shipped from the USA to Canada? [123] While there were similarities between the procedure for buying parts and that for buying RVs, the contractual arrangement between Jayco and the Canadian dealers and the shipping methods used by Jayco were quite different.
+[124] With respect to the parts, the documentary evidence was limited to Dealership Sales and Service Agreement, a few Acknowledgment Number Order Form[33] and a few invoices.[34] No certificate of origin, no Ready to Ship Advisory, or bill of lading was filed in evidence.
+[125] In my view, the decision of ADV applies to the parts. I will not repeat the facts of ADV, since I have already set them out at paragraph 118 of these reasons.
+[126] Justice Bowie found that under the contractual arrangement between ADV and Hunter and PDQ, Hunt and PDQ were acting on behalf of ADV and not behalf of the customers. The same situation obtains here.
+[127] I do not agree with Jayco’s argument that Frontier was acting on behalf of the Canadian dealers. I find that the evidence clearly establishes that Frontier was mandated by Jayco and acted as an agent for Jayco and not for the Canadian dealers. This was confirmed by the testimony of Mr. Howe when he testified that he was against using Frontier from the beginning because in his view, this method of delivery would not work for its dealership.
+[128] Mr. Wolf also testified that Frontier acted as an agent of Jayco. Furthermore, in the document explaining the contractual arrangement between Jayco and Frontier,[35] it is expressly written that Frontier would act as an agent of Jayco.
+The business arrangement with Frontier Supply Chain Solutions requires us to operate in Canada as a Non-Resident Importer. Jayco already had an NRI number on file, but it was not in use. This NRI number is now active and Frontier operates as our agent in Canada.
+[129] Accordingly, when Frontier hired Alvin Motor Freight to pick up the parts at the business premises of Jayco in Middlebury to transport them at Frontier’s facility in Bensenville and then from Bensenville to Frontier’s facility in Winnipeg to be further distributed to each Canadian dealer, title did not pass and the delivery did not occur at the business premises of Jayco since Frontier was not acting on behalf of the Canadian dealers. If damages had occurred to the parts while in transit, in my view, the risk would have been Jayco’s.
+[130] In addition, although no bill of lading was submitted in evidence with respect to the parts, in the document explaining the contractual relationship between Jayco and Frontier, it is indicated that “Frontier would consolidate all material bound for Canada, and move it to Bensenville, IL daily. This is Frontier US consolidation point. It is moved via Alvin Motor Freight under one Bill of Lading.” Therefore, since Frontier was using one bill of lading for the entire shipment, it is clear that the bill of lading could not serve as a title and delivery document for individual parts orders going to different dealers. Nor, for the same reason, could the consolidated bill of lading be used to illustrate a “symbolical delivery” of the parts as was argued by Jayco with respect to the RVs. It is also clear that the consignees under a consolidated bill of lading could not have been the Canadian dealers. Finally, Jayco was the importer of record and not the Canadian dealers.
+[131] Although it was stated by Jayco, that Frontier was used exclusively during the periods under appeal, the documentary evidence showed that UPS and Old Dominion was also used by Jayco to move the parts from the USA to Canada. No evidence was submitted by Jayco with respect to the contractual arrangements it had with UPS and Old Dominion.
+[132] In light of the evidence, namely the contractual arrangements, the conduct of Jayco, the Canadian dealers and Frontier, and the bill of lading, I conclude that the parts were delivered or made available in Canada. Therefore, Jayco had to collect and remit the provincial component of the HST.
+VIII. DISPOSITION [133] The appeal is allowed with respect to the supply of the RVs.
+[134] All the other aspects of the assessments will remain unchanged.
+[135] With costs in favour of the appellant.
+Signed at Ottawa, Canada, this 16th day of February 2018.
+“Johanne D’Auray”
+D’Auray J.
+ANNEX 1
+Version of document from 2009-12-15 to 2009-12-31:
+Excise Tax Act
+R.S.C., 1985, c. E-15
+General rule — in Canada
+142 (1) For the purposes of this Part, subject to sections 143, 144 and 179, a supply shall be deemed to be made in Canada if
+(a) in the case of a supply by way of sale of tangible personal property, the property is, or is to be, delivered or made available in Canada to the recipient of the supply;
+General rule — outside Canada
+(2) For the purposes of this Part, a supply shall be deemed to be made outside Canada if
+(a) in the case of a supply by way of sale of tangible personal property, the property is, or is to be, delivered or made available outside Canada to the recipient of the supply;
+Imposition of goods and services tax
+165 (1) Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 5% on the value of the consideration for the supply.
+Tax in participating province
+(2) Subject to this Part, every recipient of a taxable supply made in a participating province shall pay to Her Majesty in right of Canada, in addition to the tax imposed by subsection (1), tax in respect of the supply calculated at the tax rate for that province on the value of the consideration for the supply.
+Collection of tax
+221 (1) Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+INDIANA CODE – TITLE 26
+COMMERCIAL LAW
+Definitions and index of definitions
+Sec. 103. (1) In IC 26-1-2, unless the context otherwise requires:
+(a) "Buyer" means a person who buys or contracts to buy goods.
+(d) "Seller" means a person who sells or contracts to sell goods.
+(4) In addition, IC 26-1-1 contains general definitions and principles of construction and interpretation applicable throughout IC 26-1-2.
+Formerly: Acts 1963, c.317, s.2-103. As amended by P.L.152-1986, SEC.121; P.L.222-1993, SEC.3; P.L.57-2000, SEC.15; P.L.143-2007, SEC.7.
+General definitions
+Sec. 201.
+(14) “Delivery” means the following:
+(A) With respect to an electronic document of title, voluntary transfer of control.
+(B) With respect to instruments, tangible documents of title, chattel paper, or certificated securities, voluntary transfer of possession.
+General obligations of parties
+Sec. 301. The obligation of the seller is to transfer and deliver and that of the buyer is to accept and pay in accordance with the contract.
+Formerly: Acts 1963, c.317, s.2-301.
+Absence of specified place for delivery
+Sec. 308. Unless otherwise agreed:
+(a) the place for delivery of goods is the seller’s place of business or if he has none his residence; but
+(b) in a contract for sale of identified goods which to the knowledge of the parties at the time of contracting are in some other place, that place is the place for their delivery;
+(c) and documents of title may be delivered through customary banking channels.
+(Formerly: Acts 1963, c.317, s.2-308.) As amended by P.L.3-1989, SEC.149.
+Open time for payment or running of credit; authority to ship under reservation
+Sec. 310. Unless otherwise agreed:
+(a) payment is due at the time and place at which the buyer is to receive the goods, even though the place of shipment is the place of delivery; and
+(b) if the seller is authorized to send the goods, he may ship them under reservation and may tender the documents of title, but the buyer may inspect the goods after their arrival before payment is due, unless such inspection is inconsistent with the terms of the contract (IC 26-1-2-513); and
+(c) if delivery is authorized and made by way of documents of title otherwise than by subdivision (b), then payment is due, regardless of where the goods are to be received:
+(i) at the time and place at which the buyer is to receive delivery of the tangible documents; or
+(ii) at the time the buyer is to receive delivery of the electronic documents and at the seller’s place of business or, if none, the seller’s residence; and
+(d) where the seller is required or authorized to ship the goods on credit, the credit period runs from the time of shipment, but postdating the invoice or delaying its dispatch will correspondingly delay the starting of the credit period.
+Formerly: Acts 1963, c.317, s.2-310. As amended by P.L.152-1986, SEC.133; P.L.143-2007, SEC.10.
+Passing of title; reservation of security; limited application of this section
+Sec. 401. Each provision of IC 26-1-2 with regard to the rights, obligations, and remedies of the seller, the buyer, purchasers, or other third parties applies irrespective of title to the goods, except where the provision refers to such title. Insofar as situations are not covered by the other provisions of IC 26-1-2 and matters concerning title become material, the following rules apply:
+(1) Title to goods cannot pass under a contract for sale prior to their identification to the contract (IC 26-1-2-501), and unless otherwise explicitly agreed, the buyer acquires by their identification a special property as limited by IC 26-1. Any retention or reservation by the seller of the title (property) in goods shipped or delivered to the buyer is limited in effect to a reservation of a security interest. Subject to these provisions and to the provisions of IC 26-1-9.1 on secured transactions, title to goods passes from the seller to the buyer in any manner and on any conditions explicitly agreed on by the parties.
+(2) Unless otherwise explicitly agreed, title passes to the buyer at the time and place at which the seller completes his performance with reference to the physical delivery of the goods, despite any reservation of a security interest and even though a document of title is to be delivered at a different time or place, and in particular despite any reservation of a security interest by the bill of lading:
+(a) if the contract requires or authorizes the seller to send the goods to the buyer but does not require him to deliver them at destination, title passes to the buyer at the time and place of shipment; but
+(b) if the contract requires delivery at destination, title passes on tender there.
+(3) Unless otherwise explicitly agreed, where delivery is to be made without moving the goods:
+(a) if the seller is to deliver a tangible document of title, title passes at the time when and the place where he delivers such documents and if the seller is to deliver an electronic document of title, title passes when the seller delivers the document; or
+(b) if the goods are at the time of contracting already identified and no documents of title are to be delivered, title passes at the time and place of contracting.
+(4) A rejection or other refusal by the buyer to receive or retain the goods, whether or not justified, or a justified revocation of acceptance revests title to the goods in the seller. Such revesting occurs by operation of law and is not a "sale".
+Formerly: Acts 1963, c.317, s.2-401. As amended by P.L.152-1986, SEC.141; P.L.57-2000, SEC.18; P.L.143-2007, SEC.12.
+Manner of seller’s tender of delivery
+Sec. 503. (1) Tender of delivery requires that the seller put and hold conforming goods at the buyer’s disposition and give the buyer any notification reasonably necessary to enable him to take delivery. The manner, time and place for tender are determined by the agreement and IC 26-1-2, and in particular:
+(a) tender must be at a reasonable hour, and if it is of goods they must be kept available for the period reasonably necessary to enable the buyer to take possession; but
+(b) unless otherwise agreed, the buyer must furnish facilities reasonably suited to the receipt of the goods.
+(2) Where the case is within IC 26-1-2-504 respecting shipment, tender requires that the seller comply with its provisions.
+(3) Where the seller is required to deliver at a particular destination, tender requires that he comply with subsection (1) and also in any appropriate case tender documents as described in subsections (4) and (5).
+(4) Where goods are in the possession of a bailee and are to be delivered without being moved:
+(a) tender requires that the seller either tender a negotiable document of title covering such goods or procure acknowledgement by the bailee of the buyer’s right to possession of the goods; but
+(b) tender to the buyer of a nonnegotiable document of title or of a record directing the bailee to deliver is sufficient tender unless the buyer seasonably objects, and except as otherwise provided in IC 26-1-9.1, receipt by the bailee of notification of the buyer’s rights fixes those rights as against the bailee and all third persons; but risk of loss of the goods and of any failure by the bailee to honor the nonnegotiable document of title or to obey the direction remains on the seller until the buyer has had a reasonable time to present the document or direction, and a refusal by the bailee to honor the document or to obey the direction defeats the tender.
+(5) Where the contract requires the seller to deliver documents:
+(a) he must tender all such documents in correct form, except as provided in IC 26-1-2-323(2) with respect to bills of lading in a set; and
+(b) tender through customary banking channels is sufficient and dishonor of a draft accompanying the documents constitutes nonacceptance or rejection.
+(Formerly: Acts 1963, c.317, s.2-503.) As amended by P.L.152-1986, SEC.145; P.L.143-2007, SEC.13.
+Shipment by seller
+Sec. 504. Where the seller is required or authorized to send the goods to the buyer and the contract does not require him to deliver them at a particular destination, then unless otherwise agreed he must
+(a) put the goods in the possession of such a carrier and make such a contract for their transportation as may be reasonable having regard to the nature of the goods and other circumstances of the case; and
+(b) obtain and promptly deliver or tender in due form any document necessary to enable the buyer to obtain possession of the goods or otherwise required by the agreement or by usage of trade; and
+(c) promptly notify the buyer of the shipment.
+Failure to notify the buyer under paragraph (c) or to make a proper contract under paragraph (a) is a ground for rejection only if material delay or loss ensues.
+(Formerly: Acts 1963, c.317, s.2-504.)
+Seller’s shipment under reservation
+Sec. 505. (1) Where the seller has identified goods to the contract by or before shipment:
+(a) His procurement of a negotiable bill of lading to his own order or otherwise reserves in him a security interest in the goods. His procurement of the bill to the order of a financing agency or of the buyer indicates in addition only the seller’s expectation of transferring that interest to the person named.
+(b) A nonnegotiable bill of lading to himself or his nominee reserves possession of the goods as security, but except in a case of conditional delivery (IC 26-1-2-507(2)), a nonnegotiable bill of lading naming the buyer as consignee reserves no security interest even though the seller retains possession or control of the bill of lading.
+(2) When shipment by the seller with reservation of a security interest is in violation of the contract for sale, it constitutes an improper contract for transportation within IC 26-1-2-504, but impairs neither the rights given to the buyer by shipment and identification of the goods to the contract nor the seller’s powers as a holder of a negotiable document of title.
+Formerly: Acts 1963, c.317, s.2-505. As amended by P.L.152-1986, SEC.146; P.L.143-2007, SEC.14.
+Risk of loss in the absence of breach
+Sec. 509. (1) Where the contract requires or authorizes the seller to ship the goods by carrier:
+(a) if it does not require him to deliver them at a particular destination, the risk of loss passes to the buyer when the goods are duly delivered to the carrier even though the shipment is under reservation (IC 26-1-2-505); but
+(b) if it does require him to deliver them at a particular destination and the goods are there duly tendered while in the possession of the carrier, the risk of loss passes to the buyer when the goods are there duly so tendered as to enable the buyer to take delivery.
+(2) Where the goods are held by a bailee to be delivered without being moved, the risk of loss passes to the buyer:
+(a) on his receipt of possession or control of a negotiable document of title covering the goods; or
+(b) on acknowledgment by the bailee of the buyer’s right to possession of the goods; or
+(c) after his receipt of possession or control of a nonnegotiable document of title or other direction to deliver in a record, as provided in IC 26-1-2-503(4)(b).
+(3) In any case not within subsection (1) or (2), the risk of loss passes to the buyer on his receipt of the goods if the seller is a merchant. Otherwise the risk passes to the buyer on tender of delivery.
+(4) The provisions of this section are subject to contrary agreement of the parties and to the provisions of IC 26-1-2-327 on sale on approval and IC 26-1-2-510 on effect of breach on risk of loss.
+Formerly: Acts 1963, c.317, s.2-509. As amended by P.L.152-1986, SEC.147; P.L.143-2007, SEC.16.
+Sale of Goods Act
+R.S.O. 1990, CHAPTER S.1
+Definitions and interpretation
+1 (1) In this Act,
+“buyer” means the person who buys or agrees to buy goods; (“acheteur”)
+“delivery” means the voluntary transfer of possession from one person to another; (“livraison”)
+“document of title” includes a bill of lading and warehouse receipt as defined by the Mercantile Law Amendment Act, any warrant or order for the delivery of goods and any other document used in the ordinary course of business as proof of the possession or control of goods or authorizing or purporting to authorize, either by endorsement or delivery, the possessor of the document to transfer or receive goods thereby represented; (“titre”)
+“seller” means a person who sells or agrees to sell goods; (“vendeur”)
+Duties of seller and buyer
+26 It is the duty of the seller to deliver the goods and of the buyer to accept and pay for them in accordance with the terms of the contract of sale. R.S.O. 1990, c. S.1, s. 26.
+Payment and delivery concurrent
+27 Unless otherwise agreed, delivery of the goods and payment of the price are concurrent conditions, that is to say, the seller shall be ready and willing to give possession of the goods to the buyer in exchange for the price and the buyer shall be ready and willing to pay the price in exchange for possession of the goods. R.S.O. 1990, c. S.1, s. 27.
+Rules as to delivery
+28(1) Whether it is for the buyer to take possession of the goods or for the seller to send them to the buyer is a question depending in each case on the contract, express or implied, between the parties, and apart from any such contract, express or implied, the place of delivery is the seller’s place of business, if there is one, and if not, the seller’s residence, but where the contract is for the sale of specific goods that to the knowledge of the parties, when the contract is made, are in some other place, then that place is the place of delivery.
+Where no time for delivery fixed
+(2) Where under the contract of sale the seller is bound to send the goods to the buyer but no time for sending them is fixed, the seller is bound to send them within a reasonable time.
+Where goods in possession of third person
+(3) Where the goods at the time of sale are in the possession of a third person, there is no delivery by the seller to the buyer unless and until such third person acknowledges to the buyer that the goods are being held on the buyer’s behalf, but nothing in this section affects the operation of the issue or transfer of any document of title to goods.
+Demand or tender of delivery
+(4) Demand or tender of delivery may be treated as ineffectual unless made at a reasonable hour, and what is a reasonable hour is a question of fact.
+Expenses of putting goods in deliverable state
+(5) Unless otherwise agreed, the expenses of and incidental to putting the goods in a deliverable state shall be borne by the seller. R.S.O. 1990, c. S.1, s. 28.
+Delivery to carrier
+31(1) Where in pursuance of a contract of sale the seller is authorized or required to send the goods to the buyer, the delivery of the goods to a carrier whether named by the buyer or not, for the purpose of transmission to the buyer, is, in the absence of evidence to the contrary, delivery of the goods to the buyer.
+Seller’s contract with carrier
+(2) Unless otherwise authorized by the buyer, the seller shall make a contract with the carrier on behalf of the buyer that is reasonable having regard to the nature of the goods and the other circumstances of the case, and if the seller omits so to do and the goods are lost or damaged in course of transit, the buyer may decline to treat the delivery to the carrier as a delivery to the buyer or may hold the seller responsible in damages. R.S.O. 1990, c. S.1, s. 31.
+CITATION:
+2017 TCC 34
+COURT FILE NO.:
+2015-3545(GST)G
+STYLE OF CAUSE:
+JAYCO, INC. v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 16, 17, 18 and 19, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+February 16, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Jonathan Ip
+David Douglas Robertson
+Counsel for the Respondent:
+Donna Tomljanovic
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jonathan Ip
+David Douglas Robertson
+Firm:
+EY Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Excise Tax Act, RSC 1985, c E-15.
+[2] Appellant’s Book of Documents, Dealer Application Form, A-1, Tab 24.
+[3] Appellant’s Book of Documents, Dealership Sales and Services Agreement, A-1, Tab 4 at p 78 and Tabs 16, 20, 25 and 26, Exhibit A-2 and Respondent Book of Documents, R-1, Tab 16.
+[4] Appellant’s Book of Documents, Order Forms, A-1, Tabs 2 at p. 25, 17, 21, 27, 28 and Respondent’s Book of Documents, R-1, Tab 17
+[5] Appellant’s Book of Documents, “Acknowledgment Order Number Form”, A-1, Tabs 10, 12, 18, 22 and 33.
+[6] Appellant’s Book of Documents, “Manufacturer’s Financing Agreement”, A-1, Tab 8 and “Amended and Restated Vendor Agreement”, Tab 9.
+[7] Appellant’s book of Documents, Tab 29, “Notice to the Dealer’s inventory financing company”.
+[8] Appellant’s Book of Documents, Tabs 31 and 32, “Approval note”.
+[9] Appellant’s Book of Documents, “DPU Invoices”, A-1, Tabs 13, 14, 15, 23, 61. “OT Invoices”, A-1, Tabs 11, 19, 36, 61.
+[10] Appellant’s Book of Documents, “Ready to Ship Advisory”, A-1, Tab 34 and Respondent’s Book of Documents, R-1, Tab 17 pp 89 and 94.
+[11] Transcript, May 16, 2017, at p 41, lines 2-8.
+[12] Transcript, May 16, 2017, at p 59, lines 4-28, to p 60, lines 1-4.
+[13] Respondent’s Book of Documents, Tab 17, p 78.
+[14] Respondent’s Book of Documents, Tab 17, p 87.
+[15] Appellant’s Book of Documents, Tabs 36 and 60.
+[16] Appellant’s Book of Documents, Tab 2, p 27, Tabs 34 and 35.
+[17] Appellant’s Book of Documents, Tab 2, p 26.
+[18] Appellant’s Book of Documents, Tab 2, p 29.
+[19] Transcript, May 16, 2017, at p 99, lines 18-25.
+[20] ADV Ltd. v Canada, [1997] TJC No. 825.
+[21] For reference, I have attached as Annex 1, the relevant provisions of the ETA, IC and the Ontario Sale of Goods Act.
+[22] GST/HST Memoranda Series, chapter 3.3, Place of Supply, April 7, 2000, at paras 7 to 11.
+[23] Appellant’s Book of Documents, Tab 16, p 143.
+[24] 398 N.E. 2d 1309 (Ind. Ct. App 1979).
+[25] See Section 14706 of the US Transportation Code.
+[26] Appellant’s Book of Documents, Volume 2, Tab 34 and Respondent’s Book of Documents, Tab 17, pp 89 and 94 (the point of dispatch is indicated as Jayco), see also IC-26-1-2 at paragraph 504(c).
+[27] [1956] O.J. No. 572,
+[28] Dunlop v Lambert, (1839) Macl & Rob 663.
+[29] ADV and AFX were heard under common evidence. I only referred to ADV in my reasons, supra note 20.
+[30] ADV, supra note 20, at para 10.
+[31] Ibid, at para 13.
+[32] Ibid.
+[33] Appellant’s Book of Documents, Tabs 10 and 12.
+[34] Appellant’s Book of Documents, Tabs 11 and 13, Respondent’s Book of Documents Tab 20, p 121.
+[35] Appellant’s Book of Documents, Volume 1, Tab 55.

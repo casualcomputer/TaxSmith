@@ -1,0 +1,164 @@
+---
+title: "Twomey v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30938/index.do"
+last_modified: "2012-08-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 310"
+citation2: ""
+neutral_citation: "2012 TCC 310"
+decision_date: "2012-08-30"
+language: "en"
+item_id: "30938"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7434
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:11:49.726000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9b86d1eb0390480970f7a181a0e4ba3d439ead43631c6b3d0f46a243067d8c0c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Twomey v. The Queen
+
+- Citation: 2012 TCC 310
+- Decision date: 2012-08-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7434, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Twomey v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-08-30
+Neutral citation
+2012 TCC 310
+File numbers
+2010-3505(IT)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3505(IT)G
+BETWEEN:
+MARK TWOMEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on August 24, 2012, at Toronto, Ontario.
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+David W. Chodikoff and
+Patrick Déziel
+Counsel for the Respondent:
+Annie Pare
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2005, 2006 and 2007 taxation years are allowed, and the reassessments dated January 6, 2009, are vacated.
+Costs are awarded to the Appellant.
+Signed at Hamilton, Ontario, this 30th day of August 2012.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2012 TCC 310
+Date: 20120830
+Docket: 2010-3505(IT)G
+BETWEEN:
+MARK TWOMEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Pizzitelli J.
+[1] The Appellant was reassessed by concurrent notices of reassessment dated January 6, 2009, so as to be disallowed a capital gains exemption of $182,638 claimed in his 2005 taxation year with respect to the sale of 77 common shares in a corporation by the name of 115447 Ontario Ltd.(“115”) and had his minimum tax carry-over reduced to nil for 2005 thus allowing no amount to be carried forward resulting in his credit claimed of $1,714.74 being disallowed for 2006 and his credit claimed for $15,606.83 being disallowed for 2007 pursuant to section 120.2 of the Income Tax Act (the “Act”). There is no dispute that the disallowance of the minimum tax credit under section 120.2 is a calculation directly related to the disallowance of the capital gains exemption in 2005 and accordingly those amounts so disallowed will automatically be adjusted if the amount of capital gains exemption changes as a result of this appeal.
+[2] The sole issue to be decided in this matter is whether the 77 shares sold by the Appellant in 115, as part of the 78 shares he sold to D.K on February 5, 2008, are “qualified small business corporation shares” as defined in subsection 110.6(1) of the Act and hence allow the Appellant to claim the small business capital gains exemption under subsection 110.6(2.1) of the Act. In effect, the only dispute between the parties is whether the shares sold were held for a period of 24 months prior to their disposition as required to qualify as “qualified small business corporation shares” under that definition. There is no dispute that the shares in question otherwise meet the other requirements of that definition.
+[3] The position of the Respondent is simple. The Respondent claims that the Minute Book of 115 created in November 28, 1995, on incorporation of 115 clearly shows that only one common share was subscribed for by each of the Appellant and the other shareholder, D.K , only one common share was issued to each of them as evidenced by the director’s resolution authorizing their issue which the Appellant acknowledges signing and the only share certificates issued on incorporation reflect one common share to each of the Appellant and D.K. which is also evidenced by the Shareholders Ledgers for each of the Appellant and D.K. which show one common share issued to each on such date. As such, the issuance of a further 99 common shares to each of the Appellant and D.K. on February 5, 2005, were not held for two years prior to the sale of the Appellant’s shares to D.K. on the same date. The Respondent argues that paragraph 110.6(14)(f) of the Act is clear in that shares issued from Treasury are deemed to be held by unrelated persons and hence cannot be said to be owned and acquired from related persons who held them for that time. It is in the simple sense a reliance on the documentation contained in the Minute Book of 115 and the Respondent claims such 99 shares were in effect new shares issued from Treasury on such February 5, 2005 date.
+[4] The Appellant on the other hand argues the Minute Book of 115 and those documents evidencing the initial issuance of shares were prepared in error, did not reflect the intentions of the parties, were corrected by correcting resolution dated November 5, 2005, and argues there is other evidence supporting that the Appellant and D.K. in fact had owned 100 common shares since the November 28th date of incorporation and hence qualify.
+[5] By way of background, four individuals consisting of the Appellant, D.K., P.W. and T.P. went into the Heating, Ventilating and Air Conditioning parts supply business in 1994 which was operated by a corporation called Fortress Group Inc. The shares of Fortress were owned entirely by a numbered corporation by the name of 976405 Ontario Ltd. (“976405”), which in turn was owned in equal parts by the above four individuals. In 1995, the Appellant and D.K incorporated 115 which acquired all the shares of P.W. and T.P. in 976405.
+[6] The accountants for the Appellant and D.K, Brose & Co., prepared a tax plan for the purchase in which a numbered corporation, effectively 115, would be used to acquire such shares for tax efficiencies. Tim Brose, the managing partner of Brose & Co instructed one H.M., the lawyer representing all the parties at the time, to incorporate a new numbered company, in effect 115, on the basis that each of the Appellant and D.K would be owners of 100 common shares of such corporation for a total price of $1.00 per share or $200 in aggregate, being $100 each. The accountant sent written instructions to the lawyer H.M. to this effect which were admitted into evidence confirming same.
+[7] During difficult negotiations on the purchase price for the acquisition of shares, H.M., who was also the corporate lawyer for Fortress and 976405 as well as for P.W. and T.P. became concerned over conflict of interest in acting for all sides and advised he was no longer prepared to act for the Appellant and D.K. even though he had already prepared draft Articles of Incorporation with the share structure suggested in the accountant’s written instructions and had accepted incorporation funds from them. H.M. instead sent the draft articles and funds to another lawyer by the name of T.H. who registered the corporation, set it up and acted for 115 and the Appellant and D.K. on completing the acquisition of shares in 976405 from P.W. and T.P. The evidence is that this new lawyer, T.H., was never aware of the written instructions of the accountant originally sent to H.M. and set up the shareholdings of 115 so as to issue only one common share to each of the Appellant and D.K. After the transaction, he sent the minute book to H.M., who later passed away, and the evidence is that he sent a copy of the Articles of Incorporation to the accountants, Brose & Co.
+[8] Commencing with the first fiscal year-end of 115 ending February 29, 1996, and thereafter, the accountants prepared the financial statements for 115 on the basis 200 common shares were the issued stock with a paid-up capital of $200.00, based on the instructions they had given on first instance, and, as Tim Brose testified, on review of the general ledger of the corporation, an accounting ledger, either prepared by the internal accountant for the corporation or his firm, that indicated the same. Ken Dodge, the other accountant with Brose & Co., who prepared the financial statements and tax returns for years after the initial year testified his practice was to meet with the directors, review the draft T2 tax return with them with the financial statements attached and file them if agreeable. The tax returns as filed clearly show that the Appellant and D.K. were each 50% shareholder and the initial Notice of Shareholders attached as a schedule to the corporation’s first filed tax return evidences each of the Appellant and D.K. owned 100 common shares issued at $100, i.e., $1 per share.
+[9] What transpired next is that the Appellant and D.K were not getting along and the Appellant triggered a buy-sell clause under a shareholders agreement which resulted in D.K. buying out the Appellant’s interest. At a meeting between T.M., the accountant, T.B. who by now had replaced H.M. as the corporate lawyer for 115, and individual lawyers representing each of the Appellant and D.K. to review the documents needed to complete the transaction as structured by the accountant for tax efficiencies, which included utilizing the Appellant’s lifetime capital gains exemption limit on the sale of the part of his shares to D.K., namely the 77 in question, it was discovered that the minute book of 115 did not accord with the shareholdings of 115 as evidenced by the financial statements and ledgers of 115 and the corporate tax returns information as filed. T.H. testified he considered this a clerical error and decided the easiest way to remedy it was to have the directors of 115 pass a resolution acknowledging the initial intent of the parties and issuing share certificates totalling 99 common shares of 115 to each of the Appellant and D.K. to correct the error without further consideration to be paid for them. In fact, to facilitate the transaction pending between the Appellant and D.K. pursuant to the buy-sell as structured by the accountants for tax efficient purposes above described, two share certificates were issued to the Appellant, one for 77 common shares and the other for 22 common shares. T.H. testified he never received the initial instructions that had been sent to H.M. to issue 100 common shares each and that it had been his practice to issue one common share each when shareholders were to take an equal ownership in a corporation as earlier alluded to. He further testified on cross- examination, that he did not seek a rectification order from a court having regard to the high cost of obtaining one when all that had to be done was pass a simple resolution, being the one of February 5, 2005.
+[10] It should also be noted at this time that on cross-examination the Appellant testified that he did not care what number of shares were issued to him as long as he received 50% but that he also relied on his accountant to give the instructions to implement the tax planning paid for and that his accountant had authorization to communicate those instructions to the lawyer, being H.M. at the time.
+[11] The relevant provisions of the definition of “qualified small business corporation share” is found in subsection 110.6 (1) of the Act and reads as follows:
+110.6(1) …“qualified small business corporation share” of an individual … means a share of the capital stock of a corporation that,
+…
+(b) throughout the 24 months immediately preceding the determination time, was not owned by anyone other than the individual or a person or partnership related to the individual, and …
+[12] Paragraph 110.6(14)(f) of the Act reads:
+(f) shares issued after June 13, 1988 by a corporation to a particular person or partnership shall be deemed to have been owned immediately before their issue by a person who was not related to the particular person or partnership unless the shares were issued …
+and three exceptions follow which were not argued to be applicable here.
+[13] There is no dispute between the parties that there is no definition in the Act of an “issue” or “issuance” and of what constitutes an issuance of shares for the purposes of determining that word used in paragraph (f) above. In cases like this, it is trite law that one must look outside the Act for guidance and in this case the obvious source would appear to be the Ontario Business Corporations Act (“OBCA”) under which 115 was incorporated but no definition appears to exist there either and none was argued. Counsel for the Appellant relies on section 139 of the OBCA, the relevant provisions which read as follows:
+Records
+(1) Where this Act requires a record to be kept by a corporation, it may be kept in a bound or looseleaf book or may be entered or recorded by any system of mechanical or electronic data processing or any other information or storage device.
+Guard against falsification of records
+(2) The corporation shall,
+(a) take adequate precautions, appropriate to the means used, for guarding against the risk of falsifying the information recorded; and
+(b) provide means for making the information available in an accurate and intelligible form within a reasonable time to any person lawfully entitled to examine the records.
+Admissibility of records in evidence
+(3) The bound or looseleaf book or, where the record is not kept in a bound or looseleaf book, the information in the form in which it is made available under clause (2)(b) is admissible in evidence as proof, in the absence of evidence to the contrary, of all facts stated therein, before and after dissolution of the corporation.
+[14] There is no dispute between the parties that 115 is required under the OBCA to keep a record of its shares issued and that subsection 139(3) above creates a presumption that such records, in this case those found in the minute book of the corporation evidencing only one share was issued on November 28, 1995, to the Appellant and D.K., are proof of the shareholdings as at such date. The Appellant however argues that there is evidence that rebuts that presumption in favour of a finding that 100 shares were issued to each of the Appellant and D.K. on November 28, 1995, the date of the incorporation of 115, while the Respondent argues both that only certain deficiencies in the initial issuance are caught by such “evidence to the contrary” wording and that notwithstanding such argument there is in fact no evidence to the contrary in any event, but merely an intention to have issued the 100 shares not supported by an act of the corporation to substantiate it.
+[15] The Respondent argues that corporate law principles dictate that a share certificate, in this case the initial share certificate issued to the Appellant and D.K., proves that the person named in the certificate holds those shares unless there were irregularities surrounding the issue or payment for the shares and quotes passages from a publication authored by a Bruce Welling, Professor of Law at the University of Western Ontario titled: Corporate Law in Canada, The Governing Principles[1] found on page 692 which reads:
+If there were no irregularities surrounding the issue of or payment for the shares, the analyses is easy. The certificate proves that the person named in the certificate holds shares of the corporation. The shareholder can require that the corporate records be amended to reflect that fact.
+If there were irregularities in the issue or payment for shares, the analysis is only slightly more difficult. Again, it is state based. Common irregularities involve inadequate payment for share issues, violation of “authorized capital” limitations in the corporate constitution, and fraudulent share certificates.
+[16] With respect to the Respondent, I see nothing in the learned author’s passages to indicate the common irregularities he referred to were the only irregularities surrounding the issue or payment of shares that could exist. Moreover, the language of subsection 139(3) of the OBCA is broad in scope and reads “in the absence of evidence to the contrary”. The wording of the legislation is not limited to any number of irregularities or concerned with whether the irregularities refer to the issue or payment of shares or any other matter. The language is sufficiently broad in scope so as to permit any evidence to be considered that could rebut the presumption that the corporate records stand as proof of the facts in them. In any event, even had the Respondent been correct in its assertion, I fail to understand how the issuance of a smaller number of shares is not an irregularity in its issue or payment. Just as the non-payment for shares has been found to be evidence that the shares were not issued, despite the existence of a share certificate in Re Dunham and Apollo Tours Ltd. (No. 1), (1978), 20 O.R. (2d) 3, I would agree that the corollary can also stand, that the payment for shares without issuance of adequate certificates, could indicate that such large number of shares must have been issued. In Ball v. Canada (Minister of National Revenue ‑ M.N.R.), 92 DTC 2123, the Court found that notwithstanding a share certificate for 25,000 shares was issued to the taxpayer, he was found only to have received the 9,700 shares he had paid for and no more. I would think that the opposite result is implied in this decision as well, that if there is evidence that a larger number of shares was paid for, then the shareholders are entitled to be given share certificates representing the larger number of shares. Likewise, in Lirette Estate v. Canada, 2008 TCC 593, 2008 DTC 5068, a taxpayer was found to have been issued shares even though no share certificate had been issued. In my opinion, these cases clearly demonstrate that the existence of a share certificate is not conclusive proof of the existence or veracity of the certificate in the presence of evidence to the contrary and that evidence in favour of the issuance of shares is to be considered when no share certificates exist to substantiate the number of shares being claimed.
+[17] The Respondent’s counsel argues that in any event there is no evidence to the contrary and that the Appellant’s evidence is merely demonstrative of an intention to have issued 100 common shares without further corporate acts to substantiate such intention. The Respondent relies on the cases of Nesis v. Canada, [1998] 2 C.T.C. 2931, and Johnson v. Canada, [1999] 2 C.T.C. 2606, which held that the intention of a shareholder not supported by an overt corporate act is not sufficient to establish the existence of a fact or transaction. In Re Nesis, the issue was whether an entry into a shareholder’s loan account was sufficient to establish that the corporation had agreed to pay the taxpayer a sum in consideration for a promissory note that was not issued. In Re Johnson, the issue was whether the intention of the shareholder was sufficient, in the absence of any other evidence, to conclude the shareholder agreed to buy and the corporation agreed to sell four lots to the shareholder. Both of these cases deal with the requirement for further corporate acts to establish a contract of loan or purchase and sale of property were entered into. While these cases do not deal with the issuance of shares by a corporation and hence may be distinguishable on their facts, in my view, there were in any event tangible corporate acts to evidence the issuance of the 100 shares to the Appellant and D.K. from the 1995 date of incorporation in any event.
+[18] Firstly, 115 recorded the consideration received for 100 shares in the general accounting ledger of the corporation as testified by the accountant, T. Brose, whom I found highly credible. Secondly, 115 recorded the issuance of 200 common shares in its financial statements under shareholders’ equity right from its first financial year-end, which took place only three months after initial incorporation; and lastly but not least, 115 filed tax returns with the CRA with financial statements attached, evidencing by Schedule to the corporation’s first filed tax return for the fiscal year-ending February 29, 1996, that each of the Appellant and D.K. had been issued 100 common shares. The evidence is that the accountant for 115 met with the directors each year to review the financial statements and tax returns and upon receiving approval, filed them. Clearly, the directors approved these documents and instructed the accountant to file them. These are in my view substantial and sufficient corporate acts to evidence the existence of those shares right from the start and were repeated in a consistent manner year by year.
+[19] I must also say that I have some difficulty with the argument of Respondent’s counsel that the corporate records dealing with the initial issuance of one share to each of the Appellant and D.K. are corporate records that speak for themselves while the correcting resolution of February 5, 2005, which acknowledged the intention of 115 to have issued 100 instead of one share to each of them and issued 99 more to each of them to correct the error should be ignored. Is it not also part of the corporate record? Is there also not a presumption that it too is accurate based on the same wording of subsection 139(3) of the OBCA above - that it stands as proof subject to evidence to the contrary? We frankly have inconsistent corporate records at best, but the reality is that the correcting resolution quite clearly speaks to the other documents, clearly superseding them for the simple reason of correcting an error.
+[20] The Respondent has argued that the correction of the error in fact amounts to retroactive tax planning and that cases like Steven Adam v. The Minister of National Revenue, 85 DTC 667, stand for the proposition that is, in my opinion well recognized and trite law, that taxpayers cannot recharacterize transactions after the fact to gain a tax advantage. In the first full paragraph at page 3 of that decision, C.J. Rip stated:
+However no taxpayer has the right to retroactively alter events when it best suits his purposes although there is no question he may prospectively plan events to suit these purposes: this is sometimes called tax planning. …
+[21] In my opinion, the Appellant is not guilty of any retroactive tax planning. He has made no attempt to call a salary a dividend after the fact as was the case in Re Adam above nor attempted to recharacterize the nature of the transaction. On the contrary, he has provided evidence that he engaged the services of his professional accountants to plan the share structure of 115 prior to its incorporation and authorized his accountant to issue written instructions to his solicitors to give effect to such tax planning, which, due to a change in solicitors as above explained, were not passed on.
+[22] I find that 100 common shares were issued to each of the Appellant and D.K. as of November 28, 1995, and accordingly, that the Appellant held such shares for much longer than the 24-month period required pursuant to the definition of “qualified small business corporation share” in section 110.6 of the Act and that paragraph 110.6(14)(f) simply has no application here.
+[23] Frankly, I must say I am somewhat surprised the Respondent, in the face of what I consider overwhelming evidence to the contrary, has taken the position only one share was issued and forced the Appellant into this appeal. The Respondent’s reliance on a purely technical argument that in my opinion flies in the face of substantial evidence to the contrary was simply not reasonable in the circumstances. There was a simple error in the initial records of 115 that was corrected when it was discovered. There was no evidence of retroactive tax planning or any other improper conduct or any bad faith on the part of the Appellant and there was ample evidence that not only did the parties intend the larger number of shares to be issued, but took concrete steps in the filing of its tax returns and preparation of its financial statements, and their approval, year after year, to consistently treat the shareholders as having the larger number of shares. There is no evidence the CRA ever took issue with them.
+[24] The correcting resolution resulted in the records being amended to give effect to the true facts. This is in my opinion what should happen when “evidence to the contrary” referred to in subsection 139(3) of the OBCA establishes that the records required to be kept by a corporation are found to be inaccurate in order for the corporation to meet it obligations to take adequate precautions to guard against the risk of falsifying the information recorded and making such accurate information available to any person lawfully entitled to it as contemplated by the wording in subsection 139(2) of the OBCA above referred to. Clearly, subsection 139(2) of the OBCA places an obligation upon a corporation to record and disseminate accurate information and subsection 139(3), by presuming records to be accurate unless there is evidence to the contrary, clearly contemplates that there may be evidence to the contrary that requires correction to the corporate records. In my opinion, the Appellant and 115 had an obligation to amend the records and correct the share certificates in whatever reasonable way was available to them to do so and I believe they did just that by the actions they took in passing a correcting resolution and issuing share certificates for the number of shares that were not initially issued in error. I fail to understand why a court rectification order would be necessary in these circumstances as suggested by counsel for the Respondent.
+[25] As for the Appellant’s alternate argument that even if I found only one share had been initially issued and that new shares were subsequently issued so as to attract the application of paragraph 110.6(14)(f) of the Act, that such shares amounted to a stock split that is not considered to be an issuance or acquisition of shares by the CRA, I need not address this question of interpretation of that provision as I found that 100 shares were initially issued to the Appellant and D.K. from inception.
+[26] The Appellant’s appeal is allowed in full with costs to the Appellant.
+Signed at Hamilton, Ontario, this 30th day of August 2012.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION: 2012 TCC 310
+COURT FILE NO.: 2010-3505(IT)G
+STYLE OF CAUSE: MARK TWOMEY and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 24, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice F.J. Pizzitelli
+DATE OF JUDGMENT: August 30, 2012
+APPEARANCES:
+Counsel for the Appellant:
+David W. Chodikoff and
+Patrick Déziel
+Counsel for the Respondent:
+Annie Pare
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David W. Chodikoff and
+Patrick Déziel
+Firm: Miller Thompson LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Bruce Welling, Corporate Law in Canada, The Governing Principles, 3 ed. (London: Scribblers Publishing, 2006) at 692.

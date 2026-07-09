@@ -1,0 +1,135 @@
+---
+title: "Okell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26168/index.do"
+last_modified: "2003-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 205"
+citation2: ""
+neutral_citation: "2003 CCI 205"
+decision_date: "2003-04-02"
+language: "fr"
+item_id: "26168"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3966
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:21:52.225000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b61eb40b0ee0209acdcecf95b4c01ca065c7443e3e858177024f69772c7632ab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Okell v. The Queen
+
+- Citation: 2003 CCI 205
+- Decision date: 2003-04-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3966, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Okell v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-02
+Référence neutre
+2003 CCI 205
+Numéro de dossier
+2002-2094(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-2094(IT)I
+ENTRE :
+WILLIAM OKELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 30 janvier 2003, à Victoria (Colombie-Britannique).
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelant :
+Me George Jones
+Avocate de l'intimée :
+Me Jasmine Sidhu
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1998, 1999 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 2e jour d'avril 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 21e jour de février 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI205
+Date : 20030402
+Dossier : 2002-2094(IT)I
+ENTRE :
+WILLIAM OKELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Rip, C.C.I.
+[1] Dans ses appels des cotisations concernant les années d'imposition 1998, 1999 et 2000, dans lesquelles le ministre du Revenu national (le « ministre » ) ne lui a pas permis de déduire des pertes d'une prétendue entreprise, l'appelant William Okell affirme qu'il exploitait une entreprise appelée « Okell Motorsports » , [TRADUCTION] « dont la principale activité est la course automobile et qui fait partie intégrante de Okell Personal Counselling, une entreprise de conférences à laquelle les activités de course sont liées et dont elles font partie » .
+[2] Il semble que ce ne sont pas toutes les pertes revendiquées par l'appelant qui aient été refusées. Monsieur Okell a déduit des pertes d'entreprise totales de 7 868 $, de 10 481 $ et de 4 043 $ respectivement en 1998, 1999 et 2000. Le ministre a émis de nouvelles cotisations à l'égard de M. Okell, dans lesquelles il réduisait les pertes d'entreprise à 1 458 $, à 612 $ et à néant respectivement en 1998, 1999 et 2000. Ces pertes représentent des dépenses engagées par l'appelant pour l'entreprise Okell Personal Counselling[1]; le ministre a refusé toutes les dépenses liées à l'entreprise Okell Motorsports.
+[3] Dans les présents motifs, je me demanderai tout d'abord si Okell Motorsports constituait une entreprise commerciale, puis, dans la négative, si elle faisait partie intégrante de l'entreprise Okell Personal Counselling.
+[4] Âgé de 48 ans, M. Okell est le principal actionnaire de Okell Waterproofing Ltd. ( « Waterproofing » ), une personne morale faisant affaire à Victoria. Son revenu d'emploi de Waterproofing en 1998, 1999 et 2000 était de 76 000 $, de 64 800 $ et de 81 422 $ respectivement. Bien que Waterproofing ait d'autres employés, dont certains dans des postes de supervision, M. Okell lui consacre une bonne partie de son temps, à titre de directeur général : il gère les activités journalières, surveille les équipes de travail, rédige les devis, passe chercher les matériaux, prépare et vérifie les chantiers et facture les clients.
+[5] Monsieur Okell a déclaré que certains jours, il travaillait cinq heures pour Waterproofing, après quoi il consacrait cinq heures à la course automobile ou à des conférences et à l'orientation. Il estime que, d'après la saison, il consacrait entre une heure et quarante heures à des activités autres que l'entreprise de Waterproofing.
+[6] Monsieur Okell fait de la course automobile depuis au moins 1974. D'après son curriculum vitae, il a consacré plus de 23 ans à courir et a remporté plusieurs trophées dans des compétitions à l'échelle internationale. Il a été candidat au prix de l'athlète masculin de l'année à Victoria et a été nommé membre le plus utile du club appelé Victoria Motorsports Club. Il a participé au Molson Indy de Vancouver de 1995 et 1996 dans la course Performance International Sports Car Race. Il a également participé à des courses en Californie.
+[7] Le curriculum vitae de M. Okell comprend également une expérience en radiodiffusion et en journalisme, notamment des articles dans le périodique Island Sports Magazine et la présentation de courses automobiles à la radio et à la télévision. Monsieur Okell donne environ 24 présentations par année à des regroupements d'hommes, à des entreprises, à des associations communautaires, à des églises, à des groupes de jeunes et lors d'activités communautaires spéciales. Il intervient auprès de jeunes au sujet de la conduite automobile prudente. Toutefois, d'après ce qu'il a déclaré, son objectif depuis un certain nombre d'années consiste à courir à temps plein.
+[8] L'argent est un facteur très important dans la course automobile. Monsieur Okell a déclaré qu'il essayait de courir à un niveau lui permettant de gagner de la notoriété et de produire des résultats lui permettant de [TRADUCTION] « réunir les fonds nécessaires pour exister » . Monsieur Okell a expliqué qu'une partie de l'argent provient de prix remportés lors de compétitions, mais que l'essentiel vient des commanditaires. Par exemple, M. Okell a signé une entente avec Fram, un fabricant de filtres à air, selon laquelle il arbore le logo de Fram sur sa voiture et Fram lui verse un certain montant calculé en fonction de son rang dans la course, selon qu'il arrive premier, deuxième ou troisième. Il s'agit d'un financement pour éventualités, a dit M. Okell. D'autres fabricants et distributeurs de pièces automobiles, comme l'huile Castrol et l'antigel Prestone, ont des ententes semblables. Les conducteurs demandent des décalques, qui sont attribués notamment en fonction de la performance, de l'identité et de la perception médiatique, d'après M. Okell. Les commanditaires fournissent également des pièces telles que des bougies d'allumage. En outre, ils aident les conducteurs à acheter des pièces et de l'équipement, a expliqué M. Okell.
+[9] Monsieur Okell tire son revenu de ses conférences et de ses présentations à la radio et à la télévision. Le ministre a accepté que cela constituait une entreprise.
+[10] Cela fait vingt ans que M. Okell veut être pilote automobile. Il voudrait devenir membre du Sports Car Club of America et participer à la série de courses Trans Am aux États-Unis et au Canada.
+[11] Il existe au moins quatre façons pour les pilotes de trouver du financement, d'après M. Okell :
+(a) le pilote a assez de moyens et n'a pas besoin de financement pour éventualités; il conduit sa propre voiture;
+(b) le pilote utilise une voiture fournie par des concessionnaires rattachés à un fabricant, comme les concessionnaires DaimlerChrysler;
+(c) le conducteur a la chance de trouver un investisseur qui a de l'argent et une passion pour la course automobile;
+(d) le conducteur dépend entièrement du financement de ses commanditaires.
+[12] Jusqu'à maintenant, M. Okell ne peut savoir quand il sera capable de trouver l'un ou l'autre de ces modes de financement, ou s'il réussira. Il a bon espoir de réussir, et il pense qu'à force de produire des résultats, il attirera de nouveaux commanditaires.
+[13] Monsieur Okell n'a jamais participé à une course de la National Association for Stock Car Auto Racing ( « NASCAR » ) et n'est pas membre de la NASCAR, mais il aimerait le devenir, d'après ce qu'il dit. Monsieur Okell a commenté des courses et des pilotes à la radio et à la télévision. Il affirme qu'en assistant à des courses, il a l'occasion de rencontrer des gens « avec beaucoup d'argent » . Pendant les années visées par l'appel, il a participé à trois courses, une par année. Il a témoigné qu'il avait participé à trois courses en 2001 et à deux en 2002. Il n'a jamais remporté de prix. La majorité des frais de voyage déduits concernaient la « couverture » de courses à la radio et à la télévision, des déplacements pour acheter des pièces et des activités à titre d'attaché de presse d'un pilote qui participait à une course au Japon. Plusieurs de ses contrats pour la radio et la télévision prévoient le versement d'un montant forfaitaire, mais il doit régler ses propres frais, lesquels, dans bien des cas, dépassent le montant de sa rémunération.
+[14] En réponse à l'hypothèse du ministre selon laquelle il ne prévoit aucun changement important à ses activités de pilote dans un avenir proche, M. Okell a déclaré qu'il « aimerait » courir plus souvent et qu'il « aimerait » faire plus de radiodiffusion. Il « aimerait » également réaliser un bénéfice.
+[15] Monsieur Okell a témoigné que lorsque ses présentations à la radio et à la télévision concernent la course automobile, le revenu de ces activités était inclus dans celui de Okell Motorsports; s'il participait à des émissions sur le golf ou des questions civiques, le revenu était inclus dans celui de Okell Communications (qui, je le présume, fait partie de Okell Personal Counselling). En ce qui concerne les conférences, le revenu dépend du sujet; si elles concernent la course automobile, le revenu est attribué à Okell Motorsports. (Pour les années visées par l'appel, aucun revenu de conférences n'a été inclus dans celui de Okell Motorsports.)
+[16] Au moment du procès, M. Okell était en train d'adapter une voiture de course. Il affirme avoir trouvé des commanditaires, sans entrer dans le détail.
+[17] Au cours des années visées par l'appel, M. Okell avait une voiture de course de marque MGB de l'année 1964, deux boîtes de vitesse de rechange, une culasse, un ensemble de moules d'ailes en fibre de verre, des pare-chocs, un chariot pour poste de ravitaillement, un cric, une boîte à outils, des uniformes pour son équipe, des appareils de test spécialisés, un casque de course, des émetteurs-récepteurs portatifs, du matériel spécialisé pour le poste de ravitaillement, ainsi que d'autres pièces et matériaux pour les courses. Son comptable, M. James MacAvoy, a estimé que la valeur de la voiture et de l'équipement de M. Okell se situait entre 20 000 $ et 40 000 $. L'inventaire de M. Okell tiré de la vente de pièces d'automobiles est d'environ 20 000 $, d'après M. MacAvoy. Monsieur Okell n'a pas de remorque pour transporter sa voiture entre les courses; une remorque coûte 15 000 $.
+[18] Monsieur Okell a témoigné qu'il avait trois permis pendant les années visées par l'appel pour des courses Molson Indy. Il a assisté à ces courses, mais n'y a pas participé.
+[19] Monsieur Okell est membre du Sports Car Club of British Columbia ( « SCCBC » ), un organisme qui organise des courses au Molson Indy de Vancouver. D'après M. Okell, ce n'est pas un organisme de sanction, et il organise des activités sociales. Monsieur Okell a déclaré qu'il avait choisi une équipe de personnes pour assurer l'entretien et la réparation de sa voiture au Indy de Vancouver. Il n'avait pas de dépenses salariales, mais il payait les frais de motel et de repas de l'équipe. Rien dans la preuve ne permet de savoir quand M. Okell a choisi cette équipe ou quand il a participé à une course avec l'aide de celle-ci.
+[20] Pendant l'une des années visées par l'appel - la preuve n'est pas claire quant à savoir laquelle - M. Okell est allé au Japon avec Gary Smith, un pilote local, pour une course sanctionnée par la NASCAR. La NASCAR a payé les frais de 14 personnes. Les frais de M. Okell ont été remboursés par M. Smith ou par la NASCAR, mais la preuve n'est pas claire à cet égard. Monsieur Okell en a profité pour commenter cette course à la télévision locale.
+[21] Deux témoins ont comparu pour M. Okell : David Cutler, ancien joueur de football professionnel et pilote automobile qui travaille dans le service de publicité d'un poste de radio de Victoria, et M. MacAvoy.
+[22] D'après le témoignage de M. Cutler, des antécédents dans le monde du sport sont utiles pour trouver des clients. Il a travaillé avec M. Okell à la radio. Il a décrit M. Okell comme un « très bon » pilote et un très bon communicateur qui s'y connaît en course automobile. C'est ainsi qu'il a été engagé par des postes de télévision et de radio pour commenter des courses automobiles.
+[23] Monsieur MacAvoy a conseillé à M. Okell d'engager un agent qui l'aiderait à obtenir des commanditaires pour ses activités de pilote. Monsieur MacAvoy considérait que toutes les activités de M. Okell qui n'étaient pas liées à Waterproofing constituaient une seule entreprise. Il n'a pas effectué de déduction pour amortissement lorsqu'il a calculé le revenu tiré par M. Okell de ces activités, non plus qu'il a effectué de projection relativement à ses activités de pilote. Monsieur MacAvoy connaissait la source du revenu de M. Okell à l'égard de ces activités en 2001, même s'il a préparé l'état des résultats de M. Okell pour cette année.
+[24] Je ne vois aucune entreprise commerciale relativement aux activités de Okell Motorsports. Monsieur Okell ne participe qu'à un petit nombre de courses automobiles et il n'y gagne rien. Je suis certain qu'il aimerait être pilote à temps plein, mais avant, pendant et après les années visées par l'appel, il n'avait pas les moyens de financer cette passion. Monsieur Okell ne disposait pas des moyens financiers nécessaires pour soutenir une entreprise de course automobile. Okell Motorsports ne présentait aucune qualité commerciale; ce n'était pas une entreprise.
+[25] Aucune preuve ne m'a été présentée qui me permettrait de conclure que la course automobile fait partie intégrante de Okell Personal Counselling. Même s'il est sans doute vrai qu'un athlète ou un artiste puisse profiter d'une certaine notoriété lorsqu'il exploite une entreprise, je ne pense pas que ce soit le cas dans les appels en l'espèce. Monsieur Okell n'a participé qu'à une seule course pendant chaque année visée par l'appel, et il n'a jamais gagné de prix. Sa « notoriété » à titre de pilote automobile n'a pas été expliquée. Aucune preuve n'a été déposée pour montrer que la réputation et la notoriété de M. Okell pouvaient être transférées à son entreprise. Comme je l'ai dit, je ne doute pas de l'utilité que peut avoir la notoriété d'un athlète pour une entreprise, mais le degré de cette notoriété est important. Il ne fait aucun doute que M. Okell s'y connaît en course automobile, et que cette connaissance, conjuguée à sa personnalité, lui a permis de décrocher des contrats de commentateur à la radio et à la télévision, mais les liens entre la course automobile et ses autres activités sont indirects. Dans les présents appels, je ne suis pas persuadé que la notoriété de M. Okell à titre de pilote automobile soit transférable à une entreprise de telle sorte que son activité de pilote fasse partie intégrante de l'entreprise.
+[26] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 2e jour d'avril 2003.
+« Gerald J. Rip »
+J.C.C.I.
+Traduction certifiée conforme
+ce 21e jour de février 2005.
+Yves Bellefeuille, réviseur
+[1] Dans son avis d'appel, l'appelant nomme l'entreprise « Okell Personal Counselling » , mais dans sa réponse à l'avis d'appel, l'intimée la nomme « Okell Personal Consulting » .

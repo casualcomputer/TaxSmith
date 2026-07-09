@@ -1,0 +1,186 @@
+---
+title: "Doiron v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30016/index.do"
+last_modified: "2010-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 519"
+citation2: ""
+neutral_citation: "2010 TCC 519"
+decision_date: "2010-10-15"
+language: "en"
+item_id: "30016"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7669
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:57:00.922000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1bca63ae033d2822c88f7360b50d8536091195f9be809cf22daa88fc603374ff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Doiron v. The Queen
+
+- Citation: 2010 TCC 519
+- Decision date: 2010-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7669, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doiron v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-15
+Neutral citation
+2010 TCC 519
+File numbers
+2008-2292(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2292(IT)G
+BETWEEN:
+éRIC DOIRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 14, 2010, with appeal 2009-2214(GST)I at Moncton, New Brunswick, and decision rendered by teleconference on September 17, 2010, at Fredericton, New Brunswick
+Before: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine M.G. McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Income Tax Act for the 2004 and 2005 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the deduction of legal fees in the amount of $21,720 and $42,059 for the 2004 and 2005 taxation years and associated interest.
+Signed at Ottawa, Canada, this 15th day of October 2010.
+“C.H.McArthur”
+McArthur J.
+Docket: 2009-2214(GST)I
+BETWEEN:
+éRIC DOIRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 14, 2010, with appeal 2009-2292(IT)G at Moncton, New Brunswick, and decision rendered orally by teleconference on September 17, 2010, at Fredericton, New Brunswick
+Before: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine M.G. McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated July 17, 2008, is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to input tax credits in the amount of $2,386.96 and $4,500.02 for reporting periods ending on December 31, 2004, and December 31, 2005.
+Signed at Ottawa, Canada, this 15th day of October 2010.
+“C.H. McArthur”
+McArthur J.
+Citation: 2010 TCC 519
+Date: 20101015
+Docket: 2008-2292(IT)G
+2009-2214(GST)I
+BETWEEN:
+ÉRIC DOIRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[1] This is an appeal from an assessment made by the Minister of National Revenue, who disallowed the deduction of legal fees in the amount of $21,720 and $42,059 paid by the Appellant, for the 2004 and 2005 taxation years, as well as input tax credits for the same years.
+[2] The parties are relying on section 9 and paragraphs 18(1)(a) and 18(1)(h) of the Income Tax Act (the Act). The Minister is relying on the following facts:
+[Translation]
+The Appellant concludes that the expenses he incurred to defend himself against criminal charges laid when he was representing a client in a criminal case are eligible expenses under the Income Tax Act.
+[3] The Appellant was a criminal lawyer who began his career in 1993. He was hired to represent a client named Lefebvre. He was arrested on April 30, 2002, at his office in Moncton. He maintains that he would never have been charged, had he not been representing Lefebvre.
+[Translation]
+10. The Appellant alleges that he had to defend himself against charges of money laundering and attempted obstruction of justice starting on April 30, 2002, since he could not practice as criminal lawyer if he was not a member in good standing of his professional association.
+12. The Appellant claims that it was because he defended himself against the charges laid against him that he was able to earn income directly from his firm until October 17, 2003. On October 17, 2003, the Law Society of New Brunswick temporarily suspended the Appellant's licence.
+[4] The issue boils down to whether the expenses incurred by the Appellant were for the purpose of earning income from his profession as a criminal lawyer. He limited his oral evidence to the facts that assisted his position sharing very little of his historical past, present and future plans. I believe his father sat with him during the hearing. He was introduced to his client Lefebvre through his client Cormier in 2001 and 2002. Lefebvre was charged with arson as was Cormier (I believe). The charges against the Appellant arose directly from his lawyer client dealings with Lefebvre and probably Cormier.
+[5] While acting for Lefebvre, he was arrested and later convicted of obstructing justice and money laundering. Eventually one of the charges was appealed successfully to the New Brunswick Court of Appeal but the 2nd charge was upheld (obstruction of justice) as was a four and a half sentence. He was also suspended from practicing law by the Law Society of New Brunswick.
+[6] He states categorically that his defense expenditure was for the purpose of retaining his profession to earn income (18(1)(a)). The Minister’s counsel states that his defense motivation and expenditure was personal. Obviously there is a link between both.
+[7] Placed in evidence at Exhibit A-1, tab 6[1] is a decision of the New Brunswick Court of Appeal[2] which I have read. As stated we have very little personal evidence with respect to the Appellant. From his tax returns of 2004 and 2005, he indicates he was born in 1966 and was married with three children for whom he claimed daycare expenses. He has not practiced law since his license was suspended in 2003. In 2006 the Appellant’s letterhead described himself as “Business Strategist and Consultant. » Presently he is a supervisor for a construction company.
+[8] Two of several cases referred to by the Minister are 1) Leduc v. The Queen, [3]and 2) Symer v. Canada.[4] The Appellant primarily referred to Roland Paper Co. Ltd. v. Canada (Minister of National Revenue)[5] and Vango v. Canada.[6]
+Analysis
+[9] I will commence with the Minister’s submissions. The Appellant Leduc was an Ontario solicitor who paid $140,000 to lawyers defending him on sexual exploitation related charges. Convictions may have led to probably disbarment from his practice of law in Ontario. Lamarre J. found that he expended the defense amount to protect his reputation and his right to earn income through the practice of law.
+[10] Lamarre J. concluded that the charges did not arise in the cause of his real estate and commercial law practice. She did not accept his evidence that his legal work for priests and a Catholic Diocese led to a conspiracy to elicit testimony against him. She concluded that the legal expenses were not paid to earn income from business but were of a personal nature which is unlike my findings presently.
+[11] The Appellant directed me to paragraphs 24 and 26 of the Leduc decision which read as follows:
+[24]. . . the charges faced by the taxpayers were directly related to their work, as an investment advisor in one case and as a stockbroker in the other. The charges with respect to which they incurred the legal fees were directly related to their functions. In Vango, the taxpayer was directly faced with the loss of his licence. It was decided in both cases that the legal fees were deductible as employment expenses pursuant to section 8 of the ITA. In the present case, the criminal offences with which the appellant is charged have nothing to do with his legal practice. The legal expenses paid to defend himself against several sexual offence charges did not arise out of his law practice. The acts regarding which a defence is being mounted do not relate to his business.
+[26] One may conclude from the above-cited case law that if the activities that led to the charges were carried on in the normal course of the income-earning operations, then an expense incurred to defend those activities is a direct result of the activities themselves, and hence may be deductible under paragraph 18(1)(a) of the ITA. Consequently, it is the activity that resulted in the charges and its connection to the business that determine the deductibility of the legal expenses associated with the defence.
+[12] I accept the Appellant’s submission that these quotations are of assistance in distinguishing Leduc from Doiron.
+[13] In Symes, the Supreme Court of Canada at paragraph 68 stated that the purpose of a particular expenditure is a question of fact having regard for all the circumstances. The Court added that some factors to consider include:
+1) Whether a deduction is ordinarily allowed as a business expense by (accountants).
+[14] Presently, the accountant for Doiron claimed the subject amounts as expenses made for earning income pursuant to paragraph 18(1)(a) of the ITA. There was no further evidence in this regard and I find the answer supports the Appellant.
+2) It may be relevant to consider whether the expense is one normally incurred by others in the same business. I answer this with a no which supports the Minister’s position)
+3) Whether the expense would have been incurred if the taxpayer was not engaged in the pursuit of business. I answer this in the Appellant’s favour.
+[15] I accept that the arrest, criminal charges and Law Society suspension, trials and resulting legal fees would not have incurred had the Appellant not been engaged in the pursuit of business income.
+[16] The Appellant referred me to Rolland Paper Co. Ltd. v. Canada (Minister of National Revenue).[7] In Roland, the corporate Appellant incurred legal expenses unsuccessfully defending charges of conspiring with other companies to prevent competition. The Exchequer Court found that the legal expenses were deductible stating “that the expenses were incurred in accordance with sound accounting and commercial practices.”
+[17] In Vango, the Appellant, a licensed stock broker, was found by the Toronto Stock Exchange guilty of stock maneuvering. He was fired as an employee of his brokerage firm and was hired by another firm. To keep this new job he incurred legal fees to deal with the T.S.E. charges. Bowman J. concluded as follows:
+. . . It was an expenditure incurred for the purpose of continuing to earn income from his employment. The appellant acquired no new right as a result of the litigation in which he was merely protecting his existing employment. Accordingly, the expenditures were not incurred on account of capital. The fines were an administrative penalty imposed on the appellant in the course of his employment. The Rotary Club fees were expenses incurred for purely promotional purposes. The appellant’s sole reason for joining was to meet monthly with potential clients. They were therefore deductible expenses under section 8(1)(f).
+[18] At paragraph 18 he quoted “Lord Pearce in B.P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia[8]
+The solution to the problem is not to be found by any rigid test or description. It has to be derived from many aspects of the whole set of circumstances some of which may point in one direction, some in the other. One consideration may point so clearly that it dominates other and vaguer indications in the contrary direction. It is a commonsense appreciation of al the guiding features which must provide the ultimate answer.
+This observation was quoted with approval by Fauteux J. in M.N.R. v. Algoma Central Railway, 68 D.T.C. 5096.
+[19] The present situation is close to the line. Balancing both well presented arguments I find in favour of the Appellant giving the taxpayers the benefit of the doubt. While it is difficult to determine the Appellant’s primary motivation, the evidence weighs more in favour of the Appellant’s position. Vango distinguishes it from Leduc. The legal expenses in Doiron arose directly from the Appellant’s law practise and his acting on behalf of Lefebvre and no doubt Cormier.
+[20] I have read the New Brunswick Court of Appeal decision at Exhibit A-1, Tab 6.[9] The behavior of the Appellant as described was to put ill mildly, disappointing although it should not affect this decision. He was dealt with by the New Brunswick Courts. We were not informed of any specifics of the Appellant’s history during the last eight years other than he lost his right to practise law in New Brunswick and received a four and a half year jail sentence and his leave to appeal to the Supreme Court of Canada was denied. This has no bearing on my decision other than the connection between his law practise and the subject expenses.
+[21] The Appellant’s legal expenses would not “have been incurred if the taxpayer was not engaged in the pursuit of business income.”[10]
+[22] In Mercille v. The Queen,[11] Mr. Mercille was suspended as an investment advisor and stock broker. He claimed a deduction for legal expenses paid in his attempts to be reinstated.
+[23] At paragraph 88 Archambault J. stated the following:
+A number of court decisions have recognized that such legal fees can be deducted in circumstances similar to those of Mr. Mercille. I note in particular the following decisions: Lavoie v. M.N.R., 82 DTC 1291 and M.N.R. v. Eldridge, 64 DTC 5338. In the latter, the Exchequer Court recognized that the legal fees incurred to carry on illegal activities could constitute deductible expenses. There are other decisions, such as St-Germain v. M.N.R., 83 DTC 36, in which the Tax Review Board allowed the deduction of expenses incurred by a physician to defend in a proceeding for criminal negligence. In Vango (T.) v. Canada, [1995] 2 C.T.C. 2757, my colleague Judge Bowman came to the same conclusion respecting the expenses incurred by a broker employed by a brokerage firm to defend himself against a charge laid by the Toronto Stock Exchange. See also M.N.R. v. L.D. Caulk Co. Ltd., 54 DTC 1011 (S.C.C.) and Rolland Paper Co. Ltd. v. M.N.R., 60 DTC 1095. In this last decision, the Exchequer Court held that legal fees incurred to defend against a charge under the Criminal Code were deductible, even though the company charged was in fact found guilty. (This paragraph applies to the present decision.)
+[24] These principles apply to the present appeal.
+[25] I am not aware of any policy that dictates against the deduction of Doiron’s claimed expenses.
+[26] The two appeals are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment to permit the deduction of $21,720 in 2004 and $42,059 in 2005 and interest in the amount of $3,600 and $3,200 for the years 2004 and 2005 and the input tax credits in the amount of $2,386.96 in 2004 and $4,500.02 in 2005. The Appellant is entitled a single set of taxed costs. I infer that the interest was incurred through loans to pay the legal fees.
+Signed at Ottawa, Canada, this 15th day of October 2010.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2010 TCC 519
+COURT FILE NO.: 2008-2292(IT)G
+STYLE OF CAUSE: ÉRIC DOIRON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: September 14, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: October 15, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine M.G. McIntyre
+COUNSEL OF RECORD:
+For:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+[1] Respondent’s documentary evidence books.
+[2] Doiron v. R., 2007 NBCA 41.
+[3] 2005 TCC 96.
+[4] [1993] 4 S.C.R. 695.
+[5] [1960] C.C.S. NO. 1047.
+[6] [1995 ] 2 C.T.C. 2757.
+[7] [1960] C.C.S. NO. 1047.
+[8] [1966] C.T.C. 224.
+[9] Respondent’s documentary evidence books.
+[10] [1993] 4 S.C.R. 695, paragraph 69.

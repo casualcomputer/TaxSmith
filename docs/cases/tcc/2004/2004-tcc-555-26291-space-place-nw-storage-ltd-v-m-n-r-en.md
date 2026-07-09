@@ -1,0 +1,222 @@
+---
+title: "Space Place NW Storage Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26291/index.do"
+last_modified: "2004-08-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 555"
+citation2: ""
+neutral_citation: "2004 TCC 555"
+decision_date: "2004-08-11"
+language: "en"
+item_id: "26291"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3303
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:10:05.732000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0445f0825495354aa32e496ad8de98348bd9c2ae2a44b609544c3d54426d8ad8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Space Place NW Storage Ltd. v. M.N.R.
+
+- Citation: 2004 TCC 555
+- Decision date: 2004-08-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3303, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Space Place NW Storage Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-11
+Neutral citation
+2004 TCC 555
+File numbers
+2003-1342(CPP)
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2003-1342(CPP)
+BETWEEN:
+SPACE PLACE NW STORAGE LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+KIMBERLY MORIARITY,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Kimberly Moriarity (2003-1449(CPP)) on March 8, 2004 at Calgary, Alberta
+Before: The Honourable Justice M.J. Bonner
+Appearances:
+Agent for the Appellant:
+Merton Moriarity
+Counsel for the Respondent:
+Jon Gilbert
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, the decision of the Minister is set aside and the assessments are vacated.
+Signed at Ottawa, Canada, this 11th day of August 2004.
+"M.J. Bonner"
+Bonner, J.
+Citation: 2004TCC555
+Date: 20040811
+Docket: 2003-1342(CPP)
+BETWEEN:
+SPACE PLACE NW STORAGE LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+KIMBERLY MORIARITY,
+Intervenor.
+AND
+2003-1449(CPP)
+KIMBERLY MORIARITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, J.
+[1] Space Place NW Storage Ltd. (Space Place) and Kimberly Moriarity appeal to this Court under the Canada Pension Plan from assessments for the years 1999 to 2002 and from a decision by the Minister of National Revenue (the "Minister") dated March 27, 2003. The decision and assessments were made on the basis that Kimberly Moriarity (the Worker) was employed during the period by Space Place in pensionable employment within the meaning of s. 6(1)(a) of the Canada Pension Plan (CPP).
+[2] The appeals were heard together on common evidence. The sole issue is whether the worker was employed by Space Place under a contract of service or under a contract for services.
+[3] The findings or assumptions of fact on which the Minister acted are essentially the same in both cases. The following are the findings or assumptions in the Space Place appeal:
+(a) the Appellant operates a self-storage facility;
+(b) the share structure of the Appellant was as follows:
+350441 Alberta Ltd. 50%
+MT Moriarity & Associates Ltd. 50%
+(c) the share structure of 350441 Alberta Ltd. was as follows:
+Merton Moriarity 100%
+(d) the share structure of MT Moriarity & Associates Ltd. was as follows:
+Merton Moriarity 66%
+Francis Moriarity 13%
+the Worker 7%
+Krista Moriarity 7%
+Leonard Moriarity 7%
+(e) the Worker was the daughter of Merton Moriarity hereinafter "the Shareholder") and Francis Moriarity;
+(f) the Worker was hired as a site manager and her duties included overseeing activities, obtaining clients, hiring/firing workers, paper work, bookkeeping, purchasing, banking and administration;
+(g) the Appellant and the Worker signed an "Independent Sales/Management Contractor Agreement" on January 1, 2002 ("the Agreement");
+(h) the Agreement included the following:
+(i) a list of the worker's duties,
+(ii) the Worker was accountable for sales, monthly financials, annual budgets and monthly meetings,
+(iii) the contract is for one year;
+(iv) the Worker will be paid 8.7% of the gross sales,
+(v) the Appellant will pay the Worker monthly,
+(vi) the Appellant is only liable to pay for extra services that were authorized in writing and
+(vii) the Appellant will provide WCB coverage;
+(i) the Worker performed her services at the Appellant's premises and in the field;
+(j) the Worker was paid by commissions;
+(k) the Worker received a percentage of the gross revenues;
+(l) the worker was paid monthly;
+(m) the Worker also received WCB and Blue Cross benefits from the Appellant;
+(n) the Appellant's business hours were as follows:
+Monday to Saturday 8:30 a.m. to 5:30 p.m.
+Sunday Noon to 4:00 p.m.
+(o) the Worker worked whatever hours were required to perform her duties;
+(p) the Worker was on-call 24 hours per day;
+(q) the Appellant retained the right to control the Worker;
+(r) the Worker was not the operating mind of the Appellant;
+(s) major decisions required a majority vote of the shareholders;
+(t) the Worker had an equity interest in the Appellant;
+(u) the Worker represented the Appellant while performing her services;
+(v) the Worker notified the Appellant of any leave requirements;
+(w) the Worker performed her services personally and did not replace herself;
+(x) the Worker has worked for the Appellant's business since it's inception in 1997;
+(y) in conjunction with her work for the appellant, the Worker also served as a board member on various "self-storage associations";
+(z) the shareholder had signing authority for the Appellant's bank account;
+(aa) the Appellant used the Shareholder's address as a mailing address;
+(bb) the Appellant provided all of the tools and equipment required including a vehicle, cell phone and the work location;
+(cc) the Worker provided hr mental capacity and expertise;
+(dd) the Appellant paid all operating expenses including the Worker's vehicle expenses;
+(ee) the Worker has not assumed personal liability for the Appellant;
+(ff) the Worker was employed under a contract of service with the Appellant, and
+(gg) wages paid by the Appellant to the worker, for the 1999, 2000, 2001 and 2002 years are as follows:
+1999 $56,999
+2000 $60,500
+2001 $71,500
+2002 $42,000
+In the main, the assumptions as pleaded are correct save of course for (q) and (ff). They must, however, be interpreted in light of the evidence adduced.
+[4] At the hearing of the appeal, evidence was given by the Worker and by Merton T. Moriarity of M.T. Moriarity and Associates Ltd. holder of 50% of the shares of Space Place.
+[5] The Worker's evidence was difficult to evaluate. By way of background I should note that it was evident that her description of the facts was greatly affected by her apparent desire to establish that she was not an employee of Space Place. Nevertheless, I am inclined to the view that her evidence was essentially truthful.
+[6] It is clear from the testimony and from the written contract referred to in assumption (g) that both parties to the contract wished to form a relationship which would be regarded as a contract for services. That contract was the same as contracts for the previous years. All open with the words "it is agreed that ... the contractor will provide the hirer with the following services as an independent contractor ...". (emphasis added)
+[7] Space Place owned and operated a self-storage facility. The Worker's duties can best be described as those of general manager of that facility. She was in charge of hiring, firing and otherwise dealing with personnel, maintenance of the facility, the security of the facility, all matters financial including the collection and deposit of revenues, the payment of debts, the keeping of accounts, the supervision of the construction of additions to the facility and, it appears, all other aspects of the day-to-day operations.
+[8] The Worker was not obliged to keep regular hours. On the one hand she was required to respond to emergency calls on a twenty-four hour a day basis. On the other hand she was heavily involved in the activities of a trade association. Those activities which were not part of her Space Place duties kept her away from the business and premises of Space Place for substantial periods. While away she arranged for coverage by a replacement worker.
+[9] The Worker's compensation was a percentage of the gross revenues of the business. That percentage was renegotiated from year to year. I gather she received a monthly draw against the commission account.
+[10] The Worker indicated that Space Place did not furnish her with an office. She stated also that she used her own computer, software, telephone, adding machine, fax and office supplies all at a home office. Space Place furnished a motor vehicle for use by the Worker.
+[11] There is no suggestion in the evidence that the Worker carried on any sort of business in which she offered her services as general manager to the public at large. It was not suggested that the Appellant was gainfully employed except with Space Place.
+[12] With respect to control of the manner in which the Worker carried out her commitment to Space Place, I find the testimony of Merton Moriarity highly persuasive. He stated "We never did control the hours. We never did control the Worker. We had general meetings every now and then and that was about the extent of control". It appears that Space Place defined the task to be done and that it was the Workers obligation to perform the task in such manner as she saw fit. The focus of the contract was payment for results not payment measured by hours spent on the job.
+[13] The leading case on the distinction between a contract for services and a contract of service (employment) is 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59. There, Major, J. delivering the judgment of the Court reviewed the control test, the four-factor test[1] and the integration test. He held that the key is set out in Market Investigations Ltd. v. Minister of Social Security, [1968] 3 All. E.R. 732. At paragraphs 47 and 48, Major, J. stated:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case. (emphasis added)
+[14] Applying the test it seems reasonably clear that the Worker did not furnish her services to Space Place as an employee. As just noted Space Place did not retain the right to control the manner in which the Appellant performed the task of managing its business. She came and went as she saw fit and was permitted to provide coverage during her absences by retaining a substitute. She furnished much of the equipment required to do the work. She was not compensated at an hourly or periodic rate. Rather the scheme of compensation tied her reward directly to her success or failure in managing Space Place's business.
+[15] In cases such as this it is helpful to compare employment and contracts for services in a broad and general sense. In Alexander v. M.N.R., 70 DTC 6006, Jackett, P. stated at page 6011:
+... On the one hand, a contract of service is a contract under which one party, the servant or employee, agrees, for either a period of time or indefinitely, and either full time or part time, to work for the other party, the master or the employer. On the other hand, a contract for services is a contract under which the one party agrees that certain specified work will be done for the other. A contract of service does not normally envisage the accomplishment of a specified amount of work but does normally contemplate the servant putting his personal services at the disposal of the master during some period of time. A contract for services does normally envisage the accomplishment of a specified job or task and normally does not require that the contractor do anything personally.
+Here, as I see it the Appellant managed the Space Place facility under a series of annual contracts in which the emphasis was placed on the accomplishment of the contract work rather than on an agreement to place the Worker's personal services at the disposal of Space Place for some defined period of time. The emphasis was on the work agreed to be done rather than the Worker's time. Thus the use of a substitute was permitted and compensation was not tied to time spent by the Worker.
+[16] It is of some significance that the parties deliberately set out to create an independent contractor relationship. There was no legal impediment to the achievement of that goal. Nothing in the details of the relationship is inconsistent with the relationship sought. Although the description adopted by the parties as to the nature of their contractual relationship is not determinative, that description should be allowed to govern where the factors pointing to employment are evenly balanced with those pointing to a contract for services. In Wolf v. Canada [2002] 4 F.C. 396, Noël, J.A. stated at paragraph 122:
+... In my view, this is a case where the characterization which the parties have placed on their relationship ought to be given great weight. I acknowledge that the manner in which parties choose to describe their relationship is not usually determinative particularly where the applicable legal tests point in the other direction. But in a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship cannot be disregarded.
+[17] For the foregoing reasons the appeals will be allowed, the decisions of the Minister set aside and assessments vacated.
+Signed at Ottawa, Canada, this 11th day of August 2004.
+"M.J. Bonner"
+Bonner, J.
+CITATION:
+2004TCC555
+COURT FILE NO.:
+2003-1342(CPP) and 2003-1449(CPP)
+STYLE OF CAUSE:
+Space Place NW Storage Ltd. and M.N.R. and Kimberly Moriarity and Kimberly Moriarity and M.N.R.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+March 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.J. Bonner
+DATE OF JUDGMENT:
+August 11, 2004
+APPEARANCES:
+For the Appellant Kimberly Moriarity:
+The Appellant herself
+For the Appellant
+Space Place NW Storage Ltd.
+Merton Moriarity
+Counsel for the Respondent:
+Jon Gilbert
+For the Intervenor Kimberly Moriarity:
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Intervenor:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] A complex involving (1) control; (2) ownership of tools; (3) chance of profit; (4) risk of loss, all as set out in Montreal v. Montreal Locomotive Works Ltd., (1947) 1 D.L.R. 161 at 169.

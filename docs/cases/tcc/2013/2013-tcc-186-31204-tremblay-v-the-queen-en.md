@@ -1,0 +1,140 @@
+---
+title: "Tremblay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31204/index.do"
+last_modified: "2013-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 186"
+citation2: ""
+neutral_citation: "2013 TCC 186"
+decision_date: "2013-06-14"
+language: "en"
+item_id: "31204"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5044
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:04:02.087000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "31c0e83cd5503a4fe838267883b73e6d54704a89b2d779da55467b4318f111a1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay v. The Queen
+
+- Citation: 2013 TCC 186
+- Decision date: 2013-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5044, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-14
+Neutral citation
+2013 TCC 186
+File numbers
+2012-3138(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3138(IT)I
+BETWEEN:
+PAUL TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 24, 2013, at Toronto, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Aaron Tallon
+Thang Trieu
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act in respect of the 2009 and 2010 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of June 2013.
+“François Angers”
+Angers J.
+Citation: 2013 TCC 186
+Date: 20130614
+Docket: 2012-3138(IT)I
+BETWEEN:
+PAUL TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant is appealing his reassessments for the 2009 and 2010 taxation year. A preliminary objection by the respondent with regard to the appellant’s 2009 appeal was withdrawn at the commencement of the hearing so that the appeal for the 2009 taxation year is validly before this Court.
+[2] In filing his returns for each of his 2009 and 2010 taxation years the appellant made a joint election in prescribed form with his spouse, as provided for by section 60.03 of the Income Tax Act (the Act). It was an election to transfer to her an amount of $4,523.40 in respect of alleged pension income, being half of the amount he withdrew from his Registered Retirement Savings Plan (RRSP) in the 2009 taxation year, and an amount of $7,219.81, also in respect of alleged pension income, being half of a subsequent RRSP withdrawal in his 2010 taxation year.
+[3] The Minister of National Revenue (the “Minister”), by subsequent reassessments, disallowed the said transfers to the appellant’s spouse for both of the taxation years at issue.
+[4] It is admitted by the appellant that he had reached 65 years of age before December 31 of each of the relevant taxation years. He also admitted that he made lump sum withdrawals of $9,046.81 in 2009 and $14,439.62 in 2010 from his RRSP with the Canadian Imperial Bank of Commerce (CIBC).
+[5] For both taxation years CIBC issued a T4RSP slip showing in the appropriate box that the above amounts were withdrawn from his RRSP. Despite this fact, the appellant tried to obtain from CIBC an amendment to the T4RSP slips to show that the amounts were annuity payments and should have been entered as such in a different box on the T4RSP slips. CIBC refused to do so.
+[6] The evidence indicates clearly that the appellant never intended to convert the withdrawals into a Registered Retirement Income Fund (RRIF) or a Life Income Fund (LIF). On the contrary, he intended to use the funds for things like travel.
+[7] The appellant had applied to CIBC for a self-directed RRSP in 1994. His contributions to the RRSP were invested in guaranteed investment certificates (GICs) for various terms and at various annual rates of interest on the principal. It is the appellant’s position that these GICs are actually annuities that he bought through his self-directed RRSP and that the amounts withdrawn from his RRSP are thus eligible to be split with his wife as “pension income”. He in fact calls his GICs “annuity certificates” on the grounds that the interest was payable on a periodic basis, namely annually. He submits that the money withdrawn from the RRSP constitutes an annuity payment under an RRSP and is included in “pension income” as defined in subsection 118(7) of the Act and therefore qualifies as an annuity as defined in the Act.
+[8] The issue before this Court is whether the appellant is entitled to transfer to his spouse one‑half of his RRSP withdrawals for each of the taxation years under appeal.
+[9] In order for the appellant to allocate a portion of his RRSP withdrawals to his spouse, the amounts must be ones that are included in the definition of “eligible pension income” in subsection 118(7) of the Act.
+[10] “Eligible pension income” as defined in subsection 118(7) of the Act means, if the individual has attained the age of 65, as in this case, the pension income received by the individual in the taxation year.
+[11] “Pension income” is defined as follows:
+“pension income” received by an individual in a taxation year means the total of
+(a) the total of all amounts each of which is an amount included in computing the individual’s income for the year that is
+(i) a payment in respect of a life annuity out of or under a superannuation plan, a pension plan or a specified pension plan,
+(ii) an annuity payment under a registered retirement savings plan, under an “amended plan” as referred to in subsection 146(12) or under an annuity in respect of which an amount is included in computing the individual’s income by reason of paragraph 56(1)(d.2),
+(iii) a payment out of or under a registered retirement income fund or under an “amended fund” as referred to in subsection 146.3(11),
+(iv) an annuity payment under a deferred profit sharing plan or under a “revoked plan” as referred to in subsection 147(15),
+(v) a payment described in subparagraph 147(2)(k)(v), or
+(vi) the amount by which an annuity payment included in computing the individual’s income for the year by reason of paragraph 56(1)(d) exceeds the capital element of that payment as determined or established under paragraph 60(a), and
+(b) the total of all amounts each of which is an amount included in computing the individual’s income for the year by reason of section 12.2 of this Act or paragraph 56(1)(d.1) of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952.
+[12] The withdrawals made by the appellant from his self‑directed RRSP in both taxation years at issues does not constitute any type of payment provided for in the definition. The appellant has acknowledged that he did not convert his RRSP withdrawals into an RRIF or an LIF. The evidence does not disclose that the withdrawn money was used to purchase an annuity, which is a product that pays a steady stream of income to the investor. Instead, the withdrawal was used to pay for travel and related expenses.
+[13] In determining whether there is an annuity payment under an RRSP referred to in subparagraph (a)(ii) of the definition of pension income, reproduced above, what is to be considered is the situation after the money is withdrawn from the RRSP, not before, nor should there be any consideration of the type of investments that are made with the money that is in the RRSP. The purchase of a GIC with RRSP money is only one of several types of investments one can make within the RRSP. A GIC is a secure investment that guarantees the original amount invested and provides an agreed rate of return and is, therefore, not an annuity per se.
+[14] The amounts of $9,046.81 and $14,439.62 were properly included in computing the appellant’s income for his 2009 and 2010 taxation years respectively and half of those amounts cannot be transferred to his spouse.
+Signed at Ottawa, Canada, this 14th day of June 2013.
+“François Angers”
+Angers J.
+CITATION: 2013 TCC 186
+COURT FILE NO.: 2012-3138(IT)I
+STYLE OF CAUSE: Paul Tremblay v. Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 24, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: June 14, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Aaron Tallon
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

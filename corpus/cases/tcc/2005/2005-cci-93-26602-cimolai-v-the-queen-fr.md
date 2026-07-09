@@ -1,0 +1,171 @@
+---
+title: "Cimolai v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26602/index.do"
+last_modified: "2005-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 93"
+citation2: ""
+neutral_citation: "2005 CCI 93"
+decision_date: "2005-02-03"
+language: "fr"
+item_id: "26602"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3544
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:17:16.553000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "510f4f53b2b5ddc8ba7c22890bc314e447c518315f78ed58b2ff8d4adde2a231"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cimolai v. The Queen
+
+- Citation: 2005 CCI 93
+- Decision date: 2005-02-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3544, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cimolai v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-03
+Référence neutre
+2005 CCI 93
+Numéro de dossier
+2003-1899(IT)G
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1899(IT)G
+ENTRE :
+NEVIO CIMOLAI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes entendues à Vancouver (Colombie-Britannique), le 25 janvier 2005.
+Devant : L'honorable juge J. E. Hershfield
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Susan Wong
+____________________________________________________________________
+ORDONNANCE
+L'appelant ayant présenté une requête en vue d'obtenir :
+a) une ordonnance accueillant l'appel compte tenu du fait que l'intimée ne s'est pas conformée à la procédure d'interrogatoire préalable écrit; ou
+b) subsidiairement, une ordonnance obligeant l'intimée à répondre aux questions au moyen d'un interrogatoire préalable écrit; ou
+c) subsidiairement, une ordonnance obligeant l'intimée à se présenter à un interrogatoire préalable oral; et
+d) une ordonnance adjugeant à l'appelant les dépens de la présente requête et prévoyant le paiement du salaire perdu.
+L'intimée ayant présenté une requête en vue d'obtenir une ordonnance :
+a) mettant fin à l'interrogatoire préalable écrit de l'appelant conformément à l'article 117 des Règles de la Cour canadienne de l'impôt (procédure générale);
+b) obligeant l'appelant à lui fournir des copies de toutes les factures judiciaires et extrajudiciaires, et notamment des précisions au sujet de chaque facture, à l'appui de la déduction refusée;
+c) fixant la date d'audition de l'appel; et
+d) adjugeant les dépens en sa faveur conformément à l'article 70 des Règles de la Courcanadienne de l'impôt (procédure générale).
+Les déclarations solennelles et les observations qui ont été produites ayant été lues et les parties ayant été entendues, la Cour ordonne, pour les raisons énoncées dans les motifs de l'ordonnance ci-joints et conformément à ces motifs :
+(1) que les requêtes présentées par l'appelant soient rejetées;
+(2) que la requête que l'intimée a présentée en vue de mettre fin aux interrogatoires préalables, conformément à l'article 117 des Règles, soit accueillie, aux conditions énoncées aux paragraphes [13] et [14] des motifs de l'ordonnance ci-joints;
+(3) que la requête que l'intimée a présentée en vue d'obliger l'appelant à fournir des factures judiciaires et extrajudiciaires à l'appui de la déduction refusée qui fait l'objet de l'appel soit rejetée;
+(4) qu'une audience sur l'état de l'instance soit tenue au besoin dans une trentaine de jours à compter de la date de la présente ordonnance pour que la date d'audition de l'appel soit fixée;
+(5) que chaque partie supporte ses propres dépens à l'égard de ces requêtes.
+Signé à Ottawa, Canada, ce 3e jour de février 2005.
+« J. E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 7e jour de mars 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI93
+Date : 20050203
+Dossier : 2003-1899(IT)G
+ENTRE :
+NEVIO CIMOLAI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Hershfield
+[1] Chacune des parties a présenté une requête en vertu de l'article 65 des Règles de la Courcanadienne de l'impôt (procédure générale). Chaque requête se rapporte à la procédure d'interrogatoire préalable qui est maintenant en suspens. Avant d'examiner les requêtes, il convient de faire un bref historique de l'affaire.
+[2] L'appelant interjette appel d'une cotisation concernant son année d'imposition 2001 par laquelle la déduction de certains frais judiciaires et extrajudiciaires a été refusée. Ces frais ont trait à deux instances qui découleraient censément du licenciement de l'appelant, qui travaillait comme microbiologiste dans le domaine médical. Dans la première instance, une suspension effectuée par le conseil d'administration d'un hôpital fait l'objet d'un examen juridique : cette action est encore en instance devant la Cour d'appel de la Colombie-Britannique. La seconde instance vise l'obtention de dommages-intérêts délictuels pour des actes se rapportant à un congédiement injustifié ou en découlant.
+[3] Par une ordonnance de la Cour en date du 25 février 2004, les parties devaient procéder aux interrogatoires préalables au moyen de questions écrites conformément aux articles 113 à 118 des Règles.
+[4] L'appelant a soumis la première série de questions, soit 43 questions en tout, le 14 avril 2004. Le 28 mai 2004, un agent désigné de l'ARC a signifié une déclaration sous serment en réponse aux questions écrites et l'appelant a par la suite soumis, le 14 juin 2004, une autre série de questions écrites comportant 396 questions. La seconde série de questions est fondée sur le fait que l'appelant n'était pas satisfait des réponses données à la première série de questions; à cet égard, l'appelant se fonde probablement sur le paragraphe 116(1) des Règles.
+[5] L'intimée a refusé de répondre à la seconde série de questions et l'appelant a présenté une requête en vue d'obtenir une ordonnance :
+a) accueillant l'appel compte tenu du fait que l'intimée ne s'est pas conformée à la procédure d'interrogatoire préalable; ou
+b) subsidiairement, obligeant l'intimée à répondre à la seconde série de questions qui ont été soumises au moyen d'un interrogatoire préalable écrit; ou
+c) subsidiairement, obligeant l'intimée à se présenter à un interrogatoire préalable oral.
+[6] L'intimée a demandé une ordonnance :
+a) mettant fin aux interrogatoires préalables conformément à l'article 117 des Règles;
+b) obligeant l'appelant à fournir des factures judiciaires et extrajudiciaires à l'appui de la déduction refusée qui fait l'objet de l'appel; et
+c) fixant la date d'audition de l'appel.
+[7] Afin de connaître le contexte dans lequel s'inscrit la seconde série de questions, il faut énoncer, sommairement du moins, l'historique des faits qui ont mené à la situation actuelle, l'intimée étant contrariée parce que l'appelant ne veut pas fournir de détails au sujet de ses frais judiciaires et extrajudiciaires et l'appelant croyant de son côté que l'ARC et l'avocat du ministère de la Justiceont agi d'une façon irrégulière.
+[8] L'appelant s'est présenté avec une documentation volumineuse illustrant ce qui selon lui est l'inconduite des représentants de l'intimée. Il a accusé l'ARC de ne pas avoir communiqué certains documents avant et pendant l'interrogatoire préalable, d'avoir révisé les documents communiqués, d'avoir pris des positions contradictoires et de ne pas être honnête et sincère lorsqu'elle traite avec lui. En outre, l'appelant a accusé l'avocat du ministère de la Justice d'être en situation de conflit d'intérêts et d'avoir présenté de façon erronée les communications relatives au règlement. J'appellerai ces questions les questions procédurales.
+[9] En résumé, il semble que la cotisation ait pour effet de refuser tous les frais judiciaires et extrajudiciaires déduits par l'appelant pour son année d'imposition 2001. L'ARC a fondé ce refus sur ce qui était alors sa pratique, lorsqu'une cotisation était établie à l'égard de l'alinéa 8(1)b) de la Loide l'impôt sur le revenu. L'ARC a par la suite pris la position selon laquelle elle admettrait les déductions en vertu de cette disposition pour la partie des frais judiciaires et extrajudiciaires se rapportant à la première action. Cette position exigeait que le montant des frais judiciaires et extrajudiciaires se rapportant à chacune des deux actions soit établi à la satisfaction de l'intimée.
+[10] L'appelant affirme avec insistance avoir fourni les factures nécessaires et il croit d'une façon ou d'une autre que l'ARC et son conseiller juridique nient faussement qu'il se soit conformé à leur demande. Compte tenu des pièces qu'il a lui-même soumises, il est clair que l'appelant n'a pas fourni les précisions demandées[1]. De fait, l'appelant a reconnu qu'il ne voulait pas fournir de précisions en raison du secret professionnel existant entre l'avocat et son client. L'avocate de l'intimée a reconnu qu'elle ne pouvait donc pas poursuivre sa requête en vue de contraindre l'appelant à fournir des précisions et qu'elle ne la poursuivrait pas. À coup sûr, l'appelant peut refuser de donner des précisions à ses risques et périls.
+[11] J'examinerai maintenant la question relative à la cessation des interrogatoires préalables par opposition à l'obligation pour l'intimée de répondre à la seconde série de questions. Je note que l'intimée se fonde uniquement sur l'article 117 des Règles, l'alinéa a) permettant de mettre fin à l'interrogatoire préalable écrit ou d'en limiter la portée si un usage abusif est fait du droit d'interroger par un nombre excessif de questions injustifiées.
+[12] J'ai examiné les 396 questions de la seconde série de questions et j'ai conclu qu'elles sont presque toutes non pertinentes pour ce qui est de la question en litige dans l'appel. Elles se rapportent aux questions procédurales soulevées par l'appelant ou seraient pertinentes à cet égard. Comme je le ferai remarquer ci-dessous, il s'agit de questions injustifiées, en ce sens qu'il y a clairement un nombre excessif de questions injustifiées. Par conséquent, l'intimée invoque à juste titre l'article 117 des Règles et s'appuie à juste titre sur cette disposition. De plus, je note que la seconde série de questions comprend 21 questions qui s'adressent à 13 employés différents du gouvernement fédéral. Or, les Règles ne permettent pas cela. Le paragraphe 93(3) des Règles permet l'interrogatoire d'un seul officier de la Couronne. La partie interrogatrice peut toutefois demander à la Cour de nommer un officier différent. Le paragraphe 93(3), qui s'appliquerait aux interrogatoires préalables effectués au moyen de questions écrites, exige que la Couronne, lorsqu'elle est la partie interrogée, choisisse un officier bien informé qui sera interrogé en son nom. Toutefois, en vertu du paragraphe 95(2) des Règles, la personne interrogée, avant l'interrogatoire, doit faire toutes les recherches raisonnables portant sur les points en litige. Ces recherches doivent être faites auprès de tous les dirigeants, préposés, représentants et employés de l'ARC, passés ou présents, et si cela est nécessaire, la personne interrogée au préalable peut être tenue de se renseigner davantage et, à cette fin, l'interrogatoire peut être ajourné. L'omission de satisfaire aux exigences de cette disposition des Règles entraînerait l'application du paragraphe 116(1) des Règles, qui permet d'autres questions écrites, ou du paragraphe 93(1) des Règles, qui permet un interrogatoire additionnel de la partie.
+[13] Il ressort de l'examen des préoccupations de l'appelant que l'une d'entre elles semble dans une certaine mesure valable. Cette préoccupation est liée au fait que la représentante de l'ARC qui a répondu à la première série de questions écrites soumises par l'appelant n'a pas démontré, à la lecture de certaines réponses, qu'elle avait effectué des recherches auprès d'autres officiers de l'ARC à l'égard de questions dont les réponses étaient ou pouvaient être importantes quant aux questions en litige dans l'appel. J'ai identifié trois questions de ce genre dans la première série de questions et l'appelant peut à bon droit s'assurer que les réponses à ces questions pertinentes sont conformes aux dispositions du paragraphe 95(2) des Règles. J'accueillerai donc la requête que l'intimée a présentée en vue de mettre fin aux interrogatoires préalables, à condition que l'intimée fasse en sorte que l'officier de l'ARC qui a présenté la déclaration sous serment en réponse à la première série de questions réponde encore une fois aux questions 5, 6 et 9 de la première série de questions d'une façon plus clairement compatible avec son obligation, telle qu'elle est énoncée au paragraphe 95(2) des Règles. Je vise ainsi à limiter la portée des interrogatoires écrits comme le prévoit l'article 117 des Règles. De plus, je note que la réponse à la question 31 de la première série de questions comporte un engagement auquel, à la date de l'audience, il n'avait pas encore été donné suite. Par conséquent, l'ordonnance comprendra par renvoi la stipulation selon laquelle il faudra répondre aux questions auxquelles il a été ordonné de répondre (soit les questions 5, 6 et 9 de la première série de questions) et donner suite à l'engagement qui a été pris en réponse à la question 31 de la première série de questions dans les 30 jours suivant la date de la présente ordonnance.
+[14] Je tiens ici à faire remarquer que l'appelant a demandé si, sur réception des réponses aux questions auxquelles il a été ordonné de répondre, un autre questionnaire pourra être signifié conformément au paragraphe 116(1) des Règles. Cette disposition des Règles ne vise clairement pas à autoriser un autre questionnaire à l'infini. Soutenir que l'appelant peut continuer à agir comme il le fait actuellement constituerait un abus des Règles dans un cas comme celui-ci. En vertu des Règles, une partie ne peut interroger une partie opposée qu'une seule fois[2]. Il faut appliquer le paragraphe 116(1) de façon à ne pas abuser de ce principe directeur. Je ne puis songer à aucune circonstance dans laquelle un autre questionnaire serait autorisé. Par conséquent, sous réserve du paragraphe 93(1) des Règles, les interrogatoires préalables prendront fin lorsque l'intimée se sera acquittée de ses obligations, tel qu'il est prévu au paragraphe [13] ci-dessus.
+[15] Il va sans dire que la requête que l'appelant a présentée en vue d'obtenir une ordonnance accueillant l'appel compte tenu du fait que l'intimée ne s'est pas conformée à la procédure d'interrogatoire préalable est rejetée; il en va de même pour la demande que l'appelant a faite en vue de contraindre l'intimée à se présenter à des interrogatoires préalables oraux.
+[16] Quant à la requête que l'intimée a présentée pour faire fixer la date d'audition de l'appel, je répéterai les observations générales que j'ai faites à la fin de l'audition des requêtes. Les interrogatoires préalables visent à permettre de rassembler des renseignements se rapportant aux questions en litige dans l'appel. Il semble que l'appelant puisse invoquer le secret professionnel existant entre l'avocat et son client à l'égard des précisions demandées par l'intimée, et j'ai rejeté la requête que l'intimée a présentée en vue d'obtenir une ordonnance obligeant l'appelant à fournir des factures judiciaires et extrajudiciaires complètes à l'appui de la déduction refusée, mais je note que les renseignements demandés par l'intimée sont pertinents quant aux questions en litige. Cela peut mettre l'appelant dans une situation difficile pour ce qui est de la revendication du secret professionnel, mais cela ne justifie pas le différend qui existe au sujet de la conduite des officiers de l'ARC ou de l'avocat de la Justice ici en cause. L'appelant fait la chasse aux sorcières et croit que ces personnes ont fait un usage abusif de la procédure judiciaire dans cet appel. Ainsi, au moyen de l'accès à l'information, l'appelant a découvert un plus grand nombre de documents que ceux qui étaient énumérés en vertu de l'article 82 des Règles ou qui lui ont été fournis en réponse aux questions écrites. Il note également que, visiblement, des inscriptions manuscrites ont été supprimées sur certains documents dont copie a été reçue au moyen de l'accès à l'information, mais que ces indices de censure ne figurent pas sur les copies reçues en réponse aux questions écrites. Toutefois, comme l'a souligné l'appelant à l'audience, il n'y a rien d'important dans ces soi-disant divergences en ce qui concerne les questions en litige dans l'appel. Si l'ARC conclut qu'un document n'a rien à voir avec une question en litige dans l'appel, elle n'a pas à être embarrassée par suite de la non-communication. En outre, le fait d'épurer des copies n'est pas nécessairement offensant si ce qui est épuré n'a pas rapport aux questions en litige dans l'appel ou est composé de notes concernant l'avocat et son client (même s'il a par la suite été renoncé à la revendication du secret professionnel lorsqu'une demande d'accès à l'information a été faite). L'appelant est convaincu de l'existence d'un complot quelconque visant à cacher des faits qui révéleraient que l'ARC a pris des positions incompatibles et inappropriées. L'appelant se plaint à plusieurs égards de la procédure dans son ensemble et fait des recherches à l'aveuglette pour obtenir une communication intégrale de cette procédure afin d'établir le bien-fondé de ses convictions. Les démarches qu'il fait en ce sens n'ont rien à voir avec la question en litige dans l'appel et ne relèvent pas de la compétence de la Cour. Il est loisible à l'appelant de demander conseil à un avocat au sujet de la question de savoir s'il est justifié d'envisager de poursuivre l'affaire devant d'autres tribunaux, mais la compétence de la Cour dans ces circonstances consiste simplement et uniquement à se prononcer sur l'exactitude de la cotisation eu égard aux faits qui portent directement sur les questions de droit qui se posent. Les questions en l'espèce semblent simples. Il n'est clairement pas nécessaire de prolonger les procédures préalables à l'instruction si ce n'est dans la mesure ci-dessus prévue. Par conséquent, les parties doivent s'attendre à ce qu'une audience sur l'état de l'instance soit tenue par la Cour dans une trentaine de jours à compter de la date de la présente ordonnance pour que la date d'instruction soit fixée, les parties pouvant conjointement demander que l'affaire ne soit pas inscrite au rôle tant que des dispositions mutuellement acceptables n'auront pas été prises pour répondre à la demande que l'intimée a faite en vue d'obtenir des précisions au sujet des factures judiciaires et extrajudiciaires en question dans cet appel et pour apaiser les préoccupations que l'appelant a au sujet de la nature secrète de cette preuve.
+Signé à Ottawa, Canada, ce 3e jour de février 2005.
+« J. E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 7e jour de mars 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2005CCI93
+No DU DOSSIER DE LA COUR :
+2003-1899(IT)G
+INTITULÉ :
+Nevio Cimolai et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 25 janvier 2005
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge J. E. Hershfield
+DATE DE L'AUDIENCE :
+Le 3 février 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Susan Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les faits invoqués et les pièces produites par l'appelant dans le cadre de ses observations avant l'audience n'ont pas été soumis par déclaration sous serment comme l'exige l'article 71 des Règles. Cela serait en soi suffisant pour que la requête de l'appelant soit rejetée. Toutefois, l'intimée ne s'est pas opposée à ce que j'examine les pièces qui ont été produites, lesquelles, de toute façon, se sont avérées inutiles pour l'appelant.
+[2] Paragraphe 93(1) des Règles.

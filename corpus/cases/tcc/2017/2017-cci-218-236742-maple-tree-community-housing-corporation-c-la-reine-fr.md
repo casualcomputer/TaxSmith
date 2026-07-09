@@ -1,0 +1,166 @@
+---
+title: "Maple Tree Community Housing Corporation c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/236742/index.do"
+last_modified: "2017-10-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 218"
+citation2: ""
+neutral_citation: "2017 CCI 218"
+decision_date: "2017-10-30"
+language: "fr"
+item_id: "236742"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2166
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:19:46.309000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ee5679d9ec24cc1166a77cd18a5e27a325eec34f9e220cd0ea30aba0d248d4b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maple Tree Community Housing Corporation c. La Reine
+
+- Citation: 2017 CCI 218
+- Decision date: 2017-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2166, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maple Tree Community Housing Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-10-30
+Référence neutre
+2017 CCI 218
+Numéro de dossier
+2017-855(GST)APP
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-855(GST)APP
+ENTRE :
+MAPLE TREE COMMUNITY HOUSING CORPORATION,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 15 mai 2017, à London (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Représentant du requérant :
+D. Robert Evans
+Avocate de l’intimée :
+Me Charlotte Deslauriers
+JUGEMENT
+ATTENDU QUE la requérante a déposé une demande de prorogation de délai pour signifier un avis d’opposition en application de la Loi sur la taxe d’accise relativement au remboursement de TPS/TVH pour immeubles d’habitation locatifs neufs;
+ET ATTENDU QUE la demande a été déposée après le délai de prescription applicable prévu par la loi et que notre Cour n’a pas compétence pour prolonger ce délai qui permettrait à la requérante de signifier un avis d’opposition audit remboursement;
+PAR CONSÉQUENT, la présente demande de prorogation de délai pour signifier un avis d’opposition relativement au remboursement de TPS/TVH pour immeubles d’habitation locatifs neufs est rejetée, sans dépens.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2017.
+« B. Russell »
+Le juge Russell
+Référence : 2017 CCI 218
+Date : 20171030
+Dossier : 2017-855(GST)APP
+ENTRE
+MAPLE TREE COMMUNITY HOUSING CORP.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] Voici les motifs de la décision concernant la demande que la personne morale Maple Tree Community Housing Corporation (Maple) a déposée en application de l’article 304 de la Loi sur la taxe d’accise (la Loi), afin de proroger le délai prévu par la loi pour signifier un avis d’opposition. La question en litige est de savoir si la demande peut être accueillie, selon qu’elle a été déposée ou non à temps.
+[2] Le paragraphe 304(5) de la Loi prescrit que les demandes déposées devant notre Cour en application de l’article 304 ne peuvent être accordées que si, entre autres choses, la demande de prorogation de délai pour signifier un avis d’opposition a été présentée au ministre du Revenu national (le ministre) conformément à l’article 303 de la Loi dans l’année suivant le quatre-vingt-dixième jour après la production (et la mise à la poste) de la cotisation qui fait l’objet de l’opposition. La question en litige est de savoir, en l’espèce, si la demande a été déposée à temps.
+[3] Maple est une société sans but lucratif qui s’est constituée en 2007 principalement par deux groupes confessionnels de Goderich (Ontario) en vue de construire un complexe de logements abordables destinés à des occupants admissibles. Le financement de ce projet louable a été assuré par la province de l’Ontario et le comté de Huron, dont le chef-lieu est Goderich. Selon le témoignage de Robert Evans, dirigeant bénévole de Maple, la société a présenté au ministre une demande relative au remboursement de TPS/TVH pour immeubles d’habitation locatifs neufs au printemps 2013, soit après la construction du bâtiment de douze unités financé par les fonds publics susmentionnés.
+[4] Le ministre a reçu la demande de remboursement le 17 avril 2013. Environ un mois plus tard, soit le 14 mai 2013, le ministre a reçu de Maple une deuxième demande de remboursement. Les deux demandes étaient fondées sur des dépenses engagées lors de la construction dudit complexe de logements.
+[5] Quelques jours plus tard, l’Agence du revenu du Canada (ARC) a produit un remboursement d’environ 35 000 $ qui a été versé dans le compte bancaire de Maple.
+[6] Par la suite, le 6 juin 2013, le ministre a répondu à la demande de remboursement présentée ultérieurement (le 14 mai 2013) et l’a rejetée. Sur l’avis de nouvelle cotisation pertinent, le remboursement était évalué à zéro.
+[7] Le 27 juin 2013, un dirigeant de Maple a reçu un courriel de Ron Burt, comptable agréé de la région agissant à titre de bénévole au nom de Maple, lui indiquant que l’ARC avait demandé le mois précédent des renseignements supplémentaires sur les demandes de remboursement. La communication entre le cabinet de M. Burt, travaillant pour le compte de Maple, et l’ARC s’est poursuivie ce mois-là et quelque temps après.
+[8] Le courriel de M. Burt mentionne que l’ARC demandait à Maple
+[traduction] [...] d’établir l’autocotisation de TVH et de se charger de payer la TVH sur la juste valeur marchande (JVM) du bâtiment pour obtenir un remboursement de valeur réduite.
+Il y est également mentionné que le cabinet comptable de M. Burt a essayé de clarifier la situation avec le représentant de l’ARC, que celle-ci avait recommandé d’envoyer le dossier aux décisions de l’ARC et que le cabinet de M. Burt avait montré son accord. Toujours selon ce courriel :
+[traduction] Notre cabinet a établi un premier contact avec la Division des décisions de l’ARC et nous travaillons à résoudre la situation. Nous nous attendons à obtenir une bonne compréhension de la manière dont l’ARC veut traiter l’ARC [sic, sans doute voulait-on dire Maple] d’ici la fin juillet. À cette date, Maple Tree devra décider si le traitement est convenable de [son] point de vue.
+[9] Le courriel se poursuit comme suit : [traduction] « Si Maple Tree n’est pas d’accord avec la décision, elle pourra signifier un avis d’opposition. » En guise de conclusion, il est mentionné que le montant pourrait dépasser les 100 000 $ et que le trésorier de Maple, George Land, a fait parvenir des renseignements au comptable [traduction] « qui seront utiles pour répondre à la Division des décisions ».
+[10] Peu de temps après, le 17 juillet 2013, le ministre a rejeté la demande de remboursement reçue le 17 avril 2013. L’avis reconstitué de (nouvelle) cotisation affichait la date de mise à la poste du 17 juillet 2013, et le montant de la cotisation était de 36 411 $.
+[11] Le quatre-vingt-dixième jour suivant les dates de cotisation susmentionnées du 6 juin 2013 et du 17 juillet 2013 correspond respectivement au 4 septembre 2013 et au 15 octobre 2013. L’intimée affirme qu’aucun avis d’opposition de la part de Maple ne lui a été signifié avant la fin de l’une ou l’autre période de quatre-vingt-dix jours.
+[12] De plus, l’intimée soutient, en l’absence d’éléments de preuve contraires présentés par Maple, que le ministre n’a reçu aucune demande de prorogation de délai en vertu de l’article 303, dans le but de signifier un avis d’opposition relativement à l’une ou l’autre cotisation dans l’année qui suit le dernier jour de l’une ou l’autre période de quatre-vingt-dix jours. Les deux délais prescrits d’un an commençant le 15 octobre 2013 et le 4 septembre 2013 prennent fin respectivement le 15 octobre 2014 et le 4 septembre 2014.
+[13] Le 4 janvier 2016, Maple a déposé auprès du ministre un prétendu avis d’opposition portant sur les deux cotisations de 2013. Il s’agit d’une lettre du 30 décembre 2015 signée par M. Evans. Le ministre a répondu par une lettre datée du 2 février 2016 pour informer Maple que le prétendu avis d’opposition déposé le 4 janvier 2016 ne pouvait être accepté à titre d’avis d’opposition valide, car il n’avait pas été déposé dans l’un ou l’autre des délais impartis susmentionnés de quatre-vingt-dix jours. En outre, cette lettre informait Maple que la demande de prorogation de délai pour signifier un avis d’opposition ne pouvait plus être accueillie, car le délai prescrit d’un an s’appliquant à chacune des cotisations susmentionnées avait expiré. Par la suite, la présente demande a été déposée auprès de notre Cour le 23 février 2017, c’est-à-dire plus d’un an plus tard.
+[14] À l’audition de la présente demande, MM. Burt et Land ont tous les deux témoigné. M. Burt affirme avoir préparé un avis d’opposition quelque temps après son courriel du 27 juin 2013. M. Burt n’avait ni dossier ni copie de l’avis d’opposition qu’il dit avoir rédigé. Il affirme avoir rédigé l’avis à une date rapprochée de la date limite, sans plus de précision. M. Land devait la récupérer pour l’expédier par la poste. M. Burt confie qu’il a supposé que c’était chose faite. M. Land, qui n’était pas dans la salle d’audience lors du témoignage de M. Burt, a témoigné par la suite. Il soutient qu’il est arrivé au bureau de M. Burt [traduction] « qu’ils ont rempli le formulaire » de l’avis d’opposition, en faisant référence à lui-même et à M. Burt. Il pense que cette rencontre a eu lieu un vendredi en fin de journée, sans pouvoir être plus précis. Il raconte qu’il a pris le formulaire et l’a expédié aux Appels de l’ARC à Summerside (Île-du-Prince-Édouard).
+[15] J’ai du mal à accepter ce témoignage, qui s’appuie uniquement sur des faits remontant à plus de quatre ans, au-delà du fait que le ministre affirme ne pas avoir reçu d’avis d’opposition. Premièrement, il n’existe de cet avis d’opposition aucun dossier, aucun document papier, ni aucune copie quelconque, malgré le fait que ce travail bénévole ait été réalisé dans le bureau d’un cabinet comptable. M. Land ne possède non plus aucune copie ni aucun document corroborant. Les témoignages de MM. Burt et Land diffèrent considérablement, le premier disant avoir préparé l’avis d’opposition que le deuxième devait mettre à la poste, alors que le deuxième dit « qu’ils ont rempli le formulaire » ensemble.
+[16] J’en doute également parce qu’il n’y aucune mention ultérieure dans toute la chronologie de cette affaire indiquant que les témoins ou toute autre personne de Maple ont demandé à un moment donné un suivi sur l’avis d’opposition qui a apparemment été envoyé, dans le but de l’envoyer à nouveau ou de présenter à l’époque plutôt que maintenant, une demande de prorogation de délai relativement aux avis d’opposition.
+[17] Enfin, la lettre de Maple datée du 30 décembre 2015 susmentionnée, que l’ARC a reçue le 4 janvier 2016, laquelle est considérée comme un prétendu avis d’opposition, consiste en une chronologie de quatre pages relatant les événements pertinents. Il n’est fait dans cette chronologie aucune mention, suggestion ou allégation voulant qu’un avis d’opposition ait été déposé auparavant ou qu’une tentative ait été entreprise à cet effet. Lorsqu’il est question, dans cette lettre chronologique, d’un agent de l’ARC expliquant à M. Evans au téléphone vers la mi-décembre 2015 qu’un avis d’opposition aurait dû avoir été déposé [traduction] « il y a des années », on affirme que [traduction] « nous avons certainement été amenés à croire que notre dossier était fondé et que l’ARC l’étudiait ».
+[18] Maple prétend que, compte tenu de toutes les circonstances, il faudrait considérer qu’un avis d’opposition a bel et bien été signifié. Quelles sont ces circonstances?
+[19] Je ne veux pas reprendre ici tous les éléments de preuve. Dans son témoignage, M. Evans a affirmé que la province et le comté de Huron ont offert plus de financement au milieu de 2013. Le comté a par la suite retenu les fonds accordés et repris des mains de Maple la gestion du projet de logements abordables. Au départ, ce changement a été bien accueilli par les bénévoles de Maple, qui avaient géré le projet immobilier. L’avis de (nouvelle) cotisation du 17 juillet 2013 ou une copie de l’avis ont été transmis par Maple au comté de Huron au plus tard en décembre 2013. On disait que le comté de Huron cumulait deux rôles, celui de garder les fonds et celui de dépenser les fonds. Fin 2013 et début 2014, afin de préparer ses états financiers, Maple a demandé au comité une copie des registres des dépenses engagées par le comté. Maple est propriétaire du complexe de logements abordables.
+[20] Apparemment, le comté de Huron ne fournissait pas volontiers les registres demandés, ce qui a donné lieu à un litige important entre le comté et Maple. Ce litige s’est aggravé lorsque Maple s’est rendu compte que le comté de Huron a demandé des crédits de taxe sur les intrants (CTI) pour ce projet en fonction des dépenses qu’il avait engagées. Cette mesure empêchait Maple de faire, comme c’était son l’intention, sa propre demande de remboursement de TPS/TVH, ce qui lui aurait permis de payer le montant de la cotisation.
+[21] À ce moment-là, c’est-à-dire début 2014, les agents de recouvrement de l’ARC avaient commencé à faire leurs appels. La pièce A-17 est une copie du courriel envoyé par M. Evans qui affiche la date du 9 janvier 2013, mais dont la date réelle remonterait à 2014 ou au début de 2014 si l’on se fie au contexte du message. Je m’empresse d’ajouter que je n’y vois là aucun motif répréhensible. L’auteur du message demande à M. Land de donner suite à un appel fait par l’ARC. Il s’agirait apparemment d’un appel de recouvrement de la part de l’ARC. Ce courriel fait mention de l’intention de payer le montant dû comme suit.
+[traduction] [...] Plusieurs centaines de milliers de dollars ont été dépensés depuis notre demande de remboursement de TVH et la réception du paiement; nous pourrions sans doute réclamer un certain remboursement de TVH et, si cette demande de recouvrement s’avère valide (je ne suis pas sûr qu’elle le soit entièrement), il en restera un solde, espérons-le, pour compenser cette demande de remboursement.
+Ce n’est que par la suite que Maple a découvert que le comté de Huron avait demandé les CTI et les remboursements qui en résultent, que Maple avait envisagé de demander.
+[22] Maple a alors fait appel à un cabinet d’avocats local pour que l’ARC rende une décision à cet égard. La demande de décision, déposée le 13 février 2014, visait à confirmer que Maple avait raison dans son différend avec le comté de HC sur la question à savoir qui pouvait demander les CTI et, par conséquent, le remboursement de TPS/TVH relativement aux dépenses que le comté de Huron a engagées, apparemment à titre de représentant de Maple, pour terminer les travaux sur l’immeuble détenu et exploité par Maple. D’après ma compréhension du dossier, rien de définitif n’est ressorti de cette demande de décision. Après son dépôt, la demande n’est que rarement mentionnée, voire pas du tout.
+[23] De plus, Maple a obtenu un avis « d’expert » d’un cabinet comptable en date du 1er mars 2015 relativement à son différend avec le comté de Huron, à savoir qu’elle aurait droit aux fonds que le comté de Huron a gérés et qu’elle – plutôt que le comté – serait en droit de demander un autre remboursement ou de faire une autre demande de remboursement sur les travaux effectués par la suite. Encore une fois, Maple prévoyait utiliser ces montants pour rembourser les sommes reçues en 2013 qui devraient être remises.
+[24] Maple a également pris l’initiative d’en discuter avec l’ARC, d’autant plus qu’elle recevait des appels des agents de recouvrement. Au milieu de 2015, Maple a envoyé à un agent de recouvrement de l’ARC en Colombie-Britannique une présentation détaillée et documentée de toute l’histoire du point de vue de Maple pour voir ce qui pouvait être fait. Maple n’a pas reçu de réponse; l’agent de recouvrement aurait été réaffecté à d’autres dossiers, l’affaire serait demeurée sans réponse et après un certain temps, le dossier aurait été confié à un autre agent de l’ARC.
+[25] De plus, la lettre susmentionnée du 30 décembre 2015 signée par M. Evans a été envoyée au bureau des Appels de l’ARC à Sudbury (Ontario). Comme il a déjà été mentionné, elle est en partie libellée comme suit :
+[traduction] Lors d’une discussion téléphonique avec Mme Mayzes il y a une semaine, elle nous a indiqué que Maple Tree aurait dû signifier un avis d’opposition il y a des années. Nous avons certainement été amenés à croire que notre dossier était fondé et que l’ARC l’étudiait.
+Analyse et conclusion [26] Maple prétend que les circonstances dans leur ensemble viennent appuyer l’octroi d’une prorogation de délai pour signifier un avis d’opposition. À cet égard, Maple invoque principalement la décision Schneidmiller c. La Reine, 2009 CCI 354.
+[27] Dans le cas de Maple, les délais de 90 jours pour signifier un avis d’opposition pour l’une ou l’autre des cotisations ou les deux ont expiré respectivement le 4 septembre 2013 et le 15 octobre 2013. Aucun avis d’opposition n’a été déposé ni rien d’autre qui pourrait raisonnablement être interprété comme étant un avis d’opposition avant le passage de l’une ou l’autre date. Qui plus est, il n’y a eu aucune tentative de signifier un avis avant le début de 2016, lorsque l’ARC a reçu la lettre de Maple datée du 30 décembre 2015 et l’a interprétée comme étant un prétendu avis d’opposition. Malheureusement, le délai prescrit d’un an après l’expiration du délai de 90 jours pour demander une prorogation de délai en vue de signifier un avis d’opposition avait expiré depuis longtemps pour les deux cotisations, soit au 4 septembre 2014 et au 15 octobre 2014. En effet, une bonne partie de l’année s’était écoulée après ces dates avant que la liasse de documents ait été assemblée puis envoyée à l’agent de recouvrement de l’ARC en Colombie-Britannique.
+[28] En rétrospective, il semble que Maple se soit trop laissé accaparer par le litige avec le comté de Huron. Elle a demandé une décision concernant la situation légale à l’égard du comté de Huron au début de 2014, et un avis d’expert sur le même sujet a été préparé début 2015. Il est possible que le manque d’attention sur les cotisations durant cette période et les délais de production d’un avis d’opposition aient eu un rôle à jouer, du moins en partie. Maple semble avoir adopté le point de vue selon lequel ces cotisations n’étaient pas entièrement erronées et que la solution consistait à obtenir un autre remboursement de TPS/TVH, ce que Maple s’apprêtait à faire pour générer les fonds qui serviraient à payer le remboursement de 2013 qui, selon la cotisation du ministre, lui était dû. Cependant, le différend avec le comté de Huron a empêché, retardé ou entravé la préparation d’une autre demande de remboursement de TPS/TVH. Il n’appartient pas à notre Cour d’exprimer se prononcer sur la validité de la réclamation valable en droit de Maple contre le comté de Huron dans la situation présente, laquelle n’a été exposée que de façon générale.
+[29] Pour ce qui est de la décision Schneidmiller, le contribuable dans cette affaire avait reçu des avis de cotisation avec lesquels ils n’étaient pas en accord, de sorte que bien avant le délai prescrit de 90 jours, il avait communiqué avec l’ARC pour en discuter. L’ARC lui a envoyé les formulaires « Demande de redressement d’une T1 », que le contribuable a remplis et soumis, et ce, bien avant l’expiration du délai de 90 jours. Il semblerait que l’ARC ait perdu ces formulaires dûment remplis. Ainsi, après y avoir donné suite en présentant une demande de renseignements, le contribuable a reçu de nouveaux formulaires, les a remplis et soumis, et ce, dix-huit mois après les avis de nouvelle cotisation. Par la suite, il lui a été conseillé de signifier un avis d’opposition, ce qu’il a fait, mais à cette date, le contribuable avait dépassé de loin le délai de 90 jours et le prolongement d’un an de ce délai.
+[30] Dans cette affaire qui mettait en cause une demande de prorogation de délai pour signifier un avis d’opposition, le juge Beaubier de notre Cour a reconnu que les formulaires initiaux de demande de redressement que l’ARC avait donnés au contribuable, et que celui-ci avait remplis et soumis à l’ARC en bonne et due forme bien avant l’expiration du délai prescrit de 90 jours, étaient en fait des avis d’opposition sur le fond. Le contribuable a donc eu gain de cause.
+[31] Cependant, je suis dans l’incapacité d’appliquer cette décision à l’affaire en instance. En l’espèce, rien n’a été déposé auprès de l’ARC qui puisse exprimer une opposition aux cotisations à l’intérieur du délai prescrit de 90 jours, ni par la suite. De plus, l’envoi de la liasse de documents en 2015 à l’agent de recouvrement de l’ARC en Colombie-Britannique a eu lieu, comme il a été mentionné ci-dessus, bien après les délais prescrits de 90 jours et l’écoulement d’une bonne partie de l’année après l’expiration des délais prescrits d’un an se terminant le 4 septembre 2013 et le 15 octobre 2013 pour ce qui est de présenter une demande de prorogation de délai.
+[32] En l’espèce, le délai prescrit par l’article 304 de la Loi pour présenter une demande de prorogation de délai a été manifestement dépassé. Les délais prescrits ont expiré en septembre et en octobre 2014. La demande de prorogation de délai n’a pas été déposée avant février 2017, soit environ deux ans et demi plus tard. Comme il a été mentionné, le paragraphe 304(5) prescrit que les demandes déposées devant notre Cour en application de l’article 304 ne peuvent être accordées que si la demande de prorogation de délai pour signifier un avis d’opposition est présentée au ministre conformément à l’article 303 de la Loi dans l’année suivant le quatre-vingt-dixième jour du délai prescrit.
+[33] Par conséquent, avec tous les égards pour les bonnes œuvres de Maple qui a lancé le projet de logements abordables dans sa communauté d’origine, je conclus que la présente demande doit être rejetée, mais sans dépens.
+Signé à Ottawa en ce 30e jour d’octobre 2017.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2017 CCI 218
+NO DU DOSSIER DE LA COUR :
+2017-855(GST)APP
+INTITULÉ :
+MAPLE TREE COMMUNITY HOUSING CORPORATION c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 mai 2017
+MOTIFS DU JUGEMENT :
+L’honorable Juge B. Paris
+DATE DU JUGEMENT :
+Le 30 octobre 2017
+COMPARUTIONS :
+Agent du demandeur :
+D. Robert Evans
+Avocate de l’intimée :
+Me Charlotte Deslauriers
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+[BLANK/EN BLANC]
+Cabinet :
+[BLANK/EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

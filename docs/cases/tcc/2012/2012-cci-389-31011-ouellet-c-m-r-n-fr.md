@@ -1,0 +1,235 @@
+---
+title: "Ouellet c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31011/index.do"
+last_modified: "2012-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 389"
+citation2: ""
+neutral_citation: "2012 CCI 389"
+decision_date: "2012-11-07"
+language: "fr"
+item_id: "31011"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4893
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:17:31.615000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d16532c1b5975c8fdd86823706723b9ee2065a9540cd4d1c886654bb067b5fe0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ouellet c. M.R.N.
+
+- Citation: 2012 CCI 389
+- Decision date: 2012-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4893, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-07
+Référence neutre
+2012 CCI 389
+Numéro de dossier
+2009-1213(EI), 2009-1222(EI), 2009-1223(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-1223(EI)
+ENTRE :
+ALINE LÉVESQUE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels
+d'Evelyne Ouellet (2009-1222(EI)) et Monique Thibault (2009-1213(EI)),
+les 1er et 2 octobre 2012,
+à Edmundston (Nouveau-Brunswick).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Denys Saindon
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est rejeté et la décision rendue par le ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2012.
+« François Angers »
+Juge Angers
+Dossier : 2009-1222(EI)
+ENTRE :
+EVELYNE OUELLET,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel
+d'Aline Lévesque (2009-1223(EI)) et Monique Thibault (2009-1213(EI)),
+les 1er et 2 octobre 2012,
+à Edmundston (Nouveau-Brunswick).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Denys Saindon
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi sont rejetés et les décisions rendues par le ministre sont confirmées, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2012.
+« François Angers »
+Juge Angers
+Dossier : 2009-1213(EI)
+ENTRE :
+MONIQUE THIBAULT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels
+d'Aline Lévesque (2009-1223(EI)) et Evelyne Ouellet (2009-1222(EI)),
+les 1er et 2 octobre 2012,
+à Edmundston (Nouveau-Brunswick).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat des appelantes :
+Me Denys Saindon
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est rejeté et la décision rendue par le ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2012.
+« François Angers »
+Juge Angers
+Référence : 2012 CCI 389
+Date : 20121107
+Dossiers : 2009-1223(EI),
+2009-1222(EI), 2009-1213(EI)
+ENTRE :
+ALINE LÉVESQUE,
+EVELYNE OUELLET,
+MONIQUE THIBAULT,
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Les appelantes interjettent appel d'une décision du ministre du Revenu national (le « ministre ») concernant l'assurabilité de leur emploi exercé auprès du même employeur, soit la société à numéro 6502695 Canada Inc. (la payeuse), durant les périodes suivantes :
+Aline Lévesque : du 12 juin au 27 octobre 2006;
+Evelyne Ouellet : du 4 septembre au 9 décembre 2006;
+Monique Thibault : du 15 mai au 29 septembre 2006.
+[2] Ces appels ont été entendus sur preuve commune et, selon la décision du ministre, aucune des appelantes n'occupait un emploi assurable auprès de la payeuse au cours des périodes en question parce qu'elles n'exerçaient pas un emploi en vertu d'un contrat de louage de services étant donné qu'elles ne travaillaient pas pour la payeuse. Subsidiairement, le ministre a conclu que leur emploi n'était pas assurable car il existait entre les appelantes et la payeuse un lien de dépendance au sens de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi ») soit, plus précisément, un lien de dépendance de fait au sens de l'alinéa 251(1)(c) de la Loi de l'impôt sur le revenu (LIR).
+[3] L'avocat de l'appelante Aline Lévesque a informé la Cour en début d'audience que sa cliente ne serait pas présente et n'allait pas témoigner. Il a aussi informé la Cour que l'appelante Monique Thibault n'allait pas être présente elle non plus, également pour cause de maladie, mais il a dit qu’il avait quand même l’intention d’aller de l’avant. Robert Coulombe, le conjoint de fait de madame Thibault, a cependant témoigné. Madame Ouellet est la seule appelante à avoir témoigné.
+[4] En prenant sa décision, l'intimé s'est basé sur les hypothèses de fait suivantes, que l'on trouve aux paragraphes 6 et 8 des réponses à l'avis d'appel et que je reproduis ci-dessous:
+a) la payeuse a été constituée en société le 9 janvier 2006 en vertu des lois du Nouveau-Brunswick;
+b) le seul actionnaire et directeur de la payeuse était Jean-Louis Martel (« l'actionnaire »);
+c) l'activité déclarée de la payeuse était l'exploitation d'une entreprise forestière (« l'entreprise »);
+d) la payeuse fait partie d'un groupe de sociétés qui furent l'objet d'une enquête majeure menée par la Commission de l'assurance-emploi;
+e) l'enquête majeure a révélé que ces sociétés, dont la payeuse, étaient impliquées dans des stratagèmes avec des individus comme l'appelante, visant à leur émettre de faux relevés d'emploi dans le but de les qualifier à des prestations d'assurance-emploi auxquelles ils n'auraient pas eu droit;
+f) la payeuse a émis des relevés d'emploi à 53 individus couvrant la période du 3 avril 2006 au 16 mars 2007 pour un total de salaire prétendument versé de 642 685 $;
+g) la majorité des relevés d'emploi émis indique 14 semaines de travail;
+h) deux de ces individus ont admis avoir acheté leur relevé d'emploi de la payeuse, sans jamais avoir travaillé pour elle;
+i) au cours de l’année 2006, la payeuse a perçu 316 177,07 $ de revenu provenant de la coupe de bois;
+j) cependant, plus de soixante-dix pour cent (70%) des ventes de bois eurent lieu avant qu'un seul employé apparaisse au livre de paye de la payeuse, soit avant le 3 avril 2006;
+k) en effet, des 220 voyages de bois que la payeuse a vendu au Syndicat des producteurs de bois de la Gaspésie, seuls 59 voyages eurent lieu durant la période couverte par les dates des relevés d'emploi émis par la payeuse;
+l) ces 59 voyages de bois représentent un volume total de 1180 cordes de bois;
+m) un bûcheron muni d'une scie mécanique peut couper en moyenne 25 cordes de bois par semaine;
+n) les 1180 cordes de bois coupé [sic] durant la période couverte par les relevés d'emploi ne peuvent pas avoir été coupées par plus de 3 ou 4 bûcherons munis d'une scie (1180 cordes de bois ÷ 25 cordes de bois par semaine ÷ 14 semaines de travail par bûcheron = 3,37 bûcherons);
+o) la payeuse ne tenait aucun grand livre de ses revenus et dépenses;
+p) la payeuse ne détenait aucun permis pour exploiter son entreprise;
+q) la payeuse n'a signé aucun contrat de droit de coupe;
+r) la payeuse n'a jamais produit de déclaration de revenus;
+s) la payeuse n'a jamais remis de retenues à la source au ministre du Revenu national (le « Ministre »);
+t) le 2 avril et le 10 avril 2007 l'actionnaire de la payeuse a dit aux agents de la Commission de l'assurance-emploi lors de ses entrevues que :
+(i) la payeuse ne possédait aucune machinerie,
+(ii) il n'y avait pas de superviseur sur les chantiers,
+(iii) il ne savait pas qui mesurait le bois coupé,
+(iv) les bûcherons marquaient leur bois avec de la peinture;
+(v) il ne savait pas qui chargeait le bois sur les camions, car il n'était pas souvent dans la forêt,
+(vi) il ne connaissait pas le nom des propriétaires de lots à bois où le bois avait été coupé;
+u) pendant la période en litige, ni la payeuse, ni l'appelante n'ont effectué de reboisement;
+v) pendant la période en litige, l'appelante n'a rendu aucun service à la payeuse; et
+w) l'appelante n'a reçu aucune rémunération de la payeuse.
+8. En ce qui concerne le lien de dépendance de fait, l'intimé a tenu pour acquis les faits suivants:
+a) tous les faits mentionnés au paragraphe 6;
+b) l'appelante a reçu un relevé d'emploi de la payeuse portant le numéro de série A80845782 qui indiquait 700 heures travaillées et une rémunération payée de 10 920 $;
+c) ce relevé d'emploi daté du 11 décembre 2006 est faux; et
+d) l'appelante et l'actionnaire, de la part de la payeuse, ont convenu un faux scénario afin de permettre à l'appelante de se qualifier à des prestations d'assurance emploi auxquelles elle n'aurait pas eu droit.
+[5] Il faut cependant retenir que les relevés d'emploi, la rémunération et les heures travaillées, tout comme la période de travail, sont différents pour chacune des appelantes. Les hypothèses de fait reproduites ci-dessus proviennent du dossier de l'appelante Evelyne Ouellet. Dans le cas de l'appelante Aline Lévesque, le relevé d'emploi porte le numéro A81054338, indique 1 000 heures travaillées et une rémunération payée de 11 440 $, et est daté du 3 novembre 2006. Le relevé d'emploi de l'appelante Monique Thibault porte le numéro A81054337, indique 1 000 heures de travail et une rémunération payée de 11 000 $, et est daté du 6 octobre 2006.
+[6] À la lumière des hypothèses de faits énoncées plus haut et de la preuve produite par l'intimé à l'audience, la question à trancher est celle de savoir si les trois appelantes ont effectivement et réellement travaillé pour la payeuse durant les périodes en litige et pendant les heures et pour la rémunération indiquées dans leur relevé d'emploi respectif. Tel qu’il a été mentionné plus haut, les appelantes ont produit deux témoins à l'audience, soit l'appelante Evelyne Ouellet et le conjoint de fait de l'appelante Monique Thibault.
+[7] Madame Ouellet a témoigné que c'est par l'entremise de madame Mélissa Gallant qu'elle a appris que monsieur Jean‑Louis Martel, seul actionnaire et administrateur de la payeuse, embauchait. Elle a dit avoir rencontré personnellement monsieur Martel et que son travail consistait à empiler du bois de chauffage et à séparer le sapin et l'épinette en les marquant avec de la peinture. Elle aurait été rémunérée à 15 $ l’heure et aurait travaillé 10 heures par jour du lundi au vendredi, ce qui représente 750 $ par semaine. Elle aurait travaillé du 4 septembre au 9 décembre 2006 sur trois terres différentes dans la région de Kedgwick et de Saint‑Quentin au Nouveau-Brunswick. Elle ne connaît pas les propriétaires des terres en question.
+[8] Elle se rendait sur les lieux de travail par ses propres moyens et était accompagnée de Mélissa Gallant, avec qui elle a travaillé durant la période en cause. Jean‑Louis Martel passait souvent les voir durant la semaine, et notamment chaque vendredi après-midi, auquel moment il leur remettait leur paie. Elle était payée en argent comptant et devait signer un document dont elle n'a pas produit d’exemple. Elle a tenté de démontrer qu'elle déposait une partie de son argent dans son compte à la Banque de Nouvelle-Écosse pour couvrir ses paiements hypothécaires. On ne peut cependant faire de lien entre sa paie et les dépôts, d'autant plus qu'elle a produit son relevé de compte de la Caisse populaire au lieu de celui de la Banque de Nouvelle-Écosse.
+[9] Dans son témoignage, elle a mentionné que le sapin et l'épinette étaient coupés en billots de 8 pieds et, plus tard dans son témoignage, elle a décrit le bois comme étant de la « pitoune ».
+[10] Le bois de chauffage qu'elle cordait était coupé par d'autres gens en petites longueurs. Elle passait environ un mois ou un mois et demi sur la même terre.
+[11] Durant l'enquête, madame Ouellet a été appelée à répondre aux différents questionnaires que lui remettaient les différents enquêteurs de l'intimé ainsi qu’à passer une entrevue. Tous les questionnaires et un rapport d’entrevue ont été déposés en preuve. Elle a témoigné avoir reçu son relevé d'emploi par la poste. Celui-ci est daté du 11 décembre 2006 et sa demande de prestations d’assurance‑emploi est datée du 12 décembre 2006.
+[12] Dans le questionnaire auquel elle a répondu le 14 mars 2007, soit la pièce I‑3, madame Ouellet a déclaré qu'elle a travaillé du 10 septembre au 9 décembre 2006. Elle a aussi déclaré avoir travaillé sur des terres privées à Saint‑Jean‑Baptiste. Selon la pièce A-1, qui est une carte de la région, Saint‑Jean‑Baptiste est loin de la région où madame Ouellet a marqué d'un X en jaune l'endroit où elle a travaillé. Elle aurait aussi travaillé dans des endroits appelés Maltais et St-André, qui sont très loin de l'endroit indiqué sur la pièce A-1. Quant à la fréquence des visites de Jean‑Louis Martel, elle a répondu qu'il venait les vendredis pour leur payer et leur dire où aller. Contrairement à ce qu’elle a dit dans son témoignage, c’est-à-dire qu'elle n’a travaillé qu'avec Mélissa Gallant, elle a déclaré dans ce questionnaire qu'elles étaient cinq femmes, dont une nommée Monica qui venait de Campbellton, une dont le nom de famille était Thibault et une autre qu'elle ne connaissait pas. Or, il me paraît étrange qu'une personne puisse travailler avec une autre personne sans connaître son nom. Elle a déclaré dans le questionnaire qu’elle recevait 780 $ par semaine, que son horaire était de 8 h à 18 h et qu’aucun temps n'était accordé pour dîner. Il faut se demander comment il se fait qu'elle gagnait selon ce questionnaire 30 $ de plus par semaine que ce qu’elle a dit dans son témoignage.
+[13] Dans le rapport de l’entrevue qui a eu lieu le 12 décembre 2007 (pièce I-1), elle a déclaré qu'elle travaillait seule, mis à part les bûcherons et les opérateurs de machines, et que Mélissa a travaillé pendant les mêmes 13 semaines qu’elle et sur les mêmes terres. Son horaire était de 7 hà 17 h et elle n'a jamais manqué une journée. Elle a dit que le bois était simplement ébranché et n’était pas coupé. On ne parle donc plus de billots de 8 pieds ou de 4 pieds. Elle ne savait pas qui ramassait le bois coupé. Elle a déclaré avoir reçu 744,66 $ brut par semaine. À la question de savoir comment s'est déroulé son embauchage par la payeuse, elle a déclaré : que « Jean‑Louis est un monsieur de Kedwick [sic], je le connais bien, je suis aller [sic] le voir et je lui ai parler [sic]. Je lui ai demander [sic] pour un emploi ».
+[14] Dans le questionnaire du 29 décembre 2008, soumis à l'agente des appels, madame Ouellet a répondu à la question numéro 8, qui demande si elle connaissait Jean‑Louis Martel avant qu'elle ait commencé à travailler pour la payeuse, en disant « pas personnellement je l'ai entrevu une fois ou deux ». Elle a déclaré qu'il (Jean‑Louis) venait de temps en temps voir si le travail se faisait et qu’il venait aussi les vendredis pour la paie. Aux questions sur la fréquence des visites de Jean‑Louis Martel et sur ce qu’il faisait durant ses visites, elle a répondu que Jean‑Louis leur disait les vendredis quel travail devait se faire pendant la semaine d’après (questions 16 et 16a). À la question de savoir où elle avait travaillé (question 17a), elle a répondu : « sur les terre [sic] au rang 9 et 10 terre voisine et une terre à Maltais ». Pourtant, elle a témoigné avoir travaillé sur trois terres différentes pendant environ un mois ou un mois et demi dans chaque cas et avoir effectué toujours le même travail. Son salaire brut était 744,66 $ et son taux horaire était de 14,75 $ l'heure pour 50 heures par semaine, a-t-elle indiqué. Le salaire brut devrait donc être de 737,50 $ et non 744,66 $. Qui plus est, dans sa réponse à la question 28a) elle a déclaré cette fois-ci avoir été rémunérée en espèces, mais après avoir endossé un chèque du même montant, et elle a déclaré qu’elle signait une feuille chaque fois.
+[15] Le relevé d'emploi (pièce A-2) indique un total de 700 heures assurables et une rémunération assurable totale de 10 920 $. Cela donne un taux horaire de 15,60$. Compte tenu donc de cette contradiction et de toutes les autres, il est impossible de savoir avec certitude quelles étaient finalement les conditions de travail de l'appelante Evelyne Ouellet.
+[16] Le conjoint de l'appelante Monique Thibault était incertain de la durée de l'emploi de sa conjointe auprès de la payeuse. Il a déclaré que son travail consistait à planter des semis, qu'elle travaillait 50 heures par semaine de 6 h à 18 h dans la région de Saint-Quentin. Elle était surveillée par Jean‑Louis Martel et travaillait avec l'appelante Aline Lévesque et une autre personne, qui s’appelait Brenda Lemaître. Elle était payée de la même façon que les autres appelantes, soit en argent comptant les vendredis après-midi, et elle devait signer un reçu. Il a produit sous la cote A-5 le document qu'elle signait, mais il a été démontré par après qu'il s'agissait d'un document reproduit et non de celui qui était effectivement signé par l'appelante Monique Thibault tous les vendredis.
+[17] L'agente des appels, Manon McGraw, a présenté un tableau (pièce I-23) qui relève plusieurs contradictions dans les réponses données par l'appelante Monique Thibault dans les différents questionnaires qu'on lui a remis aux différents stades des enquêtes, et, tout comme dans le cas de l'appelante Evelyne Ouellet, il devient impossible de savoir avec certitude quelles étaient les conditions du contrat de travail de l'appelante Monique Thibault. Qu’il suffise de mentionner, à titre d'exemples, les contradictions concernant les tâches à accomplir, la région dans laquelle elle travaillait, les personnes avec qui elle travaillait, son horaire de travail, son équipement et les personnes avec qui elle voyageait pour se rendre au travail.
+[18] L'intimé, de son côté, a présenté une preuve qui démontre que la payeuse a fait l'objet d'une enquête majeure au motif que les relevés d'emploi remis aux 53 travailleurs de la payeuse en 2006 n'étaient pas appuyés par des documents établissant que des activités forestières étaient vraiment exercées par la payeuse. En effet, la payeuse n'aurait pas vendu le bois pour lequel elle prétend avoir rémunéré ses travailleurs ou encore la quantité de bois vendu était minime et les dates de vente étaient différentes des dates d'emploi. Il ne fait aucun doute que les activités de la payeuse ne pouvaient justifier le nombre de travailleurs embauchés par cette dernière, ce qui permet de croire à l’établissement de faux relevés d'emploi.
+[19] Il incombe aux appelantes de démontrer, selon la prépondérance des probabilités, qu'elles ont effectivement travaillé pour la payeuse durant toute la période dont il s’agit pour chacune d’elles pendant le nombre d'heures indiqué sur le relevé d'emploi et pour une rémunération correspondant à ce nombre d’heures.
+[20] Dans le cas de l'appelante Evelyne Ouellet, j'ai déjà relevé les éléments contradictoires que l'on trouve dans les réponses aux différents questionnaires et dans son témoignage. Il devient difficile, à ce moment-là, de déterminer si un emploi existait réellement et, si emploi il y avait, quelles en étaient les conditions. Le représentant de la payeuse, Jean‑Louis Martel, n'a pas été appelé à témoigner ni Mélissa Gallant, avec qui madame Ouellet travaillait. Les autres employés qui coupaient le bois tout près du lieu de travail auraient pu facilement confirmer les assertions de madame Ouellet. On m'a expliqué que Jean‑Louis Martel était introuvable, et je peux le comprendre. Pour ce qui est des autres, il me sera permis de déduire que leur témoignage n'aurait pas été favorable à l'appelante.
+[21] J'accorde donc très peu de valeur probante au témoignage de madame Ouellet. Il me paraît assez invraisemblable qu'une personne puisse travailler pendant 14 semaines consécutives à raison de 10 heures par jour dans toutes les conditions climatiques imaginables, et ce, jusqu'au 9 décembre 2006, sans perdre une seule heure de travail. Il ne semble pas y avoir eu de pause‑dîner et le travail ne consistait qu'à séparer le sapin de l'épinette en les marquant avec de la peinture. Madame Ouellet n’était pas certaine d’ailleurs de la longueur du bois coupé et à corder du bois de chauffage au beau milieu de la forêt, et tout cela durant 14 semaines consécutives à raison de 10 heures par jour.
+[22] La preuve documentaire nous apprend aussi que les relevés d'emploi ont été envoyés aux appelantes par la poste. La demande de prestations d'assurance‑emploi porte la même date que le relevé d'emploi dans le cas de l'appelante Aline Lévesque, la date du lendemain dans le cas de l'appelante Evelyne Ouellet et celle du surlendemain dans le cas de l'appelante Monique Thibault. Comment peut‑on être en possession du relevé le même jour que celui où il est posté?
+[23] Pour ce qui est de l'appelante Monique Thibault, son absence, même s'il est justifié pour des raisons valables, fait penser que son témoignage n'aurait pas été plus vraisemblable ou cohérent que les réponses qu'elle a fournies lors des enquêtes. Aucune demande d'ajournement n'a été présentée ni de demande de témoigner d’une autre façon dans son cas. C’est son procureur qui a choisi de procéder ainsi. Le représentant de la payeuse n'a pas témoigné pour les raisons qu'on connaît et les collègues de travail de madame Thibault n’ont pas témoigné non plus. J'en déduis donc que leur témoignage n'aurait pas été favorable à madame Thibault.
+[24] En ce qui concerne l'appelante Aline Lévesque, elle ne s'est pas présentée à l'audition de sa cause et j'en déduis qu'elle n'avait aucune preuve à présenter pouvant appuyer sa position.
+[25] Devant l’état de choses décrit ci-dessus, j'arrive à la conclusion qu'aucune des appelantes n’a travaillé pour la payeuse durant la période indiquée dans le relevé d'emploi de chacune et que, si elles ont effectivement rendu des services quelconques à la payeuse, elles ne le faisaient pas pendant les heures et pour la rémunération mentionnées dans leurs relevés d'emploi. En d'autres mots, leurs relevés d'emploi ne reflètent pas la réalité et sont le résultat d'un arrangement artificiel entre la payeuse et les appelantes.
+[26] Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2012.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2012 CCI 389
+Nºs DES DOSSIERS DE LA COUR : 2009-1223(EI), 2009-1222(EI),
+2009-1213(EI)
+INTITULÉS DES CAUSES: Aline Lévesque c. M.R.N.
+Evelyne Ouellet c. M.R.N.
+Monique Thibault c. M.R.N.
+LIEU DE L’AUDIENCE : Edmundston (Nouveau-Brunswick)
+DATES DE L’AUDIENCE : Les 1er et 2 octobre 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : Le 7 novembre 2012
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Denys Saindon
+Avocate de l'intimé :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Denys Saindon, avocat
+Cabinet : Québec (Québec)
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

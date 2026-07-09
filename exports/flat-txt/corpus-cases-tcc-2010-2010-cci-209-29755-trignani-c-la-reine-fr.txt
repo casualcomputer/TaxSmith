@@ -1,0 +1,141 @@
+Title: Trignani c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29755/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-209-29755-trignani-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-04-19
+
+# Trignani c. La Reine
+
+- Citation: 2010 CCI 209
+- Decision date: 2010-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6501, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trignani c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-19
+Référence neutre
+2010 CCI 209
+Numéro de dossier
+2008-3989(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3989(IT)I
+ENTRE :
+ENNIO TRIGNANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 avril 2010 à Hamilton (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat de l’appelant :
+Me Michael A. Jaeger
+Avocat de l’intimée :
+Me Darren Prevost
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est accueilli, et la cotisation est renvoyée au ministre du Revenu national en tenant compte du fait que les frais judicaires d’un montant de 5 375 $ sont déductibles dans le calcul du revenu.
+L’appelant a droit aux dépens conformément au tarif.
+Signé à Toronto (Ontario), ce 19e jour d’avril 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 31e jour de mai 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 209
+Date : 20100419
+Dossier : 2008-3989(IT)I
+ENTRE :
+ENNIO TRIGNANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question en litige dans le présent appel est de savoir si l’appelant, M. Ennio Trignani, a le droit de déduire dans le calcul de son revenu des frais judiciaires d’un montant de 5 375 $. L’appelant soutient que les frais sont déductibles compte tenu du fait qu’ils ont été engagés afin d’obtenir une pension alimentaire pour enfants.
+[2] Dans une cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2006, la déduction a été refusée en totalité.
+Le contexte factuel
+[3] L’appelant et son ex-épouse se sont séparés au mois de juillet 2000. Ils ont eu un enfant, qui était très jeune au moment de la séparation.
+[4] Selon l’accord de séparation conclu au mois d’août 2000 :
+· aucune pension alimentaire pour conjoint n’était prévue;
+· les parties convenaient d’une garde partagée de l’enfant;
+· l’appelant devait verser une pension alimentaire pour enfant de 350 $ chaque mois;
+· les biens familiaux nets devaient faire l’objet d’une égalisation.
+[5] Au printemps 2001, l’appelant et son épouse ont présenté chacun une requête en divorce. Ils ont aussi demandé chacun la garde exclusive de l’enfant et une pension alimentaire pour enfants.
+[6] Au mois de mai 2001, un juge de la Cour supérieure de justice de l’Ontario a délivré une ordonnance sur consentement. Elle était rédigée de la manière suivante :
+· l’appelant devait avoir la garde provisoire exclusive de l’enfant;
+· l’épouse devait avoir un droit de visite supervisée 50 pour 100 du temps;
+· l’appelant devait continuer à verser chaque mois une pension alimentaire pour enfant d’un montant de 350 $.
+[7] Nonobstant cet arrangement et pendant plusieurs années par la suite, l’appelant a continué d’avoir la garde physique de l’enfant pour la plupart du temps, parce qu’il n’y avait pas de supervision adéquate à la résidence de l’épouse.
+[8] Au mois de décembre 2006, la Cour de l’Ontario a délivré une ordonnance de divorce conformément au procès verbal de transaction. Outre le prononcé du divorce, l’ordonnance comprenait des dispositions prévoyant que :
+· les parents devaient avoir la garde conjointe de l’enfant;
+· l’appelant devait verser une pension alimentaire pour enfants de 443 $ par mois;
+· l’appelant devait verser une pension alimentaire pour conjoint d’un montant de 1 650 $ par mois;
+· les biens familiaux devaient être partagés.
+[9] En 2006, l’appelant a payé 36 185,35 $ de frais judiciaires relativement à cette affaire.
+[10] Dans sa déclaration de revenu de 2006, l’appelant a demandé une déduction de 5 375 $ représentant une estimation de la portion des frais judiciaires relatifs à la demande de pension alimentaire pour enfants.
+[11] Dans une lettre écrite en 2008 par l’avocat qui avait fourni les services juridiques, ce dernier estimait que 65 pour 100 des frais judiciaires de 2006 (36 185,35 $) concernaient la question de la pension alimentaire pour enfants et 100 pour 100 des frais judiciaires payés en 2007 (7 118,19 $) concernaient cette question. L’avocat n’a pas témoigné.
+[12] Selon le témoignage de l’appelant, que j’admets, la garde était la question la plus importante de l’instance en divorce. La pension alimentaire pour enfants n’était pas une question importante, sauf dans la mesure où elle devait varier en fonction de la personne qui avait la garde.
+Analyse
+[13] Il est généralement admis que les frais judiciaires engagés pour l’obtention d’une pension alimentaire pour enfants sont déductibles dans le calcul du revenu : Wakeman v. The Queen, [1996] 3 CTC 2165; McColl v. The Queen, 2000 DTC 2148; Sabour v. The Queen, [2002] 1 CTC 2585 (dans une remarque incidente au paragraphe 9) et Rabb v. The Queen, [2006] 3 CTC 2266.
+[14] L’Agence du revenu du Canada (l’« ARC ») a reconnu aussi ce principe, comme en témoigne le Bulletin d’interprétation IT-99R5, au paragraphe 17.
+[15] Il semble que le ministre n’a pas appliqué ce principe dans l’établissement de la cotisation, parce qu’il a tenu pour acquis que l’appelant n’avait pas présenté une demande officielle de pension alimentaire pour enfants (Alinéa 19f) de la réponse).
+[16] Toutefois, il ressort clairement de la preuve que cette hypothèse n’était pas correcte. Au mois d’avril 2001, l’appelant a demandé la garde exclusive et une pension alimentaire pour enfants dans une réponse et demande reconventionnelle présentée à la Cour supérieure de justice de l’Ontario.
+[17] À l’audience, l’avocat de l’intimée a soulevé deux arguments au soutien de la cotisation. Premièrement, il a fait valoir qu’en 2006, l’appelant n’avait pas le droit de recevoir une pension alimentaire de la part de son épouse parce que l’ordonnance du mois de mai 2001 enjoignait à l’appelant de verser une pension alimentaire pour enfants. Deuxièmement, il a avancé l’argument selon lequel l’appelant avait abandonné sa demande de pension alimentaire pour enfants.
+[18] Le premier argument semble être fondé sur un principe bien établi qui est appliqué dans le contexte des pensions alimentaires pour conjoint. Selon ce principe, les frais judiciaires engagés en vue d’établir un droit à une pension alimentaire pour conjoint étaient considérés comme des dépenses en capital et n’étaient pas déductibles au titre de l’alinéa 18(1)b). Il en va tout autrement des frais engagés pour faire respecter un droit déjà existant : ils constituent des dépenses courantes.
+[19] Des décisions judiciaires plus récentes ont remis en cause la justesse de ce principe et il semble que l’ARC a renoncé à son application : Nissim v . The Queen, [1999] 1 CTC 2119; Impôt sur le revenu – Nouvelles techniques no 24, le 10 octobre 2002. À l’heure actuelle toutefois, la jurisprudence n’est pas clairement établie : Nadeau c. Canada (ministre du Revenu national), 2003 CAF 400, au paragraphe 7.
+[20] Le présent appel ne concerne pas la pension alimentaire pour conjoint toutefois, et je ne suis pas au courant du fait que le principe ci-dessus ait jamais été appliqué à la pension alimentaire pour enfants.
+[21] Il semble qu’en matière de pension alimentaire pour enfants, les frais judiciaires ont été considérés comme des dépenses courantes compte tenu du fait qu’il y a un droit déjà existant en vertu d’une obligation prescrite par la loi selon laquelle il incombe à chacun des parents de subvenir aux besoins de ses enfants : McColl, précité.
+[22] Si je comprends bien la position de l’intimée, la distinction traditionnelle entre le capital et le revenu s’applique en l’espèce. Elle soutient qu’en 2006, l’appelant n’avait pas un droit déjà existant à une pension alimentaire pour enfants, parce que ce droit avait été éteint par l’ordonnance de mai 2001 qui accordait à l’épouse de l’appelant le droit à une pension alimentaire pour enfants provisoire.
+[23] Je ne souscris pas à cet argument. À mon avis, l’ordonnance de mai 2001 n’a pas éteint le droit de l’appelant à la pension alimentaire pour enfants. L’obligation prescrite par la loi de subvenir aux besoins des enfants n’est pas éteinte par une ordonnance de la cour, et spécialement une ordonnance de la cour qui accorde seulement une pension alimentaire provisoire.
+[24] J’examine à présent le second argument de l’intimée, à savoir que l’appelant avait abandonné la demande de pension alimentaire pour enfants.
+[25] Pour que cet argument soit retenu, il faut démontrer que la demande de pension alimentaire pour enfants a été abandonnée avant la prestation des services juridiques concernés en 2006.
+[26] La preuve n’a pas établi ce fait.
+[27] Au cours du contre-interrogatoire, l’appelant a reconnu que la demande de pension alimentaire pour enfants avait été abandonnée, comme en témoigne une clause de l’ordonnance de la cour de 2006. Je ne suis pas prête à admettre que la demande a été abandonnée avant la prestation des services juridiques concernés. Il est fort possible que la demande ait été abandonnée à la signature du procès‑verbal de transaction qui est vraisemblablement intervenue après la prestation de la plupart des services juridiques.
+[28] La preuve dans son ensemble constitue un argument solide selon lequel la demande de garde d’enfant (et par conséquent de pension alimentaire pour enfants) en 2001 a été faite de bonne foi, n’était pas frivole et avait une chance raisonnable de succès. En l’absence d’une preuve contraire, je ne suis pas disposée à présumer que la présente demande n’avait pas été poursuivie activement en 2006.
+[29] Enfin, je tiens à faire un bref commentaire au sujet du fait que pour arriver à cette conclusion, je n’ai accordé aucune importance à la lettre de l’avocat datée de 2008 qui répartissait les frais judiciaires. L’avocat n’a pas témoigné et il n’a pas été contre‑interrogé.
+[30] L’appel est accueilli sur cette base. L’appelant a droit aux dépens conformément au tarif.
+Signé à Toronto (Ontario), ce 19e jour d’avril 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 31e jour de mai 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 209
+No DU DOSSIER DE LA COUR : 2008-3989(IT)I
+INTITULÉ : ENNIO TRIGNANI
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 9 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 19 avril 2010
+COMPARUTION :
+Avocat de l’appelant :
+Me Michael A. Jaeger
+Avocat de l’intimée :
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Michael A. Jaeger
+Cabinet : Boddy Ryerson LLP
+Brantford (Ontario)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

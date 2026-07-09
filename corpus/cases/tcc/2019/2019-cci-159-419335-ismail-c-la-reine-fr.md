@@ -1,0 +1,214 @@
+---
+title: "Ismail c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/419335/index.do"
+last_modified: "2019-07-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 159"
+citation2: ""
+neutral_citation: "2019 CCI 159"
+decision_date: "2019-07-31"
+language: "fr"
+item_id: "419335"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4216
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:12:37.049000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "054a72c465b182d731df5ee2e0baa3b790fd66315c943f4a521bc2b739c4a58a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ismail c. La Reine
+
+- Citation: 2019 CCI 159
+- Decision date: 2019-07-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4216, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ismail c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-07-31
+Référence neutre
+2019 CCI 159
+Numéro de dossier
+2018-4136(IT)I
+Juges et Officiers taxateurs
+Siobhan Monaghan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4136(IT)I
+ENTRE :
+YOUSSEF ISMAIL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 3 mai 2019, à Ottawa (Ontario)
+Devant : L’honorable juge K.A. Siobhan Monaghan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Raphaelle St. Pierre, stagiaire en droit
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+L’appel formé à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2013 de l’appelant est rejeté. Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2019.
+« K.A. Siobhan Monaghan »
+La juge Monaghan
+Référence : 2019 CCI 159
+Date : 20190731
+Dossier : 2018-4136(IT)I
+ENTRE :
+YOUSSEF ISMAIL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Monaghan
+I. INTRODUCTION
+[1] Yousef Ismail est un Égyptien arrivé au Canada en 2007 à titre d’étudiant étranger participant à un programme conjoint de l’Égypte et du Canada. M. Ismail a expliqué que l’Égypte doit compter sur l’aide d’établissements situés au Canada, en Europe et aux États-Unis pour la formation et le perfectionnement des connaissances des étudiants égyptiens, de même que pour le progrès de l’éducation en Égypte. Avant sa venue au Canada, M. Ismail avait fait des études en agronomie à l’Université d’Alexandrie, où il avait obtenu un baccalauréat en 1999, puis une maîtrise en 2004. En 2005, il s’est inscrit à un programme de doctorat à l’Université du Caire. Il avait effectué une partie des travaux de cours quand il a été sélectionné par l’Égypte pour venir au Canada. En 2008, M. Ismail s’est inscrit au programme de doctorat de l’Université de Montréal, qu’il a poursuivi jusqu’à l’obtention de son diplôme en 2012.
+[2] Quand il a eu terminé son doctorat au Canada, il a soumis sa candidature à un poste de chercheur postdoctoral chez Énergie atomique du Canada limitée (EACL). Il a reçu l’aide de son directeur de recherche au doctorat à l’Université de Montréal pour préparer sa candidature. En août 2012, EACL a offert une bourse de perfectionnement postdoctoral (fellowship) à M. Ismail et il a commencé ses travaux en janvier 2013.
+[3] M. Ismail a appris de ses collègues qu’ils n’avaient pas payé d’impôt sur les montants des bourses de perfectionnement octroyées par EACL. Fort de cette information, M. Ismail a produit une demande de redressement de la T1 produite pour l’année d’imposition 2013 en vue de réclamer une exemption pour sa bourse de perfectionnement. De toute évidence, l’Agence du revenu du Canada a refusé de lui communiquer tout renseignement concernant ses collègues. M. Ismail affirme néanmoins que même si, durant la même période, ses collègues faisaient des recherches dans le cadre du même programme que lui, ils auraient eu droit à une exemption pour le montant intégral de la bourse de perfectionnement qui leur a été versée.
+[4] Le ministre a accepté que M. Ismail déclare 500 $ sur la somme totale reçue au titre de l’exemption pour bourse d’études, et il a établi une nouvelle cotisation réduisant de 500 $ son revenu pour 2013. Estimant que l’exemption s’appliquait au montant intégral de la bourse de perfectionnement, M. Ismail a formé le présent appel en application de la Loi de l’impôt sur le revenu (la Loi).
+II. FARDEAU
+[5] M. Ismail souscrit à une bonne partie des hypothèses de fait sur lesquelles repose la nouvelle cotisation, telles qu’elles sont exposées en détail dans la réponse de l’intimée à l’avis d’appel, et elles ne prêtent donc pas à controverse. Notamment, il reconnaît qu’il était chercheur postdoctoral chez EACL, qui lui versait une bourse de perfectionnement, mais qu’il n’y était inscrit à aucun programme de formation et qu’il ne lui payait donc pas de frais de scolarité. Même si ces faits sont véridiques, ils ne justifient pas l’établissement d’une nouvelle cotisation puisque M. Ismail déclare que le programme de formation pertinent est le programme de doctorat auquel il était inscrit en Égypte.
+[6] Parmi celles qui sont formulées dans la réponse, M. Ismail conteste uniquement les hypothèses de fait voulant qu’il n’ait à aucun moment en 2013 effectué des recherches chez EACL dans le cadre d’un programme conduisant à un diplôme ou touché une quelconque partie de la bourse postdoctorale au titre d’études supérieures menées chez EACL. M. Ismail convient du fait qu’EACL n’offrait pas de programme de formation, mais il fait valoir qu’il y menait des travaux de recherche dans le cadre d’études supérieures liées au programme de doctorat auquel il était inscrit en Égypte, et que la bourse lui était versée à ce titre. Compte tenu de la position de M. Ismail et de la formulation des hypothèses de fait, il appartient à l’intimée d’établir plusieurs des faits requis pour confirmer la nouvelle cotisation.
+III. QUESTION EN LITIGE
+[7] Un contribuable doit déclarer à titre de revenu la différence entre le montant de toutes les bourses d’études et de perfectionnement reçues au cours d’une année et le montant de l’exemption pour bourse d’études à laquelle il a droit. Les parties reconnaissent que M. Ismail était un boursier postdoctoral et qu’en 2013 il menait des recherches chez EACL, qui à ce titre lui a versé une bourse de perfectionnement de 56 100,26 $. Le ministre a considéré que de cette somme, M. Ismail pouvait déduire 500 $ au titre d’une exemption pour bourse d’études [1] en application de l’alinéa 56(3)c), mais M. Ismail estime que la totalité de la bourse qu’il a reçue remplit les conditions d’admissibilité à l’exemption pour bourse d’études prévue à l’alinéa 56(3)a).
+[8] Selon cette disposition, ouvrent droit à cette exemption les bourses d’études et de perfectionnement reçues par un contribuable relativement à son inscription à un programme de formation au titre duquel il serait admissible à ce que l’on appelle ordinairement un crédit d’impôt pour études pour une année d’imposition, l’année antérieure ou l’année [2] .
+[9] Pour avoir droit à un crédit d’impôt pour études, il faut être un étudiant inscrit :
+- soit à un programme de formation admissible comme étudiant à temps plein d’un établissement d’enseignement agréé,
+- soit à un programme de formation déterminé d’un établissement d’enseignement agréé au cours duquel l’étudiant doit consacrer au moins 12 heures par mois.
+Les termes en gras sont définis aux fins qui nous concernent dans la Loi.
+[10] Par ailleurs, pour avoir droit à un crédit d’impôt pour études, il faut présenter au ministre un certificat attestant l’inscription qui a été délivré par l’établissement d’enseignement agréé. L’obligation de présenter le certificat n’est pas mentionnée dans les hypothèses de fait formulées dans la réponse de l’intimée à l’avis d’appel. Il incombe donc à l’intimée d’établir que cette condition n’a pas été remplie. Comme cette question n’a été soulevée ni à l’audience ni dans la réponse, j’ai tenu pour acquis que la condition liée à la présentation d’un certificat d’inscription n’était pas en cause.
+[11] Dans le présent appel, il s’agit de trancher si M. Ismail a reçu une bourse de perfectionnement d’EACL relativement à son inscription à un programme de formation au titre duquel il peut déduire un crédit d’impôt pour études pour l’année 2012, 2013 ou 2014. L’intimée ne conteste pas que la somme versée par EACL à M. Ismail peut être considérée comme une bourse de perfectionnement, mais elle met en cause l’observation de toutes les autres conditions. Les questions à examiner sont donc les suivantes :
+M. Ismail était-il inscrit à un établissement d’enseignement agréé en 2013 [3] ?
+Dans l’affirmative, M. Ismail était-il :
+inscrit à un programme de formation admissible comme étudiant à temps plein d’un établissement d’enseignement agréé
+ou inscrit à un programme de formation déterminé d’un établissement d’enseignement agréé au cours duquel chaque étudiant doit consacrer au moins 12 heures par mois?
+Et dans l’affirmative, a-t-il reçu la bourse de perfectionnement en question relativement à son inscription à ce programme de formation?
+[12] Comme je l’ai mentionné précédemment, il incombe à l’intimée, et non à M. Ismail, d’établir plusieurs des faits pertinents. Étant donné que l’intimée n’a pas cité de témoins, elle doit se fonder sur les éléments de preuve produits par M. Ismail, le seul témoin à l’instruction. M. Ismail m’est apparu comme un témoin franc, honnête et crédible.
+IV. ANALYSE DES QUESTIONS EN LITIGE
+1. M. Ismail était-il inscrit à un établissement d’enseignement agréé en 2013?
+[13] Le terme « établissement d’enseignement agréé » est défini au paragraphe 118.6(1) de la Loi. Dans cette définition, l’alinéa a) s’applique seulement aux établissements d’enseignement situés au Canada, tandis que l’alinéa c) s’applique seulement aux établissements situés aux États-Unis qui satisfont à certaines conditions.
+[14] L’intimée fait valoir qu’EACL n’est pas une université et qu’il ne décerne pas de diplôme. M. Ismail est d’accord. Son inscription au programme de doctorat de l’Université de Montréal a pris fin en 2011 [4] . Il concède par conséquent qu’il n’était pas inscrit à un établissement situé au Canada ou aux États-Unis en 2013.
+[15] Cependant, une université située à l’étranger où un particulier est inscrit à un cours d’une durée minimale de trois semaines consécutives qui conduit à un diplôme est considérée comme un établissement d’enseignement agréé [5] . M. Ismail affirme que, dans son cas, l’établissement pertinent est situé en Égypte. Les trois conditions suivantes doivent donc être réunies pour que cette partie de la définition s’applique :
+l’établissement pertinent situé en Égypte doit être une université;
+M. Ismail devait être inscrit à un cours d’une durée minimale de trois semaines consécutives dans cet établissement;
+ce cours devait conduire à un diplôme.
+(i) L’établissement situé en Égypte est-il une université?
+[16] M. Ismail a affirmé qu’il s’était inscrit au programme de doctorat de l’Université du Caire en 2005 et qu’il avait été inscrit à titre de doctorant en Égypte tout au long de l’année 2013. Il n’a pas été contesté que l’Université du Caire satisfait à la définition d’un établissement universitaire. Elle figure d’ailleurs sur la Liste d’établissements d’enseignement agréés publiée par l’Agence du revenu du Canada. Je conclus donc que l’Université du Caire est un établissement universitaire.
+[17] Il a aussi été question du Centre de recherche sur la désertification, un autre établissement situé en Égypte, auquel M. Ismail était rattaché. Il a expliqué dans sa déposition que le Centre de recherche sur la désertification mène des études et des recherches dans les régions désertiques de l’Égypte et qu’il est assujetti à la réglementation sur les universités. Il y menait des recherches avant de venir au Canada.
+[18] M. Ismail a précisé que chaque année, il doit demander l’autorisation de l’Égypte pour rester au Canada. C’est ce qu’il a fait tous les ans depuis qu’il a terminé ses études doctorales à l’Université de Montréal. M. Ismail a produit deux documents (les décrets) qui attestent qu’il a reçu l’autorisation de rester au Canada pour la période de septembre 2013 à septembre 2014, ainsi que pour la période se terminant le 23 septembre 2015 [6] . Les décrets font état d’une décision par laquelle le président du Centre de recherche sur la désertification a autorisé M. Ismail à rester au Canada. Le Centre de recherche est également un établissement d’enseignement, comme en fait foi le passage des décrets qui mentionne que le président l’a autorisé à rester au Canada après avoir consulté la loi concernant la réglementation des universités.
+[19] La question du lien entre l’Université du Caire et le Centre de recherche sur la désertification n’a pas été abordée expressément à l’audience. Quoi qu’il en soit, l’avocate de l’intimée n’a pas interrogé M. Ismail à ce propos. Cependant, puisque j’ai retenu l’affirmation de M. Ismail concernant son inscription continue au programme de doctorat de l’Université du Caire tout au long de l’année 2013, point n’est besoin d’établir si le Centre est aussi une université.
+(ii) M. Ismail était-il inscrit à un cours d’une durée minimale de trois semaines consécutives dans le cadre du programme de doctorat en Égypte?
+[20] L’avocate de l’intimée a demandé à M. Ismail s’il avait interrompu ses études doctorales en Égypte pour mener ses recherches postdoctorales au Canada, question à laquelle il a répondu par la négative. Il a expliqué que ses recherches au Canada sont menées dans une optique de perfectionnement et qu’elles seront reconnues par le programme de doctorat en Égypte, auquel il était inscrit pendant toute la période pertinente, et que l’autorisation obtenue de son pays pour rester au Canada en 2013 était fondée sur ses travaux de recherche à EACL [7] . Je retiens ce témoignage.
+[21] La définition d’établissement d’enseignement agréé renvoie à l’inscription à des cours plutôt qu’à un programme. Bien que M. Ismail affirme qu’il était inscrit à un programme de doctorat, il reste à savoir s’il était inscrit à un cours en particulier en 2013.
+[22] Les dispositions portant sur le crédit d’impôt pour études établissent une distinction entre programme et cours. Par exemple, les définitions de « programme de formation admissible » et de « programme de formation déterminé » renvoient toutes les deux aux heures que doit consacrer un étudiant aux cours du programme, ce qui donne à penser qu’il existe une distinction et que le programme est considéré comme la somme des cours et des travaux, alors que le cours représente une composante d’un programme qui en compte plusieurs. J’observe en outre que l’inscription à un cours est une condition qui s’applique seulement aux établissements étrangers autres que ceux qui sont situés aux États-Unis et qui remplissent les conditions de l’alinéa c) de la définition d’établissement d’enseignement agréé.
+[23] Dans les décisions antérieures mettant en cause la condition des semaines consécutives – en règle générale, dans le contexte des dispositions de la Loi sur le crédit d’impôt pour frais de scolarité –, l’accent est presque toujours placé sur des cours distincts et non sur un programme complet [8] . Compte tenu du contexte dans lequel le mot « cours » est employé, je souscris à la conclusion tirée dans les décisions antérieures selon laquelle un cours est une composante d’un programme et non un programme en soi.
+[24] Toutefois, dans la réponse de l’intimée, il a été tenu pour acquis que M. Ismail n’était pas un inscrit à un programme de formation à EACL. Quand M. Ismail a fait valoir que l’université égyptienne était un établissement d’enseignement agréé, l’avocate de l’intimée ne lui a pas demandé si, en 2013, il était inscrit à un cours en Égypte. Ses questions portaient sur le maintien de l’inscription au programme de doctorat en Égypte et sur l’interruption de ces études. J’ai retenu le témoignage de M. Ismail relativement à son inscription au programme de doctorat en 2013.
+[25] Si je m’en remets aux hypothèses de fait, il revenait à l’intimée d’établir que M. Ismail n’était pas inscrit à un cours d’une durée minimale de trois semaines consécutives en Égypte. L’intimée n’a donné aucune information concernant l’inscription de M. Ismail à un cours. Étant donné qu’elle ne s’est pas acquittée du fardeau qui lui incombait, il est considéré aux fins du présent appel que M. Ismail a établi qu’il était inscrit à un cours d’une durée minimale de trois semaines consécutives.
+(iii) Le cours conduisait-il à un diplôme?
+[26] Lorsque l’avocate de l’intimée a demandé à M. Ismail s’il avait obtenu un diplôme au terme des recherches postdoctorales pour lesquelles EACL lui avait donné une bourse de perfectionnement, il lui a répondu qu’il n’avait pas encore été diplômé parce qu’il n’avait pas terminé ses recherches doctorales en Égypte. Il a ajouté qu’il n’existe pas à proprement parler de diplôme de postdoctorat et qu’il projetait de poursuivre son programme de doctorat en Égypte. Il a également déclaré qu’il obtiendrait le titre de chercheur scientifique agréé, qui selon lui est assimilable à un diplôme.
+[27] Selon la définition d’établissement d’enseignement agréé, la seule condition imposée à M. Ismail était d’être inscrit à un cours conduisant à un diplôme. La définition ne requiert pas qu’un diplôme soit obtenu à la fin du cours. Je retiens son témoignage comme quoi il avait été inscrit au programme de doctorat en Égypte pendant toute la période pertinente, son programme de recherche à EACL lui donnerait droit à des crédits pour l’obtention d’un diplôme de doctorat en Égypte et, partant, ses travaux à EACL faisaient partie intégrante d’un programme conduisant à un diplôme.
+[28] Par conséquent, aux fins du présent appel, il est considéré que M. Ismail était inscrit à un établissement d’enseignement agréé en 2013.
+2a. M. Ismail était-il un étudiant inscrit à un programme de formation admissible comme étudiant à temps plein d’un établissement d’enseignement agréé?
+[29] Un programme de formation admissible est défini [9] comme un programme d’une durée minimale de trois semaines consécutives, aux cours ou aux travaux duquel l’étudiant doit consacrer dix heures par semaine au moins et qui, s’il s’agit d’un programme d’un établissement postsecondaire, est un programme qui ne consiste pas principalement à faire de la recherche, à moins qu’il ne mène à un diplôme décerné par un collège ou un collège d’enseignement général et professionnel (cégep) ou à un baccalauréat, une maîtrise ou un doctorat ou à un grade équivalent, sous réserve de certaines exceptions qui ne sont pas pertinentes en l’espèce [10] .
+[30] Il n’est pas contesté qu’un doctorat est un programme de niveau postsecondaire. Il n’a pas été question de la durée du programme à l’instruction, mais il revenait à l’intimée d’établir qu’il n’avait pas une durée minimale de trois semaines consécutives.
+[31] La définition de programme de formation admissible distingue le travail lié à un cours et d’autres travaux réalisés dans le cadre du programme. Par ailleurs, la définition mentionne expressément qu’un programme qui consiste principalement à faire de la recherche est admissible s’il mène à un diplôme de cégep ou à un baccalauréat, une maîtrise, un doctorat ou à un grade équivalent.
+[32] L’avocate de l’intimée a paru sous-entendre qu’au vu de la définition d’un programme de formation admissible, M. Ismail aurait dû obtenir un diplôme au terme du programme de bourse postdoctorale. À deux reprises au moins, elle a demandé à M. Ismail s’il avait reçu un diplôme à la fin de ce programme. La définition de programme de formation admissible indique que le programme doit mener à un diplôme de collège ou à un grade quelconque, mais il n’y est pas mentionné que ce diplôme ou ce grade doit être obtenu. De surcroît, selon la définition, le programme peut consister principalement à faire de la recherche pour autant qu’il conduise à un diplôme. M. Ismail fait observer que les travaux de recherche réalisés à EACL lui donneront droit à des crédits pour l’obtention de son doctorat en Égypte et que, de ce fait, celui-ci est donc admissible. Je conviens que la seule exigence qui lui est imposée est que ses travaux de recherche mènent à un diplôme, peu importe qu’il soit décerné ou non.
+[33] Pour réclamer un crédit d’impôt pour études à l’égard d’un programme de formation admissible, le particulier doit être inscrit comme étudiant à temps plein à un programme d’un établissement d’enseignement agréé aux cours ou aux travaux duquel il doit consacrer dix heures par semaine au moins. La définition de programme de formation admissible prévoit qu’il peut consister principalement à faire de la recherche. C’est suffisant pour conclure qu’un particulier qui consacre tout son temps à des travaux de recherche dans le cadre d’un programme est un étudiant à temps plein. Il ressort des décisions antérieures que la qualité d’étudiant à temps plein est essentiellement fonction des exigences à cet égard de l’établissement fréquenté [11] .
+[34] La réponse de l’intimée ne renferme aucune hypothèse de fait concernant la qualité d’étudiant à temps plein de M. Ismail ou les exigences du programme quant à l’engagement de temps.
+[35] Aucune question n’a été posée sur ces aspects du programme de doctorat en Égypte. L’intimée avait le fardeau d’établir ces faits. Or, étant donné l’absence d’éléments de preuve sur la qualité d’étudiant à temps plein de M. Ismail [12] ou les exigences de travail (de recherche, en l’occurrence) du programme de doctorat en Égypte, il doit être considéré comme un étudiant inscrit à temps plein à un programme de formation admissible d’un établissement d’enseignement agréé aux fins du présent appel.
+2b. M. Ismail était-il un étudiant inscrit à un programme de formation déterminé au cours duquel l’étudiant doit consacrer au moins 12 heures par mois?
+[36] Un programme de formation déterminé est défini comme un programme qui serait un programme de formation admissible s’il n’était pas tenu compte du passage « aux cours ou aux travaux duquel l’étudiant doit consacrer 10 heures par semaine au moins » dans la définition de programme de formation admissible. Autrement dit, la seule distinction entre un programme de formation admissible et un programme de formation déterminé a trait au temps qui doit être consacré aux cours ou aux travaux.
+[37] Cependant, pour faire admettre qu’il est inscrit à un programme de formation déterminé, un particulier doit établir qu’il est tenu de consacrer au moins 12 heures par mois aux cours du programme.
+[38] Même s’il n’est pas nécessaire d’examiner cette question en raison de la conclusion sur la question 2a, il convient de souligner qu’il incombait à l’intimée d’établir que M. Ismail n’était pas tenu de consacrer au moins 12 heures par mois aux cours du programme auquel il était inscrit. Tel qu’il a été mentionné précédemment, les exigences relatives à l’engagement de temps n’ont pas été prises en considération et il faut donc considérer que M. Ismail était un étudiant inscrit à un programme de formation déterminé au cours duquel il devait consacrer au moins 12 heures par mois.
+3. M. Ismail a-t-il reçu la bourse de perfectionnement relativement à son inscription au programme de doctorat en Égypte?
+[39] La Loi dispose qu’une bourse d’études ou de perfectionnement n’est considérée comme reçue relativement à l’inscription d’un contribuable à un programme d’études que dans la mesure où elle vise à soutenir l’inscription du contribuable au programme, compte tenu des circonstances, y compris les conditions de la bourse, la durée du programme et la période pendant laquelle la bourse sert au soutien [13] .
+[40] Dans sa réponse, l’intimée a tenu pour acquis qu’aucune partie de la bourse de perfectionnement n’a été versée relativement à l’inscription à un programme d’études supérieures d’EACL. Sans égard au fait qu’il faisait de la recherche (dans le cadre d’un programme d’études supérieures) à EACL, M. Ismail pourra avoir gain de cause en appel seulement s’il a reçu le montant de la bourse de perfectionnement relativement à son inscription au programme de doctorat en Égypte, puisque c’est le seul programme de formation lui donnant droit à un crédit d’impôt pour études en 2013. Plus précisément, la bourse de perfectionnement devait soutenir son inscription au programme de doctorat en Égypte compte tenu des circonstances, y compris les conditions de la bourse de perfectionnement, la durée du programme et la période pendant laquelle la bourse a servi au soutien.
+[41] Même si le texte législatif n’indique pas si l’intention doit être envisagée du point de vue du bénéficiaire ou de celui du payeur de la bourse de perfectionnement, je suis d’avis que c’est l’intention du payeur qui prime, donc celle d’EACL dans le cas qui nous occupe. Cela dit, il importe de distinguer l’intention de la motivation. La motivation est ce qui pousse ou amène à agir, alors que l’intention est l’objectif d’un acte accompli [14] . L’intention subjective peut être pertinente, mais ce n’est pas suffisant. Il faut l’apprécier de manière objective, à plus forte raison s’il faut tenir compte des circonstances et des conditions. Autrement dit, l’intention pertinente doit se manifester objectivement [15] .
+[42] Au terme de ses études de doctorat à l’Université de Montréal, M. Ismail a soumis sa candidature à un poste de chercheur postdoctoral chez EACL. Il a préparé son dossier de candidature avec l’aide de son directeur de recherche à l’Université de Montréal. M. Ismail a affirmé que cette démarche ne concernait aucunement l’Égypte, si ce n’est qu’il devait obtenir son autorisation pour rester au Canada. Même si ses travaux de recherche à EACL pouvaient lui servir pour son doctorat en Égypte, un examen des circonstances et des modalités de la bourse de perfectionnement ne me permettent pas de conclure qu’elle a été offerte par EACL relativement à l’inscription de M. Ismail au programme de doctorat en Égypte.
+[43] EACL lui a offert le poste de chercheur postdoctoral dans une lettre datée du 13 août 2012. Il a accepté l’offre, mais il a commencé ses travaux dans le cadre du programme de bourse de perfectionnement seulement en janvier 2013, soit seulement après qu’il a obtenu les habilitations de sécurité exigées et fourni les documents nécessaires, et qu’il est retourné en Égypte pour rendre compte de ses études de doctorat au Canada, soumettre son projet de recherche postdoctorale au Canada et convaincre les établissements concernés que cette recherche lui permettrait d’approfondir ses connaissances et de poursuivre ses études.
+[44] Dans sa lettre, EACL lui offrait une affectation de deux ans, avec une option de reconduction pour une troisième année [16] . M. Ismail était invité à mener des travaux de recherche sous la direction et la supervision d’EACL. L’offre ne fait pas mention d’un lien quelconque avec les études de M. Ismail en Égypte. Du reste, M. Ismail a lui-même déclaré qu’il avait soumis sa candidature sans que l’Égypte intervienne d’aucune manière. Aucune des conditions énoncées dans l’offre n’obligeait M. Ismail à être inscrit à un programme de formation pour obtenir une bourse de perfectionnement. Il y est indiqué qu’à titre de participant à un programme postdoctoral, M. Ismail pourrait être tenu de publier le résultat de ses travaux, auquel cas EACL lui fournirait le soutien voulu. Par ailleurs, l’offre stipule explicitement que tous les droits de propriété intellectuelle et afférents à l’information ou au matériel produit, mis au point ou acquis par M. Ismail dans le cadre de ses travaux appartiennent à EACL, et que ces droits l’emportent sur toute obligation de publication de M. Ismail. Il n’est question nulle part dans l’offre d’une intention d’EACL de soutenir l’inscription de M. Ismail au programme de doctorat en Égypte ou d’un lien quelconque entre la bourse de perfectionnement et celui-ci. M. Ismail avait obtenu l’appui de l’Égypte pour poursuivre ses recherches au Canada, mais rien dans son témoignage ne laisse entendre qu’EACL souhaitait qu’il reste inscrit au programme de doctorat en Égypte.
+[45] Si je me place du point de vue de M. Ismail, je ne trouve pas non plus de lien suffisant avec la bourse de perfectionnement. Je conviens que ses recherches et son expérience chez EACL pouvaient lui servir pour la poursuite de ses études de doctorat en Égypte et, éventuellement, l’obtention de son diplôme, mais ce n’est pas suffisant pour établir que la bourse de perfectionnement visait à soutenir son inscription à ce programme, du moins selon l’interprétation qu’il faut donner à ce passage à cette fin. L’obtention de la bourse de perfectionnement n’était pas conditionnelle à son inscription au programme de doctorat. La durée de la bourse n’avait pas non plus de lien avec la durée du programme de doctorat en Égypte. Il y était inscrit depuis sept ans quand il a commencé ses recherches dans le cadre du programme de bourse de perfectionnement, et il a maintenu son inscription après la fin de celui-ci. Il a reçu une bourse de perfectionnement pendant deux ans [17] .
+[46] À mon avis, il ne suffit pas de présumer que M. Ismail avait posé sa candidature au programme de bourse de perfectionnement en vue d’approfondir ses connaissances et d’améliorer ses chances de satisfaire aux exigences du programme de doctorat en Égypte.
+[47] Compte tenu de la preuve, j’ai conclu qu’EACL n’a pas versé la bourse de perfectionnement à M. Ismail relativement à son inscription au programme de doctorat en Égypte, comme l’exige la Loi. Par conséquent, son appel Ismail est rejeté.
+V. CONCLUSION
+[48] M. Ismail semble être un chercheur compétent, consciencieux, honnête et avisé. Je peux facilement concevoir qu’il soit contrarié de ne pas avoir droit au même traitement que ses collègues du programme postdoctoral d’EACL. Je suis très sensible à son sentiment de frustration, mais je ne puis trancher son appel autrement que conformément au droit. En conséquence, je dois rejeter l’appel formé à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2013 de l’appelant. Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2019.
+« K.A. Siobhan Monaghan »
+La juge Monaghan
+RÉFÉRENCE :
+2019 CCI 159
+NO DU DOSSIER DE LA COUR :
+2018-4136(IT)I
+INTITULÉ :
+YOUSSEF ISMAIL c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 3 mai 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge K.A. Siobhan Monaghan
+DATE DU JUGEMENT :
+Le 31 juillet 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Raphaelle St. Pierre, stagiaire en droit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Il s’agit de l’exemption de base.
+[2] La Loi fait mention d’une somme déductible en application du paragraphe 118.6(2) dans le calcul de l’impôt payable par le contribuable pour une année d’imposition, l’année antérieure ou l’année subséquente. Dans les présents motifs, je vais désigner cette somme par le terme « crédit d’impôt pour études » parce que c’est le plus couramment employé.
+[3] La question de son inscription en 2012 ou en 2014 pourrait s’avérer tout aussi pertinente, mais elle n’a pas été soulevée à l’audience. L’accent a été mis sur l’inscription en 2013. M. Ismail affirme qu’il était inscrit au même programme de doctorat à chacune de ces années, mais cela n’a aucune incidence sur l’issue de l’appel. Aucune preuve n’a été produite concernant son inscription dans un autre établissement en 2012 ou en 2014. Son inscription à l’Université de Montréal a pris fin en 2011.
+[4] Voir les pièces A-2 et A-4.
+[5] Voir l’alinéa b) de la définition d’établissement d’enseignement agréé au paragraphe 118.6(1).
+[6] Pièce A-6.
+[7] M. Ismail s’est marié en 2013, un événement qui peut aussi avoir été pris en compte.
+[8] Voir notamment Ali c. La Reine, 2004 CCI 726 (inf.); Ferre c. La Reine, 2010 CCI 593 (inf.); Faint c. La Reine, 2011 CCI 26 (inf.), et Rose c. La Reine, 2012 CCI 166 (appel abandonné) (inf.). Cependant, pour une conclusion contraire, voir Siddell c. La Reine, 2011 CCI 250 (inf.).
+[9] Voir le paragraphe 118.6(1) de la Loi.
+[10] Fait exception tout programme au titre des frais duquel l’étudiant reçoit une allocation, un avantage, une subvention ou un remboursement, sauf certains avantages déterminés, y compris une somme reçue au titre d’une bourse d’études, d’une bourse de perfectionnement ou d’une récompense couronnant une œuvre remarquable réalisée dans son domaine d’activité habituel.
+[11] Ferre, précitée.
+[12] Quelques éléments de preuve tirés des décrets soumis par M. Ismail me semblent dignes de mention. Ces décrets, qui peuvent donner à penser que M. Ismail était plutôt un employé qu’un étudiant, étaient des copies d’originaux qui ont été traduits de l’arabe au moyen de l’application TranslationPal. Les décrets font état d’une reconduction de l’autorisation de rester au Canada [traduction] « sans rémunération ». M. Ismail a soutenu que le terme [traduction] « rémunération » tel qu’il est employé dans les décrets n’a pas le même sens qu’au Canada. Il fait plutôt référence à une bourse. Selon ses explications, tous les étudiants diplômés en Égypte reçoivent une aide financière qui fait office de [traduction] « rémunération symbolique ». À l’instar du Canada, qui accorde des bourses aux étudiants diplômés, l’Égypte octroie une aide financière pour encourager la poursuite des études aux cycles supérieurs. Selon M. Ismail, le terme utilisé en arabe pour désigner ce type d’aide financière est difficile à traduire en anglais, mais il ne s’agit pas d’une rémunération au sens où nous l’entendons au Canada. Je prête foi à son témoignage sur ce point.
+[13] Paragraphe 56(3.1).
+[14] Voir Backman c. Canada., 2001 CSC 10.
+[15] Voir Stewart c. Canada, [2002] 2 RCS 645, et Symes c. Canada, 94 DTC 6001 (CSC).
+[16] M. Ismail travaille toujours chez EACL, mais sa situation actuelle au sein de cet organisme n’est pas pertinente aux fins du présent appel.
+[17] L’offre d’EACL mentionnait la possibilité d’une reconduction d’un an de la bourse de perfectionnement, mais elle n’a pas été reconduite. Voir la pièce A-6. M. Ismail continue quand même de travailler chez EACL (maintenant Laboratoires Nucléaires Canadiens).

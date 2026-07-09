@@ -1,0 +1,121 @@
+Title: Tozzi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30052/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-545-30052-tozzi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-26
+
+# Tozzi c. La Reine
+
+- Citation: 2010 CCI 545
+- Decision date: 2010-10-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7696, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tozzi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-26
+Référence neutre
+2010 CCI 545
+Numéro de dossier
+2010-1808(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1808(IT)I
+ENTRE :
+GIOVANNI TOZZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 18 août 2010 à Montréal (Québec).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Représentant de l’appelant :
+M. Vincent Biello
+Avocate de l’intimée :
+Me Marie-Claude Landry
+Mme Sara Jahanbakhsh
+(stagiaire en droit)
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’intimée en vue d’obtenir une ordonnance rejetant, au motif que la cotisation porte qu'aucun impôt n'est à payer, l’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008;
+Et vu les allégations des parties;
+La requête est accueillie et l’appel est rejeté.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2010.
+« Gerald J. Rip »
+Juge en chef Rip
+Référence : 2010 CCI 545
+Date : 20101026
+Dossier : 2010-1808(IT)I
+ENTRE :
+GIOVANNI TOZZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Rip
+[1] Il s’agit d’une requête présentée par l’intimée en vue d’obtenir que l’appel interjeté par Giovanni Tozzi à l’encontre d’une cotisation d’impôt sur le revenu pour l’année 2008 soit rejeté au motif que l’appel porte sur une cotisation selon laquelle aucun impôt n’est à payer. Selon une jurisprudence récente, une cotisation portant qu’aucun impôt n’est à payer ne peut pas faire l’objet d’un appel[1]. Cependant, les moyens que M. Tozzi a opposés à la requête mettent en relief la compétence limitée que possède la Cour pour entendre des affaires en vertu de la Loi de l’impôt sur le revenu (la « Loi ») et font ressortir les difficultés que cela entraîne pour les contribuables lorsqu’ils essaient de régler de façon efficace les questions qui les opposent à l’Agence du revenu du Canada (l’« ARC »).
+[2] La Cour canadienne de l’impôt est une cour supérieure. Lorsqu’un contribuable n’est pas satisfait d’une cotisation d’impôt sur le revenu, il peut interjeter appel de la cotisation devant la Cour de l’impôt. Le paragraphe 171(1) de la Loi détermine comment la Cour peut statuer sur l’appel :
+La Cour canadienne de l’impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l’admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[3] Aucune des façons dont la Cour peut statuer sur un appel ne permettrait de régler le problème de M. Tozzi; le montant de la cotisation serait toujours zéro.
+[4] M. Tozzi ne conteste pas la cotisation portant qu’aucun impôt n’est à payer en tant que telle. Le problème est qu’en février 2009, M. Tozzi a fait remplir par un médecin un certificat pour le crédit d’impôt pour personnes handicapées pour l’année 2008 et envoyé le certificat dûment rempli à l’ARC, et que cette dernière a refusé de lui accorder le crédit d’impôt pour personnes handicapées (le « CIPH »).
+[5] Comme je l’ai mentionné au paragraphe précédent, dans son appel interjeté à l’encontre de la cotisation qui a été établie à son égard pour l’année 2008, M. Tozzi ne conteste pas la cotisation d’impôt. Un crédit d’impôt n'est pas utile dans le cas d'une cotisation portant qu’aucun impôt n’est à payer. Cependant, M. Tozzi affirme qu’en raison de la cotisation portant qu’aucun impôt n’est à payer, il ne peut pas contester le refus par l’ARC de lui accorder un CIPH et qu’il ne peut donc pas être bénéficiaire d’un régime enregistré d’épargne-invalidité (« REEI ») visé à l’article 146.4 de la Loi.
+[6] M. Tozzi veut être reconnu, pour l’année 2008, comme un « particulier admissible au CIPH » selon la définition de ce terme que donne le paragraphe 146.4(1) de la Loi :
+Est un particulier admissible au CIPH pour une année d’imposition le particulier à l’égard duquel une somme est déductible en application de l’article 118.3, ou le serait en l’absence de l’alinéa 118.3(1)c), dans le calcul de l’impôt à payer par un contribuable en vertu de la présente partie pour l’année.
+[…] an individual in respect of whom an amount is deductible, or would if this Act were read without reference to paragraph 118.3(1)(c) be deductible, under section 118.3 in computing a taxpayer's tax payable under this Part for the taxation year.
+[7] Le sous‑alinéa 146.4(4)f)(i) de la Loi interdit que des cotisations soient versées à un REEI si « le bénéficiaire n’est pas un particulier admissible au CIPH pour l’année d’imposition ».
+[8] Le représentant de l’appelant a soutenu que, dans les cas où le ministre refuse d’accorder le CIPH et où la cotisation pour l’année d’imposition visée porte qu’aucun impôt n’est à payer, le ministre interdit au contribuable de contester la décision du ministre de refuser le crédit et l’empêche donc de pouvoir être admis à titre de bénéficiaire d’un REEI. Le fait de ne pas pouvoir s’opposer au refus par le ministre de lui accorder ce statut cause un préjudice au contribuable,
+[9] Le représentant de M. Tozzi, M. Biello, qui a très bien représenté M. Tozzi, a également soutenu que l’incapacité d’interjeter appel d’une cotisation portant qu’aucun impôt n’est à payer ne devrait pas s’appliquer aux appels des cotisations pour l’année 2008 et les années subséquentes lorsque la question en litige concerne l’admissibilité à un REEI. Un contribuable doit avoir le droit de contester les décisions du ministre, même dans les cas où la cotisation porte qu’aucun impôt n’est à payer.
+[10] Or, la Loi ne donne pas compétence à la Cour pour statuer, dans un appel interjeté à l’encontre d’une cotisation ou bien en vertu d’une autre disposition de la Loi, sur des questions comme celles qui ont été soulevées par M. Tozzi. L’article 146.4 régissant les REEI ne comporte pas de disposition semblable au paragraphe 172(3), par exemple, qui permet d’interjeter appel devant la Cour d’appel fédérale de la décision du ministre de refuser d’enregistrer une association canadienne de sport amateur, un régime d’épargne‑retraite, un régime de participation aux bénéfices, un régime d’épargne‑études ou un régime de pension.
+[11] En interjetant appel de sa cotisation, tout ce que l’appelant veut c’est faire valoir son droit d’être reconnu comme ayant été une personne handicapée en 2008 et de pouvoir en conséquence être bénéficiaire d’un REEI. Toutefois, le fait qu’il a eu une cotisation portant qu’aucun impôt n’est à payer porte atteinte à ce droit. Si je rejetais la requête de l’intimée et que l’appel était entendu par la Cour, même si la Cour accueillait la demande du statut de personne handicapée présentée par l'appelant, la cotisation demeurerait inchangée. La cotisation porterait encore qu’aucun impôt n’est à payer, elle ne serait pas annulée ni modifiée et il ne serait pas non plus exigé qu’une nouvelle cotisation soit établie. La Cour n’a malheureusement pas compétence en vertu de la loi pour ordonner au ministre de reconnaître à M. Tozzi le statut de personne handicapée si elle devait conclure qu’il est effectivement une personne handicapée, aux fins du régime d’épargne‑invalidité.
+[12] Il est tout simplement injuste que la Couronne profite d'une cotisation portant qu’aucun impôt n’est à payer pour empêcher M. Tozzi de demander à ouvrir un régime d’épargne‑invalidité. Il se peut fort bien que M. Tozzi se soit adressé au mauvais tribunal pour demander un contrôle en l'espèce. Il semble vouloir que la Cour de l'impôt examine les mesures administratives qu'ont prises les agents de l’ARC en refusant de reconnaître qu’il était une personne handicapée. Toutefois, comme je l’ai déjà mentionné, cela ne relève pas de la compétence de la Cour de l’impôt. Il pourrait peut‑être présenter une demande en vertu de l’article 18.1 de la Loi sur les Cours fédérales, quoique le représentant de M. Tozzi se soit plaint qu’un tel recours devant la Cour fédérale ne soit pas pratique parce que cela entraîne des frais juridiques élevés. Cependant, le fait qu’il ait choisi, pour des raisons financières ou pour d’autres raisons, de s’adresser à la Cour de l’impôt au lieu d’une autre cour ne donne pas à la Cour de l'impôt compétence pour entendre sa plainte. La solution la plus simple pour M. Tozzi serait de faire ce qu’il a fait, c’est‑à‑dire interjeter appel sous le régime de la procédure informelle devant la Cour de l’impôt pour qu’elle règle la question. Cependant, la loi ne permet pas un tel recours simple et raisonnable. Malheureusement, la Cour peut seulement examiner la cotisation d’impôt établie pour l’année 2008 et n’a pas le pouvoir de statuer sur la question de l’admissibilité de M. Tozzi comme bénéficiaire d’un régime d’épargne‑invalidité sans rajuster en même temps le montant de la cotisation d’impôt établie.
+[13] Idéalement, la Cour devrait être un « guichet unique » pour les personnes qui veulent intenter une action en vertu de la Loi. Cependant, tel n’est pas le cas. Les contribuables à faible revenu considèrent la Cour de l’impôt comme le tribunal auquel s’adresser pour toutes les affaires en matière fiscale et essaient d’obtenir réparation auprès d’elle. Les contribuables à faible revenu ne bénéficient généralement pas de conseils juridiques et se présentent devant la Cour de l’impôt parce qu’ils croient qu’il s’agit du tribunal auquel ils peuvent s’adresser pour demander réparation. Malheureusement, la Cour de l’impôt n’a pas compétence pour entendre toutes les affaires relatives à l’impôt sur le revenu. Il se peut fort bien que le législateur et le rédacteur de l’article 146.4 ne se soient pas rendu compte du problème auquel M. Tozzi doit faire face et que d’autres contribuables à faible revenu pourront rencontrer dans l’avenir, en raison de la compétence limitée de la Cour de l’impôt.
+[14] Pour ces motifs, je dois accueillir la requête de l’intimée et rejeter l’appel.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2010.
+« Gerald J. Rip »
+Juge en chef Rip
+RÉFÉRENCE : 2010 CCI 545
+No DU DOSSIER DE LA COUR : 2010-1808(IT)I
+INTITULÉ : GIOVANNI TOZZI c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 18 août 2010
+MOTIFS DE L’ORDONNANCE : L’honorable juge en chef Gerald J. Rip
+DATE DE L’ORDONNANCE : Le 26 octobre 2010
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Vincent Biello
+Avocate de l’intimée :
+Me Marie-Claude Landry
+Mme Sara Jahanbakhsh (stagiaire en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir, par exemple, Newfoundland Minerals Ltd. v. M.N.R., 69 DTC 5432 (C. de l’É.), La Reine c. Gary Bowl Ltd., [1974] 2 C.F. 146, 74 DTC 6401 (C.A.F.), Bowater Mersey Paper Co. c. Canada, [1987] A.C.F. no 427 (QL), 87 DTC 5382 (C.A.F.), Interior Savings Credit Union c. Canada, [2007] A.C.F. no 526 (QL), 2007 DTC 5342 (C.A.F.).

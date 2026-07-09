@@ -1,0 +1,166 @@
+---
+title: "Fletcher v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26007/index.do"
+last_modified: "2003-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 346"
+citation2: ""
+neutral_citation: "2003 TCC 346"
+decision_date: "2003-05-20"
+language: "en"
+item_id: "26007"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3740
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:08:12.514000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "78975c7ee9174b1ba33ec488af2464a223f07a7af52c8cee521cd62a787c8e82"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fletcher v. The Queen
+
+- Citation: 2003 TCC 346
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3740, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fletcher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-20
+Neutral citation
+2003 TCC 346
+File numbers
+2002-2597(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Date: 20030520
+Docket: 2002-2597(IT)I
+BETWEEN:
+GRANT W. FLETCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on May 8, 2003 at Kelowna, British Columbia
+Before: The Honourable Judge D. W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor - Pickering
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of May 2003.
+"D. W. Beaubier"
+J.T.C.C.
+Citation: 2003TCC346
+Date: 20030520
+Docket: 2002-2597(IT)I
+BETWEEN:
+GRANT W. FLETCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.T.C.C.
+[1] This appeal pursuant to the Informal Procedure was heard at Kelowna, British Columbia on May 8, 2003. The Appellant testified and called his wife, Anne, and Dr. Andrew Farquhar, M.D., who was qualified as an expert witness respecting Type 1 diabetes and its treatment.
+[2] Paragraphs 5 to 9 inclusive of the Reply to the Notice of Appeal outline the matters in dispute. They read:
+5. The Appellant, in filing his 2000 taxation year income tax return, made a claim for a transfer of a non refundable tax credit of $4,293.00 and $7,234.00 in respect of the disability tax credits (the "DTC") for his daughters, Sydney and Katherine respectively.
+6. The Minister initially assessed the Appellant's 2000 taxation year and disallowed the DTC. The Notice was dated September 4, 2001.
+7 In denying the Appellant's claim for the DTC for the 2000 taxation year, the Minister relied on the following assumptions of fact:
+a) the Appellant is the father of Katherine Elizabeth Fletcher born January 15, 1981 (hereinafter "Katherine") and Sydney Anne Fletcher born May 19, 1984 (hereinafter "Sydney");
+b) Katherine was diagnosed with Juvenile Diabetes Type 1 (the "Impairment") in the 1992 taxation year;
+c) Sydney was diagnosed with the Impairment in the 1999 taxation year;
+d) the Impairment requires that Katharine and Sydney inject insulin on a daily basis;
+e) the Form T2201 Disability Tax Credit Certificates ("T2201") completed by Katherine and Sydney's doctor, Dr. Farquhar, indicated that neither Katherine nor Sydney were restricted in any of the basic activities of daily living;
+f) the T2201 indicated that Katherine and Sydney test their blood glucose levels each and every day;
+g) the blood glucose monitoring is not a life sustaining therapy;
+h) their was no life sustaining therapy administered to either Katherine or Sydney that would require a total duration averaging not less than 14 hours a week;
+i) the Impairment does not restrict Katherine and Sydney in the performance of any of the basic activities of daily living; and
+j) Katherine and Sydney do not suffer from any impairment the results of which markedly restricts their ability to perform any of the basic activity of daily living.
+B. ISSUE TO BE DECIDED
+8. The issue is whether the Appellant is entitled to claim a transfer of the personal non-refundable tax credits for the 2000 taxation year in respect of the DTC.
+C. STATUTORY PROVISIONS RELIED ON
+9. He relies on sections 118.3 and 118.4 and subsection 248(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act").
+[3] Assumptions 7a), b), c), d), f), and g) were not refuted by the evidence.
+[4] Assumption e), needs further clarification since, for the year 2000 which is in appeal, paragraph 118.3(1)(a.1) adds that the certificate may specify that the individual's ability to perform a basic activity of daily living would be markedly restricted but for the "therapy" referred to in paragraph (a.1). Subsection 118.3 read at that time:
+118.3. Credit for mental or physical impairment
+(1) Where
+(a) an individual has a severe and prolonged mental or physical impairment,
+(a.1) the effects of the impairment are such that the individual's ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week, and
+(iii) cannot reasonably be expected to be of significant benefit to persons who are not so impaired,
+(a.2) in the case of
+(i) a sight impairment, a medical doctor or an optometrist,
+(i.1) a speech impairment, a medical doctor or a speech-language pathologist,
+(ii) a hearing impairment, a medical doctor or an audiologist,
+(iii) an impairment with respect to an individual's ability in feeding and dressing themself, or in walking, a medical doctor or an occupational therapist,
+(iv) an impairment with respect to an individual's ability in perceiving, thinking and remembering, a medical doctor or a psychologist, and
+(v) an impairment not referred to in any of subparagraphs (i) to (iv), a medical doctor
+has certified in prescribed form that the impairment is a severe and prolonged mental or physical impairment the effects of which are such that the individual's ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy referred to in paragraph (a.1).
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph (a.2), and ...
+[5] The Shorter Oxford Dictionary, 3rd Edition, defines "therapy" as follows:
+"therapy - The medical treatment of disease; curative medical treatment."
+[6] The Appellant and Anne described the strict regime which their daughters must adhere to, just to stay alive. When they were young, this regime required constant adult supervision. In the Court's view this could be totalled to a sum in excess of 14 hours each week, at that time.
+[7] However, actual "therapy", as defined in paragraph [5], did not total any where near 14 hours each week. This remains true even if other health professional attendances (as referred to in paragraph 118.2(2)(l.9) than their doctor's are included in the calculations for the year 2000.
+[8] In these circumstances and in light of the remaining facts in this case, the appeal is dismissed.
+Signed at Ottawa, Canada, this 20th day of May 2003.
+"D. W. Beaubier"
+J.T.C.C.
+CITATION:
+2003TCC346
+COURT FILE NOS.:
+2002-2597(IT)I
+STYLE OF CAUSE:
+Grant W. Fletcher v. The Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+May 8, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge D.W. Beaubier
+DATE OF JUDGMENT:
+May 20, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nadine Taylor Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

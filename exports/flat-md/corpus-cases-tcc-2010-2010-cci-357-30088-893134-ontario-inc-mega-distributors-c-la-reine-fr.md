@@ -1,0 +1,394 @@
+---
+title: "893134 Ontario Inc. (Mega Distributors) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30088/index.do"
+last_modified: "2010-06-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 357"
+citation2: ""
+neutral_citation: "2010 CCI 357"
+decision_date: "2010-06-30"
+language: "fr"
+item_id: "30088"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7598
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:49:58.777000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "63b8e21be3fa5a65862a6d339a53047559eed6afb5bf97ca273247a63bdf5441"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 893134 Ontario Inc. (Mega Distributors) c. La Reine
+
+- Citation: 2010 CCI 357
+- Decision date: 2010-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7598, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+893134 Ontario Inc. (Mega Distributors) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-30
+Référence neutre
+2010 CCI 357
+Numéro de dossier
+2003-1048(GST)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1048(GST)G
+ENTRE :
+893134 ONTARIO INC., S/N MEGA DISTRIBUTORS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 29 et 30 septembre et les 2 et 3 octobre 2008, ainsi que les 17, 18, 19, 20, 23 et 24 février 2009, à Windsor (Ontario)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentant de l'appelante :
+M. François Francis
+Avocats de l'intimée :
+Mes Gordon Bourgard et
+Ronald MacPhee
+________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise pour la période allant du 1er juillet 1998 au 30 novembre 2000, dont l'avis, daté du 16 décembre 2002, porte le numéro 08CP117694273, est rejeté avec dépens conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour de juin 2010.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 22e jour de novembre 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 357
+Date : 20100630
+Dossier : 2003-1048(GST)G
+ENTRE :
+893134 ONTARIO INC., S/N MEGA DISTRIBUTORS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L'appelante interjette appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, partie IX, L.C. 1990, ch. 45, dans sa forme modifiée (la « Loi »), pour la période allant du 1er juillet 1998 au 30 novembre 2000, dont l'avis, daté du 16 décembre 2002, porte le numéro 08CP117694273. Cette nouvelle cotisation exigeait de l'appelante 768 118,15 $ au titre de la taxe sur les produits et services (la « TPS ») par suite de son omission de percevoir et de verser la TPS sur ses fournitures de cigarettes à Zelda McNaughton/Zee's Restaurant; des pénalités de 60 633,83 $ et de 181 838,63 $ ont été établies en vertu des articles 280.1 et 285 de la Loi, et des intérêts de 55 125,33 $ ont été imposés en vertu de l'article 280 de la Loi.
+[2] Depuis 1997, l'appelante exploite, sous la raison sociale Mega Distributors, une entreprise de vente en gros de produits du tabac et d'autres produits alimentaires et produits de confiserie à des dépanneurs. Son principal établissement commercial est situé au 1285, avenue Crawford, à Windsor (Ontario). L'unique administrateur et actionnaire de l'appelante est M. François Francis, qui emploie pour son entreprise un certain nombre de membres de sa famille, notamment son frère, M. Nayef Francis, et son beau‑frère, M. Tony Mansour. L'appelante est inscrite aux fins de la TPS sous la raison sociale 893134 Ontario Limited, et son numéro de TPS est le 142086545. L'appelante a indiqué 893134 Ontario Limited comme étant sa raison sociale dans ses déclarations de revenus des sociétés, dans ses déclarations relatives à la TPS et dans son avis d'opposition, et elle encaissait sous cette raison sociale les remboursements de TPS qui lui étaient envoyés.
+[3] L'appelante a affirmé qu'au mois de décembre 1998, Mme Zelda Kim McNaughton (« Mme McNaughton »), une Indienne mohawk inscrite de la réserve des Six nations (la « réserve »), en Ontario, a communiqué avec elle afin d'acheter de grosses quantités de cigarettes à livrer aux locaux de son entreprise, à Hagersville, dans la réserve. L'entreprise de Mme McNaughton était exploitée sous la raison sociale Zee's Restaurant and Tobacconist Warehouse (« Zee's »). L'appelante a accepté de vendre et de livrer de grosses commandes de cigarettes à Mme McNaughton. Les ventes ont débuté le 16 décembre 1998 et se sont poursuivies jusqu'au 29 novembre 2000; elles s'élevaient aux montants suivants :
+Le 31 décembre 1998
+246 777,30 $
+Le 31 mars 1999
+2 304 086,40 $
+Le 30 juin 1999
+362 950,32 $
+Le 30 septembre 1999
+1 524 379,12 $
+Le 31 décembre 1999
+866 632,40 $
+Le 31 mars 2000
+1 569 883,04 $
+Le 30 juin 2000
+2 918 906,48 $
+Le 30 septembre 2000
+1 615 785,61 $
+Le 31 décembre 2000
+670 200,91 $
+12 081 601,58 $
+L'appelante a déclaré ces ventes aux fins de la TPS chaque trimestre jusqu'au 30 septembre 1999. Par la suite, à compter du 31 octobre 1999, elle a déclaré les ventes aux fins de la TPS chaque mois.
+[4] Au cours de la période allant du mois de juillet 1998 au 31 décembre 2000, le chiffre d'affaires global de l'appelante s'élevait à environ 25 648 000 $, un montant de plus de 19 millions de dollars se rapportant à de grosses ventes de tabac, dont 12 081 600 $ en faveur de Zee's.
+[5] L'appelante payait la TPS lorsqu'elle achetait les cigarettes, mais elle ne percevait pas la TPS lors de la revente à Mme McNaughton parce que ces cigarettes étaient livrées à une Indienne inscrite dans la réserve. Madame McNaughton n'était pas inscrite aux fins de la TPS.
+[6] L'appelante a reconnu que la TPS payable lors des ventes de tabac à Zee's, si elles étaient taxables, s'élèverait en tout à 845 712 $. L'appelante a fait l'objet d'une nouvelle cotisation de 768 188,15 $, un montant moins élevé, compte tenu d'une analyse effectuée par l'Agence du revenu du Canada (l'« ARC ») de toutes les ventes taxables que l'appelante avait effectuées, y compris les ventes à Zee's, moins tous les versements de la TPS qu'elle avait effectués. La différence, soit 77 523,85 $, représente un versement en trop de la TPS par l'appelante.
+[7] Par suite des ventes non taxées de produits du tabac à une Indienne mohawk inscrite, l'appelante a demandé un remboursement dans sa déclaration relative à la TPS au cours de sa première période trimestrielle de 1999, ayant pris fin le 31 mars 1999. Le remboursement demandé s'élevait à 200 597,17 $. La demande a été examinée par un vérificateur de l'ARC, M. Frank D'Agnillo, du bureau des services fiscaux de Windsor. À la suite d'un examen des documents et des dossiers de l'appelante, y compris les grands livres à l'appui de la demande relative à la TPS, les factures des fournisseurs des cigarettes achetées par l'appelante pour revente et les reçus de vente signés ou paraphés par Mme McNaughton, et après vérification du statut d'Indienne de Mme McNaughton, le remboursement de la TPS a été approuvé, tel qu'il avait été demandé, et il a été versé à l'appelante.
+[8] Les marges de profit sur les ventes de produits du tabac étaient faibles, et l'appelante a affirmé qu'elle subissait des pertes, ce qu'elle acceptait parce qu'elle tentait de générer un volume de ventes. Pour transporter la grosse quantité de cigarettes qu'elle devait aller chercher et livrer, l'appelante a conclu un bail de 45 mois en vue de louer un véhicule Topkick GMC, le 19 février 1999. L'appelante a tenté de devenir un grossiste direct pour Imperial Tobacco et pour Rothmans, ce qui lui aurait permis d'acquérir des cigarettes directement du fabricant à un coût bien inférieur. Les épargnes en résultant auraient assuré la rentabilité des ventes à faible marge de profit.
+[9] L'appelante a finalement été désignée à titre de grossiste direct pour Rothmans, mais elle n'a jamais pu obtenir une telle désignation d'Imperial Tobacco.
+[10] L'appelante a demandé à être désignée et, le 1er août 1999, elle a été désignée à titre de percepteur de la taxe imposée en vertu de la Loi de la taxe sur le tabac de l'Ontario, L.R.O. 1990, ch. T‑10, dans sa forme modifiée. Pour être ainsi désignée, l'appelante devait fournir une garantie de 1 000 000 $ en faveur de Sa Majesté la Reine du chef de l'Ontario, laquelle a été obtenue le 12 juillet 1999 et renouvelée l'année suivante, au coût annuel de 15 000 $. L'appelante a affirmé avoir fait cette demande afin de devenir un grossiste direct.
+[11] La vérification de l'appelante, qui a débuté à l'automne 2000, a donné lieu à l'établissement d'une nouvelle cotisation le 2 mai 2001 pour la période visée par le présent appel. Dans cette nouvelle cotisation, on ajoutait principalement comme étant payable la TPS qui, est‑il affirmé, aurait dû être perçue sur toutes les ventes à Mme McNaughton. Un avis d'opposition à la nouvelle cotisation a été déposé le 28 mai 2001, et un avis de décision a été délivré le 16 décembre 2002 ainsi qu'une nouvelle cotisation, datée du même jour.
+[12] La vérification de l'appelante, qui a débuté au mois de décembre 2000, a été menée par deux membres de la Direction des enquêtes spéciales de l'ARC, qui avaient fait partie d'une équipe conjointe qui, pendant toute l'année 2000, avait procédé à une enquête criminelle sur les ventes de cigarettes dans la région de Windsor. La Gendarmerie royale du Canada (la « GRC ») et la Direction de la taxe sur le tabac du ministère des Finances de l'Ontario ont également participé à cette enquête conjointe.
+[13] Le présumé stratagème sur lequel l'équipe conjointe a enquêté se rapportait à la vente au comptant de cigarettes à des propriétaires de dépanneurs, à Windsor, ventes qui, selon ce qui était affirmé, avaient été déclarées par l'appelante aux fins de la TPS comme ayant été effectuées sans taxe à une Indienne inscrite, Zelda McNaughton. Cette enquête a duré du 15 février au 31 octobre 2000; elle comportait 52 jours de surveillance des employés ou mandataires de l'appelante (y compris Mohammed Nizam, mais non Ali Nizam, bien qu'un véhicule immatriculé à Ali Nizam eût fait l'objet de surveillance au cours de l'enquête). L'équipe d'enquête conjointe a souvent observé les Nizam lorsqu'ils allaient chercher, chez les entrepôts Costco (« Costco »), des caisses de cigarettes apparemment commandées par l'appelante et lorsqu'ils les livraient à des dépanneurs, à Windsor.
+[14] Mohammed Nizam a commencé à travailler à temps partiel pour l'appelante en 2000, alors que son frère, Ali Nizam, possédait et exploitait, dans le centre‑ville, un dépanneur dénommé Tower Variety ou Tower Convenience Store.
+[15] L'enquête conjointe a été abandonnée au mois de novembre 2000 sans qu'aucune accusation criminelle ne soit portée contre l'appelante ou contre les employés ou mandataires de l'appelante. Pendant toute la durée de l'enquête, l'ARC a traité les déclarations relatives à la TPS de l'appelante et a envoyé des chèques de remboursement, et ce, tant que la vérification n'a pas débuté. Les remboursements mensuels de la TPS pour les mois d'octobre et de novembre 2000 ont été bloqués lorsque la Direction des enquêtes spéciales de l'ARC a entrepris la vérification, au mois de décembre 2000.
+[16] Les dossiers de l'appelante révèlent que pendant la période de deux ans, au moins 145 ventes à l'égard desquelles l'appelante a signé des factures ont été conclues avec Mme McNaughton. La plupart des factures étaient paraphées (« ZM » ou « ZMcNaughton ») au bas, alors que les autres portaient le nom de Michael McNaughton, le fils de Mme McNaughton, imprimé sur la facture, mais il n'était fait mention dans aucune des factures de la livraison des marchandises dans la réserve.
+[17] Lorsqu'il a établi la nouvelle cotisation de l'appelante, le ministre du Revenu national (le « ministre ») s'est fondé, entre autres, sur les hypothèses suivantes énoncées aux alinéas 13i) à o) de la réponse modifiée une seconde fois :
+[TRADUCTION]
+i) Les dossiers d'emploi de l'appelante montrent que les employés qui effectuaient censément les livraisons dans la réserve ne faisaient pas partie du personnel pendant les périodes en cause, ou qu'ils ne travaillaient pas le jour où les ventes étaient conclues.
+i. Au cours de la période visée par l'appel, la première vente effectuée par l'appelante en faveur de Zee's avait eu lieu le 16 décembre 1998 et la dernière vente effectuée en faveur de Zee's avait eu lieu le 29 novembre 2000;
+ii. M. Francis a initialement affirmé que Mohammed Nizam (« Mohammed ») effectuait toutes les livraisons dans la réserve;
+iii. Mohammed a travaillé pour l'appelante du 4 janvier au 6 octobre 2000;
+iv. Les journées de travail de Mohammed, telles qu'elles sont consignées dans les registres de paie de l'appelante, ne coïncident pas avec les présumées livraisons à Zee's;
+v. Adnan Nizam (« Adnan ») a travaillé pour l'appelante du 19 mai au mois d'octobre 1999;
+vi. Les journées de travail d'Adnan, telles qu'elles sont consignées dans les registres de paie de l'appelante, ne coïncident pas avec les présumées livraisons à Zee's;
+vii. M. Francis a déclaré que les Indiens allaient chercher les cigarettes à l'établissement commercial de l'appelante tant qu'Adnan n'avait pas commencé à travailler;
+viii. M. Francis a dit que son frère Nayef Francis (« Nayef ») doit avoir effectué les livraisons au cours de la période allant du mois d'octobre 1999 au mois de janvier 2000, mais Nayef Francis n'a pas pu donner de détails ou de précisions au sujet des livraisons qu'il avait faites.
+j) Les véhicules censément utilisés pour la livraison des cigarettes dans la réserve n'étaient pas suffisamment gros pour transporter les quantités fournies lors d'une livraison.
+i. Les deux employés qui avaient censément effectué la plupart des livraisons, Mohammed et Adnan, ne détenaient pas de permis en vue de conduire le seul gros camion de l'appelante, un Topkick GMC loué;
+ii. Mohammed et Adnan ont tous deux indiqué qu'ils n'avaient jamais utilisé le Topkick GMC loué de l'appelante pour faire des livraisons chez Zee's;
+iii. Adnan affirme avoir utilisé la mini‑fourgonnette bleue Chrysler de l'appelante pour effectuer les livraisons chez Zee's;
+iv. Mohammed affirme avoir utilisé sa propre fourgonnette Astro pour effectuer les livraisons chez Zee's;
+v. Nayef a indiqué qu'il utilisait principalement la mini‑fourgonnette bleue Chrysler de l'appelante ou sa propre voiture Grand Caravan afin d'effectuer les livraisons. Il a également conduit quelques fois le Topkick GMC loué de l'appelante;
+vi. La charge utile des fourgonnettes est d'environ 30 caisses ou 1 500 cartouches de cigarettes;
+vii. Selon les registres de vente disponibles de l'appelante, des 145 commandes censément livrées dans la réserve, 121 étaient des commandes de plus de 30 caisses chacune. Certaines commandes étaient même de 174 caisses, et à certaines commandes de moins de 30 caisses venaient s'ajouter des commandes additionnelles datées du même jour, de sorte que ces commandes auraient représenté plus que la charge utile de 30 caisses des fourgonnettes;
+viii. Il serait physiquement impossible de livrer chez Zee's, dans les fourgonnettes, la quantité de cigarettes indiquée dans les reçus de vente individuels de l'appelante compte tenu du nombre de voyages censément effectués.
+k) L'appelante a affirmé qu'elle insistait pour que Zelda McNaughton la paie comptant parce qu'elle craignait d'obtenir des billets contrefaits et des chèques sans provision.
+l) Les dossiers de l'appelante montrent qu'un grand nombre de paiements ont été effectués au moyen de « débits », ce qui donne à entendre que le paiement était effectué au moyen d'une carte de débit dans les locaux de l'appelante.
+m) Zelda McNaughton a censément toujours payé les cigarettes comptant au moment de la livraison.
+n) Les personnes que l'appelante a identifiées comme étant les chauffeurs ont indiqué divers montants payés comptant qu'elles affirmaient avoir perçus lorsque des marchandises étaient livrées dans la réserve. Les montants ne correspondent pas à la quantité de marchandises que l'appelante affirme avoir livrées dans la réserve.
+i. Lorsqu'on leur a demandé quel était le montant en argent le plus élevé qu'ils avaient eu à rapporter de la réserve pour l'appelante, Mohammed a parlé d'un montant de 40 000 $, Adnan a parlé d'un montant de 40 000 $ à 50 000 $ et Nayef a parlé d'un montant d'environ 30 000 $;
+ii. Selon les dossiers de l'appelante, la plupart des ventes (79 p. 100 de toutes les commandes) effectuées en faveur de Zee's s'élevaient à bien plus de 50 000 $. En fait, 60 p. 100 des ventes s'élevaient à plus de 75 000 $ et 37 p. 100 d'entre elles s'élevaient à plus de 100 000 $.
+o) Les cigarettes n'ont pas été livrées à l'acquéreur par l'appelante ou par un mandataire de l'appelante à une adresse située dans une réserve indienne.
+[18] En ce qui concerne les hypothèses émises à l'alinéa 13i) de la réponse modifiée une seconde fois de l'intimée, l'appelante a déclaré, dans la réplique, que ses registres de paie étaient exacts quant au nombre total d'heures de travail de ses employés, mais qu'ils n'étaient pas exacts quant aux dates particulières auxquelles les employés avaient travaillé.
+[19] Adnan Nizam a témoigné à l'audience. Il a admis avoir été inscrit dans le livre de paie de l'appelante du 26 mai au 20 octobre 1999, et il a confirmé qu'il livrait des cigarettes dans la réserve deux fois par semaine. Les registres de paie de l'appelante indiquent huit heures de travail par jour, à sept dollars l'heure, la rémunération étant versée aux deux semaines. Le témoin a déclaré qu'il était rémunéré en espèces. Le voyage de Windsor à la réserve lui prenait habituellement trois heures ou trois heures et quinze minutes.
+[20] Lors du contre‑interrogatoire, le témoin a décrit ce qui arrivait normalement lors des activités quotidiennes. Il recevait un appel téléphonique de François Francis ou de son frère la veille de la livraison qu'il devait effectuer dans la réserve. Le jour de la livraison, il prenait la mini‑fourgonnette bleue de l'appelante, qui était garée à l'établissement de l'appelante, rue Crawford, et qui était déjà chargée de cigarettes dans des caisses scellées (la charge utile maximale de la fourgonnette était de 23 à 25 caisses de cigarettes). Il devait se rendre chez Zee's, où il rencontrait Mme McNaughton. La fourgonnette était déchargée, Mme McNaughton signait le reçu qui était déjà rédigé, et elle lui remettait le reçu et payait les cigarettes comptant. Il comptait l'argent et le mettait dans un sac. Au retour, il faisait le plein d'essence et il garait la fourgonnette à l'établissement de l'appelante. Il entrait dans le bureau de l'appelante et remettait le reçu de Mme McNaughton, l'argent et le reçu d'essence. Au cours de son témoignage, le témoin a affirmé qu'il ne conservait jamais l'argent, qu'il n'avait pas accès à l'endroit où l'argent était conservé et qu'il n'acceptait jamais lui‑même de commandes de Mme McNaughton.
+[21] Le témoin a en outre confirmé : (i) qu'il n'y avait qu'un reçu par chargement; (ii) qu'il n'effectuait jamais plus d'un voyage par jour; (iii) qu'il traitait uniquement avec Mme McNaughton; (iv) qu'il ne rapportait jamais de cigarettes; (v) que Mme McNaughton ne lui commandait jamais de cigarettes; (vi) qu'il n'utilisait jamais la mini‑fourgonnette pour effectuer des livraisons locales de cigarettes. En ce qui concerne la signature des reçus, le témoin a confirmé qu'il n'avait jamais réellement vu Mme McNaughton les signer et qu'il ne se rappelait pas si les reçus comportaient des doubles et si une signature différente était apposée sur certains reçus.
+[22] Mohammed Nizam a témoigné à l'audience. Il a confirmé avoir travaillé pour l'appelante en l'an 2000 (du mois de mars au mois d'octobre) et qu'il livrait des cigarettes chez Zee's, dans la réserve. Les registres de paie de l'appelante indiquent que Mohammed Nizam n'avait pas travaillé aux mois de janvier et de février de l'année 2000. Le témoin a déclaré qu'il utilisait son propre véhicule, une fourgonnette rouge Astro GM, pour effectuer les livraisons. La charge utile maximale de sa fourgonnette était d'environ 30 caisses de cigarettes (50 cartouches par caisse). La fourgonnette était chargée à l'établissement de l'appelante et les reçus à faire signer étaient remis à Mohammed Nizam. Lors de la livraison, les reçus étaient signés et les cigarettes étaient payées comptant, les montants variant habituellement de 40 000 $ à 50 000 $. Les reçus et l'argent étaient rapportés et remis à François Francis. Lorsqu'on lui a montré les reçus qui avaient été signés au cours de la période où il avait effectué des livraisons dans la réserve, le témoin ne se souvenait pas d'avoir perçu les montants indiqués dans les reçus, lesquels, à l'exception d'un seul reçu, excédaient de beaucoup le montant maximal qu'il affirmait avoir reçu. Enfin, le témoin a également confirmé d'une façon plutôt vague avoir effectué des livraisons de cigarettes dans la région de Windsor.
+[23] Quant à la période allant du mois de décembre 1998 au 1er mai 1999 (avant qu'Adnan ait commencé à travailler pour l'appelante), il n'existe aucun élément de preuve indiquant que des livraisons de cigarettes avaient été effectuées dans la réserve. À un moment donné, François Francis a dit que Mme McNaughton allait chercher les cigarettes à l'établissement de l'appelante et, à un autre moment, il a affirmé que les livraisons étaient effectuées par son frère, Nayef.
+[24] Zelda McNaughton a témoigné à l'audience. Elle a confirmé que l'appelante préparait les reçus se rapportant aux livraisons de cigarettes dans la réserve et qu'ils lui étaient remis pour qu'elle les signe. Elle a reconnu sa signature sur environ 70 p. 100 des reçus. D'autres reçus avaient été signés par ses soeurs, Kelly et Allison, et certains par son fils âgé de huit ans, Michael. Au cours de son témoignage, elle a dit qu'elle achetait des cigarettes pour l'appelante et qu'on allait chercher les cigarettes dans la réserve. Toutefois, aucune preuve documentaire à l'appui de cette assertion n'a été produite. Aucune facture, aucune commande et aucune preuve de paiement n'a été fournie à la Cour.
+[25] Les cigarettes livrées dans la réserve étaient censément toujours payées comptant au moment de la livraison. Dans le passage suivant de l'interrogatoire préalable de François Francis, qui a eu lieu le 21 juin 2005, le témoin a affirmé avoir insisté pour que Mme McNaughton le paie comptant parce qu'il craignait qu'on lui remette des billets contrefaits ou des chèques sans provision.
+[TRADUCTION]
+609.
+Q.
+Qu'en est‑il de — Quelle a été la discussion au sujet du paiement des cigarettes? Étaient‑elles payables lors de la livraison?
+R.
+Eh bien, une fois qu'ils livraient le produit, elle leur remettait de l'argent. Elle les payait.
+610.
+Q.
+Et comment les payait‑elle, à l'aide d'un chèque?
+R.
+Non, c'était habituellement en argent.
+611.
+Q.
+Habituellement en argent, ou toujours en argent?
+R.
+Toujours en argent.
+612.
+Q.
+Avez‑vous insisté pour que ce soit toujours en argent?
+R.
+Oui.
+613.
+Q.
+Pourquoi?
+R.
+Eh bien, il y avait trop de facteurs. On craint un chèque sans provision, on craint d'accepter un chèque d'elle.
+614.
+Q.
+Vous craigniez de recevoir un chèque — un chèque sans provision —
+R.
+Oui.
+615.
+Q.
+— si vous acceptiez un chèque d'elle. Vous vouliez donc qu'elle vous remette de l'argent.
+R.
+Oui.
+616.
+Q.
+C'était la seule — Et a‑t‑elle demandé des facilités de paiement?
+R.
+Oui.
+617.
+Q.
+Quelles facilités de paiement lui avez‑vous offertes?
+R.
+Je ne lui en ai pas offertes.
+618.
+Q.
+Aucune facilité.
+R.
+Je lui ai dit que je n'en avais pas les moyens.
+619.
+Q.
+De l'argent seulement.
+R.
+Oui.
+[26] Contrairement à ce que l'appelante a affirmé, un certain nombre de reçus signés par Mme McNaughton indiquent qu'aucun paiement n'a été effectué, ou qu'il y avait un solde à payer, ou qu'un montant était dû, ce qui donne à entendre que le paiement était effectué par carte de crédit dans les locaux de l'appelante. La preuve établit clairement que les reçus étaient préparés d'avance par l'appelante et que les paiements se rapportant aux cigarettes livrées dans la réserve n'étaient pas tous effectués en argent.
+[27] François Francis a témoigné à l'audience. Il a déclaré que l'argent rapporté par les chauffeurs était conservé dans un classeur fermé à clé et que les chauffeurs avaient accès aux clés du classeur, ce qui a été contredit par Adnan Nizam dans son témoignage. Il n'existe en outre aucune preuve que l'argent était déposé dans un compte en banque.
+[28] Lorsqu'on l'a interrogé au sujet de la personne ou des personnes qui rédigeaient les commandes de Mme McNaughton, le témoin a répondu que tout le monde pouvait rédiger les commandes, y compris les chauffeurs. Aucune preuve de commandes passées par Mme McNaughton n'a été produite devant la Cour et aucun renseignement n'a été fourni au sujet de la façon dont les commandes de Mme McNaughton étaient reçues (par télécopieur, par téléphone ou par courriel), au sujet de qui préparait les commandes ou au sujet de qui établissait les reçus. Madame McNaughton avait besoin de caisses individualisées de cigarettes, et les chauffeurs ont nié avoir préparé de telles commandes pour Mme McNaughton.
+[29] Lorsque l'interrogatoire préalable s'est poursuivi, le 22 juin 2005, François Francis a déclaré qu'en 1999 et en l'an 2000, l'appelante ne livrait pas de cigarettes à des clients autres que Mme McNaughton. Or, la liste de clients de l'appelante montre clairement que celle‑ci livrait des cigarettes à d'autres clients (voir les paragraphes 37 et 38 ci‑dessous).
+[30] Au mois de mars 2000, le ministère des Finances de l'Ontario (Direction des enquêtes spéciales), la GRC et l'ARC ont conclu une entente en vue de faciliter la coopération de ces trois organisations dans une opération policière conjuguée précise (l'« OPC »). L'objectif de cette OPC était de recueillir des éléments de preuve contre des personnes et des sociétés qui avaient censément illégalement évité de payer la taxe provinciale de vente au détail et la taxe fédérale sur les produits et services, commettant ainsi censément des infractions à la Loi de la taxe sur le tabac, à la Loi sur la taxe d'accise et au Code criminel du Canada.
+[31] Monsieur Ian McGuffin, superviseur de projet à l'ARC affecté à l'OPC, a témoigné à l'audience. Il a déclaré que l'OPC avait été mise sur pied parce que le ministère des Finances de l'Ontario avait reçu des renseignements selon lesquels des cigarettes étaient distribuées à prix réduit à des détaillants locaux de la région du comté d'Essex sans que la TPS ne soit perçue. Lors de l'une des premières réunions qui ont été tenues pour l'OPC, il a été convenu qu'afin de porter des accusations au criminel, il fallait une preuve établissant que les cigarettes étaient livrées à des détaillants locaux (note de référence de la réunion concernant l'OPC en date du 24 février 2000). Selon M. McGuffin, la principale cible était l'un des frères Nizam, mais quant à l'ARC, la principale cible était l'appelante.
+[32] Le témoin a expliqué qu'une vérification exhaustive visant l'appelante avait débuté au mois de décembre 2000 et qu'à ce moment‑là, l'enquête criminelle avait été abandonnée. Au cours de la vérification, Costco a accepté de fournir tous les renseignements concernant les achats de cigarettes effectués par l'appelante. Le témoin a également expliqué que diverses réunions avaient été tenues avec l'appelante, par exemple les 21 février, 31 mars et 4 avril 2001. La nouvelle cotisation a été établie le 2 mai 2001 compte tenu de l'absence de documents adéquats permettant d'établir les livraisons de cigarettes dans la réserve, et la procédure de recouvrement a débuté le 14 mai 2001. Des pénalités ont été établies en vertu des articles 280.1 et 285 de la Loi, et des intérêts ont été imposés conformément au paragraphe 280(1) de la Loi. La Cour note que l'accès au dossier, une fois la vérification achevée, a été refusé à l'appelante tant que la nouvelle cotisation n'a pas été établie.
+[33] Monsieur Bernie Campbell, l'agent de projet de la GRC affecté à l'OPC, a témoigné à l'audience. Il a confirmé qu'il avait participé à la surveillance du ramassage et de la livraison des cigarettes par l'appelante pour l'opération policière conjuguée, laquelle avait été effectuée sur une période de 52 jours, entre le 15 février et le 31 octobre 2000. Il a reconnu être l'auteur d'un rapport non daté qui était une mise à jour de l'enquête menée sur François Francis et l'appelante (pièce A‑1, enq. 010, 011, 012 et 013). Le rapport a de toute évidence été préparé pour l'enquête préliminaire au cours de laquelle M. Michael Courtney, de Courtney Wholesale and Confectionary, avait été interrogé au sujet de sa participation aux activités de l'appelante. Monsieur Courtney a expliqué qu'il fournissait des cigarettes à l'appelante avant que celle‑ci commence à les acheter chez Costco. Monsieur Courtney hésitait apparemment à préparer les commandes individualisées de l'appelante (c'est‑à‑dire que chaque caisse renfermait diverses marques de cigarettes). Le rapport dit que deux employés de Costco ont été interrogés et qu'ils ont appelé les frères Nizam les [TRADUCTION] « représentants de Mega ». Les passages suivants du rapport sont particulièrement intéressants :
+[TRADUCTION]
+En ce qui concerne les frères Nizam, l'enquête a changé d'orientation pour passer à Tower Variety, et des activités de surveillance ont eu lieu aux mois d'avril et de mai au sujet des Nizam. Le résultat de la surveillance est que leurs activités confirmaient que c'étaient eux qui avaient combiné l'affaire. Ils se présentaient chez Costco six jours par semaine et allaient chercher de grosses quantités de cigarettes à bande jaune qui sont livrées aux détaillants locaux. Il a été conclu qu'habituellement, les détaillants locaux ne font pas partie de grosses chaînes, mais qu'il s'agit plutôt de petits dépanneurs non franchisés. Il a également été noté que ces magasins annoncent des cigarettes à prix réduit.
+(Pièce A‑1, enq. 012, lignes 1 à 10)
+[...] Les ventes de Costco sont et ont été d'environ 250 000 par semaine depuis que Mega a commencé à faire des affaires avec Costco. Les mêmes deux individus vont chercher le tabac chaque jour et ils arrivent toujours vers midi. Les commandes sont préparées tous les jours et sont fondées sur des télécopies qui sont envoyées à Costco. Mega numérote les télécopies et Costco prépare les caisses individualisées. Ces hommes (les frères Nizam) ont informé les employés de Costco que seules les cigarettes ramassées le mardi sont livrées à Mega.
+(Pièce A‑1, enq. 012, lignes 15 à 22)
+L'enquête a avancé d'une façon satisfaisante. Les renseignements donnés par l'informateur ont été vérifiés au moyen d'activités de surveillance et d'une enquête. Il est maintenant passablement certain que Mega, François Francis, Mohammed Nizam et Ali Nizam, ainsi que d'autres, commettent une fraude lorsqu'ils cherchent à obtenir un remboursement de la TPS en se fondant sur de faux renseignements.
+(Pièce A‑1, enq. 013, lignes 1 à 6)
+[34] Il a été établi que la surveillance avait été effectuée par Bernie Campbell*, Rich Cowell*, Mark Gillian, Steve Rose*, Michael Kanras*, Lenny Washburn, Paul Desjarlais, Cheryl Hayden, Arnie Levy, Thomas Archibald* et Lorna Kennedy, qui travaillaient tous pour la GRC, par John Uprichard, Jennifer Wong, Steve Irons* et Mike Martin, qui travaillaient tous pour le ministère des Finances de l'Ontario, ainsi que par Gerald Hooft* et par Pamela Howick*, de l'ARC (les astérisques indiquent les personnes qui ont témoigné à l'audience). Il y avait normalement deux équipes en place au cours de la journée pour assurer la surveillance. Chaque membre de l'équipe de surveillance s'était vu attribuer un numéro, et les numéros des membres qui étaient présents au cours de la journée devaient être indiqués dans le rapport de surveillance de ce jour‑là.
+[35] Sur les 52 jours de surveillance, il y a eu au moins 20 jours où un employé de l'appelante a été observé alors qu'il ramassait des caisses de cigarettes chez Costco, au 4411, chemin Walker, à Windsor (Ontario), et les livrait à des dépanneurs locaux. À maintes reprises, le nombre de caisses de cigarettes qui avaient été ramassées chez Costco a été identifié, et le nombre de caisses de cigarettes livrées à chaque magasin a également été observé. L'heure à laquelle les livraisons avaient été effectuées aux magasins a également été notée dans le rapport quotidien préparé par un membre de l'équipe de surveillance.
+[36] Pour chaque jour de surveillance, un rapport devait être rédigé. Le rapport renfermait normalement : (1) les numéros de code des personnes qui faisaient partie des équipes composées de deux personnes chargées de la surveillance; (2) le lieu et l'heure auxquels la surveillance débutait; (3) les numéros de plaque des véhicules suivis et les noms des chauffeurs; (4) le nombre de caisses de cigarettes chargées dans les véhicules qui étaient suivis; (5) les lieux et les heures de livraison et le nombre de caisses de cigarettes livrées à chaque magasin; (6) l'heure à laquelle la surveillance prenait fin. Le numéro de code du membre de l'équipe de surveillance figurait à côté de chaque observation. Tous les rapports de surveillance ont été produits devant la Cour sous la cote A‑1, enq. 068 à 252.
+[37] Selon les rapports de surveillance, des livraisons de caisses de cigarettes ont été observées aux magasins suivants, qui sont tous situés dans la région de Windsor :
+Un garage (962, promenade Lake Trail)
+Ace Convenience Store (au coin des rues Moy et Wyandotte)
+Ace Variety
+Benson's Corner (au coin des rues Wyandotte et Cursy)
+Big Bear Food Mart and Convenience (Ambassador Mall, 1660, chemin Huron Church)
+CK Convenience Store (Lambton Plaza, chemin Huron Church)
+Dépanneur (3244, chemin Walker)
+Dépanneur (3250, chemin Walker)
+Dépanneur (6915, rue Wyandotte)
+Dépanneur (au coin des rues Erie et Victoria)
+Dépanneur (au coin des rues Wyandotte et Rose)
+Dépanneur (rue Sandwish)
+Corner Store and Variety (238, rue Erie)
+David's Variety (rue Peter)
+David's Variety Store
+Downtown Lottery and Cigar Shop Store (159, rue Erie)
+Fred's Variety Spot
+Fred's Variety Spot (1605, rue Westminster)
+Glengarry Confectionary
+H & V Variety (rue Peter)
+Half Price Variety (1705, rue Malloy)
+Herfy's Variety (857, avenue University)
+Herfy's Variety Store (851, avenue University)
+LaSalle Petroleum & Variety (611, chemin Front)
+Maple Leaf Gas Bar and Variety (3511, rue Wyandotte)
+Midway Convenience
+Mina's Variety (2919, chemin Tecumseh)
+Park Market Square (au coin des rues Ottawa et Walker)
+Park Midway Convenience Store (au coin des rues Wyandotte et Sawson)
+Royal Variety (au coin des rues Tecumseh et Church)
+S & A Convenience (3750, chemin Walker)
+Sandwich Smoke Shop
+Suny's Gas and Variety (au coin des rues McDougall et Howard)
+Suny's Gas Bar (University Mall)
+Sunrise Variety (au coin des rues Wyandotte et Elm)
+Sunshine Variety (1098, rue Wyandotte)
+Sunshine Variety and Convenience Store (au coin des rues Pine et Ouellette)
+Sunshine Variety Store
+Tower Convenience Store
+Zom Laundry and Variety (1705, rue College)
+[38] Parmi les magasins susmentionnés, seuls les magasins ci‑après désignés n'étaient pas inscrits sur la liste de clients de l'appelante, pour la période allant du 22 janvier 1997 au 22 janvier 2001, qui a été préparée lors de la vérification et produite sous la cote R‑3(2), onglet 46 :
+Park Market Square
+Le garage
+Maple Leaf Gas Bar
+À l'audience, il a été déclaré que le magasin Corner Store and Variety, rue Erie, n'était pas un client régulier de l'appelante.
+Les commandes chez Costco
+[39] Trois employés du Costco de Windsor ont témoigné à l'audience : M. Ronald Wayne Rewakoski, directeur de l'entrepôt, M. Dany Daguerre, caissier, et M. Vino Perrera, directeur adjoint de l'entrepôt. Ils ont expliqué la façon dont les commandes de cigarettes étaient reçues de l'appelante ainsi que la façon dont elles étaient exécutées, payées et livrées. Monsieur Rewakoski a expliqué être d'abord entré en contact avec l'appelante en réponse à un appel de François Francis. La rencontre a eu lieu à l'entrepôt de l'appelante. Lors de la rencontre, une carte de membre a été signée et les parties se sont entendues sur la façon dont les commandes de tabac seraient passées et sur la façon dont elles seraient exécutées et payées. Les commandes devaient être passées par télécopieur la veille de la livraison, et chaque télécopie portait un numéro de série selon le nombre de commandes reçues au cours de la journée. L'appelante avait demandé que chaque commande soit préparée d'une façon individualisée pour ses clients. Chaque télécopie était enregistrée à titre de commande distincte, avec son propre total. Dans bien des cas, le numéro de la télécopie était également inscrit sur le reçu de caisse et sur les boîtes se rapportant à chaque commande, de façon à faciliter la livraison. Le paiement des achats de tabac était effectué en argent, par chèque ou par carte de crédit (American Express) sur livraison. Les paiements de plus de 10 000 $ devaient être effectués en argent ou par chèque certifié.
+[40] Monsieur Daguerre a confirmé la procédure suivie : les commandes étaient reçues par télécopieur la veille de la livraison; les commandes étaient numérotées l'une à la suite de l'autre; les cigarettes commandées étaient mises dans des caisses et chaque caisse était identifiée au moyen d'un numéro. Une fois les cigarettes empaquetées, M. Daguerre enregistrait la vente, préparait la facture et appelait François Francis ou son frère Nayef pour confirmer le montant total de la facture. Les livraisons de produits du tabac à l'appelante étaient effectuées une fois par jour, quatre fois par semaine, sur paiement des factures. Les produits du tabac étaient normalement ramassés par Mohammed Nizam tant qu'il n'a pas essayé de payer à l'aide de billets contrefaits. Par la suite, François Francis ou son frère Nayef se sont chargés des livraisons de Costco. Le témoin a également expliqué que la mini‑fourgonnette de Mohammed Nizam pouvait contenir au plus 30 caisses et qu'au moment de la livraison, Mohammed Nizam donnait des instructions au sujet de la façon dont les caisses devaient être chargées dans la mini‑fourgonnette. Lorsqu'il fallait effectuer un paiement au moyen d'un chèque certifié, Mohammed Nizam devait aller chercher le chèque à l'établissement de l'appelante et le faire certifier à la Banque Nationale du Canada. Une fois le chèque certifié, la livraison pouvait avoir lieu sur remise de ce chèque certifié.
+[41] Monsieur Perrera a confirmé qu'il avait appelé la police après s'être rendu compte que Mohammed Nizam avait effectué un paiement de 20 000 $ en argent au moyen de billets contrefaits, tous les billets portant le même numéro de série.
+[42] Certaines commandes de tabac étaient télécopiées depuis Tower Variety, le magasin appartenant à Ali Nizam et exploité par celui‑ci. À quelques exceptions près, les commandes étaient enregistrées dans les livres de l'appelante et l'appelante payait toutes les commandes, et ce, peu importe d'où elles provenaient, et elle demandait des remboursements de la TPS à leur égard. En outre, les commandes passées par télécopie provenant de Tower Variety correspondaient aux registres d'achat de l'appelante, comme le montre la pièce R‑3(7), onglet 100.
+[43] Les chèques émis en faveur de Costco en paiement des commandes de tabac portent uniquement une signature; François Francis a reconnu à l'audience avoir signé la plupart des chèques. Les chèques que l'appelante avait émis en faveur de Costco au cours de la période allant du 31 décembre 1999 au 18 décembre 2000 ont été produits devant la Cour sous la cote R‑9. Des relevés de compte de la Banque Nationale du Canada indiquant les activités associées au compte bancaire de l'appelante au cours de la période allant du 1er décembre 1998 au 31 décembre 2000 ont été produits sous la cote R‑3(8), onglet 107.
+[44] Les documents suivants de Costco ont également été produits devant la Cour sous les cotes R‑8(1) à R‑8(16) :
+­ les commandes de l'appelante passées par télécopieur pour l'année civile 2000;
+­ les registres de ventes pour l'année civile 2000, lesquels indiquaient le nombre d'articles vendus, le prix de chaque article, le prix global de la commande et le mode de paiement;
+­ des états mensuels indiquant les commandes quotidiennes.
+Les paiements effectués au moyen de la carte de crédit American Express
+[45] En plus des documents mentionnés ci‑dessus aux paragraphes 43 et 44, des relevés de la Banque Amex du Canada se rapportant aux cartes de crédit détenues par le propriétaire de l'appelante, François Francis, et par les employés de l'appelante, qui avaient été utilisées aux fins du paiement des achats effectués chez Costco au cours de la période allant du 1er janvier 2000 au 31 janvier 2001, ont également été produits devant la Cour sous la cote R‑3(9), onglet 108. Ces relevés ont été obtenus à la suite d'une demande que l'ARC avait présentée conformément au paragraphe 289.1(1) de la Loi en vue d'obtenir une ordonnance enjoignant à la Banque Amex du Canada de lui fournir les renseignements et documents mentionnés dans la demande délivrée à la banque. Le juge suppléant Frenette a fait droit à la demande (voir R. c. Banque Amex du Canada, 2008 CF 972).
+La vérification
+[46] La vérification relative à la TPS a débuté le 1er décembre 2000 avec l'entrevue initiale de François Francis, menée par Mme Pamela Howick et par M. Gerald Hooft. D'autres entrevues ont eu lieu avec M. Francis les 21 et 23 janvier ainsi que les 14 et 21 février 2001. Monsieur Francis a coopéré en fournissant les renseignements demandés. La partie la plus difficile de la vérification de l'appelante se rapportait au calcul de la TPS perçue par l'appelante lors de ses ventes et à l'identification de l'élément se rapportant à la TPS des achats effectués chez Costco, lesquels étaient enregistrés sur des milliers de rubans. Les calculs relatifs à la TPS n'ont pas été contestés par l'appelante.
+[47] Pendant que la vérification était en cours, l'ARC a continué à remettre les remboursements demandés par l'appelante au titre de la TPS au cours de l'année 2000. La dernière demande qui a été approuvée se rapportait au mois de novembre de cette année‑là. Les remboursements de la TPS pour les mois d'octobre et de novembre 2000 ont été bloqués lors du début de la vérification effectuée par l'ARC, au mois de décembre 2000.
+[48] La cotisation qui a été établie par suite de la vérification était datée du 2 mai 2001, et l'ARC a entrepris les mesures de recouvrement le 14 mai 2001.
+Les faits admis
+[49] Un sommaire des demandes d'aveux relatives à un fait et des demandes d'admission relatives à un document a été produit devant la Cour sous la cote R‑7 (le « sommaire »). Puisqu'elle n'a pas répondu dans le délai imparti aux diverses demandes qui étaient faites conformément à l'article 130 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »), l'appelante est réputée, conformément au paragraphe 131(2) des Règles, reconnaître la véracité des faits et l'authenticité des documents mentionnés dans le sommaire.
+[50] L'exactitude et l'authenticité des faits et documents suivants, entre autres, ont été admises :
+1. Aux dates indiquées au paragraphe 2 du sommaire, aucune vente de tabac n'a été effectuée en faveur de la société ou des personnes mentionnées au premier paragraphe du sommaire, à savoir :
+a) 1256470 Ontario Ltd., s/n Windsor Tower Variety;
+b) Ali Nizam;
+c) Mohammed Nizam;
+d) Fadi Nizam;
+e) Nazim Nizam.
+2. Les documents produits par l'intimée lors de la communication de documents et désignés documents de Costco, volumes 1 à 16, portant les numéros COSTCO 0001 à 4277, ont été envoyés par Mega Distributors si l'indication de transmission par télécopieur indique que l'expéditeur est Mega Distributors ou Mega Food Distributors.
+3. Les documents produits par l'intimée lors de la communication de documents et désignés documents de Costco, volumes 1 à 16, portant les numéros COSTCO 0001 à 4277, ont été envoyés depuis le dépanneur Windsor Tower Convenience Store ou Windsor Tower Variety si l'indication de transmission par télécopieur indique que l'expéditeur est « Panasonic Fax System 4830053 ».
+[51] Les [TRADUCTION] « indications de transmission par télécopieur des formulaires de Costco envoyés par Tower Convenience » ont été produites sous la cote R‑10.
+La position de l'appelante
+[52] Aux paragraphes 13 à 18 de l'avis d'appel modifié, l'appelante déclare que l'équipe d'enquête conjointe n'a pas réussi à établir un lien entre l'appelante et les activités des frères Nizam et que l'enquête a été abandonnée au mois de novembre 2000 sans qu'aucune accusation criminelle ne soit portée. Les principales cibles étaient les frères Nizam, que l'équipe d'enquête avait souvent observés pendant qu'ils ramassaient des caisses de cigarettes chez Costco, lesquelles avaient apparemment été commandées par l'appelante, et pendant qu'ils les livraient à des dépanneurs, à Windsor.
+[53] L'appelante affirme avoir été victime des Nizam; elle affirme qu'elle n'était pas au courant des activités de Mohammed Nizam, lorsqu'il avait passé des commandes de cigarettes par son entremise en se fondant sur le fait que les cigarettes étaient destinées à Mme McNaughton et en livrant ensuite ces cigarettes à des dépanneurs locaux, et qu'elle n'avait pas autorisé ces activités.
+[54] À part les activités non autorisées de Mohammed Nizam, l'appelante a livré toutes les cigarettes achetées par Mme McNaughton à l'établissement de cette dernière, dans la réserve. Les documents de l'appelante révèlent qu'au cours de la période de deux ans allant du 16 décembre 1998 au 29 novembre 2000, 145 ventes ont été effectuées en faveur de Mme McNaughton et que l'appelante a obtenu des factures signées accusant réception de la marchandise dans tous les cas.
+[55] L'appelante a signalé les incohérences dans les observations que l'équipe d'enquête conjointe avait faites. Ainsi, certaines livraisons n'ont pas été effectuées à des clients de l'appelante. Il en est ainsi des livraisons qui ont été observées au Downtown Lottery and Variety, les 28 mars et 27 avril 2000; le propriétaire de ce magasin, M. Charlie Steiman, a témoigné à l'audience et il a confirmé qu'il n'avait jamais acheté de cigarettes de l'appelante. Certains jours, l'équipe de surveillance n'a signalé aucune activité, alors qu'en fait des achats avaient été effectués par l'appelante; à d'autres moments, le nombre de caisses achetées par l'appelante était moins élevé que le nombre de caisses ramassées, ou encore des marchandises dont il n'était pas tenu compte étaient retournées chez Costco. Ainsi, pour le 1er mai 2000, il y avait une observation selon laquelle une caisse de cigarettes avait été livrée au Suny's Gas Bar, au University Mall, alors qu'aucune vente n'avait été inscrite dans les dossiers de l'appelante.
+Analyse
+[56] Les questions en litige sont les suivantes :
+a) L'appelante ou ses mandataires ont‑ils livré les produits du tabac en question chez Mme McNaughton/Zee's Restaurant, à une adresse située dans une réserve?
+b) Si les produits du tabac n'ont pas été livrés dans une réserve, l'appelante devrait‑elle être tenue pour responsable des actes de ses employés?
+c) L'appelante a‑t‑elle commis une faute lourde en omettant de percevoir et de verser la TPS de 768 188,15 $ et, par conséquent, est‑elle passible d'une pénalité de 192 047,03 $ conformément à l'article 285 de la Loi?
+[57] L'article 87 de la Loi sur les Indiens, L.R.C. (1985), ch. I‑5, exempte de taxation les biens meubles d'un Indien qui sont situés sur une réserve. Les paragraphes 87(1) et (2) sont libellés comme suit :
+87. (1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l'article 83, les biens suivants sont exemptés de taxation :
+a) le droit d'un Indien ou d'une bande sur une réserve ou des terres cédées;
+b) les biens meubles d'un Indien ou d'une bande situés sur une réserve.
+(2) Nul Indien ou bande n'est assujetti à une taxation concernant la propriété, l'occupation, la possession ou l'usage d'un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l'un de ces biens.
+[58] Étant donné que la Loi ne traite pas expressément des Indiens, l'ARC a publié, le 25 novembre 1993, le Bulletin d'information technique B‑039R, intitulé « Politique administrative de la TPS — Application de la TPS aux Indiens », modifié par un avis de modification au mois de juillet 1996. Cette version du bulletin remplaçait la version antérieure du 4 janvier 1991.
+[59] Selon la politique administrative énoncée dans le bulletin, les Indiens peuvent acquérir des biens à l'extérieur de la réserve sans avoir à payer la TPS, si les conditions suivantes sont réunies :
+1. ils présentent les documents pertinents au vendeur;
+2. les biens sont livrés dans la réserve par le vendeur ou le mandataire du vendeur.
+[60] Lorsque le bien est acheté à l'extérieur d'une réserve et qu'il est livré dans une réserve, le vendeur doit conserver une preuve adéquate indiquant que la vente a été effectuée en faveur d'un Indien inscrit en vertu de la Loi sur les Indiens et une preuve de la livraison indiquant que le bien a été livré dans une réserve.
+[61] Le bulletin précise que, s'il utilise son propre véhicule pour livrer le bien dans la réserve, le vendeur doit conserver la preuve que le bien y a bel et bien été livré en l'indiquant sur la facture et dans ses dossiers internes (p. ex. le journal des parcours ou des expéditions).
+[62] La nouvelle cotisation a été établie en tenant compte du fait qu'aucune livraison de produits du tabac n'avait été effectuée dans une réserve indienne et que l'article 87 de la Loi sur les Indiens ne libérait pas l'appelante de l'obligation de percevoir et de verser la TPS sur la fourniture des produits du tabac en question.
+[63] Compte tenu de la preuve soumise par les parties, je suis d'avis qu'il n'a pas été établi selon la prépondérance des probabilités que la livraison des produits du tabac a eu lieu dans la réserve. Pour en arriver à cette conclusion, j'ai tenu compte des observations que l'avocat de l'intimée a résumées, l'avocat ayant divisé en quatre, comme suit, la période visée par la nouvelle cotisation :
+a) du mois de décembre 1998 au mois de mai 1999, c'est‑à‑dire avant qu'Adnan Nizam eût été embauché :
+- comme François Francis l'a admis, aucun élément de preuve n'indiquait que des produits du tabac avaient été livrés dans une réserve indienne. Madame McNaughton allait chercher les cigarettes à l'entrepôt de l'appelante;
+b) du mois de mai au mois d'octobre 1999 :
+- François Francis appelait Adnan Nizam pour lui demander de livrer des cigarettes chez Mme McNaughton;
+- François Francis avait expliqué à Adnan Nizam comment se rendre à la réserve et ce qu'il fallait faire de l'argent, une fois les reçus signés;
+- les reçus n'étaient pas fiables parce que la charge utile maximale de la fourgonnette utilisée pour les livraisons était de 23 à 25 caisses de cigarettes seulement et parce qu'Adnan n'avait jamais eu entre les mains des montants aussi élevés que ceux qui étaient mentionnés dans les reçus;
+c) du mois d'octobre 1999 au mois de janvier 2000 :
+- aucun élément de preuve n'indiquait que du tabac avait été livré dans la réserve au cours de cette période;
+d) du mois de janvier au mois de novembre 2000 (c'est‑à‑dire pendant la période où les livraisons étaient effectuées par Mohammed Nizam) :
+- en janvier et en février, Mohammed Nizam n'était pas inscrit dans le livre de paie de l'appelante et aucun élément de preuve n'a été soumis afin de montrer qui avait effectué les livraisons dans la réserve au cours de ces deux mois‑là;
+- la charge utile maximale de l'Astro rouge que Mohammed Nizam utilisait censément pour livrer les produits du tabac dans la réserve était de 30 caisses de cigarettes, et un seul reçu indiquait un montant se rapprochant des montants qui étaient remis à Mohammed Nizam, selon ce que celui‑ci a déclaré lors de son témoignage;
+- de plus, les reçus qui ont été soumis n'étaient pas fiables puisqu'un grand nombre d'entre eux n'étaient pas signés par Mme McNaughton.
+[64] La Cour a également tenu compte des incohérences suivantes :
+a) contrairement à l'assertion de l'appelante, il a clairement été démontré au moyen de la surveillance que les produits du tabac de l'appelante étaient livrés à des magasins locaux par l'appelante, ou par des mandataires ou employés de l'appelante;
+b) la mention du fait que Zee's était un client qui devait payer comptant tous les produits du tabac achetés de l'appelante était également inexacte compte tenu de ce qui était inscrit dans les reçus;
+c) l'assertion selon laquelle Mohammed Nizam agissait sans que l'appelante l'eût autorisé à le faire a également été contredite par les déclarations que Mohammed Nizam a faites lors de son interrogatoire préalable, à savoir qu'il était autorisé à faire n'importe quoi, à accepter et à préparer des commandes et à s'occuper de l'argent reçu;
+d) contrairement à l'affirmation que François Francis a faite, à savoir qu'il n'avait aucune connaissance au sujet de la préparation des reçus pour la vente de produits du tabac à Zee's, la preuve révèle que François Francis était un homme d'affaires averti qui était parfaitement au courant des activités de l'appelante et qui s'y connaissait fort bien en matière de distribution de produits alimentaires en général. François Francis a organisé les achats de cigarettes en caisses individualisées avec le directeur de Costco. C'était lui que le caissier de Costco appelait pour confirmer le montant des factures. Il signait seul la plupart des chèques émis en paiement des commandes chez Costco et c'était à lui qu'était envoyé le rapport mensuel de Costco indiquant les commandes quotidiennes que l'appelante avait passées au cours du mois.
+[65] Puisqu'il a été conclu que les produits du tabac n'étaient pas livrés dans la réserve, la Cour doit maintenant se demander si l'appelante doit être tenue responsable des actes commis par les frères Nizam et, en particulier, par Mohammed Nizam, pendant que ceux‑ci travaillaient pour elle.
+[66] Compte tenu des faits, je suis d'avis que l'appelante n'a pas produit suffisamment d'éléments de preuve pour me permettre de conclure que Mohammed Nizam avait passé des commandes de cigarettes par l'entremise de l'appelante sous le prétexte que ces commandes étaient destinées à Mme McNaughton, alors qu'il livrait en fait les cigarettes à des dépanneurs locaux, à l'insu de l'appelante et sans l'autorisation de celle‑ci. Je ne puis croire que cela aurait pu être fait sur le petit marché de Windsor, en particulier puisque presque toutes les livraisons étaient effectuées à des clients de l'appelante. Quoi qu'il en soit, la responsabilité du fait d'autrui de l'appelante, en sa qualité d'employeur d'Adnan et de Mohammed Nizam, est engagée en ce qui concerne les actes autorisés commis par ces employés ainsi qu'en ce qui concerne les actes non autorisés que ceux‑ci ont commis et qui sont liés aux actes autorisés. La Cour suprême du Canada a examiné le principe de la responsabilité du fait d'autrui dans les arrêts 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, 2001 CSC 59, et Bazley c. Curry, [1999] 2 R.C.S. 534.
+[67] L'appelante s'est vu imposer la pénalité prévue à l'article 285 de la Loi. Cette pénalité correspond à celle qui est prévue au paragraphe 163(2) de la Loi de l'impôt sur le revenu. D'une façon générale, l'article 285 de la Loi impose une pénalité à toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration ou dans un autre document établi pour une période de déclaration ou une opération, ou y participe. La pénalité est de 250 $ ou, s'il est plus élevé, d'un montant égal à 25 p. 100 de la somme correspondant à la taxe que le contribuable n'a pas payée en raison du faux énoncé ou de l'omission et à 25 p. 100 de l'excédent du remboursement qui serait payable par suite du faux énoncé ou de l'omission.
+[68] La notion de « faute lourde », aux fins de l'application d'une pénalité imposée en vertu de la Loi ou de la Loi de l'impôt sur le revenu, a été définie comme suit par le juge Strayer dans l'arrêt Venne c. La Reine, no T‑815‑82, 9 avril 1984 (C.F. 1re inst.) :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[69] Il incombe au ministre du Revenu national de démontrer que l'appelante a commis une faute lourde, et la conclusion selon laquelle l'appelante a agi sciemment ou a commis une faute lourde exige un examen plus approfondi de la preuve.
+[70] En l'espèce, je suis d'avis que l'intimée s'est acquittée de l'obligation qui lui incombait d'établir au moyen d'une preuve directe que l'appelante avait commis une faute lourde en omettant de percevoir et de verser la TPS et qu'elle avait fait un faux énoncé dans une déclaration à l'égard de la fourniture de produits du tabac à Zee's, ou qu'elle y avait participé, consenti ou acquiescé.
+[71] L'appelante est une société qui exploite une entreprise et qui appartient à François Francis, qui participait pleinement aux activités quotidiennes de l'entreprise. François Francis savait, ou aurait dû savoir, que pour qu'une vente à un Indien inscrit soit exemptée de la TPS, il devait livrer les marchandises dans une réserve indienne et avoir à sa disposition une preuve de la livraison. Au paragraphe 10 de la réplique déposée par son avocat le 16 juin 2003, l'appelante a admis avoir reçu de son comptable, le 10 mai 1999, une copie du numéro du printemps 1999 des Nouvelles de la TPS portant sur les ventes aux Indiens.
+[72] Eu égard aux faits, je conclus que l'appelante a sciemment fait de faux énoncés dans ses déclarations relatives à la TPS et qu'elle a fait de fausses déclarations pour que le tabac semble être livré dans la réserve, alors qu'en fait il ne l'était pas.
+[73] La Cour conclut également que l'appelante est précluse par ses propres déclarations d'invoquer la désignation erronée dont elle a fait l'objet dans la nouvelle cotisation. La nouvelle cotisation est valide et exécutoire malgré l'irrégularité qu'elle renferme par suite de la désignation erronée de l'appelante.
+[74] L'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 30e jour de juin 2010.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 22e jour de novembre 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 357
+No DU DOSSIER DE LA COUR : 2003-1048(GST)G
+INTITULÉ : 893134 Ontario Inc. s/n Mega Distributors c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Windsor (Ontario)
+DATES DE L'AUDIENCE : Les 29 et 30 septembre et les 2 et 3 octobre 2008, et les 17, 18, 19, 20, 23 et 24 février 2009
+MOTIFS DU JUGEMENT : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 30 juin 2010
+COMPARUTIONS :
+Représentant de l'appelante :
+M. François Francis
+Avocats de l'intimée :
+Mes Gordon Bourgard et
+Ronald MacPhee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Pour l'intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

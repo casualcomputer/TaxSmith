@@ -1,0 +1,232 @@
+---
+title: "Thibeault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26897/index.do"
+last_modified: "2003-02-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 6"
+citation2: ""
+neutral_citation: "2003 CCI 6"
+decision_date: "2003-02-21"
+language: "fr"
+item_id: "26897"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 769
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:32:54.230000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd8c72605f9ba6a3bb002528be7814e06beef119cc99e3cfad29ec225098e0be"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thibeault c. La Reine
+
+- Citation: 2003 CCI 6
+- Decision date: 2003-02-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 769, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thibeault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-21
+Référence neutre
+2003 CCI 6
+Numéro de dossier
+2000-2398(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-2398(IT)G
+ENTRE :
+SYLVIO THIBEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 20 août 2002 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Robert Cardinal
+Avocate de l'intimée :
+Me Valérie Tardif
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1995 est rejeté, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de février 2003.
+« Alain Tardif »
+J.C.C.I.
+Référence : 2003CCI6
+Date : 20030221
+Dossier : 2000-2398(IT)G
+ENTRE :
+SYLVIO THIBEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Alain Tardif, C.C.I.
+[1] Il s'agit d'un appel relatif à l'année d'imposition 1995.
+[2] La question en litige consiste à déterminer si l'appelant a encouru une perte au titre de placement d'entreprise pour l'année en question. L'appelant soumet, à titre d'argument supplétif, qu'à défaut d'une perte au titre de placement d'entreprise, il s'agit d'une perte en capital.
+[3] Pour établir la cotisation à l'origine de l'appel, l'intimée a pris pour acquis les faits suivants :
+a) l'appelant détenait des actions de Investissements Navimex Inc. (ci-après Navimex);
+b) l'appelant a vendu les actions de Navimex en août 1995;
+c) par avis de cotisation daté du 9 août 1999, les redressements suivants ont été effectués relativement au gain en capital suite à la disposition des actions de Navimex;
+1995
+Factures de Jolicoeur-Lacasse fournies : 29 200,05 $
+Portion absorbée par M. Gagnon : 8 600,00 $
+Montant absorbé par l'appelant : 20 600,05 $
+Montant réclamé : 24 852,31 $
+Montant refusé : 4 252 $
+Gains en capital imposables (75%) 3 189 $
+d) des honoraires légaux au montant total de 126 185 $ ont été payés en 1992 à la firme d'avocats Joli-Coeur, Lacasse, Simard, Normand et Associés (39 756 $ + 86 429 $);
+e) un montant de 39 956 $ d'honoraires facturés en 1990 et 1991 était relatif à une cause en Cour supérieure concernant une action en annulation d'un contrat de service incorporé à un contrat de vente d'actions;
+f) le 29 janvier 1987, l'appelant et Guy Gagnon ont vendu leurs actions dans Relais Nordik Inc. (ci-après Nordik) à Vermonbec Inc.;
+g) dans le contrat de vente, il y avait une stipulation à l'effet que Navimex s'engageait à fournir des services d'expertise maritime à Nordik pour un montant de 150 000 $ payable en 60 versements de 2 500 $ à compter du 30 avril 1987;
+h) en 1988, Vermonbec Inc. a vendu ses actions de Relais Nordik Inc. (ci-après Nordik) à Groupe Desgagnés (1981) Inc. (ci-après Groupe Desgagnés);
+i) Groupe Desgagnés a mis fin au contrat de service et a cessé de payer les versements à Navimex;
+j) Nordik a intenté une action contre Navimex et l'appelant pour l'annulation du contrat de service (no de Cour : 200-05-001257-885);
+k) jugement a été rendu le 30 septembre 1991 dans cette action. Nordik a dû verser un montant de 150 000 $ plus intérêts à Navimex;
+l) un montant de 168 215,24 $ a été reçu par la firme d'avocats Joli-Coeur, Lacasse, Simard, Normand et associés. De ce montant, 25 000 $ a été remis à Guy Gagnon;
+m) les honoraires légaux au montant de 39 756 $ ainsi que les honoraires légaux au montant de 86 429 $ ont été payés à même le montant de 168 215,24 $ reçu par la firme d'avocats Joli-Coeur, Lacasse, Simard, Normand et Associés;
+n) le 13 février 1996 le ministre du Revenu national a cotisé l'appelant pour augmenter le produit de disposition des actions de Nordik d'un montant de 56 250 $ pour l'année d'imposition 1987;
+Produit de la vente des actions (voir le jugement de la Cour supérieure /200-05-001257-885 du 30 septembre 1991) 250 000 $
+Fraction de ces actions détenues par Sylvio Thibault 75%
+Partie du produit revenant à M. Thibault 187 500 $
+CALCUL DU GAIN :
+Produit révisé 187 500 $
+Moins :
+Prix de base rajusté
+0
+Gain de capital : 187 500 $
+gain de capital imposable (50%) 93 750 $
+Moins :
+Gain de capital imposable déclaré 37 500 $
+Gain de capital imposable additionnel 56 250 $
+o) cette cotisation a été maintenue par la Cour canadienne de l'impôt dans un jugement daté du 7 août 1998 dans la cause Sylvio Thibeault c. sa Majesté la Reine, 96-1726(IT)G, la juge Lamarre Proulx ayant conclu que le contrat de service appartenait à l'appelant et que le montant de 150 000 $ faisait partie du produit de disposition des actions de Nordik;
+p) un montant de 86 429 $ d'honoraires facturés en 1990 et 1991 étaient relatif à une poursuite contre l'appelant pour maintenir un stationnement à Baie Sainte-Catherine lui appartenant;
+q) l'appelant louait un terrain à Navimex pour un montant de 25 000 $ par année;
+r) en 1990, l'appelant a eu des problèmes juridiques reliés à ce terrain relativement à des questions environnementales et à une requête pour démolition du terrain de stationnement.
+[4] L'appelant a admis la presque totalité des faits pris pour acquis par l'intimée. Il a cependant émis des réserves quant au contenu des alinéas 10 p) et 10 r); il a suggéré certaines précisions, en contrepartie de quoi, il offrait d'admettre tous les faits sans exception. L'intimée a refusé d'amender les alinéas 10 p) et 10 r) de sa réponse à l'avis d'appel pour satisfaire aux attentes de l'appelant.
+[5] La preuve a été constituée des témoignages de l'appelant et de l'agent des appels, madame Lise Boutin.
+[6] La chronologie des faits pertinents se résume comme suit :
+® 1987 - L'appelant cède ses actions de la compagnie « Relais Nordik Inc. » (ci-après Nordik) à la compagnie « Vermonbec Inc. » (ci-après Vermonbec) qui correspondait à 75 p. 100 des actions vendues dans la transaction dont la considération totale était de 100 000 $; l'appelant a alors encaissé 75 000 $. La transaction prévoyait également un contrat de consultations devant générer des honoraires de 150 000 $ payables à la compagnie « Navimex Inc. » (ci-après Navimex), compagnie totalement contrôlée par l'appelant.
+® 1988 - Vermonbec revend les actions à « Groupe Desgagnés (1981) Inc. » (ci-après Goupe Desgagnés) qui conteste le contrat d'expertise au montant de 150 000 $. Des procédures judiciaires relatives à la qualité du contrat sont alors entamées.
+® 1991 - Le 30 septembre, la Cour supérieure confirme le bien-fondé du contrat d'expertise et la compagnie Navimex se voit confirmer dans ses droits d'obtenir 150 000 $ plus les intérêts, soit 168 215,24 $.
+® 1992 - Navimex considère les honoraires découlant du contrat d'expertise, dont la qualité a été confirmée par la Cour supérieure, comme étant des revenus d'entreprise.
+® 1995 - L'appelant vend le terrain de stationnement dont il est personnellement propriétaire, lequel est loué à la compagnie Navimex dans le cadre de ses opérations; il vend, en même temps, ses actions dans la compagnie Navimex.
+® 1998 - La Cour canadienne de l'impôt conclut, sous la plume de l'honorable juge Louise Lamarre Proulx, que le contrat d'expertise devant générer des honoraires à 150 000 $ est un simulacre, dont le but était de réduire le produit de disposition des actions établi à 100 000 $; conséquemment au jugement de cette Cour, le produit de disposition des actions est devenu 250 000 $; l'appelant a donc fait l'objet d'une nouvelle cotisation.
+® Ni le jugement de la Cour supérieure de 1991 ni celui de la Cour canadienne de l'impôt n'ont fait l'objet d'appel; les conclusions de ces jugements sont donc devenues permanentes et incontournables.
+[7] L'appelant soutient que le 150 000 $ originalement défini et décrit comme honoraires d'expertise a été doublement imposé, soit une première fois comme revenus d'entreprises et une deuxième fois comme gain en capital. Il affirme également n'avoir jamais reçu les honoraires de consultation, lesquels ont été encaissés par la compagnie Navimex.
+[8] L'appelant soutient avoir le droit de réclamer une perte ou, à défaut, désire obtenir une réduction équivalente quant au montant qui lui a été attribué, à titre de gain en capital, résultant du jugement de la Cour canadienne de l'impôt de 1998.
+[9] De son côté, l'intimée nie les prétentions de l'appelant et soutient que la compagnie Navimex a assumé à sa place les frais juridiques requis par les procédures judiciaires, relatifs à un dossier qui le concernait personnellement, concluant qu'il n'y a eu aucune perte.
+[10] L'appelant réplique qu'il n'était aucunement débiteur de tels frais et que les honoraires étaient et devaient être la responsabilité exclusive de Navimex; il fonde ses prétentions sur un bail dont l'objet était le terrain de stationnement.
+[11] Le terrain était requis par les activités commerciales de la compagnie; le bail prévoyait un loyer « net, net, net » . En d'autres termes, l'appelant a soumis qu'il louait le terrain de stationnement dont il était personnellement propriétaire pour une considération annuelle de 25 000 $ « net, net, net » , ce qui signifiait, selon lui, que toutes les dépenses, frais et autres devaient être assumés non pas par lui, mais par la compagnie locataire. Le bail n'a pas été produit.
+[12] L'existence du bail ne fait pas problème; qu'il ait été verbal ou écrit, cela n'a aucune importance si ce n'est au niveau de la preuve du contenu; s'il a fait l'objet d'un écrit, il n'a pas été déposé.
+[13] En effet, le problème est au niveau du contenu de cette entente, dont l'objet. L'appelant a plaidé qu'il s'agissait d'une entente « nette, nette, nette » et que de ce fait, il était incontestable que la responsabilité des honoraires et déboursés incombait non au locateur, mais à la compagnie locataire des lieux, en occurrence Navimex.
+[14] De son côté, l'intimée a contesté les prétentions de l'appelant quant à la responsabilité des honoraires. Selon l'intimée, le litige portait essentiellement sur la question relative à la légalité d'utiliser les lieux comme stationnement, il s'agissait là de la responsabilité du locateur des lieux puisqu'il devait garantir et assurer la pleine jouissance des lieux dont le bail faisait l'objet.
+[15] L'avocat de l'appelant a donné l'exemple d'un magasin départemental qui, à un moment donné, décidant de modifier la vocation des lieux faisant l'objet du bail, devrait assumer les frais reliés à un litige découlant de sa décision de changer le genre d'utilisation des lieux, ce à quoi, je souscris entièrement.
+[16] En l'espèce, il en est autrement puisque le bail était fondamentalement différent de celui de l'exemple imaginé par le procureur de l'appelant. En effet, le litige portait sur l'objet même de l'entente.
+[17] Es-qualité de propriétaire du terrain que l'appelant avait certainement l'obligation de freiner toute initiative visant à empêcher la jouissance des lieux loués pour fins de stationnement; il se devait de contester toute initiative susceptible de mettre en péril la pleine jouissance des lieux loués par la compagnie locataire Navimex.
+[18] À cet égard je crois utile de reproduire l'article 1854 du Code civil du Québec (le « Code » ) :
+DES DROITS ET OBLIGATIONS
+RÉSULTANT DU BAIL
+1.-Dispositions générales
+1854. Le locateur est tenu de délivrer au locataire le bien loué en bon état de réparation de toute espèce et de lui en procurer la jouissance paisible pendant toute la durée du bail.
+Il est aussi tenu de garantir au locataire que le bien peut servir à l'usage pour lequel il est loué, et de l'entretenir à cette fin pendant toute la durée du bail.
+[19] Peut-on par le biais d'une entente expresse déroger aux obligations prévues par le Code ? En d'autres termes, Navimex et l'appelant auraient-ils pu convenir d'une entente en vertu de laquelle Navimex s'engageait à prendre faits et cause à ses frais, dans toutes procédures, sans exception, même relatives à un litige n'ayant rien à voir avec elle, mais découlant de la qualité et vocation des lieux en fonction des lois et règlements municipaux applicables ? Étant donné que Navimex était une compagnie dont l'appelant était le seul actionnaire, tout en étant personnellement propriétaire du terrain loué, il eut fallu faire une preuve plus déterminante et surtout plus convaincante, étant donné qu'il s'agissait là d'un aspect très particulier et exceptionnel. Il n'y a aucune disposition qui exige qu'un bail soit écrit, par contre lorsque les seules parties contractantes sont étroitement liées, il est périlleux de s'en remettre à un bail verbal qui permettrait lors d'un quelconque litige de soumettre un contenu ajusté aux circonstances en fonction des intérêts en cause.
+[20] Les frais et déboursés dont il est question sont ceux qui furent effectués dans les circonstances suivantes :
+· La ville Baie Sainte-Catherine, qui avait juridiction sur le territoire du terrain de stationnement, avait initié des procédures judiciaires dont le but ultime était d'empêcher l'utilisation du terrain en question à des fins de stationnement.
+· Les procédures furent vigoureusement contestées étant donné que le stationnement en question était tout à fait essentiel aux opérations de Navimex; des frais et honoraires de plus de 86 000 $ furent facturés par les avocats dans le cadre de ces procédures.
+· Navimex a payé les montants des frais et honoraires réclamés.
+[21] Il m'apparaît approprié de récapituler les faits. Lors de la cession des actions ayant généré un gain en capital, les parties à la transaction avaient convenu d'un contrat de services devant générer des honoraires de 150 000 $. Le contrat d'honoraires en question a plus tard été qualifié, par un jugement de cette Cour, de considération déguisée pour la vente des actions augmentant ainsi le gain en capital pour autant.
+[22] Au moment de la transaction, dans l'optique des parties, le montant de 150 000 $ constituait une dépense pour la compagnie acquéreur et un revenu d'entreprise pour la compagnie devant exécuter le contrat, soit Navimex. Il s'agissait là d'un contrat librement convenu par les parties en cause, dont le bien-fondé fut d'ailleurs plus tard confirmé par la Cour supérieure du Québec.
+[23] L'appelant a touché le produit de disposition des actions dans la compagnie Nordik. Quant aux honoraires devant être éventuellement payés dans le cadre du contrat de services, ils étaient payables à Navimex et non à l'appelant personnellement.
+[24] Le fait de contrôler la compagnie Navimex, ne lui donnait pas droit aux honoraires dus à la compagnie. Il s'agissait de personnalités juridiques distinctes et, par voie de conséquence, de deux contribuables différents.
+[25] Le fondement des cotisations n'était absolument pas le même. Les cotisations ont été émises à deux niveaux différents sur deux revenus de sources également différentes et, finalement, pour deux contribuables différents.
+[26] Les prétentions de l'appelant, quant à la double imposition, ne sont donc pas fondées; en effet, il oublie de faire la distinction entre ses affaires personnelles et celles de la compagnie qu'il contrôlait. Le gain en capital lui était attribuable alors que les honoraires étaient payables à Navimex. D'ailleurs, c'est l'appelant dans le cadre du contrat d'expertise ès-qualité d'administrateur et principal actionnaire, qui a choisi et décidé qu'il en soit ainsi. L'appelant voudrait, en quelque sorte refaçonner les faits des suites des jugements dont il n'a pas fait appel.
+[27] Pour ce qui est de l'argument voulant qu'il n'ait jamais reçu le montant, encore là, l'appelant ne peut s'en prendre qu'à lui-même. Dans un premier temps, il s'agissait de montants qui ne lui étaient aucunement dus puisqu'il avait choisi et décidé, en vertu du contrat, que les honoraires seraient payables non pas à lui personnellement, mais plutôt à la compagnie Navimex qu'il contrôlait. Il aurait pu, au moment de la convention, exiger que les honoraires lui soient payables personnellement; il en a décidé autrement. Aux termes des contrats, la compagnie Navimex était seule créancière desdits honoraires.
+[28] L'appelant a décidé de ne pas faire appel de la décision de la Cour canadienne de l'impôt quant au montant du gain en capital imposable, il doit en assumer les conséquences.
+[29] À cet égard, il est intéressant de rappeler les propos de l'honorable juge McIntyre qui rappelait un principe fondamental, à savoir qu'une ordonnance rendue par une cour compétente est valide, concluante et a force exécutoire, à moins d'être infirmée en appel ou légalement annulée. Ainsi le jugement de la Cour canadienne de l'impôt ne peut pas être attaqué indirectement.
+[30] Pour avoir droit à une perte au titre d'un placement d'entreprise, il doit être satisfait aux conditions prévues par l'alinéa 39(1)c) de la Loi de l'impôt sur le Revenu :
+c) une perte au titre d'un placement d'entreprise subie par un contribuable, pour une année d'imposition, résultant de la disposition d'un bien quelconque s'entend de l'excédent éventuel de la perte en capital que le contribuable a subie pour l'année résultant d'une disposition, après 1977 :
+...
+(iii) soit une action du capital-actions d'une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien...
+...
+[31] Les faits permettent-ils de conclure que l'appelant pouvait réclamer une perte au titre de placement d'entreprise? La réponse est négative puisque ce dernier n'avait aucune créance envers Navimex. D'ailleurs l'absence d'une telle créance ressort clairement du jugement de la Cour supérieure qui a condamné Nordik à payer le montant du contrat non pas à l'appelant, mais à Navimex.
+[32] Dans un deuxième temps, l'appelant a réalisé un gain en capital lorsqu'il a disposé de ses actions dans Navimex. Les prétentions de l'appelant voulant que les sommes reçues par Navimex correspondaient à des avances consenties à la compagnie n'ont aucun fondement juridique, à la lumière de la preuve soumise.
+[33] L'appelant a soutenu avoir subi une perte découlant soit d'une créance soit de la non-récupération d'une avance consentie à Navimex. La preuve ne permet pas de telles conclusions qui sous-entendraient l'ignorance totale de jugements n'ayant fait l'objet d'aucun appel et de faits et gestes dont l'appelant a été l'auteur, tant personnellement qu'ès-qualité d'administrateur des compagnies concernées.
+[34] La preuve comporte deux volets. Le premier découle des faits sur lesquels l'appelant a eu plein contrôle. Je fais notamment référence aux compagnies, aux transactions et à toutes les décisions et opérations auxquelles l'appelant a été étroitement associé.
+[35] Le deuxième volet découle de deux jugements : l'un émanant de la Cour canadienne de l'impôt par l'honorable juge Lamarre Proulx et un deuxième par la Cour supérieure rendu par l'honorable juge McIntyre.
+[36] L'intimée a soumis que l'appelant n'avait droit à aucune perte, puisqu'il avait, si perte il y avait eu, été compensé du fait que la compagnie Navimex avait assumé les frais juridiques au montant de 86 429 $, dont la responsabilité lui incombait personnellement.
+[37] Pour démontrer le bien-fondé de ses prétentions, l'intimée a introduit en preuve une liasse de factures émises par le bureau d'avocat qui s'était occupé du litige relatif au stationnement; ces factures étaient adressées à l'appelant personnellement.
+[38] L'appelant conteste cette prétention en affirmant que la totalité des frais devait être assumée par Navimex en s'appuyant sur un bail intervenu entre lui et la compagnie en vertu duquel toutes les dépenses étaient la responsabilité exclusive du locataire Navimex sous prétexte que la considération convenue de 25 000 $ était « nette, nette, nette » .
+[39] En l'espèce, l'appelant a fait des choix qui ont produit des effets et conséquences. Certaines décisions ont fait l'objet de jugements qui n'ont fait l'objet d'aucun appel.
+[40] Après plusieurs transactions dont certaines ont été suivies de jugements, l'appelant fait un bilan de la situation et conclut que son fardeau fiscal aurait pu être moindre.
+[41] Dans le but de le réduire, il voudrait que ce Tribunal préfère à la réalité des faits une interprétation non conforme, découlant essentiellement de conséquences non souhaitées. Je ne peux souscrire à une telle argumentation qui n'a aucune assise au niveau des faits et du droit au moment où ils sont survenus.
+[42] De simples affirmations verbales, soutenues par aucun document ne sont certainement pas suffisantes pour conclure que Navimex était totalement et exclusivement responsable du paiement des frais et honoraires de 86 429 $.
+[43] D'autre part, l'intimée a établi que la facturation avait été émise au nom de l'appelant et non au nom de la compagnie, créant ainsi une très forte présomption que l'appelant était redevable du paiement.
+[44] L'appelant a tenté de minimiser la portée de cette facette de la preuve de l'intimée par le biais de simples affirmations à l'effet contraire.
+[45] Le fardeau de la preuve incombait à l'appelant. Le double statut d'actionnaire de Navimex locataire du terrain et propriétaire du terrain qui faisait l'objet de la location plaçait l'appelant dans une position assez délicate et certainement pas idéale pour déterminer les droits et obligations des deux entités juridiques que lui conférait son statut.
+[46] Dans de telles circonstances, il aurait dû faire un effort particulier pour trouver le bail et le produire, et à défaut faire intervenir les avocats créanciers des frais et honoraires dans le dossier. Il a choisi de n'en rien faire et de ne s'en remettre qu'à son seul témoignage.
+[47] Malheureusement, ce n'était carrément pas suffisant pour relever son fardeau de preuve, d'autant plus que l'interprétation des faits de l'appelant sous-entendait une particularité tout à fait exceptionnelle quant à l'état du droit applicable. D'autre part, l'intimée a soumis une preuve qui s'inscrivait dans la logique et en tout point conforme à l'état de ce même droit.
+[48] Dans les circonstances, je conclus que la prépondérance de la preuve ne soutient ni n'appuie les prétentions de l'appelant; par contre, cette même prépondérance de la preuve confirme le bien-fondé des prétentions de l'intimée.
+[49] L'appel est donc rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 21e jour de février 2003.
+« Alain Tardif »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI6
+No DU DOSSIER DE LA COUR :
+2000-2398(IT)G
+INTITULÉ DE LA CAUSE :
+Sylvio Thibeault et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (QC)
+DATE DE L'AUDIENCE
+le 20 août 2002
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 21 février 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me Robert Cardinal
+Pour l'intimée :
+Me Valérie Tardif
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Robert Cardinal
+Étude :
+Choinard Cardinal Avocats (Ste-Foy)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

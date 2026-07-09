@@ -1,0 +1,91 @@
+Title: Ville de Lévis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26968/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-241-26968-ville-de-l-vis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-02-10
+
+# Ville de Lévis v. The Queen
+
+- Citation: 2006 TCC 241
+- Decision date: 2006-02-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 578, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ville de Lévis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-10
+Neutral citation
+2006 TCC 241
+File numbers
+2005-1071(GST)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2006TCC241
+Date: 20061204
+Docket: 2005-1071(GST)G
+BETWEEN:
+VILLE DE LÉVIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on February 10, 2006, at Quebec City, Quebec, and amended for greater clarity and accuracy.)
+Archambault J.
+[1] The Ville de Lévis ("the City") is appealing from two assessments made by the Minister of National Revenue ("the Minister") under the Excise Tax Act ("the Act"). The first assessment pertains to the period from May 1, 2000, to December 31, 2001, and the second pertains to the period from January 1, 2002, to December 31, 2003. The Minister, through his agent, the Minister of Revenue of Quebec, assessed the City for goods and services tax (GST) which the Minister claims that the City collected but did not remit to the Minister.
+Background
+[2] The City called for bids from advertising firms with a view to renting some of its buildings for posting advertisements. The call for bids included general specifications and special specifications (Exhibit A‑1, Tab 6). Three companies responded to the call for bids, and the City accepted the most advantageous proposal, submitted by Pattison‑Québec ("Pattison"). Under the proposal (Exhibit A‑1, Tab 6), a total of $4,229,393 in rent was to be paid over a 15‑year period. In the column headed [TRANSLATION] "Total income over 15 years, including indexation at 3% per year" in the table entitled [TRANSLATION] "Site Rental Proposal Advertising Signs Pattison‑Québec", this total is broken down by site. In addition to the rent, a lump sum of $200,000 was to be paid upon the signing the agreement.
+[3] Mr. Turgeon, the City's procurement coordinator, prepared the call for bids. He says that he expressly excluded the GST and the Quebec sales tax (QST) from the table on which the breakdown of the rental was to be entered. His understanding was that the rental was an exempt supply, and that only rental amounts were to appear in that document. He did not recall who gave him this opinion, but it would appear that Mr. Rodrigue, the City's treasurer, did so before going on vacation. It should also be mentioned that neither the call for bids nor Pattison's proposal make any reference to GST or QST.
+[4] After the City had opened the proposals and chosen an advertising sign firm, Mr. Turgeon asked his secretary to prepare a municipal council resolution to assist the office of the City Clerk. Unfortunately, the template that the secretary used to draft the resolution described the consideration as [TRANSLATION] "including federal and provincial taxes." Obviously, the secretary did not know that the City's rental of sites for posting advertisements was an exempt supply. The evidence in this regard is unclear, but it would appear that another City employee prepared the rental contract, which stated that the City was renting various sites for Pattison advertising signs [TRANSLATION] "for an approximate total amount of $4,229,393, including taxes, in accordance with the bid . . . in the tender book . . . which includes the call for bids, the general specifications, the special specifications, Addendum No. 1 and the schedules included with the said quotation" (Exhibit A‑1, Tab 6, article 1 of the lease agreement). Article 2 of that agreement states that the documents listed in article 1 are attached to the contract and form an integral part thereof once the parties have initialled them.
+[5] Mr. Rodrigue testified that he was away at the time that the resolution and rental agreement were drafted. He learned that the GST and QST were included when he received the first cheque for $200,000, which was to be tendered upon the signing of the agreement. It was apparently indicated on the cheque that these taxes were included. He knew that the rental of the buildings was an exempt supply, but was uncertain about the lump sum paid upon the signing of the rental agreement, so he asked the accounting firm of Raymond, Chabot, Grant, Thornton for an opinion, and obtained confirmation that the supply was indeed exempt.
+[6] Mr. Rodrigue next contacted Mr. Ringuette, Pattison’s chief executive officer, to clarify the situation. Mr. Ringuette stated — as he also did in his testimony — that the agreed rental amount, namely, $4,229,393, consisted solely of rent and did not include any tax. Mr. Ringuette then asked his controller to look into the matter, and she confirmed to Mr. Rodrigue, in a letter dated February 17, 2000 (Exhibit I‑1), that the [TRANSLATION] "tax amounts should not have appeared on the cheques, but should instead have formed part of the total rent for the sites mentioned". The Minister's auditor stated that he considered this letter somewhat ambiguous. As I understand it, the controller confirmed that the amounts shown as taxes should have been considered as rent, and that, in my opinion, is the import of the document. However, Pattison continued to show taxes on the rent cheques subsequently remitted to the City on an annual basis.
+[7] On June 15, 2004, at a meeting concerning a draft assessment by the Minister, Mr. Ringuette reiterated that Pattison's proposal provided for payment of $4,229,393 in rent, and that Pattison should not have shown an amount in respect of taxes on the cheques. He also said that this situation was not subsequently corrected because, in the fall of 2000, Pattison's accounting was transferred to the Toronto office, which took over the accounting for all of Eastern Canada. Even though Mr. Ringuette felt that Pattison‑Toronto should take the necessary measures to rectify the situation, Ms. Ricci, the person in charge of the Toronto office, asked for the opinion of one of her own accountants, who in all likelihood took a look at the agreement and interpreted it literally. Since it was indicated that the amount of $4,229,393 included taxes, the terms of the contract governed. It is interesting to note that Ms. Ricci, in a communication addressed to Mr. Ringuette, stated that Pattison could stop showing taxes on the cheques if it were provided with an exemption certificate. It seems clear that Pattison relied strictly on its accountant's opinion and on the terms of the agreement of August 4, 1999, without considering the intent of the persons who signed it.
+[8] Naturally, on receiving input tax credit (ITC) claims from Pattison, the Minister felt bound to allow them. However, he expected the City to remit the taxes that it had apparently collected from Pattison’s payments. It is entirely understandable that the Minister adopted the same position as Pattison's accountant, that is, reliance on the terms of the agreement, which stipulated that the rent included taxes. In fairness to the position taken by the Minister's auditor, I must add that he did not rely solely on a reading of the rental agreement, but observed that the City had made adjusting entries in 2001 to cancel accounting treatment corresponding to that adopted by Pattison, that is to say that one portion of the cheque was reported as income and another as GST and QST. During his testimony, Mr. Rodrigue noted that an accounting error was made in 2001 because there were new employees, who were not aware of how the amounts received under the agreement had been treated in the past. According to Mr. Rodrigue, it had been agreed with Mr. Ringuette from the start that the rent was not to include GST or QST and that the full amount constituted rent. He said that the City generally accounted for the cheques that it received under the agreement as exclusively constituting rental income. The year 2001 was an exception.
+[9] Another possible justification for the auditor's conduct was that Pattison's cheques showed GST and QST amounts, and that the City cashed these cheques. On the other hand, the City, and Mr. Ringuette, Pattison's CEO when the contract was awarded through the bidding process, were in agreement in confirming that the rent which Pattison remitted to the City did not include any taxes.
+[10] The issue that the Court must decide is this: did Pattison in fact pay an amount of GST as part of the consideration that it paid each year? I am in complete agreement with counsel for the respondent, as are counsel for the City, that if Pattison did in fact pay GST to the City even though the supply was exempt, the City should have remitted the GST to the Minister, because it was the Minister's agent, and the GST belonged to the Minister. Several decisions to this effect were cited, notably: ITA Travel Agency Ltd. v. Canada, [2000] T.C.J. No. 866 (QL), [2001] G.S.T.C. 5 (T.C.C.) and [2002] F.C.J. No. 733 (QL), 2002 G.S.T.C. 58, 2002 G.T.C. 1192 (F.C.A.); and Gastown Actors' Studio Ltd. v. Canada, [2000] F.C.J. No. 2047 (QL), [2000] G.S.T.C. 108 (F.C.A.). In the aforementioned cases, contrary to the case at bar, a tax amount was always shown separately from the amount of the consideration. It was therefore clear that tax had been paid to a supplier, even if it was by mistake.
+[11] The evidence in the case at bar is not as clear. It was stipulated that the consideration included taxes. The question that must be asked is the following: does the agreement, as drafted, properly reflect the parties' intention? In my opinion, the City's appeal must be allowed for the reasons given by counsel for the City, and primarily for the reasons set out in his last two arguments. First of all, the intention of the parties to the agreement was clearly that the amount of $4,229,393 was to consist solely of rent. This understanding was corroborated not only by Mr. Turgeon, the City's procurement coordinator, who was involved in preparing the call for bids, but also by Mr. Ringuette, Pattison’s CEO, who supervised the drafting of the proposal in response to the City's call for bids. Since the amount of $4,229,393 constituted solely rent, none of this amount paid to the City consisted of taxes.
+[12] The evidence showed that the phrase [TRANSLATION] "including taxes" in article 1 of the rental agreement is the result of a clerical error that dates back to the drafting of the resolution and which, unfortunately, no one noticed at the time. That this is the case is confirmed not only by the testimony of the representatives of both parties to the rental agreement, but also by the joint press release that Pattison and the City issued on August 4, 1999 (Exhibit A‑2). The joint press release states that the agreement [TRANSLATION] "will generate a total of $4,429,393 in revenue for the City and its residents over a 15-year period".
+[13] The second argument is based on administrative law applicable to contracts between a public body and its suppliers. It appears that, both in civil law and at common law, a contract must accurately reflect what is stated in the calls for bids and the proposals prepared by the parties. It should also be pointed out that, under articles 1425 to 1428 of the Civil Code of Québec, a contract is not to be interpreted literally. Rather, one must try to determine the common intention of the parties. Here, counsel for the City said that he was surprised at the frankness of the testimony given by Mr. Ringuette, who testified at the request of the respondent (and not the City) and who repeatedly stated that the rental agreed to by Pattison did not include any GST.
+[14] For these reasons, I find that the parties' true intention was that no GST or QST was to be included in the rent paid by Pattison. I find as well that Pattison did not, in fact, remit any tax to the City.[1] Moreover, no GST was collectible because the supply was exempt. Consequently, the City had no obligation to remit GST to the Minister, nor would Pattison have any entitlement to ITCs in respect of the rent that it paid the City. However, since Pattison is not a party to the appeal, it is not bound by this decision.[2]
+[15] The appeals from the assessments made under the Act—one, dated June 18, 2004, for the period from May 1, 2000, to December 31, 2001, and the other, dated July 9, 2004, for the period from January 1, 2002, to December 31, 2003—are allowed, without costs, and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that the City collected no GST on the rent paid pursuant to the agreement of August 4, 1999, and had no GST to remit to the Minister in respect of such rent.
+Signed at Ottawa, Canada, this 4th day of December 2006.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 29th day of February 2008.
+Erich Klein, Revisor
+CITATION: 2006TCC241
+COURT FILE NO.: 2005-1071(GST)G
+STYLE OF CAUSE: Ville de Lévis v. The Queen
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: February 10, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: February 17, 2006
+DATE OF REASONS
+FOR JUDGMENT: December 4, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Michel Dupont
+Counsel for the Respondent:
+Louis Cliche
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Michel Dupont
+Firm: Desjardins Ducharme LLP
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It would certainly have been helpful had the rental agreement been amended to reflect the parties' true intention.
+[2] It would have been advisable for the Minister to request that Pattison be joined as a party to the City's appeal so that Pattison would be bound by this decision.

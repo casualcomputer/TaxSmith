@@ -1,0 +1,155 @@
+---
+title: "Mabel c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22832/index.do"
+last_modified: "2003-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 189"
+citation2: ""
+neutral_citation: "2003 CCI 189"
+decision_date: "2003-04-03"
+language: "fr"
+item_id: "22832"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2338
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:21:25.629000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8ed4206e5ffb9c3ed41224d1477c3074d99ef726f7f4d3cbeac957f35a271360"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mabel c. La Reine
+
+- Citation: 2003 CCI 189
+- Decision date: 2003-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2338, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mabel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-03
+Référence neutre
+2003 CCI 189
+Numéro de dossier
+2002-2983(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑2983(IT)I
+ENTRE :
+MABEL J. NICHOLAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel et requête entendus le 8 janvier 2003 à Nanaimo (Colombie‑Britannique)
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Représentant de l’appelante :
+Benjamin Nicholas
+Avocat de l’intimée :
+Me Michael Taylor
+____________________________________________________________________
+JUGEMENT
+Sur requête de l’intimée pour obtenir une ordonnance annulant le soi‑disant appel interjeté relativement à l’année d’imposition 1997, au motif que l’appelante a omis de déposer un Avis d’opposition valide en vertu du paragraphe 169(1) de la Loi de l’impôt sur le revenu :
+le soi‑disant appel relatif à l’année d’imposition 1997 est annulé par les présentes;
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté, sans dépens, selon les motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique) ce 3e jour d’avril 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2003CCI189
+Date : 20030403
+Dossier : 2002-2983(IT)I
+ENTRE :
+MABEL J. NICHOLAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L’ancien mari de l’appelante est décédé en 1966 lors de l’écrasement d’un avion, alors qu’il travaillait pour le compte de son employeur.
+[2] Pendant une courte période, l’appelante a reçu une rente de « survivant » de la Workers’ Compensation Board of British Columbia (commission des accidents de travail de la Colombie‑Britannique), (la « commission »).
+[3] Après le remariage de l’appelante avec son époux actuel, la rente qui lui était versée par la commission a été discontinuée.
+[4] En 1995 et 1996, la Cour suprême de la Colombie‑Britannique a entendu un appel interjeté par un survivant auquel la commission avait refusé une rente de survivant. Dans cette « autre » affaire, la Cour suprême de la Colombie‑Britannique a statué que le refus de verser une rente de survivant en raison d’un remariage était une pratique discriminatoire qui contrevenait à la Charte canadienne des droits et libertés. Suite à cette décision de la Cour suprême, l’appelante a été informée qu’elle était en droit de recevoir de la commission la fraction impayée de la rente de survivant qui avait été discontinuée en raison de son remariage.
+[5] L’appelante a reçu un paiement forfaitaire de la commission en 1997.
+[6] Le paiement forfaitaire de 129 526 $ a été ajouté au revenu net de l’appelante pour l’année d’imposition 1997, en vertu de l’article 56 de la Loi de l’impôt sur le revenu (la « Loi »).
+[7] Pour calculer son revenu imposable, l’appelante a été autorisée à déduire le paiement forfaitaire de 129 526 $ en vertu de l’article 110 de la Loi.
+[8] Malgré la déduction du paiement forfaitaire de 129 526 $ dans le calcul du revenu imposable de l’appelante, l’ajout initial de ce montant a eu pour effet de réduire les prestations payables à l’appelante en vertu de la Loi sur la sécurité de la vieillesse, ainsi que le crédit d’impôt pour personnes âgées payable à l’appelante en vertu du paragraphe 118(2) de la Loi de l’impôt sur le revenu.
+[9] L’appelante a essayé de déposer un Avis d’appel à l’encontre de l’Avis de nouvelle cotisation émis pour l’année d’imposition 1997.
+[10] Le ministre du Revenu national (le « ministre ») soutient que l’Avis d’appel déposé pour l’année d’imposition 1997 est invalide, parce que l’appelante n’a pas déposé un Avis d’opposition à l’encontre de l’Avis de nouvelle cotisation définitif émis pour l’année d’imposition 1997.
+[11] En 2001, l’appelant a reçu un montant de 12 644,04 $ de la commission.
+[12] Dans sa déclaration de revenus pour l’année d’imposition 2001, l’appelante n’a pas rapporté le montant de 12 644,04 $ versé par la commission.
+[13] Le ministre a émis le 8e jour d’avril 2002 un Avis de cotisation pour l’année d’imposition 2001, dans lequel il a tenu compte de la prestation de 12 644,04 $ versée par la commission pour calculer le revenu net de l’appelante, puis accordé une déduction de 12 644,04 $ pour calculer le revenu imposable de l’appelante.
+B. QUESTIONS EN LITIGE
+1. L’Avis d’appel déposé par l’appelante relativement à l’année d’imposition 1997, est‑il valide?
+2. L’Avis de cotisation délivré pour l’année d’imposition 2001, est‑il conforme?
+C. ANALYSE
+(i) Objet : année d’imposition 1997
+[14] La preuve démontre que le ministre a délivré quatre avis de cotisation ou avis de nouvelle cotisation relativement à l’année d’imposition 1997 de l’appelante. Le dernier avis de nouvelle cotisation pour l’année d’imposition 1997 a été délivré le 5e jour d’octobre 1998. La Loi prévoit que l’appelant qui désire contester une nouvelle cotisation doit déposer un Avis d’opposition dans les 90 jours suivant la date de l’Avis de nouvelle cotisation. En l’espèce, l’appelante aurait dû déposer un Avis d’opposition dans un délai de 90 jours à partir du 5 octobre 1998, soit avant le 3 janvier 1999.
+[15] La Loi prévoit aussi que l’appelante aurait pu demander une prorogation du délai prescrit pour déposer un Avis d’opposition, dans un délai de un an suivant les 90 jours à compter de la date de l’émission de l’Avis de nouvelle cotisation, à savoir : un an plus 90 jours à partir du 5 octobre 1999, soit avant le 3 janvier 2000.
+[16] L’appelante n’a pas déposé d’avis d’opposition à l’encontre de la nouvelle cotisation délivrée pour l’année d’imposition 1997. Elle n’a pas, non plus, demandé de prorogation du délai.
+[17] Le seul document déposé par l’appelante relativement à l’Avis de nouvelle cotisation délivré le 5 octobre 1998 pour l’année d’imposition 1997, a été l’Avis d’appel déposé devant la Cour le 30 juillet 2002.
+[18] L’avocat de l’intimée a demandé, par voie de requête, le rejet de l’Avis d’appel déposé pour l’année d’imposition 1997 au motif que l’appelante n’a pas déposé d’Avis d’opposition dans le délai prescrit par la Loi.
+[19] En raison de la carence de l’appelante à suivre les dispositions pertinentes de la Loi concernant le dépôt d’un Avis d’opposition, la requête de l’intimée est accueillie et l’Avis d’appel soi‑disant interjeté pour l’année d’imposition 1997 est annulé.
+(ii) La validité de l’Avis de cotisation délivré pour l’année d’imposition 2001
+[20] Le représentant de l’appelante a fait valoir que l’exclusion du montant de 12 644,04 $ versé par la commission dans le calcul du revenu de l’appelante devait avoir pour effet de ne pas imposer à l’appelante une réduction de ses prestations en vertu de la Loi sur la sécurité de la vieillesse ni une réduction de son crédit d’impôt pour personnes âgées, dans le cadre de l’année d’imposition 2001.
+[21] L’alinéa 56(1)v) de la Loi prévoit ainsi :
+56. (1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+v) une indemnité reçue en vertu d’une loi sur les accidents du travail du Canada ou d’une province à l’égard d’une blessure, d’une invalidité ou d’un décès;
+[22] Cette disposition impose l’inclusion dans le revenu de l’appelante du paiement de 12 644,04 $ reçu par celle‑ci de la commission.
+[23] Le sous‑alinéa 110(1)f)(ii) de la Loi prévoit ainsi :
+110. (1) Pour le calcul du revenu imposable d’un contribuable pour une année d’imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+[...]
+(ii) une indemnité reçue aux termes d’une loi fédérale ou provinciale sur les accidents du travail pour blessure, invalidité ou décès, [...]
+[24] En bref, toute indemnité reçue en vertu d’une loi fédérale ou provinciale sur les accidents du travail doit être ajoutée dans le calcul du revenu, mais soustraite lors de la distillation du revenu dans le calcul du revenu imposable.
+[25] En l’espèce, il s’agit de deux types d’admissibilité : l’admissibilité aux prestations en vertu de la Loi sur la sécurité de la vieillesse et l’admissibilité au crédit d’impôt pour personnes âgées.
+[26] Les prestations relatives à la sécurité de la vieillesse sont imposées en vertu de la Partie 1.2 de la Loi. Il s’agit d’un impôt sur le revenu de l’individu et non pas sur son revenu imposable. En raison de ces dispositions, l’ajout de l’indemnité reçue de la commission au revenu de l’appelante a pour conséquence la « récupération » des sommes reçues par l’appelante au titre de la Sécurité de la vieillesse.
+[27] Je juge que l’Avis de nouvelle cotisation émis pour l’année 2001 est juste en ce qui concerne les prestations de Sécurité de la vieillesse.
+[28] L’appelante soulève également, en ce qui concerne l’année d’imposition 2001, la question de son droit au crédit d’impôt pour personnes âgées visé au paragraphe 118(2) de la Loi.
+[29] Le paragraphe 118(2) prévoit qu’un particulier qui à atteint l’âge de 65 ans avant la fin de l’année d’imposition (l’appelante a 76 ans) peut demander une fraction appropriée de la somme de 3 236 $ à titre de crédit d’impôt pour personnes âgées.
+[30] Pour juger la qualification du contribuable à recevoir le crédit d’impôt pour personnes âgées, la Loi fait usage du revenu net et non pas du revenu imposable.
+[31] Dans l’arrêt Eric John c. La Reine, C.C.I., no 96‑1990(IT)I, 15 décembre 1997 (98 DTC 1324), mon collègue l’honorable juge Sarchuk a jugé ainsi dans une affaire qui portait sur le champ d’application du paragraphe 118(2), à la page 1327 :
+Le paragraphe 118(2) a de nouveau été modifié par L.C. 1995, ch. 3, par. 33(1), applicable aux années d’imposition 1994 et suivantes de façon à incorporer ce qui constituait en fait la récupération d’une partie du crédit pour personnes âgées. La modification a expressément été édictée de façon à réduire le crédit pour personnes âgées au fur et à mesure que le revenu du contribuable augmente au point où à un certain niveau de revenu, le contribuable n’aurait plus droit au crédit même s’il a 65 ans au cours de l’année d’imposition en cause. Comme l’avocate de l’intimée l’a fait remarquer, en modifiant cette disposition, le législateur se fondait sur le fait que, de toute évidence, ce ne sont pas toutes les personnes qui atteignent l’âge de 65 ans qui ont besoin d’un allégement de l’impôt par ailleurs payable au moyen d’un crédit d’impôt et que l’allégement fiscal ne serait donc accordé que lorsque leur situation financière l’exige. Cela étant, il est raisonnable de calculer le crédit pour personnes âgées sur le revenu total plutôt que sur le revenu imposable.
+À mon avis, l’effet du calcul pourrait sembler être que la pension de source étrangère est assujettie à l’impôt, mais la Loi n’établit pas l’impôt en vertu des dispositions du paragraphe 118(2). Elle ne fait que réaliser la réduction d’un avantage social, à savoir le crédit d’impôt pour personnes âgées, pour les contribuables « qui en ont moins besoin, parce qu’ils ont un revenu plus élevé » […]
+[32] L’Avis de cotisation a eu l’effet de « récupérer » le crédit d’impôt pour personnes âgées demandé par l’appelante. À mon avis, l’Avis de cotisation relatif à l’année d’imposition 2001 est juste sur ce point.
+[33] Je regrette ne pas être en mesure de donner gain de cause à l’appelante. Cependant, il est de ma responsabilité d’interpréter la loi, que je n’ai pas l’autorité de modifier.
+[34] L’appel est rejeté, sans dépens.
+Signé à Vancouver (Colombie‑Britannique) ce 3e jour d’avril 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Ingrid B. Miranda, traductrice

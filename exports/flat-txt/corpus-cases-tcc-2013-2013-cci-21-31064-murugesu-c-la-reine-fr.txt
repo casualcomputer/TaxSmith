@@ -1,0 +1,200 @@
+Title: Murugesu c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31064/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-21-31064-murugesu-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-01-18
+
+# Murugesu c. La Reine
+
+- Citation: 2013 CCI 21
+- Decision date: 2013-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4705, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murugesu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-18
+Référence neutre
+2013 CCI 21
+Numéro de dossier
+2006-3765(IT)G, 2006-3767(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3767(IT)G
+ENTRE :
+THANGAVADIVELU MURUGESU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+de 1480364 Ontario Inc., 2006-3765(IT)G,
+les 2 et 3 février 2012 et le 18 septembre 2012, à Toronto (Ontario).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Osborne G. Barnwell
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2000, 2001 et 2002 est accueilli, avec dépens, conformément aux motifs du jugement ci‑joints. Les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, compte tenu du fait qu’aucune somme ne devrait être incluse dans le calcul du revenu de l’appelant pour l’année d’imposition 2002 en application du paragraphe 15(1) de la Loi.
+Toutes les pénalités imposées en application du paragraphe 163(2) de la Loi seront annulées.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2013.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 28e jour de mars 2013.
+Mario Lagacé, jurilinguiste
+Dossier : 2006-3765(IT)G
+ENTRE :
+1480364 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+de Thangavadivelu Murugesu, 2006-3767(IT)G,
+les 2 et 3 février 2012 et le 18 septembre 2012, à Toronto (Ontario).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Osborne G. Barnwell
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2002 est accueilli, avec dépens, conformément aux motifs du jugement ci‑joints. La nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que l’appelante, quand elle a produit sa déclaration de revenus, a omis d’inclure un revenu de 82 286 $.
+La pénalité imposée en application du paragraphe 163(2) de la Loi sera annulée.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2013.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 28e jour de mars 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013CCI21
+Date : 20130118
+Dossier : 2006-3767(IT)G
+ENTRE :
+THANGAVADIVELU MURUGESU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2006-3765(IT)G
+ET ENTRE :
+1480364 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] Les appelants ont interjeté deux appels distincts. Dans le premier appel, 1480364 Ontario Inc. (la « société ») a interjeté appel d’une nouvelle cotisation établie à son égard pour l’année d’imposition qui s’est terminée le 31 mai 2002 (l’« année d’imposition 2002 »). Dans le second appel, Thangavadivelu Murugesu a interjeté appel de nouvelles cotisations établies à son égard pour les années d’imposition 2000, 2001 et 2002.
+[2] Les deux appels ont été entendus ensemble, sur preuve commune.
+Résumé des faits
+[3] M. Murugesu a quitté le Sri Lanka pour immigrer au Canada en 1990. Il a un niveau de scolarité équivalant à une septième année. Du fait de sa connaissance limitée de l’anglais, il a témoigné par l’intermédiaire d’un interprète. J’ai trouvé qu’il était un témoin digne de foi.
+[4] M. Murugesu a commencé à travailler pour Sargent Farms Ltd. (« Sargent Farms ») au milieu des années quatre‑vingt-dix. Sargent Farms est une entreprise d’élevage de poulets et de lapins. Au début, M. Murugesu travaillait comme ouvrier à la ferme. En 1997, il a commencé à exploiter une entreprise individuelle qui fournissait des travailleurs à Sargent Farms (l’« entreprise de services »). Ces travailleurs effectuaient diverses tâches manuelles liées à l’exploitation de la ferme d’élevage de poulets et de lapins.
+[5] En 2001, il a constitué son entreprise en société et il a transféré les activités de l’entreprise de services à cette société.
+[6] Du fait de sa connaissance limitée de l’anglais, M. Murugesu s’est fié à son comptable (le « premier comptable ») pour préparer et produire ses déclarations de revenus ainsi que les déclarations de revenus de la société. Malheureusement pour M. Murugesu, il a choisi le mauvais comptable.
+[7] Dans les déclarations de revenus qui ont été produites pour M. Murugesu pour les années d’imposition 2000 et 2001, des honoraires de gestion de 38 000 $ et de 15 750 $ respectivement ont été déduits du revenu.
+[8] Quand il a établi de nouvelles cotisations à l’égard de M. Murugesu pour les années d’imposition 2000 et 2001, le ministre du Revenu national (le « ministre ») a refusé les déductions demandées au titre des honoraires de gestion et a imposé des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi ») de 3 612,15 $ et de 1 472,85 $ respectivement pour ces années.
+[9] M. Murugesu admet qu’il n’a pas engagé d’honoraires de gestion. Toutefois, il ne croit pas que des pénalités pour faute lourde devraient lui être imposées. Il a déclaré qu’il ne savait pas que le premier comptable avait demandé une déduction au titre d’honoraires de gestion dans ses déclarations de revenus.
+[10] Le premier comptable a déclaré un revenu brut de 458 385 $ dans les états financiers de la société pour l’année d’imposition qui s’est terminée le 31 mai 2002 (sa première année d’imposition). Toutefois, il a déclaré un revenu brut s’élevant à seulement 285 588 $ dans la déclaration de revenus de la société pour l’année d’imposition 2002. Le ministre a établi une cotisation à l’égard de la société pour un revenu non déclaré de 171 142 $, soit la différence entre le montant qu’il estimait être le revenu brut de la société (458 558 $) et la somme de 285 588 $ qui apparaissait dans la déclaration de revenus de la société. Il a également imposé à la société une pénalité pour faute lourde de 11 227 $.
+[11] M. Murugesu ne sait pas pourquoi son comptable a omis d’inclure certains montants dans le calcul du revenu brut de la société. Il accepte le fait que, dans sa déclaration de revenus, la société a omis d’inclure 171 142 $ dans le calcul de son revenu brut; toutefois, il prétend que le premier comptable a par ailleurs omis de déclarer une grande partie des charges salariales de la société. Par conséquent, le revenu non déclaré est considérablement inférieur à 171 142 $. M. Murugesu soutient également que la société ne devrait pas se voir imposer une pénalité pour faute lourde.
+[12] Le ministre a établi une cotisation à l’égard de M. Murugesu personnellement relativement au prétendu revenu non déclaré de 171 142 $. Il a inclus la somme de 171 142 $ dans le revenu imposable de M. Murugesu à titre d’avantage conféré à l’actionnaire, en application du paragraphe 15(1) de la Loi, et il a imposé à celui‑ci une pénalité pour faute lourde de 22 560 $.
+[13] M. Murugesu soutient qu’il n’a pas reçu d’avantage à l’actionnaire au sens du paragraphe 15(1) de la Loi en 2002 et que, quoi qu’il en soit, il ne devrait pas se voir imposer une pénalité pour faute lourde.
+L’année d’imposition 2002 de la société
+[14] Pour commencer, j’examinerai l’appel interjeté par la société à l’égard de l’année d’imposition 2002. La seule question dont la Cour est saisie est de savoir si la société a supporté des charges salariales supérieures aux 301 305 $ qui ont été déclarés dans sa déclaration de revenus pour 2002.
+[15] La société a établi le montant de ses charges salariales en se fondant sur ses propres informations internes ainsi que sur les informations communiquées par Sargent Farms.
+[16] Sargent Farms tenait des fiches de présence pour chacun des travailleurs fournis par la société. Sargent Farms et la société avaient convenu d’un taux horaire auquel Sargent Farms paierait la société pour chacune des tâches effectuées par les travailleurs que cette dernière fournissait à Sargent Farms. Elles ont calculé ce taux horaire à partir d’un taux de salaire standard pour une tâche particulière, taux qu’elles majoraient ensuite. Cette majoration était de 18 % avant septembre 2001 et de 15 % par la suite.
+[17] Sargent Farms, en se fondant sur les fiches de présence et les taux horaires, produisait des fiches récapitulatives hebdomadaires sur lesquelles elle consignait le nombre d’heures total que les travailleurs fournis par la société avaient consacrées à chaque tâche et le taux horaire dont il avait été convenu pour la tâche en question. Sargent Farms fournissait ensuite à la société une copie de ces fiches récapitulatives ainsi que des copies des fiches de présence des travailleurs.
+[18] La société se servait des fiches récapitulatives pour établir ses factures pour les services qu’elle fournissait à Sargent Farms.
+[19] La société se servait des copies des fiches de présence pour calculer le salaire de ses travailleurs. Il ressort clairement de la preuve dont je dispose que les taux horaires sur lesquels la société s’est fondée pour calculer le salaire de ses employés étaient inférieurs aux taux horaires dont elle s’est servie pour calculer les frais qu’elle facturait à Sargent Farms.
+[20] M. Murugesu a déclaré que les majorations de 18 % et de 15 % ne suffisaient pas pour couvrir les dépenses de la société. Par conséquent, la société a dû réduire le salaire horaire qu’elle versait à ses travailleurs.
+[21] M. Murugesu a affirmé que certains travailleurs souhaitaient être payés en argent comptant, sans retenues au titre du Régime de pensions du Canada, de l’assurance-emploi ou de l’impôt sur le revenu. Dans les faits, cela obligeait la société à tenir deux listes de paie, une liste pour les salaires versés en argent comptant et une liste « régulière ». Quand la société recevait des copies des fiches de présence établies par Sargent Farms, M. Murugesu (ou son épouse) précisait sur la fiche si l’employé devait être payé en argent comptant (sans retenues) ou s’il devait être inscrit sur la liste de paie régulière (et faire l’objet de retenues).
+[22] Si la société payait le travailleur en argent comptant, M. Murugesu (ou son épouse) écrivait la mention [traduction] « paiement comptant » et inscrivait le salaire horaire du travailleur sur la fiche de présence.
+[23] J’ai passé en revue les nombreuses fiches de présence des travailleurs payés en argent comptant qui ont été produites sous la cote A-1. Je conviens avec l’avocat de l’intimée que les salaires horaires dont il est fait état sur les fiches de présence sont inférieurs à ceux qui ont été utilisés pour calculer les frais de la société. Cela confirme le témoignage de M. Murugesu. En outre, je suis d’avis que cela montre que la société n’a pas essayé d’exagérer le montant des salaires qu’elle versait en argent comptant à certains de ses travailleurs.
+[24] La société a produit la pièce A-3 afin d’appuyer les déclarations de M. Murugesu selon lesquelles le premier comptable de la société avait omis de déclarer une partie des charges salariales de la société en 2002. Il s’agit d’un tableau préparé par Sargent Farms qui fait état, sur une base hebdomadaire, des sommes que Sargent Farms a payées à la société pour ses services ainsi que des sommes en argent comptant que la société a payées.
+[25] La société dressait pour Sargent Farms la liste des travailleurs payés en argent comptant et y précisait le salaire horaire de ceux‑ci. Sargent Farms s’est servie de ces informations, en plus des renseignements contenus sur les fiches de présence des travailleurs concernés, pour calculer les salaires en argent comptant que la société a versés à ses travailleurs pendant son année d’imposition 2002.
+[26] Le tableau fait état de salaires en argent comptant totalisant 148 773 $. J’accepte ce tableau comme constituant la preuve la plus fiable dont je dispose au sujet des salaires en argent comptant que la société a payés pendant son année d’imposition 2002.
+[27] La pièce R-12 fournit le détail de la somme de 301 305 $ que le premier comptable a déclarée à titre de charges salariales dans la déclaration de revenus de la société pour 2002. On peut voir que, sur ces 301 305 $, la somme de 59 917 $ correspondait à des salaires payés en argent comptant. Par conséquent, j’ai conclu que la société a omis de déclarer 88 856 $ au titre des salaires dans sa déclaration de revenus pour 2002. Il s’agit de la différence entre le montant réel des salaires payés en argent comptant, soit 148 773 $, et le montant déclaré par le premier comptable, soit 59 917 $.
+[28] Pour résumer, la société a omis de déclarer un revenu de 82 286 $ pour 2002, soit la différence entre son revenu brut non déclaré de 171 142 $ et les 88 856 $ qu’elle a omis de déclarer au titre des salaires qu’elle a payés en argent comptant.
+L’année d’imposition 2002 de M. Murugesu
+[29] Comme je l’ai susmentionné, le ministre a tenu pour acquis que M. Murugesu s’était approprié tout le revenu non déclaré de la société. Par conséquent, il a inclus le montant de ce revenu non déclaré dans le revenu de M. Murugesu, en application du paragraphe 15(1) de la Loi, en tenant pour acquis que la société avait conféré un avantage à M. Murugesu.
+[30] M. Murugesu a déclaré qu’il ne s’était pas approprié de fonds de la société. Il a reconnu que la société lui avait versé des sommes; toutefois, il a affirmé avoir informé le premier comptable de tous les retraits d’argent qu’il avait effectués.
+[31] Une partie importante de l’argent comptant qui a été versé à M. Murugesu a été déclarée comme un revenu d’emploi. La société a délivré des feuillets T4 à M. Murugesu, lesquels faisaient état d’un revenu d’emploi de 59 829 $ en 2001 et en 2002 (pièces R-9 et R‑11).
+[32] M. Murugesu a déclaré que la société avait également versé de l’argent à son épouse. Il n’y a là rien d’étonnant étant donné que cette dernière fournissait des services à la société. Le montant du revenu imposable de l’épouse de M. Murugesu pour 2001 et 2002 n’a pas été communiqué à la Cour.
+[33] Mme Natalie Moore a témoigné pour le compte de l’intimée. Elle est agente d’enquêtes auprès de l’ARC.
+[34] Elle a déclaré que la division de la vérification de l’ARC lui avait communiqué le dossier de M. Murugesu. L’ARC a décidé de ne pas intenter de poursuites au criminel. Toutefois, Mme Moore est demeurée responsable du dossier de M. Murugesu et elle a établi les cotisations en cause pour le compte du ministre.
+[35] Lorsqu’elle a témoigné, Mme Moore a précisé qu’elle n’avait pas parlé à M. Murugesu avant d’établir les cotisations.
+[36] Mme Moore a établi un tableau pour la période allant du 23 juillet 2001 au 13 septembre 2002, lequel fait état de retraits totalisant 193 772 $ effectués sur le compte en banque de la société (pièce R-16). Dans ce tableau, les retraits ont été divisés en trois catégories : les paiements au constructeur du condominium de M. Murugesu, les paiements à M. Murugesu et à sa famille et les retraits d’argent comptant. Les retraits d’argent comptant, qui totalisent 113 170 $, constituent la plus grande partie des retraits répertoriés dans le tableau.
+[37] Mme Moore a déclaré qu’elle n’avait pas analysé les retraits d’argent comptant. Elle ne savait pas que la société payait certains de ses employés en argent comptant. En outre, son tableau fait état de retraits totalisant quelque 59 000 $, que la société a effectués après la fin de son année d’imposition 2002.
+[38] Je ne trouve pas ce tableau particulièrement utile. Il n’appuie certainement pas la conclusion selon laquelle M. Murugesu s’est approprié le revenu de 82 286 $ que la société a omis de déclarer dans sa déclaration de revenus.
+[39] Les retraits que Mme Moore a répertoriés semblent correspondre au salaire payé à M. Murugesu (52 182 $), au salaire que la société a versé à l’épouse de celui‑ci, quel qu’en soit le montant, et à une partie des 148 773 $ correspondant aux salaires que la société versait en argent comptant à ses travailleurs.
+[40] Je suis d’avis que la preuve objective dont je dispose appuie les déclarations de M. Murugesu selon lesquelles il ne s’est pas approprié d’argent de la société.
+Les pénalités pour faute lourde
+[41] Le ministre a imposé des pénalités pour faute lourde à M. Murugesu à l’égard des années d’imposition 2000, 2001 et 2002. Le ministre a également imposé des pénalités pour faute lourde de 11 227 $ à la société à l’égard de l’année d’imposition 2002.
+[42] Vu que j’ai conclu que M. Murugesu n’avait pas reçu d’avantage à titre d’actionnaire en 2002, la pénalité qui lui a été imposée à l’égard de l’année d’imposition 2002 sera annulée.
+[43] Le paragraphe 163(2) est ainsi rédigé :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […]
+[Non souligné dans l’original.]
+[44] En application du paragraphe 163(3) de la Loi, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[45] Comme le juge Strayer l’a déclaré dans la décision Venne v. The Queen, [1984] C.T.C. 223 (C.F. 1re inst.), à la page 234 :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[46] Mme Moore a déclaré qu’elle avait pris la décision d’imposer des pénalités pour faute lourde. Elle a affirmé avoir fondé sa décision sur l’importance des montants non déclarés, sur le fait que M. Murugesu et la société avaient effectué des retraits en argent comptant et sur le fait que M. Murugesu s’était servi d’une partie de cet argent pour acheter un nouveau condominium. Elle a aussi fait référence à une [traduction] « analyse sommaire des sources et de l’utilisation des fonds ». Cependant, l’intimée n’a pas fourni cette analyse à la Cour.
+[47] Mme Moore a déclaré qu’elle ne s’était jamais entretenue avec M. Murugesu ou avec un employé de la société. En dépit du fait que Sargent Farms lui avait fourni les fiches de présence des employés, elle ne savait pas que la société avait payé certains de ses employés en argent comptant.
+[48] Après avoir examiné l’ensemble du témoignage de Mme Moore, il m’apparaît que sa décision d’imposer des pénalités pour faute lourde reposait sur l’importance du revenu non déclaré. Je suis d’avis qu’il ne s’agit pas d’un fait qui justifie, en soi, l’imposition de pénalités pour faute lourde.
+[49] M. Murugesu a affirmé que, du fait de sa connaissance limitée de l’anglais et du système fiscal canadien, il s’est fié au premier comptable pour la préparation et la production adéquates de ses déclarations de revenus. Il ne se doutait pas du fait que les déclarations de revenus que le premier comptable avait produites étaient incorrectes.
+[50] Quand un agent de l’ARC s’est rendu chez lui pour discuter des problèmes relatifs à ses déclarations de revenus, il a immédiatement congédié le premier comptable et en a engagé un nouveau.
+[51] L’avocat de l’intimée n’a produit aucun élément de preuve, que ce soit par l’intermédiaire de Mme Moore ou lors du contre‑interrogatoire de M. Murugesu, susceptible de miner la crédibilité de ce dernier. Comme je l’ai déjà mentionné, j’ai trouvé que M. Murugesu était un témoin digne de foi.
+[52] Je remarque que la société a déposé tous ses revenus dans son compte en banque et les a déclarés dans ses états financiers. La société n’a en aucune manière essayé de dissimuler son revenu.
+[53] Il ressort de la preuve dont je dispose que le premier comptable a fait preuve de négligence quand il a préparé la déclaration de revenus des particuliers de M. Murugesu ainsi que la déclaration de la société pour l’année d’imposition 2002. Toutefois, je crois que ni la société ni M. Murugesu n’ont commis de faute lourde.
+[54] M. Murugesu a travaillé extrêmement dur pour mettre son entreprise sur pied. Toutefois, il n’est pas un homme d’affaires chevronné. Du fait de sa connaissance limitée de l’anglais et du système fiscal canadien, M. Murugesu n’a pas eu d’autre choix que de se fier à son comptable. Il a fait ce que toute personne raisonnable aurait fait dans sa situation : il a choisi un comptable que lui recommandaient des membres de sa communauté et avec lequel il pouvait communiquer dans sa langue maternelle. J’accepte son témoignage selon lequel il ne savait pas que le premier comptable n’avait pas déclaré l’ensemble de son revenu et de celui de la société.
+[55] Pour les motifs susmentionnés, j’ai conclu que le ministre n’a pas prouvé l’existence de faits justifiant l’imposition des pénalités pour faute lourde prévues par le paragraphe 163(2) de la Loi, tant à M. Murugesu qu’à la société. En outre, compte tenu de la preuve dont je dispose, j’ai conclu que M. Murugesu a pris raisonnablement soin de s’assurer que ses déclarations de revenus des particuliers ainsi que les déclarations de revenus de la société étaient produites correctement.
+[56] Par conséquent, l’appel interjeté par la société à l’égard de son année d’imposition 2002 est accueilli, avec dépens. Les nouvelles cotisations sont déférées au ministre pour nouvel examen et nouvelle cotisation, compte tenu du fait que la société, quand elle a produit sa déclaration de revenus, a omis de déclarer un revenu de 82 286 $. La pénalité pour faute lourde imposée en application du paragraphe 163(2) sera annulée.
+[57] L’appel interjeté par M. Murugesu à l’égard de ses années d’imposition 2000, 2001 et 2002 est accueilli, avec dépens. Les nouvelles cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations, compte tenu du fait qu’aucun montant ne devrait être inclus dans son revenu pour l’année d’imposition 2002 en application du paragraphe 15(1) de la Loi. Toutes les pénalités imposées en application du paragraphe 163(2) de la Loi seront annulées.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2013.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 28e jour de mars 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 21
+NOS DES DOSSIERS DE LA COUR : 2006-3767(IT)G; 2006-3765(IT)G
+INTITULÉS : Thangavadivelu Murugesu c. Sa Majesté la Reine
+1480364 Ontario Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 2 et 3 février 2012 et
+le 18 septembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT : Le 18 janvier 2013
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Osborne G. Barnwell
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Osborne G. Barnwell
+Avocat
+Cabinet : 245, boul. Yorkland, bureau 202
+Toronto (Ontario) M2J 4W9
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

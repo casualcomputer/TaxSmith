@@ -1,0 +1,307 @@
+---
+title: "Goldman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/493426/index.do"
+last_modified: "2021-02-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 13"
+citation2: ""
+neutral_citation: "2021 TCC 13"
+decision_date: "2021-02-25"
+language: "en"
+item_id: "493426"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4611
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:23:23.997000+00:00"
+cases_cited_count: 23
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f4b428c138c7e6842db1d6973de426d2094833d191ac265ce3b87c0ea05f658b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Goldman v. The Queen
+
+- Citation: 2021 TCC 13
+- Decision date: 2021-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4611, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goldman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-02-25
+Neutral citation
+2021 TCC 13
+File numbers
+2016-4417(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4417(IT)G
+BETWEEN:
+ADINA GOLDMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 30 and October 1, 2020,
+at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Richard K. Watson
+Counsel for the Respondent:
+Emmanuel Jilwan
+JUDGMENT
+In accordance with the attached reasons for judgment;
+The appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was liable under subsection 160(1) for only $23,599; and
+The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the parties shall have a further 30 days to serve and file written submissions on costs and the parties shall have yet a further 10 days to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, the parties shall bear their own costs.
+Signed at Ottawa, Canada, this 25th day of February 2021.
+“David E. Graham”
+Graham J.
+Citation: 2021 TCC 13
+Date: 20210225
+Docket: 2016-4417(IT)G
+BETWEEN:
+ADINA GOLDMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] The Minister of National Revenue assessed the Appellant, Adina Goldman, under subsection 160(1) of the Income Tax Act in respect of funds that she received from her mother’s RRSP on her mother’s death. The Appellant has appealed that assessment.
+[2] The Appellant submits that subsection 160(1) breaches section 7 of the Canadian Charter of Rights and Freedoms (the “Charter”). She also argues that she is not liable under subsection 160(1). Her subsection 160(1) arguments raise important issues involving the application of subsection 160(1) to trusts. I will address the Charter issue first.
+A. Section 7 of the Charter
+[3] Section 7 of the Charter provides that “[e]veryone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.” The Appellant submits that subsection 160(1) violates section 7 and should thus either be struck down or, in the alternative, read down in a manner that prevents such violations.
+[4] In order to demonstrate a violation of section 7, a claimant must demonstrate both that there has been or could be a deprivation of the right to life, liberty and security of the person and that the deprivation was not or would not be in accordance with the principles of fundamental justice. [1]
+(i) Life, liberty and security of the person
+[5] The Federal Court of Appeal has consistently held that an assessment under the Income Tax Act cannot result in a deprivation of life, liberty or security of the person. [2] As Justice Sharlow stated in Gratl v. The Queen, “an income tax assessment is a civil matter involving only economic interests. It does not deprive the assessed person of life, liberty or security of the person within the meaning of section 7 of the Charter”. [3]
+[6] The Appellant submits that “the right to receive and enjoy gifts from relatives freely is fundamental and necessary to human existence, and for most people in Canada is essential to their livelihood”. She says that subsection 160(1) threatens the right to liberty and the security of the person by interfering with “the child-parent relationship”. She argues that the subsection violates “the right to receive and enjoy gifts without the uncertainty of government action and financial costs against them” and “the right of people to know their economic situation and to be able to plan their economic lives”. [4]
+[7] The concerns the Appellant raises are economic concerns. The Appellant has woven the language used by justices of the Supreme Court of Canada to define section 7 rights into her arguments. Looking at the context in which those justices used that language highlights the true economic nature of the Appellant’s concerns. When Justice La Forest spoke of the right to liberty in terms of the ability to make decisions on fundamental matters in the parent-child relationship, he was referring to matters such as medical care for a child, [5] not whether to buy a child a car for his or her sixteenth birthday. When he spoke of the right to liberty in terms of autonomy in matters so “fundamentally or inherently personal such that, by their very nature, they implicate basic choices going to the core of what it means to enjoy individual dignity and independence”, he was referring to matters such as choosing what town to live in, [6] not choosing whether to give a child a down payment to buy his or her own house. When Justice Lamer spoke of the right to security of the person in terms of the state’s intrusion into the “private and intimate sphere” of the parent-child relationship, he was referring to matters such as the state taking custody of a child away from the parent, [7] not to a parent’s concern that paying for a child’s university education may saddle the child with liability under subsection 160(1).
+[8] While the range of state actions caught by section 7 is evolving and is by no means restricted to specific areas of the law, the Appellant has not demonstrated any means by which subsection 160(1) could violate the right to life, liberty or security of the person. Accordingly, her challenge to the subsection must fail.
+(ii) Principles of fundamental justice
+[9] The Appellant submits that subsection 160(1) is not in accordance with the principles of fundamental justice as it is overbroad, vague and arbitrary. She describes many specific problems with this harsh provision. In particular, she points to the fact that it is an absolute liability provision that may be raised at any time.
+[10] With respect, the Appellant has performed her analysis backwards. She has looked at the many ways that she believes subsection 160(1) violates the principles of fundamental justice and concluded that, in light of these numerous breaches, there must be some sort of violation of the right to liberty and security of the person. That is not how a section 7 analysis works. It is only after a violation of the right to life, liberty and security of the person is found that one can consider whether the violation was in accordance with the principles of fundamental justice. [8] Since the Appellant was unable to point me to an example of a situation where subsection 160(1) would violate something more than the economic interests of the recipient of a gift, there is no need for me to consider whether the subsection is in accordance with the principles of fundamental justice.
+(iii) Conclusion
+[11] Subsection 160(1) has been described as a draconian provision. [9] While there are arguments in favour of Parliament amending subsection 160(1) to make it fairer, the issue before me is not whether the law could or should be better. That is a question for Parliament. The issue is whether subsection 160(1) violates an individual’s rights to life, liberty and security of the person. The Appellant has not demonstrated that it does.
+[12] Accordingly, I will now consider whether the Appellant was liable under subsection 160(1).
+B. Liability Under Subsection 160(1)
+[13] There are four key criteria that must be present in order for subsection 160(1) to apply:
+(a) there must be a transfer of property either directly or indirectly, by means of a trust or by any other means whatever;
+(b) the transfer must have been made by a person who owed an amount under the Act in or in respect of the year in which the property was transferred or any preceding tax year;
+(c) the transfer must have been made to a non-arm’s length person; and
+(d) the transfer must have been made for less than fair market value consideration.
+[14] If these criteria are met, then the transferee is liable to pay an amount equal to the lesser of the amount owing to the Minister by the transferor and the shortfall in the consideration.
+C. The Transfers in Issue
+[15] Before I can apply the subsection 160(1) criteria, I first need to determine the transfer or transfers to which they must be applied.
+[16] In February 2010, the Appellant’s mother, Judith Goldman, learned that she had only months left to live. Judith Goldman took steps to arrange her financial affairs. She executed a codicil to her will appointing the Appellant as the executor of her estate. She also designated the Appellant as the beneficiary of her RRSP.
+[17] Judith Goldman had three daughters, the Appellant and her two sisters. Judith Goldman’s only significant asset was her RRSP. She told the Appellant that she was making the Appellant the designated beneficiary of the RRSP on the explicit understanding that the Appellant would use the proceeds of the RRSP to pay her funeral expenses, pay the costs of administering her estate, pay her final bills, reimburse the travel costs of her other daughters and their families for travelling to Toronto to visit her and attend her funeral, and divide any remaining funds among the Appellant and her sisters.
+[18] Following her mother’s death, the Appellant received $76,616 in net proceeds from the RRSP (the “RRSP Proceeds”). She distributed the RRSP Proceeds in accordance with her mother’s wishes.
+[19] The Minister assessed the Appellant in respect of the transfer of the RRSP Proceeds to the Appellant. The Appellant submits that there were a number of different transfers. She says that the RRSP Proceeds were first transferred to her in trust and then distributed from that trust to various beneficiaries, including her. For the reasons set out below, I agree with the Appellant.
+[20] I find that there are five distinct transfers of property that I must consider:
+(a) the transfer of the RRSP Proceeds from the Judith Goldman to the Appellant in trust;
+(b) the distribution of part of the residue of that trust to the Appellant;
+(c) the payment of executor fees to the Appellant from that trust;
+(d) the unexplained distribution of certain amounts from that trust; and
+(e) the payment of the Appellant’s legal fees from that trust.
+[21] I will examine each of these transfers individually to see if the four subsection 160(1) criteria are satisfied.
+D. Transfer from Judith Goldman to a Trust
+[22] I will first consider whether the subsection 160(1) criteria are satisfied in respect of the transfer of the RRSP Proceeds from Judith Goldman to the Appellant.
+(i) Transfer of property
+[23] There is no question that the RRSP Proceeds were transferred to the Appellant. The question remains, however, whether the Appellant received the RRSP Proceeds personally or as a trustee. In other words, did she receive both legal title to and beneficial interest in the RRSP Proceeds or only the legal title? The Appellant submits that she was a trustee of the RRSP Proceeds. She argues that her mother arranged for her to receive the money subject to the trust condition that she distribute it in accordance with her mother’s wishes. I agree.
+[24] I will first set out why I find that the Appellant held the RRSP Proceeds in trust. Then I will discuss how subsection 160(1) applies to a transfer of property to a trust.
+Three certainties
+[25] For a trust to be created, there must be certainty of subject, certainty of object and certainty of intention. In Yu v. The Queen, the Federal Court of Appeal described these three certainties in the context of a subsection 160(1) assessment as follows: [10]
+. . . The requirements to have a valid trust are set out in Waters’ Law of Trusts in Canada, 4th ed., (Toronto, Ontario: Carswell, 2012), by Waters, Gillen & Smith, at page 140:
+For a trust to come into existence, it must have three essential characteristics. As Lord Langdale M.R. remarked in Knight v. Knight, in words adopted by Barker J. in Renehan v. Malone and considered fundamental in common law Canada, (1) the language of the alleged settlor must be imperative; (2) the subject-matter or trust property must be certain, (3) the objects of the trust must be certain. This means that the alleged settlor, whether he is giving the property on the terms of a trust or is transferring property on trust in exchange for consideration, must employ language which clearly shows his intention that the recipient should hold on trust. No trust exists if the recipient is to take absolutely, but he is merely put under a moral obligation as to what is to be done with the property. If such imperative language exists, it must, second, be shown that the settlor has so clearly described the property which is to be subject to the trust that it can be definitively ascertained. Third, the objects of the trust must be equally and clearly delineated. There must be no uncertainty as to whether a person is, in fact, a beneficiary. If any one of these three certainties does not exist, the trust fails to come into existence or, to put it differently, is void.
+[Footnote references omitted in the original.]
+[26] For the reasons set out below, I find that the three certainties were present in the Appellant’s case.
+Certainty of subject
+[27] I find that there was certainty of subject. The RRSP Proceeds were the subject of the trust. No other amounts were part of the trust.
+Certainty of object
+[28] I find that there was certainty of object. The beneficiaries of the trust were the Appellant, her sisters, the class of people (other than the Minister) to whom Judith Goldman owed money on her death and the class of people with whom Judith Goldman’s estate contracted in respect of her testamentary and funeral expenses.
+[29] The Respondent submits that certainty of object was lacking because the Appellant had discretion over the use of the funds. For example, the Appellant was instructed to use the funds to pay for expenses relating to her mother’s funeral but was not specifically told how much to spend on catering or what type of headstone to purchase. Similarly, the Appellant was instructed to use the funds to pay for expenses relating to her mother’s estate but was not specifically told how much to pay an accountant to prepare her mother’s date of death tax return.
+[30] The discretion that the Appellant had in her role as trustee does not negate the certainty of object. Giving a trustee discretion to choose what amounts to distribute to a defined class of potential beneficiaries simply makes the trust a discretionary trust. In any event, the discretionary decisions that the Respondent is concerned about were not decisions that the Appellant made in her role as trustee. She made those decisions in her role as executor of her mother’s estate. Then, in her role as trustee of the RRSP Proceeds, she complied with the trust conditions imposed upon her to pay the testamentary and funeral expenses incurred by the estate.
+[31] The Respondent similarly complains that, in her view, the Appellant chose to exercise her discretion in a manner that made money available for certain expenses instead of paying the CRA. It is inaccurate to say that the Appellant chose not to pay the CRA. The Appellant received the RRSP Proceeds to hold for the benefit of certain beneficiaries. The CRA was not one of those beneficiaries. However, that does not cause the trust to fail for certainty of object. The fact that the Minister dislikes the terms of a trust is not enough to declare it void.
+Certainty of intention
+[32] Finally, I find that there was certainty of intention. Judith Goldman resided in Ontario. In Ontario, there is no requirement that a trust (other than a trust in respect of land) be in writing to be effective. [11] A trust can be found to exist even when the settlor does not use the word “trust” when creating it. [12] As set out in Oosterhoff on Trusts, “Certainty of Intention is a question of construction. That intention may be express or implied, it may arise from words or acts. Technical language need not be used. A settlor may create a trust without using the word ‘trust’ and, indeed, without fully understanding the concept of trusteeship. A court need merely be satisfied that the person possessed of the property is obliged to hold it for another’s benefit.” [13]
+[33] There was no evidence to suggest that Judith Goldman intended the funds to belong to the Appellant personally. The Appellant testified that she received the RRSP Proceeds on the condition that she distribute them in a specific manner. The Appellant explained that her sisters were aware of those instructions. The Respondent was unable to point to any basis upon which I could find that the Appellant’s testimony was not credible.
+[34] As between family members, there is always the possibility that funds are transferred subject to a moral obligation to deal with them in a certain manner rather than a formal trust. As set out by the Federal Court of Appeal in Yu, a moral obligation is insufficient to establish the existence of a trust.
+[35] I find that the obligation that Judith Goldman imposed on the Appellant was more than a moral obligation. In reaching this conclusion I place particular emphasis on Judith Goldman’s will. As set out above, at the same time that Judith Goldman designated the Appellant as the beneficiary of her RRSP, she also executed a codicil to her will appointing the Appellant the executor and trustee of her estate. The Appellant’s responsibilities as executor and trustee of Judith Goldman’s estate clearly involved more than a moral obligation. The fact that Judith Goldman appointed the Appellant the executor and trustee of her estate at the same time that she designated the Appellant as the beneficiary of the RRSP Proceeds suggests that she intended the Appellant to perform a similar role in respect of those funds and thus intended to impose similar legal, rather than moral, obligations on her.
+[36] The conclusion that Judith Goldman intended to impose a legal rather than moral obligation on the Appellant is further supported by the fact that the terms of Judith Goldman’s will closely resemble the instructions that she gave to the Appellant for the RRSP Proceeds. Under both the will and her mother’s instructions, the Appellant was to pay her mother’s funeral expenses, pay her debts, pay the expenses of her estate and distribute the residue equally among the Appellant and her sisters. There were only two noticeable differences between the will and Judith Goldman’s instructions to the Appellant. The first difference was that the will did not contain provisions for the reimbursement of the travel expenses of the Appellant’s sisters. Nothing turns on this. The second difference was that, while Judith Goldman’s will instructed the Appellant to pay all of her debts, Judith Goldman did not include her tax debts in the amounts that the Appellant was to pay out of the RRSP Proceeds.
+[37] The Respondent argues that an intention to avoid paying the CRA is inconsistent with the intention to create a trust. I disagree. While the absence of instructions to pay the CRA may suggest that Judith Goldman was attempting to avoid paying her tax debts, it does not mean that she did not intend to create a trust.
+[38] A number of subsection 160(1) cases emphasize the fact that the tax debtor intended to avoid his or her obligations to the CRA. This may, at first, seem odd as the Federal Court of Appeal has been consistently clear that intention is irrelevant to a finding of liability under subsection 160(1). [14] Counsel for the Appellant remarked how strange it was that in The Queen v. Livingston [15] the Federal Court of Appeal both stated that intention was irrelevant and that it was an important factor. In my view, this apparent dichotomy makes sense when viewed appropriately.
+[39] The Federal Court of Appeal explains the role of intention best in Raphael v. The Queen. [16] Intention is not a necessary element for subsection 160(1) to apply. The subsection can apply whether a tax debtor intended to defeat his or her creditors or not. However, an intention to defeat one’s creditors may be inconsistent with the intention to create a trust. For example, if, with the intention of defeating his creditors, a husband gives funds to his wife on the understanding that she will return those funds to him, he cannot have intended to create a trust for the benefit of himself. Such a trust would not defeat his creditors. He would retain beneficial interest in the funds and his creditors could seize them. As a result, he must have intended something else. He must have intended to give both the legal title to and beneficial interest in the funds to his wife, believing that, because of their relationship, she would have a moral obligation to give the funds back to him if he asked. That is not an intention to create a trust. It is simply an intention to make a gift in an attempt to try to hide assets.
+[40] This same reasoning was applied by the trial judge in Livingston. [17] In that case, a tax debtor deposited funds to an account in Ms. Livingston’s name. Ms. Livingston argued that she held the deposits in trust for the tax debtor. At trial, Justice Beaubier found that the tax debtor had intended to put the funds beyond the reach of her creditors. Accordingly, he concluded that no trust could have existed. This conclusion is entirely consistent with the Federal Court of Appeal’s conclusion in Raphael. The conclusion was not disturbed on appeal. [18]
+[41] The Federal Court of Appeal continued to follow the same reasoning after Livingston. In The Queen v. Rose, the Court once again found that an intention to defeat one’s creditors is inconsistent with the intention to retain beneficial interest in one’s property and therefore inconsistent with the existence of a trust. [19]
+[42] The Federal Court of Appeal recently summarized the role of intention in Eyeball Networks Inc. v. The Queen. The Court specifically referred to Livingston and reiterated that “[t]he law is clear that an intent to avoid the payment of outstanding taxes is not a prerequisite for the application of subsection 160(1), but an improper motive, if present, can inform the way in which the Court views the transactions and assesses their impact”. [20]
+[43] Any intention that Judith Goldman had to avoid paying her taxes does not impact the existence of the trust she wanted to create. Judith Goldman’s situation can be distinguished from those in Raphael, Livingston and Rose. In those cases, the tax debtors claimed both to intend to defeat their creditors and to intend to maintain beneficial interest in the property in question. Faced with these conflicting intentions, the courts held that no trusts existed. These conflicting intentions are not present in Judith Goldman’s case. She had no intention of retaining beneficial ownership of the RRSP Proceeds. She specifically wanted them to go to others. Therefore, any intention that she may have had to avoid paying the CRA would have been entirely consistent with her intention to create a trust for the benefit of others and would not prevent such a trust from existing.
+[44] I acknowledge that one of the purposes of subsection 160(1) is to prevent a taxpayer from dissipating his or her assets to avoid paying the CRA. [21] However, that purpose does not allow me to overlook the otherwise clear text and context of the subsection. There is no ambiguity in the language of the subsection that would allow me to ignore the existence of an otherwise validly created trust. In the absence of ambiguity, it is not my role to interpret subsection 160(1) in a manner that fulfils its purpose. [22] If Parliament wants subsection 160(1) to catch actions that it does not catch as currently worded, it can amend the subsection. In my view, there is no need to do so. For the reasons set out below, it is my view that the Act already provides ample protection against exactly what the Respondent believes Judith Goldman did.
+Conclusion: a trust was created
+[45] On the basis of all of the foregoing, I find that the Appellant received the RRSP Proceeds in trust and distributed them in accordance with the terms of that trust. For simplicity, I will refer to this trust as the “RRSP Proceeds Trust”.
+Who is liable under subsection 160(1) in respect of a transfer to a trust?
+[46] There is no question that the transfer of property to a trust is caught by subsection 160(1). The question is, who is liable in respect of that transfer, the trust or the trustee in his or her personal capacity? I find that the liability lies with the trust itself.
+[47] At common law, trusts do not have a separate legal personality. Subsection 104(2) changes that. It deems a trust to be an individual in respect of the trust property for the purposes of the Act. As the Supreme Court of Canada stated in Fundy Settlement v. Canada, “[w]hile a trust is not a person at common law, it is deemed to be an individual under the Act.” [23]
+[48] Thus, a tax debt owed by a trust is a debt of the trust itself. It is not a personal debt of the trustee. While subsection 104(1) imposes on the trustee the obligation to use the trust’s assets to pay that debt, it does not impose the debt itself on the trustee personally. If there are insufficient assets in a trust to pay its debts, the Minister cannot simply seize the trustee’s personal assets.
+[49] As set out in more detail below, subsection 159(3) provides a strong incentive for trustees to ensure that a trust’s assets are used to pay it’s tax debts. A trustee can be held personally liable under that subsection if he or she has distributed assets of a trust without first obtaining a clearance certificate. However, absent a subsection 159(3) assessment, a trustee has no personal exposure in respect of a trust’s tax debts simply by virtue of being a trustee.
+How does subsection 160(1) apply to trusts?
+[50] For the purposes of subsection 160(1), there are three distinct types of transfers that occur when a trust is used. The first is the transfer of property that occurs when the trust is settled. The second is the transfer of property that occurs when a trust receives additional property. The third is the transfer of property that occurs when distributions are made to the beneficiaries. Each of these types of transfers may be subject to subsection 160(1).
+(a) Settlement of a trust: When property is settled on a trust, there is a transfer from the settlor. Subsection 104(2) deems the trust to be an individual in respect of that property. In other words, it deems the transfer to have been made not to the trustee personally, but rather to the trust. The trustee cannot be liable under subsection 160(1) because the trustee did not receive the property. It is the trust, as the recipient of the property, that may be liable under subsection 160(1) in respect of the transfer. If the settlor of a trust is related to one or more of the beneficiaries, paragraph 251(1)(b) deems the settlor to deal with the trust at non-arm’s length. As a result, if the settlor owed an amount under the Act when the property was transferred, subsection 160(1) can apply to the transfer of property from the settlor to the trust. To the extent that there are assets in the trust, the Minister can use subsection 160(1) to collect the settlor’s tax debt directly from the trust. If the assets have already been distributed, the Minister may also choose to raise an assessment against the trustee under subsection 159(3).
+(b) Receipt of additional property: Once a trust is created, it may receive additional property either through additional contributions of capital or by earning income. Again, subsection 104(2) deems this property to have been received by the trust, not the trustee personally. For the purposes of subsection 160(1), additional contributions of capital are treated in the same way as the initial settlement. Generally speaking, income earned on trust property will not attract the application of subsection 160(1) because the trust will have provided consideration for the income. Dividends are an exception to that general rule. If a trust receives dividends from a non-arm’s length corporation at a time that the corporation owes an amount under the Act, subsection 160(1) can apply to the transfer. To the extent that there are assets in the trust, the Minister can assess the trust under subsection 160(1). Examples of subsection 160(1) assessments arising from this type of transfer can be seen in Mamdani Family Trust v. The Queen [24] and Ansems v. The Queen. [25]
+(c) Distribution to beneficiaries: When property is distributed to beneficiaries, subsection 104(2) deems it to have been transferred from the trust to the beneficiaries. There are two ways that a beneficiary may become liable under subsection 160(1) in respect of such a transfer. First, because subsection 160(1) captures transfers made “by means of a trust”, if the beneficiary deals at non-arm’s length with the settlor and the settlor owed tax when he or she transferred property to the trust, then the beneficiary will have received a transfer from the settlor “by means of a trust” for no consideration and subsection 160(1) will apply. There will be no need to assess the trust. The Minister may simply assess the beneficiary directly. The second way in which a beneficiary may become liable under subsection 160(1) is more complicated. If the trust itself owes an amount under the Act (including an amount under subsection 160(1) arising in the circumstances described in the paragraphs above), then the beneficiary will have received a transfer of property from the trust at a time that the trust owed an amount under the Act. Since paragraph 251(1)(b) deems a beneficiary to deal at non-arm’s length with the trust, all of the conditions for a subsection 160(1) assessment will have been met. [26]
+[51] In this portion of my analysis I am dealing with the first type of transfer (i.e., the settlement of the RRSP Proceeds on the RRSP Proceeds Trust). Subsection 104(2) deems this transfer to have been from Judith Goldman to the RRSP Proceeds Trust. It was not a transfer from Judith Goldman to the Appellant. Therefore, the first condition for the application of subsection 160(1) is not met.
+[52] The second type of transfer is not relevant in this appeal. I will deal with the third type of transfer (i.e., the transfer of funds from Judith Goldman to the Appellant in her role as beneficiary by means of the RRSP Proceeds Trust) later in this decision. As will be seen there, I find that the Appellant is liable under subsection 160(1) in respect of those transfers.
+Distinguishing the obiter in Livingston
+[53] Before moving on, I think that it is important that I address some comments made in obiter by the Federal Court of Appeal in Livingston. As set out above, Livingston dealt with the deposit of funds by a tax debtor into the bank account of Ms. Livingston. Ms. Livingston argued that she held the funds in trust for the tax debtor. The Court found that Ms. Livingston had both legal title to and beneficial interest in the funds and was liable for the amount of the transfers. The Court stated this conclusion as follows: [27]
+The deposit of funds into another person’s account constitutes a transfer of property. To make the point more emphatically, the deposit of funds by [the tax debtor] into the account of [Ms. Livingston] permitted [Ms. Livingston] to withdraw those funds herself anytime. The property transferred was the right to require the bank to release all of the funds to [Ms. Livingston]. The value of the right was the total value of the funds.
+[54] I agree with that conclusion. As noted above, in Livingston, the tax debtor’s intention to defeat her creditors was inconsistent with the existence of a trust. Thus, since no trust existed, what Ms. Livingston received was both legal title to and beneficial interest in the deposits subject only to a moral obligation to return them to the tax debtor.
+[55] However, the Federal Court Appeal went on to make the following observations in obiter: [28]
+In addition, there is a transfer of property for the purposes of section 160 even when beneficial ownership has not been transferred. Subsection 160(1) applies to any transfer of property — “by means of a trust or by any other means whatever”. Thus, subsection 160(1) categorizes a transfer to a trust as a transfer of property. Certainly, even where the transferor is the beneficiary under the trust, nevertheless, legal title has been transferred to the trustee. Obviously, this constitutes a transfer of property for the purposes of subsection 160(1) which, after all, is designed, inter alia, to prevent the transferor from hiding his or her assets, including behind the veil of a trust, in order to prevent the CRA from attaching the asset. Therefore it is unnecessary to consider [Ms. Livingston]’s argument that beneficial title to the funds remained with [the tax debtor].
+[56] Years later, these observations are still causing a great deal of confusion in the tax community. The Federal Court of Appeal could have simply held that an intention to defeat one’s creditors is inconsistent with the existence of a trust. As set out above, this idea had been previously established by the Federal Court of Appeal in Raphael, followed by the trial judge in Livingston and subsequently followed by the Federal Court of Appeal again in Rose. It would have been both sufficient to dismiss Ms. Livingston’s appeal and consistent with the Court’s finding that Ms. Livingston had received both legal and beneficial ownership of the deposits. Instead, in the above paragraph, the Court appeared to suggest in obiter that the mere receipt of legal title to funds by a trustee was sufficient to make the trustee personally liable under subsection 160(1) for the full value of the funds. With respect, such a conclusion is neither supported by the Act nor supported by general valuation principles.
+[57] It appears that subsection 104(2) may not have been drawn to the Court’s attention. As set out above, subsection 104(2) deems a trust to be an individual. Therefore, any property transferred to a trustee is deemed to have been transferred to the trust, not to the trustee personally. As a result, if a trust had existed, any subsection 160(1) assessment would have to have been raised against the trust, not against Ms. Livingston.
+[58] With respect, I also cannot understand why the Court felt that it was “unnecessary to consider [Ms. Livingston]’s argument that beneficial title to the funds remained with [the tax debtor]”. This comment was made in the portion of the judgment dealing with whether there was a transfer of property. It seems to me that identifying the precise property that was transferred is an essential part of any subsection 160(1) analysis. Subsection 160(1) only applies if the recipient did not provide fair market value consideration for the property transferred to him or her. In order to make that determination, one has to know what property was transferred, not just that some property was transferred. Legal title alone is worth nothing. All of the value of a given piece of property lies in the beneficial ownership. The Federal Court of Appeal’s obiter comment appears to suggest that, had the Court found that Ms. Livingston had only received legal title to the deposits, it was prepared to conclude that that legal title was worth the face value of the deposits. I can conceive of no other reason why the Court would have considered it unnecessary to determine whether beneficial ownership had been transferred. If that is what the Court intended, then I respectfully disagree.
+[59] The third reason that I respectfully disagree with the Federal Court of Appeal’s obiter comments lies in the Court’s interpretation of the phrase “by means of a trust”. Subsection 160(1) applies to transfers “directly or indirectly, by means of a trust or by any other means whatever”. The Court’s obiter comments suggest that the phrase “by means of a trust” refers to a transfer to a trust. With respect, the transfer of property from a settlor to a trust is a direct transfer. It is not a transfer “by means of a trust”. It is a transfer “to a trust”. The phrase “by means of a trust” refers to a transfer from a settlor to a beneficiary. Such a transfer is not a direct transfer. It is an indirect transfer from the settlor to the beneficiary “by means of a trust”. As set out in paragraph 49(c) above, if the settlor and the beneficiary do not deal at arm’s length, the beneficiary may be liable under subsection 160 in respect of this indirect transfer. While nothing turns on this distinction in the Appellant’s appeal, I feel that it is nonetheless important to highlight it as there may be some circumstances in which it may be relevant.
+[60] I note that in both Rose [29] and The Queen v. 9101-2310 Québec Inc. [30] the Federal Court of Appeal declined to comment on the appropriateness of these obiter comments in Livingston. This suggests that, perhaps, there is some recognition that the obiter comments may have gone too far.
+[61] In conclusion, while obiter from the Federal Court of Appeal is very persuasive, it is not binding on me. The fact pattern in Livingston is very different from the fact pattern before me. There was no trust in Livingston. Since the Federal Court of Appeal did not have to turn its mind to how subsection 160(1) would work if a trust actually existed, it appears that the Court overlooked the impact of subsection 104(2). Because of this apparent oversight, if it was the Court’s intention to suggest in obiter that a trustee would be personally liable under subsection 160(1) in respect of a transfer to a trust, I respectfully decline to follow that suggestion.
+Summary
+[62] In summary, I find that the transfer of $76,616 to the Appellant as trustee of the RRSP Proceeds Trust was a transfer from Judith Goldman to the RRSP Proceeds Trust. It was not a transfer to the Appellant in her personal capacity. The transfer would satisfy the first condition for the application of subsection 160(1) if the assessment before me were an assessment against the RRSP Proceeds Trust. It does not, however, satisfy the first condition for an assessment against the Appellant in her personal capacity.
+[63] That said, in case I am wrong, I will continue the analysis of the three remaining criteria.
+(ii) By a person who owes an amount under the Act
+[64] The Appellant accepts that her mother owed in excess of $76,616 in tax in respect of her 2005, 2009 and 2010 tax years. Therefore, if I am wrong and subsection 160(1) applies to the transfer of legal title to a trustee, the second condition for the application of subsection 160(1) is met.
+[65] In my view, for the purpose of subsection 160(1), the transfer to the designated beneficiary of an RRSP occurs on the death of the annuitant (Kiperchuk v. The Queen [31] ), not when the designation is made. The Appellant submits that the opposite is true. Since Judith Goldman designed the Appellant as beneficiary in 2010 and subsection 160(1) catches transfers in or in respect of the year in which the property was transferred or any preceding tax year, she would be caught under either interpretation. As a result, there is no need for me to consider her interpretation.
+(iii) To a non-arm’s length person
+[66] The Appellant clearly did not deal with her mother at arm’s length. Therefore, if I am wrong and subsection 160(1) applies to the transfer of legal title to a trustee, then the third condition for the application of subsection 160(1) is met.
+(iv) For less than fair market value consideration
+[67] If I am wrong and subsection 160(1) applies to the transfer of legal title to a trustee, then I find that the fair market value of the legal title in the RRSP Proceeds was nil. Legal title in itself has no value. All of the value is in the beneficial ownership.
+[68] As noted above, the Federal Court of Appeal’s comments in obiter in Livingston appear to suggest that the fair market value of legal title to an asset is equal to the fair market value of the asset. Again, while obiter from the Federal Court of Appeal is very persuasive, it is not binding on me. With respect, I cannot see how legal title could have any value. If that was what the Court was suggesting in its obiter comments, I respectfully decline to follow the suggestion. To the extent that the Appellant received a transfer of legal title to the RRSP Proceeds, I find that there was no shortfall in consideration and that the fourth condition for the application of subsection 160(1) is therefore not met.
+(v) Conclusion
+[69] In conclusion, I find that the first condition for the application of subsection 160(1) has not been met. There was no transfer of property from Judith Goldman to the Appellant. The RRSP Proceeds were transferred from Judith Goldman to the RRSP Proceeds Trust. If I am wrong and the Appellant received a transfer of legal title to the RRSP Proceeds, then I find that the fourth condition for the application of subsection 160(1) has not been met. There was no value to the legal title and thus there was no shortfall in consideration. Either way, I find that the Appellant is not liable under subsection 160(1) in respect of the transfer of the RRSP Proceeds to the RRSP Proceeds Trust.
+(vi) (Subsection 159(3)
+[70] I feel that it is important to point out that my conclusion that subsection 160(1) does not apply to transfers of legal title to trustees does not mean that trustees have no responsibility for funds that they receive from a tax debtor. On the contrary, there is a mechanism in the Act specifically designed to deal with this situation.
+[71] Subsection 159(3) imposes joint and several liability on a trustee who distributes property from a trust unless that trustee first obtains a clearance certificate from the Minister. The trustee is liable for the lesser of the value of the property distributed and the amounts owed by the trust.
+[72] For the reasons described in paragraph 49(a) above, the RRSP Proceeds Trust would have had a liability under subsection 160(1) at the time the Appellant made distributions to its beneficiaries. [32] The Appellant made distributions out of the RRSP Proceeds Trust without obtaining a clearance certificate. If the Minister wanted to assess the Appellant in her role as trustee, the Minister should have used subsection 159(3) instead of subsection 160(1).
+[73] The remaining four transfers of funds involve transfers out of the RRSP Proceeds Trust. I will deal with them individually.
+E. Transfer of Part of the Residue of the Trust to the Appellant
+[74] The Appellant was the trustee of the RRSP Proceeds Trust, but she was also a beneficiary. She received various funds in her role as beneficiary. Those funds include $10,460 that the Appellant received from the residue of the RRSP Proceeds Trust when, in her role as trustee of the trust, she divided the residue equally among herself and her sisters. This is the type of transfer that I described in paragraph 49(c) above.
+[75] The Appellant concedes that the four conditions necessary for an assessment under subsection 160(1) in respect of this $10,460 distribution of residue have been met. The Appellant indirectly received a transfer of property from her mother by means of a trust for no consideration at a time that her mother owed tax. Therefore, she accepts that she is liable for $10,460 under subsection 160(1).
+F. Payment of Executor Fees
+[76] The Appellant testified that, in accordance with her mother’s wishes, she paid the executor fees of her mother’s estate out of the RRSP Proceeds Trust. As she was the executor of her mother’s estate, she paid those funds to herself. The payment totalled $4,500.
+[77] The first three conditions necessary for subsection 160(1) to apply are clearly satisfied for this payment. There was a transfer of property by means of a trust from Judith Goldman to the Appellant at a time that Judith Goldman owed tax. The only question is whether the Appellant provided consideration for the payment.
+[78] I have concerns that this payment may simply have been a means of distributing more of the residue of the RRSP Proceeds Trust. Evidence that the Appellant had reported these fees as income in her 2011 tax return would have gone a long way to supporting her explanation. That said, the Respondent did not seriously cross-examine the Appellant regarding these fees. The Appellant was the executor of her mother’s estate and, as such, would have been entitled to executor fees. The trust terms that her mother imposed on the RRSP Proceeds included the payment of the expenses of administering her estate.
+[79] On the basis of all of the foregoing, I find that it is more likely than not that the Appellant provided consideration for the executor fees that she received and thus that the fourth condition for the application of subsection 160(1) has not been met in respect of this transfer and the subsection cannot apply.
+G. Unexplained Distributions
+[80] The Notice of Appeal contained a reconciliation that was intended to demonstrate that all of the RRSP Proceeds had been distributed by the Appellant in accordance with her mother’s wishes. The Appellant testified that various amounts were paid out of the RRSP Proceeds Trust to cover the final lease payment for her mother’s vehicle, funeral expenses and her mother’s utility bills. She stated that other amounts were paid to her sisters as travel expenses and caregiver fees. However, the evidence clearly shows that $8,139 of these expenses were not, in fact, paid out of the RRSP Proceeds Trust.
+[81] When her mother became sick, the Appellant and her mother opened a joint bank account to make it easy for the Appellant to help her mother to manage her financial affairs. [33] The $8,139 in expenses were paid out of this joint account using funds that were in the account at the time of Judith Goldman’s death and income from Judith Goldman’s job that was deposited to the account after her death. They were not paid out of the RRSP Proceeds.
+[82] Not only were these $8,139 in expenses actually paid from the joint account, they could never have been paid using the RRSP Proceeds because those proceeds were not received by the Appellant from the Bank of Montreal until weeks after the $8,139 had already been spent. Although I accept that the terms of the RRSP Proceeds Trust required the Appellant to use the RRSP Proceeds to pay the types of expenses that make up the $8,139, the Appellant did not provide any evidence to show that the RRSP Proceeds were, in fact, used to reimburse her mother’s estate for these expenses.
+[83] On the basis of all of the foregoing, I find that these expenses were paid by Judith Goldman’s estate, not by the RRSP Proceeds Trust. Since the Appellant has not satisfied me that the $8,139 in expenses were paid out of the RRSP Proceeds Trust, she has therefore not explained where $8,139 of the funds in the trust went. The only evidence that I have is that the RRSP Proceeds were deposited to the Appellant’s bank account. In the absence of any evidence to the contrary, I am forced to conclude that the Appellant kept these funds for herself.
+[84] Since the funds were therefore an indirect transfer from the Appellant’s mother to the Appellant by means of a trust for no consideration at a time that her mother owed tax, I find that the four conditions for the application of subsection 160(1) were met and the Appellant is liable under subsection 160(1) for an additional $8,139.
+H. Payment of Legal Fees
+[85] The Appellant testified that she paid $5,000 out of the RRSP Proceeds Trust to her counsel in this appeal. I find that these legal fees related to the Appellant’s tax dispute, not her mother’s estate, and that they were paid by her personally, not by the RRSP Proceeds Trust.
+[86] The residue of the RRSP Proceeds Trust was paid to one of the Appellant’s sisters in September 2011. [34] I accept that some funds may have remained in the RRSP Proceeds Trust for up to one year after that to pay additional estate expenses such as expenses related to the filing of a date of death tax return, but I have no reason to believe that the entire residue would not have been paid out within that year. The Appellant testified that she had no knowledge of her mother’s tax problems. Therefore, there would have been no reason for her to set funds aside in the RRSP Proceeds Trust to pay legal fees that could eventually arise from those problems. Therefore, there would have been nothing left in the RRSP Proceeds Trust when the legal fees were paid in 2014. They must have been paid by the Appellant personally.
+[87] This leaves a further $5,000 in unexplained distributions from the RRSP Proceeds Trust. I find that the Appellant is liable in respect of this amount for the same reasons that I found her liable for the unexplained $8,139 above.
+[88] If I am wrong and the funds were, in fact, paid out of the RRSP Proceeds Trust, then I find that they were a payment made for the Appellant’s personal benefit at her direction. The Appellant would still be liable under subsection 160(1). There would have been a transfer for no consideration from her mother to her indirectly by means of a trust at a time when her mother owed tax. [35]
+[89] On the basis of all of the foregoing, I find that the Appellant is liable for an additional $5,000 under subsection 160(1).
+I. Transfers to Other Beneficiaries
+[90] Funds were also distributed from the RRSP Proceeds Trust to the Appellant’s sisters both in respect of their share of the residue of the RRSP Proceeds Trust and their travel costs to visit Judith Goldman. The Appellant’s sisters have not been assessed and, in any event, their assessments are not before me, so there is no need for me to consider the application of subsection 160(1) to these transfers.
+J. Conclusion and Disposition
+[91] As set out above, all four of the conditions for the application of subsection 160(1) have been met in respect of transfers totalling $23,599. [36] The Appellant is accordingly liable for the lesser of that amount and her mother’s tax debt. Since Judith Goldman’s tax debt exceeded that amount, the Appellant is liable for $23,599.
+[92] The appeal is allowed and the matter referred back to the Minister for reconsideration and reassessment on the basis that the Appellant was liable under subsection 160(1) for only $23,599.
+K. Costs
+[93] Given the mixed success of the parties, I am not inclined to order costs. That said, the parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the parties shall have a further 30 days to serve and file written submissions on costs and the parties shall have yet a further 10 days to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, the parties shall bear their own costs.
+L. Inappropriate Pleadings
+[94] I would like to make a final observation regarding the pleadings in this appeal. Paragraphs 49(1)(a) to (c) of the Tax Court of Canada Rules (General Procedure) require that a reply to a notice of appeal state the facts in the notice of appeal that are admitted, the facts that are denied and the facts of which the respondent has no knowledge and puts in issue.
+[95] The Respondent did not comply with that rule in this appeal. The Respondent admitted certain facts, denied certain facts and stated that she had no knowledge of certain facts. However, the Respondent also pleaded that she “took note of” certain facts and “ignored” other facts. Taking note of a fact and ignoring a fact are not options available to the Respondent under Rule 49(1). If the Respondent believes that a fact is irrelevant and denies its truth, she may say so but she may not simply “ignore” it. If she believes that a fact is irrelevant and has no knowledge of it, she may say so but she may not simply “take note of” it.
+[96] There are potentially serious consequences to failing to comply with Rule 49(1). Rule 49(2) deems all allegations of fact contained in a notice of appeal that are not denied in the reply to be admitted unless the respondent pleads that she has no knowledge of them.
+[97] I raised my concerns about the Reply with the parties at the start of the trial. I commend counsel in this appeal for resolving the issue amicably. The parties were able to come to an agreement that avoided Rule 49(2) applying, but that may not always be the case. As it has come to my attention that the practice of “taking note of” and “ignoring” facts is not limited to this appeal and may, in fact, be relatively common in parts of the country, I felt it was appropriate to use this opportunity to draw attention to this improper practice.
+Signed at Ottawa, Canada, this 25th day of February 2021.
+“David E. Graham”
+Graham J.
+CITATION:
+2021 TCC 13
+COURT FILE NO.:
+2016-4417(IT)G
+STYLE OF CAUSE:
+ADINA GOLDMAN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 30 and October 1, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+February 25, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Richard K. Watson
+Counsel for the Respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Richard K. Watson
+Firm:
+Richard K. Watson Professional Corporation
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Charkaoui v. Canada (Citizenship and Immigration), 2007 SCC 9, at para. 12.
+[2] Mathew v. The Queen, 2003 FCA 371; Ali v. The Queen, 2008 FCA 190 (leave to appeal denied, 2008 CarswellNat 4095); and Kasvand v. The Queen, 1994 CarswellNat 972 (FCA).
+[3] 2012 FCA 88, at para. 8.
+[4] Supplementary Memorandum of Fact and Law of the Appellant, paras. 4(a) and (c).
+[5] B. (R.) v. Children’s Aid Society of Metropolitan Toronto, [1995] 1 S.C.R. 315.
+[6] Godbout v. Longueuil (City), [1997] 3 S.C.R. 844, at para. 66.
+[7] New Brunswick (Minister of Health and Community Services) v. G. (J.)., [1999] 3 S.C.R. 46, at para. 61, and Winnipeg Child and Family Services v. K.L.W, 2000 SCC 48.
+[8] Blencoe v. British Columbia (Human Rights Commission), 2000 SCC 44, at para. 47.
+[9] Wannan v. The Queen, 2003 FCA 423, at para. 3.
+[10] 2018 FCA 68, at para. 22.
+[11] In Hartstein v. Ricottone, 2016 ONCA 913, the Ontario Court of Appeal recognizes that trusts may be created orally. See also Statute of Frauds (Ontario), RSO 1990, c. S. 19, sections 9 and 10.
+[12] Dai v. Ding, 2019 ONSC 6118, at para. 308.
+[13] Oosterhoff et al., Oosterhoff on Trusts, 9th ed. (Toronto Thomson Reuters, 2019) at page 179.
+[14] See, for example, Wannan v. The Queen, 2003 FCA 423, at para. 3; The Queen v. Livingston, 2008 FCA 89 (leave to appeal denied, 2008 CarswellNat 3336), at para. 28; Addison & Leyen Ltd. v. The Queen, 2006 FCA 107, at para. 65; and The Queen v. Rose, 2009 FCA 93 at para. 28.
+[15] 2008 FCA 89 (leave to appeal denied, 2008 CarswellNat 3336).
+[16] 2002 FCA 23, at para. 8.
+[17] 2007 TCC 303.
+[18] The appeal was allowed on separate grounds. Justice Beaubier had found that, since Ms. Livingston had provided adequate consideration to the tax debtor, she was not liable under subsection 160(1). The Federal Court of Appeal disagreed with this conclusion. The Court found that the fair market value of funds deposited to a bank account is the value of those funds and, accordingly, allowed the appeal (Livingston (FCA), at paras. 27 and 31).
+[19] 2009 FCA 93, at paras. 20 - 24 and 31.
+[20] 2021 FCA 17, at para. 39.
+[21] Medland v. The Queen, 1998 CarswellNat 766, 98 DTC 6358 (FCA), at para. 14; and Heavyside v. The Queen, 1996 CarswellNat 2081, [1997] 2 CTC 1 (FCA).
+[22] Placer Dome Canada Ltd. v. Ontario (Minister of Finance), 2006 SCC 20, at para. 23.
+[23] 2012 SCC 14, at para. 10.
+[24] 2020 TCC 93.
+[25] 2019 TCC 66.
+[26] While we generally speak of subsection 160(1) applying in respect of unpaid taxes, it actually applies in respect any “amount that the transferor is liable to pay under [the] Act” (subparagraph 160(1)(e)(ii)). This includes amounts assessed under subsection 160(1) itself (Jurak v. The Queen, 2003 FCA 58). Thus, a subsection 160(1) assessment against a trust in respect of debts owed by the settlor may, in turn, result in a cascading subsection 160(1) assessment against a beneficiary in respect of the amount owed by the trust on the first subsection 160(1) assessment.
+[27] Livingston (FCA), at para. 21.
+[28] Livingston (FCA), at para. 22.
+[29] At para. 32.
+[30] 2013 FCA 241, at para. 54.
+[31] 2013 TCC 60.
+[32] The RRSP Proceeds Trust would have received beneficial ownership of the RRSP Proceeds from Judith Goldman for no consideration at a time that she owed tax. Because Judith Goldman is related to several of the beneficiaries of the RRSP Proceeds Trust, she is deemed not to deal with the trust at arm’s length. Thus subsection 160(1) would have applied to make the trust liable for her debts.
+[33] It is unclear to me whether a new account was opened or whether the Appellant’s name was added to an existing account. It makes no difference to my analysis.
+[34] Exhibit A-1, Tab 13.
+[35] I note that subsection 159(3.1) deems an appropriation of property by a trustee to be a distribution from the trust for the purposes of subsection 159(3), so the Appellant would arguably alternatively be liable, as trustee, pursuant to that provision in respect of the payment had the Minister assessed under that subsection.
+[36] $10,460 + $8,139 + $5,000 = $23,599

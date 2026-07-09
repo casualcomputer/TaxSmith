@@ -1,0 +1,215 @@
+---
+title: "Menzies c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/362081/index.do"
+last_modified: "2019-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 29"
+citation2: ""
+neutral_citation: "2019 CCI 29"
+decision_date: "2019-01-25"
+language: "fr"
+item_id: "362081"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4348
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:26:34.537000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0671c392f3e463555f303adfc1789653967378c61004b812277ab6efa442e7ba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Menzies c. La Reine
+
+- Citation: 2019 CCI 29
+- Decision date: 2019-01-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4348, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Menzies c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-25
+Référence neutre
+2019 TCC 29
+Numéro de dossier
+2017-4127(GST)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-4127(GST)I
+ENTRE :
+MARILENA MENZIES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Windsor (Ontario), le 20 novembre 2018
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de l’appelante :
+Me Danny Branoff
+Avocat de l’intimée :
+Me Dominik Longchamps
+JUGMENT
+CONFORMÉMENT AUX motifs du jugement ci-joints, il est fait droit à l’appel avec dépens conformément au tarif applicable, mais dans l’éventualité d’un autre différend entre les parties concernant les dépens, la Cour recevra des observations dans les 30 jours.
+Signé à Vancouver (Colombie-Britannique), ce 25e jour de janvier 2019.
+« R.S. Bocock »
+Juge Bocock
+Référence : 2019TCC29
+Date : 20 190 125
+Dossier : 2017-4127(GST)I
+ENTRE :
+MARILENA MENZIES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGMENT
+Le juge Bocock
+I. INTRODUCTION ET FAITS
+[1] Marilena Menzies (« Mme Menzies ») s’est vue imposer une taxe au montant de 39 773,55 $ le 15 décembre 2015 au titre du paragraphe 325(1) de la Loi sur la taxe d’accise, L.R.C., 1985, ch. E-15 (la « LTA »). À l’instar de l’article 160 de la Loi de l’impôt sur le revenu (la « LIR »), le paragraphe 325(1) prévoit que le bénéficiaire (« cessionnaire ») des biens reçus d’un débiteur fiscal (« cédant ») est conjointement et solidairement responsable envers le ministre de la responsabilité fiscale du débiteur. Le paragraphe est assujetti à certaines conditions et limites d’engagement. Ces dernières peuvent se résumer ainsi :
+1) le cédant (le « débiteur fiscal ») du bien est responsable envers le ministre;
+2) il y a un transfert de bien;
+3) le cessionnaire doit avoir un lien de dépendance; le conjoint est automatiquement admissible;
+4) l’étendue de l’obligation est le montant par lequel la juste valeur marchande du bien transféré excède la contrepartie présentée par le cessionnaire, le cas échéant.
+[2] Dans le présent appel, Mme Menzies a concédé que le cédant était responsable de certaines obligations fiscales sous le régime de la LTA, et qu’elle et le cédant, son mari depuis de nombreuses années, étaient des conjoints. La principale question dont la Cour est saisie consiste à déterminer si la valeur du bien transféré et reçu par Mme Menzies excède la juste valeur marchande de toute contrepartie présentée par Mme Menzies. La seconde question concerne la question du « transfert ». Compte tenu des faits particuliers exposés à la Cour, la question est de savoir si une partie du bien présumé transférée consistait en un transfert à Mme Menzies (ou à son avantage) au sens du paragraphe 325(1).
+[3] La dette fiscale qui sous-tend l’évaluation est liée aux activités comptables de M. Menzies, CPA. Son entreprise a connu des difficultés financières pendant les pics et les creux prévus du cycle économique, fréquents dans les villes manufacturières telles que Windsor, où se situe l’entreprise. Par conséquent, au cours des 30 années durant lesquelles M. Menzies a œuvré dans la pratique comptable privée, des prêts périodiques ont été nécessaires au financement du fonds de roulement causé par des comptes en souffrance.
+[4] Ces prêts provenaient de diverses sources : clients, associés et institutions financières. Mme Menzies affirme que, mis à part à un prêt provenant de sa mère, les autres ont été garantis par des hypothèques contractées sur la résidence familiale. Au titre d’une exception inexplicable et possiblement déterminante de trois mois en 2003 (au sujet de la seconde question), cette propriété résidentielle a été enregistrée uniquement au nom de Mme Menzies. La première hypothèque en garantie du prix sur la résidence était d’un montant de 30 000 $, avancé il y a de nombreuses années. À la fin de 2015, le solde des prêts hypothécaires en cours sur la propriété dépassait 91 000 $. Selon Mme Menzies, cela s’explique par le fonds de roulement déficitaire de l’entreprise. M. Menzies a également déclaré que l’entreprise comptable assurait le service de la dette de ces prêts hypothécaires de tiers par le versement direct des paiements du capital et intérêts tous les mois.
+[5] En percevant la cotisation prévue à l’article 325 auprès de Mme Menzies, le ministre a identifié certains versements hypothécaires comme étant fautifs, soit quelque 28 789,59 $ à la Banque Nationale du Canada (« BNC ») et 10 984,28 $ à la Canadian Western Trust (la « Western Trust ») (les « versements hypothécaires »). Ce montant total de 39 773,85 $ s’est échelonné de mars 2013 à août 2015 (la « période de transfert »). La dette au titre de la TPS/TVH accumulée par l’entreprise de M. Menzies entre le 21 juillet 2008 et le 31 mai 2013 s’élevait à 50 626,76 $ (la « dette fiscale »). À nouveau, après 2008, les versements hypothécaires (c’est-à-dire les transferts) ont été versés directement par M. Menzies à la BNC et à la Western Trust. Auparavant, ils étaient versés à Mme Menzies sous la forme d’un salaire modeste (« salaire »), qui payait elle-même l’hypothèque.
+[6] La valeur du salaire de Mme Menzies à titre d’employée d’Alexander R. Menzies Management Inc. (« Menzies Inc. ») était nettement en litige devant la Cour. Ce salaire a été versé régulièrement sur une longue période, assurément depuis 2001. Il était question de 18 000 $ par année ou de 1 500 $ par mois. Le salaire a été déclaré à titre de revenu par Mme Menzies, déduit comme une dépense salariale par Menzies Inc. et accepté comme tel par le ministre à l’égard des deux contribuables pour au minimum une décennie avant la période de transfert. Une fois de plus, le salaire a été satisfait par le versement des paiements hypothécaires à la BNC et à la Western Trust.
+II. QUESTIONS EN LITIGE
+A. Observations de l’appelante
+[7] M. et Mme Menzies ont tous deux témoigné à l’audience. Le représentant de Mme Menzies était Me Danny Branoff, avocat à la retraite. Voici les arguments présentés par M. Menzies et M. Branoff au cours de cet appel informel :
+a) les versements hypothécaires découlaient de prêts contractés par M. Menzies pour les besoins de son entreprise et les versements à la BNC et à la Western Trust ont été effectués pour rembourser et assurer le service de ces prêts uniquement au profit de M. Menzies et de son entreprise, et conformément à ses obligations légales envers ces tiers;
+b) le salaire tenait compte des services fournis par Mme Menzies à Menzies Inc. en tant qu’agente de consultation et de la qualité de Menzies Inc.;
+c) la contestation par le ministre de l’insuffisance de la contrepartie ou de la valeur offerte par Mme Menzies pour son salaire dément l’existence de ces paiements échelonnés sur une longue période et la thèse d’établissement de la cotisation tout aussi ancienne du ministre, qui a à la fois permis à Menzies Inc. d’effectuer une dépense salariale et à Mme Menzies d’effectuer le paiement des taxes sur ce même montant.
+B. Observations de l’intimée
+[8] L’intimée n’a convoqué aucun témoin, mais l’avocat a longuement contre-interrogé les deux témoins et a présenté les arguments suivants à la Cour :
+il n’y avait pas, ou du moins pas suffisamment, de contrepartie payée par Mme Menzies, en tant que cessionnaire, pour les biens transférés, y compris les versements hypothécaires à la BNC et à la Western Trust qui étaient en soi à son avantage exclusif;
+aucun élément de preuve n’a été présenté à la Cour pour indiquer que le salaire de Mme Menzies consistait en une contrepartie égale à la juste valeur marchande des 18 000 $ versée annuellement, quoique indirectement, à son avantage;
+il incombe à Mme Menzies de prouver la juste valeur marchande de la contrepartie des transferts et elle ne l’a pas fait, compte tenu des éléments de preuve flous et incertains présentés qui n’ont pas permis d’infirmer les hypothèses.
+III. Le DROIT
+a) Disposition législative.
+[9] Les extraits pertinents de l’article 325 de la LTA sont ainsi libellés :
+325(1) Transfert entre personnes ayant un lien de dépendance
+La personne qui transfère un bien […] à […] son époux […] est solidairement tenue, avec le cessionnaire, de payer en application de la présente la partie le moins élevée des montants suivants :
+a) le résultat du calcul suivant :
+A-B
+où
+A représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, de la contrepartie payée par le cessionnaire pour le transfert du bien […].
+b) la jurisprudence
+[10] Dans l’arrêt Livingston c. Sa Majesté la Reine, 2008 CAF 89, au paragraphe 9, le juge Sexton de la Cour d’appel fédérale a fait autorité en matière de responsabilité relative aux transferts de personnes ayant un lien de dépendance avec le débiteur fiscal :
+[9] […] les quatre critères suivants doivent être remplis pour que soit déclenchée l’application du paragraphe 160(1) :
+1) Il doit y avoir eu transfert de bien.
+2) Il faut que l’auteur et le bénéficiaire du transfert aient un lien de dépendance.
+3) Le bénéficiaire du transfert ne doit pas avoir donné de contrepartie à l’auteur du transfert ou doit lui avoir donné une contrepartie insuffisante […].
+4) Il faut que l’auteur du transfert soit tenu de payer des impôts en vertu de la Loi au moment du transfert.
+[11] Les points 2 et 4 n’ont pas été contestés. Tel qu’il a été énoncé précédemment, les points 1 et 3 sont actuellement en litige devant la Cour. L’article 325 de la LTA et l’article 160 de la LIR sont des articles équivalents, du moins dans la mesure des conditions d’engagement pour les transferts avec lien de dépendance pour les débiteurs fiscaux.
+IV. L’ANALYSE ET LA DÉCISION
+[12] Il est fait droit à l’appel pour trois raisons. Cumulativement, sur la base des éléments de preuve, les hypothèses du ministre ont été infirmées concernant les obligations principales de M. Menzies pour certains des transferts, l’existence de prêts commerciaux de Mme Menzies à l’entreprise de M. Menzies et la contrepartie suffisante et constante de Mme Menzies pour son salaire.
+a) l’analyse de la cotisation
+[13] Dans sa réponse, le ministre a formulé les hypothèses de fait suivantes, bien que certaines hypothèses soient des hypothèses mixtes de fait et de droit : [traduction]
+w) les versements hypothécaires ont augmenté la valeur nette de la maison appartenant à l’appelante;
+x) aucune contrepartie n’a été versée à par l’appelante à M. Menzies pour les versements hypothécaires;
+y) les versements hypothécaires n’ont pas été effectués dans le but de rembourser un prêt consenti par l’appelante à M. Menzies;
+z) les versements hypothécaires n’ont pas été effectués en remplacement du salaire de l’appelante;
+aa) l’hypothèque contractée à la [Western Trust] n’a jamais été en défaut.
+[14] Il ne fait aucun doute dans l’esprit de la Cour que le ministre s’est concentré sur la question à savoir si les versements hypothécaires réacheminés, prétendument versés en remplacement de salaires, étaient suffisants pour compenser la juste valeur marchande des transferts. Ci-dessous sont mentionnées les raisons pour lesquelles une telle orientation était probablement non pertinente et a plus ou moins obscurci le caractère juridique et transactionnel fondamental des transactions entre M. et Mme Menzies.
+[15] De façon plus générale, la confusion est possiblement compréhensible. Les prêts consentis par des parties sans lien de dépendance sont la pierre angulaire des petites entreprises, qu’elles soient issues de petites industries de services, professionnelles ou de marchandisage. Ils peuvent de loin sembler non commerciaux, absurdes et illogiques. En fait, c’est fort possible. Sans affinité, lien de sang ou lien conjugal, de telles ententes seraient impossibles. En l’absence de tels prêts, le travail de longue haleine, les journées de travail de 18 heures et les semaines de travail de 80 heures disparaîtraient également, de même que de nombreuses petites entreprises, la plupart individuelles. Mais la satisfaction et la fierté de cette propriété du produit du travail et des réalisations indépendantes se poursuivent. Et le prêt amical entre parents, amis et même de collègues de travail, essentiel pour ces petites entreprises, s’annexe à ce travail réalisé avec passion. Tel qu’il est mentionné ci-dessous, spécifiquement, il prend des formes et use de méthodes et de justifications bien camouflées et quelque peu inexplicables.
+[16] De même, la preuve et la documentation sont souvent floues, inexistantes ou insuffisantes en raison de cette affinité. Paradoxalement, c’est cette proximité avec lien de dépendance qui constitue une condition d’engagement pour l’article 325 de la LTA et pour l’article 160 de la LIR. D’une part, le « coup de main à un proche parent ou à un ami, par l’informalité, la familiarité ou la confiance, peut entraîner la « longue portée » de l’article 325 ou de l’article 160 en raison du manque intrinsèque de documentation, de clarté et de certitude.
+[17] Le juge Favreau, de notre Cour, s’est penché sur une tendance trop expéditive de vouloir généraliser et rejeter tous les arrangements informels et [traduction] « sous-documentés » sous prétexte qu’ils seraient insuffisants; voici ce qu’il a affirmé dans la décision Connolly c La Reine, 2016 CCI 139 :
+[26] Dans la décision Pelletier, précitée, après avoir dressé la liste des irrégularités dans la preuve qui avait été présentée à la Cour, je me suis penché sur la crédibilité de la contribuable :
+[16] La contradiction dont il est question dans les deux paragraphes précédents porte sérieusement atteinte à la crédibilité de l’appelante. Je ne suis pas convaincu que les trois chèques établis à l’ordre de M. Farrell pour un montant total de 1 155 $ représentaient le remboursement partiel des prêts, et je serais enclin à penser que ces chèques pourraient très bien correspondre à des prêts consentis par l’appelante à M. Farrell. Comme la preuve présentée par l’appelante n’est pas concluante, la cotisation doit être maintenue. L’appelante avait la responsabilité de tenir un registre de ses transactions personnelles.
+[27] À mon avis, il faut s’abstenir de conclure que la preuve documentaire est toujours requise, car il est bien reconnu qu’on contrat verbal peut avoir la même force exécutoire qu’un contrat écrit. Toutefois, lorsqu’il s’agit d’établir l’existence d’un contrat verbal, la difficulté réside dans la preuve testimoniale soumise par un témoin – donc sur sa crédibilité.
+[28] Comme l’a déclaré la juge Sheridan dans la décision Pickard c. Canada, 2010 CCI 535 :
+[15] À la lumière des principes énoncés dans les arrêts Livingston, Waugh et Raphael, il incombe en l’espèce à Mme Pickard d’établir la juste valeur marchande de la contrepartie donnée en échange des sommes déposées dans son compte personnel conformément à une entente ayant force obligatoire, d’une part, et la correspondance entre cette valeur et les sommes déclarées à titre de revenu, d’autre part. Ce fardeau est lourd, en particulier dans les cas d’une opération entre personnes ayant un lien de dépendance où l’une des parties à la présumée entente n’a pas témoigné, où il y a absence de preuve documentaire corroborante et où, dans la mesure où il existe des documents, leur exactitude est discutable.
+[Non souligné dans l’original.]
+[29] Je mentionnerai toutefois qu’un tel fardeau n’est pas insurmontable.
+[30] Même s’il est préférable que toutes les ententes soient arrêtées par écrit, il n’appartient pas à la présente Cour d’ordonner qu’il en soit ainsi. Comme l’appelante a pu fournir des éléments de preuve crédibles de l’existence d’une telle entente, je crois qu’elle est parvenue à réfuter l’hypothèse du ministre voulant qu’elle n’ait pas donné de contrepartie en échange des fonds reçus de son conjoint de fait qui étaient déposés dans son compte bancaire.
+[31] […] La preuve offerte révèle que, durant ces deux années, l’appelante a effectivement avancé des fonds à M. MacVicar pour ses deux entreprises et ses dépenses personnelles.
+[32] Selon les modalités de l’entente verbale, M. MacVicar avait l’obligation légale de rembourser l’appelante chaque fois qu’il toucherait de l’argent et c’est ce qu’il a fait au cours de cette période.
+[18] La Cour doit entreprendre un examen de la preuve tout en gardant à l’esprit les exigences relatives à la façon dont les parties ayant un lien de dépendance font preuve de bonne foi lorsqu’elles aident un entrepreneur passionné duquel elles sont parentes, sans réserve et en faisant preuve d’une confiance absolue lorsque les efforts de recouvrement du ministre sont « contrecarrés ». L’objectif est de distinguer les deux situations en fonction de la crédibilité des témoins. Ce faisant, la cohérence (ou l’incohérence), l’attitude, l’assurance et le témoignage du témoin, le motif fallacieux, et l’ensemble de la preuve doivent être soupesés selon la prépondérance des probabilités : Nichols c La Reine, 2009 CCI 334.
+b) les versements hypothécaires de la BNC : qui étaient les débiteurs?
+[19] Les versements hypothécaires à la BNC s’élevaient à 28 789,59 $. Ce montant comprend près des trois quarts de la somme contenue dans les transferts indiqués à l’article 325. Le principe fondamental du transfert allégué à Mme Menzies est le fait que M. Menzies a versé un paiement à la BNC au nom de Mme Menzies, paiement qu’il n’avait aucune obligation de faire. S’il avait l’obligation d’effectuer le versement au créancier hypothécaire du tiers, indépendamment de l’obligation de Mme Menzies, et qu’il l'a fait, le ministre ne peut pas soutenir qu’il s’agissait d’un transfert uniquement à Mme Menzies ou pour elle. En ce qui a trait à cette question, en vertu de la loi ontarienne et des éléments de preuve présentés à la Cour, M. Menzies était un débiteur hypothécaire ou constituant en soi. Il était dans l’obligation de payer la dette essentiellement, tout comme Mme Menzies. Ce motif a été rigoureusement énoncé dans l’avis d’appel de Mme Menzies. En Ontario, il est juridiquement acceptable que Mme Menzies détienne une propriété et consente une hypothèque visant à garantir la dette. Ce ne serait pas le cas si M. Menzies n’agissait en tant que personne garante d’une dette conditionnelle qui n’était pas encore due ou exigée : MacLeod c. La Reine, 2012 CCI 379, au paragraphe 17. La preuve montre qu’au moment où l’hypothèque ou la charge accessoire et conventionnelle a été accordé à la BNC, M. et Mme Menzies étaient locataires conjoints de la propriété résidentielle. Ils ont tous deux accordé et remis l’hypothèque ou le droit, conjointement et solidairement, à la BNC. La Loi sur les hypothèques de l’Ontario, L.R.O. 1990, chap. M.40, traite notamment de la relation à long terme entre M. Menzies et la BNC, le créancier hypothécaire;
+Droit d’action du créancier hypothécaire
+20 (1) La définition qui suit s’applique au présent article.
+« débiteur hypothécaire original » S’entend de la personne qui en vertu d’un lien de droit contractuel avec le créancier hypothécaire, est tenue personnellement envers celui-ci de verser tout ou partie du montant de l’hypothèque.
+Action personnelle du créancier hypothécaire
+(2) Malgré toute disposition contraire de l’hypothèque, si le débiteur hypothécaire a cédé son droit de rachat à un cessionnaire et que celui-ci est tenu, en vertu d’un engagement exprès ou autre, de l’indemniser relativement à l’hypothèque, le créancier hypothécaire a le droit de recouvrer du cessionnaire le montant de la créance hypothécaire pour laquelle le cessionnaire est tenu d’indemniser le débiteur hypothécaire. Ce droit de recouvrement à l’égard du cessionnaire en vertu du présent article, prend fin dès l’enregistrement d’une cession du droit de rachat du cessionnaire en faveur d’un tiers, sauf si le créancier hypothécaire a intenté une action pour faire valoir son droit avant l’enregistrement d’une telle cession.
+Restriction au droit d’action
+(3) Le créancier hypothécaire qui a le droit de recouvrer à la fois du débiteur hypothécaire original et, en vertu du présent article, du cessionnaire du droit de rachat d’un débiteur hypothécaire, tout ou partie du montant de l’hypothèque et qui obtient jugement contre le débiteur hypothécaire original pour le montant de la créance hypothécaire, est à jamais forclos d’exercer son droit de recouvrement contre le cessionnaire en vertu du présent article, et, inversement, contre le débiteur hypothécaire original, à la suite du jugement obtenu contre le cessionnaire. Toutefois, le présent article n’a pas pour effet de porter atteinte au droit du créancier hypothécaire ayant un jugement contre l’un des codébiteurs hypothécaires originaux, d’obtenir jugement contre les autres. L.R.O. 1990, chap. M.40, art. 20.
+[20] Pour éviter que ces concepts demeurent trop obscurs, ils ont été mis à jour lorsque cette même province a modernisé son régime d’enregistrement foncier au milieu des années 1980. La Loi sur la réforme de l’enregistrement foncier, L.R.O. 1990, ch. L.4, prévoit également qu’un propriétaire ayant un titre est tenu de payer toutes les sommes garanties au titre de cette charge; voici le libellé de son article 7 :
+Charge : engagements implicites
+7 (1) La charge rédigée selon la formule prescrite est réputée comprendre les engagements suivants par le constituant et ses successeurs, au profit du titulaire, de ses successeurs et ayants droit :
+Engagements usuels
+Dans le cas de la charge constituée par le propriétaire à titre bénéficiaire sur un bien-fonds en franche tenure ou en tenure à bail :
+i. Le constituant, ou ses successeurs paieront, de la façon stipulée dans la charge le montant et les intérêts qu’elle garantit, ainsi que les impôts auxquels le bien-fonds est assujetti.
+[21] Le registre parcellaire reflétant le titre historique du bien a été présenté en preuve par l’avocat de l’intimée au cours de son contre-interrogatoire de Mme Menzies. Bien qu’un transfert standard ait été exécuté par Mme et M. Menzies, mais seulement au profit de Mme Menzies, cela s’est produit après l’octroi de l’hypothèque à la BNC. Immédiatement avant l’octroi de l’hypothèque, M. Menzies était un propriétaire enregistré dans la mesure où il détenait un titre en fief simple absolu, avec Mme Menzies.
+[22] Il n’y avait aucune mention dans le registre parcellaire indiquant qu’il y avait eu libération ou restriction de l’obligation directe de M. Menzies envers la BNC. En vertu de la législation mentionnée ci-dessus (elle-même une codification de la common law), il est demeuré responsable du paiement en tant que débiteur hypothécaire : Falconbridge on Mortgages, 4e édition, au paragraphe 14.3. Par conséquent, la Cour peut conclure que, nonobstant le transfert de son intérêt dans la propriété après l’octroi de l’hypothèque, M. Menzies est demeuré principalement responsable, au titre de son engagement, à effectuer les versements hypothécaires à la BNC, à savoir l’obligation de payer les intérêts, le capital et les impôts. Ces versements n’étaient pas des paiements à un cessionnaire ayant un lien de dépendance ou à un tiers au bénéfice de Mme Menzies, mais des paiements à un créancier sans lien de dépendance de M. Menzies afin de respecter sa principale obligation de payer la BNC. D’après les preuves de paiements, c’est exactement ce qu’il a fait, contrairement à Mme Menzies, pour le compte-rendu, directement à la BNC après 2008 pour satisfaire à sa principale responsabilité envers la BNC.
+c) la raison des prêts hypothécaires
+[23] Indépendamment de l’obligation de M. Menzies en vertu de l’hypothèque de la BNC, la raison d’être de ces deux prêts hypothécaires conventionnels (et non des garanties) était de financer le fonds de roulement de l’entreprise de M. Menzies. Il existait des preuves à l’appui. Les calendriers d’amortissement de la dette, les grands livres de fiducie des avocats et les directives de décaissement remontent à la fin des années 1990 et indiquent la provenance de cette affirmation. Les principaux montants du capital avancé en vertu des prêts garantis par divers prêteurs, et il y en avait beaucoup, ont finalement été avancés et dirigés vers M. Menzies, et non vers Mme Menzies, pour le fonds de roulement à titre de capital sur la propriété pour les améliorations apportées à la propriété.
+[24] Tout compte fait, la Cour accorde de la crédibilité à ces documents et ces références par chèques créés à la même époque. Ils témoignent du prêt amical contracté par Mme Menzies, parfois même conjointement avec son mari (c’est-à-dire l’hypothèque de la BNC) afin de financer l’entreprise de M. Menzies. C’est particulièrement vrai dans le cas de l’hypothèque de la Western Trust et des versements qui en découlent, et qui comprennent l’autre présumé transfert de biens. À cette fin, plusieurs éléments de preuve connexes ressortent. Une telle hypothèque garantissait un prêt REER autofinancé, ce qui prouve encore une fois le phénomène du prêt amical décrit ci-dessus. À ce titre, il ne s’agissait pas du tout d’une hypothèque accessoire, mais d’un prêt hypothécaire ordinaire composé de capital et intérêts. Deuxièmement, le grand livre en fiducie de l’avocat qui a versé le prêt mentionnait une avance de l’actionnaire à l’entreprise par Mme Menzies. Ce n’est pas parfait, mais cela demeure une preuve convaincante de la contrepartie présentée par Mme Menzies pour les paiements subséquents et connexes à des tiers réexpédiés par M. Menzies de capital et intérêts remboursables dans le cadre de l’hypothèque de la Western Trust. Enfin, d’autres produits avancés en vertu de ce prêt hypothécaire ont remboursé le solde du capital d’un prêt commercial enregistré précédemment avancé par un prêteur tiers à l’entreprise de M. Menzies. Bref, ces éléments de preuve permettent à la Cour de conclure que Mme Menzies a prêté à M. Menzies les sommes avancées au titre de l’hypothèque de la Western Trust pour son entreprise. Ces sommes ont été considérées comme une contrepartie suffisante pour les paiements subséquents de capital et intérêts que M. Menzies a faits, à son tour, à la Western Trust.
+d) le salaire : stable, mais imprécis
+[25] Bien que la Cour soit convaincue que les hypothèses du ministre ont été infirmées concernant le fait que les versements hypothécaires à la BNC et à la Western Trust pourraient être des transferts personnels à Mme Menzies au lieu de remboursements de prêts commerciaux, une certaine considération sera néanmoins accordée au salaire enregistré.
+[26] En ce qui concerne la valeur du salaire, le ministre ne peut pas jouer sur les deux tableaux. Il ne peut pas toujours évaluer, comme il l’a fait, le cessionnaire et le cédant en se fondant sur le fait que le salaire était assumé en tant que dépense salariale de Menzies Inc. et tel un revenu imposable pour Mme Menzies et, par la suite, lorsque cela lui convient, rejeter cette position. Pour être clair, un tel établissement de la cotisation irréconciliable ne concerne pas des contribuables différents ou même des dépenses différentes d’un même contribuable. Si c’était le cas, le ministre ne serait certainement pas tenu d’être conséquent.
+[27] Toutefois, ce traitement incohérent concerne des versements identiques. Pendant plus d’une décennie, le salaire, la valeur, le montant, le payeur et le bénéficiaire ont été jugés acceptables. Qu’est-ce qui a changé? La dette fiscale de M. Menzies s’est tout simplement accrue. La nature des transactions, les montants, les efforts comptables et même la satisfaction à l’égard du salaire par l’intermédiaire des versements hypothécaires redirigés étaient stables, cohérents et acceptés depuis longtemps avant la période de transfert. La valeur et la contrepartie n’ont jamais été remises en question. Les versements avaient été comptabilisés et reflétés dans les écritures de journal des décaissements. Aucun montant ne semble avoir été versé en trop pendant la période de transfert. La preuve n’était pas parfaite, mais, tout compte fait, elle répond directement à la suggestion selon laquelle Mme Menzies n’a pas tenu compte du salaire qu’elle a reçu. Par ailleurs, étant donné l’existence des prêts commerciaux de la BNC et de la Western Trust, il est ironique que la confusion ait découlé de la comptabilisation de montants tels que le revenu salarial entre les mains de Mme Menzies, plutôt que d’un simple remboursement du capital et intérêts par l’entreprise directement à ses créanciers en vertu des prêts que Mme Menzies a contractés et avancés pour l’entreprise de son mari.
+[28] Bien qu’il ne s’agisse pas d’un facteur déterminant, il n’y a pas eu de départ, d’invention ou de tromperie contre l’objet de l’art. 325, soit pour empêcher l’une ou l’autre des parties de tenter de contrecarrer le recouvrement d’une dette fiscale par le ministre. Pendant 15 ans, l’entente a été acceptable et cohérente. Son existence de longue date, malgré la dette fiscale révélée plus tard, constitue un commencement de preuve d’une contrepartie approximative, sinon exacte, présentée par Mme Menzies. Par conséquent, à cet égard, en soi, la Cour est disposée à accepter le témoignage de Mme Menzies justifiant une contrepartie suffisante. Toutefois, compte tenu de l’existence des prêts commerciaux ci-dessus, c’est superflu.
+V. CONCLUSION
+[29] Pour les motifs exposés ci-dessus, il est fait droit à l’appel, avec dépens payables à l’appelante conformément au tarif en vigueur. S’il y a d’autres différends entre les parties au sujet des dépens, la Cour recevra les observations dans les 30 jours.
+Signé à Vancouver, Colombie-Britannique, ce 25e jour de janvier 2019.
+« R.S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2019TCC29
+NO DU DOSSIER DE LA COUR :
+2017-4127(GST)I
+INTITULÉ DE LA CAUSE :
+MARILENA MENZIES c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Windsor, Ontario
+DATE DE L’AUDIENCE :
+Le 20 novembre 2018
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 25 janvier 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Me Danny Branoff
+Avocat de l’intimée :
+MeDominik Longchamps
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

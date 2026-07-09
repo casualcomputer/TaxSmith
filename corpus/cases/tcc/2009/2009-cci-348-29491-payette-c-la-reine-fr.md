@@ -1,0 +1,193 @@
+---
+title: "Payette c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29491/index.do"
+last_modified: "2009-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 348"
+citation2: ""
+neutral_citation: "2009 CCI 348"
+decision_date: "2009-07-17"
+language: "fr"
+item_id: "29491"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6309
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:43:31.397000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e156707c0f5d6ab97c81fec409df2b8a161e53dc142da2eb2932f638f2ab5830"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Payette c. La Reine
+
+- Citation: 2009 CCI 348
+- Decision date: 2009-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6309, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Payette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-17
+Référence neutre
+2009 CCI 348
+Numéro de dossier
+2007-3534(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3534(IT)G
+ENTRE :
+RAYMOND PAYETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 18 décembre 2008, à Québec (Québec).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté avec dépens, si l’intimée les exige.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2009.
+« Gerald J. Rip »
+Juge en chef Rip
+Référence : 2009 CCI 348
+Date : 20090717
+Dossier : 2007-3534(IT)G
+ENTRE :
+RAYMOND PAYETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Raymond Payette appelle d’une cotisation d’impôt sur le revenu établie pour l’année 2005 dans laquelle le ministre du Revenu national (le « ministre ») a refusé d’accorder, en application de l’alinéa 18(1)a) de la Loi de l’impôt sur le revenu (la « Loi »), la déduction d’une perte d’entreprise de 64 785 $ et, en application du sous‑alinéa 37(1)a)(i) et du paragraphe 127(9) de la Loi, un crédit d’impôt de 13 757 $ pour des activités de recherche scientifique et de développement expérimental (« activités de RS&DE »), déduction et crédit qu’il avait demandés dans sa déclaration de revenus pour l’année 2005. Le principal motif invoqué par le ministre pour refuser de les accorder était que, selon lui, M. Payette n’exploitait pas d’entreprise en 2005.[1]
+[2] Au moment de l’instruction, M. Payette avait pris sa retraite du ministère des Finances du Québec où il avait travaillé pendant une trentaine d’années. Il est comptable agréé et il est également titulaire d’une maîtrise en administration publique. Il ne possède pas de formation scientifique. M. Payette développe des programmes d’ordinateur qu’il a l’intention de vendre.
+[3] L’appelant dit qu’il exploitait une entreprise pendant l’année faisant l’objet de l’appel. Son entreprise consistait dans l’exercice d’activités de recherche et de développement. En 2003, il a fait une demande de brevet international et une demande de brevet aux États-Unis à l’égard d’un système de propulsion qu’il avait développé, lequel système devait permettre aux véhicules spatiaux de se propulser sans interagir avec l’environnement. (Les demandes sont incluses dans le recueil de documents de l’appelant, pièce A‑1.) Le mécanisme de propulsion était conçu pour pousser un véhicule spatial sans utiliser de carburant; l’énergie électrique proviendrait de cellules photoélectriques. Après avoir, pendant trois ans, [traduction] « essayé d'obtenir un brevet et apporté des modifications à la demande », celle‑ci n’avait toujours pas été acceptée. M. Payette a témoigné que la demande avait été refusée par le bureau des brevets américain [traduction] « parce qu’il y avait un moratoire sur ce genre d’invention, ce dont [il n'était] pas au courant ». Le but de M. Payette était de gagner de l’argent en vendant le brevet ou en concluant des contrats de licence relatifs à celui‑ci. Il n’avait jamais eu l’intention de fabriquer le dispositif. Il a dit que, sans brevet, il n’avait [traduction] « rien à vendre ».
+[4] Se trouvant énumérées ci‑dessous les dépenses dont M. Payette veut obtenir la déduction et à l’égard desquelles il demande un crédit d’impôt pour des activités de RS&DE, lesquelles dépenses ont été engagées en 2003, en 2004 et en 2005, années durant lesquelles, affirme l’appelant, il exploitait une entreprise :
+2003
+2004
+2005
+Taxes
+110,00 $
+65,00 $
+85,00 $
+260,00 $
+Intérêts
+423,36 $
+723,69 $
+2 122,53 $
+3 269,58 $
+Frais de bureau
+734,07 $
+1 365,45 $
+2 375,86 $
+4 475,38 $
+Fournitures
+1 129,23 $
+501,65 $
+1 267,38 $
+2 898,26 $
+Frais juridiques
+4 011,37 $
+25 040,48 $
+15 927,71 $
+54 979,56 $
+Frais de voyages
+876,36 $
+876,36 $
+Ingénierie
+793,65 $
+1 232,22 $
+2 025,87 $
+17 201,68 $
+27 696,27 $
+23 887,06 $
+68 785,01 $
+[5] Les frais juridiques ont été engagés dans le but d’obtenir le brevet.
+[6] Mr. Payette n’a déduit de son revenu aucune des dépenses qu’il avait engagées en 2003 et en 2004. Si je comprends bien son témoignage, il n’a pas déduit les dépenses dans l’année où elles avaient été engagées parce qu’il exploitait une entreprise et les a donc accumulées. Puis, en 2005, il s’est rendu compte qu’il ne pouvait plus exploiter d’entreprise parce qu’il ne pouvait pas obtenir de brevet. Il a donc immobilisé les dépenses de 2003 et de 2004, et, y ajoutant les dépenses engagées en 2005, il a éliminé du bilan en 2005 les dépenses engagées pour les trois années. Il a déduit 68 785 $ dans le calcul de son revenu pour 2005. De la même façon, l’appelant a demandé le crédit d’impôt pour des activités de RS&DE pour 2005 à l’égard des dépenses engagées en 2003, en 2004 et en 2005.
+[7] M. Payette affirme qu’il exploitait une entreprise au cours des années 2003, 2004 et 2005. Dans son avis d’appel, il déclare qu’il a commencé à exploiter une entreprise, soutenant que le système de propulsion qu’il avait créé résultait de travaux de recherche scientifique et de développement expérimental. Il prétend avoir fait [traduction] « tout ce à quoi on pouvait s’attendre » pour obtenir un brevet, sans succès.
+[8] M. Payette a témoigné que son invention répondait aux besoins de la National Aeronautics and Space Administration (la « NASA ») des États-Unis pour l’exploration interstellaire par l’homme, car la NASA avait établi des buts qu'il fallait atteindre pour pouvoir faire de l’exploration interstellaire. Cela comprenait des méthodes de propulsion permettant d’éliminer ou de réduire radicalement le besoin de propergol, ainsi que de nouvelles méthodes de production d’énergie pour faire fonctionner les dispositifs de propulsion.
+[9] Le témoignage de M. Payette portait sur les efforts qu’il avait déployés en vue d'obtenir un brevet et de l’aide financière pour financer ses activités, lesquels efforts s’étaient tous soldés par un échec. Aucune preuve ni aucune indication ne vient corroborer son point de vue, à part son propre témoignage selon lequel la raison pour laquelle il n’a pas obtenu de brevet aux États-Unis était parce que le bureau des brevets des États‑Unis avait décrété un moratoire sur les inventions semblables à la sienne.
+[10] En mars 2003, M. Payette a constitué en société Space Crab Corporation, dont le nom a plus tard été changé pour devenir « Spacecraft Corporation ». La société était inactive : aucune réunion des administrateurs ou des actionnaires n’a eu lieu. De plus, sauf pour les besoins de l’organisation de la société, aucune résolution n’a été adoptée par les administrateurs ou les actionnaires et aucune action n’a été émise. La société avait l’autorisation d’ouvrir un compte bancaire, mais ne l’a pas fait. La preuve donne à penser – mais elle ne l'établit pas clairement et je ne tire aucune conclusion à cet égard – que M. Payette avait l’intention de transférer le droit de propriété du brevet à Spacecraft.
+[11] La preuve n’indique pas clairement du tout si c’était M. Payette ou Spacecraft qui exploitait la prétendue entreprise. Dans la correspondance échangée avec l’Agence du revenu du Canada (l’« ARC »), il a signalé qu’il avait payé toutes les dépenses de la société. Je suppose que ces dépenses sont celles qui sont en cause. En ce qui concerne l'exploitation possible par M. Payette d'une entreprise individuelle, il a admis, par exemple, que l’entreprise n’avait pas de compte bancaire. Toutefois, quand M. Payette a interjeté appel, il a prétendu que c'était lui qui exploitait l’entreprise et non la société. L’intimée a présenté une preuve pour contredire le fondement de la contestation de M. Payette, c’est‑à‑dire pour prouver que celui‑ci n’exploitait pas d’entreprise. En rédigeant les présents motifs, j’ai examiné la question de savoir si une entreprise était exploitée, qu'elle ait été exploitée par M. Payette personnellement ou par une société.
+[12] Mr. Payette a décrit son entreprise comme une [TRADUCTION] « entreprise de recherche ». Il n’a pas fabriqué de produit et il n’avait pas l’intention de le faire. Au moment de l’instruction, selon ses dires, il avait déposé dans d'autres domaines d’autres demandes de brevet qui étaient en cours d'examen. Il s’est décrit comme un [TRADUCTION] « inventeur » plutôt que comme un ingénieur.
+[13] Le seul client potentiel au Canada que M. Payette avait déterminé était l’Agence spatiale canadienne (l’« ASC »). Une des raisons pour lesquelles il avait renommé sa société Spacecraft Corporation était qu’il pensait que l’ASC accorderait à une personne morale un contrat ou une subvention pour lui permettre de prouver la valeur de son invention. Il a également fait appel à d’autres organismes gouvernementaux et a fait un placement privé à Vancouver pour obtenir de l’aide financière.
+[14] M. Payette a mentionné d’autres pays exerçant des activités dans le domaine du lancement de satellites et de l’exploration spatiale comme autres clients potentiels. Dans son plan d’entreprise, il a également fait mention de forums de communication et de fabricants de véhicules spatiaux. M. Payette voulait prouver la valeur de son invention : [TRADUCTION] « si je pouvais prouver au bureau des brevets qu’elle fonctionnait, et au moyen de sources bien connues, je n’aurais eu alors aucune difficulté à la faire breveter et je n'aurais pas eu de difficulté non plus à conclure des contrats de licence ou à la vendre ».
+[15] M. Payette a dit qu’il était lui‑même convaincu que le concept était réalisable, mais qu’il n’avait réussi à convaincre personne d’autre. Il s’est plaint qu’aucun ingénieur ne voulait examiner son concept parce qu’il n’avait pas mis au point de modèles, quoiqu’il ait dit avoir fabriqué un aéroglisseur radioguidé.
+[16] Il semble que l’ASC avait un programme de parrainage des innovations technologiques et que M. Payette avait présenté une demande de proposition à l’ASC dans le cadre du Programme de développement des technologies spatiales – technologies innovatrices. Des contrats ont bel et bien été adjugés à dix constructeurs qui ont réussi dans le cadre du programme des technologies innovatrices, mais pas à M. Payette ni à Spacecraft. En fait, la demande de M. Payette n’a pas obtenu la note de passage requise pour ce qui est des critères techniques et des critères de gestion et pour ce qui est de la note globale attribuée dans le cadre du processus d’évaluation de l’ASC.
+[17] Dans le sommaire de l’évaluation de la demande de M. Payette l’ASC a conclu, par exemple, en ce qui concerne les critères techniques, que les concepts et les principes d’ingénierie qui avaient été utilisés pour décrire la technologie proposée étaient incorrects, que la proposition ne démontrait pas une compréhension de la technologie ni la possession des compétences nécessaires pour appliquer les concepts et les principes d’ingénierie de base, et que, même si la méthode proposée permettrait probablement de résoudre les problèmes, la technologie présente des faiblesses fondamentales et il n’est pas possible de la développer. Selon l’évaluation de l’ASC, la construction d’un aéroglisseur pour prouver le concept n'offre pas un bon rapport coût‑efficacité et n'est pas pratique.
+[18] Un plan d’entreprise avait été inclus dans la proposition initiale que Spacecraft avait présentée à l’ASC en décembre 2003. La proposition présentait trois méthodes de financement, soit : le remboursement des coûts, des placements privés et le partenariat. Le scénario que M. Payette préférait était d’obtenir [TRADUCTION] « rapidement le soutien d’un organisme gouvernemental » et c’est la raison pour laquelle il avait présenté une proposition à l’ASC.
+[19] Mr. Payette a reconnu que la technologie en question se caractérise par des coûts élevés, des marges élevées et un faible volume. Le but visé par l’entreprise était la production de moteurs normalisés de grande qualité pour véhicules spatiaux pouvant être fabriqués à des marges élevées. Il s’est également rendu compte qu’il était nécessaire d’avoir des [TRADUCTION] « employés de haut niveau ». M. Payette se voyait comme le président‑directeur général. Il y aurait également un directeur de la technologie, un directeur des finances, un directeur des ventes et du marketing et un vice‑président directeur. Son plan d’entreprise comprenait une description de travail pour chacun de ces postes.
+[20] En ce qui concerne les critères de gestion, l’ASC était d’avis que le personnel de gestion proposé n’avait jamais mené à terme de projets où il s'agissait d'une technologie semblable à celle requise pour la proposition de M. Payette et ne possédait aucune expérience de la réalisation d'un tel projet; personne n’avait d’expérience en matière de gestion de projets de recherche et de développement. De plus, selon l’ASC, aucun membre de l’équipe technique n'avait fait d'études en physique, et ce, malgré les trois années de formation en ingénierie de M. Payette. Il n’y avait aucun collaborateur possédant de l’expérience dans un domaine technologique très connexe ou dans un domaine lié à l’espace. L’ASC a également critiqué le plan de gestion de M. Payette. Selon l’ASC, le manque d’expérience de la réalisation de projets semblables exposait l’équipe à des risques pour ce qui est du calendrier où sont effectuées les estimations en matière de revenu et de gestion. Il y avait également un manque de collaboration. Finalement, l’ASC a conclu dans son évaluation que [TRADUCTION] « la proposition indique que les possibilités d’affaires sont limitées et que l’effet global sera limité. Il est peu probable que la proposition améliore la stratégie globale utilisée par la société pour percer le marché dans le domaine de l’espace, étant donné que tous les partenaires potentiels ont refusé la demande de partenariat de la société ou se sont abstenus d'y répondre ».
+[21] Il ne faut pas rejeter, simplement au motif que le contribuable a fait preuve de trop d’optimisme en croyant qu’une invention possible pouvait mener au succès de l'entreprise ou au motif que l’entreprise était vouée à l’échec dès le départ, un appel interjeté à l’encontre d’une cotisation fondée sur l'opinion du ministre qu’aucune entreprise de recherche scientifique ou de développement expérimental n’était exploitée. En adoptant le paragraphe 37(1) de la Loi, le législateur voulait encourager la découverte scientifique et l’invention grâce à la recherche et au développement. Par conséquent, il ne faut pas donner une interprétation étroite à l’expression « exploite une entreprise » ou « exploiter une entreprise » : le juge Bowie dans la décision Synchrosat Limited v. Canada.[2] La Cour d’appel fédérale a dit qu’il ne faut pas être trop prompt à remettre en question rétrospectivement la sagesse d'une décision commerciale : Tonn c. Canada.[3]
+[22] L’appelant prétend qu’au cours de l’année faisant l’objet de l’appel, il a exploité une entreprise et qu’il a donc le droit de déduire des dépenses et de demander un crédit d’impôt pour des activités de RS&DE. Je n'ai aucun doute que l’appelant avait commencé à travailler à son projet de bonne foi, croyant qu’il pourrait atteindre son objectif. Cependant, compte tenu de la preuve qui m’a été présentée, je ne peux pas conclure qu’il exploitait une entreprise. Ses activités en 2005, de même qu’en 2003 et en 2004, comportaient essentiellement deux volets : obtenir du financement, principalement sous la forme d’une subvention gouvernementale, et obtenir un brevet. Ces activités ne peuvent pas en soi être assimilées à l’exploitation d’une entreprise; elles indiquent plutôt la préparation en vue de lancer une entreprise.
+[23] Les activités exercées par M. Payette n’avaient pas les éléments de commercialité nécessaires pour qu'elles constituent une entreprise. Il ne disposait pas de capitaux suffisants pour un projet d’une telle envergure et devait donc obtenir du financement. Par exemple, il ne disposait pas du capital qu'il fallait pour construire un prototype ou un modèle. Ses livres comptables, s’il en est, n’étaient pas – je dois conclure – tenus de façon professionnelle.[4] Or, aucun document de la sorte n’a été produit. Et j’ai déjà formulé des observations sur le problème quant à savoir si c’était M. Payette ou sa société qui avait présenté les demandes de brevet et de subvention.
+[24] D’après M. Payette, tout ce dont il avait besoin pour réussir était un brevet. Il demeure convaincu que si le bureau des brevets des États-Unis lui avait accordé un brevet, des clients potentiels se seraient présentés en masse. Il ne tient aucunement compte du fait qu’aucune organisation n’a accordé crédit à sa conception; il n’y a pas la moindre preuve que ses travaux constituaient de la recherche scientifique ou du développement expérimental. L’ASC a conclu que la proposition de M. Payette ne démontrait [TRADUCTION] « pas une compréhension de la technologie ni la possession des compétences nécessaires pour appliquer les concepts et les principes d’ingénierie de base […] la technologie présente des faiblesses fondamentales […] ». Il s’agit là d’opinions données par des tiers au cours de l’année 2005 et auparavant, et elles ne sont pas fondées sur une appréciation faite après coup. De l’aveu de M. Payette, ses travaux n’ont impressionné personne d’autre que lui‑même.
+[25] Aucune entreprise n’était exploitée par M. Payette en 2005. Il pensait que l’obtention d’un brevet réglerait ses problèmes. Selon l’ASC, l’invention comportait des faiblesses. Toutefois, même s’il avait obtenu un brevet, il n’existe absolument aucune preuve indépendante que quiconque aurait voulu obtenir une licence d'exploitation du brevet ou bien faire l’achat de celui‑ci. En cherchant à obtenir du financement et un brevet, M. Payette n'exploitait pas une entreprise, mais faisait plutôt des démarches en vue de lancer une entreprise. Au cours de l’année faisant l’objet de l’appel et avant, il n'avait pas le financement ou les actifs nécessaires pour établir l’entreprise qu’il imaginait, soit une entreprise où les travaux de recherche et de développement expérimental auraient été coûteux, bien au‑delà de ses moyens. Encore une fois, au mieux, il se préparait à lancer une entreprise. Aucune des activités exercées par M. Payette en 2005 ou avant n’était susceptible de générer un revenu.
+[26] Deux autres questions ont été portées à mon attention par M. Payette. La première est de savoir, dans l'hypothèse où il avait exploité une entreprise, s'il aurait eu le droit de déduire dans le calcul de son revenu pour 2005 les dépenses courantes qu’il avait engagées en 2003 et en 2004, mais qu’il avait immobilisées au lieu de les déduire dans le calcul de son revenu pour ces années‑là. La réponse à la question concernant la déduction de ces dépenses immobilisées par M. Payette se trouve aux alinéas 18(1)a) et b) de la Loi :
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie.
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part.
+[27] La deuxième question porte sur le crédit d’impôt pour des activités de RS&DE demandé par M. Payette pour 2005. Les dépenses à l’égard desquelles il a demandé le crédit comprenant les frais juridiques et les intérêts, lesquelles dépenses, selon l’article 2902 du Règlement de l’impôt sur le revenu, ne sont pas incluses dans la définition de « dépense admissible » figurant au paragraphe 127(9) de la Loi. Ce sont les dépenses admissibles qui donnent droit au crédit d’impôt pour des activités de RS&DE. De plus, il se peut que M. Payette ait présenté sa demande de crédit d’impôt pour des activités de RS&DE en retard.
+[28] Toutefois, comme j’ai conclu que M. Payette n’exploitait pas d’entreprise en 2005, il n’est pas nécessaire que j’examine ces questions en l’espèce.
+[29] L’appel est rejeté avec dépens, si l’intimée les exige.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2009.
+« Gerald J. Rip »
+Juge en chef Rip
+RÉFÉRENCE : 2009 CCI 348
+NO DU DOSSIER DE LA COUR : 2007-3534(IT)G
+INTITULÉ DE LA CAUSE : RAYMOND PAYETTE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 18 décembre 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 17 juillet 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Marie‑Claude Landry
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] M. Payette a témoigné en français et en anglais et les autres témoins ont témoigné en français. Les actes de procédure étaient en anglais et, quant aux documents présentés en preuve, il y en avait dans une langue et il y en avait dans l'autre.
+[2] [2000] A.C.I. no 662 (QL), 2000 DTC 2468, par. 24.
+[3] [1995] A.C.F. no 1635 (QL), 96 DTC 6001.
+[4] Martin c. Canada, [2003] A.C.I. no 318 (QL), [2003] 3 C.T.C. 2416.

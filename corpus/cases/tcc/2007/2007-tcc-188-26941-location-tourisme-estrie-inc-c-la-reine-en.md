@@ -1,0 +1,192 @@
+---
+title: "Location Tourisme Estrie Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26941/index.do"
+last_modified: "2007-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 188"
+citation2: ""
+neutral_citation: "2007 TCC 188"
+decision_date: "2007-03-19"
+language: "en"
+item_id: "26941"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 648
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:17:42.480000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "659d6ad1cf7940da8e8a304da702cd723c4dc3a275e04ba7dcde994a83ec0156"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Location Tourisme Estrie Inc. c. La Reine
+
+- Citation: 2007 TCC 188
+- Decision date: 2007-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 648, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Location Tourisme Estrie Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-19
+Neutral citation
+2007 TCC 188
+File numbers
+2005-3569(GST)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-3569(GST)G
+BETWEEN:
+LOCATION TOURISME ESTRIE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 19, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Brigitte Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Excise Tax Act, notice of which bears the number 22227 and is dated March 25, 2004, for the period from April 7, 2000, to March 31, 2003, is dismissed with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of April 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 19th day of February 2008.
+François Brunet, Revisor
+Citation: 2007TCC188
+Date: 20070413
+Docket: 2005-3569(GST)G
+BETWEEN:
+LOCATION TOURISME ESTRIE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from an assessment in respect of the period from April 7, 2000, to March 31, 2003, dated March 25, 2004, and whose notice bears the number 22227.
+[2] The issue is whether the Appellant was bound to owners of rental immovable property by a lease agreement, as claimed by the Appellant, or by a contract for services for the rental of the property to third parties, as suggested by the Respondent.
+[3] The only issue at stake in the assessment is the amount of $20,390.47 in respect of the goods and services tax, which, according to the Respondent, the Appellant should have collected from the owners on the commissions they paid to the Appellant for the rental of their property.
+[4] The Appellant is a registrant within the meaning of the Excise Tax Act. The two shareholders are Jeannette Lepage and Serge Roy, her spouse. Ms. Lepage is the president.
+[5] At first, Mr. Roy and Ms. Lepage were the owners of a few condos in the Orford area, which they rented. At the time, they did not live in the area. They moved there when they retired in spring 2000. They started a rental property business for vacation purposes. In that respect, they made an agreement with some cottage owners to rent them to vacationers.
+[6] Ms. Lepage stated before the Court that she always had the rental property available, that she was the lessee and that she did not act as a rental agency. The amount she remitted to the owners of the residences was rent and not commission.
+[7] The model agreement with the owners was filed as Exhibit I‑2. It is entitled “Rental Agreement, Cottages, Condos, Homes . . . .”
+[8] The agreement contains seven clauses entitled as follows: “Information on the Owner,” “Information on the Rental Unit,” “Owner’s obligations” “Manager’s obligations,” “Renewal,” “Additional Agreement” and “Terms and Conditions.”
+[9] The “Owner’s obligations” provide as follows:
+[TRANSLATION]
+· Provide the furniture, bedding, linens, etc.
+· Have liability insurance.
+· Not to disturb the lessee during his or her stay in the unit.
+· Not to hold the manager liable for the cost of damages or long-distance calls made by the lessee during his or her stay.
+· In the event that the unit is sold, this agreement may be transferred to the new purchaser; if he or she does not accept the agreement, he or she shall respect the rentals that have already been confirmed unless the manager is able to relocate the clients with compensation for the inconvenience.
+· Make replacements and urgent repairs as soon as possible in order to keep the rental.
+· Pay the manager at a rate of ___ % of the total amount of the rental which shall be deducted from the gross rental amount.
+[10] The rate normally included was 40%.
+[11] The description of the “Manager’s Commitment” is as follows:
+· Rent the unit at a price the manager deems appropriate by market standards for this type of property in the area.
+· Advertise and promote the rental of the unit.
+· Remit the rental amount less the deductions within fifteen business days after depositing the lessee’s cheques.
+· Do the cleaning and perform minor maintenance.
+· Take necessary measures such as invoices to the lessees or credit card numbers so as to recover the cost of damages or long-distance calls made by the lessees.
+[12] Gérald Ruest testified at the Respondent’s request. He is one of the owners. His agreement with the Appellant was filed as Exhibit I-4. I. Under “Additional Agreement,” Mr. Ruest indicated the dates on which his cottage would be available and also that he did not want any pets.
+[13] This was the only signed agreement tendered.
+[14] The Appellant, Nathalie Morin, also stated that she reserved periods for the use of her condo.
+[15] The two witnesses confirmed that they were not the ones who determined the rental prices. However, they were the ones who paid for the electricity and snow removal as well as the other expenses mentioned in the agreement.
+[16] The Appellant filed as Exhibit A‑1, three invoices issued to various individuals. They were the only registered owners with whom the Appellant did business. The others were not.
+[17] The invoice reads as follows:
+[TRANSLATION]
+. . .
+Rental from December 22 to 29, 02 ……..7 nights… $1,200.00
+Commission / advertisement / cleaning 480.00
+Amount remitted $720.00 720.00
+GST (143463388)……………………………………… 50.40
+QST (1023357794)…………………………………… 57.78
+Total amount remitted………………………………… $828.18
+. . .
+[18] The Appellant paid the GST and the QST on $720, which is considered to be the owner’s rental price to the Appellant. Therefore, according to the Appellant’s logic, the registrant’s number should have been that of the owner of the immovable property and not that of the lessee. The evidence revealed that the GST and QST numbers were those of the Appellant and not those of the registrants.
+[19] During the testimony of Mr. Ruest, the Respondent tendered a number of invoices concerning his property in Chéribourg. No GST or QST were added to the invoice. The first invoice reads as follows:
+[TRANSLATION]
+. . .
+Rental from October 6 to 8, 2001……..2 nights…….....….. $400.00
+Commission / cleaning / advertisement--------------------------160.00
+Amount remitted…………………………………………………..$240.00
+. . .
+[20] The reason given by the Appellant is that the owner was not registered. Therefore, he could not charge the tax on the rent.
+[21] It seems clear that the vacationers did not know the name of the owners of the immovable property they rented. However, the advertisement and the agreements between the vacationers and the Appellant were not tendered in evidence. It would appear that those agreements were on a reservation and invoice basis.
+Analysis and conclusion
+[22] Article 1851 of the Civil Code of Québec (the Code) reads as follows:
+Lease is a contract by which a person, the lessor, undertakes to provide another person, the lessee, in return for a rent, with the enjoyment of a movable or immovable property for a certain time.
+The term of a lease is fixed or indeterminate.
+[23] A lease provides the enjoyment of an immovable property for a certain time.
+[24] A contract for services is defined as follows in article 2098 of the Code:
+A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[25] A contract for services is a contract by which a person undertakes to provide a service, for a price which the client binds himself to pay.
+[26] As far as the legal relationship between the owners and the Appellant is concerned, are we dealing with a lease agreement or a contract for services?
+[27] Counsel for the Appellant argues that there is enjoyment of the immovable property and that the Appellant has rent to pay. According to him, this is a situation similar to certain business leases where the price is based on the gross volume of sales.
+[28] Counsel did not provide examples of those leases. I believe there would have been a description of the right to occupy specific premises for the periods of time specified in the agreement, for a price to be paid on a periodic basis.
+[29] In the present case, it must be noted that there is no enjoyment of the premises for a certain time by the alleged lessee, the Appellant. Nor is there rent to pay by the Appellant to the owners on a periodic basis. As I see it, to argue that there was a lease agreement between the Appellant and the owners is to state the opposite of the truth.
+[30] The legal relationship between the Appellant and the owners is quite obviously a contract for services.
+[31] What the evidence has revealed is that the owner agreed to entrust the task of renting his or her property to the Appellant for remuneration for that rental service. The enjoyment of the immovable property was provided to the vacationers and not the Appellant. The Appellant’s task was to find lessees.
+[32] When the property was rented, the owner received from the Appellant the rental amount of his or her property, less the amount of the remuneration stipulated in the agreement for the Appellant’s services, that is, a commission.
+[33] The fact that the owners and the vacationers did not know each other’s names is irrelevant. What is relevant is that the owner knew when his or her property was rented.
+[34] A commission was therefore paid by the owner to the Appellant, as it was through the Appellant that the property was rented.
+[35] In this case the Appellant provided a rental service. Since the Appellant is a registrant, it should have collected the tax on the service provided to the owners of rental immovable property.
+[36] Accordingly, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 13th day of April 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 19th day of February 2008.
+François Brunet, Translator
+CITATION: 2007TCC188
+COURT FILE NO.: 2005-3569(GST)G
+STYLE OF CAUSE: LOCATION TOURISME ESTRIE INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 19, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: April 13, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Brigitte Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Serge Fournier
+Firm: Brouillette Charpentier Fortin
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

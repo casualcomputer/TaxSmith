@@ -1,0 +1,215 @@
+---
+title: "Price Chopper Canada Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28829/index.do"
+last_modified: "2008-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 451"
+citation2: ""
+neutral_citation: "2008 CCI 451"
+decision_date: "2008-08-14"
+language: "fr"
+item_id: "28829"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1339
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:29:04.622000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "522b0f0a25af3ebe3481eedce9e8d2914db1363b0b4e1944eed26d0cb8f7828f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Price Chopper Canada Inc. c. La Reine
+
+- Citation: 2008 CCI 451
+- Decision date: 2008-08-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1339, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Price Chopper Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-14
+Référence neutre
+2008 CCI 451
+Numéro de dossier
+2007-3982(GST)I
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-3982(GST)I
+ENTRE :
+PRICE CHOPPER CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 10 juin 2008.
+Devant : L’honorable juge en chef adjoint E. P. Rossiter
+Comparutions :
+Représentant de l’appelante :
+M. Jefferson Jaiwant Sooknarine
+Avocate de l’intimée :
+Me Bonnie Boucher
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi sur la taxe d’accise pour la période allant du 30 septembre 1998 au 31 août 2003 est rejeté, avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour d’août 2008.
+« E. P. Rossiter »
+Juge en chef adjoint Rossiter
+Traduction certifiée conforme
+ce 26e jour de septembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008CCI451
+Date : 20080814
+Dossier : 2007-3982(GST)I
+ENTRE :
+PRICE CHOPPER CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Rossiter
+A. Introduction
+[1] Le présent appel a été interjeté par Price Chopper Canada Inc. (« PC Canada ») relativement à une cotisation établie le 20 mai 2005 par l’Agence du revenu du Canada (l’« ARC ») quant à la TPS pour la période allant du 30 septembre 1998 au 31 août 2003. L’appelante affirme avoir droit à des crédits de taxe sur les intrants (les « CTI ») d’environ 112 698,06 $ pour la TPS qu’elle a payée lors de l’achat de fournitures effectuées au Canada et de fournitures importées. Les questions en litige dans le présent appel sont de savoir qui était l’acquéreur des fournitures et qui en était l’importateur, s’il y a lieu, selon la Loi sur la taxe d’accise (la « LTA ») et la Loi sur les douanes (la « LD »).
+B. Faits
+[2] L’appelante exploitait une entreprise qui recevait des commandes de bracelets, fabriquait les bracelets, traitait les commandes et livrait les bracelets finis. Les bracelets étaient principalement composés de deux éléments : le papier et l’adhésif, et ce qui était imprimé sur le papier.
+[3] L’appelante n’avait ni bureau, ni adresse au Canada, mis à part une adresse postale au bureau de son comptable. L’unique actionnaire de l’appelante, Nyla Sooknarine, réside à Orlando, en Floride. L’appelante faisait affaire avec des fournisseurs, mais aussi avec d’autres entreprises, dont Price Chopper Inc. (« PC USA ») était la principale. Nyla Sooknarine est propriétaire de 10 % des actions de PC USA.
+[4] Habituellement, PC Canada passait une commande chez Unisource Canada, Inc. (« Unisource »), qui livrait ensuite la commande de façon graduelle directement chez l’imprimeur, SBS Imprinting Service (« SBS »), établi à London, en Ontario. Les factures et les commandes d’Unisource étaient adressées à PC Canada, à une adresse en Floride. PC Canada commandait l’adhésif chez Ludlow Technical Products (« Ludlow »), aux États-Unis, et ces commandes étaient livrées graduellement à SBS. À l’occasion, Cariflex (1994) Limited (« Cariflex ») envoyait des fournitures à PC Canada à partir de Trinité‑et‑Tobago.
+[5] Lors du procès, aucune facture n’a été présentée relativement aux adhésifs fournis par Ludlow. Les déclarations Canadek indiquaient que PC Canada était l’importateur, mais les commandes étaient expédiées aux soins de SBS, et les factures avaient la même forme si Ludlow ou si Cariflex expédiait les produits. La facturation était faite en dollars américains, et les déclarations Canadek faisaient état de sommes en dollars américains. Les déclarations Canadek étaient utilisées pour dédouaner les fournitures provenant de Ludlow et de Cariflex. Sur les documents de l’Agence des douanes du Canada, c’est PC Canada qui était indiqué comme importateur, et ce, peu importe si les produits étaient expédiés par Cariflex ou par Ludlow.
+[6] L’appelante faisait appel à Link Customs Services Ltd. (« Link ») pour s’occuper des fournitures quand elles arrivaient à la frontière américaine. Link s’occupait d’importer les fournitures au Canada, et elle facturait ensuite PC Canada en conséquence pour les droits de douane, la TPS et ses services. Pour la période pertinente, les factures de Link étaient envoyées à PC Canada à une adresse en Floride. Les bracelets, une fois traités ou fabriqués, étaient immanquablement envoyés à PC Canada ou PC USA, à la même adresse aux États‑Unis, ou encore à l’adresse de PC Canada en Floride, à savoir le 2721, rue Forsyth, pièce 210, Winter Park, Floride, 32792. L’appelante soutient qu’il existait des prêts de PC USA à PC Canada, ou des dettes de PC USA envers PC Canada, et que c’est pour cette raison que PC USA avait reçu comme instruction de payer les comptes de PC Canada auprès des fournisseurs de cette dernière.
+[7] Lorsque PC Canada été fondée en 1998, Nyla Sooknarine a écrit une note à son comptable pour lui expliquer le fonctionnement de PC Canada. Dans cette note, le fonctionnement de PC Canada était essentiellement décrit de la façon suivante : PC USA commandait et payait tous les composants des bracelets (c’est‑à‑dire la colle provenant de Ludlow et le papier provenant d’Unisource) et les envoyait à SBS, après quoi Link dédouanait les fournitures et les faisait entrer au Canada, puis Link facturait PC Canada. Certaines de ces factures étaient payées par PC Canada, et le reste par PC USA. Il y avait aussi des fournitures qui étaient envoyées à SBS à partir de Trinité‑et‑Tobago, et la TPS était facturée pour ces fournitures. Les factures d’Unisource incluaient aussi la TPS. Les adhésifs provenant de Ludlow venaient des États-Unis, et Link payait la TPS pour les importer au Canada, puis elle la facturait à PC Canada. Link renvoyait les bracelets finis aux États-Unis, à PC USA ou à des personnes qui avaient fait des commandes spéciales. PC USA payait SBS par transfert bancaire pour ses services d’impression, et PC Canada payait parfois au moyen de chèques tirés sur un compte personnel.
+[8] Lorsque l’ARC a mené une vérification relativement aux CTI, elle s’est fait fournir très peu de documents. Des relevés bancaires ont permis de recréer un sommaire des dépenses, qui a ensuite été comparé au grand livre général fourni par le comptable de l’appelante. Il existait d’importantes différences entre les chiffres d’affaires fournis pour l’application de la TPS et ceux qui avaient été inscrits dans les déclarations de revenus. Des CTI ont été accordés dans les cas où un rapprochement pouvait être fait entre un chèque et une facture. Il a été souligné que la plupart des factures étaient adressées à PC Canada, mais qu’elles avaient été envoyées à l’adresse de PC USA. Selon l’ARC, PC USA commandait le papier chez un fournisseur canadien, Unisource, et la colle chez un fournisseur américain, Ludlow, et envoyait ces fournitures à un imprimeur, SBS. PC Canada payait la TPS pour les fournitures quand Link facturait PC Canada pour la TPS et ses frais de courtage. PC Canada payait Link, mais le ministre du Revenu national a affirmé que PC Canada n’était pas l’importateur, et qu’elle n’a donc pas droit aux CTI. PC Canada payait la TPS parce que PC USA n’était pas un inscrit, et que cette dernière n’avait donc pas droit à des CTI. Comme le travail était fait au Canada, et que le produit final était exporté à un destinataire américain qui le recevait aux États-Unis, il fallait payer la TPS même si, sur papier, PC Canada était l’importateur. PC Canada ne prenait pas possession des fournitures. PC Canada n’était pas l’acquéreur de fournitures, et elle n’avait donc pas droit aux CTI. PC Canada n’était pas l’acheteur des fournitures. Si PC USA avait été un inscrit, elle aurait pu demander les CTI; n’étant pas un inscrit, PC USA pouvait transférer ce droit à SBS, à condition de fournir les documents américains nécessaires. Selon l’interprétation que le vérificateur de l’ARC a faite des documents qui lui avaient été fournis, les fournitures étaient facturées à PC USA et payées par celle‑ci. Environ 80 % des 112 698,06 $ de CTI qui n’ont pas été accordés se rapportaient à des importations. La plupart des ventes n’étaient pas consignées dans les dossiers de PC Canada. Presque toutes les fournitures ont été commandées et payées par PC USA. Les nombreuses tentatives de l’intimée pour obtenir davantage d’information et des précisions de l’appelante n’ont donné aucun résultat. Les demandes de renseignements quant à l’adresse permanente de l’établissement de l’appelante, au Canada ou ailleurs, sont restées sans réponse. Le compte d’impôt et le compte d’importateur de PC Canada ont été fermés en septembre 2001. Cependant, en 2003, l’appelante a déclaré un revenu dans une déclaration de TPS, mais elle n’a pas déclaré de revenu provenant d’une société ni de revenu d’importation après la fermeture de ses comptes.
+[9] Selon l’ARC, PC USA était l’importateur pour les raisons suivantes :
+(1) Les factures pour les fournitures provenaient de PC USA.
+(2) Les fournitures étaient commandées par PC USA.
+(3) Les paiements étaient faits par PC USA.
+(4) Aucune trace papier ne menait à PC Canada, mis à part le fait que les documents de douane (les déclarations Canadek) la désignaient comme importateur.
+(5) Il existait d’autres façons pour PC USA d’obtenir les CTI.
+C. Questions en litige
+[10] La Cour doit trancher deux questions :
+1. L’appelante était-elle l’acquéreur des fournitures effectuées au Canada?
+2. L’appelante était-elle l’importateur des fournitures importées?
+D. Droit et analyse
+(i) Dispositions législatives
+[11] L’obligation de payer la TPS pour les fournitures achetées au Canada est imposée par le paragraphe 165(1) de la LTA, qui était ainsi rédigé durant les années en cause :
+165(1) Taux de la taxe sur les produits et services – Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+[Non souligné dans l’original.]
+[12] L’obligation de payer la TPS pour les fournitures importées est imposée par l’article 212 de la LTA, qui était ainsi rédigé durant les années en cause :
+212 Taux de la taxe sur les produits et services – Sous réserve des autres dispositions de la présente partie, la personne qui est redevable de droits imposés, en vertu de la Loi sur les douanes, sur des produits importés, ou qui serait ainsi redevable si les produits étaient frappés de droits, est tenue de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur des produits.
+[13] Le droit de demander un CTI est établi par le paragraphe 169(1) de la LTA, qui était ainsi rédigé durant les années en cause :
+169(1) Règle générale [pour les crédits de taxe sur les intrants] – Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où :
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B :
+[…]
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[14] Pour l’interprétation du paragraphe 169(1) de la LTA, les définitions suivantes, tirées du paragraphe 123(1) de la LTA, sont pertinentes :
+123(1) Définitions – Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+[…]
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+[…]
+« acquéreur »
+a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+[…]
+Par ailleurs, la mention d’une personne au profit de laquelle une fourniture est effectuée vaut mention de l’acquéreur de la fourniture.
+(ii) Acquéreur
+[15] Les conditions préalables à une demande de CTI sont prévues au paragraphe 169(1) de la LTA. Lorsque la juge Campbell s’est penchée sur le droit qu’un contribuable avait de demander des CTI, elle a résumé les conditions prévues au paragraphe 169(1) de la LTA, dans General Motors of Canada Limited v. R., [2008] G.S.T.C. 41 (C.C.I.), au paragraphe 30 :
+(1) La personne qui fait la demande (GMCL) doit avoir acquis la fourniture (les services de gestion de placements);
+(2) La TPS doit être payable ou avoir été payée par la personne qui fait la demande (GMCL) à l’égard de la fourniture (les services de gestion de placements);
+(3) La personne qui fait la demande (GMCL) doit avoir acquis la fourniture (les services de gestion de placements) pour consommation ou utilisation dans le cadre de ses activités commerciales.
+(1) Acquisition de la fourniture
+[16] Dans leurs plaidoiries, aucune des parties n’a traité de la première condition, à savoir que la personne qui demande les CTI doit avoir acquis la fourniture. La preuve présentée au procès permet de répondre à cette question. PC Canada soutient qu’elle a acquis les fournitures, mais la preuve portant sur l’acquisition des fournitures est relativement peu convaincante. Selon la preuve présentée au procès, PC Canada ne faisait que recevoir des factures de Link pour les frais de courtage et la TPS relativement aux biens importés des États‑Unis. Le reste de la preuve montre que :
+a) PC USA commandait d’Unisource le papier destiné à la fabrication des bracelets.
+b) PC USA commandait l’adhésif de Ludlow.
+c) PC USA faisait livrer les fournitures provenant des États-Unis directement chez l’imprimeur, SBS, à London, en Ontario.
+d) Les factures relatives à ces fournitures étaient adressées à PC USA.
+e) PC USA payait habituellement ces factures.
+Bien qu’il ait été affirmé qu’il existait un prêt ou une relation débiteur‑créancier entre PC USA et PC Canada, cette affirmation était très faiblement étayée, et aucun document ou registre quelconque n’a été présenté pour démontrer l’existence d’une telle relation ou pour expliquer son fonctionnement. La présidente et unique actionnaire de PC Canada avait clairement expliqué au comptable de cette dernière (pièce R‑1) comment les transactions relatives aux fournitures étaient effectuées. PC Canada n’a jamais pris possession des fournitures importées, ni des produits qui étaient ensuite fabriqués. La fabrication des bracelets était complétée par SBS, et les bracelets étaient ensuite expédiés directement à l’acheteur final. Il n’a pas été démontré que l’appelante avait acquis les fournitures en cause.
+(2) Payable ou payée par la personne qui fait la demande
+(i) Fournitures effectuées au Canada
+[17] Selon le paragraphe 169 (1), des CTI peuvent être demandés lorsque la TPS était payable par la personne qui fait la demande. Pour les fournitures effectuées au Canada, c’est le paragraphe 165(1) de la LTA qui prévoit que l’acquéreur de la fourniture taxable doit payer la TPS. Ainsi, la personne qui a droit aux CTI est celle qui a acquis la fourniture taxable.
+[18] Selon la définition d’« acquéreur » se trouvant au paragraphe 123(1) de la LTA, l’acquéreur d’une fourniture taxable est la personne qui est tenue de payer la contrepartie aux termes de la convention portant sur la fourniture. Quoique l’appelante ait affirmé qu’elle était tenue de payer la contrepartie aux termes des conventions portant sur les fournitures, l’intimée a nié cette allégation en affirmant que PC USA était l’acquéreur de ces fournitures, et que c’est PC USA qui était tenue de payer les fournisseurs aux termes des diverses conventions portant sur les fournitures.
+[19] La responsabilité contractuelle semble être le critère primordial pour décider qui a droit aux CTI. Dans Y.S.I.’s Yacht Sales International Ltd. v. R., [2007] G.S.T.C. 59 (C.C.I), la juge Woods s’est exprimée de la sorte au paragraphe 57 :
+[…] une personne n’est pas un acquéreur au sens de la Loi sur la taxe d’accise à moins d’être tenue de payer la contrepartie aux termes d’une convention. […]
+Je tiens aussi à citer le commentaire suivant, fait par le juge Hersfield au paragraphe 26 de West Windsor Urgent Care Centre Inc. v. R., [2005] G.S.T.C. 179 (C.C.I.) :
+La définition d’« acquéreur » établit clairement une hiérarchie pour ce qui est de déterminer l’acquéreur de la fourniture d’un service. C’est la responsabilité de payer la fourniture qui permettra de savoir s’il existe une contrepartie payable. La personne qui reçoit la fourniture n’en est l’acquéreur que lorsqu’aucune contrepartie n’est payable.
+[20] La question est donc de savoir qui est tenu de payer aux termes de la convention, et non pas qui paye réellement. À la lumière de la preuve, je conclus que c’est PC USA qui était tenue de payer aux termes des conventions. PC USA commandait les fournitures, le papier d’Unisource et la colle de Ludlow, c’est à PC USA que les factures étaient adressées, et, selon la preuve présentée par l’intimée, c’est PC USA qui payait la plupart des factures. L’appelante a soutenu que PC USA lui devait de l’argent, et que celle‑ci remboursait sa dette en payant diverses factures, mais cette affirmation est incompatible avec la preuve présentée en l’espèce, et l’appelante a présenté très peu de preuves à ce sujet. Très peu, voire même aucun document n’a été présenté à l’appui de cette affirmation. L’une des causes principales du refus des CTI est que la vérification avait montré que les factures préparées par les fournisseurs étaient adressées à PC USA plutôt qu’à PC Canada. Ces preuves, de même que le témoignage de l’unique actionnaire et administratrice de PC Canada, peuvent certainement justifier la position adoptée par l’ARC sur la véritable nature de l’entreprise exploitée par PC Canada relativement au droit de demander les CTI.
+[21] Je n’ai pas été très impressionné par la preuve présentée par l’appelante. Bien que l’appelante ait présenté de nombreux documents par l’intermédiaire de son témoin principal, Jefferson Sooknarine, la plupart de ces documents n’étaient pas pertinents pour soutenir sa position. M. Sooknarine a souvent été vague, son témoignage et sa présentation de la preuve étaient décousus et peu pertinents. Les documents présentés par l’appelante ne soutenaient pas ses demandes de CTI, et ce, malgré les nombreuses demandes de l’intimée à cet égard. La preuve présentée par un témoin de l’intimée, Cameron Brent Wilson, un comptable en management accrédité et un vérificateur, était précise, concise, et elle portait sur les questions que la Cour devait trancher. Compte tenu de la preuve présentée lors du procès, je ne crois pas que PC Canada était tenue de payer la contrepartie en échange des fournitures effectuées au Canada; c’est plutôt à PC USA qu’incombait cette responsabilité.
+(ii) Fournitures importées
+[22] Lorsque ce sont des fournitures importées qui sont en cause, la question n’est pas de savoir si l’appelante était l’acquéreur des fournitures; il faut plutôt partir du principe voulant que les CTI peuvent être demandés par la personne qui est tenue de payer la TPS. L’article 212 de la LTA prévoit clairement que la personne qui est tenue de payer la TPS est celle qui est redevable de droits imposés, en vertu de la LD, sur des fournitures importées. Il faut donc se tourner vers la LD pour savoir qui est redevable des droits imposés sur des produits importés. Quoique l’appelante ait soutenu qu’aux termes de l’article 32 de la LD, le propriétaire ou l’importateur peuvent déclarer des biens importés et payer les droits afférents, l’article 32 de la LD ne crée pas l’obligation de payer des droits d’importation; il établit plutôt les exigences relatives au dédouanement des biens importés. La responsabilité du paiement des droits sur les biens importés est établie par le paragraphe 18(2) de la LD, qui est ainsi rédigé :
+18(2) Solidarité du déclarant et de son mandant – En cas d’application de l’article 12, le déclarant et son mandant ou employeur sont, sous réserve des paragraphes (3) et 20(2.1), solidairement responsables de tous les droits imposés sur les marchandises, sauf si, dans le délai réglementaire, l’un d’eux établit le paiement des droits ou, à propos des marchandises, l’un des faits suivants :
+a) elles ont été soit détruites ou perdues avant la déclaration, soit détruites entre le moment de la déclaration et leur réception en un lieu visé à l’alinéa c) ou par la personne visée à l’alinéa d);
+b) elles n’ont pas quitté le lieu de l’extérieur du Canada d’où elles devaient être exportées;
+c) elles ont été reçues dans un bureau de douane, un entrepôt d’attente, un entrepôt de stockage ou une boutique hors taxes;
+d) elles ont été reçues par une personne qui fait office de transitaire conformément au paragraphe 20(1);
+e) elles ont été exportées;
+f) elles ont été dédouanées.
+[23] Les paragraphes 18(3) et 20(2.1) de la LD ne sont pas pertinents en l’espèce. Le paragraphe 18(2) de la LD établit une responsabilité pour deux personnes : le déclarant et son mandant ou son employeur. La LD et la réglementation sur la déclaration de biens importés semblent être assez permissives quant à la personne qui peut déclarer des biens au bureau de douane le plus près.
+[24] En l’espèce, les services de Link étaient utilisés pour importer les biens au Canada. C’est Link qui payait les frais de courtage et la TPS, puis elle les facturait à PC Canada, qui semble les avoir payés, et ce, même si PC Canada n’a jamais eu de bureau ou de lieu d’affaires au Canada; PC Canada payait les factures à partir de la même adresse américaine que PC USA utilisait souvent.
+[25] L’appelante affirme qu’elle était l’importateur des fournitures en cause parce qu’elle était désignée comme tel dans les documents de déclaration. Il s’agit là d’une hypothèse erronée. Link ne représentait qu’un intermédiaire utilisé pour importer les fournitures, et comme la preuve mentionnée précédemment l’a montré, les fournitures étaient commandées par PC USA, elles étaient expédiées selon les directives de PC USA, elles étaient facturées à PC USA, elles étaient livrées à SBS, qui livrait les produits finis directement à PC USA ou à ceux qui les avaient commandés. Presque toutes les fournitures étaient payées par PC USA. Ces faits à eux seuls suffisent pour démontrer que c’est PC USA qui était l’importateur, et non pas PC Canada.
+[26] Comme les deux premières conditions permettant de demander des CTI n’ont pas été remplies, il n’est pas nécessaire de se pencher sur la troisième, à savoir si l’appelante avait acquis les fournitures pour consommation ou utilisation dans le cadre de ses activités commerciales. Je ne suis pas certain de la nature des activités commerciales que PC Canada menait, mis à part d’avoir eu une case postale et d’avoir envoyé de la paperasse d’un endroit à l’autre. PC Canada ne commandait pas les fournitures, elle ne payait pas les fournitures; son seul rôle était de prêter son nom en tant qu’importateur sur les documents de déclaration, et de payer les frais de courtage et la TPS. C’était les seules choses que PC Canada faisait. Il est vrai qu’elle avait expédié des commandes à l’intérieur du Canada, mais l’importance de ces commandes est infime relativement aux CTI demandés. Je suis très sceptique quant à l’importance des activités commerciales de l’appelante. Bien que l’appelante ait pu mener des activités commerciales, elles n’étaient assurément pas aussi importantes que l’a prétendu son principal témoin, M. Sooknarine.
+[27] Je crois que c’est à tort que l’appelante a demandé les CTI. Le témoin de l’intimée, M. Wilton, a clairement expliqué qu’il existait une façon de récupérer les CTI relatifs aux biens importés, mais qu’il s’agissait d’une autre méthode que celle utilisée par l’appelante. En considérant l’ensemble de la preuve, je conclus que l’appelante n’était pas l’acquéreur ou l’importateur des fournitures en cause, et qu’elle n’a donc pas droit aux CTI qu’elle avait demandés, sauf dans la mesure où l’ARC les a accordés. Je suggère donc à l’appelante de discuter avec l’ARC quant à la façon de demander les CTI.
+[28] L’appel est rejeté et les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 14e jour d’août 2008.
+« E. P. Rossiter »
+Juge en chef adjoint Rossiter
+Traduction certifiée conforme
+ce 26e jour de septembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI451
+No DU DOSSIER DE LA COUR :
+2007-3982(GST)I
+INTITULÉ :
+Price Chopper Canada Inc. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 juin 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef adjoint E. P. Rossiter
+DATE DU JUGEMENT :
+Le 14 août 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Jefferson Jaiwant Sooknarine
+Avocate de l’intimée :
+Me Bonnie Boucher
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

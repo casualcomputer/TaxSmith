@@ -1,0 +1,116 @@
+Title: O'Hara v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29093/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-620-29093-o-hara-v-the-queen.md
+Document type: case_law
+Last modified: 2008-11-24
+
+# O'Hara v. The Queen
+
+- Citation: 2008 CCI 620
+- Decision date: 2008-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6656, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Hara v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-24
+Référence neutre
+2008 CCI 620
+Numéro de dossier
+2007-656(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI620
+Date : 20081124
+Dossier : 2007-656(IT)I
+ENTRE :
+GARY K. O'HARA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l’appelant : L’appelant lui‑même
+Avocat de l’intimée : Me Devon Peavoy
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Halifax (Nouvelle‑Écosse), le 26 septembre 2007.)
+Le juge McArthur
+[1] Il s’agit d’appels interjetés à l’encontre de nouvelles cotisations établies à l’égard de l’appelant par le ministre du Revenu national (le « ministre ») pour les années d’imposition 1999 à 2004 inclusivement. La question à trancher est de savoir si l’appelant était un employé du groupe de sociétés Carlow. Les faits sur lesquels le ministre s’est fondé, qui sont énoncés au paragraphe 12 de la réponse à l’avis d’appel, sont exacts, mais les six premiers alinéas n’ont qu’une pertinence minime lorsqu’il s’agit de trancher les présents appels. Ces faits sont les suivants :
+[traduction]
+a) pendant les années en cause, l’appelant était l’unique actionnaire de la société 3022327 Nova Scotia Limited (la « société 3022327 »);
+b) la société 3022327 est exploitée sous les noms commerciaux « Watchdog Communications », « Watchdog Security » et « Auto King Sales »;
+c) la société 3022327 vend des ordinateurs et offre des services d’entretien et de réparation de ceux‑ci;
+d) la société 3022327 n’employait pas de personnel pendant les années en cause;
+e) pendant les années en cause, la société 3022327 a fourni ses services à au moins une des sociétés suivantes : Pajeck Management Limited, Bromwick Holdings Limited, ADCO Holdings, Alder Communications Limited ou 2034405 Nova Scotia Ltd. (collectivement appelées le « groupe Carlow »);
+f) l’appelant n’avait pas passé de contrat avec le groupe Carlow en vue de lui fournir ses services;
+g) le frère de l’appelant, Gerald O'Hara, était l’actionnaire majoritaire des sociétés composant le groupe Carlow;
+h) pendant les années en cause, le groupe Carlow a versé à l’appelant une rémunération hebdomadaire de 500 $;
+i) les sommes que l’appelant a reçues du groupe Carlow n’ont fait l’objet d’aucune retenue à la source;
+j) l’appelant a travaillé 44 semaines en 1999 et 52 semaines en 2000, en 2001, en 2002, en 2003 et en 2004;
+k) les revenus brut et net de l’appelant étaient supérieurs ou égaux aux montants mentionnés au paragraphe 11 ci‑dessus;
+l) pendant les années en cause, aucune société du groupe Carlow n’a déduit, retenu, remis ni versé de cotisations de l’assurance‑emploi ou de cotisations au Régime de pensions du Canada pour le compte de l’appelant, et n’a effectué de retenue d’impôt à la source au nom de celui‑ci;
+m) pendant les années en cause, l’appelant n’a reçu de la part du groupe Carlow aucun feuillet T4 ni autre relevé ou talon de chèque de paie faisant état de sa rémunération.
+Bien que j’aie qualifié ces hypothèses d’exactes, l’appelant conteste l’assertion contenue à l’alinéa k).
+[2] En quelques mots, les faits tels qu’ils m’ont été présentés révèlent notamment que l’appelant a occupé, à tout le moins pendant la période allant de 1991 à 1994, le poste de chef de service chez Suzuki Motors (« Suzuki »). En 1994, son frère Gerald l’a engagé à titre de directeur commercial pour le groupe Carlow, au même salaire annuel d’environ 39 000 $ qu’il touchait chez Suzuki. Je n’ai aucun doute quant au fait que Gerald O’Hara était le patron et que le groupe lui appartenait. Cela a été confirmé par trois témoins; deux d’entre eux, dont le fils de l’appelant, Jordan, avaient travaillé pour le groupe Carlow pendant une partie des années en cause, et le troisième était un ami intime de l’appelant, avec lequel ce dernier s’était entretenu de sa situation professionnelle au fil des années.
+[3] Gerald O’Hara et les diverses sociétés et entités qui lui appartenaient avaient le contrôle et étaient propriétaires de tout l’équipement, y compris des bureaux et des instruments de travail nécessaires pour surveiller et entretenir les installations de sécurité. Aucun témoignage n’est venu contredire la déclaration de l’appelant voulant que sa rémunération hebdomadaire se soit élevée à 500 $ pendant toute la période en cause, à l’exception d’un écart en 1999.
+[4] Il n’a pas été expliqué pourquoi, après l’année 1999 où il a été rémunéré au moyen de chèques dont les talons faisaient état de son salaire brut, des retenues à la source habituelles ainsi que de son salaire net, l’appelant n’a plus ensuite reçu que des chèques hebdomadaires de 500 $ émis par différentes entités membres du groupe Carlow, sans ventilation ni feuillet T4 annuel. Cela me laisse songeur, mais aucune explication ne m’a été fournie si ce n’est le témoignage de l’appelant voulant que son frère ait, semble‑t‑il, mené ses affaires en s’entourant d’un voile de mystère. L’appelant a expliqué que Gerald avait des difficultés financières et que, bien qu’il lui ait souvent promis de régulariser sa situation, il ne l’avait jamais fait.
+[5] En 2000, l’Agence du revenu du Canada (l’« ARC ») a mené une vérification approfondie à l’égard du groupe Carlow et de Gerald O’Hara. L’appelant a qualifié l’intervention du fisc de [traduction] « descente », parce que l’équipe de vérification présente se composait d’environ 13 membres, sans compter la GRC. Des accusations criminelles ont été portées contre le groupe Carlow et Gerald O’Hara, pour non‑versement des retenues à la source des employés ce me semble. Le groupe a plaidé coupable et s’est vu imposer une amende; les accusations portées contre Gerald O’Hara ont alors été retirées.
+[6] Au début de l’année 2000, Gerald O’Hara a souffert de sérieux problèmes cardiaques. L’appelant a continué de travailler pour le groupe Carlow, en dépit du fait qu’il ne recevait pas de feuillets T4, et qu’il se trouvait donc dans l’impossibilité de remplir ses déclarations de revenu, déclarations qu’il a finalement produites en retard. Il croyait que les 500 $ qu’il recevait hebdomadairement représentaient sa rémunération nette, déduction faite des cotisations de l’assurance‑emploi, des cotisations au Régime de pensions du Canada (le « RPC ») et de l’impôt. J’accepte son témoignage à cet égard, même si j’éprouve quelques réserves.
+[7] Pendant la période la plus difficile que le groupe Carlow ait connue sur le plan financier, un gros fournisseur d’équipement de sécurité a cessé de faire affaire avec les sociétés, et j’imagine que le groupe Carlow avait de lourdes dettes. Il est arrivé que Gerald O’Hara doive renvoyer des employés chez eux parce qu’il n’y avait pas d’équipement à installer. Afin de remédier au problème, l’appelant, par le truchement de sa société 3022327, a acheté les produits indispensables, en les payant en argent comptant, après s’être assuré que le groupe Carlow rembourserait sa société sans délai. Il ne s’agit manifestement pas d’un geste que poserait normalement un employé, mais j’accepte néanmoins l’explication de l’appelant. Gerald O’Hara se retrouvait dans une situation très difficile, il était confronté à de vives difficultés financières, et les fonctionnaires de l’ARC menaient une enquête sur ses sociétés et ses opérations financières. Dans un tel contexte, il n’est pas surprenant qu’il ait connu des problèmes de santé.
+[8] L’appelant occupait un poste de direction, et il s’est senti investi de la responsabilité de faire en sorte que le groupe Carlow continue ses activités et que les employés aient du travail. Je ne crois pas que les avances financières consenties par sa société aient été supérieures à 2 000 $, à quelque moment que ce soit. J’accepte ce geste comme celui d’un employé responsable, qui a tenu compte de la situation intenable dans laquelle se trouvait son frère ainsi que de la nécessité de continuer de fournir du travail aux employés, dont son fils, Jordan.
+[9] L’arrêt 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[1] de la Cour suprême du Canada met l’accent sur la question de savoir « à qui appartient l’entreprise? » ainsi que sur la réponse donnée à cette question. Dans les alinéas 12a) à f) de la réponse à l’avis d’appel, le ministre souligne le fait que l’appelant possédait sa propre entreprise, la société 3022327, qu’il exploitait sous les noms de « Watchdog Communications », « Watchdog Security » et « Auto King Sales ». Bien que le nom « Watchdog » fasse plutôt penser au type d’activités menées par le groupe Carlow, le ministre accepte que la société 3022327 [traduction] « vend des ordinateurs et offre des services d’entretien et de réparation de ceux‑ci ».
+[10] J’accepte le témoignage de l’appelant selon lequel la société 3022327 n’a que très peu travaillé pour le compte du groupe Carlow, et dans lequel il a évoqué le fait qu’il n’a trouvé qu’une seule facture, laquelle a été déposée en preuve[2], établie au nom d’Alder Communications pour trois heures de travail payées 15 $ chacune. Je conclus que les activités de la société 3022327 étaient négligeables en regard de l’ensemble de la situation. Tout bien considéré, il ne fait aucun doute dans mon esprit que l’appelant était un employé du groupe Carlow. Il est regrettable que ni Gerald O’Hara ni sa fille n’aient déposé. Cette dernière occupait un poste de cadre supérieure dans le groupe Carlow, je n’en tire toutefois aucune conclusion défavorable, si ce n’est que le frère de l’appelant se serait montré assez hostile.
+[11] Je vais examiner de nouveau les facteurs énoncés dans les arrêts Wiebe Door Services Ltd. v. M.N.R.[3] et Sagaz. En ce qui concerne le critère du contrôle, Gerald O’Hara, en sa qualité de propriétaire du groupe Carlow, exerçait un contrôle absolu sur l’appelant. À cet égard, nous disposons seulement du témoignage de l’appelant, corroboré par ceux de deux anciens employés et d’un ami. Ils ont tous déclaré que l’appelant était un employé, et non un entrepreneur indépendant. De même, en très grande majorité, les instruments de travail dont se servait l’appelant, comme l’immeuble à bureaux, les fournitures et le matériel nécessaire à l’installation des systèmes de sécurité, étaient la propriété du groupe Carlow, qui exerçait un contrôle sur eux.
+[12] En ce qui a trait aux chances de profit et aux risques de perte, l’appelant recevait un salaire fixe et ne participait pas aux profits ni aux pertes du groupe Carlow. Cet élément est solidement appuyé par le fait que l’appelant n’a jamais été mis en cause dans les enquêtes poussées que l’ARC a menées sur le groupe Carlow, ce à quoi on aurait pu s’attendre s’il y avait eu ne serait‑ce qu’un indice voulant qu’il soit plus qu’un employé. Or, l’appelant n’était pas actionnaire du groupe Carlow.
+[13] Il est inhabituel qu’aucune retenue à la source n’ait été effectuée pour les cotisations d’assurance‑emploi et au RPC ainsi que pour l’impôt, mais le groupe Carlow et Gerald O’Hara ont subrepticement et mystérieusement mené leurs activités sous de nombreux noms, en rémunérant tous leurs employés par le truchement de divers comptes bancaires, et en omettant de verser les retenues à la source au ministre. Il n’est pas étonnant qu’ils aient fait l’objet d’une vérification approfondie. Je suis convaincu que l’appelant n’était pas propriétaire du groupe Carlow, et les indices susmentionnés militent fortement en faveur de la position de l’appelant, à savoir qu’il était un employé.
+[14] Où cela nous mène‑t‑il? L’avocat du ministre conclut à juste titre que si la Cour décide que l’appelant est un employé, il a le droit de réclamer des crédits d’impôt au titre de l’assurance‑emploi et du RPC en vertu de l’article 118.7 de la Loi de l’impôt sur le revenu (la « Loi »), qui prévoit notamment ce qui suit :
+118.7 Le produit de la multiplication du taux de base pour l’année par le total des montants suivants est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+a) le total des montants que le particulier doit payer pour l’année à titre de cotisation ouvrière en application de la Loi sur l’assurance-emploi, à concurrence du maximum payable pour l’année en application de cette loi;
+b) le total des montants qu’il doit payer pour l’année à titre de cotisation d’employé en application du Régime de pensions du Canada ou d’un régime provincial de pensions au sens de l’article 3 de cette loi, à concurrence du maximum payable pour l’année en application de ces régimes, […]
+La responsabilité de payer les cotisations incombe à parts égales à l’employé et à l’employeur. Ainsi, si le groupe Carlow devait payer des cotisations d’assurance‑emploi et au RPC à l’égard de l’appelant en tant que son employé, celui‑ci a par conséquent droit à un crédit d’impôt.
+[15] Malheureusement pour l’appelant, la Loi ne contient aucune disposition semblable en ce qui concerne les déductions d’impôt. Comme l’a déclaré le juge Noël dans l’arrêt Neuhaus c. La Reine[4], en parlant d’une situation comparable à celle de l’appelant :
+[5] Le problème soulevé par la demanderesse en est un de recouvrement. À cet égard, l'article 222 confère compétence à la Cour fédérale en ces termes :
+Tous les impôts, intérêts, pénalités, frais et autres montants payables en vertu de la présente loi sont des dettes envers Sa Majesté et recouvrables comme telles devant la Cour fédérale [...]
+All taxes, interest, penalties, costs and other amounts payable under this Act are debts due to Her Majesty and recoverable as such in the Federal Court . . .
+[6] Dans la mesure où la demanderesse prétend avoir déjà payé les impôts qu'on lui réclame, elle pourra faire valoir ses droits devant la Cour fédérale lorsque le Ministre tentera de recouvrer les sommes qu'il considère exigibles. […]
+[16] En conclusion, l’appel est accueilli uniquement afin de permettre à l’appelant de réclamer les crédits d’impôts auxquels il a droit au titre des cotisations d’assurance‑emploi et au RPC pour les années en cause. Aux termes de l’article 222 de la Loi, la Cour n’a pas compétence pour décider si des montants ont été retenus à la source aux fins de l’impôt. Aucun crédit ne doit être accordé à l’appelant au titre du montant d’impôt qu’il doit payer pour les années en cause.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2008.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de décembre 2008.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI620
+NO DU DOSSIER DE LA COUR : 2007-656(IT)I
+INTITULÉ : Gary K. O'Hara et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 26 septembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 19 décembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Devon Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [2001] 4 C.T.C. 139 (C.S.C.).
+[2] Pièce A-9.
+[3] 87 DTC 5025 (C.A.F.).
+[4] 2002 CAF 391.

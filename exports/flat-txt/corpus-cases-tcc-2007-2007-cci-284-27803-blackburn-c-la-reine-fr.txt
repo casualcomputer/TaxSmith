@@ -1,0 +1,208 @@
+Title: Blackburn c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27803/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-284-27803-blackburn-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-02-19
+
+# Blackburn c. La Reine
+
+- Citation: 2007 CCI 284
+- Decision date: 2007-02-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 278, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blackburn c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-19
+Référence neutre
+2007 CCI 284
+Numéro de dossier
+2006-1120(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1120(IT)I
+ENTRE :
+JULIEN BLACKBURN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 19 février 2007, à Québec (Québec)
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocat de l'appelant :
+Me Maxime Allaire
+Avocate de l'intimée :
+Me Christina Ham
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 est accueilli sans frais et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, en tenant pour acquis que : dans l’année d’imposition 2002, les 4 800 $ payés pour l’unité du motel La Réserve sont déductibles et des frais de 1 595,28 $ pour le téléphone cellulaire sont déductibles et que dans l’année d’imposition 2003, des frais de 1 088,39 $ pour le téléphone cellulaire sont déductibles, le tout selon les motifs ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de juillet 2007.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2007CCI284
+Date : 20070724
+Dossier : 2006-1120(IT)I
+ENTRE :
+JULIEN BLACKBURN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Les questions en litige
+[1] L’appelant, M. Blackburn, était employé par Équipement Fédéral, Division de Gestion KCL West Inc. Il était rémunéré sous forme de commissions.
+[2] En déposant ses déclarations de revenus pour les années d’imposition 2002 et 2003, l’appelant a réclamé certaines dépenses d’emploi :
+Dépenses réclamées
+2002
+2003
+Hébergement
+5 400 $
+4 340 $
+Appareil photo
+377 $
+Assurance
+252 $
+Téléphone, Internet
+2 246 $
+2 652 $
+TOTAL
+8 023 $
+7 244 $
+Voir les pièces I-2 et I-3
+[3] En émettant une nouvelle cotisation le 24 janvier 2005, le ministre du Revenu national (le « ministre ») a refusé la déduction de ces frais.
+[4] Au début de l’audience, l’avocat de l’appelant a informé la Cour que son client ne contestait pas les dépenses réclamées pour l’appareil photo, l’assurance et l’Internet.
+[5] Il y a donc deux questions en litige, à savoir :
+1) Est-ce que l’appelant pouvait déduire les montants indiqués comme frais d’hébergement?
+2) Est-ce qu’il pouvait déduire les frais d’appels?
+Quant à la première question, la position principale de l’appelant était qu’il s’agissait de dépenses de bureau déductibles. Dans l’alternative, l’appelant a plaidé qu’il s’agissait de frais de déplacement déductibles selon l’alinéa 8(1)h) de la Loi de l’impôt sur le revenu (« la Loi »).
+[6] La première question à résoudre sera la nature des frais de 5 400 $ et 4 340 $, respectivement, déduits à la ligne « hébergement » de l’état des dépenses d’emploi déposé avec les rapports d’emploi de 2002 et de 2003. S’agit-il de frais d’hébergement ou de frais de bureau? S’il s’agit de frais d’hébergement, s’agit-il de dépenses de nature personnelle ou de frais de déplacement déductibles?
+Les faits – unité de motel/logement
+Quantum
+[7] Bien que le montant réclamé en 2002 était de 5 400 $, à l’audience l’appelant n’a réclamé que 4 800 $ en 2002 (3 600 $ en loyer plus 1 200 $ de « frais de conciergerie et de nettoyage » – voir pièce A-4). Ce quantum n’a pas été contesté.
+[8] Le montant réclamé en 2003 était de 4 340 $. À l’audience, l’appelant a déposé une liste de dépenses de travail pour 2003 (pièce A-5). Le quantum des montants relié au logement sur cette liste n’a pas été contesté. Cette liste énumère les dépenses suivantes :
+Loyer
+3 315,00 $
+Vidéotron
+716,51 $
+Hydro Sherbrooke
+307,98 $
+TOTAL
+4 329,49 $
+Ce total correspond à peu près au montant de 4 340 $ réclamé dans sa déclaration de revenus.
+[9] Il n’y eut aucune preuve quant à la nature ou au but des paiements à Vidéotron.[1] Je dois donc conclure que les frais de logement sont de seulement 3 622,98 $, soit le loyer plus les paiements à Hydro Sherbrooke.
+[10] En résumé, le quantum des dépenses en 2002 et en 2003 était de 4 800 $ et 3 622,98 $, respectivement.
+Utilisation de l’unité de motel/logement
+[11] L’appelant était représentant commercial pour la compagnie « Équipement Fédéral » pendant les deux années en question. Équipement Fédéral était concessionnaire de machines lourdes des marques Komatsu et Timberjack.
+[12] Pendant les deux années en question, le territoire de vente de l’appelant était les Cantons de l’Est du Québec. Au moment où l’appelant a accepté ce poste, il résidait à Saint-Georges de Beauce. À cause de son expérience, ses patrons lui ont demandé de leur rendre service en prenant cet emploi sur une base temporaire, le temps que l’employeur engage quelqu’un qui réside à Sherbrooke. L’appelant s’attendait à occuper ce poste pendant cinq ou six mois.
+[13] Pour se rendre de Saint-Georges de Beauce à Sherbrooke, il y a une heure et demie de route environ, plus de trois heures aller-retour.
+[14] Toute la vie sociale et familiale de l’appelant était à Saint-Georges de Beauce. La conjointe de l’appelant est restée à Saint-Georges de Beauce et l’appelant vivait à Saint-Georges quand l’audience de cette cause a été entendue.
+[15] Les frais réclamés à la ligne « hébergement » de l’état des dépenses d’emploi étaient, en 2002, pour la location d’une chambre au motel La Réserve à Sherbrooke et, en 2003, pour la location d’un logement à Sherbrooke sur la rue Jacques-Cartier.
+[16] En 2002, l’appelant avait une entente avec le propriétaire du motel afin qu’il ait toujours la même chambre. Il arrivait le lundi matin et ressortait le vendredi.
+[17] En 2003, d’après les pièces A-5 et A-3, l’appelant aurait payé 310 $ par mois de loyer de janvier à juin, 155 $ en juillet et 260 $ d’août à décembre. En témoignant, l’appelant n’a pas expliqué ces variations, mais les reçus (pièce A-3) de janvier à juillet indiquent à la deuxième ligne, après le nom de l’appelant, « 21 ». Les reçus d’août à décembre indiquent « 27 ». Le reçu pour le mois d’août a la mention « … pour loyer août moitié du mois ». Il semble que l’appelant ait changé d’unité après le mois d’août et qu’il n’a loué une unité que pour 11 mois et demi.
+[18] L’appelant a témoigné que l’unité au motel La Réserve en 2002 et le logement rue Jacques-Cartier en 2003 lui servaient de bureau. Il a dit que son employeur avait exigé qu’il ait un bureau, que l’unité au motel La Réserve et le logement rue Jacques-Cartier servaient à 98 % à l’accomplissement de son travail et qu’entres autres choses, il rencontrait régulièrement des clients dans ces unités.
+[19] L’appelant a déposé (pièce A-1) un formulaire T2200 pour les années 2002 et 2003. La partie B a été préparée et signée par l’employeur. Dans la partie B, la question 9a) des deux formulaires pose la question suivante :
+« Avez-vous exigé que cet employé, selon son contrat :
+loue un bureau hors de votre établissement ou utilise une partie de son domicile? »
+À la pièce A-1, la réponse indiquée aux formulaires pour 2002 et 2003 est « oui ».
+[20] Par contre, l’original du formulaire pour 2002 (pièce I-2) indique clairement que la réponse est « non ». En contre-interrogatoire, l’appelant a admis qu’il avait changé la réponse de « non » à « oui » sur le formulaire 2002 qu’il a déposé (pièce A-1).
+[21] Les frais en question apparaissent à la ligne « hébergement » des états des dépenses d’emploi déposés avec les déclarations de revenus (pièces I-2 et I-3), et non à la ligne « autres frais » où il y aurait la possibilité de préciser qu’il s’agit de location de bureau.
+[22] L’appelant a admis qu’il pouvait lui arriver de coucher de deux à trois fois par semaine à Sherbrooke selon la météo et vu le temps de trajet.
+[23] Dans son témoignage, il a dit qu’il travaillait régulièrement de 6 h 30 ou 7 h le matin à 21 h 30 ou 22 h le soir. Cela voudrait dire que les soirs où il couchait à Saint-Georges de Beauce, il partait de Saint-Georges à 5 h ou 5 h 30 du matin et qu’il rentrait à Saint-Georges à 23 h ou 23 h 30 le soir, pour ensuite repartir de Saint-Georges six heures plus tard.
+[24] Selon le témoignage de Mme Couturier, la vérificatrice de l’Agence du Revenu du Canada, au stade du projet de cotisation, l’appelant aurait dit qu’il travaillait 40 heures par semaine.
+[25] L’équipement vendu par l’appelant se vendait à des prix allant de 100 000 $ à plus d’un million de dollars.
+[26] L’appelant a témoigné qu’il allait visiter les clients et qu’il rencontrait non seulement les personnes qui décidaient des achats, mais qu’il allait également rencontrer les personnes qui travaillaient sur les chantiers, car les utilisateurs ont une influence sur ceux qui décident des achats. Ces visites pouvaient aussi bien se faire à 7 h du matin en apportant des beignes au chantier, au cours de la journée ou en allant souper le soir avec le contremaître.
+[27] L’appelant a fait à peu près 69 000 km de route par affaires en 2002 (pièce I-1) et à peu près 66 000 km en 2003 (pièce I-4). L’employeur lui remboursait ses frais d’automobile au taux de 26 ¢ par kilomètre.
+[28] Avec tant de kilométrage, il est évident que l’appelant passait beaucoup d’heures à voyager et à rencontrer ses clients sur leurs lieux de travail.
+[29] En contre-interrogatoire, l’appelant ne pouvait pas donner de précisions sur la fréquence ou la régularité des visites de clients à l’unité du motel La Réserve ou au logement rue Jacques-Cartier.
+[30] L’appelant n’a pas produit d’agenda ou autre document semblable qui aurait pu fournir des précisions sur qui il rencontrait, quand et où.
+[31] Mme Couturier a témoigné qu’au début de la vérification, l’appelant n’a jamais mentionné qu’il rencontrait des clients à l’unité du motel La Réserve ou au logement rue Jacques-Cartier. Elle a témoigné que l’appelant a dit qu’il rencontrait les clients au motel ou au logement seulement après que le projet de cotisation a été émis. Après que le projet a été émis, il a dit qu’il passait 20 heures par semaine sur la route et 20 heures à rencontrer ses clients chez lui.
+[32] Dans la mesure où l’appelant faisait de très longues heures comme il l’a décrit, il devait nécessairement dormir très souvent à Sherbrooke en semaine. Si, par contre, il travaillait 40 heures par semaine comme il l’a dit à la vérificatrice à une étape de la « vérification », il est évident qu’en faisant plus de 65 000 km de route par an, il faisait son travail en se déplaçant pour rencontrer ses clients.
+[33] En évaluant globalement la preuve, y compris les éléments décrits précédemment, je conclus que l’unité du motel et l’appartement rue Jacques-Cartier servaient de logement à Sherbrooke, et non de bureau. Je n’exclus pas qu’ils aient été utilisés de façon accessoire pour la réalisation du travail de l’appelant, mais l’essentiel de son travail se faisait ailleurs.
+Analyse de la première question
+[34] Le paragraphe 8(2) de la Loi prévoit que :
+« Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré… d’un emploi. »
+Le paragraphe 8(1) de la Loi prévoit que :
+« Sont déductibles dans le calcul du revenu d’un contribuable tiré… d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenu, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant. »
+[35] Étant donné que l’unité de motel et l’appartement n’étaient pas un bureau, l’appelant ne peut se prévaloir du sous-alinéa 8(1)i)(ii) de la Loi pour réclamer la totalité des montants de 4 800 $ et de 3 622,98 $ en 2002 et 2003, respectivement.
+[36] Est-ce que l’utilisation accessoire de l’unité de motel ou de l’appartement permettrait une déduction partielle des montants réclamés? Factuellement, la preuve ne permet pas de déterminer qu’une portion des dépenses pourrait raisonnablement être considérée comme se rapportant à des dépenses de bureau plutôt qu’à des dépenses de logement.[2],[3]
+Argument alternatif de l’appelant
+[37] La position alternative de l’appelant était qu’il s’agissait de dépenses déductibles comme frais de déplacement au sens de l’alinéa 8(1)h).
+[38] L’appelant travaillait habituellement ailleurs qu’au lieu d’affaires de son employeur et à différents endroits. Il était tenu d’acquitter les frais qu’il engageait pour l’exécution de son travail en vertu de son contrat d’emploi (pièce I-1, première question).
+[39] La question qui reste est : « Est-ce qu’il s’agissait de frais de déplacement ou de frais personnels »?
+[40] Pour y répondre, il est pertinent de tenir compte du fait que la vie sociale et familiale de l’appelant était à Saint-Georges de Beauce, que son épouse était à Saint-Georges et qu’il y avait toujours la résidence familiale à Saint-Georges. L’appelant se déplaçait de Saint-Georges à Sherbrooke pour aller travailler.
+[41] Il faut également tenir compte du principe que le choix de vivre dans une ville plutôt qu’une autre est un choix personnel et que les dépenses encourues pour se rendre au travail sont des dépenses personnelles et ne sont pas déductibles.
+[42] Si une personne qui vit dans une ville prend un emploi dans une autre ville très loin de chez elle, elle ne peut déduire les coûts encourus par le choix de ne pas déménager. Ceci comprend non seulement les frais de transport, mais également les frais de nourriture et de logement.[4] Par contre, la Loi prévoit la déduction de frais de déménagement.[5]
+[43] Nous avons donc deux principes importants :
+1) Les frais de déplacement pour exercer ses fonctions d’emploi sont déductibles.
+2) Par contre, les frais encourus par le choix d’où l’on vit sont des frais personnels.
+[44] À quel moment est-ce que la décision de se déplacer plutôt que de déménager devient-elle un choix personnel? On ne pourrait raisonnablement conclure que le fait de ne pas déménager sa résidence pour un voyage d’affaires de quelques semaines est un choix personnel. Par contre, si quelqu’un prend un poste permanent dans une autre ville lointaine, il ne peut y avoir de doute qu’il s’agit d’un choix personnel si la personne garde sa maison et sa famille dans la ville d’origine et choisit de voyager tous les lundis matins et vendredis soirs entre les deux villes et de louer un petit appartement dans la ville où il travaille.
+[45] Dans ce cas, il est très important de mentionner que l’appelant travaillait déjà pour Équipement Fédéral au moment où il a pris le poste basé à Sherbrooke et qu’il s’attendait à travailler dans ce poste pendant seulement cinq à six mois.
+[46] Vu l’effort que demande un déménagement et un redéménagement, on ne peut qualifier de choix personnel le fait que quelqu’un soit muté par son employeur dans une autre ville sur une base temporaire pour une période relativement courte.
+[47] Si l’emploi temporaire se prolonge, il y a un moment où le choix de déménager devient personnel.
+[48] Dans Procureur général du Canada c. Alain Tremblay[6], un agent de la Gendarmerie royale du Canada a été envoyé à Montréal pour suivre un cours d’anglais pour une période d’environ huit mois; la Cour d’appel fédérale a accepté que l’appelant déduise les frais de logement et de repas payés à la famille qui le logeait.[7]
+[49] Dans les circonstances de la présente cause, particulièrement vu le fait qu’à l’origine l’emploi ne devait avoir qu’une durée de cinq ou six mois, il est raisonnable de considérer que les frais de logement de 4 800 $ en 2002 étaient des frais de déplacement déductibles. Par contre, après 2002, le choix de ne pas déménager est devenu un choix personnel.
+Deuxième question – les frais de téléphone cellulaire
+[50] Pendant l’année 2002, l’appelant a engagé des dépenses de téléphone cellulaire de 3 288,56 $, Équipement Fédéral a remboursé 1 200 $ et l’appelant a réclamé une déduction de 2 238,56 $ (pièce A-4).
+[51] Pendant l’année 2003, l’appelant a engagé des dépenses de téléphone cellulaire de 3 816,41 $, Équipement Fédéral a remboursé 2 155,56 $ et l’appelant réclamé la différence de 1 660,85 $ comme dépense déductible (pièce A-5).
+[52] Dans la mesure où les dépenses de téléphone cellulaire sont engagées pour des fins d’affaires, elles sont déductibles selon l’alinéa 8(1)f). La question est donc une question de fait.
+[53] Mme Couturier, la vérificatrice, a témoigné qu’elle a contacté l’employeur et que l’employeur lui a dit que l’appelant pouvait recevoir une allocation maximum de 280 $ par mois pour les frais de télécommunication payable sur présentation de factures. L’intimée a conclu que tous les frais qui n’étaient pas payés par l’employeur devaient être personnels.
+[54] L’appelant a témoigné que le montant remboursable a varié au cours des années – qu’au départ c’était 100 $ par mois et que cela a graduellement augmenté.
+[55] L’appelant a déposé ses comptes de téléphone pour sept des 24 mois – il ne pouvait obtenir les autres et il a fait une analyse pour éliminer les appels personnels. Selon cette analyse, un peu plus de 9 % des appels étaient personnels (pièce A-6).
+[56] J’accepte le témoignage de l’appelant sur ce point. Toutefois, la méthode utilisée par l’appelant pour analyser les comptes était d’éliminer les appels aux numéros de téléphone qui représentaient des appels personnels. Pour tous les appels reçus par l’appelant, les comptes de téléphone (pièce A-6) montrent simplement le numéro de téléphone cellulaire de l’appelant. Pour tenir compte du fait qu’une portion des appels reçus sont personnels, il faut ajuster le pourcentage d’appels personnels. Je conclus que globalement 15 % de tous les appels étaient personnels.
+[57] En conséquence, pour 2003 le montant déductible pour le téléphone cellulaire est de 1 088,39 $.[8]
+[58] Pour 2002, le montant déductible est de 1 595,28 $.[9]
+[59] En 2003, l’appelant a réclamé dans sa déclaration de revenus 2 652 $ de frais de téléphone (pièce I-3). Ce montant comprenait 1 660,85 $ de frais de téléphone cellulaire non remboursés plus 990,68 $ de frais qui sont pour le téléphone dans le logement (pièce A-5). Aucune preuve n’a été faite que ce téléphone dans le logement était utilisé par affaires; en conséquence, aucune partie du 990,68 $ n’est déductible.
+Conclusion
+[60] En conclusion, l’appel est accueilli sans frais[10] et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, en tenant pour acquis que :
+1) dans l’année d’imposition 2002,
+a) les 4 800 $ payés pour l’unité du motel La Réserve sont déductibles et
+b) des frais de 1 595,28 $ pour le téléphone cellulaire sont déductibles, et que
+2) dans l’année d’imposition 2003, des frais de 1 088,39 $ pour le téléphone cellulaire sont déductibles.
+Signé à Ottawa, Canada, ce 24e jour de juillet 2007.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2007CCI284
+Nº DU DOSSIER DE LA COUR : 2006-1120(IT)I
+INTITULÉ DE LA CAUSE : JULIEN BLACKBURN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 19 février 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 24 juillet 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Maxime Allaire
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Maxime Allaire
+Cabinet : Blanchette Vachon et Associés
+Sainte-Marie (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il se peut qu'il s'agisse des frais d'Internet, réclamation abandonnée par l'appelant. Cela n'est pas certain vu qu'il y a mention des frais d'Internet seulement à l'état des dépenses pour 2002 (pièce I-2).
+[2] Dans le cas de l’année 2002, même si une telle détermination pouvait être faite, elle n’est pas nécessaire vu la conclusion que l’appelant peut de toute façon déduire ces dépenses. Voir les paragraphes suivants.
+Pour la même raison, il n'est pas nécessaire d'examiner l'effet du paragraphe 8(10) de la Loi relativement à la question 9a) du T2200 pour l’année 2002 (pièce I-1).
+3 En ce qui concerne l’année 2003, l’appartement est un « établissement domestique autonome » au sens du paragraphe 248(1) de la Loi. L’appelant y résidait régulièrement au sens du paragraphe 8(13) de la Loi pendant qu’il travaillait à Sherbrooke. Vu que l’appartement n’était pas le lieu où l’appelant accomplissait principalement ses fonctions (sous-alinéa 8(13)a)(i)) et que la preuve n’a pas révélé qu’il y avait une partie qui était utilisée exclusivement pour l’emploi de l’appelant (sous-alinéa 8(13)a)(ii)), le paragraphe 8(13) a pour effet de nier la déduction d’une partie du loyer.
+[4] Voir la décision de la Chambre de Lords dans Ricketts c. Colquhoun [1926] A.C. 1 citée dans Maurice Samson c. MRN [1943] CTC 47 une décision du juge Thorson de la Cour de l’Échiquier. Dans Ricketts, un avocat résidant et pratiquant le droit à Londres détenait une charge à Portsmouth et réclamait la déduction de ses frais de transport entre Londres et Portsmouth ainsi que ses frais d'hôtel à Portsmouth. La Chambre des Lords a décidé que le fait de vivre loin de son travail à Portsmouth était un choix personnel et a refusé ces dépenses.
+[5] Article 62.
+[6] CAF décision du 26 novembre 1997 : http://decisions.fca-caf.gc.ca/fr/1997/a-145-96/a-145-96.html ; 98 DTC 6008
+[7] L'appelant a cité la cause de Gariépy [2006] 2 C.T.C. 2033; les circonstances dans Gariépy sont assez différentes. M. Gariépy était employé par le service d’incendie et vivait assez près de son emploi, à une distance de 30 ou 40 km. Il pouvait facilement se rendre tous les jours de travail régulier – du lundi au vendredi de 8 h à 16 h 30. Il devait aussi être de garde une semaine sur trois, 24 heures par jour. Pendant ces périodes de 168 heures où il était de garde, il était obligé par son employeur de rester en ville pour être en mesure de répondre rapidement aux appels d'urgence, mais il ne pouvait pas rester à la caserne.
+[8] Calcul : 3 816,41 $ X 0,85 = 3 243,95 $
+3 243,95 $ - 2 155,56 $ (remboursés par l’employeur) = 1 088,39 $ le montant déductible
+[9] Calcul : 3 288,56 $ X 0,85 = 2 795,28 $
+2 795,28 $ - 1 200,00 $ (remboursés par l’employeur) = 1 595,28 $ le montant déductible
+[10] L'alinéa 18.26(1)f) prévoit qu'aucun frais n'est payable à moins que le jugement réduise de plus de la moitié le total des montants en cause. Dans cette cause, l’appelant à l’origine a réclamé 15 267 $ en déductions additionnelles (paragraphe A.2 de l’avis d’appel). Ce jugement renvoie le tout pour recotisation sur la base que l’appelant a droit à 7 483,67 $ en déductions additionnelles, un peu moins que la moitié. Sans connaître le taux marginal, il est impossible de savoir si l’impact sur l’impôt va dépasser le seuil de la moitié.
+Toutefois, même si le seuil était dépassé, je n’accorderais pas les frais dans cette cause pour deux raisons. Premièrement, le succès est plus ou moins divisé également. Deuxièmement, tel qu’il est décrit aux paragraphes [19] et [20], l’appelant a déposé en preuve une copie du formulaire T2200 pour l’année 2002. Or, l’appelant a modifié la réponse originale de l’employeur à la question 9a) de la partie B de la pièce A-1 avant de la déposer. En examen direct, il n’a jamais dit qu’il avait modifié la réponse à 9a). Ce n’est qu’en contre-interrogatoire qu’il a admis avoir changé la question. Cette conduite est inadmissible.

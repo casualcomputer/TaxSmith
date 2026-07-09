@@ -1,0 +1,200 @@
+---
+title: "Construction Daniel Provencher Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27625/index.do"
+last_modified: "2007-03-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 147"
+citation2: ""
+neutral_citation: "2007 TCC 147"
+decision_date: "2007-03-22"
+language: "en"
+item_id: "27625"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 446
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:17:02.514000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4027c3c6e876e20dbe3a2c1b53011f7265b7d6797026922cd3c980fad499f5f9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Construction Daniel Provencher Inc. c. La Reine
+
+- Citation: 2007 TCC 147
+- Decision date: 2007-03-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 446, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Construction Daniel Provencher Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-22
+Neutral citation
+2007 TCC 147
+File numbers
+2003-1147(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-1147(GST)G
+BETWEEN:
+CONSTRUCTION DANIEL PROVENCHER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 6, 2007, at Shawinigan, Quebec.
+Before: The Honourable Réal Favreau
+Appearances:
+Counsel for the Appellant:
+François Daigle
+Counsel for the Respondent:
+Robert Poupart
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated April 15, 2002, and bears the number 02306242, pertaining to the goods and services tax for the period from February 1, 1994, to January 31, 2001, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 22nd day of March 2007.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 20th day of February 2008
+François Brunet, Revisor
+Citation: 2007TCC147
+Date: 20070322
+Docket: 2003-1147(GST)G
+BETWEEN:
+CONSTRUCTION DANIEL PROVENCHER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is the appeal from an assessment made under subsections 191(1) and 298(4) of the Excise Tax Act (the “Act”), notice of which is dated April 15, 2002, bears the number 02306242, for the period from February 1, 1994, to January 31, 2001, claiming an amount of $27,217.32 in goods and services tax (“GST”), interest and penalties.
+[2] The only issue is whether the assessment at issue could be made at any time, i.e. after expiry of the four-year limitation period, in accordance with subsection 298(4) of the Act. The calculation of the tax amounts claimed from the Appellant and the application of the self-supply rule under subsection 191(1) of the Act, when the two single unit residential complexes were rented, are not challenged.
+[3] Subsection 298(4) of the Act reads as follows:
+An assessment in respect of any matter may be made at any time where the person to be assessed has, in respect of that matter,
+(a) made a misrepresentation that is attributable to the person’s neglect, carelessness or wilful default;
+(b) committed fraud
+(i) in making or filing a return under this Part,
+(ii) in making or filing an application for a rebate under Division VI, or
+(iii) in supplying, or failing to supply, any information under this Part; or
+(c) filed a waiver under subsection (7) that is in effect at that time.
+[4] Only paragraph (a) can be applied in this case and the Respondent has the burden of proving that there has been a misrepresentation attributable to the Appellant’s neglect, carelessness or wilful default.
+[5] The Appellant is a business specialized in the construction and sale of new houses and which started its operations around the early 1990s. The sole director and shareholder of the Appellant is Daniel Provencher, who obtained his degree in accounting from the Université du Québec à Trois‑Rivières. After completing his studies, he was employed by Revenue Canada for three years, including two years as a tax auditor at the Montréal office. After that Mr. Provencher acted as an inspector for Caisses populaires Desjardins for eleven years and as commercial loan officer of a caisse populaire for two years. He acquired his experience in construction by looking after a construction company with a partner in 1988 and 1989.
+[6] The facts from which the dispute arises are simple and relate to the sale of two new houses, one built in 1994 and the other in 1995. For each of them, the Appellant had different potential buyers sign a promise to purchase, conditional upon obtaining a hypothec. In both cases, the buyers were unable to secure their financing and the sale of the houses could not be concluded. Rather than leave the houses empty, the Appellant then offered the buyers the possibility to occupy the houses that they could not buy in exchange for the payment of rent. The buyers accepted the Appellant’s offer and occupied the houses as tenants from June 15, 1994, for one of them and November 1995, for the other. The Appellant made no declaration concerning these rental contracts and did not remit the GST applicable under subsection 191(1) of the Act.
+[7] In both cases, the tenants left the premises at the beginning of 1997 and the Appellant put the houses up for sale again as new houses.
+[8] On August 4, 1998, the Appellant sold one of the houses to Robert Dusseault for $60,000, calculated as follows:
+Sale price
+GST
+GST rebate
+QST
+QST rebate
+Total amount
+Infrastructure reimbursement
+Total payable
+=
+=
+=
+=
+=
+=
+=
+=
+$51,642
+3,615
+1,301
+3,507
+1,263
+56,200
+3,800
+$60,000
+[9] On July 2, 1998, the Appellant sold the other house to Nancy Garand and Stéphane Lachance for $60,000, calculated as follows:
+Sale price
+GST
+GST rebate
+QST
+QST rebate
+Total amount
+Infrastructure reimbursement
+Total payable
+=
+=
+=
+=
+=
+=
+=
+=
+$51,642
+3,615
+1,301
+3,507
+1,263
+56,200
+3,800
+$60,000
+[10] In both cases, the Appellant collected GST and remitted the tax so collected in accordance with subsection 225(1) of the Act, even though these sales were exempt from GST as they had already been occupied. The buyers are probably entitled to claim the GST overpayment.
+[11] The only issue is whether the Appellant made a misrepresentation that is attributable to the Appellant’s neglect, carelessness or wilful default by not declaring the two rentals and not self-assessing on the market value of the buildings when they were rented.
+[12] As the Appellant did not produce GST returns for the two house rentals and did not remit the GST amounts payable, the Appellant undoubtedly made a misrepresentation. The Appellant acted as if it had never rented the houses in question and completely ignored these transactions. Following the tenants’ departure, the Appellant put the houses on the market as new houses and ran advertisements in the Nouveliste to that effect. When the houses were sold, the Appellant calculated the GST and the GST rebate, as if the houses had been new. This way the GST was paid, but not by the right person.
+[13] In his testimony, Mr. Provencher stated that the Appellant’s policy was to collect and remit the GST when it was paid for the sale of houses, and this is exactly what was done for the sale of the two houses. Mr. Provencher also mentioned that the Appellant had been audited several times by the Ministère du Revenu du Québec and that the auditors had always accepted the Appellant’s approach.
+[14] Evidence was offered that a first GST audit was conducted on the Appellant by Céline Goyette in October 1991 concerning a tax rebate application for the period from May 1 to July 31, 1991. Ms. Goyette testified that her audit report contained information to the effect that Mr. Provencher appeared to have a poor knowledge of certain rules of the Act and that she had given him some explanations concerning the rules for the remission of taxes and the calculation of self-supply credits. Following the audit, she submitted a draft assessment cancelling a credit application. After receiving this draft assessment, Mr. Provencher met with the auditor and her supervisor to discuss this draft assessment, but no adjustment was made to it and, after that, the assessment was issued.
+[15] Mr. Provencher moreover indicated that the Appellant was audited in 1992 and in August 1994, and that the auditors issued assessments of zero. The assessments were not tendered in evidence and it was not specified which taxes the audits dealt with, or with regard to which period.
+[16] The audit which gave rise to the assessment under appeal was conducted by Louise Langlois in 2001. Ms. Langlois testified that, during her audit, she asked Mr. Provencher if the Appellant had rented houses, which was denied by Mr. Provencher. Ms. Langlois observed that the Appellant did not have appropriate records of house rentals, that the analysis of the Appellant’s bank deposits showed no revenue from house rentals and that the Appellant’s accounting books showed no rental revenue. However, the evidence does not show whether the rental revenues were later assessed by the tax authorities. In his testimony, Mr. Provencher stated that the Appellant had reported its rental revenue. Ms. Langlois otherwise confirmed that the Appellant had not produced any tax reports for the rental of the houses, that it had not applied the rule of self-supply under subsection 191(1) of the Act and that it had not remitted the GST payable.
+[17] By choosing not to make a specific return or not to include the rental of the two houses in its return for the relevant period, the Appellant made it impossible for the Minister of National Revenue (the “Minister”) to know that an assessment was required. Therefore, the limitation period was suspended until the Minister had knowledge of the existence of a debt or the right to a debt.
+[18] The Appellant deliberately made a misrepresentation in order to not remit the GST when due.
+[19] Mr. Provencher is an informed businessman with excellent knowledge of accounting and finance. Having worked as a tax auditor, he knew very well how to obtain the information relevant to his situation. He could have consulted the memoranda and policy statements published by the tax authorities; he also could have consulted other contractors and the Association professionnelle des constructeurs en habitation du Québec. Moreover, the evidence shows that he had been informed on the self-supply rules in 1991 during Ms. Goyette’s audit.
+[20] The Appellant cannot plead ignorance of the Act. It demonstrated a wilful default or blindness.
+[21] For these reasons, the appeal is dismissed with costs.
+Signed at Montréal, Quebec, this 22nd day of March 2007.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 20th day of February 2008
+François Brunet, Revisor
+CITATION: 2007TCC147
+COURT FILE NUMBER: 2003-1147(GST)G
+STYLE OF CAUSE: Construction Daniel Provencher Inc. and Her Majesty the Queen
+PLACE OF HEARING: Shawinigan, Quebec
+DATE OF HEARING: March 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: March 22, 2007
+APPEARANCES:
+Counsel for the Appellant:
+François Daigle
+Counsel for the Respondent:
+Robert Poupart
+COUNSEL OF RECORD:
+For the Appellant:
+Name: François Daigle
+Firm: Heenan Blaikie
+City: Trois-Rivières, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,177 @@
+Title: Otteson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99804/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-362-99804-otteson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-12-02
+
+# Otteson v. The Queen
+
+- Citation: 2014 TCC 362
+- Decision date: 2014-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5228, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Otteson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-12-02
+Neutral citation
+2014 TCC 362
+File numbers
+2012-438(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-438(IT)G
+2012-439(IT)G
+BETWEEN:
+RONALD OTTESON,
+DONNA OTTESON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application determined pursuant to section 147 of the Tax Court of Canada Rules (General Procedure)
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellants:
+Sanjaya R. Ranasinghe
+Counsel for the Respondent:
+Gergely Hegedus
+Donna Tomljanovic
+ORDER
+Whereas a judgment was rendered on August 13, 2014;
+And whereas the parties were to provide written submissions on costs;
+And whereas such submissions have been received and considered;
+It is hereby ordered that the Appellants are awarded costs of $13,000 plus disbursements of $1,714.50 in accordance with the attached reasons.
+Signed at
+Ottawa ,
+Canada
+, this 2nd day of December 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 362
+Date: 20141202
+Dockets: 2012-438(IT)G
+2012-439(IT)G
+BETWEEN:
+RONALD OTTESON,
+DONNA OTTESON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+I. Overview
+[1] The appeals dealt with whether Ronald and Donna Otteson (the “Appellants”) were entitled to the capital gains exemption for farm property. I allowed the appeals with respect to 25.91 out of the 50.16 acres of land disposed of by the Appellants and requested written submissions in the event that the parties could not reach an agreement on costs. Both parties filed written submissions and I am now prepared to dispose of this matter.
+[2] The Appellants seek a lump sum costs award in the amount of $20,000 ($10,000 each) plus disbursements of $1,714.50. They submit that such an award is warranted because they were substantially successful in their appeals.
+[3] As a starting point, I feel the need to point out that the Appellants’ math is slightly off. They claim that $20,000 equals approximately 25% of the $65,680 in solicitor-client fees that they incurred. However, $20,000 actually equals approximately 30% of those fees. The case law shows that, when it comes to costs awards, percentages are calculated in relation to fees only, and not fees plus disbursements and GST, as the Appellants may have done.
+[4] The Respondent argues that each party should bear his or her own costs because of the mixed results in the appeals. In the alternative, the Respondent submits that costs should be limited to Tariff B on the grounds that there are no special circumstances justifying a higher award.
+II. Analysis
+[5] In her written submissions, the Respondent has made several arguments regarding principles in costs awards, which merit comment.
+[6] The Respondent argues that, if costs are awarded after an appeal, there is a general rule that they are awarded in accordance with the Tariff. As C. Miller J. recently noted in Henco Industries Limited v. The Queen: [1]
+There has been considerable jurisprudence recently with respect to costs awards from the Tax Court of Canada (see for example Spruce Credit Union v The Queen, Velcro Canada Inc. v The Queen, Peter Sommerer v The Queen, Jolly Farmer Products Inc. v Canada, General Electric Capital Canada Inc. v
+Canada
+, and Dickie v The Queen). The Spruce Credit Union decision provides a particularly good summary of recent trends and the award of costs in the Tax Court of Canada. It is unnecessary to reproduce the views put forward by all these cases, suffice it to say, the Tax Court of Canada is quite prepared to put aside Tariff in favour of a more detailed analysis based on the factors set forth in Rule 147(1) of the Tax Court of Canada Rules (General Procedure). As Justice Rothstein succinctly put it as long ago as 2002 in the Consorzio del Prosciutto di
+Parma
+v Maple Leaf Meats Inc. decision:
+An award of party-party costs is not an exercise in exact science. It is only an estimate of the amount the court considers appropriate as a contribution towards a successful party’s solicitor-client costs.
+[7] Furthermore, as Justice Pizzitelli noted in Dickie v. The Queen: [2]
+. . . I am further cognizant that the general rule is that a successful litigant is entitled to party and party costs as stated by Bowman J. as he then was, in Merchant v. Canada [1998] 3 DTC 2505 and in Continental Bank of Canada v. Canada, [1994] T.C.J. No. 863 (QL). However, I am also in agreement with Hogan J. in General Electric Capital
+Canada Inc. v. Canada, 2010 TCC 490, 2010 DTC 1353, at paragraph 26 who reasoned that aside from solicitor and client costs:
+. . . I believe that the Rules Committee was well aware of the fact that there are numerous factors which can warrant a move away from the Tariff towards a different basis for an award of party and party costs, including lump sum awards. Subsection 147(3) of the Rules confirms this by listing specific factors and adding the catch-all paragraph (j), which refers to “any other matter relevant to the question of costs”. If misconduct or malfeasance was the only case in which the Court could move away from the Tariff, subsection 147(3) would be redundant. Words found in legislation are not generally considered redundant. . . .
+[8] The Respondent argues that novelty, uniqueness, complexity, difficulty or the fact that a large amount of money is involved are not necessarily reasons to depart from the Tariff. However, the Respondent’s underlying support for this argument is H.B. Barton Trucking Ltd. v. The Queen, [3] which itself supports this proposition by relying on the decision of Judge Bowman, as he then was, in Alemu v. R. [4]
+[9] As I noted in General Electric Capital
+Canada Inc. v. The Queen [5] and as Rossiter A.C.J. noted in Velcro Canada Inc. v. The Queen, [6] Judge Bowman’s discussion of novelty, uniqueness, complexity, difficulty and the fact that a large amount of money is involved was in the context of awarding solicitor-client costs, which are far above Tariff costs and involve considerations entirely separate from the Court’s general authority to exercise its discretion in applying the section 147 factors.
+[10] While I agree with the Respondent’s submissions that the Court must be prudent with its discretionary power and exercise it in accordance with established principles, the established principles recognize that the Court has the authority to award costs beyond those provided for in the Tariff, using the section 147 factors.
+[11] With this background in mind, I will now apply the section 147 factors to determine an appropriate costs award.
+A. Result of the proceeding
+[12] The Appellants argue that they were “substantially successful” in their appeal.
+[13] The Respondent characterizes the result as being “mixed”, but slightly favouring the Appellants.
+[14] In my opinion, the Appellants’ view is the correct one. The Appellants had to show, among other things, that the property was used in a farm business conducted by a partnership and that their interest in the partnership met the requirements of the relevant statutory definition.
+[15] While the ultimate result was that only slightly more than half of the property was eligible for the capital gains exemption, the Appellants were mostly successful overall. This favours an award greater than the Tariff amount.
+B. Amounts in issue
+[16] While the parties differ slightly on the exact amount, it is fair to say that the amount of tax owed was reduced by approximately $150,000. The Respondent argues that this is a fairly modest amount that does not warrant an award beyond the Tariff, and points to the fact that in Velcro the appellants only received a costs award of $60,000 when the amount in issue was more than $9,000,000.
+[17] In my opinion, it is inappropriate to draw a simple straight line between the amount in issue and the actual amount of a costs award. In determining a proper award, it is more appropriate to examine what percentage of the costs incurred by successful parties has been covered by the Court’s costs awards. The point of costs awards is to provide compensation for the legal expenses incurred by the successful party.
+[18] With this mind, it is worth noting that in Velcro, where the amount in issue was $9,000,000, the award of $60,000 represented approximately 17% of the fees incurred by the appellants in that case. It is also worth noting that in Spruce Credit Union v. The Queen, [7] where the amount in issue was $7,000,000, the award of $410,000 represented approximately 50% of the relevant fees. This variation demonstrates that the amount in issue is simply one factor to be considered among all of the section 147 factors.
+[19] Overall, the amount in issue here was relatively low and only favours a percentage that moves slightly, if at all, beyond the Tariff.
+C. Importance of the issues
+[20] The Appellants argue that the issues in this case were of “national importance” and involved novel arguments. On the other hand, the Respondent argues that the issues were particular to the facts and not relevant to a broad spectrum of taxpayers.
+[21] In my view, the importance of this case lies somewhere midway between the two above described position. This case did involve novel arguments and will certainly have precedential value for similar cases. This favours an award beyond, but not greatly beyond, the Tariff.
+D. Settlement offer
+[22] The only offer came from the Respondent, who offered to settle the matter on a without-costs basis if the Appellants accepted that they had no entitlement to the capital gains exemption. Because the Appellants did not make a settlement offer, this factor plays no role in determining the award.
+E. Volume of work
+[23] The Appellants’ counsel billed for 218 hours with respect to the case, which, they argue, was commensurate with the matters at issue, the novelty of the case and the two days spent in court. The Respondent notes that the volume of work was reduced by the fact that all documents were entered on consent and that there were no expert witnesses.
+[24] The volume of work appears to be about routine, although the novelty of the arguments does mean that there was more work involved here than in a simple, routine matter before this Court. This factor favours an award slightly beyond the Tariff.
+F. Complexity of the issues
+[25] The Appellants characterize the complexity as high, arguing that the Income Tax Act’s family farm partnership provisions are complicated. The Respondent argues that the complexity was average and that the case involved straightforward facts.
+[26] My view tends towards the Appellants’ position. While the facts may have been straightforward, the legal issues – and whether or not the Appellants met the necessary statutory criteria – involved some complexity. This favours an award beyond the Tariff.
+G. Conduct of a party that tended to shorten or lengthen unnecessarily the duration of the proceeding
+[27] Each party accuses the other of unnecessarily lengthening the proceedings. The Appellants argue that the Respondent’s refusal to concede that the Appellants were operating in partnership ran contrary to significant evidence and thus lengthened the proceedings. The Appellants also take issue with the Respondent’s suggestion that the land was not being used for a qualified purpose.
+[28] In my opinion, the Respondent’s impugned arguments are simply “matters that are within the normal thrust and parry of litigation,” as C. Miller J. noted in Henco, supra, at paragraph 14. They did not unduly lengthen the proceedings.
+[29] The Respondent for her part argues that the Appellants changed arguments three times, thereby prolonging the hearing because the Respondent was forced to keep adapting. However, while I noted these changes in my decision, [8] I also added that the inconsistent positions did not prejudice the Respondent from a procedural fairness standpoint. [9]
+[30] As a result, this factor plays little, if any, role in determining the award.
+III. Conclusion
+[31] In light of the above, and given that there are no other factors relevant in determining costs here, I believe that an appropriate costs award under section 147 is one based on 20% of the fees incurred, plus disbursements. This works out to a lump sum award of $13,000 plus disbursements of $1,714.50.
+[32] This award is consistent with an appeal that was mostly successful and in which a relatively low amount of money was involved, in which the issues were novel and carried precedential value but are unlikely to be widely applicable in the future, in which there was a relatively routine volume of work, and in which the level of legal complexity was slightly high.
+Signed at
+Ottawa ,
+Canada
+, this 2nd day of December 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2014 TCC 362
+COURT FILE NOS.:
+2012-438(IT)G
+2012-439(IT)G
+STYLE OF CAUSE:
+RONALD OTTESON and DONNA OTTESON v. THE QUEEN
+PLACE OF HEARING:
+Edmonton
+,
+Alberta
+DATE OF HEARING:
+March 26 and 27, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice Robert J. Hogan
+DATE OF ORDER:
+December 2, 2014
+APPEARANCES:
+For the Appellants:
+Sanjaya R. Ranasinghe
+Counsel for the Respondent:
+Gergely Hegedus
+Donna Tomljanovic
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Sanjaya R. Ranasinghe
+Firm:
+Felesky Flynn LLP
+Edmonton ,
+Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of
+Canada
+Ottawa ,
+Canada
+[1] 2014 TCC 278 at para. 2.
+[2] 2012 TCC 327, 2012 DTC 1276 at para. 25.
+[3] 2009 TCC 472, 2009 DTC 1308.
+[4] [1999] 3 C.T.C. 2024.
+[5] 2010 TCC 490, 2010 DTC 1353 at para. 24.
+[6] 2012 TCC 273, 2012 DTC 1222.
+[7] 2014 TCC 42, 2014 DTC 1063.
+[8] Otteson v. The Queen, 2014 TCC 250, 2014 DTC 1173 at paras. 25 and 35.
+[9] Ibid. at para. 38.

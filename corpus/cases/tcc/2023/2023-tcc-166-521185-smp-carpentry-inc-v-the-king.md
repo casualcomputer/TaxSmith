@@ -1,0 +1,245 @@
+---
+title: "SMP Carpentry Inc v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521185/index.do"
+last_modified: "2023-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 166"
+citation2: ""
+neutral_citation: "2023 TCC 166"
+decision_date: "2023-12-12"
+language: "en"
+item_id: "521185"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5656
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:28:21.390000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e943636970d6cf7ccee270e9aefbb4bb6d074b90ef6930ce8018eeda1f07596"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# SMP Carpentry Inc v. The King
+
+- Citation: 2023 TCC 166
+- Decision date: 2023-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5656, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SMP Carpentry Inc v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-12-12
+Neutral citation
+2023 TCC 166
+File numbers
+2017-1561(GST)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-1561(GST)G
+BETWEEN:
+SMP CARPENTRY INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeal of SMP Carpentry Inc., Docket: 2017-1560(GST)G May 1, 2023 and May 2, 2023 at Toronto, Ontario with final concluding submissions received on September 15, 2023
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Ian Literovich
+Counsel for the Respondent:
+Janice Liu
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date together with reference to Docket: 2017-1560(GST)G which appeal was allowed on consent by judgment dated June 19, 2023;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The following appeal concerning two reporting periods is allowed on the following basis:
+a)The Appellant is entitled to additional input tax credits of $945.89 for the reporting period of October 4, 2011 to January 31, 2012;
+b)The Appellant is entitled to additional input tax credits of $2,057.98 for the reporting period of February 1, 2012, to January 31, 2013; and,
+c)The penalties assessed under section 285 are deleted.
+Installment interest under subsection 280(2), arrears interest under subsection 280(4) and late filing penalties under section 280.1 of the Act shall continue to apply and shall be recalculated, as the case may be, in accordance with the additional input tax credits provided for in paragraph 1 above.
+The matter is referred back to the Minister of National Revenue for reconsideration and reassessment.
+In light of the mixed result, there shall be no costs awarded.
+Signed at Ottawa, Canada, this 12th day of December 2023.
+“R. S. Bocock”
+Bocock J.
+Citation: 2023 TCC 166
+Date: 20231212
+Docket: 2017-1561(GST)G
+BETWEEN:
+SMP CARPENTRY INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION
+[1] The Minister assessed and reassessed SMP Carpentry Inc. (“SMP Inc.”) for unremitted HST collectible, disallowed certain input tax credits (ITCs), charged arrears interest on both unremitted installments and unremitted net tax and imposed failure to file and late filing penalties under the Excise Tax Act (the “ETA”).
+[2] All these levies related to two reporting periods: October 4, 2011, to January 31, 2012 (the “2011 period”) and February 1, 2012, to January 31, 2013 (the “2012 period”).
+[3] The Minister’s version of the commercial activities, structure and supplies are dramatically different than the position maintained by SMP Inc.’s, and its principal, Scott Petrie.
+[4] The Minister asserts SMP Inc. was an active GST/HST registrant, carried on the business of construction and renovation services, provided construction services for two residential properties and made supplies of taxable services of $275,000.00 and $319,048.00 for the 2011 and 2012 periods, respectively. As such, SMP Inc., until the hearing, was obligated to collect and remit Harmonized Sales Tax (“HST”), failed to do so, and was not entitled to ITCs beyond $463.81 and $428.50 (until revised after evidence) for the periods.
+[5] In contrast, SMP Inc. and Mr. Petrie essentially say SMP Inc. was a conduit or agent for the financing, payment and accounting related to two properties. SMP Inc. provided no tangible or identifiable services to anyone, made no taxable supplies and rightfully collected no HST. In the alternative, if there were taxable supplies, more ITCs should be allowed to SMP Inc.
+II. FACTS
+The explanation for the divergence in views
+[6] The stark disparity in positions logically begs the question: how could this arise? The answer, like many explanations in history, is one of avoidable errors and not of deliberate wrongdoing. The structure, operations and goals of SMP Inc. and Mr. Petrie for the 2011 and 2012 periods were constructed and replete with faulty assumptions and apparent naiveté. As is seen below, consistent commercial logic was absent from decisions taken.
+[7] When Mr. Petrie required assistance, he sought assistance from his now brother-in-law, Kurt. This decision was to Mr. Petrie and SMP Inc.’s ultimate detriment.
+Mr. Petrie’s vocation and previous business
+[8] Mr. Petrie, the sole shareholder and director of SMP Inc. is a carpenter by trade. Prior to 2008, he personally operated a carpentry business under the business trade name “SMP Carpentry”. The carpentry business was not satisfactory to Mr. Petrie. After some educational upgrades he became a community college teacher of carpentry. SMP Carpentry, as opposed to the yet created SMP Inc., continued to maintain a business number and was a GST/HST registrant. Aside from odd jobs, after 2008, teaching carpentry rather than doing it became Mr. Petrie’s occupation.
+A new mode and later … a new abode
+[9] Mr. Petrie’s previous marriage ended in divorce prior to the material periods in this appeal. In 2009-2010, his accommodations were quite humble and he desired more for both himself and his then recent fiancée, Cassandra Brunsdon. Together they sought to build a new house in which to continue their life together.
+Two lots are better than one
+[10] Mr. Petrie had a different idea on how he would build a family home. Logically perhaps, because he was a carpenter Mr. Petrie felt he could construct a matrimonial home economically by “investing” his non-teaching time and his “sweat labour” in the super-structure, framing and finishing of a house. First, he needed a building lot.
+[11] An older friend, one Mr. McCormack, offered to sell a lot in a new subdivision in Stratford, Ontario. Soon, another lot was discovered as a possibility. To further “economize”, Mr. Petrie purchased the two lots. These are, respectively, 176 Whitelock Street (“Whitelock”) and 347 Douglas Street (“Douglas”), both in Stratford. Mr. Petrie received favourable vendor take-back financing. This, together with his own carpentry skills, “economized” the purchase and development of a residence - presumably with two from which to choose - in the “rising cost” southern Ontario real estate market. Ms. Brunsdon took sole title to the Whitelock lot, and Mr. Petrie did the same for the Douglas lot.
+In law(s) we trust
+[12] Ms. Brunsdon’s brother, Kurt, who also testified at the hearing, was a bookkeeper. Kurt provided a melange of business accounting, legal and tax advice and services to Mr. Petrie. Melange is used advisedly. Kurt’s direction, services and files provided to and for Mr. Petrie were frequently inconsistent, comingled and inscrutable.
+SMP Inc.…. for better or for worse
+[13] To get started, Kurt advised Mr. Petrie to incorporate. Hence in 2011, SMP Inc. came into existence as Mr. Petrie’s “construction services” company. He was its sole shareholder, director and officer. The ostensible primary reason for incorporation, according to Kurt, was to protect Mr. Petrie from tax and trade-creditor liability. To do so in a perfect world required precision, exactitude and attention to detail in operations, accounting and records. None of these aptitudes were deployed since as seen below, almost without exception, third party labour and materials were acquired by Mr. Petrie or under his personally registered trade name, SMP Carpentry.
+How it all [did not] work(ed)
+[14] To construct the houses on the Whitelock and Douglas lots, Mr. Petrie required trades for the foundation, plumbing, electrical and grading, everything other than the carpentry which he would do himself. These other services were procured directly or indirectly by Mr. Petrie. Invariably, subject to an exception or two, all invoices for both lots were rendered to Mr. Petrie or “SMP Carpentry”. For carpentry, only materials were required. These were procured by Mr. Petrie or “SMP Carpentry” through building supply and/or lumber companies.
+[15] Whether for carpentry services or the other trades, only a few invoices were rendered to SMP Inc. As such, Mr. Petrie was adamant that SMP Inc. provided no construction services related to the construction of Whitelock and Douglas, never held title to the lands, and aside from the “funds management”, as described below, was not otherwise involved. Kurt’s present view is now aligned with that of Mr. Petrie but originally it was something quite different.
+SMP Inc.’s accounts, filings and records
+[16] SMP Inc. neither registered for HST during the 2011 period nor did or has it filed HST returns. The Minister registered SMP Inc. retroactive to October 4, 2011. The completed Whitelock property was sold during the 2011 period and Douglas in the 2012 period. The 2012 period HST return was filed on January 28, 2015, some two years or more after it was otherwise due.
+[17] Inexplicably and in contrast, Kurt did file T2 corporate tax returns for SMP Inc. for the relevant fiscal periods straddling the 2011 and 2012 (HST) periods.
+[18] For 2011 and 2012, respectively, SMP Inc.’s income statements within the T2 returns recorded $275,000.00 and $319,048.30 of sales revenue, respectively. The sales revenue relates to the now disavowed construction services. Even at that, the amounts seem to include the gross value of the aggregate supplies and labour rather than a more logical “net” construction service fee. All in all, it is rather hard to discern.
+[19] Whether intended as a “patch” or not, there is also an invoice dated October 4, 2011, rendered by SMP Inc. to Ms. Brunsdon and Mr. Petrie for services provided to “Build House as per plans provided for 176 Whitelock…” with the description “Price to build house at …Whitelock”. The total “price” is $275,000.00. Mr. Petrie testified that the invoice was wrong. It was produced to reflect the value into the construction project for “financing purposes”. Kurt originally stated that the invoice represented the expenses incurred and paid by SMP Inc. to build Whitelock. No concordant invoice was produced for Douglas, although the revenue from similar “construction sources” was certainly reflected as received by SMP Inc in the T2s.
+[20] From testimony, factually and objectively, SMP Inc. received, held and disbursed funds needed to finance and pay the trade accounts, debt and other expenses for the construction of the structures on Whitelock and Douglas. SMP Inc. held the bank account which received and disbursed initial friendly debt, take-out mortgage proceeds and the labour and materials debt. It did so, despite the fact that invoices, mortgage and loan documentation and other documents rarely, if ever, bore its name as debtor, payor or payee.
+Confessions, submissions and concessions [21] Some contrition was proffered. Ultimately, the filing positions of SMP Inc. do not reflect the position factually taken by its principal, Mr. Petrie. As well, Kurt now states that the filings, records and motivations for SMP Inc.’s creation, undertaking and involvement were obscure, incorrect and, even then, poorly executed.
+[22] In this appeal to the Court, the relief sought by the Appellant, SMP Inc., has a “Plan A” and “Plan B”, described below. Briefly, there was a Plan C, but as seen below, it gets short shrift. More precisely, Appellant’s counsel requested the following relief in closing submissions:
+a)that the Court find that SMP Inc. was not engaged in commercial activity, or at least made no taxable supply of services related to Whitelock or Douglas, in the 2011 and 2012 periods; or alternatively,
+b)if the Court finds a taxable supply was made, then additional ITCs, regardless of who purchased the taxable goods and services related to Whitelock and Douglas, should be allowed to SMP Inc. in its hands.
+[23] Originally at the hearing, and regarding the above-referenced Plan C, counsel for SMP Inc. sought an order to direct the Minister to allow Mr. Petrie (through SMP Carpentry) to file amended HST returns for ITCs and Mr. Petrie and/or Ms. Brunsdon to file a self-supplied new home rebate application for Whitelock and Douglas. Quite apart from whether such amended returns or rebate applications are out of time (which patently they most certainly are), and could be accepted, the Court has no statutory authority or inherent or implicit jurisdiction to so direct. This was explained in detail to SMP’s counsel; the Court need not proceed further with it and ends the spectre of the briefly advanced Plan C.
+[24] Certain concessions were made by Respondent’s counsel at the outset and during the hearing, regarding both this appeal and also Docket: 2017-1560 (GST)G, covering a subsequent 2014 HST reporting period concerning commercial activity different from Whitelock and Douglas. As a result, the 2014 period appeal was resolved and is the subject of a stand alone judgement issued previously granting the appeal on consent without costs.
+The Court’s attempt to bring order to documentary chaos
+[25] The Respondent’s ITC concessions likely also prompted concessions from SMP Inc. concerning clearly unrelated, inapplicable and/or insufficient claims for acquired taxable supplies: LCBO, take-away food items, personal and home expenses, unidentified cash register receipts and the like. SMP Inc.’s disorganized, unsorted and unreferenced invoices and vouchers were contained in 7 volumes adduced at trial. They concerned and approximated invoices for taxable goods and services, asserted to have been purchased in undertaking “commercial activity”. These documents were not sorted, quantified, grouped into categories, reporting periods or by property. The Court requested they be summarized into a discernable, correlated and quantifiable list post-hearing. As such, the parties, and most particularly the Appellant, were directed by the following excerpt from the Court’s post-hearing order to categorize, quantify and list the concessions correlative to the purported invoices etc. referable to the ITCs:
+On or before June 9, 2023:
+The Appellant shall file and serve a sorted, quantified and grouped list of invoice page numbers, amounts and categories referable within Exhibit A-4 or other exhibits for those invoices relevant to its claimed ITCs and those which it no longer wishes to contest; and
+The Respondent shall file and serve a summary list summarizing the ITCs in the subject appeal conceded by the Respondent at the outset of the hearing and a summary of those ITCs which the Minister previously allowed.
+On or before June 29, 2023, each other party shall serve and file its responding materials, if any, to the serving party’s materials described in paragraph 1 above.
+The results were not as hoped
+[26] In response to the Order, the Appellant provided no summary, justification or correlation to invoices by total, group or singular itemized amount in the form of a list. Also, the submissions were late, and primarily consisted of a re-submission of every invoice over 5 volumes versus 7 volumes at trial. The records shrank because the Appellant simply removed the invoices no longer claimed as ITCs. To be clear, there was no quantification at all of ITCs claimed, in any form, or at any point by the Appellant. Without that analysis, totalization and accounting, the Court has no summary of the Appellant’s submissions of critical information: what ITCs remain as claimed, which are conceded and why these positions are maintained. Further, no responding submissions were received from the Appellant concerning the Respondent’s submissions described below.
+[27] The Respondent provided a spreadsheet which clearly indicated by cross-referenced invoices the amounts of HST which were paid, the ITC amounts conceded and the rationale for doing so.
+[28] The Respondent’s analysis and conclusions were exact, principled and logical. If the invoice was rendered using SMP Carpentry Inc. or SMP Carpentry, the Respondent was prepared to concede the corresponding ITC. This dovetailed with the Respondent’s assertion that the Appellant was engaged in commercial activity, and to the extent such commercial activity was identifiable and referable to taxable supplies made to SMP Inc. or under its trade name “SMP Carpentry”, then ITCs should be allowed. The Respondent’s concessions concerning additional ITCs may be arithmetically summarized by the chart appearing below. The Respondent properly referenced every invoice and employed the following principles:
+a)firstly, conceded ITCs were allowed if:
+i)the trade name or corporate name was used as a payor and the goods supplied were commonly used in construction;
+ii)gas expenses were billed to a commercial account; or,
+iii)the amounts were cell phone expenses.
+b)secondly, no ITCs were conceded if comprising:
+i)personal, food, liquor or household expenses;
+ii)blank cash register receipts without any other reference or information;
+iii)deficient, illegible, undated or non-descript receipts; or,
+iv)gas expenses charged to a second gas card.
+[29] Utilizing these principles, the following additional ITCs were conceded by the Minister with other related calculations added for clarity (without mathematical reconciliation):
+Period
+Invoice Tab # Identification
+Total of Invoice Amounts
+HST
+ITCs Previously Allowed
+Conceded Additional ITCs
+Total Disallowed
+2011
+2 - 100
+16,255.15
+1,829.86
+243.83
+942.84*
+643.16
+2012
+101 – 200
+4,309.24
+3,822.08
+68.32
+120.21*
+298.63
+201 – 300
+18,867.74
+2,170.05
+228.17
+1,619.62
+322.21
+301 – 400
+11,130.44
+1,149.02
+7.95
+321.20
+869.88
+2012 Totals
+101 - 400
+34,307.42
+7141.15
+304.44
+2061.03*
+1490.72
+[30] One small identifiable error occurred. A Staples invoice for $23.46 and $3.05 of HST was dated November 30, 2011 and allocated to the 2012 period. As such, the two total amounts for additional ITCs should be $945.89* and $2057.98* for the 2011 and 2012 periods, respectively.
+[31] After September 2023, with these submissions in hand, the Court continued its deliberations and rendered its reasons for judgment.
+III. THE ISSUES and LAWS
+(a) Issues
+[32] The two main issues for the Court to decide are:
+i)did SMP Inc. engage in commercial activity and make taxable supplies in the 2011 and 2012 reporting periods (“taxable supply issue”)?
+ii)if it did, is it entitled to further ITCs beyond those allowed and/or conceded by the Minister (“further ITC issue”)?
+(b) The law
+[33] The Excise Tax Act is broadly based and explicit: GST/HST applies to every recipient of a taxable supply (ss. 165(1)), defines what constitutes a taxable supply (ss. 123(1)); and, broadly envelopes all commercial activity (ss. 123(1)). The definition of commercial activity includes: “a business carried on”, “an adventure or concern… in the nature of trade” and “the making of a supply of real property, including anything done… in the course of… the making of the supply”. As well, subsection 169(1) allows a person who is a GST/HST registrant, and who acquires a supply in commercial activity, to an input tax credit for tax paid on taxable supplies acquired for the purposes of commercial activity. Further, the requirements to track, calculate and claim ITCs are detailed, fulsome and mandatory: subsection 169(4) and (5); Input Tax Credit Information (GST/HST) Regulations; and, Memo 8-4.
+IV. ANALYSIS
+Preliminary findings [34] The Minister has conceded the s. 285 gross negligence penalties and they are accordingly deleted.
+[35] The arrears interest and failure to file penalties will apply, subject to applicable recalculations arising from the additional ITCs allowed, since Mr. Petrie and his brother-in-law agreed in testimony that no HST returns were filed for the 2011 period. Similarly, as regards the late filing penalties, they both agreed the HST return for the 2012 period was filed late. Hence, the only issues to be decided are the taxable supply issue and the further ITC issue.
+Taxable supply issue
+[36] There is no serious legal debate on the taxable supply issue. All efforts during the operative time of acquiring, constructing and selling Whitelock and Douglas were directed towards placing SMP Inc. front and centre as the commercial entity acquiring and supplying of goods and services to construct Whitelock and Douglas. SMP Inc. undertook the financing, rendered invoices and filed its T2 Corporate tax returns reflecting its status as a construction services business. Such services are taxable supplies, it made them and it needed to collect and remit HST on such services. To hold otherwise, not only ignores all these contemporaneous, purposive and desired outcomes, but would represent a post-facto re-characterization of a clear commercial reality, tantamount to retroactive tax planning. It was poorly executed and planned at the time, but it was entirely reflective to that extent.
+Further ITC issue
+[37] The regulations concerning ITCs require evidence of association with the acquisition of taxable supplies by a registrant in connection to the commercial activity. The Appellant has been afforded much latitude already. The Respondent’s further concessions are most generous.
+[38] There can be no further ITCs allowed, save for those conceded by the Respondent during and quantified during post-hearing submissions. There is no evidence before the Court that SMP Inc., per se, whether by virtue of its corporate or trade name, acquired the goods and services it claims beyond these conceded amounts. Its post-closing materials were unhelpful and unaccompanied by any submissions concerning quantification or justification. Further, the Appellant’s materials did not respond, despite Court prompting, to the Respondent’s submissions. This is quite apart from the second point of whether SMP Inc. acquired any of these presently denied additional “supplies” in connection with commercial activity.
+[39] On that basis, the Court is prepared to allow the additional ITCs for the 2011 and 2012 periods only to the extent outlined in the chart in paragraph 29 above.
+V. COSTS
+[40] Although the Appellant was partially successful, it did not file an HST return for one period and was late by years for another. As well, the post-closing submissions were unnecessary given the Appellant’s feeble effort. These issues considered, there shall be no costs in this General Procedure appeal.
+Signed at Ottawa, Canada, this 12th day of December 2023.
+“R. S. Bocock”
+Bocock J.
+CITATION:
+2023 TCC 166
+COURT FILE NO.:
+2017-1561(GST)G
+STYLE OF CAUSE:
+SMP CARPENTRY INC. v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 1 and 2, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+December 12th, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Ian Literovich
+Counsel for the Respondent:
+Janice Liu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ian Literovich
+Firm:
+DJD Professional Law Corporation Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

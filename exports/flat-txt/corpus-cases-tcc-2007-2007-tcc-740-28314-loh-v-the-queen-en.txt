@@ -1,0 +1,126 @@
+Title: Loh v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28314/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-740-28314-loh-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-09-28
+
+# Loh v. The Queen
+
+- Citation: 2007 TCC 740
+- Decision date: 2007-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1833, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Loh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-28
+Neutral citation
+2007 TCC 740
+File numbers
+2006-2606(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2606(IT)I
+BETWEEN:
+JOSEPH LOH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 27 and 28, 2007, at Toronto, Ontario
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the Appellant’s 2004 taxation year is allowed and the Minister’s decision of November 28, 2005 is vacated.
+Signed at Ottawa, Canada, this 7th day of December 2007.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2007TCC740
+Date: 20071207
+Docket: 2006-2606(IT)I
+BETWEEN:
+JOSEPH LOH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on September 28, 2007, in Toronto, Ontario.)
+Boyle, J.
+[1] These are my Reasons for Judgment delivered orally in Toronto in Mr. Loh’s informal appeal of his 2004 taxation year. There is only one issue to be addressed, whether not the amount of $6,310 Mr. Loh withdrew from his RRSP in 2004 and used to buy a house in 2004 was an excluded withdrawal under the Home Buyers Plan provisions or was properly included by the Minister in his income.
+[2] The taxpayer and his wife signed an offer on a house on October 20, 2003. On that day, the taxpayer also made an HBP withdrawal from his RRSP in the amount of $13,837 to finance the deposit. Unfortunately, that deal fell through; however, the HBP regime allowed them until October 1, 2004 to complete a purchase with these funds.
+[3] In 2004, the Lohs did purchase a different home. The Minister acknowledges the home was a qualifying home and was purchased in a timely fashion for HBP purposes.
+[4] The HBP regime allows a taxpayer to withdraw up to $20,000 from his RRSP to be used to purchase a home. The taxpayer therefore withdrew a further $6,310 from his RRSP on April 12, 2004 to complete his house purchase that month.
+[5] I do not know why Mr. Loh’s two withdrawals slightly exceeded the $20,000 HBP limit by $147 but that is not today’s issue.
+[6] Ignoring that $147, Mr. Loh’s issue today arises solely because he made two HBP withdrawals in two different calendar years. Had Mr. Loh withdrawn the whole $20,000 at once in either year, or had he made his two withdrawals during the same year, he would not have been reassessed or be in Court today. In fact, by virtue of the special deeming rule in paragraph 146.01(2)(d), he would clearly be onside had his 2004 withdrawal been made in January 2004 instead of early April.
+[7] The HBP provisions are drafted to integrate into the Act’s RRSP regime, which like computation of income and tax, generally work by calendar year. At the same time the HBP regime recognizes the realities of buying and financing homes by allowing for such things as a first purchase falling through, closing in the next year and the like.
+[8] The HBP regime can also accommodate withdrawing the $20,000 from an RRSP in more than one tranche. The general HBP provisions work smoothly for multiple withdrawals provided they are made in the same calendar year. They clearly work smoothly if a subsequent withdrawal is made in January of the following year.
+[9] This could also have worked smoothly for Mr. Loh had he repaid his 2003 withdrawal before 2004. This would have reduced his HBP balance, as defined in subsection 146.01(1), to nil by the operation of that definition and the subsection 146.01(3) repayment provisions. Mr. Loh could then have withdrawn the entire $20,000 in 2004.
+[10] Unfortunately for Mr. Loh, none of these are what happened. The Minister reassessed Mr. Loh’s 2004 year to include his 2004 withdrawal of $6,310 in his income and assessed tax on it. The Minister’s position is that the 2004 withdrawal was not an “excluded withdrawal” as defined in subsection 146.01(1) because of the requirement in the definition of “regular eligible amount” in paragraph (i) that Mr. Loh’s HBP balance at the beginning of 2004 be nil. The Minister reassessed on the basis that Mr. Loh’s HBP balance at the beginning of 2004 equalled the amount of his 2003 withdrawal of $13,837.
+[11] Mr. Loh questions how this can be the correct result when the money from both withdrawals was used by him to purchase a qualifying home in a timely fashion, that is before October 1, 2004. That is, even if there was a technical problem resulting from the wording of the way the Act addresses withdrawals in two calendar years (which technical problem he does not concede), how can the result be that he is to pay tax on it as if his 2004 withdrawal was any other RRSP withdrawal and not used to buy his house as it was? This is an entirely understandable concern raised by Mr. Loh.
+[12] However, as explained to him, this Court is bound to ensure that the reassessment results from a correct application of the provisions of the Act as written in law, and this Court does not have discretion to depart from those provisions to achieve a result the taxpayer, the Court or both may view as more fair or appropriate from an economic or tax policy or other point of view.
+[13] I do not have any discretion but to ensure the provisions of the Income Tax Act are applied, nor do I have any authority to review how the Minister exercises any discretionary powers she is given in the Act, nor to review why she finds something to her satisfaction or acceptable or not when the Act requires her to be satisfied of something or to decide its acceptability.
+[14] I therefore turn to the question of whether the 2004 reassessment under appeal reflects the correct application of the provisions of the Act to the facts of this case.
+[15] I am satisfied that the reassessment would be correct but for the special rule set out in paragraph 146.01(2)(d). This is a deeming rule applicable to the HBP regime in section 146.01. It is a mandatory rule which must be considered and applied. It is not special relief that a taxpayer may request. The result of the application of this deeming rule will be that in certain specific circumstances a withdrawal made in 2004 will be deemed to have been made in 2003.
+[16] If that were the case here, Mr. Loh’s 2004 withdrawal would be deemed to have been made in 2003, and since his 2003 opening HBP balance was nil, his technical problem would no longer exist. Clearly, the rule is intended to apply to the very case of two withdrawals in different calendar years. So does it apply to Mr. Loh’s circumstances?
+[17] The paragraph 146.01(2)(d) special rule provides that:
+(d) an amount received by an individual in a particular calendar year is deemed to have been received by the individual at the end of the preceding calendar year and not at any other time if
+(i) the amount is received in January of the particular year (or at such later time as is acceptable to the Minister),
+[…]
+[18] Since Mr. Loh’s 2004 withdrawal was received in early April 2004, not in January 2004, how this deeming rule applies to Mr. Loh’s facts depends upon whether early April 2004 is or is not such a later time as was acceptable to the Minister.
+[19] In French this phrase is : « ou à tout moment postérieur que le ministre estime acceptable ».
+[20] I cannot apply this deeming rule unless I know whether April 12 was a later time acceptable to the Minister. That fact was not pleaded, was not stated in the assumptions and was not put in evidence. I do not know that fact.
+[21] I note that the Minister’s initial Reply did not even refer to paragraph 146.01(2)(d). That is consistent with the Minister not having turned her mind to this special rule nor having decided, as she is clearly required to do, whether or not April 12, 2004 was or was not an acceptable later time in the particular taxpayer’s circumstances.
+[22] The Minister’s amended Reply sets out that the Minister has the discretionary power to deem the 2004 withdrawal to have been made in 2003, and that this Court does not have jurisdiction to judicially review the exercise of that discretionary power. The Minister is not correct to say that paragraph 146.01(2)(d) gives her a discretionary power to deem something. Properly read it is a deeming provision, the result of which turns on whether or not she finds something acceptable or not in a particular taxpayer’s circumstances.
+[23] If the Minister has made such a determination whether or not such later date was acceptable, it is correct to say that this Court cannot judicially review whether or not she should have found it acceptable, nor how she went about making that determination.
+[24] However, if the Minister did not turn her mind to making such a determination in this case, the deeming rule cannot be applied one way or another to the facts of this case, that is this Court does not know based on the factual record before it whether or not the Act, not the Minister, deems the 2004 withdrawal to have been made in 2003 by virtue of paragraph 146.01(2)(d).
+[25] Does this mean that the Minister’s reassessment is presumed to be correct because the taxpayer cannot show it was incorrect? That would be inappropriate. In this case, the missing fact of whether or not the Minister found April 12 an acceptable later date or whether she ever turned her mind to it was within the particular knowledge of the Minister. The Minister did not address this in its pleaded assumptions, so it is not presumed to be the case either.
+[26] In the case of a self-represented taxpayer in an informal appeal to this Court, my aim is to try to ensure the appellant is satisfied that when he is unsuccessful, he has been listened to and understands why the result is what it is. At the very least, I want an informal self-represented taxpayer to leave knowing I am satisfied that the reassessment he is appealing from is the correct result of the application of the relevant provisions of the Act to the facts in evidence even if he still doesn’t understand or accept my explanation or accept my findings of fact.
+[27] In this case, it appears the Minister may well not have turned her mind to applying paragraph 146.01(2)(d). Certainly, if she did turn her mind to it whether or not she found April 12 acceptable or not is not in evidence. That it wasn’t pleaded as a fact or an assumed fact suggests she did not make such a decision one way or another. The Court is unable to know the outcome of the application of the paragraph 146.01(2)(d) deeming rule.
+[28] That means I do not know if the 2004 withdrawal was made in 2003 or 2004 for purposes of the HBP, and I am therefore unable to determine if the withdrawal made by Mr. Loh in April 2004 is or is not a “regular eligible amount” or an “excluded withdrawal”.
+[29] Since it is apparent and I find the Minister did not turn her mind to whether or not April 12, 2004 was or was not an acceptable date for purposes of the special deeming rule, this would not be an appropriate situation for me to make an inference of fact that she did find it not acceptable from the fact she reassessed.
+[30] This appeal requires me to review whether the reassessment has properly applied the Act’s provisions relating to the HBP to Mr. Loh’s circumstances. Such a review of whether all of the HBP provisions have been properly applied does not constitute a review of how or why the Minister decided what was acceptable or what was not acceptable. This Court does not have jurisdiction to judicially review the Minister’s decision-making process where the Act requires her to make a decision, such as whether or not to exercise a discretionary power given to her or whether or not she found something acceptable or not in the HBP provisions in question.
+[31] This Court does need to be satisfied that the Income Tax Act provisions that are applicable are properly applied. That does not constitute judicial review of a ministerial decision. In this case, I cannot be satisfied the Act’s provisions have been properly applied because I don’t know that the Minister even considered whether April 12, 2004 was acceptable, much less whether she decided if it was acceptable or unacceptable for purposes of applying the particular deeming rule.
+[32] Paragraph 146.01(2)(d) is not drafted as a discretionary provision that may or may not be applied by the Minister. Unlike many of the Act’s relieving provisions, the taxpayer does not have to request its relief. Again, it requires the Minister to decide if the later date is or is not acceptable, and it is only that decision of acceptability that is within the Minister’s discretion and not subject to judicial review by this Court.
+[33] I was referred to this Court’s 1999 decision in Bergeron v. Her Majesty the Queen, 1999 TCC 971037. While factually similar to the facts in Mr. Loh’s case, the Reasons in Bergeron do not address the paragraph 146.01(2)(d) deeming rule (then found in subparagraph 146.01(2)(f)(ii)). In Bergeron, the matter must not have been raised or there must have been evidence or at least an assumption that the Minister did not find the later date acceptable in that case. Such is not the case here.
+[34] The Minister’s reassessment cannot in the circumstances be upheld. What then is the appropriate relief or remedy? I certainly cannot substitute my view of what the Minister should have found acceptable. That would be in the nature of a judicial review power this Court doesn’t have.
+[35] Since I cannot conclude the HBP provisions have been properly applied and I don’t have the fact needed from the Minister to properly apply them, I am allowing the appeal and vacating the 2004 reassessment appealed from.
+[36] Importantly, since Mr. Loh’s 2004 year was initially assessed by the Minister on July 21, 2005, Mr. Loh’s 2004 taxation year is not statute barred and the Minister has until July 21, 2008 under the provisions of the Act to again reassess him for the 2004 withdrawal if she decides that April 12, 2004 was not an acceptable date for the second withdrawal.
+Signed at Ottawa, Canada, this 7th day of December 2007.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2007TCC740
+COURT FILE NO.: 2006-2606(IT)I
+STYLE OF CAUSE: JOSEPH LOH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 27 and 28, 2007
+REASONS FOR JUDGEMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: December 7, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brandon Siegal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

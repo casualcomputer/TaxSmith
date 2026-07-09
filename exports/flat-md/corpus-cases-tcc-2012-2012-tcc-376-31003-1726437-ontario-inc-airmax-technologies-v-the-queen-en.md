@@ -1,0 +1,240 @@
+---
+title: "1726437 Ontario Inc. (AirMax Technologies) v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31003/index.do"
+last_modified: "2012-10-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 376"
+citation2: ""
+neutral_citation: "2012 TCC 376"
+decision_date: "2012-10-25"
+language: "en"
+item_id: "31003"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4885
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:04:12.340000+00:00"
+cases_cited_count: 1
+cases_citing_count: 11
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7e0234f404407ebce393168b1d2fe0fc1208157d102d53d07d07ff19233cc77c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1726437 Ontario Inc. (AirMax Technologies) v. The Queen
+
+- Citation: 2012 TCC 376
+- Decision date: 2012-10-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4885, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1726437 Ontario Inc. (AirMax Technologies) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-25
+Neutral citation
+2012 TCC 376
+File numbers
+2010-3660(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3660(IT)I
+BETWEEN:
+1726437 ONTARIO INC. o/a
+AIRMAX TECHNOLOGIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 12, 2012 and on June 7 and 8, 2012,
+at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agents for the Appellant:
+Julie Bond
+Mauricio Haliska
+Counsel for the Respondent:
+Christopher Bartlett
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2007 and 2008 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 25th day of October 2012.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2012 TCC 376
+Date: 20121025
+Docket: 2010-3660(IT)I
+BETWEEN:
+1726437 ONTARIO INC. o/a
+AIRMAX TECHNOLOGIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The appellant, 1726437 Ontario Inc. o/a Airmax Technologies, is an installer of heating, ventilation and air conditioning systems in residential homes. In 2007 and 2008, the appellant worked on a project (the “Project”) named “High Static High Velocity Fan Coil System Development” (“HVAC System”). The Project led to the development of an HVAC system for multi-storey residential townhouses. The appellant claimed scientific research and experimental development (“SR&ED”) credits with respect to the expenses for the Project.
+[2] The Minister of National Revenue (the “Minister”) disallowed most of the expenses claimed by the appellant on the grounds that the activities constituted routine engineering. The Minister moved the deduction of the eligible expenses incurred and claimed by the appellant for its 2007 taxation year to the appellant’s 2008 taxation year because those expenses were not paid within 180 days of the end of the appellant’s 2007 taxation year. Finally, because the appellant opted for the informal procedure, the respondent argues that, in any event, its investment tax credits (“ITCs”) cannot exceed an additional $12,000 for 2008.
+I. Factual Summary
+[3] For the 2007 and 2008 taxation years the appellant claimed the following amounts in respect of SR&ED:
+TAXATION YEAR
+2007
+2008
+Allowable SR&ED Expenditures
+SR&ED portion of salary or wages of employees directly engaged in SR&ED
+Cost of materials transformed in the prosecution of SR&ED
+SR&ED contracts performed on the appellant’s behalf
+-
+$ 15,150
+$179,149
+$ 25,089
+$ 18,764
+$213,543
+Total allowable SR&ED expenditures
+$194,299
+$257,396
+Qualified SR&ED Expenditures
+Unpaid amounts from previous years that were paid in the year under subsection 127(26) of the Act
+Prescribed proxy amount
+less Government and non-government assistance, and contract payments
+less Unpaid amounts deemed not to be incurred in the year under subsection 127(26) of the Act
+-
+-
+$ 4,091
+$153,393
+$153,393
+$ 16,308
+$ 42,710
+-
+Total qualified SR&ED expenditures
+$ 38,815
+$384,387
+Investments Tax Credits “ITCs” from SR&ED
+Expenditures
+Total ITCs
+$ 12,885
+$134,535
+[4] The evidence shows that during the years at issue the appellant undertook to develop a new and innovative HVAC system that was compact, quiet and efficient, and designed for multi-storey townhouse installations.
+[5] The evidence also shows that, prior to the appellant’s development activities, there was technological uncertainty with respect not only to noise, but also to space and efficiency with those types of systems.
+[6] According to the appellant’s witness Jack Van Beurden, the appellant had to reduce noise from the vents present throughout a house, achieve constant pressure and a set number of operating BTUs. To make the system work at the level necessary to ensure commercial success, modifications had to be made to the constituent parts of the system: the diffuser, the flexible ductwork, the boiler and the electronically commutated fan motor (ECM). The evidence shows that the development work was undertaken by the appellant to ensure that the constituent parts of the HVAC system could function together as a complete system that met the design requirements of a heating system for multi-storey townhouses.
+[7] One of the major drawbacks of an HVAC system is noise due to the fact that the system operates at a high air pressure level which is necessary to move air vertically between the multiple levels of a townhouse. The appellant determined that the air diffusers in use in the market place contributed to the high noise levels, and undertook development work in the 2007 taxation year which ultimately led to the design of a quieter air diffuser. The Minister accepted that this work was eligible SR&ED.
+[8] To reduce noise levels further, the appellant undertook testing of the flexible duct used as the conduit to move the hot air generated at the heating source. The appellant put holes in the core of the flexible duct for that purpose, experimented with the size, number and position of the holes, and adopted those variables which reduced noise levels the most.
+[9] In 2008, the appellant incurred expenses to bring a European‑sourced boiler into conformity with North American standards. The appellant also undertook testing of ECMs to ensure that they could be programmed at the speeds necessary to meet the design requirements set for the appellant’s HVAC system while still meeting the manufacturer’s safety specifications, which were required to be adhered to in order to ensure coverage under the manufacturer’s warranty. The ECMs used in the test were purchased from a Korean manufacturer, Essen Tech. The appellant worked with a consultant to develop new program settings for the control board. The evidence shows that the appellant had the right to use the intellectual property generated from the testing, along with Essen Tech.
+[10] The Minister determined that only the work conducted by the appellant between June 16, 2006 and January 2, 2007 on the development of a new diffuser in order to reduce sound levels constituted eligible SR&ED. According to the Minister, all of the remaining development work involved routine engineering. Accordingly, the Minister reduced the appellant’s SR&ED claim by the amounts of $153,617 and $257,396 for the 2007 and 2008 taxation years. The Minister allowed $40,682 as eligible SR&ED expenditures incurred by the appellant in connection with the development work on the diffuser and some work on the flexible ducts. These expenses were paid more than 180 days after the end of the appellant’s 2007 taxation year and the Minister accordingly treated them as eligible SR&ED expenses for the appellant’s 2008 taxation year.
+[11] At the hearing, the appellant conceded that its total SR&ED claim of $421,203 should be reduced by an amount of $33,650. This amount pertained to the cost of a plastic mould which was recognized by the appellant not to be a qualified SR&ED expenditure. This leaves an amount of $387,553 in dispute in this appeal.
+II. Issues
+[12] The issues in this appeal are:
+(1) Other than those recognized as such by the Minister, did the appellant’s activities in the 2007 and 2008 taxation years constitute SR&ED as defined for the purposes of the Income Tax Act (“ITA”)?
+(2) If so, what are the appellant’s additional SR&ED expenditures for the 2007 and the 2008 taxation years, and what, if any, are the consequential adjustments to the appellant’s refundable investment tax credits for those years?
+(3) Do the Tax Court of Canada Act (the “TCCA”) and the Tax Court of Canada Rules (Informal Procedure) limit the relief that can be granted to the appellant?
+III. Analysis
+[13] SR&ED is defined in subsection 248(1) of the ITA as follows:
+“scientific research and experimental development”
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view;
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work in respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+[Emphasis added.]
+The definition is based on a “catch and release” concept. The definition first includes a broad category of development activities under paragraphs (a) to (c), then items otherwise included are excluded under paragraphs (e) to (k).
+[14] Justice Bowman, as he then was, considered the definition of SR&ED in Northwest Hydraulic Consultants Limited v. The Queen.[1] He enunciated five criteria to be used for the purpose of determining whether a taxpayer’s activities constituted SR&ED:
+(1) Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+(2) Did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+(3) Did the procedures adopted accord with the established and objective principles of the scientific method, including the formulation, testing and modification of hypotheses?
+(4) Did the process result in a technological advancement?
+(5) Was a detailed record of the hypotheses, tests and results kept as the work progressed? [2]
+[15] I will use the above criteria to evaluate the appellant’s SR&ED claim.
+1. Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+[16] At the time it began its development work, the appellant had determined that existing HVAC systems used for townhouse installations did not operate efficiently. The systems that were on the market at the time did not distribute heating evenly throughout the living space of multi-storey townhouses and they operated at high noise levels. The appellant set out to correct these problems with the development of a new HVAC system. The appellant’s goal was to:
+(a) Reduce noise from vents occurring throughout a house;
+(b) Achieve constant static pressure; and
+(c) Adapt a foreign boiler and motor to North American standards in order to use them in a system for which they were not designed and in which they had not been previously tested.
+All of the constituent parts of the appellant’s system needed to function in unison to achieve the appellant’s design objectives. For example, the appellant undertook testing on the flexible ductwork together with the diffuser for the purpose of ensuring that the system operated within the specified noise parameters.[3]
+[17] In Information Circular 86-4R3, the Canada Revenue Agency (“CRA”) acknowledges that “[w]ork on combining standard technologies, devices and/or processes is eligible if non-trivial combinations of established (well-known) technologies and principles for their integration carry a major element of technological uncertainty . . . called a “system uncertainty”.[4] Paragraph (d) of the ITA definition of SR&ED captures such work when it is “commensurate with the needs, and directly in support, of work described in paragraph . . . (c)” of the definition.
+2. Did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+[18] The evidence shows that the appellant set the following technological objectives for the overall system:
+(1) Achieving a sound level reduction from 60 dB to 40 dB;
+(2) Achieving constant static pressure;
+(3) Adapting a foreign boiler to meet North American standards;
+(4) Achieving the required BTUs, and
+(5) Adapting an electronically commutated motor (ECM) for use in the system.
+[19] These technical objectives formed part of the basis of the testing conducted by the appellant.
+3. Did the procedures adopted accord with the established and objective principles of the scientific method, including the formulation, testing and modification of hypotheses?
+[20] The evidence demonstrates that the appellant identified the problems with, and deficiencies of, existing HVAC systems. In response, the appellant developed a testing site to conduct testing with respect to its diffusers, the integration of the boiler into its system, the programming of the ECM, and the relevant safety and operational standards. Experiments were run, the results were collected and modifications were made.
+4. Did the process result in a technological advancement?
+[21] The evidence shows that the appellant developed a product that was unlike any other product on the market intended for similar applications. It performed better than competitors’ products. The system was unique in the market insofar as it utilized higher than usual pressure in response to the problem of the narrower duct work used in narrow multi-storey townhouses. It used an unconventional heat source that also provided domestic hot water, unlike more commonly used indirect‑fired furnaces.
+5. Was a detailed record of the hypotheses, tests and results kept as the work progressed?
+[22] Considering the evidence as a whole, I am of the opinion that the appellant has demonstrated that it maintained a level of record-keeping that illustrates that it identified a problem, developed hypothetical solutions, tested them, and modified its approach in response to the results.
+[23] In summary, in weighing the evidence as a whole, I conclude that the appellant has established that the $387,553 balance of its SR&ED claim constituted qualified SR&ED expenditures.
+A. Refundable ITCs
+[24] The evidence shows that none of the eligible expenses incurred by the appellant in 2007 were paid within 180 days of the end of that taxation year. Under subsection 127(26) of the ITA, those expenses are therefore deemed to have been incurred in the appellant’s 2008 taxation year for the purpose of determining its refundable ITCs for that year.
+B. What are the consequences of the appellant’s election to have its appeal heard under the informal procedure?
+[25] The appellant elected to have its appeal heard under the informal procedure. Paragraph 17(1) of the Tax Court of Canada Rules (Informal Procedure) provides as follows:
+17. Election to Limit Appeal to Informal Procedure -- (1) Where
+(a) the aggregate of all amounts in issue exceeds $12,000, or
+(b) the amount of the loss in issue exceeds $24,000,
+and the appellant wants the informal procedure under the Act to apply to the appeal, the appellant shall elect to limit the appeal to $12,000 or $24,000, as the case may be.
+[26] The respondent contends that the appellant’s refundable ITCs cannot be increased by more than $12,000 for its 2008 taxation year because of section 18.1 of the TCCA, which reads as follows:
+18.1 Limit -- Every judgment that allows an appeal referred to in subsection 18(1) shall be deemed to include a statement that the aggregate of all amounts in issue not be reduced by more than $12,000 or that the amount of the loss in issue not be increased by more than $24,000, as the case may be.
+[27] Section 2.1 of the TCCA defines “the aggregate of all amounts” as the total of all amounts assessed or determined by the Minister of National Revenue under the Income Tax Act, but not including any amount of interest or any amount of loss determined by the Minister.
+[28] The interaction of the above provisions was considered by the Federal Court of Appeal (“FCA”) in Innovations et Intégrations Brassicoles Inc. v. The Queen[5] In that case, the appellant had elected to have its appeal concerning refundable SR&ED‑related ITCs exceeding $12,000 heard under the informal procedure. The appellant won its appeal before the Tax Court but the judgment limited the appellant’s tax refund to $12,000. The FCA acknowledged that the taxpayer would have been entitled to a refund of $19,000 had the taxpayer’s appeal been pursued under the general procedure. However, because the taxpayer elected to have its appeal heard under the informal procedure, the FCA found that the Tax Court judge was correct in limiting the taxpayer’s refund to $12,000.
+[29] I am bound to follow that decision. Therefore, the amount of the appellant’s additional refundable ITCs for the 2008 taxation year is limited to $12,000 notwithstanding the fact that its qualified SR&ED expenditures for that year totalled $387,553.
+Signed at Ottawa, Canada, this 25th day of October 2012.
+“Robert J. Hogan”
+Hogan J.
+CITATION: 2012 TCC 376
+COURT FILE NO.: 2010-3660(IT)I
+STYLE OF CAUSE: 1726437 ONTARIO INC. o/a AIRMAX TECHNOLOGIES v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 12, and June 7 and 8, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: October 25, 2012
+APPEARANCES:
+Agents for the Appellant:
+Julie Bond
+Mauricio Haliska
+Counsel for the Respondent:
+Christopher Bartlett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 98 DTC 1839.
+[2] Ibid., at para. 16.
+[3] Transcript at pp. 175-176.
+[4] Information Circular 86-4R3 at para. 4.8.
+[5] 2009 FCA 302.

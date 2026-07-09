@@ -1,0 +1,157 @@
+---
+title: "Kitura v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25677/index.do"
+last_modified: "2003-12-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 892"
+citation2: ""
+neutral_citation: "2003 CCI 892"
+decision_date: "2003-12-03"
+language: "fr"
+item_id: "25677"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3835
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:26:56.993000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df7d56d4a502c619c16a6dbc87eb58251f282e4515f3cb5d9c91be40a72c3a57"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kitura v. The Queen
+
+- Citation: 2003 CCI 892
+- Decision date: 2003-12-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3835, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kitura v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-03
+Référence neutre
+2003 CCI 892
+Numéro de dossier
+2003-964(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-964(IT)I
+ENTRE :
+GREG KITURA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+______________________________________________________________
+Appel entendu le 17 septembre 2003 à Edmonton (Alberta)
+Par : L'honorable juge Campbell J. Miller
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Julie Rogers-Glabush
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie pour l'impôt en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2003.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 27e jour de février 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI892
+Date : 20031203
+Dossier : 2003-964(IT)I
+ENTRE :
+GREG KITURA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Greg Kitura interjette appel, sous le régime de la procédure informelle, à l'encontre de la décision du ministre du Revenu national (le « ministre » ) d'inclure, dans son revenu, la somme de 10 000 $ que M. Kitura a retiré de son Régime enregistré d'épargne-retraite (REER) en 2000, au titre du Régime d'encouragement à l'éducation permanente (le « REEP » ). Selon le ministre, le retrait de 10 000 $ qu'a effectué M. Kitura n'était pas un montant admissible pour le motif que l'établissement d'enseignement qu'il fréquentait n'était pas un établissement d'enseignement agréé et parce que M. Kitura n'était pas un étudiant à temps plein, comme l'exige le paragraphe 146.02(1) de la Loi de l'impôt sur le revenu. Par conséquent, M. Kitura conteste les deux motifs sur lesquels s'est appuyé le ministre pour rendre sa décision.
+[2] M. Kitura s'est inscrit à un programme d'études menant à l'obtention d'un diplôme à la California Coast University (la « CCU » ) en octobre 1998, pour s'inscrire ensuite en 1999 à un programme d'études en vue d'obtenir une maîtrise en administration des affaires. Il a changé de programme d'études parce que son employeur à High Level, en Alberta, avait précédemment incité ses employés ayant de l'ancienneté à s'inscrire à ce programme d'études, et c'est ce qu'avaient fait certains d'entre eux. M. Kitura a donc obtenu et étudié une publication de l'Agence des douanes et du revenu du Canada ( « ADRC » ) intitulée « Régime d'encouragement à l'éducation permanente » et, selon les renseignements qu'il a recueillis en lisant cette publication, il a estimé qu'il était admissible à ce programme. Il a donc retiré des fonds de son REER et il s'est inscrit au programme d'études en tenant pour acquis que ce retrait de son REER ne serait pas inclus dans son revenu.
+[3] M. Kitura avait également envisagé la possibilité de suivre d'autres cours par correspondance qui étaient offerts un peu partout au Canada, mais il a estimé que la CCU répondrait davantage à ses exigences. Dans le cadre de ce programme d'études, M. Kitura devait suivre neuf cours, chacun d'une durée de trois mois. M. Kitura a confirmé qu'il consacrait environ de 10 à 15 heures par semaine à ses travaux de cours. En 2000, il a suivi trois cours échelonnés sur une période de neuf mois. Pendant cette période, M. Kitura a continué de travailler à temps plein, même s'il avait depuis quitté High Level où il avait commencé son programme d'études pour retourner vivre à Edmonton. Depuis le début de son programme d'études, M. Kitura a suivi huit des neuf cours menant à l'obtention de sa maîtrise en administration des affaires à la CCU.
+[4] Les dispositions législatives pertinentes se rapportant au REEP sont les suivantes :
+146.02(1) Les définitions qui suivent s'appliquent au présent article.
+« montant admissible » Montant qu'un particulier reçoit à un moment donné d'une année civile à titre de prestation dans le cadre d'un régime enregistré d'épargne-retraite, si les conditions suivantes sont réunies :
+a) le particulier reçoit le montant après 1998 à sa demande écrite présentée sur le formulaire prescrit;
+b) une personne - le particulier ou son époux ou conjoint de fait - est désignée dans le formulaire relativement au montant;
+c) la somme du montant et des autres montants admissibles reçus par le particulier au cours de l'année jusqu'au moment donné inclusivement n'excède pas 10 000 $;
+d) la somme du montant et des autres montants admissibles reçus par le particulier au moment donné ou antérieurement (sauf les montants reçus au cours de ses périodes de participation terminées avant l'année) n'excède pas 20 000 $;
+e) le particulier n'a pas reçu, au moment donné ou antérieurement, un montant admissible relativement auquel une personne autre que la personne désignée était désignée (sauf un montant reçu au cours d'une période de participation du particulier terminée avant l'année),
+f) la personne désignée :
+(i) soit est inscrite au moment donné à un programme de formation admissible comme étudiant à temps plein,
+(ii) soit a reçu avant le moment donné un avis écrit portant qu'elle peut, avec ou sans condition, s'inscrire avant mars de l'année suivante à un programme de formation admissible comme étudiant à temps plein;
+g) le particulier réside au Canada tout au long de la période commençant au moment donné et se terminant immédiatement avant le début de l'année suivante ou, s'il est antérieur, le moment de son décès;
+h) sauf dans le cas où le particulier décède après le moment donné et avant avril de l'année suivante, la personne désignée est inscrite à un programme de formation admissible comme étudiant à temps plein après le moment donné et avant mars de l'année suivante et, selon le cas :
+(i) elle termine le programme avant avril de l'année suivante,
+(ii) elle ne se retire pas du programme avant avril de l'année suivante,
+(iii) moins de 75 % des frais de scolarité payés pour son compte, après le début de l'année et avant avril de l'année suivante, relativement au programme sont remboursables;
+i) dans le cas où le particulier a reçu un montant admissible avant l'année, le moment donné :
+(i) d'une part, ne fait pas partie de la période de remboursement du particulier pour sa période de participation qui le comprend,
+(ii) d'autre part, n'est pas postérieur à janvier (ou tout mois postérieur autorisé par le ministre) de la cinquième année civile de cette période de participation.
+[...]
+« retrait exclu » Retrait d'un particulier qui constitue :
+a) soit un montant admissible qu'il a reçu;
+[...]
+« programme de formation admissible » Programme de formation admissible, au sens du paragraphe 118.6(1), d'un établissement d'enseignement agréé, au sens du même paragraphe, compte tenu des modifications suivantes apportées à la définition de « programme de formation admissible » à ce paragraphe :
+a) il n'est pas tenu compte des alinéas a) et b) de cette définition;
+b) le passage « 3 semaines consécutives » est remplacé par « 3 mois consécutifs » .
+118.6(1) Les définitions qui suivent s'appliquent aux articles 63 et 64 et à la présente sous-section.
+« établissement d'enseignement agréé »
+a) Un des établissements d'enseignement suivants situés au Canada :
+b) université située à l'étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d'une durée minimale de 13 semaines consécutives qui conduisent au diplôme;
+« programme de formation admissible » Programme d'une durée minimale de 3 semaines consécutives, aux cours ou aux travaux duquel l'étudiant doit consacrer 10 heures par semaine au moins et qui, s'il s'agit d'un programme d'un établissement visé à la définition de « établissement d'enseignement agréé » (sauf un établissement visé au sous-alinéa a)(ii)), est de niveau postsecondaire [...]
+146(8) Est inclus dans le calcul du revenu d'un contribuable pour une année d'imposition le total des montants qu'il a reçus au cours de l'année à titre de prestations dans le cadre de régimes enregistrés d'épargne-retraite, à l'exception des retraits exclus au sens des paragraphes 146.01(1) ou 146.02(1), et des montants qui sont inclus, en application de l'alinéa (12)b), dans le calcul de son revenu.
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+[...]
+h) toutes sommes relatives à un régime enregistré d'épargne-retraite ou à un fonds enregistré de revenu de retraite et qui doivent, en vertu de l'article 146, être incluses dans le calcul du revenu du contribuable pour l'année;
+[5] Il n'est pas contesté que le retrait qu'a effectué M. Kitura de son REER répond en tous points aux critères énoncés dans la définition de « montant admissible » , sauf en ce qui concerne les réserves selon lesquelles (i) l'établissement, soit la CCU, doit être un établissement d'enseignement agréé et (ii) M. Kitura doit être un étudiant à temps plein.
+[6] La première question dont la Cour est saisie consiste à savoir si la CCU est un établissement d'enseignement agréé. L'intimée fait savoir que, pour déterminer si un établissement à l'extérieur du Canada est un établissement d'enseignement agréé, l'ADRC s'appuie sur les lignes directrices du Bulletin d'interprétation 516R2. Conformément à ces lignes directrices, un établissement d'enseignement agréé doit être reconnu par un organisme d'accréditation reconnu dans ce pays. En ce qui concerne les États-Unis, ces mêmes lignes directrices stipulent qu'un établissement figurant dans l'édition courante du document intitulé Accredited Institutions of Postsecondary Education publié par l'American Council on Education et indiqué, dans cette publication, comme étant un établissement offrant des cours menant à l'obtention d'un baccalauréat ou d'un diplôme d'études supérieures est considéré comme un établissement d'enseignement admissible. Un établissement figurant à l'annexe VIII du Règlement de l'impôt sur le revenu est également considéré comme un établissement admissible. La CCU ne figure ni à l'annexe VIII ni dans la publication de l'American Council. Le ministre, par voie d'affidavit de l'une de ses employés, Roxanne Rawluk, a également fait valoir qu'une recherche dans le site Web de la Western Association of Schools and Colleges de la Californie n'a donné aucun résultat concernant la CCU. Toutefois, sa preuve par affidavit n'indique pas si d'autres recherches, le cas échéant, ont été effectuées.
+[7] M. Kitura a déposé en preuve une copie du certificat du Council for Private Postsecondary and Vocational Education[1] qui lui a été délivré conformément aux dispositions de l'article 94310 du California Education Code. Il énonce ceci :
+[Traduction]
+La California Coast University [...] est autorisée, en vertu d'une approbation accordée aux établissements d'enseignement, à offrir les programmes de formation suivants menant à l'obtention d'un diplôme [...] MBA [...]
+Il est indiqué, dans une lettre datée du 6 novembre 2003 en provenance de la CCU et s'adressant à l'avocate de l'intimée, que les programmes d'études qu'offre l'université sont classés, par le Bureau for Private Postsecondary and Vocational Education de l'État de la Californie, dans la catégorie des programmes d'études à temps partiel ou à mi-temps. En dépit de l'accréditation qu'exige l'ADRC pour les fins de cette dernière, je suis convaincu que la CCU est un établissement d'enseignement situé à l'extérieur du Canada à laquelle s'est inscrit M. Kitura pour suivre un cours qui était d'une durée d'au moins 13 semaines consécutives et qui conduisait à un diplôme. De même, il a consacré plus d'heures que le nombre requis par semaine aux travaux de cours qu'il devait faire dans le cadre de son programme de formation. Il répond donc au premier critère qui exige qu'il soit inscrit à un programme de formation admissible à un établissement d'enseignement agréé.
+[8] La deuxième question dont est saisie la Cour consiste à déterminer si M. Kitura s'est inscrit à un programme de formation à titre d'étudiant à temps plein. Il ne fait aucun doute que M. Kitura a consacré un nombre considérable d'heures à ses études, du moins un nombre suffisant pour satisfaire l'exigence de 10 heures par semaine. Cependant, il n'était pas un étudiant à temps plein. Il a suivi un cours d'une durée de trois mois à la fois, tout en continuant à exercer son emploi à temps complet. Il était indubitablement un homme occupé. Toutefois, c'est là la rançon du succès, si l'on peut dire, lorsque l'on décide de retourner aux études par la voie raisonnable des cours par correspondance. De par leur nature, ce ne sont pas des cours que l'on suit à temps plein, ce que confirme d'ailleurs la lettre en provenance de la CCU dans laquelle il est mentionné que les programmes d'études qu'offre cette université ne sont que des programmes à temps partiel ou à mi-temps. Même s'il l'avait voulu, M. Kitura n'aurait pas pu s'inscrire à temps plein.
+[9] M. Kitura s'est dit préoccupé par le fait que la publication qu'il avait obtenue auprès de l'ADRC l'avait induit en erreur en lui faisant croire qu'il était admissible, puisqu'il est mentionné que le programme de formation doit être d'une durée minimale de trois semaines consécutives aux travaux duquel l'étudiant doit consacrer 10 heures par semaine, seuil que M. Kitura, à son avis, n'a eu aucune difficulté à franchir. Je reconnais qu'il a satisfait à ces exigences. Cependant, il devait également satisfaire à celle relative à l'inscription à temps plein à un programme de formation. Dans la publication de l'ADRC, il est indiqué ceci :
+[Traduction]
+Normalement l'étudiant doit s'inscrire à temps plein à un programme de formation de l'établissement d'enseignement.
+Je peux comprendre comment M. Kitura a pu conclure que les critères mentionnés précédemment établissaient les règles relatives aux études à temps plein. Malheureusement pour M. Kitura, ce n'est pas le cas. Un cours à la fois, suivi par correspondance sur une période de trois mois auprès d'une université qui n'est autorisée qu'à offrir des programmes d'études à temps partiel ou à mi-temps, ne constitue pas des études à « temps plein » aux fins du REEP.
+[10] Je me dois de louer M. Kitura pour son initiative et son travail acharné. Malheureusement, en raison de la nature de ses études, le montant de 10 000 $ qu'il a retiré de son REER ne peut être considéré au titre d'un montant admissible.
+[11] Par conséquent, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2003.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 27e jour de février 2004.
+Nancy Bouchard, traductrice
+[1]
+Pièce A-1.

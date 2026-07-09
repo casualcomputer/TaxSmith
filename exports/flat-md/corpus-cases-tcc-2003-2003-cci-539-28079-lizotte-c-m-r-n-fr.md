@@ -1,0 +1,219 @@
+---
+title: "Lizotte c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28079/index.do"
+last_modified: "2003-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 539"
+citation2: ""
+neutral_citation: "2003 CCI 539"
+decision_date: "2003-08-12"
+language: "fr"
+item_id: "28079"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1664
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:53:17.239000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "39cb0493836b08f8fd2d59f9a3a44870f06ee3af59f62447ddff46a0773baf5b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lizotte c. M.R.N.
+
+- Citation: 2003 CCI 539
+- Decision date: 2003-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1664, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lizotte c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-12
+Référence neutre
+2003 CCI 539
+Numéro de dossier
+2001-2354(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2001-2354(EI)
+ENTRE :
+BENOÎT LIZOTTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 19 juin 2003 à Jonquière (Québec)
+Devant : L'honorable J.F. Somers, juge suppléant
+Comparutions :
+Avocat de l'appelant :
+Me Valère Simard
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les Motifs du jugement ci-joints.
+Signé à Ottawa (Canada), ce 12e jour d'août 2003.
+«J.F. Somers»
+Juge suppléant Somers
+Référence : 2003CCI539
+Date : 20030812
+Dossier : 2001-2354(EI)
+ENTRE :
+BENOÎT LIZOTTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers
+[1] Cet appel a été entendu à Jonquière (Québec) le 19 juin 2003.
+[2] L'appelant interjette appel de la décision du ministre du Revenu national (le «Ministre») selon laquelle l'appelant pendant la période en litige, soit du 19 juin au 30 septembre 2000, n'occupait pas un emploi assurable parce qu'il contrôlait dans les faits plus que 40 % des actions avec droit de vote du payeur, Chez Pâtisserie Diane III Inc. De plus, à cause des conditions et des modalités d'emploi, l'emploi n'était pas assurable parce qu'un contrat semblable n'aurait pas été conclu s'il n'y avait pas eu de lien de dépendance entre l'appelant et le payeur.
+[3] Le paragraphe 5(1) de la Loi sur l'assurance-emploi (la «Loi») se lit en partie comme suit :
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[4] Les paragraphes 5(2) et (3) de la Loi sont libellés en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+b) l'emploi d'une personne au service d'une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+[...]
+[5] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Lien de dépendance
+(1) Pour l'application de la Loi,
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de «personnes liées». Pour l'application de la loi, sont des «personnes liées» ou des personnes liées entre elles:
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+[...]
+[6] Le fardeau de la preuve incombe à l'appelant. Ce dernier se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[7] En rendant sa décision, le Ministre s'est fondé sur les présomptions de faits suivantes lesquelles ont été admises ou niées par l'appelant :
+a) le payeur a été constitué en société en mai 2000; (admis)
+b) les activités du payeur consistaient à exploiter un restaurant qui vendait des mets préparés, des repas, des buffets et à exploiter une cabane à patates frites adjacente au restaurant; (admis)
+c) le payeur était en exploitation à l'année longue; (admis)
+d) selon le registre des actionnaires, les actionnaires du payeur étaient prétendument: (admis)
+l'appelant 100 actions votantes
+Denise Langlais 100 actions votantes
+Ginette Bonneau 100 actions votantes
+e) Denise Langlais est l'épouse de l'appelant; (admis)
+f) avant la période en litige, le fils de l'appelant, Pierre Lizotte était le propriétaire de l'entreprise et il avait l'intention de la fermer car son exploitation était déficitaire; (admis)
+g) l'appelant, technicien forestier en chômage, a demandé à son fils de lui confier la gérance de l'entreprise; (nié)
+h) de décembre 1999 à juin 2000, alors qu'il recevait des prestations d'assurance-emploi, l'appelant rendait des services, 40 heures par semaine, à l'entreprise sans rémunération déclarée pendant cette période; (nié)
+i) le 2 mai 2001, le Conseil arbitral d'assurance-emploi, rendait la décision que l'appelant n'était pas en chômage mais qu'il exploitait son entreprise à plein temps; (admis)
+j) en juin 2000, le payeur aurait acheté l'entreprise de Pierre Lizotte pour un montant de 106 000 $; (nié)
+k) le payeur a refusé de fournir des documents à l'intimé; (nié)
+l) une somme de 11 000 $ a été déduite du montant dû pour l'achat du commerce, cette somme représentant la contrepartie pour l'appelant pour les services rendus sans rétribution de décembre 1999 à juin 2000; (nié)
+m) le 11 000 $ a été converti en versement de capital pour les actions de l'appelant et de sa conjointe Denise Langlais, soit 5 500 $ chacun; (admis)
+n) Denise Langlais n'a rien versé pour ses prétendus actions; (admis)
+o) Denise Langlais n'a rien signé au livre de la compagnie; (admis)
+p) Denise Langlais ignorait tout des activités financières du payeur; (admis)
+q) Ginette Bonneau déclarait à l'intimé qu'elle ignorait le coût d'achat du commerce, elle ignorait si il y avait des emprunts et les conditions de travail de l'appelant; (admis)
+r) Ginette Bonneau déclarait qu'elle ne s'occupait pas du commerce, elle avait juste fait un investissement; (admis)
+s) les procès-verbaux de la formation du payeur ne sont pas signés par Denise Langlais, ni par Ginette Bonneau; (admis)
+t) Denise Langlais et Ginette Bonneau n'ont jamais signé les offres de souscription d'actions du payeur; (admis)
+u) il n'y a pas de procès-verbaux, après ceux de la formation de la société; (admis)
+v) le payeur n'avait pas de vie corporative; (nié)
+w) l'appelant prenait seul toutes les décisions pour le payeur sans consulter les deux autres actionnaires; (nié)
+x) l'appelant a été le seul actionnaire à prêter de l'argent au payeur, soit 10 000 $, lors de la construction de la cabane à patates frites en remboursant personnellement une partie des fournisseurs du payeur; (admis)
+y) l'appelant et le payeur n'ont pas fourni de preuve du versement du salaire de l'appelant; (nié)
+z) le 9 octobre 2000, le payeur émettait un relevé d'emploi à l'appelant, pour la période commençant le 19 juin 2000 et se terminant le 30 septembre 2000 et qui indiquait comme motif de mise à pied un manque de travail; (admis)
+aa) après sa mise à pied, l'appelant continuait à rendre des services au payeur sans rémunération déclarée; (admis)
+bb) les périodes prétendument travaillées de l'appelant ne correspondaient pas avec les périodes réellement travaillées. (nié)
+[8] Le payeur a été constitué en société en mai 2000. Les activités du payeur consistaient à exploiter un restaurant qui vendait des mets préparés, des repas, des buffets ainsi qu'une cabane à patates frites adjacente au restaurant. Cette entreprise était exploitée à l'année longue.
+[9] Selon le registre des actionnaires, ceux-ci étaient l'appelant, Denise Langlais, épouse de l'appelant et Ginette Bonneau, possédant chacun 100 actions votantes.
+[10] Avant la période en litige, le fils de l'appelant était le propriétaire de l'entreprise et il avait l'intention de la fermer car son exploitation était déficitaire. L'appelant a demandé à son fils de rentabiliser l'entreprise. De décembre 1999 au 8 juin 2000, l'appelant, un technicien forestier, a rendu des services à l'entreprise à raison d'environ 5 heures par semaine sans être rémunéré.
+[11] En juin 2000, l'appelant a acheté l'entreprise de Pierre Lizotte pour un montant de 106 000 $.
+[12] Un montant de 11 000 $ a été converti en versement de capital pour les actions de l'appelant et de sa conjointe Denise Langlais, soit 5 500 $ chacun.
+[13] Denise Langlais n'a rien versé pour ses actions et n'a rien signé au livre de la compagnie. Elle ignorait tout des activités financières de l'entreprise.
+[14] Ginette Bonneau, actionnaire, a déclaré à l'intimé qu'elle ignorait le coût d'achat du commerce. Elle ignorait également s'il y avait des emprunts et les conditions de travail de l'appelant. Elle a déclaré qu'elle ne s'occupait pas du commerce et qu'elle avait seulement fait un investissement.
+[15] Les procès-verbaux de la formation du payeur ne sont pas signés par Denise Langlais ni par Ginette Bonneau. Elles n'ont jamais signé les offres de souscription d'actions du payeur. D'ailleurs il n'y a pas de procès-verbaux après ceux de la formation du payeur.
+[16] L'appelant a témoigné que les actionnaires se réunissaient sans avoir de livres de procès-verbaux. Cependant il a admis que les deux autres actionnaires n'étaient pas impliquées dans les opérations de l'entreprise.
+[17] L'appelant a été le seul actionnaire à prêter de l'argent au payeur, soit 10 000 $, lors de la construction de la cabane à patates frites en remboursant personnellement une partie des fournisseurs du payeur.
+[18] Lors de son témoignage, l'appelant a déclaré avoir travaillé à la pâtisserie durant les fins de semaine pour un total d'environ 20 heures moyennant un salaire de 250 $ par semaine et que le reste du temps, il travaillait au Ministère des ressources naturelles.
+[19] L'appelant n'a pas fourni de preuve du versement du salaire. Le 9 octobre 2000, le payeur a émis un relevé d'emploi à l'appelant pour la période en litige indiquant pour le motif de la mise à pied «manque de travail».
+[20] L'appelant a déposé en preuve la décision du Conseil arbitral ‑ assurance‑emploi - sous la cote A-1.
+[21] L'appelant a reconnu sa signature sur les résolutions du Conseil d'administration du payeur (pièce I-1); il est à noter que seule la signature de l'appelant apparaît sur lesdites Résolutions.
+[22] L'appelant a également reconnu sa signature sur les documents intitulés «Offre de souscription» (pièce I-2) et sur les certificats d'actions (pièce I-3).
+[23] En contre-interrogatoire, l'appelant a admis qu'il était en chômage de décembre 1999 en juin 2000. Pendant cette période, il était à l'entreprise 40 à 50 heures par semaine pour faire des commissions et des livraisons des buffets.
+[24] Il a témoigné qu'il a pris une semaine de vacance en juin 2000. Il a admis qu'il travaillait au Ministère des ressources naturelles trois jours par semaine.
+[25] Sylvie Lavoie, commis-cuisinière et témoin de l'intimé, a déclaré qu'elle a travaillé à l'entreprise avec l'appelant de décembre 1999 en juin 2000. L'appelant était présent à l'entreprise à tous les jours faisant de la supervision et des livraisons. Elle a terminé son emploi à la fin d'octobre 2000.
+[26] Durant la période en litige, l'entreprise vendait des repas et des buffets; il y avait de l'achalandage.
+[27] Mona Jean, enquêteur, a mené une enquête dans cette affaire; elle a communiqué avec l'appelant, Sylvie Lavoie et Diane Rivard du Ministère des ressources naturelles.
+[28] Selon Mona Jean, Sylvie Lavoie lui aurait déclaré que l'appelant travaillait à l'entreprise pendant la période en litige environ 40 heures par semaine. Madame Rivard lui aurait déclaré que l'appelant travaillait au Ministère trois jours par semaine.
+[29] L'appelant a déclaré à l'enquêteur qu'il a rendu des services au payeur pendant la période en litige.
+[30] Au soutien de sa décision, le Ministre prétend que l'emploi exercé par l'appelant n'était pas assurable car il contrôlait plus de 40 % des actions comportant droit de vote du payeur et ce, conformément à l'alinéa 5(2)b) de la Loi.
+[31] L'appelant était le seul actionnaire à signer les certificats d'actions, les offres de souscription aux actionnaires et les résolutions du conseil d'administration. Il n'y a aucune preuve que les deux autres actionnaires ont signé des documents quelconques.
+[32] La preuve a démontré que les deux autres actionnaires, qui n'ont pas témoigné, n'étaient pas impliquées dans l'administration ou les opérations du payeur. D'ailleurs le payeur n'avait pas de vie corporative.
+[33] La preuve a également démontré que l'appelant avait le contrôle effectif de plus de 40 % des actions votantes du payeur. Dans les circonstances, l'emploi exercé par l'appelant pendant la période en litige n'est pas assurable en vertu de l'alinéa 5(2)b) de la Loi.
+[34] Subsidiairement, le Ministre prétend que l'emploi exercé par l'appelant pendant la période en litige devrait être exclu en vertu des alinéas 5(2)i) et 5(3)a) de la Loi car il existait un lien de dépendance.
+[35] La Cour d'appel fédérale dans la cause La Ferme Émile Richard et Fils Inc. et le ministre du Revenu national, [1994] A.C.F. no 1859, indique que lorsqu'il s'agit d'appliquer le sous-alinéa 3(2)c)(ii) de la Loi sur l'assurance‑chômage, maintenant l'alinéa 5(3)b) de la Loi sur l'assurance‑emploi, la Cour doit se demander si la décision du Ministre résulte d'un exercice approprié de son pouvoir discrétionnaire. La Cour doit exiger dans un premier temps que l'appelant fasse «la preuve d'un comportement capricieux ou arbitraire du Ministre».
+[36] La preuve a démontré qu'il existait un lien de dépendance entre l'appelant et le payeur.
+[37] Il n'y a aucun doute que l'appelant travaillait pour le payeur pendant la période en litige à raison de 40 heures et plus par semaine sans être rémunéré. L'appelant n'a fourni aucune preuve qu'il a été rémunéré pendant la période en litige.
+[38] L'appelant a admis qu'il a continué après sa mise à pied à rendre des services au payeur sans être rémunéré.
+[39] Il n'y a aucune preuve qu'une somme de 11 000 $ a été déduite du montant dû pour l'achat du commerce; cette somme représentant la contrepartie pour l'appelant pour les services rendus sans rémunération pendant la période en litige.
+[40] Les conditions de travail n'auraient pas été semblables si l'appelant et le payeur n'avaient pas eu entre eux de lien de dépendance.
+[41] L'appelant n'a pas réussi à établir, selon la prépondérance de la preuve, que le Ministre a agi d'une façon capricieuse ou arbitraire.
+[42] En conséquence, l'emploi exercé par l'appelant pendant la période en litige est exclu des emplois assurables en vertu des alinéas 5(2)i) et 5(3)a) de la Loi.
+[43] L'appel est rejeté et la décision du Ministre est confirmée.
+Signé à Ottawa (Canada), ce 12e jour d'août 2003.
+« J.F. Somers »
+Juge suppléant Somers
+RÉFÉRENCE :
+2003CCI539
+No DU DOSSIER DE LA COUR :
+2001-2354(EI)
+INTITULÉ DE LA CAUSE :
+Benoît Lizotte et M.R.N.
+LIEU DE L'AUDIENCE :
+Jonquière (Québec)
+DATE DE L'AUDIENCE :
+le 19 juin 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable J.F. Somers,
+Juge suppléant
+DATE DU JUGEMENT :
+le 12 août 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me Valère Simard
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Valère Simard
+Étude :
+Jean-Pierre Lévesque et associés
+Roberval (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

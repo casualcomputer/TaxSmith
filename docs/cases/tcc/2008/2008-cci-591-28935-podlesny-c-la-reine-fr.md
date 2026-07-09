@@ -1,0 +1,207 @@
+---
+title: "Podlesny  c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28935/index.do"
+last_modified: "2008-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 591"
+citation2: ""
+neutral_citation: "2008 CCI 591"
+decision_date: "2008-10-27"
+language: "fr"
+item_id: "28935"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1375
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:16:18.168000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e0893d81fc56f4ec1b811182ca7051ad6b48db558325b06994e30e88996310e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Podlesny  c. La Reine
+
+- Citation: 2008 CCI 591
+- Decision date: 2008-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1375, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Podlesny c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-27
+Référence neutre
+2008 CCI 591
+Numéro de dossier
+2007-2582(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2582(IT)I
+ENTRE :
+SLAWOMIR PODLESNY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à London (Ontario) le 20 octobre 2008.
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Suzanie Chua
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu de ce qui suit :
+a) une déduction de 148,73 $ doit être permise à l’égard de manuels;
+b) une déduction de 930,08 $ doit être permise à l’égard de fournitures photographiques;
+c) une déduction de 3 518,67 doit être permise à l’égard de frais judiciaires;
+d) une déduction pour amortissement de 7 925 $ doit être permise à l’égard d’une Honda Accord, sous réserve d’un rajustement au pro rata pour l’usage personnel;
+e) une déduction de 722,88 $ doit être permise à l’égard d’intérêts;
+f) une déduction de 849,05 $ doit être permise à l’égard de cotisations au Régime de pensions du Canada et à l’assurance‑emploi;
+g) les frais de véhicule à moteur à l’égard de trois véhicules devraient être calculés compte tenu du fait que le pourcentage de leur utilisation à des fins professionnelles s’élève respectivement à 62,61 % pour la Cadillac, à 71,05 % pour la Honda et à 78,68 % pour la BMW;
+h) les pénalités doivent être annulées.
+L’appelant a droit à ses dépens, le cas échéant, conformément au tarif.
+Signé à Toronto (Ontario) ce 27e jour d’octobre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de décembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008CCI591
+Date : 20081027
+Dossier : 2007-2582(IT)I
+ENTRE :
+SLAWOMIR PODLESNY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience, le 23 octobre 2008.)
+La juge Woods
+[1] Qu’il soit consigné au dossier que les présents motifs sont rendus oralement dans l’affaire Slawomir Podlesny et Sa Majesté la Reine.
+[2] Par son avis d’appel, M. Podlesny a interjeté appel d’une nouvelle cotisation datée du 11 décembre 2006, laquelle avait été établie en réponse à une opposition soulevée à l’égard d’une nouvelle cotisation établie antérieurement. Les deux nouvelles cotisations portaient sur l’année d’imposition 2003. Je tiens à souligner cet historique procédural parce que, lors de l’audience, il y a eu débat sur la question de savoir laquelle des deux nouvelles cotisations avait été portée en appel. Je suis convaincue que c’est la nouvelle cotisation datée du 11 décembre 2006 qui a été portée en appel devant la Cour, et ce, conformément au paragraphe 165(7) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Le présent appel porte sur la déductibilité des dépenses relatives aux activités de physiothérapeute de M. Podlesny. Durant l’année en cause, il exerçait ces activités de deux manières, soit en tant qu’employé de Para‑Med Health Services et en tant que physiothérapeute indépendant ayant ses propres patients.
+[4] Plusieurs questions ont été soulevées dans le présent appel, et je les aborderai à tour de rôle.
+Frais de bureau
+[5] Je traiterai d’abord des frais de bureau. Certains éléments déduits à titre de frais de bureau par M. Podlesny dans sa déclaration de revenus ont été refusés. Les déductions ainsi refusées s’élèvent à 1 268,79 $, et ces éléments sont décrits dans la pièce R-4.
+[6] Le premier élément décrit dans la pièce R-4 est une déduction de 189,98 $ se rapportant à des dépenses qui n’étaient pas documentées. Le refus de cette déduction n’a pas été contesté à l’audience, et aucun rajustement ne sera fait à cet égard.
+[7] La deuxième déduction refusée se rapportait à des dépenses pour des manuels d’une valeur de 148,73 $. À l’audience, la Couronne a reconnu que cette dépense était déductible, et la déduction sera donc permise.
+[8] Le dernier élément des frais de bureau en cause est décrit dans la pièce R-4 comme des fournitures et cartouches photographiques d’une valeur totale de 930,08 $.
+[9] Le contribuable affirme que les dépenses de photographie constituent véritablement des dépenses d’entreprise parce qu’il prend des photos de ses patients à diverses fins professionnelles. Entre autres, M. Podlesny montre des photos des séances de thérapie aux familles de ses patients lors de rencontres, et il s’en sert comme matériel promotionnel dans des maisons de soins infirmiers et pour former des aides-thérapeutes. Un grand nombre de photos ont été déposées en preuve pour appuyer ce témoignage.
+[10] Je crois que l’Agence du revenu du Canada (l’« ARC ») n’a pas eu accès à ces photos durant sa vérification et qu’elle n’a pas eu le temps de les examiner avant l’audience. De toute manière, à l’audience, la Couronne a soutenu que ces photos ne démontraient pas de façon concluante qu’elles avaient servi à des fins professionnelles.
+[11] Je conclus que les déductions demandées à l’égard des fournitures photographiques doivent être permises. Bien qu’il serait troublant que les photos n’aient pas été fournies à l’ARC pendant la vérification, les explications du contribuable quant à l’utilisation des photos sont vraisemblables, et j’y prête foi.
+[12] Je tiens aussi à dire qu’il n’est pas vraiment clair si les photos se rapportent à l’entreprise du contribuable ou à son emploi. Comme cette question n’a pas été abordée durant les plaidoiries, je n’en ai pas tenu compte et je ne me suis pas demandée si cette question avait une influence sur la déductibilité de ces dépenses.
+[13] Je crois avoir traité de tous les frais de bureau en litige. En résumé, le contribuable aura droit à deux déductions supplémentaires, à savoir 148,73 $ pour des manuels et 930,08 $ pour des fournitures photographiques.
+Frais judiciaires
+[14] La deuxième question en litige porte sur des frais judiciaires s’élevant à 3 518.67 $. Ces frais sont les honoraires versés à un avocat de London pour qu’il représente le contribuable à une audience à Toronto dans le cadre d’une poursuite intentée à l’encontre de l’ancien employeur du contribuable. Cette poursuite a été rejetée.
+[15] La question est de savoir si les frais judiciaires peuvent être déduits en vertu de l’alinéa 8(1)b) de la Loi. Selon cette disposition, les frais judiciaires sont déductibles si le contribuable les a engagés pour recouvrer le traitement ou salaire qui lui est dû ou pour établir un droit à ceux‑ci.
+[16] Le critère juridique qu’il faut appliquer pour savoir si une somme est déductible en vertu de l’alinéa 8(1)b) de la Loi a été établi dans Loo c. La Reine, un arrêt de la Cour d’appel fédérale publié en 2004. Au paragraphe 5 de ses motifs, la juge Sharlow a clairement dit que lorsque l’on applique l’alinéa 8(1)b) de la Loi, il n’est pas pertinent de savoir si le traitement ou le salaire est véritablement dû. Ce sont les fins auxquelles les frais ont été engagés qui sont pertinentes. Si les frais ont été engagés pour réclamer un traitement ou salaire dû, la déduction est permise.
+[17] Cela est pertinent parce qu’il semble que la vérificatrice n’ait pas appliqué ce critère, et qu’elle ait refusé la déduction des frais judiciaires pour la seule raison que la poursuite du contribuable n’avait pas réussi et qu’aucun salaire n’aurait donc été véritablement dû. Je me fonde ici sur une lettre de la vérificatrice datée du 25 mai 2005, qui fait partie de la pièce A-2. Je tiens aussi à souligner qu’en agissant de la sorte, la vérificatrice se conformait à la pratique administrative établie par le bulletin d’interprétation IT 99‑R5.
+[18] Le fait que la vérificatrice ait appliqué le mauvais critère juridique ne veut pas nécessairement dire que le contribuable devrait avoir gain de cause quant aux frais judiciaires. Cependant, la conduite de la vérificatrice est importante, car la Couronne a le fardeau de prouver les faits qui ne sont pas présumés à l’étape de la cotisation ou de l’opposition. En l’espèce, la présomption dont le ministre du Revenu national (le « ministre ») s’est servi pour étayer la nouvelle cotisation voulait qu’aucun salaire n’était réellement dû. Je fais ici référence à l’alinéa 7m) de la réponse à l’avis d’appel.
+[19] Comme cette présomption ne permettait pas d’étayer la nouvelle cotisation, la Couronne avait le fardeau d’établir les faits servant à étayer la nouvelle cotisation à l’audience.
+[20] La Couronne ne s’est pas acquittée de ce fardeau. En toute équité, il faut dire que l’avocate de la Couronne ne savait pas, à l’audience, qu’elle devait le faire. L’arrêt Loo n’avait pas été cité par les parties, et ce n’est qu’après l’audience que je l’ai examiné.
+[21] Après avoir conclu que la Couronne devait s’acquitter de ce fardeau, je me pencherai sur la preuve portant sur les fins de la poursuite. Il s’agit malheureusement d’une question assez nébuleuse. Le contribuable a présenté une lettre qu’il avait écrite à son ancien employeur le 23 septembre 2002. Dans cette lettre, il se plaignait d’une augmentation de sa charge de travail et demandait une indemnité de départ. Toutefois, je ne sais pas en quoi cette lettre se rapportait à la réclamation qui a été jugée. Le contribuable a choisi de ne pas déposer en preuve la décision du tribunal, et ce, même s’il semblait l’avoir apportée à l’audience. Lorsque le contribuable a témoigné, je lui ai demandé d’expliquer la nature de sa réclamation. Il a dit ne pas vraiment être capable de le faire, mais il a mentionné que sa réclamation visait probablement, entre autres, à obtenir une indemnité de départ.
+[22] Il semble donc que, dans la présente affaire, ni le contribuable ni la Couronne n’aient utilisé le critère pertinent, à savoir celui de l’arrêt Loo. Ainsi, ni l’une ni l’autre des parties n’a présenté une preuve suffisante pour que je puisse déterminer la nature de la poursuite en cause. Selon la preuve présentée, il est possible que le contribuable ait présenté une demande quant à un salaire qui lui aurait été dû à cause d’une augmentation de sa charge de travail.
+[23] Dans les circonstances, je conclus que la Couronne ne s’est pas acquittée du fardeau de démontrer que l’objet de la poursuite n’incluait pas une réclamation quant à un salaire dû au contribuable. Par conséquent, la déduction demandée par le contribuable relativement aux frais judiciaires doit être permise.
+Déduction pour amortissement à l’égard de la Honda
+[24] La question suivante est celle du montant approprié de la déduction pour amortissement (la « DPA ») pour une Honda Accord qui était utilisée aux fins de son entreprise.
+[25] Le contexte de cette question est le suivant. La Honda a été achetée en 2001, et le contribuable a commencé à s’en servir aux fins de son entreprise en 2002. Sa demande de DPA pour l’année d’imposition 2002 avait été acceptée, sous réserve de la règle de la demi‑année.
+[26] M. Podlesny soutient qu’une erreur a été commise dans le calcul de la DPA pour l’année d’imposition 2003, et qu’un rajustement s’impose.
+[27] J’ai passé beaucoup de temps à essayer de reconstituer le contexte de cette question au moyen du peu de preuves qui m’ont été fournies. Cette question n’était pas mentionnée dans la réponse à l’avis d’appel.
+[28] J’ai conclu que la DPA pour 2003 devait être rajustée dans une certaine mesure. C’est à contrecœur que je suis arrivée à cette conclusion, car cette question aurait pu, et aurait dû, être tirée au clair par le contribuable.
+[29] Néanmoins, j’ai conclu que cette question avait été soulevée de façon suffisante dans la lettre du contribuable datée du 1er août 2006 (pièce A-5) et dans l’avis d’appel pour qu’il y ait lieu de la considérer dans le présent appel.
+[30] J’ai donc conclu que la DPA à l’égard de la Honda Accord pour l’année d’imposition 2003 devrait être calculée selon la lettre de M. Podlesny datée du 1er août 2006. Ainsi, cette DPA sera de 7 925 $, sous réserve du rajustement au pro rata pour l’usage personnel dont il sera question ci‑après.
+[31] L’avocate de la Couronne a affirmé que cette solution ne tient pas compte des effets de la règle du changement d’utilisation prévue à l’alinéa 13(7)b) de la Loi. La Couronne a peut‑être raison quant à cette question, mais je ne crois pas qu’il serait souhaitable d’en tenir compte, car la question n’avait pas été abordée dans la réponse à l’avis d’appel. Il ne serait pas équitable d’apporter ce genre de rajustement sans donner à M. Podlesny la chance de l’étudier.
+[32] Enfin, avant de conclure sur ce point, je tiens à souligner qu’à cause de la faiblesse des preuves au dossier, il faut comprendre que ma conclusion ne sera pas contraignante en ce qui concerne le calcul de la DPA pour les années d’imposition postérieures. Plus particulièrement, je n’ai pas pu concilier le coût de la Honda allégué par le contribuable avec la facture qui avait été déposée en preuve. Il existe peut‑être une explication pour cette différence, mais elle n’a pas été présentée à l’audience.
+Intérêts relatifs à la Cadillac
+[33] Je me pencherai maintenant sur la déduction relative aux intérêts payés pour financer l’achat d’une Cadillac.
+[34] Dans sa déclaration de revenus, le contribuable a demandé la déduction d’intérêts payés pour financer l’achat d’une Cadillac CTS qui avait été utilisée aux fins de son emploi. Ces intérêts s’élevaient à 722,88 $, et leur déduction a été refusée.
+[35] Le motif de ce refus n’a pas été précisé dans la réponse à l’avis d’appel. Durant son témoignage, la vérificatrice a affirmé que, lors de la vérification, le contribuable avait présenté une facture relative à la Cadillac, mais que cette facture portait le nom de sa fille et non pas le sien. À l’audience, le contribuable a déposé en preuve ce qui semble être la même facture, et son nom y était inscrit à la main.
+[36] Je ne crois pas qu’il s’agisse là d’une raison suffisante pour refuser la déduction des intérêts. La DPA à l’égard de ce véhicule a déjà été accordée à M. Podlesny, et il n’y a aucun doute que c’est lui qui payait le coût d’achat du véhicule et les frais liés au financement. Les intérêts pourront donc être déduits.
+Cotisations à l’assurance‑emploi et au Régime de pensions du Canada
+[37] Je traiterai maintenant de la déduction demandée par M. Podlesny à l’égard de cotisations à l’assurance‑emploi et au Régime de pensions du Canada s’élevant à 849,05 $.
+[38] Cette question, comme celle de la DPA à l’égard de la Honda Accord, a pris l’avocate de la Couronne au dépourvu à l’audience, car elle n’avait pas été mentionnée dans la réponse à l’avis d’appel.
+[39] Toutefois, le contribuable avait clairement soulevé cette question dans sa lettre à l’ARC datée du 1er août 2006, et, par déduction, on peut conclure que la question avait été abordée dans l’avis d’appel. Je conclus que cette question aurait dû être soulevée dans la réponse à l’avis d’appel.
+[40] La Couronne n’a pas expliqué de façon satisfaisante pourquoi cette déduction devrait être refusée, et par conséquent, je suis d’avis qu’elle doit être permise.
+Utilisation des automobiles à des fins professionnelles
+[41] J’examinerai maintenant la question de l’utilisation professionnelle et de l’utilisation personnelle de trois véhicules appartenant à M. Podlesny.
+[42] Dans ses déclarations de revenus pour l’année d’imposition 2003, M. Podlesny a demandé des déductions pour l’utilisation de trois automobiles aux fins de son entreprise et de son emploi : une Cadillac CTS, une Honda Accord et une BMW. Il a affirmé avoir utilisé ces trois véhicules dans le cadre de son travail de physiothérapeute.
+[43] Dans la nouvelle cotisation, des déductions étaient permises pour les trois véhicules, mais ces déductions avaient été réduites au motif que le contribuable avait exagéré le pourcentage de l’utilisation des véhicules aux fins de son entreprise et de son emploi.
+[44] Après l’audience, j’ai découvert que cette question avait un antécédent, à savoir une décision rendue par le juge en chef adjoint Bowman (tel était alors son titre). Cette décision portait sur des frais relatifs à des automobiles pour les années d’imposition 2000 et 2001 de M. Podlesny. Il m’aurait été très utile que l’une ou l’autre des parties mentionne cette décision, mais elles n’en ont rien fait. Je présume que les deux parties croyaient que cette décision n’était pas pertinente, mais elle avait certainement l’utilité de fournir du contexte.
+[45] La seule question soulevée par la Couronne quant aux trois véhicules en cause est de savoir si le contribuable avait exagéré en estimant les distances parcourues lors de leur utilisation aux fins de l’entreprise et de l’emploi. La Couronne affirme que ces distances avaient été grossièrement exagérées et elle a imposé des pénalités au motif que cela avait été fait intentionnellement.
+[46] Au moment d’établir la nouvelle cotisation, le ministre a supposé que les distances inscrites dans le carnet de route du contribuable avaient été exagérées.
+[47] Cette supposition est présumée vraie à moins que le contribuable ne fasse la preuve du contraire; en l’espèce, il n’a pas réussi à me convaincre que cette supposition était erronée.
+[48] Cela est dû à plusieurs facteurs.
+[49] D’abord, la prétendue utilisation de ces trois véhicules aux fins de l’entreprise et de l’emploi est extrêmement élevée, à savoir 98,3 % pour la Cadillac, 88 % pour la Honda et 97,5 % pour la BMW. Je tiens aussi à souligner que le contribuable ne possédait pas d’autre automobile pour son utilisation personnelle. Ce seul fait ne suffit pas pour rejeter la demande du contribuable, mais il le force à présenter des preuves à l’appui de ses chiffres, ce qu’il n’a pas fait en l’espèce.
+[50] De plus, je suis d’avis que le fait que le contribuable ne consignait pas immédiatement les distances qu’il parcourait aux fins de son entreprise et de son emploi est très significatif. La vérificatrice a témoigné que, durant la vérification, elle avait dû donner du temps au contribuable pour lui permettre d’estimer les distances qu’il avait parcourues en se fondant sur les rendez‑vous inscrits dans son carnet de rendez‑vous. Elle a aussi affirmé que ce carnet de rendez‑vous ne lui avait jamais été fourni, et ce, même si elle l’avait demandé. Je prête foi au témoignage de la vérificatrice sur ce point, et je le préfère au témoignage du contribuable, parce qu’il était beaucoup plus détaillé et convaincant.
+[51] Le contribuable a reconnu avoir refusé de fournir le carnet de rendez‑vous à la vérificatrice, et il a invoqué la confidentialité pour justifier ce refus. Cependant, lors de la vérification, les déductions demandées par un contribuable doivent être validées au moyen de dossiers fiables, ce qui n’a pas été fait en l’espèce.
+[52] En outre, je note que la vérificatrice avait contrôlé un certain nombre des distances déclarées par le contribuable et qu’elle avait conclu que ces distances avaient été grossièrement exagérées; les distances déclarées par le contribuable étaient souvent deux fois plus importantes que celles que la vérificatrice a parcourues en refaisant les trajets.
+[53] Le contribuable a expliqué qu’il lui arrivait souvent de ne pas prendre le chemin le plus direct pour se rendre au travail parce qu’il cherchait des trajets moins fréquentés, lesquels étaient plus sécuritaires et rendaient son temps de déplacement plus prévisible.
+[54] La raison principale pour laquelle le témoignage du contribuable sur cette question me semble problématique, c’est qu’il s’agit d’un témoignage intéressé qui n’a aucunement été corroboré. Je ne trouve pas que ce témoignage intéressé est convaincant eu égard aux circonstances de l’affaire. Le contribuable aurait pu demander à un témoin indépendant de vérifier les trajets et de présenter un témoignage corroborant, mais il n’en a rien fait.
+[55] Je conclus que les estimations du contribuable sont exagérées. Cependant, cela ne veut pas dire que les calculs du ministre quant à l’utilisation des véhicules aux fins de l’entreprise et de l’emploi doivent être acceptés. L’ARC s’est servi de MapQuest pour calculer les distances parcourues lors des déplacements que le contribuable a affirmé avoir faits.
+[56] À mon avis, l’ARC a eu tort de simplement utiliser les distances provenant de MapQuest. Je crois qu’il est très plausible que le contribuable ait parfois pris des trajets indirects pour les raisons qu’il a invoquées. Toutefois, le problème vient du fait qu’aucune preuve fiable n’ait été présentée quant aux trajets véritablement suivis.
+[57] Compte tenu des circonstances, je suis d’avis qu’il faudrait apporter un redressement arbitraire à la nouvelle cotisation. Je conclus qu’il faudrait majorer de 10 % le pourcentage de l’utilisation aux fins de l’entreprise et de l’emploi sur lequel l’ARC s’est fondée pour établir la nouvelle cotisation. Par conséquent, les pourcentages d’utilisation aux fins de l’entreprise et de l’emploi seront de 62,61 % pour la Cadillac, de 71,05 % pour la Honda et de 78,68 % pour la BMW.
+[58] Il reste donc à traiter des pénalités imposées à cet égard. J’ai conclu qu’elles devraient être annulées. Encore une fois, c’est à regret que je suis arrivée à cette conclusion, car les très faibles pourcentages d’utilisation personnelle déclarés par le contribuable sont contraires au bon sens. Cependant, il est très difficile d’estimer après coup les distances parcourues à des fins professionnelles. Le principal problème vient du fait que M. Podlesny ne consignait pas immédiatement les distances parcourues dans son carnet de route. Néanmoins, je ne crois pas que cela justifie l’imposition de pénalités pour faute lourde. Les déductions demandées par M. Podlesny sont peut‑être très démesurées, mais je ne crois pas qu’il s’agisse de circonstances équivalant à faute lourde.
+[59] Cela conclut mes motifs pour le présent appel. Je rendrai un jugement accueillant l’appel et déférant la question au ministre pour nouvelle cotisation.
+Signé à Toronto (Ontario) ce 27e jour d’octobre 2008.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de décembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008 CCI 591
+No DU DOSSIER DE LA COUR :
+2007-2582(IT)I
+INTITULÉ :
+Slawomir Podlesny et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 octobre 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge J. Woods
+DATE DU JUGEMENT :
+Le 27 octobre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Suzanie Chua
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s/o
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,249 @@
+Title: Nightingale v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30859/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-218-30859-nightingale-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2012-06-22
+
+# Nightingale v. M.N.R.
+
+- Citation: 2012 TCC 218
+- Decision date: 2012-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7356, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nightingale v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-22
+Neutral citation
+2012 TCC 218
+File numbers
+2011-2337(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-2337(EI)
+BETWEEN:
+BRENDA NIGHTINGALE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+HTV SYSTEMS LTD,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Brenda Nightingale (2011-2340(CPP))
+on February 7, 2012, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Stephen Oakey
+Agent for the Intervenor:
+Greg Riedstra
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister of National Revenue’s decision regarding the insurability of the Appellant's employment with HTV Systems Ltd. for the period from January 1, 2010 to October 8, 2010, is vacated in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of June 2012.
+"Réal Favreau"
+Favreau J.
+Docket: 2011-2340(CPP)
+BETWEEN:
+BRENDA NIGHTINGALE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+HTV SYSTEMS LTD,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Brenda Nightingale (2011-2337(EI))
+on February 7, 2012, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Stephen Oakey
+Agent for the Intervenor:
+Greg Riedstra
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister of National Revenue’s decision regarding the pensionability of the Appellant's employment with HTV Systems Ltd. for the period from January 1, 2010 to October 8, 2010 is vacated, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of June 2012.
+"Réal Favreau"
+Favreau J.
+Citation: 2012 TCC 218
+Date: 20120622
+Dockets: 2011-2337(EI)
+2011-2340(CPP)
+BETWEEN:
+BRENDA NIGHTINGALE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+HTV SYSTEMS LTD,
+Intervenor.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The Appellant is appealing the Minister of National Revenue’s decision regarding the insurability under the Employment Insurance Act, S.C. 1996, c. 23, as modified (the "EIA"), and pensionability under the Canada Pension Plan, R.S.C., 1985, c. C‑8, as modified (the "CPP"), of her employment with HTV Systems Ltd. (the "Payer") for the period from January 1, 2010 to October 8, 2010 (the "period").
+[2] Shortly after the termination of her job with the Payer, the Appellant submitted to the Revenue Canada Agency ("CRA") a request for a ruling (Form CPT1) on the status of her employment with the Payer.
+[3] By letters dated December 16, 2010, the Appellant and the Payer were notified that it had been determined, based on the information provided and the analysis of the ruling officer, that the Appellant was, during the period, an employee of the Payer and that her employment was insurable under paragraph 5(1)(a) of the EIA and pensionable under paragraph 6(1)(a) of the CPP.
+[4] The Payer disagreed with the ruling decision and filed an appeal with the Chief of Appeals, on January 10, 2011.
+[5] By letters dated April 8, 2011, the Appellant and the Payer were notified that the decision was reversed and it had been determined that the Appellant was not employed in an insurable employment under the EIA nor in a pensionable employment under the CPP, because she was not employed under a contract of service within the meaning of paragraph 5(1)(a) of the EIA and paragraph 6(1)(a) of the CPP during the period.
+[6] In determining that the Appellant was not employed in insurable employment nor in pensionable employment by the Payer during the period, the Minister of National Revenue made the following assumptions of fact, described in paragraph 14 of the Reply to the Notice of Appeal, filed in respect of each appeal:
+Payer
+(a) the Payer operated a business of selling, installing and servicing televisions and related equipment to healthcare facilities, along with renting television services to patients in healthcare facilities throughout Canada (the "Business"); (admitted)
+(b) Greg Riedstra controlled the day-to-day operations and made the major decisions for the Business; (admitted)
+(c) the Payer's normal business hours were 8:00 am to 5:00 pm, Monday to Friday; (admitted)
+The Appellant
+(d) the Appellant was hired as a Bookkeeper, for an indefinite period of time, pursuant to a verbal agreement; (admitted)
+(e) the Appellant performed the following duties:
+(i) prepared government remittances for three provinces;
+(ii) prepared payroll and daily banking;
+(iii) paid all bills; and
+(iv) shipping and receiving; (admitted)
+(f) the Appellant performed her duties at the Payer's business location and occasionally from her home; (denied)
+(g) the Appellant had prior experience and training in accounting along with the various accounting systems and she also had experience in Office Management; (admitted)
+(h) the Appellant was not required to provide her services exclusively to the Payer; (admitted)
+(i) the Appellant worked for the Payer since July 2006; (admitted)
+(j) the Payer replaced the Appellant with another worker, who was a full-time employee who earned $20.00 per hour and worked regular hours; (ignored)
+(k) during the period 2006 to 2007, the Appellant worked for the Payer as an employee and received T4 slips; (admitted)
+Control
+(l) the Appellant normally worked Monday to Friday and occasionally on Saturday; (admitted)
+(m) the Appellant determined her own hours of work, which were flexible, depending on workload and deadlines; (admitted)
+(n) the Appellant was free to work as many hours or as little hours as she wanted; (denied)
+(o) the Appellant recorded her hours for invoicing purposes; (denied as written)
+(p) Greg Riedstra supervised the Appellant, but only to the extent of requesting status updates and ensuring that financial reports and books were current; (denied)
+(q) the Appellant was not required to report to the Payer, except to provide updates; (denied)
+(r) the Payer provided the Appellant with instructions on job responsibilities and procedures; (admitted)
+(s) the Appellant was required to obtain approval from the Payer on what bills to pay and who to invoice; (admitted)
+Ownership of Tools and Equipment
+(t) the Payer provided the tools, equipment and supplies such as computer, printer, fax, photocopier, calculator, postage, accounting software and desk necessary for the Appellant to perform her duties, at no cost to the Appellant; (admitted)
+(u) when the Appellant worked from home, she used her own tools and equipment; (denied)
+(v) the Appellant and Payer were responsible for the maintenance and repairs of their own tools and equipment; (denied)
+Subcontracting Work and Hiring Assistants
+(w) the Appellant provided her services personally; (admitted)
+(x) the Appellant did not hire helpers, substitutes or replacements; (admitted because not allowed to hire someone else)
+Chance of Profit and Risk of Loss
+(y) the Appellant was paid $35.00 per hour; (admitted for 2010)
+(z) the Appellant determined her own rate of pay; (denied)
+(aa) during the period 2006 to 2007, the Appellant was paid $18.50 per hour; (admitted but she also received a cheque of $424 on a bi-weekly basis)
+(bb) the Appellant was paid on a regular weekly basis; (admitted from 2008)
+(cc) the Appellant was paid by cheque; (admitted)
+(dd) cheques were made out in the Appellant's personal name; (admitted)
+(ee) the Appellant was required to submit invoices in order to be paid; (denied)
+(ff) the Payer did not put a cap on the number of hours the Appellant could bill for in a week; (admitted)
+(gg) the Appellant did not receive bonuses, benefits, vacation pay or paid leave; (admitted from 2008)
+(hh) the Payer was ultimately responsible for resolving customer complaints; (admitted)
+(ii) the Appellant provided the guarantee on the work she performed; (denied as written)
+(jj) the Appellant incurred expenses in the performance of her work for her home office tools, equipment and travel expenses; (denied)
+Intention
+(kk) the Appellant included Goods and Services Tax on invoices submitted to the Payer; (denied as written)
+(ll) the Appellant reported her income from the Payer as "Business income" and she claimed expenses against this income on her personal income tax return for the 2009 taxation year; (the first part of sentence is admitted; the second part is denied)
+(mm) the Appellant registered a business number with the Canada Revenue Agency; (admitted for the Equine Services business in February 2005)
+(nn) the Appellant had other clients; (admitted)
+(oo) the Appellant maintained books and records for her own business; and (admitted)
+(pp) the Appellant advertised her business by word of mouth. (admitted for the Equine Services business).
+[7] Paragraph 14(f) of the Reply to the Notice of Appeal was denied by the Appellant because she did not work for the Payer from her home. She testified that she never took work home as nothing could be done from her computer at home. She did not have access to the Payer's computer from home.
+[8] Paragraph 14(n) of the Reply to the Notice of Appeal was denied by the Appellant because she was not free to work as many hours or as few hours as she wanted. She worked on a full-time basis for the Payer and her work had to be done well and on time. The expectation of the Payer was that the Appellant would be present at the office everyday from 9 a.m. to 5 p.m. There was no fixed number of hours she had to do and her schedule was flexible depending on the workload and the deadlines.
+[9] Paragraph 14(o) of the Reply to the Notice of Appeal was denied by the Appellant because she recorded her hours in a timecard to determine her pay and not for invoicing purposes. At the hearing, she testified that she did not charge her hours to the Payer via invoices.
+[10] Paragraphs 14(p) and (q) of the Reply to the Notice of Appeal were denied by the Appellant because she was required to report to Mr. Greg Riedstra on a daily basis either in person at the office or by phone and/or email if he was away from office. The Appellant was required to obtain Mr. Greg Riedstra's approval for certain tasks, such as, which bills to pay or not to pay and whom to invoice.
+[11] Paragraphs 14(u), (v) and (jj) of the Reply to the Notice of Appeal were denied by the Appellant because she never used her own tools and equipment when working for the Payer and she never incurred maintenance and repair expenses of her own tools and equipment when working for the Payer.
+[12] Paragraph 14(z) of the Reply to the Notice of Appeal was denied by the Appellant because when she was hired as an employee, the Payer agreed to pay her at the rate of $18.50 an hour and to pay for her transportation expenses from home by cheque in the amount of $424 on a bi‑weekly basis. In January 2008, when the Appellant's employment status changed to an independent contractor, the Payer agreed to pay the Appellant at the rate of $30 an hour but without reimbursement of her transportation expenses.
+[13] Paragraph 14 (ee) of the Reply to the Notice of Appeal was denied by the Appellant as she maintained that she was not required to submit invoices in order to be paid.
+[14] Paragraph 14(ii) of the Reply to the Notice of Appeal was denied by the Appellant because she never provided any specific guarantee on the work she performed.
+[15] Paragraph 14(ll) of the Reply to the Notice of Appeal was denied as written because the Appellant did not claim, on her personal income tax return for the 2009 taxation year, expenses against the income from the Payer.
+[16] The Appellant testified at the hearing. She explained that she accepted a part-time job with the Payer in July 2006 and that, a few weeks later, she became a full-time employee of the Payer. From July 2006 to January 2008, the Appellant was on the Payer's payroll and received T4 slips.
+[17] On January 2008, the Appellant asked for a raise in salary which was not accepted by the Payer unless her employment status changed from an employee to an independent contractor. She said that she was forced to accept the change in her employment status to keep her job with the Payer. No written contract was entered into between them and she stated that the employee/employer relationship that existed in 2006 and 2007 did not change in 2008 nor after. She continued to do her work in the same manner as before, under Mr. Greg Riedstra's direction and control.
+[18] The Appellant admitted that she had a flexible schedule and that the number of hours she worked was also flexible but she pointed out that she had to work more hours than normal business hours at the Payer's office to meet the deadlines of the Payer. In 4½ years with the Payer, she was not allowed to take a vacation.
+[19] Mr. Riedstra assigned her tasks on a daily basis with the deadlines by which they were to be completed. At the office, the Appellant was required to report daily in person to Mr. Riedstra. If he was away from the office, it would be done by telephone and/or e-mail. Furthermore, the Appellant was required to obtain approval for certain tasks, such as, which bills to pay or not to pay and whom to invoice.
+[20] The Appellant also indicated that she never brought work to be done at home because she could not access the Payer's computers from home.
+[21] The Appellant was not precluded from working for other clients without approval from the Payer. Over the years that she worked for the Payer, she did have some small bookkeeping clients and clients of her Equine Services business to whom she rendered services on evenings and weekends.
+[22] As with all other employees of the Payer, the Appellant submitted weekly timecards for payroll purposes. Shortly after the change of the Appellant's employment status, she started to invoice the Payer for the services she rendered. Three invoices dated February 15, 2008, February 29, 2008 and October 19, 2010 were filed by the Respondent as Exhibit R-1. The Goods and Services Tax (GST) was charged on the first two invoices and the Harmonized Sales Tax (HST) was charged on the last invoice. In her testimony, the Appellant explained that she was asked to stop making invoices to the Payer or to the other six corporations owned by members of Mr. Riedstra's family for which she also had to do the work under Mr. Riedstra's direction. The Appellant stated that no other invoices were sent to the Payer except for the invoice dated October 19, 2010 for her last week of work which was prepared after her dismissal.
+[23] The Appellant was paid by the Payer by weekly cheques. In order to produce the cheques, the Payer's computer automatically produced purchase orders showing the date, the purchase number, a description of the goods or services rendered, the name of the supplier, the amount charged, the GST and provincial sales tax payable and the GST and provincial sales tax registration numbers. The cheques produced by the computer referred to the date and number of the purchase order, the invoice number which was in fact the date of the purchase order and the amount paid including GST but no provincial sales tax.
+[24] The Appellant explained that her GST and provincial sales tax numbers were obtained in 2005 in respect of her Equine Services business. The Appellant also confirmed that she declared her income from the Payer as business income in her 2009 tax return and that she reported and remitted the GST collected in 2008 and 2009. For 2010, she had not reported nor remitted the GST collected because she was waiting for the ruling concerning the status of her employment.
+[25] The Appellant also confirmed that the Payer provided the tools, equipment and supplies necessary for the Appellant to perform her duties at no cost to her, that she never used her own tools in performing her duties for the Payer and that she never incurred expenses in respect of her own tools and equipment for that purpose.
+[26] The Appellant did not have the ability to subcontract work or to hire assistants to help her and, in fact, she did not hire helpers, substitutes or replacements.
+[27] Finally, the Appellant confirmed that she did not bear any financial risk, that she had no risk of loss and no chance of profit, except by working more hours to the extent they were justified, that she made no financial investment and did not maintain a business presence.
+[28] The Appellant's testimony was corroborated by the testimony of Ms. Erika Agnew, a part-time administrative assistant with the Payer from November 2008 to November 2009. Ms. Agnew's testimony was particularly relevant in that she confirmed the following facts:
+(a) the Appellant worked full-time hours at the office, Monday to Friday, usually from 8:30 a.m. to often after 5:30 p.m.;
+(b) the Appellant filled timecards;
+(c) the Appellant never worked for the Payer from home since the accounting system could only be accessed through the computers at the Payer's office. The Appellant had to come to the office if she wanted to work on the week-ends;
+(d) the Appellant could not be easily replaced because her replacement would need a thorough knowledge of the computer program used by the Payer which is not a widely known program as it is archaic and no longer used by most firms;
+(e) Ms. Agnew was hired by Mr. Riedstra specifically to help the Appellant. She was not hired by the Appellant. The Appellant referred her to Mr. Riedstra who did the interview alone. Mr. Riedstra was also the one who made the hiring decision and offered her the job. The Appellant was not involved in the hiring of her own helper.
+[29] Despite her friendship with the Appellant, the testimony of Ms. Agnew should be relied upon because she was a credible witness and had personal knowledge of the working conditions of the Appellant from November 2008 to November 2009.
+[30] Mr. Greg Riedstra also testified at the hearing and explained that he did not control the working hours of the Appellant. What mattered to him was that the work be done adequately and on time. He referred to the fact that the Appellant unilaterally increased her own remuneration from $30 to $35 per hour. He could not remember exactly when that happened, whether it was July 2009 or July 2010. Mr. Riedstra became confused and mentioned that it was one week after his father passed away. He never accepted this pay increase. He further explained that the Appellant was dismissed because she refused to execute a task, that is, to call a client (a hospital) in order to collect an outstanding account. He described the dismissal as a disciplinary action.
+Analysis
+[31] Paragraph 5(1)(a) of the EIA defines insurable employment as follows:
+5.(1) Types of insurable employment — Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly be the piece, or otherwise;
+[32] Paragraph 6(1)(a) of the CPP defines pensionable employment as an employment in Canada that is not excepted employment.
+[33] Each case dealing with the status of a worker as an employee versus an independent contractor must be determined on its own facts. Court decisions indicated that, in making this determination, the level of control the payer has over the worker's activities is an important factor. Other factors are also relevant, such as, the ownership of tools and equipment, the chance of profit and the risk of loss, the integration in the payer's organization and the intention of the parties.
+Level of Control
+[34] The Appellant was hired as a bookkeeper for an indefinite period of time pursuant to a verbal agreement. From July 2006 to the end of 2007, the Appellant worked for the Payer as an employee and received T4 slips. In January 2008, the financial arrangement between the Appellant and the Payer was changed. Her remuneration was increased from $18.50 to $30 per hour and her transportation expenses from home ceased to be reimbursed. The Appellant's employment status was supposedly changed to an independent contractor despite the fact that the Appellant's job remained the same.
+[35] The testimonies of the Appellant and of Ms. Erika Agnew revealed that Mr. Greg Riedstra did in fact exercise a high degree of control over the Appellant and over the manner in which the Appellant performed her job. Mr. Riedstra assigned tasks to the Appellant on a daily basis with deadlines for completion of the work. The Appellant was required to report daily to Mr. Riedstra even when he was away from the office. The Appellant was required to obtain approval for certain tasks, such as, which bills to pay or not to pay and whom to invoice.
+[36] The Appellant worked exclusively at the Payer's office. The Appellant had a flexible schedule without a pre-determined number of working hours but Mr. Riedstra's expectation was that the Appellant be present at the office every day and by a certain time.
+[37] The Appellant was not precluded from working for other clients without approval from the Payer but, in fact, the Appellant could only provide services to them in the evenings and on week-ends. In the 4½ years with the Payer, the Appellant was not allowed to take a vacation because of deadlines that had to be met. In these circumstances, I do not see how the Appellant could work for other clients on her regular working days with the Payer.
+[38] The level of control exercised by the Payer resulted also from the fact that the Payer took disciplinary action in dismissing the Appellant because she had refused to execute a task, being the collection of an account payable from a hospital.
+[39] Generally considered, this factor pointed more to an employer/employee relationship than to an independent contractor relationship.
+Ownership of Tools and Equipment
+[40] The Appellant never used her own tools and equipment when performing her job for the Payer. The evidence was to the effect that the Appellant could only have access to the Payer's computer from the Payer's office.
+[41] This factor clearly pointed more to an employee/employer relationship.
+Subcontracting Work or Hiring Assistants
+[42] The Appellant did not have the ability to subcontract work or to hire assistants to help her and, in fact, she did not hire helpers, substitutes or replacements. This was clearly demonstrated by the hiring of Ms. Erika Agnew by Mr. Riedstra to specifically help the Appellant. Mr. Riedstra placed an advertisement for help in the Georgetown independent newspaper and he did all the interviews personally without the presence of the Appellant. Mr. Riedstra made his hiring decision and offered her the job.
+[43] This factor is again indicative of a contract of service and not of a contract for service.
+Chance of Profit and Risk of Loss
+[44] The Appellant was paid on an hourly basis with no maximum number of hours. There was an opportunity for the Appellant to realize a profit considering the fact that the Payer had no control over the number of hours the Appellant could bill for. It should be mentioned here that paragraph 5(1)(a) of the EIA recognizes as insurable employment an employment under a contract of service where the earnings are calculated by the piece or partly by the hour and partly by the piece.
+[45] On the other hand, the Appellant did not bear any financial risk and did not have any risk of loss except for the fact that she had no benefits, no vacation pay and her mileage expenses were not reimbursed.
+[46] Considered as a whole, this factor appears to me to be neutral.
+Integration
+[47] Very little has been said during the hearing about the integration of the Appellant's work into the Payer's business. The Appellant argued in her pleadings that the integration factor shall be considered from the point of view of the worker and not from the point of view of the employer. In any event, my appreciation of the Appellant's services is that they were rendered as an integral part of the Payer's business.
+Intention
+[48] In this instance, the Payer and the Appellant did not have a common intention regarding their working relationship. The Payer intended the Appellant to be self-employed while the Appellant intended to be an employee of the Payer.
+[49] The Appellant went off payroll in 2008, she started invoicing the Payer for her services but was asked to stop submitting such invoices. Instead, she then prepared purchase orders. The Appellant reported her income from the Payer as business income in 2009 and she charged GST from 2008 to 2010. The Appellant alleged that she was forced to accept the conditions imposed by the Payer in 2008 in order to keep her job and to get a pay increase to $30 per hour.
+[50] Considering the fact that the intent of the parties is not shared by both parties, this factor cannot be considered as being conclusive, in and by itself.
+Conclusion
+[51] For the reasons referred to above, these appeals are allowed and the Minister of National Revenue's decisions regarding the insurability and the pensionability of the Appellant's employment with HTV Systems Ltd. for the period from January 1, 2010 to October 8, 2010 are vacated.
+Signed at Ottawa, Canada, this 22nd day of June 2012.
+"Réal Favreau"
+Favreau J.
+CITATION: 2012 TCC 218
+COURT FILE NOS.: 2011-2337(EI) and 2011-2340(CPP)
+STYLE OF CAUSE: Brenda Nightingale and Her Majesty the Queen and HTV Systems Ltd.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 7, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: June 22, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Stephen Oakey
+Agent for the Intervenor:
+Greg Riedstra
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervenor:
+Name:
+Firm:

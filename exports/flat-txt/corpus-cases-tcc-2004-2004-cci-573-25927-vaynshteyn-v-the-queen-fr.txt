@@ -1,0 +1,123 @@
+Title: Vaynshteyn v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25927/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-573-25927-vaynshteyn-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-09-24
+
+# Vaynshteyn v. The Queen
+
+- Citation: 2004 CCI 573
+- Decision date: 2004-09-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3660, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vaynshteyn v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-24
+Référence neutre
+2004 CCI 573
+Numéro de dossier
+2004-625(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-625(IT)I
+ENTRE :
+ESFIRA VAYNSHTEYN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Edmonton (Alberta), le 12 juillet 2004.
+Devant : L'honorable Georgette Sheridan
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me John-Paul Hargrove
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est admis avec dépens, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 4e jour d'avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI573
+Date : 20040924
+Dossier : 2004-625(IT)I
+ENTRE :
+ESFIRA VAYNSHTEYN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L'appelante, Mme Vaynshteyn, interjette appel contre la cotisation qui a été établie à son égard pour l'année d'imposition 2002. Il s'agit de savoir si elle a droit à un crédit d'impôt non remboursable pour les soins à domicile qu'elle a fournis à ses parents âgés à divers moments pendant l'année 2002. Pour avoir gain de cause dans cet appel, Mme Vaynshteyn doit prouver que les hypothèses sur lesquelles le ministre du Revenu national a fondé sa décision sont erronées, en particulier, les hypothèses énoncées aux alinéas 7d) et e) de la réponse à l'avis d'appel :
+d) pendant la période en question, l'appelante tenait un établissement domestique autonome au 114, Wolf Ridge Place, à Edmonton, qui était son lieu habituel de résidence, et
+e) pendant la période en question, les parents tenaient un établissement domestique autonome au 414, 8956-156e rue, à Edmonton, qui était leur lieu habituel de résidence.
+La position prise par le ministre est que l'appelante n'a pas droit à cette déduction parce qu'elle ne « tenait » pas un « établissement domestique autonome » qui était en même temps son « lieu habituel de résidence » et celui de ses parents à un moment de l'année 2002[1].
+[2] Mme Vaynshteyn a témoigné que tant que ses parents, Sofya et Mikhail Levin, n'avaient pas commencé à avoir des problèmes de santé en 2002, elle résidait avec son mari et leurs deux enfants adultes dans leur maison, au Wolf Ridge Place, à Edmonton (Alberta). Depuis qu'ils ont immigré au Canada il y a une quinzaine d'années, M. et Mme Levin vivent à Edmonton; en 2002, ils résidaient dans un appartement, situé sur la 156e rue, dont ils étaient copropriétaires avec Mme Vaynshteyn. Au début de l'année 2002, M. Levin a commencé à avoir des problèmes de santé. Mme Levin, qui ne se portait pas bien elle non plus, trouvait qu'il lui était de plus en plus difficile de faire face toute seule à la situation. Cela préoccupait énormément la famille. Il aurait été plus commode pour Mme Vaynshteyn (qui exploite une entreprise à domicile) d'installer ses parents chez elle, mais cela n'était pas possible étant donné que son père ne pouvait pas utiliser les escaliers de la maison, au Wolf Ridge Place. Il a en fin de compte été décidé que Mme Vaynshteyn irait rester chez ses parents dans l'appartement de la 156e rue.
+[3] En fin de compte, Mme Vaynshteyn a été obligée de rester chez ses parents non pas une seule fois, mais à trois reprises, en 2002 : du 18 janvier au 30 mars, du 2 mai au 12 juillet, et du 7 septembre au 21 octobre. Mme Vaynshteyn quittait chaque fois la maison de Wolf Ridge et allait s'installer à l'appartement de la 156e rue. Son nom était inscrit sur le tableau indicateur de l'appartement. Elle avait sa propre chambre et sa propre salle de bains, où elle s'installait et plaçait tous les effets personnels dont une personne a besoin pour un séjour prolongé d'une durée indéfinie. Mme Vaynshteyn partageait les dépenses du ménage, y compris les frais d'épicerie et les charges de copropriété, avec ses parents. Elle quittait régulièrement l'appartement pour aller travailler à son bureau à domicile au Wolf Ridge Place et pour faire des courses, par exemple pour aller chercher de la nourriture pendant les périodes pertinentes, mais elle retournait manger et coucher à l'appartement.
+[4] Au mois d'octobre 2002, la situation a changé. La santé de M. Levin s'était détériorée au point où il fallait le placer dans une maison de soins infirmiers. La santé de Mme Levin était également précaire et Mme Levin ne pouvait pas rester seule dans l'appartement. Toutefois, étant donné qu'elle n'avait plus à tenir compte des problèmes de déplacement de son père, Mme Vaynshteyn a décidé de retourner à la maison, au Wolf Ridge Place, et d'y installer sa mère. Mme Levin a apporté toutes les choses qu'il lui fallait pour un long séjour, y compris des ustensiles de cuisine. Mme Vaynshteyn s'est occupée de sa mère dans sa propre maison du 22 octobre au 31 décembre 2002.
+[5] Le ministre admet qu'en 2002, Mme Vaynshteyn remplissait la plupart des conditions prévues à l'alinéa 118(1)c.1) en ce sens qu'elle fournissait à certains moments des soins à des parents qui avaient plus de 65 ans. Toutefois, il soutient que Mme Vaynshteyn ne fournissait pas de soins à domicile dans un « établissement domestique autonome qui [était le] lieu habituel de résidence » de Mme Vaynshteyn et de ses parents.
+[6] Il s'agit d'une question de fait. Mme Vaynshteyn et Mme Levin étaient toutes deux des témoins crédibles. Je suis convaincue, selon la prépondérance des probabilités, que pendant les périodes pertinentes, en 2002, elles tenaient un établissement domestique autonome qui était leur lieu habituel de résidence. Plus précisément, je conclus que pendant les trois périodes allant du 18 janvier au 21 octobre 2002, Mme Vaynshteyn avait établi son lieu habituel de résidence à l'appartement de la 156e rue qu'elle partageait avec ses parents. Elle prenait ses repas à cet endroit, elle prenait soin de ses parents, elle dormait à l'appartement de la 156e rue et elle travaillait depuis cet endroit. Le titre légal n'est pas en soi déterminant en ce qui concerne le lieu de résidence, mais à mon avis, le fait que Mme Vaynshteyn était propriétaire de l'appartement avec ses parents renforce encore plus la position qu'elle a prise. D'un autre côté, on ne saurait raisonnablement s'attendre à ce que Mme Vaynshteyn se départisse des droits qu'elle possédait sur la maison de Wolf Ridge Place simplement afin d'étayer sa demande de déduction : son mari et ses enfants résidaient à cet endroit, son entreprise était située à cet endroit et elle ne pouvait aucunement savoir pendant combien de temps ses parents malades auraient besoin de soins. Il me semble que c'est la nature imprévisible du moment où les soins seront nécessaires et du temps pendant lequel ils le seront que visent les mots « [...] à un moment de l'année [d'imposition] [...] » figurant à l'alinéa 118(1)c.1). La législation ne précise pas la période minimale pendant laquelle les soins doivent être prodigués; elle prévoit uniquement qu'ils doivent être fournis pendant l'année, de sorte que la nécessité de pareils soins et leur caractère passager sont reconnus. Dans le cas de Mme Vaynshteyn, c'est ce qui est arrivé; après le 21 octobre 2002, lorsque la santé de son père s'était malheureusement détériorée au point où des soins appropriés pouvaient uniquement être fournis dans une maison de soins infirmiers, Mme Vaynshteyn n'avait plus à être présente à l'appartement (du moins en ce qui concerne son père). C'est alors qu'elle est retournée vivre au Wolf Ridge Place. Pour toutes ces raisons, je suis convaincue que Mme Vaynshteyn et ses parents tenaient l'appartement de la 156e rue comme lieu habituel de résidence pour chacune des périodes, entre le 18 janvier et le 21 octobre 2002.
+[7] Si ma décision est erronée, je conclus en outre que Mme Vaynshteyn a fourni des soins à domicile à sa mère au sens de la disposition législative, au Wolf Ridge Place, du 22 octobre au 31 décembre 2002. Selon la preuve non contredite présentée par Mme Vaynshteyn et par sa mère, Mme Levin s'est installée chez sa fille dans l'intention d'y établir sa résidence pendant qu'elle était en mauvaise santé. Elle a apporté ses ustensiles de cuisine et suffisamment de vêtements et d'effets personnels pour un long séjour. Mme Levin ne parle pas couramment l'anglais; à l'audience, elle a témoigné par l'entremise d'un interprète. Même si elle n'a pas autant de difficulté que son mari à se déplacer, il lui était difficile de le faire sans se faire aider et il lui est encore difficile de le faire. Il est déraisonnable de conclure que, du 22 octobre au mois de décembre 2002, Mme Levin changeait constamment d'adresse. Étant donné son état de santé et puisqu'elle comptait sur sa fille, entre autres choses, pour garder contact avec son mari dans la maison de soins infirmiers, je suis convaincue que, du 22 octobre au mois de décembre 2002, Mme Vaynshteyn et elle tenaient leur lieu habituel de résidence à la maison, au Wolf Ridge Place.
+[8] Par conséquent, l'appel est admis avec dépens et la nouvelle cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation.
+Signé à Ottawa, Canada, ce 24e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 4e jour d'avril 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI573
+No DU DOSSIER DE LA COUR :
+2004-625(IT)I
+INTITULÉ :
+Esfira Vaynshteyn et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Le 12 juillet 2004
+MOTIFS DU JUGEMENT :
+L'honorable G. Sheridan
+DATE DU JUGEMENT :
+Le 24 septembre 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me John-Paul Hargrove
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Conformément à l'alinéa 118(1)c.1) de la Loi de l'impôt sur le revenu, qui est rédigé comme suit : Soins à domicile d'un proche - dans le cas où le particulier tient à un moment de l'année, seul ou avec une ou plusieurs autres personnes, un établissement domestique autonome qui est son lieu habituel de résidence et celui d'une personne qui remplit les conditions suivantes :
+(i) elle a atteint l'âge de 18 ans avant ce moment,
+(ii) elle est :
+(A) soit l'enfant ou le petit-enfant du particulier,
+(B) soit une personne résidant au Canada qui est le père, la mère, le grand-père, la grand-mère, le frère, la soeur, l'oncle, la tante, le neveu ou la nièce du particulier ou de son époux ou conjoint de fait,
+(iii) elle est :
+(A) soit la mère, le père, la grand-mère ou le grand-père du particulier, ayant atteint l'âge de 65 ans avant ce moment,
+(B) soit à la charge du particulier en raison d'une déficience mentale ou physique,
+[...]

@@ -1,0 +1,109 @@
+Title: Climolai c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22413/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-11-22413-climolai-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-01-04
+
+# Climolai c. La Reine
+
+- Citation: 2006 CCI 11
+- Decision date: 2006-01-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2270, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Climolai c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-04
+Référence neutre
+2006 CCI 11
+Numéro de dossier
+2003-1899(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1899(IT)G
+ENTRE :
+NEVIO CIMOLAI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Susan Wong
+________________________________________________________________
+ORDONNANCE
+La Cour ordonne à l'appelant de payer, dans une proportion de 50 p. 100, les dépens de toute affaire ou procédure antérieure au 26 janvier 2005 et tous les dépens ultérieurs.
+Signé à Ottawa, Canada, ce 4e jour de janvier 2006.
+« Gerald J. Rip »
+Le juge Rip
+Traduction certifiée conforme
+ce 6e jour de décembre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI11
+Date : 20060104
+Dossier : 2003-1899(IT)G
+ENTRE :
+NEVIO CIMOLAI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Rip
+[1] Dans les motifs de jugement que j'ai rendus dans l'appel Nevio Cimolai c. Canada le 25 novembre 2005, j'ai demandé aux parties de présenter des observations par écrit sur la question des dépens.
+[2] Par un avis d'appel qui a été déposé le 23 mai 2003, l'appelant a interjeté appel à l'égard de son année d'imposition 2001 en alléguant qu'il avait le droit de déduire de son revenu a) les frais juridiques qu'il avait engagés en vue d'établir son droit de recevoir un salaire d'un employeur (la « première question » ) et b) les frais juridiques qu'il avait engagés [TRADUCTION] « afin d'intenter une action en responsabilité délictuelle dans le cours normal des activités » (la « seconde question » ). Le montant des frais qui a été déduit dans chaque cas n'était pas indiqué dans l'avis d'appel; toutefois, je suppose que, du moins, le montant global qui a été déduit était indiqué dans la déclaration de revenus de 2001 du Dr Cimolai.
+[3] À l'instruction, l'avocate de l'intimée a fait savoir que sa cliente consentait à un jugement pour la somme de 48 319,61 $ au titre des frais juridiques que l'appelant avait engagés en vue d'établir son droit à un salaire, soit la première question. L'instruction s'est poursuivie à l'égard de la seconde question seulement. Or, le Dr Cimolai n'a pas eu gain de cause sur ce dernier point.
+[4] Au moment où j'ai rendu jugement, je ne savais pas à quel stade de l'appel l'intimée avait informé le Dr Cimolai qu'elle consentait à la déduction des frais juridiques qu'il avait engagés pour réclamer son salaire et je n'étais donc pas en mesure de statuer sur les dépens. Par exemple, si la Couronne avait fait part de son consentement à la dernière minute, elle n'aurait peut-être pas droit aux dépens.
+[5] Dans ses observations, le Dr Cimolai fait savoir que la Couronne [TRADUCTION] « a mentionné à titre non officiel devant la Cour, durant une conférence préparatoire à l'audience, au mois de janvier 2005, qu'elle renoncerait probablement à débattre cette question » . Toutefois, il déclare que rien n'a été consigné par écrit.
+[6] Selon le Dr Cimolai, la Couronne devrait être tenue responsable de tous les dépens, puisqu'il a eu gain de cause [TRADUCTION] « quant à la majeure partie, et de loin, de la cotisation » . Il affirme également que, lorsque la Couronne a fait savoir, au mois de janvier 2005, qu'elle consentirait à la déduction du montant de 48 319,61 $, l'avocate de la Couronne a déclaré [TRADUCTION] qu' « elle prévoyait que les dépens seraient payés par la Couronne, puisque la somme représentait la plus grande partie du montant global déduit » . De plus, selon le Dr Cimolai, la Couronne savait dès le début de l'appel qu'il avait le droit de déduire 48 319,61 $.
+[7] L'avocate de l'intimée fait savoir que, dès le 3 décembre 2003, sa cliente a demandé au Dr Cimolai de fournir les sous-totaux pour les deux catégories de frais et que l'appelant n'a pas répondu. La demande a été réitérée le 13 avril 2004, lorsque l'intimée a signifié un questionnaire au Dr Cimolai, conformément à l'article 113 des Règles de la Cour canadienne de l'impôt (procédure générale). Selon l'avocate, le Dr Cimolai a répondu aux questions en remettant des pages indiquant le total de chaque facture, mais sans donner les détails faisant partie de chaque facture, ce qui aurait permis à l'intimée de s'assurer des éléments associés aux frais juridiques. L'avocate déclare que, le 28 mai 2004, elle a écrit au Dr Cimolai pour lui demander ces précisions, mais que celui-ci n'a pas répondu.
+[8] Le 25 janvier 2005, l'appelant a présenté une requête en vue d'obtenir les mesures de redressement suivantes : a) une ordonnance admettant l'appel; b) subsidiairement, une ordonnance obligeant l'intimée à répondre à un second interrogatoire par écrit; c) subsidiairement encore, une ordonnance obligeant l'intimée à se présenter à des interrogatoires préalables oraux; d) l'adjudication en sa faveur des dépens de la requête et une indemnité pour le salaire perdu.
+[9] Le 25 janvier 2005, l'intimée a présenté une requête reconventionnelle en vue d'obtenir les mesures de redressement suivantes : a) une ordonnance mettant fin à l'interrogatoire préalable écrit de l'intimée par l'appelant; b) une ordonnance obligeant l'appelant à remettre à l'intimée des copies complètes de ses factures d'avocat; c) une ordonnance inscrivant l'appel au rôle; d) l'adjudication des dépens de la requête.
+[10] Lors de l'audition des requêtes et de la requête reconventionnelle, le 25 juillet 2005, l'appelant a invoqué le secret professionnel comme motif de refus de communication des copies complètes de ses factures d'avocat. Selon le mémoire soumis par l'intimée, l'appelant a affirmé craindre de communiquer les factures complètes, étant donné que les actions qu'il avait intentées devant la Cour suprême de la Colombie-Britannique étaient en instance et qu'il ne voulait pas risquer que les renseignements figurant dans les factures soient mis à la disposition des parties dans ces actions. L'avocate de l'intimée déclare que mon collègue, le juge Hershfield, a averti l'appelant que son refus de communiquer les factures complètes pourrait nuire à son appel. L'avocate de l'intimée déclare que l'appelant a informé le juge Hershfield qu'il serait prêt à montrer les factures complètes, mais qu'il ne voulait pas que des copies soient faites ou que les factures complètes fassent partie du dossier de la Cour. La Cour a ordonné qu'il soit mis fin à l'interrogatoire préalable écrit fait par l'appelant, l'intimée devant toutefois répondre de nouveau à trois questions figurant dans l'interrogatoire écrit initial. Le juge Hershfield a apparemment refusé d'ordonner à l'appelant de communiquer les factures complètes pour le motif qu'il avait le droit de refuser la communication à ses risques et périls. Une ordonnance et des motifs d'ordonnance ont par la suite été rendus par écrit le 3 février 2005.
+[11] L'avocate de l'intimée affirme avoir rencontré l'appelant immédiatement après la conclusion de l'audience, le 25 janvier 2005, afin d'examiner les factures complètes. L'avocate de l'intimée signale qu'à la fin de la rencontre, elle a demandé à l'appelant d'obtenir une lettre de son avocat dans l'action fondée sur la suspension injustifiée en vue d'attester le montant des honoraires d'avocat (48 319,61 $) engagés pour cette action. L'avocate de l'intimée déclare que lors de cette rencontre, elle a également informé l'appelant qu'elle s'attendait à admettre la déductibilité des frais juridiques engagés pour l'action fondée sur la suspension injustifiée. Toutefois, l'avocate de l'intimée déclare qu'il lui fallait la lettre de l'avocat de l'appelant afin d'obtenir les instructions nécessaires pour admettre ce point.
+[12] Le 17 février 2005, l'appelant a remis à l'intimée une lettre de son avocat dans l'action fondée sur la suspension injustifiée qui attestait que les frais juridiques engagés étaient de 48 319,61 $.
+[13] Le 26 avril 2005, les parties ont comparu devant le juge Hershfield pour une audience sur l'état de l'instance. L'avocate de l'intimée dit que lors de cette audience, la Cour a été informée que l'intimée était prête à admettre la déductibilité des frais juridiques associés à l'action fondée sur la suspension injustifiée, mais que les parties ne s'entendaient toujours pas sur la déductibilité des frais juridiques associés à l'action en diffamation. L'avocate de l'intimée affirme avoir offert de consigner au dossier le montant admis au titre des frais juridiques. Toutefois, elle dit que le juge Hershfield lui a demandé de donner des détails à ce sujet au juge chargé de l'instruction et qu'il a fixé la date de l'audience au 6 septembre 2005.
+[14] Je me rends bien compte que le Dr Cimolai n'était pas représenté par un avocat et que, lors des diverses rencontres qu'il a eues avec l'avocate de l'intimée et au cours des diverses procédures, il hésitait peut-être à fournir des renseignements à la Couronne. Toutefois, au mois d'avril 2005, le Dr Cimolai savait que la première question avait été réglée et qu'il n'avait pas à se préparer aux fins de l'instruction à cet égard. Si la Couronne a tardé à décider d'admettre la première question, c'était en bonne partie à cause des actions ou de l'inaction de l'appelant lui-même, ce qui était peut-être attribuable à ses soupçons et à sa méfiance envers le fisc.
+[15] Quant à l'instruction même de l'appel, il fallait uniquement instruire et trancher la seconde question. Il fallait uniquement se préparer aux fins de l'instruction de la seconde question; or, le Dr Cimolai n'a pas eu gain de cause quant à cette question. Il devra donc payer, dans une proportion de 50 p. 100, les
+dépens de toute affaire ou procédure antérieure au 26 janvier 2005 et tous les dépens ultérieurs.
+Signé à Ottawa, Canada, ce 4e jour de janvier 2006.
+« Gerald J. Rip »
+Le juge Rip
+Traduction certifiée conforme
+ce 6e jour de décembre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI11
+No DU DOSSIER DE LA COUR : 2003-1899(IT)G
+INTITULÉ : Nevio Cimolai c. La Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : Le 6 septembre 2005
+MOTIFS DU JUGEMENT : L'honorable juge Gerald J. Rip
+DATE DU JUGEMENT : Le 4 janvier 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Susan Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,273 @@
+---
+title: "Hillcore Financial Corporation v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521164/index.do"
+last_modified: "2023-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 144"
+citation2: ""
+neutral_citation: "2023 TCC 144"
+decision_date: "2023-09-28"
+language: "en"
+item_id: "521164"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5689
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:46:21.988000+00:00"
+cases_cited_count: 20
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "71941f0401e93f4c4bc12b3c9b8a19c1adec12d533194c64c257bde8741e5c48"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hillcore Financial Corporation v. The King
+
+- Citation: 2023 TCC 144
+- Decision date: 2023-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5689, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hillcore Financial Corporation v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-09-28
+Neutral citation
+2023 TCC 144
+File numbers
+2022-103(IT)G
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-103(IT)G
+BETWEEN:
+HILLCORE FINANCIAL CORPORATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Cost submissions, in writing, in regard to a motion heard on November 25, 2022 at Montréal, Québec
+Before: The Honourable Justice Dominique Lafleur
+Participants:
+Counsel for the Appellant:
+Guy Du Pont
+Marie-France Dompierre
+Luca Teolis
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Christopher Kitchen
+Meaghan Mahadeo
+Helli Raptis
+Chris Eccles
+ORDER
+In accordance with the attached Reasons for Order;
+IT IS ORDERED that:
+1. The Appellant is awarded costs in the amount of $10,000 (inclusive of disbursements) payable forthwith, in respect of the Appellant’s motion to strike that was heard on November 25, 2022; and
+2. Each party shall bear their own costs in respect of these cost submissions.
+Signed at Ottawa, Canada, this 28th day of September 2023.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2023 TCC 144
+Date: 20230928
+Docket: 2022-103(IT)G
+BETWEEN:
+HILLCORE FINANCIAL CORPORATION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Lafleur J.
+I. OVERVIEW
+[1] These Reasons are in respect of a costs award regarding the Appellant’s motion (the “Motion”) made under sections 49 and 53 of the Tax Court of Canada Rules (General Procedure) (the “Rules”).
+[2] The hearing of the Motion took place on November 25, 2022.
+[3] The Motion sought an order to (i) strike out the Respondent’s Reply without leave to amend and to allow the appeal with costs (the “Primary Relief”); (ii) in the alternative, strike out the Reply without leave to amend and order that the allegations of facts contained in the Appellant’s Notice of Appeal are presumed to be true for the purposes of the appeal pursuant to subsection 44(2) of the Rules (the “Alternative Relief”); and (iii) in the further alternative, strike out the Reply and direct the Respondent to file a fresh Reply within 30 days of the date of the order granting the Motion and extending by a further 30 days the time within which the Appellant may file an Answer, if it deems advisable.
+[4] By order dated May 18, 2023 (the “Order”) and in accordance with reasons for order on the same date (the “Motion’s Reasons for Order”), I granted the Motion, struck the Reply in its entirety and allowed the Respondent to file and serve a fresh Reply to the Notice of Appeal. I awarded costs for the Motion to the Appellant, in any event of the cause, directing the parties to agree on the amount of such costs. Failing both an agreement between the parties on costs and the parties providing further submissions on costs within the time limits indicated in my Order, I ordered that costs for the Motion would be awarded to the Appellant in accordance with Tariff B of Schedule II of the Rules (the “Tariff”). Both parties provided written submissions on costs within the time limits indicated in my Order.
+[5] The Appellant asks for costs in excess of the Tariff, that is costs in the amount of $91,052.35, representing 85% of the legal fees incurred for the services of counsel rendered to the Appellant in relation to the Motion ($89,944.45) plus disbursements ($1,107.90) pursuant to section 147 of the Rules, or some other amount as this Court deems just in the circumstances. Furthermore, the Appellant asks for costs for these cost submissions, if contested.
+[6] The Respondent is of the view that an award of costs to the Appellant should be limited to costs calculated in accordance with the Tariff, that is costs of $700.
+II. THE RULES AND THE LEGAL PRINCIPLES
+[7] Section 147 of the Rules gives the Court broad discretion in awarding costs.
+[8] The general rule is that costs should be “compensatory and contributory” and “not punitive” (see Grenon v. The Queen, 2021 TCC 89, at para 12). Further, an award of costs is generally not intended to fully compensate the actual costs incurred by a party (see Velcro Canada Inc. v. The Queen, 2012 TCC 273, [Velcro], at para 29).
+[9] An exception to that rule is costs established on a solicitor-client basis, which are intended to provide full indemnification of legal costs in exceptional circumstances where a party displays “reprehensible, scandalous or outrageous conduct”. This Court also has discretion to award costs on a solicitor-client basis (see Ford Motor Company of Canada Limited v. The Queen, 2015 TCC 185 [Ford Motor], at para 7).
+[10] The broad discretion of the Court to award costs should not be exercised in an arbitrary manner but must be exercised on a principled basis; further, the quantum of costs must be reasonable and also determined on a principled basis (The Queen v. Lau, 2004 FCA 10, at para 5; The Queen v. Landry, 2010 FCA 135, at paras 22 and 54; Guibord v. Canada, 2011 FCA 346, at para 10, The King v. Bowker, 2023 FCA 133, at para 32).
+[11] Subsection 147(3) of the Rules provides a list of factors the Court should consider in exercising its discretion to award costs pursuant to subsection 147(1) of the Rules. However, none of the factors listed in subsection 147(3) of the Rules are determinative and as such, the Court should consider all relevant factors in exercising its discretion (Velcro, supra, at paras 12-13). As indicated by this Court in Velcro, the Tariff is “… a reference point only should the Court wish to rely upon it” (at para 8).
+[12] The relevant parts of the Rules read as follows:
+147 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+…
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+147 (1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+…
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte:
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants:
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[13] Further, the Court has the discretionary power to award costs in respect of a part of a proceeding (subsection 147(5) of the Rules), as here, in respect of the Motion.
+[14] This Court is not limited to applying the Tariff. Subsection 147(4) of the Rules provides that the Court “… may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs”.
+[15] The case law has held that “…increased costs beyond the Tariff are not tied to exceptional circumstances, such as misconduct, malfeasance or undue delay” (see Duffy v. The Queen, 2020 TCC 135 [Duffy], at para 21; Daishowa-Marubeni International Ltd v. The Queen, 2013 TCC 275, at para 4; Ford Motor, supra, at para 7). Indeed, recent case law held that a greater recognition of the work involved in tax litigation should be a factor to consider in awarding costs (see Duffy, supra, at para 21; Blackburn Radio Inc. v. the Queen, 2013 TCC 98, at paras 14-15; Invesco Canada Ltd v. The Queen, 2015 TCC 92, at paras 17 and 25; Spruce Credit Union v. The Queen, 2014 TCC 42, at para 52; Univar Holdco Canada ULC v. The Queen, 2020 TCC 15, at para 33).
+III. APPELLANT’S SUBMISSIONS
+[16] According to the Appellant, this is a proper case for the Court to award solicitor-client costs as the Respondent’s conduct in the prosecution of this appeal to date has been reprehensible. In the alternative, the Appellant asks for costs in excess of the Tariff payable forthwith.
+[17] The Appellant relies, inter alia, on the principles established by the Supreme Court of Canada that a Court awards solicitor-client costs when “there has been reprehensible, scandalous or outrageous conduct on the part of one of the parties” (Young v. Young, [1993] 4 SCR 3, p. 17).
+[18] The Appellant raises seven grounds in support of its position:
+The Respondent knew or should have known better than to produce a reply to the notice of appeal that was “…laden with so many defective allegations and hopeless to amend which drove this Court to strike it in its entirety” (Appellant’s submissions, para 6);
+The Respondent had ample time to “file an appropriate amended Reply” that complied with the Rules and applicable principles;
+The impugned allegations were not abandoned upon being challenged;
+The Appellant should not have been put to the considerable expense of preparing and defending a motion which should have been granted on consent at least to the extent of the order the Court eventually granted;
+This is not a rare case, as the Respondent would have the Court believe, where the Respondent produces a pleading which is so overwhelming defective as to warrant this Court striking it in its entirety;
+The Respondent’s approach to pleadings did not allow the parties to find ways to expedite the adjudication of their disputes in a cost-effective manner (Appellant’s submissions, para 11);
+The Reply’s procedural failings have turned an important tax case into a costly fiasco that has not only prejudiced the Appellant (time and resources wasted), but had created a very disturbing precedent for all parties litigating appeals in this Court, until this Court intervened to set the record straight (Appellant’s submissions, para 13).
+[19] Alternatively, according to the Appellant, the Court should award enhanced costs on a partial indemnity basis in light of the following exceptional circumstances:
+-the result of the proceedings;
+-the amounts at issue and the importance of the issues;
+-the volume of work; and
+-the Respondent’s conduct.
+IV. RESPONDENT’S SUBMISSIONS
+[20] According to the Respondent, the factors involved in this case do not support an enhanced costs award, and hence, do not support costs on a solicitor-client basis.
+[21] Solicitor-client costs are justified only in exceptional circumstances where the conduct of the opposing party is “reprehensible, scandalous or outrageous”. The Appellant did not submit any evidence to show that the Respondent’s conduct was of that nature.
+[22] According to the Respondent, as no such evidence was submitted, the Court is left without any option but to use the Tariff as a reference, having regard to the factors listed in subsection 147(3) of the Rules. Further, the Respondent acknowledges that the Respondent’s offer made to the Appellant to resolve the costs issue with a cost award of $20,000 may be reasonable, absent any evidentiary basis to support a lump-sum award beyond the Tariff (Respondent’s submissions, para 5).
+[23] The Appellant was unsuccessful in securing both the Primary Relief and the Alternative Relief. The Appellant argues that the Motion’s Reasons for Order are the factual basis for its request for solicitor-client costs. However, according to the Respondent, the Appellant has not met its burden to justify such an award, as there is no evidentiary or factual basis provided by the Appellant to show “reprehensible, scandalous our outrageous” conduct.
+[24] Furthermore, the Respondent is of the view that as there is no evidence of the costs incurred including the hours billed, the counsel working on the matter and their respective hourly rates, and disbursements, this Court should not award costs above the Tariff.
+V. CONCLUSION
+[25] For the reasons below, I find that the Appellant did not establish facts justifying a costs award on a solicitor-client basis.
+[26] For the reasons below, I find that the Appellant should be awarded enhanced costs in a lump sum amount of $10,000 for the Motion (inclusive of disbursements) payable forthwith. I find that this award of costs is reasonable, appropriate and fair in the circumstances of the Motion, as it is an interlocutory matter. In reaching my decision, I took into account all the factors set out in subsection 147(3) of the Rules as well as the fact that the Tariff is inadequate in the present case.
+VI. DISCUSSION
+6.1 Solicitor-client costs
+[27] In order for the Court to award costs on a solicitor-client basis, it must be satisfied that a party’s conduct has been “reprehensible, scandalous or outrageous”. Even in such circumstances, the awarding of costs on a solicitor-client basis is not automatic, but remains discretionary (see Ford, supra, at para 7).
+[28] As indicated by the Federal Court in Microsoft Corporation v. 9038-3746 Québec Inc., 2007 FC 659:
+[8] The granting of costs on a party and party basis assumes a partial, not a complete, indemnity. Solicitor-client costs are allowed when it is appropriate to completely indemnify the successful party, or at least on a very substantial basis. Costs are not usually granted on a solicitor-client basis. Thus the first issue is whether the behaviour of the defendants was such that they should be sanctioned by this type of order.
+…
+[11] Solicitor-client costs are saved for those occasions when a party has displayed reprehensible, scandalous or outrageous conduct (see: Young v. Young, [1993] 4 S.C.R. 3 at pp. 134-135; Baker v. Canada (Minister of Citizenship and Immigration), [1999] 2 S.C.R. 817 at p. 864 and Apotex Inc. v. Canada (Minister of National Health and Welfare) (2000), 9 C.P.R. (4th) 289 (F.C.A.)).
+…
+[16] “Reprehensible” behaviour is that deserving of censure or rebuke; blameworthy. “Scandalous” comes from scandal which may describe a person, thing, event or circumstance causing general public outrage or indignation. Among other things, “outrageous” behaviour is deeply shocking, unacceptable, immoral and offensive (see: Oxford Canadian Dictionary).
+[29] According to the Appellant, the conduct of the Respondent was reprehensible as he deliberately filed a Reply he knew was defective, required the Appellant to incur expenses of the Motion to compel the Respondent to follow well-established and elementary rules of pleadings, and required the Court to render a detailed decision striking the Reply in its entirety following a full hearing. Furthermore, the Respondent chose to proceed and continued to argue untenable positions, such as the appropriateness of adding close to 100 pages of schedules. In addition, at the hearing of the Motion, the Respondent pleaded that many of the improprieties could be resolved another day.
+[30] Although I agree with the Appellant that it was not incumbent on the Appellant to redraft the Reply or to negotiate its content, I find that the conduct of the Respondent does not qualify as “reprehensible, scandalous or outrageous”. The deficient drafting of the Reply and the conduct of the Respondent did not amount to the type of conduct that warrants the awarding of solicitor-client costs as such conduct was not a behavior deserving censure or rebuke, did not cause general public outrage or indignation, nor was it deeply shocking, unacceptable, immoral or offensive.
+6.2 Costs above the Tariff
+[31] Most of the factors set out in subsection 147(3) of the Rules are neutral and do not favour an enhanced costs award to the Appellant. On the other hand, the volume of work favours an enhanced costs award. As indicated above, a costs award in the amount of $10,000 (inclusive of disbursements) is reasonable, appropriate and fair in the circumstances of the Motion.
+(i) The result of the proceeding (para 147(3)(a) of the Rules).
+[32] The Appellant argues that it was successful in obtaining the relief it sought and refers to paragraph 179 of the Motion’s Reasons for Order, which read as follows:
+… given the extent of the deficiencies found in the Reply, the Reply cannot be cured by simple amendment. If the Reply were to stand, the scope of discoveries would be unmanageable… The Reply has to be struck as, for the reasons detailed above, it will either prejudice or delay the fair hearing of the appeal, or is scandalous, frivolous and vexatious, or is an abuse of the process of the Court.
+[33] In addition, the Appellant points to its success on the multiple issues raised by the Motion.
+[34] However, the Appellant was only partly successful. The Appellant did not succeed in obtaining the Primary Relief asking the Court to allow the appeal and vacate the reassessments. The Appellant did not succeed in obtaining the Alternative Relief, that the Reply be struck without leave to amend and that the allegations of facts contained in the Appellant’s Notice of Appeal be presumed true for the purposes of the appeal. Instead, I allowed the Motion and struck the Reply in its entirety, but allowed the Respondent to file a fresh Reply, following the well-established principle that a pleading can only be struck without leave to amend where there is not a “scintilla” of legitimacy to the cause of action or reasonable defense to the correctness of an assessment (para 180 of the Motion’s Reasons for Order).
+[35] Because the Appellant was partly successful in the Motion, I awarded costs to the Appellant. However, because of the Appellant’s mixed success, this factor is neutral in determining the amount of the costs to be awarded to the Appellant.
+(ii) The amounts in issue and the importance of the issues (paras 147(3)(b) and (c) of the Rules).
+[36] According to the Appellant, the amount in dispute for the Appellant is significant as the relevant reassessments result in additional income of $89,139,419 for the 2012 to 2015 taxation years, as well as penalties. Pursuant to the reassessments at issue, additions to tax account were disallowed as well as some deductions. The Appellant argues that, given the magnitude of the amount in dispute, the issue was of significant importance to the Appellant and fully justified the legal expenses incurred for the Motion. Furthermore, according to the Appellant, the issues raised by the Motion are important for the development of tax law, to the public interest or to a broad number of taxpayers and thus, they warrant enhanced costs.
+[37] I do not agree with the Appellant. I find that both of these factors, namely the amounts in issue and the importance of the issues, are neutral and do not favour an enhanced costs award to the Appellant.
+[38] Although the amount in issue is significant in the appeal filed by the Appellant, this costs award concerns an interlocutory motion, which Motion did not address the correctness and validity of the reassessments at issue. Therefore, I do not find that the factor of the amounts in issue favours an enhanced cost award for the Motion.
+[39] Furthermore, the factor of the importance of the issues refers to issues of statutory interpretation, constitutional issues or serious matters of public interest. Importance is not assessed from the perspective of the Appellant, but rather from the perspective of jurisprudential value.
+[40] Even though an issue can be of fundamental importance to a party, that does not mean that the case has precedential value as explained by this Court in Klemen v. The Queen, 2014 TCC 369, at para 18:
+18 The Appellant argues that, because the issues in the appeals were of significant financial importance to him, this factor supports an increased costs award in his favour. However, the jurisprudence suggests that the question is not how important the issues are to the individual taxpayer (one might expect that any taxpayer bringing an appeal to the Tax Court of Canada would consider his case to be of significant personal importance), but rather whether the decision on the issues will have significant precedential and jurisprudential value. For example, see Henco (2014 TCC 278 at paras. 7-11) and General Electric Capital Canada Inc. v. The Queen (2010 TCC 490, 2010 DTC 1353 at paras. 32-33).
+[Emphasis added.]
+[41] I agree with the Respondent that the case law on pleadings has long been settled and no novel issue of broad public interest was raised by the Motion to justify an enhanced costs award.
+(iii) Any offer of settlement made in writing (para 147(3)(d) of the Rules).
+[42] There are no relevant offers of settlement concerning the Motion to consider for this costs award. Accordingly, this factor is not relevant.
+(iv) The volume of work and complexity of the issues (paras 147(3)(e) and (f) of the Rules).
+[43] In the present case, I do not find that the issues raised by the Motion were complex. Case law on pleadings is well settled, so while the case is not overly simple, the factor of complexity in the present case is neutral.
+[44] I will now turn to the volume of work involved.
+[45] According to the Appellant, it was compelled to expend substantial time in conducting a thorough analysis of the lengthy Reply, preparing for the hearing of the Motion and ultimately, arguing the Motion. In addition, the Appellant argues the volume of work required to review the Reply containing 125 pages, including 85 pages of schedules, and to prepare for and argue the Motion should attract enhanced costs. According to the Appellant, “… all this work was required in relation to a pleading the Respondent knew was defective from the beginning as was made plain from concessions made at the hearing of the Motion” (Appellant’s submissions, at para 30).
+[46] As indicated in the Appellant’s submissions, the Appellant spent 136.3 hours totalling legal fees of $105,817 to prepare for and draft the Motion, to conduct legal research, to draft the submissions in support of the Motion, and to prepare for and conduct the hearing.
+[47] According to the Respondent, the Appellant failed to substantiate the volume of work it claims and this factor cannot warrant enhanced costs in the absence of a bill of costs and an affidavit of its disbursements sufficient to determine the nature and extent of services rendered.
+[48] I do not agree with the Respondent. As indicated by this Court in Velcro, supra (at para 25), facts presented by the Appellant’s counsel do not have to be made under oath as they were presented by an officer of the Court.
+[49] In the present case, it is not necessary for the Court to have all the details on the work performed, or the identity of the lawyers, articling students or students (if any) who worked on the matter. I assume that the work performed by the Appellant was necessary for the matter before me, and reasonably required to prepare for the Motion and to attend the hearing (see Hansen v. The Queen, 2021 TCC 39, at para 50; Sun Life Assurance Co. of Canada v. The Queen, 2015 TCC 171, at para 23).
+[50] However, I also note that the hearing of the Motion lasted only half a day and involved no witness.
+[51] For these reasons, I find that the volume of work militates in favour of awarding enhanced costs to the Appellant.
+(v) Failure to make admissions (para 147(3)(h) of the Rules).
+[52] I find that the Respondent could have made more concessions, but ultimately could not have consented to the Primary Relief or the Alternative Relief. I also note that the Respondent made some concessions as set out in the written submissions for the Motion, and that the Respondent reached out to the Appellant to identify paragraphs in the Reply it took issue with.
+[53] For these reasons, I find that this factor is neutral and does not affect the costs award.
+(vi) Improper or vexatious proceedings (para 147(3)(i) of the Rules).
+[54] The Motion was not improper, vexatious, unnecessary, negligent, mistaken or excessively cautious.
+[55] For these reasons, I find that this factors is neutral and do not affect the costs award.
+(vii) Expert witness expenses (para 147(3)(i.1) of the Rules).
+[56] No expert witnesses gave evidence in the context of the Motion. Accordingly, this factor is not relevant.
+(viii) The conduct of the parties and any other matter relevant to the question of costs (paras 147(3)(g) and (j) of the Rules).
+[57] For the reasons below, I find that these factors are neutral and do not favour an enhanced costs award to the Appellant.
+[58] According to the Appellant, the Respondent’s egregious conduct clearly merits an enhanced costs award. I do not agree with the Appellant. As I had concluded above, the deficient drafting of the Reply does not constitute “egregious” conduct that would warrant an enhanced costs award.
+[59] I am also of the view that the hearing of the Motion was conducted in an efficient and professional manner by both the Respondent and the Appellant. Both parties were well prepared for the hearing of the Motion and provided detailed written submissions which were very useful to the Court.
+[60] However, there is a caveat to my comments above. I find that the conduct of both parties lengthened the duration of the proceeding.
+[61] Considering the well-known principles applicable to pleadings, the Respondent could have made more concessions before the hearing of the Motion or at the commencement of the hearing, as mentioned above, though, on the facts of this case, the Respondent could not have consented to the Motion under the Primary Relief or the Alternative Relief.
+[62] On the other hand, I find that the conduct of the Appellant also lengthened the duration of the proceeding. The Appellant did not respond to the Respondent’s requests about the Appellant’s complaint about the Reply. The Respondent wrote twice to the Appellant, once in August 2022 and again in September 2022, to ask for the particular paragraphs of the Reply that fell within the Appellant’s complaints. The Appellant sent its draft submissions to the Respondent on November 23, 2022, only two days before the hearing of the Motion. Therefore, I find that the Respondent’s ability to respond appropriately was limited.
+Signed at Ottawa, Canada, this 28th day of September 2023.
+“Dominique Lafleur”
+Lafleur J.
+CITATION:
+2023 TCC 144
+COURT FILE NO.:
+2022-103(IT)G
+STYLE OF CAUSE:
+HILLCORE FINANCIAL CORPORATION v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+Cost submissions in writing for motion heard November 25, 2022
+REASONS FOR ORDER BY:
+The Honourable Justice Dominique Lafleur
+DATE OF ORDER:
+September 28, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Guy Du Pont
+Marie-France Dompierre
+Luca Teolis
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Christopher Kitchen
+Meaghan Mahadeo
+Helli Raptis
+Chris Eccles
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Guy Du Pont
+Marie-France Dompierre
+James D. Trougakos
+Firm:
+Davies Ward Phillips & Vineberg LLP Montréal, Québec
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

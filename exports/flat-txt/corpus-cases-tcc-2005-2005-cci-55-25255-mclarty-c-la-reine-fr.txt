@@ -1,0 +1,365 @@
+Title: McLarty c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25255/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-55-25255-mclarty-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-01-26
+
+# McLarty c. La Reine
+
+- Citation: 2005 CCI 55
+- Decision date: 2005-01-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2384, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLarty c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-26
+Référence neutre
+2005 CCI 55
+Numéro de dossier
+97-3628(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 97-3628(IT)G
+ENTRE :
+ALLAN MCLARTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus à Calgary (Alberta), les 8 au 12, 15 au 19, 22 et 23,
+25 et 26 septembre 2003.
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Avocats de l'appelant :
+Mes Carman R. McNary,
+Jehad Haymour et Denny Kwan
+Avocates de l'intimée :
+Mes Wendy Burnham et
+Deborah Horowitz
+JUGEMENT
+Les appels des cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 1992 et 1994 sont accueillis avec dépens selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 26e jour de janvier 2005.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour d'avril 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI55
+Date : 20050126
+Dossier : 97-3628(IT)G
+ENTRE :
+ALLAN MCLARTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Les faits
+[1] L'appelant fait partie d'un certain nombre d'investisseurs qui ont placé de l'argent dans des données sismiques exclusives (les « données de l'entreprise » ).
+[2] La quote-part du prix d'achat des données de l'entreprise que l'appelant devait payer s'élevait à 100 000 $. Le montant de 100 000 $ a été versé au moyen d'un paiement en espèces de 15 000 $ et d'un billet avec recours limité (le « billet » ) d'un montant de 85 000 $.
+[3] L'appelant a ajouté ce montant de 100 000 $ à ses frais cumulatifs d'exploration au Canada (les « FCEC » ) et a effectué des déductions au titre des FCEC lorsqu'il a produit ses déclarations de revenus pour les années d'imposition 1992 et 1994.
+[4] Le ministre du Revenu national (le « ministre » ) a établi de nouvelles cotisations à l'égard des années d'imposition 1992 et 1994 de l'appelant. Il a admis des FCEC d'un montant de 32 182 $ et il a refusé le reste du prix d'achat des données de l'entreprise en se fondant sur le fait que le prix qui avait été payé était supérieur à la juste valeur marchande.
+[5] L'appelant a interjeté appel des avis de cotisation.
+[6] Pendant l'audition des appels, les parties ont produit un document appelé « Faits admis » (voir la pièce A-5) :
+[traduction]
+1. Western Geophysical Ltd. ( « Western » ) s'occupait de fournir des données sismiques et d'autres services géophysiques.
+Alinéa 18a) de la réponse à l'avis d'appel modifié en date du 15 août 2003 (la « réponse » )
+2. Le 26 juin 1992, Western a vendu toute sa bibliothèque de données canadiennes exclusives (les « données » ) à Canadian Hunter Exploration Ltd. ( « Hunter » ).
+Alinéa 18b) de la réponse; alinéa 4e) de la réplique à la demande d'aveux envoyée le 2 septembre 2003 (la « réplique » )
+3. Le 26 juin 1992, Hunter a vendu les données à Seitel Inc. ( « Seitel » ).
+Alinéa 18h) de la réponse; alinéa 4f) de la réplique
+5. Conformément à la convention d'achat-vente en date du 30 décembre 1992 (la « convention Seitel » ), Compton Resource Corporation ( « Compton » ) a acquis l' « entreprise sismique » de Seitel moyennant une contrepartie totale de 21 000 000 $, à l'égard de laquelle un montant de 2 375 000 $ a été payé en argent et une débenture d'un montant de 18 625 000 $ en faveur de Seitel venant à échéance le 31 décembre 2001 (la « débenture Compton » ) a été émise. L' « entreprise sismique » a été définie comme l'entreprise sismique exploitée par Seitel au Canada, composée de trois éléments : le matériel sismographique, les données et la convention Dyad.
+Paragraphe 5 de l'avis d'appel modifié en date du 7 août 2002 (l' « avis d'appel » ); paragraphe 4 et alinéas 18n), 18o) et 18p) de la réponse.
+6. Compton appartenait en 1992, et appartient encore, à 100 p. 100 à Ernie Sapieha, qui est et demeure l'unique dirigeant et administrateur de la société.
+Premier paragraphe de la demande d'aveux et premier paragraphe de la réplique
+7. Conformément à la convention Seitel, le prix d'achat de 21 000 000 $ a été imputé comme suit : un montant de 20 999 998 $ pour les données et un montant d'un dollar pour le matériel sismographique et la convention Dyad.
+Alinéas 18m) et 18p) de la réponse
+8. La convention d'achat stipulait également que Seitel était tenue de fournir à Compton une copie des données au plus tard le 28 février 1993.
+Alinéa 18q) de la réponse
+9. Selon la débenture Compton, 60 p. 100 des recettes (à l'exclusion de la commission) provenant de la vente de copies autorisées des données devaient être imputées à la débenture, en premier lieu au titre des intérêts et en second lieu au titre du principal.
+Alinéa 18r) de la réponse
+10. Le 31 décembre 1992, Seitel et Compton ont conclu une convention de gestion et de vente des données par laquelle Seitel acceptait d'agir à titre de mandataire de Compton pour la commercialisation des données et l'octroi de licences afférentes en échange d'une commission d'au plus 10 p. 100.
+Alinéa 18t) de la réponse
+11. Compton a obtenu trois évaluations de la base de données Western, selon lesquelles la juste valeur marchande des données était censément la suivante :
+a) Curts Seismic Consultants Ltd. 41 930 760 $
+b) Jaskella (sic) Resources Consulting Ltd. 39 787 800 $
+c) Citadel Engineering Ltd. 34 405 000 $
+Paragraphe 6 de l'avis d'appel et paragraphe 5 de la réponse
+12. Le 31 décembre 1992, l'appelant a conclu avec Compton une convention de souscription (la « convention de souscription » ) selon laquelle il acquérait un intérêt indivis dans Compton Resource Corporation 1992/1993 Oil and Gas Investment Fund (la « coentreprise » ).
+Paragraphe 7 de l'avis d'appel et paragraphe 7 de la réponse
+13. L'appelant et d'autres particuliers (collectivement appelés les « coentrepreneurs individuels » ) ont conclu avec Compton une convention de coentreprise datée du 31 décembre 1992 (la « convention de coentreprise » ).
+Paragraphe 10 de l'avis d'appel et paragraphe 8 de la réponse
+14. Aux termes de la convention de coentreprise, les coentrepreneurs individuels désignaient Compton à titre de mandataire pour l'achat de données sismiques destinées à être utilisées par la coentreprise. Le 31 décembre 1992, aux termes d'une convention d'achat d'une base de données techniques, les coentrepreneurs individuels, par l'entremise de leur mandataire Compton, ont acheté de Compton un intérêt indivis de 30,35 p. 100 de la participation au capital afférente aux « données de l'entreprise » , soit les données autres que celles de la Nouvelle-Écosse.
+Paragraphe 11 de l'avis d'appel; paragraphe 9 et alinéa 18dd) de la réponse
+15. La contrepartie totale donnée par les coentrepreneurs individuels pour les données de l'entreprise s'élevait à 6 373 335 $, un montant de 956 002 $ ayant été payé en argent et un montant de 5 417 333 $ faisant l'objet de billets en faveur de Compton (les « billets » ). Le montant de cette contrepartie correspondait à celui de la contrepartie que Compton avait donnée à Seitel en proportion de la fraction de l'intérêt afférent à la base de données Western (à savoir 30,35 p. 100).
+Paragraphe 12 de l'avis d'appel et premier paragraphe de la réponse
+16. Le billet de l'appelant était l'un des billets mentionnés au paragraphe 15 ci-dessus.
+Paragraphe 13 de l'avis d'appel et premier paragraphe de la réponse
+17. Les conditions des billets prévoient notamment ce qui suit :
+a) les billets portaient intérêt au taux annuel de 8 p. 100 sur toute partie impayée du principal;
+b) conformément à la convention de coentreprise qui était incorporée par renvoi dans les conditions des billets, les coentrepreneurs individuels cédaient à Compton soixante pour cent (60 p. 100) du produit de la vente des copies autorisées des données de l'entreprise et vingt pour cent (20 p. 100) des rentrées de fonds liées au programme de forage (le « programme de forage » ) mis en oeuvre par la coentreprise au titre du remboursement des billets, lesquelles étaient imputables en premier lieu aux intérêts et en second lieu au principal;
+c) les billets étaient garantis à l'aide de soixante pour cent (60 p. 100) du produit de la disposition de la participation au capital dans les données de l'entreprise et d'un intérêt indivis de vingt pour cent (20 p. 100) des droits acquis par les coentrepreneurs individuels dans le cadre du programme de forage (collectivement appelés la « garantie » ) sans autre recours contre les autres actifs des coentrepreneurs individuels; et
+d) si une partie des billets demeurait impayée à la date d'échéance, Compton devait désigner un fiduciaire indépendant pour vendre les intérêts des coentrepreneurs individuels dans la garantie, le produit étant imputé au solde impayé des billets et tout manque donnant lieu à une renonciation.
+Paragraphe 14 de l'avis d'appel; premier paragraphe et alinéas 18ee) et 18kk) de la réponse
+18. Conformément à la convention d'exploration, la coentreprise a utilisé une partie de la contrepartie versée par l'appelant pour acquérir une quote-part indivise des données de l'entreprise. La partie de la contrepartie que l'on a utilisée pour acquérir l'intérêt individuel de l'appelant dans les données de l'entreprise correspond à 100 000 $, un montant de 15 000 $ ayant été payé en argent et le solde faisant l'objet du billet mentionné aux paragraphes 15 à 17 ci-dessus.
+Paragraphe 15 de l'avis d'appel et premier paragraphe de la réponse
+19. L'appelant a également versé à la coentreprise une somme de 8 000 $ en argent et un billet d'un montant de 7 000 $.
+Paragraphe 17 de l'avis d'appel; paragraphe 12 et alinéa 18jj) de la réponse
+20. Compton a également vendu comme suit certains intérêts, exprimés en pourcentage, dans la base de données Western au moyen de trois autres conventions :
+a) une convention en date du 31 décembre 1992, par laquelle un intérêt indivis de 28,5714 p. 100 était accordé dans Ricinus Resources Ltd.;
+b) une convention en date du 31 décembre 1992, par laquelle un intérêt indivis de 14,38571 p. 100 était accordé à RFM Capital Corporation Ltd.;
+c) une convention en date du 1er janvier 1993, par laquelle un intérêt indivis de 26,7936 p. 100 était accordé dans Ricinus Resources Ltd.
+Alinéa 18gg) de la réponse
+21. Carl Ringdahl a examiné la copie papier de la base de données Western.
+Paragraphe 10 de la demande et premier paragraphe de la réplique
+22. Le 31 décembre 1994, l'appelant a transféré l'intérêt qu'il possédait dans les actifs de la coentreprise, sauf les données de l'entreprise, à Compton Petroleum Corporation.
+Paragraphe 22 de l'avis d'appel et paragraphe 13 de la réponse
+23. L'appelant a ajouté les frais des intérêts courus à sa catégorie de frais cumulatifs d'exploitation au Canada (les « FCEC » ).
+Paragraphe 24 de l'avis d'appel et paragraphe 14 de la réponse
+24. Selon la définition des FCEC figurant au paragraphe 66.1(6) de la Loi de l'impôt sur le revenu et à l'alinéa 66(12.1)a) de cette loi, le contribuable a déduit certains montants de la catégorie de FCEC dans la mesure où ces montants devenaient payables en sa faveur par suite de la vente des données de l'entreprise.
+Paragraphe 25 de l'avis d'appel et premier paragraphe de la réponse
+25. L'appelant a produit sa déclaration de revenus pour l'année 1992 et a demandé que l'on ajoute un montant de 100 000 $ à la catégorie de FCEC à l'égard des fonds qu'il avait dépensés en vue d'acquérir sa quote-part des données de l'entreprise et un montant additionnel de 1 000 $ à l'égard des frais d'établissement connexes.
+Paragraphe 26 de l'avis d'appel et premier paragraphe de la réponse
+26. L'appelant a demandé l'ajout d'un montant de 7 718 $ à la catégorie de FCEC au cours de l'année d'imposition 1993 et une réduction de 6 396 $ de la catégorie de FCEC au cours de l'année d'imposition 1994.
+Paragraphe 27 de l'avis d'appel et paragraphe 15 de la réponse
+27. Dans ses déclarations de revenus concernant les années 1992 et 1994, l'appelant a demandé des déductions par suite de la réduction de la catégorie de FCEC. En particulier, il a déduit des frais d'exploration au Canada (les « FEC » ) de 81 655 $ en 1992 et de 14 854 $ en 1994.
+Paragraphe 28 de l'avis d'appel et paragraphe 16 de la réponse
+28. Dans une lettre datée du 6 janvier 1997, le ministre du Revenu national (le « ministre » ) faisait part de son intention d'établir de nouvelles cotisations à l'égard du contribuable compte tenu du fait que les données de l'entreprise valaient 2 050 142 $ (la « valeur fixée par le ministre » ) et que la quote-part de l'appelant des données de l'entreprise valait 32 182 $, de sorte qu'un montant de 78 676 $ sur les montants ajoutés au compte des FCEC de l'appelant serait refusé comme suit :
+Catégorie de FCEC 1992-1994 à l'égard de la coentreprise
+Montant Montant de la
+déclaré nouvelle cotisation
+1992 (achat de données
+de l'entreprise ) 100 000 32 182
+(coûts d'établissement) 1 000 1 000
+1993 7 718 2 293
+1994 (6 396) (11 829)
+Total 102 322 23 646
+Paragraphe 29 de l'avis d'appel et premier paragraphe de la réponse
+29. Dans sa lettre du 6 janvier 1997, le ministre faisait également part de son intention de refuser la déduction de frais d'intérêt, de sorte que seule la déduction des intérêts sur la valeur fixée par le ministre serait admise, ces intérêts devant être calculés comme suit :
+Valeur des données de l'entreprise
+fixée par le ministre 2 050 142 $
+Moins : Élément en argent (955 414)
+Valeur reconnue des billets fixée 1 094 728 $
+par le ministre
+Frais d'intérêt admis = Valeur des billets fixée par le ministre x intérêts
+frais déduits Valeur nominale totale des billets
+= 1 094 728 $ x frais d'intérêts déduits
+5 417 333 $
+Paragraphe 30 de l'avis d'appel et premier paragraphe de la réponse
+30. Par suite du calcul mentionné au paragraphe 29 ci-dessus, le ministre a établi de nouvelles cotisations en vue de refuser la déduction des frais d'intérêts de l'appelant, d'un montant de 5 429 $ pour chacune des années d'imposition 1993 et 1994. Le ministre a plutôt admis des frais d'intérêts sur le billet de l'appelant, d'un montant de 1 375 $ pour chacune des années d'imposition 1993 et 1994, soit la quote-part proportionnelle des frais d'intérêts revenant à l'appelant qui se rapporte à la valeur des billets perçue par le ministre.
+Paragraphe 31 de l'avis d'appel et premier paragraphe de la réponse
+31. En conséquence, le ministre a établi de nouvelles cotisations à l'égard de l'appelant, de façon à refuser comme suit un montant de 78 676 $ sur les déductions mentionnées au paragraphe 25 :
+1992 : 48 523 $ Déduction des FEC refusée
+1994 : 30 153 $ Déduction des FEC refusée
+Paragraphe 32 de l'avis d'appel et premier paragraphe de la réponse
+32. Le solde de la débenture de Compton, de 18 625 000 $, s'élevait à 22 775 419 $, tel qu'il avait été établi à la fin de la journée du 20 novembre 2001.
+Paragraphe 7 de la demande et premier paragraphe de la réplique
+33. Le solde du billet de 85 000 $ de l'appelant s'élevait à 93 242 $ à la fin de l'année 2001.
+Paragraphe 6 de la demande et premier paragraphe de la réplique
+34. L'appelant avait investi des capitaux dans la société Petroleum Capital 1987, qui a acheté 13 795 kilomètres de données sismiques exclusives. La société a financé l'achat de cette base de données, d'un montant de 20 524 799 $, en versant en argent un montant de 2 932 114 $ et en émettant une débenture convertible à vue de 8 p. 100, d'un montant de 17 592 685 $, payable à Petroleum Capital Operations Ltd., une filiale du commandité, Petroleum Capital Management Ltd. La débenture a été convertie en unités de la catégorie B de la société le 1er janvier 1990 par suite de la demande de remboursement que Petroleum Capital Operations Ltd. avait faite avant le 31 décembre 1989.
+Paragraphe 8 de la demande et paragraphe 2 de la réplique
+35. L'appelant a déduit des FEC en sus du montant en argent qu'il avait investi dans la société Petroleum Capital 1987.
+Paragraphe 9 de la demande et premier paragraphe de la réplique
+[7] Les faits qui ont été établis peuvent être résumés comme suit. À l'automne 1992, M. Sapieha, président et unique actionnaire de Compton Resource Corporation ( « CRC » ), était en train de créer une société d'exploration et de mise en valeur de pétrole et de gaz. Il prévoyait qu'un intérêt dans une base de données sismiques exclusives constituerait la pierre angulaire de la société et il a tenté de recruter des investisseurs pour joindre CRC dans l'achat d'une base de données sismiques.
+[8] M. Sapieha a communiqué avec l'appelant, en tant que personne qui pourrait investir des capitaux dans une coentreprise (la « coentreprise » ). L'appelant a reçu et examiné la notice d'offre (la « notice » ) qui donnait un aperçu des activités de la coentreprise envisagée.
+[9] La notice indiquait les fins pour lesquelles la coentreprise achèterait un intérêt dans les données techniques de l'entreprise. Voici ce qui y était déclaré :
+[traduction]
+a) [c]ette offre vise principalement à donner aux souscripteurs la possibilité de participer à l'acquisition, à l'exploration et à la mise en valeur de droits relatifs aux hydrocarbures tout en leur permettant de se prévaloir des déductions fiscales et des programmes d'encouragement fédéraux qui ont été proposés en vue d'encourager les projets d'exploration de gisements de pétrole et de gaz naturel; et
+b) [l']achat de la base de données techniques vise principalement à permettre l'analyse des données en vue de connaître les perspectives de la coentreprise dans le domaine de la mise en valeur et de l'exploration et d'aider à identifier les biens producteurs de PGN aux fins de l'achat par la coentreprise. Toutefois, l'examen et l'analyse de la base de données techniques indiquent qu'une partie des données peuvent faire l'objet de licences ou être vendues à l'industrie selon des modalités et à des conditions conformes à la pratique dans l'industrie.
+[10] Dans la notice, il était également déclaré ce qui suit :
+[traduction]
+[l]a coentreprise réinvestira les rentrées de fonds de production non-engagées de l'investisseur qui sont tirées du programme de forage pour une période d'au plus deux ans dans d'autres projets d'exploration et de mise en valeur, compte tenu de son analyse de la base de données techniques.
+[11] À l'automne 1992, M. Sapieha a été présenté à M. Talbot, qui était président de Seitel, la société qui possédait les droits exclusifs dans la base de données sismiques géophysiques Western. M. Sapieha a procédé à un examen préalable, ce qui comprenait la détermination de la valeur des données de l'entreprise et le recours à trois évaluateurs indépendants; la qualité des données de l'entreprise le satisfaisant, il a donc entamé des négociations avec M. Talbot en vue d'acheter les données de l'entreprise.
+[12] Le 30 décembre 1992, Seitel a vendu à CRC l'entreprise sismique (ce qui comprenait les données de l'entreprise) pour la somme de 21 000 000 $, sur laquelle un montant de 2 375 000 $ devait être payé en argent, une débenture de 18 625 000 $ devant par ailleurs être émise. Dans ses états financiers, Seitel a inscrit le montant du billet à titre de dette éventuelle.
+[13] L'appelant a témoigné qu'il avait par le passé investi des capitaux dans des données sismiques parce qu'il voulait être [traduction] « là dès le début » dans une société d'exploration et de mise en valeur de gisements de pétrole et de gaz et que la déduction fiscale entrait également en ligne de compte. Je retiens le témoignage de l'appelant sur ce point.
+[14] Le 31 décembre 1992, soit le lendemain, l'appelant a conclu une convention de souscription et il a signé une convention de coentreprise avec CRC (la « convention de coentreprise » ).
+[15] Ce jour-là, conformément à la convention de coentreprise, CRC, en sa qualité de mandataire et pour le compte des participants à la coentreprise, a acquis un intérêt indivis de 30,35 p. 100 dans toutes les données de l'entreprise, sauf celles qui avaient trait à la Nouvelle-Écosse. Les données de la Nouvelle-Écosse et les données de l'entreprise ensemble sont appelées les [traduction] « données » . L'appelant possédait un droit indivis de 1,57 p. 100 dans les données de l'entreprise.
+[16] M. Sapieha a ensuite établi un bureau pour CRC. Le bureau comprenait des services de cartographie, une installation d'entreposage des journaux de forage, du logiciel géophysique et d'autres services techniques. M. Sapieha a ensuite commencé à constituer une équipe chargée de l'exploration pour CRC, laquelle devait analyser et examiner les données de l'entreprise pour la coentreprise.
+[17] Les services de M. Carl Ringdahl, un géophysicien chevronné, ont été retenus pour qu'il fasse partie de l'équipe d'exploration. M. Ringdahl a témoigné que l'équipe avait commencé à examiner les données de l'entreprise dans le sud et avait [traduction] « retravaillé les données » en utilisant tous les renseignements disponibles (y compris les puits existants et les données de l'entreprise). M. Ringdahl a en outre témoigné que, sur une certaine période, il avait examiné tous les profils sismiques systématiquement du sud au nord afin de s'assurer qu'il était possible d'établir l'existence d'une zone pétrolière ou gazière et de décider s'il convenait d'acheter les biens-fonds.
+[18] M. Sapieha a témoigné qu'il croyait qu'en possédant les droits exclusifs dans les données de l'entreprise (au lieu de ne posséder qu'une copie des données), la coentreprise bénéficierait d'un certain nombre d'avantages. En particulier, il envisageait de réinvestir le montant tiré des ventes des données de l'entreprise dans CRC en vue de payer les frais d'exploration et d'utiliser les données de l'entreprise dans des négociations avec d'autres sociétés pour échanger certaines parties des données de l'entreprise contre des droits relatifs aux hydrocarbures et des intérêts fonciers.
+[19] M. Sapieha a témoigné qu'au bout de deux ans, les investisseurs devaient examiner le progrès accompli par la coentreprise et décider s'il fallait poursuivre les activités d'exploration; toutefois, les recettes provenant de l'octroi de licences à l'égard des données de l'entreprise ont été réinvesties dans les activités d'exploration pendant moins de deux ans. Le 31 décembre 1994, les biens de la coentreprise ont été transférés à Compton Petroleum Corporation et un montant de 375 000 $ a été payé sur les billets.
+B. Les points en litige
+[20] Les questions qui se posent dans ces appels peuvent être résumées comme suit :
+(i) L'appelant a-t-il acheté les données de l'entreprise aux fins de l'exploration de gisements de pétrole ou de gaz naturel comme l'exige l'alinéa 66.1(6)a) de la Loi de l'impôt sur le revenu (la « Loi » )?
+(ii) La débenture émise par l'appelant constitue-t-elle une dépense comme l'exige l'alinéa 66.1(6)a)?
+(iii) L'achat par l'appelant d'un intérêt de 1,57 p. 100 dans les données de l'entreprise constituait-il une opération entre parties ayant un lien de dépendance?
+(iv) Si l'achat effectué par l'appelant constituait une opération entre parties sans lien de dépendance, l'appelant a-t-il payé un prix raisonnable pour son intérêt?
+(v) Dans l'affirmative, quelle est la juste valeur marchande de la quote-part que possède l'appelant dans les données de l'entreprise?
+C. Analyse
+[21] Le paragraphe 66.1(6) de la Loi est rédigé comme suit :
+66.1(6) « frais d'exploration au Canada » Relativement à un contribuable, les dépenses suivantes, engagées après le 6 mai 1974 :
+a) une dépense, y compris une dépense à des fins géologiques, géophysiques ou géochimiques, engagée par le contribuable (à l'exception d'une dépense engagée pour le forage ou l'achèvement d'un puits de pétrole ou de gaz, la construction d'une route d'accès temporaire au puits ou la préparation d'un emplacement pour un tel puits) en vue de déterminer l'existence, la localisation, l'étendue ou la qualité d'un gisement de pétrole ou de gaz naturel (à l'exception d'une ressource minérale) au Canada.
+[22] Cette disposition comporte deux exigences - (1) une dépense doit être engagée et (2) la dépense doit être engagée en vue de déterminer l'existence, la localisation, l'étendue ou la qualité d'un gisement de pétrole ou de gaz naturel au Canada.
+Le critère de l'objet visé
+(i) L'appelant a-t-il acheté les données de l'entreprise aux fins de l'exploration comme l'exige l'alinéa 66.1(6)a) de la Loi?
+[23] Les tribunaux judiciaires ont généralement statué qu'il n'était pas nécessaire que l'objet visé par une disposition constitue le principal motif du contribuable[1]. Il suffit que cet objet soit une fin accessoire, même si le contribuable cherche avant tout à bénéficier d'un avantage fiscal[2]. Ce principe a été suivi relativement à l'application du paragraphe 66.1(6) dans l'arrêt Petro-Canada v. The Queen[3]. Au paragraphe 34, la juge Sharlowa dit ce qui suit :
+[...] le critère de la fin ou de l'objet, dans la définition de « frais d'exploration au Canada » , peut être rempli même si la dépense est faite à plus d'une fin. Cependant, l'une des fins de la dépense doit être de déterminer l'existence, l'endroit, l'étendue ou la qualité d'un gisement de pétrole ou de gaz naturel.
+[24] La juge Sharlow a ensuite confirmé que, dans les arrêts Global Communications Limited v. The Queen[4] et Gulf Canada Ltd. v. Canada[5], les tribunaux avaient affirmé que « le critère de la fin ou de l'objet, dans la définition de "frais d'exploration au Canada" ( « FEC » ), requiert à tout le moins un lien entre les données sismiques achetées et les travaux effectifs d'exploration » . Au paragraphe 35, la juge Sharlow a fait remarquer qu'un tel critère peut être trop strict :
+[...] Ce lien pourrait être attesté par la preuve de l'utilisation effective des données sismiques pour des travaux d'exploration. Cependant, en l'absence d'une telle preuve, il doit exister au moins un plan crédible visant l'utilisation des données sismiques dans un programme d'exploration, à l'intérieur d'un délai raisonnable après qu'elles ont été acquises. Un lien hypothétique avec des travaux d'exploration qui pourraient être faits dans l'avenir ne peut suffire.
+[25] En déterminant si un contribuable a l'intention requise, lorsqu'il s'agit de satisfaire au critère de l'objet visé, les tribunaux ont examiné l'intention subjective du contribuable ainsi que divers facteurs objectifs. (Voir Moldowan v. The Queen[6] et Stewart v. The Queen[7].) Cette approche a été appliquée à l'article 66 dans la décision Mickelborough v. The Queen[8]. Il ne suffit pas de se demander quelle était l'intention subjective de l'appelant sans chercher à savoir si, eu égard aux circonstances dans leur ensemble, le contribuable avait une expectative raisonnable que les données de l'entreprise seraient utilisées aux fins de l'exploration.
+[26] Comme il en a ci-dessus été fait mention, l'appelant a témoigné que, lorsqu'il avait acquis son intérêt dans la coentreprise, il cherchait avant tout à être là dès le début dans une société d'exploration de pétrole et de gaz. L'intention primaire subjective de l'appelant est corroborée par la preuve objective de son acceptation des conditions énoncées dans la notice. Il se peut que ces actions à elles seules suffisent pour qu'il soit satisfait au critère de l'objet visé : parce que l'appelant a acheté son intérêt de 1,57 p. 100 dans les données de l'entreprise en croyant [traduction] « en toute bonne foi » que la coentreprise donnerait suite à son projet d'exploration.
+[27] Le fait que la coentreprise disposait d'un délai de deux ans seulement ne change rien à mes conclusions. Un délai de deux ans était suffisant pour permettre le traitement et l'examen des données de l'entreprise en vue de connaître les possibilités dans le domaine de l'exploration et de la mise en valeur.
+[28] Dans des décisions antérieures portant sur le paragraphe 66.1(6), les tribunaux ont examiné ce qui était réellement fait au bien-fonds ou ce à quoi servaient les données sismiques, mais il n'est pas nécessaire en l'espèce d'aller au-delà de l'objectif visé par l'appelant lorsqu'il a obtenu les données de l'entreprise.
+[29] Contrairement aux appelantes dans les arrêts Global Communications et Petro-Canada, l'appelant dans ce cas-ci est un particulier qui a conclu une convention stipulant que les activités d'exploration de gisements de pétrole et de gaz auraient lieu. Par conséquent, le critère de l'objet visé devrait s'appliquer à l'achat effectué par l'appelant. L'appelant n'exerçait aucun contrôle sur ce qui serait fait et il s'est fondé sur l'objectif énoncé dans la notice. Rien n'indiquait qu'il était déraisonnable pour l'appelant de s'en remettre à la notice.
+[30] Il importe de noter que CRC a pris un certain nombre de mesures pour utiliser les données de l'entreprise en vue de déterminer l'existence, la localisation, l'étendue ou la qualité des gisements de pétrole ou de gaz naturel. Ces mesures comprenaient l'établissement d'un bureau, la constitution d'une équipe chargée de l'exploration et l'examen systématique de toutes les données de l'entreprise. De plus, les données de l'entreprise ont été réexaminées lorsque des biens-fonds sont devenus disponibles. À mon avis, une telle utilisation systématique des données est suffisante pour qu'il soit satisfait au critère de l'objet visé qui est énoncé au paragraphe 66.1(6).
+[31] Les avocates de l'intimée ont consacré beaucoup d'énergie à soutenir que les activités de forage dans les zones où les données sismiques avaient été obtenues étaient minimes. Compte tenu de la preuve qui m'a été soumise, je ne puis retenir l'idée générale selon laquelle, en l'absence de forage les données sismiques n'ont pas été achetées aux fins prévues au paragraphe 66.1(6). Les données sismiques servent à réduire le risque que comporte le forage, et on peut les utiliser pour savoir où il convient d'effectuer les travaux de forage et où il ne faut pas se livrer à des activités de forage. En l'espèce, je conclus que les données de l'entreprise ont été utilisées aux deux fins; toutefois, on s'en est principalement servi afin de savoir où il ne fallait pas effectuer de travaux de forage.
+[32] Il faut faire une distinction entre la présente cause et les arrêts Petro-Canada et Global Communications. En effet, dans l'arrêt Global Communications, la Cour d'appel fédérale a conclu que « Global n'a[vait] pas réussi à démontrer qu'elle exploitait une entreprise d'exploration pétrolière et gazière » ou que Four Star se livrait à des activités d'exploration pour le compte de Global. De plus, Global n'avait pas démontré qu'elle « utilisait ses données de manière systématique ou dans une optique commerciale à des fins d'exploration pétrolière et gazière » . En résumé, la Cour a conclu qu'aucune des données sismiques n'avait en fait été utilisée à des fins d'exploration.
+[33] Dans la décision rendue en première instance dans l'affaire Petro-Canada v. The Queen[9], le juge Bowie a conclu que seule une petite partie (6,5 p. 100) des données sismiques avaient été utilisées aux fins de l'exploration. Le juge a conclu que l'acquisition des données avait en fait eu pour but de permettre le transfert des FEC. La Cour d'appel fédérale a confirmé la décision du juge Bowie et a conclu qu'il n'était pas nécessaire que les données soient réellement utilisées aux fins de l'exploration : « un plan crédible » visant l'utilisation des données de l'entreprise « à l'intérieur d'un délai raisonnable après qu'elles ont été acquises » est suffisant[10].
+La débenture
+(ii) La débenture émise par l'appelant constitue-t-elle une dépense comme l'exige l'alinéa 66.1(6)a)?
+[34] En vertu du paragraphe 66(1), un montant qui n'a pas été dépensé ne peut pas être déduit. Le juge Pratte, au nom de la Cour d'appel fédérale dans l'arrêt The Queen v. Burnco Industries Ltd. et al.[11], a statué ce qui suit;
+Selon nous, une dépense au sens de l'alinéa 18(1)a) de la Loi de l'impôt sur le revenu est une obligation de payer une somme d'argent. On ne peut pas dire qu'un contribuable a engagé une dépense s'il n'est pas tenu de verser une somme d'argent à quelqu'un.
+[35] Cette définition de la dépense qui a été engagée a été utilisée en vue de faire une distinction entre les cas dans lesquels de l'argent est dû et les cas dans lesquels cela dépend d'un autre événement. Les tribunaux ont statué que, lorsque le montant dépend de la question de savoir si un événement doit se produire, le montant ne constitue pas une dépense, mais une dette éventuelle. L'intimée soutient que le billet de l'appelant est une dette éventuelle.
+[36] Pour répondre à cette question, il faut examiner minutieusement le libellé du billet, qui est rédigé comme suit :
+[traduction] Le soussigné, MOYENNANT CONTREPARTIE, promet par les présentes de verser à COMPTON RESOURCE CORPORATION (la « détentrice du billet » ) le 31 décembre 1999 la somme de quatre-vingt-cinq mille dollars (85 000 $) en argent canadien ainsi que les intérêts courus impayés sur la partie non remboursée du principal, les intérêts devant commencer à courir le 31 décembre 1992, au taux de huit pour cent (8 p. 100) l'an, calculés chaque année et non à l'avance.
+Les conditions de remboursement du billet à la détentrice seront limitées à celles qui sont énoncées dans les présentes et aucune autre mesure ne pourra être prise contre le soussigné à l'égard d'un engagement de paiement.
+La dette du soussigné sera réduite uniquement en conformité avec les dispositions énoncées à l'annexe 1 ci-jointe, laquelle est incorporée dans le présent billet et en fait partie.
+La détentrice du billet ne peut pas négocier ou céder le billet sans le consentement préalable écrit du soussigné et sans que le cessionnaire ne s'engage d'abord par écrit envers le soussigné à être lié par les conditions y afférentes. La détentrice du billet ne pourra exercer aucun recours contre une personne juridique, sauf le soussigné, à l'égard des engagements pris dans les présentes et ne possédera pas plus de droits que ceux qui sont conférés par les présentes et à l'annexe 1 ci-jointe.
+FAIT ce 30e jour de décembre 1992.
+[37] Les articles 2 et 3 de l'annexe 1 jointe au billet stipulent que les intérêts et le principal seront payés à l'aide du produit de la vente des copies autorisées des données de l'entreprise et au moyen des rentrées de fonds provenant du programme de forage. Si le montant n'est pas payé au complet au plus tard le 31 décembre 1999 - c'est-à-dire en cas de défaut - l'article 7 prévoit ce qui suit :
+[traduction]
+7. Si la dette créée par les présentes à l'égard du principal ou des intérêts demeure en totalité ou en partie impayée le 31 décembre 1999, la détentrice du billet désignera un fiduciaire indépendant pour vendre au comptant seulement :
+a. les actifs techniques; et
+b. une partie indivise correspondant à 20 p. 100 de l'intérêt participatif du soussigné dans les droits relatifs aux hydrocarbures acquis par la coentreprise dans le cadre du programme de forage.
+Le produit de la vente sera réparti comme suit :
+a. actifs techniques :
+i. 60 p. 100 du produit (déduction faite des commissions, le cas échéant) reviendra à la détentrice du billet à appliquer en réduction des montants dus par le soussigné aux termes du présent billet;
+ii. 40 p. 100 du produit (déduction faite des commissions, le cas échéant) reviendra au soussigné;
+b. une partie indivise correspondant à 20 p. 100 de l'intérêt participatif du soussigné dans les droits relatifs aux hydrocarbures acquis par la coentreprise dans le cadre du programme de forage[12] :
+la totalité du produit reviendra à la détentrice du billet à appliquer en réduction des montants dus par le soussigné aux termes du présent billet, le produit étant imputé en premier lieu aux intérêts et le reste au principal.
+Tout solde dû par le soussigné sur le présent billet après la répartition du produit de la vente conformément aux conditions susmentionnées fera l'objet d'une renonciation de la part de la détentrice du billet et le soussigné n'aura pas d'autre obligation aux termes du présent billet.
+Les conditions mêmes du billet prévoient le paiement de 60 p. 100 des bénéfices tirés de la vente des données de l'entreprise et de 20 p. 100 des droits de forage de l'appelant acquis par la coentreprise dans le cadre des activités de forage. Par conséquent, si aucun bénéfice n'était réalisé, la détentrice du billet recevrait au moins 60 p. 100 du produit de la vente des données de l'entreprise.
+[38] Dans le Black's Law Dictionary, 8e édition, l'expression « contingent liability » ( dette éventuelle ) est définie comme suit :
+[traduction] Obligation qui prend naissance uniquement si un événement précis se produit; obligation qui dépend du fait qu'un événement futur et incertain se produira.
+[39] Dans Oxford English Dictionary, le mot « contingent » ( éventuel ) est défini comme suit : [traduction] « qui peut ou non se produire; dont l'apparition ou l'incidence sont « incertaines » .
+[40] Les tribunaux ont eu à plusieurs reprises l'occasion de décider s'il existait une dette éventuelle.
+[41] Dans l'arrêt Canadian Pacific Limited v. The Minister of Revenue (Ontario)[13], la Cour d'appel de l'Ontario a statué que le fait de ne pas savoir ce que sera l'obligation ne crée pas pour autant une dette éventuelle. En décidant qu'il n'y avait pas de compte de prévoyance, la Cour a dit ce qui suit : [traduction] « [...] lorsque le contribuable a contracté une dette au cours d'une année d'imposition et qu'il a placé de l'argent dans un compte afin de pouvoir acquitter la dette, les incertitudes qui existent au sujet du montant qui sera en fin de compte payé n'auront pas en tant que telles pour effet de rendre les dettes imputables au compte de prévoyance » [14].
+[42] Dans l'arrêt Wawang Forest Products Limited and Nerak Contractors Inc. v. The Queen[15], la Cour d'appel fédérale s'est demandée si le contribuable avait le droit de déduire le coût total de travaux achevés par les sous-traitants cette année-là, même si les paiements avaient été en partie retenus tant que les travailleurs n'avaient pas produit d'attestation de paiement de la Commission des accidents du travail.
+[43] La juge Sharlow a statué que les paiements n'étaient pas des dettes éventuelles. En tirant cette conclusion, elle a fait remarquer que les trois événements incertains en cause dans la décision Samuel F.Investments Limited v. M.N.R.[16] n'établissaient pas en tant que tels un critère permettant de déterminer si une dette était éventuelle[17]. La juge Sharlow a plutôt confirmé de nouveau que le critère généralement reconnu avait été énoncé par lord Guest dans l'arrêt Winter and Others (Executors of Sir Arthur Munro Sutherland deceased) v. Inland Revenue Commissioners[18]. À la page 262, lord Guest avait dit ce qui suit :
+[TRADUCTION] Il convient de préciser qu'une éventualité est un événement qui peut se produire ou ne pas se produire et qu'une obligation éventuelle est une obligation dont l'existence dépend d'un événement qui peut se produire ou ne pas se produire.
+[44] Au paragraphe 15, la juge Sharlow a ajouté ce qui suit : « L'obligation juridique de payer une somme ne devient pas non plus une obligation éventuelle du seul fait que certaines circonstances permettent d'en reporter le paiement, ou du fait qu'aucune date de paiement ne soit stipulée. »
+[45] Dans la décision Frederick W.Hill v. The Queen[19], le juge Miller a conclu qu'il n'y avait pas d'éventualité lorsque le créancier hypothécaire ne pouvait pas chercher à recouvrer le manquement, mais pouvait prendre possession du bien-fonds ou le vendre. En tirant cette conclusion, le juge Miller a dit ce qui suit : « En refusant la déductibilité de l'intérêt sous prétexte qu'une hypothèque avec recours limité crée une obligation éventuelle, on ouvre la porte à refuser la déductibilité de l'intérêt à tous les débiteurs hypothécaires » [20].
+[46] L'examen strict des conditions du billet révèle un certain nombre d'incertitudes apparentes. Toutefois, compte tenu des arrêts Wawang et Canadian Pacific Limited, je conclus que le billet ne crée pas de dette éventuelle simplement parce que nous ne savons pas combien d'argent sera remboursé sur le billet ou à quel moment un remboursement sera effectué. Toutefois, même s'il existe une disposition exigeant que la détentrice du billet désigne un fiduciaire pour vendre les données de l'entreprise, la vente réelle de ces données pourrait être éventuelle s'il existait une incertitude quelconque au sujet de la possibilité de les vendre.
+[47] C'est dans ce cas que les conditions du contrat ne permettront peut-être pas de savoir si une dette est éventuelle. Dans la décision Webster et al. v. The Queen[21], le juge en chef adjoint Bowman a conclu que, même si les données sismiques en question étaient achetées des mêmes parties à des conditions à peu près semblables à celles qui existaient dans l'affaire Global Communications, l'affaire devait donner lieu à une instruction.
+[48] La décision du juge en chef adjoint Bowman a été confirmée par la Cour d'appel fédérale où le juge Rothstein a dit ce qui suit au nom de la majorité :
+Dans l'arrêt Wawang, précité, la question de la dette éventuelle dépendait des clauses de certains contrats. À mon avis, si les clauses des contrats étaient les considérations pertinentes dans l'arrêt Wawang, cela ne signifie pas nécessairement que, dans tous les cas, seules les clauses des contrats permettront de dire si une dette est éventuelle ou absolue. Chaque cas dépendra de ses propres faits.
+Évoquant l'observation, dans l'arrêt Wawang, précité, selon laquelle le risque de non-paiement ne rend pas éventuelle une dette, le juge Strayer affirme que la réalisation de recettes ou du produit d'une vente, même si cette réalisation est très probable, ne rendrait pas absolue une dette. Toutefois, si je comprends bien, ce que craignait le ministre, c'était que les recettes et le produit de la vente des données sismiques ne suffisent pas à payer la dette des contribuables appelants qui donnait lieu à la nouvelle cotisation. En produisant une preuve d'évaluation, les contribuables appelants voulaient semble-t-il dissiper cette inquiétude du ministre. Il est possible que le caractère éventuel ou absolu de la dette ne dépende pas d'une preuve d'évaluation et repose sur la question de savoir si la vente des données sismiques relève du bon vouloir des contribuables appelants pour le cas où les recettes ne suffiraient pas à payer leur dette. Cependant, à ce stade, je préférerais laisser ces considérations au juge du procès[22].
+[49] En fin de compte, pour savoir si le billet de l'appelant donne naissance à une dette éventuelle, il faut examiner les faits y afférents. Le marché continu pour les données sismiques de qualité et la rareté relative d'une telle qualité (en particulier au moment où les données de l'entreprise ont été achetées) m'amènent à conclure que les données de l'entreprise pouvaient être vendues. Je conclus qu'au moment où l'appelant a acheté son intérêt dans les données de l'entreprise, il n'y avait pas de dette éventuelle parce que les données de l'entreprise devaient être et pouvaient être vendues en cas de défaut.
+[50] Même si la détentrice du billet n'a pas encore désigné un fiduciaire indépendant, cela ne veut pas pour autant dire que le billet crée une dette éventuelle. Toute autre décision aurait pour effet de créer une ambiguïté inutile dans notre système fiscal et d'encourager un système dans lequel une opération qui est initialement certaine pourrait devenir éventuelle à cause de l'omission de quelqu'un de respecter un contrat ou à cause de quelque autre événement incertain.
+Opération entre parties sans lien de dépendance
+(iii) L'achat par l'appelant d'un intérêt de 1,57 p. 100 dans les données de l'entreprise constituait-il une opération entre parties ayant un lien de dépendance?
+[51] Cette question n'était pas en litige selon la position initialement prise par le ministre dans la cotisation. Par conséquent, l'intimée a la charge de prouver qu'une opération entre parties ayant un lien de dépendance est en cause.
+[52] Le paragraphe 251(1) de la Loi prévoit ce qui suit :
+251. (1) Pour l'applicationde la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance; et
+b) la question de savoir si des personnes non liées entre elles n'avaient aucun lien de dépendance à une date donnée est une question de fait.
+[53] Les parties s'entendent pour dire que la question de savoir si l'appelant et M. Sapieha sont des « personnes liées » n'est pas en litige.
+[54] Les avocates de l'appelant affirment que M. Sapieha était strictement un mandataire et que la Cour doit aller au-delà du mandat pour savoir si l'appelant et CRC avaient ou non un lien de dépendance. Selon les avocates de l'appelant, la question en litige se rapporte à la relation existant entre l'appelant et CRC.
+[55] De leur côté, les avocates de l'intimée font valoir que la Cour devrait uniquement examiner la relation que M. Sapieha entretenait avec CRC et conclure que, parce que M. Sapieha était l'unique administrateur et actionnaire de CRC, l'opération était une opération entre parties ayant un lien de dépendance.
+[56] Dans la décision Peter Cundill & Associates Ltd. v. The Queen[23], le juge McArthur a examiné les facteurs à prendre en considération lorsqu'il s'agit de savoir si une opération est une opération entre parties sans lien de dépendance. Le juge a dit qu'il existait un lien de dépendance entre les parties : (1) si le même état d'esprit orientait la négociation pour les deux parties à l'opération; (2) si les parties à l'opération ont agi de concert sans intérêts distincts; ou (3) si l'une des parties à l'opération exerçait un contrôle de fait sur l'autre.
+[57] En l'espèce, l'appelant a décidé d'accepter les conditions énoncées dans la notice, où il était précisé que CRC serait l'exploitant de la coentreprise et qu'elle achèterait un intérêt indivis dans les données de l'entreprise au nom des investisseurs. La notice indiquait que les activités d'exploration devaient avoir lieu dans l'Ouest du Canada. Par conséquent, même si M. Sapieha a élaboré le plan et a soumis la notice à l'appelant, c'est en fin de compte l'appelant qui a décidé d'engager des capitaux. Aucun élément de preuve n'a été présenté à l'instruction pour indiquer que M. Sapieha avait influencé la décision de l'appelant ou de quelque participant à la coentreprise. Larelation qu'il convient d'apprécier est celle qui existait entre CRC et l'appelant.
+[58] L'appelant a décidé de souscrire à la coentreprise et il a signé la convention de souscription, confirmant ainsi qu'il acceptait d'être lié par la convention de coentreprise et par la notice.
+[59] Dans la décision H.T. Hoy Holdings Limited v. The Queen[24], le juge McArthur a examiné la question de l'importance du choix dans les opérations entre parties sans lien de dépendance :
+[...] Bien sûr, le fait que M. Cloutier n'était pas obligé d'acheter Plaza et que M. Hoy n'était pas obligé de vendre Plaza à M. Cloutier est important lorsqu'il s'agit d'établir que le vendeur et l'acheteur n'avaient pas entre eux de lien de dépendance. Chaque partie avait ses propres besoins individuels.
+[...] Personne n'était tenu d'agir. Les participants veillaient chacun à leurs propres intérêts tout en ayant un but en commun.
+[60] Aucun élément de preuve ne montre que l'appelant et CRC, par l'entremise de M. Sapieha, aient agi de concert sans intérêts distincts. Il n'y avait non plus aucun élément montrant que M. Sapieha avait unilatéralement imposé l'achat des données de l'entreprise à l'appelant ou qu'il avait le pouvoir de le faire. Il n'y avait pas de collusion pour gonfler le prix des données de l'entreprise, parce que l'appelant avait accepté les conditions énoncées dans la notice, lesquelles limitaient le prix d'achat au montant de l'évaluation la plus basse. Dans ce cas-ci, il n'y a pas de partie qui soit en mesure d'imposer sa volonté aux autres et on ne peut pas dire que les parties agissaient de concert sans intérêts distincts[25]. J'ai donc conclu que l'achat par l'appelant de l'intérêt de 1,57 p. 100 dans les données de l'entreprise constituait une opération entre parties sans lien de dépendance.
+Le caractère raisonnable de la dépense
+(iv) Si l'achat effectué par l'appelant constituait une opération entre parties sans lien de dépendance, l'appelant a-t-il payé un prix raisonnable pour son intérêt?
+[61] L'article 67 de la Loi prévoit ce qui suit :
+67. Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l'égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+[62] L'article 67 exige que la dépense soit raisonnable dans les circonstances. Dans ce cas-ci, l'appelant a versé un montant de 100 000 $ en échange d'un intérêt indivis dans les données de l'entreprise. Selon la convention de coentreprise en date du 31 décembre 1992, cet intérêt indivis permettait à l'appelant d'utiliser les données de l'entreprise dans le cadre d'activités d'exploration indépendantes et de recevoir une fraction du produit et du revenu tirés des biens PGN, du programme de forage et de la vente de copies des données de l'entreprise.
+[63] En décidant d'engager des capitaux dans la coentreprise, l'appelant s'est fondé sur les conditions énoncées dans la notice, à savoir : [traduction] « Le prix d'achat de la base de données techniques ne sera pas plus élevé que le montant de l'évaluation la plus basse obtenue de trois évaluateurs indépendants chevronnés. »
+[64] Avant que les données de l'entreprise soient achetées pour le compte des participants à la coentreprise, M. Sapieha a pris plusieurs mesures en vue d'arriver à un prix d'achat acceptable. Il a examiné les données (qui comprenaient les données de la Nouvelle-Écosse) et il les a examinées pour chaque zone. En arrivant à une évaluation, et en consultant MM. Fairs et McCombs, il a examiné le prix de remplacement des données et il a tenu compte du fait qu'il se pourrait que les données sismiques soient obtenues à un prix réduit, parce que le marché était à la baisse et que les équipes cherchaient des clients. M. Sapieha n'était pas au courant de ventes antérieures de données et il croyait qu'elles étaient évaluées à 30 300 000 $.
+[65] Comme il en est fait mention dans la notice, M. Sapieha a obtenu trois évaluations de MM. Jaskela, Curts et Webb, qui évaluaient régulièrement des données sismiques. Ces évaluations indépendantes des données de l'entreprise étaient beaucoup plus élevées que le montant du prix d'achat.
+[66] M. Jaskela, qui est géophysicien de profession, a évalué les données de l'entreprise à 39 787 800 $. Il a témoigné que, ce faisant, il avait établi ce qu'il en coûtait pour acquérir ou obtenir les données de l'entreprise et qu'il avait ensuite appliqué une réduction de 25 à 50 p. 100 par kilomètre. La réduction variait selon la zone en cause et elle était basée sur la qualité des données de l'entreprise. Aucune réduction n'était fondée sur l'âge des données de l'entreprise étant donné qu'à son avis, les données sismiques conservent leur valeur pendant plus de 30 ans.
+[67] M. Brian Curts, un géophysicien qui travaille pour Curts Seismic Ltd., a témoigné qu'en établissant la valeur des données sismiques, il examine principalement la valeur aux fins de l'exploration. M. Curts a d'abord examiné le coût lié à la localisation des données de l'entreprise et il a ensuite examiné [traduction] l' « investissement de départ » . Une fois qu'il avait établi ce qu'il en avait coûté pour obtenir de nouveau les données sismiques en 1992, il a ajouté les coûts tels que ceux associés aux permis. Il a ensuite appliqué une réduction au total, compte tenu du manque de qualité, de l'âge et de la nécessité de traiter de nouveau une partie des données de l'entreprise. Il a appliqué un prix distinct pour les données en 3-D. Il estimait que les données de l'entreprise valaient 41 930 760 $.
+[68] M. Webb, qui est ingénieur et travaille pour Citadel Engineering Ltd., a témoigné qu'ils avaient vérifié l'étendue des données et qu'ils avaient cherché à savoir s'il y avait des réserves existantes qui entraîneraient une augmentation ou une réduction du prix ou de la valeur au kilomètre selon le programme. Il a établi la valeur des ventes d'une copie autorisée en communiquant avec au moins cinq maisons de courtage et il a ensuite utilisé un multiple de la valeur de remplacement pour arriver à la juste valeur marchande. Il a conclu que la valeur de remplacement des données de l'entreprise était de 56 285 000 $, que la valeur estimative de revente était de 32 866 000 $, et que la juste valeur marchande était de 31 912 000 $. M. Webb a également évalué les données de la Nouvelle-Écosse.
+[69] À mon avis, il importe de noter qu'auparavant, M. McCombs (un ancien associé en affaires de M. Sapieha) avait demandé à MM. Jaskela et Webb d'évaluer les données sismiques que la société Petroleum Capital devait acheter. Pendant la période où il a élaboré son plan d'entreprise, M. Sapieha a eu des pourparlers avec des représentants de Revenu Canada (comme s'appelait alors l'organisme) au sujet de l'évaluation des données sismiques utilisées dans cette société-là. Le prix d'achat était d'environ 20 500 000 $ et il était basé sur ces évaluations. Les investisseurs ont fait l'objet de cotisations parce que Revenu Canada avait conclu que le prix d'achat était supérieur à la juste valeur marchande. Dans une lettre datée du 30 septembre 1992, Revenu Canada avait informé M. Sapieha que l'offre de règlement concernant « The Petroleum Capital 1987-1 Partnership » , qui avait pour effet de réduire la déduction fiscale d'environ un tiers, était acceptée. MM. Webb et Jaskela avaient employé, en évaluant ces données sismiques (c'est-à-dire les données sismiques de la société Petroleum Capital1987-1), une méthode semblable à celle qu'ils ont employée pour établir la valeur des données de l'entreprise.
+[70] Le prix d'achat des données (y compris les données de l'entreprise) représentait moins des deux tiers du montant auquel était arrivé M. Webb. L'évaluation de M. Webb était la plus basse pour les données de l'entreprise.
+[71] Dans la décision rendue en première instance dans l'affaire Petro-Canada, le juge Bowie a rejeté la méthode du coût de remplacement lorsqu'il s'agissait d'établir la juste valeur marchande de données sismiques, mais j'ai été informée qu'au moment où l'opération en question avait été conclue, c'était l'approche habituelle adoptée par les hommes d'affaires à Calgary. Canadian Hunter a employé cette méthode lorsqu'elle était arrivée à une valeur de 27 000 000 $ pour les données et M. Webb a témoigné qu'il ne connaissait personne dans l'industrie pétrolière qui ait une désignation d'évaluateur. Il ne convient peut-être pas de se fonder sur la méthode du coût de remplacement pour établir la juste valeur marchande de données sismiques, mais je conclus qu'il n'était pas déraisonnable de se fonder sur ces évaluations en ce qui concerne l'opération ici en cause.
+[72] Dans l'arrêt Petro-Canada, la juge Sharlow a de nouveau confirmé que le critère du caractère raisonnable qui avait été énoncé dans la décision Gabco Limitedv. M.N.R.[26] s'appliquait. Dans la décision Gabco, à la page 5216, le juge Cattanach avait énoncé le critère à appliquer pour déterminer si quelque chose était raisonnable :
+[TRADUCTION]
+Il s'agit non pas que le ministre ou notre cour substitue son jugement à celui du contribuable lorsqu'il s'agit de déterminer ce qu'est un paiement raisonnable, mais plutôt que le ministre ou la Cour arrive à la conclusion qu'aucun homme d'affaires raisonnable ne se serait engagé par contrat à verser une telle somme en n'ayant à l'esprit que les intérêts commerciaux de l'appelante.
+[73] Compte tenu de la nature fort spéculative de l'industrie de l'exploration pétrolière et gazière, du fait qu'il est fort difficile d'évaluer les données sismiques ainsi que de l'expérience de M. Sapieha dans l'industrie de l'exploration pétrolière et gazière, il ne convient pas ici de douter du jugement des participants. Il ne serait pas déraisonnable dans ce cas-ci de payer un prix supérieur à la juste valeur marchande. Toutefois, je conclus qu'un homme d'affaires raisonnable qui se trouverait dans la même situation que l'appelant aurait payé au moins 100 000 $ en échange de l'intérêt indivis dans les données de l'entreprise et pour l'accès illimité que l'appelant a obtenu.
+[74] Étant donné qu'il s'agissait d'une opération entre parties sans lien de dépendance et que la dépense était raisonnable, la question de la juste valeur marchande n'entre pas en ligne de compte. Ceci dit, j'examinerai brièvement la preuve relative à la juste valeur marchande. Il importe de noter qu'aucune opinion avec réserve n'a été exprimée au sujet de la valeur précise de l'intérêt indivis de 1,57 p. 100 de l'appelant. L'intimée n'a pas demandé à M. Siebert, le seul expert qui avait la compétence voulue pour exprimer une opinion au sujet de la juste valeur marchande des données de l'entreprise, d'évaluer l'intérêt de l'appelant. M. Siebert était d'avis que la juste valeur marchande des données de l'entreprise n'excéderait pas 6 000 000 $. Je conclus donc que cela ne répond pas à la question qui se pose.
+[75] Il m'est en outre difficile de retenir une bonne partie de l'opinion exprimée par M. Siebert au sujet de la valeur de toutes les données de l'entreprise, et ce, pour plusieurs raisons. M. Siebert n'a pas tenu compte de la valeur des données de l'entreprise, aux fins de l'exploration, et du fait qu'il y aurait pu y avoir un acheteur spécial. Il s'est également montré prudent dans ses prévisions relatives aux rentrées de fonds et aux taux d'actualisation.
+[76] Pour les motifs susmentionnés, j'ai conclu que les appels doivent être accueillis avec dépens.
+Signé à Vancouver (Colombie-Britannique), ce 26e jour de janvier 2005.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour d'avril 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2005CCI55
+No DU DOSSIER DE LA COUR :
+97-3628(IT)G
+INTITULÉ :
+Allan McLarty c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATES DES AUDIENCES :
+Les 8 au 12, 15 au 19, 22 et 23, 25 et 26 septembre 2003
+MOTIFS DU JUGEMENT :
+L'honorable juge L. M. Little
+DATE DU JUGEMENT :
+Le 26 janvier 2005
+COMPARUTIONS :
+Avocats de l'appelant :
+Mes Carman R. McNary,
+Jehad Haymour et Denny Kwan
+Avocates de l'intimée :
+Mes Wendy Burnham et
+Deborah Horowitz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Jehad Haymour, Carman R. McNary,
+Denny Kwan
+Cabinet :
+Fraser, Milner, Casgrain
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Continental Bank Leasing Corp. c. Canada, [2001] R.C.S. 1082; Backman c. Canada, [2004] R.C.F. 158; Ludco Enterprises Ltd. c. Canada, [2001] 2 R.C.S. 1082.
+[2] Walls v. The Queen, 2002 DTC 6960 (C.S.C.).
+[3] 2004 DTC 6329 (C.A.F.) [Petro-Canada].
+[4] 99 DTC 5377 (C.A.F.) [Global Communications].
+[5] 92 DTC 6123 (C.A.F.) [Gulf].
+[6] 77 DTC 5213 (C.S.C.).
+[7] 2002 DTC 6969 (C.A.F.).
+[8] 99 DTC 47 (C.C.I.).
+[9] 2003 DTC 94 (C.C.I.) [décision Petro-Canada rendue en première instance].
+[10] Ibid, paragraphe 35.
+[11] 84 DTC 6348 (C.A.F.).
+[12] À la date de l'instruction, la détentrice du billet n'avait pas encore désigné de fiduciaire indépendant.
+[13] 99 DTC 5286 (C.A. Ont.) [Canadian Pacific Limited].
+[14] Ibid, paragraphe 43.
+[15] 2001 DTC 5212 (C.A.F.) [Wawang].
+[16] 88 DTC 1106 (C.C.I.).
+[17] Ibid, où l'on a fait remarquer qu'une dette pouvait être conditionnelle s'il existait « des incertitudes à l'égard d'un de ces trois points : 1) savoir si le paiement sera effectué; 2) le montant à payer; ou 3) le moment où sera effectué le paiement » .
+[18][1963] A.C. 235 (C.L.).
+[19] 2002 DTC 1749 (C.C.I.).
+[20] Ibid, paragraphe 42.
+[21] 2001 DTC 738 (C.C.I.).
+[22] [2002] A.C.F. no 773.
+[23] 91 DTC 5543 (C.C.I.).
+[24] 97 DTC 1180 (C.C.I.).
+[25] Ibid, Beaumont v. The Queen, 86 DTC 6264; Special Risk Holdings Inc. v. The Queen, 86 DTC 6035.
+[26] 68 DTC 5210 (C. de l'É.) [Gabco].

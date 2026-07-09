@@ -1,0 +1,124 @@
+Title: Gontovnick v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/417896/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-140-417896-gontovnick-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-06-27
+
+# Gontovnick v. The Queen
+
+- Citation: 2019 TCC 140
+- Decision date: 2019-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4380, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gontovnick v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-06-27
+Neutral citation
+2019 TCC 140
+File numbers
+2018-497(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-497(IT)I
+BETWEEN:
+LINDA GONTOVNICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 17, 2019, at Montréal, Québec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Howard Gontovnick
+Counsel for the Respondent:
+Amelia Fink
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2010 taxation year is allowed with respect to the penalty only and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment. The appellant is not entitled to any further relief.
+Signed at Montréal, Québec, this 27th day of June 2019.
+“Réal Favreau”
+Favreau J.
+Citation: 2019 TCC 140
+Date: 20190627
+Docket: 2018-497(IT)I
+BETWEEN:
+LINDA GONTOVNICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant is appealing from an assessment of tax, penalties and interest in relation to excess contributions made by her spouse to her registered retirement savings plan (“RRSP”) for the 2010 taxation year.
+[2] At the beginning of the hearing, the respondent waived the late-filing penalty of $499.62. Therefore, the penalty is no longer in issue in this appeal.
+[3] In January 2010, the appellant’s spouse contributed a total amount of $5,089.50 to her RRSP. At the end of December 2009, her unused RRSP contribution was $41,891.50.
+[4] For the 2010 taxation year, the appellant’s RRSP deduction limit was $20,490.
+[5] As the appellant’s unused contributions ($46,981) exceeded her RRSP deduction limit ($20,490) by more than $2,000 for each month of the 2010 taxation year, the appellant had to file an Individual Tax Return For RRSP Excess Contributions (“Return”) on form T1-OVP for the 2010 taxation year as and when required by subsection 204.3(1) of the Income Tax Act (the “Act”). Subsection 204.3(1) reads as follows:
+204.3(1) Within 90 days after the end of each year after 1975, a taxpayer to whom this Part applies shall
+(a) file with the Minister a return for the year under this Part in prescribed form and containing prescribed information, without notice or demand therefor;
+(b) estimate in the return the amount of tax, if any, payable by the taxpayer under this Part in respect of each month in the year; and
+(c) pay to the Receiver General the amount of tax, if any, payable by the taxpayer under this Part in respect of each month in the year.
+[6] As no Return had been filed by the appellant, the Minister of National Revenue (the “Minister”) assessed her on April 21, 2017 pursuant to subsection 152(7) of the Act for her 2010 taxation year as follows:
+Tax Year
+Tax
+Penalty
+Interest
+2010
+$2,938.92
+$499.62
+$1,228.00
+[7] The appellant does not contest that there were excess contributions to her RRSP in the 2010 taxation year. Instead, the appellant argues that this matter was resolved in 2014 after she had withdrawn $30,000 from her RRSP account and paid taxes thereon.
+[8] The evidence in this respect is to the effect that after the removal of the excess contributions in 2014, the appellant applied for a waiver of the Part X.1 tax pursuant to subsection 204.1(4) of the Act in respect of the excess contributions for the taxation years 2011 to 2014 and requested the cancellation of the late-filing penalty and arrears interest on her 2011 to 2014 T1-OVP returns. Both requests were dismissed by the Canada Revenue Agency (“CRA”) by letters dated October 26, 2015.
+[9] On January 12, 2016, the appellant filed with the Tax Court of Canada a notice of discontinuance of her appeal from the T1-OVP assessments dated June 4, 2014, for the 2011 and 2012 taxation years.
+[10] Based on what occurred after the removal of the excess contributions of $30,000 in 2014, I have difficulty understanding the position of the appellant regarding her 2010 taxation year. Clearly, the $30,000 withdrawal of excess contributions solved the problem for the future years but not for the prior years.
+[11] In the 2010 taxation year, there were excess contributions throughout the year and no T1-OVP return had been filed with CRA in respect of that taxation year. The Minister first assessed the appellant for Part X.1 tax on April 21, 2017, pursuant to subsection 152(7) of the Act. This was the initial assessment for excess RRSP contributions under Part X.1 of the Act.
+[12] Although, in this case, the Minister assessed the appellant after a long period of time had passed, subsection 152(7) of the Act does not provide any time limit for the Minister to conduct an original assessment.
+[13] In this case, the Minister prepared the 2010 Return for RRSP Excess Contributions on behalf of the appellant and assessed her accordingly on April 21, 2017.
+[14] Subsection 204.3(1) of the Act requires a separate return under Part X.1. This return is different from the return filed under Part I and the tax payable under Part X.1 is a separate tax from the tax payable under Part I. The tax under Part X.1 is payable within 90 days after the year end.
+[15] Since the Act does not require the Minister to provide notice or demand that a taxpayer file a return under subsection 204.3(1), the Minister’s assessment on April 21, 2017, was a valid original assessment.
+[16] The limitation periods in subsection 152(3.1) of the Act apply to Part X.1 but the three year assessment period begins on the sending of a notice of an original assessment. In this case, the original assessment occurred on April 21, 2017, when the Minister first assessed the appellant for Part X.1 tax.
+[17] The resulting unfairness that can be caused by the operation of these provisions cannot be the basis for overriding a valid assessment since it is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or equity.
+[18] As conceded by the respondent, the late-filing penalty is cancelled.
+[19] Therefore, the appeal is allowed with respect to the penalty only and the appellant is not entitled to any further relief.
+Signed at Montréal, Québec, this 27th day of June 2019.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2019 TCC 140
+COURT FILE NO.:
+2018-497(IT)I
+STYLE OF CAUSE:
+LINDA GONTOVNICK AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+January 17, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+June 27, 2019
+APPEARANCES:
+Agent for the Appellant:
+Howard Gontovnick
+Counsel for the Respondent:
+Amelia Fink
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

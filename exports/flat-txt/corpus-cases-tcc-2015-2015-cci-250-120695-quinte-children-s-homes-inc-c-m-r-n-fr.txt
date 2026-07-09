@@ -1,0 +1,180 @@
+Title: Quinte Children's Homes Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/120695/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-250-120695-quinte-children-s-homes-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2015-10-26
+
+# Quinte Children's Homes Inc. c. M.R.N.
+
+- Citation: 2015 CCI 250
+- Decision date: 2015-10-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2732, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quinte Children's Homes Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-10-26
+Référence neutre
+2015 CCI 250
+Numéro de dossier
+2014-674(EI), 2014-675(CPP)
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2014-674(EI)
+ENTRE :
+QUINTE CHILDREN'S HOMES INC.,
+appelante,
+-et-
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+-et-
+SARA FOBEAR,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 octobre 2015 à Belleville (Ontario).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocate de l’appelante :
+Me Suzanne E. Hunt
+Avocat de l’intimé :
+Me Christopher Kitchen
+Pour l’intervenante :
+L’intervenante elle-même
+JUGEMENT
+L’appel est admis et la décision est modifiée afin de refléter le fait que l’intervenante n’occupait pas un emploi assurable auprès de l’appelante du 1er janvier au 30 octobre 2012.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2015.
+« D. E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 1er jour de décembre 2015.
+S. Tasset
+Dossier : 2014-675(CPP)
+ENTRE :
+QUINTE CHILDREN'S HOMES INC.,
+appelante,
+-et-
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+-et-
+SARA FOBEAR,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 octobre 2015 à Belleville (Ontario).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocate de l’appelante :
+Me Suzanne E. Hunt
+Avocat de l’intimé :
+Me Christopher Kitchen
+Pour l’intervenante :
+L’intervenante elle-même
+JUGEMENT
+L’appel est admis et la décision est modifiée afin de refléter le fait que l’intervenante n’occupait pas un emploi ouvrant droit à pension auprès de l’appelante du 1er janvier au 30 octobre 2012.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2015.
+« D. E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 1er jour de décembre 2015.
+S. Tasset
+Référence : 2015 CCI 250
+Date : 20151026
+Dossier : 2014-674(EI); 2014-675(CPP)
+ENTRE :
+QUINTE CHILDREN’S HOMES INC.,
+appelante,
+-et-
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+-et-
+SARA FOBEAR,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham [1] Quinte Children’s Homes Inc. (« QCH ») offre des services de placement en famille d’accueil et de traitement pour les enfants. QCH place les enfants au sein des 35 familles d’accueil qu’elle gère. En échange de ses services, QCH est rémunérée par le ministère des Services sociaux et communautaires de l’Ontario (le « ministère provincial »). Selon l’accord entre QCH et le ministère provincial, chaque enfant placé a droit, chaque semaine, à un certain nombre d’heures de services de soutien, selon un plan de traitement qui lui est associé. Ces services de soutien sont fournis par des personnes qui sont désignées comme étant des travailleurs auprès des enfants et des jeunes. QCH conclut des contrats avec ces travailleurs et les rémunère. Selon les modalités de leur contrat, l’intention des parties est d’entretenir une relation de client à entrepreneur indépendant. L’une des travailleuses auprès des enfants et des jeunes au service de QCH était l’intervenante, Mme Sara Fobear. Le ministre du Revenu national (le « ministre ») a rendu une décision selon laquelle Mme Fobear occupait chez QCH un emploi assurable au sens de la Loi sur l’assurance-emploi et un emploi ouvrant droit à pension selon le Régime de pensions du Canada pendant la période allant du 1er janvier au 30 octobre 2012. QCH a interjeté appel de cette décision. Mme Fobear, qui accepte la décision du ministre, est intervenue.
+Les questions en litige [2] Conformément au critère énoncé par la Cour d’appel fédérale dans l’arrêt 1392644 Ontario Inc. c. Canada (Revenu National) (« Connor Homes »)[1], la première question en litige dans cette affaire consiste à déterminer si l’intention stipulée dans le contrat, selon laquelle Mme Fobear était une entrepreneure indépendante, était dans les faits l’intention commune de QCH et de Mme Fobear. S’il s’agissait bien de l’intention commune des parties, la seconde question en litige, lorsqu’examinée sous le prisme de l’intention commune, consiste à déterminer si leur relation objective est une relation d’employeur à employé ou plutôt une relation de client à entrepreneur indépendant. Si les parties n’avaient pas l’intention commune que Mme Fobear soit une entrepreneure indépendante, alors la seconde question est de savoir si Mme Fobear était une entrepreneure indépendante ou une employée.
+L’intention [3] Mme Fobear a témoigné avoir travaillé chez QCH dans le cadre de ce qui semblait être un programme d’enseignement coopératif de son collège. Elle a déclaré qu’on lui avait proposé de se joindre à QCH une fois son diplôme obtenu. Mme Fobear a expliqué qu’elle avait rencontré l’une des actionnaires de QCH, Cara Pinchuk, et qu’à cette occasion, Mme Pinchuk lui avait remis une copie d’un [traduction] « contrat de services de consultation ». Comme il est énoncé ci-dessus, le contrat stipule que QCH retient les services de Mme Fobear à titre d’entrepreneure indépendante. Mme Fobear a témoigné que Mme Pinchuk n’avait pas attiré son attention sur le fait qu’il s’agissait d’un contrat entre client et entrepreneur indépendant plutôt que d’un contrat de travail ni sur ce qui distingue ces deux types de contrats. Mme Fobear a expliqué qu’elle ne savait pas que le titre du contrat signifiait qu’il s’agissait d’un contrat de client à entrepreneur indépendant et qu’elle n’a pas lu le contrat avant de le signer.
+[4] Mme Pinchuk n’a pas témoigné. John Stevenson, aussi actionnaire de QCH, a témoigné que la pratique courante était d’expliquer aux nouveaux travailleurs qu’ils signaient un contrat à titre d’entrepreneurs indépendants et de leur expliquer la différence entre un employé et un entrepreneur indépendant. Cependant, il a affirmé ne pas avoir demandé à Mme Pinchuk si elle avait suivi la pratique courante lors de sa rencontre avec Mme Fobear.
+[5] En l’absence de preuve de ce qui a été dit par Mme Pinchuck à Mme Fobear lors de cette rencontre, j’accepte la déclaration de Mme Fobear selon laquelle elle ignorait que le contrat de services de consultation stipulait qu’elle était une entrepreneure indépendante.
+[6] Le comportement de Mme Fobear soutient sa déclaration selon laquelle elle croyait être une employée de QCH. La preuve présentée par Mme Fobear consiste en sa déclaration de revenus de l’année 2012, dans laquelle elle a déclaré un revenu d’emploi plutôt qu’un revenu d’entreprise. Certaines personnes, qui se présentent devant la Cour, sont très satisfaites de leur statut d’entrepreneur indépendant tant qu’elles gagnent des revenus plus importants et qu’elles payent moins d’impôt. Elles deviennent cependant convaincues eu le statut d’employé quand vient le temps de demander des prestations d’assurance-emploi. Aucune preuve ne permet de penser que ce soit le cas de Mme Fobear.
+[7] Sur la base de ce qui précède, j’estime qu’il n’existait pas, entre QCH et Mme Fobear, d’intention commune de considérer Mme Fobear comme une entrepreneure indépendante.
+La relation [8] Après avoir conclu que QCH et Mme Fobear n’avaient pas d’intention commune, je dois répondre à la seconde question, qui consiste à déterminer la nature de la relation qui existait entre les parties. Dès lors que l’on considère cette question, il est pertinent de faire appel aux facteurs établis dans l’arrêt Wiebe Door[2] : le contrôle, la propriété des instruments de travail, la possibilité de profit et le risque de perte.
+Le contrôle [9] À première vue, il appert que QCH exerçait un contrôle considérable sur Mme Fobear. QCH avait remis à Mme Fobear un grand nombre de manuels techniques qui décrivent dans les plus menus détails ce qu’elle devait et ne devait pas faire lors de ses interactions avec les enfants pris en charge, la manière de rendre compte de son travail, les formations qu’elle devait avoir suivies ou devrait suivre ainsi que les évaluations qui seraient faites de son travail. Cependant, QCH n’est pas l’auteure de ces politiques et procédures détaillées. Celles-ci sont requises par le cadre législatif dans lequel QCH exerce ses activités. Les enfants dont QCH s’occupe sont souvent très vulnérables. Il n’est donc pas étonnant que le ministère provincial ait mis en place une importante série de règlements qui visent les interactions d’entreprises telles que QCH avec les enfants qui nécessitent leurs services. Ces règlements visent aussi la sélection, la formation et l’encadrement des personnes qui travaillent avec ces enfants. Afin de s’assurer du respect de ces règlements, le ministère provincial a établi des règles strictes de production de rapports. Pour se conformer à ces règlements, QCH doit imposer à ses travailleurs des procédures et politiques strictes et doit informer ceux-ci au moyen de manuels techniques.
+[10] L’intimé soutient essentiellement que, si un payeur souhaite exercer ses activités dans un domaine aussi strictement réglementé, il doit accepter que le degré de contrôle qu’il doit exercer sur ses travailleurs fait en sorte que les travailleurs doivent être des employés. Bien que je comprenne l’avis de l’intimé, je ne le partage pas.
+[11] L’avocate de QCH a proposé une bonne analogie, que je vais adopter. Lorsqu’un promoteur immobilier engage divers gens de métier afin de construire un immeuble, celui-ci leur impose non seulement qu’ils construisent cet immeuble, mais qu’ils le fassent en respectant les codes du bâtiment et règlements de sécurité provinciaux et municipaux et qu’ils fournissent, au besoin, des rapports confirmant que ces règles ont bel et bien été respectées. Dans ces circonstances, le promoteur immobilier ne contrôle pas comment, par exemple, l’électricien fait son travail. Le promoteur ne fait qu’exiger que le travail pour lequel l’électricien est engagé, c’est-à-dire poser les fils électriques dans l’immeuble, soit effectué selon les exigences de la loi.
+[12] On peut en dire autant de QCH, qui ne fait qu’engager des travailleurs afin d’offrir des services conformément à la loi. Par exemple, si QCH a mis en place des politiques qui restreignaient les moyens que Mme Fobear pouvait utiliser afin de maîtriser un enfant en crise, c’est parce que le ministère provincial le lui imposait, non pas parce que QCH essayait de contrôler Mme Fobear.
+[13] En tenant compte de ce qui précède, je vais procéder à l’analyse du facteur du contrôle, sans égard au contrôle exercé par QCH sur Mme Fobear qui résulterait des exigences imposées par le ministère provincial.
+[14] Afin de mieux analyser le facteur du contrôle, il est en premier lieu important de comprendre comment QCH et Mme Fobear fonctionnaient en général. Au terme des multiples formations et processus de vérification requis par le ministère provincial, Mme Fobear a été inscrite par QCH sur une liste de travailleurs qualifiés pour intervenir auprès des enfants et des jeunes. Cette liste a été fournie à tous les parents de familles d’accueil de QCH. Comme il a été expliqué précédemment, on allouait aux parents de familles d’accueil un certain nombre d’heures de service de soutien que les enfants placés chez eux pouvaient recevoir chaque mois de la part des travailleurs en question. Les parents de famille d’accueil qui avaient besoin de l’aide d’un travailleur auprès des enfants et des jeunes devaient communiquer directement avec le travailleur pour prendre les dispositions nécessaires. Le parent de famille d’accueil et le travailleur devaient alors tous deux noter le nombre d’heures travaillées et en informer QCH à la fin du mois. QCH payait le travailleur pour ce travail.
+[15] Je trouve que l’aspect le plus révélateur de la relation entre QCH et Mme Fobear était le moyen par lequel le travail était assigné. Cet aspect indique fortement que Mme Fobear était une entrepreneure indépendante. QCH n’assignait pas de tâches à Mme Fobear. Elle n’assignait pas de parents d’accueil à Mme Fobear. Elle ne spécifiait pas quand ni où Mme Fobear devait travailler. En fait, QCH ne savait pas directement où ou quand Mme Fobear travaillait ni même si elle travaillait, et ce, avant la fin du mois, lorsqu’elle demandait à être payée pour ce travail[3]. Le choix du travailleur auprès des enfants et des jeunes, le choix du moment auquel les services seraient fournis, le choix de la fréquence des visites et le choix du type de service à fournir étaient entièrement laissés aux parents d’accueil. Mme Fobear était libre de refuser un travail proposé par un parent d’accueil et celui-ci était libre de continuer, ou pas, de faire appel aux services de Mme Fobear comme bon lui semblait. Mme Fobear pouvait travailler avec autant de parents d’accueil qu’elle le désirait. QCH ne garantissait pas à Mme Fobear un nombre minimum d’heures de travail. Si Mme Fobear était malade ou devait annuler une séance de travail qui avait été prévue avec un parent, elle avisait le parent en question du problème, mais pas QCH. Il appartenait alors au parent concerné de prendre d’autres dispositions.
+[16] La méthode utilisée pour payer Mme Fobear donne elle aussi à penser que Mme Fobear était une entrepreneure indépendante, bien que l’argument ne soit pas très convaincant. Mme Fobear compilait ses heures sur un formulaire appelé [traduction] « facture ». Je n’accorde pas de poids au nom donné à ce formulaire. Ce dernier était préparé par QCH et tous les travailleurs auprès des enfants et des jeunes devaient l’utiliser afin d’être payés. Outre le titre de « facture » (titrage que je perçois comme un geste intéressé de la part de QCH), je ne vois pas de différence entre ce formulaire et d’autres formulaires similaires sur lesquels un employé compile ses heures. Je vois, cependant, certaines différences dans le calendrier de rémunération de Mme Fobear. Elle était payée le 15e jour du mois pour le travail effectué le mois précédent. Ce délai de paiement est plus conforme à une relation entre un client et un entrepreneur indépendant qu’à une relation d’emploi.
+[17] Mme Fobear n’a reçu aucune indemnité de congé ni aucun autre avantage offert aux employés de QCH. Aucun travail n’était accompli par Mme Fobear au bureau de QCH. La supervision – si tant est qu’il y en ait eu – du travail de Mme Fobear, incombait aux parents, pas à QCH. Mme Fobear était libre de travailler pour des compétiteurs. Elle était aussi libre de s’entendre avec les parents d’accueil pour travailler des heures supplémentaires, à leurs frais, au-delà des heures allouées pour chaque enfant. Tous ces éléments sont plus conformes à une relation entre un client et un entrepreneur indépendant qu’à une relation d’emploi.
+[18] En revanche, d’autres éléments indiquaient qu’il s’agissait d’une relation d’emploi. Bien que je ne prenne pas en considération le contrôle exercé par QCH découlant des exigences du ministère provincial, l’intimé a fait observer qu’un certain nombre de politiques mises en place par QCH n’auraient pas été requises par le ministère provincial. Tel est par exemple le cas des politiques concernant les retards, les conflits d’intérêts, la propriété intellectuelle, la conduite adoptée en dehors des heures de travail, l’utilisation d’un ordinateur, l’utilisation d’appareils électroniques portatifs ainsi que le code vestimentaire. M. Stevenson a expliqué que ces politiques se trouvent dans le manuel d’entreprise de QCH, que QCH y avait mentionné par inadvertance que ces politiques s’appliquaient autant aux entrepreneurs indépendants qu’aux employés, mais qu’en pratique, ces politiques n’étaient pas appliquées aux travailleurs auprès des enfants et des jeunes. Bien que j’accepte cette preuve, il demeure que ces politiques se trouvaient dans un manuel qui était distribué aux travailleurs auprès des enfants et des jeunes et étaient dites s’appliquer à eux. La simple présence de ce type de politique, que le contrôle qu’elles sous-entendent soit exercé ou non, cadre avec une relation d’emploi.
+[19] L’intimé a soumis en preuve un document intitulé [traduction] « Examen de rendement – Travailleurs auprès des enfants et des jeunes ». Il s’agissait d’un examen du rendement de Mme Fobear. L’intimé a indiqué que cet examen dépassait les exigences du ministère provincial, qui exige que les travailleurs auprès des enfants et des jeunes soient évalués sur une base annuelle. L’intimé a souligné que l’examen portait sur des compétences telles que la confiance, le leadership et le professionnalisme, et que ces compétences semblent plus axées sur le perfectionnement à long terme de Mme Fobear au sein de QCH que sur la satisfaction des exigences du ministère provincial. La présence de ce type d’examen semble indiquer une relation d’emploi. De plus, l’examen établit des objectifs pour l’année à venir. Dans l’ensemble, ce document a l’apparence d’un examen du rendement d’un employé. Mme Fobear y est décrite comme étant de [traduction] « niveau 1-1 ». Le formulaire, préparé par les ressources humaines, donne le nom de son [traduction] « gestionnaire », indique une cote pour chaque catégorie sur une échelle de 1 à 5 et contient des commentaires écrits par ce gestionnaire et par une autre personne désignée comme étant [traduction] « membre du personnel ». Ils y décrivent les projets d’avenir pour Mme Fobear ainsi que son potentiel au sein de QCH.
+[20] Eu égard à tout ce qui précède, j’estime que le facteur du contrôle indique qu’il existe une relation de client à entrepreneur indépendant. Je crois qu’en général, dans ses interactions relativement limitées avec Mme Fobear, QCH traitait cette dernière de la même manière qu’elle traitait ses employés. Toutefois, j’estime que c’est le peu de contrôle de QCH sur l’aspect le plus important de sa relation avec Mme Fobear (c.-à-d. l’attribution du travail) qui l’emporte sur le potentiel de contrôle dans leur relation.
+La propriété des instruments de travail [21] Les outils dont Mme Fobear avait besoin pour s’occuper des enfants étaient, pour la plupart, fournis par les parents d’accueil eux-mêmes. QCH mettait des ordinateurs à la disposition de tous les travailleurs (tant ceux considérés comme des employés que ceux considérés comme des entrepreneurs indépendants) à son bureau principal, mais la preuve de Mme Fobear indiquait qu’elle utilisait l’ordinateur appartenant au parent d’accueil pour qui elle travaillait lorsqu’elle avait besoin d’un ordinateur.
+[22] Le principal outil utilisé par Mme Fobear était sa voiture, qu’elle utilisait pour accompagner les enfants à leurs activités et à leurs rendez-vous. QCH remboursait Mme Fobear pour l’utilisation de sa voiture en se basant sur le kilométrage. Je n’accorde pas d’importance au fait qu’elle ait fourni sa voiture, parce qu’elle recevait un remboursement à cet égard. À mon avis, le fait qu’un travailleur payé à l’heure soit remboursé pour l’utilisation de sa voiture n’est pas incompatible avec une relation d’emploi ni avec une relation de client à entrepreneur indépendant.
+[23] À la lumière de tout ce qui précède, je n’accorde aucun poids au facteur des outils dans mon analyse.
+La possibilité de profit [24] Mme Fobear a témoigné qu’elle était payée 13 $ l’heure et qu’elle a été informée de son taux horaire au moment de signer le contrat de services de consultation. Il n’y a pas eu de négociation. Le taux horaire payé aux travailleurs auprès des jeunes et des enfants varie en fonction de l’expérience et de la formation des travailleurs. Je ne considère pas le fait que Mme Fobear n’ait pas négocié activement son taux horaire comme un facteur déterminant. On lui a fait une offre et elle l’a acceptée. Elle avait le choix de refuser cette offre. Je considère, cependant, que le fait que Mme Fobear ait été payée conformément à une échelle salariale établie de QCH semble indiquer une relation d’emploi.
+[25] Mme Fobear a témoigné qu’elle n’avait pas la possibilité d’offrir ses services en sous-traitance. L’article 12.4 du contrat de services de consultation stipule que le contrat ne peut être cédé. QCH estime que l’article 12.4 signifie que Mme Fobear ne pouvait pas céder son contrat dans son ensemble, mais soutient qu’elle était libre de sous-traiter avec n’importe qui, pourvu qu’elle ait obtenu l’aval de QCH dans le choix de la personne. Même si j’accepte l’idée que Mme Fobear était bel et bien libre de sous-traiter et qu’elle n’était tout simplement pas au courant de cette possibilité, les seules personnes avec qui elle aurait pu sous-traiter étaient celles qui étaient déjà inscrites sur la liste des travailleurs auprès des enfants et des jeunes approuvés par QCH. Ces personnes pouvaient déjà être choisies par les parents de familles d’accueil. J’ai du mal à imaginer une situation dans laquelle un parent d’accueil, ayant sélectionné Mme Fobear à partir d’une liste approuvée, demeurerait indifférent en voyant arriver un autre travailleur à sa place. Les parents d’accueil choisissent un travailleur pour s’occuper des enfants qui leur sont confiés, pas pour ratisser leur pelouse. Les relations personnelles entre le travailleur et les enfants constituent une part essentielle du travail. Si un parent d’accueil voulait engager un travailleur différent, il l’engagerait directement au lieu de Mme Fobear. Je trouve difficile à croire que Mme Fobear, qui se trouvait déjà au bas de l’échelle salariale de QCH, pourrait avoir convaincu un autre travailleur de prendre sa charge de travail à un taux réduit, de manière à ce qu’elle puisse réaliser des profits. Sur la base de ce qui précède, je conclus que Mme Fobear n’avait pas la possibilité de tirer des profits de la sous-traitance.
+[26] La seule façon pour Mme Fobear d’augmenter ses revenus était de travailler un plus grand nombre d’heures. Depuis la décision de la Cour d’appel fédérale dans City Water c. La Reine[4], il est généralement accepté que la possibilité, pour un travailleur payé à l’heure, de travailler plus longtemps pour gagner davantage n’équivaut pas à la possibilité de réaliser des profits. QCH fait valoir que la Cour d’appel fédérale s’est distancée de cette opinion. QCH invoque l’arrêt Connor Homes, où la Cour d’appel fédérale, en examinant la question de savoir si les travailleuses en question avaient la possibilité de réaliser des profits, a affirmé[5] :
+En outre, les appelantes limitaient de diverses manières les possibilités de gains des intéressées. La rémunération de celles‑ci était fixée soit à un taux horaire déterminé en fonction des crédits budgétaires prévus par le ministère pour les travailleurs auprès des enfants et des jeunes, soit à un taux journalier par enfant pour les surveillantes de secteur […] S’il est vrai que les intéressées conservaient en théorie la faculté de gagner plus ou moins en travaillant plus ou moins d’heures, le contrôle exercé par les appelantes sur leurs calendriers et horaires de travail avait pour effet de les empêcher de jouir de cette faculté en pratique. Le fait est que les appelantes décidaient de la nature de leurs horaires, tout comme elles programmaient leurs heures de travail concrètes, qui pouvaient équivaloir à une semaine normale de 40 heures […] Il est vrai que les intéressées étaient libres de refuser certains horaires de travail qui leur étaient proposés, mais cette possibilité ressemblait de près à celle offerte aux employés du secteur des services qui peuvent dans certaines limites adapter leur horaire de travail à leur horaire personnel.
+[Non souligné dans l’original.]
+[27] L’arrêt Connor Homes traitait également de travailleurs auprès des enfants et des jeunes. QCH fait valoir que, dans cette affaire-là, le contrôle exercé par les appelantes sur les heures travaillées par leurs travailleuses auprès des enfants et des jeunes n’est pas le même que dans le cas de QCH et que, par conséquent, Mme Fobear avait la possibilité de « jouir de [la] faculté » décrite par la Cour d’appel fédérale. QCH fait valoir que la seule limite relative au nombre d’heures que Mme Fobear pouvait travailler correspondait au plafond mensuel d’heures de soutien prévu par la province pour chaque enfant. Même si c’était le cas, Mme Fobear n’était pas limitée par le plafond mensuel d’heures pour un enfant en particulier ou pour un groupe d’enfants accueilli par une famille en particulier, puisqu’elle pouvait toujours chercher plus de travail auprès d’une autre famille. Sa limite correspondait plutôt au plafond collectif pour tous les enfants bénéficiant du soutien de QCH.
+[28] Malheureusement, l’arrêt Connor Homes ne fait aucune mention de l’arrêt City Water. Le fait que la Cour d’appel fédérale ne se soit pas basée sur l’arrêt City Water pour arriver à la conclusion que les travailleuses dans l’affaire Connor Homes n’avaient pas la possibilité de réaliser des profits pourrait signifier que la Cour d’appel fédérale désirait s’écarter de l’arrêt City Water, mais cela pourrait aussi simplement signifier que l’avocat n’avait pas attiré l’attention de la Cour d’appel fédérale sur cette affaire. Dans les circonstances, étant donné que la Cour d’appel fédérale n’a fourni aucune précision en ce qui concerne son intention et n’a pas fait d’analyse particulière de la question, je ne suis pas disposé à m’écarter de l’arrêt bien établi qu’est City Water. Par conséquent, je suis d’avis que la possibilité pour Mme Fobear de travailler plus d’heures n’équivaut pas à la possibilité de réaliser des profits.
+[29] QCH soutient aussi que Mme Fobear avait encore la possibilité de gagner de l’argent après avoir atteint le plafond d’heures mensuel. Comme mentionné précédemment, celle-ci s’entendait avec le parent d’accueil pour lequel elle travaillait principalement, et celui-ci la payait directement pour des heures additionnelles. Conséquemment, Mme Fobear offrait ses services à plus d’un client. J’ai déjà accordé un poids à cet élément dans mon analyse du facteur du contrôle. Je ne crois pas devoir y accorder davantage de poids ici.
+[30] Je souligne qu’il y a eu au procès une discussion au sujet des moyens trouvés par Mme Fobear et le parent d’accueil pour lequel elle travaillait principalement pour contourner le plafond d’heures mensuel pour un enfant donné. Il est clair que QCH ignorait cet arrangement et que ce que Mme Fobear et le parent d’accueil faisaient n’était pas prévu par le contrat entre Mme Fobear et QCH. En conséquence, je ne crois pas qu’il y ait lieu de prendre cet arrangement en considération dans l’examen des possibilités de réaliser des profits. Cela dit, je n’ai pas mentionné cet arrangement précédemment lorsque j’ai abordé le facteur du contrôle, mais je considère qu’il s’agit d’un élément important qui vient confirmer le peu de contrôle que QCH avait sur l’affectation du travail.
+[31] Sur la base de ce qui précède, je conclus que le facteur de la possibilité de faire des profits milite en faveur d’une relation d’emploi.
+Le risque de perte [32] Il n’existe pratiquement aucune preuve voulant que Mme Fobear ait été exposée à un risque de perte. Toutes ses dépenses étaient remboursées. Conséquemment, le facteur du risque de perte milite en faveur d’une relation d’emploi.
+Conclusion [33] Sur la base de tout ce qui précède, je conclus que Mme Fobear était une entrepreneure indépendante. Pour parvenir à cette conclusion, j’ai attaché beaucoup d’importance au facteur du contrôle. Je considère que le peu de contrôle exercé par QCH sur l’affectation concrète du travail est suffisamment considérable pour démentir les arguments fondés sur la possibilité de profit ou le risque de perte pour Mme Fobear.
+Décision [34] Compte tenu de tout ce qui précède, l’appel est admis. La décision du ministre est modifiée afin de refléter le fait que Mme Fobear était une entrepreneure indépendante de QCH du 1er janvier au 30 octobre 2012.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2015.
+« D.E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 1er jour de décembre 2015.
+S. Tasset
+RÉFÉRENCE :
+2015 CCI 250
+Nos DES DOSSIERS DE LA COUR :
+2014-674 (EI); 2014-675 (CPP)
+INTITULÉ :
+QUINTE CHILDREN’S HOMES INC. ET M.R.N. ET SARA FOBEAR
+LIEU DE L’AUDIENCE :
+Belleville (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 octobre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 26 octobre 2015
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Suzanne E. Hunt
+Avocat de l’intimé :
+Me Christopher Kitchen
+Pour l’intervenante :
+L’intervenante elle-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Suzanne E. Hunt
+Cabinet :
+Templeman Menninga LLP
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario), Canada
+[1] 2013 CAF 85
+[2] Wiebe Door Services Ltd. v. Minister of National Revenue, 1986 CarswellNat 366 (CAF)
+[3] Mme Fobear travaillait presque exclusivement pour un parent d’accueil qui était aussi employé par QCH. Ce n’était pas le cas des autres parents de famille d’accueil. En raison de cette situation unique, je ne considère pas que les connaissances indirectement acquises par QCH par l’intermédiaire de ce parent d’accueil soient des connaissances dont QCH disposait réellement, puisqu’elle n’avait pas de telles connaissances relatives à d’autres travailleurs se trouvant dans une situation similaire et puisque le fait que le parent d’accueil soit aussi un employé de QCH n’était qu’une coïncidence plutôt qu’une condition de la relation de travail de Mme Fobear avec QCH. En même temps, je n’accorde aucun poids au fait que Mme Fobear percevait ce parent d’accueil comme son « patron », car il était difficile de voir si cette perception émanait de sa relation avec le parent en tant que parent d’accueil ou en tant qu’employé de QCH.
+[4] 2006 CAF 350, au paragraphe 24
+[5] Au paragraphe 48

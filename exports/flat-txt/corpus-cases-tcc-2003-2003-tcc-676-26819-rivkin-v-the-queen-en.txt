@@ -1,0 +1,136 @@
+Title: Rivkin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26819/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-676-26819-rivkin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-10-09
+
+# Rivkin v. The Queen
+
+- Citation: 2003 TCC 676
+- Decision date: 2003-10-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 690, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rivkin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-09
+Neutral citation
+2003 TCC 676
+File numbers
+2002-4743(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4743(IT)I
+BETWEEN:
+RICHARD RIVKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 20, 2003 at St. John's, Newfoundland
+Before: The Honourable Justice B. Paris
+Appearances:
+Agent for the Appellant:
+Brian Brophy
+Counsel for the Respondent:
+Sue McKinney
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of October 2003.
+"B. Paris"
+Paris, J.
+Citation: 2003TCC676
+Date: 20031009
+Docket: 2002-4743(IT)I
+BETWEEN:
+RICHARD RIVKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The Appellant is appealing the assessment of his 2000 taxation year by which the Minister of National Revenue (the "Minister") disallowed his claim for deduction of $9,740 for expenses incurred for the maintenance of two of his children.
+[2] The facts upon which the Minister relied in assessing the Appellant are not disputed. They are set out in paragraph 11 of the Reply to the Notice of Appeal as follows:
+a) the Appellant and his former spouse have three children, Joshua, born May 3, 1978, Lauren, born May 3, 1978 and Jacob, born July 29, 1985;
+b) on February 23, 1989 the Appellant and his former spouse entered into a Voluntary Separation and Property Settlement Agreement (the "Agreement");
+c) the Agreement was entered into in the state of Maryland, United States;
+d) the Agreement required the Appellant to pay child support of $175 (US) per child per month until the child reached the age of 18 or otherwise became disentitled;
+e) the monthly support payments were increased each year by the annual increase in the Consumer Price Index;
+f) the Agreement also required the Appellant and his former spouse to share equally in the cost of an undergraduate college education for each child;
+g) the Agreement did not specify that subsections 56.1(2) and 60.1(2) of the Income Tax Act would apply to the payments made by the Appellant for the undergraduate college education of the children;
+h) during the 2000 taxation year, the Appellant made payments to his former spouse of $5,831.69 (Canadian) for the support of Jacob;
+i) in the 2000 taxation year, the Appellant paid tuition to Colgate College in the amount of $1,872.20 (Canadian) and rent to Cooperative Collegiate Services (Mead Capital Properties, LLC) in the amount of $2,522 (Canadian) for Joshua's undergraduate education costs; and
+j) in the 2000 taxation year, the Appellant paid $4,663.76 (Canadian) to the University of Maryland for Lauren's undergraduate education costs.
+[3] The issue in this case is whether the amounts in subparagraphs (i) and (j) paid by the Appellant for Joshua's and Lauren's education costs are deductible. This in turn requires a finding of whether the separation agreement (the "Agreement") entered into between the Appellant and his ex-spouse provided that ss. 56.1(2) and 60.1(2) of the Income Tax Act (the "Act") applied to those payments.
+[4] The Appellant gave evidence that he and his ex-spouse were living in Maryland, U.S.A. when the Agreement was drafted. He said that under U.S. tax law, support payments are neither deductible to the payer nor included in the income of the recipient, and therefore no reference was made in the Agreement to the tax treatment of those payments. There is however a reference in part four of the Agreement to his ex-spouse being entitled to claim the children as dependants for Federal, State and local tax purposes.
+[5] The Appellant moved to Newfoundland in 1991 and has filed tax returns as a Canadian resident since 1992. In discussions with someone at Revenue Canada he was advised that support payments were deductible in Canada, and that it would be advisable to submit a copy of his Agreement with his return, which he did. He submitted the Agreement again to Revenue Canada in 1993 in support of an application to vary his deductions at source.
+[6] In 1996 he made a phone enquiry to Revenue Canada about the deductibility of tuition fees paid on behalf of his children and was told that he could deduct them. In 2001 he was asked by the Canadian Customs and Revenue Agency to support his claim for the deductions claimed in his 2000 taxation year, and upon review his claim was denied.
+[7] The relevant portions of ss. 56.1(2) and 60.1(2) of the Act read:
+Section 56.1
+(2) Agreement. For the purposes of section 56, this section and subsection 118(5), the amount determined by the formula
+A - B
+where
+A is the total of all amounts each of which is an amount ... payable by a person in a taxation year, under an order of a competent tribunal or under a written agreement, in respect of an expense ... incurred in the year ... for the maintenance of a taxpayer, children in the taxpayer's custody or both the taxpayer and those children, ...
+and
+B is the amount ...
+(a) the total of all amounts each of which is an amount included in the total determined for A in respect of the acquisition or improvement of a self-contained domestic establishment in which the taxpayer resides...
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 60.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable to and receivable by the taxpayer as an allowance on a periodic basis, and the taxpayer is deemed to have discretion as to the use of that amount.
+Section 60.1
+(2) Agreement. For the purposes of section 60, this section and subsection 118(5), the amount determined by the formula
+A - B
+where
+A is the total of all amounts each of which is an amount ... payable by a taxpayer in a taxation year, under an order of a competent tribunal or under a written agreement, in respect of an expense ... incurred in the year ... for maintenance of a person ...
+and
+B is the amount ...
+(a) the total of all amounts each of which is an amount included in the total determined for A in respect of the acquisition or improvement of a self-contained domestic establishment in which that person resides...
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 56.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable by the taxpayer to that person and receivable by that person as an allowance on a periodic basis, and that person is deemed to have discretion as to the use of that amount.
+[8] The Appellant's representative admitted that the Agreement does not make any reference to the application of ss. 56.1(2) or 60.1(2) of the Act to the payments he was required to make for his children's education. However, he argued that because of the unique circumstances of this case, allowing the Appellant to deduct the amounts would not offend the policy underlying those particular provisions of the Act. The Appellant's representative submitted that the reference made in the separation agreement in this case to the Appellant's ex-spouse claiming the children as dependants was the only relevant tax consequence that arose from their agreement and therefore the Agreement fulfilled the spirit of ss. 56.1(2) and 60.1(2) of the Act.
+[9] The Appellant's representative also argued that the Minister was estopped from denying the deductions, firstly because Revenue Canada had a copy of the Agreement since 1992 and had allowed the Appellant the deductions up until 1999, and secondly because he had been advised that the tuition fees were deductible. After 1996, it was no longer possible, because of the changes to the tax treatment of support payments, to amend the Agreement to make the tuition fees deductible by including a specific reference to ss. 56.1(2) and 60.1(2) of the Act.
+[10] I will deal firstly with the estoppel argument. It has been held repeatedly by the Courts that estoppel will not lie in cases where the representation in issue is one of law rather than one of fact. The question of whether amounts are deductible under the Act is one of law and therefore the representations in this case could not prevent the Minister from reassessing in accordance with the law (see Hawkes et al. v. The Queen, 97 D.T.C. 5060 (F.C.A.)). The fact that the Minister had allowed the deductions in earlier years does not prevent him from taking a different assessing position for the year in issue. He is not bound by his previous assessments (see Schumaker v. The Queen, [2002] 3 C.T.C. 2206).
+[11] I am of the view that the Appellant's first argument must fail as well. There have been several recent cases dealing with ss. 56.1(2) and 60.1(2) of the Act and the condition that the order or agreement provide that those subsections apply to any payment required to be made to a third party. These cases were reviewed extensively by Mogan, J. of this Court in Carmichael and Her Majesty the Queen, 2003 TCC 379. He noted that the Federal Court of Appeal in Veilleux v. Canada, [2002] F.C.J. 737, had adopted a more flexible approach in determining whether wording in an agreement had met the condition in ss. 56.1(2) and 60.1(2) of the Act but added:
+There is a limitation, however, in the application of Veilleux because the support agreement or court order, if it does not contain a specific reference to subsections 56.1(2) and 60.1(2), must demonstrate from its terms that the parties understand the tax consequences of one party making certain payments. In other words, it must be apparent from the terms of the document that both parties understand that one party paying a particular amount will deduct that amount in computing income, and the other party will include that same amount in computing income. That, after all, is the practical effect of the "deeming" provision in subsections 56.1(2) and 60.1(2): "be deemed to be an amount paid ... and received ... as an allowance payable on a periodic basis". (emphasis added)
+[12] In this case the parties never turned their minds to the question of deductibility and inclusion of the education expenses paid to third parties in the calculation of their income because the Agreement was never intended to be operative in Canada. I do not agree that the Appellant falls within the spirit of the legislative provisions as was suggested by his representative. It is irrelevant that the Appellant and his ex-spouse dealt with other tax implications that their separation would have in the United States. There is nothing in the Agreement in this case that deals with the inclusion and deduction of the education expenses paid by the Appellant and there is no basis for allowing the Appellant to deduct the amounts in issue.
+[13] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 9th day of October 2003.
+"B. Paris"
+Paris, J.
+CITATION:
+2003TCC676
+COURT FILE NO.:
+2002-4743(IT)I
+STYLE OF CAUSE:
+Richard Rivkin and H.M.Q.
+PLACE OF HEARING:
+St. John's, Newfoundland
+DATE OF HEARING:
+August 20, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+October 9, 2003
+APPEARANCES:
+Agent for the Appellant:
+Brian Brophy
+Counsel for the Respondent:
+Sue McKinney
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

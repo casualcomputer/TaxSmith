@@ -1,0 +1,106 @@
+Title: Javor v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27487/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-102-27487-javor-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-02-02
+
+# Javor v. The Queen
+
+- Citation: 2005 TCC 102
+- Decision date: 2005-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 46, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Javor v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-02
+Neutral citation
+2005 TCC 102
+File numbers
+2004-3074(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3074(IT)I
+BETWEEN:
+MARIAN JAVOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 28, 2005, at Toronto, Ontario, by
+The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Agent for the Respondent:
+Cindy-Lynn Sa (Student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 2002 taxation year is dismissed.
+Signed at Ottawa, Canada, this 2nd day of February, 2005.
+"CampbellJ. Miller"
+Miller J.
+Citation: 2005TCC102
+Date: 20050202
+Docket: 2004-3074(IT)I
+BETWEEN:
+MARIAN JAVOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] This is an appeal by way of the informal procedure by Mr. Marian Javor of an assessment by the Minister of National Revenue (the Minister) of his 2002 taxation year. In 1997, Mr. Javor withdrew $8,048 from his Registered Retirement Savings Plan (RRSP) pursuant to the Home Buyers Plan (HBP). Mr. Javor has not repaid any of this amount to his RRSP. The Minister consequently assessed Mr. Javor to bring 1/15 of this amount, or $536, into Mr. Javor's 2002 income. Mr. Javor objects to the $536 being brought into his income.
+[2] The facts are not complicated as they pertain to the issue in this case. Mr. Javor, however, was under the impression that subsequent events in connection with his divorce proceedings and matrimonial property dispute impacted on the issue before me. Such facts could considerably complicate matters, given what I perceive to have been a very bitter dispute between Mr. Javor and his former spouse, involving considerable litigation. I was not convinced that such information was relevant.
+[3] In 1997, Mr. Javor withdrew $8,048 from his RRSP, for the purpose of helping to buy a home. The funds were withdrawn pursuant to the HBP, a program established under the auspices of the Income Tax Act (the Act) to allow taxpayers to withdraw funds from their RRSP on a tax-free basis, subject to repayment into the RRSP. Mr. Javor acknowledged he knew at the time of withdrawal, that to avoid tax he had to repay the $8,048 in annual instalments over 15 years. This was the amount of $536 per year. Mr. Javor further acknowledged he has not made any such repayments.
+[4] Mr. Javor testified that, due to the matrimonial dispute, he ultimately did not get the benefit of the RRSP withdrawal - his wife did. He also provided the Court with a copy of an Order of Justice James of the Ontario Superior Court dated June 19, 2001, in which Justice James divided the matrimonial property. Such Order made no reference to any debt owing to Canada Customs and Revenue Agency (CCRA) nor did it refer to Mr. Javor's RRSP or the HBP. It was simply silent on those items.
+[5] Mr. Javor had subpoenaed his former spouse and her lawyer. I quashed the subpoena against the wife, given evidence of a restraining Order against Mr. Javor, the evidence of her lawyer, Mr. Max Rapoport that she lived in fear of Mr. Javor, and my conclusion that she could contribute no relevant evidence to the case before me. I permitted Mr. Rapoport to be questioned solely on the issue of whether any repayments had been made to Mr. Javor's RRSP by Mr. Rapoport on behalf of the former spouse or by the former spouse directly. Mr. Rapoport was not aware of any payments and had no recollection of the RRSP matter generally. Mr. Javor accused Mr. Rapoport of lying. I am satisfied no repayments were made by anyone to Mr. Javor's RRSP. He presented no evidence from the issuer of the RRSP as to any repayments. Indeed, Mr. Javor admits he made no repayments. Mr. Javor did not file a 2000 or 2001 tax return.
+[6] The issue is whether the government correctly included $536 in Mr. Javor's 2002 income. The legislation dealing with the HBP is found in section 146.01 of the Act. It is complicated. I will not reproduce it here. The plan is that an individual can withdraw up to $20,000 from his RRSP to be put toward the acquisition of a qualifying home. The individual brings the withdrawn amount into income over 15 years in equal annual amounts, unless the individual repays the amount to the RRSP. Mr. Javor withdrew the $8,048 in 1997 from his RRSP. The withdrawal did qualify for the HBP. No amount has been repaid. $536 was not repaid in 2002. It has therefore been properly included in his income pursuant to subsection 146.01(4) of the Act.
+[7] Mr. Javor argues that because he subsequently did not get the benefit of the home due to the breakdown of his marriage, he need not bring any amount into income. He refers to the case of Field v. The Queen.[1] That case, however, did not deal with failure to repay under the HBP. It dealt with a straight RRSP withdrawal, fraudulently by a spouse. The wording of subsection 146(8) which deals with such withdrawals refers to benefits received by the taxpayer. The Court found that the husband had not received any benefit that need be brought into income.
+[8] Subsection 146(8) is not the section that brings amounts into income under the HBP. Subsection 146.01(4) is the operative section. It makes no mention of benefit - it simply provides a formula for bringing into income each year 1/15 of the amount withdrawn. The question of benefit does not come into play. Even if it did, the benefit would be the benefit at the time the funds were withdrawn from the RRSP. There is no question that at that time, Mr. Javor did receive a benefit by using such funds for the purchase of a qualifying home. Events three or four years later do not impact on that benefit.
+[9] Mr. Javor clearly believes he has been wronged by his former wife, her lawyer and the justice system generally. He has strong feelings in this regard. I will not comment on that, other than to acknowledge he has been through a lengthy, difficult situation. What I have tried to make clear to Mr. Javor in the case before me, is that this Court deals only with the correctness of his 2002 assessment. I find the assessment was correct as Mr. Javor did withdraw the RRSP funds and the funds have not been repaid to his RRSP. The law is clear that such amounts fall into his income. The appeal is dismissed.
+Signed at Ottawa, Canada, this 2nd day of February, 2005.
+"CampbellJ. Miller"
+Miller J.
+CITATION:
+2005TCC102
+COURT FILE NO.:
+2004-3074(IT)I
+STYLE OF CAUSE:
+Marian Javor and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 28, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+February 2, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Agent for the Respondent:
+Cindy-Lynn Sa (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2001 DTC 236.

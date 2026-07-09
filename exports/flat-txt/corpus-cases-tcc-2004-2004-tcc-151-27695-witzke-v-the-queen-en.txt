@@ -1,0 +1,131 @@
+Title: Witzke v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27695/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-151-27695-witzke-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-02-18
+
+# Witzke v. The Queen
+
+- Citation: 2004 TCC 151
+- Decision date: 2004-02-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 514, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Witzke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-18
+Neutral citation
+2004 TCC 151
+File numbers
+2003-361(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-361(GST)I
+BETWEEN:
+KEN E. WITZKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 12, 2004 at Kelowna, British Columbia
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated September 13, 2000 and bears number 12260000692 is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan this 18th day of February, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC151
+Date: 20040218
+Docket: 2003-361(GST)I
+BETWEEN:
+KEN E. WITZKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal was heard at Kelowna, British Columbia on February 12, 2004. The Appellant testified. The Respondent called Stewart Mason, the accountant for Bell Pole Co. Ltd.
+[2] The particulars in dispute are set out in paragraphs 5 to 13 of the Reply to the Notice of Appeal. None of the assumptions were refuted. The paragraphs read:
+5. By Notice of Assessment numbered 12260000692, dated September 13, 2000, the Minister of National Revenue (the "Minister") assessed the Appellant for under-reported net tax of $88,200.39, as detailed in the attached Schedule "A", plus penalty and interest of $23,391.79 and $17,90.45(sic) respectively for the reporting periods from January 1, 1993 to December 31, 1997, (the "Assessment Period").
+6. The Appellant filed a Notice of Objection on October 12, 2001.
+7. By Notice of Decision issued October 24, 2002, the Minister confirmed the assessment.
+8. In so assessing and confirming, the Minister relied on the following assumptions of fact:
+a) the Appellant is an individual who, at all material times, was involved in the following business activities: logging (the "Logging Activity"), fruit orchards and apartment rentals;
+b) the Appellant registered under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, (the "Act"), effective January 1, 1991, and was assigned Registration number 12332 7579RT;
+c) at all material times, the Appellant owed (sic) numerous properties in the Okanagan region of British Columbia;
+d) at all material times, the Appellant made taxable supplies of logs and fruit and exempt supplies of residential real property;
+e) at all material times, the supply of logs was taxable at the standard rate of 7%;
+f) at all material times, the Appellant collected or was required to collect GST on the sale of logs;
+g) for the Assessment Period the Appellant file (sic) his GST returns reporting no GST, input tax credits ("ITC") of $40,458.20, claiming net refunds of $40,458.20, as detailed in the attached Schedule "B";
+h) at all material times, the Appellant did not report any GST in respect of the Logging Activity;
+i) during the Assessment Period, the Appellant under-reported GST of $109,162.74, in respect of the Logging Activity, as detailed in the attached Schedule "A";
+j) in respect of the Logging Activity, the Appellant and was allowed ITC of $20,962.35, as detailed in the attached Schedule "A";
+k) at all material times, the Appellant knew that he was not accounting for the GST on his Logging Activity; and
+l) the Appellant did not exercise due diligence in ensuring that the correct amount of net tax was reported and remitted to the Receiver General;.
+m) after being assessed, the Appellant invoiced his customers the GST not originally invoiced and received direct payments from some of his customers.
+n) with respect to the supplies made to Bell Pole,
+i) the Appellant had a mortgage payable to Bell Pole;
+ii) pursuant to an arrangement, Bell Pole applied all amounts invoiced to it during the Assessment Period to the mortgage owed by the Appellant;
+iii) pursuant to the arrangement, the GST invoiced (the "Invoiced Amount") by the Appellant was also applied against the mortgage owned to Bell Pole; and
+iv) the Appellant did not incur a bad debt.
+B. ISSUE TO BE DECIDED
+9. The issue is whether the Appellant failed to report and remit net tax of $88,200.39.
+C. STATUTORY PROVISIONS RELIED ON
+10. He relies on subsections 123(1) and 298(4), sections 165, 221, 222, 225, 228, 231, 280 and 296 of the Act.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+11. He respectfully submits that at all material times the Appellant made taxable supplies of logs to his customers, and that he failed to report GST that was collected or collectible of $109,162.75, and remit net tax of $88,200.39, as required by section 228 of the Act.
+12. He submits that the Appellant did not incur a bad debt during and subsequent to the Assessment Period, as he received, within the meaning of subsection 123(1) of the Act, the Invoiced Amount as consideration when it was applied against the debt owed to Bell Pole, and thus was paid to him at law.
+13. He further submits that the Appellant has not incurred a bad debt as no amount was written off his books and records as provided by subsection 231(4) of the Act.
+[3] The Court finds, on the evidence, that in assumption 8(c), the word "owed" should be "owned"; and in 8(n)(ii) and (iii), the arrangement was simply a set-off by Bell Pole Co. Ltd.
+[4] The Appellant is a well-educated, competent and successful businessman. He did not file his 1994 to 1997 inclusive income tax returns until 1998. From the evidence, part of the reason for this may have been a series of family tragedies in the years 1992 to 1995. However, he is a major orchardist and his GST filings were attended to by an accountant and appear to have been filed on a timely basis. In particular, his input tax credits were claimed, but his GST payments due on major logging income were not reported or paid.
+[5] The Appellant testified that, in particular, Bell Pole Co. Ltd., didn't report to him on a timely basis. Stewart Mason testified that the company records appeared to indicate that it did. The Appellant also suggested that the GST from Bell Pole Co. Ltd. should have been paid to him directly and not offset against the mortgage which he had granted Bell Pole Co. Ltd. to secure its advances to him against the wood that it logged from his land.
+[6] However, the provisions of the Excise Tax Act allow the GST to be paid to the Appellant in the manner adopted by Bell Pole Co. Ltd. Moreover, the Appellant had similar deals with other logging companies which were paying the GST to him as the logging occurred. There is no evidence that he was ignorant of Bell Pole Co. Ltd.'s logging activities, although he testified that its reports to him were late.
+[7] On the evidence before the Court, the entire appeal is dismissed.
+Signed at Saskatoon, Saskatchewan this 18th day of February, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC151
+COURT FILE NO.:
+2003-361(GST)I
+STYLE OF CAUSE:
+Ken E. Witzke v. The Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+February 12, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT:
+February 18, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stacey M. Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

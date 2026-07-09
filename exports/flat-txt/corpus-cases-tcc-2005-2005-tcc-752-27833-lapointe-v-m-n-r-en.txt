@@ -1,0 +1,148 @@
+Title: Lapointe v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27833/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-752-27833-lapointe-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-12-19
+
+# Lapointe v. M.N.R.
+
+- Citation: 2005 TCC 752
+- Decision date: 2005-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 373, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lapointe v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-19
+Neutral citation
+2005 TCC 752
+File numbers
+2005-2045(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-2045(EI)
+BETWEEN:
+YVES LAPOINTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 28, 2005, at Matane, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Alain Poirier
+Counsel for the Respondent:
+Jean Lavigne
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 19th day of December 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 20th day of October 2006
+Monica F. Chamberlain, Reviser
+Citation: 2005TCC752
+Date: 20051219
+Docket: 2005-2045(EI)
+BETWEEN:
+YVES LAPOINTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from a decision by the Minister of National Revenue (the "Minister") dated April 29, 2005 informing the Appellant that the employment that he had held from May 17 to July 23, 2004 with the Festival d’Art In-Discipliné Région de l’Est (FAIRE) was not insurable within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the "Act"). According to the Minister, the Appellant was not employed under a contract of service.
+[2] FAIRE is a non-profit organization that was incorporated on June 23, 2003 to promote exchanges between artists in the Bas St‑Laurent and to organize cultural events. At the time of its incorporation, the board had three members: the Appellant as President, Diane Dupuis, Vice-President and Céline Boucher, Secretary. An initial four-day festival was organized during FAIRE's first year of existence, but FAIRE does not really appear to have really taken off until 2004.
+[3] The first constituent general meeting of FAIRE was held on June 3, 2004. Ms. Boucher and Ms. Dupuis did not attend the meeting and we know nothing about their role or their participation from the time of FAIRE's incorporation until this meeting, except that Ms. Dupuis looked after the accounting until August 19, 2003. The Appellant acknowledges that their involvement after this date was limited.
+[4] According to the minutes of the Annual General Meeting on June 3, 2004, the Appellant was re-elected President and a board consisting of 7 members was elected. The by-laws of the corporation were also adopted, and these include an article stipulating that the board alone has the power to select employees and to define their responsibilities, and another stipulating that the members of the board are volunteers and will not be paid for their services. However, expenses, specifically travel and representational expenses, incurred as part of their duties may be reimbursed. According to the by-laws, a director may, in exceptional cases and following a majority resolution of the board, be paid for his services and remain a director during this period.
+[5] We read in the minutes of a meeting of the board held on August 5, 2004, that the board had held a special meeting on July 21, 2004. The minutes of this special meeting were not submitted in evidence, but it was on this occasion that the Appellant submitted his resignation as President and artistic director/coordinator of the 2004 Festival. At its meeting on August 5, the board adopted the minutes of the special meeting on July 21 and authorized the acting President, Noël Grondin, to ask the Appellant to submit an official letter of resignation. Also at the August 5 meeting, there was discussion of shortcomings in the organization of the Festival and of problems caused by its President. The minutes shed light on the position of the board with regard to the Appellant and the fact that he had awarded himself pay without a resolution of the board. Article 4 of the minutes summarizes the board's position in the following terms:
+[TRANSLATION]
+4. Position of the board with regard to Yves Lapointe
+Following discussion of whether or not it was legitimate for Yves Lapointe to still be the director despite having resigned his position as President and artistic director/coordinator, Noël Grondin read to the board the articles of our general by-laws on this specific point.
+Article 8.4 Reimbursement of expenses
+The members of the board are volunteers and are not paid for their services. The expenses incurred in their duties (travel, representation) may, however, be reimbursed. In exceptional cases, a director may, by a majority resolution of the board, be remunerated for his services and remain a director during this period.
+Since Mr. Lapointe had given himself pay without any resolution of the board, he was automatically excluded from the board.
+Article 3.4 Suspension and expulsion
+The board may, by resolution, suspend for a specific period or expel any active member who is in violation of the by-laws without justification.
+After discussion, it was unanimously resolved that Yves Lapointe be expelled from membership in the Corporation du Festival d’art in-discipliné de la région de l’Est and accordingly as director.
+Mr. Grondin reported on a draft letter that he intended to send to Mr. Lapointe, following this decision by the board.
+Nadia Pelletier proposed that the letter be redrafted and made public. She was seconded by Firmin Gallant.
+Estelle Dallaire-Cloutier, seconded by Denise Lapointe, proposed that the letter first be submitted to a lawyer, if he would take it on.
+This latter option was ultimately adopted. Mr. Grondin and Ms. Lapointe will meet with a lawyer next week.
+[6] Under the heading "Other business" the minutes state that the Appellant would receive a notice of termination of employment for the 40-hour weeks, if he provided what was called his "sick note".
+[7] On August 6, 2004, the acting President sent a letter to the Appellant, explaining that the board was still waiting for a document from the doctor, which the Appellant had promised to provide on July 22. The Appellant was asked to submit this document no later than August 9, 2004, failing which the notation "left voluntarily" would be added to his notice of termination.
+[8] Two other letters were sent to the Appellant by the acting President on August 10 and August 19, 2004. In the first letter, the Appellant was asked to provide the board with explanation in order to shed light on his employment. The letter noted that the board did not have any resolutions or authorization on record that would allow the Appellant to receive money from the corporation as an employee and that there was no written contract between them. Questions were also raised regarding a number of irregularities in connection with the holding of the 2004 festival. In the second of these letters, the Appellant was informed that the board had dismissed him from the board on the grounds that he had contravened by-law 8.4 reproduced above, since the board had never authorized the Appellant to hold the position of President and employee of the corporation, and there was no contract, agreement or other document authorizing the Appellant to receive money as an employee of FAIRE.
+[9] At a regular meeting on August 24, 2004, the board passed the letter of August 19. At this same meeting, the minutes of the meeting on August 5, 2004 were adopted with the following changes:
+[TRANSLATION]
+At point 4. Position of the board with regard to Yves Lapointe: agreement was reached to change the word "pay" to Professional Fees. In this capacity, Mr. Lapointe will receive a T4 and a Statement 1 at the end of the year for the gross amounts that he gave himself, namely: $380.28 for 12 weeks, for a total of $4,943.64. This excludes the other amounts that he granted himself over the course of the winter for his expenses. For the Corporation, that means that they will be able to reclaim (or reallocate) the amounts already paid as source deductions for Mr. Lapointe.
+Point 10.1. Termination of employment of Yves Lapointe, becomes automatically inoperative
+[10] A public notice was subsequently published in a local newspaper. According to this notice, the directors, volunteers and founding members of FAIRE dissociated themselves from the Appellant and rejected any responsibility in respect of the Appellant's debts, actions or words.
+[11] Mr. Noël Grondin, who was elected acting President, (I deduce therefrom that this was the title to which he was appointed at the meeting of the board on July 21, 2004, the minutes of which were not tabled as evidence) testified that he was informed of the fact that the Appellant was an employee of FAIRE at the meeting that he chaired on August 5, 2004. He knew nothing about this employment. In his view, the members of the board were supposed to be volunteers. He looked for documentation that might shed light on the matter. He was informed of the names of the provisional members of the board. These members had resigned in 2003, except for the Appellant. He discovered the cheques paid to the Appellant, but nothing that would explain the relationship between the Appellant and FAIRE.
+[12] Having received no reply to its letters of August 6, 10 and 19 2004, the board took action at its meeting in August 24, 2004. The Appellant was accordingly expelled from membership in FAIRE and it was decided that he would not be given a notice of termination of employment, since the compensation that had been paid would be treated as professional fees and he would be sent a T4 for the gross amounts that he had given himself during the period in question.
+[13] For his part, the Appellant explained that he was the artistic director and coordinator of FAIRE on a volunteer basis. He made approaches to a number of departments to have FAIRE declared eligible for grants. One of the conditions of employment for receiving one of these grants was that a salaried employee had to hold the positions of manger, communications coordinator and fundraising coordinator, among others. The grant application listed such a position, offering pay at a rate of $15 an hour for fourteen 35-hour weeks.
+[14] Once the Appellant had confirmation that FAIRE would obtain the grant, a cash account with a line of credit was opened to pay the salary of the Appellant, which amounted to $550 a week and which he received from the beginning of May 2004. He was able to continue to receive his salary as a result of money collected at a fundraising dinner and on receipt of a second grant. He was paid from these sources until he handed in his resignation on July 21, 2004. According to the Appellant, his duties were linked to the organization of the festival and to everything involved with it, and he worked on drafting the by-laws of FAIRE and on recruiting new members. The Appellant stated that he was supervised by Chantal Bernier. According to the Appellant, between June 3 and July 21, 2004, there were five formal meetings of the board, namely one every 10 days, and informal meetings every 3 days. As far as the informal meetings were concerned, these were meetings between the Appellant and Chantal Bernier. He added that Ms. Bernier had resigned in mid-June to take over the accounting, which was a paid position. He maintained that Ms. Bernier had authorized him to seek out grants.
+[15] The cash account that was opened for the line of credit and for depositing grants was in the name of the Appellant and his girlfriend Johan Brouillard. The cheques made out to the Appellant, which were tabled in evidence, bear his signature and that of Johan Brouillard, with the exception of that of June 25, 2004, which is countersigned by Chantal Bernier instead of Johan Brouillard. Ms. Bernier signed it because the Appellant asked her to guarantee it. She agreed to do so until the Appellant could find someone else. No resolution authorizing anyone to sign cheques was passed on June 3, 2004, except that Chantal Bernier was appointed Secretary-Treasurer at that meeting and she did not begin to sign cheques until June 25, 2004.
+[16] The Appellant received cheques on the following dates and for the following amounts: according to the accounting record, it would appear that he received a cheque for $380.36 on May 7, 2004, one for $368.00 on May 14, 2004, for $380.28 on May 20, 2004, and for $380.28 on May 25, 2004, as salary. According to the copies of the cheques that were introduced, there was one dated May 28, 2004, on which the entry "cash" appears. The Appellant does not remember whether this was part of his salary. He stated that there was some confusion at the time and that he was waiting for confirmation of his salary. He added that there was nothing definite about his position. With regard to the cheques dated June 3 and 7, and two cheques dated June 18, 2004, they were listed as "advances" and the amount corresponds to the salary of the Appellant. The Appellant explained that these salary advances had been made prior to the fundraising dinner and that he had written "salary advance" so that the designation could be decided later. However, a cheque dated June 13, 2004 clearly indicates that this was his salary for one week and the amount is identical to the two cheques dated June 18, 2004. We also found a cheque dated June 13, 2004, payable to the inn owned by Johan Brouillard. This was for rental of an office for the festival.
+[17] The Appellant signed two statements during the investigation conducted by officers of Human Resources Development Canada. The passage which, in my view, correctly reflects the situation, is found in the statement dated September 8, 2004, which reads as follows:
+[TRANSLATION]
+As far as I was concerned, I took this as tacit permission to take my salary. I received no contract of work or as an employee on the part of the Corporation. In my view, the fact that I was receiving a salary was known to members of the Corporation and to some of the workers, some of whom became members of the board. Chantal Bernier, who looked after the Corporation's financial statements, as secretary-treasurer, did not provide financial statements from January 1 to July 1, 2004, which would have provided evidence to the board that I was receiving a salary.
+[18] For her part, Chantal Bernier stated in her testimony that she had begun working on a volunteer basis for FAIRE in May 2004. At the request of the Appellant, she voluntarily prepared the financial statements of FAIRE from 2003 to May 2004. These financial statements were very sketchy and the information was provided by the Appellant. The financial statements that were approved at the meeting on June 3, 2004 ended on December 31, 2003. Today, she has declared that the financial statements would have been different if she had been better informed. She added that she had played no role with regard to the grant applications and that no resolutions had been adopted regarding the grant application dated May 21, 2004 to the cultural development assistance fund. She prepared a pay book for FAIRE, but is not in a position to confirm whether the hours for the Appellant shown there reflect the hours actually worked.
+[19] Counsel for the Appellant admitted at the hearing that no contract of employment had been signed before June 3, 2004, i.e., prior to the holding of the first annual general meeting of FAIRE. He acknowledged that the Appellant was not authorized to hire himself and that for all practical purposes, the circumstances permitting the signing of a contract of employment within the meaning of the Act, i.e., a contract where the employee is under the direction or control of an employer, were not present. He nonetheless maintained that his employment after June 3 was in accordance with the Act. For his part, Counsel for the Respondent maintained that there had been no contract of employment during the entire period at issue. Since there was no employment under a contract of service within the meaning of paragraph 5(1)(a) of the Act, the Appellant did not hold insurable employment.
+[20] The Federal Court in 9041-6868 Québec Inc. v. The Minister of National Revenue, 2005 FCA 334, clarified the matter regarding the concept of a contract of service in paragraph 5(1)(a) of the Act when the provincial law that applies in Quebec law. In such cases, the Civil Code of Quebec determines the rules applicable to a contract that is signed in Quebec. The Court also summarized the role of the Tax Court of Canada in the following terms at paragraphs 8 and 9:
+[8] We must keep in mind that the role of the Tax Court of Canada judge is to determine, from the facts, whether the allegations relied on by the Minister are correct, and if so, whether the true nature of the contractual arrangement between the parties can be characterized, in law, as employment. The proceedings before the Tax Court of Canada are not, properly speaking, a contractual dispute between the two parties to a contract. They are administrative proceedings between a third party, the Minister of National Revenue, and one of the parties, even if one of those parties may ultimately wish to adopt the Minister's position.
+[9] The contract on which the Minister relies, or which a party seeks to set up against the Minister, is indeed a juridical fact that the Minister may not ignore, even if the contract does not affect the Minister (art. 1440 C.C.Q.; Baudouin and Jobin, Les Obligations, Éditions Yvon Blais 1998, 5th edition, p. 377). However, this does not mean that the Minister may not argue that, on the facts, the contract is not what it seems to be, was not performed as provided by its terms or does not reflect the true relationship created between the parties. The Minister, and the Tax Court of Canada in turn, may, as provided by articles 1425 and 1426 of the Civil Code of Québec, look for that true relationship in the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage. The circumstances in which the contract was formed include the legitimate stated intention of the parties, an important factor that has been cited by this Court in numerous decisions (see Wolf v. Canada (C.A.), [2002] 4 F.C. 396, paras. 119 and 122; A.G. Canada v. Les Productions Bibi et Zoé Inc., [2004] F.C.J. No. 238, 2004 FCA 54; Le Livreur Plus Inc. v. M.N.R., [2004] F.C.J. No. 267, 2004 FCA 68; Poulin v. Canada (M.N.R.), [2003] F.C.J. No. 141, 2003 FCA.50; Tremblay v. Canada (M.N.R.), [2004] F.C.J. No. 802, 2004 FCA 175.
+[21] The provisions of the Civil Code of Québec that deal with contracts in general and with employment contracts, and which are relevant to the case at bar, are the following:
+1378. A contract is an agreement of wills by which one of several persons obligate themselves to one or several other persons to perform a prestation.
+…
+1425. The common intention of the parties, rather than adherence to the literal meaning of the words, shall be sought in interpreting a contract.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+…
+1440. A contract has effect only between the contracting parties; it does not affect third persons, except where provided by law.
+…
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[22] It is incumbent on the Appellant to demonstrate, according to the balance of probabilities, that the facts on which the Minister based his decision in deciding that the Appellant did not hold employment under a contract of service were not well founded. The Appellant has systematically denied the allegations of fact in support of the Minister's decision, with the exception of the first three, which are found at sub-paragraphs 5 (a), (b) and (c) of the Reply to the Notice of Appeal. That said, in my view, the Appellant has not discharged the burden of proof in order to establish, in the case at bar, the existence of a contract of employment within the meaning of the Act.
+[23] FAIRE, for all practical purposes, was not managed by a board of three members, as the Act requires, as a result of the departure of two of the founding directors, Céline Boucher and Diane Dupuis. No minutes of meetings and no resolutions in due form were passed by the board prior to its first annual general meeting, which was held on June 3, 2004. It goes without saying that it was accordingly impossible for FAIRE to be bound by a contract of employment to the Appellant before this meeting was held, as is recognized, moreover, by Counsel for the Appellant. In addition, the minutes of this meeting contain no mention of the fact that the Appellant was working for FAIRE as an employee. A new board was constituted with the Appellant in the chair and the general by-laws were adopted, after having been written largely by the Appellant. They include a clause to the effect that the members of the board are volunteers and that, in exceptional cases, a director may, by majority resolution of the board, be paid for his services and remain a director during that period. The minutes of this first annual general meeting make no mention of any such resolution in respect of the Appellant and the Appellant opted not to inform the board that he was employed by FAIRE.
+[24] There is no doubt that the Appellant provided services to FAIRE, except that these services were to be given voluntarily. In my view, there never was, in fact, a contract of employment between FAIRE and the Appellant. Clearly, all the conditions of the alleged employment were established by the Appellant himself and FAIRE exercised no control over the Appellant in its capacity as employer.
+[25] The Appellant was not in a position to pay himself a salary, nor to decide how much or when he would be paid. He had to know that his approach would raise doubts, since some of the cheques that he received were advances. Furthermore, he was expecting the board to regularize the situation, which was never done. One must also wonder how he was able to obtain salary advances without the authorization of the board. The Appellant was, during the period at issue, his own master. In such a case, there could be no contract of employment. The appeal is accordingly dismissed.
+Signed at Edmundston, New Brunswick, this 19th day December 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 20th day of October 2006
+Monica F. Chamberlain, Reviser
+CITATION: 2005TCC752
+COURT FILE NO.: 2005-2045(EI)
+STYLE OF CAUSE: Yves Lapointe and M.N.R.
+PLACE OF HEARING: Matane, Quebec
+DATE OF HEARING: October 28, 2005
+REASONS FOR JUDGMENT: The Honourable Justice François Angers
+DATE OF JUDGMENT: December 19, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Alain Poirier
+Counsel for the Respondent:
+Jean Lavigne
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Alain Poirier
+Firm: Poirier & Poirier
+Matane, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

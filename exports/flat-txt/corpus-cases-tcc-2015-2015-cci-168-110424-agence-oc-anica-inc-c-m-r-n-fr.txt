@@ -1,0 +1,271 @@
+Title: Agence Océanica inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110424/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-168-110424-agence-oc-anica-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2015-06-29
+
+# Agence Océanica inc. c. M.R.N.
+
+- Citation: 2015 CCI 168
+- Decision date: 2015-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2662, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Agence Océanica inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-29
+Référence neutre
+2015 CCI 168
+Numéro de dossier
+2010-2423(EI)
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-2423(EI)
+ENTRE :
+AGENCE OCÉANICA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu les 8 juillet 2013 et 15 et 16 avril 2014,
+à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocat de l’appelante :
+Me Riad Brahimi
+Avocate de l’intimé :
+Me Nancy Azzi
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel est rejeté et la décision que le ministre du Revenu national a rendue le 28 avril 2010 pour les années 2005, 2006 et 2007 est confirmée.
+Signé à Ottawa (Ontario), ce 29e jour de juin 2015.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2015 CCI 168
+Date : 20150629
+Dossier : 2010-2423(EI)
+ENTRE :
+AGENCE OCÉANICA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] L’appelante appelle de trois cotisations, dont les avis sont tous datés du 2 septembre 2008, pour les années 2005, 2006 et 2007. Ces trois cotisations étaient pour des primes d’assurance-emploi relativement à 189 personnes dont les noms sont énumérés à l’annexe A de la réponse à l’avis d’appel. Le ministre considère que ces personnes occupaient des emplois assurables[1].
+[2] Riad Brahimi est l’actionnaire unique de l’appelante. Dans le cadre de ses activités, l’appelante envoie des infirmiers et infirmières travailler chez ses clients, tels que le CHSLD, le CLSC, le Manoir Outremont, le Château Vincent d’Indy et quelques maisons privées. Souvent aux CLSC, les infirmiers et infirmières faisaient le travail d’Info-Santé.
+[3] Il n’est pas contesté qu’il s’agit d’une agence de placement[2].
+[4] La disposition pertinente de la Loi sur l’assurance-emploi est à l’article 5, tel qu’il se lisait à l’époque :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+[…]
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+[5] En vertu de ces dispositions, l’alinéa 6g) du Règlement sur l’assurance- emploi a été adopté et prévoit ce qui suit :
+6 Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[…]
+g) l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence.
+[6] Il faut également tenir compte de l’article 7 du Règlement sur la rémunération assurable et la perception des cotisations :
+7 L’agence de placement qui procure un emploi assurable à une personne selon une convention portant qu’elle versera la rémunération de cette personne est réputée être l’employeur de celle-ci aux fins de la tenue des registres, du calcul de la rémunération assurable de la personne ainsi que du paiement, de la retenue et du versement des cotisations exigibles à cet égard aux termes de la Loi et du présent règlement.
+[7] Parce qu’il n’est pas contesté qu’il s’agit d’une agence de placement, que les diverses places où travaillaient les infirmiers et infirmières étaient des clients de l’appelante et que les personnes en question ont été rémunérées par l’appelante, la question clé est de savoir si les infirmiers et infirmières en question ont fourni les services aux clients « sous la direction et le contrôle [des] client[s] » au sens de l’alinéa 6g) du Règlement sur l’assurance-emploi.
+[8] L’appelante considère les infirmiers et infirmières comme des travailleurs autonomes.
+[9] Cinq personnes ont témoigné y compris M. Brahimi, le propriétaire de l’appelante[3].
+[10] Les faits tenus pour acquis par le ministre sont les suivants :
+a) l’appelante a été constituée en société le 26 février 2002;
+b) Riad Brahimi était l’actionnaire unique de l’appelante;
+c) l’appelante exploitait une agence de placement;
+d) l’appelante embauchait du personnel infirmier pour ses clients;
+e) l’appelante avait parmi ses clients des CLSC comme Rosemont/ St‑Michel et des CHSLD comme celui de Lachine, de LaSalle, St‑Charles-Borromée, Jean De La Lande et Armand Lavergne;
+f) l’appelante possédait une liste de travailleurs infirmiers;
+g) à la demande de l’un des clients de l’appelante, l’appelante communiquait avec l’un des travailleurs de sa liste et lui offrait de rendre les services réclamés par ce client;
+h) les travailleurs acceptaient selon leur gré d’aller travailler chez les clients de l’appelante, selon un tarif convenu avec l’appelante;
+i) les travailleurs rendaient des services dans les locaux du client de l’appelante;
+j) les travailleurs devaient respecter un horaire de travail fixé par le client de l’appelante;
+k) les travailleurs devaient rendre les services exigés et supervisés par le client de l’appelante;
+l) les travailleurs étaient rémunérés, par chèque, par l'appelante selon le nombre d’heures travaillées chez le client de l’appelante;
+m) les travailleurs ne rendaient pas de services à l’appelante;
+n) les travailleurs rendaient des services aux clients de l’appelante sous la supervision et le contrôle des clients de l’appelante.
+Témoignage de Riad Brahimi [11] L’appelante a opéré de 2002 à 2008.
+[12] Le fonctionnement de l’appelante est comme suit. Un client contacte M. Brahimi et demande si l’appelante peut fournir un ou plusieurs infirmiers pour un quart de travail à effectuer dans les locaux du client. L’appelante a une liste de travailleurs potentiels et M. Brahimi communique avec des travailleurs pour trouver du personnel infirmier disponible et prêt à faire le quart de travail.
+[13] Tous les travailleurs sont membres de l’Ordre des infirmières et infirmiers du Québec (Ordre) ou de l’Ordre des infirmières et infirmiers auxiliaires du Québec.
+[14] Le travailleur contacté est entièrement libre d’accepter ou non les quarts de travail proposés; il peut choisir d’accepter un quart tout en refusant un autre quart, mais une fois qu’il s’engage envers l’appelante à effectuer le travail il doit respecter l’horaire assigné[4].
+[15] M. Brahimi gère tout par téléphone. Il ne se déplace pas pour aller voir les travailleurs chez les clients. L’appelante agit à titre d’intermédiaire entre les travailleurs et le client. L’appelante paie les travailleurs et les clients paient l’appelante. L’appelante et les travailleurs ont un contrat verbal.
+[16] Selon M. Brahimi, tous les travailleurs agissent à titre de travailleurs autonomes, à l’exception de deux ou trois travailleurs. Ainsi, ils travaillent quand ils le veulent et n’ont aucun contrat avec les clients. Ils négocient leur salaire, ils choisissent où ils veulent travailler ainsi que leur horaire.
+[17] L’appelante envoyait des feuillets T4A aux infirmiers et infirmières dont les services avaient été retenus par l’appelante. Aucune déduction à la source n’a été faite par l’appelante pour les travailleurs recevant un feuillet T4A[5].
+[18] Toutefois, depuis la décision de la juge Lamarre (tel était alors son titre) relativement à certains individus placés par l’appelante avant 2005[6], l’appelante a transmis des feuillets T4 aux travailleurs faisant du travail pour Info-Santé[7].
+[19] Les infirmiers et infirmières possèdent tous des cartes professionnelles et ont leur propre assurance-responsabilité.
+[20] Selon M. Brahimi, les travailleurs établissent leurs tâches eux‑mêmes et ne reçoivent aucun ordre. L’appelante n’a pas d’assurance-responsabilité pour couvrir les travailleurs. Il n’y a aucune supervision effectuée par les clients sur les infirmiers et infirmières, mis à part un contrôle de qualité. Selon M. Brahimi : « C’est l’infirmière elle-même qui supervise pour elle-même, Monsieur le Juge, et surtout, surtout, surtout encore pour les coordonnatrices. »[8]
+[21] Les travailleurs ne sont soumis à aucune évaluation de la part des clients. Ils n’ont pas de protocole à suivre autre que ce qui est inscrit dans les dossiers des patients.
+[22] Les clients ne peuvent pas décider si les travailleurs reviennent ou non le jour suivant. Ils ne peuvent pas leur imposer de mesure disciplinaire.
+[23] La seule restriction pour les travailleurs quant à la façon d’effectuer leur travail est de s’assurer de respecter la réglementation de l’Ordre. Autrement, ils peuvent faire ce qu’ils veulent dans le cadre des services qu’ils rendent.
+[24] Le travailleur doit aussi respecter l’horaire et l’étage de travail sur lesquels il s’est entendu avec le client. Il ne peut pas quitter pendant son quart de travail, sauf en cas d’urgence. Si le travailleur ne peut pas faire son quart de travail pour raison de maladie, il doit en informer l’appelante et les deux (l’appelante et le travailleur) vont tenter de trouver un remplaçant[9].
+[25] Le travail est sur appel, donc les travailleurs peuvent refuser.
+[26] Les travailleurs sont libres de prendre une pause et de choisir leur heure de repas, pourvu que la sécurité des patients soit assurée[10].
+[27] Les infirmiers et infirmières travaillent dans les locaux des clients. Lorsqu’ils arrivent chez le client, ils n’ont pas à signer de registre[11]. À la fin de leur quart de travail, les travailleurs doivent faire un rapport au travailleur qui fera le quart suivant[12].
+[28] Ce sont les travailleurs qui s’occupent de leur perfectionnement. Ils ne participent à aucune réunion chez le client. Ils assistent plutôt à des cours donnés par l’Ordre.
+[29] Les infirmiers et infirmières ne travaillent pas seulement pour l’appelante.
+[30] Concernant les outils de travail, les travailleurs fournissent leur sarrau et leurs chaussures. Ils amènent également leur stéthoscope, leur thermomètre, leur spiromètre et leur appareil à tension par mesure d’hygiène, malgré que ces outils soient disponibles sur place.
+[31] Il est important de noter que bien qu’il ait travaillé comme infirmier dans le passé, M. Brahimi dirigeait l’appelante pendant la période en question. Il n’était pas sur les lieux des clients avec les travailleurs fournis par l’appelante.
+Autres témoignages M.C. Douyon [32] Mme Douyon est infirmière depuis 1989. Elle a été engagée par l’appelante pour travailler dans les CLSC (Info-Santé). Le travail qu’elle a obtenu par l’appelante était uniquement pour Info-Santé.
+[33] M. Brahimi communiquait avec Mme Douyon par téléphone ou courriel pour lui proposer des quarts de travail. Mme Douyon n’avait pas l’obligation de travailler le quart demandé. Par contre, si elle acceptait de le faire et qu’elle avait un empêchement par la suite, elle devait aviser l’appelante le plus tôt possible en donnant un délai minimum de deux heures pour trouver un remplaçant.
+[34] Elle ne se rappelle pas si l’appelante lui interdisait de travailler ailleurs[13]. Elle ne se rappelle non plus si l’appelante faisait des déductions à la source sur son salaire.
+[35] Quand elle se présentait au CLSC, il y avait une assistante présente sur les lieux du travail pour accueillir les travailleurs des agences. Elle les aidait également lorsqu’ils avaient des questions. Elle signait également le registre des présences à son arrivée. Son nom y était déjà inscrit.
+[36] Dans le cadre de son travail, Mme Douyon répondait à des appels sur des questions de santé. Elle devait remplir des fiches d’appel sur l’ordinateur; une fiche d’appel est similaire au dossier d’un patient. Elle devait y inscrire la raison de l’appel, l’état de santé, les malaises, les recommandations données, etc. Les conversations téléphoniques étaient enregistrées. L’assistante ne pouvait lui assigner d’autres tâches que de répondre aux appels, à l’exception de visites à domicile qu’elle pouvait se faire assigner par l’assistante.
+[37] Mme Douyon a témoigné qu’il n’y avait aucune différence entre ses tâches et celles d’un employé du CLSC[14].
+[38] Les infirmiers et infirmières devaient respecter des protocoles lors de leur quart de travail. Ces protocoles étaient faits par des médecins, des scientifiques et des infirmiers ou infirmières[15]. Par exemple, le protocole pouvait dire qu’après 72 heures de fièvre chez un enfant, il fallait l’envoyer à un médecin. Les protocoles prévoyaient la majorité des cas et indiquaient les circonstances dans lesquelles il fallait envoyer le patient à un médecin ou celles dans lesquelles il pouvait attendre.
+[39] Mme Douyon devait respecter l’horaire de travail établi. Elle pouvait partir plus tôt en cas d’urgence avec autorisation. Après avoir complété son quart de travail, si on lui demandait de rester au travail, elle n’était pas obligée de le faire, mais elle pouvait le faire sur une base volontaire.
+[40] Le CLSC planifiait d’avance les heures de pause et de dîner.
+[41] Aucune tenue vestimentaire n’était imposée.
+[42] Lorsqu’il a été question du salaire, l’appelante a offert un montant à Mme Douyon qui l’a accepté. Elle ne se rappelle pas si le salaire avait été négocié. Il est arrivé une fois qu’elle ait demandé à l’appelante d’être payée à l’avance et elle a été payée à l’avance.
+[43] Les outils de travail étaient fournis par le CLSC. Elle utilisait l’ordinateur du CLSC avec un mot de passe assigné, le téléphone et un casque d’écoute.
+Yves Beaudet [44] M. Beaudet est un aidant naturel et un infirmier retraité. Il a travaillé comme infirmier principalement au CHSLD Saint-Charles-Borromée et parfois au Manoir de l’âge d’or ou au Manoir De La Lande. La grande majorité du temps il a travaillé à Saint-Charles-Borromée car il était un remplaçant à long terme, presqu’un an.
+[45] Il a décrit l’appelante comme une agence de placement. Lorsqu’il travaillait pour l’appelante, il ne travaillait pas pour d’autres agences en même temps.
+[46] L’appelante communiquait avec M. Beaudet pour lui donner les coordonnées de l’endroit et l’heure du travail. L’appelante ne lui donnait pas de directives sur la manière dont il devait faire son travail.
+[47] M. Beaudet était libre d’accepter ou non un quart de travail proposé. Il n’avait aucune obligation d’accepter.
+[48] Lorsqu’il arrivait sur les lieux du travail chez le client, M. Beaudet rencontrait l’infirmier ou l’infirmière en chef de l’équipe de soir qui lui expliquait ce qui avait été fait par l’équipe de soir. Il suivait par la suite le plan de travail dans la mesure du possible. Le plan de travail pouvait être modifié selon l’information obtenue de l’infirmier ou l’infirmière en chef[16]; il s’agissait plus d’un cadre de référence. Le plan de travail était remis par l’établissement où il travaillait. Il contenait des directives générales sur les procédures à suivre dans le quart de travail. M. Beaudet a qualifié le plan de travail de « boussole », une boussole qu’il essayait de suivre dans la mesure du possible.
+[49] Il y avait aussi des cartables contenant les techniques et les soins à procurer aux patients. Il y avait un cartable avec le nom du patient, le numéro de la chambre et la procédure détaillée à suivre. Quand il acceptait le travail, il acceptait donc de travailler avec les cadres de référence de l’endroit. M. Beaudet était encadré par le plan de travail et les normes de l’Ordre.
+[50] Lorsqu’il arrivait pour son quart de travail, M. Beaudet rencontrait aussi le coordonnateur de son quart de travail. M. Beaudet se référait au coordonnateur s’il avait des questions. M. Beaudet l’a d’ailleurs décrit comme son « boss ». C’est le coordonnateur qui transmettait les informations particulières qu’il pouvait y avoir. Le coordonnateur pouvait ajouter des éléments au plan de travail lorsqu’il y avait des particularités. Il était possible que le coordonnateur demande à M. Beaudet de répondre à une urgence et il devait par exemple aller aider à un autre étage. Il avait l’obligation de s’y conformer selon l’Ordre.
+[51] M. Beaudet devait remplir des formulaires concernant les soins donnés aux patients et les remettait par la suite au coordonnateur.
+[52] À Saint-Charles-Borromée, il était le seul infirmier à l’étage. Il y avait deux préposés à l’étage. Il y avait aussi le coordonnateur et l’infirmier ou l’infirmière en chef qui étaient disponibles.
+[53] M. Beaudet avait le droit d’assister à de la formation donnée par le client. Par exemple, il a reçu de la formation pour savoir quoi faire avec l’appareil respiratoire lors d’une panne d’électricité. Il recevait également de la formation de l’Ordre qu’il devait payer lui-même.
+[54] Il n’y avait aucune différence entre les tâches d’un infirmier engagé par une agence et celles d’un infirmier employé par le CHSLD.
+[55] M. Beaudet devait respecter l’horaire de travail établi par le client. L’heure des pauses et des repas était aussi déterminée par la direction, mais M. Beaudet pouvait s’entendre avec les autres pour y aller à une heure différente selon la condition des patients. Toutefois, ils essayaient de suivre le plan de travail autant que possible parce que cela simplifiait le travail.
+[56] Selon les normes de l’Ordre, il n’avait pas le droit de quitter s’il manquait du personnel. Il pouvait même être obligé de rester après son quart de travail selon l’Ordre. En cas d’urgence, s’il voulait quitter avant la fin de son quart de travail, il devait avoir l’autorisation du coordonnateur, puisque l’étage ne pouvait pas être laissé sans infirmier ou infirmière. Le coordonnateur essayait de trouver un remplaçant pour permettre à M. Beaudet de partir.
+[57] C’est l’appelante qui déterminait le salaire de M. Beaudet.
+[58] Il avait une assurance-responsabilité avec sa licence d’infirmier. Aucun avantage social n’était donné par l’appelante.
+[59] L’établissement fournissait les appareils à pression, les sphygmomanomètres, les pinces et les pansements. Il avait son propre uniforme, sauf dans des cas spéciaux où le client fournissait l’uniforme (un habit spécial pour l’isolement, un sarrau dans un cas particulier). Il avait un appareil à pression et un stéthoscope dont il avait besoin quand il avait fait sa formation. Au travail, il préférait se servir de son stéthoscope.
+Hélène St-Onge [60] Mme St-Onge est une infirmière qui a été engagée par l’appelante pour travailler dans différentes institutions de santé, soit CHSLD, CLSC ou hôpital.
+[61] L’appelante proposait des quarts de travail dans différentes institutions. Elle proposait également un taux horaire. Pour être payée, Mme St-Onge devait comptabiliser ses heures et les envoyer à l’appelante.
+[62] L’appelante ne lui donnait aucune directive sur la façon de faire le travail.
+[63] Elle était libre d’accepter ou non un quart de travail. Elle devait respecter l’horaire de travail prévu et l’institution fixait les heures de repas et de pause.
+[64] Au début, l’appelante ne faisait pas de déductions à la source, mais a commencé à en faire vers 2007.
+[65] Mme St-Onge a travaillé pour des CLSC et des CHSLD.
+[66] Au CLSC, elle a fait trois sortes de travail. Elle faisait parfois les « soins courants », parfois le « sans rendez-vous infirmier » et parfois Info-Santé, un service de conseils par téléphone.
+[67] Pour Info-Santé, elle a suivi un cours de formation payé par l’appelante environ cinq mois après avoir commencé à travailler pour l’appelante. La formation expliquait comment utiliser l’outil informatique, comment suivre les protocoles et comment tenir les statistiques.
+[68] Les protocoles sont faits pour s’assurer que tous les infirmiers et infirmières du Québec donnent les mêmes conseils. Le suivi des protocoles est obligatoire. Une personne qui ne les suivait pas ne pouvait continuer à travailler pour Info-Santé.
+[69] Les appels sont enregistrés.
+[70] Au cours d’un appel, il fallait mettre différentes informations au dossier informatique.
+[71] À son arrivée au CLSC, elle devait se rapporter à l’infirmier ou infirmière en chef, l’« ASI », confirmer sa présence et signer le registre. L’ASI l’informait de ses heures de repas et de pause. L’ASI lui disait également à quel poste s’asseoir.
+[72] L’ASI la supervisait et Mme St-Onge pouvait se référer à l’ASI s’il y avait des questions relatives aux protocoles. Typiquement, elle consultait l’ASI plus ou moins trois fois au cours d’un quart de travail.
+[73] Elle faisait le même travail que les employés engagés par le CLSC. Cela était vrai autant pour Info-Santé que pour les « soins courants ».
+[74] S’il s’agissait d’un quart de travail pour faire les « soins courants », elle recevait une liste de clients à voir.
+[75] Aux « soins courants », si elle devait partir plus tôt, elle devait avoir la permission de l’ASI.
+[76] Les équipements étaient fournis par le CLSC. À Info-Santé, l’ordinateur, les logiciels, le téléphone et le poste de travail étaient fournis par le client.
+[77] À Info-Santé, le port d’un sarrau était encouragé, mais pas obligatoire, tandis qu’aux « soins courants », c’était obligatoire.
+[78] Aux « soins courants », il y avait un dossier pour chaque patient et Mme St‑Onge devait suivre le plan de soins du patient. L’ASI la supervisait. Si elle avait des questions, c’est à l’ASI qu’elle les posait.
+[79] Aux « soins courants », on pouvait lui demander de rester si, par exemple, un infirmier ou infirmière qui devait faire le quart de travail suivant ne rentrait pas.
+[80] Par contre, si elle devait partir plus tôt, il lui fallait la permission de l’ASI.
+[81] Quand elle travaillait à un CHSLD, elle signait le registre à l’arrivée, allait voir l’infirmier ou infirmière en chef qui lui donnait sa liste de patients et rencontrait l’infirmier ou infirmière qui la précédait pour obtenir les rapports des patients avec les dossiers médicaux des patients et le plan de traitement qu’elle devait suivre. Il y avait des protocoles à suivre pour les traitements.
+[82] L’ASI la supervisait. L’ASI venait faire un tour au cours du quart de travail ou téléphonait.
+[83] Mme St‑Onge devait consigner diverses informations aux dossiers des patients, notamment tout acte infirmier qu’elle avait fait.
+[84] Si elle avait des questions, elle se référait à l’ASI qui pouvait lui assigner d’autres tâches et d’autres patients.
+[85] Elle ne pouvait quitter plus tôt qu’avec l’autorisation de l’infirmier ou infirmière en chef. On pouvait l’obliger à rester après la fin du quart de travail si nécessaire pour s’assurer que les patients ne soient pas sans infirmier ou infirmière. Ceci est une obligation professionnelle.
+[86] C’est l’appelante qui fixait son salaire.
+Michaël Bien-Aimé Cimbert [87] Le dernier témoin était Mme Cimbert, une infirmière depuis 1981.
+[88] Elle a surtout été engagée par l’appelante pour travailler au CHSLD. En plus du travail qu’elle faisait où l’appelante l’engageait, elle était employée à temps plein à un institut de réadaptation et à temps partiel à un CLSC.
+[89] Comme les autres personnes engagées par l’appelante, elle était libre d’accepter ou non un quart de travail proposé. Elle avait négocié son salaire avec l’appelante selon le lieu de travail et selon qu’il s’agissait d’un jour férié ou non.
+[90] L’appelante ne lui donnait pas de directives sur la façon de faire son travail.
+[91] Comme les autres infirmiers ou infirmières, elle avait une assurance par l’entremise de l’Ordre.
+[92] Au CHSLD, elle n’avait jamais été évaluée par quiconque et n’avait jamais été sanctionnée. Par contre, si le CHSLD ne voulait plus qu’elle travaille parce que, hypothétiquement, il n’était pas satisfait, le CHSLD aurait pu simplement dire à l’appelante qu’il ne voulait pas qu’elle revienne.
+[93] Une fois, l’appelante lui avait avancé deux jours de paie.
+[94] L’équipement était fourni en majorité par l’établissement, mais elle utilisait son sarrau et ses chaussures.
+[95] L’établissement ne pouvait la forcer de travailler après la fin de son quart de travail, mais sa déontologie professionnelle ne lui permettait pas de laisser ses patients sans infirmier ou infirmière. En conséquence, si, par exemple, sa remplaçante ne rentrait pas, elle devait rester jusqu’au moment où l’établissement avait obtenu une remplaçante.
+[96] L’appelante ne l’empêchait pas de prendre d’autres contrats.
+[97] À son arrivée au CHSLD, elle signait le registre et on pouvait lui dire qu’elle devait travailler à un étage différent de l’étage prévu à l’origine.
+[98] Elle devait suivre le plan de soins de chaque patient et consigner certaines informations au dossier du patient.
+[99] Quant à l’organisation du travail, c’est-à-dire les tâches qui ne faisaient pas partie des plans de soins, elle a décrit une situation différemment des autres témoins, à part M. Brahimi. Selon Mme Cimbert, elle savait quelle tâche faire et elle la faisait du moment que les plans de soins étaient respectés. Par exemple, pendant les pauses ou l’heure des repas, elle était libre quant au moment de prendre la pause si cela ne dérangeait pas l’organisation ni personne d’autre.
+Analyse[17] [100] Le contrat de travail est défini à l’article 2085 du Code civil du Québec comme suit :
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[101] Cet article comprend trois éléments :
+a) une personne qui s’engage à faire du travail
+b) moyennant rémunération
+c) sous la direction ou le contrôle d’une autre personne.
+[102] Dans les situations couvertes par l’alinéa 6g) du Règlement sur l’assurance‑ emploi, il y a ces trois éléments. Toutefois, tandis qu’il n’y a que deux parties à l’article 2085, l’employeur et l’employé, en vertu de l’alinéa 6g) le rôle de l’employeur est divisé entre l’agence de placement qui engage en rémunérant la personne et le client qui exerce la direction et le contrôle du travailleur[18].
+[103] Comme je l’ai dit au début, il n’est pas contesté que c’est l’appelante qui engage et rémunère le travailleur. La question est de savoir si le travailleur fournit ses services « sous la direction ou le contrôle » du client[19].
+[104] Il est bien établi que la notion de contrôle comprend non seulement la subordination stricte ou classique, mais aussi la subordination juridique au sens large. Dans Le droit du travail du Québec, sixième édition, Robert Gagnon écrit ceci :
+92 — Notion — Historiquement, le droit civil a d'abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d'application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l'exécution de ses fonctions (art. 1054 C.c.B.-C.; art. 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l'employeur sur l'exécution du travail de l'employé quant à sa nature et à ses modalités. Elle s'est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l'employeur soit en mesure de dicter ou même de surveiller de façon immédiate l'exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu'on reconnaîtra alors comme l'employeur, de déterminer le travail à exécuter, d'encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s'intégrer dans le cadre de fonctionnement d'une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d'un certain nombre d'indices d'encadrement, d'ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d'activité, contrôle de la quantité ou de la qualité de la prestation, propriété des outils, possibilité de profits, risque de pertes, etc. Le travail à domicile n'exclut pas une telle intégration à l'entreprise[20].
+[105] Quels sont les faits ici? Je commencerai en notant que, sur ce qui se passe aux établissements de santé, je préfère les témoignages des quatre témoins à celui de M. Brahimi. Ils étaient sur place; M. Brahimi ne l’était pas. Quand je parle de ce qui s’est passé aux établissements, je me réfère uniquement aux témoignages de ces quatre témoins, et non à celui de M. Brahimi.
+[106] Il est clair que ces quatre individus étaient libres d’accepter ou non un quart de travail proposé; une fois qu’ils s’étaient engagés, ils devaient respecter leur engagement. Par exemple, ils ne pouvaient partir plus tôt que prévu qu’avec la permission de l’établissement.
+[107] Le fait qu’ils étaient libres d’accepter ou non un quart de travail ne nous aide pas à déterminer s’ils étaient sous le contrôle du client, soit l’établissement en question[21].
+[108] Il y a plusieurs indices d’encadrement qui sont présents.
+[109] Les quatre témoins devaient tous signer un registre à leur arrivée à l’établissement. S’ils devaient partir plus tôt à cause d’une urgence, ils devaient obtenir la permission de l’établissement.
+[110] Il est exact, comme le dit l’appelante, que les travailleurs ne pouvaient être obligés de rester plus tard que prévu par l’établissement sauf dans les circonstances où leur code de déontologie les obligeait à rester pour s’assurer que les patients avaient un infirmier ou infirmière. Cela n’est pas différent d’un employé journalier engagé pour une journée fixe.
+[111] Les travailleurs devaient obligatoirement suivre les plans de soins des patients et l’établissement pouvait leur assigner des tâches différentes de celles prévues d’avance. Il fallait également suivre les protocoles pour les soins ordonnés.
+[112] En général, ils devaient prendre leurs pauses et leurs repas au moment prévu et ils devaient effectuer les tâches assignées. À ce sujet, je vais commenter sur les témoignages de M. Beaudet et de Mme Cimbert. M. Beaudet a témoigné que le plan de travail était comme une « boussole » qu’il essayait de suivre dans la mesure du possible parce que cela simplifiait le travail. Mme Cimbert disait qu’elle faisait d’elle-même le travail et qu’elle pouvait décider elle-même quand prendre ses pauses pourvu que cela ne dérangeait pas l’organisation ni personne d’autre. Ces deux travailleurs observaient obligatoirement les plans de soins.
+[113] Que ce soit M. Beaudet ou Mme Cimbert, ils effectuaient les tâches assignées. Ni l’un ni l’autre n’ont suggéré qu’ils n’effectuaient pas les tâches assignées. Toutefois, il y avait une flexibilité relativement à l’ordre dans lequel certaines tâches pouvaient être effectuées et aux heures de pause et de repas, si cela ne contrevenait pas aux plans de soins. Cette flexibilité est sans doute nécessaire pour tenir compte d’imprévus qui peuvent arriver. De plus, avec des employés bien formés, il est courant à notre époque pour des employeurs de permettre une certaine flexibilité à leurs employés pourvu que les tâches nécessaires soient effectuées.
+[114] Vu que Mme Cimbert avait plus de 30 ans d’expérience, cela devait être rare qu’elle ne sache pas les tâches qu’elle devait effectuer.
+[115] Vu la nécessité d’interagir, il est sans doute plus simple d’essayer de suivre la « boussole », comme le dit M. Beaudet. Sinon, il faut faire l’effort de s’assurer de la coordination avec d’autres travailleurs comme le faisait Mme Cimbert quand elle a dit qu’elle pouvait choisir l’heure de ses repas pourvu qu’elle fasse ce qu’elle avait à faire et que cela ne dérangeait pas d’autres personnes ni l’organisation.
+[116] À Info-Santé, il y avait un encadrement très fort.
+[117] Le travail se faisait à l’établissement du client et l’équipement était fourni en majorité par le client. Les seules choses fournies par les travailleurs étaient d’un coût modeste, soit uniformes, chaussures et, pour certains, un stéthoscope[22].
+[118] Ce sont de forts indices d’encadrement et, globalement, vu la preuve, je ne vois pas comment je pourrais conclure que le ministre avait tort quand il a conclu que les travailleurs étaient sous le contrôle et la supervision des clients[23].
+[119] Pour ces motifs, l’appel est rejeté[24].
+Signé à Ottawa (Ontario), ce 29e jour de juin 2015.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE :
+2015 CCI 168
+Nº DU DOSSIER DE LA COUR :
+2010-2423(EI)
+INTITULÉ DE LA CAUSE :
+AGENCE OCÉANICA INC. c. M.R.N.
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Les 8 juillet 2013 et 15 et 16 avril 2014
+COURTES OBSERVATIONS ÉCRITES
+ADDITIONNELLES :
+Le 12 novembre 2014 et le 12 décembre 2014
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 29 juin 2015
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Riad Brahimi
+Avocate de l’intimé :
+Me Nancy Azzi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Me Riad Brahimi
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Au début de la première journée d’audition, l’appelante a prétendu que l’appel comprenait également les années 2004 et 2008. J’ai conclu que ce n’était pas le cas, car il s’agissait d’un appel de la décision du 28 avril 2010 relative aux années 2005, 2006 et 2007. Voir la deuxième page de l’avis d’appel et la décision jointe à l’avis d’appel.
+[2] Au début du procès, il semblait que cela était contesté. Après la fin de la preuve, le représentant de l’appelante a informé la Cour qu’il ne contestait pas qu’il s’agissait d’une agence de placement. De toute façon, la preuve était très claire que ce que faisait l’appelante était de placer les individus auprès de clients pour qu’ils effectuent du travail pour les clients.
+[3] Quatre personnes sont intervenues, mais se sont désistées avant l’audience.
+[4] Bien que M. Brahimi a témoigné que si une infirmière ne veut plus travailler chez le client, « […] elle n’a pas besoin de donner un préavis. Elle ne rentre pas, c’est tout » et que ce sont les travailleurs qui décident s’ils désirent revenir le lendemain ou quelles journées ils veulent travailler (voir la transcription du 8 juillet 2013, pages 45 et 46), il est clair que, dans le contexte de tout son témoignage, le travailleur qui a déjà accepté de faire un quart de travail ne peut pas tout simplement ne pas se présenter. C’est au moment où l’appelante propose un quart de travail que le travailleur est libre ou non de l’accepter.
+[5] Transcription du 8 juillet 2013, page 83. Il y a également une transcription du 15 avril 2014, le deuxième jour de preuve.
+[6] Agence Océanica inc. c. M.R.N., 2006 CCI 14.
+[7] Parmi les travailleurs visés dans le présent appel, quatre ou cinq travailleurs sont aussi visés par la décision de la juge Lamarre (M.C. Douyon, Claude Davilmar, Viviane Gaston Florestal, Roberte Jean et, peut-être, Raymonde Joseph — dans le cas de Mme Joseph, il n’est pas clair si M. Brahimi a accepté ou non qu’il s’agit de la même personne. Voir la transcription du 8 juillet 2013, pages 98 à 104.
+[8] Voir, entre autres, les pages 31 à 39 et 79 à 81 de la transcription du 8 juillet 2013.
+[9] Transcription du 8 juillet 2013, pages 126 et 127.
+[10] Transcription du 8 juillet 2013, pages 35 et 114.
+[11] Transcription du 8 juillet 2013, page 39.
+[12] Transcription du 8 juillet 2013, page 80.
+[13] Transcription du 8 juillet 2013, page 204.
+[14] Transcription du 8 juillet 2013, page 175.
+[15] Transcription du 8 juillet 2013, pages 160 et 161.
+[16] Transcription du 8 juillet 2013, page 270.
+[17] Après la fin de la preuve, au début des arguments finaux, l’appelante a informé la Cour qu’elle ne contestait plus la décision en ce qui concerne le travail fait pour Info-Santé et qu’elle ne contestait pas le cas de Mme St‑Onge ou de Mme Douyon. Je vais néanmoins examiner toutes les situations.
+[18] Voir les paragraphes 20 à 22 de la juge Lamarre (tel était alors son titre) dans 9105-6432 Québec inc. c. M.R.N., 2005 CCI 215.
+[19] M. Brahimi considère les travailleurs comme des travailleurs autonomes. Mme Cimbert se considérait comme une travailleuse quand elle était engagée par l’appelante.
+Toutefois, même s’il y avait une intention commune entre l’appelante et tous les travailleurs qu’il s’agisse de travailleurs autonomes, cela ne changerait rien pour deux raisons.
+Premièrement, bien que l’intention ait un rôle important à jouer quand on doit déterminer s’il s’agit d’un contrat de travail ou d’un contrat d’entreprise, l’intention d’avoir un contrat d’entreprise n’est pas déterminant si la réalité objective est qu’il s’agit d’un contrat de travail. Voir 1392644 Ontario Inc. (Connor Homes) c. Canada, 2013 CAF 85. Ici, vu les indices d’encadrement présents, la réalité objective est qu’il y a la subordination juridique. Voir la suite du jugement.
+Deuxièmement, la question ici n’est pas de savoir s’il y a un contrat de travail, mais plutôt si les éléments requis à l’alinéa 6g) du Règlement sur l’assurance-emploi sont présents. La seule question controversée ici est de savoir s’il y a existence ou non de « direction » et de « contrôle » du client.
+[20] Dans l’arrêt Grimard c. Canada, 2009 CAF 47, au paragraphe 36, la Cour d’appel fédérale a adopté le passage équivalent de la cinquième édition du livre.
+Ces indices d’encadrement sont en pratique très semblables aux tests utilisés dans les provinces de common law. Voir, entre autres, Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (CAF).
+[21] D’ailleurs, un employé peut être engagé sur une base journalière bien que cela était beaucoup plus commun dans le passé.
+[22] Je note également que ces quatre individus n’avaient pas de possibilités de faire des pertes ou des profits.
+[23] L’appelante a soulevé le fait qu’on n’a entendu témoigner qu’un petit nombre de travailleurs. C’est exact, mais c’est l’appelante qui a le fardeau initial.
+[24] Je note que la juge Lamarre (tel était alors son titre) a utilisé une approche semblable en considérant quel encadrement il y avait dans Agence Océanica inc. c. M.R.N., 2006 CCI 14, une décision qui traitait de certains employés pour une période antérieure à la période ici. Face aux faits devant elle, la juge Lamarre a conclu qu’il y avait subordination.
+Je note également les décisions de la Cour du Québec et de la Cour d’appel du Québec dans Agence Océanica inc. c. Agence du revenu du Québec, 2012 QCCQ 5370 et 2014 QCCA 1385, où il y a un cadre juridique différent, car il n’y a rien comme l’alinéa 6g) du Règlement sur l’assurance-emploi ici. Dans les appels devant les cours du Québec, les années en cause étaient 2007 et 2008, nous ne savons pas s’il s’agit des mêmes travailleurs et il s’agissait de lois différentes d’ici, soit la Loi sur les impôts, la Loi sur le régime de rentes du Québec, la Loi sur l’assurance parentale, la Loi sur la Régie de l’assurance maladie du Québec et la Loi sur les normes du travail.
+En conséquence, l’approche juridique des décisions de la Cour du Québec et de la Cour d’appel du Québec ne peut directement s’appliquer au contexte ici où l’alinéa 6g) du Règlement sur l’assurance-emploi évite une bonne partie du débat qui a eu lieu en vertu des lois du Québec. Toutefois, la Cour du Québec et la Cour d’appel du Québec ont toutes les deux considéré, entre autres, les éléments de subordination juridique pour en arriver à leurs décisions.
+Face aux faits devant elle, la Cour du Québec a conclu qu’il y avait subordination. La Cour d’appel du Québec a maintenu la décision et examine la subordination, entre autres, aux paragraphes 31 à 38 de sa décision; les principes exprimés dans ces paragraphes sont valables pour les faits devant moi.

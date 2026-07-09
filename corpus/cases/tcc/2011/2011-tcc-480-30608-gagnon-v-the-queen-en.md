@@ -1,0 +1,258 @@
+---
+title: "Gagnon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30608/index.do"
+last_modified: "2011-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 480"
+citation2: ""
+neutral_citation: "2011 TCC 480"
+decision_date: "2011-11-16"
+language: "en"
+item_id: "30608"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7163
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:08:17.257000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "91584f2620b4a2a2e519236cfcc5192bf8f7ccd0ec7b353d353f97ae84084898"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gagnon v. The Queen
+
+- Citation: 2011 TCC 480
+- Decision date: 2011-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7163, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagnon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-16
+Neutral citation
+2011 TCC 480
+File numbers
+2008-2700(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2700(IT)G
+BETWEEN:
+STÉPHANE GAGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on April 11, 12 and 13, 2011, at Quebec City, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Guylaine Gauthier
+Counsel for the respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments under the Income Tax Act for the 2003 and 2004 taxation years are allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the unreported business income determined by the net worth method is $28,561.69 for 2003 and $22,478.24 for 2004 and the penalties shall be adjusted accordingly, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of November 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 22nd day of December 2011.
+Erich Klein, Revisor
+Citation: 2011 TCC 480
+Date: 20111116
+Docket: 2008-2700(IT)G
+BETWEEN:
+STÉPHANE GAGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant is appealing from reassessments under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act), dated April 17, 2007, in respect of the 2003 and 2004 taxation years.
+[2] By these reassessments, the Minister of National Revenue (Minister) added to the appellant's income business income of $45,293 for 2003 and $97,296 for 2004. In addition, the Minister imposed penalties under subsection 163(2) of the Act on the business income added to the appellant's income, which penalties totalled $4,225.57 for 2003 and $10,241.33 for 2004.
+[3] In making the reassessments for the years in issue, the Minister assumed the following facts set out in paragraph 22 of the Amended Reply to the Notice of Appeal:
+[Translation]
+(a) During the taxation years at issue, the appellant operated as sole owner a construction and renovation business under the name Construction Stéphane Gagnon.
+(b) This business was the appellant’s sole source of income, except for $428 in rental income for 2004.
+(c) The appellant handled all aspects of the business’s operation.
+(d) The appellant calculated his business income using the cash basis of accounting; he did not do a bank reconciliation of his monthly income; he did not keep an inventory of materials; and he did not keep copies of bids made by the business.
+(e) The appellant made deposits to his bank accounts of amounts greater than the sales he reported.
+(f) The appellant himself provided to his accountant, for accounting purposes, the amounts of sales and business expenses.
+(g) In his income tax returns, the appellant reported a total income of $32,305 for 2003 and $44,749 for 2004.
+(h) In her income tax returns, the appellant’s spouse reported a total income of $14,382 for 2003 and $12,816 for 2004.
+(i) The appellant’s spouse did not have any income other than that reported on her 2003 and 2004 income tax returns.
+(j) The appellant and his spouse incurred personal expenses of $36,047.20 for 2003 and $32,586.90 for 2004 (see Appendix 4 of Annex A attached).
+(k) Following a net worth audit, the Minister determined that the appellant had failed to report taxable income for the 2003 and 2004 taxation years of $45,293 and $97,296 respectively, as can be seen from the tables created using the net worth method, found in Annex A attached hereto and forming an integral part of this Reply to the Notice of Appeal.
+(l) These discrepancies consist in particular of unreported business income of $29,369.89 for 2003 and $27,177.65 for 2004.
+(m) The balance of each net worth discrepancy, namely, $15,923.13 for 2003 and $70,118.76 for 2004, can be explained by specific adjustments set out in Appendix 6 of Annex A attached hereto:
+(i) The appellant himself identified unreported income for 2004 of $25,200 among the deposits to his bank accounts.
+(ii) For 2003, the appellant claimed $1,024.93 for professional fees of a notary as a reduction of his reported income; this amount was disallowed because it had to be capitalized.
+(iii) Consequently, the appellant’s capital cost allowance under category 1 was increased by $1,024.93 for 2003.
+(iv) For 2004, the appellant claimed twice $4, 663 in business expenses against his reported income; this amount was disallowed.
+(v) Also for 2004, the appellant claimed $15,444 in business expenses against his reported income; this amount was disallowed because it was supported by unjustified adjusting entries.
+(vi) The appellant claimed against his reported income business expenses of $14,898.20 for 2003 and $24,812.16 for 2004; these were personal expenses and were disallowed.
+(n) As for the amount of $33,000, the Canada Revenue Agency auditor allowed an increase in the value of the appellant’s residence of $13,000 for 2003 and $20,000 for 2004 on the basis of the appellant’s submissions that renovations were done on his residence. These amounts were subtracted from the net worth calculation for the appellant (see Appendix 1 and Appendix 5 of Annex A).
+(o) In 2004, the appellant’s spouse purchased a 2005 Subaru Impreza 2.5 RS automobile for $39,328.28. The payments for this asset were made from a joint account the couple had at the Caisse populaire de Saint-Gabriel (account #4767), and the appellant did not demonstrate that the payments were made in part by his spouse’s son.
+[4] In imposing the penalty provided for in subsection 163(2) of the Act on the appellant, the Minister relied on the following facts set out in paragraph 23 of the Amended Reply to the Notice of Appeal:
+[Translation]
+(a) The facts set out in paragraph 22 of this document.
+(b) The unreported income established by the net worth method is significant in comparison to the income reported for each of the taxation years at issue, as shown below:
+Taxation year
+2003
+2004
+Total reported income
+$32,305
+$44,749
+Total unreported income
+$45,293
+$97,296
+Percentage of adjustment
+140%
+217%
+(c) The appellant was well aware of his business income since he took the orders, tendered the bids, carried out the work, received the payments and made the deposits for his business.
+(d) The income reported by the appellant for the taxation years at issue does not correspond with the increase in his net worth and his personal expenses.
+[5] At the beginning of the hearing, the respondent admitted (a) that the discrepancies mentioned at paragraph 22(l) of the Amended Reply to the Notice of Appeal should read as $28,561.69 for 2003 and $22,478.24 for 2004, (b) that the revised discrepancies in total income according to the net worth method should be $44,484.82 rather than $45,386.48 for 2003 and $92,597 rather than $98,483.66 for 2004, and (c) that the unidentified bank withdrawals should be $25,709.83 rather than $26,342.50 for 2003 and $63,980 rather than $66,383.43 for 2004.
+[6] The Canada Revenue Agency (CRA) auditor, Mélanie Lévesque, testified at the hearing at the appellant's request. Her notes for the file (T2020), her audit report (T20) and the report recommending the assessment of a penalty were filed. The audit began on February 8, 2006, and took place over 413 days. The draft assessment was sent to the appellant on July 27, 2006, while the final adjustments were sent to the appellant by mail on March 26, 2007.
+[7] The context of the audit is described as follows in the audit report:
+[Translation]
+Expenses and income were entered from invoices. However, the cash method of accounting was not followed. There was no bank reconciliation at the end of each month and a number of transactions were entered. It should be noted that internal controls are non-existent since the tp and his spouse control everything from order taking to receipt of payments.
+We conducted a summary analysis of the deposits. We found that there were more deposits than reported sales. We chose the largest deposits and asked the tp to identify them. Unreported income was traced. We therefore did a net worth outline. Discrepancies were traced. So we chose this method in carrying out the assessment.
+[8] According to the CRA auditor, the appellant's business was selected for a general audit following a review of the appellant's tax returns and the financial statements (notice to reader) of Construction Stéphane Gagnon for the 2003 and 2004 taxation years and following the appellant's purchase of two rental properties in 2004. In his tax returns for the 2003 and 2004 taxation years, the appellant reported the following amounts as gross and net business income:
+2003
+2004
+Gross business income
+$376,232
+$718,102
+Net business income
+$32,305
+$44,321
+[9] The CRA auditor noted that the gross income reported by the appellant increased each year while the net profit decreased, which led her to conclude that the appellant was minimizing his income and exaggerating his expenses.
+[10] During her testimony, the CRA auditor confirmed that she had had access to everything she needed to conduct the audit. Even though the bank authorizations were not provided, she had access to the statements for the following accounts at the Caisse populaire Desjardins de St-Gabriel for 2003 and 2004:
+- account number 6413 (business account);
+- account number 4767 (joint personal account);
+- account number 4986 (joint personal account);
+- account number 6404 (business account for Équipements d’érablière MJD); and
+- account number 5795 (personal account).
+[11] The CRA auditor also had access to supplier invoices, to credit card statements and to information about loans as well as to the persons who had prepared the income tax returns and adjustment reports and to the person who did the bookkeeping, namely, Christine Gagnon, the appellant's sister.
+[12] According to the CRA auditor, what was deposited into the business's bank account was reported in the appellant's tax returns. From her analysis of the bank accounts she was able to see that some transactions did not appear in the business’s account, hence the appellant’s admission of the existence of unreported income of $25,200 for 2004.
+[13] Jean-Jacques Landry, C.G.A., testified at the hearing. He prepared the financial statements (notice to reader) of the appellant's business for 2004 as well as the personal income tax returns of the appellant and his spouse for the 2004 taxation year. He did not conduct an audit, nor did he look at the deductibility of the expenses claimed; he considered only the business's bank account and did not take into account the cash transactions. He assumed that the business’s income was correct, which assumption he based on the business’s invoicing. According to him, there was nothing to lead him to believe that the appellant had unreported income. In his testimony, he indicated that he had identified duplicate expenses in the net worth determination and that if the CRA auditor had reconciled the expenses according to the method of payment, the discrepancies would have been substantially lower: $19,500 for 2003 and $20,714 for 2004.
+[14] Christine Gagnon, a bookkeeper, testified at the hearing. She stated that she made accounting data entries on the computer and filed invoices for the appellant, who was her brother. She did that work at the appellant's family residence one day every two weeks. To her knowledge, only one credit card was used by the business and two vehicles were used for business activities. According to her, the appellant's spouse made all the bank deposits and the appellant’s spouse indicated to her which expenses were personal and which ones were business expenses. As far as Ms. Gagnon knew, all the clients of the business paid by cheque. Ms. Gagnon also confirmed that she never saw any bids that had been made to clients, nor did she see any inventory.
+[15] Marie-Josée Deschenes, the appellant's spouse, also testified. She explained that, during 2003 and 2004, she took care of invoicing clients, paying supplier accounts, making bank deposits and transporting tools of her spouse’s business. She was also involved in a lamb marketing business with her mother. She spent about 20 hours per week at the lamb operation and 30 to 40 hours per week at her spouse’s construction business. In addition, she owned a sugar bush equipment business that she closed in July 2004.
+[16] She explained that her spouse’s business had about a hundred clients to whom roughly 130 invoices per year were issued. Many of the business’s clients were farmers who paid for everything by cheque because they could recover the taxes. In the busy season, seven employees worked for the business, whereas there were only two or three employees during the off-season.
+[17] Ms. Deschenes also explained that her spouse prepared the bids for the work requested by clients and that she used these bids to prepare the invoices, taking into account the hours worked by the employees and the cost of materials from suppliers. When the work was completed the bids were destroyed.
+[18] In her testimony, Ms. Deschenes confirmed that in 2003, for the first time, she and her spouse took a southern vacation, which was of two weeks’ duration, that she took a southern vacation by herself for one week in 2004, and that she and her spouse did not travel in 2005.
+[19] The last witness was Stéphane Gagnon. In 2006, he incorporated his business under the name Stéphane Gagnon (2000) Inc. His business provided residential construction and agricultural renovations services. According to him, the unreported income of $25,200 represents only two simple errors stemming from the fact that these amounts were not deposited in the right bank account. He stated that all of his clients paid by cheque and he acknowledged that sometimes his suppliers were paid in cash or by credit card.
+[20] The appellant explained that he did not sign contracts with his clients and that the bids were not usually signed by his clients. Occasionally, a copy of the bid was given to the client.
+[21] The appellant also explained that he did not keep an inventory of materials; unused materials from work sites were returned to the suppliers in exchange for a credit.
+[22] The appellant asserted that he did not discuss anything at all with the accountants who prepared his income tax returns for the 2003 and 2004 taxation years, that he did not review those income tax returns and that he had received no explanations or recommendations from the accountants.
+[23] The appellant acknowledged that it was possible that the business’s account was used to pay personal expenses.
+[24] The appellant also acknowledged that he made at least one snowmobiling trip per year with his clients and friends and that he was a member of the Club populaire de la Métis so that he could have access to the trails.
+The appellant’s position
+[25] Counsel for the appellant made the following submissions:
+(a) Use of the net worth method was not justified in this case for the following reasons:
+(i) The appellant was in good faith and cooperated with the audit by allowing access to all of the documents demanded by the CRA auditor.
+(ii) Precise information was available.
+(iii) An accounting system was in place even if it was flawed.
+(iv) All of the transactions went through the bank accounts.
+(v) There were no cash purchases of property.
+(vi) The appellant and his spouse did not have an extravagant lifestyle and no substantial increase in the value of their assets was identified.
+(vii) The couple had a lot of loan or credit card debt and property that was financed at 100%.
+(viii) The numerous bank transfers and payments by credit card gave rise to distortions and duplications, which inflated the net worth.
+(ix) It is a method of last resort that is both arbitrary and imprecise.
+(x) The expense reconciliation by method of payment carried out by the appellant’s accountant as an aide-mémoire demonstrated that the CRA auditor’s data created duplication of expenses.
+(b) The penalty should be cancelled for the following reasons:
+(i) The unreported business income of $25,200 for 2004 is attributable to only two clients who did not request invoices and who represent only 2% of the business’s sales.
+(ii) What we have is a pure and simple error resulting from the fact that the money was deposited in the wrong bank account. Christine Gagnon was not able to catch the error because she was not responsible for reconciling the couple’s personal bank accounts.
+(iii) The appellant and his spouse are credible and are not in bad faith; they hired competent people to look after their affairs and cooperated fully with the audit.
+(iv) Hiding income is not generally done through bank accounts.
+The respondent’s position
+[26] Counsel for the respondent made the following arguments:
+(a) Use of the net worth method was justified for the following reasons:
+(i) It was impossible that there was no unreported income because the bank deposits were higher than reported income and expenses were too high in relation to the reported income.
+(ii) Income was calculated on the basis of invoices; if there were no invoices, the income was not accounted for.
+(iii) The appellant’s accounting had no internal controls and was not subjected to audit by an external accountant.
+(iv) The appellant’s testimony that his clients never paid in cash is not credible since some expenses were paid in cash from amounts that were not deposited in the bank accounts.
+(b) Imposing the penalty was justified for the following reasons:
+(i) The appellant did not review his income tax returns to ensure that they were correct.
+(ii) The unreported income of $25,200 was admitted by the appellant.
+(iii) The net worth audit identified significant discrepancies between actual income and reported income.
+Analysis
+[27] Subsection 152(7) of the Act provides that the Minister is not bound by a return or information supplied by a taxpayer and that he may assess the tax payable. Subsection 152(7) reads as follows:
+(7) Assessment not dependent on return or information – The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+[28] Subject to the right of appeal, an assessment made by the Minister is deemed to be valid and binding under subsection 152(8) of the Act, which provides as follows:
+(8) Assessment deemed valid and binding – An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+[29] When an arbitrary assessment is made by the Minister, the taxpayer has the burden of demonstrating the invalidity of the assessment and "demolishing" the assumptions of fact relied on by the Minister in support of the assessment. In this case, the assumptions of fact relied on by the Minister are set out in paragraph 22 of the Reply to the Notice of Appeal.
+[30] On the evidence before me, the appellant did not "demolish" the Minister’s assumptions of fact and thus did not discharge his burden of proof.
+[31] The audit using the net worth method showed that the appellant earned unreported business income of $28,561.69 in 2003 and $22,478.24 in 2004 in addition to the unreported income in 2004 that was identified by the appellant himself.
+[32] The audit appears to me to have been well done and all of the representations by the appellant and his advisors were given serious consideration. All the errors identified during the audit were corrected. Duplications were avoided by subtracting the unidentified withdrawals from the bank accounts for each taxation year at issue, namely; (i) the disallowed personal expenses and (ii) the personal expenses estimated by the appellant. The business expense reconciliation based on payment method suggested by the accountant Landry does not seem relevant to me and, in any case, it has no probative value.
+[33] The appellant has not satisfied me that all of his sales were deposited in his bank accounts and that all of his clients paid by cheque. These points could have been proven, however, if he had kept the bids for the work he did.
+The penalty
+[34] The penalty imposed on the appellant is that set out in subsection 163(2) of the Act, which provides as follows:
+(2) False statements or omissions – Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+[35] In Venne v. Canada (Minister of National Revenue – M.N.R.) (F.C.T.D.), [1984] F.C.J. No. 314, 84 DTC 6247, Strayer J. gave the following interpretation of the notion of “gross negligence”:
+. . . "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[36] The following comment by Pelletier J.A. of the Federal Court of Appeal in Lacroix v. The Queen, 2008 FCA 241, 2009 DTC 5029 is relevant to this case:
+30 The facts in evidence in this case are such that the taxpayer’s tax return made a misrepresentation of facts, and the only explanation offered by the taxpayer was found not to be credible. Clearly, there must be some other explanation for this income. It must therefore be concluded that the taxpayer had an unreported source of income, was aware of this source and refused to disclose it, since the explanations he gave were found not to be credible. In my view, given such circumstances, one must come to the inevitable conclusion that the false tax return was filed knowingly, or under circumstances amounting to gross negligence. This justifies not only a penalty, but also a reassessment beyond the statutory period.
+[37] Once the Minister establishes, on the basis of reliable information, a substantial discrepancy between the total income determined by the net worth method and the income reported by the taxpayer, the Crown has discharged its burden of proof and it then falls upon the taxpayer to identify the source of the income and show that it is not taxable (see the comments of Létourneau J.A. in Molenaar v. The Queen, 2004 FCA 349, 2005 DTC 5307 (F.C.A.) at paragraph 4).
+[38] In the present case, the unreported business income was identified by a net worth analysis and the appellant himself identified $25,200 in such income for 2004. This additional income could only have come from the appellant’s business since it was his only source of income.
+[39] With respect to expenses, the appellant claimed personal expenses totalling $14,898 in 2003 and $24,812 in 2004 and business expenses of $4,663 that were claimed twice in 2004 as well as business expenses of $15,444 based on unjustified adjusting entries.
+[40] The appellant’s income tax returns are based solely on the information provided by the appellant. Christine Gagnon entered all of the appellant’s expenses without identifying which were deductible and which were not. Furthermore, the accounting data were never verified by the accountants who prepared the income tax returns. Only the information provided by the appellant was used.
+[41] The appellant was well aware of his business’s income and knew very well which expenses were being claimed. He knew or ought to have known that his income was being minimized and that his expenses were being exaggerated. In my opinion, the appellant was grossly negligent in not reporting all of his income for 2003 and 2004 and in claiming personal expenses and non-deductible business expenses in calculating his income for those years.
+[42] The CRA auditor recommended in her report that a penalty be assessed and, at the meetings with the representative of the appellant following the issuance of the proposed assessment, no argument for not applying the penalty was put forward.
+[43] For these reasons, the appeals from reassessments for the 2003 and 2004 taxation years are allowed, without costs, and the reassessments are referred back to the Minister for reconsideration and reassessment on the basis that the unreported business income determined by the net worth method is $28,561.69 for 2003 and $22,478.24 for 2004. The penalties are upheld but must be adjusted accordingly.
+Signed at Ottawa, Canada, this 16th day of November 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 22nd day of December 2011.
+Erich Klein, Revisor
+CITATION: 2011 TCC 480
+COURT FILE NO.: 2008-2700(IT)G
+STYLE OF CAUSE: Stéphane Gagnon v.
+Her Majesty the Queen,
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: April 11, 12 and 13, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: November 16, 2011
+APPEARANCES:
+Counsel for the appellant:
+Guylaine Gauthier
+Counsel for the respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the appellant:
+Name: Guylaine Gauthier
+Firm: Gauthier Avocats
+Quebec City, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,176 @@
+---
+title: "Farrell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27061/index.do"
+last_modified: "2005-05-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 352"
+citation2: ""
+neutral_citation: "2005 CCI 352"
+decision_date: "2005-05-19"
+language: "fr"
+item_id: "27061"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 606
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:53:33.098000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bad947b23ad1c0e8cd96f6db0b0e799ff1fe2898f5bd7d5f3773fed696b7b737"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Farrell v. The Queen
+
+- Citation: 2005 CCI 352
+- Decision date: 2005-05-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 606, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Farrell v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-19
+Référence neutre
+2005 CCI 352
+Numéro de dossier
+2004-4028(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4028(IT)I
+ENTRE :
+MARY FARRELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 4 avril 2005, à Victoria (Colombie-Britannique).
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Shawna Cruz
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998, 1999, 2000 et 2001 sont annulés.
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est admis sans dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de mai 2005.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 18e jour de novembre 2005.
+Nathalie Boudreau, traductrice
+Référence : 2005CCI352
+Date : 20050519
+Dossier : 2004-4028(IT)I
+ENTRE :
+MARY FARRELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Au début de l'audience, les parties ont convenu que je n'étais pas valablement saisie des appels visant les années d'imposition 1998, 1999, 2000 et 2001 parce que l'appelante n'avait pas produit d'avis d'opposition. En outre, il n'y a aucune question à trancher pour ces années. Les appels relatifs aux années en question sont donc annulés. Par conséquent, la seule année d'imposition que je dois examiner est l'année 2002.
+[2] L'appelante travaillait pour la Workers' Compensation Board de la province de l'Île-du-Prince-Édouard quand elle est devenue invalide et incapable de travailler. Pour son emploi, l'appelante bénéficiait d'une assurance-salaire auprès de La Great-West, compagnie d'assurance-vie (l' « assureur » ). Toutefois, elle a témoigné qu'elle avait dû franchir beaucoup d'obstacles avant que l'assureur ne fasse droit à sa demande d'indemnité. Pendant cette période, elle n'a pas eu d'autre choix que de faire faillite. Elle a embauché un cabinet d'avocats en vue d'intenter une action pour obtenir les prestations en question. Son premier avocat n'a guère pris de mesures pour l'aider ou pour donner suite à sa demande d'indemnité. Elle a finalement été obligée d'embaucher un deuxième avocat pour intenter son action contre l'assureur. Un règlement a été conclu, et l'assureur a versé un montant forfaitaire en fiducie à l'avocat de l'appelante. Le montant du règlement comprenait les prestations qui étaient dues à l'appelante selon la police d'assurance, les intérêts, les frais judiciaires et les débours. En plus des frais judiciaires inclus dans le montant du règlement et payés par l'assureur (10 829,64 $), des frais judiciaires et des débours supplémentaires totalisant 12 583,74 $ ont été facturés à l'appelante, et l'appelante a payé ce montant. C'est à l'égard de ces frais judiciaires que l'appelante demande une déduction. La demande de déduction a été refusée par le ministre du Revenu national (le « ministre » ) selon l'alinéa 8(1)b). L'intimée a soutenu que le libellé de l'alinéa 8(1)b) est très clair, que sa portée est étroite et qu'il empêche l'appelante de déduire les frais judiciaires. L'intimée a précisé que c'étaient les derniers mots de la disposition qui empêchaient l'appelante de déduire les frais dans le calcul de son revenu parce que l'action avait été intentée par l'appelante contre son assureur et non pas contre son employeur, la Workers' Compensation Board.
+[3] L'alinéa 8(1)b) permet la déduction des frais judiciaires engagés pour recouvrer le revenu tiré d'un « traitement ou salaire » qui est dû au contribuable ou pour établir un droit à ce revenu. La disposition dit ce qui suit :
+8(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+b) les sommes payées par le contribuable au cours de l'année au titre des frais judiciaires ou extrajudiciaires qu'il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci;
+[4] La définition de l'expression « traitement ou salaire » qui se trouve au paragraphe 248(1) comprend le passage suivant : « [...] le revenu que tire un contribuable d'une charge ou d'un emploi, calculé d'après la sous-section a de la section B de la partie I [...] » . Par conséquent, si un montant est imposable à titre de revenu d'emploi, tous les frais judiciaires engagés pour recouvrer le montant ou pour établir un droit au montant peuvent être déduits dans le calcul du revenu. La question de savoir si les frais judiciaires sont déductibles dans le calcul du revenu ou non dépend de la source du revenu gagné. De façon générale, toute dépense raisonnable est déductible dans le calcul du revenu d'entreprise, à moins que la Loi de l'impôt sur le revenu (la « Loi » ) ne l'interdise expressément. Par contre, seules les déductions permises par la loi peuvent être soustraites du revenu d'emploi imposable. Par conséquent, il faut tout d'abord déterminer si le revenu qu'a touché l'appelante était un revenu d'entreprise ou un revenu d'emploi. Une fois la source du revenu déterminée, il faut appliquer soit l'alinéa 8(1)b), soit le paragraphe 18(1) pour répondre à la question de savoir si les frais en cause sont déductibles dans le calcul du revenu. L'alinéa 8(1)b) s'applique lorsqu'il s'agit d'un revenu d'emploi, et le paragraphe 18(1) s'applique lorsqu'il s'agit d'un revenu d'entreprise. À mon avis, il est clair dans la présente affaire que le revenu gagné par l'appelante était un revenu d'emploi.
+[5] L'intimée ne conteste pas le fait que les sommes avaient été payées par l'appelante au titre des frais judiciaires engagés pour recouvrer une indemnité de remplacement du traitement ou du salaire perdu. Elle affirme cependant que le montant recouvré n'était pas dû à l'appelante par son ancien employeur, la Workers' Compensation Board, comme l'exige le libellé de l'alinéa 8(1)b).
+[6] Il n'est pas contesté que c'est l'assureur qui a payé le montant. La question à trancher est de savoir si l'assureur payait l'appelante pour son propre compte ou pour le compte de l'employeur. Le juge Miller a dit ce qui suit au paragraphe 13 de la décision Zitko v. The Queen, [2003] 3 C.T.C. 2737 :
+13 Les sommes réclamées par Mme Zitko étaient-elles un traitement ou salaire qui lui était dû par son employeur? Dans l'action qu'elle avait intentée, Mme Zitko cherchait assurément à obtenir des sommes de l'employeur et de l'assureur. Dans les deux cas, il s'agit d'un « traitement ou salaire » , car la définition de cette expression se lit comme suit :
+248(1) Les définitions qui suivent s'appliquent à la présente loi.
+« traitement ou salaire » Sauf aux articles 5 et 63 et à la définition de « prestation consécutive au décès » , le revenu que tire un contribuable d'une charge ou d'un emploi, calculé d'après la sous-section a de la section B de la partie I, y compris les honoraires touchés par le contribuable pour des services qu'il n'a pas fournis dans le cours des activités de son entreprise, mais à l'exclusion des prestations de retraite ou de pension, ainsi que des allocations de retraite.
+Les sommes assimilées à un revenu d'emploi en vertu de l'alinéa 6(1)f) entrent carrément dans le cadre de cette définition. Toutefois, les sommes reçues en vertu de l'alinéa 6(1)f) vont nécessairement être reçues de l'assureur; l'alinéa 8(1)b) traite de frais juridiques engagés au titre de sommes non pas reçues de l'employeur mais dues par l'employeur. Si l'expression « traitement ou salaire » définie dans la Loi et utilisée à l'alinéa 8(1)b) inclut une rentrée d'argent visée à l'alinéa 6(1)f), alors, par voie de conséquence, le traitement ou salaire sera payé par l'assureur. Cela n'empêche pas de conclure que quelque chose était encore dû par l'employeur. L'intimée argue que le membre de phrase « qui lui est dû » est limité par le membre de phrase « par son employeur » et que cela implique que, les fonds ayant été payés par l'assureur, ils n'étaient pas dus par l'employeur. Je ne suis pas d'accord. Certes, l'assureur a payé les sommes visées à l'alinéa 6(1)f), mais il l'a fait parce que l'employeur avait conclu avec lui un contrat à cette fin. L'employeur a payé l'assureur en vue du versement des prestations. Ça faisait partie du contrat d'emploi de Mme Zitko que l'employeur fournisse, grâce à un contrat avec l'assureur, des prestations d'invalidité. L'assureur payait les prestations, mais il s'agissait de sommes dues par l'employeur, conformément au contrat d'emploi qu'il avait conclu avec Mme Zitko. Tout comme la Cour d'appel fédérale va au-delà d'un règlement forfaitaire et examine le contrat sous-jacent pour déterminer que la somme forfaitaire représente des paiements périodiques aux fins de l'alinéa 6(1)f), je n'ai aucune difficulté à aller au-delà du paiement de l'assureur à Mme Zitko et à examiner le contrat d'emploi sous-jacent pour conclure que les sommes étaient dues par l'employeur aux fins de l'alinéa 8(1)b).
+[7] L'alinéa 6(1)f), dont il est fait mention dans le paragraphe ci-dessus, indique ce qui suit :
+6(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+[...]
+f) le total des sommes qu'il a reçues au cours de l'année, à titre d'indemnité payable périodiquement pour la perte totale ou partielle du revenu afférent à une charge ou à un emploi, en vertu de l'un des régimes suivants dans le cadre duquel son employeur a contribué :
+(i) un régime d'assurance contre la maladie ou les accidents,
+(ii) un régime d'assurance invalidité,
+(iii) un régime d'assurance de sécurité du revenu;
+le total ne peut toutefois dépasser l'excédent éventuel du total visé au sous-alinéa (iv) sur le total visé au sous-alinéa (v) :
+(iv) le total des sommes qu'il a ainsi reçues avant la fin de l'année et :
+(A) lorsqu'une de ces sommes a été, en vertu du présent alinéa, incluse dans le calcul de son revenu pour une année d'imposition antérieure se terminant après 1971, après cette année,
+(B) sinon, après 1971,
+(v) le total des cotisations versées par le contribuable dans le cadre du régime avant la fin de l'année et :
+(A) lorsqu'il y a eu une année d'imposition antérieure, visée à la division (iv)(A), après cette année,
+(B) sinon, après 1967;
+[8] Le juge Miller a invoqué le principe de substitution dont la Cour d'appel fédérale s'était servie pour « aller au-delà du contrat » . La meilleure explication de ce principe a été donnée dans l'arrêt London and Thames Haven Oil Wharves Ltd. v. Attwooll, [1967] 2 All E.R. 124 (C.A.). En parlant de ce principe dans l'arrêt La Reine c. Albert Manley, [1985] 2 C.F. 208, la Cour d'appel fédérale a invoqué le commentaire suivant formulé par le lord juge Diplock :
+[TRADUCTION]
+[...] La question de savoir si la somme d'argent qu'a reçue un commerçant doit être prise en compte dans le calcul des bénéfices qu'il a tirés de son commerce dans une année donnée est une question qui devrait pouvoir être réglée en appliquant un critère rationnel. À mon avis, c'est tout à fait possible. Je ne crois pas que la jurisprudence soit figée au point de nous empêcher de faire appel à la logique pour régler cette question de droit, et ce, même s'il s'agit d'une question de droit fiscal. Voilà précisément, non sans une certaine témérité, ce que je vais tenter de faire.
+Je commence par formuler ce que je crois être la règle applicable. Chaque fois qu'un commerçant reçoit, en vertu d'un droit, de quelqu'un d'autre, une indemnité au lieu d'une somme d'argent qui aurait été comptabilisée dans les profits réalisés au cours d'une année, dans le commerce qu'il exploitait à l'époque où il a reçu l'indemnité, il y a lieu de traiter cette indemnité pour fin d'impôt de la même manière que la somme d'argent l'aurait été si l'indemnité ne l'avait pas remplacée. La règle s'applique quelle que soit l'origine du droit du commerçant de recevoir l'indemnité. Elle peut résulter d'une obligation directe en vertu du contrat, comme dans un contrat d'assurance; d'une obligation incidente à cause de l'inexécution d'un contrat, comme le droit à des dommages-intérêts liquidés comme dans la clause de surestarie dans une charte-partie, ou de dommages non liquidés; d'une obligation d'indemniser pour délit ou, comme en l'espèce; d'une obligation légale ou encore de toute autre façon dont l'obligation peut naître.
+L'origine d'un droit se rapporte toutefois à la première question que soulève l'application de la règle à un cas particulier, c'est-à-dire la détermination de l'objet de l'indemnité. Si l'on conclut que l'indemnité a été payée au commerçant parce qu'il n'a pas reçu une certaine somme d'argent, la deuxième question qui se pose est de savoir si cette somme, eut-elle été versée au commerçant, aurait été comptabilisée dans les profits réalisés, au cours d'une année, dans le commerce qu'il exploitait au moment du versement; c'est-à-dire, pour être bref, aurait-elle constitué ce que j'appellerais un produit de ce commerce. L'origine du droit à l'indemnité n'est pas pertinente à la solution du deuxième problème. La méthode utilisée pour établir l'indemnité dans ce cas particulier n'indique pas ce qu'elle a servi à payer; ce n'est rien de plus qu'un facteur qui aide à la solution d'un problème d'identification. [Non souligné dans l'original]
+[9] Je crois juste de dire que le juge Miller est allé plus loin que le lord juge Diplock. Toutefois, le raisonnement du juge Miller est rationnel et logique et, selon moi, le lord juge Diplock n'est pas allé aussi loin que le juge Miller pour la simple raison qu'il n'avait pas à le faire dans l'affaire dont il était saisi.
+[10] Je reconnais que certaines décisions rendues par la Cour vont à l'encontre de la décision du juge Miller. La juge Lamarre dit ce qui suit au paragraphe 6 de la décision Marchand c. Canada, [1995] A.C.I. no 287 :
+[...] il est clair à la lecture de l'alinéa 8(1)b) que le montant ainsi réclamé doit être dû par l'employeur. Dans le présent cas, l'appelante n'a pas établi qu'un montant quelconque lui était dû par son ancien employeur.
+[11] De plus, dans la décision Guenette c. Canada, [2004] A.C.I. no. 81, la juge Lamarre a encore formulé des commentaires sur cette question. Voici ce qu'elle a dit au paragraphe 18 :
+Tout d'abord, les prestations d'invalidité versées par une compagnie d'assurance à un employé pendant que celui-ci ne travaille pas ne sont pas un salaire ou traitement dû par un employeur, du fait que l'employé n'a rendu aucun service à l'employeur au cours de la période visée [...]
+[12] L'affaire Guenette se distingue des autres affaires parce que les montants dont il y est question ne sont pas imposables à titre de revenus d'emploi. Toutefois, on ne sait pas s'il faut interpréter les remarques incidentes de la juge Lamarre comme voulant dire que les prestations d'invalidité ne sont pas un traitement ou un salaire (elles le sont) ou comme voulant dire que, bien qu'elles soient un salaire, elles ne sont pas versées par l'employeur. De toute manière, dans les deux décisions, ses remarques sont des remarques incidentes.
+[13] Pour ce qui est de la décision O'Donovan v. R., [2001] 2 C.T.C. 2399 (CCI), le juge Beaubier a conclu que les régimes d'assurance-salaire ne produisaient pas de revenus tirés d'une charge ou d'un emploi et, par conséquent, que l'alinéa 8(1)b) ne régissait pas la question de savoir si les frais judiciaires en litige pouvaient être déduits dans le calcul du revenu. Il a plutôt suivi l'arrêt Evans v. M.N.R., 60 DTC 1047 (CSC). Aucune disposition législative n'a été invoquée dans la décision O'Donovan, et je suppose que l'appel a été admis au motif que le revenu a été considéré comme un revenu tiré de biens. Cela permettait au juge Beaubier de se fonder sur l'arrêt Evans, dans lequel une distinction a été faite entre le caractère déductible des dépenses en capital et celui des dépenses engagées pour tirer un revenu de biens. Contrairement aux revenus d'emploi, desquels seules les déductions prévues expressément par la loi peuvent être soustraites, les revenus tirés de biens correspondent au bénéfice calculé. Le paragraphe 9(1) prévoit que seuls les bénéfices tirés des revenus de biens peuvent être inclus dans le revenu imposable, et les frais judiciaires seraient déductibles dans le calcul du revenu conformément au raisonnement tenu dans l'arrêt Evans. Le juge Beaubier a conclu que les montants qu'il devait examiner ne constituaient pas un traitement ou un salaire, mais il a quand même permis la déduction. Je ne peux malheureusement pas suivre les conclusions du juge Beaubier, surtout en raison du récent arrêt Tsiaprailis c. Canada, [2005] R.C.S. no. 9 rendu par la Cour suprême et de la définition contenue au paragraphe 248(1). Il est maintenant évident que les paiements d'assurance sont un « traitement ou salaire » . Bien que le montant soit payé par la compagnie d'assurances, il est payé pour remplacer un traitement dû par l'employeur et doit être déduit dans le calcul du revenu. Je ne tiens pas compte de la décision O'Donovan parce que le juge Beaubier n'a pas expliqué pourquoi il a permis la déduction des frais dans le calcul du revenu malgré qu'il a conclu que l'alinéa 8(1)b) ne s'appliquait pas.
+[14] Enfin, à mon avis, le libellé de l'alinéa 8(1)b) est un peu ambigu. Je suis donc prêt à suivre l'interprétation du juge Miller dans la décision Zitko et à tirer la même conclusion que lui. Les faits dans l'affaire dont le juge Miller était saisi sont très semblables aux faits en l'espèce. De plus, sur le plan de la logique, la conclusion tirée par le juge Miller cadre bien avec les commentaires formulés par le lord juge Diplock, en ce sens qu'elle est conforme au principe de substitution. Je souscris sans réserves aux commentaires du juge Miller selon lesquels l'alinéa 8(1)b) traite des montants dus par l'employeur ou l'ancien employeur, et non des montants reçus de l'employeur ou de l'ancien employeur. L'employeur a conclu avec l'assureur, pour le compte de l'employée et dans le cadre de l'ensemble des avantages sociaux négociés avec celle-ci, un contrat en application duquel l'assureur devait payer à l'employée les prestations que lui devait l'employeur en cas d'invalidité. Il y a d'autres preuves pour appuyer cela dans la quittance de règlement (pièce R-2) où l'appelante a libéré l'assureur :
+[TRADUCTION]
+[...] de toute action, cause d'action, réclamation, obligation et demande au titre de perte ou préjudice, pour quelque cause que ce soit, subis jusqu'ici ou qui peuvent ultérieurement être subis relativement à la police d'assurance collective no 138410 délivrée à la Workers' Compensation Board de l'Île-du-Prince-Édouard pour la période allant du 4 mai 1998 au 3 novembre 2002 inclusivement et relativement à une action intentée [...]
+La quittance de l'appelante est conforme au contrat conclu entre son employeur et l'assureur ainsi qu'à l'action en justice qu'elle a dû intenter pour obtenir les prestations. L'assureur a versé les prestations à l'appelante conformément au contrat régissant la police d'assurance collective, mais je suis tout à fait disposé à aller au-delà de la source des prestations pour examiner le contrat de travail sous-jacent et, par conséquent, à conclure que c'est l'employeur qui devait de l'argent à l'appelante.
+[15] L'appel est donc admis sans dépens pour le motif que le contrat conclu avec l'assureur selon lequel celui-ci devait verser des prestations d'invalidité à l'appelante découle du contrat conclu entre l'appelante et son ancien employeur. Étant donné que l'assureur payait l'appelante pour le compte de l'employeur, pour les besoins de l'alinéa 8(1)b), les sommes étaient dues par l'employeur et, par conséquent, les frais judiciaires sont déductibles dans le calcul du revenu.
+Signé à Ottawa, Canada, ce 19e jour de mai 2005.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 18e jour de novembre 2005.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE :
+2005CCI352
+NO DU DOSSIER :
+2004-4028(IT)I
+INTITULÉ :
+Mary Farrell et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 4 avril 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 19 mai 2005
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Shawna Cruz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

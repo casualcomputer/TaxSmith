@@ -1,0 +1,216 @@
+Title: Vienneau c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27763/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-470-27763-vienneau-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2006-09-07
+
+# Vienneau c. M.R.N.
+
+- Citation: 2006 TCC 470
+- Decision date: 2006-09-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 316, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vienneau c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-07
+Neutral citation
+2006 TCC 470
+File numbers
+2004-2631(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2631(EI)
+BETWEEN:
+ANNETTE VIENNEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE ESTATE OF THE LATE ANNIE ALLAIN
+C/O ARCHIE ALLAIN,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Annette Vienneau (2004‑2633(CPP)), June 28, 2006, at Miramichi, New Brunswick
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jean Lavigne
+Agent for the Intervener:
+Archie Allain
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 7th day of September 2006.
+"S.J. Savoie"
+Deputy Judge Savoie
+Translation certified true
+on this 28th day of June, 2007.
+Brian McCordick, Translator
+Docket: 2004-2633(CPP)
+ENTRE :
+ANNETTE VIENNEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE ESTATE OF THE LATE ANNIE ALLAIN,
+C/O ARCHIE ALLAIN,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Annette Vienneau (2004‑2631(EI)), on June 28, 2006, at Miramichi, New Brunswick
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jean Lavigne
+Agent for the Intervener:
+Archie Allain
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 7th day of September 2006.
+"S.J. Savoie"
+Deputy Judge Savoie
+Translation certified true
+on this 28th day of June, 2007.
+Brian McCordick, Translator
+Citation: 2006TCC470
+Date: 20060907
+Docket: 2004-2631(EI)
+BETWEEN:
+ANNETTE VIENNEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE ESTATE OF THE LATE ANNIE ALLAIN,
+C/O ARCHIE ALLAIN,
+Intervener,
+AND
+Docket: 2004-2633(CPP)
+ANNETTE VIENNEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE ESTATE OF THE LATE ANNIE ALLAIN,
+C/O ARCHIE ALLAIN,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Savoie
+[1] These appeals were heard on common evidence in Miramichi, New Brunswick, on June 28, 2006.
+[2] The appeals pertain to the insurability of the Appellant's employment within the meaning of the Employment Insurance Act ("the Act"), and their purpose is to establish whether that employment was pensionable, within the meaning of the Canada Pension Plan ("the CPP"), while the Appellant was performing services for Annie Allain ("the payor") from April 25, 2002, to November 12, 2003 ("the period in issue").
+[3] The Minister of National Revenue ("the Minister') notified the Appellant of his decision that she was not employed in insurable or pensionable employment during the period in issue because she was not employed under a contract of service.
+[4] In making his decision, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+4. (a) The payor was a senior citizen who required home care. (admitted)
+(b) After doing its assessment, the Department authorized 11 hours of home care per day for the payor. (admitted)
+(c) The Appellant was hired by the payor's family to look after her. (denied)
+(d) The Appellant's tasks were to clean the payor's home, bathe her, administer her medications and see to her well-being. (admitted)
+(e) The payor's son decided on the Appellant's tasks. (admitted)
+(f) The Appellant worked 11 hours a day, seven days a week. (admitted)
+(g) The Appellant was paid $6.00 an hour and submitted her working hours directly to the Department at the end of the month. (admitted)
+(h) The Appellant was paid directly by the Department of Family and Community Services, and no source deductions were made. (admitted)
+(i) The payor was admitted to hospital on November 12, 2003, and died on November 30. (admitted)
+(j) The Appellant considered herself an independent worker, as did the payor's son. (admitted)
+(k) The Department did not consider the Appellant an employee under a contract of service. (admitted)
+[5] The Appellant admitted to all these assumptions except the one set out in subparagraph 4(c), but that assumption was proven at the hearing.
+[6] The evidence discloses that the Appellant's salary was set by the Department of Family and Community Services of New Brunswick ("the Department"). The Appellant was paid at a rate of $6.00 per hour for 11 hours of work daily. After the Department assessed Annie Allain's condition (Ms. Allain was the Appellant's patient) her contribution was set at $26.00 per month.
+[7] In order to ensure that Ms. Allain received all the care she needed, the Appellant was at her post 24 hours a day. She lived in her patient's residence and her tasks required her to perform services for more than 11 hours a day. She was not compensated for her overtime. She often stayed up all night, and then took advantage of her patient's daytime sleep to catch up on some of her own sleep.
+[8] The Appellant's work was not supervised. She decided on her schedule based on the patient's needs, and she decided on the terms and conditions of her employment. It was established that the Appellant was hired by Archie Allain, the payor's son, at which time the terms and conditions of the employment were determined, though the Department, as we have seen, had already decided how she would be remunerated for her services.
+[9] The Appellant was paid directly by the Department, without source deductions, and she was not entitled to vacation pay. She considered herself self‑employed, and the Department and the Allain family shared that view.
+[10] The evidence did not establish that there was an employer-employee relationship between the payor and the Appellant whereby the payor was exclusively entitled to the Appellant's services.
+[11] Given the nature of the services in question, it is difficult to analyse the terms and conditions of the Appellant's work using the criteria established by the case law.
+[12] In Poulin v. Canada (Minister of National Revenue – M.N.R.), [2003] F.C.J. No. 141, a matter similar to the instant case, Létourneau J.A. of the Federal Court of Appeal wrote:
+In conclusion, the tests developed by the courts to differentiate a contract of employment from a contract for services prove to be of little use in the particular context of this case. The services rendered to the applicant during 1999 and the conditions in which they were rendered reveal a supply of services that is as compatible with one resulting from a contract for services or of enterprise as it is with one emanating from a contract of employment. That being said, as our colleague Mr. Justice Décary noted in Wolf, supra, at paragraph 117, these tests are simply factors to be considered in the determination of what "is the essence of a contractual relationship, i.e. the intention of the parties". And as he also says, "one ends up in the final analysis, in civil law as well as in common law, looking into the terms of the relevant agreements and circumstances to find the true contractual reality of the parties" . . .
+[13] In Poulin, supra, Létourneau J.A. was entertaining an application for the judicial review of a decision of this Court regarding the insurability of the employment of several personal care attendants who cared for a man who was rendered quadriplegic as a result of a car accident and was unable to look after his own needs, even the most essential ones.
+[14] This case is characterized by the fact that the care provider was remunerated almost completely by a third party (the state), not by the beneficiary of the services (the sick and disabled patient).
+[15] The Minister determined that the Appellant was not employed under a contract of service within the meaning of paragraph 5(1)(a) of the Act and that she was therefore not employed in insurable employment during the period in issue.
+[16] In addition, the Minister determined that the Appellant was not employed in pensionable employment under the CPP because there was no contract of service between her and the payor.
+[17] Here are the statutory provisions on which the Minister relied:
+Employment Insurance Act
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise.
+Canada Pension Plan
+6.(1) Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+[18] The concept of insurable employment is explained by the relevant case law, which has established the applicable tests.
+[19] Specifically, in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, the Federal Court of Appeal applied a four-part test. In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, the Supreme Court of Canada approved of the use of this test to determine whether a person is considered an independent contractor or an employee. These cases remind us that there is no one conclusive factor and that all the criteria — namely control, integration, chance of profit and risk of loss, and ownership of tools — must be applied to the relationship between the parties. Since the four criteria are not necessarily inter‑related, it is sometimes necessary to consider them separately while continuing to have regard to the overall relationship between the parties.
+[20] In the case at bar, the evidence discloses that Ms. Allain, the payor and patient, sought the Department's services through her son Archie, and that the Department's staff performed an assessment of her needs. The purpose of this assessment was to determine the terms and conditions of the home care that Ms. Allain would receive. The care varies with the patient's level of autonomy, but consists mainly of house cleaning, personal hygiene, health care and assistance with daily activities. It was established that the Minister would pay the Appellant an hourly rate of $6.00 for a total of 11 hours of work per day, seven days per week. The Allain family, for its part, would have to contribute $26.00 per month. The Department decided on the number of hours that would be remunerated.
+[21] After the Department assessed the payor's needs, neither the Department nor the payor exercised any control over the Appellant's work. The Appellant knew her patient's needs and chose how to deliver the necessary care.
+[22] The care provided to the patient was personal and basic in nature. It required no particular set of tools. In Poulin, supra, a similar case, Létourneau J.A., writing on behalf of the Federal Court of Appeal, held that ". . . on the facts of this case the notions of control and relationship of subordination are at best neutral, at worst misleading. They are not terribly useful in determining the nature of the agreement between the parties."
+[23] Further on, in its analysis of the facts under the criterion concerning the ownership of work instruments, the Court in Poulin stated:
+Once again, I do not think that in this case much weight can be accorded to this factor, given the nature of the services rendered, the needs served and the few work instruments used. Furthermore, ownership and supply of equipment must not be confused with ownership and supply of work instruments. In short, it is necessary to avoid confusing work materials and work instruments. What homeowner has not purchased materials in order, for example, to renovate a bathroom, build or rebuild a patio, and subsequently hired the services of a contractor, through a contract for services, to have the latter do the erection and installation of the materials acquired thereby using his own work tools? The fact that the applicant owns the drugs he swallows, the urinary condoms he wears, the catheters he uses, the waterproof covers on his bed to protect against leaks, etc. and that he supplies these materials to the workers who install them does not make him an employer. These are not work instruments, but materials necessitated by the work. The installation of these materials and the administration of the drugs, like most of the services rendered to the applicant, for all practical purposes do not require any work instruments.
+[24] The facts of the instant case, analysed under the "chance of profit and risk of loss" criterion, led this Court to the same conclusion as that reached by Létourneau J.A. in Poulin, supra, who wrote, at paragraph 26:
+This test is of no use in the case at bar. Had the services been rendered by an agency under a contract for services, the risks of losses and the chances of profits would have been no different than they were for the three workers in question.
+[25] In Poulin, supra, the Federal Court of Appeal held, as it did in Wolf v. Canada, [2002] F.C.J. No. 375, that a great deal of importance must be attached to the parties' intention.
+[26] The Federal Court of Appeal stated the following with regard to this point in Poulin, supra, at paragraphs 29-30:
+There is not, in this case, as is often the case in similar matters, any written agreement; this obviously makes the search for intention more difficult but not necessarily impossible.
+Given the applicant's physical condition and the consequences that result from employer status, I do not think it is reasonable to infer that the applicant intended to enter into a contract of employment with the three workers that would make him their employer. I suspect that this hypothesis did not even cross his mind, persuaded as he must have been that he had retained the services of self-employed workers in regard to whom his only obligation was to pay the agreed price for the services. Moreover, as the applicant was aware, Ms. Paquette, the visiting homemaker, was already working full-time for an agency and provided services to the applicant only on every second weekend: Applicant's Record, pages 107 and 135. Furthermore, it should not be overlooked that, from the applicant's perspective, all of the services received were services provided by the SAAQ, which was the payer.
+[27] The evidence establishes that, for her part, the Appellant never considered the payor to be her employer. On the contrary, she admitted the Minister's assumption in subparagraph 4(j), which reads as follows:
+[TRANSLATION]
+The Appellant considered herself an independent worker, as did the payor's son.
+[28] Thus, I must find that there was no contract of service.
+[29] The contract in issue here is a contract for services or a contract of enterprise. That is what the Federal Court of Appeal found in Poulin, supra, and that is what this Court found in Castonguay v. Canada (Minister of National Revenue – M.N.R.), [2002] T.C.J. No. 352, application for leave to appeal refused by the Federal Court of Appeal.
+[30] That case law is convincing, binding and mandatory.
+[31] The Appellant bore the burden of proof, as well as the onus of proving that the Minister's assumptions were wrong. She did not succeed in these regards.
+[32] Consequently, this Court must find that the Appellant was not employed by the payor in insurable employment within the meaning of paragraph 5(1)(a) of the Act during the period in issue because there was no contract of service between her and the payor. In addition, the Appellant was not employed by the payor in pensionable employment within the meaning of paragraph 6(1)(a) of the CPP during the period in issue because there was no contract of service between her and the payor.
+[33] Therefore, the appeals are dismissed and the decisions of the Minister are confirmed.
+Signed at Grand-Barachois, New Brunswick, this 7th day of September 2006.
+"S.J. Savoie"
+Deputy Judge Savoie
+Translation certified true
+on this 28th day of June, 2007.
+Brian McCordick, Translator
+CITATION:
+2006TCC470
+COURT FILE NO.:
+2004-2631(EI), 2004-2633(CPP)
+STYLE OF CAUSE:
+Annette Vienneau and M.N.R. and The Estate of the Late Annie Allain, c/o Archie Allain and M.R.N.
+PLACE OF HEARING:
+Miramichi, New Brunswick
+DATE OF HEARING:
+June 28, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Deputy Judge
+S.J. Savoie
+DATE OF JUDGMENT:
+September 7, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jean Lavigne
+Agent for the Intervener:
+Archie Allain
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:

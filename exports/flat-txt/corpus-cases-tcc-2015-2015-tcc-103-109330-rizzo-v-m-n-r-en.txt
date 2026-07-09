@@ -1,0 +1,166 @@
+Title: Rizzo v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109330/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-103-109330-rizzo-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2015-04-27
+
+# Rizzo v. M.N.R.
+
+- Citation: 2015 TCC 103
+- Decision date: 2015-04-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2836, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rizzo v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-04-27
+Neutral citation
+2015 TCC 103
+File numbers
+2013-4636(EI), 2013-4637(CPP)
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2013-4636(EI)
+BETWEEN:
+MARIA COSTODIA RIZZO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+BOND INTERNATIONAL COLLEGE,
+Intervenor.
+Appeal heard on common evidence with the appeal of Maria Costodia Rizzo (2013-4637(CPP)) on February 25, 2015, at Hamilton, Ontario.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Dominique Gallant
+Agent for the Intervenor:
+Hugh McKeown
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue dated October 31, 2013 is confirmed.
+Signed at Kingston, Ontario, this 27th day of April 2015.
+“Rommel G. Masse”
+Masse D.J.
+Docket: 2013-4637(CPP)
+BETWEEN:
+MARIA COSTODIA RIZZO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+BOND INTERNATIONAL COLLEGE,
+Intervenor.
+Appeal heard on common evidence with the appeal of Maria Costodia Rizzo (2013-4636(EI)) on February 25, 2015, at Hamilton, Ontario.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Dominique Gallant
+Agent for the Intervenor:
+Hugh McKeown
+JUDGMENT
+The appeal pursuant to subsection 28(1) of the Canada Pension Plan is dismissed and the decision of the Minister of National Revenue dated October 31, 2013 is confirmed.
+Signed at Kingston, Ontario, this 27th day of April 2015.
+“Rommel G. Masse”
+Masse D.J.
+Citation: 2015 TCC 103
+Date: 20150427
+Dockets: 2013-4636(EI)
+2013-4637(CPP)
+BETWEEN:
+MARIA COSTODIA RIZZO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+BOND INTERNATIONAL COLLEGE,
+Intervenor.
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] These two appeals were heard together since they involve exactly the same issues:
+a) Was the Appellant employed in pensionable employment with her employer within the meaning of the Canada Pension Plan, R.S.C., 1985, c. C-8 (the “CPP”) during the period from August 15, 2012 to November 16, 2012 (the “Period”)?
+b) Was the Appellant employed in insurable employment with her employer within the meaning of the Employment Insurance Act, S.C. 1996, c. 23 (the “EIA”) during the period from August 15, 2012 to November 16, 2012?
+[2] The simple answer to both these questions is “No”. Consequently, both of these appeals must be dismissed.
+Factual Context [3] The Appellant is a teacher by profession, having exercised this profession since the mid-80s.
+[4] The Employer, Oxstand-Bond International College (henceforth “Oxstand”), operated a school that provided students in the People’s Republic of China with the Ontario curriculum and authorized high school credits towards the Ontario Secondary School Diploma. Oxstand is registered with the Ontario Ministry of Education through the Ontario Ministry’s Overseas School Division. Oxstand is a registered business in China and is located at 2040 Buxin Road, Luohu District, Shenzhen, in the People’s Republic of China. Oxstand does not have a business presence in Canada although related entities, such as Bond International College, Bond Schools International and Bond Education Group, do have a business presence in Canada.
+[5] The Intervenor, Bond International College (henceforth “BIC”), is located at 1500 Birchmount Road in Toronto. It is a private school registered with the Ontario Ministry of Education. BIC is authorized to grant credits towards the Ontario Secondary School Diploma. BIC is categorical in its assertion that it is not and never was the Appellant’s employer.
+[6] Bond Schools International (henceforth “BSI”), also located at 1500 Birchmount Road in Toronto, provides advice to schools in China that want to offer a Canadian curriculum and Canadian Secondary School Diplomas in China. BSI is a registered business in China and I find that BSI also has a business presence in Canada. BSI has an agreement with Oxstand to recruit and recommend teachers from Ontario who want to teach in China.
+[7] Bond Education Group (henceforth “BEG”) is also located at 1500 Birchmount Road in Toronto, Canada. Mr. Hugh McKeown is the Director of International Programs for BEG and he is also the Canadian Superintendent on behalf of Oxstand. Mr. McKeown had the task of assuring parents that there was a Canadian educator providing advice on behalf of Oxstand. According to Mr. McKeown, BEG is an umbrella group.
+[8] On July 23, 2012, the Appellant entered into a contract with Oxstand whereby she agreed to go to the People’s Republic of China in order to teach (see Exhibit A‑1). This contract was for a term of two years commencing August 15, 2012 through to August 15, 2014. This contract of employment was quite comprehensive including provisions for airfare, accommodations, medical benefits, and so on. Oxstand agreed to provide all reasonable assistance to the Appellant to obtain a visa, work permit or resident card and to pay all related fees. Oxstand also agreed to pay on behalf of the Appellant all relevant Chinese taxes. The parties to this contract agreed that the contract “shall be governed by and construed in accordance with the laws of the Peoples’ [sic] Republic of China” and the parties “submit to the jurisdiction of the Courts of the Peoples’ [sic] Republic of China in respect to liabilities and claims hereunder.” The Appellant signed the contract on her own behalf and Mr. Hugh McKeown, of BEG, signed for and on behalf of Oxstand. Mr. McKeown states that he and BEG were authorized by Oxstand to recruit, contract for and obtain the services of Ontario qualified teachers to go and teach in China. However, Mr. McKeown is firm that neither he, BEG, BIC nor BSI were the Appellant’s employer; Mr. McKeown and BEG only acted as agent for Oxstand to recruit the services of teachers for and on behalf of Oxstand.
+[9] The Appellant did in fact leave Canada and go to China in order to teach in accordance with her contract with Oxstand. She began her duties on August 27, 2012 and she continued in her role as a teacher until November 16, 2012 on which date she was terminated for reasons that are not relevant to the issues this Court has to decide. It is clear that the Appellant has many unresolved issues with Mr. McKeown but none of these issues have any bearing on whether or not her employment was pensionable under the CPP or insurable under the EIA.
+[10] The Appellant was required to leave China purportedly because she was in violation of her visa status in China and was deemed to be in China illegally. On her return to Canada, the Appellant applied for Canadian Employment Insurance benefits in January 2013. A referral was made for a ruling on the status of her employment with Oxstand during the period of August 15, 2012 to November 16, 2012. On May 8, 2013, a ruling was rendered by which it was decided that the Appellant’s employment with Oxstand was not pensionable under the CPP and not insurable under the EIA since her employment services were performed outside Canada and could therefore not be included in pensionable or insurable employment. She appealed this ruling to the Minister of National Revenue (the “Minister”) but the ruling was confirmed on October 31, 2013. The Appellant further appealed to this Court.
+[11] It is evident from the pleadings, the documents reviewed and the testimony heard that the Appellant was employed under a contract of service with Oxstand in Shenzhen, China. Oxstand treated the Appellant as an employee withholding and paying on her behalf Chinese income taxes. There is no social security agreement between Canada and China that would allow the Appellant to include her employment with Oxstand in insurable or pensionable employment. The true issue is whether or not Oxstand is a Canadian employer, and whether or not the Appellant was ordinarily resident in Canada thereby placing her in pensionable and insurable employment.
+Legislative Provisions [12] The applicable provision of the CPP is as follows:
+6(1) Pensionable employment — Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+. . .
+[13] Section 16 of the Canada Pension Plan Regulations, C.R.C., c. 385 (the “CPPR”) provides in part as follows:
+16(1) Pensionable employment includes employment outside Canada (except employment in international transportation) that would be pensionable employment if it were in Canada, if the employee employed therein
+(a) ordinarily reports for work at an establishment in Canada of his employer;
+(b) is resident in Canada and is paid at or from an establishment in Canada of his employer;
+. . .
+[14] Paragraph 5(1)(a) of the EIA provides the following:
+5(1) Types of insurable employment — Subject to subsection (2) [not applicable here], insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[15] Section 5 of the Employment Insurance Regulations, SOR/96-332 (the “EIR”) provides as follows:
+5. Employment outside Canada, other than employment on a ship describe in section 4, is included in insurable employment if
+(a) the person so employed ordinarily resides in Canada;
+(b) that employment is outside Canada or partly outside Canada by an employer who is resident or has a place of business in Canada;
+(c) the employment would be insurable employment if it were in Canada; and
+(d) the employment is not insurable employment under the laws of the country in which it takes place.
+Analysis [16] Generally, employment has to take place in Canada to be pensionable or insurable under the CPP or the EIA. There are certain exceptions where a worker is working outside Canada for the Canadian government or for a company who is resident in Canada or who has a place of business in Canada. In such a case, the worker must be ordinarily resident in Canada, must ordinarily report for work at an establishment in Canada of the employer and be paid at or from an establishment in Canada of the employer. Canada has social security agreements with many countries that allow for employment outside Canada to be pensionable when certain conditions are met. China is not one of those countries.
+[17] The Appellant, for some reason, seems to be of the view that the Intervenor, BIC, was her employer. However, BIC takes the position that the Appellant was never employed by it but was in fact employed at all material times by Oxstand. Although Oxstand might have some connection with Mr. McKeown, BSI, BIC or BEG, it is a separate and legal entity in its own right. An employment contract with Oxstand is not a contract with BIC. I agree. The contract of employment is very specific that Oxstand, of the People’s Republic of China, and not BIC was the employer. It is difficult to understand why BIC is involved in these proceedings at all.
+[18] The Respondent takes the position that the Appellant was not employed in pensionable or insurable employment with her employer during the period in question because the employer was not a resident of Canada and did not have a place of business in Canada. In addition, the Appellant at the time was not ordinarily resident in Canada and the work was performed entirely outside of Canada. I agree.
+[19] Oxstand was not a Canadian resident employer and did not have a business presence in Canada. Oxstand was a registered business in China and its place of business was located at 2040 Buxin Road, Luohu District, Shenzhen, in the People’s Republic of China. This is how Oxstand is described in the contract of employment. In my view, the Appellant had an agreement with Oxstand to provide services as a teacher in China. Her contract of employment was with Oxstand and with no one else. She was supervised, controlled and paid by Oxstand in Chinese currency that was deposited to a bank account in China. Oxstand paid all applicable Chinese taxes on her behalf and did not pay any Canadian taxes or make or remit any other at source deductions to the government of Canada or the government of any province of Canada. All of Oxstand’s books, records, company seal, articles of incorporation and bank accounts were located in China. In my view, it is incontestable that Oxstand was an employer resident in the People’s Republic of China, was not in any way resident in Canada and did not carry on business in Canada.
+[20] I also come to the conclusion that the Appellant was not resident in Canada nor was she employed in Canada during the relevant period. All of her duties had to be performed at the employer’s school in Shenzhen, China. She lived in a home/condo in China. She was paid in Chinese currency that was deposited in her Chinese bank account in Shenzhen, China. She did not pay any Canadian taxes nor did she pay any CPP or EI premiums while she worked in China. She had ceased to live in Canada and had made a commitment to live and work in Shenzhen, China, for an initial period of two years and perhaps longer. When she filed her 2012 Canadian income tax return, she did not report the foreign income she claimed while living in China. As it turns out, she only filed an adjustment to her 2012 income tax return reporting her foreign earned income the day before this hearing. It is overwhelmingly clear that, during the period in question, the Appellant was not resident in Canada, did not work in Canada, and was prepared to be absent from Canada for at least two years.
+[21] To repeat, I am in agreement with the Minister’s decision that the employer, Oxstand, did not have a place of business in Canada during the Period and that the Appellant was not ordinarily resident in Canada during the Period. The Appellant’s employment services were performed outside Canada with a non‑Canadian employer, and could not be included in pensionable or insurable earnings. Therefore, the Appellant’s employment did not meet the requirements of subs. 16(1) of the CPPR or s. 5 of the EIR during the Period. Therefore, the Appellant was not employed in pensionable employment within the meaning of the CPP or insurable earnings within the meaning of the EIA during the Period.
+Conclusion [22] For all of the foregoing reasons, these appeals are dismissed.
+Signed at Kingston, Ontario, this 27th day of April 2015.
+“Rommel G. Masse”
+Masse D.J.
+CITATION:
+2015 TCC 103
+COURT FILE Nos.:
+2013-4636(EI), 2013-4637(CPP)
+STYLE OF CAUSE:
+MARIA COSTODIA RIZZO AND M.N.R. AND BOND INTERNATIONAL COLLEGE
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+February 25, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+April 27, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Dominique Gallant
+Agent for the Intervenor:
+Hugh McKeown
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

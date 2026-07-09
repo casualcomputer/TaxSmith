@@ -1,0 +1,210 @@
+---
+title: "Burstein v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29113/index.do"
+last_modified: "2009-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 103"
+citation2: ""
+neutral_citation: "2009 TCC 103"
+decision_date: "2009-02-20"
+language: "en"
+item_id: "29113"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6674
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:32:30.793000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c3643dc49d4d9286f0989cc90ee5fdd300f88a6d226e749f83d7dbaa9f67c2d9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burstein v. The Queen
+
+- Citation: 2009 TCC 103
+- Decision date: 2009-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6674, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burstein v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-20
+Neutral citation
+2009 TCC 103
+File numbers
+2005-315(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-315(IT)G
+BETWEEN:
+HARRY BURSTEIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Motion heard on November 20, 2008, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+André P. Gauthier
+Counsel for the Respondent:
+Bernard Lafontaine
+Chantal Roberge
+____________________________________________________________________
+JUDGMENT
+Upon joint memorandum of the parties applying to the Court for the determination of two questions of mixed law and fact under section 58 of the Tax Court of Canada Rules (General Procedure):
+(a) Notwithstanding the fact that the Notices of Reassessment were not mailed to the Appellant’s address in Israel, is the Appellant precluded from claiming that the reassessment process was not completed in accordance with subsection 152(2) of the Income Tax Act?
+(b) Was the assessment process completed before the revocation of the waiver in respect of the normal reassessment period took effect?
+The answer to both questions is negative, in accordance with the attached Reasons for Judgment. Each party bears its own costs.
+Signed at Edmundston, New Brunswick, this 20th day of February 2009.
+“François Angers”
+Angers J.
+Translation certified true
+on this 28th day of May 2009.
+François Brunet, Reviser
+Citation: 2009 TCC 103
+Date: 20090220
+Docket: 2005-315(IT)G
+BETWEEN:
+HARRY BURSTEIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The parties applied to the Court for the determination of two questions of mixed law and fact under section 58 of the Tax Court of Canada Rules (General Procedure) (the Rules) and the Court accepted the application. The Court also allowed the parties to submit evidence deemed necessary for the determination of the questions submitted to the Court and to which the parties agreed. The memorandum setting out the evidence reads as follows:
+[TRANSLATION]
+1. The Appellant filed his income tax returns for the 1997 and 1998 taxation years within the prescribed time, indicating his address as “c/o Bruce Greenberg, 25 The Bridle Path, North York, Ontario, M2L 1C9.”
+2. The initial assessments for the 1997 and 1998 taxation years were made on June 15, 1998, and November 8, 1999, respectively.
+3. On April 27, 2001, the Appellant submitted a Determination of Residency Status form (Form NR73) to the Canada Revenue Agency (hereinafter the “CRA”) indicating that he had left Canada on April 4, 1998, and that he was residing at 46 Sharet, Tel Aviv, Apt. 4, Israel 62910.
+4. On May 29, 2001, the Appellant submitted a form entitled “Waiver in Respect of the Normal Reassessment Period” for the 1997 taxation year, providing c/o Bruce Greenberg, 25 The Bridle Path, Toronto, Ontario M2L 1C9, as his address, that is, the address appearing on his income tax return.
+5. A letter dated October 22, 2002, was sent by the CRA auditor, Judith Heath, to the Appellant, at his son’s, Jay Burstein, address at 55 Banncockburn Avenue, Toronto, ON M5M 2M9, concerning a proposed reassessment.
+6. Josée Vigeant, of the law firm Heenan Blaikie, contacted by telephone the auditor, Ms. Heath, to discuss the proposed reassessment and indicated that she would provide Form T1013 duly signed by the Appellant for the year 1997.
+7. On November 22, 2002, the Appellant sent Form T1013 to the CRA indicating his address in Israel, that is, 46 Sharet, Tel Aviv, Apt. 4, Israel 62910. Form T1013 also indicates Josée Vigeant and André P. Gauthier of Heenan Blaikie as duly authorized representatives and their address, that is, 1250 Boulevard René-Lévesque O., Suite 2500, Montréal, Quebec H3B 4Y1.
+8. Counsel for the Appellant sent submissions to Ms. Heath concerning the proposed reassessment. After that, there was no communication between these persons. The issue of which address the Notices of Reassessment should be sent to never came up in discussions between Ms. Heath and counsel for the Respondent or between Ms. Heath and the Appellant or any other of his representatives.
+9. After Ms. Heath completed her analysis of the submissions made by counsel for the Appellant and, thereby, her audit, believing that she was doing the Appellant a service, she arranged for the Notices of Reassessment dated September 30, 2003, for the 1997 and 1998 taxation years to be addressed by the Minister of National Revenue to the Appellant as follows:
+Harry Burstein
+c/o Heenan Blaikie
+1250 René-Lévesque Blvd. West, Suite 2500
+Montréal QC
+H3B 4Y1
+10. Subject to the interpretation to be given to Form T-1013, the Appellant never authorized the CRA to send the Notices of Assessment to the address mentioned in the preceding paragraph.
+11. The Notices of Reassessment were not returned to the sender by the firm Heenan Blaikie.
+12. On or around October 8, 2003, a statement of account was addressed to André P. Gauthier regarding the Appellant demanding payment of a debt in the amount of $6,806,666.80 for the years 1997 and 1998 for which assessments were issued on November 30, 2003.
+13. On October 14, 2003, an e-mail was sent by Joceline Pruneau, Mr. Gauthier’s assistant, to John Fuke, a lawyer from the Toronto office of the firm Heenan Blaikie, requesting that he obtain from the Appellant the Notices of Assessment as soon as possible.
+14. The Appellant was a client of Mr. Fuke when he was a partner with the firm of Heenan Blaikie. Mr. Fuke, who is now retired, was, at the time of the audit, no longer a partner and turned his clients over to another partner, Ms. Bueschkens.
+15. In view of the fact that the Appellant never received the assessments and therefore could not send them to his lawyers, his lawyers contacted Revenue Collections of the Montréal Tax Services Office on October 28, 2003, to obtain a detailed statement of the debts for the years 1997 and 1998.
+16. On October 28, 2003, counsel for the Appellant received a detailed statement of account by fax, as requested.
+17. On November 20, 2003, Josée Vigeant went to the client services division of the Montréal Tax Services Office and obtained a computer printout of the assessments for the years 1997 and 1998 as, until that date, neither Mr. Gauthier nor she had received the Notices of Assessment sent by the CRA.
+18. On that same occasion, Ms. Vigeant hand-delivered Form T652 to the Minister, signed by the Appellant, revoking the waiver in respect of the normal reassessment period for the 1997 taxation year.
+19. It was not until that moment and after requesting a history of the addresses in the CRA system that Ms. Vigeant initiated a more active search within her own firm to trace the assessments.
+20. The firm Heenan Blaikie does business with an outside company for the reception of mail. The company’s employees are not authorized to open mail. When an envelope is not addressed to a lawyer but rather to a client, the mailing service performs a search within the firm’s client management system to find out the name of the partner responsible for the client. In the case of the Appellant, the envelope containing the Notices of Reassessment ended up in Ms. Bueschkens’s file of the firm Heenan Blaikie, who was not in any way retained by the Appellant in the matter. Nor was she his authorized representative. Although Mr. Gauthier and Ms. Vigeant were the only lawyers with Heenan Blaikie in Montréal who had been acting for the Appellant since at least November 2002, the client management system did not allow the Notices of Reassessment to be sent to them, since it was not designed for that purpose.
+21. Mr. Gauthier and Ms. Vigeant do not know at what point the original copies of the assessments were sent to them following the search. Mr. Gauthier and Ms. Vigeant were authorized to object and raise any defence and grounds at their disposal.
+22. Mr. Gauthier and Ms. Vigeant are lawyers specializing in tax matters and the CRA is in charge of the application of the Income Tax Act (“I.T.A”).
+23. In December 2003, that is, within the required time, the Appellant duly objected to the reassessments for the 1997 and 1998 taxation years again indicating 46 Sharet, Apt. 4, Tel Aviv, Israel, 62910 as his mailing address on the prescribed forms (T400A) signed by him. The Notices of Reassessment are dated September 30, 2003. In the pre-printed box “name and address of any authorised representative, if applicable” “Heenan Blaikie L.L.P., 1250 René-Lévesque Blvd. West, Suite 2500, Montréal Quebec H3B 4Y1, Mtres Andre P. Gauthier and Josee Vigeant” is entered.
+24. The memorandum of fact and law attached to the Notice of Objection detailing some of the facts the Appellant relied on regarding the adjustments made and it was stated somewhere that one of the issues was “Whether the reassessment process in respect of both taxation years was completed on September 30th, 2003” and the only submission made in that respect was the following: “Further we submit that the Minister has not completed the reassessment in respect of both taxation years.”
+25. By letter dated January 14, 2004, addressed at 46 Sharet, Apt. 4, Tel Aviv, Israel 62910, the Chief of Appeals of the Toronto Centre Tax Services Office notified the Appellant that his file was assigned to Tom Kung.
+26. By letter dated January 30, 2004, addressed to the Appellant’s lawyers, with a copy sent to the Appellant at his address in Tel Aviv, Israel, the appeals officer, Tom Kung, gave the Appellant 30 days to provide the documentation or make additional submissions, otherwise the objections were to be processed on the basis of the information appearing in the file. No contact was made, nor was any information provided either by the Appellant or his lawyers to Mr. Kung during said period of 30 days, or before March 26, 2004.
+27. On March 26, 2004, Ms. Vigeant contacted Tom Kung. Mr. Kung told her that the file would be assigned to somebody else considering the type of issues raised. Ms. Vigeant did not provide any details as to the Notice of Objection. The conversation lasted no more than a minute.
+28. On April 5, 2004, Vonda Yantsis, of the Appeals Division, took the initiative to contact by telephone Ms. Vigeant to inform her that she was now the agent in charge of reviewing the Appellant’s file. To that end, she left a message in Ms. Vigeant’s voice mailbox and noted that she would refer the file to headquarters, leaving her contact information and inviting her to contact her if she required any information.
+29. On October 8, 2004, Ms. Yantsis informed Ms. Vigeant by telephone of the Minister’s position and his intention to confirm the assessments. Ms. Vigeant asked to obtain certain documents that Ms. Yantsis undertook to provide her with.
+30. A few minutes later, Ms. Yantsis called Ms. Vigeant back to inform her that certain documents were not in the file and could not be provided to her.
+31. According to Ms. Yantsis, it was during this second telephone conversation that Ms. Vigeant said that the Appellant did not authorize the sending of the Notices of Reassessment to the address of Heenan Blaikie. According to Ms. Vigeant, it was rather during the first telephone conversation that this discussion took place.
+32. October 8, 2004, was the first time the Appellant or any of his other representatives provided information indicating or explaining to the Minister or one of his representatives why the reassessment process had not been completed by September 30, 2003. No other explanation was given to Ms. Yantsis at the time or any time before the Notice of Appeal was submitted.
+33. In her report on how she dealt with the Notices of Objection, Ms. Yantsis did not address the issue as to whether the Notices of Appeal should have been sent to Israel, but rather whether the reassessment process was completed when the Notice of Reassessment was sent.
+34. According to Ms. Yantsis, if she had known that counsel for the Appellant were taking the position that the Notices of Reassessment should have been sent to the Appellant at a given address in Israel, she would have seen to it that the notices were sent to that address.
+35. By letter dated October 21, 2004, the Appeals Division mailed out the Minister’s decision confirming the reassessments for the 1997 and 1998 taxation years. The letter was addressed as follows:
+Harry Burstein
+C/O Heenan Blaikie – A. Gauthier
+2500 – 1250 Boul. Rene-Levesque
+Montreal Quebec
+H3B 4Y1
+36. A copy of the letter and Notices of Cofirmation was sent to “Mtres Andre P. Gauthier and Josee Vigeant Heenan Blaikie L.L.P., 1250 Rene-Levesque Blvd. Suite 2500, Montréal, Québec H3B 4Y1.”
+37. At paragraph 15 of his Notice of Appeal, the Appellant indicates that [TRANSLATION] “On October 21, 2004, the Minister of National Revenue confirmed the reassessments for the 1997 and 1998 taxation years.”
+38. At paragraph 27 of the Notice of Appeal, the Appellant indicates that [TRANSLATION] “the assessment process for the 1997 and 1998 taxation years was never completed as the assessments were not sent to the Appellant in accordance with subsection 152(2) of the I.T.A.”
+39. No allegation that the Appellant made any misrepresentation that is attributable to negligence, carelessness or wilful default or committed any fraud in filing his tax returns was alleged in the Respondent’s Reply to the Notice of Appeal bringing subsection 152(4) I.T.A. into play.
+[2] An excerpt from the testimony of the Appellant and Judith Heath, Respondent’s representative and auditor in the Appellant’s matter, at their examination for discovery, was adduced and is part of the evidence. The appeals officer, Vonda Yantsis, also testified.
+[3] In their joint memorandum, the parties frame the issues as follows:
+[TRANSLATION]
+(a) Notwithstanding the fact that the Notices of Reassessment were not mailed to the Appellant’s address in Israel, is the Appellant precluded from claiming that the reassessment process was not completed in accordance with subsection 152(2) of the I.T.A.?
+(b) Was the assessment process completed before the revocation of the waiver in respect of the normal reassessment period took effect?
+[4] It was therefore acknowledged from the outset that the Notices of Reassessment were not mailed to the Appellant’s address in Israel but rather were addressed to the law firm’s Montréal office without reference to the lawyers who were representing the Appellant. The latter therefore submits that the assessment process was never completed and cites the provisions of subsection 152(2) of the Income Tax Act (the Act) in support of his claim. As for the Respondent, she submits that the Appellant had a duty to raise the issue in his Notice of Objection and, considering that the Appellant objected to the assessments within the time limit, he was not prejudiced and cannot now challenge the process.
+[5] Subsection 152(2) of the Act requires the Minister of National Revenue (the Minister) to send, after examination of a return, a notice of assessment to the person by whom the return was filed. However, subsections 244(14) and 244(15) provide for presumptions as to the date when the assessment is made and the mailing date. The subsections read as follows:
+244(14) For the purposes of this Act, where any notice or notification described in subsection 149.1(6.3), 152(3.1), 165(3) or 166.1(5) or any notice of assessment or determination is mailed, it shall be presumed to be mailed on the date of that notice or notification.
+244(15) Where any notice of assessment or determination has been sent by the Minister as required by this Act, the assessment or determination is deemed to have been made on the day of mailing of the notice of the assessment or determination.
+[6] When the Minister makes an initial assessment without amending a taxpayer’s tax return, it is, for all intents and purposes, without consequence. However, when the Minister’s initial assessment or reassessment amends a taxpayer’s tax return, particularly when a taxpayer has been audited, this could give rise to a potential conflict between the taxpayer and the Minister whose ultimate resolution results in an objection and, possibly, an appeal before this Court. The starting point of the taxpayer’s objection process lies in the simple gesture of sending the assessment to the person by whom the return was filed.
+[7] Rothstein J.A. of the Federal Court of Appeal made the following comment in Grunwald v. Canada, 2005 FCA 421 with respect to the term “send” used in subsection 152(2):
+Subsection 152(2) does not refer to mailing. It uses the term “send”. “Send” is clearly broader than “mailing” and while it would include mailing, it would also appear to include personal service on a taxpayer by an employee of CCRA, as occurred in this case.
+[8] It therefore suffices to mail the Notice of Assessment to the taxpayer’s address or to serve the notice by personal service and the assessment is made on the date appearing on the notice. The next step consists in filing a Notice of Objection and then filing an appeal to this Court within the prescribed time limit. An objection or appeal cannot, therefore, be filed, if there has been no sending.
+[9] Furthermore, if the Minister can demonstrate that he in fact mailed the Notice of Assessment to the correct address, the notice is deemed to have been received (see subsection 248(7)) and to have been made (see subsection 244(15) above).
+[10] The Federal Court of Appeal, in 236130 British Columbia Ltd. v. Canada, [2006] F.C.J. No. 1667, made the following comments on the issue:
+20 In my view, it is not necessary in this case to determine whether, despite acknowledging that the procedure in place would have resulted in the reassessments being mailed on time, the Tax Court Judge could hold that the Minister had not discharged his onus. The fact that the reassessments were sent to the wrong address leads to the conclusion that they were not issued at all.
+21 In this respect, I disagree with the appellant’s contention that the error which led to the reassessments being sent to the wrong address is attributable to the respondent and that therefore, it cannot be “laid at the feet of the Minister” (A.G. of Canada v. Bowen, 91 D.T.C. 5594 (FCA) at 5596). As the prescribed tax return form requires, three addresses were given in the respondent’s tax return; a mailing address, an address indicating where the Books and Records are kept, and the head office address. Both the head office and the mailing address were correctly inscribed. However, the reassessments were sent to the Books and Records address, which as noted, did not reflect the proper postal code.
+22 In the end, the reassessments were mailed to the wrong address on both occasions. As was stated in L.B. Scott v. M.N.R. [1960] C.T.C. 402 (Ex. Ct.) (Scott) at p. 417:
+“… it is in my opinion also to be inferred that Parliament never intended that such a notice could be given effectively by the “mailing” of it to the taxpayer at some wrong or fictitious address, and I find nothing in the statute to suggest that a taxpayer should be bound by an assessment or fixed with notice of assessment upon the posting of a notice thereof addressed to him elsewhere than at his actual address or at an address which he has in some manner authorized or adopted as his address for that purpose.”
+23 The appellant argued that all three addresses indicated by the respondent in its tax return are “in some manner authorized or adopted” by it for mailing purposes. This of course ignores the prescribed form which specifically requires a taxpayer to provide an address for mailing purposes. In this case, this address happens to be different from the head office address and the Books and Records address. Obviously the mailing address is the only one authorized and adopted for mailing purposes.
+24 I agree with the respondent that absent an indication to the contrary, the mailing address is the one to which mail is to be sent including the reassessments here in issue. Had the reassessments been mailed to that address rather than the address indicated for Books and Records, they would have been made on time. The error is entirely attributable to the officers of the Minister who when the first Notices were returned failed to verify the respondent’s mailing address by examining the tax returns.
+[11] In the case at bar, the Minister therefore chose to send the Notices of Assessment for the 1997 and 1998 taxation years by mail to the person by whom the return was filed. The Appellant provided his mailing address to the Minister in his tax returns for each of the years in question and later in the Determination of Residency Status form (Form NR73), at the time of the signing of a waiver allowing the Minister to assess the Appellant outside the normal assessment period for the year 1997 and one last time at the time of the sending of Form T1013 dated November 22, 2002. The Notices of Reassessment were therefore not sent to the Appellant’s correct address and, in my opinion, the reassessment process was not completed in accordance with subsection 152(2) of the Act. In other words, the Minister did not abide by the requirements of subsection 152(2) of the Act. This position has been held for a very long time. The Exchequer Court, in Scott v. M.N.R., [1960] C.T.C. 402 interpreted subsection 46(2) of the former version of the Act, the wording of which was the same as subsection 152(2), as follows:
+28. In this view, “the day of … original assessment” referred to in Section 46(4) was in the present case May 28, 1953, and it remains to be considered whether the re-assessment under appeal was made within four years from that day. This, it seems to me, turns on whether what was on May 28, 1957 — which was the last day of the four year period — completed the re-assessment and it raises the question whether the mailing of the notice to the appellant in care of Mr. Wolfe Goodman was a valid discharge of the Minister’s duty to give notice to the appellant and thereby to complete the re-assessment. It was not disputed that Section 46(2), which requires the Minister to send “a notice of assessment to the taxpayer”, applies as well as to a reassessment as to an original assessment. Now, nowhere in the statute is there any express definition of what Parliament intended by the word “send” in Section 46(2), but inferentially from the references in Sections 51(1), 52(1), 57(1) and 58(1) to the “mailing of notice of assessment” and the prescription of times by reference thereto, it would seem apparent that Parliament intended that such notices should be given by post. This, however, being itself an inference from language used in the statute, it is in my opinion also to be inferred that Parliament never intended that such a notice could be given effectively by the “mailing” of it to the taxpayer at some wrong or fictitious address and I find nothing in the statute to suggest that Parliament intended that a taxpayer should be bound by an assessment or fixed with notice of an assessment upon the posting of a notice thereof addressed to him elsewhere than at his actual address or at an address which he has in some manner authorized or adopted as his address for that purpose. Vide Societa Principessa Iolanda Margherita di Savoia (fondata dai Bonitesi), Inc. v. Broderick (1932), 183 N.E. 382, where in a different context Kellogg, J. , speaking for the Court of Appeals of New York, said at page 384:
+When the statute says that the superintendent ‘shall cause said notice to be mailed’ to all creditors ‘whose names appear … upon the books’, we think the intent clear that the notice must be ‘mailed’ with an appropriate address upon the envelope,”
+29. In the present case, the notice of re-assessment which was put in the mail on May 28, 1957, while directed to the appellant, was not directed to his actual address nor was it directed to either of the addresses stated in his 1952 income tax return. Had it been so directed – despite the fact that the appellant no longer lived at the residential address or carried on business at the business address – and even despite the fact that the assessor was aware of these facts – it might well be that in the absence of any act on the part of the appellant to notify the Minister of a change of address, he would be bound by the sending of a notice to either of the addresses so given. That, however, was not done and it is accordingly unnecessary to decide what might have been the effect if the notice had been directed to that address. These, however, were the only addresses which the appellant had indicated to the Department and it is not shown that Mr. Wolfe Goodman or any other person was in fact authorized to receive notices on his behalf. In this situation, while it was open to the appellant to adopt and ratify and thus give effect to the sending of notice to that address as a valid notice to him, he was under no obligation to adopt or ratify it and on the evidence I do not think he ever did so. Nor does it appear that the notice so sent in fact reached him as a result of the mailing of it on May 28, 1957, either in the ordinary course of post, or later. In my opinion, such a mailing or sending was not a valid mailing or sending of the notice within the meaning of Section 46 (2) of the Act, and it follows that the re-assessment was not made within the four year period limited by Section 46(4). Nor, in my opinion, can the requirement of Section 46(2), that a notice of assessment be sent to the taxpayer, be regarded as a directory provision of the Act. Vide Nicholls v. Cummings (1877), 1 S.C.R. 395.
+[12] Is the Appellant precluded from claiming that the reassessment process was not complied with considering that a Notice of Objection was sent? The Minister submits that not only was the Appellant not prejudiced, but that the latter should have clearly raised the issue when he filed his Notice of Objection or before the revocation took effect.
+[13] At paragraph 45 of his Notices of Objection, the Appellant clearly submits that the Minister did not complete the assessment process for the two years in question. For his part, the Minister addressed the issue in his Notice of Confirmation and, more particularly, in his Report on Objection, at paragraph 2 of page 16 by blaming the Appellant for not informing the Minister of his change of address. The Minister was therefore well aware of the reasons supporting the point in question. In my view, the Minister was given sufficient notice and could have easily remedied this oversight by sending the assessment directly to the Appellant in accordance with subsection 152(2) of the Act at the address he had; he did not do so.
+[14] There is no provision in the Act or in the Rules which provides that, by serving a Notice of Objection on the Minister, the Appellant finalizes the assessment process and thereby remedies the Minister’s failure. In the case at bar, it is only by pure chance that the Appellant was informed of the existence of an assessment and the filing of a Notice of Objection was used solely to protect his interest and not to complete the process. If, once aware of a possible assessment, the taxpayer does not object to the assessment because he or she believes that the process is flawed and that he or she is wrong, the taxpayer suffers the consequences. In the case at bar, the Appellant raised the issue in his Notice of Objection and the Minister chose not to send the assessments again using the Appellant’s address. What is more, by waiving the normal reassessment period, the Appellant again in some way informed the Minister that something was amiss despite the presumed sending of the reassessment. In both cases, the Minister did not change his ways.
+[15] The answer to both questions is therefore in the negative. Considering that the Minister never sent the reassessments to the Appellant in a manner consistent with subsection 152(2) of the Act, the reassessments were not made. This therefore brings us back to the dates of the initial assessments made on June 15, 1998, for the 1997 taxation year and November 8, 1999, for the 1998 taxation year, which means that all reassessments were made beyond the normal assessment period unless the Minister can establish any misrepresentation that is attributable to negligence, carelessness or wilful default or the commission of fraud in the tax returns filed by the Appellant, which does not appear to be the case here in the light of his written submissions.
+[16] Each party bears its own costs.
+Signed at Edmundston, New Brunswick, this 20th day of February 2009.
+“François Angers”
+Angers J.
+Translation certified true
+on this 28th day of May 2009.
+François Brunet, Revisor
+CITATION: 2009 TCC 103
+COURT FILE NO.: 2005-315(IT)G
+STYLE OF CAUSE: Harry Burstein v. Her Majesty The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 20, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: February , 2009
+APPEARANCES:
+Counsel for the Appellant:
+André P. Gauthier
+Counsel for the Respondent:
+Bernard Fontaine and
+Chantal Roberge
+COUNSEL OF RECORD:
+For the Appellant:
+Name: André P. Gauthier
+Firm: Heenan Blaikie, S.E.N.C.R.L.
+City: Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

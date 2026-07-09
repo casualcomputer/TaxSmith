@@ -1,0 +1,144 @@
+---
+title: "Blais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99651/index.do"
+last_modified: "2014-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 354"
+citation2: ""
+neutral_citation: "2014 CCI 354"
+decision_date: "2014-11-25"
+language: "fr"
+item_id: "99651"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5222
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:37:23.708000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "84d94b5df44674f32c74c282f4c516535557716c7fd285bf570048c702d483da"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blais c. La Reine
+
+- Citation: 2014 CCI 354
+- Decision date: 2014-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5222, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-25
+Référence neutre
+2014 CCI 354
+Numéro de dossier
+2012-2730(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2730(IT)I
+ENTRE :
+Guy Blais,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appels fixés pour audition le 18 novembre 2014, à Shawinigan (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+Personne n’a comparu
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+JUGEMENT
+Attendu qu’à l’appel de la cause l’appelant qui avait été régulièrement avisé de la date et du lieu de l’audition, était absent;
+Attendu que la demande d’ajournement présentée par l’appelant le 13 novembre 2014 et à laquelle s’opposait l’intimée, a été refusée par le juge en chef de cette Cour, et que l’appelant a été avisé par lettre postée le 14 novembre 2014 du refus de cet ajournement (la coordonatrice des audiences de la Cour n’ayant pu rejoindre l’appelant par téléphone puisque il n’y avait pas de service au numéro de téléphone donné par l’appelant);
+Attendu que personne n’a comparu au nom de l’appelant;
+Attendu qu’une requête verbale a été faite pour demander le rejet des appels;
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004, 2005 et 2006 sont rejetés pour défaut de poursuite;
+Des frais et dépens sont accordés à l’intimée aux termes des articles 10 et suivants des Règles de la Cour canadienne de l’impôt (procédure informelle).
+Signé à Ottawa, Canada, ce 25e jour de novembre 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2014 CCI 354
+Date : 20141125
+Dossier : 2012-2730(IT)I
+ENTRE :
+Guy Blais,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Le 28 juin 2012, l’appelant a logé un avis d’appel à l’encontre de nouvelles cotisations établies pour les années 2004, 2005 et 2006 pour des revenus non déclarés.
+[2] L’appelant y invoque avoir reçu des avances et des prêts d’argent qui ne devraient pas faire partie des revenus additionnels ajoutés par le ministre du Revenu national (ministre), mais n’a jamais fourni de documentation à l’appui de ses prétentions.
+[3] Selon la correspondance au dossier de la Cour, il ressort que l’intimée a à plusieurs reprises tenté de communiquer avec l’appelant.
+[4] Avant de produire sa réponse à l’avis d’appel le 20 août 2012, l’avocat de l’intimée avait demandé à l’appelant la documentation pertinente, ce qui est resté sans réponse.
+[5] Une première audition a été fixée le 25 juin 2013. Avant cette audition, l’avocat de l’intimée a à nouveau tenté de communiquer avec l’appelant deux fois par écrit, de même qu’en laissant plusieurs message téléphoniques, sans jamais de réponse de ce dernier.
+[6] Le jour de l’audition le 25 juin 2013 l’appelant ne se présente pas et le juge Archambault de notre Cour rejette l’appel avec frais de 1 000 $ en faveur de l’intimée. Le jugement est signé le 8 juillet 2013.
+[7] Le 27 décembre 2013, l’appelant fait une requête en annulation de jugement.
+[8] L’intimée s’y oppose par lettre datée du 20 janvier 2014. L’avocat de l’intimée soutient alors que l’appelant ne retourne toujours pas ses appels sauf à deux reprises où l’appelant n’a laissé aucun numéro pour le rejoindre.
+[9] La requête en annulation de jugement est fixée pour audition le 13 mars 2014 et l’appelant ne se présente pas. La requête est rejetée par moi le jour même.
+[10] Le 14 mars 2014, l’appelant se présente en Cour en disant qu’il se trouvait dans la mauvaise salle d’audience la veille. Après avoir écouté ses explications, je lui ai laissé une chance et ai accepté sa requête. J’ai signé une ordonnance le 21 mars 2014 annulant le jugement du 8 juillet 2013 et ai refixé l’appel pour audition le 18 novembre 2014.
+[11] Le 13 novembre 2014, l’appelant fait une demande d’ajournement en invoquant qu’il doit se faire opérer pour la prostate dans les prochaines semaines et joint un billet médical.
+[12] L’avocat de l’intimée s’oppose en soutenant que le billet médical n’indique pas que l’appelant ne peut se présenter à son procès le 18 novembre 2014. De plus, il soutient que l’appelant n’a toujours pas fourni la documentation à l’appui de ses prétentions.
+[13] Le juge en chef de notre Cour refuse la demande d’ajournement et le personnel du greffe de la Cour n’a pas réussi à rejoindre l’appelant au numéro de téléphone donné par celui-ci.
+[14] La lettre l’informant du refus de l’ajournement a été postée le vendredi 14 novembre 2014.
+[15] Je suis d’avis que l’appelant n’a pas pris les moyens nécessaires pour que la Cour puisse l’informer dès que possible du refus par le juge en chef de sa demande d’ajournement, en ne donnant pas le bon numéro de téléphone.
+[16] Le billet médical n’indique pas que l’appelant n’était pas apte à se présenter en cour le 18 novembre 2014.
+[17] Ce dossier est ouvert depuis plus de deux ans et l’appelant a démontré un manque d’intérêt et une insouciance face à son appel devant la Cour. L’appelant a fait défaut de retourner les appels au procureur de l’intimée, de collaborer avec l’intimée quant à la documentation requise aux fins de possiblement régler ce dossier, a donné un mauvais numéro de téléphone à la Cour et ne s’est pas présenté le jour fixé une deuxième fois pour audition.
+[18] J’estime donc que les appels doivent être rejetés pour défaut de poursuite avec frais et dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2014.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE :
+2014 CCI 354
+Nº DU DOSSIER DE LA COUR :
+2012-2730(IT)I
+INTITULÉ DE LA CAUSE :
+Guy Blais ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Shawinigan (Québec)
+DATE DE L’AUDIENCE :
+Le 18 novembre 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 25 novembre 2014
+COMPARUTIONS :
+Pour l’appelant :
+Personne n’a comparu
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+AVOCAT INSCRIT AU DOSSIER :
+Pour :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

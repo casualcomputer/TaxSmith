@@ -1,0 +1,259 @@
+---
+title: "729658 Alberta Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26222/index.do"
+last_modified: "2004-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 474"
+citation2: ""
+neutral_citation: "2004 CCI 474"
+decision_date: "2004-06-29"
+language: "fr"
+item_id: "26222"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4019
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:16:25.059000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4261741ad646627c8e13969d700846ce72ed2d40ff581ba832140b7d5c0ae007"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 729658 Alberta Ltd. v. The Queen
+
+- Citation: 2004 CCI 474
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4019, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+729658 Alberta Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-29
+Référence neutre
+2004 CCI 474
+Numéro de dossier
+2003-194(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-194(IT)G
+ENTRE :
+729658 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Calgary (Alberta), le 11 mai 2004.
+Devant : L'honorable J.M. Woods, juge
+Comparutions :
+Avocat de l'appelante :
+Me H. George McKenzie, c.r.
+Avocats de l'intimée :
+Mes Jon Gilbert et Carla Lamash
+____________________________________________________________________
+JUGEMENT
+L'appel concernant une nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu est admis et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation pour le motif que la déduction prévue au paragraphe 112(1) s'applique au plein montant des dividendes, de 1 932 802 $, payés par Comcare Ltd. à l'appelante et que le paragraphe 55(2) ne s'applique pas de façon qu'une partie de ces dividendes soit réputée constituer le produit d'une disposition ou un gain.
+L'appelante a droit à ses frais.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour de février 2005.
+Jacques Deschênes, traducteur
+Dossier : 2003-195(IT)G
+ENTRE :
+729656 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Calgary (Alberta), le 11 mai 2004.
+Devant : L'honorable J.M. Woods, juge
+Comparutions :
+Avocat de l'appelante :
+Me H. George McKenzie, c.r.
+Avocats de l'intimée :
+Mes Jon Gilbert et Carla Lamash
+____________________________________________________________________
+JUGEMENT
+L'appel concernant une nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu est admis et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation pour le motif que la déduction prévue au paragraphe 112(1) s'applique aux dividendes, de 1 834 065 $, payés par Comcare Ltd. à l'appelante et que le paragraphe 55(2) ne s'applique pas de façon qu'une partie de ces dividendes soit réputée constituer le produit d'une disposition ou un gain.
+L'appelante a droit à ses frais.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour de février 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI474
+Date : 20040629
+Dossier : 2003-194(IT)G
+ENTRE :
+729658 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2003-195(IT)G
+ET ENTRE :
+729656 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Les appelantes 729656 Alberta Ltd. et 729658 Alberta Ltd. ont fait l'objet de nouvelles cotisations conformément au paragraphe 55(2) de la Loi de l'impôt sur le revenu à l'égard des dividendes qu'elles ont reçus dans le cadre d'une série d'opérations destinées à leur permettre d'extraire un soi-disant « revenu protégé » sur la base d'un report d'impôt avant la vente d'actions entre personnes sans lien de dépendance. L'expression « revenu protégé » est communément utilisée afin de décrire le montant d'un revenu de société qui peut être extrait au moyen de dividendes libres d'impôt accordés entre sociétés sans être requalifié à titre de gain en capital en vertu du paragraphe 55(2).
+[2] La question précise qui se pose dans ces appels se rapporte à la façon de déterminer le « revenu protégé » si les dividendes sont reçus par une société à l'égard d'actions qui ont été acquises à la suite d'un transfert partiel libre d'impôt en vertu du paragraphe 85(1) de la Loi. La Couronne fait valoir que le revenu protégé devrait être réparti au prorata si un gain accumulé est partiellement réalisé par le cédant en vertu du paragraphe 85(1). Les appelantes soutiennent de leur côté qu'il n'est pas raisonnable de répartir un revenu protégé au prorata eu égard aux faits qui leur sont propres parce que les opérations ne vont pas à l'encontre de l'objet et de l'esprit du paragraphe 55(2).
+Aperçu concernant le paragraphe 55(2)
+[3] Le paragraphe 55(2) est une disposition anti-évitement qui a été présentée dans le budget fédéral de 1979. Au moment de la présentation de cette disposition, le gouvernement s'inquiétait de ce que les contribuables concluent des opérations ayant pour effet de diminuer indûment les gains en capital réalisés au moment de la vente d'actions en convertissant le produit de la disposition en dividendes libres d'impôt entre sociétés.
+[4] La partie pertinente du paragraphe 55(2) est ainsi libellée :
+[...] dont l'un des objets [...] a été de diminuer sensiblement la partie du gain en capital qui, sans le dividende, aurait été réalisée lors d'une disposition d'une action du capital-actions à la juste valeur marchande immédiatement avant le dividende et qu'il serait raisonnable de considérer comme étant attribuable à autre chose qu'un revenu gagné ou réalisé par une société après 1971 et avant le moment de détermination du revenu protégé quant à l'opération, à l'événement ou à la série, [...]
+(Je souligne)
+[5] L'objet législatif ne ressort pas d'une façon évidente du libellé du paragraphe 55(2). Toutefois, il a été décrit par le gouvernement au moment où la disposition en question a été présentée. Cet objet a succinctement été décrit par le juge Noël dans l'arrêt Kruco Inc. v. R., [2003] 4 C.T.C. 185 (C.A.F.) :
+Il s=agissait de s=assurer que le gain en capital inhérent aux actions d=une corporation, attribuable à une plus-value non réalisée des actifs sous-jacents de la corporation depuis 1971 ne fasse pas l=objet d=un évitement par l=utilisation des dividendes non imposables versés à une société (paragraphe 112(1)). Parallèlement, le Parlement ne voulait pas freiner le flux de dividendes exemptés d=impôt attribuables à des revenus déjà imposés.
+[...]
+Théoriquement, cette méthode permet de dégager l=impôt applicable à la portion du gain fictif attribuable à la plus-value des actifs sous-jacents tout en maintenant le régime d=exonération pour la partie du gain attribuable à un * revenu gagné ou réalisé + depuis 1971.
+Les faits
+[6] Les faits ne sont pas contestés; ils ont été énoncés au moyen d'exposés conjoints. Un résumé des faits pertinents, fondé sur les observations écrites soumises pour le compte des appelantes, est joint à l'annexe de ces motifs.
+[7] Avant que les opérations en cause aient été conclues, Ronald Lauterstein et Lewis Nickerson possédaient chacun 50 p. 100 des actions de Comcare Ltd., une société privée sous contrôle canadien. Le 28 mai 1997, les actions de Comcare ont été vendues à un acheteur sans lien de dépendance. Au cours de la semaine qui a précédé la vente des actions, MM. Lauterstein et Nickerson ont conclu une série d'opérations[1] qui étaient en partie destinées à leur permettre de reporter l'impôt sur le montant du « revenu protégé » attribuable à leurs actions.
+[8] Avant la conclusion de la série d'opérations, la juste valeur marchande des actions de Comcare appartenant à chaque particulier était de 12 429 037 $, le prix de base rajusté étant de 37 600 $. La majeure partie de la valeur représentait donc un gain accumulé. On estimait que le revenu protégé réalisé à l'égard des actions de Comcare à ce moment-là était de 1 932 802 $; ce calcul n'est pas ici en litige.
+[9] Les opérations pertinentes suivantes ont été conclues au cours de la semaine qui a précédé la vente des actions :
+a) un transfert par MM. Lauterstein et Nickerson des actions de Comcare à leurs sociétés de portefeuille (les « appelantes » );
+b) le paiement de dividendes imposables par Comcare aux sociétés de portefeuille, s'élevant en tout à 1 932 802 $; et
+c) la vente des actions de Comcare par chacune des sociétés de portefeuille à un acheteur sans lien de dépendance moyennant une contrepartie en espèces de 10 393 335 $. La contrepartie correspondait à la juste valeur marchande des actions de Comcare avant la série d'opérations, moins le montant des dividendes payés aux sociétés de portefeuille.
+[10] Ces mesures sont habituelles lorsque des opérations sont destinées à permettre d'avoir accès à un revenu protégé et elles n'auraient pas prêté à controverse si les actions de Comcare avaient été transférées aux sociétés de portefeuille à leur prix de base rajusté, de façon que les sociétés de portefeuille bénéficient du gain accumulé au complet (12 391 437 $). Le fait que presque tout le gain accumulé a été réalisé par MM. Lauterstein et Nickerson au moment du transfert a été à l'origine des nouvelles cotisations établies à l'égard de ces opérations. Seule une petite partie du gain accumulé, un montant correspondant au revenu protégé estimatif (1 932 802 $), a été transférée aux sociétés de portefeuille, et ce, au moyen de choix effectués en vertu du paragraphe 85(1), de sorte que le produit réputé de disposition des actions de Comcare pour MM. Lauterstein et Nickerson et le coût réputé des actions de Comcare pour les sociétés de portefeuille était de 10 393 335 $[2].
+[11] Le résultat fiscal envisagé par MM. Lauterstein et Nickerson était que cette série d'opérations devait leur permettre de réaliser des dividendes imposables de 10 393 335 $ (au moment du transfert des actions de Comcare aux sociétés de portefeuille) et permettre aux sociétés de portefeuille d'obtenir de Comcare des dividendes libres d'impôt et de ne réaliser aucun gain au moment de la vente des actions de Comcare. La Couronne n'a pas soutenu que la chose avait pour effet de réduire l'impôt qui aurait été payable si les opérations avaient été conclues d'une façon plus conventionnelle, les sociétés de portefeuille obtenant le plein montant du gain accumulé. Si les sociétés de portefeuille avaient obtenu le plein montant du gain, les particuliers n'auraient pas réalisé de revenu et les sociétés de portefeuille auraient réalisé des gains en capital de 10 393 335 $.
+[12] Le ministre du Revenu national a établi de nouvelles cotisations d'impôt pour les années d'imposition 1997 des sociétés de portefeuille conformément au paragraphe 55(2). Les dividendes reçus par les sociétés de portefeuille ont en partie été requalifiés à titre de produit de disposition et ont été assujettis à l'impôt en tant que gain en capital. Le ministre a pris la position selon laquelle le revenu protégé qui était attribuable aux actions de Comcare entre les mains des particuliers, lequel comme on l'a admis s'élevait à 1 932 802 $, aurait dû être réparti au prorata lorsque les actions ont été transférées aux sociétés de portefeuille. Le gain accumulé qui a fait l'objet d'un transfert libre d'impôt en faveur des sociétés de portefeuille (1 932 802 $) représentait environ le sixième du plein montant du gain accumulé (12 391 437 $) et le ministre a conclu que le sixième seulement du revenu protégé devait être obtenu par les sociétés de portefeuille. Par conséquent, environ les cinq sixièmes des dividendes ont été requalifiés à titre de produit de disposition conformément au paragraphe 55(2).
+Le point litigieux
+[13] La question à trancher est de savoir si une partie proportionnelle des dividendes reçus par les sociétés de portefeuille doit être requalifiée à titre de produit de disposition conformément au paragraphe 55(2)[3].
+Position des parties
+[14] Selon la position prise par la Couronne, lorsqu'il y a transfert en vertu du paragraphe 85(1), le revenu protégé doit être réparti au prorata sur la même base que le gain accumulé. Les arguments précis qui ont été soumis à l'appui sont ci-après énoncés :
+a) parce que le revenu protégé qui était attribuable à la partie du gain en capital réalisée au moment du transfert aux sociétés de portefeuille est reflété dans le prix de base rajusté des actions pour les sociétés de portefeuille, il ne devrait pas continuer à être compté en double en tant que revenu protégé;
+b) exiger que le revenu protégé soit réparti au prorata constitue une extension raisonnable des principes d'interprétation du paragraphe 55(2) généralement reconnus;
+c) la position est conforme à l'objet et à l'esprit de la législation, comme le montre l'expression « il serait raisonnable de considérer comme étant attribuable » ;
+d) cette position est conforme à la pratique administrative de l'Agence du revenu du Canada; et
+e) cette position a été reconnue dans les publications fiscales.
+[15] D'autre part, les appelantes font valoir qu'étant donné que les opérations étaient destinées à permettre le report d'impôt relatif au revenu qui était assujetti à l'impôt entre les mains de Comcare, il n'existe pas de fondement raisonnable permettant de rejeter ce résultat puisqu'il est conforme à l'objet de la Loi.
+[16] Les parties ont également présenté des arguments au sujet de la position qui devrait l'emporter s'il était conclu que les deux positions sont raisonnables. La Couronne affirme que sa position l'emporte sur la position des appelantes et que le paragraphe 55(2) devrait s'appliquer dans ce cas-ci : Nassau Walnut Investments Inc. v. R.,[1998] 1 C.T.C. 33 (C.A.F.) et Brelco Drilling Ltd. v. R., [1999] 3 C.T.C. 95 (C.A.F.). Les appelantes affirment de leur côté que ces arrêts ne sont pas pertinents eu égard aux faits de l'espèce et qu'il faut résoudre toute ambiguïté en faveur du contribuable : Johns-Manville Canada Inc. v. R., [1985] 2 C.T.C. 111 (C.S.C.).
+Analyse
+[17] Ces appels se rapportent à la façon dont un gain accumulé doit être réparti entre le « revenu gagné ou réalisé » et la « plus-value non réalisée des actifs sous-jacents » . La réponse dépend du sens de l'expression « il serait raisonnable de considérer comme étant attribuable » .
+[18] Il arrive souvent que lorsqu'une disposition de la Loi exige qu'une chose soit répartie d'une façon raisonnable, la répartition selon une moyenne ou au prorata constitue le fondement le plus logique aux fins de la répartition. Or, je ne suis pas convaincue qu'il convienne de procéder ainsi en l'espèce. À mon avis, le mot « raisonnable » dans le contexte de cette disposition anti-évitement laisse entendre que le gain accumulé doit être réparti compte tenu des circonstances particulières de l'affaire en vue de contrer le méfait que l'on cherchait à corriger. Telle est l'approche que l'on a généralement adoptée en interprétant cette disposition.
+[19] En interprétant l'expression « il serait raisonnable de considérer comme étant attribuable » , on n'a jamais donné à entendre qu'un gain accumulé doit généralement être réparti au prorata entre le « revenu gagné ou réalisé » et la « plus-value non réalisée des actifs sous-jacents » . L'approche reconnue est que le gain est d'abord attribué au « revenu gagné ou réalisé » ; ce n'est que dans le cas où les dividendes excèdent ce montant que le gain est attribué à la « plus-value non réalisée des actifs sous-jacents » . Il n'y a rien dans la loi qui donne à entendre qu'il faut procéder dans cet ordre, mais il est crucial de le faire pour que le paragraphe 55(2) atteigne l'objectif législatif. Je note la chose parce qu'elle montre que le législateur voulait que le paragraphe 55(2) soit interprété compte tenu du contexte. Je tiens également à faire remarquer que la soi-disant approche contextuelle a été approuvée par Revenu Canada lorsque le paragraphe 55(2) a d'abord été présenté. Dans les règles dites de Robertson publiées lors des travaux de la conférence annuelle de 1981 de l'Association canadienne d'études fiscales, Revenu Canada a tenté de donner aux conseillers fiscaux des lignes de conduite au sujet des modalités d'interprétation de la nouvelle disposition. Voici ce que M. Robertson a dit :
+[TRADUCTION]
+[...] Le paragraphe 55(2) est destiné à s'appliquer uniquement aux cas de fraude fiscale réelle; le bon sens doit l'emporter.
+[20] Le méfait que le paragraphe 55(2) vise à corriger est clairement décrit dans le budget fédéral de 1979, où cette disposition était présentée. À cause de son importance dans ces appels, je reproduis le passage pertinent en entier :
+D'importantes dispositions seront instaurées pour clarifier et renforcer l'esprit des mesures visant à prévenir une diminution artificielle ou indue des gains en capital.
+Certains ont formulé des doutes sur la portée législative et le champ d'application de ces dispositions. Un certain nombre de régimes ont été mis en place pour permettre à une société d'extraire, avant certaines ventes d'actions, ce qui constitue essentiellement le produit de la vente sous forme de dividendes versés entre sociétés en franchise d'impôt ou de dividendes réputés versés et touchés, afin de diminuer suffisamment la valeur - ou augmenter le coût de base - des actions pour éviter l'impôt sur les gains en capital. Ces dividendes, qui dépassent souvent les gains de la société à vendre, sont habituellement motivés uniquement par le désir du vendeur d'éviter l'impôt sur les gains en capital.
+En règle générale, dans la plupart des ventes d'actions entre sociétés sans lien de dépendance - et, dans certains cas, avec lien de dépendance - un gain en capital doit apparaître au moins dans la mesure où le produit de la vente reflète la hausse non réalisée et non imposée, depuis 1971, de la valeur des actifs correspondants. Cette règle est généralement respectée quand les versements de dividendes en franchise d'impôt sont limités aux bénéfices non distribués et imposés, postérieurs à 1971.
+Des changements clarifieront l'esprit de la loi à cet égard en précisant que, lorsqu'on peut raisonnablement considérer que l'une des principales raisons d'un dividende versé en franchise d'impôt entre sociétés est de réduire le produit de la disposition d'une action, le gain en capital autrement déterminé sera rajusté dans la mesure où les dividendes globaux en franchise d'impôt dépassent les gains non distribués et imposés, postérieurs à 1971.
+[21] Quant aux circonstances dans lesquelles ces appels s'inscrivent, les appelantes affirment qu'on ne s'est soustrait à aucun impôt et que les dividendes reçus par les sociétés de portefeuille n'excèdent pas ce que prévoit l'objet législatif. Je suis d'accord. La série d'opérations était destinée à permettre d'extraire, au moyen de dividendes libres d'impôt, le « revenu gagné ou réalisé » par Comcare qui a contribué à la réalisation du gain accumulé. La chose n'est pas contestée. Les opérations ont également entraîné le paiement d'un impôt sur la plus-value non imposée des actifs sous-jacents de Comcare. MM. Lauterstein et Nickerson ont réalisé ce revenu sous la forme de dividendes imposables. La Couronne n'a pas soutenu qu'il y avait eu fuite fiscale du fait que cet impôt était payé par MM. Lauterstein et Nickerson plutôt que par les sociétés de portefeuille ou du fait que le gain était réalisé sous la forme de dividendes plutôt que d'un gain en capital. Le montant de l'impôt qui a été payé semble donc être celui que le législateur envisageait.
+[22] Si la position de la Couronne est exacte, et s'il faut effectuer une répartition au prorata, le « revenu gagné ou réalisé » par Comcare ne serait pas distribué sous la forme de dividendes entre sociétés libres d'impôt. La répartition au prorata entraînerait le résultat suivant : MM. Lauterstein et Nickerson réaliseraient un revenu correspondant à la plus-value non imposée des actifs de Comcare et les sociétés de portefeuille réaliseraient des gains en capital correspondant aux cinq sixièmes du « revenu gagné ou réalisé » de Comcare. Je conclus donc que la position de la Couronne n'est pas conforme à l'objet de la Loi. Par conséquent, si l'on donne au paragraphe 55(2) une interprétation téléologique conformément à son objet et à son esprit, la répartition effectuée par les appelantes est raisonnable et la répartition proposée par la Couronne ne l'est pas.
+[23] La position de la Couronne semble être que l'expression « il serait raisonnable de considérer comme étant attribuable » ne permet pas cette interprétation téléologique et exige une répartition au prorata. À plusieurs reprises au cours de l'argumentation, l'avocat de la Couronne a fait valoir que son interprétation était une interprétation technique plutôt qu'une interprétation résultant de la fraude fiscale alléguée dans ce cas-ci. J'examinerai maintenant les arguments précis de la Couronne.
+[24] Compte en double - La Couronne soutient que le revenu protégé est en partie reflété dans le prix de base rajusté des actions pour les sociétés de portefeuille et qu'il ne devrait pas continuer à être compté en double en tant que revenu protégé. Tel semble être le principal argument de la Couronne; mais le problème qui se pose selon moi est le suivant : si le revenu protégé est en partie reflété dans le prix de base rajusté des actions, comme le soutient la Couronne, le revenu protégé a été en partie attribué au gain qui a été réalisé par MM. Lauterstein et Nickerson. Telle est la véritable question en litige. Si le revenu protégé est entièrement attribué au gain accumulé obtenu par les sociétés de portefeuille, comme les appelantes le soutiennent, il n'y a pas de « compte en double » .
+[25] Application des principes reconnus - La Couronne fait valoir que son interprétation constitue une extension raisonnable de deux principes largement reconnus applicables à l'interprétation du paragraphe 55(2). Le premier principe, que la Couronne a appelé le « principe de la période de détention » , est que le « revenu » n'est attribuable au gain que s'il est gagné pendant la période où les actions ont été détenues, c'est-à-dire la période pendant laquelle le gain s'est accumulé. Le second principe, que la Couronne a appelé le « principe du transfert libre d'impôt » , est que le revenu protégé est transmis au moyen du transfert libre d'impôt prévu au paragraphe 85(1) dans le cadre duquel le cessionnaire obtient le gain du cédant.
+[26] Je ne suis pas d'accord pour dire que la position de la Couronne en l'espèce constitue une extension juste de ces interprétations reconnues. Le « principe de la période de détention » et le « principe du transfert libre d'impôt » sont conformes à l'objet de la Loi tel qu'il est énoncé dans les documents budgétaires susmentionnés, mais la position de la Couronne en l'espèce n'est pas conforme à cet objet.
+[27] L'objet de la Loi - La Couronne soutient que son interprétation est conforme à l'objet de la Loi. Selon l'argument invoqué, l'objet et l'esprit de la législation permettent le report d'impôt uniquement s'il est raisonnable d'attribuer les dividendes au revenu. Cet argument est défectueux en ce sens qu'il suscite également une question. La question essentielle à trancher est de savoir quelle est la façon raisonnable d'attribuer le gain au « revenu » et à « autre chose » .
+[28] Cet argument peut avoir un certain fondement si l'expression « il est raisonnable de considérer comme étant attribuable » sous-entend la répartition selon une moyenne ou au prorata. Toutefois, cela n'est pas le cas. Le Canadian Oxford Dictionary définit les mots « reasonable » (raisonnable) et « attribute » (attribuer) comme suit :
+[TRADUCTION]
+raisonnable 1 qui a un bon jugement; modéré; prêt à entendre raison. 2 conforme à la raison; non absurde. 3a dans les limites de la raison; juste, modéré (une demande raisonnable). b peu coûteux; modique. c acceptable, moyen (la nourriture est acceptable).
+attribuer 1 considérer comme appartenant ou propre à (un poème attribué à Shakespeare) 2 allouer; considérer comme l'effet d'une cause énoncée (les retards ont été attribués à la circulation intense). 1a qualité imputée à une personne ou à une chose. b qualité particulière 2a objet matériel reconnu comme propre à une personne, à une charge ou à une qualité (un sceptre est un attribut de la royauté). 3 gramm. adjectif ou nom attribut.
+Ces définitions donnent à entendre que la répartition doit être juste et modérée. Elles n'exigent pas qu'il y ait répartition selon une moyenne ou au prorata.
+[29] Pratique administrative - La Couronne fait valoir que son interprétation est conforme à la pratique administrative. Elle a mentionné l'exposé d'un fonctionnaire de l'Agence du revenu du Canada lors d'une conférence fiscale régionale de l'Association canadienne d'études fiscales, lequel donne à entendre qu'il doit y avoir répartition au prorata d'un revenu protégé si les actions sont transférées à une société de portefeuille sur la base d'un report partiel d'impôt afin de cristalliser l'exemption relative aux gains en capital.
+[30] La pratique administrative dont la Couronne a fait mention ne s'applique pas aux faits de l'espèce. L'énoncé de l'Agence du revenu du Canada s'applique lorsque l'on procède à un transfert libre d'impôt partiel en vertu du paragraphe 85(1) pour tirer parti de l'exemption relative aux gains en capital. Il n'est pas nécessaire d'exprimer une opinion au sujet de cette pratique administrative. Les faits de l'espèce sont passablement différents de ceux qui étaient envisagés par l'Agence du revenu du Canada.
+[31] Publications fiscales - La Couronne fait valoir que sa position est étayée par les publications fiscales : Ton-That et Sider, Understanding Section 55 and Butterfly Transactions[4]. Le passage pertinent est ainsi libellé (à la page 48) :
+[TRADUCTION]
+Toutefois, en l'absence d'un transfert libre d'impôt complet, il se peut que le revenu protégé soit en partie perdu. Si le montant choisi est de 500 000 $, le gain qui est transmis aux actions de Holdco est de 500 000 $ plutôt que d'un million de dollars. Il semble raisonnable que seul un montant de 300 000 $ sur ce gain soit attribuable au revenu protégé. Lors du transfert, un gain de 500 000 $ a été réalisé. Rien n'étaye l'argument selon lequel le gain réalisé a d'abord été tiré de la partie du gain d'un million de dollars qui était attribuable à autre chose qu'au revenu protégé. Il est plus raisonnable de dire que 60 p. 100 du gain réalisé était attribuable au revenu protégé et que 40 p. 100 du gain était attribuable à autre chose.
+Ce commentaire doit être lu dans le contexte qui s'impose - il s'agit d'un bref passage d'un livre de 350 pages. Les opinions des experts en fiscalité doivent être minutieusement prises en considération, mais MM. Ton-That et Sider ne précisent pas les arguments dont ils ont tenu compte en arrivant à cette conclusion. À mon avis, ce passage n'aide pas vraiment la Couronne.
+Conclusion
+[32] Je conclus que l'interprétation du paragraphe 55(2) préconisée par les appelantes est raisonnable eu égard aux circonstances de l'espèce, alors que l'interprétation donnée par la Couronne ne l'est pas. Cela étant, il n'est pas nécessaire d'examiner les arguments concernant l'approche qu'il conviendrait d'adopter si les deux interprétations étaient raisonnables.
+[33] Les appels seront admis et les nouvelles cotisations seront déférées au ministre pour qu'il établisse une nouvelle cotisation compte tenu du fait que les dividendes imposables versés à 729656 Alberta Ltd. en sus de la somme de 98 737 $ et le total des dividendes imposables versés à 729658 Alberta Ltd. ne devraient pas être requalifiés en vertu du paragraphe 55(2).
+[33] Les appelantes ont droit à leurs frais.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour de février 2005.
+Jacques Deschênes, traducteur
+ANNEXE A
+[TRADUCTION]
+Résumé des faits pertinents
+1. MM. Nickerson et Lauterstein, deux particuliers non liés, possédaient chacun 50 p. 100 des actions de Comcare Limited, une société privée sous contrôle canadien.
+2. Le prix de base rajusté des actions de Comcare détenues par M. Lauterstein était de 37 600 $, leur juste valeur marchande était de 12 429 037 $ et le gain en capital inhérent était de 12 391 437 $. Le « revenu protégé » attribuable aux actions détenues par M. Lauterstein juste avant la conclusion de la série d'opérations était de 1 932 802 $ et le compte « dividende en capital » s'élevait à 102 900 $.
+3. Le prix de base rajusté des actions de Comcare détenues par M. Nickerson était de 37 600 $, leur juste valeur marchande était de 12 429 037 $ et le gain en capital inhérent était de 12 391 437 $. Le « revenu protégé » attribuable aux actions détenues par M. Nickerson juste avant la conclusion de la série d'opérations était de 1 834 065 $ et le compte « dividende en capital » s'élevait à 102 900 $.
+4. Pendant la semaine qui a précédé la vente des actions de Comcare dont ils étaient propriétaires, MM. Lauterstein et Nickerson ont conclu les opérations suivantes :
+a) la vente par M. Lauterstein des actions ordinaires de Comcare dont celui-ci était propriétaire à 729658 Alberta Ltd. ( « 658 » ), une société lui appartenant à cent pour cent, en contrepartie de l'émission d'un billet d'un montant de 10 393 335 $ et de 2 035 702 actions ordinaires de 658;
+b) la vente par M. Nickerson des actions ordinaires de Comcare dont celui-ci était propriétaire à 729656 Alberta Ltd. ( « 656 » ), une société lui appartenant à cent pour cent, en contrepartie de l'émission d'un billet d'un montant de 10 393 335 $ et de 2 035 702 actions ordinaires de 656; et
+c) avec les sociétés de portefeuille, des choix ont été effectués en vertu du paragraphe 85(1) de la Loi, le montant de 10 393 335 $ étant choisi comme « montant convenu » pour l'application de la Loi.
+5. Par suite des opérations susmentionnées, MM. Lauterstein et Nickerson ont chacun réalisé des dividendes imposables d'un montant de 10 355 735 $ (probablement en vertu de l'article 84.1) et le prix de base rajusté des actions de Comcare pour chacune des sociétés 656 et 658 était de 10 393 335 $. Le prix de base rajusté pour MM. Lauterstein et Nickerson des 2 035 702 actions ordinaires des sociétés 658 et 656 dont ils étaient respectivement propriétaires était nul.
+6. Comcare a versé comme suit à chacune des sociétés 658 et 656 une série de dividendes s'élevant en tout à 2 035 702 $ :
+a) dividendes imposables 1 932 802 $
+b) dividendes en capital non imposables 102 900 $
+Montant total des dividendes 2 035 702 $
+7. Les dividendes ont été versés sous la forme de dividendes sur le capital-actions et les actions ont été rachetées moyennant un paiement effectué en espèces peu de temps après avoir été émises.
+8. Le 28 mai 1997, les sociétés 658 et 656 ont chacune vendu les actions ordinaires de Comcare dont elles étaient propriétaires pour la somme de 10 393 335 $, soit un montant correspondant au prix de base rajusté des actions de Comcare dont elles étaient respectivement propriétaires. L'acheteur était 3358755 Canada Ltd., une société n'ayant aucun lien de dépendance avec MM. Lauterstein et Nickerson.
+9. En déclarant les opérations aux fins de l'impôt sur le revenu, MM. Lauterstein et Nickerson ont chacun déclaré des dividendes imposables de 10 393 335 $. Les sociétés 658 et 656 ont déclaré les dividendes reçus de Comcare comme étant libres d'impôt et n'ont pas déclaré de gain sur la vente des actions.
+RÉFÉRENCE :
+2004CCI474
+Nos DES DOSSIERS DE
+LA COUR :
+2003-194(IT)G et 2003-195(IT)G
+INTITULÉ :
+729658 Alberta Ltd. c. La Reine
+729656 Alberta Ltd. c. La Reine
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+Le 11 mai 2004
+MOTIFS DU JUGEMENT :
+L'honorable J.M. Woods
+DATE DU JUGEMENT :
+Le 29 juin 2004
+COMPARUTIONS :
+Avocat des appelantes :
+Me H. George McKenzie, c.r.
+Avocats de l'intimée :
+Mes Jon Gilbert et Carla Lamash
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+H. George McKenzie, c.r.
+Cabinet :
+Felesky, Flynn
+Calgary (Alberta)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1]
+L'avocat des appelantes a pris la position selon laquelle ces opérations ne constituaient pas une série d'opérations, mais ni l'une ni l'autre partie n'a soutenu que le sens de l'expression « série d'opérations » était pertinent en l'espèce. À des fins de référence seulement, je désignerai les opérations qui ont été conclues avant la vente des actions entre parties sans lien de dépendance comme étant une « série d'opérations » .
+[2] On ne m'a soumis aucun élément de preuve en vue d'expliquer pourquoi les opérations avaient été organisées de cette façon. Dans son argumentation, l'avocat des appelantes a fait savoir qu'il croyait que la chose était attribuable à une question fiscale qui s'était posée aux États­Unis parce que l'un des propriétaires était citoyen américain.
+[3] M. Nickerson reconnaît qu'une petite partie des dividendes versés à sa société de portefeuille devrait être requalifiée à titre de produit de disposition en vertu du paragraphe 55(2) parce que le revenu protégé attribuable à ses actions était moins élevé. Le montant qui, comme les parties en ont convenu, devrait être requalifié comme un gain en capital s'élève à 98 737 $. Pour plus de simplicité, je ne parlerai pas de cet écart dans les présents motifs et j'utiliserai les chiffres applicables à M. Lauterstein. Je n'ai pas non plus tenu compte dans ces motifs d'un montant peu important versé au titre des dividendes à l'aide du compte « dividende en capital » , qui n'est pas ici en litige.
+[4] La Couronne a également fait référence à l'ouvrage de Kellough et McQuillan, Taxation of Private Corporations and Their Shareholders, à la rédaction duquel MM. Ton-That et Sider ont collaboré et les passages pertinents sont identiques.

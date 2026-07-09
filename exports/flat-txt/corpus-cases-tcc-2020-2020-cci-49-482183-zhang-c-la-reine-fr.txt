@@ -1,0 +1,220 @@
+Title: Zhang c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/482183/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-49-482183-zhang-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-07-07
+
+# Zhang c. La Reine
+
+- Citation: 2020 CCI 49
+- Decision date: 2020-07-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4582, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-07
+Référence neutre
+2020 CCI 49
+Numéro de dossier
+2016-3976(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3976(IT)I
+ENTRE :
+MEI ZHEN ZHANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 septembre 2019, à Toronto (Ontario)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Alexander Hinds
+Mitchell Meraw (stagiaire)
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie aux termes de la Loi de l’impôt sur le revenu pour l’année d’imposition 2012 de l’appelante est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2020.
+« Susan Wong »
+La juge Wong
+Référence : 2020 CCI 49
+Date : 20200707
+Dossier : 2016-3976(IT)I
+ENTRE :
+MEI ZHEN ZHANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+I. Introduction
+[1] L’appelante, Mei Zhen Zhang, interjette appel de la nouvelle cotisation établie par le ministre du Revenu national le 6 mars 2014 à l’égard de son année d’imposition 2012.
+[2] L’appelante a témoigné en son nom propre et a appelé son comptable Donald Y. Chen comme témoin. L’intimée n’a pas appelé de témoins à l’audience et a déposé une déclaration sous serment de Ratmono (Joe) Thejo, agent des litiges de l’Agence du revenu du Canada (Agence), le 4 septembre 2019. Notre Cour a accepté la preuve par affidavit déposée aux termes de l’article 244 de la Loi sur l’impôt sur le revenu. L’audience a été menée avec l’aide d’un interprète de langue mandarine.
+[3] Cette audience a été menée de novo à la suite d’une déclaration d’un vice de procédure par un autre juge le 15 décembre 2017.
+II. Questions en litige
+[4] Le ministre a établi une nouvelle cotisation pour l’année d’imposition 2012 de l’appelante de façon à :
+a) inclure les revenus non déclarés de 27 497 $;
+b) imposer une pénalité en application du paragraphe 163(1) pour défaut répété de déclaration de revenus.
+[5] Le montant des revenus non déclarés se compose de ce qui suit :
+Reçu de
+Somme
+Détails
+Homelife Gold Pacific Realty Inc.
+27 236 $
+T4A — Autres revenus
+Fonds du marché monétaire américain RBC
+25 $
+T3 — Autres revenus
+Portefeuille prudence élevée sélect RBC
+102 $
+T3 — Autres revenus
+Portefeuille prudence élevée sélect RBC
+42 $
+T3 — Gains en capital nets
+Portefeuille prudence élevée sélect RBC
+49 $
+T3 —Revenu de dividendes
+Portefeuille prudence élevée sélect RBC
+43 $
+T3 —Revenu d’intérêts
+TOTAL
+27 497 $
+[Réponse à l’avis d’appel au paragraphe 5]
+[6] La pénalité prévue au paragraphe 163(1) a été imposée sur le montant total des revenus non déclarés, soit 27 497 $.
+III. Contexte factuel
+[7] Notre Cour a admis en preuve une copie de la transcription de l’audience du 15 décembre 2017 [Pièce R-1] au moyen du pouvoir discrétionnaire prévu au paragraphe 18.15(3) de la Loi sur la Cour canadienne de l’impôt. Toutefois, étant donné que la présente audience est menée de novo, je ne fonderai pas ma conclusion sur les témoignages entendus lors de la première audience.
+[8] Utilisant le même pouvoir discrétionnaire en vertu du paragraphe 18.15(3), notre Cour a également admis en preuve une déclaration sous serment de l’appelante datée du 5 septembre 2019 [pièce A-1]. Il existe quelques copies de la correspondance entre le ministre et l’appelante ou son comptable, M. Chen. Bien que ces documents soient des ouï-dire, leur effet préjudiciable sur l’intimée est très faible puisque le ministre participait à ces communications.
+[9] L’appelante est une esthéticienne. Elle a témoigné avoir acheté quatre unités de condominium au 375, rue King Ouest à Toronto vers 2007 ou 2008, et que ces achats ont été conclus vers 2012. Elle a déclaré que ces unités avaient été achetées environ trois ans avant qu’elle crée une société dans l’intention de les louer.
+[10] L’appelante a témoigné qu’elle avait eu recours aux services d’un agent immobilier de Homelife Gold Pacific Realty Inc. (« Homelife ») pour effectuer les quatre achats de condominiums. En contre-interrogatoire, elle a déclaré que l’agent immobilier avait indiqué qu’il lui verserait une somme d’argent en échange de l’achat des propriétés par son intermédiaire.
+[11] Elle a témoigné qu’elle a fait pression sur l’agent immobilier pour obtenir ce paiement pendant environ un an, après quoi elle a reçu 27 236 dollars de sa part ou de celle de Homelife (le « paiement de Homelife »). Elle a déclaré qu’il n’avait pas indiqué qu’il produirait un feuillet T4A concernant le paiement. L’appelante a également déclaré qu’à la réception du paiement et du feuillet T4A subséquent, elle n’a pas déclaré la somme dans sa déclaration de revenus.
+[12] Elle a témoigné qu’à la réception du feuillet T4A, elle a consulté M. Chen qui lui a fait savoir qu’il ne pensait pas que la somme était imposable. Elle a déclaré qu’elle faisait confiance à M. Chen, qui a préparé sa déclaration d’impôts 2012 et qu’elle a examiné sa déclaration avant de la produire.
+[13] Elle a affirmé avoir parlé à M. Chen lorsqu’elle a reçu une lettre de l’Agence indiquant qu’elle devait de l’impôt sur ce paiement parce qu’elle estimait que la somme était un don et n’était pas imposable. En contre-interrogatoire, elle a déclaré qu’elle pensait que Homelife avait produit le feuillet T4A par erreur et qu’elle avait essayé de les joindre à plusieurs reprises sans succès.
+[14] En ce qui concerne le solde du montant de revenu non déclaré de 261 $ pour 2012, l’appelante a déclaré qu’elle n’était pas sûre s’il s’agissait de son omission ou de celle de M. Chen. Elle a déclaré qu’il s’agissait d’une somme si peu élevée qu’elle n’en avait probablement pas eu connaissance.
+[15] En ce qui concerne l’année d’imposition 2011, le ministre a établi une cotisation à l’égard de l’appelant pour des revenus non déclarés totalisant 7 791,96 $ et répartis comme suit :
+Description
+Somme
+Revenu de dividendes
+43,00 $
+Revenu en intérêts
+2 606,00 $
+Autres revenus
+2 853,00 $
+Revenu de gains en capital
+46,00 $
+Paiement de l’impôt étranger sur le revenu non professionnel
+144,96 $
+Revenu étranger net ne provenant pas d’une entreprise
+2 099,00 $
+TOTAL
+7 791,96 $
+[Affidavit de M. Thejo au paragraphe 10]
+[16] Interrogée lors du contre-interrogatoire sur le montant des revenus non déclarés pour 2011, l’appelante a affirmé qu’elle n’avait pas intentionnellement omis de le déclarer.
+[17] M. Chen a témoigné qu’il avait rencontré l’appelante pour la première fois en 2012 par l’intermédiaire d’un agent immobilier nommé George Kung, qui était une connaissance mutuelle et non pas un agent de Homelife. En contre-interrogatoire, M. Chen a déclaré qu’il était devenu le comptable de l’appelante en février 2014 et qu’il n’avait pas préparé sa déclaration de 2012. Il affirme avoir commencé à préparer ses déclarations en 2014 ou 2015.
+[18] Il a déclaré qu’il a d’abord conseillé l’appelante au sujet du feuillet T4A de Homelife vers février 2014, lorsqu’elle a reçu une lettre du programme de Rapprochement T1 de l’Agence [pièce A-1, pièce no 1]. Il a témoigné qu’il aurait pu donner des conseils indirects lorsqu’il a répondu à une demande de M. Kung en 2012 sur les remises sur la commission immobilière.
+IV. Cadre législatif
+[19] Les dispositions législatives les plus pertinentes à l’espèce sont les paragraphes 9(1) et 163(1) de la Loi de l’impôt sur le revenu.
+[20] Le paragraphe 9(1) est la règle générale selon laquelle le revenu d’un contribuable provenant d’une entreprise ou d’un bien au titre d’une année d’imposition donnée est le bénéfice qu’il tire de cette entreprise ou de ce bien pour l’année en question.
+[21] Le paragraphe 163(1) impose une pénalité pour responsabilité stricte lorsqu’un contribuable a omis de déclarer ses revenus pour une année donnée et pour l’une des trois années précédentes, c’est-à-dire que deux années sont prises en considération et que la pénalité est calculée en fonction de la deuxième omission.
+[22] En ce qui concerne l’année d’imposition 2012, la version suivante du paragraphe 163(1) s’applique :
+163 (1) Toute personne qui
+a) ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l’article 150 pour une année d’imposition donnée et
+b) qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d’imposition précédentes
+est passible d’une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d’une pénalité en application du paragraphe (2) sur ce montant.
+[23] Le paragraphe 163(1) a été modifié en 2016 pour les années d’imposition 2014 et suivantes. Cette modification, combinée à l’adoption du paragraphe 163(1.1), prévoit essentiellement un seuil minimal de revenus non déclarés pour les deux années et un seuil supérieur quant au montant de la pénalité qui peut être imposée. La version de la disposition qui s’applique au présent appel ne comporte pas ces seuils.
+V. Analyse
+a) Les sommes visées par la cotisation constituent-elles un revenu?
+[24] Le témoignage de l’appelante concernant les événements qui ont conduit au Homelife Payment a été maigre et difficile à suivre. Elle a qualifié ce paiement de commission occulte, d’avantage et de cadeau. Ces trois termes peuvent entraîner des conséquences fiscales différentes et les éléments de preuve qu’elle a apportés n’étaient pas suffisants pour permettre à notre Cour d’analyser les circonstances et de prendre une décision. Par exemple, aucune preuve n’a été fournie en ce qui concerne les achats de copropriétés, qui sont les transactions donnant lieu au paiement.
+[25] Plus important encore, l’appelante n’a pas appelé l’agent immobilier de Homelife à témoigner et n’a pas non plus fourni à la Cour la preuve qu’elle avait tenté d’assigner cet individu à témoigner. Par conséquent, je tire la conclusion défavorable que si cette personne avait témoigné, son témoignage aurait contredit l’affirmation de l’appelante selon laquelle le paiement n’était pas un revenu.
+[26] En ce qui concerne les 261 $ restants de revenus non déclarés pour 2012, l’appelante n’a présenté aucune preuve.
+[27] Le total de 27 497 $ était composé de six sommes obtenues à partir des feuillets T3 et T4A présentés au ministre par les tiers émetteurs de ces feuillets et je n’ai aucune raison de conclure que ces sommes étaient autre chose qu’un revenu [affidavit de l’appelante, pièce A-1 à la pièce no 1; affidavit de M. Thejo aux paragraphes 14 à 18].
+[28] L’appelante n’a pas réfuté les hypothèses du ministre énoncées au paragraphe 9 de la réponse à l’avis d’appel modifié, ce qui est probablement suffisant pour conclure que la somme totale de 27 497 $ était un revenu pour l’année d’imposition 2012.
+[29] En ce qui concerne le paiement de Homelife, je suis également en mesure de conclure les suivants du témoignage de l’appelante :
+a) le paiement porte sur l’achat par l’appelante de quatre unités en copropriété dans le même immeuble;
+b) l’appelante a acheté ces biens pour une société ou en son nom;
+c) l’appelante est soit propriétaire directe des unités, soit la seule propriétaire de cette société;
+d) les quatre propriétés ont été achetées dans l’intention de les louer.
+[30] En outre, l’appelante a déclaré un revenu locatif net de 1 800 $ pour l’année d’imposition 2012, bien que la source précise ne soit pas claire [affidavit de M. Thejo au paragraphe 12].
+[31] Dans l’arrêt Stewart c. Canada, 2002 CSC 46, paragraphe 50, la Cour suprême du Canada a décrit et établi le test en deux parties suivant pour déterminer si un contribuable a une source de revenus aux fins de l’application de l’article 9 :
+[50] Il est manifeste que, pour que l’art. 9 s’applique, le contribuable doit d’abord déterminer s’il a une source de revenus constituée soit d’une entreprise, soit d’un bien. Comme nous l’avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenus constituée d’un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises ni des sources de revenus constituées d’un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l’existence d’une source :
+(i) L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+[32] Selon le témoignage de l’appelante :
+1) les quatre unités de copropriété ont été achetées en tant que propriétés locatives;
+2) l’appelante avait une participation dans ces biens, soit directement, soit par l’intermédiaire d’une société;
+3) le paiement de Homelife (pour lequel un feuillet T4A a été produit) est lié à l’achat de ces biens.
+J’appliquerais ainsi le critère Stewart pour conclure qu’il y a une source de revenus provenant d’une entreprise ou d’un bien et que le paiement de Homelife est un revenu provenant de cette source. Encore une fois, la preuve n’est pas suffisante pour me permettre de conclure le contraire.
+b) Pénalité prévue au paragraphe 163(1) — Omission répétée de déclarer un revenu
+[33] Les avis divergent quant à savoir si la défense de diligence raisonnable peut être invoquée pour les deux manquements ou seulement pour le second, c’est-à-dire l’année d’imposition à l’égard de laquelle la pénalité est imposée.
+[34] J’estime que la défense de diligence raisonnable est possible en ce qui concerne les deux omissions et, en particulier, je suis d’accord avec le raisonnement exposé dans les décisions Chan c. La Reine, 2012 CCI 168, aux paragraphes 17 à 21, et Galachiuk c. La Reine, 2014 CCI 188, aux paragraphes 8 à 10. Deux omissions sont nécessaires pour que la pénalité s’applique et, à mon avis, le fait que la pénalité soit imposée en fonction de la deuxième omission n’écarte pas la possibilité de soutenir une défense de diligence raisonnable concernant la première omission.
+[35] Dans l’arrêt Résidences Majeau Inc. c. Canada, 2010 CAF 28 aux paragraphes 8 à 10, la Cour d’appel fédérale a réitéré les deux façons dont un contribuable peut établir une défense de diligence raisonnable comme suit :
+[8] Selon l’arrêt Corporation de l’école polytechnique c. Canada, 2004 CAF 127, un défendeur bénéficie de la défense de diligence raisonnable s’il établit l’une ou l’autre des deux choses suivantes : soit qu’il a commis une erreur de fait raisonnable, soit qu’il a pris des précautions raisonnables pour empêcher que ne se produise l’événement qui donne naissance à la pénalité.
+[9] L’erreur de fait raisonnable emporte un double test : subjectif et objectif. Le test subjectif est satisfait si le défendeur établit qu’il s’est mépris en ce qu’il a cru en une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission. En outre, pour que cet aspect de la défense opère, il faut aussi que l’erreur soit raisonnable, p. ex. une erreur qu’une personne raisonnable placée dans les mêmes circonstances aurait commise. Il s’agit là du test objectif.
+[10] Le deuxième volet de la défense requiert, tel que déjà mentionné, que des gestes soient posés ou des mesures prises pour éviter l’événement qui engendre la pénalité.
+[36] Dans le présent appel, je ne suis pas en mesure de conclure que l’un ou l’autre des critères a été satisfait pour 2011 ou 2012.
+2012
+[37] En ce qui a trait au premier critère, l’appelante ne soutient pas qu’il y a eu une erreur de fait. Son explication selon laquelle elle n’a pas déclaré le paiement de Homelife parce qu’il n’était pas imposable est une erreur de droit. Les deux seules erreurs de droit qui peuvent donner lieu à une défense de diligence raisonnable sont une erreur de droit invincible (c.-à-d. impossible à éviter) et une erreur induite officiellement (c.-à-d. découlant de la confiance raisonnable dans l’avis d’un fonctionnaire) : voir Corporation de l’école polytechnique c. Canada, 2004 CAF 127, paragraphes 39 à 42. Aucune de ces exceptions ne s’applique à la situation actuelle.
+[38] En ce qui concerne le deuxième critère (à savoir si toutes les précautions raisonnables ont été prises pour éviter l’événement), je ne peux pas conclure que le fait de s’enquérir auprès de George Kung ou de M. Chen à la réception du feuillet T4A ou de la lettre subséquente du Programme de rapprochement de l’Agence soit suffisant lorsqu’il ne semble n’y avoir eu aucune autre mesure de prise.
+[39] L’appelante a qualifié le paiement de Homelife de commission occulte, d’avantage et de cadeau; or, ce sont des concepts différents qui peuvent conduire à des traitements fiscaux différents. Le fait qu’elle n’ait pas pu décrire avec précision les circonstances entourant le paiement suggère une inattention et je ne peux pas conclure que toutes les précautions raisonnables ont été prises pour éviter le défaut de déclarer le paiement de Homelife.
+[40] En outre, les éléments de preuve de l’appelante se sont entre autres opposés de la manière suivante :
+a) Elle a témoigné qu’à la réception du feuillet T4A, elle a consulté M. Chen au sujet de son caractère imposable. Or, il a déclaré avoir été consulté sur cette question, mais il n’est pas certain que ce soit l’appelante ou George Kung qui l’ait consulté en 2012;
+b) Elle a témoigné que M. Chen avait préparé sa déclaration d’impôts pour 2012. Or, M. Chen a témoigné qu’il a seulement commencé à préparer ses déclarations en 2014 ou 2015;
+c) M. Chen a déclaré qu’il était devenu son comptable en février 2014, c’est-à-dire selon la date à laquelle il lui a donné son premier conseil sur le paiement de Homelife. Or, l’appelante a signé des autorisations en février 2013 (c.-à-d. un an plus tôt) pour que M. Chen la représente, elle et sa société, auprès de l’Agence pour toutes les années d’imposition [pièce A-1, pièces no 2 et no 3].
+[41] Ces incohérences ne laissent pas entrevoir une conduite malhonnête en l’espèce, mais indiquent plutôt une inattention à l’égard de ses propres affaires, de sorte que les délais et les obligations ne seront inévitablement pas respectés.
+[42] En ce qui concerne le solde du montant du revenu non déclaré de 261 $ pour 2012, l’appelante a déclaré que la somme était si peu élevée qu’elle n’en était probablement pas consciente, tout en suggérant que M. Chen pourrait être responsable de cette omission. Même si M. Chen avait préparé sa déclaration de 2012, je m’attends à ce qu’elle ait initialement reçu les feuillets T3 au moment de leur délivrance et qu’elle aurait dû vérifier que sa déclaration était complète avant de la produire.
+[43] Je conclus que la preuve ne permet pas d’étayer l’existence d’une erreur de fait raisonnable ou de démontrer que toutes les précautions raisonnables ont été prises pour éviter l’omission de déclarer ces sommes des feuillets T3. Le ministre a établi une nouvelle cotisation à l’égard de l’appelante pour des types de sommes similaires pour l’année d’imposition 2011 [affidavit de M. Thejo aux paragraphes 10, 16 et 18]. Par conséquent, je m’attendrais d’un contribuable raisonnablement prudent qu’il ait pris des mesures pour éviter une telle omission au cours d’une année ultérieure.
+2011
+[44] Le ministre a établi une nouvelle cotisation pour l’année d’imposition 2011 de l’appelante afin d’inclure des sommes non déclarées totalisant 7 791,96 $ à titre de revenu [affidavit de M. Thejo au paragraphe 10].
+[45] Outre le paiement de Homelife, la nature des sommes omises en 2011 est similaire à celle des sommes omises en 2012, c’est-à-dire les revenus de dividendes, les revenus de gains en capital, les revenus étrangers non liés à l’entreprise et les autres revenus.
+[46] L’appelante n’a produit aucun élément de preuve concernant ces omissions et a déclaré qu’elle n’aurait pas intentionnellement omis de déclarer ces sommes. Par conséquent, je ne peux pas qu’une défense de diligence raisonnable a été établie.
+[47] Il y a un manque général d’attention qui semble avoir conduit à des omissions similaires en 2011 et 2012, et le caractère répétitif est l’essence même de la pénalité prévue au paragraphe 163(1).
+VI. Conclusion
+[48] L’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2020.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2020 CCI 49
+NO DU DOSSIER DE LA COUR :
+2016-3976(IT)I
+INTITULÉ :
+MEI ZHEN ZHANG c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 septembre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 7 juillet 2020
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Alexander Hinds
+Mitchell Meraw (stagiaire)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante : S.O.
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

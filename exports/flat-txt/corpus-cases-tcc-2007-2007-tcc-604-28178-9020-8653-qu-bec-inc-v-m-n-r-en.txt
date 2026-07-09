@@ -1,0 +1,256 @@
+Title: 9020-8653 Québec Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28178/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-604-28178-9020-8653-qu-bec-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-11-14
+
+# 9020-8653 Québec Inc. v. M.N.R.
+
+- Citation: 2007 TCC 604
+- Decision date: 2007-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1959, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9020-8653 Québec Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-14
+Neutral citation
+2007 TCC 604
+File numbers
+2004-3717(EI), 2004-3718(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2004-3717(EI)
+2004-3718(EI)
+BETWEEN:
+9020-8653 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard September 6, 2007, at Chicoutimi, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Jean-François Maltais
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeals under subsection 103(1) of the Employment Insurance Act are dismissed and the decisions of the Minister of National Revenue are confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2007.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 4th day of January 2008.
+Elizabeth Tan, Translator
+Citation: 2007TCC604
+Date: 20071114
+Dockets: 2004-3717(EI)
+2004-3718(EI)
+BETWEEN:
+9020-8653 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] These are two appeals heard on common evidence. Appeal No. 2004‑3718(EI) is from a decision by the Minister of National Revenue of Canada (the Minister) that the work carried out by Mario Caron (the Worker) while working for the Appellant meets the requirements for a contract for services within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the Act). The relevant periods for this appeal are February 20, 1997, to January 17, 1998; February 1, 1998, to September 5, 1998; December 13, 1998, to May 1, 1999; May 9, 1999, to May 29, 1999; June 6, 1999, to April 29, 2000; and June 25, 2000, to January 19, 2003 (the "relevant periods").
+[2] Appeal No. 2004‑3717(EI) deals with an assessment established by the Minister for the Appellant's employment insurance premiums for the Worker for 2000, 2001 and 2002. The assessments were established as follows:
+YEAR
+EI PREMIUMS
+PENALTY
+INTEREST
+TOTAL
+2000
+$2,106.56
+$210.61
+$660
+$2,977.17
+2001
+$2,106.00
+$210.56
+$430
+$2,746.56
+2002
+$2,059.17
+$205.87
+$226
+$2,491.04
+Total
+$6,271.73
+$627.04
+$1,316
+$8,214.77
+[3] To explain his decisions, the Minister relied on the same presumptions of fact in both appeals; these were admitted or denied by the Appellant as indicated below:
+[translation]
+(a) the Appellant was incorporated on May 23, 1995; (admitted)
+(b) the Appellant carried on business under the name "Motel Richelieu Jonquière"; (admitted)
+(c) the Appellant operated a motel with 100 rooms, a restaurant seating 72 and a bar that could accommodate 400 people; (admitted)
+(d) the Appellant hired around 100 employees every year; (admitted)
+(e) the Worker is a carpenter; (admitted)
+(f) the Appellant hired the Worker in 1995; (admitted)
+(g) the Appellant assigned jobs to the Worker; (admitted)
+(h) the Worker's duties were to take care of renovations to the motel rooms, the bar and the restaurant, and also to ensure general maintenance; (denied)
+(i) renovation of the bar and restaurant was done yearly by the Appellant, and the Worker took from 2 to 3 months for the bar and 1 to 2 months for the restaurant; the rest of the year was dedicated to the gradual renovation of the rooms; (denied)
+(j) general maintenance to fix equipment took the Worker around 15 hours a week; (admitted)
+(k) the Worker entered his arrival and departure times as did all the Appellant's other employees; (admitted)
+(l) the Worker's hours of work varied from week to week depending on the work to be done; (denied as written)
+(m) the Worker was to respect the deadlines the Appellant established; (admitted)
+(n) the Worker was assisted in his duties by a salaried employee of the Appellant; (denied)
+(o) the Worker had to carry out his duties personally and could not be replaced; (denied)
+(p) since 1997, the Worker has been providing his services to the Appellant on a regular basis every week, often for more than 40 hours a week; (denied as written)
+(q) the Appellant exercised a right of control over the Worker's work and hours of work; (denied)
+(r) the Worker was paid on an hourly basis; (admitted)
+(s) the Worker received $17 an hour for renovation work and $15 an hour for general maintenance; (admitted)
+(t) the Worker was paid by cheque every Wednesday; (admitted)
+(u) the Worker provided small carpentry tools; (denied as written)
+(v) the Appellant provided the Worker with a table saw, a router and a paint gun; (denied as written)
+(w) the Appellant provided the Worker with a cell phone; (admitted)
+(x) when the Worker travelled with his personal vehicle, the Appellant gave him $10 a week; (denied)
+(y) the Appellant provided all the materials necessary for the Worker to carry out his duties; (admitted)
+(z) the Worker had no risk of loss or possibility of profit from carrying out his duties for the Appellant; (denied)
+(aa) the Worker's duties were integrated into the Appellant's activities; (denied as written)
+(bb) on February 24, 2004, the Appellant received a formal demand from the Commission des normes du travail du Québec regarding unpaid amounts for vacation and statutory holidays owed by the Appellant to the Worker; (admitted)
+(cc) during the last 27 weeks of the period, the Worker received $23,448.47 from the Appellant; (no knowledge)
+(dd) over the last 53 weeks of the last employment period, the Worker worked 2,493 hours; (no knowledge)
+Preliminary remarks
+[4] Guy Desmeules, one of the Appellant's shareholders and directors, Sandra Tremblay, the Appellant's comptroller, and Marc‑André Émond, former accommodations director, testified in support of the Appellant's position. Only the Worker testified in support of the Respondent's position.
+Mr. Desmeules's testimony
+[5] Mr. Desmeules stated that:
+(i) in 1995, he and Roger Simard acquired shares in the Appellant, which operated a motel that was in a deplorable state because of a clear lack of maintenance since its construction in 1970;
+(ii) because financial resources were very limited, the Appellant could not renovate the motel too quickly. This is why, during the relevant years, the Appellant granted most of the carpentry contracts for renovation to the Worker, who was a small supplier and worked alone;
+(iii) the Appellant did the following renovations from 1995 to 2002:
+Type of work
+(1) Renovation of bar
+(2) Small renovation of bar
+(3) Renovation of five rooms
+(4) Preparation work for installing "Convectair" brand heating units in 103 rooms
+(5) Construction and installation of counter in bar
+(6) Renovation of 12 rooms
+(7) Renovation of 12 rooms
+(8) Renovation of cold room
+(9) Renovation of kitchen
+(10) Renovation of downstairs, toilets in changeroom and reception
+Year
+1995
+end of 1995
+1996
+1997
+1997
+1998
+1999
+1999
+2000
+2000
+Duration of work
+7 to 9 weeks
+3 weeks
+6 to 7 months
+January to September
+October and November
+12 months
+January to November
+December
+January to April
+July to December
+(iv) the Worker worked for the Appellant continuously during the entire period of the renovation work mentioned above. Mr. Desmeules also admitted that during the relevant periods, the Worker took care of general maintenance of the motel for around 15 hours a week;
+(v) during the relevant periods, the Worker was free to choose his methods for carrying out the renovation and maintenance work;
+(vi) during the relevant periods, the Worker was not required to remain available to the Appellant following a schedule the Appellant established. According to Mr. Desmeules, the Worker could have worked as many hours as he wanted, according to his own schedule. Mr. Desmeules explained that the Worker did not have to respect the rule that the Appellant imposed on all the other employees, according to which they could not work more than 40 hours a week;
+(vii) the Worker recorded his work hours using a time clock as all the Appellant's other employees did, not because it was required by the Appellant, but because he thought this method would allow him to precisely establish the number of hours he worked for the Appellant;
+(viii) the Worker always provided tools to carry out the contracts granted by the Appellant, except for a table saw the Appellant purchased in 2001;
+(ix) the materials the Worker used to carry out the contracts granted by the Appellant were provided by the Appellant;
+(x) the contracts the Appellant granted to the Worker did not require him to carry out the work himself. However, Mr. Desmeules stated that the Appellant had to accept the replacement chosen by the Worker;
+(xi) the Worker accomplished many carpentry contracts for other people during the relevant periods without having to obtain the Appellant's permission;
+(xii) the Appellant paid the Worker $17 an hour for renovation work;
+(xiii) the Appellant paid the Worker $15 an hour for motel maintenance work;
+(xiv) every week, the Worker gave the Appellant a piece of paper with the hours of work for that week, in the form of an invoice. Upon presentation of the invoice, the Appellant immediately drew a cheque on his bank account to cover the Worker's invoice. Mr. Desmeules explained that compensation of all employees was always done by direct deposit to their bank accounts;
+(xv) the Appellant always considered the Worker as a supplier and not an employee. I immediately note that this claim was contradicted by documents submitted to evidence by the Respondent (Exhibit I-1) during Mr. Desmeules's cross-examination. This documentary evidence shows that the Appellant had included the name of the Worker in his pay register for at least a few months in 1996, gave him a statement of earnings, withheld income tax and paid social security benefits. I would point out that Mr. Desmeules simply replied that he did not recall this fact while being cross-examined on the issue by Counsel for the Respondent. I also note that I was particularly dumbfounded during cross-examination to hear Mr. Desmeules say that the Appellant had offered to treat the Worker as an employee on many occasions. Mr. Desmeules even added that the Worker always refused the Appellant's offers, although the advantages of being an employee were explained. This means that the Appellant treated the Worker as a supplier not because it considered him as such, but because the Worker did not want to be treated as an employee. In a way, it appears that the Appellant had to meet the Worker's requirements in order to benefit from his services.
+Sandra Tremblay's testimony
+[6] During her testimony, Ms. Tremblay, the Appellant's comptroller during the relevant periods, essentially confirmed most of Mr. Desmeules's statements. I note that Ms. Tremblay, like Mr. Desmeules, did not recall that the Appellant had entered the Worker's name in the pay register for a few months in 1996. Ms. Tremblay added that she herself prepared the yearly "Costs Incurred for Work on an Immovable" statements (Exhibit A‑2), and that the Appellant had filed these statements as required with the Québec Minister of Revenue. Ms. Tremblay explained that these statements included the names of all suppliers who, during a given year, carried out renovation, improvement, maintenance or repair work on the motel and the amount paid or to be paid to these suppliers for the work. Ms. Tremblay noted that the statements show the Worker was a supplier for the Appellant in 1997, 1998, 1999, 2000, 2001 and 2002, and, for these services, the Appellant paid him $36,297.50 in 1997, $21,523 in 1998, $34,210.75 in 1999, $36,105.85 in 2000, $45,078.25 in 2001 and $40,322.50 in 2002.
+Marc‑André Émond's testimony
+[7] In his sworn statement, submitted as Exhibit I‑2, Mr. Émond stated the following:
+[translation]
+Declaration under oath
+Affidavit
+...
+I have known Mario Caron since July 1999, when I started working at the Motel Richelieu as accommodations director. I worked together with Mr. Caron all the time, as there were many defects throughout the hotel due to the many client complaints.
+Our duties were expanded and we had to solicit bids from alcohol companies and manage the bar and restaurant inventory. Moreover, when there was a staffing problem, Mario Caron and I had to take care of the restaurant during our on-duty hours. Mr. Caron took care of the food supplies while I took care of the schedules.
+We had a cell paid for by Motel Richelieu, for which we were available 24 hours a day, with no monetary compensation.
+Mario Caron punched in his time as any other employee and I gave him his paycheque at the same time as everyone.
+His work brought him to the computer at the reception to see what work had to be done in the rooms. There was a special area reserved for him.
+Mr. Caron had to travel to go get materials and tools to carry out the maintenance and renovation work at the Motel Richelieu. For those trips, varying from 2 to 300 km, he received $10. I gave it to him. Moreover, he was paid $15 an hour for maintenance and $17 an hour for renovations. It was split around 60% renovation and 40% maintenance.
+Among his duties, Mr. Caron was required to carry out dangerous work without having the certificates of competency to carry them out (propane, 600 volts, water heater...) in order to reduce costs and he did so with no training offered by the employer.
+I was made aware of the four weeks’ pay that was seized from Mario Caron.
+Under orders by Guy Desmeules, I placed an employment offer to find someone for the maintenance, in order to replace Mario Caron without his knowledge.
+...
+[8] During his testimony, Mr. Émond added that, to his knowledge, the Worker [translation] "worked when he wanted to", and he "had no control over the Worker's schedule". Mr. Émond also said that the Appellant's clients complained to the Appellant that the employees monopolized the video lottery terminals. The Appellant therefore prohibited his employees from playing on theseterminals. Mr. Émond said that the Worker often told the Appellant's clients that he was not an employee but a supplier, so that they would not complain about his use of the video lottery terminals.
+Worker's testimony
+[9] The Worker first described a typical workday with the Appellant. First, he read a work order similar to the one produced as Exhibit I-2, on which the defects noted by the room attendants were written. He would correct the defects and then continue with renovations according to the Appellant'sinstructions.
+[10] The Worker also testified that
+(i) he worked on a continuous and exclusive basis for the Appellant during the relevant periods, from 55 to 75 hours a week. He added that the Appellant required him to be available 24/7 to respond to emergencies. He explained that the Appellant provided him with a cell phone specifically to be sure he could be reached at all times;
+(ii) the Appellant required the services to be exclusive. He stated that permission to carry out a minor contract for a third party was not granted by the Appellant. The Worker admitted he participated with his brother in a contract to make furniture during his Christmas holidays in 2002. He also admitted that he worked for the restaurant Chez Pierre from May 11 to 25, 1998, with the permission of Mr. Desmeules and at the bar Chez Claude for a few days in December 2002;
+(iii) he became a general handyman for the Appellant. In addition to renovating the motel and taking care of general maintenance, he verified the work of other suppliers (plumber, electrician, carpet layer, etc.). He even added that the Appellant did not pay these suppliers without his authorization. He also supported Mr. Émond's statement that the Appellant also occasionally granted him the responsibility of supply and control of food and drinks. The Worker noted that the Appellant had designated him, with the Jonquière fire department, as the first person to reach in case of fire. He also testified that the Appellant required him to supervise the work of Alain Bouliane, a general maintenance worker at the motel;
+(iv) the Appellant required that he record his work hours using a time clock;
+(v) all his renovation work on the motel was carried out under the supervision of Mr. Desmeules. The Worker explained that Mr. Desmeules told him the exact nature of the work to be done and the deadlines within which the renovation work was to be completed. He added that he met with Mr. Desmeules two or three times a week to report on the progress;
+(vi) the big tools were provided by the Appellant;
+(vii) he occasionally used his car to get materials and tools he needed to renovate the motel and perform general maintenance. The Appellant then gave him around $20 a week as expenses related to his car, which he incurred when carrying out his work duties;
+(viii) he always saw himself as an employee and not as a service supplier. He added that the Appellant, despite repeated requests, did not want to recognize him as an employee and he resigned himself to accept the status given to him by the Appellant and to handle the income from the Appellant as business income.
+Analysis and conclusion
+[11] When the courts are called upon to define concepts from Quebec's private law for the purposes of applying a federal statute such as the Employment Insurance Act, they must comply with the interpretation rule at section 8.1 of the Interpretation Act. To determine the nature of a contract of employment in Quebec and distinguish it from a contract for service, the relevant provisions of the Civil Code of Québec (the Civil Code) must be considered, at least since June 1, 2001. These rules are inconsistent with the rules stated in decisions such as 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 and Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553. Contrary to the common law situation, the elements that constitute a contract of employment are codified and, since the coming into force of articles 2085 and 2099 of the Civil Code on January 1, 1994, courts no longer have the latitude that common law courts have to define what constitutes a contract of employment. If it is necessary to rely on decisions from the case law to determine whether there was a contract of employment, then decisions with an approach that conforms to the civil law principles must be chosen.
+[12] The Civil Code has distinct chapters on the "contract of employment" (articles 2085 to 2097) and on the "contract of enterprise or for services" (articles 2098 to 2129).
+[13] Article 2085 states that the contract of employment
+... is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[14] Article 2098 states that the contract of enterprise
+... is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[15] Article 2099 follows, and states the following:
+The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[16] It can be said that the fundamental distinction between a contract for service and a contract of employment is the absence, in the first case, of a relationship of subordination between the provider of services and the client, and the presence, in the second case, of the right of the employer to direct and control the employee. In this case, it must be determined whether there was a relationship of subordination between the Appellant and the Worker.
+[17] The Appellant has the burden of showing, on a balance of probabilities, that the facts in question establish his right to have the Minister's decision quashed. It must establish the contract concluded between the parties and their joint intent as to the nature of this contract. If there is no direct evidence of this intent, the Appellant may turn to indicia in accordance with the contract and the provisions of the Civil Code that governed it. The Appellant must, in this case, show the absence of a relationship of subordination in order to establish that a contract of employment did not exist, and to do so, it may, if necessary, use indicia of independence such as those stated in Wiebe Door, supra, namely ownership of tools and the risk of loss and possibility of profit. However, I feel that contrary to the common law approach, once a judge finds the absence of a relationship of subordination, that is the end of the analysis to determine whether there is a contract for service. It is not necessary to consider the relevance of ownership of tools and the risk of loss or possibility of profit, since under the Civil Code, the absence of a relationship of subordination is the only essential element of a contract for service that distinguishes it from a contract of employment. Elements such as ownership of tools and the risks of loss or possibility of profit are not elements essential to a contract for service. However, the absence of a relationship of subordination is a determining factor. With regard to the two types of contract, it must be determined whether there is a relationship of subordination. Obviously, the fact that the Worker acted as a contractor could be an indication that there was no relationship of subordination.
+[18] Ultimately, decisions should usually be rendered by the Courts on the basis of facts shown by the evidence regarding the execution of the contract, even if the intention shown by the parties indicates the contrary. If the evidence regarding the execution of the contract is not conclusive, a decision can still be rendered according to the intention of the parties and the way they described the contract, if the evidence is probatory on these issues. If the evidence is still not conclusive, then the Appellant's appeal will be dismissed on the grounds of insufficient evidence.
+[19] I must note that the Appellant must show the absence of a relationship of subordination on a balance of probabilities to establish that there was no contract of employment. I must also note that if the evidence shows elements of both autonomy and subordination, the conclusion must be that there was a contract of employment because the contract for service must be carried out with no relationship of subordination. This is what Picard J. decided in Commission des normes du travail v. 9002-8515 Québec inc, No. 505‑05‑020995‑963, April 6, 2000 (Superior Court of Québec):
+[
+15. In order for there to be a contract of enterprise, there must be no relationship of subordination…A sufficient number of indicia exists in this case of a relationship of authority.
+[20] Experience shows that some employers, wanting to reduce their fiscal burden and payroll taxes with respect to their employees, decide to treat them as independent contractors. This decision can be made either at the outset of the contractual relationship or later on. Similarly, some employees could have an interest in disguising their contract of employment as a contract for services because the circumstances are such that they do not foresee that they will need employment insurance benefits and they do not want to pay their employee premiums to the employment insurance program. Since the Act generally authorizes the payment of employment insurance benefits only to employees who lose their employment, the courts must be on the alert to unmask false self-employed workers. The courts must also ensure that the employment insurance fund, which is the source of these benefits, receives premiums from everyone who is required to pay them, including false self-employed workers and their employers.
+[21] In this case, the evidence (Exhibit I‑1) showed that the Appellant had treated the Worker as an employee for at least a few months in 1996 and that at the end of that period, the Appellant recognized the Worker as a self-employed worker. Neither the Appellant nor the Worker could explain the circumstances that led to the Worker's ceasing to be an employee. On this subject, I would like to restate that Mr. Desmeules testified that the Appellant had never included the Worker in his pay register. When faced with the documentary evidence that showed the contrary, Mr. Desmeules simply stated he did not remember this fact. Even Ms. Tremblay, the Appellant's comptroller, did not remember this fact. Even after having his memory refreshed, Mr. Desmeules was not able to give any explanation for this sudden change in the Worker's status in 1996. Moreover, I note that the Worker's testimony on this subject was incomprehensible and unintelligible, at the very least. I had the clear impression that Mr. Desmeules and the Worker were hiding the truth and their testimony must therefore be reviewed with great care. The sudden and unexplained change in the Worker's status in 1996 leads me to believe that the true contractual nature of the relationship was being hidden starting in 1996. Moreover, when Mr. Desmeules gave his quite stunning testimony, stating that the Worker refused to be treated as an employee, was this not implicit confirmation that the true nature of the contractual relationship was being disguised? In a way, Mr. Desmeules told us that the Appellant had granted the Worker the status of self-employed worker not because it believed he was a self-employed worker, but because it was forced by the Worker to recognize this status in order to be able to retain his services. Even if the Worker forced the Appellant to recognize he was self-employed, which I doubt, this would not change the fact that the true nature of the contractual relationship was disguised. My opinion is that, in this case, the two parties agreed to disguise the truth because each could see a benefit in doing so. First, the Worker probably no longer wanted to pay the employee premiums to the employment insurance plan, the circumstances being that he did not foresee a need for employment insurance. Also, the Appellant probably wanted to reduce his fiscal burden and payroll taxes with respect to the Worker. The Appellant probably did not want to pay the Worker according to the rates applying to hours of work exceeding 40 hours a week.
+[22] Some elements in the Worker's testimony not contradicted by Mr. Desmeules's testimony and other elements in the Worker's testimony corroborated by Mr. Émond's affidavit (Exhibit I‑2) and testimony, as well as by the documentary evidence (Exhibits I‑3, I‑4, I‑5 and I‑6), also lead me to find that the Worker was an employee during the relevant periods. The fact that the Worker devoted around 50 hours a week to a single payor, nearly continuously for the relevant periods, leads me to believe that he was completely integrated into the payor's company. On this, I note that the Worker had at most carried out a few small contracts during the relevant periods, and he did so during his vacation. This regular and prolonged collaboration is, to me, a clear indication of a relationship of subordination between the Appellant and the Worker. The fact that the Worker became a handyman for the Appellant is confirmation to me that he was completely integrated into the Appellant's company. On this, the evidence showed that, in addition to renovating the motel, the Worker carried out general maintenance on the motel and occasionally had the responsibility of managing the Appellant's bar and restaurant stock. I would also note that the Appellant had designated the Worker with the Jonquière fire department as the first person to contact in case of fire. The Worker's requirement to be available 24 hours a day to respond to emergencies is also, in my opinion, an indication of a relationship of subordination. I will restate that the Appellant provided the Worker with a cell phone to ensure his availability at all times. The regular designation of specific tasks to accomplish also indicates there was a relationship of subordination between the Appellant and the Worker. I would note that on this subject, every morning, the Worker was to read a work order similar to the one submitted as evidence as Exhibit I-2 and he had to first repair any defects that were listed on the order. Lastly, the fact that the Appellant reimbursed work expenses is another indication of a relationship of subordination.
+[23] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 14th day of November 2007.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 4th day of January 2008.
+Elizabeth Tan, Translator
+CITATION: 2007TCC604
+COURT FILE NOS.: 2004-3717(EI) and 2004-3718(EI)
+STYLE OF CAUSE: 9020-8653 Québec Inc. and the Minister of National Revenue
+PLACE OF HEARINGS: Chicoutimi, Quebec
+DATE OF HEARINGS: September 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENTS: November 14, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+Jean‑François Maltais
+Nancy Dagenais
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jean‑François Maltais
+City: Jonquière, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

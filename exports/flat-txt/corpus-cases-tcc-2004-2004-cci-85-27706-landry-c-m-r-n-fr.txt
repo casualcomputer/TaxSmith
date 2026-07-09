@@ -1,0 +1,158 @@
+Title: Landry c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27706/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-85-27706-landry-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-02-13
+
+# Landry c. M.R.N.
+
+- Citation: 2004 CCI 85
+- Decision date: 2004-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 459, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-13
+Référence neutre
+2004 CCI 85
+Numéro de dossier
+2003-3093(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-3093(EI)
+ENTRE :
+ALMA-ROSE LANDRY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 6 janvier 2004 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de février 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI85
+Date : 20040213
+Dossier : 2003-3093(EI)
+ENTRE :
+ALMA-ROSE LANDRY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel d'une décision du ministre du Revenu national (le « Ministre ») voulant que l'emploi de l'appelante au cours de la période du 4 au 30 novembre 2002, lorsqu'elle était au service de Savoie Export Ltd. (la « payeuse »), ne soit pas un emploi assurable au sens de la Loi sur l'assurance-emploi (la « Loi »), puisqu'il ne s'agissait pas d'un emploi occupé en vertu d'un contrat de louage de services.
+[2] En prenant sa décision, l'intimé s'est basé sur les hypothèses de fait suivantes, lesquelles ont été admises ou niées, par l'appelante selon ce qui est indiqué ci-dessous :
+a) la payeuse faisait l'achat de couronnes de Noël (« les couronnes » fabriquées à la main par différentes personnes dont l'appelante; (admis)
+b) la payeuse fournissait à l'appelante des étiquettes ainsi que le fil et les anneaux nécessaires à la fabrication des couronnes; (admis)
+c) l'appelante fournissait les branches utilisées dans la fabrication des couronnes qu'elle vendait à la payeuse; (admis)
+d) la payeuse payait l'appelante 27$ la douzaine pour les couronnes de 10 pouces et 29$ la douzaine pour les couronnes de 12 pouces; (admis)
+e) les factures de la payeuse indiquent l'achat de couronnes de l'appelante selon les dates et montants suivants: (admis)
+facture
+date
+quantité
+total
+28
+9 novembre 2002
+18 douz. @ 27$
+486,00$
+03
+16 novembre
+19 douz. @ 29$
+551,00$
+30
+23 novembre
+18 douz. @ 29$
+522,00$
+07
+30 novembre
+19 douz. @ 29$
+551,00$
+total
+74 douz.
+2110,00$
+f) la payeuse payait moins par douzaine lorsque les travailleurs ne fournissaient pas les branches; (admis)
+g) l'appelante était responsable de couper ses propres branches sur des terrains de son choix et de les transporter chez elle; (admis)
+h) l'appelante fabriquait les couronnes chez elle; (admis)
+i) la payeuse ne contrôlait pas le volume de production de l'appelante; (nié)
+j) la payeuse ne contrôlait pas les heures de travail de l'appelante; (nié)
+k) l'appelante prenait de 10 à 15 minutes pour faire une couronne; (admis)
+l) ni la payeuse, ni l'appelante ne connaissaient le nombre d'heures de travail de l'appelante; (nié)
+m) l'appelante a reçu de la payeuse un relevé d'emploi indiquant 220 heures et 2 110,000$; (admis)
+n) le nombre d'heures indiquées sur le relevé d'emploi de l'appelante est une approximation du nombre d'heures travaillées par l'appelante; (admis)
+o) la payeuse ne supervisait pas l'appelante; et (nié)
+p) l'appelante avait le choix d'augmenter ses gains en fournissant des branches à la payeuse ou non. (nié)
+[3] Le 4 novembre 2002, l'appelante signait avec la payeuse un « contrat de louage de service » dans lequel elle s'engageait à fabriquer des couronnes de Noël. C'est le contrat lui-même qui indique qu'il s'agit d'un « contrat de louage de service ». La durée de l'emploi n'est pas spécifiée, sauf qu'il est dit que la payeuse se réserve le droit de mettre fin au contrat en tout temps, sans préavis. L'appelante s'engageait à fournir un produit de qualité acceptable et, aux termes du contrat, elle relevait d'un superviseur qui devrait la visiter à son domicile. L'appelante s'engageait aussi à donner au superviseur accès à son lieu de travail.
+[4] Les heures de travail ne sont pas précisées dans le contrat, mais l'appelante s'engageait à produire 3 ou 4 couronnes pour chaque heure de travail spécifiée par la payeuse. Le taux de rémunération était différent si l'appelante ne fournissait pas les branches, situation qui ne s'est pas présentée en l'espèce. Les autres modalités sont celles détaillées dans l'extrait tiré de la Réponse à l'avis d'appel reproduit plus haut. Il faut ajouter que l'appelante utilisait ses propres ciseaux pour fabriquer les couronnes.
+[5] L'appelante recevait la visite d'une superviseure, soit madame Jeannine LeBreton, trois fois par semaine. Chaque visite durait environ une demi-heure. Madame LeBreton comptait le nombre de couronnes fabriquées par l'appelante et vérifiait la qualité du produit. Lors de ses visites, elle apportait à l'appelante le matériel nécessaire à la fabrication de couronnes, sauf les branches. À partir du nombre de couronnes fabriquées, on arrivait à déterminer le nombre approximatif d'heures travaillées par l'appelante. Les heures réelles de travail n'étaient consignées ni par l'appelante ni par la payeuse.
+[6] Il n'y a aucune preuve établissant l'horaire de travail de l'appelante, mais, selon le témoignage de celle-ci, elle travaillait durant les sept jours de la semaine. Elle consacrait deux jours à la cueillette des branches et les cinq autres jours à la fabrication des couronnes. Son taux de rémunération pour une douzaine de couronnes était supérieur parce qu'elle fournissait elle-même les branches, mais on ne tenait pas compte du temps consacré à la cueillette des branches dans le calcul du nombre de couronnes fabriquées dans une heure.
+[7] Un contrat de location pour un garage a été signé entre le conjoint de l'appelante et la payeuse. Il s'agit du garage où l'appelante faisait son travail durant la période en litige. La payeuse aurait loué le garage en question au taux de 50 $ pour la saison de fabrication de couronnes. Or, cette preuve vient contredire le « contrat de louage de service », qui dit dans son préambule que la payeuse ne possède pas de local suffisamment grand pour la fabrication de couronnes par l'appelante et que cette dernière consent à exercer son emploi à domicile. Il faut alors se demander pourquoi il était nécessaire que la payeuse loue un garage.
+[8] La Cour d'appel fédérale, dans l'arrêt Wiebe Door Services Ltd. c. Ministre du revenu national, [1986] 3 C.F. 553, a établi un guide utile pour distinguer un contrat de louage de services d'un contrat d'entreprise. La Cour suprême du Canada, dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, a donné son aval à ce guide en résumant l'état du droit comme suit aux paragraphes 47 et 48 :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[9] Le juge Marceau de la Cour d'appel fédérale, dans l'arrêt Charbonneau c. Canada, [1996] A.C.F. no 1337 (Q.L.), nous rappelle que les facteurs en question sont des points de repère qu'il est généralement utile de considérer, mais pas au point de mettre en péril l'objectif ultime de l'exercice, qui est de rechercher la relation globale que les parties entretiennent entre elles.
+[10] En l'espèce, il me paraît évident que l'appelante et la payeuse ont fait beaucoup d'efforts pour créer entre elles un contrat de louage de services qui respecte les critères auxquelles doit nécessairement satisfaire un tel contrat. Le « contrat de louage de service » déposé en preuve et la location du garage sont les éléments sur lesquels l'appelante fonde principalement ses arguments. La Cour doit toutefois regarder l'ensemble des faits et déterminer la nature exacte de la relation qui existait entre l'appelante et la payeuse.
+[11] Le « contrat de louage de service » signé entre l'appelante et la payeuse exige la fabrication de 3 ou 4 couronnes pour chaque heure de travail spécifiée par la payeuse. Ce que le contrat ne mentionne pas, c'est le nombre d'heures de travail que l'appelante devait fournir à la payeuse par jour ou par semaine. Les revenus de l'appelante tenaient donc à sa volonté de fabriquer 3 ou 4 couronnes par heure de travail au taux de 27 $ la douzaine de couronnes, lequel taux représente environ trois heures de travail.
+[12] Pour ce qui est du contrat de location, comme je l'ai déjà souligné, il contredit le préambule du « contrat de louage de service ». Dans un véritable contrat de location, la possession du local où travaillait l'appelante serait devenu celle de la payeuse et le consentement, qu'exige le « contrat de louage de service », à effectuer le travail à domicile n'aurait pas été nécessaire. Le contrat de location déposé en preuve ne précise pas qui était responsable du paiement des coûts de l'électricité et du chauffage pour le local. Il faut donc s'interroger sur la raison d'être du contrat de location. De toute façon, même si les parties choisissent de présenter leur relation comme étant régie par un contrat de louage de services, cela n'empêche pas cette Cour d'examiner cette relation en fonction des critères établis par la jurisprudence. (Voir Standing c. Canada, [1992] A.C.F. no 890 (C.A.F.).)
+[13] La visite d'un superviseur à raison de trois fois par semaine et pour une durée d'une demi-heure ne crée pas en l'espèce un lien de subordination. Il s'agit davantage d'une vérification de la quantité et de la qualité du produit, soit un contrôle du résultat plutôt qu'un contrôle de l'appelante. La visite était aussi l'occasion de remettre du matériel à l'appelante et de prendre le produit fini jugé acceptable. Lorsqu'on tient compte de la fréquence et de la durée de ces visites, elles sont loin de pouvoir être considérées comme suffisantes pour assurer une surveillance adéquate.
+[14] Il faut se demander d'ailleurs qui surveillait l'appelante lorsqu'elle allait cueillir les branches. Le temps consacré à la cueillette des branches n'était pas consigné. En fait, comme l'appelante était payée plus cher pour les couronnes qu'elle fabriquait quand c'était elle qui fournissait les branches, elle était en quelque sorte payée pour vendre ses branches. Cette vente était en fait comprise dans la rémunération de l'appelante, de sorte qu'il s'agissait non pas d'une rémunération pour services rendus mais plutôt du paiement d'un produit vendu. Cela est donc contraire aux dispositions de la Loi et en particulier de son alinéa 5(1)a).
+[15] Dans un cas semblable à celui en l'espèce, le juge Tremblay de notre Cour, dans l'affaire Denis c. Canada, [1994] A.C.I. no 32 (Q.L.) analysait comme suit le critère des chances de profit et des risques de perte :
+18 Ce critère est basé sur le concept que dans une relation employeur-employé, ce dernier n'engage généralement pas de dépense dans l'accomplissement de son travail, ne risque rien financièrement et n'a aucune chance de réaliser un profit. Son seul atout financier est son salaire.
+19 Dans le présent cas, je me demande ce qu'il serait survenu du salaire, si c'est du salaire, si l'appelante, en se rendant chez son payeur, aurait pour une raison ou une autre (accident, vol) vu ses 200 couronnes détruites ou volées. Aurait-elle reçu sa rémunération quand même?
+20 Si la réponse est négative, j'ai tendance à croire qu'il y a là un signe qu'il ne s'agit pas d'une employée mais d'une travailleuse autonome. Si la réponse est affirmative, la conclusion serait à l'effet contraire. Aucune preuve cependant n'a été faite à cet effet.
+21 Par ailleurs, si le payeur ne paie pas la couronne défectueuse, je douterais fort qu'il paie le travail fait sur des couronnes détruites même si ce n'est pas la faute de l'appelante.
+[16] Je suis d'avis que l'analyse du juge Tremblay est applicable en l'espèce.
+[17] La propriété des outils ne me paraît pas être un facteur déterminant en l'espèce. Quant à l'intégration, le travail de l'appelante était intégré à l'entreprise de la payeuse, qui faisait la vente de couronnes. Le critère de l'intégration appuie donc la position de l'appelante.
+[18] Il incombe à l'appelante de démontrer, selon la prépondérance des probabilités, qu'elle était véritablement liée avec la payeuse par un contrat de louage de services. Or, compte tenu de l'ensemble de la preuve et pour les motifs énoncés ci-dessus, j'arrive à la conclusion que la prépondérance de la preuve ne favorise pas l'appelante. Cette dernière n'était donc pas liée avec la payeuse par un véritable contrat de louage de services.
+[19] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 13e jour de février 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2004CCI85
+No DU DOSSIER DE LA COUR :
+2003-3093(EI)
+INTITULÉ DE LA CAUSE :
+Alma-Rose Landry et Le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Bathurst (Nouveau-Brunswick)
+DATE DE L'AUDIENCE :
+le 6 janvier 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 13 février 2004
+COMPARUTIONS :
+Pour l'appelant(e) :
+L'appelante elle-même
+Pour l'intimé(e) :
+Me Claude Lamoureux
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,144 @@
+Title: Stigen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27107/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-299-27107-stigen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-05-25
+
+# Stigen v. The Queen
+
+- Citation: 2006 TCC 299
+- Decision date: 2006-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 926, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stigen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-25
+Neutral citation
+2006 TCC 299
+File numbers
+2004-2163(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2163(IT)G
+BETWEEN:
+TARA STIGEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on April 28, 2006 at Edmonton, Alberta
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Cheryl Gibson
+Counsel for the Respondent:
+Julia Parker
+Counsel for Peace Hills
+Trust Company:
+Theodore Bossé, Q.C.
+____________________________________________________________________
+ORDER
+Upon motion by the Respondent for an Order pursuant to section 99 of the Tax Court of Canada Rules (General Procedure) granting leave to the Respondent to examine for discovery of a non-party to this appeal, Gerry T. Kinsella or other knowledgeable representative of Peace Hill Trusts Company;
+And having heard the submissions of counsel and having read the materials filed by the parties;
+IT IS ORDERED:
+1. the Respondent and the Appellant are granted leave to examine for discovery Gerry T. Kinsella as the representative of Peace Hills Trust Company;
+2. the Respondent shall pay the witness fees and expenses of Mr. Kinsella in accordance with the provisions of the Tax Court of Canada Rules (General Procedure); and
+3. the Respondent shall bear the costs of this motion
+in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 25th day of May, 2006.
+G. Sheridan
+Sheridan J.
+Citation: 2006TCC299
+Date: 20060525
+Docket: 2004-2163(IT)G
+BETWEEN:
+TARA STIGEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sheridan, J.
+[1] The Respondent seeks an Order pursuant to section 99 of the Tax Court of Canada Rules (General Procedure) granting leave to the Respondent to examine for discovery of a non-party to this appeal, Gerry T. Kinsella or other knowledgeable representative of Peace Hills Trust Company. Sections 99(1) and (2) of the Tax Court of Canada Rules (General Procedure) read as follows:
+99. (1) The Court may grant leave, on such terms respecting costs and other matters as are just, to examine for discovery any person who there is reason to believe has information relevant to a material issue in the appeal, other than an expert engaged by or on behalf of a party in preparation for contemplated or pending litigation.
+(2) Leave under subsection (1) shall not be granted unless the Court is satisfied that,
+(a) the moving party has been unable to obtain the information from other persons whom the moving party is entitled to examine for discovery, or from the person sought to be examined,
+(b) it would be unfair to require the moving party to proceed to hearing without having the opportunity of examining the person, and
+(c) the examination will not,
+(i) unduly delay the commencement of the hearing of the proceeding,
+(ii) entail unreasonable expense for other parties, or
+(iii) result in unfairness to the person the moving party seeks to examine.
+[2] The Appellant takes no position in respect of the motion but if an order is granted, seeks also to be permitted to examine the Peace Hills Trust Company representative.
+[3] Counsel for the third party, Peace Hills Trust Company, objects to the granting of the Order on the basis of that any information Peace Hills Trust Company may be able to provide is not relevant and that complying with such an order would require Peace Hills Trust Company to expend unnecessary time and money.
+[4] The grounds for the Respondent's motion are:
+a) Peace Hills Trust has information relevant to a material issue in this appeal;
+b) The Respondent has been unable to obtain the information from the Appellant;
+c) The Respondent has been unable to obtain the information from Peace Hills Trust;
+d) Gerry T. Kinsella is knowledgeable with respect to the information relevant to the material issue in this appeal referred to above;
+e) It would be unfair to require the Respondent to proceed to hearing without having the opportunity to examine Gerry T. Kinsella or other knowledgeable representative of Peace Hills Trust.
+[5] The Respondent has the onus of satisfying the threshold test of relevance in subsection 99(1) and the criteria in section 99(2) of the Tax Court of Canada Rules (General Procedure).
+Subsection 99(1): Relevance
+[6] The Appellant is an Indian under the Indian Act. The issue in the appeal is whether interest income earned on money the Appellant invested in Peace Hills Trust Company is tax-exempt by virtue of paragraph 81(1)(a) of the Income Tax Act and paragraph 87(1)(a) of the Indian Act.
+[7] The leading case on this issue is Recalma v. Canada, [1996] T.C.J. No. 675, in which the Federal Court of Appeal set out the "connecting factors" to be considered in making this determination:
+(a) the residence of the Appellants;
+(b) the origin or location of the capital used to buy the securities;
+(c) the location of the bank branch where the securities were bought;
+(d) the location where the investment income is used;
+(e) the location of the investment instruments;
+(f) the location where the investment income payment is made; and
+(g) the nature of the securities and in particular:
+(i) the residence of the issuer,
+(ii) the location of the issuer's income generating activity from which the investment is made, and
+(iii) the location of the issuer's property in the event of a default that could be subject to potential seizure.[1]
+[8] Counsel for Peace Hills Trust Company addressed the question of relevance under the "unfairness" criterion[2], arguing that the "irrelevance" of any information his client could provide renders a section 99 order inherently unfair. In support of his position, he walked the Court through certain legislative provisions which, to his way of thinking, make Peace Hills Trust Company a "trust company" rather than a "financial institution" within the meaning of Recalma. Accordingly, the "connecting factors" test has no application to the Appellant's appeal and thus, information regarding its activities is not relevant. It seems to me, however, that the allegations underpinning Mr. Bossé's argument are typical of the sort of information currently missing from the appeal. The examination of a knowledgeable representative of Peace Hills Trust Company may reveal, as he suggested, that its activities are not within the "commercial mainstream" but this conclusion cannot be drawn until the facts of the company's activities are known. Such information is central to the inquiry into whether the investment income was "situated on a reserve" under the Recalma test. I am satisfied that the Respondent has established that information pertaining to the activities of Peace Hills Trust Company in respect of the Appellant's investment is relevant to the appeal.
+Subsection 99(2): Criteria for Granting Order
+[9] Subsection 99(2) states that leave to examine shall not be granted unless the Court is satisfied that the criteria in paragraphs (a) to (c) have been met.
+[10] Under paragraph 99(2)(a), the Respondent must demonstrate that "the moving party has been unable to obtain the information from other persons whom the moving party is entitled to examine for discovery or from the person sought to be examined." On examination for discovery, the Respondent questioned the Appellant at length as to what Peace Hills Trust Company did with her money after she entrusted it to them for investment. Her answers[3] make very clear that she has no personal knowledge of the operations of Peace Hills Trust Company. Her only involvement with Peace Hills Trust Company is as a client. Accordingly, she was and is unable to elaborate on the allegations made in her appeal. As for the party the Respondent seeks to examine, Peace Hills Trust Company through counsel admits that when asked for answers to the questions put to the Appellant[4], it refused and continues to refuse to provide them. Mr. Kinsella has knowledge of the activities of Peace Hills Trust Company.
+[11] Under paragraph 99(2)(b), the Respondent has the onus of showing that it would be unfair to require it to proceed to hearing without having the opportunity to examine Peace Hills Trust Company. How the Peace Hills Trust Company invested the Appellant's money to generate income lies at the heart of the issue in the appeal: while the Minister has assumed that the interest income had its origin in the "commercial mainstream", the Appellant alleges that it was derived from First Nations sources. Without information to support their respective pleadings, the parties are not able to provide a factual basis for their claims. I also accept the argument of counsel for the Respondent that the information to be gleaned from Peace Hills Trust Company is likely to require expert or technical analysis to be properly understood. In my view, neither the Respondent nor the Appellant will be able to prepare properly for trial until each has had the benefit of the information which only Peace Hills Trust Company possesses.
+[12] To satisfy paragraph 99(2)(c), the Respondent must satisfy the Court that examination for discovery will not unduly delay the commencement of the hearing of the proceeding, entail unreasonable expense for the Appellant, or result in unfairness to Peace Hills Trust Company. The first two criteria are readily met as the appeal had not yet been set down for hearing; indeed, the parties have until June 30, 2006 to provide a status report to the Court. On the second point, pursuant to an order of this Court dated March 30, 2005, the Respondent is paying the Appellant's costs throughout this appeal.
+[13] Regarding the question of unfairness to the Peace Hills Trust Company, its counsel submitted (in addition to the point raised under "relevance" above) that requiring a Peace Hills Trust Company representative to be examined would put the organization to "great inconvenience and expense". According to counsel, Peace Hills Trust Company is no stranger to either, having already gone through this exercise once before. In that case, it consented to be examined as a third party. While I have some sympathy for its reluctance to be drawn into a matter in which it has no standing, in the circumstances of this appeal, the trouble and expense it may experience does not amount to "unfairness" under subparagraph 99(2)(c)(iii). Given that the Peace Hills Trust Company is familiar with the sort of information likely to be sought, a certain amount of the general spade work ought already to have been done. As for researching and disclosing the specifics of the Appellant's investments, such information is crucial to the resolution of the issues in dispute in the appeal and, in any case, is not too onerous an obligation to impose on the Peace Hills Trust Company in respect of one of its clients. In my view, the necessity of having available to the parties before going to trial, the information that only Peace Hills Trust Company can provide outweighs any unfairness having to do so may cause Peace Hills Trust Company.
+[14] For all of these reasons, I am satisfied the Respondent has met its onus under section 99 of the Tax Court of Canada Rules (General Procedure). It is hereby ordered that:
+1. the Respondent and the Appellant are granted leave to examine for discovery Gerry T. Kinsella as the representative of Peace Hills Trust Company;
+2. the Respondent shall pay the witness fees and expenses of Mr. Kinsella in accordance with the provisions of the Tax Court of Canada Rules (General Procedure); and
+3. the Respondent shall bear the costs of this motion.
+Signed at Ottawa, Canada, this 25th day of May, 2006.
+G. Sheridan
+Sheridan J.
+CITATION: 2006TCC299
+COURT FILE NO.: 2004-2163(IT)G
+STYLE OF CAUSE: TARA STIGEN AND THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: April 28, 2006
+REASONS FOR ORDER BY: The Honourable Justice G. Sheridan
+DATE OF ORDER: May 25, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Cheryl Gibson
+Counsel for the Respondent:
+Julia Parker
+Counsel for Peace Hills Trust Company:
+Theodore Bossé, Q.C.
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Cheryl Gibson
+Firm: Fraser Milner Casgrain, LLP
+Edmonton, Alberta
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Supra, at paragraph 17.
+[2] Subparagraph 99(2)(c)(iii).
+[3] Exhibit "G", Affidavit of Linda Plitt.
+[4] And as also documented in Exhibits "A" through "F", Affidavit of Linda Plitt.

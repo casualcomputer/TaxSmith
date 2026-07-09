@@ -1,0 +1,221 @@
+Title: Heaney v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30529/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-429-30529-heaney-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-10-03
+
+# Heaney v. The Queen
+
+- Citation: 2011 TCC 429
+- Decision date: 2011-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7332, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heaney v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-03
+Neutral citation
+2011 TCC 429
+File numbers
+2005-766(IT)G, 2005-767(GST)I, 2005-768(IT)G, 2005-769(GST)I, 2005-770(IT)G, 2005-771(GST)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2005-766(IT)G
+2005-767(GST)I
+BETWEEN:
+ADAM HEANEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Ken Chasse (2005-768(IT)G, 2005-769(GST)I) and David Gilbert (2005-770(IT)G, 2005-771(GST)I) on June 20, 2011, at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jack Warren
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, notice of which is dated February 26, 2004, is allowed, without costs, and the assessment is referred back to the Minister of Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated February 26, 2004 and bears number 50212, is allowed,
+without costs, and the assessment is referred back to the Minister of Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+It is further ordered that the filing fee of $100.00 be refunded to the Appellant.
+Signed at Ottawa, Canada, this 3rd day of October 2011.
+“Diane Campbell”
+Campbell J.
+Dockets: 2005-768(IT)G
+2005-769(GST)I
+BETWEEN:
+KEN CHASSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Adam Heaney (2005-766(IT)G, 2005-767(GST)I) and David Gilbert (2005-770(IT)G, 2005-771(GST)I) on June 20, 2011, at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jack Warren
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, notice of which is dated February 26, 2004, is allowed, without costs, and the assessment is referred back to the Minister of Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated February 26, 2004 and bears number 50169, is allowed, without costs, and the assessment is referred back to the Minister of Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+It is further ordered that the filing fee of $100.00 be refunded to the Appellant.
+Signed at Ottawa, Canada, this 3rd day of October 2011.
+“Diane Campbell”
+Campbell J.
+Dockets: 2005-770(IT)G
+2005-771(GST)I
+BETWEEN:
+DAVID GILBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Adam Heaney (2005-766(IT)G, 2005-767(GST)I) and Ken Chasse (2005-768(IT)G, 2005-769(GST)I) on June 20, 2011, at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jack Warren
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, notice of which is dated February 26, 2004, is allowed, without costs, and the assessment is referred back to the Minister of Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated February 26, 2004 and bears number 50213, is allowed,
+without costs, and the assessment is referred back to the Minister of Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+It is further ordered that the filing fee of $100.00 be refunded to the Appellant.
+Signed at Ottawa, Canada, this 3rd day of October 2011.
+“Diane Campbell”
+Campbell J.
+Citation: 2011 TCC 429
+Date: 20111003
+Dockets: 2005-766(IT)G
+2005-767(GST)I
+BETWEEN:
+ADAM HEANEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Dockets: 2005-768(IT)G
+2005-769(GST)I
+AND BETWEEN:
+KEN CHASSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Dockets: 2005-770(IT)G
+2005-771(GST)I
+AND BETWEEN:
+DAVID GILBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The Appellants were directors of DSL Communications Inc. (“DSL”). In the 2000, 2001 and 2002 taxation years, DSL failed to remit payroll source deductions withheld from the wages of its employees. Also, between October 2000 and January 2003, DSL failed to remit the net Goods and Services Tax (the “GST”) it had collected. The Appellants were assessed pursuant to section 227.1 of the Income Tax Act (“ITA”) and section 323 of the Excise Tax Act (“ETA”) for the amounts DSL failed to remit, together with penalties and interest.
+Issue:
+[2] The issue is whether the Appellants, as the directors of DSL, are liable for the amounts DSL failed to remit or whether they can avail themselves of the due diligence defence contained in the directors’ liability provisions of the ITA and ETA.
+Facts:
+[3] DSL was incorporated in March 2000 as an internet service provider. It was one of the first companies to work with Bell Canada (“Bell”) in Ontario and Quebec, reselling the newly-available, high-speed internet connections to the public. DSL was a subsidiary of Velocet Communications Inc. (“Velocet”), another computer consulting corporation of which the Appellants were directors.
+[4] DSL was formed with financial assistance from CI Communications Inc. (“CI”). CI was also an internet service provider that had access to millions of dollars. It invested large amounts of money in the business ventures of DSL and Velocet and promised future cash injections to pay certain anticipated costs, including DSL’s source deductions and GST remittances. According to Mr. Heaney’s evidence, DSL’s operations expanded quickly. Within months, the company employed 40 individuals.
+[5] When reselling Bell’s services, the technology that DSL employed was essentially the service Bell uses today. To resell Bell’s services, DSL was obliged to purchase Bell’s equipment, including expensive modems, and lease them to DSL’s customers. The initial modems were inadequate because they could not deliver the promised speeds. DSL could not sell them, nor could these modems be returned to Bell. This was the beginning of DSL’s problems because it owed hundreds of thousands of dollars on obsolete modems that had to be replaced.
+[6] By late September 2000, the Appellants were aware of two significant problems facing DSL. First, it had network and billing issues with Bell. This was crucial because DSL’s business was entirely dependant upon Bell’s infrastructure in order to provide service to DSL customers. Second, DSL’s financing from CI was in jeopardy. DSL learned that CI faced unexpected severe financial difficulties and might be unable to fulfill its future financial commitments to DSL. In late 2000, CI became bankrupt.
+[7] When the Appellants became aware of these problems, they took immediate action to reduce DSL’s costs and to locate new financing sources. DSL completely stopped advertising, changed product offerings, laid off employees, reduced customer hours, engaged Affinity Financial Group to assist in collecting receivables and worked with accountants in seeking alternate investors or other financing. DSL also began dealing with Bell in an attempt to negotiate equipment purchases, including modems, together with expensive one-time costs such as set-up fees. DSL also tried to correct the billing and invoicing errors that were occurring with Bell so that DSL would obtain the resulting credits to its accounts. DSL created an action register to track these.
+[8] Efforts to find new financing were unsuccessful. Mr. Heaney attributed this to the so-called “bursting of the internet bubble” that occurred at this time (Transcript, page 117, lines 23 to 24). On October 31, 2000, DSL’s first failure to remit GST occurred. Around mid-December 2000, DSL’s first failure to remit payroll source deductions occurred.
+[9] In December 2000, Bell sought payment from DSL on several overdue accounts, some of which were described as “quite aged” (Exhibit A-1, Tab 2). On December 20, 2000, Bell demanded payment of over $145,000 to be made in two instalments, with the first instalment due on December 22, 2000. A failure to pay would result in the denial of “future growth” for DSL, which in all likelihood meant that Bell would begin to refuse to process new DSL customers (Exhibit A-1, Tab 2).
+[10] Mr. Heaney’s evidence clearly outlined the consequences that would occur if DSL elected not to pay Bell. Without Bell’s services, it could no longer operate. Mr. Heaney described the predicament for DSL as follows:
+Bell became an absolute necessity. We could not get by without paying them. They kept us on a very tight leash. Failure to pay them and the customers were off.
+(Transcript, page 26, lines 6 to 9)
+[11] Consequently, DSL elected to delay making remittances to the Canada Revenue Agency (the “CRA”). The Appellants viewed this delay as a temporary measure because they expected to find new financing which would allow DSL to meet its obligations to the CRA. Throughout 2001, the Appellants continued unsuccessfully to search for new partnerships, investors and other ways to recapitalize DSL.
+[12] Bell demanded payment of $195,000 in November and December of 2001 and threatened disconnection of DSL’s services (Exhibit A1, Tab 2). Without financing and with mounting debts, DSL made a proposal to its creditors in February 2002 under the Bankruptcy and Insolvency Act which was later approved by the Ontario Superior Court of Justice.
+[13] The Appellants continued to search for new financing and, in October 2002, entered into discussions with a company called Wiznet Inc. (“Wiznet”). Wiznet was run by Fraser and Jeff Mason, two chartered accountants. The Appellants agreed to a merger between DSL and Wiznet and, in November 2002, Wiznet acquired the assets of Velocet and DSL. The Appellants became directors and shareholders of Wiznet. Acting on the advice of Fraser Mason, DSL and Velocet defaulted on the proposal to creditors and, in March 2003, made an assignment in bankruptcy. The intent was for Wiznet to purchase the assets of Velocet and DSL for $185,000. The Appellants’ understanding was that this was an amount “…CRA would be happy with…” (Transcript, page 35, lines 15 to 16). To raise the $185,000, Wiznet entered into what Mr. Heaney described as a “cash call” (Transcript, page 85, line 11). The Appellants contributed $85,000 by borrowing from Mr. Gilbert’s parents. The balance was advanced by Fraser Mason, who now had control over the company as a result of these actions.
+Analysis:
+[14] Section 227.1 of the ITA and section 323 of the ETA are nearly identical provisions. Subsections 227.1(1) of the ITA and 323(1) of the ETA both provide that where a corporation has failed to remit amounts, the directors of the corporation will be jointly and severally liable, together with the corporation, to pay those required amounts. Subsections 227.1(2) and (3) of the ITA allow directors to avoid this liability if they establish a defence of care, diligence and skill in preventing the failure. The provisions state:
+227.1 (1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit, or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+(2) A director of a corporation is not liable under subsection 227.1(1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in the subsection has been proved within six months after the date of the assignment or bankruptcy order.
+(3) A director of a corporation is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[15] Subsection 323(3) of the ETA also establishes that directors may avail themselves of this defence in the appropriate circumstances. It provides:
+323. […]
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[16] There is no dispute that the Appellants were directors throughout the relevant periods. They were inside directors who were personally involved in the daily management of the corporate activities. This is not in issue. The question is whether the Appellants can benefit from the due diligence defence provided by subsection 227.1(3) of the ITA and subsection 323(3) of the ETA. Case law has established that inside directors face the greatest challenge in establishing the due diligence defence. It is presumed that they are in the best position to know the potential problems facing the corporation and have the power to take appropriate preventative steps to deal with those problems. The duty to act in a proactive manner respecting corporate remittances arises where a director knows, or ought to know, of potential problems. However, as Justice Sharlow noted at paragraph 14 in Smith v The Queen, 2001 FCA 84, [2001] F.C.J. No. 448, “… the standard is reasonableness, not perfection”. If a director’s efforts are reasonable, but nonetheless unsuccessful, a director may still be able to take advantage of the defence of due diligence.
+[17] Case law now supports that the standard of care imposed by subsections 227.1(3) and 323(3) is the objective standard laid down by the Supreme Court of Canada in Peoples Department Stores Inc. (Trustee of) v Wise, 2004 SCC 68, [2004] S.C.J. No. 64. The Federal Court of Appeal recently confirmed the standard of care in Buckingham v The Queen, 2011 FCA 142, [2011] F.C.J. No. 616. At paragraph 34, Justice Mainville stated:
+34. … I agree with the trial judge that the "objective subjective" standard set out in Soper has been replaced by the objective standard laid down by the Supreme Court of Canada in Peoples Department Stores. I come to this conclusion in light of the language used in subsection 227.1(3) of the Income Tax Act and in subsection 323(3) of the Excise Tax Act, and also by applying the principle of the presumption of coherence between statutes.
+However, the use of an objective standard does not imply that the particular circumstances of a director should be ignored:
+… These circumstances must be taken into account, but must be considered against an objective “reasonably prudent person” standard. …
+(Buckingham, paragraph 39)
+[18] Although Respondent Counsel relied on the recent Federal Court of Appeal decision in Buckingham, he failed to note the similarities between the facts in the present appeals and those in Buckingham, where Mr. Buckingham was determined to have exercised due diligence for a particular portion of the relevant period. After analyzing Mr. Buckingham’s efforts to secure new financing and the steps taken to reduce expenses, Justice Webb of this Court found, among other things, that Mr. Buckingham had been diligent respecting unremitted payroll deductions until February 2003, but not subsequent to this date. The Federal Court of Appeal held that the same analysis was required for GST remittances as for payroll source remittances. However, Justice Webb’s finding that Mr. Buckingham had been duly diligent until February 2003 was not challenged on appeal. Consequently, Mr. Buckingham was liable only for GST and payroll remittances, which the corporation failed to remit, after his efforts became focussed on “curing” the failures to remit in February 2003. The Federal Court of Appeal clearly indicated, however, that directors will not be duly diligent in circumstances where they condone the continued operation of a corporation by diverting employee source deductions and GST remittances to other purposes. This is exactly what occurred in the present appeals at the end of 2000.
+[19] Until the end of 2000, the Appellants had a reasonable belief that their efforts to reduce corporate expenses and locate new funding sources would allow DSL to meet its obligations, particularly its obligations to remit GST and payroll deductions. Once they became aware of DSL’s financial problems, they took positive action based on a reasonable belief that they could prevent DSL’s failures to remit. They stopped advertising, changed product offerings, laid off employees, reduced customer hours, worked with accountants, addressed receivables, negotiated with Bell and continued to search for financing sources. Mr. Heaney’s evidence established, and I am satisfied, that the Appellants were pursuing measures to deal with DSL’s remittances and they exercised care and diligence with a view to preventing DSL’s failure to remit these amounts until the end of 2000. However, after 2000, the conduct of the Appellants no longer met the standard required by subsection 227.1(3) and 323(3) because their efforts then turned to remedying DSL’s remittance failures. At the end of 2000, the Appellants made a decision to have DSL pay Bell instead of meeting its remittance obligations. As occurred in Buckingham, the Appellants, at this point, lost the benefit of the due diligence defence.
+[20] By October 2000, DSL was unable to meet its financial obligations and, by December 2000, Bell was demanding payment.
+[21] On cross-examination, Mr. Heaney’s evidence was straightforward. He admitted that the directors chose to pay Bell and not other DSL creditors, including the CRA. The evidence is not clear as to the exact date of the Appellants’ decision to do so, but this practice occurred throughout 2001. At pages 67 to 68 of the transcript, the following exchange occurred on cross-examination:
+Q. Had you or anyone at DSL taken a decision to say, "We have to delay or not make our remittances to CRA on time?" Was there an actual point where you or any of the other management at DSL went to the payroll people and said, "Hold off on cutting the cheque to CRA?” Do you remember if that was a decision taken and communicated to the accounting and payroll people?
+A. I am sure there had been.
+(Transcript, page 67, line 20 to page 68, line 3)
+Q. … Were you aware throughout 2001 that the CRA remittances and the GST amounts were not being paid when they should have been and that, in fact, you were in arrears?
+A. Yes.
+Q. Would it be fair to say that you let that situation continue and it was tolerated as a last resort to keep the business alive?
+A. That's correct. We expected it to be temporary. We certainly did not expect it to carry on as long as it did. …
+(Transcript, page 68, lines 14 to 25)
+[22] It appears that the amounts of required remittances were calculated at the relevant times, whether or not DSL had the funds to make those remittances. On cross-examination, Mr. Heaney stated the following:
+Q. … Ms Gilbert and Ms Watters, the payroll and Controller -- it would have been their role to make these remittances of source deductions and GST, but they were under instructions from DSL to hold off and not make these remittances for a period of time. Is that right?
+A. The CRA cheques probably went into a file with other cheques that just could not be paid.
+(Transcript, page 69, lines 9 to 17)
+[23] Although the evidence does not pinpoint an exact date when the decision to not pay the corporate remittances was made, it is reasonable to conclude from the evidence as a whole that it happened at or near the end of 2000, probably shortly after Bell’s first demand for payment of over $145,000 on December 22, 2000 and the second demand on January 15, 2001. Therefore, at the end of 2000, the Appellants’ efforts were no longer directed toward avoiding failures to remit and, instead, had shifted to curing these failures.
+[24] Subsection 227.1(3) of the ITA and subsection 323(3) of the ETA are similarly drafted and must be analyzed and applied in a similar fashion. Consequently, the Appellants are liable for the payroll source deductions which ought to have been remitted in the taxation years 2001 and 2002, together with the net GST amounts which ought to have been remitted quarterly in 2001, 2002 and 2003.
+[25] Finally, I want to address an outstanding question that arose at the end of the hearing respecting the amount of DSL’s outstanding liability. Although not raised in the Notices of Appeal, one of the Appellants’ complaints concerning the assessments was that they understood that the $185,000 raised in the bankruptcy proceedings would be sufficient to satisfy DSL’s liability. The CRA appeals officer, Kimmo Riihimaki, testified that he remembered not only receipt of the $185,000, but also authoring correspondence to the Appellants explaining the receipt of this payment and its application to DSL’s tax debts (Transcript, pages 109 to 111). In fact, both Mr. Riihimaki and Respondent Counsel understood the amounts listed in the Replies to the Notices of Appeal to be the outstanding amounts owed by DSL (Transcript, page 112). However, the Appellants advised that they had never received such a letter from Mr. Riihimaki. Further, it appears from the Replies that the amounts at issue in these appeals are those which DSL failed to remit during the relevant periods and not some smaller amounts which took into account payments made as a result of bankruptcy proceedings.
+[26] At the end of the hearing, I requested that Respondent Counsel investigate this issue, particularly in light of Mr. Riihimaki’s testimony, and report back to me. In the Respondent’s response to this Court, Mr. Riihimaki recanted his testimony and suggested that his evidence under oath respecting the $185,000 payment was incorrect. It appears that, while Mr. Riihimaki was testifying before me respecting these appeals, his attention was directed elsewhere and he was, instead, thinking of “… a similar albeit completely separate taxpayer appeal file he had worked on” (letter of Respondent Counsel, dated July 4, 2001).
+[27] Attached to the Respondent’s letter of July 4, 2011 was an affidavit of Colette Ouimet, Mr. Riihimaki’s team leader, confirming that the CRA had no record of the $185,000 payment.
+[28] The Appellants’ response contained copies of two cheques dated 08‑01‑06 confirming payments of $45,199.29 and $2,398.69 to the Receiver General, together with a statement of the Trustee in Bankruptcy confirming that a payment of $45,199.29 was to be paid to the CRA respecting these remittances. The problem with these additional documents is that they were not introduced into evidence during the hearing.
+[29] In a further response dated September 7, 2011, the Respondent submitted statements of account containing dates and amounts of any payments received by the CRA in respect to DSL’s liability. These statements show no record of a payment of $185,000 but do record a payment of $45,199.29 received on August 11, 2006 respecting the payroll account.
+[30] Such statements of account were not absolutely necessary for the purpose of reaching my decision in these appeals because the Appellants will be jointly and severally liable for DSL’s failures to remit in 2001, 2002 and 2003 whatever that liability is. It is unusual for this Court to immerse itself in the details of how much a taxpayer paid and when. However, it seems to me to be both just and reasonable that the Appellants and this Court have a clear statement of the amounts that ought to have been remitted and the actual amounts received by CRA.
+[31] Based on my conclusion in these appeals that the Appellants exercised the requisite standard of due diligence until the end of 2000, I am not allowing an award of costs. Even if I had decided otherwise and dismissed these appeals entirely, I would feel justified in exercising my discretion pursuant to Rule 147 of the Tax Court of Canada Rules (General Procedure) to not award costs. The Respondent added unnecessarily to both the duration and complexity of these appeals. He decided to call and rely on a witness who incorrectly purported to have some memory of events relevant to the appeals and who testified under oath, without the benefit of any supporting documents or notes accompanying him in Court, that the CRA was in receipt of $185,000 and that he had forwarded correspondence to the Appellants that confirmed receipt of this amount. Clearly, none of this was correct.
+[32] The appeals are allowed on the basis that the Appellants are not liable as directors of DSL pursuant to section 227.1 of the ITA and section 323 of the ETA for the amounts that DSL failed to remit for the period prior to the end of 2000. The Appellants are liable as directors of DSL, however, for those amounts the corporation failed to remit for the relevant periods after the end of 2000. Penalties and interest must be adjusted accordingly. I am making no award of costs.
+Signed at Ottawa, Canada, this 3rd day of October 2011.
+“Diane Campbell”
+Campbell J.
+CITATION: 2011 TCC 429
+COURT FILE NOS.: 2005-766(IT)G; 2005-767(GST)I;
+2005-768(IT)G; 2005-769(GST)I;
+2005-770(IT)G; 2005-771(GST)I
+STYLES OF CAUSE: ADAM HEANEY,
+KEN CHASSE,
+DAVID GILBERT
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 20, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: October 3, 2011
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

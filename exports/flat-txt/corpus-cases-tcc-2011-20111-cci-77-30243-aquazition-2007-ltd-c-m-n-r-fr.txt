@@ -1,0 +1,115 @@
+Title: Aquazition 2007 Ltd c. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30243/index.do
+Corpus path: corpus/cases/tcc/2011/20111-cci-77-30243-aquazition-2007-ltd-c-m-n-r-fr.md
+Document type: case_law
+Last modified: 2011-02-24
+
+# Aquazition 2007 Ltd c. M.N.R.
+
+- Citation: 20111 CCI 77
+- Decision date: 2011-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8012, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aquazition 2007 Ltd c. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-24
+Référence neutre
+20111 CCI 77
+Numéro de dossier
+2010-960(EI), 2010-961(CPP)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2011 CCI 77
+Date : 20110224
+Dossier : 2010-960(EI)
+2010-961(CPP)
+ENTRE :
+AQUAZITION 2007 LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ANDREA CARDWELL,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Révisés depuis la transcription des motifs du jugement rendus oralement à l’audience à Toronto (Ontario), le 1er décembre 2010)
+Le juge suppléant Weisman
+[1] J’ai entendu deux appels interjetés par Aquazition 2007 Ltd. contre des décisions de l’intimé, le ministre du Revenu national (le « ministre »), selon lesquelles la travailleuse Andrea Cardwell était employée aux termes d’un contrat de louage de services par l’appelante au cours de la période visée, qui a été convenue entre le 1er janvier 2008 et le 8 avril 2009.
+[2] L’appel de l’appelante repose sur l’affirmation selon laquelle, pendant la période visée par le réexamen, la travailleuse était une entrepreneure indépendante qui exploitait une entreprise pour son propre compte et que l’appelante n’était donc pas responsable des contributions impayées au Régime de pensions du Canada et des cotisations à l’assurance-emploi évaluées par le ministre.
+[3] Pour résoudre la question devant la Cour, il faut prendre en considération la relation globale des parties et la force combinée de l’ensemble du plan d’opérations. À cette fin, la preuve dans cette affaire doit être soumise au critère à quatre volets établi par Lord Wright dans Montreal Locomotive Works [Montreal Locomotive Works], dont la référence est [1947] 1. Dominion Law Reports, page 161 du Conseil privé en Angleterre, dont les lignes directrices ont été adoptées par le juge d’appel MacGuigan dans Wiebe Door Services c Ministre du Revenu national, [Wiebe Door Services], cité à (1986), 87 Dominion Tax Cases, page 5025 de notre Cour d’appel fédérale. Les quatre lignes directrices sont le droit du payeur de contrôler le travailleur, si le travailleur ou le payeur possède les outils nécessaires pour remplir la fonction d’un travailleur et les chances de gains et de pertes du travailleur dans ses rapports avec le payeur.
+[4] Avant d’examiner les éléments de preuve que j’ai entendus au sujet des quatre lignes directrices, j’aimerais dire que j’ai trouvé que M. Cargill et Mme Cardwell étaient gentils, honnêtes et bien intentionnés. Ce fut un plaisir de les avoir dans ma Cour. Lorsqu’il y avait des divergences dans les différentes versions données, je les attribuais à une différence dans leur capacité à se souvenir des événements et des dates et aussi si elles avaient d’autres complications dans leur vie durant la période concernée qui pourraient influer sur l’exactitude de leur souvenir des événements.
+[5] En ce qui concerne la première ligne directrice, le droit de contrôle, comme le ministre l’a reconnu dans la jurisprudence, n’est pas la surveillance et le contrôle exercés par le payeur, en l’espèce l’appelant, mais c’est le droit, si oui ou non il y avait un tel droit, dévolu au payeur. Ce que nous recherchons, c’est si cela existe ou non, et s’il y a une relation de subordination entre le travailleur et le payeur. De toute évidence, les entrepreneurs indépendants ne sont pas dans une position subalterne à la personne qui les contrats, alors que les employés sont.
+[6] Ici, il est important d’avoir le document qui se trouve à la pièce R 2, onglet 5, pages 9 et 10, qui est la ligne directrice 5.1 émise par le ministre de l’Environnement. Il est très clair que les OI, opérateurs en formation, comme Mme Cardwell doivent être supervisés par un OIC, un opérateur en contrôle, et quelle personne prend généralement les décisions d’exploitation quotidiennes et donne des instructions aux autres opérateurs sur les procédures du système. À la page suivante de cette ligne directrice, sous la rubrique « Opérateur en formation », il est indiqué qu’un opérateur en formation ne peut pas être désigné « ORO », ce qui est global. L’exploitant responsable et l’opérateur en formation ne peuvent pas être désignés « OIC », l’exploitant responsable.
+[7] En vertu de la loi, en tant qu’opérateur en formation pendant toute la période visée par l’examen, Mme Cardwell, l’intervenante, n’était pas habilitée par la loi à exercer les activités d’analyse de l’eau pour son propre compte parce qu’elle devait travailler la supervision d’un opérateur en charge, à savoir M. Cargill.
+[8] Compte tenu de la façon dont la relation de travail a fonctionné, j’accepte son témoignage selon lequel elle devait être au travail à sept heures du matin. Elle a dû donner un préavis de 24 heures d’absences et elle a témoigné d’un incident où un représentant du ministère de l’Environnement a inspecté un chantier et l’a obligée à faire immédiatement signe à M. Cargill qui devait venir sans tarder au chantier. À mon avis, il s’agit d’un exemple clair d’une situation où elle n’est pas subordonnée à l’appelante. Je note qu’il était requis qu’elle fasse son travail personnellement et comme nous le savons tous, les entrepreneurs indépendants, comme votre électricien ou votre plombier, ne se présentent pas toujours personnellement, mais ils ont quelqu’un qu’ils peuvent embaucher, mais Mme Cardwell n’est pas dans cette position. J’accepte sa version des événements selon laquelle ses diverses rémunérations n’ont pas été négociées, mais elles ont été corrigées par M. Cargill, et elles sont allées de pair avec son expérience et son expertise à la suite de son expérience et de ses diverses formations justifiées.
+[9] Je conclus que, selon la loi et en réalité, l’appelant avait le droit de contrôler le travailleur, qu’elle était dans une position subordonnée et que le facteur de contrôle indique donc que, pendant la période visée, elle était employée.
+[10] Passant à la propriété d’outils, la réponse du ministre à l’avis d’appel de l’appelante, à l’alinéa 7 t), dit :
+[traduction]
+L’appelant a fourni l’obturateur antiretour, raccords, réservoirs d’eau, génératrices, pompes, tuyaux en cuivre, jauges, tournevis, tampons, brides, tuyaux, bouches d’incendie, machines à tarauder, chlore résiduel, papier au lithium, gilet de sécurité, gants , chapeau, lunettes et véhicule de société. [Interprété]
+[11] M. Cargill a aidé à préciser qu’il n’y avait pas de gilet de sécurité. Pendant qu’elle était munie d’un véhicule de fonction, elle devait avoir son propre véhicule parce qu’après la période d’attente de 24 heures, elle se rendait au chantier dans son propre véhicule afin de faire les tests nécessaires pour le soumettre au ministère de l’Environnement.
+[12] Il est clair que la grande majorité des outils nécessaires à l’exécution de son travail ont été fournis par l’appelant. L’intervenante a présenté une pièce à conviction, pièce I 1, qui montre que l’appelante a effectivement payé 577,50 $ pour la réparation de sa voiture. Il n’y a aucune preuve qu’ils aient jamais récupéré l’argent ou, comme M. Cargill le pensait, déduit de sa facture finale, parce que cette réparation a eu lieu le 19 mars 2009, soit quelques semaines avant la fin de leur relation. Je n’ai pas pu conclure à partir de cela quelque chose de différent de ce à quoi je suis déjà arrivé, le facteur outils indique qu’elle était une employée.
+[13] Pour ce qui est de la possibilité de réaliser un profit et du risque de perte, comme je l’ai signalé à l’avocat du ministre, si la rémunération était négociée, il y aurait une possibilité de profit et un risque de perte, mais j’ai constaté qu’il n’y avait pas de telle négociation. En ce qui concerne son mode de rémunération, elle était payée à l’heure. Nous avons l’autorité de l’affaire Hennick c. Le ministre du Revenu national [Hennick] qui dit que, si quelqu’un travaille à l’heure ou à la pièce, il peut gagner plus d’argent en travaillant plus longtemps ou en mettant plus de pièces, mais c’est ne pas profiter d’une gestion saine. La citation pour Hennick est [1995] Jugements de la Cour fédérale n° 294.
+[14] En ce qui concerne le risque de perte, la preuve démontre que l’appelante a remboursé la travailleuse pour toutes les dépenses qu’elle a facturées, y compris le carburant pour son véhicule personnel. Contrairement à ce que M. Cargill pensait, elle ne détenait aucune assurance de responsabilité et l’appelante payait aussi divers cours qu’elle avait suivis pour obtenir son permis d’opérateur, ce que l’on fait pour un employé, mais pas pour un entrepreneur indépendant. La seule dépense qu’elle a eue était l’entretien normal de son propre véhicule, que tout le monde a. Par conséquent, j’ai trouvé que la possibilité de profit et le risque de facteurs de perte à la fois indiquaient qu’elle était une employée.
+[15] Dans le présent appel, M. Cargill invoquait trois choses. La première chose sur laquelle il s’est appuyé, c’était l’accord, pièce R 1, qui a été Le 21 juin 2007, dans lequel Andrea Cardwell accepte expressément d’être un sous-traitant et de payer toutes ses retenues à la source et que l’appelante, Aquazition 2007 Ltd., ne sera pas tenue responsable de ces paiements. La question se pose à la lecture de ce document : comment peut-on réclamer les prestations de la Loi sur l’assurance-emploi et comparaître ici devant la Cour et soutenir qu’elle était une employée?
+[16] Je peux très bien comprendre pourquoi M. Cargill s’appuierait sur ce document, mais il a été maintes fois répété que ces ententes énonçant l’intention des parties ne sont pas déterminantes pour une relation entre les parties parce que cette relation est une question de droit. Ce n’est pas une question d’accord privé. Au risque de vous ennuyer, je ne vais pas lister tous les cas. Il doit y avoir au moins 15 d’entre eux, mais nous allons depuis le début, Ready-Mixed Concrete (South East) Limited c Minister of Pensions and National Insurance, [1968] 1 All England Report 433, à Wiebe Door Services elle-même. J’ai déjà cité cette affaire à l’époque moderne et avec des pouvoirs aussi élevés que la Cour suprême du Canada, 671122 Ontario Ltd. c Sagaz Industries Canada Inc., [2001] S.C.C. 59 [Sagaz Industries]. Enfin, pour arriver à des temps plus modernes, nous avons la décision de la Cour d’appel fédérale dans le Royal Winnipeg Ballet c Minister of National Revenue, [2006] Jugements de la Cour fédérale no 339.
+[17] Dans Sagaz Industries, la Cour suprême du Canada explique pourquoi le statut d’un travailleur est une question de droit et non d’accord privé. La raison est que les tierces parties sont affectées par ce statut. Cela n’affecte pas seulement les parties aux documents, comme la pièce I 1. La loi est, et j’utiliserai un terme qui peut prêter à confusion, le meilleur exemple étant le droit de la responsabilité du fait d’autrui. Qu’est-ce que cela signifie est : Quand est-on responsable de la négligence de son travailleur? La loi est que vous êtes responsable de la négligence de votre travailleur, mais pas d’un entrepreneur indépendant. C’est là que les tiers s’impliquent. C’est l’un des moyens; il y en a d’autres. C’est celui qui a le plus de sens pour la plupart des gens pour aider à comprendre pourquoi ces accords ou le statut d’un travailleur sont une question de loi plutôt que d’accord. Les tiers ont un intérêt.
+[18] La deuxième chose sur laquelle M. Cargill se fonde est le numéro de TPS Mme Cardwell avait. Il n’y a nulle part dans la loi qui précise qu’un simple numéro de TPS fait de votre relation de travail un entrepreneur indépendant. La dernière chose est la facturation. Je peux comprendre le raisonnement de M. Cargill selon lequel les entrepreneurs indépendants facturent et non les employés, mais, encore une fois, il n’y a aucune loi qui précise que la simple présentation d’une facture peut transformer une personne qui est un employé en entrepreneur indépendant. Ce serait trop facile, trop simple et rapide pour établir que quelqu’un est un entrepreneur indépendant. Ce qui régit la relation de travail réelle entre les parties est régi par le critère à quatre volets établi dans Wiebe Door Services, comme je l’ai déjà indiqué, ainsi que dans Montreal Locomotive Works.
+[19] Ayant soulevé le sujet des ententes entre les parties, j’aimerais dire que j’ai lu le bulletin de Revenu Canada qui régit les employés et les entrepreneurs indépendants. Je trouve que c’est déficient quand il s’agit d’accords. Le fait que nous soyons ici aujourd’hui en est une preuve non pas dans cette affaire, mais dans le passé, j’ai demandé aux appelants d’apporter le bulletin et l’accord, et ils pensent qu’une fois qu’ils ont signé l’entente, la personne est un entrepreneur indépendant, et ils ne comprennent pas pourquoi ils sont évalués. Je suis assez clair que ce bulletin n’est pas un document aussi clair qu’il pourrait l’être en ce qui concerne la pertinence des ententes entre les parties quant à leur statut et leurs relations de travail. Si quelqu’un envisageait de le réviser et de l’améliorer, je pense qu’il serait important de souligner, ce que j’ai déjà fait, que le statut de quelqu’un est une question de droit et non un accord privé. Je continuerais en disant que c’est parce que des tiers sont touchés, et j’utiliserais même l’exemple de la responsabilité du fait d’autrui.
+[20] Je pense que le public devrait être très clair que les accords ne sont pas totalement hors de propos parce que, si l’intention des parties n’est pas claire après l’application des faits au critère à quatre volets comme je l’ai fait, si les résultats ne sont pas concluants, l’intention des parties prend beaucoup de poids. Je dirais même que les accords ne prendront du poids que s’ils reflètent la relation de travail réelle entre les parties.
+[21] Dans ces affaires, il incombe à l’appelant de réfuter ou de démolir les hypothèses énoncées dans la réponse du ministre à son avis d’appel. Dans ce cas, les présomptions du ministre se trouvent au paragraphe 7, et j’ai poursuivi M. Cargill, et il a convenu avec tous qu’ils étaient vrais jusqu’à ce que nous descendions à l), [traduction] « l’appelant supervisait le travailleur ». C’était son témoignage que cette femme, après un court laps de temps, était suffisamment compétente pour pouvoir travailler et savoir quoi faire et comment le faire. Pour employer ses mots, il a dit, [traduction] « comment elle a fait c’était à elle. » Sa preuve était que, s’il y avait de la supervision, c’était par téléphone et que M. Cargill n’était pas sur le chantier.
+[22] J’admets qu’il n’y avait pas de supervision sur place, mais j’ai déjà dit que les directives du ministère sont très claires qu’il avait l’obligation de la contrôler et de la surveiller, et c’est ce que je trouve quand il s’agit de l).
+[23] Il a également objecté à m), [traduction] « le travailleur devait travailler selon les horaires fixés par l’appelant ». Son point de vue était, non, c’était juste une question qu’il devait y avoir la lumière du jour et après 24 heures de nettoyage, si je pouvais utiliser ce mot des tuyaux, elle devait retourner après le rinçage et prendre un échantillon d’eau au Ministère. Cela ne concorde pas avec son témoignage selon lequel elle devait être au travail à sept heures du matin, et certains jours, elle a dû travailler 16 heures par jour.
+[24] Je conclus que la preuve indique que la vérité se situe quelque part entre les deux, qu’elle était habituellement libre d’occuper des emplois qui lui étaient effectivement attribués soit par M. Cargill, soit par M. Enzo Sorrentino, mais une fois le travail assigné, elle était là pour faire le travail car elle a été formée pour le faire.
+[25] Il a objecté à l’alinéa o), [traduction] « l’appelant a donné au travailleur des instructions sur la façon d’écouvillonner, d’exploiter une conduite d’eau et la quantité de chlore à utiliser ». Sa preuve est que ces choses étaient déterminées par la longueur de la conduite. C’était quelque chose qu’elle devait faire elle-même. Il a expliqué que les résultats de la qualité de l’eau indiquent votre compétence, ce qui nécessiterait un travail supplémentaire pour améliorer la qualité de l’eau. Je trouve qu’il a, en partie, démoli l’hypothèse 7 o), et qu’elle aurait pu être formée sur la façon de faire le travail et la quantité de chlore à utiliser au début, mais très rapidement, elle pourrait juger par elle-même, en particulier quand elle a vu les résultats des tests de qualité de l’eau.
+[26] M. Cargill a alors posé la question q) : [traduction] « le travailleur devait obtenir l’approbation de l’appelant pour prendre rendez-vous ». Je n’ai pas trouvé que cela était établi sur la preuve, parce que le seul exemple que Mme Cardwell a pu donner était une fois où elle voulait revenir pour rectifier un travail et prendre rendez-vous pour le faire, mais c’était annulé par les deux messieurs mentionnés précédemment parce qu’ils avaient pris rendez-vous pour elle ailleurs. D’une part, je ne trouve pas qu’elle devait recevoir l’approbation de l’appelante, mais cet incident montre bien qu’elle était dans la position subordonnée et qu’elle n’était pas indépendante.
+[27] r) dit : [traduction] « l’appelant a approuvé les nominations faites par le travailleur. » Cela a été réfuté.
+[28] Et v), [traduction] « l’appelant a fourni un uniforme pour le travailleur ». Je trouve qu’il n’y avait pas d’uniforme. Ce qu’il y avait était : Lorsque Shell Oil a été impliqué, ils ont fourni un ensemble ignifuge de quelque sorte.
+[29] En y), [traduction] « le travailleur devait recevoir une approbation de l’appelante pour des achats », je n’ai pas trouvé que la preuve étayait cette hypothèse. Elle pouvait mettre de l’essence dans le camion et, quelles que soient les dépenses qu’elle jugeait nécessaires, elle était remboursée.
+[30] Selon M. Cargill, toutes ces hypothèses - z), aa), bb), cc) ont été négociées, mais, selon la preuve, je n’ai pas conclu qu’il était en mesure d’établir cela.
+[31] Dans ff), il a dit qu’il n’a pas déterminé le taux de rémunération. La preuve est qu’il a fait.
+[32] Puis il y a eu kk) : [traduction] « l’appelant a couvert les coûts du travail de refaire du travailleur ». M. Cargill a dit très justement que, dans certains cas, ce n’était pas nécessairement sa faute si la qualité de l’eau n’était pas conforme à la norme parce que, dans certains cas, la saleté ou le sol continuerait de couler. Parfois, il fallait plus d’une application de chlore ou autre pour mettre les choses à niveau, et, par conséquent, elle serait payée pour revenir en arrière et refaire le travail.
+[33] Ensuite, nous avons ll): [traduction] « l’appelant a couvert les coûts des biens / matériaux perdus ou endommagés par le travailleur ». Mme Cardwell était d’avis que, si elle endommageait le camion, elle serait tenue responsable. En fait, cela ne s’est jamais produit, alors nous ne le savons pas, et il a très justement admis que, si c’était un tournevis ou quelque chose qu’elle perdait, elle n’aurait pas à payer pour cela. Je n’ai vu aucune preuve de quoi que ce soit qu’elle devait payer. Je suis laissé à penser que cette hypothèse n’a pas été démolie.
+[34] Puis il y a eu oo) : [traduction] « le travailleur portait l’uniforme de l’appelant chez le client. » Cela a été démoli.
+[35] Puis, il y a eu les hypothèses finales tt), uu), vv) et ww), que l’appelant n’aurait pas connues et, par conséquent, n’a pas pu réfuter, et son omission de réfuter ces ne devrait pas être retenu contre lui.
+[36] Bien qu’il y ait eu la supposition bizarre qui a été réfutée avec succès par l’appelant, la vaste majorité avec laquelle il était d’accord. La loi prévoit que, même si certaines des hypothèses sont démolies, si les hypothèses restantes sont suffisantes pour étayer les conclusions du ministre, les conclusions du ministre doivent être maintenues.
+[37] J’ai enquêté sur tous les faits des parties et les témoins en ont appelé un au nom de l’appelant et un autre au nom de l’intervenant pour témoigner sous serment pour la première fois. J’ai trouvé quelques faits nouveaux, mais je n’ai trouvé aucun fait nouveau qui indiquerait que les faits inférés ou invoqués par le ministre étaient irréels ou mal évalués ou mal compris. Je ne peux trouver aucune affaire dans laquelle Mme Cardwell était pour son propre compte. Par conséquent, les conclusions du ministre sont objectivement raisonnables.
+[38] À moins de négliger de le dire, avant de conclure, je pensais que Mme Turvey avait fait un travail assez crédible pour son client aujourd’hui. Donc, en fin de compte, les décisions du ministre doivent être confirmées. Les deux appels sont rejetés. Je vous remercie tous pour votre aide.
+Signé à Toronto (Ontario), ce 24e jour de février 2011.
+« N. Weisman »
+Juge suppléant Weisman
+RÉFÉRENCE : 2011 CCI 77
+Nº DES DOSSIERS DE LA COUR : 2010-960(EI)
+2010-961(CPP)
+INTITULÉ : AQUAZITION 2007 LTD. ET LE MINISTRE DU REVENU NATIONAL ET ANDREA CARDWELL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 1er décembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge suppléant N. Weisman
+DATE DU JUGEMENT : Le 5 janvier 2011
+COMPARUTIONS :
+Représentant de l’appelante :
+Me Bruce Cargill
+Avocat de l’intimé :
+Me Laurent Bartleman
+Me Julia Turvey (stagiaire en droit)
+Pour l’intervenante : L’intervenante elle-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour de l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

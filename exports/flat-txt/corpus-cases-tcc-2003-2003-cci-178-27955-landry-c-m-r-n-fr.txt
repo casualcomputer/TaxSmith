@@ -1,0 +1,185 @@
+Title: Landry c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27955/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-178-27955-landry-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-06-10
+
+# Landry c. M.R.N.
+
+- Citation: 2003 CCI 178
+- Decision date: 2003-06-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1803, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-10
+Référence neutre
+2003 CCI 178
+Numéro de dossier
+2001-3288(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2001-3288(EI)
+ENTRE :
+JEAN-RENÉ LANDRY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 30 janvier 2003 à Québec (Québec)
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Avocat de l'appelant :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de juin 2003.
+«J.F. Somers»
+J.S.C.C.I.
+Référence :2003CCI178
+Date : 20030610
+Dossier : 2001-3288(EI)
+ENTRE :
+JEAN-RENÉ LANDRY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Québec (Québec), le 30 janvier 2003.
+[2] Le 16 mars 2001, l’appelant a demandé au ministre du Revenu national (le «Ministre») qu’il soit statué sur la question de savoir s’il avait exercé un emploi assurable durant les périodes en litige, soit du 28 septembre au 27 novembre 1998 et du 8 mai au 20 octobre 2000, lorsqu’au service du payeur, Les Entreprises Forestières Etchemin Ltée, au sens de la Loi sur l’assurance‑emploi (la «Loi»).
+[3] Le 29 juin 2001, le Ministre a informé l’appelant de sa décision selon laquelle son véritable employeur était Forestiers Jean-René Landry Inc., l'employeur, et que cet emploi n’était pas assurable parce qu’il contrôlait plus de 40 % des actions comportant droit de vote de l’employeur durant les périodes en litige.
+[4] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+«Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]»
+[5] Le paragraphe 5(2) de la Loi se lit en partie comme suit :
+b) l'emploi d'une personne au service d'une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+[...]»
+[6] Le fardeau de la preuve incombe à l’appelant. Ce dernier se doit d’établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d’espèce.
+[7] En rendant sa décision, le Ministre s’est fondé sur les présomptions de fait suivantes lesquelles ont été admises, niées ou ignorées par l’appelant :
+a) Le payeur, constitué en société le 13 décembre 1974, exploite une entreprise forestière. (ignoré)
+b) L’employeur, constitué en société le 24 février 1995, exploite aussi une entreprise forestière. (nié)
+c) Durant les périodes en litige, l’appelant était le seul actionnaire de l’employeur. (nié)
+d) L'employeur possédait une débusqueuse à pinces John Deere et une abatteuse Tanguay. (nié)
+e) En 2000, la machinerie avait une valeur aux livres de 71 185 $, avec un amortissement accumulé de 47 079 $ et le matériel roulant avait une valeur aux livres de 21 527 $ avec un amortissement accumulé de 10 606 $. (admis)
+f) En 1999 et 2000, le payeur a retenu les services de l'employeur pour faire de l'abattage et le débusquage [sic] de bois. (nié)
+g) Le payeur rémunérait l'employeur en fonction du volume de bois coupé ou transporté. (nié)
+h) Durant les périodes en litige, l'appelant opérait l'abatteuse. (admis)
+i) L'abatteuse fonctionnaire 24 heures sur 24. (admis)
+j) Trois travailleurs, dont l'appelant, opéraient l'abatteuse. (admis)
+k) Le payeur versait directement à l'appelant et aux autres opérateurs leur salaire. (admis)
+l) Le payeur soustrayait de la rétribution versée à l'employeur les rémunérations versées aux opérateurs ainsi que les contributions d'employeur afférentes à différents régimes sociaux dont les contributions d'employeur à l'assurance-chômage. (nié)
+m) L'employeur assumait le salaire des opérateurs de sa machinerie. (nié)
+n) L'employeur assumait toutes les dépenses reliées à sa machinerie forestière, soit le diesel et diverses réparations ainsi que les repas et frais de pension de l'appelant et de ses opérateurs. (nié)
+o) L'employeur assumait le coût des assurances de ses équipements et de sa machinerie et devait posséder une assurance responsabilité de 1 000 000 $ pour couvrir toute poursuite éventuelle. (nié)
+p) L'employeur avait la responsabilité de reprendre, à ses frais, les travaux non conformes aux exigences du milieu. (nié)
+q) Durant les périodes en litige, l'appelant rendait des services à l'employeur et non pas au payeur. (nié)
+[8] Le payeur, Les Entreprises Forestières Etchemin Ltée, est une société qui exploite une entreprise forestière.
+[9] Durant les périodes en litige, l'appelant était le seul actionnaire de son entreprise, Forestiers Jean-René Landry Inc.
+[10] Le 8 mai 2000, un contrat de location a été conclu entre le payeur, Les Entreprises Forestières Etchemin Ltée et Forestiers Jean-René Landry Inc. (pièce A-2), selon lequel cette dernière compagnie louait au payeur une abatteuse Tanguay pour la période du 8 mai au 17 novembre 2000.
+[11] Une clause de ce contrat intitulée «Examen de l'équipement loué et maintien en bon état de fonctionnement» se lit en partie comme suit :
+Le Locateur [Forestiers Jean-René Landry Inc.] s'engage à livrer l'équipement en bon état de réparation, à garantir au Locataire [Les Entreprises Forestières Etchemin Ltée] qu'il peut servir à l'usage pour lequel il est loué et à procéder à l'entretien et aux réparations qui sont nécessaires pour assurer la conservation et l'usage de l'équipement, sous réserve du droit pour le locataire de voir à l'entretien mineur de l'équipement et aux réparations urgentes requises pour assurer le maintien en opération.
+[12] La clause intitulée «Assurances et exclusions de responsabilité» prévoit, entre autres, que Forestiers Jean-René Landry Inc. devra fournir et maintenir en vigueur à ses propres frais, pendant la durée du bail, une police d'assurance pour une limite de 1 000 000 $ protégeant les parties à ce contrat de et contre la responsabilité légale. De plus, toujours selon ce contrat, Les Entreprises Forestières Etchemin Ltée s'engagent «à payer à titre de loyer pour l'utilisation de l'équipement une somme correspondant à 8,50 $ le M3 solide».
+[13] Le 5 juin 2000, un autre contrat a été conclu entre les mêmes parties pour la location d'une «débusqueuse à pince John Deere» pour la période du 5 juin au 17 novembre 2000 (pièce A-2). Sous la rubrique «Durée du contrat et loyer», Les Entreprises Forestières Etchemin Ltée s'engagent «à payer à titre de loyer pour l'utilisation de l'équipement une somme correspondant à 5,90 $ le m3 solide».
+[14] Les clauses stipulées dans les deux contrats de location, soit pour l'abatteuse et la débusqueuse, sont les mêmes.
+[15] Un autre contrat de location de machinerie, ne portant aucune date, a été conclu entre les mêmes compagnies (pièce A-3) pour la période du 11 mai au 18 décembre 1998; ce contrat ne spécifie pas le genre de machinerie louée, seuls le modèle et le numéro de série de la pièce d'équipement y sont inscrits. Ce contrat énonce les conditions afférentes à la location, soit l'examen de l'équipement loué et son maintien en bon état de fonctionnement et énonce la responsabilité de chaque partie au contrat. De plus, selon ce contrat, Forestiers Jean-René Landry Inc. reconnaît que «les opérateurs d'équipement seront des membres réguliers des Entreprises Forestières Etchemin Ltée».
+[16] L'appelant a admis que la machinerie et le matériel roulant, en 2000, avaient une valeur aux livres de 71 185 $ et 21 527 $ respectivement avec un amortissement accumulé de 47 079 $ et 10 606 $ respectivement.
+[17] L'appelant a déclaré qu'il a travaillé comme opérateur de machinerie lourde pour Entreprises Forestières Serge Bureau Inc. du 25 mai au 25 septembre 1998, tel qu'en fait foi le relevé d'emploi déposé sous la cote A-1.
+[18] Un contrat de travail (pièce A-4) a été signé le 8 mai 2000 selon lequel Les Entreprises Forestières Etchemin Ltée retenait les services de l'appelant à titre d'opérateur d'abatteuse pour la période du 8 mai au 17 novembre 2000. Les obligations du salarié, soit l'appelant, décrites à ce contrat stipulent que :
+Le salarié exercera sa fonction à l'endroit et suivant l'horaire de travail que pourra lui indiquer, de temps à autre, l'Employeur [Les Entreprises Forestières Etchemin Ltée], suivant les besoins de l'entreprise.
+Le salarié s'engage à respecter tous les règlements de l'employeur.
+Le salarié s'engage à se conformer à toutes les lois et règlements provinciaux et fédéraux auxquels il est assujetti en raison de son emploi ou de sa présence en forêt.
+Le salarié consent à ce que l'employeur [Les Entreprises Forestières Etchemin Ltée] déduise de son salaire tous les montants légalement exigibles ainsi que ceux qui sont dus à l'employeur.
+Le présent contrat constitue l'entente complète et finale entre les parties au sujet des matières énoncées et a préséance sur tout contrat, entente ou engagement antérieur.
+[19] L'appelant était l'opérateur de l'abatteuse et son frère était l'opérateur de la débusqueuse; ces deux pièces d'équipement étaient la propriété de l'entreprise Forestiers Jean-René Landry Inc.
+[20] L'appelant a déclaré qu'il recevait du payeur un salaire fixe payé par chèque à toutes les semaines. Il a ajouté qu'il travaillait du lundi au vendredi midi. Selon lui, le contremaître du payeur surveillait les opérateurs de machinerie lourde, leur donnait ses directives le matin et leur indiquait les endroits où ils devaient couper le bois; les heures de travail étaient de 5 h à 17 h du lundi au jeudi et du 5 h à 12 h le vendredi. L'appelant a affirmé qu'il devait fournir des explications au payeur lorsqu'il s'absentait et a ajouté qu'il avait déjà été obligé de reprendre du travail et ce aux frais du payeur. Il a de plus déclaré que ces conditions étaient les mêmes que celles dans le cadre de son emploi en 1998.
+[21] En contre-interrogatoire, l'appelant a admis qu'il devait rencontrer les normes de travail exigées par le contremaître du payeur; si le travail n'était pas conforme, il devait être repris. Les dépenses reliées aux bris d'équipement, le carburant et les assurances étaient aux frais de l'entreprise de l'appelant. Selon le contrat de travail conclu entre Les Entreprises Forestières Etchemin Ltée et l'appelant, le salaire de ce dernier était fixé en fonction du taux horaire applicable (pièce A-4).
+[22] Selon les états financiers de l'entreprise de l'appelant (pièce I-1), le chiffre d'affaires s'établissait à 334 422 $ pour l'année d'imposition visée, soit du 1er mars 1998 au 28 février 1999. Lors de son témoignage, l'appelant a fourni des explications quant à certains montants inscrits dans les états financiers au 28 février 1999 (pièce I-1), dont celui sous la rubrique «débiteurs» à la page 7 indiquant qu'il s'agit de taxes sur les carburants à recevoir. L'appelant a également fourni des explications quant au montant de 73 792 $ représentant l'entretien et les réparations du matériel forestier et au montant de 41 850 $ pour les salaires et charges sociales reliés à certains contrats qu'il avait obtenus en Ontario durant l'année 1998.
+[23] Selon les états financiers au 29 février 2000 (pièce I-2), le chiffre d'affaires de l'entreprise de l'appelant s'élevait à 365 546 $; ce montant, selon l'appelant, représente les revenus générés par la location de l'abatteuse et la débusqueuse (skiddeuse) en vertu des contrats conclus avec Les Entreprises Forestières Etchemin Ltée. Quant au montant de 40 500 $ inscrit pour les débiteurs à la page 5 de ce document sous la rubrique «Actif», l'appelant explique qu'il s'agit de revenus pour du travail exécuté en Ontario. Il ne peut cependant donner d'explications quant au montant de 21 423 $ à la page 7 sous la rubrique «Débiteurs - comptes clients». Selon l'appelant, les frais généraux indiqués à la page 11 représentes les coûts d'opération de la machinerie lourde.
+[24] L'appelant affirme que les revenus inscrits dans ses déclarations de revenus pour les années 1998 et 2000 n'incluent pas le salaire-homme gagné lorsqu'au service du payeur, Les Entreprises Forestières Etchemin Ltée.
+[25] L'appelant réitère qu'il devait suivre les directives du contremaître du payeur, à défaut de quoi il était congédié et ajoute qu'il connaissait, en tant que «jobber», les normes gouvernementales.
+[26] Yvon Roy, témoin de l'intimé, a déclaré qu'il était le commis comptable du payeur et que sa responsabilité consistait à faire la compilation de la quantité de bois coupé. Selon lui, le salaire de l'appelant était déterminé selon la pratique dans la région, soit un montant global de 8 50 $ le mètre cube de bois coupé et de ce salaire le payeur déduisait les coûts de carburant, des repas et d'hébergement. De plus, le payeur faisait les déductions à la source du salaire de l'opérateur pour les bénéfices marginaux, impôts et assurance-chômage/assurance-emploi.
+[27] Ce témoin explique que l'opérateur n'était pas rémunéré lorsque sa machinerie était hors d'usage suite à un bris ou en réparation. Il ajoute que si l'opérateur vendait sa machinerie pendant la durée du contrat il était mis à pied. Les contremaîtres, selon ce témoin, surveillaient les travaux à tous les jours.
+[28] Revenu Canada a émis un communiqué en date du 30 juillet 1998 (pièce I‑6) ayant pour but de clarifier la politique relative aux travailleurs oeuvrant dans le domaine forestier et qui, en plus de rendre des services à un entrepreneur, louent leur machinerie lourde à ce même entrepreneur. Ce communiqué n'a pas force de loi; il s'agit d'un guide dont peut se servir l'opérateur-propriétaire pour déterminer la nature de ses relations contractuelles avec l'autre partie contractante. Les paragraphes 6 et 7 de ce communiqué se lisent comme suit :
+Contrat d'emploi
+6. Même si un opérateur-propriétaire peut être engagé en vertu d'un contrat de louage de services, de façon générale, chaque cas est étudié selon les circonstances qui l'entourent. Il est cependant possible de conclure que, lorsque le contrat d'emploi d'un opérateur-propriétaire respecte les conditions énoncées au paragraphe 7, cet emploi est considéré comme étant exercé en vertu d'un contrat de louage de services.
+7. Pour qu'il y ait un contrat de louage de services, les parties concernées (employeur et employé) doivent remplir les conditions suivantes :
+a) le contrat d'engagement doit être distinct du contrat de location de la machinerie;
+b) le mode de rémunération doit être indiqué dans le contrat (taux à l'heure, à la journée, à la pièce, etc.);
+c) l'employeur doit avoir le droit de contrôler la façon dont le travail sera exécuté (ce contrôle est généralement exercé par le contremaître sur le chantier);
+d c'est l'employeur qui indique au travailleur où il rendra les services et la durée de ceux-ci (endroit, horaire, durée, etc.);
+e) l'employeur a le droit de décider quels sont les travaux que l'opérateur exécutera;
+f) les services de l'opérateur-propriétaire ne doivent pas être directement liés aux opérations de sa machinerie. Par exemple, en cas de bris majeur, l'employeur peut attribuer à l'opérateur d'autres tâches pour lesquelles il sera rémunéré en conséquence; et
+g) l'employeur est responsable des blessures ou dommages causés par l'opérateur dans le cadre de ses fonctions, y compris les blessures subies par ce dernier.
+[29] Nonobstant les conditions de travail énoncées dans ls contrats écrits, il faut examiner l'ensemble de la preuve et les circonstances entourant l'emploi de l'appelant.
+[30] Dans la cause M.R.N. et Emily Standing (A-0857-90), le juge Stone de la Cour d'appel fédérale s'est exprimé ainsi :
+...Rien dans la jurisprudence ne permet d'avancer l'existence d'une telle relation du simple fait que les parties ont choisi de la définir ainsi sans égards aux circonstances entourantes appréciées en fonction du critère de l'arrêt Wiebe Door.
+[31] Dans l'arrêt Duplin c. Canada (ministre du Revenu national - M.R.N.), [2001] A.C.I. no 136, le juge Tardif de cette Cour s'est exprimé ainsi au paragraphe 30 de sa décision :
+En d'autres termes, la volonté des parties à une entente de travail n'est aucunement déterminante pour la qualification d'un contrat de travail en contrat de louage de services. Il s'agit essentiellement d'un élément parmi beaucoup d'autres.
+[32] Dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. No. 61, la Cour Suprême du Canada a retenu que le degré de contrôle exercé sur le travailleur est un élément essentiel à considérer afin de décider si ce dernier est un employé ou un entrepreneur indépendant.
+[33] La Cour suprême du Canada a énoncé le principe suivant à la page 2 de ce jugement :
+Aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou en entrepreneur indépendant. Il faut toujours déterminer quelle relation globale les parties entretiennent entre elles. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur.
+[34] Dans la cause sous étude, les seuls témoins entendus quant au degré. de contrôle ont été l'appelant et Yvon Roy, témoin de l'intimé et commis comptable du payeur.
+[35] L'appelant a déclaré que le contremaître du payeur surveillait les opérateurs de machinerie lourde, leur donnait ses directives le matin et leur indiquait les endroits où ils devaient couper du bois. L'appelant a ajouté qu'il devait reprendre des travaux si ceux-ci n'étaient pas à la satisfaction du contremaître.
+[36] Lors de son témoignage, Yvon Roy a déclaré que le contremaître surveillait les travaux à tous les jours. Cependant, ce témoin n'était pas sur place pour apprécier le degré de contrôle sur les travailleurs.
+[37] L'appelant avait le fardeau de la preuve et il a été le seul témoin à expliquer le degré de contrôle : l'indication de faire attention à des clôtures ou à des ruisseaux n'est pas un contrôle sur le travailleur. La jurisprudence est constante : un contrôle des lieux ou mesurage n'est pas un contrôle sur le travailleur mais un contrôle sur le résultat. Le degré de contrôle exercé sur les activités de l'appelant ne permet pas à la Cour de conclure qu'il existait un contrat de louage de services.
+[38] En plus du degré de contrôle, d'autres éléments pour distinguer le contrat de louage de services du contrat d'entreprise sont énoncés dans la cause Wiebe Door Services ltd. c. M.R.N., [1986] 3 C.F. 553 : la propriété des outils, les chances de profit et risques de perte et l'intégration du travail de l'employé à l'entreprise de l'employeur.
+[39] Dans la cause sous étude, les outils de travail sont la débusqueuse et l'abatteuse et sont la propriété de Forestiers Jean-René Landry Inc. dont l'appelant possède 100 pour cent des actions votantes.
+[40] Forestiers Jean-René Landry Inc. assumait toutes les dépenses reliées à la machinerie, soit le diesel et les diverses réparations. Bien que cette entreprise et l'appelant sont deux entités distinctes, l'appelant en a le contrôle. La Cour peut conclure d'après cet élément qu'il s'agissait d'un contrat d'entreprise.
+[41] Quant aux chances de profit et risques de perte, la compagnie Forestiers Jean-René Landry Inc., contrôlée par l'appelant, la situation est telle que l'appelant assumait des pertes lorsqu'il devait reprendre des travaux qui n'étaient pas conformes ou n'étaient pas à la satisfaction du payeur. Les revenus de l'appelant étaient plutôt basés sur la production. Sur certaines factures déposées en preuve sous la cote I-4, on y retrouve des montants d'argent sous les rubriques «salaire» ou «avance» alors que sur d'autres aucun montant n'apparaît sous ces rubriques.
+[42] Quant à l'élément d'intégration, l'appelant était intégré aux opérations de Forestiers Jean-René Landry Inc. Cette entreprise était exploitée dans le domaine forestier et avait des contrats avec le payeur, Les Entreprises Forestières Etchemin Ltée ainsi qu'avec d'autres compagnies situées en Ontario et au Québec. Les déclarations de revenus des sociétés déposées en preuve (pièce I‑1) indiquent bien que l'appelant, par l'entremise de sa compagnie, avait des contrats avec d'autres compagnies forestières.
+[43] L'entreprise de l'appelant embauchait deux opérateurs, dont le frère de l'appelant, qui travaillaient avec sa machinerie durant les périodes en litige, ce qui est un facteur qui permet de conclure qu'il s'agissait plutôt d'un contrat d'entreprise que d'un contrat de louage de services.
+[44] Le travail de l'appelant était étroitement lié à l'opération de la machinerie de sa compagnie; si la machinerie brisait l'appelant n'était pas assigné à d'autres tâches mais il était mis à pied.
+[45] La preuve, telle que présentée, a décrit les conditions de travail durant la période du 8 mai au 20 octobre 2000. Quant à la période du 28 septembre au 27 novembre 1998, l'appelant a simplement déclaré qu'il travaillait pour le payeur aux mêmes conditions de travail que lors de la période en l'an 2000.
+[46] Tenant compte de l'ensemble de la preuve et des circonstances entourant l'emploi de l'appelant, ce dernier était à l'emploi de Forestiers Jean‑René Landry Inc. En conséquence, l'emploi exercé par l'appelant durant les périodes en litige auprès de l'employeur Forestiers Jean-René Landry Inc. est exclu des emplois assurables car l'appelant contrôlait plus de 40 pour cent des actions comportant droit de vote de cette entreprise conformément à l'alinéa 5(2)b) de la Loi.
+[47] L'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce 10e jour de juin 2003.
+« J.F. Somers »
+J.S.C.C.I.
+RÉFÉRENCE :
+2003CCI178
+No DU DOSSIER DE LA COUR :
+2001-3288(EI)
+INTITULÉ DE LA CAUSE :
+Jean-René Landry et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 30 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l’honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+le 10 juin 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me Jérôme Carrier
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Jérôme Carrier
+Étude :
+Rochon, Belzile, Carrier, Auger
+Québec (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

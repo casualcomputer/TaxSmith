@@ -1,0 +1,183 @@
+Title: Bryan v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521313/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-108-521313-bryan-v-the-king.md
+Document type: case_law
+Last modified: 2024-08-13
+
+# Bryan v. The King
+
+- Citation: 2024 TCC 108
+- Decision date: 2024-08-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5722, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bryan v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-08-13
+Neutral citation
+2024 TCC 108
+File numbers
+2020-1614(GST)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-1614(GST)G
+BETWEEN:
+KIRK BRYAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on March 15, 2023, at Toronto, Ontario
+Before: The Honourable Justice Susan Wong
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Lawrence
+JUDGMENT
+The appeal of the April 24, 2019 reassessment made under the Excise Tax Act for the reporting period from March 1, 2018 to March 31, 2018 is dismissed, with costs.
+The parties shall have until November 29, 2024 to reach an agreement as to costs, failing which the respondent shall file written submissions by January 10, 2025 and the appellant shall file a written response by February 10, 2025. Any such submissions shall not exceed ten pages in length.
+If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed at Ottawa, Canada, this 13th day of August 2024.
+“Susan Wong”
+Wong J.
+Citation: 2024TCC108
+Date: 20240813
+Docket: 2020-1614(GST)G
+BETWEEN:
+KIRK BRYAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction/Overview
+[1] The appellant purchased a lot and built a new house on it. He ultimately decided to sell the house but did not collect GST from the purchaser.
+[2] He says that the sale was GST-exempt because the house was either a used residential property[1] or a builder-occupied residential property.[2]
+Issues
+[3] The two central questions are:
+whether the appellant was a “builder” within the meaning of subsection 123(1) of the Excise Tax Act; and
+whether the appellant used the house primarily as his place of residence after construction was substantially completed.
+Legislative framework
+[4] To be GST-exempt as a used residential property, the sale must be made by someone who is not a builder.[3] The rest of section 2 in Part I of Schedule V does not apply, given the surrounding circumstances in this appeal.
+[5] To be GST-exempt as a builder-occupied residential property[4], it requires that:
+the sale of the house be made by an individual who is also the builder;
+b. at any time after construction is substantially completed, the house is used primarily as the residence of the individual or someone related to the individual; and
+the house is not used primarily for any other purpose between the time that construction is substantially completed and the house is used as a residence by the individual or their relative.
+The rest of section 3 in Part I of Schedule V does not apply, given the surrounding circumstances of this appeal.
+[6] The relevant parts of the definition of “builder”[5] are as follows:
+123. (1) “builder” of a residential complex … means a person who
+(a) at a time when the person has an interest in the real property on which the complex is situated, carries on or engages another person to carry on for the person
+(iii) … the construction or substantial renovation of the complex,
+…
+but does not include
+(f) an individual described in paragraph (a) … who
+(ii) engages another person to carry on the construction or substantial renovation for the individual…
+otherwise than in the course of a business or an adventure or concern in the nature of trade…
+[7] In other words, the construction or substantial renovation must be done in the course of a business or an adventure/concern in the nature of trade in order for the person to be considered a “builder”. It is well-established that a single acquisition and disposition of property can be an adventure in the nature of trade and it is a question of fact.[6]
+[8] Even where the primary intention is to reside on the property in question, a secondary intention to resell at a profit gives the acquisition of the property the dual character of capital and an adventure in the nature of trade. In order for there to be such a secondary intention, the possibility of resale for profit must have been an operating motivation for the acquisition in the first place.[7] Determining whether this secondary intention exists is based on inferences drawn from the surrounding circumstances.[8]
+[9] The self-supply rules under section 191 are also relevant here. If a builder is an individual who occupies the house before selling it, the builder may have to self-assess, pay GST on the sale, and typically claim offsetting input tax credits.[9] On the other hand, if the builder is an individual who uses the house primarily as a place of residence after construction, then an exception for personal use may apply to preclude the requirement to self-assess.[10]
+Factual background
+[10] The appellant emigrated from Jamaica in 2002, shortly after his father died. His mother and brother stayed behind in Jamaica for seven more years and joined him in Canada in 2009.
+[11] The appellant married his wife in 2011 and purchased a townhome at 51 Keywood Street in Ajax in 2012. He stated that he worked as an account executive for a bottled water company and sold mortgages as a second job, while his wife worked at Shoppers Drug Mart.
+[12] He testified that they became aware of a nearby lot with a burned-down building for sale at 56 Rideout in Ajax. They purchased it for about $256,000 in 2015 and engaged Wiltshire Homes Canada Inc. to build a new house on the lot.
+[13] He stated that their plan was to build a house on 56 Rideout where he, his wife, their children, his mother, and his brother could live. Back then, they were expecting a second child and at the time of the hearing, they had three young children. He stated that they could not qualify for a traditional bank mortgage so they obtained three interest-only mortgages from private lenders to finance the construction.
+[14] In September 2015, the appellant and his wife also incorporated Genesis Financial Investment Group Ltd.[11] Genesis was a mortgage brokerage and they obtained their licence to sell mortgages in 2017. The appellant stated that he initially worked from a rented desk in a real estate office and when they eventually hired agents for Genesis, they set up their own physical office in 2019. He stated that his mother and brother then began working for Genesis that year.
+[15] The appellant testified that 56 Rideout was his first experience building a house and every step from plans to permits to construction took longer than expected. He stated that construction was substantially completed in September 2017, with a significant amount of finishing work still to be done. He stated that they began occupying the new house on a half-time basis, i.e. splitting their time between 56 Rideout and 51 Keywood.
+[16] During cross-examination, he was reminded that during examinations for discovery, he said they moved a sofa and other belongings into 56 Rideout during the first week of January 2018 while his mother began moving her things into 51 Keywood. He also stated later in cross-examination that the sofa and a television were moved into 56 Rideout in 2017 while the full move of their belongings was done in January 2018. With respect to his mother, he elaborated that she had moved into 51 Keywood in 2016 but still had belongings in storage.
+[17] He explained that their plan was to refinance with a traditional bank mortgage to repay the construction mortgages. However, his wife lost her job at Shoppers Drug Mart and based on their total income, they could not qualify for a bank mortgage. He stated that as a result, they were forced to sell 56 Rideout. He testified that someone at Wiltshire Homes knew of a prospective purchaser. On November 19, 2017, he entered into an agreement of purchase and sale with this prospective purchaser for a sale price of $1.3M.[12]
+[18] Paragraph 7 of the purchase and sale agreement says that if the sale of 56 Rideout is subject to HST, then “such tax shall be included in the purchase price” and if the sale is not subject to HST, the “seller agrees to certify on or before closing, that the sale of the property is not subject to HST.”[13] The sale closed on about March 27, 2018 and there is no mention of HST in the statement of adjustments.[14] In cross-examination, the appellant stated that he did not understand what certification meant and that he assumed his lawyer took care of it.
+[19] The acknowledgment and direction form completed as part of the transfer of 56 Rideout to the third-party purchaser is signed March 23, 2018. It shows the appellant as transferor and below his name, he certifies that “the property is not ordinarily occupied by me and my spouse, who is not separated from me, as our family residence.”[15] In cross-examination, the appellant explained that he and his wife moved out of 56 Rideout in March 2018.
+[20] As proof of having resided at 56 Rideout prior to its sale, the appellant provided copies of the following:
+partial Enbridge gas statements for 56 Rideout from February/March/April 2018 showing him as the account holder. There is a new account charge of $28.25 on the February 20, 2018 statement for the February 12 to 15, 2018 billing period. The statements show that the monthly balance owing was cumulatively carried forward to the next month rather than paid;[16]
+property insurance documents showing coverage for two consecutive one‑year periods from March 2017 to March 2018, and then March 2018 to March 2019. The appellant is the policy holder and his address on the policy is 51 Keywood. The respective descriptions on the policy and subsequent renewal are “house occupied as principal residence and occupied by others” and “principal residence occupied by others”;[17] and
+Veridian electricity bills for 56 Rideout showing usage from about February to July 2017 and the appellant as account holder. The service type is identified as “small commercial”. The bills show that the appellant paid a $400 deposit to the account but the outstanding monthly balance was cumulatively carried forward over the 4-month period from March to July 2017.[18]
+[21] The appellant explained that his mother lived in her own place until 2015, when she began having problems with her landlord. He stated that she then began dividing her time between staying with her sister and with the appellant. He stated that his mother moved into 51 Keywood full-time in 2016. He testified that at the time, the plan was for his mother and aunt to reside at 51 Keywood while everyone else would move into 56 Rideout when construction was finished.
+[22] As proof of the intention to have his mother live at 51 Keywood, copies of the following documents were introduced:
+a residential tenancy agreement between the appellant and his mother for a fixed term from January 5, 2017 to December 31, 2019. The agreement is dated January 4, 2017 and produced on a 2018 version of a standard form of lease from the Queen’s Printer for Ontario. It also states that rent is to be paid to the landlord at 56 Rideout or a different location to be provided by the landlord;[19]
+a residential tenancy agreement between the appellant and his mother for a fixed term from January 2018 to December 2020. The agreement is dated January 1, 2018 and the landlord’s address is 51 Keywood.[20]
+[23] During cross-examination, the appellant was reminded of his response during examinations for discovery when he was asked about the overlapping leases and a lease beginning in 2017 being prepared on a 2018 standard form. He answered during discoveries that he did not know why the leases overlapped or why the 2017 lease appeared to be backdated. At the hearing, he explained that he prepared two tenancy agreements because his aunt was originally going to move in with his mother. Both agreements show only his mother as tenant.
+[24] The appellant stated that his accountant in 2017 advised him he could claim rebates on GST paid by Genesis. With a view to claiming input tax credits, the appellant then recorded amounts paid to Wiltshire Homes in a summary of GST paid by Genesis in 2017.[21] He stated that he later learned Genesis’ services were GST-exempt so nothing more became of this summary.
+Analysis and discussion
+[25] Despite extensive and repeated testimony, the timeline of events surrounding the construction and sale of the property is difficult to follow and pin down with certainty.
+[26] The appellant was a part-time mortgage broker and started his own mortgage brokerage (Genesis) the same year he purchased 56 Rideout. As a mortgage broker, he would have understood better than the average person the high risk of the interest-only mortgages from private lenders versus the traditional bank mortgage. I accept that he and his wife considered their ability to qualify for the latter in deciding which path to take (i.e. sell or not).
+[27] The appellant had no experience building a house and additionally, no experience balancing the co-existing possibilities of living in the house or selling it for a profit. As a result, many steps do not appear to be fully taken or were not fully thought out.
+[28] For example, the appellant apparently stated during discoveries that he moved a sofa and other belongings into 56 Rideout in January 2018. In cross‑examination during the hearing, he testified that the sofa and a television were moved into 56 Rideout in 2017 while the rest of their belongings were moved into the house in January 2018. It is unclear and illogical as to why he would move all of his family’s belongings into 56 Rideout in January 2018 when the property had already been sold in November 2017, with the new owner taking possession in March 2018. In the surrounding circumstances, it makes sense if one considers that he was likely attempting to establish residence so that he would not have to collect/remit GST.
+[29] On the other hand, he also tracked GST payments made to Wiltshire Homes in 2017 with a view to claiming input tax credits under Genesis. It suggests that he did not understand the GST regime but also that he was thinking of himself as a builder in that context.
+[30] The Veridian and Enbridge statements show cumulative unpaid balances carried forward from the opening of both accounts for at least several months. The Enbridge gas account was opened in February 2018 and the statements were tendered into evidence as proof of the appellant’s intention to reside at 56 Rideout. Given the fact that construction was substantially completed in September 2017 and the new owner would take possession in March 2018 (i.e. one month after the gas account was opened), it suggests that the appellant likely did not spend a meaningful amount of time at 56 Rideout before selling.
+[31] The appellant’s conflation of events and timelines suggests that at the time he acquired the lot to build a house at 56 Rideout, he likely had both the possibility of residing there and selling as dual operating motivations. In other words, the acquisition of the property had the dual character of capital and an adventure in the nature of trade[22]; therefore, the appellant was a builder within the meaning of subsection 123(1).
+[32] In the circumstances, I cannot find that 56 Rideout was used primarily as a residence by the appellant (or someone related to him). The Enbridge statements, the conflation of the timeline for moving his personal belongings into the new house, and the imminent possession by the third-party purchaser suggest that on a balance of probabilities, the level of occupation was something less than a place of residence. The requirement that a property be “used primarily as a place of residence”[23] may be lower than “primary place of residence”[24] but it still implies a level of intention to reside rather than to just pass through.[25]
+[33] The purchase and sale agreement included a provision that GST was included in the $1.3M price unless the seller certified that the sale was not subject to GST.[26] Although the appellant seemed unaware of this provision and testified that he relied on his lawyer in this regard, the ultimate responsibility for collection and remittance of GST remained his. He was obliged to either collect the GST from the purchaser or from himself as a deemed sale under the self-supply rules.
+[34] It seems that as a builder, the appellant might reasonably qualify for offsetting input tax credits (which he seemed to contemplate at one point).[27] He may benefit from assistance from a tax professional in this regard.
+Conclusion
+[35] The appeal is dismissed, with costs.
+[36] The parties shall have until November 29, 2024 to reach an agreement as to costs, failing which the respondent shall file written submissions by January 10, 2025 and the appellant shall file a written response by February 10, 2025. Any such submissions shall not exceed ten pages in length.
+[37] If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed at Ottawa, Canada, this 13th day of August 2024.
+“Susan Wong”
+Wong J.
+CITATION:
+2024 TCC 108
+COURT FILE NO.:
+2020-1614(GST)G
+STYLE OF CAUSE:
+Kirk Bryan v. His Majesty The King
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 15, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+August 13, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Lawrence
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Excise Tax Act, Schedule V, Part I, section 2
+[2] Excise Tax Act, Schedule V, Part I, section 3
+[3] Excise Tax Act, Schedule V, Part I, section 2
+[4] Excise Tax Act, Schedule V, Part I, section 3
+[5] Excise Tax Act, subsection 123(1)
+[6] Genge v. Canada, [1996] GSTC 38 (TCC) at paragraph 19; Minister of National Revenue v. Freud (1968), 70 DLR(2d) 306 (SCC) at page 310
+[7] Genge v. Canada, [1996] GSTC 38 (TCC) at paragraph 20; Happy Valley Farms Ltd v. The Queen, 1986 CanLII 7434 (FC) at paragraph 16; Martinuzzi v. The Queen, 1999 CanLII 302 (TCC) at paragraphs 42 and 46; Racine et al v. Minister of National Revenue, 65 DTC 5098 at 5103
+[8] Genge v. Canada, [1996] GSTC 38 (TCC) at paragraph 20; Racine et al v. Minister of National Revenue, 65 DTC 5098 at 5103
+[9] Excise Tax Act, subsection 191(1)
+[10] Excise Tax Act, subsection 191(5)
+[11] Exhibit R-1, Tab 1
+[12] Exhibit R-1, Tab 5
+[13] Exhibit R-1, Tab 5
+[14] Exhibit R-1, Tab 9
+[15] Exhibit R-1, Tab 10
+[16] Exhibit A-1
+[17] Exhibits A-2, A-3, and R-2
+[18] Exhibit A-5
+[19] Exhibit R-1, Tab 2
+[20] Exhibit R-1, Tab 6
+[21] Exhibit R-1, Tab 4
+[22] Genge v. Canada, [1996] GSTC 38 (TCC) at paragraph 20; Happy Valley Farms Ltd v. The Queen, 1986 CanLII 7434 (FC) at paragraph 16; Martinuzzi v. The Queen, 1999 CanLII 302 (TCC) at paragraphs 42 and 46; Racine et al v. Minister of National Revenue, 65 DTC 5098 at 5103
+[23] Excise Tax Act, subsection 191(5) and Schedule V, Part I, section 3
+[24] Excise Tax Act, subsections 254(2) and 256(2)
+[25] Sangha v. The Queen, 2013 TCC 69 (CanLII) at paragraph 37
+[26] Exhibit R-1, Tab 5
+[27] Exhibit R-1, Tab 4

@@ -1,0 +1,180 @@
+---
+title: "Johnson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29846/index.do"
+last_modified: "2010-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 321"
+citation2: ""
+neutral_citation: "2010 CCI 321"
+decision_date: "2010-06-14"
+language: "fr"
+item_id: "29846"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6498
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:53:56.756000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9f8f33698db7b0336576874124fb99ff96446c7bd76c8cd3481065c5f7561e6e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Johnson c. La Reine
+
+- Citation: 2010 CCI 321
+- Decision date: 2010-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6498, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-14
+Référence neutre
+2010 CCI 321
+Numéro de dossier
+2009-2937(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009­2937(IT)I
+ENTRE :
+CLARK JOHNSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 avril 2010, à Thunder Bay (Ontario).
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rachelle Nadeau
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie sous le régime de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2007 est accueilli, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que, dans le calcul des crédits d’impôt non remboursables, l’appelant peut déduire des frais médicaux supplémentaires de 2 060 $.
+Signé à Ottawa, Canada, ce 14e jour de juin 2010.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 30e jour de juillet 2010.
+Marie­Christine Gervais, traductrice
+Référence : 2010 CCI 321
+Date : 20100614
+Dossier : 2009­2937(IT)I
+ENTRE :
+CLARK JOHNSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelant interjette appel du refus partiel opposé au crédit d’impôt pour frais médicaux qu’il a demandé relativement à l’année d’imposition 2007.
+[2] En 2007, il s’est rendu de Thunder Bay à Chicago pour y subir un traitement médical. Il a payé son billet d’avion en utilisant les points qu’il avait accumulés en qualité de grand voyageur dans le cadre du programme Aéroplan et en versant une somme de 220 $ au titre des taxes.
+[3] Le ministre du Revenu national (le « ministre ») a uniquement accepté la partie en espèces du coût du billet comme frais médicaux parce que, selon lui, l’appelant n’avait payé aucune somme autre que celle de 220 $ versée au titre des taxes sur le billet.
+[4] L’appelant affirme qu’il a payé une somme pour le billet lorsqu’il a utilisé ses points Aéroplan, et qu’il devrait pouvoir déduire la valeur de ces points à titre de frais médicaux.
+[5] Le crédit d’impôt pour frais médicaux est prévu au paragraphe 118.2(1) de la Loi de l’impôt sur le revenu (la « Loi »). Les frais admissibles au titre de ce crédit sont énoncés au paragraphe 118.2(2) de la Loi. Ils comprennent les sommes payées par un particulier pour se rendre à un lieu situé à au moins 40 kilomètres de sa résidence afin d’obtenir un traitement médical qu’il n’est pas possible d’obtenir dans la localité où il habite [alinéa 118.2(2)g)].
+[6] Selon les premiers mots du paragraphe 118.2(2), des frais doivent avoir été payés pour donner lieu à des frais médicaux. La partie pertinente de cette disposition en l’espèce est ainsi rédigée :
+118.2(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+a) […]
+g) à une personne dont l’activité est une entreprise de transport, dans la mesure où ce paiement se rapporte au transport, entre la localité où habitent le particulier, son époux ou conjoint de fait ou une personne à charge visée à l’alinéa a) et le lieu – situé à 40 kilomètres au moins de cette localité – où des services médicaux sont habituellement dispensés, ou vice‑versa, des personnes suivantes :
+(i) le particulier, l’époux ou conjoint de fait ou la personne à charge,
+[…]
+si les conditions suivantes sont réunies :
+(iii) il n’est pas possible d’obtenir dans cette localité des services médicaux sensiblement équivalents,
+(iv) l’itinéraire emprunté par le particulier, l’époux ou conjoint de fait ou la personne à charge est, compte tenu des circonstances, un itinéraire raisonnablement direct,
+(v) le particulier, l’époux ou conjoint de fait ou la personne à charge se rendent en ce lieu afin d’obtenir des services médicaux pour eux‑mêmes et il est raisonnable, compte tenu des circonstances, qu’ils s’y rendent à cette fin;
+[Non souligné dans l’original.]
+[7] La première question en litige dans le présent appel est celle de savoir si les points Aéroplan que l’appelant a donnés en contrepartie du billet d’avion constituent des frais payés pour le billet.
+[8] À l’audience, l’intimée a également soutenu que la valeur des points utilisés pour obtenir le billet ne pouvait être déterminée et qu’on ne pouvait donc affirmer que des frais avaient été payés par l’appelant pour le billet.
+[9] Dans son témoignage, l’appelant a déclaré qu’il avait utilisé 76 000 points Aéroplan pour se rendre à Chicago et en revenir. Il avait réservé les billets dans un délai relativement court, soit quelques semaines avant le départ, après avoir pris les rendez‑vous nécessaires pour son traitement médical.
+[10] Lorsqu’il a rempli sa déclaration de revenus, il s’est rendu sur le site Web d’Air Canada et il a constaté que le prix d’un billet équivalent pour le voyage était alors de 2 280 $, mais il n’a pu découvrir le coût réel qu’il aurait dû supporter pour ses vols s’il avait payé comptant. Il a également produit deux imprimés des tarifs aériens affichés sur le site Web d’Air Canada montrant que le tarif total pour le vol aller‑retour de Thunder Bay à Chicago aurait été de 2 678,78 $ s’il avait été effectué en septembre 2008 et de 2 932,18 $ s’il avait eu lieu en mars 2009. Le premier tarif visait la catégorie « Latitude », le second la catégorie « Tango Plus ». Ces tarifs s’appliquent apparemment à deux catégories de la classe économiques. La preuve ne permet pas de savoir quel tarif s’appliquait au voyage effectué par l’appelant, outre le fait qu’il s’agissait d’un tarif de la classe économique.
+[11] L’appelant a aussi affirmé qu’il était possible d’acheter des points Aéroplan au coût de 0,03 $ le point, et il a fourni un imprimé du site Web d’Aéroplan confirmant ce tarif. Il a en outre mentionné que 76 000 points suffisaient pour réserver cinq voyages aller‑retour de Thunder Bay à Ottawa, Winnipeg, Toronto ou la ville de Québec.
+[12] En ce qui concerne la première question, l’intimée fait valoir que l’appelant n’a payé aucuns frais au sens du paragraphe 118.2(2) de la Loi parce qu’il n’a versé aucune somme pour le billet. L’avocate de l’intimée a soutenu que le transfert d’une contrepartie [TRADUCTION] « qui s’évalue en argent » ne constitue pas des « frais payés ». Je ne suis pas d’accord.
+[13] Le terme « payés » n’est pas défini dans la Loi. Le Canadian Oxford Dictionary (2e éd.) définit ainsi le terme « pay » (payer) :
+[TRADUCTION]
+1. Donner (à une personne, etc.) ce qui est dû pour des services rendus, des marchandises reçues, des dettes contractées, etc.
+La définition du terme « payment » (paiement) dans le Black’s Law Dictionary (9e éd.) est la suivante :
+[TRADUCTION]
+Exécution d’une obligation par la remise d’une somme d’argent ou d’une autre chose de valeur acceptée à titre de décharge partielle ou intégrale de l’obligation.
+[14] Le mot « frais » qui précède le terme « payés » au paragraphe 118.2(2) correspond au terme « amount » dans la version anglaise de la Loi, dont l’équivalent français est « montant », et ce dernier est défini de la manière suivante au paragraphe 248(1) de la Loi :
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+« montant » Argent, droit ou chose exprimés sous forme d’un montant d’argent, ou valeur du droit ou de la chose exprimée en argent. […]
+[15] Par conséquent, l’expression « frais payés » englobe les paiements faits au moyen du transfert d’un droit ou d’une chose lorsque la valeur du droit ou de la chose peut être exprimée sous forme d’une somme due, et ne se restreint pas au transfert ou à la remise d’argent seulement.
+[16] Cette position a été acceptée dans la décision Gibson v. The Queen[1]. Dans cette affaire, le contribuable devait des sommes à titre de pension alimentaire à son ex‑épouse et cet arriéré avait été compensé, par suite d’un jugement sur consentement, par les droits que détenait le contribuable sur les biens matrimoniaux. Le contribuable a tenté de déduire, à titre de pension alimentaire, les sommes visées par la compensation en application de l’alinéa 60(1)b) ou c) de la Loi. Or, ces deux dispositions exigent qu’il y ait eu une « somme payée […] par le contribuable ». L’intimée a soutenu qu’il était nécessaire que des espèces ou des chèques soient remis pour qu’il y ait une « somme payée ». La Cour a rejeté cette thèse. En effet, elle a conclu que la compensation avait donné lieu au paiement d’une somme par le contribuable. Au paragraphe 10 de la décision, le juge O’Connor s’exprime en ces termes :
+La Cour conclut que, par suite du jugement sur consentement et du transfert effectué conformément à celui‑ci, l’appelant était libéré à l’égard de tout arriéré de paiement de pension alimentaire sauf à l’égard d’une somme de 5 100 $. Par conséquent, le transfert doit de toute évidence être considéré comme un genre de paiement. La Cour conclut donc que, pour que l’alinéa 60b) ou c) s’applique, il ne faut pas nécessairement que le paiement soit fait en espèces ou par chèque. Le paiement en nature, à condition qu’il y ait eu un accord ou une détermination exécutive de la valeur en argent de l’objet donné, suffit.
+[17] Les propos tenus par le juge O’Connor au sujet de l’existence d’un accord obligatoire quant à la valeur en argent de l’objet donné paraissent excessivement restrictifs. Je crois qu’une preuve tangible de la valeur du droit ou de la chose transféré suffirait pour quantifier la somme payée.
+[18] Je signale en outre que, dans la décision Gibson, la Cour a refusé de suivre la décision Blais v. The Queen[2], dans laquelle le juge Garon (tel était alors son titre) a conclu que, dans le contexte de l’alinéa 60b) de la Loi, le verbe « payer » s’entendait d’un « versement d’argent, un décaissement de fonds ». Comme la Cour n’a renvoyé à aucune définition ou autre source ni présenté aucune analyse à l’appui de sa conclusion, j’estime aussi qu’il n’y a pas lieu de suivre la décision Blais.
+[19] Dans la décision Hallet c. La Reine[3], il s’agissait de savoir si un paiement en nature constituait une somme reçue par la contribuable. Dans cette affaire, l’ex‑époux de la contribuable avait transféré à celle‑ci le droit qu’il détenait sur une maison mobile en compensation de l’arriéré de pension alimentaire. Le ministre a inclus la valeur de ce droit dans le revenu de la contribuable à titre de pension alimentaire en application de l’alinéa 56(1)c) de la Loi. Lorsqu’il a conclu que le transfert donnait lieu à la réception d’une somme par la contribuable, le juge Bowie a tenu les propos suivants au paragraphe 4 :
+[…] Si la valeur des paiements en nature n’était pas un paiement aux fins de la Loi, les profits tirés d’un grand nombre d’opérations commerciales seraient exempts d’impôt; c’est pour cette raison que le Parlement a défini le terme « montant » comme il l’a fait.
+[20] Les deux décisions invoquées par l’avocate de l’intimée, soit William Coutts Co., o/a Hallmark Cards v. The Queen[4] et Joshi c. La Reine[5] ne permettent pas d’affirmer que le versement d’une somme nécessite le transfert ou la remise d’argent.
+[21] Dans l’affaire Coutts, le contribuable vendait des cartes de souhaits et facturait ensuite aux clients le coût des cartes et la TPS applicable. Il accordait à ses clients un rabais de 2 pour 100 sur leur facture lorsque celle‑ci était payée rapidement. Le contribuable a fait valoir qu’en accordant ce rabais, il versait une remise à ses clients, et que cette remise pouvait faire l’objet de certains crédits de taxe sur les intrants conformément à l’article 181.1 de la Loi sur la taxe d’accise.
+[22] La Cour a conclu que, lorsqu’il avait accordé le rabais, le contribuable avait versé une remise. Elle a estimé que le paiement, par les clients, de 98 pour 100 du prix total figurant sur la facture envoyée par le contribuable équivalait à la réunion de deux paiements théoriques distincts – soit le paiement, par le client, du prix total facturé et le paiement, par le contribuable, du rabais de 2 pour 100 – en un seul. Cette décision ne paraît pas étayer la thèse de l’intimée puisque la Cour a conclu qu’il n’était pas nécessaire que le contribuable fasse un paiement en argent pour qu’il « verse » une remise à ses clients.
+[23] La décision Joshi intéresse un appel interjeté à l’égard du refus d’accorder la déduction de frais de déménagement. Le contribuable avait déduit des sommes au titre de la main‑d’œuvre fournie par son épouse et les membres de la famille de cette dernière, qui l’avaient aidé à déménager. Le contribuable a admis qu’il ne leur avait rien payé et que la déduction se fondait sur la valeur de la main‑d’œuvre qu’ils avaient fournie. La déduction a été refusée par la Cour parce qu’aucune somme n’avait été payée, contrairement à ce qu’exige le paragraphe 62(1) de la Loi.
+[24] L’avocate en l’espèce a invoqué les propos suivants formulés par le juge O’Connor dans la décision Joshi[6] :
+[…] le paragraphe 62(1) ne reconnaît pas la valeur attribuée en tant que dépense déductible; pour qu’une déduction puisse être effectuée, il faut qu’un montant ait été payé. En l’espèce, aucune somme d’argent n’a été dépensée, de sorte qu’aucune déduction ne peut être effectuée.
+[25] Cependant, la raison pour laquelle la Cour a refusé la déduction tient au fait que le contribuable n’avait remis aucune contrepartie de quelque nature que ce soit en échange de la main‑d’œuvre fournie. C’est ce qui ressort du paragraphe 18 de la décision :
+18. L’appelant n’a remis à son épouse et aux autres membres de la famille qui l’ont aidé à déménager aucune contrepartie en échange de leur aide. Le paragraphe 62(1) prévoit ce qui suit : « Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement [...] » [je souligne]. Selon le paragraphe 248(1) le mot « somme » a le même sens que « montant » , et le mot « montant » est défini comme suit : « Argent, droit ou chose exprimés sous forme d’un montant d’argent, ou valeur du droit ou de la chose exprimée en argent [...]. » En l’espèce, l’appelant n’a pas versé d’argent, de droit ou de chose exprimés sous forme d’un montant d’argent à son épouse ou à sa famille.
+[Non souligné dans l’original.]
+[26] Dans la présente affaire, je conclus, d’une part, que les points utilisés par l’appelant pour l’achat du billet constituaient un droit parce qu’ils pouvaient être échangés contre des services de transport aérien à sa demande et, d’autre part, que ces points avaient une valeur susceptible d’être exprimée en argent puisque les services contre lesquels ils pouvaient être échangés étaient offerts à un prix fixe à des parties sans lien de dépendance. En outre, il était possible d’acheter des points au prix de 0,03 $ chacun. Quand il a échangé ses points, l’appelant a remis ce qui était dû pour les services et il a donc « payé » ceux‑ci selon le sens ordinaire de ce terme. Il s’ensuit que le montant payé par l’appelant comprenait 76 000 points Aéroplan.
+[27] La deuxième question en litige touchant la valeur des points Aéroplan a été soulevée par l’intimée à l’audience. La réponse à l’avis d’appel ne mentionne pas que la valeur des points que l’appelant a accumulés en sa qualité de grand voyageur et qu’il a ensuite échangés était en litige. Il incombait donc à l’intimée d’établir que la valeur de ces points était inférieure à la somme déduite par l’appelant. Or, l’intimée n’a présenté aucun élément de preuve quant à leur valeur et l’avocate n’a pas contesté le témoignage de l’appelant. Par conséquent, l’intimée ne peut obtenir gain de cause sur ce point.
+[28] Pour ces raisons, l’appel est accueilli et l’appelant a droit à des frais médicaux supplémentaires de 2 060 $ dans le calcul du crédit pour frais médicaux relatif à son année d’imposition 2007.
+Signé à Ottawa, Canada, ce 14e jour de juin 2010.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 30e jour de juillet 2010.
+Marie­Christine Gervais, traductrice
+RÉFÉRENCE : 2010 CCI 321
+NO DU DOSSIER DE LA COUR : 2009­2937(IT)I
+INTITULÉ : Clark Johnson et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Thunder Bay (Ontario)
+DATE DE L’AUDIENCE : Le 13 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge Brent Paris
+DATE DU JUGEMENT : Le 14 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Rachelle Nadeau
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : Myles Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1996] 1 C.T.C. 2105.
+[2] 90 DTC 1494.
+[3] [2002] A.C.I. no 587.
+[4] [1999] G.S.T.C. 50.
+[5] 2004 CCI 757.
+[6] Précitée, au paragraphe 19.

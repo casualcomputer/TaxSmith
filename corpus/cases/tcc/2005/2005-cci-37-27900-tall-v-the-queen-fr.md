@@ -1,0 +1,138 @@
+---
+title: "Tall v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27900/index.do"
+last_modified: "2005-01-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 37"
+citation2: ""
+neutral_citation: "2005 CCI 37"
+decision_date: "2005-01-06"
+language: "fr"
+item_id: "27900"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1748
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:24:26.817000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "912e703ee64153b4d517aed3487af103757a9a3982b346d1e1e023bd1bb86a22"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tall v. The Queen
+
+- Citation: 2005 CCI 37
+- Decision date: 2005-01-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1748, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tall v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-06
+Référence neutre
+2005 CCI 37
+Numéro de dossier
+2004-2359(IT)I, 2004-657(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Toronto (Ontario)
+‑‑‑ L’audience a commencé le vendredi 3 décembre 2004.
+MOTIFS DE L’ORDONNANCE
+LA JUGE CAMPBELL :
+Au mois de février 2004, l’appelant a déposé un avis d’appel sous le régime de la procédure informelle à l’égard de son année d’imposition 2001. Une réponse à l’avis d’appel a été déposée le 27 avril 2004.
+Peu de temps après, l’appelant a déposé, le 22 mai 2004, un second avis d’appel sous le régime de la procédure informelle à l’égard de son année d’imposition 2002. Une réponse à cet avis d’appel a été déposée le 3 août 2004.
+L’appelant n’était pas représenté par un avocat lorsqu’il a déposé ses avis d’appel. Lorsque la date d’audition de l’appel concernant son année d’imposition 2001 a été fixée au 4 août 2004, l’appelant a décidé de consulter un avocat pour s’occuper des appels. Étant donné que la date d’audition de l’appel concernant l’année d’imposition 2001 avait été fixée, l’appelant a demandé à son nouvel avocat, Scott Simser, de demander un ajournement.
+Le 26 juillet 2004, M. Simser a donc écrit à l’avocate de l’intimée pour demander que l’intimée consente à une demande d’ajournement; il a également fait savoir qu’il envisageait également de demander à la Cour que les appels soient régis par la procédure générale plutôt que par la procédure informelle.
+L’intimée a consenti à la demande d’ajournement et, le 28 juillet 2004, la Cour a ajourné pour une période indéfinie l’appel concernant l’année 2001 et a fait savoir que cet appel, ainsi que l’appel concernant l’année 2002, seraient de nouveau inscrits au rôle pour être entendus à une date ultérieure.
+Le 28 septembre 2004, un avis d’audience a été délivré à l’égard des deux appels, l’audience devant avoir lieu le 2 décembre 2004, c’est‑à‑dire hier, à 9 h 30.
+Le 30 septembre 2004, M. Simser a écrit à l’avocate de l’intimée pour lui demander formellement que l’intimée consente à réunir les appels concernant les années 2001 et 2002 pour des raisons de commodité et qu’elle accepte également que les deux appels soient régis par la procédure générale et permette à l’appelant de modifier les deux avis d’appel en entier.
+À la suite de la lettre du 30 septembre 2004, de nombreuses lettres ont été échangées entre l’avocate de l’intimée et l’avocat de l’appelant; les deux avocats ayant essentiellement convenu de rester sur leurs positions. Je n’ai pas à examiner ces lettres plus à fond. L’examen auquel j’ai procédé visait simplement à expliquer l’origine de la requête que l’appelant a présentée le 2 décembre 2004, soit la date fixée pour l’audition des appels.
+Le 22 novembre 2004, l’avocat de l’appelant a déposé un avis de requête dans lequel il faisait savoir qu’il présenterait une demande le 2 décembre 2004 en vue d’obtenir une ordonnance :
+(1) réunissant les appels concernant les années d’imposition 2001 et 2002;
+(2) assujettissant les deux appels à la procédure générale plutôt qu’à la procédure informelle; et
+(3) modifiant les deux avis d’appel en entier.
+En ce qui concerne la première demande de l’appelant, l’intimée ne s’est pas opposée à la jonction des instances. Ces appels se rapportent à deux années distinctes, mais la principale question qui se pose est la même dans chaque cas, c’est‑à‑dire la question de la déductibilité de dépenses concernant la médecine douce ou la médecine parallèle ainsi que des arguments fondés sur la Charte. Il est donc logique que ces appels soient réunis et qu’ils soient entendus ensemble sur preuve commune.
+En ce qui concerne la deuxième partie de la requête, l’avocat fait valoir que l’appelant n’était pas représenté par un avocat lorsqu’il a déposé ses avis d’appel et qu’il ne s’était pas rendu compte des conséquences que comportait le fait de choisir d’être régi par la procédure informelle par opposition à la procédure générale. De plus, l’appelant a soutenu que les appels soulèvent des questions complexes liées à la Charte au sujet de la religion, de l’imposition et de la médecine, lesquelles n’ont pas été plaidées devant la Cour. Il a affirmé que les présents appels constituent une cause type parce que ces questions complexes influent sur ses droits à l’égalité et touchent un grand nombre de contribuables ayant différentes croyances religieuses et spirituelles qui ont recours à la médecine douce ou à la médecine parallèle par opposition à la médecine traditionnelle.
+L’avocat de l’appelant a déposé, sous la cote A‑1, une lettre dans laquelle le Conseil national des Canadiens chinois faisait savoir qu’il voulait intervenir si ces appels étaient assujettis à la procédure générale. L’avocat de l’appelant a affirmé que s’il n’était pas autorisé à avoir recours à la procédure générale, cela causerait un préjudice à l’appelant pour ce qui est de la conduite des interrogatoires préalables des témoins experts et que, d’une façon générale, cela empêcherait l’appelant de présenter sa preuve sous son meilleur jour.
+Le paragraphe 18.11(1) prévoit qu’à la demande du procureur général, la Cour peut ordonner qu’un appel soit régi par la procédure générale, mais l’appelant a soutenu qu’il n’existe dans la Loi aucune disposition qui l’empêcherait en fait de présenter une telle demande.
+Enfin, l’appelant a affirmé que, le 2 juillet 2003, la présente cour s’est vu accorder la qualité d’une cour supérieure et qu’elle est autorisée à exercer un contrôle sur sa propre procédure. L’appelant a également utilisé cet argument pour faire valoir que la décision Bell c. Canada, [1993] A.C.I. no 353, pouvait être écartée.
+Quant à la troisième demande, l’appelant fait valoir que la modification des avis d’appel ne causerait aucun préjudice à l’intimée et qu’en fait, la modification aurait pour effet de définir plus clairement les faits et les points litigieux pour toutes les parties, y compris la Cour.
+Selon la position prise par l’intimée au sujet de la réparation demandée par l’appelant, à savoir que la procédure générale s’applique, les dispositions de la Loi et les règles de procédure informelle ne permettent pas à l’appelant de demander que ses appels soient assujettis à la procédure générale; seul le procureur général a le droit de le faire. L’intimée affirme que cela indique l’intention véritable du législateur dans ce domaine parce que la législation en traite expressément. L’intimée s’est fondée sur la décision Bell, qui a été citée avec approbation dans la décision Maier c. Canada, [1994] A.C.I. no 1260.
+De plus, l’intimée s’est opposée à la demande que l’appelant avait présentée en vue de faire modifier les avis d’appel en entier parce que cette demande avait été présentée le jour où les appels devaient être entendus et qu’elle n’avait donc pas été présentée en temps opportun et conformément aux règles.
+De plus, les frais concernant les témoins de l’intimée venus de l’extérieur de la ville qui se sont présentés à l’audience du 2 décembre 2004 ne pouvaient pas être compensés au moyen de l’adjudication de dépens conformément aux règles de procédure informelle et une injustice est donc commise à l’endroit de l’intimée.
+L’appelant m’a demandé de faire droit à cette requête, visant à assujettir les appels à la procédure générale conformément au paragraphe 18.11(5) de la Loi, qui est ainsi libellé :
+La Cour est tenue de faire droit à une demande présentée en vertu du paragraphe (1) si elle est d'avis que la question portée en appel est commune à un groupe ou une catégorie de personnes.
+Le paragraphe 18.11(1) prévoit ce qui suit :
+À la demande du procureur général du Canada, la Cour peut ordonner qu'un appel visé à l'article 18 soit régi par les articles 17.1 à 17.8.
+L’avocat de l’appelant et l’avocate de l’intimée ont tous deux renvoyé à la décision Bell. Il s’agit d’une décision que la Cour a rendue en 1993 sous le régime de la procédure informelle. Dans la décision Bell, la Cour a examiné l’économie de la Loi et les Règles de procédure informelle et elle a conclu qu’une fois que le contribuable choisit d’être régi par la procédure informelle, il ne peut pas révoquer ce choix. L’intimée s’est fondée sur cette décision et elle a soutenu qu’aucune disposition de la Loi ne permet à l’appelant de présenter une demande pour que la procédure générale s’applique une fois que le contribuable a choisi d’interjeter appel sous le régime de la procédure informelle.
+L’appelant a affirmé qu’il était possible de faire une distinction à l’égard de la décision Bell pour le motif qu’il s’agissait d’une décision erronée ou que la décision pouvait être écartée étant donné qu’elle a été rendue avant que la Loi soit modifiée, au mois de juillet 2003.
+Je n’accueille pas la requête que l’appelant a présentée pour que ces appels soient régis par la procédure générale parce qu’on n’a pas réussi à me convaincre que les questions qui sont ici en litige sont communes à un groupe ou à une catégorie de personnes en ce qui concerne leur appartenance et leurs croyances religieuses. Je ne considère donc pas qu’il s’agit d’une cause type.
+De plus, on n’a pas réussi à me convaincre que si les appels étaient poursuivis sous le régime de la procédure informelle, cela aurait une incidence négative sur la présentation des appels devant la Cour. Les exigences concernant les témoins experts peuvent être plus rigoureuses dans le cadre de la procédure générale, mais l’appelant pourra retenir les services d’experts s’il le désire. De plus, il n’existe aucune exigence en matière d’interrogatoire préalable dans le cadre de la procédure informelle, mais je ne crois pas que cela empêchera l’appelant de quelque façon que ce soit de présenter et de plaider pleinement ses appels devant la Cour.
+En arrivant à cette conclusion, je ne me prononce pas quant à la décision Bell. L’argument de l’intimée selon lequel l’article 18.11 interdit nécessairement au contribuable de présenter une telle demande simplement parce que la disposition prévoit que c’est le procureur général qui présente une demande, mais qu’il n’y est pas fait mention du contribuable ne me convainc pas entièrement. En l’absence d’une mention ou d’une disposition précise empêchant le contribuable de présenter une demande, il peut être loisible à celui‑ci de plaider qu’il ne faut pas interpréter l’article 18.11 si strictement que l’on est amené à conclure que la Cour n’a pas compétence pour entendre la requête que le contribuable a présentée pour que l’appel soit régi par la procédure générale plutôt que par la procédure informelle.
+La troisième demande de l’appelant se rapporte à la modification des avis. Selon l’argument invoqué par l’intimée à l’encontre de la modification des avis, les modifications proposées par l’appelant créent une nouvelle réparation en vertu de l’article 24 de la Charte canadienne des droits et libertés, laquelle n’a pas antérieurement été invoquée dans les avis d’appel initiaux. L’intimée a également affirmé que cette demande n’a pas été faite en temps opportun; à l’appui, elle a examiné certaines communications entre les parties au cours des semaines qui avaient précédé la date d’audience du 2 décembre 2004.
+J’ai examiné le projet d’avis d’appel que l’appelant a soumis avec sa requête et je l’ai comparé aux avis que l’appelant avait lui‑même rédigés avant d’avoir recours à un avocat. Je ne vois pas comment le fait d’autoriser les modifications proposées pourrait causer un préjudice à l’intimée ou constituer une injustice à son endroit. La question de la violation de la Charte a été soulevée par l’appelant dans les avis initiaux et les modifications ne soulèvent pas de nouveaux faits ou de nouvelles questions. Je crois que les modifications proposées aideront simplement à éclaircir les questions qui se posent dans ces appels et je suis donc prête à autoriser l’appelant à modifier les deux appels en entier.
+En résumé, l’ordonnance suivante sera rendue :
+1. Les appels concernant les années d’imposition 2001 et 2002 seront réunis pour être entendus ensemble sur preuve commune;
+2. L’appelant déposera ses avis d’appel modifiés en entier le mercredi 15 décembre 2004 ou auparavant, et l’intimée déposera les réponses aux avis d’appel modifiés au plus tard le 28 février 2005;
+3. Les appels continueront à être assujettis aux règles de procédure informelle et se poursuivront sous le régime de cette procédure.
+Aucune ordonnance n’est rendue au sujet des dépens.
+‑‑‑ L’audience a pris fin.
+Traduction certifiée conforme
+ce 4e jour de janvier 2006
+Sara Tasset
+RÉFÉRENCE :
+2005CCI37
+Nos DES DOSSIERS DE LA COUR :
+2004‑657(IT)I
+2004‑2359(IT)I
+INTITULÉ :
+Franklin D. Tall et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 1er et 2 décembre 2004
+MOTIFS DE L’ORDONNANCE RENDUS ORALEMENT :
+L’honorable juge Diane Campbell
+DATE DE L’ORDONNANCE MODIFIÉE :
+Le 6 janvier 2005
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Scott I. Simser
+Avocate de l’intimée :
+Me Catherine Letellier de St‑Just
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Scott I. Simser
+Cabinet :
+Simser Consulting
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

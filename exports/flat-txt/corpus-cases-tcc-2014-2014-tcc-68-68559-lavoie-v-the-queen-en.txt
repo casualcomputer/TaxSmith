@@ -1,0 +1,224 @@
+Title: Lavoie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/68559/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-68-68559-lavoie-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-03-24
+
+# Lavoie v. The Queen
+
+- Citation: 2014 TCC 68
+- Decision date: 2014-03-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5321, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavoie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-24
+Neutral citation
+2014 TCC 68
+File numbers
+2012-792(IT)G, 2012-830(GST)I, 2012-971(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-971(IT)G
+2012-830(GST)I
+BETWEEN:
+ROBERT ANDREW LAVOIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2012-792(IT)G
+BETWEEN:
+CEILIDH SALES & MARKETING INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 22, 2013, at Halifax, Nova Scotia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Marcel Prevost
+____________________________________________________________________
+JUDGMENT
+The Appeals from the reassessments made under the Income Tax Act and the Excise Tax Act for the 2005, 2006 and 2007 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+a) Ceilidh Sales & Marketing Inc. ("Ceilidh") is entitled to additional expenses in the 2005 taxation year of $1,602.45 and in the 2006 taxation year of $1,314.62, along with additional CCA based on additional costs of $7,414.61 in the 2005 taxation year and additional costs of $2,029.89 in the 2006 taxation year;
+b) Ceilidh is liable for gross negligence penalties pursuant to subsection 163(2) of the Act only in connection with the wedding, video games and jewellery expenses;
+c) Mr. Lavoie received shareholder benefits from Ceilidh in 2005 in the amount of $69,875 less $1,602.45 and less the additional CCA for the 2005 taxation year and he received shareholder benefits in 2006 of $36,802 less $1,014.62 and less the additional CCA for the 2006 taxation year more particularly described in the attached Reasons;
+d) Mr. Lavoie incurred losses in the amounts of $10,193 and $8,052 in the 2006 and 2007 taxation years in respect of the rental of the Cottage;
+e) Mr. Lavoie is entitled to Input Tax Credits in 2007 adjusted to take into account the GST required to collect and remit as originally filed;
+f) Mr. Lavoie is not liable for gross negligence penalties pursuant to section 285 of the Excise Tax Act;
+g) Mr. Lavoie is liable for gross negligence penalties pursuant to subsection 163(2) of the Act in connection with the shareholder benefits related to the cost of the wedding, video games and the jewellery expense claimed.
+No costs are awarded.
+Signed at Ottawa, Canada, this 24th day of March 2014.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2014 TCC 68
+Date: 20140324
+Docket: 2012-971(IT)G
+2012-830(GST)I
+BETWEEN:
+ROBERT ANDREW LAVOIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+and
+Docket: 2012-792(IT)G
+BETWEEN:
+CEILIDH SALES & MARKETING INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] These Appeals involve three related matters: (i) an Income Tax Act (the "Act") assessment of Ceilidh Sales & Marketing Inc. ("Ceilidh") for the 2005 and 2006 taxation years, denying certain expenses and capital cost allowance ("CCA") on the basis such deductions were personal and not business related; (ii) an Income Tax Act assessment against Mr. Lavoie, the sole shareholder of Ceilidh, for the 2005, 2006 and 2007 taxation years, including shareholder appropriations from Ceilidh of $69,875 and $36,803 for 2005 and 2006, as well as denying losses from the rental of a Prince Edward Island ("PEI") cottage property (the "Cottage") in 2006 and 2007 of $10,192 and $8,052, respectively; and (iii) a Goods and Services Tax ("GST") assessment of Mr. Lavoie denying input tax credits ("ITCs") on the Cottage of $9,367.16. Gross negligence penalties are also in issue.
+[2] To provide some context to these Appeals, initially the Canada Revenue Agency ("CRA") denied expenses and CCA of over $93,000 in 2005 and over $102,000 in 2006. Upon review, the appeals officer allowed an additional $59,389 and $72,501, respectively. It is unfortunate the Parties could not have closed that gap further without the necessity of the expense of a trial.
+[3] Mr. Lavoie was the sole witness for the Appellants. While he presented as a forthright, knowledgeable and sincere witness, some of his actions suggest he got greedy in claiming expenses, the deduction of the cost of his wedding being an obvious example. University educated, he worked as an employee in the agri‑business industry for a number of years until 2001, when he established Ceilidh as his own agri-business.
+[4] Ceilidh had a number of clients but foremost was York Points Farms, what Mr. Lavoie described as a high-health farming business producing purebred swine. The swine provided breeding stock and ultimately swine to swine producers both nationally and internationally for production in the food industry. Ceilidh served as a broker in the industry, not just with respect to the swine but also with respect to equipment, feed and other related products connected to the swine industry.
+[5] Mr. Lavoie’s home base was in the Halifax area, though he was required to travel throughout the Maritimes visiting swine producers, often in Prince Edward Island. He estimated he travelled 70,000 kms a year. It was also necessary to show potential clients of the swine exporters the Canadian farming operations. Part of Mr. Lavoie’s job as a broker, through Ceilidh, was to entertain foreign clients. This involved visits to the farms as well as presentations at his office. Mr. Lavoie provided a detailed explanation of this aspect of his business.
+[6] In 2005 and 2006, Mr. Lavoie built a three bay garage at his home in Nova Scotia to serve as his office as well as storage for products involved in the business. Up to that point, he had used part of his home as a home office. He indicated that some of the expenses in dispute, such as fencing and landscaping were to ensure the security of the premises for business purposes as well as ensuring the attractiveness of the premises to impress potential clients.
+[7] In 2006, Mr. Lavoie bought the Cottage in PEI initially to serve as a residence for the Lavoie family. However, Mr. Lavoie’s wife coincidentally received a job promotion that required the family to remain in Nova Scotia. Mr. Lavoie testified that he decided to market the PEI Cottage as a vacation property and also to use it for his business guests. He produced a one-page fax advertising "Cottage/business accommodation available". This was sent to some of his wife’s co-workers and some people they knew. There were no takers in 2006 and only 10 nights were rented out to vacationers in 2007. Mr. Lavoie indicated, however, that business guests used the Cottage for approximately 40 nights in 2007 and he would also stay there when on business in Prince Edward Island and would bill Ceilidh for its use. He suggested he used the property approximately 100 times for business purposes during the period in question.
+[8] Ceilidh was reassessed September 22, 2008 by increasing its taxable income by $93,481 and $102,977 for the 2005 and 2006 taxation years by the disallowance of expenses of $86,141 in 2005 and $92,977 in 2006 and also by adjusting CCA by $7,340 in 2005 and $10,000 in 2006.
+[9] Ceilidh was reassessed November 23, 2001 varying the September 22, 2008 reassessments by decreasing the amounts previously assessed by the amount of $59,389 and $72,501 for 2005 and 2006, respectively. The Minister of National Revenue (the "Minister") also allowed an addition in the amount of $8,780 to Ceilidh’s CCA schedule for 2006. This resulted in increases in the amounts of $34,092 and $30,476 to the amounts Ceilidh reported as taxable income for the 2005 and 2006 taxation years as follows:
+2005 2006
+Expenses disallowed $27,242 $21,306
+Adjustments to CCA $ 6,850 $ 9,170
+Total $34,092 $30,476
+[10] Mr. Lavoie reported rental losses from the PEI Cottage of $10,192 and $8,052 for the 2006 and 2007 taxation years.
+[11] Mr. Lavoie was reassessed on September 11, 2008 by making the following adjustments:
+2005 2006 2007
+Shareholder appropriations $129,262 $109,304
+Rental losses disallowed $ 10,192 $8,052
+Total $129,262 $119,496 $8,502
+[12] On December 1, 2011, Mr. Lavoie was reassessed by decreasing the amounts previously assessed as shareholder appropriations for 2005 and 2006 by the amounts of $59,387 and $72,501 respectively, resulting in increases of $69,875 and $36,803 to taxable income for the 2005 and 2006 taxation years.
+[13] The Minister assessed Mr. Lavoie’s net tax liability by Notice of Assessment dated August 12, 2008, in respect of Goods and Service Tax/Harmonized Sales Tax ("GST/HST") returns for the period January 1, 2007 to December 31, 2007, by disallowing ITCs claimed by Mr. Lavoie, as follows:
+Period Ending ITCs GST/HST Net Tax
+Collectible
+March 31, 2007 $ 213.62 $ 97.02 $ 16.60
+June 30, 2007 $ 35.88 $ 50.82 $ 14.94 cr
+September 30, 2007 $9,295.68 $110.88 $9,184.80
+December 31, 2007 $ 91.98 $138.40 $ 46.42 cr
+Total $9,637.16 $397.12 $9,240.04
+[14] The following chart indicates the amounts claimed by Ceilidh and the amounts disallowed by the Respondent:
+Issues
+[15] The issues in these Appeals are:
+a) whether Ceilidh is entitled to expenses in excess of those allowed by the Minister for the 2005 and 2006 taxation years;
+b) whether Ceilidh was liable for gross negligence penalties pursuant to subsection 163(2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) as amended, in respect of the 2005 and 2006 taxation years;
+c) whether Mr. Lavoie received shareholder benefits from Ceilidh in the amounts of $69,875 and $36,803 for the 2005 and 2006 taxation years, respectively;
+d) whether Mr. Lavoie incurred losses in the amounts of $10,192 and $8,052 in the 2006 and 2007 taxation years, respectively, with respect to the PEI cottage;
+e) whether Mr. Lavoie is entitled to claim ITCs in respect of the PEI cottage for the period of January 1, 2007 to December 31, 2007; and
+f) whether Mr. Lavoie was liable for gross negligence penalties pursuant to subsection 163(2) of the Income Tax Act and section 285 of the Excise Tax Act, R.S.C., c. E-15, as amended.
+Analysis
+[16] The Respondent argues that the disallowed expenses were personal expenses of Mr. Lavoie. The CRA disallowed the expenses due to either insufficient documentation, or being clearly personal, such as approximately $8,400 of expense from Mr. Lavoie’s wedding (notwithstanding Mr. Lavoie testified he received accounting advice that such expenses were deductible: he received bad advice). Mr. Lavoie has conceded such expenses are personal.
+[17] The Appellant argues that, given Mr. Lavoie’s extensive explanation of his business activity, that he has clearly established the disallowed expenses were incurred for business purposes, with a few exceptions. As noted, the Appellant concedes the wedding expenses; he also recognizes the jewellery expense for his wife and half of his home landscaping expense was personal.
+[18] I have been left with the impression that Mr. Lavoie was indeed a busy man. However, his willingness to consider wedding expenses, hair cuts, jewellery, 100% of his fencing around his home and the cost of his wife’s trip to the Caribbean all as business expenses demonstrates a not uncommon confusion of an individual running a small business; that is, that the individual and business are one and the same and, therefore, all expenses incurred by the individual are business expenses. It is just not so.
+[19] Through the audit and appeals process of Ceilidh’s initial claimed expenses of $175,000 in 2005 and $160,000 in 2006, the CRA has allowed all but approximately $34,000 and $30,000 (including CCA adjustments) in 2005 and 2006 respectively. The onus is on the Appellant to prove that the disallowed expenses are legitimate business expenses. He can do so by identifying each of them and providing an appropriate receipt along with a plausible explanation as to their connection to the business for the purpose of producing income. It is insufficient, for example, to speak in general terms of having to host potential purchasers at home and, therefore, incurring housekeeping costs without detail of when such costs were incurred and the corresponding receipts for such housekeeping. Similarly, to claim significant landscaping costs for the home, on the basis potential buyers look for a professional setting when visiting is just too tenuous a business connection. Also, the cost of video games for Mr. Lavoie’s boys with the explanation they cleaned the office and the truck with no further corroboration, simply is insufficient to prove the business versus personal purpose.
+[20] One of the difficulties in this case is that neither side in argument has taken me through the specific disallowed expenses and advised me, from the Appellant’s perspective the business purpose and the corroborating evidence, and from the Respondent’s perspective the personal use or purpose and what corroborating evidence was lacking to show the business connection. I have been left with some of the auditor’s and appeals officer’s working papers and left to figure it out myself. In effect, I am being asked to conduct an audit. To be fair, at the end of the trial, there was insufficient time for argument and the Parties agreed to provide written submissions. I offered to provide some initial non-binding thoughts if they believed that might assist in resolving the issues without such submissions. They accepted my offer but subsequently were unable to reach a resolution. This is regrettable. Their written submissions are in general terms making it difficult to determine the deductibility of the specific disallowed expenses.
+[21] Having reviewed the transcript of Mr. Lavoie’s testimony, I accept his explanation that the following expenses were incurred by Ceilidh for the purpose of earning income:
+a) advertising and promotion in 2005 $1,093.00
+b) office expenses 2005 $ 60.60
+(a credible explanation was provided $ 28.48
+for each of these minor amounts) $ 36.72
+$ 9.18
+$ 17.99
+$ 15.26
+$ 31.62
+$ 52.45
+Total $252.30
+Plus the following amounts incorrectly recorded as CCA in 2005:
+$158.98
+$ 37.29
+$ 60.88
+Total $257.15
+c) office expenses identified in 2006 $ 57.16
+(again a credible explanation was provided) $ 30.99
+$ 50.83
+$ 55.26
+$ 77.48
+$ 566.93
+$ 48.66
+$ 10.96
+$ 16.59
+$ 34.99
+$ 119.77
+$ 245.00
+Total $1,314.62
+[22] With respect to the CCA claim, construction costs of the garage itself should have been claimed by the owner of the property, Mr. Lavoie: it was his property. I do not accept the Appellant’s argument that, based on the case of Rosene v M.N.R.[1], Ceilidh had beneficial ownership of the property. There was no evidence to support such a finding. However, there were removable items that were paid for and owned by Ceilidh and did not attach to the garage as fixtures. I have been satisfied the following items were used exclusively for business purposes, do not go with the land and that the expenses were incurred by Ceilidh. Such items I allow for CCA purposes:
+2005
+shelving $ 714.00
+filing cabinets $ 279.85
+computer $3,046.00
+projector $1,099.99
+cooler $ 149.99
+DVD $ 229.88
+Remote for projector $ 199.99
+Generator, vacuum and hoses $1,694.92
+Total $7,414.61
+2006
+heater $ 599.99
+lawn mower $ 599.95
+camcorder $ 819.95
+Total $2,029.89
+[23] To be clear, the Parties did not spell out as precisely as I would have appreciated in their written submissions exactly what amounts constituted each of the heads of expense and the CCA in dispute. I have therefore attempted to cobble together these figures from the exhibits as best I can.
+[24] In summary, I allow Ceilidh the additional expenses of $1,602.45 in 2005 and $1,314.62 in 2006, along with CCA on additional capital costs of $7,414.61 incurred in 2005 and capital costs of $2,029.89 incurred in 2006.
+[25] The shareholder benefits assessed against Mr. Lavoie are also therefore reduced by these amounts.
+[26] I conclude that on balance Mr. Lavoie has not proven that all other expenses, including, for example, landscaping and fencing, and those clear personal expenses such as the wedding and jewellery were incurred for purpose of earning or producing income.
+[27] I turn now to the issue of the disallowed losses from the PEI Cottage. The Respondent argues the Cottage was not a source of income as it was used primarily by Mr. Lavoie and family and friends in 2006 and 2007.
+[28] I find the Cottage had three uses: as a recreation property for the Lavoie family, as an accommodation for business visitors in connection with Ceilidh’s business, and as accommodation for Mr. Lavoie when on business in Prince Edward Island, which was often. Mr. Lavoie testified he treated the Cottage as a business. During the period in issue, Mr. Lavoie’s uncontradicted evidence was the Cottage was used approximately 170 days, only 10 of which were solely personal use. Mr. Lavoie testified that Ceilidh would pay him rent for his use of the Cottage on business trips. I believe the Appellant that the Cottage was used primarily for business purposes and therefore, with no evidence challenging how the losses were calculated, I allow them in full. Having reached the conclusion the Cottage was part of a commercial activity, and again with no challenge to the ITC numbers, I allow the GST Appeal, adjusted to take into account the GST required to collect and remit as originally filed.
+[29] Turning now to the penalties, subsection 163(2) of the Act reads in part as follows (section 285 of the Excise Tax Act is similar):
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of …
+[30] Given my finding on the GST Appeal, it follows there are no penalties against Mr. Lavoie in that regard. With respect to the gross negligence penalties in Ceilidh’s income tax Appeal, the Respondent submitted that, as a well-educated businessman, Mr. Lavoie should have known the disallowed expenses were in fact personal expenses. Mr. Lavoie offered explanations for several of the expenses claimed, explanations I have concluded have not been sufficient to justify the deduction of all of the expenses. It does not automatically follow, however, that he was grossly negligent in claiming them. This is unlike the Fiscal Arbitrator cases (for example see my Reasons in Torres v Her Majesty the Queen)[2] where there is no basis for claiming the losses claimed in those cases. Here, a small business gets advice, albeit bad advice, that because some business associates attend your wedding, you can deduct the cost of the wedding. It is naïve and perhaps greedy to believe the wedding is truly a business expense. As stated earlier, it is often not clear in the mind of the person running a small business just how much or little connection to the business is required to render an expense a deductible expense. I accept that with many of Ceilidh’s disallowed expenses (fencing around the house for example), Mr. Lavoie was pushing the envelope, but conclude he was not grossly negligent in doing so. Simply because he has not proven to me that, on balance, this was a legitimate business expense, does not mean that there is no arguable basis whatsoever on which to attempt to deduct it. There is a fine line between the denial of an expense and the finding of gross negligence in claiming the expense in the first place.
+[31] There are, however, some items that are so inherently personal that the circumstances can only be viewed as grossly negligent if a taxpayer attempts to write them off. One’s wedding, jewellery for one’s wife and video games for the kids (where there is no corroborating evidence the latter two items were received as remuneration), are such expenses. Mr. Lavoie should have known better. I find gross negligence penalties attach to such expenses.
+[32] Finally, with respect to the gross negligence penalties assessed against Mr. Lavoie personally, I likewise conclude the penalties should apply only to the benefit represented by the wedding, the jewellery and the video games expenses.
+Conclusion
+[33] The Appeals are allowed and referred back to the Minister for reconsideration and reassessment on the following basis:
+a) Ceilidh is entitled to additional expenses in the 2005 taxation year of $1,602.45 and in the 2006 taxation year of $1,314.62, along with additional CCA based on additional costs of $7,414.61 in the 2005 taxation year and additional costs of $2,029.89 in the 2006 taxation year;
+b) Ceilidh is liable for gross negligence penalties pursuant to subsection 163(2) of the Act only in connection with the wedding expense and jewellery expense;
+c) Mr. Lavoie received shareholder benefits from Ceilidh in 2005 in the amount of $69,875 less $1,602.45 and less the additional CCA for the 2005 taxation year and he received shareholder benefits in 2006 of $36,802 less $1,014.62 and less the additional CCA for the 2006 taxation year, the CCA to be determined in accordance with paragraph 24 of these Reasons;
+d) Mr. Lavoie incurred losses in the amounts of $10,193 and $8,052 in the 2006 and 2007 taxation years in respect of the rental of the Cottage;
+e) Mr. Lavoie is entitled to ITCs adjusted to take into account the GST required to collect and remit as originally filed;
+f) Mr. Lavoie is not liable for gross negligence penalties pursuant to section 285 of the Excise Tax Act;
+g) Mr. Lavoie is liable for gross negligence penalties pursuant to subsection 163(2) of the Act in connection with the shareholder benefits related to the cost of the wedding, the jewellery and the video games.
+[34] Given the mixed success, I make no award of costs.
+Signed at Ottawa, Canada, this 24th day of March 2014.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2014 TCC 68
+COURT FILE NO.: 2012-971(IT)G, 2012-830(GST)I and
+2012-792(IT)G
+STYLE OF CAUSE: ROBERT ANDREW LAVOIE AND HER MAJESTY THE QUEEN AND CEILIDH SALES & MARKETING INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: October 22, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: March 24, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Marcel Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruce S. Russell, Q.C.
+Firm: McInnes Cooper
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 82 D.T.C. 1620.
+[2] 2013 TCC 380.

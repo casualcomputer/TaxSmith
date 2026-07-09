@@ -1,0 +1,173 @@
+---
+title: "Kardaras c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71438/index.do"
+last_modified: "2014-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 135"
+citation2: ""
+neutral_citation: "2014 CCI 135"
+decision_date: "2014-05-06"
+language: "fr"
+item_id: "71438"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5299
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:58:41.507000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9a45f72dd7d1e18e15906d02a10129185c84b05f421798f3370d4761fe0ccb67"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kardaras c. La Reine
+
+- Citation: 2014 CCI 135
+- Decision date: 2014-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5299, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kardaras c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-06
+Référence neutre
+2014 CCI 135
+Numéro de dossier
+2013-3607(GST)I
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-3607(GST)I
+ENTRE :
+STAVROULA KARDARAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 mars et le 2 mai 2014, à Toronto (Ontario).
+Devant : L’honorable juge F. J. Pizzitelli
+Comparutions :
+Avocat de l’appelante :
+Me Norman MacDonald
+Avocate de l’intimée :
+Me Alisa Apostle
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation établie au titre de la Loi sur la taxe d’accise par avis de cotisation daté du 31 mars 2010 est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de mai 2014.
+« F. J. Pizzitelli »
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 6e jour de juin 2014.
+Alya Kaddour‑Lord, traductrice
+Référence : 2014 CCI 135
+Date : 05062014
+Dossier : 2013-3607(GST)I
+ENTRE :
+STAVROULA KARDARAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Pizzitelli
+[1] Une cotisation d’un montant de 17 363,39 $ a été établie à l’égard de l’appelante, conformément au paragraphe 325(1) de la Loi sur la taxe d’accise (la « Loi »), au titre de la taxe sur les produits et services (la « TPS ») ainsi que des intérêts courus et des pénalités que devait son époux, P., par suite du transfert d’un immeuble par P. à l’appelante, à un moment où la dette fiscale de P. s’élevait à 13 145,64 $.
+[2] Le 7 août 1987, l’époux de l’appelante, P., est devenu le seul propriétaire d’un bien situé au 1395 Danforth Road, à Toronto (Ontario) (le « bien »), qu’il a acheté au prix de 382 500 $ et dont il s’est servi comme bien locatif. Le 22 mars 2004, P. a transféré le titre de propriété à l’appelante, et à elle seule; à l’époque, P. avait envers le ministre du Revenu national (le « ministre ») une dette de 13 145,64 $ au titre de la TPS, de pénalités et d’intérêts encore impayés à ce jour. La TPS qui était due découlait de documents produits par P. dans le contexte de l’entreprise de limousines dont il était le seul propriétaire, lesquels avaient fait l’objet de cotisations. Le ministre a allégué que, à la date du transfert à l’appelante, la juste valeur marchande du bien était de 334 000 $ et le titre de propriété de ce bien était grevé d’une hypothèque qui n’était pas supérieure à 295 000 $, de telle sorte que la valeur nette du bien était de 39 000 $; ces montants ne font l’objet d’aucune contestation. Le ministre a également allégué que l’appelante détenait déjà un titre bénéficiaire sur la moitié du bien, de telle sorte qu’il a formulé l’hypothèse selon laquelle l’appelante s’était vu transférer un montant net de 19 500 $ sans contrepartie, montant manifestement supérieur à la dette fiscale en souffrance dans tous les cas de figure.
+[3] L’appelante a affirmé que, dès le départ, elle avait été la propriétaire bénéficiaire du bien, partant du principe que son époux détenait le bien en fiducie pour son compte depuis le début, et qu’il n’y a par conséquent pas eu de transfert de la propriété bénéficiaire à l’occasion du transfert daté du 22 mars 2004. À titre subsidiaire, l’appelante a fait valoir que son époux avait envers elle une dette fiscale bien supérieure à 19 500 $, qui s’élève à environ 477 000 $ et découle de la prétention de l’appelante selon laquelle elle aurait effectué tous les paiements hypothécaires et payé toutes les taxes ainsi que les primes d’assurance afférentes au bien, et ce, de la date d’achat du bien jusqu’à la date du transfert, et l’appelante a par conséquent soutenu qu’il existait tant une fiducie par interprétation qu’une fiducie résultoire en sa faveur. À titre encore subsidiaire, l’appelante a soutenu qu’une contrepartie supérieure à 19 500 $ avait été donnée pour le transfert, du fait de la dette que son époux avait envers elle au titre de sa part de l’hypothèque et des paiements d’assurance qu’elle avait pris à sa charge.
+[4] L’intimée était d’avis que le bien avait été inscrit au nom de l’époux de l’appelante, et de lui seul, que l’appelante en était la propriétaire conjointe et qu’aucune fiducie, ni légale ni par interprétation ni résultoire, n’existait en ce qui concernait l’intérêt litigieux de l’époux, pas plus qu’une contrepartie n’avait été donnée au titre du transfert.
+Le droit applicable [5] Le paragraphe 325(1) prévoit que le cédant et le cessionnaire sont solidairement responsables de la TPS impayée sur le transfert du bien s’il a été satisfait à quatre conditions, dans la mesure où elles se rapportent aux faits de l’espèce :
+1. un bien doit avoir été transféré;
+2. le cédant et le cessionnaire doivent avoir un lien de dépendance ou être mariés ou conjoints de fait;
+3. le cessionnaire ne doit pas avoir donné de contrepartie ou de contrepartie insuffisante au cédant;
+4. le cédant doit avoir été redevable d’un montant en vertu de la Loi pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures.
+[6] Il n’est pas contesté que l’époux de l’appelante, en sa qualité de cédant, devait la somme de 13 145,64 $ à l’Agence du revenu du Canada au moment où le transfert a été enregistré, le 22 mars 2004, et il est donc clair qu’il a été satisfait à la quatrième condition énoncée ci‑dessus.
+[7] Il n’est pas non plus contesté que l’appelante, en sa qualité de cessionnaire, était au moment du transfert, et est encore aujourd’hui, l’épouse légitime du cédant, et il est donc clair qu’il a été satisfait à la deuxième condition énoncée ci‑dessus.
+[8] Bien qu’il n’y ait eu ni question ni contestation au sujet du fait que l’époux de l’appelante ait transféré à celle‑ci la totalité de son intérêt dans le bien le 22 mars 2004, comme en témoigne le fait que le transfert ait été effectué au profit de l’appelante, qui a été inscrite sur le titre, l’appelante, comme il a été mentionné ci‑dessus, a en revanche contesté le fait qu’il y ait eu un transfert de titre bénéficiaire, parce que, comme elle l’a affirmé, son époux détenait le bien en fiducie pour son compte depuis la date d’achat originale du bien, ou il détenait un intérêt pour son compte conformément à la doctrine de la fiducie par interprétation ou de la fiducie résultoire, ou, à titre subsidiaire, elle avait donné une contrepartie pour le transfert du bien. Il est donc clair que les parties ne s’entendent pas au sujet de la question de savoir s’il a été satisfait à la première et à la troisième conditions énoncées ci‑dessus.
+[9] Dans un premier temps, je me propose d’analyser les faits relatifs à la question de savoir si un transfert a bien été effectué, lesquels portent sur les questions précises visant à établir si l’appelante était déjà l’unique propriétaire bénéficiaire du bien dans le contexte d’une fiducie directe ou d’une fiducie résultoire. J’examinerai ensuite la question de savoir si l’appelante a donné une contrepartie suffisante pour le bien du fait de l’existence d’une fiducie par interprétation ou d’un prêt.
+1. Y a-t-il eu un transfert? [10] La preuve a montré que, quand le titre de propriété initial du bien avait été acquis en 1987, l’acte avait été enregistré au seul nom de l’époux de l’appelante, P. L’appelante a toutefois fait valoir que, sur le prix d’achat initial, qui s’élevait à 382 500 $, 130 000 $ provenaient d’une dot que ses parents avaient donnée pour permettre au couple d’acheter le bien locatif à son seul profit à elle, pour garantir sa sécurité future, et que c’est ce qui ressort de la preuve, qui montre que le père de l’appelante a transféré une telle somme par chèque sur le compte en fiducie de leurs avocats, ainsi que du fait que le nom de l’appelante a été rayé de l’acte, ce qui donne à entendre que son nom ne s’est par retrouvé sur l’acte par erreur. L’appelante a également souligné le fait qu’une annexe à la convention d’achat‑vente originale relative à l’achat du bien avait été libellée au nom de son père, et non de son époux, parce que, comme elle l’a déclaré, l’intention première était d’acquérir le bien pour son compte à elle. L’appelante a également renvoyé à un document daté du 1er avril 2013 que ses parents et elle ont signé, le père de l’appelante y reconnaissant ce fait, ainsi qu’à un second document signé par son époux à la même date, censé être une déclaration selon laquelle l’appelante était la propriétaire bénéficiaire du bien au titre d’une fiducie expresse à partir de la date d’achat de ce bien, y compris au moment du transfert qui a eu lieu le 22 mars 2004.
+[11] En soi, cette preuve pourrait donner à entendre que l’appelante a établi une preuve prima facie et qu’elle a réfuté l’hypothèse du ministre selon laquelle son époux était le propriétaire du bien et qu’il en a transféré le titre, autrement dit, qu’elle a établi qu’il existait une fiducie légale ou d’une autre nature à son profit; toutefois, il y a un grand nombre d’éléments de preuve qui font pencher la balance de manière déterminante vers la conclusion inverse, à savoir que de telles fiducies n’existent pas.
+[12] Premièrement, on ne peut se fonder sur aucune déclaration de fiducie qui aurait été faite à la date de l’achat initial, en 1987, ou à cette époque. La cause de l’appelante est fondée sur la prémisse que la preuve décrite ci‑dessus étaye le fait qu’on avait l’intention de constituer une fiducie et que l’existence de cette fiducie s’appuie sur des documents signés 16 ans plus tard, le 1er avril 2013, après qu’une cotisation a été établie à l’égard de l’appelante, les derniers éléments étant intéressés, dans le meilleur des cas.
+[13] Deuxièmement, je ne peux pas convenir du fait que l’appelante a établi qu’il existait une fiducie résultoire à son profit. L’appelante a affirmé que la doctrine de la fiducie résultoire s’appliquait à l’égard des circonstances de l’espèce parce que, dans les faits, c’était elle qui avait payé le prix d’achat du bien et que, par conséquent, son époux, en sa qualité de propriétaire inscrit, avait l’obligation légale de lui restituer le bien. L’appelante a cité la page 395 de l’ouvrage Water’s Law of Trust in Canada, quatrième édition, Carswell, dans lequel on affirme que ce type de fiducie est implicite dans les circonstances suivantes :
+[traduction]
+Une personne a payé le bien et a mis ce bien au nom de quelqu’un d’autre. L’intention implicite du cédant ou de l’acheteur est que le cessionnaire détienne le bien en fiducie pour le compte du cédant ou de l’acheteur. Cette implication découle du fait qu’en equity, on présume qu’il y a des marchés et non des dons, et cela exige du donataire qu’il prouve qu’on avait l’intention de lui en faire don.
+[14] À cet égard, l’appelante a demandé à la Cour d’accepter qu’elle avait bien payé le bien parce que ses parents avaient versé sa dot d’un montant de 130 000 $ sur le compte en fiducie de leurs avocats pour permettre au couple d’acheter le bien. L’appelante a également renvoyé aux déclarations de son époux, qui a témoigné au sujet de la dot et du fait qu’il avait transféré le titre de propriété à l’appelante parce que c’était la bonne chose à faire, et qui a manifestement convenu du fait que le paiement avait été fait pour le compte de l’appelante et qu’il n’y avait aucune intention de lui faire don du bien.
+[15] Le fait que la preuve corroborante ne soit pas convaincante mis à part, cet argument me pose problème parce qu’il n’existe aucun élément de preuve étayant la question du solde du prix d’achat. Le bien a été acheté en 1987 au prix de 382 500 $, et le seul élément de preuve dont je dispose est que, sur ce prix d’achat, 130 000 $ ont été versés pour le compte de l’appelante. L’hypothèque de 295 000 $ dont on présumait que découlait une obligation sur le bien n’a été inscrite sur le bien que deux ans plus tard, le 17 août 1989, et il est donc clair que la Cour ne dispose d’aucun élément de preuve à l’égard de la question des modalités de paiement du solde du prix d’achat initial : qui a payé ce solde et dans quelles proportions. Si l’époux a versé une somme plus importante comme contribution, ne conviendrait-il pas d’affirmer qu’il a droit à une plus grande part du bien? Il ressort de la preuve que, quand une hypothèque a finalement été enregistrée deux ans plus tard, l’époux de l’appelante était le débiteur hypothécaire et l’appelante la garante. Par conséquent, à première vue, cela pourrait donner à entendre qu’il a versé une somme plus élevée que l’appelante comme contribution, tout du moins à ce stade. La Cour ne dispose tout simplement pas de suffisamment d’éléments de preuve pour rendre une décision à l’égard de l’existence d’une fiducie résultoire en l’espèce.
+[16] Je comprends bien que le père de l’appelante est décédé et qu’il n’a pas pu témoigner, tout comme je comprends le fait que la mère de l’appelante n’a pas été en mesure de comparaître, vu que sa santé est apparemment fragile, mais les avocats de l’appelante qui sont intervenus lors de l’achat original et qui ont continué d’agir pour le compte de l’appelante et de son époux n’ont pas témoigné non plus, pas plus qu’on est venu témoigner au sujet de la question de la contribution financière au prix d’achat de manière à permettre à la Cour de conclure qu’on était en présence d’une fiducie résultoire. La Cour devrait examiner l’ensemble des ententes financières conclues entre l’appelante et son époux pour établir si celle‑ci peut prétendre à plus de 50 % du bien, et la Cour n’a été saisie d’aucun élément de preuve en ce sens, ce dont découlent des questions et des préoccupations similaires, tout comme en ce qui concerne l’argument relatif à une fiducie par interprétation, que j’examinerai plus tard, et l’un de ces problèmes, et non le moindre, consiste à établir si la Cour a même la compétence voulue pour rendre un jugement déclaratoire relatif à la propriété bénéficiaire d’un bien entre deux parties quand une de ces deux parties n’est même pas partie au litige.
+[17] Je conclus également que la preuve corroborante de l’époux de l’appelante n’était pas crédible. Quand il a témoigné, il semblait se souvenir de tous les détails relatifs à la question de savoir quels étaient les paiements mensuels ou les paiements effectués toutes les deux semaines qui provenaient du compte en banque de son épouse en vue de payer l’hypothèque et les primes d’assurance, mais il ne se souvenait en aucune manière des sommes dont il avait demandé la déduction à titre de revenus tirés du bien ou de pertes découlant du bien dans les déclarations de revenus qu’il a produites pour les années comprises entre 1987 et 2012.
+[18] En outre, il y avait de nombreux éléments de preuve plus compatibles avec le fait que l’appelante et son époux devaient être les propriétaires conjoints du bien, comme le ministre l’a supposé. Non seulement le nom de l’appelante a‑t‑il été rayé de l’acte original, mais l’expression [traduction] « en tant que tenants conjoints et non en tant que tenants communs » l’a été également, ce dont l’avocat de l’appelante a semblé faire fi. On exprimait ainsi une intention claire; à l’origine, l’appelante et son époux devaient être propriétaires du bien à titre de tenants conjoints. Le fait que le nom de l’appelante ait été rayé donne franchement à entendre, à première vue, qu’il se peut que cette intention ait changé et qu’on ait voulu que l’époux de l’appelante soit le seul propriétaire bénéficiaire du bien.
+[19] Le fait que le couple ait eu la propriété conjointe du bien est aussi renforcé par le fait que les polices d’assurance souscrites au fil de nombreuses années font référence à l’appelante et à son époux sous l’appellation [traduction] « assurés » à l’égard du bien, et renvoient au partenariat des deux assurés. En outre, l’intimée a produit des éléments de preuve montrant clairement que tant l’appelante que son époux ont déclaré des revenus et des pertes à l’égard du bien pour leurs années d’imposition.
+[20] Bien franchement, les déclarations de l’appelante selon lesquelles elle n’a pas compris le sens juridique du terme « partenariat » ou s’est simplement fiée au fait que son comptable, qui se trouvait également être le comptable de son époux, préparait leurs déclarations de revenus, qu’elle se contentait de signer, faisant preuve d’aveuglement à l’égard du fait qu’elle ne déclarait que la moitié des revenus, ne sont tout simplement pas crédibles. C’est une femme instruite qui occupe un poste de direction auprès d’une entreprise pharmaceutique internationale, et elle aurait dû savoir si elle déclarait tous les revenus tirés du bien ou juste la moitié. En outre, il semble incroyable de sa part qu’elle n’ait pas soulevé la question de la propriété bénéficiaire quand elle a signé une hypothèque au profit de la Royal Trust, à titre de garante, deux ans après l’achat initial, hypothèque qui a été renouvelée en de multiples occasions, n’exigeant pas simplement qu’elle se contente de continuer à signer. Bien franchement, son rôle initial de garante dans le contexte de l’hypothèque initiale explique pourquoi son nom apparaissait sur tous les renouvellements, et cela ne donne aucunement à entendre qu’elle était la seule propriétaire bénéficiaire du bien, et encore moins qu’elle en était la propriétaire conjointe; toutefois, l’intimée a formulé cette dernière hypothèse, laquelle se trouve étayée par d’autres éléments de preuve.
+[21] Je dois avouer que je n’accorde que peu de poids à l’argument avancé par l’avocat de l’appelante, selon lequel tant le débiteur hypothécaire, une importante institution financière, que Wawanesa, importante compagnie d’assurance, auraient pu facilement se tromper en inscrivant les noms tant de l’appelante que de son époux sur les documents et qu’il ne faudrait pas, par conséquent, considérer que ces documents sont décisifs en ce qui a trait à la question de la propriété. L’avocat de l’appelante a semblé ne pas tenir compte du fait que sa cliente avait elle-même signé les premiers documents hypothécaires ainsi que tous les renouvellements afférents, plusieurs fois, et qu’elle avait ainsi accepté son rôle et son titre, de garante aussi bien que de copropriétaire, tout comme elle avait accepté que son époux soit propriétaire du bien.
+[22] En ce qui concerne les documents établis par la suite, dont il a été question ci‑dessus, datés du 1er avril 2013, dans lesquels tant les parents de l’appelante que l’époux de celle‑ci ont reconnu que l’appelante était effectivement la seule propriétaire bénéficiaire du bien, à mon avis, ces documents ne sont que des documents intéressés, signés bien après la date d’achat initiale du bien, des années plus tard, des documents qui ne s’appuient sur aucun élément de preuve décisif et crédible. Je prends note du fait que ces éléments de preuve documentaire ne cadrent pas avec les déclarations de revenus de l’appelante ni avec l’acte et les documents hypothécaires établis pendant la période qui a suivi l’achat initial. Je prends également note du fait que le transfert qui a été effectué le 22 mars 2004 était accompagné d’un affidavit relatif aux droits de cession immobilière, aux termes duquel il s’agissait d’un transfert sans contrepartie. L’appelante ne s’est pas fondée sur le fait que le transfert avait été effectué par un fiduciaire en faveur d’un propriétaire bénéficiaire, ce qui aurait également eu pour effet d’exempter la transaction des droits de cession immobilière en Ontario.
+[23] Dans l’ensemble, je ne vois aucune preuve crédible qui me conduirait à accepter l’argument de l’appelante selon lequel son époux a acheté le bien et en a été propriétaire en tant que fiduciaire pour son compte à elle, qui en était la seule propriétaire bénéficiaire, directement, indirectement, explicitement, implicitement ou autrement.
+2. Y a-t-il eu une contrepartie – une fiducie par interprétation ou un prêt? [24] L’argument relatif à la fiducie par interprétation que l’appelante a avancé est fondé sur la thèse selon laquelle c’est elle qui a effectué tous les paiements hypothécaires et payé les taxes et les frais d’assurance relatifs au bien, et que c’est elle seule qui s’occupait de percevoir les loyers. À titre subsidiaire, elle a fait valoir que ces paiements constituaient un prêt consenti à son époux, et, par conséquent, qu’il s’agissait d’une contrepartie donnée en échange de l’intérêt de son époux dans le contexte du transfert du bien.
+La fiducie par interprétation [25] Certains éléments de preuve montrent que l’appelante détenait un compte à son nom auprès de la CIBC et qu’au moins deux chèques de paiement de loyer ont été établis à son nom, et il existe également des éléments de preuve relatifs à des paiements hypothécaires, et à des paiements de taxes à la Ville de Toronto et de primes d’assurances à Wawanesa, lesquels ont été portés au débit de ce compte. L’appelante a déclaré qu’elle avait été incapable d’obtenir des relevés bancaires pour la période comprise entre la date de l’achat initial et la date du transfert effectué en 2004, mais qu’elle avait réussi à trouver deux relevés bancaires mensuels pour janvier 2001 et janvier 2002 ainsi que quelques chèques de paiement de loyer et de taxes étayant les paiements, comme il a été mentionné ci‑dessus. L’appelante a également insisté, encore une fois, sur le fait que la somme de 130 000 $ que son père avait donnée pour l’achat initial avait été versée à son profit à elle. L’époux de l’appelante a également confirmé que c’était l’appelante qui avait effectué tous les paiements hypothécaires et payé les primes d’assurance, et qu’il n’avait rien payé, nonobstant le fait qu’il a convenu avec l’avocat de l’appelante que, en sa qualité de père de leurs trois enfants, il aurait dû apporter une contribution.
+[26] Bien franchement, l’appelante m’a donné des raisons raisonnables de croire que les paiements d’hypothèque et de primes d’assurance et les versements échelonnés de taxes étaient prélevés sur son compte bancaire. Toutefois, je ne suis pas convaincu du fait qu’elle était la seule à percevoir les loyers, pour son propre profit, vu qu’il y a de très nombreux éléments de preuve qui montrent que l’appelante aussi bien que son époux ont effectué des déductions au titre des principales pertes locatives afférentes au bien dans les déclarations de revenus qu’ils ont produites depuis l’achat initial, et qu’ils ont continué d’agir ainsi, même après le transfert en cause. J’accepte le témoignage de l’agente des appels de l’ARC à cet égard; celle‑ci a fait preuve de crédibilité en affirmant que c’est ce qui ressortait également des résumés des cotisations, et qu’elle avait mené son enquête et confirmé que les revenus tirés du bien en cause avaient trait au bien qui avait fait l’objet du transfert.
+[27] La Cour a à maintes reprises été saisie de questions de fiducie par interprétation, et je renvoie à la décision Pliskow c La Reine, 2013 CCI 283, que j’ai moi-même récemment rendue et à laquelle l’intimée a fait référence, dans laquelle j’ai conclu que la Cour n’avait pas la compétence voulue pour établir l’existence d’une fiducie par interprétation en vue de définir les droits de propriété entre deux époux, qui, en l’occurrence, n’avaient même pas divorcé, mais étaient encore marié, comme c’est le cas en l’espèce. Il se peut que, comme l’appelante l’a affirmé, en 2003, son époux et elle aient commencé à avoir de graves problèmes et à vivre séparément dans la même maison avant le transfert en cause, ou même qu’ils aient commencé à vivre chacun de leur côté à partir de 1991, quand l’avocat de l’époux de l’appelante a écrit à celle‑ci pour lui proposer d’entamer des négociations relatives à une séparation avec son avocat, mais, comme je l’ai déclaré dans la décision Pliskow, malgré la décision Savoie v The Queen, 93 DTC 552, rendue par l’ancien juge en chef Bowman, sur laquelle l’appelante s’est fondée, la question de la fiducie par interprétation exige qu’on procède à l’analyse de toute la relation unissant l’appelante et son époux, des contributions que les parties ont apportées en ce qui concerne leurs biens ou de leur part de responsabilité dans les dettes, de la question de savoir s’il existait des ententes, des contrats de mariage, des ententes de séparation ou autres, ou, en général, de tous les éléments que les parties seraient susceptibles d’invoquer pour argumenter aux fins de la répartition de leurs droits de propriété. Il s’agit d’arguments qu’il convient d’avancer devant les tribunaux compétents, de la province d’Ontario en l’occurrence, et non devant la Cour.
+[28] Comme je l’ai également déclaré au paragraphe 25 de la décision Pliskow, précitée :
+[…] Je souscris à l’opinion que le juge Sarchuk exprimait déjà en 1990 dans sa décision Nelson v The Minister of National Revenue, 91 DTC 37, au paragraphe 22, et aussi à celle qu’il a exprimée dans sa décision John Karavos v R, 96 DTC 1001, où il a fait les observations suivantes, au paragraphe 28 :
+28. La fiducie par interprétation est un mécanisme grâce auquel une cour compétente en equity peut accorder un redressement à une personne qui a été lésée. Pour déterminer si un enrichissement sans cause existe et s’il convient de restituer un droit en invoquant l’existence d’une fiducie par interprétation, la cour peut tenir compte des contributions financières réelles de la personne lésée (qui peuvent à juste titre comprendre l’affectation des gains au règlement des factures et à l’entretien du ménage), tous les travaux, physiques ou autres, exécutés à l’égard du bien et d’autres facteurs comme l’exécution de tâches ménagères, l’éducation des enfants, etc. Il en résulte qu’en fait, une cour doit se lancer dans l’examen de l’ensemble des relations conjugales sur une période de trente ans afin de déterminer s’il existe un enrichissement sans cause et s’il conviendrait d’y remédier en prenant une ordonnance déclaratoire de propriété en faveur de la partie demanderesse ou en lui accordant un redressement pécuniaire. À mon avis, une telle enquête n’a pas sa place dans une affaire d’impôt sur le revenu. Le recours à un mécanisme de restitution pour remédier aux situations d’enrichissement sans cause ne devrait pas être assimilé à la détermination d’une question incidente permettant à la Cour de s’acquitter des fonctions que lui assigne la loi, soit de rejeter ou d’admettre un appel ou d’annuler ou de modifier une cotisation.
+[29] En l’espèce, l’appelante a soutenu que son époux s’était enrichi sans cause, vu que c’était elle qui avait payé toutes les factures afférentes au bien. Même si je devais accepter un tel argument, aucun élément de preuve n’a été produit à l’égard des contributions que l’époux de l’appelante a apportées dans le contexte de leur vie conjugale, en ce qui concerne les frais de subsistance, les autres biens ou en général, qui me permettrait d’établir si une des parties, et laquelle, s’est enrichie sans cause au cours du mariage. En outre, l’appelante et son époux n’ont pas divorcé et ils ne semblent pas avoir adopté de positions antagonistes devant moi en ce qui concerne l’ensemble de leurs biens, y compris en ce qui concerne le domicile conjugal dans lequel ils vivent encore tous les deux, et, si c’était le cas, il ne fait aucun doute qu’ils feraient valoir tous les éléments susceptibles d’avoir une incidence sur leur position respective, comme le juge Sarchuk l’a exprimé dans la décision Karavos, précitée. Encore une fois, comme je l’ai déclaré dans la décision Pliskow, précitée, au paragraphe 26 :
+[…] Cela démontre pourquoi la Cour n’est pas le tribunal le mieux placé pour traiter cet argument, n’ayant été saisie que d’une partie sinon d’une petite partie de la preuve qui peut exister pour statuer sur la question.
+La contrepartie relative au prêt [30] L’appelante a également prétendu, à titre subsidiaire, que les paiements effectués à partir de son compte en banque pour l’hypothèque, les taxes et les frais d’assurance, tels qu’ils ont été mentionnés précédemment, pour un total bien supérieur à 400 000 $, devraient être considérés comme des dettes ou des prêts que son époux avait envers elle en contrepartie du transfert. Les parties s’accordent à dire que les prêts ou les dettes que le cédant avait envers le cessionnaire pouvaient être considérés comme des contreparties à un transfert, comme le prévoit l’article 325(1). Toutefois, rien ne montre que l’appelante ait jamais consenti un prêt à son époux; il n’y a même pas non plus d’élément de preuve établissant qu’il y aurait eu une discussion à l’époque, laquelle donnerait à entendre qu’ils considéreraient une quelconque partie de ces paiements de cette manière. Le fait que l’époux de l’appelante ait déclaré qu’il aurait dû apporter une contribution, mais qu’il ne l’a pas fait, sur une aussi longue période, sans que l’appelante n’ait rien fait pour y remédier, donne à entendre que l’appelante ne voyait pas ces sommes comme des prêts, pas plus qu’elle ne se sentait lésée d’une quelconque manière. Quoi qu’il en soit, l’appelante n’est pas sans recours devant les tribunaux ontariens si elle souhaite présenter une telle demande, vu qu’il n’y a aucune preuve du fait qu’elle a accepté de s’abstenir d’exercer son droit d’invoquer la fiducie par interprétation ou tout autre recours à l’égard de son époux ou qu’elle y a renoncé, au sens juridique des termes. En fait, rien n’empêche non plus l’appelante de demander devant ces tribunaux un crédit ou un remboursement pour tout paiement effectué au titre de la présente cotisation.
+[31] Compte tenu de tout ce qui précède, je conclus que l’appelante n’a pas réfuté les hypothèses que le ministre a formulées dans la réponse, selon lesquelles elle n’avait donné aucune contrepartie à son époux, le cédant, au titre du transfert du bien.
+[32] Par conséquent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de mai 2014.
+« F. J. Pizzitelli »
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 6e jour de juin 2014.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2014 CCI 135
+NO DU DOSSIER DE LA COUR :
+2013-3607(GST)I
+INTITULÉ :
+Stavroula Kardaras c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Le 21 mars et le 2 mai 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge F. J. Pizzitelli
+DATE DU JUGEMENT :
+Le 6 mai 2014
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Norman MacDonald
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Norman MacDonald
+Cabinet :
+Norman MacDonald Law Offices
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

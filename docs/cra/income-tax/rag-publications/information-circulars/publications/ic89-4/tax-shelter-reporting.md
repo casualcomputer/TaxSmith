@@ -1,0 +1,70 @@
+---
+title: "Tax Shelter Reporting"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic89-4/tax-shelter-reporting.html
+last_modified: 2017-11-07
+---
+# Tax Shelter Reporting
+
+NO.: **89-4**
+
+DATE: August 14, 1989
+
+SUBJECT: **Tax Shelter Reporting**
+
+1. The purpose of this circular is to set out guidelines to assist the promoter of a tax shelter to prepare and file: (a) the application form necessary to obtain a tax shelter identification number; and (b) the tax shelter information return and supporting supplementaries. This circular also provides guidelines for investors who are claiming a tax shelter deduction in their income tax return.
+
+The coming into force date of the reporting requirements is September 1, 1989.
+
+Promoter 2. A tax shelter promoter is any person who in the course of a business sells, issues or promotes the sale, issuance or acquisition of an interest in a tax shelter or who acts as an agent or advisor in respect of such activities. This definition will apply to all persons responsible for the sale of a tax shelter, including brokers, sales agents and advisors. There may be more than one promoter for the same tax shelter.
+
+Tax Shelter 3. A tax shelter is defined as any property of which it is expected, based on statements or representations made or proposed to be made in connection with the property, that the aggregate of the losses or other amounts, calculated in any of the relevant years, which a purchaser will be entitled to deduct in taxation years ending within four years of the date of acquisition of the property will exceed the cost of the interest in the property (less prescribed benefits) to the purchaser. The cost of the interest in the property is to be reduced by prescribed benefits to be received or enjoyed by the purchaser or a person with whom the purchaser does not deal at arms length. Prescribed benefits will include tax credits, revenue guarantees, contingent liabilities, limited recourse debt and rights of exchange or conversion.
+
+The definition of what constitutes a tax shelter depends entirely on the reasonable inferences to be drawn from representations made in connection with the property. Representations would include written representations such as those contained in sales brochures or advertisements and verbal representations such as those made in public or private information or sales meetings. A tax shelter does not include property that is a flow-through share or a prescribed property. Prescribed property in relation to a tax shelter means property that is a registered pension fund or plan, a registered retirement savings plan, a deferred profit-sharing plan, a registered retirement income fund or a registered education savings plan.
+
+Part I - Filing of Application for Tax Shelter Identification Number and Undertaking to Keep Books and Records - Form T5001.
+
+4. Subsection 237.1(2) of the Income Tax Act requires the promoter of a tax shelter to apply in prescribed form for an identification number for each tax shelter. Where there is more than one promoter of the same tax shelter, an application by one of the promoters discharges the others from the obligation to make an application. The form is available at all District Taxation offices of Revenue Canada, Taxation.
+
+5. Subsection 237.1(3) of the Act states the Minister shall issue an identification number upon application if the prescribed information is submitted and an undertaking satisfactory to the Minister is given in respect of the custody of the books and records of the tax shelter. An undertaking by a person who proposes to sell or issue interests in a tax shelter to keep the requisite books and records at that person's normal place of business in Canada will normally be satisfactory. An example of an unacceptable undertaking would be where the promoter's place of business is in Toronto, Ontario but the books and records are maintained in Whitehorse, Yukon Territory.
+
+The prescribed information required is detailed on form T5001 and includes the name and address of the promoter, location of the books and records, the person to contact for further information, the price per unit and number of units offered for sale. In addition, copies of the sales brochure, prospectus, selling instruments, and other relevant documentation are to be attached to the form.
+
+6. Subsection 237.1(4) of the Act requires that an identification number for a tax shelter be obtained before a person can sell, issue or accept a contribution towards the acquisition of interests in a tax shelter. This requirement applies to persons who sell or issue interests as agents or principals. Preliminary promotions are not affected by this subsection, as long as no actual sales are concluded or contributions received before the identification number is issued.
+
+7. An identification number is required for any tax shelter where sales have occurred after August 31, 1989, including tax shelters formed prior to September 1, 1989. If a tax shelter was formed prior to September 1, 1989, but no sales occurred after August 31, 1989, an identification number is not required.
+
+8. Subsection 237.1(5) of the Act requires that the promoters of a tax shelter make reasonable efforts to ensure that the identification number assigned to a tax shelter is provided to every person who acquires an interest in the tax shelter. In the case of a sale or issuance of an interest by any promoter of a tax shelter, the promoter is to provide the identification number to the purchaser directly. For subsequent sales of interests in the tax shelter for which the promoter is not actually involved, the promoter's duty will normally be satisfied by ensuring that the identification number is clearly marked on each certificate of ownership.
+
+9. Every promoter of a tax shelter shall include on every written statement that refers to the identification number of the tax shelter the following statement: "The identification number issued for this tax shelter shall be included in any income tax return filed by the investor. Issuance of the identification number is for administrative purposes only and does not in any way confirm the entitlement of an investor to claim any tax benefits associated with the tax shelter."
+
+10. Each promoter who prepares a statement of earnings for a tax shelter shall prominently display the tax shelter identification number on the upper right-hand corner of the statement.
+
+Penalties 10. (a) Subsection 162(9) of the Act provides that every person who: (i) FILES FALSE OR MISLEADING INFORMATION IN THE FORM, "APPLICATION FOR TAX SHELTER IDENTIFICATION NUMBER AND UNDERTAKING TO KEEP BOOKS AND RECORDS", OR (ii) whether as a principal or as an agent sells, issues or ACCEPTS A CONTRIBUTION FOR AN INTEREST IN A TAX SHELTER BEFORE THE MINISTER HAS ISSUED AN IDENTIFICATION NUMBER
+
+is liable to a penalty equal to the greater of:
+
+(iii) $500 and (iv) 3 percent of the total cost to each purchaser of interests SOLD BEFORE THE CORRECT INFORMATION IS FILED WITH THE MINISTER ((I) ABOVE), OR THE IDENTIFICATION NUMBER IS ISSUED ((II) ABOVE).
+
+(b) Subsection 239(2.1) provides that it is a criminal offence to wilfully provide an incorrect identification number for a tax shelter to another person. Upon summary conviction, a person can be sentenced to a fine of not less than 100 percent and not more than 200 percent of the cost of the property to the other person, or imprisonment of up to two years, or both the fine and imprisonment.
+
+Part II - Filing of Tax Shelter Information Return, T5002, and Tax Shelter Information Supplementaries, T5003.
+
+12. Subsection 237.1(7) of the Act imposes an obligation on a promoter to make an information return in respect of all acquisitions of an interest in a tax shelter. The obligation is imposed on every promoter from whom an interest in the tax shelter was acquired, who accepted a contribution in respect of an acquisition of an interest in the tax shelter or who acted as agent in respect of an acquisition of an interest in the tax shelter in a calendar year, unless an information return in respect of the acquisition has previously been made. The Return and Supplementary forms are available at all District Taxation offices of Revenue Canada, Taxation.
+
+13. The Information Return filed in prescribed form must contain: (a) the name, address and social insurance number of each person who acquired an interest in the tax shelter in the year, (b) the amount paid by that person for the interest, and (c) such other information as may be required by the prescribed form. Note: For the 1989 calendar year supplementaries are required only for those investors who purchased an investment in the tax shelter after August 31, 1989.
+
+14. The Information Return is to be filed with the Minister (a) on or before the last day of February immediately following the calendar year in which an acquisition of an interest in a tax shelter occurs, or (b) if the business or activity is discontinued during the year the return is to be filed within 30 days of the day of the discontinuance of the business or activity.
+
+15. A person required to make an Information Return shall forward to the appropriate investor copies 2 and 3 of the supplementaries on or before the dates indicated in 14 above.
+
+Penalties 16. Paragraph 162(7)(a) of the Act provides that every person who fails to make an Information Return, as and when required by the Act or by a regulation, is liable to a penalty. The penalty is the greater of: (a) $100, and (b) $25 per day that the failure continues (maximum $2500).
+
+Part III - Filing Requirements for Investors
+
+17. Subsection 237.1(6) of the Act provides that no amount may be claimed or deducted by a person in respect of an interest in a tax shelter unless the person provides the identification number for the tax shelter. The investor may use the authorized form, Statement of Tax Shelter Loss or Deduction - T5004, available at all District Taxation offices of Revenue Canada, Taxation to provide the tax shelter identification number to the Minister by including this form in the relevant income tax return. The investor should also include a copy of Supplementary T5003 in the first year of a claim.
+
+18. The investor must provide documentation that substantiates the claim. Both the authorized form and the relevant documentation are to be included in the investor's income tax return for the year in which the claim is made. Note: As indicated in paragraph 9 above, the identification number assigned to the tax shelter by Revenue Canada, Taxation is for administrative purposes only and does not in any way confirm the validity of a claim for any tax benefits associated with the tax shelter.
+
+Part IV - Other
+
+19. Subsection 237.1(8) of the Act permits the Minister to verify or obtain any information in respect of the tax shelter at any time after a promoter has applied for a tax shelter identification number. Revenue Canada, Taxation may audit the tax shelter's books and records or the books and records maintained by a taxpayer for the shelter at any time after the application for an identification number has been made.

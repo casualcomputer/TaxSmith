@@ -1,0 +1,152 @@
+---
+title: "D.W. Thomas Holdings Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28983/index.do"
+last_modified: "2008-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 626"
+citation2: ""
+neutral_citation: "2008 TCC 626"
+decision_date: "2008-11-26"
+language: "en"
+item_id: "28983"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6793
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:35:42.959000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7ee1fe38b7309d1218c6dedd06aa2fe6c755700dc69c3d71e7cf74c4576451b1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# D.W. Thomas Holdings Inc. v. M.N.R.
+
+- Citation: 2008 TCC 626
+- Decision date: 2008-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6793, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D.W. Thomas Holdings Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-26
+Neutral citation
+2008 TCC 626
+File numbers
+2008-889(CPP)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2008-889(CPP)
+2008-890(EI)
+BETWEEN:
+D.W. THOMAS HOLDINGS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 30, 2008, at Victoria, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Shelley J. Spring
+Counsel for the Respondent:
+Max Matas
+____________________________________________________________________
+JUDGMENT
+The appeals are dismissed and the decisions of the Minister of National Revenue are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Halifax, Nova Scotia, this 26th day of November 2008.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2008TCC626
+Date: 20081126
+Docket: 2008-889(CPP)
+2008-890(EI)
+BETWEEN:
+D.W. THOMAS HOLDINGS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The issue in these appeals is whether, in 2004 and 2005, Richard Devos was employed by the Appellant under a contract of service for purposes of the Canada Pension Plan and the Employment Insurance Act.
+[2] In 2004 and 2005, the Appellant operated a commercial diving business which harvested geoducks and horse clams.
+[3] The Appellant was incorporated June 12, 1996 and Dave Thomas is its sole shareholder and President. He is a commercial diving fisher and has been harvesting geoducks for 22 years. He stated that he was the skipper of the Highway II (the “Boat”) and as such hired a crew to fish the Boat quota. In 2004 and 2005 the crew consisted of two divers, Dave Thomas and Harvey McGilvery and a deckhand who performed the duties of a dive tender. Richard Devos was the dive tender in 2004 and 2005.
+[4] The Boat was owned by Jamie Austen and Andy Milne (the “Owners”). They also owned the species and quota licences and made all arrangements with the Buyers who purchased the catch. Dave Thomas stated that he did not pay to use the Boat.
+[5] His arrangement with the Owners was that he would fish the geoducks, sail the Boat to the dock where the catch would be weighed and placed on a truck to be taken to the Buyer’s plant. The Buyer issued a cheque to the Owners and Austen in turn, issued a cheque to the Appellant. The payment to the Appellant represented 20% of the proceeds from the catch. The Appellant paid all crew members. Harvey McGilvery was paid in terms of a percentage of the proceeds from the catch. However, Richard Devos was paid according to the number of pounds sold. His compensation was the rate of $0.21 per pound in 2004 and $0.235 per pound in 2005. The Appellant received a Christmas bonus from the Owners and it in turn paid a portion of the bonus to each of the crew members.
+[6] Both Dave Thomas and Harvey McGilvery testified that all equipment attached to the Boat that was used to fish the geoducks (the compressor, air tank, air hose, water pump, water hose and hydraulics) were owned by the Owners. Each member of the crew supplied some of the tools he needed to do his job. The divers supplied their own diving suit, backpack, regulator, gauges and face mask. Harvey McGilvery estimated that his diving gear cost $8,000. Each year it cost him approximately $1,500 to $2,000 to replace items. Richard Devos supplied his own raingear, boots, rubber gloves, stop watch, slate, grease pens and floater suit. He estimated that his tools cost him $500 to $600 over the two years that he worked with the Appellant. Each member of the crew needed a commercial fishing licence in order to fish and each purchased his own licence. In 2004 and 2005 the cost was $60.
+[7] Each member of the crew paid for their share of the food. Dave Thomas testified that he paid for the fuel and calculated the amount that was paid to the crew so as to recoup his costs. However, on cross-examination he admitted that if the fishing trip was unsuccessful, as in the situation when the catch was contaminated, then he alone bore the cost of the fuel. Harvey McGilvery affirmed this when he stated that the Appellant received a higher percentage of the proceeds from the catch because his expenses were greater as he paid for the fuel, daily maintenance of oil on the Boat and general maintenance of the Boat.
+[8] The Boat was not always docked in the same place and the crew members had to pay their own travel costs to get to the Boat.
+[9] Dave Thomas stated that he hired Richard Devos as a dive tender because Richard was in the industry and he had gone to Seneca Dive College. Prior to working with the Appellant, Richard Devos had worked fishing for sea urchins both as a deckhand and as a diver. This work was quite different from fishing for geoducks and he was given training at the beginning of his employment with the Appellant on how to perform his duties. The training he received included learning the routine on the Boat; how to drop the anchor; how to operate the anchor wench; how to clean the Boat; and, how to fill and stack the cages so that the Boat didn’t tip.
+[10] As part of his duties Richard Devos had to help the diver dress and assist him in and out of the water; ensure the diver was safe while he was in the water; watch for traffic in the area; drop the anchor at the spot where they would fish; take the geoducks out of the tray and pack them in the cages so that the cages held the maximum number of pounds without the shells on the geoducks breaking; and, help to unload the catch at the dock. He also helped to paint and clean the Boat when needed.
+[11] Harvey McGilvery testified that he has worked with the Appellant since 1998 and he worked with Richard Devos in 2004 and 2005.
+[12] The question is whether Richard Devos was employed by the Appellant as an employee or an independent contractor. Both Dave Thomas and Harvey McGilvery testified that it was the Appellant’s intention to hire Richard Devos as an independent contractor. Richard Devos stated that he thought of himself as an employee because he was on call and had to report for work when called. However, when he filed his 2004 and 2005 income tax returns he reported that he was a self employed fisher.
+[13] It is necessary to use the factors from Wiebe Door to analyze the work relationship between the Appellant and Richard Devos[1]. In Combined Insurance Company of America v. M.N.R.[2] , Nadon, J.A. reviewed the case law and stated the principles to be applied as follows:
+[35] In my view, the following principles emerge from these decisions:
+1. The relevant facts, including the parties’ intent regarding the nature of their contractual relationship, must be looked at in the light of the factors in Wiebe Door, supra, and in the light of any factor which may prove to be relevant in the particular circumstances of the case;
+2. There is no predetermined way of applying the relevant factors and their importance will depend on the circumstances and the particular facts of the case.
+Although as a general rule the control test is of special importance, the tests developed in Wiebe Door and Sagaz, supra, will nevertheless be useful in determining the real nature of the contract
+CONTROL
+[14] Both Dave Thomas and Harvey McGilvery stated that the Appellant had no control over the time or place of fishing or to whom the catch was sold. The Department of Fisheries and Oceans determined when and where they would fish and the Owners determined to whom the catch was sold. It was Dave Thomas’ evidence that after he trained Richard Devos, he did not have time to supervise him as he was in the water 50% of the time. As well, if he had to watch him closely, he would not have rehired him. According to the evidence of Richard Devos, he was supervised in how he performed his duties. In particular, he stated that he was supervised in how he packaged the geoducks. At the end of the day if the cages were not heavy enough, Dave Thomas would tell him.
+[15] It is my opinion that Dave Thomas did control how Richard Devos performed his duties. In particular, it was Dave Thomas’ evidence that he paid attention to how dive tenders packed the cages with geoducks. If the cages were too light, then they had to spend a longer time at sea in order to reach their quota. If the dive tender put too many geoducks in the cage, then the shells on the bottom could break from the weight and there would be a loss. As well, I have also considered the fact that, Dave Thomas, as skipper, was in charge of the Boat and had the right to control how Richard Devos performed his work.
+[16] There was conflicting evidence from the witnesses as to whether Richard Devos was on call 24/7. Regardless, the fact remains that he was the only dive tender hired during the period. He did not receive vacation time or sick days but he did receive a Christmas bonus.
+[17] When I analyze all of the relevant facts, it is my opinion that the control factor suggests that Richard Devos was an employee.
+OWNERSHIP OF TOOLS
+[18] Richard Devos supplied some of the tools that he needed to do his work. However, the larger tools were supplied by the Owners of the Boat or the Buyers who supplied the cages. This factor is not conclusive one way or the other.
+CHANCE OF PROFIT / RISK OF LOSS
+[19] Both of these factors suggest that Richard Devos was an employee. He was not liable for any expenses incurred on the fishing trip. He only paid for the cost of his own food, his personal use of the satellite telephone and his trip to and from the Boat. All of these expenses were personal. He was not responsible for any expenses which could have reduced his potential earnings.
+[20] Dave Thomas stated that Richard Devos had a chance of profit as he was paid by the pound and he could pack the cages with geoducks to make the cages as heavy as possible. However, his own evidence persuades me that this was not the case. If the cages were packed with too much catch, there would be a loss as the shells on the geoducks would break.
+[21] Richard Devos was paid $.21 or $.235 per pound of catch sold. He had no chance of sharing in the profits as did the other members of the crew who shared in the proceeds of the catch on a predetermined basis.
+[22] It was the evidence of both Dave Thomas and Harvey McGilvery that Richard Devos negotiated his raise in pay in 2005. They stated that the amount of quota decreased in 2005 and Richard Devos wanted to make sure that he received remuneration equal to what he received in 2004. Richard Devos did not recall negotiating the new rate of pay. However, both Dave Thomas’ and Harvey McGilvery’s evidence confirmed that Richard Devos did not have the opportunity to make a profit from his employment.
+CONCLUSION
+[23] Although the Appellant intended to hire Richard Devos as an independent contractor, the terms of their relationship, when analyzed against the Wiebe Door factors, do not support his intention.
+[24] The appeals are dismissed.
+Signed at Halifax, Nova Scotia, this 26th day of November 2008.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2008TCC626
+COURT FILE NO.: 2008-889(CPP)
+2008(890)(EI)
+STYLE OF CAUSE: D.W. THOMAS HOLDINGS INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: October 30, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: November 26, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Shelley J. Spring
+Counsel for the Respondent:
+Max Matas
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Shelley J. Spring
+Firm: Dwyer Tax Lawyers Law Corporation
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 at paragraph 47.
+[2] [2007] F.C.J. No. 124 at paragraph 35.

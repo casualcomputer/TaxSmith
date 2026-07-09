@@ -1,0 +1,118 @@
+Title: Yankulov c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28991/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-657-28991-yankulov-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-12-01
+
+# Yankulov c. La Reine
+
+- Citation: 2008 CCI 657
+- Decision date: 2008-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6771, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yankulov c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-01
+Référence neutre
+2008 CCI 657
+Numéro de dossier
+2007-3157(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3157(IT)I
+ENTRE :
+KRASSIMIR YANKULOV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 juin 2008, à Hamilton (Ontario).
+Devant : L’honorable juge M. A. Mogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Sharon Lee
+___________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelant a droit à un crédit spécial pour impôts étrangers de 1 523,65 $.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2008.
+« M. A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 17e jour de décembre 2008.
+Alya Kaddour‑Lord, traductrice
+Référence : 2008CCI657
+Date : 20081201
+Dossier : 2007-3157(IT)I
+ENTRE :
+KRASSIMIR YANKULOV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] L’appelant est professeur de génétique moléculaire à l’Université de Guelph, en Ontario. Du 1er septembre au 31 décembre 2004, il a été chercheur invité auprès de l’École normale supérieure (l’« ENS ») de Lyon, en France. L’ENS de Lyon lui versait un salaire en rémunération de ses services. Quand l’appelant a produit sa déclaration de revenu pour 2004 au Canada, il a déclaré un montant en dollars canadiens qu’il croyait sincèrement être l’équivalent du salaire que l’ENS de Lyon lui avait payé en euros. Dans une nouvelle cotisation établie à l’égard de l’appelant, l’Agence du revenu du Canada (l’« ARC ») a refusé à celui‑ci la déduction d’un certain montant qu’il avait demandée à titre de crédit spécial pour impôts étrangers. L’appelant a interjeté appel de cette nouvelle cotisation sous le régime de la procédure informelle.
+[2] Des erreurs ont été commises aussi bien par l’appelant, quand il a déclaré son revenu de source étrangère dans sa déclaration pour 2004, que par l’ARC, quand elle a établi la première cotisation à l’égard de l’appelant. La pièce A‑1, qui a été délivrée à l’appelant par l’ENS de Lyon, offre une excellente illustration de ces erreurs. Ce document résume tous les montants payés à l’appelant en rémunération de ses services par l’ENS de Lyon entre septembre et décembre 2004, toutes les retenues à la source effectuées sur ces montants, ainsi que certaines sommes que l’employeur (l’ENS de Lyon) était tenu de verser du fait qu’il employait l’appelant.
+[3] La pièce A-1 est bien évidemment rédigée en français, et les montants y sont exprimés en euros. Au cours de l’audition du présent appel, les parties ont convenu d’appliquer un taux de conversion de l’euro en dollar canadien de 1,5645 pour l’année d’imposition 2004 dans le cas de l’appelant. Il se peut que des taux de conversion différents aient été utilisés par l’appelant quand il a déclaré son revenu, ou par l’ARC quand elle a établi la cotisation concernant l’impôt, mais la divergence éventuelle entre les taux en question est maintenant hors de propos. Si on examine la pièce A‑1, la première colonne indique que la rémunération totale touchée par l’appelant s’élevait à 12 814,62 €, la deuxième colonne montre que la somme des neuf retenues à la source effectuées était de 2 156,01 €, et la troisième colonne nous apprend que la somme versée au fisc par l’ENS de Lyon, à même ses propres fonds, se chiffrait à 4 469,13 €.
+[4] Dans sa déclaration de revenu pour 2004, l’appelant a déclaré un revenu de source étrangère de 26 886 $. Ce montant était inexact. Il semble qu’il y soit parvenu en additionnant (en euros, voir la pièce A-1) sa rémunération totale (12 814,62 €) au montant versé au fisc par l’ENS de Lyon à même ses propres fonds (4 469,13 €), ce qui lui a donné un total de 17 283,75 €, auquel il a alors appliqué un taux de conversion d’environ 1,555 pour obtenir un montant de 26 886 $CAD. Ce montant était inexact parce que la rémunération totale que l’appelant avait touchée ne s’élevait qu’à 12 814,62 €, soit 20 028,47 $CAD (en utilisant le taux de 1,5645).
+[5] L’ARC a établi une première cotisation en fonction de la déclaration de l’appelant telle qu’il l’avait produite, l’imposant sur un revenu de source étrangère de 26 886 $. En constatant qu’il avait commis une erreur, l’appelant a produit un avis d’opposition. En réponse à cet avis, l’ARC a établi une nouvelle cotisation datée du 9 mars 2007 (voir la pièce A-2 et le paragraphe 7 de la réponse à l’avis d’appel), dans laquelle elle faisait passer le revenu de source étrangère gagné par l’appelant en 2004 de 26 886 $ à 16 675 $. Voir la pièce A-2.
+[6] L’ARC a employé une méthode tout à fait singulière, qui lui a permis de conclure que le revenu de source étrangère de l’appelant pour 2004 ne s’élevait qu’à 16 675 $, et non à 20 028 $. Voir le paragraphe 4 ci‑dessus. La pièce A‑3 contient une description de cette méthode ainsi que des copies de certains courriels échangés par l’appelant et le répartiteur des impôts (Brian Thiessen) au cours des dix premiers jours du mois de mars 2007. Le courriel de M. Thiessen était ainsi rédigé :
+[traduction]
+Votre revenu d’emploi tiré de source étrangère a par conséquent fait l’objet d’une nouvelle cotisation établie de la manière suivante : 16 675,40 $ [12 814,62 – 2 156,01 = 10 658,61 (salaire net en euros) x 1,5645 = 16 675,40 $].
+[7] Si on examine de nouveau la pièce A-1, il est parfaitement clair que l’ARC est partie de la rémunération totale de l’appelant (12 814,62 €) à laquelle elle a soustrait la somme de toutes les retenues à la source (2 156,01 €) pour arriver au revenu d’emploi de source étrangère de l’appelant (10 658,61 €). Je suis d’avis que la méthode employée par l’ARC est viciée, et ce, pour les raisons suivantes.
+[8] D’après ce que je comprends du processus de déclaration et d’imposition du revenu de source étrangère qui s’applique aux particuliers tels que l’appelant, (i) le contribuable indique dans sa déclaration de revenu l’équivalent en dollars canadiens de son revenu d’emploi de source étrangère; (ii) le contribuable procède à une estimation de l’impôt qu’il doit payer au fisc canadien sur son revenu total en se servant des taux pertinents et en tenant compte du crédit spécial pour impôts étrangers, visé par l’article 126 de la Loi de l’impôt sur le revenu (la « Loi »), qu’il peut demander à l’égard de tout impôt payé à un gouvernement étranger; (iii) l’ARC vérifie la déclaration de revenu du contribuable et fixe le montant de l’impôt que celui‑ci doit payer après avoir décidé s’il y a lieu de lui accorder un crédit spécial pour impôts étrangers en application de l’article 126 de la Loi et en vertu de toute convention fiscale passée avec le pays étranger concerné.
+[9] En 2004, pendant toutes les périodes en cause, l’appelant résidait au Canada. Il devait par conséquent déclarer son revenu de toutes provenances dans sa déclaration pour 2004, y compris le salaire brut de 12 814,62 € que lui avait payé l’ENS de Lyon. En vertu de l’article 126 de la Loi, l’appelant avait le droit de déduire de l’impôt qu’il devait payer au Canada toute somme (jusqu’à concurrence d’un certain plafond) qu’il avait dû payer en France à titre d’impôt sur son revenu d’emploi. Autrement dit, à la lumière de la pièce A-1, si l’appelant a inclus dans son revenu de toutes provenances le salaire total de 12 814,62 € que lui a versé l’ENS de Lyon, il avait alors le droit de déduire de son revenu, à titre de crédit d’impôt au Canada, les montants de la deuxième colonne de la pièce A‑1 (les retenues à la source) qui pouvaient être qualifiés d’impôt sur son revenu d’emploi perçu par le fisc français.
+[10] Quand l’ARC, dans la nouvelle cotisation en cause, a déduit toutes les retenues à la source effectuées à l’étranger (2 156,01 €) du revenu d’emploi de l’appelant (12 814,62 €), et a ensuite appliqué le taux marginal d’imposition en vigueur au Canada à la différence (10 658,61 € ou 16 675,40 $CAD), le processus de déclaration et d’imposition du revenu de source étrangère (tel que je le comprends) a été rendu caduc. Dès lors, il ne semble pas utile de décider si une retenue à la source donnée, effectuée en France, constituait un impôt sur le revenu ou une cotisation à un fonds précis, comme la caisse d’assurance‑emploi au Canada.
+[11] Au paragraphe 5 de la réponse à l’avis d’appel de l’intimée, on identifie trois montants en euros (292,17 €; 620,86 € et 60,86 €) qui correspondent à des retenues à la source qu’on peut facilement retrouver à la deuxième colonne de la pièce A‑1. Dans le même paragraphe, on additionne ces trois montants pour arriver à un total de 833,28 €; il s’agit d’une erreur de calcul. Le total exact est de 973,89 €. Au début de l’audience, l’avocate de l’intimée a admis qu’une erreur de calcul avait été commise, et elle a reconnu qu’on aurait dû se servir d’un taux de conversion de l’euro au dollar canadien de 1,5645 pour les derniers mois de l’année 2004.
+[12] En appliquant le taux de conversion convenu (1,5645) au total exact des trois retenues à la source, soit 973,89 €, on arrive à un montant de 1 523,65 $CAD. Cette somme correspond au crédit spécial pour impôts étrangers que l’appelant souhaite se voir accorder dans le présent appel. L’ARC a réduit le crédit spécial pour impôts étrangers de l’appelant à néant parce qu’elle a apparemment déduit la somme de toutes les retenues à la source (2 156,01 €) du revenu d’emploi gagné par l’appelant en France.
+[13] La preuve dont je suis saisi ne me permet pas de savoir si, d’un point de vue financier, la méthode employée par l’ARC afin de calculer l’impôt de l’appelant pour 2004 a pour effet de favoriser ou de léser ce dernier. Au premier coup d’œil, le fait de déduire toutes les retenues à la source du revenu d’emploi de source étrangère de l’appelant semble avantager celui‑ci. Toutefois, en y regardant de plus près, l’ensemble des retenues à la source ne représente que 17 % du revenu d’emploi de source étrangère de l’appelant. Par conséquent, 83 % de ce revenu a été soumis à l’impôt sur le revenu calculé aux taux d’imposition canadiens sans que l’appelant puisse se prévaloir d’un quelconque crédit spécial pour impôts étrangers.
+[14] Comme il a été susmentionné, aux paragraphes 4 et 6, j’ai conclu que le revenu d’emploi de source étrangère de l’appelant pour 2004 s’élevait à 20 028,47 $, et non à 16 675,40 $. Cette conclusion n’est pas pertinente en ce qui a trait à la nouvelle cotisation en cause (voir la pièce A-2). La seule question dont je suis saisi est de savoir si l’appelant a droit à un crédit spécial pour impôts étrangers de 1 523,65 $. Voir le paragraphe 12 ci‑dessus.
+[15] D’habitude, dans les appels similaires, la question à trancher est de savoir si une retenue à la source donnée, effectuée dans un pays étranger, constitue un impôt sur le revenu ou une quelconque cotisation obligatoire à un programme d’assistance sociale. Cette question ne présente plus d’intérêt aux yeux de l’ARC dans la mesure où elle a déduit les neuf retenues à la source qui avaient été effectuées en France de la rémunération de l’appelant. Toutefois, elle intéresse l’appelant, qui ne sait pas s’il a été favorisé ou pénalisé par la méthode de calcul de l’impôt utilisée par l’ARC. Dans les paragraphes 6 à 10 ci‑dessus, j’ai fait part de mes réserves concernant cette méthode de calcul.
+[16] Afin de trancher le présent appel, qui porte sur un éventuel crédit spécial pour impôts étrangers de 1 523,65 $ seulement, je ferai de brèves remarques au sujet du droit applicable et de la preuve. L’article 126 de la Loi impose un plafond au montant du crédit spécial pour impôts étrangers qui peut être déduit. Dans leurs observations, les parties n’ont nullement laissé entendre que la déduction demandée par l’appelant pouvait dépasser ce plafond. L’alinéa 3b) de l’article 2 de la Convention fiscale entre le gouvernement du Canada et le gouvernement de la République française prévoit ce qui suit :
+3. Les impôts actuels auxquels s'applique la Convention sont notamment :
+a) […]
+b) en ce qui concerne la France, l'impôt sur le revenu, l'impôt sur les sociétés, la taxe sur les salaires (régie par les dispositions de la Convention applicables, suivant les cas, aux bénéfices des entreprises ou aux revenus des professions indépendantes), l'impôt de solidarité sur la fortune, et toute retenue à la source, tout précompte ou avance décomptés sur ces impôts (ci-après dénommés « impôt français »).
+L’appelant prétend que les trois montants, qui totalisent 973,89 €, sont visés par les termes de l’alinéa 3b) « […] toute retenue à la source ». Je conclus que ces montants sont bien visés par l’alinéa 3b).
+[17] L’appelant a témoigné qu’il avait le statut de chercheur invité auprès de l’ENS de Lyon, et il a déclaré qu’il n’exerçait aucun contrôle sur le montant des retenues à la source effectuées sur son salaire ou sa rémunération. Il a également produit sous la cote A-3 des copies de courriels qui expliquaient comment l’ARC avait calculé l’impôt qu’il devait payer sur son revenu de source étrangère pour 2004. J’estime que l’appelant est un témoin tout à fait digne de foi.
+[18] L’appelant s’est acquitté de la charge de prouver que la cotisation était inexacte. L’intimée n’a cité aucun agent de l’ARC afin de démontrer que la méthode de calcul de l’impôt employée pour établir la nouvelle cotisation en cause (qui a consisté à déduire toutes les retenues à la source de la rémunération brute, à soumettre la différence à l’impôt canadien, et à refuser tout crédit spécial pour impôts étrangers) était plus avantageuse pour l’appelant que le processus décrit au paragraphe 8 ci‑dessus. J’accueille l’appel et accorde à l’appelant un crédit spécial pour impôts étrangers d’un montant de 1 523,65 $.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2008.
+« M. A. Mogan »
+Juge suppléant Mogan
+Traduction certifiée conforme
+ce 17e jour de décembre 2008.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI657
+NO DU DOSSIER DE LA COUR : 2007-3157(IT)I
+INTITULÉ : Krassimir Yankulov et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 10 juin 2008
+MOTIFS DU JUGEMENT : L’honorable juge M. A. Mogan
+DATE DU JUGEMENT : Le 1er décembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Sharon Lee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

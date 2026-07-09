@@ -1,0 +1,236 @@
+Title: Boisselle v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521118/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-97-521118-boisselle-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-07-10
+
+# Boisselle v. The King
+
+- Citation: 2023 TCC 97
+- Decision date: 2023-07-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5477, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boisselle v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-07-10
+Neutral citation
+2023 TCC 97
+File numbers
+2021-186(IT)G, 2021-187(IT)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-186(IT)G
+BETWEEN:
+GEORGES BOISSELLE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+9287-4775 Québec Inc., 2021-187(IT)G,
+on May 29 and 30, 2023, at Trois-Rivières, Quebec
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+François F.D. Daigle
+Counsel for the Respondent:
+Marie-Claude Landry
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 2013, 2014, 2015, 2016, and 2017 taxation years is dismissed with costs.
+Signed at Ottawa, Canada, this 10th day of July 2023.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Translation certified true
+On this 14th day of May 2025
+Margarita Gorbounova, Senior Jurilinguist
+Docket: 2021-187(IT)G
+BETWEEN:
+9287-4775 QUÉBEC INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+Georges Boisselle, 2021-186(IT)G,
+on May 29 and 30, 2023, at Trois-Rivières, Quebec
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+François F.D. Daigle
+Counsel for the Respondent:
+Marie-Claude Landry
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the taxation years ending on April 30, 2015, 2016, and 2017 is dismissed with costs.
+Signed at Ottawa, Canada, this 10th day of July 2023.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Translation certified true
+On this 14th day of May 2025
+Margarita Gorbounova, Senior Jurilinguist
+Citation: 2023 TCC 97
+Date: 20230710
+Docket: 2021-186(IT)G
+BETWEEN:
+GEORGES BOISSELLE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Docket: 2021-187(IT)G
+BETWEEN:
+9287-4775 QUÉBEC INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Introduction [1] Georges Boisselle is a businessman who worked as a real estate broker for some 20 years. In 1997, having had this experience and wanting a career change, he became an insurance broker, and he has worked in this field for about 25 years. Over the years, he has bought, renovated, and sold several properties. He has kept a few of them, intending to rent them out.
+[2] Mr. Boisselle operates his insurance brokerage business through AssurExperts Boisselle & Associés Inc. (“AssurExperts”). He and his children, Laurent Boisselle and Marie-Ève Boisselle, are shareholders of that company.
+[3] In 2011, Mr. Boisselle purchased a property in Varennes, which was converted into a divided co-ownership for commercial and residential purposes. He sold units of this co-ownership to his children, Laurent and Marie-Ève, and to 9287-4775 Québec Inc. (“9287”). Mr. Boisselle, Laurent and Marie-Ève are the shareholders of 9287, which was incorporated in 2013. AssurExperts operates out of an office space leased from 9287.
+[4] Mr. Boisselle was reassessed by the Minister of National Revenue (“Minister”) under the Income Tax Act, RSC (1985), c 1 (5th Supp) (“Act”) for the 2013, 2014, 2015, 2016, and 2017 taxation years. The Minister denied the deduction of $321,088 as a terminal loss for the 2013 taxation year, which was an adjustment that impacted the other years at issue. For the 2013, 2014, and 2015 taxation years, the Minister included the amounts of $10,136, $5,292, and $7,742 as shareholder benefits in computing Mr. Boisselle’s income.
+[5] 9287 acquired one of the units in the building as well as the garage for $511,000. In its income tax return for the taxation years ending on April 30, 2015, 2016, and 2017 (the “2015, 2016, and 2017 taxation years”), 9287 deducted an amount as a capital cost allowance, which was calculated from an undepreciated capital cost (“UCC”) based on a capital cost of $511,000 for the property. Having concluded that the amount of $511,000 does not represent the fair market value (“FMV”) of the unit and garage purchased by 9287, the Minister made adjustments to the UCC. As a result, the Minister made reassessments under the Act for the 2015, 2016, and 2017 taxation years to reduce the amount deductible as a capital cost allowance.
+II. Background [6] AssurExperts is a family-run business. Mr. Boisselle, Marie-Ève, Laurent and his spouse (Mélanie) as well as three other employees work for the business. In 2011, AssurExperts was looking for new office space as the business was growing and the space that it was leasing from Mr. Boisselle to conduct its business had become too small.
+[7] In 2011, Mr. Boisselle received an advertisement in the mail about the sale of a property located at 68 Ste-Anne Street in Varennes (the “property”). He was familiar with the property and thought the price was reasonable. He saw an opportunity to set up AssurExperts’ offices in a portion of the property.
+[8] In August 2011, Mr. Boisselle, Laurent, Mélanie, and Marie-Ève visited the property. Laurent stated that it was [translation] “love at first sight” and that, immediately after the visit, while they were in the car, he told his father that he wanted to live there with his family. Mr. Boisselle stated that, like him, his son had fallen in love with the property and that that was when he started to think of changing his plans and of making it a syndicate of co-ownership so that they could all live there, that is, Mr. Boisselle, Laurent, Marie-Ève, and their respective families (Transcript, Volume 1 at 151–‍52).
+[9] On August 31, 2011, Mr. Boisselle purchased the property for $500,000 through a notarial act. The declaration of divided co-ownership was notarized on August 6, 2013. On October 23, 2013, Mr. Boisselle sold three of the four units in the building as well as the garage through notarial acts.
+[10] In his income tax return for the 2013 taxation year, the appellant reported a total terminal loss of $412,813, broken down as follows:
+·Terminal loss of $91,725 for unit 101 and the garage, sold to 9287;
+·Terminal loss of $113,467 for unit 201, sold to Marie-Ève;
+·Terminal loss of $207,621 for unit 301, sold to Laurent and Mélanie.
+[11] The Minister denied the deduction of $321,088 as a terminal loss for units 201 and 301, sold to the appellant’s children.
+[12] In addition, for the 2013, 2014, and 2015 taxation years, the Minister included shareholder benefits in Mr. Boisselle’s income for amounts that AssurExperts paid to him and to his family members. The amounts included are mainly living expenses, travel expenses, and expenses for sports activities.
+III. Issues [13] The two appeals—Mr. Boisselle’s and 9287’s—were heard together on common evidence. That said, while the sale of the property is central to both files, the issues in each file should be identified separately given their differences. Therefore, I will analyze and draw conclusions regarding each of the appeals separately.
+Issues in 9287’s appeal
+[14] In 9287’s appeal, the following issues are before the Court:
+i.With respect to the purchase of unit 101 and the garage, the key issue is whether the Minister was justified in reducing the amount that 9287 could deduct as a capital cost allowance (“CCA”) for the 2015, 2016, and 2017 taxation years. In the circumstances of this appeal, to answer this question, the Court will need to determine the FMV of unit 101 and the garage; and
+ii.Given the appellant’s position that 2015, 2016, and 2017 are statute-barred even though the reassessments were made pursuant to subsection 152(3.1) of the Act, the Court must determine whether the Minister made the disputed reassessments within the time limits prescribed by the Act.
+Issues in Mr. Boisselle’s appeal
+[15] At the outset of the hearing, counsel for the appellant stated that the amounts included in Mr. Boisselle’s income as shareholder benefits under section 15 of the Act for the 2013, 2014, and 2015 taxation years were not in dispute, except to the extent that 2013 could be statute-barred (Transcript, Volume 1 at 25).
+[16] In these circumstances, the following issues are before the Court in Mr. Boisselle’s appeal:
+i.Was the Minister entitled to reassess after the normal reassessment period applicable to the appellant for the 2013 taxation year?
+ii.Is the appellant able to deduct a terminal loss for the 2013 taxation year with respect to units 201 and 301, sold to his children?
+IV. Law and analysis A. 9287’s appeal [17] To determine whether the Minister was justified in reducing the amount deductible as a CCA, the Court must determine the FMV of unit 101 and the garage, purchased by 9287. It should be noted that the CCA calculation depends on the UCC, but the UCC depends in part on the capital cost (“CC”) of the depreciable property. Pursuant to section 69, given the non-arm’s length relationship between 9287 and Mr. Boisselle, the CC is deemed to be equal to the FMV of the property.
+[18] As stated in its notice of appeal and discussed at the beginning of the trial, the appellant obtained an appraisal report for the property. For its own reasons, the appellant chose not to call the author of that report as a witness. Therefore, the Court has before it only one expert report, the one obtained by the respondent in these proceedings (Exhibit I-2, tab 9).
+[19] The respondent mandated Éric Gaudreau, an appraiser accredited by the Appraisal Institute of Canada (“Institute”) and appraiser team leader at the Canada Revenue Agency, to appraise the property. The Court recognized Mr. Gaudreau as an independent expert witness on immovable property appraisals. I note that counsel for the appellant testified that he acknowledged the admissibility of Mr. Gaudreau’s testimony as an expert.
+[20] I am of the opinion that Mr. Gaudreau is a professional, honest, and credible witness and that his testimony was straightforward, direct, and consistent. He explained that, of the three recognized appraisal methods (the cost method, the income method, and the comparison method), the comparison method was best suited to appraising an individual co‑ownership unit. Mr. Gaudreau explained in detail his approach to appraising the property, identifying the documents consulted and describing the photographs taken, the surrounding bike paths, and the view from the building. Using the comparison method, he selected residential comparables. When asked why he had compared unit 101, used for business purposes, to units used for residential purposes, Mr. Gaudreau stated that the applicable rules required him to appraise the property by choosing the highest and best use for the property, that is, the use “that results in the highest value” according to the Institute’s definition. In this case, residential use was the preferred option. He made the necessary adjustments to the value arrived at on the basis of the highest and best use taking into account the costs of converting the business unit to a residential unit. In cross-examination, he added that appraising it on the basis of its business use would amount to professional misconduct (Transcript, Volume 2 at 63).
+[21] By applying the comparison method to residential comparables and considering the property’s characteristics (no openings on the sides, an open-plan office, eight-foot ceilings, a kitchenette rather than a full kitchen, lack of a full bathroom, etc.), Mr. Gaudreau determined that the value of unit 101 was $140,000, $170,000 with the garage, excluding taxes.
+[22] Counsel for the appellant raised questions regarding the difference between Mr. Gaudreau’s appraisal and the municipal assessment. Mr. Gaudreau explained that the municipal assessment contained errors, including with respect to the square footage and to a reference to a second floor, when unit 101 and the garage are located on one floor.
+[23] Given Mr. Gaudreau’s professional and credible testimony and the fact that the appellant did not provide the Court with an expert opinion establishing a different FMV, I find that the property’s FMV for the purposes of calculating the UCC and the CCA is $170,000 for unit 101 and the garage. In this case, the FMV is equivalent to the property’s CC, and this was the amount used by the Minister to calculate the CCA deductible by the appellant for the 2015, 2016, and 2017 taxation years, taking into account the CCA claimed in 2014 and the value of the land (see para 19(m) of the Reply). Apart from disagreeing with the FMV and the CC, the appellant did not challenge these calculations.
+[24] In addition to challenging the property’s FMV, the appellant submits that the Minister was not justified in amending the CCA for 2015, 2016, and 2017. If I understood the appellant’s position correctly, the Minister cannot reassess these years to recalculate the deductible CCA, as this value depends on the property’s CC (and therefore its FMV), which was established in 2013 when it was purchased. And since 2013 is statute-barred, so are the subsequent years. I do not accept that argument.
+[25] Subsection 152(3.1) of the Act authorizes the Minister to make a reassessment three years after the date on which a notice of original assessment was sent. Unlike subsection 152(4), subsection 152(3.1) contains no conditions to be met, without which the Minister would not be authorized to reassess beyond the normal reassessment period. The Minister is obliged to assess in accordance with the Act, and I see nothing in the Act that prevents the Minister from correcting an error in an assessment for a previous year that is statute-barred when the subsequent year, for which a reassessment has been made, is not statute-barred.
+[26] This position is supported by this Court’s decision in Atlantic Thermal Star Limited, 2016 TCC 135, and I agree with the comments of Lafleur J., who stated the following at paragraphs 38–39:
+[38] In my view, there is no basis to oppose either the Minister or any other party making factual allegations as to a state of affairs in a previous taxation year if such allegations, if true, would impact the correctness of the assessment (or in the case at bar, a notice of determination of losses) in dispute before this Court.
+[39] I note the principle, referred to in certain cases as the “New St. James principle” (See, for instance, Sherway Centre Limited v The Queen, 2001 DTC 1021, [2001] TCJ No 751 (QL) (TCC)): the Minister is not prevented from challenging certain factual determinations with respect to a prior year in coming to a conclusion as to a taxpayer’s position in a given taxation year. As held by Chief Justice Bowman (as he then was) in discussing the New St. James principle (Coastal Construction & Excavating Ltd v R, 1996 CanLII 21537 (TCC), [1996] 3 CTC 2845 at para 23, 97 DTC 26 (TCC), citing New St. James Ltd v MNR, 1966 CanLII 947 (CA EXC), [1966] CTC 305, 66 DTC 5241 (Ex. Ct.):
+Finally, the appellant contends that because the Minister, in prior years, had treated the operation as a “facility” as defined in the RDIA he was not entitled to change the investment tax credit carry-forward from those admittedly statute‑barred years to affect the taxable income of a year that was not statute‑barred to conform to his view that the property was qualified and not certified. This interpretation would involve a conclusion that a determination of the balance of a carry-forward of investment tax credits for a statute-barred year was tantamount to an assessment. I do not read section 152 of the Income Tax Act as supporting such a conclusion. The Minister is obliged to assess in accordance with the law. If he assesses a prior year incorrectly and that year becomes statute-barred this will prevent his reassessing tax for that year, but it does not prevent his correcting the error in a year that is not statute-barred, even though it involves adjusting carry-forward balances from previous years, whether they be loss carry-forwards or balances of investment tax credits. New St. James Limited. v. M.N.R., 1966 CanLII 947 (CA EXC), 66 D.T.C. 5241; Allcann Wood Suppliers Inc. v. The Queen, 94 D.T.C. 1475. No question of estoppel arises: Goldstein v. The Queen, 96 D.T.C. 1029.
+[Emphasis added.]
+Those comments were later cited with approval by Létourneau JA in Canada v Papiers Cascades Cabano Inc, 2006 FCA 419 at para. 23, 2008 DTC 6264).
+[27] Following a discussion with the parties, the Court concluded that the reassessments for 2015, 2016, and 2017 were made within the normal reassessment period (Transcript, Volume 2 at 5–16). In these circumstances, and in view of my finding regarding the FMV of unit 101 and the garage, I find that the Minister was justified in making reassessments and amending the deductible CCA amount for the years at issue. The appeal from 9287’s assessments for the taxation years ending April 30, 2015, 2016, and 2017 is dismissed.
+B. Georges Boisselle’s appeal Reassessment beyond the normal period for 2013
+[28] In addressing the first issue in Mr. Boisselle’s appeal, the Court must determine whether the Minister was justified in making a reassessment after the appellant’s normal reassessment period for the 2013 taxation year.
+[29] Subsection 152(4) of the Act authorizes the Minister, in certain circumstances, to make a reassessment after the normal reassessment period. The relevant parts read as follows:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year;
+152 (4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l’année;
+[30] The appellant argues that the Minister is not authorized to make a reassessment for the 2013 taxation year as it was made after the normal reassessment period. However, the respondent submits that the Minister was authorized to make the reassessment under paragraph 152(4)(a) of the Act for two reasons: (i) first, because the appellant has signed a waiver pursuant to subparagraph 152(4)(a)(ii) and, second, because the appellant has made a misrepresentation that is attributable to neglect, carelessness or wilful default pursuant to subparagraph 152(4)(a)(i). In response, the appellant stated that the waiver was invalid and that he had not made a misrepresentation.
+[31] It is not in dispute that the reassessment for the 2013 taxation year was made after the normal reassessment period. On March 28, 2017, the appellant signed form T2029 entitled “Waiver in respect of the normal reassessment period or extended reassessment period” for the 2013 taxation year (Exhibit I-1, tab 7). The prescribed form states that, “[i]n order for a Waiver to be valid, the matter(s) being waived must be specified in the space provided”. In the space provided for this purpose, the appellant stated that he was waiving the normal reassessment period with respect to:
+The tax resulting from changes to:
+-Rental income
+-Capital gains
+-Deemed dividends
+[32] The appellant argues that, although the waiver is otherwise valid, since it does not mention the terminal loss, it cannot apply to authorize the Minister to reassess the terminal loss claimed in 2013. The respondent submits that the waiver was signed in March 2017 because the statute-barred date was approaching, and without the waiver, the Minister would have made an assessment before the time limit expired. In his testimony, the auditor, Mr. Minoungou, stated that he was starting the audit when the waiver was signed, and he did his best to establish the list of items covered by the waiver. Counsel for the respondent submits that, even if the waiver had only mentioned dividends, it would still have been valid, and there is nothing preventing other items from being reassessed. I disagree. With respect, I do not see the relevance of asking the taxpayer to specify the items that are covered by the waiver to then disregard this.
+[33] In R v Honeywell Limited, 2007 FCA 22, at paragraphs 32 and 35, the Federal Court of Appeal stated that the Minister may rely on a waiver to reassess outside the normal reassessment period but only with respect to the items specified in the waiver. The Court stated the following:
+[32] A waiver when given by a taxpayer and accepted by the Minister gives rise to a bargain of sorts. The taxpayer foregoes the benefit of the normal assessment period for the particular year with respect to the matter specified in the waiver, and the Minister, relying on the waiver, acquires the right to reassess outside the normal assessment period, but only with respect to the matter specified in the waiver. Just as the taxpayer cannot alter the waiver once given, the Minister cannot issue a reassessment that does not reasonably relate to the matter specified in the waiver. As pointed out by Bowman C.J., this is made clear by the language of subparagraph 152(4.01)(a)(ii) which provides that when relying on a waiver the Minister may reassess, “but only to the extent that, [the reassessment] can reasonably be regarded as relating to, … a matter specified in a waiver filed with the Minister in respect of the year, …”. Accordingly, where a reassessment has been issued pursuant to a waiver, the reference to a “reassessment” in subsection 152(4) can only mean a reassessment as permitted by the waiver.
+…
+[35] In the end, Bowman C.J. concluded by reference to the words of subsection 152(4.01) that the proposed inclusion of FAPI in Honeywell’s income is not a matter that reasonably relates to the matter specified in the waiver. This is a conclusion that was open to him on the material before him, and in my respectful view it is the correct conclusion.
+[Emphasis added]
+[34] See also the comments of Miller J. in Loblaws Financial Holdings Inc v R, 2018 TCC 182 at paragraphs 280 to 285, rev’d 2020 FCA 79, aff’d 2021 SCC 51.
+[35] The Minister may reassess after the normal reassessment period if it is reasonable to conclude that the reassessment relates to a matter specified in the waiver. In my view, the more difficult question is whether a certain item that is not explicitly mentioned can be considered to be covered by an item that is explicitly mentioned in the waiver. In Mitchell v R, 2002 FCA 407, the Federal Court of Appeal supported the approach taken in Solberg v R, 92 DTC 6448 (FCTD), an often-cited decision of the Federal Court. In Mitchell, at paragraph 37, the Federal Court of Appeal stated the following:
+The appropriate approach to the interpretation of the waiver is to seek to ascertain the intention of the parties as expressed in that document together with any relevant circumstances for which evidence is available.
+[36] In addition, in Solberg, supra, Reed J. stated that the onus is on the respondent to establish the scope of the waiver and that any ambiguity must be resolved in favour of the taxpayer (in this regard, see also Québec (Sous-ministre du Revenu) c Strulovich, 2007 QCCA 195, cited by the appellant).
+[37] According to the appellant, the three items listed in the waiver do not cover the terminal loss. I agree. The respondent has not submitted any evidence that would lead to the conclusion that the terminal loss is covered by the matters set out in the waiver form. In these circumstances, the Minister cannot rely on the waiver to make the reassessment for the 2013 taxation year with respect to the terminal loss claimed by the appellant.
+[38] That said, the Court must now consider the application of subparagraph 152(4)(a)(i) of the Act. The respondent submits that, disregarding the waiver, the auditor considered whether the Minister was justified in making a reassessment on the basis that the appellant made a misrepresentation that is attributable to neglect, carelessness or wilful default.
+[39] The burden of proof is on the Minister to establish, first, that the taxpayer or person filing the return has made a misrepresentation, and, second, that it is attributable to neglect, carelessness or wilful default or fraud (see Vine v R, 2015 FCA 125 at paras 23–34). Subparagraph 152(4)(a)(i) of the Act is worded such that it is sufficient for the Minister to establish neglect or carelessness without having to consider whether the taxpayer committed fraud (see Deyab v Canada, 2020 FCA 222 at paras 58–61).
+[40] It is well settled in the case law that the threshold for establishing that there was a misrepresentation is low. This position is supported by Bocock J., who stated the following in Francis & Associates v R, 2014 TCC 137 at paragraph 20:
+A misrepresentation is any statement that is “incorrect.”: MNR v. Foot, 1964 CanLII 1088 (CA EXC), [1964] C.T.C. 317 (SCC). Also, several cases have indicated that “any” error made in a return filed is tantamount to a misrepresentation, MNR v. Taylor, 1961 CanLII 719 (CA EXC), [1961] C.T.C. 211 (Exch)., Nesbitt v. The Queen, 1996 (FCA) and Ridge Run Developments Inc. v. R, 2007 TCC 68 (CanLII), [2007] 3 C.T.C. 2605 (TCC). Therefore, the threshold to establish a misrepresentation is low.
+[Emphasis added]
+[41] In his audit report and in his report entitled [translation] “Recommendation to open a statute-barred year”, Mr. Minoungou referred to incorrect facts with respect to the improperly claimed terminal loss, to shareholder benefits for personal expenses paid by AssurExperts, and to the rental income tax return (Exhibit I-1, tabs 5 and 6). In response to questions asked at the time of the audit regarding the rental income tax return, the appellant stated that he was never paid any rent (Transcript, Volume 1 at 240–42, 280). In his testimony, Laurent confirmed that he did not pay rent for unit 301 during the period between the move in May 2012 and the notarized purchase in October 2013, even though he was paying the costs associated with the use of the unit (Transcript, Volume 1 at 110–11). I will not speculate on why the appellant might have reported rental income in respect of the property when no one was paying any rent. I note that the appellant criticized the respondent for not introducing into evidence form T776, which refers to rents. However, the appellant did not submit any evidence to contradict the auditor’s credible testimony regarding rental income.
+[42] As noted above, counsel for the appellant stated that Mr. Boisselle does not dispute the inclusion of shareholder benefits in computing his income under section 15 of the Act. According to the audit report and to Mr. Minoungou’s testimony, the amounts included in computing Mr. Boisselle’s income as shareholder benefits consist of personal expenses paid by AssurExperts, including living expenses; sporting event tickets, such as for tennis tournaments and hockey games; travel expenses (to Cuba and Mexico, for example); and outings to the movies and spas (Exhibit I-1, tab 5). Given the appellant’s representations, the auditor took into account that some expenses were incurred for activities for all employees. However, with respect to personal expenses for benefits conferred only on persons related to Mr. Boisselle, the amounts were included in his income as shareholder benefits.
+[43] Without the issue of the terminal loss even being considered, there is no doubt that Mr. Boisselle made a misrepresentation in filing his return or providing information under the Act when he reported rental income not paid by 9287 or his children in respect of the property and provided information that enabled AssurExperts to deduct personal expenses not authorized by the Act.
+[44] The Minister must also establish that the appellant’s misrepresentation was attributable to neglect, carelessness or wilful default. In the circumstances, it is sufficient for the Minister to meet the minimum standard of a lack of reasonable care (see Venne v R, [1984] FCJ No 314 (FCTD)). In Regina Shoppers Mall Ltd v R, [1991] 1 CTC 29 at paragraph 7, the Federal Court of Appeal recognized that it has been established that the standard of care is that of a wise and prudent person. In the words of Muldoon J. in Reilly v R, [1984] CTC 21 (FCTD) at paragraph 51, wisdom is not infallibility and prudence is not perfection. However, in this case, the appellant did not provide any explanation to the Court for his misrepresentation. His conduct does not reflect that of a person exercising reasonable care. As a businessman with decades of experience in the fields of real estate and insurance, he did not act wisely and prudently. There is no evidence allowing the Court to conclude that he considered any questions or that he asked his accountant or tax expert questions about what constitutes a misrepresentation. His accountant, Alain Girard, testified that he completed Mr. Boisselle’s tax returns as well as those of 9287 and AssurExperts on the basis of information provided to him by Mr. Boisselle. As an example, the appellant had to have known that, in the circumstances, AssurExperts could not deduct the amounts paid for a trip to Cuba taken by persons related to it. I find that the appellant made a misrepresentation and that it was attributable to neglect, carelessness or wilful default. The Minister has met the burden of proof and may reassess after the normal reassessment period for 2013.
+The terminal loss deducted in 2013
+[45] The second issue in Mr. Boisselle’s appeal concerns the terminal loss deducted in 2013. As stated above, the Minister disallowed the deduction of $321,088 claimed as a terminal loss in respect of units 201 and 301, sold to the appellant’s children.
+[46] The respondent submits that units 201 and 301 are personal-use property as defined in section 54 of the Act. Therefore, the loss incurred from their disposition is deemed to be nil pursuant to subparagraph 40(2)(g)(iii) of the Act. In these circumstances, the disposition of these two units does not give rise to a deduction of a terminal loss authorized by subsection 20(16).
+[47] The appellant argues that units 201 and 301 are not personal-use property. According to the appellant, he disposed of the property in May 2012 when Marie‑Ève and Laurent and Mélanie moved into their respective units, not in October 2013, when the notarial acts of sale were signed (Notice of Appeal at para 56). I hasten to add that, in his submissions to the Court, counsel for the appellant at times suggested that the property could even be considered to have been disposed of in 2011 (Transcript, Volume 2 at 133–45). He stated that Mr. Boisselle had made the decision to sell to the children in August 2011, after which they carried out the renovations. That said, I would add that the appellant insisted instead that he had disposed of the property in 2012. My understanding of the relevant paragraphs of his Notice of Appeal is that the appellant sold the units in May 2012 when the building was unoccupied and unused, thereby preventing it from qualifying as personal-use property (Notice of Appeal at paras 56–58). At the hearing, counsel for the appellant argued that Mr. Boisselle had purchased the property as a business project and that, as a result of the property’s condition, [translation] “the business venture ... clearly went wrong” and the disposition resulted in a loss rather than a profit (Transcript, Volume 2 at 121).
+[48] The appellant’s evidence presented by his main witness (his son Laurent) largely focused on explaining why the renovation costs for the property had skyrocketed, as he put it. He described all the difficulties encountered during the renovations—problems with the walls and the roof, finding a gas tank, just to name a few—in short, everything that evokes nightmare renovation stories. This partly explains why the renovations cost more than $2 million, while the appellant had estimated them to cost less than $1 million, not to mention that units 201, 202, and 301 were renovated for Mr. Boisselle and his family members to live in. While I do not doubt that all these renovation challenges occurred, I do not find that this informs us about whether this was a business project.
+[49] Counsel for the appellant generally referred to the case law to support his position that there is no reason to question the business nature of the project retrospectively after renovation costs exceeded what could have been expected before many problems related to the condition of the building were discovered, nor should the taxpayer’s business judgment be assessed instead of the business nature of the activity (see, for example, Tonon v Canada, [1996] FC 73 (FCA) and Stewart v Canada, 2002 SCC 46, respectively).
+[50] I agree that the nature of the appellant’s project should be examined to determine whether it is a business project entitling him to deduct a terminal loss at the time of the disposition, or a mixed business and residential project, meaning that only a portion of the property can give rise to a deductible terminal loss in computing the income earned from the business activity. To answer this question, the appellant submits that the date of the disposition of the property must be determined.
+[51] The fact that the project has partially become a residential project is not the focus of the debate between the parties. According to the parties, the debate is instead focused on the issue of when the appellant disposed of the units in the building. According to the respondent, the sale took place in October 2013, when units 101 and 201 were clearly residential units occupied by the appellant’s children, which justifies the Minister’s disallowing the terminal loss deduction.
+[52] The appellant, on the other hand, contends that he disposed of the property in May 2012, when 9287, Marie-Ève, and Laurent and Mélanie moved in, after the renovations were completed (Transcript, Volume 1 at 115). For reasons related to the renovations and to needing to work with the city, the notarial acts were not signed until October 2013. However, he states that Quebec civil law does not require a notarial act to conclude that there was a contract of sale.
+[53] Article 1385 of the Civil Code of Québec (CQLR c CCQ-1991 [Civil Code]) provides as follows:
+1385. A contract is formed by the sole exchange of consents between persons having capacity to contract, unless, in addition, the law requires a particular form to be respected as a necessary condition of its formation, or unless the parties subject the formation of the contract to a solemn form.
+It is also of the essence of a contract that it have a cause and an object.
+[54] However, Quebec civil law does not require any particular form for the contract of sale, for either movable or immovable property, so that a contract between parties is formed when consents are exchanged, although the contract exists for third persons when it is published in the appropriate register. In this case, the parties clearly stated their intention to enter into a contract for the purchase and sale of the property.
+[55] I am prepared to accept that there was an agreement between the appellant and his children regarding the purchase and sale of units 201 and 301 of the building long before October 23, 2013. In addition, according to Laurent’s testimony, the parties agreed that the transfer would be at the FMV (Transcript, Volume 1 at 65). The appellant contends that the notarial act merely confirms what was already agreed on in 2012. From that point on, and I say this with respect, I have difficulty understanding the appellant’s position and his counsel’s submissions at the hearing. It would appear that he was trying to justify the delay caused by the renovations, which is allegedly the reason the notarial act was signed late, to explain his position that the contract for the sale of the property was entered into in 2012.
+[56] If the appellant’s sale of units 201 and 301 to his children took place in May 2012 rather than October 2013, as the appellant claims, then what did he sell? In my view, Mr. Boisselle sold residential units, which had been renovated to be sold to and occupied by his children. The fact that the units were unoccupied before that time does not change their personal nature. I do not see how it would be possible to describe units 201 and 301 in May 2012 as units for business purposes. In fact, according to Laurent’s testimony, as soon as they visited the property in August 2011, Mr. Boisselle’s children expressed their desire to live there. In his testimony, with the help of an aide-mémoire, Mr. Boisselle presented the figures associated with the costs he expected for the renovations and how, by negotiating favourable prices with subcontractors who are also customers of AssurExperts, he could make a profit. I note that, according to this document prepared in November 2011 and Mr. Boisselle’s testimony, units 201 and 301 were intended for Marie-Ève and Laurent, while unit 202 was reserved for the appellant himself.
+[57] I would add the following facts to the circumstances surrounding the disposition of the property. The appellant took no steps to rent out the units before his children moved in in May 2012. In cross-examination, Mr. Boisselle stated the following: [translation] “and there would be no need to—to rent because we—we agreed that they were building for themselves. They were going to live there” (Transcript, Volume 1 at 188). In cross-examination, Laurent confirmed that such steps had not been taken because [translation] “everything was used” (Transcript, Volume 1 at 117–18). The appellant did not charge his children rent for the period from May 2012, when they moved in, to October 2013, when they actually purchased the units with the necessary financing. Thus, the appellant did not act like a businessman carrying out a business project. I would add that, in his testimony, Laurent stated that he visited the site on average twice a day, justifying this by stating that he was going to live there and that he had an interest in the unit he was going to live in and also as a shareholder of 9287 (Transcript, Volume 1 at 72, 120). In addition, according to the auditor’s testimony, at the initial interview on March 28, 2017, the appellant told him that his goal was to have his family and his work in the same place (Transcript, Volume 1 at 240 and Exhibit I-1, tab 5). Mr. Boisselle’s testimony confirms this (see Transcript, Volume 1 at 151–53).
+[58] When the appellant’s children moved in in May 2012, the property purchase and renovation project clearly became a part business part residential project. In fact, on the basis of the evidence, I would say that the nature of the project had already changed in August 2011, when his children expressed their desire to live in the building. However, at the time of the notarial act of purchase in August 2011, the appellant already intended to make this partly a personal project. Moreover, in November 2011, Mr. Boisselle reviewed the numbers for his renovation project, which indicated that units 201 and 301 were intended for his children. I note that at no time did the appellant signal a change in the use of any part of the building. In these circumstances, it is impossible for me to conclude that units 201 and 301 of the building were depreciable property used to earn income and eligible for a terminal loss deductible by the appellant at the time of their disposition.
+V. Conclusion [59] For the foregoing reasons, the appeal from the reassessments of the appellant 9287‑4775 Québec Inc. made for the taxation years ending on April 30, 2015, 2016, and 2017 is dismissed with costs to the respondent. For the appellant 9287‑4775 Québec Inc., the amounts claimed as capital cost allowance for the years at issue are reduced by taking into account a fair market value of $170,000 for unit 101 and the garage.
+[60] For the foregoing reasons, the appellant Georges Boisselle’s appeal from the reassessments made for the 2013, 2014, 2015, 2016, and 2017 taxation years, is dismissed with costs to the respondent. The appellant Georges Boisselle is not entitled to deduct a terminal loss for the 2013 taxation year, which also has tax consequences for the 2014, 2015, 2016, and 2017 taxation years.
+Signed at Ottawa, Canada, this 10th day of July 2023.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Translation certified true
+on this 14th day of May 2025.
+Margarita Gorbounova, Senior Jurilinguist
+CITATION:
+2023 TCC 97
+COURT FILE NOS.:
+2021-186(IT)G
+2021-187(IT)G
+STYLE OF CAUSE:
+GEORGES BOISSELLE AND HIS MAJESTY THE KING AND 9287-4775 QUÉBEC INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Trois-Rivières, Quebec
+DATES OF HEARING:
+May 29 and 30, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St‑Hilaire
+DATE OF JUDGMENT:
+July 10, 2023
+APPEARANCES:
+Counsel for the Appellants:
+François F.D. Daigle
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+François F.D. Daigle
+Firm:
+Daigle & Matte, Avocats fiscalistes Inc.
+466A Bonaventure Street,
+Trois-Rivières, QC G9A 2B4
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada

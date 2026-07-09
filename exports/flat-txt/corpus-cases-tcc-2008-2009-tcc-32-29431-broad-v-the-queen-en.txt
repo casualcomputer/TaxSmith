@@ -1,0 +1,125 @@
+Title: Broad v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29431/index.do
+Corpus path: corpus/cases/tcc/2008/2009-tcc-32-29431-broad-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-11-26
+
+# Broad v. The Queen
+
+- Citation: 2009 TCC 32
+- Decision date: 2008-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6955, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Broad v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-26
+Neutral citation
+2009 TCC 32
+File numbers
+2008-161(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009 TCC 32
+Docket: 2008-161(IT)I
+BETWEEN:
+JAMES BROAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Vancouver, British Columbia on November 26, 2008, be filed.
+“Diane Campbell”
+Campbell J.
+Signed in Ottawa, Canada, this 27th day of January 2009.
+IN THE TAX COURT
+2008-161(IT)I
+BETWEEN:
+JAMES BROAD,
+Appellant;
+- and -
+HER MAJESTY THE QUEEN,
+Respondent.
+--------------
+Held before Mme. Justice Campbell in Courtroom No. 602, 6th Floor, 701 West Georgia Street, Vancouver, B.C., on Wednesday, November 26, 2008.
+--------------
+APPEARANCES:
+Mr. J. Broad, On his own behalf;
+Ms. C. Akey, Counsel for the Respondent.
+--------------
+THE REGISTRAR: J. Platt
+--------------
+Allwest Reporting Ltd.
+#1200 - 1125 Howe Street
+Vancouver, B.C.
+V6Z 2K8
+Per: S. Leeburn
+REASONS FOR JUDGMENT
+(Delivered Orally from the Bench
+in Vancouver, B.C. on November 26, 2008)
+JUSTICE: All right, let the record show, please, that I am delivering oral reasons in the matter of James Broad, which I heard earlier this week.
+This appeal is in respect to the Appellant’s 2005 taxation year. In computing his income for this taxation year the Appellant deducted support payments totalling $9,000. The Minister disallowed the entire amount. The issue is whether the Appellant can deduct the support payments in respect to this 2005 taxation year.
+In addition to the Appellant, I heard evidence from the Appellant's former common-law spouse, Laurie Randall, and from Greer Gibson, a solicitor who represented Laurie Randall for a period of time in the 1990’s. The Appellant co-habited with Laurie Randall from April 1, 1989, until July 1, 1990. Their son Matthew was born on October 1, 1989. Subsequent to the separation, they executed an agreement which was dated July 1, 1990, although the evidence suggested it was actually signed sometime later in 1991.
+The evidence of the Appellant and that of Laurie Randall provided two different versions of the circumstances of Laurie's execution of this agreement. She acknowledged signing the agreement, but indicated she had no opportunity to review it. Although the Appellant is a lawyer, he had a friend draw up the agreement, as he did not practice in the area of family law. The relevant provisions in this agreement provided for the custody of Matthew, and addressed access to the Appellant. At paragraph 3 of the agreement, the Appellant was to pay the sum of $750 monthly for the maintenance of Matthew. Although the agreement was signed some time in 1991, the Appellant had been paying this monthly amount for child support since July 1, 1990, the date of the separation. On August 1, 1993, the parties resumed co-habitation and lived together until February 1995, at which time they separated for good.
+During this second period of co-habitation, the Appellant stopped paying monthly child support payments. When they separated for the second time, the Appellant recommenced the same monthly payments of $750 for Matthew. According to the evidence of the Appellant, he believed that the 1990 separation agreement was still valid and in effect and enforceable. In early 1995, he requested a friend, a Mr. Fred Banning, who practiced in the area of family law, to write to Laurie's lawyer, Greer Gibson. The first letter to Ms. Gibson is dated February 15, 1995. That letter reads as follows:
+"Enclosed is a cheque in the amount of $750.00. For tax purposes, this must be made pursuant to a written agreement. I would propose the agreement simply provide that Mr. Broad pay $750 on the 15th of each month, without prejudice to either parties rights, and that the agreement can be cancelled by either party on 15 days notice. I would also ask that you sign this letter as your client's agent indicating your approval of this arrangement and that this letter so endorsed will constitute the written agreement. You advised me that there may need to be some adjustment of the payment dates in the first 30 days due to moving expenses and the like. If so, please provide the details and I will obtain instructions."
+On March 6, 1995, Ms. Gibson responded as follows:
+"Please find enclosed herein the letter of February 15th, 1995, duly endorsed, and we agreed that this endorsement covers the extra sum of $375.00 for the moving expenses."
+The final correspondence in this exhibit is the same February 15, 1995 letter apparently executed by Ms. Gibson.
+In June, 1999, Laurie decided to move to Victoria. She testified that she received a copy of the Appellant’s 1998 return, together with the Federal support guidelines with “post-it” notes attached to each, which advised her that the Appellant’s income did not warrant the $750 monthly support amount that he had been paying, and that the guidelines suggested a $343 monthly payment. Because the Appellant requested a return of his post-dated monthly cheques for $750 each, and because she was tired of dealing with these issues, she returned his cheques to him, and the Appellant now commenced payments of $343 monthly. These payments continued until she received a cheque for $2,442 under a letter dated November 18, 1999, from the Appellant’s solicitor, Richard Rhodes. The letter to the Appellant is short, and simply encloses a trust cheque for the amount, advising that it represented a catch-up of the arrears of maintenance.
+This letter was a follow-up to a letter dated November 9, 1999, from Mr. Rhodes to Laurie, suggesting certain access arrangements for the Appellant, to accommodate the removal of Matthew to Victoria, as well as his confirmation that he held this cheque for $2,442 in respect of arrears of maintenance pursuant to their maintenance agreement.
+At this time, Laurie hired Trudy Brown to represent her in this matter. Eventually in early 2000, the Appellant commenced an action by way of Statement of Claim to obtain and resolve access issues respecting Matthew. The only reference to maintenance was at paragraph 26, where the Appellant states that he has been paying child support in the amount of $750 per month pursuant to the separation agreement.
+The Appellant’s evidence was that he reduced the monthly payments to $343 because he was personally experiencing severe financial problems in both his law practice and his private business endeavors, and that when he hired Mr. Rhodes to represent him, he was advised to recommence the $750 monthly payments. In 2006, this Court issued a judgment wherein Laurie Randall was not required to include in income those child support payments made by Mr. Broad, the Appellant in this appeal, in respect to the 2003 taxation year. Justice Beaubier made certain findings respecting the 1990 separation agreement in that decision. However, I am not bound by those findings of fact.
+The issue to be decided depends on whether the main payments the Appellant made in 2005 were paid pursuant to a written agreement under subsection 60(b). The Respondent contends that the 1990 separation agreement terminated upon reconciliation of the parties in 1993, and therefore it did not govern payments made by the Appellant after 1995. In addition, there was no subsequent written agreement, as the 1995 exchange of letters do not equate to a continuation of the 1990 agreement or to a new agreement. The Appellant’s position is that he has an enforceable and valid separation agreement, the 1990 separation agreement, which specifies regular support payments. This was his main focus, although he also argued that the 1995 letters could be considered a re‑statement of the original 1990 agreement, or they could actually be viewed as standing on their own as an agreement. He alluded to the fact that those letters might be considered as a recommencement of the 1990 agreement.
+There is no question here that the parties reconciled between August 1993 and February 1995, or approximately for a 19-month period. So what will be the effect then of this reconciliation period upon the 1990 separation agreement? That agreement contained a clause referencing the effect of reconciliation. It stated at paragraph 1, and I quote:
+"If James and Laurie hereafter by mutual consent cohabit as man and wife, this Agreement and all the covenants herein contained shall remain in force unless and until James and Laurie mutually agree in writing to terminate or amend this agreement."
+The general common law rule is that a reconciliation, such as occurred in these facts, will terminate a prior separation agreement between the parties.
+Quite apart from the issues raised by Laurie’s evidence of whether she signed the agreement voluntarily, read it prior to signing or was given the opportunity to obtain a legal opinion or whether duress was exerted in having her sign, I do not believe that this clause is sufficient to save the 1990 agreement. I do not believe nor was I provided any evidence that the parties turned their minds specifically to the effect of a potential reconciliation. The parties moved in together, with their son, and the Appellant ceased making the $750 monthly support amount for approximately 19-months. There is just no logic in the position that this agreement was intended by both parties to survive a reconciliation, when all of their actions reverted again to their prior co-habitation arrangement.
+The evidence in no way suggests that both parties had a clear and specific intent that this agreement was a continuing and binding agreement upon them in respect to access and support payments. If I concluded that it survived the reconciliation, which I do not, then I would have to find some rationalization for the Appellant’s actions subsequent to the second break up in 1995. And those are, 1) Why did both parties engage lawyers in 1995 and seek legal advice if they considered that the terms of the 1990 agreement survived and could be relied upon; 2) why did neither lawyer in 1995 refer to the terms of the 1990 agreement if everyone still considered it effective; and 3) why would the Appellant, a lawyer himself, risk the legal consequences of unilaterally reducing his support payment of $750 to $343, again if this 1990 agreement was valid?
+All of these actions suggest quite the contrary. They suggest that, and are consistent with my conclusions that, the Appellant no longer considered that this 1990 agreement governed his circumstances as they existed subsequent to 1995. In addition, the solicitors do not appear to treat this 1990 agreement as current, valid and enforceable. The 1995 correspondence makes no reference to this agreement. In fact, this 1995 exchange refers only to a figure of $750 without referencing it as a support amount. Although there is case law which states that such an exchange of letters maybe considered an agreement under the right circumstances, this is only so where the terms are sufficiently specific to support such a conclusion. That is simply not the case here.
+The letters of 1995 are very general and vague in nature, and lacking the specifics in respect to detail, terms and provisions. There is nothing in them to indicate a meeting of minds with respect to what that $750 payment is for. Without that I cannot infer the existence of an agreement from this exchange of letters in 1995. Although the correspondence of Mr. Rhodes references a maintenance agreement when he deals with the catch-up arrears amount, that mere reference does not make it a fact. I have concluded otherwise based on the evidence before me. There was no written agreement pursuant to which the Appellant made the support payments in 2005.
+On a final note, and in respect to the Appellant’s estoppel argument, although this was not addressed in the pleadings, it does not apply here where we are dealing with an assessment of tax, and I have been given no evidence to suggest that the Minister is estopped in any way from assessing the Appellant.
+For these reasons, the appeal is dismissed, without costs.
+I hereby certify that the FOREGOING is a true and accurate transcript of the proceedings herein to the best of my skill and ability.
+__________________________________
+S. Leeburn, COURT REPORTER
+CITATION:
+2009 TCC 32
+COURT FILE NO.:
+2008-161(IT)I
+STYLE OF CAUSE:
+James Broad and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+November 24, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT:
+November 26, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

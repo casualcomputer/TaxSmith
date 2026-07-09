@@ -1,0 +1,249 @@
+---
+title: "Brideau c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26182/index.do"
+last_modified: "2003-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 583"
+citation2: ""
+neutral_citation: "2003 CCI 583"
+decision_date: "2003-10-17"
+language: "fr"
+item_id: "26182"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3948
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:37:53.531000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fb56e4f7500f43805453c04434856a149ec8e5afcb47ad7da038fcfb48746c5e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brideau c. M.R.N.
+
+- Citation: 2003 CCI 583
+- Decision date: 2003-10-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3948, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brideau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-17
+Référence neutre
+2003 CCI 583
+Numéro de dossier
+2003-608(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-608(EI)
+ENTRE :
+EVELYNE BRIDEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Muriel Légère (2003-610(EI)) les 26 et 27 juin 2003 à Miramichi (Nouveau-Brunswick)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Léo Légère
+Avocat de l'intimé :
+Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 17e jour d'octobre 2003.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2003CCI583
+Date : 20031017
+Dossier : 2003-608(EI)
+ENTRE :
+EVELYNE BRIDEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2003-610(EI)
+MURIEL LÉGÈRE,
+appelante,
+et
+LE MINISTRE DU REVNEU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Ces appels ont été entendus sur preuve commune à Miramichi (Nouveau-Brunswick) les 26 et 27 juin 2003.
+[2] Il s'agit d'appels d'une de décision du ministre du Revenu national (le « Ministre » ) en vertu desquelles il décidait que le travail des appelantes au cours de la période allant du 21 octobre au 1er décembre 2001, alors qu'elles étaient associées à Lydia Savoie, la payeuse, n'était pas assurable puisqu'elles n'occupaient pas un emploi en vertu d'un contrat de louage de services.
+[3] En rendant ses décisions, le Ministre s'est basé sur les hypothèses de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel dans le dossier de Muriel Légère (2003-610(EI)) :
+a) la payeuse faisait l'achat de couronnes de Noël ( « les couronnes » ) fabriquées à la main par différentes personnes dont l'appelante;
+b) la payeuse revendait les couronnes à une entreprise d'exportation opérant sous le nom de Savoie Export Limitée;
+c) l'appelante vendait ses couronnes à la payeuse par l'entremise de Renald Légère;
+d) Renald Légère fournissait les branches et les anneaux nécessaires à la fabrication;
+e) sur les factures au nom de l'appelante, la payeuse indiquait un prix de 15,00 $ et 16,00 $ la douzaine pour les couronnes de l'appelante;
+f) l'appelante a aussi vendu à la payeuse une douzaine de couronnes pour lesquelles elle avait fourni les branches elle-même et pour laquelle elle a reçu 28,00 $;
+g) les factures de la payeuse indiquent l'achat de couronnes de l'appelante selon les dates et montants suivants :
+facture date quantité total
+4 29 octobre 2001 24.5 douz. @ 16 $ 392,00 $
+16 30 octobre
+12 douz. @ 15 $ 180,00 $
+9 2 novembre 5 douz. @ 16 $ 80,00 $
+1 douz. @ 28 $ 28,00 $
+32 9 novembre 28.5 douz. @ 15 $ 427,50 $
+3 12 novembre 20.3 douz. @ 16 $ 324,80 $
+43 13 novembre 6.6 douz. @ 15 $ 99,00 $
+53 16 novembre 14 douz. @ 16 $ 224,00 $
+47 21 novembre 12.5 douz. @ 15 $ 187,50 $
+32 21 novembre 24 douz. @ 15 $ 360,00 $
+19 24 novembre 21 douz. @ 16 $ 334,00 $
+89 26 novembre 36.6 douz. @ 15 $ 550,00 $
+total 206 douz. 3,402,80 $
+h) le relevé d'emploi de l'appelante indique des gains de 3,276,50 $ et 360 heures;
+i) l'appelante fabriquaient les couronnes chez elle;
+j) l'appelante prenait de 10 à 15 minutes pour faire une couronne;
+k) ni la payeuse, ni Renald Légère ne connaissaient le nombre d'heures de travail de l'appelante;
+l) ni la payeuse, ni Renald Légère ne contrôlaient les heures de travail de l'appelante;
+m) le nombre d'heures indiquées sur le relevé d'emploi de l'appelante ne correspond pas aux heures réellement travaillées par l'appelante;
+n) ni la payeuse, ni Renald Légère ne supervisaient l'appelante;
+o) la payeuse n'avait aucun contrôle sur la production de l'appelante;
+[4] Dans sa Réponse à l'avis d'appel, le Ministre au paragraphe 5 a ajouté, au dossier d'Évelyne Brideau, l'alinéa p) qui se lit comme suit :
+pendant la période en litige, l'appelante travaillait aussi pour Neguac Seafoods Ltd. comme suit:
+du 21 au 27 octobre : 44 heures
+du 28 octobre au 3 novembre : 42 heures
+du 4 au 10 novembre : 45 heures
+[5] L'appelante Brideau a admis cette hypothèse du Ministre sous cet alinéa.
+[6] Pour le reste, les appelantes ont admis toutes les hypothèses du Ministre sauf celles énoncées aux alinéas k), l), n) et o).
+[7] Il faut noter que les seules hypothèses niées par les appelantes portent sur le degré de contrôle exercé par la payeuse sur elles et leur travail.
+[8] En résumé, les appelantes ont nié que la payeuse ne contrôlait pas leurs heures de travail ou leur production et n'exerçait aucune supervision sur elles.
+[9] À l'audition, les appelantes ont soutenu qu'elles étaient supervisées par Renald Légère (Renald), l'employé de la payeuse, et qu'elles lui remettaient leur comptabilisation d'heures. Elles ont admis avoir été payées non pas en fonction des heures travaillées mais selon le nombre de couronnes fabriquées.
+[10] La preuve a révélé que le contrôle exercé par la payeuse, par l'intermédiaire de Renald, se limitait à quelques brèves visites de celui-ci pendant qu'il faisait sa tournée pour livrer le matériel et cueillir les couronnes chez les travailleuses. Pour le reste, il se fiait à ce que lui disaient les appelantes.
+[11] L'appelante Brideau faisait son travail dans un atelier aménagé dans le garage de son frère Renald, l'employé de la payeuse. Elle fabriquait des couronnes à temps partiel occupant, par ailleurs, un emploi dans une usine où elle travaillait 42 à 45 heures par semaine.
+[12] La preuve a révélé qu'après sa mise à pied à l'usine, sa production de couronnes est demeurée la même. À l'audition, son explication qu'elle était fatiguée a été peu convaincante. Par ailleurs, elle n'a pu expliquer la différence entre sa rétribution selon le total des reçus et celle-ci qui apparaît à son relevé d'emploi. Elle s'est contentée de dire qu'elle n'avait pas gardé ses reçus.
+[13] L'appelante Légère fabriquait des couronnes chez-elle. Lors des visites de Renald, celui-ci recevait ses couronnes, remettait les reçus, comptait, calculait et payait. Elle n'a pas pu expliquer la fluctuation importante dans la fabrication, établie par le Ministre selon les reçus qu'on lui a fournis. À l'agente des appels, elle a affirmé qu'elle travaillait sans supervision et ne tenait pas compte de ses heures de travail.
+[14] Il a été établi que Renald ne pouvait pas faire une supervision adéquate des appelantes puisque sa tâche de transporter les couronnes fabriquées dans sa camionnette ne lui laissait pas suffisamment de temps.
+[15] Renald, à la demande du procureur de l'intimé, a fait un croquis de l'opération de fabrication de couronnes dans son garage. L'appelante Brideau en a fait de même. Une comparaison des deux croquis en dit long sur le nombre ou la durée des visites de Renald dans cet atelier, de même que sur son pouvoir d'observation.
+[16] Il a été démontré que Renald livrait à la payeuse entre 400 et 500 douzaines de couronnes par semaine. Sa camionnette pouvait en transporter 35 douzaines. Les appelantes demeurent à 3/4 d'heure de route de la payeuse. Renald devait également livrer à certains travailleurs - il y en avait 34 - les matériaux servant à la fabrication, tel les branches, etc. En outre, il devait faire la vérification de la qualité de fabrication des couronnes. Ceci lui laissait très peu de temps pour visiter les travailleuses, encore moins pour superviser leur travail.
+[17] Renald a été incapable d'expliquer l'importante variation dans la production, d'après les reçus qu'il avait livré, selon les semaines rapportées, avouant qu'il s'agit peut-être de son erreur. Il affirme, en outre, qu'il ne s'occupait pas des heures des fabricants mais du nombre de couronnes fabriquées.
+[18] La payeuse soutient qu'elle était mise au courant des heures de travail des appelantes et du nombre de couronnes fabriquées. Elle explique mal la raison pourquoi le total des factures ne correspond pas au total indiqué sur le relevé d'emploi.
+[19] La payeuse admet que certaines de ses fournisseuses, fabricantes de couronnes, n'ont pas réussi à se qualifier pour des prestations parce qu'il avait été démontré qu'elle ne semblait pas contrôler de travail de ces employés.
+[20] Il a été démontré que dans plusieurs dossiers connexes, portant sur la même année, le Conseil Arbitral (assurance-emploi) a maintenu la décision de la Commission qui imposait à la payeuse une pénalité de 8,673 $. Un extrait de cette décision (pièce R-8) se lit comme suit :
+Suite aux informations obtenues de l'employeur et des personnes concernées (Pièces 2 à 5, 7 à 23 et 25), la Commission en est arrivé à la conclusion que l'employeur ne semblait pas contrôler le travail de ces employés et a fourni l'information à l'Agence des douanes et du revenu qui doit déterminer si un emploi est assurable ou non. Il a été déterminé que tous les emplois en question n'étaient pas assurables (Pièces 24, 26, 27, 28, 30, 31 et 32).
+Une pénalité fut imposée pour un total de 8 673 $ (Pièce 33).
+PREUVE À L'AUDIENCE
+L'appelante et son représentant, Me José Duguay, sont tous deux présents par téléphone conférence et acceptent que la session soit enregistrée.
+Il n'y a aucun fait nouveau qui nous a été présenté lors de l'audition.
+Selon les faits démontrés lors de l'investigation de la Commission de l'assurance-emploi, il fut démontré que tout a été fait selon les normes de la Loi.
+CONCLUSIONS DE FAITS, APPLICATION DE LA LOI
+Le Conseil Arbitral [sic] conclu que la pénalité est justifiée et que la Commission a bien rendu son pouvoir discrétionnaire de façon judiciaire lorsque le montant de la pénalité a été fixé.
+DÉCISION
+Les membres du Conseil Arbitral, d'une décision unanime, maintiennent la décision de la Commission.
+[21] La payeuse n'est pas en mesure d'expliquer pourquoi les factures et les chèques de paie ne montrent pas les mêmes montants. Son explication manque de cohérence. Elle admet qu'elle a pu faire erreur.
+[22] Elle ignorait où les appelantes travaillaient. Son explication demeure contradictoire sur le fait que les montants apparaissant sur les reçus (pièce R-2) et sur le relevé d'emploi (pièce R-3) ne concordent pas.
+[23] La payeuse a expliqué qu'elle arrivait au nombre d'heures selon la méthode suivante : elle divisait le total des couronnes fabriquées par le minimum de production à l'heure établi, c'est-à-dire, 7 à 8, et ceci lui indiquait le total d'heures de travail. Mais, il était évident que cette méthode de calcul produisait également des résultants incohérents. Elle a expliqué que parfois les branches utilisées dans la fabrication étaient de piètre qualité, mais ceci ne tient pas, non plus, puisque la comptabilisation était faite après le triage des couronnes choisies, les mauvaises ayant déjà été rejetées.
+[24] Finalement, la payeuse a admis que ce qui l'intéressait, c'était le produit fini, donc, il s'agissait plutôt d'un contrôle de résultat.
+[25] La payeuse a admis avoir fait l'objet d'une enquête, mais elle a affirmé en ignorer la pénalité ce qui paraît bien étrange puisque la décision du Conseil Arbitral (pièce R-8) confirme la décision de la Commission, avec la pénalité, qu'elle a portée en appel devant le Conseil Arbitral.
+[26] La preuve a démontré qu'une bonne partie des transactions entre la payeuse et les fabricants de couronnes représentait non seulement les services rendus, mais également le montant de l'achat et de la vente de produits. Il a été révélé que la payeuse payait 29 $ la douzaine de couronnes pour la fabrication incluant le matériel lorsque le fabricant fournissait les branches. Lorsque au contraire, la payeuse fournissait les branches, elle payait 15 $ - 16 $ la douzaine. Donc, ici, la payeuse vendait les branches (ou retenait le coût des branches du prix d'achat).
+[27] Il faut conclure que dans les deux cas le coût des branches était inclus dans le total de la transaction qui devait servir à établir la valeur du « timbre de chômage » du fabricant. Ceci vient carrément à l'encontre des dispositions de la Loi sur l'assurance-emploi en particulier l'alinéa 5(1)a).
+[29] Un document intitulé « Production de couronnes de Noël - un important message à l'intention des producteurs, acheteurs et exportateurs » a été produit en preuve sous la cote R-10 a été produit en preuve. Ce document a été préparé conjointement par le Développement des ressources humaines Canada et l'Agence des douanes et du revenu du Canada à l'intention des producteurs de couronnes de Noël, des acheteurs et des exportateurs et a été distribué dans la région avant le début de la saison 2001; en voici quelques extraits :
+4. Quels facteurs détermineront s'il existe une relation employeur-employé?
+· Prenez connaissance des renseignements dans le graphique suivant. Compte tenu des différentes conditions de travail dans le secteur, nous ne pouvons pas affirmer qu'il faut satisfaire à chaque critère dans chaque cas. Cependant, ceci montre ce dont nous devons tenir compte en prenant une décision.
+Pourrait être considérée comme une relation employeur-employé
+Pourrait être considéré comme un travail indépendant ou tout simplement non assurable
+Lieu de travail
+Le travailleur travaille à un lieu appartenant à l'employeur ou loué par celui-ci.
+Le travailleur travaille à domicile ou à un autre endroit non associé à l'employeur.
+Supervision
+L'employeur supervise le travailleur.
+L'employeur détermine les heures et les autres conditions de travail.
+Le rapport entre le nombre de superviseurs et le nombre de lieux de travail et d'employés est raisonnable et une supervision est exercée.
+L'entreprise livre les matériaux et ramasse les couronnes terminées, mais ne supervise pas le travailleur entre les visites et ne le dirige pas.
+Le travailleur détermine lui-même ses heures et les autres conditions de travail.
+Outils et fournitures
+L'employeur fournit les matériaux et
+l'équipement servant à la production
+Le travailleur fournit les matériaux ou l'équipement.
+[30] L'examen des faits à la lumière des critères établis dans l'arrêt Wiebe Door Services c. M.R.N., [1984] 3 CF 553, révèle que le centre du litige se situe au niveau du contrôle du travail et des travailleuses.
+[31] La preuve orale à l'audition a été contradictoire; après l'examen de cette preuve ainsi que de l'ensemble de la preuve recueillie, il en ressort très clairement qu'il n'existait pas de contrôle véritable; d'ailleurs les appelantes l'ont admis à l'agente des appels. Il a été prouvé que les appelantes n'avaient jamais rencontré la payeuse et ne la connaissait pas. Le témoignage du prétendu superviseur, Renald, a été peu convaincant, celui-ci se limitant à examiner le produit final; pour le reste, il se fiait à ses travailleuses. Il s'agissait tout au plus, d'un contrôle de résultat, ce qui ne rejoint pas la notion de contrôle tel qu'établi dans l'arrêt Wiebe Door (supra).
+[32] Quant à la propriété des outils, il a été démontré que les appelantes fournissaient leurs vêtements et gants de travail tandis que la payeuse, de façon générale, fournissait les matériaux. Quant au local, l'appelante Légère travaillait chez-elle tandis que l'appelante Brideau exécutait ses tâches dans le garage de Renald. À l'examen sous ce critère, le résultat est neutre.
+[33] Quant aux chances de profit et risques de perte, il s'agit dans les causes, sous étude d'une rétribution fondée sur le paiement à la pièce. Ce critère n'a pas contribué au règlement de cette affaire et, en conséquence, il n'a été d'aucun secours.
+[34] Quand on considère que les appelantes étaient payées à la pièce pour le travail exécuté en dehors des locaux de la payeuse, sans supervision ni contrôle et que celles-ci n'ont même jamais rencontré la payeuse, il n'en faut guère davantage pour conclure que les appelantes n'étaient pas intégrées aux opérations de l'entreprise de la payeuse.
+[35] Les appelantes demandent à cette Cour de renverser les décisions rendues par le Ministre. Il est opportun de rappeler les circonstances pouvant justifier l'intervention de cette Cour et surtout les limites reconnues de ce pouvoir d'intervention et de révision. À cet égard, les propos du juge Marceau, de la Cour d'appel fédérale sont utiles dans cet exercice. Ils sont reproduits ci-après tel qu'ils apparaissent au paragraphe 4, de l'arrêt Légaré c. Canada (ministre du Revenue national - M.R.N.) [1999] A.C.F. no 878 :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable.
+[36] La Cour d'appel fédérale a repris cette idée dans l'arrêt Gray c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. no 158, sous la plume du juge Desjardins qui écrivait ce qui suit :
+Le demandeur soutient que les hypothèses sur lesquelles s'est fondé le ministre dans la réponse qu'il a donnée à l'avis d'appel n'avaient pas grande pertinence. Il prétend en outre que le ministre n'était pas autorisé à comparer les différentes rétributions versées au cours des années antérieures et qu'il pouvait uniquement se pencher sur la rétribution versée dans l'année d'emploi en cause. Le demandeur prétend également que le fait qu'il a travaillé pour le payeur en dehors de la période de rémunération n'équivalait pas, dans les circonstances de l'espèce, à un facteur important sur lequel il fallait s'appuyer.
+[...]
+Pour ce qui est du deuxième argument du demandeur, il incombe au juge de la Cour de l'impôt d'évaluer l'importance à accorder aux facteurs pertinents et ce n'est pas à la Cour de faire une nouvelle évaluation à cet égard.
+[37] Un cas semblable à ceux sous étude a été considéré par cette Cour dans l'arrêt Lebouthillier c. Canada (ministre du Revenu national - M.R.N.), [1998] A.C.I. no 685. En rendant sa décision, le Ministre, dans cette cause, s'était fondé sur des hypothèses, dont les suivantes :
+-durant la période en litige, l'appelante fabriquait des couronnes de Noël qu'elle revendait au payeur par l'entremise d'un contremaître;
+-le payeur fournissait les étiquettes, les anneaux et le fil métallique qui servait à attacher les branches;
+-en accord avec le contrat entre le payeur et chacun des fabricants de couronnes, l'appelante fournissait, à ses frais, les branches qu'elle coupait elle-même, les outils nécessaires à la fabrication, le lieu de travail ainsi que le transport pour livrer les couronnes au contremaître;
+-l'appelante était libre de fabriquer le nombre de couronnes qu'elle voulait;
+-l'appelante était payée selon un taux établi, pour chaque couronne acceptée par le payeur, et un montant était déduit de sa paye pour chaque couronne rejetée si l'appelante refusait ou était incapable de refaire celle-ci;
+-l'appelante était sujette à un risque de perte en vue des frais associés à sa production;
+-les visites du contremaître ne constituaient pas une supervision de l'appelante de la part du payeur;
+-le payeur n'exerçait aucun contrôle sur les heures de travail de l'appelante;
+-le payeur n'exerçait aucun contrôle sur la manière dont l'appelante effectuait sa production, en autant que le produit final satisfaisait aux normes de qualité que lui-même devait rencontrer auprès de ses clients;
+-le payeur n'avait aucun risque de perte quant à la production de l'appelante;
+[38] Après ces constatations, le juge Allard a conclu qu'il s'agissait d'un contrat d'entreprise et non d'un contrat de louage de services. Il ajoutait ce qui suit :
+...En fait, d'après le témoignage de l'appelante le seul contrôle du payeur, par son contremaître ne consistait qu'à vérifier la qualité de la marchandise livrée par l'appelante, aucun contrôle sur le travail quant aux heures travaillées, etc. n'étant fait et aucune intégration de l'appelante dans l'entreprise du payeur n'ayant été démontrée.
+[39] Le juge Léger de cette Cour, dans un cas semblable à ceux-ci en l'espèce a également conclu que les appelantes ne travaillaient pas selon un contrat de louage de services. Il s'exprimait en ces termes au paragraphe 18 de l'arrêt Robichaud c. Canada (ministre du Revenu national - M.R.N.), [1996] A.C.I. no 319 :
+La Cour a examiné en détail la preuve qui lui a été présentée. Il est vrai que les appelantes qui travaillaient chez elles recevaient de temps en temps la visite des employés de la compagnie, mais cela n'était pas suffisant pour exercer une surveillance adéquate comme l'envisage la Loi. Les appelantes étaient des entrepreneurs indépendants. Elles fournissaient les locaux où elles faisaient leur travail. Elles fournissaient le chauffage et l'électricité. Quelques unes faisaient des arrangements pour livrer le produit fini à l'usine. Tous ces services étaient fournis gratuitement. Ceci n'est pas normal dans une relation employeur-employé. Enfin, l'élément de l'intégration était absent.
+[40] Les parties qui s'entendent sur une rétribution établie selon des critères autres que le temps ou la période d'exécution du travail effectué, voulant ainsi tirer avantage des dispositions de la Loi sur l'assurance-emploi, introduisent des facteurs étrangers au contrat véritable de louage de services, ayant pour effet de mettre en doute sa validité.
+[41] Je conclus donc que les emplois exercés par les appelantes ne sont pas assurables puisque, pendant la période en litige, les appelantes et la payeuse n'étaient pas liées par un véritable contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi.
+[42] Pour ces motifs, les appels sont rejetés et les décision rendues par le Ministre sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 17e jour d'octobre 2003.
+« S.J. Savoie »
+Juge Suppléant Savoie
+RÉFÉRENCE :
+2003CCI583
+No DU DOSSIER DE LA COUR :
+2003-608(EI) et 2003-610(EI)
+INTITULÉ DE LA CAUSE :
+Evelyne Brideau et M.R.N. et
+Muriel Légère et M.R.N.
+LIEU DE L'AUDIENCE :
+Miramichi (Nouveau-Brunswick)
+DATE DE L'AUDIENCE :
+les 26 et 27 juin 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT :
+Le 17 octobre 2003
+COMPARUTIONS :
+Pour les appelantes :
+Léo Légère (représentant)
+Pour l'intimé :
+Me Vlad Zolia
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelantes :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

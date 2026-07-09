@@ -1,0 +1,147 @@
+Title: Welton v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25506/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-359-25506-welton-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-05-24
+
+# Welton v. The Queen
+
+- Citation: 2005 TCC 359
+- Decision date: 2005-05-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2365, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Welton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-24
+Neutral citation
+2005 TCC 359
+File numbers
+2002-425(IT)G
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-425(IT)G
+BETWEEN:
+SANDRA WELTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 1, 2005, at Toronto, Ontario
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+Counsel for the Appellant:
+Robert K. Brown
+Counsel for the Respondent:
+A’Amer Ather
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 1996 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing income, the Appellant is entitled to claim $1,027.50 in meals and entertainment expenses.
+The Respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 24th day of May, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC359
+Date: 20050524
+Docket: 2002-425(IT)G
+BETWEEN:
+SANDRA WELTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] During the 1996 taxation year, the Appellant was a self-employed real estate agent working for the brokerage firm, Countrywide Associates Ltd. In computing income for that year, she claimed $32,000 in management fees and $1,027.50 in meals and entertainment expenses. By Notice of Reassessment dated October 4, 1999, the Minister of National Revenue disallowed the deduction of the management fees and $704.58 of the meal and entertainment expenses.
+Background
+[2] The Appellant earned a Bachelor of Arts degree at Western University and a teaching degree at Althouse College. In 1985, she married John Zebulon Welton ("Welton"). She continued teaching until 1989 when the first of three children was born and she went on maternity leave. Two more children followed, the last in July 1994 and throughout this period, she remained on extended leave.
+[3] Welton's family had been involved in the land development business for a number of years. In 1984, after completing his university education, he began to work for United Lands Corporation, a company owned by his father and uncle. He described its business as a combination of actual construction and land development. It ran into financial difficulties in 1991 and his employment was ultimately terminated in May 1996 when all of its assets had been sold. Prior to leaving United Lands and in anticipation of its demise, Welton and his brother "set up Welton Developments, a condominium townhouse project". As well, John Welton Custom Homebuilding Limited (Sunvale Homes) was registered in 1996, a manager was hired and construction commenced that year.[1]
+[4] In 1991 and 1992, both the Appellant and her husband enrolled in a series of courses to prepare them for registration as real estate salespersons. At some point of time, Welton learned that he could not become registered because pursuant to the relevant legislation, his involvement with United Lands exempted him from registration. The Appellant, for her part, completed the courses and was registered. She testified that given the flexible hours and her demanding schedule as the mother of three children, a decision was taken not to return to teaching but to become more actively involved in real estate sales. She sold her first property in 1994, a residential home constructed by her husband, and continued to build her practice.
+[5] During the taxation year in issue, the Appellant continued to carry on her real estate business from the family residence in Mississauga. Although Welton's employment in his father's business was terminated in that year, he continued to be actively involved in condominium construction with his brother and in Sunvale's construction activities. For the latter he used the family residence "as sort of a model … to attract customers for our custom home building business - - my custom home building business". He believed it was an effective tool and attracted potential customers which provided "an opportunity for me to obtain construction contracts". In this context, he said the Appellant's registration as a real estate sales person was an important adjunct since she could offer her services to help his potential customers sell their current homes and thus provide them with funds to finance construction of new homes or to buy new homes from Sunvale. In the course of her testimony, the Appellant stated that Welton provided assistance to her in showing houses, bringing potential customers to her and offering extra services because of his knowledge of construction, zoning, renovation, and the value of custom homes in the market. She also observed that prospective purchasers who approached her as a real estate sales person provided him with a potential customer base for Sunvale Homes from which the family benefited.
+[6] With respect to the fees in issue, Welton said he took "the responsibility of discussing with the accountants the tax returns … Sandy would leave it to me. And when the tax returns needed to be submitted, I would get her to sign them and I would send the cheque in and return the tax returns". The management fees in the amount of $32,000 were determined following the end of the 1996 taxation year in the course of a discussion with the accountant. It was conceded by the Appellant that no contemporaneous record was kept of the services that are alleged to have been performed by Welton nor did he make any note of the time spent or the nature of the services provided to any of her clients. Welton also conceded that the fee was decided as a single global number, the basis for which was that "the accountant had suggested that that was a reasonable figure" and was acceptable to him and the Appellant. No evidence whatsoever was adduced to establish the rationale underlying the accountant's conclusion.
+Appellant's submission
+[7] Counsel argued that in the taxation year in issue the Appellant's husband had the time to provide valuable services to her real estate business. Specifically, his knowledge of matters such as renovations, business construction, environmental considerations, planning and construction budgeting for purchasers and vendors provided significant value-added service to her customers. As well, certain clients were introduced to the Appellant and a referral fee was paid to her husband because they came to her through his other contacts, mainly his father's business and other relationships. Thus, notwithstanding that Welton was at the same time soliciting construction business for his own company, it should not take away from the fact that his ability to provide her clients with information capable of maximizing the sale price of their own homes was a significant value‑added service for her customers.
+[8] Counsel also observed that Welton did substantially significant work for each of the Appellant's clients such as providing them with construction budgeting and dealing with other aspects of the various transactions which were beyond the ability of the Appellant to deal with. This arose from the opportunity presented by the failure of Welton's father's business enabling the Appellant to avail herself of his expertise, a factor that other spouses and real estate agents do not have. Thus, the expenses claimed by the Appellant on her tax return for 1996 are a reflection of the arrangement she had with her husband, i.e. that the two of them would be partners in the situation. Counsel also made reference to Costigane v. Canada[2] to support the position that there is "nothing illegal or inappropriate for a taxpayer to arrange his affairs to provide for some income‑splitting. That is not the issue. The issue is the reasonableness of the expenditures" and in this instance, the evidence was clear Welton provided certain relevant services and that the value placed by him on those services was reasonable.
+[9] Counsel for the Appellant also submitted that the fact that Welton had a number of different projects going during the relevant taxation year was an argument against the Minister's position that he was providing services to the Appellant for no compensation. He could have done something else in real estate development but, according to counsel, instead made a considered decision to assist the Appellant to increase her commissions and provide services to the general public. That was, counsel argued, an economic and not just a "matrimonial natural love and affection decision". Furthermore, counsel observed that the $32,000 which was claimed as an expense by the Appellant was "roughly an equal division of what is left over", i.e. after other expenses, and that was consistent with their position that a partnership existed during that year which increased her commissions.
+Respondent's submission
+[10] Counsel advanced two arguments in support of the Respondent's position. First, with respect to the deductibility of the management fees, there was no evidence of a legal obligation requiring the Appellant to pay her husband the $32,000 in issue. This submission is premised on two decisions of the Federal Court of Appeal, Fédération des caisses populaires Desjardins de Montréal & et de l'Ouest du Québec v. Canada[3] and Wawang Forest Products Limited et al v. Canada,[4] each of which suggests that an expense is incurred only when there is a legal obligation to pay. Counsel specifically noted that in the Caisse populaires decision, Desjardins J.A. made reference to R. v. Burnco Industries Ltd. et al[5] and stated "this Court has consistently held that an expense is only 'incurred' within the meaning of s. 18(1)(a) of the Act when there is an obligation to pay a sum of money … ". Counsel also observed that a similar conclusion was reached in Wawang that "generally, a taxpayer incurs an expense when it has a legal obligation to pay a sum of money." Based on the foregoing, counsel argued that whatever the arrangement between the Appellant and her husband was, it did not create a legal obligation between them. If anything existed, it was a domestic arrangement and not a legally binding agreement.
+[11] With respect to the salary claimed, counsel for the Respondent argued that no reasonable businessman "would have contracted to pay such an amount having only the business consideration of the Appellant in mind". In addition, counsel made specific reference to the fact that payment for services included a substantial number of items that would normally have been the responsibility of the Appellant's clients or which related directly to Welton's construction business. For these reasons, the expenses were not deductible by reason of the provisions of section 67 of the Act.
+Conclusion
+[12] The issue before the Court is whether the management fees of $32,000 paid to Welton are deductible by the Appellant in calculating her 1996 taxable income. There is no dispute that an expense is incurred for tax purposes only when a taxpayer has a clear legal obligation to pay the amount in question. Although there is no definition of expense in the Act, in Burnco, Pratte J. defined the term as follows: "In our opinion, an expense, within the meaning of paragraph 18(1)(a) of the Income Tax Act, is an obligation to pay a sum of money. An expense cannot be said to be incurred by a taxpayer who is under no obligation to pay money to anyone …". As well, in The Law of Contract in Canada, G.H.L. Fridman wrote:
+… A contract can only arise if there is the animus contrahendi between the parties. Without the expressed or implicit intention that a contract should emerge as a result of the language or conduct of the alleged parties, no contractual obligations can be said to exist and be capable of enforcement. Hence the offer that is made must be an offer to contract involving the creation of legal relations. …
+Paragraph 18(1)(a) imposes a purpose test for the deductibility of amounts in computing income from a business or property. It also precludes a deduction if the amount cannot properly be described as an "expense incurred". Although these words are not defined in the Act, case law indicates quite clearly that an expense is incurred for tax purposes when a taxpayer has a legal obligation to pay the amount in question.
+[13] There is substantial merit to the Respondent's position that what existed between the Appellant and her husband was nothing more than a domestic arrangement which was not and could not be considered to have created a legally binding agreement between them. I have reviewed the evidence and found nothing to support the conclusion that the Appellant and her husband had entered into an arrangement which was intended to result in or create legal consequences. This conclusion is supported by the testimony of both the Appellant and her husband and in particular, their characterization of the arrangement. By way of example, Welton testified that:
+… we had discussed it and we had agreed that it was a good way for us to continue to earn an income because I was not being paid by United Lands anymore, and because I was not eligible to register as a sales person and have access to MLS, but Sandra was, that I would generate as much business as I could for Sandra, and then of course when she was paid, it would be money that our family would use.
+Such an arrangement, in my view, falls far short of giving rise to a legal obligation. Furthermore, in response to counsel's questions, both Welton and the Appellant agreed that this was the basis upon which Welton and the accountant concluded that $32,000 was a reasonable figure. In my view, the testimony of the Appellant and her husband raised a substantial question as to what they actually had in mind and whether any discussions they may have had crystallized into a definite offer capable of being accepted. Absent such evidence, I have concluded that no contractual obligations existed. Accordingly, the Appellant did not incur the management fees in issue and is not entitled to deduct the expenses claimed pursuant to paragraph 18(1)(a) of the Act.
+[14] In the alternative, the Respondent relying on section 67 of the Act, submitted that the amount of $32,000 for management fees was not reasonable in the circumstances and would not have been paid in an arm's length transaction. Although it is not essential to the foregoing conclusion, I am of the view that some comment with respect to the evidence adduced in this context is warranted.
+[15] To justify that the amount paid to Welton was reasonable, a number of invoices were produced and both the Appellant and her husband testified with respect to the transactions referred to therein.[6] All of the invoices were generated for the purposes of the Revenue Canada audit, were totally retrospective, were not supported by any documentation and were provided to Revenue Canada for the first time by way of letter dated June 7, 2000.[7] As well, each one purports to have been issued in the month in which the alleged services were completed in 1996, a statement which was patently false. It is also a fact that in a letter to his accountant, Roger Chaplin, dated October 16, 2000, Welton wrote: "invoices were not rendered on a periodic basis but were done on a year end basis in order to maximize convenience". This statement is also false in that no invoices were ever issued on a year end basis and, as Welton conceded, had in fact been created in the year 2000 specifically for the Agency for its review.
+[16] I turn next to a few of the invoices[8] which both the Appellant and her husband testified reflected the services he provided.
+The Barrie transaction – invoice ten
+This invoice was for a "referral fee introduction to Scott and Rita Barrie from contract for renovations and inspection". Rita Barrie was a personal friend of the Appellant and retained her for both the sale of the Barrie residence and the purchase of a new home. The Appellant contends that Welton added value to the sale of the Barrie residence by arranging to have his tradesmen fix up their house. She further noted that "they needed several repairs of broken windows and tiles, some of the patchy carpet areas, some painting" and said that Welton "got his trades" to do the work and the Barries paid them directly. As well, they wanted his input with respect to their new property regarding some work to the basement and the possible location of a hot tub. Welton conceded that although in the ordinary course, he would have charged a client for making those arrangements, he did not do so in this instance because they were close personal friends and when asked whether he considered the $2,500 to be a referral fee for introduction to the Barries, he responded "that's what the invoice says, yes, that's correct". On the other hand, when asked what the invoice related to, the Appellant contradicted her husband stating "yes, and that is, I have already indicated, it wasn't the introduction. I mean that's just a misuse of words. It was fixing up their house. … ". It is reasonable to conclude there was no basis for the payment of a "referral" fee. Furthermore arranging for the tradesmen was a service rendered by Welton to his friends and not to the Appellant. He may well have assisted them in achieving a higher sale price for their property (and there is no evidence that was the case) but it is unlikely that any arm's length agent (or in fact the Barries or any other purchaser) would have been prepared to pay him $2,500 for that limited service.
+The Wolfs transaction – invoices 6 and 9
+The first invoice was for "consulting, selection and inspection services for Rudi and Veronica Wolfs - $2,500". The second is a "referral fee for introduction to Rudi and Veronica Wolfs" also in the amount of $2,500. In the course of their testimony, both the Appellant and Welton maintained that the latter advised the Wolfs regarding the value of their existing home and suggested that rather than renovating, they should purchase and upgrade to a newly constructed house. The Appellant contends that Welton assisted the Wolfs in finding one which had not been completed and gave them some advice regarding the work still required and its likely cost. For providing this service to her customers, Welton charged the Appellant $2,500, but provided no reasonable information regarding the basis upon which the services were valued. Invoice 9 for its part, purports to be a referral fee of $2,500 paid to Welton for introducing the Wolfs to the Appellant. The referral fee appears to be somewhat unwarranted given the fact that the Appellant obtained the listing for the sale of the Wolfs' home as a result of their touring the Appellant's residence which was both her office and at that time "was on the market as an open house". They were, she said, looking at different options and ended up purchasing the property in issue.
+Welton's "services" – invoice 11 (and missing invoice 7)
+Invoice 11 in the amount of $5,000 was referred to by Welton as having been paid for "services" which he described as
+… assistance with house listings, maintenance and installation of real estate signage, labour to move furniture and assist with Customers, copy writing for listings, measurement of houses for listings, meeting and driving customers to various listings for inspections, home inspection services for various customers, administrative assistance from January 1, 1996 through December 1, 1996.
+I should note that the total of the amounts in the invoices produced was $27,000, however, the income actually reported by Welton to Revenue Canada was in the amount of $32,000. The discrepancy was explained as reflecting a missing invoice 7, which he said "must have been for $5,000". When asked what services that invoice related to, he responded "probably similar to invoice no. 11. Just general catchall services and sharing of duties". What Welton is asserting is that the amount of $10,000 was a "reasonable fee" for such services notwithstanding the fact that no records, timesheets or any other information have been provided from which it would be possible to determine what and when the alleged services were indeed provided, how much time was expended, etc. to demonstrate a rational way how a $10,000 fee for "general catchall services and sharing of duties" was warranted.
+[17] It should be made clear that there is no dispute that Welton's expertise was of assistance to the Appellant and that he did in fact perform certain services. There is no question as well that, as Welton said, “we would discuss, when we had the opportunity, or during negotiations on how things might be done. And so that was something that gave some of the customers comfort. But Sandy herself was quite good at it as well”. However, based on the evidence before me, the only conclusion possible is that no reasonable businessperson would have contracted to pay such an amount for the work done or services rendered having only the business considerations in mind.
+[18] In this context, counsel for the Respondent made reference to Mépalex Inc. v. Canada[9] in which the Court observed:
+17 Counsel referred to this Court's decision in Safety Boss Ltd. v. The Queen, 2000 T.C.J. No. 18 (Q.L.), more particularly to the following passages:
+27 "Reasonable" in section 67 is a somewhat open-ended concept requiring the judgement and common sense of an objective and knowledgeable observer....
+...
+52 There have been numerous cases on the question of the reasonableness of expenses. Essentially the determination is one of fact. I shall refer to only one that sets out the principle and that has been frequently cited: Gabco Ltd. v. M.N.R., 68 DTC 5210. At page 5216 Cattanach J. said:
+It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind. I do not think that in making the arrangement he did with his brother Robert that Jules would be restricted to the consideration of the service of Robert to the appellant in his first three months of employment being strictly commensurate with the pay he would receive. I do think that Jules was entitled to have other considerations present in his mind at the time of Robert's engagement such as future benefits to the appellant which he obviously did.
+[19] One further item remains to be dealt with that being the Respondent’s disallowance of the amount of $704.58 of the meals and entertainment expenses claimed. At the conclusion of the cross-examination by counsel for the Respondent, it became apparent that she had not been provided with any information as to which of the expenses in issue had been denied. Counsel for the Respondent indicated that the auditor would not be called as a witness and that no testimony would be forthcoming from the Minister in this context. The consensus appeared to be that in these circumstances, the full amount of $1,027.50 in meals and entertainment expenses should be allowed. To that extent, the appeal is allowed and the Respondent is entitled to its costs.
+Signed at Ottawa, Canada, this 24th day of May, 2005.
+“A.A. Sarchuk”
+Sarchuk J.
+CITATION:
+2005TCC359
+COURT FILE NO.:
+2002-425(IT)G
+STYLE OF CAUSE:
+Sandra Welton and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 1, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+May 24, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Robert K. Brown
+Counsel for the Respondent:
+A’Amer Ather
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert K. Brown
+Firm:
+Stutz & Associates
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Both the Appellant and her husband were shareholders, with Welton holding 51% of the shares and the Appellant 49%. I note that Sunvale Homes had revenue of approximately $57,000 to December 31, 1996 and that its statement of loss and deficit discloses a management salary of $40,000 paid to Welton. This amount was reported by him in 1997.
+[2] 2003TCC67.
+[3] 2001 DTC 5173.
+[4] 2001 DTC 5212.
+[5] 84 DTC 6348.
+[6] Exhibit A-5. Although 11 invoices were said to have been prepared, only 10 were produced as exhibits.
+[7] Exhibit A-9.
+[8] Exhibit A-5.
+[9] [2002] T.C.J. No. 98.

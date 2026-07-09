@@ -1,0 +1,139 @@
+---
+title: "560838 Alberta Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27025/index.do"
+last_modified: "2005-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 42"
+citation2: ""
+neutral_citation: "2005 CCI 42"
+decision_date: "2005-01-11"
+language: "fr"
+item_id: "27025"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 635
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:22:49.780000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e665c9b4a06b5180e19a35013690915d63b3ce4e3e898979289c1a98dee3ea19"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 560838 Alberta Ltd v. The Queen
+
+- Citation: 2005 CCI 42
+- Decision date: 2005-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 635, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+560838 Alberta Ltd v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-11
+Référence neutre
+2005 CCI 42
+Numéro de dossier
+2004-2907(GST)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-2907(GST)I
+ENTRE :
+560838 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 décembre 2004 à Edmonton (Alberta)
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Représentant de l'appelante :
+Rodney Supersad
+Avocate de l'intimée :
+Me Galina Bining
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, relativement à l'avis de cotisation daté du 13 décembre 2002 et portant le numéro 10122894, est admis, sans dépens, et la cotisation est renvoyée au ministre du Revenu national pour qu'il la réexamine et qu'il en établisse une nouvelle selon les motifs de jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour de janvier 2005.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 2e jour de septembre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI42
+Date : 20050111
+Dossier : 2004-2907(GST)I
+ENTRE :
+560838 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS :
+[1] L'appelante a été constituée en société en vertu des lois de la province d'Alberta. M. Rodney Supersad possède toutes les actions émises de l'appelante.
+[2] Depuis 1996, l'appelante possède et exploite un restaurant appelé Cilantros. Cilantros est un petit restaurant comptant 29 places et situé au 10322, 11e rue, dans la ville d'Edmonton.
+[3] À tous les moments pertinents, l'appelante était un inscrit aux fins de la taxe sur les produits et services ( « TPS » ) aux termes de la Loi sur la taxe d'accise (la « Loi » ).
+[4] M. Supersad soutient que l'appelante a produit ses déclarations de TPS d'une manière appropriée pour la période commençant le 1er janvier 2001 et se terminant le 30 juin 2002 (la « période de déclaration » ).
+[5] L'appelante a demandé des crédits de taxe sur les intrants totalisant 7 280,75 $ pour la période de déclaration.
+[6] Dans un avis de cotisation (la « cotisation » ) daté du 13 décembre 2002, le ministre du Revenu national (le « ministre » ) établissait à l'égard de l'appelante une cotisation comportant un montant de taxe nette de 5 106,31 $, des intérêts de 439,78 $ et une pénalité de 737,60 $. En raison de la position adoptée par le ministre, tous les crédits de taxe sur les intrants qui avaient été demandés par l'appelante ont été refusés.
+[7] L'appelante a déposé une opposition à l'égard de la cotisation.
+[8] Dans un avis de cotisation (la « nouvelle cotisation » ) daté du 2 avril 2004, le ministre admettait l'opposition en partie et établissait une cotisation au titre de la taxe, des intérêts et des pénalités, comme suit :
+Taxe
+4 654,44 $
+Intérêts
+413,22 $
+Pénalités
+689,90 $
+Total
+5 757,56 $
+Conformément à la nouvelle cotisation, le ministre a accordé à l'appelante des crédits de taxe sur les intrants totalisant 451,87 $.
+[9] L'appelante a déposé un avis d'appel à la Cour canadienne de l'impôt, avis dans lequel elle soutenait avoir correctement déclaré la taxe qui avait été perçue et avoir droit aux crédits de taxe sur les intrants qu'elle avait demandés.
+B. QUESTION :
+[10] L'appelante peut-elle demander des crédits de taxe sur les intrants au-delà du montant de 451,87 $ qui a été admis par le ministre?
+C. ANALYSE :
+[11] M. Robert Reti, un vérificateur de l'Agence du revenu du Canada (l' « ARC » ), a comparu comme témoin pour l'intimée.
+[12] M. Reti a témoigné qu'il avait examiné les opérations commerciales de l'appelante et les documents financiers tenus par M. Supersad pour l'appelante.
+[13] M. Reti a dit que, d'après son analyse, les livres comptables de l'appelante pour la période de déclaration étaient inadéquats. Il a indiqué que l'appelante ne tenait pas de grand livre général et que ses documents financiers consistaient en différentes factures, en des chèques annulés, en des relevés bancaires et en des bordereaux de carte de crédit.
+[14] M. Reti a dit qu'il avait tenté d'aider M. Supersad en lui montrant ce que l'appelante devait faire pour se conformer aux exigences de la Loi.
+[15] M. Reti a dit que lorsqu'il a examiné les états financiers de l'appelante, il a examiné les documents de l'appelante pour les mois d'octobre, de novembre et de décembre 2002 afin de confirmer les crédits de taxe sur les intrants demandés par l'appelante pour cette période. M. Reti a dit avoir fait cette analyse pour valider les crédits de taxe sur les intrants demandés par l'appelante pour la période de déclaration. Les documents de travail établis par M. Reti pour les mois d'octobre, de novembre et de décembre 2002 ont été déposés comme pièce (voir la pièce A-5).
+[16] M. Reti a affirmé que dans le cadre de son examen des documents de l'appelante pour octobre, novembre et décembre 2002, il a examiné tous les reçus ainsi que les bordereaux de carte de débit, les chèques annulés, les relevés bancaires et les bordereaux de carte de crédit. M. Reti a témoigné que, selon les calculs présentés à la pièce A-5, il a déterminé que les crédits de taxe sur les intrants demandés par l'appelante pour la période de trois mois s'élevaient à 748,34 $ et que les crédits de taxe sur les intrants, tels qu'ils ont été validés, totalisaient 727,64 $. M. Reti a dit que ses calculs indiquaient que 97,23 p. 100 des crédits de taxe sur les intrants demandés par l'appelante pour cette période ont été validés.
+[17] M. Reti a indiqué qu'il avait également examiné les factures d'achat tenues par l'appelante aux fins de la TPS pour la période du 1er janvier au 31 mars 2001 (voir la pièce A-6). Au cours de cette période, les crédits de taxe sur les intrants demandés par l'appelante s'élevaient à 832,68 $, et le montant des crédits de taxe sur les intrants établi au moyen des factures d'achat se chiffrait à 451,87 $, ce qui correspond à un écart de 54,27 p. 100 entre les crédits de taxe sur les intrants demandés et les crédits de taxe sur les intrants établis au moyen des factures d'achat (Remarque : M. Reti a dit qu'il avait confirmé son examen pour cette période selon les factures d'achat effectivement fournies par l'appelante et qu'il n'a pas examiné les relevés bancaires, les bordereaux de carte de débit, les chèques annulés et les bordereaux de carte de crédit de l'appelante).
+[18] M. Reti a aussi témoigné qu'il avait examiné les factures d'achat tenues par l'appelante pour la période du 1er octobre au 31 décembre 2002. Pour cette période, les crédits de taxe sur les intrants demandés par l'appelante s'établissaient à 748,34 $ et les crédits de taxe sur les intrants validés par M. Reti étaient de 505,19 $. Selon M. Reti, les crédits de taxe sur les intrants validés en fonction des factures d'achat représentaient 67,8 p. 100 des crédits de taxe sur les intrants demandés par l'appelante. M. Reti a témoigné que lorsqu'il a fait ses calculs, il a limité son analyse aux factures d'achat fournies par l'appelante et qu'il n'a pas examiné les relevés bancaires, les bordereaux de carte de débit, les chèques annulés et les bordereaux de carte de crédit de l'appelante.
+[19] Comme il est mentionné ci-dessus, la nouvelle cotisation établie par le ministre ne permettait à l'appelante de demander des crédits de taxe sur les intrants que pour un montant de 451,87 $ pour la période de déclaration, comparativement aux crédits de taxe sur les intrants de 7 280,75 $ demandés par l'appelante. Le ministre soutient que [TRADUCTION] « l'appelante a omis de fournir la documentation requise pour établir qu'elle a droit à des crédits de taxe sur les intrants de plus de 451,87 $ » .
+[20] Après avoir analysé attentivement toute la preuve, j'ai déterminé que l'appelante a droit à 60 p. 100 des crédits de taxe sur les intrants demandés, c.-à-d. 60 p. 100 de 7 280,75 $ ou 4 368,45 $.
+[21] J'en suis arrivé à ce pourcentage en raison de la constatation de M. Reti selon laquelle 67,8 p. 100 des crédits de taxe sur les intrants demandés ont été validés pour la période d'octobre, de novembre et de décembre 2002 (voir la pièce A-5) et 54,27 p. 100 des crédits de taxe sur les intrants demandés pour la période de janvier, février et mars 2001 (voir la pièce A-6) ont été validés par M. Reti.
+[22] Je note également que M. Supersad a dit avoir retenu les services de nouveaux comptables pour établir les déclarations de taxe de l'appelante comme l'exige la Loi et qu'il a dit qu'il tentait de suivre les recommandations de M. Reti pour se conformer aux exigences imposées par l'ARC.
+[23] L'appel est admis, sans dépens, et il est ordonné au ministre de permettre à l'appelante de demander des crédits de taxe sur les intrants de 4 368,45 $ pour la période de déclaration.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour de janvier 2005.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 2e jour de septembre 2005.
+Joanne Robert, traductrice

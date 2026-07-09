@@ -1,0 +1,272 @@
+---
+title: "ARCHIVED - Registered Charities Newsletter - Spring 2002 - No. 12 - Spring 2002"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/charitiesnews-12/archived-registered-charities-newsletter-spring-2002-no-12-spring-2002.html
+last_modified: 2002-03-21
+---
+# ARCHIVED - Registered Charities Newsletter - Spring 2002 - No. 12 - Spring 2002
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## Contents
+
+- [Making Changes to Serve You Better](#P0_0)
+
+- [The New Anti-Terrorism Law: Impact on Charities](#P15_2557)
+
+- [Mapping the Road to the Future](#P28_5461)
+
+    - [First round of external consultations](#P34_6329)
+
+    - [Public opinion survey](#P48_8010)
+
+    - [Internal consultations](#P52_8492)
+
+    - [Moving forward](#P56_8927)
+
+- [The Voluntary Sector Initiative (VSI)](#P71_11369)
+
+    - [The Joint Regulatory Table](#P89_13459)
+
+    - [Call for input](#P107_17187)
+
+- [Valuing Gifts of Public Securities](#P115_17721)
+
+    - [Gifts by will](#P123_18426)
+
+    - [Gifts made During Donor's Life (Inter Vivos Gifts)](#P127_18875)
+
+    - [When Hand Delivered](#hand)
+
+    - [When Mailed](#mailed)
+
+    - [When Electronically Transferred](#electronic)
+
+    - [Valuation of shares](#P153_21621)
+
+- [Promoting volunteerism](#P163_22766)
+
+- [Answering your questions](#P177_25095)
+
+    - [Recognizing volunteer services for seniors as charitable](#P179_25119)
+
+- [Friendly reminders](#P198_26863)
+
+    - [Revocation](#P200_26881)
+
+    - [Making sure your mail gets to us](#P218_27812)
+
+## Making Changes to Serve You Better
+
+In September 2001, the Charities Directorate began a two-month telephone enquiries pilot project. Our goal was to explore practical ways to improve service to clients.
+
+As part of the pilot project, Charities Directorate senior officers trained officers at a CCRA Call Centre to respond to some charities-related enquiries. These general enquiries make up 60% to 70% of our total calls. By training these CCRA Call Centre officers to respond to charities enquiries, the Charities Directorate is able to provide better and faster service to our clients. In fact, as a result of this new procedure, we can spend more time responding to the more complex enquiries we receive, as well as to client correspondence.
+
+We are happy to report that the pilot project has been quite successful, and we are now using the new approach on a more permanent basis. As you will read in the rest of this newsletter, this is just one of a number of steps we are taking to better respond to the needs of clients.
+
+Another important step we have recently taken is to increase staff. We have done this mainly in our operations area, so that we can better respond to client needs. Although there has been some turnover of staff in our operations area, in the past year we have hired more examiners for the Determinations area and more client assistance officers. The new staff went through an extensive training and development program, and we continue to benefit from their professional development.
+
+We have also improved our internal structures and processes in the Determinations area. We have established a risk assessment group that conducts an initial review of all applications to assess their chances of being registered or denied. Applications are gathered in three categories: those that have a high chance of being approved; those that are incomplete in content, or that need clarification, or that otherwise can likely be denied and are of a less complex nature; and, files that need closer study and more research before a determination can be made. As part of this process, we also provide guidance to staff on how to consider and possibly resolve issues identified in the file.
+
+With this new approach, we assign types of files to specific work groups, as the need dictates. We also anticipate that in most cases only one officer will need to be involved in handling a file through the application process. Ultimately, we believe our new approach will help reduce the turnaround time for making decisions on all applications.
+
+## The New Anti-Terrorism Law: Impact on Charities
+
+On December 18, 2001, the Government's omnibus anti-terrorism legislation, Bill C-36, received Royal Assent. Most of the measures in Bill C-36 came into force on December 24, 2001, including Part 6, which establishes the *Charities Registration (Security Information) Act.*
+
+This new Act is designed to support the fight against terrorism and safeguard the charities registration system under the *Income Tax Act*.<> Principally, it seeks to achieve these goals by allowing relevant security and intelligence information to be considered in deciding whether an organization should be registered as a charity.
+
+Under the new legislation, the Solicitor General and the Minister of National Revenue may jointly sign a special security certificate in cases where they have reasonable grounds to believe that an organization provides financial or material support to terrorism. This certificate leads to an automatic judicial review, which replaces the normal appeal process under subsections 172(3) and 172(4) of the *Income Tax Act*. Special provisions will protect information that a Federal Court judge determines should not be disclosed. When a certificate has been issued, the Act gives the organization enough time (seven days) to apply for a court order to protect its identity during the judicial review. If granted, the court order ensures the organization's identity is not disclosed until after a Federal Court judge has decided on the reasonableness of the certificate issued by the ministers.
+
+The judicial review process under the *Charities Registration (Security Information) Act* has been designed to be as fair and open as possible. After reviewing the classified information in private, the judge will provide a summary to the organization. The summary must contain enough information to allow the organization to respond, and may only exclude information that the judge has determined would be injurious to national security and the safety of persons. An organization has the right to legal counsel and the right, in open court, to challenge the case against it by introducing evidence, cross-examining witnesses, and calling witnesses on its own behalf. These measures give an organization the opportunity to mount an informed and effective defense.
+
+If a Federal Court judge upholds the reasonableness of the security certificate, the certificate is deemed to be conclusive proof that an organization is ineligible for registration as a charity under the *Income Tax Act*. If confirmed, the certificate would be valid for seven years, subject to review if there has been a change in material circumstances. These new provisions have been modelled after legislation already in force, which has been determined by the courts to meet Charter standards of due process and fairness and has been endorsed by the European Court of Human Rights.
+
+## Mapping the Road to the Future
+
+In *The* *Registered Charities Newsletter No. 11*, we introduced our readers to an important endeavour that will help us improve our operations now and over the coming years: the Future Directions - Charities Initiative.
+
+Early in 2001, the Minister of National Revenue launched *Future Directions*, an initiative to ensure that all areas of the CCRA are well positioned to respond to the future needs of clients. Within the Charities Directorate, *Future Directions* started by consulting with registered charities, umbrella groups, and professionals who provide services to charities, and commissioning a survey of the Canadian public. Our research focused on the five themes of *Future Directions*: Retaining Public Trust; Focus on Client-Oriented Service; Building on Partnerships; Building Organizational Capacity; and Ensuring Best Value.
+
+## First round of external consultations
+
+We travelled from Halifax to Vancouver with independent consultants and listened to people who told us what they liked and did not like about our services. We did not just speak to people in the cities; we telephoned charities located in rural areas and found out about their experiences. We appreciate the time people from across the country spent with us; indeed, their candid comments have proven very valuable.
+
+This first round of consultations identified three fundamental issues the Directorate must address:
+
+- There is a lack of clear, concise, and up-to-date charities-related policy and regulatory and administrative instruments. The Directorate needs to give the voluntary sector the correct information at the right time to help charities understand their obligations and responsibilities.
+
+- Backlogs in processing applications affected the Directorate's credibility with the voluntary sector. This is feeding a perception among some charities and professionals that there is a lack of timeliness in the Directorate's dealings with the voluntary sector. As a result, there is a widespread demand for a more efficient, effective, timely, and consistent decision-making process for applications, based on clearly defined policies and rules.
+
+- The overall effectiveness and efficiency of the Directorate needs to be improved. This will require administrative improvements in resource management, information technology, and staff training.
+
+As discussed above in *Making Changes to Serve You Better*, we have taken your feedback seriously-we have already started implementing some of the changes identified through our renewal process.
+
+## Public opinion survey
+
+As part of our renewal efforts, we asked the polling company Ipsos-Reid to conduct a survey of Canadians for us in December 2001. The survey revealed a value in registering charities-most Canadians see registration as a basis for maintaining or increasing their confidence in charities. However, the survey also revealed that the vast majority of Canadians were unfamiliar with the name of the organization responsible for actually carrying out registration.
+
+## Internal consultations
+
+As the external consultations were taking place, we also consulted CCRA staff-those who work inside and outside the Charities Directorate. With the help of the men and women who do the work, consultants put on paper exactly how the Directorate does everything it does-from processing applications and Form T3010, *Registered Charity Information Return*, to responding to telephone requests and auditing charities.
+
+## Moving forward
+
+As both our external stakeholders and staff have made clear, we must provide faster service, consistent answers, easier access to more information, and an effective compliance function. In response, we are working on a number of initiatives that should bring significant improvements for clients. These include: simplifying the T3010, a NETFILE pilot project, improving and expanding our policy-making and public education activities, making our Web site more user-friendly, and expanding our audit capabilities. These are in addition to the process improvements we have made in responding to telephone enquiries, correspondence, and the application process.
+
+On the basis of the feedback we have received so far and the visions put forward by our stakeholders, we have begun creating two important tools: a Vision Document and an Action Plan. In the Vision Document, we are painting a picture of how the Charities Directorate would like to provide its services in the future. The Action Plan outlines the steps we will take to make the Vision Document a reality. When completed, the Action Plan will describe changes to be made by every division and section of the Charities Directorate, together with time lines for action.
+
+We recognize that, with over 78,000 registered charities in Canada, a very large pool of potential applicants for registration, hundreds of other stakeholders, and 200 staff in the Charities Directorate, there are a lot of people who have an interest in our *Future Directions*. Yet, when the expectations of all these stakeholders are matched with our human, financial, and technical resource limitations, it becomes clear that the Vision Document and the Action Plan may not satisfy everyone. What we want to achieve is a common understanding of the range and nature of the quality services we should be able to provide Canadians in the future.
+
+If you want a more complete look at the future directions of the Charities Directorate, the Vision Document and the Action Plan are available on the Future Directions - Charities Web site at www.ccra.gc.ca/futuredirections. You can also contact Future Directions - Charities by email at [fdc-ofob@ccra-adrc.gc.ca.](mailto:fdc-ofob@ccra-adrc.gc.ca) If you do not have access to email or the Internet, you may contact the Future Directions - Charities office through the following client assistance telephone numbers:
+
+1-800-267-2384 (English) 1-888-892-5667 (French and English).
+
+## The Voluntary Sector Initiative (VSI)
+
+As we briefly mentioned in our last newsletter, the CCRA, and the Charities Directorate in particular, is actively involved in the Voluntary Sector Initiative (VSI).
+
+The VSI, announced in June 2000, is part of the Government's agenda to build a higher quality of life for all Canadians. It seeks to examine the relationship between government and the voluntary sector and to make recommendations on how that might be improved for the benefit of all Canadians. It includes a five-year action plan, at a cost of $94.6 million, and involves more than 20 federal departments and agencies, and an equal representation from voluntary organizations reflecting the voluntary sector across Canada.
+
+The initiative can be traced directly to a 1999 landmark document entitled *Working Together - Report of the Joint Tables.* This report was the product of a joint policy exploration process undertaken by a group of voluntary sector leaders and senior government officials. This joint exercise, which has come to be known as the Joint Tables Process, defined three distinct areas that need strategic investment and attention:
+
+- **Improving the relationship** between the Government and the sector
+
+- **Enhancing the capacity** of the sector to serve Canadians
+
+- **Improving the legislative and regulatory environment** in which the sector operates
+
+The VSI addresses all three areas. It also includes several other specific initiatives, including the development of an accord, support for celebrating the *International Year of Volunteers*, and the *National Volunteerism Initiative*.
+
+Under the VSI, six Joint Tables have been established to further study the issues explored in *Working Together,* and to make recommendations to government. The Tables provide a mechanism for government and voluntary sector representatives to work together on issues of mutual concern. While the CCRA is involved with a number of the Tables, the Charities Directorate is most directly involved with the Joint Regulatory Table, which is exploring ways to improve the federal regulatory environment.
+
+## The Joint Regulatory Table
+
+The Joint Regulatory Table (JRT) was established in the fall of 2000, and is co-chaired by Maureen Kidd, Director-General, Charities Directorate, and Bob Wyatt, Executive Director of the Muttart Foundation.
+
+The JRT is working on six key regulatory issues. The first is to simplify the information return (Form T3010) filed each year by all registered charities. Following extensive consultations, a new and more streamlined form has been drafted. The draft form has received approval-in-principle from the JRT and has undergone extensive usability testing. Further refinements will be made as a result of the testing. If all goes according to plan, the form will soon be available for use; all registered charities will be able to use it when their fiscal year ends in 2003. More information will be provided in future issues of the newsletter.
+
+The second issue before the JRT has to do with developing guidelines for "related business" activity of registered charities. The Table is preparing a paper to serve as the basis for further consultations, both inside and outside the charitable sector. Following these consultations, the JRT expects that the CCRA will be able to publish new "related business" guidelines by early 2003.
+
+The remaining four issues before the JRT involve fundamental policy issues on which the JRT has been asked to make recommendations. One of these is accessibility and transparency of the regulatory regime. The concern is that there is not enough available information about registered charities and about how the CCRA makes decisions-especially decisions about registration and revocation. The JRT is trying to find a balance between the confidentiality rights of individual organizations and the public's desire to know more about charities. Also, the JRT is discussing opportunities provided by the Internet, such as making it easier for the public to get more information about registered charities.
+
+The second area for study and recommendation is the possibility of introducing intermediate sanctions for charities that are not fully complying with the rules for continued registered status. Currently, the *Income Tax Act* specifies only one consequence for non-compliance-removal of a charity's registration. An intermediate sanction would be a penalty that is less severe than withdrawal of registered status.
+
+The Table is also looking at a system of recourse for organizations that disagree with decisions made by the regulator. Under the current system, appeals of decisions by the Charities Directorate can be directed only to the Federal Court of Appeal. The JRT is considering how access to recourse can be made easier and less costly for charities.
+
+The JRT is also examining the issue of institutional reform. The Table is more fully developing the range of regulatory models outlined in the preliminary work of the 1999 Joint Tables Process. These included an enhanced Charities Directorate that would continue to operate within the CCRA, a complementary agency that would work alongside the CCRA, and an independent commission.
+
+In looking at institutional models, the Table is working to strike a balance between the need to ensure public confidence in voluntary organizations, the integrity of the tax system, and the need to ensure a supportive and enabling environment for voluntary organizations. Once the Table completes its preliminary research, consultations will be held with the sector, provincial departments, and other stakeholders. These consultations will try to gain a better understanding of the implications of various approaches, their potential costs and benefits, and the degree of support for new institutional arrangements.
+
+## Call for input
+
+The JRT is interested in your comments about the options for reform and its specific proposals for change. Discussion documents and information on how to provide comments will be posted on the VSI and Charities Web sites. For more information about consultation opportunities, the JRT, and the VSI, visit [http://www.vsi-isbc.org/eng/index.cfm](http://www.vsi-isbc.org/eng/index.cfm). You can also visit our Web site at [www.cra.gc.ca/charities](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities.html) for more information about the Charities Directorate.
+
+The JRT's final report and recommendations to ministers are due in March 2003.
+
+## Valuing Gifts of Public Securities
+
+A gift of public securities is a gift-in-kind. A charity that receives a gift-in-kind can issue a tax receipt for the "fair market value" of the gift on the date it was donated.
+
+The donation date of a share is the date on which transfer of ownership takes place*.* The time at which the ownership of a share is considered to have been transferred from one person to another is a question of fact.
+
+It is our general view that the charity has taken ownership of a share when it has the right to receive dividends declared in respect of the share, the right to receive amounts on the liquidation of the corporation, and the right to exercise the votes attached to the share.
+
+## Gifts by will
+
+Generally, when a gift of securities is made pursuant to the terms of a deceased individual's will, the gift is deemed to have been made, for purposes of the charitable donation tax credit, by the individual immediately before the individual died. In such circumstances, it is the CCRA's view that the value of the gift of property is the value immediately before death and not when the property is subsequently received by the charity.
+
+## Gifts made During Donor's Life (Inter Vivos Gifts)
+
+The *Income Tax Act* does not provide guidance in determining the specific time an *inter vivos* gift is made. However, a gift is considered to be made at the time ownership of the property, which is the subject of the gift, is transferred to and accepted by the registered charity. As indicated above, it is a factual determination as to when ownership of a share is transferred from one person to another.
+
+Charities receive gifts of public securities in several different ways. For instance, they may be hand-delivered, mailed, or electronically transferred. Receipt and acceptance of a gift do not always go hand-in-hand since a charity may refuse to accept a particular gift for various reasons*.* As an example, the shares may be in a company whose business conflicts with the charity's values, compelling the charity not to accept the gift. We recommend you review the charity's policies and governing documents to determine whether the charity may reject the gift. On the other hand, acceptance implies that the charity has understood the nature of the gift and has manifested its intention to keep it.
+
+## When hand delivered
+
+Sometimes, an endorsed share certificate or unendorsed share certificate, accompanied by a signed stock power, is hand-delivered to the charity. In most cases, it is reasonable to consider the time the gift was made to be the time the charity actually received and accepted the gift.
+
+## When mailed
+
+On other occasions, the endorsed share certificate or an unendorsed share certificate, accompanied by a signed stock power, is mailed to a charity. While the time of the gift may vary depending on the circumstances, generally, it is reasonable to consider the gift to have been made at the time the charity receives and accepts it.
+
+## When electronically transferred
+
+Recently charities have been receiving gifts of shares transferred to their account electronically. The *Income Tax Act* does not specifically deal with this way of giving shares. As a result, the date of the donation can sometimes be an issue.
+
+As a general rule, the date of a gift of electronically transferred shares is the date the shares are received in the charity's account. In such cases, the donor's intent to make the gift has been communicated to the charity and the charity has indicated its intent to accept the gift by providing the donor with its account number.
+
+However, this rule may not apply in all cases, and you should carefully review the facts of each situation to determine the timing of the gift. For instance, the donor and charity may have entered into a written agreement which effectively transferred ownership of the shares to the charity prior to physical receipt by the charity.
+
+## Valuation of shares
+
+The *Income Tax Act* does not provide guidance in determining how a gift of shares should be valued. A careful review of the facts of each situation should be made to determine the "fair market value". The CCRA has, as a general rule, accepted the use of the closing bid price of the share on the date it is received or the mid-point between the high and the low trading prices for the day, whichever provides the best indicator, given the circumstances, of fair market value on normal and active market trading.
+
+Some other factors that may have to be taken into consideration are: the size of the block of shares in relation to the whole; the volume traded; the attributes of the shares; whether the donor had control or was a minority shareholder; whether there were any restrictions on the transferability of the shares; and whether the shares were thinly traded, requiring a look at trades over a longer period of time.
+
+If you have any questions regarding valuation of gifts of shares, please contact the client assistance unit of the Charities Directorate at 1-800-267-2384 (English) or 1-888-892-5667 (French & English).
+
+## Promoting volunteerism: Grand Forks Volunteer Society versus M.N.R.
+
+We received an application from the Grand Forks Volunteer Society to be registered as a charity. Our review of the organization's file showed that the beneficiaries of the organization's services could include organizations that were not registered charities or other qualified donees, as required under the Income Tax Act. As a result, we turned down the application, and the organization filed an appeal with the Federal Court of Appeal.
+
+However, before the case was heard, we reconsidered the particular reasons why the Grand Forks Volunteer Society wanted to include beneficiaries who were not registered charities or other qualified donees. We concluded that in today's social and legal context, promoting volunteerism could be considered a charitable purpose in its own right. Because of this, the Charities Directorate decided to broaden its registration policy on volunteer centres. This resulted in the Grand Forks Volunteer Society's application being accepted.
+
+Under our new policy, an organization formed to promote volunteerism in the community at large through broad-based activities may be eligible for registration. Such an organization is no longer required to limit its beneficiaries to only registered charities or other qualified donees.
+
+However, to qualify, an applicant's purpose must be to promote volunteerism to the benefit of the community at large, and this is to be clearly stated in its governing documents. In addition, the organization's activities must be broad-based, meaning that its range of activities must be of interest generally to volunteers and the community at large. Also, it is acceptable for the organization's specific activities to include training as well as increasing public awareness and support for volunteerism.
+
+It is important to emphasize that the organization must operate for the benefit of the community at large, rather than a specific group, such as a sports club. Further, all beneficiaries must be non-profit, community-based organizations. However, if the organization intends to provide direct financial support, the beneficiaries must be registered charities or qualified donees.
+
+A document providing more details on this policy will soon be available on the Charities Directorate Web site.
+
+## Answering your questions
+
+## Recognizing volunteer services for seniors as charitable
+
+*A registered charity whose volunteers provide companionship to seniors asked whether there would be a problem if the seniors it helps were in the care of privately run, for-profit corporations*.
+
+Generally, providing companionship to housebound or isolated seniors is a charitable purpose, as long as the public benefit requirements are met. If the services are provided only to seniors in a particular privately run, for-profit facility, either in fact or through an agreement with the facility, it is fair to consider the charity to be providing at least a co-equal benefit to the for-profit facility. This would make it unacceptable under charity law, which prohibits private benefit.
+
+On the other hand, if the charity is providing its services to any seniors or any facilities that request its support, based on a number of objective criteria, then it is reasonable to consider the service as being provided to the community at large, and therefore as charitable. The objective criteria the charity might use could include:
+
+needs assessment; first-come, first-served; age; mobility impairment; chronic complex care situation, etc.
+
+We also recognize that there may be exceptional circumstances where, on a **temporary** basis, seniors in need are served in a facility that is run privately and for profit. As long as there is no ongoing tie between the charity and the facility that would exclude others in need, we are open to accepting such temporary circumstances.
+
+These are general guidelines that we hope will provide some sense of what would be acceptable. However, if you have a particular case and need greater certainty, please write to us with the full details of your case.
+
+## Friendly reminders
+
+## Revocation
+
+Revocation is the procedure by which a charity loses its registration number and all advantages of being registered as a charity. A charity's registration may be revoked voluntarily or involuntarily. The latter may take place when the charity fails to file its T3010 return or has not complied with the provisions set out in the *Income Tax Act.*
+
+When a charity's registration is revoked:
+
+- generally, the charity is no longer exempt from tax;
+
+- it cannot issue official donation receipts; and
+
+- it may be subject to a tax equivalent to the full value of its remaining assets. This is called revocation tax. For more information, see RC4108, *Registered Charities and the Income Tax Act*.
+
+**Note**: The most frequent reason for involuntary revocation is failure by a registered charity to file its annual information return (Form T3010).
+
+Be sure to file **ANNUALLY** and **ON TIME** (within six months of the end of your fiscal period).
+
+## Making sure your mail gets to us
+
+- If you have any correspondence that relates to your information return, **attach it to the front of your information return, Form T3010**.
+
+- **All other correspondence** you wish to send to the Charities Directorate should be sent **separately**.
+
+- By separating your T3010 mail from the rest, you help ensure that when the mail arrives, it can be sorted and answered as quickly as possible.
+
+**Please send all your mail to:**
+
+**Charities Directorate Canada Customs and Revenue Agency Ottawa ON ON K1A 0L5**

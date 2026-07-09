@@ -1,0 +1,198 @@
+Title: Main Rehabilitation Co. Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26351/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-454-26351-main-rehabilitation-co-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-12-17
+
+# Main Rehabilitation Co. Ltd. v. The Queen
+
+- Citation: 2003 CCI 454
+- Decision date: 2003-12-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3364, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Main Rehabilitation Co. Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-17
+Référence neutre
+2003 CCI 454
+Numéro de dossier
+2003-992(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-992(IT)G
+ENTRE :
+MAIN REHABILITATION CO. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 19 juin 2003 à Toronto (Ontario)
+Par : L'honorable juge J. M. Woods
+Comparutions
+Avocat de l'appelante :
+Me Rocco Galati
+Avocate de l'intimée :
+Me Catherine Letellier de St-Just
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l'intimée visant à obtenir une ordonnance radiant certaines parties d'un avis d'appel interjeté à l'encontre de cotisations d'impôt sur le revenu établies pour les années d'imposition 1996, 1997 et 1998,
+ET APRÈS AVOIR entendu les avocats des parties,
+ET APRÈS AVOIR lu les documents présentés,
+IL EST ORDONNÉ que :
+1. les parties soulignées de l'avis d'appel reproduit à l'annexe A des motifs seront radiées;
+2. l'intimée aura 45 jours à compter de la date de la présente ordonnance pour déposer une réponse;
+3. les dépens de la requête seront adjugés à l'intimée, quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 17e jour de décembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 29e jour de mars 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI454
+Date : 20031217
+Dossier : 2003-992(IT)G
+ENTRE :
+MAIN REHABILITATION CO. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Woods
+Contexte
+[1] Dans la présente requête, la Couronne demande une ordonnance radiant certaines parties d'un avis d'appel relativement à la conduite de l'Agence des douanes et du revenu du Canada (ADRC) pendant la vérification de Main Rehabilitation Co. Ltd. La Couronne invoque l'article 53 des Règles de la Cour canadienne de l'impôt (Procédure générale), lequel est rédigé ainsi :
+53. La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l'acte ou le document :
+a) peut compromettre ou retarder l'instruction équitable de l'appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour.
+[2] Le seuil d'application de l'article 53 est élevé. Cet article ne peut s'appliquer à moins que la question soulevée dans l'avis d'appel n'ait clairement aucun bien-fondé. L'issue doit être « évidente et manifeste » et le résultat « au-delà de tout doute raisonnable » : Hunt c. Carey Canada Inc.[1] et Davitt c. La Reine[2].
+[3] En mars 2003, Main Rehabilitation a présenté un avis d'appel relativement aux cotisations d'impôt sur le revenu établies pour les années d'imposition 1996, 1997 et 1998. L'avis d'appel est reproduit à l'annexe A, et les parties que la Couronne demande de radier sont soulignées. L'appel repose sur deux motifs :
+· que l'instigation et la conduite de la vérification étaient abusives;
+· que certaines dépenses d'entreprise ont été refusées à tort.
+[4] La prétendue conduite abusive de l'ADRC est décrite de la manière suivante dans l'avis d'appel :
+· la vérification a été déclenchée à la suite d'un faux renseignement fourni par un actionnaire mécontent;
+· la « vérificatrice » n'avait pas encore réussi les examens requis;
+· le superviseur chargé d'administrer la vérification était parent d'un des amis des actionnaires mécontents;
+· la vérification était illégale, abusive, inconstitutionnelle et prolongée.
+Main Rehabilitation maintient que les faits ci-dessus justifient l'annulation des cotisations pour les raisons qu'ils constituent un abus de procédure en common law et une contravention à l'article 7 de la Charte canadienne des droits et libertés[3].
+[5] Le présent appel n'est pas la première fois que Main Rehabilitation demande réparation pour la conduite de l'ADRC au cours de cette vérification. En 1999, elle a déposé une demande de contrôle judiciaire auprès de la Cour fédérale du Canada relativement à l'instigation de la vérification et à la conduite de l'ADRC pendant la vérification. La demande a été rejetée pour des motifs d'ordre procédural le 23 novembre 1999. La décision a été portée en appel et l'appel a par la suite été retiré.
+[6] La Couronne fait valoir qu'il est opportun de radier les parties visées de l'avis d'appel concernant la conduite de l'ADRC parce qu'elles ne sont pas pertinentes dans un appel interjeté à l'encontre de cotisations établies en vertu de l'article 169 de la Loi de l'impôt sur le revenu. Elle soutient que la seule considération pertinente est le bien-fondé des cotisations établies et que la procédure employée pour leur établissement n'a aucune pertinence à cet égard. La Couronne allègue en outre que même si la conduite de l'ADRC était pertinente, la conduite décrite dans l'avis d'appel n'est pas flagrante au point de justifier une réparation aussi extraordinaire.
+[7] Pour les motifs qui suivent, j'admets la requête de l'intimée visant à radier les parties de l'avis d'appel qui concernent la conduite de l'ADRC pendant la vérification.
+Applicabilité de l'abus de procédure en common law
+[8] Main Rehabilitation soutient que tous les tribunaux possèdent la compétence inhérente de réparer tout abus survenu dans leur propre procédure et nous renvoie aux décisions États-Unis d'Amérique c. Cobb[4]et Re Abitibi Paper Company Limited and The Queen[5]. Le pouvoir discrétionnaire de common law de réparer tout abus de procédure est décrite par le juge Arbour dans l'affaire Cobb, laquelle portait sur des procédures d'extradition :
+[37] Les tribunaux canadiens ont, en vertu de la common law, un pouvoir discrétionnaire inhérent et résiduel de contrôler leur propre procédure et d'empêcher qu'on en abuse. Notre Cour, dans R. c. Keyowski, [1988] 1 R.C.S. 657, p. 658-659, décrit la réparation conçue par les tribunaux pour les cas d'abus de procédure et les circonstances dans lesquelles il convient de l'accorder :
+La possibilité d'avoir recours à une suspension d'instance pour remédier à un abus de procédure a été confirmée dans l'arrêt R. c. Jewitt, [1985] 2 R.C.S. 128, dans lequel cette Cour a dit que le critère à appliquer pour déterminer s'il y a eu abus de procédure était celui initialement formulé par la Cour d'appel de l'Ontario dans R. v. Young (1984), 40 C.R. (3d) 289. Suivant ce critère, la suspension d'instance doit être accordée lorsque « forcer le prévenu à subir son procès violerait les principes de justice fondamentaux qui sous-tendent le sens du franc-jeu et de la décence qu'a la société » ou lorsqu'il s'agit d'une procédure « oppressive ou vexatoire » ([1985] 2 R.C.S., aux pp. 136 et 137). Dans l'affaire Jewitt, cette Cour a en outre adopté « la mise en garde que fait la cour dans l'arrêt Young, portant que c'est là un pouvoir qui ne peut être exercé que dans les « cas les plus manifestes » (à la p. 137).
+[9] L'avocat de Main Rehabilitation laisse supposer l'existence d'un vide dans le droit fiscal concernant le principe décrit dans l'affaire Cobb. Selon sa description colorée, la Cour de l'impôt est enfermée dans un cocon : peut-être insinuait-il par là que les causes d'impôt sont en retard sur leur époque en ce qui concerne les recours extraordinaires.
+[10] La question consiste à savoir s'il est opportun que la Cour de l'impôt permette un recours pour toute conduite irrégulière des agents de l'ADRC pendant une vérification. Le seul recours que pourrait offrir la Cour de l'impôt serait la réduction ou l'élimination d'impôts autrement exigibles. Il n'est pas du ressort de la Cour d'accorder des dommages-intérêts, et Main Rehabilitation ne suggère pas le contraire. Je souligne cependant que d'autres tribunaux ont à l'occasion accordé des dommages-intérêts pour la conduite de l'ADRC : Longley v. Canada[6].
+[11] La Cour de l'impôt a manifestement le pouvoir de suspendre toute instance qui constitue un abus de sa propre procédure, c'est-à-dire la procédure de litige : Yacyshyn c. Canada[7]. Cependant, les tribunaux ont régulièrement maintenu que les actes de l'ADRC en dehors de la procédure de litige ne devraient pas être pris en ligne de compte dans un appel interjeté à l'encontre de cotisations à la Cour de l'impôt[8].
+[12] Dans l'affaire Ludco Enterprises Ltd. c. Canada[9], plusieurs contribuables, dont la demande de déduction d'intérêt avait été rejetée par le ministre du Revenu national, ont fait valoir au cours d'une action en justice formée devant la Cour fédérale qu'ils étaient victimes de discrimination parce que d'autres contribuables avaient été traités différemment dans des circonstances identiques. Sur appel, le juge suppléant Chevalier a refusé l'application des principes de justice naturelle aux décisions de l'ADRC :
+[...] Ni le ministre du Revenu ni ses préposés n'ont quelque discrétion que ce soit dans l'application qu'ils doivent faire de la Loi de l'impôt sur le revenu. Ils sont tenus de la suivre d'une manière absolue comme d'ailleurs les contribuables sont obligés d'y obéir telle qu'elle est. [...] il n'est pas possible de juger leur conduite selon des critères mouvants et variables comme le sont ceux que dicte le principe de la justice naturelle. Pour déterminer si leurs décisions sont valides ou non il ne s'agit pas de se demander s'ils ont exercé leurs pouvoirs d'une façon correcte ou abusive, mais bien s'ils ont agi comme la loi qui les gouverne leur prescrit d'agir.
+[13] La question a plus récemment été examinée dans le contexte d'une demande de contrôle judiciaire dans laquelle on avait refusé au contribuable l'accès à certains renseignements qui étaient disponibles à l'agent des appels : Webster v. Canada[10]. Même si la demande provenait de la Cour fédérale, le juge d'appel Sharlow a fait l'observation suivante au sujet d'un appel entendu à la Cour de l'impôt :
+[traduction]
+[21] J'ajouterais que le droit d'en appeler d'une cotisation d'impôt sur le revenu auprès de la Cour de l'impôt est important. Le mandat de la Cour de l'impôt est de décider, en fonction d'un procès où les deux parties auront l'occasion de présenter des preuves documentaires et orales, si les cotisations portées en appel sont fondées en droit ou ne le sont pas. Si les cotisations ne sont pas fondées en droit, il n'importe pas qu'il y ait vice de forme dans le processus d'objection. Si elles sont fondées, elles doivent être maintenues, même en présence d'un vice de forme dans le processus d'objection.
+[14] Main Rehabilitation ne m'a renvoyé à aucune autorité ayant appliqué le concept de l'abus de procédure lorsqu'il existe un droit fondamental d'interjeter appel tel que celui prévu pour les cotisations d'impôt sur le revenu. Par conséquent, je ne vois aucune raison de m'écarter du principe énoncé par le juge Sharlow.
+[15] À l'audition de la requête, l'avocat de Main Rehabilitation a attiré mon attention sur une cause qu'il avait récemment défendue et qui demeurait en instance à la Cour d'appel fédérale. Depuis, un jugement a été rendu. Dans l'affaire Dwyer c. Canada[11], la Cour d'appel a examiné l'applicabilité de la doctrine de l'abus de procédure à la conduite de l'ADRC au cours d'une enquête et d'une vérification dans le cadre d'un appel relatif à l'impôt sur le revenu[12]. La Cour a conclu d'après les faits qu'il n'y avait pas abus de procédure et n'a pas abordé la question fondamentale de savoir si les cotisations devaient être annulées même s'il y avait abus de procédure. Puisque cette question fondamentale n'a pas été discutée, je ne considère pas que la décision Dwyer annule le droit constant en ce qui a trait à la pertinence de la conduite de l'ADRC dans un appel relatif à l'impôt sur le revenu.
+Applicabilité de l'article 7 de la Charte
+[16] Main Rehabilitation soutient que la conduite de l'ADRC constitue aussi une contravention à l'article 7 de la Charte canadienne des droits et libertés. L'article 7 est ainsi rédigé :
+7. Chacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu'en conformité avec les principes de justice fondamentale.
+[17] La Couronne laisse supposer que la protection de l'article 7 ne s'applique qu'aux personnes et ne peut donc s'étendre à l'appelante : Dywidag Systems International, Canada Ltd. c. Zutphen Brothers Construction Ltd.[13].Main Rehabilitation suggère, par contre, que l'article 7 peut s'appliquer aux sociétés, dans certaines circonstances. Me Galati nous a renvoyé au passage suivant de la Cour suprême du Canada dans l'arrêt R. c. Wholesale Travel Group Inc.[14] :
+Wholesale Travel a qualité pour contester la constitutionnalité des dispositions relatives à la publicité fausse ou trompeuse en vertu de l'art. 7 et de l'al. 11d) de la Charte et peut bénéficier de la déclaration d'inconstitutionnalité de ces dispositions.
+[18] L'arrêt de la Cour suprême n'étend pas la protection de l'article 7 de la Charte aux sociétés, sauf que les sociétés peuvent bénéficier de la déclaration d'invalidité d'une disposition législative en vertu de l'article 7[15]. Cette exception ne s'applique pas ici. Par conséquent, puisque Main Rehabilitation est une société, elle ne peut invoquer l'article 7 de la Charte.
+Effet de la demande à la Cour fédérale
+[19] Selon la Couronne, puisque Main Rehabilitation a précédemment demandé réparation à la Cour fédérale du Canada, le fait de permettre à Main Rehabilitation de demander de nouveau réparation auprès de la présente Cour constituerait un abus de procédure. À la lumière de mes conclusions sur les autres points, il n'est pas nécessaire que je rende une décision à ce sujet.
+Conclusion
+[20] La position de Main Rehabilitation n'a aucune valeur juridique. Les actes de l'ADRC pendant une vérification ne sont pas pertinents dans un appel adressé à la présente Cour, peu importe que ces actes soient décrits comme discriminatoires, injustes, erronés ou abusifs. Il est opportun de radier les parties de l'avis d'appel qui se rapportent à la question de l'abus de procédure. Les passages soulignés de l'avis d'appel reproduit à l'annexe A devraient être radiés. L'intimée aura 45 jours à compter de la date de la présente ordonnance pour déposer une réponse, et les dépens de la requête seront adjugés à l'intimée, quelle que soit l'issue de la cause.
+Signé à Ottawa, Canada, ce 17e jour de décembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 29e jour de mars 2004.
+Nancy Bouchard, traductrice
+ANNEXE A
+AVIS D'APPEL
+[traduction]
+A) ADRESSE DE L'APPELANTE
+a/s 637, rue College Street
+Bureau 203
+Toronto (Ontario)
+M6G 1B5
+B) COTISATIONS PORTÉES EN APPEL
+1. Les cotisations portées en appel correspondent aux avis de nouvelle cotisation datés du 13 décembre 2002, relativement aux années d'imposition 1996 et 1997 de l'appelante, et à un avis de ratification, également daté du 13 décembre 2002, relativement à l'année d'imposition 1998 de l'appelante, avis que l'appelante a tous reçus le 20 décembre 2002.
+C) FAITS PERTINENTS
+2. L'appelante, société dûment constituée en personne morale en vertu des lois de l'Ontario et du Canada, s'occupe de la pose de conduites d'eau principales. Elle a travaillé en Ontario et au Québec, et tenté de décrocher des marchés notamment en Italie et à Cuba, puisqu'elle doit faire relâche au Canada pendant les mois d'hiver.
+3. La société appelante compte divers administrateurs, actionnaires et cadres.
+4. L'un de ses cadres, M. Robert Taddeo, a engagé en 1996, 1997 et 1998 divers frais de déplacement dans ses efforts pour obtenir des marchés, notamment en Italie et à Cuba.
+5. Pendant les années d'imposition en question, outre les frais de déplacement engagés par le vice-président qui sont décrits à l'alinéa 4 ci-dessus, l'appelante, par l'entremise de M. Taddeo et de certains autres de ses administrateurs, cadres et employés, a engagé des dépenses moyennes pour la représentation et la promotion, et d'autres dépenses pour des lots de travaux, dans le cadre de ses activités et en vue de tirer un revenu.
+6. À la suite d'une vérification illégale, abusive, inconstitutionnelle et prolongée, l'intimé a refusé d'admettre les dépenses suivantes de l'appelante :
+a) 1996 : montant de 319 404 $, par avis de cotisation daté du 15 décembre 1999;
+b) 1997 : montant de 289 480 $, par avis de cotisation daté du 3 avril 2000;
+c) 1998 : montant de 78 198 $, par avis de cotisation daté du 18 juin 2001;
+ces évaluations incluant la pénalité et l'intérêt sur le revenu révisé en fonction des dépenses refusées.
+7. L'appelante a contesté les évaluations ci-dessus aux dates suivantes :
+a) 1996 : le 10 mars 2000;
+b) 1997 : le 28 avril 2000;
+c) 1998 : le 3 juillet 2001.
+8. Par correspondance datée du 13 décembre 2002 et reçue par l'appelante le 20 décembre 2002, l'intimé a répondu de la façon suivante aux objections de l'appelante :
+a) 1996 : en produisant un avis de nouvelle cotisation et en modifiant légèrement les montants refusés;
+b) 1997 : en produisant un avis de nouvelle cotisation et en modifiant légèrement les montants refusés;
+c) 1998 : en ratifiant les montants refusés.
+9. Au dire de l'appelante et d'après les faits, tous les montants refusés ont été refusés à tort étant donné que dans l'ensemble, ces dépenses avaient été engagées dans le cours normal des activités et en vue de tirer un revenu.
+10. L'appelante déclare en outre que la vérification qui est à l'origine de l'établissement des nouvelles cotisations était entachée de mauvaise foi, qu'elle constituait un abus de pouvoir et qu'elle était inconstitutionnelle, notamment pour les raisons suivantes :
+a) elle a eu lieu à la suite d'un faux renseignement dit « anonyme » et des allégations d'un actionnaire mécontent engagé dans un litige avec l'appelante devant les tribunaux de l'Ontario;
+b) elle a été menée par une « vérificatrice » (comptable ou aide-comptable?) qui n'avait pas encore réussi ses examens;
+c) elle a été administrée par un superviseur qui était parent d'un inspecteur municipal, lequel avait eu affaire aux administrateurs, aux cadres et aux employés de l'appelante, en plus d'être l'ami des actionnaires mécontents présentés au point a) ci-dessus;
+d) la vérification qui a été effectuée était telle qu'elle avait été décrite ci-dessus à l'alinéa 6.
+11. Tout autre acte que l'avocat peut conseiller au cours de l'appel.
+D) QUESTIONS À TRANCHER
+12. À savoir si la vérification était un abus de pouvoir en vertu de la common law et un abus de procédure à l'encontre de l'art. 7 de la Charte.
+13. À savoir si les montants refusés ont été refusés par l'intimée à tort en vertu de la Loi de l'impôt sur le revenu.
+E) DISPOSITIONS LÉGISLATIVES
+14. L'appelante a notamment invoqué les dispositions législatives suivantes :
+a) alinéa 18(1)a) et paragraphe 165(3) de la Loi de l'impôt sur le revenu;
+b) articles 7 et 15 de la Charte;
+c) toute autre disposition que l'avocat peut conseiller au cours de l'appel.
+(soulignement ajouté)
+F) MOTIFS
+14. L'appelante déclare que les motifs de l'appel sont les suivants :
+a) la vérification et les cotisations constituent un abus de pouvoir et un abus de procédure en vertu de la common law et des articles 7 et 15 de la Charte, suscités par l'origine ethnique et la nationalité italienne méridionale des cadres, des administrateurs et des employés de l'appelante,
+b) les cotisations établies constituent une erreur manifeste et obstinée, du fait qu'elles n'admettent pas des dépenses d'entreprise engagées de façon régulière en vue de tirer un revenu.
+G) RÉPARATION DEMANDÉE
+15. L'appelante demande donc respectueusement :
+a) que les cotisations établies soient suspendues; ou
+b) annulées; ou
+c) déférées au ministre pour nouvelle cotisation conformément aux motifs de la Cour;
+d) les dépens procureur-client du présent appel;
+e) toute autre réparation que cette honorable Cour jugera équitable.
+H) DATE
+Le 6 mars 2003
+[1] [1990] 2 R.C.S. 959.
+[2] C.C.I., no 2001-893(IT)G, 31 mai 2001 (2001 DTC 702).
+[3] À l'audience, Main Rehabilitation a aussi maintenu que la conduite de l'ADRC allait à l'encontre de l'article 15 de la Charte. Cette position a par la suite été abandonnée par la suite, de sorte que je n'en ai pas tenu compte.
+[4] [2001] 1 R.C.S. 587.
+[5] (1979) 24 O.R. 742 (Ont. C.A.).
+[6]
+99 DTC 5549 (S.C.B.C.).
+[7] C.A.F., no A-416-98, 11 février 1999 (99 DTC 5133).
+[8] Une exception restreinte se trouve dans La Reine c. O'Neill Motors Ltd., C.A.F., no A-815-95, 11 juin 1998 (98 DTC 6424), affaire dans laquelle la Charte a été appliquée pour annuler des cotisations.
+[9] C.A.F., nos A-688-93, A-689-93, A-690-93, A-691-93, 21 décembre 1994 ([1996] 3 C.T.C. 74).
+[10] [2003] F.C.J. No. 1569 (C.A.F.).
+[11] C.A.F., no A-424-01, 26 août 2003 (2003 DTC 5575).
+[12] Il semble que cet argument ait d'abord été soulevé devant la Cour d'appel.
+[13] [1990] 1 R.C.S. 705.
+[14] [1991] 3 R.C.S. 154.
+[15]
+VoirPeter W. Hogg, Constitutional Law of Canada.

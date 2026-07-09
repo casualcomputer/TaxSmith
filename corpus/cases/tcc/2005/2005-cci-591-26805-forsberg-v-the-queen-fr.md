@@ -1,0 +1,132 @@
+---
+title: "Forsberg v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26805/index.do"
+last_modified: "2005-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 591"
+citation2: ""
+neutral_citation: "2005 CCI 591"
+decision_date: "2005-09-08"
+language: "fr"
+item_id: "26805"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3485
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:32:53.544000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b2ab882d82cdaefd83db611128a8cd68b5a79deb195917322fedf591af2d2259"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Forsberg v. The Queen
+
+- Citation: 2005 CCI 591
+- Decision date: 2005-09-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3485, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Forsberg v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-08
+Référence neutre
+2005 CCI 591
+Numéro de dossier
+2004-2473(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI591
+Date : 20050908
+Dossier : 2004-2473(IT)I
+ENTRE :
+KARL FORSBERG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Prononcés de vive voix à l'audience le 11 août 2005, à Vancouver (Colombie-Britannique)
+J. Paris
+[1] Il s'agit d'un appel à l'encontre de nouvelles cotisations établies par le ministre du Revenu national (le « ministre » ) à l'égard de l'appelant pour les années d'imposition 1999 et 2000. L'appelant conteste le rejet des déductions pour frais d'exploration au Canada ( « FEC » ) s'établissant à 8 335 $ en 1999 et 20 000 $ en 2000.
+[2] Les FEC dont la déduction est demandée se rapportent à deux accords de souscription d'actions accréditives que l'appelant a conclus avec Thurlow Resources Ltd. ( « Thurlow » ) le 2 novembre 1999 et le 29 février 2000 respectivement. En vertu de ces accords, Thurlow convenait d'appliquer le produit de l'acquisition des actions par l'appelant, s'établissant à 10 000 $ dans le cas du premier accord et à 20 000 $ dans le cas du second, à un programme d'exploration minière et de renoncer aux FEC relatives à ce programme en faveur de l'appelant. Thurlow était censée renoncer aux FEC relatifs à la totalité du montant de 10 000 $ en 1999 et de 20 000 $ en 2000 en faveur de l'appelant.
+[3] L'Agence des douanes et du revenu du Canada ( « ADRC » ) a subséquemment procédé à une vérification des FEC de Thurlow et déterminé que la totalité du montant, hormis une somme de 1 665 $, auquel elle avait choisi de renoncer en faveur de l'appelant en 1999 et la totalité du montant en cause pour l'année 2000 constituaient des frais généraux d'exploration et d'aménagement au Canada ( « FGEAC » ), au sens du paragraphe 1206(1) du Règlement de l'impôt sur le revenu ( « Règlement » ) étant donné que les montants avaient été payés à M. Bernard Fitch, qui était une « personne rattachée » à Thurlow au sens du paragraphe 1206(7) du Règlement. Les FEC n'ouvraient pas droit à une renonciation en vertu de l'alinéa 66(12.6)b) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[4] Une nouvelle cotisation a ultérieurement été établie à l'égard de Thurlow pour refuser la renonciation aux FEC, et à l'égard de l'appelant pour refuser la déduction des FEC indiqués ci-dessus. Thurlow a déposé un avis d'opposition à la nouvelle cotisation, laquelle a été ratifiée. Thurlow n'a pas interjeté appel de la nouvelle cotisation.
+[5] L'intimée est d'avis que l'appelant ne peut pas interjeter appel de la décision du ministre selon laquelle les dépenses engagées par Thurlow ne constituaient pas des FGEAC. La seconde question à trancher en l'instance est de savoir si les dépenses constituaient en réalité des FGEAC et ouvraient donc droit à une renonciation.
+[6] En ce qui concerne la première question, l'avocat de l'intimée a prétendu que la décision rendue par le ministre contre Thurlow concernant les frais d'exploration en cause avait force exécutoire pour l'appelant. À son avis, il n'y avait qu'un moyen de contester cette décision et c'était que Thurlow interjette appel. L'avocat n'a pas invoqué de précédent au soutien de cette thèse.
+[7] Je note que dans l'arrêt Ressources Orco Inc. c. Canada, no T-2705-93, 26 septembre 1994 (C.A.F). [[1994] F.C.J. no 1405], la demanderesse, une compagnie, avait vendu des actions accréditives à des investisseurs. Des FEC avaient censément été engagés, auxquels elle avait renoncé en faveur des investisseurs. Le ministre a refusé la renonciation en partie, ainsi que les demandes de déductions correspondantes de FEC des investisseurs. La compagnie a ensuite cherché à obtenir un jugement déclaratoire de la Cour fédérale selon lequel tous les frais engagés constituaient des FEC ouvrant droit à une renonciation et, partant, à la déduction de ces frais par les investisseurs comme on le prétendait. La défenderesse a soutenu que la Cour fédérale n'avait pas compétence pour faire droit à la demande de jugement déclaratoire et que le seul moyen de contester le rejet des déductions des FEC demandées était que chaque investisseur interjette appel devant la Cour fédérale à l'encontre des nouvelles cotisations individuelles établies à leur égard. La Cour fédérale a accepté cette thèse en confirmant que les investisseurs individuels pouvaient contester la décision sous-jacente selon laquelle une partie des dépenses en cause ne constituaient pas des FEC.
+[8] Au surplus, le lien entre la nouvelle cotisation établie à l'égard de Thurlow et la nouvelle cotisation corrélative établie à l'égard de l'appelant présente certaines similitudes avec celui qui existe entre un débiteur fiscal principal et secondaire dans le cas d'une cotisation dérivée établie en vertu des articles 160 ou 227.1 de la Loi, étant donné que l'obligation fiscale d'un contribuable est tributaire d'une cotisation qui a été établie à l'égard de l'autre. Dans une situation de ce genre, la Cour d'appel fédérale a déclaré ce qui suit dans l'arrêt Gaucher v. The Queen, 2000 DTC 6678, au paragraphe 6 :
+[...] Il existe une règle fondamentale relevant de la justice naturelle selon laquelle, sous réserve d'une disposition législative à l'effet contraire, une personne non partie à une instance ne saurait être liée par le jugement qui y est prononcé à l'égard d'autres parties. [...]
+[9] A fortiori, en l'absence de disposition législative à l'effet contraire, un contribuable ne peut pas être lié par une nouvelle cotisation établie à l'égard d'un autre contribuable. En l'espèce, étant donné l'interdépendance des nouvelles cotisations établies à l'égard Thurlow et de l'appelant, il serait contraire aux règles de justice naturelle de l'empêcher de contester le fondement de la cotisation établie à l'égard de Thurlow, sur laquelle sa propre nouvelle cotisation est fondée.
+[10] Par conséquent, j'estime qu'il n'existe aucune raison de refuser à l'appelant le droit de contester la décision du ministre selon laquelle les dépenses en cause constituaient des FGEAC.
+[11] L'appelant de l'intimée s'est également opposé à ce que l'appelant soulève la question de savoir si les dépenses constituaient des FGEAC étant donné qu'elle n'était pas énoncée clairement dans son avis d'appel. Certes, l'avis d'appel n'est pas un modèle de clarté, mais je suis convaincu qu'il convenait pour aviser l'intimée que l'appelant entendait soulever la question de savoir si le ministre avait commis une erreur en concluant que les dépenses en litige constituaient des FGEAC, puisque c'est l'unique raison du rejet de la renonciation de Thurlow et de la demande de déduction des FEC de l'appelant. Dans le cas d'un appel interjeté sous le régime de la procédure informelle de la Cour, il faut accorder une certaine latitude aux contribuables qui se représentent eux-mêmes pour rédiger leurs actes de procédure; si l'intimée ne sait pas à quoi s'en tenir au sujet de la question en litige, il lui appartient de communiquer avec le contribuable pour déterminer la nature exacte du litige avant de soulever une objection à l'audience quant à la convenance des actes de procédure.
+[12] À l'audience, M. Forsberg a témoigné pour son compte; il a aussi appelé M. Bernard Fitch, administrateur de Thurlow, comme témoin. M. Nowick, le vérificateur de l'ADC qui a examiné la renonciation de Thurlow aux frais d'exploration au Canada, a témoigné pour le compte de l'intimée.
+[13] Il ressort essentiellement de la preuve de l'appelant que celui-ci n'a pas été avisé par l'ADC que Thurlow n'avait pas interjeté appel de la ratification des nouvelles cotisations concernant les renonciations et qu'après en avoir été informé, il avait essayé en vain de convaincre Thurlow de présenter une demande en vue de déposer un appel tardif. Il estimait que l'affaire aurait dû être prise en main par Thurlow, qui était la mieux placée pour défendre l'appel.
+[14] Bien que les intérêts de l'appelant eussent à l'évidence été mieux servis si Thurlow avait formé un appel valide en vue de faire trancher la question par la Cour, cet argument importe peu aux fins de la conclusion à laquelle je dois en arriver en l'espèce concernant les nouvelles cotisations établies à l'égard de l'appelant pour les années d'imposition 1999 et 2000. Il est dommage que l'appelant soit contraint de dépenser du temps et de l'argent pour défendre la renonciation de Thurlow, mais faute d'appel valide de Thurlow, il ne semble pas avoir d'autre choix en l'espèce.
+[15] La seconde question à trancher, comme il a déjà été indiqué, consiste à déterminer si les frais d'exploration au Canada auxquels Thurlow a voulu renoncer englobaient des FGEAC. Il ressort notamment de la preuve que le vérificateur a rejeté les demandes de déduction de l'appelant au motif que la plupart des dépenses étaient des montants payés par Thurlow à M. Bernard Fitch pour du travail effectué sur le bien minier en question ainsi que pour la location de matériel appartenant à M. Fitch. Le vérificateur a déterminé que M. Fitch était une personne rattachée à Thurlow au sens du paragraphe 1206(7) du Règlement du fait qu'il détenait plus de 10 % des actions émises de Thurlow et que les montants que Thurlow lui avaient versés constituaient donc des FGEAC en vertu du paragraphe 1206(1) du Règlement.
+[16] Selon le paragraphe 1206(7) du Règlement, une personne et une société donnée sont rattachées si la personne a un pourcentage d'intérêt d'au moins 10 pour cent dans la société donnée. La notion de « pourcentage d'intérêt » est pour sa part définie au paragraphe 95(4) de la Loi. Elle s'entend essentiellement de la proportion des actions totales émises d'une société que détient une personne. En l'espèce, le vérificateur a examiné le grand livre des actionnaires de Thurlow et conclu que M. Fitch détenait plus de 10 pour cent du capital émis de Thurlow dans les années 1999 et 2000.
+[17] Une copie du grand livre des actionnaires a été produit en preuve. Il y est indiqué que M. Bernard Fitch détenait entre 350 000 et 400 000 actions de Thurlow en 1999 et 2000. Les actions lui ont été émises aux dates suivantes :
+15 octobre 1997 350 000 actions ordinaires (incessibles)
+15 octobre 1997 14 000 actions ordinaires (librement négociables)
+31 décembre 1997 16 000 actions ordinaires (librement négociables)
+16 mars 2000 20 000 actions ordinaires (librement négociables)
+[18] Le 21 mars 2000, M. Fitch a transféré 50 000 actions incessibles à une autre personne, ce qui lui laissait 350 000 actions.
+[19] En s'appuyant sur ces registres, M. Nowick a déterminé que M. Fitch détenait entre 16 et 22 pour cent des actions de Thurlow dans les années 1999 et 2000, ce qui en faisait une personne rattachée à Thurlow.
+[20] M. Fitch a déclaré qu'il détenait une partie des actions inscrites à son nom en fiducie pour une autre personne. Il a produit une copie d'un accord-mémoire signé concernant Thurlow- daté du 9 juillet 1996 -, en vertu duquel un certain M. Dil Gujral convenait censément d'avancer 10 000 $ à Thurlow en échange de 750 000 actions incessibles et de 10,000 actions ordinaires librement négociables de la société. L'accord prévoyait que M. Fitch et un certain M. George Keir devaient détenir chacun 375 000 de ces actions incessibles en fiducie pour M. Gujral. M. Fitch a déclaré que M. Gujral était un investisseur fortuné qui était actif à la bourse de Vancouver. Aucune raison particulière n'a été invoquée pour expliquer pourquoi M. Gujral avait demandé à MM. Fitch et Keir de détenir ses actions incessibles en fiducie. On a toutefois mentionné que M. Gujral avait des problèmes avec la Commission des valeurs mobilières de la Colombie-Britannique, mais le seul élément de preuve produit pour corroborer ces problèmes est un article de journal daté de 2005.
+[21] Pendant la vérification, M. Nowick a envoyé plusieurs lettres de proposition au représentant de Thurlow, M. Greg Edge, dans lesquelles il exposait la position de l'ADC, selon laquelle M. Fitch était une personne rattachée. Copie de ces lettres a été envoyée à M. Fitch. Or, ni M. Edge ni M. Fitch n'ont informé le vérificateur que M. Fitch n'était pas le véritable propriétaire de toutes les actions inscrites à son nom ou qu'il détenait des actions en fiducie pour M. Gujral.
+[22] Après avoir examiné l'ensemble de la preuve qui a été présentée à l'audience, je ne suis pas convaincu que M. Fitch détenait des actions en fiducie pour M. Gujral durant les périodes pertinentes. J'estime que M. Fitch n'est pas un témoin digne de foi à cet égard. Il y a de nombreuses incohérences entre le prétendu accord de vente d'actions conclu avec M. Gujral le 9 juillet 1996 et les livres et registres de la société ainsi que les documents relatifs à la vérification.
+[23] Premièrement, l'accord avec M. Gujral était daté du 9 juillet 1996, alors que les premières actions de Thurlow n'ont été émises à M. Fitch et aux autres particuliers que le 15 octobre 1997. Aucune explication n'a été fournie concernant l'écart de 15 mois entre l'accord et la première émission d'actions.
+[24] Deuxièmement, le nombre d'actions incessibles qui étaient censées être émises à MM. Fitch et Keir et détenues en fiducie pour M. Gujral ne correspond pas au nombre d'actions incessibles qui leur ont été émises. Si l'accord avec M. Gujral stipule que MM. Keir et Fitch doivent détenir chacun 375 000 actions incessibles en fiducie, le grand livre pour actionnaires de Thurlow indique que M. Keir n'a jamais détenu plus de 100 000 actions incessibles et M. Fitch lui-même, jamais plus de 350 000.
+[25] Troisièmement, l'accord avec M. Gujral prévoit l'émission de 100 000 actions ordinaires en libre négociation de Thurlow à M. Gujral en son nom propre. Or, aucune action de ce genre ne lui a été émise.
+[26] Quatrièmement, le grand livre indique que M. Fitch a transféré 50 000 actions incessibles à un autre particulier en 2000. Cela ne me semble pas concorder avec la preuve de M. Fitch, selon laquelle il détenait 375 000 actions incessibles en fiducie pour M. Gujral. Nulle mention n'a été faite que les 50 000 actions ont été transférées à la demande de M. Gujral, lequel aurait dû donner des directives en ce sens si M. Fitch avait détenu les actions de M. Gujral en fiducie.
+[27] Enfin, comme il a déjà été mentionné, même si M. Fitch savait durant la vérification que l'une des questions soulevées par le vérificateur était liée au fait qu'il détenait plus de 10 pour cent des actions de Thurlow, ni M. Fitch ni le représentant de Thurlow n'ont indiqué que M. Fitch détenait des actions en fiducie. De plus, M. Gujral n'a pas été appelé comme témoin pour corroborer la preuve de M. Fitch concernant l'accord du 9 juillet 1996; j'en conclus que cette preuve n'aurait pas été favorable à l'appelant. En conclusion, il m'apparaît que l'accord avec M. Gujral n'a jamais été mis à exécution par les parties.
+[28] Pour l'ensemble de ces motifs, j'estime que M. Fitch était le véritable propriétaire de plus de 10 pour cent des actions émises de Thurlow dans les années 1999 et 2000, qu'il était une personne rattachée à Thurlow et que les montants qui lui ont été versés par Thurlow constituaient des FGEAC et n'ouvraient pas droit à une renonciation par Thurlow en faveur de l'appelant. L'appel est donc rejeté.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2005.
+« B. Paris »
+J. Paris
+Traduction certifiée conforme
+ce 28e jour d'octobre 2005.
+Ginette Côté, trad. a.
+RÉFÉRENCE : 2005CCI591
+NO DU DOSSIER DE LA COUR : 2004-2473(IT)I
+INTITULÉ DE LA CAUSE : KARL FORSBERG ET LA REINE
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : le 11 août 2005
+MOTIFS DU JUGEMENT PAR : l'honorable juge B. Paris
+DATE DU JUGEMENT : le 8 septembre 2005
+COMPARUTIONS :
+Pour l'appelante :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Gavin Laird
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

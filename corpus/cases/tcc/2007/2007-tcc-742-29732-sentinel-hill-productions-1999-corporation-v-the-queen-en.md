@@ -1,0 +1,222 @@
+---
+title: "Sentinel Hill Productions (1999) Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29732/index.do"
+last_modified: "2007-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 742"
+citation2: ""
+neutral_citation: "2007 TCC 742"
+decision_date: "2007-12-19"
+language: "en"
+item_id: "29732"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6540
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:27:55.362000+00:00"
+cases_cited_count: 5
+cases_citing_count: 39
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e96cd115ea007ad16dc947507a8e9026651c3e7ca41e174db031a10aa7c9c35c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sentinel Hill Productions (1999) Corporation v. The Queen
+
+- Citation: 2007 TCC 742
+- Decision date: 2007-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6540, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sentinel Hill Productions (1999) Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-19
+Neutral citation
+2007 TCC 742
+File numbers
+2006-3455(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3455(IT)G
+BETWEEN:
+SENTINEL HILL PRODUCTIONS (1999) CORPORATION,
+in its capacity as designated member of
+SENTINEL HILL 1999 MASTER LIMITED PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2007-329(IT)G
+BETWEEN:
+ROBERT STROTHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard together on December 4, 2007, at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Warren J.A. Mitchell, Q.C.
+David R. Davies
+Counsel for the Respondent:
+Robert Carvalho
+Michael Taylor
+____________________________________________________________________
+ORDER
+Upon motions made by counsel for the respondent for an order under Rule 53 of the Tax Court of Canada Rules (General Procedure) to strike out 22 full paragraphs and a part of one other paragraph of the further amended notice of appeal of Sentinel Hill Productions (1999) Corporation, in its capacity as designated member of Sentinel Hill 1999 Master Limited Partnership;
+And to strike 18 paragraphs of the further amended notice of appeal of Robert Strother;
+The motions are dismissed with costs payable by the Crown to the appellants in any event of the cause.
+The appellants have 30 days from the date of this order in which to file replies.
+Signed at Ottawa, Canada, this 19th day of December 2007.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2007TCC742
+Date: 20071219
+Docket: 2006-3455(IT)G
+BETWEEN:
+SENTINEL HILL PRODUCTIONS (1999) CORPORATION,
+in its capacity as designated member of
+SENTINEL HILL 1999 MASTER LIMITED PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2007-329(IT)G
+BETWEEN:
+ROBERT STROTHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowman, C.J.
+[1] In these motions the respondent seeks an order under Rule 53 of the Tax Court of Canada Rules (General Procedure) to strike out 22 full paragraphs and a part of one other paragraph of the further amended notices of appeal of Sentinel Hill Productions (1999) Corporation (“Sentinel Hill”) and 18 paragraphs of the further amended notice of appeal of Robert Strother.
+[2] Rule 53 reads as follows:
+Striking out a Pleading or other Document
+Radiation d’un acte de procédure ou d’un autre document
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+53. La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+(a) may prejudice or delay the fair hearing of the action,
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+(b) is scandalous, frivolous or vexatious, or
+b) est scandaleux, frivole ou vexatoire;
+(c) is an abuse of the process of the Court.
+c) constitue un recours abusif à la Cour.
+[3] Essentially the impugned paragraphs contain assertions that the appellants entered into certain transactions involving Canadian-based production services in respect of full‑length motion picture films and television productions and that in doing so they relied upon a number of advance income tax rulings issued by the Canada Revenue Agency (“CRA”) in respect of the investment in limited partnerships. For the purposes of the motions I shall assume that the limited partnerships were tax shelters as defined in section 237.1 of the Income Tax Act.
+[4] I shall begin by outlining what I believe are the principles to be applied on a motion to strike under Rule 53. There are many cases in which the matter has been considered both in this court and the Federal Court of Appeal. It is not necessary to quote from them all as the principles are well established.[1]
+(a) The facts as alleged in the impugned pleading must be taken as true subject to the limitations stated in Operation Dismantle Inc. v. Canada, [1985] 1 S.C.R. 441 at 455. It is not open to a party attacking a pleading under Rule 53 to challenge assertions of fact.
+(b) To strike out a pleading or part of a pleading under Rule 53 it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care.
+(c) A motions judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence.
+(d) Rule 53 and not Rule 58, is the appropriate rule on a motion to strike.
+[5] We have here a number of paragraphs that allege that advance rulings were obtained and that the transactions in issue conformed to the advance rulings. Counsel for the respondent seeks, in these motions, to dispute those allegations of fact. Among the paragraphs in the Sentinel Hill’s further amended notice of appeal that the respondent seeks to strike are the following:
+4.A. SHEC also owns all the shares of Sentinel Hill Productions Corporation and Sentinel Hill Productions II Corporation. Sentinel Hill Productions Corporation is the sole general partner of the Sentinel Hill 1998 Master Limited Partnership. Sentinel Hill Productions II Corporation is the sole general partner of the Sentinel Hill 1998-2 Master Limited Partnership.
+. . . . .
+36. On October 6, 1998 (the “October 1998 Ruling”) and December 18, 1998 (the “December 1998 Ruling”) the Rulings Division of the CRA issued binding advance income tax rulings to SHEC in respect of transactions that were the same, in all material respects, as those concluded by SHEC with respect to the Appellant and the Partnership.
+36.A. The October 6, 1998 Ruling was in respect of transactions undertaken by SHEC, its subsidiary Sentinel Hill Productions Corporation, and the Sentinel Hill 1998 Master Limited Partnership, among others.
+36.B. The December 18, 1998 Ruling was in respect of transactions undertaken by SHEC, its subsidiary Sentinel Hill Productions II Corporation, and the Sentinel Hill 1998-2 Master Limited Partnership, among others.
+36.C. The rulings issued to SHEC were in respect of, among the other things, the existence of a partnership, the computation of at-risk amounts, and the non‑applicability of the matchable expenditure rules.
+36.D. The CRA Rulings Division’s widely-known and accepted practice in issuing rulings to promoters of multiple partnerships was to issue a single ruling which was valid in respect of all transactions implemented by that promoter that were the same, in all material respects, as those outlined in the ruling.
+36.E. SHEC paid a fee to the CRA in respect of each ruling.
+37. In December 1999, counsel for SHEC, the Appellant, the Partnership and the PLPs began discussions and corresponded with representatives of the Rulings Division of CRA to refresh the October 1998 Ruling and the December 1998 Ruling. Those discussions culminated in the Rulings Division of CRA issuing another binding advance income tax ruling on February 21, 2000.
+38. SHEC, the Appellant, the Partnership, the PLPs, and the Limited Partners relied on the October 1998 Ruling, the December 1998 Ruling and the preliminary discussions and correspondence for the February 2000 Ruling in investing in the partnerships and in undertaking the Productions.
+39. The Minister intended that, and knew or ought to have known that, SHEC, the Appellant, the Partnership, the PLPs, and the Limited Partners would rely on the October 1998 Ruling, the December 1998 Ruling and the preliminary discussions and correspondence for the February 2000 Ruling in investing in the partnerships and in undertaking the Productions.
+39.A. The Minister based his assumptions in reassessing on a comparison of the facts set forth in the rulings with the facts as he found them in the transactions here in issue.
+. . . . .
+50.A. The 1999 PLP Determinations and the 1999 Determinations were issued notwithstanding that the transactions accorded with the advance income tax rulings, practice, correspondence and discussions described in paragraphs 36 to 39A hereof, on which the Appellant and the Limited Partners relied.
+. . . . .
+58.A. The 2000 PLP Determinations and the 2000 Determination were issued notwithstanding that the transaction accorded with the advance income tax rulings, practice, correspondence and discussions described in paragraphs 36 to 39A hereof, on which the Appellant and the Limited Partners relied.
+59. The issues to be decided in this appeal in respect of the 1999 Determination are:
+(a) whether the Minister is estopped from raising all or any part of the 1999 Determination due to the Minister’s practice of issuing binding advance income tax rulings to the Sentinel Hill group and others, in particular by the issuance of the October 1998 Ruling, the December 1998 Ruling and the February 2000 Ruling;
+(a.1) whether the October 6, 1998 Ruling, the December 18, 1998 Ruling, the CRA’s practice in issuing such rulings and the related correspondence and discussions constitute an agreement binding on the Minister to assess the Partnership and the Limited Partners in accordance therewith and, if so, whether the Minister in fact assessed in accordance with the agreement thereby established;
+. . . . .
+60. The issues to be decided in this appeal in respect of the 2000 Determination are:
+(a) whether the Minister is estopped from raising all or any part of the 2000 Determination due to the Minister’s practice of issuing binding advance income tax rulings to the Sentinel Hill group and others, in particular by the issuance of the October 1998 Ruling, the December 1998 Ruling and the February 2000 Ruling, and in light of the recommended revisions to the structure made by the CRA Rulings Division in 1998;
+(a.1) whether the October 6, 1998 Ruling, the December 18, 1998 Ruling, the CRA’s practice in issuing such rulings and the related correspondence and discussions constitute an agreement binding on the Minister to assess the Partnership and the Limited Partners in accordance therewith and, if so, whether the Minister in fact assessed in accordance with the agreement thereby established;
+. . . . .
+60.A. Whether solicitor and client or other special costs should be awarded to the Appellant because of the issuance of the Determinations and Confirmations thereof and the prosecution of this appeal by the Respondent notwithstanding the advance income tax rulings, discussions and correspondence described in paragraphs 36 to 39.A hereof and relied on by the Appellant and the Limited Partners.
+. . . . .
+62. The Appellant, its related entities and the limited partners of the Partnership relied on the advance income tax rulings issued by the Rulings Division of the CRA, and the Minister knew of that reliance. Accordingly, the Minister is estopped from issuing the 1999 Determination and the 2000 Determination in contravention of the rulings.
+62.A. The rulings, practice, correspondence and discussions described in paragraphs 36 to 39.A hereof constituted an agreement binding on the Minister to assess in accordance therewith, which the Minister has breached in issuing the 1999 Determination and the 2000 Determination. The 1999 Determination and 2000 Determination, to the extent they are inconsistent with that agreement, should be vacated.
+. . . . .
+72. The Appellant says that in issuing the Determination in issue and prosecuting this appeal notwithstanding the advance income tax rulings, correspondence and discussions referred to in paragraphs 36 to 39A hereof, the Respondent has acted in an improper and vexatious manner for which solicitor and client or other special costs should be awarded to the Appellant.
+[6] The paragraphs which the respondent seeks to strike from the Strother notice of appeal are similar. Most of the paragraphs attacked by the respondent contain allegations of fact which must be taken as true for the purposes of this motion. If the respondent wishes to challenge the facts alleged, a section 53 motion is not the place in which to do so. It is at trial where a judge hearing the evidence can determine the correctness, relevancy and weight to be assigned to the evidence adduced in support of the allegations.
+[7] The respondent seeks to strike out the paragraphs on the basis that they contain references to the doctrine of estoppel. It is clear that estoppel cannot prevail against the law. Mr. Mitchell, counsel for the appellants, agrees with this and so do I.
+[8] Mr. Mitchell quotes from a decision I rendered a number of years ago in Goldstein v. The Queen, 96 DTC 1029 at 1033:
+There is much authority relating to the question of estoppel in tax matters and no useful purpose would be served by yet another review of the cases. I shall endeavour however to set out the principles as I understand them, at least to the extent that they are relevant. Estoppels come in various forms — estoppel in pais, estoppel by record and estoppel by deed. In some cases reference is made to a concept of “equitable estoppel”, a phrase which may or may not be accurate. It is sufficient to say that the only type of estoppel with which we are concerned here is estoppel in pais. In Canadian Superior Oil Ltd. v. Paddon-Hughes Development Co. Ltd. [1970] S.C.R. 932 at 939-940 Martland, J. set out the factors giving rise to an estoppel as follows:
+The essential factors giving rise to an estoppel are I think:
+(1) A representation or conduct amounting to a representation intended to induce a course of conduct on the part of the person to whom the representation is made.
+(2) An act or omission resulting from the representation, whether actual or by conduct, by the person to whom the representation is made.
+(3) Detriment to such person as a consequence of the act or omission.
+Estoppel is no longer merely a rule of evidence. It is a rule of substantive law. Lord Denning calls it “a principle of justice and of equity.”
+It is sometimes said that estoppel does not lie against the Crown. The statement is not accurate and seems to stem from a misapplication of the term estoppel. The principle of estoppel binds the Crown, as do other principles of law. Estoppel in pais, as it applies to the Crown, involves representations of fact made by officials of the Crown and relied and acted on by the subject to his or her detriment. The doctrine has no application where a particular interpretation of a statute has been communicated to a subject by an official of the government, relied upon by that subject to his or her detriment and then withdrawn or changed by the government. In such a case a taxpayer sometimes seeks to invoke the doctrine of estoppel. It is inappropriate to do so not because such representations give rise to an estoppel that does not bind the Crown, but rather, because no estoppel can arise where such representations are not in accordance with the law. Although estoppel is now a principle of substantive law it had its origins in the law of evidence and as such relates to representations of fact. It has no role to play where questions of interpretation of the law are involved, because estoppels cannot override the law.
+Lastly, in a footnote near the end of the judgment (at p. 1034):
+I leave aside entirely the question of advance rulings which form so important and necessary a part of the administration of the Income Tax Act. These rulings are treated by the Department of National Revenue as binding. So far as I am aware no advance ruling that has been given to a taxpayer and acted upon has ever been repudiated as against the taxpayer to whom it was given. The system would fall apart if he ever did so.
+[9] Whether the factual components giving rise to an estoppel exist is a matter for the trial judge.
+[10] So far as the words scandalous, frivolous or vexatious are concerned, the most frequently quoted (and authoritative) passages are the following:
+An excellent statement of the test for striking out a claim under such provisions is that set out by Wilson J. in Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959 (S.C.C.), at p. 980:
+... assuming that the facts as stated in the statement of claim can be proved, is it "plain and obvious" that the plaintiff's statement of claim discloses no reasonable cause of action? As in England, if there is a chance that the plaintiff might succeed, then the plaintiff should not be "driven from the judgment seat". Neither the length and complexity of the issues, the novelty of the cause of action, nor the potential for the defendant to present a strong defence should prevent the plaintiff from proceeding with his or her case. Only if the action is certain to fail because it contains a radical defect . . . should the relevant portions of a plaintiff's statement of claim be struck out . . . .
+The test is a stringent one. The facts are to be taken as pleaded. When so taken, the question that must then be determined is whether there it is "plain and obvious" that the action must fail. It is only if the statement of claim is certain to fail because it contains a "radical defect" that the plaintiff should be driven from the judgment seat.... [emphasis added]
+Odhavji Estate v. Woodhouse, [2003] 2 S.C.R. 263, 2003 SCC 69.
+[11] I do not see how, in light of the jurisprudence on Rule 53, it can be said that it is plain and obvious that the arguments and facts advanced in the further amended notices of appeal fall within any of the provisions of Rule 53. Whether I agree that the factual components of estoppel exist or whether the advance rulings constitute agreements is not germane to the disposition of these motions. The appellants should be entitled to advance such arguments at trial on the basis of all the evidence. However much jurisprudence may surround the words “scandalous, frivolous or vexatious, or abuse of the process of the Court”, they are nonetheless strong, emotionally charged and derogatory expressions denoting pleading that is patently and flagrantly without merit. Their application should be reserved for the plainest and most egregiously senseless assertions – as for example in William Shawn Davitt v. The Queen, 2001 DTC 702. Where senior and experienced counsel advances a proposition of fact or law in a pleading that merits serious consideration by a trial judge, it is at least presumptuous and at most insulting and offensive to force counsel to face the argument that the position is so lacking in merit that it does not even deserve to be considered by a trial judge. It is a deplorable tactic for the Crown, as soon as it sees a legal argument that it does not like, to move to strike. As I said in Sackman v. The Queen, 2007 TCC 455, it is this sort of skirmishing that is putting tax litigation out of the reach of ordinary people. I do not wish to see this court turned into a forum for procedural manoeuvring. I repeat what was said in Satin Finish Hardwood Flooring (Ontario) Limited v. The Queen, 96 DTC 1402 at 1405:
+There was no justification for bringing this motion. It serves no purpose within the context of this litigation. The time that has been spent on this exercise in procedural oneupmanship would have been better spent, following the filing and serving of a reply, in conducting an examination for discovery in which the evidentiary basis of the appellant's challenge to the assessment could readily have been ascertained. The rules of this court, which are designed to facilitate, not impede, the expeditious determination of fiscal disputes, should not be used to carry out unproductive procedural manoeuvring.
+[12] The respondent’s position is ambivalent. I asked counsel if he was saying that advance rulings were not binding or that the appellants had not conformed to them. His answer was “Both”. If the argument is that they do not apply to the appellants or that their terms had not been complied with, this is a factual matter that contradicts the allegations in the notices of appeal. It cannot be raised on these motions. It must be decided on evidence at trial. If the respondent is now seeking to establish that advance rulings can be repudiated by the Minister after decades of reliance by taxpayers upon them, this proposition, which would startle most practitioners, should be tested in a full trial and not a preliminary motion. This preliminary motion is certainly not the time or place to discuss the complex issues arising out of the Minister’s remarkable position. The rulings process, which was created by Revenue Canada and has been enormously beneficial to taxpayers in creating certainty in predicting the tax consequences of commercial transactions, constitutes a fundamental cornerstone of Canadian tax administration. The idea that a motions judge could, on the basis of a one hour argument without evidence, demolish one of the essential underpinnings of our system is, quite frankly, appalling.
+[13] The magnitude of this question transcends the boundaries of a preliminary motion and is indeed of a greater importance in the field of taxation than any I have seen in many years.[2]
+[14] The motions are dismissed with costs payable by the Crown to the appellants in any event of the cause.
+[15] The appellants have 30 days from the date of this order in which to file replies.
+Signed at Ottawa, Canada, this 19th day of December 2007.
+“D.G.H. Bowman”
+Bowman C.J.
+CITATION: 2007TCC742
+COURT FILES NOS.: 2006-3455(IT)G
+2007-329(IT)G
+STYLE OF CAUSE: Sentinel Hill Productions (1999) Corporation and Robert Strother
+v. Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: December 4, 2007
+REASONS FOR JUDGMENT BY: The Honourable D.G.H. Bowman,
+Chief Justice
+DATE OF JUDGMENT: December 19, 2007
+APPEARANCES:
+Counsel for the Appellants:
+Warren J.A. Mitchell, Q.C.
+David R. Davies
+Counsel for the Respondent:
+Robert Carvalho
+Michael Taylor
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Thorsteinssons / Barristers & Solicitors
+Firm: P.O. Box 49123, 3 Bentall Centre
+27th Floor – 595 Burrard Street
+Vancouver, B.C. V7X 1J2
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Among the cases referred to by counsel are The Queen v. Enterac Property Corporation, 98 DTC 6202; Niagara Helicopters Ltd. v. The Queen, 2003 DTC 513 at 514; Gauthier v. The Queen, 2006 DTC 3050.
+[2] There is a very full discussion of the question in an article in the University of Toronto Faculty of Law Review, Vol. 57 / number 2 / Spring 1999. Holding Revenue Canada to its word: Estoppel in Tax Law, Glen Loatzenheiser. A similar question in the United Kingdom is discussed in the Cambridge Law Journal 53(2), July 1994, page 273: The Revenue giveth – the Revenue taketh away.

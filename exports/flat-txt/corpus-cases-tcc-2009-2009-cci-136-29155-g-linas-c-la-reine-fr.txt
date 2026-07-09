@@ -1,0 +1,156 @@
+Title: Gélinas c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29155/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-136-29155-g-linas-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-03-23
+
+# Gélinas c. La Reine
+
+- Citation: 2009 CCI 136
+- Decision date: 2009-03-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6715, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gélinas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-23
+Référence neutre
+2009 CCI 136
+Numéro de dossier
+2008-1263(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1263(IT)I
+ENTRE :
+MARCEL GÉLINAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 2 mars 2009, à Ottawa (Ontario)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentant de l'appelant :
+Louis Leclair
+Avocat de l'intimée :
+Me Sara Chaudhary
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003 et 2004 est accueilli, mais uniquement en ce qui concerne la portée de l’accord des parties à l’égard des dépenses d’entreprise, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de mars 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 136
+Date : 20090323
+Dossier : 2008-1263(IT)I
+ENTRE :
+MARCEL GÉLINAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel entendu sous le régime de la procédure informelle de nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») à l’égard de l’appelant pour les années d’imposition 2002, 2003 et 2004. Aux termes de la nouvelle cotisation pour l’année d’imposition 2002, le ministre a ajouté au revenu de l’appelant le montant de 24 025 $. En effet, le ministre a ajouté au revenu de l’appelant pour cette année d’imposition le montant de 22 415 $ à titre de revenus non déclarés en vertu du paragraphe 9(1) de la Loi de l’impôt sur le revenu (la « Loi »). De plus, le ministre a refusé à l’appelant pour l’année d’imposition 2002, un montant de 1 610 $ déclaré par ce dernier à titre de dépenses d’entreprise. Le ministre a aussi imposé à l’appelant une pénalité en vertu du paragraphe 163(2) de la Loi sur le revenu non déclaré de 22 415 $ pour l’année d’imposition 2002. Enfin, le ministre a imposé à l’appelant pour l’année d’imposition 2002 une pénalité pour production tardive de 34,21 $, en vertu du paragraphe 163(2) de la Loi. Aux termes de la nouvelle cotisation pour l’année d’imposition 2003, le ministre a ajouté au revenu de l’appelant le montant de 10 989 $. En effet, le ministre a ajouté au revenu de l’appelant pour l’année d’imposition 2003 le montant de 834 $ à titre de revenus non déclarés en vertu du paragraphe 9(1) de la Loi. De plus, le ministre a refusé à l’appelant, pour l’année d’imposition 2003, un montant de 10 155 $ déclaré par ce dernier à titre de dépenses d’entreprise. Aux termes de la nouvelle cotisation pour l’année d’imposition 2004, le ministre a ajouté au revenu de l’appelant le montant de 10 204 $. En effet, le ministre a ajouté au revenu de l’appelant, pour l’année d’imposition 2004, le montant de 7 319 $ à titre de revenus non déclarés en vertu du paragraphe 9(1) de la Loi. De plus, le ministre a imposé à l’appelant une pénalité en vertu du paragraphe 163(2) de la Loi sur ce revenu non déclaré de 7 319 $. Enfin, le ministre a refusé à l’appelant pour son année d’imposition 2004, un montant de 2 885 $ déclaré par ce dernier à titre de dépenses d’entreprise.
+[2] Je souligne immédiatement que les parties en sont venues à une entente, lors de l’audience, à l’égard des dépenses d’entreprise déclarées par l’appelant pour les années d’imposition en question. Les parties ont convenu que des dépenses supplémentaires de 942 $, de 1 051 $ et de 1 273 $ avaient été encourues par l’appelant dans le but de gagner du revenu d’entreprise au cours des années d’imposition 2002, 2003 et 2004, respectivement. Je note aussi que l’appelant a admis lors de l’audition que le ministre était justifié de lui imposer pour l’année d’imposition 2002 une pénalité pour production tardive au montant de 34,21 $, en vertu du paragraphe 162(1) de la Loi et d’ajouter à son revenu les montants de 22 415 $, de 834 $ et de 7 319 $ à titre de revenus d’entreprise pour les années d’imposition 2002, 2003 et 2004, respectivement. Par conséquent, la seule question en litige est la suivante : est-ce que le ministre était justifié d’imposer à l’appelant une pénalité en vertu du paragraphe 163(2) de la Loi sur les revenus non déclarés de 22 415 $ et de 7 319 $ pour les années d’imposition 2002 et 2004, respectivement.
+[3] En établissant et en ratifiant les nouvelles cotisations pour les années d’imposition 2002, 2003 et 2004, le ministre s’est fondé sur les hypothèses de fait suivantes qui ont été ni admises ni niées :
+a) Au cours des années d’imposition en litige, l’appelant était un conseiller en sécurité financière (courtier d’assurance) (ci‑après l’« entreprise »);
+b) L’entreprise de l’appelant a débuté en octobre 1987;
+c) Au cours des années d’imposition en litige, l’appelant était le seul propriétaire de son entreprise;
+d) L’appelant recevait des commissions de différentes compagnies avec lesquelles il transigeait;
+e) L’appelant transigeait souvent avec un agent général (Groupe Langevin) en ce qui a trait aux tâches administratives dans le domaine de l’assurance;
+f) L’appelant enseignait également le français « langue seconde » à des fonctionnaires;
+g) La tenue des livres et registres était effectuée par l’appelant;
+h) Au cours de la vérification, l’appelant a mentionné ce qui suit :
+i) Il conciliait mensuellement et annuellement ses revenus et dépenses;
+ii) Sa méthode de déclarer ses revenus consistait à additionner les montants figurant aux relevés mensuels et annuels reçus par les tiers et à faire les rapprochements aux dépôts inscrits à son compte bancaire, puisque certaines commissions étaient déposées directement à son compte par transactions de débit;
+iii) Il était également responsable de déposer le produit de ses ventes;
+iv) Il totalisait lui-même ses revenus et dépenses avant de soumettre ces totaux à son comptable;
+v) Le comptable préparait les déclarations de revenu de l’appelant à partir des totaux soumis;
+vi) Le comptable n’effectuait aucune vérification ou ajustement aux chiffres fournis par l’appelant;
+i) Une vérification de l’entreprise de l’appelant a été effectuée par le vérificatrice du ministre (ci‑après, la « vérificatrice »), pour les années d’imposition 2002, 2003 et 2004;
+j) La vérificatrice a vérifié :
+i) Les sommaires des dépenses;
+ii) Les relevés bancaires ainsi que les relevés mensuels de cartes de crédit;
+iii) Les comptes de taxes et les reçus d’achats;
+iv) Les factures de ventes pour les revenus d’enseignement;
+v) Des pièces justificatives relatives aux dépenses d’entreprise de l’appelant;
+vi) Les relevés mensuels et annuels des commissions versées de tiers, fournis par l’appelant;
+k) La vérificatrice a effectué l’analyse des dépôts bancaires;
+Revenus non déclarés
+l) Suite à la vérification, la vérificatrice a déterminé que l’appelant n’avait pas déclaré les montants respectifs de 22 415 $, 834 $ et 7 319 $ pour les années d’imposition 2002, 2003 et 2004;
+m) Ces montants représentent des commissions de compagnies d’assurance versées à l’appelant;
+Dépenses d’entreprise refusées
+n) Dans le cadre de son entreprise (commissions sur ventes), l’appelant rencontrait rarement ses clients à son domicile mais plutôt chez son agent général ou à un autre bureau à Hull;
+o) Lors de sa vérification, la vérificatrice a déterminé que les montants respectifs de 1 610 $, 10 155 $ et 2 885 $ pour les années d’imposition 2002, 2003 et 2004 (voir détail en annexes I, II et III), étaient soit :
+i) Des dépenses personnelles de l’appelant;
+ii) Des dépenses non admissibles;
+iii) Des dépenses concernant d’autres années d’imposition que les années en litige;
+iv) Des dépenses non appuyées de pièces justificatives valides;
+v) Des dépenses réclamées en double;
+vi) Des dépenses réclamées dans le mauvais poste de dépenses;
+p) Lors de sa vérification, la vérificatrice a aussi déterminé que l’appelant n’avait plus de solde reportable de dépenses relativement à la partie de la résidence personnelle utilisée pour fins de l’entreprise, à la fin de l’année d’imposition 2004, (voir détail en annexe IV);
+Pénalité pour production tardive
+2002
+q) L’appelant aurait dû produire sa déclaration de revenu pour son année d’imposition 2002, le ou avant le 15 juin 2003;
+r) L’appelant a produit sa déclaration de revenu pour son année d’imposition 2002, le 3 juillet 2003;
+s) En raison du retard à produire sa déclaration de revenu pour son année d’imposition 2002, le ministre a imposé à l’appelant une pénalité pour production tardive en vertu du paragraphe 162(1) de la Loi, au montant de 34,21 $.
+Témoignage de l’appelant
+[4] L’appelant a témoigné que c’était son comptable, monsieur Paquin, qui avait préparé ses déclarations de revenu pour les années d’imposition en question. L’appelant a expliqué que c’était monsieur Paquin qui avait établi pour chacune des années d’imposition son revenu brut d’entreprise (qui apparaît à la ligne 132 des déclarations fiscales), et ce, à partir de la documentation qu’il lui avait remise, documentation qui incluait notamment les relevés mensuels des compagnies d’assurances et ses relevés bancaires. Je souligne immédiatement que, lors de l’entrevue initiale du 20 janvier 2006, l’appelant avait déclaré à madame Estelle Lavigne (la vérificatrice responsable de la vérification du dossier de l’appelant) que « monsieur Paquin faisait ses impôts à partir de totaux qu’il lui fournissait et que monsieur Paquin ne faisait aucune vérification ». L’appelant a expliqué qu’il avait examiné sa déclaration de revenu pour l’année d’imposition 2002 avant de la signer. Par ailleurs, l’appelant a témoigné qu’il n’avait pas examiné sa déclaration de revenu pour l’année d’imposition 2004, déclaration que monsieur Paquin avait transmise par voie électronique. L’appelant a raconté que, lors de l’examen de sa déclaration de revenu pour l’année d’imposition 2002, il avait noté que son revenu brut d’entreprise était peu élevé. L’appelant a expliqué qu’il n’avait pas vraiment cherché à comprendre les raisons pour lesquelles son revenu brut d’entreprise était peu élevé, étant convaincu que le montant était exact puisqu’il avait été déterminé par monsieur Paquin, une personne qui avait plus d’expertise que lui en matière fiscale et en qui il avait mis toute sa confiance. Somme toute, l’appelant a essayé de se dégager de sa responsabilité en pointant du doigt son comptable qui aurait omis de comptabiliser tous ses revenus d’entreprise bien qu’il eût entre ses mains toute la documentation nécessaire pour l’établir correctement.
+Analyse et conclusion
+[5] Le paragraphe 163(2) de la Loi impose une pénalité à toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration pour une année d’imposition ou y participe, y consent ou y acquiesce. Plus précisément, la partie du paragraphe 163(2) de la Loi qui précède les modalités de calcul de la pénalité se lit comme suit :
+163(2) Faux énoncés ou omissions
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : [. . . ]
+En vertu du paragraphe 163(3) de la Loi, le fardeau d’établir les faits qui justifient l’imposition de la pénalité repose sur le ministre et non sur le contribuable. Le paragraphe 163(3) de la Loi se lit comme suit :
+163(3) Charge de la preuve relativement aux pénalités
+Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[6] Comme le juge Dussault l’a dit dans la décision Prud’homme c. Canada, 2005 CCI 423, au paragraphe 47 :
+[. . . ] les faits qui justifient l’imposition d’une pénalité pour faute lourde en vertu du paragraphe 163(2) de la Loi doivent être analysés en fonction de leur contexte particulier, ce qui rend toute comparaison avec les faits d’une autre situation purement aléatoire, sinon carrément dangereuse.
+[7] La notion de « faute lourde » qui est acceptée par la jurisprudence est celle qui a été définie par le juge Strayer dans la décision Venne c. Canada (ministre du Revenu national – M.R.N.) (C.F. 1re inst.), [1984] 4 C.F. no 314 :
+[. . .] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [ . . .]
+[8] Dans DeCosta c. Canada, [2005] A.C.I. no 396 (C.C.I. procédure informelle), le juge en chef Bowman fit référence à la décision rendue dans l’arrêt Undell v. M.N.R., [1969] C.T.C. 704, 70 DTC 6019 (C. de l’É.), et à deux décisions rendues par le juge Rip (tel était alors son titre) et fit les commentaires suivants :
+9 Je n'ai aucune difficulté à concilier la décision du juge Cattanach avec celles du juge Rip. Elles découlent toutes d'une conclusion de fait tirée par la cour concernant le rôle joué par les contribuables. Les questions qui se posent dans chaque cas, si on fait abstraction de la question de la préméditation qui n'est pas pertinente en l'espèce, sont les suivantes :
+a) « le contribuable a-t-il commis une faute en faisant un faux énoncé ou une omission dans la déclaration de revenus? »
+b) « la faute était-elle assez grave pour justifier l'utilisation de l'épithète "lourde" qui est quelque peu péjoratif? »
+Selon moi, ces questions rejoignent le principe énoncé par le juge Strayer dans la décision Venne v. The Queen, 84 DTC 6247.
+[. . .]
+11 Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l'importance de l'omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l'erreur, ainsi que le niveau d'instruction du contribuable et son intelligence apparente. Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve.
+12 Qu'en est-il ici? Un homme fort intelligent qui déclare un revenu d'emploi de 30 000 $ et qui omet de déclarer des ventes brutes d'environ 134 000 $ et des bénéfices nets de 54 000 $. Même si son comptable doit assumer une certaine part de responsabilité, je ne crois pas que l'on peut dire que l'appelant peut signer nonchalamment sa déclaration et passer outre à l'omission d'un montant qui représente presque le double du montant qu'il a déclaré. Une attitude aussi cavalière va au-delà du simple manque d'attention.
+[9] La Cour d’appel fédérale a de plus précisé, dans l’arrêt Villeneuve c. Canada, 2004 DTC 6077, que l’expression « faute lourde » pouvait englober l’aveuglement volontaire en plus de l’acte intentionnel et de l’intention coupable. Dans cette décision, le juge Létourneau s’est exprimé à cet égard en ces termes au paragraphe 6 :
+Avec égards, je crois que la juge a omis de considérer la notion de faute lourde qui peut découler d’un aveuglement volontaire de son auteur. Même l’intention coupable qui, souvent, prend la forme de la connaissance de l’un ou de plusieurs éléments constitutifs du geste reproché peut s’établir par une preuve d’aveuglement volontaire. En pareil cas, l’auteur du geste, bien qu’il n’ait pas de connaissance actuelle de l’élément reproché, se voit imputer la connaissance de cet élément.
+[10] À mon avis, l’appelant a commis une faute lourde en 2002, peu importe que son comptable ait omis ou non de comptabiliser tous ses revenus d’entreprise pour cette année d’imposition 2002. À mon avis, l’appelant a sciemment omis de déclarer tous ses revenus d’entreprise en 2002. Lorsque l’appelant a examiné sa déclaration de revenu pour l’année d’imposition 2002 préparée par son comptable, il savait très bien, à mon avis, que cette déclaration contenait une erreur pour le moins importante à l’égard de son revenu brut d’entreprise. Je ne vois pas comment il pourrait en être autrement. D’abord, les revenus bruts d’entreprise non déclarés (en l’espèce 22 414 $) étaient très importants (776 %) comparativement aux revenus bruts d’entreprise déclarés (en l’espèce 2 887 $). De plus, l’appelant était, en l’espèce, en mesure de connaître ses revenus puisqu’il rapprochait lui-même ses revenus et recevait des relevés mensuels et annuels indiquant clairement les primes qui lui avaient été versées. Je souligne à cet égard que l’essentiel des revenus non déclarés était constitué de commissions versées par des compagnies d’assurance. L’appelant connaissait suffisamment ses livres et registres pour être en mesure de constater par un simple coup d’œil que sa déclaration de revenu pour l’année d’imposition 2002 préparée par son comptable contenait une erreur très importante à l’égard de son revenu brut d’entreprise. Je rappelle aussi que l’appelant exploitait son entreprise d’assurance depuis 1987 et qu’il avait suivi un cours en comptabilité. Somme toute, qu’en est-il ici? Un homme fort intelligent (et, qui plus est, tient sa comptabilité) qui déclare un revenu brut d’entreprise de 2 887 $ et qui omet de déclarer un revenu brut d’entreprise de 22 414 $. Même si son comptable devait assumer une certaine part de responsabilité, je ne crois pas que l’on puisse dire que l’appelant pouvait signer nonchalamment sa déclaration et passer outre à l’omission d’un montant qui représente 776 % du montant qu’il a déclaré. Une attitude aussi cavalière va au-delà du simple manque d’inattention.
+[11] À mon avis, l’appelant a aussi commis une faute lourde en 2004. En effet, je suis d’avis que la négligence de l’appelant (soit le fait de ne pas examiner du tout sa déclaration avant que son comptable ne la fasse parvenir à l’Agence des douanes et du revenu du Canada) était assez grave pour justifier l’épithète « lourde » qui est quelque peu péjorative. L’attitude de l’appelant était si cavalière en l’espèce qu’elle traduisait une indifférence totale au respect de la Loi. Si l’appelant avait examiné sa déclaration de revenu pour l’année d’imposition 2004, il aurait nécessairement décelé le faux énoncé qui y apparaissait (énoncé qui aurait été fait par son comptable) compte tenu de l’ordre de grandeur des revenus non déclarés et des autres facteurs analysés ci-haut. L’appelant ne peut pas se dégager ici de sa responsabilité en pointant du doigt son comptable. En tentant de se soustraire ainsi à toute responsabilité à l’égard de ses déclarations de revenu, l’appelant se trouve à rejeter négligemment du revers de la main ses responsabilités, les devoirs et les obligations que lui impose la Loi. En l’espèce, la Loi imposait au minimum à l’appelant l’obligation de jeter un coup d’œil sur sa déclaration de revenu pour l’année d’imposition 2004 avant que son comptable ne l’expédie, d’autant plus qu’en l’espèce un examen rapide lui aurait permis, à mon avis, de déceler le faux énoncé que son comptable aurait fait.
+[12] Pour ces motifs, l’appel est accueilli uniquement en ce qui concerne la portée de l’accord des parties à l’égard des dépenses d’entreprise.
+Signé à Ottawa, Canada, ce 23e jour de mars 2009.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2009 CCI 136
+Nº DU DOSSIER DE LA COUR : 2008-1263(IT)I
+INTITULÉ DE LA CAUSE : MARCEL GÉLINAS ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : le 2 mars 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 23 mars 2009
+COMPARUTIONS :
+Représentant de l'appelant :
+Louis Leclair
+Avocat de l'intimée :
+Me Sara Chaudhary
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

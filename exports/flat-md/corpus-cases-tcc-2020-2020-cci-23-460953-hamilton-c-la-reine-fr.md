@@ -1,0 +1,166 @@
+---
+title: "Hamilton c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/460953/index.do"
+last_modified: "2020-02-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 23"
+citation2: ""
+neutral_citation: "2020 CCI 23"
+decision_date: "2020-02-05"
+language: "fr"
+item_id: "460953"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4259
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:06:23.818000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "32e36f3a5af25259db9d86654327c69f4dc4718c1d4d2ce31348c2a9b235dec6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hamilton c. La Reine
+
+- Citation: 2020 CCI 23
+- Decision date: 2020-02-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4259, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hamilton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-02-05
+Référence neutre
+2020 CCI 23
+Numéro de dossier
+2019-623(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-623(IT)I
+ENTRE :
+LESLIE H. HAMILTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 octobre 2019, à Nanaimo (Colombie-Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Alexander Wind
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2014 et 2015 sont accueillis, sans dépens, et les nouvelles cotisations sont renvoyées au ministre aux fins de nouvel examen et d’établissement de nouvelles cotisations, pour le motif que les allocations de repas pour heures supplémentaires d’une somme de 3 780 $ en 2014 et de 2 880 $ en 2015 perçues par l’appelant ne sont pas imposables.
+Signé à Vancouver (Colombie-Britannique), ce 5e jour de février 2020.
+« Diane Campbell »
+La juge Campbell
+Référence : 2020 CCI 23
+Date : 20200205
+Dossier : 2019-623(IT)I
+ENTRE :
+LESLIE H. HAMILTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] L’appelant a fait l’objet de nouvelles cotisations pour ses années d’imposition 2014 et 2015 le 5 mars 2018 et le 29 juin 2018, respectivement. Ces nouvelles cotisations tenaient compte dans ses revenus d’avantages d’une somme totale de 13 128,01 $ pour l’année d’imposition 2014 et d’une somme totale de 8 807,90 $ pour l’année d’imposition 2015, correspondant à des allocations pour frais de déplacement et à des allocations de repas pour heures supplémentaires perçues en sa qualité d’employé de CIMS Limited Partnership (l’« employeur »). Les allocations de repas pour heures supplémentaires perçues représentaient 3 780 $ en 2014 et 2 880 $ en 2015. Les allocations pour frais de déplacement perçues représentaient 9 348,01 $ en 2014 et 5 927,90 $ en 2015. La question en litige est de déterminer si le ministre du Revenu national (le « ministre ») a commis une erreur en incluant ces allocations dans les revenus de l’appelant pour les années d’imposition 2014 et 2015. Les sommes susmentionnées n’étaient pas en cause : la question en litige consistait seulement à déterminer si ces sommes étaient imposables.
+[2] L’employeur fournit des services de maintenance et de remise en œuvre à de grandes installations industrielles généralement situées au nord du pays dans les secteurs suivants notamment : pâtes et papiers, exploitation minière et métallurgie, pétrole et gaz, production d’énergie électrique, industrie chimique. Ses employés étaient au nombre de 3 720 en 2014 et de 3 568 en 2015. Les employés, y compris l’appelant, ont été embauchés par l’intermédiaire des bureaux syndicaux qui fournissaient des services à ces projets en périphérie.
+[3] Lorsqu’un employé travaillait dans une zone isolée, l’employeur lui donnait le choix entre une allocation de subsistance de 135 $ par jour ou des allocations de repas journalières de 62,50 $ ainsi qu’une chambre, conformément aux dispositions d’une convention collective. Les appels qui nous concernent ne contestent pas ces sommes : en effet, le ministre les a jugées raisonnables.
+[4] Outre ces sommes, l’employeur a versé à l’appelant des allocations pour frais de déplacement pour compenser les trajets entre le lieu de travail et un endroit déterminé au préalable, notamment un hôtel de ville, un bureau syndical ou un autre point de départ similaire, en fonction du syndicat de l’employé et du lieu de travail. Ces allocations ont été calculées en fonction d’un taux kilométrique et de la distance entre le point de départ déterminé au préalable et le lieu de travail. L’employeur a également versé à l’appelant des allocations de repas pour heures supplémentaires, auxquelles a droit un employé au bout de 10 heures de travail sur site.
+[5] À la suite de l’audit du compte de retenues sur la paie de l’employeur, l’employeur a produit un feuillet T4 modifié faisant état d’une augmentation des revenus d’emploi de l’appelant en 2014 et 2015 du fait de l’inclusion à ses revenus d’allocations de repas journalières pour heures supplémentaires pour chaque période de travail sur site de 10 heures et plus, et d’allocations pour frais de déplacement compensant les trajets entre le point de départ déterminé au préalable et le site de travail.
+I. Analyse
+[6] Je me pencherai d’abord sur les montants des allocations de repas pour heures supplémentaires. Puisque les parties conviennent que ces sommes correspondent à des allocations, elles sont imposables si elles sont visées par l’alinéa 6(1)b) de la Loi de l’impôt sur le revenu (la « Loi ») et si elles ne figurent pas par la suite dans la liste des exceptions prévues aux sous-alinéas 6(1)b)(i) à (ix) et au paragraphe 6(6) relatif aux « chantiers particuliers ».
+[7] L’intimée a soutenu que les montants des allocations de repas pour heures supplémentaires étaient imposables, car ils sont visés par l’alinéa 6(1)b) et ne sont pas exclus par la suite par les sous-alinéas 6(1)b)(i) à (ix) ni par le paragraphe 6(6). L’avocat se fondait sur le jugement de la Cour d’appel fédérale dans l’arrêt Canada (AG) v MacDonald, [1994] FCJ No. 378, où le juge Linden énonce, à l’alinéa 14, les trois éléments requis pour déterminer si une somme correspond à une allocation imposable :
+[traduction]
+14 Néanmoins, d’après les arrêts Ransom, Pascoe et Gagnon, le principe général permettant de définir les « allocations » pour l’application de l’alinéa 6(1)b) comprend trois éléments. Dans un premier temps, une allocation est une somme arbitraire, car il s’agit d’une somme définie au préalable sans référence précise à des dépenses ou à des frais réels. Comme je l’ai mentionné précédemment, cependant, le montant des allocations peut être établi en projetant les dépenses ou les frais, ou en en faisant la moyenne. En deuxième lieu, l’alinéa 6(1)b) renvoie aux allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin : ainsi, une allocation a généralement un but précis. En troisième lieu, les allocations sont à la discrétion du bénéficiaire : en effet, le bénéficiaire n’est pas tenu de rendre compte de la façon dont il a dépensé les fonds alloués en justifiant de dépenses ou de frais réels.
+[8] Dans le contexte du présent appel, la disposition 16.02 de la convention collective énonce que lorsqu’un employé travaille plus de 10 heures, l’employeur doit lui fournir repas et boissons, une pause-repas de 30 minutes et une rémunération au taux des heures normales. Lorsque cela est irréalisable au vu des circonstances, l’employé doit recevoir des allocations de repas s’élevant à 40,00 $. Le témoin de l’intimée, un agent de vérification de la conformité de l’Agence du revenu du Canada (Agence), a indiqué que selon lui, le versement d’allocations de repas pour heures supplémentaires, en sus d’une allocation de subsistance de 62,50 $ par jour pour les repas, n’était pas raisonnable (transcription, pages 115 et 116). L’intimée a soutenu que la somme de 40,00 $ était une somme arrondie préétablie conformément à la convention collective dans le but précis de prendre en charge les frais de repas, qui constituent des frais personnels, et que l’appelant n’était pas tenu de rendre compte de ses dépenses en la matière, car il n’était pas tenu de fournir de reçus à l’employeur. Par conséquent, les trois critères de l’arrêt MacDonald de la Cour d’appel fédérale sont remplis, et ces allocations sont donc subordonnées à l’alinéa 6(1)b).
+[9] L’appelant s’est appuyé sur une publication de l’Agence intitulée Allocations de repas pour heures supplémentaires ou repas fournis pendant les heures supplémentaires (pièce A-9) pour faire valoir que les allocations de repas pour heures supplémentaires perçues étaient raisonnables et ne devraient pas être incluses dans ses revenus à titre d’avantage imposable. La publication susmentionnée énonce que l’Agence « considérer[a] les montants plus élevés comme raisonnables si le coût relatif du repas dans ce lieu est plus élevé, ou dans d’autres circonstances atténuantes » et qu’il ne devrait donc pas s’agir d’un avantage imposable. L’appelant a déclaré que son travail l’obligeait à se rendre sur des lieux de travail éloignés dans le Nord du pays, où le coût de la nourriture pouvait être jusqu’à 200 % plus élevé. De plus, il a déclaré qu’en fonction de son lieu de travail, il ne bénéficiait pas toujours de cette allocation et devait lui-même prendre en charge ses frais de repas dans certains lieux éloignés.
+[10] L’intimée a reconnu que les allocations de repas pour heures supplémentaires pouvaient constituer une exception au titre du sous-alinéa 6(1)b)(vii), qui exclut les allocations raisonnables pour frais de déplacement, à l’exception des allocations pour l’usage d’un véhicule à moteur, reçues « dans l’accomplissement des fonctions de sa charge ou de son emploi ». Cependant, l’avocat a fait valoir que les allocations de repas pour heures supplémentaires n’étaient pas visées par cette exception, car le libellé clair du terme « allocations pour frais de déplacement » utilisé dans la disposition n’inclurait pas le montant des allocations de repas pour heures supplémentaires lorsque ces repas n’exigent pas de l’employé qu’il se déplace pour les recevoir. Cette somme a été payée en compensation des heures supplémentaires effectuées sur le lieu de travail. De plus, l’avocat a fait valoir que les allocations de repas pour heures supplémentaires n’étaient pas raisonnables au vu des circonstances. L’appelant pouvait choisir entre une allocation journalière de 135 $ pour payer son hébergement et ses repas, et une chambre fournie par l’employeur ainsi qu’une allocation journalière de repas de 62,50 $. L’appelant a déclaré qu’il choisissait généralement la première option, à savoir l’allocation journalière de 135 $ pour payer son hébergement et ses repas et, bien que la répartition journalière de ces 135 $ entre l’hébergement et les repas ne soit pas connue, l’intimée a soutenu que la somme de 40 $ en sus des 135 $ généralement choisis par l’appelant n’était pas raisonnable.
+[11] Plusieurs décisions rendues à l’issue de procédures informelles ont conclu que les « allocations de repas » pouvaient être considérées comme des « allocations de déplacement » aux termes du sous-alinéa 6(1)b)(vii). Dans les appels 2831422 Canada Inc. c. La Reine et Dikran Aharonian et Sa Majesté La Reine, [2002] ACI no 606, entendus ensemble et sur preuve commune, le juge en chef adjoint Bowman (tel était alors son titre) a conclu qu’une allocation pour frais de déplacement au montant de 150 $ par jour versée à un actionnaire, administrateur et employé afin de couvrir les frais d’hôtel, de repas, de stationnement et les dépenses accessoires chaque fois qu’il voyageait pour affaires était une allocation raisonnable visée par l’exception prévue au sous-alinéa 6(1)b)(vii). Il a fait la distinction avec le jugement de la Cour d’appel fédérale dans l’arrêt Verdun v The Queen, [1998] DTC 6175, en soulignant que la Cour n’avait pas cherché à savoir si les allocations de repas pouvaient, en fait, être considérées comme des allocations pour frais de déplacement non imposables aux termes du sous-alinéa 6(1)b)(vii).
+[12] Dans McKay c. La Reine, 2009 CCI 612, le juge Webb, au paragraphe 23, a souligné que le sous-alinéa 6(1)b)(vii) n’exigeait pas, « pour que l’allocation ne soit pas incluse dans le revenu, que les fonctions de l’employé obligent celui‑ci à être absent durant au moins douze heures ». Il a affirmé que le montant de l’allocation de repas serait inclus dans le revenu dans les cas où cette allocation versée à l’employé n’était pas une allocation raisonnable les jours où il devait être absent pendant au moins 12 heures. Si l’allocation avait été raisonnable, la somme n’aurait pas été incluse dans le revenu de l’employé. Le juge Webb a conclu que les allocations de repas de 18 $ versées chaque jour pour les jours où les fonctions de l’employé ne l’obligeaient pas à être absent de son lieu de travail pendant au moins 12 heures ne seraient pas incluses dans le revenu, aux termes du sous-alinéa 6(1)b)(vii), tandis que cette même allocation journalière versée pour les jours où les fonctions de son emploi l’obligeaient à s’absenter pendant au moins 12 heures serait incluse dans le calcul du revenu et ouvrait droit à une déduction en application du paragraphe 8(4).
+[13] Dans Al Saunders Contracting & Consulting Inc. c. M.R.N., 2019 CCI 86, la juge Wong J. a conclu que les frais de subsistance à taux fixe couvrant les frais de repas et d’hôtel versés aux employés en déplacement ou travaillant dans des endroits éloignés étaient des allocations de déplacement aux termes du sous-alinéa 6(1)b)(vii), même si les employés pouvaient les utiliser comme bon leur semblait.
+[14] Tandis que les décisions susmentionnées considéraient les allocations de repas comme des « allocations pour frais de déplacement » aux termes du sous-alinéa 6(1)b)(vii), aucune d’entre elles ne devait juger de la situation d’un contribuable recevant deux types d’allocations destinées à couvrir les frais de repas et les frais de repas pour heures supplémentaires sur un lieu de travail éloigné. Selon le témoignage de l’appelant, les allocations de repas pour heures supplémentaires ont été payées « dans l’accomplissement des fonctions de sa charge ou de son emploi », conformément au sous-alinéa 6(1)b)(vii) de la Loi, et correspondent à des heures supplémentaires exigées sur des lieux de travail éloignés. L’appelant a déclaré que l’employeur versait à ses employés des allocations de repas pour heures supplémentaires, car ils travaillaient de longues heures et effectuaient des tâches exigeantes sur le plan physique, ce qui donnait lieu à des préoccupations de sécurité (transcription, page 70). Bien que la disposition 16.02 de la convention collective prévoie le paiement d’allocations de repas pour heures supplémentaires, qu’un employé se déplace et travaille dans des endroits éloignés ou non, je conclus que dans les circonstances précises de l’espèce, ces allocations ne sont pas imposables aux termes du sous-alinéa 6(1)b)(vii), car elles ont été payées dans l’accomplissement des fonctions de l’appelant alors qu’il se trouvait loin de la municipalité où se trouve son lieu de travail habituel et en dehors de l’établissement de travail de l’employeur. Je conclus également, d’après le témoignage de l’appelant, que ces frais étaient raisonnables. Comme le soulignait le juge en chef adjoint Bowman (tel était alors son titre) dans 2831422 Canada, à l’alinéa 8 :
+8 […] Ce qui est raisonnable est toujours une question de fait, de jugement et de logique. Dans l’ouvrage Words and Phrases Legally Defined, huit pages de deux colonnes traitent des mots raisonnable ou raisonnablement. Toutefois, à ma connaissance, aucun tribunal n’a jamais eu l’audace de tenter de formuler une définition complète et détaillée de ce mot, chose que je ne tenterai pas de faire en l’espèce. Toute tentative de définition se solde habituellement par l’utilisation du mot lui-même. On dit qu’il sous-entend l’application d’un critère objectif, mais il s’agit d’un mot d’une telle fluidité et d’une telle élasticité qu’un juge doit se garder de laisser un élément de subjectivité se glisser dans ses conclusions. Ce qui peut sembler raisonnable pour un juge peut ne pas l’être pour un autre. Lorsqu’on tente de définir l’expression « personne raisonnable », l’on se reporte habituellement à l’hypothétique « homme moyen ». On peut se poser la question suivante : « Qu’est-ce qu’un observateur impartial possédant une intelligence un peu supérieure à la moyenne, qui aurait connaissance de tous les faits pertinents et qui n’aurait pas d’idées reçues, de parti pris ni d’intentions cachées considérerait comme étant raisonnable? ». Bref, nous tirons une ligne entre ce qui est raisonnable et ce qui est déraisonnable là où le bon sens le dicte.
+[15] L’appelant a apporté la preuve qu’il choisissait rarement, voire jamais, la chambre et l’allocation de repas journalière de 62,50 $ proposées par l’employeur, car il préférait cuisiner son propre repas en utilisant l’allocation de subsistance de 135 $ versée par l’employeur. L’intimée a fait valoir que les allocations de repas pour heures supplémentaires étaient déraisonnables en se fondant sur la conclusion du vérificateur selon laquelle elles étaient trop élevées de 25 $ et pouvaient être payées en sus de l’allocation de subsistance journalière de repas, et donc que l’appelant était susceptible de recevoir 100 $ de trop de frais de repas par jour. Cependant, l’appelant a déclaré qu’après avoir payé sa chambre, il lui restait entre 20 et 30 $ environ pour se restaurer par jour et que, dans de nombreux cas, il devait prendre en charge lui-même le coût de sa nourriture. Le témoignage de l’appelant, tant concernant les circonstances dans lesquelles sont payées les allocations de repas pour heures supplémentaires que concernant les prix plus élevés de la nourriture dans les endroits éloignés, n’a pas été contesté avec succès au cours de son contre-interrogatoire. Je ne vois aucune raison pour laquelle le terme « allocation pour frais de déplacement » ne peut pas être interprété comme incluant ces allocations de repas, tant que ces allocations sont raisonnables et versées lorsque l’employé travaille sur des sites éloignés. Même si l’appelant avait choisi la chambre et l’allocation de repas journalière de 62,50 $, je serais parvenu à la même conclusion.
+[16] Je passe maintenant à la question des montants des allocations pour frais de déplacement de 2014 et 2015. Le critère en trois volets établi dans la décision MacDonald et visant à déterminer si une somme est imposable aux termes du sous-alinéa 6(1)b) de la Loi s’applique également aux allocations pour frais de déplacement.
+[17] L’intimée fait valoir que l’appelant doit inclure dans son revenu les allocations pour frais de déplacement perçues, car, à l’instar des allocations de repas pour heures supplémentaires, elles répondent au critère établi dans la décision MacDonald. L’intimée a souligné que les allocations étaient une somme arbitraire préétablie fixée par l’employeur afin de compenser les allers-retours des employés sur le lieu de travail et que les employés n’avaient pas à justifier de leur emploi auprès de l’employeur. L’intimée fait également valoir que les deux seules exceptions à la règle générale de l’alinéa 6(1)b) susceptibles de s’appliquer et d’exclure ces allocations pour frais de déplacement sont énoncées aux sous-alinéas 6(1)b)(vii.1) et au paragraphe 6(6) :
+Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi
+6(1) Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+[…]
+b) les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin, sauf :
+[…]
+(vii.1) les allocations raisonnables pour l’usage d’un véhicule à moteur qu’un employé — dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur — a reçues de son employeur pour voyager dans l’accomplissement des fonctions de sa charge ou de son emploi.
+Emploi sur un chantier particulier ou en un endroit éloigné
+6(6) Malgré le paragraphe (1), un contribuable n’inclut, dans le calcul de son revenu tiré, pour une année d’imposition, d’une charge ou d’un emploi, aucun montant qu’il a reçu, ou dont il a joui, au titre, dans l’occupation ou en vertu de sa charge ou de son emploi et qui représente la valeur des frais — ou une allocation (n’excédant pas un montant raisonnable) se rapportant aux frais — qu’il a supportés pour :
+b) le transport, au titre d’une période visée à l’alinéa a) pendant laquelle il a reçu de son employeur la pension et le logement ou une allocation raisonnable au titre de la pension et du logement, entre : (i) soit son lieu principal de résidence et le chantier particulier visés au sous-alinéa a)(i), (ii) soit l’endroit mentionné au sous-alinéa a)(ii) et un endroit au Canada ou un endroit dans un pays où le contribuable est employé.
+[18] Le sous-alinéa 6(1)b)(vii.1) exclut les allocations pour l’usage d’un véhicule à moteur « pour voyager, dans l’accomplissement des fonctions de [la] charge ou de [l’]emploi », à condition que leur montant soit raisonnable.
+[19] Il est bien établi dans la jurisprudence (Hogg c. Canada, 2002 CAF 177, McCreath c. La Reine, 2008 CCI 595 et Smith v Canada, 2019 CAF 175) que les frais de déplacement entre la résidence d’un contribuable et son lieu de travail sont des frais personnels non déductibles. Plusieurs affaires ont prévu des exceptions à ce principe général lorsque les résidences des contribuables constituent leur lieu de travail tel que l’exige l’employeur (Campbell v. The Queen, 2003 CCI 160; Hoedel v R, 1986 DTC 6535). D’après les faits qui m’ont été présentés, ces exceptions ne s’appliquent pas à l’appelant : les allocations pour frais de déplacement que l’appelant a reçues en 2014 et 2015 ne peuvent pas être exclues aux termes du sous-alinéa 6(1)b)(vii.1).
+[20] La deuxième disposition susceptible d’exclure les allocations pour frais de déplacement des avantages imposables à inclure dans le revenu est l’alinéa 6(6)b) de la Loi, qui vise l’emploi sur un chantier particulier ou dans un endroit éloigné. Ces autres allocations pour frais de déplacement seront exclues du revenu si l’employeur verse ces sommes dans le but de prendre en charge le déplacement d’un employé de sa résidence à un chantier particulier. Aux termes de cette disposition, il faut distinguer deux catégories d’allocations dans le contexte de ces appels : celles correspondant au chantier de Neucel et celles correspondant aux autres chantiers. Le chantier de Neucel se situait dans la ville de résidence de l’appelant, à sept kilomètres de sa résidence. L’appelant a reconnu qu’il pouvait rentrer tous les jours du chantier à chez lui. De ce fait, le chantier de Neucel n’est pas un « chantier particulier éloigné » tel qu’il est prévu au paragraphe 6(6), car l’appelant pouvait rentrer tous les jours du chantier à chez lui. Les montants des allocations de déplacement concernant le chantier de Neucel étaient de 2 630,40 $ en 2014 et de 1 672,50 $ en 2015. L’appelant a déclaré qu’il ne contestait pas l’inclusion dans son revenu des allocations pour frais de déplacement qui lui ont été versées pour le chantier de Neucel. De ce fait, il n’a pas envoyé le formulaire TD4-E pour ces sommes. La seule préoccupation dont a fait part l’appelant est qu’il aurait été doublement imposé concernant les allocations reçues pour le chantier de Neucel. Cependant, rien ne me permet de penser que cela a effectivement été le cas.
+[21] Concernant le montant des allocations pour frais de déplacement (6 717,6 $ en 2014 et 4 625 $ en 2015) versé par l’employeur à chaque employé depuis un point de départ commun différent de la résidence des employés jusqu’au chantier éloigné, l’argument de l’intimée était le suivant :
+[traduction] [...] nous estimons que ce montant des allocations pour frais de déplacement ne relève pas de l’alinéa 6(6)b). La raison principale est que le montant de l’allocation a été fixé en prenant pour point de départ l’hôtel de ville de Burnaby et non pas le lieu principal de résidence de l’appelant. Par conséquent, l’emplacement du lieu principal de résidence de l’employé n’a pas été pris en compte pour déterminer l’allocation. Nous estimons qu’une allocation ne peut pas couvrir le transport entre le lieu principal de résidence de l’appelant et un chantier particulier si le lieu principal de résidence de l’employé n’est même pas pris en compte pour déterminer l’allocation.
+(Transcription, page 147, lignes 8 à 18)
+[22] Il convient de déterminer si le calcul d’une allocation pour frais de déplacement vers un chantier éloigné doit se fonder sur un point de départ, à savoir le lieu principal de résidence de l’employé, pour que l’alinéa 6(6)b) s’applique et exclue l’allocation du revenu au motif qu’il ne s’agit pas d’un avantage imposable. En d’autres termes, la décision de l’employeur de choisir un point de départ commun pour tous les employés, à savoir dans le cas présent l’hôtel de ville de Burnaby, empêche-t-elle les employés de se prévaloir de cette disposition, qui se réfère explicitement au transport entre le « lieu principal de résidence » et le chantier particulier.
+[23] La disposition 19.01(c)(i) de la convention collective oblige l’employeur à verser à ses employés une allocation de déplacement aller-retour établie en fonction de l’itinéraire le plus direct de l’hôtel de ville au chantier à l’extérieur de la ville. Il est évident que cette disposition avait pour intention d’éviter à l’employeur de calculer et de payer les distances de trajet individuelles d’un grand nombre d’employés depuis différents lieux de résidence jusqu’aux chantiers. L’avocat de l’intimée a souligné que la Cour ne s’était pas penchée sur cet argument auparavant.
+[24] L’avocat se référait aux décisions de la Cour dans lesquelles l’allocation était déterminée en fonction du lieu principal de résidence. Dans Agostini c. La Reine, 2009 CCI 87, la juge Lamarre (tel était alors son titre) a conclu que l’allocation de déplacement payée pour prendre en charge les kilomètres effectués depuis le lieu principal de résidence du contribuable jusqu’à chantier particulier satisfaisait au critère établi dans l’alinéa 6(6)b) et que son montant n’était pas imposable. Elle n’a pas précisé s’il était possible de recourir à cette disposition si le lieu principal de résidence du contribuable n’était pas utilisé pour calculer l’allocation. Dans McEachern c. La Reine, 2018 CCI 232, le juge Masse a conclu qu’un employé peut exclure l’allocation de son revenu aux termes de cette disposition uniquement si le déplacement est « entre le lieu principal de résidence [de l’employé] et le chantier particulier » (paragraphe 16). Dans l’affaire McEachern, le contribuable se rendait en voiture depuis sa résidence principale au Nouveau-Brunswick jusqu’à un point de rencontre en Alberta, depuis lequel l’employeur organisait un vol nolisé pour emmener l’employé sur un chantier éloigné. L’allocation pour frais de déplacement reçue lui permettait de compenser les frais de déplacement entre sa résidence et le point de rencontre. La Cour a conclu que l’allocation était payée pour permettre à l’employé de se déplacer de sa résidence jusqu’à un point de rencontre uniquement, et non pas jusqu’à un chantier particulier.
+[25] Dans le contexte des présents appels, la question en litige n’est pas de déterminer si l’allocation de déplacement a été versée pour se rendre jusqu’à un chantier particulier comme dans McEachern, mais de savoir si elle a été calculée en prenant comme point de départ la résidence principale de l’appelant. Le libellé du sous-alinéa 6(6)b)(i) est sans ambiguïté. Je ne peux pas inclure dans le terme « lieu principal de résidence » la notion de point de rencontre choisi par l’employeur, à partir duquel partent les employés. La disposition est claire à cet égard. Il est malheureux que l’employeur ait choisi de verser les allocations pour frais de déplacement de cette manière, même si cela a probablement été décidé pour simplifier la comptabilité.
+[26] De ce fait, l’appelant ne peut pas se prévaloir de l’exclusion établie au sous-alinéa 6(6)b)(i). Le ministre a bien fait d’inclure les montants de ces allocations pour frais de déplacement à titre d’avantage imposable au revenu de l’appelant pour les années d’imposition 2014 et 2015. L’appelant peut se prévaloir, cependant, de l’exception concernant les allocations de repas pour heures supplémentaires payées aux termes du sous-alinéa 6(1)b)(vii). Il est fait droit aux appels, sans dépens, concernant les allocations de repas pour heures supplémentaires, tant pour l’année d’imposition 2014 que pour l’année d’imposition 2015.
+Signé à Vancouver (Colombie-Britannique), ce 5e jour de février 2020.
+« Diane Campbell »
+La juge Campbell
+RÉFÉRENCE :
+2020 CCI 23
+NO DU DOSSIER DE LA COUR :
+2019-623(IT)I
+INTITULÉ :
+LESLIE H. HAMILTON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Nanaimo (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 7 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 5 février 2020
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Alexander Wind
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,214 @@
+---
+title: "Azmayesh-Fard v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521394/index.do"
+last_modified: "2025-02-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 20"
+citation2: ""
+neutral_citation: "2025 TCC 20"
+decision_date: "2025-02-06"
+language: "en"
+item_id: "521394"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6021
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:44:34.912000+00:00"
+cases_cited_count: 9
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0c13ce3811267fc0f81a21c28b79b89a097d697fb2ab9f5368c6bf8492cbaf51"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Azmayesh-Fard v. The King
+
+- Citation: 2025 TCC 20
+- Decision date: 2025-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6021, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Azmayesh-Fard v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-02-06
+Neutral citation
+2025 TCC 20
+File numbers
+2021-2336(IT)G
+Judges and Taxing Officers
+Ted Cook
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-2336(IT)G
+BETWEEN:
+KAMAL AZMAYESH-FARD,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on October 8, 2024 at Calgary, Alberta
+Before: The Honourable Justice Edward (Ted) Cook
+Appearances:
+Counsel for the Appellant:
+James W. Dunphy
+Counsel for the Respondent:
+Damon Park
+JUDGMENT
+In accordance with the attached reasons for judgment;
+The appeals for the Appellant’s 1998 to 2013 taxation years are dismissed;
+The appeals for the Appellant’s 2014 and 2015 taxation years are allowed and the reassessments of those years are returned to the Minister of National Revenue for reconsideration and reassessment on the basis that those years are statute barred and the gross negligence penalties are to be vacated; and
+Costs are awarded to the Respondent in accordance with Tariff B of Schedule II.
+Signed at Ottawa, Ontario, this 6th day of February 2025.
+“Ted Cook”
+Cook J.
+Citation: 2025 TCC 20
+Date: 20250206
+Docket: 2021-2336(IT)G
+BETWEEN:
+KAMAL AZMAYESH-FARD,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Cook J.
+I. Introduction
+[1] Mr. Azmayesh-Fard appeals from the reassessments of his 1998 to 2015 taxation years by the Minister of National Revenue (“Minister”). He obtained a Bachelor of Science in mining engineering and worked as an engineer in Canada from about 1979 to 1982. He then worked in Libya as an engineering supervisor until about 1994.
+[2] In April 1997, when he was contemplating his return to Canada, Mr. Azmayesh-Fard opened a bank account in Switzerland (“Swiss Bank Account”) with Swiss Bank Corporation (“Swiss Bank”) and funded it with money (the equivalent of roughly $431,000 CAN) he had earned in Libya. He opened the Swiss Bank Account to hide the funds from his wife, with whom he was having marital difficulties.
+[3] Mr. Azmayesh-Fard returned to Canada and became a Canadian resident for income tax purposes. He did not report any of the income, gains or losses for the Swiss Bank Account in his income tax returns for any of the 1998 to 2013 taxation years. Similarly, he did not file a T1135 (Foreign Income Verification Statement) form for any of those years.
+[4] The Minister reassessed Mr. Azmayesh-Fard for the 1998 to 2015 taxation years to include in his income amounts in connection with the Swiss Bank Account and to make some other, smaller adjustments. The reassessments also imposed both gross negligence penalties and penalties for the failure to file T1135 forms. The Minister made the reassessments outside the normal reassessment period.
+[5] Mr. Azmayesh-Fard appeals from those reassessments. The parties proceeded by way of an Agreed Statement of Facts (“ASF”) and a Supplemental Agreed Statement of Facts (“Supplemental ASF”). The ASF confirmed the correctness of the reassessments. No witnesses were called and read-ins of Mr. Azmayesh-Fard’s testimony on discovery was the only other evidence proffered.
+II. Issues
+[6] Since the reassessments were correctly calculated, the following issues are before me:
+Was the Minister justified in reassessing the 1998 to 2015 taxation years on the basis that Mr. Azmayesh-Fard had made misrepresentations attributable to neglect, carelessness or wilful default?
+Were gross negligence penalties properly assessed under subsection 163(2) of the Income Tax Act (“Act”) for the 1999 to 2001, 2005 to 2013, and 2015 taxation years?
+Were penalties properly assessed for the failure to file T1135 forms under subsection 162(7) of the Act for the 1998 to 2013 taxation years, and under subsections 162(10) and (10.1) of the Act for the 2007 to 2013 taxation years?
+[7] Pursuant to subsection 135(2) of the Tax Court of Canada Rules (General Procedure), I directed the respondent to proceed first because all the issues are ones for which the Minister bears the onus.
+III. Statute-Barred Years
+[8] Subparagraph 152(4)(a)(i) of the Act authorizes the Minister to reassess beyond the normal reassessment period if the taxpayer has made one or more misrepresentations that are “attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return …” However, the Minister may reassess only to the extent that the reassessment can reasonably be regarded as relating to those misrepresentations (by virtue of paragraph 152(4.01)(a) of the Act).
+[9] Mr. Azmayesh-Fard admitted that he had made misrepresentations in filing his income tax returns for the 1998 to 2013 taxation years (see Yadgar v The King, 2023 TCC 104, aff’d 2024 FCA 107, at para 15). He did not report any of the income, gains or losses from the Swiss Bank Account for those years. Similarly, he did not file a T1135 form for the Swiss Bank Account for any of those years.
+[10] In addition, the personal income tax return (i.e., the T1) asks a taxpayer if they own or hold foreign property with a total cost of more than $100,000 in the taxation year. I find that Mr. Azmayesh-Fard answered “No” each year. The Supplemental ASF shows that this was the case for the 2011 taxation year but there are no returns for other years. The Canada Revenue Agency (“CRA”) did not keep copies of his returns going back to 1998 owing to its record retention policy and Mr. Azmayesh-Fard destroyed all his personal financial records after the CRA’s audit.
+[11] Paragraph 78 of the ASF confirms that at no time from 1998 to 2013 did Mr. Azmayesh-Fard discuss with anyone the requirement to declare the ownership of foreign property with a cost of more than $100,000 CAN. Having answered “No” each year from 1998 to 2013 is the only possibility consistent with the evidence.
+[12] Mr. Azmayesh-Fard accepted that he had made misrepresentations but argued that there are three kinds of misrepresentations: innocent, negligent, and fraudulent (or grossly negligent). He referred to the pre-1972 version of the Act and M.N.R. v Bisson (1972), 72 D.T.C. 6374 (F.C.T.D.), and argued that the 1972 tax reform codified the test in Bisson. As a consequence, only negligent or fraudulent misrepresentations allow the Minister to reassess beyond the normal reassessment period. Mr. Azmayesh-Fard’s misrepresentations were innocent and, moreover, a misrepresentation attributable to carelessness or neglect would need to be found for each year at the time the return is filed.
+[13] Mr. Azmayesh-Fard argued that his accountant never asked him about foreign property. He asserted that if the accountant had done so, he would have told his accountant about the Swiss Bank Account. International tax is complex. He thought that since he had earned the money used to fund the Swiss Bank Account in Libya, it was not taxable in Canada. He referred to provisions in two of Canada’s income tax treaties that show the complexity of the taxation of internationally earned income. He also argued that he had understood that Swiss Bank was taking care of any tax associated with the Swiss Bank Account. This was consistent with his experience in Libya, where his employer took care of all taxes.
+[14] None of these reasons are convincing and I find that Mr. Azmayesh-Fard made misrepresentations attributable to, at a minimum, neglect or carelessness for each of the 1998 to 2013 taxation years. A taxpayer must make reasonable efforts to comply with the requirements of the Act and must act as a wise and prudent person (see Regina Shoppers Mall v The Queen, [1991] 1 C.T.C. 297, 91 D.T.C. 5101 (F.C.A.D.) and Vine Estate v The Queen, 2015 FCA 125 at para 47).
+[15] For each year from 1998 to 2013:
+Mr. Azmayesh-Fard’s accountant prepared his income tax return based on the documents provided by him.
+The accountant did not send him the prepared return in advance to review.
+He went to the accountant’s office to sign the return.
+He signed the return without reviewing it.
+He did not review, or even see, the wording or check box asking about owning or holding foreign property.
+(para 77 of the ASF)
+[16] Mr. Azmayesh-Fard did not disclose the existence of the Swiss Bank Account to his accountant, nor did he provide his accountant any documentation in relation to the Swiss Bank Account for the 1998 to 2013 taxation years. As well, Mr. Azmayesh-Fard and his accountant never discussed the ownership of foreign property. See paras 62, 63, 67 and 68 of the ASF. These were not the actions of a wise and prudent person.
+[17] I do not accept that Mr. Azmayesh-Fard made innocent misrepresentations. His misrepresentations rose to the level of neglect or carelessness, even if his sole purpose were to hide the existence of the Swiss Bank Account from his wife.
+[18] For a period of 16 years, Mr. Azmayesh-Fard did not review his income tax returns or ensure that his tax filings complied with his obligations under the Act and, in particular, he did not read or review the question relating to the ownership of foreign property for any of those years. Irrespective of his motivations, these actions are sufficient to find neglect or carelessness, and to support the Minister’s reassessments for the 1998 to 2013 taxation years to the extent that they relate to the Swiss Bank Account.
+[19] The Minister also reassessed the 2014 and 2015 taxation years; however, the amounts reassessed for those years were not in relation to the Swiss Bank Account. Even though the parties agreed to the correctness of the reassessments for those years, the respondent did not adduce any evidence in support of reassessing those years. This is not surprising given the relative amounts involved. Given there is no evidence before me of misrepresentation attributable to neglect or carelessness for the 2014 or 2015 taxation years, I find that the Minister was not justified in reassessing those years and that the reassessment of those years is statute barred.
+IV. Gross Negligence Penalties
+[20] The Minister assessed gross negligence penalties under subsection 163(2) for the 1999 to 2001, 2005 to 2013 and 2015 taxation years. The gross negligence penalty applies where a person “knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer[.]” The omission, of course, is the failure to disclose the existence of, and the income, gains and losses from, the Swiss Bank Account.
+[21] Above, I found that the Minister was not justified in reassessing the 2014 and 2015 taxation years. Consequently, I also find that gross negligence penalties were not properly assessed for the 2015 taxation year. The analysis below relates to the gross negligence penalties assessed for other taxation years.
+[22] Subsection 163(2) refers to both “knowingly” and “under circumstances amounting to gross negligence”. Determining which one applies in a particular situation can be an exceedingly fine distinction because knowledge can be imputed by wilful blindness. In Wynter v The Queen, 2017 FCA 195 at para 18, the distinction is described: “if the wilfully blind taxpayer knew better, the grossly negligent taxpayer ought to have known better.”
+[23] Subsection 163(3) of the Act places the burden for establishing the facts justifying the penalty on the respondent. The respondent has successfully discharged that burden and I find that the penalties were properly assessed in this case. Mr. Azmayesh-Fard was either wilfully blind or grossly negligent: he either knew better or ought to have known better.
+[24] The seminal test for gross negligence is set out in Venne v The Queen, [1984] C.T.C. 223, 84 D.T.C. 6247 (F.C.T.D.) at para 37:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[25] Although subjective considerations may be relevant, gross negligence is determined with reference to an objective test. It is a marked departure from the standards, practices and due diligence expected of a responsible taxpayer (see Wynter at para 21).
+[26] In Torres v The Queen, 2013 TCC 380 at para 65, Justice Miller set out the following principles for determining whether there was wilful blindness:
+a)
+Knowledge of a false statement can be imputed by wilful blindness.
+b)
+The concept of wilful blindness can be applied to gross negligence penalties pursuant to subsection 163(2) of the Act and it is appropriate to do so in the cases before me.
+c)
+In determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+d)
+To find wilful blindness there must be a need or a suspicion for an inquiry.
+e)
+Circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights as I called it in the Bhatti decision, include the following:
+i)
+the magnitude of the advantage or omission;
+ii)
+the blatantness of the false statement and how readily detectable it is;
+iii)
+the lack of acknowledgment by the tax preparer who prepared the return in the return itself;
+iv)
+unusual requests made by the tax preparer;
+v)
+the tax preparer being previously unknown to the taxpayer;
+vi)
+incomprehensible explanations by the tax preparer;
+vii)
+whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others.
+f)
+The final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.
+[27] Mr. Azmayesh-Fard had a Bachelor of Science in mining engineering and was a professional engineer. He worked in Libya for more than a decade. While in Libya, Mr. Azmayesh-Fard had his employer deposit his remuneration into financial institutions in Jersey, the Channel Islands and Holland. This followed the practice of his co-workers, most of whom were also Canadian expatriates.
+[28] During the relevant period, Mr. Azmayesh-Fard was the president of three different Canadian-controlled private corporations, including Moreland Resources Inc. (“Moreland”). Moreland’s activities included arranging short-term work placements in Libya for geologists and engineers. From approximately 2005 to 2012, Mr. Azmayesh-Fard was the Chief Executive Officer of Groundstar Resources Ltd., a publicly traded oil and gas exploration corporation. It is evident that Mr. Azmayesh-Fard is an experienced engineer with both considerable international experience and considerable business experience generally.
+[29] With respect to the magnitude of the false statement or omission, the reassessments increased taxable income by an average of about 63%. The amounts involved are significant in relation to reported income.
+[30] The false statement or omission was readily detectible. As noted above, the personal income tax return has a question asking the taxpayer if they hold or own foreign property with a total cost of more than $100,000. Mr. Azmayesh-Fard knew that he owned foreign property with a cost in excess of than that amount at all material times. A cursory reading of the question would have highlighted the issue to him even if he was genuinely under the mistaken impression that Canada did not tax income from foreign property.
+[31] This is not a situation where it could be said that the taxpayer was misled by their tax preparer. It was not a complex structure or an arcane point of tax law – the taxation of Canadian residents on their worldwide income is one of the foundational rules of Canadian income tax law. Mr. Azmayesh-Fard never discussed the ownership of foreign property with his accountant. The fact that it was not discussed does not mean that he could ignore his obligations under the Act (see Yadgar at para 35), particularly when he took active steps to ensure that no one knew about the Swiss Bank Account.
+[32] Additionally, the mere fact that the accountant was a CGA grandfathered to CPA status does not suggest to me that the accountant should have done more in terms of asking Mr. Azmayesh-Fard about his ownership of foreign property.
+[33] Mr. Azmayesh-Fard did not make any inquiries with his tax preparer, the CRA or any other third party with respect to the taxability of the income from the Swiss Bank Account. This was the case even though the Swiss Bank Account earned some Canadian-source income (i.e., Canadian dividends) in some years.
+[34] Mr. Azmayesh-Fard opened the Swiss Bank Account as a safe keeping account in 1997, which means that no account statements were sent to him. It was a numbered swiss account and for a fee Swiss Bank held all related documentation. All business transacted between Mr. Azmayesh-Fard and Swiss Bank was by telephone. Throughout the relevant period, he engaged in trades to buy and sell investments.
+[35] Mr. Azmayesh-Fard never discussed the ownership of foreign property with his accountant nor with anyone else. He began experiencing marital difficulties in 1996. He was concerned that he would soon be divorced so he wanted to keep money offshore to fund his potential post-divorce life.
+[36] Even without any direct testimony, I am satisfied that the facts as agreed by the parties in the ASF and Supplemental ASF demonstrate that Mr. Azmayesh‑Fard was either willfully blind or grossly negligent. He departed markedly from the due diligence expected of a responsible taxpayer, and given the circumstances and his experience, one would have expected that he would have made inquires with respect to the Swiss Bank Account unless he did not want to know the answers to those inquiries.
+[37] Mr. Azmayesh-Fard’s argument is that set out above – that is, his misrepresentation was innocent and did not rise to the level of gross negligence. He referred to Carlson v The Queen (1997), 98 D.T.C. 1373, [1998] 2 C.T.C. 2476 (T.C.C.) for the proposition that I need to consider his subjective circumstances in determining whether gross negligence penalties apply. In Carlson, the taxpayer honestly, but mistakenly, thought that he did not have to report a capital disposition, the capital gain from which was exempt from income tax. He was not trying to deceive the CRA and there were no economic consequences of his failure to report.
+[38] Mr. Azmayesh-Fard argues that his sole purpose in having the Swiss Bank Account was to hide funds from his wife. He did not intend to deceive the CRA and he had an honest belief that the income from the Swiss Bank Account was not subject to Canadian income tax. In my view, Carlson is easily distinguished. Mr. Azmayesh-Fard’s background is clearly that of someone who would be, or at least should be, attuned to basic international tax issues; and unlike Mr. Carlson, he did not seek advice from anyone.
+[39] Mr. Azmayesh-Fard also argued that many of the cases cited by the respondent where gross negligence penalties applied are closer to what could have been prosecuted as tax evasion under section 239 of the Act. They should not apply to find gross negligence in the case of the kind of innocent misrepresentation made by Mr. Azmayesh-Fard. His motivation was to hide funds from his wife and not to avoid Canadian income taxes.
+[40] Even if I accept that the sole purpose for opening the Swiss Bank Account was to hide funds from his wife, it does not absolve Mr. Azmayesh-Fard from the obligation to act with the requisite standard of care in filing his income tax returns. He did not do so. Either he was wilfully blind with respect to the need to make inquires or his actions were so negligent as to be tantamount to intentional acting and being indifferent as to whether his income tax obligations were met. My decision does not turn on any judgment of the morality of hiding funds from one’s spouse; but Mr. Azmayesh-Fard cannot use that as an excuse for not discharging his income tax obligations.
+[41] The case at hand is distinguishable from other decisions, such as Goldhar v The King, 2023 TCC 30 and Chan v The Queen, 2022 TCC 87, where gross negligence penalties were found not to apply. In Goldhar, the taxpayer’s international business affairs were complex and he relied on the expertise of his accountant. In Chan, the taxpayer opened a Bank of China account in his own name, but it was beneficially owned by his father.
+V. Failure to File T1135s
+[42] Subsections 162(7), (10) and (10.1) all impose penalties for, among other things, the failure to file T1135 forms as required. Subsection 162(7) is the basic penalty provision for the failure to file a T1135 form, while subsection 162(10) imposes an additional penalty if the failure is made “knowingly or under circumstances amounting to gross negligence”. Where subsection 162(10) applies, subsection 162(10.1) then may impose a further penalty. The calculation of the penalties is not at issue.
+[43] The imposition of the subsection 162(7) penalty is subject to a due diligence defence (see Corporation de L’École Polytechnique v The Queen, 2004 FCA 127). To avail himself of that due diligence defence, Mr. Azmayesh-Fard would have to show that he had either made a reasonable error of fact or took reasonable precautions to comply with the Act (see Chiang v The Queen, 2017 TCC 165 at para 26). Mr. Azmayesh-Fard’s actions, described above, show that he did not take all reasonable precautions to comply with the Act and that he had not made a reasonable error of fact. I find that the subsection 162(7) penalties were properly assessed.
+[44] Subsection 162(10) uses the same wording as the preamble of subsection 163(2), i.e., “knowingly or under circumstances amounting to gross negligence”. Given the text, context, and purpose of both provisions, I apply the same test for subsection 162(10) penalties as for subsection 163(2) gross negligence penalties. For the same reasons as set out above, I find that Mr. Azmayesh-Fard failed to file a T1135 form for each of the 2007 to 2013 taxation years “knowingly or under circumstances amounting to gross negligence” and that the Minister properly assessed penalties under subsection 162(10).
+[45] The penalty in subsection 162(10.1) is mechanical in its application once subsection 162(10) applies. Consequently, I find that the Minister properly assessed penalties under subsection 162(10.1) for the 2007 to 2013 taxation years.
+VI. Disposition
+[46] The appeals for the 1998 to 2013 taxation years are dismissed.
+[47] The appeals for the 2014 and 2015 taxation years are allowed and the reassessments of those years are returned to the Minister for reconsideration and reassessment on the basis that those years are statute barred and the gross negligence penalties are to be vacated.
+[48] As the respondent was substantially successful, I award costs to the respondent in accordance with Tariff B of Schedule II.
+Signed at Ottawa, Ontario, this 6th day of February 2025.
+“Ted Cook”
+Cook J.
+CITATION:
+2025 TCC 20
+COURT FILE NO.:
+2021-2336(IT)G
+STYLE OF CAUSE:
+KAMAL AZMAYESH-FARD v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+October 8, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Edward (Ted) Cook
+DATE OF JUDGMENT:
+February 6, 2025
+APPEARANCES:
+Counsel for the Appellant:
+James W. Dunphy
+Counsel for the Respondent:
+Damon Park
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James W. Dunphy
+Firm:
+Warren Benson Amantea LLP Calgary, Alberta
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

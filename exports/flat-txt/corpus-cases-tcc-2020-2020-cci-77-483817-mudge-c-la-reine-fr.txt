@@ -1,0 +1,407 @@
+Title: Mudge c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/483817/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-77-483817-mudge-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-08-10
+
+# Mudge c. La Reine
+
+- Citation: 2020 CCI 77
+- Decision date: 2020-08-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4551, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mudge c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-08-10
+Référence neutre
+2020 CCI 77
+Numéro de dossier
+2018-3248(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-3248(IT)G
+ENTRE :
+GRAHAM F. MUDGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 4 octobre 2019 à Ottawa, Canada.
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocat de l’appelant :
+Me Martin Gentile
+Avocats de l’intimée :
+Me Shane Aikat
+Me Stephen Ji
+ORDONNANCE MODIFIÉE
+La requête est accueillie, mais uniquement pour la radiation du mot [traduction] « domicilié » du paragraphe 18.61 (une occurrence) et 18.63 (deux occurrences) de la réponse modifiée qui a été déposée ou qui le sera prochainement. Les dépens de la présente requête au montant fixe de 1 250 $ devront être payés par l’appelant à l’intimée dans les 30 jours suivant la date du prononcé de la présente ordonnance.
+La présente ordonnance modifiée remplace l’ordonnance datée du 30 juillet 2020.
+Signé à Halifax (Nouvelle-Écosse), ce 10e jour d’août 2020.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 8e jour de février 2021.
+François Brunet, réviseur
+Référence : 2020 CCI 77
+Date : 20200810
+Dossier : 2018-3248(IT)G
+ENTRE :
+GRAHAM F. MUDGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE MODIFIÉS
+Le juge Russell
+[1] La délivrance de la présente ordonnance et des motifs de l’ordonnance a été retardée en raison de la fermeture de la Cour pendant plusieurs mois, suite à la pandémie de COVID-19.
+[2] L’appelant, Graham Mudge, a déposé une requête interlocutoire conformément au paragraphe 53(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les Règles) dans son appel d’une nouvelle cotisation établie aux termes de la Loi de l’impôt sur le revenu (la LIR) à l’égard de l’année d’imposition 2008. Il sollicite une ordonnance radiant une partie des observations présentes dans la réponse de l’intimée. En prévision de l’audition de la présente requête, l’intimée avait présenté à l’appelant une proposition de réponse modifiée reflétant diverses modifications de l’acte de procédure motivées par le dépôt de la requête. Par conséquent, l’examen de la requête portera sur la réponse modifiée plutôt que sur la réponse initialement déposée.
+[3] Le texte de la réponse modifiée est joint à l’annexe A des motifs de l’ordonnance et sera examiné ci-après.
+[4] Le paragraphe 53(1) des Règles est ainsi rédigé :
+La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+[5] L’appel de l’appelant, déposé aux termes de la LIR, porte sur la question de la déductibilité d’un don à un organisme de bienfaisance, conformément au paragraphe 118.1(3) de la LIR, qu’il soutient avoir fait en 2008 au programme de dons Canadian Humanitarian Trust (CHT).
+[6] Dans sa réponse modifiée proposée, l’intimée fait valoir que le ministre du Revenu national (le ministre) a soulevé 131 hypothèses pour établir la nouvelle cotisation faisant l’objet de l’appel. Selon l’avis de requête de l’appelant, certaines parties de la réponse initiale (désormais la réponse modifiée) doivent être radiées puisqu’elles [traduction] « peuvent compromettre ou retarder l’instruction équitable de l’appel, sont scandaleuses, frivoles ou vexatoires, sont répétitives, constituent des conclusions de fait et de droit, constituent des conclusions de droit, renvoient à des années d’imposition qui ne sont pas visées par l’appel et contiennent des éléments de preuve dont les faits doivent être prouvés ».
+[7] Le présent appel sur le fond en est à ses débuts. Aucune liste de documents n’a encore été échangée, et aucun interrogatoire préalable n’a encore été tenu. L’intimée a présenté une demande de précisions le 2 août 2019, à laquelle l’appelant a répondu les 3 et 16 septembre 2019 en précisant les sections de la réponse qui présentent, selon lui, des lacunes au niveau de l’acte de procédure.
+[8] Avant d’examiner la réponse modifiée, je noterai certaines règles de droit bien établies régissant les actes de procédure.
+[9] L’acte de procédure a pour but de définir les questions en litige entre les parties aux fins de production et de communication préalable ainsi qu’en prévision du procès. Il incombe aux parties de présenter un exposé concis des faits matériels sur lesquels elles se fondent. Les faits matériels sont ceux qui, dans l’éventualité où ils sont établis au cours du procès, concourront à démontrer que la partie ayant déposé l’acte de procédure a droit à la mesure demandée. (Zelenski c. La Reine, 2002 DTC 1204 (CCI), paragraphe 4; conf. par 2002 DTC 7395 (CAF))
+[10] Telle est la règle en matière d’actes de procédure : toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les règles pertinentes sur lesquelles il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : 1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; 2) il doit exposer les faits matériels et ne pas contenir de faits immatériels; 3) il doit exposer des faits, non les éléments de preuve qui serviront à établir ces faits; 4) il doit exposer les faits avec concision. (Holmsted and Watson, Ontario Civil Procedure, vol. 3, pages. 25/20 et 25/21, cité dans l’arrêt Zelenski, précité, au paragraphe 5)
+[11] Les faits pertinents devant être exposés dans un acte de procédure sont ceux [traduction] « nécessaire[s] pour formuler un moyen complet ». (Globtek Inc. c. La Reine, 2005 CCI 727, au paragraphe 5, citant Bruce v. Odhams Press Ltd., [1936] 1 K.B. 697 at 712 (C.A.))
+[12] En outre, dans la décision Globtek (précitée, au paragraphe 8), le juge Bowie de notre Cour fait également état du fardeau financier qui résulte d’allégations non matérielles dans les actes de procédure.
+[13] Dans la décision Foss c. La Reine, 2007 CCI 201, aux paragraphes 8 à 11, le juge Bowie revient sur la question de la présence de faits non pertinents dans les actes de procédure et observe qu’essentiellement, seuls les faits matériels à l’égard de la (nouvelle) cotisation doivent être invoqués à titre d’hypothèse du ministre.
+[14] La règle générale en matière de radiation d'actes de procédure, lorsqu'est visée la réponse de Sa Majesté dans un appel relatif à l’impôt sur le revenu, porte qu'une telle requête n’est accueillie que s’il est évident et manifeste, dans l’hypothèse où les faits allégués dans la réponse sont avérés, que la réponse ne permet pas de conclure de façon raisonnable que la nouvelle cotisation frappée d’appel est correcte. (Banque Canadienne Impériale de Commerce c. Canada, 2013 CAF 122, au paragraphe 7)
+[15] Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Ces questions doivent être laissées à l’appréciation du juge qui entend la preuve. (Sentinel Hill Productions (1999) Corporation c. La Reine, 2007 CCI 742, le juge en chef Bowman, au paragraphe 4)
+[16] Il est bien établi que les conclusions de droit n’ont pas leur place dans l’exposé des hypothèses de fait [...] et que lorsque la cotisation faisant l’objet de l’appel est fondée sur une conclusion mélangée de fait et de droit, le ministre doit en extraire les éléments de fait présumés et les exposer en tant qu’hypothèses de fait. (Banque Canadienne Impériale de Commerce, précité, au paragraphe 92)
+[17] Aux termes de l’alinéa 53(1)c) des Règles, un acte de procédure peut être radié sans autorisation de le modifier s’il constitue un recours abusif à la Cour. Il est également possible de radier un acte de procédure vexatoire aux termes de l’alinéa 53(1)b) des Règles. Le mot « vexatoire » est de façon générale synonyme de la notion de recours abusif. Il peut donc être utile d’examiner la jurisprudence portant sur des actes radiés au motif qu’ils étaient vexatoires pour déterminer s’il y a lieu de radier un acte au motif qu’il constitue un recours abusif [...] [et] un acte de procédure est vexatoire lorsqu’il n’expose pas suffisamment les faits sur lesquels la demande est fondée pour qu’il soit possible à un défendeur d’y répondre ou au juge de diriger l’instance.
+[18] De même, la Cour d’appel fédérale a observé dans l’arrêt Merchant Law Group c. Agence du revenu du Canada, 2010 CarswellNat 3175 (CAF), qu’une demande qui ne contient que de simples affirmations ou conclusions, sans exposer de faits matériels à l’appui, devrait être radiée au motif qu’elle est vexatoire. Pour les mêmes raisons, un acte de procédure peut être radié au motif qu’il constitue un recours abusif. (Mont-Bruno C.C. Inc. c. La Reine, 2018 CCI 105, au paragraphe 19)
+[19] Quelques principes d’application de l’article 53 : l’équité, qui peut nécessiter que le fardeau de réfuter une hypothèse factuelle faite par l’intimée ne repose pas sur le contribuable; les actes de procédure doivent contenir des faits matériels qui définissent de façon claire et concise les questions en litige soumises à la Cour. Les faits qui sont pertinents sans être matériels ne doivent que rarement être plaidés. (Canadian Imperial Bank of Commerce v. The Queen, 2011 TCC 568, au paragraphe 41, sous la plume du juge Rossiter, alors juge en chef adjoint).
+[20] Les questions relatives à la pertinence doivent généralement être laissées à l’appréciation du juge de première instance, au regard de tous les éléments de preuve présentés lors du procès. Les faits relatifs à la manière dont une allégation sera prouvée sont essentiellement des faits relatifs aux éléments de preuve et ne doivent donc pas être plaidés. Puisque les allégations de fraude et de malhonnêteté sont très graves, il est nécessaire de produire des précisions. Les actes de procédure scandaleux sont des actes de procédure qui sont offensants, ne renvoient pas aux questions en litige et sont abusifs ou préjudiciables. Des actes de procédure peuvent également être radiés s’ils ont été ajoutés pour teinter l’affaire, ou simplement parce qu’ils sont provocateurs. Les demandes frivoles sont des demandes dont l’importance est négligeable. Les demandes vexatoires sont généralement malicieuses et sans fondement. Les actes de procédure scandaleux, frivoles ou vexatoires ne doivent être radiés que dans les cas les plus évidents. L’abus de procédure désigne un détournement préjudiciable de la procédure ou le fait de jeter le discrédit sur l’administration de la justice. (CIBC, précité, (CCI), aux paragraphes 41 et 42)
+[21] Les faits ou faits perçus qui ne sont connus que de l’intimée [la Reine] et qui sont présentés dans la réponse à l’avis d’appel comme des « hypothèses », n’étant pas connus de l’appelante et difficiles ou impossibles à réfuter sans que cette dernière n’ait à fournir un effort extraordinaire ou à engager des frais importants, ne doivent pas être considérés comme des faits simplement parce qu’ils n’ont pas été précisément réfutés par l’appelante dans son témoignage. Dans ces circonstances, les hypothèses de fait ne peuvent écarter l'obligation de l’intimée de présenter des preuves pour justifier ou appuyer ce qui peut être pertinent afin de contrer ou influencer la version des faits de l’appelante. (Transocean Offshore Limited c. Canada, 2005 CAF 104, au paragraphe 34, citant le juge Bell, dans la décision Radash Trading Incorporated c. La Reine, 2004 CCI 446, au paragraphe 31)
+[22] Dans l’arrêt Kossow c. Canada, 2009 CAF 83 (au paragraphe 21), la CAF a fait siens les observations du juge Bowman, alors qu’il était juge en chef adjoint de la CCI, selon lesquelles il est essentiel que les hypothèses soient complètes et véridiques. Le juge de première instance est en bien meilleure position que le juge entendant une requête préliminaire pour examiner quel poids doit être accordé aux hypothèses qui ne sont pas de la connaissance de l’appelant. Le juge de première instance peut décider qu’elles ne sont pas pertinentes ou décider d’obliger l’intimée de les prouver.
+[23] Également dans l’arrêt Kossow (aux paragraphes 21 à 23), la CAF a fait siens les observations du juge Bowman, juge en chef de la Cour, dans la décision Gould c. La Reine, 2005 CCI 566 :
+[21] [...] Un élément central de la cotisation [antérieure] par laquelle n’ont pas été admis les dons de bienfaisance est l’existence d’une combine à laquelle on allègue que l’appelant a participé et qui a permis aux participants d’obtenir ce que la Couronne considère comme des crédits d’impôt pour dons de bienfaisance artificiels ou gonflés. Cette combine impliquait nécessairement des tiers et, si l’existence d’une combine est essentielle pour la thèse de la Couronne, cette dernière devrait pouvoir invoquer et prouver tous les éléments de cette combine. C’est aller trop loin que de prétendre, comme le fait l’appelant, que [deux décisions judiciaires particulières] empêchent toute mention d’opérations de tiers, à moins que l’appelant n’ait été au courant de ces opérations ou y ait participé. Si l’existence d’une combine est liée au fait que les dons de bienfaisance n’ont pas été admis, on ne peut en faire fi, que le ministre ait supposé ou non que l’appelant était au courant d’opérations de tiers qui, d’après la Réponse, faisaient partie intégrante de la combine, ou qu’il y ait participé. Si l’un quelconque des faits supposés n’est réellement connu que de la Couronne, celle‑ci a probablement la charge de le prouver, bien que ce soit en définitive au juge du procès d’en décider.
+Les hypothèses de fait du ministre doivent être invoquées dans la réponse de la couronne, qui doit « faire pleinement état de la position [du ministre]. [La couronne] doit indiquer avec honnêteté et exhaustivité les hypothèses sur lesquelles se fonde la cotisation. La fonction essentielle des actes de procédure dans un litige est une fonction pratique consistant à donner de l’information sur la thèse de chacune des parties. » (Gould c. La Reine, 2005 CCI 566, au paragraphe 12, par le juge en chef Bowman). L’alinéa 49(1)d) des Règles dispose également que la réponse à l’avis d’appel doit indiquer « […] les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation ».
+[24] Il est possible de résumer les thèses des parties dans la présente requête. L’appelant soutient que l’obligation de l’intimée d’exposer l’ensemble des hypothèses du ministre doit demeurer dans les limites des principes d’un acte de procédure adéquat, soit la concision, l’importance et le principe primordial d’équité. Autrement dit, les actes de procédure ne doivent pas présenter d’hypothèses offensantes, non matérielles et non pertinentes, ni de conclusions de droit. Plus précisément, il peut y avoir des situations où l’équité exige que le fardeau de réfuter une hypothèse factuelle précise faite par la Couronne (l’intimée) ne repose pas sur le contribuable, par exemple, lorsqu’un fait est exclusivement ou particulièrement à la connaissance de l’État et ne peut être facilement ou pratiquement nié par le contribuable sans un effort et des dépenses extraordinaires. De telles hypothèses ne peuvent pas remplacer le devoir de la Couronne de présenter des éléments de preuve pour justifier ou appuyer ce qui peut être pertinent pour répondre à la version des faits du contribuable.
+[25] L’appelant soutient également que la réponse modifiée proposée comprend plusieurs conclusions de droit ou des déclarations mélangées de fait et de droit, qu’elle contient des répétitions excessives, comprend des hypothèses de fait non pertinentes ou non matérielles ainsi que d’autres hypothèses [traduction] « truffées d’éléments de preuve déguisés » et comprend des actes de procédure qui sont [traduction] « vexatoires, frivoles, scandaleux ou qui constituent un abus de procédure ». Des parties de l’acte de procédure pourraient également compromettre ou retarder l’instruction équitable de l’appel.
+[26] L’intimée défend sa réponse modifiée proposée et note qu’il est essentiel que les hypothèses soient complètes et véridiques. Les actes de procédure ne doivent être radiés que dans les cas les plus évidents et manifestes. De plus, les allégations relatives notamment à la propriété, à la possession et à l’acquisition de biens sont de nature factuelle et non juridique. La complexité du programme CHT appelle également une description factuelle proportionnelle, qui ne constitue pas un élément de preuve. Il est de plus correct d’alléguer des hypothèses concernant des tiers. Enfin, le libellé des actes de procédure de la Couronne est descriptif et non provocateur, scandaleux, vexatoire ou autrement préjudiciable.
+[27] Compte tenu des principes susmentionnés qui jouent en matière de requêtes en radiation présentées aux termes de l’article 53 des Règles, j’aborde à présent les actes de procédure controversés dans la réponse modifiée proposée, dont le texte, comme il est indiqué ci-dessus, est joint à l’annexe « A ». De plus, la liste complète des parties de la réponse modifiée proposée que l’appelant cherche à radier, ainsi que, dans chaque cas, les raisons invoquées par l’appelant, se trouvent à l’annexe « A » des observations écrites de l’appelant.
+[28] L’appelant demande la radiation du paragraphe 1 de la réponse modifiée proposée en raison de ses nombreux manquements allégués : [traduction] « non substantiel ou non pertinent, constitue des éléments de preuve, hypothèses des parties, répétitif, mélange de fait et de droit, vexatoire, scandaleux ou frivole, constitue un abus de procédure, compromet ou retarde l’instruction équitable de l’appel ». L’appelant a cité en grande partie cette même litanie ou une litanie similaire de plaintes à l’appui de la plupart de ses nombreuses demandes de radiation.
+[29] Je ne puis conclure que l’emploi du verbe [traduction] « abuser » au paragraphe 1 de la réponse modifiée proposée est suffisamment offensant ou qu’il pourrait influencer indûment le juge de première instance – c’est-à-dire [traduction] « vexatoire, scandaleux ou frivole » – pour appeler sa radiation conformément à l’article 53 des Règles. Je conclus que l'expression [traduction] « abri fiscal enregistré » n’est pas offensant. Après tout, l'expression [traduction] « abri fiscal » est un terme défini dans la LIR, qui prévoit l’enregistrement des abris fiscaux. Le reste du libellé du paragraphe 1 peut être critiqué, mais pas au point qu’il soit nécessaire de le radier.
+[30] L’appelant demande la radiation de l'expression [traduction] « don en espèces fictif » figurant au paragraphe 2. Pour le même motif que je viens de signaler, je ne suis pas d’avis que cette expression est suffisamment offensante pour qu'elle soit radiée. On ne peut radier des sections d’un acte de procédure, particulièrement à l’étape de la présentation de la requête, que si leur texte est manifestement ou remarquablement inadmissible.
+[31] L’appelant souhaite faire radier le terme [traduction] « abri fiscal » qui figure en en-tête du paragraphe 18, précédant immédiatement le paragraphe 18.1. L’en-tête s’intitule [traduction] « Survol de l’abri fiscal Canadian Humanitarian Trust ». Pour les mêmes motifs mentionnés précédemment, je refuse de le faire.
+[32] L’appelant demande la radiation de l'expression [traduction] « abri fiscal » se trouvant au paragraphe 18.1, dans l’en-tête [traduction] « Abri fiscal Canadian Humanitarian (no TS069310) ». Encore une fois, je ne le suivrai pas, pour les motifs exposés précédemment concernant le paragraphe 1. Je remarque que l’intimée, sur la base de la répétition indue, a retiré deux références à [traduction] « l’abri fiscal » (en minuscules) se trouvant à la fin de la phrase composant le paragraphe 18.1. L'expression figurait dans la réponse, et son retrait du paragraphe 18.1 est évident dans la réponse modifiée proposée.
+[33] L’appelant demande la radiation de l’entièreté du paragraphe 18.3, et plus particulièrement de cet extrait : [traduction] « une combine à peine déguisée conçue pour enrichir les diverses parties ». Je ne puis conclure que cet extrait est suffisamment mordant ou offensant (ou trop coloré) pour justifier sa radiation, complète ou partielle, au motif que son maintien pourrait indûment influencer l’esprit du juge. Je note les modifications proposées à ce paragraphe par l’intimée dans sa réponse modifiée proposée et je n’y vois aucun problème.
+[34] L’appelant souhaite faire radier les paragraphes 18.3 à 18.10. Les motifs invoqués sont semblables aux précédents, bien que légèrement plus précis [traduction] : « non substantiel, non pertinent, éléments de preuve, hypothèses sur un tiers, frivole, constitue un abus de procédure, compromet ou retarde l’instruction équitable de l’appel ». Dans sa plaidoirie, l’avocat de l’appelant s’est principalement concentré sur les paragraphes 18.7 à 18.10, en alléguant que ces hypothèses particulières n’étaient pas de la connaissance de l’appelant et étaient non matérielles. Conformément à la jurisprudence Kossow, précitée, je suis d’avis que ces motifs ne sont pas suffisants pour radier l'observation à ce stade de l’appel. Selon la CAF, c’est au processus de l’interrogatoire préalable et, ultimement, au juge du procès, d’établir ce qui doit être radié pour manque de pertinence, ou de déterminer s’il est nécessaire de déplacer le fardeau de la preuve du contribuable appelant à l’égard des hypothèses factuelles du ministre n’étant pas de la connaissance de l’appelant et dont il ne peut raisonnablement s’informer avant le procès.
+[35] L’intimée a répondu au grief de l’appelant à propos du paragraphe 18.15 concernant la répétitivité de l'expression [traduction] « abri fiscal » qui figure dans la rubrique en retirant ce terme. Cela ne me pose aucun problème.
+[36] L’appelant souhaite faire radier l’entièreté des paragraphes 18.15 à 18.20. Les motifs présentés sont semblables aux précédents [traduction] : « non substantiel, non pertinent, éléments de preuve, hypothèses sur un tiers, frivole, constitue un abus de procédure, compromet ou retarde l’instruction équitable de l’appel ». Je ne constate pas la présence de ces éléments dans ces paragraphes, outre le fait que certaines de ces hypothèses peuvent être rattachées à des faits non matériels. Tout comme précédemment, il ne s’agit pas d’un fondement suffisant pour radier les actes de procédure à cette étape du juge des requêtes. Cette question doit être tranchée par le juge de première instance.
+[37] Dans ses plaidoiries, l’appelant a exprimé son désaccord quant à l’emploi de l'expression « avantage fiscal » au paragraphe 18.14 de la réponse modifiée proposée, au motif qu’il s’agit d’une conclusion de droit. Cet élément ne figure pas dans la liste écrite des éléments à radier. L’acte de procédure du paragraphe 18.14 controversé, qui constitue une autre hypothèse du ministre, est rédigé comme suit [traduction] : « L’appelant a participé au programme CHT essentiellement pour se prévaloir d’un avantage fiscal excédant le paiement en espèce initial qu’il a versé et non pour faire un don de bienfaisance à un organisme de bienfaisance canadien enregistré ». Je n'ai rien à redire quant à l'expression « avantage fiscal » dans ce contexte, qui vise l’intention de l’appelant plus qu’un aspect juridique particulier de l’avantage fiscal au sens du paragraphe 118.1(3) de la LIR.
+[38] Pour ce qui est du paragraphe 18.21, l’appelant demande la radiation de l’ensemble du texte, où figure à deux reprises l'expression « abri fiscal ». L’intimée a convenu de retirer ces deux références, sûrement au motif de la répétition. Une fois de plus, pratiquement tous les motifs classiques de radiation ont été cités. Cet élément n’a été que très superficiellement discuté lors de la plaidoirie à l’audience.
+[39] L’appelant demande la radiation des paragraphes 18.22 à 18.24, une fois de plus pour la plupart des mêmes motifs. En réponse, l’intimée a supprimé la plus grande partie du paragraphe 18.22, qui était deux fois plus long que les deux paragraphes suivants. Dans sa plaidoirie, l’appelant a mis l’accent sur le mot [traduction] « contrôlés » figurant au paragraphe 18.23, dans le passage [traduction] » [...] les fonds versés par un participant étaient contrôlés en tout temps par les promoteurs ». Il a fait valoir qu’il s’agit d’un énoncé mélangée de fait et de droit et qu’il reflète les actions d’un tiers. J’estime qu’il n’est pas manifeste que le mot [traduction] « contrôlés », tel qu’il est figure dans ce contexte, est systématiquement de nature juridique, contrairement à un terme généralement utilisé dans la langue courante.
+[40] L’appelant demande la radiation de l’hypothèse du ministre figurant au paragraphe 18.25, en citant une fois de plus l’ensemble des principes de base pertinents, tout en faisant valoir plus particulièrement à l'audience que ce paragraphe fait valoir une hypothèse fondée sur un fait non matériel et dont l’appelant n’a aucune connaissance. La jurisprudence Kossow répond une fois de plus à cet argument : ces questions, notamment celle du déplacement du fardeau de la preuve, doivent être déterminées lors de l’interrogatoire préalable et, au final, par le juge de première instance.
+[41] L’appelant demande la radiation de l’hypothèse du ministre plaidée au paragraphe 18.26, principalement au motif qu’elle fait valoir des actions de tiers pour dont il n’a aucune connaissance. Le passage pertinent est le suivant [traduction] : « [...] chaque participant devait retenir les services du cabinet d’avocat Sommer’s Business [...] comme avocat fiduciaire pour intervenir en son nom afin de faciliter les opérations qui auraient prétendument eu lieu par suite de sa participation au programme CHT [...] » L’appelant affirme qu’il n’a aucune connaissance de ce que [traduction] « chaque participant » a fait, mais qu’il sait uniquement ce qu’il a lui-même fait. Comme je l’ai observé plus tôt, cette question doit être examinée lors de l’interrogatoire préalable et, au final, par le juge de première instance. L’appelant s’oppose aux mentions relatives à la [traduction] « délégation de pouvoir » figurant plus loin dans le projet de disposition, au motif qu’il s’agit d’éléments mélangés de fait et de droit. Dans ce contexte, ces énoncés ne me troublent pas, ils sont raisonnablement compréhensibles pour un contribuable et sont cités essentiellement pour décrire les circonstances factuelles pertinentes. Quoi qu’il en soit, je ne suis pas d’avis qu’il est manifeste que ce libellé doit être radié, particulièrement vu ma mission de juge des requêtes. Le juge de première instance sera en bien meilleure position pour établir, en fonction de la preuve qui lui sera présentée, si les complexités juridiques de la délégation de pouvoir sont en cause. Cela ne me semble pas être le cas, bien que, étant donné le stade précoce du présent appel, ce pourrait être probable.
+[42] L’appelant demande la radiation de l’hypothèse du ministre soulevée aux paragraphes 18.27 à 18.30, en citant encore essentiellement l’ensemble des motifs possibles [traduction] : « non substantielle ou non pertinente, constitue des éléments de preuve, hypothèses des parties, frivole, constitue un abus de procédure, compromet ou retarde l’instruction équitable de l’appel ». Il n’y a aucun texte pour les paragraphes 18.27 et 18.29. Le paragraphe 18.28 n'a rien d'inconvenant. L’appelant conteste précisément le paragraphe 18.30, en faisant valoir qu’il allègue des éléments de preuve en renvoyant aux paiements à titre de don. Le libellé contesté est rédigé comme suit [traduction] : « La valeur pécuniaire des produits pharmaceutiques et la prétendue distribution des produits pharmaceutiques par les fiducies CHT étaient proportionnelles au paiement initial en espèces du participant, et correspondaient aux documents de commercialisation ». Je rejette la thèse de l’appelant. Je ne vois en l’espèce aucune situation manifeste de présentation de preuve; on expose les moyens auxquels l’appelant doit répondre.
+[43] L’appelant conteste le paragraphe 18.31 de la réponse modifiée proposée, au motif qu’il soulève des éléments mélangés de fait et de droit. La partie pertinente de l'observation controversée est rédigé comme suit [traduction] : « Les paiements initiaux en espèces étaient semblables aux frais payés pour avoir accès au programme CHT [...] ». L’appelant affirme que la question de droit en l’espèce est la caractérisation des [traduction] « frais ». Je rejette la thèse de l’appelant. Je ne constate aucun problème suffisamment important appelant la radiation d’une partie de ces actes de procédure.
+[44] L’appelant conteste les paragraphes 18.32 à 18.34 de la réponse modifiée proposée, qui allègue une autre hypothèse du ministre (paragraphe 18.33), selon laquelle [traduction] « [c]haque participant ayant fait une demande a été retenu comme bénéficiaire d’une fiducie CHT, à l’exception (peut-être) de ceux ayant annulé leur paiement initial en espèces » et également (au paragraphe 18.34) que les participants bénéficiaient de trois options à l’égard des produits pharmaceutiques prétendument distribués. L’appelant affirme qu’il n’a aucune connaissance de tout cela, et que ces renseignements proviennent de tiers. Une fois de plus, compte tenu de la jurisprudence Kossow de la CAF, il n'y a pas là un fondement pertinent pour radier ces hypothèses à cette étape précédant l’interrogatoire préalable.
+[45] L’appelant conteste de la même manière les paragraphes 18.35 et 18.36 de la réponse modifiée proposée. Le paragraphe 18.35, qui constitue une fois de plus une hypothèse du ministre, est rédigé comme suit [traduction] : « Tous les participants du programme CHT 2008 ont choisi de vendre des produits pharmaceutiques et de donner le produit de la vente à une œuvre de bienfaisance. » Le paragraphe 18.36, une autre hypothèse du ministre, est rédigé comme suit [traduction] : « En 2008, aucun organisme de bienfaisance ou autre infrastructure n’était en place pour faire don des produits pharmaceutiques à un réel organisme de bienfaisance. » Ma conclusion à l’égard de ces paragraphes est identique à mes commentaires concernant le paragraphe précédent.
+[46] Dans ses observations verbales, l’appelant conteste les paragraphes 18.37 et 18.38, essentiellement au motif qu’ils font valoir des faits non matériels et qui ne sont pas de la connaissance de l’appelant. Là encore, selon la jurisprudence Kossow, il ne s’agit pas de motifs appelant la radiation des actes de procédure à ce stade-ci de l’appel. Le paragraphe 18.38 renvoie également à des entités concluant un [traduction] « contrat », ce qui, selon l’appelant, constitue un élément de preuve. Je rejette cette thèse, car à cette étape-ci des procédures du moins, la mention du [traduction] « contrat » semble être faite dans un contexte général, sans accent apparent sur les éléments juridiques d’un contrat. Il n’est pas manifeste que cette partie de l’acte de procédure doit être radiée, du moins à ce stade de l’appel.
+[47] Il semble que les nouvelles modifications de l’intimée aux paragraphes 18.40 et 18.41 les rendent désormais acceptables pour l’appelant.
+[48] L’appelant conteste les paragraphes 18.42 à 18.45, essentiellement pour les mêmes fondements habituels, et a évoqué lors des débats les principes plus limités selon lesquels ces hypothèses allèguent des faits non matériels et que ces faits ne sont pas de la connaissance de l’appelant. Comme il a été noté, c’est au juge de première instance de trancher ces questions, conformément à la jurisprudence Kossow. Comme ailleurs, les multiples modifications proposées par l’intimée à la réponse modifiée proposée, présentées dans le contexte de la présente requête, sont notées. L'expression [traduction] « société écran » figurant au paragraphe 18.45 ne constitue pas, à mon avis, une allégation de droit évidente et manifeste, et je note qu’il s’agit d’une façon de s’exprimer pouvant être entendue d’une personne non initiée. Au besoin, l’interrogatoire préalable peut approfondir toute signification particulière.
+[49] Le paragraphe 18.55 est principalement contesté en raison des expressions [traduction] « pour faire croire » et [traduction] « pour donner l’apparence ». Je ne considère pas du tout que cette phraséologie plutôt insipide est vexatoire, scandaleuse ou frivole, et encore moins qu’elle constitue un abus de procédure ou qu’elle peut compromettre ou retarder l’instruction équitable du procès. Si ces formules colorent les faits allégués, comme l’a fait valoir verbalement l’appelant, il n'en découle qu’un beige morne. Ces observations se rapportent également aux paragraphes 18.56 et 18.57, dont l’appelant a fait état dans sa plaidoirie concernant le paragraphe 18.55.
+[50] Les paragraphes 18.58 à 18.70 sont contestés essentiellement selon les principes conjoints du manque de pertinence et du fait que l’appelant n’en a pas connaissance. Je citerai la jurisprudence Kossow pour fonder ma décision, à titre de juge des requêtes précédant l’interrogatoire préalable par opposition à l’éventuel juge de première instance, de ne pas radier ces actes de procédure pour ces motifs ni de discuter les questions relatives au fardeau de la preuve. Je conviens toutefois que l’emploi du mot [traduction] « domicilié » au paragraphe 18.61 (une occurrence) et au paragraphe 18.63 (deux occurrences) mélange indûment les faits et le droit dans les hypothèses de ces deux paragraphes. Par conséquent, je radie ce mot des trois endroits mentionnés, ce qui, pour le paragraphe 18.61, produit l'expression [traduction] « une entité [...] à » et pour le paragraphe 18.63 (deux occurrences), produit l'expression [traduction] « qui était [...] à ».
+[51] Les paragraphes 18.71 et 18.72 sont attaqués, car ils reflèteraient les actions d’un tiers, dont l’appelant prétend ne rien savoir. Conformément à la jurisprudence Kossow, ce n’est pas suffisant pour radier les éléments demandés à ce stade avant l’interrogatoire préalable. L’appelant a fait valoir oralement que le paragraphe 18.71 énonce des éléments de preuve et non des faits. Ce n’est pas évident à mon avis. Il semble plutôt que la formulation en cause constitue une affirmation factuelle concernant certains [traduction] « virements télégraphiques et autres opérations » faits par l’appelant ou en son nom. L’hypothèse factuelle invoquée est que ces opérations étaient [traduction] « simplement les paiements initiaux en espèce des participants qui recirculaient à travers diverses entités, qui étaient requalifiés et recomptés ». Le fait que ces opérations aient été censées avoir été [traduction] « requalifiées » ne constitue pas à mes yeux une observation relative à la preuve – c’est-à-dire la manière dont une affirmation factuelle serait prouvée – mais plutôt une affirmation factuelle en soi. En tout état de cause, il est dit qu’il n’y a pas de ligne de démarcation nette entre les faits plaidés et les éléments de preuves plaidés.
+[52] Dans chacun des paragraphes 18.73 et 18.74, l’appelant souhaite radier tout le texte et, subsidiairement, l’expression [traduction] « pour créer l’apparence ». Une fois de plus, les observations écrites de l’appelant font valoir inutilement toute la panoplie des motifs [traduction] : « répétitif, mélange de fait et de droit, non substantiel ou non pertinent, constitue des éléments de preuve, hypothèses de tierces parties, vexatoire, scandaleux ou frivole, constitue un abus de procédure, compromet ou retarde l’instruction équitable de l’appel ». Lors de ses observations verbales, l’appelant a insisté sur le fait que l'expression [traduction] « créer l’apparence » allègue une tromperie et que ces actes de procédure reflètent les actions de tiers, sont non matériels et constituent un abus de procédure. À mon avis, il n’y a pas d’allégation de tromperie lorsque, comme ici, elle n’est pas explicitement plaidée. Par ailleurs, une fois de plus, la jurisprudence Kossow est hostile à la radiation d’actes de procédure à ce stade avant l’interrogatoire préalable.
+[53] L’appelant attaque ensuite les paragraphes 18.75 à 18.118 de la réponse modifiée proposée, en citant verbalement essentiellement des actions de tiers et des faits non matériels. Selon la jurisprudence Kossow, ces observations ne doivent pas donner lieu à la radiation d’actes de procédure, qui doivent plutôt être examinées après les interrogatoires préalables ou par le juge de première instance. J’ajoute que la référence, au paragraphe 18.75, aux organismes de bienfaisance participant au programme CHT qui concluent des [traduction] « accords spécifiques » n’équivaut pas à la présentation d’éléments de preuve, comme l’a affirmé verbalement l’appelant. La référence aux [traduction] « accords » comme élément de preuve est trop générale ou générique. L’acte de procédure supplémentaire selon lequel les organismes de bienfaisance participants [traduction] « n’avaient aucun contrôle » sur les fonds prétendument reçus constitue-t-il un énoncé mélangé de fait et de droit, comme l’a affirmé verbalement l’appelant? À mon avis, cet énoncé – c’est-à-dire que les organismes de bienfaisance participants [traduction] « n’avaient aucun contrôle » sur les fonds prétendument reçus – est essentiellement un énoncé de fait plutôt qu’un énoncé mélangé de fait et de droit. On ne voit pas clairement comment, de cet énoncé soi-disant mélangé de fait et de droit, un énoncé de droit pourrait être dégagé de cet énoncé de fait. Enfin, en tant que juge des requêtes, je ne peux faire des radiations que s’il est manifeste (ce qui n’est pas le cas en l'espèce) qu'elles sont justifiées.
+[54] Dans ses observations écrites, l’appelant s’oppose aux paragraphes 18.119 (en-tête) et aux paragraphes 18.126 à 18.128 sur un fondement collectif légèrement différent. Toutefois, lors de ses observations verbales, l’appelant semble accepter ces dispositions, qui ont été grandement modifiées par l’intimée entre-temps.
+[55] L’appelant fait valoir que le paragraphe 18.131 est non matériel et qu’il constitue [traduction] « plus une opinion qu’un fait ». Comme il a déjà été signalé à maintes reprises, une allégation de manque de matérialité des hypothèses du ministre ne justifie pas leur radiation par le juge des requêtes. Il revient en définitive au juge de première instance de déterminer ce qui est matériel et ce qui ne l’est pas. Et en ce qui concerne l’expression [traduction] « plus une opinion qu’un fait », il n’est pas précisé si le fait invoqué concernant la principale raison pour laquelle l’appelant a participé au programme CHT est fondé sur une opinion. Nous savons toutefois qu’il s’agit d’une hypothèse évoquée par le ministre. Je ne vois ici aucune raison de radier les expressions en cause. L’appelant conteste également les expressions [traduction] « reçu fiscal pour don gonflé » et [traduction] « abri fiscal » (cette dernière expression a été supprimée par la suite par l’intimée). Je ne puis conclure que l'expression « reçu fiscal pour don gonflé » est particulièrement vexante. Elle traduit de manière précise et succincte l’idée maîtresse de l’ensemble de la réponse modifiée proposée, bien que dans une formulation légèrement plus colorée que ce que l’appelant pourrait préférer. À ce stade précoce de l’appel, je ne radierai aucun passage du paragraphe 18.131 de la réponse modifiée proposée.
+[56] L’appelant s’oppose à l’emploi de l'expression « abri fiscal » du paragraphe 19a). Elle a été en grande partie supprimée par l’intimée afin qu’elle ne soit pas continuellement répétée. Comme il a été signalé, on la retrouve dans la LIR. Je ne me sens pas tenu de le radier ici.
+[57] La dernière objection de l’appelant porte sur le paragraphe 22 de la réponse modifiée proposée. Dans ses observations écrites, l’appelant s’oppose uniquement à l’utilisation de l'expression « abri fiscal » au paragraphe 22(a). Je ne la radierai pas, pour les mêmes motifs énoncés à l’égard du paragraphe 19(a).
+[58] J’accueille la requête, mais uniquement pour la radiation du mot [traduction] « domicilié » figurant au paragraphe 18.61 (une occurrence) et au paragraphe 18.63 (deux occurrences). Il est ordonné que les dépens de la présente requête au montant fixe de 1 250 $ devront être payés par l’appelant à l’intimée dans les 30 jours suivant la date du prononcé de l’ordonnance dans la présente affaire.
+Les présents motifs modifiés de l’ordonnance remplacent les motifs modifiés de l’ordonnance datés du 30 juillet 2020.
+Signé à Halifax (Nouvelle-Écosse), ce 10e jour d’août 2020.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 8e jour de février 2021.
+François Brunet, réviseur
+Annexe « A »
+2018-3248(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE
+GRAHAM MUDGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+RÉPONSE MODIFIÉE
+En réponse au nouvel avis d’appel, soit le nouvel avis d’appel modifié de l’appelant à l’égard de l’année d’imposition 2008 aux termes de la Loi de l’impôt sur le revenu (la Loi), le procureur général du Canada affirme ce qui suit :
+APERÇU
+La Canadian Humanitarian Trust (CHT) était un abri fiscal enregistré conçu, commercialisé et exécuté pour abuser du système canadien de reçus pour don de bienfaisance et de crédits d’impôt. Cet montage a permis d’enrichir les personnes qui le dirigeaient, celles qui le promouvaient et les contribuables qui y participaient. L’appelant a participé au CHT en espérant réaliser un profit. En 2008, il a effectué un paiement en espèces de 10 199 $ et a obtenu un reçu pour don de bienfaisance de 50 559 $.
+Le ministre du Revenu national a établi une nouvelle cotisation à l’égard de l’appelant afin d’accorder le crédit d’impôt pour don de bienfaisance de son paiement en espèces de 10 139 $, mais a rejeté le don fictif en espèces au-delà de ce montant. La seule question en litige dans le présent appel est de savoir si l’appelant est en droit de demander un crédit d’impôt pour le prétendu don allant au-delà de ce qu’il a réellement payé pour participer au programme.
+A. EXPOSÉ DES FAITS
+Le procureur général du Canada admet les faits énoncés au paragraphe 7 du nouvel avis d’appel modifié.
+Le procureur général du Canada admet les faits énoncés au paragraphe 12 du nouvel avis d’appel modifié.
+En ce qui a trait au paragraphe 6, le procureur général du Canada nie l’énoncé selon lequel [traduction] « à la demande des parties, la Cour de l’impôt a ordonné que la procédure générale s’applique à l’égard de l’appel ». Plus précisément, le procureur général du Canada affirme que l’appelant a révoqué son choix d’interjeter appel à l’égard de l’année d’imposition 2008 sous le régime de la procédure informelle et que le procureur général du Canada ne s’est pas opposé à la demande de l’appelant.
+Relativement au paragraphe 8, le procureur général du Canada :
+a)admet qu’en 2008, l’appelant a participé au programme de don CHT; et
+b)nie que l’appelant a fait un don en espèces de 50 559 $ à Escarpment Biosphere Foundation (EBF).
+À l’égard du paragraphe 9, le procureur général du Canada affirme que le statut d’organisme de bienfaisance d’EBF a été révoqué en date du 11 février 2012 en raison de sa participation au programme CHT.
+En ce qui a trait au paragraphe 10, le procureur général du Canada :
+a)nie les faits allégués aux paragraphes a), b) et d);
+b)nie les faits allégués aux paragraphes c) et affirme plus précisément que l’appelant s’est engagé à faire un don en espèces à EBF pour un montant de 10 199 $; et
+c)à l’égard du paragraphe e), admet que l’appelant a rédigé un chèque d’un montant de 10 199 $ à Sommer’s, lequel chèque a été détenu en fidéicommis pour l’appelant. Le procureur général du Canada nie que le montant de 10 199 $ a finalement été donné à EBF.
+Relativement au paragraphe 11, le procureur général du Canada n’a aucune connaissance de la compréhension qu’avait l’appelant du programme CHT et met cette connaissance en cause. Le procureur général du Canada nie les faits sous-jacents énoncés au paragraphe 11.
+En ce qui a trait au paragraphe 13, le procureur général du Canada :
+a)admet qu’EBF a remis un reçu fiscal au de 50 559 $;
+b)nie que l’appelant a fait un don de 50 559 $ au cours de l’année d’imposition 2008; et
+c)déclare que la question de savoir si EBF a accepté le prétendu don de l’appelant est une question de droit et de fait et non un fait à admettre ou nier. Le procureur général du Canada nie particulièrement qu’EBF a reçu un don de 50 559 $ de l’appelant ou de toute autre personne au nom de l’appelant.
+À l’égard du paragraphe 14, le procureur général du Canada. nie les faits énoncés par l’appelant. Plus précisément, le procureur général du Canada affirme que :
+a)l’appelant a demandé une déduction de l’impôt à payer pour 2008 à l’égard de son prétendu don en espèces de 50 559 $ à EBF; et
+b)l’appelant n’a pas fait de don de 50 559 $ en espèces à EBF.
+Le procureur général du Canada affirme que le surplus du nouvel avis d’appel modifié est présenté principalement sous forme d’argument de droit. Le procureur général du Canada nie les faits qui pourraient y être incidemment allégués.
+En 2008, l’appelant a participé au programme de don CHT aux termes duquel, après avoir engagé une dépense de 10 199 $, on lui a remis un reçu pour don de bienfaisance de 50 559 $. Soixante dollars du paiement en espèces de 10 199 $ étaient versés à titre d’honoraires d’avocat.
+Lors de la production de sa déclaration de revenus pour l’année 2008, l’appelant a inclus un montant de 50 559 $ dans le calcul de ses dons de bienfaisance totaux, aux termes de l’article 118.1 de la Loi.
+Par avis daté du 28 décembre 2011, le ministre du Revenu national (le ministre) a établi une nouvelle cotisation à l’égard de l’année d’imposition 2008 de l’appelant excluant le montant de 50 559 $ du calcul des dons de bienfaisance totaux aux termes de l’article 118.1 de la Loi.
+Par avis daté du 29 février 2012, l’appelant s’est opposé à la nouvelle cotisation.
+Par avis daté du 16 mai 2014, le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition 2008 de l’appelant accordant le montant de 10 139 $, représentant son paiement en espèces, dans le calcul de ses dons de bienfaisance totaux aux fins du calcul du crédit d’impôt pour don de bienfaisance.
+Pour déterminer l’obligation fiscale de l’appelant pour l’année d’imposition 2008, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+Survol de l’abri fiscal Canadian Humanitarian Trust
+18.1 L’abri fiscal Canadian Humanitarian Trust (no TS069310) était un programme d’arrangement de don (le programme CHT);
+18.2 L’objectif affirmé du programme d’arrangement CHT était d’offrir du soutien à des organismes de bienfaisance canadiens et de contribuer au combat international contre la pauvreté en offrant une aide humanitaire sous forme de médicaments et de produits de diagnostic médical (les produits pharmaceutiques);
+18.3 Le programme CHT était en fait une combine à peine déguisée conçue pour enrichir diverses parties, notamment les participants comme l’appelant, les promoteurs et d’autres parties impliquées dans ce programme;
+18.4 Le programme CHT est issu du programme Canadian Gift Initiatives (CGI), qui n’a été en activité qu’en 2003;
+18.5 Messieurs Stephen Rosen et Leonard Bellam ont créé le programme CHT en 2004, en réponse aux modifications proposées de la Loi de l’impôt sur le revenu. Ce programme a été en activité selon diverses modalités entre 2004 et 2008;
+18.6 Le fonctionnement annoncé du CHT 2008 était le suivant :
+a)le participant faisait une contribution à un organisme de bienfaisance canadien enregistré (le paiement initial en espèce);
+b)ce participant présentait ensuite une demande pour devenir bénéficiaire d’une fiducie canadienne et, si sa demande était retenue, il recevait une distribution de produits pharmaceutiques de la fiducie;
+c)un avocat était chargé d’organiser la vente des produits pharmaceutiques du participant;
+d)l’avocat avait également pour mission d’organiser le don du paiement initial en espèces du participant et le produit de la vente des produits pharmaceutiques à un organisme de bienfaisance canadien enregistré (la contribution combinée);
+e)le participant recevait ensuite un reçu fiscal au montant de la contribution combinée;
+f)le reçu pour don de bienfaisance était d’environ quatre fois la valeur du paiement initial en espèces du participant et se traduisait par un rendement net de 48 % à 110 % en quelques mois;
+g)pour les résidents de l’Ontario, un paiement initial en espèces de 11 500 $ pouvait se traduire en des crédits d’impôt de plus de 19 000 $ et un gain net d’environ 7 700 $;
+18.7 Chaque participant au programme CHT y a pris part en comprenant et en espérant que son paiement initial en espèces entraînerait un rendement net de 48 % à 110 % des crédits d’impôt pour don de bienfaisance;
+18.8 Entre 2007 et 2008, le programme CHT a permis de collecter environ 67 millions de dollars en paiements initiaux en espèces;
+18.9 En 2008, environ 3 325 personnes ont participé au programme CHT. Ces participants ont versé des paiements initiaux en espèces d’une valeur d’environ 23,5 millions de dollars;
+18.10 Des reçus pour dons de bienfaisance liés au programme CHT d’une valeur d’environ 108 millions de dollars ont été remis en 2008;
+18.11 L’appelant est un des participants ayant obtenu un reçu pour don de bienfaisance en 2008;
+18.12 L’appelant a versé un paiement initial en espèces de 10 199 $ en fidéicommis au cabinet d’avocat Sommer’s et a obtenu un reçu pour don de bienfaisance de 50 559 $ d’EBF environ six mois plus tard.
+18.13 L’appelant a demandé des crédits d’impôt fédéral et provincial de 21 535 $ par suite de sa participation au programme CHT en 2005;
+18.14 L’appelant a participé au programme CHT essentiellement pour se prévaloir d’un avantage fiscal excédant le paiement en espèce initial qu’il avait versé et non pour faire un don de bienfaisance à un organisme de bienfaisance canadien enregistré;
+Structure générale et organisation du programme CHT
+18.15 World Health Initiatives Inc. (WHI) était le promoteur du programme CHT;
+18.16 Depuis 2004, Stephen Rosen en était le président et l’unique administrateur; il était l’âme dirigeante de WHI;
+18.17 Jusqu’en 2007, Back Office Systems Limited (Back Office) était un prestataire de services du programme CHT, essentiellement pour des tâches de gestion générale, notamment pour la remise des reçus fiscaux au nom des organismes de bienfaisance visés;
+18.18 Matthew Rosen, le fils de Stephen Rosen, était l’unique actionnaire et président de Back Office Systems Limited;
+18.19 En 2008, Back Office Systems (2008) Limited a repris le rôle de prestataire de services pour les tâches de gestion générale précitées;
+18.20 Leonard (Lenny) Karmiol était l’unique actionnaire et président de Back Office Systems (2008) Limited;
+18.21 Canadian Donations (2005) Ltd (CDL 2005) était responsable du marketing du programme CHT pour WHI, ce qui comprenait l’organisation de colloques visant à recruter des participants pour le programme fiscal CHT;
+CDL 2005 et son prédécesseur, Canadian Donations Limited, ont joué ce rôle à compter de 2003, avec l’arrangement CGI, jusqu’à l’achèvement du programme CHT en 2008;
+18.22 Les services de marketing étaient assurés par des vendeurs rémunérés à la commission et de colloques publics offerts partout au Canada;
+18.23 Le programme CHT était structuré de telle sorte que tous les fonds versés par un participant étaient contrôlés en tout temps par les promoteurs;
+18.24 Toutes les opérations relatives à l’arrangement CHT étaient organisées au préalable, et la seule implication demandée aux participants était de verser le paiement initial en espèces et de signer certains documents;
+Processus de participation au programme CHT
+18.25 Les participants pouvaient participer au programme soit par l’intermédiaire d’un vendeur indépendant, qui recevait une commission pouvant aller jusqu’à 32 % du paiement en espèces du participant, soit en assistant aux colloques annoncés dans la collectivité locale;
+18.26 Pour participer au programme CHT, chaque participant devait retenir les services du cabinet d’avocat Sommer’s Business (Sommer’s) comme avocat fiduciaire pour intervenir en son nom afin de faciliter les opérations qui auraient prétendument eu lieu suite à sa participation au programme CHT (la délégation de pouvoir);
+18.27 Cette délégation de pouvoir permettait à Sommer’s d’intervenir pour le compte du participant afin de faciliter les opérations qui auraient prétendument eu lieu par suite de sa participation au programme CHT;
+18.28 Le participant devait faire une demande selon la valeur de produits pharmaceutiques qu’il souhaitait se faire distribuer par la fiducie;
+18.29 Le participant devait joindre son paiement initial en espèces à cette demande;
+18.30 La valeur pécuniaire des produits pharmaceutiques et la prétendue distribution des produits pharmaceutiques par les fiducies CHT étaient proportionnelles au paiement initial en espèces du participant, et correspondaient aux documents de commercialisation;
+18.31 Les paiements initiaux en espèces s’apparentaient à des frais payés pour avoir accès au programme CHT, qui permettait d’obtenir des reçus pour dons de bienfaisance gonflés;
+18.32 Les fiducies n’étaient pas encore constituées au moment où le participant (y compris l’appelant) a présenté une demande pour devenir bénéficiaire de la fiducie;
+18.33 Chaque participant ayant présenté une demande a été reconnu comme bénéficiaire d’une fiducie CHT, à l’exception (potentiellement) des participants qui ont annulé leur paiement initial en espèces;
+18.34 Trois options ont été présentées aux participants à l’égard des produits pharmaceutiques qui seraient prétendument distribués aux candidats retenus au programme CHT : i) vendre les produits pharmaceutiques et verser le produit de la vente à un organisme de bienfaisance; ii) donner directement les produits pharmaceutiques à un organisme de bienfaisance; iii) conserver les produits pharmaceutiques;
+18.35 Tous les participants au programme CHT 2008 ont choisi de vendre les produits pharmaceutiques et d’en verser le produit à un organisme de bienfaisance;
+18.36 En 2008, aucun organisme de bienfaisance ou autre infrastructure n’était en place pour permettre un don direct des produits pharmaceutiques à un organisme de bienfaisance;
+18.37 Si un participant avait choisi une option autre que celle de verser le produit de la vente des produits pharmaceutiques, il aurait dû donner une mainlevée de privilège, organiser le stockage et le transport des produits et veiller à la conformité des exigences réglementaires et légales strictes;
+Chaque participant s’est engagé à verser la contribution combinée, c’est-à-dire la combinaison de son paiement initial en espèces et du produit de la vente des produits pharmaceutiques devant lui être distribué, à l’un des organismes de bienfaisance participants;
+18.38 Les participants ne pouvaient s’engager à verser la contribution combinée qu’aux organisations de bienfaisance qui avaient conclu un contrat avec WHI (pour l’appelant, il s’agissait d’EBF) et ne pouvaient pas faire de dons à une organisation de bienfaisance de leur choix;
+18.39 Chaque participant a convenu de vendre les produits pharmaceutiques qui lui seraient prétendument distribués (ou qui allaient lui être distribués) par la fiducie CHT;
+Fiducies et distributions alléguées de produits pharmaceutiques aux participants au programme CHT
+18.40 En 2008, le programme CHT était composé de cinq (5) fiducies Canadian Humanitarian Trusts (les fiducies CHT);
+18.41 CET Fiduciary Services Ltd., une société de l’Ontario, était la fiduciaire des fiducies CHT (la fiduciaire);
+18.42 Les fiducies CHT auraient été constituées par Crunin Investments Limited (Crunin), une société des îles Vierges britanniques;
+18.43 M. David Feldman était le président de Crunin. Il était impliqué dans le programme CHT depuis 2004.
+18.44 Les promoteurs alléguaient que Crunin avait acheté les produits pharmaceutiques en vrac à une société chypriote, appelée KP Innovispharm Ltd. (KPI);
+18.45 KPI était une société écran gérée par un cabinet d’avocats chypriote, Polakis Sarris & Co. (le cabinet d’avocat chypriote) qui exploitait également la société Summatco Holdings Co. Ltd (définie ci-après);
+18.46 Les promoteurs affirmaient que Crunin avait garanti l’achat des produits pharmaceutiques à KPI au moyen d’un billet à ordre, dont le montant représentait la sûreté sur les produits pharmaceutiques;
+18.47 Les promoteurs alléguaient que Crunin avait attribué les produits pharmaceutiques au profit des fiducies CHT;
+18.48 KPI n’a jamais eu de produits pharmaceutiques à vendre à Crunin;
+18.49 Crunin n’a jamais acheté de produits pharmaceutiques de KPI;
+18.50 Crunin n’a jamais possédé les produits pharmaceutiques de KPI;
+18.51 Crunin ne pouvait pas vendre de produits pharmaceutiques au profit de l’une des fiducies CHT et ne l’a jamais fait;
+18.52 Par conséquent, les fiducies CHT n’avaient aucun produit pharmaceutique à distribuer aux participants qui seraient devenus des bénéficiaires des fiducies CHT;
+18.53 Les participants au programme CHT (ou leurs représentants) n’ont jamais reçu de distribution de produits pharmaceutiques des fiducies CHT;
+18.54 Les participants au programme CHT n’avaient aucun produit pharmaceutique à vendre;
+Le cycle de l’argent
+18.55 Les auteurs du programme CHT ont conçu et mis en application le programme pour faire croire que les participants donnaient plus d’argent qu’en réalité (décrit dans la première série d’opérations ci-après) et pour donner l’apparence qu’environ 88,6 millions de dollars de produits pharmaceutiques ont été achetés et distribués par EBF, alors que la valeur réelle de ces produits pharmaceutiques était inférieure à 704 000 $ (décrit dans la seconde série d’opérations ci-après);
+18.56 Les seuls fonds provenant réellement du programme CHT étaient les paiements initiaux en espèces versés par les participants;
+18.57 Alors que de plus en plus de personnes ont participé au fil du temps et versé leur paiement initial en espèce, leurs fonds ont été distribués et redistribués par l’intermédiaire de diverses entités, créant ainsi l’illusion nécessaire au soutien des reçus pour dons de bienfaisance gonflés (le cycle de l’argent);
+(i) Vente alléguée de produits pharmaceutiques distribués par les fiducies CHT (première série)
+18.58 Suivant la distribution alléguée des produits pharmaceutiques par CHT aux participants, Sommer’s les aurait vendus en leurs noms à un organisme non gouvernemental américain appelé Medical Education Training and Development Inc (METAD);
+18.59 À la fin de 2006, les revenus et les actifs de METAD étaient de moins de 100 000 $ chacun;
+18.60 Les promoteurs alléguaient qu’en 2008, environ 84 millions de dollars en espèces avaient été versés à Sommer’s par l’International Children’s Charitable Trust (la fiducie ICC) pour le compte de METAD afin de conclure l’achat des produits pharmaceutiques prétendument distribués par les fiducies CHT aux participants;
+18.61 La fiducie ICC était une entité domiciliée aux îles Vierges britanniques;
+18.62 La fiducie ICC aurait donné instruction à deux entités des Caraïbes de virer des fonds à Sommer’s pour conclure les opérations avec METAD;
+18.63 La première entité s’appelait Colorado Springs Limited (Colorado Springs) et était domiciliée à Saint-Vincent et les Grenadines. La seconde s’appelait International Children’s Foundation (la Fondation) et était domiciliée à Saint-Christophe-et-Niévè;
+18.64 Malgré leur emplacement, ces deux entités possédaient des comptes de banque en Suisse, qu’elles utilisaient pour transférer des fonds à Sommer’s;
+18.65 En 2008, Colorado Springs a transféré environ 70 millions de dollars à Sommer’s, alors que la fondation lui a envoyé environ 14 millions de dollars (les produits allégués de la vente);
+18.66 Sommer’s enregistrait le reçu du paiement initial en espèces du participant et ajoutait le produit allégué de la vente à METAD aux comptes en fiducie du participant;
+18.67 De ce fonds combiné, Sommer’s a conservé ses frais nominaux de 60 $ par compte et a transféré le solde aux comptes sous séquestre de l’organisme de bienfaisance détenus par Collateral Fiscal Services Inc. (Collateral);
+18.68 En 2008, Collateral exploitait des comptes de banque sous séquestre pour tous les organismes de bienfaisance impliqués;
+18.69 Un prestataire de service, Jakima Management Inc. (Jakima) délivrait alors un reçu pour don de bienfaisance au nom de l’organisme de bienfaisance désigné (EBF dans le cas de M. Mudge) à un participant pour le montant de la contribution combinée, moins les honoraires d’avocat de Sommer’s;
+18.70 Le seul argent réellement engagé dans le programme CHT provenait des paiements initiaux en espèces versés par les participants;
+18.71 Les virements télégraphiques et autres opérations qui auraient justifié les produits allégués de la vente étaient en fait simplement les paiements initiaux en espèce des participants qui recirculaient par l’intermédiaire de diverses entités et qui étaient requalifiés et recomptés.
+18.72 Il n’y a jamais eu de produits de la vente des produits pharmaceutiques permettant de justifier les contributions combinées découlant de la première série d’opérations;
+(ii) Achat et vente allégués de produits pharmaceutiques supplémentaires par EBF (deuxième série)
+18.73 La deuxième série d’opérations était conçue pour créer l’apparence qu’EBF avait utilisé les contributions combinées pour acheter pour environ 88,6 millions de dollars de produits pharmaceutiques, alors qu’en réalité, ils ne valaient pas plus de 704 000 $;
+18.74 La deuxième série d’opérations chevauche la première série pour contribuer à créer l’apparence du produit présumé de la vente à METAD;
+18.75 Tous les organismes de bienfaisance participant au programme CHT devaient accepter et conclure des accords déterminés régissant le flux de fonds – ils n’avaient aucun contrôle sur les fonds qu’ils prétendaient recevoir;
+18.76 Les organismes de bienfaisance impliqués dans l’arrangement du CHT 2008 étaient soit des organismes de bienfaisance recevant de l’argent (les organismes de bienfaisance recevant de l’argent), soit des organismes de bienfaisance qui auraient prétendument acheté et distribué des produits pharmaceutiques supplémentaires (les organismes de bienfaisance de distribution);
+18.77 Dans le cas de l’appelant, EBF était à la fois un organisme de bienfaisance recevant de l’argent et faisant la distribution;
+18.78 Aux termes de l’entente avec WHI, chaque organisme de bienfaisance recevant de l’argent ne conservait que 0,25 % de l’argent déposé dans ses comptes en fiducie;
+18.79 Un pour cent de l’argent était envoyé à WHI à titre de frais de gestion;
+18.80 Les 98,75 % restant étaient immédiatement virés à EBF, le seul organisme de bienfaisance de distribution du programme CHT 2008;
+18.81 EBF avait conclu un accord distinct avec WHI;
+a)EBF ne conservait également que 0,25 % de l’argent;
+b)Elle envoyait 13,5 % de l’argent à WHI à titre de frais de gestion pour les services de collecte de fonds, notamment la sollicitation des donateurs, la gestion et la tenue de dossiers;
+c)EBF utilisait ensuite les 86,25 % restant des fonds pour l’achat d’un ensemble distinct de produits pharmaceutiques;
+18.82 EBF a conclu un accord d’achat en gros avec Aventor Limited (Aventor) le 19 novembre 2008;
+18.83 Aventor a été constituée le 22 mai 2007 et était domiciliée à Tortola, dans les îles Vierges britanniques;
+18.84 Le président d’Aventor était David Feldman (également président de Crunin, la soi-disant constituante des fiducies CHT);
+18.85 L’accord d’achat en gros obligeait contractuellement EBF à acheter tous ses produits pharmaceutiques auprès d’Aventor pour un prix prédéfini d’environ 88,6 millions de dollars;
+18.86 La conclusion de cet accord par EBF était une condition préalable à sa participation au programme de don CHT;
+18.87 Aventor n’a jamais acheté les produits pharmaceutiques qu’elle aurait vendus à EBF;
+18.88 Les produits pharmaceutiques visés par l’accord d’achat en gros étaient prétendument évalués à environ 88,6 millions de dollars;
+18.89 Aventor a émis des factures datées du 1er décembre 2008 de 88,6 millions de dollars à EBF;
+18.90 En réalité, ces produits pharmaceutiques ne valaient pas plus de 704 000 $ et leur valeur pouvait être aussi basse que 176 000 $;
+18.91 Le 5 décembre 2008, Aventor a avisé EBF d’envoyer tous les paiements qu’elle lui devait à une société appelée Summatco Holdings Co. Ltd. (Summatco). Cette mesure aurait été prise parce que Summatco aurait vendu les produits pharmaceutiques à Aventor;
+18.92 Summatco n’a jamais eu la propriété des produits pharmaceutiques qu’elle aurait vendus à Aventor (et qu’Aventor aurait vendus à EBF);
+18.93 Summatco était une société écran située à Chypres et était représentée par le cabinet d’avocat chypriote qui gérait également KPI;
+18.94 L’actionnaire de Summatco était une société panaméenne appelée Leemo Enterprises Limited (Leemo);
+18.95 Leemo était une autre société écran gérée par le cabinet d’avocat chypriote;
+18.96 Du 11 décembre 2005 au 15 juin 2009 inclusivement, EBF a fait quatorze (14) virements télégraphiques à Summatco pour un montant total d’environ 92,8 millions de dollars, au lieu des 88,6 millions de dollars facturés dans le cadre du contrat d’achat en gros. Cette augmentation serait due à des changements de prix et au non-respect des délais de remise;
+18.97 Summatco a ensuite transmis les fonds à Leemo, qui les a ensuite transmis à Colorado Springs et à la Fondation;
+18.98 Les fonds reçus par Colorado Springs et la Fondation auraient ensuite été renvoyés à Sommer’s au Canada et qualifiés de paiements pour le compte de METAD par la fiducie ICC pour l’achat des produits pharmaceutiques qui auraient été vendus dans la première série d’opérations;
+Valeur des produits pharmaceutiques retrouvés dans le programme CHT
+18.99 MedPharm LLC (MedPharm) était à l’origine de l’achat et de l’expédition des produits pharmaceutiques qui ont réellement existé et ont été utilisés en lien avec le programme CHT 2008.
+18.100 MedPharm était un distributeur de médicaments génériques (privé) situé à Alexandria, en Virginie.
+18.101 Elle a joué un rôle central dans le programme CHT, particulièrement à l’égard des activités se déroulant à l’extérieur du Canada;
+18.102 MedPharm avait participé au programme de don CGI depuis 2003;
+18.103 MedPharm favorisait la vente de ses produits à des organismes de bienfaisance en mettant l’accent sur les avantages pour les organismes de bienfaisances qui utilisaient une méthode d’évaluation connue comme le prix de gros moyen;
+18.104 Avec la méthode d’évaluation du prix de gros moyen, les produits pharmaceutiques étaient évalués à des valeurs beaucoup plus élevées que leur prix d’achat réel;
+18.105 La majoration des produits pharmaceutiques qui auraient été achetés par EBF à Aventor allait jusqu’à 52 000 % du prix payé par MedPharm pour leur acquisition auprès des fabricants;
+18.106 Le Mebendazole et le Nitezole étaient les deux seuls produits pharmaceutiques prétendument achetés par EBF à Aventor;
+18.107 EBF affirmait avoir passé des commandes de plus de 70 millions de dollars pour le Mebendazole et de 36,3 millions de dollars pour le Nitezole;
+18.108 MedPharm a acheté le Mebendazole aux fabricants pour moins de deux centimes par comprimé, alors qu’EBF l’aurait acheté à Aventor pour pas moins de 9,76 $ le comprimé;
+18.109 Le Nitezole est un médicament créé par MedPharm et fabriqué par d’autres sociétés sous contrat avec elle;
+18.110 La valeur du Nitezole était d’environ trois centimes par comprimé, alors qu’EBF affirmait avoir payé jusqu’à 12,12 $ par comprimé;
+18.111 La juste valeur marchande combinée des produits pharmaceutiques prétendument distribués par les fiducies CHT dans la première série d’opérations et prétendument achetés par EBF dans la deuxième série d’opérations se situait entre 555 000 dollars et 3,5 millions de dollars;
+18.112 Le produit allégué de la vente du premier ensemble de produits pharmaceutiques prétendument distribué par les fiducies CHT aux participants et le prix d’achat du second ensemble de produits pharmaceutiques prétendument acheté par EBF ont été artificiellement gonflés pour permettre au programme d’offrir un rendement rentable aux participants;
+Dans la mesure où les produits pharmaceutiques ont existé
+18.113 Les produits pharmaceutiques n’ont jamais été physiquement transférés ou importés au Canada;
+18.114 Il était très peu probable que les produits pharmaceutiques soient admissibles à l’importation au Canada;
+18.115 De nombreux produits pharmaceutiques ont été formulés en fonction du marché auquel ils étaient destinés et ne répondraient probablement pas aux normes canadiennes;
+18.116 EBF aurait prétendument pris des dispositions pour que des organismes d’aide mis en cause dans des pays en voie de développement distribuent les produits pharmaceutiques qu’elle aurait acheté;
+18.117 EBF n’a pas utilisé les produits pharmaceutiques qu’elle aurait utilisés pour ses propres programmes;
+18.118 La distribution de produits pharmaceutiques n’a jamais fait partie des activités de base d’EBF, ni d’aucun des organismes de bienfaisance recevant de l’argent ou faisant la distribution impliqués dans le programme CHT.
+Participation de l’appelant au programme CHT 2008
+18.119 Le 11 août 2008, l’appelant a présenté une demande pour devenir bénéficiaire d’une fiducie canadienne dans le cadre du programme CHT et pour que des unités de produits pharmaceutiques, dont la valeur déclarée était d’au moins 47 000 $, lui soient distribuées.
+18.120 Le 11 août 2008, à l'appui de sa demande, l’appelant a versé un paiement initial en espèces de 10 199,00 $ à Sommer’s, en fidéicommis.
+18.121 Le 11 août 2008, l’appelant a signé une déclaration d’intention et a choisi de vendre les produits pharmaceutiques qui pourraient lui être distribués et de donner le produit de la vente à un organisme de bienfaisance;
+18.122 Le 11 août 2008, l’appelant a signé une convention d’achat et de vente et de transfert de médicaments et de produits diagnostique par laquelle il s’est engagé comme prétendu vendeur des produits pharmaceutiques;
+18.123 Le 11 août 2008, l’appelant a signé une promesse de contribution en espèces à EBF d’une valeur de 10 199 $;
+18.124 L’appelant a par la suite modifié la promesse de contribution en espèces pour indiquer qu’il s’engageait à faire un don de 50 559 $;
+18.125 L’appelant a obtenu un reçu pour don de bienfaisance d’EBF pour un don en espèces de 50 559 $;
+18.126 L’appelant n’a jamais reçu de distribution de produits pharmaceutiques des fiducies CHT;
+18.127 L’appelant ne possédait aucun produit pharmaceutique qu’il pouvait vendre ou pour lequel il pouvait donner instruction à Sommer’s de le vendre en son nom;
+18.128 L’appelant n’a pas fait de don en espèces de 50 559 $ (ou de tout autre montant supérieur à 10 139 $ à EBF;
+18.129 La juste valeur marchande des produits pharmaceutiques qui auraient été distribués à l’appelant ou vendus en son nom (tels qu’ils figurent sur la liste des médicaments essentiels de l’Organisation mondiale de la santé retrouvés de l’appelant) était d’au plus 378 $;
+18.130 L’appelant a demandé des crédits d’impôt fédéral et provincial de 21 535 $ par suite de sa participation au programme CHT en 2008;
+18.131 L’appelant a participé au programme CHT essentiellement pour s’enrichir au moyen d’un reçu fiscal pour don gonflé et non dans le but de faire un don de bienfaisance à un organisme de bienfaisance canadien enregistré.
+B. AUTRES FAITS MATÉRIELS
+Le procureur général du Canada se fonde également sur les faits matériels supplémentaires suivants :
+a)le ministre a révoqué le statut d’organisme de bienfaisance enregistré d’EBF le 11 février 2012 en raison de sa participation à l’abri fiscal de CHT;
+b)le ministre a révoqué le statut d’organisme de bienfaisance de tous les organismes de bienfaisance recevant de l’argent impliqué dans le programme CHT en 2008.
+C. QUESTIONS À TRANCHER
+Les questions soulevées dans le présent appel sont les suivantes :
+a)l’appelant a-t-il fait un don en espèces de 50 559 $ à EBF au sens de l’article 118.1 de la Loi?
+b)nonobstant la question en litige a), le transfert de propriété vaut-il don au sens du paragraphe 248(30) de la Loi et, dans l'affirmative, quel était le montant de don admissible aux termes des paragraphes 248(31), (32) et (35) de la Loi?
+c)le reçu pour don de bienfaisance donné par EBF à l’appelant faisait-il état de tous les renseignements prescrits conformément aux articles 3500 et 3501 du Règlement de l’impôt sur le revenu?
+D. DISPOSITIONS LÉGALES INVOQUÉES
+Le procureur général du Canada se fonde sur les articles 3, 69, 118.1, 149.1 et 237.1 et sur les paragraphes 152(9), 248(1), 248(30), 248(31), 248(32), 248(33) et 248(35) de la Loi ainsi que sur les articles 3500 et 3501 du Règlement de l’impôt sur le revenu.
+E. MOYENS INVOQUÉS ET MESURES SOLLICITÉES
+Dans le calcul de son crédit d’impôt pour dons de bienfaisance aux termes de l’article 118.1 de la Loi pour son année d’imposition 2008, l’appelant n’a pas le droit d’inclure, dans le calcul du total de ses dons de bienfaisance, le montant de 50 559 $ parce qu’il n’a pas fait de don en espèces de 50 559 $ à EBF au sens de la Loi. Plus précisément :
+a)l’appelant n’avait pas l’intention libérale de faire un don de bienfaisance à EBF. Il savait que sa participation à l’abri fiscal CHT lui ferait réaliser un bénéfice ou l’enrichirait, ou il s’y en attendait;
+b)l’appelant ne pouvait se prévaloir d’aucun titre ni d’aucune possession légale sur les produits pharmaceutiques qui lui auraient été distribués. Il ne possédait aucun produit pharmaceutique qui aurait pu être vendu et n’a reçu aucun produit de la vente qu’il aurait pu donner;
+c)même si l’appelant a acquis le titre juridique des produits pharmaceutiques, il ne les a pas vendus (ni personne en son nom) à un prix supérieur à leur juste valeur marchande de 378 $;
+d)il n’y a pas eu d’acte de transmission ou de transfert de propriété suffisant à EBF.
+Subsidiairement, le transfert de propriété ne vaut pas don puisque l’avantage qu’en tire l’appelant est supérieur à 80 % de la juste valeur marchande de la propriété transférée, conformément au paragraphe 248(30) de la Loi.
+Toujours à titre subsidiaire, le montant admissible du don est nul, car l’appelant a reçu un avantage supérieur à la juste valeur marchande du don, aux termes des paragraphes 248(31) et (32) de la Loi.
+Subsidiairement encore, aux termes du paragraphe 248(35) de la Loi, aux fins du calcul du montant admissible du don, la juste valeur marchande réputée du don de l’appelant est nulle, soit le moindre de la juste valeur marchande des produits pharmaceutiques et du coût des produits pharmaceutiques pour l’appelant avant que le don soit fait (nul).
+De nouveau à titre subsidiaire, le reçu d’EBF pour don de bienfaisance de l’appelant ne comporte pas les renseignements prescrits aux termes des articles 3500 et 3501 du Règlement. Plus précisément, le sous-alinéa 3501(1)h)i) exige que le montant du don en espèces soit inscrit sur le reçu de don de bienfaisance, et le paragraphe 3501(6) dispose qu’un reçu dont le montant du don en espèces est incorrect est réputé nul. Le montant retrouvé sur le reçu pour don de bienfaisance donné par EBF à l’appelant est inscrit incorrectement comme étant de 50 559 $, alors que le don réel en espèces était (au plus) de 10 199 $. Par conséquent, le « don » de l’appelant ne peut pas être inclus dans ses dons de bienfaisance totaux aux termes de l’article 118.1 de la Loi.
+Le procureur général du Canada demande que l’appel soit rejeté avec dépens.
+DATÉ à la ville d’Ottawa, Ontario, le ____ octobre 2019.
+LE PROCUREUR GÉNÉRAL DU CANADA
+Ministère de la Justice du Canada
+Services du droit fiscal
+99, rue Bank, 11e étage
+Ottawa (Ontario) K1A 0H8
+Télécopieur : 613-941-2293
+Par : Shubir (Shane) Aikat/Stephen Ji
+Téléphone : 613-670-6431/6479
+Avocat de l’intimée
+DESTINATAIRE : Greffier
+La Cour canadienne de l’impôt
+200, rue Kent 4e étage
+Ottawa (Ontario)
+K1A 0M1
+DESTINATAIRE : Martin Gentile et Kelly Ng
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Avocats
+Bay Adelaide Centre
+333, rue Bay, bureau 4600
+Toronto (Ontario)
+M5H 2S5
+RÉFÉRENCE :
+2020 CCI 77
+NO DU DOSSIER DE LA COUR :
+2018-3248(IT)G
+INTITULÉ :
+GRAHAM F. MUDGE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 4 octobre 2019
+MOTIFS MODIFIÉS DE L’ORDONNANCE :
+L’honorable juge B. Russell
+DATE MODIFIÉE DE L’ORDONNANCE :
+Le 10 août 2020
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Martin Gentile
+Avocats de l’intimée :
+Me Shane Aikat
+Me Stephen Ji
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Martin Gentile
+Cabinet :
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Pour l’intimée :
+Nathalie G. Drouin Sous-procureure générale du Canada Ottawa, Canada

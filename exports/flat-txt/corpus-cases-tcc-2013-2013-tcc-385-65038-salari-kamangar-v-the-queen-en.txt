@@ -1,0 +1,115 @@
+Title: Salari Kamangar v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65038/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-385-65038-salari-kamangar-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-11-26
+
+# Salari Kamangar v. The Queen
+
+- Citation: 2013 TCC 385
+- Decision date: 2013-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5905, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salari Kamangar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-26
+Neutral citation
+2013 TCC 385
+File numbers
+2011-4061(IT)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-4061(IT)
+BETWEEN:
+HAMID SALARI KAMANGAR,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on November 26, 2013, at Windsor, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Applicant:
+Alexander R. Menzies
+Counsel for the Respondent:
+Ryan Gellings
+____________________________________________________________________
+ORDER
+The Applicant’s motion to reopen court file 2011-4061(IT)APP and, to extend the time for filing an appeal for his 2005 and 2006 taxation years, is dismissed.
+Signed at Ottawa, Canada, this 4th day of December 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC385
+Date: 20131204
+Docket: 2011-4061(IT)
+BETWEEN:
+HAMID SALARI KAMANGAR,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller J.
+[1] Mr. Kamangar has brought a motion in which he seeks an Order to:
+(a) Reopen court file 2011-4061(IT)APP; and,
+(b) Extend the time for filing an appeal for his 2005 and 2006 taxation years, if required.
+[2] I will refer to Mr. Kamangar as the Applicant in this motion.
+[3] The grounds for the motion were that:
+(a) Court file 2011-4061(IT)APP was closed administratively without notice to the Applicant;
+(b) There was an error in communication;
+(c) The Canada Revenue Agency (“CRA”) erred in its reassessment of the Applicant’s 2005 and 2006 taxation years;
+(d) The Applicant always intended to appeal CRA’s decision.
+[4] The Applicant did not appear at the hearing of this motion. He was represented by Mr. Menzies, CA, CPA, who has been his agent since December 2011.
+[5] The Applicant filed his affidavit in which he explained the circumstances surrounding his failure to file an appeal for his 2005 and 2006 years within the time limited by the Income Tax Act (“ITA”).
+Facts
+[6] The Applicant’s 2005 and 2006 taxation years were reassessed on December 4, 2009 and the reassessments were confirmed by notice dated July 21, 2011. He filed an application for extension of time to file a notice of appeal on December 23, 2011. Attached to the application was a document entitled “Notice of Appeal”. The Respondent did not oppose the application and Lamarre J issued an Order dated February 1, 2012 extending the time within which an appeal may be instituted for the 2005 and 2006 taxation years. The Order was made conditional on “a proper Notice of Appeal” being filed with the Court on or before March 12, 2012. It was sent to Mr. Menzies by registered mail on February 2, 2012. There is no suggestion that Mr. Menzies did not receive the Order.
+[7] Mr. Menzies failed to respond to the Order and to file a proper Notice of Appeal. The Applicant’s file with the Court was closed on March 27, 2012.
+[8] The Applicant explained that when he received the notice of assessment for his 2012 taxation year, he was alerted to the fact that he still owed amounts from a previous assessment. That notice of assessment was dated May 2, 2013. On June 21, 2013, Mr. Menzies wrote to the Court to inquire about the status of the Applicant’s appeal for his 2005 and 2006 taxation year and he was told that the file was closed.
+[9] Both the Applicant and Mr. Menzies feel that the Applicant’s right to appeal should not be prejudiced by mistakes made by Mr. Menzies.
+[10] This motion was filed with the Court on October 2, 2013.
+[11] It was the Respondent’s position that the Applicant was previously granted an extension of time to file his notice of appeal and he missed the Court ordered deadline. With the present motion, the Applicant is seeking a second extension of time. This application for extension of time should be dismissed because it was not made within one year and ninety days after the day on which the notice of confirmation was mailed to the Applicant. In this case, the motion was filed with the court on October 2, 2013 and the time within which an application for extension of time to appeal could be allowed expired on October 19, 2012. Counsel relied on the decision in Moon v R, 2010 TCC 393 to state that once it is found that the application for extension of time was not made within one year and ninety days after the date on the notice of confirmation, this court does not have jurisdiction to extend that time and the question whether it would be just and equitable to grant an extension may not be raised.
+Analysis
+[12] I agree with the statement of the law made by counsel for the Respondent. However, it is my view that the Applicant’s motion to reopen court file 2011-4061(IT)APP is essentially a request to set aside the Order made by Lamarre J. Although there is no section in the Tax Court of Canada Act (TCCA) that is specifically applicable to the facts of this motion, I have used the requirements of subsection 18.21(3) of the TCCA as a guide in making my decision. That provision speaks to the circumstances which the Court can consider in setting aside an order of dismissal when an appellant fails to appear at the hearing. That provision reads:
+18.21(3) The Court may set aside an order of dismissal made under subsection (1) where
+(a) it would have been unreasonable in all the circumstances for the appellant to have attended the hearing; and
+(b) the appellant applied to have the order of dismissal set aside as soon as circumstances permitted the application to be brought but, in any event, not later than one hundred and eighty days after the day on which the order was mailed to the appellant.
+[13] The circumstance which resulted in the closure of the Applicant’s file was that his representative did not file a “proper Notice of Appeal” with the Court within the time period given by the Court. His representative gave no reason for his failure to file a Notice of Appeal in accordance with the Order. Likewise, there was no evidence from the Applicant which showed that he made any inquiries prior to June 2013 to his representative about the status of his 2005 and 2006 appeal. It was only after he received notice from the CRA that his refund from his 2012 year was used to reduce his balance owing from previous assessments that the Applicant asked questions about the status of his appeal.
+[14] At the hearing, Mr. Menzies stated that he had attached a notice of appeal to the application for extension of time. I have reviewed this document and it consists of three sentences. It contained no relevant facts and Lamarre J considered that it was not a proper Notice of Appeal. I agree with her decision.
+[15] If I use subsection 18.21(3) of the TCCA as a guide, the Court will not set aside an order of dismissal if the request is brought later than one hundred and eighty days after the day the order was mailed to the appellant. In this case, the motion to have Lamarre J’s Order set aside was made on October 2, 2013 which is more than 600 days after the Order was mailed. It is my view that the delay in filing the present motion was inordinate. It was made more than one and one half years after the Order was mailed.
+[16] Mr. Menzies complained that the Court closed the Applicant’s file without notifying the Applicant or him. However, it is my opinion that the Court did not have to notify the Applicant before it closed his file as he had not fulfilled a necessary condition of the Order. Mr. Menzies was made aware that a proper Notice of Appeal had to be filed with the Court. A registry officer telephoned him on February 2, 2012 to advise him of Lamarre J’s decision with respect to the application for extension of time and to advise him of the condition in the Order. The Order was sent to Mr. Menzies by registered mail on February 2, 2012. There is no dispute that Mr. Menzies received the Order.
+[17] It is my view that the Applicant has not provided a satisfactory explanation that would justify setting aside the Order in question and reopening his file.
+[18] The motion is dismissed.
+Signed at Ottawa, Canada, this 4th day of December 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC385
+COURT FILE NO.: 2011-4061(IT)
+STYLE OF CAUSE: HAMID SALARI KAMANGAR AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: November 26, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: December 4, 2013
+APPEARANCES:
+Agent for the Appellant:
+Alexander R. Menzies
+Counsel for the Respondent:
+Ryan Gellings
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

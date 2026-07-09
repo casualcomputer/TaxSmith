@@ -1,0 +1,146 @@
+Title: Levin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109623/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-117-109623-levin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-05-21
+
+# Levin c. La Reine
+
+- Citation: 2015 CCI 117
+- Decision date: 2015-05-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2812, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-05-21
+Référence neutre
+2015 CCI 117
+Numéro de dossier
+2014-1760(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-1760(IT)I
+ENTRE :
+ROY SHELDON LEVIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 23 janvier 2015, à Winnipeg (Manitoba).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Larissa Benham
+JUGEMENT
+L’appel interjeté à l’encontre des avis de détermination établis au titre de la Loi de l’impôt sur le revenu pour les années de base 2009, 2010 et 2011 de l’appelant est rejeté.
+L’appel interjeté à l’encontre de l’avis de détermination établi au titre de la Loi de l’impôt sur le revenu pour l’année de base 2012 de l’appelant est retiré.
+Signé à Ottawa, Canada, ce 11e jour de mai 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 22e jour de juin 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2015 CCI 117
+Date : 20150521
+Dossier : 2014-1760(IT)I
+ENTRE :
+ROY SHELDON LEVIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+La juge V.A. Miller
+[1] En l’espèce, la Cour est appelée à rechercher si l’appelant a le droit de recevoir la prestation fiscale canadienne pour enfants (la « PFCE ») à l’égard de ses enfants pour les années de base 2009, 2010, 2011 et 2012.
+La requête préliminaire [2] Au début de l’audience, l’avocate de l’intimée a présenté une requête en annulation de l’appel pour les années de base 2011 et 2012 compte tenu du fait que l’appelant n’avait pas signifié d’avis d’opposition pour ces périodes.
+[3] L’appelant a retiré son appel concernant l’année de base 2012 et j’ai conclu, au vu de la preuve dont je suis saisie, que l’appelant avait signifié un avis d’opposition pour l’année de base 2011.
+Les faits [4] Les témoins à l’audience étaient l’appelant et son ex‑épouse, Sherry Requeima.
+[5] L’appelant et son ex‑épouse ont trois enfants :
+JML, né le 15 novembre 1993;
+LAL, née le 20 avril 1995;
+LFL, née le 24 janvier 1997.
+[6] Aux termes d’un jugement sur consentement daté du 6 décembre 2001, l’appelant et son ex‑épouse ont convenu d’avoir la garde partagée des trois enfants. Ils ont également convenu que, toutes les deux semaines, les enfants resteraient avec l’appelant pendant six jours et avec son ex-épouse pendant huit jours.
+[7] L’appelant a déclaré qu’il a toujours reçu 50 pour 100 de la PFCE. Au départ, son ex‑épouse et lui recevaient la PFCE pour six mois chaque année. Après juillet 2011, lui et son ex‑épouse ont chacun reçu 50 pour 100 de la PFCE chaque mois.
+[8] Il semble que le cycle de rotation de 6/8 jours ait été maintenu pour de nombreuses années. Toutefois, au moyen d’avis datés du 20 septembre 2013, le ministre du Revenu national (le « ministre ») a décidé que l’appelant n’était pas un particulier admissible pour les enfants pour les périodes suivantes :
+a) JML – Novembre 2009 à novembre 2011;
+b) LAL – Mars 2012 à avril 2013;
+c) LFL – Mars 2012 à février 2013.
+[9] À l’audience, l’appelant a déclaré que les enfants n’avaient pas maintenu le cycle de rotation de 6/8 jours. Ils n’étaient pas avec lui et résidaient avec son ex‑épouse (voir les pages 23 et 24 de la transcription) pour les périodes suivantes :
+a) JML – Juillet 2010 à octobre 2011;
+b) LAL – Janvier 2013 à avril 2013;
+c) LFL – Juillet 2012 à janvier 2013.
+[10] Par conséquent, je dois décider si l’appelant était un parent ayant la garde partagée durant les périodes suivantes (j’appellerai ces périodes les périodes en cause) :
+a) JML – Novembre 2009 à juin 2010; - (JML a eu 18 ans en novembre 2011)
+b) LAL – Mars 2012 à décembre 2012;
+c) LFL – Mars 2012 à juin 2012, et février 2013.
+[11] L’article 122.6 de la Loi de l’impôt sur le revenu définit l’expression « parent ayant la garde partagée » de la manière suivante :
+« parent ayant la garde partagée » S’entend, à l’égard d’une personne à charge admissible à un moment donné, dans le cas où la présomption énoncée à l’alinéa f) de la définition de « particulier admissible » ne s’applique pas à celle‑ci, du particulier qui est l’un des deux parents de la personne à charge qui, à la fois :
+a) ne sont pas, à ce moment, des époux ou conjoints de fait visés l’un par rapport à l’autre,
+b) résident avec la personne à charge sur une base d’égalité ou de quasi‑égalité;
+c) lorsqu’ils résident avec la personne à charge, assument principalement la responsabilité pour le soin et l’éducation de celle‑ci, ainsi qu’il est déterminé d’après des critères prévus par règlement.
+[12] Je dois donc trancher la question de savoir si les enfants résidaient avec l’appelant sur une base d’égalité ou de quasi‑égalité durant les périodes en cause.
+[13] L’appelant et son ex‑épouse n’étaient pas d’accord quant à l’endroit où les enfants habitaient durant les périodes en cause. Toutefois, j’estime que l’appelant n’a pas réfuté les hypothèses de fait formulées par le ministre et que, durant les périodes en cause, les enfants résidaient à temps plein avec l’ex‑épouse. Ma conclusion est fondée sur les motifs énoncés ci‑dessous.
+[14] L’appelant et son ex‑épouse ont tous les deux déclaré que, lorsque JML a eu 16 ans, il vivait à temps plein avec l’ex‑épouse et ne maintenait plus le cycle de rotation de 6/8 jours. JML a eu 16 ans en novembre 2009. À un moment lors de son témoignage, l’appelant a déclaré que JML avait vécu avec lui pendant trois semaines ou un mois durant la période allant de novembre 2009 à juin 2010. Son témoignage était vague et imprécis. L’ex‑épouse a précisé dans son témoignage qu’après novembre 2009, JML était peut‑être resté avec l’appelant pendant quelques jours en novembre, mais elle a contesté l’affirmation selon laquelle il avait vécu avec l’appelant pendant trois semaines ou un mois. Il semblait également ressortir du témoignage de l’appelant qu’à l’époque où JML avait eu 16 ans, JML et lui ne s’entendaient pas.
+[15] J’ai accepté le témoignage de l’ex‑épouse et j’ai conclu que JML n’avait pas résidé avec l’appelant durant la période allant de novembre 2009 à juin 2010. JML était peut‑être resté au domicile de l’appelant pour quelques jours en novembre 2009, mais il n’avait pas résidé avec l’appelant. Le terme « résider » signifie habituellement « vivre dans la même maison que quelqu’un d’autre » : décision Burton v. R, [2000] 1 CTC 2727 (CCI). Dans le contexte de l’article 122.6 de la Loi, le terme « résider » a été interprété comme ayant une connotation de « résidence établie et habituelle » : R (S) v R, 2003 CarswellNat 2710 (CCI). Durant la période allant de novembre 2009 à juin 2010, JML résidait avec l’ex‑épouse.
+[16] À mon avis, ni LAL ni LFL n’ont maintenu le cycle de rotation de 6/8 jours et elles résidaient avec l’ex‑épouse à temps plein pendant les périodes en cause. Mon avis est fondé sur les témoignages suivants.
+[17] L’ex‑épouse a déclaré dans son témoignage que LAL avait maintenu le cycle de rotation de 6/8 jusqu’à ses 16 ans, c’est‑à‑dire en mars 2012. À ce moment‑là, elle ne voulait plus continuer à faire des va‑et‑vient entre les deux domiciles et elle avait décidé de résider à temps plein avec l’ex‑épouse. Apparemment, LFL ne voulait pas être le seul enfant à rester avec l’appelant et, en mars 2012, elle avait elle aussi commencé à résider à temps plein avec l’ex‑épouse.
+[18] Selon l’ex‑épouse, la décision de LAL de résider avec elle à temps plein était aussi fondée sur le fait que l’appelant avait emménagé au domicile de sa fiancée. L’appelant a déclaré qu’il s’était installé au domicile de sa fiancée en février 2012. À mon avis, le témoignage de l’appelant a confirmé celui de l’ex‑épouse en ce qui a trait à la date à laquelle LAL et LFL avaient emménagé avec elle.
+[19] Les deux témoins ont admis que LFL avait emménagé dans la maison de l’appelant à temps plein le 24 février 2013.
+[20] En conclusion, les enfants n’ont pas maintenu le cycle de rotation de 6/8 jours et ont résidé avec l’ex‑épouse à temps plein durant les périodes suivantes :
+JML – Novembre 2009 à novembre 2011;
+LAL – Mars 2012 à avril 2013;
+LFL – Mars 2012 à février 2013.
+[21] À l’audience, l’appelant a déclaré que quatre des hypothèses formulées par le ministre étaient inexactes parce que le montant désigné comme étant la PFCE dans ces paragraphes comprenait le supplément de la prestation nationale pour enfants (le « SPNE ») et que la réponse du ministre ne faisait état d’aucun SPNE.
+[22] En toute déférence, les hypothèses invoquées par le ministre n’étaient pas inexactes. Le SPNE fait partie de la PFCE et est inclus dans la formule de calcul de la PFCE.
+[23] L’appel est rejeté.
+Les présents motifs du jugement modifiés sont rendus en remplacement des motifs du jugement datés du 11 mai 2015.
+Signé à Ottawa, Canada, ce 21e jour de mai 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 22e jour de juin 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2015 CCI 117
+No DU DOSSIER DE LA COUR :
+2014-1760(IT)I
+INTITULÉ :
+ROY SHELDON LEVIN c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 23 janvier 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 11 mai 2015
+DATE DES MOTIFS DU
+JUGEMENT MODIFIÉS : Le 21 mai 2015
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Larissa Benham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

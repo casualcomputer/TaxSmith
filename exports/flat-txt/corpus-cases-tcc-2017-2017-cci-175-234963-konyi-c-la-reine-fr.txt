@@ -1,0 +1,254 @@
+Title: Konyi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/234963/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-175-234963-konyi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-09-08
+
+# Konyi c. La Reine
+
+- Citation: 2017 CCI 175
+- Decision date: 2017-09-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2198, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Konyi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-08
+Référence neutre
+2017 CCI 175
+Numéro de dossier
+2012-3796(IT)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012‑3796(IT)G
+ENTRE :
+Faye Marie Konyi,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 15 et 16 mars 2017, à Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge Sylvain Ouimet
+Comparutions :
+Avocat de l'appelante :
+Me John Drove
+Avocate de l'intimée :
+Me Laura Zumpano
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu, dont l'avis porte le numéro 1456652, est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2017.
+« Sylvain Ouimet »
+Le juge Ouimet
+Référence : 2017 CCI 175
+Date : 20170908
+Dossier : 2012‑3796(IT)G
+ENTRE :
+Faye Marie Konyi,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Ouimet
+I. Présentation
+[1] La Cour est saisie d'un appel d'une cotisation établie par le ministre du Revenu national (le « ministre ») en application de l'article 160 de la Loi de l'impôt sur le revenu (la « LIR »). Cette cotisation découle du transfert d'un bien‑fonds entre Theodore H. Konyi (« M. Konyi ») et Faye Marie Konyi (« Mme Konyi ») le 31 octobre 2006. Le ministre a conclu que Mme Konyi et M. Konyi étaient solidairement responsables du paiement de 405 778 $ en raison de la dette fiscale de M. Konyi pour l'année d'imposition 1993. La somme de 405 778 $ représente la juste valeur marchande du bien‑fonds qu'a transféré M. Konyi à Mme Konyi.
+[2] Madame Konyi elle‑même et M. Konyi ont témoigné pour l'appelante. L'intimée n'a fait entendre aucun témoin.
+II. La question en litige
+[3] La question à trancher en l'espèce est la suivante :
+Mme Konyi et M. Konyi sont‑ils solidairement responsables du paiement de 405 778 $ concernant la dette fiscale de M. Konyi pour l'année d'imposition 1993?
+[4] Pour répondre à cette question, je me livrerai à une analyse visant à déterminer s'il y a eu, entre Mme Konyi et M. Konyi, une entente selon laquelle M. Konyi a reçu une contrepartie égale à la juste valeur marchande, soit 405 778 $, pour le bien‑fonds transféré le 31 octobre 2006 [1] .
+III. La disposition légale pertinente
+[5] La disposition pertinente de la LIR est la suivante :
+160(1) Transfert de biens entre personnes ayant un lien de dépendance — Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+[...]
+les règles suivantes d'appliquent :
+[...]
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l'auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l'objet d'une cotisation en application du paragraphe (2) qu'il doit payer en vertu du présent article) au cours de l'année d'imposition où les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années.
+[...]
+IV. Le contexte factuel pertinent
+[6] Avant le 31 octobre 2006, Mme Konyi et son époux, M. Konyi, étaient chacun propriétaires de 50 % d'un bien‑fonds situé à Delta, en Colombie‑Britannique (le « bien‑fonds »). Le 31 octobre 2006, M. Konyi a transféré son droit à la moitié du bien‑fonds (la « moitié transférée ») à Mme Konyi pour une contrepartie égale à la juste valeur marchande, soit 402 000 $.
+[7] Selon Mme et M. Konyi, l'enregistrement du bien‑fonds en copropriété au moment de son acquisition en 1994 était une erreur de leur part, puisqu'ils avaient initialement eu l'intention d'enregistrer le bien‑fonds au nom de Mme Konyi. Depuis l'acquisition du bien‑fonds, un ami de M. Konyi, qui était comptable, les a exhortés à plusieurs reprises à transférer le droit de M. Konyi sur la moitié du bien‑fonds à Mme Konyi afin de mettre le bien‑fonds à l'abri des créanciers de M. Konyi. Mme Konyi et M. Konyi ont déclaré au procès qu'il s'agissait d'un problème qu'ils devaient régler depuis longtemps, mais qu'ils remettaient à plus tard. De plus, l'ami de M. Konyi a toujours précisé que le transfert, qui devait servir à mettre le bien‑fonds à l'abri des créanciers de M. Konyi, devait être effectué pour une contrepartie égale à la juste valeur marchande. Mme et M. Konyi ont tous deux dit qu'ils avaient eu, au fil des ans, de nombreux échanges sur la possibilité de conclure une entente, et qu'ils savaient que le transfert devait être effectué pour une contrepartie pour que le but recherché soit atteint.
+[8] À la fin de 2005 ou au début de 2006, Mme et M. Konyi ont décidé de faire le transfert. À ce moment‑là, M. Konyi estimait que, durant l'année 2006, le revenu de dividendes de Mme Konyi venant de la fiducie familiale et des placements de Mme Konyi serait tel que Mme Konyi pourrait donner la contrepartie égale à la juste valeur marchande. Mme Konyi touchait alors un revenu venant des dividendes d'une fiducie familiale et d'autres placements. Les revenus de la fiducie familiale provenaient de Maxwell Mercantile. M. Konyi en était le directeur général. Mme et M. Konyi ont déclaré que, lorsqu'ils se sont entendus pour procéder au transfert, ils ont conclu une entente orale selon laquelle la contrepartie à donner à M. Konyi refléterait la juste valeur marchande de la moitié transférée, qu'ils savaient être d'environ 400 000 $. Toutefois, ils ne connaissaient pas le montant exact à ce moment‑là. Ils ont aussi convenu que le paiement de la contrepartie devrait se faire au plus tard à la fin de 2006.
+[9] Selon l'évaluation établie par une banque le 5 octobre 2006, la juste valeur marchande de la moitié transférée était de 750 000 $. Au moment du transfert, il y avait une dette hypothécaire de 345 000 $ sur la moitié transférée. Par conséquent, selon les parties, la juste valeur marchande nette de la moitié transférée était de 402 000 $ [2] .
+[10] Conformément à l'entente orale, du 19 avril au 31 mai 2006, un certain nombre de paiements ont été faits avant le transfert. Les éléments de preuve présentés au procès ont permis d'établir que la contrepartie donnée à M. Konyi par Mme Konyi a été payée en différents versements, comme suit :
+Date (2006)
+Compte du payeur
+Compte du bénéficiaire
+Montant
+19 avril
+Banque de Montréal
+(compte personnel)
+Banque Royale
+(compte conjoint)
+50 000 $
+2 mai
+Banque de Montréal
+(compte personnel)
+Banque Royale
+(compte conjoint) [3]
+30 000 $
+5 mai
+Banque de Montréal
+(compte personnel)
+Banque Royale
+(compte conjoint) [4]
+20 000 $
+16 mai
+Banque de Montréal
+(compte personnel)
+Banque Royale
+(compte conjoint)
+18 000 $
+29 mai
+Banque de Montréal
+(compte personnel)
+Banque Royale
+(compte conjoint) [5]
+60 000 $
+31 mai
+Banque de Montréal
+(compte personnel)
+Banque Royale
+(compte conjoint)
+20 000 $
+6 décembre
+Envision Credit Union
+(marge de crédit personnelle) [6]
+Envision Credit Union
+(compte personnel)
+100 000 $
+15 décembre
+Envision Credit Union
+(marge de crédit personnelle) [7]
+Envision Credit Union
+(compte personnel)
+102 000 $
+400 000 $
+[11] Conformément à l'entente préalablement conclue entre M. et Mme Konyi, le 31 octobre 2006, M. Konyi a transféré son droit à la moitié du bien‑fonds à Mme Konyi. Les actes de cession enregistrés au bureau d'enregistrement des droits immobiliers montrent que la contrepartie pour le transfert était de 1 $. Selon Mme et M. Konyi, l'avocat qui s'est occupé du transfert leur a conseillé de fixer la contrepartie pour la moitié transférée à 1 $ afin d'éviter les droits de cession immobilière. Le même avocat représentait aussi la banque en ce qui a trait au transfert et, par conséquent, la banque disposait des mêmes renseignements que lui. Mme et M. Konyi n'ont jamais informé l'avocat ou la banque de leur entente orale ni du billet à ordre. Ils ont mentionné à l'audience qu'ils ne pensaient tout simplement pas qu'il valait la peine de les mentionner.
+V. Les thèses des parties
+A. La thèse de Mme Konyi
+[12] Madame Konyi indique qu'elle a donné à M. Konyi une contrepartie égale à la juste valeur marchande en échange de la moitié transférée. Elle déclare qu'elle avait conclu une entente orale avec M. Konyi selon laquelle il devait transférer la moitié du bien‑fonds en échange d'une contrepartie représentant la juste valeur marchande de la moitié transférée, c'est‑à‑dire 402 000 $. Cette contrepartie devait être payée avant la fin de 2006.
+[13] Madame Konyi allègue que, en plus de l'entente, un billet à ordre a été émis à M. Konyi en 2006. Selon le billet à ordre, Mme Konyi devait 402 000 $ à M. Konyi en contrepartie de la moitié transférée. Le paiement de 400 000 $, et non de 402 000 $, a été fait en versements d'avril à décembre 2006.
+B. La thèse de l'intimée
+[14] L'intimée affirme qu'en l'espèce, selon le sous‑alinéa 160(1)e)(i), il faut tenir compte du moment du transfert et de la contrepartie donnée par Mme Konyi à M. Konyi le 31 octobre 2006. L'intimée allègue que la contrepartie donnée par Mme Konyi ce jour‑là était de 1 $, le même montant que celui qui figure dans les actes de cession immobilière.
+[15] Selon l'intimée, Mme Konyi n'a conclu aucune entente avec M. Konyi, et aucun billet à ordre n'a été émis à la date du transfert.
+[16] En outre, l'intimée soulève la question de savoir si un paiement valide a été fait par Mme Konyi à M. Konyi en ce qui a trait à la moitié transférée.
+VI. Analyse
+[17] Dans l'arrêt Livingston [8] , la Cour d'appel fédérale précise que quatre conditions doivent être réunies pour que l'article 160 de la LIR s'applique. Ces conditions sont les suivantes :
+(i) Il doit y avoir eu transfert de biens.
+(ii) Il faut que l'auteur et le bénéficiaire du transfert aient un lien de dépendance.
+(iii) Il faut que l'auteur du transfert soit tenu de payer des impôts en vertu de la LIR au moment du transfert.
+(iv) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert.
+[18] Dans le présent appel, seule la quatrième condition est en litige. Puisque les parties ont convenu de la juste valeur marchande du bien‑fonds, seule la question de la juste valeur marchande de la contrepartie donnée en échange de la moitié transférée est en litige en l'espèce.
+[19] Dans le jugement Logiudice c. La Reine [9] , notre Cour affirme que, pour que l'article 160 de la LIR ne s'applique pas, le bénéficiaire du transfert doit être en mesure de prouver que le bien lui a été transféré conformément aux conditions d'une véritable entente contractuelle [10] . Dans The Law of Contract in Canada [11] , G.H.L. Fridman explique qu'il ne peut y avoir de contrat que si les parties avaient l'intention d'avoir un lien juridique. Par conséquent, les parties doivent établir qu'elles ont conclu une entente :
+[TRADUCTION]
+L'accord des parties est le fondement de tout contrat exécutoire. Il doit y avoir accord des volontés. Sans accord des volontés des parties, il ne peut y avoir de contrat.
+[...]
+On trouve constamment dans les jugements l'idée que le critère d'une entente au sens du droit est celui de savoir si les parties ont indiqué au monde extérieur, représenté par un spectateur objectif et raisonnable, leur intention de conclure un contrat ainsi que les conditions de ce contrat.
+[…]
+Parfois, il est facile de déterminer ce que se sont exprimé les parties, et en conséquence, si elles se sont entendues et, dans l'affirmative, quel était l'objet de cette entente [12] .
+[20] Pour qu'il soit possible de conclure à l'existence d'une entente entre Mme et M. Konyi, les éléments de preuve doivent montrer qu'ils se sont entendus sur toutes les modalités essentielles en ce qui a trait au transfert de la moitié transférée, y compris la contrepartie à payer et les modalités de paiement. La contrepartie ne devait pas nécessairement être donnée au moment du transfert; elle pouvait être donnée à une date ultérieure [13] . Cette règle sur le moment du paiement est conforme au droit des contrats au Canada, en vertu duquel la contrepartie versée au moment où l'entente est conclue ou la promesse faite à ce moment‑là de verser une telle contrepartie ultérieurement constitue une contrepartie valable :
+[TRADUCTION]
+La règle est la suivante : pour conclure qu'il y a un contrat exécutoire, il doit y avoir des promesses réciproques, ou une promesse en échange d'un acte. S'il y a d'abord un acte, puis ensuite une promesse relativement à cet acte, il n'y a pas d'entente qui lie les deux. Une chose n'a pas nécessairement été faite en contrepartie de l'autre. Par conséquent, toute chose promise en raison d'un acte antérieur est simplement promise à titre gratuit et ne fait pas partie d'un contrat exécutoire. Il n'y a aucun lien entre l'acte et la promesse subséquente faite par le bénéficiaire de l'acte. L'auteur de l'acte n'a pas subi de préjudice en échange d'un acte ou d'une promesse de la part de l'autre partie. Il espérait peut‑être obtenir quelque chose; il s'attendait peut‑être même à quelque chose. Mais rien n'a été promis [14] .
+[21] Selon ces principes, Mme Konyi devait prouver, selon la prépondérance des probabilités, qu'elle avait conclu une entente avec M. Konyi, en vertu de laquelle elle devait payer une contrepartie égale à la juste valeur marchande de la moitié transférée au moment du transfert ou ultérieurement.
+[22] Compte tenu des témoignages de M. et Mme Konyi, que je juge crédibles, je conclus selon la prépondérance des probabilités qu'une entente avait été conclue au moment du transfert. M. et Mme Konyi avaient convenu de transférer la moitié transférée en échange d'une contrepartie égale à la juste valeur marchande qui devait être payée avant la fin de 2006. Par conséquent, ils ont conclu une entente lorsqu'ils ont eu mutuellement l'intention de conclure une entente l'un avec l'autre, laquelle entente comprenait toutes les modalités essentielles [15] .
+[23] L'intimée fait valoir qu'aucune entente n'a été conclue, puisque M. et Mme Konyi ne s'étaient pas entendus sur toutes les modalités essentielles de leur entente. Plus précisément, il n'y avait aucune entente quant aux modalités de paiement et au montant de la contrepartie.
+[24] S'agissant des modalités de paiement, l'intimée s'appuie sur le jugement Madsen [16] , dans lequel notre Cour a conclu que les modalités de paiement étaient trop vagues et incertaines pour être considérées comme une contrepartie au sens du paragraphe 160(1) :
+28 J'ai minutieusement examiné la preuve que l'appelante a présentée au sujet du transfert du droit que son mari possédait sur la moitié de la résidence de la rue Lazy A en 1989 et j'ai conclu que l'idée selon laquelle l'appelante devait verser à son mari un montant correspondant à la juste valeur marchande de la résidence de la rue Lazy A « lorsqu'elle aurait suffisamment d'argent » n'était qu'une promesse vague et incertaine sans aucune condition expresse. Aucun écrit ne confirmait cette entente et le document de transfert n'a pas été préparé par un avocat. En outre, la Cour ne disposait d'aucun élément de preuve confirmant le témoignage intéressé de l'appelante. À mon avis, la « vague promesse » que l'appelante verserait à son mari un montant correspondant à la juste valeur marchande ne peut pas être considérée comme une contrepartie suffisante pour empêcher l'application de l'article 160.
+[25] On peut établir une distinction entre les faits en l'espèce et ceux de l'affaire Madsen. Dans cette affaire, le contribuable et son épouse se sont vaguement entendus qu'une contrepartie serait donnée lorsque le contribuable aurait les fonds. En l'espèce, les modalités de l'entente liées au paiement sont claires : la contrepartie devait être payée avant la fin de 2006.
+[26] S'agissant du montant de la contrepartie, l'intimée fait valoir que le montant n'a pas été arrêté au moment où l'entente orale a été conclue, parce qu'il y avait une incertitude quant au montant. Je ne retiens pas l'argument de l'intimée. Selon l'entente, la contrepartie correspondait à la « juste valeur marchande » de la moitié transférée, ce qui constitue à mon avis une modalité valide de l'entente, ainsi qu'il a été déterminé dans le jugement Barnabe, succession [17] :
+J'estime qu'en fixant à la « juste valeur marchande » des biens le montant de la contrepartie, le prix était fixé avec suffisamment de précision pour être retenu comme condition valable du contrat. Il est admis en droit que les parties peuvent être liées par un contrat de vente fixant comme prix la juste valeur marchande des biens en question. Il n'est donc pas nécessaire de préciser le montant exact auquel se fera la vente. Je renvoie, à cet égard, aux remarques du juge Major, se prononçant au nom d'une Cour suprême unanime dans l'arrêt Mitsui & Co. (Canada) Ltd. c. Banque Royale du Canada :
+Les parties avaient déjà convenu que le prix de la levée de l'option serait la « juste valeur marchande raisonnable » des hélicoptères. Ce prix n'est pas incertain. Il n'est pas sujet à d'autres négociations; il ne s'agit pas d'un « engagement à conclure un accord ». Ce prix a été fixé à la juste valeur marchande raisonnable. Comme la Cour d'appel de la Colombie‑Britannique l'a souligné dans Re Nishi, une option d'achat à la « juste valeur marchande » est exécutoire. Il ne s'agit pas d'une situation où il reste encore à s'entendre sur le prix ou une autre condition importante de l'option. Le droit reconnaît que les conventions d'achat futur d'une propriété à un « prix raisonnable » ou à sa « juste valeur marchande » sont valides et exécutoires.
+[27] Je crois également que le comptable de M. Konyi l'a conseillé d'effectuer le transfert du bien‑fonds en échange d'une contrepartie égale à la juste valeur marchande, et que M. Konyi et Mme Konyi ont suivi le conseil qui leur avait été donné. Même si la documentation de l'époque indique que la contrepartie payée était de 1 $, les éléments de preuve montrent que cela n'était pas le reflet exact de ce qui avait été convenu entre les parties.
+[28] Selon les éléments de preuve, Mme Konyi a fait des paiements à M. Konyi. Cela étaye l'existence d'une entente entre les deux. En ce qui a trait à ces paiements faits à M. Konyi par Mme Konyi, l'intimée insiste sur le fait que la plupart des paiements avaient été déposés dans leur compte bancaire conjoint. Pour ce qui est de l'utilisation d'un compte conjoint pour le dépôt des paiements, la jurisprudence établit clairement que l'existence d'un compte bancaire conjoint ne veut pas dire que l'argent dans ce compte appartient aux deux détenteurs du compte. Voici ce que la Cour a précisé dans le jugement Obadia [18] :
+27 Tout d'abord, il a été établi clairement par la jurisprudence que l'existence d'un compte conjoint n'a pas pour conséquence de constituer les cosignataires du compte comme propriétaires indivis des sommes figurant au compte. Il faut plutôt rechercher l'entente originaire intervenue lors de l'ouverture du compte.
+28 Les observations suivantes du juge Phelan de la Cour supérieure du Québec dans l'espèce Desrosiers c. Héritiers de feu Albert Laroche et une autre sont tout à fait claires sur cette question :
+[...]
+[TRADUCTION]
+Selon la doctrine et la jurisprudence sur les comptes bancaires conjoints, l'existence d'un tel compte n'indique pas en soi que chaque codéposant a un droit de propriété sur les fonds déposés au compte. Perrault précise :
+Pour déterminer les droits des déposants entre eux, il faut rechercher la convention originaire, l'entente intervenue lors de l'ouverture de ce compte‑joint. Ont‑ils eu l'intention de faire de la somme d'argent ainsi déposée une propriété indivise? L'un a‑t‑il eu l'intention de constituer l'autre déposant son argent ou son mandataire, à titre onéreux ou à titre gratuit? A‑t‑il voulu consentir une donation? Il faut, dans chaque cas, rechercher l'intention des parties, appliquer les principes généraux du droit civil concernant soit le mandat, soit la donation, soit la stipulation pour autrui.
+Et Falconbridge affirme :
+[TRADUCTION]
+Les directives données à la banque ne permettent évidemment pas de déterminer le propriétaire réel de la créance que constitue le compte.
+La présomption peut être réfutée et il faut dégager le véritable propriétaire de la créance à partir de l'ensemble des faits.
+Il se peut que la créance appartienne réellement à la succession du déposant décédé.
+[...]
+[...] Cependant, tant en droit civil qu'en common law, il semble établi que le propriétaire des fonds déposés dans un compte conjoint dépende des faits de chaque espèce et de l'intention qu'avaient les parties au moment où ils ont conclu leur entente.
+29 De ce qui précède, il s'ensuit que dans le cas actuel les argents déposés au compte conjoint provenant du compte personnel de l'appelante sont la propriété de l'appelante étant donné qu'aucune entente n'a été mise en preuve faisant foi d'un arrangement spécial entre l'appelante et M. Obadia quant à la propriété de ces fonds au moment de l'ouverture de ce compte conjoint et postérieurement.
+[Non souligné dans l'original.]
+[29] Avant que Mme et M. Konyi concluent leur entente orale, ils n'avaient que des comptes bancaires conjoints. Lorsqu'ils ont conclu cette entente orale, ils ont décidé que Mme Konyi devrait ouvrir son propre compte bancaire à la Banque de Montréal, ce qu'elle a fait le 7 avril 2006. Ce faisant, elle pourrait faire des chèques dont les paiements viendraient directement de son propre revenu pour payer M. Konyi conformément à leur entente. Les éléments de preuve montrent que chaque paiement fait par Mme Konyi provenait de ses comptes bancaires personnels. Pour ce qui est de M. Konyi, avant le 6 décembre 2006, il n'avait pas de compte bancaire personnel. Mme et M. Konyi utilisaient un compte conjoint à la Banque Royale. Ce compte bancaire était surtout utilisé pour les dépenses du ménage, mais servait également à soutenir les différentes entreprises auxquelles M. Konyi prenait part et à payer toute obligation qu'il aurait pu avoir. Par conséquent, chaque paiement qu'a reçu M. Konyi avant décembre 2006 était déposé dans ce compte conjoint. Le 6 décembre 2006, M. Konyi a ouvert un compte bancaire personnel à la Envision Credit Union. Les paiements qu'il a reçus depuis décembre 2006 ont été déposés dans ce compte.
+[30] L'intimée soutient en outre que seul le chèque de 100 000 $ du 6 décembre 2006 portait une mention indiquant que le paiement était lié à la moitié transférée. Par conséquent, l'intimée met en doute le but des autres paiements, puisque les chèques ne portaient pas la même mention.
+[31] Monsieur Konyi ne se rappelait pas pour quelle raison, précisément, il avait inscrit une note sur ce chèque en particulier et pas sur les autres émis dans le même but, soit le paiement partiel de la maison, mais il a expliqué qu'il pensait parfois à mettre une note sur les chèques et que, d'autres fois, il n'y pensait pas. Cependant, il ne s'agit pas d'un point important à mon avis, car il n'y a aucune exigence selon laquelle il faut mettre une note sur un chèque. Le fait que la mention [TRADUCTION] « paiement partiel pour la maison » figurait sur un chèque et pas sur les autres ne me convainc pas que les autres paiements faits par chèque servaient à d'autres fins.
+[32] Quant à la raison de ces paiements, Mme et M. Konyi affirment qu'ils étaient tous précisément liés au transfert de la moitié transférée et qu'ils avaient été faits conformément à leur entente. De fait, selon Mme Konyi, la seule raison pour laquelle elle aurait émis un chèque personnel à M. Konyi aurait été précisément pour payer la contrepartie de la moitié transférée. Mme Konyi affirme que, n'eût été cette raison, elle aurait transféré les fonds directement d'un compte à l'autre sans émettre de chèque à M. Konyi. Les chèques étaient la façon de consigner la transaction et de faire le suivi des paiements : les chèques émis à M. Konyi servaient expressément à cette transaction.
+[33] J'estime que Mme et M. Konyi sont des témoins crédibles, et les éléments de preuve me convainquent que Mme Konyi a fait les paiements en cause à M. Konyi conformément à leur entente orale sur la moitié transférée.
+[34] Toutefois, le montant total transféré par Mme Konyi à M. Konyi était de 400 000 $. Mme Konyi a reconnu qu'il y avait un écart de 2 000 $ entre le montant total payé à M. Konyi et la contrepartie convenue. Elle a affirmé qu'elle croyait que cet écart était dû à une erreur de calcul. Au procès, M. Konyi a mentionné que Mme Konyi lui avait versé 402 000 $ (il ne pouvait pas expliquer la différence de 2 000 $). L'intimée a tenté de miner la crédibilité de Mme Konyi et de M. Konyi compte tenu de cette preuve circonstancielle. Je pense qu'il s'agit d'une erreur honnête de leur part, et cela ne m'a pas fait changer d'avis en ce qui concerne leurs témoignages; ce sont des témoins crédibles.
+[35] L'intimée a aussi essayé de mettre en doute la crédibilité du témoignage de Mme Konyi en affirmant qu'elle avait, avant 2006, année où l'entente orale a été conclue, des fonds suffisants pour payer le transfert, ce qui tend à contredire son affirmation selon laquelle M. Konyi et elle avaient décidé d'effectuer le transfert en 2006 parce qu'elle aurait les fonds nécessaires à ce moment‑là. L'intimée fait valoir que, si l'intention réelle de Mme Konyi avait été de procéder au transfert en échange d'une contrepartie égale à la juste valeur marchande, elle aurait pu le faire bien avant. Mme Konyi affirme qu'elle avait besoin de fonds à d'autres fins, comme pour acheter des actions, faire d'autres placements et payer les dépenses du ménage. Je ne vois aucune contradiction dans le témoignage de Mme Konyi à cet égard.
+[36] Enfin, s'agissant du billet à ordre qui a été perdu et que Mme Konyi et M. Konyi auraient rédigé et signé à la date du transfert, l'intimée souligne qu'il est étrange que certains des documents relatifs au transfert n'aient pas été perdus, mais que le billet à ordre l'ait été. L'intimée insiste également sur le fait que le billet à ordre que M. et Mme Konyi ont rédigé en 2012 pour remplacer le premier lorsqu'ils se sont rendu compte qu'il avait disparu ne fait mention d'aucun paiement antérieur, mais les éléments de preuve tendent à indiquer qu'un certain nombre de paiements ont effectivement été faits avant le 31 octobre 2006. De plus, le billet à ordre ne précise ni les dates ni la nature des paiements qui devaient être faits, mais il indique que la contrepartie était de 402 000 $. Même s'il n'était peut‑être pas approprié de reproduire le billet à ordre initial, je crois que cela a été fait non pas dans l'intention d'induire quiconque en erreur, mais bien parce que le billet initial avait été perdu. Quoi qu'il en soit, comme j'ai conclu qu'il y avait une entente entre Mme Konyi et M. Konyi, la question de l'existence ou non d'un billet à ordre n'est pas pertinente, sauf en ce qui concerne le fait que l'intimée l'a utilisé pour miner la crédibilité de Mme Konyi, mais en vain.
+VII. Conclusion
+[37] J'en suis arrivé à la conclusion que, selon la prépondérance des probabilités, une entente existait entre Mme Konyi et M. Konyi relativement à la moitié transférée. Selon les modalités de l'entente, M. Konyi devait transférer son droit à la moitié du bien‑fonds en échange d'une contrepartie égale à la juste valeur marchande avant la fin de 2006. J'estime que, conformément aux modalités de l'entente, une contrepartie égale à la juste valeur marchande a été donnée à M. Konyi au moment du transfert. Par conséquent, Mme Konyi et M. Konyi ne sont pas solidairement responsables, au titre de l'article 160 de la LIR, de la dette fiscale de M. Konyi pour l'année d'imposition 1993.
+[38] L'appel est accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2017.
+« Sylvain Ouimet »
+Le juge Ouimet
+RÉFÉRENCE :
+2017 CCI 175
+No DU DOSSIER DE LA COUR :
+2012‑3796(IT)G
+INTITULÉ :
+FAYE MARIE KONYI c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATES DE L'AUDIENCE :
+Les 15 et 16 mars 2017
+MOTIFS DU JUGEMENT :
+L'honorable juge Sylvain Ouimet
+DATE DU JUGEMENT :
+Le 8 septembre 2017
+COMPARUTIONS :
+Avocat de l'appelante :
+Me John Drove
+Avocate de l'intimée :
+Me Laura Zumpano
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me John Drove
+Cabinet :
+John Drove Law Corporation
+Pour l'intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] Selon les actes de procédure produits en l'espèce, au moment du transfert, la juste valeur marchande du bien‑fonds était de 1 500 000 $, et la valeur nette du bien‑fonds était de 811 558,20 $. Par conséquent, pour l'application du paragraphe 160(1) de la LIR, la juste valeur marchande du bien‑fonds transféré le 31 octobre 2006 était de 405 779,10 $. Toutefois, à l'audience, les parties semblaient être d'accord pour dire que la valeur nette du bien‑fonds transféré était de 402 000 $, puisque la juste valeur marchande du droit de M. Konyi sur la moitié du bien‑fonds était de 750 000 $ et qu'il y avait une dette hypothécaire de 345 000 $. Les parties ne m'ont pas expliqué l'écart manifeste en ce qui a trait à la juste valeur marchande. Des éléments de preuve concernant la valeur estimative le 5 octobre 2006 selon la banque ont été présentés au procès. Selon cette évaluation, la juste valeur marchande du bien‑fonds était de 1 500 000 $. Cependant, aucun document établissant le solde de la dette hypothécaire au moment du transfert ne m'a été présenté. Que la juste valeur marchande du bien‑fonds transféré soit de 405 779,10 $ ou de 402 000 $ a peu d'importance en l'espèce, puisque la dette fiscale de M. Konyi est de toute façon limitée à un montant inférieur. Au moment du transfert, M. Konyi avait une dette fiscale pour l'année d'imposition 1993 en vertu de la LIR. Au procès, les parties se sont entendues pour dire que la dette fiscale de M. Konyi pour l'année d'imposition 1993 était de 162 757,19 $. Par conséquent, conformément au sous‑alinéa 160(1)e)(ii) de la LIR, la responsabilité de Mme Konyi se limite à ce montant.
+[2] Voir la note de bas de page 1.
+[3] Les témoignages et les éléments de preuve documentaires ne permettaient pas de confirmer que le paiement avait été déposé dans ce compte bancaire; toutefois, les éléments de preuve montrent que l'époux n'avait pas de compte bancaire personnel à ce moment‑là, et il est fort probable que le dépôt ait été fait dans ce compte.
+[4] Idem.
+[5] Idem.
+[6] Même si, à l'époque, la marge de crédit personnelle était au nom de Mme Konyi, son époux était, en sa qualité de garant de cette marge de crédit, personnellement responsable de tout montant impayé. Leurs deux noms figuraient sur les chèques tirés sur la marge de crédit chez Envision, même s'il s'agissait d'une marge de crédit personnelle. Mme Konyi possédait encore des chèques datant d'avant que son époux ait son propre compte et elle les a utilisés pour faire les paiements en décembre 2006. Toutefois, cela ne change rien au fait que l'argent venait de la marge de crédit personnelle de l'appelante.
+[7] Idem.
+[8] Livingston c. Canada, 2008 CAF 89, [2008] 3 R.C.F. F‑3 (Livingston).
+[9] Logiudice c. La Reine, [1997] A.C.I. no 742 (QL) (Cour canadienne de l'impôt).
+[10] Ibid., au paragraphe 16.
+[11] G.H.L. Fridman, The Law of Contract in Canada, 6e éd. (Toronto, Carswell, 2011).
+[12] Ibid., aux pages 13 à 15.
+[13] Allen c. La Reine, 2009 CCI 426, aux paragraphes 34 et 35.
+[14] Fridman, précité, note 11, à la p. 108.
+[15] Voir John D. McCamus, The Law of Contracts, 2e éd. (Toronto, Irwin Law, 2012), à la page 31.
+[16] Madsen c. La Reine, 2005 CCI 110.
+[17] Barnabe, succession c. Canada, [1999] 4 C.F. 541, à la page 567.
+[18] Obadia c. La Reine, [1998] A.C.I. no 281 (QL).

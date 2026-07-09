@@ -1,0 +1,337 @@
+---
+title: "Life Choice Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218483/index.do"
+last_modified: "2017-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 21"
+citation2: ""
+neutral_citation: "2017 TCC 21"
+decision_date: "2017-01-31"
+language: "en"
+item_id: "218483"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2611
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:29:25.416000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7d6052de21a4878cbe14dd499f0b1468a21f7b246af8e0612bf03764d883443a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Life Choice Ltd. v. The Queen
+
+- Citation: 2017 TCC 21
+- Decision date: 2017-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2611, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Life Choice Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-01-31
+Neutral citation
+2017 TCC 21
+File numbers
+2015-2308(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2308(IT)I
+BETWEEN:
+LIFE CHOICE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on July 11, 2016, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Al Tharani
+Counsel for the Respondent:
+Eric Myles
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the taxation year ending on June 30, 2012 is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 31st day of January 2017.
+“Patrick Boyle”
+Boyle J.
+Citation: 2017 TCC 21
+Date: 20170131
+Docket: 2015-2308(IT)I
+BETWEEN:
+LIFE CHOICE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The Appellant, Life Choice Ltd. (“Life Choice”), is appealing a reassessment of its 2012 taxation year. Life Choice limited its claimed relief in order to proceed under this Court’s informal procedure. The issue to be determined is whether certain activities of Life Choice constituted scientific research and experimental development (“SR&ED”) as defined in the Income Tax Act (the “Act”).
+Introduction
+[2] The Appellant describes itself as a natural health product company based in Alberta that has 92 products on the market. The founder and president of Life Choice is Dr. Eldon Dahl, an accredited naturopathic doctor. Dr. Dahl described his patient load in his clinical practice as focused on chronic care for those that had exhausted the medical route and went to him as a last resort in dealing mainly with stage IV cancer, multiple sclerosis (MS) or full-blown AIDS.
+[3] The activities in question relate to the formulation by Life Choice of three new natural health products. The first (“Project 1”) was generally described as a product for the treatment of cancer. The second (“Project 2”) was generally described as the formulation of a natural health product alternative that could mimic the positive effects of a pharmaceutical product (acetyl‑L‑carnitine) in remapping neurological pathways and reversing neurological degradation. The third (“Project 3”) was generally described as the formulation of a natural health product alternative to remove arterial plaque in the treatment of vascular disease.
+[4] Dr. Dahl was the principal witness in this appeal. In addition to being the Appellant’s President, he led each of Project 1, Project 2 and Project 3 (collectively the “Projects”). He gave me no reason to doubt his credibility. He described what activities were undertaken in each of the Projects and he identified and described the documents in evidence relating to Life Choice’s activities on the Projects.
+[5] Dr. Dahl’s testimony was often difficult to follow and piece together. In a number of his answers to questions (including those from counsel for the Appellant) he did not appear fully responsive, at times in key respects. I do not conclude that he was intentionally evasive or deflecting or unresponsive. Rather, I conclude from looking at his testimony as a whole that, in testifying as a witness in a court proceeding, he was not a particularly organized and focused communicator. Whether that reflects his normal communication style or reflects insufficient preparation for the hearing was not clear to me and does not matter. By the end of his testimony he had answered, to the best of his ability in the circumstances, all of the questions put to him, by counsel for the Appellant and counsel for the Respondent, as well as my questions at the end of his testimony seeking clarification of parts of his answers. His answers and testimony were as complete as he and counsel for the Appellant chose to make them.
+[6] The Appellant also had Julie Bond, President of Bond Consulting Group, testify. Bond Consulting Group acted for Life Choice in seeking SR&ED recognition from the Canada Revenue Agency (the “CRA”) for the Projects. It was not involved in the Projects themselves whatsoever. Virtually all of Ms. Bond’s testimony was advocacy, or related to the back and forth between the Appellant and the CRA after the relevant activities in support of the Projects had been performed. Ms. Bond’s testimony does not help or inform me with respect to the factual findings and determinations I have to make in this case, the most significant of which are the scope and nature of the activities undertaken by Life Choice in pursuit of the Projects.
+[7] The Respondent had David Szwarc of the CRA testify. He was and is a research and technology manager with the CRA. Many of the questions asked of Mr. Szwarc by both parties’ counsel might have been helpful if this was a judicial review of the CRA’s decision. It is not; it is an appeal on the merits, little concerned with what the CRA did in arriving at its decision.
+SR&ED under the Income Tax Act
+[8] The definition of SR&ED is set out in subsection 248(1) of the Act:
+scientific research and experimental development means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+activités de recherche scientifique et de développement expérimental Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est‑à-dire :
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+and, in applying this definition in respect of a taxpayer, includes
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+but does not include work with respect to
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+(e) market research or sales promotion,
+e) l’étude du marché et la promotion des ventes;
+(f) quality control or routine testing of materials, devices, products or processes,
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+(g) research in the social sciences or the humanities,
+g) la recherche dans les sciences sociales ou humaines;
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+(j) style changes, or
+j) les modifications de style;
+(k) routine data collection;
+k) la collecte normale de données.
+[9] The Appellant’s position is that its activities in pursuit of the Projects were applied research described in paragraph (b) of this definition. Therefore, for purposes of determining if the activities undertaken by Life Choice in pursuit of the Projects are SR&ED, the following requirements of the Act must be met:
+1. The activities must constitute (i) a systematic investigation or search, (ii) that is carried out (iii) in a field of science (iv) by means of experiment or analysis.
+2. The objective or purpose for carrying out those activities must be (i) the advancement (ii) of scientific knowledge (iii) with a specific practical application in view — i.e. applied research.
+[10] In order to come within subsection 37(1) of the Act, qualifying SR&ED must be carried on and directly undertaken by or on behalf of the particular taxpayer. Subsection 37(8) makes it clear that current expenditures on SR&ED must be in respect of the prosecution of SR&ED to qualify.
+[11] Former Chief Justice Bowman of this Court wrote, in Northwest Hydraulic Consultants Ltd. v. Canada, [1] that the Act’s incentives for SR&ED are intended to encourage scientific research by Canadians and should therefore be given a fair, large and liberal construction and interpretation to best ensure the attainment of that objective. In Consoltex Inc. v. Canada, [2] Justice Bowman (as he then was) had earlier written: “If one takes a couple of steps back and seeks to determine what the scientific research provisions of the Act are designed to accomplish, it is clear that they should be interpreted in a manner that encourages scientific research in this country.”
+The Northwest Hydraulic Considerations
+[12] In Northwest Hydraulic, Justice Bowman (as he then was) set out the approach to be taken in assessing a taxpayer’s activities against the statutory definition of SR&ED that involves five considerations in paragraph 16 of his reasons. These five considerations have been consistently approved and adopted in a number of decisions of the Federal Court of Appeal: RIS - Christie Ltd. v. Canada, [3] CW Agencies Inc. v. Canada, [4] Jentel Manufacturing Ltd. v. Canada, [5] and R&D Pro‑Innovation Inc. v. Canada. [6] (See also Wojcik v. Canada (Attorney General). [7] ) Justice Bowman wrote as follows:
+16 Although I do not presume to have the technological expertise of the persons who assisted in the preparation of the circular, or the witnesses who appeared before me, including the highly qualified experts who appeared on behalf of the appellant and the respondent, I should like to set out briefly my own understanding of the approach to be taken:
+1. Is there a technical risk or uncertainty?
+(a) Implicit in the term “technical risk or uncertainty” in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+(b) What is “routine engineering”? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+(a) the observation of the subject matter of the problem;
+(b) the formulation of a clear objective;
+(c) the identification and articulation of the technological uncertainty;
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+(e) the methodical and systematic testing of the hypotheses.
+It is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SRED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+(a) It is important to recognize that although the above methodology describes the essential aspects of SRED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SRED. These elements must however operate within the total discipline of the scientific method.
+(b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SRED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+(b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.
+[13] Former Chief Justice Bowman’s foundational five useful criteria to consider in determining whether activities constitute SR&ED are outlined by the Federal Court of Appeal in CW Agencies as follows:
+1. Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+2. Did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+3. Did the procedure adopted accord with the total discipline of the scientific method including the formulation, testing and modification of hypotheses?
+4. Did the process result in a technological advancement?
+5. Was a detailed record of the hypotheses tested and were results kept as the work progressed?
+The Federal Court of Appeal’s summary outline of Justice Bowman’s five considerations does not take anything away from paragraph 16 of Northwest Hydraulic.
+[14] Question 2 from Northwest Hydraulic, as originally expressed by Justice Bowman and adopted by the Federal Court of Appeal, specifically involves a five‑stage process which adds substance and breadth to the consideration of the formulation of an hypothesis: (i) observation of the subject matter of the problem, (ii) the formulation of a clear objective, (iii) the identification and articulation of the uncertainty, (iv) the formulation of one or more hypotheses designed to resolve the uncertainty and (v) the methodical and systematic testing of the hypotheses. See paragraph 16 of Northwest Hydraulic.
+[15] Further, Justice Bowman, in setting out Question 2, states that an integral part of SR&ED is the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving new uncertainties as the research progresses.
+[16] I would note that each of Northwest Hydraulic, RIS - Christie, CW Agencies and Jentel involved claims in respect of “experimental development” described in paragraph (c) of the SR&ED definition. Paragraph (c) dealing with experimental development refers to technological advancement. Paragraphs (a) and (b) dealing with basic research and applied research refer to the advancement of scientific knowledge. In a case involving research as opposed to development, the references in the Northwest Hydraulic considerations to technological risk, uncertainty and advancement should therefore be considered as references to scientific risk and uncertainty, and the advancement of scientific knowledge. [8]
+[17] The five Northwest Hydraulic considerations are questions the Court should turn its mind to in deciding if the statutory requirements of the definition of SR&ED are met in a particular case. They do not purport to comprehensively restate or replace the statutory language. For example, with respect to Question 4, a technological advancement is not a required result of the activity; the statutory requirement is only that it be the objective of the activity. Similarly, scientific or technological knowledge can be advanced by activities that fail to support or prove a theory or hypothesis being investigated or searched for. A further example with respect to Question 5 is that the statutory language does not, by its terms, require detailed records of the testing and results. Justice Bowman in Northwest Hydraulic says it would normally be reasonably expected to be kept. The Federal Court of Appeal in RIS - Christie mandates testing as part of a systematic scientific research and requires rigorous scrutiny by the courts that the testing itself was performed in a methodical and systematic fashion. The Federal Court of Appeal helpfully adds that, if testing was done by a taxpayer and if a technological advancement in fact resulted, a judge might be expected to infer that the testing was carried out in the systematic manner required by the SR&ED definition.
+[18] On the other hand, Questions 1 through 3 of the Northwest Hydraulic considerations or criteria appear designed to develop and focus on useful information upon which the Court is to determine whether the activity constituted a systematic investigation or search, and whether that was done by means of experiment or analysis, both of which are required by the terms of the statute.
+[19] The Federal Court of Appeal in RIS - Christie, above, after referring with approval to Justice Bowman’s reasons in Northwest Hydraulic, specifies that systematic research includes testing. The Federal Court of Appeal wrote:
+13 Obviously, scientific research and experimental development, as outlined in Regulation 2900, envisages the introduction of a new or improved product or process. Thus, research must be directed toward a meaningful technological advancement and involve an element of creativity, rather than the mere application of routine engineering principles. At the same time, research objectives must be realistic. The committed alchemist who seeks to turn base metals into gold should not look to the Income Tax Act for tax incentives. Assuming that a research project is eligible for favourable tax treatment, there is no express or implied statutory requirement that such project actually culminate in a technological advancement. Regulation 2900 speaks of research undertaken for the advancement of knowledge and for the purpose of creating new products. It does not state that eligible research must actually achieve those ends. Otherwise, the very purposes for which the legislation was enacted would be undermined. Presumably, not all of Alexander Graham Bell’s research initiatives bore fruit. To maintain that failed research efforts do not constitute scientific research under the Act is contrary to common sense and the goal of encouraging entrepreneurship.
+14 In addition to developing new products or processes, scientific research connotes the existence of controlled experiments involving the testing of models or prototypes. Thus, evidence of scientific research must be adduced by the taxpayer in order to demonstrate that such research (including testing) was undertaken and that it is eligible for favourable tax treatment: see, for example, Progressive Solutions Inc. v. R., 96 DTC 1232 (T.C.C.). Not only must taxpayers establish that tests were performed, they must also demonstrate that they were conducted in a systematic fashion. In my view, the requirement that research efforts be “systematic” is a higher threshold than simply requiring that research, including testing, be conducted. Although both documentary and viva voce evidence are admissible, the only sure‑fire way of establishing that scientific research was undertaken in a systematic fashion is to adduce documentary evidence which reveals the logical progression between each test and preceding or subsequent tests.
+15 Thus, it is reasonable to expect a taxpayer to adduce documentary evidence of systematic research, including testing. If, however, a taxpayer has a plausible explanation for the failure to adduce such evidence, it is still open to the court to hold that, on a balance of probabilities, systematic research was undertaken. For example, where research notes are accidentally destroyed, it should be permissible for the trial judge to infer that systematic research was conducted, having regard to the totality of the evidence. During oral argument, counsel for the Minister accepted this proposition, if only because that scenario was inapplicable in the present case. However, in my view, it should also be permissible to infer that a taxpayer had conducted systematic research where it is established that such research led to a technological advancement. I say this because the whole foundation of the scientific research provisions of the Act and Regulations should not rest solely on the repeatability criterion. Otherwise, repeatability would negate the validity of all other evidence pertaining to scientific research.
+16 In the present case, the Tax Court Judge made two important findings. First, he found that testing had been undertaken and, second, that the research efforts of Slonimsky and his assistant constituted a technological advancement. In my respectful view, once the Tax Court Judge reached these conclusions, a rebuttable inference was raised that the testing conducted by the taxpayer was carried out in accordance with Regulation 2900. In the circumstances of this case, I see no need to impose an additional evidentiary burden on the taxpayer of having to adduce documentary evidence relating to the repeatability of testing data. If there were any doubt as to whether a technological advance had been achieved, then it would have been open to the Tax Court Judge to conclude that, on a balance of probabilities, “scientific research” had not been conducted within the meaning of the Act and Regulations. In this case, a technological advance was achieved in the construction industry. In Sass Manufacturing, however, there was no technological advance because the project had been abandoned and documentary evidence of testing could not be adduced because the records had been discarded. In my respectful opinion, the facts in the present case are materially different than those in Sass Manufacturing.
+This underscores the expectation that a systematic search or investigation by analysis or experiment should include testing, as clearly set out in Questions 2, 3 and 5 of Northwest Hydraulic, in order to constitute SR&ED.
+[20] It can be observed and recognized that the five Northwest Hydraulic considerations along with their discussion and application by the Federal Court of Appeal are designed to have the Court focus on the extent to which a taxpayer claiming to have conducted SR&ED followed what is generally understood to be the scientific method. The scientific method has been referred to and followed for centuries and is taught in Canadian high schools. The statutory language is itself highly suggestive of the scientific method when it mandates a systematic investigation or search in a field of science or technology by means of experiment or analysis.
+The Project Planning Documents
+[21] The Appellant prepared a one‑page Planning sheet in respect of each of the Projects. These were the only contemporaneous documents prepared by Life Choice or Dr. Dahl with respect to the Projects that were put into evidence (apart from a one‑page listing of possible supportive ingredients for B17 effectiveness relating to Project 1 at Tab 11 of the Appellant’s book of documents). These Planning documents were completed by Dr. Dahl by hand on a preprinted form.
+Project 1
+[22] The Planning document for Project 1 at Tab 7 provides as follows:
+Project name: laetrile (P1)
+What technological questions are you trying to answer?
+How to design a formulation that addresses cyano‑toxicity concerns of amygdalin and therefore safe for human (daily) use?
+What is your plan?
+My plan is: currently we have combined amygdalin with B12 for cyanide binding properties.
+Analyze dosage and effects of this formula on cyanide blood levels. Identify risk warnings, any other ingredients that we can add to further support safety. Look for side effects.
+What resources (people) are you planning to assign to this project and why?
+Eldon – lead researcher
+Agnes, Kristina, Michelle – support research
+Jake – cross‑check raw materials
+Don – consult on customer’s demand, concerns, competitor products
+Anticipated major milestones and phases:
+1. Finish adverse effects
+2. Submissions to NHPD [Natural Health Products Division of Health Canada]
+3. Address any concerns they may have with supportive research
+4. NPN [Natural Product Number from Health Canada]
+5. Production
+Project start date June 2010
+Project end date April 2011
+[23] With respect to the Planning document for Project 1, Dr. Dahl testified as follows:
+So it shows my plan that I was working with, and I made these notes while I was going through and really the anticipated major milestone phase is the finished adverse effects. So we want to lessen the adverse effects that cancer causes, when you have your hypothesis and prepare a submission to the Health Canada NHPD for addressing the issue, if they would allow my research to be licensed and then to deal with the concerns and then finally if approved, final production. [9]
+Project 2
+[24] The Planning document for Project 2 at Tab 15 is as follows:
+Project name: neuro support (P2)
+What technological questions are you trying to answer?
+How to design a formulation that matches effects of acetyl‑L‑carnitine and alpha‑lipoic acid but works with or without carnitine?
+What is your plan?
+Research acetyl mechanisms.
+Analyze existing ingredients for support of neurological functions. Cross‑reference ingredients to form supportive rationale.
+What resources (people) are you planning to assign to this project and why?
+Eldon Dahl – lead researcher
+Agnes, Kristina, Michelle – support researchers
+Jake – cross‑check raw materials
+Don – concerns, competitor products, customer’s demand
+Anticipated major milestones and phases:
+1. Confirmation on individual ingredients to create a formulation by dicentra’s research (also)
+2. Submission to NHPD – HC
+3. (NPN – production)
+Project start date July 2011
+Project end date July 2012
+Project 3
+[25] The Planning document for Project 3 at Tab 24 reads as follows:
+Project name: chelatory
+What technological questions are you trying to answer?
+To only use naturally derived ingredients in order to create an orally administered chelation formulation that is equally equivalent in therapeutic effect as the drip. Producing a vasodilation for plaque removal.
+What is your plan?
+To research well‑known vasodilation solutions and cross‑referencing the information in order to create cardio‑support using oral ingredients. Improving the effectiveness naturally.
+What resources (people) are you planning to assign to this project and why?
+People planned for development
+Eldon Dahl – lead researcher
+Agnes, Kristina and Michelle – support research
+Jake – cross‑checking selection of raw materials
+Don – consultation with customers and demand and competition in the marketplace
+Anticipated major milestones and phases:
+1. To finish adverse effects
+2. Submission to NHPD
+3. Address any and all concerns presented
+4. Backed by clinical research and evidence
+5. Therapeutic value with noticeable results
+Project start date July 2011
+Project end date July 2012
+[26] With respect to the Planning document for Project 3, Dr. Dahl testified as follows:
+This is my original planning stage. This is a question that I’m trying to answer. My uncertainty is to use a naturally derived [ingredient] in order to create an orally administered chelation formulation that is equally equivalent in therapeutic effect as the drip, the IV drip, and producing a vasodilation effect for plaque removal from the body.
+And so then -- and then the planning stage is to research well‑known vasodilation solutions and cross‑reference the information in order to create a cardio support system for using these oral applied ingredients to improving the effectiveness naturally, without the side effects.
+And it’s a project that I consulted with several different groups and the resources that I used, and use experts to help, and the milestone was to finish [10] the adverse effects and to submit it to Health Canada, NHPD, for approval and to address all their concerns because my end goal was not to create a prescription‑based product but an over‑the‑counter product to be used in the patient’s home or the customer’s home. And backed by clinical research and evidence. And really to find therapeutic results with noticeable results. The project was started in July 2011 and [ended] in July 2012. [11]
+Life Choice’s Activities on the Projects
+Project 1
+[27] Dr. Dahl was aware of a laetrile natural health product licensed for sale in Slovakia. The laetrile was derived from apricot seed kernels and contained cyanide. Dr. Dahl contacted the company in Slovakia by letter. He said he also spoke with a dispensing pharmacist of the Slovakian over‑the‑counter product. He said he learned from them that the results were said to be very good and favourable if the dosage and ingestion directions on the box are followed.
+[28] Dr. Dahl’s formulation added other supplements to the laetrile found in the Slovakian product. He had a theory to support the laetrile using vitamin B12. He started with a big list of potential ingredients. He said he kept handwritten notes of the studies he drew information from. In his own words “[a]nd so this is where the research was that I did through analysis was either through clinical review, speaking to colleagues, it was laying out my project looking for the pieces of the puzzle that fit. And it was a systemic review of analysis that was done to lessen or to satisfy originally my hypothesis”. [12] When asked by counsel for the Appellant to describe the “real activities” performed, Dr. Dahl answered “I started to put together the formulation and did research with complementary ingredients that would work synergistically with this product. I was, as I say, I was in contact with several people I know that are authorities, either dealing with raw material or U.S. pharmaceutical grade material, products in their nature form which I would say are, in a simplistic word, in a pre‑digested form”. [13] He communicated with other doctors on vitamin B12. He reviewed various university studies. He was aware of evidence and discussion by the World Health Organization on laetrile. He consulted with a health product licensing company, dicentra inc. When Health Canada would not accept his 100 mg daily laetrile formulation, he reformulated the product. The 100 mg was based on the Slovakian product. He reformulated it to 23 mg daily based upon his understanding of the World Health Organization’s published safe and tolerable limit.
+[29] Dr. Dahl testified they submitted the laetrile and B12 formulation to Health Canada just to get acceptance, and from there they would be building a formulation using other supportive ingredients from the list he wrote down (Tab 11) based upon his knowledge from past medical experience he had compiled and kept on the shelf in his mind. The reformulations were not further described.
+[30] In the end, Health Canada would not license any of the Appellant’s formulations containing any laetrile whatsoever. Life Choice instead formulated a natural health product without laetrile but which would still mimic the effects of laetrile. It is on the market today. I was not told anything else about the formulation and reformulation activities of this product.
+[31] Dr. Dahl testified that Life Choice did not proceed to clinical trials after obtaining a proposal from a third party to provide them. They would have been too expensive. Health Canada did not require them for natural health products. Dr. Dahl said clinical trials would have been even more difficult because, as a member and supporter of People for the Ethical Treatment of Animals (PETA), he did not believe in animal experimentation — it would have to be done on humans instead.
+Project 2
+[32] This Project involved the formulation of a natural health product that would mimic acetyl‑L‑carnitine’s effect of increasing neural activity within the brain. Dr. Dahl corresponded with a doctor and research scientist who was then researching the use of massive dosages of methylated B12 for the treatment of MS. She reported seeing great results with nerve impulses. He was aware of a Berkley study that involved putting old and young rats through mazes which led to a patented formula including acetyl‑L‑carnitine and alpha‑lipoic acid. Dr. Dahl also studied reviews of projects of others, notably one involving the cannibalization of flat worms and learned memory. His “real activities” were reviewing clinical studies which he documented and analyzed to start to look at ways to reformulate. He did a systemic review of the literature and the ingredients and the science. He knew from past experience the advantages of using threonine. He tried to get Health Canada to remove acetyl‑L‑carnitine from the restricted schedule, so he could just use it in his natural health product instead of looking for a product to mimic it. Health Canada did this in late 2011, so he reformulated his product using acetyl‑L‑carnitine. The reformulated product was licensed in June 2013 by Health Canada and contains 21 medicinal ingredients including acetyl‑L‑carnitine, alpha‑lipoic acid, vitamin B12 and threonine. Dr. Dahl was of the opinion that his first formulations without acetyl‑L‑carnitine would also have worked but would have been less effective. No explanation for this opinion was given.
+[33] Dr. Dahl said he feels advancements in knowledge were achieved by Life Choice’s Project 2. With Project 2, Life Choice “could take key components that were backed by science to show that you can actually increase and alter brain level activity, lessening spasticity, opening the synapses within the brain so you can -- the neurons fire and you can have the ability to access memories that have been blocked”. [14] The Court was not given any further description nor any supporting evidence that Life Choice’s Project 2 formulation activities or Life Choice’s natural health product contributed to such knowledge or had been shown to perform as described.
+Project 3
+[34] Project 3 is a natural health product to remove arterial plaque. Dr. Dahl hypothesized he could create an oral chelatory form that would deal with chelation (binding) to take the arterial plaque from the blood vessels, to vasodilate the blood vessels to increase circulation to the extremities, and to take the plaque off the organic material from the brain stem. EDTA was being used in intravenous form for this purpose. Dr. Dahl believed that, if EDTA were instead used in oral form with complementary ingredients to accomplish the same thing, it could be available over the counter for home use and would lessen damage to other organs such as the liver and pancreas.
+[35] Dr. Dahl had studied the matter for several years; he did systematic reviews on what makes up the blockage in arteries. The blockage was known to be caused by inorganic material, including heavy metals forming within the blood vessels and the brain. It was his belief that EDTA being administered by medical doctors intravenously was not complete and could further impact other areas of the body.
+[36] Dr. Dahl wished to use EDTA in a manner that was complementary with other ingredients. He understood Health Canada would not allow EDTA as a medicinal ingredient. Health Canada would, at some later time, permit it to be added as a supportive non‑medicinal ingredient. Dr. Dahl studied the research and methodology of a German doctor and read studies from that doctor’s institute. Dr. Dahl analyzed his research on the German studies. He described his “real activities” as isolating the two components he was going to use and then formulating a final product within his mind and on paper, while also incorporating other selected ingredients that would not compete with the two ingredients needed for the chelation process itself.
+[37] Dr. Dahl said he knew certain chelating ingredients but he realized through further study that some were antagonistic to each other. Therefore he said he decided through hypothesis which would be the most effective. He said he originally wanted to choose between EDTA and DMSA, but Health Canada would not allow the use of DMSA as a medicinal ingredient in over‑the‑counter products. So he then set out to create a formulation with the EDTA that would not be toxic to the body.
+[38] Dr. Dahl said he researched well‑known vasodilation solutions and cross‑referenced the information. He consulted with several different groups and called on experts to help minimize adverse side effects because his end goal was to create an over‑the‑counter product that was backed by clinical research and evidence and would be licensed by Health Canada. He again wrote to dicentra inc. to consult on his originally proposed ingredients and to get their feedback.
+[39] Dr. Dahl said he also determined that the desired formulation should be taken in dosages and for periods that would depend upon age and upon environmental considerations particular to the person.
+[40] Dr. Dahl stated that “[m]y original formulation, once effective, would achieve the desired results”. [15] However, once acetyl‑L‑carnitine was taken off the restricted schedule by Health Canada and could be used in over‑the‑counter formulations, as described above, Dr. Dahl reformulated Project 3 as well to incorporate that ingredient in lieu of EDTA which was not allowed to be used as a medicinal ingredient. Acetyl‑L‑carnitine is also a vasodilator. So he analyzed existing documentation he had and checked for compatibility. He described acetyl‑L‑carnitine coming off Health Canada’s restricted schedule as a godsend since he knew clinical studies, especially those by another particular doctor, and he had used it on patients for 20‑plus years. He knew it would accelerate the effectiveness.
+[41] Dr. Dahl said he had undertaken lots of literature review before beginning his third project. He had studied the subject immensely. He referred again to his fascination with another doctor’s work, findings, results and discoveries. He consulted several articles and had one translated from German.
+The Three Projects
+[42] At the end of his examination‑in‑chief, counsel for the Appellant asked Dr. Dahl to evaluate his time spent on all three Projects. He answered as follows:
+Well, it’s -- my review is commensurate with my work that I perform due to analysis, studies; incorporating the use of outside sources like dicentra, the -- my raw material supplier who has his master’s degree as a pharmacist; consulting with several naturopathic doctors; and my staff who help me do the research and do some of the leg work. [16]
+[43] At the end of his testimony, I asked Dr. Dahl to please clarify what he meant when he used the phrase systemic review or systematic review. Specifically, I asked what it was he systematically reviewed and how he performed that systematic review. He answered that he did a systematic review of the analysis he had extracted of the clinical studies of others by completing a literature review and correspondence and dialogue with other authorities such as naturopaths, professors and pharmacists. He added that he did additional analysis by evaluating the calculation of the ingredients in his formulations by drawing on his accumulated knowledge and expertise and then submitting his formulations to Health Canada for licensing. He said he did not have clinical trials done because of the expense; he had earlier testified that clinical trials were not needed for natural health product licensing by Health Canada. He said his testing of his hypotheses was based upon evidence he received from other authorities like the World Health Organization. He said his formulations were “tested through hypothesis and in evaluation based on evidence”. [17] It was clear from his earlier testimony this was pre‑existing evidence of others and his own accumulated knowledge and clinical observations. He described his final testing, short of clinical trials, was to submit his formulations to Health Canada for approval which, once obtained, deems the formulations to be effective.
+[44] Dr. Dahl was even more clear and succinct when then asked by counsel for the Appellant what scientific analysis or work was done. Dr. Dahl said he first evaluated the condition that was to be treated. Secondly, he reviewed the human body concerning the diseased state and produced a formulation to address that condition. His analysis was done using clinical evidence from a review of authoritative scientific studies. He used this combined research to formulate a unique product that would address these authorities analyzed as part of his literature review.
+[45] Dr. Dahl’s answers were consistent with paragraph 29 of Life Choice’s notice of appeal: “The Plaintiff asserts that the formulas were developed in a scientific manner, requiring analysis of available information collected from existing literature, suppliers, regulatory bodies and analysis of ingredients.”
+Considerations, Findings, Analysis and Conclusion
+[46] I am prepared to accept that there was scientific uncertainty in each of the three Projects. There was uncertainty that natural health products could be effective in mimicking the existing pharmaceuticals in use. There was uncertainty as to whether other supplemental complementary natural ingredients could minimize adverse effects of the principal new mimicking natural ingredients in an effective manner. Once the Projects were reformulated to use the existing pharmaceutical instead of a mimicking ingredient, as in Projects 2 and 3 described above, there remained the uncertainty of identifying supplemental complementary natural ingredients that would be effective in lessening or removing adverse side effects of the existing chemical ingredients.
+[47] I accept that Life Choice’s Dr. Dahl hypothesized formulations aimed at being effective in their abilities to mimic the existing pharmaceutical products, and aimed at minimizing adverse effects of the mimicking ingredient and/or the existing ingredient.
+[48] I can conclude that there was nothing approaching detailed records of the hypotheses or of any results. This appears clearly to result from the fact that all of what Dr. Dahl referred to as testing was done only as part of the development of his hypotheses for an effective formulation. There was no testing in any fashion performed to gauge, verify, quantify, determine the repeatability or lack thereof, or compare or otherwise assess the effectiveness or any other aspect of the products formulated by hypothesis alone. His formulations were only reformulated in response to Health Canada either not approving the hypothesized formula or removing the restriction it had on his preferred ingredient. His reformulation efforts were analysis by way of “a systemic review of the literature that I had pulled and combined together in a synergistic way to create a formulation”. [18] He said that it was all of the clinical studies of the ingredients and the science that he reviewed that became the background of the formulation he produced in an effort to lessen his uncertainties with his theory.
+[49] The absence of any type of testing by Life Choice of the hypothesized formulations also results in it remaining to this day unknown if any of Life Choice’s formulations represented any form of advancement of scientific knowledge whatsoever. It is not even known if there was any or no ability of the originally formulated principal ingredients in Projects 2 and 3 to mimic the existing pharmaceuticals, since Life Choice reformulated to use the existing chemical pharmaceutical as soon as Health Canada allowed it to be used in a licensed natural health product. Contrary to the Appellant’s position, a newly hypothesized formulation cannot on its own be considered either knowledge or the advancement of knowledge for these purposes.
+[50] It is the absolute absence of testing of the natural health products by Life Choice after their formulations were hypothesized by Dr. Dahl that is fatal to this appeal. It is a clear conclusion from the evidence that, not only was no such testing done, neither Life Choice or Dr. Dahl ever intended to do any as part of these Projects. The jurisprudence has clearly, consistently and correctly interpreted the definition of SR&ED as requiring some form of testing of the hypotheses developed in order for there to be systematic investigation or search carried out by means of experiment or analysis. Question 2 of Northwest Hydraulic, above, in point 5 of its five‑step process requires consideration of whether there was methodical and systematic testing of the hypotheses. Question 3 of Northwest Hydraulic requires consideration of testing as an included step in the scientific method. Question 5 requires consideration of whether records of the testing of the hypotheses and those results were maintained as the work progressed.
+[51] As stated above, not all aspects of all five of the Northwest Hydraulic considerations are determinative. Individually, some are just informative. However, with respect to testing being required, the Federal Court of Appeal in RIS – Christie could not be more clear that systematic testing is a necessary requirement to meet the statutory definition of SR&ED that will be carefully scrutinized. The Federal Court of Appeal wrote, in paragraph 14, above:
+. . . scientific research connotes the existence of controlled experiments involving the testing of models or prototypes. Thus, evidence of scientific research must be adduced by the taxpayer in order to demonstrate that such research (including testing) was undertaken and that it is eligible for favourable tax treatment . . . . Not only must taxpayers establish that tests were performed, they must also demonstrate that they were conducted in a systematic fashion. In my view, the requirement that research efforts be “systematic” is a higher threshold than simply requiring that research, including testing, be conducted. Although both documentary and viva voce evidence are admissible, the only sure‑fire way of establishing that scientific research was undertaken in a systematic fashion is to adduce documentary evidence which reveals the logical progression between each test and preceding or subsequent tests.
+[Emphasis added.]
+[52] It is not the absence of clinical testing that is fatal to Life Choice’s appeal. It is the absence of testing in any form or fashion that could be said to have been performed in a systematic fashion. Systematic testing for any or improved effectiveness of Life Choice’s formulations could have been done by Life Choice and could have been performed to assess, verify, statistically infer, or gauge effectiveness without full‑blown clinical trials sufficient to satisfy Health Canada if the products were restricted pharmaceutical products, which they were not. Any such testing could have been performed in a manner that met the requirements of the SR&ED definition even though it would not have satisfied a Health Canada requirement, or if, as in this case, there was no Health Canada requirement.
+[53] My decision in this case is in no way intended to suggest that literature reviews and consultations with other researchers cannot be qualifying activities giving rise to qualifying expenses as legitimate constituent parts of SR&ED activities. This appears to be clear from a fair, liberal and purposive reading of the SR&ED definition, including paragraph (d) thereof, and from former Chief Justice Bowman’s comments on the role of intuition, creativity and sometimes genius in Northwest Hydraulic, above. Nor is this decision intended to suggest that a person performing SR&ED cannot use the data or results of the completed research of others in developing and/or testing their own hypotheses or theories.
+[54] Having found that there was no testing by Life Choice of any of its formulations or reformulations after they were hypothesized by Dr. Dahl, much less testing performed in any systematic fashion, the appeal must be dismissed as the activities in support of these three formulation Projects clearly cannot satisfy the requirements of the definition of SR&ED in the Act that activities constitute a systematic investigation or search carried out by means of experiment or analysis. [19]
+[55] Counsel for the Appellant relies on Hun‑Medipharma Research Inc. v. Canada [20] for the proposition that literature review constitutes SR&ED. I do not read it that way. It was an informal decision in which the trial judge lamented the lack of clarity of both parties. It does not mention Justice Bowman’s decision in Northwest Hydraulic, above. It was decided a month after the Federal Court of Appeal decision in RIS - Christie, above, but it is not mentioned. The Crown argued clinical experiments were required. Justice Lamarre Proulx correctly decided in Hun‑Medipharma that the SR&ED definition required either experiment or analysis and clinical experiments were not required. She was satisfied on the evidence presented to her that there had been systematic investigation by analysis. That is not so in the Life Choice case before me.
+[56] The appeal is dismissed.
+Signed at Ottawa, Canada, this 31st day of January 2017.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2017 TCC 21
+COURT FILE NO.:
+2015-2308(IT)I
+STYLE OF CAUSE:
+LIFE CHOICE LTD. v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 11, 2016
+DATES OF APPELLANT’S SUBMISSIONS:
+August 10 and September 26, 2016
+DATE OF RESPONDENT’S SUBMISSIONS:
+September 9, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+January 31, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Al Tharani
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Appellant:
+Al Tharani
+Firm:
+Barrett Tax Law
+Vaughan, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1998] T.C.J. No. 340 (QL).
+[2] [1997] T.C.J. No. 134 (QL), paragraph 79.
+[3] [1998] F.C.J. No. 1890 (QL).
+[4] 2001 FCA 393.
+[5] 2011 FCA 355.
+[6] 2016 FCA 152.
+[7] 2002 FCA 328.
+[8] According to Ms. Bond’s testimony, and the Bond Consulting Group’s submissions to the CRA, the references by Justice Bowman and the Federal Court of Appeal to technological and not scientific in certain of their considerations mean they only apply to experimental development and not to scientific research. That would be inconsistent with accepted principles of statutory interpretation and is wrong.
+[9] Transcript, pages 19 and 20.
+[10] Dr. Dahl clarified that by finishing adverse effects he meant lessening or removing these side effects.
+[11] Transcript, pages 49 and 50.
+[12] Transcript, page 16.
+[13] Transcript, pages 16 and 17.
+[14] Transcript, page 35.
+[15] Transcript, page 52.
+[16] Transcript, page 58.
+[17] Transcript, page 87.
+[18] Transcript, page 34.
+[19] I can add that I would be surprised if Canadian high school students would not recognize readily that the activities of Life Choice and Dr. Dahl did not approach the use of the scientific method.
+[20] [1999] T.C.J. No. 50 (QL).

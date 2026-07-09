@@ -1,0 +1,167 @@
+Title: Bordeleau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27011/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-209-27011-bordeleau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-04-04
+
+# Bordeleau c. La Reine
+
+- Citation: 2003 CCI 209
+- Decision date: 2003-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 621, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bordeleau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-04
+Référence neutre
+2003 CCI 209
+Numéro de dossier
+2002-3423(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-3423(GST)I
+ENTRE :
+PIERRE BORDELEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 17 février 2003 à Trois-Rivières (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelant :
+Jean-François Levasseur
+Avocat de l'intimée :
+Me Danny Galarneau
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 18 juin 2001 et portant le numéro 02305909, pour la période du 1er janvier 1997 au 31 décembre 2000 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada ce 4e jour d'avril 2003.
+« Alain Tardif »
+J.C.C.I.
+Référence : 2003CCI209
+Date : 20030404
+Dossier : 2002-3423(GST)I
+ENTRE :
+PIERRE BORDELEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Alain Tardif, C.C.I.
+[1] Il s'agit de l'appel d'une cotisation en date du 28 août 2002, relativement à la taxe sur les produits et services (la « TPS » ) pour la période du 1er janvier 1997 au 31 décembre 2000.
+[2] La question en litige consiste à déterminer si l'appelant a omis de percevoir et de remettre au sous-ministre du Revenu du Québec (le « SMRQ » ) le montant de 7 659,38 $ de TPS en rapport à des ventes de produits taxables.
+[3] Pour établir la cotisation en litige, le SMRQ pour et au nom de l'Agence des douanes et du revenu du Canada (l' « ADRC » ) s'est fondé sur les conclusions et les hypothèses de fait suivantes :
+a) L'appelant est un inscrit aux fins de l'application de la TPS;
+b) L'appelant exploite un dépanneur, soit une entreprise oeuvrant principalement dans la vente de bière, cigarettes et autres utilisés;
+c) Au cours de la période du 1er janvier 1997 au 31 décembre 2000, l'appelant était un mandataire du SMRQ pour les fins de la perception et de la remise de la TPS.
+d) Au cours de la période ci-avant mentionnée, l'appelant a omis de remettre au SMRQ un montant de taxe nette de 7 659,38 $ s'établissant comme suit :
+TPS :
+Crédits de taxe sur les intrants :
+Total :
+7 153,05 $
+506,33 $
+7 659,38 $
+e) Le montant de taxe de 7 659,38 $ a généré des intérêts de 774,26 $ et des pénalités de 895,60 $;
+f) Le défaut de l'appelant de remettre la taxe au SMRQ est dû à sa négligence et à son incurie, en ce que notamment :
+i) La taxe exigible devait être perçue et de ce fait devait être remise au SMRQ;
+ii) L'appelant devait percevoir la taxe quant aux ventes de produits taxables, notamment bières et produits du tabac;
+iii) Les ventes notamment de bière et de produits du tabac à des clients de l'appelant ainsi qu'à lui-même ou des personnes liées à l'appelant, ventes sur les quelles aucune taxe n'a été perçue et remise, totalisent pour les périodes en litige :
+Périodes
+Total des ventes sans taxe
+1er janvier 1997 au 31 décembre 1997
+22 048,52 $
+1er janvier 1998 au 31 décembre 1998
+30 565,83 $
+1er janvier 1999 au 31 décembre 1999
+52 959,51 $
+1er janvier 2000 au 31 décembre 2000
+38 647,75 $
+iv. Des ventes ont été calculées par le vérificateur du SMRQ en reconstituant les ventes taxables par les achats taxables destinés à la vente;
+v. La reconstitution s'est effectuée en trois étapes, soit par les ventes de bière, la deuxième pour les ventes de produits du tabac et la dernière pour les autres produits taxables;
+vi. Il y avait un écart entre la taxe déclarée et la taxe éligible selon la reconstitution des ventes taxables;
+vii. La vente de bière, de produits du tabac et autres produits taxables constitue une activité commerciale et est la principale activité commerciale de l'appelant;
+viii. Pour les fins de son activité commerciale, l'appelant devait percevoir la taxe sur toute vente de bière, de produits du tabac et autres produits taxables;
+g) L'appelant réclama des CTI inadmissibles pour un montant de 506,33 $;
+h) Les CTI ainsi refusés portent sur l'acquisition de certains produits destinés à la vente et relativement à des dépenses d'essence consommées à des fins personnelles;
+[4] Monsieur Jean-François Levasseur, comptable agréé, représentait la compagnie « Dépanneur le complexe 1996 Enr. (Pierre Bordeleau) » . Il a fait l'analyse du dossier de la compagnie et soumis un rapport produit sous la côte (A-1).
+[5] Monsieur Levasseur a fait également témoigner monsieur Pierre Bordeleau et sa conjointe Sylvie Goulet, ès-qualité respectif de propriétaire et responsable de l'administration du commerce, lesquels ont essentiellement répété le contenu de son propre témoignage, à savoir :
+· qu'ils n'avaient pas ou très peu d'expérience en matière d'exploitation d'un commerce dont la vocation était un dépanneur;
+· que le dépanneur était situé dans un arrondissement où il y avait deux épiceries à grande surface;
+· la population du secteur était principalement constituée de personnes âgées et retraitées qui surveillaient minutieusement les prix des produits qu'ils achetaient;
+· pour fidéliser et développer sa clientèle, l'appelant coupait les prix pour pénétrer ce marché de clients particuliers qui accordaient une importance déterminante aux prix;
+· la marge bénéficiaire du dépanneur de l'appelant, était pour les raisons précédemment énumérées, considérablement réduite par rapport aux normes dans ce secteur d'activités économiques.
+[6] Les faits suivants ont été admis :
+· Le montant des achats des inventaires à partir desquels ont été établies les cotisations.
+· Le vérificateur, monsieur Bourassa a fait un travail très sérieux, très élaboré et conforme aux règles de l'art, eu égard aux contraintes du dossier.
+· Les vérifications ont été effectuées dans un climat de collaboration réciproque.
+· La conjointe de monsieur Bordeleau a également fait certaines admissions dans une lettre qu'elle adressait au Ministère du revenu du Québec :
+...
+Suite à la visite de M. Jacques Bourassa pour une vérification des remises TPS & TVQ pour les années 1997-1998-1999-2000, nous ne pouvions lui fournir notre livre de caisse-recettes puisque nous ne l'avions jamais tenu, ne sachant pas en quoi il pouvait être utile. C'est la première fois que mon mari a un commerce, il est soudeur de métier.
+Donc avez les « Z » de caisse, nous avons fait le livre-recettes pour les années ci-haut mentionnées (photocopies ci-jointes).
+Vous allez sûrement remarquer que les montants remis au gouvernement ne concordent pas tout à fait avec les déclarations faites. C'est en revérifiant les livres que je me suis aperçu que des revenus n'avaient pas été déclarés. Voici les dates et les années, le 03 juin 1998, le 6 mars et 23 décembre 1999 et en 2000, les 18 mars, 23 octobre et 28 décembre.
+Ces omissions sont bien involontaires de ma part, je suis très mal à l'aise d'avoir découvert ce fait. Il n'a jamais été question de cacher quoi que ce soit.
+Lors de l'achat du dépanneur, nous devions concurrencer avec IGA et METRO qui étaient situés très près du dépanneur. Nous achetions et nous achetons encore nos cigarettes au jour le jour. Il est arrivé très très souvent que nous allions acheter nos cigarettes chez IGA ou au METRO cartouche par cartouche et ce, plusieurs fois par jour, étant donné que nous n'avions pas l'argent pour se faire un inventaire. Pour monter notre clientèle, nous vendions des cartouches et les cigarettes avec un très petit profit. Les clients nous commandaient une cartouche, on allait l'acheter et on la lui revendait immédiatement parce que nous n'avions pas l'argent disponible..
+Il est arrivé très souvent que nous achetions des choses pour des amis ou de la famille, il nous remboursait avec 0 profit, c'était du in and out, on ne voulait que rendre service. Il est sûr que nous avons arrêté cette pratique, nous n'avions pas idée de l'impact que çà pouvait avoir.
+Nous vendions des journaux sur lesquels il n'y avait aucun retour de la part du fournisseur (Le Nouvelliste et La Presse) donc si on ne les vendait pas, c'était une perte pour nous mais nous n'en avons jamais tenu compte et veuillez me croire que des journaux nous en avons jeté. Ce n'est que depuis 2001, je ne sais pas exactement la date, que ce distributeur accepte les retours.
+Nous fournissons les allumettes avec l'achat de cigarettes, j'ai toujours passé l'achat des allumettes dans « épicerie » au lieu de les passer comme dépenses du dépanneur. C'est la même chose pour les timbres, on en tient pour accommoder notre clientèle, je passais ces achats dans « fourniture » au lieu de les mettre dans les dépenses. Il n'y a aucun profit avec les timbres, nous allons en acheter 50 au bureau de poste et nous les revendons à l'unité. C'est la même chose pour les sacs de récupérations, j'ai toujours mis ça dans « épicerie » alors que j'aurais dû passer la dépense dans papeterie.
+Lorsque nous avons besoin de produits nettoyants, d'essuie-tout ou tout autre produit pour l'usage du dépanneur, mon mari prenait le produit sur la tablette et ne faisait pas de dépenses pour ça, mais nous, nous ne les avions pas vendus. Maintenant nous ne faisons plus ça, mais c'était notre manière de procéder depuis 1996.
+Notre plus grosse erreur a été le « CRÉDIT » , c'est incroyable l'argent que nous avons perdu. Nous n'avons jamais passé ça dans « mauvaises créances » . Pour nous, cet argent était perdu, jamais on ne pourrait le récupérer, c'était des gens sur le bien-être social, alors on en faisait notre deuil. Les seules mauvaises créances déclarées sont des chèques NSF parce que ça avait de l'impact sur la comptabilité.
+Nous avons été victime de vol à l'étalage et même une personne entrait la nuit dans le dépanneur sans aucune effraction (il avait volé les clés du concierge et s'était fait faire des copies des clés), il prenait ce qu'il avait besoin et s'en retournait. Mon mari a pris du temps avant de se rendre compte du stratège, puisqu'il n'y avait aucune infraction. Lorsqu'il a été pris sur la bande-vidéo, nous avons fait une plainte à la police. Il a déclaré avoir volé une cartouche de cigarettes, nous, nous savons que c'est plus que ce qui a été déclaré mais nous ne pouvons rien prouver.
+Il a des rubans de caisse manquants soit à cause du dégât d'eau que nous avons eu, la cassette d'encre de la caisse a brisé. Il y a eu aussi un vol par infraction en décembre 99, je ne trouve pas le ruban de caisse peut-être a-t-il été remis aux assurances, je ne peux pas me souvenir. Il manque aussi le mois de mars 1998 au complet, je ne les trouve pas, peut-être à cause du dégât d'eau.
+Nous nous sommes fait voler notre caisse-enregistreuse le 15 novembre 1999 et en attendant l'achat d'une nouvelle caisse, Digitec nous a passé une caisse de remplacement mais le ruban de caisse est incompréhensible, (voir photocopie ci-jointe), donc du 15 novembre 1999 au 12 décembre 1999, j'ai les rubans de caisse mais je ne peux les comprendre.
+Espérant le tout à votre satisfaction et n'hésite pas à m'appeler pour des informations supplémentaires. Le dépanneur appartient à mon époux, Pierre Bordeleau, mais c'est moi qui a toujours fait la comptabilité.
+Sylvie Goulet
+[7] L'appelant avait le fardeau de la preuve. Pour relever un tel fardeau, il ne suffit pas de soulever des doutes quant à l'exactitude d'une cotisation; particulièrement si la cotisation a été émise au moyen d'une analyse alternative, à défaut de pouvoir l'établir au moyen d'une preuve directe. Il m'apparaît important de rappeler que l'appelant, par le biais de son représentant, un comptable agréé, a admis que l'intimée avait procédé d'une manière irréprochable.
+[8] L'appelant a admis le coût d'achat des marchandises. Ses prétentions sont à l'effet que la marge bénéficiaire sur les ventes effectuées était beaucoup inférieure aux normes habituelles dans ce genre de commerce à cause de la compétition et de la clientèle du secteur.
+[9] Je dois disposer du présent appel à partir d'une prépondérance de la preuve. D'un côté, il a été démontré que la cotisation fut établie à partir d'une méthode alternative dont la fiabilité n'est pas absolue, mais exécutée d'une manière impeccable.
+[10] Le seul reproche ou le seul argument soulevé par l'appelant quant au bien-fondé de la cotisation à l'origine de l'appel a été que le vérificateur a fait ses calculs à partir d'une marge bénéficiaire supérieure à la réalité. Il a soutenu que les marges bénéficiaires considérées étaient arbitraires.
+[11] Pour démontrer l'arbitraire de la marge bénéficiaire, le représentant de l'appelant a fait référence au contexte particulier de la localisation du commerce et au genre de clients qui résidaient dans le secteur. La particularité découlait de la présence de deux épiceries à grande surface qui vendaient normalement leurs produits à un prix inférieur à celui des dépanneurs, commerce dont l'appelant était alors propriétaire.
+[12] Pour soutenir ses prétentions, il a fourni quelques exemples où la marge bénéficiaire avait été très marginale, voire même nulle, en certaines occasions.
+[13] En contre-partie, l'intimée par le témoignage du vérificateur Bourassa, a démontré que le pourcentage des marges bénéficiaires avait été établi à partir de prix réels, de discussions et de plusieurs conversations avec l'appelant lui-même. Il a finalement établi que les marges bénéficiaires étaient de beaucoup inférieures à celles caractérisant ce genre d'opérations dans lesquelles il avait d'ailleurs une expertise de plusieurs années.
+[14] Le Tribunal a été à même de constater le travail sérieux et laborieux de monsieur Bourassa.
+[15] À plusieurs reprises, j'ai affirmé qu'une personne qui exploite un commerce et qui agit comme mandataire de l'État pour la perception de taxes, se doit d'avoir une comptabilité irréprochable permettant une vérification en tout temps, selon les principes comptables reconnus. Lorsqu'une telle comptabilité est adéquate et soutenue par toutes les pièces justificatives, la clarté et les précisions des informations disponibles permettent de tirer des conclusions appropriées et déterminantes.
+[16] En l'espèce, l'intimée a dû recourir à une méthode alternative dont la qualité de l'exercice a été largement reconnue par l'expert-comptable représentant l'appelant. L'appelant n'a soumis aucune preuve qui soit de nature à vérifier et discréditer la qualité du travail exécuté et par voie de conséquence, il n'a pas relevé le fardeau de la preuve qui lui incombait, d'où l'appel est rejeté.
+Signé à Ottawa, Canada, ce 4e jour d'avril 2003.
+« Alain Tardif »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI209
+No DU DOSSIER DE LA COUR :
+2002-3423(GST)I
+INTITULÉ DE LA CAUSE :
+Pierre Bordeleau et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+le 17 février 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 4 avril 2003
+COMPARUTIONS :
+Représentant de l'appelant :
+Jean-François Levasseur
+Avocat de l'intimée :
+Me Danny Galarneau
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

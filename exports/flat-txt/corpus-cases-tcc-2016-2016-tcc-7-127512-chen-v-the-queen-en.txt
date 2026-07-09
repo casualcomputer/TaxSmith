@@ -1,0 +1,168 @@
+Title: Chen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127512/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-7-127512-chen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-01-06
+
+# Chen v. The Queen
+
+- Citation: 2016 TCC 7
+- Decision date: 2016-01-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3052, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-01-06
+Neutral citation
+2016 TCC 7
+File numbers
+2015-2726(GST)APP
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-2726(GST)APP
+BETWEEN:
+XIAOCHEN CHEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 8, 2015, at Ottawa, Ontario
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the respondent:
+Gabrielle White
+AMENDED JUDGMENT
+The application to extend the time within which a Notice of Appeal can be filed pursuant to section 305(1) of the Excise Tax Act, R.S.C., 1985, c. E‑15, pertaining to the Minister’s denial of a GST/HST New Housing Rebate, is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+This Amended Judgment is issued in substitution of the Judgment dated January 6, 2016.
+Signed at Ottawa, Canada, this 11th day of July, 2016.
+“Guy Smith”
+Smith J.
+Citation: 2016 TCC 7
+Date: 20160711
+Docket: 2015-2726(GST)APP
+BETWEEN:
+XIAOCHEN CHEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Smith J.
+[1] This is an application to extend the time within which to file a Notice of Appeal pursuant to section 305(1) of the Excise Tax Act (“ETA”), R.S.C., 1985, c. E-15, and pertains to the Minister’s denial of a GST/HST New Housing Rebate (the “New Housing Rebate”).
+[2] The Appellant was self-represented and the only witness at the hearing.
+Background [3] According to the Appellant, he purchased a townhouse known as 25 Torbec Avenue (“25 Torbec”) in Ottawa, Ontario, with the intention of occupying same as his primary place of residence. As part of the closing transaction on August 4, 2010 (the “Closing”), he completed the necessary documentation to claim the New Housing Rebate pursuant to section 254 of the ETA.
+[4] The Appellant testified that he moved into 25 Torbec with his wife shortly after Closing. In the meantime, there was a new phase in the subdivision plan, that made available what the Appellant described as larger homes with a better location, particularly in relation to schools. In December 2010, he entered into an Agreement of Purchase and Sale for a second property. The Appellant moved into that second property in April 2011. Having vacated 25 Torbec, he was able to rent it by June 2011. Few other details were provided.
+[5] On January 14, 2011, the Appellant received a Notice of Assessment approving the New Housing Rebate as submitted by the builder following the Closing.
+[6] The Appellant testified that, in the fall of 2011, he received a letter from the Canada Revenue Agency (“CRA”) indicating that the New Housing Rebate had been denied. When he called to make enquiries, he was told by officials that they were not satisfied that he had intended to occupy 75 Torbec as his primary place of residence. The CRA letter was not provided at the hearing.
+[7] On February 16, 2012, the Appellant received a Notice of Reassessment for $27,482.76 (including interest of $2,025.82) with an indication that the New Housing Rebate had been disallowed “as outlined in our recent discussion or letter.” No further details were provided to explain the denial.
+[8] On February 22, 2012, the Appellant filed a Notice of Objection and on April 12, 2013, approximately 14 months later, the Minister of National Revenue (the “Minister”) confirmed the Reassessment of February 16, 2012.
+[9] On June 4, 2015, approximately 26 months after receipt of the Notice of Confirmation, the Appellant filed his application for an extension of time to file an appeal.
+The position of the parties [10] The Appellant claims that he realized sometime after receipt of the Notice of Confirmation of April 12, 2013 and the filing of this application that he should have filed a claim for a GST/HST New Residential Rental Property Rebate (“Rental Property Rebate”), but that he was now out of time, since the time period to file that documentation was 24 months from the Closing.
+[11] The Appellant argues that had the Minister responded more promptly to his Notice of Objection, he would have had time to file a claim for a Rental Residential Rebate prior to the expiry of the 24 month time period expiring on or about August 4, 2012. He argues that he was prejudiced by the long delay between the filing of his Notice of Objection and the receipt of the Notice of Confirmation.
+[12] The Appellant also argues that there were extenuating factors, including a death in the family and the birth of his two children, which prevented him from completing further research on the matter on a timely basis.
+[13] On the basis of the foregoing, the Appellants asks that this Court accept his application for an extension of time to file a Notice of Appeal.
+[14] The Minister takes a much narrower approach of the issues and argues that this Court does not have jurisdiction to consider an application that is made after the expiry of one year as described in subsection 305(5) of the ETA.
+[15] The Minister submitted the following table setting out the sequence of events which is not disputed by the Appellant:
+Excise Tax Act
+Chronology of Events
+Dates
+(year/month/day)
+Transaction Closing for 25 Torbec avenue
+2010-08-04
+Notice of Assessment
+2011-01-14
+Notice of Reassessment
+2012-02-16
+Notice of Objection
+2012-02-22
+Notice of Confirmation
+2013-04-12
+s. 306
+Plus 90 days
+2013-07-11
+s.305(1) & (5)
+Plus 365 days from 90 days
+2014-07-11
+Application filed with Tax Court
+2015-06-04
+The applicable law [16] While the Minister has taken a narrow approach to the legal issues at hand, the Appellant has raised a number of arguments on the merits.
+[17] The Appellant’s first argument pertains to the undue delay or lapse of time between the filing of the Notice of Objection and the receipt of the Notice of Confirmation, some 14 months later. Subsections 301(3) and (5) of the ETA provide as follows:
+301(3) On receipt of a notice of objection, the Minister shall, with all due dispatch, reconsider the assessment and vacate or confirm the assessment or make a reassessment.
+[my emphasis]
+[. . .]
+(5) After reconsidering an assessment under subsection (3) or confirming an assessment under subsection (4), the Minister shall send to the person objecting notice of the Minister's decision by registered or certified mail.
+[18] The Minister notified the Appellant of his decision on April 12, 2013, thus ostensibly fulfilling his obligations under subsections 301(3) and (5) of the ETA.
+[19] Whether the words “with all due dispatch” suggest that the Minister should have acted more promptly – as argued by the Appellant, was discussed in Hillier v. Canada (Attorney General), 2001 CarswellNat 1262, where Sexton J.A. considered subsection 165(3) of the Income Tax Act that requires the Minister to act “with all due dispatch” upon receipt of a Notice of Objection (at para. 12 and 13):
+[12] I turn, therefore, to the period between the time of filing of the notice of objection and the final reassessment. Subsection 165(3) of the Income Tax Act requires the Minister to act "with all due dispatch" upon receipt of a notice of objection.
+[13] The meaning of the phrase "with all due dispatch" has been considered by both the Tax Court of Canada and this Court. In J. Stollar Construction Ltd. v. The Minister of National Revenue, 89 D.T.C 134, Bonner, J.T.C.C. held, at 136, that the purpose of the requirement that the Minster act "with all due dispatch" is "primarily to protect the individual taxpayer by bringing certainty to his financial affairs at the earliest reasonably possible time." With respect to what constituted a reasonable period of time, the learned judge had this to say:
+The words "with all due dispatch" and the words "avec toute la diligence possible" express a clear intention on the part of the legislature to require the Minister to act within a reasonable period, the length of which will vary in accordance with the circumstances of each case. The statutory language does not permit the formulation of a rigid time limit.
+[my emphasis]
+[20] Sexton J.A. concluded that a delay of 18 months was “inordinate” (at para. 17) which would lend some support for Appellant’s argument in this case that a 14 month delay was unreasonable. That being said, the Appellant could have accelerated the process by appealing directly to the Tax Court.
+[21] Subsection 306(b) of the ETA provides that a person who has filed a notice of objection to an assessment may appeal directly to the Tax Court after 180 days from the filing of the Notice of Objection.
+[22] The Appellant failed to avail himself of that option, choosing instead to wait for the delivery of the Minister’s response in due course. Whatever the reason, be it a lack of knowledge of the options available to him or as a result of the extenuating factors mentioned above, it is not necessary for me decide whether the Minister acted “with all due dispatch” as the real issue pertains to the filing of an appeal on a timely basis.
+[23] Pursuant to section 302 of the ETA, the Appellant had 90 days from the receipt of the Notice of Confirmation of April 12, 2013 to file an appeal to the Tax Court. He failed to do so and now seeks to have an extension of time within which to file his appeal.
+[24] Subsection 305(1) of the ETA provides that where no appeal has been filed within that 90 day period mentioned above:
+305(1)[. . .] , a person may make an application to the Tax Court for an order extending the time within which an appeal may be instituted, and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+[25] While that specific subsection appears to give this Court a broad discretion, subsection 305(5)(a) provides that:
+305(5). No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Part for appealing; [. . .]
+[my emphasis]
+[26] Subsection 305(5)(a) then uses the conjunctive “and” and sets out a number of factors in (b)(i) to (iv) to be considered by this court when called to decide whether its discretion should be exercised so as to grant an extension of time. The difficulty, of course, is that the Appellant does not get past the first post. The one year period to file an application to extend expired on July 11, 2014.
+[27] Counsel for the Respondent suggested that, as a result of the above, this Court does not have jurisdiction to deal with the application. I do not entirely agree with that proposition since this Court certainly does have jurisdiction to hear this matter pursuant to subsection 12(1) of the Tax Court of Canada Act.
+12(1) – The Tax Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the [. . .] the Excise Tax Act, the Income Tax Act, the Old Age Security Act [. . .]
+[28] While I recognize that the word “jurisdiction” was used loosely in this context, it would be more accurate to say that this Court does not have the authority to make an order extending the time within which to file an appeal save and except where the Court is satisfied that the provisions of paragraphs 305(5)(a) and (b) are met: for 2786885 Canada Inc. v. R, 2011 Carswell Nat 2039, FCA.
+[29] Although it is not necessary for me to do so, I will also address the Appellant’s second argument that had the Minister dealt with his Notice of Objection on a timely basis, he would have had time to file a claim for a Rental Property Rebate in lieu of a New Housing Rebate and that he would have been able to do so prior to the expiration of the 24 month period from the date of Closing.
+[30] A similar case was discussed in Napoli v. R., 2013 TCC 307, where Paris J. noted:
+12. The appellant's representative submitted in the alternative that if the appellant is denied the New Housing Rebate, he should be allowed to claim a GST/HST New Residential Rental Property Rebate (“Rental Property Rebate”) in respect of the property because he met all of the conditions for that rebate.
+13. However, as pointed out by counsel for the respondent, the deadline for applying for a Rental Property Rebate is two years after the end of the month in which GST first became payable on the purchase. This deadline is found in paragraph 256.2(7)(a) of the ETA.
+14 Since GST became payable on the purchase of the property on the closing date, October 31, 2007, the time limit for applying for a rental property rebate would have been October 31, 2009. The appellant only filed a Rental Property Rebate application in 2011 after the Minister denied his New Housing Rebate claim.
+15. I have no jurisdiction to waive or extend the time limit set out in paragraph 256.2(7)(a). Therefore, I have no power to order the Minister to allow the appellant's Rental Property Rebate application.
+16. The appellant stated that other taxpayers who purchased property from the same builder and who claimed the New Housing Rebate but who rented out their properties were allowed by the CRA to file the Rental Property Rebate applications in place of their New Housing Rebate applications, and were in fact granted those rebates.
+17. Again, I agree with counsel for the respondent that I cannot take into account the CRA's treatment of those other taxpayers. I am required to apply the provisions of the ETA to the facts of this case, and as I have indicated, the application by the appellant for the rental property rebate was out of time.
+[31] In this case, the Appellant knew as early as the fall of 2011 that his New Housing Rebate was likely to be denied. Although he has raised extenuating circumstances, I find that he had ample time to file a Rental Property Rebate prior to the 24 month time limit, but failed to do so.
+[32] When pressed on this issue, the Appellant explained that filing a different form would have contradicted his initial position that he was entitled to the New Housing Rebate in the first place. At the end of the day, we can only speculate as to what arguments would have been raised in an appeal had same been filed on a timely basis and argued on the merits.
+Conclusion [33] It follows from the above, that the deadline to file an application for an extension of time pursuant to subsection 305(5)(a) of the ETA, expired on or about July 11, 2014. This court does not have the authority to extend that time period and, as a result, this application must be dismissed without costs.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated January 6, 2016.
+Signed at Ottawa, Canada, this 11th day of July, 2016.
+“Guy Smith”
+Smith J.
+CITATION:
+2016 TCC 7
+COURT FILE NO.:
+2015-2726(GST)APP
+STYLE OF CAUSE:
+XIAOCHEN CHEN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+December 8, 2015
+AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+July 11, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gabrielle White
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

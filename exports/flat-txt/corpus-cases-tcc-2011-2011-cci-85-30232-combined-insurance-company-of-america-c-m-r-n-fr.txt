@@ -1,0 +1,373 @@
+Title: Combined Insurance Company Of America c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30232/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-85-30232-combined-insurance-company-of-america-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-02-25
+
+# Combined Insurance Company Of America c. M.R.N.
+
+- Citation: 2011 CCI 85
+- Decision date: 2011-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7752, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Combined Insurance Company Of America c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-25
+Référence neutre
+2011 TCC 85
+Numéro de dossier
+2008-3975(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-3975(EI)
+ENTRE :
+COMPAGNIE D'ASSURANCE
+COMBINED D'AMÉRIQUE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MICHEL A. PAQUETTE,
+intervenant.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Compagnie d'assurance Combined d'Amérique (2008-3974(EI))
+les 29 et 30 septembre et les 28, 29 et 30 octobre 2009,
+à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l'appelante :
+Me Dominic C. Belley
+Me Vincent Dionne
+Avocats de l'intimé :
+Me Simon Petit
+Me Laurent Brisebois
+Pour l'intervenant:
+L'intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté de la décision du ministre du Revenu national portant que monsieur Michel A. Paquette exerçait auprès de l'appelante un emploi assurable au sens de la Loi sur l'assurance‑emploi durant la période du 25 janvier 2007 au 27 janvier 2008 est accueilli par les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour de février 2011.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2008-3974(EI)
+ENTRE :
+COMPAGNIE D'ASSURANCE
+COMBINED D'AMÉRIQUE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de
+Compagnie d'assurance Combined d'Amérique (2008-3975(EI))
+les 29 et 30 septembre et les 28, 29 et 30 octobre 2009,
+à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l'appelante :
+Me Dominic C. Belley
+Me Vincent Dionne
+Avocats de l'intimé :
+Me Simon Petit
+Me Laurent Brisebois
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté de la décision du ministre du Revenu national portant que madame Suzanne Gisbert exerçait auprès de l'appelante un emploi assurable au sens de la Loi sur l'assurance‑emploi durant la période du 1er janvier 2004 au 21 janvier 2005 est accueilli par les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour de février 2011.
+« Réal Favreau »
+Juge Favreau
+Référence : 2011 CCI 85
+Date : 20110225
+Dossier : 2008-3975(EI)
+ENTRE :
+COMPAGNIE D'ASSURANCE
+COMBINED D'AMÉRIQUE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MICHEL A. PAQUETTE,
+intervenant.
+ET ENTRE : Dossier : 2008-3974(EI)
+COMPAGNIE D'ASSURANCE
+COMBINED D'AMÉRIQUE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] La Cour est saisie de deux appels entendus sur preuve commune de décisions du ministre du Revenu national (le « ministre ») datées du 9 et du 22 octobre 2008 selon lesquelles monsieur Michel A. Paquette et madame Suzanne Gisbert (collectivement désignés comme les « travailleurs ») exerçaient auprès de l’appelante un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi, L.C. 1996, C-23 (la « Loi ») durant la période du 1er janvier 2004 au 21 janvier 2005 dans le cas de madame Gisbert, et du 25 janvier 2007 au 25 janvier 2008 dans le cas de monsieur Paquette.
+[2] La Compagnie d’assurance Combined d’Amérique (ci‑après désignée comme « Combined ») est une compagnie d’assurance dont l’objet social est la vente dans tout le Canada de différentes polices d’assurance, y compris les polices d’assurance vie/maladie et d’assurance accident/maladie. Le siège social de l’appelante est situé à Chicago dans l’État de l’Illinois tandis que le siège social pour les opérations au Canada est situé à Markham (Ontario). L’appelante a également un bureau régional à Boucherville (Québec).
+[3] La Cour d’appel fédérale a renversé une décision de la Cour canadienne de l’impôt et a conclu qu’un représentant des ventes n’exerçait pas un emploi assurable auprès de l’appelante (Combined Insurance Company of America v. The Minister of National Revenue, [2007] F.C.J. No. 124 (F.C.A.) (QL) et [1999] T.C.J. No. 113 (T.C.C.) (QL).
+Les états de service de monsieur Paquette auprès de l’appelante
+[4] Monsieur Paquette est entré au service de l’appelante le 2 mai 2003, date à laquelle il a complété ou signé divers documents dont un document intitulé « Déclaration et Autorisation », un questionnaire du représentant éventuel, un contrat de garantie et une convention de formation. Aux termes d’une entente, qui est entrée en vigueur le 1er janvier 2004, monsieur Paquette est devenu représentant chargé de la vente de produits d’assurance de l’appelante (ci‑après désignée comme l’« entente du 1er janvier 2004 »). Aux termes d’un ajout (« addendum ») à l’entente du 1er janvier 2004, monsieur Paquette est devenu à compter du 12 janvier 2004, gérant de ventes (sur le terrain) chargé du recrutement de représentants indépendants des ventes et de collaborer avec des équipes de représentants indépendants des ventes de l’appelante. À compter du 12 juin 2006, monsieur Paquette est devenu gérant de district et, à compter du 11 juin 2007, il a été promu au poste de gérant de district urbain (cette désignation de poste n’est plus utilisée). Le 28 janvier 2008, il a été rétrogradé au poste de représentant des ventes, poste qu’il occupait toujours. Au cours de la période pertinente pour monsieur Paquette, il exerçait les fonctions de gérant de district et de gérant de district urbain pour le compte de l’appelante.
+[5] Le gérant régional de monsieur Paquette était monsieur Daniel Verdier alors que l’administrateur sous‑régional était monsieur André Paquin. Messieurs Verdier et Paquin étaient employés permanents de l’appelante. Monsieur Paquette faisait partie de la division de l’assurance accident et maladie.
+Les états de service de madame Gisbert auprès de l’appelante
+[6] Madame Gisbert est devenue représentante de l’appelante le 3 juin 1996 suite à la signature de l’entente intitulée « Entente standard d’Agence de Combined » (ci‑après désignée comme l’« entente de 1996 »). Elle est devenue gérante à compter du 4 août 1997 suite à la signature d’un ajout à l’entente de 1996. Au cours de la période du 24 août 1998 jusqu’au 16 octobre 2000, madame Gisbert est intervenue à titre de représentante de l’appelante de manière occasionnelle. Par un autre ajout à l’entente de 1996, prenant effet à compter du 1er janvier 2001, madame Gisbert est redevenue gérante à son retour d’un congé de maternité. Madame Gisbert a signé la nouvelle entente avec l’appelante entrant en vigueur à compter du 1er janvier 2004 en tant que représentante de même, qu’un ajout à ladite entente par lequel elle a retrouvé son titre de gérante avec effet à compter du 1er janvier 2004. Elle a exercé ses fonctions de gérante du 1er janvier 2004 au 20 juin 2004 et du 7 septembre 2004 au 21 janvier 2005. Elle a été remerciée le 23 novembre 2005. Au cours de la période pertinente pour madame Gisbert, elle a exercé les fonctions de gérante des ventes pour le compte de l’appelante.
+[7] Le gérant de district de madame Gisbert était monsieur Robert Bourassa, son conjoint, tandis que son gérant régional était monsieur Jacques Déry. Madame Gisbert faisait partie de la division de l’assurance vie et maladie.
+Les témoignages
+[8] Outre madame Gisbert et de monsieur Paquette, ont témoigné pour le compte de l’appelante, messieurs Michel Rivest, Daniel Aubé, Yves Crevier et André Dufresne, tandis que messieurs Robert Bourassa et Jean‑Claude Lévesque ont témoigné pour le compte de l’intimé et que mesdames Céline Gratton, Mylène Ruel et monsieur Philippe L’Espérance ont témoigné pour le compte de l’intervenant.
+Les opérations de l’appelante au Québec
+[9] Monsieur Michel Rivest, administrateur divisionnaire de l’appelante, a témoigné à l’audience et il a donné des précisions concernant les opérations de l’appelante au Québec. Il a expliqué que l’appelante comptait de 65 à 70 employés au Québec et quelques 325 représentants au Québec. Le chiffre d’affaires de l’appelante au Québec pour l’année 2008 était de l’ordre de 100 millions de dollars. De 90 à 94 % du chiffre d’affaires provenait de la vente de polices d’assurance accident/maladie, alors que les polices d’assurance vie/maladie constituaient environ 8 % du chiffre d’affaires. Il a de plus expliqué que le Québec était divisé en 10 régions qui étaient administrées par trois gérants régionaux dont les principales fonctions consistaient à gérer les budgets régionaux, à répartir les dossiers/clients et à assister les quelques 40 à 42 gérants de district dans leurs activités de recrutement de nouveaux représentants. Les gérants de district supervisaient de trois à cinq gérants des ventes, soit environ 90 gérants des ventes au total pour le Québec. Les gérants des ventes quant à eux exerçaient les mêmes activités que celles exercées par les représentants des ventes sauf qu’ils étaient, en outre, responsables des 3 à 5 représentants qui faisaient partie de leur équipe.
+Les attributions du gérant de district
+[10] Selon les témoignages de messieurs André Dufresne et Michel Paquette, les principales attributions du gérant de district étaient les suivantes :
+a. établir avec le gérant régional les objectifs de ventes (renouvellements et nouvelles ventes) et assurer le suivi mensuel et hebdomadaire;
+b. recevoir les cartes de référence « leads » des clients de son territoire et procéder à l’attribution de ces cartes aux gérants des ventes et aux représentants de son équipe;
+c. s’assurer que les affidavits confirmant le retour des documents universels des clients soient dûment signés et assermentés;
+d. établir un plan de travail pour le recrutement de nouveaux représentants et participer au recrutement des représentants et signer les questionnaires remplis par les candidats;
+e. superviser les gérants des ventes et les représentants de son équipe, organiser les réunions d’équipe et les stages sur le terrain, qui seront appelés à appuyer les membres de leur équipe;
+f. assurer une formation aux représentants;
+g. compléter les rapports des ventes et calculer les commissions et surcommissions;
+h. gérer les demandes de vacances des gérants des ventes et des représentants de leur équipe;
+i. effectuer les dépôts à la banque des chèques des clients;
+j. participer aux réunions régionales avec toute l’équipe de vente (une réunion par trimestre)
+Les attributions du gérant des ventes
+[11] Selon les témoignages de mesdames Suzanne Gisbert et Mylène Ruel, les principales attributions d’un gérant des ventes étaient les suivantes :
+a. remplir les mêmes tâches qu’un représentant des ventes et superviser de trois à cinq représentants;
+b. garantir les sommes dues à l’appelante par les représentants de l’équipe;
+c. préparer les rapports de ventes du gérant à toutes les semaines;
+d. prendre le petit déjeuner tous les matins avec les représentants de l’équipe pour les motiver et s’assurer de leur présence – seuls les petits déjeuners du vendredi matin étaient obligatoires (le gérant de district y était systématiquement présent alors que le gérant régional y assistait souvent);
+e. s’assurer que chaque représentant gagne au moins 100 $ de commission par semaine;
+f. participer avec son équipe de représentants aux concours de vente;
+g. attribuer aux représentants les fiches/clients obtenues du gérant de district;
+h. vérifier que les objectifs de ventes fixés pour l’équipe soient atteints.
+Les textes législatifs et réglementaires pertinents
+[12] Monsieur Daniel Aubé, directeur national de la conformité et des pratiques commerciales chez Combined, a fourni des explications concernant l’environnement juridique de l’industrie de l’assurance au Québec.
+[13] Elle est encadrée par un certain nombre de lois, règlements et guides; on signalera les suivants :
+i. la Loi sur la distribution de produits et services financiers, L.R.Q., c. D‑9.2;
+ii. la Loi sur la protection des renseignements personnels dans le secteur privé, L.R.Q., c. P‑39.1;
+iii. la Loi sur la protection des renseignements personnels et les documents électroniques, L.C., 2000, ch. 5;
+iv. le Règlement sur l’exercice des activités des représentants, c. D‑9.2, r. 1.3;
+v. le Règlement sur la formation continue obligatoire de la Chambre de la sécurité financière, c. D‑9.2, r.1.4.0.2;
+vi. le Règlement sur le cabinet, le représentant autonome et la société autonome, c. D‑9.2, r.0.2;
+vii. le Règlement relatif à la délivrance et au renouvellement du certificat de représentant, c. D‑9.2;
+viii. le Code de déontologie de la Chambre de la sécurité financière, c. D‑9.2, r.1.01;
+ix. les Lignes directrices de l’Association canadienne des compagnies d’assurances de personnes Inc.;
+x. le Guide conjoint de la Chambre de l’assurance de dommages, de l’Autorité des marchés financiers et de la Chambre de la sécurité financière concernant les règles pour les représentations, les bannières ou les cartes d’affaires.
+[14] Au Québec, la personne qui veut offrir des polices d’assurance de personnes est tenue de détenir un certificat de l’Autorité des marchés financiers après avoir satisfait aux conditions prescrites, notamment en matière de formation, et avoir acquitté les droits et frais relatifs à la délivrance du certificat. Elle doit être rattachée à un cabinet d’assurance et avoir souscrit à une police d’assurance responsabilité suffisante.
+[15] La formation annuelle en matière de principes de conformité, d’éthique et de confidentialité suivis au Québec est obligatoire et dispensée par Combined pendant une durée d’environ trois à quatre heures. Suite à la séance de formation, chaque participant doit signer un document par lequel il confirme avoir assisté à ladite séance, avoir reçu un exemplaire du manuel intitulé « Conformité, éthique et confidentialité de Combined » et savoir qu’il est tenu de se conformer à la réglementation provinciale en matière d’assurances et au code de déontologie de Combined.
+L’entente du 1er janvier 2004 et les ajouts
+[16] L’entente du 1er janvier 2004 est une entente-type pour le Québec que tous les représentants des ventes devaient signer pour pouvoir exercer leurs activités de vente de produits d’assurance de Combined. Madame Gisbert et monsieur Paquette ont signé cette entente et certains autres arrangements collatéraux. Lorsqu’un représentant des ventes devenait gérant des ventes, il devait signer un ajout à cette entente qui restait en vigueur. Voilà pourquoi il est nécessaire d’y faire référence même lorsqu’un représentant est promu gérant des ventes.
+[17] L’entente du 1er janvier 2004 est exhaustive; elle tient sur six pages; aucune clause n’était négociable, nulle modification n’était possible. Voici les principales stipulations qui ont retenu mon attention:
+Statut
+1. le représentant déclare qu’il est un entrepreneur indépendant et qu’il intervient à ce titre sur une base non exclusive; le représentant reconnaît qu’il n’est pas salarié, ni au sens de la Loi sur les normes du travail, ni du Code du travail du Québec;
+2. le représentant est autorisé à signer les polices de même que les renouvellements au moment de la conclusion du marché;
+3. le représentant convient qu’il n’a le droit de participer à aucun des régimes offerts par Combined à ses salariés et convient que Combined n’est pas tenue de lui accorder des avantages sociaux;
+Commissions
+4. sur production d’un état de compte indiquant la nature des services rendus et la période couverte, Combined s’engage à verser dans les 30 jours de la réception de l’état de compte, des commissions sous une forme et pour un montant conformes aux politiques de Combined. Combined se réserve le droit de changer les barèmes de commissions en tout temps moyennant un préavis de dix jours;
+5. le représentant assume tous les frais découlant directement ou indirectement de l’exécution de l’entente;
+Conditions générales
+6. le représentant a toute latitude quant au choix des personnes de qui il sollicitera des propositions d’assurance, ainsi que du moment, du lieu et de la manière de les solliciter. Combined peut prescrire des instructions et exigences de souscription, incluant des formulaires de polices, des barèmes de primes et du matériel de même ordre;
+7. le représentant est entièrement tenu de se conformer aux exigences en vertu de toute loi, règlement ou ordonnance qui lui sont applicables. Le représentant s’engage à être, en tout temps, en règle vis‑à‑vis des autorités gouvernementales compétentes et à maintenir valides, à ses frais, tous les documents et permis requis par ces autorités;
+8. conformément à la Loi sur la distribution de produits et services financiers du Québec, le représentant doit, en tout temps, détenir, à ses frais, une police d’assurance appropriée couvrant sa responsabilité civile personnelle;
+Propriété des polices
+9. toutes les polices établies, vendues ou renouvelées, conclues par suite des services rendus par le représentant sont la propriété exclusive de Combined;
+10. les primes sur les affaires sont facturées à l’assuré et tous les chèques et traites bancaires reçus par le représentant doivent être faits à l’ordre de Combined ou de toute autre entité qu’elle peut désigner et toutes les primes doivent être encaissées par le représentant au nom de Combined ou de cette autre entité;
+Responsabilité des polices et des primes
+11. le représentant doit rendre compte du statut des renouvellements qui lui sont assignés et remettre à Combined la prime encaissée par lui à leur égard;
+12. les primes encaissées pour des renouvellements sont la propriété exclusive de Combined. Les montants sont détenus en fidéicommis par le représentant pour le compte de Combined. Combined peut faire dresser un inventaire de tous renouvellements assignés au représentant. S’il ressort de cet inventaire que le montant des primes remis à Combined est inférieur à la prime due pour les renouvellements, le représentant doit payer la différence en argent comptant à Combined;
+Responsabilité financière
+13. le représentant est responsable de tous les montants dus à Combined et convient de les lui verser sur demande. Le représentant doit, à ses frais, garder en dépôt auprès de Combined une assurance contre les détournements. Le représentant déclare être lié par les engagements stipulés dans le formulaire relatif au compte d’exploitation 10 % et dans le formulaire d’assurance contre les détournements;
+Ententes de crédit, dépenses, frais et débours
+14. la responsabilité de Combined n’est nullement engagée quant à toute entente de crédit prise par un représentant avec quiconque, ni quant aux frais et débours du représentant. Advenant paiement par Combined de tels frais et débours pour le compte du représentant, il s’engage à les lui rembourser;
+Primes remboursées
+15. en cas d’annulation ou de résiliation d’un contrat d’assurance ou de toutes autres opérations entraînant un remboursement de primes, le représentant se verra imputer, et il en sera redevable, toute commission portée au crédit de son compte pour la police ou le renouvellement en question;
+Matériel
+16. advenant résiliation de l’entente, le représentant doit sans délai remettre à Combined tout matériel et tous objets contenant des informations confidentielles exposées à ladite entente de même que tous les autres formulaires, directives ou autres documents fournis par Combined;
+Confidentialité
+17. le représentant convient que, pendant la durée de l’entente, il prendra connaissance d’informations confidentielles concernant les personnes ou les entreprises clientes, les affaires de Combined et les activités de celle‑ci, et il s’engage à ne pas utiliser ces informations confidentielles autrement qu’aux fins nécessaires dans le cadre de l’exécution des services qu’il assure à Combined, ni à la divulguer à des tiers, à moins d’être autorisé à cette fin par écrit par Combined;
+Frais de permis
+18. le représentant s’engage à rembourser à Combined les dépenses qu’elle a engagées pour lui permettre d’obtenir son permis en vertu de la réglementation gouvernementale applicable s’il résilie l’entente et exerce des activités de vente de produits d’assurance dans la période de 12 mois suivant la date à laquelle il a terminé le programme de formation menant à l’obtention du permis;
+Clauses restrictives
+19. le représentant convient que, pendant la durée de l’entente et pour une période de deux ans suivant sa résiliation, il ne vendra pas dans le territoire qui lui a été assigné de produits concurrents, n’acceptera pas de proposition, ne touchera pas de chèque, ni n’établira de garantie provenant d’une autre société non affiliée à Combined, à l’un ou l’autre des clients de Combined, à moins d’avoir d’abord donné un avis préalable par écrit à Combined;
+Résiliation
+20. l’entente peut être résiliée au gré de l’une ou l’autre des parties moyennant un avis écrit de deux semaines. Nonobstant ce qui précède, l’entente peut être résiliée par Combined sans avis préalable pour motifs valables, auquel cas le versement de tout montant au représentant par Combined cessera et ne sera plus exigible;
+Publicité
+21. le représentant peut, à ses propres frais, diffuser des lettres, circulaires, des émissions de radio ou de télévision, des communications par internet et avoir recours à toute autre forme de publicité concernant Combined, les polices vendues et les renouvellements faits, mais seulement après qu’une copie identique de cette publicité ait été soumise à Combined et approuvé par écrit par une personne autorisée.
+[18] Ainsi que cela est précisé plus haut, lorsqu’un représentant devenait gérant des ventes, Combined exigeait qu’il signe un ajout à l’entente du 1er janvier 2004. Madame Gisbert et monsieur Paquette ont signé cet ajout qui ne modifie que quelques éléments de l’entente du 1er janvier 2004. Le préambule de l’ajout qualifie les modifications d’additions à l’entente du 1er janvier 2004.
+[19] Les stipulations de l’ajout sont numérotées selon l’entente du 1er janvier 2004; en voici le texte :
+a. Combined confirme la nomination du représentant comme gérant des ventes (sur le terrain) chargé d’intervenir au nom de Combined pour recruter des représentants indépendants de vente et travailler avec des équipes de représentants de vente indépendants de Combined;
+b. le gérant convient de se conformer aux règles et règlements de souscription eu égard à la vente, l’établissement ou le renouvellement des polices de Combined. Les conséquences découlant de la vente ou du renouvellement d’un formulaire de police en violation des règles, règlements ou directives de souscription de Combined y sont prévues;
+c. les surcommissions applicables aux polices vendues ou renouvelées par les représentants de l’équipe auxquelles le gérant a droit pendant qu’il est soumis à l’ajout sont indiquées à l’annexe B de l’ajout. Combined se réserve le droit absolu de réviser en tout temps les éléments contenus à l’annexe B;
+d. les procédures de versement des surcommissions au gérant y sont énoncées de même que les ajustements qui peuvent être opérés pour déterminer le revenu net en surcommissions à verser au gérant;
+e. Combined peut, à son entière discrétion, fournir des renouvellements au gérant pour qu’ils soient attribués aux représentants de l’équipe. Le gérant est redevable envers Combined de la prime entière relative à chaque renouvellement fourni ou du retour des polices qui n’ont pas été renouvelées;
+f. Combined se dégage de toute responsabilité quant à toute entente de crédit prise par le gérant avec quiconque et quant aux frais et débours du gérant ou des représentants de l’équipe, incluant les montants garantis payés aux nouveaux représentants, ou les frais de publicité ou de recrutement visant les représentants indépendants de vente et toutes autres dépenses du gérant ou des représentants de l’équipe.
+[20] Outre l’entente du 1er janvier 2004 et l’ajout mentionné au paragraphe précédent, monsieur Paquette a signé à plusieurs reprises une entente intitulée « Arrangements collatéraux », la dernière produite étant celle du 17 juillet 2006. En voici les principaux éléments :
+i. il est d’abord indiqué que le contrat du gérant de district de Combined l’oblige au remboursement de commissions résultant de polices annulées, de manquants, de garanties de perception de tous les chèques payés ou remis à Combined et pour d’autres éléments se rapportant à ses affaires et à son rendement de même qu’aux affaires et au rendement de tous les gérants et agents qui sont sous ses ordres;
+ii. pour minimiser les inconvénients financiers pouvant résulter de ces obligations, pour établir une provision pour toute dette future envers Combined et pour aider à établir un budget bien ordonné des revenus personnels, le gérant de district demande à Combined de retenir 10 % des surcommissions auxquelles il a droit dans un compte collatéral ouvert, et ce, jusqu’à ce que le montant accumulé atteigne un minimum variable, soit 15 000 $ en l’occurrence, et ce, tant que le contrat standard de gérant de district demeure en vigueur;
+iii. Combined peut augmenter à n’importe quel moment la susdite somme minimum collatérale afin qu’un équilibre adéquat puisse être maintenu;
+iv. le gérant de district demande aussi à Combined de retenir pour son compte 10 % des commission hebdomadaires attribuables à son rendement personnel et que cette somme soit créditée à un compte « divers » ouvert à son nom sous le gérant qui aura enregistré son rapport de commissions hebdomadaires; Combined étant autorisée à payer à même ce compte « divers » les sommes égales aux obligations qu’il a contractées envers Combined;
+v. les gérants et agents qui sont sous les ordres du gérant de district doivent s’obliger envers lui, en vertu de leur contrat respectif, quant au remboursement de commissions résultant de chèques qu’ils ont reçus et qui ne sont pas honorés ou de charges pour le programme de sécurité. Dans l’intérêt supérieur des gérants et des agents, le gérant de district déclare avoir pris des arrangements avec eux pour qu’ils lui remettent à chaque semaine 10 % de leurs commissions hebdomadaires. Le gérant de district demande à Combined la permission de lui remettre une somme égale à ce qu’il reçoit chaque semaine de ses gérants et agents pour qu’elle les portent au crédit du compte « divers » ouvert à son nom par Combined pour liquider toute obligation que les agents pourront contracter;
+vi. Combined est autorisée à retenir, pour une durée de 90 jours suivant la fin du mois au cours duquel le gérant de district cesse d’agir à ce titre, le montant global de toutes les sommes qui auront été accumulées en son nom et à les affecter au remboursement de primes, chèques annulés ou autres obligations qu’il aura contractées envers Combined.
+[21] En devenant gérant de district, monsieur Paquette a également signé une entente par laquelle il acceptait l’entière responsabilité de toute dette qu’un représentant relevant directement, ou indirectement, de lui pouvait contracter envers Combined. Le mot « dette » s’entend de toute somme d’argent due à Combined pour des commissions annulées, pour le programme de sécurité, pour du matériel appartenant à Combined ou pour tous les autres frais portés à son compte, à concurrence du pourcentage y indiqué, soit de 50 % ou de 100 %.
+Le témoignage de madame Gisbert
+[22] Lors de son témoignage, madame Gisbert a fait référence au fait qu’elle était rémunérée sur une base de commissions seulement; elle ne percevait pas de rémunération fixe. En cas d’annulation d’une police, sa commission était remboursée à même son compte de 10 %.
+[23] Madame Gisbert a aussi indiqué que Combined fournissait tout le matériel de vente des polices d’assurance dont le programme de primes de rendement pour les gérants des ventes, les questions et réponses sur la rémunération d’un représentant des ventes, le manuel des réponses aux clients qui formulent des objections, les présentations de vente des différentes polices, les présentation de vente chez les clients et les cartables de ventes pour les polices d’assurance vie et d’assurance maladie, (le coût de ces cartables n’était pas remboursé à Combined à même le compte de 10 %).
+[24] Madame Gisbert a déclaré avoir été sous la supervision de son gérant de district et de son gérant régional. Ses demandes de vacances devaient être approuvées par le gérant régional. Elle a aussi indiqué que les objectifs de ventes par équipe étaient fixés par Combined et que, lorsque ces objectifs de ventes n’étaient pas atteints, il pouvait en résulter des coupures du territoire, une rétrogradation au poste de représentant des ventes ou même une scission de l’équipe.
+[25] Madame Gisbert a reconnu que, dans ses déclarations de revenu pour les années d’imposition 2004 et 2005, elle a assimilé les revenus tirés de ses activités de vente de polices d’assurance à un revenu d’entreprise. Elle a réclamé à l’égard de l’année d’imposition 2004 la déduction de ses dépenses pour frais de publicité, taxes d’affaires, droits d’adhésion, permis et cotisation, frais de livraison, transport et messageries, des frais d’intérêts, des frais de gestion et d’administration, des repas et frais de représentations, des dépenses relatives aux véhicules à moteur, des dépenses de bureaux et fournitures, frais d’honoraires professionnels, frais de voyage et frais de téléphone et services publics de même qu’un montant de 1 200 $ en vertu d’un contrat de sous‑traitance. Suivant ces mêmes déclarations de revenu, madame Gisbert a payé des cotisations au Régime des rentes du Québec au titre de revenu d’un travail indépendant.
+[26] Madame Gisbert a également indiqué qu’elle participait au régime d’assurance collective de Combined souscrite auprès de la Financière Manuvie (soins dentaires, médicaments, chirographie mais à l’exclusion des lunettes et verres de contact) de même qu’au régime d’épargne‑retraite de Combined géré par la Sun Life du Canada. Les cotisations au régime d’assurance collective sont entièrement assumées par Combined alors que les cotisations au régime d’épargne‑retraite sont versées par Combined mais il y a certaines restrictions concernant la dévolution des sommes d’argent émanant de Combined. En tant que bénéficiaire du régime d’épargne‑retraite, madame Gisbert peut également contribuer au régime.
+[27] Madame Gisbert a aussi signalé que les clients appelaient directement Combined pour tout problème concernant les représentants ou les polices d’assurance ou pour toute autre réclamation. Les numéros de téléphone inscrits sur la carte d’affaire de madame Gisbert sont ceux de Combined et non les siens. On y trouve aussi le nom et le sigle de Combined de même que l’adresse de Combined à Boucherville.
+Le témoignage de monsieur Paquette
+[28] Monsieur Michel Paquette a longuement témoigné à l’audience et il s’est exprimé sur plusieurs sujets. Il a confirmé être rattaché au cabinet d’assurances de Combined. Il a produit les 5 manuels de vente que Combined remet aux nouveaux représentants des ventes de même qu’un guide de l’instructeur dans lequel sont rassemblées 50 réunions d’animation à utiliser chaque jour de travail et comportant également un cahier contenant 26 modules de formation hebdomadaire. Il a fait référence aux programmes de formation dispensés aux représentants dont le coût est assumé par Combined (programmes JET I à VII). Pour être promu gérant, le représentant devait avoir suivi la Phase I du JET IV. Monsieur Paquette a été l’un des deux seuls Canadiens à être sélectionné en 2006 pour suivre la Phase I du JET VII à Chicago, toutes dépenses payées. Ce cours devait lui permettre de devenir gérant sous‑régional ou même régional.
+[29] Monsieur Paquette a exposé la procédure de recrutement des nouveaux représentants. En tant que gérant de district, il plaçait des annonces dans des journaux. Les annonces devaient être approuvées par Combined et le coût en était toujours réglé par Combined. Les curriculum vitae reçus étaient examinés par le témoin et par son gérant sous‑régional, monsieur André Paquin et par son gérant régional, monsieur Daniel Verdier; une salle de conférence dans un hôtel local était réservée par monsieur Paquin ou monsieur Verdier et c’est le témoin et monsieur Paquin qui rappelaient les candidats pour fixer des rendez‑vous aux demi‑heures. Les entrevues étaient effectuées par le témoin en compagnie de messieurs Paquin et Verdier. Les candidats devaient passer un test d’aptitude pour s’assurer qu’ils pouvaient satisfaire aux exigences de l’Autorité des marchés financiers. Le témoin proposait des candidats mais tous les candidats retenus devaient être approuvés par monsieur Paquin et/ou monsieur Verdier. Les résultats de l’entrevue et du test d’aptitude étaient communiqués aux candidats le soir même. Par la suite, le témoin fixait une première réunion avec chacun des candidats retenus pour la signature du compte de 10 %, pour offrir la garantie de salaire de 400 $ par semaine pour un maximum de 3 600 $ et pour signer une demande d’inscription après de l’Autorité des marchés financiers. Si le gérant de district n’était pas un recruteur certifié ou n’était pas un maître de stage, monsieur Paquin signait alors la demande d’inscription. À cette même occasion, des informations étaient fournies aux futurs représentants concernant la journée de formation (date, lieu, heure). Après cette formation, le témoin accompagnait le futur représentant sur le terrain pour évaluer les interventions de celui-ci. Un rapport de formation sur le terrain devait être produit par le formateur.
+[30] Monsieur Paquette a produit, à titre d’exemple, un calendrier des activités pour les six premiers mois de l’année 2008, tel qu’établi par Combined. Durant cette période, 16 concours et 23 semaines d’activités sur un total de 26 semaines étaient prévus par Combined. Pour toutes ces activités, il devait être présent et intervenir. Lors des « blitz » hors district, il devait s’assurer qu’un ou deux représentants par équipe y participe, et ce, même si les ventes hors district ne résultait en aucune rémunération. Pendant les semaines de concours, les représentants ne pouvaient pas prendre de vacances. Les demandes de vacances et les demandes de congés de monsieur Paquette devaient être approuvées par monsieur Verdier.
+[31] Monsieur Paquette a produit une note datée du 30 avril 2007 de Combined adressée à tous les participants au régime des agents canadiens et qui précise que, pour 2006, la cotisation de Combined au régime a été de 312 000 $ et que la répartition des soldes non acquis au compte des représentants qui ont quitté Combined a produit un supplément de 53 000 $ qui a été réparti entre les représentants. Monsieur Paquette a expliqué que les participants contribuaient 3 % de leur revenu au régime et que Combined égalait le montant de leurs contributions. Par contre, comme la contribution de Combined n’était acquise que sur une période de 10 ans (c’est-à-dire 1/10 par année), le solde des contributions non acquises par les représentants ayant quittés Combined était réparti entre les autres participants. Seules les contributions dévolues aux participants apparaissaient au T‑4. En plus, de ce régime, monsieur Paquette jouissait d’une couverture complète d’assurance collective (vie, dentaire, médicaments, etc.).
+[32] En contre-interrogatoire, monsieur Paquette a confirmé avoir défrayé, au cours de la période du 25 janvier 2007 au 25 janvier 2008, les frais de son permis d’exercice à même son compte de 10 % de même que le coût de son assurance responsabilité. Il assumait ses frais de déplacements de même que ses frais de bureau à sa résidence. Pour son bureau à Ste‑Thérèse, le loyer était assumé par Combined mais remboursé à même ses commissions. En tant que gérant de district, il a confirmé avoir travaillé souvent les fins de semaine, avoir perdu des commissions suite à l’annulation de polices et avoir consenti des garanties de salaires à des représentants avec des gérants des ventes. Suite à sa rétrogradation, il est toujours représentant de Combined et son entente du 1er janvier 2004 est toujours en vigueur.
+La thèse de l’appelante
+[33] Selon l’appelante, les deux litiges se nouent autour des trois questions suivantes :
+1. les faits ayant abouti à l’arrêt rendu le 30 janvier 2007 par la Cour d’appel fédérale dans l’affaire Combined Insurance Company of Canada c. Canada (Ministère du Revenu national – M.N.R.) 2007 CAF 60 sont-ils analogues à ceux de la présente espèce?
+2. en l’espèce, l’intention des parties est-elle le facteur déterminant?
+3. les critères énoncés aux pages 12 à 17 de l’arrêt Combined Insurance Company of Canada, précité, sont-ils déterminants en l’espèce? Les voici :
+a. la propriété des instruments de travail
+b. les chances de profits et les risques de pertes
+c. l’intégration
+d. le degré de contrôle
+e. la présence obligatoire au lieu de travail et le respect de l’horaire de travail
+f. le contrôle des absences pour vacances
+g. les pouvoirs de sanction
+h. l’imposition des moyens d’exécution de travail
+i. la remise de rapports d’activités
+j. le contrôle de la qualité et de la quantité de travail.
+[34] Selon l’appelante, les faits de la présente espèce sont analogues à ceux de l’affaire Combined Insurance Company of Canada, précitée; on constate qu’il y a identité :
+i. de donneur d’ouvrage
+ii. de modèle d’affaires
+iii. de techniques de ventes
+iv. de manuels de vente
+v. de textes applicables, et
+vi. de contrats avec des ajouts.
+[35] Concernant l’intention des parties, l’appelante soutient que celle-ci, telle qu’exprimée à l'entente du 1er janvier 2004, est reflétée par les témoignages de madame Gisbert et de monsieur Paquette et les déclarations de revenu qu’ils ont produites. Il faudrait donc savoir si la mise en oeuvre des contrats a été contraire à l’intention d’origine des parties.
+[36] L’on fait valoir que l’industrie est très réglementée et que plusieurs mesures d’encadrement visaient davantage à assurer le respect des lois et de la réglementation applicables plutôt que le contrôle des gérants des ventes et les gérants de district. À titre d’exemple, il y a lieu de référer au traitement des plaintes, à la protection des renseignements confidentiels des clients et à l’application des techniques de vente. Les rapports d’activités servent au calcul des commissions dues aux représentants et non pas à des fins de contrôle. Il est soutenu que les critères à suivre aux fins de détermination du statut des travailleurs ne sont pas ceux qui sont suivis par la Cour du Québec en vertu de la Loi sur les normes du travail, L.R.Q., c. N‑1.1 parce qu’il s’agit d’une loi d’ordre public, contrairement à la Loi sur l’assurance‑emploi. Les définitions des mots « salarié » et « travailleur » sont différentes de celles qui figurent dans la Loi sur l’assurance‑emploi et les objets de ces lois ne sont pas les mêmes.
+[37] Selon l’appelante, ne sont ni cohérents ni fiables les témoignages de madame Gisbert et de monsieur Paquette et elle fait valoir que monsieur Paquette n’était pas au service exclusif de Combined.
+La thèse de l’intimé
+[38] L’intimé fait valoir que les attributions des collaborateurs concernés sont différentes de celles des représentants visés par l’arrêt Combined Insurance Company of Canada, précité, en ce qu’ils exerçaient des fonctions de gestion. La controverse ne porte pas sur le représentant mais bien sur le gérant des ventes et le gérant de district.
+[39] Selon l’intimé, si un lien de subordination existe entre l’appelante et les collaborateurs, cela suppose nécessairement l’existence d’un contrat de travail. Le concept de subordination a été élargi avec le temps et il connote le pouvoir de contrôler, qu’il soit exercé ou non. Il est aussi soutenu que la notion de « contrôle » est plus importante en droit civil québécois qu’en common law.
+[40] En ce qui a trait à l’élément de subordination, on signale:
+a) la formation hebdomadaire assurée aux représentants : les gérants étaient tenus d’organiser ces réunions et d’y participer à la demande du gérant régional ou du gérant sous‑régional;
+b) le recrutement : les frais d’annonces étaient assumés par Combined après approbation; les candidats devaient être acceptés par le gérant régional et Combined décidait des affectations des nouveaux représentants, de la composition des équipes et de leur territoire;
+c) les sanctions : les gérants pouvaient se voir imposer des sanctions s’ils n’atteignaient pas leurs objectifs en termes de ventes et d’équipes de vente;
+d) les attributions des fiches clients : elles étaient faites par Combined; les gérants ne décidaient pas du territoire à l’égard duquel des fiches clients leur étaient transmises;
+e) le « mot à mot » : les gérants devaient s’assurer que les représentants utilisaient le « mot à mot »;
+f) le code vestimentaire : les gérants devaient faire respecter le code vestimentaire dicté par Combined (vêtements propres non froissés);
+g) les obligations de Combined et les obligations réglementaires : les exigences de Combined dépassaient parfois les exigences des organismes réglementaires (ex. la vente de polices d’assurance à des assistés sociaux);
+h) encadrement précis et explicite des gérants : les gérants faisaient partie de la structure, ils devaient s’assurer du bon fonctionnement des opérations sous peine de rétrogradation.
+[41] Pour ce qui est des autres critères pertinents, l’intimé fait valoir les éléments suivants :
+a) la propriété des instruments de travail : tout le matériel de vente appartenait à Combined, y compris les fiches clients;
+b) les chances de profits et les risques de pertes : aucun élément de preuve n’a été produit à ce sujet; madame Gisbert a encouru les mêmes dépenses que si elle était une employée rémunérée à commission;
+c) l’intégration : théoriquement, selon l'entente du 1er janvier 2004, les représentants n’étaient pas au service exclusif de Combined, mais la réalité est toute autre : en pratique, ils ne pouvaient représenter d’autres compagnies d’assurance; l’actif le plus précieux pour un représentant est sans aucun doute le portefeuille clients; comme il était la propriété de Combined, le critère d’intégration milite en faveur de l’existence d’un contrat d’emploi;
+d) l’intention des parties : le lien de subordination entre Combined et les gérants et le contrôle exercé par Combined sur ces derniers sont plus importants que l’intention des parties lors de la signature de l'entente du 1er janvier 2004. L'entente du 1er de janvier 2004 était signée par les représentants en début de carrière et n’était pas adaptée aux fonctions du gérant;
+e) la participation des travailleurs aux avantages sociaux de l’appelante constitue un indice d’encadrement.
+La thèse de monsieur Paquette
+[42] Monsieur Paquette a souligné que, en tant que gérant de district, il exerçait des activités de ventes à temps limité seulement. Il a rappelé que le portefeuille clients appartenait à Combined, que les commissions n’étaient pas négociables et n’étaient pas acquises en cas de licenciement. Selon lui, à chaque échelon de la hiérarchie, on gérait un certain nombre de personnes, c’est-à-dire que l’on assurait le recrutement, la formation, le contrôle et la supervision, et chaque représentant était au service exclusif de Combined, contrairement à ce qui était prévu à l'entente du 1er janvier 2004. La formation sur le terrain avec les représentants était obligatoire et les gérants de district devaient s’assurer que tous les représentants suivent les programmes de formation JET. Les dates de concours et les lieux des « blitz » de vente n’étaient pas fixés par les gérants. Il conclut donc qu’il n’était pas traité comme un travailleur autonome.
+Les textes pertinents
+[43] L'expression « emploi assurable » est définie au paragraphe 5(1) de la Loi:
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+b) l'emploi du genre visé à l’alinéa a), exercé au Canada au service de Sa Majesté du chef du Canada;
+c) l'emploi à titre de membre des Forces canadiennes ou d’une force policière;
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+e) l'emploi d’un particulier au Canada à titre de promoteur ou coordonnateur d’un projet dans le cadre d’une prestation d’emploi.
+[44] Comme les ententes exposées ci-dessus sont régies par les lois de la province de Québec, il y a lieu de s'en remettre aux dispositions du Code civil du Québec (le « CCQ ») afin de rechercher s'il s'agit d'un emploi au sens de l'alinéa 5(1)a) de la Loi, et ce, en conformité avec l'article 8.1 de la Loi d'interprétation (L.R.C. 1985, ch. I‑21). Cette disposition reconnaît la tradition bijuridique du Canada et fait jouer le droit provincial québécois en l'occurrence en matière de propriété et droits civils:
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[45] Le CCQ définit le contrat:
+Art. 1378. Le contrat est un accord de volonté, par lequel une ou plusieurs personnes s'obligent envers une ou plusieurs autres à exécuter une prestation.
+[46] Le CCQ précise aux articles 1425 et 1426 les règles d'interprétation applicables aux contrats :
+Art. 1425. Dans l'interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés.
+Art. 1426. On tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages.
+[47] Le « contrat de travail » est défini à l'article 2085 du CCQ:
+Art. 2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+alors que le « contrat d'entreprise ou de service » est ainsi défini à l'article 2098 du CCQ:
+Art. 2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+[48] Le CCQ énonce à l'article 2099 les conditions d’existence d’un contrat d'entreprise:
+Art. 2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[49] L'article 2827 du CCQ vise la signature des actes sous seing privé :
+Art. 2827. La signature consiste dans l'apposition qu'une personne fait à un acte de son nom ou d'une marque qui lui est personnelle et qu'elle utilise de façon courante, pour manifester son consentement.
+Discussion et conclusion
+[50] Il faut d’abord rechercher si, en l’espèce, il faut suivre la jurisprudence Combined Insurance Company of Canada, précitée. Malgré la similitude de certains faits notés par l’appelante (voir le paragraphe 34 ci‑dessus), je suis d’avis que nous ne sommes pas dans le même cas de figure que celui de cet arrêt. Les fonctions exercées par madame Gisbert et par monsieur Paquette comprenaient des fonctions de gestion alors que les fonctions exercées par la représentante, Mélanie Drapeau, n’en comprenaient pas. Même si l'entente du 1er janvier 2004 est la même, madame Gisbert et monsieur Paquette ont signé des ajouts à ladite entente et des conventions accessoires qui n’ont pas été examinés par notre Cour, ni par la Cour d’appel fédérale.
+[51] Deuxièmement, il faut savoir si l’intention des parties clairement exprimée à l'entente du 1er janvier 2004 est un facteur déterminant en l’espèce. Si tel est le cas, la Cour doit décider s’il est prouvé de manière non ambigüe que les parties n’ont pas exécuté les ententes en conformité avec leur intention.
+[52] La Cour d’appel fédérale a eu l’occasion de se pencher sur cette question à plusieurs reprises et a réitéré l’importance qu’il faut apporter à l’intention des parties en matière de contrat : voir D&J Driveway c. Le ministre du Revenu national, 2003 CAF 453, Poulin c. Le ministre du Revenu national, 2003 CAF 50. Dans l’arrêt Combined Insurance Company of America précité, le juge Nadon a cité l’observation suivante du juge Létourneau dans l’arrêt Le Livreur Plus Inc. c. Canada, 2004 CAF 68 au paragraphe 17 :
+17. La stipulation des parties quant à la nature de leurs relations contractuelles n'est pas nécessairement déterminante et la Cour peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : D&J Driveway Inc. c. Le ministre du Revenu national, [2003] A.C.F. no 1784, 2003 CAF 453. Mais en l'absence d'une preuve non équivoque au contraire, la Cour doit dûment prendre en compte l'intention déclarée des parties : Mayne Nickless Transport Inc. c. Le ministre du Revenu national, [1999] A.C.I. no 132, 97-1416-UI, 26 février 1999 (C.C.I.). Car en définitive, il s'agit de déterminer la véritable nature des relations entre les parties. Aussi, leur intention sincèrement exprimée demeure-t-elle un élément important à considérer dans la recherche de cette relation globale réelle que les parties entretiennent entre elles dans un monde du travail en pleine évolution : voir Wolf c. Canada, [2002] 4 C.F. 396 (C.A.F.); Procureur général du Canada c. Les Productions Bibi et Zoé Inc., [2004] A.C.F. no 238, 2004 C.A.F. 54.
+[53] Par contre, la Cour d’appel fédérale a atténué l’importance de l’intention déclarée des parties : les rapports entre les parties doivent être examinés à la lumière des critères consacrés par la décision Wiebe Door Services Ltd. c. M.N.R., (1986) 3 C.F. 553, à savoir : la propriété des instruments de travail, les chances de profits et les risques de pertes, l’intégration et le contrôle, lesquels furent retenus par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., (2001) 2 R.C.S. 953 (voir les arrêts Combined Insurance Company of America précité, et Royal Winnipeg Ballet c. Canada (M.N.R.), 2006 CAF 87).
+[54] Dans l’arrêt Royal Winnipeg Ballet précité, la juge Desjardins a observé au paragraphe 81 :
+[. . .] Je souscris à l'analyse de la juge Sharlow, exposée au paragraphe 64 de ses motifs, selon laquelle le juge de la Cour canadienne de l'impôt aurait dû prendre acte du témoignage non contredit relatif à l'interprétation commune des parties selon laquelle les danseurs étaient des entrepreneurs indépendants et se demander ensuite, en se fondant sur les facteurs de l'arrêt Wiebe Door, si cette intention avait été réalisée. [. . .]
+[55] Plus récemment, le juge Létourneau a observé dans l’arrêt Michel Grimard et Sa Majesté la Reine, 2009 CAF 47 au paragraphe 33 :
+Pour importante qu'elle soit, l'intention des parties n'est pas à elle seule déterminante de la qualification du contrat: voir D & J Driveway Inc. c. M.R.N., 2003 CAF 453; Dynamex Canada Inc. c. Canada, 2003 CAF 248. De fait, le comportement des parties dans l'exécution du contrat doit refléter et actualiser cette intention commune, sinon la qualification du contrat se fera en fonction de ce que révèle la réalité factuelle et non de ce que prétendent les parties.
+[56] Selon les témoignages des parties, le mode d’exécution des ententes par elles reflète bien leur intention commune, telle qu’exprimée dans les ententes respectivement signées par madame Gisbert et par monsieur Paquette; ils ont tous deux déclaré être des entrepreneurs indépendants et non des salariés au sens de la Loi sur les normes du travail, ni du Code du travail du Québec. De fait, il n’a été produit aucun élément de preuve portant de manière non ambigüe que la mise en œuvre des ententes contractuelles ne reflétait pas l’intention des parties.
+[57] En effet, sont incontournables les faits suivants :
+a. madame Gisbert et monsieur Paquette ont chacun assumé les frais de leur assurance responsabilité civile personnelle et de leur assurance détournements;
+b. monsieur Paquette était, en vertu des arrangements collatéraux, tenu de rembourser Combined pour les commissions se rapportant à ses affaires et à celles des représentants placés sous ses ordres;
+c. en tant que gérant de district, monsieur Paquette avait l’entière responsabilité de toute dette qu’un représentant relevant de lui avait contractée envers Combined;
+d. à trois reprises, le témoin Michel Rivest a confirmé dans des lettres adressées à des tiers que monsieur Paquette était travailleur autonome. Aucune demande de rectification de son statut n’a alors été demandée par celui-ci;
+e. lors du recrutement de nouveaux représentants, monsieur Paquette les informait qu’ils seraient travailleurs autonomes, ce qui constitue en soi une preuve d’acceptation de ce statut par monsieur Paquette.
+[58] La principale controverse concernant la conduite des parties porte sur l’exclusivité des services des représentants et des gérants. L’entente du 1er janvier 2004 stipulait que la collaboration des représentants n’était pas exclusive, mais il ressort des éléments de preuve que les représentants et les gérants étaient « captifs » et ne pouvaient vendre de produits d’autres compagnies d’assurance (voir l’affidavit du témoin Michel Rivest déposé comme pièce I‑7). Le témoin Jean-Claude Lévesque a été congédié pour avoir sollicité des clients de Combined afin de leur offrir des produits d’autres compagnies d’assurance, tandis que monsieur Paquette a été rétrogradé au poste de représentant parce qu’il ne collaborait pas exclusivement avec Combined. Il avait alors passé des ententes avec les compagnies d’assurance Croix‑Bleu et l’Excellence et il avait fondé son propre cabinet d’assurance opérant sous la raison sociale de Services Financier Tangibles Canada sans avoir divulgué cette information à Combined.
+La détermination du statut par certains critères
+A. La propriété des instruments de travail
+[59] Il ressort des éléments de preuve que les instruments de travail appartenaient à Combined : les clients, les fiches clients et les informations confidentielles relatives aux clients, les manuels de vente, les formulaires, les polices d’assurance, les primes, les chèques des clients. Tout devait être retourné à Combined lors d’une démission ou d’un congédiement.
+[60] Selon les ententes conclues, madame Gisbert et monsieur Paquette devaient assumer les frais de permis d’exercice, d’assurance-responsabilité et d’assurance détournements de fonds. Ils devaient fournir leur propre bureau, leur propre papeterie et leur propre véhicule automobile, à leurs propres frais. De plus, ils devaient assumer une partie importante du coût du matériel de vente et des cartes d’affaires, même si ces documents étaient préparés par Combined afin de s’assurer qu'ils répondaient aux exigences législatives et réglementaires.
+B. Les chances de profits et les risques de pertes
+[61] Il ressort des éléments de preuve que les revenus d’un gérant étaient en fonction du nombre des renouvellements des polices d’assurance existantes (fiches clients), du nombre de nouvelles polices d’assurance vendues, du territoire desservi, du nombre de représentants dans l’équipe du gérant et des heures de travail de ces derniers. Sur le plan des revenus, le succès du gérant dépendait du recrutement d’un nombre suffisant de représentants et de l’adéquation de leur formation (formation théorique aux réunions hebdomadaires et accompagnement sur le terrain). A cet égard, monsieur Paquette a connu une belle réussite en tant que représentant et gérant pour le compte de Combined et il a reçu d’importants bonus.
+[62] Un gérant devait également assumer d’importantes dépenses pour gagner ses commissions et surcommissions, telles les frais de bureau, repas, téléphone cellulaire, frais de déplacement, le coût de son permis d’exercice, d’assurance responsabilité et d’assurance détournements. De plus, il devait parfois garantir personnellement aux nouveaux représentants des commissions minimales pour leurs huit premières semaines de travail. Il devait parfois également, comme l’a fait monsieur Paquette, assumer l’entière responsabilité de toute dette qu’un représentant relevant de lui pouvait contracter envers Combined (voir le paragraphe 21 ci‑dessus). Aux termes de l’entente intitulée « Arrangements collatéraux », monsieur Paquette a même garanti le remboursement des commissions résultant des polices annulées et la perception de tous les chèques payés ou remis à Combined se rapportant aux affaires conclues par lui‑même et par les représentants faisant partie de son équipe. Afin de minimiser les risques financiers pouvant résulter de ses obligations, monsieur Paquette a demandé à Combined de retenir 10 % de ses surcommissions dans un compte collatéral ouvert pouvant atteindre 15 000 $. Dans ces circonstances, il m’apparaît évident qu’un gérant était exposé à des risques de pertes.
+C. L’intégration
+[63] Il ressort des éléments de preuve que les clients nouveaux ou anciens étaient tous clients de Combined et non des clients des gérants ou des représentants. Les gérants s’occupaient de la gestion de la base de clients de Combined et ils étaient appelés à l’élargir. Les cartes d’affaires des gérants portaient le logo de Combined et les numéros de téléphone apparaissant sur les cartes d’affaires étaient ceux de Combined. Les plaintes des clients étaient traitées par Combined.
+[64] L’entente du 1er janvier 2004 stipulait que les représentants et gérants intervenaient en tant qu’entrepreneurs indépendants sur une base non exclusive mais, en pratique, Combined n’appréciait guère que des gérants ne consacrent pas toutes leurs activités à celle-ci. À titre d’exemple, l’entente avec monsieur Jean‑Louis Lévesque fut résiliée le 28 mars 2005 alors qu’il était gérant parce qu’il était parrainé par une autre compagnie d’assurance du Québec.
+[65] Dans les circonstances, je conclus que les activités de monsieur Paquette et de madame Gisbert étaient en grande partie intégrées à l’entreprise de Combined.
+D. Le degré de contrôle
+[66] Le contrôle exercé par Combined sur les gérants découlait du modèle de gestion par objectifs établi par Combined. Ils étaient formulés en termes de prévisions du chiffre d’affaires sur une base annuelle et en termes du nombre de représentants faisant partie de l’équipe de chaque gérant. Tout relâchement au niveau du recrutement et de la formation des nouveaux représentants ou sur le plan du chiffre d’affaires était sanctionné par Combined, que ce soit par rétrogradation, scission de l’équipe, attribution d’un nouveau territoire ou même par une diminution du nombre des fiches clients attribuées à un gérant. Au regard des sanctions possibles, les gérants subissaient une pression économique énorme.
+[67] Par contre, Combined fournissait à ses gérants un encadrement précis et explicite pour les aider à atteindre leurs objectifs. Pour Combined, les personnes importantes sont celles qui sont sur le terrain et qui vendent des polices d’assurance. Les gérants partageaient les intérêts de Combined parce qu’ils avaient droit à des surcommissions sur les primes générées par les ventes des représentants de leur équipe.
+[68] Les gérants n’étaient pas tenus de faire acte de présence dans un lieu de travail donné, il n’étaient pas soumis à un horaire de travail précis, mais ils devaient, de temps à autre, participer à des réunions dites « obligatoires ». Ils devaient faire approuver leurs dates de vacances.
+[69] Les rapports d’activités hebdomadaires servaient au calcul des commissions et des surcommissions et ne pouvaient être assimilés à une mesure de contrôle des gérants.
+[70] Les mesures de contrôle de la qualité du travail des gérants visaient surtout le respect des exigences réglementaires et de la confidentialité des renseignements personnels des clients.
+[71] Les activités de recrutement et de formation des nouveaux représentants faisaient partie des attributions de gestion confiées aux gérants. Il en était de même pour l’attribution des fiches clients effectuées par le gérant aux représentants faisant partie de son équipe et pour l’application des moyens d’exécution du travail, tels l’utilisation des techniques de ventes préconisées par Combined, le respect du code vestimentaire et du code de déontologie, le retour des fiches clients, la production des rapports d’activités, les dépôts des primes des polices d’assurance.
+Conclusion
+[72] À mon avis, la conduite des parties reflète la qualification faite aux contrats en cause, à savoir que madame Gisbert et monsieur Paquette intervenaient à titre d’entrepreneurs indépendants pour le compte de Combined. Je connais très peu de personnes qui, en tant qu’employés, accepteraient d’être responsables des dettes contractées auprès de l’appelante par les représentants faisant partie de leur équipe de ventes.
+[73] Comme l’a fait la Cour d’appel fédérale dans l’affaire Combined Insurance Company of America, précitée, vu les éléments de preuve produits, je ne peux conclure à l’existence d’un lien de subordination quant à l’exécution du travail que madame Gisbert et monsieur Paquette devaient effectuer pour le compte de Combined. Ils avaient le choix des moyens d’exécution de leur travail. Ils pouvaient recruter et former le nombre de représentants qu’ils désiraient avoir dans leur équipe respective, les accompagner sur le terrain et les motiver et solliciter la clientèle qu’ils désiraient sous réserve des secteurs attribués aux autres représentants.
+[74] Les critères consacrés par l’arrêt Wiebe Door, précité, confortent principalement la thèse de l’appelante. Madame Gisbert et monsieur Paquette étaient propriétaires de certains outils nécessaires à l’exercice de leurs activités, mais les outils les plus importants appartenaient à Combined. Vu le critère relatif aux chances de profits et aux risques de pertes, il est manifeste que madame Gisbert et monsieur Paquette pouvaient réaliser de substantiels profits en consacrant temps et énergie à leurs activités mais étaient également exposés à des risques de pertes. Le critère d’intégration semble conforter davantage la thèse de l’intimé mais, vu le contrôle exercé par Combined sur les activités de madame Gisbert et de monsieur Paquette, il s’agissait plutôt de les aider dans leur gestion, de leur permettre d’atteindre leurs objectifs en termes de chiffres d’affaires et de revenus et, finalement, de faire respecter les exigences législatives et réglementaires.
+[75] À mon avis, les éléments de subordination invoqués par l’intimé au paragraphe 40 ci-dessus, ne me permettent pas de conclure en l’existence d’un lien de subordination quant à l’exécution des activités exercées par madame Gisbert et par monsieur Paquette.
+[76] Par conséquent, je conclus que madame Gisbert et monsieur Paquette n’exerçaient pas un emploi assurable auprès de l’appelante durant la période du 1er janvier 2004 au 21 janvier 2005 dans le cas de madame Gisbert et du 25 janvier 2007 au 25 janvier 2008 dans le cas de monsieur Paquette.
+[77] Par ces motifs, les appels sont accueillis.
+Signé à Ottawa, Canada, ce 25e jour de février 2011.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2011 CCI 85
+Nºs DES DOSSIERS DE LA COUR : 2008-3975(EI); 2008-3974(EI)
+INTITULÉ DES CAUSES : Compagnie d'assurance Combined d'Amérique c. M.R.N. c.
+Michel A. Paquette;
+Compagnie d'assurance Combined d'Amérique c. M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : les 29, 30 septembre et
+les 28, 29 et 30 octobre 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 25 février 2011
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Dominic C. Belley
+Me Vincent Dionne
+Avocats de l'intimé :
+Me Simon Petit
+Me Laurent Brisebois
+Pour l'intervenant:
+L'intervenant lui-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Dominic C. Belley
+Me Vincent Dionne
+Cabinet : Ogilvy Renault
+Montréal (Québec)
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenant:

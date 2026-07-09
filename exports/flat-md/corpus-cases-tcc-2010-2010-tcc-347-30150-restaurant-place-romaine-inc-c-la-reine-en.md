@@ -1,0 +1,228 @@
+---
+title: "Restaurant Place Romaine Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30150/index.do"
+last_modified: "2010-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 347"
+citation2: ""
+neutral_citation: "2010 TCC 347"
+decision_date: "2010-06-22"
+language: "en"
+item_id: "30150"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7836
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:14:02.714000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d73454767f854962208e49050da9f13494b10471b3ea8fb49fd4aa73cb212bd8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Restaurant Place Romaine Inc. c. La Reine
+
+- Citation: 2010 TCC 347
+- Decision date: 2010-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7836, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Restaurant Place Romaine Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-22
+Neutral citation
+2010 TCC 347
+File numbers
+2008-1856(GST)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-1856(GST)G
+BETWEEN:
+RESTAURANT PLACE ROMAINE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 14, 15 and 16, 2010, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the appellant:
+Starmino Mostovac
+Counsel for the respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment established on June 19, 2006, for which the notice was numbered M06‑DV2‑059 DM, is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to increase the declared goods and services tax by $95,998.98 instead of $117,441.81, with corresponding adjustments of penalties and interest, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of June 2010.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 7th day of January 2011.
+François Brunet, Revisor
+Citation: 2010 TCC 347
+Date: 20100622
+Docket: 2008-1856(GST)G
+BETWEEN:
+RESTAURANT PLACE ROMAINE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal from an assessment made pursuant to Part IX of the Excise Tax Act (the Act) for the period of July 1, 2002, to September 30, 2005 (the relevant period).
+[2] In the assessment, the goods and services tax (GST) that the appellant declared was increased by $117,441.81. The assessment also includes a penalty of $15,578.31 and interest of $6,701.76 for a total of $139,722.88.
+[3] I immediately note that counsel for the Minister of National Revenue, at the commencement of the last day of the hearing, acknowledged that the appellant had used 800 litres, 800 litres and 722 litres of Fontana/Bottero type wine in the kitchen for food preparation in its fiscal years ending June 30, 2003 (year 1), June 30, 2004 (year 2) and June 30, 2005 (year 3), respectively. I also note that when making the assessment, the Minister of National Revenue (the Minister) granted the appellant an allowance of 40 litres of Fontana/Bottero type wine for this purpose, for each of the years 1, 2 and 3. This admission results in a $306,326.20 reduction of undeclared sales and a $21,442.83 reduction of the GST assessed, with corresponding adjustment of penalties and interest.
+[4] The appellant operates a restaurant with an alcohol permit on the Island of Montreal, called "Piazza Romana" (the restaurant). The restaurant can serve 180 persons and its specialty is Italian cuisine. The appellant also offers a delivery and take out service. Maria Edoardi is the appellant's controlling shareholder and Arash Rahimi is its director.
+[5] The restaurant was founded in 1971. Its fiscal year runs from July 1 to June 30.
+[6] The appellant's company was audited by Ann Fink and Sylvie Dagenais. The audit began on September 8, 2005, with an on-site visit. During this visit, Ms. Dagenais gave the appellant's employee a letter indicating that the appellant was being audited for GST purposes. Ms. Dagenais also gave the employee a list of documents (Exhibit A‑1) that the appellant was to provide for the purposes of the audit. Ms. Dagenais admitted that, during this first visit, she did not notice anything that would suggest that the appellant was not declaring all its sales. Philipp Schait, the appellant's external auditor, advised Ms. Dagenais that all the documents required for the audit were at his firm and available for review. During her first visit to Mr. Schait's office, Ms. Dagenais noted that the following documents were missing:
+a. monthly or annual summary of sales by item;
+b. sales invoices;
+c. inventory reports;
+d. certain purchase invoices;
+e. inventory control reports;
+f. purchase orders;
+g. property acquisition record;
+h. minute books.
+[7] During a subsequent visit to Mr. Schait's office, Ms. Dagenais received an annual summary from him, with few details, of the appellant's sales by item for year 3 (Exhibit I-25) that established the appellant's sales at $1,408,702.39 and another annual summary, also with few details, of the appellant's sales by item for the last quarter of relevant period that established the appellant's sales at $407,760.33 (Exhibit I‑26). Ms. Dagenais explained that she could not get such summaries for year 1 or year 2. In that respect, the appellant's representatives explained that they were unable to provide such summaries of sales per item for years 1 and 2 because that information was on the hard drive of the appellant's computer that had been stolen during renovations to the restaurant in 2003. Lastly, Ms. Dagenais explained that the appellant's representatives had given her a very detailed summary of the appellant's sales by item (Exhibit I‑5) for year 3 that established the appellant's sales at $1,408,702.39 and another very detailed summary of the appellant's sales by item (Exhibit I‑6) for the last quarter of relevant period that established the appellant's sales at $407,760.33. Ms. Dagenais added that the computerized food bills for the last 15 months of the relevant period were also available.
+[8] Mr. Rahimi only took inventory at the end of each year in the relevant period. The documents in support of this inventory taking were not kept. Mr. Rahimi transmitted the information from these inventory takings verbally to Mr. Schait.
+[9] Given the appellant's annual summaries of sales by item for year 3 (Exhibits I‑5 and I‑25) establish the appellant's sales at $1,408,702.39 when the appellant's net tax reports and financial statements (Exhibit A‑3) establish these sales at $1,505,443.14, given the lack of inventory reports and given the lack of sales summaries by item and food bills for years 1 and 2 to verify the accuracy of the taxable supplies declared, Ms. Dagenais was required to use an alternative method to estimate the taxable supplies made by the appellant during the relevant period, based on the sales of wine and beer for the period.
+[10] More specifically, Ms. Dagenais reconstructed the total amount of the taxable supplies made during relevant period using the method described as follows:
+a. for year 3, using the annual summary of sales by item (Exhibit I‑5) the appellant gave her, Ms. Dagenais determined that for each litre of beer and wine combined, the appellant had made taxable supplies for the restaurant of $139.11; this quotient results from dividing the sales for year 3 ($1,408,702.39) by the number of combined litres of wine and beer sold during that year (10,126) (see details of Ms. Dagenais's calculations at Exhibit I‑7);
+b. for the last quarter of relevant period, Ms. Dagenais used the summary report of sales by item (Exhibit I-6) the appellant gave her to determine that for each combined litre of beer and wine, the appellant had made taxable supplies for the restaurant of $144.94, the quotient from dividing the sales from that quarter ($407,670.33) by the combined number of litres of wine and beer sold during that period (2,813) (see details of Ms. Dagenais's calculation at Exhibit I‑11);
+c. given that the food bills and annual or monthly summaries of sales by item were not available for year 1 and year 2, Ms. Dagenais used the ratio she had calculated for year 3, $139.11, to reconstruct the sales for year 1 and year 2;
+d. for each of the years, 1, 2 and 3 and for the last quarter of relevant period, Ms. Dagenais verified all the purchase invoices for wine and beer and determined the total number of litres of wine and beer purchased during each of the years. Ms. Dagenais determined that the appellant had purchased 16,428.509 litres of wine and beer in year 1 (see Exhibits I‑18, I‑19 and I‑20), 13,988.740 litres of wine and beer in year 2 (see Exhibits I‑15, I‑16 and I‑17), 15,869.708 litres of wine and beer in year 3 (see Exhibits I‑8, I‑9 and I‑10) and 3,336.379 litres of wine and beer in the last quarter of relevant period (see Exhibits I‑12, I‑13 and I‑14). Then, the number of litres of wine and beer the appellant purchased was reduced by the following allowances Ms. Dagenais granted for theft, breakage and loss, and inventory adjustment:
+Year 1:
+1,223 litres of beer and wine
+(see Exhibit I‑18);
+Year 2:
+1,074 litres of beer and wine
+(see Exhibit I‑15);
+Year 3:
+1,455.599 litres of beer and wine
+(Exhibit I‑8);
+Last quarter of the
+period in question
+237.519 litres of beer and wine
+(see Exhibit I‑14).
+e. Once the appellant presented its submissions, Ms. Dagenais granted the following additional allowances:
+Year 1:
+314 litres of beer and wine
+(see Exhibit I‑7);
+Year 2:
+314 litres of beer and wine
+(see Exhibit I‑7);
+Year 3:
+314 litres of beer and wine
+(see Exhibit I‑7);
+Last quarter of relevant period:
+77 litres of beer and wine
+(see Exhibit I‑11).
+f. The result of this exercise is:
+Litres of wine and beer purchased
+Allowance granted by Ms. Dagenais
+Litres of wine and beer considered sold
+Year 1
+16,428
+1,536
+14,892
+Year 2
+13,989
+1,388
+12,601
+Year 3
+15,870
+1,771
+14,099
+Last quarter
+3,336
+314
+3,022
+Ms. Dagenais presumed that all the litres of wine and beer purchased (minus the allowances granted) had been sold, since the financial statements (Exhibit A‑3) indicated very little variance in inventory from year to year.
+g. Ms. Dagenais multiplied the respective quantities of wine and beer acquired and considered sold by the appellant (namely, the purchases minus the allowances) by the respective ratios mentioned at sub-paragraphs i, ii and iii above for each of the years, 1, 2 and 3 and for the last quarter of relevant period;
+h. The total of taxable supplies made by the appellant Ms. Dagenais so reconstructed for the relevant period is $6,224,099.33, namely $2,071,693.99 for year 1 (14,892 litres x $139.11), $1,752,986.82 for year 2 (12,601 litres x $139.11), $1,961,377.63 for year 3 (14,099 litres x $139.11) and $437,950.88 for the last quarter of relevant period (3,022 x $144.94). I immediately note that the appellant's financial statements (Exhibit A‑3) and its net tax reports indicate that the appellant made total sales of $4,546,176.47 during relevant period, representing a gap of $1,677,832.90, thus the increase in GST assessed of $117,441.81 ($1,677,832.90 x 7%).
+[11] Only Ms. Dagenais testified in support of the respondent's position. Ms. Edoardi, Mr. Rahimi, Mr. Schait and Giovanni Assalone, the appellant's head chef, testified in support of the appellant's position.
+Mr. Rahimi's testimony
+[12] Mr. Rahimi essentially testified as follows:
+a. Mr. Rahimi has worked for the appellant for more than 20 years. Mr. Rahimi explained that he had practically been the appellant's sole director for the past 12 years since Ms. Edoardi (the appellant's sole shareholder and administrator) had delegated almost all her powers regarding the administration of the appellant's business;
+b. Ms. Edoardi's son regularly stole wine and money that belonged to the appellant during the relevant period. Mr. Rahimi added that Ms. Edoardi's son, who had drug problems, had assaulted him twice during the relevant period;
+c. During the relevant period, 10% to 15% of the appellant's sales were paid in cash. Mr. Rahimi explained that 95% of this cash was related to the appellant's delivery service. I note that the claims made by Mr. Rahimi on this subject are not supported by any documentary evidence. Lastly, Mr. Rahimi explained that this cash was used to pay for the appellant's smaller expenses and for the servers' tips;
+d. During year 2, the company Investissements Romana Inc. (the shares of which were then held by Ms. Edoardi) spent $1.2 million on renovations on the building it owned and in which the appellant's restaurant was run. Mr. Rahimi added that in year 2, the appellant made leasehold improvements (including the construction of beer and wine cellars) worth $70,000 to the same building and purchased equipment worth $70,000 (including a surveillance system). Mr. Rahimi explained that the leasehold improvements and the equipment purchased were mainly aimed at limiting thefts of wine at the restaurant. Lastly, Mr. Rahimi explained that the renovation work at the restaurant took place over a period of around nine months and a significant quantity of wine and beer, as well as the appellant's computer were stolen during the renovations. Mr. Rahimi also testified that the restaurant had only operated at around 66% of its potential during year 2 given the extent of the renovation work that year. I immediately note that the financial statements of years 1 and 2 (Exhibit A-3) do not show that thefts of wine and beer were significantly higher during year 2 than year 1. In fact, it is difficult to reach such a conclusion since the amount of sales in year 2 is essentially the same as that in year 1, and wine purchases ($152,095 in year 1 and $154,232 in year 2), sales ($1,336,325 in year 1 and $1,296,738 in year 2) and the year-end inventory are essentially the same for those two years. I also note that Mr. Rahimi's testimony, that the restaurant operated at 66% of its potential in year 2 (renovation year), does not correspond to the results in the appellant's financial statements (Exhibit A-3). Indeed, in a restaurant that, before renovations, had sales with little variation from year to year ($1,288,364 during the 2002 fiscal year and $1,336,326 in year 2) and where the prices of the food sold (admitted by Mr. Rahimi himself) were practically the same for these three fiscal years, it might be expected that the sales from year 2 (renovation year) would be significantly lower than those of the two preceding fiscal years. I would add that Mr. Rahimi's inability to explain why sales did not drop in year 2 compared to sales from the preceding fiscal years created significant doubt in my mind as to his credibility—this was the person responsible for managing the appellant—and the reliability of the appellant's financial statements;
+e. there was almost no change in the price of the food the appellant sold during relevant period;
+f. Mr. Rahimi consumed one bottle of wine per day with the appellant's servers at its restaurant. I must note that Mr. Rahimi's testimony on this was not supported by the testimony of the servers who allegedly received this benefit offered by the appellant. I also note that the appellant did not keep any books during the relevant period in which it is supposed to have noted its promotional activities or benefits offered. Lastly, I note that Mr. Rahimi's testimony on this was somewhat contradicted by Ms. Dagenais' testimony, the credibility of which does not raise doubts in my mind. Ms. Dagenais testified that on May 4, 2006 (during negotiations) Mr. Rahimi had stated he consumed an average of one bottle of wine per week at the restaurant;
+g. the appellant gave each head chef two beers per day during relevant period. I note that Mr. Rahimi's testimony on this was not supported by the appellant's head chefs who are supposed to have received this benefit offered by the appellant;
+h. at Mr. Rahimi's request, the appellant's servers (there could have been up to 120, according to Mr. Rahimi, in any given year during the relevant period considering the high turnover rate of servers working for the appellant) tasted the wines on the appellant's wine list (in particular the new wines) so that they could better advise the appellants' clients in their choice of wine. Mr. Rahimi explained that before the restaurant's renovations, around 10 such bottles of wine were consumed by the appellant's servers per month and after the renovations, this type of consumption was closer to 150 litres per year. I immediately note that Mr. Rahimi's testimony on this point was in no way supported by the servers who allegedly tasted the appellant's wines. I would add that part of Mr. Rahimi's testimony was contradicted by Ms. Dagenais' more credible testimony. She testified that her verifications allowed her to confirm that the maximum number of T-4 forms issued in a given year during the appellant's period in question was significantly lower than the 120 suggested by Mr. Rahimi;
+i. Ms. Dagenais never asked Mr. Rahimi to explain the gap between the appellant's sales in year 3 as indicated both in the financial records and the net tax and sales reports recorded in the annual summary of sales by item (see Exhibits I‑5 and I‑25). I would note that the annual summary of sales per item that the appellant gave to Ms. Dagenais established the appellant's sales at $1,408,702.39 for year 3, whereas the financial statements and net tax reports established the appellants sales at $1,505,203 for the same period;
+j. on average, three employee parties were held at the restaurant. Mr. Rahimi explained that during these parties, wine and beer were provided by the appellant free of charge. I immediately note that Mr. Rahimi did not specify the quantity of wine and beer consumed during these alleged parties organized for the appellant's employees. Once again, Mr. Rahimi's testimony was not supported by the testimony of the employees who would have enjoyed this benefit.
+[13] The appellant must be aware that a judge is not required to believe a witness who is not contradicted. In fact, this non-contradicted testimony can be deemed unlikely under the circumstances set out by the evidence and according to common sense. It is even more difficult for a judge to believe a witness when his version of the facts is contradicted by an element of objective evidence or by the testimony of a credible witness, and when he merely makes general, often unverifiable, statements, and provides evasive and ambiguous explanations. In such a case, it is hard to grant any probative value to that witness's testimony when it is unsupported by serious documentary evidence or by the testimony of independent and credible witnesses. In this case, Mr. Rahimi's version of the facts regarding the particularly high theft rate of wine and beer in year 2, and regarding the way the restaurant operated that year, at 66% of its potential, is contradicted by objective evidence. Mr. Rahimi was unable to explain the inconsistencies between his version of the facts on this subject and the financial statements (Exhibit A‑3). Additionally, his version of the facts regarding the number of servers (120) who worked at the restaurant in a given year during relevant period was contradicted by credible testimony by Ms. Dagenais. His testimony that he only recently realized that Ms. Dagenais had established the $139.11 ratio for year 3 from the annual summary of sales by item (Exhibit I‑5) is highly unlikely under the circumstances. I recall that Mr. Rahimi's testimony on this was also contradicted by Ms. Dagenais' testimony, and I do not question her credibility at all. Most of the time, Mr. Rahimi was happy to make general and unverifiable statements. For all these reasons, I grant little probative value to Mr. Rahimi's testimony.
+Mr. Schait's testimony
+[14] From Mr. Schait's testimony I note that:
+a. Mr. Rahimi took inventory only at the end of each year in the relevant period. Mr. Schait explained that the information from these inventory takings was given to him verbally by Mr. Rahimi, then noted in the appellant's financial records (Exhibit A‑3);
+b. he had all the appellant's monthly sales summaries (except for three or four months) for the relevant period;
+c. he was unable to provide Ms. Dagenais details for each of the food bills for years 1 and 2 because this information was simply not available. He also explained that he could not provide annual or monthly sales summaries by item for years 1 and 2 that were as detailed as those provided by the appellant for year 3 and the last quarter of the relevant period (Exhibits I‑5 and I‑6) because the appellant had not prepared any such summaries before year 3;
+d. after the renovation work at the restaurant, the appellant's sales increased, the cost of sales decreased and, as a result, its profit increased.
+e. Ms. Dagenais never asked for an explanation of the gap between the appellant's sales in year 3 that were in the financial records and those in its net tax reports and sales recorded in the annual sales summaries by item (Exhibits I‑5 and I‑25).
+Ms. Edoardi's testimony
+[15] From Ms. Edoardi's rather emotional testimony, we learn that:
+a. she is illiterate;
+b. she delegated management of the restaurant to Mr. Rahimi, in whom she had full trust;
+c. her role in the appellant's business was essentially to welcome clients and take care of the employees.
+Analysis and conclusion
+[16] In regard to the appellant's claim that it was unwarranted for the Minister to use an indirect audit method since the books and records were adequate and well kept, my comments will be brief. The appellant must understand that the Minister may be justified in using an indirect audit method for a taxpayer's affairs even if the books and records appear to be adequate and well kept on the surface. In fact, these books, records and financial statements must be reliable. How could the appellant claim that in this case the books, records and financial statements are reliable when it submitted the annual summaries (Exhibits I‑5 and I‑25) of sales by item for year 3 that indicate sales that are substantially different from those in its own financial statements and its own net tax reports for the same period? How can the appellant claim that its books, records and financial statements are reliable when it has no documentation in support of its inventory taking? How can the appellant claim that its books, records and financial statements for year 1 and year 2 are reliable when it cannot provide the Minister with the food bills or details of these bills for the two years? How can the appellant claim that these books, records and financial statements are reliable when, for each of the periods in relevant period, there is a significant gap between the purchases and the sales of beer and wine considering how little variation there was in its inventory from one year end to another? I immediately note that I do not believe the testimony of Messrs. Rahimi and Schait that Ms. Dagenais never asked them to explain the gap between the appellant's sales as noted in the annual summaries of sales by item for year 3 (Exhibits I‑5 and I‑25) and those in its financial statements and net tax reports. Mr. Rahimi's testimony that he only just recently noticed a gap of around $100,000 between the appellant's sales in year 3 as noted in the annual summaries of sales by item and those noted in the financial statements and net tax report do not seem any more credible to me and is highly unlikely considering the many assessment projects Ms. Dagenais presented to the appellant's representatives and the ensuing negotiations. At any rate, the appellant had an excellent opportunity to provide explanations about this gap and also to convince me that Ms. Dagenais erroneously used the information in the annual summary of sales by item for year 3 to establish the ratio of $139.11. The appellant preferred, for reasons unknown to me, to not provide any explanations. When the financial statements are not reliable, the taxpayer is at risk of an audit that could lead the Minister to use less accurate methods to establish the amount of the underestimated taxable supplies. It was warranted for the Minister in this case, considering the evidence that was presented before me, to use an indirect method.
+[17] With regard to the appellant's claims that the indirect audit method used by the Minister is a purely arbitrary and estimative method that does not have the required degree of reliability, in particular regarding the completely unlikely results, my comments will be just as brief. First, for year 3, it is difficult to claim that the method the Minister used is purely arbitrary and estimative. In fact, the ratio of $139.11 that the Minister used was derived from the annual summary of sales by item, which the appellant gave to Ms. Dagenais. That the Minister then multiplied the ratio of $139.11 by the number of litres of wine and beer the appellant purchased that year (reduced by the number of litres of wine and beer as allowances for loss, breakage, bonuses, premiums, promotions and kitchen use) is hardly estimative and arbitrary, considering the number of litres of beer and wine the appellant purchased that year was not challenged and considering the appellant's financial statements clearly show that there was little variation in inventory from one year to another during relevant period. In fact, the only element of the method the Minister used to establish the sales for year 3 that is estimative in this case is the number of litres of wine and beer the Minister granted as allowances for loss, breakage, bonuses, premiums, promotions and kitchen use. In this case, the Minister granted an allowance equal to around 14% of the litres of wine and beer purchased by the appellant that year. In other words, the Minister presumed that only 84% of the litres of wine and beer purchased in year 3 were sold that year. On this, I feel that the allowance of 14% the Minister granted is more than generous under the circumstances. Granting a more generous allocation would, in my opinion, be a purely arbitrary decision considering the evidence the appellant provided on this subject. In fact, the appellant's evidence on this came solely from Mr. Rahimi's testimony (aside from the allowance for the wine used in the kitchen, where Mr. Rahimi's testimony was supported by that of Giovanni Assalone, the appellant's head chef). Further to this testimony, the Minister granted an additional allowance for this purpose during the hearing. Considering my previous conclusion that I find it difficult to grant any probative value to Mr. Rahimi's testimony when not supported by reliable documentary evidence or credible and independent witness testimony, it is difficult for me to grant an additional allowance to the appellant.
+[18] In regard to the last quarter of relevant period, it is hard to claim that the method the Minister used is purely arbitrary and estimative. In fact, the ratio of $144.94 the Minister used was derived from the appellant's quarterly summary of sales by item for the last quarter of relevant period, given to Ms. Dagenais by the appellant's representatives (Exhibit I‑6). On this point, I note that the appellant's sales for this period as indicated in the quarterly summary of sales by item are the same as those in the appellant's net tax report for that same period. That the Minister then multiplied the ratio of $144.94 by the number of litres of wine and beer the appellant purchased that year (reduced by the number of litres of wine and beer as allowances for loss, breakage, bonuses, premiums, promotions and kitchen use) to reconstruct the appellant's sales is hardly estimative and arbitrary, considering the number of litres of beer and wine the appellant purchased that year was not challenged. In fact, the only element of the method the Minister used to establish the sales from that period that is estimative and challengeable is the number of litres of wine and beer the Minister granted as allowances for loss, breakage, bonuses, premiums, promotions and kitchen use. In this case, the Minister granted an allowance equal to 9.44% of the litres of wine and beer the appellant purchased during this period. In other words, the Minister presumed that only 91.56% of the litres of wine and beer the appellant purchased during this period were sold during that period. The appellant's evidence on this came solely from Mr. Rahimi's testimony, to which I granted little probative value. It would therefore be difficult for me to grant an additional allowance to the appellant.
+[19] As for years 1 and 2, the Minister reconstructed the appellant's sales by using a method that is certainly arbitrary and estimative in that it relied on a ratio of $139.11, established using the annual summary of sales by item for year 3, given to Ms. Dagenais by the appellant's representatives; this ratio, I will restate, was used by the Minister to reconstruct the appellant's sales for year 3. In this case, if the appellant hoped to succeed, it should have at least raised serious doubt as to the method the Minister used, in which case the burden of proof would have been reversed. In this case, evidence the appellant presented to raise serious doubt has little probative value because it relies essentially on Mr. Rahimi's testimony, which lacks credibility; he was content to make general statements on the subject. Moreover, counsel for the appellant claimed that the method the Minister used is not reliable because it yields unlikely results considering the nature of the appellant's activities. On this, counsel for the appellant reminded the Court that Mr. Rahimi's testimony indicated that the percentage of the appellant's sales in cash never exceeded 85% and that 95% of the sales paid in cash were generated by his delivery service. However, counsel for the appellant claimed it was unlikely that undeclared sales of $1,371,516 for relevant period (that were necessarily paid in cash since, according to the evidence, only sales paid in cash can be hidden from the tax authorities) were generated by the appellant's delivery service. In other words, counsel for the appellant claimed that it is unlikely that the appellant generated that many cash sales during relevant period. If the appellant had presented reliable documentary evidence regarding the percentage of sales paid by credit card, in terms of the percentage of sales generated by its delivery service, its sales at the counter an in the dining room, it could have shown that the method the Minister used was not reliable because it gave unlikely results. In this case, the appellant's evidence was essentially based on Mr. Rahimi's testimony, to which I granted little probative value. In general, serious doubt cannot be raised regarding the method the Minister used by merely making general and unverifiable statements.
+[20] The appellant could also have succeeded regarding years 1 and 2 by showing that the allowances the Minister granted were inaccurate. However, the appellant's evidence on this was essentially based on Mr. Rahimi's testimony, to which I granted little probative value. I note that only one witness supported Mr. Rahimi's testimony regarding the additional allowances the appellant declared. Mr. Assalone's testimony supported that of Mr. Rahimi regarding the litres of Fontana/Bottero type wine the appellant used in the kitchen during the first three years of relevant period. I note that the respondent had made an admission during the hearing regarding the wine the appellant used in the kitchen following Mr. Assalone's testimony.
+[21] For these reasons, the appeal is allowed, without costs, to take into consideration the Minister's admission at paragraph 3 of these reasons.
+Signed at Ottawa, Canada, this 22nd day of June 2010.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 7th day of January 2011.
+François Brunet, Revisor
+CITATION: 2010 TCC 347
+COURT FILE NO.: 2008-1856(GST)G
+STYLE OF CAUSE: RESTAURANT PLACE ROMAINE INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 14, 15 and 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: June 22, 2010
+APPEARANCES:
+Counsel for the appellant:
+Starmino Mostovac
+Counsel for the respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the appellant:
+Name: Starmino Mostovac
+Firm: Starmino Mostovac, senc
+Montréal, Québec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,224 @@
+Title: McLarty c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29704/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-141-29704-mclarty-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-03-08
+
+# McLarty c. La Reine
+
+- Citation: 2010 CCI 141
+- Decision date: 2010-03-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6209, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLarty c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-08
+Référence neutre
+2010 CCI 141
+Numéro de dossier
+97-3628(IT)G
+Juges et Officiers taxateurs
+Barbara Tanasychuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 97-3628(IT)G
+ENTRE :
+ALLAN MCLARTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+CERTIFICAT DE TAXATION DES DÉPENS
+JE CERTIFIE que j’ai taxé les dépens entre parties de l’appelant dans cette instance en vertu du paragraphe 153(1) des Règles de la Cour canadienne de l’impôt (procédure générale) et J’ACCORDE LA SOMME DE 64 827,40 $.
+Signé à Toronto (Ontario), ce 8e jour de mars 2010.
+« B.G. Tanasychuk »
+Officier taxateur
+Traduction certifiée conforme
+ce 13e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2010 CCI 141
+Date : 20100308
+Dossier : 97-3628(IT)G
+ENTRE :
+ALLAN MCLARTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA TAXATION
+Barbara Tanasychuk, O.T., C.C.I.
+[1] La présente taxation a été entendue par téléconférence le 15 octobre 2009. Elle donne suite au jugement daté du 26 janvier 2005 par lequel le juge L.M. Little a accueilli, avec dépens, les appels de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1992 et 1994. L’appelant était représenté par Me Jehad Haymour, alors que Me Wendy Burnham représentait l’intimée.
+[2] Aux fins de la présente audience, l’appelant a déposé les affidavits faits par Elaine Hutchinson le date du 2 avril 2009 (le « premier affidavit de l’appelant ») et le 14 octobre 2009 (le « second affidavit de l’appelant »). L’intimée a déposé l’affidavit fait le 9 octobre 2009 par Deborah Horowitz (l’« affidavit de l’intimée »).
+[3] Me Burnham a déclaré que les honoraires d’avocat demandés, 26 175 $, n’étaient pas contestés. Le montant de 26 175 $, au titre des honoraires d’avocat, est donc admis, comme convenu.
+[4] Me Burnham a en outre déclaré que les débours suivants n’étaient pas contestés :
+Droit de dépôt
+250,00 $
+Frais et dépens des témoins (sept témoins, onze jours à 50 $ par jour)
+350,00 $
+Témoins experts (deux témoins, trois jours à 350 $ par jour)
+1 050,00 $
+Droits de dépôt et recherche (PPR)
+60,00 $
+Documents de recherche – Statistical Handbook de l’ACPP
+150,00 $
+Photocopies externes
+1 433,47 $
+Comme convenu, le montant de 3 293,47 $ (plus la TPS) est admis au titre des débours.
+[5] Les débours suivants sont contestés :
+Frais des services d’expert-conseil
+13 475,50 $
+Frais des témoins experts
+15 450,00 $
+Sténographe (interrogatoires préalables et transcriptions de l’instruction)
+16 024,00 $
+Télécopies et messagers
+2 102,90 $
+Frais de poste
+190,42 $
+Frais d’appels interurbains
+464,38 $
+Photocopies
+13 467,35 $
+Déplacements et hébergement
+17 173,64 $
+Repas
+548,07 $
+Frais de taxi
+633,40 $
+Stationnement
+75,60 $
+ARGUMENTS DE L’APPELANT
+[6] Me Haymour a fait un bref historique du dossier. L’avis d’appel, déposé en 1997, se rapportait à des cotisations relatives aux années d’imposition 1992 et 1994. L’appelant était l’un de plusieurs investisseurs qui avaient conclu un contrat de coentreprise, coentreprise qui a par la suite acheté une participation dans une base de données sismiques. La liste de documents de l’appelant renfermait plus de six cents documents, les interrogatoires préalables ont duré plus de huit jours et cent trente‑trois engagements ont été pris. L’appelant a déposé un rapport d’expert et deux rapports en contre‑preuve. L’audition de l’appel a duré plus de quatorze jours, en septembre 2003, et la décision de la Cour canadienne de l’impôt a finalement été confirmée par la Cour suprême du Canada en juin 2008.
+[7] Me Haymour a en outre déclaré que l’appel interjeté par M. McLarty était une cause type, en ce sens que les autres personnes qui avaient investi des fonds dans la coentreprise ont finalement fait l’objet de nouvelles cotisations où on a tenu compte de la décision rendue dans l’appel de M. McLarty.
+FRAIS DE SERVICES D’EXPERT‑CONSEIL
+[8] L’appelant cherche à recouvrer un montant de 13 475,50 $ au titre des frais de services d’expert‑conseil. Les frais représentent les sommes versées à six experts‑conseils qui ont témoigné à l’instruction :
+Brian Curts, de Curts Seismic Consultants Ltd.
+937,50 $
+Carl Ringdahl
+3 000,00 $
+Christopher Talbot
+4 000,00 $
+Ted Webb, de Citadel Engineering Ltd.
+3 338,00 $
+Ray Jaskela, de Jaskela Resource Consulting Ltd.
+400,00 $
+George Fairs, de 746757 Alberta Ltd.
+1 800,00 $
+[9] Me Haymour a déclaré qu’il avait fallu avoir recours à ces experts‑conseils afin d’examiner leur travail antérieur et de les préparer à témoigner à l’audience. Sans l’aide des experts‑conseils, il aurait été impossible de préparer la cause de l’appelant d’une façon appropriée.
+FRAIS DES TÉMOINS EXPERTS
+[10] Me Haymour a déclaré que l’appelant avait le droit de recouvrer le montant de 15 450 $, représentant les frais versés pour les services d’un témoin expert, Wade Brillon, de Divestco.com. Le rapport d’expert et le rapport présenté en contre‑preuve de M. Brillon ont été produits devant la Cour et M. Brillon a témoigné à l’instruction. Me Haymour a déclaré qu’à la suite du contre‑interrogatoire dont M. Brillon avait fait l’objet de la part de Me Burnham au sujet de ses titres de compétence, l’avocat de l’appelant a retiré la demande qu’il avait faite pour que M. Brillon soit reconnu à titre d’expert en matière d’évaluation. Le témoin a été retiré à titre d’expert en matière d’évaluation, mais ses rapports d’expert ne portaient pas strictement sur la question de l’évaluation. Selon la position prise par l’appelant, même si M. Brillon n’avait pas témoigné au sujet de l’évaluation, il avait présenté un témoignage d’expert et les frais qui lui avaient été versés étaient recouvrables. L’avocat a en outre déclaré que les frais de M. Brillon étaient raisonnables et qu’ils avaient été engagés afin de soutenir la position prise par l’appelant.
+FRAIS DU STÉNOGRAPHE
+[11] La demande que l’appelant a présentée au titre des frais du sténographe, 16 024 $, comprenait les frais se rattachant aux interrogatoires préalables, à la transcription de ces interrogatoires préalables et aux transcriptions de l’audience, lesquelles avaient été préparées à bref délai. Me Haymour a déclaré que les transcriptions de l’instruction étaient nécessaires afin d’aider les avocats de l’appelant à préparer leurs conclusions finales.
+TÉLÉCOPIES ET MESSAGERS, FRAIS DE POSTE ET D’APPELS INTERURBAINS
+[12] Les montants demandés pour les télécopies et les messagers s’élèvent à 2 102,90 $, les frais de poste s’élèvent à 190,42 $ et les frais d’appels interurbains s’élèvent à 464,38 $. Me Haymour a déclaré que les coûts associés à la requête présentée par l’intimée en vertu de l’article 58 des Règles et les comptes rendus au client n’étaient pas inclus dans ces montants. À l’appui des montants demandés, des copies de documents comptables internes du cabinet ont été jointes au premier affidavit de l’appelant, sous les cotes G, H et I. Me Haymour a déclaré que les frais engagés étaient raisonnables et essentiels à la poursuite de l’appel.
+PHOTOCOPIES
+[13] La demande que l’appelant a présentée pour les photocopies, 13 467,35 $, se rapportait au coût de photocopies effectuées dans les cabinets des avocats de l’appelant. Me Haymour a déclaré que le coût des photocopies se rapportant à la requête que l’intimée avait présentée en vertu de l’article 58 des Règles était exclu du montant demandé, ainsi que celui des copies se rapportant aux comptes rendus au client. Des copies de documents comptables internes du cabinet de l’avocat, pièce J jointe au premier affidavit de l’appelant, ont été produites à l’appui.
+DÉPLACEMENTS ET HÉBERGEMENT
+[14] Me Haymour a déclaré que des frais considérables avaient été déboursés par les avocats de l’appelant pour les déplacements et l’hébergement. Me Carman R. McNary agissait à titre de second avocat de l’appelant et son cabinet était situé à Edmonton (Alberta), alors que le cabinet de Me Haymour était situé à Calgary (Alberta). La demande de remboursement des frais engagés par Me McNary comprenait le coût de vols d’avion d’Edmonton à Calgary pour des réunions, la préparation de l’instruction, la conduite de l’audience, et un voyage à Ottawa pour des discussions en vue d’une transaction. De plus, Me Haymour avait effectué deux voyages à Ottawa en vue de discuter d’une transaction avec l’avocate de l’intimée. Des reçus à l’appui des montants demandés étaient joints au premier affidavit de l’appelant, sous la cote L. Me Haymour a déclaré que les frais qui avaient été engagés étaient raisonnables et essentiels à la poursuite de l’appel.
+REPAS, FRAIS DE TAXI ET STATIONNEMENT
+[15] Me Haymour a déclaré que la demande relative aux repas, aux frais de taxi et au stationnement, s’élevant en tout à 1 257,07 $, se rapportait à des frais que les avocats avaient engagés lors de leurs voyages à Ottawa, au cours de l’instruction et lors de divers voyages que Me McNary avait effectués à Calgary. MeHaymour a déclaré que ces frais étaient raisonnables et nécessaires à la poursuite de l’appel.
+ARGUMENTS DE L’INTIMÉE
+[16] Me Burnham a déclaré que l’appel interjeté par M. McLarty n’était pas une cause type. Elle a soutenu que même si un certain nombre de contribuables participaient à la coentreprise, les parties n’avaient conclu aucune entente formelle selon laquelle le résultat de l’appel interjeté par M. McLarty lierait d’autres contribuables.
+[17] Me Burnham a également déclaré que les documents produits à l’appui des débours n’avaient pas été présentés d’une façon ordonnée, de sorte qu’il était difficile de savoir à quoi les documents se rapportaient et si les montants demandés étaient justifiés.
+FRAIS DE SERVICES D’EXPERT-CONSEIL
+[18] Me Burnham a déclaré que les services de trois experts‑conseils, Brian Curts, Ray Jaskela et Ted Webb, avaient été retenus en 1992 pour qu’ils préparent des évaluations des données sismiques. On a fait appel à ces experts‑conseils pour qu’ils établissent la valeur des données sismiques, afin de justifier la déduction des frais cumulatifs d’exploration au Canada.
+[19] Me Burnham a déclaré que Carl Ringdahl était un employé de la Compton Resource Corporation, société chargée de trouver des investisseurs qui se joindraient à elle pour acheter la base de données sismiques.
+[20] Me Burnham a déclaré que Christopher Talbot et George Fairs s’étaient occupés de trouver la base de données sismiques et qu’ils avaient témoigné au sujet de leur participation à ce processus.
+[21] Selon la position prise par Me Burnham, aucune disposition n’avait été prise à l’égard des frais versés aux experts‑conseils, Me Burnham a déclaré que ces experts‑conseils avaient témoigné sur des faits et que le montant admissible pour les frais d’un témoin factuel était de 50 $ par jour.
+[22] De plus, Me Burnham a déclaré que le paragraphe 4(2) du tarif A de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale) permet de verser à un témoin un montant supérieur à 50 $ par jour. Cependant, une fois que le paiement a été effectué, la partie doit aviser la Cour. Or, à sa connaissance, cela n’avait pas été fait.
+FRAIS DES TÉMOINS EXPERTS
+[23] Me Burnham a déclaré que les services de l’expert de l’appelant, Wade Brillon, avaient été retenus pour que celui‑ci prépare une évaluation des données sismiques. Me Burnham a déclaré qu’après qu’elle eut contre‑interrogé M. Brillon au sujet de ses titres de compétence, l’avocat de l’appelant avait retiré M. Brillon à titre d’expert en matière d’évaluation. Par conséquent, le témoignage de M. Brillon portait uniquement sur une petite partie de ce qui était contenu dans son rapport. Me Burnham a en outre déclaré qu’étant donné que M. Brillon avait été retiré à titre d’expert en matière d’évaluation, le montant demandé pour les services de celui‑ci devrait être ramené à zéro.
+[24] Subsidiairement, Me Burnham a déclaré qu’étant donné que le témoignage de M. Brillon portait uniquement sur une petite question sans importance, le montant de 15 450 $ demandé pour les services de M. Brillon devrait être réduit d’au moins 75 p. 100, de façon à correspondre à la valeur de la preuve qu’il avait présentée devant la Cour.
+[25] En tant qu’argument subsidiaire additionnel, Me Burnham a déclaré qu’au plus, un montant de 300 $ par jour devait être accordé pour les services de M. Brillon. Bien qu’aucune feuille de temps n’eût été produite à l’égard de M. Brillon, Me Burnham a soutenu qu’on devrait lui accorder des frais pour une journée à la Cour, dix jours de consultation et six jours additionnels, à 300 $ par jour dans chaque cas, soit un montant de 5 100 $ en tout.
+FRAIS DU STÉNOGRAPHE
+[26] Me Burnham a déclaré qu’un montant d’environ 14 000 $ sur les 16 024 $ demandés pour les transcriptions se rapportait au coût de transcriptions de l’instruction effectuées à bref délai. Me Burnham a déclaré que trois avocats agissant pour l’appelant étaient présents à l’audience et qu’il n’était pas nécessaire d’effectuer les transcriptions à bref délai. Selon la position qu’elle a prise, l’appelant devrait uniquement avoir droit à 1 800 $, représentant les frais versés au sténographe pour les interrogatoires préalables.
+TÉLÉCOPIES ET MESSAGERS, FRAIS DE POSTE ET D’APPELS INTERURBAINS
+[27] Me Burnham a déclaré que les seuls documents qui avaient été produits à l’appui du montant demandé pour les télécopies étaient composés d’imprimés de longues listes de documents comptables internes du cabinet de Me Haymour. Les imprimés n’indiquaient aucunement ce à quoi les frais se rapportaient, le lien qu’ils avaient avec l’instance et les raisons pour lesquelles ils avaient été engagés.
+[28] En examinant les imprimés se rapportant aux frais de messagers, Me Burnham a déclaré que certains frais avaient été engagés après la fin de l’audience, avant le dépôt de l’avis d’appel, alors que d’autres se rapportaient à l’audition de la requête présentée en vertu de l’article 58 des Règles.
+[29] Les prétentions de Me Burnham, en ce qui concerne le montant demandé pour les appels interurbains et les frais de poste, étaient semblables aux commentaires qu’elle a faits au sujet des montants demandés pour les télécopies et les messagers. En ce qui concerne les frais d’appels interurbains, les documents n’expliquaient pas à qui l’appel avait été fait, le lien qu’ils avaient avec l’instruction, et les imprimés comprenaient des frais postérieurs à l’instruction. Les imprimés des frais de poste ne donnaient pas de détails au sujet de ce qui avait été envoyé par la poste et de la raison de l’envoi.
+PHOTOCOPIES
+[30] Me Burnham a déclaré que le montant de 13 467,35 $ demandé pour les photocopies était déraisonnable. De plus, on n’avait fourni aucune preuve montrant que toutes les copies étaient nécessaires pour la poursuite de l’appel.
+[31] Me Burnham s’est reportée aux alinéas 11b) et c) du second affidavit de l’appelant, dans lequel il est déclaré que tous les frais de copies se rapportant à la demande présentée en vertu de l’article 58 des Règles et aux comptes rendus aux clients étaient exclus. De plus, l’alinéa 11d) du second affidavit de l’appelant disait que le coût des photocopies était rajusté au taux de vingt cents la page. Toutefois, Me Burnham a déclaré que lorsqu’elle avait additionné les montants figurant dans les documents comptables internes, pièce J du premier affidavit de l’appelant, le total obtenu était de 13 467,35 $, soit le montant demandé dans le mémoire de frais.
+[32] Me Burnham a déclaré qu’un montant de 4 660 $ était plus raisonnable pour les photocopies. Ce chiffre figurait dans une version antérieure du mémoire de frais de l’appelant, pièce B de l’affidavit de l’intimée, dans lequel les documents photocopiés, le nombre de copies effectuées et le montant demandé par page étaient indiqués.
+DÉPLACEMENTS ET HÉBERGEMENT
+[33] Me Burnham a déclaré que les frais de déplacement associés aux voyages que Mes Haymour et McNary avaient effectués à Ottawa afin de discuter d’une transaction n’étaient pas admissibles et qu’ils devraient être exclus du montant de 17 173,64 $ qui était demandé. Un reçu pour un voyage aller‑retour que Me John Brussa avait fait en avion à Ottawa, de 3 183,25 $, était inclus dans les reçus joints, sous la cote L, au premier affidavit de l’appelant. Me Burnham a déclaré que l’appelant n’avait pas droit à un remboursement pour le coût de ce voyage. Me Brussa était un avocat qui avait mis au point le plan qui était utilisé pour acheter les données sismiques et il n’agissait pas comme avocat de l’appelant en l’espèce.
+REPAS
+[34] Me Burnham a déclaré que le paragraphe 18 du premier affidavit de l’appelant indiquait que le montant de 548,07 $ qui était demandé représentait le coût des repas des avocats lors de leurs voyages à Ottawa et au cours de l’instruction. Me Burnham a déclaré que, bien qu’il y ait eu certains reçus pour les repas, la plupart des documents joints au premier affidavit de l’appelant, sous la cote M, étaient des documents comptables internes du cabinet de Me Haymour. Me Burnham a déclaré que certains reçus se rapportaient à des frais engagés avant l’instruction et qu’un document indiquait que les frais avaient été engagés après l’instruction. Selon la position que Me Burnham a prise, les documents fournis à l’appui de la demande étaient insuffisants à un point tel qu’il était impossible de savoir quels frais devaient être admis.
+FRAIS DE TAXI
+[35] Me Burnham a déclaré que, bien que le paragraphe 19 du premier affidavit de l’appelant indique que les 633,40 $ demandés pour les taxis se rapportaient à des frais engagés lors des voyages que les avocats avaient effectués à Ottawa et à Calgary, les documents produits sous la cote N comprenaient des demandes se rapportant à des taxis pris à d’autres moments. Parmi ces documents, il y avait des imprimés de documents comptables internes sans aucun reçu justifiant le montant demandé. Cela étant, Me Burnham a déclaré que le montant demandé pour les taxis devrait être refusé au complet.
+STATIONNEMENT
+[36] Me Burnham a déclaré que le paragraphe 20 du premier affidavit de l’appelant indiquait que le montant de 75,60 $ qui était demandé pour le stationnement représentait des frais engagés pour des réunions en vue d’une transaction tenues à Ottawa, et pour des voyages à Calgary. Toutefois, elle a fait remarquer qu’un reçu de 42 $ inclus dans les documents joints au premier affidavit de l’appelant, sous la cote O, se rapportait à des frais engagés pour deux journées de stationnement à l’aéroport de Calgary, au moment même où la Cour d’appel fédérale avait entendu l’appel de la décision rendue à l’égard de la requête présentée en vertu de l’article 58 des Règles, à Edmonton (Alberta).
+INTÉRÊTS APRÈS JUGEMENT
+[37] En ce qui concerne les intérêts après jugement qui sont demandés, Me Burnham a déclaré que les intérêts accordés à ce titre devraient courir à compter du 22 mai 2008, soit la date à laquelle la Cour suprême du Canada a rendu la décision par laquelle elle confirmait le jugement de la Cour canadienne de l’impôt.
+DÉCISION
+[38] La façon dont les reçus et factures ont été soumis à l’appui des débours qui sont demandés ne m’a pas beaucoup aidée. J’avais devant moi une masse de documents, avec fort peu d’explications au sujet de ce qu’ils représentaient. J’ai entendu les observations des avocats, j’ai examiné les documents qui ont été soumis et ma décision est la suivante.
+FRAIS DES SERVICES D’EXPERT‑CONSEIL
+[39] Les renseignements afférents au montant de 13 475,50 $ qui a été demandé pour les services des six experts‑conseils qui ont témoigné à l’audience sont donnés au paragraphe 8 ci‑dessus. Des copies de leurs factures sont jointes au premier affidavit de l’appelant, sous la cote B.
+[40] L’examen du dossier de la Cour a révélé que ces six experts‑conseils ont témoigné à titre de témoins factuels à l’instruction. L’appelant a demandé un montant de 50 $ pour chacun de ces six témoins et l’avocate de l’intimée a consenti au montant de 300 $ qui était demandé.
+[41] Me Haymour a cité la décision rendue par la Cour d’appel de la Nouvelle‑Écosse dans l’affaire D.W. Matheson & Sons Contracting Ltd. v. Canada (Attorney General), 2000 NSCA 44, [2000] N.S.J. no 96. Dans cette affaire‑là, la demanderesse cherchait à recouvrer les frais versés à deux ingénieurs qui avaient été appelés à témoigner comme témoins factuels. Il a été conclu que la cour possédait un pouvoir discrétionnaire quant aux frais versés à des témoins factuels et la cour a renvoyé l’affaire au juge de première instance pour qu’il décide s’il convenait d’exercer ce pouvoir discrétionnaire en faveur de la demanderesse.
+[42] Le pouvoir discrétionnaire de la cour est beaucoup plus large que celui d’un officier taxateur. Je ne possède pas le pouvoir discrétionnaire d’admettre les frais versés aux six experts‑conseils qui ont comparu à titre de témoins factuels. Le montant de 13 475,50 $ qui a été demandé pour les frais associés aux services des experts‑conseils est refusé.
+FRAIS DES TÉMOINS EXPERTS
+[43] Le rapport d’expert de M. Brillon a été produit et M. Brillon a témoigné à l’instruction. Après que M. Brillon a été appelé à témoigner et que Me Burnham l’a contre‑interrogé au sujet de ses titres de compétence, l’avocat a décidé de retirer M. Brillon à titre d’expert au sujet de la valeur des données sismiques.
+[44] Je ne retiens pas l’argument de Me Burnham selon lequel le montant admissible pour les services de M. Brillon devrait être ramené à zéro. Je ne retiens pas non plus les arguments que Me Burnham a invoqués à titre subsidiaire. M. Brillon n’a pas présenté de témoignage d’expert quant à toutes les questions dont il traitait dans son rapport, mais la décision de le retirer à titre d’expert en matière d’évaluation a été prise par l’avocat une fois que l’instruction était en cours. Il est de droit constant que les frais versés aux témoins experts qui ne sont pas appelés à témoigner sont recouvrables dans une taxation des dépens entre parties. Je suis convaincue que les frais versés à M. Brillon sont raisonnables et j’admets le plein montant de la demande de 15 450 $ (plus la TPS).
+FRAIS DU STÉNOGRAPHE
+[45] Le montant de 16 024 $ que l’appelant a demandé est composé de deux montants : 1 798,95 $ pour les interrogatoires préalables et 14 225,05 $ pour les transcriptions de l’audience, lesquelles ont été produites à bref délai. Or, dans la décision RMM Canadian Enterprises Inc. and Equilease Corporation v. Her Majesty the Queen, 97 DTC 420, l’ancien juge en chef Bowman, de la Cour, a refusé d’admettre les frais de transcription des contre‑interrogatoires de deux témoins en disant pour la raison suivante :
+Il était peut-être utile de disposer de ces transcriptions, mais je ne les considère pas comme essentielles.
+[46] Je ne doute aucunement que les transcriptions effectuées à bref délai aient été utiles aux avocats pour préparer les conclusions finales, mais je ne suis pas convaincue qu’il s’agit d’un débours essentiel dont le coût est recouvrable dans le cadre de la taxation des dépens entre parties. Le montant de 14 225,05 $ est donc refusé, alors que le montant de 1 798,95 $ (plus la TPS) sera admis pour les frais du sténographe.
+TÉLÉCOPIES ET MESSAGERS
+[47] Le montant de 2 102,90 $ qui était demandé pour les télécopies et les messagers était appuyé par des documents joints au premier affidavit de l’appelant, sous la cote G, lesquels étaient composés de résumés récapitulatifs des frais et de listes de débours de Fraser Milner Casgrain (« FMC »). Ces documents indiquaient les frais engagés pour envoyer des documents par télécopieur ou par l’entremise de messagers.
+[48] Je ne doute pas de la nécessité d’envoyer des documents par télécopieur ou par messager, mais je n’ai pas la moindre idée de ce qui a été envoyé, de la raison de ces envois et de leurs destinataires. En l’absence de ces renseignements, je ne puis admettre le plein montant demandé. J’accorde 50 p. 100 du montant demandé, soit 1 051,45 $ (plus la TPS).
+FRAIS DE POSTE
+[49] Les documents produits à l’appui du montant de 190,42 $ qui a été demandé pour les frais de poste sont joints au premier affidavit de l’appelant, sous la cote H. Ces documents sont des copies de documents comptables internes de FMC composés de résumés récapitulatifs des frais et de listes de débours. J’ai examiné les sommaires qui ont été produits, et il semble que le montant de 190,42 $ en question est le montant que FMC a facturé à l’appelant pour les frais de poste. Les listes de débours renferment des inscriptions totalisant 219,42 $ pour les frais de poste. Les listes de débours de deux pages semblent s’appliquer à la période allant du 25 mars 1999 au 28 mars 2007, et la mention manuscrite [traduction] « exclu » qui figure à côté de quatre chiffres dont le total s’élève à 73,36 $.
+[50] Il ne serait pas logique de rejeter au complet le montant demandé pour les frais de poste, mais les documents qui ont été produits à l’appui sont si peu satisfaisants qu’il est tentant de le faire. J’accorderai un montant de 117,06 $ (plus la TPS) pour les frais de poste. Ce chiffre représente le montant demandé, soit 190,42 $, moins un montant de 73,36 $, qui est le total des montants figurant sur la liste des débours où se trouve la mention [traduction] « exclu ».
+FRAIS D’APPELS INTERURBAINS
+[51] Les avocats de l’appelant et de l’intimée étaient établis non seulement dans des villes différentes, mais aussi dans des provinces différentes. Il est certain que des frais d’appels interurbains ont été engagés. Me Burnham a déclaré que certains frais mentionnés dans les documents se rapportaient à des appels effectués avant le dépôt de l’avis d’appel et après l’audience, mais mon examen des listes de débours jointes au premier affidavit de l’appelant, sous la cote I, a révélé que les éléments figurant sur les listes n’étaient pas tous inclus dans le montant de 464,38 $. J’admets ce montant de 464,38 $ (plus la TPS) pour les appels interurbains, car je suis convaincue qu’il s’agit d’un montant raisonnable à cet égard et d’une dépense nécessaire aux fins de la conduite de l’appel.
+PHOTOCOPIES
+[52] L’appelant a demandé un montant de 13 467,325 $ pour les photocopies. Les documents produits à l’appui étaient composés de près de 100 feuilles de documents comptables internes de FMC joints au premier affidavit de l’appelant, sous la cote J. Ces documents semblaient énumérer toutes les photocopies effectuées, pour lesquelles des frais de vingt‑cinq cents la page étaient dans certains cas demandés, alors qu’un montant de trente cents la page était demandé pour d’autres photocopies. Les documents ne renfermaient aucune explication au sujet de ce qui était photocopié et de la raison pour laquelle les photocopies étaient effectuées.
+[53] Il ressort de mon examen de la pièce J jointe au premier affidavit de l’appelant que l’appelant cherche à recouvrer le coût de chaque photocopie qui a été faite. Étant donné l’absence de détails dans les documents justificatifs, je ne suis pas prête à admettre le plein montant demandé pour les photocopies. Une version antérieure du mémoire de frais de l’appelant, jointe à l’affidavit de l’intimée sous la cote B, indiquait un montant de 4 660 $ pour les photocopies, ainsi que la répartition de ce qui était copié, le nombre de photocopies effectuées, le tout à vingt cents la page. En l’absence de renseignements précis pour étayer le montant de 13 467,35 $ qui a été demandé, j’admets le montant de 4 660 $ (plus la TPS) pour les photocopies.
+DÉPLACEMENTS ET HÉBERGEMENT
+[54] Le présent appel a été entendu à Calgary, en Alberta. L’appelant était représenté par Mes McNary, Haymour et Kwan, qui faisaient tous partie du cabinet FMC. Me McNary travaillait depuis le cabinet d’Edmonton de FMC, alors que Mes Haymour et Kwan travaillaient depuis le cabinet de Calgary.
+[55] L’appelant a demandé un montant de 17 173,64 $ pour les frais de déplacement. Ce montant se rapportait en partie à des dépenses que Me McNary avait engagées pour se rendre à Calgary afin d’assister à diverses réunions et à l’audience tenue devant le juge Little. Mes McNary et Haymour ont engagé des frais additionnels de déplacement et d’hébergement afin de se rendre à Ottawa pour discuter d’une transaction avec l’avocate de l’intimée.
+[56] Une grande quantité de documents (pièce L du premier affidavit de l’appelant) ont été produits à l’appui du montant demandé pour les déplacements et l’hébergement. Or, les documents produits à l’appui ne totalisent pas 17 173,64 $ en tout. De plus, aucune répartition n’a été faite pour indiquer qui avait effectué les voyages, les destinations, les dates et les motifs des voyages. Parmi les documents, il y avait des demandes de remboursement rédigées à la main, des reçus de taxi et des reçus de restaurant. Il était très difficile de savoir de quoi il s’agissait et si l’un des montants de ces divers reçus était inclus dans le montant de 17 173,64 $, étant donné que les frais de repas et de taxi étaient demandés séparément dans le mémoire de frais.
+[57] Parmi les documents figurant dans la pièce L, il y avait également une facture au montant de 3 183,25 $ pour un voyage aller-retour à Ottawa effectué par Me John Brussa, le 16 mai 2001. Je ne sais pas trop si le coût de ce voyage a vraiment été inclus dans le montant de 17 173,64 $ qui a été demandé. Quoi qu’il en soit, l’avocat de l’appelant a admis qu’il ne s’agissait pas d’une dépense recouvrable et la demande a été retirée.
+[58] Me Burnham a déclaré que l’intimée ne devrait pas être tenue de payer les frais de déplacement de Me McNary. Je ne suis pas d’accord. Dans la décision Ross c. Canada, 2007 CCI 208, [2007] A.C.I. no 155, l’officier taxateur avait admis les dépenses qu’un avocat établi à Montréal avait faites afin d’aller à Toronto pour des interrogatoires préalables et l’audition de l’appel.
+[59] J’admets le coût du voyage aller-retour en avion que Me McNary a effectué entre Edmonton et Calgary aux fins de l’audition de l’appel. L’appelant pouvait avait le droit de retenir choisir son avocat, et ce choix ne devrait pas être assujetti à des restrictions à cause de l’endroit où l’appel a été entendu. Selon mon examen des reçus qui ont été produits, le coût du voyage aller‑retour en avion que Me McNary a effectué depuis Calgary ou à destination de Calgary pour assister l’audience était de 1 357,24 $ (plus la TPS), montant qui est admis.
+[60] La facture au montant de 3 503,79 $ se rapportant à l’hébergement de Me McNary dans un hôtel au cours de l’instruction s’appliquait à la période allant du 5 au 25 septembre 2003. Il ressort des reçus remis pour les billets d’avion que Me McNary retournait à Edmonton chaque fin de semaine, mais qu’il conservait sa chambre à l’hôtel pendant ce temps, ce qui représente en tout vingt et une nuitées. La facture de l’hôtel comprenait également des frais de blanchisserie, de stationnement, d’appels téléphoniques et de service à l’étage. Sur le montant total de la facture pour l’hébergement au cours de l’instruction, j’admets dix‑sept nuitées à 129 $ la nuit, soit un montant de 2 193 $ en tout (plus la TPS).
+[61] Me Haymour a effectué deux voyages à Ottawa, le 27 mars 2000 et le 16 mai 2001, pour discuter d’une transaction avec l’avocate de l’intimée. Me Burnham a soutenu que les coûts associés à ces voyages n’étaient pas des dépenses recouvrables parce que les réunions ont eu lieu à la demande de l’avocat de l’appelant. Je ne suis pas d’accord. Il est toujours préférable de régler un litige sans avoir à procéder à une instruction. Les frais de déplacement associés aux réunions en vue d’une transaction sont minimes comparativement aux coûts associés à l’appel final devant la Cour suprême du Canada de la décision rendue par la Cour.
+[62] Les voyages que Me Haymour a effectués pour se rendre à Ottawa ont été effectués dans ce qui est maintenant connu sous le nom de « classe affaires ». Sur le reçu se rapportant au premier voyage de Me Haymour figurait la mention : [traduction] « 1/2 de la facture – 1 619,55 $ », rédigée à la main. Le billet coûtait 3 238,89 $ en tout, ce qui comprenait un montant de 211,89 $ pour la TPS et des frais d’améliorations aéroportuaires de 20 $. Compte tenu de cette mention manuscrite, j’ai supposé que 50 p. 100 du coût de ce vol avait été inclus dans les 17 173,64 $ demandés. La facture se rapportant au second voyage, effectué le 16 mai 2001, était de 3 429,35 $, ce qui comprenait un montant de 224,35 $ pour la TPS et des frais d’améliorations aéroportuaires de 20 $.
+[63] J’admets le prix des billets d’avion pour les deux voyages que Me Haymour a effectués à Ottawa, mais à un taux réduit. Le voyage en classe affaires assure le confort des voyageurs, mais il s’agit d’une extravagance qui n’est pas justifiée pour un voyage national et qui n’est pas recouvrable dans une taxation entre parties. Je ne puis trouver de données historiques permettant de déterminer le coût des billets dans une autre classe au moment où ces voyages ont été effectués. Toutefois, les pleins tarifs actuels représentent à peu près la moitié du tarif de la classe affaires, et c’est cette fraction que j’admets.
+Voyage du 27 mars 2000 – 771,75 $, plus la TPS, ce qui comprend des frais d’améliorations aéroportuaires de 20 $
+Compte tenu de la mention rédigée à la main sur la facture mentionnée au paragraphe 62 ci‑dessus, le montant admis représente 25 p. 100 du prix total du billet d’avion.
+Voyage du 16 mai 2001 – 1 612,50 $, plus la TPS, ce qui comprend les frais d’améliorations aéroportuaires de 20 $.
+[64] J’admets également le coût d’une chambre d’hôtel, pour deux nuits. La première facture du Château Laurier indiquait un tarif de 219 $ et comportait une note manuscrite [traduction] « 1/2 exigé ». J’ai supposé que 50 p. 100 du coût de la chambre d’hôtel avait été inclus dans le montant global demandé. J’admets un montant de 114,98 $ pour la chambre d’hôtel à Ottawa, au mois de mars 2000, et un montant de 177,45 $ pour la chambre d’hôtel à Ottawa, au mois de mai 2001, soit un montant de 292,43 $ en tout (plus la TPS).
+[65] Me McNary a accompagné Me Haymour à Ottawa pour la seconde réunion qui a été tenue avec l’avocate de l’intimée en mai 2001. Puisqu’il agissait à titre de second avocat de l’appelant, j’admets les coûts associés à son voyage. Me McNary a voyagé en première classe et je réduirai le montant du billet d’avion de 50 p. 100. La qualité de la facture produite à l’appui était mauvaise et je puis tout au plus établir que le billet coûtait 2 977 $; j’admets donc un montant de 1 488,50 $ (plus la TPS).
+[66] J’admets également le coût de la chambre d’hôtel de Me McNary pour son voyage à Ottawa, au mois de mai 2001, de 177,45 $ (plus la TPS).
+[67] Me McNary semble avoir effectué des voyages à Calgary le 14 mai 2001 ainsi que les 28 mai et 28 août 2003, étant donné que des reçus de billets d’avion, deux nuits d’hébergement et des taxis étaient inclus dans les documents joints au premier affidavit de l’appelant, sous la côte L. L’examen des reçus ne m’a pas permis de déterminer l’objet des voyages de Me McNary les 14 mai 2001 et 28 mai 2003 et je n’admets pas les coûts associés à ces deux voyages.
+[68] J’admets les coûts associés au voyage de Me McNary à Calgary au mois d’août 2003 parce que je suis convaincue qu’il s’agissait d’un voyage nécessaire qu’il a effectué afin de préparer l’instruction de l’appel. Les montants admis sont de 354,58 $ pour les billets d’avion et de 135,45 $ pour une nuit d’hébergement, soit un montant de 490,03 $ en tout (plus la TPS).
+[69] Pour résumer les paragraphes 54 à 68, le montant global admis pour les déplacements et l’hébergement est de 8 382,90 $ (plus la TPS).
+REPAS
+[70] Je n’ai pas tenu compte des reçus produits sous la cote M à l’appui du montant de 548,07 $ demandé pour les repas. Si la demande ait été fondée sur les taux établis par le Secrétariat du Conseil du Trésor du Canada, le montant admissible pour les repas aurait été beaucoup plus élevé. J’admets ce montant de 548,07 $ (plus la TPS) à ce titre.
+FRAIS DE TAXI
+[71] La demande se rapportant aux taxis, de 633,40 $, était appuyée au moyen de la pièce N jointe au premier affidavit de l’appelant, soit les documents comptables internes de FMC, sans qu’aucun reçu ne soit produit. J’ai examiné les documents et j’admets un montant de 316,70 $ (plus la TPS), soit la moitié du montant demandé. Les frais de taxi ont été engagés par Me McNary pendant qu’il était à Calgary et à peu près la moitié du montant demandé se rapportait à des dépenses qu’il avait engagées au cours de la période pertinente.
+STATIONNEMENT
+[72] J’admets un montant de 40,76 $ (plus la TPS) pour le stationnement. J’ai examiné les reçus produits à titre de pièce O jointe au premier affidavit de l’appelant, et j’ai conclu qu’un montant de 40,76 $ se rapportait à des frais de stationnement engagés au cours de l’audience et au moment où la réunion en vue d’une transaction a eu lieu, au mois de mars 2000, avec l’avocate de l’intimée, à Ottawa.
+INTÉRÊTS APRÈS JUGEMENT
+[73] Le mémoire de frais renfermait une demande d’intérêts sur les dépens. Me Burnham a soutenu que les intérêts sur les dépens qui ont été accordés devraient courir à compter de la date du jugement de la Cour suprême du Canada. Me Haymour a déclaré que ces intérêts devraient courir à compter de la date du jugement de la Cour canadienne de l’impôt et qu’il ne devrait pas y avoir de rajustement. Ni l’une ni l’autre partie n’a invoqué de jurisprudence portant sur la question de l’octroi d’intérêts sur les dépens.
+[74] Bien que le seul point contesté, en ce qui concerne les intérêts sur les dépens, se rapporte à la date à compter de laquelle les intérêts commencent à courir, je ne crois pas être autorisée à accorder pareils intérêts. Ni la Loi sur la Cour canadienne de l’impôt ni les Règles ne renferment de dispositions à ce sujet. Par conséquent, je n’admets pas de montant au titre des intérêts sur les dépens.
+[75] Le mémoire de frais de l’appelant est taxé. Les montants dont il a été convenu au titre des frais s’élèvent à 26 175 $ et à 3 293,47 $ (plus la TPS) pour les débours. Puisque j’ai admis un montant supplémentaire de 32 830,27 $ (plus la TPS) pour les débours, le montant global qui est admis est de 64 827,40 $. Un certificat à ce montant sera délivré.
+Signé à Toronto (Ontario), ce 8e jour de mars 2010.
+« B.G. Tanasychuk »
+Officier taxateur
+Traduction certifiée conforme
+ce 13e jour d’août 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.

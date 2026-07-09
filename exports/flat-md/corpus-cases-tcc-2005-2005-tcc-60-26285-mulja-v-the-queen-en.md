@@ -1,0 +1,192 @@
+---
+title: "Mulja v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26285/index.do"
+last_modified: "2005-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 60"
+citation2: ""
+neutral_citation: "2005 TCC 60"
+decision_date: "2005-01-31"
+language: "en"
+item_id: "26285"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3297
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:06:11.413000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c8ce15280a1f1e1e6e2c8701d250412d9f11a114801720bf18b17316bed9299a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mulja v. The Queen
+
+- Citation: 2005 TCC 60
+- Decision date: 2005-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3297, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mulja v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-31
+Neutral citation
+2005 TCC 60
+File numbers
+2002-569(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-569(IT)G
+BETWEEN:
+THOMAS MULJA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 14 and November 22, 2004 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Ian Worland
+Counsel for the Respondent:
+Karen A. Truscott
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1998 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 31st day of January 2005.
+"L.M. Little"
+Little J.
+Citation: 2005TCC60
+Date: 20050131
+Docket: 2002-569(IT)G
+BETWEEN:
+THOMAS MULJA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant was born in Indonesia.
+[2] The Appellant moved to Canada in 1977 to study geology at Dalhousie University. He obtained a Bachelor of Science degree from Dalhousie University in 1981.
+[3] The Appellant obtained a Master of Science degree in geology from Lakehead University in 1989 and he obtained a Ph.D. from McGill University in 1995.
+[4] The Appellant became a Canadian citizen in 1986 and he surrendered his Indonesian citizenship at that time.
+[5] The Appellant and his spouse were married in Montreal in 1992 (following a traditional Southeast Asian marriage in Indonesia).
+[6] The Appellant's spouse immigrated to Canada from Indonesia in 1992.
+[7] The Appellant, his spouse and their child left Canada for Indonesia on February 1, 1995. The Appellant was initially employed by Atan Minerals in Indonesia and later Barrick Indonesia.
+[8] From March 1, 1996 to September 30, 1998 the Appellant was employed by PT Minorca Pratama Indonesia ("Pratama"). The Appellant was the President/Director of Pratama. The Appellant testified that 99% of the shares of Pratama were owned by Minorca Resources Inc., a Canadian company ("Minorca").
+[9] A Change of Control Agreement was signed on February 24, 1997 (see Exhibit A-1) between Minorca Resources Inc. PT Minorca Pratama Indonesia (the company carrying out the exploration work). The Agreement provided that if certain events happened, the Appellant would be entitled to severance payments equal to three times his annual salary from Pratama.
+[10] The Appellant's spouse and their child returned to Canada on July 27, 1997 and resided in a home purchased by the Appellant's spouse in July 1997. The house was located at 3709 Rutherford Crescent in North Vancouver.
+[11] In July 1997 the Appellant purchased a Toyota Camry automobile in Vancouver. The automobile was licenced in British Columbia and was registered in the Appellant's name.
+[12] After the Appellant's spouse and their two children were settled in the family home in North Vancouver the Appellant returned to his employment position in Indonesia.
+[13] When the Appellant was working in Indonesia he was issued temporary work permits by the Government of Indonesia.
+[14] The Appellant received employment income ("Employment Income") from Pratama in the amount of $138,425.00 in respect of the period commencing on January 1, 1998 and ending on September 30, 1998.
+[15] On May 29, 1998 the shareholders of Pratama decided to dissolve Pratama (see Exhibit A-2).
+[16] On September 30, 1998 the Appellant received a lump sum payment as a Retiring Allowance ("Retiring Allowance") in the amount of $480,000.00 pursuant to the terms of a Termination Agreement made between Minorca Resources Inc., Pratama and the Appellant (Exhibit A-3). The Retiring Allowance payment was paid to the Appellant in connection with the Appellant's termination of his employment with Pratama. The Appellant said that deductions totalling $144,000.00 were withheld by Minorca from the Retiring Allowance and remitted to Revenue Canada.
+[17] The Appellant testified that when his position with Pratama was terminated he was obliged to leave Indonesia within a short period of time. The Appellant returned to Canada on October 24, 1998.
+[18] The Appellant maintains that he paid $118,193.00 in taxes to the Government of Indonesia for his 1998 taxation year in respect of the Employment Income and the Retiring Allowance.
+[19] Counsel for the Respondent does not agree that any of the tax payments that were made to Indonesia were paid in connection with the Retiring Allowance.
+[20] The Minister of National Revenue (the "Minister") issued a Notice of Assessment (the "Assessment") for the Appellant's 1998 taxation year on October 4, 1999. The Assessment was issued on the basis that:
+(a) the Appellant was ordinarily resident in Canada for the 1998 taxation year and therefore was resident in Canada for purposes of the Income Tax Act ("the Act"), by virtue of subsection 250(3) of the Act, throughout the 1998 taxation year;
+(b) as a person resident in Canada throughout the 1998 taxation year, the Appellant was liable to tax on his taxable income as determined according to subsection 2(2) of the Act;
+(c) the Appellant was not entitled to an overseas employment tax credit under section 122.3 of the Act in respect of the Employment Income or the Lump Sum; and
+(d) the Appellant was not entitled to a foreign tax credit under section 126 of the Act in respect of income taxes of $118,193.00 paid to the Government of Indonesia in respect of the Employment Income and the Retiring Allowance.
+[21] On or about October 20, 1999, the Appellant filed a Notice of Objection in response to the Assessment.
+[22] On November 9, 2001, the Minister issued a Notification of Confirmation confirming the Assessment.
+B. ISSUES TO BE DECIDED:
+[23] (a) Was the Appellant resident in Canada for purposes of the Act during the period January 1, 1998 to October 24, 1998?
+(b) Was the Appellant liable to tax under the Act in respect of the Employment Income or the Retiring Allowance or both?
+(c) If the Appellant was a resident of Canada during the period January 1 to October 28, 1998, is the Appellant entitled to the following:
+(i) an overseas employment tax credit under section 122.3 of the Act; and (Note - at the hearing of the appeal counsel for the Appellant agreed that an overseas employment tax credit was not applicable in this situation.);
+(ii) a foreign tax credit under section 126 of the Act.
+(Note: The Minister allowed the Appellant to claim a foreign tax credit in the amount of $41,525.55. The evidence indicated that this foreign tax credit was allowed in connection with the salary received by the Appellant plus some miscellaneous items. However, no foreign tax credit was allowed by the Minister with respect to taxes paid on the Retiring Allowance.)
+C. ANALYSIS:
+[24] Was the Appellant resident in Canada for the purposes of the Act during the period January 1, 1998 to October 24, 1998?
+[25] In determining the question of residence the following factors should be noted:
+(a) the Appellant filed an income tax return with Revenue Canada for the 1998 taxation year in which he indicated that he was a resident of Canada. In the income tax return filed for the 1998 taxation year the Appellant reported the salary of $138,425.00. While the filing of an income tax return for a particular taxation year is not conclusive of residence it is one indication that the Appellant considered himself to be a resident of Canada for that year;
+(b) the Appellant also filed an income tax return for the 1997 taxation year. In that return the Appellant indicated that he had returned to Canada in July 1997 and that he was a resident of Canada for the remainder of the 1997 taxation year;
+(c) the Appellant and his spouse purchased a home at 3709 Rutherford Crescent, North Vancouver in July 1997. While the home was registered in the name of the Appellant's spouse the Appellant assumed the mortgage on the home. The Appellant's spouse and their two children resided in the North Vancouver home continuously from July 1997 throughout the 1998 taxation year. The Appellant and his family currently live in this home;
+(d) the Appellant purchased a Toyota Camry automobile in Vancouver in July 1997. The automobile was licenced in British Columbia and was registered in the Appellant's name. (Note: The Appellant testified that his spouse was unable to drive an automobile at that time.);
+(e) the Appellant obtained a British Columbia driver's licence in July 1997;
+(f) the Appellant travelled from Indonesia to Canada on 10 occasions in 1997 and seven occasions in 1998. During some of these trips the Appellant flew to Toronto and met with business officials in Toronto. The Appellant also visited with his spouse and family in North Vancouver during some of these trips;
+(g) the Appellant, his spouse and their two children were insured under the British Columbia Medical Plan commencing in July 1997;
+(h) the Appellant testified that on July 1, 1998 he and his spouse commenced to operate a consulting business in British Columbia by the name of Nexus Management Consultants;
+(i) the Appellant maintained a Visa credit card issued by the Canadian Imperial Bank of Commerce in Canada during the time that he was working in Indonesia;
+(j) the Appellant maintained a bank account in Canada while he was working in Indonesia;
+(k) the Appellant and his spouse maintained their Registered Retirement Savings Plan in Canada while the Appellant was working in Indonesia;
+(l) the Appellant was working in Indonesia on a temporary work permit and when his employment came to an end in September 1998 he was obliged to leave Indonesia within a short period of time; and
+(m) as noted above, the Appellant became a Canadian citizen in 1986 and he surrendered his Indonesian citizenship at the same time.
+[26] Based upon the many connections to Canada as outlined above and the temporary connections to Indonesia, I have concluded that the Appellant was a resident of Canada throughout the 1998 taxation year. The Appellant was therefore liable to tax on his taxable income as determined according to subsection 2(2) of the Act. The Appellant is therefore required to include the Employment Income and the Retiring Allowance in determining his income for the 1998 taxation year.
+[27] Is the Appellant entitled to claim a foreign tax credit under section 126 of the Act?
+[28] The Appellant testified that he made the following tax payments to the Government of Indonesia:
+Re: Salary - 380,590,914 Rupiah
+(Note: This amount was withheld by his employer and remitted to the Government of Indonesia)
+Re: Retiring Allowance - 335,376,000 Rupiah
+(See Exhibits A-6 and A-7)
+[29] The Appellant further testified that he made the payment of 335,376,000 Rupiah in connection with the Retiring Allowance after receiving advice from an Indonesian consultant by the name of Jayanegara, a consultant by the name of Sutanto and a tax accountant in Indonesia by the name of Hakeem.
+[30] I agree with the position maintained by Counsel for the Appellant that the Retiring Allowance should be considered to have arisen from a source in Indonesia. It therefore follows that the Appellant is subject to tax in Indonesia on the Retiring Allowance under the Canada-Indonesia Treaty.
+[31] The Notice of Appeal indicated that the Appellant paid $118,193.00 in taxes to the Government of Indonesia for the 1998 year. As is noted above the Minister allowed the Appellant to claim a foreign tax credit for the 1998 year in the amount of $41,523.55 leaving a difference of $76,669.45.
+[32] I am not convinced from the sometimes confusing evidence regarding the value of the Rupiah that the Appellant is entitled to claim a foreign tax credit in the amount of $76,669.45.
+[33] Based on the evidence of the Appellant and the documents submitted (see Exhibits A-6 and A-7) I have concluded that the Appellant paid tax of 335,376,000 Rupiah in Indonesia with respect to the Retiring Allowance. I have determined that the conversion factor that should be used to convert to Canadian dollars is $47,910.00 (See letter of Vicki Duke, the Appellant's accountant dated February 1, 2000 - Exhibit R-1, Tab 10).
+[34] I have concluded that the Appellant is entitled to claim a foreign tax credit in the amount of $47,910.00 under section 126 of the Act in connection with taxes paid to Indonesia on the Retiring Allowance.
+[35] Since success is divided I am not prepared to award costs.
+[36] The appeal is allowed, without costs, and the Appellant is entitled to claim an additional foreign tax credit in the amount of $47,910.00.
+Signed at Vancouver, British Columbia, this 31st day of January 2005.
+"L.M. Little"
+Little J.
+CITATION:
+2005TCC60
+COURT FILE NO.:
+2002-569(IT)G
+STYLE OF CAUSE:
+Thomas Mulja and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 14 and November 22, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+January 31, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Ian Worland
+Counsel for the Respondent:
+Karen A. Truscott
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ian Worland
+Firm:
+Legacy Tax & Trust Lawyers
+Vancouver, British Columbia
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

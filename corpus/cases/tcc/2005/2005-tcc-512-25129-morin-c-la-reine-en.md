@@ -1,0 +1,167 @@
+---
+title: "Morin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25129/index.do"
+last_modified: "2005-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 512"
+citation2: ""
+neutral_citation: "2005 TCC 512"
+decision_date: "2005-08-26"
+language: "en"
+item_id: "25129"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2585
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:25:07.572000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b805873ea6245b1ca7d19ab594eaa03f578c96fa8125e0cef4dcb6f2aeb97ec7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morin c. La Reine
+
+- Citation: 2005 TCC 512
+- Decision date: 2005-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2585, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morin c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-26
+Neutral citation
+2005 TCC 512
+File numbers
+2005-537(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-537(IT)I
+BETWEEN:
+RENÉ MORIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on August 4, 2005, at Québec, Quebec.
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999, 2000 and 2001 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of August 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of November 2005.
+John March, Translator
+Citation: 2005TCC512
+Date: 20050826
+Docket: 2005-537(IT)I
+BETWEEN:
+RENÉ MORIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] The only issue in this case is the penalties assessed for failure to report the amounts of $31,151, $24,268 and $4,989 respectively for the 1999, 2000 and 2001 taxation years.
+[2] In support of his appeals, the appellant essentially stated that he admitted he had not reported the amounts in question, arguing as grounds for his failure to do so that he had had such serious health problems that he had to be hospitalized. He explained that he had made errors and that he had not in any way intended to commit fraud.
+[3] The respondent, who had the burden of proof in this case, showed by the testimony of Caroline Gauthier that the appellant had repeatedly failed to report a large number of amounts during the three years in issue.
+[4] Furthermore, it appears that the three years in issue were part of a period during which the appellant's gross annual income declined sharply.
+[5] Lastly, the unreported gross income represented a significant percentage of reported income. The income subject to the penalty represented 37 percent of income reported for 1999, 32 percent of that reported for 2000 and 34 percent of that reported for 2001.
+[6] The failure to report these amounts, which consisted of a number of small amounts, was not the result of an error or an isolated oversight, particularly since the appellant himself made the entries and deposits as part of his activities.
+Other Important Facts
+[7] The appellant excluded from his income all of the payments received from the Syndicat des producteurs de bois de la région de Québec, as may be seen from the details appearing in Exhibit I-5.
+(Exhibit I-5, page 2)
+06-26-00
+07-07-00
+07-24-00
+07-31-00
+08-31-00
+09-11-00
+09-14-00
+09-25-00
+Syndicat des producteurs de bois de la Région de Québec
+Syndicat des producteurs de bois de la Région de Québec Syndicat des producteurs de bois de la Région de Québec Syndicat des producteurs de bois de la Région de Québec Syndicat des producteurs de bois de la Région de Québec Syndicat des producteurs de bois de la Région de Québec Syndicat des producteurs de bois de la Région de Québec Syndicat des producteurs de bois de la Région de Québec
+page 5
+page 3
+page 2
+page 4
+page 7
+page 6
+page 9
+page 8
+$2,249.67
+$1,968.10
+$120.12
+$2,002.96
+$2,039.40
+$2,106.89
+$4,070.27
+$956.88
+Total of unexplained deposits - See WS # 5000 page 6/6
+Additional income
+$19,761.11
+$35,275.40
+[8] While the explanations provided by the appellant do elicit sympathy, they are unfortunately not enough to nullify, or even lessen, the seriousness of the many, clearly deliberate omissions.
+[9] It was shown on a preponderance of proof, the burden of which was on the respondent, that the unreported amounts resulted, without a doubt, from wilful omissions, the purpose of which was to reduce taxable income substantially, thus warranting the penalties assessed under the Income Tax Act.
+[10] On this point, it is helpful to cite a passage from the decision in Venne v. Canada, 84 D.T.C. 6247 (F.C.T.D.), in which Strayer J. wrote:
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[11] I also cite a passage from the decision in Morgan v. Canada, T.C.C. 93-1642(IT)G, August 3, 1995, [1995] T.C.J. No. 771, in which Judge Rip held as follows, in paragraph 29:
+I sympathize with people such as the appellant who have suffered health and related problems. However, I do not accept the appellant's claim that his illnesses contributed meaningfully to the omission. Attached to his statement of income and expenses is a list of expenses setting out the amount he paid in 1990 to each contractor and for each publication. He calculated expenses for courier, printing, "equipment documents" and clothing. His illnesses did not prevent him from assembling his receipts or records for amounts he claimed as expenses. The appellant's records were in good order and his state of mind was clear when he prepared his 1990 tax returns. If his illness did prevent him from properly filing his return he did nothing later on to correct any problem. There is no evidence that once he got over his illness, for example, he reviewed his tax return to satisfy himself that what he did during his illness was acceptable and the income he reported was accurate.
+[12] For all these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 26th day of August 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of November 2005.
+John March, Translator
+CITATION: 2005TCC512
+COURT FILE NO.: 2005-537(IT)I
+STYLE OF CAUSE: René Morin and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 4, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Alain Tardif
+DATE OF JUDGMENT: August 26, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respnodent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

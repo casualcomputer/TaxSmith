@@ -1,0 +1,113 @@
+Title: Dechant v. Human Resources
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28830/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-459-28830-dechant-v-human-resources-en.md
+Document type: case_law
+Last modified: 2008-08-12
+
+# Dechant v. Human Resources
+
+- Citation: 2008 TCC 459
+- Decision date: 2008-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1340, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dechant v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-12
+Neutral citation
+2008 TCC 459
+File numbers
+2006-46(OAS)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2006-46(OAS)
+BETWEEN:
+HUBERT DECHANT,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES AND SOCIAL DEVELOPMENT,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 11, 2008, at Grande Prairie, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+George F. Body
+____________________________________________________________________
+JUDGMENT
+The appeal made under subsection 28(2) of the Old Age Security Act in respect of the July 2005 to June 2006 payment period is allowed, without costs, and the decision of the Minister is vacated.
+Signed at Vancouver, British Columbia, this 12th day of August 2008.
+“L.M. Little”
+Little J.
+Citation: 2008 TCC 459
+Date: 20080812
+Docket: 2006-46(OAS)
+BETWEEN:
+HUBERT DECHANT,
+Appellant,
+and
+THE MINISTER OF HUMAN RESOURCES AND SOCIAL DEVELOPMENT,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] The Appellant is a grain farmer. The Appellant’s farm is located at Hawk Hills, Alberta. Hawk Hills is approximately 18 miles north of the town of Manning in the Peace River area of Alberta.
+[2] The Appellant stated that he and his family own 2,200 acres of cultivated property. Approximately 1,000 acres have been rented to other parties and the Appellant and his family farm approximately 1,200 acres. The Appellant said that he commenced his farming operation in 1951.
+[3] The Appellant has elected to report his farming income on a cash basis.
+[4] When the Minister of Social Development (the “Minister”) calculated the Appellant’s income for 2004, he determined that the Appellant had income for the year in the amount of $9,679.00.
+[5] Based on the Appellant’s income of $9,679.00, the Minister determined that the Appellant was entitled to a Guaranteed Income Supplement of $165.24 per month for the Payment Period. The Payment Period in issue is July 1, 2005 to June 30, 2006.
+[6] In reporting his income on a cash basis the Appellant cannot deduct accounts payable.
+[7] The Appellant stated that he owed $31,000.00 to the U.F.A. Grimshaw and the Appellant agreed that he did not pay this amount in the 2004 taxation year.
+B. Issue
+[8] The issue is whether the Minister correctly determined the Appellant’s income for the 2004 taxation year.
+C. Analysis and Decision
+[9] The appeal was heard in Grande Prairie, Alberta. The appeal was by way of a referral from the Office of the Commissioner of Review Tribunals pursuant to subsection 28(2) of the Old Age Security Act.
+[10] The Guaranteed Income Supplement (“GIS”) amount payable under Part II of the Old Age Security Act for a particular payment period is based on the income computed in accordance with the provisions of the Income Tax Act for the calendar year ending before that particular payment period.
+[11] In calculating the GIS payable to the Appellant for the Payment Period, the Minister used the Appellant’s reported income for the 2004 taxation year.
+[12] The Appellant does not dispute the amount that he reported as income for the 2004 taxation year.
+[13] At trial the issue revolved around the deductibility of the amount of $31,000.00 that the Appellant owed to U.F.A. Grimshaw. If the Appellant had deducted the amount of $31,000.00 in determining his income for the 2004 taxation year, his GIS entitlement for the Payment Period would have been higher.
+[14] During the trial the Appellant stated that he paid U.F.A. Grimshaw in 2005 and reported the payment when he filed his income tax return for the 2005 taxation year.
+[15] Section 28(2) of the Income Tax Act provides that farmers may elect to report their income on a cash basis. If income is reported on a cash basis, expenses must be deducted in the year they are paid.
+[16] Section 28(1) of the Income Tax Act provides that when the Appellant elected to file his income tax return using the cash method, the Appellant is required to continue to use the cash method for reporting income unless he receives the concurrence of the Minister of National Revenue to adopt some other method upon such terms and conditions as the Minister may specify (see Section 28(3) of the Income Tax Act).
+[17] In my opinion it would be possible for the Appellant to report his income under the Income Tax Act for the 2004 taxation year using a cash basis and he may also adopt an accrual position for the purposes of the Old Age Security Act. If the Appellant adopted the accrual position with the concurrence of officials of the Minister of National Revenue, he would deduct the $31,000.00 owing to U.F.A. Grimshaw.
+[18] During the trial George F. Body, Counsel for the Respondent, acknowledged that the Appellant could adopt a cash approach for the purposes of the Income Tax Act and an accrual approach for the purposes of the Old Age Security Act.
+[19] Support for the position outlined in paragraphs [17] and [18] above can be found in the appeal of Samuel Gerstel v. Canada (Minister of Human Resources Development), 2005 TCC 64.
+[20] In that case Justice Angers of the Tax Court of Canada said at paragraph [16]:
+In my opinion, the appellant can claim CCA deductions for the purposes of the OASA and not claim same for income tax purposes. …
+Note: The decision of Justice Angers was upheld by the Federal Court of Appeal (see The Minister of Human Resources Development v. Samuel Gerstel, 2006 FCA 93).
+[21] The appeal is allowed without costs. If the Appellant wishes to accept this position, he must approach officials of the Minister of National Revenue and obtain the permission of the Minister to maintain two sets of books – a set of books using the cash basis for the purposes of the Income Tax Act and a set of books using the accrual basis for the purposes of the Old Age Security Act. If the Appellant wishes to follow the approach outlined above, he must finalize his discussions with officials of the Minister on or before December 31, 2008.
+Signed at Vancouver, British Columbia, this 12th day of August 2008.
+“L.M. Little”
+Little J.
+CITATION: 2008 TCC 459
+COURT FILE NO.: 2006-46(OAS)
+STYLE OF CAUSE: Hubert Dechant and
+The Minister of Human Resources and Social Development
+PLACE OF HEARING: Grande Prairie, Alberta
+DATE OF HEARING: June 11, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: August 12, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+George F. Body
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

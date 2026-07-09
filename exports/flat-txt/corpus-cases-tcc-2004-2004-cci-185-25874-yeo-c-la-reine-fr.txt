@@ -1,0 +1,90 @@
+Title: Yeo c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25874/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-185-25874-yeo-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-03-19
+
+# Yeo c. La Reine
+
+- Citation: 2004 CCI 185
+- Decision date: 2004-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3868, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yeo c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-19
+Référence neutre
+2004 CCI 185
+Numéro de dossier
+2002-1999(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑1999(IT)G
+ENTRE :
+HARRY YEO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 février 2004 à Halifax (Nouvelle‑Écosse)
+Devant : L’honorable juge Georgette Sheridan
+Comparutions :
+Avocats de l’appelant :
+Me P. Robert Arkin et
+Me Jonathan Kenyon
+Avocat de l’intimée :
+Me Marcel Prevost
+_________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1996 est admis avec dépens et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci‑joints.
+Conformément aux motifs du jugement datés du 19 mars 2004, l’appel de l’appelant a été admis sans attribution des dépens. Dans une lettre datée du 13 avril 2004, l’avocat de l’appelant a demandé que les dépens soient adjugés à l’appelant en application de l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale). Il a aussi fait valoir que la Cour devrait exercer son pouvoir discrétionnaire et adjuger les dépens conformément à la catégorie C du tarif B et non pas à la catégorie A du tarif B de l’annexe II. Par une lettre datée du 15 avril 2004, l’avocat de l’intimée a concédé les dépens à l’appelant mais il a demandé à la Cour que l’instance demeure dans la catégorie A. L’avocat de l’appelant a déposé une réfutation écrite le 22 avril 2004.
+Après lecture des pièces versées au dossier et après avoir examiné toutes les circonstances de l’affaire au vu des facteurs énumérés au paragraphe 147(3) des Règles de la Cour canadienne de l’impôt (procédure générale), la Cour n’est pas convaincue par les arguments de l’appelant. Par conséquent, les dépens entre parties sont adjugés à l’appelant conformément à la catégorie A du tarif B de l’annexe II.
+Le présent jugement modifié est substitué au jugement daté du 19 mars 2004.
+Signé à Ottawa, Canada, ce 18e jour de mai 2004.
+« G. Sheridan »
+J. Sheridan
+Traduction certifiée conforme
+ce 29e jour de juillet 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI185
+Date : 20040518
+Dossier : 2002-1999(IT)G
+ENTRE :
+HARRY YEO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+QUESTIONS EN LITIGE :
+[1] Harry Yeo est un ingénieur civil. En 1996, M. Yeo a transféré sa maison et son contenu pour la somme de 712 000 $, aux Daijoch Enterprises Ltd., dont il est l’unique actionnaire et administrateur. Le ministre du Revenu national conteste tant l’inclusion du contenu de la maison dans le transfert, que la valeur qui leur a été attribuée. Le ministre fait valoir de plus qu’en 1996 la juste valeur marchande de la propriété (sans tenir compte du contenu) n’était que de 520 000 $ et que, par conséquent, la différence de 182 000 $ entre le prix du transfert et la juste valeur marchande aurait dû être ajoutée dans la déclaration de revenus de M. Yeo en tant qu’avantage imposable provenant de Daijoch.
+ANALYSE
+1. Le contenu de la maison était‑il compris dans le transfert de la maison? Si tel est le cas, qu’elle en était la valeur?
+[2] Outre Daijoch, M. Yeo est aussi l’unique actionnaire de sa compagnie de génie, East Coast Steel (ECS). En 1990, ECS a entamé la construction d’une maison de quatre chambres à coucher sur un terrain sur le bord de l’eau d’une superficie de 0,37 acres, situé au 5 Devon Court, un cul-de-sac de seulement trois maisons dans un quartier chic de Charlottetown avec vue sur le port. ESC était auparavant propriétaire de l’ancienne résidence de M. Yeo et de son contenu. En 1992, la nouvelle maison, le contenu de la résidence antérieure et quelques meubles d’acquisition récente ont été transférés d’ECS à M. Yeo et son épouse d’alors. M. Yeo a continué son rôle de chef d’équipe et de préposé aux achats pour terminer la construction de sa nouvelle maison. Il a témoigné que la maison située au 5 Devon Court était [traduction] « la maison de sa vie » et il semble certainement avoir conçu et construit chaque détail de cette résidence avec une passion exclusive. Il a calculé avoir consacré à ce projet environ 1 500 heures. À un moment donné au cour de cette période, le mariage de M. Yeo a commencé à se désintégrer, puis en 1996, ce dernier a transféré la maison située au 5 Devon Court à son holding financier Daijoch, pour un montant de 712 000 $. Bien que le contenu n’ait pas été mentionné explicitement dans l’acte de transfert, M. Yeo a témoigné qu’il avait toujours eu l’intention de l’inclure dans l’acte de transfert foncier. En 2002 il a été informé par l’ADRC que le transfert du contenu aurait dû être justifié. M. Yeo a donc dressé une liste du contenu et en a évalué la valeur à un montant situé entre 57 000 $ et 62 000 $. Il a transmis ces données à son comptable M. Fitzgerald, qui a préparé un document consignant la transaction avec effet rétroactif à compter du 22 mai 1996.
+[3] La Cour est convaincue que le contenu a fait l’objet du transfert à Daijoch en 1996, tout comme la maison et le terrain. Cela est conforme aux pratiques antérieures de M. Yeo, c’est‑à‑dire au transfert que M. Yeo aurait fait faire à ECS d’une maison et de son contenu en son nom, en 1992. Bien qu’il se soit rendu compte de l’importance de ces distinctions juridiques grâce au présent appel, en tant que propriétaire unique de ses compagnies M. Yeo ne perçoit pas de différence pratique entre lui‑même, ECS et Daijoch. Son intention de transférer le contenu de la maison située au 5 Devon Court à Daijoch reflète parfaitement son désir clairement exprimé de protéger ses actifs. Si l’on tient compte de tous ces éléments, il n’est pas logique de croire que M. Yeo aurait voulu conserver à titre personnel la propriété du contenu de sa maison tandis qu’il transférait la maison à Daijoch. Sur le fondement de la preuve présentée, la valeur du contenu est raisonnablement évaluée à 59 500 $, soit environ la moyenne des valeurs extrêmes proposées par M. Yeo.
+2. Quelle est la juste valeur marchande de la propriété située au 5 Devon Court et de son contenu?
+[4] La valeur du contenu ayant été évaluée à 59 500 $, il ne nous reste qu’à établir la juste valeur marchande de la propriété située au 5 Devon Court. Le ministre et M. Yeo ont cité des témoins experts. La Cour admet le témoignage de M. Jack Ives, l’évaluateur cité par M. Yeo qui a 25 ans d’expérience comme agent immobilier sur le marché d’habitation de Charlottetown. Il est membre de l’Institut canadien de l’immeuble, et évaluateur résidentiel canadien auprès de l’Institut canadien des évaluateurs. M. Ives a fait une évaluation de la propriété située au 5 Devon Court en 1998 et en a évalué la juste valeur marchande en utilisant deux techniques différentes : celle de la parité et celle du coût, pour rejeter éventuellement la technique de la parité en raison du manque de ventes raisonnablement comparables. La construction sur mesure du bâtiment situé au 5 Devon Court, ainsi que le caractère incomparable de sa localisation centrale, mais isolée et sur le bord de l’eau, rend difficile la tâche de trouver des ventes de maisons équivalentes. Il a effectivement trouvé deux ventes possibles pouvant servir de référence pour la technique de la parité, mais il a conclu que les chiffres n’étaient pas crédibles en raison des « [traduction] ajustements considérables » devant être appliqués pour être bien certain de comparer « des pommes avec des pommes ».
+[5] Pour ces raisons, M. Ives a utilisé la technique du coût pour fixer la juste valeur marchande de la propriété située au 5 Devon Court. Il a évalué la valeur du terrain, comme s’il était inoccupé et utilisé de manière optimale. Puis, il a évalué le coût de remplacement de toutes les améliorations apportées au terrain et aux bâtiments, moins l’amortissement. M. Ives a analysé la localisation et la superficie du terrain, et il a inspecté la maison de fond en comble. Des photographies de nombreuses parties de la propriété ont été déposées comme pièces. Bien que le rapport d’évaluation ait été fondé sur des facteurs datant de l’année 1998, il estimait que la valeur de la maison n’avait pas changé de manière significative depuis 1996, en raison de son caractère unique. En contre‑interrogatoire, l’évaluateur cité par le ministre a concédé que cette conclusion pouvait être exacte. Sur le fondement de cette méthode, M. Ives a évalué la juste valeur marchande de la propriété à 650 000 $.
+[6] La Cour est satisfaite selon la prépondérance des probabilités qu’il s’agit de la valeur exacte. Le témoin expert cité par le ministre avait proposé la valeur inférieure de 520 000 $. La preuve de l’évaluateur du ministre n’était pas convaincante : il a insisté sur la supériorité de la technique de la parité, malgré l’insuffisance de comparateurs crédibles. La crédibilité de son évaluation, basée sur quelques ventes pouvant être considérées « comparables », est d’autant plus douteuse qu’il n’a pas pu inspecter une des propriétés comparables figurant dans son rapport, que l’évaluation d’une autre propriété était désuète et qu’il aurait fallu effectuer des ajustements de plus de 100 000 $ pour convertir les autres propriétés en comparateurs raisonnables s’en rapprochant. Contrairement à M. Ives, l’évaluateur du ministre ne connaissait pas à fond le marché immobilier dans l’Île‑du‑Prince‑Édouard et il a dû se fier aux opinions de sources anonymes [traduction] « du domaine du marché immobilier » pour tirer ses conclusions. Une autre – et importante – faiblesse de son évaluation est le fait qu’il n’a jamais mis le pied dans la propriété de Devon Court. Il n’a jamais vu la partie arrière de la maison qui descend de trois étages sur une grande terrasse en bois, qui à son tour descend sur un quai. Il n’a jamais vu le panorama de 180o du port qui s’étend devant la fenêtre de la chambre principale. Il n’a vu que l’extérieur d’une maison de deux étages située au 5 Devon Court, à partir de la bordure du trottoir. Ces facteurs, combinés avec son acceptation de l’évaluation effectuée par M. Ives quant à l’intérieur de la maison, lui ont servi de base pour établir la valeur du bien lui‑même.
+[7] Par conséquent, la Cour admet la preuve de M. Yeo que la juste valeur marchande de la propriété située au 5 Devon Court est de 650 000 $. Si on combine ce montant à la valeur estimée du contenu s’élevant à 59 500 $, nous obtenons un total de 709 500 $. L’appel est admis et la nouvelle cotisation pour l’année 1996 est déférée au ministre pour nouvel examen et nouvelle cotisation conformément aux présents motifs.
+Signé à Ottawa, Canada, ce 18e jour de mai 2004.
+« G. Sheridan »
+J. Sheridan
+Traduction certifiée conforme
+ce 29e jour de juillet 2004.
+Ingrid B. Miranda, traductrice

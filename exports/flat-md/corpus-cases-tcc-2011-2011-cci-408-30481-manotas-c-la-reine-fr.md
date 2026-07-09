@@ -1,0 +1,141 @@
+---
+title: "Manotas c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30481/index.do"
+last_modified: "2011-08-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 408"
+citation2: ""
+neutral_citation: "2011 CCI 408"
+decision_date: "2011-08-29"
+language: "fr"
+item_id: "30481"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7280
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:39:38.615000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1b261735f7744f3932b0cbe3e9b75774aefcc3103842d8e8da3f25bfcd9973f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Manotas c. La Reine
+
+- Citation: 2011 CCI 408
+- Decision date: 2011-08-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7280, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manotas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-08-29
+Référence neutre
+2011 CCI 408
+Numéro de dossier
+2010-250(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-250(IT)I
+ENTRE :
+MARTHA MANOTAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 18 août 2011, à Toronto (Ontario)
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Erin Strashin
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles déterminations établies en vertu de la Loi de l’impôt sur le revenu pour les années de base 2005, 2006 et 2007 sont rejetés.
+Signé à Ottawa, Canada, ce 29e jour d’août 2011.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 18e jour d’octobre 2011.
+Marie-Christine Gervais
+Référence : 2011 CCI 408
+Date : 20110829
+Dossier : 2010-250(IT)I
+ENTRE :
+MARTHA MANOTAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Bowie
+[1] Mme Manotas fait appel des nouvelles déterminations du ministre du Revenu national (le « ministre ») relatives à son admissibilité à la prestation fiscale canadienne pour enfants (« PFCE ») et au crédit pour taxe sur les produits et services (« CTPS ») en vertu des dispositions de la Loi de l’impôt sur le revenu[1] (la « Loi ») pour les années de base 2005, 2006 et 2007. Mme Manotas a également fait l’objet d’une nouvelle cotisation qui supprimait de son revenu déclaré tous les revenus gagnés à l’étranger. Le ministre allègue avoir établi ces nouvelles déterminations et nouvelles cotisations parce qu’il a conclu que Mme Manotas n’était pas, au cours de ces années, une résidente du Canada. Les nouvelles déterminations ont entraîné pour l’appelante l’obligation de rembourser au total 13 711,68 $ de PFCE et 1 599,14 $ de CTPS qui lui avaient été versés entre juillet 2006 et juin 2009.
+[2] L’article 122.5 de la Loi prévoit quels particuliers peuvent bénéficier du CTPS et l’article 122.6, ceux qui peuvent bénéficier de la PFCE. Dans les deux cas, le bénéficiaire, soit « le particulier admissible » selon les termes de la Loi, doit être résident du Canada afin d’avoir droit à la prestation[2]. La seule question en litige dans cette affaire est de savoir si Mme Manotas était résidente du Canada pendant les années en cause. Pour les motifs qui suivent, je suis d’avis qu’elle ne l’était pas. Ses appels doivent donc être rejetés.
+[3] Mme Manotas est née en Colombie. Elle est arrivée au Canada en 1985 avec sa famille et est devenue citoyenne canadienne. Elle a épousé un citoyen canadien d’origine italienne et a vécu avec lui à Brampton, en Ontario, où ils ont loué un appartement de 1993 à 2001. Pendant ce temps, ils ont eu un enfant. En septembre 2001, son époux a accepté un poste de recherche à l’Université de Padoue, à Vicence, en Italie, et l’appelante a déménagé avec lui et leur fils. À Vicence, ils ont signé un bail d’une durée de huit ans pour un appartement et, depuis l’expiration du bail, ils continuent d’y vivre en location mensuelle.
+[4] Depuis leur déménagement à Vicence, l’appelante et son époux ont eu deux enfants, dont l’un est né en 2003 et l’autre, en 2006. L’appelante est devenue citoyenne italienne en 2007. Son époux a quitté son poste de recherche pour un poste en enseignement dans la même institution. L’appelante occupe un poste de secrétaire à temps partiel et les deux enfants plus âgés sont inscrits à l’école à Vicence. La plus jeune enfant va à l’école maternelle. La famille fréquente une église à Vicence.
+[5] L’appelante a fourni la preuve des liens qu’elle maintient avec le Canada. Elle utilise l’adresse de ses parents à Mississauga, en Ontario, comme adresse postale canadienne. Elle dispose de certains biens encore entreposés chez ses parents : quelques vêtements, un bureau, un canapé, une table de nuit et une commode. Elle a des prêts étudiants à rembourser aux gouvernements fédéral et provincial, une carte de crédit canadienne ainsi qu’un compte dans une banque canadienne dont le solde est d’environ 175 $. Elle cotise aussi à un régime enregistré d’épargne-études dans une banque canadienne pour la plus jeune des enfants, et avec son époux, elle cotise à un autre régime enregistré d’épargne‑études, de la Fondation pour l’éducation des enfants du Canada, pour leur fils. L’appelante détient également un permis de conduire et un passeport canadien. Elle n’a pas d’autres biens au Canada et n’adhère à aucune organisation sociale ou religieuse du pays.
+[6] En quittant le Canada, l’appelante a exprimé l’intention d’y revenir dans 30 mois. En janvier 2009, elle a rempli un questionnaire dans lequel elle a déclaré qu’elle aimerait revenir au Canada dans environ cinq ans. Elle a témoigné que ses trois sœurs avaient toutes une entreprise et que, dans l’éventualité de son retour au Canada, elle aurait un emploi dans l’une ou l’autre de ces entreprises. Elle a également témoigné qu’elle ne reviendrait pas vivre au Canada avant que sa plus jeune enfant ne soit en âge d’aller à l’école, car elle n’aurait pas les moyens de payer le service de garde.
+[7] Dans le questionnaire qu’elle a rempli en 2009, Mme Manotas a déclaré qu’elle voyage au Canada une fois par année pour des raisons familiales ainsi que pour des raisons relatives à ses prêts bancaires. Au cours de l’instruction, elle a d’abord déclaré qu’elle avait voyagé au Canada environ une fois par année depuis 2001, mais, par la suite, elle a modifié son témoignage et mentionné qu’elle s’y était rendue quatre ou cinq fois depuis 2001. Lors de ces visites, elle emmène ses enfants et demeure durant trois ou quatre semaines chez ses parents à Mississauga.
+[8] Brille par son absence de la preuve toute information relative au désir ou à l’intention de l’époux de l’appelante de revenir vivre au Canada. Il semble que la carrière de l’époux, ou peut-être aussi le fait que la famille de ce dernier soit en Italie, ait été le principal élément ayant motivé la famille à déménager dans ce pays. L’époux de Mme Manotas n’a pas témoigné, et l’appelante n’a pas non plus fait état de ses intentions lors de son témoignage.
+[9] Il est clair que l’appelante est une résidente de l’Italie, et ce depuis 2001. Cette constatation ne règle cependant pas la question dont je suis saisi. Il est bien établi qu’un contribuable peut être résident de deux pays différents à la fois; ce n’est pas contesté en l’espèce. La question à laquelle je dois répondre est de savoir si l’appelante, lorsqu’elle a déménagé en Italie et qu’elle est devenue résidente de ce pays, a conservé des liens personnels et économiques avec le Canada suffisamment étroits pour que le maintien de sa résidence soit justifié. Je suis d’avis que ce n’est pas le cas. Il n’y a pas lieu de croire que les quelques biens restés à l’appartement de ses parents ont une quelconque valeur économique ou affective importante. Ses prêts étudiants constituent une dette dont elle ne pouvait disposer à sa guise. Son compte bancaire affiche un faible solde et il n’y a pas de preuve d’un usage fréquent important.
+[10] J’accorde peu d’importance à l’intention exprimée par l’appelante de revenir vivre un jour au Canada. Au mieux, l’expression de cette intention est à la fois imprécise et intéressée. Sa déclaration faite en quittant le Canada selon laquelle elle avait l’intention d’y revenir dans 30 mois ne concorde visiblement pas avec la signature d’un bail de huit ans à son arrivée à Vicence. Est absente de son témoignage l’importante question des intentions et des chances de promotion de son époux en Italie et au Canada. La tendance de l’appelante à exagérer le nombre de ses visites au Canada, d’abord en déclarant qu’elles étaient annuelles, puis en réduisant d’environ la moitié ce nombre, rend son témoignage moins crédible sur les questions de nature subjective.
+[11] Dans tous les cas, en l’espèce, ce n’est pas l’intention de l’appelante, mais la profondeur et la solidité des liens maintenus avec le Canada qui permettent d’établir si elle était résidente, et ces liens ne sont ni nombreux ni solides. Ses parents et ses sœurs constituent son lien le plus important avec le Canada, mais la présence de la famille n’est pas suffisante pour que la résidence soit maintenue.
+[12] Je n’ai pas négligé le fait que l’appelante a produit des déclarations de revenus annuelles au Canada, ni le fait qu’au moment de son départ du pays, le ministre a considéré qu’elle était une [traduction] « résidente de fait du Canada ». Les particuliers ne peuvent établir leur résidence canadienne, lorsque c’est économiquement avantageux pour eux, simplement en produisant une déclaration de revenus en vertu de la Loi. Le ministre n’est pas non plus lié par les conclusions qu’il a formulées il y a dix ans concernant la résidence de l’appelante. Les circonstances de fait changent et les conclusions aussi. Toutefois, même dans le cas où les circonstances demeurent inchangées, le ministre est libre de formuler ultérieurement une opinion différente relativement aux conséquences juridiques des circonstances. Il est bien établi que si le ministre arrive à une conclusion erronée en établissant la cotisation d’un contribuable (ou en déterminant le droit à des crédits remboursables), il n’est pas tenu de répéter cette erreur à perpétuité : voir Nedelcu c. La Reine[3].
+[13] Ma conclusion est que lorsque l’appelante a déménagé en Italie avec son époux et leur fils en 2001, ce pays est devenu leur lieu de résidence principale, et que les quelques liens maintenus avec le Canada depuis ce temps sont insuffisants pour justifier maintien de sa résidence dans notre pays. Les appels sont donc rejetés.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2011.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 18e jour d’octobre 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011 CCI 408
+NO DU DOSSIER DE LA COUR : 2010-250(IT)I
+INTITULÉ : MARTHA MANOTAS c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 18 août 2011
+MOTIFS DU JUGEMENT
+MODIFIÉS : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 29 août 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Erin Strashin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R. (1985), ch.1 (5e suppl.), dans sa version modifiée.
+[2] La Loi, paragraphes 122.5(1) et 122.5(2) et article 122.6.
+[3] 2008 CCI 417, confirmé par 2010 CAF 156.

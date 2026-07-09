@@ -1,0 +1,234 @@
+Title: 741290 Ontario Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29080/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-55-29080-741290-ontario-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-30
+
+# 741290 Ontario Inc. v. The Queen
+
+- Citation: 2008 TCC 55
+- Decision date: 2008-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6826, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+741290 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-30
+Neutral citation
+2008 TCC 55
+File numbers
+2007-3055(IT)I
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3055(IT)I
+BETWEEN:
+741290 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Respondent’s Motion to Quash the Appellant’s Notice of Appeal
+heard on September 28, 2007
+and continued on October 25, 2007, at Toronto, Ontario
+Before: The Honourable Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellant:
+Osborne G. Barnwell
+Counsel for the Respondent:
+Samantha Hurst
+ORDER
+Upon rendering a decision with respect to Respondent’s Motion to Quash:
+IT IS ORDERED THAT:
+The Motion to Quash is dismissed as it relates to the Income Tax Act assessments and the Respondent has 60 days from the date of this Order to file its Reply to the Notice of Appeal;
+The Motion to Quash is granted as it relates to the Canada Pension Plan assessments and the Employment Insurance Act/Unemployment Insurance Act assessments:
+all in accordance with the attached Reasons for this Order.
+There will be no order as to costs.
+Signed at Ottawa, Canada, this 30th day of January, 2008.
+"E. P. Rossiter"
+Rossiter, J.
+Citation: 2008TCC55
+Date: 20080130
+Docket: 2007-3055(IT)I
+BETWEEN:
+741290 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Rossiter, J.
+A. Introduction/Background
+[1] The Appellant was assessed by Canada Revenue Agency (“CRA”) for failure to pay source deductions from 1991 to 1999. The Appellant asserts it has never received Notices of Assessment for the 1991 to 1999 taxation years. The Respondent asserts that the Notices were mailed to the Appellant at its registered business address and that it also provided to the Appellant reconstructed Notices of Assessment in 2006. The Appellant, in the meantime had; (1) made five applications under the so called Fairness Provisions of the Income Tax Act (or other acts as the case may be); (2) made numerous payments on the account as well as received ongoing statements of accounts; and (3) had discussions with representatives of CRA. The Respondent brought a Motion to Quash the Appeal.
+B. Issue
+[2] The application brings forth a single issue.
+Did the Appellant bring its appeal to the Tax Court of Canada within the appropriate limitation periods with respect to unremitted source deductions under the Unemployment Insurance Act (“UIA”), Employment Insurance Act (“EIA”), Canada Pension Plan (“CPP”) and the Income Tax Act (“ITA”)?
+C. Facts
+[3] The Appellant was a corporation operating a nursing home in Toronto, Ontario in the 1990's with the business ceasing operations in 1998. From 1991 through to 1999 the Appellant was assessed for failure to pay source deductions with respect to income tax, unemployment insurance and CPP premiums. CRA asserts that it mailed Notices of Assessment between April 13, 1992 and July 14, 1999, to the Appellant at its registered business address which remained the same throughout the 10 year operation of the nursing home in Toronto. Throughout this period of time, the Appellant made numerous payments on both its current and arrears accounts to CRA. The Appellant also applied on five occasions for relief pursuant to the Fairness Provisions of the applicable act:
+1. On July 13, 1993, CRA granted relief from a penalty assessed in the amount of $24,658.51 and further interest in the amount of $15,452.39 in relation to the Appellant's 1991 and 1992 debts.
+2. On November 21, 1994, the CRA denied a second Fairness application made by the Appellant.
+3. On January 17, 1997, CRA denied a third Fairness application made by the Appellant.
+4. On March 15, 2001, CRA denied a fourth Fairness application made by the Appellant.
+5. On February 15, 2004, the Appellant’s principal, Stella Pinnock, inquired about other requests she had made to CRA in seeking an appeal before the Fairness Review Committee.
+6. On March 3, 2004, the Appellant was advised that no further reviews would take place until Mr. and Mrs. Pinnock’s director’s liability appeals relating to the Appellant were resolved.
+7. On November 15, 2005, a fifth Fairness application made by the Appellant was denied.
+[4] CRA also obtained three Certificates and Writs of Seizure from the Federal Court of Canada with respect to the amounts payable due to the Appellant's unremitted source deductions, penalties and interest (December 8, 1994, September 29, 1998 and January 17, 2005).
+[5] On November 25, 2005 the Appellant applied to the Federal Court of Canada for a stay of the collection action initiated against the Appellant by CRA and it was during these proceedings that CRA reconstructed the Notices of Assessment issued on 2006.
+[6] On January 23, 2007, the Appellant attempted to file 87 Notices of Objection with CRA relating to the Notices of Assessment.
+[7] On March 22, 2007, CRA advised the Appellant by correspondence that the time for objecting to the assessments had expired and that CRA would not accept the objections.
+[8] On April 2, 2007 the Appellant was again advised by CRA that the objections would not be accepted as they were filed several years after the deadline to object had expired.
+[9] On June 21, 2007 the Appellant appealed to the Tax Court of Canada.
+D. Position of the Parties
+1. Position of the Appellant
+[10] The Appellant has taken the position that:
+(1) they have never received the Notices of Assessment and assert the only evidence on the motion on this point is the affidavit of the principal of the Appellant, Stella Pinnock, to the effect that the Appellant never received the Notices of Assessment;
+(2) the time for appeal does not run until the Appellant was actually notified of the Assessments, which did not occur until the reconstructed Notices of Assessment were received by the Appellants and therefore their Notices of Objection were on time;
+(3) the Appellant must know the actual content of the assessments, not just be aware that the assessments exist;
+(4) the Respondent has not proven to the Court that the Notices of Assessment were in fact mailed to the Appellant as required by the ITA, CPP and the EIA.
+2. Position of the Respondent
+[11] The Respondent takes the position that: (1) the Notices of Assessment were mailed to the Appellant; (2) there is substantial evidence that the Appellant knew of the assessments by their five Fairness applications, the payments on account, receiving the CRA statements of account, and the Appellant's continuing discussions with CRA.
+E. Analysis
+1. Limitation Periods
+[12] In considering the issue of whether the Appellant is timely in filing its 87 Notices of Objection on January 23, 2007 relating to the Notices of Assessment issued by CRA, one must examine the applicable limitation periods. The limitation periods vary depending on the time each Notice of Assessment was issued because of legislative changes between 1991 through to 1999.
+(A) Income Tax Act
+Subsection 165(1) of the ITA states in part as follows:
+A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+...
+(b) in any other case, on or before the day that is 90 days after the day of mailing of the notice of assessment. [Emphasis added.].
+(B) Canada Pension Plan
+The limitation period for objections under the CPP changed in 1997. Appeals for reconsideration occurring before December 18, 1997 are governed by subsection 27(2) of the former CPP which states as follows:
+Where the Minister has assessed an employer for an amount payable by him under this Act, the employer or his representative may appeal to the Minister for a reconsideration of the assessment, either as to whether any amount should be payable or as to the amount assessed, within ninety days of the day of mailing of of the notice of assessment. [Emphasis Added]
+The current limitation period for appeals under the CPP arising on or after December 18, 1997 is contained in section 27.1 of the Plan:
+An employer who has been assessed under section 22 may appeal to the Minister for a reconsideration of the assessment, either as to whether an amount should be assessed as payable or as to the amount assessed, within 90 days after being notified of the assessment. [Emphasis Added]
+(C) Employment Insurance Act/Unemployment Insurance Act
+Similarly any appeals for reconsideration, which arose before June 30, 1996 are governed by subsection 61(2) of the UIA which states as follows:
+Where the Minister has assessed an employer for an amount payable by him under this Act, the employer may appeal to the Minister for a reconsideration of the assessment, either as to whether any amount should be assessed as payable or as to the amount so assessed, within ninety days of the day of mailing of the notice of assessment. [Emphasis Added]
+If the appeals to assessment arose with respect to assessments on or after June 30, 1996 then the current limitation period is applicable under the EIA, section 92 of the Act, which states as follows:
+An employer who has been assessed under section 85 may appeal to the Minister for reconsideration of the assessment, either as to whether an amount should be assessed as payable or as to the amount assessed, within ninety days after being notified of the assessment. [Emphasis Added]
+[13] In summary, the limitation periods are as follows:
+1. Under the ITA the Notice of Objection must be served on or before 90 days after the day of mailing of the Notice of Assessment.
+2. The limitation period in subparagraph 1 is also applicable for CPP and UIA matters where the appeal for reconsideration, under the CPP relates to an assessment occurring before December 18, 1997 and under the UIA, where the assessment relates to a matter that arose before June 30, 1996.
+3. In assessments under the CPP which arose on or after December 18, 1997 and in assessments under the EIA which relate to matters which arose on or after June 30, 1996 the appeals for reconsideration must be served on the Minister within 90 days after being notified of the assessment.
+It should be noted that notification is considerably different than the mailing of the Notice of Assessment and as such that there are different limitation periods.
+2. Assessments that Require Mailing
+[14] With respect to mailing, there are several statutory provisions that ease the evidentiary burden on the Respondent to establish that limitation periods have been triggered.
+(A) Income Tax Act
+[15] Subsection 244(14) of the ITA states that where a Notice of Assessment has been mailed it is presumed to be mailed on the date on the Notice of Assessment:
+For the purposes of this Act, where ... any notice of assessment or determination is mailed, it shall be presumed to be mailed on the date of that notice or notification.
+[16] Also, if the assessment was sent by first class mail the ITA deems it to be received by the taxpayer on the date it was sent pursuant to subsection 248(7):
+For the purposes of this Act,
+(a) anything (other than a remittance or payment described in paragraph (b)) sent by first class mail or its equivalent shall be deemed to have been received by the person to whom it was sent on the day it was mailed; …
+[17] The presumption that something was received on the date that it was mailed is not rebutable. See Schafer v. R, [2000] G.S.T.C. 82 (F.C.A.). See also McClelland v. R., [2007] 5 C.T.C. 109 (F.C.A).
+[18] These provisions created a presumption that if the Minister can establish that a Notice of Assessment was mailed, the limitation period begins to run on the date listed on the Notice of Assessment.
+[19] The Minister enjoys a further presumption, that under the appropriate circumstances a copy of a document is proof of the original document. This presumption is found in subsection 244(9) of the ITA:
+An affidavit of an officer of the Department of National Revenue, sworn before a commissioner or other person authorized to take affidavits, setting out that he has charge of the appropriate records and that a document annexed thereto is a document or true copy of a document made by or on behalf of the Minister or a person exercising the powers of the Minister or by or on behalf of a taxpayer, shall, be received as prima facie evidence of the nature and contents of the document and shall be admissible in evidence and have the same probative force as the original document would have if it had been proven in the ordinary way.
+[20] This presumption could be useful to the Respondent as there are no existing copies of the original assessment, according to the evidence of this Motion. With sufficient affidavit evidence supporting the reconstructed Notices of Assessment, they can be accepted as true copies of the original Notices of Assessment.
+[21] Also, under appropriate circumstances, the Respondent can avail himself of a presumption that certain documents, including notices have been mailed. subsection 244(5) of the ITA states:
+Where, by this Act or a regulation, provision is made for sending by mail a request for information, notice or demand, an affidavit of an officer of the Canada Revenue Agency, sworn before a commissioner or other person authorized to take affidavits, setting out that the officer has knowledge of the facts in the particular case, that such a request, notice or demand was sent by registered letter on a named day to the person whom it was addressed (indicating the address) and that the officer identifies as exhibits attached to the affidavit the post office certificate of registration of the letter or a true copy of the relevant portion thereof and a true copy of the request, notice or demand, shall, in the absence of proof to the contrary, be received as evidence of the sending and of the request, notice or demand.
+B. Canada Pension Plan
+[22] The CPP incorporates section 244 of the ITA by reference by subsection 23(2) of the CPP. The pre-1997 version of the CPP contained a similar provision.
+C. Employment Insurance Act
+[23] With respect to mailing, the EIA uses a deeming provision instead of an evidentiary presumption. Subsection 85(4) of the EIA states:
+The day of mailing of a notice of assessment described in subsection (2) is, in the absence of any evidence to the contrary deemed to be the day appearing from the notice to be the date of the notice unless called into the question by the Minister or by a person acting for the Minister or for Her Majesty.
+[24] Before I make reference to what is required of the Respondent on this Motion to Quash, the Appellant in its defence in the Motion to Quash emphasized the September 20, 2007 affidavit of Stella Pinnock, the principal of the Appellant who administered the affairs of the Appellant wherein she stated in paragraph 2 in part as follows:
+... I say unequivocally that at no time was the corporation in receipt of any Notice of Assessment concerning the continuous assessments of payroll source deduction discrepancies.
+[25] The essence of the Appellant's position is that the Appellant never received the Notices of Assessment alleged to have been mailed to the Appellant by the Respondent not that the Respondent never mailed the Notices of Assessment to the Appellant. There is a significant difference between presenting an argument that the Respondent never mailed the Notices of Assessment as compared to the assertion that the Appellant never received the Notices of Assessment. In Schafer, supra, it was determined that the receipt by a taxpayer of a Notice of Assessment is irrelevant in determining the limitation period for filing a Notice of Objection. The taxpayer was only opposing the Motion on the basis that it had not received the Notice of Assessment. Here, the Appellant has cited a variety of cases which relate to whether or not a Notice of Assessment was mailed by CRA. Aztec Industries Inc. v. Canada, [1995] 1 C.T.C. 327 (F.C.A.), Katepwa Park Golf Partnership v. Canada, [2000] 3 C.T.C. 2043 (T.C.C.) and Central Springs Ltd. v. Canada, 2006 D.T.C. 3597 (T.C.C.). Though there is a reference to mailing in the Appellant’s motion, the Appellant argued the assessments were not received and repeatedly referred to the fact that there was the uncontroverted and unchallenged evidence before the court from the affidavit of Stella Pinnock referred to earlier. This affidavit is not evidence that the Notices of Assessment were not mailed; it was simply evidence that the Appellant did not receive the Notices of Assessment and as a result, based upon Schafer, supra, this argument is unsuccessful.
+[26] In looking at what is required of the Respondent on this Motion to Quash, I refer to Aztec Industries Inc., supra, where the taxpayer brought an application to the Tax Court of Canada for an extension of time to file a Notice of Objection. The Court denied the application holding that it was out of time. The Federal Court of Appeal heard an application for Judicial Review of the Tax Court of Canada decision and concluded that there were no facts tendered by the Minister to establish that a Notice of Assessment was ever mailed to the taxpayer. The Minister was only able to establish that final requests for payment had been issued to the taxpayer. The Federal Court of Appeal allowed the application directing the Tax Court of Canada to deny the application for extension of time on different grounds. Although it was not explained, the Appeal Court seemed to be of the opinion that given that the mailing of the Notice of Assessment had not been proven, the taxpayer does not require an extension of time in order to file a Notice of Objection. At paragraph 12 of the decision, Hugessen, J. stated as follows:
+Where as in the present case, a taxpayer alleges not only that he has not received the notice of assessment but that no such notice was ever issued, the burden of proving the existence of the notice and the date of its mailing must necessarily fall on the Minister; the facts are peculiarly within his knowledge and he alone controls the means of adducing evidence of them. A number of statutory provisions recognize the Minister's burden in this respect and are clearly designed to alleviate it.
+[27] Also, in that case the evidence tendered by CRA, only amounted to bald assertions that the assessments had been mailed. In cross-examination it was revealed that the affiant only became active on the file some nine years after the purported Notices of Assessment were sent, and did not work in the Tax Services Office where the Notices would have been prepared and sent.
+[28] In the case at bar, there was no complaint, nor argument that the Notices of Assessment were not mailed - it was argued that they were not received. Maybe the Appellant assumed that if the assessments were not received, they were not mailed. The burden is still upon the Minister to prove that they were indeed mailed. The Aztec case sets the standard which the Respondent must meet in order to show that an assessment has been mailed.
+[29] In Central Springs Ltd. v. Canada, supra, the taxpayer was seeking an Order to extend the time to file a Notice of Objection. The Minister tendered an affidavit from a CRA official stating that she had control over the relevant documents and that Notices of Assessment had been sent. The Court in considering the affidavit and in cross-examination of the CRA official found that she did not have control over the computer where all pertinent records were stored nor did she have any knowledge of the process for mailing the Notices of Assessment. The Court went on to prefer the uncontested evidence given by the representatives of the Appellant. The reason for not being aware of the Notices of Assessment according to the representatives of the Appellant was that they had an agreement with two CRA officials that no Notices of Assessment would be issued pending the conclusion of a lengthy trial that was occupying the Appellant. This case seems to support the view that a bald assertion by a CRA official must outweigh the evidence tendered by the Appellant for CRA to establish that Notices of Assessment were sent. The question arises whether or not a bald assertion by a CRA official is enough evidence to prove that the Notices of Assessment were mailed.
+[30] The principles in Aztec Industries Inc., supra, were followed in several cases including Kovacevic v. Canada, [2002] 4 C.T.C. 2325 (T.C.C.), Massarotto v. R., [2000] G.S.T.C. 19 (Eng.) (T.C.C.), Rick Pearson Auto Transport Inc. v. Canada, [1996] G.S.T.C. 44 (T.C.C.), amongst others.
+[31] The common thread amongst all of these cases is that the Minister must tender evidence to establish that the Notices of Assessment were mailed. Seldom will testimony be available that someone within CRA recalls having sent the particular Notice of Assessment and normally CRA would discharge this burden by providing affidavits or calling witnesses to testify as to the procedure for preparing a Notice of Assessment and the ordinary mailing procedures followed by CRA (see for example the sort of evidence tendered in Abraham v. R., [2004] 5 C.T.C. 2149 (T.C.C.). CRA evidence will be given greater weight when more details of procedures are provided and where cross-examination does not shake the evidence given.
+[32] Reference should also be made to Tomaszewski v. R., [2004] 2 C.T.C. 2341 (T.C.C.) wherein Madam Justice Woods dealt with the weak evidence supporting CRA's contention that a Notice of Assessment had been sent. Justice Woods found that the Appellant’s previous knowledge of the tax liability provides no support for the contention that the Notice of Assessment was mailed in the first place.
+[33] What evidence has been adduced to establish that the Notices of Assessment were mailed in order for the Respondent to have the benefit of sections 244 and subsection 248(7) of the ITA, subsection 23(2) of the CPP and subsection 85(4) of the EIA and to trigger the limitation periods contained in subsection 165(1) of the ITA, former subsection 27(2) of the CPP and subsection 61(2) of the UIA?
+[34] There is very little evidence to support the Respondent’s position that the Notices of Assessment were mailed during the period of 1991 and 1999. Firstly, there is a statement in paragraph 26 of the Respondent’s Memorandum of Fact and Law which states the affidavit of Ms. Ebanks establishes that the impugned assessments were “mailed or otherwise communicated” to the Appellant. The statutory requirement is mailing. The assessment being “otherwise communicated” does not begin the limitation period for the filing of a Notice of Objection or appeal. The only reference in Ms. Ebanks’ affidavit of August 28, 2007 that the original Notices of Assessment were mailed was the following statement in paragraph 4 of the affidavit:
+As mentioned at paragraphs 87 and 88 of the aforementioned affidavit, I caused to have prepared 93 reconstructed Notices of Assessment, which were originally mailed to the Appellant during the period from April 13, 1992 to July 14, 1999.
+Secondly, in paragraph 8 of Ms. Ebanks’ affidavit of October 25, 2006, she states that:
+The CRA raised numerous assessments against 741290 for unremitted employee taxes, employee contributions to CPP and EI, and employer contributions to CPP and EI for the 1988 to 1998 taxation years inclusive.
+Thirdly, in paragraphs 73 and 74 of Ms. Ebanks’ affidavit of October 25, 2006 she states that:
+73 Lastly, at paragraph 21 of her affidavit, Ms. Pinnock seems to be denying that the corporation has ever received any tax assessment for corporate tax or payroll in the almost 20 years the corporation has existed. This seems incredible. Some of the assessments raised were as a consequence of payroll audits. As I understand the process, a representative of the taxpayer (corporation) is normally required to sign a payroll audit.
+74 Also, at paragraph 21 of her affidavit she suggests that the CRA advised that no Notices of Assessment are ‘available’. She does not specify who at CRA she asked for copies of the assessments, or when a request was made. She does not elaborate on what is or is not available. I see no indication on the CRA collection docket of any request by Ms. Pinnock or the company for copies of the various Notices of Assessment. Notices of Assessment are issued to the taxpayer. I attach hereto Exhibit ‘HH’ a true copy of an excerpt from the CRA online payroll manual that explains when and how payroll assessments are issued. Copies are not retained by the CRA, although the information contained on the assessment is. A Notice of Assessment can be reconstructed by the CRA based on information in the CRA computer system, but it takes a time to create these. I attach hereto as Exhibit ‘II’ the portions of the CRA payroll manual that explains how this can be done.
+These statements, referred to aforesaid paragraphs 8 and 73 and 74 of Ms. Ebanks’ affidavit of October 25, 2006, only suggest that CRA raised the assessments – it does not address whether or not the assessments were ever mailed.
+Fourthly, in paragraph 87 of Ms. Ebanks’ affidavit of October 25, 2006 she states that:
+As a result of the Applicant questioning the arrears, I caused to have prepared re-constructed Notices of Assessment for the period of the relevant arrears. … The information on each of these reconstructed notices of assessment is as stored in the CRA computer mainframe.
+This information may be useful insofar that it establishes the likely contents of an original Notice of Assessment, however it does not address the issue as to whether or not any such original Notice of Assessment was ever issued or mailed to the taxpayer.
+The affiant swore to materially the same thing on paragraph 4 in her affidavit of August 28, 2007.
+Fifthly, in paragraph 14 of Ms. Ebanks’ affidavit of August 27, 2007 she makes an assertion that the Notices of Assessment were issued during the nine year period from 1991 to 1999. This is merely a bald assertion by Ms. Ebanks and does not address the issue of mailing, as to who mailed them, when they were mailed, from what office they were mailed and other information to confirm the mailing.
+Finally, there are two exhibit letters. The first from Karyn Thuss, Team Leader, CPP/EI Appeals, dated March 22, 2007 and the second from Mark Okonski, CGA Team Leader, Appeals, dated April 2, 2007. The Thuss correspondence makes no reference to the mailing of the assessments and only makes references to 90 days after being notified of the assessments. This was referring to assessments from 1991 to 1998. The Okonski correspondence relates to an objection under the Income Tax Act and again refers to the assessments that have been issued between 1991 and 1999 and again no reference to mailing. Both correspondences expressed the opinion that the Notices of Objection were filed too late, however, neither letter states the basis of this belief, on searches of the CRA computer or the actual particularization of when the assessments were mailed.
+[35] There is a lack of evidence, to establish the basis of when, where, how and by whom the original Notices of Assessment were mailed to the Appellant. Given the lack of evidence to establish that the particulars of mailing of the Notices of Assessment to the Appellant, the Respondent’s Motion to Quash the Notice of Appeal as it relates to the Notices of Assessment under the ITA, and the Notices of Assessment under the CPP, for the period before December 18, 1997 and the Notices of Assessment under the UIA, for the period before June 30, 1996 should be dismissed on this basis alone but more will be said on this point later herein.
+3. Assessments that Require Notification
+[36] There are still outstanding assessments under the CPP for the period on or after December 18, 1997 and assessments under the EIA for the period on or after June 30, 1996.
+[37] Under the CPP, the current limitation period for appeals of assessments arising on or after December 18, 1997, is 90 days after the employer is notified of the assessment (section 27.1).
+[38] The current limitation period for appeals of assessments under the EIA which arose on or after June 30, 1996 is 90 days after the employer is notified of the assessment (section 92).
+[39] In Sajim v. M.N.R., [1989] F.C.J. No. 821 (T.D.) aff’d [1990] F.C.J. No. 232 (C.A.), the issue was whether a solicitor had been properly served with the Minister’s decision under the Customs Act. The Customs Act required service by registered mail however the 90 day limitation period began to run only when the person was notified. The Court held that notified meant when the Notice was received by the solicitor, not when it was sent.
+[40] The Court held that it was open to the Plaintiff to dispute when a Notice had been received even though the Crown could establish the date of mailing. In Brière v. Canada (Employment and Immigration Commission) (1988) 93 N.R. 115 (Fed. C.A.) at paragraph 57 (QL), Lacombe, J.A. held that to notify in law means “to make known, to give notice to inform”. In Hornby (Re), [1993] F.C.J. No. 431 (T.D.) the Court quoted from the The Concise Oxford Dictionary, seventh edition, to find that “notify” means to “make known, announce, report; inform, give notice to, …”. The Court also held that this involved the taking of some sort of concrete action on the part of the notifying party.
+[41] These cases would leave one to believe that the taxpayer must actually receive some form of the Notices of Assessment against it. This does not necessarily mean the taxpayer must actually receive the assessment. The statute does not say “90 days after receiving the Notice of Assessment” but “90 days after being notified of the assessment”. If the contents and effect of a communication with the employer is sufficient to allow the employer to be informed of the contents of the assessment, then this can be sufficient notice. The employer would be in a position to object and protect its legal rights.
+[42] The question then becomes, has the Respondent established that the Appellant was indeed notified of the assessments? I believe based on the evidence before the Court that the Appellant was notified of the assessments liability.
+Firstly, the Appellant paid current and arrears amounts pursuant to the Notices of Assessment. This demonstrates that the Appellant at least knew there were assessment liabilities.
+Secondly, the Appellant made five so called Fairness applications one of which was successful. It seems somewhat odd that the Appellant would be sufficiently aware of assessment liabilities, to challenge interest and penalties based on the assessment liabilities, yet be sufficiently unaware of their nature, that they were not notified of the assessments. This is totally a contradiction.
+Thirdly, the Respondent sent out “several statements of account” to the Appellant regarding the assessment liabilities. These statements were issued pursuant to requests made by the Appellant. These statements were intended to satisfy the Appellant about the particulars of the assessment. Keeping in mind, what I believe “notify” to mean, these statements taken with other information in the knowledge of the Appellant could serve as notification of the Notices of Assessment.
+Fourthly, three Certificates and Writs of Seizure were obtained by CRA against the Appellant – December 8, 1994, September 29, 1998 and January 17, 2005. Such certificates and writs could put the Appellant on notice that something was amiss if nothing else.
+Fifthly, three liens were registered against the property of the Appellant – November 10, 2004, October 28, 2004 and February 21, 2005, respectively.
+[43] With the evidence before me, it is almost impossible to state that the Appellant was not notified of the assessments liability - quite to the contrary - the Appellant obviously was notified of the assessments liability if for no other reason than the Appellant made numerous applications under the Fairness Provisions. How could the applications be made under the Fairness Provisions of the ITA (and EIA and CPP as the case may be) if the Appellant had not been notified of the Assessments?
+[44] As part of the defence, on the Motion, Stella Pinnock stated in her affidavit that she was preoccupied with securing funds to satisfy CRA and dealing with unionized employees and financial issues – this argument is absolutely no defence to the motion.
+[45] Quite clearly, the Appellant had to be notified or had to have had notice of the assessments under the CPP and EIA in order for the Appellant to pursue the Fairness application. (The EIA by section 99 and CPP by subsection 23(2) each incorporate by reference subsection 220(3.1) of the ITA, the Fairness interest relief provision of the ITA) Assuming that the very last Fairness application was applied for and the denial was received on the same date, November 15, 2005, the limitation period would commence to run from that particular point in time. I only make reference to the Fairness applications because those were applications, taken by the Appellant. There is the other evidence referred to, to show, that the Appellant had to have been notified. Given that the Notices of Objection were filed on January 23, 2007, the Appellant was well out of time so it would appear the Respondent should be successful on its motion as it relates to the assessments under the CPP which arose on or after December 18, 1997 and the assessments under the EIA which arose on or after June 30, 1996 but that does not end the matter.
+4. No Decision by the Minister
+[46] The Respondent raised an alternative argument that no decision has been made by the Minister and therefore there is nothing to appeal and the Tax Court of Canada has no jurisdiction to entertain the appeal.
+Canada Pension Plan
+[47] The relevance of a decision being made by the Minister for the CPP portion of the appeal is based on the statutory appeal provisions in the CPP. Former subsection 28(1) of the Canada Pension Plan, as amended by R.S.C. 1985, c. 51 (4th Supp.), in force from January 1, 1991 until December 18th, 1997, read as follows:
+28.(1) An employee or employer affected by a determination by or a decision on an appeal to the Minister under section 27, or the representative of either of them, may within ninety days after the determination or decision is communicated to that employee or employer, or within such longer time as the Tax Court of Canada on application made to it within those ninety days may allow, appeal from the determination or decision to that Court by sending a notice of appeal in prescribed form by registered mail to the Registry of that Court. [Emphasis added]
+Effective on and after December 18, 1997 subsection 28(1) was amended by S.C. 1997, c. 40, s. 65 to read as follows:
+28.(1) A person affected by a decision on an appeal to the Minister under section 27 or 27.1, or the person’s representative, may, within 90 days after the decision is communicated to the person, or within any longer time that the Tax Court of Canada may allow on application made to it within those 90 days, appeal from the decision to that Court by sending a notice of appeal in the prescribed form by registered mail to the Registry of that Court. [Emphasis added]
+Effective on and after June 18, 1998, subsection 28(1) was amended by S.C. 1998, c. 19, s. 255 to read as follows:
+28.(1) A person affected by a decision on an appeal to the Minister under section 27 or 27.1, or the person’s representative, may, within 90 days after the decision is communicated to the person, or within any longer time that the Tax Court of Canada on application made to it within 90 days after the expiration of those 90 days allows, appeal from the decision to that Court in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder.
+[Emphasis Added]
+For all relevant periods under appeal, before an appeal lies to the Tax Court of Canada under subsection 28(1) of the CPP, a decision must have been rendered by the Minister.
+Employment/Unemployment Insurance
+[48] Subsection 70(1) of the UIA was the statutory appeal provision that was in force prior to June 30, 1996. That subsection read as follows:
+70.(1) The Commission or a person affected by a determination by, or a decision on an appeal to, the Minister under section 61 may, within ninety days after the determination or decision is communicated to him, or within such longer time as the Tax Court of Canada on application made to it within those ninety days may allow, appeal from the determination or decision to that Court in the manner prescribed. [Emphasis added]
+The introduction of the EIA in 1996, provided a new statutory appeal mechanism in subsection 103(1), effective on and after June 30, 1996, which reads as follows:
+103.(1) The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Court of Canada in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder within 90 days after the decision is communicated to the Commission or the person, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+[Emphasis Added]
+Effective June 18, 1998, the statutory mechanism was amended by S.C. 1998, c.19, s.268 to read as follows:
+103.(1) The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Court of Canada in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder within 90 days after the decision is communicated to the Commission or the person, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+[Emphasis added]
+Similar to the CPP, appeals during the relevant periods under the EIA or UIA require a decision to have been made by the Minister.
+[49] In Power v. Minister of National Revenue, 2005 TCC 200, Mr. Justice Bowie held that, a refusal to consider an appeal to the Minister on the grounds that it was out of time, was not a decision by the Minister. Mr. Justice Bowie stated that the appropriate course of action was to seek a Mandamus Order from the Federal Court requiring the Minister to exercise its jurisdiction and to make a decision. In that case, the appeal related to CPP and EIA determinations of insurable employment and pensionable employment. The decision of CRA on the basis of a limitation period to refuse to deal with the objections of the Appellant on the CPP and EIA determinations is no decision at all for the purpose of the CPP and EIA. The remedy for the Appellant is not an appeal to the Tax Court of Canada but to seek an order for Mandamus from the Federal Court directing the Minister to exercise its jurisdiction to make a decision and if and when the Minister makes a decision and if the Appellant is still unsatisfied, the Appellant could proceed with a Notice of Appeal to the Tax Court of Canada.
+[50] The motion as it relates to CPP assessments and EIA assessments would be granted because the Minister has not made a decision that can be appealed to at this stage and therefore no appeal lies to the Tax Court of Canada. However, this is not the case in relation to assessments under the ITA. Under paragraph 169(1)(b) of the ITA, there is a right of appeal to the taxpayer even when no decision has been made by the Minister. Failure of the Minister to make a decision is fine provided 90 days have elapsed from the Notice of Objection in which case the Tax Court of Canada has jurisdiction over the ITA assessments, and as such the motion in relation to the ITA on this argument would fail.
+In summary, the result on the Motion to Quash is:
+(a) the Motion to Quash is dismissed as it relates to the ITA assessments.
+(b) the Motion to Quash is granted as it relates to the CPP assessments and the EIA/UIA assessments.
+(c) There will be no order as to costs.
+Signed at Ottawa, Canada, this 30th day of January, 2008.
+"E. P. Rossiter"
+Rossiter, J.
+CITATION: 2007TCC55
+COURT FILE NO.: 2007-3055(IT)I
+STYLE OF CAUSE: 741290 ONTARIO INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 28, 2007 –and- October 25, 2007
+REASONS FOR ORDER BY: The Honourable Justice E.P. Rossiter
+DATE OF ORDER: January 30, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Osborne G. Barnwell
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Osborne G. Barnwell
+Firm: Osborne G. Barnwell
+North York, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,321 @@
+Title: Gee v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26991/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-533-26991-gee-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-07-31
+
+# Gee v. The Queen
+
+- Citation: 2003 CCI 533
+- Decision date: 2003-07-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 536, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gee v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-31
+Référence neutre
+2003 CCI 533
+Numéro de dossier
+2001-3359(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-3359(IT)G
+ENTRE :
+WENDY WAI YU GEE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 22 juillet 2003 à Toronto (Ontario)
+Devant : L'honorable juge Gerald J. Rip
+Comparutions
+Avocat de l'appelante :
+Me Richard G. Fitzsimmons
+Avocate de l'intimée :
+Me Marie-Thérèse Boris
+____________________________________________________________________
+ORDONNANCE
+Sur requête présentée par l'appelante en vue de faire radier certaines parties de la Réponse à l'avis d'appel :
+1) les paragraphes suivants sont radiés de la Réponse à l'avis d'appel de l'intimée : les paragraphes 2, 3, 5, 6, 7, 8 et 9;
+2) les parties suivantes sont radiées de la Réponse à l'avis d'appel de l'intimée :
+a) la partie du paragraphe 6 qui déclare ceci : [TRADUCTION] « Il déclare en outre que l'appelante n'a à aucun moment déclaré, indiqué ou laissé entendre, au ministre du Revenu national (le « ministre » ) qu'elle dépendait d'une aide financière de M. Seun ou qu'elle en recevait une, ou qu'elle était mariée ou l'avait déjà été » ,
+b) les mots [TRADUCTION] « et en la ratifiant » et « entre autres choses » du paragraphe 16 qui déclare ceci : « En établissant la nouvelle cotisation à l'égard de l'appelante et en la ratifiant comme il l'a fait, le ministre s'est, entre autres choses, fondé sur les hypothèses de fait suivantes : » ,
+c) la partie du sous-paragraphe 16n) qui est plaidée à titre d'hypothèse de fait et qui déclare ceci : [TRADUCTION] « en raison de la déclaration en moins du revenu » ;
+3) l'intimée disposera d'un délai de 21 jours à partir de la date de la présente ordonnance pour déposer une Réponse à l'avis d'appel modifiée. Toute modification fournira à l'appelante les précisions qu'elle recherchait par sa Demande de précisions;
+4) l'ordonnance du juge Miller, datée du 7 mai 2003, est modifiée afin de prolonger le délai dans lequel l'interrogatoire préalable doit être effectué à la première de ces dates, soit 30 jours suivant la modification de la Réponse à l'avis d'appel de l'intimée en déposant le consentement de l'appelante, ou en obtenant l'autorisation de la Cour, soit 30jours après que l'autorisation de la Cour est refusée;
+5) les dépens de la présente requête suivront l'issue de la cause.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Crystal Lefebvre, traductrice
+Référence : 2003CCI533
+Date : 20030731
+Dossier : 2001-3359(IT)G
+ENTRE :
+WENDY WAI YU GEE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Rip
+[1] L'appelante a présenté une demande afin d'obtenir une ordonnance :
+a) radiant les paragraphes, les sous-paragraphes et les parties de paragraphes suivants de la Réponse à l'avis d'appel de l'intimée[1] :
+1. le paragraphe 2 au complet : [TRADUCTION] « 2. Il admet l'authenticité de l'affidavit de même que les pièces jointes qui ont été déposés auprès de la Cour canadienne de l'impôt en vue de demander de proroger le délai » ;
+2. le paragraphe 3 au complet : [TRADUCTION] « 3. Il admet l'authenticité des avis de nouvelle cotisation, des 7TW-C qui les accompagnent, les avis d'opposition et l'ordonnance de Monsieur le juge Miller de la Cour canadienne de l'impôt, datée du 4 février 2002, jointe à l'Avis d'appel » .
+3. la partie du paragraphe 6 qui déclare ceci : [TRADUCTION] « Il déclare en outre que l'appelante n'a à aucun moment déclaré, indiqué ou laissé entendre, au ministre du Revenu national (le « ministre » ) qu'elle dépendait d'une aide financière de M. Seun ou qu'elle en recevait une ou qu'elle était mariée ou l'avait déjà été. » ;
+4. les mots [TRADUCTION] « et en la ratifiant » et « entre autres choses » du paragraphe 16 qui déclare ceci : « En établissant la nouvelle cotisation à l'égard de l'appelante et en la ratifiant comme il l'a fait, le ministre s'est, entre autres choses, fondé sur les hypothèses de fait suivantes : » ;
+5. le sous-paragraphe 16b) qui est plaidé à titre d'hypothèse de fait et qui déclare ceci : [TRADUCTION] « l'appelante a omis d'inclure une partie du revenu imposable qu'elle a gagné dans les années d'imposition 1992, 1993, 1994 et 1995 » ;
+6. le sous-paragraphe 16i) qui est plaidé à titre d'hypothèse de fait et qui déclare ceci : [TRADUCTION] « l'appelante n'a pas répondu aux demandes d'information financière faites par le ministre afin de permettre une bonne vérification de ses affaires financières » ;
+7. le sous-paragraphe 16j) qui est plaidé à titre d'hypothèse de fait et qui déclare ceci : [TRADUCTION] « les montants que l'appelante a déclarés comme revenu total dans ses déclarations de revenus ne suffisaient pas pour soutenir une personne seule » ;
+8. le sous-paragraphe 16k) qui est plaidé à titre d'hypothèse de fait et qui déclare ceci : [TRADUCTION] « en déposant ses déclarations de revenus des années d'imposition en litige, l'appelante a fait sciemment ou dans des circonstances qui justifient l'imputation d'une faute lourde dans l'exercice d'une obligation imposée par la Loi [de l'impôt sur le revenu] ou a participé, consenti ou acquiescé à des faux énoncés ou des omissions dans les déclarations de revenus imposables produites pour les années d'imposition 1992, 1993, 1994, et 1995, d'où il résulte que l'impôt qu'elle aurait été tenue de payer, établi au moyen des renseignements fournis dans les déclarations de revenus imposables de l'appelante déposées pour les années 1992, 1993, 1994 et 1995 était inférieur à ce qui était réellement dû » ;
+9. le sous-paragraphe 16l) qui est plaidé à titre d'hypothèse de fait et qui déclare ceci : [TRADUCTION] « en déposant ses déclarations de revenus des années d'imposition en litige, l'appelante a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire ou a commis quelque fraude en déposant sa déclaration en fournissant quelque renseignement sous le régime de la Loi » ;
+10. la partie du sous-paragraphe 16n) qui est plaidée à titre d'hypothèse de fait et qui déclare ceci : [TRADUCTION] « en raison de la déclaration en moins du revenu » ;
+b) subsidiairement, enjoignant à l'intimée de fournir à l'appelante les précisions supplémentaires demandées par l'appelante.
+[2] L'appelante a également demandé de proroger les dates de l'interrogatoire préalable fixées dans l'ordonnance datée du 7 mai 2003 de 60 jours suivant la décision définitive relative à la demande et de 30 jours supplémentaires afin de satisfaire à tout engagement découlant de tels interrogatoires. L'appelante demande également l'adjudication des dépens sur une base avocat-client plus la taxe sur les produits et services.
+[3] Les moyens invoqués à l'appui de la requête de l'appelante sont les suivants :
+a) la Réponse [à l'avis d'appel] contient des plaidoyers non pertinents et non appropriés qui peuvent compromettre ou retarder l'instruction équitable de l'appel;
+b) la Réponse [à l'avis d'appel] et la Réponse à la demande de précisions ne fournissent pas assez de précisions, ce qui peut compromettre ou retarder l'instruction équitable de l'appel;
+c) les articles 49, 52 et 53 des Règles de la Cour canadienne de l'impôt (procédure générale).
+[4] Il s'agit d'appels interjetés à l'encontre des cotisations suivant l'avoir net établies pour 1992, 1993, 1994 et 1995. Les trois premières années d'imposition ont fait l'objet d'une cotisation après la période normale de cotisation de l'appelante pour les années correspondantes. En conséquence, l'intimée doit prouver qu'en vertu du paragraphe 152(4), l'appelante a fait une présentation erronée par négligence, inattention ou omission volontaire ou a commis quelque fraude en déposant ses déclarations de revenus imposables des années 1992, 1993 et 1994 ou en fournissant quelque renseignement sous le régime de la Loi. Le ministre du Revenu national a également imposé une pénalité en vertu du paragraphe 163(2) pour chacune des quatre années.
+[5] Les parties ont discuté des dates des interrogatoires préalables pendant les derniers mois, mais puisque l'appelante réside maintenant en Chine, l'avocate de l'intimée s'est montrée peu disposée à l'interroger pendant l'épidémie du syndrome respiratoire aigu sévère (SRAS). Sous réserve de la requête dont je suis saisi, les deux parties sont maintenant disposées à procéder aux interrogatoires préalables.
+[6] L'avocate de l'intimée a fait valoir à bon droit que je devrais rejeter la requête de l'appelante puisque cela fait plus de une année que l'intimée a déposé sa Réponse à l'avis d'appel[2] et qu'après que l'on a signifié la Réponse, l'intimée a fait de nouvelles démarches, en particulier, son avocate a participé à une audience sur l'état de l'instance, le 6 mai 2003, et a avisé la Cour que l'appelante était disposée à mettre fin aux interrogatoires préalables au plus tard à la fin de juillet. Par conséquent, le 7 mai 2003, le juge Miller a rendu une ordonnance selon laquelle, entre autres choses, les interrogatoires préalables devaient être terminés au plus tard le 31 juillet 2003. L'avocate de l'intimée a cité l'article 8 des Règles de la Cour canadienne de l'impôt (procédure générale) :
+La requête qui vise à contester, pour cause d'irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, ne peut être présentée, sauf avec l'autorisation de la Cour :
+a) après l'expiration d'un délai raisonnable après que l'auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l'irrégularité, ou
+b) si l'auteur de la requête a pris une autre mesure dans le cadre de l'instance après avoir pris connaissance de l'irrégularité.
+[7] L'Avis de demande de précisions de l'appelante est daté du 6 mai 2002, et la Réponse à la demande de précisions est datée du 28 juin 2002. L'avocate de l'intimée a déclaré que, depuis le mois de juin 2002, l'avocat de l'appelante n'avait rien mentionné au sujet du caractère insuffisant des précisions avant le mois de juin 2003. Elle a déclaré que, si les précisions n'avaient pas été suffisantes, l'appelante aurait dû porter plainte en temps opportun.
+[8] L'avocate de l'intimée a cité plusieurs décisions pour justifier sa position. Dans la décision Mackenzie v. Wood Gundy Inc.[3], le juge Montgomery a souscrit à la conclusion du protonotaire selon laquelle un délai de cinq à six mois pour déposer une requête en vue de radier une partie d'un acte de procédure était trop long. [TRADUCTION] « Il y a longtemps que ce type de délai ne peut plus être toléré au cours de l'étape des actes de procédure d'une instance. Nous sommes à l'ère de la surveillance judiciaire de la conduite d'une instance, et il est essentiel que les poursuites passent les stades préliminaires et soient entendues le plus rapidement possible. »
+[9] Le juge Lerner était d'avis que, si une partie signifie une date d'interrogatoire préalable (ou comme l'avocate de l'intimée a ajouté, accepte l'interrogatoire préalable dans le cadre d'une audience sur l'état de l'instance), cela laisse entendre que les procédures de la partie opposée ont été acceptées et qu'elle a renoncé à toute irrégularité[4]. En raison des nouvelles démarches entreprises durant l'année et du retard de demander cette autorisation, l'avocate de l'intimée a conclu que l'appelante avait écarté toute possibilité de demander l'autorisation de la Cour qu'elle demande et ce, quel que soit le mérite de l'appelante. L'avocate de l'intimée a affirmé que l'appelante était représentée par un avocat compétent et que la Cour ne devrait pas agir de son propre chef.
+[10] L'avocat de l'appelante a répondu que, puisque la Demande de précisions a été signifiée presque immédiatement après qu'il a reçu la Réponse, il n'y a pas eu de retard. L'avocat de l'appelante a également déclaré que l'appelante réside maintenant en Chine et qu'il communique avec elle au moyen du courrier électronique. Il m'a informé que, pendant plusieurs mois, lors de la période provisoire dans laquelle l'appelante ne pouvait pas recevoir des courriers électroniques provenant du Canada, qu'il a eu du mal à obtenir des instructions.
+[11] En règle générale, lorsque le retard d'une requérante est aussi long que celui de l'appelante relativement à la présentation d'une requête en radiation ou qu'elle a pris des nouvelles démarches après que l'acte de procédure lui a été signifié, je rejette la requête de la requérante. Toutefois, en l'espèce, la Réponse [à l'avis d'appel] comporte tant de lacunes que le fait de rejeter la requête mènerait à un interrogatoire préalable conflictuel et il prolongerait indûment l'instruction de l'appel. De plus, les précisions ne sont pas complètes, par exemple, une demande est complètement laissée de côté. La rédaction de la Réponse [à l'avis d'appel] et de la Réponse à la demande de précisions ne représente pas l'un des meilleurs efforts de l'intimée. Par exemple, la partie D de la Réponse [à l'avis d'appel] intitulée « Conclusions recherchées » comporte six paragraphes. Cela s'ajoute à la plainte de l'appelante. Je dois informer le lecteur que, ni Me Boris, qui a représenté l'intimée lors de l'audition de la requête, ni Me Moldaver, qui s'occupe maintenant du présent appel pour l'intimée, n'ont rédigé la Réponse à l'avis d'appel ni la Réponse à la demande de précisions.
+[12] Le paragraphe 49(1) des Règles de la Cour canadienne de l'impôt (procédure générale) prévoit que chaque réponse doit indiquer :
+a) les faits admis;
+b) les faits niés;
+c) les faits que l'intimée ne connaît pas et qu'elle n'admet pas;
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s'est fondé en établissant sa cotisation;
+e) tout autre fait pertinent;
+f) les points en litige;
+g) les dispositions législatives invoquées;
+h) les moyens sur lesquels l'intimée entend se fonder;
+i) les conclusions recherchées.
+[13] Mon collègue, le juge Bowie, a expliqué le but des actes de procédure dans l'affaire Zelinski c. La Reine[5] :
+[4] L'acte de procédure a pour but de définir les questions faisant l'objet du litige entre les parties aux fins de production et de communication préalable ainsi qu'en prévision du procès. Il incombe aux parties de présenter un exposé concis des faits pertinents sur lesquels elles se fondent. Les faits pertinents sont ceux qui, dans l'éventualité où ils sont établis au cours du procès, concourront à démontrer que la partie ayant déposé l'acte de procédure a droit au redressement demandé. De façon générale, il convient que la modification d'un acte de procédure soit autorisée, dans la mesure où cela n'est pas préjudiciable à l'autre partie - qui n'a pas droit à une contrepartie sous forme de dépens ou sous une autre forme -, les Règles visant à assurer, dans la mesure du possible, un procès équitable portant sur les vraies questions en litige entre les parties.
+[5] Le principe applicable est formulé ainsi par Holmsted et Watson : NOTE 1 : Holmsted et Watson, Ontario Civil Procedure, vol. 3, pages 25-20 à 25-21.]
+[TRADUCTION] Il s'agit de la grande règle en matière d'actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : (1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; (2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; (3) il doit exposer des faits, non les éléments de preuve qui serviront à étayer ces faits; (4) il doit exposer les faits avec concision.
+[14] J'ai abordé la présente requête de la même manière que le juge Bowie, en gardant à l'esprit le critère pertinent, à savoir si les paragraphes contestés sont conformes au principe selon lequel l'acte de procédure doit exposer les faits pertinents. Je vais examiner, dans le même ordre, chacune des dispositions de la Réponse [à l'avis d'appel] contestées par l'appelante (en utilisant l'italique pour les numéros de paragraphes de l'Avis de requête).
+[15] Paragraphes 1 et 2 de l'Avis de requête. Je suis d'accord que les paragraphes 2 et 3 de la Réponse [à l'avis d'appel] n'ont pas trait à l'appel mais à la demande de l'appelante en prolongation du délai fixé pour déposer un avis d'appel. Les faits énoncés aux paragraphes 2 et 3 constituent des allégations non pertinentes et devraient être considérés comme détails superflus que l'on ne touche pas[6]. Ils n'ajoutent rien aux actes de procédure et peuvent être supprimés. S'ils étaient les seuls deux paragraphes de la Réponse [à l'avis d'appel] contestés par l'appelante, je ne les modifierais pas. Ils seront radiés.
+[16] Paragraphe 3. La deuxième phrase du paragraphe 6 de la Réponse [à l'avis d'appel] constitue un élément de preuve que l'intimée souhaite prouver être un fait. Il n'est pas déterminant. En anticipant les éléments de preuve de l'appelante, l'intimée semble également mettre la crédibilité de l'appelante en question. Les actes de procédure doivent faire état des faits et non des éléments de preuve par lesquels ils seront prouvés[7]. Je radierais cette partie du paragraphe 6.
+[17] Paragraphe 4. L'expression [TRADUCTION] « entre autres choses » figurant au paragraphe 16 de la Réponse [à l'avis d'appel], employée pour introduire les faits tenus pour acquis par le ministre au moment de la cotisation, prive la contribuable d'une divulgation complète des conclusions de faits précises qui ont donné lieu à la cotisation. Dans l'arrêt Johnston v. M.N.R.[8], le juge Rand a expliqué ceci : [TRADUCTION] « [...] Tout fait de ce genre constaté ou présumé par le répartiteur ou le ministre doit alors être admis tel qu'il a été pris par ces personnes, à moins que l'appelant ne conteste [...] » . Le contribuable a le fardeau de réfuter les faits qui ont amené le ministre à la cotisation. L'emploi de l'expression « entre autres choses » dans ce contexte constitue un acte de procédure bâclé et méprisant à l'égard de la jurisprudence et de la pratique reconnue. Bref, ces mots ont été mal utilisés et ils seront radiés.
+[18] Bien que l'appelante n'ait pas demandé à la Cour de l'ordonner, je radierais également les mots [TRADUCTION] « et en la ratifiant » au début du paragraphe 16. Tout fait tenu pour acquis après la cotisation ne constitue pas un fait pris pour acquis par le ministre au moment de la cotisation : Anchor Pointe Energy Limited c. La Reine[9].
+[19] Paragraphe 5. Le paragraphe 16b) de la Réponse [à l'avis d'appel] comporte des éléments mixtes de fait et de droit. L'intimée conclut que l'appelante [TRADUCTION] « a omis d'inclure une partie du revenu imposable qu'elle a gagné » . L'intimée allègue une présentation erronée. L'intimée cite l'expression « revenu imposable » . Le revenu imposable est calculé en fonction du revenu calculé conformément à la Section B de la Partie I de la Loi. La Section C de la Partie I de la Loi énonce les règles de calcul du revenu imposable. L'intimée n'indique pas ce que l'appelante a omis d'inclure lors du calcul de son revenu imposable. Rien au paragraphe 15 de la Réponse [à l'avis d'appel] n'indique une omission d'un élément qui aurait dû être inclus dans le revenu imposable. Les montants décrits au paragraphe 15 ont été appliqués au calcul du revenu imposable. Bien sûr, on arrive au revenu imposable en déduisant des montants du revenu, et non en les y ajoutant. L'intimée devrait expliquer quel revenu « imposable » , plutôt que le revenu a été gagné sans être inclus. L'appelante a droit de connaître les détails de la présentation erronée[10]. Le paragraphe sera radié.
+[20] Paragraphe 6. Je n'arrive pas à comprendre la pertinence du sous-paragraphe 16i) relativement au bien-fondé de l'appel. On peut se demander si le ministre a établi la cotisation de l'appelante, en partie, parce qu'elle ne disposait pas d'un détail particulier au moment de la cotisation. Le présent sous-paragraphe sera également radié.
+[21] Paragraphe 7. Le sous-paragraphe 16j) constitue simplement une opinion du répartiteur qui a pu influer sur l'établissement de la cotisation, mais qui ne peut pas constituer un fait sur lequel s'était fondé le ministre pour établir la cotisation. Encore une fois, cette disposition sera radiée.
+[22] Paragraphes 8 et 9. Les sous-paragraphes 16k) et l) de la Réponse [à l'avis d'appel] constituent des conclusions du répartiteur et n'exposent pas les faits. Les conclusions de droit n'ont pas leur place dans les hypothèses de fait, et elles seront radiées[11].
+[23] J'ai des réserves au sujet de la pratique de l'intimée à inclure ou à mêler, parmi les faits tenus pour acquis par le ministre au moment de la cotisation, des faits que le ministre doit prouver. Cela représente ce qui se passe dans les sous-paragraphes 16k) et l) de la Réponse [à l'avis d'appel]. Je renvoi, par exemple, au sous-alinéa 152(4)a)(i) de la Loi selon lequel le ministre doit prouver la présentation erronée soumise par le contribuable afin d'établir une cotisation pour une année d'imposition à l'extérieur de la période normale de cotisation du contribuable dans le cadre de l'année et de l'exigence légale que le ministre doit prouver les faits justifiant l'imposition d'une pénalité en vertu du paragraphe 163(2). Dans les deux situations, les commentaires du juge Rand dans l'affaire Johnston, précitée, selon lesquels tout fait tenu pour acquis par le répartiteur doit être accepté comme déjà examiné, ne s'appliquent pas. Bien entendu, l'intimée doit établir, dans la Réponse [à l'avis d'appel], les faits que le ministre a tenu pour acquis au moment de l'imposition des pénalités. Dans la décision Elchuk v. M.N.R.[12], le président Jackett, tel était alors son titre, a indiqué que la Réponse [à l'avis d'appel] doit alléguer le montant de la taxe qui n'a pas été déclaré par le contribuable afin que la Cour puisse déterminer si l'imposition de la pénalité est autorisée par le paragraphe 163(2). Le contribuable devrait être avisé de ce qui a été allégué contre lui qui justifiait les pénalités ou la cotisation au-delà de la période normale de cotisation pour une année particulière. Il pourrait s'agir d'un meilleur plaidoyer si les faits tenus pour acquis au moment de l'imposition de la pénalité ou de la cotisation au-delà de la période normale de cotisation étaient séparés des faits tenus pour acquis au moment de l'évaluation de son bien-fondé[13]. Dans la décision Pillsbury Holdings[14], le juge Cattanach a indiqué, à titre de solution de rechange, que plutôt de se fonder sur les faits que le ministre avait établis ou avait tenus pour acquis au moment de la cotisation et qui justifient la cotisation, le ministre devrait alléguer d'autres faits et aurait le fardeau de prouver ces faits. Les commentaires du juge Cattanach devraient être examinés sérieusement par le procureur général au moment de la rédaction des actes de procédure qui justifient les pénalités et les cotisations imposées au-delà de la période normale de cotisation.
+[24] Paragraphe 10. L'expression [TRADUCTION] « en raison de la déclaration en moins du revenu » figurant au paragraphe 16n) constitue une conclusion de droit et devrait être radiée.
+[25] L'intimée disposera d'un délai de 21 jours à partir de la date que l'ordonnance est émise, en vertu des présents motifs, pour signifier et déposer une Réponse à l'avis d'appel modifiée avec le consentement de l'appelante ou l'autorisation de la Cour, conformément aux articles 54, 55 et 56 des Règles de la présente Cour. Toute modification fournira à l'appelante les précisions qu'elle recherchait par sa demande de précisions.
+[26] L'ordonnance du juge Miller, datée du 7 mai 2003, est modifiée afin de prolonger le délai dans lequel l'interrogatoire préalable doit être effectué à la première de ces dates, soit 30 jours suivant la modification de la Réponse à l'avis d'appel de l'intimée en déposant le consentement de l'appelante, ou en obtenant l'autorisation de la Cour, soit 30 jours après que l'autorisation de la Cour est refusée.
+[27] L'appelante a tardé à déposer sa requête en radiation et a tardé à faire part de son insatisfaction relativement aux précisions. Elle a également entrepris des nouvelles démarches après que la Réponse [à l'avis d'appel] a été déposée, et son avocat a avisé le juge Miller qu'elle était disposée à procéder aux interrogatoires préalables. En revanche, les actes de procédure de l'intimée sont largement insuffisants.
+[28] Les dépens suivront l'issue de la cause.
+Signé à Ottawa, Canada ce 31e jour de juillet 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Cristal Lefebvre, traductrice
+ANNEXE I
+2001-3359(IT)G
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+WENDY WAI YU GEE,
+appelante,
+- et -
+SA MAJESTÉ LA REINE,
+Intimée.
+RÉPONSE
+En réponse à l'Avis d'appel de l'appelante, relativement aux années d'imposition 1992, 1993, 1994 et 1995, le sous-procureur général du Canada déclare ce qui suit :
+A. EXPOSÉ DES FAITS
+. . . . .
+2. Il admet l'authenticité de l'affidavit de même que les pièces jointes, qui ont été déposés auprès de la Cour canadienne de l'impôt en vue de demander de prolonger le délai pour déposer un appel.
+3. Il admet l'authenticité des avis de nouvelle cotisation, des 7TW-C qui les accompagnent, les avis d'opposition et l'ordonnance de Monsieur le juge Miller de la Cour canadienne de l'impôt, datés du 4 février 2002, jointe à l'Avis d'appel.
+. . . . .
+6. En ce qui concerne les allégations de fait que comporte le paragraphe 3, il déclare n'avoir aucune connaissance de ces faits et l'appelante devra en faire la preuve stricte. Il ajoute que l'appelante n'a jamais déclaré, indiqué ou laissé entendre, au ministre du Revenu national (le « ministre » ) qu'elle dépendait d'une aide financière de M. Seun ou qu'elle en recevait une, ou qu'elle était mariée ou l'avait déjà été.
+. . . . .
+11. En calculant son revenu pour les années d'imposition en litige, l'appelante a déclaré les montants suivants à titre de revenu :
+Revenu déclaré
+1992
+8 000 $
+1993
+9 500 $
+1994
+6 000 $
+1995
+7 500 $
+12. À la suite d'une méthode de cotisation selon l'écart de l'avoir net, le 21 juin 1999, le ministre a établi de nouvelles cotisations à l'égard de l'appelante pour toutes les années d'imposition en litige, a rajouté au montant total de son revenu et a imposé des pénalités en vertu du paragraphe 163(2) de la Loi, selon les montants suivants :
+Augmentation Pénalité
+1992
+113 055 $
+15 538 $
+1993
+108 394 $
+15 569 $
+1994
+113 739 $
+16 073 $
+1995
+113 810 $
+16 690 $
+. . . . .
+15. Les nouvelles cotisations et la ratification ont donné l'état de l'avoir net suivant :
+Description
+1992
+1993
+1994
+1995
+Fonds avancés à Tung Tai Limited
+(7 066 $)
+49 566 $
+49 566 $
+49 566 $
+Fonds avancés à Tung Tai Books and Gifts
+27 610 $
+27 610 $
+27 662 $
+23 234 $
+Frais de subsistance (demeurent inchangés)
+40 718 $
+40 718 $
+42 511 $
+44 082 $
+Acquisition d'une maison (versement initial)
+________
+________
+59 793 $
+________
+Total partiel du revenu non déclaré modifié
+61 262 $
+117 894 $
+179 532 $
+116 882 $
+Moins :
+Sommes reçues de l'étranger
+0
+0
+(3 980 $)
+(16 355 $)
+Revenu déclaré
+(8 279 $)
+(9 500 $)
+(6 000 $)
+(7 500 $)
+Total du revenu non déclaré
+53 983 $
+108 394 $
+169 552 $
+93 027 $
+16. En établissant la nouvelle cotisation à l'égard de l'appelante et en la ratifiant comme il l'a fait, le ministre s'est fondé, entre autres choses, sur les hypothèses de fait suivantes :
+. . . . .
+b) l'appelante a omis d'inclure une partie du revenu imposable qu'elle a gagné dans les années d'imposition 1992, 1993, 1994 et 1995;
+c) le revenu de l'appelante a été sous-estimé de 52 983 $, de 108 394 $, de 169 552 $ et de 93 027 $ pour les années d'imposition 1992, 1993, 1994 et 1995 respectivement;
+. . . . .
+i) l'appelante n'a pas répondu aux demandes d'information financière faites par le ministre afin de permettre une bonne vérification de ses affaires financières;
+j) les montants que l'appelante a déclarés comme revenu total dans ses déclarations de revenus ne suffisaient pas pour soutenir une personne seule;
+k) en déposant ses déclarations de revenus des années d'imposition en litige, l'appelante a fait sciemment ou dans des circonstances qui justifient l'imputation d'une faute lourde dans l'exercice d'une obligation imposée par la Loi ou a participé, consenti ou acquiescé à des faux énoncés ou des omissions dans les déclarations de revenus imposables produites pour les années d'imposition 1992, 1993, 1994 et 1995, d'où il résulte que l'impôt qu'elle aurait été tenue de payer, évalué par les renseignements fournis dans les déclarations de revenus imposables de l'appelante déposées pour les années 1992, 1993, 1994 et 1995 était inférieur à ce qui était réellement dû;
+l) en déposant ses déclarations de revenus des années d'imposition en litige, l'appelante a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire ou a commis quelque fraude en déposant sa déclaration ou en fournissant quelque renseignement sous le régime de la Loi;
+. . . . .
+n) en raison de la déclaration en moins du revenu, le ministre a imposé à l'appelante les pénalités fédérales suivantes en vertu du paragraphe 163(2) de la Loi :
+1991
+1992
+1993
+1994
+5 912 $
+15 569 $
+23 548 $
+11 791 $
+. . . . .
+D. CONCLUSIONS RECHERCHÉES
+19. Il soutient respectueusement que l'appelante avait déclaré en moins son revenu pour les années d'imposition 1992, 1993, 1994 et 1995.
+20. Il soutient que le ministre a établi à bon droit la cotisation à l'égard de l'appelante ainsi que la nouvelle cotisation conformément au paragraphe 152(4) de la Loi.
+21. Il soutient que l'appelante, en déposant ses déclarations de revenus des années d'imposition en litige, a fait des présentations erronées des faits, par négligence, inattention ou omission volontaire ou a commis quelque fraude en déposant sa déclaration en fournissant quelque renseignement sous le régime de la Loi au sens des paragraphes 152(4) et 152(4.01) de la Loi.
+22. Il soutient que l'appelante était au courant ou aurait dû être au courant que son revenu était plus élevé que les montants déclarés pour les années d'imposition en litige.
+23. Il soutient que le ministre a imposé à bon droit des pénalités fédérales de négligence en vertu du paragraphe 163(2) de la Loi.
+24. Il soutient qu'en déposant ses déclarations de revenus des années d'imposition en litige, l'appelante a fait sciemment ou dans des circonstances qui justifient l'imputation d'une faute lourde dans l'exercice d'une obligation imposée par la Loi ou a participé, consenti ou acquiescé à des faux énoncés ou des omissions dans les déclarations de revenus imposables produites pour les années 1992, 1993, 1994 et 1995, d'où il résulte que l'impôt qu'elle aurait été tenue de payer, établi au moyen des renseignements fournis dans les déclarations de revenus imposables de l'appelante déposées pour les années 1992, 1993, 1994 et 1995 était inférieur à ce qui était réellement dû au sens du paragraphe 163(2) de la Loi.
+Il demande que l'appel soit rejeté avec dépens.
+FAIT à Toronto (Ontario), ce 24e jour d'avril 2002.
+ANNEXE II
+2001-3359(IT)G
+COUR CANADIENNE DE L'IMPÔT
+Loi de l'impôt sur le revenu
+ENTRE :
+WENDY WAI YU GEE,
+appelante,
+- et -
+SA MAJESTÉ LA REINE,
+intimée.
+DEMANDE DE PRÉCISIONS
+L'appelante demande, par la présente, des précisions relativement aux allégations suivantes figurant dans la Réponse de l'intimée, datée du 24e jour d'avril 2002.
+1. l'allégation figurant au sous-paragraphe 16k) de la Réponse fait était que l'appelante « a fait [...] ou a participé, consenti ou acquiescé à des faux énoncés ou des omissions dans les déclarations de revenus imposables produites pour les années 1992, 1993, 1994 et 1995 » . Veuillez fournir des précisions à l'égard de ce qui suit :
+(1) chacun des faux énoncés ou des omissions figurant dans les déclarations de revenus de l'appelante relatives aux années d'imposition de 1992 à 1995 inclusivement,
+(2) chacun des faux énoncés ou des omissions auxquels l'appelante a participé, consenti ou acquiescé et qui figurent dans les déclarations de revenus de l'appelante relatives aux années d'imposition 1992, 1993, 1994 et 1995;
+2. en ce qui concerne le paragraphe 16l) de la Réponse, le ministre a tenu pour acquis que l'appelante a fait des présentations erronées par négligence, inattention ou omission volontaire ou a commis quelque fraude en déposant sa déclaration en fournissant quelque renseignement sous le régime de la Loi de l'impôt sur le revenu :
+(1) veuillez fournir des précisions relativement à chacune des présentations erronées faites par l'appelante dans chacune de ses déclarations de revenus pour les années d'imposition de 1992 à 1995 inclusivement, selon ce que le ministre a tenu pour acquis,
+si le ministre a tenu pour acquis une présentation erronée par négligence, inattention ou omission volontaire ou a commis une fraude,
+(3) veuillez fournir des précisions relativement à la négligence, à l'inattention, à l'omission volontaire ou à la fraude que le ministre a tenue pour acquise et qui était attribuable à la présentation erronée.
+Date de la demande le 6 mai 2002
+2001-3359(IT)G
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+WENDY WAI YU GEE,
+appelante,
+- et -
+SA MAJESTÉ LA REINE,
+intimée.
+RÉPONSE À LA DEMANDE DE PRÉCISIONS
+En réponse à votre demande de précisions datée du 6 mai 2002, l'intimée répond ce qui suit :
+1. En ce qui concerne le paragraphe 16k) de la Réponse [à l'avis d'appel], l'appelante a fait, participé, consenti ou acquiescé aux faux énoncés ou aux omissions figurant dans ses déclarations de revenus déposées pour les années d'imposition 1992, 1993, 1994 et 1995 en :
+a) ne déclarant pas, dans ses déclarations de revenus, la totalité des revenus qu'elle avait reçus dans les années d'imposition de 1992 à 1995 aux montants de :
+1992 53 983 $
+1993 108 394 $
+1994 169 552 $
+1995 93 027 $
+2. en ce qui concerne le paragraphe 16l) de la Réponse [à l'avis d'appel], l'appelante a fait des présentations erronées par négligence, inattention ou omission volontaire ou a commis quelque fraude en déposant sa déclaration en fournissant quelque renseignement sous le régime de la Loi de l'impôt sur le revenu en :
+a) ne déclarant pas, dans ses déclarations de revenus, la totalité des revenus qu'elle avait reçus dans les années d'imposition de 1992 à 1995 aux montants de :
+1996 53 983 $
+1997 108 394 $
+1998 169 552 $
+1999 93 027 $
+b) ne collaborant pas avec le ministre en lui fournissant les renseignements demandés à maintes reprises afin de permettre une bonne vérification des années d'imposition en litige.
+FAIT à Toronto (Ontario), ce 28e jour de juin 2002.
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Crystal Lefebvre, traductrice
+[1] Par souci de commodité, les parties pertinentes de la Réponse à l'avis d'appel sont jointes aux présents motifs à titre d'annexe I. J'ai également joint à ces motifs, à titre d'annexe II, les motifs de l'appelante relatifs à sa Demande de précisions et la réponse de l'intimée à la demande.
+[2] La Réponse a été déposée le 25 avril 2002, et l'Avis de requête a été signifié le 27 juin 2003.
+[3] [1989] O.J. no 746 (H.C.J. de l'O); voir également Nabisco Brands Ltée c. Procter & Gamble Co. et al., C.A.F., no A-1303-84, 14 juin 1985 (5 C.P.R. (3d) 417).
+[4] Steiner v. Lindzon et al., (1977), 14 O.R. (2d) 122.
+[5] C.C.I., no 1999-1746(IT)G, 20 novembre 2001 (2002 DTC 1204), aux paragraphes 4 et 5.
+[6] D. B. Casson et I. H. Dennis, Odgers' Principles of Pleading and Practice in Civil Actions in the High Court of Justice, 22e éd., Londres, Stevens & Sons, 1981, p. 98 et 99.
+[7] Ibid., aux p. 106 et 107.
+[8] [1948] R.C.S. 486 (3 DTC 1182, 1183) (C.S.C). Voir également les commentaires du juge Cattanach dans la décision M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184, aux pages 5188 et 5189.
+[9] C.C.I., no 2000-2864(IT)G, 23 septembre 2002 (2002 DTC 2071) confirmée par [2003] A.C.F. no 1045 (C.A.F.).
+[10] Voir Ver c. Canada, [1995] A.C.I. no 593 et P. Gardner c. Canada,C.C.I, no 2000-3310(IT)G, 13 septembre 2001 (2001 DTC 915), aux paragraphes 5 à 8 et confirmée par [2002] C.A.F. 195.
+[11] Affaire Anchor Pointe, précitée, C.C.I. au par. 28, C.A.F. au par. 25.
+[12] (70 DTC 6235, 6237) (C. de l'É.).
+[13] Il peut y avoir des circonstances dans lesquelles les faits tenus pour acquis par le ministre au moment de l'évaluation du bien-fondé constituent les mêmes faits qu'il a tenus pour acquis au moment de l'imposition des pénalités. Par exemple, bien que le contribuable ait le fardeau de réfuter les faits tenus pour acquis par le ministre au moment de l'évaluation du bien-fondé, la Couronne a le fardeau de prouver ces faits pour justifier l'imposition de la pénalité imposée en vertu du paragraphe 163(2). Cela peut causer des problèmes.
+[14] Précitée.

@@ -1,0 +1,159 @@
+---
+title: "Dolbec c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28828/index.do"
+last_modified: "2008-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 464"
+citation2: ""
+neutral_citation: "2008 CCI 464"
+decision_date: "2008-08-12"
+language: "fr"
+item_id: "28828"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1338
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:29:39.082000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "666eeb68d5b2028198cabaf55093963620f9f4133690214a3e628a2ebc33e0ca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dolbec c. La Reine
+
+- Citation: 2008 CCI 464
+- Decision date: 2008-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1338, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dolbec c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-12
+Référence neutre
+2008 CCI 464
+Numéro de dossier
+2005-1243(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1243(IT)G
+ENTRE :
+CHRISTINE DOLBEC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 8 avril 2008, à Québec (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelante :
+Me Marie Hélène Savard
+Avocat de l’intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2001 est accueilli, avec dépens en faveur de l’appelante, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelante était justifiée de réclamer le montant de 180 000 $ à titre de perte en capital subie par l’appelante, selon les motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 12e jour d’août 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008 CCI 464
+Date : 20080812
+Dossier : 2005-1243(IT)G
+ENTRE :
+CHRISTINE DOLBEC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel à l’encontre d’une décision du ministre du Revenu national (le « ministre ») de refuser le report d’une perte en capital de l’appelante au montant de 245 000 $ encourue en 2002 et ayant été appliquée contre un gain en capital réalisé en 2001.
+[2] Le ministre a déclaré la perte en capital comme étant nulle selon le sous‑alinéa 40(2)g)(ii) de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch-1 (5e Suppl.) telle que modifiée (la « Loi »), parce que les informations et les documents fournis par l’appelante ne démontraient pas que les déboursés faits à Yanick Berthiaume et/ou à la société 9103-3712 Québec Inc., opérant sous la raison sociale de Berth‑Tech, constituaient une créance en vue de gagner un revenu tiré d’une entreprise ou d’un bien.
+[3] La perte en capital dont il est ici question découle des sommes que l’appelante a déboursées au cours des mois de septembre et de novembre de l’année 2001 au moyen de traites bancaires ou de versements d’argent dans un projet de casino virtuel dont le promoteur était monsieur Yanick Berthiaume. Les sommes investies par l’appelante ont été déboursées aux dates et selon les modalités ci‑après détaillées :
+a) le 7 septembre 2001, l’appelante a fait émettre à l’ordre de « cash » une traite bancaire no 85427599-064 datée du 7 septembre 2001 au montant de 20 000 $ dont 15 000 $ ont été transférés à S.S.C., une société du groupe Berth‑Tech, par traite bancaire;
+b) le 19 septembre 2001, l’appelante a fait émettre à l’ordre de Berth‑Tech une traite bancaire no 85428415‑064 datée du 19 septembre 2001 au montant de 30 000 $;
+c) le 19 septembre 2001, l’appelante a fait émettre à l’ordre de Berth‑Tech une traite bancaire no 08034363 datée du 19 septembre 2001 au montant de 150 000 $;
+d) le 20 septembre 2001, l’appelante a fait émettre à l’ordre de Berth‑Tech une traite bancaire no 85428421‑064 datée du 20 septembre 2001 au montant de 25 000 $;
+e) le 30 novembre 2001, l’appelante a effectué un versement d’argent de 20 000 $ à Berth‑Tech à partir de son compte bancaire personnel.
+[4] Les sommes visées par les alinéas d) et e) du paragraphe précédent avaient d’abord été avancées par la société 2840‑0810 Québec Inc., la société qui opérait le Cabaret Entre‑Nous et qui appartenait à l’appelante. L’appelante a remboursé à ladite société la somme de 45 000 $ au moyen d’un chèque daté du 1er octobre 2001 lequel comportait la mention pour « Remb. Avance Johanne » (pièce I‑2). Johanne est la fille de l’appelante qui a également investi de l’argent dans le casino virtuel, lequel opérait à partir des Iles Caymans.
+[5] Lors de son témoignage, l’appelante a indiqué que les sommes avancées à Berth‑Tech étaient des prêts à court terme comportant un taux d’intérêt de 10 % pour 30 jours. Elle a dit qu’elle n’était pas intéressée par les tables de jeu. Selon l’appelante, les sommes avancées à Berth‑Tech devaient servir à financer le coût d’achat d’un nouveau serveur informatique.
+[6] Dans une déclaration, selon la procédure allégée en vertu des articles 481.1 et suivants du Code de procédure civile, produite par l’appelante à la Cour supérieure, le 9 octobre 2002, pour faire condamner Yanick Berthiaume à rembourser à l’appelante la somme de 245 000 $, l’appelante a exposé ce qui suit concernant la demande de remboursement des sommes avancées à Yanick Berthiaume :
+3. À la mi-décembre 2001, la demanderesse a exigé le remboursement par le défendeur de la somme de deux cent quarante‑cinq mille dollars (245 000 $ Cdn), représentant la totalité des sommes investies par la demanderesse au mois de septembre 2001;
+4. Or, le défendeur avait convenu avec la demanderesse de procéder à un transfert bancaire de cette somme à partir d’une banque de Costa-Rica, vers le compte bancaire de la demanderesse au Canada, le tout tel qu’il appert d’un reçu de transfert bancaire transmis par télécopieur par le défendeur à la demanderesse et produit au soutien de la demande sous la cote P‑2, le défendeur étant sommé d’en produire l’original à défaut de quoi preuve secondaire en sera faite par la copie;
+5. Après vérification, auprès de son institution bancaire, il s’est avéré qu’aucune somme n’avait été déposée au compte de la demanderesse par le défendeur;
+6. Bien plus, lors de la transmission de cette confirmation par télécopieur, le défendeur avait pris soin de communiquer avec la demanderesse pour l’aviser qu’une somme supplémentaire de trois mille dollars (3 000 $ Cdn) lui serait donnée en argent — afin de compléter le montant total dû —, ce à quoi le défendeur s’est évidemment abstenu d’exécuter par la suite.
+[7] Suite au dépôt de la déclaration ci‑dessus mentionnée, un jugement a été rendu par la Cour supérieure le 18 février 2003 condamnant le défendeur Yanick Berthiaume à payer à l’appelante la somme de 245 000 $ avec intérêts depuis l’assignation, plus l’indemnité additionnelle prévue à l’article 1619 du Code civil du Québec et les dépens.
+[8] À l’audience, l’avocate de l’appelante a déposé comme pièce A‑6 une photocopie d’un billet à demande daté du 19 septembre 2001 ayant pour objet le prêt pour l’achat d’un serveur informatique pour l’opération du casino virtuel par lequel Yanick Berthiaume et/ou Berth‑Tech reconnaissait avoir reçu la somme de 225 000 $ du prêteur, Christine Dolbec, laquelle somme devait être remboursée au plus tard le 31 décembre 2001, avec intérêts de 10 %. Advenant un retard, un intérêt supplémentaire de 10 % par mois devait être payé et tous frais supplémentaires encourus seraient payés par le prêteur. Le billet est signé par Yanick Berthiaume pour Berth‑tech, Steve Blouin, un administrateur de Berth‑Tech, comme témoin, et par l’appelante pour elle‑même et le Cabaret Entre‑Nous.
+[9] Selon l’appelante, la photocopie du billet en question aurait été remise par monsieur Steve Blouin à sa fille Johanne dans la semaine qui a suivi la signature du billet par Yanick Berthiaume. Comme il ne s’agit que d’une photocopie de billet et non d’un original et puisque ledit billet n’a pas été mentionné dans la déclaration de l’appelante décrite au paragraphe 6 ci­‑dessus, je n’en tiendrai pas compte aux fins des présentes.
+[10] En raison des faits ci‑après décrits et de l’insolvabilité évidente du promoteur Yanick Berthiaume, l’appelante n’a pas été en mesure de faire exécuter de quelque façon que ce soit les conclusions du jugement qu’elle a obtenues contre ce dernier :
+a) le promoteur Berthiaume a également été poursuivi par trois autres investisseurs qui ont obtenu de la Cour supérieure une condamnation de leur payer le montant des sommes qu’ils ont investies dans un réseau de casino virtuel, soit 470 000 $, mais ces investisseurs n’ont pas réussi à faire exécuter leur jugement;
+b) le ou vers le 11 juin 2002, lesdits investisseurs avaient déjà signifié au promoteur Berthiaume ainsi qu’au Procureur Général du Québec et à la Sûreté du Québec, tiers-saisi en l’instance, un bref de saisie en main tierce après jugement;
+c) le 16 juillet 2002, un représentant des tiers‑saisis a comparu pour ceux‑ci et a solennellement déclaré que les tiers‑saisis détenaient une somme de 129 040 $ provenant d’une perquisition faite le 1er mai 2002 au 839 rue Moreau à Sainte‑Foy mais, qu’en vertu du Code Criminel, les tiers‑saisis ne pouvaient se départir de ces sommes, que le propriétaire de ces sommes était de surcroît inconnu et incertain à ce jour et que lesdites sommes faisaient déjà l’objet d’une saisie après jugement;
+d) le promoteur Berthiaume fut, suite à l’aventure de son projet de casino virtuel portant le nom de « Berth‑Tech », notamment mis en accusation sous plusieurs chefs de fraude et fut, même en relation avec cette affaire, accusé de deux chefs de meurtre prémédité pour lesquels il purge présentement une peine préventive d’emprisonnement dans un centre de détention fédéral.
+[11] D’un point de vue technique, l’appelante n’a pas déclaré dans ses déclarations de revenu pour les années 2001 et 2002 la déduction de la perte en capital de 245 000 $ et n’a jamais produit au ministre une demande de détermination de perte, ni produit de choix en vertu de l’article 50 de la Loi. La cotisation initiale de l’année 2001 de l’appelante a été émise le 17 juin 2002. Le 19 septembre 2002, l’appelante a demandé d’appliquer à l’encontre de son revenu imposable de l’année 2001, la perte de 62 209 $ provenant de l’année 1996 et la perte de 242 000 $ suite à son investissement dans la société Berth‑Tech qui semble être devenue insolvable en fin d’année 2001. Suite à la lettre du 19 septembre 2002, l’Agence des douanes et du revenu du Canada (ci‑après l’« Agence ») a confirmé par une lettre datée du 23 décembre 2002 que la demande de rajustement de la déclaration de revenu de l’année 2001 avait été acceptée à l’égard du report de la perte de 62 209 $, mais que pour la perte de 2002 l’appelante devrait demander le report rétrospectif lors de la production de la déclaration de 2002 ou lors de la réception de l’avis de cotisation de la déclaration de cette année. Suite à cette lettre, un avis de nouvelle cotisation pour l’année 2001 fut émis le 2 janvier 2003 et un autre avis de nouvelle cotisation pour l’année 2001 fut émis le 14 juin 2004 suite à une autre lettre de l’appelante datée du 17 mars 2004.
+[12] La cotisation initiale pour l’année 2002 de l’appelante a été émise le 14 avril 2003. Suite aux demandes de rajustement de l’appelante datées du 27 mars 2003 (perte de 245 000 $) et du 9 avril 2003 (impôts fonciers), l’Agence a demandé à l’appelante par une lettre datée du 23 septembre 2003 les renseignements suivants concernant la perte de 245 000 $ :
+- s’il s’agit d’un prêt, original du contrat
+- preuve de paiement
+- document pour justifier la poursuite
+- jugement au complet de la Cour supérieure.
+Suite à l’analyse des documents et informations fournis par l’appelante, l’Agence a confirmé par une lettre datée du 17 mars 2004 que le report de la perte en capital de 245 000 $ encourue en 2002 par l’appelante et applicable contre ses revenus de l’année 2001 était refusé et que la demande de rajustement de la dépense d’impôt foncier était acceptée.
+Analyse
+[13] L’intimée allègue que la perte en capital réclamée ne constitue pas une perte déductible puisque les déboursés n’ont pas été faits dans le but de gagner un revenu. L’intimée se base sur l’alinéa 40(2)g)(ii) de la Loi qui se lit somme suit :
+40(20)g) – est nulle la perte subie par un contribuable et résultant de la disposition d’un bien, dans la mesure où elle est :
+(ii) une perte résultant de la disposition d’une créance ou d’un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu (qui n’est pas un revenu exonéré) d’une entreprise ou d’un bien, ou en contrepartie de la disposition d’une immobilisation en faveur d’une personne avec qui le contribuable n’avait aucun lien de dépendance.
+[14] Il y a d’abord lieu de préciser que les copies des traites bancaires et du relevé du compte de banque personnel de l’appelante soumis par l’appelante constituent, à mon avis, un élément de preuve incontournable des déboursés effectués par l’appelante dans la société Berth‑Tech.
+[15] Il en est de même de la copie du reçu de transfert de banque de la Banco de Costa Rica daté du 13 décembre 2001, dont l’appelante était bénéficiaire à concurrence de 242 000 $. Ce document atteste du montant de la créance de l’appelante et démontre que les déboursés de l’appelante à la société Berth‑Tech n’étaient pas une libéralité, ni le remboursement d’une dette de jeu de la fille de l’appelante. Les procédures entreprises par l’appelante pour obtenir un jugement de la Cour supérieure confirme également que les déboursés effectués par l’appelante devaient lui être remboursés.
+[16] Par contre, pour que la perte subie par l’appelante puisse constituer une perte en capital admissible, l’appelante doit de plus démontrer par prépondérance de preuve son intention véritable de faire un placement en vue d’en tirer un revenu d’entreprise ou de bien. La preuve à cet égard repose essentiellement sur le témoignage de l’appelante qui a dit que les déboursés consentis à Berth‑Tech étaient des prêts à court terme comportant un taux d’intérêt de 10 % pour 30 jours. Il y a certes le billet, mais je me dois de l’écarter ne connaissant pas les circonstances dans lesquelles il a été obtenu. Le témoignage des signataires de ce billet, autre que l’appelante, aurait été extrêmement utile.
+[17] L’appelante est une femme d’affaires expérimentée qui a été victime d’une fraude au même titre que plusieurs autres investisseurs de la région de Québec. Je ne peux m’imaginer que des personnes d’expérience comme l’appelante puissent investir des sommes d’argent aussi considérables dans un aussi court laps de temps sans avoir l’intention de tirer des revenus importants de leur investissement.
+[18] Le témoignage de l’appelante est crédible et elle a dit avoir offert aux promoteurs du casino virtuel de laisser tomber les intérêts si le capital investi dans Berth‑Tech était remboursé. L’offre de Berth‑Tech de verser 3 000 $ comptant n’a jamais été menée à terme et n’a jamais été reçue par l’appelante.
+[19] Selon moi, la preuve soumise, constituée principalement par des copies de traites bancaires, d’un relevé de compte bancaire et d’un reçu de transfert d’une banque étrangère de même que d’explications quant au contexte et aux circonstances entourant les déboursés de l’appelante, est suffisante pour conclure à l’existence de la probabilité requise. Par conséquent, le ministre n’était pas justifié de refuser à l’appelante la perte en capital réalisée au cours de l’année d’imposition 2002. Les arguments avancés par l’avocat de l’intimée à l’effet que les déboursés de l’appelante avaient pour but de permettre à sa fille Johanne de récupérer les sommes qu’elles avaient investies dans le casino virtuel ou qui lui étaient payables, n’ont pas été prouvés d’aucune façon.
+[20] Le montant de la perte en capital réalisée en 2002 par l’appelante doit cependant être limité à 180 000 $, i.e. afin d’exclure les déboursés à la société S.C.C., une société dont le rôle n’a pas été précisé, et les déboursés effectués par la société 2840‑0810 Québec Inc. (Cabaret Entre‑Nous) parce que le chèque du remboursement de l’appelante comportait la mention « Remb. Avance Johanne », ce qui démontre que les sommes déboursées par la société 2840‑0810 Québec Inc. ont été utilisées par la fille de l’appelante et non par l’appelante elle‑même.
+[21] La dernière question à traiter concerne le refus du ministre d’accorder le report de la perte en capital ou d’une partie de cette perte réclamée par l’appelante à l’encontre de ses gains en capital de l’année d’imposition 2001. Bien que les exigences techniques de la Loi n’ont pas été respectées à la lettre par l’appelante, je suis d’avis que la perte en capital admissible réalisée par l’appelante au montant de 180 000 $ doit être appliquée à l’encontre des gains en capital de l’appelante de l’année 2001. Malgré les déficiences techniques, l’Agence a tout de même considéré les demandes de rajustement de l’appelante et n’a pas invoqué lors de la révision le défaut des exigences techniques prévues à la Loi.
+[22] Pour ces motifs, je fais droit à l’appel, avec dépens en faveur de l’appelante.
+Signé à Montréal (Québec), ce 12e jour d’août 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008 CCI 464
+Nº DU DOSSIER DE LA COUR : 2005-1243(IT)G
+INTITULÉ DE LA CAUSE : Christine Dolbec et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 8 avril 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 12 août 2008
+COMPARUTIONS :
+Pour l'appelante :
+Me Marie Hélène Savard
+Avocat de l’intimée :
+Me Alain Gareau
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante :
+Nom : Me Marie Hélène Savard
+Cabinet : Boily Morency Roy
+Ville : Québec (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

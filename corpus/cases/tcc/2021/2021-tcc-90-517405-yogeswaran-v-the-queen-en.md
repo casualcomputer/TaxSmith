@@ -1,0 +1,178 @@
+---
+title: "Yogeswaran v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/517405/index.do"
+last_modified: "2021-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 90"
+citation2: ""
+neutral_citation: "2021 TCC 90"
+decision_date: "2021-12-07"
+language: "en"
+item_id: "517405"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4425
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:17:21.699000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4587f1d87a79e6d1579a6f5226aff407d7fc8aaefbdab6220d865718c6ffc4ed"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yogeswaran v. The Queen
+
+- Citation: 2021 TCC 90
+- Decision date: 2021-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4425, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yogeswaran v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-12-07
+Neutral citation
+2021 TCC 90
+File numbers
+2017-630(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-630(IT)I
+BETWEEN:
+GOWRY YOGESWARAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 14, 2021 at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Desmond Jung
+Tony C. Cheung
+JUDGMENT
+In accordance with the attached Reasons for Judgment the Appellant’s appeal will be allowed, without costs, with the appealed reassessment of her 2011 taxation year referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that 50% of the $760.39 total cellular phone charges and 50% of the $421.43 total internet charges are to be allowed as deductible business expenses.
+Signed at Halifax, Nova Scotia, this 7th day of December 2021.
+“B. Russell”
+Russell J
+Citation: 2021 TCC 90
+Date: 20211207
+Docket: 2017-630(IT)I
+BETWEEN:
+GOWRY YOGESWARAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+I. Introduction:
+[1] The Appellant, Ms. Gowry Yogeswaran (GY), appeals the reassessment of her 2011 taxation year raised by the Minister of National Revenue (Minister) July 21, 2014 under the federal Income Tax Act (Act). Her appeal focuses on the Minister’s disallowance of claimed business expenses.
+[2] The appealed July 21, 2014 reassessment reflects gross business income of $62,075 and allowed business expenses of $11,021, from $60,509 of claimed business expenses. GY considers she should be allowed significantly additional deductible business expenses – hence this appeal.
+II. Issue:
+[3] The issue is whether for her 2011 taxation year GY is entitled to deduction of additional business expenses.
+III. Evidence/Analysis:
+[4] At the hearing only GY testified. She said that in 2011 she commenced a business selling insurance products, in addition to being a full time insurance company employee. She did not give evidence as to particulars of her conduct of her new business. She hired a tax return preparer to prepare her 2011 return. GY said that in 2011, being her first year operating a business, she had little experience in reporting business expenses.
+[5] GY, who represented herself at the hearing, submitted little evidence additional to what she had previously provided the Minister. She testified generally regarding several categories of claimed business expenses which she felt the Minister had failed to fully or more fully accept. She primarily asserted that she could not have earned such substantial gross business revenue without having incurred a greater total of business expenses than recognized by the Minister.
+[6] In addressing this appeal one must keep in mind a basic principle of tax litigation, that each of the Minister’s assumptions of fact as pleaded in the Respondent’s Reply is presumed true except to the extent the Appellant has made at least a prima facie case in rebuttal.
+A. Meals and Entertainment Expenses:
+[7] In respect of GY’s “meals and entertainment” expense category, the Respondent produced what GY previously had provided the Minister, being approximately 104 receipts from 2011 totalling $3,170, mostly from fast food restaurants and coffee shops within GY’s geographic region, as well as five receipts totalling $372 for entertainment. However, none of these receipts had been written upon or otherwise annotated, whether or not contemporaneously, to show for individual receipts who was consuming the purchased food/drink and for what business purpose. Nor did GY produce any daily or weekly diary or client list that could have aided in establishing this information. Now in 2021, not surprisingly, GY is unable to speak specifically as to individual receipts, regarding as to who consumed the food and drink, or as to business purpose.
+[8] GY said that currently she knows these receipts relate to 2011 business activities basically because in 2011 she had stored all such receipts together for tax reporting purposes.
+[9] Respondent’s counsel cited Ng v. Her Majesty, 99 DTC 208 (TCC), para. 12, wherein Justice Mogan criticized the taxpayer in that matter for not writing on each expense receipt the business relevant details of the receipted transaction. Those claimed expenses were thus denied. I distinguish that decision on the basis that that taxpayer was found by Justice Mogan to have been a “sophisticated businessman”. That is not the case for GY, for whom 2011 was her first year operating a new business.
+[10] In the Reply, the Respondent pleaded as ministerial assumptions (paras. 12(i), (j) and (k)) that GY only incurred meals and entertainment expenses of $81.71, and that if the Appellant had paid for the further claimed meals and entertainment expenses of $4,698.29, then these were personal (not business) expenses.
+[11] I reluctantly conclude that GY did not present a prima facie case defeating any of the relevant ministerial assumptions regarding the “meals and entertainment” expense category. She was unable to speak specifically regarding any of these receipts, or otherwise show to any extent any business purpose of the claimed expenses, beyond simply asserting same. GY provided no evidence – orally or in written form – identifying the business connection of any of those receipts. I have little doubt that some if not many of those receipts evidenced deductible business expenses, but unfortunately I was given insufficient evidence to recognize same.
+B. Supplies Expenses:
+[12] GY claimed business expenses of $4,600 for a “supplies” expense category, of which the Minister had allowed only $41.52. GY acknowledged that this amount was a “round figure” and that maybe her income tax preparer had added something to the actual amount - she did not know. She said also some receipts were lost and other supplies had been paid for in cash without receipts being received. $475 for a laptop and $186 for a cell phone were included in this claim category. Those two amounts were denied, on the basis of being capital assets. No capital cost allowance was claimed. Regarding three purported purchases of this claim totalling $1,451, GY could not identify what had been purchased. GY had no specific evidence supporting any supplies charges that the Minister had not already recognized.
+[13] The applicable ministerial assumptions were pleaded at paras. 12 (q), (r), (s) and (t) of the Reply, cumulatively to the effect that GY had not purchased any supplies for a business purpose additional to the $41.52 the Minister already had recognized.
+[14] I am unable to conclude that GY made out any prima facie case rebutting any of the ministerial assumptions. No specific evidence was tendered suggesting that the Minister had assumed incorrectly.
+C. Salaries and Benefits Expenses:
+[15] Also claimed by GY was a “salary or wage” business expense of $5,800, that she said she had paid over time to her teenage daughter, for the latter’s assistance with “cold calling” and organization of office paperwork. GY stated that the pay rate was $150 to $200 to the daughter every two weeks. (I note that $200 every two weeks would amount to $5,200 per year – significantly less than the claimed amount of $5,800.) She testified that the amounts were paid in cash, and without receipts. The daughter attended school so most of her work was done during weekends. No record was kept of the hours she worked. The daughter was not called to testify. GY referred to her “tax guy” in putting forward this quantum of claim. One may wonder to what extent cold calls made during weekends to sell insurance products would be well received, and how well versed the daughter might have been in leading an insurance sales pitch in the course of a weekend cold call.
+[16] Also, the ministerial assumptions (Reply, paras. 12(v) – (z)) included in particular two statements – that the Appellant had issued a T5018 slip (statement of contract payments) for $5,800 allegedly paid to the daughter in 2011; and also that this T5018 slip had not been received by Canada Revenue Agency. Also assumed was that the daughter had not filed a return in 2011, and that the $5,800 had not been paid to the daughter. Respondent’s counsel submitted that these payments if made constituted payments of an allowance from parent to teenage child.
+[17] GY did not make out any case that to any cogent extent contested the ministerial assumptions. Had a record of the payments and or of the daughter’s work hours been kept, and had the daughter testified, then GY’s case likely would have been assisted. But none of that happened here. Here, largely the evidence consisted of GY’s assertions that payments of some amount (she wasn’t sure as to quantum) had been made, but without any written record or corroborating testimony supporting same.
+[18] Given these circumstances the salaries and wages expense claim is denied.
+D. Telephone and Utilities Expenses:
+[19] Also claimed were “telephone and utilities” business expenses. Ex. R-4 identifies a total claim of $4,228 for cable tv ($3,046.14), telephone ($760.39) and internet ($421.23). GY readily acknowledged that there was no business basis for claiming cable tv payments, and she said she did not know why her tax return preparer had included that in preparing the 2011 tax return.
+[20] The relevant telephone was GY’s cellphone. She said about half her cellphone use was for business. She said that in more recent years the Minister had accepted a 50/50 split as between her personal and work cellphone usage.
+[21] The utility claimed was her internet service. GY testified that usage of insurance company software requires internet service. Again there was no breakdown revealing the actual internet component of the total monthly bill. GY said 50% would be an appropriate split for business usage both of the internet and her cellphone. She said she had a phone log, but had not brought it with her to Court.
+[22] This claim was supported by GY’s monthly bank statements for 2011, showing various “telephone” bill payments, although corroborated by various Bell Mobility invoices, being part of Ex. R-4. All of the payments included in the claimed $760.39 for telephone and $421.43 for internet were shown in Bell Mobility invoices GY had provided. Only the telephone and internet payments were reflected in these Bell Mobility invoices – not also the cable tv payments. Thus the cable tv payments could be distinguished from both the cell and internet “telephone” bill payments shown in the bank statements.
+[23] The ministerial assumptions, at paras. 12(dd) and (ee) of the Reply, are to the effect that $2,880 was not incurred for telephone and utilities and that basic monthly charges for same were personal rather than business charges.
+[24] In my view GY established a prima facie case for entitlement to deduction of 50% of the $760.39 total cell charges and 50% of the $421.43 total internet charges. I accept GY’s evidence that her business use of each service is approximately 50% of total usage. No evidence was called that challenged the evidence of GY referred to above. (I note that the evidence does not clarify the basis for the amount of $2,880 referenced in the ministerial assumptions.)
+E. Motor Vehicle Expenses:
+[25] Initially GY had claimed $27,213 for her “motor vehicle” expense category, of which $1,869 was allowed. The Minister concluded that 25% of her driving had been for business purposes. GY had a log (Ex. A-2, “2011 business trip details”) as to business travel showing 2011 dates of travel, kilometres per trip (totalling 10,225 for the year), destinations and business purposes.
+[26] She lacked receipts for most of her claimed $7,880 for “repairs and maintenance”, as part of the overall motor vehicle claim. She said some repairs and maintenance work had been done on a cash basis without receipts being issued.
+[27] Subsequently she submitted to the Minister a revised claim for repairs and maintenance totalling $3,236 (i.e., less than half the originally claimed $7,880).
+[28] This reduced figure includes the round figure of $1,500, described as payment to Costco for winter tires for the Toyota Venza, with accompanying comment – “But no receipt/Lost somewhere”. (Ex. R-5). There was no explanation as to why a replacement receipt had not been obtained.
+[29] Various of the receipts for other charges associated with the reduced claim also were problematic by receipts. A receipt for $39.55 was dated in 2010. One for $51.36 had a 2013 date. Another for $39.55 (again) was dated October 18, 2012. Another invoice, for $61.23, is dated April 5, 2012. Two generic receipts (no garage identifications, with indecipherable signatures and seemingly written by the same hand) purport to be for the round figures of “$420.00” for “winter tires (paid cash)” showing date of November 16, 2011; and “$316.00” for “brakes (paid cash)” showing date of April 20, 2011.
+[30] An insurance payment claim for one vehicle was denied on the basis of lack of any collaborating documentation from the insurance company.
+[31] GY said her business use of the two pertinent vehicles was 90% of total use. This was her estimate, unassisted by any detailed explanation or calculation.
+[32] The Minister assumed that based on claimed fuel costs of $3,673, total kilometres for the 2011 year would have been in the area of 39,809. That number was approximately four times the total business travel distance of 10,225 kilometres shown in the above noted log for business driving. Thus the Minister concluded that business purpose travel was 25% of total travel.
+[33] The Respondent called no witness to further explain this assumption. However, neither did GY establish on at least a prima facie basis that the assumption was wrong. While she submitted generally that she had driven more than 25% of total distance for business purposes, the evidence she had provided (business driving log and total fuel charges) was what the Minister had used in concluding she had had of 25% of business usage.
+[34] Car “lease payments” totalling $5,750 were claimed for one of the two pertinent vehicles. However, GY acknowledged she had not leased the particular vehicle; rather, it had been purchased. The claim was based on two “advance - down payments” totalling $3,700 plus four monthly payments each of $554 (Ex. R‑7) totalling $5,916, i.e. slightly more than the said claimed amount. These monthly payments were evidenced only by bank statements which did not identify the actual payee. The entirety of the $5,750 claim was denied. GY provided no breakdown as between interest and principal.
+[35] I conclude that GY established no prima facie case contradicting the ministerial assumptions (Reply, paras. 12(hh) – (rr)) pertaining to the reassessment of this head of expense.
+F. Highway 407 ETR Expenses:
+[36] Highway 407 Express Toll Route expenditures were claimed, totalling $2,800, being another “round figure”. GY testified she had paid these tolls for both herself and her husband. But her husband’s work travel had nothing to do with her business. GY could not break out toll payments as between him and her. The Minister allowed $637 of this claim, based on the total of receipts she had provided. The remainder of the claimed amount ($2,163) was denied.
+[37] I note that the pertinent ministerial assumption at para. 12(oo) of the Reply reads, “407 ETR payments made for the spouse of $636.77 was not Appellant’s business expenses during the 2011 taxation year.” This assumption mis-states what the Minister actually did here in reassessing the $637.77 to the credit of GY – not her spouse. The apparent discrepancy was not identified at the hearing. I have decided due to lack of evidence reasonably supporting any alternative to leave the reassessed amount as is. Giving credit for $636.77 to the spouse per the assumption does not render impossible – if not implausible - that GY is entitled to that same amount of 407 ETR expenses as a deductible business expense.
+G. Business Use of Home Expenses:
+[38] As well, GY claimed business use of home expenses totalling $11,965. The Minister allowed $1,873. The Minister fully denied the $18,000 principal portion of the claimed mortgage payments while mortgage interest of $9,660 was allowed. GY’s undocumented claim of $11,200 for maintenance of the home (renovation of basement and of kitchen cupboards and counter) without any contemporaneous receipts for same was fully denied. Such work would not relate to the home office itself (a spare bedroom).
+[39] The Minister assumed the personal use percentage of the premises as being 90% as opposed to the claimed 71.5%. Neither prior to nor at the hearing did GY give evidence as to the measure of the total area of premises and the total area of the upstairs spare bedroom that she testified had been exclusively used for the business. Also no evidence was given to further support claimed expenses including heating of the premises ($7,660 claimed and $3,732 allowed). Noted also is that insurance of $540 was claimed, while the larger amount of $784 was allowed. Almost all of the $4,650 claim for property tax was allowed. These allowed expenses were all subject to the finding of 10% business use.
+[40] I see no basis for concluding that any of the Minister’s underlying assumptions as to this head of claim, pleaded at paras. 12(xx) to (ccc) of the Reply, were defeated by any prima facie case put forward by GY. This is as no such case was put forward.
+IV. Conclusion:
+[41] Thus, this appeal will be allowed, without costs, with the appealed reassessment referred back to the Minister for reconsideration and reassessment on the basis that 50% of the $760.39 total cellular phone charges and 50% of the $421.43 total internet charges are to be allowed as deductible business expenses.
+[42] Finally, I respectfully encourage the Minister to view favourably any application that GY (self-represented in this informal appeal matter) might make or has already made under subsection 220(3.1) of the Act for cancellation in whole or part of interest payable in respect of her 2011 taxation year. Any such application by GY for cancellation of interest must be made by December 31, 2021, per subsection 220(3.1), being 10 years from the end of the 2011 taxation year.
+Signed at Halifax, Nova Scotia, this 7th day of December 2021.
+“B. Russell”
+Russell J.
+CITATION:
+2021 TCC 90
+COURT FILE NO.:
+2017-630(IT)I
+STYLE OF CAUSE:
+GOWRY YOGESWARAN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 14, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+December 7, 2021
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Desmond Jung
+Tony C. Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

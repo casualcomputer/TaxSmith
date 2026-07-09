@@ -1,0 +1,230 @@
+---
+title: "9096-4529 Quebec Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26088/index.do"
+last_modified: "2005-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 157"
+citation2: ""
+neutral_citation: "2005 TCC 157"
+decision_date: "2005-02-08"
+language: "en"
+item_id: "26088"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4149
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:03:49.437000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5908c2ed9f96d05c29eac16fcf38dd36a6148656aaa5d2237f074e715dfd8111"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9096-4529 Quebec Inc. v. M.N.R.
+
+- Citation: 2005 TCC 157
+- Decision date: 2005-02-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4149, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9096-4529 Quebec Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-08
+Neutral citation
+2005 TCC 157
+File numbers
+2004-792(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-792(EI)
+BETWEEN:
+9096-4529 QUÉBEC INC.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on February 18, 2005 at Sherbrooke, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Robert Jodoin
+Counsel for the Respondent:
+Susan Shaughnessy
+_______________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of March 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of April 2008.
+Brian McCordick, Translator
+Citation: 2005TCC157
+Date: 20050208
+Docket: 2004-792(EI)
+BETWEEN:
+9096-4529 QUÉBEC INC.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a determination that the work performed by Martin Goulet for the Appellant, 9096‑4529 Québec Inc., during the period from February 4 to August 11, 2002, was performed under a genuine contract of service.
+[2] To explain and justify the determination, the Respondent set out all the facts on which he had relied in the Reply to the Notice of Appeal. Those facts are as follows:
+[TRANSLATION]
+(a) The Appellant operates a newspaper and advertisement distribution business. (admitted)
+(b) During the period in issue, the Appellant had a contract with the Transcontinental company to distribute "ad bags" in and around the city of St‑Hubert. (admitted)
+(c) The Appellant hired carriers to deliver the ad bags to all doors in the area covered by its contract.
+(d) The worker provided carrier services to the Appellant from February 4 to August 11, 2002.
+(e) The worker did the same work for the Appellant throughout the period in issue, namely delivering an ad bag to the door of every house in the area specified by the Appellant.
+(f) The worker delivered the ad bags under the Appellant's supervision and control.
+(g) The worker provided his services on Saturdays, Sundays, Tuesdays, Wednesdays and Thursdays. (admitted)
+(h) Throughout the period in issue, the Appellant's truck picked up the worker at home every morning he worked. (admitted)
+(i) The worker received a $20.00 advance on his pay every morning he worked.
+(j) The Appellant claims that the worker provided services as an employee from February 4 to July 1, 2002, and as a self‑employed worker from July 2 to August 11, 2002, even though there was no significant change in the worker's conditions apart from the method of payment.
+(k) The Appellant issued a T4 slip in the worker's name for his earnings from February 4 to July 1, 2002, with source deductions, and a T4A slip for his earnings from July 2 to August 11, 2002, with no deductions. (admitted)
+(l) The Appellant claims that, when the worker was considered an employee, the Appellant's truck followed and supervised him and a small group of workers the entire day, supplying them with more ad bags after a few streets, whereas, when he was considered self‑employed, the truck left all the ad bags on one street corner and the worker had to distribute them. (admitted)
+(m) From February 4 to July 1, 2002, the Appellant paid the worker $7.00 an hour. (admitted)
+(n) He worked 38 or 40 hours a week during that time. (admitted)
+(o) From February 4 to July 1, 2002, the Appellant paid the worker $5,713.75 for 816.25 hours of work. (admitted)
+(p) From July 2 to August 11, 2002, the Appellant paid the worker $100.00 per 1,000 doors for delivering ad bags and $50.00 per 1,000 doors for delivering newspapers. (admitted)
+(q) The Appellant paid the worker $1,271.50 for the five weeks of work from July 2 to August 11, 2002. (admitted)
+(r) On January 1, 2002, the minimum wage was $7.00 an hour. (admitted)
+(s) From July 2 to August 11, 2002, the worker received more than $245 a week for each of his five weeks of work. (admitted)
+[3] The facts set out in subparagraphs (a), (b), (g), (h) and (k) to (s) were admitted.
+[4] Testimony was given by Manon Bond, the president of the company for which the work was performed. She explained that the company had been in the business of distributing advertising flyers for several years.
+[5] The company's main client was Transcontinental. The distribution work varied; in some cases, several flyers had to be placed in a bag and then distributed, while in other cases the advertising material was ready for distribution.
+[6] The Appellant company also received very specific instructions on the area to be covered and the time at which everything had to be distributed by carriers.
+[7] The carriers were hired based on the offers of services they submitted to the Appellant. The company also advertised to recruit carriers for the distribution work that had to be done.
+[8] The company's employees also included drivers who transported the advertising material to be distributed to the various distribution points. The drivers were also responsible for transporting the carriers and ensuring that the quality of their work was good and that the correct quantity was distributed at the proper places within the required time.
+[9] At one point, the drivers transporting the advertising material and the carriers responsible for distributing it in their trucks were stopped by highway patrol officers, who prohibited this type of transportation mainly because the carriers could not wear seatbelts inside the trucks.
+[10] In addition to the Appellant's drivers, who made sure the distribution operations ran smoothly, Transcontinental also had supervisors in the field who checked whether the work was being done properly and in accordance with all its instructions and expectations.
+[11] Some carriers had a car or other means of transportation. Others, including Mr. Goulet, did not have a vehicle or any other means of transportation.
+[12] When the carriers had no means of transportation, the drivers employed by the Appellant went to their homes in the morning at a predetermined time to drive them to the company's premises. The advertising material was then loaded onto the truck. The driver and the carriers left the premises to distribute the material in specific areas. Once distribution was finished in one area, the driver drove the carrier to another area, and so on. The delivery time varied depending on the number of carriers available.
+[13] The carriers were paid an hourly rate equal to the minimum wage.
+[14] Because of constant problems with highway patrol officers, Ms. Bond decided to change this procedure. According to her testimony, the drivers stopped transporting the carriers from one place to another.
+[15] From then on, the drivers dropped off the advertising material at strategic locations, and the carriers had to go to those locations to stock up and then leave with the number of copies they needed for one or more streets.
+[16] After distributing the material, they returned to the place where the drivers had dropped off the material and continued the same process until there was no more material left to distribute.
+[17] However, the company continued transporting the carriers who had no means of transportation. At a predetermined time in the morning, the drivers went to the carriers' homes and drove them to the company's premises.
+[18] Ms. Bond, the company's president, explained that this did not cause any problems because the highway patrol officers were not on duty "early in the morning" or, if they were, did not monitor traffic as much.
+[19] Mainly because of the problem with the highway patrol officers, she decided one day to change the rules as of July 2, 2002. According to her, the carriers all became self‑employed workers at that time. The method of paying them was also changed.
+[20] They had been paid an hourly rate until then, but, as of July 2, 2002, they were paid $100 per 1,000 doors on the weekend and $50 per 1,000 doors during the week. The difference between the two could be explained by the number of flyers in each bag, since the number had a direct effect on the weight of the material to be distributed.
+[21] Several times during Ms. Bond's testimony, it became apparent to the Court that she is a person who is not easily daunted. She is authoritarian by nature, and there is no doubt that she managed her company in a very disciplined manner.
+[22] Ms. Bond explained that she had decided to change the procedure used for the persons responsible for distribution because of the problems experienced with the highway patrol officers for the reasons mentioned above.
+[23] Although this is a rather unusual way of justifying or explaining a decision to change rules on the performance of work, Ms. Bond did not provide any other explanation.
+[24] One thing is certain: according to her explanations, she was the one who implemented the changes. The carriers had to accept them. She said that, at one point, to avoid misunderstandings or misinterpretations, she began having the carriers sign a contract so there was no ambiguity about the nature of the contractual relationship between them and the company she ran.
+[25] Martin Goulet, the carrier whose work was the subject of the determination at issue, also testified briefly. He stated that his working conditions had never changed and that all the terms and conditions for the performance of his work as a carrier had always been the same.
+[26] Mr. Goulet, aged 30, had worked as a carrier since the age of 14. He did his work in a certain way and had always done it the same way. His answers to all the questions made sense and were plausible. When asked very clearly and unequivocally by the Court whether the way he performed his work had changed as of July 2, 2002, he spontaneously and categorically said "no".
+[27] In this case, the Court must determine the nature of the work contract at issue based on the evidence and the facts from the relevant period.
+[28] Prima facie, the testimony of Ms. Bond and Mr. Goulet is completely contradictory on a very important point. First, Ms. Bond stated that the working conditions had been changed completely as of July 2002, since the carriers, who had been employees until then, became self‑employed workers and ran their own businesses as of that time.
+[29] At first glance, these contradictory versions are quite difficult to understand, especially since both witnesses seemed completely credible. In addition, the contradictions relate to an important point.
+[30] The contradictions can be understood and above all explained by analysing the documentary evidence, and specifically the bundled photocopies of cheques.
+[31] These cheques confirm Ms. Bond's testimony, since two things are written or noted on them starting in July: the words [translation] "SELF-EMPLOYED WORKER" and a notation that the work was paid by the unit or piece as of that time, which shows that the basis of payment also changed. These additions to the cheques confirm Ms. Bond's explanations fully.
+[32] How, then, can we explain the version or explanations provided by Mr. Goulet, who, according to the employer, was an employee until the change on July 2, 2002?
+[33] The two versions can be understood and explained by looking at the conduct of the parties involved and the circumstances that existed when Ms. Bond made the unilateral changes.
+[34] She decided unilaterally one day, without consulting anyone, to make her carriers, who had been employees until then, self‑employed workers or independent contractors as of July 2, 2002.
+[35] From that time on, she followed through on her decision and made the corresponding changes to the pay stubs, including, no doubt, as regards the various source deductions.
+[36] Several carriers, including Mr. Goulet, were undoubtedly incapable of understanding the change, let alone differentiating between the situation prior to the change and the situation following it. I have no doubt that they were told of the change and that they agreed; but they did so without understanding the change, which probably had the effect of increasing their net pay because of the smaller number of deductions.
+[37] In Ambulance St-Jean v. Canada (Minister of National Revenue – M.N.R.) [2004] F.C.J. No. 1680 (F.C.A.) (Q.L.), the following is stated at paragraph 3:
+3 Although the stated intent of the parties or their mutual understanding are not necessarily determinative of the nature of their relationship, they are, however, entitled to considerable weight in the absence of evidence to the contrary, such as a behaviour which betrays or contradicts the said intent or understanding. Where the parties "have freely elected to come together in separate business arrangements rather than one side arbitrarily and artificially imposing that upon the other, so that in fact it is a sham, parties should be left to their choice and that choice should be respected by the authorities". . . .
+[38] The intent and will of the parties to a work contract are certainly very important in determining the nature of the contract. However, this presupposes that both parties have consented freely, whether tacitly or expressly. To consent, a party must be able to understand and accept the underlying conditions.
+[39] The Respondent referred the Court to the following provisions of the Civil Code of Québec, S.Q. 1991, c. 64, on the formation of contracts:
+1378. A contract is an agreement of wills by which one or several persons obligate themselves to one or several other persons to perform a prestation.
+Contracts may be divided into contracts of adhesion and contracts by mutual agreement, synallagmatic and unilateral contracts, onerous and gratuitous contracts, commutative and aleatory contracts, and contracts of instantaneous performance or of successive performance; they may also be consumer contracts.
+. . .
+1380. A contract is synallagmatic, or bilateral, when the parties obligate themselves reciprocally, each to the other, so that the obligation of one party is correlative to the obligation of the other.
+When one party obligates himself to the other without any obligation on the part of the latter, the contract is unilateral.
+. . .
+1385. A contract is formed by the sole exchange of consents between persons having capacity to contract, unless, in addition, the law requires a particular form to be respected as a necessary condition of its formation, or unless the parties require the contract to take the form of a solemn agreement.
+. . .
+1386. The exchange of consents is accomplished by the express or tacit manifestation of the will of a person to accept an offer to contract made to him by another person.
+[40] In this case, there is no doubt that 9096‑4529 Québec Inc. understood the effects and consequences; however, the situation was very different for the carrier, Martin Goulet.
+[41] Moreover, Mr. Goulet was obviously not the only person who did not understand, since Ms. Bond herself said that, at one point, to avoid any confusion, she started having the carriers sign a specific document in this regard, which explains Mr. Goulet's misunderstanding or at least his version of the facts.
+[42] As Mr. Goulet saw it, his working conditions never changed, and he always did the work in the same way. Indeed, his description of the way he always did his work as a carrier showed that the work was done within a well‑defined framework: the work was controlled and supervised through the company's driver, who was responsible for providing the carriers with the advertising material and telling them where they had to distribute it.
+[43] Since Mr. Goulet did not have a means of transportation, the company picked him up at home each morning when there was distribution work to be done.
+[44] Mr. Goulet explained that the variability of working hours basically depended on the number of carriers available, which varied a great deal from one day to the next. The company provided everything he needed to do his work.
+[45] He was perfectly integrated into the company's business activities, since he was not running his own business at all; on the contrary, he was an important link in the chain of business activities of the company for which he worked. He had no risk of loss and no chance of profit.
+[46] Finally, he performed his work on a very fixed, defined schedule; he had to work in an area that was also defined, and he had no say in the number of doors at which to leave flyers. The quality of his work was subject to control. In light of Ms. Bond's testimony, I can well imagine the fate of a carrier who refused to work after making himself or herself available to distribute flyers in a given area at a specific time.
+[47] The Respondent also referred the Court to another highly relevant decision, 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, in which the following is stated at page 985:
+. . . thus, it does not make sense to anchor liability on an employer for acts of an independent contractor, someone who was in business on his or her own account. In addition, the employer does not have the same control over an independent contractor as over an employee to reduce accidents and intentional wrongs by efficient organization and supervision. There is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. What must always occur is a search for the total relationship of the parties. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks. Although the contract designated AIM as an "independent contractor", this classification is not always determinative for the purposes of vicarious liability. . . .
+(Emphasis added.)
+[48] The following passages are from Livreur Plus Inc. v. Canada (Minister of National Revenue – M.N.R.), [2004] F.C.J. No. 267 (F.C.A.) (Q.L.):
+32 The radio transmitter and pager were provided to the delivery persons by the applicant at a rental charge of $5 weekly, but they were reimbursed this amount less tax at the end of the year if the equipment was kept in good working order. However, the delivery persons were responsible for the cost of the equipment if it was lost or stolen: see the testimony of Mr. Larose at page 126 of the applicant's record and of Réal Morin, a delivery person, at page 132. These two work tools belonged to the applicant. . . .
+33 The most important, most significant and most costly work tool was still the automobile. There was no dispute that this work tool was the property of the delivery persons.
+. . .
+35 . . . the delivery persons' income rose or fell from one week to the next depending on the number of deliveries and exchanges the delivery persons could make between themselves. They were not entitled to paid leave, so that their income was affected if they decided to take a rest period. In such a case they had to find as subcontractors a replacement whom they would pay. . . .
+36 The contracts and testimony established that the delivery persons were responsible for expenses associated with the use of their automobiles, namely depreciation, repairs, gasoline, insurance, registration, maintenance and so on. They thus incurred all the risks of loss and fluctuation in their income, especially in the event of an accident. . . .
+37 Finally, the delivery persons were personally responsible for loss of the medication they were delivering, the money they received from customers of pharmacies, and as already mentioned the communication equipment supplied by the applicant. Here again, they were exposed to a risk of loss.
+. . .
+38 The degree of integration of workers into a business has to be assessed from the standpoint of the workers, not that of the business. . . .
+39 The question that has to be asked is as to who owns the business. The judge did indeed ask this question at paragraph 29 of his decision, but he never answered it and did not undertake any analysis of the point.
+. . .
+41 The delivery persons had no offices or premises at the applicant's location. They did not have to go to the applicant's location to do their delivery work. . . .
+[49] On a balance of probabilities, the work performed by Martin Goulet during the period of February 4 to August 11, 2002 met all the requirements for finding that there was a genuine contract of service. The Appellant's will and intent, although clearly expressed, were not sufficient to change the nature of the contract. It would have been necessary to make more decisive changes and obtain Mr. Goulet's consent.
+[50] This economic activity is certainly one in which subcontracting to self‑employed workers could be a worthwhile solution. However, this presupposes that the relationship of subordination is really terminated, thus creating autonomy and freedom of action, which did not exist between the Appellant and the carrier Martin Goulet during the period in issue.
+[51] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of March 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of April 2008.
+Brian McCordick, Translator
+CITATION:
+2005TCC157
+COURT FILE NO.:
+2004-792(EI)
+STYLE OF CAUSE:
+9096-4529 Québec Inc. and MNR
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+February 18, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+March 8, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Robert Jodoin
+Counsel for the
+Respondent:
+Susan Shaughnessy
+COUNSEL OF RECORD:
+For the Appellant:
+Counsel:
+Firm:
+City:
+Robert Jodoin
+Jodoin Huppé
+Granby, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

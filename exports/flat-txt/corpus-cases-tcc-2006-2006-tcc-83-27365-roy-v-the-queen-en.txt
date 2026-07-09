@@ -1,0 +1,130 @@
+Title: Roy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27365/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-83-27365-roy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-02-24
+
+# Roy v. The Queen
+
+- Citation: 2006 TCC 83
+- Decision date: 2006-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 187, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-24
+Neutral citation
+2006 TCC 83
+File numbers
+2005-1149(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1149(IT)I
+BETWEEN:
+ANNE-RENÉE ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 19, 2006, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal concerning an overpayment of Canada Child Tax Benefit amounts that the Appellant received for the 2000, 2001 and 2002 base years under the Income Tax Act is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of February 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 26th day of July 2006.
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC83
+Date: 20060224
+Docket: 2005-1149(IT)I
+BETWEEN:
+ANNE-RENÉE ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from an assessment based on an overpayment of the Canada Child Tax Benefit ("CCTB") for the 2000, 2001 and 2002 base years.
+[2] The Appellant explained that she had used the amounts received under the CCTB program for the welfare of her two children, Marianne and Benjamin Rossbach.
+[3] First, the Appellant clearly explained, with documentary exhibits in support of her claims, that all the cheques received had been deposited to a joint account that she shared with the children's father.
+[4] Payments had been made for the exclusive use of the children, Marianne and Benjamin, and, once again, were very clearly identified. The amount of the benefits was used, in particular, to pay child care expenses.
+[5] The Appellant further explained that, although the separation had occurred in May, she had continued to live and work in the family home until November.
+[6] As to the other periods, the explanations given were quite confused. The gist of the explanations provided, which were clearly plausible, was that she had constantly been concerned for the welfare of her children, of whom she now had custody.
+[7] With respect to those explanations, particularly as regards the situation in May, June, July and August 2002, the Court at first understood that the Appellant had continued to reside in the same place as the children, which would have made it possible to find in her favour for that period.
+[8] However, the Respondent clearly established that the Appellant had ceased to reside where the children were living in May 2002, thus contradicting the Appellant's statement that she had continued to care for her children at their home and had also continued to assist in the business that her spouse was operating. I think it important to reproduce the content of the letter dated July 30, 2004 (Exhibit I-1):
+[TRANSLATION]
+...
+CCRA
+Shawinigan-South Tax Centre
+4695 12th Avenue
+Shawinigan-South, QC
+G9N 7S6
+Attention: Danièle Therrien or Shophie Gratton
+...
+I am writing this letter because I am wondering about your request that I reimburse amounts for 2000, 2001 and 2002.
+I separated from Robert D. Rossbach only in May 2002. Before that date, I worked together with Mr. Rossbach in a business, Rossbach Enr. My only income at the time was from the business and God knows that we were barely getting by. I only worked outside the home from November 2001 until April 2002. I was still married to Mr. Rossbach at the time, and my salary supported the family. From May to December 2002, I was on unemployment and supported the family even though I was no longer living there.
+I do not understand why you are demanding money from me, and I would like to be able to clear up this mystery. My lawyer does not understand why you are demanding these amounts from me either.
+Thank you for your cooperation.
+Anne-Renée Roy
+...
+(My emphasis.)
+[9] With respect to the other periods, the explanations were not clear enough to enable me to draw any conclusions.
+[10] As the burden of proof was on the Appellant, I must unfortunately dismiss the appeal since the assessment is valid because the Appellant admitted that the children were no longer living with her. However, I would like to add that this is a very particular case, as moreover are the vast majority of cases of this kind.
+[11] In general, the recipients of this allowance have very modest incomes, as a result of which, from the moment any change occurs, one of the parents requests a change of beneficiary. Corrections are made based on the information provided, and the whole, in many cases, has very distressing consequences where an overpayment is reclaimed.
+[12] It seems to me that part of the energy and of the funds allocated to the collection of overpayments should be devoted to the establishment of a system, procedure or some way for better assessing entitlement to child tax benefits where a request for change of beneficiary is filed. For example, if both parents were involved, that would avoid most of these disputes.
+[13] As my authority is essentially limited to deciding whether the assessment is valid and consistent with the provisions of the applicable act, I must confirm the validity of the determination in the instant case and dismiss the appeal.
+[14] However, in light of the explanations provided, the many changes that have occurred with regard to the custody of the children are such that I respectfully submit that the overpayments should be the subject of a fairness measure.
+[15] That of course is merely a recommendation because this matter is beyond my jurisdiction.
+Signed at Ottawa, Canada, this 24th day of February 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 26th day of July 2006.
+Monica F. Chamberlain, Reviser
+CITATION:
+2006TCC83
+COURT FILE NO.:
+2005-1149(IT)I
+STYLE OF CAUSE:
+Anne-Renée Roy v. Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+January 19, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+February 24, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

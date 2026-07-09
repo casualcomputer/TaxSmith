@@ -1,0 +1,239 @@
+---
+title: "Remai v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28836/index.do"
+last_modified: "2008-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 344"
+citation2: ""
+neutral_citation: "2008 TCC 344"
+decision_date: "2008-08-19"
+language: "en"
+item_id: "28836"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1346
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:54:45.048000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "982f89e6fe23d22851ea1f323039c7651d146a63f8fabf11222d607447519d1a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Remai v. The Queen
+
+- Citation: 2008 TCC 344
+- Decision date: 2008-08-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1346, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Remai v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-19
+Neutral citation
+2008 TCC 344
+File numbers
+2007-1132(IT)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1132(IT)G
+BETWEEN:
+ELLEN REMAI,
+AS EXECUTRIX OF THE ESTATE OF FRANK REMAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 24, 2008, at Calgary, Alberta
+Before: The Honourable E. P. Rossiter, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Curtis R. Stewart
+Jasmine Sidhu
+Counsel for the Respondent:
+Bonnie Moon
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Charlottetown, Prince Edward Island, this 19th day of August, 2008.
+“E. P. Rossiter”
+Rossiter, A.C.J.
+Citation: 2008TCC344
+Date: 20080819
+Docket: 2007-1132(IT)G
+BETWEEN:
+ELLEN REMAI,
+AS EXECUTRIX OF THE ESTATE OF FRANK REMAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter, A.C.J.
+Introduction
+[1] The appeal is from a reassessment of the Estate of Frank Remai dated July 8, 2005, made under the Income Tax Act (“Act”).
+[2] The reassessment dealt with the disallowance by the Canada Revenue Agency (“CRA”) of charitable donation credits in the amount of $10,500,000 claimed by the deceased, Frank Remai, in 2001.
+[3] Frank Remai (“Frank”) owned 100% of the shares of a management company, F.R. Management (FRM). FRM paid Frank management fees by way of interest bearing Promissory Notes and Frank gifted these Notes to the Frank and Ellen Remai Foundation (“Foundation”) of which Frank was the controlling mind. The Foundation sold the Notes to a third party on the same terms as the donated Notes. CRA was of the view the sale was non-arm’s length.
+Facts
+[4] The Appellant and the Respondent submitted a Partial Agreed Statement of Facts and the Appellant presented other evidence through witnesses.
+[5] Frank and Ellen Remai established the Foundation in 1992 as a private foundation and a registered charity for purposes of establishing a long term mechanism to carry out their philanthropic activities. The trustees of the Foundation were Frank and Ellen Remai and Frank Remai’s brother, Henry Remai. Ellen and Frank were the hands-on directors of the Foundation; ultimately Frank was the Foundation’s controlling mind, making all the decisions. Donations by the Foundation to other charities from 1992 to 2004 totalled over $4,000,000 and the capital of the Foundation had never been encroached upon. A certain percentage or disbursement quota based on the capital of the Foundation was disbursed annually. In addition to owning 100% of the shares of FRM, Frank also owned 100% of the shares of Remai Ventures Inc. (“Ventures”) and was a shareholder of a number of other entities some of whose income flowed into FRM. Darrell Remai (“Darrell”), a nephew of Frank, was the principal shareholder and director of Sweet Developments Ltd. (“Sweet”).
+[6] Sweet and FRM, through other corporate interests of Frank, formed partnerships and carried on the business of developing and operating seniors’ residences as well as other business interests including project management, renovation, and property development.
+[7] On October 1, 1999, Sweet and Ventures entered into a partnership to develop and operate a seniors’ centre in Regina, Saskatchewan. Post October 1, 1999, Sweet and Ventures also developed three other seniors’ centres, one in each of Swift Current, Yorkton and Moose Jaw, Saskatchewan.
+[8] Besides being the general contractor for these seniors’ centres and holding a 25% equity interest with Ventures, Sweet also built numerous projects, including condominiums and renovations on both a non-equity and equity basis, with and for Frank. It is apparent that there existed a high level of trust between Darrell and Frank which accrued over time as they did more business together.
+[9] On December 31, 1998, FRM issued a $4,000,000 interest bearing Promissory Note (“1998 Note”) to Frank for management fees. Frank gifted the 1998 Note to the Foundation and the Foundation issued a donation receipt to Frank for $4,000,000. The receipt was included in Frank Remai’s 1998 T1 tax return as a claim for a charitable donation tax credit.
+[10] On December 31, 1999, a similar transaction took place, this time in the amount of $6,500,000 (“1999 Note”). The 1999 Note was gifted to the Foundation and Frank sought a $6,500,000 charitable donation tax credit in his 1999 T1 tax return.
+[11] CRA denied the charitable donation tax credits claimed on the basis that pursuant to the 1997 Federal Budget, the 1998 and 1999 Notes were non‑qualifying security as they were an obligation to a person with whom Frank did not deal with at arm’s length. Similar transactions by Frank pre-1998 were satisfactory to CRA but amendments to the Act made the transactions in 1998 and 1999 offside. Frank objected to the assessments, a Notice of Confirmation was issued but there was no further appeal.
+[12] On July 4, 2001, the Foundation, under an Asset Sale Agreement, sold the 1998 and 1999 Notes (as well as other Notes) to Sweet for a Promissory Note representing the total of the Notes plus accrued interest, bearing the same rate of interest.
+[13] The interest rates on the 1998 and 1999 Notes were the CRA posted rates but they were higher than the required disbursement rate for the Foundation, therefore ensuring that there would always be sufficient funds to meet the annual disbursements quota for the Foundation, without infringing upon the capital of the Foundation. The Foundation recorded no administrative costs as these were either carried by FRM or personally by Frank.
+[14] There were subsequent transactions which basically mirrored the foregoing transaction but which are of no consequence to the matters before the Court.
+[15] Ron Grozell, a Chartered Accountant (“Grozell”), was the CFO for Frank’s group of companies from 1985 to December 31, 2004. He had intimate knowledge with respect to the financial affairs of the Remai group of companies, being responsible for all financial reporting and information, banking, financing and filing of income tax returns. He also did the personal tax returns for Frank and Ellen Remai throughout this period of time. External accounting was used when required by banking institutions.
+[16] According to Grozell, the reason for the gifting of the 1998 and 1999 Notes, as well as other Notes, was two-fold: (1) to build the capital of the Foundation and (2) to allow Frank to receive a charitable receipt.
+[17] When Grozell filed the 1998 and 1999 T1’s for Frank, claiming the charitable tax credits on the 1998 and 1999 Notes, he believed the donations were validly claimed because he was adhering to the process in existence throughout the earlier years. However, the 1997 Federal Budget changed the availability of the donations credits. He proceeded to research remedies to the tax issue of the 1998 and 1999 Notes donation and determined that it could be rectified if the Foundation disposed of the donations to an arm’s length entity.
+[18] Two different avenues were pursued by Grozell to this end. One proposal was for FRM to borrow monies from a bank (HSBC) to pay off the Notes held by the Foundation; the bank agreed to this, but the Foundation would be required to put the same monies into a GIC at the same bank. FRM would pay a higher interest rate on the loan to the bank than it paid on the Notes. The Foundation would still receive its 4 ½% on the GIC to meet the disbursement quota for the Foundation without encroaching on the capital of the Foundation – the spread on interest rates would cost about $40,000 per annum to FRM, a cost which would be passed onto the Foundation. A second and more favourable alternative was for the Foundation to sell the 1998 and 1999 Notes to an arm’s length entity such as Grozell’s personal company, Big Sky Drilling Ltd. (“Big Sky”). Big Sky did not have the financial wherewithal to do a non-recourse loan with FRM and so Sweet was approached to do the transaction.
+[19] It was Grozell’s view that Sweet, the Foundation, and Frank were at arm’s length. He knew that Sweet had the financial wherewithal to carry out the deal even if it was a non-recourse loan and he felt there was no risk to Sweet in doing the transaction. Grozell had acquired a 10% interest in Sweet from Darrell in March 2001.
+[20] An informal meeting was held between Frank, Grozell and Darrell. Part of the discussion dealt with Frank’s tax deductibility problems with regards to the 1998 and 1999 Notes. Sweet sought independent advice from its own legal and accounting advisors. There was at least one additional meeting where Grozell advised Sweet that the transaction was risk-free given FRM’s strong financial situation. If the Foundation did not agree to the transaction with Sweet then, according to Grozell, the first option, financing the payment of the Notes held by the Foundation through a bank, would have been pursued.
+[21] The transaction thus required that the 1998 and 1999 Notes so gifted to the Foundation be sold to Sweet, with the Foundation receiving as payment a Promissory Note, on the same terms, from Sweet. There was no suggestion by Sweet that: (1) the interest rate on its Note be different than on the 1998 and 1999 Notes; (2) its Note should be monetarily different than the 1998 and 1999 Notes; (3) there would be a spread in the interest rates between this Promissory Note and the 1998 and 1999 Notes; nor that (4) there would be a fee or compensation to Sweet for participating in the transaction. Grozell felt the Foundation had a moral obligation to make an otherwise non-qualifying security a qualifying security so that it would result in the resolution of Frank’s tax problem. The transaction was of no monetary benefit to Sweet, but it did present an opportunity to further solidify Sweet’s business relationship with the Remai group of companies.
+Issues
+[22] There are two issues for the Court to consider:
+1. Did, pursuant to paragraph 251(1)(c) of the Act, the Appellant and Sweet deal at arm’s length with respect to the purchase of the 1998 and 1999 Notes by Sweet from the Foundation and in particular did they deal at arm’s length before, during and immediately after the transaction that occurred on July 4, 2001?
+2. If there was an arm’s length relationship between the Appellant and Sweet, does section 245 of the Act (GAAR) apply to the transaction in issue?
+Law and Analysis
+(1) Section 251(1) of the Act
+[23] The Appellant brought to the attention of the Court, what it described as a technical issue. Section 251(1) of the Act states as follows:
+SECTION 251: Arm’s length.
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length;
+(b) a taxpayer and a personal trust (other than a trust described in any of paragraphs (a) to (e.1) of the definition “trust” in subsection 108(1)) are deemed not to deal with each other at arm’s length if the taxpayer, or any person not dealing at arm’s length with the taxpayer, would be beneficially interested in the trust if subsection 248(25) were read without reference to subclauses 248(25)(b)(iii)(A)(II) to (IV); and
+(c) where paragraph (b) does not apply, it is a question of fact whether persons not related to each other are at a particular time dealing with each other at arm’s length.
+[24] Paragraph 251(1)(a) deals with “related persons”. The Appellant and the Respondent agreed that the parties to the transaction are not related persons therefore paragraph 251(1)(a) does not apply.
+[25] Paragraph 251(1)(b) is obviously not applicable on the facts before the Court. We are therefore left with paragraph 251(1)(c) which simply refers to a situation where paragraph (b) does not apply. As stated, paragraph (b) does not apply due to the facts in the case before the Court. If paragraph 251(1)(c) does not apply, because it is only applicable if paragraph (b) does not apply, there is no question for the Court, because by exclusion, the parties must be dealing with each other at arm’s length.
+[26] There was obviously a recognized problem with this particular section because presently before Parliament is Bill C-10, which is proposing to amend paragraph 251(1)(c), applicable after December 23, 1998, to “clarify that it applies to any case where paragraph (a) and (b) do not apply”. Bill C-10 has not received Royal Assent thus the proposed amendment is not law. The proposed amendment itself and the explanatory note gives credence to the argument of the Appellant that paragraph 251(1)(c) of the Act is inapplicable in the present case. The section is free of ambiguity as is and I certainly will not prematurely afford it the meaning which Parliament seeks to implement. The parties agree that the parties are not related persons therefore paragraph 251(1)(a) does not apply. The facts do not support an application of paragraph 251(1)(b) and therefore it does not apply. Paragraph 251(1)(c) does not apply since paragraph 251(1)(b) is not applicable, therefore the parties must be dealing at arm’s length.
+(2) Non-Arm’s Length
+[27] Assuming I am wrong in my interpretation of the applicability of paragraph 251(1)(c), I will proceed with an analysis of the arm’s length nature of this transaction. In doing so, the following questions must be answered:
+1. Was there a common mind which directed the bargaining for both parties to the transaction?
+2. Were the parties to the transaction acting in concert without separate interests?
+3. Did one party of the transaction exercise “de facto” control over the other?
+[28] The Supreme Court of Canada in R. v. McLarty, 2008 D.T.C. 6354, adopted the analytical approach of Peter Cundill & Associates Ltd. v. The Queen, 91 D.T.C. 5543 (F.C.A.) when it stated in part as follows:
+62 The Canada Revenue Agency Income Tax Interpretation Bulletin IT‑419R2 "Meaning of Arm's Length" (June 8, 2004) sets out an approach to determine whether the parties are dealing at arm's length. Each case will depend on its own facts. However, there are some useful criteria that have been developed and accepted by the courts: see for example Peter Cundill & Associates Ltd. v. The Queen, [91 DTC 5085] [1991] 1 C.T.C. 197 (F.C.T.D.), aff'd [91 DTC 5543], [1991] 2 C.T.C. 221 (F.C.A.). The Bulletin provides:
+22. ... By providing general criteria to determine whether there is an arm's length relationship between unrelated persons for a given transaction, it must be recognized that all-encompassing guidelines to cover every situation cannot be supplied. Each particular transaction or series of transactions must be examined on its own merits. The following paragraphs set forth the CRA's general guidelines with some specific comments about certain relationships.
+23. The following criteria have generally been used by the courts in determining whether parties to a transaction are not dealing at "arm's length":
+· was there a common mind which directs the bargaining for both parties to a transaction;
+· were the parties to a transaction acting in concert without separate interests; and
+· was there "de facto" control.
+“Common Mind”
+[29] In analyzing whether there was a common mind directing the bargaining for both parties of the transaction, one must not only focus on the time immediately following the transaction but also look at evidence of matters, before, during and after the transaction transpired.
+[30] Frank was in control of FRM and was the controlling mind of the Foundation. Notwithstanding his business relationship with Sweet, there is no evidence that he had direct or indirect control over Sweet. There was no evidence of an ownership interest in Sweet by FRM or Frank, or indebtedness by Sweet to FRM or Frank and there was no evidence that Frank was an officer or director of Sweet. However, the evidence did show that Sweet would naturally welcome a business relationship with Frank because of the business ventures they participated in together in the past and the possibility of future business opportunities. Prior to the transaction taking place, there had been a falling out of sorts between Frank and Sweet over the management of a particular project in which Frank and Sweet had been involved.
+[31] The evidence disclosed that Darrell was an independent business person who had his own business interests, separate and apart from Frank and his group of companies, and that he made all of the decisions for Sweet.
+[32] How the transaction developed and came to fruition is of some significance. Grozell came up with the alternatives for the 1998 and 1999 Notes to become qualifying security, that is,
+1. financing through a bank;
+2. a sale to his own company Big Sky; or
+3. a sale to Sweet.
+Since a transaction through a bank involved reducing the Foundation’s income by $40,000 per year and since Grozell’s company did not have the financial wherewithal to do a non-recourse loan, the decision was made to approach Sweet. Sweet considered the proposal even though there was no financial benefit to Sweet in terms of differential spread between the interest rates and the Notes or other monetary consideration. Sweet had done business with the Frank group before and stood to gain more similar business in the future. Sweet sought its own advice regarding the transaction. Sweet made the decision to proceed; no one else. Other alternatives were available to the Foundation, albeit somewhat more expensive. Sweet could have turned the deal down but did not. Both parties approached the transaction from a different point of view, with different interests, and made their separate decisions with Sweet considering the downside of the transaction and its legality. The fact that Frank may have benefited from the transaction does not make a common mind as it is quite evident that Sweet made its own decision whether or not to enter into the transaction.
+“Separate Interests”
+[33] The evidence discloses that each party was, in the end, protecting its own interests. The Foundation was going to save $40,000 in extra interest costs it would incur if the transaction was to be done through a financial institution. At the same time it was going to solve a tax problem for its highly regarded and much appreciated benefactor. If the Foundation could accommodate its benefactor by helping the benefactor resolve a tax problem which arose from gifts to the Foundation and render such help in a cash neutral transaction avoiding $40,000 per annum in interest costs, why would it not proceed with the transaction? At the same time Sweet was not benefiting from the transaction in a monetary sense; it was satisfied with the legality of the transaction, saw no real downside to it and could continue to build its business relationship with Frank. Sweet considered its own interest. The fact that a large amount of money would flow through its own bank account was attractive because it would give the appearance that Sweet dealt in large dollar figures. Sweet sought its own legal and accounting advice to the transaction and it was looking at the effects of the transactions on Sweet. Given the limited risk, it decided to proceed.
+“De Facto Control”
+[34] Justice Bell noted in Baxter v. The Queen, 2006 D.T.C. 2642 at paragraph 51 (T.C.C.) (affirmed by the Federal Court of Appeal on different grounds at 2007 D.T.C. 5199):
+… The fact that the parties considered that they had entered into a mutually beneficial relationship when, at the same time, they were pursuing their own individual interests and were free, without either of them being controlled by the other, to enter or not enter into that relationship means they were dealing with each other at arm's length as a matter of fact.
+[35] Sweet, FRM and Frank had a mutually beneficial relationship for many years yet pursued their own individual interests and were free, without either of them being controlled by the other, to enter or not enter into this particular relationship.
+[36] I believe that Frank would have had some influence over Sweet simply because of their past and on-going business relationships and because of his financial strength; however, the question is not that he had some influence, rather was there controlling influence or de facto control over Sweet? Sweet was a separate company, owned and operated by Darrell and although it had a long standing business relationship with Frank it was certainly not economically dependant on Frank or his group of companies. It had independently developed its own projects and become quite successful. Additionally, the business relationship between Sweet and FRM incorporated a certain protection allowing them to terminate their relationship on a mutually beneficial basis through a shotgun clause.
+[37] Given the nature of the transaction, which was basically neutral to Sweet, the fact that Sweet did not attempt to renegotiate a better deal is not of significance given the long standing business relationship between Sweet and Frank. Although there was not a monetary reward to Sweet, which one might think in the normal market would influence Sweet’s decision, I believe the decision was influenced by the long standing business relationship between Sweet and Frank and the trust they had developed in one another over many years. This is simply not a case where the same person is dictating the terms of the bargain on behalf of both parties – Sweet analyzed the deal and made a decision in its own right.
+[38] The Respondent referred to the following excerpt from Petro-Canada v. The Queen, 2004 D.T.C. 6329 (F.C.A.), where Justice Sharlow stated in paragraph 55 as follows:
+The Judge addressed these questions implicitly rather than expressly, and concluded that the joint exploration corporations did not deal with each other at arm's length when entering into the agreement for the purchase and sale of the seismic data. In my view, the evidence justifies that conclusion. The terms of the transactions did not reflect ordinary commercial dealings between vendors and purchasers acting in their own interests. The joint exploration corporations, for example, did not attempt to negotiate a volume discount, as the evidence indicated would be normal for such large acquisitions of seismic data. Neither joint exploration corporation acted independently and in its own interest in entering into the transactions. The terms of the transaction were in fact dictated jointly by Petro‑Canada and Phillips (in the case of the Phillips JEC) and jointly by Petro‑Canada and CanEagle (in the case of the CanEagle JEC). The joint exploration corporations, for all practical purposes, were indifferent as to the purchase price of the seismic data because, whatever it turned out to be, the shareholders would ensure that the purchase price was funded. Any tax relief relating to the cost of the seismic data would be transferred to Petro-Canada by means of a renunciation.
+[39] Although this quote may appear to be applicable to the case at bar, Sweet had two shareholders: Darrell and a 10% minority shareholder Grozell. The consideration received by Sweet for entering into the transaction was in the form of continued and cherished business relationship between itself and Frank. Neither of these entities was publicly traded. The entities were carrying out their obligations to their shareholders who in fact were the persons who were engaged in the negotiations.
+[40] Applying the three part test from Peter Cundill & Associates Ltd. v. The Queen, supra, as to whether or not there is an arm’s length transaction, I conclude based on the evidence and find as a fact that the parties were dealing at arm’s length. Given this conclusion the only remaining issue then before the Court, is the issue of GAAR.
+(3) General Anti-Avoidance Rule (“GAAR”)
+[41] Canada Trustco Mortgage Company v. R., 2005 D.T.C. 5523 (S.C.C.), is the leading authority with respect to the GAAR. The application of GAAR involves three steps.
+1. Determine whether there is a “tax benefit” arising from a transaction under subsections 245(1) and 245(2) of the Act.
+2. Determine whether the transaction is an avoidance transaction under subsection 245(3) of the Act in the sense of not being “arranged primarily for bona fide purposes other than to obtain the tax benefit".
+3. Determine if there was abusive tax avoidance in the sense that it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions other than to obtain a tax benefit.
+All three requirements must be fulfilled before the GAAR can be applied to deny the tax benefit.
+Tax Benefit
+[42] It was conceded by the Appellant that there was a tax benefit arising from the transaction pursuant to subsections 245(1) and 245(2) of the Act.
+Avoidance Transaction
+[43] The transaction in question took place in July 2001 when the 1998 and 1999 Notes of FRM were sold by the Foundation to Sweet for Promissory Notes for the same quantum and the same interest rate. The transactions were not arranged primarily for a bona fide purpose other than to obtain a tax benefit. There is no question in my mind but that the transaction was done to provide Frank with a tax benefit which he thought he had when he made the donations of the 1998 and 1999 Notes to the Foundation. The question is whether it was undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit. Would the transaction have been done if Frank did not want to obtain the charitable donation tax credits for the gifted 1998 and 1999 Notes? The answer to that question is no. There was nothing in it for the Foundation. There was no evidence that the Foundation’s benefactor was going to terminate his annual gifting. Frank was the Foundation; he was its controlling mind and benefactor. The Foundation had basically two choices as to how it might dispose of the Notes. Do a deal with the HSBC or one with Sweet. The Foundation had never done a similar transaction so why was it doing it now? The only reason the Foundation was doing the deal was to alleviate Frank’s tax issues with respect to the donations and possibly to carry out a moral obligation to ensure tax relief for its benefactor. Justice Bowman (as he then was) in Jabs Construction Limited v. The Queen, 99 D.T.C. 729 (T.C.C.) at paragraph 23 stated the following:
+The Minister assessed in the manner set out at the beginning of these reasons, on the basis that the transfer to Felsen was ineffective, the capital gain on the sale to Callahan belonged to the appellant, the interest paid to Felsen was not deductible and in any event section 245 applied. The Minister sees the whole series of transactions as an elaborate and sinister form of tax avoidance. For the reasons that follow, I see it as no such thing. It is in my view a sensible and carefully conceived plan carried out within the specific provisions of the Act designed to achieve the overall charitable objectives of Mr. and Mrs. Jabs. [Emphasis added].
+Justice Bowman continued at paragraph 46 as follows:
+Essential to the operation of the section is that there be an avoidance transaction, i.e. a transaction resulting in a "tax benefit", as defined. It is true, the appellant did not, as a result of the gift to Felsen, have to pay tax on the capital gain that it would have realized had it sold the properties itself to Callahan. If this were the tax benefit upon which the respondent relies, every gift at a designated amount less than fair market value to a charity under subsection 110.1(3) would be an avoidance transaction. Such gifts are however precisely what subsection 110.1(3) contemplates. I fail to see how the use of a specific provision of the Act that allows the tax consequences of a charitable gift to be mitigated can by any stretch of the imagination be a misuse of the provisions of the Act or an abuse within the meaning of subsection 245(4). It is simply a use of a provision of the Act - not a misuse or abuse - for the very purpose for which it was designed. [Emphasis added].
+[44] On the evidence before the Court, there are both tax and non-tax reasons behind this particular series of transactions. The tax reasons have been explained. There were charitable credits for Frank based on the donation and the Notes. The non-tax reasons include the fact that the sale of the 1998 and 1999 Notes by the Foundation allowed its philanthropy objectives to be carried out by allowing it to have more funds to disperse to the charity than if the transaction had been done through HSBC. Also, the Foundation wanted to ensure its benefactor was pleased, having already issued charitable receipts for 1998 and 1999 Notes which were found to be not allowed.
+[45] In Canada Trustco Mortgage Company, supra, the Supreme Court of Canada suggested an approach when there were tax and non-tax basis for transactions. I can only conclude on the evidence that the transaction was undertaken to arrange primarily for tax-benefit purposes. I have reviewed the transaction and the relationship between the parties in my previous comments and will not review same again, save and except to say that this transaction would not have occurred, based on the evidence, but for the desire of Frank to receive tax relief for the gifting of the 1998 and 1999 Notes.
+Abusive Tax Avoidance
+[46] Having reached the conclusion that this transaction is an avoidance transaction as not being arranged primarily for bona fide purposes other than to obtain a tax benefit, I will now address whether there was abusive tax avoidance, such that the tax benefit was not consistent with the object, spirit or purpose of the provisions in which the Appellant relied on.
+[47] It was determined in Canada Trustco Mortgage Company, supra, that the third requirement must be established by the Minister. As to the steps to be taken in the analysis by way of summary, the Court stated the following in paragraph 66:
+The approach to s. 245 of the Income Tax Act may be summarized as follows.
+1. Three requirements must be established to permit application of the GAAR:
+(1) A tax benefit resulting from a transaction or part of a series of transactions (s. 245(1) and (2));
+(2) that the transaction is an avoidance transaction in the sense that it cannot be said to have been reasonably undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit; and
+(3) that there was abusive tax avoidance in the sense that it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer.
+2. The burden is on the taxpayer to refute (1) and (2), and on the Minister to establish (3).
+3. If the existence of abusive tax avoidance is unclear, the benefit of the doubt goes to the taxpayer.
+4. The courts proceed by conducting a unified textual, contextual and purposive analysis of the provisions giving rise to the tax benefit in order to determine why they were put in place and why the benefit was conferred. The goal is to arrive at a purposive interpretation that is harmonious with the provisions of the Act that confer the tax benefit, read in the context of the whole Act.
+5. Whether the transactions were motivated by any economic, commercial, family or other non-tax purpose may form part of the factual context that the courts may consider in the analysis of abusive tax avoidance allegations under s. 245(4). However, any finding in this respect would form only one part of the underlying facts of a case, and would be insufficient by itself to establish abusive tax avoidance. The central issue is the proper interpretation of the relevant provisions in light of their context and purpose.
+6. Abusive tax avoidance may be found where the relationships and transactions as expressed in the relevant documentation lack a proper basis relative to the object, spirit or purpose of the provisions that are purported to confer the tax benefit, or where they are wholly dissimilar to the relationships or transactions that are contemplated by the provisions.
+7. Where the Tax Court judge has proceeded on a proper construction of the provisions of the Income Tax Act and on findings supported by the evidence, appellate tribunals should not interfere, absent a palpable and overriding error.
+[48] Canada Trustco Mortgage Company, supra, set out a two stage test for determining whether the avoidance transaction giving rise to the tax benefit, is a misuse or abuse:
+(a) First, the provisions giving rise to the tax benefit must be interpreted by applying a textual, contextual, and purposive approach to determine their object, spirit and purpose; and
+(b) Second the facts must be examined in order to determine whether the transaction falls within or frustrates the object, spirit and purpose.
+[49] The Foundation relies upon paragraph 118.1(18)(a) and subsection 118.1(13)(a) of the Act.
+[50] The relevant portions of paragraph 118.1(18)(a) define “non-qualifying security” of an individual at any time as meaning:
+(a) an obligation … of the individual or the individual’s estate or of any person or partnership with which the individual or the estate does not deal at arm's length immediately after that time
+[51] Subsection 118.1(13) provides that if and when the individual makes a gift of “non-qualifying security” as defined in subsection 118.1(18), that gift will be deemed to not have been made. Therefore, in accordance with paragraph 118.1(13)(a), an individual gifting a non-qualifying security would not be entitled to include the gift in completing his or her “total charitable gifts” for the year. This is exactly what happened in the case at bar. However, under subsection 118.1(13) there are redemptive provisions, in particular paragraph 118.1(13)(b) and (c), which specifically address the amount of the gift (a previous non-qualifying security) that will be included in computing the individual’s “total charitable gifts” for the subsequent year in which the donee disposes of the “non-qualifying security”.
+[52] I have already dealt with the arm’s length nature of the transaction in question and went through the detailed analysis with respect to same looking at the various provisions and therefore carried out an examination of the textual interpretation of the provision in question.
+[53] I must look at the sections then from a contextual point of view and in doing so note that subsections 118.1(13) - 118.1(20) are commonly known as the non-qualifying security rules and these really defer the recognition of certain types of non-arm’s length gifts. Paragraph 118.1(18)(a) and subsection 118.1(13) are part of these non-qualifying security rules. These subsections address gifts to charities of non-qualifying securities which include shares and debt obligations of persons who are non-arm’s length to the donor, denying a charitable donation tax credit unless certain events occur within the timeframe set out therein. It should be noted also that subsections 118.1(16) and 118.1(17) deal with loan back transactions. It was acknowledged by the parties that the transactions under review are not a loan back transaction and as such subsections 118.1(16) and 118.1(17) are not applicable.
+[54] On reading of subsection 118.1(18) it appears that the legislators did not intend that all debt obligations gifted to charities be non-qualifying securities. An arm’s length debt obligation is in fact sanctioned by the section and that section focuses on the time immediately after the gift as well as the time period before and during the gifting. This would lead one to believe that the purpose of the section was that the debt obligations be held by arm’s length parties. I have already found as a fact that the disposition of the Notes in question by the Foundation and Sweet Developments were by arm’s length parties and therefore there is no apparent harm or abuse.
+[55] Subsections 118.1(13) and 118.1(18) seem to purport that the object, spirit and purpose of these provisions is to defer the recognition of certain types of gifts, namely gifts of non-qualifying securities which include debt to the non‑arm’s length person. The object, spirit and purpose do not operate to disqualify all types of debt obligations and certainly not debt obligations held by arm’s length parties. These redemptive provisions represent built-in remedies whose purpose is to assist persons who make gifts that otherwise might not generate legitimate charitable donation receipts and if the remedial provisions are to be meaningful at all, then their existence supports the conclusion that the purpose of the provision is not to deny charitable gift status in respect of every debt obligation.
+[56] It would appear that the stated purpose in recognizing paragraphs 118.1(13)(b) and (c) is predicated on the factual finding of an arm’s length relationship. These provisions specifically address the amount of the gift for a previous non-qualifying security that will be included in computing the individual’s total charitable gifts for a subsequent year in which the donee disposes of the non-qualifying security. This section contemplates the subsequent eligibility of a tax benefit.
+[57] I have already found that the Appellant and Sweet Development were dealing at arm’s length after the disposition of the 1998 and 1999 Notes – this was a legal relationship which the parties wanted; why would the Courts intervene? In applying the approach taken in Canada Trustco Mortgage Company, supra, the Appellant described the key question on a GAAR consideration to be:
+Was the Appellant abusing the Act to rectify a problem when there is a manner to rectify the problem in the Act by the similar amendment that caused the problem in the first place?
+The Respondent however asserted the provisions are to prevent someone from claiming a credit when they have not lost use of the gifted funds. The Respondent goes on to state that even when there is an attempt to remedy the situation the donor still has use of the funds. I see no reference to use of the funds in any of these provisions nor is there any suggestion that this is the actual question which is to be asked or analyzed. Rather, I adopt the position taken by Justice Bowman in Jabs Construction Ltd., supra, already quoted, where he held that where a taxpayer structures a transaction to take advantage of a specific provision (non anti-avoidance interpretation of the Act) there is no misuse or abuse of the Act.
+[58] I believe the comments of Justice Bowman are particularly apt in this particular case. I have conducted the textual, contextual and purposeful analysis of subsections 118.1(13) and 118.1(18) and I believe that this analysis is consistent with the finding that the transaction under review does not frustrate the object, spirit and purpose of these provisions. Indeed the Act specifically allows the very nature of the transaction that has been conducted in this particular case. It allows for a non-qualifying security to be otherwise qualified as a security, within a certain period of time by sale of the non-qualifying security to an arm’s length party. In conducting the transaction in the way it was conducted, the parties were simply carrying out the very purpose for which the remaining sections were put in. Whether or not the donor still has use of the funds, is really neither here nor there. The same amount of income is being received from the funds before the transaction since interest rates had not really been changed.
+[59] All the Appellant did was exactly what the provision allowed them to do, no more or no less.
+[60] Having found the parties were dealing at arm’s length and having found the GAAR does not apply, the appeal is allowed with costs.
+Signed at Charlottetown, Prince Edward Island, this 19th day of August, 2008.
+“E. P. Rossiter”
+Rossiter, A.C.J.
+CITATION: 2008TCC344
+COURT FILE NO.: 2007-1132(IT)G
+STYLE OF CAUSE: ELLEN REMAI, AS EXECUTRIX OF THE ESTATE OF FRANK REMAI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: April 24, 2008
+REASONS FOR JUDGMENT BY: The Honourable E. P. Rossiter,
+Associate Chief Justice
+DATE OF JUDGMENT: August 19, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Curtis R. Stewart
+Jasmine Sidhu
+Counsel for the Respondent:
+Bonnie Moon
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Curtis R. Stewart
+Jasmine Sidhu
+Firm: Bennett Jones, LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

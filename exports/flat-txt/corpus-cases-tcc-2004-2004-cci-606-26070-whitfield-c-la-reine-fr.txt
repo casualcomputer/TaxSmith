@@ -1,0 +1,156 @@
+Title: Whitfield c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26070/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-606-26070-whitfield-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-09-16
+
+# Whitfield c. La Reine
+
+- Citation: 2004 CCI 606
+- Decision date: 2004-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4065, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whitfield c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-16
+Référence neutre
+2004 CCI 606
+Numéro de dossier
+2004-824(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-824(IT)I
+ENTRE :
+CINDY WHITFIELD,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 août 2004 à Toronto (Ontario).
+Devant : L’honorable juge en chef adjoint D.G.H. Bowman
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Jenna Clark
+____________________________________________________________________
+JUGEMENT
+Il est ordonné que l’appel de la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 soit accueilli. La cotisation est renvoyée au ministre du Revenu national pour qu’il la réexamine et qu’il en établisse une nouvelle en vue d’inclure les frais d’installation de la cuve thermale dans les frais médicaux de l’appelante.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2004.
+« D.G.H. Bowman »
+Le juge en chef adjoint Bowman
+Traduction certifiée conforme
+ce 22e jour de mars 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004CCI606
+Date : 20040916
+Dossier : 2004-824(IT)I
+ENTRE :
+CINDY WHITFIELD,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Cet appel vise une cotisation établie pour l’année d’imposition 2002. La question est de savoir si le coût d’un appareil d’entraînement elliptique et d’une cuve thermale peut être inclus dans le calcul du crédit d’impôt non remboursable pour frais médicaux prévu à l’article 118.2 de la Loi de l’impôt sur le revenu. Le montant dépensé pour ces deux articles n’est pas contesté.
+[2] L’époux de l’appelante, Daniel Whitfield, souffre de dépression clinique, de psychose maniacodépressive, d’obésité et de douleur chronique à la hanche droite depuis un certain nombre d’années. Il reçoit des prestations d’invalidité de longue durée depuis 1995.
+[3] En 2002, M. Whitfield s’est fait remplacer la hanche droite. Il a des douleurs lombaires et des problèmes de colonne vertébrale. Il s’est fait traiter par un certain nombre de spécialistes pour ses problèmes de hanche et de dos, ainsi que pour ses problèmes psychiatriques. Ce n’est pas à moi de déterminer s’il existe un lien entre les problèmes physiques et les problèmes psychiatriques de M. Whitfield. En fait, je ne suis pas en mesure de le faire. Je me contenterai de dire que l’époux de l’appelante a de graves problèmes médicaux. Une série de rapports médicaux a été déposée en preuve.
+[4] L’appareil d’entraînement elliptique a été acheté parce que le chirurgien orthopédiste de M. Whitfield avait recommandé que M. Whitfield fasse de l’exercice « sans impact ». C’est ce que l’appareil permet à M. Whitfield de faire : ses pieds ne touchent jamais le sol, comme ce serait le cas s’il faisait de la marche, du jogging ou du tapis roulant. L’appareil ressemble apparemment à un vélo stationnaire, mais la roue avant est elliptique, et il est actionné par des pédales et par des poignées mobiles.
+[5] M. Whitfield fait environ cinq heures d’exercice par semaine avec son appareil d’entraînement elliptique. Quant à la cuve thermale, elle a été achetée parce que le psychiatre de M. Whitfield avait recommandé l’hydrothérapie pour atteindre un état de relaxation profonde qui permette d’atténuer la dépression et l’anxiété, ainsi que pour soulager la douleur articulaire.
+[6] Le crédit pour frais médicaux est prévu par le paragraphe 118.2(1) et il s’applique à de nombreuses dépenses d’ordre médical. Le paragraphe 118.2(2) se lit en partie comme suit :
+(2) — Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[…]
+m) — pour tout dispositif ou équipement destiné à être utilisé par le particulier […] et qui répond aux conditions suivantes, dans la mesure où le montant payé ne dépasse pas le montant fixé par règlement, le cas échéant, relativement au dispositif ou à l’équipement :
+(i) il est d’un genre visé par règlement,
+(ii) il est utilisé sur ordonnance d’un médecin,
+(iii) il n’est pas visé à un autre alinéa du présent paragraphe,
+(iv) il répond aux conditions prescrites quant à son utilisation ou à la raison de son utilisation;
+L’article 5700 du Règlement de l’impôt sur le revenu se lit en partie comme suit :
+5700. Les dispositifs ou équipements suivants sont prescrits pour l’application de l’alinéa 118.2(2)m) de la Loi :
+[…]
+i) tout dispositif qui est conçu à l’intention du particulier à mobilité réduite pour l’aider à marcher;
+En anglais, l’alinéa i) se lit comme suit :
+(i) device that is designed to assist an individual in walking where the individual has a mobility impairment;
+[7] Dans la version anglaise de l’alinéa m) du paragraphe 118.2(2), le terme « prescribed » est visiblement employé dans deux sens, à savoir un sens juridique et un sens médical. Les sous-alinéas (i) à (iv) de l’alinéa m) de la version française établissent nettement la distinction, si elle n’était pas déjà assez claire.
+m) pour tout dispositif ou équipement destiné à être utilisé par le particulier, par son conjoint ou par une personne à charge visée à l’alinéa a) et qui répond aux conditions suivantes, dans la mesure où le montant payé ne dépasse pas le montant fixé par règlement, le cas échéant, relativement au dispositif ou à l’équipement :
+(i) il est d’un genre visé par règlement,
+(ii) il est utilisé sur ordonnance d’un médecin,
+(iii) il n’est pas visé à un autre alinéa du présent paragraphe,
+(iv) il répond aux conditions prescrites quant à son utilisation ou à la raison de son acquisition;
+Deux problèmes se posent dans la présente affaire :
+a) l’appareil d’entraînement elliptique et la cuve thermale ont-ils été « utilisés sur ordonnance » d’un médecin?
+b) les dispositifs ont-ils été conçus pour aider un particulier à marcher?
+[8] L’ordonnance d’un médecin n’a pas besoin d’être donnée par écrit. Un médecin peut inscrire sur un billet le nom d’un médicament sur ordonnance avant qu’un pharmacien n’exécute l’ordonnance. Il n’en va certainement pas de même pour un médecin qui conseille à un patient d’acheter ou d’utiliser un dispositif ou un médicament sans ordonnance en particulier. À mon avis, le rôle de cette cour n’est pas d’introduire dans une loi des termes qui limiteront le sens évident des termes qui y sont utilisés.
+[9] Cependant, la décision de la Cour d’appel fédérale dans l’affaire La Reine c. Ray, 2004 DTC 6028, semble étayer la proposition selon laquelle il faut donner aux termes utilisés à l’article 118.2 le sens le plus restreint possible à l’égard du contribuable. Dans le jugement que j’ai rendu dans l’affaire Herzig c. La Reine, 2004 C.C.I. 344, j’ai fait les observations suivantes sur la décision rendue dans l’affaire Ray :
+[7] Il s’agit, en l’espèce, d’une affaire des plus méritantes. Selon le témoignage de M. Herzig, l’oncologue a estimé, au moment de diagnostiquer le cancer de Mme Herzig, qu’il ne restait plus à celle-ci que six mois à vivre. En faisant appel à la médecine homéopathique et aux suppléments, son épouse est parvenue à prolonger sa vie d’environ quatre années.
+[8] Malheureusement, la Cour d’appel fédérale a jugé que l’alinéa 118.2(2)n) doit être interprété de façon restrictive. Dans l’arrêt La Reine c. Ray, C.A.F., no A-93-2, 5 janvier 2004 (2004 DTC 6028), la Cour d’appel fédérale a indiqué ce qui suit à la page 6031 :
+À mon avis, il est raisonnable d’inférer que l’exigence relative à l’enregistrement figurant à l’alinéa 118.2(2)n) vise à assurer qu’un allégement fiscal ne soit pas accordé pour le coût de médicaments achetés en vente libre. Il existe partout au Canada des lois qui régissent la pratique dans le domaine pharmaceutique. Les lois ne sont pas les mêmes dans chaque province et dans chaque territoire, mais elles comportent des éléments communs. En général, elles interdisent au pharmacien de délivrer certains médicaments sans ordonnance médicale et elles décrivent les documents qu’un pharmacien doit rédiger pour les médicaments d’ordonnance, y compris les renseignements qui identifient la personne qui prescrit le médicament et le patient. Il n’est pas établi que les pharmaciens, où que ce soit au Canada, soient obligés de rédiger pareils documents pour les substances ici en cause.
+Je ne puis retenir la prétention selon laquelle, dans le cas d’un médicament qui est prescrit par un médecin, mais qui est acheté dans une pharmacie en vente libre, un reçu de caisse ou une facture du pharmacien constituerait un « enregistrement » suffisant pour satisfaire à l’exigence légale. Un document se présentant sous cette forme ne peut pas remplir la fonction apparente de l’exigence relative à l’enregistrement. Le pharmacien doit rédiger un document en sa qualité de pharmacien. Cela exclut nécessairement les substances, aussi utiles ou bénéfiques soient‑elles, qui sont achetées en vente libre.
+[9] Autrement dit, seul [sic] les médicaments sur ordonnance peuvent être inclus dans le calcul des frais médicaux.
+[10] Ce serait de rendre un mauvais service à l’appelant que d’adopter une approche davantage fondée sur la compassion, comme l’a fait la Cour dans d’autres litiges, et d’étendre la portée du syntagme « enregistrés par un pharmacien » aux médicaments qui, bien qu’ils soient prescrits par un médecin et vendus dans une pharmacie, sont comptabilisés par le pharmacien à titre de simples articles de vente et non comme médicaments vendus sur ordonnance. Une telle décision serait tout simplement infirmée par la Cour d’appel fédérale.
+[10] Il peut être utile de comparer le point de vue exposé dans l’affaire Ray au point de vue émis dans les affaires Friis c. La Reine, 98 DTC 6419, et Johnston c. La Reine, 98 DTC 6169. Dans l’affaire Friis, le juge Linden, s’exprimant au nom de la majorité, fait remarquer ce qui suit :
+[1] À mon avis, la présente demande fondée sur l’article 28 devrait être accueillie compte tenu de l’arrêt de la Cour Johnston c. Canada [1998] F.C.J. No. 169, qui a été rendu après la décision du juge de la Cour de l’impôt en l’espèce. Dans cette affaire, le juge Létourneau, citant le juge Bowman dans une autre affaire (Radage v. R. [1996] 3 C.T.C. 2510), a fait savoir que la « disposition doit recevoir une interprétation humaine et compatissante » et ne doit pas « recevoir une interprétation trop restrictive qui nuirait à l’intention du législateur, voire irait à l’encontre de celle-ci », cette intention étant « d’accorder un modeste allégement fiscal à ceux et celles qui entrent dans une catégorie relativement restreinte de personnes limitées de façon marquée par une déficience mentale ou physique. L’intention n’est pas d’accorder le crédit à quiconque a une déficience ni de dresser un obstacle impossible à surmonter pour presque toutes les personnes handicapées. On reconnaît manifestement que certaines personnes ayant une déficience ont besoin d’un tel allégement fiscal, et l’intention est que cette disposition profite à de telles personnes ».
+Malgré la décision rendue dans l’affaire Ray, je ne crois pas qu’il soit justifié d’introduire à l’alinéa m) les mots « par écrit ».
+[11] En revanche, j’ai du mal à dire que M. Whitfield a reçu une ordonnance de ses médecins pour l’appareil d’entraînement elliptique et la cuve thermale. Ses médecins lui ont prescrit de l’exercice « sans impact » et de l’hydrothérapie. La preuve ne permet pas d’établir si les médecins ont désigné nommément les dispositifs en question. Il est toutefois raisonnable de déduire que les médecins ont prescrit à M. Whitfield n’importe quel genre de dispositif qui lui permettrait de faire des activités considérées comme bénéfiques. Après tout, le choix est plutôt restreint. Pour l’hydrothérapie, par exemple, qu’y a-t-il de mieux qu’une cuve thermale? Cependant, pour l’exercice sans impact, l’appareil d’entraînement elliptique n’est qu’une possibilité parmi bien d’autres.
+[12] Par conséquent, j’estime que la cuve thermale a été utilisée sur ordonnance d’un médecin conformément au sous‑alinéa 118.2(2)m)(ii), mais je ne peux pas en dire autant de l’appareil d’entraînement elliptique.
+[13] Quant à la question de savoir si la cuve thermale et l’appareil d’entraînement elliptique sont « d’un genre visé par règlement » aux termes du sous-alinéa (i), j’ai beaucoup plus de réserves, et les décisions rendues par cette cour semblent, à première vue du moins, plutôt contradictoires. Les contradictions sont mises en évidence dans l’arrêt du juge Bell dans l’affaire Klywak c. La Reine, 2004 C.C.I. 523, où il fait observer ce qui suit :
+[6] L’appelante a déclaré qu’elle prendrait une tonne de médicaments et ne pourrait pas bien fonctionner si elle n’avait pas de cuve thermale. Elle a fait mention des lettres de son médecin. Elle a aussi fait mention de l’affaire Johnson c. Sa Majesté la Reine, [2003] A.C.I. no 41, dans laquelle le juge Little de la présente cour a autorisé comme frais médicaux le coût d’une cuve thermale achetée à la suite de la recommandation du médecin de l’appelant. Le juge a cité ce qui suit :
+J’accepte le témoignage crédible et non contredit de l’appelante selon lequel elle a acheté la cuve thermale uniquement à des fins d’hydrothérapie et de soulagement de la douleur.
+[7] Elle a aussi fait référence à la décision James Donaghue c. Canada, [2003] A.C.I. no 721, dans laquelle le juge O’Connor a considéré la cuve thermale comme un dispositif utilisé sur ordonnance puisqu’il croyait que la cuve était visée par le sous-alinéa (i) de l’article 5700 du Règlement en tant que dispositif qui est conçu à l’intention du particulier à mobilité réduite pour l’aider à marcher. Il a en outre déclaré qu’elle tombait peut-être sous le coup de l’alinéa 118.2(2)m) de la Loi puisqu’elle est un type de dispositif utilisé sur ordonnance et qu’elle a été achetée sur le conseil d’un médecin. Il a précisé que rien n’obligeait que l’ordonnance soit faite par écrit et que la cuve thermale atténuait grandement le problème de l’appelant, lui permettant de se déplacer tant dans sa maison qu’à l’extérieur.
+[…]
+[10] L’avocate de l’intimée a fait mention de la décision Gibson c. Canada, [2000] A.C.I. no 753, confirmée par le jugement de la Cour d’appel fédérale, [2001] A.C.F. no 1758. Dans cette affaire le juge Mogan a indiqué que l’appelante souffrait de fibromyalgie dans la région du cou, ce qui entraînait une douleur grave affectant les muscles de son cou et son bras droit. Après avoir décrit le traitement, il a écrit que l’appelante arrivait à soulager sa douleur lorsqu’elle se trouvait dans un bain dans lequel des jets d’eau chaude étaient dirigés sur son cou et ses bras. Elle avait par conséquent fait installer chez elle une cuve thermale d’hydromassage. Elle s’est rendu compte que la cuve thermale soulageait sa douleur et lui permettait une plus grande mobilité. L’arrêt faisait mention de la décision Vantyghem c. La Reine, C.C.I., no 97-3607 (IT)I, 17 décembre 1998 ([1999] 2 C.T.C. 2159) dans laquelle le juge Rip de la présente cour a jugé que le fait de « rénover » une salle de bain pouvait signifier l’addition d’appareils qui n’y avaient pas été installés dans la salle de bain lors de la construction, ces rénovations étant le coût d’installation d’une cuve thermale. Le juge Mogan a aussi cité la décision Clark c. La Reine, C.C.I., no 98-525 (IT)I, 17 février 1999 ([1994] 4 C.T.C. 2005) dans laquelle le juge Rowe de la présente cour a rejeté l’appel d’une conjointe qui avait tenté de déduire, à titre de frais médicaux, les coûts d’achat et d’installation d’une cuve thermale qui avait été prescrite par le spécialiste de l’arthrite qui traitait son conjoint. Il a aussi mentionné la décision Ollman c. La Reine, C.C.I., no 99-57(IP)I, 8 décembre 1999 ([2000] 1 C.T.C. 2789) dans laquelle une femme avait acheté une cuve thermale sur recommandation de son chirurgien orthopédiste et de son physiothérapeute afin de soulager une douleur lombaire chronique causée par un accident d’automobile avec blessure grave. Le juge O’Connor a conclu que le coût de la cuve thermale n’était pas admissible à titre de frais médicaux. Le juge Mogan a aussi fait mention de l’affaire Gordon c. La Reine, C.C.I., no 98-1553 (IT)I, 29 février 2000 ([2000] 2 C.T.C. 2399) dans laquelle la conjointe de M. Gordon récupérait d’un accident d’automobile qui lui avait causé des troubles rhumatologiques graves, dont la fibromyalgie et l’arthrose inflammatoire. Comme elle avait fréquemment besoin de bains chauds, il a été recommandé qu’elle fasse installer une baignoire chez elle. Le juge Beaubier a conclu que la cuve thermale n’était pas un dispositif ou un équipement au sens de l’alinéa 118.2(2)m), mais a accepté le coût d’installation parce que selon lui il représentait des frais raisonnables afférents à une rénovation ou à une transformation apportée à l’habitation de la famille Gordon. Le juge Mogan a conclu que, compte tenu de l’alinéa 118.2(2)m) de la Loi et des éléments énumérés à l’article 5700 du Règlement, il était convaincu que la cuve thermale en question n’était pas admissible à titre de « dispositif ou équipement » et il a accepté seulement le coût d’installation de la cuve.
+[14] En plus des affaires auxquelles le juge Bell fait référence, je tiens à mentionner l’affaire Hope c. Canada, 2003 C.C.I. 493, dans laquelle le juge Little a déterminé que le coût d’une cuve thermale ne pouvait pas être inclus dans le calcul des frais médicaux en vertu de l’article 118.2. Dans cette affaire, le juge Little n’a pas fait référence à sa décision dans l’affaire Johnson, où il avait déterminé que le coût d’une cuve thermale représentait des frais médicaux admissibles. De même, dans l’affaire Donaghue c. Canada, [2003] A.C.I. no 721 (QL), le juge O’Connor a conclu que le coût d’une cuve thermale pouvait être inclus dans le calcul des frais médicaux. Il n’a toutefois pas fait référence à sa décision dans l’affaire Ollman c. La Reine, [2000] 1 C.T.C. 2789, où il avait établi que le coût d’une cuve thermale ne pouvait pas être considéré comme des frais médicaux.
+[15] Dans l’affaire Gibson c. Canada, [2000] A.C.I. no 753 (QL), le juge Mogan a conclu que le coût d’une cuve thermale ne représentait pas des frais médicaux admissibles, mais que les frais d’installation de la cuve en étaient. La décision du juge Mogan a été confirmée par la Cour d’appel fédérale. Le juge Rothstein a déterminé que « le coût de la cuve thermale n’était pas admissible à titre de frais médicaux ».
+[16] Évidemment, la remarque du juge Rothstein est une remarque incidente. La Cour d’appel fédérale n’avait pas à se pencher sur la question du coût de la cuve thermale : elle n’avait été saisie que de la question des frais d’installation. Par conséquent, la remarque du juge Rothstein ne peut pas servir de référence.
+[17] Toutes ces affaires semblent être incompatibles ou être fonction des faits qui leur sont propres – parfois une cuve thermale vise à aider une personne à marcher, parfois non. S’il existe un fil conducteur dans toutes ces affaires – et peut‑être suis‑je un peu trop optimiste –, le voici : si, au vu des éléments de preuve, le juge constate qu’une cuve thermale vise et sert principalement à accroître la mobilité d’un particulier, il est plus disposé à considérer les dépenses qui s’y rattachent comme des frais médicaux. De plus, je tiens à souligner que, dans la majorité des affaires dont cette cour a été saisie, le coût d’une cuve thermale n’a pas été considéré comme des frais médicaux admissibles. C’est certainement le cas dans l’affaire Klywak, où le juge Bell a formulé une conclusion de fait selon laquelle une cuve thermale avait pour but et pour effet d’aider l’appelante à marcher.
+[18] À mon avis, les éléments de preuve produits dans la présente affaire ne démontrent pas que la cuve thermale et l’appareil d’entraînement elliptique avaient pour but d’aider le particulier à marcher. Les deux dispositifs peuvent avoir aidé à soulager la douleur à la hanche et au dos, et la cuve thermale atténue certainement la dépression.
+[19] À la lumière de l’affaire Gibson, il me paraît clair que les frais d’installation de la cuve thermale peuvent être inclus dans le calcul des frais médicaux, non pas en vertu de l’alinéa 118.2(2)m), mais en vertu de l’alinéa 118.2(2)l.2).
+[20] L’appel est admis, et la cotisation est renvoyée au ministre du Revenu national pour qu’il la réexamine et qu’il en établisse une nouvelle en vue d’inclure les frais d’installation de la cuve thermale dans le calcul des frais médicaux.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2004.
+« D.G.H. Bowman »
+Le juge en chef adjoint Bowman
+Traduction certifiée conforme
+ce 22e jour de mars 2005.
+Colette Dupuis-Beaulne, traductrice
+RÉFÉRENCE :
+2004CCI623
+NO DU DOSSIER DE LA COUR :
+2004-814(IT)I
+INTITULÉ DE LA CAUSE :
+Cindy Whitfield et
+Sa Majesté La Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 30 août 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge en chef adjoint D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 16 septembre 2004
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Jenna Clark
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

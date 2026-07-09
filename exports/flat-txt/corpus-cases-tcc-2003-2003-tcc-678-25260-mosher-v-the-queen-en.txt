@@ -1,0 +1,131 @@
+Title: Mosher v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25260/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-678-25260-mosher-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-10-20
+
+# Mosher v. The Queen
+
+- Citation: 2003 TCC 678
+- Decision date: 2003-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2389, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mosher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-20
+Neutral citation
+2003 TCC 678
+File numbers
+2002-4017(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4017(IT)I
+BETWEEN:
+PAUL STAFFORD MOSHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 24, 2003 at Calgary, Alberta
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Thomas G. McCartney
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1997 taxation year is allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of October 2003.
+"B. Paris"
+Paris, J.
+Citation: 2003TCC678
+Date: 20031020
+Docket: 2002-4017(IT)I
+BETWEEN:
+PAUL STAFFORD MOSHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] This is an appeal from a reassessment of the Appellant's 1997 taxation year by which the Minister of National Revenue (the "Minister") treated the Appellant's gain on the sale of real property in Brooks, Alberta, legally described as plan 6827FP Block 2 Lot 1 (the "Property"), as being on income account. The Minister also determined that the Appellant's spouse was not a partner with the Appellant in the purchase and sale of the Property, and therefore included the portion of the gain reported by her in the Appellant's income.
+[2] The two issues in this appeal are whether:
+(1) whether the purchase and sale of the Property was an adventure in the nature of trade; and
+(2) whether the Appellant's spouse was a partner with him in the purchase and sale of the Property.
+[3] The Appellant and his spouse were the only witnesses at the hearing.
+[4] The Appellant testified that the Property was purchased for the purpose of starting a Tim Hortons fast food franchise. He said that he and his spouse became interested in operating a Tim Hortons franchise in 1993 as a result of a friendship they had with a couple who owned a franchise in Red Deer, Alberta. The Appellant was expecting to retire within a few years and wanted to start a business. At that time the Appellant was a member of the RCMP in Forestberg, Alberta where he lived with his family. The Appellant also had a friend from work who had a franchise in Vernon, British Columbia.
+[5] As a result of his interest in a Tim Hortons franchise, the Appellant said that he met with Ron Joyce, the owner of the chain, and Mr. Lundgren from the TDL Group Limited ("TDL"), which operated Tim Hortons and was sent franchising information (Exhibits A-1 and A-2). He said that he had become friends with the people who operated TDL in Calgary, but that business "kicked in" when he returned the franchise questionnaire (Exhibit A-3) to TDL.
+[6] Around this time, the Appellant and his spouse decided that they would target the Brooks, Alberta area as location for a possible franchise. In 1995 the Appellant and his spouse sold their home in Forestberg and purchased a home in Brooks. The Appellant's spouse and children moved to Brooks while the Appellant remained in Forestberg and commuted to Brooks until 1996 when he was transferred there.
+[7] The Appellant stated that in late 1994 and 1995 he and the Property Manager for TDL, John Barber, looked at several possible sites for a Tim Hortons franchise in Brooks but none were suitable to TDL. A map of one of those sites was entered as Exhibit A-7. In 1996 he said that he did not have much contact with TDL because all of the possible locations for the franchise in Brooks had been explored.
+[8] In January 1997 the Appellant was approached by a secretary at his work who told him that her grandparents' property was for sale. The Appellant said that the two and half acre parcel was a perfect site for a Tim Hortons franchise. The asking price for the Property was $250,000, although he was told by the vendor that the appraised value was $220,000.
+[9] It appears from the evidence that the Appellant moved quickly to purchase the Property. He was told by the vendor that if the Appellant did not want it he (the vendor) "could sell it in a minute" at that price. The Appellant said that he needed help with the purchase and so approached a real estate developer in town, Herb Wettiskind, who agreed to purchase one half of the Property. The meeting with Wettiskind took place on the same day the Property came available. The Appellant said that he knew he could not afford the Property and went out on a limb to purchase it. He agreed on cross-examination that he had to tie up the Property quickly or someone else would have purchased it. The Appellant originally offered $229,000 for the Property but this amount was increased to $250,000, and the vendor accepted the offer all on the same day, January 27, 1997.
+[10] The Appellant said that he rushed to Calgary after purchasing the Property to meet with TDL and was told that TDL did not allow franchisees to own the land upon which Tim Horton franchises were located. TDL was not interested in buying the Property from the Appellant either. Later on he received a letter from TDL saying that it had determined that there was not a sufficient population in Brooks to support a Tim Hortons franchise.
+[11] About two weeks after the Property was purchased the Appellant sustained a back injury at work that eventually led to his discharge from the RCMP.
+[12] As a result of all these circumstances the Appellant and Wettiskind decided to sell the Property and a buyer was found by Wettiskind. The Property was sold August 7, 1997 for $350,000.
+Analysis
+[13] The issue of whether the Appellant's gain on the disposition of the Property was on income or capital account will depend upon his intention when the Property was purchased. If the possibility of resale at a profit was a motivating factor to him in the purchase the gain will be income from business.
+[14] Generally speaking the taxpayer's intention may be ascertained from his whole course of conduct and the relevant circumstances and inferences flowing therefrom.
+[15] On the whole of the evidence before me I am satisfied that the possibility of resale at a profit was an operating motive of the Appellant in the purchase of the Property. Despite his assertions that the Property was purchased solely for use in the Tim Hortons franchise, a review of the surrounding circumstances leads me to conclude otherwise.
+[16] The Appellant's stated intention is inconsistent with the fact, known to him at the time, that TDL handled the purchase and development of all Tim Hortons franchise land. The Appellant's explanation in this regard was that he thought TDL might make an exception in his case regarding ownership of the franchise land, or that he could sell the Property to TDL. If the Appellant's sole intention with respect to the Property was for use in a Tim Hortons franchise, it is highly unlikely that the Appellant would not have contacted TDL prior to committing himself to the purchase, firstly to determine if the Property met with TDL's approval, and then to see if TDL would make an exception to its policy regarding the ownership of franchise land or if it wanted to buy the Property itself. Given that TDL had rejected all other properties that had been available in Brooks, and given that the Appellant had little contact with TDL during the preceding year, it made no sense for him to make the purchase without discussing it with TDL. The Appellant's conduct is more consistent with his having an alternate motivation in acquiring the Property, namely resale at a profit.
+[17] It also appears that the Appellant would not have had the financial resources to purchase both the Property and a Tim Hortons franchise. By 1997 the cost of a franchise was approximately $350,000. The Appellant also said he expected to have an additional expenses to meet, bringing the cost of the franchise close to $400,000. With the cost of the half share in the Property added in, the Appellant was looking at a capital commitment of around $525,000. In 1997 he agreed that his and his spouse's combined net worth was about $279,000, including their residence, and that he was counting on a loan from his wife's brother in the amount of $100,000. The Appellant asserted that the shortfall would be financed by TDL, but Exhibit A-2 shows that the financing would have had to come from chartered banks if it could have been obtained. In any event, there was no evidence that the Appellant had done anything to arrange this financing or even to determine if it were available.
+[18] In considering all these factors, I do not accept the Appellant's evidence that he did not turn his mind to the possibility of resale of the Property, at a profit at the time he purchased it. I find that the possibility of making a profit on such a resale was one of the Appellant's motivations in acquiring the Property and therefore that the purchase and sale amounted to an adventure in the nature of trade.
+[19] I turn now to the question of whether a partnership existed between the Appellant and his spouse at the time of the purchase of the Property, and, if so, whether the purchase and the sale of the Property formed part of the activities of the partnership.
+[20] Under the Alberta Partnership Act R.S.A. 2000 c. P-3, a partnership is defined as "the relationship that subsists between persons carrying on business in common with a view to profit". The Appellant and his spouse testified that they intended to operate a Tim Hortons franchise in common as a family business and that each of them would make a significant financial commitment to it. Although there was no written agreement between them I am satisfied that they had an oral agreement to this effect. However, for the reasons that follow, I am not satisfied that the Appellant and his spouse had commenced carrying on the business at the time of the purchase and sale of the Property.
+[21] In the case Samson et Frères Ltée v. The Queen, 97 DTC 642, Judge Dussault (as he then was) of this Court dealt with the question of whether a taxpayer had begun carrying on a business: At page 645 he stated:
+For a business to exist and to have commenced, one must have gone beyond the stage of merely intending to commence it. A plan to do so, even a clearly-stated one, is in my view merely the expression of that intention and must be taken further. The essential elements relating to the very structure of the business, that is the necessary financing, assets and labour, must have been sought out and brought together before it can be stated that the business exists and that it has commenced. I will add that the decision to commence the business, as it may be detected from 'significant' or 'essential' steps taken by the taxpayer with a view to operating the business, is an important indicator that the business has commenced. ... It is indeed fairly difficult to conceive that a business has commenced before a firm decision has been made to that effect and before the essential elements relating to the very structure of such a business have been brought together.
+[22] The evidence in this case shows that the Appellant and his spouse had taken steps to start a Tim Hortons franchise but that those steps were preliminary and investigative in nature and were not binding either on them or on TDL. While the Appellant claimed that he had been given the Tim Hortons franchise in Brooks by TDL, no contract had been signed nor had any money been paid to secure it.
+[23] When a Tim Hortons franchise eventually opened in Brooks, the Appellant and his spouse were not involved.
+[24] Furthermore, there was no evidence that the Appellant and his spouse had arranged all of the financing necessary to purchase the franchise and start operations or that they had entered into any arrangements or contracts with third parties other than for the purchase of the Property. It cannot be said here that the essential elements of the structure of the business had been brought together or that a business had been commenced.
+[25] It follows that the Appellant and his spouse were not acting in partnership for the purchase and sale of the Property.
+[26] This does not, however, end the matter. The Appellant's spouse contributed financially to the purchase of the Property by co-signing an additional mortgage on the family home. There was no evidence before me that she intended to make a gift of this money to the Appellant or that it was a loan to him. I accept that by co-signing the mortgage she intended to participate in the purchase. Both the Appellant and his spouse stated that they shared equally in all their property and that they considered themselves equal partners in all of their dealings and I am satisfied that they had a common intention that they would own the Property equally.
+[27] Therefore, although the Appellant's spouse never appeared on title, a presumption would arise under the doctrine of resulting trust that she had a beneficial one-half interest in the Property. I would refer to the comments of Sarchuk, J. of this Court in Karavos v. The Queen, 96 D.T.C. 1001 at page 1004:
+In Rathwell v. Rathwell, the Supreme Court of Canada confirmed that a resulting trust may arise in circumstances where the parties have a "common intention" that the beneficial interest should not belong solely to the person holding legal title but is to be shared between such persons. Such common intention can be ascertained by examining whether evidence exists of an express declaration of common intention that the non-titled party was to have a beneficial interest in the property. The Supreme Court also noted that it is appropriate for a court to consider whether a "common intention" existed by examining the facts and circumstances surrounding the acquisition of the property. If the person without title has contributed to acquisition or improvement of the property the doctrine of resulting trust may be engaged.
+Summary
+[28] For all the above reasons the appeal will be allowed in part with costs and the matter will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that one half of the profit from the purchase and sale of the Property should be included in the Appellant's income for his 1997 taxation year as income from business.
+Signed at Ottawa, Canada, this 20th day of October 2003.
+"B. Paris"
+Paris, J.
+CITATION:
+2003TCC678
+COURT FILE NO.:
+2002-4017(IT)I
+STYLE OF CAUSE:
+Paul Stafford Mosher and H.M.Q.
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+July 24, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+October 20, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Thomas G. McCartney
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Thomas G. McCartney
+Firm:
+Duhamel Manning Feehan Warrender Glass
+Red Deer, Alberta
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

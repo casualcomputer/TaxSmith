@@ -1,0 +1,248 @@
+---
+title: "Ritchie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/311838/index.do"
+last_modified: "2018-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 113"
+citation2: ""
+neutral_citation: "2018 TCC 113"
+decision_date: "2018-06-18"
+language: "en"
+item_id: "311838"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5080
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:45:45.482000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a30378e8cd7784a2e1309526c5a85549ef8246a28618259536e6b7f7888c339"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ritchie v. The Queen
+
+- Citation: 2018 TCC 113
+- Decision date: 2018-06-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5080, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ritchie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-18
+Neutral citation
+2018 TCC 113
+File numbers
+2015-1874(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Notes
+A correction was made on June 28, 2018.
+Decision Content
+Docket: 2015-1874(IT)G
+BETWEEN:
+GARY RITCHIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 28, 2018 at Winnipeg, Manitoba
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Jeff Pniowsky
+Counsel for the Respondent:
+Brooke Sittler
+Bryn Frape
+AMENDED JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal with respect to a reassessment made under the Income Tax Act for the Appellant’s 2008 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant realized a taxable capital gain of $127,435 in respect of the signing bonus.
+This Judgment is issued in substitution for the Judgment dated June 18, 2018.
+Signed at Antigonish, Nova Scotia, this 26th day of June 2018.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2018 TCC 113
+Date: 20180618
+Docket: 2015-1874(IT)G
+BETWEEN:
+GARY RITCHIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Appellant has appealed a reassessment in respect of his 2008 taxation year. The issue before the Court is the taxation of a $254,870 payment made by Enbridge Pipelines Inc. (“Enbridge”) to the Appellant (the “Signing Bonus”). The Signing Bonus is one of a number of payments Enbridge made to facilitate the installation of two pipelines on land owned by the Appellant.
+[2] The parties did not call any witnesses during the hearing. Instead, they filed the following Statement of Agreed Facts (the “SAF”):
+The Agreed Facts are as follows:
+1. The Appellant is an individual who resides in Cromer, Manitoba.
+2. At all material times, the Appellant was engaged [in] farming on property he owned in Cromer, Manitoba.
+3. The Appellant rents his land to G & M Ritchie Farms Ltd. (the “Appellant’s Corporation”) which farms the land on behalf of the Appellant. [1]
+4. In 2007, Enbridge Pipelines Inc. (“Enbridge”), was engaged in a project to install pipelines spanning across Alberta, Saskatchewan and Manitoba (the “Project”).
+5. The Appellant’s land was situated on the Project route. The Appellant and Enbridge entered into an agreement (the “Agreement”) with respect to two pipelines installed on the Appellant’s land (the “Pipelines”).
+6. A copy of an agreement between Enbridge and a Keith Lobel is attached hereto at Tab “A”. The terms of the agreement between Enbridge and Keith Lobel are identical to the terms of the Agreement.
+7. The Appellant does not dispute any of the terms of the Agreement, and the Appellant does not rely on any evidence or information external to the Agreement for the interpretation of the Agreement.
+8. The Agreement constitutes the entirety of the agreement between the Appellant and Enbridge.
+9. The Appellant signed the Agreement on or before December 31, 2007 (the “Early Deadline”).
+10. Progress Land Services Ltd. (“PLS”) acts as a local agent on behalf of Enbridge and made payments to the Appellant and the Appellant’s Corporation on behalf of Enbridge.
+11. In 2008, the Appellant and/or the Appellant’s Corporation received a total of $441,595 from PLS on behalf of Enbridge. Copies of seven letters from PLS to the Appellant’s Corporation enclosing cheques representing various payments from Enbridge are attached hereto at Tab “B”.
+12. In 2008, amounts received by the Appellant and/or the Appellant’s Corporation from PLS on behalf of Enbridge were in respect of the following areas and tracts of land:
+S ½ of 18-9-27
+Tract #4029, 4029.01
+SW 17-9-27
+Tract #4030
+SE 17-9-27
+Tract #4030.01
+NE 16-9-28
+Tract #4023
+E ½ of 15-9-28
+Tract #4025
+W ½ of 15-9-28
+Tract #4024
+SE 13-9-28
+Tract #4027.99
+13. In 2008, the Appellant and/or the Appellant’s Corporation received from PLS on behalf of Enbridge:
+a. $19,872 in respect of easement consideration, and more particularly in accordance with Schedule 3, Clause 1 of the Agreement;
+b. $15,532 in respect of temporary workspace rights, and more particularly in accordance with Schedule 3, Clause 1 of the Agreement;
+c. $111,422 in respect of damages, specifically crop loss, and more particularly in accordance with Schedule 3, Clause 2 of the Agreement;
+d. $38,202 in respect of damages, specifically nuisance and inconvenience, and more particularly, in accordance with Schedule 3, Clause 2 of the Agreement; and
+e. $255,790 in respect of signing bonuses or incentive payments, and more particularly, in accordance with Schedule 3, Clauses 5 and 6 of the Agreement (the “$255,790”).
+14. The $255,790 was received by the Appellant at a rate of $1,000 plus $45 for 5,662.01 linear meters.
+15. In 2008, the Appellant and/or the Appellant’s Corporation received $776 in 2008 from PLS on behalf of Enbridge in respect of GST.
+16. The Appellant’s Corporation reported the following amounts received in 2008 from PLS on behalf of the Enbridge as income:
+a. $15,532 in respect of temporary work space;
+b. $111,422 in respect of insurance; and
+c. $38,202 in respect of disturbance damages.
+17. The Appellant reported the following amounts received in 2008 from PLS on behalf of Enbridge as capital receipts:
+a. $19,872 in respect of easement consideration; and
+b. the $255,790, which resulted in a reported taxable capital gain of $127,435 in relation to the signing bonuses or incentive payments.
+18. The Minister of National Revenue (the “Minister”) initially assessed the Appellant for the 2008 taxation year by notice dated June 26, 2009.
+19. The Minister reassessed the Appellant in respect of the 2008 taxation year on May 3, 2011, to treat the $255,790 as an income receipt, resulting in a reduction to the reported capital gain from $254,870 (taxable capital gain $127,435) to $0, and an increase to income of $253,748.
+20. The Appellant objected to the May 3, 2011 reassessment by notice of objection served on the Minister on July 26, 2011.
+21. The Appellant paid expenses of $17,052 to the Manitoba Pipeline Landowners’ Association Inc. in 2008 (the “MPLA expense”).
+22. Because of the MPLA expense, the Crown concedes that the increase to the Appellant’s income in 2008 should be reduced from $253,748 to $238,738.
+23. The only issue for determination by the Tax Court of Canada is the proper characterization of the $255,790 for tax purposes.
+[3] While Tab A to the SAF contains a settlement agreement that is identical to the settlement agreement the Appellant entered into with Enbridge (the “Settlement Agreement”), the parties did not provide the Court with the agreements that effected the settlement. For example, the parties did not provide the Court with the easement agreement and the temporary workspace agreement referred to in section 5 of Schedule 3 to the Settlement Agreement.
+[4] The general nature of the payments to be made by Enbridge is set out in section 4 of the Settlement Agreement and in Schedule 3 to that agreement. The Settlement Agreement provides that, in addition to the Signing Bonus, payments may be made in respect of the granting of an easement, the presence of a temporary workspace on the land and damage incurred by the landowner, including physical damage, crop loss and disturbance.
+[5] Tab B of the SAF evidences that Enbridge made payments to G & M Ritchie Farms Ltd. (the “Corporation”) in respect of the granting of the easement, compensation for temporary working rights, the Signing Bonus, crop loss for canola and wheat and damages for nuisance and inconvenience.
+[6] Notwithstanding the fact that Enbridge made all of the payments to the Corporation, the Appellant reported the payments received in respect of the granting of the easement and the Signing Bonus on his tax return. In other words, it is the Appellant’s position that the Corporation received on his behalf the payments in respect of the Signing Bonus and the granting of the easement. The Respondent does not dispute the Appellant’s position. The Minister reassessed the Appellant on the basis that the Appellant received the Signing Bonus.
+[7] The taxation of the Signing Bonus is the only issue before the Court.
+[8] Section 4.5 of the Settlement Agreement and sections 5 and 6 of Schedule 3 to the Settlement Agreement provide for the payment of the Signing Bonus by Enbridge to the Appellant. Those sections read as follows:
+Section 4.5 of the Settlement Agreement
+Where the landowner executes and delivers to Enbridge the agreements (including, as applicable, easement agreement, temporary workspace agreement, consent and other such documentation necessary or desirable in relation to the Projects) on or before December 31st, 2007, the Company will provide an early signing bonus as set out in Schedule 3.
+Sections 5 and 6 of Schedule 3 to the Settlement Agreement
+5. For early signing, where the landowner signs an easement agreement, temporary workspace agreement, consent and/or release, as applicable, on or before December 31, 2007, Enbridge will, within 90 days of receipt of same, provide an early signing bonus of $35 per metre of linear disturbance across the landowner’s lands where one pipeline is being installed and $45 per metre of linear disturbance across the landowner’s lands where two pipelines are being installed. For greater certainty, this payment is based on the length of pipeline through the landowner’s property, not easement width. Further, payment of the signing bonus is intended to be an incentive for early signing of the easement agreement. It is not additional compensation for easement, temporary workspace, consent or Damages.
+6. In addition, for early signing, where the landowner signs an easement agreement, temporary workspace agreement, consent, and/or release, as applicable, on or before December 31, 2007, Enbridge will provide an early signing bonus of $1,000 for each tract of land.
+[Emphasis added.]
+I. The Law
+[9] Under section 3 of the Income Tax Act (the “Act”), the Appellant is required to include as income all income received from business and property and all of his taxable capital gains for the year.
+[10] Paragraph 12(1)(x) provides special rules for inducements. It reads, in part, as follows:
+Income inclusions — There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+. . .
+(x) Inducement, reimbursement, [refund] etc. - any particular amount (other than a prescribed amount) received by the taxpayer in the year, in the course of earning income from a business or property, from
+(i) a person or partnership (in this paragraph referred to as the “payer”) who pays the particular amount
+(A) in the course of earning income from a business or property,
+(B) in order to achieve a benefit or advantage for the payer or for persons with whom the payer does not deal at arm's length, or
+(C) in circumstances where it is reasonable to conclude that the payer would not have paid the amount but for the receipt by the payer of amounts from a payer, government, municipality or public authority described in this subparagraph or in subparagraph (ii), or
+(ii) a government, municipality or other public authority,
+where the particular amount can reasonably be considered to have been received
+(iii) as an inducement, whether as a grant, subsidy, forgivable loan, deduction from tax, allowance or any other form of inducement, or
+. . .
+to the extent that the particular amount
+(v) was not otherwise included in computing the taxpayer's income, or deducted in computing, for the purposes of this Act, any balance of undeducted outlays, expenses or other amounts, for the year or a preceding taxation year,
+. . .
+(viii) may not reasonably be considered to be a payment made in respect of the acquisition by the payer or the public authority of an interest in the taxpayer, an interest in, or for civil law a right in, the taxpayer's business or an interest in, or for civil law a real right in, the taxpayer's property;
+II. Positions of the Parties
+[11] It is the Respondent’s position that the Appellant received the Signing Bonus on account of income.
+[12] In the first instance, the Respondent argues that the Appellant received the payment in the course of his income-earning activity of farming. She argues that the amount does not relate to the disposition of capital property. Specifically, the amount is not compensation for an easement.
+[13] The Respondent also argues that, to the extent that the Signing Bonus is not otherwise included in the Appellant’s income, the amount thereof must be included under paragraph 12(1)(x) as an incentive or inducement for early signing of the Settlement Agreement.
+[14] The Respondent argues that the exclusion in subparagraph 12(1)(x)(viii) does not apply because the Signing Bonus was an inducement granted in consideration of a contractual obligation. She argues at paragraph 39 of her written submissions:
+Enbridge did not acquire a right in the appellant’s property through offering inducements to sign the Agreement [the Settlement Agreement], nor did the appellant give up any interest in his property by agreeing to do so. Instead, the signing bonuses and incentive payments [the Signing Bonus] consisted of a contractual obligation on behalf of Enbridge to pay a set amount at a future date if the appellant signed the Agreement [the Settlement Agreement] early.
+[15] The Appellant reported the Signing Bonus and the consideration for the easement as capital receipts. He reported a taxable capital gain of $127,435 in respect of the Signing Bonus.
+[16] However, before the Court, the Appellant argued, in the first instance, that the Signing Bonus is a non-taxable windfall. He argued, in the alternative, that the Signing Bonus is a capital receipt.
+[17] The Appellant argued that the following facts support his position that the Signing Bonus is a non-taxable windfall:
+- The Appellant made no organized effort to receive the Signing Bonus, nor did he seek it out.
+- The Signing Bonus is wholly unrelated to the Appellant’s business activities.
+- The Appellant was not directly involved in any negotiations over the Settlement Agreement and there “has been no evidence that the Appellant expected this type of payment.”
+[18] With respect to his alternative argument, the Appellant argues that, as a result of the nexus between the Signing Bonus and the easement, the Signing Bonus was in substance consideration for the granting of the easement.
+III. Disposition of Appeal
+[19] I will first address certain factual assumptions stated in the Respondent’s written submissions, which do not reflect the facts before me.
+[20] First, the Respondent appears to be arguing that the Appellant received the Signing Bonus in the course of carrying on a farming business (see paragraphs 30 and 32 of her written submissions). However, according to the SAF, the Corporation, not the Appellant, carried on the farming business.
+[21] Paragraph 3 of the SAF states that the Appellant rents the land in question to the Corporation. The SAF does not address the ownership of the shares of the Corporation. However, since the SAF refers to the Corporation as the “Appellant’s Corporation”, I have assumed that the Appellant controlled the Corporation.
+[22] Paragraph 3 of the SAF further states that the Corporation farms the land on behalf of the Appellant. It is not clear to me what is meant by “farms the land on behalf of the Appellant.” I assume it means that the Corporation farms the land on behalf of its shareholder, the Appellant.
+[23] The Appellant rents the land to the Corporation, therefore the Corporation must have carried on the farming business on its own account, since it is the tenant under the lease.
+[24] This conclusion is consistent with the SAF, which indicates that the Corporation reported taxable income arising from the farming business on its income tax return and that the Appellant reported property income arising from the leased land.
+[25] In particular, paragraphs 13 and 16 of the SAF and Tabs A and B to the SAF, indicate that the Corporation reported on its income tax returns the amounts received from Enbridge that relate to the carrying on of the farming business. These amounts relate to temporary worksites on the land, crop loss and disturbance damages. Further, the Respondent has not challenged in her Reply the inclusion of these amounts in the Corporation’s income.
+[26] In addition, as noted in paragraph 17 of the SAF, the Appellant only reported on his personal income tax return the amounts received in respect of the ownership of the land, including, specifically, the amount received as consideration for the granting of the easement.
+[27] On the basis of the limited facts provided to the Court, I have concluded that the Appellant did not receive the Signing Bonus in the course of earning income from a farming business, since the Corporation, not the Appellant, carried on the farming business.
+[28] The second assumption by the Respondent that I have difficulty with is her assumption that Enbridge paid the Signing Bonus as consideration for the Appellant’s early signing of the Settlement Agreement (see, for example, paragraphs 28 and 33 of the Respondent’s written submissions).
+[29] The facts before me are that Enbridge paid the Signing Bonus to the Appellant as consideration for the Appellant’s early signing of the agreement granting the easement. Section 5 of Schedule 3 to the Settlement Agreement states, in part, that the Signing Bonus is an incentive for early signing of the easement agreement. In addition, section 4.5 of the Settlement Agreement indicates that the Signing Bonus will not be paid unless the landowner (the Appellant) signs an easement agreement, a temporary workspace agreement and a consent by a specified date.
+[30] Having concluded that the Signing Bonus did not relate to a farming business carried on by the Appellant, I will now turn to the Respondent’s second argument, i.e., that the amount is to be included in income under paragraph 12(1)(x) of the Act.
+[31] The Appellant does not challenge the Respondent’s position that the Signing Bonus is an inducement. It is clear from section 5 of Schedule 3 to the Settlement Agreement that the Signing Bonus was paid as an incentive for the Appellant to enter into an easement agreement.
+[32] However, the Appellant argues that the Signing Bonus is excluded under paragraph 12(1)(x) as a result of the application of the exclusion contained in sub‑paragraph 12(1)(x)(viii). This exclusion applies, in part, where the inducement (the Signing Bonus) may reasonably be considered to be a payment made in respect of the acquisition by the payer (Enbridge) of an interest in the taxpayer’s (the Appellant’s) property.
+[33] The specific question the Court must answer is whether the Signing Bonus was a payment made in respect of the granting of the easement, i.e., the acquisition by Enbridge of an interest in the Appellant’s land.
+[34] The Supreme Court of Canada, in the following often-quoted passage from Nowegijick v. the Queen [2] states that:
+The words “in respect of” are, in my opinion words of the widest possible scope. They import such meanings as “in relation to”, “with reference to” or “in connection with”. The phrase “in respect of” is probably the widest of any expression intended to convey some connection between two related subject matters.
+[35] Enbridge paid the Signing Bonus as an incentive for the early signing of the easement agreement. It was paid in connection with the Appellant’s granting of the easement on his property. As a result, it was paid in respect of the acquisition by Enbridge of an interest in the Appellant’s property. Therefore, paragraph 12(1)(x) does not apply to the Signing Bonus.
+[36] Since Enbridge paid the Signing Bonus in respect of the disposition by the Appellant of a capital asset, namely an interest in his land, it was a capital receipt to the Appellant. Further, in my view, the Signing Bonus was part of the proceeds of disposition of the interest in land. Enbridge agreed to pay a higher sale price for the easement if the Appellant granted the easement before a specific date.
+[37] As a result, the Signing Bonus must be included for the purpose of determining the Appellant’s capital gain under subsection 39(1) from the disposition of the interest in his land.
+[38] With respect to the Appellant’s argument that the Signing Bonus was a non-taxable capital receipt, I note that his argument is based primarily on facts that are not before the Court. The only facts before the Court are those stated in the SAF. These facts make no reference to the Appellant’s efforts with respect to negotiating the Signing Bonus or to the Appellant’s personal business activities. The only income of the Appellant referenced in the SAF is his income from property, that is the rental income he received from the Corporation.
+[39] For the foregoing reasons, the appeal is allowed with costs to the Appellant. The reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant realized a taxable capital gain of $127,435 in respect of the Signing Bonus.
+Signed at Antigonish, Nova Scotia, this 18th day of June 2018.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2018 TCC 113
+COURT FILE NO.:
+2015-1874(IT)G
+STYLE OF CAUSE:
+Gary Ritchie v. Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+March 28, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+June 18, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Jeff Pniowsky
+Counsel for the Respondent:
+Brooke Sittler
+Bryn Frape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeff Pniowsky
+Firm:
+Thompson Dorfman Sweatman LLP
+Winnipeg, Manitoba
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The words “on behalf of the Appellant” were added by the parties at the start of the hearing.
+[2] 83 DTC 5041, at page 5045, [1983] 1 S.C.R. 29, at page 39.

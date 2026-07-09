@@ -1,0 +1,211 @@
+Title: Sprong v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/453847/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-261-453847-sprong-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-11-26
+
+# Sprong v. The Queen
+
+- Citation: 2019 TCC 261
+- Decision date: 2019-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4288, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sprong v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-11-26
+Neutral citation
+2019 TCC 261
+File numbers
+2018-3195(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3195(IT)I
+BETWEEN:
+JENNIFER SPRONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 9, 2019, at Montreal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Élise Robert Breton
+Counsel for the respondent:
+Sophie Larochelle
+JUDGMENT
+The appeal from the redeterminations of the Minister of National Revenue (the Minister) regarding the goods and services tax / harmonized sales tax credit (GST/HST credit) and the Canada Child Benefit (the CCB) is allowed, without costs, on the grounds that during respective periods from July 2014 to June 2015, July 2015 to January 2016 for children C. and M. and from September 2016 to June 2017 and from July 2017 for child M., the appellant was not “a shared-custody parent” because she had custody of the children for a much longer period than their father had. Consequently, the appellant is entitled to the GST/HST credit and CCB for the said periods, and the redeterminations are referred back to the Minister for reconsideration and redetermination in accordance with the attached reasons for judgment.
+Signed at Toronto, Ontario, this 26th day of November 2019.
+“Réal Favreau”
+Favreau J.
+Citation: 2019 TCC 261
+Date: 20191126
+Docket: 2018-3195(IT)I
+BETWEEN:
+JENNIFER SPRONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the notices of redetermination that the Minister of National Revenue (the Minister) issued to the appellant in respect of the goods and services tax / harmonized sales tax credit (GST/HST credit) for the 2013, 2014, 2015 and 2016 taxation years and in respect of the Canada Child Benefit (CCB) (formerly the Canada Child Tax Benefit) for the 2013, 2014, 2015 and 2016 base taxation years.
+[2] The appellant’s Amended Notice of Appeal concerns the following periods during which the Minister considered that the appellant had shared custody of children C. and M.:
+Eligibility
+Taxation Years and Base Taxation Years
+Periods
+Child C.
+Periods
+Child M.
+2013
+July 2014 to June 2015
+Shared custody
+July 2014 to June 2015
+Shared custody
+2014
+July 2015 to January 2016
+Shared custody
+July 2015 to June 2016
+Shared custody
+2015
+Not applicable
+N/A
+September 2016 to June 2017
+Shared custody
+2016
+Not applicable
+N/A
+July 2017
+Shared custody
+[3] At the opening of the hearing, the parties informed the Court that the 2016 taxation year and base taxation year were no longer at issue because the respondent agreed to allow the appellant’s appeal. The parties also specified that, for the 2014 taxation year and base taxation year, only the period from July 2015 to January 2016 was at issue in the case of child M., the same period applicable to child C.
+[4] To set the benefits to which the appellant was entitled for the periods mentioned in paragraph 2 above, the Minister assumed the following facts to be true:
+a) the appellant and Andrew Nickle (the parties) are the parents of children C. and M., born in 2003 and 2006, respectively;
+b) the parties have lived separate and apart from one another since at least January 1, 2014;
+c) each party lived with children C. and M., as follows:
+Appellant:
+Mondays, Tuesdays and Fridays;
+Saturdays and Sundays, every other weekend;
+Andrew Nickel (sic):
+i. Wednesdays and Thursdays;
+ii) Saturdays and Sundays, every other weekend;
+d) depending on their custody days, each party was responsible for monitoring daily activities, obtaining medical care and meeting with the school authorities of children C. and M.
+[5] The issue is whether the Minister correctly determined that the appellant was an eligible individual with shared custody of children C. and M. with respect to the GST/HST credit and the CCB for the following periods:
+Taxation Years and Base Taxation Years
+Periods
+Child C.
+Child M.
+2013
+July 2014 to June 2015
+X
+X
+2014
+July 2015 to January 2016
+X
+X
+2015
+September 2016 to June 2017
+[BLANK]
+X
+Court decisions
+[6] Upon the separation of the Sprong‑Nickle couple in September 2012, Ms. Sprong had sole legal custody of her two minor daughters, C. and M. A consent to judgment signed by the parties on April 25, 2013, confirmed that Ms. Sprong had sole legal custody of her two daughters and that Mr. Nickle had the following visiting rights:
+- every two weekends: from Saturday at noon to Sunday at 3:00 p.m., and every other weekend, from Sunday at 3:00 p.m. to Monday at 8:00 a.m.;
+- every week from Wednesday 3 p.m. to Friday 8 a.m.
+[7] Pursuant to a judgment rendered on August 26, 2016, Benoît Emery J. of the Superior Court of Québec gave Mr. Nickle sole custody of minor child C. effective January 2016 and maintained the status quo for child M., who remained in the sole custody of Ms. Sprong.
+[8] On December 6, 2016, an interim consent solely regarding the issue of the custody of the Sprong‑Nickle couple’s children, recognized in its preamble (which is an integral part of the consent of the parties) that child C. was in the sole custody of Ms. Sprong since October 2016 and that Ms. Sprong must continue to have legal custody of child M., as ordered by the interim judgment dated August 26, 2016.
+Positions of the parties
+[9] According to the appellant, there is no legal shared custody of the children. The court decisions are clear and binding in this regard. The father only had access rights to the children.
+[10] The appellant also argues that she primarily fulfilled the responsibility for the care and upbringing of children C. and M. during the periods at issue and that the children did not reside with their father on an equal or near equal basis.
+[11] According to the appellant, family law courts calculate the time parents spend with their children in terms of the number of hours, not in terms of the number of nights the children spend with each parent. Based on the number of hours, the children would have spent 61% of their time with the appellant and only 39% with their father. This would not satisfy the requirement that the parents must reside with the children on an equal or near equal basis.
+[12] Based on the testimony of her long‑time friends, Diane Storozuk and Alexander Heissenberger, the appellant demonstrated that the custody periods stipulated in the agreements with Mr. Nickle were not always honoured and that the appellant had custody of the children longer than stipulated in the agreements.
+[13] To demonstrate that she primarily fulfilled the responsibility for the care and upbringing of her children, the appellant entered into evidence 25 pages of receipts and documents from the schools attended by the children, the family doctor and the family’s dental clinic, all addressed to the appellant and showing the appellant as the person to be contacted in an emergency. The appellant also produced documentary evidence showing that she alone paid for child care expenses.
+[14] The respondent argues that the Minister correctly determined for the periods at issue that the appellant was an eligible individual who exercised shared custody of children C. and M. because she resided with them and fulfilled the responsibility for their care and upbringing on an equal or near equal basis with Mr. Nickle.
+[15] The respondent argues that the appellant has the burden of proving that Mr. Nickle did not have shared custody of the two children and that he did not fulfil his obligations.
+[16] According to the respondent, the evidence obtained from the testimony provided by Mr. Nickle, Shona Whalen (ex-spouse from 2012 to 2015), Caroline Canning (administrative technician at Lakeshore General Hospital) and Mélanie Germain (current spouse since May 2016) indicated that Mr. Nickle had shared custody of both children and was a devoted father who took care of their well-being by monitoring their daily activities, obtaining medical care and meeting with school authorities.
+[17] According to the respondent, the children resided with their parents on a near equal basis, six nights out of 14 with their father and eight nights out of 14 with their mother.
+Discussion
+[18] The rules governing the GST/HST credit are set out in section 122.5 of the Income Tax Act (the Act), and the rules governing the CCB are set out in section 122.6 of the Act. The two plans are similar except for the period over which the credit or benefit, as the case may be, is computed. The purpose of both plans is to ensure that each parent with shared custody of a qualified dependant can claim part of the tax credit and part of the benefit.
+[19] In the case under consideration, it is accepted that children C. and M. are qualified dependents for the purposes of both plans.
+[20] For the purposes of the GST/HST credit, the appellant and her ex-spouse are both an “eligible individual” entitled to the credit, but if one of them is a “shared-custody parent” within the meaning of section 122.6, the amount of the credit is split in two.
+[21] For the purposes of the CCB, the term “eligible individual” is defined in section 122.6 as a person who (a) resides with the qualified dependant, (b) is the father or mother of the qualified dependant (i) who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant, or (ii) is a shared-custody parent in respect of the qualified dependant.
+[22] For the purposes of the definition of the term “eligible individual”, the following three paragraphs of the definition must be considered:
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[23] Paragraph 122.6(f) involves a presumption in favour of the mother of the dependent, but paragraph (g) clarifies that this presumption does not apply in the circumstances provided for in Regulation 6301(1), which reads as follows:
+Non-application of Presumption
+6301(1) For the purposes of paragraph (g) of the definition eligible individual in section 122.6 of the Act, the presumption referred to in paragraph (f) of that definition does not apply in the circumstances where
+(a) the female parent of the qualified dependant declares in writing to the Minister that the male parent, with whom she resides, is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of each of the qualified dependants who reside with both parents;
+(b) the female parent is a qualified dependant of an eligible individual and each of them files a notice with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant;
+(c) there is more than one female parent of the qualified dependant who resides with the qualified dependant and each female parent files a notice with the Minister under subsection 122.62(1) of the Act in respect of the qualified dependant; or
+(d) more than one notice is filed with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant who resides with each of the persons filing the notices if such persons live at different locations.
+[24] Among the circumstances described in Regulation 6301, the Regulation described in paragraph (d) applies in this case, given the benefit claim submitted by Mr. Nickle. Therefore, the presumption in favour of the mother does not apply in this case.
+[25] The definition of “shared-custody parent” is at the heart of this dispute. It reads as follows:
+shared-custody parent in respect of a qualified dependant at a particular time means, where the presumption referred to in paragraph (f) of the definition eligible individual does not apply in respect of the qualified dependant, an individual who is one of the two parents of the qualified dependant who:
+(a) are not at that time cohabitating spouses or common-law partners of each other,
+(b) reside with the qualified dependant on an equal or near equal basis, and
+(c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant, as determined in consideration of prescribed factors. (parent ayant la garde partagée)
+[26] The prescribed factors used to identify the person who primarily fulfils the responsibility for the care and upbringing of a qualified dependent are described in Regulation 6302:
+6302 For the purposes of paragraph (h) of the definition eligible individual in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[27] The onus is on the appellant to establish that she and her ex-spouse were not shared-custody parents and that she is entitled to the GST/HST credit and the CCB in respect of both children C. and M. for the periods at issue, because she is the only parent who primarily fulfils the responsibility for the care and upbringing of both qualified dependants and who is not a shared-custody parent in respect of these qualified dependants.
+[28] What sets this appeal apart is that the mother who has sole legal custody of children C. and M. must nevertheless establish that she primarily fulfils the responsibility for the care and upbringing of the children and is not a shared-custody parent in respect of these children. This is attributable to the fact that the definition of “shared-custody parent” states that a shared-custody parent must reside with the qualified dependants on an equal or near equal basis, which is a strictly factual issue.
+[29] The testimony of both parents showed that they were dedicated and responsible parents who were concerned for the well-being of their children. However, it is also evident that the relationship between the parents is still very tense.
+[30] I found the appellant provided more credible testimony than her ex-spouse did and that she had a clearer recollection of the events. The witnesses called by Mr. Nickle appeared to me to be too categorical and affirmative and without nuance. Also, it seemed to me that they were following a pre‑established party line.
+[31] The appellant produced substantial documentary evidence showing that she primarily fulfilled the responsibility for the care and upbringing of the children, whereas Mr. Nickle did not provide any documentary evidence in this regard.
+[32] The application of the court judgments rendered following the separation of the Sprong-Nickle couple with respect to the periods during which the parents had custody of children C. and M. is an arithmetic reflection of the finding that the children were in the appellant’s monthly custody 61% of the time (calculated according to the number of hours of custody) and 57% of the time (calculated according to the number of nights of custody). For Mr. Nickle, the monthly custody period was therefore 39% in terms of hours of custody and 43% in terms of nights of custody.
+[33] Even if the percentage of custody most favourable to the father, 43%, were used, this percentage would not be high enough for him to be considered a parent who resides with his two children on a near equal basis with the appellant.
+[34] The recent Federal Court of Appeal decisions in Lavrinenko v. Canada, 2019 FCA 51 and Morrissey v. Canada, 2019 FCA 56 clearly established the principle that a percentage of residence time between 41% and 44% should be rounded downward to 40% and that a percentage of 40% does not satisfy the requirement that the parents must reside with the child on a near equal basis.
+[35] For all these reasons, the appeal is allowed without costs on the grounds that during the respective periods from July 2014 to June 2015, July 2015 to January 2016 for children C. and M. and from September 2016 to June 2017 and from July 2017 for child M., the appellant was not “a shared-custody parent” because she had custody of the children for a much longer period than their father had. Consequently, the appellant is entitled to the GST/HST credit and the CCB for the said periods, and the redeterminations are referred back to the Minister for reconsideration and redetermination.
+Signed at Toronto, Ontario, this 26th day of November 2019.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2019 TCC 261
+DOCKET:
+2018-3195(IT)I
+STYLE OF CAUSE:
+JENNIFER SPRONG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+September 9, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 26, 2019
+APPEARANCES:
+Counsel for the appellant:
+Élise Robert Breton
+Counsel for the respondent:
+Sophie Larochelle
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Élise Robert Breton
+Firm:
+Bureau d’aide juridique Sud-Ouest
+Montreal, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

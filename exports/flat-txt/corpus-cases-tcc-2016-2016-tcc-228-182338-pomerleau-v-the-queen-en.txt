@@ -1,0 +1,559 @@
+Title: Pomerleau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/182338/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-228-182338-pomerleau-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-11-10
+
+# Pomerleau v. The Queen
+
+- Citation: 2016 TCC 228
+- Decision date: 2016-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2969, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pomerleau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-10
+Neutral citation
+2016 TCC 228
+File numbers
+2014-517(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-517(IT)G
+BETWEEN:
+PIERRE POMERLEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 6, 2016, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Angelo Nikolakakis
+Louis Tassé
+Counsel for the respondent:
+Natalie Goulard
+JUDGMENT
+The appeal from the reassessment made by the Minister of National Revenue under the Income Tax Act, dated May 19, 2011, with respect to the appellant’s 2005 taxation year is dismissed with costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 10th day of November 2016.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 31st day of January 2018.
+François Brunet, Revisor
+Citation: 2016 TCC 228
+Date: 20161110
+Docket: 2014-517(IT)G
+BETWEEN:
+PIERRE POMERLEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.)., as amended (the “Act”), dated May 19, 2011, regarding the appellant’s 2005 taxation year.
+[2] Pursuant to this reassessment under subsection 245(5) of the Act, the Minister requalified the tax consequences arising from Gestion Pierre Pomerleau Inc.’s redemption of the 1,993,812 Class C shares held by the appellant. Consequently, the appellant is deemed to have received a $994,628 dividend ($1,243,285 taxable dividend) under section 245 of the Act, known as the General Anti Avoidance Rule (“GAAR”). The balance of this reassessment is $229,114.75, i.e. $162,643.10 in taxes payable and $66,471.65 $ in interest on arrears.
+[3] At the opening of the hearing, counsel for the appellant admitted that the redemption of the 1,993,812 Class C shares by Gestion Pierre Pomerleau Inc. was part of a series of avoidance transactions designed to provide the appellant with a tax benefit, i.e. tax-free distribution of said company’s $994,628 surplus through capital gains deductions claimed by the appellant and his mother and sister.
+[4] The sole issue is therefore whether this strategy constituted an abuse meant to defeat the purpose of section 84.1 of the Act, which is to avoid tax-free corporate surplus stripping through capital gains deductions or the reduction of share values on valuation day, December 31, 1971.
+I. The facts
+[5] The parties filed a partial agreed statement of facts, which should be reproduced in full without the appendices:
+1. Hervé Pomerleau Inc. is a Quebec construction company. Created in 1966 by Hervé Pomerleau, the company name was changed to Pomerleau Inc. on January 1, 2006. During the period in issue in this case, Hervé Pomerleau Inc. shares were held by the Groupe Pomerleau Inc. management company.
+2. On December 14, 2004, Groupe Pomerleau Inc.’s capital stock[1] was held by Hervé Pomerleau, his spouse (Laurette Pomerleau), their children (the appellant, Francis, Gaby and Élaine Pomerleau) and the appellant’s and Francis Pomerleau’s management companies (P Pom Inc. and F Pom Inc.):
+Shareholders
+Classes
+Number
+PUC
+ACB
+FMV
+Laurette
+F
+390,256
+$680
+$500,386
+$390,256
+Élaine
+F
+4,403,936
+$7680
+$407,600
+$4,403,936
+Gaby
+F
+4,403,936
+$7680
+$407,600
+$4,403,936
+Appellant
+F
+4,403,936
+$7680
+$407,600
+$4,403,936
+Francis
+F
+4,403,936
+$7680
+$407,600
+$4,403,936
+P Pom Inc.
+A
+100
+$0
+$0
+$12,050,000
+F Pom Inc.
+A
+100
+$0
+$0
+$12,050,000
+Hervé
+G
+895,592
+$67,723
+$895,592
+$895,592
+Hervé
+C
+100
+$100
+$100
+$100
+3. The adjusted cost base (ACB) of the Class F shares on December 14, 2004, for each shareholder was an amount for which a deduction had been claimed under section 110.6 of the Income Tax Act. On November 21, 1989, Hervé, Laurette, Francis, Gaby, Élaine and the appellant crystallized their capital gains deductions for qualified small business corporation shares under subsection 110.6(2.1) of the Act, by exchanging the Class A shares that they held in Groupe Pomerleau Inc. for Class F shares, in accordance with subsection 85(1) of the Act.
+4. P Pom Inc., the appellant’s management company, was created on October 19, 1999, under Part IA of the Quebec Companies Act. Its capital stock was then composed of six (6) classes of shares: Class A participating shares, Class B controlling shares, Class C and D rollover shares and Class E and F financing shares.[2]
+The series of transactions
+5. On November 26, 2004, Gestion Pierre Pomerleau Inc. was created under Part IA of the Quebec Companies Act.[3]
+6. On November 26, 2004, P Pom Inc.’s Articles of incorporation were amended to authorize the creation of a new class of shares (Class G shares ) and to split the one hundred (100) Class A shares issued into ten million (10,000,000) Class A shares.[4]
+7. On December 14, 2004, P Pom Inc.’s capital stock was held as follows:
+Shareholder
+Class
+Number
+PUC
+ACB
+FMV
+Pierre
+A
+10,000,000
+$100
+$100
+$17,397,000
+Pierre
+C
+100
+$100
+$100
+$100
+8. On December 15, 2004, the appellant subscribed to 100 Class B shares of P Pom Inc. for a consideration of $100.
+9. On December 15, 2004, Laurette gave the appellant 195,128 Groupe Pomerleau Inc. Class F shares. Paragraph 69(1)(c) of the Act applied to the transaction, and the appellant was deemed to have acquired the shares at fair market value of $195,128.
+10. On December 15, 2004, Groupe Pomerleau Inc. redeemed the 100 Class C shares held by Hervé for a consideration of $100, and P Pom Inc. and F Pom Inc. each subscribed to 50 Groupe Pomerleau Inc. Class C capital shares for a consideration of $50.
+11. On January 3, 2005, the appellant and Gaby transferred all the Class F shares they held in Groupe Pomerleau Inc. to P Pom Inc. as consideration for P Pom Inc. Class A and G shares. The transfers were made under subsection 85(1) of the Act. The terms and conditions of the Groupe Pomerleau Inc. shares that were disposed of and the shares of P Pom Inc. received as consideration were as follows:
+Disposed shares of Groupe Pomerleau Inc.
+[BLANK]
+Gaby
+Pierre
+Class
+F
+F
+Number
+4,403,936
+4,599,064
+PUC
+$7680
+$8020
+ACB
+$600
+$602,728
+FMV
+$4,403,936
+$4,599,064
+P Pom Inc. shares received as consideration
+[BLANK]
+Gaby
+Pierre
+Class
+A
+G
+A
+G
+Number
+2,297,141
+407,600
+2,297,141
+602,728
+PUC
+$
+$7680
+$
+$8020
+ACB
+$
+$407,600
+$
+$602,728
+FMV
+$3,996,336
+$407,600
+$3,996,336
+$602,728
+12. On January 3, 2005, Gaby gave the appellant 574,285 Class A shares and 407,600 Class G shares of P Pom Inc. Paragraphs 69(1)(b) and 69(1)(c) of the Act applied to the transaction. Gaby realized a $999,084 capital gain on the Class A shares. No gain was realized on the Class G shares. The appellant is deemed to have acquired the shares at their fair market value, i.e., $999,084 for the Class A shares and $407,600 for the Class G shares. Following these transactions, the appellant held the following shares of P Pom Inc. capital stock:
+Shareholder
+Class
+Number
+PUC
+ACB
+FMV
+Pierre
+A
+12,871,426
+$100
+$999,184
+$22,392,420
+Pierre
+C
+100
+$100
+$100
+$100
+Pierre
+B
+100
+$100
+$100
+$100
+Pierre
+G
+1,010,328
+$15,700
+$1,010,328
+$1,010,328
+13. On January 3, 2005, the appellant requested the redemption of the 1,010,328 Class G shares that he held in P Pom Inc. He received a sum of $1,010,328, and the redemption triggered a $994,628 deemed dividend under subsection 84(3) of the Act, and a $994,628 capital loss. The capital loss was deemed to be nil under paragraph 40(3.6)(a) of the Act, and was added under paragraphs 40(3.6)(b) and 53(1)(f.2) of the Act, to the ACB of the 12,871,525 P Pom Inc. Class A shares held by the appellant.
+14. On January 3, 2005, the appellant transferred all the Class A shares he held in P Pom Inc. to Gestion Pierre Pomerleau Inc., as consideration for Gestion Pierre Pomerleau Inc. Class A and C shares. The transfers were made under subsection 85(1) of the Act, and the agreed amount was set at $1,993,812. The conditions for section 84.1 of the Act to apply were satisfied. The paid-up capital of the Class C shares of Gestion Pierre Pomerleau Inc. was set at $1,993,812, i.e., the amount of the ACB of the P Pom Inc. Class A shares. The terms and conditions of the shares were as follows:
+Exchanged shares of P Pom Inc.
+Class
+Number
+PUC
+ACB
+FMV
+A
+12,871,426
+$100
+$1,993,812
+$22,392,420
+Shares of Gestion Pierre Pomerleau Inc. received as consideration
+Classes
+Number
+PUC
+ACB
+FMV
+A
+10,000
+$100
+$100
+$20,398,608
+C
+1,993,812
+$1,993,812
+$1,993,812
+$1,993,812
+15. On January 3, 2005, Gestion Pierre Pomerleau Inc. redeemed the 1,993,812 Class C shares of its capital stock that were held by the appellant for the sum of $1,993,812. This transaction did not result in any tax consequences for the appellant, given that the PUC and ACB of the shares were equal to the amount received.
+Tax benefit
+16. The transactions at issue gave rise to a tax benefit within the meaning of subsections 245(1) and (2) of the Act.
+17. But for the series of transactions, the $994,628 would have been taxable as a dividend.
+Avoidance transactions
+18. The following transactions constitute avoidance transactions within the meaning of subsections 245(2) and 245(3) of the Act:
+(i) The incorporation of Gestion Pierre Pomerleau Inc.;
+(ii) The amendment of P Pom Inc.’s Articles of incorporation to authorize the creation of a new class of shares (Class G shares) and to split the one hundred (100) Class A shares issued into ten million (10,000,000) Class A shares;
+(iii) The transfer by the appellant and Gaby of all the Class F shares they held in Groupe Pomerleau Inc. to P Pom Inc. as consideration for P Pom Inc. Class A and G shares;
+(iv) The redemption of the 1,010,328 Class G shares that the appellant held in P Pom Inc.;
+(v) The appellant’s transfer of all the shares that he held in P Pom Inc. to Gestion Pierre Pomerleau Inc., as consideration for Gestion Pierre Pomerleau Inc. Class A and C shares.
+Assessment
+19. On May 19, 2011, the Minister of National Revenue issued the appellant a notice of reassessment for the 2005 taxation year, pursuant to which, under subsection 245(5) of the Act, he requalified the tax consequences arising from Gestion Pierre Pomerleau Inc.’s redemption of the 1,993,812 Class C shares of its capital stock held by the appellant. The appellant was deemed to have received a $994,628 dividend ($1,243,285 taxable dividend) under section 245 of the Act.
+20. On August 15, 2011, the appellant filed a notice of objection to the assessment.
+21. The Minister ratified the assessment on November 4, 2013.
+[6] The diagram of all the transactions completed by the appellant in the context of the reorganization is attached hereto and is part of this judgment.
+[7] The transactions described above were planned in 2004 by a firm of chartered accountants, Ernst & Young. The documents explaining the various tax planning ideas under consideration, including the three scenarios allowing the appellant and Francis, his brother, to collect sums of money from their respective management companies while reducing the tax impacts, were offered in evidence. The Minister also assessed Francis Pomerleau, who agreed to be bound by the decision rendered in this appeal.
+[8] Pierre Pomerleau testified at the hearing. He provided an overview of the changes in the construction market in Quebec between 1983 and 2015 and highlighted the main steps taken to ensure the company’s sustainability. He referred to the creation of the Fiducie Laurette Pomerleau in 1983 to hold shopping malls whose beneficiaries were the four children (Pierre, Francis, Elaine and Gaby) of the couple, Hervé and Laurette Pomerleau. He also mentioned the estate freeze implemented in 1989 when Groupe Pomerleau was worth $18.9 million. He also said that the real estate market went into a severe recession from 1990 to 1995 when the company was constructing the building located at 1000 De la Gauchetière St. West in Montreal, the Montreal Museum of Fine Arts and the LG-1 hydro-electric project in partnership with Construction Bouygues, a French company. To survive, Groupe Pomerleau restructured its activities and disposed of its hotels and other assets and even had to shut down a company.
+[9] From 1994 to 1997, the Pomerleau family participated in seminars on the measures to be taken to ensure the company’s sustainability. A decision was then made to include outside directors on the board of directors and to form a family council aided by world-class experts and advisors. The result of this long reflection was to cede to Elaine and Gaby the family trust, which, at the time, held a building inventory with a very good value that generated significant income on a constant and regular basis, and to cede to Pierre and Francis, who were both engineers, the construction company, which needed to be rebuilt and was therefore riskier.
+[10] In 1997, the appellant, then of age 34, was named president of the construction company. In 1998, a new business plan promoting construction project stewardship, design and funding was implemented. In 1999, some members of the management staff were appointed vice-presidents and expected to benefit from a stock ownership plan. It was also decided to put an end to international activities then directed by Francis Pomerleau.
+[11] In 2002, the construction company was profitable and in good financial health. Its turnover fluctuated between $350 and $400 million. Managerial staff participated in a phantom stock option plan, which pegged their compensation to company performance.
+[12] In 2004, the family trust had reached the end of its useful life after 21 years, which triggered the distribution of securities. In order to implement the decisions made in 1995, fiscal restructuring was introduced. It is in this context that Pierre’s and Francis’s management companies were created to avoid double taxation on the two sisters’ gifts to the two brothers and to allow the distribution of funds to the two brothers.
+[13] The appellant described this tax plan as a total success because the two sisters and two brothers were satisfied with the results, and the construction company continued to grow. By 2015, its turnover exceeded $1.5 billion, and it made a $50-million profit.
+[14] The appellant explained that between 1997 and 2005 few, if any, dividends were paid to shareholders and that the purpose of the $1-million dividend payment was to enable him to build a cottage.
+[15] According to the appellant, the transactions completed as per the tax plan pertained on part to a context of the transfer of the family business to the founder’s four children over a period of about 10 years.
+II. Relevant statutory provisions
+[16] The relevant statutory provisions of the Act enabling the Court to dispose of this appeal are subsections 40(3.6), 84.1(1) and (2) and 245(1) to (5) and paragraph 53(1)(f.2). The version of these provisions applicable in 2005 are presented below:
+40(3.6) Loss on shares
+Where at any time a taxpayer disposes, to a corporation that is affiliated with the taxpayer immediately after the disposition, of a share of a class of the capital stock of the corporation (other than a share that is a distress preferred share as defined in subsection 80(1)),
+(a) the taxpayer’s loss, if any, from the disposition is deemed to be nil; and
+b) in computing the adjusted cost base to the taxpayer after that time of a share of a class of the capital stock of the corporation owned by the taxpayer immediately after the disposition, there shall be added the proportion of the amount of the taxpayer’s loss from the disposition (determined without reference to paragraph 40(2)(g) and this subsection) that
+(i) the fair market value, immediately after the disposition, of the share is of
+(ii) the fair market value, immediately after the disposition, of all shares of the capital stock of the corporation owned by the taxpayer.
+84.1(1) Where after May 22, 1985 a taxpayer resident in Canada (other than a corporation) disposes of shares that are capital property of the taxpayer (in this section referred to as the “subject shares”) of any class of the capital stock of a corporation resident in Canada (in this section referred to as the “subject corporation”) to another corporation (in this section referred to as the “purchaser corporation”) with which the taxpayer does not deal at arm’s length and, immediately after the disposition, the subject corporation would be connected (within the meaning assigned by subsection 186(4) if the references therein to “payer corporation” and to “particular corporation” were read as “subject corporation” and “purchaser corporation” respectively) with the purchaser corporation,
+(a) where shares (in this section referred to as the “new shares”) of the purchaser corporation have been issued as consideration for the subject shares, in computing the paid-up capital, at any particular time after the issue of the new shares, in respect of any particular class of shares of the capital stock of the purchaser corporation, there shall be deducted an amount determined by the formula
+(A - B) × C/A
+where
+A is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of all shares of the capital stock of the purchaser corporation as a result of the issue of the new shares,
+B is the amount, if any, by which the greater of
+(i) the paid-up capital, immediately before the disposition, in respect of the subject shares, and
+(ii) subject to paragraphs 84.1(2)(a) and 84.1(2)(a.1)), the adjusted cost base to the taxpayer, immediately before the disposition, of the subject shares,
+exceeds the fair market value, immediately after the disposition, of any consideration (other than the new shares) received by the taxpayer from the purchaser corporation for the subject shares, and
+C is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of the particular class of shares as a result of the issue of the new shares; and
+(b) for the purposes of this Act, a dividend shall be deemed to be paid to the taxpayer by the purchaser corporation and received by the taxpayer from the purchaser corporation at the time of the disposition in an amount determined by the formula
+(A + D) - (E + F)
+where
+A is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of all shares of the capital stock of the purchaser corporation as a result of the issue of the new shares,
+D is the fair market value, immediately after the disposition, of any consideration (other than the new shares) received by the taxpayer from the purchaser corporation for the subject shares,
+E is the greater of
+(i) the paid-up capital, immediately before the disposition, in respect of the subject shares, and
+(ii) subject to paragraphs 84.1(2)(a) and 84.1(2)(a.1), the adjusted cost base to the taxpayer, immediately before the disposition, of the subject shares, and
+F is the total of all amounts each of which is an amount required to be deducted by the purchaser corporation under paragraph 84.1(1)(a) in computing the paid-up capital in respect of any class of shares of its capital stock by virtue of the acquisition of the subject shares.
+84.1(2) For the purposes of this section,
+(a) where a share disposed of by a taxpayer was acquired by the taxpayer before 1972, the adjusted cost base to the taxpayer of the share at any time shall be deemed to be the total of
+(i) the amount that would be its adjusted cost base to the taxpayer if the Income Tax Application Rules were read without reference to subsections 26(3) and (7) of that Act, and
+(ii) the total of all amounts each of which is an amount received by the taxpayer after 1971 and before that time as a dividend on the share and in respect of which the corporation that paid the dividend has made an election under subsection 83(1);
+(a.1) where a share disposed of by a taxpayer was acquired by the taxpayer after 1971 from a person with whom the taxpayer was not dealing at arm’s length, was a share substituted for such a share or was a share substituted for a share owned by the taxpayer at the end of 1971, the adjusted cost base to the taxpayer of the share at any time shall be deemed to be the amount, if any, by which its adjusted cost base to the taxpayer, otherwise determined, exceeds the total of
+(i) where the share or a share for which the share was substituted was owned at the end of 1971 by the taxpayer or a person with whom the taxpayer did not deal at arm’s length, the amount in respect of that share equal to the amount, if any, by which
+(A) the fair market value of the share or the share for which it was substituted, as the case may be, on valuation day — (within the meaning of section 24 of the Income Tax Application Rules)
+exceeds the total of
+(B) the actual cost (within the meaning assigned by subsection 26(13) of that Act) of the share or the share for which it was substituted, as the case may be, on January 1, 1972, to the taxpayer or the person with whom the taxpayer did not deal at arm’s length, and
+(C) the total of all amounts each of which is an amount received by the taxpayer or the person with whom the taxpayer did not deal at arm’s length after 1971 and before that time as a dividend on the share or the share for which it was substituted and in respect of which the corporation that paid the dividend has made an election under subsection 83(1), and
+(ii) the total of all amounts each of which is an amount determined after 1984 under subparagraph 40(1)(a)(i) in respect of a previous disposition of the share or a share for which the share was substituted (or such lesser amount as is established by the taxpayer to be the amount in respect of which a deduction undersection 110.6 was claimed) by the taxpayer or an individual with whom the taxpayer did not deal at arm’s length;
+[…]
+(b) in respect of any disposition described in subsection 84.1(1) by a taxpayer of shares of the capital stock of a subject corporation to a purchaser corporation, the taxpayer shall, for greater certainty, be deemed not to deal at arm’s length with the purchaser corporation if the taxpayer
+(i) was, immediately before the disposition, one of a group of fewer than 6 persons that controlled the subject corporation, and
+(ii) was, immediately after the disposition, one of a group of fewer than 6 persons that controlled the purchaser corporation, each member of which was a member of the group
+[…]
+(d) a trust and a beneficiary of the trust or a person related to a beneficiary of the trust shall be deemed not to deal with each other at arm’s length.
+[…]
+245(1) In this section,
+tax consequences (attribut fiscal)
+tax consequences to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+tax benefit (avantage fiscal)
+tax benefit means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty;
+transaction (opération)
+includes an arrangement or event.
+245(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+245(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+245(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+245(5) Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a) any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) any such deduction, exemption or exclusion, any income, loss or other amount or part thereof may be allocated to any person,
+(c) the nature of any payment or other amount may be recharacterized, and
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored, in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+53(1) In computing the adjusted cost base to a taxpayer of property at any time, there shall be added to the cost to the taxpayer of the property such of the following amounts in respect of the property as are applicable:
+[…]
+f.2) where the property is a share, any amount required by paragraph 40(3.6)(b) (or, where the property was acquired by the taxpayer before 1996, by paragraph 85(4)(b) as it read in its application to property disposed of before April 26, 1995) to be added in computing the adjusted cost base to the taxpayer of the share;
+III. Parties’ positions
+A. Position of the appellant
+[17] According to counsel for the appellant, the plan done by Ernst & Young is both legitimate and non-abusive because it is part of the transfer of the family construction business to the founder’s two sons.
+[18] The Crown has the burden of establishing abuse for the purposes of the GAAR.
+[19] Counsel for the appellant submitted to the Court an advance income tax ruling dated January 1, 2006, published by the Canada Revenue Agency (the “CRA”) whose facts are very similar to the present case and which addressed the use of the capital gains exemption in the context of a transfer of a family business to the owner’s two children. The GAAR was not subsequently applied in relation to the proposed transactions. The CRA’s administrative position was in effect for several years but was officially abandoned on November 24, 2015, following Descarries v. The Queen, 2014 TCC 75, a case decided by Justice Hogan of this Court.
+[20] The rules set out in section 84.1 are very technical and are the result of a deliberate policy choice by Parliament. The redemption of shares is specifically provided for by these rules.
+[21] One of the consequences of the redemption of the 1,010,328 Class G shares of P Pom Inc. was the transfer of a $994,628 capital loss to the adjusted cost base of the Class A shares that the appellant held in P Pom Inc. pursuant to subsection 40(3.6) of the Act. The appellant thus submits to have transformed into a so-called “hard” adjusted cost base not subject to the adjusted cost base reduction mechanisms set out in subsection 84.1(2) of the Act, that which was formerly a “soft” adjusted cost base resulting entirely from the amount of the capital gains deduction claimed by the appellant, his mother and sister, upon crystallization of the Class F shares each of them held in Groupe Pomerleau Inc., which were substituted by the Class G shares of P Pom Inc.
+[22] Counsel for the appellant do not see that this is clearly abusive. The capital gains exemption is not in itself abusive because it is specifically provided for in the Act. The commercial and familial background facts must be taken into consideration to determine whether there has been an abuse of a statutory provision. The CRA’s administrative position, as stated in the advance income tax ruling cited above, demonstrated the absence of clear abuse in the type of transactions performed by the appellant.
+B. Position of the respondent
+[23] The appellant performed a series of transactions in order to obtain $994,628 in the form of a tax-free return of capital from Groupe Pomerleau Inc.’s taxable surpluses. The transactions at issue produced a result that section 84.1 of the Act is designed to prevent: the tax-free stripping of a corporation’s surplus through the use of the capital gains exemption.
+[24] Because section 84.1 of the Act was misused for purposes of abusive tax avoidance, the Minister was justified in applying section 245 of the Act in order for the appellant to be deemed to have received a $994,628 dividend ($1,243,285 taxable dividend) in 2005. The assessment was designed to eliminate the tax benefit obtained by the appellant.
+[25] According to the respondent, the tax benefit resulted from the series of avoidance transactions that the appellant allowed (see paragraph 18 of the partial agreed statement of facts) and the following transactions:
+(i) The appellant’s subscription to 100 Class B shares of P Pom Inc.;
+(ii) Laurette’s (the appellant’s mother) gift of 195,128 Class F shares of Groupe Pomerleau Inc. to the appellant;
+(iii) Gaby’s (the appellant’s sister) gift of 574,285 Class A shares and 407,600 Class G shares of P Pom Inc. to the appellant;
+(iv) Gestion Pierre Pomerleau Inc.’s redemption of the 1,993,812 Class C shares of its capital stock.
+[26] According to the respondent, the conclusion that a series of transactions was in truth performed primarily for a non-tax purpose, such as the intergenerational transfer of a business, does not prevent the Minister from finding that the main purpose of one or more transactions in the series was to obtain a tax benefit, which was not considered a bona fide purpose.
+[27] If one of the transactions in the series was not performed primarily for a bona fide non-tax purpose, it is an avoidance transaction and the GAAR then allows the removal of the tax benefit resulting from the series of transactions.
+[28] According to the respondent, an avoidance transaction is deemed abusive in the following circumstances:
+(i) Where it achieves a result the statutory provision was intended to prevent;
+(ii) Where the transaction defeats the underlying rationale of the provision; or
+(iii) Where the transaction circumvents the provision in a manner that frustrates or defeats its object, spirit or purpose.
+[29] The CRA has never approved tax-free corporate surplus stripping. The facts of the advance income tax ruling to which the appellant referred are different from those in this appeal.
+IV. Analysis
+Applicability of the General Anti Avoidance Rule
+[30] The landmark case with respect to the relevant test criteria in applying the GAAR was decided by the Supreme Court of Canada: Canada Trustco Mortgage Co. v. Canada, [2005] 2 SCR 601. That case decided that three conditions must be met for the GAAR to apply, in which case subsection 245(2) of the Act allows the Minister to deny the tax benefit arising from the series of avoidance transactions at issue and to determine what the reasonable tax consequences should be.
+[31] In paragraphs 65 and 66 of Canada Trustco Mortgage Co. v. Canada, supra, the Supreme Court of Canada explained the approach that the courts must follow when performing this type of analysis:
+65 For practical purposes, the last statement is the important one. The taxpayer, once he or she has shown compliance with the wording of a provision, should not be required to disprove that he or she has thereby violated the object, spirit or purpose of the provision. It is for the Minister who seeks to rely on the GAAR to identify the object, spirit or purpose of the provisions that are claimed to have been frustrated or defeated, when the provisions of the Act are interpreted in a textual, contextual and purposive manner. The Minister is in a better position than the taxpayer to make submissions on legislative intent with a view to interpreting the provisions harmoniously within the broader statutory scheme that is relevant to the transaction at issue.
+66 The approach to s. 245 of the Income Tax Act may be summarized as follows.
+1. Three requirements must be established to permit application of the GAAR:
+(1) A tax benefit resulting from a transaction or part of a series of transactions (s. 245(1) and (2));
+(2) that the transaction is an avoidance transaction in the sense that it cannot be said to have been reasonably undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit; and
+(3) that there was abusive tax avoidance in the sense that it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer.
+2. The burden is on the taxpayer to refute (1) and (2), and on the Minister to establish (3).
+3. If the existence of abusive tax avoidance is unclear, the benefit of the doubt goes to the taxpayer.
+4. The courts proceed by conducting a unified textual, contextual and purposive analysis of the provisions giving rise to the tax benefit in order to determine why they were put in place and why the benefit was conferred. The goal is to arrive at a purposive interpretation that is harmonious with the provisions of the Act that confer the tax benefit, read in the context of the whole Act.
+5. Whether the transactions were motivated by any economic, commercial, family or other non-tax purpose may form part of the factual context that the courts may consider in the analysis of abusive tax avoidance allegations under s. 245(4). However, any finding in this respect would form only one part of the underlying facts of a case, and would be insufficient by itself to establish abusive tax avoidance. The central issue is the proper interpretation of the relevant provisions in light of their context and purpose.
+6. Abusive tax avoidance may be found where the relationships and transactions as expressed in the relevant documentation lack a proper basis relative to the object, spirit or purpose of the provisions that are purported to confer the tax benefit, or where they are wholly dissimilar to the relationships or transactions that are contemplated by the provisions.
+7. Where the Tax Court judge has proceeded on a proper construction of the provisions of the Income Tax Act and on findings supported by the evidence, appellate tribunals should not interfere, absent a palpable and overriding error.
+[32] The parties acknowledged that the first two criteria to be met for the GAAR to apply—the presence of an avoidance transaction in the series of transactions and a tax benefit—were satisfied. Thus, the only issue to be resolved to dispose of this appeal is whether the avoidance transaction or series of avoidance transactions giving rise to the tax benefit was abusive within the meaning of subsection 245(4) of the Act.
+Burden of proof
+[33] It is for the Minister to prove that, on the balance of probabilities, abusive tax avoidance has occurred within the meaning of subsection 245(4) of the Act. To do this, the Minister must demonstrate that, considering the text, context and purpose of the provisions at issue, the avoidance transaction or series of avoidance transactions frustrates the object, spirit or purpose of the provisions of the Act.
+[34] The GAAR will therefore apply where, according to a literal or strict interpretation of the relevant provisions, their application has been circumvented and the object, spirit or purpose of the provisions in question is thereby frustrated (see paragraph 66 of Canada Trustco Mortgage Co. v. Canada, supra, and paragraph 21 of Lipson v. Canada, [2009] 1 SCR 3).
+[35] As the Supreme Court of Canada noted in paragraph 66 of Canada Trustco Mortgage Co. v. Canada, supra, if it is unclear whether the avoidance transaction or series of avoidance transactions constitutes abusive tax avoidance, the benefit of the doubt goes to the taxpayer.
+Abusive tax avoidance
+[36] As the Supreme Court of Canada stated in Canada Trustco Mortgage Co. v. Canada, supra, section 245(4) of the Act imposes a two-part inquiry to determine whether an avoidance transaction or a series of avoidance transactions frustrates the object, spirit or purpose of the Act:
+55 In summary, s. 245(4) imposes a two-part inquiry. The first step is to determine the object, spirit or purpose of the provisions of the Income Tax Act that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids. The second step is to examine the factual context of a case in order to determine whether the avoidance transaction defeated or frustrated the object, spirit or purpose of the provisions in issue.
+[37] Therefore, the first step consists in determining the object, spirit and purpose of the provisions giving rise to the tax benefit by conducting a unified textual, contextual and purposive analysis of those benefits. Indeed, it may happen that “[t]he rationale that underlies the words may not be captured by the bare meaning of the words themselves (see paragraph 70 of Copthorne Holdings Ltd. v. Canada, [2011] 3 SCR 721).
+[38] The second step is to determine whether the object, spirit or purpose of the provisions at issue has been frustrated by the avoidance transaction or the series of avoidance transactions (see paragraph 65 of Canada Trustco Mortgage Co. v. Canada, supra). This step “requires a close examination of the facts in order to determine whether allowing a tax benefit would be within the object, spirit or purpose of the provisions relied upon by the taxpayer” (see paragraph 59 of Canada Trustco Mortgage Co. v. Canada, supra).
+[39] Due to their importance, it is necessary to reproduce hereinafter paragraphs 44, 45, 46, 49 and 50 of Canada Trustco Mortgage Co. v. Canada, supra:
+44 The heart of the analysis under s. 245(4) lies in a contextual and purposive interpretation of the provisions of the Act that are relied on by the taxpayer, and the application of the properly interpreted provisions to the facts of a given case. The first task is to interpret the provisions giving rise to the tax benefit to determine their object, spirit and purpose. The next task is to determine whether the avoidance transaction falls within or frustrates that purpose. The overall inquiry thus involves a mixed question of fact and law. The textual, contextual and purposive interpretation of specific provisions of the Income Tax Act is essentially a question of law but the application of these provisions to the facts of a case is necessarily fact-intensive.
+45 This analysis will lead to a finding of abusive tax avoidance when a taxpayer relies on specific provisions of the Income Tax Act in order to achieve an outcome that those provisions seek to prevent. As well, abusive tax avoidance will occur when a transaction defeats the underlying rationale of the provisions that are relied upon. An abuse may also result from an arrangement that circumvents the application of certain provisions, such as specific anti-avoidance rules, in a manner that frustrates or defeats the object, spirit or purpose of those provisions. By contrast, abuse is not established where it is reasonable to conclude that an avoidance transaction under s. 245(3) was within the object, spirit or purpose of the provisions that confer the tax benefit.
+46 Once the provisions of the Income Tax Act are properly interpreted, it is a question of fact for the Tax Court judge whether the Minister, in denying the tax benefit, has established abusive tax avoidance under s. 245(4). Provided the Tax Court judge has proceeded on a proper construction of the provisions of the Act and on findings supported by the evidence, appellate tribunals should not interfere, absent a palpable and overriding error.
+[…]
+49 In all cases where the applicability of s. 245(4) is at issue, the central question is, having regard to the text, context and purpose of the provisions on which the taxpayer relies, whether the transaction frustrates or defeats the object, spirit or purpose of those provisions. The following points are noteworthy:
+(1) While the Explanatory Notes use the phrase “exploit, misuse or frustrate”, we understand these three terms to be synonymous, with their sense most adequately captured by the word “frustrate”.
+(2) The Explanatory Notes elaborate that the GAAR is intended to apply where under a literal interpretation of the provisions of the Income Tax Act, the object and purpose of those provisions would be defeated.
+(3) The Explanatory Notes specify that the application of the GAAR must be determined by reference to the facts of a particular case in the context of the scheme of the Income Tax Act.
+(4) The Explanatory Notes also elaborate that the provisions of the Income Tax Act are intended to apply to transactions with real economic substance.
+50 As previously discussed, Parliament sought to address abusive tax avoidance while preserving consistency, predictability and fairness in tax law and the GAAR can only be applied to deny a tax benefit when the abusive nature of the transaction is clear.
+[40] In Lipson, supra, a majority of the Supreme Court of Canada described paragraphs 44 and 45 of Canada Trustco Mortgage Co. v. Canada, supra, as capturing the essence of the approach used by the Court when the GAAR is in issue. In paragraph 40, the Court wrote:
+According to the framework set out in Canada Trustco, a transaction can result in an abuse and misuse of the Act in one of three ways: where the result of the avoidance transaction (a) is an outcome that the provisions relied on seek to prevent; (b) defeats the underlying rationale of the provisions relied on; or (c) circumvents certain provisions in a manner that frustrates the object, spirit or purpose of those provisions (Canada Trustco, at para. 45).
+[41] At paragraph 44 of Gwartz v. The Queen, 2013 TCC 86, Hogan J. reviewed certain principles in relation to “(i) tax planning in general, (ii) the appropriateness of using the GAAR as a gap-filling measure, (iii) the existence of a general policy in the ITA regarding surplus stripping.”
+[42] Hogan J. did indeed refer to Canada Trustco Mortgage Co. v. Canada and Copthorne, supra. Each of these cases reiterated the principle that any tax planning to reduce a taxpayer’s tax bill does not, by itself, constitute abusive tax avoidance within the meaning of subsection 245(4) of the Act. In Canada Trustco Mortgage Co. v. Canada, supra, the Supreme Court of Canada stated the following:
+61 A proper approach to the wording of the provisions of the Income Tax Act together with the relevant factual context of a given case achieve balance between the need to address abusive tax avoidance while preserving certainty, predictability and fairness in tax law so that taxpayers may manage their affairs accordingly. Parliament intends taxpayers to take full advantage of the provisions of the Act that confer tax benefits. Parliament did not intend the GAAR to undermine this basic tenet of tax law.
+[43] In other words, “[a]busive tax avoidance cannot be found to exist if a taxpayer can only be said to have abused some broad policy that is not itself grounded in the provisions of the ITA” (see paragraph 47 of Gwartz, supra). It would therefore be “inappropriate, where the transactions do not otherwise conflict with the object, spirit and purpose of the provisions of the ITA to apply the GAAR to deny a tax benefit resulting from a taxpayer’s reliance on a previously unnoticed legislative gap” (see paragraph 50 of Gwartz, supra).
+[44] Paragraph 50 of Gwartz, supra, noted that the courts have repeatedly held that surplus stripping does not inherently constitute abusive tax avoidance. The Supreme Court reiterated this in Copthorne, supra, in which paragraph 118 reads as follows:
+Copthorne submits that such a conclusion could only rest upon a general policy against surplus stripping. It argues that no such general policy exists and therefore the object, spirit and purpose of s. 87(3) cannot be to prevent surplus stripping by the aggregation of PUC. This argument is based upon this Court’s admonition in Trustco that “courts cannot search for an overriding policy of the Act that is not based on a unified, textual, contextual and purposive interpretation of the specific provisions in issue” (para. 41). What is not permissible is basing a finding of abuse on some broad statement of policy, such as anti-surplus stripping, which is not attached to the provisions at issue. However, the tax purpose identified in these reasons is based upon an examination of the PUC sections of the Act, not a broadly stated policy. The approach addresses the rationale of the PUC scheme specifically in relation to amalgamation and redemption and not a general policy unrelated to the scheme under consideration.
+The provision at issue
+[45] The analysis should focus on the object, spirit or purpose of the provisions that give rise to the tax benefit, and on whether the transactions at issue frustrate or defeat those provisions (see paragraph 69 of Canada Trustco Mortgage Co. v. Canada, supra).
+[46] In this case, the Minister contends that the series of transactions allowed the taxpayer to circumvent the application of section 84.1 of the Act in a manner inconsistent with its object, spirit or purpose, resulting directly or indirectly in an abuse of the provisions of the Act, read as a whole.
+The object, spirit and purpose of section 84.1 of the Act
+[47] The Federal Court of Appeal noted in Canada v. Collins & Aikman Canada Inc., 2010 FCA 251, that the scope of section 84.1 of the Act was limited:
+[4] The key provisions of the Income Tax Act upon which the Crown now relies to portray the relevant statutory scheme, namely sections 84.1 and 212.1, were carefully drafted so as not to apply to any sale by Products of its CAHL shares to another corporation, even a related corporation that was resident in Canada. We see no reason to conclude that the limited scope of those provisions was anything other than a deliberate policy choice by Parliament. Therefore, Products having sold its CAHL shares for fair market value consideration, we see nothing abusive about requiring the legal consequences of that sale to be recognized for fiscal purposes and to govern the Canadian income tax consequences, even though the consideration was not paid in cash and the intended result of the transaction was to put in place a Canadian subsidiary with stated capital and paid up capital equal to that consideration.
+[My emphasis.]
+[48] In Copthorne, supra, the Supreme Court of Canada described section 84.1 of the Act as a specific anti-avoidance rule regarding surplus stripping:
+95 Section 89(1) incorporates by reference provisions which reduce the PUC of the shares of a corporation. They are colloquially referred to as “grinds”. For example, ss. 84.1 and 212.1 both grind PUC in non-arm’s length transactions. These sections have been described as “anti-avoidance” provisions aimed at “dividend stripping” (Collins & Aikman Products Co. v. The Queen, 2009 TCC 299, 2009 D.T.C. 1179, at paras. 55 and 105, aff’d 2010 FCA 251, [2011] 1 C.T.C. 250), because such non-arm’s length transactions may provide an opportunity for corporations to return funds in excess of the initial investment made with tax-paid funds to a shareholder as a non-taxable return of capital, rather than as a taxable dividend.
+[My emphasis.]
+[49] Any tax plan done by a taxpayer to distribute corporate surpluses in the form of tax-free dividends must comply with the specific anti-avoidance provisions found, for example, in section 84.1 of the Act (see paragraph 43 of Descarries, supra).
+Textual analysis
+[50] In GAAR cases, although the literal application of the provisions at issue will not preclude a tax benefit the taxpayer seeks by entering into the transaction or series, the very language of the provision does remain relevant for the purposes of determining the object, spirit or purpose of the provision (see paragraph 88 of Copthorne, supra).
+[51] The rule set out in section 84.1 of the Act applies when the following conditions are met:
+(i) An individual (transferor) resident in Canada has disposed of shares (subject shares);
+(ii) The subject shares must be those of a corporation resident in Canada (subject corporation);
+(iii) The subject shares constitute capital property for the transferor;
+(iv) The shares are disposed of to another corporation (the purchaser) with whom the transferor did not deal at arm’s length; and
+(v) The corporation whose shares are disposed of must be related to the acquiring corporation.
+[52] The effect of this section is either to reduce the paid-up capital of the new shares received as consideration for the subject shares or to deem a taxable dividend for the transferor, insofar as the non-share consideration and/or the paid-up capital of the new shares exceed the greater of the paid-up capital or the adjusted cost base of the subject shares immediately before the disposition.
+[53] For the purposes of determining the tax consequences of section 84.1 of the Act, the adjusted cost base of the subject shares must be calculated in accordance with paragraphs 84.1(2)(a) and (a.1). Only subparagraph 84.1(2)(a.1)(ii) of the Act is relevant for our purposes.
+[54] The effect of this subparagraph is to reduce the adjusted cost base of the subject shares by the amount of the capital gains deduction claimed by the transferor or by an individual with whom the transferor did not deal at arm’s length, in respect of a previous disposition of the subject shares or the shares for which they were substituted.
+[55] Consequently, the paid-up capital of the shares received by the transferor in the transaction at issue is limited to the greater of the paid-up capital of the subject shares or the adjusted cost base of the subject shares minus the amount of any capital gain realized on a previous disposition of the subject shares—or shares that were substituted for them—between non-arm’s length persons and in respect of which a capital gains deduction has been claimed.
+[56] In this case, when all the Class A shares of P Pom Inc. held by the appellant were rolled over as consideration for Class A and C shares of Gestion Pierre Pomerleau Inc., subparagraph 84.1(2)(a.1) of the Act did not reduce the paid-up capital of the Class C shares of Gestion Pierre Pomerleau Inc. received by the appellant, despite the fact that $994,628 of the adjusted cost base of the disposed shares came from a capital gain on a previous disposition of shares between non-arm’s length persons in respect of which a capital gains deduction was claimed in accordance with section 110.6 of the Act.
+[57] Upon the previous redemption of the 1,010,328 Class G shares that the appellant held in P Pom Inc., the $994,628 capital loss attributable to the high adjusted cost base of the shares—in respect of which a crystallization was triggered—was deemed to be nil and added to the adjusted cost base of the Class A shares of P Pom Inc. that the appellant held under paragraphs 40(3.6)(a), 40(3.6)(b) and 53(1)(f.2) of the Act, thus not falling within the textual scope of subparagraph 84.1(2)(a.1)(ii) of the Act.
+Contextual analysis
+[58] In Copthorne, supra, the Supreme Court of Canada stated that “the consideration of context involves an examination of other sections of the Act, as well as permissible extrinsic aids […] However, not every other section of the Act will be relevant in understanding the context of the provision at issue. Rather, relevant provisions are related “because they are grouped together” or because they “work together to give effect to a plausible and coherent plan.”
+[59] The relevant context in this case includes corporate and shareholder taxation under the Act as well as the matter of paid-up capital.
+[60] Under the Act, corporate and shareholder taxation involves two levels of taxation: the corporation is taxed on its income and the shareholder is taxed when he receives a distribution from the corporation.
+[61] Where the distribution is made by way of dividend to a shareholder who is an individual, the dividend is grossed up and included in the shareholder’s income under subsection 82(1) and paragraph 12(1)(j) of the Act. The shareholder is then entitled to a dividend tax credit under section 121, which offsets the tax already paid by the corporation.
+[62] Generally, in the case of a dividend received by a shareholder that is itself a corporation, the dividend will be included in the compution of the corporation’s net income but may be deducted in the compution of its taxable income under subsection 112(1) of the Act.
+[63] This gross-up of taxable dividends and the dividend tax credit is a fundamental part of the Canadian tax system. In terms of taxation policy, its purpose is to provide a certain degree of tax neutrality and to ensure that a source of income can be earned by an individual directly as an independent contractor or indirectly through a Canadian company. This is the principle of integration.
+[64] Where corporate surpluses are distributed in a manner other than by way of dividend, the Act includes several provisions, such as sections 84, 84.1 and 212.1 and subsection 85(2.1), which treat such distributions as dividend payments. The Act therefore clearly seeks to tax in the hands of a company’s shareholders any surpluses issued as dividends, unless such amounts represent a return of capital. These provisions prevent a company from stripping its surpluses, and consequently the level of taxation at the individual level is avoided or reduced (see paragraph 49 of Gwartz, supra).
+[65] With respect to paid-up capital, the Act provides that the amount of capital invested by a shareholder in a corporation may be returned to him tax-free because the initial investment is made with tax-free funds. In Canadian tax law, paid-up capital (defined in subsection 89(1) of the Act) normally represents the capital invested when shares are issued. Any distribution in excess of this initial investment is subject to taxation as a dividend.
+[66] For example, subsection 84(3) of the Act allows shareholders to receive the paid-up capital of their shares tax-free upon redemption of the shares. The amount paid by the company upon redemption in excess of the paid-up capital of the shares is deemed to be a dividend.
+[67] Also, as the Supreme Court of Canada stated in Copthorne, supra, subsection 89(1), which defines the phrase “paid-up capital” for the purposes of the Act, incorporates by reference provisions, such as sections 84.1 and 212.1, which reduce the paid-up capital of the shares of a corporation. These provisions achieve Parliament’s objective “of allowing only for a return of tax-paid investment without inclusion in income.” Sections 84.1 and 212.1 “both grind PUC in non-arm’s length transactions. These sections have been described as “anti-avoidance” provisions aimed at “dividend stripping” […] because such non-arm’s length transactions may provide an opportunity for corporations to return funds in excess of the initial investment made with tax-paid funds to a shareholder as a non-taxable return of capital, rather than as a taxable dividend (see paragraphs 92 to 96 of Copthorne, supra).
+[68] Where section 84.1 applies, the maximum amount that may be received by the transferring taxpayer as a return of paid-up capital is limited to the greater of the paid-up capital of the shares transferred and what may be referred to as the “actual arm’s length adjusted cost base” or the “hard” adjusted cost base of the shares for the transferor (commonly referred to as “hard ACB”). This is how Michael Dolson and Jon D. Gilbert explain it in a recent article: “Accessing Surplus: What Works, What Doesn’t, What’s Left,” 2014 Prairie Provinces Tax Conference, (Toronto: Canadian Tax Foundation), 9: 1-57, pages 8 and 9:
+While subsection 84.1(1) would ordinarily apply to prevent surplus stripping in the form of a straightforward exchange of a shareholder’s shares for property of the corporation, it does not apply to prevent surplus stripping using « hard » ACB (i.e. ACB resulting from an arm’s length share purchase or a non-arm’s length transaction in which the capital gain on the share transfer was not sheltered by a capital gains deduction or V-Day increment).
+If a shareholder realizes a capital gain on his or her shares in any manner that does not involve the claiming of a capital gains deduction or V-Day increment, the shareholder will have hard ACB in those shares to the extent of the gain, and subsection 84.1(1) would not apply if the shares were exchanged for a note or high-PUC share of another non-arm’s length corporation. This legislative gap in the legislative scheme supports the contention that there is not a general scheme of the Act relating to surplus stripping, as Parliament must be aware of the potential for rate arbitrage in circumstances where ACB is created.
+Purposive analysis
+[69] At this stage of the analysis, the Crown must specifically determine the underlying spirit of the provision (see paragraph 94 of Lipson, supra, paragraph 41 of Canada Trustco Mortgage Co. v. Canada, (supra, and paragraph 30 of Evans v. The Queen, 2005 TCC 684).
+[70] Section 84.1 was added to the Act during the 1977 budget speech. Its original objective was to prevent taxpayers from removing a company’s on hand surpluses existing on December 31, 1971, on a tax-free basis.
+[71] In 1985, pursuant to the adoption of the capital gains deduction rules, amendments were proposed to section 84.1 of the Act. In November 1985, the Minister of Finance published Technical Notes to a Bill Amending the Income Tax Act and Related Statutes:
+Section 84.1 of the Act is an anti-avoidance rule to prevent the removal of taxable corporate surpluses as a tax-free return of capital where there is a non-arm’s length transfer of shares by an individual resident in Canada to a corporation. While the purpose of this provision is maintained, both the means by which it is achieved and its scope were changed as a result of the introduction of the new lifetime capital gains exemption.
+Subsection 84.1(1) of the Act presently applies to deem an immediate capital gain or an adjusted cost base reduction on certain non-arm’s length transfers of shares of a corporation resident in Canada to another corporation by a taxpayer resident in Canada other than a corporation. Since the net tax on dividends approximated the tax on capital gains, section 84.1 was designed to discourage certain corporate surplus stripping techniques referred to as “Valuation Day” strips.
+With the introduction of the capital gains exemption, the existing rules in subsection 84.1(1) are no longer appropriate since the gain on the share transfer may be exempt. Consequently, subsection 84.1(1) was repealed and replaced by a rule that requires a paid-up capital reduction and, in certain circumstances, the immediate recognition of a dividend on certain non-arm’s length share transfers to a corporation occurring after May 22, 1985. For these purposes, the non-arm’s length test currently contained in subsection 84.1(2) is being maintained. The basic rule under new subsection 84.1(1) is that the maximum amount that can be received by the transferor from the transferee corporation as proceeds in the form of any non-share consideration and the paid-up capital of the share consideration is restricted to the greater of the paid-up capital of the transferred shares and what might be referred to as the transferor’s arm’s length actual adjusted cost base of the shares.
+New paragraph 84.1(1)(a) provides for a paid-up capital reduction for each class of shares of the purchaser corporation from which shares were issued as consideration for its acquisition of shares of another corporation. A paid-up capital reduction will be required in those circumstances where the increase in the legal paid-up capital of the shares of the purchaser corporation arising as a result of the share transfer is more than the excess, if any, of the greater of the paid-up capital of the transferred shares and the adjusted cost base, as modified under new paragraph 84.1(2)(a) or (a.1), to the transferor of the transferred shares over the fair market value of any non-share consideration paid by the purchaser corporation as part of the purchase price for the transferred shares. The paid-up capital reduction is allocated amongst the different share classes of the purchaser corporation based upon legal paid-up capital increases occurring as a result of the share transfer.
+New paragraph 84.1(1)(b) treats the purchaser corporation as having paid a dividend to the transferor where the aggregate of the amount of the increase in the legal paid-up capital of its shares arising as a result of the share transfer and the fair market value of the non-share consideration given by it for the transferred shares exceeds the total of
+a) (a) the greater of the adjusted cost base, as modified under new paragraph 84.1(2)(a) or (a.1), to the transferor of the transferred shares and the paid-up capital of the transferred shares, and
+b) (b) the total paid-up capital reductions required by paragraph 84.1(1)(a) to be made by the purchaser corporation.
+The excess is the amount that will be treated as a dividend.
+[72] In an article entitled “Accessing Surplus: What Works, What Doesn’t, What’s Left,” supra, Jon D. Gilbert and H. Michael Dolson provided a very relevant several picture of section 84.1 of the Act and what it was intended to prevent (see the following excerpts taken from pages 4, 5, 9 and 14):
+. . .
+Section 110.6 permits shareholders to receive up to $800,000 (indexed for inflation) tax-free on a disposition of shares in the capital stock of a qualified small business corporation, family farm corporation or family fishing corporation. Preventing taxpayers from using the capital gains deduction to extract surplus on a tax-free basis is one of the main reasons why subsection 84.1(1) is needed, as the surplus stripping potential of the capital gains deduction is obvious.
+. . .
+Subsection 84.1(1) does apply in a more robust fashion to shares with “soft” ACB described in subsection 84.1(2), which was either created by owing (sic) property on V-Day or through the use of the capital gains deduction. It is this “soft” ACB that presents the most attractive tax planning opportunities, as utilizing V-Day increment or the capital gains deduction while avoiding subsection 84.1(1) permits the tax-free extraction of corporate surplus. Unsurprisingly, the need to police the direct or indirect use of “soft” ACB adds complexity to section 84.1.
+. . .
+Speaking generally, section 84.1 is intended to prevent taxpayers from directly exchanging low-PUC or low-ACB shares for corporate assets without paying a dividend, while also preventing exchanges of high-ACB shares for corporate assets in circumstances where the ACB arose from a non-taxable transaction or event.
+[My emphasis.]
+[73] In Desmarais v. The Queen, 2006 TCC 44, the Court explained the objective sought by Parliament in enacting section 84.1 of the Act, as follows:
+[32] A textual and contextual analysis of section 84.1 establishes that – and this is consistent with the Technical Notes of the Minister of Finance – Parliament intended to prevent stripping of the surpluses of an operating company when the mechanism used for this stripping was similar to that used here by Mr. Desmarais. This was the mechanism he used to receive surpluses from an operating company free of tax following a transfer of the shares of this company to a holding company and, following redemption, out of the surpluses received from the operating company, of the shares issued in consideration of the shares of the operating company.
+[74] Hogan J. followed that reasoning in Descarries, supra, a case very similar to the present one, where he confirmed the explanations given by H. Michael Dolson and Jon D. Gilbert:
+[53] Paragraphs 84.1(2)(a) and (a.1) and subsection 84.1(2.01) change how the adjusted cost base of the subject shares is calculated for the purposes mentioned above. Under the rules established in these provisions, the part of the adjusted cost base of the subject shares that is attributable to the value accumulated as of 1971 is not recognized in order to prevent shareholders from using the tax-exempt margin to strip a corporation of its surpluses. This adjustment also applies when the shareholders purchased the subject shares after 1971 from a person with whom they were not dealing at arm’s length. A similar rule applies to prevent the capital gain exemption from being used to strip a corporation of its surpluses in similar cases. In summary, the specific rules show that the object, spirit or purpose of section 84.1 of the Act is to prevent taxpayers from performing transactions whose goal is to strip a corporation of its surpluses tax-free through the use of a tax-exempt margin or a capital gain exemption.
+[75] The respondent rightly raised the history of former subsection 247(1) of the Act for purposes of analyzing the object of section 84.1. The former subsection 247(1) of the Act which is now the GAAR, set out in section 245, was also amended with the introduction of the capital gains deduction into the Canadian tax system. As anticipated by the Minister of Finance’s November 1985 Technical Notes, supra, regarding subsection 247(1), this general anti-avoidance provision will apply where, upon completion of the reorganization of a Canadian corporation, the paid-up capital of shareholders is increased inappropriately but in circumstances where no specific avoidance provision of the Act applies.
+Was the object, spirit or purpose of section 84.1 frustrated?
+[76] Since the appellant has admitted that there was a tax benefit arising from a series of avoidance transactions, the reasons for this reorganization are irrelevant for the purpose of determining whether these transactions frustrated or defeated the object, spirit or purpose of the relevant provisions (see paragraphs 34 to 38 of Lipson, supra).
+[77] The GAAR will not apply as soon as it is shown that a series of transactions has given rise to a tax benefit. Rather, the GAAR applies if that series of transactions frustrated or defeated the object, spirit or purpose of the provision at issue – section 84.1 of the Act (see paragraphs 44, 57 and 59 of Canada Trustco Mortgage Co. v. Canada, supra).
+[78] In this case, the textual, contextual and purposive analysis shows that the object, spirit or purpose of section 84.1 of the Act is to prevent a taxpayer from performing non-arm’s length transactions whose goal is to strip a corporation of its surpluses tax-free through the use of a capital gains deduction or the tax-free value on valuation day (see paragraphs 30 to 34 of Desmarais, supra, paragraphs 53 and 54 of Descarries, supra, and paragraphs 61, 62 and 90 of Poulin v. The Queen, 2016 TCC 154). However, I note that the philosophy of this provision is not to prevent any tax-free surplus stripping.
+[79] To paraphrase Hogan J. in Descarries, supra, section 84.1 is an anti-avoidance provision whose purpose is to “prevent (in a context of non-arm’s length transactions) the capital gain exemption from being used to strip a corporation of its surpluses” (see paragraph 53 of Descarries, supra and paragraph 30 of Desmarais, supra) in order to eliminate the tax bill. That is exactly what happened here.
+[80] When the appellant redeemed the 1,010,328 Class G shares of P Pom Inc., they had a paid-up capital of $15,700 and an adjusted cost base equal to their fair market value, $1,010,328. The adjusted cost base of these shares came entirely from the capital gains deduction that the appellant, his mother and sister had claimed in accordance with section 110.6 of the Act when the Class F shares that they each held in Groupe Pomerleau Inc. became crystallized and for which the Class G shares in P Pom Inc. were substituted. Thus, this was a “soft” adjusted cost base.
+[81] One of the consequences resulting from this redemption was a $994,628 capital loss for the appellant, which was transferred to the adjusted cost base of the Class A shares that he held in P Pom Inc. under subsection 40(3.6) of the Act. The appellant submits to have thereby transformed what was once a “soft” adjusted cost base into a “hard” adjusted cost base not covered by the adjusted cost base reduction mechanisms provided for in subsection 84.1(2) of the Act. As a result, during a later rollover, this transaction increased the paid-up capital of the Class C shares that he received from Gestion Pierre Pomerleau Inc. as consideration for Class A shares of P Pom Inc., circumventing section 84.1 of the Act.
+[82] However, this strategy abusively defeated the purpose of section 84.1 of the Act, i.e. to avoid tax-free corporate surplus stripping by using the valuation day value or the capital gains deduction (see paragraph 57 of Descarries, supra).
+[83] When the Class C shares of Gestion Pierre Pomerleau Inc. were redeemed, this series of transactions enabled the appellant to extract $994,628 in tax-free capital from the company’s surplus by using his capital gains deduction and those of his mother and sister.
+[84] Prior to the reorganization, the amount that could be repatriated tax-free from the corporation was nominal. After the series of transactions, the tax consequences of the shares enabled a $994,628 tax-free distribution of Gestion Pierre Pomerleau Inc.’s surpluses, which was exactly equal to the amount of capital gains deductions claimed by the appellant, his mother and sister.
+[85] Had the “soft” adjusted cost base in the Class G shares of P Pom Inc. not been previously isolated in order to proceed with the redemption that resulted in the capital loss, which consequently increased the adjusted cost base of the Class A shares of P Pom Inc., it would not have been possible to avoid the tax impacts arising from section 84.1 of the Act. A simple rollover of the shares would not have prevented the new shares from having their adjusted cost base reduced under paragraphs 84.1(2)(a) and (a.1) of the Act.
+[86] As explained at the hearing by counsel for the respondent, the paid-up capital of the Class C shares of Gestion Pierre Pomerleau Inc. held by the appellant was inappropriately increased, allowing him to remove tax-free an amount greater than the tax-free funds that were invested in the company, a result outcome that section 84.1 of the Act specifically seeks to prevent. I am satisfied that this constitutes abusive tax avoidance of section 84.1 of the Act, and that, consequently, the Minister was justified in applying section 245 of the Act in order to rule that the appellant was deemed to have received a $994,628 taxable dividend during the year at issue.
+[87] Counsel for the appellant argued that, in the context of the redemption of shares whose adjusted cost base was previously increased through the use of the capital gains deduction, paragraphs 40(3.6)(b), 53(1)(f.2) and section 84.1 of the Act do not set out any loss denial rules. According to them, to conclude as I have, would create a loss denial rule, which is in no way supported by the Act, read as a whole. In this respect, they noted that the GAAR must be used only to fill in a legislative gap or an oversight by Parliament (see paragraphs 41 and 42 of Trustco Mortgage Co. v. Canada, supra, and paragraphs 47 and 48 of Gwartz, supra).
+[88] Finally, counsel for the appellant submitted that, if I were to find that the GAAR applied to the transaction, I should distinguish the shares whose “soft” adjusted cost base was received by his mother and sister from the shares that he held during the crystallization. With respect, I do not share this view.
+[89] Indeed, nothing in the Act supports such a contention. On the contrary, the effect of paragraph 84.1(2)(a.1) is that the “soft” adjusted cost base of a share follows this share in non-arm’s length transactions, as well as any new share substituted for it. Once it is shown that the transactions were not performed at arm’s length, section 84.1 of the Act makes no distinction as to whether ownership of the subject shares was actually transferred.
+[90] The advance income tax ruling, to which counsel for the appellant referred in their arguments, did not bind the CRA with respect to the party who requested it. Published advance income tax rulings, along with interpretation bulletins and information circulars, are merely administrative positions that have no binding force and cannot bind the CRA in any way. At any rate, the advance income tax ruling in question was published after the appellant performed the above-mentioned avoidance transactions.
+[91] For all these reasons, the appellant’s appeal from the May 19, 2011, reassessment regarding the 2005 taxation year is dismissed with costs.
+Signed at Ottawa, Canada, this 10th day of November, 2016.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 31st day of January 2018.
+François Brunet, Revisor
+CITATION:
+2016 TCC 228
+COURT FILE NO.:
+2014-517(IT)G
+STYLE OF CAUSE:
+PIERRE POMERLEAU AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+June 6, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 10, 2016
+APPEARANCES:
+Counsel for the appellant:
+Angelo Nikolakakis
+Louis Tassé
+Counsel for the respondent:
+Natalie Goulard
+COUNSEL OF RECORD:
+For the appellant:
+Names:
+Angelo Nikolakakis
+Louis Tassé
+Firm:
+EY Law LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Groupe Pomerleau Inc. Certificates and Articles of amendment, December 15, 1995, December 18, 1997, December 17, 1998 and November 26, 2004, Appendix A.
+[2] P Pom Inc. Certificate and Articles of incorporation, October 19, 1999, Appendix B.
+[3] Gestion Pierre Pomerleau Inc. Certificate and Articles of incorporation, November 26, 2004, Appendix C.
+[4] P Pom Inc. Certificate and Articles of amendment, November 26, 2004, Appendix D.

@@ -1,0 +1,152 @@
+Title: Fullum v. the Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/233188/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-140-233188-fullum-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-07-20
+
+# Fullum v. the Queen
+
+- Citation: 2017 TCC 140
+- Decision date: 2017-07-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2112, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fullum v. the Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-07-20
+Neutral citation
+2017 TCC 140
+File numbers
+2016-3661(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2017 TCC 140
+Date: 20170720
+Docket: 2016-3661(IT)G
+BETWEEN:
+FRANÇOIS FULLUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+ORDER AND REASONS FOR ORDER
+Jorré J.
+[1] The appellant brought a motion to obtain an order from this Court requiring that the respondent submit to an oral examination for discovery under subsection 17.3(1) of the Tax Court of Canada Act (Act). The appellant agreed to also submit to an oral examination if the respondent so requests.
+[2] The motion proceeded on the basis of written representations under section 69 of the Tax Court of Canada Rules (General Procedure) (Rules).
+[3] The appellant is appealing from the assessments for the taxation years 2007 to 2012 inclusive.
+[4] Section 17.3 of the Act states the following:
+17.3(1) If the aggregate of all amounts in issue in an appeal under the Income Tax Act is $50,000 or less, or if the amount of the loss that is determined under subsection 152(1.1) of that Act and that is in issue is $100,000 or less, an oral examination for discovery is not to be held unless the parties consent to it or unless one of the parties applies for it and the Court is of the opinion that the case could not properly be conducted without that examination for discovery.
+(2) If the amount in dispute in an appeal under Part IX of the Excise Tax Act is $50,000 or less, an oral examination for discovery is not to be held unless the parties consent to it or unless one of the parties applies for it and the Court is of the opinion that the case could not properly be conducted without that examination for discovery.
+(3) In considering an application under subsection (1) or (2), the Court may consider the extent to which the appeal is likely to affect any other appeal of the party who instituted the appeal or relates to an issue that is common to a group or class of persons.
+(4) The Court shall order an oral examination for discovery in an appeal referred to in subsection (1) or (2), on the request of one of the parties, if the party making the request agrees to submit to an oral examination for discovery by the other party and to pay the costs in respect of that examination for discovery of that other party in accordance with the tariff of costs set out in the rules of Court.
+[5] Upon reading the motion record and the written representations of the respondent, it is clear that in each of the years in question the aggregate of the amounts in issue, for the purposes of subsection 17.3(1) of the Act, is well below the threshold of $50,000. However, the aggregate of the amounts in issue for all of the years in appeal is more than $50,000.
+[6] According to the appellant, the motion should be allowed
+1. because the parties agreed to hold an oral examination or,
+2. alternatively, because the order sought is appropriate in the circumstances because the case could not properly be conducted without such an examination.
+[7] According to the respondent, the motion must be dismissed
+1. because the parties have not agreed to hold an oral examination,
+2. because the case can properly be conducted without such an examination and
+3. because the appellant has not complied with one of the conditions in subsection 17.3(4) of the Act: he did not undertake to pay the costs in respect of the examination for discovery of the other party in accordance with the tariff of costs set out in the rules of Court.
+[8] There are therefore three issues to be determined:
+1. Did both parties agree to hold an oral examination?
+2. Are we in a situation where the appeal cannot proceed without such an examination?
+3. Must I refuse to issue such an order because the appellant does not undertake in his request to pay the costs in respect of the examination for discovery of the other party?
+[9] I will begin with the third question. Subsection 17.3(4) of the Act does not add an additional condition for obtaining an order under subsection 17.3(1). The effect of subsection 17.3(4) is to allow a party to obtain the order without the party having to persuade the Court that the case could not properly be conducted without an oral examination for discovery unless the party is willing (i) to pay the costs of the other party in accordance with the tariff of costs and (ii) to also submit to an oral examination for discovery. In other words, a party may “purchase” an oral examination if it agrees to also submit to such an examination.
+[10] Therefore, a failure to undertake to pay the costs is not, in itself, an obstacle to an application under subsection 17.3(1) of the Act. However, it is an obstacle to a request under subsection 17.3(4) of the Act.
+[11] Let us examine the first issue.
+[12] The February 6, 2017, letter, signed by both parties, provides the Court with a proposed timetable:
+[TRANSLATION]
+Examination
+June 23, 2017
+Undertakings
+August 25, 2017
+[13] In her affidavit, counsel for the appellant explained that in signing the February 6, 2017, letter her understanding was that the parties were agreeing to oral examinations for discovery. She also stated that her intention was always to conduct an oral examination of the auditor.
+[14] The appellant argues that the understanding of his counsel is confirmed by the use of the word “undertakings” because with written questions it is not necessary to separate the examination from the undertakings as the answers are accompanied by exhibits in support of the answers.
+[15] It is not alleged that the parties agreed to derogate from subsection 17.3(1) and hold oral examinations for discovery.
+[16] In the absence of an explicit agreement, I am not persuaded in the circumstances that it is reasonable to conclude that there was consent from the respondent.
+[17] In addition, the mere mention of the words “examination” and “undertakings” is potentially ambiguous and does not necessarily mean that an oral examination was chosen.
+[18] Given that section 92 of the Rules provides that “[a]n examination for discovery may take the form of an oral examination or, at the option of the examining party, an examination by written questions and answers, but . . . ”, the word “examination” does not, in itself, make it possible to determine the nature of the examination. It is therefore possible that the word “examination” refers to the date of service of the questions within the meaning of section 113 of the Rules.
+[19] I note that often when there is a written examination, the parties talk about it explicitly and propose various dates for the service of the questions and for the answering of the questions; however, a deadline for the answers does not need to be specified given the 30-day time limit set out in section 114 of the Rules. This is only necessary for changing the time limit. [1]
+[20] Regarding the word “undertakings”, while I agree with the appellant that it is not necessary to propose a different date to do so, this does not mean that the parties cannot do so. [2]
+[21] That said, it is always preferable that a proposed timetable clearly indicate that it is either a written examination or an oral examination. [3]
+[22] Regarding the second issue, I will begin by noting that subsection 17.3(3) of the Act provides that I may consider the effect that the appeal will have on any other appeal of the party who instituted the appeal.
+[23] In matters of income tax, it is well established that “the aggregate of all amounts in issue” applies for each taxation year. It should be noted that conceptually a taxpayer is assessed for each taxation year and that therefore the taxpayer files an appeal in respect of each taxation year although it is permitted, and even desirable, that he or she file only one document as a notice of appeal for a number of related annual assessments.
+[24] In this case, the notice of appeal is filed in respect of six assessments (taxation years 2007 to 2012 inclusive); accordingly, even though there is only one notice of appeal, it is an appeal from six assessments in respect of six taxation years.
+[25] Having read the amended notice of appeal and the reply to the amended notice of appeal, while there are facts specific to each of the years, there is no doubt that the six assessments are somewhat related and that the appeal for each year will affect the other years.
+[26] In consideration of this and in consideration of subsection 17.3(3) of the Act, it is appropriate for me to look at the six years in issue as a whole.
+[27] According to the arguments made, there is a whole series of questions raised with respect to, inter alia, certain assessments made out of time, certain penalties imposed under subsection 163(2) of the Income Tax Act and income amounts established using an alternative estimation method. The dispute appears mainly to be factual and there are potentially a lot of details that could be pertinent.
+[28] Given the level of factual details that there appears to be in these appeals, I believe that it would be very difficult to properly hold a written examination. Moreover, in this case I am not sure that a written examination would necessarily be more efficient and less costly than an oral examination, especially when consideration is given to the relative flexibility of an oral examination, which makes it possible to adjust questions based on the answers provided, and the very real possibility in the case of a written examination that a second stage of additional questions may be necessary. [4] I am of the view that this holds true for both the respondent and the appellant. [5]
+[29] The French text of subsection 17.3(1) of the Act states that I must be of the opinion that the case “ne pourrait procéder” [[TRANSLATION] could not be conducted] (emphasis added) without an oral examination for discovery. At first glance, this seems quite categorical; if it were necessary to read the text literally, I would have to conclude that the appellant has not demonstrated that the conditions in subsection 17.3(1) have been met, namely that it is impossible to proceed by way of a written examination.
+[30] However, that is not the proper way to read the text. First, subsection 4(1) of the Rules states the following:
+These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+[31] Second, the English text of subsection 17.3(1) of the Act states that I must be of the opinion that the case “could not properly be conducted without that examination for discovery” (emphasis added).
+[32] Therefore, the text of subsection 17.3(1) should be understood as meaning that I must be of the opinion that the case could not properly (or reasonably) be conducted without an oral examination for discovery.
+[33] In the circumstances, given the factual complexity of the matter, I am of the opinion that the case could not properly be conducted without an oral examination for discovery. [6]
+[34] While not determinative, an additional element that weighs in favour of the appellant’s motion is the fact that the aggregate of the amounts in dispute for the six years in question exceeds $50,000. [7]
+[35] Accordingly, the motion is allowed and the respondent and the appellant shall submit to an oral examination for discovery. [8]
+[36] Costs shall be in the cause.
+[37] The timetable needs to be amended. To expedite the process, I will simply establish a new timetable without consulting the parties. [9] If the timetable is not suitable for the parties, they can request an extension of time. The order of February 22, 2017, is amended as follows:
+[TRANSLATION]
+If they have not already done so, the parties shall exchange the documents that appear in their lists no later than two weeks prior to the commencement of the oral examinations for discovery.
+The oral examinations for discovery shall be completed by September 29, 2017.
+The undertakings arising from the oral examinations for discovery shall be fulfilled no later than November 29, 2017.
+The parties shall communicate with the hearings coordinator, in writing, by January 8, 2018, to advise the Court whether the case will settle, whether a settlement conference would be beneficial or whether a hearing date should be set. In the latter situation, the parties must file a joint application before that date to fix a date and place of the hearing in accordance with section 123 of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Ontario, this 20th day of July 2017.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 3rd day of October 2018.
+Janine Anderson, Revisor
+CITATION:
+2017 TCC 140
+COURT FILE NO.:
+2016-3661(IT)G
+STYLE OF CAUSE:
+FRANÇOIS FULLUM v. THE QUEEN
+DATE OF REFERRAL OF THE FILE TO THE JUDGE:
+May 18, 2017
+REASONS FOR ORDER BY:
+The Honourable Justice Gaston Jorré
+DATE OF ORDER:
+July 20, 2017
+COUNSEL FOR THE PARTIES:
+[BLANK]
+Counsel for the appellant:
+Danny Galarneau
+Counsel for the respondent:
+Gabriel Girouard
+COUNSEL OF RECORD:
+[BLANK]
+For the appellant:
+Danny Galarneau
+Firm:
+Joli-Cœur Lacasse
+Quebec City, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Which the Court may do under section 12 of the Rules.
+[2] I have already had the experience of seeing counsel for parties proposing a timetable for a written examination with a different date for the service of the documents that the parties had apparently undertaken to produce. However, in the case I am referring to, the proposed timetable was very explicitly a timetable for a written examination (Docket 2016-3282(IT)G, letter from the parties to the Court dated January 13, 2017).
+[3] If the parties wish to delay choosing between a written or an oral examination, when submitting a timetable, they may propose a timetable that includes both possibilities; from time to time, the Court receives such draft timetables.
+[4] See section 116 of the Rules, particularly subsection 116(1).
+[5] There is also the issue of the impact of an examination for discovery on the trial’s efficiency and how much time the trial will require. Generally speaking, a better examination for discovery increases the chances of a settlement and, even if there is no settlement, it often increases the trial efficiency.
+[6] Boast v. The Queen, 2005 TCC 316, is a decision by former Chief Justice Bowman that is interesting because it has some similarities with this case.
+I would also like to take this opportunity to note the following comments, at paragraph 11 of Bowman C.J.’s reasons:
+Nonetheless, I think the facts and issues are of sufficient complexity that the appellant is entitled to examine an officer of the Crown in order to properly conduct his case. I am not unappreciative of the force of the arguments advanced by counsel for the respondent. I tend to share counsel’s reservations about the utility or relevance of questioning an officer of the Crown about conversations that an assessor may have had with the appellant. Tax appeals are won or lost on the basis of objective facts not on the basis of what an assessor may have said or thought. It is however important that a taxpayer, particularly an unrepresented one, not be confronted with procedural hurdles to the manner in which he or she wishes to present the case.
+[Emphasis added.]
+[7] The purpose of subsection 17.3(1) of the Act is to try to limit the costs in certain cases with relatively modest amounts in issue. Considering section 4 of the Rules and proportionality, if Parliament decided to choose a threshold of $50,000 and, at the same time, stated in subsection 17.3(3) that the Court must take into account other appeals for other taxation years if the appeal before the Court “is likely to affect” the other years, logically, if the aggregate of the amounts in issue for all of the years exceeds the threshold of $50,000 and if there are issues that are likely to affect the different years, the fact that the amounts in issue do not exceed $50,000 in each year considered individually has a narrower scope than if that were not the case.
+[8] While not applicable here, it is interesting to note that approaches in various jurisdictions can vary regarding how to limit costs. For example, in Ontario, for cases proceeding under the simplified procedure, rule 76.04 of the Rules of Civil Procedure (R.R.O. 1990, Regulation 194 enacted pursuant to the Courts of Justice Act) prohibits an examination for discovery by written questions and answers and also limits each party to an oral examination for discovery that does not exceed a total of two hours of examination (unless the court extends the time under Rule 3.02).
+The simplified procedure in Ontario may be used for certain types of cases where the amount in question is $100,000 or less; in comparison, the Ontario Small Claims Court has a jurisdiction of $25,000 or less.
+[9] As former Chief Justice Bowman did in paragraph 16 of Boast.

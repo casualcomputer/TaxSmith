@@ -1,0 +1,218 @@
+---
+title: "Ntakos Estate c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/350284/index.do"
+last_modified: "2018-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 224"
+citation2: ""
+neutral_citation: "2018 CCI 224"
+decision_date: "2018-11-14"
+language: "fr"
+item_id: "350284"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5024
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:42:30.991000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6e40cde064d77a0c5391bc5ea970586ca873a8316c19bbda698deb9628e3468f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ntakos Estate c. La Reine
+
+- Citation: 2018 CCI 224
+- Decision date: 2018-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5024, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ntakos Estate c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-11-14
+Référence neutre
+2018 CCI 224
+Numéro de dossier
+2017-2946(IT)APP
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2946(IT)APP
+ENTRE :
+LA SUCCESSION DE FEU ANNA NTAKOS,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 14 septembre 2018, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de la requérante :
+Richard Yasny
+Avocat de l’intimée :
+Eric Myles
+ORDONNANCE
+CONFORMÉMENT aux motifs de l’ordonnance concernant la demande de prorogation du délai pour déposer un avis d’opposition relatif aux années d’imposition 1998 à 2002 inclusivement et la demande d’annulation de certaines nouvelles cotisations fondée sur l’incapacité mentale, sur des déclarations non autorisées ou sur de fausses déclarations :
+LA COUR ORDONNE QUE :
+1. la demande de prorogation du délai pour déposer des avis d’opposition relatifs aux années d’imposition 1999 et 2000 concernant les avis de cotisation, respectivement datés du 5 septembre 2000 et du 1er juin 2001, est rejetée;
+2. la demande de prorogation du délai pour déposer des avis d’opposition pour les années 1999, 2001 et 2002 est rejetée;
+3. la feue requérante n'a pas déposé de demande de modification à l'égard de ses années d'imposition 1998, 2001 et 2002 un certain jour en avril 2003, les 27 mai 2003 et 27 mai 2003 (ci-après désignées les « productions de 2003 ») respectivement, en raison d’une incapacité mentale de le faire ou les productions de 2003 ont été faites à son insu, sans son autorisation ou ses instructions; et en tant que telles, les prétendues demandes de modification comprenant les productions de 2003 sont nulles et non avenues;
+4. ar conséquent, les trois avis de nouvelle cotisation, en réponse aux productions nulles de 2003 respectivement émises le 26 février 2004 et le 8 mai 2003 pour l’année d’imposition 1999, le 14 octobre 2003 pour l’année d’imposition 2001 et le 14 octobre 2003 pour l’année d’imposition 2002, sont par les présentes annulés;
+5. ces questions sont renvoyées au ministre du Revenu national en vue d’un réexamen et d’une nouvelle cotisation conformément aux motifs de l’ordonnance ci-joints;
+6. à la lumière des résultats mitigés dans le cadre de la demande, la Cour n’accorde pas de dépens.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2018.
+« R. S. Bocock »
+Juge Bocock
+Référence : 2018 CCI 224
+Date : 20181114
+Dossier : 2017-2946(IT)APP
+ENTRE :
+LA SUCCESSION DE FEU ANNA NTAKOS,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Juge Bocock
+I. Exposé des faits
+[1] La demande de prorogation du délai pour déposer un avis d’opposition pour les années d’imposition 1998 à 2002 inclusivement (les « années d’imposition ») est quelque peu différente à d’autres dont est saisie la Cour. Cette déclaration est faite pour plusieurs raisons. Cette même demande concerne une succession (la « succession » ou « Anna »), une entreprise familiale et un différend amer concernant l’entreprise familiale qui n’est pas principalement lié à la succession. Comme aucun appel ne peut être interjeté autrement, la demande comprend également des allégations relatives à l’incapacité mentale d’Anna et à la production non autorisée de déclarations de revenus et de modifications censément au nom d’Anna. Ces allégations sont au cœur des nouvelles cotisations que la succession souhaite faire infirmer ou, à tout le moins, à l’égard desquelles elle voudrait obtenir une prolongation du délai pour s’opposer.
+Cotisations (nouvelles) en litige
+[2] Les diverses déclarations de revenus importantes semblent avoir été produites ou présentées de nouveau au moyen de demandes de redressement. Elles ont fait l’objet de nouvelles cotisations aux dates suivantes qui sont pertinentes aux fins de la présente demande. En raison du laps de temps écoulé et de l’absence de copies réelles entre les mains de la succession ou de l’ARC, les dates sont approximatives et fondées sur des témoignages et des imprimés de l’« option C » de l’ARC produits en preuve.
+Année d’imposition
+Date de production pertinente
+Méthode de production
+Nouvelle(s) cotisation(s) applicables(s)
+1998
+Avril 2003
+Redressement d’une T1
+8 mai 2003 et 26 février 2004
+1999
+Juillet ou août 2000
+Redressement d’une T1
+5 septembre 2000
+2000
+30 avril 2001
+T1 Générale
+1er juin 2001
+2001
+27 mai 2003
+Redressement d’une T1
+14 octobre 2003
+2002
+27 mai 2003
+Redressement d’une T1
+14 octobre 2003
+Dépôt tardif ou inexistant d’une opposition
+[3] Aucun avis d’opposition ni aucune demande de prorogation du délai pour déposer un avis d’opposition n’a été signifié au ministre du Revenu national (le « ministre ») ou déposé auprès de la Cour canadienne de l’impôt avant les dates suivantes au plus tôt : (i) le 16 juillet 2015 pour les années d’imposition 1998 et 2002; et (ii) le 29 avril 2016 pour les autres années, et seulement au moyen d’un renvoi à la phrase « et autres années fiscales ». À une étape antérieure du litige, les représentants de la succession ont mentionné, bien que ce soit en termes simples, la possibilité que certaines déclarations de revenus et d’autres documents aient été préparés et produits à l’insu d’Anna ou sans son consentement pendant qu’elle était en vie. Au centre des allégations de production non autorisée se trouve l’affirmation consécutive selon laquelle la succession n’avait pas de renseignements de base sur les années en litige. Dans le même ordre d’idées, la succession ne pouvait obtenir facilement la documentation nécessaire pour déterminer quelles années d’imposition étaient touchées par la nouvelle cotisation afin de bien vérifier et formuler la demande. Toutefois, dès mars 2017, la Cour était bien consciente du manque de renseignements qui empêchait la succession de préciser les années d’appel visées. L’avocat de l’intimée était du même avis à l’époque. D’où, la désignation des « autres années d’imposition » par la succession. De plus, c’est le fondement sur lequel la Cour est prête à statuer qu’après cette date particulière de comparution, chaque année en litige devant la Cour a été suffisamment identifiée.
+Capacité mentale d’Anna
+[4] À l’audience relative à la demande, les trois enfants d’Anna, qui, par coïncidence, sont des fiduciaires de sa succession, ont témoigné au sujet de l’état mental et physique de leur mère, de ses connaissances générales et de sa capacité de parler et de comprendre l’anglais, ainsi que de ses allées et venues dans l’entreprise familiale. Lionel Newton a également témoigné. Il est un comptable agréé et a été le « comptable général » pendant la période de référence pertinente en ce qui concerne Anna, ses beaux-frères rivaux et l’entreprise familiale. Un agent du contentieux de l’Agence du revenu du Canada (ARC) a témoigné par vidéoconférence au sujet de l’historique de production et des nouvelles cotisations d’Anna comme le montrent les dossiers de l’ARC. Il est intéressant de noter dans cette demande que, jusqu’à ce que des dossiers soient communiqués par l’ARC, la succession était nettement désavantagée sur le plan des connaissances des antécédents de cotisation d’Anna au sujet des années qui devraient être contestées.
+Documentation médicale
+[5] L’état de santé d’Anna est un facteur important dans cette demande. La santé d’Anna s’est détériorée de façon progressive à compter du décès de son mari, John, en 1995, jusqu’à son propre décès, le 5 octobre 2004. Divers documents médicaux ont été versés en preuve faisant état de la lutte qu’Anna a menée contre la dépression à compter du décès son mari et du traitement médical subséquent pour un cancer du sein agressif et métastatique diagnostiqué à l’automne 2002. Les mentions tout au long de la documentation font état de ses oublis, de son manque de compréhension de l’anglais et de son découragement général.
+Le conflit familial amer
+[6] Au cours de la même période, il y a eu un conflit amer dans l’entreprise familiale. L’entreprise familiale Dupont Construction Supplies Limited (« Dupont ») appartenait indirectement à Anna et à ses deux beaux-frères. Les trois détenaient des parts égales dans Ntakos Holdings Limited (« Holdings »), la société mère de Dupont. Les deux frères (« Ted » et « Gus »), jusqu’à leur dispute, dirigeaient Dupont comme s’il s’agissait de leur propre fief. Ils déterminaient le revenu, les primes et les dividendes qui seraient déclarés. Il est clair qu’Anna ne faisait qu’emboîter le pas après le décès de son mari. Le principal différend entre Ted et Gus a éclaté au sujet de la réaffectation des comptes de prêts aux actionnaires selon la formule « contribuant/bénéficiaire réel » plutôt que selon la « règle empirique » qui s’appliquait auparavant et qui répartissait à égalité ces prêts et avantages aux actionnaires. Une telle réaffectation aurait considérablement profité à Gus, dans une moindre mesure à Anna et aurait considérablement désavantagé Ted. Comme on pouvait s’y attendre, Ted ne le souhaitait pas. La majeure partie des discussions litigieuses sur la réaffectation et les mesures qui en ont découlé ont été entreprises collectivement par le cabinet comptable de M. Newton.
+[7] Les filles d’Anna, qui travaillaient comme commis-comptables à Dupont, ont été convoquées en mai 2002 à une rencontre avec leurs oncles Gus et Ted. Les deux oncles et M. Newton leur ont décrit le différend en termes voilés. Peu de problèmes ont été résolus. Les filles, confrontées pour la première fois à la nature de la querelle, n’ont accordé aucun pouvoir pour prendre d’autres mesures. Les témoignages ont révélé que Ted et Gus ont principalement eu recours aux services d’un comptable « digne de confiance » de l’extérieur pour régler leurs problèmes relatifs à l’actionnariat, à la gestion et à leur qualité d’administrateur. Anna avait la connaissance essentielle des détails précis concernant les avances aux actionnaires, les avantages sociaux, les frais de gestion et les primes versées aux administrateurs. Quoi qu’il en soit, personne n’avait l’autorisation légale d’Anna, qui n’avait pas encore reçu de diagnostic de cancer, pour régler l’âpre différend en son nom.
+[8] En fin de compte, la position fiscale d’Anna a subi le contrecoup d’incidences fiscales de cette bataille intestine. En 2003, et plus précisément en avril et en mai de la même année, diverses productions (les « productions de 2003 ») ont été faites auprès du ministre au nom d’Anna, comme le montre le tableau ci-dessus. Elles ont été préparées par M. Newton. Elles faisaient état de divers avantages accrus qui lui étaient attribués par Dupont ou Holdings sous forme de frais de gestion et d’autres revenus d’emploi visant les années d’imposition 1998, 2001 et 2002. Le ministre a établi de nouvelles cotisations à l’endroit d’Anna en se fondant sur les productions de 2003.
+II. Les questions en litige
+[9] Les questions cernées dans la présente demande, qui ne peut tenir compte du bien-fondé de nouvelles cotisations qui subsistent, à moins qu’elles n’aient gain de cause, sont les suivantes :
+1. Anna a-t-elle signé, autorisé ou produit des déclarations ou des demandes de redressement (« déclarations ») ou avait-t-elle la capacité légale de le faire aux dates décrites ci-dessus donnant lieu aux nouvelles cotisations pour les années contestées?;
+2. le cas échéant, le ministre a-t-il effectivement établi des nouvelles cotisations et les a-t-il envoyées à Anna conformément aux dispositions de la Loi de l’impôt sur le revenu, LRC 1985, ch. 1, telle que modifiée (la « Loi ») aux dates indiquées ci-dessus?
+III. Analyse
+L’opposition pour annuler la nouvelle cotisation n’est pas requise
+[10] Si Anna n’a pas produit ou accordé l’autorisation de produire une partie ou la totalité des déclarations [1] ou n’avait pas la capacité mentale de le faire [2] , elle n’avait pas besoin de s’y opposer. La doctrine non est factum s’applique lorsqu’une personne n’est pas capable à la fois de lire et de comprendre suffisamment un document. Indépendamment de la question de l’envoi réel des nouvelles cotisations, le ministre a établi de nouvelles cotisations à l’égard d’Anna fondées sur ses déclarations et des « déclarations modifiées » produites aux dates indiquées dans le tableau ci‑dessus. Cela a été reconnu par l’avocat de l’intimée qui, concurremment et logiquement, a exhorté la Cour à rejeter néanmoins les arguments de l’incapacité, de la production non autorisée ou de la déclaration fausse et trompeuse.
+Le fardeau imposé à Anna de démontrer l’incapacité ou de prouver la doctrine du non est factum
+[11] La Cour est d’accord avec l’avocat de l’intimée pour dire qu’il y a un lourd fardeau à décharger pour convaincre la Cour que l’incapacité mentale ou ce qui essentiellement constitue une déclaration fausse et trompeuse de l’habilité à agir devrait être acceptée [3] dans la présente demande.
+[12] En ce qui concerne la capacité mentale, il incombe à la succession de démontrer que pendant la période allant de juillet 2000 à mai 2003 (ou une partie de celle-ci), correspondant à toutes les années d'imposition contestées, Anna n'avait pas la capacité mentale suffisante pour comprendre la nature et la qualité de la production de ses diverses déclarations et demandes de modification au moment de leur signature [4] . Ou encore, que quelqu’un d’autre, sans son autorisation ou à son insu, l’a fait prétendument en son nom [5] .
+Preuve médicale concernant une possible période d’incapacité
+[13] Les éléments de preuve présentés devant la Cour par la succession, qui n’ont pas été réfutés par le ministère public, étaient, comme on s’y attendrait concernant une personne décédée depuis 14 ans, quelque peu généraux, anecdotiques et circonstanciels en ce qui concerne la question de l’état d’Anna. Toutefois, des notes et des rapports médicaux d’un médecin de famille, d’un médecin d’urgence et d’oncologues ont fait mention de l’état instable d’Anna sur les plans médical, physique et mental et de son incapacité de parler l’anglais. Ces éléments de preuve documentaire couvrent la période allant de l’automne 2002 jusqu’à son décès, mais non les deux années précédentes qui, autrement, constituaient toute la période contestée.
+Capacité existante pour certaines années faisant l’objet d’un appel
+[14] L’analyse des éléments de preuve présentés devant la Cour relativement au moment de l’incapacité permet de tirer certaines conclusions préliminaires. Premièrement, il n’y a pas suffisamment d’éléments de preuve pour conclure qu’Anna manquait de capacité mentale avant son diagnostic de cancer du sein métastatique à l’automne 2002 (la « date du diagnostic »). Toute détermination de l’incapacité mentale doit être fondée sur des faits et exister à la période et au moment de la production. Les éléments de preuve médicale, y compris la documentation qui fait mention de sa dépression, commencent à la date du diagnostic. Pour ce motif et compte tenu de la présomption légale de capacité en l’absence de preuve contraire, la Cour, avant d’examiner l’état mental d’Anna après la date du diagnostic, statue qu’Anna était apte lorsqu’elle a signé et produit ses déclarations de revenus de 1999 et 2000. Cette production a eu lieu en juillet ou en août 2000 et avant le 30 avril 2001, respectivement. La cotisation ou nouvelle cotisation pertinente pour les années d’imposition 1999 et 2000 a également eu lieu avant la date du diagnostic. Incidemment, ces dates sont beaucoup plus proches des dates d’exigibilité du solde que les productions de 2003 concernant d’autres années en litige. Par conséquent, si une nouvelle cotisation pour ces dates a effectivement été envoyée, le droit d’Anna de déposer une opposition et d’interjeter appel pour ces années est éteint.
+Aptitude d’Anna à comprendre après la date du diagnostic
+[15] Au-delà des éléments de preuve médicale documentaire contemporains concernant la période suivant la date du diagnostic, le reste des témoins factuels ont témoigné au sujet de l’état mental d’Anna de façon anecdotique. À l’exception de M. Newton, chaque témoin a indiqué qu’Anna était dans un état de confusion et de dépression depuis sa date de diagnostic jusqu’à son décès. Il était également très clair qu’elle ne pouvait pas lire l’anglais du tout et qu’elle le parlait très peu. Lorsqu’un problème d’ordre médical important survenait après la date du diagnostic, ses médecins traitants faisaient appel à un interprète grec. Il serait plus probable que cela soit également vrai pour la production de déclarations de revenus modifiées faisant état des frais de gestion ou d’autres sommes payés par Dupont ou Holdings. En ce qui concerne les aides factuelles accessoires ou les rappels au cours d’un examen ou d’une signature, Anna n’avait jamais travaillé pour Dupont et elle n’a probablement pas reçu les montants réels correspondant au salaire ou par chèque. Dans une procédure mettant en cause la réception par Anna de frais de gestion pour l’année d’imposition 2004, le juge Miller a conclu que la facturation et le paiement de ces sommes était une fiction [6] . Même si Anna avait bénéficié des services d’un interprète, dans son état déprimé et malade, tout compte fait, elle n’aurait probablement pas compris. Fait important, rien ne prouve que cela s’est produit.
+Témoignage incohérent du comptable
+[16] L’affirmation de M. Newton selon laquelle Anna était mentalement compétente ou comprenait l’anglais n’est pas convaincante comme réfutation. Premièrement, contrairement aux autres témoins et au personnel médical qui a rédigé les rapports, il n’a rencontré Anna qu’une seule fois. Deuxièmement, ses éléments de preuve, à l’instar de ses communications écrites antérieures produites à l’audience, ont semblé intéressés à la Cour. Les faits suivants donnent lieu à des incohérences et amènent la Cour à attribuer peu de poids au témoignage quant à la compréhension et à la compétence.
+[17] M. Newton a été incohérent sur la question de la capacité mentale d’Anna au fil des ans. À l’audience, il a dit qu’il l’avait trouvée attentive et qu’elle maîtrisait l’anglais, ou à tout le moins, qu’elle était capable de comprendre l’anglais lorsqu’il l’a rencontrée. En revanche, les notes au dossier que l’ARC a rédigées à l’époque et qui faisaient partie de l’affidavit de l’ARC indiquaient le contraire. Un agent de l’ARC a indiqué que M. Newton avait informé l’ARC le 20 février 2006 au sujet de l’année d’imposition 2003 d’Anna lorsqu’il a déclaré ce qui suit :
+[TRADUCTION] « la défunte » dans son état vulnérable a signé des documents peu avant son décès, datés du 8 juillet 2004, dans lesquels elle a accusé réception desdits frais. Les documents étaient en anglais [sic], langue dans laquelle la défunte avait une capacité limitée de lecture et d’écriture. La défunte n’avait pas bénéficié de conseils juridiques indépendants.
+On peut accorder plus de crédibilité à la déclaration faite par M. Newton à l’ARC seulement 18 mois après le décès d’Anna, plutôt qu’à la preuve de vive voix contraire donnée 14 ans plus tard devant la Cour. D’une façon ou d’une autre, les éléments de preuve sont contradictoires.
+Autorisation de production douteuse
+[18] En ce qui concerne le pouvoir de recevoir les instructions de Ted et Gus concernant les affaires d’Anna, M. Newton a rédigé lui-même un document qui laisse entendre que les intérêts d’Anna ont été négligés. En mai 2001, M. Newton a préparé à l’intention de Ted et Gus une lettre d’autorisation adressée au cabinet de M. Newton que celui-ci leur a demandé de signer. Cette autorisation proposée contenait les déclarations intéressées, mais contraires suivantes :
+1. [TRADUCTION] « les prêts aux actionnaires devraient être répartis entre Ted ..., Gus ... et Anna ... (veuve de John) ... Les allocations ont été discutées avec Anna ... et elle en comprend l’importance ...
+[…]
+3. Gus ou Ted ... ont le pouvoir de finaliser les états financiers et les déclarations de revenus au nom d’Anna ... »
+IV. Conclusion
+Qui produisait les déclarations et les modifications?
+[19] Curieusement, après avoir témoigné que lui et son cabinet avaient préparé les déclarations de revenus d’Anna au cours des années d’imposition précédentes, M. Newton a, le 11 avril 2003, informé Ted, Gus et Anna, par écrit, dans certaines correspondances, que l'ARC avait fait savoir qu'Anna n'avait pas déclaré une prime à la gestion indiquée dans une demande de redressement d’une T1 en 1998 d'un montant de 29 500 $. Il est incongru qu’Anna soit responsable d’une telle omission, étant donné que M. Newton a déclaré qu’il avait supervisé la préparation de la déclaration initiale. De plus, le cabinet de M. Newton n’avait eu recours à aucun moyen fiable et uniforme d’envoyer et de transmettre les renseignements à Anna sur la déclaration et la production. On a utilisé la livraison en mains propres, le service de messagerie et le courrier ordinaire. La correspondance était de manière fluctuante et occasionnelle envoyée aux trois actionnaires; à Dupont pour les actionnaires; et à l’un des frères pour les trois actionnaires. Le lieu où la correspondance a été reçue n’est pas connu. Dans l’ensemble, il est vraisemblable qu’Anna ne l’a pas reçue. Même si elle l’avait reçue, après la date du diagnostic, la question de la capacité demeure.
+[20] De la même façon, M. Newton a indiqué qu’il était possible que son cabinet ait déposé les redressements à une T1 comprenant les productions de 2003 directement au nom d’Anna. Si c’est le cas, d’après les éléments de preuve susmentionnés, la Cour est d’avis qu’il est plus probable que les instructions en ce sens n’ont pas été données par Anna ou une personne autorisée en son nom. Cela est vrai, même si elle avait la capacité de donner de telles instructions ou autorisations. Les instructions venaient probablement de Ted ou Gus. La confirmation d’autorisation proposée au paragraphe 3 décrite au paragraphe 17 ci-dessus en témoigne. Aucun élément de preuve n’a été présenté à la Cour selon lequel une personne autre qu’Anna avait le pouvoir de produire des déclarations ou des demandes de redressement en son nom au cours de la période concernée. De plus, il est probable qu’elle ne l’a pas fait elle-même après la date du diagnostic. Même si elle l’avait fait, elle n’avait pas la capacité de le faire.
+Certaines nouvelles cotisations doivent être annulées
+[21] Cette étrange combinaison de maladie en phase terminale, de capacité mentale, de vulnérabilité et de déclaration fausse et trompeuse de l’habilité d’agir oblige la Cour à agir. La présence combinée de ces faits est évidente, à savoir les éléments de preuve constants de la part de ceux qui connaissaient Anna le mieux ou qui l’avaient soignée pour des raisons médicales, les éléments de preuve concernant les instructions distrayantes, intéressées et dominantes que Gus et Ted donnaient à M. Newton, ainsi que l’étrange interaction entre la capacité mentale, la maladie en phase terminale et la déclaration fausse et trompeuse de l’habilité d’agir. Pour ces motifs, la Cour est disposée à conclure, dans l’ensemble, qu’Anna, à compter de la date de son diagnostic, n’avait pas la capacité mentale de signer ou n’a pas signé et déposé les productions de 2003 : les demandes de redressement d’une T1 d’avril 2003 concernant son année d'imposition et les demandes de redressements d’une T1 du 27 mai 2003 se rapportant aux années d'imposition 2001 et 2002. Par conséquent, les avis de nouvelles cotisations en réponse aux productions de 2003, respectivement datés du 24 février 2004 et du 8 mai 2003 pour l’année d’imposition 1999, du 14 octobre 2003 pour l’année d’imposition 2001 et du 14 octobre 2003 pour l’année d’imposition 2002, étaient nuls [7] . Les productions de 2003 n’étaient pas susceptibles de faire l’objet d’une nouvelle cotisation. Par conséquent, les nouvelles cotisations étaient consécutives à des productions invalides ou illégales et établies par le ministre en vertu d’une erreur de fait innocente. Par conséquent, il n’était pas nécessaire de s’opposer aux nouvelles cotisations nulles. Exclusivement, la question de la validité d’une déclaration et de la nouvelle cotisation recevable relève de la compétence de la Cour [8] .
+Il est vraisemblable que toutes les nouvelles cotisations ont été envoyées par le ministre
+[22] En ce qui concerne les années d’imposition 1999 et 2000, la Cour ne peut pas le déterminer. Ces années sont antérieures à la période d’incapacité probable (c.-à-d. la date du diagnostic) et à l’inaptitude ou à l’incapacité à donner l’autorisation de produire une déclaration. Il n’est pas nécessaire de traiter en détail de l’envoi réel de la cotisation ou de la nouvelle cotisation de 1999 et 2000 par le ministre. À la lumière des éléments de preuve recueillis par l’intimée, lesquels ont été présentés lors de témoignages par l’ARC, il est plus que probable que ces nouvelles cotisations ont été envoyées par le ministre le 5 septembre 2000 et le 1er juin 2001 à l’adresse actuelle de la contribuable. Cela vaut également pour les cotisations initiales et pour les années d’imposition 1999, 2001 et 2002, ainsi que pour les nouvelles cotisations en réponse aux productions de 2003. La dernière concernant les productions de 2003 a simplement été établie en conséquence d’erreur de fait. Les anciennes dates de production et d’envoi sont toutes antérieures à la date du diagnostic d’Anna et avant l’apogée des querelles acerbes et acrimonieuses et des répercussions entre Ted et Gus qui ont mené aux productions de 2003. L’état du droit est tel que la réception et l’examen par Anna ne sont pas pertinents [9] si la (nouvelle cotisation) en question a été établie et envoyée. Les éléments de preuve à cet égard ont été présentés à la Cour au moyen d’affidavits et de réponses données en contre-interrogatoire par le témoin de l’ARC. La question de savoir si les résumés de l’option C ont été reçus par la succession en 2012 n’est pas non plus pertinente par rapport aux cotisations initiales, puisque la Cour conclut qu’ils ont été envoyés. Pour ces motifs, une demande de prorogation du délai pour déposer un avis d’opposition en raison d’allégations de non-réception des avis de cotisation ou de nouvelle cotisation ne peut être accueillie pour les années d’imposition 1999 et 2000.
+[23] La mesure de réparation initiale sollicitait en partie une ordonnance visant à prolonger le délai de dépôt d’un avis d’opposition pour les cinq années d’imposition. La demande contenait également des arguments demandant que les nouvelles cotisations soient infirmées au motif qu’elles donnaient suite à des demandes de modification ou à des déclarations pour les années d’imposition qui étaient nulles et non avenues. Une telle détermination a été faite uniquement à l’égard des productions de 2003 concernant les années d’imposition 1998, 2001 et 2002. Par conséquent, les cotisations antérieures pour ces années seront rétablies [10] et sont maintenant en vigueur. La Cour n’est pas au courant des répercussions que cela pourrait avoir et c’est normal. Ces (nouvelles) cotisations initiales ont été validement envoyées en réponse à des productions authentiques. Aucun élément de preuve n’a été présenté au sujet de l’état de ces (nouvelles) cotisations initiales.
+Ordonnance à rendre - - Résumé
+[24] Pour les motifs qui précèdent, une ordonnance sera rendue annulant les (nouvelles) cotisations en vigueur pour les années d’imposition 1998, 2001 et 2002, lesquelles, à leur tour, avaient été établies en réponse aux productions nulles de 2003. La demande de prolongation du délai pour le dépôt d’un avis d’opposition n’est pas nécessaire pour les nouvelles cotisations en réponse aux productions de 2003 puisqu’aucune opposition n’était requise. Une telle demande est rejetée concernant les nouvelles cotisations en vigueur pour les années d’imposition 1999 et 2000.
+[25] À la lumière des résultats mitigés de la demande, la Cour ne rend aucune ordonnance quant aux dépens.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2018.
+« R. S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2018 CCI 224
+No DU DOSSIER DE LA COUR :
+2017-2946(IT)APP
+INTITULÉ :
+LA SUCCESSION DE FEU ANNA NTAKOS ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+TORONTO (ONTARIO)
+DATE DE L’AUDIENCE :
+Le 14 septembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 14 novembre 2018
+COMPARUTIONS :
+Avocat de la requérante :
+Richard Yasny
+Avocat de l’intimée :
+Eric Myles
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante : Richard Yasny
+Nom :
+Richard Yasny Droit fiscal
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Gyimah c SMR, 2010 CCI 621 aux paragraphes 40, 41 et 43
+[2] Kanakas c SMR, 1995 CarswellNat 1946 CCI, au paragraphe 8, adoptant Sanders v Anglea Building Supply [1971] AC 1004 (HL).
+[3] Baird Estate, Inre 2017 CarswellNat 530, au paragraphe 14.
+[4] Wiens c. SMR, 2011 CCI 152, au paragraphe 23.
+[5] ARPEG Holdings Ltd. c Canada, 2008 CAF 31, au paragraphe 15.
+[6] La succession de feu Anna Ntakos c SMR, 2012 CCI 409.
+[7] Baytex Energy Ltd. v Canada, 2015 ABQB 278, au paragraphe 66.
+[8] Canada c Roitman, 2006 CAF 266 aux paragraphes 24 et 25.
+[9] Rossi c SMR, 2015 CAF 267, au paragraphe 7.
+[10] Lomport Investments Ltd. v R [1992] 1 CTC 351, au paragraphe 8.

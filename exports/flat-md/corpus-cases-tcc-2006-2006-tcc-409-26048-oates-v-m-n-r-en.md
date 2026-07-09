@@ -1,0 +1,275 @@
+---
+title: "Oates v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26048/index.do"
+last_modified: "2006-07-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 409"
+citation2: ""
+neutral_citation: "2006 TCC 409"
+decision_date: "2006-07-27"
+language: "en"
+item_id: "26048"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4108
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:53:01.443000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f9c62244c5b574f52ce0152955f0ecae443d8808d6e29b4bea6e1d07b164da66"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Oates v. M.N.R.
+
+- Citation: 2006 TCC 409
+- Decision date: 2006-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4108, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oates v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-27
+Neutral citation
+2006 TCC 409
+File numbers
+2005-2663(EI)
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2005-2663(EI)
+BETWEEN:
+NELSON OATES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+OATES CONSTRUCTION LIMITED,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Nelson Oates (2005-2664(CPP)) on May 29, 2006,
+at St. John's, Newfoundland and Labrador.
+Before: The Honourable Justice T. E. Margeson
+Appearances:
+Counsel for the Appellant:
+William Morrow
+Counsel for the Respondent:
+Lisa M. Wight
+Agent for the Intervener
+Seandelle Pike
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed.
+Signed at New Glasgow, Nova Scotia, this 27th day of July 2006.
+"T. E. Margeson"
+Margeson J.
+Docket: 2005-2664(CPP)
+BETWEEN:
+NELSON OATES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+OATES CONSTRUCTION LIMITED,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Nelson Oates, (2005-2663(EI)) on May 29, 2006,
+at St. John's, Newfoundland and Labrador.
+Before: The Honourable Justice T. E. Margeson
+Appearances:
+Counsel for the Appellant:
+William Morrow
+Counsel for the Respondent:
+Lisa M. Wight
+Agent for the Intervener
+Seandelle Pike
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision and assessment of the Minster is confirmed.
+Signed at New Glasgow, Nova Scotia, this 27th day of July 2006.
+"T. E. Margeson"
+Margeson J.
+Citation: 2006TCC409
+Date: 20060727
+Dockets: 2005-2663(EI)
+2005-2664(CPP)
+BETWEEN:
+NELSON OATES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+OATES CONSTRUCTION LIMITED,
+Intervener.
+REASONS FOR JUDGMENT
+Margeson J.
+[1] The Appellant appealed from a decision of the Minister that he was not employed in insurable employment while engaged by Oates Construction Limited ("Payor") for the period from January 6, 2003 to November 22, 2003 ("period under appeal") within the meaning of the Employment Insurance Act ("Act").
+[2] Nelson Oates testified that he lived in Bay Roberts, Newfoundland and Labradorand was 58 years of age. He has three children including Seandelle Pike. He had been involved with the Payor since incorporation. He said that he went to work for his daughter Seandelle Pike after she inherited her grandmother's share interest in the Payor.
+[3] Exhibit R-1 showed that the Payor was incorporated in 1983 and the original shareholders were the Appellant's mother, wife and himself. His mother held 80 shares, his wife held 10 and he held 10. He admitted that his wife takes no part in the Payor and knows nothing about his business. Exhibit R-1 was admitted by consent of the parties.
+[4] The Appellant was referred to Tabs 3 and 5 of Exhibit R-1 and admitted that he had signed both of these questionnaires. He did not speak personally with anybody from Canada Revenue Agency ("CRA") with respect to this matter.
+[5] With respect to his work for the Payor; he goes to the site to look at jobs, picks up material, oversees the work, does some work and in essence does whatever needs to be done. He helps his daughter complete the bids. She was not familiar with the bidding process but they made up the tenders together. Their work is located chiefly in Newfoundland and Labrador and 75% of the work is done for the Newfoundlandand Labrador Housing Commission.
+[6] If there is a disagreement over the bid then his daughter, Seandelle, has the last say. If the contract was under $500, he would just go and do the job without any consultation with her. The Payor also does medium and large jobs.
+[7] He had no set hours of work but if there is work there they work 10 to 12 hours per day six days per week. In winter they only do necessary jobs and put the rest on hold until spring comes. He usually works 10 hours per day, six days a week, and sometimes works from 8:00 a.m. to 8:00 p.m. Seandelle was always telling him not to go too low on jobs. She did not show him how to do the work. Sometimes they may have two or three other employees and sometimes they "sub-out" some of the work. Seandelle knows about the subcontracting out of work.
+[8] He was paid over $800 per week but had some difficulty in saying exactly what that was. He did say that it was straight pay and it was not based on hours of work. Then he said that it did depend on the hours that he worked. If there was no work he knows that he is going to be laid-off but Seandelle makes that decision.
+[9] Seandelle has the authority for the Payor and for any contract of over $10,000 ("she is into it"). She has the final word with respect to hiring.
+[10] He reiterated one incident when Seandelle made him fire a person that had worked for the Payor. He did not want to do it. This worker was a family man. However, he was stealing from the Payor and the Appellant had to fire him. He talked the matter over with Seandelle and she made that decision.
+[11] He had signing authority for cheques and legal documents. The Payor has a part-time bookkeeper who has been working with it for about 10 years. Her work is reviewed by Seandelle as well. Building materials are bought by him and paid for by Seandelle.
+[12] He had a Visa card of the Payor with his name on it as well as that of the Payor. He has made personal use of the card in the past and then paid the money back the next day or so to the Payor. The Aeroplan miles that are received from the account go on to the Payor's account.
+[13] His counsel referred him to paragraph 10(s) of the Reply to the Notice of Appeal, which was an allegation that the Appellant had signed a personal guarantee in favour of Kent Building Supplies to secure a line of credit for the Payor. He denied that he signed this card personally and it was his position that he was only confirming that the Payor will pay the account.
+[14] He denied the allegation in paragraph 10(r) that he signed loans on behalf of the Payor and had pledged his and his spouse's family home as collateral. He said that the Payor owns the units that are pledged with respect to the loans and there is nothing personal about those loans. His wife has nothing to do with the Payor and if she said that his personal property had been pledged as security for the Payor's debts, she was wrong.
+[15] In cross-examination, he admitted that his mother was 73 years of age when she was alleged to have started the Payor. The older daughter made the decisions for his mother when she was running the Payor. His job has always been the same with the Payor since the beginning. Seandelle has some knowledge of construction and has gone to the job site. However, she depends on him for his expertise. She is a nurse and has a full-time job.
+[16] He was familiar with the documents found in Exhibit R-1 at Tabs 2, 3, 4 and 5. The questionnaires for both the worker and the Payor were signed by him and completed by the accountant. When asked why Seandelle did not sign the documents he said that it was an honest mistake.
+[17] His home address and the Payor's address were the same and the invoices also contained the address of his personal residence. The Payor's telephone number and his own are the same. The Record of Employment at Tab 6 showed that the reason for his layoff was shortage of work.
+[18] Further, the Application for Benefits at Tab 7 was signed by him. The Payor's records at Tab 8 showed that his son, Wade Oates, was on the payroll in December of the years in question while he was not. He received employment insurance during the period he was working sporadically for four hours more or less per week.
+[19] He admitted that he was injured on October 1, 2003 and had applied for Workman's Compensation benefits from November 26 of that year. He was waiting for surgery but he kept on working because he did not receive the benefits up to that time. When he was laid off by the Payor he did not do manual labour but did sign cheques. All three of the shareholders had signing authority on some bank accounts. The Payor also had a bank account at the Bank of Nova Scotia, a line of credit and a bank account at the Bank of Montreal and credit cards with CIBC. He, his wife and Seandelle all had signing authority on these accounts, except the Bank of Montreal account where only he and his wife had signing authority. Seandelle did not have signing authority on this account.
+[20] He identified the Payor's general ledger report located at Tab 14 of Exhibit R-1. He was unsure of what the Scotialine Visa payment of $24.93 was for which was dated May 9, 2003 and the same applied to the Classic Visa payment which was made on September 5, 2003 on his and his wife's own Classic Visa cards and Scotialine Visa cards. He suggested that the Payor was merely paying him back for purchases that he had made on behalf of the Corporation. Further, a payment by the Corporation for Linda was merely paying back accounts that she had paid out for the Payor.
+[21] He was shown a cheque made payable to him by the Payor dated February 7, 2003 for $500. He said that the Payor was merely paying him back money that it owed him. Further, a payment made to him on May 15, 2003 for $100 "could have been reimbursed". He admitted that he had personally guaranteed debts of the Payor but then said that he did not know that he had.
+[22] He was referred to question 29 at Tab 3 of Exhibit R-1. He said that he is not certain that he personally guaranteed the Payor's debts. He referred to Exhibit R-4, the guarantee to Kent Building Supplies, signed by him and said that he was only applying for a line of credit for the Payor and he was only guaranteeing that the Payor would pay the debt. He did talk to "Cassie" at CRA but said this was not about the Payor's matters. He also talked to his daughter about releasing the Payor's documents to CRA.
+[23] There were two or three other people that worked for the Payor and they did not sign any personal guarantees.
+[24] In redirect he said that the accountant prepared the two questionnaires and he signed them.
+[25] His Record of Employment was also signed by the accountant. With respect to the complications created by his hernia operation, he said that there were times that he could work and times that he could not work.
+[26] Seandelle Pike testified that she was an intensive care nurse. She was a shareholder of the Payor and has been so since 1995 when her grandmother died and she inherited her shares. She was 24 years of age when this happened.
+[27] The Minister's allegations contained in the Reply at paragraph 10(b) were not correct. Indeed the Payor's share structure has changed since its incorporation in 1983 but it has not changed since 1995 when she became an 80% shareholder. She had never been interviewed by CRA with respect to this matter. She talked to her father about someone calling from CRA requiring information from the bookkeeper. She did not think that they should have the information.
+[28] After further consultation, she told her father to "let it go".
+[29] She oversees everything with respect to the Payor. It was left to her by her grandmother. Her duties include taking instructions and "overseeing everything". Her father goes to the job site. She exercised control over her father. She told him not to hire someone at one point in time. If a job comes up and the Payor needs an electrician and her father knows one, he takes it up with her first. She attends the Payor's office on a regular basis talking to her father and the workers. The Payor pays no rent to her father for the use of its office and its premises.
+[30] If a tender is presented her father contacts her and they "do up the price together". She has the last say since they last had a bad experience in Labradorwhere a contract had been improperly bid and they lost money on it.
+[31] She and her father have "lots of disagreements" about things such as the hourly rate; where to get materials and whether these materials might be obtained cheaper. She has overruled her father on less than 20 bids.
+[32] Her father is paid $22 per hour and she would decide if there was to be any change in his rate. He is laid off if there is no work. During the time when he was affected by the hernia he was able to work until such time as he had the surgery. This took place on November 25, 2003 and that was the last day that he worked.
+[33] She signed the cheques, the Worker's Compensation forms and HRDC forms. Her father signs a lot of cheques because she works and a lot of it is merely as a convenience to her. She is always involved with the books. She is aware of other dealings that her father does with government agencies. She does not obtain any financial remuneration from the Payor. She regards her position as being an investment and it is a long-term prospect for her since she does not expect to be working too long due to her physical condition.
+[34] In cross-examination she said that she could not run the Payor without her father's help. She was in control of the Payor under her parents' guidance. She was asked why her father signed the questionnaire on behalf of CRA. She said that she must have been busy and she wanted to have it sent out right away. She was unaware of whether her father had signed any personal guarantees. She did not have any signing authority on the Bank of Montreal line of credit because it was not used too much. Mrs. Mercer, the bookkeeper, has been with the Payor for 11 to 12 years. Mrs. Mercer does not have signing authority because she does not have to sign anything.
+[35] She would have to hire someone else to replace her father and they would not have authority to sign documents as her father does. They would not be able to sign their own paycheques. In the last couple of years she would have been able to prepare a bid for the Payor with the assistance of others.
+[36] The Court asked the witness some questions. Counsel for the Appellant was permitted to ask the witness further questions and she said that her father gets a bit embarrassed by not understanding legal documents and that is why he may perfer not to have information about them.
+[37] The Court permitted the Appellant to go back on the stand with respect to a missed question after the Court had asked the questions and the Appellant said that he had grade 8 schooling and upgraded himself to grade 11.
+[38] Titanya Mercer testified that she was an employee of the Payor and has been such for 18 years. She occupies the same position as bookkeeper that she did when she started. She was responsible for posting, doing the payroll, paying bills, dealing with accounts receivable and accounts payable and reconciliations.
+[39] Seandelle is active in the Payor. She oversees things. She is involved in large bids. She does not question the witness over the Payor's business. She will check out to see if there will be a profit. She was shown Exhibit R-4, the guarantee, purportedly signed by the Appellant and she said that she never saw him sign a personal guarantee. She would not believe that he would do it. He just oversees all bids and is sort of a foreman on the job. She has seen Seandelle overrule the Appellant. She also remembered an occasion where the Appellant wanted to hire someone else and Seandelle said no. Linda Oates did nothing for the Payor.
+[40] In cross-examination she said that she had no signing authority and never did work when she was not on the payroll. She never guaranteed any Payor's debt. She dealt mostly with Mr. Oates. She was referred to Tab 14 of Exhibit R-1, the general ledger report of the Payor, and referred to particular entries in the accounts. She said that she was not quite sure what they were for but believed it was something that Mr. Oates had purchased on a credit card and the Payor was paying him back. She said that he "would have put it on his personal card".
+Argument on Behalf of the Appellant
+[41] Counsel for the Appellant said that this was the most inept investigation that he had ever experienced in all of his years of practice. The Minister even made an error with respect to the proper listing of shareholders. They spoke to Linda Oates who had nothing to do with the Payor. The Appellant was a shareholder of the Payor and there was nothing sinister about it paying a shareholder's debts. There is nothing sinister about the Payor having an office in the Appellant's home.
+[42] Why did the Minister not obtain the documents relative to the mortgage which had been referred to in the evidence? With respect to the guarantee, he raised some questions as to the legality of the guarantee. He said that the guarantee does not indicate at the outset that it is a personal guarantee. That is not the way that it is now done. A guarantee should set out whether it is a personal guarantee or some other form of guarantee.
+[43] The Minister is attempting to show that this whole arrangement was a sham arrangement. The presumption set out in paragraph 10(l) of the Reply was incorrect. This was a family business. It was not strange that a non-family member would not have as much respect as a family member. There was a valid contract of service in existence.
+[44] Someone had to do the Appellant's job; the rate of pay was reasonable; he received no other benefits; the fact that he had a hernia and could not work for part of the period of time was not out of the ordinary; the Visa payment made on his behalf on his credit card was explained.
+[45] The appeals will be allowed and the Minister's decision reversed.
+[46] There are obvious errors in the presumptions; the presumptions are inconsistent with the laws; the presumptions were not well-founded; paragraph 10(b) of the Reply was incorrect; the Appellant was controlled by the Payor; he was monitored by the Payor; there was not one document to support the assumption found in paragraph 10(r) that the Appellant had signed loans for or on behalf of the Payor and pledged his and his spouse's family home as collateral to secure the loan; the conclusions that the Minister reached were not consistent with the facts.
+[47] He referred to the well-known case of Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553. It said that the Court must consider all the facts. It is the total relationship between the parties which is of significance.
+[48] He referred to the case of Fleury v. M.N.R., No. A-330-85, Federal Court of Appeal, February 20, 1986 in support of his position that there was a contract of service in existence here and that all of the features of contract of service were present. Further, he referred to the case of Freddie Caron v. M.N.R., 78 N.R. at page 13 in support of his position.
+[49] There was no evidence that the contract of service in the case at bar was any different from a contract of service which would have been entered into with parties dealing with each other at arm's length. In reference to the lack of documentation being presented to the Court, which had been referred to in the evidence, he was recently retained and perhaps he should have brought in these documents.
+Argument on Behalf of the Respondent
+[50] Responding to the Appellant's reference to the inept investigation, counsel said that Mr. Oakes spoke to Cathy Gillis at CRA and the accountant. If the investigation was that bad, the Minister would not have been able to obtain the information that he did.
+[51] The Appellant has not brought in the mortgage that was referred to which was allegedly a personal guarantee of the Payor's debt by the Appellant and his wife. It was not the Minister's job to bring this in. The questionnaire gave the information to the Minister and the Minister was entitled to rely upon it. Presumptions are to be accepted until their efficacy is destroyed.
+[52] With respect to the Reply to Notice of Appeal, almost all of the presumptions contained in the Reply have been accepted with the exception of paragraph 10(b); (l); (o); (but this was shown by the evidence); (2); (however the evidence showed that funds were advanced by the Appellant in favour of the Payor); (r) (however the evidence showed that the Appellant did sign loans). The Appellant did not put the mortgage into evidence; (s) was proved and (t) was proved. The only error that was found in the Reply was in (b) and this was inconsequential.
+[53] Counsel argued that there are two issues in this case. (1) Was there a contract of service? (2) Was this excepted employment? The Appellant is a 10% owner of the Payor and the family owns the rest. The daughter controls the Payor according to the shares and purportedly does so in fact.
+[54] She referred to her Book of Authorities on the issue of contract of service, referred to the provisions of paragraph 5(1)(a) of the Employment Insurance Act ("Act") and proposed that there was no contract of service. There was no relationship of subordination. In Fournier v. Canada(Department of National Revenue), [1997] F.C.J. No. 211, she said that that case stands for the position that it was not necessary for the Minster to show that there was a contract for services in order to rule out the existence of a contract of service and an employee-employer relationship. Further, it was not the duty of the Minister to show that the relationship was that of a joint venture or some other form of relationship.
+[55] The factual situation in Fournier, supra, was more concisely set out in the Tax Court of Canada decision in Fournier, supra, which is found at [1995] T.C.J. No. 799. The facts in that case were quite similar to the case at bar. In that case the Court found that the Minister made the following assumptions of fact:
+(g) the Appellant was one of the Payor's principal shareholders;
+(h) the Appellant made a financial investment in the Payor, having pledged his family residence;
+(i) the Appellant having invested personally, the risk of loss was always present;
+(l) the Appellant had not shown that he was acting as a subordinate in performance of his work. In that case, the Court held that there was a total absence of evidence in relation to the subordination between the Appellant and the Payor during the periods in issue or that the Payor's supervisor controlled him in his work. The same is true here.
+[56] Further, the Court stated that the Appellant had the onus of establishing on a balance of probabilities that a true contract of service, resulting in an employee-employer relationship, existed between himself and the Payor during the periods in issue. Considering all of the circumstances, including the testimony, admissions and documentary evidence, the Court said that it was satisfied that the Appellant had failed to do so.
+[57] The same thing can be said in the case at bar. There was no subordination between Mr. Oates and the Payor. The majority shareholder had no signing authority on the Bank of Montreal account which was significant. Counsel asked the question, "What control was there?" The Appellant signed the cheques to himself; the Payor paid his personal Visa account and even though the allegation was that it was to repay his expenses paid out on behalf of the Payor, this may or may not have been the case.
+[58] The matter of control by the 80% shareholder was very questionable. If she was exercising her authority she would have had more control and she would have had signing authority on the Bank of Montreal account. If she had the control that she suggested she had she would have known about her non-signing authority long before the trial.
+[59] Nothing much changed in the role of the Appellant since the Payor was instituted from the time the grandmother had controlling interest in the Payor. However, the evidence showed that the grandmother had very little to do with the Payor when she was alive whereas the Appellant's role has not changed much. The majority shareholder, during the period in issue, had no training; she works at night and yet the Appellant wants us to believe that she controls the Payor. If there was a contractual relationship it was not a contract of service. The Payor did not exercise a sufficient degree of control over the Appellant.
+[60] With respect to the issue of profit and loss there is always a possibility of loss because of the personal guarantee and mortgages that the Appellant obligated himself to. Normal employees do not do this. You are not doing this as a shareholder. The matter of integration is not very important in this case because the Appellant's work was obviously integrated completely into the work of the Payor and the Payor could not have operated without him.
+[61] She also referred to Interprovincial Meat Sales Ltd. v. Canada (M.N.R.), [2002] T.C.J. No. 632. She said that in the case at bar, as there, a high level managerial position would not carry with it the unfettered right to sign cheques on the line of credit or an expectation for the Appellant to execute periodic personal guarantees on behalf of the Payor as the Bank required. She argued that there was no contractual relationship in existence whatever under the provisions of paragraph 5(1)(a) of the Act.
+[62] However, if there was a contract of service then it was excepted employment under the provisions of subparagraph 5(2)(i) of the Act. This was excluded employment under the provisions of paragraph 5(3)(b) of the Act.
+[63] She referred to the case of Birkland v. M.N.R., 2005 TCC 291 and argued that that case stands for the proposition that the main issue is whether or not the Minister's decision was reasonable under all of those circumstances.
+[64] In the case at bar, the questionnaires on behalf of the Payor and the employee were signed by the Appellant.
+[65] In Forget v. M.N.R. 2003 TCC 733 the letterhead of the company was similar to the letterhead of the Payor in the case at bar. The Appellant's address and telephone number were the same as that of the Payor. No payments were made by the Payor for its office in premises owned by the Appellant and his wife. He continued to work for the Payor for two months when he was injured. There is no way that an arm's length person would do this. The Appellant also signed cheques when he was not on the payroll and when he was on Worker's Compensation benefits. Further, he initially said that he was always paid and the evidence showed otherwise.
+[66] Counsel asked the question, "Why would the Appellant continue to sign if he was sick or if he was on Worker's Compensation as there are other people who could sign?" The employee, Ms. Mercier, said that she never goes in to sign cheques when she is on vacation. At least five cheques from the Bank of Montreal account were signed when the Appellant was not on the payroll.
+[67] The Appellant and his spouse used the CIBC Visa card of the Payor for their own purposes. The general journal shows that payroll cheques were signed by the Appellant, his own expense cheques were signed by him and the Payor paid his Visa bill and that of his wife. Even the bookkeeper did not have signing authority and she was working for the Payor for 18 years and was well-trusted.
+[68] The case of Hoobanoff Logging Ltd. v. M.N.R., 1999 CarswellNat 3187 and its factual situation is significant to the outcome of the present case, particularly paragraph 40 of that case. She relied intrinsically upon that case and said that the factual situation in the case at bar is most similar.
+[69] The appeal should be dismissed and the Minister's decision confirmed.
+[70] In reply counsel for the Appellant said the Minister has amended the Reply to some extent during the trial. Further, he said that the payment of the expenses by the Payor on behalf of the Appellant and his wife were really repayment of expenses put out by the Appellant and his wife on behalf of the Payor.
+Issues
+[71] (1) Was there a contract of service in existence between the Appellant and the Payor during the periods in question? (2) Was this employment excluded employment under the provisions of paragraph 5(2)(i) having due regard to the provisions of section 5(3)(a) and (b).
+[72] Counsel for the Appellant has indicated that this is the most inept investigation that he has ever seen during all of the time that he has been practicing law. To that end, he referred to the error in the shareholder's information that was set out in the Reply where it indicated that Linda Oates was a shareholder of the Payor whereas she had nothing to do with the Payor. Further, he complained that the Minister should have gathered more information about the circumstances underlying the alleged employment and should have brought into Court a number of legal documents such as the mortgages that were alleged to have been pledged against the Appellant's property in support of the Payor's debt.
+[73] He further concluded that the guarantee that was presented before the Court, signed by the Appellant, was not a valid and legal document in the province of Newfoundland and Labrador because it did not contain a notation on the text of the document that it was a personal guarantee and not otherwise.
+[74] The Court is not satisfied that this criticism is completely valid. It may very well have been preferable that the Minister would have made personal contact by way of interview with the Appellant and the other principals of the Payor. However, that is not absolutely necessary. It would not be unrealistic to think that that would not take place if the Minister was satisfied that he had sufficient information otherwise and he could make a reasonable decision in the matter.
+[75] In the case at bar, evidence pointed out that Mr. Oakes did have a personal conversation to some extent with Cathy Gillis from CRA and perhaps CRA had a conversation with the accountant. Otherwise, the Minister would not have had the information that he did as shown by the evidence. There was some form of contact between the Appellant, the Corporation and CRA.
+[76] It would appear from the evidence presented that the questionnaire was completed on behalf of the Payor and on behalf of the Appellant. The answers provided in those questionnaires were by people in authority and they would appear to have given the Minister sufficient information to make the decision.
+[77] The whole question is whether or not, under all those circumstances, as disclosed by the evidence, the decision of the Minister was reasonable. The point made by counsel for the Respondent that it is not the Minister's duty to bring in the missing documents was well taken. The law makes it clear that the Minister is entitled to rely upon the presumptions contained in the Reply, where they are presumptions of fact, until such time as they are destroyed. Often times the Minister does not call any evidence but is content to rely on these presumptions. It is the Minister's right to do so and if he chooses not to call evidence and the facts disclosed by the evidence confirm the presumptions contained in the Reply and are sufficient to ground the Minister's decision, no exception can be taken to that position.
+[78] On the other hand, it is the duty of the Appellant, in a case of this nature, to prove on a balance of probabilities that the Minister's decision was wrong. In this case, under the circumstances, it is his duty to show that the Minister's decision was unreasonable, having due regard to all of the circumstances as disclosed by the evidence. If the Appellant fails to bring in significant documents, such as the guarantees or the mortgages that were referred to in the evidence, and which are of significance, then he cannot complain that the Minister has failed to do so. Unfortunately for the Appellant the failure to put into evidence the documents that were of significance to his case, cannot be placed at the door step of the Minister.
+[79] The Court is well aware that counsel was recently retained in this matter and did not have sufficient time to prepare the case, although he did not wish to adjourn matters further. If he had more time, he may very well have put these documents before the Court. The Court can understand counsel's position, but at the same time, that does not assist the Court in interpreting the evidence before it.
+[80] With respect to the argument of the Appellant that the guarantee that was placed in evidence did not say that it was a personal guarantee or at least did not have that notation in the body of the document, it was clear from reading the document that it was indeed a personal guarantee of the Payor's debt by the Appellant. There could be no other reasonable interpretation of that document. The Court can find no legal weakness in it. It appears to be what it was purported to be by the Respondent.
+[81] With respect to the sham argument as referred to by counsel for the Appellant, the Court is satisfied that this argument is not being put forward by the Respondent and it will consider it no further. There was no evidence that this was a sham arrangement and indeed there was no argument to that effect.
+[82] Counsel for the Appellant opined that the presumption contained in paragraph 10(l) of the Reply, with respect to control, had been shown to be incorrect. Counsel for the Respondent on the other hand was satisfied that there was no supervision, control or monitoring of the work of the Appellant by the Payor. Counsel for the Respondent asked the question "was there control? Was there subordination of the Appellant to the Payor? Where was the evidence of control by the daughter over the actions of the Appellant?" The facts disclose that the majority shareholders had no signing authority on the Bank of Montreal account, which was of significance. The Appellant signed the cheques for himself; the Payor paid his personal Visa account (even though it may have been to repay him for the expenses he paid out on behalf of the Payor, or it may not have been).
+[83] In the very minimum, counsel for the Respondent said that the amount of control was questionable. Any 80% shareholder like Seandelle would have displayed more control over the Appellant, would have had more signing authority and she would have known about the fact that she did not have any signing authority on the Bank of Montreal account much earlier than she did. It would appear that she did not know about this until she came to Court or shortly beforehand.
+[84] Counsel for the Appellant was prepared to admit that this was a family business. However, he did not think it strange that a family member would have more respect in the running of the business than a non-family member. What he was forgetting is that when you have a situation where there is a non-arm's length relationship, the actions of the worker who is also a shareholder or family member is under greater scrutiny. The Payor must ensure that actions taken by the worker (shareholder) are consistent with the actions that any worker would take if it were an arm's length relationship in which he was acting as a worker and not a shareholder.
+[85] Counsel for the Appellant indicated that the rate of pay was reasonable. However, no evidence was put forward that would satisfy the Court that this was correct since very little changed in the running of the business since the time it was incorporated and the Appellant seemed to be in the same relative position that he was in from the beginning. There was no evidence that his salary had been changed. There was no evidence given as to how the salary had been arrived at.
+[86] The Court accepts the argument of the Respondent in saying that not much had changed in the role of the Appellant from the time that the grandmother had the majority of shares. It was quite obvious from the evidence that the grandmother played no part in the operation of the Payor at that time whereas the Appellant's role was significant and has continued to be so even to today.
+[87] The argument made by counsel for the Respondent that the majority shareholder had no training, that she works all night long and has a full time job; that she would have considerable difficulty controlling the Payor to any extent is well taken. The evidence indicates, in any event, that her decision-making authority was usually secondary to that of the Appellant.
+[88] Counsel for the Appellant said that the matter of the Visa payments has been clearly explained and that no untoward conclusion should be taken from his actions in that regard. However, the mere fact that the Appellant had a corporate credit card which he and his wife sometimes used for their own personal business even though they may have paid the money back to the Payor later on, is of some significance.
+[89] The Court is satisfied that all of the presumptions contained in the Reply have either been accepted or have been established by the evidence given in Court. Many of these presumptions are significant. The Court is satisfied that the Payor did not exercise a significant degree of control over the Appellant, nor indeed could it, because nobody other than the Appellant had sufficient knowledge about the work of the Corporation nor sufficient ability to perform the work that the Appellant performed, to do as he did.
+[90] With respect to profit and loss, the Court is satisfied that there was risk of loss on behalf of the Appellant for the debts of the Payor because he personally guaranteed at least the line of credit with Kent Homes and secondly, on the balance of probabilities the Court is satisfied that the mortgages on the family home also put him and his wife at risk. In that regard the Court considers the questionnaire which was completed by the Appellant himself on behalf of the employee. In question 29, the Appellant indicated that the estate of the Appellant and his wife were put up against loans owed by the Payor. Further, in the questionnaire completed on behalf of the Payor by the accountant, the form indicates that "the worker has signed, co-signed, or assumed personal liability for business loans, leases, agreements, contracts, etc. of the Payor's business" and it particularly referred to a CIBC mortgage in the amount of $191,000 and a Scotiabank loan in the amount of $21,000. The form was completed by the accountant of the Payor who was obviously well-respected by the Payor and whose information, one would think, would have been based upon documentation with which he was familiar.
+[91] In any event, the Court is satisfied that neither the evidence of the Appellant nor the evidence of any other person has dislodged this presumption. Indeed the evidence is overwhelming that there was personal liability by the Appellant on behalf of corporate debt.
+[92] Where the evidence of the Appellant or the evidence of his daughter or bookkeeper, is to the contrary, the Court accepts the other evidence as being more than likely correct and rejects the evidence of these three parties with respect to this liability.
+[93] On the basis of all of the evidence, the Court is satisfied that there was no contract of service in existence between the Appellant and the Payor during the period in question.
+[94] If there was a contract of service in existence then the issue is whether or not a similar contract of service would have been entered into with parties unrelated. The law on that makes it clear that the Court must decide whether or not the Minister was acting reasonably in making the decision that he did.
+[95] In that regard, the Court is satisfied that the Payor did not exercise any significant degree of control over the Appellant; that it could not exercise a sufficient degree of control over him as contemplated by Wiebe Door Services Ltd., supra, and the other cases in that regard. With respect to the question of profit and loss, the Court is satisfied that there was a significant possibility that the Appellant could suffer a loss because of his personal guarantees on the mortgages that he signed to guarantee the Payor's indebtedness.
+[96] It is obvious that in a normal employee-employer relationship, where parties deal with each other at arm's length, an employee would not act similarly. It was obvious that he was not doing this as a shareholder but he was doing it as a worker.
+[97] With respect to the question of integration, that is not an important consideration here because the work of the Appellant was certainly integrated into that of the Payor. Indeed, it could not act without him.
+[98] The Court also considers the fact that the letterhead of the Payor sets out the same location as that of the Appellant, their addresses and telephone numbers were the same. There was no indication that the Appellant received any remuneration for office space occupied by the Payor in his personal residence. It would normally not happen in an arm's length situation.
+[99] Further, the evidence disclosed that the Appellant continued to work for the Payor when he was injured. There is no way that a person dealing at arm's length would put himself at such a risk. One must look for other reasons as to why he would do this. Further, the Appellant signed cheques when he was not on the payroll and when he was on Worker's Compensation.
+[100] The Appellant indicated that at all times when he worked for the Payor, he was paid. However, the evidence disclosed otherwise.
+[101] One might ask why the Appellant would continue to sign cheques on behalf of the Payor when he was injured, even though the amount of work involved might be minimal. The bookkeeper said that she never went in to sign any cheques when she was on vacation.
+[102] The evidence disclosed that at least five cheques from the Bank of Montreal were signed when the Appellant was not on the payroll. This may not have required much effort but it is not something that one does in an arm's length situation. As indicated earlier the Appellant and his wife used the CIBC Visa card for their own purposes even though they may have paid back the amounts.
+[103] The evidence further disclosed, according to the general journal, that payroll cheques were signed by the Appellant, his own expense cheques were signed by him and the Payor paid the Visa bill for the Appellant and his wife.
+[104] It is of significance that the bookkeeper did not have signing authority on the accounts that the Appellant did and she had some 18 years of experience with the Payor and was obviously valued and trusted by all concerned.
+[105] As indicated by counsel for the Respondent in her argument, with reference to Fournier v. Canada, (Department of National Revenue), supra, the Court is satisfied that there is no need to find that there was a contract for services in order to rule out the existence of a contract of service and an employee-employer relationship. The duty is upon the Appellant to establish that there was a contract of service and not otherwise.
+[106] The case of Fournier v. Canada, supra, in the Tax Court, showed a similar factual situation to that shown in the case at bar. As there, this Court is satisfied that the Appellant has not shown that he was acting as a subordinate in the performance of his work.
+[107] The case of Hoobanoff Logging Ltd., supra, is also of some significance. In that case the Court concluded that where the Appellants signed guarantees, either in their capacity as shareholder or director, the fact that they did so showed that they were inextricably interwoven in their relationship with the Payor. "Their economic interests were tied to the Payor and those of the Payor's were tied to theirs, to such an extent that it could not be said that there was an independent or adverse economic interest existing between them. They were the operating mind of the Payor; they themselves were related and had a common family economic interest, which was indivisible from that of the Payor. This is exactly the situation contemplated by Parliament in setting up the employment insurance scheme, to exclude persons, who are operating or controlling their own businesses, in an entrepreneurial fashion, from participating in that scheme and being able to claim benefits if their employment fails".
+[108] This quotation is most apropos in the present case.
+[109] The Court is satisfied that the Appellant has failed to satisfy it on the balance of probabilities that there was (1) a contract of service or (2) if there was a contract of service that it was one that would have been entered into between parties who were unrelated. The Court is satisfied that the Minister's decision was reasonable under all of the circumstances.
+[110] The appeals are dismissed and the Minister's assessments are confirmed.
+Signed at New Glasgow, Nova Scotia, this 27th day of July 2006.
+"T. E. Margeson"
+Margeson J.
+CITATION: 2006TCC409
+COURT FILE NOS.: 2005-2663(EI) and 2005-2664(CPP)
+STYLE OF CAUSE: NELSON OATES AND M.N.R. AND OATES CONSTRUCTION LIMITED
+PLACE OF HEARING: St. John's, Newfoundland and Labrador
+DATE OF HEARING: May 29, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T. E. Margeson
+DATE OF JUDGMENT: July 27, 2006
+APPEARANCES:
+Counsel for the Appellant:
+William Morrow
+Counsel for the Respondent:
+Lisa M. Wight
+Agent for the Intervener
+Seandelle Pike
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:

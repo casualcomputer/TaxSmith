@@ -1,0 +1,1270 @@
+---
+title: "Garmeco Canada International Consulting Engineers Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/111004/index.do"
+last_modified: "2015-07-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 194"
+citation2: ""
+neutral_citation: "2015 TCC 194"
+decision_date: "2015-07-31"
+language: "en"
+item_id: "111004"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2620
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:14:22.533000+00:00"
+cases_cited_count: 7
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c012ae29875f1fa1c09f8dcd21d48f6e7bec9243ec7aa53fa32482f5dc011dd7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Garmeco Canada International Consulting Engineers Ltd. v. The Queen
+
+- Citation: 2015 TCC 194
+- Decision date: 2015-07-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2620, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Garmeco Canada International Consulting Engineers Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-07-31
+Neutral citation
+2015 TCC 194
+File numbers
+2014‑2582(GST)I, 2014-653(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-653(GST)I
+2014-2582(GST)I
+BETWEEN:
+GARMECO CANADA INTERNATIONAL
+CONSULTING ENGINEERS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 6, 2014, October 6 & 7, 2014 at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Roger Georges Abou-Rached
+Counsel for the Respondent:
+Matthew W. Turnell
+AMENDED JUDGMENT
+The appeal from the assessments under the Excise Tax Act for the periods dated April 1, 2010 to June 30, 2010, January 1, 2011 to March 31, 2011, April 1, 2011 to June 30, 2011, July 1, 2011 to September 30, 2011, October 1, 2011 to December 31, 2011, January 1, 2012 to March 31, 2012, April 1, 2012 to June 30, 2012, July 1, 2012 to September 30, 2012, October 1, 2012 to December 31, 2012 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to Input Tax Credits in the amount of $13.50 for the period ending September 30, 2011 and $19.59 for the period ending December 31, 2011.
+The appeal from the assessments under the Excise Tax Act for the periods from January 1, 2013 to March 31, 2013 and April 1, 2013 to June 30, 2013 is dismissed.
+Costs in the amount of $1,000.00 are awarded to the Respondent.
+This Judgment is issued in substitution for the Judgment dated July 31, 2015
+Signed at Halifax, Nova Scotia, this 12th day of August 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC194
+Date: 20150812
+Docket: 2014-653(GST)I
+2014-2582(GST)I
+BETWEEN:
+GARMECO CANADA INTERNATIONAL
+CONSULTING ENGINEERS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] These appeals relate to assessments under the Excise Tax Act (“ETA”) for the period April 1, 2010 to June 30, 2010 and the periods January 1, 2011 to June 30, 2013. In those periods, the Appellant claimed input tax credits (“ITCs”) in the total amount of $94,950.99 and the Minister of National Revenue (the “Minister”) denied ITCs in the amount of $29,156.97.
+[2] The ITCs at issue in this appeal mainly relate to legal fees and expenses for supplies. They were denied on the basis that they were not acquired for consumption or use in the course of the Appellant’s commercial activities. As a result, the nature of the Appellant’s commercial activities in 2012 and 2013 was an issue raised in this appeal.
+Preliminary Matter [3] At the beginning of the hearing, counsel for the Respondent conceded that further ITCs of $13.50 for the period ending September 30, 2011 and $19.59 for the period ending December 31, 2011 should be allowed. The representative for the Appellant conceded that an ITC in the amount of $59.94 for the period ending March 31, 2013 was properly disallowed.
+[4] The Appellant was represented by Roger Georges Abou-Rached. He stated that he was the President and CEO of the Appellant. The following witnesses were called by the Appellant:
+Roger Georges Abou-Rached (Mr. Rached);
+Douglas Bencze, accountant for Mr. Rached’s companies;
+Pauline Nagra, GST/HST auditor with the Canada Revenue Agency (“CRA”);
+Douglas Laporte, Audit Team Leader with CRA;
+Hendric Cheung, Appeals Officer with CRA.
+Facts [5] According to Mr. Rached, his family has incorporated in excess of 27 corporations. He described the corporate structure as the Garmeco Family of Companies which consisted of both domestic and international private corporations. He submitted an Organization Chart (exhibit A-1) which he stated showed the property ownership and share structure of the various corporations. According to the Organization Chart, Mr. Rached’s mother, Mrs. Hilda Georges Abou-Rached, is the sole shareholder in the Appellant and many of the other family corporations. International Hi-Tech Industries Inc. (“IHI”), a public corporation, and its subsidiaries were also included on the Organization Chart. Mr. Rached stated that IHI is not included in the Garmeco Family of Companies but his family owned shares in IHI. IHI and its subsidiaries are not related to the Garmeco Family of Companies.
+[6] Mr. Rached gave a detailed but rambling description of the events which preceded the Appellant claiming the ITCs in issue. A summary of his evidence follows.
+[7] Mr. Rached stated that he has his Masters in Engineering from Stanford University and his father was a professor of engineering. Mr. Rached and his father had developed a “revolutionary construction technology” which allowed them to construct customized buildings consisting of steel/concrete insulated panels which they manufactured in a factory. In Canada, all rights to the technology were transferred to R.A.R. Consultants, a company within the Garmeco Family of Companies. The Canadian rights to the technology were assigned to IHI which had land and a factory at 7393 Hopcott Road, Delta, British Columbia (“IHI factory”). IHI purchased robots from General Electric Capital Canada Inc., Fanuc Robotics Canada Ltd. and Fanuc Robotics North America Inc. (“Fanuc-GE”) to facilitate the construction of the panels. Mr. Rached stated that the robots did not operate properly and on March 26, 2002, IHI commenced an action against Fanuc-GE in the Supreme Court of British Columbia (exhibit A-19). IHI lost the action and was ordered to pay costs to Fanuc-GE.
+[8] Fanuc-GE obtained a judgment against IHI and brought an application to force the sale of the IHI factory so that it could realize the amounts payable under the judgment. In January, 2007, the Appellant engaged the firm of DuMoulin Boskovich to defend against Fanuc-GE’s application and to enforce the claims of a group of Garmeco companies under a General Security Agreement (“GSA”) which it had with IHI.
+[9] According to the GSA, it was made on December 15, 2001 between IHI and/or IHI International Holdings Ltd. (Bermuda) in consideration for loans advanced by the Appellant; Garmeco International Consulting Engineers S.A.L. (a corporation resident in Lebanon); IHI Holdings Ltd.; and Earthquake Resistant Structures Delaware USA. I will refer to these corporations as the Garmeco Companies.
+[10] On April 14, 2008, the Supreme Court of British Columbia ordered that the IHI factory was to be sold so that Fanuc-GE could realize the amounts payable under its judgment. However, in that same Order, the Court found that the GSA was “bona fide”. The Garmeco Companies were later successful in enforcing the security they held against IHI and the IHI factory was not sold.
+[11] IHI was placed into receivership on June 16, 2010 and it was petitioned into bankruptcy on November 19, 2010. Although the Trustee in bankruptcy did not release its interest in the Estate of IHI until October 5, 2012, IHI Manufacturing Ltd., a wholly owned subsidiary of IHI, operated the IHI factory in 2010 (See exhibit R-6).
+[12] Mr. Rached stated that after the long court case with Fanuc-GE, his family tried to simplify things by allowing the Appellant “to run the show”. According to Mr. Rached, all accounts for the other related companies were closed and the Appellant paid all bills associated with those companies. Mr. Rached stated that the Appellant “runs the show”. It pays for the management, the legal fees, the GST and any remittances which are owed by the other companies controlled by his family (See page 29 of the transcript). At another point in his evidence, Mr. Rached stated that the other companies were created “to limit the liability going back to” the Appellant.
+[13] I have concluded from Mr. Rached’s evidence that all monies for the Garmeco Family of Companies were funneled through the Appellant. If a corporation gave a mortgage on a property it owned, the mortgage proceeds were given to the Appellant and then the Appellant made the mortgage payments as a loan to that corporation. The corporation was considered to be indebted to the Appellant for these payments. The Appellant then loaned the proceeds of the mortgage to whichever corporation was in need at that time and all loans were secured by general security agreements. According to the Organization Chart, Mrs. Rached guaranteed all mortgages on all properties.
+[14] Mr. Rached tendered several documents to support his testimony that the Appellant “runs the show”. Those documents consisted of the following:
+(a) A General Security Agreement dated November 20, 2007 to secure all present and future amounts lent to IHI Manufacturing Ltd. by the Appellant. I note that part of the collateral subject to the security interest included the equipment and furnishings at the IHI factory.
+(b) A General Management Agreement dated January 1, 2009 between 443686 BC Ltd. and the Appellant as Manager. The agreement directed the Appellant to pay all expenses of 443686 BC Ltd.; to manage its affairs and to collect and pay all taxes due or payable. The Appellant had a similar management agreement between itself and 434088 BC Ltd. Neither agreement stated that the Appellant would be paid for its management services.
+(c) A letter dated June 15, 2009 which confirmed that IHI Developments Ltd., IHI Development II Ltd., IHI Manufacturing Ltd., and RAR Consultants Ltd. authorized the Appellant to manage their affairs and assets including maintenance and utilities expenses for “fees based on cost plus bonus, as per agreement to be entered into per entity in the future (based on surplus funds)”. Mr. Rached signed the letter on behalf of each corporation which was to be managed by the Appellant. The letter confirmed that all expenses paid or to be paid by the Appellant were covered under “Security Pledges” and General Security Agreements in favour of the Appellant. It also contained the following paragraph:
+Moreover, all GST or any applicable tax refund, (including SR&ED) paid or financed by Garmeco will be to the sole benefit of Garmeco to claim and receive payment.
+(d) An Assignment Confirmation dated November 19, 2010 in which IHI assigned its BC Hydro and Fortis BC accounts to IHI Manufacturing Ltd. The confirmation purported to assign the ITCs incurred for these expenses to IHI Manufacturing Ltd.
+(e) An Assignment Confirmation dated December 1, 2011 in which IHI Manufacturing Ltd. assigned the same BC Hydro and Fortis BC accounts referred to in (d) above to the Appellant. According to this document, IHI Manufacturing Ltd. also assigned its account with Lehigh Hanson Materials Limited (“Lehigh Hanson”) to the Appellant.
+[15] The BC Hydro and Fortis BC accounts were for the supply of hydro and gas for the IHI factory. The Lehigh Hanson account was for raw materials used in the IHI factory.
+[16] On December 6, 2012, the Supreme Court of British Columbia ordered that upon registration of a copy of its Order together with a letter from DuMoulin Boskovich to the Registrar of Titles authorizing the registration of its Order, the IHI factory was to be transferred to and vest absolutely in Garmeco Investment Group Inc. as registered owner in fee simple. Mr. Rached stated that Garmeco Investment Group Inc. was a new corporation; it had no money and could not register the IHI factory in its name until November 2013 when it was able to borrow money from the Garmeco Family of Companies and a private lender.
+[17] Mr. Rached stated that during the relevant period, the workers at the IHI factory were employed by IHI Manufacturing but their net wages were paid to them by the Appellant. IHI Manufacturing is responsible for the source deductions but they have not been paid to the Minister.
+[18] Mr. Bencze testified that he started to work for the IHI Group in 2009. He was hired to work 12 hours a week to draw up an application for a Scientific Research and Development grant. He complained that he has not been able to complete the application because the CRA has performed a pre-assessment audit on each GST return filed by the Appellant and he is required to answer questions and give documentation to support the ITCs claimed.
+[19] According to Mr. Bencze, the Appellant is in the businesses of selling panels produced at the IHI factory, making loans to its related corporations and providing consulting services to those related corporations.
+[20] It was Mr. Bencze’s evidence that IHI Manufacturing operated the IHI factory from November 2010 until mid-December 2011. In January 2012, the Appellant began to operate the IHI factory. It ordered the supplies and it paid the employees. The invoices from all suppliers are now addressed to the Appellant except those from BC Hydro and Fortis BC. Both BC Hydro and Fortis BC refused to change the accounts to the Appellant’s name unless it paid a security deposit to them.
+Appellant’s Position [21] It was the Appellant’s position that all corporations in the Garmeco Family of Companies may be separate but they are linked. They are all controlled by his mother, Hilda Georges Abou Rached, who is the majority shareholder in each corporation. As far as Mr. Rached was concerned, the corporations were all one. He stated:
+But for us it’s all one thing. My mother owns them all. (Transcript page 157)
+[22] It was Mr. Rached’s view that the Appellant paid for all services and supplies provided to the corporations and it should be entitled to claim the ITCs associated with the HST which it paid. The Appellant had a General Security Agreement, Management Agreements and Assignment Agreements with its related corporations.
+Respondent’s Position [23] It was the Respondent’s position that the Appellant’s only commercial activity was the provision of consulting services to IHI and its subsidiaries. Although the Appellant may have paid for expenses related to the IHI factory, it did so pursuant to its Management Agreement with IHI Manufacturing who operated the IHI factory. Counsel argued that some of the expenses paid by the Appellant were for supplies related to the commercial activities of other entities.
+[24] With respect to the legal and professional fees which the Appellant paid, counsel argued that these expenses related to an action to protect the Garmeco Companies’ security claim over loans it had made to IHI. Although the Appellant may be the recipient of these services, the legal services were related to the financial services provided by the Appellant and the Garmeco Companies. The financial services are exempt supplies under the ETA.
+Law [25] The tax imposed by the ETA is a consumption tax. It is designed to be paid by the final consumer. To achieve that result, a buyer of goods and services gets credit for the inputs which are used in the course of its commercial activities. Subsection 169(1) of the ETA provides:
+169. (1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A
+is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B
+is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[26] The documentation which a registrant must provide to claim an ITC is given in subsection 169(4) of the ETA. It reads:
+Required documentation
+(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+[27] The prescribed information is set out in the Input Tax Credit Information (GST/HST) Regulations, (SOR/91-45) (the “Regulations”), section 3 and the Regulations must be strictly adhered to: Key Property Management Corp v R, 2004 TCC 210; Davis v R, 2004 TCC 662; affirmed by Systematix Technology Consultants Inc v R, 2007 FCA 226.
+[28] The term “commercial activity” is defined in subsection 123(1) of the ETA. It reads:
+“commercial activity” of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+[29] An exempt supply is defined in section 123 of the ETA as a supply which is included in Part VII of Schedule V which in turn states that it is a supply of a financial service that is not included in Part IX of Schedule VI.
+[30] Section 123(1) defines a financial service. Included in that definition are the following:
+financial service” means
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+(b) the operation or maintenance of a savings, chequing, deposit, loan, charge or other account,
+(c) the lending or borrowing of a financial instrument,
+…
+(g) the making of any advance, the granting of any credit or the lending of money,
+Analysis [31] Before the Appellant can receive the ITCs in issue pursuant to subsection 169(1), it must demonstrate that it was contractually liable to pay for the supplies or services and that the supplies or services were acquired for consumption, use or supply in the course of its commercial activities. (General Motors of Canada Ltd v R, 2008 TCC 117; affirmed 2009 FCA 114 and YSI’s Yacht Sales International Ltd v R, 2007 TCC 306).
+[32] The parties did not agree on which commercial activities were carried on by the Appellant during the relevant period. Mr. Bencze testified that IHI Manufacturing operated the IHI factory from November 2010 until mid-December 2011 and that, in January 2012, the Appellant began to operate the IHI factory as its own commercial activity. It was the Respondent’s position that the Appellant’s only commercial activity during the period was the consulting business.
+[33] I have concluded from the totality of the evidence that, in 2012 and 2013, the Appellant did not operate the IHI factory as its own commercial activity. Rather, IHI Manufacturing operated the IHI factory during the entire period in issue and the Appellant managed the IHI factory in accordance with the management agreement it had with IHI Manufacturing (exhibit A-6).
+[34] In direct examination, Mr. Rached stated that the Appellant “ran the show” in accordance with the agreements it had with the other corporations. According to the agreement which the Appellant had with IHI Manufacturing, the Appellant was to “manage all their affairs related to services or to managing their assets, maintenance and utilities expenses …”. Initially in cross examination, Mr. Rached agreed that IHI Manufacturing operated the IHI factory in 2012 and 2013. Later in his cross examination, Mr. Rached changed his story and stated that the Appellant operated the IHI factory as its business. However, no documentary evidence was tendered to support the statement that IHI Manufacturing was no longer operating the business and that the business had been transferred to the Appellant. I have not accepted this change in testimony as representing the true state of affairs. I found that Mr. Rached was argumentative, evasive in many of his answers and his responses were often self-serving.
+[35] It is my view that the only reason the Appellant alleged that it operated the IHI factory in 2012 was because in prior years, the CRA withheld the refund of ITCs from IHI Manufacturing. In 2010 and 2011, IHI Manufacturing filed its GST returns and claimed the ITCs for expenses it incurred in the operation of the IHI factory. However, the refunds were not issued to IHI Manufacturing because it had a tax debt. Rather, CRA set off the amount of the refund against the tax debt owed by IHI Manufacturing.
+[36] I have concluded from Mr. Rached’s evidence that the CRA garnisheed monies from IHI Manufacturing’s bank account and he closed the bank account.
+[37] For most of the periods in 2010, 2011 and 2012, the Appellant reported that it had no taxable supplies from its commercial activities. It reported taxable supplies in the amount of $19,500 in each of the first and second quarter of 2011 and taxable supplies of $16,423 in the second quarter of 2012. Mr. Rached confirmed that these taxable supplies arose from the Appellant’s consulting business.
+[38] Mr. Bencze stated that in 2013, the Appellant had business income from panels it sold to Lynnwood Marina which is owned by the Squamish Nation. He stated that the sales were not reported for GST purposes because they were not taxable supplies.
+[39] It is my view that Mr. Rached tried to arrange matters so that it would appear that the Appellant operated the IHI factory in 2012 and 2013 and that it was entitled to the ITCs associated with the factory. Mr. Rached asked the suppliers of materials to IHI Manufacturing to issue or in some cases to reissue their invoices in the Appellant’s name.
+[40] Mr. Rached’s description of events is suspicious to say the least. According to him, the Appellant took over the operation of the IHI factory as its own business in 2012 and 2013; it pays the employees their net wages but the employees conveniently remain the employees of IHI Manufacturing which remains liable for the source deductions. I do not believe Mr. Rached’s version of events.
+[41] Both IHI Manufacturing and the Appellant are behind in filing their income tax returns and therefore neither of them has reported the business associated with the IHI factory for income tax purposes. The Appellant’s income tax return for the 2008 taxation year was filed only in 2014.
+[42] I have also concluded that the Appellant is not in the “business” of making loans to other corporations in the Garmeco Family of Companies. It does not charge interest on any amount which it allegedly lends to the other corporations. The Appellant is not in the “business” of managing any of the related companies. It does not charge for its services.
+[43] The Management Agreement between the Appellant and IHI Developments Ltd., IHI Development II Ltd., IHI Manufacturing Ltd., and RAR Consultants Ltd. speaks to these entities paying “fees based on cost plus bonus, as per agreement to be entered into per entity in the future (based on surplus funds)”. None of the entities has made an agreement with respect to the bonus and no amount has ever been paid to the Appellant for its management services. As it stands, it is just an agreement to agree in the future.
+[44] The only commercial activity carried on by the Appellant during the period was engineering consulting services. These services were delivered by Mr. Rached’s brother, René.
+[45] Mr. Rached asserted that the Appellant should be entitled to claim an ITC for expenses which it paid on behalf of the other corporations in the Garmeco Family of Companies. However, as I stated above, before the Appellant can receive the ITCs in question, it must demonstrate that it was contractually liable to pay the supplier for the goods and services and that it acquired the goods and services for consumption or use in the course of its own commercial activity. A contract between the Appellant and its related corporations is not sufficient to entitle the Appellant to receive the ITCs in question in this appeal.
+[46] With these comments in mind, I turn to the ITCs claimed by the Appellant.
+The ITCs [47] The ITC adjustments were listed in Schedule E of the Reply for the 2014-653(GST)I appeal and in Schedule D of Reply for the 2014-2582(GST)I appeal. I have attached the Schedules to these reasons. I will refer to the ITCs according to the number assigned to it in the schedules. I have reviewed each invoice associated with the ITCs in issue and it is my view that the Appellant is not entitled to receive any ITCs beyond those already conceded by the Minister. My conclusion is based on the following reasons:
+2014-653(GST)I – Schedule E and 2014-2582(GST)I – Schedule D 1. The ITC at #1 was $173.37 and there were two invoices associated with this amount. The invoice from BASF is for supplies provided to IHI and the invoice from DuMoulin Boskovich is for services provided to the Garmeco Companies so they could enforce the security they held against the assets of IHI. The Appellant was the recipient of these services as it engaged DuMoulin Boskovich and was contractually liable to DuMoulin Boskovich. However, the services were not acquired for use or consumption in the course of the Appellant’s commercial activities.
+2. ITCs at 2 to 19 are no longer in dispute.
+3. There was no invoice for the ITC claimed at # 20.
+4. The ITCs at 21, 22, 34 to 38, 48, 49, 74 to 79, 106, 107, 119 to 125, 134 to 139 and 149 to 153 were for legal services provided by DuMoulin Boskovich for the same purpose as in #1.
+5. The ITC at 23 was for the legal services provided to International Red Eagle Holdings Inc. when it sold a property on Granville Street in Vancouver in 2008. The services were not provided to the Appellant and the Appellant was not the recipient.
+6. The ITC at 24 was for legal services provided to IHI Developments-11 Ltd., IHI Developments-II and IHI Developments Ltd. in 2009 to place a mortgage on properties owned by them and to register the mortgages. The Appellant was not the recipient.
+7. There were no invoices for the ITCs at 25 and 26 but I infer from an email dated March 27, 2009 that these amounts were for legal services provided to IHI in its action against CNRL.
+8. The ITCs at 27 and 29 were conceded by the Respondent.
+9. The ITCs at 28, 30 and 31 were for Trustee services provided to IHI in Receivership and IHI in Bankruptcy. There were invoices for #28 and #30 only. The Appellant was not the recipient of these services.
+10. The ITCs at 32 and 33 are no longer in issue.
+11. The ITCs at 39 and 40 were not for services provided to the Appellant. They were for legal services provided to 434088 B.C. Ltd and 443686 B.C. Ltd. in 2008 and the services were described as “General Corporate Matters”.
+12. The ITCs at 41 and 42 were conceded by the Respondent.
+13. The ITCs at 43 to 47; 55 to 66; 84 to 100; 108 to 113; 126 to 131; 140 to 147 and 154 to 157 were for hydro and gas services provided to IHI and IHI Manufacturing.
+14. The ITCs at 50, 101 to 105 are for supplies from LeHigh Hanson Materials which were used for production at the IHI factory in 2012. I have concluded that IHI Manufacturing operated the business at the IHI factory in 2012 and not the Appellant. These supplies were not for use or consumption in the Appellant’s commercial activities.
+15. The ITCs at 51 to 54; 67 to 73 and 80 to 83 were not at issue in the appeal.
+16. The ITCs at 114 to 118 were not in issue in the appeal.
+17. The ITC at 132 was for legal services provided to 434088 B.C. Ltd and 443686 B.C. Ltd. to refinance the mortgages on properties they owned. The Appellant is not the recipient of these legal services.
+18. The ITC at 133 was for landscaping services. According to the invoice, the services were sold to IHI.
+19. The Appellant conceded that the ITC at 148 was properly disallowed.
+[48] Throughout the hearing, Mr. Rached complained about the actions of the CRA because they continued to audit each of the GST returns filed by the Appellant. Ms. Nagra explained that because the Appellant had been audited, it was CRA’s policy to perform a pre-assessment audit on subsequent returns filed by the Appellant to ensure that it was not claiming ITCs for items which had been previously denied. Mr. Rached was not satisfied with Ms. Nagra’s explanation.
+[49] Mr. Rached was also not satisfied with my explanation that the actions of the CRA were not relevant to an appeal to this Court: Main Rehabilitation Co v R, 2004 FCA 403. He continuously complained and made arguments concerning the actions of the CRA officers.
+[50] The hearing of this appeal was originally set for one day. However, due to Mr. Rached’s lengthy, rambling explanations and his argumentative manner, the hearing lasted three days. He unduly delayed the hearing of this appeal and it is my view that costs are warranted. The Respondent is awarded costs of $1000.
+[51] In conclusion, appeal 2014-653(GST)I is allowed only to the extent of the concessions made by the Respondent. Those concessions were that the Appellant is entitled to ITCs in the amount of $13.50 for the period ending September 30, 2011 and $19.59 for the period ending December 31, 2011. Appeal 2014-2582(GST)I is dismissed.
+These Reasons for Judgment are issued in substitution for the
+Reasons for Judgment dated July 31, 2015
+Signed at Halifax, Nova Scotia, this 12th day of August 2015.
+“V.A. Miller”
+V.A. Miller J.
+2014-653(GST)I
+Schedule “E”
+Detailed Summary of ITC Adjustments
+#
+Details
+Supplier
+Reason Denied
+ITC Denied (Audit)
+Appeals Adjustment
+Settlement /Concession
+Notes/Comments
+Q2-10 Period Ending: 2010-06-30
+1
+Unsubstantiated
+Documentary Evidence
+$173.37
+0.00
+0.00
+Total ITC’s Adjusted for the period
+$173.37
+$0.00
+$0.00
+Q1-11 Period Ending: 2011-03-31
+2
+Apr-June 2007
+Bad Debt – IHI
+No GST paid
+1,440.00
+1,440.00
+Not at issue
+3
+July-Sep 2007
+Bad Debt – IHI
+No GST paid
+1,440.00
+1,440.00
+Not at issue
+4
+Oct-Dec 2007
+Bad Debt – IHI
+No GST paid
+1,440.00
+1,440.00
+Not at issue
+5
+Jan-Mar 2008
+Bad Debt – IHI
+No GST paid
+1,200.00
+1,200.00
+Not at issue
+6
+Apr-June 2008
+Bad Debt – IHI
+No GST paid
+1,200.00
+1,200.00
+Not at issue
+7
+July-Sep 2008
+Bad Debt – IHI
+No GST paid
+1,200.00
+1,200.00
+Not at issue
+8
+Oct-Dec 2008
+Bad Debt – IHI
+No GST paid
+1,200.00
+1,200.00
+Not at issue
+9
+Jan-Mar 2009
+Bad Debt – IHI
+No GST paid
+1,200.00
+1,200.00
+Not at issue
+10
+Apr-June 2009
+Bad Debt – IHI
+No GST paid
+1,200.00
+1,200.00
+Not at issue
+11
+Jul-Sep 2009
+Bad Debt – IHI
+No GST paid
+1,200.00
+1,200.00
+Not at issue
+12
+Oct-Dec 2009
+Bad Debt – IHI
+No GST paid
+1,200.00
+1,200.00
+Not at issue
+13
+Jan-Mar 2010
+Bad Debt – IHI
+No GST paid
+1,200.00
+1,200.00
+Not at issue
+14
+Apr-Jun 2010
+Bad Debt – IHI
+No GST paid
+1,200.00
+1,200.00
+Not at issue
+Unsubstantiated
+Documentary Evidence
+20
+20
+Not at issue
+Total ITC’s Adjusted for the period ending March 31, 2011
+$16,340.00
+$16,340.00
+Q2-11 Period Ending: 2011-06-30
+15
+Aug 3/10
+Dumoulin Boskovitch
+Duplicated expense
+535.71
+Not disputed
+16
+Aug 31/10
+Dumoulin Boskovitch
+Duplicated expense
+192.92
+Not disputed
+17
+Sep 3/10
+Dumoulin Boskovitch
+Duplicated expense
+427.03
+Not disputed
+18
+Oct 7/10
+Dumoulin Boskovitch
+Duplicated expense
+589.29
+Not disputed
+19
+Nov 9/10
+Dumoulin Boskovitch
+Duplicated expense
+267.86
+Not disputed
+20
+Feb 4/11
+J. Bruce Preston
+Documentary Evidence
+535.71
+21
+Mar 18/11
+Dumoulin Boskovitch
+Documentary Evidence
+535.71
+Tab 15, WP 7002-39
+22
+Mar 31/11
+Dumoulin Boskovitch
+Documentary Evidence
+535.71
+Tab 15, WP 7002-39
+$3,619.94
+$0.00
+$0.00
+Q3-11 Period Ending: 2011-09-30
+23
+Dec 31/08
+Legal Fees/Comm to Dec 31/08
+Incurred by International Red Eagle Holdings Inc
+$2,155.00
+Tab 7, WP140-2 (breakdown)
+Tab 15, 7002-9
+24
+Feb 23/09
+Tony Liu Notary Public
+Incurred by IHI Development Ltd.
+$53.84
+Tab 7, WP 140-4 & 5
+25
+Jun 25/09
+Parker McLaw (legal fees)
+Documentary Evidence
+$2,380.95
+Tab 7, WP 140-4, GST extrapolated
+26
+Sep 24/09
+Parker McLaw
+Documentary Evidence
+$2,380.95
+Tab 7, WP 140-4, GST extrapolated
+27
+May 13/09
+R Dong (Accounting fees)
+Documentary Evidence
+$6.75
+$6.75
+Conceded
+28
+Jun 17/10
+Boale, Wood
+Documentary Evidence
+$238.10
+Tab 7, WP 140-4, GST extrapolated
+29
+Aug 9/10
+R Dong & Associates
+Documentary Evidence
+$6.75
+$6.75
+Conceded
+30
+Nov 19/10
+Boale, Wood
+Documentary Evidence
+$1,607.14
+Tab 7, WP 140-4, GST extrapolated
+31
+Nov 25/10
+Boale, Wood
+Documentary Evidence
+$1,071.43
+Tab 7, WP 140-4, GST extrapolated
+$9,900.91
+$0.00
+$13.50
+Q4-11 Period Ending: 2011-12-31
+32
+Nov 7/11
+Take International Consulting
+Not recipient
+$540.00
+Allowed in Q2-12 –not in issue
+33
+Dec 7/11
+Take International Consulting
+Not recipient
+$540.00
+Allowed in Q2-112 – not in issue
+34
+Dec 29/11
+DuMoulin Boskovich
+Documentary Evidence
+$535.71
+2
+35
+Dec 2/11
+DuMoulin Boskovich
+Documentary Evidence
+$535.71
+2
+36
+Oct 27/11
+DuMoulin Boskovich
+Not recipient
+$595.84
+IHI Planning Ltd. was recipient of these supplies
+37
+Aug 5/08
+DuMoulin Boskovich
+Not recipient
+$262.46
+IHI Planning Ltd. was recipient of these supplies
+38
+Nov 24/08
+DuMoulin Boskovich
+Not recipient
+$218.72
+IHI Planning Ltd. was recipient of these supplies
+39
+Apr 10/08
+David J MacFarlane
+Not registrant
+$24.37
+434088 B.C. Ltd. was recipient of these supplies
+40
+Apr 10/08
+David J MacFarlane
+Not registrant
+$21.69
+434088 B.C. Ltd. was recipient of these supplies
+41
+Jul 3/08
+BCAA Membership
+Not registrant
+$11.06
+$11.06
+Conceded
+42
+Aug 15/08
+Brown Brothers Ford
+Not registrant
+$8.53
+$8.53
+Conceded
+Total ITC’s Adjusted for the period
+$3,294.09
+$11.06
+Q1-12 Period Ending: 2012-03-31
+43
+Jan 31/12
+BC Hydro
+Not registrant
+$642.26
+Supplies incurred by International Hi-tech Industries Inc.
+44
+Jan 31/12
+BC Hydro
+Not registrant
+$32.67
+Supplies incurred by International Hi-tech Industries Inc.
+45
+Feb 8/12
+BC Hydro
+Not registrant
+$42.34
+Supplies incurred by International Hi-tech Industries Inc.
+46
+Feb 28/12
+BC Hydro
+Not registrant
+$265.74
+Supplies incurred by International Hi-tech Industries Inc.
+47
+Feb 28/12
+BC Hydro
+Not registrant
+$16.41
+Supplies incurred by International Hi-tech Industries Inc.
+48
+Jan 31/12
+DuMoulin Boskovich
+Not recipient
+$377.44
+IHI Planning Ltd. was recipient of these supplies
+49
+Feb 2/12
+DuMoulin Boskovich
+Not recipient
+$984.01
+IHI Planning Ltd. was recipient of these supplies
+50
+Feb 2/12
+Lehigh Hanson Materials Ltd.
+Documentary Evidence
+$584.04
+Document provided does not meet documentary requirements
+51
+Jan 3/12
+A.J. Forsyth
+Documentary Evidence
+$263.65
+$263.65
+Allowed at appeals – not in issue
+52
+Jan 13/12
+A.J. Forsyth
+Documentary Evidence
+$311.54
+$311.54
+Allowed at appeals – not in issue
+53
+Feb 8/12
+A.J. Forsyth
+Documentary Evidence
+$309.56
+$309.56
+Allowed at appeals – not in issue
+54
+Mar 5/12
+A.J. Forsyth
+Documentary Evidence
+$346.63
+$346.63
+Allowed at appeals – not in issue
+55
+Jan 5/12
+Fortis BC
+Not registrant
+$31.40
+Supplies incurred by International Hi-tech
+56
+Jan 31/12
+Fortis BC
+Not registrant
+$249.92
+Supplies incurred by International Hi-tech
+57
+Jan 31/12
+Fortis BC
+Not registrant
+$93.82
+Supplies incurred by International Hi-tech
+58
+Jan 31/12
+Fortis BC
+Not registrant
+$2.60
+Supplies incurred by International Hi-tech
+59
+Feb 6/12
+Fortis BC
+Not registrant
+$27.77
+Supplies incurred by International Hi-tech
+60
+Feb 20/12
+Fortis BC
+Not registrant
+$352.22
+Supplies incurred by International Hi-tech
+61
+Feb 20/12
+Fortis BC
+Not registrant
+$202.05
+Supplies incurred by International Hi-tech
+62
+Feb 20/12
+Fortis BC
+Not registrant
+$6.70
+Supplies incurred by International Hi-tech
+63
+Mar 5/12
+Fortis BC
+Not registrant
+$29.37
+Supplies incurred by International Hi-tech
+64
+Mar 27/12
+Fortis BC
+Not registrant
+$5.25
+Supplies incurred by International Hi-tech
+65
+Mar 28/12
+Fortis BC
+Not registrant
+$266.03
+Supplies incurred by International Hi-tech
+66
+Mar 28/12
+Fortis BC
+Not registrant
+$209.74
+Supplies incurred by International Hi-tech
+67
+Jun 8/12
+Tree Island Industries Ltd.
+Documentary Evidence
+$334.50
+$334.50
+Allowed at appeals – not in issue
+68
+Jan 16/12
+Take International Consulting
+Not recipient
+$540.00
+Allowed in Q2-12 – not in issue
+69
+Mar 5/12
+Take International Consulting
+Not recipient
+$540.00
+Allowed in Q2-12 – not in issue
+$7,067.66
+$1,565.88
+$0.00
+*Appeals actually allowed $1,568.88 which appears to be a calculation error in the appellant’s favour
+Q2-12 Period Ending: 2012-06-30
+Additional ITCs allowed
+70
+Nov 7/11
+Take International Consulting
+$540.00
+71
+Dec 7/11
+$540.00
+72
+Jan 16/12
+$540.00
+73
+Mar 5/12
+$540.00
+Total ITC’s previously disallowed included for the period
+$2,160.00
+74
+Apr 30/12
+DuMoulin Boskovich
+Not recipient
+$535.71
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+75
+May 31/12
+DuMoulin
+Boskovich
+Not recipient
+$535.71
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+76
+Apr 26/12
+DuMoulin Boskovich
+Not recipient
+$383.57
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+77
+Apr 26/12
+DuMoulin Boskovich
+Not recipient
+$196.45
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+78
+Jun 5/12
+DuMoulin Boskovich
+Not recipient
+$393.93
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+79
+Jun 14/12
+DuMoulin Boskovich
+Not recipient
+$261.06
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+80
+Mar 28/12
+AJ Forsyth
+Documentary evidence
+$398.74
+$398.74
+Allowed at appeals – not in issue
+81
+Jun 11/12
+AJ Forsyth
+Documentary evidence
+$424.14
+$4224.14
+Allowed at appeals – not in issue
+82
+Apr 14/12
+AJ Forsyth
+Documentary evidence
+$336.63
+$336.63
+Allowed at appeals – not in issue
+83
+Jun 10/12
+AJ Forsyth
+Documentary evidence
+$298.53
+$298.53
+Allowed at appeals – not in issue
+84
+Feb 28/12
+Fortis BC
+Not recipient
+$274.69
+International Hi-Teck incurred these supplies; not part of Appellant’s commercial activities
+85
+Apr 4/12
+Fortis BC
+Not recipient
+$38.26
+International Hi-Teck incurred these supplies; not part of Appellant’s commercial activities
+86
+Feb 28/12
+Fortis BC
+Not recipient
+$193.22
+International Hi-Teck incurred these supplies; not part of Appellant’s commercial activities
+87
+Feb 28/12
+Fortis BC
+Not recipient
+$6.19
+International Hi-Teck incurred these supplies; not part of Appellant’s commercial activities
+88
+May 9/12
+Fortis BC
+Not recipient
+$83.17
+International Hi-Teck incurred these supplies; not part of Appellant’s commercial activities
+89
+May 9/12
+Fortis BC
+Not recipient
+$210.74
+International Hi-Teck incurred these supplies; not part of Appellant’s commercial activities
+90
+May 9/12
+Fortis BC
+Not recipient
+$3.21
+International Hi-Teck incurred these supplies; not part of Appellant’s commercial activities
+91
+May 29/12
+Fortis BC
+Not recipient
+$2.98
+International Hi-Teck incurred these supplies; not part of Appellant’s commercial activities
+92
+Jun 26/12
+Fortis BC
+Not recipient
+$2.32
+International Hi-Teck incurred these supplies; not part of Appellant’s commercial activities
+93
+Mar 28/12
+BC Hydro
+Not recipient
+$313.28
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+94
+Apr 30/12
+BC Hydro
+Not recipient
+$276.46
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+95
+Apr 4/12
+BC Hydro
+Not recipient
+$41.78
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+96
+Apr 30/12
+BC Hydro
+Not recipient
+$16.31
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+97
+Apr 30/12
+BC Hydro
+Not recipient
+$13.73
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+98
+May 29/12
+BC Hydro
+Not recipient
+$11.66
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+99
+Jun 5/12
+BC Hydro
+Not recipient
+$43.79
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+100
+Jun 27/12
+BC Hydro
+Not recipient
+$7.61
+International Hi-Tech Industries was recipient of these supplies; not part of Appellant’s commercial activities
+101
+May 13/12
+Lehigh Hanson Material
+Not recipient
+$701.05
+IHI Manufacturing incurred these supplies; not part of Appellant’s commercial activities
+102
+Apr 2/12
+Lehigh Hanson Material
+Not recipient
+$45.85
+IHI Manufacturing incurred these supplies; not part of Appellant’s commercial activities
+103
+Apr 2/12
+Lehigh Hanson Material
+Not recipient
+$47.00
+IHI Manufacturing incurred these supplies; not part of Appellant’s commercial activities
+104
+Apr 2/12
+Lehigh Hanson Material
+Not recipient
+$36.94
+IHI Manufacturing incurred these supplies; not part of Appellant’s commercial activities
+105
+Apr 2/12
+Lehigh Hanson Material
+Not recipient
+$36.83
+IHI Manufacturing incurred these supplies; not part of Appellant’s commercial activities
+$6,171.54
+$1,458.04
+$.00
+Net ITCs totalling $4,011.54 for the period have been disallowed pursuant to 169(1) and 169(4)
+Q3-12 Period Ending: 2012-09-30
+106
+7/31/2012
+DuMoulin Boskovich
+Not recipient
+$204.41
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+107
+8/29/2012
+DuMoulin Boskovich
+Not recipient
+$594.73
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+108
+7/27/2012
+BC Hydro
+Not recipient
+$690.89
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+109
+7/27/2012
+BC Hydro
+Not recipient
+$5.78
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+110
+8/2/2012
+BC Hydro
+Not recipient
+$41.59
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+111
+8/28/2012
+BC Hydro
+Not recipient
+$6.48
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+112
+8/28/2012
+BC Hydro
+Not recipient
+$244.80
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+113
+9/27/2012
+BC Hydro
+Not recipient
+$250.47
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+114
+2011-10 to 2012-09
+Dueck GM
+Exceed maximum lease – s.235
+$119.88
+Not disputed
+115
+11/28/2010
+Amex
+Not reasonable – s.170(2)
+$302.56
+Not disputed
+116
+12/10/2010
+MBNA Alaska
+Not reasonable – s.170(2)
+$76.85
+$355.28
+Not disputed
+117
+8/16/2010
+BMO
+Not reasonable – s.170(2)
+$19.14
+Not disputed
+118
+12/19/2009
+MBNA Alaska
+Not reasonable – s.170(2)
+$235.38
+Not disputed
+$2,792.96
+$355.28
+$0.00
+Q4-12 Period Ending: 2012-12-31
+119
+10/9/2012
+DuMoulin Boskovich
+Not recipient
+$663.00
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+120
+10/9/2012
+DuMoulin Boskovich
+Not recipient
+$94.68
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+121
+10/9/2012
+DuMoulin Boskovich
+Not recipient
+$84.64
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+122
+10/29/2012
+DuMoulin Boskovich
+Not recipient
+$284.18
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+123
+11/30/2012
+DuMoulin Boskovich
+Not recipient
+$273.77
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+124
+12/13/2012
+DuMoulin Boskovich
+Not recipient
+$230.75
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+125
+12/28/2012
+DuMoulin Boskovich
+Not recipient
+$292.02
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+126
+10/1/2012
+BC Hydro
+Not recipient
+$6.40
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+127
+10/4/2012
+BC Hydro
+Not recipient
+$43.52
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+128
+10/29/2012
+BC Hydro
+Not recipient
+$10.59
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+129
+10/29/2012
+BC Hydro
+Not recipient
+$88.94
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+130
+11/28/2012
+BC Hydro
+Not recipient
+$15.23
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+131
+11/28/2012
+BC Hydro
+Not recipient
+$250.74
+International Hi-Tech Industries was recipient of these supplies; not part of the Appellant’s commercial activities
+132
+8/31/2012
+Jeremy Bohbot Barrister & Solicitor
+Not recipient
+$204.00
+The recipients of these supplies are 434088 BC Ltd and 443686 BC Ltd; not part of Appellant’s commercial activities
+133
+6/21/2012
+Trevor Jarvis Contracting Ltd.
+Not recipient
+$86.40
+These supplies were incurred by International Hi-Tech Industries Inc.
+$2,628.86
+$0.00
+$0.00
+2014-2582(GST)I
+Schedule “D”
+Detailed Summary of ITC Adjustments
+#
+Details
+Supplier
+Reason Denied
+ITC Denied (Audit)
+Appeals Adjustment
+Settlement /Concession
+Notes/Comments
+Q1-13 Period Ending: 2013-03-31
+134
+30-Jan-13
+DuMoulin Boskovich
+Not recipient
+$54.60
+Not part of Appellant’s commercial activities
+135
+30-Jan-13
+DuMoulin Boskovich
+Not recipient
+$164.68
+Not part of Appellant’s commercial activities
+136
+28-Feb-13
+DuMoulin Boskovich
+Not recipient
+$435.48
+Not part of Appellant’s commercial activities
+137
+27-Mar-14
+DuMoulin Boskovich
+Not recipient
+$13.50
+Not part of Appellant’s commercial activities
+138
+27-Mar-14
+DuMoulin Boskovich
+Not recipient
+$73.86
+Not part of Appellant’s commercial activities
+139
+27-Mar-14
+DuMoulin
+Boskovich
+Not recipient
+$19.49
+Not part of Appellant’s commercial activities
+140
+29-Jan-13
+BC Hydro
+Not recipient
+$235.51
+These supplies were incurred by International Hi-Tech Industries Inc.
+141
+11-Feb-13
+BC Hydro
+Not recipient
+$345.94
+These supplies were incurred by International Hi-Tech Industries Inc.
+142
+28-Feb-13
+BC Hydro
+Not recipient
+$259.40
+These supplies were incurred by International Hi-Tech Industries Inc.
+143
+21-Mar-13
+BC Hydro
+Not recipient
+$43.32
+These supplies were incurred by International Hi-Tech Industries Inc.
+144
+21-Mar-13
+BC Hydro
+Not recipient
+$46.96
+These supplies were incurred by International Hi-Tech Industries Inc.
+145
+21-Mar-13
+BC Hydro
+Not recipient
+$17.27
+These supplies were incurred by International Hi-Tech Industries Inc.
+146
+21-Mar-13
+BC Hydro
+Not recipient
+$17.70
+These supplies were incurred by International Hi-Tech Industries Inc.
+147
+21-Mar-13
+BC Hydro
+Not recipient
+$13.44
+These supplies were incurred by International Hi-Tech Industries Inc.
+148
+31-Mar-13
+Dueck GM
+Lease claim exceeds maximum
+$59.94
+Exceed maximum allowable s.235
+$1,801.09
+Q2-13 Period Ending: 2013-06-30
+149
+3-Apr-13
+DuMoulin Boskovich
+Not recipient
+$28.20
+Not part of Appellant’s commercial activities
+150
+29-Apr-13
+DuMoulin Boskovich
+Not recipient
+$21.94
+Not part of Appellant’s commercial activities
+151
+29-Apr-13
+DuMoulin Boskovich
+Not recipient
+$7.09
+Not part of Appellant’s commercial activities
+152
+31-May-13
+DuMoulin Boskovich
+Not recipient
+$115.49
+Not part of Appellant’s commercial activities
+153
+20-Jun-13
+DuMoulin Boskovich
+Not recipient
+$38.75
+Not part of Appellant’s commercial activities
+154
+2-Apr-13
+BC Hydro
+Not recipient
+$5.65
+These supplies were incurred by International Hi-Tech Industries Inc.
+155
+8-Apr-13
+BC Hydro
+Not recipient
+$14.10
+These supplies were incurred by International Hi-Tech Industries Inc.
+156
+1-May-13
+BC Hydro
+Not recipient
+$105.64
+These supplies were incurred by International Hi-Tech Industries Inc.
+157
+1-May-13
+BC Hydro
+Not recipient
+$4.70
+These supplies were incurred by International Hi-Tech Industries Inc.
+$341.56
+CITATION:
+2015TCC194
+COURT FILE NO.:
+2014-653(GST)I
+2014-2582(GST)I
+STYLE OF CAUSE:
+GARMECO CANADA INTERANTIONAL CONSULTING ENGINEERS LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 6, 2014, October 6 & 7, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF AMENDED JUDGMENT:
+August 12, 2015
+APPEARANCES:
+Agent for the Appellant:
+Roger Georges Abou-Rached
+Counsel for the Respondent:
+Matthew W. Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

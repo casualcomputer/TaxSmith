@@ -1,0 +1,191 @@
+---
+title: "Kootenay Doukhobor Historical Society v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29927/index.do"
+last_modified: "2010-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 256"
+citation2: ""
+neutral_citation: "2010 TCC 256"
+decision_date: "2010-05-11"
+language: "en"
+item_id: "29927"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6474
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:21:52.358000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2ad7472aeae5038d57a23fcb816dcdd572e0905b4a51f657b6b3f00f41100901"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kootenay Doukhobor Historical Society v. M.N.R.
+
+- Citation: 2010 TCC 256
+- Decision date: 2010-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6474, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kootenay Doukhobor Historical Society v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-11
+Neutral citation
+2010 TCC 256
+File numbers
+2009-2801(EI)
+Judges and Taxing Officers
+Dwayne W. Rowe
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-2801(EI)
+BETWEEN:
+KOOTENAY DOUKHOBOR HISTORICAL SOCIETY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 7, 2010 at Nelson, British Columbia
+Before: The Honourable D.W. Rowe, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Robert Ewashen
+Counsel for the Respondent:
+Whitney Dunn
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Sidney, British Columbia this 11th day of May 2010.
+“D.W. Rowe”
+Rowe D.J.
+Citation: 2010 TCC 256
+Date: 20100511
+Docket: 2009-2801(EI)
+BETWEEN:
+KOOTENAY DOUKHOBOR HISTORICAL SOCIETY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Rowe, D.J.
+[1] The Appellant, Kootenay Doukhobor Historical Society (“Society”) appealed from a decision issued on June 24, 2009 by the Minister of National Revenue (the “Minister”) pursuant to the Employment Insurance Act (“EIA”) wherein the Minister confirmed an assessment for Employment Insurance (EI) premiums for 2007 and 2008 in respect of Larry Ewashen (“Larry”) on the basis he was engaged in a contract of service and therefore an employee.
+[2] Robert Ewashen (“Ewashen”) testified that he is President of Society which operates the facility known as Doukhobor Discovery Centre (in certain documents Centre is spelled Center) which includes a museum. Apart from some clarification, Ewashen acknowledged the assumptions of fact set forth in paragraph 7 of the Reply to the Notice of Appeal (“Reply”), were accurate:
+…
+a) the Appellant is a non-profit society operating a historical museum in Castlegar, British Columbia;
+b) the Appellant is run by a volunteer board of directors with Robert Ewashen (“Robert”) as its president;
+c) the Worker is Robert’s brother;
+d) the Worker is the museum curator responsible for all operational activities including management, public relations, staff supervision, grounds maintenance, bookkeeping and obtaining government grants;
+e) the Appellant’s employees such as tour guides and restaurant staff are under the direction of the Worker;
+f) the Worker holds a Masters of Arts degree;
+g) the Worker has considerable latitude in the operation of the museum but was subject to the board’s authority;
+h) the Worker was reimbursed for any expenses incurred in the performance of his duties;
+i) the Worker attended monthly meetings with the Appellant’s board of directors and reported his progress;
+j) the Worker was paid monthly according to the Appellant’s schedule;
+k) the Worker was paid $40,800.00 per year;
+l) the Worker was paid $100.00 per month for miscellaneous expenses;
+m) the Appellant determined the Worker’s rate of pay based on industry standards and the Appellant’s ability to pay;
+…
+[3] However, Ewashen stated his brother – Larry – had performed some duties not enumerated in paragraph 7(d) and that Larry may have incurred some expenses associated with the performance of his duties that were not compensated by Society. The Society paid Larry monthly by cheque. With respect to the assumption – at paragraph 7(n) that “the Worker was provided with living accommodations on site at no charge”, Ewashen stated Larry paid the sum of $400 per month for his living space within the museum building and that this amount was deducted from his monthly cheque. Ewashen acknowledged that Larry was responsible for security and overall operations of the museum, but he was not required to be on-site 7 days per week, as assumed by the Minister at paragraph 7(o). Ewashen agreed Society required the personal services of Larry and that any replacement for other than a short duration would require approval of the Board of Directors (“Board”). Ewashen disagreed with the assumption – at paragraph 7(q) that “the Appellant provided all tools for the Worker to perform his duties” and stated Society supplied only the tools required to carry out duties associated with building maintenance and landscaping. Larry provided his own laptop computer and related office equipment. The rental accommodation was not furnished and Larry performed some duties at a work space therein and could be contacted there by interested parties when he was not at the Admissions Desk. Ewashen agreed that Larry had been providing his services – as an employee – to Society from 1993 to 2008 when pursuant to a written contract – Exhibit A-1 – both parties wanted his status transformed to that of an independent contractor. Ewashen stated this agreement was entered into not for the purpose of making “paperwork easier for the Appellant”, as assumed in paragraph 7(s). Instead, the Board had become concerned that there may be a perceived conflict of interest because Ewashen was the President of Society and Larry was his brother. This issue arose as a result of an audit conducted by the City of Castlegar which owns the building and property from which the museum is operated. Although no improprieties were disclosed by the audit, the Board felt it was prudent to change the status of the Curator – Larry – to that of an independent contractor rather than perpetuate his status as an employee. The Board members were informed that transformation of the working relationship pursuant to the written agreement would simplify bookkeeping as Society would no longer be required to take certain source deductions from his cheque. Ewashen stated that he and his fellow directors were aware that Larry had undertaken some private consulting work throughout his career as Curator. The agreement – Exhibit A-1 – was dated February 7, 2008, in order to formalize an existing verbal agreement between the Board and Larry and the parties agreed therein that the effective date thereof would be January 1, with the term to continue until December 31, 2008. The contract was to be deemed as continuing for the following year unless terminated by either party or if certain changes were desirable to benefit the operation of the Doukhobor Discovery Centre, in which case the final “arbitrator” of the contract was the Board. The duties to be performed by Larry included – but were not limited to – items specified in the contract and the hours or days of work were left to his discretion. The “contract price” was $40,800, to be paid in monthly instalments, inclusive of any benefits that may be deemed appropriate and Larry was granted the option to occupy the living quarters and office within the museum and to pay an annual rent of $4,800 which was to be deducted at source. Ewashen stated Larry’s contract was renewed in 2009 and in 2010. Ewashen has been President of Society for 6 or 7 years and before assuming that office had served on the Board, at which point Larry had already been employed as a Curator – by Society – for many years.
+[4] Robert Ewashen was cross-examined by counsel for the Respondent. Ewashen acknowledged that the services performed by Larry subsequent to the 2008 contract were substantially the same as those he had provided since 1993. In 2007, the Board met monthly with Larry and that practise continued in 2008 and thereafter. Larry had been living in the Centre since 1993, although the residential space was originally located in a different part of the building. Throughout the period of employment from 1993 to January 1, 2008, the pay periods were monthly and that schedule was maintained in the written contract. Larry did not charge any Goods and Services Tax (“GST”) on his services.
+[5] Ewashen – in his role as agent for Society – closed the Appellant’s case.
+[6] Counsel for the Respondent with the consent of the agent for Society, filed a Book of Documents – Exhibit R-1, tabs 1 to 9, inclusive.
+[7] Raj Kandola (“Kandola”) testified he has been employed by Canada Revenue Agency (“CRA”) since 2002 and has carried out the duties of an Appeals Officer since 2008. He has a Bachelor of Commerce degree from the University of British Columbia and is closing in on qualifying for registration as a Certified Management Accountant which requires a combination of work experience and study. In the course of the office routine, Kandola was assigned the appeal - by Society - from the assessment of EI premiums in respect to Larry. He telephoned Larry and engaged in a conversation and also contacted Ewashen and another party who was at that time included in said assessment. Kandola stated he typed notes – contemporaneously – of all conversations using a Memo to File template on his computer to create Form T2020 at tab 2. He reviewed the Questionnaire – tab 5 – completed by Ewashen and signed on December 2, 2008 – and the completed Questionnaire – tab 7 – signed by Larry on the same date. Kandola visited the Appellant’s website and printed out – tab 6 - the information pertaining to Larry and his experience and qualifications. Kandola obtained from Larry certain material including copies of cheques payable to him during the relevant period and certain pages in respect of the Appellant’s amended constitution and a Copy of Resolution – within tab 6 – dated April 27, 2007. Larry also provided a sheet where he listed various examples of work he had performed since 1966 including some described as “free lance.” Kandola stated he prepared CPT110 - A Report on an Appeal – tab 1 – in which he reviewed the facts in relation to the various indicia utilized in such an analysis with the understanding the parties mutually intended that Larry provide his services as an independent contractor. Kandola recommended to the Minister that a decision be issued to find that Larry was engaged in insurable employment with Society during the relevant period because he was employed under a contract of service.
+[8] The agent for the Appellant did not cross-examine.
+[9] Ewashen submitted that the Society and Larry wanted to transform their longstanding relationship from that of employer and employee to one where the services provided by Larry would be as an independent contractor pursuant to a written contract. Because of certain concerns which had arisen in the course of the audit by the City of Castlegar, Ewashen – as President – and members of the Board believed the lack of source deductions from Larry’s remuneration would constitute adequate separation between the parties and that – as an independent contractor –Larry would continue to control day-to-day operations within general guidelines issued by the Board. Ewashen submitted that because the intent of the parties was clearly expressed in the written contract, the role of Larry had been modified sufficiently to remove him from the category of employee. With respect to the fact that during the relevant period Larry appeared to be carrying out the same function as he had done since 1993, Ewashen suggested Larry may have always been performing in a manner consistent with that of a sub-contractor in the sense he was a professional who possessed certain skills which he provided not only to Society and its operation of the Doukhobor Discovery Centre but also to others since obtaining his Master of Arts degree in 1967.
+[10] Counsel for the Respondent submitted there had been no change in the services provided by Larry since 1993 and that a review of the requisite indicia confirmed that he was not in business on his own account. Counsel’s view of the evidence was that notwithstanding the mutual intent of the parties, the circumstances surrounding the provision of services did not support that purported characterization. Counsel submitted that the facts of the within appeal in the context of established jurisprudence required the decision of the Minister to be confirmed.
+[11] In several recent cases including Wolf v. The Queen, 2002 DTC 6853, The Royal Winnipeg Ballet v. The Minister of National Revenue – M.N.R., 2006 DTC 6323, Vida Wellness Corp. (c.o.b. Vida Wellness Spa) v. Canada (Minister of National Revenue - M.N.R.), [2006] T.C.J. No. 570 and City Water International Inc. v. Canada (Minister of National Revenue – M.N.R.), [2006] F.C.J. No. 1653, there was a clearly‑expressed mutual intent of the parties that the person providing the services would be doing so as an independent contractor and not as an employee. That is also the case in the within appeal.
+[12] The Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 – (“Sagaz”) dealt with a case of vicarious liability and in the course of examining a variety of relevant issues, the Court was also required to consider what constitutes an independent contractor. The Judgment of the Court was delivered by Major, J. who reviewed the development of the jurisprudence in the context of the significance of the difference between an employee and an independent contractor as it affected the issue of vicarious liability. After referring to the reasons of MacGuigan, J.A. in Wiebe Door Services Ltd. v. Canada (Minister of National Revenue - M.N.R.), [1986] 2 C.T.C. 200 and the reference therein to the organization test of Lord Denning - and to the synthesis of Cooke, J. in Market Investigations Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 - Major, J. at paragraphs 47 and 48 of his Judgment stated:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[13] I will examine the facts in the within appeal in relation to the indicia set forth in the Judgment of Major, J. in Sagaz.
+Level of Control:
+[14] The written contract – Exhibit A-1 – stated the services to be provided by Larry and included the following:
+*To curate the museum aspect of the Doukhobor Discovery Center
+*To prepare grants for funding projects and or operational aspects of the Center
+*To engage staff as deemed necessary to operate the Center, and supervise the staff in their work
+*To record hours of work and do the payroll
+*To prepare a monthly record of revenue and expenditures, and have these periodically reviewed by the bookkeeper retained by the Board
+*To maintain a current website for the Center
+*To provide other publicity for the Center as appropriate
+*To ensure the grounds are maintained
+*To assure the safety, security and good condition of operation to a standard reasonably possible
+[15] One of the terms in said contract was that the Centre would be open to the public May through September between the hours of 10 a.m. and 5 p.m. 7 days a week. The Appellant, a British Columbia non-profit society, was governed by Directors who were required to discharge enumerated duties pursuant to the constitution and Officers were established pursuant to Article IV. The Board set objectives at each monthly meeting and Larry was required to report progress in respect of various matters. He was fixed with the responsibility to remain on-site – except for necessary temporary absences – and to provide security and to oversee daily operations not only of the museum or Centre but also with respect to other aspects of Society. He was not entitled to perform these duties from any other location and if he was not at the Admissions Desk or elsewhere inside the Centre where the public had access, he could be found in the office space at his living quarters within that building. Although Larry had a great deal of discretion in terms of overall management of the museum including supervision of Society employees who functioned as tour guides or restaurant staff, he was required to provide these services personally. He also had to maintain the grounds and performed diverse other duties such as bookkeeping and submitting applications for government grants. There is no evidence to support a finding that the working conditions had been altered from those which had existed between 1993 and December 31, 2007, during which period the parties understood the relationship was that of employer-employee and acted in accord with that status. Because Larry’s function as Curator required specialized skills, any absence of more than a couple of days required approval of the Board and there was no opportunity for Larry to retain the services of another person to perform his contractual duties.
+Provision of equipment and/or helpers:
+[16] The tools and equipment required to maintain the grounds and to perform routine maintenance or repair of the building were provided by Society. Other tools – in a broad sense – consisted of the building and the artifacts and displays therein but Larry owned a computer which he used for purposes of work. He acquired some office equipment and furniture which he used in the work space within his living quarters. Any helpers or other workers were hired and remunerated by Society and Larry had no responsibility in that regard except to manage them within the context of the operation of the museum.
+Degree of financial risk and responsibility for investment and management:
+[17] Larry had been employed continuously by Society since 1993 and his written contract of 2008 was renewed in 2009 and 2010 so there was no reasonable risk arising from potential loss of his position as Curator. He had worked there for many years before his brother – Ewashen – was involved either as a Director or President so did not need to rely on any family connection to continue in that role. Larry did not have any financial investment in Society and was not required to pay anyone to assist him in carrying out his duties.
+Opportunity for profit in the performance of his tasks:
+[18] Larry was paid an annual salary of $40,800 - payable monthly - which was not dependent on any specific number of hours worked and received the sum of $100 per month for miscellaneous expenses. There was no evidence to suggest this amount was insufficient. The rent – $400 per month – for his living quarters was deducted from each cheque. According to the informational sheet provided to Kandola – 3 pages from the back within tab 6 - Larry did some freelance work for Touchstones Museum in Nelson, British Columbia but there is no evidence this was performed within the relevant period nor is there any evidence to indicate the amount he may have earned. At page 6 of Kandola’s CPT110 – tab 1 – when dealing with the issue of opportunity for profit, Kandola commented:
+… 98 percent of his work is with the payer and he is required to be one (sic) site nearly 24 hours a day. All of this indicates that Larry does not have any capacity ability (sic) to earn extra income with other payers in any meaningful capacity. The same conditions have endured since 1993. …
+[19] Those observations by Kandola are valid and have not been challenged by the Appellant.
+[20] With respect to the issue of intent, as stated earlier, there is no doubt Society and Larry wanted him to provide his services as an independent contractor during the relevant period.
+[21] In the case of Dempsey v. Canada (Minister of National Revenue – M.N.R.), [2007] T.C.J. No. 353; 2007 TCC 362, Hershfield, J. considered the appeal of a service provider who – as a chartered accountant – had entered into a written contract with the payor in which he agreed to perform auditing and professional services in relation to loans and grants made by said payor and to do so as an independent contractor who would submit invoices based on a stipulated daily rate with a maximum amount during the contract period based on a maximum number of days. Pursuant to said contract, the parties agreed the worker would be an independent contractor. The worker submitted invoices each month for the number of hours worked on each day of the month and GST was charged on the relevant amount. In the course of his analysis at paragraphs 39 to 46, inclusive, Hershfield, J. commented as follows:
+Analysis
+[39] If intentions were determinative of the status of the Appellant's engagement, there would be no doubt that his engagement would be that of an independent contractor. The Appellant not only accepted the status imposed by circumstance and organizational structure but played out the role of an independent contractor until it was no longer to his benefit to do so. He honoured the contract which defined his status by becoming a GST registrant, invoicing his time with GST set out and bidding on new contracts as existing contracts expired. He claimed business expenses on his income tax return and paid no union dues as a public servant. He had no benefits and was not part of the public service pension plan. These were all contractually established, understood and accepted by the Appellant. At the end of the day, he preferred the independent status that this contractual arrangement gave rise to, although when he lost it he seized on the opportunity to deny that which he had accepted for almost 13 years.
+[40] However, it has long been accepted that the terms of a contract dictating whether an engagement is one of employment or independent contractor are not determinative of the relationship for the purposes of the EIA and the CPP even if outside of the four corners of the actual working relationship both parties treat such dictated term as definitive of their relationship. Mutuality of intention as to the status of an engagement, even coupled with conduct outside the working relationship that recognizes that intended contractual status, is not determinative of that status. While recent authorities have recognized the potential importance of intentions in so called close cases,8 this is not a close case. The test to be applied in this case is clearly that set down by the Supreme Court of Canada in 2001 in Sagaz Industries Canada Inc. v. 671122 Ontario Limited9 which in large measure accepted the tests applied in Wiebe Door Services Ltd. v. Canada (Minister of National Revenue).10
+[41] Applying the Wiebe Door tests the Appellant is clearly an employee. He was engaged in a wholly subordinate position as subject as any professional employee would be to do what his manager required of him. He had no freedom as to how, when or where he performed his services. In virtually every sense he was subject to the control of his manager at WD. He was treated in almost every respect as an employee and held out as one. He did what was asked of him in the context of his position. He had to correct reports as dictated by persons above him and was subject to deadlines. The specific list of duties that the Appellant was contracted to do for WD was an expanding list that covered everything that WD might require of an employee in the position occupied by the Appellant and even then at the direction of his manager, the Appellant did more than the specified duties that he was contracted to perform and he was paid in the normal course for such services. The reason for that is that he was under the complete control of his manager in WD as any employee would be. If control over the worker is the relevant test, the Appellant's engagement status is employment.
+[42] The Appellant provided no tools in respect of the performance of his duties. All of the tools were provided by WD. If the provision of tools is the relevant test, the Appellant's engagement status is employment.
+[43] The Appellant worked at a fixed rate for fixed hours and had no expenses in respect of the performance of his duties. There is no more entrepreneurial risk of loss or opportunity for profit than any employee working on a fixed term employment contract basis has. That he had no job security at the end of the term of each contract and that he had to bid on each contract are compatible with a series of negotiated term employment contracts. During the term of each contract, work was done for a wage. If this is the relevant test, the Appellant's engagement status is employment.
+[44] All the Wiebe Door factors point to the Appellant being an employee. This is not a close case where the intentions of the parties can impact the status of the engagement.
+[45] Before concluding these Reasons, however, it is important to return to the analysis engaged in by the Supreme Court in Sagaz. While the tests considered above were effectively endorsed in that case, they were applied to what was referred to as the central question in making the required determination which was whether the worker was working as a person in business on his own account. In addressing this question of the degree of control by the engaging party over the worker, the provision of tools and the entrepreneurship of the worker become factors. Assessing the last factor requires more than an examination of risk of loss and chance of profit. It also requires examining whether the worker can be said to have a business that he is engaged in. Here, there are some indices of the Appellant having a business. He was a GST registrant, he invoiced his time, he listed himself on data bases used for engaging contractor services and engaged in a contract proposal or bidding system.11 These indicia however are insufficient in this case to support a finding that the Appellant had a business that he was engaged in for his own account in performing services for WD.
+[46] The Appellant was not engaged in any real sense in a government contract seeking business. He had a job that was only secure for a fixed term and he had to re-apply for that job periodically. The way in which the re-application was submitted and handled however was hardly entrepreneurial. It was essentially admitted that the contracting system in this case was abused. Even if that were not the case, it is hard to imagine that someone without a substantive business of his own (no office, no tools) who has worked for one "client" for almost 13 years in a subordinate position, can be said to be in business for his own account because he could "negotiate" his contract rate. Indeed, in general terms, the enduring long term nature of the relationship between the Appellant and WD as a full-time worker is not consistent with viewing the Appellant as an independent contractor carrying on business for his own account.
+[22] Earlier – at paragraph 31 of his reasons, Hershfield, J. commented that “it was pretty much a foregone conclusion that the Appellant’s contract would be renewed as long as the job existed.” That observation is applicable to the within appeal.
+[23] In Lang v. Canada (Minister of National Revenue – M.N.R.), 2007 TCC 547; [2007] T.C.J. No. 365, the issue before former Chief Justice Bowman was whether the workers engaged by the Appellants in the course of their furnace and duct cleaning business were employees under a contract of service. At paragraph 33 of the Judgment, former Chief Justice Bowman commented:
+[33] With respect to the factor of intent I would make a couple more observations. The first is that the Supreme Court of Canada has not expressed a view on the role of intent. In Sagaz, it was not mentioned as a factor. The second is that if the intent of the parties is a factor it must be an intent that is shared by both parties. If there is no meeting of the minds and the parties are not ad idem, intent can not be a factor. The third, if intent is a factor in determining whether someone is an employee or an independent contractor, then it must necessarily be a factor in all cases where the question is relevant. In this court our focus is usually on the rather narrow question whether a person is employed in insurable or pensionable employment or, under the Income Tax Act, whether a person is an employee for the purposes of deducting certain types of expenses or being taxed in a particular way. The Sagaz case, on the other hand dealt with vicarious liability. If the test is the same then the rights of third parties could potentially be affected by the subjective intent of the contracting parties as to the nature of their relationship -- a concern expressed by Evans J.A. in his dissent in Royal Winnipeg Ballet.
+[24] At paragraphs 37 to 40, inclusive, he continued as follows:
+[37] If the law did not permit me to look at anything but the Wiebe Door test, standing by itself, then I would have to say that it pointed more to independent contractor than employee. There was no supervision and no control. The workers were picked and told to go to a particular house. If mistakes had to be corrected the workers had to go back at their own expense and correct their mistakes. They had a chance of profit and bore the risk of loss. They got paid a percentage of the fee paid to Dun-Rite. If Dun-Rite did not get paid neither did they. If Dun-Rite got plenty of orders their chances of increased income were commensurately enhanced. If Dun-Rite chose not to hire a worker he simply was not hired. If they did a good job their chances of getting hired for the next job were enhanced. Ownership of tools points in neither direction. The appellants supplied the vacuum equipment and the van and the workers supplied the small tools.
+[38] If intent is determinative clearly the workers were independent contractors. (Royal Winnipeg Ballet) Both the appellants and the workers who were called as witnesses regarded themselves as independent contractors. This is evident from their oral testimony and from the fact that no employee benefits, no vacation pay, and no job security were provided. The workers had to wait around until they were contacted by the appellants or Monty Hagan. They could accept or decline the job and they could take other jobs. They had no assurance that they would be hired by Dun-Rite and they had no guarantee of being hired again after the particular jobs for which they were hired were completed. These factors bring them within the considerations enunciated by Décary J.A. in Wolf.
+[39] If we regard intent as merely a tie-breaker (as stated in Noël J.A.'s judgment in Wolf as well as in Malone J.A.'s decision in City Water), the same result would apply even if the Wiebe Door tests pointed unequivocally in neither direction. While the law does require me to look at the Wiebe Door test it does not prevent me from looking beyond it in order to determine the true relationship between the parties. If the Wiebe Door test yielded an inconclusive result, a consideration of the parties' intent clearly tips the scales toward an independent contractor relationship.
+[40] If I were to rely solely on my own instincts and common sense I would say that quite apart from the Wiebe Door test, quite apart from intention, workers who are called on to clean the ducts of a couple of houses, paid a portion of the fee and then sent on their way do not by any stretch of the imagination look like employees.
+[25] In the within appeal, there is no evidence to support the proposition that Larry was carrying on the business of museum consultant or otherwise providing services in the field of cultural heritage to others in the public and private sector. He did not market his services in any meaningful way to the wider cultural community and did not advertise or print business cards and did not maintain a business bank account. He did not have any office apart from the work space within his living quarters and did not have any separate telephone line for business purposes.
+[26] In the case of Standing v. Canada (Minister of National Revenue – M.N.R.)(F.C.A.), [1992] F.C.J. No. 890 Stone, J.A. stated:
+... There is no foundation in the case law for the proposition that such a relationship may exist merely because the parties choose to describe it to be so regardless of the surrounding circumstances when weighed in the light of the Wiebe Door test . …
+[27] In the within appeal, the parties did not want to alter in any material way the terms and conditions of the working relationship that had persisted for 15 years. What they wanted was to superimpose a brand-new independent contractor label over the old one that had characterized it as one of employer-employee. The reasons for attempting that transformation by means of a written agreement are not logical and Ewashen and the Board should have obtained legal advice in this regard.
+[28] If I were to allow this appeal on the evidence adduced herein, it would have to be on the basis that the intent of the parties is determinative. However, that is not the current state of the law. Unless Parliament approves amendments to the EIA to permit parties in a working relationship to characterize the status of the service provider – in effect, a form of opting-out of the national EI scheme – the admonition of Stone, J.A. in Standing will remain in good standing. Or, the Supreme Court of Canada could grant leave to hear an EI appeal and consider this issue directly. Following a review of the aggregate jurisprudence – including Sagaz, – the Supreme Court of Canada might decide that under certain circumstances – such as the absence of coercion, sham or egregious disparity in bargaining power – the mutual intent of the parties to the working relationship could be determinative of status. Under this scenario – barring subsequent amendments by Parliament to the relevant provisions of the EIA – that would be the end of the matter.
+[29] Having reviewed the evidence and the relevant jurisprudence, it is apparent the decision of the Minister is correct and it is confirmed.
+[30] The appeal is hereby dismissed.
+Signed at Sidney, British Columbia this 11th day of May 2010.
+“D.W. Rowe”
+Rowe D.J.
+CITATION: 2010 TCC 256
+COURT FILE NO.: 2009-2801(EI)
+STYLE OF CAUSE: KOOTENAY DOUKHOBOR HISTORICAL SOCIETY AND M.N.R.
+PLACE OF HEARING: Nelson, British Columbia
+DATE OF HEARING: April 7, 2010
+REASONS FOR JUDGMENT BY: The Honourable D.W. Rowe, Deputy Judge
+DATE OF JUDGMENT: May 11, 2010
+APPEARANCES:
+Agent for the Appellant:
+Robert Ewashen
+Counsel for the Respondent:
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

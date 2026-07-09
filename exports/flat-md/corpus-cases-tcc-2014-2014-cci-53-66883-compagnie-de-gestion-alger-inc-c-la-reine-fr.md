@@ -1,0 +1,200 @@
+---
+title: "Compagnie de Gestion Alger Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66883/index.do"
+last_modified: "2014-02-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 53"
+citation2: ""
+neutral_citation: "2014 CCI 53"
+decision_date: "2014-02-17"
+language: "fr"
+item_id: "66883"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5957
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:07:47.772000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "97dfc6def911c8ef8752ec6f55b2d0ba5ba7b0def39a07615e5b4b7243e89c55"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Compagnie de Gestion Alger Inc. c. La Reine
+
+- Citation: 2014 CCI 53
+- Decision date: 2014-02-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5957, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Compagnie de Gestion Alger Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-17
+Référence neutre
+2014 CCI 53
+Numéro de dossier
+2008-3784(GST)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-3784(GST)G
+ENTRE :
+LA COMPAGNIE DE GESTION ALGER INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 15 mai 2013, à Montréal (Québec)
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelante :
+Me Richard Généreux
+Avocat de l'intimée :
+Me Éric Labbé
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise pour la période du 1er juillet 2003 au 28 février 2007 est rejeté avec dépens conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce jour 17e de février 2014.
+« B.Paris »
+Juge Paris
+Référence : 2014 CCI 53
+Date : 2014 02 17
+Dossier : 2008-3784(GST)G
+ENTRE :
+LA COMPAGNIE DE GESTION ALGER INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s'agit d'un appel d'une cotisation relative à la taxe sur les produits et services (la « TPS ») établie en vertu de la Loi sur la taxe d'accise ( la « LTA ») [1].
+[2] De 1974 à 2011, l’appelante exploitait une entreprise de restauration rapide « Dixie Lee » à Baie-Comeau. Les produits principaux du restaurant étaient le poulet frit, la pizza et les fruits de mer frits.
+[3] L’appelante offrait un service de livraison à domicile. La livraison était payée par le client, et aucun montant au titre de la TPS n’était perçu par l’appelante relativement au montant payé par le client pour la livraison.
+[4] De plus, l’appelante offrait des repas à prix réduit à certains de ses employés alors qu’ils étaient au travail. L’appelante ne remettait pas de TPS pour ces repas.
+[5] Le ministre du Revenu national (le « ministre ») a déterminé que l’appelante aurait dû percevoir et remettre de la TPS sur les revenus de livraison parce que la livraison était effectuée dans le cadre des activités commerciales de l’appelante que la fourniture de la nourriture et celle de la livraison constituaient une fourniture unique. Le ministre a aussi déterminé que les repas fournis aux employés étaient taxables en vertu de l’article 173 de la LTA, qui a trait aux fournitures qui constituent des avantages imposables en vertu de la Loi de l’impôt sur le revenu[2] (la « LIR »).
+[6] En conséquence, le ministre a établi à l’égard de l’appelante une cotisation de 14 346,28 $ relativement à la TPS pour la période du 1er juillet 2003 au 28 février 2007.
+[7] L’appelante conteste la cotisation. Elle prétend qu’elle n’avait pas d’obligation de percevoir et de remettre la TPS à l’égard du montant payé par les clients pour le service de livraison parce que le service était effectué par les livreurs à titre de travailleurs autonomes selon un contrat d’entreprise. L’appelante soutient d’autre part qu’elle n’a jamais reçu de montant d’argent pour la livraison puisque les sommes étaient remises directement aux livreurs par les clients.
+[8] L’appelante prétend également qu’elle n’était pas obligée de percevoir et de remettre la TPS à l’égard des repas pris par les employés parce que l’appelante offrait les repas principalement à son propre bénéfice et non pas au bénéfice des employés. Donc, à son avis, les repas n’étaient pas un avantage imposable pour les employés en vertu de la LIR.
+Les faits
+[9] Monsieur Jean-Pierre Gervais (« M. Gervais »), actionnaire unique et président de l’appelante, a témoigné au sujet des activités de l’appelante, du contexte dans lequel le système de livraison a été instauré ainsi que des repas des employés.
+[10] Au commencement de l’exploitation de l’entreprise, l’appelante assurait elle-même le service de livraison avec une voiture appartenant à l’appelante. Or, selon M. Gervais, les coûts étaient trop élevés et l’on a mis fin au service.
+[11] Après une période d’arrêt, l’appelante a décidé de confier la livraison des commandes à un livreur dénommé Germain. Selon M. Gervais, c’était Germain qui a proposé de livrer la nourriture et de facturer le service lui-même aux clients. M. Gervais a dit que l’appelante a accepté cette proposition, et que Germain a commencé le service de livraison comme travailleur autonome. Germain trouvait d’autres personnes pour faire les livraisons s’il n’était pas libre, et il pouvait y avoir 5 ou 6 livreurs différents par semaine. Ils utilisaient leurs propres voitures et étaient responsables de tous les frais engagés. Ils ne recevaient pas de salaire de l’appelante et ne disposaient d’aucun avantage social.
+[12] Avant la période en cause, les frais de livraison n’étaient pas indiqués sur la facture pour la nourriture. À un certain moment, toujours avant la période en cause, des problèmes de facturation sont survenus entre les livreurs et l’appelante. Selon M. Gervais, certains livreurs avaient de la difficulté à calculer le montant payable pour la nourriture et le montant payable pour la livraison. À la suite de plusieurs problèmes résultant de cette confusion, l’appelante a instauré un système de facturation par lequel le montant payable pour la nourriture (incluant la TPS) et le montant payable pour la livraison étaient inscrits séparément, mais sur la même facture remise au client. C’était ce système de facturation qui était en vigueur pendant la période en cause. Donc, à la fin de la journée, les livreurs devaient remettre les sommes perçues pour la nourriture et conserver la différence, c'est‑à‑dire le montant perçu pour la livraison. Selon M. Gervais, l’appelante n’a jamais eu en sa possession les frais de livraison.
+[13] La preuve indique également que les livreurs étaient « de garde », et lorsqu’il n’y avait pas de livraison, ceux-ci n’étaient pas au restaurant et n’effectuaient aucune autre tâche, mis à part quelques reprises où certains livreurs ont fait des commissions pour l’entreprise. De plus, les livreurs pouvaient occuper différents emplois ou effectuer des livraisons pour d’autres restaurants.
+[14] Finalement, M. Gervais soutient que les commandes à livrer généraient environ 5 % des revenus du restaurant.
+[15] Relativement à la TPS non perçue pour les repas offerts aux employés, le témoignage de M. Gervais était que les employés qui travaillaient dans la cuisine pouvaient prendre un repas à prix réduit s’ils raccourcissaient leur pause du dîner ou du souper à trente minutes au lieu de soixante minutes. Il semble que s’ils prenaient une pause d’une heure, la pause n’était pas payée, tandis qu’une pause de trente minutes l’était. Pourtant, M. Gervais a dit que, dans le cas d’une pause de trente minutes, les employés n’avaient pas suffisamment de temps pour rentrer chez eux pour manger. Donc, l’appelante offrait des repas au rabais pour encourager les employés à rester au restaurant et prendre des pauses moins longues. Selon M. Gervais, cela était avantageux pour le restaurant, puisque ces employés étaient payés et disponibles durant leurs pauses et pouvaient travailler si nécessaire pendant les périodes achalandées.
+[16] L’appelante déduisait 1,50 $ par repas de la paie des employés et inscrivait 2 $ par repas aux feuillets T-4 des employés comme avantage imposable aux fins de la LIR. M. Gervais a indiqué que l’appelante, en ajoutant un avantage imposable aux paies des employés, suivait des directives données par le vérificateur de Revenu Québec lors d’une vérification antérieure. M. Gervais a été incapable de dire si l’appelante percevait de la TPS sur les montants déduits des paies des employés.
+[17] La preuve testimoniale présentée par l’intimée repose sur le témoignage de madame Carol Bergeron (« Mme Bergeron »), de Revenu Québec, qui a effectué la vérification fiscale en l’espèce. Premièrement, Mme Bergeron a témoigné que dans les documents comptables de l’appelante, on trouvait la mention « revenus de livraison » ainsi qu’un poste de dépense intitulé « dépenses de livraison ». Cette inscription lui a fait croire que c’était l’appelante qui effectuait les livraisons. Toutefois, en contre-interrogatoire, elle a admis que les sommes qui étaient débitées sous « revenus de livraison » étaient créditées sous le poste « dépenses de livraison », de sorte que le résultat net équivalait à zéro.
+[18] Deuxièmement, Mme Bergeron a expliqué que puisque le montant de la commande de nourriture et le montant de la livraison étaient tous deux inscrits sur la facture remise aux clients, elle a considéré la fourniture de la nourriture et de la livraison comme étant une fourniture unique.
+[19] Troisièmement, elle a déclaré qu’elle n’avait pas été en mesure d’obtenir le nom des livreurs qui effectuaient les livraisons, et qu’elle n’avait pas été en mesure de savoir s’ils étaient inscrits au système de paie même ou s’ils déclaraient leurs revenus.
+[20] Toujours en ce qui a trait aux livraisons, Mme Bergeron a affirmé que dans ses publicités, l’appelante mentionnait qu’elle offrait la livraison de la nourriture. D’ailleurs, un dépliant publicitaire a été déposé en preuve.
+[21] Relativement à la TPS non perçue pour les repas pris par les employés, Mme Bergeron a expliqué que selon les informations disponibles lors de sa vérification, il semblait que les employés ne payaient pas les repas pris au restaurant, mais qu’un revenu supplémentaire de 2 $ par repas était ajouté à leur salaire à titre d’avantage imposable en vertu de la LIR. Elle a établi un coût moyen pour les repas pris par les employés et a calculé l’avantage accordé aux employés, pour ensuite déterminer le montant de taxe qui aurait dû être perçu et remis pour cette fourniture.
+Les thèses des parties
+[22] L’appelante soutient que la fourniture de la nourriture et celle de la livraison constituaient des fournitures taxables distinctes ayant été effectuées par des personnes différentes. L’appelante soutient, d’une part, que le service de livraison était entièrement effectué par les livreurs à titre de travailleurs autonomes, selon un contrat d’entreprise, et qu’en conséquence, elle n’était pas redevable de ces montants. L’appelante soutient que les livreurs n’étaient que mandataires quant à la perception de la contrepartie payable pour les repas (incluant la TPS) et qu’ils percevaient les montants payables pour la livraison pour leur propre bénéfice.
+[23] L’appelante soutient d’autre part qu’elle n’a jamais reçu de contrepartie pour la livraison, puisque la somme était remise directement au livreur par le client. Elle soutient également que les livreurs n’étaient pas responsables des obligations relatives à la TPS, puisqu’ils étaient des « petits fournisseurs » au sens de l’article 148.
+[24] Quant à la perception de la TPS pour les repas fournis gratuitement aux employés, l’appelante prétend qu’il ne s’agissait pas d’avantages et que le tout était plutôt pour son propre bénéfice. En effet, selon sa thèse, elle avait intérêt à ce que les employés soient aux lieux de travail pendant leur période de repos.
+[25] L’intimée soutient que la livraison était effectuée dans le cadre des activités commerciales de l’appelante et que, par conséquent, elle devait percevoir la taxe payable par l’acquéreur relativement à la partie du service liée à la livraison. L’intimée soutient en effet que les livreurs n’étaient pas des travailleurs autonomes et que la fourniture de la nourriture et de la livraison constituait une fourniture unique. Puisque le service de livraison était intégré aux activités commerciales de l’appelante, les obligations relatives à la TPS incombaient à celle-ci.
+[26] Quant aux repas fournis aux employés, l’intimée soutient qu’il s’agit d’avantages aux employés, et qu’en conséquence l’appelante devait percevoir la TPS sur ces fournitures en vertu de l’article 173 de la LTA.
+Analyse
+[27] Pour déterminer si l’appelante avait l’obligation de percevoir et de remettre la TPS relativement aux frais de livraison des repas, il faut déterminer si la livraison constituait une fourniture distincte de celle des repas ou si le tout était une fourniture unique. Pour les motifs qui suivent, je suis d’avis que la livraison des repas et les repas eux-mêmes étaient une fourniture unique et que, par conséquent, l’appelante était responsable des obligations relatives à la TPS.
+[28] Dans O.A. Brown Ltd c. Canada[3], le juge Rip a résumé les principes applicables pour décider s’il y a une fourniture unique ou des fournitures distinctes. Sa méthode a été confirmée par la Cour d’appel fédérale dans Hidden Valley Golf Resort Assn. c. Canada [4].
+[29] En fondant son analyse sur la jurisprudence du Royaume-Uni, le juge Rip a mentionné, au paragraphe 21 :
+[…] Le critère qui ressort de la jurisprudence anglaise est de savoir si, au fond et en réalité, la présumée fourniture séparée fait partie intégrante ou est un élément constitutif de la fourniture globale. Il faut examiner la nature véritable de l'opération pour en déterminer les attributs fiscaux. […]
+[30] De plus, le juge Rip a cité la décision Mercantile Contracts Ltd. v. C&E Comrs. au paragraphe 22 :
+[TRADUCTION ]
+[…] À cette fin, il faudrait se demander dans quelle mesure les services qui constitueraient apparemment une fourniture unique sont liés les uns aux autres, quelle est l'étendue de leur interdépendance et de leur enchevêtrement, et si chaque service fait partie intégrante d'un ensemble complet ou en constitue un élément […]
+[31] Lorsque les différents éléments d’une fourniture sont des parties intégrantes de cette fourniture et qu’ils sont inextricablement liés entre eux, ou lorsque chacun perd son indépendance et qu’ils doivent être fournis conjointement, la fourniture sera habituellement considérée comme étant une fourniture unique. À l’inverse, lorsque plusieurs éléments d’une fourniture peuvent raisonnablement être retranchés ou séparés, la fourniture sera habituellement considérée comme multiple. À cet égard, il faut être prudent de ne pas fractionner artificiellement, pour des fins commerciales, une fourniture qui serait manifestement unique.
+[32] Il ressort de la jurisprudence que les facteurs suivants méritent d’être pris en compte dans l’analyse de la nature d’une fourniture :
+- Les frais sont-ils exigés séparément?
+- Est-il possible, en réalité, d’enlever la fourniture séparée de la présumée fourniture globale?
+- Est-il possible d’acheter chacun des divers éléments séparément et d’obtenir néanmoins un service ou un article utile.
+[33] Dans Oxford Frozen Foods Ltd. v. Canada[5], l’appelante produisait et vendait des fruits et des légumes congelés. Dans le cadre de ses activités de vente de fruits et de légumes, l’appelante les entreposait dans des congélateurs en attendant que les clients en prennent possession. Sur les factures établies, les frais d’entreposage et le prix des produits achetés étaient indiqués séparément. Puisque les fruits et légumes sont détaxés, le juge devait déterminer la vente et si l’entreposage constituaient une fourniture unique, ou si l’entreposage était une fourniture distincte, taxable, sur laquelle il fallait percevoir et verser la TPS. Au paragraphe 24, le juge Teskey écrivait :
+[…] L'appelante soutient qu'elle entrepose ses produits congelés afin de pouvoir fournir des produits congelés à ses clients. Elle n'exploite pas une entreprise d'entreposage de produits congelés. Même si l'élément "entreposage" est détaillé séparément sur les factures de l'appelante, il est à ce point lié à la fourniture de produits congelés qu'il constitue une fourniture unique de produits congelés. Il s'agit simplement d'une façon de calculer le prix éventuel d'un produit détaxé.
+[Je souligne.]
+[34] Et, plus loin, au paragraphe 32:
+En l'espèce, la nature véritable du contrat est la vente par l'appelante de produits congelés. C'est l'essence même de l'entreprise de l'appelante. L'entreposage des produits congelés est nécessaire pour que l'appelante puisse vendre ces produits.
+[35] Dans Manship Holdings c. La Reine[6], l’appelante, qui exploitait un salon de massage, permettait aux masseuses, considérées comme des travailleuses autonomes, d’utiliser ses locaux. L’appelante prétendait que les massages étaient fournis par les masseuses et que l’appelante fournissait seulement les locaux ce qui n’était pas, selon elle, une fourniture taxable. Une des questions en litige consistait à déterminer le lien entre la fourniture des locaux et la fourniture des massages, et s’il s’agissait d’une fourniture unique ou de fournitures multiples. Au paragraphe 34, le juge Angers écrivait :
+En l'espèce, la fourniture du massage ainsi que la fourniture des locaux constituent-elles une fourniture unique ou des fournitures multiples? Est-il possible ou réaliste d'omettre un élément de la fourniture globale? Eu égard aux faits, l'appelante ne pouvait pas fournir ou offrir les services de massage sans que les locaux soient utilisés ou indépendamment de l'utilisation des locaux; les deux éléments sont donc fortement liés entre eux et interdépendants. La nature véritable de l'opération pour laquelle une contrepartie a été payée était la fourniture du massage qui, dans ce cas-ci, ne peut pas être pratiqué sans que les locaux de l'appelante soient utilisés. On ne saurait considérer isolément la fourniture des locaux aux clients ou en faire abstraction dans le cadre de la fourniture du massage dans son ensemble. En d'autres termes, nulle personne ne pourrait acheter chacune des fournitures ou chacun des éléments séparément tout en obtenant un service utile. Le résultat final est qu'en l'espèce, la fourniture est une fourniture mixte dont les éléments ne peuvent pas être disjoints sur le plan fiscal. [Je souligne.]
+[36] En l’espèce, il faut déterminer si le bien (la nourriture) et le service offert (la livraison) constituent une seule et unique fourniture, ou s’il s’agit de deux fournitures distinctes. Il faut se demander, à la lumière de la preuve présentée :
+- Est-il possible de séparer chacun des éléments et d’obtenir un service ou un bien utile et fonctionnel?
+- Quel est le degré d’interdépendance entre la nourriture et la livraison?
+- La livraison fait-elle partie intégrante de la fourniture de la nourriture?
+- Les frais sont-ils exigés séparément?
+[37] D’une part, il ressort de la preuve que le coût de la nourriture et le coût de la livraison étaient indiqués séparément sur la facture remise au client. Toutefois, lorsque les clients acquittaient leur facture, ils payaient le montant total au livreur, sans distinction entre la nourriture et la livraison. Pour ce qui est de l’interdépendance entre la nourriture et la livraison, il ressort de la preuve qu’il y avait deux façons d’obtenir la nourriture : se présenter en personne à l’établissement de l’appelante ou effectuer une commande à être livrée. Dans le premier cas, la nourriture était mise à la disposition des clients alors qu’ils se trouvaient au restaurant. Dans le second, la nourriture était mise à la disposition des clients lors de la livraison. Ce qui change, c’est la façon dont la fourniture est mise à la disposition des clients. Quant à l’interdépendance et la séparation des éléments, il est clair qu’il était possible d’obtenir la nourriture sans la livraison. Toutefois, obtenir la livraison sans la nourriture est tout simplement illogique. En séparant les deux éléments, de sorte qu’il ne reste que la livraison, on ne peut obtenir un service ou un bien viable et utile.
+[38] J’en conclus que la livraison est intrinsèquement liée à la nourriture et que la fourniture de la nourriture au domicile du client était une fourniture unique.
+[39] Contrairement aux prétentions de l’appelante, il n’est pas pertinent que les livreurs étaient des travailleurs autonomes en ce qui concerne l’appelante. À la lumière de l’arrêt Manship Holdings, l’élément déterminant, est de savoir si les livreurs fournissaient le service de livraison en leur nom personnel ou comme mandataires de l’appelante. Au paragraphe 2 de l’arrêt Manship Holdings, la Cour d’appel fédérale a écrit :
+Le fait que les masseuses étaient des entrepreneures indépendantes plutôt que des employées n’empêche pas de conclure qu’elles exécutaient leurs services pour le compte de l’appelante. La question qui se pose à cet égard est celle de savoir si les masseuses, en tant que travailleuses autonomes, fournissaient leurs services en leur nom personnel ou comme mandataires de l’appelante? Si elles fournissaient leurs services en tant que mandataires, l’appelante doit alors être considérée comme le seul fournisseur de ces services et c’est elle qui doit alors percevoir et remettre la TVH sur le plein montant payé par les clients. [Je souligne.]
+[40] Je suis d’avis qu’en l’espèce, les livreurs agissaient en tant que mandataires de l’appelante lorsqu’ils effectuaient les livraisons. Je n’accepte pas, comme l’a prétendu l’appelante, que les livreurs agissaient comme mandataires des clients qui commandaient la nourriture de l’appelante. Il ressort de la preuve que les dépliants publicitaires de l’appelante annonçaient le service de livraison offert. De plus, lorsqu’un client souhaitait effectuer une commande de nourriture avec livraison, il n’avait qu’à appeler l’appelante. Les clients ne devaient pas à la fois passer leur commande de nourriture avec l’appelante et prévoir la livraison avec les livreurs. En fait, les clients ignoraient l’identité des livreurs. Finalement, la preuve révèle que si un client avait un problème avec la livraison, il appelait l’appelante pour le régler.
+[41] Un autre élément important est que l’appelante inscrivait le prix de la livraison sur les factures pour la nourriture présentées aux clients. Je n’accepte pas le témoignage de M. Gervais voulant que le prix de la livraison était inscrit sur la facture pour aider le livreur à calculer le montant à remettre à l’appelante à la fin de la soirée. Cette explication n’a pas de sens, puisque le calcul du montant que le livreur devait remettre à l’appelante aurait été aussi facile (sinon plus facile) si le prix de la livraison n’apparaissait pas sur la facture. M. Gervais a mentionné que lorsque le prix de livraison n’apparaissait pas sur la facture, il y avait des disputes avec les clients quant au prix de la livraison. Apparemment, des livreurs demandaient parfois plus que le montant convenu entre le client et l’appelante pour la livraison. Alors, il me semble que la facturation de la livraison était plutôt pour contrôler les livreurs, ce qui est plus conséquent avec le scénario où les livreurs agissaient comme mandataires de l’appelante. Sinon, l’appelante n’aurait pas eu ce contrôle sur eux et ils auraient pu facturer ce qu’ils voulaient aux clients.
+[42] Je note aussi que l’appelante incluait les montants perçus par les livreurs dans ses revenus et que ces revenus apparaissaient dans ses états financiers. Bien que l’appelante ait déduit un montant égal à ces revenus en tant que dépenses de livraison, cela m’indique que l’appelante considérait elle-même le service de livraison comme faisant partie de son entreprise. M. Gervais semblait prétendre que l’inclusion de ces revenus était faite par son comptable, mais le comptable n’a pas été appelé à témoigner. De plus, M. Gervais lui-même faisait quelques livraisons par semaine pour l’appelante, lorsqu’un livreur ne pouvait pas les effectuer. Ceci est un autre indice qui me mène à conclure que la livraison était une partie intégrante de l’entreprise de l’appelante.
+[43] À la lumière de la preuve et de l’analyse des faits, je suis d’avis qu’il s’agit d’une fourniture unique de nourriture et de livraison. En raison de cette conclusion, il n’est pas nécessaire de déterminer le statut des livreurs, puisqu’à mon avis, il y a une fourniture unique.
+Les repas fournis aux employés
+[44] La deuxième question en litige porte sur la perception et la remise de la TPS sur les repas fournis aux employés durant leur quart de travail.
+[45] L’article 173 de la LTA prévoit le calcul du montant de taxe à percevoir et à verser relativement à une fourniture effectuée par un inscrit au profit d’un salarié qui donne lieu à un avantage imposable sous le régime de l’impôt sur le revenu. S’il y a un avantage imposable, pour le calcul de la taxe nette de l’inscrit, la LTA dispose que la contrepartie reçue par l’inscrit pour le bien ou le service est réputée égale au montant de l’avantage imposable et de tout remboursement payé par l’employé. Les extraits pertinents de l’article 173 se lisent comme suit :
+173. (1) Dans le cas où un inscrit effectue la fourniture d’un bien ou d’un service, sauf une fourniture exonérée ou détaxée, au profit d’un particulier ou d’une personne liée à celui-ci et que, selon le cas :
+a) un montant (appelé « avantage » au présent paragraphe) relatif à la fourniture est à inclure, en application des alinéas 6(1)a), e), k) ou l) ou du paragraphe 15(1) de la Loi de l’impôt sur le revenu, dans le calcul du revenu du particulier pour son année d’imposition,
+[…]
+les présomptions suivantes s’appliquent :
+[…]
+d) pour le calcul de la taxe nette de l'inscrit :
+(i) le total de l'avantage et des montants de remboursement est réputé être la contrepartie totale payable relativement à la livraison du bien ou à la prestation du service, au cours de l'année, au particulier ou à la personne qui lui est liée,
+[46] En l’espèce, la seule question consiste à déterminer si ces repas constituaient un avantage imposable accordé aux employés. Si je conclus qu’il y avait un avantage imposable, l’appelante ne conteste pas le montant de TPS établi dans la cotisation.
+[47] L’alinéa 6(1)a) de la LIR prévoit une règle de portée générale voulant que tout avantage obtenu dans l’occupation ou en vertu d’un emploi doit être inclu dans le revenu de l’employé, sauf si une exception est prévue à cet égard. Selon la Cour suprême dans l’arrêt R. c. Savage[7], un avantage imposable consiste en un avantage économique. De plus, l’avantage doit avoir pour effet d’augmenter la valeur nette du patrimoine du bénéficiaire. En ce qui a trait aux repas fournis gratuitement aux employés, l’avantage consiste en l’argent épargné par le contribuable relativement à l’achat d’un repas. Pourtant, si une chose est fournie à un employé principalement pour l’avantage de l’employeur, cette chose ne constitue pas un avantage imposable si la satisfaction personnelle est tout simplement accessoire à la fin commerciale[8].
+[48] Dans l’espèce, l’appelante prétend qu’elle fournissait les repas aux employés principalement à son propre bénéfice et non pas au bénéfice des employés. Donc, il incombait à l’appelante de présenter une preuve par prépondérance que c’est elle et non pas les employés qui bénéficiaient du régime des repas. Or, les explications offertes par M. Gervais dans son témoignage ne permettent pas de satisfaire à ce fardeau. Il me semble plus probable que la raison pour laquelle les employés auraient choisi de rester au restaurant pour les pauses-repas de 30 minutes était parce que dans ce cas-là, ils étaient payés, et non pas parce qu’ils avaient droit à un repas au rabais. De toute façon, il n’y avait pas de preuve indiquant quand l’appelante a commencé à offrir ces repas à ses employés, ou qu’avant de commencer, elle avait de la difficulté à les encourager de rester sur place pour leurs pauses. Finalement, je tire une inférence défavorable du fait que l’appelante n’a pas fait témoigner un de ses employés pour corroborer le témoignage de M. Gervais sur cette question.
+[49] Bien que cela ne soit pas déterminant, je note aussi que pour les besoins de l’impôt sur le revenu, l’appelante a inclus, dans le revenu imposable de ses employés pour les années, un montant à titre d’avantage imposable chaque fois que l’un d’eux bénéficiait d’un repas gratuit. Il ressort donc de la preuve que l’appelante, pour ses obligations sous la LIR, traitait les repas comme des avantages imposables. J’ai de la difficulté à croire que l’appelante aurait procédé de cette façon si elle ne croyait pas que les repas étaient en fait un avantage qu’elle accordait aux employés.
+Conclusion
+[50] Pour tous ces motifs, l’appel est rejeté, avec dépens à l’intimée.
+Signé à Ottawa, Canada, ce 17e jour de février 2014.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE : 2014 CCI 53
+Nº DU DOSSIER DE LA COUR : 2008-3784(GST)G
+INTITULÉ DE LA CAUSE : LA COMPAGNIE DE GESTION ALGER INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 15 mai 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge B. Paris
+DATE DU JUGEMENT : Le 17 février 2014
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Richard Généreux
+Avocat de l'intimée :
+Me Éric Labbé
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : Me Richard Généreux
+Cabinet : Ile-des-Sœurs (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15.
+[2] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.).
+[3] [1995] A.C.I. no 678, [1995] G.S.T.C. 40.
+[4] [2000] A.C.F. no 869.
+[5] Oxford Frozen Foods Ltd. v. Canada, [1996] A.C.I. no 1222, [1996] G.S.T.C. 76.
+[6] 2009 CCI 75, [2009] A.C.I. no 55 confirmée par 2010 CAF 58.
+[7] [1983] 2 R.C.S. 428 (CSC).
+[8] McGoldrick c. Canada, 2004 CAF 189, [2004] 3 C.T.C. 264, au paragraphe 9.

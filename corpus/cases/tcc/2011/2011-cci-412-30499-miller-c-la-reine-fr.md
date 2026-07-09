@@ -1,0 +1,492 @@
+---
+title: "Miller c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30499/index.do"
+last_modified: "2011-09-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 412"
+citation2: ""
+neutral_citation: "2011 CCI 412"
+decision_date: "2011-09-01"
+language: "fr"
+item_id: "30499"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7239
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:39:17.712000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3809290a8d8adb7466750bca371ae08302879a4d6665d8d717752fa89ff533d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Miller c. La Reine
+
+- Citation: 2011 CCI 412
+- Decision date: 2011-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7239, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Miller c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-01
+Référence neutre
+2011 CCI 412
+Numéro de dossier
+2009-2462(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2462(IT)G
+ENTRE :
+CAROL MILLER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 mai 2011, à St. John’s (Terre-Neuve).
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimée :
+Me Jan Jensen
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie au titre de la Loi de l’impôt sur le revenu, numéro 48031, en date du 6 mai 2009, est accueilli, sans frais, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 1er jour de septembre 2011.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 2e jour de novembre 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 412
+Date : 20110901
+Dossier : 2009-2462(IT)G
+ENTRE :
+CAROL MILLER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L’appelante réside à St. John’s (Terre-Neuve-et-Labrador).
+[2] L’appelante a épousé le Dr James Miller en 1968.
+[3] Le Dr Miller était un dentiste spécialisé en chirurgie orale. L’appelante a témoigné que son mari avait été un pionnier de la dentisterie des implants, à Terre-Neuve. Elle a également déclaré que son mari était titulaire d’une bourse de recherche dans le domaine de la dentisterie des implants.
+[4] Le Dr Miller exploitait sa propre clinique dentaire, située au 253, chemin LeMarchant, à St. John’s, Terre-Neuve.
+[5] Le Dr Miller a fait face à des problèmes financiers sérieux par suite d’un placement qu’il avait effectué dans un abri fiscal que les représentants de l’Agence du revenu du Canada (l’« ARC ») n’ont pas accepté.
+[6] Le Dr Miller a fait faillite le 7 juillet 2000.
+[7] Le Dr Miller a subi une crise cardiaque en 1997. L’avocat de l’appelante a déclaré que le Dr Miller n’avait pas pu travailler pendant près d’un an. (Voir le mémoire de l’appelante, paragraphe 4).
+[8] Le Dr Miller a été libéré de la faillite le 26 avril 2007.
+Nota : dans ses observations écrites, l’avocat de l’intimée a déclaré qu’au moment de sa libération, le Dr Miller avait encore une dette impayée envers le ministre du Revenu national (le « ministre »). (Voir les observations écrites de l’intimée, en date du 14 juillet 2011, page 4, paragraphe 8).
+[9] Le Dr Miller est décédé d’un cancer du poumon le 10 septembre 2008.
+[10] La preuve indiquait qu’au moment où le Dr Miller a fait faillite, le montant de ses dettes fiscales impayées s’élevait à au moins 453 801,22 $ pour ses années d’imposition 1990, 1991, 1994, 1995, 1996, 1997, 1999 et 2000.
+[11] Le 13 juin 1997, l’appelante a ouvert un compte de banque personnel à la succursale Churchill Square de la CIBC, à St. John’s, Terre-Neuve (le « compte de banque »).
+[12] L’appelante était l’unique personne ayant le pouvoir de signature à l’égard du compte de banque.
+[13] L’intimée maintient que le Dr Miller a déposé les montants suivants dans le compte de banque de juin 1997 à août 2000 :
+Année
+Montant déposé
+1997
+21 144,67 $
+1998
+80 595,87 $
+1999
+149 641,76 $
+2000
+109 203,77 $
+Total
+360 586,07 $
+[14] L’intimée admet qu’entre le mois de juin 1997 et le mois d’août 2000, l’appelante a retiré 59 435,63 $ du compte de banque en vue d’acquitter des dépenses associées au cabinet dentaire du Dr Miller.
+[15] Le 6 mai 2009, l’ARC a établi une nouvelle cotisation à l’égard de l’appelante, au titre du paragraphe 160(1) de la Loi de l’impôt sur le revenu (la « Loi »), à l’égard des fonds déposés dans son compte de banque et a réduit le montant à 301 150,44 $.
+B. LE POINT EN LITIGE
+[16] Il s’agit de savoir si le ministre a eu raison d’établir une nouvelle cotisation de 301 150,44 $ à l’égard de l’appelante, au titre de l’article 160 de la Loi.
+C. ANALYSE ET DÉCISION
+[17] Au début de l’audience, l’avocat de l’appelante a demandé que l’avis d’appel soit modifié. L’avocat de l’intimée s’est opposé à la demande de modification de l’avis d’appel.
+[18] À l’appui de la position qu’il a prise à l’égard de la modification de l’avis d’appel, l’avocat de l’appelante a déclaré ce qui suit :
+[traduction]
+Q. À coup sûr, monsieur le juge. Je vous remercie. L’avis de requête en modification comporte trois éléments, c’est‑à‑dire que la modification vise trois éléments, et je suppose, monsieur le juge, que vous avez à votre disposition une copie du projet de modification de l’avis d’appel?
+LE JUGE :
+Q. En effet.
+Me RUSSELL, c.r. :
+Q. Très bien. Le premier élément, monsieur le juge, l’élément principal, le plus important, se rapporte à la question de la contrepartie et nous – il s’agit de la notion juridique de contrepartie, et sur ce point, comme vous l’avez peut-être remarqué, cela comporte des changements, de légers changements au paragraphe 8, la question du paragraphe 10, où nous voulons en particulier ajouter l’énoncé suivant : [traduction] « Les dépenses que Mme Miller a acquittées pour le compte du Dr Miller constituaient une contrepartie à l’égard des fonds virés par le Dr Miller en sa faveur, d’un montant équivalent. » Je crois comprendre, monsieur le juge, que mon collègue s’oppose à cela et j’aimerais respectueusement – je tiens à souligner, avec respect bien sûr, que si l’on se reporte à la réponse à l’avis d’appel, il est loin de s’agir d’une nouvelle idée pour ce qui est du présent litige. Si l’on se reporte à la réponse, si l’on examine en premier lieu les hypothèses de fait énoncées au paragraphe 12 et si l’on se reporte à l’avis, alinéas j) et k), l’hypothèse émise à l’alinéa j) est qu’au cours des années pertinentes, le Dr Miller a déposé environ 360 000 $ dans le compte de Mme Miller, et, à l’alinéa k), il est dit que Mme Miller a retiré près de 60 000 $ de ce compte, de sorte qu’il restait en tout environ 301 000 $, et ces 301 000 $ reviennent, monsieur le juge, au paragraphe 15 de la réponse où il est fait mention d’une contrepartie, et j’aimerais lire la deuxième phrase : [traduction] « De 1997 à 2000, le Dr Miller a viré en faveur de l’appelante 360 000 $, sur lesquels 301 150 $ ont été virés sans contrepartie. » Par conséquent, en toute logique, la Couronne dit, selon moi, que les autres 60 000 $ se rapportent à une contrepartie, puisque, si l’on soustrait les quelque 60 000 $ susmentionnés, 59 435 $, des 360 000 $, on obtient 301 000 $; or, ce sont ces montants qui sont mentionnés à l’alinéa k) comme ayant été utilisés aux fins du paiement des dépenses associées au cabinet dentaire du Dr Miller. Par conséquent, il ressort clairement de la réponse que, dans les actes de procédure qu’elle a déposés devant la Cour, la Couronne a elle-même pris la position selon laquelle les quelque 59 000 $ constituent une contrepartie.
+Par conséquent, je conteste essentiellement l’énoncé figurant à l’alinéa k). Je suppose que je fais deux choses. En premier lieu, je complète le raisonnement juridique, dans mon propre acte de procédure, en parlant également d’une contrepartie, et en second lieu, je conteste de toute façon, comme bien sûr l’appelante peut le faire, l’une des hypothèses sur laquelle la Couronne se fonde, à savoir l’hypothèse figurant à l’alinéa k), où il est dit que l’appelante a retiré les 59 435 $ en vue de payer des dépenses associées au cabinet. Selon la preuve que nous présentons, un montant beaucoup plus élevé a été retiré aux fins du paiement des dépenses et ce montant constitue une contrepartie, comme il est affirmé au paragraphe 15 de la réponse. Il est donc loin de s’agir d’une nouvelle idée et, ainsi, je me fonde sur le fait que la Couronne elle-même a accepté l’idée de la contrepartie, telle qu’elle est énoncée dans cette réponse, dans sa vérification et dans l’avis d’appel, pardon, dans les exercices relatifs à la vérification et à l’avis d’opposition, et également dans l’acte de procédure devant la Cour. Rien n’indique dans cet acte de procédure que la Cour ou la Couronne rejette l’idée d’une contrepartie. Respectueusement, je ne vois donc rien de mal à inclure également cette mention dans mon acte de procédure.
+Le deuxième élément, monsieur le juge, et je m’y arrêterai plus brièvement, est le suivant.
+LE JUGE :
+Q. Poursuivez.
+Me RUSSELL, c.r. :
+Q. Merci, monsieur le juge. Au paragraphe 6, j’aimerais ajouter les mots, et je les ai soulignés : [traduction] « à l’entreprise ou à lui ». Fondamentalement – et ces mots sont soulignés de deux traits, bien sûr, monsieur le juge. Fondamentalement, ces mots visent à permettre de soulever la question. S’il existe une contrepartie, il n’y a pas – il n’y a pas lieu de restreindre la contrepartie au paiement se rapportant à des actifs d’entreprise. Si des paiements ont été effectués pour les besoins personnels du Dr Miller, cela constituerait également une contrepartie, ou du moins tel est notre argument. La question de la déductibilité des dépenses en question, à savoir s’il s’agit de dépenses d’entreprise, n’a rien à voir avec la question de la contrepartie.
+Vous pouvez, bien sûr, vous demander avec raison si je soulève une question factuelle entièrement nouvelle. J’aimerais assurer la Cour, monsieur le juge, comme j’ai assuré mon collègue, que cet argument est entièrement fondé sur les documents figurant déjà dans la documentation qui doit être déposée sur consentement devant la Cour et, fondamentalement, il s’agit dans l’ensemble d’une série de reçus des magasins Dominion et Costco pour des produits alimentaires et autres, de Brookfield Ice Cream pour du lait, et ainsi de suite, et l’argument est simplement le suivant, comme mon collègue le sait et comme je le dirai simplement à la Cour : le Dr Miller, l’une des quatre, et par la suite des trois personnes, habitant le logement familial en question, tirait profit de ces dépenses pour un quart et, par la suite pour un tiers, et c’est exactement ce que nous allons soutenir. Ce n’est pas plus compliqué que cela et c’est passablement simple. J’aimerais appliquer cet argument à – il existe également ici certains éléments de preuve restreints concernant les frais de chauffage de la maison, et j’aimerais imputer ces dépenses au Dr Miller pour un quart et pour un tiers.
+Le dernier élément, monsieur le juge, se rapporte au paragraphe six. Je voudrais supprimer les mots : [traduction] « n’était pas au courant de l’existence de quelque dette que ce soit du Dr Miller envers le ministre ». Il ne s’agit pas d’un fait admis, mais je ne crois pas que cela soit exact. J’aimerais plutôt me fonder sur la preuve de la Couronne, de sorte que je demande simplement la suppression de ces mots. J’ignore si mon collègue s’y oppose.
+Il y a peut-être en quelque sorte un quatrième point, qui se rapporte également au paragraphe six. Au lieu d’employer les mots [traduction] « représentant du Dr Miller », je dirais : [traduction] « pour le compte du Dr Miller », et la raison en est fort simple : après que cet énoncé eut été rédigé, la Cour d’appel fédérale a rendu une décision dans laquelle elle donnait au terme [traduction] « représentant » une interprétation technique restreinte. Je ne veux pas être pris dans – telle n’était pas l’intention en employant ce terme dans cet acte de procédure.
+Voilà donc nos arguments, monsieur le juge. Nous espérons pouvoir aller de l’avant sur cette base et je ne crois pas – j’espère avoir expliqué pourquoi je ne crois pas que ces modifications causent de quelque façon que ce soit un préjudice à mon collègue, la plupart de ces modifications ayant été portées d’une façon accessoire à l’attention de la Couronne à la fin du mois de février, comme l’indique le dossier de la requête, sauf pour ce qui est de la phrase supplémentaire, au paragraphe dix. Sous réserve des questions qui pourraient se poser, monsieur le juge, tels sont mes arguments.
+(Transcription, page 3, ligne 4, à page 9, ligne 19).
+[19] L’avocat de l’intimée s’est opposé à la requête en disant ce qui suit :
+[traduction]
+Eh bien, quant au préjudice, sans savoir jusqu’à quel point cela est pertinent pour ce qui est de l’interrogatoire préalable, il est difficile de faire subir à une personne un interrogatoire préalable complet et il serait également difficile pour l’intimée et pour la Cour de l’impôt de se demander aujourd’hui quelle est – si je me lève et si je demande pourquoi cela est pertinent, je dois supposer que cela est pertinent, parce que cela figure peut‑être quelque part dans le document qui nous a été transmis.
+Nous ne savions pas quelle était la position complète de mon collègue. Il a dit qu’il s’agissait de compléter le dossier juridique qui faisait partie de la réponse du ministre. Toutefois, cela commence – le document introductif d’instance est l’avis d’appel. La question aurait dû être mentionnée dans l’avis d’appel initial.
+Idéalement, la question aurait dû être soulevée lorsque l’avis d’appel a initialement été déposé, au mois de juin 2009, ou préférablement, avant l’interrogatoire préalable, mais elle ne l’a pas été.
+(Transcription, page 19, lignes 3 à 23)
+[20] J’ai examiné la demande que l’avocat de l’appelante a faite en vue de modifier l’avis d’appel et j’ai conclu ce qui suit :
+[traduction]
+À mon avis, les remarques de Merck sont exactes. En examinant la question, j’ai conclu que la modification que l’appelante a proposé d’apporter à l’avis d’appel devrait être admise, parce qu’elle permettra à la Cour de mieux comprendre la nature véritable de la question dont elle est saisie.
+J’aimerais également faire de brèves remarques sur certains points que l’avocat de l’intimée a soulevés. Selon lui, les modifications demandées ne clarifient pas la question. Je ne suis pas d’accord. Je dirai encore une fois que la modification peut aider la Cour à mieux comprendre la nature véritable de la question. Je le dis, parce que la contrepartie est au cœur même de la question de savoir si l’article 160 s’applique. Toutefois, j’aimerais faire remarquer que l’avocat de l’appelante doit clairement établir qu’il y a eu contrepartie. Il ne suffit pas d’alléguer simplement qu’une contrepartie a été versée.
+L’intimée a également fait valoir que ni la Cour ni elle ne sauront ce qui est pertinent, à l’audience. Je ne suis pas d’accord. Cela dépendra de la preuve présentée.
+De plus, pour conclure, j’aimerais dire que, bien que les commentaires soient fort utiles, cette modification devrait à mon avis être autorisée, parce qu’elle m’aidera à comprendre l’affaire. Telle est donc ma décision en ce qui concerne la requête. J’accueille la requête. L’avis d’appel modifié est admis. Veuillez poursuivre.
+(Transcription, page 25, ligne 6, à page 26, ligne 14).
+[21] Je dois donc décider si le paragraphe 160(1) de la Loi s’applique en l’espèce.
+[22] Le paragraphe 160(1) est rédigé comme suit :
+160. (1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent:
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé. des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[23] Dans son argumentation, l’avocat de l’appelante a déclaré que les mesures rigoureuses de perception que l’ARC a prises au milieu des années 1990, et jusqu’à ce que le Dr Miller fasse faillite, au mois de juillet 2000, l’empêchaient dans une certaine mesure d’apprécier quel était le revenu que le Dr Miller tirait de l’exercice de sa profession de dentiste.
+[24] Dans son argumentation, l’avocat de l’appelante a dit :
+[traduction]
+9. Enfin, le Dr Miller a conclu qu’il devait exploiter son cabinet dentaire en utilisant de l’argent. Il avait besoin d’argent pour utiliser le revenu de son cabinet afin de rémunérer ses employés et de payer les fournisseurs ainsi qu’en vue d’acquitter les factures du ménage. Le Dr Miller et Mme Miller se sont entendus pour que le Dr Miller remette à Mme Miller les fonds provenant de son cabinet de dentiste, fonds qu’elle devait déposer dans un compte de banque lui appartenant, Mme Miller devant ensuite utiliser ces fonds pour acquitter les dépenses associées au cabinet de dentiste du Dr Miller ainsi que les dépenses nécessaires du ménage.
+(Mémoire de l’appelante, en date du 16 juin 2011, page 2, paragraphe 9)
+[25] M. John Morgan, comptable agréé, a témoigné à l’audience. M. Morgan a déclaré avoir longtemps agi à titre de comptable du Dr Miller. Il a déclaré qu’au cours des années pertinentes, des montants élevés avaient été retirés d’une façon continue du compte de banque aux fins du paiement du salaire de certains employés du cabinet de dentiste et des montants dus à l’Implant Dentistry Centre (l’« IDC »). (Transcription, page 72, ligne 22, à page 73, ligne 8).
+[26] L’avocat de l’appelante a également cité le Dr Larry Bursey à titre de témoin. Le Dr Bursey exerce la profession de dentiste à St. John’s, Terre-Neuve.
+[27] Le Dr Bursey a témoigné avoir collaboré avec le Dr Miller dans une affaire complexe de dentisterie au cours des années 1999-2000. Il a confirmé avoir reçu certains montants du Dr Miller, ou pour le compte du Dr Miller, à la fin de l’année 1999, lesquels s’élevaient à 2 000 $ et à 12 000 $ (soit 14 000 $ en tout). L’avocat de l’appelante a fait remarquer que de tels montants avaient été retirés du compte de banque.
+[28] Dans son mémoire, l’avocat de l’appelante a dit :
+[traduction]
+29. Mme Miller soutient que la nouvelle cotisation visée par l’appel est erronée, et ce, pour les motifs suivants :
+1) elle a versé une contrepartie au Dr Miller à l’égard des fonds déposés dans son compte de banque, à la CIBC, en utilisant les fonds pour les besoins du Dr Miller;
+2) subsidiairement, les fonds ont été déposés dans une fiducie résultoire pour le Dr Miller, qui pouvait encore utiliser ces fonds à titre de bénéficiaire et qui détenait le titre y afférent.
+La contrepartie
+30. L’une des quatre conditions, aux fins de l’application du paragraphe 160(1), est que le bénéficiaire du transfert n’a remis aucune contrepartie à l’auteur du transfert ou a versé à celui‑ci une contrepartie insuffisante.
+Gambino c. Sa Majesté la Reine,
+2008 CCI 601, paragraphe 19
+31. Mme Miller affirme que, dans ce cas‑ci, une contrepartie suffisante a été versée au Dr Miller.
+32. Elle a remis une contrepartie en échange des fonds en question, en prenant envers le Dr Miller un engagement, qu’elle a respecté, à savoir utiliser les fonds pour payer les dépenses du cabinet de dentiste du Dr Miller ainsi que les dépenses se rattachant aux frais de subsistance du Dr Miller.
+33. Cet engagement, même s’il a été pris entre époux, avait force obligatoire. Il se rapportait à des dépenses pratiques expressément [traduction] « nécessaires », lesquelles, si elles n’étaient pas acquittées, auraient empêché le Dr Miller de gagner sa vie à l’aide de son cabinet de dentiste. Mme Miller elle-même a témoigné qu’il était [traduction] « nécessaire » de payer les dépenses. Il s’agissait d’un engagement sérieux, ce qui indique que l’entente conclue entre les époux était considérée comme ayant force obligatoire. Rien ne montrait que Mme Miller estimait ne pas être pleinement liée par l’engagement qu’elle avait pris envers le Dr Miller, à savoir effectuer les paiements se rattachant au cabinet de dentiste, comme il le lui demandait.
+(Mémoire de l’appelante, en date du 16 juin 2011, pages 8 et 9, paragraphes 29 à 33)
+[29] J’ai fort minutieusement examiné la preuve, en particulier le témoignage non contredit de l’appelante, et j’ai conclu que l’argument que l’avocat de l’appelante a soumis au sujet de la « contrepartie » doit être retenu. À mon avis, l’appelante a remis une contrepartie en échange de la réception des fonds en question de son mari. La contrepartie était l’engagement qu’elle avait pris envers le Dr Miller d’utiliser les fonds afin d’acquitter les dépenses associées au cabinet de dentiste du Dr Miller ainsi que certaines dépenses se rattachant à la résidence du Dr Miller.
+[30] J’ai également conclu, compte tenu de la preuve mise à ma disposition, que l’appelante était légalement tenue d’effectuer les paiements susmentionnés à l’aide du compte de banque et qu’il ne s’agissait pas simplement d’une obligation morale.
+[31] Je crois que la décision que la Cour d’appel fédérale a rendue dans l’arrêt Canada c. Livingston, 2008 CAF 89, [2008] A.C.F. no 360, s’applique dans ce cas‑ci, parce que le montant des dépenses que l’appelante a payées correspondrait à la valeur des fonds qu’elle a utilisés afin d’effectuer ces paiements.
+[32] Je citerai également en l’approuvant la décision que le juge Boyle a rendue dans l’affaire Maria Gambino c. La Reine, 2008 CCI 601, [2008] A.C.I. no 538, qui s’applique dans ce cas‑ci.
+[33] À mon avis, les dépenses suivantes doivent être déduites des montants qui sont maintenant inclus dans le revenu de l’appelante :
+1997
+Dépense
+Pièce
+Montant
+Newtel
+R2, onglet 19, p. 52, 56 (facture relative au téléphone du cabinet)
+859,90 $
+Total des montants versés à Diners Club (1 790,50 $)
+R2, onglet 19, p. 69, 72 (billet acheté pour un voyage d’affaires que le Dr Miller a effectué, au mois de mars 2008, afin de recevoir une formation dans le domaine de la dentisterie des implants, à San Diego)
+1 069,06 $
+Paiement se rattachant au « 253 » (Nota : le cabinet dentaire était situé au 253, chemin LeMarchant)
+R2, onglet 19, p. 41, 42 (écriture de l’ARC)
+239,47 $
+Offre d’emploi (Telegram)
+R2, onglet 19, p. 53
+55,06 $
+TOTAL:
+2 223,49 $
+1998
+Dépense
+Pièce
+Montant
+Jack Hill (Nota : déneigement au cabinet)
+R2, onglet 20, p. 27
+103,50 $
+NF Power
+R2, onglet 20, p. 28, 34
+120,00 $
+Sears (« réfrigérateur ») (Nota : au cabinet))
+R2, onglet 20, p. 27
+877,85 $
+Harvey’s Oil (Nota : au cabinet)
+R2, onglet 20, p. 29, 33
+735,29 $
+Cdn Dental Service
+R2, onglet 20, p. 29 (1 245,89 + 1 905,90)
+3 151,79 $
+Newtel
+R2, onglet 20, p. 48, 56
+439,42 $
+NF Power
+R2, onglet 20, p. 77 (c’est le Dr Miller qui a rédigé le chèque)
+135,55 $
+Sears
+R2, onglet 20, p. 77 (c’est le Dr Miller qui a rédigé le chèque)
+688,59 $
+Cable Atlantic
+R2, onglet 20, p. 77 (c’est le Dr Miller qui a rédigé le chèque)
+77,39 $
+Zellers
+R2, onglet 20, p. 78 (c’est le Dr Miller qui a rédigé le chèque)
+226,06 $
+Harvey’s Oil (Nota : au cabinet)
+R2, onglet 20, p. 84
+960,38 $
+Staples
+R2, onglet 20, p. 97 – “253”
+45,99 $
+Business Depot
+R2, onglet 20, p. 96
+46,10 $
+Sprint, téléphone du cabinet
+R2, onglet 20, p. 98, 101
+86,15 $
+NF Tel, téléphone d’entreprise
+R2, onglet 20, p. 98 – un montant de 103,99 $ se rapporte à la résidence (p. 87), de sorte qu’il s’agit ici du téléphone d’entreprise
+681,35 $
+Visa pour Business Depot
+R2, onglet 20, p. 107
+144,69 $
+Sprint, téléphone d’entreprise
+R2, onglet 20, p. 121
+38,78 $
+Ultramar, cabinet
+R2, onglet 20, p. 130, 137
+350,00 $
+Caméra, cabinet
+R2, onglet 20, p. 140, 154
+430,20 $
+Staples, cabinet
+R2, onglet 20, p. 156, 155
+135,05 $
+Sprint
+R2, onglet 20, p. 140, 147
+41,33 $
+Jack Hill (Nota : déneigement au cabinet)
+R2, onglet 20, p. 156
+310,50 $
+Sprint
+R2, onglet 20, p. 163, 167
+58,31 $
+Sprint
+R2, onglet 20, p. 182, 188
+29,91 $
+Telegram, publicité (Nota : selon la preuve soumise par l’appelante, il s’agissait du montant payé pour une page entière de publicité sur les implants dentaires, dans le Telegram)
+R2, onglet 20, p. 216
+2 470,59 $
+Sprint
+R2, onglet 20, p. 198, 203
+50,17 $
+Sprint
+R2, onglet 20, p. 216, 222
+54,77 $
+Sprint
+R2, onglet 20, p. 227, 246
+41,41 $
+Newtel
+R2, onglet 20, p. 244, 251
+733,66 $
+TOTAL:
+13 264,78 $
+1999
+Dépense
+Pièce
+Montant
+NF Power, « 253 »
+R3, onglet 21, p. 32
+128,16 $
+Arcona (matériel dentaire Arcona) pour l’IDC
+R3, onglet 21, p. 32
+608,76 $
+Jack Hill (Nota : déneigement)
+R3, onglet 21, p. 33
+276,00 $
+« CaL », 253, chemin LeMarchant
+R3, onglet 21, p. 32
+92,20 $
+Paper Plus, Dr J.A. Miller
+R3, onglet 21, p. 33
+34,00 $
+Costco, « 253 »
+R3, onglet 21, p. 37
+534,73 $
+Compte du trésor de T.‑N. : no du permis de conduire du Dr Miller à la ligne « mémo », le permis était nécessaire pour permettre au Dr Miller de se déplacer entre les hôpitaux et son cabinet.
+R3, onglet 21, p. 43
+770,00 $
+Jack Hill (Nota : déneigement)
+R3, onglet 21, p. 46
+379,50 $
+NF Power
+R3, onglet 21, p. 45, 47
+96,42 $
+Health Care Corp.
+R3, onglet 21, p. 52
+120,00 $
+Cable Atlantic « 253 IDC »
+R3, onglet 21, p. 82
+250,00 $
+Dr Larry Bursey
+R3, onglet 21, p. 91, 117
+2 000,00 $
+Cabinet d’avocats Giltens et ass.
+R3, onglet 21, p. 102
+402,50 $
+Dr Larry Bursey
+R3, onglet 22, p. 4, R3, onglet 21, p. 117
+12 000,00 $
+NF Power « 253 »
+R3, onglet 21, p. 97
+200,00 $
+Nobel Biocare pour des implants dentaires
+Relevé de Nobel Biocare
+La date des paiements (25 novembre 1999) est légèrement postérieure à la date du virement dans le compte Visa de Mme Miller.
+R3, onglet 21, p. 4;
+R3, onglet 21, p. 91
+9 018,29 $
+2 981,71 $
+12 000,00 $
+Ardent Labs
+R3, onglet 21, p. 117, R3, onglet 22, p. 3, 4
+2 120,00 $
+TOTAL:
+32 012,27 $
+2000
+Dépense
+Pièce
+Montant
+Dick’s & Co. (fournitures de bureau)
+R3, onglet 22, p. 7
+218,48 $
+Business Depot
+R3, onglet 22, p. 7, 14
+37,18 $
+Health Care Corporation
+R3, onglet 22, p. 11
+75,00 $
+Jack Hill
+R3, onglet 22, p. 16
+414,00 $
+Cable Atlantic (nota : chèque distinct 163 de 80 $ pour la résidence)
+R3, onglet 22, p. 16
+250,00 $
+Newtel, numéro d’entreprise
+R3, onglet 22, p. 18, 21
+183,65 $
+Long’s Printing, « IDC »
+R3, onglet 22, p. 42
+201,25 $
+Pack’s Plumbing, « traceur »
+R3, onglet 22, p. 59
+632,29 $
+John Morgan, services comptables
+R3, onglet 22, p. 58
+2 000,00 $
+John Morgan, services comptables
+R3, onglet 22, p. 58
+3 000,00 $
+Jack Hill – (Nota : déneigement)
+R3, onglet 22, p. 47
+241,50 $
+Newtel, cabinet
+R3, onglet 22, p. 51, 55
+184,61 $
+NF Dental Assoc.
+R3, onglet 22, p. 69
+205,00 $
+Newtel, entreprise
+R3, onglet 22, p. 71
+294,98 $
+Thompson Insurance, voiture du Dr Miller
+R3, onglet 22, p. 69, 75
+2 577,15 $
+Jack Hill (Nota : déneigement)
+R3, onglet 22, p. 69
+69,00 $
+Newtel, cabinet
+R3, onglet 22, p. 83, 86
+241,72 $
+NF Power, entreprise
+R3, onglet 22, p. 87
+200,00 $
+Cable Atlantic, entreprise
+R3, onglet 22, p. 87
+250,00 $
+Guaranteed Satellite, « IDC »
+R3, onglet 22, p. 90
+86,25 $
+Lorne Brothers, « 253 »
+R3, onglet 22, p. 105
+12,75 $
+Abonnement au Telegram pour le cabinet, voir les relevés de Visa
+593,18 (38 mois à 51,31 $ (prix de 1998))
+TOTAL :
+11 967,99 $
+[34] En examinant les chiffres susmentionnés, j’ai tenté de songer aux points suivants :
+(1) Compte tenu de la preuve, je ne suis pas convaincu que les dépenses se rattachant au bien de Deer Park (c’est‑à‑dire au chalet) doivent être comptabilisées à titre de dépenses d’entreprise.
+(2) Dans son mémoire, l’avocat de l’appelante a dit ce qui suit :
+[traduction]
+27. Mme Miller a également témoigné que les chèques en faveur de Costco se rapportaient à des dépenses partagées entre l’entreprise et la résidence, et que les chèques en faveur de Dominion et de Sobeys ainsi que ceux en faveur de Brookfield Ice Cream se rapportaient essentiellement à des produits alimentaires pour la famille. Des copies de ces chèques ont été produites en preuve.
+(Mémoire de l’appelante, en date du 16 juin 2011, page 8, paragraphe 27)
+Remarque : j’ai essayé de déterminer si les dépenses d’entreprise précises susmentionnées étaient admissibles. Je ne suis pas prêt à admettre d’une façon générale les chèques émis en faveur de Costco, de Dominion, de Sobeys ou de Brookfield Ice Cream.
+(3) Au cours de l’audience, il y a eu des discussions au sujet de certaines dépenses dont la déduction était demandée par l’appelante. Toutefois, Me Jensen, avocat de l’intimée, a fait remarquer que les dépenses précises qui étaient déduites avaient déjà été admises. Me Jensen a fait remarquer que le montant de 3 888,62 $ avait déjà été admis par les représentants de l’ARC et Me Russell en a convenu.
+(Transcription, page 273, lignes 7 à 25)
+Je n’ai pas admis la déduction des paiements effectués en faveur de CDSPI, de 12 212,68 $ pour l’année 1999, parce que je ne suis pas convaincu, eu égard à la preuve qui m’a été soumise, que ce montant a été payé par l’appelante. Si l’avocat de l’appelante peut produire une preuve acceptable aux yeux des représentants de l’ARC et du ministère de la Justice, le montant de 12 212,68 $ devra également être admis pour l’année 1999.
+(4) Je tiens également à faire remarquer que, dans son témoignage, M. Morgan a déclaré que certaines sommes élevées avaient été retirées d’une façon continue du compte de banque aux fins du paiement du salaire de certains employés du cabinet dentaire et du paiement en faveur d’IDC.
+(Voir le paragraphe [25] ci‑dessus)
+Si l’avocat de l’appelante peut produire, à l’égard de ces paiements, une preuve acceptable aux yeux des représentants de l’ARC et du ministère de la Justice, ces paiements devront être admis à titre de dépenses d’entreprise pour les années pertinentes.
+(5) Enfin, j’aimerais faire remarquer qu’au début de l’audience, l’avocat de l’intimée a confirmé que 2 417,88 $ doivent être déduits du montant de la nouvelle cotisation.
+L’argumentation subsidiaire de l’appelante
+[35] Si je me trompe en concluant que l’appelante a fourni une contrepartie, je crois que les montants que le Dr Miller a virés à l’appelante et qui ont servi au paiement des dépenses susmentionnées étaient des virements effectués en vertu d’une fiducie résultoire dans le cadre de laquelle le Dr Miller devait conserver la propriété effective quant à l’utilisation des fonds. Sur ce point, l’avocat de l’appelant a dit ce qui suit dans son mémoire :
+[traduction]
+43. Dans l’arrêt Rose, la Cour d’appel fédérale a conclu que l’argument selon lequel la contribuable, qui avait fait l’objet d’une cotisation au titre du paragraphe 160(1), détenait le bien visé par la fiducie résultoire pour le compte de son mari n’était pas valable dans l’ensemble, parce que l’intention exprimée par son mari, à savoir se protéger contre un créancier, était incompatible avec l’allégation qu’il avait faite, à savoir qu’il avait uniquement transféré le titre en common law à sa femme.
+Canada c. Rose, 2009 CAF 93, paragraphe 22
+44. Toutefois, il existe une distinction entre cette affaire et la présente espèce. Dans ce cas‑ci, Mme Miller a clairement témoigné que les fonds avaient été déposés dans son compte afin de permettre de subvenir aux besoins de la famille au moyen du maintien du cabinet dentaire. Mme Miller n’a pas reconnu la thèse que la Couronne a avancée avec insistance lors du contre-interrogatoire, à savoir que l’intention était de faire échec à l’ARC.
+45. Il existe une distinction entre l’intention et l’effet.
+(Mémoire de l’appelante, en date du 16 juin 2011, page 12, paragraphes 43 à 45)
+[36] L’appel est accueilli, le ministre devant procéder aux rajustements susmentionnés. Étant donné que les parties ont chacune en partie gain de cause, je ne suis pas prêt à adjuger des dépens.
+Signé à Vancouver (Colombie-Britannique), ce 1er jour de septembre 2011.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 2e jour de novembre 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 412
+No DU DOSSIER DE LA COUR : 2009-2462(IT)G
+INTITULÉ : CAROL MILLER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : St. John’s (Terre-Neuve)
+DATE DE L’AUDIENCE : Le 13 mai 2011
+MOTIFS DU JUGEMENT : L’honorable juge L. M. Little
+DATE DU JUGEMENT : Le 1er septembre 2011
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimée :
+Me Jan Jensen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Bruce S. Russell, c.r.
+Cabinet : McInnes Cooper
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

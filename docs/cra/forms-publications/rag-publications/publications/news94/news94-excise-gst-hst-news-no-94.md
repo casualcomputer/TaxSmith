@@ -1,0 +1,302 @@
+---
+title: "ARCHIVED - Excise and GST/HST News - No. 94"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news94/news94-excise-gst-hst-news-no-94.html
+last_modified: 2015-01-14
+---
+# ARCHIVED - Excise and GST/HST News - No. 94
+
+## Table of Contents
+
+- [Economic Action Plan 2014 Act, No. 2](#_Toc406679490)
+
+- [Draft GST/HST Policy Statement released for public comment](#_Toc406679491)
+
+- [Form RC4616 - Election for nil consideration under section 156 of the Excise Tax Act](#_Toc406679493)
+
+- [Regulations Amending Various GST/HST Regulations](#_Toc406679494)
+
+- [Reporting and filing options for certain excise duty licensees](#_Toc406679495)
+
+- [Prescribed rates of interest](#_Toc406679496)
+
+- [What’s new in publications](#_Toc406679497)
+
+- [Enquiries](#_Toc406679503)
+
+## Economic Action Plan 2014 Act, No. 2
+
+On October 10, 2014 the Minister of Finance tabled a Notice of Ways and Means Motion to implement tax provisions in Economic Action Plan 2014. Subsequently, on October 23, 2014 the Minister of Finance introduced Bill C-43, the Economic Action Plan 2014 Act, No. 2, which included the tax measures proposed in this Notice of Ways and Means Motion. The Bill received Royal Assent on December 16, 2014 and is now referred to as Statutes of Canada: 2014, c. 39.
+
+Bill C-43 contains the remaining Budget 2014 measures, previously announced measures from April 8, 2014, August 29, 2014 and October 10, 2014, and some new measures.
+
+Previously announced measures relating to the following are included in Bill C-43:
+
+- refining services for precious metals
+
+- subsidized residential complexes
+
+- amendments to the definitions of “builder” and “substantial renovation”
+
+- public service body rebates for non-profit organizations that operate certain health care facilities
+
+- pooled registered pension plans (PRPP)
+
+Please see [Excise and GST/HST News No. 92](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news92.html) and [Excise and GST/HST News No.93](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news93.html) for more information about these previously announced measures.
+
+**Cigarette inventory tax refund** Bill C-43 also contains a new measure for the cigarette inventory tax. The [Excise Act, 2001](http://laws-lois.justice.gc.ca/eng/acts/E-14.1/index.html) provides authority to the Canada Revenue Agency (CRA) to refund the excise duty imposed on tobacco products that are destroyed or re-worked in accordance with that Act. This new measure amends the *Excise Act, 2001* to allow the CRA to also refund the inventory tax on destroyed or re-worked cigarettes, in line with the existing refund of the excise duty. The inventory tax was introduced in Economic Action Plan 2014, as part of the excise duty rate adjustment on cigarettes to account for inflation since 2002, and implemented as part of the *Economic Action Plan 2014 Act, No.1.* This new measure applies as of February 12, 2014.
+
+## Draft GST/HST Policy Statement released for public comment
+
+The CRA has published, for public consultation, Draft GST/HST Policy Statement, *Qualifying Health Care Supplies and the Application of Section 1.2 of Part II of Schedule V to the Excise Tax Act to the Supply of Medical Examinations, Reports and Certificates*.
+
+Amendments to the [Excise Tax Act](http://laws-lois.justice.gc.ca/eng/acts/E-15/index.html) (the Act) clarify that GST/HST applies to supplies (made after March 21, 2013) of reports, examinations and other property or services that are not made for the purpose of the protection, maintenance or restoration of the health of a person or for palliative care.
+
+Part II of Schedule V to the Act sets out the health care services that are exempt under the GST/HST. Section 1.2 of Part II of Schedule V to the Act provides that for the purposes of Part II of Schedule V to the Act, (other than sections 9 and 11 to 14) , a supply that is **not** a “qualifying health care supply” is deemed **not** to be included in Part II of that Schedule. Generally, supplies deemed not to be included in Part II of Schedule V would be taxable at the applicable rate of GST/HST.
+
+This draft policy statement sets out the CRA’s position in respect of the meaning of the term “qualifying health care supply” for GST/HST purposes.
+
+A “qualifying health care supply” is defined to mean “a supply of property or a service that is made for the purpose of:
+
+1. maintaining health,
+
+2. preventing disease,
+
+3. treating, relieving or remediating an injury, illness, disorder or disability,
+
+4. assisting (other than financially) an individual in coping with an injury, illness, disorder or disability, or
+
+5. providing palliative health care.”
+
+Section 1.2 is applicable to sections 2 to 8, and 10 of Part II of Schedule V to the Act. This would include supplies of: ambulance services, services rendered by a medical practitioner, services rendered by other practitioners such as optometrists and chiropractors, nursing services, dietetic services, social work services, pharmacist services, dental hygienist services, and laboratory services.
+
+When a supply meets the conditions of one of the above-noted sections it will become necessary to determine the purpose of the supply. If the purpose of the supply does not meet one of the purposes found in the definition of “qualifying health care supply” then section 1.2 would exclude the supply from the exempting provisions in Part II of Schedule V.
+
+Please note that for GST/HST purposes, a supply that is a cosmetic service supply or a supply in respect of a cosmetic service supply is taxable at the applicable rate of GST/HST.
+
+### Supplies of medical examinations, reports and certificates
+
+As a result of these amendments, services performed by health care professionals may be taxable or exempt depending on their purpose. This will particularly affect supplies of medical examinations, reports and certificates.
+
+Supplies of medical examinations, reports or certificates that meet the conditions of one of the exempting provisions in sections 2 to 8, or 10 of Part II of Schedule V to the Act will be exempt if made for a purpose that meets the definition of qualifying health care supply. Supplies of medical examinations, reports and certificates that are made solely for other purposes, such as enabling a third party to make a decision for insurance or legal purposes, would be deemed not to be included in Part II of Schedule V and would be taxable at the applicable rate of GST/HST.
+
+In cases where a supply is made for more than one purpose, all of the purposes would be considered when determining if the supply is a qualifying health care supply. If one of the purposes for the supply meets the definition of “qualifying health care supply” then the supply would be a qualifying health care supply.
+
+The entire text of the draft policy statement which includes twenty-three examples of how the GST/HST applies to various services is published in GST/HST Notice 286, Draft GST/HST Policy Statement - Qualifying Health Care Supplies and the Application of Section 1.2 of Part II of Schedule V to the Excise Tax Act to the Supply of Medical Examinations, Reports and Certificates.
+
+Please send comments on this draft policy statement by February, 28, 2015, to the following address:
+
+Director Public Service Bodies and Governments Division Excise and GST/HST Rulings Directorate Canada Revenue Agency 14th floor, Place de Ville, Tower A 320 Queen Street Ottawa, ON K1A 0L5
+
+## Form RC4616 - Election for nil consideration under section 156 of the Excise Tax Act
+
+The election under section 156 permits corporations resident in Canada and Canadian partnerships that are registrants engaged exclusively in commercial activities and that are members of the same qualifying group, to jointly elect to treat taxable supplies (with certain exceptions) between them as having been made for no consideration.
+
+Effective January 1, 2015, an election (or revocation of an election) must be made jointly by a particular specified member of a qualifying group and another specified member of the same group by completing and filing Form RC4616, *Election or Revocation of an Election for Closely Related Corporations and/or Canadian Partnerships to Treat Certain Taxable Supplies as Having Been Made for Nil Consideration for GST/HST Purposes* which is replacing Form GST25. Form GST25 was not required to be filed with the CRA.
+
+Form RC4616 will be available on the CRA website in January 2015. Parties to a new election must complete Form RC4616 and file it by the earliest day on which the electing members are required to file a GST/HST return for the reporting period that includes the effective date of the election specified on the form.
+
+Parties to an existing election in effect before January 1, 2015, which is still in effect on that date, will also be required to complete Form RC4616 and file it with the CRA after 2014 and before January 1, 2016. In this case, the election remains the original election and, as a result, the effective date specified on the form should be the original effective date of the election.
+
+While an election is between two members, Form RC4616 permits multiple combinations. Every combination of eligible corporations or eligible Canadian partnerships whose names appear in Part A of the form (and on any attached page) is considered to have made the election. Form RC4616 will permit the first specified member to file the election on behalf of the specified members identified in Part A (and on any attached page). Only the signature of the first specified member is required.
+
+The electronic filing of an election (or revocation) will be available through [My Business Account (MyBA)](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) in April 2015. Until electronic filing is available, the election must be made using the paper format.
+
+## Regulations Amending Various GST/HST Regulations
+
+On October 31, 2014, [SOR/2014-248](http://gazette.gc.ca/rp-pr/p2/2014/2014-11-19/html/sor-dors248-eng.php), [Regulations Amending Various GST/HST Regulations, No. 6](http://gazette.gc.ca/rp-pr/p2/2014/2014-11-19/html/sor-dors248-eng.php) was registered and subsequently published in the Canada Gazette at [www.canadagazette.gc.ca](http://www.canadagazette.gc.ca).
+
+These regulations formalize and give legal effect to previously announced measures from February 11, 2014 and April 8, 2014, and also include some housekeeping amendments.
+
+## Reporting and filing options for certain excise duty licensees
+
+This is a reminder that certain licensees may be eligible to file excise duty returns twice a year (semi-annually instead of monthly). Licensees must meet specific requirements and be authorized by the CRA to file semi-annual returns.
+
+**Wine licensees, spirits licensees, licensed users, and excise warehouse licensees** who do **not hold** manufactured tobacco or cigars in their excise warehouse may qualify provided:
+
+- they have been licensed for a period exceeding twelve consecutive fiscal months;
+
+- they are compliant with the *Excise Act, 2001*;
+
+- the total of all excise duties payable by the licensee and any associated person did not exceed $120,000 in the previous or current fiscal year;
+
+- in the case of a **wine licensee**, the volume of wine added to the bulk wine inventory of the licensee and any associated wine licensee in the previous or current fiscal year did not exceed the amount determined by the formula: $120,000 / current rate of excise duty (193,548 litres at the current rate of $.62 per litre);
+
+- in the case of a **spirits licensee**, the volume of absolute ethyl alcohol added to the bulk spirits inventory of the licensee and any associated spirits licensee in the previous or current fiscal year did not exceed the amount determined by the formula: $120,000 / current rate of duty (10,259 litres of absolute ethyl alcohol (LAA) at the current rate of $11.696 per LAA);
+
+- in the case of a **licensed user**, the liability of the licensee and any associated licensed user with respect to duty on alcohol entered into their specified premises did not exceed $120,000 in the previous or current fiscal year; and
+
+- in the case of an **excise warehouse licensee who does not hold manufactured tobacco or cigars**, the liability of the licensee and any associated excise warehouse licensee with respect to duty on alcohol entered into an excise warehouse did not exceed $120,000 in the previous or current fiscal year.
+
+**Licensed brewers** may qualify provided:
+
+- they have been licensed for a period exceeding one year;
+
+- they are compliant with the *Excise Act*; and
+
+- the total of all duty imposed, levied and collected on beer and malt liquor brewed by the brewer and any associated person did not exceed $120,000 in the previous or current year.
+
+Licensees’ returns must be filed up-to-date to be considered for semi-annual filing.
+
+Licensees who want to file their returns twice a year must complete [Form B284, Election or Revocation of the Election for Semi-Annual Reporting](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b284.html) and send it to the Summerside Tax Centre.
+
+Licensees also have the option to file the following forms online:
+
+- B261 – Duty Free Shop
+
+- B262 – Excise Warehouse Licensee
+
+- B263 – Licensed User
+
+- B265 – Wine Licensee
+
+- B266 – Spirits Licensee
+
+- B267 – Tobacco Licensee
+
+- B256 – Excise Act, 2001 – Application for Refund/Deduction
+
+- K50B – Monthly Return – Excise Duty – Beer
+
+- N10 – Excise Act – Application for Refund/Deduction
+
+For information on electronic filing please refer to [What can I do on My Business Account?](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account/what-on-business-account.html) on the CRA website.
+
+For additional information on reporting requirements and options or any other Excise Duty technical matter, you may contact the nearest regional excise duty office.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from October 1, 2014, to December 31, 2014, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST and the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+|  | GST/HST, Excise Tax, Softwood Lumber Products Export Charge, Excise Duty (wine, spirits, tobacco), ATSC, Income Tax | Excise Duty (beer) |  |  |
+
+| --- | --- | --- | --- | --- |
+
+| Period | Refund Interest Corporate Taxpayers | Refund Interest Non-Corporate Taxpayers | Arrears and Instalment Interest | Arrears Interest |
+
+| October 1 to December 31, 2014 | 1% | 3% | 5% | 3% |
+
+| July 1 to September 30, 2014 | 1% | 3% | 5% | 3% |
+
+| April 1 to June 30, 2014 | 1% | 3% | 5% | 3% |
+
+| January 1 to March 31, 2014 | 1% | 3% | 5% | 3% |
+
+Prescribed interest rates for previous years are available on the CRA website at [www.cra.gc.ca/interestrates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+### GST/HST forms and guides
+
+- [GST21, Election or Revocation of an Election to Have the Joint Venture Operator Account for GST/HST](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst21.html)
+
+- [RC145, Request to Close Business Number (BN) Program Accounts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc145.html)
+
+- [RC4052, GST/HST Information for the Home Construction Industry](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4052.html)
+
+- [RC4607, GST/HST Pension Entity Rebate Application and Election](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4607.html)
+
+- [RC4616, Election or Revocation of an Election for Closely Related Corporations and/or Canadian Partnerships to Treat Certain Taxable Supplies as Having Been Made for Nil Consideration for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html)
+
+- [RC7066-SCH, Provincial Schedule - GST/HST Public Service Bodies' Rebate](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7066-sch.html)
+
+- [RC7207, GST/HST Rebate Application and Election for GST/HST and QST Purposes for Pension Entities that are Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7207.html)
+
+- [RC7207-1, QST Rebate Application and Election for Pension Entities that are Selected Listed Financial Institutions for GST/HST Purposes Only](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7207-1.html)
+
+### Other forms and guides
+
+- RC17, Taxpayer Bill of Rights Guide: Understanding Your Rights as a Taxpayer
+
+- [RC193, Service-Related Complaint](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc193.html)
+
+- RC366, Direct Deposit Request for Businesses
+
+- [RC4420, Information on CRA - Service Complaints](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4420.html)
+
+### GST/HST info sheets
+
+- [GI-037, Children's Camps Operated by Public Sector Bodies(revised)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-037.html)
+
+### GST/HST notices
+
+- Notice286, Draft GST/HST Policy Statement - Qualifying Health Care Supplies and the Application of Section 1.2 of Part II of Schedule V to the Excise Tax Act to the Supply of Medical Examinations, Reports and Certificates
+
+### Excise duty notices
+
+- EDN39, Notice to All Tobacco Manufacturers – Prescribed Brands of Tobacco Products
+
+### Excise duty memoranda
+
+- [EDM2.2.2, Security Requirements for Certain Licensees and for Prescribed Persons Importing Tobacco Products](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edm2-2-2/security-requirements-certain-licensees-prescribed-persons-importing-tobacco-products.html) (revised)
+
+- EDM2.2.3, Government of Canada Bonds and Surety Bonds (revised)
+
+- EDM2.2.4, Approved Financial Institutions and Acceptable Bonding Companies (revised)
+
+### Excise taxes and special levies notices
+
+All GST/HST, excise duty and excise taxes and special levies publications can be found on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), at [www.cra.gc.ca/etsl](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html) and at [www.cra.gc.ca/exciseduty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html).
+
+To receive email notification as soon as a document is published on the CRA website, go to the [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) page at [www.cra.gc.ca/lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Enquiries
+
+**For online access to** **your GST/HST, softwood lumber products export charge, air travellers security charge, excise tax and duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments, and more), go to:
+
+- [www.cra.gc.ca/representatives](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), if you are an authorized representative or employee; or
+
+- [www.cra.gc.ca/mybusinessaccount](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), if you are the business owner.
+
+**For technical help while using our online services**:
+
+- business accounts, call 1-800-959-5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call collect at 1-613-940-8528
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+**For general information and to make enquiries regarding your account** (except for softwood lumber products export charge accounts), you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html) ; or
+
+- call Business Enquiries at 1-800-959-5525
+
+**For specific account-related enquiries,**use the online “Enquiries service” on My Business Account. Select the “Submit an enquiry” option to send us your question and receive a response electronically.
+
+**For enquiries regarding your softwood lumber products export charge account**, you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [www.cra.gc.ca/businessonline](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html) ; or
+
+- call 1-800-935-0313
+
+**To make enquiries regarding the status of specific GST/HST domestic rebate claims,** call the Business Enquiries line at 1-800-959-5525.
+
+**For GST/HST technical enquiries,**call GST/HST Rulings at 1-800-959-8287.
+
+**Forms and publications**
+
+- To access forms and publications **online**, go to [www.cra.gc.ca/forms](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+- To order forms and publications**by telephone**, call 1-800-959-5525.
+
+**Are you a GST/HST registrant located in Quebec?** To make an enquiry or obtain information on the GST/HST, contact Revenu Québec at 1‑800‑567‑4692 or visit its website at [www.revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+**Are you a selected listed financial institution (including the ones located in Quebec)?**
+
+- For **GST/HST** account-related enquiries or for registration for a CRA business number, call Business Enquiries at 1-800-959-5525. For GST/HST technical enquiries, call GST/HST Rulings at 1-855-666-5166.
+
+- For **QST** account-related enquiries for reporting periods ending on or after January 1, 2013 or for registration for a CRA business number effective on or after January 1, 2013, call Business Enquiries at 1-800-959-5525. For technical enquiries related to the amended QST, call GST/HST Rulings at 1-855-666-5166.
+
+The *Excise and* *GST/HST News* is published quarterly and highlights recent developments in the administration of the goods and services tax (GST) and harmonized sales tax (HST), First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the*Excise and GST/HST News*as it is published, [subscribe](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/subscribe-a-canada-revenue-agency-electronic-mailing-list.html) to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists/electronic-mailing-list-excise-gst-hst-news.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, *Excise and* *GST/HST News*, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

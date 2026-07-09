@@ -1,0 +1,200 @@
+---
+title: "G. G. Painting Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28972/index.do"
+last_modified: "2008-11-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 607"
+citation2: ""
+neutral_citation: "2008 CCI 607"
+decision_date: "2008-11-19"
+language: "fr"
+item_id: "28972"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6782
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:11:23.982000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7821a6325e11490d4edb9790bc14ec136e931ca1852d0e686881db063468ad10"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# G. G. Painting Ltd. c. M.R.N.
+
+- Citation: 2008 CCI 607
+- Decision date: 2008-11-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6782, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+G. G. Painting Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-19
+Référence neutre
+2008 CCI 607
+Numéro de dossier
+2008-357(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2008-357(EI)
+2008-358(CPP)
+ENTRE :
+G. G. PAINTING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er octobre 2008, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+Guy Gagnon
+Avocat de l’intimé :
+Me Andrew Majawa
+____________________________________________________________________
+JUGEMENT L’appel est accueilli conformément aux motifs du jugement ci‑joints, et la décision du ministre du Revenu national est annulée au motif que les travailleurs étaient des entrepreneurs indépendants qui avaient été engagés par G. G. Painting Ltd. en vertu d’un contrat d’entreprise, et par conséquent, n’occupaient pas un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada, ni un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi.
+Signé à Ottawa, Canada, ce 19e jour de novembre 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 2e jour de décembre 2008.
+Alya Kaddour‑Lord, traductrice
+Référence : 2008CCI607
+Date : 20081119
+Dossiers : 2008-357(EI)
+2008-358(CPP)
+ENTRE :
+G. G. PAINTING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] La question à trancher dans le présent appel consiste à savoir si trois peintres en bâtiment[1] avaient été engagés par l’appelante, G. G. Painting Ltd., à titre d’employés ou d’entrepreneurs indépendants.
+[2] Le ministre est d’avis que les travailleurs occupaient un emploi assurable[2] et ouvrant droit à pension[3] en vertu d’un contrat de louage de services. L’intimé a appelé à témoigner l’agente des décisions chargée du dossier, Linda Flores, et un des travailleurs, Katherine Stephens. Des trois travailleurs, Mme Stephens est la seule qui a déposé, mais en l’espèce, j’accepte son témoignage comme étant représentatif de la situation de tous les travailleurs concernés.
+[3] La décision du ministre était fondée sur les hypothèses de fait suivantes :
+[traduction]
+a) les faits admis aux paragraphes 1 et 2, ci‑dessus;
+b) pendant les périodes en cause, l’appelante exerçait les activités d’entrepreneure en peinture;
+c) l’appelante exerçait ses activités sous le nom de G. G. Painting Ltd.;
+d) Guy Gagnon gérait les activités courantes de l’appelante et prenait toutes les décisions majeures d’ordre commercial au nom de celle‑ci;
+e) l’appelante s’engageait par contrat à effectuer des travaux de peinture pour ses clients (les « travaux de peinture »);
+f) les travailleurs effectuaient des travaux de peinture pour les clients de l’appelante;
+g) la tâche principale des travailleurs consistait à peindre;
+h) les tâches connexes des travailleurs comprenaient le ponçage, le raclage et le nettoyage des lieux de travail;
+i) l’appelante achetait la peinture, les fournitures, les outils et l’équipement nécessaires pour respecter les contrats passés avec les clients;
+j) l’appelante assumait tous les frais de réparation, d’entretien et d’assurance des instruments de travail et de l’équipement;
+k) les travailleurs n’assumaient aucune responsabilité relativement aux frais d’exploitation de l’appelante;
+l) l’appelante donnait des instructions aux travailleurs sur les travaux de peinture à effectuer;
+m) l’appelante donnait des informations aux travailleurs au sujet des lieux où les travaux de peinture seraient effectués;
+n) l’appelante exigeait que les travailleurs effectuent les travaux de peinture en personne, et ils ne pouvaient pas engager d’assistants ou de sous‑traitants;
+o) les travailleurs étaient payés entre 10 $ et 16 $ de l’heure, en fonction de leur expérience;
+p) l’appelante fixait le taux de rémunération des travailleurs;
+q) l’appelante offrait ses services les jours de la semaine et le week‑end;
+r) les travailleurs effectuaient les travaux de peinture en semaine et pendant le week‑end, en fonction des échéances et des priorités définies par l’appelante;
+s) l’appelante fixait les heures de travail des travailleurs;
+t) les heures de travail des travailleurs étaient consignées sur des feuilles de temps;
+u) les travailleurs n’assumaient aucun responsabilité financière s’ils ne satisfaisaient pas aux obligations contractuelles que l’appelante avait envers ses clients;
+v) l’appelante était responsable du traitement des plaintes formulées par les clients au sujet des travaux de peinture;
+w) l’appelante offrait à ses clients une garantie sur les travaux de peinture effectués;
+x) les travailleurs ne faisaient pas de publicité pour leurs services, et ne se présentaient pas comme des travailleurs exploitant leur propre entreprise;
+y) les travailleurs n’exploitaient pas leur propre entreprise eu égard aux travaux de peinture qu’ils effectuaient;
+z) l’appelante payait les primes d’assurance de la Commission des accidents du travail pour tous les travailleurs;
+aa) l’appelante fournissait aux travailleurs des T-shirts de travail;
+bb) les travailleurs étaient formés par l’appelante;
+cc) l’appelante conservait le droit de congédier les travailleurs;
+dd) les travailleurs n’avaient effectué aucun investissement de capitaux dans une entreprise;
+ee) les travailleurs n’étaient pas en position d’enregistrer des pertes ou de réaliser des profits liés aux activités de l’appelante;
+ff) les travailleurs étaient payés par chèque chaque semaine;
+gg) les travailleurs n’étaient pas embauchés par l’appelante en vertu d’un contrat écrit;
+hh) pendant les périodes en cause, les travailleurs ont effectué des travaux de peinture pour l’appelante à titre d’employés engagés en vertu d’un contrat de louage de services.
+[4] L’avocat de l’intimé a passé longuement en revue la jurisprudence établissant les critères à examiner pour décider si un travailleur est un employé ou un entrepreneur indépendant, notamment les arrêts Wiebe Door Services Ltd. v. Minister of National Revenue[4], 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[5] et The Royal Winnipeg Ballet v. Canada (Minister of National Revenue)[6]. En quelques mots, pour rendre sa décision, la Cour doit considérer le degré de contrôle exercé par le payeur sur le travailleur, la propriété des instruments de travail, les chances de bénéfice et les risques de perte, et le degré d’intégration du travailleur dans l’entreprise du payeur. Quand l’analyse prescrite dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc. n’offre pas de solution concluante, la Cour peut prendre en considération l’intention des parties, à condition que celle‑ci soit compatible avec leurs agissements[7].
+[5] L’appelante était représentée par son directeur, Guy Gagnon, qui a également témoigné à l’audience. Comme c’est souvent le cas avec les appels de cette nature, ce ne sont pas tant les faits qui sont en cause que leur interprétation. Toutefois, l’appelante conteste expressément les faits énoncés aux alinéas 8p), s), t), z) et gg).
+[6] Avant de constituer la société G. G. Painting Ltd. en 1998, M. Gagnon avait lui‑même été peintre en bâtiment. Il avait toujours agi comme sous‑traitant, ce qui était d’après lui monnaie courante dans ce secteur d’activité. Ayant l’intention d’embaucher des travailleurs pour sa propre société en cette même qualité, il a effectué des démarches pour s’enquérir des modalités que devait revêtir la relation unissant l’appelante avec ses travailleurs. Pour commencer, il s’est renseigné sur ce qui distinguait un employé d’un entrepreneur indépendant. Il a demandé à son avocat de rédiger un contrat type[8] destiné à des sous‑traitants, dont il pourrait se servir dans le cadre de ses activités commerciales. Il a contacté WorkSafeBC afin de savoir dans quelles circonstances des primes d’assurance devaient être payées pour les sous‑traitants, et, compte tenu des informations reçues[9], l’appelante a payé des primes d’assurance pour les trois travailleurs visés. De plus, pendant les années en cause, l’appelante a dûment déclaré les sommes payées aux travailleurs en remplissant à l’égard de Katherine Stephens, de Benjamin Kohlman et de Michel Émond l’« État des paiements contractuels »[10] T5018, qui est le formulaire prescrit par la Loi de l’impôt sur le revenu pour déclarer la rémunération versée à des sous‑traitants.
+[7] C’est la découverte de ces états T5018 qui a incité Mme Flores à mener une enquête plus approfondie au sujet du statut des travailleurs concernés. Mme Flores a interrogé Mme Stephens et M. Kohlman, ainsi que Rosamartha Gonzalez, aide‑comptable de l’appelante. Elle leur a également demandé de remplir les questionnaires standard du ministère, essentiellement une liste de contrôle des critères définis par la jurisprudence. Elle a examiné les contrats signés par Mme Stephens et M. Kohlman. En se fondant sur ces informations, elle a conclu que les travailleurs avaient été engagés en vertu d’un contrat de louage de services, et qu’ils étaient des employés.
+[8] À mon avis, cette conclusion n’est pas étayée par la preuve. Pour les raisons exposées ci‑dessous, je suis convaincue que l’appelante s’est acquittée de son obligation de prouver que les travailleurs avaient été engagés à titre d’entrepreneurs indépendants.
+[9] Quand il embauchait des travailleurs pour le compte de l’appelante, M. Gagnon avait pour habitude de leur faire remplir le contrat type de la société. Ce contrat désigne expressément le travailleur comme [traduction] « le Sous‑traitant ». Il indique les nom, adresse, numéro d’assurance sociale et numéro de permis de conduire du travailleur, de même que l’adresse où celui‑ci a effectué son premier travail et son taux de rémunération. Le préambule du contrat est ainsi rédigé :
+[traduction]
+ATTENDU QUE :
+A. G. G. Painting Ltd. a conclu un contrat avec un propriétaire de maison en vue d’effectuer chez ce dernier des travaux de peinture au [adresse civique de la maison à peindre] (la « maison »);
+B. G. G. Painting Ltd. souhaite embaucher le Sous‑traitant à titre de sous‑traitant afin qu’il effectue une partie ou la totalité de ces travaux de peinture dans la maison;
+C. le Sous-traitant souhaite être embauché à titre de sous-traitant afin de fournir ses services à G. G. Painting Ltd.
+Le paragraphe 3 du contrat prévoit ce qui suit :
+[traduction]
+3. Le Sous-traitant convient qu’il n’est pas employé ou associé de G. G. Painting Ltd. Quand il n’agit pas à titre de sous‑traitant pour le compte de G. G. Painting Ltd., le Sous‑traitant est libre d’offrir ses services à d’autres entreprises que G. G. Painting Ltd., dans la mesure où ces engagements ne l’empêchent pas de s’acquitter de ses obligations envers G. G. Painting Ltd. telles qu’elles sont définies dans le présent contrat. Il s’ensuit que G. G. Painting Ltd. aura la responsabilité d’effectuer les retenues salariales habituelles que la Loi exige de l’employeur. Le Sous-traitant sera seul responsable du paiement de ses impôts et autres versements auprès des autorités gouvernementales compétentes.
+[10] J’accepte l’argument de l’intimé voulant que le terme que les parties utilisent pour désigner leur relation ne soit pas un facteur déterminant lorsqu’il s’agit de connaître la véritable nature de cette relation[11]. Toutefois, je suis d’avis que la preuve étayant l’existence d’une relation payeur/sous-traitant entre l’appelante et les travailleurs va au‑delà de la désignation qu’ils ont choisie.
+[11] Quand elle a signé son contrat avec l’appelante, Mme Stephens était âgée de 17 ans et poursuivait des études. Tout comme ceux de M. Gagnon et de Mme Flores, son témoignage était crédible. Étant donné que ses études étaient sa priorité, elle était intéressée par un travail qui s’insérerait facilement dans son emploi du temps scolaire. M. Gagnon a témoigné que l’appelante avait pour habitude de négocier avec les travailleurs leur taux de rémunération, en fonction de leur expérience et de leurs attentes en la matière. La pièce A‑2, qui montre qu’il existait des différences entre les taux de rémunération des travailleurs, le confirme : M. Kohlman était payé 9 $ de l’heure, et Mme Stephens a commencé avec un tarif horaire de 10 $. Elle a accepté ce montant parce qu’il était supérieur à ce qu’elle avait gagnait auparavant. Bien que son expérience professionnelle ait été limitée, ce qui est compréhensible, elle avait été « employée » dans l’industrie de la restauration rapide, et elle a fait preuve de sincérité en déclarant qu’en comparaison, travailler pour l’appelant représentait une solution de rechange séduisante. Lorsque sa technique s’est améliorée et qu’elle a commencé à recevoir des compliments de la part de M. Gagnon sur son travail, Mme Stephens a pris l’initiative de négocier des augmentations du tarif horaire dont elle et M. Gagnon avaient convenu à l’origine.
+[12] Mme Stephens a témoigné qu’elle avait toute latitude pour fixer le nombre d’heures qu’elle voulait travailler; les rares fois où elle était malade ou ne souhaitait pas travailler, elle prévenait simplement M. Gagnon qu’elle ne serait pas disponible. Elle a déclaré que M. Gagnon était [traduction] « plutôt flexible » par rapport à ses heures de travail, une appréciation appuyant l’affirmation de ce dernier, voulant que les travailleurs, en tant que sous‑traitants, soient restés maîtres de leur destinée : libres de choisir de travailler ou non, libres d’offrir leurs services à l’appelante ou à d’autres employeurs, à leur guise.
+[13] Sur les lieux de travail, Mme Stephens était sa propre patronne. Tout en s’en tenant aux spécifications des clients, elle gérait les tâches dont elle était responsable, comme le raclage, le ponçage, l’installation des bâches et des échelles, le nettoyage des pinceaux et la peinture. Contrairement à ce qui est mentionné dans les hypothèses formulées aux alinéas 8l), m) et r), l’appelante et les travailleurs étaient assujettis aux mêmes contraintes lorsqu’il s’agissait de remplir leurs rôles respectifs en conformité avec les exigences des clients pour ce qui est de la nature des tâches et du lieu de travail. Le fait qu’elle communiquait de telles informations pratiques aux travailleurs n’implique pas que l’appelante exerçait un « contrôle » sur eux.
+[14] Bien que l’hypothèse selon laquelle les heures de travail effectuées par les travailleurs étaient consignées sur des feuilles de temps[12] soit techniquement correcte, on ne peut en déduire qu’il s’agissait là d’un signe de contrôle. Mme Stephens effectuait elle aussi un suivi de ses heures de travail, en les consignant parfois dans son téléphone cellulaire. Elle ne présentait pas de factures proprement dites à M. Gagnon : selon les termes de leur entente, Mme Stephens comparait les heures comptabilisées par M. Gagnon à ses propres relevés, et si leurs données respectives ne coïncidaient pas, elle discutait du problème avec ce dernier pour arriver à un montant mutuellement satisfaisant. Il ressort clairement des témoignages de M. Gagnon et de Mme Stephens que l’appelante comptait sur les services de travailleurs indépendants qui, pour diverses raisons, étaient attirés par la perspective de rester maîtres de leurs heures de travail ainsi que par l’absence d’engagement à long terme. Par exemple, Mme Stephens a témoigné ne pas avoir de souvenir net des deux autres travailleurs, et ce, bien qu’elle ait travaillé pour l’appelante en grande partie au même moment qu’eux; elle [traduction] « ne connaissait le nom de pratiquement personne, encore moins leurs noms de famille », et il y avait toujours [traduction] « beaucoup de gens qui allaient et venaient ». Ces déclarations sont compatibles avec l’assertion voulant que les travailleurs aient conclu leurs propres ententes avec l’appelante en vue de fournir des services professionnels selon leurs propres conditions, sur des lieux de travail différents. Dans de telles circonstances, il serait déraisonnable de s’attendre à ce que les travailleurs préparent des factures en bonne et due forme. Dans le même ordre d’idées, le fait que les travailleurs n’avaient pas de cartes de visite et ne faisaient aucune publicité pour leurs services ne revêt que peu d’importance.
+[15] Dans ses observations, l’avocat de l’intimé a décrit Mme Stephens comme étant [traduction] « jeune et peu sophistiquée ». Pourtant, celle‑ci m’est apparue comme une jeune femme très intelligente, capable de s’auto‑discipliner suffisamment pour conjuguer travail et études. Elle a surveillé de près l’argent qu’on lui devait en rémunération de ses services, et elle a fait preuve de confiance en elle en renégociant son taux de rémunération au fur et à mesure que son travail s’améliorait. Je suis convaincue qu’elle avait compris, et convenu avec M. Gagnon, qui agissait au nom de l’appelante, qu’elle était engagée à titre d’entrepreneure indépendante.
+[16] L’hypothèse formulée à l’alinéa 8d), voulant que M. Gagnon ait contrôlé les activités commerciales de l’appelante, n’est pas très surprenante, étant donné que celui‑ci était l’âme dirigeante de la société. Toutefois, le fait qu’il contrôlait les activités de la société n’est pas déterminant quand on cherche à savoir si l’appelante exerçait un contrôle sur Mme Stephens et les autres travailleurs. De même, en ce qui concerne l’alinéa 8cc), je déduis du témoignage de Mme Stephens qu’elle pouvait travailler quand et si elle le souhaitait, et qu’elle était également en droit de mettre fin à son contrat avec l’appelante en tout temps. Finalement, l’hypothèse énoncée à l’alinéa 8bb) porte sur la formation; dans la mesure où un strict minimum de formation était donné, il ne fait aucun doute que c’est l’appelante qui s’en chargeait. Toutefois, ce fait ne contrebalance pas les effets des autres éléments de preuve, qui minent la conclusion voulant que l’appelante ait exercé un contrôle sur les travailleurs. En ce qui a trait au versement de primes d’assurance à la Commission des accidents du travail[13], la pièce A-1 montre que dans certains cas, un payeur doit verser des primes d’assurance pour les entrepreneurs indépendants ou les sous‑traitants qu’il engage. Ainsi, le fait que l’appelante payait des primes d’assurance pour les travailleurs n’est pas déterminant en l’espèce.
+[17] Finalement, le ministre a tenu pour acquis que [traduction] « les travailleurs n’étaient pas embauchés […] en vertu d’un contrat écrit »[14]. Bien qu’elle n’ait pas contesté la validité des contrats que l’appelante avait passés avec Mme Stephens et M. Kohlman, l’agente des décisions ne les a pas pris en considération parce que, selon ses dires, ils ne s’appliquaient pas à la période en cause[15]. La pièce A-2 montre que les contrats de Mme Stephens et de M. Kohlman ont été signés respectivement en juillet 2004 et en juin 2004, dates qui se situent effectivement en dehors de la période pendant laquelle le travail en cause a été effectué. Toutefois, ce fait ne conduit pas inexorablement à décider que les travailleurs étaient des employés. La conclusion voulant qu’un travailleur ait été engagé en vertu d’un contrat d’entreprise ne dépend pas de l’existence d’un contrat écrit. Les témoignages de Mme Stephens et de M. Gagnon ne me donnent aucune raison de douter du fait qu’il existait entre eux un accord implicite voulant que l’entente écrite initiale, modifiée oralement de temps en temps lorsque nécessaire, fût continuellement renouvelée avec chaque nouveau projet jusqu’à ce que l’une ou l’autre des parties y mette fin. Dans le contexte des activités commerciales respectives de l’appelante et des travailleurs, il était tout à fait raisonnable de procéder ainsi.
+[18] L’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., fréquemment cité, établit clairement que tous les critères ne seront pas applicables dans toutes les causes, et qu’aucun critère n’a davantage de poids qu’un autre. En l’espèce, la propriété des instruments de travail n’entre pas en ligne de compte. J’accepte l’observation de l’intimé voulant que les travailleurs aient eu peu de chances de profit et de risques de perte. Toutefois, je suis convaincue qu’il a été établi par une preuve prépondérante que l’appelante n’exerçait pas de contrôle sur les travailleurs et que ces derniers n’étaient pas intégrés dans la société. Ils étaient des entrepreneurs indépendants, et de ce fait, ils n’occupaient pas un emploi assurable ou ouvrant droit à pension. L’appel est accueilli.
+Signé à Ottawa, Canada, ce 19e jour de novembre 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 2e jour de décembre 2008.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI607
+NOS DES DOSSIERS DE LA COUR : 2008-357(EI); 2008-358(CPP)
+INTITULÉ : G. G. Painting Ltd. et Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 1er octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 19 novembre 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+Guy Gagnon
+Avocat de l’intimé :
+Me Andrew Majawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Katherine Stephens, Benjamin Kohlman et Michel Émond.
+[2] Au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi.
+[3] Au sens de l’alinéa 6(1)a) du Régime de pensions du Canada.
+[4] 87 DTC 5025 (C.A.F.).
+[5] [2001] A.C.S. n° 61.
+[6] 2006 DTC 6323 (C.A.F.).
+[7] National Capital Outaouais Ski Team c. Canada (Ministre du Revenu national), 2008 CAF 132; City Water International Inc. c. Canada, [2006] A.C.F. n° 1653 (C.A.F.).
+[8] Pièce A-2.
+[9] Pièce A-1.
+[10] Pièce A-3.
+[11] Hodgkinson c. Canada (Ministre du Revenu national – M.R.N.), [2007] A.C.F. n° 1409; National Capital Outaouais Ski Team v. Canada (Minister of National Revenue – M.N.R.), [2008] 4 C.T.C. 273.
+[12] Réponse à l’avis d’appel, alinéa 8t).
+[13] Réponse à l’avis d’appel, alinéa 8z).
+[14] Réponse à l’avis d’appel, alinéa 8gg).
+[15] Du 1er janvier 2005 au 4 juillet 2005 dans le cas de Katherine Stephens, du 26 février 2005 au 29 juillet 2006 dans celui de Benjamin Kohlman, et du 1er janvier 2005 au 16 novembre 2006 dans celui de Michel Émond.

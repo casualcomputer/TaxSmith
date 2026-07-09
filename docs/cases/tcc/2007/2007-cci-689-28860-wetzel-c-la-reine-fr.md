@@ -1,0 +1,143 @@
+---
+title: "Wetzel c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28860/index.do"
+last_modified: "2007-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 689"
+citation2: ""
+neutral_citation: "2007 CCI 689"
+decision_date: "2007-10-01"
+language: "fr"
+item_id: "28860"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1318
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:14:23.710000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2aa1b0e1fb118ef5d3569c74053bca9b0797b5579d1d8ff38aa9310744b587d9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wetzel c. La Reine
+
+- Citation: 2007 CCI 689
+- Decision date: 2007-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1318, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wetzel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-01
+Référence neutre
+2007 CCI 689
+Numéro de dossier
+2007-1155(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI689
+Dossier : 2007-1155(IT)G
+ENTRE :
+MICHAEL G. WETZEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+CERTIFICATION DE LA TRANSCRIPTION DES
+MOTIFS DU JUGEMENT
+Je requiers que la transcription certifiée ci‑jointe des motifs de jugement rendus oralement à l’audience à St. John’s (Terre‑Neuve‑et‑Labrador), le 2 octobre 2007, soit déposée.
+« Diane Campbell »
+Juge Campbell
+Signé à Ottawa, Canada, ce 22e jour de novembre 2007.
+COUR CANADIENNE DE L’IMPÔT
+LOI DE L’IMPÔT SUR LE REVENU
+Référence : 2007CCI689
+ENTRE : 2007-1155(IT)G
+MICHAEL G. WETZEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+----------
+Audience tenue devant Mme la juge Campbell, de la Cour canadienne de l’impôt, à St. John’s (Terre‑Neuve‑et‑Labrador), le mardi 1er octobre 2007.
+-----------
+MOTIFS ORAUX DU JUGEMENT
+-----------
+COMPARUTIONS :
+M. Michael Wetzel
+(agissant pour son propre compte)....... pour l’appelant
+Me Caitlin Ward.......................... pour l’intimée
+Mme Paulette Murphy................ greffière audiencière
+-----------
+2007-1155(IT)G
+Michael Wetzell c. Sa Majesté la Reine
+LA JUGE :
+Q. Je requiers que le dossier montre que les motifs sont ici rendus à l’égard de la requête que l’intimée a présentée en vue de faire annuler l’avis d’appel.
+L’intimée a présenté une requête dans laquelle elle demande l’annulation de l’avis d’appel déposé par l’appelant le 28 février 2007. Dans cet avis, il était fait mention de questions fiscales se rapportant à des années d’imposition antérieures à l’année 1994, mais l’appelant et l’intimée ont convenu que seules les années d’imposition 1994 et 1995 sont visées par l’appel. L’intimée fonde sa demande d’annulation de l’avis d’appel concernant ces deux années d’imposition sur la doctrine de la chose jugée, en ce sens que, dans son avis d’appel, l’appelant cherche à soulever des questions qui ont déjà été tranchées par un jugement de la Cour d’appel fédérale. De plus, l’intimée a soutenu que l’appel interjeté par l’appelant constitue un abus de procédure et que l’appelant ne demande pas une réparation que la présente cour peut accorder aux termes du paragraphe 171(1) de la Loi de l’impôt sur le revenu.
+En répondant à la présente requête, l’appelant soulève plusieurs questions; il affirme notamment :
+(1) que l’intimée n’a pas déposé de réponse à l’avis d’appel dans le délai de 60 jours prescrit à l’article 44 des Règles de la Cour canadienne de l’impôt;
+(2) que l’intimée ne peut pas invoquer la chose jugée parce que, en l’absence d’un avis de question constitutionnelle, ni la présente cour ni la Cour d’appel fédérale n’ont compétence pour trancher des questions fondées sur la Charte;
+(3) qu’il serait inéquitable que la présente cour applique la doctrine de la chose jugée ou qu’elle entende l’argument fondé sur l’abus de procédure et que cela entraînerait une injustice;
+(4) que l’intimée n’a pas payé les dépens de l’appelant comme elle était tenue de le faire aux termes d’un arrêt rendu en 2006 par la Cour d’appel fédérale, ce qui a eu pour effet de causer un préjudice à l’appelant et l’a empêché de se faire représenter par un avocat dans le cadre de la présente requête, de sorte qu’il y a eu abus de procédure de la part de l’intimée.
+Pour examiner et analyser ces questions, il importe de faire l’historique du traitement des années d’imposition 1994 et 1995 ainsi que d’énoncer la suite des événements qui ont donné lieu à la présente requête. Selon l’avis d’appel, l’appelant est un autochtone d’origine nord‑américaine. Pendant les années 1970 et au début des années 1980, l’appelant a travaillé avec les membres de la communauté de Conne River ainsi qu’avec les gouvernements fédéral et provincial en vue de faire reconnaître la communauté en tant que « communauté autochtone » dont les membres fondateurs étaient inscrits. En fin de compte, le gouvernement a approuvé l’établissement de la bande de Conne River. Au cours des années 1980, les critères d’appartenance à cette bande ont changé, l’origine indienne nord‑américaine, qui s’appliquait à l’appelant, étant remplacée par l’origine indienne canadienne, qui ne s’appliquait pas à l’appelant. L’appelant affirme que ce changement a été effectué en vue de lui nier expressément son appartenance en tant que membre fondateur de la bande en question, de sorte qu’il était tenu de payer des impôts sur le revenu, alors que des particuliers se trouvant dans une situation semblable à la sienne ont été inscrits à titre de membres de la bande et bénéficiaient donc d’une exonération d’impôt. Tel est le fondement de l’allégation de l’appelant selon laquelle il y a eu violation de la Charte.
+L’avis d’appel ici en cause constitue la troisième d’une série de mesures qui ont commencé par une décision rendue par la Cour canadienne de l’impôt au mois d’août 2004, par laquelle l’appelant a demandé et obtenu une réparation fondée sur la Charte à l’égard des années d’imposition 1994 et 1995. Le juge Margeson a conclu que l’appelant n’avait pas à soumettre un avis de question constitutionnelle, étant donné qu’il ne contestait pas la validité de dispositions de la Loi de l’impôt sur le revenu, de la Loi sur les Indiens ou des décrets. Le juge a ensuite reconnu qu’il y avait violation de l’article 15 de la Charte et il a appliqué le paragraphe 24(1) en vue de tenter de remédier à la situation. Par conséquent, les cotisations concernant ces années d’imposition ont été annulées. Le ministre du Revenu national (le « ministre ») a interjeté appel de cette décision devant la Cour d’appel fédérale et, en février 2006, celle‑ci a annulé, en faveur du ministre, le jugement initialement rendu par la présente cour.
+La Cour d’appel fédérale a conclu que l’omission de donner un avis de question constitutionnelle portait un coup fatal à la demande de M. Wetzel et a en outre conclu que le traitement différent infligé à M. Wetzel n’était pas fondé sur des caractéristiques personnelles analogues aux motifs énumérés, de façon à violer le paragraphe 15(1). La Cour d’appel fédérale a jugé que, dans sa décision, la Cour canadienne de l’impôt avait conclu que M. Wetzel avait été traité d’une façon inappropriée, mais elle a attribué le problème, au paragraphe 23 de l’arrêt, aux « fautes relevant du droit administratif [...] [au fait] que les bureaucrates du ministère [avaient] agi de mauvaise foi [...] [et au fait] que le pouvoir exécutif [avait] agi à des fins illégitimes ».
+L’arrêt de la Cour d’appel fédérale concluait que la Cour canadienne de l’impôt avait commis une erreur en décidant qu’il y avait eu violation des droits reconnus à l’appelant par le paragraphe 15(1), parce que le décret n’entraînait pas une différence de traitement par rapport à tous les autres résidents d’origine indienne de Conne River. Le critère applicable à l’origine indienne canadienne avait le même effet pour M. Wetzel que celui qu’il avait pour tous les résidents de Conne River qui étaient d’origine indienne non canadienne.
+L’appelant, M. Wetzel, a demandé l’autorisation de se pourvoir en appel de cet arrêt devant la Cour suprême, qui a refusé d’accorder l’autorisation. Par conséquent, le ministre a établi une nouvelle cotisation et a recouvré environ 62 000 $ à l’égard de ces années d’imposition, ce sur quoi l’appelant a déposé l’avis d’appel ici en cause. Par conséquent, la position prise par l’intimée est que l’appelant cherche encore à soulever des questions qui ont été irréfutablement tranchées par un jugement de la Cour d’appel fédérale, l’autorisation de se pourvoir en appel devant la Cour suprême ayant en outre été refusée.
+La doctrine de la chose jugée vise essentiellement à assurer le caractère définitif des instances, personne ne pouvant faire l’objet d’une action intentée par la même personne plus d’une fois sur la même question. De plus, il ressort clairement de la jurisprudence (arrêt Chevron Canada Resources Ltd. c. Canada, [1998] A.C.F. no 1404, dans lequel était citée la décision Thomas v. Trinidad and Tobago, (1990) 115 N.R. 313, page 316) que ce principe ne s’applique pas seulement lorsque la réparation recherchée et les motifs invoqués dans les deux actions sont les mêmes, mais qu’il s’applique aussi aux questions de fait ou de droit, directement liées, qui auraient pu être soulevées dans le cadre de la première action, mais qui ne l’ont pas été.
+Dans l’arrêt Danyluk c. Ainsworth Technology Inc., [2001] A.C.S. no 46, le juge Binnie a expliqué les principes applicables à cette doctrine; au paragraphe 25 de ses motifs, le juge a examiné les trois conditions qui doivent être présentes pour que cette doctrine s’applique. Il s’agit des conditions suivantes : (1) que la même question ait été décidée; (2) que la décision judiciaire invoquée comme créant la préclusion soit finale; (3) que les parties dans la décision judiciaire invoquée, ou leurs ayants droit, soient les mêmes que les parties engagées dans l’affaire où la préclusion est soulevée, ou leurs ayants droit.
+L’intimée soutient que ces trois conditions sont présentes en l’espèce. Après avoir entendu les arguments des parties à la présente requête et après avoir examiné les décisions rendues par le juge Margeson, de la présente cour, et par la Cour d’appel fédérale, ainsi que l’avis d’appel ici en cause, je dois conclure que les questions que l’appelant cherche à soulever devant la présente cour sont les mêmes que celles qui ont été irréfutablement tranchées dans l’arrêt de la Cour d’appel fédérale.
+La Cour d’appel fédérale n’a pas renvoyé l’affaire à la présente cour pour réexamen et l’autorisation de se pourvoir en appel devant la Cour suprême n’a pas été accordée. La Cour d’appel fédérale a expressément conclu que le décret ne violait pas les droits garantis à l’appelant par le paragraphe 15(1) de la Charte et elle a rejeté l’appel qu’il a interjeté à l’égard des années d’imposition 1994 et 1995. L’avis d’appel ici en cause énonce simplement de nouveau les questions déjà traitées par la Cour d’appel fédérale en 2006. L’appel constitue simplement une tentative pour plaider de nouveau des questions qui ont déjà été tranchées. Par conséquent, toutes les conditions sont présentes et il ne serait pas approprié de permettre la poursuite de l’appel, compte tenu de la doctrine de la préclusion; de plus, cela entraînerait un abus de la procédure de la présente cour.
+Si je comprends bien l’argument invoqué par M. Wetzel, la question qui est réellement en litige se rapporte à la contestation qui est faite à cause de la discrimination à laquelle se seraient livrés de hauts fonctionnaires de la Couronne, ce qui a empêché l’inscription de M. Wetzel à titre de membre de la bande; de plus, il est soutenu qu’étant donné que la Cour d’appel fédérale a décidé que la présente cour n’avait pas compétence pour entendre l’argument en l’absence d’un avis de question constitutionnelle, aucune décision n’a, en fait, été rendue. Par conséquent, le bien‑fondé de l’argument relatif à la Charte n’a pas été examiné dans le cadre d’une audience complète et équitable.
+Toutefois, contrairement aux arguments de l’appelant, la décision du juge Margeson existe encore et n’est pas entachée de nullité, bien qu’elle n’ait peut‑être pas vraiment valeur de précédent, compte tenu de l’arrêt ultérieur de la Cour d’appel fédérale. Il semble que tous les faits aient été soumis au juge Margeson et que la Cour d’appel fédérale ait eu devant elle tout le dossier. Par conséquent, la Cour d’appel fédérale avait compétence pour statuer comme elle l’a fait sur l’appel interjeté par le ministre. Dans son jugement, la Cour d’appel fédérale mentionnait simplement l’omission de fournir l’avis approprié et se fondait sur cette omission. L’argument de l’appelant semble être fondé non pas sur un manquement aux droits qui sont reconnus par la Charte, à cause de la législation attentatoire, mais d’une façon plus appropriée sur le fait que les actions de la Couronne, lorsqu’elle a formulé et appliqué un décret, ont causé des problèmes à l’appelant, au sujet de son statut de membre, de sorte que ces actions violaient ses droits garantis par le paragraphe 15(1). L’appelant cherche donc à faire annuler la réclamation de l’intimée, quant aux arriérés d’impôt pour les années en question, et à obtenir le remboursement des impôts et des intérêts. Je me reporte aux alinéas 21a) et b) de son avis d’appel. Le paragraphe 171(1) énonce les paramètres qui s’appliquent à la présente cour lorsqu’il s’agit d’accorder une réparation dans un appel de nature fiscale. Le paragraphe 24(1) de la Charte ne crée pas des tribunaux compétents, mais confère simplement des pouvoirs additionnels aux tribunaux, indépendamment de la Charte. Ce n’est que lorsque la loi confère à un tribunal une compétence sur les parties, sur les questions et sur le pouvoir de prendre le décret que ce tribunal peut accorder une réparation aux termes du paragraphe 24(1) de la Charte. Toutefois, la présente cour n’a pas la compétence voulue pour accorder une réparation aux termes du paragraphe 24(1) pour le motif qu’un décret viole l’article 15 de la Charte. Même s’il y avait violation, la Cour n’a pas compétence pour remédier à la situation.
+Enfin, en ce qui concerne l’argument de l’appelant selon lequel l’intimée n’a pas déposé une réponse à l’avis d’appel comme l’exige l’article 44 des Règles et qu’elle devrait être empêchée de déposer la présente requête, je conclus, même si l’intimée n’a pas déposé de réponse dans le délai de 60 jours et qu’elle a plutôt déposé la présente requête, que j’ai la compétence inhérente pour entendre la requête et statuer sur le fond de celle‑ci, comme je l’ai fait.
+En résumé la requête de l’intimée est accueillie et l’avis d’appel de l’appelant est annulé. Il semblerait que, à un niveau administratif quelconque, l’appelant ait été victime d’une faute, mais il s’est prévalu de la façon appropriée des divers recours offerts au sein du système judiciaire et je ne puis tout simplement pas lui venir en aide, même si je comprends bien sa situation. Ni l’une ni l’autre partie n’a traité de la question des dépens lors de l’audition de la requête; par conséquent, aucune ordonnance ne sera rendue à ce sujet.
+Traduction certifiée conforme
+Ce 10e jour de janvier 2008
+Christian Laroche
+RÉFÉRENCE : 2007CCI689
+DOSSIER DE LA COUR : 2007-1155(IT)G
+INTITULÉ : Michael G. Wetzel
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : St. John’s (Terre-Neuve-et-Labrador)
+DATE DE L’AUDIENCE : Le 1er octobre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT ORAL : Le 2 octobre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Caitlin Ward
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

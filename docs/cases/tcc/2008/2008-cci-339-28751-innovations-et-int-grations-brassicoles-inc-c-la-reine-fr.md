@@ -1,0 +1,161 @@
+---
+title: "Innovations et intégrations brassicoles Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28751/index.do"
+last_modified: "2008-07-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 339"
+citation2: ""
+neutral_citation: "2008 CCI 339"
+decision_date: "2008-07-03"
+language: "fr"
+item_id: "28751"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1538
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:35:52.079000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "029095af879e6211140f2d1a9122f389878dec1e6e24d998d332b44bdf98c219"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Innovations et intégrations brassicoles Inc. c. La Reine
+
+- Citation: 2008 CCI 339
+- Decision date: 2008-07-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1538, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Innovations et intégrations brassicoles Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-03
+Référence neutre
+2008 CCI 339
+Numéro de dossier
+2007-3271(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3271(IT)I
+ENTRE :
+INNOVATIONS ET INTÉGRATIONS BRASSICOLES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+__________________________________________________________________
+Appel entendu le 12 mars 2008, à Sherbrooke (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Jean-François Blais
+Avocat de l'intimée :
+Me Philippe Dupuis
+__________________________________________________________________
+JUGEMENT
+L'avis d’appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2001 est annulé, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de juillet 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008 CCI 339
+Date : 20080703
+Dossier : 2007-3271(IT)I
+ENTRE :
+INNOVATIONS ET INTÉGRATIONS BRASSICOLES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel assez particulier; en effet, l’appelante a déjà obtenu gain de cause aux termes d’un jugement rendu le 25 octobre 2005 et modifié le 1er décembre 2005 par l’honorable juge Bédard de la Cour.
+[2] Au moment de l’exécution du jugement (dossier no 2004‑2805(IT)I), relatif à la nouvelle cotisation du 9 décembre 2003 pour l’année d’imposition 2001, l’appelante s’est rendue compte qu’elle était pénalisée pour un montant de 7 000 $ étant donné que la cause avait été entendue en vertu de la procédure informelle plutôt qu’en vertu de la procédure générale.
+[3] Or, le présent appel vise essentiellement le montant de 7 000 $ que le premier jugement n’a pas permis à l’appelante de recouvrer.
+[4] Les parties, la nature et l’objet du litige sont donc les mêmes. Le jugement rendu le 25 octobre 2005 et modifié le 1er décembre 2005 était l’aboutissement d’un litige relatif à des dépenses de recherche scientifique et de développement expérimental. L’honorable Paul Bédard a retenu les arguments de l’appelante et lui a donné raison.
+[5] Le dossier en question a été entendu en vertu de la procédure informelle prévue à l’article 17 des Règles de la Cour canadienne d’impôt (procédure informelle).
+[6] En vertu de cette disposition, le montant en litige ne doit pas dépasser la limite établie à 12 000 $. Au-dessus de cette limite, le dossier est assujetti à la procédure dite générale. En l’espèce, le dossier acheminé suivant la procédure informelle.
+[7] La distinction entre les deux types de procédures n’a rien d’anodin et n’est pas sans conséquences. Les particularités se manifestent, notamment, au niveau des dépens, mais aussi au niveau des règles de preuve qui sont plus strictes sous le régime de la procédure générale que sous le régime de la procédure informelle.
+[8] De façon générale, les parties sont informées quant à la limite et quant aux différences entre les deux régimes procéduraux particulièrement lorsque le montant en litige se situe près de la limite.
+[9] D’ailleurs, en l’espèce, la question a été soulevée une première fois par l’intimée à la suite de l’avis d’appel de l’appelante, a été reprise dans la Réponse à l’avis d’appel et, finalement, a été soulevée, en début d’audience, devant l’honorable juge Bédard.
+[10] Malgré le fait que la question a été soulevée, le dossier n’a jamais fait l’objet d’un changement pour qu’il soit entendu en vertu de la procédure générale. L’appelante plaide l’ignorance, soutenant qu’elle aurait fait une demande de changement de procédure si elle avait obtenu tous les renseignements requis pour lui permettre de faire un choix éclairé.
+[11] D’une part, l’ignorance n’est pas une excuse et, d’autre part, le représentant de l’appelante, une personne qui n’a pas de difficulté à s’exprimer et qui, manifestement, était en mesure de comprendre et surtout d’évaluer et d’analyser la situation, n’est pas intervenu, ce qui pourrait être certainement interprété comme une acceptation tacite du statu quo.
+[12] En d’autres termes, le représentant de l’appelante a peut-être, et je dis bien seulement peut-être, évalué la situation et décidé de jouer la carte de l’ignorance pour le motif que, sous le régime de la procédure informelle, un échec s’avérait moins coûteux sur le plan des frais, ses chances d’obtenir le plein montant en cause advenant le scénario inverse étant également possible, voire probable. Malheureusement pour l’appelante, l’intimée a refusé de lui accorder le plein montant en question. Ces observations n’ont évidemment aucun effet sur le présent dossier.
+[13] La parenthèse étant fermée, il est manifeste que le dossier aurait dû être assujetti à la procédure générale. À qui imputer la responsabilité de ce mauvais choix ou de l’erreur?
+[14] Il s’agit là d’une question sans intérêt à ce niveau-ci puisque, malheureusement, il arrive que des jugements soient rendus sans fondements légaux ou à partir de dispositions non pertinentes, et ce bien que la Cour doive respecter et appliquer des fondements juridiques lorsqu’ils ne sont pas mis en cause pour motifs d’inconstitutionnalité ou de violation de la charte.
+[15] Le rôle des tribunaux n’est pas de légiférer, mais essentiellement d’appliquer et de respecter les lois édictées par le législateur.
+[16] Dans un premier temps, le tribunal de première instance rend une décision et dans un deuxième temps, à l’initiative de l’une ou l’autre des parties, sinon des deux, la cour d’appel peut être saisie du dossier. D’ailleurs, il s’agit là de la raison d’être des tribunaux d’appel qui ont notamment pour mission d’annuler, de modifier et même d’ordonner un nouveau procès à la suite d’une décision d’un tribunal de première instance qui a été jugée mal fondée.
+[17] En l’espèce, l’appelante n’a pas interjeté appel du jugement dans les trente jours suivant le prononcé du jugement modifié le 1er décembre 2005.
+[18] Lorsque la Cour dispose d’un litige et rend un jugement, un certain nombre de recours existent pour la partie qui se croit lésée.
+[19] Tout d’abord, une partie peut entreprendre des démarches pour faire corriger une ou des erreurs manifestes n’ayant pas d’incidence sur le fond du jugement; d’ailleurs, le jugement a été modifié à la demande de l’appelante le 1er décembre 2005.
+[20] Une partie peut, dans certaines circonstances, à des conditions précises, demander la réouverture de l’enquête, notamment lorsque de nouveaux éléments de preuve sont découverts après le procès alors que la partie affectée est sans reproche.
+[21] D’autre part, le principe de res judicata énonce clairement qu’une fois une affaire jugée, elle ne peut pas être jugée une deuxième fois. La Cour d’appel fédérale s’est récemment prononcée sur ce point, dans l’arrêt Armstrong[1] :
+Le droit d'appel conféré par le paragraphe 169(2) ne supplante pas ni ne réduit le principe de l'autorité de la chose jugée. Il a été établi dans l'arrêt Chevron Canada Resources Ltd. v. R. (1998), [1999] 1 F.C. 349 (Fed. C.A.), que le principe de l'autorité de la chose jugée s'applique aux appels en matière d'impôt sur le revenu, et cela malgré le droit restreint de faire appel d'une cotisation à la suite de la conclusion d'un tel appel. Le juge de la Cour de l'impôt a eu raison de dire que M. Armstrong aurait dû soulever la question des pertes locatives de 1993 avant la conclusion de ses appels interjetés devant la Cour de l'impôt pour les années 1991 et 1993. Le principe de l'autorité de la chose jugée autorisait l'annulation des appels pour les deux années.
+[22] D’ailleurs, on affirme dans l’arrêt Grenier[2] qu’une omission ou une erreur ne pouvant justifier une rétractation :
+La rétractation est une exception au principe fondamental de l'irrévocabilité des jugements, un principe essentiel à la saine administration de la justice. Seuls des motifs sérieux et démontrés clairement permettront la réouverture d'un litige déjà tranché. La procédure et le jugement qui en découle contribuent à la protection des droits des deux parties. C'est pourquoi la remise en question des jugements demeure une exception. Un argument rejeté faute de preuve ou après un débat contradictoire tenu selon les règles établies ne rencontre pas les exigences de la rétractation. Il en est de même de l'erreur ou omission de la partie (voir Saywack v. Canada (Minister of Employment & Immigration), [1986] 3 F.C. 189 (Fed. C.A.); Rostamian v. Canada (Minister of Employment & Immigration), [1991] F.C.J. No. 525 (Fed. C.A.)).
+[23] En l’espèce, ces recours étaient inappropriés, eu égard aux conditions y donnant ouverture.
+[24] En faisant droit à la demande de l’appelante la Cour agirait en appel d’un jugement déjà été rendu. Évidemment, elle n’a pas cette compétence.
+[25] La décision Breslaw restreint l’habilité d’un juge de « revoir le bien-fondé d’une décision rendue par un juge de juridiction équivalente […]. Ainsi, toute procédure visant à attaquer ou à annuler un jugement de la Cour canadienne de l’impôt doit être introduite devant la Cour d’appel fédérale.[3] »
+[26] À la lumière des faits, il ressort que la seule avenue possible était purement et simplement l’appel devant la Cour d’appel fédérale.
+[27] En d’autres termes, l’appelante devait en appeler du jugement et cela, dans le délai de rigueur établi à cet effet.
+[28] En effet, l’appel devant la Cour d’appel fédérale s’avérait la seule solution pour l’appelante. Cependant, ce recours devait être entamé dans les 30 jours suivant le prononcé du jugement modifié daté du 1er décembre 2005.
+[29] Les dispositions pertinentes de la Loi sur les Cours fédérales sont les suivantes :
+27 (1.2) Il peut être interjeté appel, devant la Cour d’appel fédérale, d’un jugement définitif de la Cour canadienne de l’impôt portant sur un appel visé aux articles 18, 18.29, 18.3 ou 18.3001 de la Loi sur la Cour canadienne de l’impôt.
+(1.3) L’appel ne peut être interjeté aux termes du paragraphe (1.2) que pour l’un des motifs suivants :
+a) la Cour canadienne de l’impôt a agi sans compétence, outrepassé celle-ci ou refusé de l’exercer;
+b) elle n’a pas observé un principe de justice naturelle ou d’équité procédurale ou toute autre procédure qu’elle était légalement tenue de respecter;
+c) elle a rendu une décision ou une ordonnance entachée d’une erreur de droit, que celle-ci soit manifeste ou non au vu du dossier;
+d) elle a rendu une décision ou une ordonnance fondée sur une conclusion de fait erronée, tirée de façon abusive ou arbitraire ou sans tenir compte des éléments dont elle dispose;
+e) elle a agi ou omis d’agir en raison d’une fraude ou de faux témoignages;
+f) elle a agi de toute autre façon contraire à la loi.
+(2) L’appel interjeté dans le cadre du présent article est formé par le dépôt d’un avis au greffe de la Cour d’appel fédérale, dans le délai imparti à compter du prononcé du jugement en cause ou dans le délai supplémentaire qu’un juge de la Cour d’appel fédérale peut, soit avant soit après l’expiration de celui-ci, accorder. Le délai imparti est de :
+a) dix jours, dans le cas d’un jugement interlocutoire;
+b) trente jours, compte non tenu de juillet.[4]
+[30] L’appelante ne peut faire indirectement aujourd’hui ce qu’elle aurait dû faire dans le délai prescrit par la loi. L’avis d’appel est donc annulé.
+Signé à Ottawa, Canada, ce 3e jour de juillet 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008 CCI 339
+Nº DU DOSSIER DE LA COUR : 2007-3271(IT)I
+INTITULÉ DE LA CAUSE : Innovations et intégrations brassicoles inc.
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L'AUDIENCE : le 12 mars 2008
+MOTIFS DE JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 3 juillet 2008
+COMPARUTIONS :
+Représentant de l'appelante :
+Jean-François Blais
+Avocat de l'intimée :
+Me Philippe Dupuis
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario
+[1] Armstrong v. R., 2006 CarswellNat 2864, 2006 FCA 119, 2006 D.T.C. 6310 (Eng.), [2006] 3 C.T.C. 243, 2006 CAF 119, 350 N.R. 84, au para. 28.
+[2] Grenier c. Canada, 2008 CAF 63, au para. 6.
+[3] Breslaw c. Canada, 2005 CAF 355, au para. 30.
+[4] Loi sur les Cours fédérales, L.R. 1985, ch. F-7.

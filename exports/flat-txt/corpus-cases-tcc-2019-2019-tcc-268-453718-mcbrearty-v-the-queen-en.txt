@@ -1,0 +1,115 @@
+Title: McBrearty v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/453718/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-268-453718-mcbrearty-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-11-28
+
+# McBrearty v. The Queen
+
+- Citation: 2019 TCC 268
+- Decision date: 2019-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4286, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McBrearty v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-11-28
+Neutral citation
+2019 TCC 268
+File numbers
+2019-1601(IT)APP
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-1601(IT) APP
+BETWEEN:
+SHAWN PATRICK MCBREARTY,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on October 24, 2019 at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Eric Myles
+ORDER
+WHEREAS the Court has on this date issued Reasons for Order in this application;
+NOW THEREFORE the application from the assessments made under the Income Tax Act, RSC 1985, c.1, as amended (the “Act”), in respect of the notices of assessment numbered 4298001 and 4298046, both dated March 28, 2017, is dismissed, without costs.
+Signed at Edmonton, Alberta, this 28th day of November 2019.
+“R.S. Bocock”
+Bocock J.
+Citation: 2019TCC268
+Date: 20191128
+Docket: 2019-1601(IT) APP
+BETWEEN:
+SHAWN PATRICK MCBREARTY,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+[1] The Applicant, Mr. McBrearty bring this application to extend the time to file an objection to two notices of assessment. The notices of assessment (“NOAs”) were sent on the same date: March 28, 2017. The NOAs relate to the outstanding and uncollected tax liability of Logoed Goods Inc. (“LGI”).
+[2] The arrears are in the approximate amounts of $56,000 and $52,500. The Minister assessed Mr. McBrearty on the basis of his capacity of being a director of LGI when the tax liability arose. He legally continues as a director of LGI to this day.
+[3] Mr. McBrearty does not dispute the sending of the NOAs. He does not contest that he first objected to the NOAs on October 10, 2018. Finally, he confirmed for the Court that his application to the Minister to extend the time to file a notice of objection was February 22, 2019 and that the Minister rejected that on March 22, 2019. Further, it is uncontested that Mr. McBrearty filed his application to extend the time to file a notice of objection on April 26, 2019.
+[4] Subsection 166.1(7) includes mandatory language: “no application for extension shall be granted unless an application …was made within one year after the …time… limited for serving a[n] objection…”. As such, the Minister shall not extend any latitude to a taxpayer where an application to extend is brought after the expiration of one year following the 90 day period within which a notice of objection may be filed (the “time limitation”). Identically phrased prohibitory words also preclude this Court from doing the same thing under subsection 166.2(5) of the Act.
+[5] The Federal Court of Appeal has confirmed the inflexibility of this clear prohibition. In Vo v. HMQ, 2015 FCA 246 at paragraph 7 and 8, Justice Ryer confirmed that Parliament through the Act prevents both the Minister and this Court from granting an application where it is made after the time limitation.
+[6] Mr. McBrearty argues his application is different for several reasons. The principal of LGI, Mr. McBrearty’s father, was terminally ill during the reassessment and objection period. Mr. McBrearty relied on his father because LGI was his father’s business; Mr. McBrearty had no control of the objection because he processed none of the material required to pursue contesting the NOAs. Lastly, the death of Mr. McBrearty father before the extension expiration date further complicated the circumstance.
+[7] There are certain undisputed facts before the Court. In early April 2018, Mr. McBrearty’s father became ill with Creutzfeldt-Jakob disease. His diagnosis with this fatal central nervous disorder was confirmed in May of 2018. Mr. McBrearty’s father was irrevocably hospitalized in June 2018. He passed away on August 4, 2018.
+[8] Mr. McBrearty provided the Court with his historical involvement relating to the NOAs. The tax liability of LGI dates back to the 2008-2010 period. While Mr. McBrearty acknowledged the provisions which render him a vicarious tax debtor, he was not informed of the financial affairs of LGI. During the relevant period, Mr. McBrearty had no part in the business aside from being employed as a graphic designer. He was unaware of any financial difficulties. He left LGI permanently in late 2009; after that he had no further involvement with LGT.
+[9] He next learnt of the tax liability when he received the NOAs in March 2017. Mr. McBrearty went to his father. His father assured him that he would resolve the matter and there was no need for Mr. McBrearty to be concerned. The debt was not attended to by Mr. McBrearty’s father. Mr. McBrearty was served with a garnishment order in mid-2017. Again, Mr. McBrearty went to his father who again assured Mr. McBrearty that the matter would be resolved. The illness interceded in June 2018, culminating in Mr. McBrearty father’s death in August 2018.
+[10] The issue before the Court is whether the bright red line of sections 166.1 and 166.2 of the Act may be supplanted by the circumstances of this application. Is there any basis at law, based upon the facts surrounding this application, to establish some kind of standstill of the effluxion of time relating to the time limitation mandated by Parliament for bringing such an application to the Minister or the Tax Court?
+[11] A closer analysis of the facts reveals Mr. McBrearty’s analysis is flawed. No demonstrable attempt, faulty or otherwise, by Mr. McBrearty to object to the NOAs or apply for an extension to do so was made prior to October 2018. This is some 18 full months after the NOAs were sent on Mr. McBrearty. While Mr. McBrearty’s father’s illness may have clouded or “de-prioritized” the issue, it simply was not a factor because it did not exist until 13 full months after the NOAs were sent.
+[12] Mr. McBrearty’s reliance on his father for the 13 months was his decision. The NOAs for director’s liability are unequivocal; the single page memorandum assessments are clearer and starker than any other kind usually sent to taxpayers. Produced by the Respondent, through affidavit at the hearing, the actual NOAs both stated, among other things, the following:
+Amount Assessed $53,436.71
+You are required to pay the amount assessed immediately. Failure to do so may result in further enforcement action. You have the right to object to this assessment by filing, with the Minister of National Revenue, a formal Notice of Objection WITHIN 90 days of the date this Notice of Assessment was mailed to you. Notice of Objection forms may be obtained by contacting the Appeals Division of your local Tax Services Office.
+[13] When Mr. McBrearty’s father was well, Mr. McBrearty did not object during the 90 day period. For 10 additional months, Mr. McBrearty did not bring an application to extend the time to file an application to extend. Given the plain and obvious wording of the NOAs, once Mr. McBrearty’s father became ill with a mentally debilitating disease, reasonably one would expect the ringing of alarm bells. This did not happen, neither for the 13 months Mr. McBrearty’s father was well nor for an additional 5 months after the diagnosis. Further, no action was taken until two or more months after Mr. McBrearty’s father’s death. This is a serious time sequence mismatch will does not align with the suggestion that the illness and death prevented a response to the NOAs. On that basis Mr. McBrearty’s arguments concerning the impact of the illness are not logical.
+[14] Mr. McBrearty’s asserted lack of knowledge is also incongruous; his lack of knowledge was not the root problem, it was the lack of attention and action. The NOAs were addressed solely to Mr. McBrearty at his home address. They were not address to LGI or Mr. McBrearty’s father. The amounts are large. One call and the filing of one simple form, a notice of objection, as clearly directed within the NOAs would have preserved Mr. McBrearty’s rights. This lack of attention and action cannot easily be explained by trusting the very person who, according to Mr. McBrearty himself, was responsible for the debt.
+[15] This application is similar to many others before the Court: taxpayers choose to ignore, out of inattention, the sender of the letter, the Canada Revenue Agency. Some action, any action, directed to the CRA in the 90 days or one year period thereafter indicating opposition, disagreement and contesting the assessment frequently causes this Court, if not the CRA itself, to determine such contact constitutes an objection or application to extend as the case may be.
+[16] During the critical 15 months, from March 28, 2017 until June 26, 2018, Mr. McBrearty did nothing. Even if the Court were to add a 60-day standstill reflecting incapacity of a third party, which in this case it cannot does not help Mr. McBrearty. He still did not file an objection (itself insufficient) until October 10, 2018 and an application to extend until April 26, 2019.
+[17] Regrettably, Mr. McBrearty’s lack of action an account of his own vicarious tax liability is his insurmountable challenge in this application. There is no discretion to extend the deadlines prescribed in subsection 166.2(5) of the Act where the taxpayer as Applicant before this Court has failed to satisfy the time limitations in paragraph 166.2(5)(a) of the Act: Riley v. HMQ, 2012 TCC 208 at paragraphs 6 and 7.
+[18] Accordingly, the application is dismissed without costs.
+Signed at Edmonton, Alberta, this 28th day of November 2019.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2019TCC268
+COURT FILE NO.:
+2019-1601(IT)APP
+STYLE OF CAUSE:
+SHAWN PATRICK MCBREARTY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 24, 2019
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+November 28, 2019
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Eric Myles
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

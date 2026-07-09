@@ -1,0 +1,308 @@
+---
+title: "Singh c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29054/index.do"
+last_modified: "2008-11-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 629"
+citation2: ""
+neutral_citation: "2008 CCI 629"
+decision_date: "2008-11-19"
+language: "fr"
+item_id: "29054"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6832
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:11:37.071000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e672492726689f142ee5487be4d9100f7c110960043477024f2e11816c25c7ca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Singh c. La Reine
+
+- Citation: 2008 CCI 629
+- Decision date: 2008-11-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6832, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Singh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-19
+Référence neutre
+2008 CCI 629
+Numéro de dossier
+2007-748(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007‑748(IT)I
+ENTRE :
+SARASWATI P. SINGH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 20 octobre 2008 à Edmonton (Alberta)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me M. L. Engelking
+Avocats de l’intimée :
+Me Valerie D. Meier et Me Darcie Charlton
+____________________________________________________________________
+JUGEMENT
+Compte tenu du consentement partiel à jugement qui a été déposé dans cette affaire, et compte tenu de mes conclusions sur les points présentés à l’audience :
+a) l’appel de l’appelant, en ce qui concerne l’année d’imposition 2005, est annulé, sans dépens;
+b) les appels, s’agissant des années d’imposition 2000 et 2001, sont accueillis en partie, et sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu que :
+1. le prix coûtant, pour l’appelant, des marchandises vendues, pour l’année d’imposition 2000, sera augmenté de 7 094 $;
+2. les pertes de l’appelant, autres qu’en capital, afférentes à son année d’imposition 1994, seront reportées sur son année d’imposition 2000;
+3. le revenu d’entreprise de l’année d’imposition 2000 sera réduit de 1 054 $ par suite d’un déficit de caisse de ce montant pour cette année‑là;
+4. l’appelant a droit à une déduction additionnelle pour amortissement au titre de ses biens locatifs, selon les montants suivants :
+Année d’imposition
+Montant
+2000
+3 633,00 $
+2001
+2 608,79 $
+Signé à Halifax (Nouvelle‑Écosse), ce 19e jour de novembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 7e jour de janvier 2009.
+S. Tasset
+Référence : 2008CCI629
+Date : 20081119
+Dossier : 2007‑748(IT)I
+ENTRE :
+SARASWATI P. SINGH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Dans son avis d’appel, l’appelant soulevait plusieurs points se rapportant à la nouvelle cotisation établie à l’égard de son obligation fiscale pour les années 2000, 2001 et 2005. Avant l’audition de ces appels, l’intimée a déposé une requête en annulation des portions de l’avis d’appel de l’appelant portant sur l’année d’imposition 2005, au motif que l’appelant n’avait pas déposé un avis d’opposition à l’égard de la cotisation établie pour son année d’imposition 2005. Également avant la présente audience, l’appelant et l’intimée ont déposé un consentement partiel à jugement, dans lequel les parties s’accordaient sur ce qui suit :
+A : l’appel de l’appelant, s’agissant de l’année d’imposition 2005, devrait être annulé; sans dépens;
+B : les sommes suivantes devraient être admises pour les années 2000 et 2001 :
+1. le prix coûtant, pour l’appelant, des marchandises vendues, pour l’année d’imposition 2000, devrait être augmenté de 7 094 $;
+2. les pertes de l’appelant, autres qu’en capital, afférentes à son année d’imposition 1994, devraient être reportées sur son année d’imposition 2000;
+3. l’appelant devrait avoir droit à une déduction additionnelle pour amortissement au titre de ses biens locatifs, selon les montants suivants :
+Année d’imposition
+Montant
+2000
+3 633,00 $
+2001
+2 608,79 $
+[2] Dans le consentement partiel à jugement, plusieurs points demeuraient non résolus. Au début de l’audience, l’avocat de l’appelant a fait observer que le nombre de points qui seraient examinés à l’audience était ramené à quatre, à savoir les points suivants :
+1. la somme de 25 000 $ que l’appelant avait reçue de NCE Petrofund Corp. (NCE) a‑t‑elle été incluse à juste titre dans le revenu de l’appelant pour l’année d’imposition 2001?
+2. l’appelant a‑t‑il le droit de déduire d’autres dépenses pour 2000 ou 2001 comme il est indiqué dans l’appendice du consentement partiel à jugement?
+3. le revenu d’entreprise net de l’appelant devrait‑il être réduit de 1 054 $ pour l’année 2000 en conséquence d’un déficit de caisse (l’intimée a reconnu que le revenu devrait être réduit de 254 $ et, par conséquent, sur les 1 054 $, seule la somme de 800 $ demeurait litigieuse); et
+4. l’appelant est‑il fondé à prétendre qu’il a droit à une déduction additionnelle pour amortissement au titre de la Dodge Caravan pour 2000 et 2001, et, si l’appelant est fondé à avancer un tel argument, a‑t‑il le droit de demander une déduction additionnelle pour amortissement au titre de la Dodge Caravan pour 2000 et 2001, et, dans l’affirmative, à quelle déduction pour amortissement a‑t‑il droit?
+Somme reçue de NCE
+[3] L’appelant est propriétaire d’une parcelle de fonds de terre dans la partie ouest d’Edmonton, sur la 184e Rue, à proximité de la 25e Avenue. Il y avait sur ce bien‑fonds trois puits de pétrole en exploitation, ainsi qu’un oléoduc souterrain. Une personne mandatée par NCE est allée le voir car NCE souhaitait remplacer l’oléoduc existant. Il lui a alors fait savoir qu’il ne consentirait pas à ce que NCE s’introduise sur son terrain pour remplacer l’oléoduc. L’appelant a rapporté ainsi sa conversation avec la personne qui représentait NCE :
+[traduction]
+Q : Et comment vous a‑t‑il exposé l’objet de la visite?
+R : Il m’a dit qu’il souhaitait faire des travaux d’excavation à l’endroit où se trouvait l’oléoduc, changer l’oléoduc, prendre une parcelle additionnelle et, après remplacement de l’oléoduc, procéder au remblayage.
+Q : Et comment avez‑vous répondu à cette demande?
+R : Ma réponse a été très négative, en ce sens que cet oléoduc se trouvait à courte distance de plusieurs maisons qui étaient là depuis quelque temps, et il y a toujours une possibilité qu’un tuyau éclate et aussi qu’il ne nous soit pas possible de construire à l’endroit concerné. Et il peut y avoir des émissions, les émissions venant du puits lui‑même, mais si quelque chose se produit dans l’oléoduc également, et ce serait aussi quelque chose qui ferait que l’on ne pourrait pas utiliser le terrain en tant que tel – par exemple, on ne sera pas en mesure de construire sur cette portion du terrain et, si l’on voulait faire quelque chose à l’endroit considéré, alors il faudrait localiser le tuyau, et en raison des effets préjudiciables susceptibles de se produire, la réponse que je lui ai donnée a été tout simplement non, je n’acceptais pas sa proposition.
+[4] S’agissant de la question de savoir si une parcelle de fonds de terre additionnelle avait été prise par NCE, l’échange suivant a eu lieu entre l’avocat de l’appelant et l’appelant lui‑même :
+[traduction]
+Q : Bon, quoi qu’il en soit, Monsieur, une parcelle additionnelle a‑t‑elle été prise?
+R : Non. Je veux dire, d’après le diagramme qu’ils ont montré ici, il semble que la réponse est non, mais, d’après mon entente avec eux, ils allaient prendre cette parcelle additionnelle dont ils parlent, c’est‑à‑dire 0,25 acre, et je ne suis pas encore tout à fait sûr s’ils ont pris ou non cette parcelle. Peut‑être que oui. Parce qu’ils l’indiquent ici, 0,25 acre, alors… mais ils disent qu’il s’agit d’un espace de travail qu’ils rétrocéderont plus tard, mais je n’en suis pas tout à fait sûr.
+[5] Il n’a pas été établi qu’une parcelle de fonds de terre additionnelle a été prise par NCE et, comme le témoignage de l’appelant a été vague sur ce point, je suis d’avis qu’aucune parcelle de fonds de terre additionnelle n’a été prise par NCE.
+[6] L’appelant a signé deux documents distincts avec NCE. Chacun d’eux ne comprenait que quelques paragraphes. L’un d’eux, qui portait la date du 10 juillet 2001, contenait ce qui suit :
+[traduction]
+Je soussigné, Saraswati Prasad Singh, d’Edmonton, dans la province d’Alberta, propriétaire inscrit du terrain suivant :
+Portion de SW ¼ 4‑52‑25‑W4M
+consens par les présentes au cessionnaire, NCE Petrofund Corp., le droit de pénétrer sur le terrain et d’utiliser les portions dudit terrain indiquées en vert sur le plan ci‑annexé, aux fins d’en faire un espace de travail qui servira temporairement à des activités de construction.
+Ce consentement est accordé sous réserve que l’exploitant procède au nettoyage et à la remise en état de l’espace de travail après les travaux de construction.
+La contrepartie de ce consentement sera de deux cent cinquante dollars (250 $).
+[7] L’autre document, qui porte la même date que le premier document (10 juillet 2001), renfermait ce qui suit :
+[traduction]
+NCE Petrofund Corp. s’engage à payer au soussigné un total de vingt‑quatre mille sept cent cinquante dollars (24 750 $). Le paiement de cette somme correspond au temps et au dérangement entraînés par la signature d’un accord d’espace de travail, par le consentement à l’itinéraire s’y rapportant, et par la non‑opposition à ce que l’EUB délivre à NCE Petrofund Corp. une autorisation de construire les oléoducs concernés.
+Le paiement de la somme représente aussi l’avantage pour NCE Petrofund Corp. de pouvoir éviter les délais et les frais d’audience se rapportant à vos intérêts dans le bien‑fonds considéré.
+La note manuscrite suivante avait été ajoutée :
+[traduction] La somme convenue sera payée dès qu’un permis sera délivré pour les travaux de construction.
+[8] La position de l’appelant est que la somme de 25 000 $ reçue de NCE est imputable au capital. Dans ses conclusions finales, l’avocat de l’appelant a dit que, d’après la preuve, le nouvel oléoduc était plus gros que l’ancien. Cependant, la preuve ne montrait pas que la taille de l’oléoduc serait différente. Durant son interrogatoire principal, l’unique mention faite par l’appelant concernant les changements apportés à l’oléoduc figurait dans le passage cité au paragraphe 3 ci‑dessus. En contre‑interrogatoire, il y a eu l’échange suivant :
+[traduction]
+Q : Ils ont donc déterré un oléoduc qui se trouvait déjà là, et ils l’ont remplacé par un nouvel oléoduc, qu’ils ont alors recouvert?
+R : C’est… c’est exact.
+[9] Aucune preuve n’a été produite montrant que la taille de l’oléoduc n’était pas la même que celle de l’oléoduc antérieur.
+[10] Les seuls précédents invoqués par l’un ou l’autre des avocats remontaient à la période 1954‑1956. Ces précédents étaient antérieurs à l’adoption, en 1972, de l’impôt sur les gains en capital. Lors de l’adoption de l’impôt sur les gains en capital, les définitions de « disposition » et de « produit de disposition » ont été ajoutées à la Loi de l’impôt sur le revenu. Ces définitions renferment notamment ce qui suit :
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« disposition » Constitue notamment une disposition de bien, sauf indication contraire expresse :
+a) toute opération ou tout événement donnant droit au contribuable au produit de disposition d’un bien;
+54. Les définitions qui suivent s’appliquent à la présente sous‑section.
+« produit de disposition » Sont compris dans le produit de disposition d’un bien :
+a) le prix de vente du bien qui a été vendu;
+b) toute indemnité pour biens pris illégalement;
+c) toute indemnité afférente à la destruction de biens, et toute somme payable en vertu d’une police d’assurance du fait de la perte ou de la destruction de biens;
+d) toute indemnité afférente aux biens pris en vertu d’une loi, ou le montant du prix de vente des biens vendus à une personne ayant donné un avis de son intention de les prendre en vertu d’une loi;
+e) toute indemnité afférente aux biens ayant subi un préjudice, légalement ou illégalement, ou en vertu d’une loi ou de toute autre façon;
+f) toute indemnité afférente aux dommages causés aux biens et toute somme payable en vertu d’une police d’assurance au titre de dommages causés à des biens, sauf dans la mesure où cette indemnité ou cette somme, suivant le cas, a, dans un délai raisonnable après que les dommages ont été subis, été dépensée pour réparer les dommages;
+[…]
+[11] Un bien n’a pas à être vendu pour qu’une somme reçue soit incluse dans le produit de disposition. La définition de « produit de disposition » comprend toute indemnité afférente aux biens ayant subi un préjudice ou aux biens endommagés. Il me semble que, pour que la somme reçue soit considérée comme produit de disposition (et par conséquent soit imputable au capital), ce doit être une somme comprise dans cette définition.
+[12] Cependant, en l’espèce, avant 2001, il y avait sur le bien‑fonds un oléoduc existant. Par conséquent, les observations de l’appelant concernant l’impossibilité pour lui de construire sur le bien‑fonds, ou l’obligation pour lui de localiser l’oléoduc avant que des travaux ne puissent être entrepris sur le bien‑fonds, valaient également avant l’exécution de tels travaux en 2001. Puisqu’il y avait déjà un oléoduc sur ce bien‑fonds avant 2001, toute entrave à l’exécution de travaux sur le bien‑fonds, et toute obligation de localiser l’oléoduc, seraient applicables, quand bien même les travaux n’auraient pas été faits en 2001 pour remplacer l’oléoduc. Comme je l’ai dit, il n’a pas été établi que le nouvel oléoduc était plus gros que l’ancien, et il n’y a donc aucune raison de penser que les restrictions relatives à la distance requise entre un immeuble et l’oléoduc seraient différentes aujourd’hui de ce qu’elles étaient avant le remplacement de l’oléoduc.
+[13] Les inquiétudes de l’appelant à propos des fuites concernent probablement les fuites susceptibles de survenir durant des travaux de construction, étant donné qu’il paraît logique qu’un nouvel oléoduc serait en principe moins susceptible d’avoir des fuites qu’un plus vieil oléoduc.
+[14] Il me semble que la somme que l’appelant a reçue en 2001 était simplement une somme reçue après qu’il eut autorisé NCE à accéder au bien‑fonds afin d’y faire les travaux nécessaires. Cela s’accorde également avec les documents qui ont été signés, et en particulier le document se rapportant au paiement de la somme de 24 750 $, où l’on peut lire ce qui suit :
+[traduction] Le paiement de cette somme correspond au temps et au dérangement entraînés par la signature d’un accord d’espace de travail, par le consentement à l’itinéraire s’y rapportant, et par la non‑opposition à ce que l’EUB délivre à NCE Petrofund Corp. une autorisation de construire les oléoducs concernés.
+On ne lit nulle part qu’une partie du paiement correspond à un préjudice ou à des dommages subis par le bien‑fonds.
+[15] La somme de 25 000 $ que l’appelant a reçue en 2001 n’était pas une indemnité pour le préjudice ou le dommage subi par un bien. Les travaux qui ont été exécutés visaient simplement à remplacer l’oléoduc qui se trouvait déjà là. La somme reçue visait simplement à obtenir de l’appelant qu’il consente à ce que NCE pénètre sur le bien‑fonds pour y faire les travaux, dispensant ainsi NCE de présenter à l’EUB une demande de permis sans le consentement de l’appelant, ce qui aurait nécessité une audience ainsi que le prévoit le paragraphe 15(5) de la Surface Rights Act (Alberta) (NCE était ainsi soustraite aux délais ainsi qu’à des coûts additionnels). En conséquence, je suis d’avis que la somme de 25 000 $ que l’appelant a reçue en 2001 de NCE aurait dû figurer dans le revenu de l’appelant pour 2001.
+Dépenses additionnelles
+[16] Dans les préparatifs du présent appel, l’appelant a conclu qu’il avait engagé des dépenses additionnelles, et il voudrait les déduire, dans le calcul de son revenu pour 2000 et 2001, en tant que dépenses attribuables à son commerce de spiritueux, une entreprise qu’il exploitait à Devon, en Alberta, à titre de propriétaire unique. Les dépenses additionnelles que l’appelant voudrait déduire pour 2000 et 2001 sont les suivantes :
+2000
+Poste
+Pourcentage déduit
+Somme déduite
+DVD « R&M » (pour le commerce de spiritueux)
+100 %
+460 $
+Téléviseur (pour le commerce de spiritueux)
+50 %
+967 $
+DVD (pour le commerce de spiritueux)
+50 %
+295 $
+Moniteur et caméras pour le commerce de spiritueux
+100 %
+800 $
+Mike Terry – réparations de la maison
+30 %
+135 $
+2 657 $
+2001
+Poste
+Pourcentage déduit
+Somme déduite
+Rideaux de bureau
+30 %
+71 $
+Irene Sonsen – ménages
+30 %
+11 $
+Doug Adams – déneigement
+30 %
+20 $
+Eva Bowing – ménages
+30 %
+13 $
+Doug Adams – ménages
+30 %
+20 $
+Winnifred Stewart
+30 %
+6 $
+Mike Terry – réparations de voiture
+55 %
+143 $
+Susan Nguyen – ménages faits dans l’édifice Graymac
+100 %
+260 $
+Doug Adams – déneigement
+30 %
+20 $
+564 $
+[17] Les « DVD », le téléviseur et les caméras de surveillance étaient des articles que l’appelant avait acquis pour surveiller le commerce de spiritueux qu’il exploitait à Devon. L’un des « DVD » était sans doute un enregistreur de DVD qui se trouvait dans le magasin, et l’autre « DVD » était sans doute un lecteur de DVD que l’appelant gardait chez lui afin de pouvoir visionner les DVD qui étaient enregistrés. L’appelant a dit que des vols avaient lieu parfois dans le magasin, et il voulait donc surveiller ce qui s’y passait.
+[18] Cependant, l’enregistreur de DVD, le lecteur de DVD, le téléviseur et les caméras de surveillance sont tous des immobilisations, car il s’agit de biens d’une valeur durable. Par conséquent, le coût d’acquisition de ces biens est une dépense en capital, qui n’est pas déductible dans le calcul de son revenu (alinéa 18(1)b) de la Loi de l’impôt sur le revenu), sauf dans la mesure où l’appelant décide de demander une déduction pour amortissement au regard de tels biens, selon qu’ils ont été acquis pour gagner un revenu, et sous réserve des limites prévues par la Loi de l’impôt sur le revenu et par le Règlement de l’impôt sur le revenu en ce qui a trait aux déductions pour amortissement. Dans l’arrêt Ministre du Revenu national c. Haddon Hall Realty Inc., [1962] R.C.S. 109, [1961] C.T.C. 509, 62 DTC 1001, 31 D.L.R. (2d) 201, le juge Abbott, de la Cour suprême du Canada, écrivait ce qui suit :
+[traduction]
+6 Les principes généraux qu’il faut appliquer pour savoir si une dépense donnée est une dépense en capital sont assez bien établis : Montreal Light Heat and Power Consolidated v. Minister of National Revenue; British Columbia Electric Railway Company Limited v. Minister of National Revenue. Parmi les critères qui peuvent être utilisés pour établir si une dépense est une dépense de revenu ou bien une dépense en capital, il a été statué que lorsqu’une dépense est faite non seulement une fois pour toutes, mais aussi dans le but de créer un bien ou un avantage qui profite à une entreprise de façon durable, elle constitue une dépense en capital.
+[19] L’unique conclusion de l’appelant au regard de ces articles est qu’ils devraient être autorisés comme dépenses. L’appelant n’a avancé aucun autre argument selon lequel il devrait être autorisé à demander une déduction pour amortissement au titre de tels articles. Par conséquent, l’unique question soulevée dans les présents appels est celle de savoir si l’appelant a le droit de déduire le coût intégral de ces articles dans le calcul de son revenu de l’année 2000. Puisque l’enregistreur de DVD, le lecteur de DVD, le téléviseur et les caméras de surveillance sont des biens d’une valeur durable, et dans la mesure où l’appelant a engagé des dépenses pour acquérir de tels biens aux fins de son entreprise, de telles dépenses correspondraient à des dépenses en capital, et elles ne seraient pas intégralement déductibles en 2000.
+[20] Puisque l’unique question soulevée était de savoir si la somme intégrale qui était attribuée à l’utilisation commerciale pouvait être déduite en 2000, il n’est pas nécessaire de se demander si les pourcentages de l’utilisation commerciale étaient raisonnables. Je ferais observer que, puisque l’enregistreur de DVD et les caméras de surveillance n’étaient utilisés que pour surveiller le local commercial, il semble que le coût intégral de ces biens aurait pu être inclus dans la catégorie pertinente de biens amortissables, aux fins de la déduction pour amortissement (sous réserve des dispositions du paragraphe 1100(2) du Règlement de l’impôt sur le revenu (la « règle de la demi‑année »)). Puisque les biens ont été utilisés en 2000, une déduction pour amortissement au regard de tels biens n’aurait pas été soumise aux restrictions prévues par le paragraphe 13(26) de la Loi de l’impôt sur le revenu, qui concerne la somme pouvant être incluse dans le calcul de la fraction non amortie du coût en capital de biens d’une catégorie prescrite pour des biens qui ne sont pas prêts à être mis en service.
+[21] L’attribution de 50 p. 100 au téléviseur et au lecteur de DVD se trouvant au domicile de l’appelant semble excessive. L’appelant n’a pu donner aucune information détaillée sur le pourcentage de temps durant lequel le téléviseur et le lecteur de DVD servaient à un visionnement personnel, ni sur le pourcentage de temps durant lequel ils servaient à surveiller les opérations à l’intérieur du magasin. Dire que la même période de temps aurait été consacrée à surveiller les opérations du magasin qu’à visionner des programmes ordinaires ou des DVD ne semble pas raisonnable. Si la portion commerciale des sommes consacrées à l’acquisition du téléviseur et du lecteur de DVD devait être ajoutée à la catégorie prescrite pertinente de biens amortissables (sous réserve de la règle de la demi‑année), je n’aurais accordé, à la portion commerciale, que 10 p. 100 du coût en ce qui concerne le téléviseur, et 20 p. 100 du coût en ce qui concerne le lecteur de DVD.
+[22] Il y a plusieurs postes pour lesquels l’appelant indique une utilisation commerciale représentant 30 p. 100 du coût. Ces postes concernent le bureau qui se trouvait au domicile de l’appelant. Selon le témoignage de l’appelant, son bureau, chez lui, était utilisé principalement pour son commerce de spiritueux. Le paragraphe 18(12) de la Loi de l’impôt sur le revenu prévoit ce qui suit :
+(12) Malgré les autres dispositions de la présente loi, dans le calcul du revenu d’un particulier tiré d’une entreprise pour une année d’imposition :
+a) un montant n’est déductible pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie d’établissement :
+(i) soit est son principal lieu d’affaires,
+(ii) soit lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise;
+b) si une partie de l’établissement domestique autonome où le particulier réside est son principal lieu d’affaires ou lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise, le montant déductible pour cette partie d’établissement ne peut dépasser le revenu du particulier tiré de cette entreprise pour l’année, calculé compte non tenu de ce montant et des articles 34.1 et 34.2;
+c) tout montant qui, par le seul effet de l’alinéa b), n’est pas déductible pour une partie d’établissement domestique autonome dans le calcul du revenu d’entreprise du particulier pour l’année d’imposition précédente est déductible dans le calcul du revenu d’entreprise du particulier pour l’année, sous réserve des alinéas a) et b).
+[23] Puisque le principal lieu d’affaires du commerce de spiritueux n’était pas le domicile de l’appelant, et puisqu’il n’a pas été établi que l’appelant rencontrait régulièrement des clients chez lui, ces frais ne seront pas déductibles, en vertu des dispositions du paragraphe 18(12) de la Loi de l’impôt sur le revenu.
+[24] L’appelant voudrait déduire 143 $ pour la somme payée à Mike Terry au titre des « réparations de voiture ». Cette somme représentait 55 p. 100 de la somme totale payée pour les « réparations de voiture », TPS en sus. L’appelant avait aussi demandé une déduction pour une somme payée à Mike Terry au titre de réparations de la maison, de telle sorte que Mike Terry doit réparer des maisons et des véhicules. L’appelant avait deux véhicules – une fourgonnette et une voiture. Il a dit que la voiture était réservée à un usage personnel et que la fourgonnette était réservée à l’usage de l’entreprise. L’appelant a toujours désigné la fourgonnette sous les appellations Caravan ou fourgonnette. Puisque l’unique preuve se rapportant au véhicule réparé par Mike Terry est l’indication « réparations de voiture », sur le chèque, il me semble que cette somme a probablement été dépensée pour des réparations faites sur la voiture et non sur la fourgonnette. Aucune facture n’a été produite établissant que c’est la fourgonnette et non la voiture qui a été réparée. En conséquence, cette somme ne sera pas accordée comme déduction dans le calcul du revenu de l’appelant pour 2001.
+[25] Pour 2001, l’appelant déduit la somme de 260 $ au titre des ménages faits par Susan Nguyen dans l’édifice Graymac. L’appelant était propriétaire d’un immeuble de location à Edmonton, appelé l’édifice Graymac. Une copie du chèque attestant ce paiement a été produite comme preuve. La note qui apparaît sur le chèque est [traduction] « prêt pour ménages Graymac ». Aucune explication n’a été donnée de la raison pour laquelle le chèque faisait état d’un « prêt ». En conséquence, l’appelant n’a pas établi que cette somme avait été payée aux fins de gagner un revenu, et non à titre de prêt.
+Déficit de caisse
+[26] L’intimée avait admis qu’une somme de 254 $ sur la somme déduite à titre de déficit de caisse devrait être accordée en tant que réduction du revenu d’entreprise, et l’unique question soulevée dans cette affaire est donc de savoir si le revenu d’entreprise de l’appelant devrait être réduit d’une somme additionnelle de 800 $. L’appelant a dit que cette déduction additionnelle de 800 $ se rapportait à un vol qui avait eu lieu dans son commerce en mars 2000, quand une somme de 800 $ en espèces avait été volée. L’intimée est d’avis que l’appelant ne s’est pas acquitté de son obligation de prouver que cette somme lui avait été volée. L’appelant a l’obligation d’établir, selon la prépondérance de la preuve, que cette somme a été volée.
+[27] L’appelant a dit que le vol qualifié s’était produit à la fin de la journée et que la somme subtilisée aurait donc correspondu à la somme reçue en espèces ce jour‑là plus le volant de liquidité du début de la journée. Dans la réponse, il est écrit que le revenu brut de l’appelant tiré du commerce de spiritueux en 2000 était de 307 858 $. À supposer que le commerce soit ouvert 365 jours par an (le nombre de jours d’ouverture du magasin n’apparaissait pas dans la preuve), cela donnerait des ventes quotidiennes de 843 $ par jour. Si le magasin était ouvert durant moins de jours dans l’année, alors évidemment le chiffre des ventes quotidiennes serait supérieur. Puisque ce chiffre des ventes quotidiennes (à raison de 365 jours par an) est très proche de la somme que l’appelant prétend s’être fait voler, je suis d’avis que l’appelant a établi, selon la prépondérance de la preuve, que la somme de 800 $ a été volée en 2000, et donc son revenu d’entreprise pour 2000 devrait être réduit de 254 $, comme en a convenu l’intimée, et de la somme additionnelle de 800 $, pour une réduction totale de 1 054 $ du revenu d’entreprise de 2000.
+Déduction additionnelle pour amortissement
+[28] Lorsqu’il a produit sa déclaration de revenu pour 2000, l’appelant avait demandé une déduction pour amortissement au titre de la fourgonnette. Cependant, au cours de l’audience, il a voulu augmenter le montant de la déduction pour amortissement qui serait demandée au regard de la fourgonnette, en invoquant un pourcentage plus élevé d’utilisation commerciale que le pourcentage qu’il avait invoqué au moment de produire sa déclaration de revenu. Au moment de produire sa déclaration de revenu, il avait demandé une déduction pour amortissement en affirmant simplement que la fourgonnette était utilisée à raison d’environ 8,3 p. 100 pour le commerce de spiritueux et à raison d’environ 0,83 p. 100 aux fins de tirer un revenu de la location de l’édifice Graymac. Au cours de l’audience, il affirmait que la fourgonnette était utilisée à raison de 50 p. 100 pour le commerce de spiritueux et à raison de 5 p. 100 aux fins de tirer un revenu de la location de l’édifice Graymac.
+[29] Au cours de son témoignage, l’appelant a dit que son épouse se servait de la fourgonnette depuis leur domicile à Edmonton jusqu’au commerce de spiritueux à Devon. Son épouse gérait le magasin pour lui, et elle s’y trouvait régulièrement. Le magasin était exploité en tant qu’entreprise individuelle, et l’épouse de l’appelant était une employée.
+[30] L’avocat de l’appelant avait fait valoir que c’était là partie de l’entente conclue entre l’appelant et son épouse et que, par conséquent, la rémunération de l’épouse à titre d’employée comprenait le fait qu’elle serait autorisée à se servir de la fourgonnette pour aller à son travail et en revenir. L’échange suivant a eu lieu durant le contre‑interrogatoire de l’appelant :
+[traduction]
+Q : Existe‑t‑il un genre d’entente entre vous et votre épouse à propos du travail qu’elle faisait dans le magasin de spiritueux?
+R : Oui, elle était employée.
+Q : Elle était employée? Son contrat de travail prévoyait‑il qu’elle serait indemnisée pour son transport à son lieu de travail?
+R : Vous voulez dire si le… non, voudriez‑vous… voudriez‑vous reformuler plus précisément votre question?
+Q : Vous étiez‑vous entendu avec votre épouse sur son mode de transport de votre domicile à son lieu de travail?
+R : Non, nous n’avions pas d’entente à ce sujet parce que cette fourgonnette, nous l’utilisions pour l’entreprise. Et… et elle l’utilisait aux fins de l’entreprise, et nous n’avions donc aucune entente comme telle selon laquelle… permettez‑moi de m’expliquer. Elle n’était pas censée utiliser le véhicule personnel aux fins de l’entreprise, et elle n’utilisait donc pas la Oldsmobile Cutlass ‘88 aux fins de l’entreprise. Elle utilisait cette Caravan aux fins de l’entreprise. Et pour cela, elle était… et elle ne recevait aucune rémunération distincte pour un quelconque mode de transport. C’était… ce véhicule appartenait à l’entreprise, et mon épouse l’utilisait.
+[31] Par conséquent, il n’y avait entre l’appelant et son épouse aucune entente prévoyant que cela ferait partie intégrante de son emploi, et rien ne donnait à penser qu’une somme avait été incluse dans le revenu de l’épouse de l’appelant en tant qu’avantage en nature, au titre de l’utilisation par elle de la fourgonnette comme moyen de se rendre à son lieu de travail. Il semble plutôt que l’appelant présumait qu’une telle utilisation de la fourgonnette remplirait les conditions d’une utilisation commerciale de ce véhicule.
+[32] À mon avis, cette utilisation de la fourgonnette par l’épouse de l’appelant ne remplit pas les conditions d’une utilisation commerciale à moins que l’épouse de l’appelant ne reconnaisse l’avantage en nature lié à son utilisation personnelle de la fourgonnette pour se rendre à son lieu de travail et en revenir. Cet avantage correspondrait à des frais pour droit d’usage d’une automobile, calculés en application de l’alinéa 6(1)e) et du paragraphe 6(2) de la Loi de l’impôt sur le revenu, ainsi qu’à l’avantage relatif au fonctionnement d’une automobile, calculé en application de l’alinéa 6(1)k) de la Loi de l’impôt sur le revenu.
+[33] Puisque l’appelant exploitait son entreprise en tant que propriétaire unique, l’autre solution consisterait à considérer comme utilisation personnelle l’utilisation de la fourgonnette par l’épouse de l’appelant, sans déduction pour amortissement (et sans déduction pour frais de fonctionnement), s’agissant de l’utilisation de la fourgonnette par l’épouse de l’appelant, et sans avantage en nature. Si l’utilisation de la fourgonnette, dans la mesure où ce véhicule était utilisé par l’épouse de l’appelant, est considérée comme utilisation personnelle, alors il n’y aura aucun avantage en nature puisqu’elle utiliserait simplement le véhicule familial pour se rendre à son travail (un véhicule qui lui était fourni par l’appelant en tant que son conjoint et non en tant que son employeur), et aucune déduction au titre de cette utilisation ne serait demandée dans le calcul du revenu de l’appelant aux fins de la Loi de l’impôt sur le revenu. Comme il n’est pas prouvé que l’épouse de l’appelant incluait dans son revenu un avantage en nature, il paraît très probable que c’est ainsi que les parties considéraient la chose, et l’utilisation de la fourgonnette par l’épouse de l’appelant pour se rendre à son travail et en revenir ne serait donc pas une utilisation commerciale de la fourgonnette.
+[34] Je suis donc d’avis que l’appelant n’a pas établi que la fourgonnette était utilisée pour son commerce dans une plus grande mesure que la somme qu’il avait déduite au moment de produire sa déclaration de revenu de l’année 2000. Le consentement partiel à jugement avait évoqué une déduction additionnelle pour amortissement au titre de la fourgonnette pour les années 2000 et 2001, mais la preuve ne faisait état d’une déduction que pour l’année 2000 et, au cours de l’audience, l’appelant a limité cette déduction à l’année d’imposition 2000 uniquement.
+[35] S’agissant de l’augmentation proposée de la déduction pour amortissement au regard de l’utilisation de la fourgonnette aux fins de tirer un revenu de la location de l’édifice Graymac, aucune explication n’a été donnée pour la déduction, à raison d’un pourcentage d’utilisation de seulement 0,83 p. 100, qui avait été demandée lorsque l’appelant a produit sa déclaration de revenu de l’année 2000. Vraisemblablement, puisqu’une somme a été déduite dans sa déclaration de revenu, il a dû déterminer à ce moment‑là le pourcentage pertinent selon lequel la fourgonnette était utilisée aux fins de tirer un revenu de la location de l’immeuble Graymac. La preuve produite à l’audience au regard de cette utilisation de la fourgonnette était limitée et vague. L’appelant s’est surtout concentré sur le commerce de spiritueux. Il n’a pas établi que la fourgonnette était utilisée aux fins de tirer un revenu de la location de l’immeuble Graymac d’une manière plus étendue que le pourcentage qu’il avait indiqué au moment de produire sa déclaration de revenu.
+[36] En conséquence, aucun rajustement ne sera fait au montant de la déduction pour amortissement qui sera accordé au regard de la fourgonnette.
+Dispositif
+[37] En conséquence, compte tenu du consentement partiel à jugement qui a été déposé dans cette affaire, et compte tenu de mes conclusions sur les points présentés à l’audience :
+a) l’appel de l’appelant, en ce qui concerne l’année d’imposition 2005, est annulé, sans dépens;
+b) les appels, s’agissant des années d’imposition 2000 et 2001, sont accueillis en partie, et sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu que :
+1. le prix coûtant, pour l’appelant, des marchandises vendues, pour l’année d’imposition 2000, sera augmenté de 7 094 $;
+2. les pertes de l’appelant, autres qu’en capital, afférentes à son année d’imposition 1994, seront reportées sur son année d’imposition 2000;
+3. le revenu d’entreprise de l’année d’imposition 2000 sera réduit de 1 054 $ par suite d’un déficit de caisse de ce montant pour cette année‑là;
+4. l’appelant a droit à une déduction additionnelle pour amortissement au titre de ses biens locatifs, selon les montatns suivants :
+Année d’imposition
+Montant
+2000
+3 633,00 $
+2001
+2 608,79 $
+Signé à Halifax (Nouvelle‑Écosse), ce 19e jour de novembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 7e jour de janvier 2009.
+S. Tasset
+RÉFÉRENCE : 2008CCI629
+N° DU DOSSIER DE LA COUR : 2007‑748(IT)I
+INTITULÉ : SARASWATI P. SINGH ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 20 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 19 novembre 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me M. L. Engelking
+Avocats de l’intimée :
+Me Valerie D. Meier et Me Darcie Charlton
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me M. L. Engelking
+Cabinet : Engelking Wood
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

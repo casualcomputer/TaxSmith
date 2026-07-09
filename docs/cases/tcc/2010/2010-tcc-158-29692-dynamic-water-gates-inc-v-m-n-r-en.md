@@ -1,0 +1,204 @@
+---
+title: "Dynamic Water Gates Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29692/index.do"
+last_modified: "2010-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 158"
+citation2: ""
+neutral_citation: "2010 TCC 158"
+decision_date: "2010-03-19"
+language: "en"
+item_id: "29692"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6197
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:31:54.771000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "772b0aa0c969cf03d7305b4e026cffa9637a0dcfdfac739c9438a2863947533c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dynamic Water Gates Inc. v. M.N.R.
+
+- Citation: 2010 TCC 158
+- Decision date: 2010-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6197, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dynamic Water Gates Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-19
+Neutral citation
+2010 TCC 158
+File numbers
+2009-1810(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-1810(EI)
+BETWEEN:
+DYNAMIC WATER GATES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 30, 2009, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Michael Quinn
+Counsel for the Respondent:
+Sarom Bahk
+____________________________________________________________________
+JUDGMENT
+The appeal instituted under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of March 2010.
+« Réal Favreau »
+Favreau J.
+Citation: 2010 TCC 158
+Date: 20100319
+Docket: 2009-1810(EI)
+BETWEEN:
+DYNAMIC WATER GATES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a determination by the respondent that the work performed for the appellant by Christopher Quinn and Timothy Quinn (the “workers”) from January 1, 2007 to December 31, 2007 met the requirements for a contract of service despite the non‑arm’s length relationship between the parties.
+[2] The appellant was related to the workers within the meaning of the Income Tax Act because:
+a) Michael Quinn was the sole shareholder of the appellant;
+b) the workers were the sons of Michael Quinn;
+c) the workers were related to a person who controlled the appellant.
+[3] The respondent determined that the workers were employed by the appellant in insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, c. 23, as amended (the “Act”), for the period from January 1, 2007 to December 31, 2007 because, notwithstanding paragraph 5(2)(i), the appellant and the workers would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. The basis for this determination was the following assumptions of fact set out in paragraph 6 of the Reply to the Notice of Appeal:
+a) the Appellant was incorporated on September 26, 1988; (admitted)
+b) the Appellant custom manufacture a variety of water control gates that are distributed on the market by few distributors; (admitted)
+c) the Appellant obtained his contract by submission; (denied as written; it was by quotation)
+d) the Appellant sell his products all over the country; (admitted: actually in both Canada and the United States)
+e) the Appellant said that 4 people are working for him: the shareholder, the Workers (his sons), and another employee; (denied, the appellant had only 3 employees during the relevant period: the shareholder and his two sons)
+f) for the questioning period, the Appellant produced T4 slips for only 3 people: the shareholder and his 2 sons, the Workers; (admitted)
+g) the opening hour of the Appellant are from 8 AM to 5 PM Monday to Friday; (admitted)
+Christopher Quinn
+h) the Worker had invested $12 000 in the Appellant’s business; (admitted)
+i) the Worker started to work with the Appellant in 1999; (admitted)
+j) his duty was to do the purchase and the contract with the suppliers and to do the submission and the contract with the clients; (admitted)
+k) the Worker was on the road and at the office to perform his tasks; (admitted)
+l) his working hour was from 8-9 AM to 4-5 PM Monday to Friday; (admitted as general hours of business)
+m) the Worker worked around 40 to 45 hours a week; (admitted, but he also worked on week-ends)
+n) the working hours were not controlled by the Appellant; (admitted, but the Worker had to be around)
+o) the Worker did not have to make report to the Appellant, but have to assist at a meeting one [sic] a week; (admitted; the meeting usually took place on Monday mornings)
+p) the Appellant planned and supervised the work of the Worker; (denied)
+q) the Worker was allowed to buy products using the credit line of the Appelant [sic] up to $100 000 but the Appellant approved all the purchases; (admitted as regards the first part and denied as for the rest, as only larger purchases had to be approved)
+r) the Worker had used a car, a cell phone as well of all equipment needed to work at Appellant’s expenses; (admitted; the equipment included a laptop)
+s) both the Appellant and the Worker said that he had received an annual salary of $50 000 and had received a bonus of $15 000; (denied for 2007)
+t) this remuneration has been decided by the Appellant (admitted)
+u) as per the T4 slip provided by the Appellant, the Worker declared a salary of $34 999 in 2007 without any bonus or taxable benefit for using the Appellant’s car; (admitted; he has been reassessed for the taxable benefit)
+v) this remuneration is reasonable considering the worked hours, the tasks and the experience and it is similar to the salary paid to the shareholder and to the other son; (denied; he deserved more but was paid in accordance with the means of the appellant)
+w) the Worker was allowed of 3 vacations week per year and was paid for sick leaves; (denied; he never took 3 vacation weeks)
+Timothy Quinn
+x) the Worker had invested $12 000 in the Appellant’s business; (admitted)
+y) the Worker started to work with the Appellant 3 or 4 year ago; (admitted)
+z) his duty was at the production department and was responsible of the quality. He was also making some purchases and was learning how to give the engineering plans to sub‑contractor and was at the reception merchandises; (admitted)
+aa) the Worker worked on the road and at the office to perform his tasks; (admitted; being responsible for product quality, the worker had to supervise installations)
+bb) his working hour was from 8-9 AM to 4-5 PM Monday to Friday; (admitted as general hours of business)
+cc) the Worker worked around 40 to 45 hours a week; (admitted, but he occasionally worked weekends and evenings)
+dd) the working hours were not controlled by the Appellant; (admitted)
+ee) the Worker did not have to make report to the Appellant, but have to assist at a meeting one [sic] a week; (admitted)
+ff) the Appellant planned and supervised the work of the Worker; (denied)
+gg) the Worker had used a car, a cell phone, a portable as well of all equipment needed to work at Appellant’s expenses; (admitted)
+hh) both the Appellant and the Worker said that he had received an annual salary of $45 000 and had received a bonus of $15 000; (denied; he received an annual salary of only $30 000 in 2007)
+ii) this remuneration has been decided by the Appellant; (admitted)
+jj) as per the T4 slip provided by the Appellant, the Worker declared a salary of $30 000 in 2007 without any bonus or taxable advantage for using the Appellant’s car; (admitted)
+kk) this remuneration is reasonable considering the worked hours, the tasks and the experience and it is similar to the salary paid to the shareholder and to the other son; (admitted)
+ll) the Worker was allowed of 2 vacations week per year and was paid for sick leaves; (admitted, but in 2008 he was away from January to June).
+[4] The Court notes that the appellant issued T4 slips to the workers in respect of the 2007 taxation year and that the workers declared in their tax returns the salary received during that year. This would normally confirm that the workers were employed by the appellant under a contract of service. The Court also notes that the $12,000 investment made by each of the workers was a loan to the appellant.
+[5] The appellant’s agent and the workers testified at the hearing, and the Canada Revenue Agency’s appeals officer testified in support of the respondent’s position. The appeals officer stated that she contacted the appellant by telephone on January 27, 2009 to obtain additional information concerning the appellant’s agent and the workers. She said that incorrect information was provided concerning the remuneration of each of the workers and that there was no mention of additional hours worked by them on weekends and in the evenings. The appellant’s agent explained that no specific question was asked regarding the additional hours worked by the workers and that the incorrect information concerning the remuneration of the workers was simply due to an error as to the relevant period.
+[6] In his testimony, the appellant’s agent confirmed that the workers were covered by the appellant’s group insurance plans (life, dental and extended medical coverage) and that the insurance premiums were paid by the appellant. He also confirmed that the workers were not authorized to sign cheques on behalf of the appellant and that he was the only person doing the appellant's accounting and bookkeeping.
+Analysis
+[7] The Act states that employment in which the employer and employees are not dealing with each other at arm’s length is excluded from insurable employment except where it is reasonable to conclude that such employment, with similar conditions, would have existed if the parties had been dealing with each other at arm’s length.
+[8] The relevant provisions of the Act are subsections 5(2) and (3), which read in part as follows:
+5. (2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+. . .
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[9] Section 251 of the Income Tax Act contains the following specific rules concerning the concept of “related persons”:
+251. (1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length;
+. . .
+Definition of “related persons”
+(2) For the purpose of this Act, “related persons”, or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) any person related to the person described in subparagraph (i) or (ii); and
+. . .
+[10] The appellant is asking this Court to overrule the Minister’s decision. The burden of proof is on the appellant, and that burden is to establish on the balance of probabilities that the Minister’s decision is unfounded in fact and in law.
+[11] The role of the Court in reviewing the Minister’s decision was considered by the Federal Court of Appeal in Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878 (QL), at paragraph 4:
+. . . The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[12] The Federal Court of Appeal in Canada (Attorney General.) v. Jencan Ltd. (C.A.), [1998] 1 F.C. 187, put forward an approach under which the Minister’s exercise of discretion under paragraph 5(3)(b) of the Act can only be interfered with if the Minister acted in bad faith, failed to take into account all relevant circumstances or took into account an irrelevant factor: see Quigley Electric Ltd. v. Canada (Minister of National Revenue – M.N.R.), [2002] T.C.J. No. 674 (QL).
+[13] Bad faith on the part of the Minister is not an issue in this case.
+[14] The review of the circumstances of the employment includes looking at the remuneration paid, the terms and conditions of the employment, and the duration and the nature and importance of the work performed.
+Remuneration
+[15] The salary of the workers was determined by the appellant’s agent. Christopher’s salary for 2007 was $34,999, with no bonus. Timothy’s salary for 2007 was $30,000, with no bonus. The salary of the appellant’s agent for 2007 was $40,000. The information provided to the appeals officer by the workers and the appellant’s agent concerning the salary paid to the workers in 2007 was not correct, but this is of no consequence in view of the fact that the Minister was able to rely on the T4 slips provided by the appellant. In light of the evidence, the salary paid to the workers appears to have been reasonable in the circumstances. No evidence to the contrary was produced and no comparables were presented in court. The workers enjoyed paid annual vacation (3 weeks for Christopher and 2 weeks for Timothy), were entitled to fringe benefits (namely the group insurance plans) and had the use of a car, a cell phone, a laptop and of all equipment needed for their work, and all this was provided at the appellant’s expense.
+Terms and conditions of the employment
+[16] It was established that the workers normally worked 40 to 45 hours per week and that they occasionally worked evenings and weekends. The fact that the workers worked additional hours was not disclosed to the appeals officer. Furthermore, no documentary evidence was produced to confirm the number of additional hours worked by each of the workers or the dates on which the additional hours were worked. No record of the workers' hours worked per week or per month was made available to the Court. The workers' hours of work were not controlled by the appellant. In the circumstances, the Court wonders how the T4 slips were prepared by the appellant and the amounts thereon calculated.
+[17] The workers seem to have had considerable autonomy in the performance of their duties and to have been deeply involved in the business operations of the appellant. Christopher was responsible for the contract quotations and for the purchasing of raw materials. He also helped to obtain contracts in the province of Quebec. Timothy was responsible for product quality control and for receiving the products manufactured by the subcontractors. He also assembled small gates. The appellant’s agent reviewed the quotations, which were usually prepared by Christopher but occasionally by Timothy. The appellant’s agent spoke on a daily basis with the workers and held a weekly meeting with them on Mondays. The appellant’s agent had control of all aspects of the appellant's business operations, including the banking, the accounting, materials purchasing and product sales. In the circumstances, it is reasonable to conclude that the workers were under the authority of their father and that they were under his supervision and control.
+Duration
+[18] Christopher has been with the appellant in full-time employment since 1999, and Timothy has been with the appellant in full-time employment since 2004. Neither of them had a particular title. One day, they will take over the family business.
+Nature and importance of the work performed
+[19] The work done by each worker was important and was fully integrated into the appellant’s operations. The workers did not own the tools and they had no chance of profit or risk of loss in the performance of their work. Clearly the workers did not work for themselves and held insurable employment with the appellant.
+[20] The comparison with arm’s length relationships does not require a perfect match since the Act specifically refers to a “substantially similar contract of employment”.
+[21] Despite the non‑arm’s length relationship between the appellant and the workers, this Court is satisfied that it is reasonable to conclude that the appellant and the workers would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[22] The appeal is dismissed and the Minister’s decision is confirmed.
+Signed at Ottawa, Canada, this 19th day of March 2010.
+« Réal Favreau »
+Favreau J.
+CITATION: 2010 TCC 158
+COURT FILE NO.: 2009-1810(EI)
+STYLE OF CAUSE: Dynamic Water Gates Inc. v. M.N.R.
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: November 30, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: March 19, 2010
+APPEARANCES:
+Agent for the Appellant:
+Michael Quinn
+Counsel for the Respondent:
+Sarom Bahk
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

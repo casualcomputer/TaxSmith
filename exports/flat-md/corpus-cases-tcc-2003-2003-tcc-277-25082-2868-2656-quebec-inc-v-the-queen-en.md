@@ -1,0 +1,237 @@
+---
+title: "2868-2656 Quebec Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25082/index.do"
+last_modified: "2003-05-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 277"
+citation2: ""
+neutral_citation: "2003 TCC 277"
+decision_date: "2003-05-16"
+language: "en"
+item_id: "25082"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2492
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:09:18.051000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dd6acd7267911379cd94743f858fd21a26dd64bdb4b67bb36bf8439a266e0868"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2868-2656 Quebec Inc. v. The Queen
+
+- Citation: 2003 TCC 277
+- Decision date: 2003-05-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2492, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2868-2656 Quebec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-16
+Neutral citation
+2003 TCC 277
+File numbers
+2000-592(GST)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2000-592(GST)G
+BETWEEN:
+2868-2656 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 10, 2003, at Québec, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jules Turcotte
+Counsel for the Respondent:
+Danny Galarneau
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act concerning the Goods and Services Tax for the period from July 1, 1993, to April 30, 1997, notice of which is dated March 13, 1998, is dismissed, with costs in favour of the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of May 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 12th day of July 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC277
+Date: 20030516
+Docket: 2000-592(GST)G
+BETWEEN:
+2868-2656 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Tardif, J.T.C.C.
+[1] This is an appeal from a March 13, 1998, Notice of Assessment concerning the Goods and Services Tax ("the GST") for the period from July 1, 1993, to April 30, 1997.
+[2] In its Notice of Appeal, the appellant corporation sets out the following facts:
+[TRANSLATION]
+1. The appellant is a corporation that operated a restaurant in the city of Charlesbourg, province of Quebec, during the period at issue;
+2. During the period covered by the assessment, Lucie Pelletier held all the issued and outstanding shares in the appellant corporation and was employed by it;
+3. On March 13, 1998, the respondent issued a reassessment to the appellant corporation for the period from July 1, 1993, to April 30, 1997, in which the respondent made adjustments to the Goods and Services Tax ("the GST") for the period at issue: additional tax in the amount of $24,900.11, penalties in the amount of $4,942.17, and interest in the amount of $3,919.43;
+4. That reassessment was made following an audit of the appellant corporation by the Department concerning income and other taxes;
+5. During that audit by the Department, the Department considered that deposits made to Lucie Pelletier's personal bank accounts during the 1994, 1995 and 1996 taxation years came from the appellant corporation's income that was not reported for the purposes of income tax, the Quebec sales tax (QST) or the GST;
+6. The Department therefore considered that the appellant corporation earned additional income in the amount of $41,907, $10,880, $88,018 and $61,289 for the fiscal years ending respectively on April 30, 1994, 1995, 1996 and 1997;
+7. On May 14, 1998, the appellant corporation filed Notices of Objection to the March 13, 1998, assessment;
+[3] In making her assessment, the respondent relied on the following assumptions of fact:
+[TRANSLATION]
+(a) The appellant corporation is a GST registrant;
+(b) During the period from July 1, 1993, to April 30, 1997, the appellant corporation operated a restaurant in Charlesbourg known as Restaurant La Véranda;
+(c) The only shareholder in the appellant corporation was Lucie Pelletier ("the shareholder");
+(d) During the above-noted period, the appellant corporation failed to collect and remit the GST on taxable supplies totalling $347,415.36, calculated as follows:
+From July 1, 1993 to April 30,
+1994
+April 30,
+1995
+April 30,
+1996
+April 30,
+1997
+(1) Amounts from shareholder's bank accounts
+$73,049.52
+$89,129.71
+$64,708.10
+$79,774.82
+(2) Supplies made through video poker machines
+$22,393.33
+$15,064.42
+(3) Unreported "other supplies"
+$1,543.11
+(4) Reported but not taxed "other supplies"
+$349.85
+$2,141.04
+Total unadjusted net taxable amounts
+$95,443.45
+$104,543.98
+$66,251.21
+$81,915.86
+Adjustment of variance between recorded taxable sales and tax actually remitted
+$17.86
+$5.29
+$175.71
+-$4.57
+Adjustment to correct typographical error in formula on April 1995 meal and hotel services worksheet
+$-933.43
+Total adjusted net taxable amounts
+$95,461.31
+$103,615.84
+$66,426.92
+$81,911.29
+(e) The amounts deposited into the shareholder's bank accounts came from supplies made by the appellant corporation, which reported no profit for the 1994, 1995, 1996 and 1997 taxation years;
+(f) The taxable supplies in the amount of $347,415.36 represent GST in the amount of $24,319.07;
+(g) During the same period, the appellant corporation claimed excess Input Tax Credits ("ITCs") in the amount of $581.09;
+(h) For the entire period, the appellant corporation failed to report and remit to the Minister GST in the total amount of $24,900.11;
+[4] At issue is whether the appellant corporation acted properly as an agent of the Minister of National Revenue ("the Minister") regarding the GST for the period from July 1, 1993, to April 30, 1997, and specifically whether the deposits made into the shareholder's bank accounts came from supplies made by the appellant corporation in operating its restaurant.
+[5] Starting on November 1, 1991, the appellant corporation, in which the shareholders were Lucie Pelletier and the spouse of the former owner of the business, operated a restaurant and bar known as Restaurant La Véranda located in a shopping mall in Charlesbourg.
+[6] The appellant corporation purchased the business from the trustee in the bankruptcy of Gestion A. Bouchard Inc., a company that had operated the restaurant and bar. At the time of the acquisition, the capital stock was divided equally between Lucie Pelletier and Marielle Deschênes, both of whom had been employees of the company dissolved by the bankruptcy.
+[7] For the periods at issue, the appellant corporation's income came mainly from the operation of the restaurant and bar and from commissions on the income generated by the use of video poker machines installed on the premises.
+[8] The respondent assessed the appellant corporation on the basis of the assumption that all the deposits over and above those from the appellant corporation's business operations were taxable supplies.
+[9] Lucie Pelletier vigorously contested and denied the respondent's interpretations of the nature of the deposits at issue. She argued that the deposits were made up as follows: many winnings at bingo; a loan in the amount of $50,000 from the personal savings of one of her nieces; an inheritance in the amount of $6,500; and income from her son for board in the amount of $13,000.
+[10] The total deposits for the period at issue were substantial, amounting to approximately $300,000.
+[11] Lucie Pelletier explained that she made the deposits at issue from personal financial resources that she had accumulated in cash over the years. She kept these amounts at home or in safety deposit boxes at the bank. According to Lucie Pelletier, these savings had been accumulated specifically as follows:
+Savings from wages
+· Work at Quebec's Commission des transports, 1975 to 1981
+$42,000
+· Work at Lucie Pizzéria, 1981 to 1984
+$16,000
+· Work at Lebourgneuf bowling alley and at Restaurant La Véranda, 1985 to 1991
+$30,000
+Inheritance from father, 1984
+$6,500
+Repayments from mother, 1984 to 1990
+$25,000
+Winnings at bingo
+· 1980 to 1990
+$53,000
+· 1991 to 1993
+$45,000
+· 1994
+$13,872
+· 1995
+$17,419
+· 1996
+$18,962
+Loan from Linda Bélanger, 1991
+$50,000
+Board income from son Patrick, 1990 to 1996
+$13,000
+[12] Essentially, the evidence of this substantial amount of available cash consisted of the testimony of Lucie Pelletier and her spouse, makeshift bookkeeping of Lucie Pelletier's winnings at bingo, and a note payable to Linda Bélanger in the amount of $50,000.
+[13] Lucie Pelletier's financial resources were thus made up of four components:
+Savings from wages, 1975 to 1991
+$88,000
+Winnings at bingo, 1980 to 1996
+$148,253
+Cash loan
+$50,000
+Inheritance, income from board, repayment
+$44,500
+[14] Lucie Pelletier described herself as a very detail-conscious person who was particularly concerned about maintaining highly detailed records. She used this explanation to justify her very explicit bookkeeping of her phenomenal winnings at bingo. Apparently this detail-consciousness was not as marked regarding the operations of the restaurant and bar, where nonetheless essential documents were quite simply missing or destroyed.
+[15] I refer in particular to the daily cash register tapes. The deficient accounting records of the operations of the restaurant and bar is all the more surprising since Lucie Pelletier stated that, as an employee, she had seen many serious problems of the former owner of the business.
+[16] Lucie Pelletier also stated that the restaurant and bar was a very good business; she had even considered purchasing it during the months preceding the bankruptcy for approximately $200,000, which she had in cash in various safety deposit boxes and at her home.
+[17] After the bankruptcy, Lucie Pelletier and the spouse of the former owner of the business purchased all the shares in the business, through the appellant corporation, for a fraction of the amount she had been prepared to pay a few months before.
+[18] Somewhat later, Lucie Pelletier purchased all the shares held by the joint shareholder, Marielle Deschênes, at a time when the appellant corporation was in deficit. The corporation that Lucie Pelletier directs and controls as sole shareholder loses money year after year.
+[19] Although Lucie Pelletier described herself as an orderly, disciplined, particularly frugal and extremely responsible person in managing her personal affairs, the evidence did not make it possible to explain the logic or the rationale that may have motivated her. She stated that initially she was prepared to purchase the business for approximately $200,000. Somewhat later, she purchased half of the business for a fraction of that amount, in a very ambiguous manner. Some months later, she purchased all the shares in the appellant corporation, which has been losing money and will continue doing so.
+[20] During that entire period, Lucie Pelletier, seemingly unconcerned by the appellant corporation's precarious position, apparently contributed to the appellant corporation's finances from her savings and her winnings at bingo. While this scenario is possible, it is rather dubious.
+[21] Lucie Pelletier alleged that she accumulated considerable savings, whereas her income was marginal when she had low-paying jobs. Concerning her substantial winnings at bingo, it is possible that she was and is passionate about bingo, but in my view such fabulous winnings are highly unlikely; rather, I believe that they are pure fabrication allowing her to explain deposits that cannot otherwise be justified.
+[22] Lucie Pelletier's allegation that she had net winnings of nearly $150,000 over a 15-year period of playing parish bingo is quite simply implausible. I need not reiterate that the only evidence available is the testimony of the lucky winner herself; furthermore, according to that same testimony, those winnings were made up of mainly small amounts since large jackpots were uncommon.
+[23] Lucie Pelletier argued that by far most of her winnings were paid to her in cash. When the jackpots were large, they were paid by cheque. At that level she was apparently not as lucky since substantial winnings leave a paper trail.
+[24] Concerning the loan from her niece in the amount of $50,000, here again, Lucie Pelletier was given the amount of the loan in cash. Apparently her niece lent her the money interest-free, claiming that she did not need it. Lucie Pelletier did not use the loan and kept it in cash in a safety deposit box. The conditions of repayment were vague. It would have been worthwhile, and indeed very important, to have that generous person testify.
+[25] Another rather surprising aspect of this matter of the $50,000 loan is that apparently no mention of it was made during the audit or at the stage of the objection. At one point, it was alleged that this $50,000 loan was used for making the purchase; later, it was alleged that the purchase was financed by means of a bank loan. As well, the way this loan was apparently repaid was very vague.
+[26] On this matter of the $50,000 loan and on other equally important points, Lucie Pelletier, who described herself as an orderly, methodical person, gave contradictory versions of the facts.
+[27] Concerning the savings accumulated from Lucie Pelletier's modest wages, here again, the explanations provided are not very plausible. As well, the inheritance, the repayment of the consideration paid for the purchase of her home and, lastly, the board paid by her son are components for which the explanations provided did not have the minimum transparency or consistency to be retained as probable.
+[28] The burden of proof was on the appellant corporation. The explanations forming the basis of the objection to the assessment were rather suspect on their face and were certainly very peculiar.
+[29] The obvious difficulty of changing something that appeared dubious at first glance into convincing evidence called for explanations that were plausible, consistent and, most importantly, confirmed by objective evidence and third-party testimony.
+[30] Lucie Pelletier could have improved her evidence by calling certain persons as witnesses, thus somewhat more plausibly establishing her phenomenal good fortune at bingo, and, most importantly, by calling as a witness the person who lent her $50,000 in cash, interest-free.
+[31] The only person who testified in support of the appellant corporation's allegations was Lucie Pelletier's spouse. Essentially, his testimony confirmed that Lucie Pelletier had a passion for bingo and was usually very lucky. He also explained in detail and emphasized her mania for noting, keeping and recording everything.
+[32] Why would Lucie Pelletier, who had already witnessed a serious problem resulting from lack of documentary information relating to the administration of the same business and whose spouse had said that she was in the habit of keeping and recording everything, deliberately choose not to keep all the vouchers that were elementary for the audit?
+[33] The evidence has not made it possible to answer that question. This lack of an answer, the numerous inconsistencies and contradictions, the absolutely remarkable details of the arguments supporting Lucie Pelletier's allegations, and the losses of memory about certain adverse points mean, overall, that I have no hesitation in dismissing outright Lucie Pelletier's testimony, which forms the appellant corporation's main evidence.
+[34] As well, in my view this harsh criticism of the quality of the evidence is confirmed by the accounting information available concerning the appellant corporation's operations. Indeed, Lucie Pelletier stated that she was an extremely frugal person who, during her first years in the work force, saved substantial amounts out of very modest wages.
+[35] Lucie Pelletier was employed by a restaurant she considered so interesting that she said that a few months before the bankruptcy she was prepared to invest approximately $200,000 to purchase it. Following the bankruptcy, with the spouse of the former owner of the business, she created the appellant corporation, which purchased the business's assets for a fraction of that amount. Some time later, she purchased the shares held by the joint shareholder and became the sole shareholder.
+[36] The appellant corporation loses money year after year; Lucie Pelletier continues to operate it even, as she said, after noting a significant decline in the number of customers. During the entire period at issue, she frequently attended bingo games on a regular basis while the appellant company posted loss after loss. Another really very surprising fact is that Lucie Pelletier receives annual wages of approximately $10,000 from the appellant corporation and still manages to own two vehicles worth approximately $30,000 each in her own name. Apparently her winnings at bingo, allegedly used for the appellant corporation's operations, were also used for Lucie Pelletier's personal consumer spending.
+[37] There is quite a surprising contradiction here that should certainly have been explained; nevertheless, there was never any question of a recovery strategy or plans to sell or shut down the business.
+[38] The assessment was indeed made in a somewhat arbitrary manner, but the respondent had no choice, given the lack of transparency and the absence of vouchers.
+[39] During the period at issue, the documents available providing accounting information on the appellant corporation were unaudited financial statements and daily reports covering the period from May 1 to the end of November 1997—the other daily reports and related meal vouchers were promptly destroyed in violation of the legal requirement to keep records, as set out in subsection 286(1) of the Excise Tax Act and subsection 34(1) of Quebec's Act respecting the Ministère du revenu.
+[40] Sylvain Gingras, the auditor responsible for the case, explained that the daily reports refer to the daily sales of the restaurant and bar. On the basis of the little information available, he made various calculations in order to check the plausibility of the figures. Following various accounting exercises, he concluded that the average meal cost was apparently between $1.50 and $2.50, which even on its face is completely implausible, particularly since the price of a coffee was $1.00. He therefore concluded that the many deposits came, not from Lucie Pelletier's personal savings, but from the appellant corporation' operations.
+[41] Acting as an agent for the collection of taxes calls for impeccable transparency that is untainted by any doubt and, most importantly, for the availability of all supporting documents so that impeccable, flawless management may be proven at all times.
+[42] While any error or omission can lead to troublesome disadvantages and consequences, the persons whose behaviour caused the omissions are solely responsible for the situation.
+[43] In this case, the appellant corporation deliberately destroyed the vouchers that were indispensable to elementary accounting. The vouchers and documents available amply justified a strong presumption that the accounting records did not reflect a large portion of the income.
+[44] The appellant corporation benefited from many substantial deposits; the appeal specifically involves the source of those deposits.
+[45] The balance of the evidence has confirmed the respondent's arguments that those deposits came from the appellant corporation's operations, not from the sole shareholder's savings. The many vague statements and contradictions completely undermined the quality of Lucie Pelletier's testimony and also discredited the explanations of the appellant corporation's operations.
+[46] In these circumstances and for these reasons, the appeal is dismissed, with costs in favour of the respondent.
+Signed at Ottawa, Canada, this 16th day of May 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 12th day of July 2004.
+Sophie Debbané, Revisor

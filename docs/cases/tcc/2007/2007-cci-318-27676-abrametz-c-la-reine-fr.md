@@ -1,0 +1,328 @@
+---
+title: "Abrametz c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27676/index.do"
+last_modified: "2007-06-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 318"
+citation2: ""
+neutral_citation: "2007 CCI 318"
+decision_date: "2007-06-05"
+language: "fr"
+item_id: "27676"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 497
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:36:48.070000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e5bbf0d22871a48a983cccea970b9f5d8860d9b653d6b28535efa7ab8a0dbc5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Abrametz c. La Reine
+
+- Citation: 2007 CCI 318
+- Decision date: 2007-06-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 497, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abrametz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-05
+Référence neutre
+2007 CCI 318
+Numéro de dossier
+2000-2517(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-2517(IT)G
+ENTRE :
+PETER V. ABRAMETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 octobre 2006, à Prince Albert (Saskatchewan).
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Avocat de l’appelant :
+Me James H.W. Sanderson
+Avocat de l’intimée :
+Me Lyle Bouvier
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1996 et 1997 est rejeté, les dépens étant adjugés à l’intimée, selon les motifs du jugement ci‑joints.
+Signé à Saskatoon (Saskatchewan), ce 5e jour de juin 2007.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+Référence : 2007CCI318
+Date : 20070605
+Dossier : 2000-2517(IT)G
+ENTRE :
+PETER V. ABRAMETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Peter V. Abrametz, interjette appel de la cotisation établie par le ministre du Revenu national à l’égard de son année d’imposition 1996[1]. Le ministre a refusé la déduction de la perte déductible au titre d’un placement d’entreprise demandée par l’appelant à l’égard de la garantie que celui‑ci avait donnée pour certains montants empruntés par Regent Plaza (1992) Inc. (« Regent »), société dont il détenait des actions.
+[2] L’appelant déclare qu’Henri Paulhus, qui détenait le même nombre d’actions que lui dans Regent, et lui‑même étaient solitairement responsables à titre de garants des dettes que Regent avait contractées envers une créancière hypothécaire sans lien de dépendance (la « banque »). Regent n’ayant pas remboursé ces dettes, la banque a intenté une action en justice en vue de l’exécution de la garantie. En fin de compte, l’affaire a été réglée avant l’instruction. L’appelant affirme s’être acquitté des obligations qui lui incombaient en vertu de la garantie en transférant à M. Paulhus les actions qu’il détenait dans une autre société, Placid Estates Holdings Inc. (« Placid ») après que celui‑ci (M. Paulhus) eut versé 490 000 $ à la banque. Par suite de ces opérations, l’appelant a déclaré, dans sa déclaration de revenus de 1996, un gain en capital de 249 999 $ à l’égard du transfert des actions de Placid. Après avoir imputé au gain en capital une perte existante reportée sur une année ultérieure, l’appelant a déduit une perte déductible au titre d’un placement d’entreprise en vue de compenser le reste du gain.
+[3] Certaines des allégations que l’appelant a faites sont incluses dans les passages non contestés de la réponse à l’avis d’appel :
+[traduction]
+17. En établissant les cotisations de l’appelant et en ratifiant les cotisations, le ministre s’est notamment fondé sur les hypothèses suivantes :
+a) les faits admis ou ci‑dessus énoncés;
+b) Placid a été constituée en personne morale le 29 juillet 1991, à Regina (Saskatchewan). À ce moment‑là, les seuls administrateurs et actionnaires de la société étaient l’appelant et Henri Paulhus (« M. Paulhus »), qui détenaient chacun 50 actions comportant droit de vote de Placid. Ils ont continué à détenir ces actions jusqu’à ce que l’appelant soit destitué de ses fonctions d’administrateur et cesse d’être actionnaire de Placid à un moment donné après le 31 août 1995 et avant le 31 août 1996. À ce moment‑là, M. Paulhus est devenu l’unique actionnaire et administrateur de Placid;
+c) la société 598906 Saskatchewan Ltd. a été constituée en personne morale le 12 novembre 1991, à Regina (Saskatchewan). Le nom de cette société a été remplacé par celui de Regent Plaza (1992) Inc. le 9 juin 1992, l’appelant et M. Paulhus étant alors les uniques administrateurs et actionnaires de Regent;
+d) les déclarations annuelles de Regent ont été déposées auprès de la Direction des sociétés, à Regina (Saskatchewan), pour les exercices ayant pris fin les 31 décembre 1992, 31 décembre 1993 et 31 décembre 1994. Dans chacune de ces déclarations annuelles, qui ont été signées par l’appelant, l’appelant et M. Paulhus sont désignés à titre d’uniques administrateurs et d’uniques actionnaires de Regent;
+e) l’appelant est avocat; il a une formation qui le mettrait au courant des exigences de la Direction des sociétés en ce qui concerne le dépôt de déclarations;
+f) Regent a été radiée de la liste des sociétés, dans le registre de la Direction des sociétés de la Saskatchewan, le 30 avril 1996, conformément à l’alinéa 290(1)a) de la Business Corporations Act, R.S.S., 1978, ch. B‑10, dans sa forme modifiée;
+g) pendant la période pertinente, Placid et Regent étaient des sociétés privées sous contrôle canadien.
+[4] Les autres hypothèses sont, en totalité ou en partie, contestées :
+[traduction]
+h) Regent n’avait pas de revenu tiré d’une entreprise exploitée activement pendant la période pertinente, et elle n’a jamais été, pendant la période pertinente, une société exploitant une petite entreprise au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. I (5e suppl.), dans sa forme modifiée (la « Loi »);
+i) l’appelant n’a pas fourni de documents susceptibles d’étayer l’allégation selon laquelle il s’était porté garant de tout ou partie de la dette de Regent;
+j) lorsque Regent est devenue insolvable, Northwest Trust Company ou sa remplaçante, la Canadian Western Bank (« la banque »), a censément demandé le paiement en vertu de la garantie ou des garanties personnelles qui avaient été données à l’appui du financement accordé à Regent. Cela étant, indépendamment de la question de savoir si l’appelant avait solidairement donné une garantie avec M. Paulhus, la banque pouvait à bon droit demander à M. Paulhus de payer tout le montant garanti;
+k) M. Paulhus a payé tous les montants recouvrés par la banque, conformément à une garantie personnelle donnée à l’égard de la dette de Regent. L’appelant n’a versé aucun montant à la banque conformément à une garantie personnelle de la dette de Regent;
+l) l’appelant, M. Paulhus, Gary Gaudet et Gordon Davis ont censément signé un accord d’indemnisation le 23 juin 1992 (l’« accord d’indemnisation »), dans lequel Gary Gaudet et Gordon Davis sont désignés à titre de garants. L’accord d’indemnisation visait censément à indemniser en partie M. Paulhus et l’appelant à l’égard des garanties personnelles données pour le compte de Regent. Les dispositions de l’accord prévoyaient que la responsabilité de chaque garant était limitée à une partie proportionnelle de la garantie principale de 500 000 $, en fonction du nombre d’actions détenues par chaque garant;
+m) l’appelant n’a assumé aucune obligation légale par suite de l’accord d’indemnisation;
+n) l’appelant, M. Paulhus, M. Gaudet et M. Davis ont censément signé un second accord le 22 janvier 1996 (l’« accord de paiement ») dans lequel l’appelant, M. Gaudet et M. Davis convenaient chacun de verser à M. Paulhus vingt‑cinq pour cent des montants que M. Paulhus avait antérieurement dépensés en vue d’aider Regent (la « dette de M. Paulhus »);
+o) l’accord de paiement prévoit le transfert, en faveur de M. Paulhus, des actions de Placid détenues par l’appelant (le « transfert d’actions ») en paiement de la présumée part de l’appelant et de celle de M. Davis à l’égard de la dette de M. Paulhus;
+p) toute contrepartie donnée à l’appelant pour l’accord de paiement était une contrepartie passée;
+q) si l’accord de paiement avait un effet juridique, ce qui n’est pas ici admis, la dette de l’appelant envers M. Paulhus s’élevait au plus à 125 000 $;
+r) tout montant payé par l’appelant par suite de l’accord de paiement et du transfert d’actions a été payé au titre d’une dette contractée envers M. Paulhus. L’appelant n’a versé aucun montant à quelque créancier que ce soit de Regent détenant quelque garantie personnelle qu’il avait donnée;
+s) tout bien transféré à M. Paulhus par l’appelant au titre d’une présumée dette de Gordon Davis envers M. Paulhus était gratuit et ne constituait pas une perte au sens des articles 38 et 39 de la Loi;
+t) en 1996, l’appelant n’a pas disposé d’une créance due par une société exploitant une petite entreprise selon les dispositions de l’alinéa 39(1)c) et du paragraphe 50(1) de la Loi;
+u) en 1996, l’appelant n’était pas tenu d’honorer une garantie de la créance due par une société exploitant une petite entreprise selon les dispositions de l’alinéa 39(1)c) et du paragraphe 50(1) de la Loi;
+v) l’appelant n’a pas subi de perte au titre d’un placement d’entreprise au cours de l’année d’imposition 1996.
+[...]
+Les dispositions législatives
+[5] Pour avoir droit à une perte déductible au titre d’un placement d’entreprise, l’appelant doit satisfaire aux critères énoncés dans les dispositions pertinentes[2] de la Loi :
+39(12) Garanties – Pour l’application de l’alinéa (1)c), dans le cas où, aux termes d’une entente de garantie de dette, un contribuable paie à une personne avec laquelle il n’a aucun lien de dépendance un montant au titre de la dette d’une société qui est une société exploitant une petite entreprise au moment où la dette est contractée et à un moment donné au cours des 12 mois précédant le moment où un montant devient payable pour la première fois par le contribuable aux termes de l’entente au titre d’une dette de la société, la partie du montant que la société doit au contribuable est réputée être une créance de celui‑ci sur une société exploitant une petite entreprise.
+[6] Le paragraphe 248(1) définit l’expression « société exploitant une petite entreprise » comme suit :
+Sous réserve du paragraphe 110.6(15), société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable, à un moment donné, à des éléments qui sont :
+a) soit utilisés principalement dans une entreprise que la société ou une société qui lui est liée exploite activement principalement au Canada;
+b) soit constitués d’actions du capital‑actions ou de dettes d’une ou de plusieurs sociétés exploitant une petite entreprise rattachées à la société au moment donné, au sens du paragraphe 186(4) selon l’hypothèse que les sociétés exploitant une petite entreprise sont, à ce moment, des sociétés payantes au sens de ce paragraphe;
+c) soit visés aux alinéas a) et b).
+Pour l’application de l’alinéa 39(1)c), est une société exploitant une petite entreprise la société qui était une telle société à un moment de la période de douze mois précédant le moment donné; par ailleurs, pour l’application de la présente définition, la juste valeur marchande d’un compte de stabilisation du revenu net est réputée nulle.
+[7] Les éléments du paragraphe 39(12) ont été résumés comme suit dans la décision Armstrong v. Her Majesty the Queen :
+[34] […] En vertu du paragraphe 39(12) de la Loi, un paiement effectué par un contribuable conformément à une garantie des dettes de la société est réputé être une créance du contribuable sur une société exploitant une petite entreprise si :
+- le paiement est effectué à une personne avec laquelle il n’a aucun lien de dépendance;
+- la société était une société exploitant une petite entreprise au moment où la dette, à l’égard de laquelle le paiement a été effectué, a été contractée et à un moment donné au cours des 12 mois précédant le moment où un montant est devenu payable aux termes de la garantie.
+[35] L’expression « société exploitant une petite entreprise » est définie au paragraphe 248(1) de la Loi comme étant une société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable à des éléments qui sont utilisés dans une entreprise qu’elle exploite activement principalement au Canada. Aux termes du paragraphe 248(1) de la Loi, une entreprise exploitée activement par la société comprend toute entreprise exploitée par la société[3]. [Non souligné dans l’original.]
+[8] Comme dans tous les appels fiscaux, l’appelant a la charge de convaincre la Cour, selon la prépondérance des probabilités, que les hypothèses de fait du ministre sont erronées. L’appelant a témoigné à l’audience. J’ai trouvé son témoignage évasif et vague. Les propos suivants échangés avec l’avocat de l’intimée au sujet de la question relativement simple de savoir à quel moment Regent avait déposé pour la dernière fois une déclaration annuelle de société montrent bien l’approche adoptée par l’appelant :
+[traduction]
+Q. [...] si je vous disais que Regent a cessé de déposer ses déclarations annuelles de société en 1994, seriez‑vous d’accord avec moi?
+R. Bien, elle a déposé sa déclaration de 1994.
+Q. D’accord, et c’est la dernière déclaration qu’elle a déposée.
+R. Donnez-moi – 19 – j’ai celle de 1990 – est‑ce 1995? Je sais qu’elle a été radiée au mois d’avril 1996, de sorte qu’elle n’aurait pas déposé sa – elle aurait déposé sa déclaration de 1995, mais non celle de 1996. Elle a été radiée au mois d’avril 1996, je crois que c’était le 30 avril.
+Q. Avez-vous une copie de cette déclaration, Monsieur Abrametz?
+R. De la déclaration de 1995?
+Q. Celle de 1995, Monsieur Abrametz, de 1995.
+R. Je n’ai pas de copie.
+Q. Monsieur Abrametz, je vous dis que la dernière année pour laquelle la société a déposé des déclarations était l’année 1994; c’était, en fait, le 22 décembre 1994. Êtes‑vous d’accord?
+R. Aucune déclaration n’aurait été déposée au mois de décembre 1995 parce qu’elle a été radiée au mois d’avril 1996, je crois donc que c’est exact.
+Q. Par conséquent, il s’agissait de l’année 1994.
+R. Je crois que c’est exact, au mois de décembre 1994.
+Q. Par conséquent, selon la preuve, elle a été radiée du registre des sociétés parce qu’elle n’a pas déposé de déclaration après 1994? C’est bien clair, n’est‑ce pas?
+R. Elle a été radiée le 30 avril 1996.
+Q. D’accord, et elle n’avait pas déposé de déclaration depuis l’année 1994.
+R. La déclaration de 1995.
+Q. Elle n’avait pas déposé de déclaration pour l’année 1995.
+R. C’est exact.
+[9] L’appelant a également été évasif au sujet de la question de savoir si Regent avait déjà produit des déclarations de revenus :
+[traduction]
+Q. Et elle [Regent] n’a jamais déclaré de revenu à Revenu Canada?
+R. Elle n’a certes pas déclaré de revenu imposable.
+Q. Monsieur Abrametz, a-t-elle produit une déclaration de revenus des sociétés T2?
+R. Je ne puis répondre, je n’étais pas –
+Q. C’est vous le président de la société.
+R. En fait, je crois que c’était M. Paulhus qui était le président.
+Q. Monsieur Abrametz –
+R. Non, je suppose que, ouais. Ouais, nous n’avions pas – je n’ai pas produit de déclarations. J’étais – j’étais – je n’ai pas produit de déclarations.
+Q. Vous n’avez pas produit de déclarations de revenus des sociétés T2; il est donc raisonnable de supposer que vous n’avez jamais produit de déclarations auprès de Revenu Canada, n’est‑ce pas?
+R. Je le crois.
+Q. Par conséquent, on n’a jamais produit de déclaration de revenus des sociétés.
+R. Je n’en sais rien. Je n’ai pas produit de déclarations à titre de président.
+Q. Elle n’a donc pas produit de déclarations, n’est-ce pas, Monsieur Abrametz?
+R. Bien –
+Q. Mais c’est vous le président de la société, Monsieur Abrametz. Pensez‑vous que la secrétaire produirait des déclarations sans que vous le sachiez?
+R. Bien, nous avions un gérant. M. Davis était le gérant de la société. Je ne la gérais pas, de sorte que –
+Q. Qui est-ce qui serait chargé de produire les déclarations de revenus des sociétés T2 pour cette société?
+R. Bien, je suppose que ce serait le secrétaire-trésorier, je suppose que c’était en fait lui.
+Q. Et le président serait au courant de la chose?
+R. Bien, pas nécessairement, je suppose que non. Je veux dire qu’il y avait toutes sortes de – ce n’est pas moi qui m’occupais de l’exploitation, de sorte que –
+Q. Très bien. Vous ne disposez donc d’aucun élément de preuve tendant à démontrer que la société a produit des déclarations.
+R. Je n’en ai pas.
+Q. Et si je vous le disais, vous ne pourriez pas contester la chose, n’est-ce pas?
+R. Je ne contesterais pas la chose, Monsieur. Je ne dispose tout simplement pas de ce renseignement, mais je sais qu’elle n’était pas rentable et qu’il n’y avait pas de revenu imposable[4].
+[10] De même, en ce qui concerne la question de savoir si des actions de Regent avaient été émises en faveur de deux autres particuliers, l’appelant a déclaré ce qui suit lors de l’interrogatoire principal :
+[traduction]
+Q [...]Monsieur Abrametz, y a-t-il d’autres personnes qui sont devenues actionnaires de Regent?
+R. Oui. M. Paulhus et moi-même avons lancé l’entreprise, mais étant donné que nous n’étions ni l’un ni l’autre en mesure de – d’exploiter ou de gérer Regent Plaza, M. Davis, Gordon Davis, s’est joint à nous à titre d’actionnaire détenant 25 p. 100 de la société, et M. Gaudet s’est joint, à titre d’actionnaire détenant 25 p. 100 des actions.
+Q. Des certificats d’actions ont-ils été délivrés à ces personnes?
+R. Elle – dans Regent Plaza 2000 – 1992, ils auraient dû détenir des certificats d’actions, mais à ma connaissance, il semble que les certificats n’ont jamais été en fait délivrés[5].
+[11] Pourtant, lorsqu’on lui a posé des questions à ce sujet lors du contre‑interrogatoire, l’appelant (qui est un avocat chevronné) s’est montré beaucoup moins sincère :
+[traduction]
+Q. [...]Monsieur Abrametz, aucune action de Regent n’a été émise en faveur de M. Davis et de M. Gaudet, n’est‑ce pas?
+R. Elles devaient avoir été émises.
+Q. Il s’agit d’une question précise comportant des conséquences juridiques comme vous le savez. Regent a‑t‑elle émis des actions en faveur de M. Davis et de M. Gaudet?
+R. Il semble que les déclarations annuelles qui ont été déposées n’indiquaient pas que des actions avaient été émises.
+Q. Je vais vous poser encore une fois la question. Il n’y avait pas de – je vais avancer, Monsieur Abrametz, que Regent n’a émis aucune action en faveur de Gary Gaudet et de M. Davis.
+R. J’ai le registre des procès-verbaux. Je dois consulter le registre des procès‑verbaux pour répondre à cette question. Puis‑je le faire? Non. Pardon, il ne s’agit pas du bon registre. Je puis uniquement vous dire, Monsieur, que les déclarations annuelles qui ont été déposées n’indiquaient pas que des actions avaient été émises. C’est tout ce que je peux vous dire, Monsieur. Je ne puis vous dire si le registre des procès‑verbaux faisait état de l’existence de certificats d’actions.
+Q. Il s’agit d’un détail plutôt important, Monsieur Abrametz.
+R. Pardon. Je ne puis faire mieux, Monsieur.
+Q. Vous êtes administrateur de la société Regent.
+R. Oui.
+Q. Mais vous n’êtes pas au courant de la chose. Vous n’êtes pas en mesure de me le dire aujourd’hui.
+R. Je puis uniquement vous dire, Monsieur, qu’ils devaient détenir des certificats d’actions, qu’ils devaient détenir des actions, et que nous avons toujours considéré qu’ils détenaient des actions, mais oui, dans les déclarations annuelles qui ont été déposées, il n’était pas indiqué dans les déclarations annuelles qu’ils détenaient des actions. C’est exact, Monsieur[6].
+[12] En plus de la nature non convaincante de son témoignage, l’appelant a omis de produire le genre de preuve documentaire nécessaire à l’appui des aspects qui étaient même les plus fondamentaux de sa demande. Parmi les documents que l’appelant avait communiqués avant l’instruction, certains documents qui ont été remis n’étaient au mieux qu’indirectement liés aux questions en litige. D’autres documents sur lesquels l’appelant s’appuyait ont été produits pour la première fois le matin de l’audience[7]. Étant donné la façon plutôt désorganisée dont l’appelant a conduit l’appel[8], j’ai admis ces documents malgré les objections de l’avocat de l’intimée.
+[13] Si je mentionne tout cela, ce n’est pas par esprit de malice, mais pour montrer jusqu’à quel point l’appelant a omis de rassembler la preuve nécessaire pour réfuter les hypothèses sur lesquelles la cotisation établie par le ministre était fondée ou pour satisfaire aux critères énoncés au paragraphe 39(12). En plus de la nature rigoureuse de ses parties constituantes, le paragraphe 39(12) est libellé d’une façon conjonctive, ce qui veut dire qu’il faut remplir chacune des conditions législatives pour établir l’admissibilité.
+[14] Si nous examinons d’abord le paragraphe 39(12), la perte déductible au titre d’un placement d’entreprise doit être un montant payé par le contribuable au titre de la dette d’une société aux termes d’une entente de garantie de dette. Je retiens le témoignage de l’appelant lorsqu’il dit qu’il était désigné comme étant l’un de deux garants qui étaient tenus de garantir la dette de Regent, aux termes de l’entente[9] qu’ils avaient conclue avec la banque. Toutefois, l’appelant et M. Paulhus étaient assujettis à une obligation solidaire; la banque avait le droit de choisir le garant et elle semble avoir choisi M. Paulhus. Il n’existe pas suffisamment d’éléments de preuve pour démontrer que l’appelant lui‑même avait payé « un montant » aux termes de ces garanties ni aucun élément indiquant quel était ce montant. Comme le montre le témoignage de l’appelant lui‑même, si de fait « un montant » a été payé à la banque à l’égard de la dette de Regent, la conclusion la plus probable est que le montant a été payé par l’autre garant, M. Paulhus, à l’aide d’une lettre de crédit[10] apparemment approuvée à cette fin :
+[traduction]
+R. [...] Au mois de janvier 1996, M. Paulhus et moi‑même nous sommes rencontrés pour discuter de la façon de traiter avec Northwest Trust, et à l’issue de la réunion, il a été décidé que M. Paulhus et moi – que M. Paulhus paierait la dette. Je devais lui transférer les actions de Placid en vue d’être libéré des – des garanties, et nous devions ensuite rencontrer les autres parties à l’accord d’indemnisation, c’est donc ce que cela représente. Vous remarquerez que M. Davis a signé le document le 5 février. Je crois qu’il était déjà parti à Red Deer. Il n’était même plus en Saskatchewan, mais M. Paulhus et moi‑même avons probablement signé le document le 22 janvier ou vers cette date. C’est M. Davis qui l’a signé par la suite à la fin, c’est lui qui a été le dernier à le signer, semble‑t‑il.
+Q. Nous avons donc entendu un vague témoignage au sujet du paiement, du paiement, du paiement à la banque.
+R. Vous parlez des 450 000 $ et des 40 000 $?
+Q. Bien, je – on ne sait pas trop combien d’argent a en fait été payé, parce que nous n’avons pas de documents à ce sujet.
+R. Bien, il en est fait mention, oui, les 450 000 $ garantis par la ligne de crédit de M. Paulhus.
+Q. Disposons-nous de documents indiquant que M. Paulhus a payé ce montant, et la date à laquelle le montant a été payé?
+R. Bien, nous avons – oui. Nous avons – nous avons la – la lettre du 1er février de M. Grant Richard où il en est question, oui, c’est exact. Voici ce qui y est dit :
+La Canadian Western Bank m’a demandé de ne pas consentir au procès‑verbal de transaction tant que je n’aurai pas reçu et qu’elle n’aura pas approuvé le formulaire de lettre de crédit, et tant que M. Thornton ne m’aura pas informé que la Canadian Western Bank a obtenu un règlement satisfaisant à l’égard de l’autre action dans laquelle la ligne de crédit est en cause.
+Par conséquent, en effet, cela a été fait.
+Q. Comment –
+R. Comment puis-je le savoir?
+Q. Le paiement, Monsieur Abrametz. Le paiement est très important, le paiement d’une dette.
+R. C’est exact.
+Q. Disposons-nous de documents démontrant que la dette a été payée? Il s’agit d’un élément fort important du casse‑tête.
+R. Bien, oui. Nous avons le procès-verbal de transaction selon lequel on demandait le paiement, et nous avons –
+Q. Le procès-verbal de transaction demandant le paiement est antérieur au 31 mai – ou au 30 avril 1996 –
+R. C’est exact.
+Q. Il s’agit d’une ébauche, mais avons-nous des documents? Il s’agit d’une question bien simple. Avez‑vous des documents indiquant que le montant a été payé? Il s’agit de répondre oui ou non.
+R. Oui.
+Q. Avez-vous des documents indiquant que le montant a été payé?
+R. J’ai les documents qui indiquent ce qui figure dans la pièce A‑8, si c’est ce que vous voulez dire, oui, et il s’agit du procès‑verbal de transaction et de la lettre concernant la ligne de crédit – la lettre de crédit. J’ai bien cela.
+Q. Je vais reformuler la question, Monsieur Abrametz, je reconnais que vous avez des documents indiquant que le paiement d’une dette était envisagé.
+R. Oui.
+Q. Avez-vous des documents indiquant que le montant a réellement été payé?
+R. Seulement la lettre de crédit qui a été fournie par M. Paulhus.
+Q. À part le document. Vous n’avez donc rien à l’appui.
+R. J’ai la lettre de crédit, oui.
+Q. La lettre de crédit.
+R. Ouais.
+Q. Parce qu’il s’agit également d’une pièce importante du casse‑tête, Monsieur Abrametz.
+R. Je l’ai, par conséquent, si c’est ce que vous voulez voir, je l’ai. Ouais, c’est ici.
+Q. Il faudra que je m’arrête un instant pour examiner le document parce que je ne l’ai pas encore vu. D’accord. Nous avons une lettre de crédit.
+R. Il s’agit du document dont il était fait mention dans la pièce A‑8, en effet.
+Q. Oui. Le document dit qu’il – je vais– nous allons le produire en preuve parce qu’il s’agit d’un document important. Et nous pouvons l’examiner ensemble parce que c’est la première fois que je l’examine, et je suis certain que vous voudrez également l’examiner.
+[...]
+LE GREFFIER AUDIENCIER : D’accord. Merci. Pièce R‑2.
+PIÈCE R-2 :
+LETTRE DE CRÉDIT DATÉE DU 5 FÉVRIER 1996
+LA JUGE SHERIDAN : Très bien. Poursuivez, Maître.
+Q. D’accord. J’ai soumis le document à la Cour, et je consulte une lettre de crédit au nom de M. Paulhus, la bénéficiaire étant la Canadian Western Bank, au montant de 450 000 $. Cette lettre de crédit prévoit qu’un débit peut être effectué sur la ligne de crédit au plus tôt le 1er mai 1996 et au plus tard le 31 mai 1996.
+R. C’est ce qu’elle dit.
+Q. D’accord. Par conséquent, nous – nous avons une lettre qui indique que le montant a peut‑être été payé entre le 1er et le 31 mai 1996.
+R. Oui, comme le prévoyait le procès-verbal de transaction, oui.
+Q. Et ce montant a été payé – censément payé par M. Henri Paulhus.
+R. Il l’a censément été, oui.
+Q. C’est important.
+R. Bien, je croyais qu’il en était question dans la lettre, dans le procès‑verbal de transaction, mais oui c’est important, je ne le nie pas.
+Q. Vous ne le niez pas?
+R. Je ne nie pas que c’est important.
+Q. Il était censé avoir été payé.
+R. Oui.
+Q. Vous ne le savez pas, et vous ne pouvez me garantir que le montant a été payé.
+R. Bien, oui je le sais. Je veux dire, parce que la – la Canadian Western Bank m’avait donné quittance à l’égard des garanties que j’avais données.
+Q. Et à quel moment cela est-il arrivé?
+R. C’était dans le procès-verbal de transaction.
+Q. Par conséquent, ce projet de procès-verbal de transaction –
+R. Oui.
+Q. – vous libérait.
+R. Oui.
+Q. Et –
+R. Je veux dire – bien, je pourrais faire des commentaires, mais je veux dire que – si aucune quittance ne m’avait été donnée, ils m’auraient poursuivi ou s’ils n’avaient pas été payés, j’aurais néanmoins été poursuivi et j’aurais eu mes actions.
+Q. C’est exact.
+R. Mais je n’ai pas été poursuivi et je n’ai pas mes actions.
+Q. D’accord. Nous supposons donc que le montant a été payé. C’est une hypothèse.
+R. Bien, c’est – c’est – je n’étais pas censé le payer, c’était M. Paulhus qui était censé le faire, de sorte que je peux uniquement vous dire que nous avions conclu une entente selon laquelle il devait payer, et je crois que le montant a été payé et les seuls éléments de preuve dont je dispose pour établir que le montant a été payé, c’est que s’il n’avait pas été payé, j’aurais été poursuivi[11].
+[15] Normalement, il devrait être passablement simple de prouver le paiement d’une dette dans une action en forclusion. Même en admettant que la tenue de livres puisse laisser à désirer lorsqu’une entreprise est en difficulté, il me semble étrange que l’appelant ne dispose pas de documents de la société ou de la banque ou encore de documents juridiques lui permettant d’étayer son assertion. Cette absence de documents, à laquelle vient s’ajouter le faible témoignage de l’appelant, m’amène à inférer que l’appelant n’a pas payé « un montant […] au titre d’une dette d’une société » au sens du paragraphe 39(12) de la Loi.
+[16] Le paragraphe 39(12) crée également un autre obstacle. En effet, cette disposition exige que l’appelant ait payé ce montant « à une personne avec laquelle il n’a aucun lien de dépendance ». L’appelant a clairement dit qu’il n’avait pas transféré ses actions de Placid directement à la banque en exécution des obligations qui lui incombaient en vertu de la garantie. Toutefois, l’appelant soutient que M. Paulhus a payé « un montant » pour son compte, et qu’il a dûment indemnisé M. Paulhus en lui remettant les actions de Placid. À supposer, aux fins de l’argumentation, que le transfert d’actions aurait pu constituer un paiement conformément au paragraphe 39(12), le problème qui se pose est le suivant : l’appelant a avoué que le transfert avait été effectué en faveur de M. Paulhus qui, en sa qualité d’actionnaire de Regent (et en fait de Placid), n’était pas une personne « sans lien de dépendance » comme l’exige le paragraphe 39(12). Toutefois, la question devient plutôt théorique, compte tenu de l’absence de documents du type de ceux qui accompagnent habituellement un transfert d’actions, comme des photocopies des actions originales, des certificats de transfert d’actions, le registre des actions ou des résolutions des administrateurs ou des actionnaires concernant le transfert. En outre, l’appelant a témoigné qu’en tant que contrepartie versée en échange du transfert des actions de Placid en faveur de M. Paulhus, il devait censément recevoir un appartement dans l’un des immeubles appartenant à Placid. L’appelant a déclaré, non sans rancœur, que cela n’avait pas été fait, ce qui laisse planer un doute additionnel au sujet de l’opération dans son ensemble. Enfin, en ce qui concerne la question de savoir à quel « montant » s’élevait la dette de Regent, l’appelant a déclaré avec candeur dans son témoignage qu’aucune évaluation formelle des actions de Placid n’avait été faite. L’appelant a témoigné qu’il s’en remettait à « son comptable » quant aux valeurs indiquées dans la déclaration de revenus de 1996 à l’égard du gain en capital et de la perte déductible au titre d’un placement d’entreprise. Toutefois, en vertu de la loi, c’est le contribuable qui est en fin de compte responsable de l’exactitude des renseignements indiqués. L’avocat de l’appelant a soutenu que si la demande que l’appelant avait présentée à l’égard de la perte déductible au titre d’un placement d’entreprise était rejetée, le gain en capital déclaré devrait être rajusté. Cependant, le problème est que le ministre peut à bon droit se fonder sur le montant que l’appelant a lui‑même indiqué dans sa déclaration de revenus, de sorte que si le montant était autre que les 249 999 $ qui ont été indiqués, l’appelant a la charge de le prouver. Aucun élément de preuve de ce genre n’a été présenté. La question de savoir si, à ce stade, l’appelant peut convaincre le ministre de tenir compte d’un document à l’appui d’un chiffre révisé n’est pas une question que la Cour peut trancher.
+[17] En ce qui concerne une autre condition du paragraphe 39(12), l’appelant a la charge de démontrer que Regent exploitait activement une entreprise au moment où elle a contracté la dette et au cours des 12 mois précédant le moment où un montant est devenu payable aux termes de la garantie. Compte tenu des conclusions qui ont ci‑dessus été tirées, il n’est pas nécessaire de procéder à une analyse approfondie de cette disposition. Toutefois, en résumé, l’appelant a décrit les activités commerciales comme diverses entreprises exploitées par des locataires ou par Regent, notamment un centre d’affaires, une boulangerie où l’on vendait des muffins et un restaurant. L’appelant a clairement dit que, dès l’acquisition, au mois de juin 1992, les affaires allaient mal[12]. Il en a été ainsi jusqu’à ce que la banque invoque la garantie en signifiant des demandes formelles de paiement[13] à l’appelant, au mois d’octobre 1994. Aucune déclaration de société n’a été déposée par Regent après l’année 1994. On n’a jamais produit de déclarations de revenus pour le compte de Regent. On n’a produit en preuve aucun livre ni aucun registre indiquant l’étendue des activités commerciales de Regent. Tout cela a pour effet de laisser planer un doute au sujet de l’assertion de l’appelant selon laquelle Regent exploitait activement une entreprise pendant la période pertinente.
+[18] L’avocat de l’appelant a soutenu que, si l’appelant avait vendu les actions qu’il détenait dans Placid et s’il avait ensuite versé à la banque le produit de la disposition des actions en exécution de la garantie donnée pour Regent, l’appelant aurait pu déduire une perte déductible au titre d’un placement d’entreprise à l’égard de ce montant. Toutes choses étant par ailleurs égales, cette analyse est fort probablement exacte. Malheureusement, ce n’est pas ce qui est arrivé. La jurisprudence établit clairement que, pour décider du bien‑fondé de la cotisation, il faut s’en tenir à ce qui est réellement arrivé et non à ce qui aurait pu arriver :
+Bronfman Trust c. R., [1987] 1 R.C.S. 32 (C.S.C.), pages 54 et 55 :
+Avant de terminer, je veux aborder un dernier argument invoqué par l’avocat de la fiducie. On a soutenu – et Sa Majesté en a généreusement convenu – que la fiducie aurait obtenu une déduction au titre d’intérêts si elle avait vendu des biens en vue de payer les prélèvements sur le capital et avait ensuite emprunté pour remplacer ces biens. Par conséquent, selon ce point de vue, on ne devrait pas refuser à la fiducie une déduction au titre d’intérêts simplement parce qu’elle a obtenu le même résultat sans les formalités d’une vente et d’un rachat de biens. Il suffit pour répondre à cet argument d’invoquer le principe selon lequel les tribunaux doivent tenir compte de ce que le contribuable a réellement fait et non pas de ce qu’il aurait pu faire : Matheson c. La Reine, 74 D.T.C. 6176 (C.F.D.P.I.), le juge Mahoney, à la p. 6179.
+Friedberg c. R., [1991] A.C.F. no 1255 (C.A.F.), pages 2 et 3 :
+En droit fiscal, la forme a de l’importance. Une simple intention subjective, en l’espèce comme dans d’autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d’une opération aux fins de l’impôt. Lorsqu’un contribuable prend certaines dispositions formelles à l’égard de ses affaires, il peut s’ensuivre d’importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d’éviter des impôts (voir La Reine c. Irving Oil, 91 D.T.C. 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut-être que des impôts devront être payés. S’il n’en était pas ainsi, Revenu Canada et les tribunaux se livreraient à des exercices interminables pour établir les intentions véritables derrière certaines opérations. Les contribuables et la Couronne chercheraient à restructurer des opérations après coup afin de profiter de la législation fiscale ou d’amener les contribuables à payer des impôts qu’ils pourraient autrement ne pas avoir à payer. Bien que la preuve de l’intention puisse parfois aider les tribunaux à clarifier des marchés, elle est rarement déterminante. En résumé, la preuve d’une intention subjective ne peut servir à « rectifier » des documents qui s’orientent clairement vers une direction précise[14].
+[19] Pour les motifs susmentionnés, l’appelant n’a pas réussi à démontrer qu’il avait disposé d’une créance due par une société exploitant une petite entreprise, de sorte qu’il avait droit à une perte déductible au titre d’un placement d’entreprise; il n’a pas non plus prouvé que l’hypothèse du ministre selon laquelle il n’avait pas subi de perte en capital à l’égard de Regent était erronée. Enfin, comme il en a ci‑dessus été fait mention, la question de la pension alimentaire pour conjoint, en ce qui concerne chacun des appels concernant les années 1996 et 1997, a été retirée au début de l’audience. Par conséquent, les appels que l’appelant a interjetés à l’égard des années 1996 et 1997 sont rejetés, les dépens étant adjugés à l’intimée.
+Signé à Saskatoon (Saskatchewan), ce 5e jour de juin 2007.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI318
+No DU DOSSIER DE LA COUR : 2000-2517(IT)G
+INTITULÉ : PETER V. ABRAMETZ
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Prince Albert (Saskatchewan)
+DATE DE L’AUDIENCE : Le 30 octobre 2006
+MOTIFS DU JUGEMENT : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 5 juin 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me James H.W. Sanderson
+Avocat de l’intimée :
+Me Lyle Bouvier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : James H. W. Sanderson
+Cabinet : Sanderson, Balicki, Popescul
+Prince Albert (Saskatchewan)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’appel se rapportant à l’année d’imposition 1997, concernant la déductibilité de certains paiements effectués au titre de la pension alimentaire pour conjoint, et la question de la pension alimentaire pour conjoint qui a été payée au cours de l’année d’imposition 1996 ont été retirés par l’appelant au début de l’audience.
+[2] Voir également l’alinéa 39(1)c), le paragraphe 50(1) et les articles 38 et 40.
+[3] [1997] 2 C.T.C. 2615, paragraphes 34 et 35.
+[4] Transcription, page 81, lignes 14 à 25, à la page 84, lignes 1 à 16.
+[5] Transcription, page 43, lignes 8 à 21.
+[6] Transcription, page 64, lignes 12 à 25, et page 65, lignes 1 à 21.
+[7] Pièces A-8 et A-9.
+[8] L’avocat de l’appelant représentait l’appelant uniquement pour les besoins de l’audience; auparavant, l’appelant, un avocat, agissait pour son propre compte.
+[9] Pièce A-4.
+[10] Pièce R-2.
+[11] Transcription, page 73, lignes 7 à 25, à la page 76, lignes 1 à 24, et page 77, lignes 10 à 25, à la page 79, lignes 1 à 15.
+[12] Transcription, page 59, lignes 23 et 24, et page 80, lignes 9 à 11.
+[13] Pièces A-5 et A-6.
+[14] Beaulac v. Her Majesty the Queen, 2000 DTC 2218.

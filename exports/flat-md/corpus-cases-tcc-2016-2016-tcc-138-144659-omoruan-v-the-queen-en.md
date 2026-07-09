@@ -1,0 +1,167 @@
+---
+title: "Omoruan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144659/index.do"
+last_modified: "2016-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 138"
+citation2: ""
+neutral_citation: "2016 TCC 138"
+decision_date: "2016-06-01"
+language: "en"
+item_id: "144659"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3095
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:49:17.712000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d5e9fd9994d4cb7aab9201ed9194c7a40532c3a49afd8d678989cd48f6e8cd25"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Omoruan v. The Queen
+
+- Citation: 2016 TCC 138
+- Decision date: 2016-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3095, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Omoruan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-06-01
+Neutral citation
+2016 TCC 138
+File numbers
+2015-4814(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-4814(IT)I
+BETWEEN:
+MILLY OMORUAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on May 20, 2016, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Peter Swanstrom
+JUDGMENT
+The Appeals from the reassessments made under the Income Tax Act with respect to the 2003, 2004, 2005 and 2006 taxation year are dismissed.
+Signed at Ottawa, Canada, this 1st day of June 2016.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2016 TCC 138
+Date: 20160601
+Docket: 2015-4814(IT)I
+BETWEEN:
+MILLY OMORUAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Ms. Milly Omoruan is claiming credits for charitable donations in the 2003, 2004, 2005 and 2006 taxation years of $9,533, $15,700, $12,360 and $8,033 respectively.
+[2] Both Ms. Omoruan and her husband testified. They came to Canada from the United Kingdom in 1998. Ms. Omoruan testified that she had been a member of the Apostolic Church in England and tried to find that church here in Canada. Unable to do so, she says she joined the Redemption Power International Ministry in 2003, where she remained a member until later in 2004. At trial, she said that she left because she did not like the way the pastor conducted the service, although in a letter in 2013 she sent to the Canada Revenue Agency (“CRA”) she advised the CRA she had left the Redemption Power International Ministry due to a concern as to how the pastor, whose name she could not recall, was handling the finances. She also maintained that she was only able to find a branch of the Apostolic Church seven years after she arrived in Canada, in 2004. She said that she made cash donations of $7,500 to Redemption Power International Ministry in 2003 and $7,165 in 2004. She went to a Mr. Olaheinde to prepare her tax returns for the 2003 and 2004 years. She knew others in the church who had used Mr. Olaheinde who prepared her returns and she reviewed them with him before signing. She testified that she provided a T4 Return and the receipts she received from the churches to Mr. Olaheinde.
+[3] Ms. Omoruan also claimed $2,500 for a donation to the Celestial Church of Christ in 2003 and $8,535 in 2004. The Celestial Church of Christ was a church in which her husband was an evangelist, a senior respected member. She and her husband maintained that she would go on occasion to the Celestial Church of Christ, although it was not her church.
+[4] The donations to these two charities, the Redemption Power International Ministry and the Celestial Church of Christ, in 2003 and 2004, were, according to both Mr. & Ms. Omoruan, from cash donations made throughout the year, not in any lump sum. Ms. Omoruan was also clear that her money was her husband’s and vice versa. As Mr. Omoruan was a student, it was for Ms. Omoruan to claim the donation as she had the higher income, approximately $54,000 in 2004.
+[5] In the few years before 2003, Ms. Omoruan could not recall how much she had claimed when it was suggested to her that it was not very much. For the years between 2008 and 2013, she was evasive in her answer when questioned if she could confirm that she had only reported charitable donations in the amount of $500 for all those years.
+[6] In 2005 and 2006, Ms. Omoruan claimed she had made cash donations of $6,150 and $4,468 respectively to her church, The Apostolic Church International of Canada. She also testified that she donated goods in kind (clothing, toys and shoes) to the Hope Economic Relief Organization (“HERO”), an organization for which a member of her church, a Mr. Williams, was the president. Mr. Omoruan testified that the clothes and shoes donated were for the most part his wife’s used goods. For example, with respect to the shoes, he suggested they simply did not fit her anymore. He was unable to identify the nature of the toys donated. Ms. Omoruan added in her testimony that she would collect some of the goods from colleagues at work.
+[7] HERO provided two letters both dated December 12, 2007, signed by Mr. Williams describing the gifts in kind simply as so many pairs of shirts, blouses, shoes, sneakers, as well as, children’s clothes, assorted clothing and toys, providing a value as well. For example, with respect to the shoes, HERO indicated over the two years a donation of 100 pieces of ladies’ shoes had been made. Mr. Omoruan believed that meant 100 pairs. HERO valued the shoes at $25, $15.10 or $30 a pair.
+[8] The Omoruans provided no bank records to show any withdrawals that might line up with the cash donations they indicated were made throughout the year. Their answers to questions on cross-examination were evasive and defensive.
+[9] The following receipts were produced at trial:
+- The Redemption Power International Ministry receipt for $7,500 for year ended December 31, 2003;
+- The Celestial Church of Christ receipt dated February 10, 2004, in the amount of $2,000;
+- The Redemption Power International Ministry receipt for year ended December 31, 2004, in the amount of $7,165;
+- The Celestial Church of Christ receipt dated January 15, 2005 for $8,535;
+- The Apostolic Church International receipt for year ended December 31, 2005, for $6,150;
+- A HERO receipt for year ended December 31, 2005, in the amount of $6,210;
+- A HERO receipt dated December 2006 for the year ended December 31, 2006, in the amount of $8,565
+- The Apostolic Church International receipt, undated, for $4,467.92.
+[10] Ms. Omoruan was reassessed for the 2003, 2004, 2005 and 2006 taxation years by concurrent Notices of Reassessment dated December 10, 2007. The Minister of National Revenue (the “Minister”) disallowed all of the charitable donation amounts that had been previously allowed. The Minister confirmed those reassessments by Notice of Confirmation dated August 6, 2015.
+[11] The Redemption Power International Ministry’s registered charitable status was revoked for cause on May 12, 2007. Celestial Church of Christ’s registered charitable status was revoked for cause on January 26, 2008. HERO’s registered charitable status was revoked for cause on December 29, 2007.
+[12] There are two issues in these Appeals:
+1) Did Ms. Omoruan make charitable donations in the amounts claimed, entitling her to credits?
+2) Can the Minister assess the 2003 taxation year given the assessment was beyond the three year limitation period?
+[13] The Respondent raised two arguments for concluding that Ms. Omoruan is not entitled to the credits claimed. First, the evidence suggests a finding she never made the donations she claimed. Second, the receipts provided were deficient. It is unnecessary for me to address the second argument as I have concluded that Ms. Omoruan did not make the donations claimed.
+[14] The following factors lead me to conclude that the Omoruans’ story is simply not credible:
+- Their defensive and evasive attitude in answering question on cross-examination;
+- The discrepancy between the years in question and the years before and after vis-à-vis the amounts of the donations;
+- The suggestion that Ms. Omoruan donated 100 pairs of used shoes in two years;
+- The significant amount of the alleged donations compared to her income;
+- The lack of an independent appraisal for the alleged goods donated;
+- The lack of bank records (from which I draw a negative inference that any such records would not have helped the Omoruans);[1]
+- The different story Ms. Omoruan raised at trial compared to in the previous letter regarding why she left Redemption Power International Ministry;
+- The inability to recall a pastor’s name;
+- The inability to describe the toys donated;
+- The large donation by Ms. Omoruan to a church of which she was not a member, when she testified that on one hand she did not attend the church regularly and on the other hand donations were made in smaller amounts throughout the year.
+[15] I simply to do not believe the Omoruans’ story. They have not proven on balance that Ms. Omoruan made the donations she claims to have made. She is not entitled to any credits.
+[16] Because the Minister assessed Ms. Omoruan’s 2003 taxation year beyond the normal reassessment period, the Minister must rely on section 152(4) of the Income Tax Act (the “Act”) to validate such reassessment. Section 152(4) of the Act reads as follows:
+The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year;
+[17] There are, therefore, two questions to be addressed regarding Ms. Omoruan’s 2003 return:
+1) Was there a misrepresentation?
+2) If so, was it attributable to neglect, carelessness or willful default?
+[18] There was certainly a misrepresentation. Ms. Omoruan claimed donations for amounts she did not donate. I conclude she knew or certainly ought to have known that $9,500 in 2003 was far in excess of any cash donation actually made, if at all. She reviewed her returns prepared by Mr. Olaheinde before signing. She relied solely on the receipts provided by two churches without questioning the significant amounts. This was beyond simply careless. She was at the very least neglectful in signing a return with the knowledge the receipts overstated the actual donation.
+[19] The Minister was entitled to rely on section 152(4) of the Act to assess beyond the normal reassessment period. The Appeals are dismissed.
+Signed at Ottawa, Canada, this 1st day of June 2016.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2016 TCC 138
+COURT FILE NO.:
+2015-4814(IT)I
+STYLE OF CAUSE:
+MILLY OMORUAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 20, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+June 1, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Peter Swanstrom
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Refer to comments of our Court in the case of Afovia v Canada, 2012 TCC 391 and Patel v Canada, 2011 TCC 555.

@@ -1,0 +1,383 @@
+---
+title: "Les Constructions Rossi & Fils 2000 Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29393/index.do"
+last_modified: "2009-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 76"
+citation2: ""
+neutral_citation: "2009 CCI 76"
+decision_date: "2009-02-13"
+language: "fr"
+item_id: "29393"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6884
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:10:12.454000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb3ff0979c0f057f451f715447d5aefd13f629c434196f31be486e2758387cc2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Constructions Rossi & Fils 2000 Inc. c. La Reine
+
+- Citation: 2009 CCI 76
+- Decision date: 2009-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6884, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Constructions Rossi & Fils 2000 Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-13
+Référence neutre
+2009 CCI 76
+Numéro de dossier
+2006-2584(GST)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-2584(GST)G
+ENTRE :
+LES CONSTRUCTIONS ROSSI & FILS 2000 INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 28 mai 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Serge Fournier
+Avocats de l'intimée :
+Me Richard Généreux
+Me Joëlle Bitton
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis portant le numéro 0311010380 est daté du 21 septembre 2004, est rejeté, avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 13e jour de février 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 76
+Date : 20090213
+Dossier : 2006-2584(GST)G
+ENTRE :
+LES CONSTRUCTIONS ROSSI & FILS 2000 INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L’appelante, un inscrit aux fins de la Loi sur la taxe d’accise (la « Loi »), a demandé des crédits de taxe sur les intrants (« CTI ») pour la période du 1er juillet 2001 au 31 décembre 2003 (la « période pertinente ») à l’égard d’une facture de 300 000 $ et de deux factures de 150 000 $ chacune (les « factures litigieuses ») que la société 9117‑0118 Québec inc. (le « fournisseur ») avait fait parvenir à l’appelante pour des services qu’elle lui aurait rendus. Le ministre du Revenu national, par l’entremise du ministre du Revenu du Québec (le « ministre »), dans une nouvelle cotisation (dont l’avis porte le numéro 0311010380) établie en date du 21 septembre 2004 à l’encontre de l’appelante, a essentiellement refusé les CTI ainsi demandés au motif que toutes les opérations entre l’appelante et le fournisseur étaient factices en ce que monsieur Raymond Lepore et/ou le fournisseur n’ont jamais rendu les services pour lesquels les factures litigieuses ont été établies, d’où le présent appel.
+[2] Pour établir la nouvelle cotisation, le ministre a tenu pour acquis les faits suivants :
+a) l’appelante est un inscrit;
+b) l’appelante est un entrepreneur général en construction et en rénovation résidentielle et commerciale;
+c) l’appelante a fait l’objet d’une vérification de la part de l’intimée pour la période du 1er juillet 2001 au 31 décembre 2003;
+d) une facture de 300 000 $ et 2 factures de 150 000 $ en vertu desquelles la corporation 9117‑0118 Québec Inc. réclamait de l’appelante lesdites sommes sont factices et font l’objet du présent litige;
+e) l’appelante a réclamé à cet égard les CTI suivants :
+Date de la facture
+Montant de la facture
+avant les taxes
+CTI réclamés par
+l’appelante
+09-10-2002
+300 000 $
+21 000 $
+06-12-2002
+150 000 $
+10 500 $
+11-08-2003
+150 000 $
+10 500 $
+f) l’actionnaire et l’administrateur unique de 9117‑0118 Québec Inc. est Raymond Lepore, c.g.a.;
+g) Raymond Lepore a été présenté à l’intimée par Vincenzo Belmonte, comme étant le responsable du dossier de l’appelante chez Belmonte Léger & Associés, lesquels sont des Conseillers en programme incitatif de crédit d’impôt situés au 50 Place Crémazie Ouest, bureau 721 à Montréal;
+h) l’appelante était par ailleurs une cliente de Belmonte Léger & Associés qui agissait à titre de comptable externe de l’appelante;
+i) dans un premier temps, Raymond Lepore mentionnait à madame Diane Deluca, vérificatrice au ministère du Revenu, qu’il n’était pas le gestionnaire de 9117‑0118 Québec Inc., qu’il ignorait ce qui se passait dans cette compagnie et que cette compagnie n’avait pas d’établissement au 50 Place Crémazie Ouest, bureau 721 à Montréal;
+j) dans un deuxième temps, Raymond Lepore affirmait à madame Diane Deluca que 9117‑0118 Québec Inc. permettait à l’appelante d’obtenir de meilleurs taux d’intérêt et que tout le contrat de 9117‑0118 Québec Inc. était redonné à sous contrats;
+k) un contrat factice existe entre l’appelante et Raymond Lepore (On behalf of a company to be incorporated), en vertu duquel la contrepartie aux services rendus par Raymond Lepore, est la suivante :
+“3.02 Payment
+In consideration for the Consultant’s work and consultant services, the Client shall pay the consultant a commission of 5 % of the projected sales of the Project in the amount of SIX MILLION DOLLARS (6 000 000.00). Payment to the Consultant shall be payable by cheque when the sales of the Project will have reached the said amount…”
+l) le 4 juin 2004, à défaut d’obtenir des explications vraisemblables de Raymond Lepore, sur la nature des services rendus par 9117‑0118 Québec Inc., Diane Deluca s’est adressée à Vincenzo Belmonte, de Belmonte Léger & Associés, qui ignorait également la nature des services rendus par Raymond Lepore dans le cadre du contrat factice;
+m) le 18 août 2004, à défaut d’obtenir des explications de Belmonte Léger & Associés, Diane Deluca s’est donc adressée directement à l’appelante qui, par son représentant, monsieur Bruno Rossi, a affirmé qu’il s’agissait de gérance, alors que 9117‑0118 Québec Inc. n’était pas enregistrée à la Commission de la Construction du Québec (C.C.Q.) ni à la Régie des Bâtiments du Québec et que Raymond Lepore avait affirmé à Diane Deluca ne jamais aller sur les chantiers;
+n) à défaut d’obtenir une réponse vraisemblable de messieurs Lepore, Belmonte et Rossi, l’intimée a émis l’avis de cotisation, objet du présent litige, au motif que les factures étaient factices, que Raymond Lepore n’avait pas rendu les services pour lesquels les factures en litige avaient été émises;
+Suivi des chèques
+o) l’appelante a tiré, notamment, les chèques suivants au bénéfice de 9117‑0118 Québec Inc. :
+Date du
+chèque
+# du chèque
+Montant du chèque se rapportant à la facture du 09‑10‑2002
+Montant du chèque se rapportant à la facture du 06‑12‑2002
+Montant du chèque se rapportant à la facture du 11‑08‑2003
+09-10-2002
+5429
+145 075 $
+24-10-2002
+5540
+100 000 $
+22-11-2002
+5676
+100 000 $
+06-12-2002
+5717
+52 537,50 $
+14-02-2003
+5917
+20 000 $
+07-03-2003
+6095
+20 000 $
+21-03-2003
+6155
+20 000 $
+28-04-2003
+6319
+20 000 $
+16-05-2003
+6345
+20 000 $
+20-06-2003
+6466
+20 000 $
+28-08-2003
+6894
+22 537,50 $
+28-11-2003
+7382
+9 000 $
+05-12-2003
+7413
+18 000 $
+p) les chèques ont déposées au compte de 9117-0118 Québec inc.;
+q) les montants ainsi déposés ont été retirés pour le bénéfice, notamment, des personnes suivantes :
+Date des sorties d’argent du compte de 9117‑0118 Québec Inc.
+Raymond Lepore
+Teresa Forte (Conjointe de Raymond Lepore)
+Raymond Lepore et associés Inc.
+Argent comptant
+Référence
+11-10-2002
+65 000 $
+31-7 et 31‑8
+23-10-2002
+10 000 $
+31-6
+12-11-2002
+38 000 $
+31-9 et 31‑10
+16-12-2002
+2 000 $
+31-24 et 31‑25
+16-12-2002
+4 000 $
+31-24 et 31‑25
+19-12-2002
+15 822.38 $ x
+31-23
+19-12-2002
+10 000 $
+31-23
+19-02-2003
+2 000 $
+31-21
+24-02-2003
+2 000 $
+31-21
+24-02-2003
+6 000 $
+31-21 et 31‑22
+11-03-2003
+2 000 $
+31-18
+11-03-2003
+2 000 $
+31-19 et 31‑20
+11-03-2003
+1 000 $
+31-18
+11-03-2003
+4 000 $
+31-19 et 31‑20
+05-05-2003
+2 000 $
+31‑17
+05-05-2003
+4 000 $
+31-16
+05-05-2003
+2 000 $
+31-15
+25-06-2003
+3 000 $
+31-14
+28-08-2003
+12 000 $
+31-11 et 31‑12
+15-10-2003
+24 400 $
+31-1 et 31‑2
+15-10-2003
+18 000 $
+31-3
+15-10-2003
+12 000 $
+31-5
+15-10-2003
+6 000 $
+31-4
+TOTAL
+168 400 $
+65 822.38 $
+8 000 $
+5 000 $
+RAYMOND LEPORE
+r) le 28 juin 2004, Raymond Lepore déclarait faillite et affirmait, cette fois-ci, dans le cadre de sa faillite, qu’il exploitait la corporation 9117‑0118 Québec Inc., au cours de la période du 27 mai 2002 au 1er mars 2004;
+s) dans le cadre de sa faillite, Raymond Lepore ne mentionne pas qu’il est débiteur de quelque somme que ce soit à 9117‑0118 Québec Inc.;
+t) par ailleurs, dans les états financiers de 9117-0118 Québec Inc. pour la période se terminant le 31 mars 2004, il est mentionne en ce qui concerne Raymond Lepore ce qui suit :
+« Employment income Loan Shareholder 404 120 $ »;
+u) au mois d’août 2004, Raymond Lepore a fait une divulgation volontaire concernant ses revenus pour les années de sorte que ses revenus pour les années 2002 et 2003 ont été les suivants, tel qu’il appert du rapport de vérification du dossier personnel de Raymond Lepore
+Années
+2002
+2003
+Revenus déclarés par Raymond Lepore avant sa faillite
+23 549 $
+20 799 $
+Revenus supplémentaires déclarés par Raymond Lepore après sa faillite
+377 150 $
+528 775 $
+Total des revenus
+400 699 $
+549 574 $
+v) le 8 septembre 2004, Diane Deluca apprend que Raymond Lepore et toutes les corporations qu’il contrôlait avaient déclaré faillite;
+w) ces corporations étaient endettées envers les autorités fiscales des montants suivants :
+Nom des corporations
+Impôt
+TVQ
+TPS
+Total des dettes fiscales
+Raymond Lepore & Associés Inc.
+5,24 $
+45 000 $
+30 000 $
+75 005,24 $
+9117-0118 Québec Inc.
+0
+60 000 $
+40 000 $
+100 000 $
+x) non seulement que Raymond Lepore prétend avoir gagné en 2002 et 2003, respectivement 400 699 $ et 549 574 $, voilà que la corporation 9117‑0118 Québec inc. qui a fait faillite le 23 juin 2004, admet avoir perçu des taxes et ne pas les avoir remises à l’intimée en plus de réclamer sans droit des remboursements de taxe sur intrants (RTI) et des crédits de taxe sur intrants (CTI) suivants au cours des exercices financiers 2003 et 2004, tel qu’il appert du rapport de vérification du dossier de la corporation 9117‑0118 Québec inc. produit au soutien des présentes sous la cote :
+9117‑0118 Québec inc.
+Exercice financier
+2003 et 2004
+TVQ perçue mais non remise
+5 618 $
+RTI
+60 039 $
+TPS perçue mais non remise
+4 900 $
+CTI
+54 988 $
+Total des sommes obtenues sans droit
+125 545 $
+y) enfin, dans le cadre de sa faillite Raymond Lepore déclare n’avoir vendu ou aliéné quelques biens que ce soit au cours des 5 dernières années précédant le 23 juin 2004, tel qu’il appert des documents de sa faillite;
+z) toutes les opérations entre l’appelante et 9117‑0118 Québec Inc. sont factices et Raymond Lepore et ou 9117‑0118 Québec Inc. n’ont jamais rendu les services pour lesquels les factures en litige ont été émises;
+aa) toutes ces opérations ont été planifiées afin de sortir des coffres de l’appelante les sommes versées à 9117‑0118 Québec Inc., libre d’impôt et de taxe.
+[3] Monsieur Bruno Rossi, monsieur Raymond Lepore et madame Diana Rossi, la sœur de monsieur Bruno Rossi, ont témoigné à l’appui de la position de l’appelante. Madame Diane Deluca et madame Hélène Bui ont témoigné à l’appui de la position de l’intimée.
+Témoignage de monsieur Bruno Rossi
+[4] Le témoignage de monsieur Rossi (l’actionnaire et l’administrateur unique de l’appelante) à l’égard des circonstances dans lesquelles l’appelante et monsieur Lepore avaient signé le contrat déposé en preuve sous la cote A-1 (le « contrat »), pourrait se résumer ainsi : monsieur Lepore, un associé du cabinet comptable Belmonte Léger et Associés agissait à titre de comptable externe de l’appelante depuis 1999. La relation d’affaires entre lui et monsieur Lepore s’était rapidement transformée en une relation d’amitié. En 1999, l’appelante achète un terrain sur la rue Boyer à Montréal dans le but d’y ériger pour fins de vente environ 50 condos (le « projet Boyer »). Monsieur Rossi a expliqué que le projet Boyer était de loin le plus important projet immobilier jamais entrepris par l’appelante, cette dernière ayant construit jusqu’alors pour fins de vente au maximum 10 condos dans une même année. Monsieur Rossi propose à monsieur Lepore de devenir un partenaire à parts égales dans le projet Boyer, croyant que la participation de ce dernier au projet pourrait combler ses faiblesses en matière d’administration et de financement et ainsi permettre à l’appelante de mener à bien cet important projet immobilier. N’ayant pas les fonds nécessaires pour investir dans le projet Boyer, monsieur Lepore refuse l’offre de partenariat de l’appelant et accepte plutôt une offre aux termes de laquelle sa rémunération serait établie à partir des ventes générées par le projet Boyer. Les parties concrétisent cette entente en signant le 6 novembre 2000 le contrat, contrat qui aurait été signé en présence d’un témoin dont messieurs Rossi et Lepore ignoraient le nom. Monsieur Rossi se rappelait tout au plus que le prénom de ce témoin était Maria et qu’elle avait été à l’emploi de l’appelante pendant une courte période. Les articles 2.02 et 3.02 du contrat énumèrent les services qui devaient être rendus par monsieur Lepore et la rémunération que l’appelante s’engageait à lui verser en contrepartie. Ces deux dispositions se lisent comme suit :
+2.02 Main Duties and Responsibilities
+Without being restrictive, and subject to modification (in the latter case, by prior notice from the Client), the Consultant’s main duties and responsibilities shall be as follows :
+a) to plan and define the project stages, to allocate the resources, to coordinate the project execution and to supervise their application at the Project location;
+b) to advise and assign the responsibilities to other team members while ensuring the follow‑up of the plans, time‑schedule and budgets;
+c) to provide an efficient project management capacity and to comply with the time‑schedule;
+d) to manage all the financial aspect of the Project, including the sales, the purchases, the revenues, the expenses;
+e) to prepare all cash flows, financial reports and forecasting necessary for the Project and to deal and negotiate with all and any financial institution required to the Project;
+f) to negotiate and deal directly with all and any of the suppliers with respect to the project;
+3.02 Payment
+In consideration for the Consultant’s work and consultant services, the Client shall pay the Consultant a commission of 5% of the projected sales of the Project in the amount of SIX MILLION DOLLARS ($6,000,000.00). Payment to the Consultant shall be payable by cheque when the sales of the Project will have reached the said amount.
+The parties hereby agree that in the event that the sale of the Project does not reach the sale price of SIX MILLION DOLLARS ($6,000,000.00), then the Consultant will only receive payment for services rendered on the Project in the amount of TWO HUNDRED THOUSAND DOLLARS ($200,000.00).
+[5] Par ailleurs, le témoignage de monsieur Rossi à l’égard de la nature des services qui auraient été rendus à l’appelante par monsieur Lepore était pour le moins vague, imprécis et à toutes fins pratiques non vérifiable. Monsieur Rossi résumait ainsi les services qui auraient été rendus par monsieur Lepore :
+Q. Did you describe the services that were rendered?
+A. Yes, I did. He did some work, at that point, I don’t know the terms, exact terms of what it means to have a partner that helps you see other projects, balance other projects and help you out on that paperwork, an advisory to things, how to put things down on paper, how to go find subsidies, how to go find, all those elements that I don’t have, half of my company runs on manual work and the other half is on paperwork and he did all the... sort of accounting and "gestionnage" whatever you want to call it.
+Je souligne par ailleurs que les déclarations que monsieur Rossi avait faites à madame Deluca (la « vérificatrice instrumentante ») lors de leur première rencontre, à l’égard des services qui auraient été rendus à l’appelante par monsieur Lepore étaient encore plus vagues, imprécises et non vérifiables que celles faites lors de son témoignage. En effet, monsieur Rossi s’était alors contenté de dire à madame Deluca que monsieur Lepore avait fait de la gestion de projet et qu’il ne s’était jamais rendu sur le chantier. Je note aussi que monsieur Rossi n’avait pas cru nécessaire de mentionner à madame Deluca lors de cette première rencontre que les services avaient été rendus à l’appelante conformément au contrat.
+Témoignage de monsieur Lepore
+[6] Monsieur Lepore a, lors de son témoignage, essentiellement réitéré, avec plus de détails, le témoignage de monsieur Rossi à l’égard des circonstances dans lesquelles le contrat avait été signé le 6 novembre 2001 et à l’égard des services qui auraient été rendus aux termes du contrat. À l’égard des services rendus, monsieur Lepore a décrit le rôle stratégique qu’il avait joué en ce qui concerne l’obtention du financement du projet Boyer, de l’obtention de subventions auprès de la Ville de Montréal et de Gaz Métropolitain et du contrôle des coûts du projet Boyer. Monsieur Lepore a aussi expliqué qu’il avait dû préparer plusieurs documents de nature financière dans le cadre des services qu’il s’était engagé à rendre à l’appelante aux termes du contrat. Son témoignage à cet égard mérite d’être cité :
+I was controlling costs and projecting revenues and projecting the sales and undertaking the necessary documentation to provide to the banks on an ongoing basis, cash flow analyses, any cash flow variances, budget versus actual expenses, the variances generated between the two if they were in favour or against Constructions Rossi. If our budget versus our expenses, if our expenses were higher than our budget, why were the expenses higher? I had to do an analysis of that to see maybe our costs were too high, maybe some suppliers were selling us at higher prices than we could get elsewhere. So, you know, and this had to be done on a phase by phase basis. So, it encompassed a lot of work in that area.
+Enfin, monsieur Lepore a ajouté qu’il avait en plus formé (en matière de comptabilité) la sœur de monsieur Rossi. Je note du témoignage de monsieur Lepore que, dans le cadre des services qu’il aurait rendus à l’appelante, il n’avait rencontré à toutes fins pratiques que monsieur Rossi et la sœur de ce dernier. En fait, madame Bui, la personne responsable des ventes du projet Boyer, fut la seule autre personne que monsieur Lepore a reconnu avoir rencontré dans le cadre des services qu’il aurait rendus à l’appelante[1]. Je souligne immédiatement que madame Bui a nié avoir rencontré monsieur Lepore. En fait, madame Bui a témoigné qu’elle ne connaissait tout simplement pas monsieur Lepore.
+[7] Il convient aussi de souligner que monsieur Lepore a admis que toutes les sommes versées (y incluant la TPS et la TVQ) par l’appelante (dans le cadre des services qu’il aurait rendus à cette dernière) au fournisseur (dont il était le seul actionnaire) avaient été retirées de ce dernier à son bénéfice et qu’il avait dépensé à des fins personnelles (notamment pour assouvir sa passion du jeu) toutes les sommes ainsi retirées. Monsieur Lepore a aussi reconnu que le fournisseur n’avait pas remis à l’intimée la TPS ainsi perçue de l’appelante et qu’il avait demandé sans droit des CTI et des RTI. Enfin, monsieur Lepore a admis que les sommes ainsi retirées du fournisseur n’apparaissaient pas dans ses déclarations de revenus pour les années d’imposition 2002 et 2003.
+[8] Je souligne que monsieur Lepore n’a pas nié qu’il avait déclaré dans un premier temps à madame Deluca qu’il n’était pas gestionnaire du fournisseur et qu’il ignorait ce qui se passait chez ce fournisseur et que ce fournisseur n’avait pas d’établissement au 50 Place Crémazie ouest, bureau 721 à Montréal. Il n’a non plus nié qu’il avait déclaré dans un deuxième temps à madame Deluca que le fournisseur avait permis à l’appelante d’épargner 1 % d’intérêt sur son financement et que tout le contrat octroyé au fournisseur avait été donné en sous‑traitance. Les explications de monsieur Lepore à l’égard de ces déclarations qu’il a reconnues comme mensongères méritent d’être citées :
+Well, like I say, I was in a panic situation because of all the financial problems that I had and I was literally going through a depression at that point in time and also since my first language is English not French, I couldn’t really respond properly to what she was asking.
+Témoignage de madame Rossi
+[9] Le témoignage de madame Rossi pourrait se résumer ainsi : monsieur Lepore lui aurait donné une formation en comptabilité (à raison de deux jours par semaine, et ce, au siège social de l’appelante) en 2002 alors qu’elle travaillait (sans être rémunérée) pour l’appelante. Elle a aussi confirmé que monsieur Lepore rencontrait très souvent son frère sans pour autant être en mesure de préciser la nature de leurs discussions.
+Facture du 11 août 2003
+[10] La preuve a révélé que :
+i) le fournisseur (dont monsieur Lepore était l’actionnaire et l’administrateur unique) avait envoyé une facture de 150 000 $ à l’appelante datée du 11 novembre 2003 pour des services qui auraient été rendus par monsieur Lepore à l’égard du projet Chateaubriand;
+ii) l’appelante avait demandé dans le calcul de sa taxe nette un CTI de 10 500 $ à l’égard de cette facture bien que seulement une partie des honoraires facturés (soit une somme de 66 687 $) avait été payée.
+[11] Je souligne immédiatement que les témoignages de monsieur Rossi et de monsieur Lepore étaient tout à fait silencieux à l’égard de la nature du projet Chateaubriand. Par ailleurs, leurs témoignages à l’égard des raisons pour lesquelles l’appelante n’a versé qu’une partie des honoraires méritent d’être citées :
+I don’t think I paid him much as this bill because I know that he was not on the job no more, he was now disappearing on me and he asked me, you know, "we’re going do a new project on Châteaubriand, we’re going to evaluate this at a $150,000 that I can help you." And I go, "you’re not here no more, you’re gone, you’re... I don’t know what’s happening with you anymore, why should I pay this bill? You haven’t done much for me yet." "Yes, but I did, you know, give you lots of profit on this one", he wanted to start of a new project we’ve started and I wasn’t agreeing to it so I didn’t really pay the bill.
+[. . .]
+Q. Now, I understand that you issued a third invoice in August, 2003 with a different reference number which is 0314?
+A. Yes. I was still in a lot of debt at that point in time, this had to do with a separate project that Constructions Rossi was going to be undertaking, I think the project was called Châteaubriand, okay, and I went to Bruno and you know, I told him, I said "look, I said, I need some money up front for this particular project that we’re going to be undertaking together", we didn’t sign an agreement yet, I was kind of desperate at that point in time, I needed money. And "okay, fine." I present him with the invoice, he didn’t like the idea and all that but in the end, he did pay me a little portion of that invoice but I think he didn’t get paid very much, I don’t remember how much I got paid of that invoice but it wasn’t that much.
+[12] Je souligne que monsieur Rossi a témoigné que l’appelante avait demandé le CTI dès qu’elle avait reçu la facture, mais qu’elle n’avait pas remboursé une partie du CTI demandé à la suite du règlement partiel de cette facture. Monsieur Rossi a expliqué que l’appelante avait tout simplement oublié d’effectuer le remboursement partiel le CTI demandé.
+[13] Je note aussi que la preuve a révélé que l’état des résultats figurant dans les états financiers de l’appelante pour son exercice financier se terminant le 30 juin 2002 (pièce I-1) diffère de l’état des résultats financiers de l’appelante pour son exercice financier prenant fin le 30 juin 2003 (pièce I-2), et ce, notamment à l’égard des postes suivants : « ventes », « coût des ventes », « salaire et bénéfices [sic] » et « frais de gestion » (pièce I-2, p. 2). Je souligne que monsieur Rossi, prétextant son manque de connaissance en comptabilité, n’a pas été en mesure de donner des explications à cet égard.
+Analyse
+[14] La preuve de l’appelante reposait essentiellement sur le témoignage de monsieur Rossi, sur celui de sa sœur (qu’on ne peut qualifier de témoin indépendant) et celui de monsieur Lepore. La seule preuve documentaire soumise par l’appelante reposait sur :
+i) le contrat (pièce A‑1);
+ii) la facture datée du 9 octobre 2002 (pièce A‑3);
+iii) la facture datée du 6 décembre 2002 (pièce A‑4);
+iv) la facture datée du 11 août 2003 (pièce A‑2).
+[15] L’avocat de l’appelante soutient que sa cliente s’est acquittée de l’obligation qui lui incombait de démontrer, selon la prépondérance des probabilités, que le fournisseur avait réellement rendu des services à l’appelante. L’avocat de l’appelante prétend à cet égard que le témoignage de monsieur Rossi était crédible, d’autant plus que son témoignage fut appuyé par le témoignage tout aussi crédible de sa sœur et de monsieur Lepore et par une preuve documentaire qui démontrait clairement que des services avaient été rendus. L’avocat de l’appelant a ajouté que ces témoignages n’ont pas été contredits pas d’autres témoignages ou par une autre preuve documentaire.
+[16] L’appréciation de la crédibilité de monsieur Rossi, de sa sœur et de monsieur Lepore a joué un rôle important dans ma décision puisque l’essentiel de la preuve de l’appelant reposait sur le témoignage de ces personnes. Je tiens à souligner que j’ai accordé peu de valeur probante aux témoignages des personnes qui ont témoigné à l’appui de la position de l’appelante. À cet égard, je souligne immédiatement que les tribunaux ne sont pas tenus de croire les témoins, même s’ils ne sont pas contredits. Leur version peut être jugée invraisemblable par suite de circonstances révélées par la preuve ou à la lumière des règles du bon sens.
+[17] Outre l’invraisemblance de l’histoire racontée par monsieur Rossi, je note que ses réponses étaient volontairement vagues, imprécises et généralement non vérifiables. L’appelante aurait pu à l’occasion étayer les assertions de monsieur Rossi et ainsi établir la crédibilité de ce dernier grâce à une preuve adéquate et sérieuse, notamment à l’égard de son employée (dont le prénom serait Maria) qui aurait été témoin de la signature du contrat. Ainsi, l’appelante aurait pu, à partir de ses livres et registres (dont le livre des salaires), retrouver le nom et les coordonnées de cette employée et l’assigner comme témoin lors de l’audition. L’appelante aurait pu tout au moins déposer en preuve les livres et registres pertinents pour démontrer que cette employée était à son emploi le 6 novembre, date de la signature du contrat. L’appelante aurait pu aussi soumettre une preuve documentaire fiable (tels les contrats de vente des condos du projet Boyer) pour démontrer que les honoraires de 450 000 $ avaient été versés au fournisseur conformément aux modalités prévues aux articles 3.02 et 3.03 du contrat, d’autant plus que les états financiers de l’appelante qu’on ne peut qualifier de fiables ne démontrent nullement que cette dernière a réalisé des ventes de condos dans le cadre du projet Boyer totalisant 6 000 000 $. Dans ces deux cas, l’appelante n’a pas soumis cette preuve adéquate pour étayer les assertions de monsieur Rossi et ainsi établir sa crédibilité, alors qu’elle était en mesure de le faire. J’en déduis que cette preuve aurait été défavorable à l’appelante. La déclaration initiale de monsieur Rossi à madame Deluca qui était pour le moins évasive me laisse croire qu’il avait beaucoup de choses à cacher. Je comprends mal que monsieur Rossi n’ait pas révélé dès le départ à madame Deluca l’existence du contrat. Pourquoi monsieur Rossi a-t-il attendu aussi longtemps pour faire part à madame Deluca de l’existence d’un tel contrat? Enfin, le témoignage de monsieur Rossi à l’égard de la facture datée du 11 août 2003 (pièce A‑2) et particulièrement à l’égard des raisons pour lesquelles l’appelante a tout de même versé au fournisseur une partie des honoraires, en l’espèce 66 687 $, alors qu’aucun service n’avait été rendu, n’a fait que confirmer mes doutes quant à la crédibilité de monsieur Rossi.
+[18] Je souligne aussi que j’ai accordé peu de valeur probante au témoignage de monsieur Lepore. En effet, il m’est difficile d’accorder quelque valeur probante aux déclarations d’un individu qui a bafoué aussi candidement nos lois fiscales. Je rappelle aussi que le témoignage de monsieur Lepore à l’effet qu’il avait rencontré dans le cadre de son mandat la personne responsable de ventes de condos du projet Boyer a été contredit par le témoignage très crédible de madame Bui, la personne responsable des ventes de ces condos. L’appelante aurait pu à l’occasion étayer les assertions de monsieur Lepore et ainsi établir sa crédibilité. Ainsi, l’appelante aurait pu déposer en preuve les nombreux documents de nature financière (flux de trésorerie, etc.) que monsieur Lepore dit avoir préparés pour le bénéfice de l’appelante dans le cadre du mandat qu’elle lui avait donné. L’appelante n’a pas soumis cette preuve adéquate pour étayer les assertions de monsieur Lepore et aussi établir sa crédibilité, alors qu’elle était en mesure de le faire. J’en déduis que cette preuve lui aurait été défavorable. Enfin, le témoignage de monsieur Lepore à l’égard de la facture datée du 11 août 2003 (pièce A‑2), et particulièrement à l’égard des raisons pour lesquelles l’appelante a tout de même versé au fournisseur une partie des honoraires, en l’espèce 66 687 $, alors qu’aucun service n’avait été rendu par lui, n’a fait que confirmer mes doutes quant à la crédibilité de monsieur Lepore.
+[19] De toute façon, je suis d’avis que l’histoire racontée par monsieur Rossi et monsieur Lepore est invraisemblable. En effet, il m’apparaît tout à fait invraisemblable que l’appelante ait convenu de verser au fournisseur des honoraires astronomiques (en l’espèce 450 000 $, soit environ 6,42 % des ventes brutes qui auraient été réalisées par l’appelante dans le cadre du projet Boyer) pour des services professionnels que, somme toute, l’appelante aurait pu se procurer auprès de monsieur Lepore à titre d’associé de la firme comptable Belmonte Léger et Associés, et ce, pour une fraction de la somme de 450 000 $ versée au fournisseur. Enfin, l’histoire racontée par ces deux témoins à l’égard du paiement partiel de la facture datée du 11 août 2003 (projet Chateaubriand) alors qu’aucun service n’avait été rendu s’ajoute à la liste des invraisemblances dans cette affaire.
+[20] Mon examen de la preuve m’amène à conclure qu’il est plus probable qu’improbable que les services n’ont jamais été rendus à l’appelante et que le contrat et le paiement des honoraires ne sont que des trompe-l’œil visant à masquer la vérité. Il est aussi difficile d’en arriver à une conclusion autre que celle que l’appelante a délibérément fait de faux énoncés en demandant de tels CTI dans le calcul de sa taxe nette pour la période pertinente. À mon avis, le ministre s’est acquitté dans les présentes de son fardeau de la preuve et était en droit d’imposer les pénalités prévues à l’article 285 de la Loi.
+[21] Pour ces motifs, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 13e jour de février 2009.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2009 CCI 76
+Nº DU DOSSIER DE LA COUR : 2006-2584(GST)G
+INTITULÉ DE LA CAUSE : LES CONSTRUCTIONS ROSSI & FILS 2000 INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 28 mai 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 13 février 2009
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Serge Fournier
+Avocats de l'intimée :
+Me Richard Généreux
+Me Joëlle Bitton
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Serge Fournier
+Cabinet : BCF s.e.n.c.r.l.
+Montréal, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir les notes sténographiques aux pages 98 et 99.

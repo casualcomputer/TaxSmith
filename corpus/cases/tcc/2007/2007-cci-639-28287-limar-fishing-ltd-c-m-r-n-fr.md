@@ -1,0 +1,167 @@
+---
+title: "Limar Fishing Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28287/index.do"
+last_modified: "2007-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 639"
+citation2: ""
+neutral_citation: "2007 CCI 639"
+decision_date: "2007-10-19"
+language: "fr"
+item_id: "28287"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1871
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:09:51.290000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5290b3a26d335e646cb81a4ef6e03882eed0791503da4255ec459a44b532df9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Limar Fishing Ltd. c. M.R.N.
+
+- Citation: 2007 CCI 639
+- Decision date: 2007-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1871, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Limar Fishing Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-19
+Référence neutre
+2007 CCI 639
+Numéro de dossier
+2006-3320(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Loi sur la sécurité de la vieillesse
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2006-3320(EI)
+2006-3321(CPP)
+ENTRE :
+LIMAR FISHING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 1er octobre 2007, à Kamloops (Colombie-Britannique).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+M. John Stirling
+Avocate de l’intimé :
+Me Christa Akey
+JUGEMENT
+L’appel interjeté à l’égard des décisions rendues par le ministre du Revenu national en application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada est accueilli, et les décisions sont modifiées compte tenu du fait que Robert Forsey et Rene Slaney exerçaient un emploi assurable et ouvrant droit à pension, mais uniquement pour la période du 20 décembre 2005 au 16 janvier 2006.
+Signé à Toronto (Ontario), ce 19e jour d’octobre 2007.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI639
+Date : 20071019
+Dossiers : 2006-3320(EI)
+2006-3321(CPP)
+ENTRE :
+LIMAR FISHING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s’agit d’un appel interjeté par Limar Fishing Ltd. relativement à deux décisions rendues par le ministre du Revenu national (le « ministre ») en application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada.
+[2] À la fin de 2005, l’appelante a acheté un grand navire de pêche, le MV Bakur, elle a embauché un équipage de huit hommes et pris la mer en longeant la côte atlantique. Le navire est parti d’Halifax, il a emprunté le canal de Panama puis s’est retrouvé dans l’océan Pacifique, où un permis lui donnait le droit de pêcher. Quatre mois plus tard, le Bakur est arrivé en Colombie‑Britannique. Il a été accueilli par des agents de la GRC, qui ont découvert une importante quantité de marijuana à bord.
+[3] Robert Forsey et Rene Slaney (les « travailleurs ») faisaient partie des quatre membres d’équipage qui ont travaillé sur le Bakur seulement pendant une courte période, ayant quitté le navire au premier port d’escale à Trinidad parce qu’ils soupçonnaient que le Bakur allait servir à d’autres fins que la pêche. La police de Trinidad avait été appelée sur les lieux et avait inspecté le navire, mais elle n’avait rien trouvé de suspect. Les quatre hommes ont été renvoyés chez eux en Nouvelle‑Écosse par avion, et le Bakur a poursuivi sa route avec les quatre membres d’équipage restants. D’autres membres d’équipage ont été embauchés en cours de route pour remplacer ceux qui étaient partis.
+[4] Quelque temps plus tard, les travailleurs ont tenté de recouvrer des présumés salaires impayés et ils ont déposé des plaintes auprès des autorités compétentes en matière de normes du travail, tant fédérales que provinciales. Pour autant que je puisse en déduire de la preuve dont je dispose, les plaintes des travailleurs ont toutes été rejetées, mais il se peut qu’un appel interjeté par M. Forsey soit en instance.
+[5] Les travailleurs ont en outre demandé des prestations d’assurance‑emploi au titre de leur court emploi sur le Bakur. C’est ce qui a donné lieu aux décisions du ministre visées par le présent appel, à savoir que les travailleurs exerçaient pour l’appelante un emploi assurable et ouvrant droit à pension pendant les périodes suivantes : du 1er novembre 2005 au 28 janvier 2006 en ce qui concerne M. Forsey, et du 1er novembre 2005 au 19 janvier 2006 en ce qui concerne M. Slaney.
+[6] L’appelante a interjeté appel de ces décisions à la Cour.
+[7] Outre ces décisions, le ministre a décidé que la rémunération assurable des travailleurs devait inclure les sommes que ces derniers avaient réclamées à titre de salaire impayé dans le cadre de leurs plaintes aux autorités en matière de normes du travail. L’appelante a interjeté appel de cette décision à la Division des appels de l’Agence du revenu du Canada, mais il n’a pas encore été statué sur l’appel. Je ne suis donc pas saisie de cette question.
+[8] Pendant l’audience, j’ai mentionné aux parties qu’il leur serait peut‑être utile que je fasse aussi quelques observations au sujet de la décision relative à la rémunération assurable. Mes observations n’auraient évidemment eu aucune force obligatoire. Toutefois, comme je me suis subséquemment rendu compte que les autorités compétentes n’avaient peut‑être pas encore déterminé le droit au salaire de M. Forsey, je vais m’abstenir d’aborder cette question.
+[9] L’appelante a été représentée à l’audience par son président, John Stirling, lequel était capitaine du Bakur pendant la période pertinente. M. Stirling a également témoigné pour le compte de l’appelante, et il a mis en preuve un recueil comportant un grand nombre de documents (pièce A‑9). Un autre employé de l’appelante qui travaillait aussi sur le Bakur, Ralf Harris, a témoigné dans la présente affaire.
+[10] La Couronne avait pris les dispositions nécessaires pour faire venir un des travailleurs d’Halifax à Kamloops pour qu’il témoigne, mais peu de temps avant l’audience, ce dernier a informé l’avocate qu’il lui était impossible de comparaître. La demande d’ajournement présentée par la Couronne au début de l’audience a été refusée.
+[11] Quant à la principale question en litige, les deux points qui doivent être tranchés en l’espèce consistent à savoir si les travailleurs exerçaient un emploi dans le cadre d’une relation d’emploi avec l’appelante et, dans l’affirmative, pendant quelle période ils ont exercé cet emploi.
+[12] Pour décider s’il existait une relation d’emploi, les tribunaux sont tenus de prendre plusieurs facteurs en considération, dont le degré de contrôle, la propriété des instruments de travail, la possibilité de profit, le risque de perte et l’intention. En définitive, la Cour doit se demander si les travailleurs exploitaient une entreprise pour leur propre compte.
+[13] La décision du ministre voulant que les travailleurs aient été des employés de l’appelante s’appuyait sur les hypothèses de fait suivantes, lesquelles sont tirées de l’une des réponses :
+[traduction]
+a) l’appelante a acheté un navire de la Karlsen Shipping Company;
+b) l’appelante a engagé M. Forsey et M. Slaney par le truchement d’une annonce affichée sur le site de Ressources humaines et Développement des compétences Canada;
+c) l’appelante a engagé M. Forsey pour qu’il aide à préparer le navire à prendre la mer et agisse comme matelot de pont en mer;
+d) l’appelante a engagé M. Slaney pour qu’il aide à préparer le navire à prendre la mer et agisse comme cuisinier pour les membres de l’équipage une fois en mer;
+e) l’appelante a fait savoir à M. Forsey et à M. Slaney quels travaux étaient nécessaires pour préparer le navire à prendre la mer;
+f) l’appelante a fait savoir à M. Forsey et à M. Slaney qu’on préparait le navire à prendre la mer en vue d’aller pêcher le thon dans l’océan Pacifique;
+g) le navire de l’appelante a servi à passer de la drogue en contrebande au Canada;
+h) le navire de l’appelante a mis les voiles vers le 31 décembre 2005 avec M. Forsey et M. Slaney à son bord;
+i) M. Forsey et M. Slaney n’ont pas participé à la pêche pendant leur période d’emploi respective;
+j) s’ils n’avaient pas été en mesure de faire leur travail, ni M. Forsey ni M. Slaney n’auraient pu charger un remplaçant d’exécuter les fonctions qui leur avaient été confiées;
+k) l’appelante a fourni à M. Forsey et à M. Slaney tous les outils et le matériel qu’ils ont utilisés pour préparer le navire à prendre la mer;
+l) l’appelante a fourni à M. Slaney les fournitures et le matériel dont il s’est servi pour faire la cuisine à l’intention des membres de l’équipage;
+m) l’appelante a fourni à M. Forsey et à M. Slaney la nourriture et le logement à bord du navire;
+n) ni M. Forsey ni M. Slaney n’ont investi de fonds dans l’entreprise de l’appelante;
+o) ni M. Forsey ni M. Slaney n’avaient une quelconque responsabilité en matière d’investissement ou de gestion des activités commerciales de l’appelante;
+p) l’appelante n’a payé ni M. Forsey ni M. Slaney pour le travail qu’ils ont effectué pendant leur période d’emploi respective;
+q) M. Forsey et M. Slaney ont déposé auprès de la Direction générale des normes du travail du Canada des plaintes contre l’appelante pour non‑paiement de leur salaire;
+r) M. Slaney a déposé une plainte contre l’appelante dans le cadre du Programme du travail du gouvernement fédéral.
+[14] Me Stirling avance que l’approche suivie par le ministre est erronée en ce qu’elle ne tient pas compte de la pratique reconnue dans l’industrie de la pêche voulant que les membres d’équipage d’un navire de pêche qui reçoivent un salaire fondé sur le produit de la prise soient des travailleurs indépendants.
+[15] J’ai de la difficulté à accepter cet argument parce que la preuve ne permet pas d’étayer le fait que l’équipage devait être rémunéré en fonction d’un partage de la prise.
+[16] Dans les circonstances inhabituelles de la présente affaire, je crois qu’il est pertinent de prendre en compte non seulement les affirmations faites aux travailleurs au moment de leur embauche, mais également la question de savoir si le Bakur a réellement servi à la pêche, et dans quelle mesure. Si la pêche était négligeable, l’appelante avait vraisemblablement l’intention de rémunérer les travailleurs d’une autre façon, et non seulement au moyen du produit tiré de la prise.
+[17] J’accepte que M. Stirling a affirmé aux travailleurs qu’ils étaient embauchés selon le principe du partage entre membres d’équipage, mais la preuve dont je suis saisie ne m’a pas convaincue que l’appelante avait une quelconque intention de payer les travailleurs de cette façon.
+[18] Même si la preuve laisse entendre qu’on a procédé à une certaine pêche commerciale dans l’océan Pacifique avec le Bakur après que les travailleurs eurent été renvoyés à la maison en avion, le témoignage en ce sens était beaucoup trop vague et incomplet pour me persuader que l’équipage du Bakur faisait réellement de la pêche commerciale. De plus, les témoignages de M. Stirling et de M. Harris n’ont pas permis d’expliquer, à ma satisfaction, comment on allait rémunérer les travailleurs en fonction du partage de la prise alors que le voyage a débuté à Halifax, s’est terminé en Colombie‑Britannique et a duré plus de quatre mois.
+[19] Ni M. Stirling ni M. Harris n’ont témoigné avec précision au sujet d’activités de pêche effectuées sur le Bakur, que ce soit la pêche ou la vente de poissons. En outre, le recueil de documents produit par M. Stirling n’offre que très peu d’éléments pour établir que le Bakur effectuait réellement de la pêche commerciale. M. Harris, qui n’était pas un témoin désintéressé, ne pouvait se rappeler à combien s’élevait sa part de la prise et il a paru donner une réponse évasive lorsqu’on lui a demandé combien d’argent il avait reçu pour son travail sur le Bakur. Dans son témoignage, M. Stirling a affirmé que les travailleurs devaient être rémunérés en fonction de la norme applicable dans l’industrie, à savoir dix pour cent du produit de la prise, après déduction des frais de carburant. Aucune explication satisfaisante n’a été donnée quant aux raisons pour lesquelles M. Slaney, qui avait été engagé comme cuisiner, aurait travaillé sur le navire pendant plus de quatre mois pour ensuite ne recevoir que la somme prévue par la norme de l’industrie, soit dix pour cent de la prise. De même, aucune explication n’a été avancée quant aux raisons pour lesquelles l’équipage aurait pris en charge les frais de carburant pour un voyage aussi coûteux.
+[20] Je suis d’accord la Couronne lorsqu’elle fait observer que la preuve en l’espèce permet davantage de conclure que les activités de pêche commerciales exercées sur le Bakur étaient négligeables. J’estime donc qu’il n’y a pas de fondement suffisant pour conclure que les travailleurs devaient réellement être payés en fonction du partage entre les membres d’équipage. L’ensemble de la preuve joue donc largement en faveur de la conclusion voulant que les travailleurs aient été engagés dans une relation d’emploi, selon les facteurs habituels.
+[21] La seconde question à trancher touche à la période d’emploi. Le moment où les travailleurs ont quitté le Bakur au Trinidad n’est pas contesté, mais la date du début de leur emploi n’est pas claire. J’accepte de façon générale le témoignage de M. Stirling à cet égard, et je conclus que l’emploi des travailleurs a débuté le 20 décembre 2005 et s’est terminé le 16 janvier 2006.
+[22] Par conséquent, l’appel sera accueilli en partie, compte tenu du fait que les décisions du ministre du Revenu national selon lesquelles Robert Forsey et Rene Slaney exerçaient un emploi assurable et ouvrant droit à pension doivent être confirmées, et que leur période d’emploi doit être modifiée de manière à comprendre uniquement la période du 20 décembre 2005 au 16 janvier 2006.
+Signé à Toronto (Ontario), ce 19e jour d’octobre 2007.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI639
+Nos DES DOSSIERS DE LA COUR : 2006-3320(EI), 2006-3321(CPP)
+INTITULÉ DE LA CAUSE : LIMAR FISHING LTD. c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Kamloops (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 1er octobre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Judith Woods
+DATE DU JUGEMENT : Le 19 octobre 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+M. John Stirling
+Avocate de l’intimé :
+Me Christa Akey
+AVOCAT ISNCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

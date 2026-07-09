@@ -1,0 +1,131 @@
+---
+title: "Maass-Howard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31004/index.do"
+last_modified: "2012-10-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 307"
+citation2: ""
+neutral_citation: "2012 TCC 307"
+decision_date: "2012-10-25"
+language: "en"
+item_id: "31004"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4886
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:04:20.364000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2608f1f678e996b0869544cbc50d2255dbb04254e06b5000b5ed08b6e2b228f5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maass-Howard v. The Queen
+
+- Citation: 2012 TCC 307
+- Decision date: 2012-10-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4886, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maass-Howard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-25
+Neutral citation
+2012 TCC 307
+File numbers
+2011-1578(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1578(IT)G
+BETWEEN:
+DEBORAH MAASS-HOWARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 20, 2012, at Montreal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Valerie Messore
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the appellant’s 2009 taxation year is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 25th day of October 2012.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2012 TCC 307
+Date: 20121025
+Docket: 2011-1578(IT)G
+BETWEEN:
+DEBORAH MAASS-HOWARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The appellant, Deborah Maass-Howard, is appealing from an assessment issued for her 2009 taxation year.
+[2] The issue is whether the Minister of National Revenue (the “Minister”) erred when he included in the appellant’s income for her 2009 taxation year the amount of $105,000 withdrawn by the appellant from her registered retirement savings plan (“RRSP”).
+[3] At the outset of the hearing, counsel for the respondent accepted certain of the appellant’s factual allegations. The respondent admits that the appellant withdrew the funds from her RRSP to pay for back surgery performed outside of Canada. The respondent acknowledges that this was the only source of funds available to the appellant to pay for the operation. The respondent also accepted, for the purpose of the hearing, that the Canadian health system failed the appellant as she was unable to find a qualified surgeon to perform the surgery in Quebec, her province of residence.
+[4] Notwithstanding these admissions, the circumstances leading up to the appellant’s decision to withdraw funds from her RRSP merit further comment because they illustrate the hardships faced by the appellant.
+[5] The evidence shows that the appellant suffered a herniated disk in 2006. She consulted a number of doctors to obtain treatment for her back. After a series of fruitless consultations, she was referred to a pain clinic. The doctors there prescribed pain killers. The neurosurgeon and orthopaedic surgeon who evaluated the appellant’s condition both concluded that she was not a candidate for surgery. The appellant’s condition rapidly deteriorated with the herniation of two additional disks. The appellant suffered from loss of mobility and chronic pain. Unable to find adequate treatment in Canada, she turned to a highly regarded former Canadian surgeon practising in Switzerland. This initiative was taken for the purpose of obtaining a second opinion on whether the appellant could benefit from disk fusion and replacement surgery.
+[6] The Swiss doctor, who confirmed that the appellant would benefit from surgery, communicated with a former colleague practising back surgery in Quebec, with the hope of convincing him to perform the operation. For reasons which are unclear, he refused, leaving the appellant with no option but to have the surgery performed in Switzerland at her own expense.
+[7] Prior to withdrawing the funds from her RRSP, the appellant applied for a mortgage loan on her residence. She had equity in the house but the bank turned her down. She and her father, a retired banker, contacted the financial institution that administered her self-directed RRSP to inquire whether there was a way for the appellant to withdraw funds from her RRSP on a tax-deferred basis, she was told this could not be done.
+[8] A similar inquiry was made by phone to the Canada Revenue Agency (the “CRA”). Again, the answer was negative. The appellant also consulted CRA publications on self-administered RRSPs but found no mention of any arrangement whereby she could withdraw the funds on a tax-deferred basis. Indeed, she found nothing on that subject.
+[9] Much later, after the funds had been withdrawn, the appellant discovered that she could have withdrawn the funds she needed as a mortgage loan from her self-directed RRSP. The appellant asserts that she would have selected this option had she known that it was available to her. The Court has no reason to disbelieve her.
+[10] It is clear that, under paragraph 56(1)(h) and subsection 146(1) of the Income Tax Act (the “ITA”), that the appellant is required to include the funds withdrawn from her RRSP in the calculation of her income for her 2009 taxation year. In fact, her accountant did declare the amount received as income in her 2009 tax return in recognition of the fact that it was taxable. It is also clear that the amount which must be included should also include the taxes withheld at source by the plan administrator.
+[11] The appellant asked the Court to consider whether relief is available to her under paragraph 60(1)(l) of the ITA.
+[12] The appellant notes that under that provision the Minister may allow a deduction for amounts paid into an RRSP within such longer period than 60 days after the end of the year for which a taxpayer is seeking a deduction as is acceptable to the Minister. The provision is highly complex. Unfortunately, the appellant is not eligible for relief thereunder. The provision allows, in certain limited circumstances, for tax-free rollovers in respect of amounts received by a person from, for example, the RRSP of a deceased spouse, provided that the funds are transferred to a RRSP established by the taxpayer within the time prescribed. The provision does not allow the deduction of the amount withdrawn by the appellant from her own RRSP, assuming that it was to be re-contributed at a later date with the Minister’s consent.
+[13] The appellant asks the Court to relieve her of her tax obligation on the grounds of equity. She withdrew the funds to pay for medical services that should have been covered under Canada’s health plan. In so doing, she saved Canadian taxpayers the cost of her treatment, which was greater than the income tax on her RRSP withdrawal.
+[14] It is well established that the courts do not have the power to make exceptions to the application of the law on the grounds of fairness, equity or undue hardship. I cannot vacate an assessment if it was made in conformity with the law. The law obliges me to dismiss the appeal although I do so with reluctance in light of the circumstances of the appellant’s case.
+[15] I have also examined whether the appellant received full tax relief for the medical expenses that she paid. I conclude, on the basis of the evidence presented at the hearing, that she did.
+[16] The appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 25th day of October 2012.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2012 TCC 307
+COURT FILE NO.: 2011-1578(IT)G
+STYLE OF CAUSE: DEBORAH MAASS-HOWARD v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: August 20, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: October 25th,2012.
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Valerie Messore
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

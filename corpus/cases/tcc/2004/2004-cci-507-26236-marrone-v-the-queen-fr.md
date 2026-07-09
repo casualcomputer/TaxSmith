@@ -1,0 +1,153 @@
+---
+title: "Marrone v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26236/index.do"
+last_modified: "2004-07-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 507"
+citation2: ""
+neutral_citation: "2004 CCI 507"
+decision_date: "2004-07-15"
+language: "fr"
+item_id: "26236"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4033
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:14:25.574000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8df2a74df9d024d2dfd48345f3ba46d36370a0da7b18ea3561654f80911e4f4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marrone v. The Queen
+
+- Citation: 2004 CCI 507
+- Decision date: 2004-07-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4033, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marrone v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-15
+Référence neutre
+2004 CCI 507
+Numéro de dossier
+2003-2619(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2619(IT)I
+ENTRE :
+NICOLA MARRONE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 16 avril 2004.
+Devant : L'honorable A.A. Sarchuk
+Comparutions :
+Représentant de l'appelant :
+M. Aurelio Marrone
+Avocat de l'intimée :
+Me Eric Sherbert
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI507
+Date : 20040715
+Dossier : 2003-2619(IT)I
+ENTRE :
+NICOLA MARRONE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Il s'agit d'un appel interjeté par Nicola Marrone à l'encontre d'une cotisation d'impôt pour son année d'imposition 2001 par laquelle le ministre du Revenu national a refusé la déduction d'un crédit pour déficience mentale ou physique. En ratifiant la cotisation, le ministre a émis les hypothèses de fait ci-après énoncées :
+(i) dans l'année d'imposition 2001, l'appelant était aveugle à l'oeil droit et avait une acuité visuelle de 20/20 à l'oeil gauche;
+(ii) selon l'attestation relative au crédit d'impôt pour déficience datée du 21 octobre 2001 et présentée par l'appelant pour l'année d'imposition, l'appelant est capable de voir et peut toujours ou presque toujours accomplir toutes les activités courantes de la vie quotidienne qui sont énumérées dans cette attestation; et
+(iii) dans l'année d'imposition 2001, l'appelant n'était pas aveugle et il n'avait pas une déficience mentale ou physique grave et prolongée dont les effets étaient tels que sa capacité d'accomplir une activité courante de la vie quotidienne était toujours ou presque toujours limitée de façon marquée, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués.
+[2] L'appelant a été la seule personne à témoigner. Au mois de mai 1968, lorsqu'il exerçait la profession de menuisier, il s'est blessé et a perdu toute sa vue à l'oeil droit. Dans son témoignage, l'appelant a déclaré qu'à l'heure actuelle, l'oeil gauche lui pose des problèmes; il a décrit le problème comme suit : [TRADUCTION] « Je vois d'autres taches noires à l'oeil gauche[1]. » Lorsque son représentant lui a posé des questions telles que la question suivante :
+[TRADUCTION] En ce qui concerne d'autres activités courantes de la vie quotidienne, vous avez mentionné le fait de marcher. Étant donné que votre vue a de toute évidence un rapport avec une activité courante de la vie quotidienne, comment cela limite-t-il vos activités quotidiennes, comme le fait de lire, de voir d'autres objets et de percevoir?
+Et :
+[TRADUCTION] Cela vous prend-il énormément de temps, beaucoup plus de temps, pour voir les choses et savoir ce que vous regardez, ce que vous voyez?
+L'appelant a répondu ce qui suit :
+[TRADUCTION] Il viendra un jour où cela ira toujours de mal en pis et où il n'y aura pas d'amélioration.
+Et
+[TRADUCTION] Cela prend plus de temps à cause de la tache noire dans l'oeil.
+En d'autres termes, l'appelant n'était pas particulièrement explicite et son représentant s'est efforcé en vain d'obtenir plus de détails.
+[3] Le représentant de l'appelant a déposé une attestation relative au crédit d'impôt pour déficience (pièce A-1), qui a été rédigée par un optométriste. Ce document confirme que l'appelant est légalement aveugle à l'oeil droit. Dans la section intitulée « Diagnostic » , l'optométriste a écrit ce qui suit :
+[TRADUCTION] Comme il en a déjà été fait mention dans l'attestation relative au crédit d'impôt pour déficience que j'ai signée le 18 avril 1989, M. Marrone a une déficience grave et prolongée qui limite de façon marquée ses activités de la vie quotidienne, notamment pour ce qui est de la perception visuelle, de la vision périphérique.
+Malheureusement, l'auteur du document n'a pas rempli le formulaire et il n'y a rien dans cette attestation ou dans le témoignage qui explique à la Cour pourquoi l'optométriste a décidé de ne pas répondre aux questions figurant à la page 3 au sujet de la capacité du patient de marcher, ou au sujet de la réflexion et de la mémoire, ainsi qu'au sujet de la capacité du patient de s'alimenter ou de s'habiller et ainsi de suite. Je tiens également à faire remarquer que, dans le passé, la présente cour a été saisie de cet appel et qu'un ajournement a été accordé expressément en vue de permettre à l'appelant de citer un témoin pour qu'il présente une preuve médicale appropriée. On a également fait savoir à l'appelant que, bien qu'il soit loisible à la Cour d'admettre le rapport médical écrit nécessaire en l'absence du médecin, cela dépend d'un certain nombre de facteurs et que la chose est loin d'être sûre. Le représentant de l'appelant a décidé de ne pas citer l'optométriste pour témoigner, et ce, même s'il a produit une attestation qui, si elle avait été correctement rédigée, aurait peut-être fourni des renseignements suffisants pour justifier l'examen de l'appel. Toutefois, ce n'est pas ce qui s'est produit.
+[4] Il faut également noter qu'aucun élément de preuve n'a été présenté en vue de réfuter l'hypothèse du ministre selon laquelle une attestation relative à un crédit d'impôt pour déficience avait été présentée par l'appelant pour l'année d'imposition 2001 et que, selon cette attestation, l'appelant était de fait capable d'accomplir toutes les activités courantes de la vie quotidienne énumérées.
+[5] La preuve qui a été mise à ma disposition au sujet de l'état de l'appelant dans l'année d'imposition en question n'étaye pas l'allégation selon laquelle la vue au bon oeil était également atteinte au point que l'appelant n'était pas capable de continuer à accomplir ses activités courantes de la vie quotidienne. Je note que l'appelant conduit un véhicule et qu'en ce qui concerne les autres activités quotidiennes normales comme le fait de s'alimenter, de s'habiller et ainsi de suite, l'appelant a témoigné [TRADUCTION] qu' « il est très, très difficile de faire des choses avec un seul oeil » ; j'admets que c'est peut-être vrai. Toutefois, je dois conclure que même si la qualité de la vie de l'appelant a de toute évidence été touchée, la mesure dans laquelle elle l'a été ne suffit pas pour l'application de la disposition pertinente de la Loi de l'impôt sur le revenu. Par conséquent, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI507
+No DU DOSSIER DE LA COUR :
+2003-2619(IT)I
+INTITULÉ :
+Nicola Marrone et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 16 avril 2004
+MOTIFS DU JUGEMENT :
+L'honorable A.A. Sarchuk
+DATE DU JUGEMENT :
+Le 15 juillet 2004
+COMPARUTIONS :
+Représentant de l'appelant :
+M. Aurelio Marrone
+Avocat de l'intimée :
+Me Eric Sherbert
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+S/O
+Cabinet :
+S/O
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Je crois également comprendre, compte tenu du témoignage de l'appelant, que les « taches noires » qui, selon lui, l'empêchent de voir clairement avec son bon oeil se sont manifestées récemment.

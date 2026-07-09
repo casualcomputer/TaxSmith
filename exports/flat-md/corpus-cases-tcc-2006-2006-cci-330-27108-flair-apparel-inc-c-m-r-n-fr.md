@@ -1,0 +1,150 @@
+---
+title: "Flair Apparel Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27108/index.do"
+last_modified: "2006-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 330"
+citation2: ""
+neutral_citation: "2006 CCI 330"
+decision_date: "2006-06-08"
+language: "fr"
+item_id: "27108"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 913
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:33:35.835000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7073cb2c1f5050f7f4da1ffb499b3c1be48ea98065d57c600c4ca3c1c43c21f6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Flair Apparel Inc. c. M.R.N.
+
+- Citation: 2006 CCI 330
+- Decision date: 2006-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 913, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Flair Apparel Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-08
+Référence neutre
+2006 CCI 330
+Numéro de dossier
+2005-3040(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2005-3040(EI)
+2005-3044(CPP)
+ENTRE :
+FLAIR APPAREL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 19 mai 2006, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Représentante de l’appelante :
+Sylvia W. Cheung
+Avocate de l’intimé :
+Me Sara Fairbridge
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime ») sont accueillis, et les décisions rendues par le ministre du Revenu national sur les appels portés devant lui en vertu de l’article 91 de la Loi et de l’article 27.1 du Régime sont annulées au motif que Chui Hua Dai n’exerçait pas un emploi assurable et ouvrant droit à pension pendant la période allant du 7 septembre 2003 au 1er décembre 2004.
+Signé à Ottawa, Canada, ce 8e jour de juin 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 23e jour de novembre 2006.
+Nathalie Boudreau, traductrice
+Référence : 2006CCI330
+Date : 20060608
+Dossiers : 2005-3040(EI)
+2005-3044(CPP)
+ENTRE :
+FLAIR APPAREL INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les appels découlent de décisions rendues par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime ») selon lesquelles Chui Hua Dai (ci-après « Mme Dai ») exerçait un emploi assurable et ouvrant droit à pension pendant la période allant du 7 septembre 2003 au 1er décembre 2004. L’appelante avait retenu les services de Mme Dai pour qu’elle travaille comme « coupeuse », et la question est de savoir si Mme Dai fournissait ses services en vertu d’un contrat de louage de services ou en vertu d’un contrat d’entreprise, ou, pour utiliser des notions plus courantes, si avait le statut d’employé ou d’entrepreneur indépendant pendant la période en cause.
+[2] L’appelante est une société dont les actions sont détenues par Kam W. Kwok et par Sylvia W. Cheung. Elle a exploité une entreprise de fabrication de vêtements jusqu’à ce que celle-ci ferme ses portes vers le mois de septembre 2004, lorsque M. Kwok est tombé malade. À l’audience, l’appelante était représentée par Sylvia Cheung, mais la plupart des éléments de preuve et des observations ont été présentés par M. Kwok. Vingt‑trois anciennes travailleuses de l’appelante étaient présentes pendant l’audience d’une journée, et ce, pour appuyer la position de l’appelante. Pour des raisons de commodité, seulement deux de ces 23 travailleuses ont témoigné, mais je suis persuadé qu’elles étaient toutes prêtes à attester de l’intégrité de M. Kwok et de leur ancienne employeuse et à témoigner que pendant qu’elles travaillaient pour l’appelante, elles comprenaient qu’elles n’avaient pas le statut d’employé, mais plutôt celui d’entrepreneur indépendant. En plus des deux travailleuses et de M. Kwok qui ont témoigné pour le compte de l’appelante, Mme Dai a témoigné pour le compte de l’intimée.
+[3] Pendant la période où l’appelante exploitait son entreprise, elle avait à son emploi de 20 à 25 couturières et offrait du travail à entre 6 et 10 coupeuses. La plupart des 23 personnes mentionnées ci-dessus qui étaient présentes pour appuyer l’appelante avaient travaillé avec Mme Dai et exercé des tâches semblables aux siennes. Il s’agissait majoritairement de jeunes femmes ayant une apparence soignée qui, tout comme M. Kwok, avaient besoin de l’aide d’un interprète cantonais à l’audience.
+[4] Mme Dai avait pour tâche de couper les fils relâchés de vêtements terminés. Elle pouvait faire ce travail à la maison ou au lieu d’affaires de l’appelante. Elle choisissait toujours de le faire au lieu d’affaires de l’appelante pour de nombreuses raisons pratiques, notamment parce qu’elle n’avait pas suffisamment d’espace à la maison pour étaler les vêtements et parce qu’elle n’avait pas de véhicule pour transporter le lot de vêtements auquel elle devait travailler. Elle travaillait lorsque l’appelante lui offrait du travail et elle était libre de travailler ailleurs, y compris chez les concurrents de l’appelante. L’appelante avait un bassin de coupeuses qu’elle pouvait appeler au besoin. Mme Dai était payée à la pièce; par exemple, elle pouvait gagner 0,30 $ par robe (selon le niveau de complexité). Plus elle coupait, plus elle gagnait. L’appelante avait aussi des employés permanents, qui étaient payés à l’heure et qui travaillaient à des heures précises, et sur le salaire desquels elle effectuait les retenues salariales habituelles.
+[5] Mme Dai pouvait travailler quand elle voulait et choisissait les lots de vêtements auxquels elle voulait travailler. Certaines coupeuses préféraient travailler à des types de vêtements en particulier. Plusieurs d’entre-elles travaillaient très fort et coupaient plusieurs centaines de vêtements par jour. Mme Dai était traitée de la même façon que toutes les autres coupeuses. L’appelante ne contrôlait pas son travail. Si elle négligeait de couper des fils, elle devait refaire le travail à ses frais, en prenant de son propre temps. Je doute que cela se soit produit souvent, ou que cela se soit produit même une fois. Elle travaillait les jours où on l’appelait, et si elle refusait de travailler ou si on n’arrivait pas à la joindre, cela importait peu pour l’appelante. Elle apportait ses propres ciseaux, le seul outil dont elle avait besoin pour effectuer son travail, mis à part une table et une chaise qu’elle pouvait utiliser dans les locaux de l’appelante, si elle choisissait d’y travailler. Mme Dai a témoigné que si elle décidait de ne pas se présenter au travail, elle appelait l’appelante pour l’en informer parce qu’elle jugeait que c’était impoli de ne pas appeler. Elle était rémunérée deux fois par mois en fonction du nombre de vêtements qu’elle coupait et aucun montant n’était retenu sur sa rémunération.
+[6] Depuis 1986, la décision de la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. v. Minister of National Revenue[1] sert de guide utile. L’arrêt établit les quatre critères dont il faut tenir compte au moment de faire la distinction entre le statut d’employé et celui d’entrepreneur indépendant, à savoir les critères du contrôle, de la propriété des instruments de travail, de la possibilité de profit et du risque de perte et de l’intégration. De plus, l’arrêt Wiebe Door a été confirmé par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[2], où le juge Major, au nom de la cour, a reformulé les critères de la façon suivante aux paragraphes 47 et 48 :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[7] Le juge Major a aussi renvoyé à la conclusion du juge Cooke dans la décision Market Investigations Ltd. v. Minister of Social Security[3], où il a été dit ce qui suit :
+[traduction]
+Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s’est engagée à accomplir ces tâches les accomplit-elle en tant que personne à son compte? » Si la réponse à cette question est affirmative, alors il s’agit d’un contrat d’entreprise. Si la réponse est négative, alors il s’agit d’un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinentes pour trancher cette question n’a été dressée, peut‑être n’est-il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l’importance relative qu’il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu’on peut dire, c’est qu’il faudra toujours tenir compte du contrôle même s’il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s’il engage lui-même ses aides, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion, et jusqu’à quel point il peut tirer profit d’une gestion saine dans l’accomplissement de sa tâche. [Non-souligné dans l’original.]
+Le juge avait déterminé que la question à se poser était celle de savoir à qui appartenait l’entreprise.
+[8] Chaque critère doit se voir attribuer une certaine importance lorsqu’il s’agit d’évaluer l’ensemble des faits. En outre, dans l’arrêt Royal Winnipeg Ballet c. Canada (Ministre du Revenu national)[4] la Cour d’appel fédérale semble avoir mis l’accent sur l’intention des parties.
+[9] En l’espèce, il est bien évident que l’intention de l’appelante était que Mme Dai soit entrepreneure indépendante. Je ne crois pas que Mme Dai savait à quelle catégorie elle appartenait, bien qu’elle devait savoir qu’elle n’était pas du tout traitée de la même façon que les employés de l’appelante. Il n’y a aucun doute que le critère du contrôle favorise l’appelante étant donné que celle-ci avait très peu de contrôle sur Mme Dai.
+[10] Le critère de la possibilité de profit et du risque de perte est lié à la question de savoir à qui appartenait l’entreprise. Il est clair que les coupeuses pouvaient réaliser des profits ou subir des pertes. Bien que l’appelante établissait le taux de paie par vêtement, les travailleuses étaient libres de travailler aux heures qu’elles voulaient et leur revenu en était tributaire.
+[11] Pour ce qui est des instruments de travail, Mme Dai travaillait au lieu d’affaires de l’appelante, mais pouvait travailler à la maison ou ailleurs si elle le voulait. Elle fournissait ses propres ciseaux. Ce critère favorise l’appelante. Mme Dai était libre de travailler à la maison pour le même taux de rémunération que celui qu’elle recevait lorsqu’elle travaillait à l’usine. À l’origine, l’appelante versait une prime de 20 % aux personnes qui travaillaient à la maison, mais pendant la période où Mme Dai travaillait pour elle, toutes les coupeuses recevaient la prime de 20 % sans égard à l’endroit où elles travaillaient.
+[12] À la lumière de [traduction] « l’ensemble des éléments qui entraient dans le cadre des opérations », pour reprendre les paroles du lord Wright dans Montreal (City) v. Montreal Locomotive Works Ltd.[5] comme elles ont été citées par le juge MacGuigan dans l’arrêt Wiebe Door, il est évident qu’il faut conclure que Mme Dai travaillait à son compte. Elle était une coupeuse qualifiée qui fournissait des services à l’appelante en vertu d’un contrat d’entreprise. Bien qu’elle travaillait dans les locaux de l’appelante, il est évident qu’elle pouvait faire son travail où elle voulait. Elle n’était pas rémunérée selon un salaire fixe, mais était plutôt payée à la pièce en fonction du travail qu’elle exécutait lorsqu’elle choisissait de le faire.
+[13] La loi prévoit clairement que la façon dont les parties expliquent leur relation n’a pas d’effet déterminant. Toutefois, les modalités d’un contrat verbal établi par l’appelante ne peuvent pas être ignorées complètement. Elles font partie de la situation globale dans laquelle s’inscrit « l’ensemble des éléments qui entraient dans le cadre des opérations ».
+[14] Les appels sont accueillis, et les décisions du ministre du Revenu national selon lesquelles Mme Dai exerçait un emploi assurable et ouvrant droit à pension pendant la période en cause sont annulées.
+Signé à Ottawa, Canada, ce 8e jour de juin 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 23e jour de novembre 2006.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE : 2006CCI330
+NO DU DOSSIER : 2005-3040(EI) et 2005-3044(CPP)
+INTITULÉ : FLAIR APPAREL INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 19 mai 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 8 juin 2006
+COMPARUTIONS :
+Représentante de l’appelante :
+Sylvia W. Cheung
+Avocate de l’intimé :
+Me Sara Fairbridge
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 87 DTC 5025.
+[2] [2001] 2 R.C.S. 983.
+[3] [1968] 3 All E.R. 732 (Q.B.D.).
+[4] 2006 CAF 87.
+[5] [1946] 3 W.W.R. 748.

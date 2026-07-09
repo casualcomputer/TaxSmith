@@ -1,0 +1,371 @@
+---
+title: "Lee v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/230757/index.do"
+last_modified: "2017-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 74"
+citation2: ""
+neutral_citation: "2017 TCC 74"
+decision_date: "2017-05-04"
+language: "en"
+item_id: "230757"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2217
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:23:13.769000+00:00"
+cases_cited_count: 11
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fb8cf2b72a478930d20a32deb3d437e92419ddd951a2be0e0617082e75363177"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lee v. The Queen
+
+- Citation: 2017 TCC 74
+- Decision date: 2017-05-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2217, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lee v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-05-04
+Neutral citation
+2017 TCC 74
+File numbers
+2012-5023(IT)G, 2012-5024(GST)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-5023(IT)G
+BETWEEN:
+EUN-SOOK LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Eun-Sook Lee – 2012-5024(GST)G on June 18 and 19, 2015,
+and March 21, 22 and 23, 2016, at Hamilton, Ontario, with written submissions to be completed by May 26, 2016.
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Duane R. Milot
+Counsel for the Respondent:
+Tokunbo C. Omisade
+JUDGMENT
+The appeals from the reassessments under the Income Tax Act for the 2002, 2003, 2004, 2005 and 2006 taxation years are allowed, in part, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The appellant is awarded one set of party and party costs.
+Signed at Vancouver, British Columbia, this 4th day of May 2017.
+“K. Lyons”
+Lyons J.
+Docket: 2012-5024(GST)G
+BETWEEN:
+EUN-SOOK LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Eun-Sook Lee – 2012-5023(IT)G on June 18 and 19, 2015,
+and March 21, 22 and 23, 2016, at Hamilton, Ontario, with written submissions to be completed by May 26, 2016.
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Duane R. Milot
+Counsel for the Respondent:
+Tokunbo C. Omisade
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act for the January 1, 2002 to December 31, 2006 reporting periods are allowed, in part, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The appellant is awarded one set of party and party costs.
+Signed at Vancouver, British Columbia, this 4th day of May 2017.
+“K. Lyons”
+Lyons J.
+Citation: 2017 TCC 74
+Date: 20170504
+Dockets: 2012-5023(IT)G
+2012-5024(GST)G
+BETWEEN:
+EUN-SOOK LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+I. Introduction [1] The appellant operated a retail flower business as a sole proprietor during the 2002, 2003, 2004, 2005 and 2006 taxation years (“relevant years”) and was a goods and services tax registrant from January 1, 2002 to December 31, 2006 (the “reporting periods"). She appeals the reassessments issued under the Income Tax Act (the “ITA”) for the relevant years and under the Excise Tax Act (the “ETA”) for the reporting periods.[1] The appellant contends the relevant years are statute-barred, claims all of her income was reported and suggests that the net worth assessment conducted by the Minister of National Revenue contains a myriad of errors.
+[2] The Minister determined by the net worth method that the appellant had unreported income in the amounts of $51,842, $77,774, $68,403, $128,090 and $114,140, respectively, for a total unreported income of $440,249 in the relevant years and imposed gross negligence penalties thereon and reassessed each of the relevant years beyond the normal reassessment period. The Minister also reassessed the appellant for goods and services tax and harmonized sales tax (collectively “GST”) in the amount of $30,853.89,[2] relating to the unreported income, for the reporting periods plus gross negligence penalties and $13,001.48 in interest.
+[3] During and after the hearing, the respondent conceded amounts that reduced the unreported income to $51,124.18, $119,101.32 and $48,474.23 for the 2002, 2005 and 2006 taxation years, respectively, for a total revised unreported income of $364,876.73 for the relevant years. In turn, this results in a revised amount in GST of $25,319.80 for the reporting periods.[3] The respondent acknowledges some errors were made but many of her concessions were made after she received information from the appellant as part of the trial process including evidence that surfaced at trial.[4]
+[4] The issues are:
+(a) Whether the Minister properly increased the appellant’s income, as revised above, by the amounts in the relevant years?
+(b) Whether the Minister is entitled to reassess beyond the normal reassessment period for each of the relevant years?
+(c) Whether the appellant is liable for the revised amount of GST for the reporting periods?
+(d) Whether gross negligence penalties, pursuant to subsection 163(2) of the ITA and section 285 of the ETA, on the revised unreported income, for the relevant years and reporting periods, respectively, are justified in the circumstances?
+II. Background Facts [5] Upon immigrating from South Korea to Canada in 1975, the appellant completed an online floral design course while working full-time as a printing operator. After a few years, she became a waitress at a restaurant where she worked for 22.5 years plus waitressed, part-time, at other restaurants. For ten years, she picked worms at night during summer for live bait companies.
+[6] Around 2000, the appellant developed severe pain in her left arm and was unable to continue waitressing. She then paid approximately $124,000 for the assets of a local retail flower business which had two locations and about five employees. She sold one location in 2002 for approximately $40,000. The remaining location generated approximately $180,000 in gross revenue each year until the appellant sold it in 2009.
+[7] David Lee Ko, the appellant’s son, testified he attended university from 1994 to 2000. Whilst finishing university, he began selling drugs and sold marijuana, ecstasy and cocaine until his arrest by the RCMP in 2004. Drugs valued between $150,000 and $250,000 were seized but no cash. Bail was granted and he was required to live his mother until his court date in 2007. Ultimately, he pled guilty to conspiracy to traffic in ecstasy, was sentenced to four years in prison and served eleven months before he was released on parole. He has since lived in Hamilton.
+[8] The appellant testified that she never knew her son was dealing drugs until she received a phone call from the RCMP. Shortly after his arrest, her home was searched; the RCMP found a document showing a $125,000 Toronto Dominion Trust term deposit. Suspecting that she was in possession of her son’s proceeds of crime, the RCMP informed the Canada Revenue Agency (“CRA”).
+[9] In 2006 or 2007, she received a letter from the CRA notifying her of an upcoming audit. On February 18, 2008, the appellant was interviewed by the first CRA auditor and was asked to provide her books and records to the CRA but failed to do so.
+Books and Records [10] The appellant testified that she kept proper business records, held onto receipts and tracked business expenses and sales daily in a journal.[5] She hired a chartered accountant to handle her GST/PST and income tax filings who assisted from 2000 until his death in 2005. Most of her business records were given to him to prepare financial statements and tax filings. After his death, the documents were stored in his home (basement) and a flood destroyed many of these documents. Later, she was able to recover some documents from the accountant’s son.
+[11] Tanya Davis, a CRA auditor, testified on behalf of the Minister (the “auditor”); she was a credible witness. In June 2009, the appellant’s file was reassigned to her. She said that the process for issuing requirements was underway, she was instructed by the first auditor to continue to issue the requirements and did not ask the appellant for books and records because the appellant was non-responsive to the first auditor’s request for same in February 2008.[6] She stated that the main reason the net worth was prepared was because of the lack of books and records.[7]
+[12] In January 2010, the auditor contacted the appellant, met with her in May 2010, asked the appellant for her books and records and discussed the CRA’s initial proposal letter. However, the appellant did not provide the books and records directly to the CRA.[8] Instead, she hired her church’s bookkeeper, Sathya Harrington, (“bookkeeper”). The appellant said the bookkeeper was to help with the audit and she provided receipts, journals, and other records to the bookkeeper and they met several times to discuss same. The appellant claims no documentation was provided to the CRA partly because she was relying on the bookkeeper and partly because, by the time the appellant had gathered some of the required documentation, the CRA had already completed its reassessments but nevertheless asserts that she was willing to provide the documents to the CRA.
+III. Analysis Net Worth Assessment [13] Subsection 152(7) of the ITA, the key provision, reads:
+152(7) Assessment not dependent on return or information. The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+[14] The Federal Court of Appeal in Hsu v Canada refers to subsection 152(7) of the ITA as empowering the Minister to issue “arbitrary” assessments using any appropriate method for determining the tax payable by a taxpayer.
+[15] Considered a method of last resort, the Minister may employ the net worth assessment when tax returns have not been filed, records are insufficient, inaccurate information is provided, information is incapable of verification or when a taxpayer refuses to provide information. The method is premised on the assumption that an appreciation of a taxpayer’s wealth over a period of time can be imputed as income for that period unless the taxpayer demonstrates otherwise.
+[16] Notwithstanding any error, defect or omission in the assessment and until found otherwise, subsection 152(8) deems an assessment, including a net worth assessment under subsection 152(7), to be valid and binding.
+[17] Utilizing such method, the Minister is required to show that the taxpayer’s net worth has increased between two points in time but is not obliged to prove a taxable source of income.[9] Once an increase is demonstrated, the taxpayer has the onus to separate his or her taxable income from gains resulting from non-taxable sources.[10]
+[18] The appellant’s position is that the Minister’s Net Worth Statement (“Statement”) is unreliable “defective, inaccurate and negligently prepared”.[11] Admittedly, errors occurred but not as many as the appellant suggests and the inaccuracies were mostly because the appellant was unwilling to provide books, records and information in a timely manner thus exacerbated the inaccuracies.
+[19] I do not accept the appellant’s explanation that she relied on the bookkeeper to provide the information. I prefer and accept the evidence of the auditor. The auditor said she continued to ask the bookkeeper for documents in July 2010 and September 2010 before issuing the final proposal letter on October 15, 2010, and the subsequent reassessments. Suggesting the auditor ought to have made a further request for information in June 2009 ignores the appellant’s failure to respond to the CRA’s first request 16 months previously. Approximately 27 months after the CRA’s initial request was made, only some of the appellant’s documents were provided to the CRA; these could have been provided sooner without further prompting.
+[20] The jurisprudence recognizes that the net worth method will not produce precise income figures. In Bigayan v Canada, Justice Bowman, as he then was, remarks that inaccuracy is inherent in the method and albeit it is a blunt instrument, sometimes it is the only means of approximating the income of a taxpayer.[12] The Court in Hsu recognizes:
+30 By its very nature, a net worth assessment is an arbitrary and imprecise approximation of a taxpayer’s income. Any perceived unfairness relating to this type of assessment is resolved by recognizing that the taxpayer is in the best position to know his or her own taxable income. Where the factual basis of the Minister’s estimation is inaccurate, it should be a simple matter for the taxpayer to correct the Minister’s error to the satisfaction of the Court.
+Statute-Barred
+[21] The onus is on the Minister to prove, on a balance of probabilities, that the appellant made misrepresentations that were attributable to neglect, carelessness or wilful default for the relevant years.[13] The Minister will have discharged her burden of proof in a net worth assessment involving statute-barred years once she establishes on the basis of reliable information that there is a discrepancy between a taxpayer’s assets and expenses and that discrepancy continues to be unexplained and inexplicable.[14] Then, it is for the taxpayer to identify the source of the income and show that it is not taxable.[15]
+[22] Appellant counsel emphasized that although the appellant’s net worth calculation, produced at the hearing, shows cumulative unreported income in the relevant years, her position is that she reported all of her income.[16]
+[23] The appellant, David Lee Ko, Neung Ja Jung and Kumja Ro, her two sisters, and Michael Andrew Steele testified on behalf of the appellant. Net worth assessments typically hinge on the credibility of the appellant and witnesses and their articulation as to why the Minister’s calculations are incorrect.
+[24] Criteria for assessing credibility is summarized at paragraph 23 in Nichols v Canada, 2009 TCC 334, 2009 DTC 1203, in which Justice V.A. Miller states:
+23 In assessing credibility I can consider inconsistencies or weaknesses in the evidence of witnesses, including internal inconsistencies (that is, whether the testimony changed while on the stand or from that given at discovery), prior inconsistent statements, and external inconsistencies (that is, whether the evidence of the witness is inconsistent with independent evidence which has been accepted by me). Second, I can assess the attitude and demeanour of the witness. Third, I can assess whether the witness has a motive to fabricate evidence or to mislead the court. Finally, I can consider the overall sense of the evidence. That is, when common sense is applied to the testimony, does it suggest that the evidence is impossible or highly improbable.
+[25] Other than some minor inconsistencies, applying the criteria for assessing credibility I have concluded that in general the appellant and the witnesses provided some specific, plausible and credible evidence that challenge certain items and amounts on the Minister’s Statement as detailed below.
+(1) Business Assets [26] The first alleged error, argued the appellant, was the exclusion of her business assets and liabilities from the Minister’s Statement. The auditor sought but was not provided with source documentation to verify the amounts for these items as reported by the appellant in her tax returns, thus the auditor did not err but excluded the items because these went unsubstantiated. The Minister is not bound to accept information contained in tax returns.
+[27] Initially, only the bank account balances were included in this portion of the Statement. At the conclusion of the hearing, the respondent made concessions to include amounts for equipment and a vehicle. Both were valued at their undepreciated capital cost balances. The appellant’s values differ from the respondent’s with respect to 2005 and 2006; the difference is due to the appellant failing to adjust for the half-year rule with respect to the addition of the vehicle in 2005. Therefore, the respondent’s amount is correct for the line item “UCC per Schedule 1a – CCA”.
+[28] The next alleged error was the auditor’s failure to consider the appellant’s business use of her motor vehicle. Similar to the above, this went unsubstantiated. Ultimately, the respondent partly conceded this item.
+[29] The auditor excluded amounts for the remaining business assets because of insufficient documentation. The values ascribed by the appellant to Accounts Receivable, Inventory, Prepaids, Goodwill and C.E.C. Account were taken from the Notice to Reader Financial Statements and the appellant’s tax returns. By excluding such amounts, approximately $60,000 of additional “income” is created on a cumulative basis in the appellant’s net worth calculation. I find that the amounts utilized by the appellant for the business assets should not be excluded from the calculations in the Minister’s Statement.
+(2) Personal Assets (a) Cash on Hand [30] The auditor admitted to having erred in not showing “cash on hand” of $8,000 at the end of 2002. This warrants an adjustment in favour of the appellant.
+[31] The appellant contends an alleged error was made relating to the “Sale of Jewellery” for $15,900 in cash in 2004. Jewellery was sold, she says, for an estimated $17,000 and that was deposited into her bank accounts in 2004 and spent in 2004.[17] Hence, the proceeds should not be shown as a separate asset at the end of 2004.
+[32] The auditor’s notes indicate that on July 23, 2010, the bookkeeper told the auditor that the amount of proceeds for the sale of jewellery is $15,900. The auditor testified the cash proceeds were not shown as being deposited into (or coming out of) the appellant’s bank accounts in 2004. Consequently, she assumed that cash was held by the appellant in 2004 and spent in 2005.
+[33] I prefer and accept the auditor’s evidence as more reliable than the appellant’s estimate. Notably, the appellant’s year-end bank account balances increased by $1,772 from 2003 to 2004, and $18,760 from 2004 to 2005, therefore supports the inclusion of $15,900 as an asset at the end of 2004 congruent with the calculation on the Minister’s Statement.
+(b) Bank of Montreal Personal Account ending in #88 (“BOM Account”) [34] Another alleged error was having the incorrect 2006 year-end balance for the appellant’s BOM Account.
+[35] Since the auditor was not provided with the December 2006 bank statement for the BOM Account, she relied on the information provided to her that showed the November 2006 closing balance of $13,975.86. Her working papers show a balance of $19,975.86 as at December 27, 2006 in the BOM Account. The amount used by the Minister for the December 31, 2006 balance in the Toronto‑Dominion Canada Trust (“TDCT”) Personal Account ending in #46 includes a $15,000 transfer. The appellant demonstrated that $15,000 was transferred on December 28, 2006 from the BOM Account to TDCT Personal Account. Therefore, an adjustment of $15,000 is necessary and is to be subtracted from $19,975.86. As such, I find that the appellant’s amount of $4,975.86 is the correct amount.
+(c) TDCT DISA Account ending in #05 (“TDCT Account”) [36] I agree with the appellant that interest income in the amounts of 25 cents, 4 cents and $12.50, earned in 2002, 2005, and 2006, respectively, were erroneously assumed by the auditor to be allocable to a regular savings account. The TDCT Account is a registered retirement savings plan (“RRSP”) account such that the interest earned is non-taxable until withdrawn. Those amounts in the years noted are to be adjusted and removed from the Minister’s Statement.
+(d) Accounts Receivable – Loans to Family [37] A significant amount of evidence focused on the inter-family loans. The appellant described herself as a “penny-pinching” person, who enjoyed saving money and was able to loan money to her family. Although she claims she maintained records of the loans, she said records were discarded after repayment of same. I fail to see how the appellant can suggest the auditor erred in not recognizing all family loans were repaid, when she did not furnish satisfactory documentation as to repayments of same. I will address the loans separately.
+[38] The appellant testified that she made the following loans in the amounts of:
+a) $10,000 to her sister-in-law, Jennifer Kim, in 2000. The appellant was repaid $5,000 by cash in 2001 and 2002 and $5,000 by cheques in 2002 and 2003 with no interest.
+b) $26,000 to her sister, Neung Ja Jung, in 2001 by cheque plus she loaned a further $25,000 to Ms. Jung in 2003. The first loan was repaid from 2002 to 2006 and the second was repaid over 2.5 years by depositing amounts into the appellant’s bank account.[18] There were no written loan agreements between the appellant and Ms. Jung nor the appellant and her sister-in-law.
+Ms. Jung corroborated the amounts were loaned in 2001 and 2003. She indicated that the first amount was used for living expenses and to run businesses in Vancouver.[19] This was repaid by a combination of cheques and wire transfers over roughly five years. The second amount was repaid within about 30 months. Ms. Jung claims she kept track of her repayments by memory only.
+c) $60,000 to her sister, Kumja Ro, in 2004 by cheque. This loan was repaid to the appellant in cash over two years. To finance this loan, the appellant borrowed $90,000 from TD Canada Trust and retained $30,000 to help pay for her son’s legal expenses.
+Ms. Ro corroborated that the loan was made to her in 2004 with two $30,000 cheques and that her husband prepared a written agreement reflecting the $60,000 loan.[20] She explained the funds were to pay her son’s legal fees as he was arrested for drug trafficking, plus for other expenses. The loan was repaid, by cash, within a year or two and repayment began within a month or two after receiving the loan.
+[39] The auditor verified some loan advances totalling $111,900 and repayments totalling $20,400 by reviewing the appellant’s bank records. The total amount of loan advances she verified was $111,900. Consequently, this resulted in an ending loan receivable balance of $91,500 in 2006.
+[40] According to the auditor, the appellant’s outstanding loan balance at the end of 2001 was $18,000 which she created to account for the three verified loan repayments in 2002 and 2003 as “I had to make sure the opening balance made sense for 2001.”[21]
+[41] Conversely, the appellant argues that the outstanding loan balance at the end of 2001 was $36,514.73, comprised of $10,500 owing from Ms. Kim and $26,014.73 owing from Ms. Jung. Although the appellant testified that the $26,000 loan was made in 2001 by cheque, no copy of that cheque was entered into evidence nor was a copy of the appellant’s bank statement showing the withdrawal of $26,000 from her account.
+[42] The auditor testified that she was unaware of the $26,000 loan made to Ms. Jung in 2001. Her working papers, however, identified a loan repayment of $10,000 from “Hans Lee Jung” on October 22, 2002.[22]
+[43] The appellant demonstrated loan repayments, totalling $30,310, were deposited into her bank account by Ms. Jung at branches in British Columbia.[23] Since the appellant loaned Ms. Jung a further $25,000 in 2003, and a total of $40,310 was repaid between 2002 to 2006,[24] I accept that Ms. Jung’s outstanding loan balance at the end of 2001 was at least $15,000.
+[44] I find that Ms. Kim borrowed $10,000 in 2000 and repaid $5,000 in cash in 2001 and repaid $5,000 by cheque in 2002. Consequently, her outstanding loan balance at the end of 2001 was $5,000. Based on that and Ms. Jung’s outstanding loan balance, I conclude that the ending loan balance is $20,000 in 2001.
+[45] The Minister verified $10,000 being repaid in 2002. I conclude, however, per her evidence that the amount of repayments she received total $10,200 for 2002. Given that, the ending loan balance is $9,800 in 2002.
+[46] The Minister verified $8,000 was repaid and $27,500 (comprise of transfers of $25,000, $1,800, and $700) was loaned in 2003 to Ms. Jung. The appellant identified $9,600 as repaid, which I accept, and $25,000 as the amount loaned which I reject as she failed to explain what the $1,800 and $700 transfers were for. I find, therefore, that the $27,500 constitutes the total amount loaned to Ms. Jung in 2003. Hence, the ending loan balance is $27,700 in 2003.
+[47] The Minister verified $1,000 being repaid and $63,200 (which comprise two $30,000 cheques paid to Mr. Ro; $3,000 paid to the appellant’s daughter, Ms. Yeri Ko; and $200 paid to Ms. Jung) as the total amount loaned in 2004. The appellant identified $6,960 being repaid, which I accept, and $60,000 being loaned which I reject as the appellant failed to explain what the amounts paid to Ms. Ko and Ms. Jung were for. I conclude that the $63,200 constitutes the total amount loaned in 2004. As such, the ending loan balance is $83,940 in 2004.
+[48] The Minister verified $1,400 being repaid and $1,700 (comprise of transfers of $300 and $1,400) was loaned in 2005 to Ms. Jung. The appellant identified $15,450 as repaid, which I accept, and $1,400 as the amount which I reject as the appellant did not explain what the $300 transfer relates to. I accept that $1,700 is the total amount loaned in 2005.
+[49] The appellant’s net worth calculations along with her “Loans from Family” schedule show $60,000, the loan to Ms. Ro, was added in 2004 but not carried into 2005 and 2006.[25] This suggests that the $60,000 loan was repaid in full by the end of 2005. However, this is incorrect because both the appellant and Ms. Ro testified that it took over one year for the loan to be repaid. Mr. Ro also signed a letter dated December 9, 2010, stating that he and his wife borrowed $60,000 from the appellant in 2004 and repaid it during 2004, 2005, and 2006.[26] The question becomes whether Ms. Ro repaid any of the $60,000 loan to the appellant between 2004 and 2006. The appellant and Ms. Ro testified that the repayments were all made by cash; Ms. Ro said that she and her husband often repaid the appellant several thousand dollars at a time.[27]
+[50] However, the auditor’s working papers indicate that the Line of Credit was fully paid off between October 2004 and November 2005.[28] The payments were a combination of cash deposits and transfers from other accounts. Those deposits ranged in amount from $3,360 to $6,000 and only occurred in 2005. The total cash deposits applied against the Line of Credit in 2005 was $19,360. Based on the testimony of the appellant and Ms. Ro together with the auditor’s working papers that the $19,360 represents cash repayments from Ms. Ro, it reduces the ending loan balance in 2005 by $19,360. Consequently, the ending loan balance is $50,740 in 2005.
+[51] The Minister verified no amounts being repaid and $1,500 (comprise of transfers of $1,000 and $500) was loaned in 2006 to Ms. Jung. The appellant identified $4,500 as repaid, which I accept, and no amounts as being loaned which I reject as she did not explain what the $1,500 was for. I find the $1,500 constitutes the total amount loaned in 2006. Since the appellant failed to produce any documentary evidence regarding the repayment of the $60,000 loan in 2006, I conclude that the ending loan balance is $47,740 in 2006.
+(e) Investments [52] I agree with the appellant there was an error in methodology relating to the valuation of the appellant’s investments at fair market value (“FMV”) and the related exclusion of the 2001 value of these investments. The respondent made concessions by revising the investment values to their cumulative contribution amounts and revised the amounts to reflect only the appellant’s contributions to her investment accounts. The income generated on the non-registered investments was not included in the calculation because the auditor believed that doing so would double-tax the appellant. While this belief is incorrect, it is favourable to the appellant.
+(i) 2001 Value [53] The Minister’s Statement shows $150,782.01 as the value of the appellant’s Toronto-Dominion (“TD”) Canada Trust investments at the end of 2001. After the trial commenced and the investment amounts were revised, the respondent removed the $150,782. The auditor explained the removal was because the amount represented the FMV of the investments and contributions to the appellant’s investment accounts. The respondent failed to realize, however, that part of the $150,782 represents cumulative contributions made by the appellant to her TD Canada Trust investment accounts. Removing that portion of the $150,782 artificially increases the appellant’s net worth in the relevant years. As such, that “cost” portion of the $150,782 must be included in the net worth Statement as an asset at the end of 2001.
+(ii) TD Canada Trust Guaranteed Investment Certificates (“GICs” or “GIC”) [54] The Minister recognized only one TD Canada Trust asset in the appellant’s net worth calculation during the years 2002 to 2006. The asset is a $125,000 GIC purchased in 2002 that accumulates interest at 4.6% per annum. The Minister did not include the accrued interest income in the net worth calculation. I agree with the appellant that this approach is incorrect.[29]
+[55] The Minister failed to recognize the appellant’s other TD Canada Trust GICs because they did not represent “new” contributions in the relevant years. The difficulty with this is it assumes the TD Canada Trust GICs were held continuously throughout the relevant years, thus the respondent assumes that the appellant never sold these investments and used the proceeds to purchase other assets, decrease liabilities or pay for various expenses. The appellant argues that she did sell these investments in 2003 and 2004 and used some of the proceeds to purchase Berkshire investments.[30] Her argument is plausible based on my review of Exhibit A-1, tab 12. Therefore, I find that the appellant’s TD Canada Trust GIC amounts for the relevant years are more accurate.
+[56] The “cost” values of the appellant’s other TD Canada Trust GIC investments should be included in the Minister’s net worth calculations in the Statement as at the end of 2001. However, since no evidence was presented as to the cost values, the cost values equal to the 2002 values suffice for the end of 2001. I find that the appellant’s other TD Canada Trust GIC investments should be valued at $106,787.66 as at the end of 2001.[31]
+(iii) Berkshire Investments [57] The respondent alleges that the total cumulative contributions made by the appellant to her Berkshire investment accounts during the years 2002 to 2006 were $273,000. The appellant argues that the total cost of same, along with the cumulative income earned on those investments, is equal to $247,155.05 for the same period.
+[58] However, the appellant’s amount does not reflect the appellant’s investments in Berkshire account number ending in 07-R which is an RRSP account.[32] The contributions to that account are $26,500 which is roughly the difference in the amount as between the parties (which differ by the amount of $24,844.95).[33] Based on the evidence, I find the respondent’s Berkshire investments amounts to be correct and the cumulative contributions to the appellant’s RRSP account should be reflected on a separate line in the net worth calculations.
+(iv) Berkshire RRSP [59] The auditor testified that she included in the net worth calculation the cumulative investment contributions from the appellant’s bank accounts to the appellant’s TD Canada Trust and Berkshire investment accounts. In doing so, the auditor did not distinguish between contributions made to registered and non‑registered accounts.[34] As noted, the appellant contributed a total of $26,500 to her Berkshire RRSP account from 2004 to 2006. The Berkshire RRSP contributions have been shown on a separate line in the net worth calculations.
+(v) AIG Life Insurance [60] The appellant testified that she purchased $18,000 of AIG Life Insurance in 2004.[35] The respondent noted that the appellant paid an additional $18,000 to AIG in 2005.[36] The auditor testified that the first $18,000 was paid by cheque on November 12, 2004 and the second $18,000 was paid by bank draft on December 8, 2005.[37] The appellant did not challenge the auditor on cross-examination on either of these amounts.[38] Thus, I find the amounts in the Minister’s Statement for the AIG Life Insurance to be correct.
+(3) Business Liabilities [61] For the same reasons noted above in respect of the appellant’s business assets, the appellant’s business liabilities are to be included in the Minister’s net worth calculation in the amounts provided by the appellant.
+(4) Personal Expenditures [62] The appellant alleges the auditor erred in using Statistics Canada averages and data (collectively “averages”) as it is much higher than personal expenses she actually expended each year.
+[63] Assumptions were made by the auditor based on the averages because the appellant failed to provide clear documentary evidence. Under this category, the auditor attempted to categorize the amounts drawn from the appellant’s personal bank accounts. If the auditor was unable to identify the nature of an amount and believed it was a personal expense, she listed it under “miscellaneous” or “other”. If amounts were drawn out of the appellant’s personal bank accounts to pay credit card balances, the auditor reviewed the credit card statements to verify whether the amounts were for personal expenditures. If the auditor did not have credit card statements, she presumed the whole amounts to be personal expenditures. After this categorization, Statistics Canada figures were used for any personal expenditures categories that were blank.
+[64] In Cox v Canada,[39] Associate Chief Justice Bowman, as he then was, made a downward adjustment to the Statistics Canada figures used in a net worth assessment based on evidence that the appellant’s lifestyle was meagre, did not conform to the average Statistics Canada norm and other information was absent.[40]
+(a) Family [65] In the present case, the Statistics Canada figures were averages for a two‑person household. The appellant testified that her elderly mother lived with her during the relevant years. Her daughter lived with her during 2001, 2002 and half of 2003. Ms. Ro lived with her for just over a year commencing in September in 2003 and her son lived with her during 2004, 2005, 2006 and part of 2007.
+[66] The appellant received monthly payments of $1,100 from her mother, $500 from her daughter and $800 from her sister. Her mother also gave her cash gifts that she received from relatives. These were sizable amounts, such as $8,000, $7,000 and $3,000. The appellant used the funds from her family for household expenses.
+[67] Mr. Ko said he has a very close relationship with his mother but never told her about his drug dealings before he was arrested and never gave her cash from those activities. Whilst selling drugs, Mr. Ko said he was “spending like a maniac” and not saving his money. He made relatively large purchases.[41] To “invest”, he would purchase more drugs for resale.
+[68] From 2000 to 2004, he did not live with his mother but worked part-time for her business and full-time from 2004 to 2007. He said he would give her his employment earnings from the flower business. During 2000 to 2004, he would repay her in cash, in relatively small amounts over time, for his personal Royal Bank Visa credit card charges which was tied to his mother’s account and she invariably paid the Visa bills. All of which corroborated his mother’s testimony.
+[69] The appellant said that aside from reimbursing her for his credit card charges, her son never gave her any cash.
+[70] In her testimony, Ms. Ro described the appellant as a “workaholic” whom she had lived with for one year commencing in September 2003 and had paid her about $800 monthly to cover household expenses and Ms. Ro spent between $200 and $400 monthly on groceries for the family. Again, this corroborated the appellant’s testimony.
+(b) Methodology [71] I am satisfied that the appellant lived frugally and provided sufficient evidence and estimates to show she mostly spent less on personal expenditures than the Statistics Canada averages.[42] I accept, in general, her evidence as credible as it relates to the personal expenditures. Unless otherwise detailed below, various Personal Expenditures categories will be adjusted by removing Statistics Canada averages and are replaced with the appellant’s estimates provided her estimates are less than the Statistics Canada averages.[43]
+(c) Food [72] When only her mother was living with her, the appellant spent approximately $200 monthly on food purchased from stores and they rarely ate at restaurants; she spent approximately $100 monthly on food purchased from restaurants during the relevant years. When her son lived with her, she spent approximately $400 monthly on food and her daughter paid for her own groceries.
+[73] I conclude that the appellant spent approximately $2,400 on food from stores in each of 2002 and 2003 and approximately $4,800 on food from stores in each of 2004, 2005, and 2006. I find she spent approximately $1,200 per year on food purchased from restaurants. Thus, “food from stores” is reduced to $2,400 in 2002 and “food from restaurants” is reduced to $1,200 for each of 2002 and 2003.
+(d) Shelter [74] Property taxes were about $3,500 to $3,800 per year, home insurance was $500 per year and utilities were about $1,080 per year. In 2003, she incurred home renovation expenses approximating $10,000 to fix a leak in the roof and windows of her home. No adjustments, in my opinion, are necessary to this category, as the amounts on the Minister’s Statement are derived from the appellant’s bank account and credit card statements.
+(e) Household Operations [75] Telephone expenses were about $1,200 to $1,500 per year. Pet expenses were a few hundred dollars per year. Cleaning supplies were about $100 per year. Paper, plastic and foil supplies were about $200 per year. Accepting that evidence, “cleaning supplies” are reduced to $100 and “paper, plastic and foil supplies” are reduced to $200 for each of the 2002 and 2003 years, respectively.
+(f) Clothing [76] The appellant did not recall buying any clothing for herself as she received clothing from her aunt and cousins in Korea who owned a clothing factory and may have spent $300 to $500 per year on clothing for her mother. They had hand-washed but never dry-cleaned their clothing. She never purchased clothing for her son.
+[77] For 2002, I find that the amount for “women’s wear” is $400. For each of 2002 and 2003, I conclude the amounts for “clothing material, notions and laundry” are each reduced to nil. For 2003 and 2004, whilst the amounts for “women’s wear” and “men’s wear” are not Statistics Canada averages, these are reduced to $400 and nil, respectively, because the excess amounts spent on these items belonged to Mr. Ko’s who testified that he used the appellant’s credit card to purchase clothing for himself and his girlfriend in 2003.
+(g) Transportation [78] Beginning in 2002, the appellant leased a car for approximately $9,324 per year. She spent about $5,800 per year on gas and insurance. It was used 80% for business. I conclude that the personal expenditures related to the car would have been about $3,025 per year.[44] Hence, the Ministers amounts for 2002, 2003 and 2004 will be reduced by 80% to account for the business usage of the appellant’s motor vehicle.
+(h) Health Care [79] The appellant spent approximately $650, in total, from 2002 to 2006 on medication and eye care. While the amounts in the Minister’s Statement in 2003 and 2004 are higher than the appellant’s estimates, no adjustments are warranted because the amounts in the Statement are based on the appellant’s bank account and credit card statements.
+(i) Personal Care [80] The appellant cut her own hair and her mother’s such that no money was spent. An estimated $50 monthly was spent on personal care. However, this amount and any other amounts related to personal care were already included in her estimate of the cost of groceries in the “food” category above. I find that the “personal care supplies & equipment” and “hair cutting, washing, styling” will each be reduced to nil.
+(j) Recreation [81] Except for $960 spent on cable television, she did not spend any money on entertainment nor recreation and had no time to exercise in 2002. I find that other than $960, the “recreation services” will be reduced to nil.
+[82] As for 2003 and 2004, the auditor allocated $6,950 and $12,002, respectively, to the “Recreation” category. While these amounts are taken from the appellant’s bank account and credit card statements, she testified that she has been very involved with her church in Kitchener over the past 40 years and often purchases groceries and decorations for church functions. Her son also testified that from 2002 to 2004, he used her credit card to make substantial purchases. That, combined with her frugal lifestyle and her testimony, leads me to conclude that the amount for this category is reduced to $1,000 for each of 2003 and 2004 to account for the cable television.
+(k) Printed Matter [83] The appellant testified that she did not read magazines or newspapers. Instead, she listened to radio and watched television. When she wanted to read books, she borrowed them from her church library. No adjustments, in my view, are necessary as the amounts on the Minister’s Statement have been taken from the appellant’s bank account and credit card statements.
+(l) Tobacco and Alcohol [84] Neither the appellant nor her mother drank alcohol or smoked. With respect to the “tobacco and smokers’ supplies” for 2003 and 2004 and alcoholic beverages for 2004, although the amounts were taken from the appellant’s bank account and credit card statements, I infer these expenditures belonged to her son who used her credit card. Hence, the amounts are to be reduced to nil in each of 2003 and 2004.
+(m) Security [85] The only subcategory within “Security” is “life insurance premium”. The appellant had life insurance but could not remember exactly how much her life insurance premiums were. The life insurance premium in 2004 is substantial ‑ $18,522. The Minister reduced this amount by $18,000 through an adjustment in the “ADJUST TO ACTUAL” subcategory.[45] The net amount for 2004 is therefore $522 with no adjustments necessary.
+(n) Gifts and Contributions [86] The appellant regularly made cash donations to her church. The amounts shown for “other (flowers, toys, etc.)” for 2002, 2004 and 2005 will be reduced to nil because of her explanation that as the head of her church’s kitchen, she would often purchase food and decorations for the church and was reimbursed by the church. The evidence as to her role was corroborated by Michael Steele in his testimony. This information was not known to the auditor prior to trial.[46]
+(o) Miscellaneous [87] The appellant indicated that almost all of the expenses included in the “Miscellaneous” category by the Minister were for business purposes.[47] I accept her explanation as plausible and find that the category “other from banks” is reduced as follows:[48]
+2003
+$361.77
+2005
+$2,194.92[49]
+2006
+$3,648.87[50]
+(p) Other [88] The appellant testified that almost all of the expenses included in the “Other” category by the Minister were for business purposes.
+(i) Citi Mastercard [89] Mr. Steele testified that all of the Citi Mastercard expenses comprising the amounts of $3,126.41 and $1,471.82 in 2003 and 2004 were business related.[51]
+[90] For 2003, the respondent made a concession, and made a similar concession in 2004, that eliminated the entire balance under the subcategory “CITI MasterCard – no statements”. Yet, as part of the respondent’s concessions in 2003, $5,191.08 was added as additional personal expenditures under the subcategories “Citi Mastercard (Purchases)” and “Citi Mastercard (Interest)”. No explanation for this addition was given at trial so that the appellant could have an opportunity to challenge it. Given that, an adjustment is necessary to eliminate respondent’s addition of $5,191.08 in “CITI Mastercard” personal expenditures.
+(ii) Cheques [91] According to Mr. Steele, $640.47 of the Minister’s amount of $60,640.47 in 2004 represents the maturing of a GIC and claims the auditor failed to take into account the deposit of the $640.47 into the appellant’s bank account and only recognized the withdrawal of it such that it should not appear as a “personal expenditure” because it was used to purchase a GIC.[52] In his explanation, Mr. Steele referred to Exhibit R-5, tab 37, pages 14 and 15. However, those documents are not supportive of his statement that the amount was used to purchase a GIC. No adjustment is necessary.
+(iii) Adjust to Actual [92] The appellant paid $2,210.19 in 2003 to a law firm for assistance with the sale of one of her business locations.[53] She further noted that work done by that law firm was purely business.[54] The Minister categorized this amount as a personal expense.[55] For 2003, the subcategory “Adjust to Actual” should be reduced by $2,210.19 to recognize that the appellant’s legal expense was business related.
+[93] The appellant paid $1,434.34 as a business expense in 2004 to a delivery company to deliver flowers from her business.[56] The Minister categorized this amount as a personal expense.[57] The respondent has conceded to a reduction of $1,500 to the subcategory “Cash Withdrawals (adjust to actual)”.[58] Presumably this relates to the delivery expense. As such, no adjustment is necessary.
+[94] The appellant corroborated her son’s testimony that she did not always pay Mr. Ko all of his employment earnings from the flower business. Her position is that all of his reported “other income” should be deducted.[59] He testified he frequently gave back his employment earnings to his mother in order to help her out and as a method to reimburse her for his credit card purchases. Since he did not testify that he gave all of his earnings to his mother, a deduction for only half of his reported “other income” is appropriate such that an adjustment is to be made in each taxation year to account for his employment income from the appellant’s business that was not actually paid to him.
+(5) Deductions (a) Income tax refund [95] Mr. Steele said that in 2003 the appellant’s daughter received a refund of $177 but he could not locate the source documents evidencing the refund during the hearing nor did the appellant provide any testimony relating to this item.[60] I find the amount on the Minister’s Statement to be more reliable.
+(b) Money from father to daughter [96] Mr. Steele also testified that in 2004 the appellant received $3,000 from her ex-husband as a gift to be given to their daughter.[61] However, the appellant testified that $3,000 was given to her by her mother, who received it as a gift from the appellant’s sister-in-law.[62] It is unclear whether Mr. Steele and the appellant were referring to the same $3,000. I find the amount on the Minister’s Statement to be more reliable.
+(c) Loan repayment from family [97] The amounts on the Minister’s Statement under the subheading “Loan repayment from family” are the “Transfers in From Family as repayment, verified” amounts.[63] Although the appellant argued that the loan repayments in each year were higher than the amounts on the Minister’s Statement, she did not challenge the amounts on the Statement shown under “Deductions”. Despite that, the amounts on the Minister’s Statement are to be adjusted consistent with my earlier findings as to the loan repayments in each of the relevant years.
+(d) Reimbursement of expenses from church [98] Mr. Steele presented evidence of numerous expenditures that he stated were incurred by the appellant on behalf of her church that related to her role as the head of her church’s kitchen for which she was reimbursed.[64] Again, this related to her role as the head of her church’s kitchen for which she was reimbursed by the church. I accept the evidence on this aspect and her amounts as reliable.
+(e) Return of Capital on Investments [99] Mr. Steele testified that a deduction should be given for a return of capital amount in 2005.[65]
+[100] I disagree given the respondent’s approach to accounting for the appellant’s investments. The return of capital presumably relates to the appellant’s Berkshire Investments which have been included in the net worth calculation on a cumulative contribution basis. Reinvested dividends, interest and return of capital amounts were not accounted for using the cumulative contribution basis. Accordingly, I find the Minister’s approach to be correct and no such deduction is warranted.
+(f) Sister’s support [101] Mr. Steele indicated that Ms. Ro paid the appellant $1,000 per month while living with the appellant.
+[102] This information was taken from the auditor’s working papers.[66] Those papers contain notes which state that Ms. Ro moved in with the appellant in mid‑2004, remained there until 2008 and she provided financial support to the appellant during that time in the range of $800 to $1,000 per month. However, the auditor’s note conflicts with both Ms. Ro’s and the appellant’s testimony that Ms. Ro lived with her for one year commencing September 2003 and paid the appellant $800 monthly. Therefore, the deductions for 2004, 2005, and 2006 should be $3,200, $7,200 and $0, respectively. Yet, the Minister has conceded to deductions of $4,800, $9,600, and $9,600 for 2004, 2005, and 2006, respectively. I conclude for this category that the amounts on the Minister’s Statement are more reliable.
+[103] Based on the foregoing adjustments, I find and conclude that the cumulative unreported income discrepancy for the relevant years is now reduced to the total amount of $109,951 which comprise increases in the appellant’s unreported income by the following amounts:
+A. $4,595 in 2002;
+B. $13,654 in 2003;
+C. $17,713 in 2004;
+D. $45,383 in 2005; and
+E. $28,606 in 2006.
+Statute-Barred Years [104] The reassessments for relevant years were made outside the normal reassessment period. The onus, therefore, is upon the respondent to establish a misrepresentation attributable to neglect, carelessness, wilful default or fraud in accordance with subparagraph 152(4)(a)(i) of the ITA.
+[105] Appellant counsel said that the remaining discrepancy “… can be explained through the repayment of loans, by the expenses from David, the church’s expenses and cash from other sources. Just because of the inherent unreliable nature of net worths, we weren’t able to pick up.”[67]
+[106] Even after making adjustments to the Minister’s net worth calculations based on the evidence presented at trial, it is apparent that there still exists a discrepancy between the income reported by the appellant (along with her son and mother) and the income calculated using the net worth method. In my opinion, the appellant did not adequately explain the remaining income discrepancy. Consequently, I find that the Minister discharged her burden of proof in re-opening the statute-barred years for the relevant years.
+Gross Negligence Penalties [107] The Minister assessed the appellant for gross negligence penalties (on the unreported income) under subsection 163(2) of the ITA for each of the relevant years and section 285 of the ETA for the reporting periods. The burden of establishing the facts justifying the penalties is on the Minister.
+[108] In Laplante v Canada,[68] Justice Bédard provided a summary of the law on gross negligence penalties:
+11 The concept of "gross negligence" accepted in the case law is that defined by Mr. Justice Strayer in Venne v Canada (Minister of National Revenue – MNR) …:
+… "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. …
+12 In Da Costa v Canada... the Honourable Chief Justice Bowman … made the following remarks:
+[9] … The question in every case is …
+(a) “was the taxpayer negligent in making a misstatement or omission in the return?” and
+(b) “was the negligence so great as to justify the use of the somewhat pejorative epithet ‘gross’?”
+…
+[11] In drawing the line between “ordinary” negligence or neglect and “gross” negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer’s education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+…
+13 Further, in Villeneuve v Canada ... the Federal Court of Appeal made it clear that "gross negligence" could include wilful blindness in addition to an intentional act and wrongful intent. …[69]
+[109] The auditor testified that the single largest reason for applying the gross negligence penalties was the magnitude of the purported amount of $440,249 in unreported business income for the relevant years.[70] The respondent pointed out that, in addition to the materiality of the unreported income, the appellant: (1) did not provide adequate books and records to the CRA; (2) had an accountant and bookkeeper helping over the years and could have asked them questions; (3) was directly involved in maintaining her books and records and would have been aware of what numbers were being used to prepare her returns; and (4) signed her returns.[71]
+[110] The appellant testified that she filed her income tax returns every year, on time, since immigrating to Canada. She was aware that she needed to report all of her income from business and did so. She emphatically denied that she received money from her son’s drug-dealing activities as corroborated by him. When she purchased the business, she was aware that she was required to keep all of her books and records for income tax purposes, hired an accountant and provided him with receipts, account statements and accounting records for that purpose. Upon completing the tax filings, her accountant would review them with her; she relied on his expertise.
+[111] The Minister has not, in my view, satisfied her burden of establishing facts that justify the assessment of gross negligence penalties in these circumstances such that the benefit of the doubt goes to the appellant. The picture that emerges is that whilst her books and records were lacking, she nevertheless maintained books and records, hired a chartered accountant (and later a bookkeeper) to assist her with her tax filings but he passed away.[72] Additionally, the appellant retrieved some but not all books and records from the accountant’s son even though some documents were destroyed by a flood.
+[112] Of some import is the significant reduction in the magnitude of her unreported income, based on the evidence presented at trial and the Minister’s concessions, as compared with her declared income. Viewing the totality of the evidence and the circumstances, I am not convinced that the misstatements in her tax filings are tantamount to intentional acts that amount to a level of reprehensible recklessness.
+IV. Conclusion [113] I conclude that the Minister satisfied the onus with respect to the statute‑barred issue. The appellant produced some credible evidence to demolish some of the Minister’s assumptions as to the quantum of unreported income during the relevant years. The Minister has failed to satisfy the onus respecting the imposition of gross negligence penalties for the relevant years and reporting periods.
+[114] In light of the foregoing, the appeals for the relevant years are to be allowed, in part, and the reassessments referred back to the Minister for reconsideration and reassessment to account for the concessions made by the respondent and in accordance with these reasons for judgment relating to the unreported income and gross negligence penalties, for the relevant years and reporting periods, with the result that the appellant’s liability for GST requires adjustments for the reporting periods.
+[115] The appellant is awarded one set of party and party costs.
+Signed at Vancouver, British Columbia, this 4th day of May 2017.
+“K. Lyons”
+Lyons J.
+CITATION:
+2017 TCC 74
+COURT FILE NO.:
+2012-5023(IT)G and 2012-5024(GST)G
+STYLE OF CAUSE:
+EUN-SOOK LEE and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+June 18 and 19, 2015 and March 21, 22 and 23, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+May 4, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Duane R. Milot
+Counsel for the Respondent:
+Tokunbo C. Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Duane R. Milot
+Firm:
+Milot Law
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC 1985, c 1 (5th Supp), as amended [ITA] and RSC 1985, c E-15 [ETA].
+[2] Reply for Court File No. 2012-5024(GST)G at para. 4. Per the respondent’s Supplementary List of Documents, the “known GST/HST audit adjustments” indicate a slight variation in the “Underreported GST/HST collectible per net worth” for 2002 to 2006 as $30,244.74.
+[3] Exhibit R-12, page 14 (Schedule VII). $25,319.80 ($3,578.66 + $5,444.11 + $4,787.85 + $8,358.22 + $3,150.96). Transcript of Hearing of March 23, 2016 at page 459. The respondent’s concessions are reflected by letter dated March 11, 2016.
+[4] Transcript of Hearing of March 23, 2016, page 507 lines 9-14.
+[5] Exhibit A-1, tab 15.
+[6] Transcript of Hearing of March 22, 2016, page 293 line 22 to page 294 line 23 and page 317 line 23 to page 318 line 14.
+[7] Transcript of Hearing of March 22, 2016, page 282 lines 13-14.
+[8] Transcript of Hearing of March 21, 2016, page 167 lines 22-24; Transcript of Hearing of March 22, 2016, page 317 line 23 to page 318 line 14 and Transcript of Hearing of March 21, 2016, page 162 line 8-12 and page 168 lines 7-13.
+[9] Hsu v Canada, 2001 FCA 240, 2001 DTC 5459 (FCA), leave to appeal to SCC refused [Hsu] at paras 24, 25, 29 and 30. National Revenue’s Taxpayers Operations Manual describes “The use of a net worth approach to major income is based on the premise that a client’s income for a period is the increase in the client’s net worth (financial position) between the beginning and end of a particular period. A client’s net worth is the excess of his total assets, business and personal, over his total liabilities, business and personal, at a specific date.”
+[10] Gentile v R, [1988] 1 CTC 253 (FCTD), at 256.
+[11] Transcript of Hearing of March 23, 2016, page 488 lines 9-10.Reply, Schedule “A”.
+[12] Bigayan v Canada, 2000 DTC 1619, at para 2 [Bigayan].
+[13] Kozar v Canada, 2010 TCC 389, 2010 DTC 1251 at para 7 [Kozar].
+[14] Molenaar v Canada, 2004 FCA 349, 2004 DTC 6688(FCA) at para 4.
+[15] Ibid.
+[16] Exhibit A-1, tabs 1, 2 and 3.
+[17] Transcript of Hearing of March 21, 2016, page 77 line 17 to page 78 line 14.
+[18] Transcript of Hearing of March 21, 2016, page 57 lines 6-16.
+[19] The businesses involved cleaning offices and selling health food.
+[20] Exhibit A-3, tab 29.
+[21] Transcript of Hearing of March 22, 2016, pages 243 and 244 lines 24-28 and line 1, respectively.
+[22] Transcript of Hearing of March 22, 2016, page 426 lines 6-10.
+[23] Exhibit A-1, tab 14. Total of all repayments referencing a transit number, including the $1,000 credit memo from Inhwa Jung on June 24, 2004, is $30,310.
+[24] Exhibit A-1, tab 14. Total repayments of $40,310 is calculated as: $26,014.73 (loan at Dec. 31, 2001) plus $25,000 (loan on Feb. 27, 2003) less $10,704.73 (closing balance of loan to Ms. Jung at Dec. 31, 2006).
+[25] Exhibit A-1, tabs 1 and 14, respectively.
+[26] Exhibit A-3, tab 29.
+[27] Transcript of Hearing of June 19, 2015, page 118 lines 8-18.
+[28] Exhibit R-8, tab 68.
+[29] Transcript of Hearing of March 23, 2016, page 480 lines 13-20.
+[30] Transcript of Hearing of March 23, 2016, page 480 lines 21-25.
+[31] Calculated as: $25,967.30 + $23,757.86 + $57,062.50 = $106,787.66. Exhibit A-1, tab 12 and Exhibit R-12, page 3.
+[32] Exhibit R-3, tab 20, first page (001357).
+[33] Calculated as: $6,000 + $10,000 + $7,500 + $3,000 = $26,500.
+[34] Transcript of Hearing of March 22, 2016, page 398 line 16 to page 401 line 1.
+[35] Transcript of Hearing of March 21, 2016, page 94 line 20 to page 95 line 6.
+[36] Exhibit R-12, page 3.
+[37] Transcript of Hearing of March 22, 2016, page 255 lines 13-18 and page 401 lines 2‑18.
+[38] Transcript of Hearing of March 22, 2016, page 401 lines 2-19.
+[39] Cox v Canada, 2002 DTC 1515.
+[40] Ibid at paras 14-15.
+[41] Such as jewellery, airline tickets, hotel accommodations, restaurants, vehicle lease payments, personal care, home furnishings, alcohol, tobacco, cell phone, cable, internet, veterinary bills, clothing and some groceries.
+[42] No evidence was tendered as to whether such averages were national or for a specific geographic region.
+[43] Exhibit R-12, pages 15 to 24, indicate any amount denoted by a number “1” indicates that it is a Statistics Canada average.
+[44] Calculated as: ($9,324 + $5,800) x 20% = $3,024.80.
+[45] Exhibit A-1, tab 3, page 4. This is within the “Other” category below.
+[46] Transcript of Hearing of March 22, 2016, page 419 lines 20-27.
+[47] Exhibit A-2, tab 22, pages 116-125.
+[48] Exhibit A-1, tab 3, page 5.
+[49] Exhibit A-1, tab 3, page 5.
+[50] Exhibit A-1, tab 3, page 5.
+[51] Transcript of Hearing of June 19, 2015, pages 16-18.
+[52] Transcript of Hearing of June 19, 2015, page 14.
+[53] The amount of $2,210.19 is comprised of two individual amounts: $1,210.19 and $1,000. The individual amounts can be seen in the appellant’s handwritten accounting records in Exhibit A-1, tab 15, pages L-25 and L-35.
+[54] Transcript of Hearing of March 21, 2016, page 129 line 25 to page 130 line 20.
+[55] Transcript of Hearing of June 19, 2015, page 20 line 17 to page 21 line 18.
+[56] Cheque at Exhibit A-3, tab 28.
+[57] Transcript of Hearing of June 19, 2015, page 22 lines 7-27.
+[58] Respondent’s letter to the Court dated March 11, 2016.
+[59] Exhibit A-1, tab 3, page 3. Exhibit A-2, tab 21 - Mr. Ko’s tax returns.
+[60] Transcript of Hearing of June 18, 2015, page 133.
+[61] Transcript of Hearing of June 18, 2015, page 133.
+[62] Transcript of Hearing of March 21, 2016, page 72 line 11 to page 74 line 13.
+[63] Exhibit R-12, page 2, note 4.
+[64] Transcript of Hearing of June 18, 2015, page 135 line 15 to page 136 line 17.
+[65] Transcript of Hearing of June 18, 2015, page 136 line 18 to page 137 line 4.
+[66] Exhibit A-2, tab 25, page “V-1”.
+[67] Transcript of Hearing of March 23, 2016, page 494 lines 23-27.
+[68] Laplante v Canada, 2008 TCC 335, [2008] TCJ No. 262 (QL).
+[69] Ibid at paras 11-13.
+[70] Transcript of Hearing of March 22, 2016, page 428 line 26 to page 429 line 5.
+[71] Transcript of Hearing of March 23, 2016, page 512 line 19 to page 513 line 14.
+[72] For example, the appellant’s handwritten “Business Transaction Journal” at Exhibit A‑1, tab 15.

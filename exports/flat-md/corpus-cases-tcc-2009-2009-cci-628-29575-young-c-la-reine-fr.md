@@ -1,0 +1,191 @@
+---
+title: "Young c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29575/index.do"
+last_modified: "2009-12-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 628"
+citation2: ""
+neutral_citation: "2009 CCI 628"
+decision_date: "2009-12-16"
+language: "fr"
+item_id: "29575"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6331
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:18:20.562000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9731c558375401576c9b814fba2bcab837d66a7c72f71129a6414075b06c5edc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Young c. La Reine
+
+- Citation: 2009 CCI 628
+- Decision date: 2009-12-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6331, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Young c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-12-16
+Référence neutre
+2009 CCI 628
+Numéro de dossier
+2009-1568(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1568(IT)I
+ENTRE :
+DENNIS R. YOUNG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 décembre 2009, à Calgary (Alberta).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Cynthia Isenor
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie sous le régime de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2007 est accueilli et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a droit à des frais médicaux supplémentaires de 2 612,90 $ pour un lit réglable et à des frais médicaux supplémentaires de 2 673,62 $ pour des frais de déplacement, soit un total de 5 286,52 $.
+Signé à Ottawa, Canada, ce 16e jour de décembre 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 9e jour de mars 2010
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 628
+Date : 20091216
+Dossier : 2009-1568(IT)I
+ENTRE :
+DENNIS R. YOUNG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Il s’agit d’une affaire intéressant des frais médicaux. Dennis Young a déduit la somme de 13 635,46 $ au titre de frais médicaux et cette déduction a été refusée par le gouvernement. Les frais concernent l’état de santé de M. Young (cancer du rectum) et de Mme Young (sclérose en plaques).
+[2] Madame Young souffre de sclérose en plaques depuis 1984. Il ressort sans équivoque du témoignage de M. Young et d’une lettre du Dr Kilbertus (4 juillet 2008) que Mme Young nécessite des soins 24 heures sur 24 et que, jusqu’au moment où un cancer du rectum a été diagnostiqué chez M. Young en mars 2008, ce dernier était en mesure de fournir ces soins à son épouse et s’acquittait de cette tâche d’une façon exemplaire. Il était manifeste à la lumière du témoignage de M. Young que sa relation avec son épouse était empreinte d’un amour, d’une gentillesse et d’un respect des plus profonds. Comme l’a dit M. Young, [TRADUCTION] « nous formons une équipe ». Par suite du diagnostic établi à l’égard de M. Young, le couple s’est trouvé dans une impasse quant à la façon dont on s’occuperait de Mme Young pendant la longue durée du traitement du cancer de M. Young. Dans sa lettre du 4 juillet 2008, le Dr Kilbertus présente un résumé de la situation. Même si je reconnais qu’il est risqué d’accepter ce document à titre d’élément de preuve sans que l’intimée ait la possibilité de contre‑interroger le Dr Kilbertus sur le contenu de la lettre, je suis disposé à admettre cette corroboration médicale du témoignage de M. Young. Il serait tout simplement trop astreignant pour l’appelant, dans le cadre de la présente procédure informelle, d’avoir à appeler à témoigner un médecin se trouvant 2 500 milles plus loin. Le Dr Kilbertus a écrit ce qui suit :
+[TRADUCTION]
+Madame Young vit avec la sclérose en plaques depuis de nombreuses années et elle a maintenant besoin de soins 24 heures sur 24. M. Young était le principal fournisseur de soins pour son épouse. En raison du niveau élevé de soins que M. Young a été en mesure de prodiguer à Mme Young à la maison et de la capacité du couple à travailler en équipe, les besoins de Mme Young en matière de santé physique et de santé mentale ont été comblés d’une façon exemplaire. La fourniture de ces soins nécessite de la force physique et de l’agilité. Il était évident que M. Young ne serait pas en mesure de remplir ses fonctions de fournisseur de soins pendant la période péri‑opératoire et pendant sa convalescence. Les enfants de Mme Young, qui vivent à Calgary, voulaient et pouvaient soigner leur mère pendant la convalescence de leur père. Comme la famille de Mme Young n’avait pas les moyens d’acheter des services de soins et que Mme Young avait impérativement besoin de soins sur le plan médical, je n’ai pas cru qu’il était « possible d’obtenir dans la localité où habite le particulier des services médicaux sensiblement équivalents ». À l’époque, je leur ai conseillé d’envisager de déménager en Alberta, compte tenu des besoins médicaux de Mme Young.
+On a diagnostiqué chez M. Young une anomalie précancéreuse du côlon à la suite d’un test de dépistage du cancer du côlon, effectué en novembre 2006, qui s’est révélé positif. Plusieurs spécialistes ont procédé à des examens approfondis à Ottawa. À la lumière des résultats radiologiques, on a estimé que sa lésion était probablement maligne, malgré des résultats de biopsie constants montrant une anomalie précancéreuse. La chirurgie projetée à Ottawa consistait en une intervention plus poussée visant à retirer une masse importante parce qu’il n’était pas possible de procéder à une radiothérapie préopératoire pour réduire la grosseur de cette masse. On a demandé l’avis de plusieurs personnes à ce sujet. Pour M. Young, cette intervention voulait très vraisemblablement dire qu’il allait devoir vivre avec une colostomie pour le reste de ses jours. On a demandé un deuxième avis en Alberta.
+L’équipe chirurgicale d’oncologie à Calgary était prête à envisager la possibilité d’une radiothérapie préopératoire visant à réduire la tumeur, ce qui permettrait d’accroître grandement les chances d’une colostomie temporaire. À la lumière de cet avis, je ne croyais pas qu’il était possible d’obtenir « dans la localité où habite le particulier des services médicaux sensiblement équivalents ». Je leur ai donc conseillé à l’époque d’envisager la possibilité de déménager en Alberta, compte tenu des besoins médicaux de M. Young.
+[3] Monsieur Young savait que sa fille allait quitter Edmonton pour déménager dans la région de Calgary à la fin de l’été 2007. En juin 2007, M. et Mme Young se sont d’abord rendus dans la région d’Edmonton, où vivait alors leur fille, et ils ont peu après déménagé à Airdrie, tout près de Calgary, le nouveau lieu de résidence de cette dernière. M. Young a effectué quelques déplacements d’Edmonton à Calgary afin de recevoir des traitements, puis de nombreux autres déplacements entre Airdrie et l’hôpital de Calgary pour de la chimiothérapie, de la radiothérapie, etc., d’août à décembre 2007.
+[4] Ce très bref exposé de la situation étant fait, je vais maintenant examiner de façon distincte les frais médicaux en litige.
+[5] Frais de déplacement
+Les frais de déplacement peuvent se partager en quatre catégories :
+i. frais de déplacement d’Ottawa à Edmonton
+entre le 13 juin et le 19 juin 2007 3 261,02 $
+ii. frais de déplacement d’Edmonton à Calgary pour
+des traitements entre le 25 juin et le 18 juillet 2007 1 744,64 $
+iii. frais de déplacement d’Edmonton à la nouvelle
+résidence de leur fille à Airdrie 1 258,53 $
+iv. frais de déplacement entre Airdrie
+et l’hôpital à Calgary (36 km) 1 296,66 $
+[6] Avant de me pencher plus particulièrement sur les frais supportés, il est d’abord nécessaire de déterminer si l’une ou l’autre de ces catégories de frais de déplacement est visée par les frais médicaux prévus au paragraphe 118.2(2) de la Loi de l’impôt sur le revenu (la « Loi »). Les alinéas g) et h) de cette disposition sont ainsi rédigés :
+(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+a) […]
+g) à une personne dont l’activité est une entreprise de transport, dans la mesure où ce paiement se rapporte au transport, entre la localité où habitent le particulier, son époux ou conjoint de fait ou une personne à charge visée à l’alinéa a) et le lieu – situé à 40 kilomètres au moins de cette localité – où des services médicaux sont habituellement dispensés, ou vice‑versa, des personnes suivantes :
+(i) le particulier, l’époux ou conjoint de fait ou la personne à charge,
+(ii) un seul particulier accompagnant le particulier, l’époux ou conjoint de fait ou la personne à charge, si ceux-ci sont, d’après le certificat d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins,
+si les conditions suivantes sont réunies :
+(iii) il n’est pas possible d’obtenir dans cette localité des services médicaux sensiblement équivalents,
+(iv) l’itinéraire emprunté par le particulier, l’époux ou conjoint de fait ou la personne à charge est, compte tenu des circonstances, un itinéraire raisonnablement direct,
+(v) le particulier, l’époux ou conjoint de fait ou la personne à charge se rendent en ce lieu afin d’obtenir des services médicaux pour eux‑mêmes et il est raisonnable, compte tenu des circonstances, qu’ils s’y rendent à cette fin;
+h) pour les frais raisonnables de déplacement, à l’exclusion des frais visés à l’alinéa g), engagés à l’égard du particulier, de l’époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a) et, si ceux-ci sont, d’après le certificat d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins, à l’égard d’un seul particulier les accompagnant, afin d’obtenir des services médicaux dans un lieu situé à 80 kilomètres au moins de la localité où le particulier, l’époux ou conjoint de fait ou la personne à charge habitent, si les conditions visées aux sous-alinéas g)(iii) à (v) sont réunies;
+[7] Plusieurs conditions doivent être remplies pour que des frais de déplacement soient admissibles à titre de frais médicaux :
+i. il n’est pas possible d’obtenir des services médicaux sensiblement équivalents dans la localité où habite le particulier;
+ii. l’itinéraire est raisonnablement direct;
+iii. il est raisonnable de se rendre à ce lieu pour obtenir des services médicaux;
+iv. les services médicaux sont offerts dans un lieu situé à 80 kilomètres au moins de la localité où habite le particulier.
+La quatrième condition s’applique de sorte que les frais de déplacement d’Airdrie à Calgary doivent être refusés puisque la distance entre ces deux municipalités est bien moindre que 80 kilomètres.
+[8] En ce qui concerne le déménagement d’Edmonton à Airdrie, il ne s’agissait pas de frais de déplacement visant à se rapprocher du lieu où les services médicaux requis étaient offerts. Il s’agissait uniquement du déménagement, de la fille de M. et Mme Young, d’Edmonton à la région de Calgary. M. et Mme Young devaient habiter avec leur fille pour que celle‑ci puisse s’occuper de Mme Young, et non pour que M. Young se rapproche de Calgary. Ce n’était qu’une conséquence heureuse du déménagement. M. Young recevait déjà des services médicaux à Calgary; on ne peut dire que le déménagement a eu lieu pour lui permettre d’obtenir ces services. Il ne fait aucun doute que, si leur fille n’avait pas déménagé, M. et Mme Young seraient demeurés avec elle à Edmonton. Les frais de déplacement d’Edmonton à Airdrie ne satisfont donc pas aux conditions applicables.
+[9] Quant aux frais liés aux nombreux déplacements effectués par M. Young entre Edmonton et Calgary, avant le déménagement à Airdrie, il incombe à M. et Mme Young de me convaincre qu’il n’était pas possible d’obtenir des services médicaux sensiblement équivalents à Edmonton. Or, je ne suis tout simplement saisi d’aucun élément de preuve à cet égard, et ce, pour une bonne raison. M. et Mme Young savaient que M. Young serait traité à Calgary, localité où leur fille allait déménager. Il aurait été illogique d’entreprendre le traitement à plus long terme à Edmonton. M. Young n’a donc pas envisagé cette possibilité. Il n’en demeure pas moins que la preuve est muette sur la question de savoir si des services médicaux équivalents étaient offerts à Edmonton. Dans son résumé des frais de déplacement qu’il a supportés, M. Young précise que ses déplacements entre Edmonton et Calgary ont été faits pour les raisons suivantes : [TRADUCTION] « biopsies, soins hospitaliers d’urgence, tomodensitogramme, Dr Buie, coloscopie, échographie rectale, IRM, rencontre avec l’oncologue médical, Dr Doll ». En l’absence de plus amples précisions, outre le nom des médecins, il ne semble pas s’agir d’interventions médicales qui n’auraient pas pu avoir lieu à Edmonton. Je remarque que la chirurgie requise n’a pas eu lieu avant octobre, soit après que M. Young eut déménagé à Airdrie. La situation de M. Young est particulière et elle découle de la nécessité que sa famille prenne soin de son épouse. Il peut paraître injuste à M. Young que, par suite de cette situation, il ne puisse remplir l’une des conditions applicables aux frais supportés pour les nombreux déplacements entre Edmonton et Calgary. Pourtant, les dispositions du paragraphe 118.2(2) sont claires : la déduction des frais de déplacement est prévue pour aider ceux qui ne peuvent obtenir des services médicaux dans la localité où ils habitent. Aussi dur que cela puisse paraître, elle n’est pas prévue pour répondre aux besoins ou aux préférences d’ordre personnel découlant de la situation familiale.
+[10] L’importante dépense engagée pour le voyage d’Ottawa à l’Alberta est un problème plus épineux. Cette dépense a‑t‑elle été engagée simplement pour répondre à des besoins ou à des préférences d’ordre personnel, à titre de fournisseur de soins de Mme Young, ou parce qu’il n’était pas possible, pour M. Young, d’obtenir des services médicaux sensiblement équivalents à Ottawa? Il faut se rappeler que, pour l’application de l’alinéa 118.2(2)h), le particulier en cause est M. Young et non Mme Young. Cette dernière ne s’est pas rendue en Alberta pour recevoir des « services médicaux » qu’elle ne pouvait obtenir à Ottawa. Elle s’est rendue en Alberta pour obtenir des soins et du soutien de sa famille pendant que M. Young était traité pour son cancer. Je ne doute nullement que ces soins et ce soutien étaient essentiels et, en réalité, même plus importants que les « services médicaux », mais je ne puis élargir la portée de l’expression « services médicaux » de sorte qu’elle englobe les soins et le soutien d’une famille, malgré l’opinion du Dr Kilbertus voulant que ces soins aient constitué des « services médicaux ». Bref, j’examinerai l’application de l’alinéa 118.2(2)h) sur le fondement que le particulier en cause était M. Young.
+[11] Par conséquent, quelle situation s’est présentée en premier : l’impossibilité, pour M. Young, d’obtenir les services médicaux appropriés à Ottawa ou la nécessité, pour M. et Mme Young, de se rendre en Alberta pour que Mme Young puisse être soignée par sa famille tandis que M. Young suivait son traitement? Manifestement, si M. Young était demeuré à Ottawa, cela aurait entraîné deux conséquences notables : d’une part, il aurait subi un traitement pour le cancer plus radical que celui qu’il a pu obtenir en étant traité en Calgary et, d’autre part, son épouse n’aurait pu être soignée de façon appropriée par lui seul. La preuve sur ce point n’est pas aussi détaillée qu’elle aurait pu l’être. Pour des raisons qui tombent sous le sens, et auxquelles on a déjà fait allusion, aucun des médecins d’Ottawa n’a témoigné en l’espèce. M. Young donne toutefois certaines précisions dans la lettre qu’il a adressée à l’Agence du revenu du Canada (l« ARC ») le 18 avril :
+[TRADUCTION]
+Comme il n’y avait personne pour s’occuper d’Hazel localement et que nous n’avions tout simplement pas les moyens de la placer dans une maison de soins infirmiers à Ottawa pendant mon traitement pour le cancer, nous n’avions d’autre choix que de quitter notre appartement à Ottawa, d’entreposer nos meubles et de nous rendre en automobile en Alberta où notre fille, Jennifer, pourrait s’occuper d’Hazel pendant que je recevais des traitements de chimiothérapie pendant cinq semaines, que je recevais 28 traitements de radiothérapie et que je subissais une chirurgie, suivie de six jours d’hospitalisation et de six autres semaines de convalescence, à la suite de quoi je serais en mesure de soulever Hazel à nouveau, de même que pendant sept autre semaines de chimiothérapie après la chirurgie. Mon chirurgien à Ottawa m’a recommandé le Dr Donald Buie, un ami chirurgien qu’il avait à Calgary, pour enlever ma tumeur.
+Or, dans sa lettre du 4 juillet, Dr Kilbertus explique la différence entre les conseils médicaux obtenus à Ottawa et ceux offerts à Calgary dans le dernier paragraphe reproduit au paragraphe 2 des présents motifs du jugement. Je suis donc saisi d’un témoignage qui, bien que son auteur n’ait pas fait l’objet d’un contre‑interrogatoire, laisse entendre qu’on offrait à Calgary des services médicaux qu’il n’était pas possible d’obtenir à Ottawa. Ayant choisi d’appliquer d’une manière libérale et humanitaire les dispositions relatives aux frais médicaux pertinentes, je conclus que le voyage d’Ottawa à l’Alberta satisfait à l’ensemble des conditions. Il était raisonnable, dans la situation très particulière de M. Young, de se rendre en Alberta pour obtenir un traitement contre son cancer qui n’était pas offert à Ottawa.
+[12] Je me pencherai maintenant sur les frais précis totalisant la somme de 3 269,02 $ qui est réclamée. M. Young a déduit 585,74 $ pour les hôtels (pour lesquels il a fourni des reçus), une indemnité de 0,479 $ pour chaque kilomètre parcouru, soit une somme totale de 1 781,88 $, ainsi que des indemnités de repas pour deux personnes totalisant 901,40 $. J’accepte les frais d’hôtel. Les frais de repas se fondaient sur les indemnités qui, selon M. Young, sont versées aux députés. Dans son bulletin d’interprétation 519R2, l’ARC propose une indemnité de 51,00 $ par jour pour les repas. Comme seuls les repas de M. Young doivent être pris en compte, selon mes calculs, ce dernier a droit à six jours, soit à 51,00 $ par jour ou 306,00 $. Les frais de véhicule à moteur, fondés sur un taux de 0,479 $ le kilomètre, correspondent, à peu de choses près, aux indemnités mentionnées dans le bulletin d’interprétation de l’ARC portant sur les frais de déplacement. J’estime que les frais demandés sont raisonnables et j’y fais droit en totalité.
+[13] Lit réglable
+Monsieur Young a engagé des frais de 2 612,90 $ pour un lit réglable de Sleep Country devant servir à son épouse dans la maison de sa fille. M. Young a reconnu qu’il ne s’agissait pas d’un lit d’hôpital en tant que tel, mais il a ajouté que ce lit possédait certaines caractéristiques qui étaient plus avantageuses pour son épouse que celles d’un lit d’hôpital. En réalité, un lit d’hôpital, avec ses barreaux sur les côtés, ne conviendrait pas à Mme Young puisqu’il faut soulever cette dernière pour la mettre au lit et l’en sortir. Le Dr Goyal, médecin de Mme Young à Calgary, a précisé ce qui suit dans une lettre qu’il a adressée à l’ARC :
+[TRADUCTION]
+Le lit de Sleep Country possède des caractéristiques simples qui augmentaient le confort et l’autonomie de Mme Young. La présence d’une télécommande, qui permet de manœuvrer le lit de façon autonome, et d’un système de vibration a énormément amélioré sa qualité de vie et ces caractéristiques ne sont pas offertes sur un lit d’hôpital. À son stade avancé de sclérose en plaques, tous les petits avantages susceptibles de lui procurer du confort permettaient d’améliorer sa qualité de vie.
+[14] L’alinéa 5700h) du Règlement de l’impôt sur le revenu (le « Règlement ») fait expressément référence à un « lit d’hôpital ». Dans la décision Crockart c. R.[1], le juge Bowie devait se prononcer sur une affaire analogue à celle dont je suis saisi et où un particulier atteint de sclérose en plaques avait besoin d’un lit réglable. Il a conclu qu’il ne convenait pas d’interpréter l’expression « lit d’hôpital » d’une façon trop étroite :
+Je ne crois pas que c’était l’intention du législateur, lorsqu’il a adopté l’article 118.2, ni celle du gouverneur‑en‑conseil, en sanctionnant le règlement 5700, de restreindre l’admissibilité au crédit d’impôt en cause de façon à la refuser à M. Crockart parce qu’il a acheté un lit possédant les caractéristiques désirables d’un « lit d’hôpital traditionnel », mais en même temps un lit plus commode pour sa femme que ne le serait le « lit d’hôpital traditionnel ».
+Je suis d’accord avec le juge Bowie et j’estime que le lit en cause, lequel remplit les exigences d’ordre médical de Mme Young, est visé par l’esprit de la disposition réglementaire où figure l’expression « lit d’hôpital ». L’intimée soutient que le lit ne fait pas l’objet d’une ordonnance délivrée par le médecin de Mme Young. Pourtant, l’admissibilité de cette dépense n’est pas assujettie à une telle exigence. J’autorise la déduction des frais de 2 612,90 $.
+[15] Lavabo sur colonne
+Monsieur et Madame Young ont payé 400,00 $ pour l’installation d’un lavabo sur colonne dans la maison de leur fille à Airdrie afin que Mme Young puisse plus aisément se servir d’un lavabo. Si cette dépense est admissible au titre des frais médicaux, ce doit être en application de l’alinéa 118.2(2)l.2).
+l.2) pour les frais raisonnables afférents à des rénovations ou transformations apportées à l’habitation du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a) – ne jouissant pas d’un développement physique normal ou ayant un handicap moteur grave et prolongé – pour lui permettre d’avoir accès à son habitation, de s’y déplacer ou d’y accomplir les tâches de la vie quotidienne, pourvu que ces frais, à la fois :
+[…]
+Il s’agit d’un critère à deux volets : c’est le second volet qui pose problème pour M. et Mme Young. Les frais liés au lavabo doivent être de ceux qui ne sont pas habituellement engagés par les personnes jouissant d’un développement physique normal. Il ne s’agissait pas d’un lavabo d’une conception particulière, mais simplement d’un lavabo sur colonne susceptible de se trouver dans n’importe quelle demeure ordinaire. Le second volet du critère n’a pas été rempli.
+[16] Interphone, sachets pour la tête, frais d’affranchissement, photocopie, émetteurs‑récepteurs portatifs et seringue orale
+L’appelant n’a pu me renvoyer à aucune disposition du paragraphe 188.2(2) susceptible d’englober ces éléments. Il est fort possible que ces derniers aient été nécessaires sur le plan médical mais, malheureusement pour M. Young, ce n’est pas le critère applicable. Les éléments non explicitement prévus par la législation fiscale ne font l’objet d’aucune disposition fourre‑tout permettant de les déduire comme frais médicaux simplement parce qu’ils sont nécessaires sur le plan médical. Ces éléments sont refusés.
+[17] Stationnement et taxis
+Ces frais ont été engagés alors que M. et Mme Young habitaient chez leur fille et ils n’ont pas de lien avec le voyage d’Ottawa à l’Alberta. Or, les seuls frais de déplacement auxquels je fais droit sont ceux engagés dans le cadre de ce voyage. Les déplacements qu’ils ont effectués pour se rendre à l’hôpital alors qu’ils vivaient à Edmonton et à Airdrie n’ont pas été acceptés. Les frais supportés au titre du stationnement et des taxis à l’occasion de ces déplacements ne peuvent donc pas être déduits.
+[18] Herbes médicinales, vitamines et médicaments vendus sans ordonnance
+Les règles de droit applicables sur ce point ont été clairement établies dans de récents arrêts, comme Ali c. R.[2] et Tall c. R.[3], lesquels appuient les observations antérieures formulées par la Cour d’appel fédérale dans l’arrêt Ray c. R.[4]. Pour pouvoir déduire leur coût à titre de frais médicaux en application de l’alinéa 118.2(2)n), les médicaments doivent avoir été prescrits par un médecin et leur achat doit avoir été enregistré par un pharmacien. L’appelant avance qu’un grand nombre des médicaments auraient pu être prescrits par un médecin, mais qu’il était plus économique de les acheter en vente libre. Cette assertion ne permet pas à l’appelant de se soustraire à l’exigence relative à l’établissement d’une ordonnance ni à celle relative à l’enregistrement par un pharmacien. Les règles de droit ont été modifiées en 2008 afin de préciser que les seuls médicaments susceptibles de déduction sont ceux qui peuvent légalement être acquis afin d’être utilisés par le particulier, s’ils sont prescrits par un médecin. À mon sens, il s’agit là de l’état du droit en 2007, tel qu’il a été établi par la jurisprudence. Ces frais ne sont donc pas admissibles.
+[19] Lunettes de lecture
+Selon l’alinéa 118.2(2)j), seuls les frais supportés au titre de lunettes de lecture ayant fait l’objet d’une ordonnance d’un médecin ou d’un optométriste sont admissibles. Comme je ne suis saisi d’aucun élément de preuve montrant l’existence d’une ordonnance, ces frais sont refusés.
+[20] En résumé, l’appel de l’appelant est accueilli et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a droit à des frais médicaux supplémentaires de 2 612,90 $ pour le lit et à des frais médicaux supplémentaires de 2 673,62 $ pour le déplacement, soit un total de 5 286,52 $.
+Signé à Ottawa, Canada, ce 16e jour de décembre 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 9e jour de mars 2010.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 628
+NO DU DOSSIER DE LA COUR : 2009-1568(IT)I
+INTITULÉ : Dennis R. Young et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 4 décembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 16 décembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Cynthia Isenor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 1999 CarswellNat 188.
+[2] 2008 CarswellNat 1629.
+[3] 2009 CAF 342.
+[4] 2004 CAF 1.

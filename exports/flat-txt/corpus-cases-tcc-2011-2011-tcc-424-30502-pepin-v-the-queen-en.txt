@@ -1,0 +1,532 @@
+Title: Pepin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30502/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-424-30502-pepin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-09-16
+
+# Pepin v. The Queen
+
+- Citation: 2011 TCC 424
+- Decision date: 2011-09-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7242, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pepin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-16
+Neutral citation
+2011 TCC 424
+File numbers
+2007-2051(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2051(IT)G
+BETWEEN:
+JEAN-PIERRE PÉPIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on May 31, June 1 and 2, 2010, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Denis Racine
+Counsel for the respondent:
+Claude Lamoureux
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals from the reassessments made pursuant to the Income Tax Act, dated April 7, 2005, for the 2001 taxation year and July 14, 2005, for the 2002 and 2003 taxation years, are allowed in part and the assessments in question are referred back to the Minister of National Revenue for reconsideration and reassessment to give effect to the admissions and concessions of the parties and the findings in the attached Reasons for Judgment and to impose penalties pursuant to subsection 163(2) of the Income Tax Act with regard to the sum of $16,423,85 for the 2003 taxation year and the sum of $50,691 for the 2002 taxation year.
+Each party shall bear its own costs.
+Signed at Ottawa, Canada, this 16th day of September 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 23rd day of December 2011.
+Erich Klein, Revisor
+Citation: 2011 TCC 424
+Date: 20110916
+Docket: 2007-2051(IT)G
+BETWEEN:
+JEAN-PIERRE PÉPIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Favreau J.
+[1] These are appeals from reassessments made pursuant to the Income Tax Act, R.S.C. 1985, c. 1 (5th Suppl.), as amended (the Act), dated April 7, 2005, for the 2001 taxation year and July 14, 1005, for the 2002 and 2003 taxation years.
+[2] By these reassessments, the Minister of National Revenue (the Minister) determined the tax payable by the appellant by making the following changes:
+2001
+$
+2002
+$
+2003
+$
+Total
+$
+(a) Unreported capital gain
+(b) Rental income
+(c) Unreported business income
+(d) Capitalizable expenditures
+(e) Disallowed operating expenses
+Total of changes to income
+2,550
+117,234
+106,831
+30,904
+257,529
+41,283
+139,341
+111,669
+292,293
+18,044
+107,529
+87,847
+81,703
+295,123
+18,044
+2,550
+266,046
+334,019
+224,276
+844,935
+[3] In the same assessments, the Minister imposed with regard to the following amounts the gross negligence penalty under subsection 163(2) of the Act:
+2001
+$
+2002
+$
+2003
+$
+(a) Unreported capital gain
+(b) Unreported business income
+(c) Disallowed operating expenses
+Total
+117,234
+117,234
+33,667
+84,358
+118,025
+18,044
+107,529
+127,573
+[4] In making the reassessments at issue, the Minister relied on the following assumptions of fact set out in paragraph 17 of the Amended Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The appellant worked as a researcher, author and distributor of historical and genealogical works. [admitted]
+(b) During the years at issue, the appellant was the sole owner of a business operating under the names: [admitted]
+- Diffusion généalogique Pépin;
+- Collection Crève-Rêve;
+- Collection notre Patrimoine Familial;
+- Collection notre Patrimoine national;
+- Diffusion généalogique Drouin;
+- Institut Drouin;
+- Institut généalogique Drouin (1899-2000);
+- Les généalogies Drouin;
+- Les services généalogiques Drouin;
+- Les Éditions historiques et généalogiques Drouin;
+- Les Éditions Historiques et généalogiques Pépin;
+(hereinafter Institut Drouin).
+(c) Institut Drouin published and distributed historical and genealogical books and microfilms. [admitted]
+(d) The appellant did all the bookkeeping and took care of all of Institut Drouin's operations. [admitted]
+(e) For the years at issue, the appellant did not have adequate bookkeeping for his business, that is, bookkeeping that would permit an audit of his books and accounting records. [denied]
+(f) The appellant's only source of income was from the business Institut Drouin. [admitted]
+(g) The appellant did not want to complete the cost of living form. [admitted]
+(h) The appellant declared the following net income (loss). [admitted]
+Taxation year
+Net income
+(Net loss)
+2001
+$12,380.70
+2002
+($110,667.24)
+2003
+($183,294.62)
+UNREPORTED CAPITAL GAIN
+(i) On March 28, 2003, the appellant sold a property located at 753 and 755 Goyette Street, Longueuil, Quebec, for $134,700. [admitted]
+(j) On March 30, 2000, the appellant had purchased the property at 753 and 755 Goyette Street, Longueuil, Quebec, for $95,000. [admitted]
+(k) The profit made on the sale of the property at 753 and 755 Goyette Street, Longueuil, Quebec, was taxed as a capital gain for the 2003 taxation year. [admitted]
+(l) The capital gain was calculated as follows: [denied as calculated]
+Sale price
+$134,700.00
+Penalty
+($3,201.59)
+Notary's fee
+($411.32)
+Net sale price
+$131,087.09
+ACB
+($95,000.00)
+Capital gain
+$35,087.09
+Rate
+50%
+Taxable capital gain
+$18,043.55
+RENTAL INCOME
+(m) For the 2001 taxation year, the appellant's rental property located at 753 and 755 Goyette Street, Longueuil, Quebec, generated rental income of $5,400.00 and occasioned expenditures of $2,850.38. [admitted]
+(n) The net rental income of $2,550.00 was added to the appellant's taxable income. [denied]
+(o) The mortgage finance charges of $9,245.34 were not entered with the rental expenses but were entered instead as a business expense. [denied]
+UNREPORTED BUSINESS INCOME
+(p) For the 2001, 2002 and 2003 taxation years, the appellant reported $346,614.88, $319,392.16 and $174,234.38 in gross business income in its income tax return. [denied]
+(q) Following an audit by the Minister, it was established that the appellant had neglected to declare $117,234.00, $41,283.00 and $107,529.00 in business income for the 2001, 2002, and 2003 taxation years. [denied]
+(r) This unreported income was established using the bank deposit review method, the results of which can be found in a table in Annex I of this Reply to the Notice of Appeal. [denied]
+CAPITALIZABLE EXPENDITURES
+(s) The appellant purchases documents such as baptism, marriage and death certificates, records from cities and villages, city directories, computerized equipment, personal collections and microfilms. [admitted]
+(t) The documents are used to create books and CD-ROMs and to build digital genealogical databases. [admitted]
+(u) Digitization is a process by which the documents purchased are transformed into a series of digital values or digital images that are found in a database. [admitted]
+(v) The database could be used to produce CD-ROMs. [admitted]
+(w) The database could be sold to public institutions to which users would pay consultation fees to conduct research. [admitted]
+(x) The appellant keeps the documents after they are digitized or integrated into genealogical or historical works. [admitted]
+(y) The digitized documents constitute a database that will generate long-term income. [denied]
+(z) The expense for purchasing the documents is an expense for the creation of an asset for the benefit of the business. [denied]
+DISALLOWED OPERATING EXPENSES
+(aa) The disallowed operating expenses for the 2001 taxation year are: [denied]
+2001
+Professional fees
+$1,009.92
+Advertising
+$825.00
+Expenses
+$17,453.73
+Purchases
+$944.00
+Auto and transportation
+$7,214.37
+Finance charges
+$2,481.44
+Rental expenses
+$975.61
+$30,904.07
+(cc) The Minister disallowed the deduction of $1,009.92 in professional fees. [denied]
+(dd) The $1,009.92 was for notary’s fees for the preparation, for the appellant and his wife, of wills and of powers of attorney in the event of incapacity. [denied]
+(ee) The Minister disallowed the deduction of $825.00 as a business expense. [denied]
+(ff) $775.00 of that amount represents donations by various authors. [denied]
+(gg) $50 of that same amount represents fees for participation in a golf tournament. [denied]
+(hh) The amounts of $944.00 and $17,453.73 represent purchases of capitalizable property. [denied]
+(ii) The appellant deducted $15,454.37 as transportation expenses. [denied]
+(jj) The Minister calculated a total expense amount of $10,986.67 and 25% personal use of the automobile. [denied]
+(kk) The deductible amount is $8,240.00. [denied]
+(ll) In calculating his net business income, the appellant included financing fees for the building at 753 and 755 Goyette Street, Longueuil, Quebec, under business expenditures. [denied]
+(mm) According to the appellant's records, the amount of the finance charges was $23,890.75. [denied]
+(nn) The appellant deducted $26,313.87 in finance charges in his income tax return. [denied]
+(oo) The appellant deducted $4,059.09 as a home office expense for the residence at 2855 Belcourt Street, Longueuil, Quebec. [admitted]
+(pp) The Minister determined that the total expense for the home office was $6,166.93. [admitted]
+(qq) The Minister took into consideration 50% personal use of the residence located at 2855 Belcourt Street, Longueuil, Quebec. [admitted]
+(rr) The Minister determined that the amount allowable for deduction was $3,083.48, that is, the total amount of the home office expense of $6,166.93 multiplied by 50%. [admitted]
+(ss) For the 2002-2003 taxation year, the disallowed operating expenses were: [denied]
+2002
+Charitable donations
+$7,638.72
+Salary advances
+$6,800.00
+Rent
+$1,349.49
+Communications
+$574.34
+Transportation costs
+$9,611.73
+Home office
+$1,208.48
+Personal expenses
+$271.85
+Unsubstantiated expenses
+$24,990.16
+Other expenses
+$59,224.65
+Total
+$111,669.42
+2003
+Charitable donations
+$32,035.90
+Professional fees
+$20,007.92
+Salary advances
+$14,773.27
+Rent
+$315.81
+Communications
+$1,320.00
+Transportation costs
+$4,021.74
+Home office
+$2,548.00
+Finance charges
+$6,681.16
+Total
+$81,703.80
+(tt) The appellant deducted donation amounts as advertising expenses for the business called Institut Drouin. [denied]
+(uu) The donations were made by the appellant or by the authors with whom Institut Drouin had publishing contracts. [denied]
+(vv) The Minister disallowed the expense amount for professional fees because the appellant did not provide any supporting documents to prove the expenses. [denied]
+(ww) The Minster disallowed the amounts for salary advances because the amounts were allegedly claimed twice. [denied]
+(xx) The Minister disallowed the expense amounts for electricity at the rental property because the expenses were not incurred to earn income. [denied]
+(yy) The Minister disallowed the communications expense amounts because the appellant did not provide any supporting documents to prove the expenses. [denied]
+(zz) The Minister disallowed the transportation expense amounts because the appellant claimed vehicle operating expenses and mileage. [denied]
+(aaa) The Minister disallowed the home office expenses because the appellant used a unit in the duplex he owned as a warehouse. [denied]
+(bbb) The Minister disallowed 50% of the finance charges (mortgage interest) because the personal portion of the appellant's residence had to be taken into account. [denied]
+(ccc) The $59,224.65 "other expenses" amount represents.
+(i) An unreasonable $423 convention registration fee expense. [denied]
+(ii) A $1,999.99 expense covered by the Société historique du Marigot. [denied]
+(iii) A $965 personal expense for the building located at 753 and 755 Goyette Street, Longueuil, Quebec). [denied]
+(iv) A $2,459.29 expense for the purchase of a computer, covered by the Société historique du Marigot. [denied]
+(v) A $53,375.37 expense with no supporting documentation to prove any of it. [denied]
+[5] To impose the penalties for the 2001, 2002 and 2003 taxation years, the Minister relied, in particular, on the following assumptions of fact set out at paragraph 18 of the Reply to the Notice of Appeal:
+[translation]
+(i) The appellant has previously worked as a real estate agent. [admitted]
+(ii) The appellant disclosed to the auditor that he wished to exclude from tax the profit from the sale of the building at 753 and 755 Goyette Street, Longueuil, Quebec. [denied]
+(iii) The appellant did the bookkeeping and took care of all of the business's operations. [admitted]
+(iv) During the audit of the appellant, the Minister asked him to submit a personal balance sheet for the years in question, but the appellant refused to do so. [denied]
+(v) The appellant claimed two false invoices as expenses for the business called Institut Drouin. [denied]
+(vi) The two invoices are dated October 14, 2002, and were ostensibly from the Société historique du Marigot. [denied]
+(vii) The Société historique du Marigot is a non-profit organization funded by government subsidies. [denied]
+(viii) The appellant is the vice-president of the Société historique du Marigot. [denied]
+(ix) The two invoices were prepared by the appellant. [denied]
+(x) The two invoices are from a receipt book. [denied]
+(xi) Invoice number 426598 is for computer graphics work and tree preparation. [denied]
+(xii) The work was performed from January 2002 to October 2002. [denied]
+(xiii) The invoice was to be paid by Institut Drouin at the [TRANSLATION] "end of the project in 2004 or 2005". [denied]
+(xiv) Invoice number 426597 is for numeric filing work, CD‑ROM production and work on a website. [denied]
+(xv) The invoice was to be paid by Institut Drouin upon [TRANSLATION] "receipt of Longueuil order in 2004". [denied]
+(xvi) The Société historique du Marigot does not have a duplicate of the two invoices in its records. [denied]
+(xvii) On December 14, 2004, the president of the Société historique du Marigot confirmed that for the 2002-2003 fiscal year, the only amount entered in the books under accounts receivable was a subsidy to be received from the Minister of Revenue. [denied]
+(xviii) On December 14, 2004, the president of the Société historique du Marigot confirmed that all the invoices for the Société were produced by a computerized system and that the Société never used invoices from a receipt book. [denied]
+(xix) For the 2001 taxation year, the unreported business income of $117,234 represents 33.82% of the declared business income. [denied]
+(xx) For the 2002 taxation year, the unreported business income of $33,667 represents 10.5% of the declared business income. [denied]
+(xxi) For the 2003 taxation year, the unreported business income of $107,529 represents 62.4% of the declared business income. [denied]
+APPELLANT'S EXPLANATIONS
+Unreported capital gain
+[6] The appellant admits he failed to declare the capital gain in his income tax return for the 2003 taxation year because of a simple omission by the person who prepared his tax return and because the gain would have had no effect on the tax payable for that year since losses of $183,294.62 were reported. The capital gain was declared in the appellant's 2004 income tax return, and the appellant indicated that the auditor did not consider transfer tax of $1,014.00 or a $2,224.58 invoice for electrical repairs when calculating the adjusted cost base of the property. If these additions are taken into account, the adjusted cost base should have been $98,239.38, resulting in a capital gain of $32,877.71 and a taxable capital gain of $16,423.85 rather than $18,044.00.
+Rental income
+[7] The appellant indicated that the amounts referred to in subparagraphs 17(m) to (o) of the Amended Reply to the Notice of Appeal were indeed declared in his 2001 income tax return. According to the appellant, the auditor chose to show the rental income without considering the finance charges.
+Unreported business income
+[8] According to the appellant, the auditor changed the appellant's cash accounting to accrual accounting for the years 2001, 2002 and 2003. In so doing, the auditor:
+(a) added, for 2001, the total accounts receivable to December 31, 2001, of $17,404.90, which had been added to income for 2002, but not subtracted;
+(b) did not attribute to 2000 the accounts receivable to December 31, 2000, of $39,600, but added them to income for 2001;
+(c) added, when calculating income for 2002, the accounts receivable to December 31, 2002, of $45,048.40, and when calculating income for 2003, the accounts receivable to December 31, 2003, of $26,158.84.
+[9] At paragraphs 19 to 30 of the Answer to the Amended Reply to the Notice of Appeal, the appellant provided the following explanations regarding the unexplained discrepancies in income the amounts of which were added to his income for each of the 2001, 2002 and 2003 taxation years:
+[translation]
+19. He added to income for 2001 an unexplained income discrepancy of $79,013.26.
+20. This discrepancy consists of cash advances obtained by the appellant from his financial institution on his lines of credit.
+21. Again in 2001, the assessor added to income an amount of $20,815.59 from the personal account.
+22. To do so, he used all deposits made to the appellant's personal (not business) account for which the source was not clearly established.
+23. This method is unjustified because it is purely arbitrary and puts the taxpayer, who does not have to keep accounting records for his personal accounts, in a situation where it is difficult for him to prove the source of the deposits, since he has not kept supporting documents, contrary to what is done in the case of a business account.
+24. Operations in the appellant's personal account generally originated from transfers from his business account, amounts from his wife or various personal reimbursements.
+25. For example, the assessor considers as unreported income a deposit of $3,500 made on December 20, 2001, when this was actually a transfer from the business account, and a deposit of $2,365 made on October 30, 2001, $2,300 of which was also from the business account.
+26. The same can be said for 2002 ($12,861.12) and 2003 ($59,543.40).
+27. Thus, in the course of 2003, the appellant deposited a total of $162,642.92 in his personal account, $59,543.40 of which was considered by the assessor as unreported business income.
+28. However, on April 1, 2003, the appellant deposited in his personal account two cheques, one for $95,618.32 and the other for $36,792.47, that were proceeds from the sale of the house with respect to which the respondent is claiming there was a capital gain (see paragraph 17(l) of the Amended Reply to the Notice of Appeal).
+29. It is quite clear that the respondent cannot claim there was a capital gain and at the same time claim that the amounts were business income, as this amounts to taxing the taxpayer twice for the same amounts.
+30. Moreover, the assessor considered an $8,000 deposit in the personal account made on September 8, 2003, as unreported business income when it was in fact an advance to the appellant on a $10,000 line of credit granted by his Caisse Populaire.
+Capitalizable expenses
+[10] According to the appellant, the respondent only considered expenses related to the database and neglected to include any of the expenses for the creation of the works offered for sale, which have short lives because of market conditions and the small print runs, as the appellant explained at subparagraphs 6(a) to (e) and 6(g) of his Amended Notice to Appeal:
+[translation]
+6. (a) The appellant is an author, publisher and distributor of historical and genealogical information on paper, on CD, on DVD, on hard drive, on the Internet and on microfilm.
+(b) The appellant's products are highly specialized and the dates of sales are very uncertain.
+(c) Inventory at the end of a fiscal year thus quickly becomes outdated.
+(d) As a result, if they cannot be deducted in the current year, expenses must be reconciled with sales and inventory, and certainly not capitalized over long amortization periods as the assessor did.
+(e) Moreover, expenses related to authors (professional fees for research and drafting, copyright) were, curiously, allowed by the assessor for some years and disallowed for others.
+(g) Additionally, some CD-ROM purchases were disallowed and others capitalized, although they were purchased and resold in the weeks following their purchase.
+Disallowed operating expenses
+[11] The appellant's explanations on this are found at paragraphs 34 to 63 (inclusively) of the Answer to the Amended Reply to the Notice of Appeal. The points that deal specifically with expenses are the following:
+[translation]
+35. At paragraphs 17(cc) and (dd) of the Amended Reply to the Notice of Appeal, the expenses should have been allowed because it was a formal requirement of the financial institution that offered financing to the business.
+36. At paragraph 17(gg) of the Amended Reply to the Notice of Appeal, the $50 was for advertising required of its suppliers by the city (one of the appellant's clients), which was organizing the golf tournament; it was not the fee for participating in the tournament; the appellant does not golf and does not know anything about the sport.
+37. At paragraphs 17(ii) and 17(kk) of the Amended Reply to the Notice of Appeal, although the appellant calculated his transportation expenses by adding other expenses, which he should not have done, the assessor still miscalculated those expenses using the allowance-per-kilometre method.
+38. The appellant drove 38,488 kilometres with his vehicle in 2001.
+39. Applying an allowance of $0.41 on the first 5,000 km and $0.35 on the balance, the expenses would be $13,770 minus 25% for personal use, for a deductible amount of $10,328.10 instead of the $8,240 determined by the assessor.
+45. As for the disallowed professional fees of $20,007.92 for 2003, the assessor did not allow the following professional fees paid to the following people in the 4th quarter of 2003:
+(a)
+Suzanne Desfossés
+$2,360
+(b)
+Guy Perron
+$1,740
+(c)
+Élaine Després
+$1,000
+(d)
+Jacques Poitras
+$3,300
+(e)
+Paul‑Émile Racan-Bastien
+$600
+(f)
+Marie-Catherine Jetté
+$2,500
+(g)
+François-Xavier Jetté
+$2,500
+$14,000
+And the following for the 2nd quarter:
+(h)
+Denis Beauregard
+$4,187
+(i)
+Lise Blanchette
+$300
+46. The assessor claims that the appellant had no invoices showing names, addresses and the nature of the services rendered; with regard to that, he refused to examine the contracts concluded with those individuals.
+47. The individuals in question did freelance work for the appellant in relation to the activities carried on by him; some of them issued invoices; others did not, which is common in the appellant's field of work.
+48. Nonetheless, all of those individuals were paid by cheque, and the appellant has copies of the cheques.
+49. Moreover, the assessor went with the appellant to see some of those individuals, who confirmed that they had worked for the appellant, had received the above-mentioned payments and had included them in their income tax returns for 2003.
+50. The Department cannot have it both ways, refusing deductibility on the one hand and including in the income of the recipient on the other.
+51. What is more, it is odd that the assessor allowed the deduction of amounts paid to the same individuals for the 3rd quarter of 2003 but not for the 4th quarter.
+52. With regard to transportation costs for 2002, the appellant makes the same statement as in paragraph 39.
+53. His mileage for 2002 was 33,721 km.
+54. Applying the same principles, the deduction should have been $9,075.76 for 2002 and not $7,344.37 as determined by the assessor.
+55. In subparagraph 17(ccc)(i) the expense referred to is for participation in the biennial convention of the Fédération québécoise des sociétés de généalogie at which the appellant had a booth in the exhibitors’ hall and which was attended by many of his clients.
+56. As for subparagraph 17(ccc)(ii), the appellant states that, with respect to the websites, he was associated with the Société historique du Marigot, that the Société paid the fees, and that he reimbursed it the part thereof related to his participation, which explains the $1,999.99 figure.
+57. With respect to subparagraph 17(ccc) (iv), the explanation is the same as in the preceding paragraph.
+58. In subparagraph 17(ccc)(v), the amount shown represents expenses incurred at public auctions for the purchase of old notarized contracts that the appellant uses to prepare his publications; these documents are contained in 90 cases currently in the appellant's possession.
+59. The auctions are often conducted on eBay, at the Marché philatélique de Montréal or through Roland Arsenault of the Fédération québécoise de philatélie.
+60. At these types of auctions, it is very difficult to get receipts or invoices.
+61. That is why the appellant kept whatever supporting documents he could (for example: debit note), but these were all rejected by the assessor.
+63. The appellant wishes to explain what the respondent called the "two false invoices" from the Société historique du Marigot (the Société):
+(a) The Société helped the appellant prepare the Fonds Drouin (FDN) digital records and provided various services to him.
+(b) The two invoices were in fact contracts whereby the appellant committed to pay the Société $38,711 and $11,980 plus tax in the event that the amalgamated City of Longueuil purchased three copies of the FDN.
+(c) This agreement is referred to on the two invoices through the payment deadline notation.
+(d) Negotiations with the City of Longueuil stalled because of the referenda on de-amalgamation and the actual de-amalgamation of some (4) cities, leaving only three administrative divisions in the new City of Longueuil.
+(e) As a result, the contract of sale that was concluded with the City in November 2007 was for only a single copy of the FDN at a price of $140,000 instead of three copies for $375,000.
+(f) The profit the appellant had hoped to earn from this sale was consequently much lower and the parties agreed (City of Longueuil order, appended hereto) that the societies would receive $15,000 instead of $50,691; that amount was paid by the appellant to the societies in the administrative divisions, including $3,400 to the Société historique du Marigot and $11,600 to the three others, on November 23, 2007.
+(g) The appellant should have considered the two invoices as a contract constituting an account payable and credited the difference when everything was settled in 2007, or alternatively, not have taken the contract into account in 2002 and not made the entries until 2007; the appellant, in his fourth quarterly GST/QST return, for the period from October to December 2007, credited the difference of $35,691 and taxes.
+(h) This does not make the appellant a delinquent, as the respondent likes to characterize him in claiming penalties from him.
+AUDIT METHOD
+[12] The Canada Revenue Agency (CRA) auditor used the deposit method in auditing the appellant's affairs rather than the net worth method because the appellant refused to provide information on his cost of living and to sign the bank authorizations.
+[13] The auditor indicated in a report that the appellant declared his income according to the cash method until December 31, 2001, and that, after an audit by the Quebec tax authorities, he got his accounting records in order, including in income amounts billed in the current year but collected in the following year. He thus established his accounts receivable for the first time at the end of 2001.
+[14] The auditor noted that the appellant did not use the services of an accountant for either the preparation of his income tax returns or to obtain tax advice concerning certain purchases of goods and services. The appellant did the bookkeeping and took care of all the business's operations. According to the auditor, the bookkeeping was inadequate except for the sales accounting, which was done well. There was no purchase journal, invoices were filed by quarter in a box, and all expenses, whether capital expenditures or operating expenditures, were deducted from sales. Many expenses were not supported by documentation. The input tax credits could be deposited in the appellant's personal account or in the business’s bank account depending on the appellant's financial needs.
+[15] In April 2010, the appellant mandated Roger Landreville, a chartered accountant, to redo the entire accounting for 2001, 2002 and 2003 using accrual accounting and to reconcile the bank deposits for each of those years. He submitted his report in May 2010 in preparation for the hearing of this case.
+[16] The work of the accountant, Mr. Landreville, showed that the accrual accounting resulted in a total difference (income reduction) of $213,332, for the three years, between the revised gross income according to the CRA figures (cash accounting) and the revised gross income according to his own figures. This $213,332 difference must be reduced by $46,186.55, namely, the amount of the accounts receivable as at December 31, 2000, because it was not included in the income for 2000.
+ADMISSIONS AND CONCESSIONS
+[17] During the hearing, the parties made the following admissions and concessions:
+(a) The appellant must use accrual accounting to report his income for the 2001, 2002 and 2003 taxation years.
+(b) The accounts receivable as at December 31 of each taxation year in issue were:
+2001: $26,612.63
+2002: $63,935.37
+2003: $25,842.08
+(c) The unreported capital gain for 2003 should be $32,877.71 which gives a taxable capital gain of $16,423.85.
+(d) The following additional expenses for the use of a vehicle should be allowed:
+2001: $2,088
+2002: $1,733
+(e) The $50 expense incurred in 2001 to sponsor a golf tournament and the $425 convention fee claimed for 2002 must be allowed.
+(f) The professional fees of $8,000 paid to Michel Pratt and $300 to Lise Blanchette must be allowed as deductible expenses for 2003.
+(g) The salary advances of $2,250 to the Société historique du Marigot inc. must be allowed as deductible expenses for 2002.
+(h) The purchase cost, totalling $1,999.98, of computer equipment that the Société historique du Marigot inc. ordered, but which the appellant paid for, in 2002 must be allowed as a capitalizable expense.
+(i) Three cheques for a total of $675 made out to the Société de généalogie du Québec, Robert Gagnon and Jacques Poitras must be allowed as deductible expenses for 2002.
+ANALYSIS
+The audit method and the unreported income
+[18] Determining, for the purposes of section 9 of the Act, the profit from operating a business generally requires a calculation of income using the accrual accounting method, except in the case of farming or fishing businesses. In the case at bar, accrual accounting was required and the appellant ultimately met the requirement.
+[19] Considering the state of the appellant's accounting and his lack of cooperation, the CRA auditor was justified in proceeding using the deposit method even though this is an unreliable method and requires a number of adjustments. It was not up to the CRA to redo the appellant's accounting.
+[20] However, the reconciliation of deposits that the accountant, Mr. Landreville, conducted with respect to the three years at issue using accrual accounting tends to indicate that the appellant did not hide income because the difference between the gross income reported and the revised gross income is not significant:
+2001
+$
+2002
+$
+2003
+$
+Gross income reported
+346,614.00
+319,392.00
+174,234.00
+Revised gross income
+354,602.34
+256,882.73
+168,618.17
+[21] By conducting the reconciliation of bank deposits using accrual accounting, the appellant demolished with prima facie evidence the Minister's assumptions set out in the assessment. It was also shown that amounts transferred from the business account to the personal account were added to the unreported income although all the bank statements were available for review. Moreover, all the reimbursements for personal expenses were added to the unreported income. The Quebec sales tax rebates and the input tax credits that were deposited in the appellant's personal bank account were added to the unreported income. The entire proceeds of the sale of the property were included in the unreported income even though the transaction resulted in a capital gain. Lastly, an $8,000 advance to the appellant by his spouse was added to the appellant's unreported business income.
+[22] Considering the elements referred to in the preceding paragraph and the fact that the appellant's sales accounting was adequate, the appellant met his burden of proof such that the onus was now on the Minister to submit evidence that the income existed, which was not done. The unreported business income must therefore be deducted from the reassessments.
+Rental income
+[23] A net rental income of $2,550 was added to the income for 2001. According to the evidence, the gross rental income of $5,400 was included in the bank deposits and in the gross income reported for 2001. As a result, this rental income must be subtracted from the changes made to income.
+Capitalizable expenses
+[24] These expenses represent purchases of goods, such as baptism, marriage and death certificates, city, village and parish records, computer equipment, personal collections and microfilms, and expenses for digitization, that is, the process by which physical documents are converted into a series of numeric or digital values, or into digital images. All the digitized documents make up a database that is accessible by Internet or intranet and from which CD-ROMs can be produced. It is a sort of electronic library.
+[25] The CRA disallowed a $334,019 operating expense deduction for the three years at issue. The accountant, Mr. Landreville, conducted a review of the capitalizable expenses as calculated by the CRA, and analyzed the capitalized expenditures and the documentary evidence relating thereto. According to his analysis, the majority of the expenses were for the digitization services provided by the company Xébec and the Société historique du Marigot inc. and for purchases of contracts, for a combined total of $306,225.38.
+[26] Despite his analysis, the accountant, Mr. Landreville, challenges the validity of the capitalization of these expenses. According to the CRA auditor, these expenses confer a lasting advantage and should, therefore, be included in a prescribed class and depreciated according to the designated depreciation rate, which must be applied to the declining balance of the category of goods. In support of his position, the auditor relied on Section 3061 of the Canadian Institute of Chartered Accountants (CICA) Handbook that defines "property, plant and equipment" as follows:
+(a) Property, plant and equipment are identifiable tangible assets that meet all of the following criteria:
+(i) are held for use in the production or supply of goods and services . . .
+(ii) have been acquired, constructed or developed with the intention of being used on a continuing basis; and
+(iii) are not intended for sale in the ordinary course of business.
+. . .
+(b) Cost is the amount of consideration given up to acquire, construct, develop, or better an item of property, plant and equipment and includes all costs directly attributable to the acquisition, construction, development or betterment of the asset including installing it at the location and in the condition necessary for its intended use. . . .
+[27] The accountant, Mr. Landreville, maintains that the expenses capitalized by the auditor do not meet criteria 2 and 3 of the definition of "property, plant and equipment" because those expenses were not incurred to create goods to be used on a continuing basis, but were incurred, rather, to create goods for sale in the ordinary course of business. In support of his argument, he relied on the fact that the digitization work began in 2001 and the sales related to this work occurred in early 2002.
+[28] The appellant's master collection originally consisted of 2,366 microfilms and 3,600,000 images. The entire collection was contained in six volumes and sold for $75,000. With computerization, the 2,366 microfilms were transferred to 1,700 CD-ROMs and 100 DVDs. This operation took place progressively as orders came in, but still created an accumulated deficit of more than $600,000 over six years. In the fall of 2006, the complete collection on CD-ROM and DVD became available on hard drives and started to produce significant income. According to the appellant's own description, the expenditures converged toward the production of a genealogical and historical tool that is now accessible on hard drives or virtually, on websites.
+[29] According to the evidence, while there were sales of compact discs during the computerization and digitization of the collection, these sales were negligible in relation to the costs of those operations. The CRA auditor allowed the production expenses for the CDs even though the appellant did not produce sales invoices and did not meet his burden of proof in this regard. Image processing contract number 9412C3M4 entered into on December 18, 2001, provided for a minimum monthly billing of $10,000 and was therefore not related to the clients' orders. The appellant terminated this contract on March 27, 2002, and replaced it with another contract with no fixed commitment. Another interesting element is that the appellant's personal balance sheet as at April 6, 2004, prepared by the accountant, Landreville, shows the $291,000 for the digitization of the collection as an investment. Moreover, possession of the appellant's collection was transferred to Micromatt Canada Ltd. in 2004 in guarantee of the loans taken out to complete the digitization.
+[30] As for the computers purchased by the appellant but made available to the Société historique du Marigot inc., it should be noted that the appellant did not produce the agreement entered into with the Société historique du Marigot inc. in that regard and did not refer to it in his appeal proceedings. Additionally, the president of the Société historique du Marigot inc., Michel Pratt, did not testify at the hearing, and so the appellant did not reverse the burden of proof in this respect.
+[31] Considering the above-noted circumstances, it seems clear to me that the database the appellant created constitutes property, plant and equipment within the meaning of Section 3061 of the CICA Handbook, and can be depreciated at the rate of 20% per year under Class 8, paragraph (i) in Schedule II of the Income Tax Regulations (see Interpretation Bulletin IT-472, paragraph 8).
+Disallowed operating expenditures
+[32] There are many types of expenses under this heading and they include, in particular, the following:
+(a) Professional fees
+The disallowed expenses in this category are $1,009.92 in 2001 and $20,007.92 in 2003. The $1,009.92 was incurred for the preparation of wills and powers of attorney for the appellant and his wife, and is therefore not deductible because it is not an expense incurred to earn income. Of the $20,007.92 in expenses incurred in 2003, $18,220.34 represented advances to authors for the publications of books. Of these advances, the $8,000 advanced to Michel Pratt and the $300 advanced to Lise Blanchette were allowed by the respondent at the hearing.
+(b) Charitable donations
+The disallowed expenses in this category are: $825 for 2001, $7,638.72 for 2002 and $31,201 for 2003. These amounts cannot be claimed as expenses because, while they do give entitlement to a tax credit, the appellant cannot avail himself of credits for donations that are authorized by the authors he represents.
+(c) Salary advances to the Société historique du Marigot inc.
+The disallowed expenses in this category are $6,800 for 2002. The appellant used the services of Société historique du Marigot inc. employees for certain work, and would advance money to pay their salaries. The appellant deducted the salary advances and deducted them again when he was billed by the Société historique du Marigot inc. for the services rendered. The invoices for services rendered already included the salary expenses. These salary advances could not, therefore, be deducted. The respondent nonetheless allowed the $2,250 deduction.
+(d) Transportation
+The disallowed expenses in this category are:
+2001: $7,214.37
+2002: $9,611.73
+2003: $3,821.74
+These expenses were disallowed because the appellant claimed both operating expenses (fuel, maintenance and repair costs, registration and licence fees, insurance premiums and rental costs) and an amount based on the number of kilometres driven. Having heard the appellant's arguments, the respondent allowed a deduction of $2,088 for 2001 and $1,733 for 2002.
+(e) Rent
+The disallowed expenses in this category are:
+2001: $975.61
+2002: $1,349.49
+2003: $2,863.81
+These expenses were disallowed because they represent charges for storage, which were not included in the appellant's income as income from property. The appellant owned a duplex in which one of the units was used as a warehouse. No adjustment is required because the treatment of these expenses is not challenged.
+(f) Home office
+The disallowed expenses in this category are $1,208.48 for 2002. The office expenses were all allowed except for this amount, which is not challenged. Therefore, no adjustment is required.
+(g) Communications
+The disallowed expenses in this category are:
+2002: $574.32
+2003: $2,155
+These expenses were disallowed because there are no documents to support them. No adjustment is required.
+(h) Finance charges
+The disallowed expenses in this category are:
+2001: $2,481,44
+2003: $6,681,16
+These expenses were disallowed because the appellant deducted all of the mortgage interest on his residence without taking into account the personal use portion of the residence (50%). As a result, 50% of the mortgage interest expense for the residence was disallowed, as was the amount of the penalty that the appellant paid to pay off the mortgage before the end of the mortgage term and that he deducted in the calculation of the capital gain realized on the disposition of the rental property. Also disallowed was the amount of the rebates received from the Caisse Populaire that were added to the finance charges. No adjustment is required.
+(i) Unidentified purchases and expenses
+The disallowed expenses in this category are with respect to unidentified purchases of $994 and unidentified expenses of $17,453.73 in 2001. These expenses were disallowed because they represent the purchase of capitalizable property. No adjustment is therefore required.
+(j) Expenses without supporting documents
+The disallowed expenses in this category are $24,990.16 for 2002. According to the appellant, these were expenses incurred at public auctions to purchase old notarized contracts. At this type of auction, it is difficult to obtain receipts or invoices. Such auctions are conducted on eBay, at the Marché philatélique de Montréal or through Roland Arsenault of the Fédération québécoise de philatélie. The expenses for these purchases cannot be deducted in the calculation of the appellant's income. At best, they could have been capitalized subject to proof of purchase being provided. Mr. Arsenault's testimony could have been useful here.
+(k) Other disallowed expenses
+The expenses in this category total $53,650.29 for 2002 and $14,973 for 2003. The 2003 expenses represent salary advances to the Société historique du Marigot inc. and the 2002 expenses represent, to the extent of $50,691, the two invoices from the Société historique du Marigot inc., one for $38,711 and the other for $11,980, to which paragraphs 5 and 11 of these reasons refer (in particular paragraph 63 of the Answer to the Amended Reply to the Notice of Appeal). These handwritten invoices, referred to as "two false invoices" by the respondent, should not have been written or issued by the appellant on behalf of the Société historique du Marigot inc. and should not have been deducted in the calculation of the appellant's income for 2002 since they were only payable upon completion of the project in 2004 or 2005, and only upon receipt of the order from the City of Longueuil (contingent amount). In the end, the appellant only paid $3,400 to the Société historique du Marigot inc. in November 2007. In the circumstances, the amount of these two invoices is not deductible in the calculation of the appellant's income for 2002.
+Penalties
+[33] The penalties the Minister imposed are those provided for in subsection 163(2) of the Act, which states:
+False statements or omissions — Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of . . . .
+[34] Considering the circumstances described above, I am of the opinion that the penalties for the 2002 and 2003 taxation years are justified. The appellant did not report the taxable capital gain of $16,423.85 for 2003, and claimed for 2002 non-deductible operating expenses of $50,691 (that is, the total amount of the two October 14, 2002, invoices issued in the name of the Société historique du Marigot inc.) and $33,667 (the balance of disallowed operating expenses after deduction of the $50,691). Regarding the $33,667, adjustments are required that take into account the parties' admissions and concessions and the findings in these reasons.
+[35] The appeals for the 2001, 2002 and 2003 taxation years are allowed in part, and the assessments are referred back to the Minister for reconsideration and reassessment to give effect to the admissions and concessions of the parties and the findings in these reasons and to impose penalties with regard to the unreported taxable capital gain of $16,423.85 for the 2003 taxation year and the disallowed operating expenses of $50,691 for the 2002 taxation year. Each party shall bear its own costs.
+Signed at Ottawa, Canada, this 16th day of September 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 23rd day of December 2011.
+Erich Klein, Revisor
+CITATION: 2011 TCC 424
+COURT FILE NO.: 2007-2051(IT)G
+STYLE OF CAUSE: Jean-Pierre Pépin v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: May 31, June 1 and 2, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF AMENDED JUDGMENT:October 25, 2011
+APPEARANCES:
+Counsel for the appellant:
+Denis Racine
+Counsel for the respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the appellant:
+Name: Denis Racine
+Firm: Bussières Racine et Langevin
+Quebec City, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

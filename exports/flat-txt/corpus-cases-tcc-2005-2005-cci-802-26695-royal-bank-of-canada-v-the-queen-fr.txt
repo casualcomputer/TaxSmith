@@ -1,0 +1,191 @@
+Title: Royal Bank of Canada v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26695/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-802-26695-royal-bank-of-canada-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-12-20
+
+# Royal Bank of Canada v. The Queen
+
+- Citation: 2005 CCI 802
+- Decision date: 2005-12-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3441, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Royal Bank of Canada v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-20
+Référence neutre
+2005 CCI 802
+Numéro de dossier
+2002-2478(GST)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+2002-2478(GST)G
+ENTRE :
+LA BANQUE ROYALE DU CANADA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 21 avril 2005
+Devant : L'honorable juge E. A. Bowie
+Comparutions :
+Avocat de l'appelante :
+Me James Warnock
+Avocats de l'intimée :
+Me Harry Erlichman et
+Me John McLaughlin
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en application de la Loi sur la taxe d'accise, dont l'avis est daté du 19 août 1999 et porte le numéro 05B 6491, pour la période allant du 1er novembre 1993 au 31 octobre 1997, est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2005.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 8e jour de novembre 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI802
+Date : 20051220
+Dossier : 2002-2478(GST)G
+ENTRE :
+LA BANQUE ROYALE DU CANADA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] L'appelante est une banque à charte; elle exerce des activités bancaires dans le cadre des dispositions de la Loi sur les banques[1]. Fonds d'investissement Royal Inc. ( « FIRI » ) est une filiale à 100 p. 100 de l'appelante. FIRI a conclu des contrats avec Royfund Actions Ltée, une société publique de fonds communs de placement, et avec la Compagnie Trust Royal, agissant comme fiduciaire de certains fonds communs de placement non constitués en société, en 1994. Aux termes de ces contrats, FIRI devait gérer les divers fonds communs de placement dont est composé ce qui est connu sous le nom de groupe de fonds communs de placement de la Royale et elle était tenue de fournir à ces fonds toutes sortes de services de gestion et de services administratifs, notamment en ce qui concerne la distribution, ou la prise de mesures aux fins de la distribution, de parts dans les fonds. FIRI a par la suite conclu une entente, appelée l'entente-cadre de prestation de services ( « l'ECPS » ), avec l'appelante, la Compagnie Trust Royal et la Société Trust Royal du Canada, par laquelle l'appelante fournissait à FIRI ce que l'on appelle des [TRADUCTION] « services de succursale » , afin de lui permettre ou de lui donner la possibilité d'exercer ses fonctions comme gestionnaire des divers fonds communs de placement de la Royale, plus précisément à l'égard de la vente au public de parts de fonds communs de placement et de la prestation de services continus à la clientèle. Il s'agit dans cet appel de savoir si ces services de succursale constituaient des fournitures taxables en vertu de la partie IX de la Loi sur la taxe d'accise[2] (la « Loi » ).
+[2] L'appelante a toujours maintenu que les services de succursale constituaient des fournitures taxables. Dans ses déclarations relatives à la TPS pour la période allant du 1er novembre 1993 au 31 octobre 1997, l'appelante considérait ces services comme tels; elle percevait et versait la taxe au taux de 7 p. 100 sur la contrepartie qu'elle recevait à leur égard, et elle demandait des crédits de taxe sur les intrants (les « CTI » ) à leur égard. Au mois d'août 1999, le ministre du Revenu national (le « ministre » ) a établi une cotisation à l'égard de l'appelante en vue de recouvrer ces CTI ainsi que des intérêts et une pénalité de 2 006 504,71 $ aux termes de l'article 280 de la Loi. Il n'est pas contesté que, s'il s'agissait de services financiers, ces services étaient exonérés, que la banque payait la taxe par erreur et qu'elle demandait également les CTI par erreur.
+[3] L'appel se rapporte donc aux questions ci-après énoncées :
+(i) Les services de succursale sont-ils des « services financiers » ?
+(ii) Dans l'affirmative, l'appelante est-elle assujettie à la pénalité prévue à l'article 280 de la Loi?
+[4] Avant de se pencher sur les principales questions, il faut aborder deux points. Le premier se rapporte au cadre contractuel. À cause de certains changements apportés à la structure d'entreprise du groupe de la Banque Royale, pendant une partie de la période visée par la cotisation, des contrats de prestation de services différents étaient en vigueur et des personnes morales différentes fournissaient certains des services en cause. Toutefois, le libellé contractuel pertinent est le même dans tous ces contrats et l'appel a été débattu en tenant compte du fait que les différences n'avaient en pratique aucune importance. C'est sur cette base que je procéderai à l'examen de l'affaire dans les présents motifs et je me reporterai donc au libellé du contrat tel qu'il s'appliquait durant presque toute la période et tel qu'il s'appliquait à la Banque et à FIRI en leurs qualités de parties au contrat.
+[5] Le second point se rapporte au montant de la taxe en litige. Selon l'avis de cotisation, la taxe nette établie est de 24 583 652 $; dans l'avis d'appel, il est allégué que le montant additionnel établi s'élevait à 10 469 807 $; selon la réponse, il était de 6 206 037 $; il s'agit du montant mentionné dans l'avis de décision du ministre en réponse à l'avis d'opposition de l'appelante comme représentant les CTI supplémentaires demandés par le ministre. Étant donné que la question du montant n'a pas été soulevée durant l'audience, je suppose que ce n'est pas contesté. Sinon, la question sera au besoin examinée.
+[6] La distribution de fonds communs de placement est une activité fortement réglementée. Les dispositions de la Loi sur les banques empêchent les banques de distribuer de tels fonds. FIRI existe en sa qualité de filiale de la Banque en vue de remplir les fonctions de distribution et de gestion des fonds. La fonction de distribution est réglementée par les provinces. FIRI est tenue d'être, et est, titulaire de permis délivrés par les commissions provinciales de valeurs mobilières en vue d'exercer cette activité. Les personnes qui agissent pour son compte à l'égard de la fonction de distribution doivent également être titulaires d'un permis provincial. Ces organismes provinciaux de réglementation, par l'entremise d'un organisme appelé Autorités canadiennes en valeurs mobilières, publient des Principes de réglementation (les « Principes » ) qui régissent la façon dont les filiales des institutions financières sous réglementation fédérale peuvent exercer leurs activités en matière de valeurs mobilières au moyen d'ententes conclues avec des sociétés mères du type ici en cause. Ces principes prévoient, entre autres choses, que les personnes dans les succursales bancaires peuvent être dans une situation de [TRADUCTION] « double emploi » , mais elles doivent veiller, ainsi que la banque, à s'assurer que les membres du public avec qui elles traitent au cours de la distribution de fonds communs de placement savent parfaitement qu'en ce qui concerne l'achat de fonds communs de placement, ils traitent avec la filiale qui détient un permis provincial plutôt qu'avec la banque ou avec quelque autre institution financière détenant un permis fédéral. C'est dans ce cadre que l'appelante fournissait des services de succursale à FIRI. Selon certains éléments de preuve, FIRI avait également conclu des contrats avec un certain nombre de courtiers en valeurs mobilières qui s'occupaient de la fonction de distribution pour son compte, dans certaines limites précises.
+[7] Les services de succursale en question sont définis comme suit dans l'ECPS :
+[TRADUCTION] Par « Services de succursale » , on entend la fourniture de personnel, de bureaux de succursales, de services informatiques et d'autres services nécessaires de [l'appelante] visant à permettre la vente de fonds communs de placement du Trust Royal et de RoyFund ainsi que le service continu à la clientèle;
+[8] Pour mettre en oeuvre cette notion de double emploi, au moins un employé de chaque succursale de la banque est désigné afin de fournir les services de succursale à FIRI en traitant avec les membres du public qui veulent acheter des fonds communs de placement de la Royale ou en racheter ou qui veulent conclure d'autres opérations à l'égard de ces fonds. Le personnel du siège social de FIRI assure la formation de ces personnes à l'égard des fonctions dont sont composés les services, comme le fait d'expliquer les attributs des fonds, de remplir les formulaires d'achat et de rachat ainsi que de répondre aux demandes de renseignements. Ces personnes détiennent également des permis des organismes provinciaux compétents en vue de vendre des fonds communs de placement sous le parrainage de FIRI, qui détient elle-même un permis provincial. Lorsqu'elles traitent avec le public à l'égard des fonds communs de placement, elles le font dans un bureau, à un poste de travail ou dans un autre secteur de la succursale qui n'est pas expressément réservé à cette fin exclusive. Toutefois, il y a habituellement un écriteau qui identifie cet endroit comme étant utilisé pour les affaires de FIRI. La littérature portant sur la disponibilité de fonds communs de placement et les formulaires utilisés pour l'ouverture des comptes et pour la conclusion des ventes désignent tous FIRI comme étant l'entité avec qui le public traite. Les personnes qui sont titulaires de permis les autorisant à vendre des fonds communs de placement possèdent toutes des cartes d'affaires sur lesquelles elles sont désignées, d'un côté, comme étant des employés de la banque, et de l'autre, comme étant des employés de FIRI. FIRI est dotée d'administrateurs et de dirigeants, et elle compte, à son siège social, des employés qui remplissent les fonctions du siège social de la société, mais elle ne compte pas d'employés remplissant des fonctions au niveau de la succursale, sauf ceux qui sont fournis par la banque aux termes de l'ECPS. FIRI ne possède pas et ne loue pas non plus de local à bureaux dans lequel les fonctions de la succursale sont remplies, si ce n'est l'utilisation qui est faite des succursales de la banque aux termes de l'ECPS. Tout cela est destiné à satisfaire aux exigences réglementaires qui empêchent la banque de s'occuper de la distribution de parts de fonds communs de placement et aux exigences selon lesquelles la distribution doit être effectuée par une filiale distincte, réglementée et autorisée par la province, ainsi que par des employés titulaires de permis provinciaux.
+[9] Le client qui veut acheter à la banque des parts de fonds communs de placement de la Royale est dirigé vers l'un des employés désignés, qui discute de l'opération avec le client et remplit les formulaires nécessaires. Une fois remplis et signés, les formulaires sont transmis à FIRI, avec le paiement. Ces employés répondent également aux demandes de renseignements sur des questions telles que la valeur des parts et ils remplissent les formulaires pour les clients qui veulent racheter leurs parts. La rémunération que FIRI verse à la banque pour les services de succursale n'est aucunement liée au temps réellement consacré par les employés, ni à la superficie exacte de la succursale qui est utilisée aux fins de la prestation des services de succursale au cours d'une semaine, d'un mois ou d'une année. La rémunération représente plutôt un pourcentage de la valeur nette des actifs des fonds à un moment donné.
+[10] Il est reconnu que la Loi exige que le fournisseur de services qui est assujetti à la taxe perçoive la taxe de l'acquéreur des services, au taux de 7 p. 100, sur la contrepartie des services et la Loi prévoit également que le fournisseur a droit à des crédits de taxe sur les intrants à l'égard de la taxe qu'il a payée sur les fournitures qui sont des intrants pour ces services. Il n'est pas non plus contesté que l'appelante a perçu et versé la taxe à l'égard de la fourniture à FIRI des services de succursale pour la période ici en cause et qu'elle a demandé les CTI y afférents. Toutefois, la réponse à la question de savoir si l'appelante avait droit à ces CTI ne dépend pas de la question de savoir si elle a perçu et versé la taxe, mais si la Loi l'obligeait à le faire, ce qui dépend de la question de savoir si les services qu'elle a fournis étaient des services exonérés, ce qui dépend de son côté de la question de savoir si les services sont visés par la définition de l'expression « service financier » figurant à l'article 123 de la Loi, étant donné que les services financiers sont exonérés en raison de leur inclusion dans l'annexe V, partie VII de la Loi. Les parties pertinentes de cette définition sont rédigées comme suit :
+« service financier »
+[...]
+d) l'émission, l'octroi, l'attribution, l'acceptation, l'endossement, le renouvellement, le traitement, la modification, le transfert de propriété ou le remboursement d'un effet financier;
+[...]
+"financial service" means
+...
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+[...]
+l) le fait de consentir à effectuer un service visé à l'un des alinéas a) à i) ou de prendre les mesures en vue de l'effectuer;
+(l) the agreeing to provide, or the arranging for, a service referred to in any of paragraphs (a) to (i), or
+m) un service visé par règlement.
+(m) a prescribed service,
+La présente définition exclut :
+[...]
+t) les services visés par règlement.
+but does not include
+...
+(t) a prescribed service;
+[11] Le ministre a établi la cotisation de l'appelante en se fondant sur le fait que les services de succursale étaient visés par cette définition en raison des alinéas d) et l), parce qu'elle prend des mesures en vue de « l'émission, l'octroi, l'attribution, l'acceptation, l'endossement, le renouvellement, le traitement, la modification, le transfert de propriété ou le remboursement » de parts de fonds communs de placement qui, comme on en convient, sont des effets financiers. Selon la position qu'elle a prise, l'appelante affirme qu'elle ne fait aucune de ces choses ni ne prend de mesures à cet égard, que les services qu'elle fournit à FIRI sont des services administratifs et que, de toute façon, ces services sont expressément exclus de la définition des services financiers par l'alinéa t).
+[12] L'alinéa t) de la définition doit être lu avec les paragraphes 4(2) et (3) du Règlement sur les services financiers (TPS/TVH)[3] :
+4(2) Sous réserve du paragraphe (3), pour l'application de l'alinéa t) de la définition de « service financier » , au paragraphe 123(1) de la Loi, sont visés les services suivants, sauf ceux mentionnés à l'article 3 :
+4(2) Subject to subsection (3), the following services, other than a service described in section 3, are prescribed for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Act:
+a) la communication, la collecte ou le traitement de renseignements;
+(a) the transfer, collection or processing of information, and
+b) les services administratifs, y compris ceux reliés au paiement ou au recouvrement de dividendes, d'intérêts, de capital, de créances, d'avantages ou d'autres montants, à l'exclusion des services ne portant que sur le paiement ou le recouvrement.
+(b) any administrative service, including an administrative service in relation to the payment or receipt of dividends, interest, principal, claims, benefits or other amounts, other than solely the making of the payment or the taking of the receipt.
+4(3) Pour l'application de l'alinéa t) de la définition de « service financier » , au paragraphe 123(1) de la Loi, ne sont pas visés les services mentionnés au paragraphe (2) et fournis relativement à un effet par :
+4(3) A service referred to in subsection (2) is not a prescribed service for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Act where the service is supplied with respect to an instrument by
+a) la personne à risque;
+(a) a person at risk,
+b) la personne étroitement liée à la personne à risque, si l'acquéreur du service n'est ni la personne à risque, ni une autre personne étroitement liée à celle-ci;
+(b) a person that is closely related to a person at risk, where the recipient of the service is not the person at risk or another person closely related to the person at risk, or
+c) le mandataire, le vendeur ou le courtier qui prend des mesures en vue de l'émission, du renouvellement, de la modification ou du transfert de propriété de l'effet pour le compte de la personne à risque ou d'une personne étroitement liée à celle-ci.
+(c) an agent, salesperson or broker who arranges for the issuance, renewal or variation, or the transfer of ownership, of the instrument for a person at risk or a person closely related to the person at risk.
+[13] L'argument de l'appelante peut être résumé comme suit. Les dispositions de l'article 415 de la Loi sur les banques et de l'alinéa 2d) du Règlement sur les restrictions applicables au commerce des valeurs mobilières (banques)[4] (le « Règlement » ) empêchent l'appelante de s'occuper de la distribution de fonds communs de placement. Ces dispositions sont rédigées comme suit :
+415 Il est interdit à la banque, dans la mesure prévue par les règlements pris par le gouverneur en conseil pour l'application du présent article, de faire au Canada, le commerce des valeurs mobilières.
+2 Il est interdit à toute banque d'exercer au Canada l'une ou l'autre des activités suivantes dans le cadre du commerce des valeurs mobilières :
+[...]
+d) l'exercice de la fonction d'agent de placement dans le placement de fonds mutuels.
+Il est soutenu que la banque fournit les services du personnel ainsi que l'utilisation des locaux dans lesquels le personnel travaille, comme le prévoit le paragraphe 3.1 de l'ECPS. Il est rédigé comme suit :
+[TRADUCTION]
+3.1 Fourniture de services de succursale
+[L'appelante] s'engage envers FIRI à lui fournir des services de succursale en vue de faciliter la distribution de fonds communs de placement du Trust Royal et de RoyFund. Il est entendu et convenu entre FIRI et [l'appelante] que les membres du personnel sont des employés de [l'appelante] et qu'ils ne sont qu'en théorie des employés de FIRI lorsqu'ils exercent des activités de vente de fonds communs de placement exigeant un enregistrement aux termes de la Loi sur les valeurs mobilières. FIRI n'est aucunement responsable du paiement de salaires, ou de l'octroi d'avantages ou de toute autre rémunération directement au personnel.
+Le mot « personnel » est défini dans l'entente :
+[TRADUCTION] Par « Personnel » , on entend des personnes qui sont engagées par FIRI en vue de distribuer des fonds communs de placement du Trust Royal et de RoyFund ainsi que de fournir aux investisseurs des services à la clientèle à l'égard de ces fonds, et cela comprend des personnes qui sont également employées par [l'appelante] conformément aux dispositions des Principes de réglementation;
+De l'avis de l'appelante, ces dispositions du contrat ont effectivement pour effet de faire du personnel de la banque des [TRADUCTION] « employés dans une situation de double emploi » - c'est-à-dire que, lorsqu'ils vendent ou qu'ils effectuent d'autres opérations à l'égard de fonds communs de placement, ils agissent pour le compte de FIRI et sont employés par FIRI ainsi que par l'appelante.
+[14] Je n'accepte pas la façon dont l'appelante décrit la relation des employés individuels avec FIRI, à savoir qu'il s'agit d'employés assimilables à des employés temporaires qui lui sont fournis par la banque - ce que l'appelante appelle les [TRADUCTION] « services Kelly Girl » . Il est bien évident que les personnes qui travaillent dans les succursales bancaires sont des employés de la banque, et cela ne change pas lorsqu'elles rencontrent un acheteur éventuel de fonds communs de placement. Les parties aux contrats sont libres d'organiser leurs affaires comme elles le veulent, et les organismes provinciaux de réglementation peuvent utiliser la nomenclature qu'ils veulent, mais ils ne peuvent pas changer la qualification juridique des relations simplement en disant qu'elles sont autre chose que ce qu'elles sont du point de vue du droit. Même si l'appelante et sa filiale affirment que les employés de la banque sont à certains moments [TRADUCTION] « en théorie des employés de FIRI » , cela ne crée pas pour autant une relation juridique employeur-employé entre FIRI et les employés de l'appelante que l'on choisit pour recevoir une formation à l'égard de cette tâche et pour détenir les permis y afférents. La preuve ne donne pas à entendre que FIRI donnait de quelque façon des instructions aux employés ou exerçait de quelque façon un contrôle sur ceux-ci, dans l'exercice des fonctions dont étaient composés les services de succursale, si ce n'est dans le cadre de la formation qu'ils suivaient avant d'être autorisés à fournir ces services. Il ne semble pas non plus, d'après la preuve, que les employés aient convenu de conclure un contrat de travail avec FIRI. Les employés ne sont pas rémunérés par FIRI, qui ne rembourse pas non plus leurs salaires à l'appelante proportionnellement au temps passé à lui fournir des services. De même, l'appelante ne fournit pas de locaux à bureaux à FIRI. Il n'y a pas de bail, ni même de permis, autorisant FIRI à occuper des locaux dans les succursales de la banque. Selon les dispositions qui sont prises, les employés s'occupent simplement des questions de fonds communs de placement de FIRI dans la succursale où ils effectuent leur autre travail pour la banque.
+[15] Il faut décider ce que l'appelante a fourni en échange de la contrepartie qu'elle a reçue. Le sens ordinaire du verbe « to arrange » ( « prendre des mesures » ) est donné dans le Canadian Oxford Dictionary, page 69 :
+[TRADUCTION]
+2. planifier ou prévoir; faire en sorte qu'une chose se produise.
+Bien sûr, il ne m'incombe pas de décider si les dispositions susmentionnées qui sont prises entre l'appelante et FIRI sont conformes aux exigences réglementaires fédérales et provinciales. Toutefois, je suis convaincu que l'appelante ne fournissait pas simplement à FIRI des services de personnel et l'utilisation d'un espace dans la succursale. Les personnes qui fournissaient les services à FIRI étaient en tout temps des employés de la banque et elles n'étaient pas des employés de FIRI. Elles travaillaient dans les locaux de la banque et rien ne me permet de conclure que FIRI avait le droit d'occuper cet espace à ses propres fins, ne serait-ce que temporairement. Le service que l'appelante fournissait à FIRI consistait à prendre des mesures pour la distribution de fonds communs de placement ainsi qu'à fournir des services continus à la clientèle, notamment en répondant aux demandes de renseignements des clients et en prépayant les documents de rachat pour les clients sur demande. Il n'existe dans la preuve aucun fondement me permettant de répartir la contrepartie entre l'organisation de ventes de parts et le service continu à la clientèle; de plus, aucune des deux parties n'a soutenu qu'il y avait autre chose qu'une seule fourniture en cause. Dans la mesure où il en était question dans la preuve, il semble que la prise de mesures en vue de la vente de fonds communs de placement ait été l'élément dominant de l'activité.
+[16] L'appelante se fonde sur la décision rendue par le Comité judiciaire du Conseil privé en appel de la décision rendue par la Cour d'appel de la Nouvelle-Zélande dans l'arrêt Inland Revenue Commissioner v. Databank System Ltd.[5] Dans cette affaire, Databank fournissait des services informatiques à la banque en vue de faciliter la compensation de chèques. Le Conseil privé a statué à la majorité qu'il ne s'agissait pas d'un service financier : il a fait une distinction entre la fourniture d'un service financier par la banque à son client et la fourniture à la banque par Databank de services informatiques destinés à permettre à celle-ci d'effectuer la première fourniture. Il a été statué que la deuxième fourniture n'était pas un service financier fourni au client, mais simplement un intrant apporté à la fourniture d'un service financier par la banque. Toutefois, cette décision ne s'applique pas aux faits de la présente espèce. L'élément majeur des services de succursale que l'appelante fournissait à FIRI est constitué du service même que FIRI s'était engagée à fournir aux Fonds aux termes de la clause c) de l'article 3.01 de l'entente-cadre de gestion (pièce A-1, onglet 3) :
+[TRADUCTION]
+c) distribuer ou prendre des mesures aux fins de la distribution de parts des Fonds;
+L'appelante se fonde également sur la Politique P-239 de l'Agence du revenu du Canada, intitulée Signification de l'expression « prendre les mesures en vue de l'effectuer » que l'on trouve dans la définition de « service financier » . Cette politique énonce l'opinion suivante :
+c) Un service acquis par un intermédiaire auprès d'un tiers pour l'utilisation par l'intermédiaire en vue de fournir le service consistant à « prendre les mesures en vue de l'effectuer » ne pourra pas lui-même être considéré comme un service consistant à « prendre les mesures en vue de l'effectuer » . Une fois encore, un tel service ne représente qu'un intrant pour l'intermédiaire.
+Immédiatement après cet énoncé de la politique, l'Agence donne l'exemple d'un investisseur qui engage un courtier local pour acheter certaines actions inscrites à une bourse étrangère; le courtier local doit travailler avec un courtier étranger afin de conclure l'opération. En pareil cas, l'Agence exprime l'avis suivant :
+[...] les deux courtiers sont directement engagés à « prendre les mesures en vue d'effectuer » l'achat des actions au profit de l'investisseur. Les deux services seront considérés comme des services consistant à « prendre les mesures en vue de l'effectuer » .
+Je n'accorde pas beaucoup de poids aux énoncés de principe de ce genre, qui ne constituent en somme que l'opinion d'une des parties au litige dont je suis saisi, mais il semble que les faits de la présente espèce se rapprochent beaucoup plus du second exemple que du premier.
+[17] Je ne trouve pas non plus convaincant l'argument de l'appelante selon lequel elle ne peut pas distribuer ou prendre des mesures aux fins de la distribution de fonds communs de placement, parce que les dispositions de la Loi sur les banques et du Règlement d'application l'empêchent de faire le commerce de valeurs mobilières. Comme je l'ai dit, il ne m'appartient pas de décider si l'activité de l'appelante constitue une violation de la Loi sur les banques, mais il ressort clairement de la décision de la Cour suprême du Canada dans l'arrêt Continental Bank[6] que l'activité est ce qu'elle est, et ce, peu importe qu'elle contrevienne à la Loi sur les banques ou non.
+[18] L'appelante soutient que, de toute façon, les services de succursale ne peuvent pas être visés par la définition du service financier, parce qu'il s'agit de services administratifs et qu'ils sont donc expressément exclus de la définition par l'alinéa t) et par l'article 4 du Règlement[7]. Cette disposition n'a été examinée qu'à deux reprises par la présente cour[8] et ni l'une ni l'autre décision ne nous éclaire sur le sens de l'expression « les services administratifs » ( « any administrative service » ). Le Canadian Oxford Dictionary (2e éd.) donne cette définition, à la page 17 :
+[TRADUCTION] administratif : concernant la gestion des affaires ou s'y rapportant.
+D'autres dictionnaires, tant français qu'anglais, renferment des définitions aussi vagues. À coup sûr, le sens de cette expression est à la fois large et élastique, mais il semble clair que, lorsqu'elle est lue dans son contexte dans le cadre du régime de la partie IX de la Loi et par rapport à la définition de « service financier » ( « financial service » ) en particulier, elle vise à exclure de cette définition des services accessoires tels que le traitement de données, la tenue de dossiers et ainsi de suite, mais non les activités expressément énumérées dans la première partie de la définition qui doivent être incluses dans celle-ci, ce qui comprend certes la prise de mesures aux fins de la distribution de valeurs mobilières. À mon avis, l'alinéa t) de la définition et le Règlement ne s'appliquent pas en l'espèce.
+[19] Pour les motifs susmentionnés, je conclus que les services de succursale étaient des services financiers exonérés de la taxe et que les intrants y afférents ne donnaient donc pas droit à des CTI.
+[20] Il reste la question de la pénalité imposée par le ministre. Il est maintenant bien établi que la pénalité qui est prévue à l'article 280 de la Loi est susceptible de réfutation par le moyen de défense de la diligence raisonnable[9]. Selon la preuve, l'appelante a décidé de ne pas se prévaloir du choix prévu à l'article 150 de la Loi, selon lequel les services de succursale seraient réputés être des services financiers, et elle a préféré les traiter comme taxables, avec le droit concomitant aux CTI à l'égard des intrants. Toutefois, il n'existait aucune preuve de mesures que l'appelante aurait prises afin d'obtenir une décision, ou même un avis indépendant, quant au traitement approprié des opérations aux fins de la TPS. Apparemment, il y avait eu une cotisation antérieure par laquelle la question avait été soulevée et qui avait donné lieu à un appel qui a été réglé avant l'instruction. Malgré tout, l'appelante a décidé de demander les CTI en question pendant toute la période visée par la présente cotisation, en se fondant semble-t-il uniquement sur l'avis de son service fiscal selon lequel les services de succursale constituaient des fournitures taxables.
+[21] Dans la décision Locator of Missing Heirs Inc. v. Canada[10], le juge en chef actuel de la présente cour, après avoir examiné l'arrêt R. c. Sault Ste Marie[11] de la Cour suprême du Canada et l'arrêt R. v. Richardson de la Cour d'appel de l'Ontario[12], a dit ce qui suit :
+[...] En ce qui concerne les pénalités qui, sur le plan administratif, semblent être couramment et automatiquement imposées en vertu d'une loi aussi complexe que la Loi sur la taxe d'accise, je ne puis en principe voir aucune raison permettant de dire que le contribuable qui a pris toutes les mesures raisonnables pour déterminer l'interprétation qu'il convient de donner à la loi devrait se voir infliger une pénalité simplement parce qu'il croyait avec raison à l'exactitude d'une interprétation qui s'est avérée différente de celle à laquelle le ministre ou le tribunal en arrive en fin de compte. Dans le contexte d'un moyen de défense fondé sur la diligence raisonnable qui est invoqué contre une pénalité imposée en vertu de l'article 280 de la Loi, je crois que la distinction entre une erreur de droit et une erreur de fait n'est pas importante, quelle que puisse être sa pertinence à d'autres fins.
+La preuve en l'espèce est bien loin de démontrer que l'appelante a pris toutes les mesures raisonnables pour déterminer l'interprétation qu'il convient de donner à la loi. Le moyen de défense fondé sur la diligence raisonnable n'a pas été établi.
+[22] L'appel sera rejeté avec dépens.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2005.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 8e jour de novembre 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2005CCI802
+No DU DOSSIER DE LA COUR : 2002-2478(GST)G
+INTITULÉ : Banque royale du Canada c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 21 avril 2005
+MOTIFS DU JUGEMENT : L'honorable juge E. A. Bowie
+DATE DU JUGEMENT : Le 20 décembre 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me James Warnock
+Avocats de l'intimée :
+Me Harry Erlichman et
+Me John McLaughlin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : James Warnock
+Cabinet : McCarthy Tetrault
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. B-1.01.
+[2] L.R.C. 1985, ch. E-15, dans sa version modifiée.
+[3] DORS/91-26 (dans sa version modifiée).
+[4] DORS/92-279.
+[5] [1990] J.C.J. no 35.
+[6] Continental Bank Leasing Corp. c. Canada, [1998] 2 R.C.S. 298.
+[7] Précitée, paragraphe 10.
+[8] Skylink Voyages Inc. c. La Reine, [1999] IIJCan 431; Drug Trading Company Limited c. La Reine, [2001] IIJCan 526.
+[9] Canada (Procureur général) c. Consolidated Canadian Contractors, [1999] 1 C.F. 209 (C.A.F.).
+[10] [1995] G.S.T.C. 63 (C.C.I.)
+[11] [1978] 2 R.C.S. 1299.
+[12] 34 O.R. (2d) 438.

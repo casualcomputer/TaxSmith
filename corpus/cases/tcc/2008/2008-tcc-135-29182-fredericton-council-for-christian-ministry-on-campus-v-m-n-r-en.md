@@ -1,0 +1,213 @@
+---
+title: "Fredericton Council For Christian Ministry On Campus v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29182/index.do"
+last_modified: "2008-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 135"
+citation2: ""
+neutral_citation: "2008 TCC 135"
+decision_date: "2008-04-04"
+language: "en"
+item_id: "29182"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6709
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:22:19.100000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "47ee3e4bc2f9a602e61085123e1f2a6287f23e93794998738b7f0b4ec328c6fd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fredericton Council For Christian Ministry On Campus v. M.N.R.
+
+- Citation: 2008 TCC 135
+- Decision date: 2008-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6709, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fredericton Council For Christian Ministry On Campus v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-04
+Neutral citation
+2008 TCC 135
+File numbers
+2006-3373(CPP)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-3373(CPP)
+BETWEEN:
+FREDERICTON COUNCIL FOR CHRISTIAN
+MINISTRY ON CAMPUS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal in file number
+2006-3374(EI) on November 23, 2007, at Fredericton, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Andrew D. Rouse
+Counsel for the Respondent:
+Martin Hickey
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 4th day of April 2008.
+“François Angers”
+Angers J.
+Docket: 2006-3374(EI)
+BETWEEN:
+FREDERICTON COUNCIL FOR CHRISTIAN
+MINISTRY ON CAMPUS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal in file
+number 2006-3373(CPP) on November 23, 2007,
+at Fredericton, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Andrew D. Rouse
+Counsel for the Respondent:
+Martin Hickey
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 4th day of April 2008.
+“François Angers”
+Angers J.
+Citation: 2008TCC135
+Date: 20080404
+Dockets: 2006-3373(CPP)
+2006-3374(EI)
+BETWEEN:
+FREDERICTON COUNCIL FOR CHRISTIAN
+MINISTRY ON CAMPUS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] These appeals were heard on common evidence. The Fredericton Council for Christian Ministry on Campus (the Council) is appealing an assessment dated February 21, 2006 for Canada Pension Plan (CPP) contributions and Employment Insurance (EI) premiums, plus applicable interest, for the years 2002, 2003 and 2004. The assessment was confirmed by the Minister of National Revenue on August 31, 2006. The Council was assessed for its failure to remit CPP contributions and EI premiums with regard to a contract entered into with Joanne Barr (the worker) to perform services as a campus minister at the University of New Brunswick and St. Thomas University in Fredericton, New Brunswick.
+[2] The Council is an ecumenical ministry that provides pastoral care and direction to the student body, faculty, and staff of both universities referred to above. The worker, a United Church minister, was hired as a campus minister according to the contracts she entered into with the Council. Her duties were described as follows:
+· To assist with and initiate planning and goal setting for Campus Ministry
+· To maintain a presence and be available at times and places agreed upon
+· To be available to students for counselling
+· To assess the campus situation on a continuing basis to identify needs and opportunities for service
+· To be aware and supportive of the activities of Christian groups on campus
+· To work flexible hours which will involve some evenings and weekends
+· To discuss and document priorities and objectives with the Advisory Comm;
+· To refer students when appropriate
+· To attend various university functions, especially student oriented activities
+· To cooperate and interact with the other Campus Ministers
+· To attend all meetings of the Council, and to report to Council on a regular basis
+· To publicize Campus Ministry and local student related church activities
+· To liaise with member churches
+· To participate in Student Service programs when invited and
+· To visit students residences, the Student Union Building etc.
+[3] The first contract between the worker and the Council provides for a 20‑hour work week for a period running from August 2001 to May 2002, with the possibility of renegotiating the contract after the expiry date. The contract is dated August 19, 2001. The worker’s remuneration was $400 per week, with no deductions from this amount for CPP, EI or income tax. The contract stipulates that the “Council is not responsible, and shall not remit any amounts, for these statutory obligations”. It goes on to say, strangely enough, that the worker is responsible for payment of all remittances which may be assessed with respect to her receiving the weekly payment for her services. The contract states as well that the Council does not provide any additional benefits such as long-term disability, dental, medical or life insurance.
+[4] The contract also stipulates that the Liaison Committee is to meet with the worker from time to time to discuss the duties of the position and the services she provides, and that the worker is to provide a written summary of her services to the Liaison Committee prior to each monthly meeting. The contract further stipulates that the Liaison Committee is composed of members of the Council and will supervise the terms of the contract and report to the Council as necessary.
+[5] The second contract was signed on August 20, 2002 and covered the period from August 1, 2002 to May 31, 2003. The remuneration was now approximately $646 per two weeks for the same number of hours per week. The payment clause reads as follows:
+The Council shall pay Reverend Barr a salary prorated from an annual full-time (12 months at 40 hours per week) salary of $33,600. Employee benefits will include only a pension contribution of 8% of salary and a Housing Allowance of $500 per month during the term of the contract. No employment deductions (EI or CPP) are made.
+[6] The job description remained the same except that the Liaison Committee had now been replaced with the Personnel Committee, which was to meet with the worker from time to time to discuss the duties of the position and the services she provided. The worker was now to give a written summary of her services at each monthly Council meeting instead of giving it to the Liaison Committee prior to the Council meeting. In addition, the portion that said the “Council is not responsible, and shall not remit any amounts, for [. . . ]statutory obligations” and the clause making the worker responsible for payment of all remittances that might be assessed with respect to her receiving the weekly payment for her services were both deleted.
+[7] The third contract was signed on July 9, 2003 and covered the period from August 1, 2003 to July 31, 2004. Its terms and conditions were the same as those of the previous contracts except that the salary was now $662.30 per two weeks. The worker received the housing allowance of $500 per month, but the pension contribution by the Council was reduced to 7%. No deductions were to be made other than the worker’s own contributions to the pension fund, and she was now getting 4 weeks’ vacation.
+[8] The final contract is not signed; it very briefly indicates amounts for salary, housing allowance and benefits, and provides for an allocation of money for conferences, books and professional development. The contract covers the period from August 1, 2004 to July 31, 2005. According to the evidence, the only conference the worker attended was in the fall of 2006 or spring of 2007, which is outside the period in issue. Some of the worker’s expenses were paid by the Council, but very few.
+[9] During the three years in issue, the worker met with students, individually or in groups, and with faculty. She was provided with an office by the university, which she shared with other members of the clergy. It is admitted by the appellant that the worker was not required to submit invoices to it for her wages, that she was accountable to it for her activities and that she was required to perform her services personally, as she could not hire a replacement.
+[10] The Council’s board of directors is composed of volunteers. Ronald Naugler testified on behalf of the board. He was treasurer and a member of the Council when the worker was hired. The worker was hired as an independent contractor because of the fact that board members were volunteers and, more particularly, because the board wanted to save money by not having to pay the employer’s CPP contributions and EI premiums and other contributions that he did not elaborate on.
+[11] According to Mr. Naugler, no board member had any control over the worker nor did anyone supervise her work. She was required to work her 20 hours per week. In the earlier stages, there were no provisions for vacation time or sick leave nor did she have to report to anyone other than to the Council at its monthly meeting. She would report to it verbally or in writing. The Council did not supply her with anything, as the university provided the office. She received no training and was not given directions by the Council. Although Mr. Naugler recognizes that the worker is a very experienced professional and says that the board assumed that she would perform her duties accordingly, he nevertheless acknowledges that things might have been different had she been a young graduate. Despite the fact that the contracts refer to the position of campus minister, Mr. Naugler says that the worker was hired more as a counsellor than a minister.
+[12] Mr. Naugler has no recollection whether a personnel committee ever existed. The monthly reporting was done to board members. The Council did not provide the worker with any books, a telephone, a computer, or other work-related assistance, nor do we know if she actually used, or had access to, any of these.
+[13] The Council, during the period at issue, had a full-time employee and, although he was not an ordained minister, he provided services similar to the worker’s. They shared the same office at the university and worked the same hours. The worker was eventually hired as an employee after the Council was assessed for the unpaid contributions and premiums.
+[14] It can be assumed from the evidence that the worker was able to perform other duties of her Ministry, such as marriages and baptisms on her own time. The appeals officer did receive a completed fact-finding questionnaire signed by Joanne Barr that would support that assumption. A fact-finding questionnaire was also sent to the Council. In the two questionnaires, the Council and the worker agree on mostly everything. Among the points of disagreement, however, is question number 25 asking if they believe the worker to be a self-employed person or an employee. The Council indicated its belief that she was self-employed, while the worker indicated that she believed herself to be an employee. The worker was not called as a witness by either party.
+[15] The issue before this Court is whether the worker was employed by the Council in insurable and pensionable employment within the meaning of the Employment Insurance Act and the Canada Pension Plan. In other words, was the worker employed by the Council pursuant to a contract of service or as an independent contractor?
+[16] In the recent decision by this Court in Kilbride v. The Queen, 2007 TCC 663, Madam Justice Campbell reviewed some of the latest decisions of the Federal Court of Appeal and this Court on this issue and made a summary of those decisions that is worth repeating in terms of the criteria to be considered in carrying out an analysis of the said issue.
+18 In the recent decision of Lang v. The Queen, [2007] T.C.J. No. 365, Chief Justice Bowman provided a comprehensive examination of the most recent decisions in this area and in the end summarized his conclusions from these series of cases at paragraph 34:
+(a) The four-in-one test in Wiebe Door as confirmed by Sagaz is a significant factor in all cases including cases arising in Quebec.
+(b) The four-in-one test in Wiebe Door has, in the Federal Court of Appeal, been reduced to representing “useful guidelines” “relevant and helpful in ascertaining the intent of the parties”. This is true both in Quebec and the common law provinces.
+(c) Integration as a test is for all practical purposes dead. Judges who try to apply it do so at their peril.
+(d) Intent is a test that cannot be ignored but its weight is as yet undetermined. It varies from case to case from being predominant to being a tie-breaker. It has not been considered by the Supreme Court of Canada. If it is considered by the Supreme Court of Canada the dissenting judgment of Evans J.A. in Royal Winnipeg Ballet will have to be taken into account.
+(e) Trial judges who ignore intent stand a very good chance of being overruled in the Federal Court of Appeal. (But see Gagnon where intent was not considered at trial but was ascertained by the Federal Court of Appeal by reference to the Wiebe Door tests that were applied by the trial judge. Compare this to Royal Winnipeg Ballet, City Water and Wolf.
+19 In Royal Winnipeg Ballet, as in this case, there was no written contract but both parties were clear that they intended the relationship to be one of independent contractor. Justice Sharlow, J.A. at paragraphs 63-64 concluded that it was necessary to consider the Wiebe Door factors in light of the parties common understanding of their legal relationships:
+What is unusual in this case is that there is no written agreement that purports to characterize the legal relationship between the dancers and the RWB, but at the same time there is no dispute between the parties as to what they believe that relationship to be. The evidence is that the RWB, the CAEA and the dancers all believed that the dancers were self‑employed, and that they acted accordingly. The dispute as to the legal relationship between the dancers and the RWB arises because a third party (the Minister), who has a legitimate interest in a correct determination of that legal relationship, wishes to assert that the evidence of the parties as to their common understanding should be disregarded because it is not consistent with the objective facts.
+In these circumstances, it seems to me wrong in principle to set aside, as worthy of no weight, the uncontradicted evidence of the parties as to their common understanding of their legal relationship, even if that evidence cannot be conclusive. The Judge should have considered the Wiebe Door factors in the light of this uncontradicted evidence and asked himself whether, on balance, the facts were consistent with the conclusion that the dancers were self‑employed, as the parties understood to be the case, or were more consistent with the conclusion that the dancers were employees. Failing to take that approach led the Judge to an incorrect conclusion.
+20 In concurring reasons, Justice Desjardins stated at paragraph 72:
+As demonstrated by Sharlow J.A., if the intention of the parties is uncontested, save by third parties, as in the case at bar, the common-law judge has nevertheless the responsibility to “look to see” if the terms used and the surrounding circumstances are compatible with what the parties say their contract is.
+21 In Combined Insurance Company of America v. M.N.R., [2007] F.C.J. No. 124, Nadon, J.A. after reviewing recent case law, including Royal Winnipeg Ballet, stated at paragraph 35:
+In my view, the following principles emerge from these decisions:
+1. The relevant facts, including the parties’ intent regarding the nature of their contractual relationship, must be looked at in the light of the factors in Wiebe Door, supra, and in the light of any factor which may prove to be relevant in the particular circumstances of the case;
+2. There is no predetermined way of applying the relevant factors and their importance will depend on the circumstances and the particular facts of the case.
+Although as a general rule the control test is of special importance, the tests developed in Wiebe Door and Sagaz, supra, will nevertheless be useful in determining the real nature of the contract.
+22 All of these cases are close. It is clear that no single test is determinative. Each case requires a balancing of factors specific to that case coupled with a good dose of common sense.
+23 Following these cases, I am bound to give consideration to the intent of the parties in this appeal and to determine the weight it is to be assigned in the circumstances. However, it is also clear from the recent case law that intention alone is not a conclusive factor and that the Wiebe Door factors must be considered to determine whether the parties conducted their work relationship in a manner that reflected their stated intention.
+24 The four criteria of the four-in-one test of Wiebe Door are:
+(1) degree of control;
+(2) ownership of tools;
+(3) chance of profit; and
+(4) risk of loss.
+[17] In this instance, it is clear that the parties are not on the same wavelength as to their intentions when they entered into these contracts for the three years under appeal. Their respective answers to question number 25 concerning their belief as to the worker’s employment status are contradictory. The worker believed she was an employee while the Council believed that the worker was a self-employed person. The worker did not testify, but, notwithstanding their respective answers to question number 25, the Council’s position that their intention was that the worker be self-employed does not appear to be supported by the terms of the three signed contracts. The first contract that was signed between the parties is the only one that shies away from a possible employer-employee relationship. It does indicate, though, that if the Council is ever assessed for deductions not remitted, the worker is to be responsible for the remittances. In other words, if the contract is held to be something other than a contract for services, the worker is to compensate the Council. Now if there was a clear intention to create a contract for services, why was there a need for such a clause? As for the second contract, it contains a clause referring to employee benefits consisting of a pension contribution of 8% of salary and a housing allowance. That, in my opinion, is indicative of the parties, having had in mind the existence of an employer-employee relationship. Yet the same contract calls for no EI and CPP deductions. The third contract reduces the pension contribution to 7%, maintains the housing allowance, but adds a four-week vacation period. These conditions are also indicative of the parties, having had in mind the existence of an employer-employee relationship.
+[18] The uncertainties in the terms of the three signed contracts raise questions as to the actual intention of the Council as regards whether the worker was hired as an employee or as an independent contractor. It is as if the actual and only real intent was to simply find a way to avoid paying the employer’s share of CPP contributions and EI premiums. In all other respects, the arrangement appears to present the characteristics of an employer-employee relationship as the worker was treated as an employee under most of the terms of the contracts.
+Control
+[19] On the issue of control, the Council stipulated in the first contract that the worker was to meet with the Liaison Committee from time to time to discuss the duties of the position and the services she provided. The Liaison Committee was to supervise compliance with the terms of that contract and report to the Council. Under the second and third contracts, the worker had to meet with the Personnel Committee for the same reasons, and was to give a written summary of her services at each monthly Council meeting.
+[20] Given that the worker here is a professional providing services as a counsellor, the degree of supervision and control is somewhat less than in other circumstances. That does not preclude, though, the creation and existence of an employer-employee relationship. In our fact situation, I find that the Council retained sufficient control over the worker to make it possible to find in favour of an employer-employee relationship. The worker’s responsibilities, as described in the contracts, allowed of a degree of control consistent with that exercised by an employer. The worker had to work flexible hours (including evenings and weekends), attend certain functions, attend meetings of the Council and report to Council, among other things. The worker was subject to a certain degree of supervision. Although this factor is not highly conclusive, I find that there was a degree of control sufficient to support a finding that an employer-employee relationship existed.
+Ownership of Tools
+[21] The worker’s stock-in-trade was basically her education and experience. That in itself is not a conclusive factor, for it admits of her being either an employee or an independent contractor. The physical tools such as the office, telephones and computers were provided by the university to the Council in order for it to provide services under its contract. The worker did not need to provide these things herself. This factor would accordingly favour an employer-employee relationship.
+Chance of Profit/Risk of Loss
+[22] In this fact situation, the worker was at no risk of loss nor was she in a position to make a profit. She was paid for a 20-hour work week at a set rate and, under the second and third contracts, received what are described as employee benefits. The worker was to be reimbursed for her expenses if she attended a conference. These factors suggest that the worker was an employee.
+Integration
+[23] On the issue of integration, it is fair to say that the Council’s main objective is to provide pastoral care and direction to the students, faculty, and staff of both universities, and that the worker’s involvement is part of the attainment of that objective. One must also remember that integration is rarely a determining factor. It is submitted by the appellant that the worker is on a yearly contract and thus unable to be fully integrated. Be that as it may, integration remains a very difficult factor to consider.
+[24] I therefore conclude on the whole of the evidence that the worker was employed by the Council in insurable and pensionable employment. The appeals are therefore dismissed.
+Signed at Edmundston, New Brunswick, this 4th day of April 2008.
+“François Angers”
+Angers J.
+CITATION: 2008TCC135
+COURT FILE NOS.: 2006-3373(CPP)
+2006-3374(EI)
+STYLE OF CAUSE: Fredericton Council for Christian Ministry on Campus v. The Minister of National Revenue
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: November 23, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 4, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Andrew D. Rouse
+Counsel for the Respondent:
+Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Andrew Rouse
+Firm: Mockler Peters Oley Rouse
+Fredericton, New Brunswick
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

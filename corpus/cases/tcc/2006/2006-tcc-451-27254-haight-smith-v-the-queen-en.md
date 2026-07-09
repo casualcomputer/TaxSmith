@@ -1,0 +1,194 @@
+---
+title: "Haight-Smith v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27254/index.do"
+last_modified: "2006-08-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 451"
+citation2: ""
+neutral_citation: "2006 TCC 451"
+decision_date: "2006-08-09"
+language: "en"
+item_id: "27254"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 796
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:50:47.974000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c47006d07c9bb4e7942ba463571f6b94e35f620099017d363bd129c84cd6cb2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haight-Smith v. The Queen
+
+- Citation: 2006 TCC 451
+- Decision date: 2006-08-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 796, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haight-Smith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-09
+Neutral citation
+2006 TCC 451
+File numbers
+2004-4145(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4145(IT)I
+BETWEEN:
+BARBARA HAIGHT-SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 6, 2006 at Kamloops, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Edward Smith
+Counsel for the Respondent:
+David Everett
+JUDGMENT
+For the reasons set forth in the attached Reasons for Judgment the appeal is dismissed provided, however, that the inventory write-off shall be calculated on a 50% basis and the matter is referred back to the Minister for reconsideration and reassessment on that basis.
+Signed at Ottawa, Canada, this 9th day of August, 2006.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2006TCC451
+Date: 20060809
+Docket: 2004-4145(IT)I
+BETWEEN:
+BARBARA HAIGHT-SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] These appeals relate to the 1999, 2000 and 2001 taxation years and raise several issues related principally to disallowed business expenses.
+[2] By way of background the Appellant, with the assistance of her husband, Edward Smith has been operating a cosmetic business ("Business") in the Kamloops area of British-Colombia since 1973. The Business has reported losses from 1988 through 2003 as follows:
+Year Revenue Loss claimed
+1988
+$ 4,820
+$ 9,891
+1989*
+$ 52,761
+$ 13,146
+1990
+$ 48,919
+$ 13,682
+1991
+$ 37,073
+$ 10,332
+1992
+$ 26,663
+$ 11,103
+1993
+$ 25,801
+$ 12,077
+1994
+$ 18,569
+$ 14,044
+1995
+$ 14,601
+$ 18,632
+1996
+$ 8,914
+$ 21,350
+1997
+$ 4,039
+$ 20,808
+1998
+$ 3,489
+$ 16,604
+1999
+$ 2,837
+$ 23,184
+2000
+$ 830
+$ 58,777
+2001
+$ 2,329
+$ 62,277
+2002
+$ 559
+$ 13,574
+2003
+$ 468
+$ 26,999
+* The Reply mistakenly states 1999.
+The expenses which were disallowed by the Minister in 1999, 2000 and 2001 are detailed in Schedules "A", "B" and "C" to the Amended Reply to the Notice of Appeal ("Reply"). In analyzing the expenses one cannot avoid being influenced by the fact that expenses claimed over 16 years have been so high as to produce losses in each of those years.
+[3] For 1999, Schedule A indicates a disallowed amount of $2,500 for "Legal, accounting and other professional fees". From the testimony it appears that the Appellant conceded that this amount had been properly disallowed, but this is not 100% certain. In any event the assumptions of the Minister (Paragraphs 10a), 10b) and 10c) of the Reply) that the amounts were a personal expenditure or not incurred to earn income from a business have not been disproved and are therefore presumed correct. Consequently, the said amount of $2,500 has been properly disallowed.
+[4] Another expense disallowed in 1999 on Schedule A is "Allowance on eligible capital expenditure" in an amount of $14,437. This relates to alleged expenditures in respect of "Trade Marks, Secret Formulas or Marketing Rights". The Appellant attempted to deduct the said capital expenditure under paragraph 20(1)(b) of the Income Tax Act (the "Act"). This issue has already been decided by this Court in Appeal number 2001-1195(IT)I. That decision has become final having not been successfully appealed further. Consequently, this issue has been resolved. The principles of res judicata and issue estoppel apply and the disallowance of the said amount of $14,437 was correct.
+[5] Another amount disallowed in 1999 on Schedule A was "Capital cost allowance" ("CCA"). The amount claimed was $2,368.67 and the amount disallowed was $2,156. The amount disallowed relates to a CCA claim on a Lincoln automobile. The evidence demonstrates the vehicle was purchased for $500 in 1999. Subsequent improvements were made and the Appellant has attempted to add those improvements to the original capital cost of the automobile and claim CCA on that basis. In my opinion, the subsequent improvements, if made, should have been added to the capital cost when made. In other words, the Appellant has not properly calculated the CCA on the Lincoln and the disallowance in the amount of $2,156 is correct.
+[6] Another amount disallowed in 1999 on Schedule A was office and home expenses in the claimed amount of $2,055. The Minister has disallowed this amount because of subsection 18(12) of the Act which, in effect disallows these types of expenses if they create or increase a loss. This disallowance was correct.
+[7] With respect to the year 2000 and referring to Schedule B, the Minister has disallowed "Legal, accounting and other professional fees" in an amount of $7,741.82. For the same reasons as set forth above with respect to the 1999 claim for this type of expense the said amount has been properly disallowed.
+[8] Another amount disallowed in the 2000 taxation year on Schedule B is a $40,000 "Business loss". This relates to an alleged loss by the Appellant from a venture in Nigeria. This issue has been determined by this Court in appeal number 2001-1195(IT)I. That decision has become final. Consequently, this issue has been resolved. The principles of res judicata and issue estoppel apply and the disallowance of the said amount of $40,000 was correct.
+[9] Another disallowed expense in 2000 on Schedule B is "Eligible capital amount" in the amount of $7,845. The Appellant claimed an original amount of $8,009.82. This included an amount of $164.82 related to CCA which the Minister has allowed. The balance of $7,845 has been disallowed. As mentioned above for the year 1999 with respect to eligible capital expenditure, this issue has already been determined by the decision mentioned above with respect to 1999. Consequently the said amount of $7,845 has been properly disallowed.
+[10] For 2001 the amounts disallowed are shown on Schedule C as follows: - Purchases - $492 - Interest - $997.86 - Office expenses - $1,682. Owing to the absence of books, records, receipts and/or other satisfactory evidences, I conclude that these amounts have been properly disallowed.
+- Legal, accounting and other professional fees - $9,320.58. For the reasons set forth above for 1999 this amount has been properly disallowed.
+- Eligible capital amount - $40,000. This is the same expense as was labelled "Business loss" in the 2000 year and for the reasons set forth above for this expense in 2000, the amount has been properly disallowed.
+- Capital cost allowance - $5,890. The Minister has disallowed $5,535. This relates to the Lincoln automobile referred to above and for the same reasons as above, the amount of $5,535 has been properly disallowed.
+[11] Another issue raised in this appeal relates to paragraphs 5, 10d) and 10e) of the Reply. They read:
+5."By letter dated 15th March 2003 the Representative [Edward Smith] requested that inventory totaling of $9,599.53 be written off at the rate of $3,199.87 each year over the taxation years under audit. The Minister declined to make an adjustment for inventory".
+10. In so assessing and confirming the reassessments, ... , the Minister relied on the following assumptions:
+...
+d) less than 80% of the inventory was obsolete;
+e) the inventory write down was unreasonable;
+[12] The transcript discusses this issue at length. The testimony of the auditor, Jason Roth, a credible and thorough witness, indicated that these inventory write-offs represented 80% of the inventory and for reasons explained by him were unreasonably high mainly because some inventory was still being sold locally. The inventory inspection was casual, mainly because the inventory issue was only raised after the basic audit had been completed and seemed to be an after thought of Edward Smith. In any event it has been acknowledged by the auditor and by counsel for the Respondent that there is some ground for claiming an inventory write-off for inventory that had become obsolete. It is extremely difficult for anyone to determine what exactly the percentage should be. There is clearly inventory obsolescence resulting in a loss related principally to overseas sales, mainly to Japan. Considering all of the testimony and the submissions I find that the inventory write-off should be calculated on a 50% basis.
+[13] Another issue was the Appellant's strong submission that interest on arrears of taxes should be waived. This Court has no jurisdiction to waive interest on taxes or arrears of tax. This is a matter for the Fairness Committee and if the Appellant refers the matter to that Committee, I would recommend that the Committee give serious thought to waiving the interest. I say this because of all the reasons argued by the Appellant, related principally to documents and records being lost by the Minister's representatives and the Appellant's concerns about the 1999 taxation year related principally to the fact that although the Appellant in the above mentioned appeal number 2001-1195(IT)I had raised the 1999 year, the judgment declined to deal with that year and then this appeal again raises that year. I refer the Appellant to Information Circular 92-2 which provides full information and guidelines for applying to the Fairness Committee.
+[14] For all the above reasons the appeal is dismissed provided however that the inventory write-off shall be calculated on a 50% basis and the matter is referred back to the Minister for reconsideration and reassessment on that basis.
+Signed at Ottawa, Canada, this 9th day of August, 2006.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2006TCC451
+COURT FILE NO.:
+2004-4145(IT)I
+STYLE OF CAUSE:
+Barbara Haight-Smith. and Her Majesty the Queen
+PLACE OF HEARING:
+Kamloops, British Columbia
+DATE OF HEARING:
+June 6, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+August 9, 2006
+APPEARANCES:
+Agent for the Appellant:
+Edward Smith
+Counsel for the Respondent:
+David Everett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

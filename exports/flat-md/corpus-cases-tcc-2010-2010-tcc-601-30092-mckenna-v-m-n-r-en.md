@@ -1,0 +1,237 @@
+---
+title: "McKenna v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30092/index.do"
+last_modified: "2010-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 601"
+citation2: ""
+neutral_citation: "2010 TCC 601"
+decision_date: "2010-11-25"
+language: "en"
+item_id: "30092"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7624
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:49:41.094000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ab7e629b878750854b48ee6ea9731c7a26799776990a6deb0fe53a4dfb5097f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKenna v. M.N.R.
+
+- Citation: 2010 TCC 601
+- Decision date: 2010-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7624, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKenna v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-25
+Neutral citation
+2010 TCC 601
+File numbers
+2009-3455(CPP)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2009-3455(CPP)
+BETWEEN:
+RYAN THOMAS McKENNA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Ryan Thomas McKenna (2009-3454(EI))
+on November 4, 2010, at Halifax, Nova Scotia.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Patrick K. MacEwen
+Counsel for the Respondent:
+Gregory King
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of November 2010.
+“Paul Bédard”
+Bédard J.
+Docket: 2009-3454(EI)
+BETWEEN:
+RYAN THOMAS McKENNA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Ryan Thomas McKenna (2009-3455(CPP))
+on November 4, 2010, at Halifax, Nova Scotia.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Patrick K. MacEwen
+Counsel for the Respondent:
+Gregory King
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of November 2010.
+“Paul Bédard”
+Bédard J.
+Citation: 2010 TCC 601
+Date: 20101125
+Dockets: 2009-3455(CPP),
+2009-3454(EI)
+BETWEEN:
+RYAN THOMAS McKENNA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] These appeals are from decisions by the Minister of National Revenue (the “Minister”) under the Canada Pension Plan (“CPP”) and the Employment Insurance Act (the “Act”) that during the period from October 2, 2008 to December 10, 2008 (the “Relevant Period”) Ryan Thomas McKenna (the “Worker”) was not employed by Rick’s Fine Drywall Ltd. (the “Payor”) in pensionable and insurable employment.
+[2] The Payor was in the drywall installation business, installing drywall for a condominium developer in Fort McMurray, Alberta, which was the Payor’s sole client. The Payor supplied only the labour required to hang drywall for the condominium developer. The Worker was hired by the Payor, under a verbal agreement, to install drywall.
+[3] The Minister’s position is that the Worker was an independent contractor and was not employed under a contract of service.
+[4] Each case in which the question of whether a worker is an employee or an independent contractor arises must be dealt with on its own facts. The four components (control, ownership of tools, chance of profit and risk of loss) of the composite test enunciated in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, must each be assigned its appropriate weight in the circumstances of the case. Moreover, the intention of the parties to the contract has in recent decisions of the Federal Court of Appeal become a factor whose weight seems to vary from case to case (Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87; Wolf v. Canada, [2002] 4 F.C. 396; City Water International Inc. v. Canada, 2006 FCA 350; National Capital Outaouais Ski Team v. M.N.R., 2008 FCA 132).
+[5] The facts on which the Minister relied to render his decision in the CPP case (2009‑3455(CPP)) and in the EI case (2009-3454(EI)) are the same. Those facts are in each case set out in paragraph 10 of the Reply to the Notice of Appeal, as follows:
+a. the Payor was incorporated on July 2, 2008; (no knowledge)
+b. Ricky Leclerc was the Payor’s sole shareholder; (no knowledge)
+c. Ricky Leclerc was also the Payor’s President and Director; (no knowledge)
+d. the nature of the Payor’s business was drywall installation; (agreed)
+e. during the period under appeal, the Payor was operating in Fort McMurray, Alberta; (agreed)
+f. the stated intent of the Payor in engaging the Appellant was that the Appellant would be a sub‑contractor, while the Appellant’s stated intention was to be an employee; (disagreed)
+g. during the period under appeal, the Payor engaged the services of another worker (the “Other Worker”) and considered the Other Worker to be a sub‑contractor; (no knowledge)
+h. the Other Worker’s stated intention was to be a sub‑contractor and not an employee of the Payor; (no knowledge)
+i. the Appellant had no previous experience in hanging drywall; (agreed)
+j. the Appellant received 1 or 2 days’ training from Ricky Leclerc after which the Appellant was able to work independently; (disagreed)
+k. neither the Appellant nor the Payor kept a record of the hours the Appellant worked; (disagreed)
+l. during the period under appeal, the Payor obtained contracts from a condo developer; (no knowledge)
+m. the Payor supplied the labour required to hand drywall for the condo developer; (agreed)
+n. the condo developer provided all the materials needed to complete the work; (no knowledge)
+o. the Appellant’s and the Other Worker’s remuneration was based on a fixed percentage of each of the Payor’s contracts; (disagreed)
+p. the Appellant and the Other Worker were each paid semi‑monthly, by cheque, on or around the 15th and 30th of each month; (agreed)
+q. it was the Payor’s usual practice to include the notation “sub‑contract” on the Appellant’s and the Other Worker’s cheques; (no knowledge)
+r. the hours of work were dependant [sic] on the condo developer’s timetable and were further determined by mutual agreement between the Appellant, the Other Worker and Ricky Leclerc, working as a team; (disagreed)
+s. during the period under appeal, the hours of work varied from 50 to 60 hours per week, usually up to 6 days per week; (agreed)
+t. the Appellant and the Other Worker were each free to engage a helper provided the helper was paid from their respective share of the revenues; (disagreed)
+u. Ricky Leclerc, the Appellant and the Other Worker were all accountable to the condo developer for the quality of the work performed by the team; (disagreed)
+v. the Appellant paid his own expenses to travel to Alberta; (agreed)
+w. the Appellant purchased a drill (screw‑gun) used in drywall installation, for which he was not reimbursed; (agreed)
+x. the Payor provided the Appellant with a used tool‑belt; (agreed)
+y. the condo developer provided shared living accommodations to the workers actively working on its construction projects; and (no knowledge)
+z. the Payor did not withhold income tax or any other statutory payroll deductions from either the Appellant or the Other Worker. (agreed)
+[6] Robert A. Grant and Ricky Leclerc testified in support of the Respondent’s position. In support of the Worker’s position, only the Worker testified.
+[7] I would like to make a few comments on the witnesses’ credibility. First, Mr. Leclerc and the Other Worker came and they simply told their story. They were not vague. They addressed themselves to the specific questions asked. They held up remarkably well under cross‑examination. Mr. Leclerc provided details and examples and documentary evidence (see Exhibits R‑2 and R‑3), especially in regard to the basis on which the Payor was paid by the condominium developer and the basis on which the Payor’s gross revenues were shared between the Worker, the Other Worker and him, operating as a team. On the other hand, the Worker provided evasive explanations. Moreover, I would say that the hesitancy of the Worker, the amount of time he took to answer questions, and his attitude raised doubt in my mind as to the Worker's credibility. His testimony that he was not sure if the Payor had withheld income tax or other statutory payroll deductions from his remuneration was simply not credible since he received the gross amount of that remuneration (i.e. $30 an hour). It is also implausible that a worker (one who had been an employee for many years and who consequently was familiar with the statutory payroll deductions, with T4 slips and with Records of Employment) whose stated intention was to be an employee never inquired of the Payor why the statutory deductions were not made and why a T4 slip and a Record of Employment were not issued. For all these reasons, I preferred Mr. Leclerc and the Other Worker's version of the facts.
+The Worker’s testimony
+[8] The Worker’s testimony was essentially the following:
+i. Before he was engaged by Mr. Leclerc to perform services for the Payor, he worked for Boncor Building Products (“Boncor”) as an employee. I would point out immediately that the reasons invoked by the Worker in his Notice of Appeal and in his Application for Employment Insurance Benefits (see Exhibit R‑2, pages 8 and 9) are quite different. In his Notice of Appeal, he alleged that he left his job at Boncor “which was a full time permanent position that had set hours of 40 a week with free health and dental benefits, which [he] had worked at for four years, because Ricky had guaranteed [him] 2‑3 years of work with his company”. However, in his Application for Employment Insurance Benefits, the Worker essentially declared that he left his job at Boncor due to dangerous work conditions and to a bad relationship with his “main manager”. In his testimony, he spoke in an evasive way about the discussions that took place between Mr. Leclerc and him before he entered into an oral agreement with the Payor. He said that Mr. Leclerc promised him that he would make a lot more money with the Payor than he was making with Boncor since he would be paid at an hourly rate of $30 and be working an average of 50 hours a week.
+ii. Both the Payor and he kept a record of his hours worked.
+iii. He was not aware that the Payor was paid by the condominium developer on a square‑foot basis.
+iv. He did not notice or question the notation “sub‑contract” on the cheques he received from the Payor.
+v. He was not aware that the Other Worker’s remuneration was based on a fixed percentage of the Payor’s revenues.
+vi. He could not and did not hire substitutes or helpers.
+vii. The hours of work were determined by Mr. Leclerc.
+viii. He was not responsible for any defects in his work and did not have to do repairs on his own time or at his own expense.
+ix. During the relevant period he shared a condominium with Mr. Leclerc. He admitted that the living accommodation was free, but said he was not aware whether it was the Payor or the condominium developer that was providing this free living accommodation.
+x. Since he had no experience in hanging drywall, he was constantly supervised and monitored by Mr. Leclerc.
+xi. He had to inform Mr. Leclerc of any leave he required. He admitted that he had required no leave during the Relevant Period.
+xii. At the beginning of his relationship with the Payor, the Payor provided him with all the tools necessary to install drywall (a drill, a measuring tape, a used tool belt). A month later, he decided to buy his own tools. He paid $450 for the drill, $30 for the belt and $20 for the knife.
+xiii. He reported his income as employment income and paid tax on that income. He was not sure if the Payor had withheld income tax or any other statutory payroll deductions from his remuneration. He realized that the Payor had not made these deductions when the CRA called him (after he had filed his income tax return for the relevant year) to tell him that he had not paid enough tax on his employment income.
+[9] Mr. Leclerc’s testimony was essentially the following:
+i. He stated clearly to the Worker that he would be engaged by the Payor as a subcontractor. He also declared that during the Relevant Period the Payor hired Mr. Robert A. Grant (the “Other Worker”) and considered him to be a subcontractor. I would point out immediately that the Other Worker testified that Mr. Leclerc had clearly stated to him that he would be engaged by the Payor as a subcontractor. He added that his own stated intention was to be a subcontractor, and not an employee of the Payor.
+ii. The Payor never kept a record of the hours worked by the Worker and the Other Worker.
+iii. The Worker’s and the Other Worker’s remuneration was based on a fixed percentage of each of the Payor’s contracts. He explained that the Payor was paid on square‑footage basis, usually between $0.30 and $0.35 a square foot. He added that the Payor’s gross revenues were shared in the following manner: 20% to the Worker, 60% of the remainder to him and 40% to the Other Worker. He also explained that the Other Worker received a percentage of the Payor’s gross revenues higher than that paid to the Worker simply because the Other Worker was more experienced and productive. Mr. Leclerc explained that the Worker and the Other Worker were perfectly aware of how the Payor’s gross revenues were calculated since they received with their remuneration a sheet showing the number of square feet of drywall installed by the Payor on each job, the total square footage of drywall installed, the amount invoiced to the condominium developer, and lastly, the calculation of how the amount so invoiced was shared. To corroborate his testimony in this regard, he filed in evidence a copy of a cheque issued to the Worker on December 8, 2008 in the amount of $2,948.56 (Exhibit R‑1) and a copy of the sheet (Exhibit R‑3) he gave to the Worker (and to the Other Worker) showing the figures underlying this payment of $2,984.56.
+iv. It was the usual practice to include the notation “sub‑contract” on the Worker’s and the Other Worker’s cheques (see Exhibit R‑2).
+v. The Worker and the Other Worker were each paid by cheque when the Payor was paid by the condominium developer, usually semi‑monthly on or around the 15th and the 30th of each month.
+vi. The hours of work were dependent on the developer’s timetable and were further determined by mutual agreement among Mr. Leclerc, the Worker and the Other Worker, working as a team. Mr. Leclerc added that during the Relevant Period the hours worked varied from 50 to 60 hours a week, spread over up to 6 days a week. He testified lastly in this regard that all worked the same hours during the Relevant Period.
+vii. The Worker and the Other Worker were each free to engage a helper, provided the helper was paid from their respective share of the revenues.
+viii. The Worker and the Other Worker had the right not to work. Mr. Leclerc admitted, though, that the Worker and the Other Worker did not exercise that right and that if they had done so they would not have been paid for the time during which they did not work.
+ix. Mr. Leclerc, the Worker and the Other Worker were all accountable to the condominium developer for the quality of the work performed by the team. He added that during the Relevant Period the team never had to redo a job.
+x. The condominium developer provided free shared living accommodation to workers actively working on its construction project. Mr. Leclerc added that the condominium developer provided the Worker and him with a condominium that they shared during the Relevant period.
+xi. During the Relevant Period, the Payor obtained contracts from the condominium developer. The Payor supplied the labour required to hang drywall for the condominium developer and the latter provided all the materials needed to complete the work.
+xii. At the beginning of their relationship, the Payor provided the Worker with all the tools (except the drill, which was provided by the condominium developer) necessary to install drywall, namely a used tool belt, a measuring tape and a knife to cut the drywall. He added that after a few weeks of work the Worker purchased his own tools (including a $600 drill), for which he was not reimbursed.
+xiii. After a couple of days, the Worker needed no supervision since the tasks he was performing did not require any particular skills. He explained that the Worker’s tasks consisted essentially in getting the materials for the Other Worker and him and screwing screws with the drill.
+xiv. The Worker and Other Worker were able to work for others.
+Mr. Grant’s testimony
+[10] Mr. Grant (a friend of Mr. Leclerc’s) essentially corroborated Mr. Leclerc’s testimony. We also learnt from his testimony that:
+i. he was allowed to work for others and that he did so during the Relevant Period;
+ii. he provided his own tools;
+iii. he reported his income as business income;
+iv. he did not have a business number or a business name;
+v. he worked for the Payor only 6 months.
+[11] The evidence also revealed the following:
+i. The Appellant did not have a business number or a business name and did not have previous experience in the Payor’s particular field of business.
+ii. The Payor did not provide the Worker with a Record of Employment.
+iii. The Payor did not issue to the Worker a T4 or other information slip.
+iv. The Appellant paid the income taxes payable on the income he reported when he filed his 2008 income tax return.
+Analysis and conclusion
+[12] Starting with the issue of intention, what evidence do I have of the Payor’s and the Worker’s intention as regards the legal relationship they entered into? Firstly, it should be pointed out that there is no written agreement to which I can refer. Secondly, the Payor stated that its intent in engaging the Worker was that the Worker would be a subcontractor, while the Worker stated that his intention was to be an employee. So I cannot infer from the evidence that the parties shared a common understanding of the legal relationship they entered into. Where the intention of the parties cannot be ascertained, it is quite proper, indeed necessary, to look at all the facts to see what legal relationship they reflect. In that regard, the four components of the composite test enunciated in Wiebe Door are relevant and helpful in ascertaining both the intent of the parties to the contract and the legal nature of that contract.
+[13] Turning now to the facts, what factors suggest that the Worker was in business on his own account?
+Control
+• The Worker was not really under any direct supervision by Mr. Leclerc since the tasks he was performing did not require any particular skills. After a day or two of training, the Worker knew what to do.
+• The hours of work were dependent on the condominium developer’s timetable and were further determined by mutual agreement among the Worker, the Other Worker and Mr. Leclerc, working as a team.
+• He could work for someone else.
+• He could have someone to help him.
+Chance of profit/Risk of loss
+1. Considering the way in which the Worker was remunerated, there was in reality an opportunity for him to increase his income: in fact, the more effective were the Worker, the Other Worker and Mr. Leclerc, working as a team, the greater was the opportunity to increase his income.
+2. There was a liability exposing the Worker to a risk of loss: in fact, if a job was badly done by the Worker, the Other Worker and Mr. Leclerc, working as a team, they had to redo it at their own expense.
+Tools
+3. The Worker provided his own tools even though he was not obligated to do so.
+[14] What factors suggest that the Worker was an employee of the Payor?
+Tools
+1. At the beginning, the Payor and the condominium developer provided all the tools and equipment required.
+Responsibility for investment and management
+2. The Worker had no such responsibility.
+[15] Here we have a worker, who, if I accept his submission, was an employee, and yet had a chance of profit and risk of loss, provided his own tools, even though he was not obligated to do so, and who did not really work under the supervision and direction of Mr. Leclerc. In fact, the hours of work and the work to be performed were dependent on the condominium developer’s instructions, directives and timetable, and the work and the hours of work were further determined by mutual agreement among the Worker, the Other Worker and Mr. Leclerc, working as a team. I cannot see that in these circumstances the Worker was an employee.
+[16] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 25th day of November 2010.
+“Paul Bédard”
+Bédard J.
+CITATION: 2010 TCC 601
+COURT FILE NO.: 2009-3455(CPP), 2009-3454(EI)
+STYLE OF CAUSE: RYAN THOMAS McKENNA v. M.N.R.
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: November 4, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: November 25, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Patrick K. MacEwen
+Counsel for the Respondent:
+Gregory King
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Patrick K. MacEwen
+Firm: Newton & Associates
+Dartmouth, Nova Scotia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

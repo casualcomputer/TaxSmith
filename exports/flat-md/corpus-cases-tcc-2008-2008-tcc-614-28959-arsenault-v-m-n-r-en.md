@@ -1,0 +1,174 @@
+---
+title: "Arsenault v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28959/index.do"
+last_modified: "2008-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 614"
+citation2: ""
+neutral_citation: "2008 TCC 614"
+decision_date: "2008-11-10"
+language: "en"
+item_id: "28959"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4177
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:39:13.235000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d46069daddadaf626c85bdcbb5b39487f6f540ac70ca8006c3ca647087e34e86"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arsenault v. M.N.R.
+
+- Citation: 2008 TCC 614
+- Decision date: 2008-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4177, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arsenault v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-10
+Neutral citation
+2008 TCC 614
+File numbers
+2008-326(EI)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-326(EI)
+BETWEEN:
+RÉMY ARSENAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE.
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on August 13, 2008, at Sept-Îles, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Benoit Mandeville
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue on December 10, 2007, under the Employment Insurance Act is affirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+"Robert J. Hogan"
+Juge Hogan
+Translation certified true
+on this 10th day of August 2009.
+Elizabeth Tan, Translator
+Citation: 2008 TCC 614
+Date: 20081110
+Docket: 2008-326(EI)
+BETWEEN:
+RÉMY ARSENAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The issue raised in this appeal is whether the appellant had insurable hours during the period covered in the notice, from September 4, 2006, to November 3, 2006 (the "notice period").
+The facts
+[2] The appellant testified that he was an industrial mechanic who had been working for the thermal energy production unit at the Produits Forestiers Arbec paper mill (the payor) since March 1998. On June 3, 2006, the company closed the paper mill and temporarily laid off 55 employees, including the appellant. Under the collective agreement, the appellant was entitled to continue his health benefits during the first three months after the layoff.
+[3] On July 26, 2006, the appellant was informed that the paper mill was closing definitively and was laid off permanently by the company. In accordance with the Québec Labour Standards Act, the company was required to give the employees eight weeks' notice. It chose another solution and paid the appellant $9,302.78 in lieu of notice. This amount was paid in weekly instalments of $1,033.60 during the period in question, from September 4, 2006, to November 3, 2006. Employment insurance premiums were deducted on these amounts.
+[4] The appellant did not provide any services to the payor following the closure, except for the week of October 8 to 14, 2006, for which he received compensation of $1,042 for 40 hours of work, ensuring the maintenance of a thermal energy production unit that supplied the sawmill operated by a sister company. The collective agreement between the company and the union provided a recall order based on seniority. Further to the layoff and the notice period, the appellant was called back many times to perform maintenance work on an energy production unit that supplied the sawmill.
+Analysis
+[5] The appellant noted that the employment relationship still existed because the collective agreement was valid for three more years. Moreover, he argued that the payor had deducted the applicable employment insurance benefits from the $9,302.78 that he had received as salary in lieu of notice and these wages should therefore be considered as payment for insurable employment for the number of hours the appellant would normally have worked, and for which he would have been compensated.
+[6] The respondent states that with the exception of the single week during which the appellant worked during the notice period, the $9,302.78 received as notice during the period in question does not correspond to hours of insurable employment under section 9.1 of the Employment Insurance Regulations (the Regulations); the respondent added that the appellant was not an employee at the time and was not actually working since the paper mill had closed permanently.
+[7] The term "insurable employment" is defined at paragraph 5(1)(a) of the Employment Insurance Act (the Act), S.C. 1996, c. 23:
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received fromthe employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by piece, or otherwise;
+The methods for determining the hours of insurable employment are described in the Regulations, SOR/96-332, which state:
+9.1 Where a person's earnings are paid on an hourly basis, the person is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated.
+And subsection 10.01(1) of the Regulations:
+10.01(1) If a person is required under their contract of employment to be available for a certain period awaiting a request from their employer to work, the hours during that period are deemed to be hours of insurable employment if the person is paid for those hours at a rate equivalent or superior to the remuneration that would be paid if the person had actually worked during that period.
+[8] Section 9.1 of the Regulations states, "…the person is considered to have worked in insurable employment for the number of hours that the person actually worked…" [emphasis added.]
+[9] In Gagné v. Canada (Minister of National Revenue), [1997] T.C.J. No. 1357 (QL), a clarification of what "work" means can be found at paragraph 15:
+What is generally meant by work or the doing of work is the performance of physical and/or mental activities, performance of which is useful to and assists in achieving a desired result which the payer giving out the work wishes to achieve…
+[10] Except for the week of October 8 to 14, 2006, the appellant did not work during the notice period.
+[11] In order to be entitled to insurance employment benefits, a person must meet certain conditions set out at subsection 7(2) of the Act:
+7(2) An insured person, other than a new entrant or a re-entrant to the labour force, qualifies if the person
+(a) has had an interruption of earnings from employment; and
+(b) has had during their qualifying period at least the number of hours of insurable employment set out in the following table in relation to the regional rate of unemployment that applies to the person.
+[12] Section 9.1 of the Regulations, and subsection 7(2) of the Act specifically require the beneficiary to have accumulated the required number of hours of insurable emplyoment. It is not sufficient to show that the beneficiary might have been in some type of employment relationship or another.
+[13] The respondent states that the appellant's permanent layoff date was when his employment was terminated. Except for one week in October, he did not truly carry out any work during the rest of the notice period. I agree with the respondent's argument that, under section 9.1 of the Regulations, the appellant does not meet the criterion of number of hours actually worked during the notice period.
+[14] The appellant states that he has, without a doubt, insurable employment hours under subsection 10.01(1) of the Regulations. Under this provision, hours during which a person is available to work in accordance with their employment contract are considered insurable hours.
+[15] Subsection 10.01(1) came into force on October 24, 2002. The regulatory impact analysis statement indicates that the purpose of the provision regarding availability is:
+(a) to help reduce discrimination towards women and health care workers;
+(b) to recognize that since the employer exercises control over the employee when he/she is on standby, these hours are key components of the employee's employment contract and should thus be considered insurable.[1]
+[16] Section 10.01 was added following R. v. Murphy, No. A-402-99, October 5, 2000, in which the Federal Court of Appeal confirmed a judgment by the Tax Court of Canada, 1999 CarswellNat 3238. In the case submitted to the Tax Court, the calculation of insurable hours of employment was challenged. The Tax Court found that the hours during which an employee is on standby are insurable hours if they are remunerated, even if the employee does not work. In Murphy, the appellant was an X-ray technician in a hospital. Other than her usual duties, she was on standby every night. When on standby, employees were to:
+(a) remain close to a telephone and keep the hospital informed of the number at which he or she could be reached;
+(b) stay sufficiently close to the hospital to permit him or her to reach the hospital within a maximum period of twenty-five minutes.
+The Court showed that, while on standby, technicians were paid $2.50 an hour for each hour of availability if not called in to work. However, if called in, the technician was paid at a higher rate. The Minister noted that the appellant was free to do what she wanted during these standby hours, for example, stay home, take care of her children or sleep at night; in his opinion, these hours did not actually count as hours "actually" worked. The appellant stated that she performed services during these standby hours, for example by remaining close to a telephone and staying within a twenty-five minute range to the hospital. The Tax Court found that the appellant was doing what the employer legally required her to do. The standby hours were therefore considered hours of insurable employment.
+[17] Subsections 10.01(1) and (2) of the Regulations state:
+10.01(1) If a person is required under their contract of employment to be available for a certain period awaiting a request from their employer to work, the hours during that period are deemed to be hours of insurable employment if the person is paid for those hours at a rate equivalent or superior to the remuneration that would be paid if the person had actually worked during that period.
+(2) Despite subsection (1), if a person is required by their employer under their contract of employment to be present at the employer's premises for a certain period in case their services are required, the hours during that period are deemed to be hours of insurable employment if the person is paid for those hours.
+[18] During the notice period, the appellant did in fact work for the payor during the week of October 8 to 14, 2006. Moreover, the payment records show that he worked for the payor for one week in November 2006, and also for a total of six weeks in 2007. The fact the appellant worked for the payor after his permanent layoff leads to the possibility that the employment relationship between the appelllant and the payor continued, even after the general layoff.
+[19] As explained by the Federal Court of Appeal in Canada (Attorney General) v. Sirois, [1999] F.C.J. No. 523 (QL), even if an employee isno longer working, it does not necessarily mean there is no longer a contract of employment. The employment relationship might continue even if the worker no longer provides services to his or her employer. In Sirois, the Court of Appeal found that the respondent still had insurable employment after being laid off.
+[20] Sirois must be distinguished from the present case. In Sirois, under the regulations in force, the respondent Sirois was available during his pre-retirement leave, meaning the employment relationship was not severed. On the other hand, in the present case, there is no regulation in effect that places the appellant on standby.
+[21] The respondent states that the employment relationship between the employer and the payor was severed on August 25, 2006, and all subsequent call backs were new contracts entered into with the employer. This is a valid argument but the baisis is not necessarily accurate or correct. The reality of the appellant's situation was such that the employee-employer relationship was not completely severed during the period in question because the appellant provided services to the payor at various times after he was laid off, as noted above.
+[22] Moreover, in his notice of administrative appeal dated November 2, 2007, the appellant wrote that he worked part time for the payor at that time. Even if the employment situation developed from a full-time job to a part-time job, the employment relationship was not necessarily severed.
+[23] The respondent's reasoning that the employment contract between the payor and the appellant was severed following the layoff, and that the subsequent call backs were new contracts between the payor and the appellant are not supported by the case law. Despite the official character of the layoff notice, the reasoning is debatable since the "new" contracts were essentially identical to the "original" contract: same parties, same work, same compensation, same duties and functions, same location, etc. There is nothing in the facts or in the case law that leads to the conclusion that each subsequent call back was a new employment contract.
+[24] The appellant stated:
+[translation]
+I knew deep down inside that clearly, I would be called back one day or another to work at that factory, considering the boiler was still operational and I was assigned to the boiler during the years the factory was in operation; I new very well that I would be called back because the central boilers were still operating. At that level, I knew and the company also knew it.[2]
+[25] If the payor had truly wanted to terminate the employment relationship with the appellant at the time of the layoff, the call backs would not have occurred.
+[26] It can be argued that the employment contract between the payor and the appellant continued during the period in question and that the first condition of subsection 10.01(1) of the Regulations was therefore met.
+[27] The second condition under subsection 10.01(1) of the Regulations is: "[i]f a person is required under their contract of employment to be available for a certain period awaiting a request from their employer to work ."
+[28] However, for the appellant to be correct, he must be able to prove that his employer required him to be available and show up to work quickly during the notice period.
+[29] Under the collective agreement, it was possible for laid-off employees to be called back according to their seniority. However, this is not the same thing as being on standby. During the layoff, it is not a given that the same control can be exercised over the employee. Following the group layoff, the appellant was free to find another job. He was not at all required to be available, or be ready to act or react or go to the work site immediately, by remaining close to a telephone, carrying a pager or staying within a well-defined zone. As a result, I feel that the appellant was not on standby during the notice period.
+[30] For the above-noted reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 10th day of August 2009.
+Elizabeth Tan, Translator
+CITATION: 2008 TCC 614
+COURT FILE NO.: 2008-326(EI)
+STYLE OF CAUSE: RÉMY ARSENAULT v. M.N.R.
+PLACE OF HEARING: Sept-Îles, Quebec
+DATE OF HEARING: August 13, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDDGMENT: November 10, 2008
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Regulatory impact analysis statement, Can. Gaz. 2002.II.2323, SOR/2002-377.
+[2] Transcript, page 38, lines 10 to 19 .

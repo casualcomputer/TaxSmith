@@ -1,0 +1,319 @@
+Title: Savard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28482/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-62-28482-savard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-03-04
+
+# Savard v. The Queen
+
+- Citation: 2008 TCC 62
+- Decision date: 2008-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1279, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Savard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-04
+Neutral citation
+2008 TCC 62
+File numbers
+2006-1911(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1911(IT)G
+BETWEEN:
+DANIEL SAVARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on October 17, 2007, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Robert Marcotte
+Counsel for the Respondent:
+Stéphanie Côté
+__________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1998 and 1999 taxation years is allowed, with costs to the Appellant, and the assessment is vacated on the ground that there is no evidence to justify an assessment being made after the time ordinarily allowed, in accordance with the attached Reasons for Judgment.
+The penalties are of course set aside as a consequence of the assessments being vacated.
+Signed at Ottawa, Canada, this 20th day of February 2008.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 11th day of June 2008.
+Susan Deichert, Reviser
+Citation: 2008TCC62
+Date: 20080304
+Docket: 2006-1911(IT)G
+BETWEEN:
+DANIEL SAVARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal for the 1998 and 1999 taxation years under the Income Tax Act (the “Act”).
+[2] The issues are as follows:
+[TRANSLATION]
+11. Was the Minister correct in issuing the notices of reassessment in issue after the period ordinarily allowed for reassessments?
+12. Did the Appellant receive a benefit from Industries FDS Inc. when it paid the Appellant’s professional fees in 1998 and 1999 in the amounts of $72,244 and $4,167, respectively?
+13. In the alternative, do the professional fees paid for the benefit of the Appellant have to be included in his income under subsection 56(2) or 246(1) of the Act?
+14. Did the Appellant knowingly or under circumstances amounting to gross negligence fail to include the fees received in his income?
+[3] In making and confirming the assessments and penalties relating to the 1997, 1998 and 1999 taxation years, the Minister of National Revenue (the “Minister”) relied on the following facts, as set out in the Reply to the Notice of Appeal (the “Reply”):
+[TRANSLATION]
+9. ...
+(a) On March 20, 1998, Judge Morand of the Court of Québec (Criminal and Penal Division) found the Appellant guilty on 15 counts of making false documents and uttering forged documents, contrary to sections 366 and 368 of the Criminal Code (R.S.C. 1985, c. C‑46).
+(b) The acts with which the Appellant was charged were committed between November 1985 and March 1988.
+(c) At that time, the Appellant was a shareholder and employee of Industries Savard Inc.
+(d) The Appellant made false accounting documents and submitted them to financial institutions on behalf of his company, Industries Savard Inc., to obtain financing.
+(e) Throughout 1998 and 1999, the Appellant was employed by Industries FDS Inc. (the “Company”).
+(f) His employment contract provided that professional fees incurred by him for legal proceedings involving him personally would be paid by the Company.
+(g) During those years, the Company paid professional fees for services retained by the Appellant for his own benefit.
+(h) Those professional fees included the fees and disbursements of counsel for the following proceedings:
+(i) Trial for making false documents and uttering forged documents, attendance for judgment and sentencing submissions in the Court of Québec (Criminal and Penal Division);
+(ii) Appeal to the Quebec Court of Appeal from conviction and sentence;
+(iii) Application to the National Parole Board;
+(iv) Application to the Appeal Division of the National Parole Board;
+(v) Application to the Quebec Court of Appeal for review of the decisions of the authorities referred to in subparagraphs (iii) and (iv);
+(vi) Action brought against the Appellant by Jean‑Jacques Verrerault in the Superior Court;
+(i) In 1998, those fees (legal and other) totalled $72,244, the breakdown being as follows:
+Persons to whom fees were paid
+Total amount
+Lepage Dinan, Advocates
+$11,928
+KPMG
+$1,576
+Michel Aubin
+$20,000
+Jacques Normandeau
+$21,000
+Josée Ferrari
+$9,953
+Henri A. Lafortune Inc.
+$2,713
+Jacques St-Onge, Psychologist
+$5,075
+(j) In 1999, those fees totalled $4,167, the breakdown being as follows:
+Persons to whom fees were paid
+Total amount
+Lepage Dinan, Advocates
+$1,167
+Jacques Normandeau
+$3,000
+(k) The Appellant did not include those fees in his income when he filed his income tax returns for 1998 and 1999.
+10. ...
+(a) In 1998 and 1999, the Appellant retained professional services, including the services of counsel to represent him in the Court of Québec (Criminal Division), the Quebec Court of Appeal, the National Parole Board and the Appeal Division of the National Parole Board.
+(b) The Company paid the professional fees for the services retained by the Appellant, for the benefit of the Appellant.
+(c) The Appellant was a director and the president of the Company.
+(d) The Appellant knew that the Company was making payment directly to the persons who supplied the professional services:
+(i) He initialled the statements of account for the fees.
+(ii) He signed the cheques making payment of the fees.
+(iii) His employment contract provided for this.
+(e) The Appellant had previously been audited, for the 1991 to 1995 taxation years, and an employee benefit had been included in his income for similar, substantial professional fees incurred by him and paid by his employer.
+(f) Moreover, a penalty under subsection 163(2) of the Act had been imposed for each of those years.
+(g) The Appellant did not include the $72,244 and $4,167 in his income in 1998 and 1999, respectively, representing the total professional fees paid on his behalf by the Company.
+(h) These are substantial amounts, as compared to the income reported for those years, and in particular 1998, when they represent 108% of the income reported.
+[4] A number of the facts alleged in the Notice of Appeal were admitted; they are as follows:
+[TRANSLATION]
+1. THE APPELLANT appeals from NOTICES OF ASSESSMENT Nos. 7‑050906‑012130 and 7‑050906‑012437 issued by the Canada Customs and Revenue Agency (the “Agency”) under the Income Tax Act (R.S.C. 1985, 5th Supp.) (the “ITA”), dated September 15, 2005, in which the Minister of National Revenue assessed the APPELLANT $38,392.24 and $2,103,07, for the 1998 and 1999 taxation years, respectively.
+2. During the period preceding the 1998 taxation year, the APPELLANT committed acts that resulted in criminal charges being laid against him.
+...
+4. At that time, Industries FDS Inc. was a subsidiary of 2746‑8479 Québec Inc.
+5. At that time, all of the issued and outstanding shares of 2746‑8479 Québec Inc. were held by the APPELLANT’s spouse, Anne Giguère.
+6. On March 19, 1998, the APPELLANT was convicted of the criminal charges laid against him and he was sentenced on May 7, 1998.
+7. During the 1998 and 1999 taxation years, Industries FDS paid lawyers’ fees relating directly and indirectly to the prosecutions against the APPELLANT.
+...
+9. On May 3, 2002, following an audit, the Agency issued notices of reassessment to Industries FDS Inc. for the 1996, 1997, 1998 and 1999 taxation years, in which the Agency disallowed, among other things, the deduction of professional fees in the following amounts:
+Year
+Amount
+1996
+$23,369
+1997
+$9,972
+1998
+$72,244
+1999
+$4,167
+$109,752
+10. On May 3, 2002, Industries FDS Inc. filed notices of objection, in proper form, to the notices of reassessment for 1996, 1997, 1998 and 1999 issued on May 3, 2002.
+...
+13. On July 16, 2002, Anne Giguère filed notices of objection, in proper form, to the notices of reassessment for the 1996, 1997, 1998 and 1999 taxation years issued on May 3, 2002.
+14. On September 15, 2005, in reply to the notice of objection filed by Anne Giguère, the Agency issued notices of reassessment to Anne Giguère for the 1996, 1997, 1998 and 1999 taxation years in which, among other things, the Agency removed from Ms. Giguère’s income the taxable benefits relating to the payment of professional fees in the following amounts:
+Year
+Amount
+1996
+$23,369
+1997
+$9,972
+1998
+$72,244
+1999
+$4,167
+$109,752
+15. On September 15, 2005, the Agency issued the following to the APPELLANT:
+a. a notice of assessment in the amount of $38,392.24, No. 7‑050906‑012130, for the 1998 taxation year. That notice of assessment added to the APPELLANT’s income a taxable benefit in the amount of $72,244, relating to “Personal expenses paid by ‘Les Industries FDS Inc.’ (lawyer’s fees)”, and levied duties in the amount of $15,164.58, a $7,939.75 penalty and $15,288.41 in interest, and
+b. a notice of assessment in the amount of $2,103.07, No. 7‑050906-012437, for the 1999 taxation year. That notice of assessment added to the APPELLANT’s income a taxable benefit in the amount of $4,167, relating to “Personal expenses paid by ‘Les Industries FDS Inc.’ (lawyer’s fees)”, and levied duties in the amount of $904.94, a $495.95 penalty and $702.18 in interest.
+16. On October 31, 2005, the APPELLANT filed notices of objection, in proper form, to the notices of assessment issued on September 15, 2005, Nos. 7‑050906‑012130 and 7‑050906-012437.
+17. On or about March 30, 2006, the Minister of National Revenue confirmed notices of assessment Nos. 7‑050906-012130 and 7‑050906-012437 issued to the APPELLANT on September 15, 2005. THE NOTICE OF CONFIRMATION BY THE MINISTER CONTAINED THE FOLLOWING STATEMENT:
+You received taxable benefits in the course of your employment with Industries FDS Inc. The value of those benefits, which totalled $72,244 in 1998 and $4,167 in 1999, constitutes income from an office or employment under paragraph 6(1)(a).
+Reassessments were made under subparagraph 152(4)(a)(i) for the 1998 and 1999 taxation years based on a misrepresentation attributable to neglect, carelessness or wilful default in filing the returns.
+You knowingly or under circumstances amounting to gross negligence made an omission in your income tax returns for the 1998 and 1999 taxation years, within the meaning of subsection 163(2). Because the taxes and amounts payable under paragraphs 163(2)(a) to (g) exceed the taxes and amounts that would have been payable if they had been calculated under those paragraphs, you are liable to penalties of $7,939 for 1998 and $495 for 1999, calculated in accordance with subsection 163(2).
+18. The APPELLANT appealed from notices of assessment Nos. 7‑050906-012130 and 7‑050906-012437, which were issued to the APPELLANT on September 15, 2005, by the Agency.
+...
+[5] The following paragraphs of the Reply were admitted:
+[TRANSLATION]
+9. ...
+(a) On March 20, 1998, Judge Morand of the Court of Québec (Criminal and Penal Division) found the Appellant guilty on 15 counts of making false documents and uttering forged documents, contrary to sections 366 and 368 of the Criminal Code (R.S.C. 1985, c. C‑46).
+(b) The acts with which the Appellant was charged were committed between November 1985 and March 1988.
+(c) At that time, the Appellant was a shareholder and employee of Industries Savard Inc.
+(d) The Appellant made false accounting documents and submitted them to financial institutions on behalf of his company, Industries Savard Inc., to obtain financing.
+(e) Throughout 1998 and 1999, the Appellant was employed by Industries FDS Inc. (the “Company”).
+(f) His employment contract provided that professional fees incurred by him for legal proceedings involving him personally would be paid by the Company.
+(k) The Appellant did not include those fees in his income when he filed his income tax returns for 1998 and 1999.
+10. ...
+(c) The Appellant was a director and the president of the Company.
+(d) The Appellant knew that the Company was making payment directly to the persons who supplied the professional services:
+(i) He initialled the statements of account for the fees.
+(ii) He signed the cheques making payment of the fees.
+(iii) His employment contract provided for this.
+(g) The Appellant did not include the $72,244 and $4,167 in his income in 1998 and 1999, respectively, representing the total professional fees paid on his behalf by the Company.
+[6] The Appellant was the only witness for his appeal. He acknowledged most of the facts. However, he denied that he had received any benefit from the professional fees paid to various lawyers by the company for which he worked, and in which all of the shares were held by his spouse. The amounts of the fees in question were not disputed.
+[7] First, the Appellant said that the fees were paid in accordance with his employment contract. Second, he said that the services provided by the various lawyers and professionals had primarily benefited Industries FDS Inc., which paid the amounts referred to in the assessment.
+[8] He explained that during the years in question he was the head of the company, which employed about 200 people; he said that at that time, he was the person on whom depended both the success and the growth of the company, the shares in which were owned by his spouse.
+[9] He said that the company was very profitable at that time and that most of its success was attributable to him. In other words, the Appellant said that he was essential to the company.
+[10] In support of that assertion, he showed that a number of important parties, including a bank, had required that he manage the business, or otherwise they would terminate their business relationship with the company.
+[11] He explained that after he was sentenced to several years in penitentiary, the fees were paid to have his term of imprisonment reduced. His sentence was reduced from seven years to two years less a day. The purpose for which the various professional services were retained was to obtain less stringent conditions of detention so that he would be closer to his place of work and would be in a better situation to look after the company’s affairs, he being the president and general manager of the company, and his spouse being, I would recall, the sole shareholder.
+[12] In support of his assertion that he was an employee who was essential to the success of the business, he said he had been visited several times by managers in the company after he received approval from the prison authorities to have numerous telephone conversations on a daily basis with various people who were handling the management of the business, so that he could ensure that it was being run properly. He also said he had had special permission, including supervised leave, so that he could play the lead role in negotiating an important contract.
+[13] The acts with which the Appellant was charged, which led to his conviction, were committed between November 1985 and March 1988, while he was employed by Industries Savard Inc., a different company from the one that paid the fees that are the subject of this appeal. He was charged with, among other things, making false documents, including fictitious accounts receivable, to enhance the financial image of the business.
+[14] During 1998 and 1999, the Appellant was employed by Industries FDS Inc. (the “company”). His employment contract provided that his employer would be responsible for paying fees relating to criminal prosecutions for acts allegedly committed by him during the time he was working for Industries Savard Inc.
+[15] Essentially, the Appellant did not deny that he benefited from the assistance of the various professionals, and more specifically the services of several lawyers; he hastened to add, however, that the company of which his spouse was the sole shareholder, and of which he was president and general manager, was the legal person that primarily benefited from the work for which the fees were paid.
+[16] Although it was proved on a balance of probabilities that the Appellant was essential to the company that paid the fees, must we conclude that the company is the entity that benefited most from the fees paid?
+[17] The undeniable fact is that had the Appellant not been employed by Industries FDS Inc. when the proceedings were initiated, he would have had to pay the cost of the professional fees for his defence personally.
+[18] Payment of the professional fees undeniably improved the Appellant’s economic situation; in addition, payment of the professional fees was not intended to reimburse the Appellant for any prejudice suffered by him as a result of his employment at the time the acts charged were committed. Rather, this was a benefit granted in connection with his employment with Industries FDS Inc., which was in fact provided for in his employment contract.
+[19] The Appellant reviewed the company’s tax history as it related to the fees paid in connection with his case. He explained that the company had been audited previously, as a result of which the principal shareholder, his spouse, had been assessed in connection with the shareholder benefit relating to the payments of the same professional fees, which were owing and paid in connection with the criminal charges against her spouse.
+[20] After the notice of objection was filed and discussions were held, the Minister vacated the assessment relating to the spouse; he then agreed that the company would declare the expense relating to the fees under the employment contract that the Appellant had provided to him.
+[21] After that change of mind, the Appellant himself was reassessed on the ground that this was a benefit from his employment. The assessment in question has never been paid, since the Appellant has made an assignment of property.
+[22] In September 2005, the Minister resumed his efforts and made another assessment, the facts and basis of which were substantially the same. This time, the period covered by the assessment corresponded to the 1998 and 1999 taxation years.
+[23] Here again, the assessment was made in the name of the principal shareholder, the Appellant’s spouse. After a new objection was filed, once again, the assessment was again vacated and a new one made against the Appellant. In other words, the Minister repeated the same scenario.
+[24] The Respondent called David Kirk to testify; he essentially reiterated the facts established by the Appellant’s evidence: that these two assessments were made, based on the same facts, for what were, however, different periods.
+[25] For both periods, the first assessments were made against the Appellant’s spouse on the ground that she had received a benefit as the principal shareholder. In response to her submissions, in both cases, the assessments were vacated and reassessments made against the Appellant on the ground that he had received a benefit arising out of the work he performed, and in particular out of the employment contract.
+[26] The first assessment was never paid, and was included in the Appellant’s liabilities when he made an assignment of his property. This appeal relates to the period from 1998 to 1999, and the facts indicate that the assessment in question arises out of the second audit.
+[27] The Appellant acknowledges that he received at least a portion of certain benefits, including a much shorter period of incarceration, but also, according to his own testimony, much more flexible conditions of detention that allowed him to look after the affairs of the company that paid the lawyer’s fees.
+[28] He submits, however, that the benefits were mainly received by the company, given that the Appellant was then more available to the company, this being of considerable importance for the proper management of the company in question.
+[29] The Appellant described himself as a very high-level employee, and even as an essential person. He argued that this was the fundamental reason why the fees were paid by the company, and in return the company had the benefit of his experience, talents and expertise.
+[30] He also said that the professional fees were paid by the company under the employment contract between him and the company.
+[31] The Respondent stressed that the criminal proceedings against the Appellant, which led to a guilty verdict with a sentence of imprisonment, arose out of the criminal facts and actions (making a number of false documents, including creating very substantial and entirely fictitious accounts receivable) that dated back to a period when he was not employed by the company that paid the fees.
+[32] The company that benefited artificially from the fraud was not the company that paid the fees incurred in respect of the criminal proceedings. In other words, the criminal acts had nothing to do with the company that paid the fees.
+[33] The Respondent therefore submits that Industries FDS Inc. received no benefit from the payments it made. This was essentially money added to the salary paid to the Appellant in relation to his employment, and this explains the assessment made against the Appellant.
+[34] However, if things were as clear as the Respondent claims, why did she make the initial assessment against the shareholder?
+[35] The assessments under appeal relate to the 1998 and 1999 taxation years, years in respect of which the time allowed for reassessing has expired.
+[36] In fact, the Appellant submits that the assessment under appeal is statute-barred.
+[37] The Appellant further alleges that he committed no fraud, wilful default or misrepresentation such as would justify making a reassessment or imposing a penalty, because the time limit has expired.
+[38] The Respondent submits that the payments made by the company on behalf of the Appellant provided him with a benefit in connection with his employment under subsection 6(1) of the Act, and accordingly the payments form an integral part of his income from employment.
+[39] The Respondent also argued that the misrepresentation of facts made as a result of neglect, carelessness or wilful default authorizes the Respondent to assess the Appellant even if the time limit has expired. In other words, the Respondent contends that the limitation period does not apply.
+Analysis
+[40] Are the fees paid by Industries FDS Inc. to various professionals for the services performed for the Appellant a taxable benefit to the Appellant?
+[41] The decision in Dionne, [1996] T.C.J. No. 1691, 97 D.T.C. 265, cited by the Respondent, is extremely clear as to the position to be taken in this case. In that decision, Mr. Justice Archambault of the Tax Court of Canada stated the following:
+To determine whether a reimbursement constitutes a “benefit” under paragraph 6(1)(a), I believe it must be asked whether the purpose of the reimbursement is rather to remedy a harm suffered by the employee as a consequence of his employment. If this is the case, it cannot rightly be argued that an employer is conferring a benefit on an employee. In remedying the harm suffered by an employee, the employer is merely restoring him to the position he was in before he suffered the harm. In my opinion, when the question as to whether a reimbursement constitutes a benefit is considered from this perspective, it is easier to determine to what extent a reimbursement must be included in or, conversely, excluded from a taxpayer’s income.
+...
+It should be added, while determining the existence of prejudice caused by employment helps in distinguishing reimbursements that constitute a benefit for the purposes of paragraph 6(1)(a) from those that do not, the ultimate test is still whether a benefit is conferred on an employee. …
+...
+This leads us to make one final remark:
+Remark 4
+The reimbursement of a personal expense does not necessarily represent a benefit for the employee. What is conclusive is the purpose of the payment and the effect achieved: is it intended to remedy prejudice caused by his employment or to provide a benefit? Did the employee enjoy a benefit?
+[42] The Appellant was prosecuted for crimes committed while he was employed by a different business. Because he was the only person responsible, he obviously cannot claim that the facts and acts with which he was charged are connected with his employment at Industries FDS Inc. because those facts and acts date back to a period prior to when he started working for Industries FDS Inc.
+[43] Because he was a key person in the business, obviously a prosecution for making false accounts receivable could have had an impact on the company’s image.
+[44] Nonetheless, the evidence established that the Appellant’s presence within the business was desired and desirable, on the part of the persons and entities that would normally have wanted him to be dismissed. The fact that they supported the Appellant says a great deal about his professional skills.
+[45] While the Appellant was incarcerated, he was allowed to receive visits from and to make telephone calls to his managers and other company employees; he even obtained permission to negotiate a major contract outside the prison.
+[46] Despite being incarcerated, the Appellant was able to perform duties associated with his employment and manage the business.
+[47] In my opinion, the evidence has established that the Appellant played an essential role in the company that paid the fees; on the other hand, it is equally obvious that the Appellant received a real benefit. In fact, the fact that the payment was stipulated in his employment contract shows that this was an indirect form of remuneration.
+[48] Had the Appellant not been employed by FDS at the time of the prosecution, he would have had to pay the cost of the professional fees personally, to defend himself or pay for the various consultations that were needed. Payment of the professional fees undeniably improved his economic situation. There is therefore no doubt that payment of the professional fees was not intended as reimbursement for a prejudice suffered by the Appellant as a result of his employment. Rather, it was a benefit conferred by reason of his employment with Industries FDS Inc.
+Limitation Period in Respect of the Notice of Assessment
+[49] Subparagraph 152(4)(a)(i) of the Act, which governs time limits for assessments, reads as follows:
+(4) Assessment and reassessment [time limit] -- The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, ...
+[50] The Federal Court of Appeal clarified the expression “misrepresentation” in Boucher, 2004 FCA 46, 2004 CarswellNat 954, 2004 D.T.C. 6084, [2004] 2 C.T.C. 179 (QL), in which the Court said that there must be not only misrepresentation in order for the Minister to be able to assess after the expiry of the time allowed. The Court said that there must be, in addition to a misrepresentation, a finding that the misrepresentation is attributable to neglect, carelessness or wilful default on the part of the taxpayer.
+[51] It should be noted that the burden of proving that an assessment made after the prescribed time is well-founded in law rests on the Department, under subparagraph 152(4)(a)(i) of the Act (see Bigayan v. R., [2000] 1 C.T.C. 2229).
+[52] Mr. Justice Cardin of the Tax Review Board interpreted the words “neglect” and “carelessness” in subparagraph 152(4)(a)(i) of the Act as having the same meaning as their ordinary meaning. In Froese v. M.N.R., [1981] C.T.C. 2282, Cardin J. said the following:
+I do not believe that in this context any inference other than their generally accepted meaning can or should be given to the words “neglect” or “carelessness” which is the contrary of the reasonable care that is ordinarily, usually, or normally given by a wise and prudent person in any given circumstances.
+[53] The expression “neglect” was defined by Mr. Justice Strayer of the Federal Court of Appeal in Venne v. R, [1984] C.T.C. 223, [1984] F.C.J. No. 314 (QL). Strayer J.A. wrote the following:
+I am satisfied that it is sufficient for the Minister, in order to invoke the power under sub‑paragraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care.
+[54] The Court therefore concluded that the taxpayer had been negligent because he did not read the tax returns filled out by his accountant before sending them. In addition, the Court found that the errors were so gross that even a person with a limited education should have noticed them.
+[55] In this case, the Respondent bases her argument regarding the limitation period in respect of the assessment on Nesbitt v. Canada, [1996] F.C.J. No. 1470, a decision of the Federal Court of Appeal.
+[56] In that case, the Appellant had admitted making an error in his return, and admitted that it was his fault and had been committed out of carelessness. The Court said that in order for there to be a misrepresentation, there had to be an incorrect statement on the return form.
+[57] The Court therefore concluded that the taxpayer had been negligent because he had not read the tax returns filled out by his accountant before sending them. In addition, the Court added that the errors were so gross that even a person with a limited education should have noticed them.
+[58] That is obviously a very liberal interpretation of subparagraph 152(4)(a)(i) in terms of the Minister’s right to assess after the normal period. The result would be that the Minister would not have to comply with the time limit whenever he could establish that there was an error in a taxpayer’s tax return. That interpretation is contrary to the spirit of the provision and to the judicial interpretations quoted earlier.
+[59] I do not believe that evidence of a single error resulting from the presence of an inaccurate fact is sufficient to preclude the effect of the time limit in the Act. Rather, I think that there needs to be evidence of a more serious wrongdoing than mere error.
+[60] The Respondent also cited Demers v. Canada, [2002] T.C.J. No. 326, a decision of Chief Judge Garon, as he then was, of the Tax Court of Canada. The facts in that case cannot be compared to the facts in this case. The Court found that the Appellant had not exercised reasonable care. He had deducted expenses relating to a contract entered into by his company from his personal income, when the income received in relation to the contract had been declared in the company’s tax return. This was therefore a clear case of negligence on the part of the taxpayer under subparagraph 152(4)(a)(i).
+[61] The facts in this case are very different. The Respondent assessed the Appellant’s spouse in 2002 based on a benefit to the shareholder for the 1998 and 1999 taxation years. The Respondent then changed her mind and vacated the assessment after receiving the notice of objection and disclosure of the employment contract.
+[62] The Respondent then assessed the Appellant, who subsequently made an assignment of property. This case is based on the assessment made in 2005. Once again, the Department assessed the Appellant’s spouse based on a benefit to the shareholder, before changing her mind again and assessing the Appellant.
+[63] It should be noted that the Respondent’s witness, Martin Kirk, said at the hearing that the question of whether the benefit related to the shareholder or the employee was a complex one. He even added that this is the main problem the Respondent was facing when she made the assessment (see the transcript, at pages 117 and 118).
+[64] As noted in Venne, supra, in order for a taxpayer to come under subparagraph 152(4)(a)(i), it must be established that the taxpayer did not exercise reasonable care. In this case, the Appellant did not make a “misrepresentation that is attributable to neglect, carelessness or wilful default” or commit “any fraud in filing the return”. The Appellant believed in good faith that the amounts in question did not have to be included in his income.
+[65] The fact that the Minister twice assessed the taxpayer’s spouse shows just how complex the situation was. It is clear that the taxpayer did nothing wrong when he failed to include the amounts paid for the fees in his income.
+[66] In fact, even after being informed of the existence of the contract that provided that fees of this nature were payable by his employer, the Respondent assessed not the Appellant, but his spouse.
+[67] The least that can be said is that the situation was by no means clear. The history of the case during the first period tells us quite a bit about the difficulties involved in it.
+[68] The concept of neglect, within the meaning of subparagraph 153(4)(a)(i) of the Act, must be compared to the degree of negligence required in civil liability matters (see Venne, supra, note 5; the Court refers to a less stringent standard of fault than the negligence standard in the “law of tort”, that is, civil liability). In Jet Metals Product Limited, [1979] C.T.C. 2738, the Tax Review Board established a scale for determining the degree of fault required under subsections 152(4) and 163(2), that is, in respect of the time limit for reassessment and for imposing penalties for misrepresentation or omission.
+34 Turning to subsection 163(2) for a moment and its relationship to subsection 152(4), it is noted that it contains no reference to “fraud”, requiring only that the person acted “knowingly” or that the circumstances amounted to “gross negligence”. In my view, misrepresentation is fundamentally a false statement made, or a true statement omitted, and to whatever degree a scale of offences can be seen in subsections 152(4) and 163(2), it might be shown as follows:
+(a) (b) MisrepresentationCarelessnessNegligenceGross negligenceWilful DefaultKnowinglyFraud 152(4)152(4)163(2)152(4)163(2)152(4)
+Using this scale as a general guideline, it will be the basis of the conclusions reached in this decision that to reach a level of “gross negligence”, something greater than “carelessness” or “negligence” is required, and that “wilful default” may be equated with “knowingly”.
+[69] It is therefore clear, from the facts in this case and the case law, that the time for making the assessment had expired and the Respondent could not rely on the exception set out in subparagraph 152(4)(a)(i) of the Act.
+[70] The Respondent submits that the Appellant knew or should have known that these were taxable amounts, and accordingly that he should have added the cost of the fees paid by his employer to his income for the years in question, 1998 and 1999. Why, and based on what? Because the Appellant had direct knowledge of the facts, first, and second, because he was directly affected by how the first case had been dealt with, the facts in that case being to all intents and purposes the same.
+[71] When the first audit was done, the assessment had first been made on the basis that this was a benefit to the shareholder, who was related to the Appellant by the fact that she was his spouse.
+[72] After receiving the notice of objection and disclosure of the employment contract, the Respondent changed her mind, vacated the assessment and reassessed the Appellant, who subsequently made an assignment of property.
+[73] This case is essentially a replay of the same scenario, with the Respondent concluding that the Appellant should have included the amounts paid by his employer in his income.
+[74] This is in fact a reasonable interpretation, and is justified by the facts. However, the Appellant submits that all the facts, and in particular his employment contract, were or should have been known to the Respondent. In spite of that, the first assessment made was of his spouse. It is entirely reasonable to say that he was not guilty of any wrongdoing or neglect. The Respondent had all of the documents and information in hand, and essentially nothing was not known, and yet an assessment was made regarding his spouse.
+[75] The Respondent says that the Appellant should have informed the Minister that the amounts in issue were not part of his spouse’s income and included the amounts in his own income. In the opinion of the Court, that is an unrealistic requirement.
+[76] However, I do not believe that the fact that the Appellant was not that wise, prudent and vigilant can provide any basis that would justify making an assessment after the time limit had expired.
+[77] As well, I believe that the very nature of the issue raised in the notice of objection, but also in this appeal, tells us that the Respondent’s arguments were not as crystal clear, in legal terms, as she would have had us believe.
+[78] Does a person have to include, when he or she fills out a tax return, everything that might be income, based not on his or her own analysis but on speculation as to what the Agency might want to attribute to him or her? I do not believe so. In this case, there was enough information to justify the interpretation adopted by the Appellant: that he had no obligation to declare the payments of fees by his employer as taxable benefits. In fact, the debate as to who really benefited from the services for which the fees were paid is clear evidence of how complex the case was and how much confusion surrounded it.
+[79] In the Respondent’s submission, the Appellant’s deliberate decision to conceal information arising out of his employment contract was sufficient to conclude that there had been wrongdoing.
+[80] In other words, the Respondent would have wanted the Appellant to declare the amounts that his employer had paid in professional fees as part of his income, under protest, in advance. What duty did he have to do this?
+[81] That argument raises a very important question: if things were as clear as they are said to have been, if the facts were so undeniable, why did the Minister, in the second attempt, after investing time in the first tax case, first issue an assessment against the Appellant’s spouse, as a benefit to a shareholder, and then change his mind and issue a reassessment against the Appellant?
+[82] This way of doing things shows that things were not as clear as the Respondent argues today.
+[83] I do not believe that the evidence submitted justifies a finding that the requirements for assessing the Appellant beyond the normal assessment period have been met.
+[84] Having found that there is no evidence that would permit assessment after the time allowed had expired, and given that the requirements for doing so are less stringent and rigid than the requirements for imposing penalties, there is no need to analyze the evidence in respect of gross negligence under subsection 163(2) of the Act relating to penalties.
+[85] For all these reasons, the appeal is allowed and the assessments are vacated on the ground that there is no evidence to justify reassessment after the time limit had expired, with costs to the Appellant.
+Signed at Ottawa, Canada, this 4th day of March 2008.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 11th day of June 2008.
+Susan Deichert, Reviser
+CITATION: 2008TCC62
+COURT FILE NO.: 2006-1911(IT)G
+STYLE OF CAUSE: Daniel Savard and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: October 17, 2007
+AMENDED REASONS FOR
+JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: March 4, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Robert Marcotte
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert Marcotte
+Title: Advocate, Chartered Accountant
+City: Québec, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

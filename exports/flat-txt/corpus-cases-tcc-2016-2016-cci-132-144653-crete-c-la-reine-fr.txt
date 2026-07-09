@@ -1,0 +1,197 @@
+Title: Crete c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144653/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-132-144653-crete-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-05-27
+
+# Crete c. La Reine
+
+- Citation: 2016 CCI 132
+- Decision date: 2016-05-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3090, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crete c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-27
+Référence neutre
+2016 CCI 132
+Numéro de dossier
+2015-3124(IT)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-3124(IT)I
+ENTRE :
+Janice L. Crete,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 9 décembre 2015 à Ottawa (Ontario).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Mélanie Sauriol
+JUGEMENT
+Les appels découlant de la nouvelle détermination aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition de référence 2011, 2012 et 2013 et du crédit pour taxe sur les produits et services pour les années d’imposition 2010, 2012 et 2013 sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 27e jour de mai 2016.
+« Guy Smith »
+Le juge Smith
+Référence : 2016 CCI 132
+Date : 20160527
+Dossier : 2015-3124(IT)I
+ENTRE :
+Janice L. Crete,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. Introduction [1] Janice Crete (l’« appelante ») a interjeté appel sous le régime de la procédure informelle découlant des avis de nouvelle détermination établis par le ministre du Revenu national (le « ministre ») à l’égard de la Prestation fiscale canadienne pour enfants (la « PFCE ) pour les années d’imposition de référence 2011, 2012 et 2013 ainsi que pour le crédit pour taxe sur les produits et services (le « CTPS ») pour les années d’imposition 2010, 2012 et 2013.
+[2] Le ministre fait valoir que les paiements effectués au cours de ces périodes ne tenaient pas compte du fait que l’appelante avait la garde partagée de ses enfants depuis le 27 mars 2012. Il cherche maintenant à recouvrir les paiements en trop.
+[3] L’appel de l’appelante repose sur le fait qu’elle a pris des mesures diligentes pour aviser le ministre que son état civil avait changé et qu’elle a reçu des assurances orales que les changements nécessaires avaient été apportés. Elle affirme qu’elle ne devrait pas avoir à rembourser les paiements en trop qu’elle a reçus et qu’il serait injuste qu’elle soit tenue responsable de l’erreur du ministre découlant du fait qu’il n’a pas tenu compte de son nouvel état civil. Elle soutient que le ministre est préclus de recouvrer les paiements en trop. Elle ne nie pas avoir reçu lesdits paiements en trop.
+[4] La question en litige est de savoir si le ministre a bien évalué la situation de l’appelante aux termes du paragraphe 160.1(1) de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard des paiements en trop reçus par cette dernière après la date de la séparation, lorsqu’elle est devenue un parent ayant la garde partagée. Pour les motifs exposés ci-dessous, l’appel doit être rejeté.
+II. Contexte factuel [5] En vue d’établir et de maintenir les nouvelles déterminations énumérées ci‑dessus, le ministre s’est fondé sur les hypothèses de fait suivantes :
+1. L’appelante et son ex-conjoint sont les parents de J., un enfant né en 1999 et de S., un enfant né en 2001.
+2. Le 3 novembre 2014 ou aux alentours de cette date, l’appelante a informé le ministre que le 27 mars 2012, elle s’était séparée de son ex-conjoint et qu’ils partageraient la garde de leurs deux enfants.
+3. Depuis la date de la séparation, l’appelante et son ex-conjoint partagent la garde de leurs deux enfants de façon égale.
+[6] À l’exception de la date de l’avis mentionné à l’énoncé 2 ci-dessus, l’appelante ne conteste pas ces hypothèses et elle ne conteste pas la réception des paiements en trop suivants :
+CTPS – Années d’imposition 2010, 2011 et 2012
+Années d’imposition
+Somme
+Période
+2010
+59,73 $
+Avril 2012
+2011
+211,32 $
+De juillet 2013 à avril 2014
+2012
+102,26 $
+De juillet 2014 à octobre 2014
+PFCE – Années d’imposition de référence 2011, 2012 et 2013
+Années d’imposition
+Somme
+Période
+2011
+3 456,50 $
+De juillet 2012 à juin 2013
+2012
+3 525,50 $
+De juillet 2013 à juin 2014
+2013
+1 778,76 $
+De juillet 2014 à décembre 2014
+[7] Au moyen d’un deuxième avis de nouvelle détermination daté du 15 mars 2015, le paiement en trop de la PFCE pour l’année d’imposition de référence 2013 (de juillet 2014 à février 2015) a été réduit à 173,28 $. Cette somme ne fait pas partie du présent appel.
+[8] L’appelante était le seul témoin présent à l’audience. Elle soutient qu’elle a appelé l’Agence du revenu du Canada (l’« ARC ») à de nombreuses reprises à la suite de sa séparation pour informer cette dernière de son nouvel état civil. Elle n’a pu donner le nom d’aucun fonctionnaire et a admis avoir simplement composé le soi-disant numéro sans frais. Lors du contre-interrogatoire, elle a admis qu’elle ne s’était pas entretenue avec un employé du service des prestations pour enfants. Elle a cependant soutenu qu’elle avait indiqué que son état civil était « Séparé(e) » dans sa déclaration de revenus de 2012.
+[9] Le 17 mai 2013, elle a reçu un chèque de 8 790,53 $ qu’elle a déposé dans son compte bancaire (elle a présenté l’enveloppe de l’ARC sur laquelle elle avait inscrit la date de réception). Selon l’appelante, elle a immédiatement communiqué avec l’ARC pour s’assurer qu’aucune erreur n’avait été commise quant au montant reçu et on lui a assuré qu’il s’agissait d’un paiement rétroactif à la date de sa séparation. En novembre 2013, elle a encore une fois informé l’ARC de son état civil et, au moment opportun, elle a produit sa déclaration de revenus pour l’année civile 2013. À ce moment, elle a encore une fois confirmé son état civil.
+[10] Le 18 juillet 2014, elle a reçu un avis confirmant le montant de la PFCE et les prestations connexes puis, en réponse à une demande de confirmation de son état civil, elle a rédigé une note manuscrite datée du 3 novembre 2014. La note indiquait clairement son nom, le nom de son ex-conjoint, leur date de naissance et leur numéro d’assurance sociale, en plus du nom et de la date de naissance de leurs enfants. La note mentionnait clairement que [traduction] « les parties ne versent aucune pension alimentaire » et qu’elles [traduction] « ont la garde partagée de leurs enfants de façon égale ». Ce document a été envoyé par télécopieur à l’ARC.
+[11] Par la suite, soit le 18 janvier 2015, une lettre manuscrite semblable signée par l’appelante et son ex-conjoint a été envoyée par télécopieur à l’attention de la section Revue du traitement des T1. Cette lettre se lisait comme suit :
+[traduction]
+Janice Lee Crete (mère) et [nom de l’ex-conjoint] (père) partagent la garde de leurs deux enfants. Les parents se partagent la garde de leurs enfants de façon égale, c’est-à-dire que les enfants habitent avec chaque parent une semaine sur deux. Les enfants habitent sept jours chez Janice Lee Crete, puis sept jours chez [nom du père]. Cette rotation se poursuit tout au long de l’année.
+Aucune pension alimentaire n’est nécessaire ni versée.
+Janice Lee Crete soumet la présente demande.
+[12] Selon les éléments de preuve de l’appelante, ce n’était pas la première fois qu’elle avait informé l’ARC de son changement de circonstances. L’avis relatif à la PFCE du 18 juillet 2014 pour l’année de référence 2013 (envoyé avant les nouvelles déterminations) confirme ces éléments de preuve, puisqu’il comporte clairement la mention de séparation. De plus, l’avis de confirmation du 26 juin 2015 contient la mention suivante :
+[traduction]
+Nous reconnaissons que vous avez informé l’Agence du revenu du Canada de votre nouvelle situation quant à la garde de vos enfants avant les nouvelles déterminations. Selon nos dossiers, nous avons reçu les documents au mois de décembre 2013. [...]
+[13] Ce passage était suivi de la remarque suivante :
+[traduction]
+Un examen des faits et des documents soumis révèle que vous partagez la garde de vos enfants de façon égale avec votre ex-conjoint depuis le 27 mars 2012. Puisque vous êtes un « parent ayant la garde partagée » au sens de l’article 122.6 de la Loi de l’impôt sur le revenu, vous n’avez droit qu’à la moitié des prestations auxquelles vous auriez ordinairement droit au sens du paragraphe 122.61(1) de la Loi. Nous confirmons donc que les nouvelles déterminations sont exactes. [...]
+[14] Je conclus sans peine que l’appelante a informé l’ARC de sa séparation en 2012 (tel qu’il a été confirmé dans sa déclaration de revenus produite cette année‑là), mais il est plus difficile de déterminer si elle a communiqué sa situation de parent ayant la garde partagée aux fonctionnaires de l’ARC pendant l’une de ces conversations. Tout bien pesé, je conclus que l’appelante a informé l’ARC de sa situation de parent ayant la garde partagée en novembre 2013.
+[15] La question est de déterminer les conséquences juridiques de cette conclusion de fait.
+III. La loi et l’analyse A. Régimes de la PFCE et du CTPS [16] Le régime législatif de la PFCE est défini à l’article 122.6 de la Loi. Selon l’article, la PFCE est traitée comme un paiement en trop de l’obligation qui incombe à la personne en cause selon la Loi et, par conséquent, si cette personne est un particulier admissible, ce montant lui est versé à titre de remboursement du paiement en trop.
+[17] La disposition en question contient un certain nombre de définitions importantes :
+époux ou conjoint de fait visé Personne qui, à un moment donné, est l’époux ou conjoint de fait d’un particulier dont il ne vit pas séparé à ce moment. Pour l’application de la présente définition, une personne n’est considérée comme vivant séparée d’un particulier à un moment donné que si elle vit séparée du particulier à ce moment, pour cause d’échec de leur mariage ou union de fait, pendant une période d’au moins 90 jours qui comprend ce moment.
+particulier admissible S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge – qui :
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+(ii) est un parent ayant la garde partagée à l’égard de la personne à charge,
+c) elle réside au Canada ou [...]
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+personne à charge admissible S’agissant de la personne à charge admissible d’un particulier à un moment donné, personne qui répond aux conditions suivantes à ce moment :
+a) elle est âgée de moins de 18 ans;
+b) elle n’est pas quelqu’un pour qui un montant a été déduit en application de l’alinéa 118(1)a) dans le calcul de l’impôt payable par son époux ou conjoint de fait en vertu de la présente partie pour l’année de base se rapportant au mois qui comprend ce moment;
+c) elle n’est pas quelqu’un pour qui une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants est payable pour le mois qui comprend ce moment.
+parent ayant la garde partagée S’entend, à l’égard d’une personne à charge admissible à un moment donné, dans le cas où la présomption énoncée à l’alinéa f) de la définition de particulier admissible ne s’applique pas à celle-ci, du particulier qui est l’un des deux parents de la personne à charge qui, à la fois :
+a) ne sont pas, à ce moment, des époux ou conjoints de fait visés l’un par rapport à l’autre;
+b) résident avec la personne à charge sur une base d’égalité ou de quasi-égalité;
+c) lorsqu’ils résident avec la personne à charge, assument principalement la responsabilité pour le soin et l’éducation de celle-ci, ainsi qu’il est déterminé d’après des critères prévus par règlement.
+[18] Pour ce qui est du régime du CTPS décrit à l’article 122.5 de la Loi, je me contenterai d’ajouter qu’aux termes de l’alinéa 122.5(6)b), pour les besoins de la PFCE, la personne admissible au CTPS est habituellement la personne considérée comme étant le particulier admissible relativement à l’enfant. Certaines exceptions que je n’ai pas besoin de mentionner s’appliquent.
+[19] Il ressort clairement de la définition ci-dessus que l’appelante et son ex-conjoint n’étaient plus des « conjoints visés », puisqu’ils n’habitaient plus ensemble depuis une période d’au moins 90 jours après le 27 mars 2012, soit la date de la séparation.
+[20] L’ARC a été informée de la séparation et, puisque personne n’a témoigné en son nom, je ne puis que supposer que l’ARC a conclu que l’appelante était le « particulier admissible » relativement à ses deux enfants, qui sont tous deux considérées comme étant des « personnes à charge admissibles », puisque i) ils résident avec elle et ii) elle assume principalement la responsabilité pour le soin et l’éducation des enfants, en se fondant sur la présomption établie à l’alinéa f) se rapportant à la notion de particulier admissible :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère.
+[21] Tel qu’il est indiqué ci-dessus, l’ARC n’a été informée qu’en novembre 2013 que les parents partageaient la garde des deux enfants, auquel cas la présomption décrite ci-dessus ne s’appliquerait pas et l’appelante et son ex‑conjoint seraient considérés comme des particuliers admissibles puisque, selon la définition de parent ayant la garde partagée, ils étaient des parents qui i) ne sont pas des époux visés, ii) résidaient avec les enfants sur une base d’égalité ou de quasi-égalité et iii) assumaient principalement la responsabilité pour le soin et l’éducation des enfants lorsqu’ils résidaient chez eux.
+[22] Le paragraphe 122.61(1) de la Loi établit la formule du calcul de la PFCE, mais même si le paragraphe 122.61(2) précise qu’un particulier admissible est un parent ayant la garde partagée, les deux parents doivent se partager la PFCE puisque le revenu de ces derniers a changé pour l’année.
+[23] L’ARC a conclu que l’appelante et son ex-conjoint étaient des parents ayant la garde partagée; elle leur a donc envoyé les avis de nouvelle détermination qui font l’objet du présent appel pour les informer de l’ajustement de la PFCE et du CTPS rétroactivement à la date de la séparation et leur indiquer qu’on avait l’intention de recouvrer les paiements en trop.
+IV. Le ministre a-t-il le droit d’exiger le recouvrement des paiements en trop? [24] Même si le paragraphe 152(1) de la Loi exige que le ministre, avec diligence, examine la déclaration de revenu d’un contribuable pour une année d’imposition et fixe l’impôt pour l’année ainsi que les intérêts et les pénalités éventuels, le paragraphe 160.1(1) porte sur une situation qui survient lorsqu’un contribuable a été remboursé d’un montant supérieur à celui auquel il avait droit. Cette disposition se lit comme suit :
+160.1(1) Remboursement en trop — Lorsque le ministre détermine qu’un contribuable a été remboursé pour une année d’imposition d’un montant supérieur à celui auquel il avait droit en application de la présente loi, les règles suivantes s’appliquent :
+a) l’excédent est réputé représenter un montant qui est payable par le contribuable à compter de la date du remboursement;
+b) le contribuable doit payer au receveur général des intérêts sur l’excédent, sauf toute partie de l’excédent qu’il est raisonnable de considérer comme découlant de l’application des articles 122.5 ou 122.61, calculés au taux prescrit, pour la période allant du jour où cet excédent est devenu payable jusqu’à la date du paiement.
+[...]
+160.1(3) Cotisation — Le ministre peut, à tout moment, établir à l’égard d’un contribuable une cotisation pour toute somme que celui-ci doit payer en application des paragraphes (1) ou (1.1) ou dont il est débiteur par l’effet des paragraphes (2.1) ou (2.2). Les dispositions de la présente section, notamment celles portant sur les intérêts à payer, s’appliquent, avec les adaptations nécessaires, aux cotisations établies en vertu du présent article comme si elles étaient établies en vertu de l’article 152 relativement aux impôts à payer en vertu de la présente partie. Toutefois, aucun intérêt n’est à payer sur une cotisation établie à l’égard de l’excédent visé au paragraphe (1) s’il est raisonnable de considérer qu’il découle de l’application des articles 122.5 ou 122.61.
+[25] Il ressort clairement du passage ci-dessus que, lorsque le ministre a envoyé les avis de nouvelle détermination en question, elle s’est appuyée sur le paragraphe 152(1) et, plus précisément, sur le paragraphe 160.1(1), dont l’effet cumulatif est représenté dans Surikov c. La Reine, 2008 CCI 161 (au paragraphe 6) :
+Ces dispositions ont l’effet suivant :
+(i) Selon l’alinéa 152(1)b), le ministre doit faire une détermination concernant l’admissibilité du contribuable au CTPS;
+(ii) Le paragraphe 152(1.2) prévoit que les dispositions des sections I et J de la partie I de la Loi, qui concernent les cotisations, les nouvelles cotisations, les oppositions, les ratifications et les appels interjetés devant la Cour, sont applicables à la fois aux déterminations et aux nouvelles déterminations concernant l’admissibilité au CTPS effectuées en vertu de l’alinéa 152(1)b), et aux déterminations et nouvelles déterminations concernant l’admissibilité à la PFCE;
+(iii) le paragraphe 160.1(1) a pour effet d’imposer au contribuable l’obligation de rembourser tout montant que le ministre a déterminé être un paiement en trop d’un remboursement, y compris un paiement en trop du CTPS ou de la PFCE;
+(iv) le paragraphe 160.1(3) autorise le ministre à établir une cotisation à l’égard du contribuable pour tout paiement en trop de ce genre, et il prévoit que les dispositions de la section I de la partie I touchant les oppositions aux cotisations sont applicables à toute cotisation de ce genre;
+[Non souligné dans l’original.]
+[26] Compte tenu de ce qui précède, je conclus que le ministre avait le droit de réévaluer les paiements en trop versés à l’appelante pour la PFCE et le CTPS.
+V. Le ministre est-il préclus de demander un remboursement? [27] Selon la compétence que lui a accordée le législateur, la Cour peut entendre et juger des litiges portant sur l’exactitude des cotisations établies en vertu de la Loi : Surikov, précité.
+[28] Puisqu’il ne s’agit pas d’une cour d’equity, la question de l’équité pour l’appelante ne relève pas de la compétence de la Cour de l’impôt. La compétence de la Cour découle de la législation habilitante et elle permet uniquement de [traduction] « déterminer si la cotisation est pertinente ou non » : Smith v. MNR, (1989) 1 C.T.C. 2413, 89 D.T.C. 299 (C.C.I.).
+[29] Par conséquent, je refuse l’argument de l’appelante selon lequel cette dernière pouvait compter sur les renseignements fournis au téléphone par le fonctionnaire de l’ARC. Tel qu’il est indiqué dans Pappas c. La Reine, 2006 CCI 692 (au paragraphe 13) :
+13. [...] il ne fait aucun doute, selon la loi, que (l’appelante) ne pouvait invoquer le principe de la préclusion pour rendre l’ARC responsable de ses mauvais conseils. Il appartient à la Cour de décider du bien‑fondé de la cotisation à la lumière des règles de droit et des faits dont elle est saisie : ce ne sont pas les conseils donnés par des fonctionnaires de l’ARC au cours d’une conversation téléphonique qui permettent de trancher l’affaire.
+VI. Conclusion [30] Même si le ministre a admis que les paiements en trop remis à l’appelante résultaient d’une erreur administrative, par souci d’équité envers l’ARC, il faut reconnaître qu’il n’a été informé du changement de situation qu’en novembre 2013.
+[31] Il manque toujours une pièce du casse-tête. Le père n’a pas témoigné lors de l’audience et, à l’exception de sa signature sur la note manuscrite du 18 janvier 2015, aucune preuve n’a été présentée sur les renseignements qu’il a fournis à l’ARC, s’il y a lieu.
+[32] Cela m’amène à conclure que les parents se sont entendus sur le fait que le père ne verserait pas de pension alimentaire tant que l’appelante continuerait à recevoir la PFCE et les prestations connexes. Dans le cas contraire, il est très probable que le père, à titre de « parent ayant la garde partagée », aurait présenté une demande pour obtenir sa part de la PFCE. Dans ce cas, l’ARC aurait traité la situation de garde partagée bien plus tôt.
+[33] En fin de compte, je suis d’accord avec le ministre sur le fait que la soi‑disant erreur de l’ARC n’est tout simplement pas pertinente et que le paragraphe 160.1(1) de la Loi porte sur une situation qui survient lorsqu’un contribuable a été remboursé d’un montant supérieur à celui auquel il avait droit. Même si je conviens que ma décision pourrait entraîner des difficultés financières pour l’appelante et sembler injuste pour celle-ci, je conclus que sa situation ne diffère pas de celle de bon nombre de Canadiens ordinaires qui s’assurent diligemment de produire leurs déclarations de revenus avant le 30 avril et reçoivent un remboursement, pour ultérieurement faire l’objet d’une nouvelle cotisation lorsque l’ARC remarque que la première cotisation reposait sur des renseignements incorrects ou erronés.
+[34] Pour l’ensemble des motifs susmentionnés, l’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 27e jour de mai 2016.
+« Guy Smith »
+Le juge Smith
+RÉFÉRENCE :
+2016 CCI 132
+No DU DOSSIER DE LA COUR :
+2015-3124(IT)I
+INTITULÉ :
+Janice L. Crete c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 décembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 27 mai 2016
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Mélanie Sauriol
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

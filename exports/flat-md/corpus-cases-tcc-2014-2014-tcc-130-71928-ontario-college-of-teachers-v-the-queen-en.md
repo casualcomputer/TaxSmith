@@ -1,0 +1,226 @@
+---
+title: "Ontario College of Teachers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71928/index.do"
+last_modified: "2014-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 130"
+citation2: ""
+neutral_citation: "2014 TCC 130"
+decision_date: "2014-04-29"
+language: "en"
+item_id: "71928"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5394
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:48:36.538000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a6d60294f41b9105388172224f123911afc210ea0844072325d461f06a92728f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ontario College of Teachers v. The Queen
+
+- Citation: 2014 TCC 130
+- Decision date: 2014-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5394, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ontario College of Teachers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-29
+Neutral citation
+2014 TCC 130
+File numbers
+2010-619(GST)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+2014 TCC 130
+Court File No. 2010-619(GST)G
+TAX COURT OF CANADA
+BETWEEN:
+ONTARIO COLLEGE OF TEACHERS
+appellant
+- and -
+HER MAJESTY THE QUEEN
+respondent
+TRANSCRIPT OF REASONS FOR JUDGMENT
+FROM THE HONOURABLE MR. JUSTICE JORRÉ
+Federal Judicial Centre
+180 Queen Street West, Toronto, Ontario
+on Friday, March 28, 2014 at 3:00 p.m.
+APPEARANCES:
+John C. Yuan for the appellant
+Brandon Siegal
+John Grant for the respondent
+Also Present:
+Sandy Kelloway Court Registrar
+A.S.A.P. Reporting Services Inc. © 2014
+200 Elgin Street, Suite 1105 333 Bay Street, Suite 900
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5H 2T4
+(613) 564-2727 (416) 861-8720
+INDEX
+PAGE
+REASONS FOR JUDGMENT: 3
+Toronto, Ontario
+--- Upon commencing on Friday, March 28, 2014 at 3:00 p.m.
+REASONS FOR JUDGMENT:
+[This version has been edited by the judge for style and clarity.]
+[1] JUSTICE JORRÉ: Good afternoon.
+[2] I will now give my reasons for judgment in the appeal of the Ontario College of Teachers.
+[3] The College appeals from an assessment of GST in relation to the calendar month of August 2005.
+[4] The issue turns on the meaning of paragraph 20(d) of Part VI of Schedule V of the Excise Tax Act. It reads:
+(d) [A] supply of a service of providing information in respect of, or any certificate or other document evidencing, the vital statistics, residency, citizenship or right to vote of any person, the registration of any person for any service provided by the government or any other status of any person.
+[5] The French version of the paragraph reads as follows:
+d) [L]es services de renseignements sur les statistiques démographiques, la résidence, la citoyenneté ou le droit de vote des personnes, leur inscription à un service offert par le gouvernement ou toutes autres données les concernant, ou les certificats ou autres documents attestant ces données.
+[6] I note that the legislation was amended after the period relevant to this appeal.
+[7] The parties have narrowed the issues to the following:
+(a) Are the supplies made in consideration of what is referred to as the “application fee” supplies that fall within the paragraph I have just read?
+(b) Are the supplies made in consideration of what are referred to as the “evaluation fee” supplies that fall within that paragraph?
+[8] If the answer is yes, the supplies are exempt supplies and the Minister will be successful. If the answer is no, the appellant will be successful.
+[9] A large part of the evidence went in by agreement. There are no credibility issues; there are no quantum issues.
+[10] The parties filed a Joint Agreed Statement of Facts. I will paraphrase much of it.
+[11] The parties agree on the following:
+1. In Canada teaching is primarily a regulated profession that is controlled by each provincial government. In most provinces the provincial government is the governing body. In some provinces, such as Ontario, a separate body is established by the provincial government.
+2. The Ontario College of Teachers is a non-profit organization established by the Ontario Legislature, pursuant to legislation.
+3. The College is a registrant as defined in subsection 123(1) of the Excise Tax Act.
+4. The College has express statutory objectives under the Ontario College of Teachers Act; those objectives include: regulating the profession and governing its members; establishing and maintaining qualifications for membership; accrediting professional teacher education programs offered by post-secondary educational institutions; accrediting ongoing education programs for teachers; issuing amending, suspending, revoking and reinstating certificates of qualification and registration; providing for the ongoing education of members; establishing and enforcing professional standards and ethical standards applicable to members; receiving and investigating complaints against members and dealing with discipline and fitness to practice issues, and communicating with the public on behalf of members.
+5. The Education Act of Ontario establishes a general requirement that an individual must be a member of the College to be employed to teach in a public funded elementary or secondary school.
+6. The Ontario College of Teachers Act provides that an individual holding both a certificate of qualification and a certificate of registration from the College is a member of the College.
+7. For the 2001 through 2005 period, the regulations in force provide for classes of certificates of qualification and registration to include a certificate of registration and a certificate of qualification. The regulations also provided the requirements for issuing such certificates.
+8. The certificate of registration was a document that confirmed that the individual met the requirements for admission to the College as a member, and the individuals name had been entered on the College’s register of members.
+9. The certificate of qualification was a document that confirmed the individual’s teaching credentials, including any specialized qualifications, as well as the individual’s status as a member of the College in good standing for the calendar year covered by the certificate of qualification.
+10. The certificate of registration was a one-time document issued only when the individual was admitted as a member, whereas the certificate of qualification was issued at the time of registration with the College and annually thereafter.
+11. Annual certificates would be updated to include any new additional specialized qualifications obtained during the proceeding year. The annual certificate of qualification is issued so long as the individual remains a member in good standing of the College.
+12. For the purpose of pursuing and maintaining a teaching position in Ontario, the certificate of qualification provided documentary proof that the individual was a member of the College in good standing and that the individual had the various teaching qualifications detailed in the certificate.
+13. The Ontario College of Teachers Act authorizes the counsel of the College to make by-laws relating to the administration and domestic affairs of the College.
+14. Those by-laws set out, among other things, the fees for various supplies made by the College.
+15. An individual seeking to become a member of the College must file an application for registration with the College.
+16. The application process is undertaken by specialized units within the College’s membership services division. The College staff receive various documents submitted by the applicants and by academic institutions on behalf of the applicants, assess the documents for authenticity and completeness, evaluate the applicant’s credentials and communicate the success or failure of the application by letter to the applicant.
+17. On occasion, the College would provide ongoing feedback to applicants and academic institutions on the content and status of the documents submitted.
+18. The review of the information generally resulted in the issue of a certificate or an explanatory letter.
+19. During the application process certain documents are submitted to the College by the applicant, including but not limited to the application, proof of identity, proof of name change and a criminal record check. Other documents are submitted to the College directly by the issuing institution such as transcripts or verification letters.
+20. In the course of processing an application, the College staff might also contact an educational institution that grants a degree to the applicant if there are questions about the applicant’s credentials from the institution.
+21. Under the by-law, all individuals submitting an application for registration with the College pay an application fee to the College to consider the application. For applicants trained outside of Ontario, the by-laws required the applicant to pay an additional amount as an evaluation fee.
+22. The College imposes the evaluation fee to determine whether the individual’s non-Ontario teacher education program meets the same academic, professional or language proficiency requirements that Ontario teacher education programs must satisfy.
+23. If an individual’s application is denied by the College or the individual is unable to or does not complete required steps in the application process, the College generally does not refund the application fee, or if applicable, the evaluation fee that was submitted with the application. In such circumstances, the College would communicate the failure of the application by letter to the applicant.
+24. The by-laws require members to pay an annual membership fee to the College.
+25. The College has treated the annual membership fee as an exempt supply for the purposes of the Excise Tax Act. The College has not made an election to treat the annual membership fees as subject to goods and services tax under that section.
+[12] Prior to the period in issue, the College collected and remitted GST in respect of the two supplies in issue in this matter: the supplies in consideration (i) of the application fees and (ii) of the evaluation fees. However, the College did not make any input tax credit claims in relation to those supplies.
+[13] In its return for the period in issue, the appellant claimed input tax credits in relation, among other things, to the supplies in issue. The Minister denied those credits, resulting in this appeal.
+[14] Ms. Iona Mitchell testified. She is the manager of the membership records division of the Ontario College of Teachers. Certain other exhibits were also tendered.
+[15] Ms. Mitchell confirmed much of what is in the Agreed Statement.
+[16] She testified that — and her testimony overlaps in large measure with the Agreed Statement — anyone who wishes to teach in a public school in Ontario must be a member of the College.
+[17] The certificate of registration attests to the individual membership in the College while the certificate of qualification confirms the individual’s teaching credentials and any other specialized training as well as the fact that the person is in good standing with the College for the period covered by the certificate of qualification.
+[18] To join the College and get the certificate of registration, as well as the individual’s first certificate of qualification, an individual must go through a process whereby they make an application to the College.
+[19] The College reviews the candidacy to determine if the individual is qualified.
+[20] At the end of the process the successful individual will receive their certificate of registration, as well as their first certificate of qualification, subject only to the individuals paying the annual membership fee if they have not already done so at the time that they filed the application fee.
+[21] In the period in question, persons applying from Ontario would pay the annual fee together with the application fee, as a matter of administrative convenience.
+[22] That was not the case for individuals from outside Ontario who would normally pay the annual fee after they had been accepted, if they were accepted.
+[23] While the process is somewhat different for applicants trained as teachers in Ontario and applicants trained outside of Ontario, the goal of the College is the same: to establish whether a candidate meets the criteria necessary to become a member.
+[24] The difference comes from the fact that in Ontario, with respect to the teacher training component of the requirements, the College accredits teacher training programs in Ontario and therefore it is not necessary to evaluate specifically the teacher training program followed by a candidate who took his or her teacher training in Ontario.
+[25] On the other hand, for candidates who took their training outside of Ontario, the College has to evaluate individually the particular training taken by the candidate to see if it meets the requirements of the College. In addition, in the case of candidates from outside of Ontario, depending on where the candidates took their teacher training, the College may need to evaluate the candidates’ language proficiency in English or in French.
+[26] All candidates, wherever they took their teacher training, must meet certain academic requirements, which are verified by the College.
+[27] There are various documents that all candidates must supply and which are reviewed. These include proof of identity, proof of name change if applicable, a criminal records check and, for individuals who are not citizens, proof that they have the right to work in Canada. Candidates also submit academic transcripts.
+[28] Some documents are sent to the College by the candidate, others, such as transcripts, are sent by the issuing institution to the College.
+[29] Documents submitted are evaluated to determine if they are authentic and acceptable and the candidates are evaluated to determine if they meet the requirements.
+[30] This is done by the membership services division, which has between 50 and 60 employees and three branches.
+[31] First, there is the client service unit, which deals with inquiries by applicants or potential applicants, whatever the means by which they inquire. This unit has approximately 15 employees.
+[32] Secondly, there is the membership records unit, which evaluates applicants, as I understood it, who have Ontario teacher training. This unit has about 20 plus employees.
+[33] The third unit is the evaluation services unit, which evaluates persons who had their teacher training outside of Ontario. This third unit has about 15 employees.
+[34] In the period in issue, all applicants paid $125 including GST for what is referred to as the “application fee”. This fee is set in section 22.01 of the College by-laws.
+[35] Applicants who took their teacher training outside of Ontario paid an additional fee of $225. The $225 includes GST and this is referred to as the “evaluation fee”. It is set in section 22.02 of the College by-laws.
+[36] Once candidates were accepted, if they had done their teacher training in Ontario normally they would have paid their annual fee at the same time as the application fee in issue. Consequently, they would, upon acceptance, be sent a welcome package which would include both their certificate of registration and their certificate of qualification.
+[37] The successful candidates from outside of Ontario had to first send their annual fee, if they had not already done so, and would then receive their certificate of registration and their certificate of qualification.
+[38] Those candidates who were unsuccessful would receive a letter notifying them of this and setting out reasons for the decision.
+[39] There is no doubt on the evidence in front of me that there is a serious process for evaluating candidates to ensure they meet the requirements of Ontario. I note that the number of persons denied membership every year is not insignificant.
+We see from pages 1 and 2 of Exhibit A-4 that in 2005 some 660 people were denied membership. This is about 5% of the number admitted to the College in that year.
+[40] The question is one of statutory interpretation.
+[41] I find that it helps to analyse the provision if one sets the paragraph in issue out visually in a slightly different way as I have done below:
+A supply of a service of providing
+(a) information in respect of
+or
+(b) [of] any certificate or other document evidencing,
+[the following:]
+(i) the vital statistics,
+(ii) residency,
+(iii) citizenship or right to vote of any person,
+(iv) the registration of any person for any service provided by the government or
+(v) any other status of any person.
+[42] I have added the words “the following” in square brackets. I also put the “of” after (b) in square brackets.
+[43] The appellant made a number of arguments, all of which lead basically to two points.
+[44] First, the appellant argues that the supply in issue is:
+1. neither a supply of providing information as described in (a) as I have set out the paragraph,
+2. nor is it a supply of a certificate or other document evidencing something as set out in (b) of the way I have set out the paragraph.
+[45] I will deal first with the argument that it is not a supply of information falling within (a). I will come back later to the argument that it is not a certificate or other document falling within (b).
+[46] Secondly, the appellant argues that the information evidenced in the certificate is not information falling within any of the enumerated types of information in what I have numbered as (i) to (iv). Clearly the information does not fall into those four categories.
+[47] Further, the appellant argues that it is not information on any other status of a person as set out in what I have numbered (v) above.
+[48] As it will become apparent below, it is not necessary for me to deal with a question of whether the status of being or not a member of the College is “any other status” within the meaning of (v) above, so I will not do so.
+[49] However, I would observe that the choice of words in the French text would, if I had to decide the matter, make it important to consider the two language texts together. I would just note that in the French text, the words used are “toutes autres données” literally “any other information”. However, as I said, I do not need to deal with the point.
+[50] I will go back to the first argument of the appellant and characterize what, on the evidence, is the nature of the supplies made by the College.
+[51] The College obtains information, reviews that information, if necessary, asks for further information if it finds what it received is not what is expected and it does an evaluation to determine whether the candidate meets the necessary criteria to be admitted as a member of the College.
+[52] The substance of that is evaluating and determining the person’s eligibility.
+[53] It is true that, incidentally, if a person is successful it will issue two certificates, the certificate of registration and the initial certificate of qualification; subsequent certificates of qualification are not part of this process. Equally incidentally, if the College determines that someone is not qualified, they send a letter advising a person that they have been unsuccessful.
+[54] For the purpose of looking at this question, I am going to assume, without deciding the question, that whether or not a person is a member and has qualifications is a status within the meaning of the paragraph in issue.
+[55] I have great difficulty conceiving that what is being done, evaluating someone to decide whether or not they can be a member of the College and creating a document which records the outcome, is something falling within a supply of providing information or of providing a certificate or other document.
+[56] What is being done is evaluating a candidacy, and of course there is going to be some sort of record of that, but that is not what the paragraph in issue exempts.
+[57] On the face of the provision, what the paragraph would cover is someone asking, for example, for a copy of their birth certificate and paying a fee for it.
+[58] Something which the College does, which would fall within paragraph 20(d), is the kind of supply that is contemplated in section 23.05 of the College by-laws. Under that by-law, if someone loses their certificate of registration or certificate of qualification, and wants a duplicate copy, then they have to pay a fee.
+[59] That is the kind of supply contemplated here, the duplicate copy is information in respect of the fact that they are a member. It is also a certificate or other document that evidences that they are a member.
+[60] That is something very different from the process of qualifying someone.
+[61] All of which is to say I do not see how the supplies made in consideration of the fees in question fall within paragraph 20(d) of Part VI of Schedule V of the Excise Tax Act.
+[62] Before I conclude, I would like to note that I accept the respondent’s point that the words “in respect of” are words of wide import. However, that goes to the question of what kind of information is included in what I have numbered as (i) to (v) of the provision.
+[63] I also agree that the word “document” is widely defined because it is defined to include a record under the Excise Tax Act and in turn a record is given an extremely wide meaning in terms of paper or other formats that contain information constituting the record.
+[64] However, the fact that a very wide variety of formats for containing information are covered does not convert a supply of a process of evaluating someone’s qualifications into a supply of evidence of status or of information regarding the status.
+[65] For these reasons I am satisfied that the supplies in question that are made in consideration of the application and evaluation fees are not supplies that fall within paragraph 20(d) and, as a result, the appeal will be allowed.
+CITATION: 2014 TCC 130
+COURT FILE NO.: 2010-619(GST)G
+STYLE OF CAUSE: ONTARIO COLLEGE OF TEACHERS
+v. THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: March 27 and 28, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice
+Gaston Jorré
+DATE OF REASONS FOR
+JUDGMENT RENDERED ORALLY: March 28, 2014
+DATE OF JUDGMENT: April 2, 2014
+DATE OF AMENDED JUDGMENT: April 3, 2014
+DATE OF EDITED TRANSCRIPT
+OF REASONS FOR JUDGMENT: April 29, 2014
+APPEARANCES:
+Counsel for the appellant: John C. Yuan
+Brandon Siegal
+Counsel for the respondent: John Grant
+COUNSEL OF RECORD:
+For the appellant: John C. Yuan
+Brandon Siegal
+Firm: McCarthy Tétrault
+Toronto, Ontario
+For the respondent: William F. Pentney
+Deputy Attorney General
+of Canada
+Ottawa, Ontario

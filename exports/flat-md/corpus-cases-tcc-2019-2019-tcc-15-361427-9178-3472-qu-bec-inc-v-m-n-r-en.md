@@ -1,0 +1,436 @@
+---
+title: "9178-3472 Québec inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/361427/index.do"
+last_modified: "2019-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 15"
+citation2: ""
+neutral_citation: "2019 TCC 15"
+decision_date: "2019-01-17"
+language: "en"
+item_id: "361427"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4336
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:22:04.596000+00:00"
+cases_cited_count: 8
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7efc9d5b6c74d06fd18562ad4b7fbe50bb87e526ad60c58b30fd0c2c1719e4ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9178-3472 Québec inc. v. M.N.R.
+
+- Citation: 2019 TCC 15
+- Decision date: 2019-01-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4336, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9178-3472 Québec inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-17
+Neutral citation
+2019 TCC 15
+File numbers
+2016-915(EI), 2017-1261(EI), 2017-1263(EI), 2017-2212(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2016-915(EI)
+2017-1261(EI)
+2017-1263(EI)
+BETWEEN:
+9178-3472 QUÉBEC INC.,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2017-2212(EI)
+BETWEEN:
+9178-3472 QUÉBEC INC.,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Martin Demers, Claude-Richard Carbonneau, Claude Larose,
+Georges Flahiff, Jacques Louis,
+Intervenors.
+[ENGLISH TRANSLATION]
+Appeal heard on common evidence
+on October 22 and 23, 2018 at Montréal, Quebec
+Before: The Honourable Lucie Lamarre, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+James Bonhomme
+Counsel for the Respondent:
+Mathieu Tanguay
+Intervenors present:
+Martin Demers, Claude Larose, Georges Flahiff
+JUDGMENT
+The appeals are dismissed. The decisions made by the Minister of National Revenue (the Minister) that resulted in the establishment, for the Appellant, of employment insurance premiums on the insurable earnings paid to the 218 workers whose names are listed in Appendix A of the reasons for judgment for the years 2014, 2015 and 2016 in case 2017-2212(EI) are upheld. The decisions rendered by the Minister in cases 2017-1263(EI), 2017-1261(EI) and 2016-915(EI) are also upheld. All decisions are upheld as per the attached reasons for judgment.
+Signed at Ottawa, Canada, this 17th day of January, 2019.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Citation: 2019 TCC 15
+Date: 20190117
+Dockets: 2016-915(EI)
+2017-1261(EI)
+2017-1263(EI)
+BETWEEN:
+9178-3472 QUÉBEC INC.,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2017-2212(EI)
+BETWEEN:
+9178-3472 QUÉBEC INC.,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Martin Demers, Claude-Richard Carbonneau, Claude Larose,
+Georges Flahiff, Jacques Louis,
+Intervenors.
+[ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre A.C.J.
+[1] These are appeals from decisions made by the Minister of National Revenue (the Minister) that resulted in the establishment, for the Appellant, of employment insurance premiums on the insurable earnings paid to the 218 workers whose names are listed in Appendix A of these reasons for judgment for the years 2014, 2015 and 2016 (period from January 1, 2014 to May 5, 2016) (case 2017-2212(EI)).
+[2] These are also appeals of the decision made by the Minister to have the employments held by the nine workers whose names are listed in Appendix B of these reasons for judgment between January 1, 2014 and May 5, 2016 (case 2017-1263(EI)), the employment of Josée Casavant for the periods between September 29, 2014 and October 26, 2015 and between February 1, 2016 and May 5, 2016 (case 2017-1261(EI)) and lastly the employment of Aliaksandr Shytsikau for the periods between March 14 and 20, 2014 and between April 18, 2014 and January 27, 2015 (case 2016-915(EI)) declared insurable. It should be noted that these 11 workers, whose appeals were filed separately, are already included among the 218 workers for whom premiums were established and for whom the appeal in case 2017-2212(EI) was filed.
+[3] In all these cases, the Minister concluded that all these workers held insurable employment during the periods in dispute pursuant to paragraph 5(1)(a) of the Employment Insurance Act, during which time they provided services to the Appellant. This is disputed by the Appellant, who considers them to be self-employed persons.
+Facts
+[4] It is recognized that the Appellant operates a newspaper distribution company under the name of Gama Média (Gama). These newspapers are distributed in different public places in the Montréal area.
+[5] For this purpose, the Appellant entered into a distribution agreement with Messageries Dynamiques, a division of Réseau Québecor Média Inc.
+[6] The workers in this case were hired by the Appellant to distribute the 24 HEURES newspaper in subway stations in the Montreal area. They were all hired on verbal agreement. Other than a few exceptions, they were all told by a representative of the Appellant that they were being hired as self-employed persons.
+[7] The issue as to the insurability of these workers was initially addressed following the Employment Insurance application submitted by Aliaksandr Shytsikau after he stopped working for Gama on January 27, 2015. The decision rendered by the Appeals Division of the Canada Revenue Agency (CRA) in December 2015 concluded that his employment was insurable.
+[8] Following a request for a ruling submitted by the Trust Accounts Examination section, the CPP/EI Rulings Division of the Eastern Quebec tax service office held that the nine workers listed in Appendix B also held insurable employment. That decision was confirmed by Arona Mbaye, the appeals officer who testified at the hearing. Following this and another decision rendered in Josée Casavant’s case, Mr. Mbaye considered the status of the 218 workers listed in Appendix A, including the 11 workers for whom a decision had already been rendered. As part of this analysis, he interviewed a certain number of people based on a sample of persons who had worked for Gama for a fairly long time.
+[9] At the hearing, I heard the testimony of eight workers, Gama CEO Mario Gandolfo and the Minister’s appeals officer, Mr. Mbaye.
+Witnesses for the Appellant:
+[10] I note that none of the witnesses for the Appellant seems to be included among the workers whose premiums are at issue, given that their names are not listed in Appendix A.
+First witness: Hugo Bérubé
+[11] He works as a newspaper distributor for Gama (the payor). He distributes newspapers.
+[12] He met an individual by the name of Sami from Gama and was offered to work a three-hour shift, five days a week at minimum wage (15 hours a week, for $11.25/hour in 2016) based on a verbal agreement. He does not provide invoices.
+[13] He receives a slip listing all the amounts paid by direct deposit over the year. He does not receive a T4 or T4A.
+[14] He declares himself as self-employed.
+[15] He had his choice of subway station: initially McGill station and then Berri-UQAM when it became free. He cannot change stations without discussing it with Gama.
+[16] He was not told that he had to work exclusively for Gama. He also works full-time (40 hours a week) as a video tester.
+[17] He works three-hour shifts, from 6 a.m. to 9 a.m., Monday to Friday.
+[18] He calls the delivery person on his cell phone when he arrives to inform them that he has taken possession of the newspapers (300 in total).
+[19] When he finishes distributing his newspapers, he leaves. If he has newspapers left at the end of his three-hour shift, he calls the delivery person who comes to pick them up.
+[20] He has never received training and never sees anyone from Gama.
+[21] He does not distribute newspapers for other companies.
+[22] If he cannot work his shift, he finds another distributor to replace him or calls the delivery person, who is then responsible for finding someone else.
+[23] Once he asked another distributor to replace him and paid that person for it. That distributor already worked for Gama. Another time, he did not find a replacement and contacted the delivery person for that person to find a replacement. If he goes on vacation, the delivery person is the one who finds a replacement.
+[24] His expenses include his cell phone, his bus pass and the clothing he uses when distributing newspapers, which he does outside of subway stations.
+[25] He declares himself as self-employed on his tax returns and claims expense deductions off of his income. He does not know whether he is registered for a GST account (an accountant does his taxes).
+[26] He does not receive any bonuses or commission. He has no way of making more money other than the salary he is paid for his shift.
+[27] He is required to wear a vest with the 24 HEURES newspaper logo.
+[28] He has never been visited by a Gama representative.
+Second witness: Mike St-Laurent
+[29] Mike has worked for Gama at the Henri-Bourassa station for three years (since February 2016) and previously did the same work for their competitor, Metro. Mike decided to move to Gama because Metro was no longer guaranteeing him two six-hour shifts a week and was limiting newspaper distributors to only one three-hour shift, while Gama agreed to give him two six-hour shifts.
+[30] Mike was already self-employed and maintained that status. He declares his income as self-employed and claims expense deductions for his clothing (boots, coat, warm clothing).
+[31] Mike takes newspapers in the morning to distribute them but does not call anyone to report that he is there. Mike never sees anyone from Gama and goes back home once he has finished distributing newspapers.
+[32] This witness says that he did not receive training and says that he can work for other companies. He considers himself a free agent.
+[33] Mike is paid minimum wage without any bonuses or commission, based on a verbal agreement with Gama CEO Mario Gandolfo. He would have to work more hours to make more money.
+[34] He is not issued a T4 or T4A. He is sent only a list of the amounts paid at the end of the year. The witness could not say whether he is registered for a GST account.
+[35] His work schedule is from noon to 6 p.m., and he has never seen someone from Gama on site. If Mike has newspapers leftover at the end of his shift, he does not stay to distribute them. No invoices or time sheets are completed.
+[36] Mikes wears the vest provided to him to identify him, but this does not stop him from occasionally talking with Metro newspaper distributors.
+[37] The witness says he does not take vacation.
+Third witness: Sylvain Lapointe
+[38] He was a Metro newspaper distributor before joining Gama in April 2016. He has done this work for 11 years.
+[39] He negotiated two, non-successive three-hour shifts to have flexibility (so that he could take care of his sick mother), from Monday to Friday.
+[40] He started between 5 a.m. and 5:30 a.m. at the Montmorency station in Laval (600 newspapers) and began another three-hour shift between 2 p.m. and 3:30 p.m. at the Cartier subway station in Laval (300 newspapers). There were three newspaper distributors for Gama and one for Metro at the Montmorency station.
+[41] He also sometimes worked for the company Intercontinental, distributing Publisacs door-to-door on weekends. When he did, he worked 10-hour shifts.
+[42] He changes his phrasing every day when he distributes newspapers.
+[43] He does not interact with Gama and does not call to report that he has arrived because two other newspaper distributors are already there. He does not call when he leaves, either.
+[44] If he needs to get his shift covered, he calls another distributor and pays that person himself. In 2017, he had his shift covered by a Gama distributor seven times and by a Metro distributor once.
+[45] Being self-employed is important for him because he needs to have flexible hours.
+[46] He previously worked for Metro for eight or nine years.
+[47] He was paid minimum wage, without any bonuses or commissions.
+[48] He declares himself as self-employed on his tax returns and deducts his expenses (clothing and public transport). He does not receive a T4 or T4A and does not submit invoices. He is not registered for a GST account.
+[49] He wears the vest but still works if he does not have it. He does not call Gama to let them know that he has arrived. Once he has distributed his newspapers, he leaves.
+[50] He took three weeks’ vacation and informed Gama, who had his shifts covered during that time.
+Fourth witness: Mario Gandolfo (Gama CEO)
+[51] According to this witness, the company specializes in newspaper distribution but also carries out transport, storage and moving activities. The 24 HEURES newspaper, previously called Montréal Métropolitain, has been in circulation since 2001.
+[52] Gama has an agreement with Québecor for the distribution of 24 HEURES newspapers. They are Gama’s biggest client (over half of their turnover). Québecor has an agreement with the Société de transport de Montréal (STM) to have newspapers delivered in subway stations. Upon the STM’s request, these newspapers cannot be left lying around outside.
+[53] To carry out its contract with Québecor, Gama has entered into contracts with newspaper distributors to distribute newspapers at subway stations in Montréal. They distributed newspapers inside stations from 2001 to 2011. From 2011 to 2016, newspapers were distributed both inside and outside. Fewer distributors are hired for inside (90) because there are also stands where people can collect the newspapers themselves. In February 2016, Gama was able to distribute newspapers outside only and hired 150 distributors. Gama shares the newspaper distribution market with the Metro corporation.
+[54] Gama offers three-hour shifts according to specific schedules (5 a.m. to 8 a.m., 9 a.m. to noon, noon to 3 p.m. and 3 p.m. to 6 p.m.). An attempt is made to take distributors’ preferences into consideration by allowing them to work at subway stations closer to their homes and according to their requested schedules, based on vacant positions.
+[55] Newspapers are delivered in bags at 4 a.m., and distributors are told what is expected of them. They may have to place some in stands where people can pick them up themselves. Distributors have to pick up the remaining newspapers and distribute them.
+[56] When Gama hires distributors, they are told that they are being hired as self-employed persons. They are paid minimum wage and are not paid days that they do not work (vacation, sick days, holidays).
+[57] According to the witness, the delivery person arrives between 5 a.m. and 6 a.m. to ensure that the newspapers have been picked up, but distributors are not supervised. He also goes around himself to see whether newspapers are lying around. He wants to see where the delivery person placed the newspapers, how many are available and to see how it works in the field. He also watches how the competitor operates.
+[58] The witness recognizes, however, that according to the agreement with Québecor, Gama has to ensure that the newspapers are distributed. It is important for Québecor that there is a distributor on site. The witness has occasionally distributed newspapers himself. Distributors who cannot work their shifts have to inform the delivery person early that morning. Otherwise, the delivery person will call the absent distributor. Distributors are asked to find a replacement whom they pay themselves, but if they cannot find one, Gama takes care of it by searching through its bank of occasional workers. In that case, Gama is the one who pays those occasional workers. If no distributors are available, the delivery person will go collect the newspapers.
+[59] According to the witness, distributors are asked to call the delivery person to indicate that they have taken possession of the newspapers at some stations like Berri-UQAM, where Hugo Bérubé works. He explains that the newspapers cannot be left lying around for too long at this very busy station for security reasons.
+[60] Distributors are asked to wear the vest to identify the 24 HEURES newspaper because of the agreement with Québecor. If distributors forget it, they are lent a sweater with the 24 HEURES logo to identify them. Distributors apparently refrain from smoking or eating themselves while distributing newspapers. They smoke and eat during breaks, when traffic is low. The witness says that distributors can talk with other distributors who work for the competitor but must focus on distribution.
+[61] The witness says that distributors are not required to work for them exclusively because they work part-time and are self-employed. That said, he does recognize that distributors cannot work for a competitor during their shift.
+[62] The witness says that distributors can leave before the end of their shift if they have no more newspapers left to distribute.
+[63] Bruno, the witness’s brother, is in charge of printing and transportation. Sometimes Bruno or an individual named Sami conducts interviews to hire distributors.
+[64] In rebuttal, the witness recognizes that he, his brother Bruno and Sami regularly go to various stations (but not all of them, because there are 68) to see whether everything is going well and to manage stock to balance sorting. He confirmed that there are 10 stations where they hire more than three distributors and that at the other 58 stations, they only hire one distributor. He also confirmed that they also want to ensure that the distributors are on site. If a call is not received from a distributor at a station, the witness or someone else goes directly to the station to see whether the distributor is there. If the distributor is not there, he tries to find that person and if he does not hear anything, he leaves with the newspapers.
+[65] No instructions are given to distributors unless they are new.
+[66] The witness also mentioned that a large portion of their distributors leave Gama of their own accord. There is a lot of turnover in this work.
+[67] He explained that during the high season, Gama distributes 150,000 copies a day, and that those numbers fall to between 105,000 and 115,000 in the summer.
+[68] As for Mr. Levasseur (a witness for the Respondent) who mentioned that his hours were reduced in the summer because there were not enough newspapers to distribute, the witness mentioned that his brother Bruno surely offered to bring him more and that Mr. Levasseur must have simply decided to leave. Bruno did not come to testify.
+[69] As for surprise inspections, he said that there are not any as far as he knows and that maybe it is Québecor representatives who conduct them.
+[70] During the period in dispute, Gama had a contract to distribute newspapers inside stations and hired fewer (80 to 90) distributors.
+[71] According to him, the three distributors Gama has called as witnesses are a more accurate representation of all distributors than those called by the Respondent. They did not have to be supervised (coached); they called rarely; someone went to meet them; Gama had no problems with them; they were independent.
+[72] They did not have to suspend any workers other than maybe Mr. Flahiff (another witness for the Respondent).
+Witnesses for the Respondent:
+Fifth witness: Claude Larose
+[73] This witness submitted a Notice of Intervention.
+[74] He worked for Gama for nine months in 2014. He was hired by Sami, who was his supervisor. He initially worked at the Langelier subway station and then at the Joliette subway station to set up the station. He worked five three-hour shifts a week in the morning from 6 a.m. to 9 a.m. He was paid minimum wage ($10.35/hour) and received additional pay for overtime at Joliette station to set up the station ($10 to $15 more on his weekly pay), where he began work at 5:30 a.m. It took him about 30 minutes to set up the station (take the newspapers, count them, put them in the stands and then count the number of remaining newspapers and put them back into bags; he also counted the Metro newspapers). He did not negotiate anything and agreed to the conditions imposed upon him. He called Sami every morning when he arrived and when he left to let him know the number of remaining newspapers and the number of newspapers distributed. Sometimes he forgot, and Sami was not happy.
+[75] He could not leave before the end of his scheduled shift. If he had no newspapers left, he had to go get more from the stands. Sami did not come by often (maybe two or three times), but he had to call him every day. Sami could tell him to increase distribution. When he could not work his shift, he called Sami who found a replacement. The witness did not know that he could find a replacement himself.
+[76] He had no contract. He provided no invoices. He was told that he was self-employed. He was paid by cheque. He declared his income under “other income” but did not claim deductions for any expenses. He was not registered for a GST account.
+[77] He did not distribute other newspapers.
+Sixth witness: Georges Flahiff
+[78] This witness submitted a Notice of Intervention.
+[79] He worked for Gama for five or six months in 2016 (from the spring until December).
+[80] He had worked as a newspaper distributor for Metro for six or seven years. He was hired by Bruno, who told him that he was self-employed. Bruno apparently told him that he did not have to declare his income. However, he admitted that he had never declared his income when he worked for Metro and that they also considered him to be self-employed.
+[81] He was paid minimum wage with no negotiation. He was not entitled to bonuses or commission. He had no contract.
+[82] His supervisor, Daniel Racette, was very demanding. The witness worked from 6:30 a.m. to 9:30 a.m., and his supervisor could ask him to work in the afternoon as well. He was not allowed to smoke or eat while distributing newspapers and had no coffee breaks. He was under the impression that Mr. Racette was supervising him closely because he saw him three or four times throughout the day. He did not know, however, that Mr. Racette was also distributing newspapers near businesses in the same area. But he had to call him when he arrived, and Mr. Racette could send him elsewhere to distribute the remaining newspapers. He could not leave before the end of his scheduled shift.
+[83] He worked on the west side of the city (Lucien-L’Allier, Guy‑Concordia and Berri-UQAM stations). He could not talk to clients for too long and he was prohibited from talking to other distributors.
+[84] He was initially paid by cheque and then by direct deposit. He did not prepare invoices. He was not registered for a GST account. He received a slip indicating his total income ($5,500). He could not go to work for the competitor.
+Seventh witness: Arona Mbaye, CRA appeals officers
+[85] The first insurability application came from Aliaksandr Shytsikau, who submitted an Employment Insurance application. He did not have a Record of Employment, but the decision was made to make his work insurable. The Trust Account Examiner (TAO) then submitted an application for nine other workers, and the decision was to make their work insurable.
+[86] Premiums were then established for the 218 workers. When these premiums were appealed, Mr. Mbaye said that he had conducted 20 interviews (Mr. Mbaye explained that he had taken a representative selection of people who had worked for at a least a year, based on a sample of 10 out of 100 to verify answer consistency) and concluded that the 218 workers were insurable. He consequently confirmed the premiums.
+[87] Neither the periods in dispute nor the premium amount is being challenged. Only the insurability of the workers is in dispute.
+[88] For Mr. Mbaye, it is clear that the payor considered all workers to be self-employed. As for the workers, some did not know what a self-employed person was and if they did consider themselves to be self-employed, it was not by choice. Among the others, some considered themselves to be employees, and others considered themselves to be self-employed.
+[89] The witness says that the majority of workers agreed to be self-employed not by choice but because they had to work. Most of them were on social assistance. Many did not declare their income out of fear of losing social assistance. Others were told that they did not have to declare their income because they were not given a T4.
+[90] All of them worked part-time (generally six hours, up to a maximum of 25 hours). Everyone earned under $30,000 in income.
+[91] As for carrying out the work, one of the people interviewed was team leader and newspaper distributor at the same time. If there were more than three distributors at one station, there was a designated team leader who liaised with the payor. Daniel Levasseur, also a witness in this case, was one of them.
+[92] Everyone was paid minimum wage. This had to be accepted without negotiation. Everyone was paid based on the number of hours worked, mainly by direct deposit.
+[93] According to most of them, they had to call when they arrived and when they left to indicate the number of newspapers distributed. There were at least five people supervising. The team leader was the one who transmitted the information when there was more than one distributor on site.
+[94] Everyone had an indeterminate verbal contract.
+[95] According to the witness, the newspapers distributors worked exclusively for Gama according to the determined schedule. They practically all said that they could not work for the competitor at the same time.
+[96] According to the witness, there was oversight. Newspapers had to be distributed quickly, and distributors could not eat or smoke during their shifts.
+[97] There was integration because the work of these distributors was integrated into the payor’s day-to-day business activities, the payor’s main source of revenue being newspaper distribution.
+[98] Shifts were pre-determined by the payor, and distributors chose their shift. They were paid by the hour and could not leave before completing their shift, and they had to inform the team leader or supervisor.
+[99] No profit margin was possible because they were paid only for the hours they worked.
+[100] The witnesses who said they were replaced were talking about the year 2017, which is not in dispute.
+[101] The workers had to comply with a code of conduct. The witness was told that workers could be suspended if they did not comply with instructions.
+[102] He recognized in cross-examination that Aliaksandr Shytsikau’s case was crucial in making his decision. He looked at all the facts as a whole. He was of the opinion that Gama had some oversight. He could not say how often on-site surprise visits occurred. He also could not say whether others had been dismissed or suspended.
+Eighth witness: Daniel Levasseur
+[103] He worked for Gama from October 2014 to July 2017. He was initially hired as a simple newspaper distributor. He was initially trained at the Henri-Bourassa subway station for a week and a half. He worked alone in the Sauvé subway station for a year and a half and then outside another subway station with other distributors.
+[104] He was designated team leader by Gama and was told that he had to ensure that the other distributors wore the vest and that he had to report on the number of newspapers distributed throughout the day. He recognized that this report was used for inventory purposes for Gama but also said that Gama pressured him and his distributors to increase distribution if too many newspapers were leftover.
+[105] He was paid minimum wage, even as team leader. He did not receive any bonuses or commissions. To make more money, he had to work more shifts. He worked three three-hour shifts himself every day for several months.
+[106] The payor hired him as a self-employed person and provided him with a slip at the end of the year summarizing his yearly earnings so that he could declare his income.
+[107] He was assigned a subway station and shift. He personally felt more like an employee than a self-employed person. He did not make any decisions.
+[108] As team leader, he calculated the number of newspapers (about 2000 to 3000 in the high season) that had to be distributed on that day, checked whether everyone arrived on time and called the supervisor to share that information. He also called the supervisor to report on the remaining newspapers when he left. He had to collect them and place them at a specific location so that the delivery person could come to collect them.
+[109] His supervisor was Bruno Gandolfo.
+[110] Distributors were asked to wear black pants, which they had to get themselves at their own expense. Gama provided the vest (in which the distributor had to insert a newspaper in the back pocket), the cap and the sweater. If distributors were not wearing the uniform, the consequences were limited to verbal reprimands.
+[111] They were asked not to smoke and told that smoking on site could result in serious consequences.
+[112] He they had to get their shifts covered, Gama took care of it. In two years, he was absent twice. He also took vacation at his own expense, and Gama was the one who found a replacement for him. He could not hire anyone to replace him. He had to go through the office to provide all sorts of information.
+[113] If there were not enough newspapers to finish the shift, they tried to find others, if none was left, he left before the shift ended without being paid for the time not worked. This happened in the summer when there was less subway traffic and therefore fewer newspapers were printed.
+[114] Supervisors generally came by to see the number of newspapers and leave some if needed. They could give guidance when they came by and ensure that everyone was wearing the vest to be more visible. He even seemed to say that they could also be watched from afar.
+[115] Pressure was put on them to distribute more newspapers than the competitor. But there were no direct instructions to not work for the competitor.
+[116] He was not registered for a GST account and had no expenses, not even cell phone expenses. He called from a pay phone (that was his only expense).
+[117] He did not reprimand other newspaper distributors himself, but the supervisor reminded him to do so. Bruno came by at the beginning and end of the shift to see the number of newspapers and at the same time check that everything was going well and that the distributors were wearing their vests.
+Ninth witness: Martin Demers
+[118] This witness submitted a Notice of Intervention.
+[119] He has worked for Gama since January 31, 2012 and still works for them.
+[120] He was hired by someone named Fouad when he wanted to go off of social assistance.
+[121] He was asked to report for the first time to the Henri-Bourassa subway station to meet someone name Nathalie, who explained to him what he had to do. He had one day of training.
+[122] He was given a minimum-wage salary with no negotiation: no bonuses or commission. He did not prepare invoices and had no expenses.
+[123] He was never told that he was self-employed. He always believed that he was an employee until 2016 when he received a letter from the CRA indicating that he had to pay Employment Insurance premiums. Even though there were no withholding taxes on his pay, he still considered himself an employee and therefore declared his income as such on his tax return. According to him, he was not responsible for asking the employer to issue him a T4. His obligation was to declare his income, which he did.
+[124] Other than distributing newspapers, his tasks consisted of counting the newspapers when he arrived and when he left as well as informing his supervisor of that number using his cell phone. His supervisor said that he needed that information to adjust stock, but he always put the same quantity of newspapers out every morning, regardless of whether the witness had told him that there were newspapers leftover or not the day before.
+[125] He did not really have instructions other than to speak loudly, not to smoke or talk on the phone, and to wear the vest or coat provided by Gama as well as black pants. He initially received instructions from Nathalie and then from his supervisor, Serge. If he did not follow them, he was reprimanded. He was also asked to have as little contact as possible with people working for the competitor.
+[126] His 6 a.m. to 9 a.m. schedule was decided by Gama. He was not free to change it. He also apparently worked three five-hour shifts a week, totalling 15 hours per week.
+[127] If he could not work his shift or had to leave early, he was not paid the full amount for his shift. He was paid only for the hours that he worked. This happened over five times.
+[128] His supervisor, Serge, came by in person nearly every day. Sometimes Serge simply waved to the witness. If he did not come by, the witness had to call him.
+[129] He was given suggested phrases to say to clients while distributing newspapers.
+[130] Gama was the one who determined the station where he worked. He worked at the Crémazie, Mont-Royal and finally Laurier stations, closer to his home.
+[131] If he could not work his shift or was taking vacation, he informed Gama who would find a replacement.
+[132] Other than the vest and coat, Gama also provided two t-shirts, a cap and a toque.
+Tenth witness: Aliaksandr Shytsikau
+[133] He is an immigrant who arrived in Canada in 2011.
+[134] He worked for Gama from March 14, 2014 to March 20, 2014 and from April 18, 2014 to January 27, 2015. He was told that he had been hired as a self-employed person.
+[135] The interruption between March 20, 2014 and April 18, 2014 was voluntary. He underwent training to become an orderly but did not successfully complete the training and then returned to work for Gama.
+[136] Before working for Gama, he worked as a newspaper distributor for Distribution Métropolitain (Metro) under the same conditions, i.e. without any withholding tax as a self-employed person. He contacted Marc Bissonnette at Gama.
+[137] He was offered minimum wage (just like he also had from Metro). He did not sign a contract and did not negotiate anything.
+[138] He worked at the Angrignon station near his home and was asked to be a team leader. He asked if he could receive a raise as a team leader. In response, his hours were reduced. He says that he worked seven hours a day and, on the Monday following his request for a raise, he was told to work at the Lasalle subway station, where he was alone, for only a three-hour shift. According to him, he fell into disgrace. His supervisor, Marc, placed the newspapers in the stands himself at 6 a.m. and came by in his car to see whether the witness was there. Then, he worked at the Jolicoeur subway station and placed the newspapers in the stands himself, and his supervisor Marc came by more often. The witness contacted him when he arrived at home (he did not have a cell phone) to inform him of the number of leftover newspapers.
+[139] His tasks consisted of counting the newspapers in the morning, placing the required number of copies in the stands, and informing the supervisor of the number of copies leftover at the end of his shift. He arrived at 5:30 a.m. and finished at 9:30 a.m.
+[140] He received instructions from Bruno, Fouad and someone else. He was told where to stand to distribute newspapers (there are three exits at Angrignon station). There were two or three distributors there, and sometimes four. In terms of clothing, he was asked to wear black pants and closed-toe shoes. He said that all the newspaper distributors were aware of the instructions and he himself did not intervene if one of them was not following them.
+[141] When he was absent for his training in early 2014, it was Gama who found a replacement.
+[142] On his last day of work on January 27, 2015, he informed Gama that he was going to be attending security guard training for two days. He told Marc that if he successfully completed the training, he would not be coming back. When he called Marc back to come back to work at Gama, he was told that there was no longer room for him.
+[143] That was when he applied for Employment Insurance. He received a letter from the CRA indicating that he had held insurable employment. That was when he wondered what the difference was between a self-employed person and an employee. He then realized that he was also an employee when he worked for Metro.
+[144] He declared his income either as employment income or as other income during the years in dispute. When he asked for a Record of Employment for Employment Insurance purposes, he was instead sent a statement of the amounts that he had been paid during the year and a notice that he was self-employed.
+Case for the Appellant:
+[145] The Appellant firstly noted that the Respondent admitted in the Reply to the Notice of Appeal that the worker was not required to report his time or activities to the Appellant. The Appellant simply ensured that the worker arrived at the public transport station determined by the parties to distribute newspapers according to the terms of the agreement. At no time did the Appellant dictate to the worker how to distribute newspapers. The worker was free to distribute newspapers as he deemed most effective under the circumstances. The Appellant also did not provide training to the worker about service delivery (Notice of Appeal, 2017-2212(EI) para. 16; Reply to the Notice of Appeal, 2017‑2212(EI) para. 1).
+[146] It was explained that if it was important to ensure that the distributor was on site in the morning, it was simply to ensure that newspapers were not lying around at the entrance of the subway station, upon the request of the STM.
+[147] As for the request for distributors to inform Gama of the number of remaining copies at the end of their shift, this was done to be able to manage stock and plan the number of distributors required for each station.
+[148] In addition, the Respondent also admitted in the Reply to the Notice of Appeal that the worker was paid a flat rate equivalent to three hours of work at minimum wage per day, even if the worker was able to distribute the newspapers in a shorter time frame (Notice of Appeal, 2017-2212(EI), para. 38 and Reply to the Notice of Appeal, 2017-2212(EI), para. 9).
+[149] It was also admitted that a coat, vest and the newspapers to be distributed were provided to the worker (Notice of Appeal, para. 43; Reply to the Notice of Appeal, para. 11).
+[150] The Appellant maintains that it was the delivery people and not the supervisors who acted as resource-people if a worker was absent or if there were not enough newspapers. This was done to compensate for logistical stock problems. Distributors were asked to report the number of newspapers distributed, but there was no accountability in terms of how distribution was carried out.
+[151] As for those who testified that they were under the impression that they were being supervised, the evidence demonstrates no tangible consequence or sanction for failure to follow instructions. As for pay reductions, the evidence does not demonstrate, except maybe in one case, that workers’ pay was reduced if they did not have enough newspapers to distribute.
+[152] As for the choice of station, workers were given the station that suited them best when possible.
+[153] The Appellant also claims that workers were not asked to work exclusively for Gama, although the Appellant does recognize that Gama did not want them to work for a competitor.
+[154] The Appellant maintains that the parties’ intention is the primary factor and a determining factor when the relevant factors to establish the worker’s status so strongly support the existence of a contract of employment and the existence of a contract for services (Wolf v. Canada, 2002 FCA 96, para. 122).
+[155] The Appellant adds that workers in this industry have always been considered self-employed persons (the evidence demonstrates that the newspaper distributors who worked for Metro were also considered self-employed persons). The Appellant maintains that there is a decision rendered by the Commission de la santé et de la sécurité du travail under which these workers are considered self-employed (this decision was not submitted into evidence, however).
+[156] The Appellant concludes by saying that overall this was relatively simple work for which there was no supervision or oversight.
+Case for the Respondent:
+[157] The Counsel for the Respondent, on the other hand, is of the opinion that based on the balance of probabilities, a service contract existed for all these workers. The Respondent considers that consideration should be given to the credibility of the testimony.
+[158] There was no written agreement, only verbal agreements.
+[159] As for the three workers that the Appellant called as witnesses, the Respondent notes that two of those workers began working after the period in dispute and that the third worker is not included in this case. (In fact, none of these workers are listed in Appendix A and therefore are not part of this case.)
+[160] Those who claim to have subcontracted their work did so in 2017, which is after the period in dispute (2014 to 2016).
+[161] Furthermore, Mr. Bérubé (one of the Appellant’s witnesses) recognized that he could not go work for a competing business. This demonstrates to some extent the exclusivity required from workers.
+[162] The Respondent considers that Mr. Gandolfo provided contradictory testimony in evidence and in rebuttal evidence. Although he initially said that there was no supervision, in rebuttal evidence he recognized that he or others sometimes observed the newspaper distributors. In addition, the evidence demonstrates that the contract with Québecor represents the lion’s share of Gama’s revenue. The Respondent consequently infers that it is normal for Gama to have some control over its newspaper distributors’ work.
+[163] Some workers mentioned that they were supervised by Bruno Gandolfo. The Respondent notes that this person was included in the list of witnesses for the Appellant and that the Appellant decided, without explanation, to not have him testify.
+[164] As for the pay cut, the Respondent underscores that workers said that they were not paid for the full three-hour shift on certain occasions (Claude Larose, Daniel Levasseur, Martin Demers). Mr. Gandolfo initially said that he was not aware of this and then said that he assumed that it was because of the worker’s decision to not remain for the entire shift. No one from Gama disputed the three witnesses on this matter. The witnesses for the Appellant who said that they could leave before the end of their three-hour shift without their pay being affected said that this occurred in 2017 (after the period in dispute).
+[165] The Respondent is of the opinion that Gama supervised their newspaper distributors (through the little training provided initially, through the vest or coat that they were asked to wear, through the requirements to not smoke or eat or speak on the phone, through supervisors’ passing by and through the calls workers had to make to the supervisor every day).
+[166] As for the intention of being recognized as a self-employed person, the appeals officer notes that some workers did not understand, when they began working, what a self-employed person was and agreed to the conditions imposed by Gama because they simply wanted to work. Others considered themselves to be employees.
+[167] The Respondent refers to certain decisions to justify the distributors’ employee status. Firstly, the Respondent distinguishes newspaper distributors from delivery people in Le Livreur Plus Inc. v. Canada, 2004 FCA 68. In that case, delivery people were considered self-employed. They all had a written contract. They used their own vehicle at their own expense to make medication deliveries. They were responsible for any loss of medication or of the two-way radio that they were provided. They therefore assumed a greater share of the risk and, conversely, benefited from profit opportunities. They also had to find someone to replace them if they were absent or unable to make deliveries themselves.
+[168] In Millard v. M.N.R., 2008 TCC 353, the Court considered a delivery person for a local newspaper to be a self-employed person. The delivery person purchased the payor’s newspapers and delivered them using their own means of transport (vehicle or on foot). The more clients this person had, the more money he made. It was concluded that this person was more of a wholesaler and that he was not integrated into the payor’s business activities.
+[169] The Respondent also refers to Grimard v. Canada, 2009 FCA 47, [2009] 4 F.C.R. 592. At paragraph 36 of that case, the Court cited Robert P. Gagnon, who wrote in Le droit du travail au Québec, 5th ed.(Cowansville: Les Éditions Yvon Blais, 2003), on pages 66 and 67, that the concept of legal subordination was relaxed to take on a broader sense. It is no longer necessary to establish that the payor directly supervises the performance of the work. Subordination has come to be equated with the power given to the payor of determining the work to be done, overseeing its performance and controlling it, according to a number of indicia of supervision (such as compulsory attendance at a workplace, the fairly regular assignment of work, imposition of rules of conduct or behaviour, requirement of activity reports and control over the quantity or quality of the work done). Furthermore, intention is not the only determining factor in characterizing a contract (para 33, citing D & J Driveway Inc. v. Canada (M.R.N.), 2003 FCA 453).
+[170] The Respondent is of the opinion that the evidence demonstrates several aspects of control over the performance of the work (imposed schedule, required clothing, distributors having to report their presence, suggested phrases to use when distributing newspapers, workplace assigned by Gama, impromptu visits from supervisors, instructions on smoking, eating, talking on the phone). Distributors were not allowed to work for competitors.
+[171] In addition, it was Gama who handled replacing distributors when they were not available. No invoices were submitted. No distributors were registered for a GST account. There were no opportunities to make profits or risk of losing profits. Workers were an integral part of Gama’s business. Regardless of the number of newspapers distributed, distributors did not participate in the profits of this business.
+Analysis
+[172] In Le Livreur Plus, supra, the Federal Court of Appeal reiterated the legal principles governing how to determine a contractual relationship between parties. The Court ruled as follows at paragraphs 17 to 21:
+[17] What the parties stipulate as to the nature of their contractual relations is not necessarily conclusive, and the Court may arrive at a different conclusion based on the evidence before it: D & J Driveway Inc. v. The Minister of National Revenue, 2003 FCA 453. However, if there is no unambiguous evidence to the contrary, the Court should duly take the parties' stated intention into account: Mayne Nickless Transport Inc. v. The Minister of National Revenue, 97-1416-UI, February 26, 1999 (T.C.C.). Essentially, the question is as to the true nature of the relations between the parties. Thus, their sincerely expressed intention is still an important point to consider in determining the actual overall relationship the parties have had between themselves in a constantly changing working world: see Wolf v. Canada, [2002] 4 F.C. 396 (F.C.A.); Attorney Generalof Canada v. Les Productions Bibi et Zoé Inc., 2004 FCA 54.
+[18] In these circumstances, the tests mentioned in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025, namely the degree of control, ownership of the work tools, the chance of profit and risk of loss, and finally integration, are only points of reference: Charbonneau v. Canada (Minister of National Revenue - M.N.R.) (1996), 207 N.R. 299, paragraph 3. Where a real contract exists, the Court must determine whether there is between the parties a relationship of subordination which is characteristic of a contract of employment, or whether there is instead a degree of independence which indicates a contract of enterprise: ibid.
+[19] Having said that, in terms of control the Court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it: Vulcain Alarme Inc. v. The Minister of National Revenue, A-376-98, May 11, 1999, paragraph 10, (F.C.A.); D & J Driveway Inc. v. The Minister of National Revenue, supra, at paragraph 9. As our colleague Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), supra, followed in Jaillet v. Canada (Minister of National Revenue - M.N.R.), 2002 FCA 394, "It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker".
+[20] I agree with the applicant's arguments. A subcontractor is not a person who is free from all restraint, working as he likes, doing as he pleases, without the slightest concern for his fellow contractors and third parties. He is not a dilettante with a cavalier, or even disrespectful, whimsical or irresponsible, attitude. He works within a defined framework but does so independently and outside of the business of the general contractor. The subcontract often assumes a rigid stance dictated by the general contractor's obligations: a person has to take it or leave it. However, its nature is not thereby altered, and the general contractor does not lose his right of monitoring the results and the quality of the work, since he is wholly and solely responsible to his customers.
+[21] Finally, determining the value of the remuneration, defining the purpose sought or making payment for work by cheque or otherwise does not amount to controlling work, since these features exist both in a contract of enterprise and in a contract of employment: Canada (Attorney General) v. Rousselle et al. (1990), 124 N.R. 339 (F.C.A.).
+[173] In addition, in Quebec civil law, the aspects required for the existence of a contract of employment (employer/employee) or a contract for services (contractual worker) are defined. Section 2085 of the Civil Code of Québec (CCQ) requires, for a contract of employment, the performance of work, remuneration and a relationship of subordination. Section 2099 of the CCQ requires, for a contract for services, for there to be no relationship of subordination between the contractor and the client in carrying out the contract. Furthermore, the Quebec legislator added in the definition that the contractor is free to choose the means of performing the contract.
+[174] Consequently, the concept of control is an essential characteristic of a work contract (employment contract). This concept of subordination or control refers to indicia of supervision that are considered points of reference. These indicia of supervision include the integration of a worker within a business, opportunities for profits and risk of losses, as well as ownership of work tools (Grimard, supra, para. 37 to 42).
+[175] In addition, in 1392644 Ontario Inc. (Connor Homes) v. Canada (National Revenue), 2013 FCA 85, the Federal Court of Appeal reiterated that the express intention of the parties is an essential aspect to be taken into consideration when it is indeed a common intention (para. 33). However, it must be recognized that the parties are not always in equal bargaining positions, and under those circumstances the legal status of the parties cannot be determined based on the stated intent of the parties. That determination must also be grounded in a verifiable objective reality (para. 35 and 37).
+[176] Under the first step, the subjective intent of each party to the relationship must be ascertained (this can be determined by the actual behaviour of each party, by reviewing invoices for services rendered and by reviewing whether the person has registered for GST purposes and income tax filings as an independent contractor) (Connor Homes, para. 39).
+[177] The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. In other words, do the terms of the contract, based on the different relevant factors, accurately reflect the legal characterization that the parties have given to their relationship (Connor Homes, para. 40 to 42).
+Intention of the parties
+[178] Here, it is clear that the Appellant intended to retain the newspaper distributors’ services as self-employed persons.
+[179] That intention is not as clear for the newspaper distributors. Although it seems that nearly all of them were informed by the Appellant that they were being hired as self-employed persons, the evidence provided by the witnesses for the Respondent shows that they really had no other choice than to accept this characterization of their contract if they wanted to work. Some of them did not necessarily understand what this could mean. Others outright considered themselves to be employees. Some simply did not declare their income, while some declared employment income, and the majority declared their income as “other income” and claimed deductions for expenses, such as their clothing or bus pass.
+[180] The witnesses for the Appellant considered themselves to be self-employed persons but were not registered for GST purposes. No workers provided invoices to the Appellant. They received a fixed, pre-determined salary.
+[181] It should also be noted, however, that all of the people who previously worked for the competitor, Metro, were also considered self-employed by that company.
+[182] Under these circumstances, I need to analyze the objective reality of the legal contract that existed between the Appellant and these newspaper distributors.
+Control
+[183] The Appellant insists that they in no way supervised their newspaper distributors. According to them, they asked distributors to call only so that they could ensure that newspapers were not lying around outside subway stations and to monitor their newspaper stocks. They also consider that it was not them who determined the newspaper distributors’ schedules because distributors had the option of choosing their time slot. They also maintain that they did not have control over the place where they carried out their work in that they tried to place them at a subway station near their homes.
+[184] The witnesses for the Respondent did not see it that way. They said that they had to call the Appellant when they arrived and when the left the station. One of them said that regardless of the number of newspapers leftover at the end of the day, the same number was always delivered every morning. The witnesses for the Appellant said that there was no supervision. One of them, however, mentioned that he had to call in the morning to say that he had arrived at the station and that he indicated the number of newspapers collected.
+[185] In his testimony, Mr. Gandolfo recognized that he himself and two other people representing Gama (including his brother, Bruno) went to subway stations to see how things were going with the newspaper distributors, provided them with some advice occasionally, and assessed the number of available newspapers and distribution performance compared to competitors’ distributors. He himself recognized that the newspaper distributors could not work for a competing business at the same time.
+[186] The workers said that they could not change stations at will. At the end of the day, even though the Appellant tried to give them what they wanted when possible, the Appellant was the one who ultimately decided where the workers had to carry out their work.
+[187] In my opinion, the Appellant had control over the workers. Just because certain workers say that they were not supervised does not mean that the Appellant did not have the right to exert that control. “‘The distinguishing feature of a contract of service” (now a contract of employment), […] “is not the control actually exercised by the employer over his employee but the power the employer has to control the way the employee performs his duties.’” (D&J Driveway Inc., supra, para. 12; Wolf, supra, para. 74).
+[188] I recognize that having control over the result is not the same thing as having control over the work of an employee. However, it seems to me that this does not simply consist of checking the result in this case. A vest must be worn to clearly identify the distributors as 24 HEURES newspaper workers. The station where distributors work is decided for them. Workers cannot decide to change their place of work of their own volition. Distributors must call the delivery person or supervisor when they arrive. Most workers mentioned that they also had to call when they left. Workers are not allowed to work for the competitor. Workers must work during the time slot assigned to them. They were hired to work a certain number of hours a week.
+[189] In this way, this case is different from the situation that existed in D & J Driveway, supra, wherein delivery persons received sporadic calls from D & J Driveway asking them whether they were interested in driving a truck to a destination in return for a fixed amount determined based on the distance to be travelled. These truck delivery drivers were not required to be available when they were called. That was not the case here. Newspaper distributors were expected to show up regularly at an agreed-upon time for a determined period at a specified location. If they could not show up, they had to inform their supervisor or the delivery person as soon as possible so that they could be replaced.
+[190] All of these combined facts indicate, in my opinion, that the workers were subordinate to the Appellant, despite the fact that Counsel for the Appellant indicated in his arguments that the Respondent had made certain admissions; those admissions, however, were not all proven by the evidence. This type of subordination falls under a contract of employment.
+Ownership of work tools
+[191] The Appellant provided the vest, coat, toque, cap and newspapers.
+[192] In general, the workers provided their cell phone and dressed according to instructions (black pants, at their own expense).
+[193] I do not consider this to be a determining factor in this case.
+Opportunities for profits and risk of losses
+[194] The workers had no opportunities to make a profit. They were paid minimum wage for the hours that they worked. No negotiation was possible on remuneration, which was dictated by the Appellant. Those hours were calculated in three-hour shifts. If workers could not work a shift for personal reasons, they were not paid.
+[195] As for expenses, they were minimal. This case is different from Le Livreur Plus, supra, wherein the delivery people had to deliver medication using their own vehicle at their own expense and had to cover any loss of medication or of the two-way radio. In this case, workers were not responsible for the loss of newspapers and incurred practically no expenses.
+[196] Based on this criterion, the relationship between the Appellant and the newspaper distributors tips the scales more towards a contract of employment.
+Integration
+[197] This criterion is analyzed from the point of view of the workers based on the question of whether the services in question were provided by the workers as part of a company belonging to them.
+[198] In my opinion, it is clear that none of these workers operated a newspaper distribution business. The evidence demonstrated that the contract signed between Gama and Québecor for newspaper distribution was the main source of the Appellant’s revenue. The Appellant had a very vested interest in distribution being carried out according to the terms of their agreement with Québecor. The Appellant was the one responsible for the number of newspapers distributed. The workers simply distributed them for and on behalf of the Appellant. They had no financial interest or incentive in distributing more or fewer newspapers. Even if a Gama representative told distributors to be more efficient to distribute more newspapers and they did not manage to do so, this had no impact on their income. If, during their three-hour shift, no newspapers were left, distributors had to call the supervisor, who saw to it that other newspapers were delivered to them to maximize distribution during the period of time that the distributors were working for Gama.
+[199] Furthermore, if the workers were self-employed, they should have had to find a replacement themselves, without going through Gama. Only one witness, Hugo Bérubé, said that he asked someone to replace him himself, and he said that this had only happened once and that he had asked a distributor who already worked for Gama. The other times, he informed Gama and it was Gama who found the replacement. The other witness who said that he found a replacement himself was Sylvain Lapointe, and that occurred in 2017, which is not during the period in dispute. In addition, neither Sylvain Lapointe nor Hugo Bérubé is included among the workers listed in Appendix A.
+[200] This is not a situation like the one in Wolf, supra, wherein the worker deliberately sacrificed his job security in exchange for a much higher salary (para. 118 and 123), because in this case the workers were hired on a minimum-wage basis, with no possibility of negotiation.
+[201] Based on this criterion, the relationship that existed between the parties was one that I would characterize as employer-employee.
+Conclusion
+[202] The legal characterization of the contract must be determined by the terms of the contract and by the circumstances (Wolf, supra, para. 112). Although the intention of the parties is important, the characterization of the contract is determined on the basis of actual facts and not on what the parties claim (Grimard, supra, para. 33). In this case, I conclude that, despite the fact that the intention of the Appellant and of certain workers was to enter into an agreement according to which the newspaper distributors were to provide the services for which they were hired as self-employed persons, this intention is not consistent with the legal reality of the contract, at least for the period in dispute. In fact, the evidence considered as a whole demonstrates that the contractual relationship between the Appellant and the newspaper distributors corresponded more with an employer-employee relationship than a relationship between a client and an independent contractor. I therefore consider that the workers were employees of the Appellant and held insurable employment during the periods in dispute.
+Decision
+[203] The appeals are dismissed. The decisions made by the Minister of National Revenue (the Minister) that resulted in the establishment, for the Appellant, of employment insurance premiums on the insurable earnings paid to the 218 workers whose names are listed in Appendix A of the reasons for judgment for the years 2014, 2015 and 2016 in case 2017-2212(EI) are upheld. The decisions rendered by the Minister in cases 2017-1263(EI), 2017-1261(EI) and 2016-915(EI) are also upheld.
+Signed at Ottawa, Canada, this 17th day of January, 2019.
+“Lucie Lamarre”
+Lamarre A.C.J.
+FR
+EN
+Annexe B
+Canada Revenue Agency
+Agence de revenue du Canada
+RÉFÉRENCE : 9178-3472 QUÉBEC INC.
+REFERENCE: 9178-3472 QUÉBEC INC.
+TRAVAILLEURS
+LA SUCCESSION DE FEU GÉRARD CHAPADOS
+YVON LEPAGE
+MICHEL CHASSE
+MICHEL BEAUCHEMIN
+NORMAND AUDET
+CATHERINE TEOLI
+KAMEL AIT BOUZIAD
+FRANCE SÉGUIN
+WORKERS
+THE ESTATE OF GÉRARD CHAPADOS
+YVON LEPAGE
+MICHEL CHASSE
+MICHEL BEAUCHEMIN
+NORMAND AUDET
+CATHERINE TEOLI
+KAMEL HAS BOUZIAD
+FRANCE SÉGUIN
+PÉRIODES
+PERIODS
+Du 1er janvier 2014 au 1er mai 2016
+January 1, 2014 to May 1, 2016
+Du 1er janvier 2014 au 1er mai 2016
+January 1, 2014 to May 1, 2016
+Du 1er janvier 2014 au 1er mai 2016
+January 1, 2014 to May 1, 2016
+Du 1er janvier 2014 au 1er mai 2016
+January 1, 2014 to May 1, 2016
+Du 1er janvier 2014 au 1er mai 2016
+January 1, 2014 to May 1, 2016
+Du 1er janvier 2014 au 1er mai 2016
+January 1, 2014 to May 1, 2016
+Du 1er janvier 2014 au 1er mai 2016
+January 1, 2014 to May 1, 2016
+Du 1er janvier 2014 au 1er mai 2016
+January 1, 2014 to May 1, 2016
+Du 1er janvier 2014 au 1er mai 2016
+January 1, 2014 to May 1, 2016
+CITATION:
+2019 TCC 15
+COURT FILE NO.:
+2016-915(EI), 2017-1261(EI),
+2017-1263(EI) and 2017-2212(EI)
+STYLE OF CAUSE:
+9178-3472 QUÉBEC INC. v. THE MINISTER OF NATIONAL REVENUE AND MARTIN DEMERS,
+CLAUDE- RICHARD CARBONNEAU, CLAUDE LAROSE,
+GEORGES FLAHIFF, JACQUES LOUIS
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+October 22 and 23, 2018
+REASONS FOR JUDGMENT BY:
+Lamarre
+A.C.J.
+DATE OF JUDGMENT:
+January 17, 2019
+APPEARANCES:
+Counsel for the Appellant:
+James Bonhomme
+Counsel for the Respondent:
+Mathieu Tanguay
+Intervenors present:
+Martin Demers, Claude Larose, Georges Flahiff
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+James Bonhomme
+Firm:
+[EN BLANC]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,230 @@
+Title: Stroud c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520954/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-86-520954-stroud-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-07-28
+
+# Stroud c. La Reine
+
+- Citation: 2022 CCI 86
+- Decision date: 2022-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4513, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stroud c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-07-28
+Référence neutre
+2022 CCI 86
+Numéro de dossier
+2020-2180(GST)I
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2020-2180(GST)I
+ENTRE :
+MURRAY STROUD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 28 et 29 juin 2022, à Toronto (Ontario)
+Devant : L’honorable juge David E. Spiro
+Comparutions :
+Avocat de l’appelant :
+Me Adam Serota
+Avocat de l’intimée :
+Me Christopher Ware
+JUGEMENT
+Les appels correspondant aux cotisations établies en application de la Loi sur la taxe d’accise concernant les périodes de déclaration trimestrielles se terminant le 31 mars 2017, le 30 juin 2017 et le 30 septembre 2017 sont rejetés sans dépens.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2022.
+« David E. Spiro »
+Le juge Spiro
+Référence : 2022 CCI 86
+Date : 20220728
+Dossier : 2020-2180(GST)I
+ENTRE :
+MURRAY STROUD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] M. Murray Stroud, l’appelant, est propriétaire d’une ferme de chevaux depuis les années 1990. Cette ferme s’appelle « Stroud’s Lane Farm ». L’appelant élève des chevaux et fait courir ses chevaux depuis lors, mais toujours en perdant de l’argent. La question en litige est de savoir si l’appelant avait une « attente raisonnable de profit » en exploitant la ferme Stroud’s Lane.
+I. La question en litige [2] Du point de vue légal, la question en litige est de savoir si l’appelant a droit aux crédits de taxe sur les intrants (les CTI) pour calculer la taxe nette aux fins de la TPS lors de trois périodes de déclaration trimestrielles en 2017 aux termes de la partie IX de la Loi sur la taxe d’accise (la Loi). Les CTI demandés sont de 9 155,25 $, de 7 607,65 $ et de 13 279,30 $ pour les périodes de déclaration se terminant 31 mars 2017, le 30 juin 2017 et le 30 septembre 2017. Le ministre du Revenu national a refusé les CTI demandés pour ces périodes de déclaration.
+[3] Il faut savoir si l’appelant a effectué des fournitures « dans le cadre d’une activité commerciale » lors de ces périodes de déclaration pour déterminer s’il a droit aux CTI demandés. Pour déterminer si des fournitures ont été effectuées dans le cadre d’une activité commerciale, il faut savoir si l’appelant exploitait sa ferme dans une « attente raisonnable de profit »[1]. Si c’est le cas, les appels devraient être accueillis; sinon, ils devraient être rejetés.
+[4] Il n’est pas contesté par les parties que, pendant toute la période pertinente, l’appelant exploitait une entreprise qui avait beaucoup de chevaux et au moins quatre employés à temps plein sur sa ferme en Floride aux États-Unis d’Amérique[2]. La seule question litigieuse est de savoir s’il avait, ce faisant, une attente raisonnable de profit.
+[5] Malgré le bref témoignage d’un des amis de l’appelant, le seul témoin à fournir des éléments pertinents lors du procès a été l’appelant lui-même. J’en ai conclu qu’il n’a pas réussi à établir, selon la prépondérance des probabilités, qu’il exploitait la ferme dans une attente raisonnable de profit.
+II. Le critère juridique de l’attente raisonnable de profit [6] Dans l’arrêt Moldowan c. La Reine, [1978] 1 RCS 480 [Moldowan], la Cour suprême du Canada a énuméré quatre facteurs dont les tribunaux devraient prendre en compte pour déterminer s’il existe une attente raisonnable de profit.
+Une jurisprudence volumineuse traite de la signification de l’expression expectative raisonnable de profit, mais il ne s’en dégage aucune constante. À mon avis, on doit s’appuyer sur tous les faits pour déterminer objectivement si un contribuable a une expectative raisonnable de profit. On doit alors tenir compte des critères suivants : l’état des profits et pertes pour les années antérieures, la formation du contribuable et la voie sur laquelle il entend s’engager, la capacité de l’entreprise, en termes de capital, de réaliser un profit après déduction de l’allocation à l’égard du coût en capital. Cette liste n’est évidemment pas exhaustive. Les facteurs seront différents selon la nature et l’importance de l’entreprise. Personne ne peut s’attendre à ce qu’un fermier qui achète une affaire déjà productive subisse au départ les mêmes pertes que celui qui met sur pied une exploitation forestière sur un terrain vierge[3].
+[7] J’examinerai successivement chacun de ces facteurs.
+État des profits et des pertes des années antérieures de l’appelant
+[8] Le tableau qui suit, repris en partie du paragraphe 9(j) de la réponse, indique le revenu que l’appelant a déclaré aux fins de l’impôt au ministre du Revenu national lors des années d’imposition 2007 à 2015. Les deux parties ont convenu de l’exactitude de ces sommes[4]. Le revenu professionnel de l’appelant provient de l’exercice du droit et celui de la ferme provient de la ferme de chevaux.
+[9] Selon le témoignage de l’appelant, certains chevaux étaient rentables et celui-ci a réalisé un bénéfice de 76 343 USD en 2012 grâce à son entreprise américaine[5]. Même en tenant compte de ces faits, il demeure que les pertes étaient récurrentes à la ferme :
+Année d’imposition
+Revenu professionnel brut
+Revenu professionnel net
+Revenu brut de la ferme
+Revenu net de la ferme
+2007
+371 849 $
+(219 352 $)
+-
+(8 750 $)
+2008
+480 066 $
+72 897 $
+-
+(8 750 $)
+2009
+565 247 $
+75 232 $
+264 575 $
+(8 750 $)
+2010
+417 051 $
+56 920 $
+361 950 $
+(1 281 358 $)
+2011
+449 973 $
+75 229 $
+1 900 744 $
+(786 717 $)
+2012
+546 150 $
+227 830 $
+2 304 428 $
+(477 077 $)
+2013
+408 227 $
+59 768 $
+3 385 547 $
+(122 534 $)
+2014
+431 783 $
+120 508 $
+1 407 098 $
+(1 053 698 $)
+2015
+492 107 $
+293 084 $
+3 299 235 $
+(333 529 $)
+[10] L’appelant n’a présenté aucun élément de preuve documentaire oral ou documentaire qui fournisse des détails sur les montants des deux dernières colonnes. Par exemple, quelle a été sa plus grande dépense pour une année donnée? Était-ce de l’intérêt[6]? Était-ce les salaires et traitements de ses employés? Était-ce les frais d’administration? Était-ce l’entretien et les réparations? Était-ce les pertes dues à la fraude[7]? Même après l’examen de l’ensemble de la preuve, la Cour n’en a aucune idée.
+[11] Les aspects les plus importants du tableau sont, d’une part, l’historique des pertes de la ferme et, d’autre part, les pertes cumulatives de l’exploitation, équivalant à plus de quatre millions de dollars en seulement six ans (de 2010 à 2015). Pareil historique ne va pas dans le sens d’une quelconque attente de profit pour l’avenir, raisonnable ou non.
+[12] Pourquoi le tableau n’affiche-t-il aucune donnée postérieure à 2015? La réponse est simple; la dernière fois que l’appelant a produit une déclaration remonte à l’année d’imposition 2015. Toutefois, le problème de l’appelant est bien plus grave. C’est que son exploitation agricole a continué à subir des pertes; il n’a pourtant jamais préparé d’états financiers ni aucun document semblable — absence même d’un simple état des résultats — en vue de diagnostiquer et de traiter les problèmes financiers de la ferme à la source.
+[13] J’accepte tous les éléments de preuve de l’appelant tels qu’ils sont, mais ils s’avèrent insuffisants. Pourquoi? Parce que la plupart des réponses aux questions ayant une importance financière étaient, au mieux sinueuses, au pire évasives. Voici, par exemple, une réponse particulièrement confuse à la question posée par son avocat sur ce qui avait causé les pertes de 2013 à 2015 :
+[traduction]
+R. Eh bien, la grosse perte a eu lieu en 2015 et c’était parce que nous avions acheté notre première ferme en Floride, c’était à cette époque en 2008, que le marché s’est effondré, tout juste après l’affaire des concessionnaires d’automobiles; le monde était sens dessus dessous avec cette affaire. Et je venais tout juste d’acheter la ferme. Je l’ai alors vendue pour acheter plus petit, pour essayer de la rendre plus rentable. En achetant plus petit, j’ai perdu un million de dollars. En fait, ce n’est pas vraiment une perte de 1 121 000 $, c’est arrivé parce que la vente de la ferme, c’était une perte d’argent. Ce n’était pas exactement un problème d’exploitation des chevaux; c’est plutôt que le terrain de cette ferme-là s’est déprécié entre 2008 et 2015. C’est donc à moment-là que j’ai emménagé dans la ferme actuelle, que je viens de vendre cette année, et c’est là que [...] Bien, vous savez, en 2016, l’exploitation avait lieu dans la deuxième ferme en Floride[8].
+[14] Les courses auxquelles les chevaux de l’appelant participaient étaient principalement celles de Woodbine (Ontario). Son avocat lui a demandé si les courses permettaient de réaliser des bénéfices. La réponse de l’appelant est un modèle dans l’art de brouiller les pistes.
+R. Je vais le dire comme ça, si... ça dépend du coût de l’entraînement, ça aurait été possible. Ça dépend du nombre de chevaux que vous avez à entraîner, ça se pourrait. Je dois y réfléchir, vous savez, mais à chaque course de Sent From Heaven, nous pensions qu’il allait gagner beaucoup d’argent. Cela ne fait aucun doute. Et puis, il y avait [...] Vous savez, j’aurais dû le vendre pour 250 000 $. You Can’t Catch Her, c’en est un autre qui (inaudible) valait 700 000 $. Je veux dire, j’avais l’article quelque part dans mes affaires, mais personne n’en voulait, même pas pour 10 000 $. Ça vous montre à quel point les gens qui sont dans le métier depuis longtemps peuvent vous mener en bateau et là, ils pourraient [...] le cheval valait beaucoup d’argent parce que c’était la demi-sœur de You Can’t Catch Me. Alors, c’est... Vous savez, je pense qu’il y a une part de chance là-dedans, et de la malchance aussi. Je veux dire que j’ai vu des chevaux se casser la patte. Je veux dire, c’est incroyable[9].
+[15] Les réponses de l’appelant aux questions financières d’importance posées en contre-interrogatoire étaient opaques, elles aussi.
+Q. Et avez-vous toutes vos dépenses et tous vos revenus en détail pour 2016 et pour 2017?
+R. Oui.
+Q. Les avez-vous en main aujourd’hui?
+R. Oh, c’est que c’est un gros dossier. J’avais un comptable, il n’a pas pu rien faire après le 30 juin, il était... avait toutes les déclarations d’entreprise et je ne pouvais que... ce n’est que parce que je venais de recevoir de l’argent de ma famille que j’ai été capable de l’engager. Je n’avais pas d’argent pour le rémunérer, je n’avais pas d’argent pour payer qui que ce soit pour produire les déclarations de TVH. J’avais toujours quelqu’un, ma secrétaire s’occupait toujours des déclarations de TVH à mon bureau, j’avais toujours quelqu’un pour tout faire pour moi. Je ne suis pas prédisposé à l’informatique, tout le monde pense que vous pouvez faire vos déclarations en ligne à l’ordinateur et je ne connais rien des ordinateurs.
+Q. D’accord.
+R. C’est que, je compte sur (inaudible) pour ce genre de choses. Je n’aime pas la technologie. Je préfère tout lire sur papier.
+Q. Alors, quel était le total de vos revenus en 2016
+R. Je ne le sais pas[10].
+[16] Lors du contre-interrogatoire, l’appelant s’est fait demander le montant qu’il a versé aux entraîneurs en 2017. La réponse transcrite occupe trois bonnes pages pour aboutir à une admission d’ignorance[11].
+[17] Même si l’appelant n’a pas l’obligation légale de préparer ses états financiers[12], la Cour doit tirer deux inférences de l’absence d’états financiers ou de documents semblables pour les périodes d’exploitation de la ferme allant des années 1990 jusqu’à nos jours, et ces inférences vont peser lourdement contre la thèse de l’appelant, selon laquelle celui-ci a une attente raisonnable de profit provenant de la ferme :
+a)l’appelant était incapable de discerner objectivement les causes profondes de l’absence de profit à la ferme;
+b)il était incapable d’évaluer objectivement l’effet de ses efforts en vue d’endiguer la montée continue des pertes à la ferme.
+La formation de l’appelant
+[18] L’appelant a eu une formation en droit. Il dit dans son témoignage que son passage à l’école de droit a été extrêmement difficile parce qu’il souffre de dyslexie. Il a persévéré, puis exercé le droit immobilier à Pickering (Ontario) de 1977 jusqu’à la fin de sa pratique du droit en raison de sa radiation en 2017.
+[19] L’appelant n’a jamais étudié dans une école de commerce. Il n’a reçu aucune formation sur l’exploitation d’une entreprise en général ni sur celle d’une ferme équestre en particulier. Selon son témoignage, l’appelant est issu d’une famille de fermiers (et non pas d’une famille élevant des chevaux) et il a tenté sa chance dans d’autres affaires, notamment un club de golf, un restaurant et une galerie d’art.
+Le plan d’action prévu par l’appelant
+[20] Son avocat lui a demandé de quelle manière l’appelant avait essayé de rentabiliser sa ferme. Voici sa réponse :
+R. Eh bien, dès le départ, je me suis départi de tout en Floride, enfin, et ça, c’était une bataille en soi parce que, là-bas, il y en a qui ne respectent pas les marchés conclus, sans être redevables, c’est déplorable. De toute façon, j’ai déménagé toutes mes activités au Canada. En ce moment, j’ai toujours... je les ai mis en pension et je paie de la TVH sur tout ce qui touche aux pensions dans le moment. Je suis en train de construire mon installation. J’ai acheté une ferme ici au Canada et je suis en train de construire une installation pour tout avoir sous le même toit. Avec un peu de chance, je vais pouvoir gagner un peu d’argent de la ferme, sinon je vais me retrouver à la rue avec les autres. J’y ai mis toute ma vie, mon cœur, mon âme, mes économies, j’y tout investi là-dedans, ma famille et tout le reste ont souffert de mes tentatives de rendre la ferme rentable, et c’est en partie mon... je crois simplement que je peux la rendre rentable, je pense que je... Je suis convaincu que je peux la rendre rentable. Et je suis déterminé à y arriver. Et j’ai la tête dure, vous savez, pour faire en sorte que ça arrive. Je veux dire, je... quand j’étudiais en droit... je suis très dyslexique, vraiment dyslexique, tellement qu’on m’a déjà dit que je ne finirais pas mes études en droit, mais j’ai tenu bon, c’était les pires trois ans de mes études en droit, et m’astreindre à faire autant de lecture tout en étant dyslexique, c’était difficile. Et c’est ce qui arrive avec la ferme. Je suis persévérant... parce que je crois profondément dans mon cœur que la ferme peut être rentable.
+Q. Bon, désolé, je dois revenir aux changements que vous avez faits. Vous avez dit que vous...
+R. Bien, j’ai donné 50 % de propriété sur Speightstown à l’entraîneur pour ne plus avoir à payer les factures, mais il obtient 50 % de tous les revenus à venir aussi. Donc, on espère que ça va arriver. Et je fais la même chose avec tous les chevaux qui (inaudible) dans le moment.
+Q. Maintenant, les factures que vous ne paierez plus, pouvez-vous nous en donner des exemples?
+R. Je ne paie aucune facture de vétérinaire, aucune facture de ferrage, aucune facture pour l’entraînement quotidien...
+Q. Pardon. Qu’est-ce que c’est, le ferrage? Le ferrage, ça consiste en quoi?
+R. C’est mettre un fer aux sabots d’un cheval.
+Q. D’accord.
+R. Je ne paie pas pour le transport, rien. Je ne paie plus rien pour le cheval après avoir donné 50 % de propriété. Mais je conserve 50 % de tous les gains, 50 % du prix de vente[13].
+[21] L’appelant a expliqué ce nouveau type d’arrangement avec les entraîneurs précédemment dans son témoignage :
+Ma manière de faire, je l’ai donné, donc dans mes dépenses, j’ai tout coupé de façon à pouvoir faire un profit, j’ai conclu un marché, je lui ai donné 50 % de propriété sur le cheval et lui avait 50 % des revenus sans m’envoyer de facture. Je ne veux payer aucune facture pour un cheval à la piste de course. Comme ça, je peux conclure un marché avec un entraîneur, lui donner 50 % de propriété de façon à ne plus avoir de factures à l’avenir[14].
+[22] Les montants des dépenses annuelles de la ferme qui sont antérieurs et postérieurs au nouvel arrangement ne font pas partie des éléments de preuve et le moment de la mise en place de cet arrangement n’a pas été précisé. C’est à se demander si le fait de recevoir la moitié des gains de course au lieu de la totalité diminue le potentiel à long terme de la ferme à réaliser un profit. Il n’existe aucune façon de déterminer si la valeur de certaines dépenses non quantifiées est plus importante que la moitié de tous les gains de course à venir. Le renoncement à des gains de course a-t-il eu un effet vital sur le potentiel de rentabilité de la ferme? Nul ne le sait.
+[23] De plus, l’appelant a commencé à transporter lui-même ses chevaux en traversant la frontière canado-américaine :
+R. Oui, j’ai transporté moi-même ces chevaux. Et je fais moi-même le gros du transport parce que lorsque vous embauchez quelqu’un, ça coûte beaucoup d’argent, mais en plus de ça, ils ne s’occupent pas du cheval comme je le fais. Parce que je m’assure qu’ils ont assez d’eau, tout le foin nécessaire et tout le reste. J’ai eu des chevaux, malheureusement, qui ont été transportés de Woodbine jusqu’en Floride. L’un d’eux, c’était Bear Treasure, un de ceux dont j’ai déjà parlé. Malheureusement, il est tombé malade, je me suis retrouvé avec une facture de 5 000 % du vétérinaire parce que (inaudible) l’avait envoyé de Woodbine directement à Miami pour participer à une course, et j’avais eu une facture de 5 000 $; j’en étais enragé. J’avais voulu le transporter moi-même, mais il en transportait déjà plusieurs, il m’a dit « Tu sais, ce serait mieux qu’ils voyagent tous ensemble avec moi » et d’autres choses encore, donc, j’ai fini par accepter. Mais, malheureusement, j’aime faire le transport de mes chevaux parce que je le fais mieux qu’aucun des camionneurs le fait.
+Q. À titre de... comme vous avez mentionné un transport de Woodbine jusqu’à Miami, combien il en coûterait à un tiers de faire ce travail, à peu près?
+R. Environ,... tout dépendant de la remorque, une stalle entière ou sciée en deux. Les prix diffèrent en conséquence. De manière générale, se rendre en Floride coûte de 1 500 à 3 500 $ dépendamment de la taille de la stalle[15].
+[24] Les coûts de transport annuels antérieurs et postérieurs au nouvel arrangement ne faisaient pas partie des éléments de preuve et le moment de la mise en place de l’arrangement n’a pas été précisé.
+[25] Même si l’appelant a pris chacune des mesures précédentes, une question demeure : qu’est-ce qui explique les pertes récurrentes de l’appelant? L’appelant n’a présenté aucun élément de preuve oral ou documentaire indiquant les sommes qu’il espérait économiser ou les économies réalisées résultant des mesures qu’il a prises.
+Capacité de l’entreprise, en termes de capital, de réaliser un profit
+[26] L’appelant n’a pas produit de bilan ni de document financier semblable qui montrerait le capital investi dans la ferme. N’ayant aucune idée du capital investi dans la ferme, il m’est impossible de tirer une inférence quelconque qui favorise l’appelant en ce qui concerne la capacité de son entreprise à dégager un bénéfice en fonction du capital investi. Par exemple, je ne connais pas le montant d’argent payé chaque année en intérêts sur les emprunts contractés pour financer la ferme. Il est possible que ce montant se soit accru au fil du temps pour ainsi devenir la source principale de ses pertes, mais aucun élément de preuve oral ou documentaire ne l’indique.
+[27] Dans sa plaidoirie, l’avocat de l’appelant a affirmé que les revenus découlant de la pratique du droit de l’appelant auraient soutenu financièrement la ferme. Le fait de compter sur sa pratique du droit pour soutenir financièrement sa ferme n’est pas un élément qui prouve la capacité de cette ferme à dégager des profits en termes de capital, surtout depuis que l’appelant a été radié en 2017[16].
+Autres facteurs pertinents
+[28] L’appelant reproche à son ancien gestionnaire de ferme de l’avoir mal conseillé. Je n’ai toujours aucun élément de preuve pour étayer l’allégation de l’appelant selon laquelle il aurait probablement dégagé des bénéfices en plusieurs années s’il avait été bien conseillé par son gestionnaire[17]. Aucun élément de preuve oral ou documentaire au dossier ne nous indique le montant du profit que l’appelant aurait pu réaliser ou la date probable de cette réalisation s’il n’avait pas écouté les mauvais conseils de son gestionnaire de ferme.
+[29] Sur la question de la perte regrettable de trois chevaux euthanasiés en raison de leurs blessures, l’appelant allègue que l’événement lui aura coûté de centaines de milliers de dollars[18]. Encore une fois, il n’existe aucun élément de preuve oral ou documentaire qui puisse quantifier les pertes ou établir la date de l’événement.
+[30] Dans la mesure où le temps consacré à son exploitation agricole serait un facteur, je ne doute pas que l’appelant ait consacré le gros de son temps, voire la totalité de son temps sur la ferme, surtout après sa radiation en 2017. Il s’agit bien du seul facteur qui favorise la thèse de l’appelant.
+III. Conclusion [31] Je n’ai aucun doute que l’appelant a la passion des chevaux, se soucie réellement d’eux et prend plaisir à se trouver près d’eux. Il possède un savoir encyclopédique sur le sujet et connaît parfaitement le résultat des courses et les races de chevaux. Dans son témoignage, il dit avoir consacré toute sa vie, tout son cœur, toute son âme et toutes ses économies dans l’entreprise. Je crois qu’il dit vrai.
+[32] Mais en l’absence d’outils servant à diagnostiquer la ou les causes des pertes encourues par la ferme, l’appelant ne peut raisonnablement s’attendre à endiguer les pertes. L’expectative de profit se doit d’être « raisonnable » pour l’appelant. Il ne suffit pas d’espérer ou de désirer de réaliser des bénéfices pour démontrer une « attente raisonnable de profit ».
+[33] Il aurait été nécessaire pour l’appelant d’examiner les états financiers de la ferme ou des documents semblables pour, d’une part, comprendre ce qui cause les pertes continuelles de l’entreprise et, d’autre part, prendre les mesures nécessaires pour rentabiliser l’entreprise. L’appelant ne pouvait ni diagnostiquer ni traiter le problème sans l’apport de bons outils financiers.
+[34] Lorsque j’applique le critère établi par la Cour suprême du Canada dans l’arrêt Moldowan, je conclus que chaque facteur (sauf celui du temps consacré) contribue fortement à la conclusion voulant que l’exploitation de la ferme de l’appelant n’ait pas d’attente raisonnable de profit.
+[35] Pour tous ces motifs, je conclus que l’appelant n’a pas réussi à démontrer selon la prépondérance des probabilités qu’il avait une attente raisonnable de profit en exploitant la ferme Stroud’s Lane. Par conséquent, cette entreprise n’était pas une « activité commerciale » au sens du paragraphe 123(1) de la Loi; il s’ensuit que l’appelant n’a pas droit aux CTI demandés en application du paragraphe 169(1) pour les périodes de déclaration trimestrielles se terminant le 31 mars 2017, le 30 juin 2017 et le 30 septembre 2017.
+[36] Par conséquent, les appels sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2022.
+« David E. Spiro »
+Le juge Spiro
+RÉFÉRENCE :
+2022 CCI 86
+NO DU DOSSIER DE LA COUR :
+2020-2180(GST)I
+INTITULÉ :
+PAUL MURRAY HOLLIDAY c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 juin 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 28 juillet 2022
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Adam Serota
+Avocat de l’intimée :
+Me Christopher Ware
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Adam Serota
+Cabinet :
+BRS Tax Lawyers, LLP Toronto (Ontario)
+Pour l’intimée :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Selon le paragraphe 169(1) de la Loi, les CTI sont offerts aux inscrits qui acquièrent un bien ou un service devant servir à des activités commerciales. Selon le paragraphe 123(1) de la Loi, une « activité commerciale » ne correspond pas à une entreprise exploitée par un particulier sans attente raisonnable de profit.
+[2] Même si la ferme est située en Floride, tous les CTI en litige découlent du fait que l’appelant a payé de la TPS pour les fournitures effectuées lors de la saison 2017 des courses hippiques à Woodbine (Ontario).
+[3] Moldowan, p. 485 et 486.
+[4] Transcription, de la page 103, ligne 25, à la page 104, ligne 10.
+[5] Sur cette dernière question, voir la page 4 de la pièce R-1.
+[6] Voir à la page 118 de la transcription, ligne 28. L’appelant dit lors de son contre-interrogatoire qu’il a payé [traduction] « beaucoup d’intérêt ». La preuve n’apporte pas plus de précision que cela. Par exemple, l’appelant était incapable de dire le montant d’intérêt payé en 2015 (voir la transcription de la page 119, la ligne 6, à la page 120, ligne 20).
+[7] L’appelant a maintenu pendant son témoignage qu’il avait été fraudé par un ancien gestionnaire de la ferme.
+[8] Transcription, de la page 33, ligne 26, à la page 34, ligne 12.
+[9] Transcription, page 92, lignes 4 à 20.
+[10] Transcription, page 122, lignes 3 à 24.
+[11] Transcription, de la page 124, ligne 22, à la page 127, ligne 22).
+[12] Le paragraphe 286(1) de la Loi oblige de manière générale toute personne qui exploite une entreprise ou exerce une activité commerciale à « tenir les registres permettant d’établir ses obligations et responsabilités aux termes de la présente partie ».
+[13] Transcription, de la page 100, ligne 22 à la page 102, ligne 9.
+[14] Transcription, page 63, lignes 18 à 25.
+[15] Transcription, page 80, ligne 23 à la page 81, ligne 19.
+[16] Transcription, de la page 110, ligne 24 à la page 111, ligne 2. L’appelant a indiqué dans son témoignage qu’il avait été radié parce qu’il avait emprunté de ses clients de l’argent pour financer l’exploitation de la ferme.
+[17] Paragraphe 11 de l’avis d’appel.
+[18] Paragraphe 13 de l’avis d’appel.

@@ -1,0 +1,125 @@
+Title: Penta v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28668/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-286-28668-penta-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-05-15
+
+# Penta v. The Queen
+
+- Citation: 2008 TCC 286
+- Decision date: 2008-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1131, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Penta v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-15
+Neutral citation
+2008 TCC 286
+File numbers
+2006-3493(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3493(IT)G
+BETWEEN:
+NICOLINO PENTA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 2, 2008, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Agent of the Appellant:
+Donato Di Tullio
+Counsel for the Respondent:
+Yanick Houle
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under section 227.1 of the Income Tax Act, notice of which bears the number 32596 and is dated August 26, 2005, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of May 2008.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 4th day of November 2008.
+Brian McCordick, Translator
+Citation: 2008TCC286
+Date: 20080515
+Docket: 2006-3493(IT)G
+BETWEEN:
+NICOLINO PENTA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from an assessment made under section 227.1 of the Income Tax Act ("the Act"), which pertains to the liability of the directors of a corporation that has failed to withhold or remit tax on the income of a transferee. According to that provision of the Act, the directors of the corporation are jointly and severally liable, together with the corporation, to pay such amounts, and any interest and penalties related thereto.
+[2] In the instant case, 2740907 Canada Inc. ("the corporation") failed to remit to the Receiver General for Canada the amounts withheld from its employees' wages as required by the Act. The Appellant was the corporation's principal director.
+[3] The Appellant testified that the corporation commenced operations in 1995 and ceased carrying on business in 1996. It was a subcontractor for a company called Groupe Arsona, from which it obtained two major contracts. Groupe Arsona went bankrupt in 1996, and this, according to the Appellant, is why the amounts withheld from the employees' wages were not remitted. Groupe Arsona owed the corporation $65,000 when it went bankrupt. The Appellant claims that the corporation was counting on that money to remit the tax withheld through source deductions.
+[4] Antonio Penta, the Appellant's brother, explained that he was the person who did the corporation's bookkeeping. He admitted that the employees were issued T4 slips, but that no copies were ever sent, and no money ever remitted, to the Canada Revenue Agency (CRA).
+[5] Denis Paulin, the officer representing the Minister of National Revenue ("the Minister"), explained that an initial audit was conducted on behalf of the Minister on November 19, 1996. Since the auditor was unable to get access to the corporation's books, he issued an arbitrary assessment for the 1995 taxation year.
+[6] Mr. Paulin was the person who did the second audit, on December 10, 1997. Mr. Paulin was not able to get access to the books either, even though he went to the premises and spoke with Antonio Penta.
+[7] However, Mr. Paulin did manage to track down the names of some of the corporation's employees. In those employees' 1995 income tax returns, and in some of those employees' 1996 returns, they enclosed a T4 slip from their employer, namely the corporation. The corporation was then assessed on that tangible basis.
+[8] Madeleine Castello, a trust accounts auditor, testified that, on February 2, 2005, the CRA sent the Appellant a letter notifying him of the draft assessment under section 227.1. The third paragraph of the letter reads:
+[TRANSLATION]
+Subsection 227.1(3) of the Income Tax Act (Canada) relieves a director of this liability if he acted with the care, diligence and skill that a reasonably prudent person would have exercised in such circumstances. If you believe that you are not jointly and severally liable and that we should not issue an assessment, please send our office, within 30 days, the reasons and documents which, in your view, establish that you are not liable.
+[9] On March 3, 2005, Ms. Castello had a telephone conversation with the Appellant, who asked for additional time. She gave him until March 15, but did not receive anything after granting that extension.
+[10] On August 26, 2005, she assessed the Appellant.
+[11] The agent representing the Appellant argued that the Appellant exercised reasonable diligence. He submits that if the general contractor had not gone bankrupt, the Appellant would have seen to it that the corporation paid the source deductions.
+[12] Counsel for the Respondent counters that there is no indication that reasonable care was exercised to prevent the failure to remit the amounts deducted on account of the income tax of the corporation's employees.
+Analysis and conclusion
+[13] Subsection 227.1(3) reads as follows:
+(3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[14] The degree of diligence required under this provision is that of a director who puts the necessary safeguards in place to prevent the failure to remit the amounts withheld from wages.
+[15] In my opinion, the evidence discloses a complete lack of care on the part of the director with respect to the corporation's source deduction obligations. The corporation never sent the CRA copies of the T4 slips which it issued to its employees and which set out the amounts of the source deductions. The corporation never contacted the CRA to explain the failure to remit the income tax source deductions. In the course of its year and a half of operation, it never remitted a penny of these monies withheld on the Minister's behalf. There is no evidence that the Appellant instructed his brother, the bookkeeper, to do so. The evidence shows that the Appellant was aware of this state of affairs, and that he waited until contracts were completed before making such remittances.
+[16] I quote the Federal Court of Appeal in Jean Ruffo v. M.N.R., 2000 DTC 6317, at paragraphs 4-7:
+4 Furthermore, as of July 15, 1992, the appellant was hoping, for example, to get $200,000.00 pursuant to an oral cooperative agreement with Homard Gidney Lobsters Ltd. But the only means of redress appearing on the company's books, if this amount was paid at that time, which was not the case, consisted of paying the accumulated overdue accounts without any steps being taken to secure the payment of the ongoing deductions and preventing a future breach of this obligation. In fact, no remittance was made in accordance with this recovery plan and the failures to deduct continued in the following months while the firm was electing to pay the other creditors.
+5 As Vinelott J. said, in relation to the duty of a company manager to make the aforementioned deductions and remittances:
+The directors of a company ought to conduct its affairs in such a way that it can meet these liabilities when they fall due, not only because they are not moneys earned by its trading activities, which the company is entitled to treat as part of its cash flow... but, more importantly, because the directors ought not to use moneys which the company is currently liable to pay over to the Crown to finance its current trading activities.
+6 The appellant's duty as a director was to anticipate and prevent the failure to pay the sums owing and not to commit such failure or perpetuate it as he did from March 1992 on in the hope that at the end of the day the firm would again become profitable or there would be enough money, even if it were wound up, to pay all the creditors.
+7 While a director may, under subsection 227.1(3) of the Income Tax Act, be relieved of personal liability for unpaid deductions by showing that he acted with diligence, the appellant has not, in the circumstances, demonstrated the requisite diligence.
+[Footnotes omitted.]
+[17] The Appellant's duty as a director was to prevent the failure to pay the sums owing and not to commit or perpetuate it as he did throughout the corporation's fiscal year in the hope that at the end of the day the business would have enough money to remit the amounts withheld from its employee's wages.
+[18] This is not a case where a business which had always been concerned about fulfilling its duty under the Act to remit to the Minister the amounts that it deducted from the total of its employees' wages on the Minister's behalf suddenly found itself unable to comply with its obligations because of the bankruptcy of a principal source of income.
+[19] In the case at bar, the Appellant, as a director of the corporation, did nothing to prevent the failure. He did not issue an instruction to the effect that the withholdings should be remitted as they were made, and that a copy of the T4 slips should be sent to the Minister. He never demonstrated the diligence required of directors by the Act, namely, to make efforts to prevent breaches of the Act.
+[20] Consequently, the appeal must be dismissed, with costs.
+Signed at Ottawa, Canada, this 15th day of May 2008.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 4th day of November 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC286
+COURT FILE NO.: 2006-3493(IT)G
+STYLE OF CAUSE: NICOLINO PENTA v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: May 2, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: May 15, 2008
+APPEARANCES:
+Agent of the Appellant:
+Donato Di Tullio
+Counsel for the Respondent:
+Yanick Houle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,154 @@
+---
+title: "Srougi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22436/index.do"
+last_modified: "2007-04-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 186"
+citation2: ""
+neutral_citation: "2007 TCC 186"
+decision_date: "2007-04-11"
+language: "en"
+item_id: "22436"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2227
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:13:10.869000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5fddf42aca26d0c3ad7270417b77094619d9d40b68b0c5ab029e2b6bb348d4c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Srougi c. La Reine
+
+- Citation: 2007 TCC 186
+- Decision date: 2007-04-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2227, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Srougi c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-11
+Neutral citation
+2007 TCC 186
+File numbers
+2006-1170(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1170(IT)I
+BETWEEN:
+NABIH SROUGI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of Ilse M. Srougi (2006‑639(IT)I) on March 12, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne-Marie Boutin
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments under the Income Tax Act for the 1998, 1999 and 2000 taxation years are allowed without costs and the assessments are referred back to the Minister of Revenue for reconsideration and reassessment on the basis that an additional income of $8,481.43 and $4,001.27 must be added to the Appellant’s income for the 1998 and 1999 taxation years, respectively (instead of $19,294.17 and $16,602.10 as assessed for 1998 and 1999, respectively). For the 2000 taxation year, the Appellant’s income will have to be reduced by $1,343.51. In all other respects, the assessments under appeal remain unchanged.
+Signed at Ottawa, Canada, this 11th day of April 2007.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 14th day of December 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC186
+Date: 20070411
+Dockets: 2006-1170(IT)I
+BETWEEN:
+NABIH SROUGI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing the assessments made by the Minister of National Revenue (Minister) for the 1998, 1999 and 2000 taxation years. In his assessments, the Minister added $19,294.17 and $16,602.10 to the Appellant’s income for the 1998 and 1999 taxation years, respectively, and disallowed certain expenses in the amounts of $6,157.36 and $4,830 for the 1999 and 2000 taxation years, respectively. The assessment for the 1998 taxation year was made after the normal reassessment period, and the onus is on the Respondent to demonstrate, in accordance with subsection 152(4) of the Income Tax Act (Act), that the Appellant has made any misrepresentation that is attributable to neglect, carelessness or wilful default in filing his income tax return in respect of the 1998 taxation year.
+[2] The Appellant is a lawyer and reported gross income of $52,955.15 in 1998 and $66,115.66 in 1999 using the cash basis of accounting. The Minister adjusted the Appellant’s income using the accrual method of accounting based on the invoices for professional fees prepared by the Appellant for each of those years.
+[3] According to the Appellant and his spouse, Ilse M. Srougi, acting in that capacity, the Minister doubled the income by taking into account both the invoicing and the bank deposits, and furthermore, did not take into account bad debts. The Appellant acknowledged that in the statements of income and expenses he included with his income tax returns for 1998 and 1999, he indicated a nil amount for bad debts. He however explained in court that he was justified in doing so inasmuch as he used the cash basis of accounting. In fact, by using that method, only income received and actual expenses incurred in the year are taken into account, and from that perspective, bad debts cannot be claimed. As long as the Minister applies the accrual method of accounting, and the professional fees billed but not collected are included, the Appellant says that he is justified in claiming bad debts.
+[4] Furthermore, in filing his income tax returns for 1998 and 1999, the Appellant did not make the election to exclude from his income any amount in respect of work in progress at the end of the year, in accordance with section 34 of the Act, which reads as follows:
+SECTION 34: Professional business
+In computing the income of a taxpayer for a taxation year from a business that is the professional practice of an accountant, dentist, lawyer, medical doctor, veterinarian or chiropractor, the following rules apply:
+(a) where the taxpayer so elects in the taxpayer's return of income under this Part for the year, there shall not be included any amount in respect of work in progress at the end of the year; and
+(b) where the taxpayer has made an election under this section, paragraph 34(a) shall apply in computing the taxpayer's income from the business for all subsequent taxation years unless the taxpayer, with the concurrence of the Minister and on such terms and conditions as are specified by the Minister, revokes the election to have that paragraph apply.
+[5] The Appellant first takes issue with the use of the accrual method of accounting. He claims that it is his right to use the cash basis of accounting because it better reflects his income, based on the actual cash receipts he receives in the course of the year.
+[6] Unfortunately for the Appellant, he is bound by paragraph 12(1)(b) of the Act, which reads as follows:
+Inclusions
+SECTION 12: Income inclusions
+(1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+. . .
+(b) Amounts receivable -- any amount receivable by the taxpayer in respect of property sold or services rendered in the course of a business in the year, notwithstanding that the amount or any part thereof is not due until a subsequent year, unless the method adopted by the taxpayer for computing income from the business and accepted for the purpose of this Part does not require the taxpayer to include any amount receivable in computing the taxpayer's income for a taxation year unless it has been received in the year, and for the purposes of this paragraph, an amount shall be deemed to have become receivable in respect of services rendered in the course of a business on the day that is the earlier of
+(i) the day on which the account in respect of the services was rendered, and
+(ii) the day on which the account in respect of those services would have been rendered had there been no undue delay in rendering the account in respect of the services;
+[7] Therefore, under this legislative provision, the Appellant must include in his income for the year any amount receivable by him in respect of services rendered in the course of a business in the year (related to his professional practice as a lawyer), notwithstanding that the amount or any part thereof is not due until a subsequent year. That rule does not apply if the method adopted by the taxpayer for computing income from the business and accepted for the purpose of Part I of the Act does not require the taxpayer to include any amount receivable in computing the taxpayer's income for a taxation year unless it has been received in the year. An acceptable method for the purpose of Part I of the Act “. . . is that whichever method presents the ‘truer picture’ of a taxpayer’s revenue, which more fairly and accurately portrays income, and which ‘matches’ revenue and expenditure, if one method does, is the one that must be followed” (West Kootenay Power & Light Co. v. The Queen, [1992] 1 F.C. 732 (C.A.), p. 745, whose passage was adopted in Canderel Ltd. v. Canada, [1998] 1 S.C.R. 147, at para. 43).
+[8] Members of a professional business must compute their income based on the accrual method of accounting. (See Les principes de l’imposition au Canada, Lord, Sasseville [et al.], 13th edition, Wilson & Lafleur, 2002, p. 180, para. 4.2.9.2, quoted by the Appellant himself).
+[9] This is consistent with the general principle that the computation of profit involves the offsetting of revenues against the expenditures incurred in earning them (see Canderel Ltd. v. Canada, at para. 49). According to well-accepted business principles, business income shall be calculated not only by taking into account cash receipts in the year, but also any amount receivable in respect of services rendered in that year. That is the accrual method of accounting. For the professional practice of a lawyer, it is even clearer that the it is the accrual method of accounting which applies as section 34 was enacted to allow lawyers to make the election to exclude from their income for the year accounts in respect of work in progress. That election must be made when filing an income tax return for the year for which the election has been made. However, in this case, the Appellant did not make that election. The Minister was therefore justified in reassessing the Appellant by calculating his income based on the accrual method of accounting.
+[10] Second, the Appellant submits that in being reassessed, the Minister doubled some of his income and included certain loans as income. Moreover, the Appellant proved that some clients went bankrupt during the years in issue (Exhibit A‑3). The Respondent acknowledged those errors, as well as the bad debts caused by the clients’ bankruptcy. After the hearing, counsel for the Respondent submitted to the Court by correspondence dated March 16, 2007, the amended income with the corrections made. The amended income increased to $61,436.58 in 1998 and to $70,116.93 in 1999. Considering that the Appellant reported income of $52,955.15 in 1998 and $66,115.66 in 1999, the additional income increased to $8,481.43 for 1998 and to $4,001.27 for 1999.
+[11] The Appellant accepts those figures (see letter addressed to the Court dated March 20, 2007).
+[12] As to whether there was double taxation for the Appellant, as he included in his income amounts actually cashed, and the Respondent included the income billed, the Respondent’s reply is that for the 1998 and 1999 taxation years, the income reported by the Appellant was subtracted from the income calculated by the auditor of the Canada Revenue Agency (CRA) and that therefore there was not double taxation for those two years. However, counsel for the Respondent indicates in her letter of March 16, 2007, that the invoices issued in 1999, which, according to the evidence, were paid in 2000, should be subtracted from the Appellant’s income for 2000. The invoices are as follows:
+− invoice of October 4, 1999, addressed to Une Grande Famille: portion paid in 2000: $696.53 (see note on invoice, Exhibit I‑3, invoices issued in 1999);
+− invoice of December 8, 1999, addressed to Restaurant Mechoui Express Inc.: portion paid in 2000: $646.98 (see note on invoice, Exhibit I‑3, invoices issued in 1999).
+[13] Accordingly, the Appellant’s income for 2000 will have to be reduced by a total amount of $1,343.51 ($696.53 + $646.98).
+[14] Moreover, the Appellant claimed all his automobile expenses for business purposes for 1999 and 2000 ($6,384.88 in 1999 and $6,440.00 in 2000, Exhibit I‑7). The CRA auditor disallowed 75% of the expenses claimed, as 75% of those expenses represent the kilometres travelled by the Appellant from his residence to his office, which are personal expenses. The Appellant did not add anything new to object to that. I therefore accept the Minister’s evidence in that regard and I retain the automobile expenses as assessed (that is $2,158.04 deductible in 1999 and $1,903.66 deductible in 2000, which include the parking expenses allowed on top of that, Exhibit I‑7).
+[15] As for the meal expenses for the 1999 taxation year, the CRA auditor reduced to 50% the eligible expense on two invoices identified as “Le Vieux Pêcheur” (one in the amount of $253.54 and the other in the amount of $47.89), as they were expenses for food in accordance with section 67.1 of the Act. The Appellant did not really contest that point in court.
+[16] As for the expense claimed for promotional expenses for the 1999 taxation year, following the Appellant’s stay at Mont‑Tremblant, in the amount of $1,217.98 (Exhibit I‑7), it was disallowed on the ground that it was a personal expense. The Appellant was vague on that point as he did not remember the purpose of that stay. He suggested that he probably took a client. The Appellant did not keep any written documentation in that respect and his testimony was not very clear. I therefore consider that the Appellant did not prove that it was a business expense. I uphold the CRA’s decision.
+[17] Furthermore, the Minister was justified in reassessing the 1998 taxation year in accordance with subsection 152(4) of the Act, as the Appellant, who is a lawyer, should have known that he had to use the accrual method of accounting and that if he wanted to avail himself of the election to exclude from his income the accounts in respect of work in progress, he had to do so by specifying it very clearly when he filed his income tax return, which he failed to do.
+[18] The appeals are allowed without costs and the assessments are referred back to the Minister on the basis that additional income of $8,481.43 and $4,001.27 must be added to the Appellant’s income for the 1998 and 1999 taxation years, respectively (instead of $19,294.17 for 1998 and $16,602.10 for 1999). For the 2000 taxation year, the Appellant’s income will have to be reduced by $1,343.51. In all other respects, the assessments under appeal remain unchanged.
+Signed at Ottawa, Canada, this 11th day of April 2007.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 14th day of December 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC186
+COURT FILE NO.: 2006-1170(IT)
+STYLE OF CAUSE: NABIH SROUGI v. THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 12, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: April 11, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne-Marie Boutin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

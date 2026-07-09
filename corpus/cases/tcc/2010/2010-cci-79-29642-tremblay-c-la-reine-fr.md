@@ -1,0 +1,279 @@
+---
+title: "Tremblay c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29642/index.do"
+last_modified: "2010-02-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 79"
+citation2: ""
+neutral_citation: "2010 CCI 79"
+decision_date: "2010-02-09"
+language: "fr"
+item_id: "29642"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6149
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:17:08.307000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "de8520d409322ab73608e8f5c4163bf8ab04673588dd266a015fe12c44fa0eec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay c. La Reine
+
+- Citation: 2010 CCI 79
+- Decision date: 2010-02-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6149, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-09
+Référence neutre
+2010 CCI 79
+Numéro de dossier
+2007-4950(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4950(IT)G
+ENTRE :
+MICHEL TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 novembre 2009, à Chicoutimi (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Éric Le Bel
+Avocat de l'intimée :
+Me Sylvain Ouimet
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est rejeté, avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de février 2010.
+« Paul Bédard »
+Juge Bédard
+Référence : 2010 CCI 79
+Date : 20100209
+Dossier : 2007-4950(IT)G
+ENTRE :
+MICHEL TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel d’une nouvelle cotisation établie le 19 avril 2004 en vertu de la Loi de l’impôt sur le revenu (la « Loi ») par le ministre du Revenu national (le « ministre ») à l’encontre de l’appelant pour son année d’imposition 1999, cotisation aux termes de laquelle il a ajouté entre autres un gain en capital imposable de 200 901 $ au revenu de l’appelant.
+Contexte
+[2] En 1986, l’appelant a construit deux édifices contigus situés aux 940 et 950 rue Thérèse‑Casgrain, à la ville de Saguenay (l’« immeuble »). Le coût du terrain et des édifices avait été alors de 46 874 $ et de 785 258 $, respectivement. Les deux édifices comprennent chacun 16 logements locatifs répartis sur trois étages et un demi sous‑sol. Le 31 mars 1999, par contrat notarié (voir la pièce I‑1, onglet 6), l’appelant a cédé l’immeuble par délaissement volontaire à la société 9060‑8027 Québec inc., dont l’actionnaire majoritaire était alors monsieur Jean‑Eudes Tremblay, le frère de l’appelant. Le ministre soutient que la juste valeur marchande (la « JVM ») de l’immeuble au 31 mars 1999 était de 1 100 000 $, alors que l’appelant soutient que cette JVM était plutôt de 912 000 $.
+Question en litige
+[3] La seule question en litige consiste à déterminer si le ministre était bien fondé à établir la JVM de l’immeuble à 1 100 000 $ en date du 31 mars 1999.
+Témoignages
+[4] L’appelant a témoigné. Monsieur Ghislain Ruest (le témoin expert de l’appelant en matière d’évaluation foncière) a témoigné à l’appui de la position de l’appelant. Par ailleurs, seul monsieur Yvon Bergeron (le témoin expert de l’intimée en matière d’évaluation foncière) a témoigné à l’appui de la position de l’intimée.
+Remarques préliminaires
+[5] Je souligne immédiatement que le rapport d’évaluation préparé par monsieur Ruest (pièce A‑1) fixe la JVM de l’immeuble en février 2001 à 912 000 $, et ce, en privilégiant la méthode de la parité à la méthode du revenu ou encore à la méthode du coût. Je souligne aussi que ce rapport d’évaluation avait été préparé par monsieur Ruest à la demande de monsieur Jean‑Eudes Tremblay (le frère de l’appelant) et utilisé par ce dernier lors de son litige avec l’Agence des douanes et du revenu du Canada (l’« Agence ») portant sur la JVM de l’immeuble lors de son transfert en février 2001 par la société 9060‑8027 Québec inc. à monsieur Jean‑Eudes Tremblay. L’appelant soutient que l’Agence a reconnu lors de son litige avec monsieur Jean‑Eudes Tremblay que la JVM de l’immeuble était en février 2001 de 912 000 $. L’appelant prétend que la Cour devrait donc retenir les conclusions du rapport d’évaluation préparé par monsieur Ruest (pièce A‑1) puisque les conditions du marché en 2001 étaient les mêmes que celles en 1999.
+[6] En l’espèce, monsieur Ruest a retenu, aux fins de son analyse, 11 transactions d’immeubles ayant notamment les caractéristiques suivantes :
+Situé
+Nombre de logements
+Date de la
+transaction
+Sujet
+940‑950,Thérèse‑Casgrain
+à Chicoutimi
+multifamilial
+Immeuble 1
+2288, rue des Roitelets
+à Chicoutimi
+4 logements de
+4½ pièces
+18/11/02
+Immeuble 2
+457, rue Bécard
+à Chicoutimi
+8 logements de 2½ pièces à 4½ pièces
+27/12/02
+Immeuble 3
+1420‑26, rue Alphonse
+Desjardins à Chicoutimi
+4 logements de
+4½ pièces
+28/11/02
+Immeuble 4
+1291-1293, rue Renaud
+à Chicoutimi
+11 logements de
+3½ pièces
+05/04/02
+Immeuble 5
+64, rue Paquet
+à Chicoutimi
+8 logements de
+3½ pièces à 5¼ pièces
+22/10/02
+Immeuble 6
+733, rue des Hospitalières
+à Chicoutimi
+6 logements de
+4½ pièces
+27/12/02
+Immeuble 7
+980, rue St-Judes
+à Alma
+16 logements de
+4½ pièces
+01/11/02
+Immeuble 8
+2260, rue St-Jérôme
+à Jonquière
+10 logements de
+3½ pièces et 5½ pièces
+05/04/04
+Immeuble 9
+763, rue des Hospitalières
+à Chicoutimi
+13 logements
+16/05/02
+Immeuble 10
+708, rue Dequen
+à Alma
+24 logements de
+4½ pièces
+11/12/02
+Immeuble 11
+2530-2532, rue du Perche
+à Jonquière
+12 logements de
+3½ pièces et 4½ pièces
+12/04/02
+[7] L’appelant soutient que la JVM de l’immeuble fixée à 1 100 000 $ par monsieur Bergeron ne tient pas compte de l’état de l’immeuble. À cet égard, l’appelant a soutenu que la JVM de l’immeuble telle que déterminée par monsieur Bergeron devrait être réduite d’au moins 200 000 $ compte tenu du grand délabrement de l’immeuble en 1999.
+[8] Par ailleurs, le rapport d’évaluation préparé par monsieur Bergeron (pièce I‑2) fixe la JVM de l’immeuble au 31 mars 1999 à 1 100 000 $. Cette valeur de 1 100 000 $ a été déterminée selon la méthode de la parité. Je souligne que monsieur Bergeron a écarté la méthode du revenu pour déterminer la JVM de l’immeuble parce qu’il avait très peu d’informations fiables relatives aux revenus et dépenses liés à l’exploitation de l’immeuble. Enfin, je souligne que monsieur Bergeron a écarté la méthode du coût pour déterminer la JVM de l’immeuble parce que le marché immobilier dans la région de Chicoutimi avait été relativement actif au cours de la période d’évaluation.
+[9] Par ailleurs, monsieur Bergeron a retenu, aux fins de son analyse, 11 transactions d’immeubles ayant notamment les caractéristiques suivantes :
+Situé
+Nombre de logements
+Date de la
+transaction
+Immeuble 1
+Place des Écorceurs
+à Saguenay
+Ensemble de 6 édifices de 16 logements chacun dont 48 de 4½ pièces et 48 logements de 5½ pièces
+02/08/1995
+Immeuble 2
+750A-750B, rue
+Georges‑Vanier
+à Saguenay
+32 logements
+19/04/1996
+Immeuble 3
+130, rue Des Écorceurs
+à Saguenay
+16 logements dont 8 de 4½ pièces et 8 de 5½ pièces
+01/03/1996
+Immeuble 4
+70, rue Des Écorceurs
+à Saguenay
+16 logements dont 8 de 4½ pièces et 8 de 5½ pièces
+01/05/1996
+Immeuble 5
+120, rue Des Écorceurs
+à Saguenay
+16 logements dont 8 de 4½ pièces et 8 de 5½ pièces
+01/10/1997
+Immeuble 6
+731, rue Alma
+à Saguenay
+30 logements dont 6 de 2½ pièces et 24 de 3½ pièces
+26/09/1997
+Immeuble 7
+1775-1825, rue
+Tadoussac
+à Saguenay
+6 édifices comprenant 4 logements chacun dont 16 de 4½ pièces et 16 de 5½ pièces
+27/03/1998
+Immeuble 8
+1675-1715, rue
+Tadoussac
+à Saguenay
+4 édifices comprenant 4 logements chacun dont 8 de 4½ pièces et 8 de 5½ pièces
+27/03/1998
+Immeuble 9
+291, rue Rimbaud
+à Saguenay
+12 logements de 4½ pièces
+16/07/1999
+Immeuble 10
+1246-1256, rue Roitelet
+à Saguenay
+36 logements dont 9 de 3½ pièces et 27 de 4½ pièces
+08/10/1999
+Immeuble 11
+1240, rue Lorenzo
+Genest
+à Saguenay
+16 logements dont 9 de 4½ pièces et 7 de 5½ pièces
+08/10/1999
+Témoignage de l’appelant
+[10] L’appelant a témoigné que :
+i) pendant les deux années précédant la vente de l’immeuble, ce dernier avait été administré par le créancier hypothécaire de l’immeuble (en l’espèce la Banque Laurentienne du Canada), et ce, depuis la ville de Québec. L’appelant a expliqué que la Banque Laurentienne du Canada (la « Banque ») s’était contentée de collecter les loyers pendant cette période. L’appelant a précisé que l’immeuble était dans un état de grand délabrement le 31 mars 1999, la Banque n’ayant aucunement entretenu ou réparé l’immeuble pendant cette période de deux ans. L’appelant a ajouté que l’incurie de la Banque avait fait en sorte que le taux d’inoccupation de l’immeuble au 31 mars 1999 était de 45 %, et que l’immeuble n’attirait plus que des assistés sociaux comme locataires pendant cette période de deux ans. Je souligne immédiatement qu’un état de revenus et dépenses prévisionnels de location de l’immeuble pour l’année 1998 (pièce I‑1, onglet 4) préparé par les comptables de l’appelant nous laisse croire que le taux d’inoccupation prévu pour cette année était d’environ 5 %;
+ii) la société 9060‑8027 Québec inc. avait dû investir environ 200 000 $ dans l’immeuble « pour la retaper puis la remettre louable puis il a changé quasiment tout le set de locataires » (voir les notes sténographiques, par. 79, à la page 30). Je note que l’appelant n’a pas précisé la nature des travaux effectués par la société contrôlée par son frère, qu’il n’a pas précisé la période pendant laquelle ces travaux avaient été effectués et enfin qu’il n’a pas fourni de pièces justificatives à cet égard;
+iii) l’état de l’immeuble au 1er février 2001 (date à laquelle l’immeuble a été transféré par la société 9060‑8027 Québec inc. à monsieur Jean‑Eudes Tremblay à un prix de 912 000 $) était le même qu’au 31 mars 1999 et que c’est pour cette raison qu’il a décidé d’utiliser le rapport d’évaluation (pièce A‑1) qu’avait fait monsieur Ruest (à la demande de son frère Jean‑Eudes) pour déterminer la JVM de l’immeuble au 1er février 2001 lors du transfert de l’immeuble par la société 9060‑8027 Québec inc. à son frère Jean‑Eudes.
+Analyse et conclusion
+[11] Lorsque les données du marché sont suffisantes, l’estimation de la JVM d’un immeuble est effectuée suivant trois méthodes d’évaluation conventionnelles, soit celle du coût, de la parité et du revenu. La méthode du coût repose principalement sur le principe de la substitution qui sous‑entend qu’un acheteur avisé ne paiera pas plus pour un immeuble que le coût requis pour en construire un semblable, en supposant qu’aucun retard coûteux ne se produise au moment de la substitution. La méthode de la parité, quant à elle, repose aussi sur le principe de la substitution, qui veut qu’un acheteur informé ne paie pas plus pour un immeuble qu’il n’en coûterait pour acheter un bien comparable. En d’autres termes, la technique de la parité consiste essentiellement à utiliser comme point de référence le prix de vente de biens ayant des attributs similaires, situés aussi près que possible des biens à évaluer et dont la vente a eu lieu le plus près possible de la date d’évaluation pertinente. La méthode du revenu est basée essentiellement sur le principe de l’actualisation et est la méthode la plus appropriée lors de l’évaluation d’un immeuble de rapport. Cette méthode trouve son fondement dans la relation qui existe entre les revenus nets générés, leur valeur future et la valeur de l’immeuble.
+[12] Je suis d’avis que les deux experts ont, en l’espèce, utilisé la bonne méthode d’évaluation pour déterminer la JVM de l’immeuble compte tenu des circonstances. Par ailleurs, je souligne immédiatement que l’analyse et les conclusions de monsieur Ruest ne m’apparaissent pas crédibles pour les motifs suivants :
+i) d’abord, je rappelle que monsieur Ruest a établi dans son rapport (pièce A‑1) la JVM de l’immeuble non pas au 31 mars 1999 mais bien au 1er février 2001. Monsieur Ruest a expliqué que ce fait n’était pas pertinent en l’espèce parce que les conditions du marché en 2001 étaient les mêmes que celles en 1999. Monsieur Ruest, fût‑il un expert, ne pouvait espérer me convaincre de ce fait en faisant une simple déclaration à cet égard. En effet, il aurait été fort intéressant d’apprendre ce sur quoi monsieur Ruest s’appuyait pour faire une telle affirmation;
+ii) l’appelant doit comprendre que dans l’application de la méthode de la parité, plus les attributs du bien à évaluer et du bien similaire sont différents, et plus on s’éloigne du bien ou de la date d’évaluation, plus l’évaluation devient douteuse. En revanche, plus les attributs se ressemblent et plus le bien et le temps se rapprochent, plus il est facile d’estimer la valeur du bien. En l’espèce, je suis d’avis que les attributs des immeubles retenus par monsieur Ruest aux fins d’analyse diffèrent trop des attributs de l’immeuble. En effet, les immeubles 1, 2, 3, 4, 5, 6, 8, 9 et 11 (voir le paragraphe 6), qui comportent quatre logements, huit logements, quatre logements, 11 logements, huit logements, six logements, 10 logements, 13 logements et 12 logements respectivement, ne sont pas, à mon avis, similaires à l’immeuble qui comporte, je le rappelle, 32 logements. Le marché pour ces immeubles n’est pas le même que celui pour l’immeuble. Le nombre d’acheteurs pour des immeubles de 32 logements est plus restreint que celui pour des immeubles de quatre, six et huit logements. De plus, les acheteurs d’immeubles de 32 logements sont habituellement plus avisés et ainsi négocient plus âprement que les acheteurs d’immeubles comportant un petit nombre de logements. Enfin, les immeubles 7, 8, 10 et 11 sont trop éloignés de l’immeuble pour être des immeubles comparables valables. En effet, ces immeubles sont situés dans des villes autres que la ville de Saguenay, où est situé l’immeuble. À mon avis, les immeubles situés dans une ville avoisinante à la ville où est situé l’immeuble peuvent aussi être des immeubles comparables valables pourvu qu’une preuve satisfaisante soit faite des conditions du marché dans chacune des villes. En l’espèce, la preuve de l’appelant à cet égard reposait uniquement sur le témoignage de monsieur Ruest, selon qui les conditions du marché à Chicoutimi étaient les mêmes qu’à Alma et Jonquière. Encore une fois, fût‑il un expert, monsieur Ruest ne pouvait espérer me convaincre de ce fait en faisant une simple déclaration à cet égard. Enfin, les 11 transactions d’immeubles retenues par monsieur Ruest pour son analyse ont toutes eu lieu après le 31 mars 1999 et à des dates éloignées du 31 mars 1999. On peut tenir compte d’une transaction postérieure à la date d’évaluation et même à une date relativement éloignée de la date d’évaluation lorsqu’on utilise la technique de la parité si on peut démontrer de façon satisfaisante dans quelle mesure le marché a évolué entre les deux périodes en question, auquel cas il faut habituellement apporter des rajustements pour tenir compte de l’évolution du marché, si évolution il y a. En l’espèce, la preuve de l’appelant à cet égard reposait uniquement sur le témoignage de monsieur Ruest, selon qui les conditions du marché en 2002, 2004 et même 2005 étaient les mêmes qu’en 1999. Encore une fois, monsieur Ruest, fût‑il un expert, ne pouvait espérer me convaincre de ce fait par une simple déclaration à cet égard. En effet, il aurait été fort intéressant d’apprendre ce sur quoi monsieur Ruest s’appuyait pour faire de telles affirmations.
+[13] Par ailleurs, j’ai retenu les conclusions de monsieur Bergeron sur la JVM de l’immeuble parce que les attributs des immeubles choisis par monsieur Bergeron aux fins d’analyse m’ont paru assez similaires aux attributs de l’immeuble. En effet, toutes les transactions retenues par monsieur Bergeron portaient sur des immeubles de 16 logements et plus. De plus, tous les immeubles choisis par monsieur Bergeron étaient situés dans la même ville que l’immeuble. J’ajouterai que la plupart de ces immeubles étaient situés dans le même quartier que l’immeuble. Enfin, non seulement toutes les transactions retenues par monsieur Bergeron ont eu lieu avant le 31 mars 1999, mais bon nombre d’entre elles ont eu lieu à des dates assez rapprochées du 31 mars 1999. Somme toute, bien que l’analyse de monsieur Bergeron soit imparfaite à plusieurs égards, les conclusions de ce dernier sur la JVM de l’immeuble m’ont paru plus crédibles que les conclusions de monsieur Ruest au même égard.
+[14] Je rappelle que l’appelant a soutenu que l’intimée aurait dû prendre en considération l’état de l’immeuble dans la détermination de sa JVM et ainsi réduire de 200 000 $ la valeur attribuée à l’immeuble par la technique de la parité. Je suis d’avis qu’on doit faire des rajustements pour tenir compte de l’état particulier d’un immeuble lorsqu’on utilise la technique de la parité, mais encore faut‑il présenter une preuve satisfaisante de l’état de l’immeuble et des rajustements à apporter. En l’espèce, la preuve de l’appelant reposait sur son témoignage et le témoignage de monsieur Ruest, qui aurait visité quelques logements de l’immeuble en 1999. Je rappelle que l’appelant a témoigné que l’immeuble était dans un état de grand délabrement au 31 mars 1999, la Banque (qui administrait alors l’immeuble à distance) n’ayant aucunement entretenu ou réparé l’immeuble pendant deux ans. Je rappelle que l’appelant a aussi témoigné que le taux d’inoccupation de l’immeuble au 31 mars 1999 était de 45 % à cause de l’état général de l’immeuble à cette date. Enfin, je note que l’appelant a déclaré que la société 9060‑8027 Québec inc. (contrôlée par son frère Jean‑Eudes) avait dû, à la suite de l’acquisition de l’immeuble, investir environ 200 000 $ dans l’immeuble « pour la retaper puis la remettre louable puis il a changé quasiment tout le set de locataires ». Par ailleurs, monsieur Ruest s’était contenté de dire qu’il avait visité en 1999 quelques logements de l’immeuble lors de la recherche d’un logement pour un proche parent et qu’il avait constaté à l’occasion de cette visite le piètre état de ces logements. L’appelant aurait pu, en l’espèce, me convaincre du délabrement de l’immeuble au 31 mars 1999 et surtout des coûts de remise en état de location de cet immeuble si son frère ou encore un dirigeant de la Banque était venu témoigner de l’état général de l’immeuble et s’il avait produit en preuve des pièces justificatives sérieuses liées aux dépenses de 200 000 $ que son frère aurait faites pour remettre l’immeuble en état de location. L’appelant était en mesure de produire cette preuve. Il ne l’a pas fait. J’en infère que cette preuve lui aurait été défavorable. J’ajouterai que le fait que l’appelant n’ait pas soulevé cet élément pourtant important au stade de l’opposition et dans son avis d’appel n’a qu’ajouté à mes doutes sur la véracité des allégations de l’appelant à cet égard.
+[15] À l’égard de l’argument de l’appelant à l’effet que je devrais retenir les conclusions du rapport d’évaluation préparé par monsieur Ruest compte tenu que ces conclusions auraient été retenues par l’Agence dans le cadre du litige avec monsieur Jean‑Eudes Tremblay, je suis d’avis qu’il n’a aucun poids en l’espèce notamment parce que la preuve n’a pas été faite des circonstances dans lesquelles les conclusions auraient été retenues par l’Agence.
+[16] Somme toute, l’appelant, sur qui reposait le fardeau de la preuve, ne m’a pas convaincu que la JVM de l’immeuble n’était pas de 1 100 000 $ au 31 mars 1999.
+[17] Pour toutes ces raisons, l’appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 9e jour de février 2010.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2010 CCI 79
+Nº DU DOSSIER DE LA COUR : 2007-4950(IT)G
+INTITULÉ DE LA CAUSE : MICHEL TREMBLAY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Chicoutimi (Québec)
+DATE DE L’AUDIENCE : le 9 novembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 9 février 2010
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Éric Le Bel
+Avocat de l'intimée :
+Me Sylvain Ouimet
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Éric Le Bel
+Cabinet : Fradette, Gagnon, Têtu, Le Bel, Potvin
+Chicoutimi, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

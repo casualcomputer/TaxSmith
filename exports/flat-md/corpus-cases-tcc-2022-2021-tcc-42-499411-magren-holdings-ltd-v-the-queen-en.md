@@ -1,0 +1,1079 @@
+---
+title: "Magren Holdings Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/499411/index.do"
+last_modified: "2022-04-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 42"
+citation2: ""
+neutral_citation: "2021 TCC 42"
+decision_date: "2022-04-01"
+language: "en"
+item_id: "499411"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4456
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:36:58.971000+00:00"
+cases_cited_count: 33
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "78b6e683fdd0475413acbcb853bd77538f90ee2fec66722445c3a4471ab01711"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Magren Holdings Ltd. v. The Queen
+
+- Citation: 2021 TCC 42
+- Decision date: 2022-04-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4456, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Magren Holdings Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-04-01
+Neutral citation
+2021 TCC 42
+File numbers
+2017-486(IT)G, 2017-605(IT)G, 2017-606(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2017-486(IT)G;
+2017-605(IT)G;
+2017-606(IT)G
+BETWEEN:
+MAGREN HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2176 INVESTMENTS LTD. (as successor to Grencorp Management Inc.,
+successor to 994047 Alberta Ltd.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+MAGREN HOLDINGS LTD.
+(Successor by amalgamation to 1052785 Alberta Ltd.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of
+James T. Grenon v. Her Majesty the Queen – 2014-3401(IT)G and The RRSP Trust of James T. Grenon (552-53721) by its Trustee CIBC Trust Corporation v. Her Majesty the Queen – 2014-4440(IT)G
+Appeals heard on February 11, 12, 13, 14, 15, 18, 19, 20, 21, 22, 2019 and September 9, 10, 11, 12, 13, 2019, at Winnipeg, Manitoba.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellants:
+Cy M. Fien
+Brandon Barnes Trickett
+Ari M. Hanson
+Aron W. Grusko
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Tanis Halpape
+Christopher Kitchen
+Jeremy Tiger
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the Notices of Reassessment made by the Minister of National Revenue on November 18, 2016 in respect of the 2006 taxation year, pursuant to subsection 184(2) of the Income Tax Act, are hereby dismissed with costs to the Respondent.
+The parties will have 60 days from the date of hereof to provide written submissions regarding costs. Such submissions shall not exceed 15 pages for each party but shall, on consent of the parties, incorporate submissions on costs in the appeals of James T. Grenon; 2014-3401(IT)G and The RRSP Trust of James T. Grenon by its Trustee CIBC Trust Corporation; 2014-4440(IT)G.
+Signed at Ottawa, Canada this 24th day of June 2021.
+“Guy R. Smith”
+Smith J.
+Citation: 2021 TCC 42
+Date: 24062021
+01042022
+Dockets: 2017-486(IT)G;
+2017-605(IT)G;
+2017-606(IT)G
+BETWEEN:
+MAGREN HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2176 INVESTMENTS LTD. (as successor to Grencorp Management Inc.,
+successor to 994047 Alberta Ltd.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+MAGREN HOLDINGS LTD.
+(Successor by amalgamation to 1052785 Alberta Ltd.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Smith J.
+I. OVERVIEW
+[1] The appellants herein (the “Appellants”) were Canadian-controlled private corporations directly or indirectly controlled by one James T. Grenon (“Grenon”). As a result of a series of transactions that occurred on the same day, the Appellants reported capital gains of $226,258,087 and capital losses of $224,762,077 under Part I of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.) (the “ITA”). They then declared a series of dividends of $109,720,500 and elected pursuant to subsection 83(2) that they be deemed to be capital dividends payable from their respective capital dividend accounts. Capitals dividends in that amount were later paid out to Grenon personally.
+[2] The Minister of National Revenue (the “Minister”) reassessed the Appellants to reduce the capital gains and capital losses described above to nil and issued notices of assessment pursuant subsection 185(1) on the basis that the dividends were subject to Part III tax on excess dividends.
+[3] The Minister has taken the position that a series of transactions were undertaken in order to artificially manufacture the capital gains and offsetting capital losses leading to the alleged additions to the capital dividend accounts of the Appellants and the payment of non-taxable capital dividends to their respective shareholders and eventually to Grenon personally.
+[4] The Minister has argued that the steps undertaken to implement the series of transactions were legally ineffective or were a sham and a misrepresentation. In the alternative, the Respondent has relied on the general anti-avoidance rule (“GAAR”) as set out in section 245 of the ITA.
+[5] The appeals herein were heard on common evidence with the appeals of James T. Grenon v. The Queen, 2014-3401(IT)G (the “Grenon Appeal”) and The RRSP Trust of James T. Grenon (552-53721) by its Trustee CIBC Trust Corporation v. The Queen, 2014-4440(IT)G (the “RRSP Trust Appeal”).
+[6] Reasons for Judgment in those appeals were issued in 2021 TCC 30 (the “TCC Decision”) with an indication that reasons for judgment in connection with the Appellants herein would be delivered separately.
+[7] In these Reasons for Judgment, the three corporate appellants will be referred to collectively as the “Appellants” or separately as Magren Holdings Ltd (“Magren”), 1052785 Alberta Ltd. (“105”) and 994047 Alberta ltd. (“994”), being the corporate names of the Appellants when the series of transactions occurred.
+[8] All legislative provisions refer to the ITA. Unless explicitly set out in these Reasons for Judgment, they are set out in the attached Annex A.
+II. THE ASSESSMENTS
+[9] On October 15, 2013, the Minister issued Notices of Reassessment pursuant to Part I of the ITA (the “Part I Reassessments”) denying the capital gains and capital losses and reducing them to nil. These assessments were notifications that no tax was payable. They have not been appealed and are not directly the subject matter of these appeals.
+[10] The Minister then issued Notices of Assessment on January 24, 2014 and February 18, 2014 pursuant to subsection 185(1) of the ITA on the basis that the capital dividends declared by the Appellants were in fact excess dividends subject to Part III tax as described in subsection 184(2) . Notices of Reassessment were issued on November 18, 2016 (the “Part III Reassessments”) to reduce the tax rate resulting from a legislative change. [1]
+[11] The Part III Reassessments are the subject matter of these appeals.
+III. THE ISSUES
+[12] The Court finds that the following issues need to be addressed:
+Whether the Part III Reassessments are statute-barred and therefore invalid and without legal force, as argued by the Appellants, on the basis that the Part I Reassessments were statute-barred;
+Whether the Part III Reassessments are void ab initio, invalid and without legal force, as argued by the Appellants, on the basis that the Minister failed to issue only “one” assessment for each election filed and failed to proceed “with all due dispatch”, as required by subsection 185(1) of Part III;
+Whether the series of transactions that are alleged to have given rise to the subject capital gains and capital losses, were legally effective or were a sham and a misrepresentation;
+Whether the series of transactions that are alleged to have given rise to the subject capital gains and capital losses resulted in additions to the Appellants’ respective capital dividend accounts or whether they were excess dividends subject to Part III tax pursuant to subsection 184(2);
+If the Court concludes that the capital dividends were excess dividends pursuant to subsection 184(2), whether the Appellants are entitled to rely on the ‘protective’ elections filed pursuant to subsection 184(3) to have the excess dividends treated as ordinary taxable dividends;
+Whether the series of transactions are subject to GAAR.
+IV. BACKGROUND FACTS
+[13] Certain background facts that are material to these appeals were considered in the TCC Decision, notably in paragraphs 10 to 99. What follows is a summary of the evidence and relevant conclusions reached by the Court.
+[14] Grenon had accumulated substantial assets in a self-directed RRSP (the “RRSP Trust”) and CIBC Trust Corporation acted as Trustee. The assets held in the RRSP Trust included units of Foremost Industries Income Fund (“FMO”), a publicly traded mutual fund trust established in 2001 of which Grenon was a trustee. The RRSP Trust held 58% of the units and the remaining units were widely-held.
+[15] In 2003, Grenon undertook steps to establish several income funds (the “Income Funds”) relying on the exempt distribution rules of the provinces of Alberta and British Columbia (“BC”). As the promoter and initial trustee of these funds, he purported to issue units of each Income Fund to 171 investors, each of whom were required to acquire a minimum of 100 units at $7.50 per unit for total consideration of $750 per Income Fund. Grenon and legal entities owned or controlled by him also participated and acquired several blocks of units as part of the first distribution.
+[16] Following the closing of the exempt distributions and filing of the required reports with the Alberta and BC securities commissions, Grenon arranged for the RRSP Trust to subscribe for and acquire in excess of 99% of the units of the Income Funds, thus establishing effective control positions, as further explained in the TCC Decision. He continued to act as trustee of the Income Funds or directed who would act in that capacity.
+[17] It is not disputed that Grenon intended from the beginning to structure the Income Funds as qualified investments for RRSP purposes. This was his stated objective and one of the key issues considered in the TCC Decision was whether they met the definition of a “mutual fund trust” as defined in the ITA and Regulations. Grenon and CIBC Trust took the position that the Income Funds were qualified investments for RRSP purposes. The Minister did not agree.
+[18] The Court concluded that the steps undertaken by Grenon to establish the Income Funds as a mutual fund trust were legally ineffective such that the RRSP Trust had in fact acquired units of non-qualified investments, as defined in the ITA.
+[19] Further and in the alternative, the Court concluded that Grenon’s attempt to establish the Income Funds as investments that were to be acquired by the RRSP Trust and then actively managed and controlled by him as the annuitant thereof was abusive and contrary to the GAAR in that it contravened the object, spirit and purpose of the RRSP regime and in particular subsection 146(4) which seeks to prohibit an RRSP from carrying on “any business or businesses in the year” that are not at arm’s length from the annuitant. In particular, it provides that all income generated by such investments (including 100% of capital gains) is taxable income that does not accrue in the RRSP on a tax-exempt basis.
+[20] The particular Income Fund that is relevant to these appeals was known as the Tom 2003-4 Income Fund (“TOM”) established on March 14, 2003 by deed of trust pursuant to the laws of Alberta. As with all the other Income Funds, it purported to issue units to 171 investors thus raising capital of approximately $128,250.
+[21] On November 14, 2005, the RRSP Trust subscribed for 3,821,850 units of TOM for total consideration of $152,874,000. In satisfaction thereof, TOM accepted a transfer-in-kind of the FMO units held by the RRSP Trust. As a result, the RRSP Trust owned approximately 99.5% of the units of TOM and the remaining 0.5% were held by the initial 171 investors, as noted above.
+[22] Although the Appellants had initially described this transaction as a “sale” by “the Grenon RRSP (…) of its 11,077,827 units in FMO to [TOM] for $152,874,000 (…)” paid “by the issuance of units in [TOM]”, I accept their closing submissions that this transaction is more accurately described as an exchange or transfer-in-kind that did not increase the value of the RRSP Trust.
+[23] I find that there was no evidence of an actual sale or similar transaction and as far as Grenon was concerned, the units of TOM (and indeed the units of all the other Income Funds in which the RRSP Trust had acquired units) were part of his RRSP Trust holdings. There was no suggestion that by acquiring units in TOM or by transferring the units of FMO, Grenon had effected a withdrawal from the RRSP Trust.
+[24] The Minister has acknowledged that the units of FMO, as a publicly traded mutual fund trust, were a qualified investment as defined in the ITA but has taken the position that the units of TOM issued to the RRSP Trust in exchange for the FMO units were not a qualified investment because they failed to meet the definition of a “mutual fund trust”. This is consistent with the conclusion reached in the TCC Decision that as a result of the exchange transaction described above, the RRSP Trust had in fact acquired a non-qualified investment having a fair market value of $152,874,000. However, as noted above, even as a non-qualified investment, the units of FMO transferred to TOM had not been withdrawn from the RRSP Trust. It was clear from Grenon’s testimony that he understood that a withdrawal from his RRSP would have been a taxable event.
+[25] In any event, it is not disputed that following the exchange transaction, TOM held 11,077,827 units of FMO representing approximately a 58% interest and the public unitholders continued to hold 7,838,612 units representing a 42% interest.
+[26] FMO did not carry on any business activities and the exchange transaction described above did not have the effect of modifying its structure or its underlying assets. It held the units of Foremost Ventures Trust (“FVT”).
+[27] As described by the Appellants, FVT “directly or indirectly (…) invested in partnerships from which it earned income” and these partnerships “manufactured, sold and serviced heavy all-terrain vehicles, drilling equipment and other products used in mineral exploration, water well drilling, industrial construction, transportation and the energy and environmental industries”. It is not disputed that FVT was a unit trust within the meaning of subsection 108(2) of the ITA.
+[28] FVT owned 99.9% of the units in Foremost Universal Limited Partnership (“FULP”), a limited partnership under the laws of Alberta that was one of its operating partnerships. FVT and FMO also directly or indirectly owned another limited partnership known as Foremost Industries Limited Partnership (“FILP”).
+V. THE RELEVANT TRANSACTIONS
+[29] The Court did not have the benefit of an agreed statement of facts but considered the testimony of Grenon as well as the documentary evidence. Bruce MacLennan also testified but indicated that although he had participated in various capacities in the FMO reorganization, he had generally relied on Grenon. None of the other fact witnesses described in the TCC Decision were questioned on the FMO reorganization.
+[30] The Court also considered the expert evidence of Alan B. Martyszenko but for reasons set out in Annex B that are incorporated into these Reasons for Judgement, I find that his testimony and the Report should be rejected on the basis that it was neither relevant nor necessary. Alternatively, I find that it should be given little or no weight.
+[31] The description of the series of transaction described herein as the FMO reorganization is drawn primarily from the Appellant’s testimony and the description set out in the Notices of Appeal. The Respondent’s version and assumption of facts relied upon will be reviewed below.
+(1) FMO Reorganization According to the Appellants
+[32] Following the transfer of the FMO units from the RRSP Trust to TOM, Grenon undertook a series of transactions that would lead to the establishment of a new publicly traded mutual fund trust to be known as Foremost Industries Income Fund (“FIF”). It would acquire the assets and assume the liabilities of the underlying operating partnerships. FMO would then cease operations and be wound-up.
+[33] It was intended that the new structure would essentially replicate FMO and that all existing unitholders would simply exchange units on a one-for-one basis. FVT would be replaced by a new venture trust to be known as Foremost Commercial Trust (“FCT”). The operating partnership known as FILP would be replaced by Foremost Industries LP (“New FILP”) and FULP would be replaced by Foremost Universal LP (“New FULP”). The following table describes the relevant entities:
+Existing entities (FMO)
+New Structure (FIF)
+FMO
+FIF
+FVT
+FCT
+FULP
+New FULP
+FILP
+New FILP
+[34] The steps required to implement the reorganization were set out in a Notice of Special Meeting to Unitholders (the “Special Meeting”) signed on November 29, 2005 by Grenon as trustee of FMO with a proposed meeting of December 28, 2005. It included an Information Circular and Proxy Statement (the “Information Circular”) and Reorganization Agreement (the “Reorganization Agreement”). A subsequent reorganization agreement was signed on December 28, 2005 (the “Reorganization Amendment Agreement”).
+[35] A summary of the proposed transactions explained that “[t]he purpose” was “to effect a reorganization and restructuring of the Fund in a manner that provides equitable treatment among the Unitholders and maintains the business and goodwill of the Fund”. The objectives were listed as being i) “to simplify, somewhat, the organizational and governance structure of the fund”; ii) to “increase the cost for tax purposes of business assets (…)”; and iii) to increase the trading liquidity of the new units “to attract a wider retail investor base beyond the current concentration in tax deferred plans” also described as “exempt plans”.
+[36] Unitholders were required to choose between either “Option 1” and “Option 2”. Option 1 was the default selection but it also applied automatically for all units held in exempt plans. It was described as the “First Stage Disposition” whereby units in FMO would be exchanged for units of the new fund on a “one-for-one basis”. Option 2 was described as “the Second Stage Disposition” whereby new units would be distributed “following a number of steps” again on a one-for-one basis.
+[37] Unitholders who selected Option 1 were advised that this could trigger tax consequences including a potential capital gain or capital loss based on the difference between the adjusted cost base of their units in FMO and the fair market value of the new units of FIF issued in exchange on a one-for-one basis.
+[38] Unitholders who selected Option 2 were advised that they too would receive new units on a one-for-one basis “following the completion of a number of steps.” It was explained that they would “be distributed the assets of [FMO], consisting of all the issued and outstanding [FVT] units, on a pro rata basis” and as a result “will be allocated substantially all of the income of the Fund and all of the income of [FVT], and will be subject to taxation on such amounts”.
+[39] It was further explained that as a result of this, the unitholders who selected Option 2 would, “over the course of the Reorganization”, receive “all of the issued and outstanding trust units of” FVT and, consequently “would be allocated all of the income from FVT, which income [would] be paid in the form of New Units” and that they would be subject to additional taxable income “as compared to Unitholders who have elected to participate in the Reorganization through Option 1”. This recital concluded with an explanation that “it is expected that Unitholders will only elect Option 2 if they have very unusual tax circumstances” and that “due in part to the additional tax liability” those “who elect not to participate in Option 1 above (…) were urged to seek independent tax advice.”
+[40] With the exception of the units held by TOM, all public unitholders of FMO either selected Option 1 or were deemed to have done so as explained above.
+[41] Grenon admitted in cross-examination that at least one unitholder had chosen Option 2 but that he had contacted that individual to explain that this was likely not a good financial decision since he would have to report additional income. The unitholder in question eventually agreed to select Option 1.
+[42] I note at this point that Grenon’s testimony on this issue was not entirely convincing. Despite his repeated assertions that all unitholders were at liberty to choose Option 2, the Court finds that he actually wanted them to choose Option 1. I also find that the language of the Information Circular was crafted to ensure that most if not all unitholders would choose Option 1.
+[43] Grenon was also cross-examined on the objectives of the reorganization. When asked to confirm that it was primarily undertaken to trigger dispositions that would ultimately result in additions to the capital dividend accounts of the Appellants, Grenon simply responded “that there were other reasons”. On this issue, I find that Grenon was evasive and not entirely forthcoming on the true purpose or objective of the reorganization.
+(2) Transfer of FMO units (58%) from TOM to the Appellants
+[44] On December 23, 2005, that is prior to the Special Meeting, the Appellants collectively acquired all the units of FMO held by TOM for an aggregate purchase price of $160,628,000 (calculated at $14.50 per unit) and issued demand promissory notes personally guaranteed by Grenon in satisfaction of the purchase price, as follows:
+Corporation
+# of Units Acquired
+Promissory Note
+105
+3,323,348
+$48,188,000
+Magren
+2,769,457
+$40,157,000
+994
+4,985,022
+$72,283,000
+Total
+11,077,827
+$160,628,000
+(3) Transactions that took place on December 28, 2005
+[45] A number of transactions were to occur on December 28, 2005 as described in paragraphs 2.1(a) to (p) of Appendix A of the Reorganization Agreement. These steps were scheduled to occur every 15 minutes commencing at 11:00 a.m. and ending at 5:00 p.m.
+[46] The public unitholders transferred their units of FMO to FULP and received new units of FIF in exchange. The Appellants then collectively purchased the FMO units for an aggregate purchase price of $114,718,000 (calculated at $14.635 per unit) and issued demand promissory notes to TOM, again guaranteed by Grenon, on account of the purchase price, as follows:
+Corporation
+Units purchased from FULP
+Promissory Note
+Total FMO units held
+105
+2,351,584
+$34,415,400
+5,674,932
+Magren
+1,959,653
+$28,679,500
+4,729,110
+994
+3,527,375
+$51,623,100
+8,512,397
+Totals
+7,838,612
+$114,718,000
+18,916,439
+[47] At this point, the Appellants collectively held 100% of the units of FMO.
+[48] FMO then transferred all the units of FVT to TOM for $232,313,070. In satisfaction of the purchase price, TOM transferred the demand promissory notes that it had received from the Appellants having a face value of $160,628,000 and issued a demand promissory note of $71,685,070 for the balance.
+[49] The Appellants claim that the disposition of the FVT units resulted in a capital gain of $215,239,000 for FMO and that, for the 2005 taxation year, FMO had realized other capital gains such that it reported total capital gains of $237,071,000.
+[50] FMO allocated capital gains of $226,258,087 to the Appellants, as its unitholders, and made additional distributions of $50,583,923, as follows:
+Recipient
+Allocation of capital gains
+Additional distributions
+Total Distribution
+105
+$67,877,426
+$15,175,175
+$83,052,600
+Magren
+$56,564,522
+$12,645,987
+$69,210,509
+994
+$101,816,139
+$22,762,761
+$124,578,900
+Total
+$226,258,087
+$50,583,923
+$276,842,009
+[51] The Appellants then added one-half of the capital gains allocated to them by FMO to their respective capital dividend accounts as follows:
+Recipient unit holders
+Allocation of capital gains
+Addition to capital dividend account
+105
+$67,877,426
+$33,938,712
+Magren
+$56,564,522
+$28,282,261
+994
+$101,816,139
+$50,908,069
+Total
+$226,258,087
+$113,129,042
+[52] The Appellants argue that the adjusted cost base of the FMO units was the total purchase price of the units acquired from TOM and FULP (as acquired from the public unitholders), less the amount of the excess distributions received, all of which was calculated as follows:
+ACB of FMO Units Held
+ACB of FMO Units Held
+ACB of FMO Units Held
+ACB of FMO Units Held
+ACB of FMO Units Held
+105
+$48,188,000
+$34,415,400
+($15,175,175)
+$67,428,225
+Magren
+$40,157,000
+$28,679,500
+($12,645,988)
+$56,190,512
+994
+$72,283,000
+$51,623,100
+($22,762,726)
+$101,143,338
+Total
+$160,628,000
+$114,718,000
+($50,583,923)
+$224,762,077
+[53] The Appellants argue that since FMO derived its value from FVT and the underlying operating partnerships and since FVT had been transferred to TOM, the units of FMO had a nominal value. The next step involved the repurchase by FMO of those units for cancellation resulting in a capital loss for the Appellants.
+[54] The FMO units held by 105 were repurchased for an aggregate purchase price of $6 resulting in a capital loss of $67,428,410. The units held by Magren were repurchased for an aggregate purchase price of $5 resulting in a capital loss of $56,190,330 and the units held by 994 were repurchased for an aggregate purchase price of $9 resulting in a capital loss of $101,142,608. The Appellants collectively retained about 100 units having only a nominal value.
+[55] The Appellants indicate that the following table summarizes the capital gains allocated to them by FMO, the additions made to their respective capital dividend accounts and the capital losses arising from the repurchase of the FMO units:
+Appellants
+Capital gain allocated by FMO
+Addition to capital dividend account
+Capital loss on repurchase of FMO units
+105
+$67,877,426
+$33,938,712
+($67,428,410)
+Magren
+$56,564,522
+$28,282,261
+($56,190,330)
+994
+$101,816,139
+$50,908,069
+($101,142,608)
+Total
+$226,258,087
+$113,129,042
+($224,761,348)
+[56] These transactions were reported by the Appellants in their respective T2 Returns under Part I of the ITA for the taxation years ending on December 31, 2005 for 994 and June 15, 2006 for 105 and Magren.
+[57] Notices of Assessment were issued in due course on the following dates:
+Appellants
+Date of Notice of Assessment
+105
+December 8, 2006
+Magren
+December 18, 2006
+994
+August 8, 2006
+(4) Transactions that took place after December 28, 2005
+[58] What follows is the Appellants’ description of the payment of the capital dividends made by the Appellants to the holders of its common or preferred shares, as summarized in the table below. On January 27, 2006, 994 declared and paid two separate dividends and elected pursuant to subsection 83(2) of the ITA that they be treated as capital dividends payable from its capital dividend account. These dividends were in the amounts of $44,000,000 and $3,500,000 for a total of $47,500,000.
+[59] On June 14, 2006, Magren declared and paid three separate dividends and elected pursuant to subsection 83(2) of the ITA that they be paid as capital dividends from its capital dividend account. These dividends were in the amounts of $25,453,000, $1,414,500 and $1,414,500 for a total of $28,282,000.
+[60] On June 14, 2006, 105 declared and paid three separate dividends and elected pursuant to subsection 83(2) of the ITA that they be paid as capital dividends from its capital dividend account. These dividends were in the amounts of $30,544,500, $1,697,000 and $1,697,000 for a total of $33,938,500.
+Payee
+Date of declaration
+Total dividends from CDA
+994
+January 27, 2006
+$47,500,000
+Magren
+June 14, 2006
+$28,282,000
+105
+June 14, 2006
+$33,938,500
+Total
+$109,720,500
+(5) The Respondent’s Assumptions
+[61] The Minister’s assumptions are set out in subparagraphs 15(a) to (mmm) of the Fresh as Amended Replies dated November 18, 2018.
+[62] A document referred to as “New Appendix B” was attached to the amended Replies. It was intended to describe the various steps undertaken in the FMO reorganization. The slides numbered from 1 to 20 are attached hereto as Annex C. In cross-examination, Grenon agreed that these slides (except slides 18 and 19) described the various steps undertaken but in greater detail. It is understood that the slides contain allegations of mixed law and fact.
+[63] The Minister has assumed that Magren and 105 were wholly-owned by 217675 Oil & Gas Ltd. (“217”) and that 994 was owned by Grencorp Management Inc. (“GMI”). 217 and GMI were wholly-owned or controlled by Grenon.
+[64] The Minister has assumed broadly that the FMO reorganization involved an exchange on a one-for-one basis for new units of FIF that was intended to have the same underlying assets and undertakings and that the primary purpose of the series of transactions was to trigger the capital gains that would be allocated to the Appellants and lead to the payment of capital dividends, as described above.
+[65] The Respondent has assumed broadly that the steps undertaken after the transfer of the FMO units from the RRSP Trust to TOM, were legally ineffective or were a sham and a misrepresentation. In particular, the Minister has assumed (as confirmed in the TCC Decision) that the units of TOM issued to the RRSP Trust in exchange for the units of FMO were not a qualified investment for RRSP purposes. The Minister has also assumed that this transfer involved a transfer of legal title but that there was no change of beneficial ownership since the FMO units remained beneficially owned by the RRSP Trust and thus by Grenon as the annuitant thereof.
+[66] Moreover, the Minister has assumed that the transfer of the FMO units from TOM to the Appellants was a sham transaction intended to trigger the capital gains and payment of the capital dividends and that the various demand promissory notes issued by the Appellants and personally guaranteed by Grenon, including the notes for $160,628,000 and $114,718,000, were “fictitious” since it was never intended that they be used other than “for set-off purposes”.
+[67] Similarly, the Minister has assumed that there was no transfer of beneficial ownership when FMO purported to transfer the units of FVT to TOM since “immediately before and immediately after the sale of FVT, the property remained beneficially owned by Grenon” and as a result there was no disposition and no resulting capital gain that could be allocated to the Appellants. The Minister has also assumed that these transactions were a sham and a misrepresentation.
+[68] The Minister has assumed that FMO engaged the services of a transfer agent and depository known as Computershare Investor Services Inc. (“Computershare”) in connection with the exchange of units. It was assumed that Computershare had no record of a transfer of the FMO units from TOM to the Appellants or from FULP to the Appellants nor of a repurchase of those units for cancellation.
+[69] The Minister has also assumed that when the RRSP Trust transferred legal title of the FMO units to TOM on November 14, 2005, they had a fair market value of $152,873,000 and a carrying value of $34,663,758, as indicated in the TOM Consolidated financial statements for the year ending December 31, 2005, and that, when legal title to those units was transferred to the Appellants on December 23, 2005, they had a fair market value was $160,628,477 with a carrying value of $35,547,407.
+[70] In particular, the Minister has assumed that accounting firm Grant Thornton prepared audited financial statements for TOM for the 2005 calendar year, on the basis that the carrying value of the FMO units was $34,663,758 because there had been no change of beneficial ownership of those units.
+[71] The Minister has assumed that on December 28, 2005, the total value of FMO based on a trading value of $14.635 per unit was $276,842,070 and that this included the value of the operating partnerships, namely $221,474,070 for FILP and $55,368,000 for FULP.
+[72] The Minister has assumed various steps leading to the transfer of the assets of the operating partnerships to the new operating partnerships. As part of this series of transactions, FULP had subscribed for 18,916,438 new units of FIF to mirror the total outstanding units of FMO. FULP acquired the 7,838,612 units of FMO held by the public unitholders and in exchange, transferred new units of FIF, as contemplated in Option 1.
+[73] The Minister has assumed that the Appellants purported to acquire the units of FMO now held by FULP and issued demand promissory notes of $114,718,000 but that, since the underlying assets had already been transferred in the series of transactions noted above, these units no longer had any value since FMO derived its value from the lower-tier operating partnerships that had been transferred to FIF.
+[74] The Minister has assumed that the purpose of these transactions was to have the Appellants acquire “additional FMO units with artificially created cost bases so as to facilitate the creation of the claimed capital gain arising from the sale” of FVT to TOM followed by “capital losses realized on the subsequent redemption by FMO of its units” and finally the “addition to” their respective capital dividend accounts.
+[75] The Minister has also assumed that FULP and FILP realized other income in the approximate amount of $137 million in 2005 and that this amount was allocated to FVT and finally allocated to TOM and distributed to its unitholders on a pro-rata basis, including the RRSP Trust.
+[76] The Minister has assumed that once the Appellants had acquired legal title to 100% of the units of FMO, FMO purported to sell the units of FVT to TOM for $232,313,070 and reported a capital gain of $226,258,086 for its 2005 taxation year. In consideration of this, TOM issued a promissory note of $71,685,000 and transferred the promissory notes totalling $160,628,477 that it had earlier received from the Appellants when they purported to acquire the FMO units on December 23, 2005.
+[77] The Minister has assumed that FMO then purported to repurchase all of its units for cancellation (except for 100 units) and that, since FMO had already distributed all of its underlying assets, this resulted in capital losses of $224,761,348 for the Appellants’ that was used to offset the capital gain allocated to them by FMO following the disposition of the FVT to TOM, as described above.
+[78] The Minister has assumed that FMO purported to allocate the capital gains to the Appellants as described above. The amount allocated to the Appellants was satisfied by the distribution of 3,042,638 units of FIF (having a value per unit of $14.635) and the promissory notes of $71,685,000 and $160,628,477 noted above. These promissory notes were then cancelled.
+[79] The Minister has assumed that the Amended Reorganization Agreement signed on December 28, 2005 was made to amend the steps identified as Article 2.1, paragraphs (a) to (p) of Appendix A of the Reorganization Agreement, purportedly to add a new step (q), but that this additional step was not disclosed to the public unitholders. It involved the legal right of certain unspecified unitholders to acquire the legal obligation of FMO to sell its remaining assets in FVT. The Minister has assumed that the unspecified unitholders were the Appellants.
+[80] The Minister has assumed that at the conclusion of the FMO reorganization, The Appellants and TOM retained an approximate 58% interest in aggregate of FIF.
+[81] The Minister has assumed that the Appellants then declared and paid dividends as described by the Appellants and filed elections pursuant to subsection 83(2).
+[82] The Minister has assumed that on January 30, 2006, GMI declared and paid two capital dividends to Grenon totalling $110,558,119 and that on October 12, 2012 217 declared and paid two capital dividends to Grenon totalling $62,220,500.
+[83] The Minister has assumed that the Appellants collectively misrepresented the true nature of the series of transactions comprising the FMO reorganization to the public unitholders and to the Minister and that, what was described as a reorganization undertaken for business purposes, was designed to create the capital dividend account balances for the benefit of the Appellants and ultimately for the benefit of Grenon by the payment of capital dividends on a tax free basis.
+VI. PRELIMINARY ISSUES
+A. Are the Part III Reassessments statute-barred?
+[84] It is not disputed that the Part I Reassessments that denied the subject capital gains and capital losses were in fact notifications that no tax was payable, also known as “nil assessments”, as noted at the outset of these Reasons for Judgment.
+[85] The Appellants argue that the Part I Reassessments that purported to reduce the subject capital gains and capital losses to nil were statute-barred because they were issued outside the normal reassessment period, being more than three years after the initial assessments made in 2006. The Appellants argue that the Minister cannot challenge the validity of transactions reported under Part I because they are statute-barred and the requirements of subsection 152(4) have not been met in that “the Appellants have not signed a waiver and there has been no misrepresentation attributable to neglect, carelessness, wilful default or fraud”.
+[86] The Appellants argue that the Part III Reassessments that are the subject matter of these appeals are based solely on the Minister’s challenge of the transactions giving rise to the subject capital gains and capital losses reported for Part I purposes in a taxation year that is statute-barred such that the Reassessments are also “statute-barred and (…) therefore invalid and without legal force”.
+Position of the Respondent
+[87] The Respondent argues that Part III imposes a separate tax, requires separate returns and creates separate timing requirements such that its validity cannot be dependent on the Part I Reassessments. It is argued in any event that the issue before the Court is whether the Part III Reassessments are correct in law and in fact (Superior Filter Recycling v. The Queen, 2006 FCA 248 (para 6)) and that the Court does not have the jurisdiction to deal with nil assessments.
+[88] The Respondent adds that in considering the validity of the Part III Reassessments, “it is entirely open to the Court to consider the underlying transactions” even though “the same transactions had tax consequences for the Part I nil Reassessments that are not before the Court.”
+[89] The Respondent concludes by indicating that the Part III Reassessments were issued after a review of the notices of objection filed by the Appellants on March 19, 2014 and the Minister had the authority to respond pursuant to subsection 165(3).
+Analysis and Conclusion
+[90] It is well-established that a taxpayer cannot appeal a nil assessment because no tax is payable. As noted in Bormann v. Canada, 2006 FCA 83, “the jurisprudence is clear that a taxpayer can neither object to nor appeal from a nil assessment” (para. 8). If an amount remains relevant, for example a non-capital loss, the taxpayer may be required to wait “until the year in which that amount is relevant”: Dow Chemical Canada ULC v. The Queen, 2020 TCC 139 (para 68).
+[91] Finally, as noted by the Federal Court of Appeal (Noel, J.A., as he then was) in Canada v. Interior Savings Credit Union, 2007 FCA 151 (“Interior Savings”), “the expression nil assessment does not appear anywhere in the Act” but “when dealing with a situation where a person owes no taxes, the Act authorizes the Minister to issue a notice “that no tax is payable” (subsection 152(4))” (para 16). The Court relied on Okalta Oils Limited v. MNR, 55 DTC 1176 (SCC) (p. 1178) where it was explained that this is so because “an assessment which assesses no tax is not an assessment” and an objection that does not relate to an amount claimed as taxes is “lacking the object giving rise to the right of appeal” (para 17).
+[92] In this instance, it is not disputed that the Appellants have not filed an appeal in connection with the Part I Reassessments. Had they done so, the Court would likely have been required to apply “the nil assessment jurisprudence” and quash the appeals: Canada (Attorney-General) v. Bruner, 2003 FCA 83 (para 3).
+[93] I find that there is no exception for nil assessments that are issued beyond the normal reassessment period because the Court would nonetheless have to conclude that no taxes had been assessed and thus no amount was owed. The Appellants cannot argue that the nil reassessments are statute-barred and then ask the Court to extrapolate from that and conclude that the Part III Reassessments that are the subject matter of these appeals are also statute-barred and “therefore invalid and without legal force.” These arguments must be rejected.
+[94] Moreover, I agree with the Respondent, that nothing prevents the Court, in the context of these appeals, from reviewing the validity of transactions that are alleged to have triggered the subject capital gains and capital losses and that are alleged to form the basis for the additions made to the capital dividend accounts.
+[95] If I am wrong in so concluding, then I find that the Part I Reassessments were not statute-barred and that the Minister was entitled to issue them because, as will be explained in greater detail below, the Appellants had made a misrepresentation that was attributable to neglect, carelessness or wilful default or fraud, as required by subparagraph 152(4)(a)(i) of the ITA.
+B. The Requirements of Subsection 185(1) of Part III
+[96] The Appellants argue that the Part III Reassessments “are invalid and without legal force” and should be vacated because the Minister i) failed to conform to the requirement that each election filed be assessed in respect of a single dividend and not in respect of multiple dividends and ii) failed to assess “with all due dispatch”.
+[97] The concept of a “capital dividend account” (“CDA”) will be reviewed in greater detail below but it will suffice for the analysis of this particular issue to explain that subsection 83(2) provides that a corporation may declare a dividend and elect that it be a capital dividend payable from the corporation’s CDA in which case the dividend is not taxable in the hands of the recipient shareholder. The election must be filed in prescribed form and manner. If the dividend exceeds the CDA balance, the corporation may be subject to Part III tax on the excess.
+[98] Subsection 185(1) sets out the obligation of the Minister upon receipt of an election filed by a corporation and provides as follows:
+185(1)–The Minister shall, with all due dispatch, examine each election made by a corporation in accordance with subsection 83(2), 130.1(4) or 131(1), assess the tax, if any, payable under this Part in respect of the election and send a notice of assessment to the corporation.
+185(1)-Le ministre examine avec diligence chaque choix que fait une société conformément au paragraphe 83(2), 130.1(4) ou 131(1), établit en tenant compte de ce choix l’impôt éventuel payable en vertu de la présente partie et envoie un avis de cotisation à la société.
+(i) Was the Minister Required to Assess Each Separate Election?
+[99] The Appellants argue that they collectively declared and paid eight dividends (as outlined above) and that the Minister issued only one assessment of Part III tax for each of the Appellants “in respect of multiple subsection 83(2) elections”.
+[100] The Appellants argue that subsection 185(1) imposes “a strict assessing requirement” and that the Minister must “issue separate notices of assessment (…) in respect of each of the dividends”. It is argued that “issuing one assessment of Part III tax payable in relation to more than one dividend (…) is not in compliance” with the provision “and is therefor invalid and without legal force”.
+[101] In particular, the Appellants rely on subsection 248(2) that provides that “tax payable by a taxpayer under any part of this Act by or under which provision is made for the assessment of tax means the tax payable by the taxpayer as fixed by the assessment or reassessment” (emphasis by the Appellants).
+[102] It is argued that the Reassessments “do not contain mere errors, defects, or omissions such that they can be saved” by subsection 152(8) or section 166 and that the “error is so fundamental as to invalidate the assessments.”
+[103] It is argued that “there has been a substantial and blatant breach of the assessing requirements” such that they are “void ab initio” and that the Court should conclude that “there are no valid assessments against the Corporate Appellants under Part III of the Tax Act”.
+[104] In Reply submissions, the Appellants argue that subsection 185(1) requires that the Minister “examine each election made by a corporation” (their emphasis) and that subsection 185(2) requires that the Minister mail an assessment “under this Part in respect of the election” (their emphasis). It is argued that since interest runs from the date of mailing of the assessment, “it cannot be intended that the Minister could issue one assessment for two or more elections (…) made on different days.”
+The Position of the Respondent
+[105] The Respondent answers that subsection 185(1) does not require that the Minister issue separate notices of assessment for each election made by a taxpayer and that there is nothing in the text, context or purpose of the provision that would require only one single assessment per election made pursuant to subsection 83(2).
+[106] It is argued that the Minister has “examined and assessed Part III tax payable for each of the elections” filed and as such the Minister’s obligation has been satisfied.
+[107] The Respondent argues that the Appellants have not pointed to any statutory authority or case law that would support the proposition that the Part III Reassessments must relate to only one election made pursuant to subsection 83(2).
+[108] The Respondent points to subsection 152(3) and argues that liability for tax “is not affected by an incorrect or incomplete assessment or by the fact that no assessment has been made” and is not dependent on the number of assessments made and further that subsection 152(8) provides that an assessment “is deemed valid and binding notwithstanding any error or defect or omission in the assessment”.
+[109] The Respondent also relies on section 166 that provides that “an assessment shall not be vacated (…) by reason only of an irregularity, informality, omission or error (…) in the observation of any directory provision of the Act”.
+Analysis and Conclusion
+[110] I agree with the Respondent that the requirement that the Minister “examine each election” and “assess the tax, if any”, as required by subsection 185(1) must be considered in light of subsections 152(3) and 152(8) and section 166.
+[111] In particular, I find that the provision, as it pertains to the obligation to “examine each election” is directory at best (and not mandatory) and that there has been no prejudice to the Appellants: Kyte v. Canada, 1996 CanLII 3939 (FCA).
+[112] This Court is also bound by the decision of the Federal Court of Appeal in Ginsberg v. Canada, 1996 CanLII 4062 (FCA), [1996] 3 FC 334 (“Ginsberg”), where Desjardins J.A. considered the distinction between the words “mandatory” and “directory” (finding that they were not very helpful) and the competing interests involved in “the need to levy revenues for government and public expenditures” and “the need to protect the individual by bringing certainty to his financial affairs at the earliest reasonable possible time”. The Court indicated that those competing interests were settled in favour of the government with the adoption of subsections 152(3), 152(8) and section 166 (para 22).
+[113] In the end, I agree with the Respondent that the language of subsection 185(1) does not preclude or exclude the possibility that the Minister may review more than one election or issue only one assessment dealing with multiple elections – particularly when those elections relate to dividends that have been declared and paid by the corporation in the same taxation year. The Court is unable to conclude that the issuance of one assessment in relation to more than one election is “a substantial and blatant breach of the assessing requirements”, as submitted, or that it should lead to the conclusion that the Part III Reassessments at issue herein are somehow void ab initio, invalid or without legal force, as suggested by the Appellants.
+[114] This argument is without merit and must be rejected.
+(ii) The Requirement to Proceed With “all due dispatch”
+[115] The Appellants indicate that the Minister issued original assessments in 2014, almost eight years after the elections were filed and that they were in error because they applied an incorrect tax rate in calculating the amount assessed. Those assessments were later amended in November 2016, being more than ten years after the Minister received the elections from the Appellants.
+[116] It is argued that the “Minister has a statutory obligation to assess with all due dispatch”; that “in the present case, due dispatch was emphatically not observed” and finally that this “Court has the power to vacate an assessment”. The Appellants argue that the phrase “all due dispatch” cannot be meaningless and must be given effect. The Appellants also argue that the “Minister had the opportunity to explain the delay to the Court and the Appellant at trial, but the Minister did not do so”.
+[117] The Appellants recognize that there is authority rooted in the decision of Ginsberg, supra, “interpreting s. 152(3) and to a lesser extent s. 166 (…) as a basis for concluding that this Court cannot vacate an assessment for a lack of dispatch” and that another decision points to the possibility of interest relief as an alternative remedy: Carter v. The Queen, 2001 FCA 275 (“Carter”). The Appellants nonetheless argue that in this instance the “Court should use its power to vacate or vary the assessment (…) on the grounds of a want of due dispatch”.
+[118] The Appellants rely on McNally v. Minister of National Revenue, 2015 FC 767 (“McNally”) and J. Stollar Construction Ltd. v. MNR, 89 DTC 134 (TCC) (“Stollar”) for the broad proposition that the Minister has a statutory duty to examine a return with all due dispatch “to protect the individual taxpayer by bringing certainty to his financial affairs at the earliest reasonable possible time”.
+[119] The Appellants argue that the Respondent called no evidence to establish that the review of the elections filed proceeded at a pace that was reasonable in the circumstances and called no evidence to justify the delay. They rely on Hillier v Agc., 2001 FCA 197 (“Hillier”), a decision that involved judicial review of a ministerial decision not to cancel or waive interest or penalties. In that context, the Court found that the decision was unreasonable because the officer, in refusing to grant interest-relief, had failed to consider the processing delays. The Court referred to the earlier trial decision of Ginsberg v. The Queen, 94 DTC 1430 (TCC), where Christie, A.C.J. had indicated that “there is an onus on the respondent to establish by evidence pertaining to the manner in which that return was dealt with such that the delay was not unreasonable”. As indicated by the Appellants, a similar view was expressed in the earlier decision of Stollar, supra where the Tax Court had concluded that the “the Minister cannot assess whenever he pleases” and “section 166 does not apply to save the assessment” (paras 9 - 10).
+[120] The Appellants also rely on Imperial Oil Ltd. v. The Queen, 2003 FCA 289 (“Imperial Oil”), where the Court indicated as follows:
+9. (…) The statutory obligation of the Minister is to assess “with all due dispatch.” That is an elastic standard that gives the Minister sufficient discretion to determine that a particular return should not be assessed until after a detailed review. As long as the necessary review proceeds at a pace that is reasonable in the circumstances, the Minister will not be in default of the statutory obligation to assess with all due dispatch.
+[121] The Appellants argue that “a contextual and purposive interpretation of the opening words” of subsections 152(1) and 152(4), suggest that “the Minister may at any time make an assessment (…) provided she has assessed with all due dispatch”.
+[122] It is argued that subsection 185(3) incorporates by reference subsection 152(4) that allows the Minister to assess beyond the normal assessment period only “if the taxpayer has made any misrepresentation attributable to neglect, carelessness or willful default.” However, it is argued that the “clock” starts running only after “the Minister has met her duty to have initially assessed with all due dispatch.” It is argued that “subsection 152(4) cannot be reasonably construed as authorizing the Minister to disregard the statutory duty to initially assess with all due dispatch.”
+[123] The Appellants reminds the Court that “this case deals with an initial assessment” and that is material because “taxpayers have no practical remedy to expedite the assessing stage” noting that where a notice of objection to an assessment has been filed, the taxpayer may file an appeal and proceed directly to the Tax Court.
+[124] The Appellants add that the word “shall” is to be construed as “imperative” and the expression “may” as permissive based on section 11 of the Interpretation Act, R.S.C. 1985, c. I-21, such that the expression “shall, with all due dispatch” must be given “an imperative construction”. It is noted that in Ginsberg, supra, the delay was 18 months and not a decade later and that “after a decade of delay, the risk of prejudice to the taxpayer is greatly different” and might for example, limit the taxpayer’s ability to seek interest relief or to adduce evidence before the Court.
+[125] It is argued that the delay in this instance is “inordinate”. Since subsection 152(4) imposes a time limit during which an assessment may be made, “it cannot be open to the Minister to reassess a taxpayer in perpetuity” and subsection 152(3) and section 166 “cannot be interpreted as conferring a right on the Minister to delay an initial assessment without limit”. It is argued that both subsections 152(1) and 185(1) impose a time limit that may vary dependent on the particular circumstances, “but it is still a deadline”.
+[126] It is argued finally that there must be a sanction for the Minister’s failure to assess with all due dispatch “otherwise the provisions have no meaning”. It is argued finally that “if ever there was a case in which all due dispatch should mean something, it is this one” and “nothing prevents the Court from exercising its authority to vacate or vary the assessments on grounds of a want of due dispatch” and that would be the appropriate remedy in this instance.
+The Position of the Respondent
+[127] The Respondent takes the position that the Part III Reassessments cannot be vacated on the basis that the Minister failed to issue them with “all due dispatch” as set out in subsection 185(1) and that this issue was finally settled in Carter, supra, where a unanimous panel of the Federal Court of Appeal (Rothstein J.A, as he then was) relying on Ginsberg, supra, (described as “Ginsburg”) indicated that:
+[5] The appellant also says that the Minister did not act with due dispatch in assessing him as required by subsection 152(1) of the Income Tax Act. The appellant asks that on this basis his appeal be allowed (…) or at least that interest on outstanding taxes be waived. On this appeal against an assessment, there is no power in the court to vacate an assessment on the grounds that the Minister did not act with due dispatch. See R. v. Ginsburg, 1996 CanLII 4062 (FCA), [1996] 3 F.C. 334 (C.A.). (…)
+[Emphasis by the Respondent]
+[128] The Minister argues that that the Appellants in this instance rely heavily on the earlier decision of Stollar, supra where Bonner J. allowed an appeal on the basis that the Minister had failed to act “with all due dispatch” as required by subsection 152(1) and that the assessment could not be saved by section 166.
+[129] It is argued that Stollar is no longer good law and that Carter, supra and the other appellant cases of Ginsberg, supra, Bolton v. The Queen, (1996) 96 DTC 6413 (Fed CA) (“Bolton”) (para 3) and James v. MNR, 2001 DTC 5074 (Fed CA) (“James”) (para 18), where there was a ten year delay, have settled the law that the remedy for the alleged failure to assess with “all due dispatch” is not to vacate the assessment.
+[130] The Respondent argues that six months after the James decision, the FCA revisited the issue in Hillier, supra, where it had expressed support for the view of Bonner J. in the Stollar decision, that the Minister had an obligation to assess a taxpayer within a reasonable amount of time, “but did not go so far as to endorse vacating an assessment for the failure of the Minister to do so.” It is argued that the Carter decision was rendered after the Hillier decision relied upon by the Appellants, and that “the Court was unequivocal that it was without power to vacate an assessment on the basis of failure of the Minister to assess with all due dispatch”.
+[131] It is argued that the issue was more recently reviewed by this Court in Rio Tinto Alcan Inc. v. The Queen, 2017 TCC 67 (“Rio Tinto”) where Justice D’Auray concluded that it could not vacate an assessment where the Minister had allegedly failed to assess with all due dispatch.
+[132] The Respondent indicates that the Appellants could have appealed directly to this Court pursuant to subsection 169(1) after they had filed their Notices of Objection to the initial assessment made in October 2014. The Appellants did not do so.
+[133] The Minister states that the complaint of the Appellants appears to be “that they have no practical remedy to accelerate the audit and assessing process” but “that this is incorrect since they could have availed themselves of the right to seek a mandamus order from the Federal Court to compel the Minister to issue the Part III assessments”. The Appellants “chose not to avail themselves of this remedy”.
+[134] The Respondent notes moreover that in McNally, supra, relied upon by the Appellants, this was precisely what occurred. The Federal Court issued an order compelling the Minister to assess a tax return that had been filed more that two years prior.
+[135] The Respondent argues finally that the words “with all due dispatch” for the purposes of subsection 152(1) of Part I is equally applicable to subsection 185(1) of Part III and that in Ginsberg, supra, the Federal Court of Appeal concluded that this expression was directory rather than mandatory and as such the failure to assess with all due dispatch could not form a basis to vary or vacate an assessment, as recently confirmed by Rio Tinto, supra.
+[136] Further and in the alternative, the Respondent argues that the Appellants made representations that were attributable to neglect, carelessness or wilful default or fraud in filing their tax returns for the 2006 taxation years and in providing the information contained in the capital dividend elections filed in that same year. As a result, the Minister was entitled to assess beyond the normal reassessment period pursuant to subparagraph 152(4)(a)(i).
+Analysis and Conclusion
+[137] I find that the Court is bound by the decisions of the Federal Court of Appeal in Carter, and Ginsberg, supra and that even if the Court was of the view that the assessment process involved an “inordinate” amount of time, as suggested by the Appellants, “there is no power in the court to vacate an assessment on the grounds that the Minister did not act with due dispatch.” Had Parliament intended to give the Court that power, it would have said so in clear terms but it has not done so.
+[138] As noted by the Respondent, the decisions of James and Bolton, supra also support this position. In James, the Court stated that “J. Stollar Construction is the only case in which reassessments were vacated. That is a decision of the Tax Court, and it must be taken as overruled by this Court in Bolton.”
+[139] The relevant case law was recently reviewed by this Court in Rio Tinto, supra where Justice D’Auray referred to subsections 152(3) and 152(8) as well as section 166 as “the saving provisions” before concluding that “section 166 of the ITA provides that an assessment is valid notwithstanding the Minister’s failure to meet one of the requirements of subsection 152(1)” (para 189). This is relevant because the expression “shall, with all due dispatch” also appears in subsection 185(1).
+[140] I find that this is also consistent with the conclusion reached by the Federal Court of Appeal in Imperial Oil, supra indicating that the expression “with all due dispatch” is “an elastic standard that gives the Minister sufficient discretion to determine that a particular return should not be assessed until after a detailed review”. I note that the Appellants have acknowledged that subsections 152(1) and 185(1) impose “a time limit that may be dependent on the particular circumstances”.
+[141] As to the suggestion that the Minister was duty bound to provide the Court and the Appellants with some form of evidence or explanation for the delay, I am not convinced that the Minister had a positive obligation to do so in the context of these appeals although evidence of that nature would likely be relevant to an application for judicial review where the taxpayer seeks interest relief: Carter, supra.
+[142] It is apparent that there are important nuances. I find that a consideration of the expression “shall, with all due dispatch” in the context of an application for judicial review of a decision to waive interest and penalties (as was the case in Hillier) and the importance of evidence to be adduced by the Minister to demonstrate that the assessment process proceeded at a reasonable pace, is not to be mistaken or confused with a request that an assessment be vacated “because” the Minister failed to act “with all due dispatch”. I agree with the Respondent that the latter issue has been resolved by the Federal Court Appeal decisions of Carter and Ginsberg, supra as recently reviewed by this Court in Rio Tinto, supra.
+[143] In any event, the evidence before the Court suggests that the capital dividend elections at issue were filed in 2006 and that the Minister’s audit commenced in earnest in 2007. The Appellants must be taken to have had knowledge of the audit process and, as argued by the Respondent, they were not without a remedy. They could have filed an application (as was done in McNally, infra) seeking a mandamus order to compel the Minister to issue the Part III assessments. This would have provided them with “a practical remedy to expedite the assessing process”. They chose not to avail themselves of that remedy.
+[144] As noted in the TCC Decision, Grenon was a knowledgeable and sophisticated individual who directly or indirectly owned or controlled the Appellants. The Court must conclude that he knowingly declined to pursue an application for a mandamus order. I find that the Appellants cannot now argue, in the context of these appeals, that the Court should vacate the subject reassessments on the basis of delay.
+[145] If I am wrong in so concluding, I find that the Minister was entitled to issue the original Part III Notices of Assessment in 2014 followed by the Part III Reassessments in 2016, that is after the normal assessment period because, as will be explained in greater detail below, the Appellants had made a misrepresentation that is attributable to neglect, carelessness or willful default or fraud in the filing of their returns for the 2006 taxation years including the filing of the capital dividend elections.
+[146] This argument must also be dismissed.
+VII. THE CAPITAL GAINS AND CAPITAL LOSSES
+[147] As noted at the outset of these Reasons for Judgment, the Minister has alleged that the series of transaction that lead to the realization of capital gains and capital losses were legally ineffective as there was no change of beneficial ownership or that they were a sham and a misrepresentation (or alternatively, the Respondent has relied on the GAAR). The Minister has alleged that the object of these transactions was to generate the additions to the Appellants’ capital dividend accounts followed by the declaration of capital dividends that were eventually paid out to Grenon.
+A. Were the Transactions Legally Effective?
+[148] The Appellants assert that the Minister’s position that beneficial ownership did not change because Grenon “directly or indirectly remained in control of the transacting entities” is “entirely without merit.” This is so because all entities “were separate taxpayers and separate legal entities” and the ITA “recognizes them as separate taxpayers and imposes tax accordingly, whether or not entities are subject to common control.” It is argued that it is “uncontroversial” that “corporations are separate taxpayers” as “are trusts (…) by virtue of s.104(2).”
+[149] The Appellants argue that the Respondent’s position “runs contrary to the very fundamentals of corporate law” and that “the notion that a corporation could not dispose of an asset to a wholly-owned subsidiary corporation because both are under common control of the parent’s shareholder is self-evident”. It is argued that in this instance, the Minister “did not assess any of the transacting entities on the basis that the transactions did not occur”.
+[150] In Reply Submissions, the Appellants argue that the Respondent is attempting to justify its position by using “a confusing mix of arguments based on bare trusts and on principles of agency” and that the Crown has already admitted that a corporation has a separate legal personality from its shareholders, that a shareholder has no proprietary interest in the assets of a corporation, that an agency relationship between a corporation and its shareholder is not to be implied absent clear evidence and that, in this instance, the RRSP Trust was a separate legal entity. The Appellants maintain the none of the Appellants acted as agents for Grenon.
+[151] The Appellants dismiss the application of Fourney v. The Queen, 2011 TCC 520 (General Procedure) (“Fourney”), relied upon by the Respondent, as it involved “an unsophisticated taxpayer” who attempted to conceal assets from a “disgruntled” sibling while intending to retain beneficial ownership, leading the trial judge to conclude that the corporations involved held the assets on an agency basis or as bare trustee for the taxpayer. The Appellants take the position that the “exaggerated factual circumstances” of that decision can be distinguished because there is no evidence in this instance that the Appellants were “the bare nominees and agents” of Grenon. The Appellants also argue that the Respondent cannot rely on Prévost Car Inc v. The Queen, 2008 TCC 231 (“Prévost Car”) (aff’d at 2009 FCA 57) because it was concluded that “the relationship between the subject corporation and its shareholders was neither one of agency nor nominee”.
+[152] The Appellants rely on Edgington v. Mulek Estate, 2008 BCCA 505 (“Edgington”) where the court confirmed the basic principle “that a corporation is in law an entity distinct and separate from its shareholders” as held in Salomon v. Salomon & Co. (1896), [1897] A.C. 22(U.K. H.L.) (“Salomon”).
+[153] The Appellants argue that Grenon’s “potential ability to exercise indirect control or direction of 11 million units does not amount to an admission in law or in fact that there was no change in beneficial ownership”. It is argued that the Respondent has not explained “how and when Grenon acquired outright beneficial ownership in the 11 million units” of FMO from the RRSP Trust, nor why “the Minister did not assess the tax consequences that would have followed from extracting the 11 million units from the” RRSP Trust.
+[154] The Appellants argue that the “uncontroverted evidence” was that the accountants of TOM, “whether correctly or otherwise”, had reported that there was no change in beneficial ownership for accounting purposes. This had similarly been reported for SEDI purposes [2] but “for tax purposes that transaction was in fact reported as constituting a change in beneficial ownership as was required.”
+[155] The Appellants conclude that “there is no serious doubt that the beneficial ownership in question did indeed, transfer”.
+Position of the Respondent
+[156] The Respondent explains that paragraph 3(b) of the ITA includes in the income of a taxpayer in a year, taxable capital gains less allowable capital losses and provides specific rules as to its computation in sections 38 to 55 having regard to certain definitions in subsection 248(1) that include the term “disposition”. It is argued that this term “generally excludes transfers of property in instances where no change of beneficial ownership occurred”.
+It is explained further that “if a transaction constitutes a ‘disposition’, section 38 provides that taxable capital gains are 50% of capital gains while allowable capital losses are 50% of capital losses.” The term ‘proceeds of disposition’ and whether they exceed or are less than the ‘adjusted cost base’ of property, is relevant to the computation of capital gains and capital losses.
+[157] The Respondent states that the transfer of the FMO units from TOM to the Appellants and the transfer of FVT to TOM, did not constitute a “disposition” because, as a consequence of these transfers, there was no change in beneficial ownership within the meaning of that term in subsection 248(1).
+[158] The Respondent explains that “transfers of property where legal title is conveyed but no change in beneficial ownership occurs” does not result in a disposition because paragraph (e) of the definition excludes “any transfer of the property as a consequence of which there is no change in the beneficial ownership”.
+[159] It is explained that subparagraphs (e)(i) to (iii) of the definition refer to transfers involving a trust and its beneficiaries and refer to subsection 104(1) for the definition of “trusts” for the purposes of the Act but provides as follows:
+104(1) (…) a trust is deemed not to include an arrangement under which the trust can reasonably be considered to act as agent for the beneficiaries under the trust with respect to all dealings with all of the trust’s property (…)
+104(1) – (…) l’arrangement dans le cadre duquel il est raisonnable de considérer qu’une fiducie agit en qualité de mandataire de l’ensemble de ses bénéficiaires pour ce qui est des opérations portant sur ses biens est réputé ne pas être une fiducie (…)
+[160] The Respondent relies on Fourney, supra, to support the proposition that, as quoted from that decision, transfers to a bare trust “will not be considered dispositions under subsection 248(1) when the trust acts entirely as agent of the beneficiary, holding title with no change in beneficial ownership” (para 23). It is argued that a “bare trustee, which includes a bare trust corporation, is a person who holds property in trust at the absolute disposal and benefit of the beneficiaries and is comparable to an agent: De Mond v. The Queen, 99 DTC 893 (paras 36-37).
+[161] As noted by the Respondent, Hogan J. reviewed the jurisprudence on agency relationships and indicated that “the relationship between principal and agent may emerge by written or oral agreement or implied from the conduct or the situation of the parties” (para 36) and “in the absence of a written agreement (…) the conduct of the parties must be examined for the purposes of determining whether an agency agreement may be implied” relying on Avotus v. The Queen, 2206 TCC 550 (“Avotus”) (para 48). He also indicated that “that corporations can act as agents, and this concept is not repugnant to the rule that corporations have separate legal personality a matter addressed in the oft-cited Salomon case” (para 42).
+[162] The Respondents add that the “test to determine beneficial ownership, is the point in time when a person possesses the three key attributes of ownership, namely, risk, use and possession”: Smedley v. The Queen, 2003 DTC 501 (TCC) Para. 10 (“Smedley”). The Respondent also argues that the “concept of beneficial ownership originates from the law of equity and developed to distinguish the legal owner of property from the person who has the right to truly benefit from the property”. It is argued that the “beneficial owner” is “the one who can ultimately exercise the rights of ownership in the property” relying on Covert v. Nova Scotia (Minister of Finance), [1980] 2 SCR 774, page 784 (“Covert”).
+[163] The Respondent also relies on the Prévost Car, supra, where a Canadian corporate taxpayer was reassessed to deny treaty benefits on dividends it paid to a Dutch holding company interposed between it and the ultimate recipients who resided in another jurisdiction, because the Dutch company was not the beneficial owner of the dividends. Rip, A.C.J. (as he then was) indicated that:
+100. (…) It is the true owner of property who is the beneficial owner of the property. Where an agency or mandate exists or the property is in the name of a nominee, one looks to find on whose behalf the agent or mandatary is acting or for whom the nominee has lent his or her name. When corporate entities are concerned, one does not pierce the corporate veil unless the corporation is a conduit for another person and has absolutely no discretion as to the use or application of funds put through it as conduit, or has agreed to act on someone else's behalf pursuant to that person's instructions without any right to do other than what that person instructs it, for example, a stockbroker who is the registered owner of the shares it holds for clients.(…)
+[164] The Respondent argues finally that a capital gain did not result from the transaction whereby FMO transferred the units of FVT to TOM and a capital loss did not result when FMO repurchased its units for cancellation from the Appellants. It is argued that there was no taxable disposition because Grenon had “retained beneficial ownership of the property transferred throughout.”
+Analysis and Conclusion
+[165] It is not disputed that the 11 million FMO units were initially held in the RRSP Trust, that CIBC Trust was the legal and registered owner of those units as plan administrator and trustee and that Grenon was the beneficial owner as the annuitant.
+[166] As the annuitant of a self-directed RRSP, I find that Grenon could have instructed CIBC Trust to dispose of the FMO units in the open market, subject to issues of volume and liquidity as the units were publicly traded. As a matter of law and contract, he had absolute authority to do so. Grenon also had absolute authority (subject to withholding taxes), to transfer the FMO units to his personal investment account or directly to the Appellants. He did not do so because he wanted to avoid the tax consequences associated with a withdrawal from the RRSP Trust. He was aware of these tax consequences.
+[167] Having established the income funds that Grenon (and CIBC Trust) believed were qualified investments for RRSP purposes (as reviewed above and in the TCC Decision), the RRSP Trust was instructed to subscribe for units of TOM and to transfer the 11 million FMO units in satisfaction of the subscription amount in a transaction that took place on November 14, 2005. The Court has already concluded that this was not an outright sale as initially claimed but merely an exchange or transfer-in-kind. As a result, the Court must conclude that at this point in time, TOM was the legal and registered owner of the FMO units but Grenon remained as beneficial owner because the units were still part of the RRSP Trust. Indeed this would be consistent with the position advanced in the Grenon Appeal and RRSP Trust Appeal, that income or gains generated by the various Income Funds and their underlying businesses were sheltered from tax because they were qualified investments held in the RRSP Trust.
+[168] Moreover, as reviewed in the TCC Decision, when an RRSP acquires an investment that is not a qualified investment or becomes a non-qualified investment at a later point in time because it no longer meets the requirements of the ITA, it nonetheless remains in the RRSP and may be subject to a tax of 1% calculated monthly pursuant to subsection 207.1(1) of Part XI.1, until the non-qualified investment is removed.
+[169] Thus even if the Court concluded in the TCC Decision that the units of TOM taken in exchange for the FMO units were not a qualified investment, it must nonetheless conclude that the FMO units remained as part of the RRSP Trust. In other words, the FMO units had not been withdrawn from the RRSP Trust. This was clear from Grenon’s testimony and is implicitly admitted by the Appellants when it is argued that the Minister did not assess Grenon for the tax consequences “that would have followed from extracting the 11 million units from the” RRSP Trust (My emphasis).
+[170] The Court may also infer that the Minister did not assess Grenon for a withdrawal of the FMO units from the RRSP Trust because it was not reported for tax purposes. As noted by the Supreme Court of Canada in R. v. Jarvis, 2002 SCC 73, our tax system “relies primarily upon taxpayer self-assessment and self-reporting” (para. 49) such that responsibility to report the withdrawal fell squarely on Grenon. It is not disputed that a withdrawal of the FMO units from the RRSP Trust was not reported for tax purposes.
+[171] The Appellants nonetheless argue that TOM transferred the FMO units to the Appellants for the sum of $160,628,000 in exchange for demand promissory notes personally guaranteed by Grenon and that this involved a transfer of legal and beneficial ownership. I note that throughout all this, Grenon continued in his capacity as trustee of TOM and FMO. He also directly or indirectly owned or controlled the Appellants that, it is alleged, acquired legal and beneficial ownership of the units.
+[172] Since there was no evidence of an agency agreement between Grenon and the Appellants, the Court must look to the conduct of the parties to determine if an agency agreement can be implied (Avotus, supra, para 48).
+[173] Since it was intended, as admitted by the Appellants, that the FMO units allegedly acquired from TOM on December 23, 2005 would be repurchased for cancellation on December 28, 2005 resulting in the alleged capital losses, I find as a fact that the Appellants had “absolutely no discretion” (Prévost Car, supra, para 22) as to the disposal of those units. The only role of the Appellants was to hold legal title to the units for a few days. I find that those units were to be held on a bare trust basis only to be disposed of a few days later at a substantial loss. It was understood that the Appellants would not take any other steps. All of these transactions were pre-ordained.
+[174] It does not matter that the Appellants were separate legal entities since it is established that corporations can act as agents. They were directly or indirectly controlled by Grenon, the annuitant of the RRSP Trust and controlling trustee of TOM. The Court must conclude that the Appellants were mere agents or nominees for the RRSP Trust or for Grenon as principal and that it was never intended that they would acquire absolute ownership, including beneficial ownership of the FMO units.
+[175] On the basis of the evidence before the Court, it cannot be said that the Appellants enjoyed “the three key attributes of ownership, namely, risk, use and possession” (Smedley, supra). In Fourney, supra, Hogan J. concluded as follows:
+[35] The resulting trust doctrine should apply to all the properties transferred in this case. All transfers of business assets and interests to the corporation were done gratuitously. There is no evidence to indicate an intention to gift. (…) the conduct of the Appellant and the corporations over the three-year period does not indicate an intention to transfer property to the corporation. Instead, an implied agent-principal relationship is indicated, with the Appellant always maintaining beneficial ownership of the properties and businesses.
+[176] The Appellants have disputed the application of Fourney, supra, in part because of the “exaggerated factual circumstances” and yet in this instance, Grenon undertook a complex series of transactions with corporate entities controlled by him involving assets that had not been withdrawn from the RRSP Trust. As a result of this, I have no difficulty in concluding that Grenon retained beneficial ownership of the FMO units in his capacity as the annuitant of the RRSP Trust whose assets included 95.5% of the units of TOM and that it, in turn, held the FMO units as a result of the exchange transaction noted above. Legal title to the FMO units may have been transferred from TOM to the Appellants, as acknowledged by the Respondent, but beneficial ownership remained with the RRSP Trust.
+[177] I find that this conclusion is consistent with the Appellants’ admission as to the “uncontroverted evidence” that the accountants of TOM had reported that there was no change in beneficial ownership for accounting purposes. This was also reported for SEDI purposes. Moreover, as assumed by the Minister, Computershare, retained by FMO as transfer agent in the context of the FMO reorganization, had no record of a transfer of the FMO units, including the 8 million units allegedly acquired by the Appellants from FULP, or of the repurchase of all the FMO units for cancellation on December 28, 2005.
+[178] If the 11 million FMO units had not been effectively withdrawn and continued to be held by TOM for the RRSP Trust, then the alleged transfer of the FVT units from FMO to TOM resulted in a circuitous transaction within the RRSP Trust that could not have triggered a taxable capital gain in the hands of FMO that could then be allocated to the Appellants. All of these transactions would have been inconsequential for tax purposes as they would have occurred within the RRSP Trust. It is fundamental to the RRSP regime that “no tax is payable (…) by a trust on the taxable income of the trust…” pursuant to subsection 146(4) and all forms of income from qualified investments accrue in the RRSP on a tax-exempt basis. The nature of the income, be it interest, dividends or capital gains, is inconsequential for tax purposes. Dispositions that result in capital losses are also inconsequential as they only reduce the monetary value of the RRSP that can be withdrawn at a later date giving rise to taxable income.
+[179] In the end, I find that the transfer of the FMO units from TOM to the Appellants or the transfer of the FVT units from FMO to TOM did not give rise to a “disposition” for the purposes of the ITA because there was no change in beneficial ownership of the property within the meaning of that term in subsection 248(1).
+[180] To the extent that the Appellants have reported these transactions as giving rise to the subject capital gains and capital losses, I find that they have made a misrepresentation that is attributable to neglect, carelessness or willful default or fraud in the filing of their returns for the 2006 taxation years. It cannot be aid that the Appellants’ filing position was reasonable because no steps had been taken to withdraw the FMO units from the RRSP Trust and thus beneficial ownership remained with Grenon as the annuitant thereof.
+[181] These conclusions are sufficient for the Court to conclude that the subject capital gains and capital losses, as reported by the Appellants, were never actually realized. However, since it is admitted that the FMO units had not actually been withdrawn from the RRSP Trust, I find it is necessary to address the issue of knowledge on the part of Grenon in the context of the sham and window dressing arguments put forth as the Minister’s primary position.
+B. The Application of Sham or Window Dressing
+[182] The Minister has argued that the transactions that are alleged to have given rise to the subject capital gains and capital losses were a sham or window dressing.
+[183] The Appellants argue that the Minister has fundamentally misunderstood the law of sham as she has taken the position “that if a taxpayer takes tax considerations into account in its planning, it results in a sham.” The Appellants argue that this is not the law, relying on Cameco Corporation v. The Queen, 2018 TCC 195 (“Cameco”) where Owen J. concluded that “a tax motivation does not transform the arrangements (…) into a sham” (para. 605).
+[184] The Appellants assert that the Minister’s main reason for challenging the steps undertaken in the FMO reorganization is that it was motivated by tax considerations and not commercial objectives. The Appellants maintain that the “commercial rationale for the transactions (…) was genuine and unsurprising” and that the suggestion that a publicly listed entity “with thousands of unitholders, its own professional advisors and management, would occur primarily to create a capital dividend account” for the Appellants “is clearly implausible on its face”.
+[185] The Appellants refer to Grenon’s testimony and his explanation that “he realized, with his professional advisors, in the course of the transaction that a capital dividend account could be created, and that such a capital dividend account could be useful at a later time.” The Appellants reiterate that the steps depicting the FMO reorganization were set out in the slide deck incorporated into the Fresh as Amended Replies and that it was Grenon’s evidence that slides 1 to 20 (but not slides 18 and 19) accurately depicted what actually occurred.
+[186] The Appellants argue that “a finding of sham means that what has been reported as a particular transaction should be set aside for the ‘real transaction’” but that “in the case at hand, there is no alternate reality to the transactions that were reported.” It is argued that there is no ‘real transaction’ to substitute for the reported transactions, relying on Coastal Capital Savings Credit Union v. The Queen, 200167 FCA 181 (paras 25-26) (“Coastal”).
+[187] The Appellants argue that the Minister cannot apply “the doctrine of sham to only certain parts” of the FMO reorganization “while considering other parts (…) to be valid and effective”, notably the transfer of the FMO units from the RRSP Trust to TOM (McLarty v. The Queen, 2014 TCC 30) since otherwise the assessments of the RRSP Trust pursuant to Part I and Part XI.I of the ITA (in RRSP Trust Appeal) could not possibly be correct.
+[188] The Appellants maintain that the best evidence is that the FMO units acquired from FULP had value, as reflected in the transactions and that Grenon’s evidence “established the value of the units”. The Appellants also argue that the promissory notes issued in the course of the FMO reorganization were not “sham transactions in which the issuing party had no intention of paying the notes” and that “there was no evidence to support this allegation”.
+[189] The Appellants concede that “the assignment” by the Appellants to TOM “of the right to acquire FVT was not documented” but that it was Grenon’s evidence “that the parties to the assignment agreed to it” and that TOM “did in fact purchase FVT.” It is argued that “there is no evidence to the contrary.” The Appellants maintain moreover that there was “no self-serving evidence created” by the Appellants “in regard to the [FMO] reorganization to deceive the Minister about what the real transactions were”.
+[190] In Reply submissions, the Appellants reiterate that “sham” is determined where “parties intended to create different rights and obligations from those appearing from the relevant document” and this is done “intending to give a false impression of those rights and obligations to third parties such as the Minister.” It is argued that “sham” requires that parties to it “have entered into a false document to deceive” and that in this instance, the “Crown has identified no deception of the Minister in her submissions” and “has ignored the law with respect to sham”.
+[191] The Appellants argue that “intending an agreement to take effect according to its terms does not give rise to sham” and a taxpayer “having different purposes for entering into a transactions does not given rise to sham” and finally, “entering into a transaction only to obtain a tax benefit is not a sham”.
+[192] The Appellants rely in particular on Inwest Investments Ltd. v. The Queen, 2015 BCSC 137 (“Inwest”) that, as explained by the Appellants, involved “an astute tax plan” the “goal of which was to avoid the payment of British Columbia [“BC”] corporate tax that would otherwise be payable on the sale of shares” that “had a significant accrued capital gain.”
+[193] In order to achieve this, the “corporation was structured not to have an actual business, permanent establishment, or resident director in [BC].” The taxpayer was eventually reassessed by the Minister, but not until after the expiration of the normal reassessment period, on the basis that it had a permanent establishment in BC during the relevant time and was therefor liable for taxation therein. As summarized by the Appellants, the Court concluded that “a statement of fact on a tax return can be a misrepresentation” that may later be found to be “incorrect” but if it “involves a determination of law or mixed fact and law” it will not be “a misrepresentation if that filing position is reasonable” concluding that “a difference of opinion between the CRA and the taxpayer is not sufficient to amount to a misrepresentation.”
+[194] Accordingly, the Appellants argue that in this instance, their filing positions “were evident on the face of their tax returns” and that “the Crown has failed to present any evidence to establish that these were unreasonable.”
+[195] The Appellants also note that the Minister has not assessed penalties pursuant to subsection 163(2) “being the provision penalizing the making of false statements or omissions in tax returns or other information provided to the Minister” because there is “no example of any paperwork that falsely documents what occurred (…) or anything done that was concealed from the Minister.”
+[196] The Appellants argue that the Minister “does not have the authority to second-guess business decisions legally implemented” or to “advance other alternatives that are more palatable to him”: Central Sprints Ltd. v. The Queen, 2010 TCC 543 (para 34) (“Central Sprints”) and Jolly Farmer products Inc. v. The Queen, 2008 TCC 409 (para 24) (“Joly Farmer”). As such, the Appellants dispute the Respondent’s “proposed alternative transactions” or the suggestion that the FMO reorganization could have been achieved in fewer steps without the involvement of the Appellants. I find that it is not necessary to review all the submissions made on these proposed alternative steps and will only highlight the submissions made on the subject capital gains and the effect of the capital losses on the calculation of the capital dividend account.
+[197] It is argued that the Respondent cannot rely on Triad Gestco Ltd. v. The Queen, 2001 TCC 259 (“Triad Gestco”) because it is “a world away from the way the Tax Act provisions work with respect to mutual fund trusts and their unitholders”. The Appellants explain that “[i]n the present case, the Corporate Appellants acquired units of a mutual fund trust, [FMO], at a high value and therefore had a high cost base. Inside [FMO] was an asset with a “pregnant” capital gain, being the units of FVT. When [FMO] disposed of FVT, realized the capital gain and distributed it, the tax result was exactly as contemplated and intended in the Tax Act”.
+[198] On the issue of the capital losses resulting from the repurchase of the FMO units for cancellation, it is argued that “whether or not a capital loss is realized has nothing to do with the existence of a capital gain, half of which was credited to the capital dividend account” of the Appellants. It is argued that the capital gain would have been added to the respective capital dividend accounts of the Appellants pursuant to paragraph (f) of the definition of “capital dividend account” in subsection 89(1) but that the “capital loss does not offset the credit to the capital dividend account” as this was the law throughout the material period.
+Position of the Respondent
+[199] The Respondent argues that there will be a finding of sham “where the actual legal rights and obligations” arising from a transaction or a series of transactions “differ from those purportedly established in the documentation entered into by the parties to the transaction”. In such instances, it is argued that the “Canadian Courts have applied the common law sham doctrine to recharacterize the legal consequences”: Shell Canada v. Her Majesty the Queen, 99 DTC 5669 (para 39) (“Shell Canada”). The Respondent also relies on the concept of sham as explained in Cameco, supra.
+[200] The Respondent takes the position that the Appellants, Grenon, the RRSP Trust and TOM as well as FMO collectively entered into a series of transactions comprising the FMO reorganization and by so doing, “knowingly misrepresented to the Minister the true nature of the transactions”.
+[201] The Respondent argues that it was represented to the Minister that the FMO reorganization was undertaken “exclusively for business purposes” as described in the “objectives” summarized above, but what was actually undertaken “was a series of pre-ordained transactions designed by Grenon, for his benefit” being “the purported creation of CDAs in respect” of the Appellants “whereby capital dividends in the aggregate amount of $110 million were paid to their parent corporation and in turn to Grenon tax-free.” According to the Respondent “this was accomplished through a series of complex transactional steps (…) that were designed to use approximately 19 million issued and outstanding FMO units to artificially create capital gains and capital losses.”
+[202] The Respondent argues that “Grenon was the driving force behind the FMO Reorganization” and that neither of the other two trustees were knowledgeable “with the transactional steps set out in the Reorganization Agreement or the Amended Reorganization Agreement.”
+[203] The Respondent argues that the various steps undertaken in the FMO reorganization could have been undertaken in as little as five steps and not 16 or 17 steps as contemplated in the agreements noted above. It is argued that the “objectives” of the reorganization as described above, were mere window dressing “designed to give the illusion to the Minister of the business objectives (…) which could have been accomplished in the ordinary course without the FMO Reorganization” and that “the Appellants have misrepresented the steps to attain the stated business objectives when in reality they were undertaken solely to accomplish Grenon’s CDA Tax Plan” which was the creation of the capital dividend account balance with the Appellants.
+[204] The Respondent adds that the FMO unitholders were led to believe they could choose either Option 1 or Option 2 but in reality most units were already held in an exempt plan such that there was no real choice and no evidence was led as to any unitholders who held units outside of an exempt plan. It is argued that Option 2 was designed solely to achieve “Grenon’s CDA Tax Plan” and that, while the public unitholders were told they “would be treated equitably”, the transactions that gave rise to subject capital gains, the allocation thereof to the Appellants and the payment of the capital dividends to Grenon, were not disclosed to them. Nor were the public unitholders informed that the Appellants would participate in the Second Stage Disposition and be entitled to “all of the income” from FVT, an amount that was ultimately assigned to TOM and paid to the RRSP Trust.
+[205] It is argued that “the claimed capital gains and the capital dividends elections were shams and misrepresentations.” The Respondent maintains that the Appellants “were interposed as the sole elector of Option 2 in order for Grenon to realize the benefits of the CDA Tax Plan (…) by the artificial creation of a capital gain and an offsetting paper capital loss as well as the manufacture of a $116 million increase to the CDAs.” The Respondent advances a number of other arguments (that are disputed by the Appellants) including that the units of FVT were not capital property since they were intended for immediate resale to TOM and were “a necessary and pre-ordained step to trigger the capital gain in order to implement the CDA Tax Plan”.
+[206] The Respondent relies in particular on Farragi, supra, where the Tax Court found that the taxpayers had merely manufactured capital gains to increase the capital dividend accounts leading to the payment of tax-free capital dividends. As noted by the Respondent, the Federal Court of Appeal (2008 FCA 398, paras 72-73) confirmed the trial decision, finding that “the transactions giving rise to the purported capital gains and the capital dividend elections were both misrepresentations and shams.” As explained by the Respondent, the Court found that “the shares were not capital property because they were acquired for immediate resale with no intention that they be held for long-term appreciation” and that “property that is pre-ordained as part of a tax plan to be resold immediately after acquisition is not in the nature of capital property but rather had the character of inventory or an adventure in the nature of trade held on income account” and finally that “the tax treatment of the property disposed of whether on capital or income account is determined by its nature in the hands of the person who disposes of the property.”
+[207] The Respondent also relies on Triad Gestco Ltd. v. The Queen, 2012 FCA 258 (“Triad Gestco”) where the Court stated that the “capital gains system is aimed at taxing increases in ‘economic power’ and (…) is generally understood to apply to real gains and real losses.” The Court also quoted a UK House of Lords decision where it was stated that “[t]he capital gains tax was created to operate in the real world, not that of make-believe… it is a tax on gains (or, I might have added, gains less losses), it is not a tax on arithmetical differences” (paras. 41 and 42).
+[208] In that context, the Respondent asserts that Grenon knew that after the reorganization, the FMO units would be worthless and would have no material value. It is argued that Grenon has admitted that the only reason for the transfer of the FMO units from TOM to the Appellants was to generate the capital gains and off-setting capital losses. It is argued that the Appellants did not enjoy a “real” economic gain nor a real economic loss.
+[209] The Respondent argues that unlike Triad Gestco, supra, “where the paper capital losses were created to offset real capital gains, in this case, the artificial capital losses were created to offset equally artificial capital gains.”
+Analysis and Conclusion
+[210] On the one hand, I agree with the Appellants that it is not the role of this Court to second-guess business decisions or to allow the Minister to “advance other alternatives that are more palatable to him”: Central Sprints and Joly Farmer, supra.
+[211] I also find that it is not the role of this Court, in the context of these appeals, to determine whether the various steps in the FMO reorganization were successful and achieved the “business objectives”, as noted above, including the creation of a new mutual fund trust with a simplified structure, an increase of the cost base of the units and their trading liquidity. Those issues are not directly before the Court.
+[212] The Respondent claims that the public unitholders of FMO were misled as to the so-called true objectives of the reorganization and that it was a mere facade or “window dressing” for what has been described as “Grenon’s CDA Tax Plan”. I find that it is not necessary to determine whether the public unitholders were misled or whether the FMO reorganization was fair and “equitable” to them, though the Court may wonder if they truly understood that income of approximately $137 million (compromised of a gain of $105 million from the bump-up of assets and other net business income) would be paid by FVT to TOM and then distributed pro rata to its unitholders including the RRSP Trust. In other words, the Court may rightfully wonder whether the public unitholders who owned 42% of the FMO units truly understood that 100% of the income would be paid to TOM and that 95.5% of that amount would then be allocated to the RRSP Trust of which Grenon was the sole annuitant. It may be that the public unitholders were prepared to accept this as long as the cost base of their units was actually increased with little or no tax consequences. This was promoted as a benefit and quite possibly was accepted as such. As far as the public unitholders were concerned, the FMO units would be exchanged on a one-for-one basis for new units of FIF, there would be no change to existing management or the underlying business operations and the new units would continue to trade on the Toronto Stock Exchange under the same ticker symbol.
+[213] The Appellants have gone to great lengths to convince the Court that the FMO reorganization was genuine, that the business objectives were legitimate and that the involvement of the corporate Appellants was only envisaged at a late stage because of the potential to create the capital dividend accounts. Grenon was examined and cross-examined as to the so-called ‘real’ purpose of the FMO reorganization. I find that it is not necessary to reach a conclusion, in a chicken-and-egg fashion, as to which came first. Grenon has admitted that it occurred to him prior to the issuance of the Information Circular that the underlying gain could be eligible for capital dividend treatment in the hands of a corporate unitholder who would elect Option 2. Whether Grenon conceived of this in medias res, or in the midst of things, as has been suggested, or whether the so-called “CDA Tax Plan” was envisaged and planned a long time before the actual reorganization is not relevant to these appeals.
+[214] The Court finds that the transfer of the FMO units from the RRSP Trust to TOM was undertaken for the sole purpose of implementing the series of transactions that would lead to the creation of the subject capital gains and capital losses and the payment of the alleged capital dividends. As described in the TCC Decision, the acquisition by the RRSP Trust of units in all the other Income Funds was for the purpose of pursuing business endeavours that would be managed directly or indirectly by Grenon and 99% or so of the profits would flow back to the RRSP Trust on a tax-exempt basis. Since 58% of the income from FMO was already being generated on a tax-exempt basis in the RRSP Trust, the Court must conclude that Grenon took steps to transfer the FMO units from the RRSP Trust to TOM for the sole purpose of implementing the secondary or ad hoc objective of pursing the “CDA Tax Plan”.
+[215] Grenon has admitted that the FMO units had not been withdrawn from the RRSP Trust even after they had been transferred to TOM. This is consistent with his position that the acquisition of units in the various Income Funds did not trigger tax consequences because they were all qualified investments. As a result, Grenon did not report the transfer of the FMO units from the RRSP Trust to TOM as a withdrawal in his personal income tax return for the 2005 taxation year. Had he done so, the income inclusion would have been equal to the fair market value of the units on November 14, 2005, being the sum of $152,874,000 or alternatively, the sum of $160,628,000, being the fair market value of the FMO units when they were allegedly transferred to the Appellants on December 23, 2005.
+[216] The Minister has assumed that the carrying value of the FMO units was approximately $34,663,758 on November 14, 2005 and approximately $35,547,407 on December 23, 2005. This suggests that the FMO units had an accrued gain of approximately $125,080,593 on December 23, 2005 ($160,628,000 - $35,547,407 = $125,080,593).
+[217] The carrying value (a term equivalent in accounting terminology to ‘book value’) of the FMO units, was confirmed in the audited financial statements of TOM prepared by Grant Thornton for the 2005 taxation year. The Appellants have not challenged these figures or addressed this issue.
+[218] In fact, Grenon admitted in his testimony that he realized that a capital gain could be triggered if FMO disposed of the FVT units. In the context of these appeals, the Appellants have argued that “inside” FMO “was an asset with a ‘pregnant’ capital gain, being the units of FVT” and when FMO “disposed of FVT” it “realized the capital gain and distributed it.”
+[219] This confirms that the sole purpose of the transactions involving the transfer of the FMO units from the RRSP Trust to TOM on November 14, 2005 and from TOM to the Appellants on December 23, 2005, was to extract the gain of $125,080,593 that had accrued in the RRSP Trust.
+[220] As argued by the Appellants, quoting from Cameco, supra (para 605) “a tax motivation does not transform the arrangements (…) into a sham”. However, in this instance Grenon was motivated by a desire to “extract” a gain that had accrued in the RRSP Trust. I find that the various transactions involving the Appellants were undertaken to create an illusion that this had occurred despite the admission that the FMO units had not been withdrawn from the RRSP Trust.
+[221] In the TCC Decision, I reviewed the notions of sham (paras 364 to 373) and window dressing (paras 390 to 393). In the context of these appeals, I repeat and rely on that analysis and find that the transactions that purported to transfer the FMO units from TOM to the Appellants were a sham (or mere window dressing) and that it involved an element of deceit in that Grenon, and by extension the Appellants controlled by him, entered into these transactions to give the appearance to the outside world that they had acquired certain rights and obligations in connection with the FMO units which were different from what he or they knew them to be. The element of deceit is apparent from the admission that Grenon, and by extension the Appellants, knew or must be taken to have known that the FMO units had not been withdrawn and that TOM continued to hold beneficial ownership of those units for the benefit of the RRSP Trust and ultimately for the benefit of Grenon, as the annuitant thereof.
+[222] If the transfer of the FMO units from TOM to the Appellants was a sham and a misrepresentation, then it follows that the transaction by which FMO purported to accept an assignment from the Appellants of the right to dispose of the FVT units was also a sham and a misrepresentation because the Appellants had not actually acquired beneficial ownership of the FMO units.
+[223] Moreover the transaction by which FMO purported to transfer FVT to TOM, thus triggering the alleged capital gain, was also a sham and a misrepresentation because the units of FMO continued to be held in the RRSP Trust. This was a circuitous transaction within the RRSP Trust. It cannot be said that this transaction triggered ‘real’ capital gains. Similarly, it cannot be said that the alleged transaction by which FMO repurchased its units for cancellation resulted in ‘real’ capital losses. These were mere paper transactions as described in Farragi, supra, allegedly supported by demand promissory notes that the Appellants would never be called upon to honour and that were issued and cancelled on December 28, 2005.
+[224] I agree with the Respondent, relying on Triad Gestco, supra, “that the Appellants did not enjoy a ‘real’ economic gain nor a real economic loss”.
+[225] As noted at paragraph 382 of the TCC Decision, “[t]he notion of sham requires that there be “a façade of reality quite different from the disguised reality” or “a transaction conducted with an element of deceit so as to create an illusion” relying on Stubart Investments Ltd. v. the Queen, [1984] 1 SCR 536 (“Stubart”).
+[226] In this instance, I am satisfied that Grenon, and by extension the Appellants, knew at all times that the FMO units had not been withdrawn from the RRSP Trust. The transfer of those units to TOM was undertaken to create an illusion that they had been withdrawn from the RRSP when in reality they had not. The position adopted by Grenon was duplicitous and misleading. As a result, I find that the transactions that followed and that purported to trigger the subject capital gains and offsetting capital losses were undertaken “with an element of deceit so as to create an illusion”. Those transactions were a sham and a misrepresentation and should be should be disregarded.
+[227] Since the Court has concluded that the transactions giving rise to the subject capital gains and capital losses were a sham and a misrepresentation, it follows that FMO could not allocate the capital gains of $226,258,087 to the Appellants leading to the additions to their respective capital dividend accounts.
+VIII. CALCULATION OF THE CAPITAL DIVIDEND ACCOUNT (“CDA”)
+[228] Since the Court has concluded that the series of transactions did not result in the subject capital gains, it follows that there would be no addition to the capital dividend accounts. However, the Appellants have argued that if the Minister was correct in concluding that the repurchase of the FMO units for cancelation did not give rise to a capital loss, that would not change the calculation of the capital dividend account since the loss would not have the effect of reducing the capital gain that was allocated by FMO to the Appellants. This conclusion should be addressed.
+[229] In Gladwin Realty Corporation v. The Queen, 2019 TCC 62 (“Gladwin”), the taxpayer had realized a taxable capital gain from the sale of a commercial real estate property and sought “to distribute the full amount to [shareholders] as a tax-free capital dividend of the capital gain realized” (para 3). Through a series of transactions, the amount of the capital gain was essentially doubled so that the actual amount of the taxable capital gain was added to the capital dividend account and paid out to shareholders.
+[230] Hogan J. dismissed the appeal relying on GAAR. I note that the transactions at issue in Gladwin occurred in 2008 and that the applicable CDA regime was the same for the taxation years at issue in this appeal. In any event, the trial decision was affirmed by the Federal Court of Appeal (2020 FCA 142) and Noel C.J. indicated that:
+[56] A CDA is a notional account maintained by private corporations to keep track of certain types of tax-free surpluses accumulated over time (Reasons, para. 39). As per the definition found at subsection 89(1), the balance of the CDA is determined at any particular time by adding, inter alia, (i) the tax-free portion of capital gains, (ii) the amount of tax-free capital dividends received by the corporation from other corporations and (iii) the proceeds of certain life insurance policies and subtracting, inter alia, (iv) the non-deductible portion of capital losses and (v) capital dividend distributions made before the particular time (Reasons, para. 39).
+[My emphasis]
+[231] Paragraph 56 above suggests that the “the balance of the CDA (…) at any particular time” is determined by adding the “tax-free surpluses accumulated over time (...) and subtracting (…) the non-deductible portion of capital losses and” any “capital dividend distribution made before the particular time”. This confirms paragraph 39 of the trial decision. I find that this is consistent with the use of the words “the total of” appearing at the commencement of the definition, followed by the items or components defined in paragraphs (a) to (g).
+[232] In this instance, the subject capital gains and capital losses are alleged to have been realized on December 28, 2005. Based on a textual, contextual and purposive analysis of the definition of a CDA as explained above, I find that there is no reason to conclude that the non-taxable portion of the capital gains purportedly allocated by FMO to the Appellants (pursuant to paragraph (f) of the definition) would not be reduced by the non-taxable portion of the capital losses realized in transactions that took place within minutes of each other on the same day. The capital dividends at issue were declared in the months that followed when the CDA balance was nil such the dividends declared could not be characterized as capital dividends.
+[233] As noted by the Respondent, a corporation that has been assessed pursuant to subsection 184(2) because it has declared excess dividends may elect, within 90 days from the receipt of the notice of assessment, pursuant to subsection 184(3) to have the non-qualifying portion of the dividend treated as a separate taxable dividend payable by the shareholders, thus avoiding Part III tax of 60%.
+[234] However, as explained by the Federal Court of Appeal in Farragi (2008 FCA 398), confirming the comments made by the trial judge, the election is intended to allow corporations “to correct their mistake and avoid the special tax provided under Part III” but it is not intended that the provision will apply where “the initial CDA was sham (sic), and those claiming the benefit of Part III are the authors of the sham” (para 82).
+[235] In this instance, it is admitted that the Appellants were owned or controlled by Grenon and the Court has concluded that they were his agents or nominees. The Court must conclude that they were willing participants in the scheme to artificially manufacture the subject capital gains and capital losses that were reported in their T2 tax returns for the 2006 taxation year. I see no reason to distinguish between Grenon and the Appellants as “the authors of the sham” giving rise to the excess capital dividends and Part III Reassessments at issue in these appeals.
+[236] As a result of the above and the Court’s finding that the additions to the capital dividend accounts were a sham and a misrepresentation, it follows that the Appellants are not entitled to rely on the elections filed pursuant to subsection 184(3) to treat the excess dividends as ordinary taxable dividends.
+IX. GENERAL ANTI-AVOIDANCE RULE (“GAAR”)
+[237] As noted in the TCC Decision, GAAR is an argument of last resort that assumes that a taxpayer has otherwise complied with the provisions of the ITA.
+[238] The application of GAAR was explained in the seminal decision of the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54 (“Canada Trustco”) and the basic principles were reviewed at paragraphs 531 to 541 of the TCC Decision. It is not necessary to do so again.
+A. GAAR in Connection with the RRSP Trust
+[239] The first issue is whether there was a tax benefit? It is not disputed that the purpose of the transactions involving the Appellants was to extract the so-called ‘pregnant’ gain of $125,080,593 that had accrued in the RRSP Trust. Steps were taken to ensure that this gain would be realized and then allocated by FMO to the Appellants who allegedly held 100% of the units, leading to the alleged additions to their respective capital dividend accounts. Since the FMO units, having a fair market value of $160,628,000, had not actually been withdrawn from the RRSP Trust and reported by Grenon as taxable income, I conclude that this was a tax benefit resulting from a transaction or series of transactions as defined in subsection 245(1).
+[240] The second issue to be addressed is whether there was an avoidance transaction in the sense that it cannot reasonably be said that the transaction(s) was undertaken or arranged primarily for bona fide purposes other than to obtain a tax benefit. As described in more detail above, Grenon undertook various steps commencing with the transfer of the FMO units from the RRSP Trust to TOM, but without actually effecting a withdrawal. He then took steps to transfer the FMO units from TOM to the Appellants in order to implement a series of transactions that would allegedly trigger the subject capital gains and capital losses. As argued by the Respondent, this was arranged to avoid Part I tax arising from a withdrawal. I find these were avoidance transactions as defined in subsection 245(3).
+[241] The third issue is whether the avoidance transaction(s) “may reasonably be considered” to result directly or indirectly in an abuse of the ITA having regard to the “object, spirit and purpose” of the provisions as set out in subsection 245(4). The Court must ask whether the transaction or series of transactions were abusive in that they defeated “the underlying rational of the provisions that are relied upon (…) in a manner that frustrates or defeats the object, spirit or purpose of those provisions”: Canada Trustco, supra (para. 45).
+[242] As reviewed in the TCC Decision, subsection 146(4) provides that “no tax is payable (…) on the taxable income in the trust (…) that was governed by a registered retirement income plan,” subject to certain limitations. Subsection 146(8) provides that withdrawals from an RRSP “shall be included in computing a taxpayer’s income for a taxation year.” As I explained in Roy v. The Queen, 2019 TCC 50 “Section 3 of the Act and more specifically paragraph 56(1)(h) and subsection 146(8), provide that RRSP “withdrawals” are to be included in income (Andaluz v. The Queen, 2015 TCC 165)” (para 16).
+[243] In find that the object, spirit and purpose of these provisions is to ensure, in the context of the RRSP regime as a whole, that all forms of income or gains, described as “taxable income in the trust” accrue on a tax-exempt basis but that the full value of all withdrawals from an RRSP are included in a taxpayer’s taxable income.
+[244] Grenon took steps to ‘move’ the FMO units from the RRSP Trust to TOM and then to the Appellants, but without reporting the fair market value thereof as a withdrawal. Secondly, the purpose of the transactions, as admitted by him, was to extract the gain that had accrued within the RRSP.
+[245] I find that these steps were abusive of the RRSP regime since Parliament has intended that all forms or income or gains generated by qualified investments held in the RRSP are not subject to tax. In other words, the disposition of a qualified investment within an RRSP is inconsequential for tax purposes, whether it results in gains or losses. But in this instance, Grenon implemented a series of transactions to extract the accrued gain (without actually taking steps to remove the FMO units from the RRSP Trust) and to transfer that accrued gain to the Appellants to create the capital dividend accounts leading to payment of the capital dividends.
+[246] I find that these transactions were abusive and that they sought to defeat “the underlying rational” of the provisions as provided for in subsection 245(4).
+B. GAAR in Connection with the Capital Dividend Accounts (“CDA”)
+[247] For the purpose of this analysis, it will be assumed that legal and beneficial ownership of the FMO units had been transferred to the Appellants who had selected Option 2 in the FMO reorganization thus acquiring the right to dispose of the units of FVT in the Second Stage Disposition, that this right was assigned to FMO who then disposed of the units to TOM, thus triggering the capital gain of $226,258,087 and that the FMO units were then repurchased for cancellation from the Appellants creating a capital loss of $224,761,348. It will be assumed that the capital gain realized by FMO was allocated to the Appellants who credited one-half of that amount to their capital dividend accounts and that capital dividends of $110,000,000 were then declared, as described above.
+[248] The first issue is whether there was a tax benefit. To the extent that the Appellants were able to record capital gains and off-setting capital losses in more or less equal amounts, as a result of transactions that occurred within minutes of each other on the same day and then purported to make additions to their capital dividend accounts and declared tax-free capital dividends of about $110,000,000, I have no difficulty in concluding that this was a tax benefit.
+[249] The next issue is whether there was an avoidance transaction. The capital gains regime (section 38) contemplates that 50% of capital gains are taxable and the remaining balance is non taxable. If a capital loss is also realized, 50% of that amount will reduce the taxable capital gain such that if a taxpayer realizes a capital gain of $100,000 and a capital loss of $100,000, the taxable capital gain is reduced to nil. The CDA regime seeks to replicate this for capital gains earned by a corporation by providing that 50% of gains are taxable and the non-table portion is credited to the CDA (as explained by Noel C. J. in Gladwin, supra, para 56) and can be paid out to shareholders on a tax-free basis. This is an attempt to give “effect to the principle of integration” (Gladwin, supra, para. 59). As further explained by Noel C.J.:
+[58] When a private corporation has a positive CDA balance, it may distribute those surpluses, tax-free, by way of a capital dividend, but only to the extent of the corporation’s CDA balance immediately before the dividend becomes payable (…)
+(…)
+[61] The same rationale governs the tax treatment of capital losses. For that purpose, when a corporation suffers a capital loss, a portion of the loss that corresponds with the non-taxable capital gain portion is deducted from the CDA, thereby lowering the amount available for capital dividend election and distribution. This again mimics the effect of a capital loss when incurred by an individual taxpayer directly. The CDA computation mechanism reflects this by decreasing the amount that can be paid out tax-free by a corresponding amount whenever a private corporation suffers a capital loss.
+[My emphasis]
+[250] The Appellants have argued that the capital gains were “allocated” to them by FMO and 50% of the amount was credited to their respective CDA pursuant to paragraph (f) of the definition of “capital dividend account” as set out in subsection 89(1). It was argued that 50% of the capital loss resulting from the repurchase of the FMO units was credited to their respective CDA account pursuant to paragraph (a) of the definition but did not reduce the CDA balance.
+[251] To the extent that this is so, I would view this as an avoidance transaction because if the two amounts were realized on the same day, before the capital dividends had been declared, then the balance of the CDA would have been nil, there being only ‘one’ CDA balance under the ITA. To the extent that the Appellants had structured the transaction to achieve this result, I have no difficulty in concluding that it was an ‘avoidance transaction’ as defined in subsection 245(3) and that it cannot be said that the steps were undertaken or arranged for bona fide purposes other than to obtain a tax benefit.
+[252] The third issue is whether the transactions abused the provisions of the ITA. As noted above, the question is whether the avoidance transaction(s) “may reasonably be considered” to result directly or indirectly in an abuse of the ITA having regard to the “object, spirit and purpose” of the provisions as set out in subsection 245(4): Canada Trustco, supra (para. 45).
+[253] The analysis of this issue relates in part to the capital gains regime as described above. As explained by Noel. C.J. (Gladwin, supra):
+[60] In broad terms, the CDA regime seeks to achieve this result by neutralizing the impact of the interposition of a corporation in the manner in which capital gains are taxed. Given that only one half of capital gains is taxable (section 38), Parliament provided for a mechanism whereby a corporation can preserve the tax-free portion of the gain for distribution to a shareholder without attracting an extra level of tax—this mechanism governs the manner in which the CDA is computed. In essence, the CDA regime ensures that no more than the tax-free portion is distributed to shareholders by way of a capital dividend so as to mirror the tax treatment of an individual taxpayer who generates the underlying gain directly.
+[My emphasis]
+[254] If a corporation realizes a capital gain of $100,000 from the sale of property A and a capital loss of $100,000 from the sale of property B on the same day, the balance of the CDA calculated pursuant to paragraph (a) of the definition would be nil. If the CDA regime is “to mirror the tax treatment of an individual taxpayer who generates gains directly” there would be no reason in principle to treat amounts received from a trust pursuant to paragraph (f) of the definition, any differently.
+[255] The intent of Parliament was to ensure that the positive components of the CDA would be ‘added’ and that the negative amounts would be ‘subtracted’. The payment of a capital dividend by a corporation that has realized capital gains and capital losses in an equal amount, more or less, on the same day and before the capital dividends are declared, would defeat the “underlying rational of the provisions (…) in a manner that frustrates or defeats the object, spirit or purpose of those provisions”: Canada Trustco, supra (para. 45). It can be said that the “object, spirit and purpose” of the CDA regime is to ensure that it mirrors the tax treatment of capital gains for an individual and that the Minister can only seek to tax gains that give rise to ‘real’ economic gains. By the same token, only one half of the ‘real’ economic gains realized by a corporation can be added to the CDA.
+[256] I conclude these transactions were abusive as they were intended to defeat “the underlying rational” of the provisions as provided for in subsection 245(4).
+C. The Reasonable Tax Consequences
+[257] The Court thus concludes that the steps undertaken by the Appellants in connection with RRSP Trust and in connection with the CDA, as described above, 1) achieved an outcome the statutory provisions were intended to prevent, 2) defeated the underlying rational of the provisions and 3) circumvented the provisions in a manner that frustrated or defeated its object, spirit and purpose: Copthorne Holdings Ltd. v. Canada, 2011 SCC 63 (para 72).
+[258] The final issue is the determination of the tax consequences “as is reasonable in the circumstances” pursuant to subsection 245(5). As described above, Grenon took steps to extract the accrued gain without actually withdrawing the FMO units from the RRSP Trust and reporting taxable income under Part I of the ITA equal to the fair market value of the units. He then attempted to transfer the accrued gain to the Appellants by entering into a series of transactions that purportedly crystalized the accrued gain resulting in the subject capital gains with offsetting capital losses to ensure that the Appellants, being his agents and nominees, would not be subject to tax. The final step involved the declaration and payment of the capital dividends by the Appellants, as detailed above, in the approximate amount of $110,000,000 that were eventually paid out to Grenon on a tax-free basis.
+[259] Since the Court has concluded that the various steps as described above, were avoidance transactions as defined in subsection 245, the Court must conclude that the reasonable tax consequences would be to deny the subject capital gains and capital losses and to confirm the Part III Reassessments.
+X. CONCLUSION
+[260] The appeals are dismissed with costs to Respondent.
+[261] The Parties shall have 60 days from the date hereof to provide written submissions regarding costs. Such submissions shall not exceed 15 pages per party.
+[262] On consent of the parties, following the issuance of the TCC Decision, the parties shall include submissions on costs in the Grenon Appeal and RRSP Trust Appeal.
+These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated June 24, 2021 in order to correct the words underscored in paragraph 113 hereof.
+Signed at Ottawa, Canada this 24th day of June 2021.
+Signed at Ottawa, Canada this 1st day of April 2022.
+“Guy R. Smith”
+Smith J.
+ANNEX A
+Income Tax Act
+R.S.C., 1985, c. 1 (5th Supp.)
+Loi de l’impôt sur le revenu
+L.R.C. (1985), ch. 1 (5e suppl.)
+Version of document from 2006-07-01 to 2006-12-31:
+Computation of Income
+Basic Rules
+Income for taxation year
+3 The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+(b) determine the amount, if any, by which
+(i) the total of
+(A) all of the taxpayer’s taxable capital gains for the year from dispositions of property other than listed personal property, and
+(B) the taxpayer’s taxable net gain for the year from dispositions of listed personal property,
+exceeds
+(ii) the amount, if any, by which the taxpayer’s allowable capital losses for the year from dispositions of property other than listed personal property exceed the taxpayer’s allowable business investment losses for the year,
+(…)
+Registered retirement savings plan, etc.
+56(1)(h) amounts required by section 146 in respect of a registered retirement savings plan or a registered retirement income fund to be included in computing the taxpayer’s income for the year;
+(…)
+Capital dividend
+83(2) Where at any particular time after 1971 a dividend becomes payable by a private corporation to shareholders of any class of shares of its capital stock and the corporation so elects in respect of the full amount of the dividend, in prescribed manner and prescribed form and at or before the particular time or the first day on which any part of the dividend was paid if that day is earlier than the particular time, the following rules apply:
+(a) the dividend shall be deemed to be a capital dividend to the extent of the corporation’s capital dividend account immediately before the particular time; and
+(b) no part of the dividend shall be included in computing the income of any shareholder of the corporation.
+(…)
+Capital Divident Account
+89(1) capital dividend account of a corporation at any particular time means the amount, if any, by which the total of
+(a) the amount, if any, by which
+(i) the total of all amounts each of which is the amount if any, by which
+(A) the amount of the corporation’s capital gain from a disposition (other than a disposition that is the making of a gift after December 8, 1997 that is not a gift described in subsection 110.1(1)) of a property in the period beginning at the beginning of its first taxation year (that began after the corporation last became a private corporation and that ended after 1971) and ending immediately before the particular time (in this definition referred to as “the period”)
+exceeds the total of
+(B) the portion of the capital gain referred to in clause (A) that is the corporation’s taxable capital gain, and
+(C) the portion of the amount, if any, by which the amount determined under clause (A) exceeds the amount determined under clause (B) from the disposition by it of a property that can reasonably be regarded as having accrued while the property, or a property for which it was substituted,
+(I) except in the case of a disposition of a designated property, was a property of a corporation (other than a private corporation, an investment corporation, a mortgage investment corporation or a mutual fund corporation),
+(II) where, after November 26, 1987, the property became a property of a Canadian-controlled private corporation (otherwise than by reason of a change in the residence of one or more shareholders of the corporation), was a property of a corporation controlled directly or indirectly in any manner whatever by one or more non-resident persons, or
+(III) where, after November 26, 1987, the property became a property of a private corporation that was not exempt from tax under this Part on its taxable income, was a property of a corporation exempt from tax under this Part on its taxable income,
+exceeds
+(ii) the total of all amounts each of which is the amount, if any, by which
+(A) the amount of the corporation’s capital loss from a disposition (other than a disposition that is the making of a gift after December 8, 1997 that is not a gift described in subsection 110.1(1)) of a property in that period
+exceeds the total of
+(B) the part of the capital loss referred to in clause (A) that is the corporation’s allowable capital loss, and
+(C) the portion of the amount, if any, by which the amount determined under clause (A) exceeds the amount determined under clause (B) from the disposition by it of a property that can reasonably be regarded as having accrued while the property, or a property for which it was substituted,
+(I) except in the case of a disposition of a designated property, was a property of a corporation (other than a private corporation, an investment corporation, a mortgage investment corporation or a mutual fund corporation),
+(II) where, after November 26, 1987, the property became a property of a Canadian-controlled private corporation (otherwise than by reason of a change in the residence of one or more shareholders of the corporation), was a property of a corporation controlled directly or indirectly in any manner whatever by one or more non-resident persons, or
+(III) where, after November 26, 1987, the property became a property of a private corporation that was not exempt from tax under this Part on its taxable income, was a property of a corporation exempt from tax under this Part on its taxable income,
+(b) all amounts each of which is an amount in respect of a dividend received by the corporation on a share of the capital stock of another corporation in the period, which amount was, by virtue of subsection 83(2), not included in computing the income of the corporation,
+(c) the total of all amounts each of which is an amount required to have been included under this paragraph as it read in its application to a taxation year that ended before February 28, 2000,
+(c.1) the amount, if any, by which
+(i) 1/2 of the total of all amounts each of which is an amount required by paragraph 14(1)(b) to be included in computing the corporation’s income in respect of a business carried on by the corporation for a taxation year that is included in the period and that ended after February 27, 2000 and before October 18, 2000,
+exceeds
+(ii) where the corporation has deducted an amount under subsection 20(4.2) in respect of a debt established by it to have become a bad debt in a taxation year that is included in the period and that ended after February 27, 2000 and before October 18, 2000, or has an allowable capital loss for such a year because of the application of subsection 20(4.3), the amount determined by the formula
+V + W
+where
+V
+is 1/2 of the value determined for A under subsection 20(4.2) in respect of the corporation for the last such taxation year that ended in the period, and
+W
+is 1/3 of the value determined for B under subsection 20(4.2) in respect of the corporation for the last such taxation year that ended in the period, and
+(iii) in any other case, nil,
+(c.2) the amount, if any, by which
+(i) the total of all amounts each of which is an amount required by paragraph 14(1)(b) to be included in computing the corporation’s income in respect of a business carried on by the corporation for a taxation year that is included in the period and that ends after October 17, 2000,
+exceeds
+(ii) where the corporation has deducted an amount under subsection 20(4.2) in respect of a debt established by it to have become a bad debt in a taxation year that is included in the period and that ends after October 17, 2000, or has an allowable capital loss for such a year because of the application of subsection 20(4.3), the amount determined by the formula
+X + Y
+Where
+X
+is the value determined for A under subsection 20(4.2) in respect of the corporation for the last such taxation year that ended in the period, and
+Y
+is 1/3 of the value determined for B under subsection 20(4.2) in respect of the corporation for the last such taxation year that ended in the period, and
+(iii) in any other case, nil,
+(d) the amount, if any, by which the total of
+(i) all amounts each of which is the proceeds of a life insurance policy of which the corporation was a beneficiary on or before June 28, 1982 received by the corporation in the period and after 1971 in consequence of the death of any person, and
+(ii) all amounts each of which is the proceeds of a life insurance policy of which the corporation was not a beneficiary on or before June 28, 1982 received by the corporation in the period and after May 23, 1985 in consequence of the death of any person exceeds the total of all amounts each of which is the adjusted cost basis (within the meaning assigned by subsection 148(9)) of a policy referred to in subparagraph (i) or (ii) to the corporation immediately before that person’s death,
+(e) the amount of the corporation’s life insurance capital dividend account immediately before May 24, 1985, and
+(f) all amounts each of which is an amount in respect of a distribution made in the period by a trust to the corporation in respect of capital gains of the trust equal to the lesser of
+(i) the amount, if any, by which
+(A) the amount of the distribution
+exceeds
+(B)the amount designated under subsection 104(21) by the trust (other than a designation to which subsection 104(21.4) applies) in respect of the net taxable capital gains of the trust attributable to those capital gains, and
+(ii) the amount determined by the formula
+A × B
+where
+A
+is the fraction or whole number determined when 1 is subtracted from the reciprocal of the fraction under paragraph 38(a) applicable to the trust for the year, and
+B
+is the amount referred to in clause (i) (B), and
+(g) all amounts each of which is an amount in respect of a distribution made by a trust to the corporation in the period in respect of a dividend (other than a taxable dividend) paid on a share of the capital stock of another corporation resident in Canada to the trust during a taxation year of the trust throughout which the trust was resident in Canada equal to the lesser of
+(i) the amount of the distribution, and
+(ii) the amount designated under subsection 104(20) by the trust in respect of the corporation in respect of that dividend, exceeds the total of all capital dividends that became payable by the corporation after the commencement of the period and before the particular time; (compte de dividendes en capital)
+(…)
+Trusts and their Beneficiaries
+104(1) In this Act, a reference to a trust or estate (in this subdivision referred to as a “trust”) shall, unless the context otherwise requires, be read to include a reference to the trustee, executor, administrator, liquidator of a succession, heir or other legal representative having ownership or control of the trust property, but, except for the purposes of this subsection, subsection (1.1), subparagraph (b)(v) of the definition disposition in subsection 248(1) and paragraph (k) of that definition, a trust is deemed not to include an arrangement under which the trust can reasonably be considered to act as agent for all the beneficiaries under the trust with respect to all dealings with all of the trust’s property unless the trust is described in any of paragraphs (a) to (e.1) of the definition trust in subsection 108(1).
+(…)
+Taxed as individual
+104(2) A trust shall, for the purposes of this Act, and without affecting the liability of the trustee or legal representative for that person’s own income tax, be deemed to be in respect of the trust property an individual, but where there is more than one trust and
+(…)
+When trust is a unit trust
+108(2) For the purposes of this Act, a trust is a unit trust at any particular time if, at that time, it was an inter vivos trust the interest of each beneficiary under which was described by reference to units of the trust, and
+(a) the issued units of the trust included
+(i) units having conditions attached thereto that included conditions requiring the trust to accept, at the demand of the holder thereof and at prices determined and payable in accordance with the conditions, the surrender of the units, or fractions or parts thereof, that are fully paid, or
+(ii) units qualified in accordance with prescribed conditions relating to the redemption of the units by the trust, and the fair market value of such of the units as had conditions attached thereto that included such conditions or as were so qualified, as the case may be, was not less than 95% of the fair market value of all of the issued units of the trust (such fair market values being determined without regard to any voting rights attaching to units of the trust);
+(…)
+(…)
+No tax while trust governed by plan
+146(4) Except as provided in subsection 146(10.1), no tax is payable under this Part by a trust on the taxable income of the trust for a taxation year if, throughout the period in the year during which the trust was in existence, the trust was governed by a registered retirement savings plan, except that
+(a) if the trust has borrowed money (other than money used in carrying on a business) in the year or has, after June 18, 1971, borrowed money (other than money used in carrying on a business) that it has not repaid before the commencement of the year, tax is payable under this Part by the trust on its taxable income for the year;
+(b) in any case not described in paragraph 146(4)(a), if the trust has carried on any business or businesses in the year, tax is payable under this Part by the trust on the amount, if any, by which
+(i) the amount that its taxable income for the year would be if it had no incomes or losses from sources other than from that business or those businesses, as the case may be,
+exceeds
+(ii) such portion of the amount determined under subparagraph 146(4)(b)(i) in respect of the trust for the year as can reasonably be considered to be income from, or from the disposition of, qualified investments for the trust; and
+(c) if the last annuitant under the plan has died, tax is payable under this Part by the trust on its taxable income for each year after the year following the year in which the last annuitant died.
+(…)
+Benefits taxable
+146(8) There shall be included in computing a taxpayer’s income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer’s income.
+(…)
+Assessment
+152(1) The Minister shall, with all due dispatch, examine a taxpayer’s return of income for a taxation year, assess the tax for the year, the interest and penalties, if any, payable and determine
+(…)
+Liability not dependent on assessment
+152(3) Liability for the tax under this Part is not affected by an incorrect or incomplete assessment or by the fact that no assessment has been made.
+(…)
+Assessment and reassessment
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of the year; or
+(…)
+Assessment deemed valid and binding
+152(8) An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+(…)
+False statements or omissions
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(…)
+Duties of Minister
+165(3) On receipt of a notice of objection under this section, the Minister shall, with all due dispatch, reconsider the assessment and vacate, confirm or vary the assessment or reassess, and shall thereupon notify the taxpayer in writing of the Minister’s action.
+(…)
+Irregularities
+166 An assessment shall not be vacated or varied on appeal by reason only of any irregularity, informality, omission or error on the part of any person in the observation of any directory provision of this Act.
+(…)
+Additional Tax on Excessive Elections
+184(2) Where a corporation has elected in accordance with subsection 83(2), 130.1(4) or 131(1) in respect of the full amount of any dividend payable by it on shares of any class of its capital stock and the full amount of the dividend exceeds the portion thereof deemed by that subsection to be a capital dividend or capital gains dividend, as the case may be, the corporation shall, at the time of the election, pay a tax under this Part equal to 3/4 of the excess.
+(…)
+Election to treat excess as separate dividend
+184(3) Where, in respect of a dividend payable at a particular time after 1971, a corporation would, but for this subsection, be required to pay a tax under this Part equal to all or a portion of an excess referred to in subsection (2) of this section or subsection 184(1) of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, it may elect in prescribed manner on or before a day that is not later than 90 days after the day that is the later of December 15, 1977 and the day of mailing of the notice of assessment in respect of the tax that would otherwise be payable under this Part, and on such an election being made, subject to subsection 184(4), the following rules apply:
+(a) the amount by which the full amount of the dividend exceeds the amount of the excess shall be deemed for the purposes of the election that the corporation made in respect of the dividend under subsection 83(2), 130.1(4) or 131(1) of this Act or subsection 83(1) of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, and for all other purposes of this Act to be the full amount of a separate dividend that became payable at the particular time;
+(b) such part of the excess as the corporation may claim shall, for the purposes of any election in respect thereof under subsection 83(2), 130.1(4) or 131(1) of this Act or subsection 83(1) of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, and, where the corporation has so elected, for all purposes of this Act, be deemed to be the full amount of a separate dividend that became payable immediately after the particular time;
+(c) the amount by which the excess exceeds any portion deemed by paragraph 184(3)(b) to be a separate dividend for all purposes of this Act shall be deemed to be a separate dividend that is a taxable dividend that became payable at the particular time; and
+(d) each person who held any of the issued shares of the class of shares of the capital stock of the corporation in respect of which the full amount of the dividend was paid shall be deemed
+(i) not to have received any portion of the dividend, and
+(ii) to have received at the time the dividend was paid the proportion of any separate dividend, determined under paragraph 184(3)(a), 184(3)(b) or 184(3)(c), that the number of shares of that class held by the person at the time the dividend was paid is of the number of shares of that class outstanding at that time except that, for the purpose of Part XIII, a separate dividend that is a taxable dividend, a capital dividend or a life insurance capital dividend shall be deemed to have been paid on the day that the election in respect of this subsection is made.
+(…)
+Provisions applicable to Part
+185(3) Subsections 152(3), 152(4), 152(5), 152(7) and 152(8) and 161(11), sections 163 to 167 and Division J of Part I are applicable to this Part with such modifications as the circumstances require.
+(…)
+Tax in Respect of Deferred Income Plans and Other Tax Exempt Persons
+Tax payable by trust under registered retirement savings plan
+207.1(1) Where, at the end of any month, a trust governed by a registered retirement savings plan holds property that is neither a qualified investment (within the meaning assigned by subsection 146(1)) nor a life insurance policy in respect of which, but for subsection 146(11), subsection 146(10) would have applied as a consequence of its acquisition, the trust shall, in respect of that month, pay a tax under this Part equal to 1% of the fair market value of the property at the time it was acquired by the trust of all such property held by it at the end of the month, other than
+(a) property, the fair market value of which was included, by virtue of subsection 146(10), in computing the income, for any year, of an annuitant (within the meaning assigned by subsection 146(1)) under the plan; and
+(b) property acquired by the trust before August 25, 1972.
+(…)
+Tax Avoidance
+Definitions
+245(1) In this section, tax benefit means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty; (avantage fiscal)
+tax consequences to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount; (attribut fiscal)
+transaction includes an arrangement or event. (opération)
+General anti-avoidance provision
+245(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+Avoidance transaction
+245(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+Application of subsection (2)
+245(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+Determination of tax consequences
+245(5) Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a) any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) any such deduction, exemption or exclusion, any income, loss or other amount or part thereof may be allocated to any person,
+(c) the nature of any payment or other amount may be recharacterized, and
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+Disposition
+248(1) disposition of any property, except as expressly otherwise provided, includes
+(a) any transaction or event entitling a taxpayer to proceeds of disposition of the property,
+(b) any transaction or event by which,
+(i) where the property is a share, bond, debenture, note, certificate, mortgage, agreement of sale or similar property, or an interest in it, the property is redeemed in whole or in part or is cancelled,
+(ii) where the property is a debt or any other right to receive an amount, the debt or other right is settled or cancelled,
+(iii) where the property is a share, the share is converted because of an amalgamation or merger,
+(iv) where the property is an option to acquire or dispose of property, the option expires, and
+(v) a trust, that can reasonably be considered to act as agent for all the beneficiaries under the trust with respect to all dealings with all of the trust’s property (unless the trust is described in any of paragraphs (a) to (e.1) of the definition trust in subsection 108(1)), ceases to act as agent for a beneficiary under the trust with respect to any dealing with any of the trust’s property,
+(c) any transfer of the property to a trust or, where the property is property of a trust, any transfer of the property to any beneficiary under the trust, except as provided by paragraph (f) or (k), and
+(d) where the property is, or is part of, a taxpayer’s capital interest in a trust, except as provided by paragraph (h) or (i), a payment made after 1999 to the taxpayer from the trust that can reasonably be considered to have been made because of the taxpayer’s capital interest in the trust,
+but does not include
+(e) any transfer of the property as a consequence of which there is no change in the beneficial ownership of the property, except where the transfer is
+(i) from a person or a partnership to a trust for the benefit of the person or the partnership,
+(ii) from a trust to a beneficiary under the trust, or
+(iii) from one trust maintained for the benefit of one or more beneficiaries under the trust to another trust maintained for the benefit of the same beneficiaries,
+(f) any transfer of the property as a consequence of which there is no change in the beneficial ownership of the property, where
+(i) the transferor and the transferee are trusts,
+(ii) the transfer is not by a trust resident in Canada to a non-resident trust,
+(iii) the transferee does not receive the property in satisfaction of the transferee’s right as a beneficiary under the transferor trust,
+(iv) the transferee held no property immediately before the transfer (other than property the cost of which is not included, for the purposes of this Act, in computing a balance of undeducted outlays, expenses or other amounts in respect of the transferee),
+(…)
+Tax payable
+248(2) In this Act, the tax payable by a taxpayer under any Part of this Act by or under which provision is made for the assessment of tax means the tax payable by the taxpayer as fixed by assessment or reassessment subject to variation on objection or on appeal, if any, in accordance with the provisions of that Part.
+Version du document du 2006-07-01 au 2006-12-31:
+Calcul du revenu
+Règles fondamentales
+Revenu pour l’année d’imposition
+3 Pour déterminer le revenu d’un contribuable pour une année d’imposition, pour l’application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l’année (autre qu’un gain en capital imposable résultant de la disposition d’un bien) dont la source se situe au Canada ou à l’étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien;
+b) le calcul de l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii):
+(i) le total des montants suivants :
+(A) ses gains en capital imposables pour l’année tirés de la disposition de biens, autres que des biens meubles déterminés,
+(B) son gain net imposable pour l’année tiré de la disposition de biens meubles déterminés,
+(ii) l’excédent éventuel de ses pertes en capital déductibles pour l’année, résultant de la disposition de biens autres que des biens meubles déterminés sur les pertes déductibles au titre d’un placement d’entreprise pour l’année, subies par le contribuable;
+Régime enregistré d’épargne-retraite, etc.
+56(1)(h) toutes sommes relatives à un régime enregistré d’épargne-retraite ou à un fonds enregistré de revenu de retraite et qui doivent, en vertu de l’article 146, être incluses dans le calcul du revenu du contribuable pour l’année;
+Dividende en capital
+83(2) Lorsque, à un moment donné après 1971, un dividende devient payable par une société privée aux actionnaires d’une catégorie quelconque d’actions de son capital-actions et que la société fait un choix relativement au montant total du dividende, selon les modalités et le formulaire réglementaires, au plus tard au premier en date du moment donné et du premier jour où une partie du dividende a été payée, les règles suivantes s’appliquent :
+a) le dividende est réputé être un dividende en capital jusqu’à concurrence du montant du compte de dividendes en capital de la société immédiatement avant le moment donné;
+b) aucune partie du dividende n’est incluse dans le calcul du revenu des actionnaires de la société.
+Compte de dividends en capital
+89(1) compte de dividendes en capital s’agissant du compte de dividendes en capital d’une société, à un moment donné, l’excédent éventuel du total des montants suivants :
+a) l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii):
+(i) le total des montants dont chacun représente l’excédent éventuel :
+(A) d’un gain en capital de la société provenant de la disposition (sauf celle qui constitue un don effectué après le 8 décembre 1997 qui n’est pas un don visé au paragraphe 110.1(1)) d’un bien au cours de la période commençant au début de sa première année d’imposition (ayant commencé après le moment où elle est devenue pour la dernière fois une société privée et s’étant terminée après 1971) et se terminant immédiatement avant le moment donné (appelée « période » à la présente définition),
+sur le total des montants suivants :
+(B) le gain en capital imposable de la société correspondant,
+(C) la partie de l’excédent éventuel du montant calculé à la division (A) sur le montant calculé à la division (B), provenant de la disposition d’un bien par la société, qu’il est raisonnable de considérer comme s’étant accumulée pendant que le bien, ou un bien qui lui est substitué :
+(I) sauf dans le cas de la disposition d’un bien désigné, soit appartenait à une société — sauf une société privée, une société de placement, une société de placement hypothécaire ou une société de placement à capital variable —,
+(II) soit appartenait à une société contrôlée, directement ou indirectement, de quelque manière que ce soit, par une ou plusieurs personnes non-résidentes, si le bien est devenu, après le 26 novembre 1987, un bien d’une société privée sous contrôle canadien — autrement qu’à cause d’un changement de résidence d’un ou de plusieurs actionnaires de la société —,
+(III) soit appartenait à une société exonérée de l’impôt prévu à la présente partie sur son revenu imposable, si le bien est devenu, après le 26 novembre 1987, un bien d’une société privée qui n’était pas exonérée de l’impôt prévu à la présente partie sur son revenu imposable,
+(ii) le total des montants dont chacun représente l’excédent éventuel :
+(A) d’une perte en capital de la société résultant de la disposition (sauf celle qui constitue un don effectué après le 8 décembre 1997 que n’est pas un don visé au paragraphe 110.1(1)) d’un bien au cours de cette période,
+sur le total des montants suivants :
+(B) la perte en capital déductible de la société correspondante,
+(C) la partie de l’excédent éventuel du montant calculé à la division (A) sur le montant calculé à la division (B), provenant de la disposition d’un bien par la société, qu’il est raisonnable de considérer comme s’étant accumulée pendant que le bien, ou un bien qui lui est substitué :
+(I) sauf dans le cas de la disposition d’un bien désigné, soit appartenait à une société — sauf une société privée, une société de placement, une société de placement hypothécaire ou une société de placement à capital variable —,
+(II) soit appartenait à une société contrôlée, directement ou indirectement, de quelque manière que ce soit, par une ou plusieurs personnes non-résidentes, si le bien est devenu, après le 26 novembre 1987, un bien d’une société privée sous contrôle canadien — autrement qu’à cause d’un changement de résidence d’un ou de plusieurs actionnaires de la société —,
+(III) soit appartenait à une société exonérée de l’impôt prévu à la présente partie sur son revenu imposable, si le bien est devenu, après le 26 novembre 1987, un bien d’une société privée qui n’était pas exonérée de l’impôt prévu à la présente partie sur son revenu imposable;
+b) les sommes dont chacune constitue une somme reçue par la société au cours de la période, à titre de dividende versé sur une action du capital-actions d’une autre société, somme qui, en vertu du paragraphe 83(2), n’a pas été incluse dans le calcul du revenu de la société;
+c) les sommes représentant chacune une somme qui était à inclure selon le présent alinéa, dans sa version applicable à une année d’imposition terminée avant le 28 février 2000,
+c.1) l’excédent éventuel du montant suivant :
+(i) la moitié du total des montants représentant chacun un montant à inclure en application de l’alinéa 14(1)b) dans le calcul du revenu de la société, relativement à une entreprise qu’elle exploite, pour une année d’imposition comprise dans la période et terminée après le 27 février 2000 et avant le 18 octobre 2000,
+sur le montant applicable suivant :
+(ii) si la société a établi qu’une somme est devenue une créance irrécouvrable au cours d’une année d’imposition comprise dans la période et terminée après le 27 février 2000 et avant le 18 octobre 2000 et a déduit un montant au titre de cette somme en application du paragraphe 20(4.2), ou si elle a une perte en capital déductible pour une telle année par l’effet du paragraphe 20(4.3), le montant obtenu par la formule suivante :
+V + W
+où :
+V
+représente la moitié de la valeur de l’élément A de la formule figurant au paragraphe 20(4.2), déterminée relativement à la société pour la dernière année d’imposition semblable terminée dans la période,
+W
+le tiers de la valeur de l’élément B de cette formule, déterminée relativement à la société pour cette dernière année d’imposition,
+(iii) dans les autres cas, zéro,
+c.2) l’excédent éventuel du montant suivant :
+(i) le total des montants représentant chacun un montant à inclure en application de l’alinéa 14(1)b) dans le calcul du revenu de la société, relativement à une entreprise qu’elle exploite, pour une année d’imposition comprise dans la période et se terminant après le 17 octobre 2000,
+sur le montant applicable suivant :
+(ii) si la société a établi qu’une somme est devenue une créance irrécouvrable au cours d’une année d’imposition comprise dans la période et se terminant après le 17 octobre 2000 et a déduit un montant au titre de cette somme en application du paragraphe 20(4.2), ou si elle a une perte en capital déductible pour une telle année par l’effet du paragraphe 20(4.3), le montant obtenu par la formule suivante :
+X + Y
+où :
+X
+représente la valeur de l’élément A de la formule figurant au paragraphe 20(4.2), déterminée relativement à la société pour la dernière année d’imposition semblable terminée dans la période,
+Y
+le tiers de la valeur de l’élément B de cette formule, déterminée relativement à la société pour cette dernière année d’imposition,
+(iii) dans les autres cas, zéro,
+d) l’excédent éventuel du total des montants suivants :
+(i) les montants dont chacun représente le produit d’une police d’assurance-vie dont la société était bénéficiaire au plus tard le 28 juin 1982 que la société a reçu au cours de la période et après 1971 par suite du décès d’une personne,
+(ii) les montants dont chacun représente le produit d’une police d’assurance-vie dont la société n’était pas bénéficiaire au plus tard le 28 juin 1982 que la société a reçu au cours de la période et après le 23 mai 1985 par suite du décès d’une personne,
+sur le total des montants dont chacun représente le coût de base rajusté (au sens du paragraphe 148(9)) d’une police visée au sous-alinéa (i) ou (ii) pour la société immédiatement avant le décès de cette personne;
+e) le montant du compte de dividendes en capital d’assurance-vie de la société immédiatement avant le 24 mai 1985, sur le total des dividendes en capital devenus payables par la société après le début de la période et avant le moment donné;
+f) le total des montants représentant chacun un montant relatif à une attribution qu’une fiducie a effectuée sur ses gains en capital en faveur de la société au cours de la période et dont le montant est égal au moins élevé des montants suivants :
+(i) l’excédent éventuel du montant visé à la division (A) sur le montant visé à la division (B):
+(A) le montant de l’attribution,
+(B) le montant que la fiducie a attribué à la société en application du paragraphe 104(21) (sauf s’il s’agit d’une attribution à laquelle le paragraphe 104(21.4) s’applique) sur ses gains en capital imposables nets qui sont imputables aux gains en capital en question,
+(ii) le montant obtenu par la formule suivante :
+A × B
+où :
+A
+représente le nombre entier ou la fraction obtenu lorsque 1 est soustrait de l’inverse de la fraction figurant à l’alinéa 38a) qui s’applique à la fiducie pour l’année,
+B
+B le montant mentionné à la division (i)(B),
+g) le total des montants représentant chacun un montant relatif à une attribution qu’une fiducie a effectuée en faveur de la société au cours de la période au titre d’un dividende (sauf un dividende imposable) qui a été versé à la fiducie au cours d’une année d’imposition de celle-ci tout au long de laquelle elle a résidé au Canada, sur une action du capital-actions d’une autre société résidant au Canada, et dont le montant est égal au moins élevé des montants suivants :
+(i) le montant de l’attribution,
+(ii) le montant que la fiducie a attribué à la société en application du paragraphe 104(20) au titre du dividende,
+Les fiducies et leurs bénéficiaires
+Fiducie ou succession
+104(1) Dans la présente loi, la mention d’une fiducie ou d’une succession (appelées « fiducie » à la présente sous-section) vaut également mention, sauf indication contraire du contexte, du fiduciaire, de l’exécuteur testamentaire, de l’administrateur successoral, du liquidateur de succession, de l’héritier ou d’un autre représentant légal ayant la propriété ou le contrôle des biens de la fiducie. Toutefois, sauf pour l’application du présent paragraphe, du paragraphe (1.1), du sous-alinéa b)(v) de la définition de disposition au paragraphe 248(1) et de l’alinéa k) de cette définition, l’arrangement dans le cadre duquel il est raisonnable de considérer qu’une fiducie agit en qualité de mandataire de l’ensemble de ses bénéficiaires pour ce qui est des opérations portant sur ses biens est réputé ne pas être une fiducie, sauf si la fiducie est visée à l’un des alinéas a) à e.1) de la définition de fiducie au paragraphe 108(1).
+Impôt à titre de particulier
+104(2) Pour l’application de la présente loi, et sans que l’assujettissement du fiduciaire ou des représentants légaux à leur propre impôt sur le revenu en soit atteint, une fiducie est réputée être un particulier relativement aux biens de la fiducie; mais lorsqu’il existe plus d’une fiducie et que :
+Fiducie d’investissement à participation unitaire
+108(2) Pour l’application de la présente loi, une fiducie est une fiducie d’investissement à participation unitaire à un moment donné si, à ce moment, elle est une fiducie non testamentaire dans laquelle chaque bénéficiaire possède une participation qui est définie par rapport aux unités de la fiducie, et si :
+a) soit les unités émises de la fiducie comprennent :
+(i) ou bien des unités qui comportent des conditions, entre autres celles exigeant que la fiducie accepte, à la demande du détenteur de ces unités et à un prix déterminé et payable conformément aux conditions fixées, de racheter les unités, ou les parties ou fractions de celles-ci, qui sont entièrement libérées,
+(ii) ou bien des unités qui satisfont à certaines conditions prescrites relatives au rachat des unités par la fiducie,
+et si la juste valeur marchande des unités qui comportent certaines conditions, entre autres celles qui sont mentionnées ci-dessus ou qui satisfont aux conditions susmentionnées, selon le cas, n’est pas inférieure à 95 % de la juste valeur marchande de toutes les unités émises de la fiducie (cette juste valeur marchande étant déterminée compte non tenu des droits de vote afférents aux unités de la fiducie);
+Exonération d’impôt d’une fiducie régie par le régime
+146(4) Sous réserve du paragraphe (10.1), aucun impôt n’est payable en vertu de la présente partie par une fiducie sur son revenu imposable pour une année d’imposition si, tout au long de la période de l’année où la fiducie existait, elle était régie par un régime enregistré d’épargne-retraite; toutefois :
+a) si la fiducie a emprunté de l’argent (autre que de l’argent utilisé pour l’exploitation d’une entreprise) au cours de l’année ou a emprunté, après le 18 juin 1971, de l’argent (autre que de l’argent utilisé pour l’exploitation d’une entreprise) qu’elle n’a pas remboursé avant le début de l’année, un impôt est payable par la fiducie, en vertu de la présente partie, sur son revenu imposable pour l’année;
+b) dans tout cas non visé à l’alinéa a), si la fiducie a exploité une ou plusieurs entreprises au cours de l’année, un impôt est payable par elle en vertu de la présente partie sur l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii):
+(i) le montant qui constituerait le revenu imposable de la fiducie pour l’année si elle n’avait pas tiré de revenu, ni subi de pertes de sources autres que l’entreprise ou les entreprises en question,
+(ii) la partie du montant déterminé selon le sous-alinéa (i) à l’égard de la fiducie pour l’année, qu’il est raisonnable de considérer comme un revenu provenant soit de placements admissibles pour elle, soit de la disposition de tels placements;
+c) si le dernier rentier en vertu du régime est décédé, un impôt est payable par la fiducie en vertu de la présente partie sur son revenu imposable pour chaque année postérieure à l’année suivant l’année du décès de ce rentier.
+Prestations imposables
+146(8) Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite, à l’exception des retraits exclus au sens des paragraphes 146.01(1) ou 146.02(1), et des montants qui sont inclus, en application de l’alinéa (12)b), dans le calcul de son revenu.
+Cotisation
+152(1) Le ministre, avec diligence, examine la déclaration de revenu d’un contribuable pour une année d’imposition, fixe l’impôt pour l’année, ainsi que les intérêts et les pénalités éventuels payables et détermine (…)
+Responsabilité indépendante de l’avis
+152(3) Le fait qu’une cotisation est inexacte ou incomplète ou qu’aucune cotisation n’a été faite n’a pas d’effet sur les responsabilités du contribuable à l’égard de l’impôt prévu par la présente partie.
+Cotisation et nouvelle cotisation
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l’année;
+Présomption de validité de la cotisation
+152(8) Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d’une opposition ou d’un appel fait en vertu de la présente partie et sous réserve d’une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s’y rattachant en vertu de la présente loi.
+Faux énoncés ou omissions
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+Obligations du ministre
+165(3) Sur réception de l’avis d’opposition, le ministre, avec diligence, examine de nouveau la cotisation et l’annule, la ratifie ou la modifie ou établit une nouvelle cotisation. Dès lors, il avise le contribuable de sa décision par écrit.
+Irrégularités
+166 Une cotisation ne peut être annulée ni modifiée lors d’un appel uniquement par suite d’irrégularité, de vice de forme, d’omission ou d’erreur de la part de qui que ce soit dans l’observation d’une disposition simplement directrice de la présente loi.
+Impôt supplémentaire sur les excédents résultant d’un choix
+184(2) La société qui fait un choix en vertu du paragraphe 83(2), 130.1(4) ou 131(1) relativement au montant total d’un dividende payable par elle sur des actions d’une catégorie de son capital-actions doit payer, au moment du choix, un impôt en vertu de la présente partie égal aux 3/4 de l’excédent éventuel du montant total du dividende sur la partie de celui-ci réputée, selon l’un de ces paragraphes, être un dividende en capital ou un dividende sur les gains en capital.
+Choix de considérer l’excédent comme un dividende distinct
+184(3) Lorsque, à l’égard d’un dividende payable à un moment donné après 1971, une société serait, sans le présent paragraphe, tenue de paye un impôt, en vertu de la présente partie, égal à la totalité ou à une partie de l’excédent visé au paragraphe (2) du présent article ou au paragraphe 184(1) de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, elle peut choisir selon les modalités réglementaires au plus tard un jour qui tombe dans les 90 jours suivant le dernier en date du 15 décembre 1977 et du jour de la mise à la poste de l’avis de cotisation relatif à l’impôt qui serait par ailleurs payable en vertu de la présente partie, et si elle exerce un tel choix, sous réserve du paragraphe (4), les règles suivantes s’appliquent :
+a) la partie du montant total du dividende qui dépasse l’excédent est réputée, aux fins du choix que la société a fait relativement à ce dividende en vertu du paragraphe 83(2), 130.1(4) ou 131(1) de la présente loi ou du paragraphe 83(1) de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, et à toutes autres fins prévues par la présente loi, être le montant total d’un dividende distinct qui est devenu payable au moment donné;
+b) la partie de l’excédent que peut déduire la société est réputée, aux fins d’un choix y relatif en vertu du paragraphe 83(2), 130.1(4) ou 131(1) de la présente loi ou du paragraphe 83(1) de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, et, en cas d’un tel choix par la société, à toutes fins prévues par la présente loi, être le montant total d’un dividende distinct qui est devenu payable immédiatement après le moment donné;
+c) le montant de l’excédent qui est en sus de la partie du dividende qui, en vertu de l’alinéa b), est réputée être un dividende distinct pour l’application de la présente loi est réputé être un dividende distinct imposable qui est devenu payable au moment donné;
+d) chacune des personnes qui détenaient des actions émises de la catégorie d’actions du capital-actions de la société sur laquelle le montant global du dividende a été versé est réputée :
+(i) n’avoir reçu aucune partie du dividende,
+(ii) avoir reçu, au moment du versement du dividende, la fraction de tout dividende distinct déterminé en vertu de l’alinéa a), b) ou c) qui est représentée par le rapport entre le nombre d’actions de cette catégorie qu’elle détenait au moment du versement du dividende et le nombre d’actions de cette catégorie qui étaient en circulation à ce moment; toutefois, pour l’application de la partie XIII, un dividende distinct qui est un dividende imposable, un dividende en capital ou un dividende en capital d’assurance-vie est réputé avoir été versé le jour de l’exercice du choix en vertu du présent paragraphe.
+Dispositions applicables
+185(3) Les paragraphes 152(3), (4), (5), (7) et (8) et 161(11), les articles 163 à 167 et la section J de la partie I s’appliquent à la présente partie, avec les adaptations nécessaires.
+Impôt relatif aux régimes de revenu différé et à d’autres personnes exonérées d’impôt
+Impôt payable par les fiducies régies par des régimes enregistrés d’épargne-retraite
+207.1(1) La fiducie régie par un régime enregistré d’épargne-retraite et qui, à la fin d’un mois donné, détient des biens qui ne sont ni un placement admissible (au sens du paragraphe 146(1)) ni une police d’assurance-vie à l’égard de laquelle, sans le paragraphe 146(11), le paragraphe 146(10) aurait été applicable à la suite de son acquisition doit payer, pour ce mois, en vertu de la présente partie, un impôt égal à 1 % de la juste valeur marchande des biens au moment où ils ont été acquis par la fiducie, de tous ces biens qu’elle détient à la fin du mois, autres que :
+a) les biens dont la juste valeur marchande a été incluse, en vertu du paragraphe 146(10), dans le calcul du revenu, pour une année donnée, d’un rentier (au sens du paragraphe 146(1)) en vertu du régime;
+b) les biens acquis par la fiducie avant le 25 août 1972.
+Évitement fiscal
+Définitions
+245(1) Les définitions qui suivent s’appliquent au présent article.
+attribut fiscal S’agissant des attributs fiscaux d’une personne, revenu, revenu imposable ou revenu imposable gagné au Canada de cette personne, impôt ou autre montant payable par cette personne, ou montant qui lui est remboursable, en application de la présente loi, ainsi que tout montant à prendre en compte pour calculer, en application de la présente loi, le revenu, le revenu imposable, le revenu imposable gagné au Canada de cette personne ou l’impôt ou l’autre montant payable par cette personne ou le montant qui lui est remboursable. (tax consequences)
+avantage fiscal Réduction, évitement ou report d’impôt ou d’un autre montant exigible en application de la présente loi ou augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi. Y sont assimilés la réduction, l’évitement ou le report d’impôt ou d’un autre montant qui serait exigible en application de la présente loi en l’absence d’un traité fiscal ainsi que l’augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi qui découle d’un traité fiscal. (tax benefit)
+opération Sont assimilés à une opération une convention, un mécanisme ou un événement. (transaction)
+Disposition générale anti-évitement
+245(2) En cas d’opération d’évitement, les attributs fiscaux d’une personne doivent être déterminés de façon raisonnable dans les circonstances de façon à supprimer un avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, de cette opération ou d’une série d’opérations dont cette opération fait partie.
+Opération d’évitement
+245(3) L’opération d’évitement s’entend :
+a) soit de l’opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable;
+b) soit de l’opération qui fait partie d’une série d’opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable.
+Application du par. (2)
+245(4) Le paragraphe (2) ne s’applique qu’à l’opération dont il est raisonnable de considérer, selon le cas :
+a) qu’elle entraînerait, directement ou indirectement, s’il n’était pas tenu compte du présent article, un abus dans l’application des dispositions d’un ou de plusieurs des textes suivants :
+(i) la présente loi,
+(ii) le Règlement de l’impôt sur le revenu,
+(iii) les Règles concernant l’application de l’impôt sur le revenu,
+(iv) un traité fiscal,
+(v) tout autre texte législatif qui est utile soit pour le calcul d’un impôt ou de toute autre somme exigible ou remboursable sous le régime de la présente loi, soit pour la détermination de toute somme à prendre en compte dans ce calcul;
+b) qu’elle entraînerait, directement ou indirectement, un abus dans l’application de ces dispositions compte non tenu du présent article lues dans leur ensemble.
+Attributs fiscaux à déterminer
+245(5) Sans préjudice de la portée générale du paragraphe (2) et malgré tout autre texte législatif, dans le cadre de la détermination des attributs fiscaux d’une personne de façon raisonnable dans les circonstances de façon à supprimer l’avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, d’une opération d’évitement :
+a) toute déduction, exemption ou exclusion dans le calcul de tout ou partie du revenu, du revenu imposable, du revenu imposable gagné au Canada ou de l’impôt payable peut être en totalité ou en partie admise ou refusée;
+b) tout ou partie de cette déduction, exemption ou exclusion ainsi que tout ou partie d’un revenu, d’une perte ou d’un autre montant peuvent être attribués à une personne;
+c) la nature d’un paiement ou d’un autre montant peut être qualifiée autrement;
+d) les effets fiscaux qui découleraient par ailleurs de l’application des autres dispositions de la présente loi peuvent ne pas être pris en compte.
+Disposition
+248(1) disposition constitue notamment une disposition de bien, sauf indication contraire expresse :
+a) toute opération ou tout événement donnant droit au contribuable au produit de disposition d’un bien;
+b) toute opération ou tout événement par lequel, selon le cas :
+(i) une action, une obligation, un billet, un certificat, une hypothèque, une convention de vente ou un autre bien semblable, ou un droit y afférent, est racheté en totalité ou en partie ou est annulé,
+(ii) une créance ou un autre droit de recevoir une somme est réglé ou annulé,
+(iii) une action est convertie par suite d’une fusion ou d’une unification,
+(iv) une option concernant l’acquisition ou la disposition d’un bien expire,
+(v) une fiducie, à l’égard de laquelle il est raisonnable de considérer qu’elle agit à titre de mandataire pour l’ensemble de ses bénéficiaires en toute matière liée à ses biens (sauf si elle est visée à l’un des alinéas a) à e.1) de la définition de fiducie au paragraphe 108(1)), cesse d’agir à ce titre pour l’un de ses bénéficiaires en toute matière liée à ses biens;
+c) tout transfert de bien à une fiducie ou tout transfert de bien d’une fiducie à un bénéficiaire de celle-ci, sauf disposition contraire aux alinéas f) ou k);
+d) si le bien est la participation d’un contribuable au capital d’une fiducie, ou une partie d’une telle participation, sauf disposition contraire aux alinéas h) et i), un paiement de la fiducie effectué au contribuable après 1999 qu’il est raisonnable de considérer comme ayant été effectué en raison de la participation du contribuable au capital de la fiducie.
+Ne constitue pas une disposition de bien :
+e) tout transfert de bien qui n’a pas pour effet de changer la propriété effective du bien, sauf si le transfert est effectué, selon le cas :
+(i) d’une personne ou d’une société de personnes à une fiducie au profit de la personne ou de la société de personnes,
+(ii) d’une fiducie à son bénéficiaire,
+(iii) d’une fiducie administrée au profit d’un ou de plusieurs de ses bénéficiaires à une autre fiducie administrée au profit des mêmes bénéficiaires;
+f) tout transfert de bien qui n’a pas pour effet de changer la propriété effective du bien, dans le cas où, à la fois :
+(i) le cédant et le cessionnaire sont des fiducies,
+(ii) le transfert n’est pas effectué par une fiducie résidant au Canada en faveur d’une fiducie non-résidente,
+(iii) le cessionnaire ne reçoit pas le bien en règlement de son droit à titre de bénéficiaire de la fiducie cédante,
+(iv) le cessionnaire ne détenait aucun bien immédiatement avant le transfert (sauf des biens dont le coût n’est pas inclus, pour l’application de la présente loi, dans le calcul d’un solde de dépenses ou d’autres montants non déduits à l’égard du cessionnaire),
+Sens de impôt payable
+248(2) Dans la présente loi, l’impôt payable par un contribuable, conformément à toute partie de la présente loi prévoyant une imposition, désigne l’impôt payable par lui, tel que le fixe une cotisation ou nouvelle cotisation, sous réserve éventuellement de changement consécutif à une opposition ou à un appel, d’après les dispositions de cette partie.
+ANNEX B
+[1] The Appellants tendered into evidence the expert report (the “Report”) of Alan B. Martyszenko, an accredited Chartered Business Valuator and member of the Canadian Institute of Chartered Business Valuators.
+[2] He purported to answer the following two questions:
+Whether in his opinion the acquisition by FULP of the 8M units of FMO from the public unitholders would affect the fair market value of those units, and if so, what the effect would be?
+Whether in his opinion the subsequent acquisition of those units by the Appellants would affect the fair market value of the units, and if so, what the effect would be?
+[3] The Report answered that the acquisition of the 8M units of FMO by FULP did not affect the fair market value of the units and that the subsequent acquisition of those units by the Appellants, also did not affect their fair market value.
+[4] At the hearing, the Court indicated that it would reserve on the admissibility of the Report. For reasons set out below, the Court finds that the Report is inadmissible because it is not relevant or necessary and because its probative value is overborne by it prejudicial effect. Alternatively, the Court concludes that the Report should be given little or no weight.
+[5] The recognized test for the admissibility of expert opinion evidence is a two-step test as set out by the Supreme Court of Canada in White Burgess Langille Inman v. Abbott and Haliburton Co., 2015 SCC 23 (“White Burgess”) that confirms the common law principles previously described by the Supreme Court of Canada in R. v. Mohan, [1994] 2 SCR 9 (“Mohan”).
+[6] The first step of the test requires that the party seeking to adduce the proposed expert evidence establish that it satisfies the following four threshold requirements, also known as the “Mohan factors”:
+- Relevance;
+- Necessity in assisting the trier of fact;
+- The absence of any exclusionary rule; and
+- A properly qualified expert.
+[7] The second step is viewed as a discretionary gatekeeper function and requires that the trial judge conduct a cost-benefit analysis to determine if otherwise admissible expert evidence should be excluded because its probative value is overborne by its prejudicial effect. The trial judge must consider such things as consumption of time, prejudice and the risk of causing confusion.
+[8] The context of the first step, the Respondent has conceded that the Report is relevant because it relates to the Minister’s assumption that once the FMO units held by the public unitholders had been exchanged for the new units of FIF, they were worthless and the acquisition of those units by the Appellants in exchange for a demand promissory note of $114 million was a sham and a misrepresentation.
+[9] The Respondent has also accepted that Mr. Martyszenko was a properly qualified expert but has taken the position that he expressed a “non-valuation opinion”. It is argued that the Report is not “a type of valuation report recognized by the Canadian Institute of Chartered Business Valuators” since it does not purport to opine “on the fair market value of the FMO units or the FIF units”. In fact, it is argued that the value of those units was assumed and based on the trading value or “weighted average trading price” of the units on the Toronto Stock Exchange. Moreover, the effective date was assumed to be January 3, 2006 when the evidence established that the transactions in question had occurred on December 28, 2005.
+[10] The Respondent challenges the Report on the basis of necessity. It is argued that an expert report must deal with a subject-matter that ordinary people are unlikely to form a correct judgment about without assistance. It is argued that the evidence must be more than just helpful, it must be necessary for the trier of fact to appreciate the technical nature of matters in issue: RIS–Christie v. her Majesty the Queen [1999] 1 CTC 132(FCA) (para 12).
+[11] It is argued that the Report does not address the fair market value of the FMO units, being Mr. Martyszenko’s area of expertise, but rather any change to their fair market value in relation to the trading data on the Toronto Stock Exchange, and that this involves a comparative analysis that is within the realm of the trier of fact’s ordinary experience. It is also argued that the expert had access to less information than the trier of fact and that he lacked appropriate context in that he was not aware of the FMO reorganization or Information Circular.
+[12] In the context of the second step that relates to the Court’s gatekeeping functions, it is argued that the Report should be excluded because “its prejudicial effect outweighs its probative value.” It is argued that even if the Report is relevant, it should be excluded “because the opinions expressed (…) will distort the Court’s fact finding process.”
+[13] Moreover, it is argued that the Report is misleading, biased and not reliable.
+[14] It is argued that the Report is ‘misleading’ because it “was not any of the three types of valuation reports” recognized by the expert’s professional body; it was not a report “determining the fair market value of a security” and it was not “a limited critique report” as described by the guidelines. It is argued that it was only in cross-examination that the expert opined that his Report might be one “that determined a conclusion of a financial nature in the course of litigation.”
+[15] It is argued that the Report is biased because the expert failed or refused to consider variances in the facts alleging that he had not been provided with the relevant financial statements or documentation. In particular, it is alleged that he failed to consider “whether the market value of the Old FMO units would be affected if its underlying assets of FVT were sold leaving Old FMO with no assets” or “whether the Old FMO units’ value would be affected if it was known that they were exchanged for New FIF units” or “whether the value of Old FMO units would be affected if it was known that FMO was delisted on December 28, 2005 and that there was no public market for those FMO units” and finally “whether the value of the FMO units would change if the evidence established that Mr. Grenon did not have the financial means to support the guarantee”. On the basis of the expert’s refusal to adequately respond to these queries, it is argued that he was no longer impartial or objective and that he was really an advocate for the Appellants.
+[16] It is argued that the Report is not reliable because the Appellants “did not establish some key factual assumptions which he was directed to rely upon in providing his opinion” notably the price history for the stock symbol (FMO.UN.T) or whether Grenon had the financial wherewithal to support the guarantees.
+[17] On the basis of the foregoing, it is argued that the Report is not admissible, that the evidence is not necessary, that it is based on facts that were not proven and that its prejudicial effect far outweighs any probative value. If it is admitted into evidence, it is argued that it should be ascribed little weight.
+[18] The Appellants have taken the position that the conclusions reached in the Report are “uncontroverted and uncontroversial”.
+Analysis and Conclusion
+[19] I find that there are good reasons to conclude that the Report is inadmissible.
+[20] The Report was only relevant to two steps in a complex series of transactions that occurred on December 28, 2005. Despite the Respondent’s concession, I am not convinced that the term “relevant” is satisfied in these circumstances.
+[21] Secondly, it cannot be said that the Report was “necessary to assist the trier of fact”, again because it only addressed two isolated steps of the FMO reorganization and because the expert was not provided with certain key documents including the Information Circular. As a result he lacked proper context in the analysis that was carried out. The Court is left with the impression, rightly or wrongly, that the expert assumed that the subject reorganization involved a simple one-for-one exchange of the old FMO units for new FIF units that continued to trade on the Toronto Stock Exchange under the same ticker symbol without any change in the underlying assets. In particular, the expert admitted that he had no knowledge of FVT such that the Court is left wondering whether he understood that FVT and its underlying assets would be transferred to TOM.
+[22] I also agree with the Respondent that the Report is misleading, potentially biased and unreliable. I find that it is a distraction for the Court since it seeks to give credence to a few isolated steps without considering the FMO reorganization as a whole.
+[23] If I am wrong in concluding that the Report is inadmissible having regard to the so-called Mohan factors, I find that the prejudicial effect of the Report far outweighs any probative value it may have and I attach no weight to it.
+ANNEX C
+CITATION:
+2021 TCC 42
+COURT FILE NO.:
+2017-486(IT)G;
+2017-605(IT)G;
+2017-606(IT)G
+STYLE OF CAUSE:
+MAGREN HOLDINGS LTD. v. HER MAJESTY THE QUEEN
+AND BETWEEN:
+2176 INVESTMENTS LTD. (as successor to Grencorp Management Inc., successor to 994047 Alberta Ltd.) v. HER MAJESTY THE QUEEN
+AND BETWEEN:
+MAGREN HOLDINGS LTD. (Successor by amalgamation to 1052785 Alberta Ltd.) v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+February 11, 12, 13, 14, 15, 18, 19, 20, 21, 22, 2019 and September 9, 10, 11, 12, 13, 2019.
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+June 24, 2021
+DATE OF AMENDED JUDGMENT:
+April 1, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Cy M. Fien
+Brandon Barnes Trickett
+Ari M. Hanson
+Aron W. Grusko
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Tanis Halpape
+Christopher Kitchen
+Jeremy Tiger
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Cy M. Fien
+Brandon Barnes Trickett
+Ari M. Hanson
+Aron W. Grusko
+Firm:
+Fillmore Riley LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] “As of July 2010, the rate of tax imposed by subsection 184(2) is also changed, as part of a series of amendments that reflect recent and planned reductions in tax rates. The rate is reduced from 75% of the excess capital gains dividend to 60% of the excess”: Amended by Technical Tax Amendments Act, 2012 S.C. 2013, c.34, s. 184(2).
+[2] The System for Electronic Disclosure by Insiders (SEDI) is Canada’s online, browser based service for the filing and viewing of insider reports as required by various provincial securities rules and regulations. SEDI replaces paper-based reporting and is intended to provide an efficient disclosure process. Source: SEDI database “Welcome to SEDI”, SEDI Bulletin (June 2021), online: https://www.sedi.ca/sedi/SVTWelcome.

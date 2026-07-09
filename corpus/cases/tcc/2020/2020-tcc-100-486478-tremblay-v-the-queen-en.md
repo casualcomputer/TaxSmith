@@ -1,0 +1,334 @@
+---
+title: "Tremblay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/486478/index.do"
+last_modified: "2020-10-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 100"
+citation2: ""
+neutral_citation: "2020 TCC 100"
+decision_date: "2020-10-05"
+language: "en"
+item_id: "486478"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4570
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:02:37.706000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "03b347c7b2adc48ade3bf7f7a3b2e4f3bfcf399dbdab6d77f7b061abd5faffe4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay v. The Queen
+
+- Citation: 2020 TCC 100
+- Decision date: 2020-10-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4570, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-10-05
+Neutral citation
+2020 TCC 100
+File numbers
+2016-4530(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4530(IT)G
+BETWEEN:
+RICHARD TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 16, 2019, at Montreal, Quebec.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the appellant:
+Mathieu Angers
+Counsel for the respondent:
+Mounes Ayadi
+JUDGMENT
+The appeal from the reassessments made pursuant to the Income Tax Act for the 2010, 2011, 2012 and 2013 taxation years is dismissed, with costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 5th day of October 2020.
+"Sylvain Ouimet"
+Ouimet, J.
+Translation certified true
+on this 19th day of April 2021.
+François Brunet, Revisor
+Citation: 2020 TCC 100
+Date: 20201005
+Docket: 2016-4530(IT)G
+BETWEEN:
+RICHARD TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Ouimet, J.
+I. INTRODUCTION
+[1] Richard Tremblay (Mr. Tremblay) is appealing from the reassessments made on November 27, 2014 and March 9, 2015. With these reassessments, the Minister of National Revenue (the Minister) did not allow Mr. Tremblay to claim deductions for business losses incurred in the years 2010 to 2013 inclusively (the years in issue). Mr. Tremblay's company's business involved marketing for Stabiox, a technology for processing municipal and industrial sewage sludge (Stabiox technology). The losses incurred by this company during the years in issue include:
+Year
+Business losses
+2010
+$50,850
+2011
+$74,614
+2012
+$59,855
+2013
+$48,341
+[2] Counsel for the respondent submitted that the Minister did not allow the deduction for all expenses related to Mr. Tremblay's business because the company was not yet in operation. Consequently, and for this reason, the Minister additionally did not allow the deduction for all of Mr. Tremblay's business losses.
+[3] Alternatively, counsel for the respondent submitted that, should the Court conclude that Mr. Tremblay was operating a business during the years in issue, some business expenses should not be deductible on any of the following grounds:
+1. The expenses were not incurred to earn income from a business because they were personal expenses. Consequently, pursuant to paragraphs 18(1)(a) and (18)(1)(h) of the Income Tax Act [1] (the Act), they were not deductible.
+2. The expenses were not reasonable under the circumstances. Consequently, they were not deductible pursuant to section 67 of the Act.
+[4] According to the assumption of facts by the Minister to determine Mr. Tremblay's tax payable, the expenses that are not deductible for any of the above-mentioned reasons include:
+Expenses
+2010
+2011
+2012
+2013
+Office expenses
+$200.35
+$193.01
+$800.40
+$465.70
+Supplies
+$717.87
+$625.88
+$138.43
+$28.92
+Meal costs
+$94.22
+$207.07
+$310.67
+$532.89
+Vehicle expenses
+$6,299.91
+$5,551.67
+$4,748.38
+$3,311.80
+Travel and transportation expenses
+$2,130.36
+$3,340.32
+$4,679.33
+$1,911.71
+Rent
+$7,638.75
+$6,737.25
+$8,965.80
+$10,619.00
+Telephone charges
+$1,702.69
+$1,819.83
+$1,727.20
+$1,727.83
+Accounting and professional fees
+$3,121.36
+$9,875.00
+$0
+$229.95
+Capital cost allowance for the Stabiox technology and a motor vehicle
+$29,953.60
+$46,496.12
+$3,767.75
+$28,956.46
+[5] Richard Tremblay testified during the hearing.
+[6] The respondent did not call any witnesses at the hearing.
+I. ISSUES
+[7] This case raises the following issues:
+1. Did the Minister correctly denied the deduction of all expenses related to Mr. Tremblay's business for each of the years in issue?
+2. Did the Minister correctly denied the deduction of all losses related to Mr. Tremblay's business for each of the years in issue?
+[8] To answer these questions, the Court will have to answer the following four questions:
+1. During the years in issue, did Mr. Tremblay have a source of business income?
+2. Were the expenses that Mr. Tremblay asked to be deducted incurred to earn income from his business?
+3. Were these personal expenses?
+4. Were these expenses reasonable under the circumstances?
+II. RELEVANT LEGISLATION
+[9] The relevant statutory provisions are as follows:
+Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.)
+9. (1) Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+(2) Subject to section 31, a taxpayer's loss for a taxation year from a business or property is the amount of the taxpayer's loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+. . .
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+. . .
+(h) personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer's business;
+. . .
+67. In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+III. FACTS
+A. Background
+[10] Mr. Tremblay is a process engineer with over 25 years' experience. Over the course of his career, Mr. Tremblay participated in developing new products and new technologies related to the mining, oil and metal industry.
+[11] In 2002, Mr. Tremblay was hired as a consultant for a company called Biolix (Biolix). As part of his duties, he participated in developing a technology for chemically processing municipal and industrial sewage sludge named Stabiox. According to Mr. Tremblay, the advantage of this technology is that it allows sludge to be processed with chemicals at a lower cost than alternative methods. The residual sludge can also be used as fertilizer. As a result, according to Mr. Tremblay, this technology is more environmentally friendly and less expensive than conventional processing methods.
+[12] Before leaving Biolix in 2006, Mr. Tremblay worked on marketing the Stabiox technology to the pulp and paper industry. At that time, Biolix's clients in that industry consisted of pulp and paper mills.
+[13] In 2006, Mr. Tremblay began working for SNC-Lavalin. During that period, Mr. Tremblay initiated legal action against Biolix to recover the consultation fees that the company owed him. As a result of this legal action, in 2009, after Biolix went bankrupt, Mr. Tremblay acquired ownership of the patents related to the Stabiox technology. At that time or possibly beforehand—Mr. Tremblay's testimony was not clear on the matter—Mr. Tremblay identified three main groups of potential clients to whom he thought he could sell the Stabiox technology. They included municipalities, companies in the pulp and paper industry and companies in the agri-food industry.
+[14] Mr. Tremblay explained that the implementation of the Stabiox technology required only very little equipment to be implemented. Its operation could be easily demonstrated to potential clients because it consists simply of adding chemical products during the sludge treatment process already used by potential clients. Consequently, Mr. Tremblay could give demonstrations alone at potential clients' establishments.
+[15] Throughout 2010, Mr. Tremblay's Stabiox technology marketing efforts were focused on municipalities. Mr. Tremblay explained that he knew people who worked for certain municipalities. He was therefore able to contact them for the purpose of selling the Stabiox technology to those municipalities. That said, in most cases, his marketing strategy consisted of contacting the municipal councillor for the district where the sludge treatment plant was located or contacting the technical director of the plant. His goal was to identify the person responsible for sludge treatment for the municipality so he could then contact that person and then potentially be able to meet with him or her. Thus, he could market the Stabiox technology directly to the user. After these meetings, Mr. Tremblay left his potential clients with a "scientific" article that was easy to read and, occasionally, a PowerPoint presentation summarizing the advantages of the Stabiox technology.
+[16] According to Mr. Tremblay, this kind of approach required him to spend a lot of time on the phone. In particular, he said that he followed this kind of approach with the municipalities of Montreal, Longueuil, Quebec City, Lévis, Sainte‑Julie, Repentigny and Victoriaville. Mr. Tremblay admitted that most of the municipalities he contacted had no urgent sludge treatment issues requiring them to use an alternative method, and that those that did have issues had already begun taking steps to resolve them. It appears that some municipalities also told Mr. Tremblay that his technology had not been proven sufficiently for them to consider it an alternative method.
+[17] During 2010 or 2011, Mr. Tremblay worked with patent agents to determine the countries for which he wanted to obtain a patent. He decided to take steps to obtain patents for Canada, the United States, France, Germany and England. He also mentioned working with "researchers" to be able to provide "explanations" to patent agents about "disputes" related to the patents.
+[18] In 2011, Mr. Tremblay decided to focus his marketing efforts on companies in the composting and agri-food industries. He was anticipating upcoming changes to environmental regulations that could generate interest in the Stabiox technology for these companies.
+[19] In 2011, Mr. Tremblay participated in the "Americana" convention. His goal was to meet clients and potential partners there. During the convention, he became acquainted with company representatives for GSI and Englobe. After the conference wrapped up, discussions were held with both companies, but they ultimately told Mr. Tremblay that they were not interested in the Stabiox technology. That same year, Mr. Tremblay began collaborating with the company Terratube. At the time, this French company was producing enormous bags containing polymer that could, to a certain extent, replace wastewater treatment ponds. Terratube products were also being used to treat sludge from slaughterhouses. The sludge was spread in fields as fertilizer but had a foul odour. As to a collaboration with Terratube, Mr. Tremblay was considering possibilities for the Stabiox technology in slaughterhouses. Trials were conducted in Olymel slaughterhouses. Mr. Tremblay explained that the Stabiox technology could eliminate the foul odours emanating from the slaughterhouse sludge. Mr. Tremblay's goal was to use the Stabiox technology so that sludge could be spread over a longer period of time in the summer, even during heatwaves, without any odour issues. According to Mr. Tremblay, the results obtained for deodorization were very interesting but less conclusive for filtration purposes. Ultimately, the potential clients contacted by Mr. Tremblay decided to opt for another method, namely building a plant to treat a large volume of sludge.
+[20] Mr. Tremblay then took it upon himself to contact pulp and paper mills. He met with Mr. Bélanger from the Papiers White Birch company, whose plant is located in Quebec City. According to Mr. Tremblay, the main draw of the Stabiox technology for this industry was that it could be used to reduce incineration costs for the company in addition to reducing odours. During their meeting, Mr. Tremblay gave Mr. Bélanger a scientific article that he had not written himself targeting the pulp and paper industry along with a modified version of his 2010 PowerPoint presentation. [2]
+[21] In December 2011, a fire damaged Mr. Tremblay's main residence and he did not move back home until April 2012. As a result, Mr. Tremblay did not have a lot of time or energy to spend on his business activities. Furthermore, in 2012 Mr. Tremblay's marketing activities slowed down as a result of disputes pertaining to certain patents. Mr. Tremblay focused his efforts on the initiatives he had already undertaken.
+[22] In 2013, Mr. Tremblay learned that the City of Quebec was planning to install a new methanization plant within city limits. He saw this as an opportunity to market Stabiox to the municipal sector again, in particular to the cities of Quebec and Montreal. Mr. Tremblay, however, quickly realized that there was no business opportunity with the city of Montreal. As for the city of Quebec, Mr. Tremblay spoke with Mr. Fréchette and Mr. Dernais. Some interest was expressed, but he was told that he had to register as a lobbyist to be able to push discussions further. He contacted a law firm for this purpose and was told that he did not need to register as a lobbyist. At the same time, he continued to solicit companies in the pulp and paper industry, such as F.F. Soucy, Kruger and Cascades.
+[23] During the years in issue, Mr. Tremblay worked for SNC-Lavalin between 20 and 37.5 hours per week. The number work hours fluctuated weekly based on the projects he was working on. Mr. Tremblay said that, during those years, he spent 150 to 200 hours on each potential client but did not add anything further on the matter. Mr. Tremblay did not provide further details on the number of hours he spent daily, weekly or monthly marketing the Stabiox technology, either. Furthermore, Mr. Tremblay said that in the early years, he worked between 200 and 300 hours per year on patent applications. Mr. Tremblay's employment with SNC-Lavalin was terminated in 2013.
+B. Office expenses and supplies
+[24] According to Mr. Tremblay's testimony, the office expenses were incurred to pay for office supplies required to prepare presentations for potential clients.
+C. Meal costs
+[25] According to Mr. Tremblay's testimony, meal costs were incurred for meals eaten alone on the bus during travel between Quebec City and Montreal.
+D. Vehicle expenses
+[26] According to Mr. Tremblay's testimony, he solicited potential clients by phone and by email. He said that he sometimes travelled to potential clients' establishments to give a presentation or provide an on-site demonstration. He also said that he had to travel to meet with patent agents and researchers. Mr. Tremblay said that he used a Dodge Caravan to travel to potential clients. The van was very useful when he had to travel to potential clients' plants to meet with them because he had to transport his own protective equipment, which included a helmet and boots as well as containers to take samples. He also sometimes had to transport five-gallon containers, tarpaulins and a few chemicals. Transporting these chemicals left an odour in the van, but he was used to it. Mr. Tremblay did not keep records of his numerous business trips.
+[27] Although Mr. Tremblay also had two other vehicles, namely a Hyundai Sonata and a Hyundai Accent, he testified that he used his van for business only.
+E. Travel and transportation expenses
+[28] Mr. Tremblay said that his transportation expenses were incurred to take the bus from Quebec City to Montreal for his business. Mr. Tremblay said that he used the bus to avoid arriving late in winter because the weather was not nice. He added that he used the bus to avoid the risk of a deer-related accident in the spring.
+F. Telephone charges
+[29] Mr. Tremblay told the Court that his telephone expenses were related to his cell phone use and the phone line at his Montreal apartment. According to Mr. Tremblay, these expenses were incurred to run his business.
+G. Expenses related to the Montreal apartment
+[30] Mr. Tremblay explained to the Court that he rented an apartment in Montreal to store the Stabiox archives he had obtained from Biolix. He explained that he made this choice so that he could sort the archives there and because the documents were being held by a trustee in Montreal. He explained that had he not rented an apartment in Montreal to do this, he would have had to transport the archives to Quebec City by truck. As for the number of boxes in question, Mr. Tremblay said that there were several boxes. He also justified this choice on the basis that he was looking for business partners. He had [translation] "targeted certain engineering-consulting firms that were very powerful or prominent in the water processing industry" that were headquartered in Montreal, but he did not name them, however.
+[31] In his amended tax returns, Mr. Tremblay indicated that he used the apartment to run his business 75% of the time in 2010, 65% in 2011, 85% in 2012 and 100% in 2013. Mr. Tremblay said that he used the apartment to sleep when he had to stay in the Montreal region for his job with SNC‑Lavalin. Under cross-examination, he admitted that he went to Montreal only rarely in 2013, whether it was for business or for his job with SNC-Lavalin.
+H. Accounting and professional fees
+[32] Mr. Tremblay explained to the Court the reason why he had to pay certain professional fees to run his business. According to his explanations, this consisted of fees paid to "accountants" related to "issues" that were mainly related to his "tax returns." Mr. Tremblay claimed that he had submitted two boxes of documents to the auditor that contained several invoices for fees paid.
+I. Capital cost allowance for the patent or patents related to the Stabiox technology, as well as for a motor vehicle
+[33] Mr. Tremblay explained that he valued the patent at $170,000 because that represented the amount due to him from Biolix. Mr. Tremblay provided the following explanation during his testimony, [translation] "Look, I'll put that down and we'll see what they say". [3] The matter of the requested motor vehicle deduction was not addressed during the hearing.
+IV. ANALYSIS
+[34] In this case, the Minister did not allow the deduction of all expenses related to Mr. Tremblay's business for each of the years in issue. According to counsel for the respondent, the business in question was not yet in operation. For this reason, the Minister concluded that Mr. Tremblay had no source of business income. For the same reason, the Minister did not allow deductions for the business losses that Mr. Tremblay incurred for each of the years in issue.
+[35] It is therefore appropriate to determine whether, in this case, Mr. Tremblay had a source of business income during the years in issue by reviewing the evidence presented during the hearing. This determination is required to apply section 9 of the Act. This provision of the Act sets out the basic rule for sources of income from a business or property. It also provides for business losses incurred by a taxpayer. Section 9 of the Act reads as follows:
+9. (1) Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+(2) Subject to section 31, a taxpayer's loss for a taxation year from a business or property is the amount of the taxpayer's loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+[Emphasis added.]
+[36] For the purposes of section 9 of the Act, the Supreme Court of Canada stated the following on the need to determine whether a taxpayer has a source of business income in Stewart v. Canada: [4]
+50 It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed . . .. [5]
+[Emphasis added.]
+1- During the years in issue, did Mr. Tremblay have a source of business income?
+a) Applicable law
+[37] In Stewart, [6] the Supreme Court of Canada set out a two-stage method to determine whether a taxpayer has a source of business or property income. Those two stages include:
+1- Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour? [7]
+2- If it is not a personal endeavour, is the source of the income a business or property? [8]
+[38] The purpose of the first stage of this method is to distinguish between a taxpayer's business and personal activities. [9] For the Court, this consists of determining whether the nature of the taxpayer's business includes one or more aspects (the word "elements" is also used in the case law) which suggest that it could be considered a hobby or other personal pursuit. [10]
+[39] The Supreme Court of Canada has likened a personal aspect to a "hobby element" [11] or "hobby". [12] In Tonn v. Canada, [13] the Federal Court of Appeal defined a personal element as an activity that provides a taxpayer with personal benefit or satisfaction, in particular psychologically. The relevant passage reads as follows,
+29 . . . The cases in which the "reasonable expectation of profit" test is employed can be placed into two groups. One group is comprised of the cases where the impugned activity has a strong personal element. These are the personal benefit and hobby type cases where a taxpayer has invested money into an activity from which that taxpayer derives personal satisfaction or psychological benefit. Such activities have included horse farms, Hawaii and Florida condominium rentals, ski chalet rentals, yacht operations, dog kennel operations, and so forth. . . .
+[Emphasis added.]
+[40] If it includes no personal element and is clearly commercial, the taxpayer's activity is considered a source of business or property income. In that case, no further inquiry is necessary and one could proceed to the second stage of the method. [14] However, when the activity contains a personal element, the Court must determine whether this activity was carried out in a sufficiently commercial manner to constitute a source of business or property income. [15] In this case, the taxpayer has the burden of establishing that his or her predominant intention was to make a profit from the activity and that the activity was carried out in accordance with objective standards of businesslike behaviour. [16] If that is the case, the activity is considered a source of business or property income for the purposes of the Act.
+[41] To determine whether an activity was carried out in a sufficiently commercial manner to constitute a source of business income, the Court must determine whether the taxpayer intended to carry out the activity to make a profit from it and whether there is evidence to substantiate that intention. The taxpayer must establish that his or her predominant intention was to make a profit from the activity and that the activity was carried out in accordance with objective standards of businesslike behaviour. [17] However, this assessment should not be used to second-guess the business judgment of the taxpayer. According to what the Supreme Court of Canada ruled in Stewart, it is the commercial nature of the taxpayer's activity which must be evaluated, not his or her business acumen. [18]
+[42] In this case, for the purposes of paragraph 18(1)(a) of the Act, the Court must also determine whether Mr. Tremblay had a source of business income during the years in issue. According to this provision, an expense is not deductible in computing the income of a taxpayer from a business except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business. Paragraph 18(1)(a) of the Act presupposes the existence of a source of income [19]
+18. (1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+[43] That said, should it conclude that Mr. Tremblay did not have a source of business income during the years in issue, the Court would have no need to further investigate and determine whether the expenses were incurred by Mr. Tremblay for the purpose of gaining or producing income from the business.
+b) Application of the law in this case
+[44] According to Mr. Tremblay's testimony, he acquired the rights to the Stabiox technology and tried to market it. The Court noted no personal aspect or element in the marketing initiatives undertaken by Mr. Tremblay. Nothing in the evidence presented at the hearing leads the Court to conclude that this activity was a hobby. There is no evidence indicating that the activity provided Mr. Tremblay with personal benefit or any personal satisfaction, psychological or otherwise.
+[45] Consequently, in this case the Court does not need to determine whether Mr. Tremblay's marketing efforts were carried out in accordance with objective standards of businesslike behaviour.
+[46] That said, based on the assumption of facts by the Minister, Mr. Tremblay's business was not yet in operation during the years in issue. Consequently, according to the Minister, this business could not have been a source of business income for Mr. Tremblay. According to the Minister, there was no activity demonstrating that Mr. Tremblay began running his business during the years in issue. In the light of this, to determine whether this assumption of fact was disproven, the Court must first of all determine whether the marketing activities were indeed carried out by reviewing the evidence presented by Mr. Tremblay at the hearing. In this case, however, upon reviewing this evidence, the Court finds it insufficient to disprove this assumption of fact by the Minister. The Court considers that no activity was carried out by Mr. Tremblay to run his business.
+[47] Mr. Tremblay described his activities related to marketing the Stabiox technology in his testimony. In fact, nearly all the evidence presented by Mr. Tremblay with regard to his marketing activities was limited to that testimony. It should be reiterated that testimony alone can be sufficient to establish facts. [20] This testimony does not need to be perfect, either. [21] It must be clear and uncontradicted, however.
+[48] In his testimony, Mr. Tremblay said that he contacted a few potential clients and reflected on a business plan that he planned to carry out. He said that he had also wanted to associate himself with a business partner and that he had conducted at least one test with a client with this potential partner. His attempts at marketing his technology appear to have not been very successful. Mr. Tremblay said that he took steps to obtain patent rights to be able to market the Stabiox technology abroad. He also said that he had acquired material necessary for conducting product demonstrations with potential clients.
+[49] The Court concluded that Mr. Tremblay's testimony alone was insufficient to establish that marketing activities had actually taken place. Even though this testimony was not contradicted, it lacked so much clarity and detail that it was not credible.
+[50] Mr. Tremblay's testimony was so vague about the marketing activities that he claimed to have carried out that the Court was unable to conclude that they likely had actually taken place. The following excerpts demonstrate the lack of detail in Mr. Tremblay's testimony.
+- When asked about the activities undertaken with the city of Lévis, Mr. Tremblay said the following:
+[translation] Lévis, I went there. I went there, again I met with... Uh, I went a bit farther, I even went into the plants, we promised to exchange samples . . . [22]
+- When asked about the cities that were considered potential clients, Mr. Tremblay said:
+[translation] Yes, I met with people, we talked, we exchanged calls, we wanted to see each other, we exchanged . . . documents that I had, interests . . .. [23]
+- When asked about the companies that were considered potential clients, Mr. Tremblay said:
+a) Regarding GSI:
+[translation] Yes. GSI, so I contacted the same people that I knew on the inside, even at one point, ah, a Fred, a guy [unintelligible] . . . because at a certain point, you recognize names, y'know, you recognize names, then it seems to me that, ah! I know a guy who had that name, then we talk and we see the difficulties that those companies have had because there are several that closed down. Why? Because the environmental standards changed, so their platform had to be equipped with equipment that connected all the others, so if the pressure was too great, it would cost them [sic] too much, so there are some that close down. There was like a catastrophe . . .. [24]
+b) Regarding Englobe:
+[translation] Well, I contacted them to see where they were at, what they wanted to do, did they want to comply with the standards, they wanted . . . there are . . . but there are some that closed down outright. But, for example, there was the company, Englobe. It . . . it was . . . I really had their ear. Why? Because there were . . . some individuals in there whom I had worked with in the past and who knew me a bit, y'know? And there are individuals that know the technology a bit from getting familiar with it, be it in universities or . . . so yeah, woo! I really had . . . really had their ear. That company works in . . . works in contaminated soil so they were interested in working with sludge—sludge, soil, y'know, they're like cousins. It seemed very interesting to me from a technical perspective even the first level of management, we had discussions, we talked nearly every month, even though there were other jobs, we were making phone appointments or by email nearly constantly. And so . . . and so at one point, after nearly two years of discussions and talks, they said, "Look, the bosses, they've decided that they're not expanding within the province of Quebec," he said, "we're just going to stick with soil. Even though we have composting platforms," he said, "we're sticking with soil and then we're heading West." They have a biological process, so they said, "we're going to apply it in the Western provinces." [25]
+c) Regarding White Birch:
+[translation] Well, we talked . . . we met with the environment manager, Mr. . . . I think it was actually another Mr. Bélanger. But in any case, the environment manager at that time. A Mr. Tricart (phon.) also, and those guys, well, there are . . . They're right in the heart of Quebec City, so . . . or it was for the smell, but those guys, it was more for . . . they had to burn [sic] the sludge, well, the only way they managed to burn it, because there's an incinerator, a small . . . it's that they were putting in wood chips. But wood chips, usually they put that in to make paper, not to burn [sic] sludge. [26]
+- When asked about his activities in view of obtaining patents related to the Stabiox technology, Mr. Tremblay said:
+[translation] For potential clients? Ah, well, right, right, so look, there was like a bit of a slow down there, OK, in terms of . . . then it was just the phone to try to maintain my . . . then in 2012, it was the last years that I had disputes for the patent as well. Because don't forget, I applied to five . . . five countries, each one of those countries there, they sent us nearly once a year: first assessment [sic]: "Here are the questions you need to answer." Well, so, me, I take that, I went to see the . . . I went to see the patent agent, we looked at what the deal was with (phon.) to answer them . . .. [27]
+[51] Mr. Tremblay could have remedied the significant gaps in his testimony by producing other evidence, but he chose not to do so. He was the only witness heard by the Court, and no evidence was submitted to the Court to corroborate some rather essential facts. For example, in terms of the activities allegedly undertaken with municipalities and companies, in the vast majority of cases, Mr. Tremblay was unable to name the people he had had discussions with or had met with, despite the fact that he said that he had worked with some of them in the past. The dates and locations that the meetings took place were not specified, either. In exceptional cases, the names of certain people whom he met with were mentioned.
+[52] The Court has difficulty explaining why no documentary evidence (email, letter, etc.) was submitted into evidence to demonstrate that the activities undertaken with potential clients had actually taken place. None of the potential clients whom Mr. Tremblay met with came to testify to corroborate Mr. Tremblay's testimony about the existence of these marketing activities. Mr. Tremblay was, however, responsible for refuting the assumption of fact of the Minister that no marketing activity was carried out. Given the flagrant lack of clarity in Mr. Tremblay's testimony, the likelihood of that testimony being accurate was irreparably compromised to the point of being unreliable.
+V. CONCLUSION
+[53] On the basis of the foregoing, the Court concludes that Mr. Tremblay had no source of business income during the years in issue. The Court consequently determines that the Minister correctly denied the deduction of all expenses related to Mr. Tremblay's business for each of the years in issue. Based on the same above-mentioned conclusion, the Court concluded that the Minister correctly denied the deduction of all Mr. Tremblay's business losses for each of the years in issue.
+[54] Since the Court is able to dispose of Mr. Tremblay's appeal based on the same above-mentioned conclusion, the Court does not have to decide the other issues in issue.
+[55] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 5th day of October 2020.
+"Sylvain Ouimet"
+Ouimet, J.
+Translation certified true
+on this 19th day of April 2021.
+François Brunet, Revisor
+CITATION:
+2020 TCC 100
+COURT FILE NO.:
+2016-4706(IT)G
+STYLE OF CAUSE:
+RICHARD TREMBLAY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+April 16, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+October 5, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Mathieu Angers
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Mathieu Angers
+Firm:
+Mathieu Angers Avocat
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C., 1985, c. 1 (5th Supp.).
+[2] Exhibit A-1, appellant's book of documents, tabs 8 and 9.
+[3] Transcript of the April 16, 2019, hearing, page 194 (Transcript)
+[4] Stewart v. Canada, 2002 SCC 46.
+[5] Ibid., at para. 50.
+[6] Ibid.
+[7] Ibid.
+[8] Ibid.
+[9] Ibid., at para. 52.
+[10] Ibid.
+[11] Ibid., at para. 34.
+[12] Ibid., at para. 52.
+[13] [1996] 2 F.C. 73, [1996] 1 C.T.C. 205 (FCA).
+[14] Stewart, supra, at para. 60.
+[15] Ibid.
+[16] Ibid., at para. 54.
+[17] Ibid., at para. 54.
+[18] Ibid., at para. 55.
+[19] Ibid., at para. 57.
+[20] Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at paras. 51–52, 87; House v. Canada, 2011 FCA 234, at paras. 64–69.
+[21] House, supra, at para. 68.
+[22] Transcript, p. 51.
+[23] Transcript, p. 53.
+[24] Transcript, pp. 88–89.
+[25] Transcript, pp. 89–90.
+[26] Transcript, pp. 103–104.
+[27] Transcript, p. 118.

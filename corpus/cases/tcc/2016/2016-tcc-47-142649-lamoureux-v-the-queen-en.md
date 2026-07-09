@@ -1,0 +1,203 @@
+---
+title: "Lamoureux v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/142649/index.do"
+last_modified: "2016-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 47"
+citation2: ""
+neutral_citation: "2016 TCC 47"
+decision_date: "2016-02-22"
+language: "en"
+item_id: "142649"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3021
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:58:04.117000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "01230d20f7fe40bd25f3f7de5b67dfb7de7d82c0fd727560c42d0e23d53c3275"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lamoureux v. The Queen
+
+- Citation: 2016 TCC 47
+- Decision date: 2016-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3021, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lamoureux v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-02-22
+Neutral citation
+2016 TCC 47
+File numbers
+2015-3412(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-3412(GST)I
+BETWEEN:
+TODD LAMOUREUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 15, 2016, at Edmonton, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gergely Hegedus
+JUDGMENT
+The appeal from the Notice of Reassessment dated June 28, 2010 made under the Excise Tax Act for the annual reporting periods ending December 31, 2003 and December 31, 2004 is dismissed.
+Signed at Ottawa, Canada, this 22nd day of February 2016.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2016TCC47
+Date: 20160222
+Docket: 2015-3412(GST)I
+BETWEEN:
+TODD LAMOUREUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issues raised in this appeal are (1) whether the Minister of National Revenue (the “Minister”) correctly assessed Todd Lamoureux pursuant to the Excise Tax Act (“ETA”) for total net tax of $5,275.52 and $9,123.41 for the annual reporting periods ending December 31, 2003 (the “2003 Reporting Period”) and December 31, 2004 ( the “2004 Reporting Period”) respectively; and (2) whether the Minister properly imposed a gross negligence penalty in the 2003 Reporting Period.
+[2] The witnesses at the hearing were the Appellant and Brent Desjarlais, an appeals officer with the Canada Revenue Agency (“CRA”).
+[3] During the relevant period, the Appellant operated a sole proprietorship providing services as a finishing carpenter. He also bought, repaired and rented out real estate rental properties.
+[4] The Appellant filed his Goods and Services Tax (“GST”) return for the 2003 Reporting Period on April 4, 2005. In the return, he reported that the GST collectible was $5,822.68; he was entitled to Input Tax Credits (“ITCs”) of $5,822.68; and the net tax was zero. He did not file a GST return for his 2004 Reporting Period and the Minister filed a nil return on his behalf.
+[5] The Appellant was reassessed for both reporting periods on March 2, 2007, July 11, 2008 and June 28, 2010. A Gross negligence penalty was assessed for the 2003 Reporting Period in the March 2, 2007 reassessment and it was maintained in the subsequent reassessments. The Appellant objected to all three reassessments and the reassessment dated June 28, 2010 was confirmed so that the final net tax assessed was as follows:
+Reporting Period
+GST Collectible
+ITCs
+Net Tax
+2003
+$6,697.97
+$1,422.45
+$5,275.52
+2004
+10,414.16
+1,290.75
+9,123.41
+Total
+$14,398.93
+The gross negligence penalty which was assessed against the Appellant for the 2003 Reporting Period was maintained.
+[6] In reassessing and confirming the Appellant’s net GST liability, the Minister made the following assumptions:
+a) The Appellant was sole proprietor of a business providing his services as a finishing carpenter;
+b) The Appellant resided in Sylvan Lake, Alberta;
+c) The Appellant travelled outside of Sylvan Lake, Alberta in order to take on carpentry contacts;
+d) The Appellant leased a Land Rover for use in his business;
+e) 75% of the fuel used by the Land Rover was used in relation to the Appellant's business;
+f) 100% of the lease cost of the Land Rover was incurred in relation to the Appellant's business;
+g) The Appellant did not use a Dodge Caravan in the course of his business;
+h) The Appellant was involved in real estate rental;
+i) The Appellant owned at least three Alberta rental properties;
+j) The Appellant was a shareholder in a corporation called La Ordinaire Cappucino Bar Inc. ("La Ordinaire");
+k) None of the amounts assumed to be sales of taxable supplies by the Appellant are related to the sales of La Ordinaire;
+2003 Reporting Period
+l) For the 2003 Reporting Period, the Appellant had sales of taxable supplies of at least $95,685.32;
+m) For the 2003 Reporting Period, the Appellant was responsible for GST collected/collectible of at least $6,697.97;
+n) For the 2003 Reporting Period, the Appellant incurred ITCs of no more than $1,422.45, broken down as follows:
+i) $332.71 for purchases;
+ii) $70.00 for meals and entertainment;
+iii) $39.54 for office expenditures;
+iv) $199.00 for supplies;
+v) $110.75 for legal expenditures;
+vi) $584.63 for motor vehicle expenditures; and
+vii) $84.81 for telephone expenditures;
+o) For the 2003 Reporting Period, the Appellant was responsible for net tax as set out in Schedule D to this Reply;
+2004 Reporting Period
+p) For the 2004 Reporting Period, the Appellant had sales of taxable supplies of at least $148,733.71;
+q) For the 2004 Reporting Period, the Appellant was responsible for GST collected/collectible of at least $10,414.16;
+r) For the 2004 Reporting Period, the Appellant incurred ITCs of no more than $1290.75, broken down as follows:
+i) $17.00 for advertising expenditures;
+ii) $70.00 for meals and entertainment;
+iii) $17.00 for office expenditures;
+iv) $227.00 for supplies;
+v) $19.00 for legal and accounting expenditures;
+vi) $6.00 for travel;
+vii) $95.95 for telephone expenditures;
+viii) $817.80 for motor vehicle expenditures; and
+ix) $21.00 for other expenditures;
+s) For the 2004 Reporting Period, the Appellant was responsible for net tax as set out in Schedule D to this Reply;
+ITCs
+t) With respect to ITCs claimed but not allowed by the Minister:
+i) The amounts were not incurred;
+ii) The amounts were not incurred in the course of the Appellant's business;
+iii) The amounts were personal to the Appellant;
+iv) The amounts were not reasonable; and/or
+v) The Appellant did not obtain or retain prescribed documentation.
+[7] The Appellant agreed with many of the assumptions made by the Minister and I will address only those with which he disagreed.
+[8] The Appellant disagreed with the assumption made at paragraph (e) above that 75% of his fuel cost was used in relation to his carpentry business. It was his position that he was entitled to an ITC for 100% of his fuel cost and in support he submitted a mileage log for 2003 and 2004 (exhibit A7). He stated that he used his Daytimer to prepare exhibit A7.
+[9] On November 6, 2006, the Appellant also gave mileage logs to the CRA for both reporting periods. Those mileage logs were allegedly prepared from the Appellant’s Daytimer and they showed that in 2003 the Appellant’s Land Rover was used 70% for commercial activities and 30% for activities which involved his rental properties. According to the mileage log given to CRA for 2004, the Appellant used his Land Rover 40% for commercial activities and 60% for exempt activities. However, the Appellant was allowed ITCs for 75% of the fuel costs incurred with the Land Rover in 2003 and 2004.
+[10] Exhibit A7 was prepared by the Appellant approximately one month before the hearing. He used the auditor’s working paper entitled “Review of Mileage Log” and he wrote in additional destinations. As a result, the alleged business mileage on this exhibit varied extensively from that on the logs given to the CRA in 2006. The Appellant did not submit his Daytimer to support the original logs he gave to the CRA or to support his new entries on the auditor’s working paper.
+[11] It is my view that the hand written entries on this exhibit are fictitious and I have given no weight to exhibit A7.
+[12] The Appellant disagreed with the assumptions made at paragraphs (l) to (t) in the Reply. He made the bald statement that these paragraphs were incorrect but he offered no explanation as to why they were incorrect or what the correct amounts were. The Appellant submitted no documents with respect to the GST he incurred or to support his entitlement to ITCs. The only explanation offered by the Appellant was that many of his receipts had faded with the passage of time and they were no longer legible. He stated that he needed these receipts for his income tax appeal and he did not submit them at the hearing of this appeal.
+[13] The Appellant’s bald assertions that the assumptions were incorrect do not satisfy his burden to demolish the assumptions. It is my view that the Minister correctly assessed the Appellant for total net tax of $5,275.52 for the 2003 Reporting Period and total net tax of $9,123.41 for the 2004 Reporting Period.
+[14] The Appellant alleged that the conduct of the CRA officers was abusive. He stated that he has been “singled out” by the CRA and that he “felt threatened”. It was his evidence that he had been audited for his 1997 and 1998 taxation years in 2001. At that time, he was required to sign a “Books and Records” requirement letter which he didn’t understand and he was not given a copy of the letter. In 2006, he was audited again by the CRA and he was not comfortable with the officer’s manner or demeanour. This appeal is the result of the last audit.
+[15] This Court has the jurisdiction to make a decision on the validity and correctness of an assessment. However, it is clear that this Court cannot consider the actions of the CRA officers in an appeal against an assessment: Main Rehabilitation Co v The Queen, 2004 FCA 403 at paragraph 7.
+[16] The Appellant has requested that all penalties and interest be vacated. I explained to him that this Court does not have jurisdiction to waive interest and the Minster has the burden to prove that gross negligence penalties were properly imposed.
+Gross Negligence Penalty for 2003 Reporting Period [17] The Appellant described how he maintained his records. He stated that his receipts and invoices were placed in folders which were labelled according to the various properties which he owned. Prior to 2004, a friend filed the receipts and invoices for him but he checked the folders. After 2004, he placed the documents in the folders himself. The Appellant stated that he gave these folders to his bookkeeper who prepared his books and records for him. He then gave his books and records to an accountant who prepared his GST return.
+[18] It was the Appellant’s evidence that he did not understand anything about his taxes and that is the reason he engaged professionals to prepare his returns. During cross-examination, he said that he did not review the books and records prepared by the bookkeeper nor did he review his tax return.
+[19] I have inferred from the Appellant’s evidence that he blamed the inaccuracy in his 2003 return on his bookkeeper and accountant. However, he failed to call either of these individuals as a witness and I have drawn a negative inference from this failure.
+[20] The Appellant provided the documents used to prepare his books and his GST return to the bookkeeper and the accountant. Their work could only be as accurate as the records they were given. The Appellant also stated that he didn’t review the return before it was filed. It is my view that the Appellant was totally indifferent to the accuracy of his records and the tax return filed for his 2003 Reporting Period.
+[21] For the 2003 Reporting Period, the Appellant reported that his GST collectible was $5,822.68 whereas the actual GST collectible was $6,697.97 – an increase of $875.29 or 15%. He reported that he was entitled to claim ITCs of $5,822.68 whereas the amount of ITCs was only $1,422.45. He over-claimed the amount of ITCs he was entitled to receive by 309%. He reported that the net tax which he had to pay was nil but it was actually $5,275.52.
+[22] The discrepancy between the ITCs claimed and those which were assessed is substantial. This is also true with respect to the difference between the net tax reported and the net tax which the Appellant is required to pay. The magnitude of these inaccuracies coupled with the fact that the only documentary evidence he offered to justify some of the ITCs was a fabricated document (exhibit A7) has led me to conclude that the Appellant knowingly filed an inaccurate return or at the very least, he was totally indifferent to the accuracy of his return and this amounted to gross negligence. It is my view that a gross negligence penalty was properly imposed for the 2003 Reporting Period.
+[23] The appeal is dismissed.
+Signed at Ottawa, Canada, this 22nd day of February 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC47
+COURT FILE NO.:
+2015-3412(GST)I
+STYLE OF CAUSE:
+TODD LAMOUREUX AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+February 15, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+February 22, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gergely Hegedus
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,226 @@
+---
+title: "Nisker v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27383/index.do"
+last_modified: "2006-12-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 651"
+citation2: ""
+neutral_citation: "2006 TCC 651"
+decision_date: "2006-12-04"
+language: "en"
+item_id: "27383"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 140
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:31:00.572000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6aacc9300e762a7a44f586c49fb23aca66d9fc171a0e2f9d1c5eb1988489ad8d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nisker v. The Queen
+
+- Citation: 2006 TCC 651
+- Decision date: 2006-12-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 140, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nisker v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-04
+Neutral citation
+2006 TCC 651
+File numbers
+2004-4032(IT)G
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4032(IT)G
+BETWEEN:
+DAVID NISKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 7, 2006, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Jean Lavigne
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of December 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Citation: 2006TCC651
+Date: 20061204
+Docket: 2004-4032(IT)G
+BETWEEN:
+DAVID NISKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These appeals concern the 2000 and 2001 taxation years.
+[2] The question at issue is whether a payment made to settle an action in tort against the Appellant may be deducted in the calculation of his income where the events that gave rise to the liability took place at the corporate level.
+[3] The facts are not really in dispute. At the outset of the hearing, an agreed statement of facts was tendered to the Court. It reads as follows:
+1. The Appellant has been involved in real estate for fifty years. He has acted as a developer and has owned and managed property, mostly with others. His past activities include building residential homes, apartment and office buildings as well as owning hotels, apartment-hotels and shopping centers.
+2. Regarding taxation years 2000 and 2001, his business activities generated a rental income of approximately twelve million dollars per year ($12,000,000).
+3. The investments, developments and businesses undertaken by the Appellant were usually undertaken together with others.
+4. On May 12, 2003, the Appellant was reassessed for his 2000 and 2001 taxation years and was refused deductions claimed by him following the payment of an amount of $350,000 in settlement of legal proceedings.
+5. On May 29, 2003, the Appellant filed a notice of objection against these two taxation years reassessed.
+6. On April 19, 2004, the Canada Revenue Agency (hereinafter CRA) confirmed the reassessments dated May 12, 2003, for the 2000 and 2001 taxation years for the following reason:
+For the fiscal year end December 31, 2000, the loan amount of $350,000 was not made to earn income from a business or property. Therefore, this amount cannot be deducted from income according to paragraph 18(1)(a). This amount does not qualify as an allowable business investment loss pursuant to paragraphs 39(1)(c), 50(1)(a), 111(1)(b) of the Income Tax Act, and pursuant to subparagraph 40(2)(g)(ii) of the Income Tax Act, any resulting capital loss is deemed to be nil.
+7. On November 27, 1987, pursuant to an emphyteutic lease, La Corporation Trisud Inc. (hereinafter "Trisud") sold their rights to 152817 Canada Inc. for an amount of $8,000,000 payable in two instalments.
+8. Under the agreement, an amount of $2,000,000 was due and payable to Trisud by 152817 Canada Inc. on the sixth anniversary of the closing, plus interest.
+9. Regarding the transaction with Trisud on November 27, 1987, 152817 Canada Inc. was acting in trust for and on behalf of 149788 Canada Inc.
+10. On December 1, 1987, 149788 Canada Inc. sold the rights to the emphyteutic lease to Saviva Holdings Ltd., 157699 Canada Inc., 146236 Canada Inc. and 144945 Canada Inc.
+11. On the same day, by a prête-nom agreement, unknown by Trisud, 152817 Canada Inc. acknowledged that it was acting in trust for the new owners which were Saviva Holdings Ltd., 157699 Canada Inc., 146236 Canada Inc. and 144945 Canada Inc.
+12. Since 1997, the Appellant was an officer and director of 157699 Canada Inc.
+13. Since 1987, Appellant's daughter was the sole shareholder of 157699 Canada Inc. until 1990 when the Appellant's spouse became a shareholder.
+14. In the course of the transaction on December 1st, 1987, 157699 Canada Inc., unknown to Trisud, acted as a prête-nom for and on behalf of 81008 Canada Inc. which became owner of a 10% undivided co-ownership interest in the emphyteutic lease.
+15. Until June 1, 1992, the Appellant held 163,000 Class "C" preferred shares of 81008 Canada Inc. after which he was not a shareholder.
+16. On January 14, 1988, the National Bank of Canada entered into a loan agreement with 152817 Canada Inc. for an amount [of] $5,350,000, to be guaranteed in part by personal guarantees.
+17. The Appellant personally guaranteed 10% of the amounts owed to the National Bank of Canada.
+18. In 1993, 152817 Canada Inc. defaulted and the National Bank of Canada exercised its security, taking over the rights in the emphyteutic lease.
+19. On December 20, 1993, Trisud formally requested repayment of the balance of sale.
+20. On March 29, 1994, Trisud filed a writ of summons and declaration in the Superior Court against 152817 Canada Inc. and David Stein under court file number 500-05-003691-944.
+21. On December 9, 1996. Trisud filed an amended writ of summons and declaration adding Saviva Holdings Ltd., 157699 Canada Inc. and 144945 Canada Inc. as Defendants in the said Court file number 500-05-003691-944.
+22. On December 10, 1999, the Quebec Superior Court rendered judgment in Court file no.: 500-05-003691-944 and condemned 152817 Canada Inc., Saviva Holdings Ltd., 157699 Canada Inc. and 144945 Canada Inc., jointly and severally, to pay to Trisud $2,570,024.00 plus interest and costs. By the same judgment, David Stein was condemned jointly and severally with the other Defendants to pay $500,000 plus interest and costs.
+23. On January 7, 2000, the judgment was inscribed in appeal by 157699 Canada Inc., Saviva Holdings Ltd. and 144945 Canada Inc. under Court file number 500-09-009116-005.
+24. On January 28, 2000, Trisud filed an action in the Superior Court under file number 500-05-003691-944 against Sam Greenberg, the Appellant, Pinchos Freund, Saviva Holdings Ltd., 2853523 Canada Inc. and 2630-1374 Quebec Inc. in order to establish the solidary liability of these Defendants with those in court file no. 500-05-003691-944 (Appeal Court number 500-09-009116-005).
+25. On November 30, 2000, a transaction agreement was signed between Trisud, Sam Greenberg, the Appellant, Saviva Holdings Inc., 2853523 Canada Inc., 2630-1374 Quebec Inc. and 157699 Canada Inc. regarding file 500-05-003691-944 (Appeal Court no.:500-09-009116-005) and 500-05-055612-004.
+26. By said transaction, 157699 Canada Inc. and Saviva Holdings Ltd. agreed solidarily to pay to Trisud the sum of $700,000 in final settlement regarding court file 500-05-003691-944 (Appeal Court no. 500-09-009116-005) in consideration of which Trisud subrogated 157699 Canada Inc. and Saviva Holdings Ltd. to the extent of 50% each, all of its rights against 152817 Canada Inc., David Stein, 144945 Canada Inc. and Pinchos Freund.
+27. By said transaction, the Appellant and Sam Greenberg obligated themselves solidarily with Saviva Holdings Ltd. and 157699 Canada Inc. to pay Trisud the said amount of $700,000.
+28. Pursuant to the transaction, the Appellant paid an amount of $350,000.
+29. In consideration of the payment of $700,000 to Trisud, a Declaration of Settlement in Court file 500-05-009116-005 was executed.
+30. In consideration of the payment of same, Trisud discontinued its action in court file 500-05-055612-004 without costs and without further recourse against all Defendants, including the Appellant.
+[4] In summary, on November 27, 1987, La Corporation Trisud Inc. ("Trisud") sold its rights in Place Pierre Dupuy in Longueuil to 152817 Canada Inc. ("152817") for $ 8,000,000 payable in two instalments.
+[5] On December 9, 1987, the National Bank of Canada agreed to loan to 152817 an amount of $5,350,000 to be guaranteed by a collateral hypothec, an assignment of rentals and the personal guarantee of the shareholders of 152817, namely Messrs. Stein (45%), Greenberg (30%), Nisker (10%) and Freund (15%).
+[6] Trisud acknowledged receipt of the amount of $5,350,000 from 152817 and granted the National Bank priority with respect to any hypothec in its favour.
+[7] The balance owing to Trisud on the purchase price was due and payable on the sixth anniversary of the closing. However, it was not paid because 152817 had become bankrupt. Moreover, without the knowledge of Trisud, 152817 had sold its rights to four corporate entities.
+[8] In 1993, following a default, the bank repossessed the property and the rights under the emphyteutic lease.
+[9] On December 20, 1993, a formal demand was sent by Trisud to 152817 for payment of the balance of the purchase price. Trisud subsequently sued 152817, David Stein, Saviva Holdings, 157699 Canada Inc. and 144945 Canada Inc.
+[10] On December 10, 1999, a judgment was rendered by Mr. Justice Pierre Dalphond of the Superior Court of Quebec finding that the purchasers had not acted in good faith toward the vendor. I quote four conclusions from the judgment:
+. . .
+As for Messrs. Nisker and Freund, they attended the closing where the Deed of Sale was signed, they discussed the deal with Messrs. Stein and Greenberg and they executed subsequent documents where they acknowledged the existence of the Deed of Sale and its registration. Messrs. Stein and Greenberg testified that they did not want to become liable for the balance of the purchase price. The Court can infer that they were aware of the content of the Deed of Sale and of the obligations of 152817 pursuant to it (art. 2828 C.c.Q.). This knowledge can also be imputed to their respective company.
+Moreover the evidence has shown that Messrs. Stein, Greenberg, Nisker and Freund intentionally had the deed of transfer drafted in such a way that their companies would not become liable towards Trisud for the balance of the purchase price.
+To sum up, the new owners were aware of the content of the Deed of Sale between 152817 and Trisud and acted in such a manner that they could not be considered as having assumed any liability with regard to the balance of the purchase price.
+In these circumstances, the Court is of the opinion the new owners committed a delict (art. 1053 C.C.L.C.) for which they shall be held accountable.
+[11] The defendants were condemned jointly and severally to pay to Trisud the amount of $2,570,024, together with interest at the rate of 9½% per annum from November 1993. This judgment was appealed on January 7, 2000.
+[12] It should be noted that the Appellant was not a defendant in the Superior Court action and therefore was not condemned in the judgment. However, he was held, on the basis of the evidence, to have intentionally had the deed of transfer drafted in such a manner as to avoid any liability toward Trisud on the part of his company for the balance of the purchase price.
+[13] Following this judgment, on January 28, 2000, an action was brought in the Superior Court by Trisud for the purpose of adding individual defendants, among them the Appellant, who would be held solidarily liable, along with the original defendants, for the payment of the balance of the purchase price.
+[14] I quote here a few excerpts from the declaration in that action:
+4. The individual defendants in the present action are the principals and controlling minds of the corporate defendants in the Court File SCM 500-05-003691-944, as set forth more fully below;
+. . .
+11. In the course of those proceedings, Trisud discovered that although 152817 Canada was, and remained, the registered owner of the Immovable, ownership of the Immovable had been transferred to four other companies - Saviva, 157699 Canada Inc., 144945 Canada Inc. and 146236 Canada Inc. - without the contractually required notice to Trisud and without the transferees undertaking to be personally bound by the conditions of the Deed of Sale P-2, the whole in the breach of the Deed of Sale P-2;
+. . .
+18. The directing minds of the Subsequent Purchasers were:
+· David Stein for 144945 Canada;
+· Sam Greenberg for Saviva;
+· David Nisker for 157699 Canada; and
+· Pinchos Freund for 146236 Canada;
+as found by the Honourable Mr. Justice Dalphond in the Judgment;
+. . .
+28. Mr. Stein, and Defendants Greenberg, Nisker and Freund, were well aware of the obligations created by the Deed of Sale P-2, notably 152817 Canada's obligation to ensure that any subsequent purchaser would explicitly undertake in any subsequent deed of acquisition to be personally bound by all the conditions of the Deed of Sale P-2 and to notify Trisud of [any] subsequent transaction;
+. . .
+30. In his reasons for judgement, the Honourable Mr. Justice Dalphond found the Subsequent Purchasers liable based on the knowledge of their principals, Messrs. Stein, Greenberg, Nisker and Freund;
+31. Therefore, the acts for which Saviva, 144945 Canada and 157699 Canada were found liable were, in fact, orchestrated and committed by the controlling minds of these companies, namely David Stein, Sam Greenberg and David Nisker respectively, as found by the Honourable Mr. Justice Dalphond in the Judgement;
+. . .
+34. It follows from the foregoing that David Stein, and Defendants Sam Greenberg, David Nisker and Pinchos Freund, as the controlling minds of their respective companies, are solidarily liable with the Subsequent Purchasers to Trisud for the amount of the Judgement as a result of having been knowingly associated with or having favoured the breach of the terms of the Deed of Sale P-2;
+. . .
+CONDEMN Defendants Sam Greenberg, David Nisker and Pinchos Freund solidarily to pay Plaintiff La Corporation Trisud Inc. the sum of $2,570,024 in capital, with interest at the rate of 9½% per annum, calculated monthly, from November 20, 1993 as well as the additional indemnity provided at Article 1619 C.C.Q.;
+[15] On November 30, 2000, a settlement was reached between Trisud and the defendants, among whom was the Appellant. The three first paragraphs of the settlement agreement read as follows:
+1. Saviva Holdings Ltd. ("Saviva") and 157699 Canada Inc. ("157699") agree solidarily to pay to La Corporation Trisud Ltd. ("Trisud") the sum of seven hundred thousand dollars ($700,000) in final settlement, in capital interest and costs, of the court files 500-05-003691-944/500-09-009116-005 in consideration of which Trisud hereby subrogates Saviva and 157699, to the extent of 50% each, in all its rights against 152817 Canada Inc., David Stein, 144945 Canada Inc. and Pinchos Freund;
+2. The said sum of $700,000 will be paid by certified cheque payable to OGILVY RENAULT IN TRUST, no later than February 28, 2001 and hereby renounce to the benefit of discussion and division;
+3. Mr. Greenberg and Mr. Nisker obligate themselves solidarily with Saviva and 157699 to pay Trisud the said sum of $700,000.
+[16] The receipt issued on December 27, 2000, reads as follows:
+We, hereby, acknowledge receipt from David Nisker of the sum of three hundred and fifty thousand dollars ($350,000.00) by way of a cheque dated December 22nd, 2000 in payment of a share of the settlement concluded with la Corporation Trisud Inc.
+This December 27, 2000
+ADESSKY POULIN, s.e.n.c.
+(Signature)
+[17] Mr. Gilles Poulin testified that he had been asked by Messrs. Greenberg and Nisker to act for them in the action in tort brought against them following the decision of the Superior Court in which it was stated that these individuals were the directing minds of the companies involved and had acted intentionally.
+[18] Mr. Poulin stated that, sometime after, an intense mediation session lasting a full day took place. It was conducted by a retired judge. In the evening, a settlement was reached, the amount agreed on being $700,000.
+[19] The difficulty was in evaluating the personal risk of Messrs. Greenberg and Nisker - who appear to have been the only ones with any financial means - in light of the trial judge's finding of fact. It is because of that risk that the settlement was accepted. Messrs. Greenberg and Nisker had confirmed to Mr. Poulin that they were indeed the directing minds of the corporations involved, namely, 157699 Canada Inc. ("157699") and 81008 Canada Inc. ("81008"). The Appellant was not a shareholder of either corporation.
+[20] Ms. Joyce Nisker Takefman was the second witness. She is the Appellant's daughter. She confirmed that her father was unable to appear in Court due to deteriorated health. Seventeen years ago she began working in her father's business, which is a real estate business involving such things as rental properties, shopping centres and apartment buildings. Her own work evolved over time, but as long as her father was there, she acted as an assistant to him. It was her father who controlled the business and made decisions.
+[21] She had no involvement in matters relating to Trisud, although she was the sole shareholder of 157699 from 1987 to 1990 and, along with her brother, a shareholder of 81008.
+[22] The financial statements of 81008 (Tab 29 of Exhibit A-1) dated December 31, 2000, show a loan payable to shareholder in the amount of $350,000 for the years 1999 and 2000. At the time of the loan, the shareholders were Ms. Nisker Takefman and her brother. She does not believe that in 2000 81008 was an active company.
+[23] Mr. Donald Hersh has been the Appellant's accountant since 1997. He describes the Appellant's business activities as follows at page 99 of the transcript:
+. . . He reported about fifteen (15) properties in his personal tax return, that is his proportionate share of fifteen (15) properties, and he had corporations which had at least another eleven (11) properties that reported income from those properties. . . .
+[24] He also explained that 81008 was not involved in any activity other than that related to its interest in the Place Pierre Dupuy property. He set forth the various views taken on how to handle the $350,000 payment. He found it very strange that a payment of this nature could not be deducted one way or another (page 128 of the transcript):
+. . . I mean it wasn't a personal expense, it wasn't to settle personal damages resulting from non-business behaviour; it had to do with what he did for a living.
+[25] The Appellant's tax returns for the years 2000 and 2001 show a very high rental income, both gross and net.
+[26] The position of the Minister is that if the amount of money paid by the Appellant was loaned to 81008, as stated by the accountant, it was not deductible. At the time of the loan, the shareholders of 81008 were the Appellant's spouse, daughter and son. Since 1992, the Appellant has not been a shareholder of 81008. I quote an excerpt from a letter of the appeals agent dated March 15, 2004, appearing at Tab 17 of Exhibit A-1:
+As regards the argument that the amount is deductible as ordinary business loss we can find no justification for this position. Mr. Nisker lent an amount of $350,000 to a family controlled company 81008 Canada Inc. which according to the facts and representations in the file, has not been active since 1996 and has no income or assets or any possibility of generating income or any means of repaying the loan in question. In addition, in your representations you make the statement that 81008 Canada Inc. is insolvent.
+We have some difficulty understanding why a person would lend $350,000 to an insolvent corporation. In the absence of any evidence to the contrary and taking into accounts the points set out above, it is difficult to escape the inference that the loan was made in consideration of the particular personal relationship between the taxpayer and the shareholders of 81008 Canada Inc. Thus whatever the transaction is, it must be concluded that the loan to 81008 Canada Inc. is not a commercial transaction and the taxpayer has not demonstrated on the balance of probabilities that the loan was made for business purposes.
+[27] The Appellant's position at the hearing was that this amount had been paid in the course of his ordinary business activities and was fully deductible by him pursuant to sections 9 and 3 of the Income Tax Act (the "Act"). Counsel for the Appellant argued that the Appellant had paid this amount of money to protect his reputation and thereby protect his business. It was a risk incident to his carrying on business, as he had been doing for fifty years.
+[28] Counsel for the Respondent submitted that for an expense to be deductible there must be a link between the expense and income. The amount paid by the Appellant had no relationship with the Appellant's own rental income. Counsel referred to the decision of the Supreme Court of Canada in Symes v. Canada, [1993] 4 S.C.R. 695. Counsel agreed that on the basis of 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, and McNeill v. The Queen, 2000 DTC 6211 (FCA), an expense paid for damages in tort may be deducted but, in counsel's view, it has to be deducted by the corporation carrying on the business. The Appellant's payment was not made for the business. It was not made as part of the operations through which the taxpayer earned his income. There was no direct link between the payment and the business income.
+Analysis and conclusion
+[29] An outlay or expense may be deducted in the calculation of income if it has been made or incurred for the purpose of gaining or producing income from a business or property: paragraph 18(1)(a) of the Act.
+[30] It is my view that the expense incurred by the Appellant was so incurred for that purpose. Two reasons lead me to this conclusion. First, the expense was incurred to protect the Appellant's businesses, and second, the piercing of the corporate veil had for result that both the Appellant and the corporation were carrying on the corporate business with respect to which the tortious act was committed.
+[31] The Appellant, on the day of the mediation, realized that he had to either indemnify the vendors or risk, after a long ordeal in the courts, losing his own rental properties as well as his reputation as a corporate officer. He chose, reluctantly, to settle.
+[32] The Appellant had his own rental properties from which he derived a direct income, but he was also a corporate officer. Most of his business activities were carried on in that capacity. Although this activity did not generate any direct income, it was an important activity with regard to the income generated by each company for which the Appellant was acting as a corporate officer. It was a business activity. (See Mitchell et al. v. U.S., 69-1USTC 9275.) If, in the performance of the duties of corporate officer, a person incurs personal liability in tort, it would appear to be appropriate and normal, and in accordance with the intent of the Act, that this person should be entitled, in the calculation of his income, to deduct, as an amount expended for the purpose of earning income from a business activity, the amount paid as damages.
+[33] In any event, the rental income was direct income. Money is needed for rental properties of the magnitude of those owned by the Appellant, as is a good credit rating and a solid business reputation.
+[34] It is not unusual for a person in business to have to make a payment in respect of the obligations of another person or company connected with his own business, in order to protect and promote his own business interests. That is a business decision made to protect goodwill or credit standing or the business itself. (See Piggott Investments Ltd. v. The Queen, 73 DTC 5507 and Williams Gold Refining Co. of Canada Ltd. v. R., [2000] C.T.C. 2193, 2000 DTC 1829, at paragraph 17.) It is also of interest to note that American case law is to that effect. (See United States Tax Reporter, Volume 4A, 1624.026 and 1624.027.)
+[35] The purpose of the payment in the present case was a business purpose. But, in the particular circumstances of this payment, I also have to examine the origin of the claim. The claim arose in connection with the Appellant's business activities, that is, his activities as a corporate officer. The sum of money in question is not one that had its origin in a personal matter of the Appellant's, such as a divorce action.
+[36] I also have to determine whether or not the payment is on capital account. I find that it is not a capital expense as it was not made for the acquisition of capital but rather laid out as part of the process of profit earning. It has also to be mentioned as it was the case in McNeill (supra) at paragraph 17, that the Minister did not assess on the basis that it was a capital payment.
+[37] I will now address my second point. Here we have in circumstances in which an individual was sued for the action of a company of which he was the directing mind. That brings into play the notion of the piercing of the corporate veil.
+[38] Respecting the appellant's tort liability, I must say that the "Inscription in Appeal" (Exhibit A-2), strongly disputed the finding that the defendants had acted in bad faith. In the defendants' view, the problem arose because the property in question did not generate enough income to enable the owner corporation to pay the purchase price.
+[39] However, the analysis of the trial judge - and it was founded on various factors - led him to a finding of bad faith. On the basis of the judgment, the plaintiff vendor brought an action in the Superior Court to add as defendants the physical persons who were the directing minds of the corporate entities and asked that court to find them liable in tort together with those corporate entities.
+[40] A judgment in the plaintiff's favour would have meant that not only the corporate entities but also the individuals concerned were the authors of the tortious act. In my view, for the purposes of the Act, the significance of this is that the Appellant was carrying on business together with the corporate entity as regards the tortious act.
+[41] In other words, where in a particular matter the corporate veil is pierced by a court decision, and the separate liability of a corporation is thereby disregarded so as to include the individual who is the brain of the corporate entity and thus to find both the individual and the corporation liable in tort, it is as if with respect to that particular matter the business had been carried on by both. If the corporation was entitled to deduct the amount as having been laid out for the purpose of carrying on business, it follows that, similarly, the individual who paid the damages in tort would be entitled to a deduction for having incurred the expense for the purpose of carrying on business.
+[42] It was not disputed that the corporation would have been entitled to deduct the amount pursuant to sections 3 and 9 of the Act (65302 British Columbia Ltd. (supra) and McNeill (supra)). It is therefore my view that the Appellant, who was exposed to the risk of being found liable in tort together with the company for which he had acted as a corporate officer and who decided to settle the matter and pay the amount personally, is entitled, as was the corporate entity, to claim the deduction as if the business had been carried on by the taxpayer himself.
+[43] For the above reasons, the appeals are allowed with costs.
+Signed at Ottawa, Canada, this 4th day of December 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+CITATION: 2006TCC651
+COURT FILE NO.: 2004-4032(IT)G
+STYLE OF CAUSE: DAVID NISKER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: September 7, 2006
+REASONS FOR JUDGMENT BY: The Hon. Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: December 4, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Jean Lavigne
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Aaron Rodgers
+Firm: Spiegel Sohmer Inc.
+Montreal (Quebec)
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

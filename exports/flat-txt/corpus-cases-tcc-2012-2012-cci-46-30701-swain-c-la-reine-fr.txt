@@ -1,0 +1,172 @@
+Title: Swain c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30701/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-46-30701-swain-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-02-10
+
+# Swain c. La Reine
+
+- Citation: 2012 CCI 46
+- Decision date: 2012-02-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7352, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Swain c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-10
+Référence neutre
+2012 CCI 46
+Numéro de dossier
+2009-3864(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3864(IT)G
+ENTRE :
+MARGARET SWAIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Randall W. Marusyk (2009‑2694(IT)G) et de Scott R. Miller (2009‑2695(IT)G), le 2 juin 2011, à Ottawa (Ontario).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Avocats de l'appelante :
+Me Matthew G. Williams
+Me Shaun Doody
+Avocate de l'intimée :
+Me Suzanie Chua
+________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2006 de l'appelante est rejeté avec dépens, en conformité avec les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de février 2012.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 18e jour de mai 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2009-2694(IT)G
+ENTRE :
+RANDALL W. MARUSYK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Margaret Swain (2009‑3864(IT)G) et de Scott R. Miller (2009‑2695(IT)G), le 2 juin 2011, à Ottawa (Ontario).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Avocats de l'appelant :
+Me Matthew G. Williams
+Me Shaun Doody
+Avocate de l'intimée :
+Me Suzanie Chua
+________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2006 de l'appelant est rejeté avec dépens, en conformité avec les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de février 2012.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 18e jour de mai 2012.
+Yves Bellefeuille, réviseur
+Dossier : 2009-2695(IT)G
+ENTRE :
+SCOTT R. MILLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Margaret Swain (2009‑3864(IT)G) et de Randall W. Marusyk (2009‑2694(IT)G), le 2 juin 2011, à Ottawa (Ontario).
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Avocats de l'appelant :
+Me Matthew G. Williams
+Me Shaun Doody
+Avocate de l'intimée :
+Me Suzanie Chua
+________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2006 de l'appelant est rejeté avec dépens, en conformité avec les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de février 2012.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 18e jour de mai 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 46
+Date : 20120210
+Dossiers : 2009-3864(IT)G
+2009-2694(IT)G
+2009-2695(IT)G
+ENTRE :
+MARGARET SWAIN,
+RANDALL W. MARUSYK,
+SCOTT R. MILLER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Les trois appelants sont des avocats qui exploitent un cabinet de droit de la propriété intellectuelle sous la forme d'une société de personnes à Ottawa. Lors du calcul du revenu de la société de personnes pour 2006, ils ont déduit, au titre d'un prêt à EM Diagnostics Inc. (« EM Diagnostics »), une perte d'environ 325 000 $ (environ 245 000 dollars américains) ainsi qu'environ 140 000 $ en intérêts courus et impayés.
+[2] Selon les contribuables, Discovery Biotech Inc. (« Discovery Biotech »), une société ayant certains liens avec EM Diagnostics, était une société constituée en vertu des lois du Nevada exploitée à partir de l'Arkansas. Le président et chef de la direction de Discovery Biotech était un Canadien qui est décédé subitement au Texas. La société prétendait avoir certains droits mal définis dans un certain dispositif tout aussi mal défini développé en Russie qui pourrait peut‑être servir à développer aux États‑Unis une version américaine brevetable du dispositif russe qui pourrait servir à dépister le cancer du sein, ou mener au développement d'un tel dispositif, ce qui accroîtrait suffisamment la valeur de Discovery Biotech pour que celle‑ci puisse être vendue à profit à une grande entreprise. À peu près aucun élément de preuve n'a été présenté pour étayer ou expliquer ce point.
+[3] Afin de développer un dispositif de dépistage du cancer du sein, il fallait amasser des fonds et trouver des investisseurs. EM Diagnostics avait été constituée et présentée à cette fin. EM Diagnostics a été créée parce que la Commission des valeurs mobilières de l'Ontario (la « CVMO ») avait interdit auparavant à la société canadienne, Discovery Biotech, d'offrir des valeurs mobilières au public parce que cette société l'avait fait en violation du droit applicable en matière de valeurs mobilières. Le président et chef de la direction de Discovery Biotech était également le président et chef de la direction d'EM Diagnostics. On ne savait trop si le prêt consenti à EM Diagnostics par un ou plusieurs Canadiens était conforme aux lois sur les valeurs mobilières.
+[4] L'avance consentie sous forme de prêt a été faite en février 2004 par Mme Swain à partir de son compte bancaire personnel. L'entente écrite était entre Mme Swain, EM Diagnostics, Discovery Biotech et une autre société affiliée, Oakhill Investments Limited (« Oakhill Investments »). Le rôle d'Oakhill Investments demeure un mystère malgré certains témoignages sur ce point. En fait, les fonds ont été avancés à un autre individu, qui était prétendument un entrepreneur ou un employé clé travaillant au développement américain du dispositif et qui avait menacé de se retirer si l'argent n'était pas reçu sur‑le‑champ.
+[5] Le président et chef de la direction de Discovery Biotech avait assuré à Mme Swain qu'il avait trouvé tout l'argent nécessaire, mais qu'il faudrait un autre mois, ou deux tout au plus, pour tout obtenir. Il lui avait donc demandé si elle pouvait lui prêter l'argent requis pendant trois mois, lequel lui serait ensuite remboursé au moyen de l'argent qui allait provenir des autres investisseurs qu'il avait rassemblés. Mme Swain dit qu'elle a suggéré de choisir tout simplement un terme de six mois parce qu'elle était très occupée par ses voyages d'affaires à l'étranger, mais de la rembourser dès qu'il le pourrait. L'avance consentie sous forme de prêt n'a été consignée dans les livres comptables de la société de personnes du cabinet qu'après un certain temps; il semblerait que cela n'ait pas été fait avant le 31 décembre 2006, et probablement en février 2007. Mme Swain n'a pas été payée ni remboursée pour son avance en argent comptant, mais a plutôt bénéficié à cet égard d'un rajustement de son compte capital. Le directeur financier du cabinet et le comptable de la société de personnes n'ont pas témoigné. M. Miller, un des trois associés, n'était pas au courant du prêt qui avait été consenti avant qu'on lui en parle en 2006.
+[6] Le contrat de prêt de 2004 est intitulé [TRADUCTION] « Convention de billet à ordre » et sous‑titré [TRADUCTION] « Donné pour un droit de brevet ». La convention comportait des termes évoquant un billet à ordre payable sur demande dans le corps de la convention, laquelle visait également à conférer une sûreté dans le dispositif en cas de défaut. La prêteuse convenait dans la partie relative au billet à ordre de ne pas demander de remboursement au cours des six premiers mois. La prêteuse est désignée dans la convention uniquement comme Mme Swain. Les emprunteurs sont définis comme étant Discovery Biotech, EM Diagnostics et Oakhill Investments. Dans un addenda de mai 2006 à la [TRADUCTION] « Convention de billet à ordre — Donné pour un droit de brevet » de 2004, la prêteuse est systématiquement décrite comme étant Mme Swain, bien que M. Marusyk ait été témoin de sa signature en 2006. (La page de la convention initiale de 2004 comprenant la signature de Mme Swain n'a pas été produite en preuve, de sorte que je ne sais pas qui a été témoin de sa signature lorsqu'elle a avancé l'argent et signé la convention initiale à titre de prêteuse.) L'addenda de 2006 dit que le prêt de Mme Swain avait également eu pour objet de permettre aux sociétés emprunteuses de payer les honoraires qu'elles devaient au cabinet. L'addenda de 2006 visait également à ce que Mme Swain consente à échanger sa créance contre des actions d'EM Diagnostics évaluées à deux dollars américains l'action. Une convention de billet à ordre distincte entre EM Diagnostics et le cabinet d'avocats des appelants a également été conclue en 2006, un peu avant l'addenda de 2006 de Mme Swain, relativement aux honoraires, aux débours et aux intérêts impayés dus au cabinet d'avocats.
+[7] Au moment où le prêt a été accordé en 2004, la procédure de la CVMO contre Discovery Biotech et son président et chef de la direction était en cours. La CVMO avait publié plusieurs communiqués de presse et avis publics à ce sujet de juin 2003 à juin 2004. Des accusations ont été portées contre Discovery Biotech, son président et chef de la direction, et deux autres personnes. Les accusés ont été jugés coupables, mais le président et chef de la direction était alors déjà décédé.
+[8] Les contribuables soutiennent que la créance est devenue irrécouvrable en 2006. Un témoin a dit qu'EM Diagnostics avait fait faillite, tandis qu'un autre a dit qu'elle avait été dissoute. Le seul élément de preuve écrit qui m'a été présenté indiquait qu'EM Diagnostics avait fait défaut à son obligation de communiquer au secrétaire d'État du Nevada la liste de ses dirigeants. Aucun élément de preuve n'a été présenté quant à la question de savoir ce qu'il était advenu des droits du groupe dans le dispositif russe. Aucun élément de preuve n'a été présenté qui indiquait que Mme Swain ou la société de personnes avaient tenté de faire valoir les droits du prêteur en vertu des billets à ordre ou avaient posé des questions à un liquidateur, à un séquestre ou à un syndic de la société. Aucun élément de preuve n'a été présenté relativement à ce qui avait effectivement été fait au moyen de l'argent recueilli par la société. Aucun élément de preuve n'a été présenté quant aux autres fonds que la société avait pu recueillir auprès d'autres investisseurs à quelque moment que ce soit, à la somme qui devait être amassée pour développer un dispositif susceptible d'être breveté, ni à la façon dont les autres fonds qui auraient été amassés avaient été dépensés.
+[9] Les contribuables ont déduit une perte correspondant au montant intégral du prêt et des intérêts courus. Ils soutiennent qu'il s'agissait d'une perte de leur société d'avocats qui avait été subie dans l'exercice des activités du cabinet consistant à fournir des services juridiques dans le domaine de la propriété intellectuelle et qui avait donc entraîné une perte au titre du revenu. EM Diagnostics et Discovery Biotech avaient été des clientes du cabinet depuis 2000 et le cabinet continuait à leur fournir des services juridiques en 2004 et en 2005. Les honoraires n'ont pas été payés. Les contribuables soutiennent qu'ils espéraient que l'argent prêté à EM Diagnostics aiderait celle‑ci à développer un dispositif tablant sur la technique russe qui serait brevetable et qui apporterait donc au cabinet un volume important de travail consistant en un vaste éventail de services juridiques spécialisés et profitables dans le domaine de la propriété intellectuelle. Ni les contribuables ni le cabinet d'avocats ne semblent avoir obtenu le moindre engagement ou acompte des sociétés relativement au recours à leurs services ultérieurement. Aucun budget ou estimation des coûts ni aucun calendrier de prestation ultérieure de services juridiques ne semblent avoir été établis ou avoir fait l'objet de discussions avec les sociétés.
+[10] La preuve a établi que la société de personnes et les trois avocats n'avaient jamais investi directement dans un client ni consenti un prêt à un client, pas plus qu'ils ne l'ont fait depuis. De plus, ni les avocats ni le cabinet n'avaient jamais prêté d'argent à autrui dans l'exercice des activités de leur entreprise. Aucune portion du capital de ce prêt ne leur a jamais été remboursée, et aucun intérêt ne leur a jamais été payé au titre de ce prêt. (On ne sait pas exactement s'ils ont inclus dans les revenus les intérêts courus et impayés qu'ils ont déduits à titre de perte. Ils ont abandonné leurs prétentions quant aux intérêts courus lors de l'instruction.)
+[11] Il n'y avait aucun élément de preuve indiquant que ce prêt à un client avait été signalé au Barreau du Haut‑Canada ou à tout autre barreau dont les avocats étaient membres.
+[12] En l'espèce, il n'y a manifestement pas assez d'éléments de preuve crédibles, corroborés et contemporains pour que je puisse tirer comme conclusion de fait, selon la prépondérance des probabilités, que le prêt a été fait par la société de personnes ou en son nom. En outre, je ne puis conclure, même en supposant que le prêt ait été fait par la société de personnes, que le prêt a été fait d'une manière quelconque dans l'exercice des activités juridiques de l'entreprise exploitée par la société de personnes. De même, si le prêt a été consenti par Mme Swain, je ne puis conclure qu'il a été fait d'une manière quelconque dans l'exercice de sa profession au sein de la société de personnes. Pour ces motifs, je dois rejeter les appels.
+[13] Je ne peux que conclure, compte tenu des éléments de preuve présentés, en supposant qu'il ne s'agissait pas carrément d'un cas de fraude, d'escroquerie ou de duperie, que quiconque était propriétaire de la créance la détenait au titre du capital, ce qui donnerait lieu à une perte en capital, et non au titre du revenu, ce qui donnerait lieu à une perte de revenu. Lorsqu'un contribuable est victime de fraude, d'escroquerie ou de duperie en dehors du cours normal des activités d'une entreprise véritable préexistante, comme dans Heppner c. La Reine, 2007 CCI 667 (télécopies nigérianes), et Hammill c. La Reine, 2005 CAF 252 (pierres précieuses), il est possible que le contribuable n'ait même pas de perte en capital fiscale.
+[14] Je n'avais pas affaire ici à un Canadien ordinaire qui se présentait lui‑même devant la Cour en ne sachant peut‑être pas trop quels éléments de preuve pourraient être nécessaires ou pourraient être appropriés. Les trois contribuables sont des avocats accomplis et ils sont représentés par un avocat fiscaliste chevronné.
+[15] L'intimée m'a demandé de tirer certaines conclusions défavorables précises concernant la crédibilité des contribuables. Il n'est pas nécessaire que je le fasse afin de trancher la présente affaire et de rejeter les appels pour les motifs exposés plus haut. Cependant, je peux dire que je ne crois pas que ces contribuables m'ont fait un compte rendu complet et cohérent. La version des faits des contribuables était possible, et peut-être plausible, bien que les témoignages de Mme Swain et M. Marusyk fussent incompatibles à plusieurs égards avec les documents qui m'ont été présentés. On était cependant très loin du degré de probabilité requis. Je soupçonne que cela s'explique par le fait que Mme Swain semble avoir été dupée. Rien d'autre n'a de sens au regard des éléments de preuve très limités qui m'ont été présentés. Si tel est effectivement le cas, il s'agit d'une très piètre performance de la part des contribuables.
+[16] Les appels sont rejetés avec dépens. Je crois comprendre que les avocats des parties souhaitent présenter des observations quant au montant des dépens.
+Signé à Ottawa, Canada, ce 10e jour de février 2012.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 18e jour de mai 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 46
+NOS DES DOSSIERS DE LA COUR : 2009‑3864(IT)G, 2009‑2694(IT)G, 2009‑2695(IT)G
+INTITULÉS : MARGARET SWAIN c. LA REINE,
+RANDALL W. MARUSYK c. LA REINE,
+SCOTT R. MILLER c. LA REINE
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : Le 2 juin 2011
+MOTIFS DU JUGEMENT : L'honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 10 février 2012
+COMPARUTIONS :
+Avocats des appelants :
+Me Matthew G. Williams
+Me Shaun Doody
+Avocate de l'intimée :
+Me Suzanie Chua
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Noms : Matthew G. Williams
+Shaun Doody
+Cabinet : Thorsteinssons LLP
+Toronto (Ontario)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

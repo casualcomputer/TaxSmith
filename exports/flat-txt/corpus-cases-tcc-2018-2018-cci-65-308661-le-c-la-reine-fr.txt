@@ -1,0 +1,235 @@
+Title: Le c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/308661/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-65-308661-le-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-04-09
+
+# Le c. La Reine
+
+- Citation: 2018 CCI 65
+- Decision date: 2018-04-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7363, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-04-09
+Référence neutre
+2018 CCI 65
+Numéro de dossier
+2016-1006(GST)I, 2016-207(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-207(IT)I
+ENTRE :
+KHANH THI LE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Khanh Thi Le 2016‑1006(GST)I le 12 septembre 2017 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocat de l’appelante :
+Me Frank W. Quo Vadis
+Avocat de l’intimée :
+Me Jamie Hansen
+JUGEMENT
+L’appel des deux cotisations, au titre de la responsabilité des administrateurs, établies le 23 mai 2014 en application de l’article 227.1 de la Loi de l’impôt sur le revenu (Canada) pour les retenues à la source non versées, concernant les années d’imposition des sociétés sous-jacentes de 2007, 2008 et 2009 est accueilli, avec dépens fixés à 500 $ en faveur de l’appelante. Les cotisations portées en appel sont par la présente annulées.
+Signé à Toronto (Ontario), ce 9e jour d’avril 2018.
+« B. Russel »
+Le juge Russel
+Dossier : 2016-1006(GST)I
+ENTRE :
+KHANH THI LE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Khanh Thi Le 2016‑207(IT)I le 12 septembre 2017 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocat de l’appelante :
+Me Frank W. Quo Vadis
+Avocat de l’intimée :
+Me Jamie Hansen
+JUGEMENT
+L’appel de la cotisation, au titre de la responsabilité des administrateurs, établie le 23 mai 2014 en application de l’article 323 de la Loi sur la taxe d’accise (Canada) pour la TPS nette non versée pour les périodes de déclaration des sociétés sous-jacentes se terminant les 31 décembre 2007, 2008, 2009, 2010 et 2011 est accueilli, avec dépens fixés à 500 $ en faveur de l’appelante. La cotisation portée en appel est par la présente annulée.
+Signé à Toronto (Ontario), ce 9e jour d’avril 2018.
+« B. Russel »
+Le juge Russel
+Référence : 2018CCI65
+Date : 20180409
+Dossier : 2016-207(IT)I
+2016-1006(GST)I
+ENTRE :
+KHANH THI LE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russel
+Introduction :
+[1] Il s’agit de motifs du jugement dans deux appels déposés par l’appelante à l’égard de trois cotisations au titre de la responsabilité des administrateurs, dont les appels ont été entendus sur une preuve commune. Une cotisation a été établie le 23 mai 2014 en application de l’article 323 de la Loi sur la taxe d’accise (Canada) (LTA) pour la TPS nette non versée pour les périodes de déclaration annuelle se terminant les 31 décembre 2007, 2008, 2009, 2010 et 2011, totalisant des intérêts de 35 659 $. Les deux autres cotisations ont également été établies le 23 mai 2014, en application de l’article 227.1 de la Loi de l’impôt sur le revenu (Canada) (LIR), pour les retenues à la source non versées à l’égard des années d’imposition des sociétés de 2007, 2008 et 2009, totalisant des intérêts et des pénalités de 15 675 $.
+[2] La position de l’appelante est qu’elle n’était pas une administratrice (ni de droit ni de fait) de la société pertinente, 0780221 B.C. Ltd. (société); et ces trois cotisations au titre de la responsabilité des administrateurs sont invalides.
+La preuve :
+[3] L’appelante, maîtrisant le vietnamien, mais moins l’anglais, a témoigné qu’elle résidait à North Vancouver en 2006, où elle possédait et exploitait plusieurs salons de beauté (coiffure, mains, ongles). Cette année-là, elle a décidé d’acquérir et de transformer un salon de bronzage à Langlay en un autre de ses salons de beauté. L’une de ses employées de longue date au salon, Mme Dang Thanh Landry, qui maîtrisait également le vietnamien, déménageait à Surrey, ce qui la plaçait beaucoup plus près du nouvel emplacement du salon de beauté de Langley que l’appelante. L’appelante a témoigné que Mme Landry lui a proposé de s’associer dans l’exploitation de ce nouveau salon.
+[4] L’appelante acceptait de le faire. Selon le témoignage de l’appelante, l’époux de Mme Landry, E. Landry, qui n’est pas avocat, a indiqué qu’il préparerait les documents nécessaires. Il voulait participer également à cette société de personnes et il a informé l’appelante qu’ils devaient mettre sur pied une société. L’appelante a témoigné qu’elle voulait simplement un contrat de société de personnes. Néanmoins, en conformité avec la Business Corporations Act (C.-B.) (BCA), M. Landry a préparé les statuts constitutifs d’une nouvelle société, puis l’appelante et lui ont signé ces statuts, chacun en qualité de « fondateur », au début janvier 2007. L’appelante a reconnu sa signature, mais a témoigné ne pas se souvenir du document lui-même.
+[5] L’appelante a témoigné que M. Landry a également préparé un contrat de 10 pages intitulé [traduction] « Contrat de sociétés de personne de 0780221 B.C. Ltd., une société de la Colombie-Britannique), qu’on a demandé à l’appelante de signer, ce qu’elle a fait. Ce document ne faisait aucune mention de la société dans ses 10 pages, hormis le titre du document susmentionné et à l’article 1.03 (immédiatement ci-dessous) et consistait essentiellement en un contrat de société de personnes remanié. Son préambule stipulait que l’appelante était associée à la société existante de M. Landry, nommée EKO Consulting and Appraisal Services Ltd. (EKO).
+[6] À l’article 1.03 sous le titre [traduction] « Nom de la société de personnes » était écrit [traduction] « Le nom de la société sera 0708221 BC Ltd. ». Comme le démontrent catégoriquement cette disposition et son titre, le document confondait les concepts de société et de société de personnes. L’appelante, appelée [traduction] « associée » tout au long du document, l’a signé (tout comme M. Landry), à la page 10 au-dessus du terme dactylographié [traduction] « Administrateur », bien qu’en l’absence d’une explication quelconque du sens ou de la pertinence de ce terme tel qu’utilisé dans ce soi-disant contrat de société de personnes.
+[7] Ce contrat, à l’article 1.05, prévoyait en outre que : [traduction] « La dénomination commerciale sera “Select Hair, Nails and Esthetics” et est la propriété exclusive de l’associée Khanh Le [c.-à-d. l’appelante] et est autorisée par elle à être utilisée à la fin exclusive de la présente société de personnes, sans rémunération ». De plus, à l’article 2.01 du contrat, il était prévu que chacune des deux associées (l’appelante et EKO) verserait un [traduction] « apport en capital initial à la société de personnes » de 20 000 $. L’article 2.13 dispose que [traduction] « Les profits et les pertes de la société de personnes seront partagés entre les associées [...] [50/50 entre elles] ».
+[8] L’appelante a témoigné qu’elle ignorait à partir de ces renseignements s’il y avait eu constitution en personne morale. Elle croyait détenir l’intégralité de l’entreprise et qu’elle était dans une société de personnes avec M. Landry qui, avec son épouse, devait exploiter l’entreprise au quotidien, étant disponible afin de prodiguer des conseils. Son apport de 20 000 $ a été effectué « en nature », par l’approvisionnement des locaux de Langley de produits divers de salon de beauté provenant de ses plusieurs salons de beauté de North Vancouver.
+[9] Les activités du salon de Langley ont commencé en 2007. M. Landry s’est chargé du traitement de la feuille de paye et des comptes clients de l’entreprise, ce qui, je crois comprendre, comprenait le versement des retenues à la source et de la TPS, alors que Mme Landry travaillait dans le salon lui-même. L’appelante ne se présentait que rarement dans les locaux de Langley. Elle a témoigné qu’elle se considérait elle-même comme une [traduction] « associée silencieuse », croyant (peut-être à tort] qu’elle était propriétaire de l’entreprise et qu’elle partageait à parts égales les profits et les pertes avec M. et Mme Landry, qui exploitaient l’entreprise. Au cours de sa première année, l’entreprise a perdu de l’argent. Au cours de sa deuxième année, elle a atteint le seuil de la rentabilité.
+[10] Par la suite, aux environs du début de 2009, un chèque pour le paiement du loyer des locaux de Langley [traduction] « a rebondi ». La propriétaire était une cliente de l’appelante. L’appelante est allée voir M. Landry pour lui en parler et l’a trouvé en compagnie d’une personne de métier en train de changer certains aspects du décor du salon de Langley. À partir de ce moment, l’appelante a décidé qu’elle ne voulait plus être dans une société de personnes avec M. Landry (techniquement, sa société, EKO). Elle a informé M. Landry qu’elle pouvait acheter sa participation (celle d’EKO) ou il (ou EKO) pouvait acheter la sienne. Ils ont convenu qu’EKO achèterait sa participation, pour une somme de 15 000 $. Cette transition de sa participation dans l’entreprise a été achevée aux environs de mai 2009, portant sur le transfert à EKO de ses 50 actions ordinaires de la société.
+[11] À la fin 2013, l’appelante a reçu une lettre de l’Agence du revenu du Canada (ARC) selon laquelle la société était délinquante relativement aux versements des retenues à la source et de la TPS nette. L’appelante a parlé à un agent de l’ARC et a indiqué qu’elle n’était pas associée à l’entreprise, la séparation ayant eu lieu en 2009. L’agent de l’ARC l’a informée qu’elle était néanmoins toujours inscrite en qualité d’administratrice de la société. L’appelante a témoigné que c’est à ce moment qu’elle a compris pour la première fois qu’elle était considérée comme une administratrice de la société, autrement elle se serait retirée en qualité d’administratrice en 2009 lorsqu’elle a vendu sa participation dans l’entreprise à EKO. L’agent de l’ARC lui a conseillé de présenter une lettre de démission à titre d’administratrice aux services du registre de la C.-B. Elle l’a fait rapidement le 23 décembre 2013, précisant que la démission était effective à compter du 4 mai 2009. Les services du registre de la C.-B. ont par conséquent tenu compte de ses renseignements dans sa liste publique des administrateurs et des changements d’administrateurs. Plusieurs mois plus tard, le 23 mai 2014, comme il est indiqué ci-dessus, l’appelante a fait l’objet d’une cotisation au titre de la responsabilité des administrateurs en vertu de la LIR et de la LTA.
+[12] M. F. Desai, un agent des recouvrements de l’ARC, a été appelé par l’intimée. Il a témoigné à propos des mesures qu’il a prises en établissant les cotisations au titre de la responsabilité des administrateurs.
+[13] En outre, M. Landry a été appelé par l’intimée. Il est évaluateur immobilier, exploitant une entreprise par l’intermédiaire de sa société, EKO. Son témoignage différait de celui de l’appelante à certains égards, rien n'était essentiel aux questions fondamentales, aux présentes. Il a témoigné que l’appelante avait approché son épouse à propos de la gestion du nouveau salon à Langley. À la fin 2006 ou au début 2007, les trois, accompagnés d’un homme, peut-être un ami de l’appelante, nommé « Gerry », se sont rencontrés pour discuter. M. Landry a témoigné qu’ils ont tous convenus qu’une société nouvellement constituée devrait être concernée et qu’ils devraient également conclure un contrat de société de personnes. Il a témoigné que c’était Gerry qui avait rédigé le contrat de société de personnes susmentionné.
+[14] Il a témoigné que le rôle que l’appelante était censée jouer était d’aider Mme Landry à exploiter l’entreprise en lui prodiguant des conseils sur les méthodes d’exploitation appropriées, p. ex, en ce qui concerne les ressources humaines et d’autres aspects de l’exploitation d’un salon de beauté. Il devrait gérer la feuille de paye et les comptes clients. Il a indiqué que Mme Landry n’était pas une partie au contrat, car elle était en congé de maternité. L’appelante et lui ne se sont parlé qu’en trois occasions. L’appelante parlait beaucoup plus avec Mme Landry, et ce, en vietnamien, que M. Landry ne comprenait pas.
+[15] M. Landary a témoigné qu’il croyait que [traduction] le « contrat de constitution en personne morale » en vertu de la BCA était constitué par le contrat de société de personnes susmentionné. Il a témoigné qu’il n’avait pas obligé l’appelante à constituer une personne morale. Il affirme que l’appelante ne lui a jamais posé de questions quant au moment des versements à l’ARC et il n’a jamais abordé cette question auprès d’elle. Il a fait remarquer que l’appelante n’avait pas démissionné en tant qu’administratrice en 2009 lorsqu’EKO a acheté ses actions dans la société. Elle l’a toutefois fait lorsque l’ARC a communiqué avec elle en 2013.
+[16] En contre-interrogatoire, M. Landry a convenu qu’aucune disposition dans les statuts de la société qu’il avait préparés et qu’elle avait signés n’identifiait les administrateurs. Il a témoigné qu’il avait l’impression qu’un contrat de constitution en personne morale en vertu de la BCA était [traduction] « quelque chose de semblable à un contrat de société de personnes ». Il a reconnu que le contrat de société de personnes a été signé après la constitution en personne morale. Il a reconnu qu’il n’y a jamais eu de réunion des administrateurs et que l’appelante n’avait jamais signé quoi que ce soit en qualité d’administratrice (en dehors du contrat de société de personnes lui-même, tel qu’il est indiqué ci-dessus). Elle n’a pas effectivement fourni des services de gestion. L’appelante a bien fourni un appui dans les débuts, mais elle a cessé ensuite – probablement parce qu’elle se trouvait à l’étranger. Elle avait l’habitude d’appeler pour demander comment l’entreprise se portait et de suggérer qu’ils [traduction] « essaient ceci ou cela ». M. Landry ne voulait plus lui parler après qu’elle a exprimé son mécontentement à l’égard d’un changement de décor qu’ils avaient apporté dans le salon de Langley pour faire baisser la température de l’air dans le salon.
+La question en litige :
+[17] Ainsi qu’il a été mentionné, la question est, l’appelante était-elle une administratrice de la société pendant l’une des périodes pertinentes (de 2007 à 2011)?
+Arguments :
+[18] L’appelante fait valoir qu’en aucun temps elle a été une administratrice de droit ou de fait. Le fondement pour faire valoir qu’elle n’était pas une administratrice de droit est que sa soi-disant nomination à titre d’administratrice ne satisfaisait pas à l’ensemble des exigences juridiques précisées dans la BCA. Plus particulièrement, elle n’avait signé aucun « contrat de constitution en personne morale »; elle n’était donc pas une « fondatrice »; et, par conséquent, elle n’était pas validement désignée comme une « première administratrice ».
+[19] L’appelante fait valoir qu’elle n’était ni une administratrice de fait, en référence à la décision de la procédure informelle dans MacDonald c. R., 2014 CCI 308, elle ne s’est pas présentée comme une administratrice et elle ne s’est pas livrée à des activités de gestion. Son avocat a fait valoir que [traduction] « [e]lle a fait ce qui est nettement loin d’être une administratrice de fait ». Il n’y avait aucune réunion, aucun chèque n’a été signé par elle et elle n’a pas participé à l’entreprise dans une grande mesure. Aucune [traduction] « question en matière d’administration » n’a fait l’objet d’une discussion lors des trois rencontres ou moins qu’elle a eues avec M. Landry. L’avocat de l’appelante a déclaré qu’il n’avait aucune observation quant à la défense de diligence raisonnable prévue par la loi.
+[20] L’intimée fait valoir que l’appelante a signé tous les documents qu’elle devait signer lorsque la société a été constituée en personne morale pour faire pleinement d’elle une administratrice de droit. Elle a signé les statuts pour la nouvelle société ainsi que le contrat intitulé [traduction] « Contrat de société de personnes de 0780221 B.C. Ltd., une société de la Colombie-Britannique ». L’intimée fait aussi valoir que l’article 413 de la BCA corrige toutes les déficiences techniques dans la nomination de l’appelante en qualité d’administratrice.
+Analyse :
+A. Administrateur de droit?
+[21] Les paragraphes 227.1(1) de la LIR et 323(1) de la LTA prévoient chacun la responsabilité des administrateurs pour les manquements des sociétés en matière de versements, comme suit :
+Responsabilité des administrateurs pour défaut d’effectuer les retenues
+227.1 (1) Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+….
+Responsabilité des administrateurs
+323 (1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2,3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[22] En ce qui concerne la question de savoir si l’appelante était une administratrice de droit, les dispositions pertinentes de la BCA, présentées ici par souci de commodité, sont les articles 10, 121 et 413, le paragraphe 123(1) et les définitions des termes [traduction] « premier administrateur » [traduction] « contrat de constitution en personne morale » et [traduction] « fondateur » à l’article 1 :
+[traduction]
+Formation d’une personne morale
+10 (1) Une ou plusieurs personnes peuvent former une personne morale :
+a) en concluant un contrat de constitution de personne morale,
+b) en déposant une demande de constitution en personne morale auprès du registraire,
+c) en se conformant à la présente partie.
+(2) Un contrat de constitution en personne morale doit :
+a) contenir l’accord de chaque constitution de personne morale de prendre, au nom du fondateur, une ou plusieurs actions de la personne morale,
+b) pour chaque fondateur,
+(i) une ligne de signature indiquant le nom complet de ce fondateur établie de manière lisible sous la ligne de signature,
+(ii) établir lisiblement à l’opposé de la ligne de signature de ce fondateur,
+(A) la date de signature par ce fondateur,
+(B) le nombre d’actions de chaque catégorie et série d’actions prises par ce fondateur,
+c) être signé sur la ligne de signature applicable par chaque fondateur.
+(3) Une demande de constitution en personne morale susmentionnée à l’alinéa (1)b) doit
+a) être dans le formulaire établi par le registraire,
+b) contenir une déclaration de la partie qui la remplie visée à l’article 15,
+c) établir les noms complets et les adresses postales des fondateurs,
+d) établir
+(i) le nom réservé pour la personne morale en application de l’article 22 et le numéro de réservation qui a été donné pour celle-ci,
+(ii) si un nom n’est pas réservé, une déclaration selon laquelle le nom en vertu duquel la personne morale doit être constituée est le nom créé,
+(A) dans le cas d’une société à responsabilité limité, en ajoutant « B.C. Ltd. » ou, si la personne morale est une entreprise à contribution communautaire, « B.C. Community Contribution Company Ltd. », après le numéro de constitution en personne morale de la personne morale,
+(B) dans le cas d’une société à responsabilité illimitée, en ajoutant « B.C. Unlimited Liability Company » après le numéro de constitution en personne morale de la personne morale,
+(e) contenir un avis des statuts qui tiennent compte des renseignements qui s’appliqueront à la personne morale à sa constitution.
+Premiers administrateurs
+121 (1) Sous réserve du paragraphe (2), les premiers administrateurs d’une personne morale occupent le poste d’administrateurs de la reconnaissance de la personne morale jusqu’à ce qu’il cesse d’occuper le poste en application du paragraphe 128(1).
+(2) Aucune désignation d’une personne en tant que premier administrateur d’une personne morale n’est valide, à moins que :
+(a) dans le cas d’une personne morale constituée en vertu de la présente Loi, la personne désignée
+(i) est un fondateur qui a signé les statuts,
+(ii) consent, conformément à l’article 123, à être un administrateur de la personne morale,
+(b) dans le cas d’une personne morale reconnue en vertu de la présente Loi dans la manière envisagée par l’alinéa 3(1)c), la personne désignée
+(i) a signé les statuts de la personne morale fusionnée,
+(ii) dans le cas d’une fusion en application de l’article 273, était, immédiatement avant la reconnaissance de la personne morale fusionnée, un administrateur de la société de portefeuille,
+(iii) dans le cas d’une fusion en application de l’article 274, était, immédiatement avant la reconnaissance de la personne morale fusionnée, un administrateur de la personne morale fusionnant dont les actions n’ont pas été annulées dans la fusion,
+(iv) consent, conformément à l’article 123, à être un administrateur de la personne morale fusionnée,
+c) dans le cas d’une personne morale reconnue en vertu de la présente Loi dans la manière envisagée par l’alinéa 3(1)b) ou d), la personne désignée
+(i) était, immédiatement avant la reconnaissance de la personne morale, un administrateur de la personne morale ou de la personne morale étrangère, selon le cas,
+(ii) consent, conformément à l’article 123, à être un administrateur de la personne morale.
+Consentement
+123(1) Une personne dont le consentement est requis en application de l’article 121 ou 122 peut consentir
+a) en fournissant un consentement écrit, avant ou après la désignation, l’élection ou la nomination de la personne,
+(i) dans le cas d’un administrateur visé au sous-alinéa 121(2)a)(ii) ou 122(4)a), à la personne morale,
+(ii) dans le cas d’un administrateur visé au sous-alinéa 121(2)b)(iv), à l’une des personnes morales fusionnant ou à la personne morale fusionnée,
+(iii) dans le cas d’un administrateur visé au sous-alinéa 121(2)c)(ii), à la personne morale ou à la personne morale étrangère, selon le cas, ou à la personne morale
+b) en exécutant les fonctions d’un administrateur de la personne morale, ou en réalisant les avantages exclusivement disponibles à celui-ci,
+(i) dans le cas d’un administrateur visé à l’article 121, après que la personne était informée ou aurait dû être informée de la désignation de la personne en qualité d’administrateur,
+(ii) dans le cas d’un administrateur visé à l’article 122(4)a), après que la personne était informée ou aurait dû être informée de l’élection ou de la nomination de la personne en qualité d’administrateur.
+Dépôts déficients
+413 Si un document à l’égard duquel la présente Loi ou toute autre loi impose certaines exigences est déposé auprès du registraire à l’égard d’une personne morale ou une société à responsabilité limitée et que ce document ne satisfait pas à l’ensemble de ces exigences,
+a) le document entre en vigueur conformément à ses modalités, comme s’il satisfaisait à l’ensemble de ces exigences,
+b) la personne morale ou la société à responsabilité limitée, à la réception d’une ordonnance du registraire de le faire, doit
+(i) déposer auprès du registraire tous les documents nécessaires pour corriger ou remplacer le dépôt déficient,
+(ii) retourner tous les documents requis par le registraire qui ont été fournis à la personne morale ou à la société à responsabilité limitée par le registraire relativement au dépôt déficient.
+Définitions
+1 « premier directeur » personne désignée comme un administrateur d’une personne morale à l’avis des statuts qui s’applique à la personne morale lorsqu’elle est reconnue en application de la présente Loi;
+« contrat de constitution en personne morale » un contrat visé à l’article 10;
+« fondateur » une personne qui, avant qu’une demande de constitution en personne morale soit envoyée au registraire aux fins de dépôt, signe le contrat de constitution en personne morale à l’égard de la personne morale en vertu de l’article 10;
+[23] L’appelante a été identifiée par M. Landry en tant qu’administratrice de la société dans les [traduction] « avis des statuts » faisant partie de la demande de constitution en personne morale exigés par l’article 10 de la BCA que M. Landry, en qualité de [traduction] « partie remplissant la demande », avait préparés et envoyés le 18 janvier 2007 au registre des sociétés et des biens personnels de la Colombie-Britannique. Cependant les [traduction] « avis des statuts » n’exigeaient aucune signature de la part d’un administrateur qui y était nommé et les statuts, que l’appelante a effectivement signés (en qualité de « fondatrice ») n’identifiaient aucun administrateur. Aucune observation des parties n’indiquait que l’appelante eût déjà vu [traduction] l’« avis des statuts ». Dès la réception de la demande de constitution en personne morale, la personne morale a été reconnue à la même date et constituée en personne morale. Un certificat de constitution a également été délivré en ce sens.
+[24] Un « premier administrateur » est défini à l’article 1 de la BCA essentiellement comme une personne désignée en qualité d’administrateur dans l’avis des statuts qui s’applique à la nouvelle personne morale reconnue en vertu de la BCA. L’appelante était ainsi désignée dans l’avis des statuts. Cependant, l’alinéa 121(2)a) de la BCA dispose, dans l’extrait pertinent, qu’aucune désignation de ce genre n’est valide à moins que la personne désignée soit un fondateur ayant signé les statuts ou ayant consenti à être un administrateur en application de l’article 123. Il n’y a eu aucun consentement en application de l’article 123. Donc, l’appelante était-elle [traduction] « un fondateur qui a signé les statuts »? Elle a effectivement signé les statuts et était identifiée à la ligne de signature comme une [traduction] « fondatrice ». Cependant, l’était-elle?
+[25] Un [traduction] « fondateur » est défini à l’article 1 comme signifiant [traduction] « une personne qui, avant qu’une demande de constitution en personne morale soit envoyée au registraire aux fins de dépôt, signe le contrat de constitution en personne morale à l’égard de la personne morale en vertu de l’article 10 ». Un [traduction] « contrat de constitution en personne morale » est défini à l’article 1 comme signifiant [traduction] « un contrat visé à l’article 10 ». Le paragraphe 10(2) dispose qu’un contrat de constitution en personne morale [traduction] « doit [...] contenir le consentement de chaque fondateur de prendre une ou plusieurs actions de la personne morale » et que chaque fondateur doit l’avoir signé et daté, et [traduction] « établir [...] le nombre d’actions de chaque catégorie et série d’actions prises par ce fondateur ».
+[26] Et c’est ici que le bât blesse. D’après la preuve présentée à l’audience, y compris, essentiellement, sa propre admission, il semble que ce que M. Landry considérait comme le [traduction]« contrat de constitution en personne morale » est le contrat intitulé [traduction] « Contrat de société de personnes de 0780221 B.C. Ltd., une société de la Colombie-Britannique ».
+[27] Le début de ce contrat se lit précisément comme suit :
+[traduction]
+EKO Consulting and Appraisal Services Ltd. et Khanh (Kim) Le, ci-après appelées (les associées), s’associent volontairement en tant que commanditaires, en application des modalités énoncées dans le contrat de société de personnes.
+[28] L’élément important exigé par la BCA dans le cadre d’un [traduction] « contrat de constitution en personne morale » est, aux termes du paragraphe 10(2), une déclaration quant au [traduction] « nombre d’actions de chaque catégorie et série d’actions prises par ce fondateur ». Cependant, on ne fait aucune mention de cette exigence dans ce soi-disant contrat de société de personnes. En effet, on n’y fait même aucune mention des actions ou des actionnaires.
+[29] Ce contrat est non daté, en dehors d’une référence au mois de janvier 2007. Il est signé par l’appelante et M. Landry, respectivement, chacun étant identifié en qualité d’« administrateur », sans aucun contexte lié à cette référence.
+[30] En faisant cette observation, je suis conscient du témoignage de l’appelante selon lequel elle a exprimé à M. Landry et à son épouse son souhait de conclure un contrat de société de personnes. Elle n’a pas demandé un contrat de société, cependant, c’est ce que M. Landry a organisé. Cela semble confirmé par le fait que M. Landary a préparé la demande de constitution de personne morale et que lui ou Gerry ont préparé ce que l’on a appelé un « contrat de société de personnes » pour qu’il soit signé par l’appelante et M. Landry.
+[31] Par conséquent, il semble qu’il n’y avait aucun [traduction] « contrat de constitution en personne morale » réel dans cette situation, ce qui légalement et inévitablement mène à la conclusion que l’appelante n’était pas une [traduction] « fondatrice » au sens de l’article 1 de la BCA. À son tour, cela mène, conformément à l’alinéa 121(2)a) de la BCA énoncé ci-dessus, à l’invalidité de toute désignation selon laquelle elle était une administratrice.
+[32] Le fait qu’à la fin du long contrat de société de personnes l’appelante a signé son nom au-dessus de la désignation [traduction] « administratrice » ne modifie en rien ces conclusions. Aucun contexte n’a été présenté en ce qui concerne l’apparition de cette désignation à la fin du long contrat qui portait sur une société de personnes et qui ne mentionnait que brièvement la société au début du contrat. Les parties étaient appelées [traduction] « associées » tout au long du contrat. En outre, le fait de signer au-dessus du titre [traduction] « administratrice » dans ce contrat ne constituait aucunement une représentation par un tiers. Le document était un document privé qui ne devait pas être déposé ou rendu public et qui, en fait, ne l’a pas été.
+[33] À l’audience, l’intimée a soulevé la question de l’article 413 de la BCA pour faire valoir qu’un problème technique ne devrait pas invalider la nomination de l’appelante en qualité d’administratrice. L’article 413, présenté ci-dessus, dispose essentiellement que si un document déposé auprès du registraire ne satisfait pas à toutes les exigences prévues par la loi, il est tout de même en vigueur comme s’il avait satisfait à toutes les exigences prévues par la loi avec l’obligation de corriger le document en particulier.
+[34] Cependant, je suis d’avis que cette disposition ne s’appliquerait pas, pour la simple raison qu’un [traduction] « contrat de constitution en personne morale » n’est pas en réalité un document qui doit être déposé auprès du registraire. Une [traduction] « demande de constitution en personne morale » ne comprend pas le [traduction] « le contrat de constitution en personne morale », ni les statuts de la personne morale naissante. En conséquence, l’article 413 n’est d’aucune utilité à l’intimée. En outre, comme je l’ai déjà souligné, l’alinéa 121(2)a) de la BCA précise en fait que la désignation en qualité d’administrateur n’est pas valide lorsqu’un [traduction] « fondateur » n’a pas signé un [traduction] « contrat de constitution en personne morale »; comme nous avons conclu que c’était le cas en l’espèce.
+[35] Au motif de ce qui précède, je conclus que’à aucun moment l’appelante n’était une administratrice de droit de la personne morale.
+B. Administratrice de fait?
+[36] Néanmoins, l’appelante était-elle une administratrice de fait de la personne morale?
+[37] Dans Wheeliker c. R., [1999] 2 C.T.C. 395 (C.A.F.), le potentiel de responsabilité des administrateurs en vertu de la LIR pour les administrateurs de fait a été reconnu. La Cour d’appel fédérale a déclaré (selon les termes du juge Létourneau, au paragraphe 5) :
+[...] en utilisant le terme « administrateurs » sans restrictions au paragraphe 227.1(1), le législateur a voulu qu’il recouvre tous les genres d’administrateurs reconnus en droit des sociétés, notamment les administrateurs de droit et de fait.
+[38] La jurisprudence tient compte du fait que le concept d’administrateur de fait devrait se limiter aux personnes qui se font passer pour des administrateurs (MacDonald c. R., précitée, au paragraphe 39). En outre, dans Perricelli v. R., 2002 G.T.C. 244, le juge Miller a fait remarquer qu’une personne ne peut pas être considérée comme un administrateur de fait lorsque la personne :
+[...] ne se [considère] plus comme un administrateur et ne [croit] en aucun moment disposer du pouvoir nécessaire pour donner des conseils ou exercer une influence ou un contrôle relativement à la gestion ou l’administration de la société.
+[39] La jurisprudence à l’appui de ce principe provient d’une décision de procédure générale du juge en chef Bowman dans Scavuzzo c. R., [2005] G.S.T.C. 199. Au paragraphe 27, il a écrit :
+[27] Je crois qu’il sera évident qu’il faut employer l’expression « administrateur de fait » avec prudence. Cette expression n’a pas une portée aussi étendue que celle qui lui est parfois attribuée. Ainsi, elle ne s’applique pas, du moins, pas pour ce qui est de la responsabilité dérivée des administrateurs en vertu de la LIR et de la LTA, à quiconque exerce un pouvoir au sein de la société. Elle peut s’appliquer à des personnes qui, bien qu’elles soient élues à titre d’administratrices, ne le sont peut-être pas à cause de certaines exigences techniques. Elle peut également inclure des personnes qui se présentent comme des administrateurs, de sorte que les tiers se fondent sur leurs pouvoirs à titre d’administrateurs. Tel est essentiellement le principe sur lequel le juge Noël a fondé sa conclusion au paragraphe 20 de l’arrêt Wheeliker.
+[40] Dans la présente espèce, l’appelante ne s’est manifestement pas présentée à aucun moment comme une administratrice de la société. En outre, on peut s’interroger, au moins jusqu’à ce qu’elle vende sa participation dans l’entreprise à M. Landry pour 15 000 $ en mai 2009, dans quelle mesure elle était même consciente de l’existence de la société. Cependant, en acceptant qu’elle l’était, elle ne s’est livré à aucun acte de gestion, comme l’a reconnu M. Landry, comme je l’ai indiqué ci-dessus, et moins encore à des actes propres à une administratrice. Son propre témoignage, non contredit, était que ce n’était pas avant que l’ARC communique avec elle en 2013 qu’elle a appris qu’elle était considérée comme une administratrice de la société. De plus, le fait qu’elle était publiquement inscrite en qualité d’administratrice, même si elle l’ignorait, n’exige pas qu’elle soit une administratrice de fait (MacDonald, précitée, au paragraphe 49). Une fois de plus, à aucun moment elle ne s’est comportée ou présentée comme une administratrice. Par conséquent, je conclus que l’appelante n’était pas une administratrice de fait de la société.
+[41] Je fais remarquer que l’intimée a fait valoir que si l’appelante n’était pas une administratrice, alors, de manière semblable, M. Landry ne l’était pas non plus, cependant, en vertu de l’article 120 de la BCA, la société devait avoir à tout le moins un administrateur, l’intimée laissant entendre que l’appelante devrait être cette administratrice. Je ne suis pas d’accord. La personne qui logiquement et manifestement devrait être cet administrateur est M. Landry, qui a préparé la demande de constitution de personne morale et s’est décrit dans celle-ci comme la [traduction] « personne remplissant » la demande de constitution en personne morale. Par ailleurs, de toute façon, il semble probable (mais je ne tire aucune conclusion) qu’il ait été un administrateur de fait au motif qu’il se présentait comme un administrateur de la société.
+Conclusion :
+[42] L’appelante n’ayant été ni une administratrice de droit ou de fait de la société, je conclus que les trois cotisations au titre de la responsabilité des administrateurs que l’appelante a porté en appel sont invalides. En conséquence, chacun des deux appels entendus sur une preuve commune sera accueilli, avec dépens fixés à 500 $ (1 000 $ au total) pour chacun en faveur de l’appelante, et chacune de ces trois cotisations sera annulée.
+Signé à Toronto (Ontario), ce 9e jour d’avril 2018.
+« B. Russell »
+Le juge Russel
+RÉFÉRENCE :
+2018CCI65
+NO DE DOSSIER DE LA COUR :
+2016-207(IT)I
+2016-1006(GST)I
+INTITULÉ :
+KHANH THI LE C. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 12 septembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 9 avril 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Frank W. Quo Vadis
+Avocat de l’intimée :
+Me Jamie Hansen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Frank W. Quo Vadis
+Cabinet :
+Koffman Kalef
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

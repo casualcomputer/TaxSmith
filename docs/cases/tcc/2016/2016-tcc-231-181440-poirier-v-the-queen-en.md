@@ -1,0 +1,247 @@
+---
+title: "Poirier v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181440/index.do"
+last_modified: "2016-10-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 231"
+citation2: ""
+neutral_citation: "2016 TCC 231"
+decision_date: "2016-10-14"
+language: "en"
+item_id: "181440"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2977
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:39:39.301000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1fff69da6700d646768375c6fe1c886df04a4069f38a6e09c2b13483b9f79c61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poirier v. The Queen
+
+- Citation: 2016 TCC 231
+- Decision date: 2016-10-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2977, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poirier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-14
+Neutral citation
+2016 TCC 231
+File numbers
+2014-1187(IT)G, 2014-1188(IT)G, 2014-1818(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1187(IT)G
+BETWEEN:
+LUC POIRIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard with the appeals of Estelle Cormier, 2014-1188(IT)G, and Centre du radiateur des Îles inc., 2014-1818(IT)I, on September 12 and 13, 2016, at Îles-de-la-Madeleine, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Jean Yanakis
+Counsel for the Respondent:
+Dominique Gallant
+JUDGMENT
+The appeal of the reassessments issued under the Income Tax Act ("ITA") for the 2004, 2005, 2006, 2007 and 2008 taxation years is allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for review and reassessment based on the agreement between the parties, to the effect that:
+a) For the 2005 taxation year:
+- The taxable income of $80,378 shall be reduced by $27,000.
+b) For the 2006 taxation year:
+- The taxable income of $77,678 shall be reduced by $36,243.
+c) For the 2007 taxation year:
+- The taxable income of $88,904 shall be reduced by $53,008.
+d) For the 2008 taxation year:
+- The taxable income of $64,830 shall be reduced by $33,833.
+The penalties under subsection 163(2) of the ITA shall be adjusted based on the appellant’s new taxable income for the 2005, 2006, 2007 and 2008 taxation years.
+For all other purposes, the reassessments as previously established shall remain unchanged.
+Signed at Ottawa, Canada, this 14th day of October 2016.
+“Johanne D’Auray”
+D’Auray J.
+Docket: 2014-1188(IT)G
+BETWEEN:
+ESTELLE CORMIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Luc Poirier, 2014-1187(IT)G, and Centre du radiateur des Îles inc., 2014-1818(IT)I, on September 12 and 13, 2016, at Îles-de-la-Madeleine, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Jean Yanakis
+Counsel for the Respondent:
+Dominique Gallant
+JUDGMENT
+The appeal of the reassessments issued under the Income Tax Act ("ITA") for the 2005, 2006, 2007, 2008 and 2009 taxation years is allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for review and reassessment based on the agreement between the parties, to the effect that:
+a) For the 2006 taxation year:
+- The taxable income of $46,069 shall be reduced by $5,838.
+b) For the 2007 taxation year:
+- The taxable income of $130,721 shall be reduced by $36,243.
+c) For the 2008 taxation year:
+- The taxable income of $93,584 shall be reduced by $28,274.
+The penalties under subsection 163(2) of the ITA shall be adjusted based on the appellant’s new taxable income for the 2006, 2007 and 2008 taxation years.
+For all other purposes, the reassessments as previously established shall remain unchanged.
+Signed at Ottawa, Canada, this 14th day of October 2016.
+“Johanne D’Auray”
+D’Auray J.
+Docket: 2014-1818(IT)I
+BETWEEN:
+CENTRE DU RADIATEUR DES ÎLES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Luc Poirier, 2014-1187(IT)G, and Estelle Cormier, 2014-1188(IT)G, on September 12 and 13, 2016, at Îles-de-la-Madeleine, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Jean Yanakis
+Counsel for the Respondent:
+Dominique Gallant
+JUDGMENT
+The appeal of the reassessments issued under the Income Tax Act ("ITA") for the 2006, 2007 and 2008 taxation years is allowed, without costs, and the reassessments are referred back to the Minister of National Revenue for review and reassessment based on the agreement between the parties, to the effect that:
+a) For the 2006 taxation year:
+- The income of $59,522 added by the minister as unreported income shall be reduced by $27,536.
+b) For the 2007 taxation year:
+- The income of $64,432 added by the minister as unreported income shall be reduced by $59,433.
+c) For the 2008 taxation year:
+- The income of $101,022 added by the minister as unreported income shall be reduced by $87,061.
+The penalties under subsection 163(2) of the ITA shall be adjusted based on the appellant’s new income for the 2006, 2007 and 2008 taxation years.
+For all other purposes, the reassessments as previously established shall remain unchanged.
+Signed at Ottawa, Canada, this 14th day of October 2016.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2016 CCI 231
+Date: 20161014
+Docket: 2014-1187(IT)G
+BETWEEN:
+LUC POIRIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-1188(IT)G
+AND BETWEEN:
+ESTELLE CORMIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-1818(IT)I
+AND BETWEEN:
+CENTRE DU RADIATEUR DES ÎLES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D’Auray J.
+[1] At the hearing, the parties settled the appeals as follows:
+I. Appeal by Luc Poirier, 2014-1187(IT)G [2] Under this settlement, the Minister of National Revenue ("minister") shall issue reassessments based on the following:
+a) For the 2005 taxation year:
+- The taxable income of $80,378 shall be reduced by $27,000.
+b) For the 2006 taxation year:
+- The taxable income of $77,678 shall be reduced by $36,243.
+c) For the 2007 taxation year:
+- The taxable income of $88,904 shall be reduced by $53,008.
+d) For the 2008 taxation year:
+- The taxable income of $64,830 shall be reduced by $33,833.
+[3] In issuing these reassessments for the 2005, 2006, 2007 and 2008 taxation years, the minister shall adjust the penalties assessed under subsection 163(2) of the Income Tax Act ("ITA") taking into account the reductions in the appellant’s taxable income as listed in paragraphs 2a), 2b), 2c) and 2d) of these reasons.
+II. Appeal by Estelle Cormier, 2014-1188(IT)G [4] Under this settlement, the minister shall issue reassessments based on the following:
+a) For the 2006 taxation year:
+- The taxable income of $46,069 shall be reduced by $5,838.
+b) For the 2007 taxation year:
+- The taxable income of $130,721 shall be reduced by $36,243.
+c) For the 2008 taxation year:
+- The taxable income of $93,584 shall be reduced by $28,274.
+[5] In issuing these reassessments for the 2006, 2007 and 2008 taxation years, the minister shall adjust the penalties assessed under subsection 163(1) of the ITA taking into account the reductions in the appellant’s taxable income as listed in paragraphs 4a), 4b) and 4c) of these reasons.
+III. Appeal by Centre du radiateur des Îles inc., 2014-1818(IT)I [6] Under this settlement, the minister shall issue reassessments based on the following:
+a) For the 2006 taxation year:
+- The income of $59,522 added by the minister as unreported income shall be reduced by $27,536.
+b) For the 2007 taxation year:
+- The income of $64,432 added by the minister as unreported income shall be reduced by $59,433.
+c) For the 2008 taxation year:
+- The income of $101,022 added by the minister as unreported income shall be reduced by $87,061.
+[7] In issuing these reassessments for the 2006, 2007 and 2008 taxation years, the minister shall adjust the penalties assessed under subsection 163(2) of the ITA taking into account the reductions in the appellant’s income as listed in paragraphs 6a), 6b) and 6c) of these reasons.
+[8] These cases were scheduled for hearings on September 12, 13 and 14, 2016, at Îles-de-la-Madeleine.
+[9] At the start of the first day of the hearing, the parties requested time to discuss the cases.
+[10] After two days of discussion, the parties reached a settlement in all three cases, except for costs.
+[11] In these cases, the minister issued reassessments for several items. In Luc Poirier’s case, the minister issued a reassessment adding amounts to his income for the taxable benefits and unreported capital gains. The minister also cancelled a loss carryover and set penalties under subsection 163(2) of the ITA.
+[12] In the case of Centre du Radiateur des Îles inc., the minister issued a reassessment of the company’s unreported income and interest. She also set penalties under subsection 163(2) of the ITA for the 2006, 2007 and 2008 taxation years.
+[13] In Estelle Cormier’s case, the minister issued a reassessment adding amounts to her income for the taxable benefits and set penalties under subsection 163(2) of the ITA.
+[14] The respondent is asking for costs to be granted to it for all three cases: those of Luc Poirier and Estelle Cormier under Tariff A of the Tax Court of Canada Rules, General Procedure ("Rules") and that of Centre du radiateur des Îles inc., (2014-1818(IT)I), under subsection 10(2) of the Tax Court of Canada Rules, Informal Procedure ("Rules, Informal Procedure").
+[15] In short, the respondent says that if it were given all the documents before the hearing, it is very likely that the cases would have been resolved long before the dates of the hearing, and its preparations for this dispute could have been avoided. It also noted that there were delays in these cases, since the notices of appeal did not comply with Court Rules. Extensions of time were also requested to produce the lists of documents.
+[16] Counsel for the appellants says that the cases have not been unduly delayed in his time as counsel of record. He notes that he had to review the cases. In addition, this Court granted the requests to extend the deadline to file the lists of documents for the appeals filed under the general procedure. It took his clients a lot of time and effort to find the documents relevant to the cases. Moreover, Mr. Poirier and Ms. Cormier work long hours, which made it harder for them to find documents.
+[17] This Court may only grant costs to the respondent in an informal procedure if an appellant’s actions unduly delayed the quick and efficient settlement of the appeal. I am of the opinion that the respondent has not established that Centre du radiateur des Îles inc. unduly delayed the settlement of its appeal before this Court. Consequently, costs should not be granted to the respondent in this case.
+[18] In Luc Poirier and Estelle Cormier’s cases, I am of the opinion that from the time the appellants were represented by counsel, the Rules were followed. In these cases, so many items were assessed that a settlement conference would really have been the best way to reach a settlement.[1] The advantage of a settlement conference is that all the parties come together not only to provide documents, but also to explain the contents of these documents. In this case, none of the parties requested a settlement conference. It is possible, as counsel for the respondent claims, that if all the documents had been provided in advance, the cases could have been settled long before the hearing. In fact, if the appellants had asked for costs to be granted to them, I would have refused. However, in light of my reading of the cases, I am of the opinion that the respondent has not established that costs should be granted to it.
+Signed at Ottawa, Canada, this 14th day of October 2016.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2016 CCI 231
+COURT FILE NO.:
+2014-1187(IT)G
+2014-1188(IT)G
+2014-1818(IT)I
+STYLE OF CAUSE:
+LUC POIRIER v HER MAJESTY THE QUEEN
+ESTELLE CORMIER v HER MAJESTY THE QUEEN
+CENTRE DU RADIATEUR DES ÎLES INC. v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Îles-de-la-Madeleine, Quebec
+DATE OF HEARING:
+September 12 and 13, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATED:
+October 14, 2016
+APPEARANCES:
+Counsel for the Appellants:
+Jean Yanakis
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Jean Yanakis
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+1. All three cases, including the informal procedure, would have benefitted from a settlement conference.

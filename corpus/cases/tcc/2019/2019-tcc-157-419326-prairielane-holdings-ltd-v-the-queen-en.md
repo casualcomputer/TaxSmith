@@ -1,0 +1,281 @@
+---
+title: "Prairielane Holdings Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/419326/index.do"
+last_modified: "2019-07-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 157"
+citation2: ""
+neutral_citation: "2019 TCC 157"
+decision_date: "2019-07-26"
+language: "en"
+item_id: "419326"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4215
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:07:24.494000+00:00"
+cases_cited_count: 12
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "150cb1a3e697a63b621195b33d7c23cb55060db4ec97fa971d05ad268dbf3b37"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prairielane Holdings Ltd. v. The Queen
+
+- Citation: 2019 TCC 157
+- Decision date: 2019-07-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4215, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prairielane Holdings Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-07-26
+Neutral citation
+2019 TCC 157
+File numbers
+2015-3513(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-3513(IT)G
+BETWEEN:
+PRAIRIELANE HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2015-3512(IT)G
+BETWEEN:
+STREIFEL CONSULTING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence on April 15, 16, 17 and 18, 2019, at Saskatoon, Saskatchewan
+By: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Amanda S.A. Doucette
+Beaty F. Beaubier
+Counsel for the Respondent:
+John Krowina
+JUDGMENT
+The Appeal from the reassessment made under the Income Tax Act for the Appellant’s (Prairielane Holdings Ltd.) taxation year ending November 30, 2011 is allowed, with costs, and the reassessment is vacated.
+The Appeals from the reassessments made under the Income Tax Act for the Appellant’s (Streifel Consulting Ltd.) taxation years ending December 31, 2011 and December 31, 2012 are allowed, with costs, and the reassessments are vacated.
+Signed at Ottawa, Canada, this 26th day of July 2019.
+“R. MacPhee”
+MacPhee J.
+Citation: 2019 TCC 157
+Date: 20190726
+Docket: 2015-3513(IT)G
+BETWEEN:
+PRAIRIELANE HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2015-3512(IT)G
+BETWEEN:
+STREIFEL CONSULTING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+I. INTRODUCTION:
+[1] These Appeals were heard on common evidence. The issue before the Court is whether Prairielane Holdings Ltd. (“PLH”) and Streifel Consulting Ltd. (“SCL”) are properly deemed associated corporations by virtue of subsection 256(2.1) of the Income Tax Act [1] ( the “Act”).
+[2] The Respondent contends that the Appellants are associated because one of the main reasons for the separate existence of the two corporations was to reduce tax, in particular through the availability of the small business deduction (“SBD”). PLH appeals the 2011 taxation year. SCL appeals both the 2011 and 2012 taxation years.
+II. BACKGROUND:
+[3] John Mathison (“Mr. Mathison”) was at all times the sole director and officer of PHL. Lloyd Streifel (“Mr. Streifel”) was at all times the sole director and officer of SCL. Both of these individuals testified at trial.
+[4] Prior to a major reorganization in 2009, a corporation by the name Moody’s Equipment Ltd. (“MEL”) carried on business for several years as a farm implement dealer for Case New Holland, selling farm equipment parts, providing services and operating as a construction equipment dealer. PLH held 51% of the shares of MEL as of December 2008. Mr. Streifel held 4.089% of MEL.
+[5] In 2009, the business of MEL underwent a significant restructuring. As part of the restructuring a partnership was formed on April 30, 2009.
+[6] Pursuant to the partnership agreement, income from the partnership is allocated annually with the first allocation based on capital contributions, the second allocation based on performance factors in respect of each partner, and the remaining income being allocated based on each partner’s participating interest. Prairielane Enterprises (owned by PLH) held 61% of the newly created partnership participating interest. Streifel Enterprises Ltd. (owned by SCL) held 5.5% of the participating interest.
+[7] Prior to the reorganization it is undisputed that in 2007 MEL, and therefore by extension the Appellants, had a number of corporate issues to deal with. These issues were described in great detail at trial. They can be summarized as follows:
+(1) MEL was expanding, and was in the process of acquiring three additional dealerships. As part of this expansion, a new partner, Belsher Equipment Ltd., was acquiring a 5% interest in MEL as partial consideration for the sale of its assets to MEL.
+(2) It was anticipated that the partnership would need to acquire significant cash in order to purchase these businesses.
+(3) There were various departures of partners coming about. In particular Mr. Mathison, the majority shareholder of MEL, was planning to retire from the business in 2013.
+(4) Darrel Moody (“Mr. Moody”), a founding shareholder in MEL, was no longer active in the business. The other shareholders were interested in removing him from the business.
+(5) Various partners, including Mr. Streifel, were looking to increase their ownership in the business.
+[8] In 2007 the partnership sought professional advice to ensure they were properly dealing with these issues. Mr. Mathison was the point man for the partners in this endeavor. He initially sought the advice of MEL’s long-time accountant Doug Frondall (“Mr. Frondall”) Mr. Frondall in turn sought the assistance of Alain Gaucher (“Mr. Gaucher”), an experienced tax lawyer. Mr. Gaucher was retained on the matter. Mr. Gaucher eventually formulated a proposed structure which was implemented in April 2009.
+[9] As part of this reorganization several companies were incorporated in April 2009. The resulting organizational structure is set out in the Partial Agreed Statement of Facts at Schedule 1, Exhibit C in the attached Appendix A of this decision. The structure chosen is often referred to as a “stacked corporation”. Of some importance for the Appellants’ case are the year ends for each party in this stacked corporation.
+[10] There were various results created through the use of the stacked corporation. Two immediate and clearly identifiable results were as follows. The corporations in the new structure, which includes the Appellants, were able to achieve a tax deferral of up to 25 months.
+[11] Another immediate result of the reorganization, which leads to the reassessment before the Court, was that PLH was able to claim the SBD in the 2011 taxation year. SCL was able to claim the SBD in the 2011 and 2012 taxation years. Prior to the restructuring, neither party was able to claim the SBD.
+[12] The Canada Revenue Agency took the position that the main reason (or one of the main reasons) that the Appellants created the stacked partnership structure was to allow the Appellants to claim an SBD which previously was not available. Therefore, as a result of the application of subsection 256(2.1) of the Act both Appellants were deemed to be associated with seven other corporations. The ensuing assessment had the effect of eliminating the SBD that the Appellants were claiming. Once the corporations in question are associated, they are then characterized as large business corporations.
+III. ANALYSIS:
+[13] As noted above, the question before the Court is whether the Appellants are properly deemed to be associated pursuant to subsection 256(2.1) of the Act.
+[14] Subsection 256(2.1) of the Act, an anti-avoidance provision, reads as follows:
+(2.1) For the purposes of this Act, where, in the case of two or more corporations, it may reasonably be considered that one of the main reasons for the separate existence of those corporations in a taxation year is to reduce the amount of taxes that would otherwise be payable under this Act or to increase the amount of refundable investment tax credit under section 127.1, the two or more corporations shall be deemed to be associated with each other in the year.
+[15] It should be pointed out that I must determine the reasons for the separate existence of two or more corporations during the taxation year, not the reasons for which the corporations were initially created. [2]
+[16] As per the evidence in this case, the reasons that corporations were initially created does not differ from the reasons for the separate existence of the corporations during the taxation years in question.
+[17] In my analysis, I will focus on the above underlined terms from subsection 256(2.1) of the Act, applying this analysis to the facts led at trial. These terms are as follows:
+A. May reasonably be considered
+[18] Although no decisions in regards to subsection 256(2.1) of the Act have defined the terms “may reasonably be considered”, the term is used in other sections and was defined by the Federal Court of Appeal (the “FCA”) in Wu v. R. [3] :
+In our view, with the additional words in subsection 15(1.1) allowing for its application where “it may reasonably be considered” that one of the purposes of payment is alteration of the value of the interest of a shareholder, the onus is even greater on a taxpayer to produce some explanation which is objectively reasonable that none of the purposes was to alter the value of a shareholder's interest.
+[19] Of particular assistance is the FCA decision in OSFC Holdings Ltd. v. R. [4] which found that:
+46 The words “may reasonably be considered to have been undertaken or arranged” in subsection 245(3) indicate that the primary purpose test is an objective one. Therefore the focus will be on the relevant facts and circumstances and not on statements of intention. It is also apparent that the primary purpose is to be determined at the time the transactions in question were undertaken. It is not a hindsight assessment, taking into account facts and circumstances that took place after the transactions were undertaken.
+[20] I will therefore apply an objective test in my analysis. As has been often stated, applying a subjective test, thus relying upon the stated intentions of each Appellant, is of limited use in such an analysis.
+B. Main reason
+[21] Associate Chief Justice Lamarre in Gerbro [5] summarized the “main reason” test, also followed by Jencal [6] :
+[157] The case law applying the “one of the main reasons” test and the “one of the main purposes” test is instructive as to the legal principles applicable in making an appropriate factual determination. Those principles, as adapted for the purpose of the OIFP Rules, can be summarized as follows:
+(1) A taxpayer's reasons for investing can be disclosed or undisclosed, and the fact that a tax-avoidance reason is undisclosed, as is often the case, does not prevent a court from inferring that such a reason existed; Symes v. Canada, 1993 CanLII 55 (SCC), [1993] 4 S.C.R. 695 at 736;
+(2) There can be more than one main reason for investing in a non-resident entity: Groupe Honco Inc v. The Queen, 2013 FCA 128 (CanLII), 2014 DTC 5006, at paragraph 24, aff'g 2012 TCC 305 (CanLII), 2013 DTC 1032;
+(3) The Motive Test is not a sine qua non test under which the Court must conclude that tax avoidance was not a main reason for investing if it is convinced that the taxpayer would have invested notwithstanding the absence of any tax benefit: Continental Stores Ltd. v. The Queen, 79 DTC 5213 (FCTD) at 5217; Honeywood Ltd. et al. v. The Queen, [1981] C.T.C. 38 (FCTD); contra: Jordans Rugs Ltd. et al. v. M.N.R., [1969] C.T.C. 445 (Ex. Ct.).
+(4) It is improper to conclude that resulting tax savings automatically lead to the inference that obtaining those tax savings must have been a main reason for investing: Les Installations de l'Est Inc. v. Canada, [1990] 2 C.T.C. 503 (FCTD), at 509 10; Saratoga Building Corp. v. M.N.R., [1993] 2 C.T.C. 2074 (TCC), at 2086; and
+(5) Choosing to invest in a non-resident entity when there was the possibility of investing in another vehicle triggering a larger tax liability is not necessarily determinative of a tax benefit main reason; Alpine Furniture Co. Ltd. et al. v. M.N.R., 68 DTC 5338 (Ex. Ct.), at 5345.
+[22] While not determinative, an important question to answer in attempting to conclude whether a reason is considered a main reason is “If there had been no tax advantage, would the plan have been adopted in any event?” [7]
+[23] In deciding on what significance is required to constitute a ‘main reason’
+Decary, J. in Lenco Fibre Canada Corp. v. R. (1979) [8] , stated that:
+[4] ...the word “main” must be given its significance. In the French language version of the statute, the corresponding word is “principaux”. Not every reason will meet this standard. Thus, even where the reduction of taxes payable is a reason, a judgment must still be made as to whether it was a main or principal reason...
+C. Reduces taxes
+[24] In Decker Contracting Ltd. v. R. [9] , the FCA interpreted the previous version of subsection 256(2.1) of the Act and held that:
+15 The phrase “to reduce the amount of taxes that would otherwise be payable under this Act” refers to the tax which would have been payable if the companies under consideration had not had a separate existence; [….]
+[25] The Tax Court of Canada in McAllister Drilling Ltd. v. R. [10] held that:
+5 A direction under 247(2) [previous version of 256(2.1)] can be issued only if both prerequisites in the section are met. However, it is only the prerequisite in section 247(2)(b) that is of concern in this appeal. It provides that the Minister must be satisfied that one of the main reasons for the separate existence of Drilling, Holdings and Waterwells in 1981 and 1984 was to reduce the amount of taxes which would otherwise have been payable if their businesses had been carried on by only one corporation.
+[26] There is no question that both Appellants, as a result of the newly created structure, have seen a reduction in taxes through their access to the SBD. The onus is on the Appellants to prove that one of the main reasons for the separate existence of the corporations was not to reduce taxes. In this case, access to the SBD by the Appellants has been identified by the Respondent as the sought after reduction in taxes.
+[27] While the matters proceeded on common evidence, the relevant facts for each Appellant were slightly different. Therefore, my analysis will differ slightly for each Appellant.
+(1) PLH
+[28] Alain John Gaucher was the Appellant’s first witness and was by far the most knowledgeable on the issues before the Court. Mr. Gaucher is a lawyer who has a practice that focuses on tax, succession planning, corporate planning and high net worth. Any claim of privilege that may have been made was waived by the Appellants so that he may testify.
+[29] Overall, Mr. Gaucher was a helpful witness for the Court, providing the necessary corporate history of MEL and a detailed explanation as to how the corporate structure implemented on behalf of the Appellants worked, and what factors he was concerned with in devising the structure. Of critical importance, Mr. Gaucher testified as to why PLH would not be able to use the SBD in the stacked corporate partnership he had created.
+[30] One of the issues that Mr. Gaucher was made aware of from the outset of his retainer, in September 2007, was that the various partners in MEL did not have access to the SBD. Mr. Gaucher’s testimony was clear that while tax reduction was a consideration, access to the SBD for the Appellants was not one of the main reasons for the separate existence of the newly created corporations.
+[31] Fatal to the Respondent’s argument concerning PLH was the following. Pursuant to subsection 125(5.1) of the Act, once taxable capital for an associated group of corporations exceeds $15 million, access to the SBD is eliminated. Furthermore, pursuant to subsection 181.2(3) of the Act, the formula for determining taxable capital attributed to a corporation that is a member of a partnership would have attributed at least 43% of the partnership to the Appellants and therefore would have attributed at least $15 million of taxable capital to PLH, thereby once again making PLH ineligible for any SBD in the newly created structure.
+[32] Various scenarios concerning PLH’s potential taxable capital, such as PLH giving up a portion of its interest in the partnership, were explored as part of Mr. Gaucher’s engagement. These calculations were to determine, at least in part, whether PLH could ever have access to the SBD as part of this stacked corporate structure.
+[33] In each analysis performed, PLH always would have had over $15 million in taxable paid up capital in the newly created structure. Therefore they would not be entitled to the SBD under the new structure.
+[34] Complicating matters is the fact that PLH was able to claim the SBD in 2011. This is despite the fact that Mr. Gaucher had determined the PLH would not be able to claim the SBD.
+[35] Mr. Gaucher explained at trial that PLH’s access to the SBD occurred as a result of an anomaly in the Act. This anomaly, which was properly summarized in the Appellants’ written submissions at paragraph 10(g), occurred for the following reason:
+[…] [T]he determination of taxable capital looks to a prior year, and the attribution of such taxable capital only arises to the extent that income is allocated by the partnership to a particular corporation. Due to the 1-year tax deferral, in the first year of the corporate partnership, none of them had any income allocated to them by the partnership. As such, there was a period of one year in respect of which the taxable capital of the corporate partnership did not end up being attributed to any of the corporate partners. […]
+[36] Mr. Gaucher testified that he was not aware of this technical rule at the time the tax plan was prepared. Mr. Gaucher attributed PLH’s ability to use the SBD in 2011 as dumb luck. I accept Mr. Gaucher’s testimony that he was not aware of this anomaly at the time he prepared the plan for the new corporate structure. His testimony on this issue was not shaken in cross-examination, and was corroborated by Mr. Mathison. It also has an air of reality. PLH would not have as a main reason for the creation of the new corporate structure access to the SBD for one year as the cost of creating the newly created structures, as well as the ongoing costs, far exceeded the SBD obtained in 2011.
+[37] I therefore accept the position put forth by the Appellants’ counsel that PLH believed they would not have access to the SBD at the planning stage. This information was passed on from Mr. Gaucher to Mr. Mathison. Based on this conclusion, no further analysis of the other witnesses’ evidence is necessary. For PLH, access to the SBD was not a main reason for restructuring the corporate partnership. Yet they went forth with it in any case.
+[38] To be clear, I do accept the reasons PLH has provided as to the main reasons for the separate existence of the other corporations. Access to the SBD was not one of the main reasons.
+[39] The Appellants have brought evidence, which is corroborated in the documents entered at trial, that the main reasons for the second tier of corporations which were created as part of the restructuring were to:
+· obtain tax deferrals of up to 25 months;
+· be more flexible in moving partners in and out of the structure, including Mr. Belsher and the upcoming retirement of Mr. Mathison (amongst others);
+· be able to deal with their concerns about Mr. Moody continuing to be a partner.
+(2) SCL
+[40] A somewhat different analysis is necessary for SCL, yet it takes us to the same result. I accept, in my analysis of the SCL appeal, that the main reasons for the second tier of corporations, which were created as part of the restructuring, are those that are set out in the above paragraph.
+[41] The Respondent was successful in demonstrating that access to the SBD was a live issue investigated by Mr. Gaucher. [11] Furthermore, the tax advisors acting on behalf of SCL knew that SCL would have had access to the SBD as a result of the newly created structure. Despite this, I do not find that access to the SBD was one of the main reasons for the creation of the structure for SCL.
+[42] Prior to the implementation of the new structure, it was determined that PLH, the dominant partner in term of ownership, would not be able to claim the SBD. Yet the parties went forth with this new structure.
+[43] Mr. Gaucher and Mr. Frondall were aware that most of the other partners would have access to the SBD pursuant to the new structure. But the fact that this was considered a potential benefit of the plan is not determinative to the question before the Court.
+[44] Furthermore, it is the intention of the taxpayer which I have to determine, not that of the tax planners. I have concluded that the evidence led by the Appellants, including that of Mr. Streifel, has destroyed the assumptions made by the Minister of National Revenue (the “Minister”). In two particular instances, the Respondent led evidence that supported the Appellant’s argument.
+[45] The first of these instances was the evidence provided by Dale Belsher (“Mr. Belsher”). Mr. Belsher testified that he is a chartered accountant. Mr. Belsher is now retired, but remains the owner of Belsher Equipment Ltd. In 2009 Mr. Belsher was brought in as a business partner in Moody’s Equipment. This was in fact one of the transactions that led to the reorganization of MEL.
+[46] Mr. Belsher could not recall when he became aware of the details of the new structure he was joining. It may have been at a July 2009 meeting which included Mr. Frondall and Mr. Gaucher, or possibly a telephone call around the same time.
+[47] Mr. Belsher testified that, based on his knowledge of the structure and his background in accounting, he was aware that “I was not associated for income tax with all my partners, and I figured I could get small business deduction”. [12]
+[48] Mr. Belsher did not recall if he was ever advised as to the availability of the SBD. He did not provide any literature or a remembrance of conversations that the tax planners had with the partners emphasizing an access to the SBD as a goal of the reorganization.
+[49] Mr. Belsher also testified as follows:
+A The -- the biggest thing for me was the -- ability to bring in and to get out partners because when we put this thing together with John and I, and then we were bringing in six good employees to become owners, and -- and I seen that this structure, wow, this is great for when on buyout and -- and to bring in new people, new golden handshake, we call it; you know, get good people, make them get in quick. So that -- that's what really excited was in -- with the structure. [13]
+[50] Mr. Belsher’s testimony does not support the Respondent’s position that receiving access to the SBD was a main reason for the existence of the second tier corporations.
+[51] Mr. Belsher could not confirm what information Mr. Streifel received from Mr. Gaucher and Mr. Frondall, if any. Furthermore, he did not confirm that access to the SBD was a main reason that he or any of the partners entered the arrangement.
+[52] The other evidence led by the Respondent, which did not support their case, was their use of read-ins. The Respondent provided a number of read-ins from Mr. Streifel to the Court, pursuant to Rule 100 of the Tax Court of Canada Rules (General Procedure) [14] (the “Rules”). Mr. Streifel appeared on behalf of SCL at discovery. The read-ins can be summarized as follows:
+· Mr. Streifel was not aware of any disadvantages concerning the new structure.
+· The family trust fund created as part of this restructuring allowed him to do some tax planning by spreading out his income.
+· Mr. Streifel had no recollection of other options to structure the transaction.
+· Mr. Streifel stated that creditor proofing was important, but that it would be a rare case if they were sued. He agreed that creditor proofing was not a major objective. He acknowledged that he could not explain how the creditor proofing worked.
+· Mr. Streifel did not meet with the tax planners.
+· Mr. Streifel took no steps to ensure that the restructuring was a good decision for him.
+[53] Generally, when a party reads into evidence extracts of an examination for discovery of the other side, those extracts become evidence which the party reading them in adopts. [15] The trial judge is not bound to accept these admissions, and may assess all the evidence at trial in determining what use to make of the read-ins.
+[54] Rule 100(4) of the Rules allows a party who, as part of their case, reads into evidence portions of an examination from discovery of an adverse party to then rebut the evidence read in by leading other admissible evidence. This begs the question as to why a litigant would provide the Court read-ins with the intention of ultimately rebutting their own evidence. One would think the rules of cross-examination allow a far more efficient process in the use of discovery documents in impugning creditability of a litigant.
+[55] The read-ins do not advance the Respondent’s case. They support Mr. Streifel’s position that he, as the operating mind of the Appellant, had limited knowledge of the benefits of the planning structure and his position that the Appellant did not enter into the new structure in order to have access to the SBD.
+D. Evidence of Lloyd Streifel
+[56] The evidence-in-chief of Lloyd Streifel was fairly brief. He claimed to have no knowledge that when he agreed to become part of the reorganization, one of the results was that SCL would have access to the SBD. Mr. Streifel denied that one of the main reasons for the creation of the new corporations as part of the restructuring was to gain access to the SBD. He then set out a list of reasons as to why the reorganization, and therefore the creation of the second tier of corporations were important. [16]
+[57] The Respondent, despite taking issue with Mr. Streifel’s testimony in closing submissions, chose not to cross-examine Mr. Streifel. This choice requires some analysis to determine its consequences.
+[58] As a general rule, if someone fails to cross-examine a witness, they are precluded from questioning their credibility. As has often been quoted in Browne v. Dunn (1893):
+"[I]t will not do to impeach the credibility of a witness upon a matter on which he has not had any opportunity of giving an explanation by reason of there having been no suggestion whatever in the course of the case that his story is not accepted." [17]
+[59] However, the rule is not absolute as held by the Supreme Court of Canada:
+In my opinion the effect to be given to the absence or brevity of cross-examination depends upon the circumstances of each case. There can be no general or absolute rule. It is a matter of weight to be decided by the tribunal of fact, […] [18]
+[60] In this particular case, based both upon the assessment in issue and the pleadings, I do not find this failure to be fatal to the Respondent’s case.
+[61] The Minister’s assumptions of fact in regards to Mr. Streifel’s intent are that:
+ss) one of the main reasons for the separate existence of the partner corporations from the parent corporations, including the appellant, was to reduce the amount of taxes that would otherwise be payable under the Act through enhanced access to the SBD;
+[…]
+bbb) even if there may have been another reason for the separate existence of the partner corporations from the parent corporations, one of the main reasons was still the reduction of tax by enhancing access to the SBD. [19]
+[62] The Appellant’s onus, as set out in statements made by Justice Marceau in R. v. Covertite Ltd. [20] is:
+4 [...] the mere denial of the taxpayer, whether or not accompanied by a simple indication of the other causes that could have prevailed, can be given no weight. Being a mere assertion of a negative fact, and a fact which has to do with the state of mind of the witness, it can have no convincing probative force; it cannot constitute the proof required to annihilate the conclusion of the Minister. To succeed, the taxpayer must: (a) disprove the facts assumed by the Minister in reaching his conclusion; or (b) convince the Court that the inferences drawn by the Minister from the facts assumed were un-reasonable and unwarranted; or (c) add further facts capable of changing the whole picture and leading to different inferences pointing to the conclusion that the other reasons alleged have actually been prevalent.
+[63] As set out above, I need more than the Appellant’s testimony to have sufficient evidence to allow the appeal.
+[64] Nevertheless, the evidence provided by the trial witnesses and the documents entered through their testimony lead to the conclusion that Mr. Streifel, as the operating mind of the Appellant, was neither aware of, nor motivated by the potential access to the SBD. Both Appellants have informed the Court of particular facts that existed, as set out in paragraph 7 of this decision, which were the events that lead to the creation of a stacked corporate structure. As previously noted, Mr. Gaucher’s testimony has informed the Court as to the role of these separate corporate structures.
+[65] Both Appellants have destroyed the Minister’s assumptions, and I am satisfied that the reduction of taxes was not one of the main reasons for the separate existence of corporations which the Minister has deemed associated. All of Mr. Mathison, Mr. Frondall and Mr. Streifel’s evidence supported the fact that Mr. Streifel and therefore SCL had no knowledge of the SBD issue. Mr. Belsher and Ms. Fox’s evidence does not support the Respondent’s position.
+[66] I am satisfied that Mr. Streifel, as the operating mind of SCL, was neither informed nor aware of the potential access to the SBD. I also am satisfied that the main reasons for the second tier of corporations which were created as part of the restructuring were to:
+· obtain tax deferrals of up to 25 months;
+· be more flexible in moving partners in and out of the structure, including Mr. Belsher and the upcoming retirement of Mr. Mathison (amongst others);
+· be able to deal with their concerns about Mr. Moody continuing to be a partner.
+IV. CONCLUSION
+[67] Based on all the foregoing, both Appeals are allowed and the assessments are vacated.
+V. COSTS
+[68] One set of costs are awarded to the Appellants. The parties shall have until September 30th, 2019 to reach an agreement on costs, failing which the Appellants shall file written submissions on costs by October 30, 2019, and the Respondent shall file a written response by November 29, 2019. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received, costs shall be awarded to the Appellant in accordance with the Tariff.
+Signed at Ottawa, Canada, this 26th day of July 2019.
+“R. MacPhee”
+MacPhee J.
+APPENDIX A
+CITATION:
+2019 TCC 157
+COURT FILE NO.:
+2015-3513(IT)G; 2015-3512(IT)G
+STYLE OF CAUSE:
+PRAIRIELANE HOLDINGS LTD. AND HER MAJESTY THE QUEEN
+and
+STEIFEL CONSULTING LTD. AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+April 15, 16, 17, 18, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+July 26, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Amanda S. A. Doucette
+Beaty F. Beaubier
+Counsel for the Respondent:
+John Krowina
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC 1985, c. 1 (5th supplement), as amended.
+[2] Maintenance Euréka ltée v. R., 2011 TCC 307, at para. 24.
+[3] Wu v. R., [1998] 1 C.T.C. 99 (F.C. – Appeal Division), at para.6.
+[4] OSFC Holdings Ltd. v. R., 2001 FCA 260.
+[5] Gerbro Holdings Company v. Canada, 2016 TCC 173, upheld in 2018 FCA 197.
+[6] Jencal Holdings Ltd. v. R., 2019 TCC 16, at paras 26-27.
+[7] McAllister Drilling Ltd. v. Canada, [1994] 2 C.T.C. 211, at para. 9; Brownco Inc. v. R., 2008 TCC 58, at para. 84 and Taber Solids Control (1998) Ltd. v. R., 2009 TCC 527, at paras. 4 and 18.
+[8] 79 D.T.C. 5292 (Fed. T.D.).
+[9] [1978] C.T.C. 838.
+[10] [1994] 2 C.T.C. 211.
+[11] Janice Fox’s testimony was particularly helpful in coming to this conclusion.
+[12] Transcript, April 17, 2019, vol. 3, p. 15, lines 4-6.
+[13] Transcript, April 17, 2019, vol. 3, p. 20, lines 12-20.
+[14] SOR/90-688a.
+[15] Mackow v. Sood (1993), 18 C.P.C. (3d) 371 (alta.CA), at para. 17.
+[16] I accept that the reason for the existence of the second tier of corporations are those set out in paragraph 39 of this decision.
+[17] 6 R. 67 at 71 (H.L.), per Lord Herschell.
+[18] Palmer v. The Queen, [1980] 1 S.C.R. 759, at pp. 781-82 followed in R. v. Lyttle, [2004] 1 SCR 193, at para. 65 and in McKesson Canada Corporation v. The Queen, 2013 TCC 404, at para. 135.
+[19] Reply to the notice of appeal 2015-3513(IT)G.
+[20] [1981] C.T.C. 464 (Fed. T.D.).

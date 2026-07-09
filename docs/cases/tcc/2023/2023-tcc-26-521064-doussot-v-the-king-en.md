@@ -1,0 +1,169 @@
+---
+title: "Doussot v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521064/index.do"
+last_modified: "2023-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 26"
+citation2: ""
+neutral_citation: "2023 TCC 26"
+decision_date: "2023-05-25"
+language: "en"
+item_id: "521064"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5823
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:46:55.826000+00:00"
+cases_cited_count: 15
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "de9a1c3b5c9a3965af990d92d9a488f5dd0576b0dcafc600df6264959a1f9046"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Doussot v. The King
+
+- Citation: 2023 TCC 26
+- Decision date: 2023-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5823, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doussot v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-05-25
+Neutral citation
+2023 TCC 26
+File numbers
+2020-2107(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-2107(IT)I
+BETWEEN:
+TONY DOUSSOT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Before: The Honourable Justice Patrick Boyle
+ORDER
+IT IS ORDERED THAT:
+1. Registry will open a new appeal file for which Mr. Doussot’s motion materials constitute a sufficient notice of appeal as of the date this motion was filed, and for which, if necessary, an extension is hereby granted under section 167 of the Act.
+2. Mr. Doussot will have 90 days to file an amended notice of appeal or a fresh notice of appeal that is focused on:
+1) the terms of the settlement;
+2) whether the settlement agreement correctly sets out those terms
+3) whether the reassessment properly implements those terms; and
+4) any other reasons that bring the validity of the settlement agreement into question.
+This is needed for the respondent to fully understand and reply to Mr. Doussot’s notice of appeal. It is also needed to focus the parties and the Court on the issues in dispute.
+3. The respondent will file its reply within 60 days of the filing of Mr. Doussot’s amended notice of appeal.
+Signed at Toronto, Ontario, this 3rd day of March 2023.
+“Patrick Boyle”
+Boyle J.
+Citation: 2023 TCC 26
+Date: 20230525
+Docket: 2020-2107(IT)I
+BETWEEN:
+TONY DOUSSOT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR ORDER
+Boyle J.
+[1] Mr. Doussot filed this motion on November 30, 2022.
+I. Background [2] Mr. Doussot filed a notice of appeal in the Tax Court of Canada on November 17, 2020 under our Court’s Informal Procedure. He was, and is, self‑represented. Subsequent to the filing of the reply by the respondent, Mr. Doussot and the respondent arrived at a settlement of the appeal dated March 11, 2022. A consent judgment was duly signed on March 28, 2022 by the judge serving as duty judge the week it was prepared. The consent judgment attached the signed settlement agreement submitted to the Court by the parties. Our Court closed its file on April 6, 2022.
+[3] Following receipt of his new reassessment, on April 20, 2022 Mr. Doussot emailed the Justice lawyer representing the respondent who had signed the settlement agreement, along with the Minister of National Revenue herself, stating that he was formally objecting to the new reassessment and asking that they reopen his file in our Court. Mr. Doussot maintained that the new reassessment by Canada Revenue Agency (“CRA”) implementing the settlement agreement did not comply with the terms of the settlement. Mr. Doussot sent several more similar emails to the Justice lawyer and the Minister.
+[4] Our Court Registry duly and properly sent Mr. Doussot’s emails to the Department of Justice lawyer in order to ascertain the Respondent’s position. Our Registry then sent these on to our Court’s senior French speaking judge, for directions on how to respond to Mr. Doussot, as the Chief Justice had directed that, following the retirement of our bilingual Associate Chief Justice, queries to the office of the Chief Justice received in French be so directed. That judge is, and was at the time of the Court’s reply to Mr. Doussot’s email, it’s Acting Associate Chief Justice.
+[5] The Registry replied to Mr. Doussot’s email on August 24, 2022. One of the Registry Officers properly described to Mr. Doussot how he should proceed: [Translation]
+“If you do not agree with the new assessment, you must submit a notice of objection to the chief of appeals at the Canada Revenue Agency.
+If, after completing the above, you are not satisfied with the Canada Revenue Agency’s decision or if you have not received a response within 90 days of submitting the notice of objection, you can file a notice of appeal to the Tax Court of Canada.”
+II. The Applicable Law and Rules [6] Issuing consent judgments, and advising individual taxpayers personally on how to file proceedings in our court are daily routine events, as it is surely for all trial courts. Our Court’s staff works very hard to assist individual Canadians interacting with our Court, and our judges do the same with self-represented litigants appearing before them. Our Court has worked hard to obtain and maintain its recognition for doing so. Chief Justice Marc Noël of the Federal Court of Appeal (“FCA”) wrote recently:
+As I said, this growing complexity has been criticized by many. But spare a thought for the self-reps who cannot afford legal advice but must face the same complexities. I take this occasion to pay tribute to the tremendous work done by Tax Court Judges in assisting unrepresented litigants under the informal procedure. They do their best to apprise taxpayers of their rights while at the same time maintaining their role as independent judges - not an easy task, but at the same time, an essential one. The Tax Court judges' use of the informal procedure to promote access to justice is to be commended. It should be a model to all courts.[1]
+[7] Our Court is very familiar with its jurisdiction as it is set out by statute and our Court is legally and duty bound to not exceed that jurisdiction. Our Court, like all Superior Courts, has inherent jurisdiction to regulate its own processes and procedures. In addition, our Court has its own rules in accordance with the Tax Court of Canada Act and the Tax Court of Canada Rules, along with the Rules Committee to ensure the Rules are effective and up to date.
+[8] Rule 172(2) deals with the reopening of appeals following a decision in exceptional circumstances. Our rules can be readily found on the Court’s website. That rule clearly requires a motion, and it is clearly limited to exceptional circumstances:
+172 (2) A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+…
+may make a motion for the relief claimed.
+172 (2) Une partie peut demander, par voie de requête dans l’instance, selon le cas :
+a) l’annulation ou la modification d’un jugement en raison d’une fraude ou de faits survenus ou découverts après qu’il a été rendu;
+[9] Mr. Doussot’s mailing to the Court would be difficult to construe as the filing of a motion. Our Registry advised him to proceed by way of objecting to his most recent notice of assessment implementing the settlement and, if not resolved with CRA, filing a new notice of appeal in respect of that reassessment and objection in our Court. This is the proper accepted and routine way for taxpayers to have our Court decide if a settlement agreement is valid and/or whether the subsequent reassessment is in accordance with the terms of the parties’ settlement agreement.
+[10] In Quebec Fonte Inc v The Queen, 2020 TCC 126, this Court wrote:
+Analysis and conclusions
+33 The Court has jurisdiction to decide whether an agreement between the tax authorities and a taxpayer that establishes the manner in which a taxpayer must be reassessed is applicable. It has jurisdiction to order that reassessments be made in accordance with the agreements absent circumstances vitiating the settlement. It also has jurisdiction to authorize the filing of notices of discontinuance after reassessments that are consistent with the Settlement Agreement are made: see Smerchanski v. Minister of National Revenue, [1977] 2 S.C.R. 23; University Hill Holdings Inc. v. Canada, 2017 FCA 232; Oberoi v. The Queen, 2006 TCC 293, 1390758 Ontario Corporation v. The Queen, 2010 TCC 572, Huppe v. The Queen, 2010 TCC 644; SoftSim Technologies Inc. v. The Queen, 2012 TCC 181; Davies v. The Queen, 2016 TCC 104, and Granofsky v. The Queen, 2016 TCC 181.
+34 In University Hill, the Federal Court of Appeal approved the doctrine of an earlier case, Galway v. Minister of National Revenue [1974] 1 FC 600, which dealt with judgments by consent whose principles apply equally to the settlement agreements that this Court must enforce, specifying that the Court must satisfy itself "that the judgment sought falls within the jurisdiction of the Court and is one that can be legally granted": see paragraph 66 and those following. See also paragraph 18 in Huppe, where Mr. Justice Webb concurred.
+…
+Analyses et conclusions
+33 La Cour a compétence pour décider si une entente entre le fisc et un contribuable qui établit la manière dont un contribuable doit faire l'objet d'une nouvelle cotisation est applicable, elle a compétence pour ordonner l'établissement de nouvelles cotisations conformes aux ententes en l'absence de circonstances viciant l'opération, et elle a compétence pour autoriser le dépôt de désistements après l'établissement de nouvelles cotisations conformes à l'entente de règlement : voir l'arrêt Smerchanski c. Ministre du Revenu national, [1977] 2 R.C.S. 23; l'arrêt University Hill Holdings Inc. c. Canada, 2017 CAF 232; les décisions Oberoi c. La Reine, 2006 CCI 293, 1390758 Ontario Corporation c. La Reine, 2010 CCI 572, Huppe c. La Reine, 2010 CCI 644; SoftSim Technologies Inc. c. La Reine, 2012 CCI 181; Davies c. La Reine, 2016 TCC 104, et Granofsky c. La Reine, 2016 CCI 181.
+34 Dans University Hill, la Cour d'appel fédérale s'est dite d'accord avec la décision antérieure dans Galway c. Ministre du Revenu national [1974] 1 CF 600, qui portait sur les jugements par consentement, et dont les principes s'appliquent également aux ententes de règlement que notre Cour doit faire appliquer, en précisant que la Cour doit s'assurer "que le jugement recherché relève de sa compétence et qu'il peut être rendu" : voir le paragraphe 66 et suivants. Voir aussi le paragraphe 18 de Huppe, où le juge Webb s'est exprimé dans le même sens.
+[11] The Federal Court of Appeal, in affirming the Quebec Fonte decision wrote in paragraph 7 at 2022 FCCA 75, [translation] “In short, we all agree that the TCC properly directed itself in law”.
+III. The Federal Court of Appeal decision [12] Mr. Doussot appealed the letter from our Registry to the Federal Court of Appeal. At the end of lengthy reasons on November 21, 2022, that Court dismissed his appeal stating in paragraph 14 that [Translation]
+“This type of request must be made by motion, and not as it is seen here, through a simple email. This is not a procedural whim but, rather, a mandatory requirement, since to succeed, an applicant must prove that the cancellation or modification of the judgment in question is supported by reason of fraud or events that occurred or were discovered after the judgment was rendered. This requires proof, hence the need to file a proper motion addressed to the TCC.”
+IV. The Fresh Objection [13] This Court understands from the FCA decision, as well as from the current motion materials, that the taxpayer did file a fresh objection to the new reassessment implementing the consent judgment. However, both the FCA and the taxpayer’s current motion materials make it clear that the Minister was of the view that it was not a valid objection.
+[14] The respondent apparently relied upon subsection 165(1.2) which precludes objections being filed to reassessments implementing settlement agreements and consent judgments.
+[15] For the reasons stated in Quebec Fonte, that subsection does not preclude a taxpayer who has been reassessed following a settlement agreement challenging whether the subsequent reassessment is in accordance with that settlement agreement.
+[16] Mr. Doussot had the right to file a notice of appeal in respect of his objection under subsection 169(1) within 90 days of the Minister responding to his objection. While that period has passed, section 167 of the Act provides a further one year period in which a taxpayer can appeal to our Court after the expiry of the 90-day period.
+[17] Mr. Doussot’s motion materials were filed within that further one year. In the circumstances, this Court is prepared to consider those materials to also constitute a request for an extension of time within which to file his notice of appeal. This Court also considers those materials, combined with his initial mailing to our Court and his appearance before the FCA, to satisfy the requirements of subsection 169(5). This allows Mr. Doussot to pursue in our Court his concerns that the reassessment does not follow the settlement he reached with the CRA.
+[18] Mr. Doussot appears to have also contacted the office of the Minister of National Revenue directly. Part of the Minister’s response says no objection can be filed to the reassessment in question. This appears to be clearly wrong in law (although this appears not to have been acknowledged or recognised in the FCA proceeding). This Court clearly has jurisdiction to hear appeals from reassessments to determine the issue of whether the reassessments are in accordance with the terms of a valid settlement agreement, notwithstanding section 165(1.2), which states that
+“no objection may be made by a taxpayer to an assessment made under subsection … 169(3)… nor, for greater certainty, in respect of an issue to for which the right of objection has been waive in writing by the taxpayer”
+« Aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes … 169(3)... il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d’opposition. »
+V. Conclusion [19] Notwithstanding the odd, questionable and very circuitous path to where things now stand, it is clear from what Mr. Doussot has filed in support of this motion, that he is:
+appealing to this Court from the new reassessments that he is already objected to,
+challenging the validity of the settlement agreement,
+maintaining that the new reassessment is not in accordance with the terms of the settlement arrived at, and
+maintaining that the terms of settlement are not properly reflected in the settlement agreement.
+[20] For the reasons above this Court on this motion orders as follows:
+Registry will open a new appeal file for which Mr. Doussot’s motion materials constitute a sufficient notice of appeal as of the date this motion was filed, and for which, if necessary, an extension is hereby granted under section 167 of the Act.
+Mr. Doussot will have 90 days to file an amended notice of appeal or a fresh notice of appeal that is focused on:
+1)the terms of the settlement;
+2)whether the settlement agreement correctly sets out those terms
+3)whether the reassessment properly implements those terms; and
+4)any other reasons that bring the validity of the settlement agreement into question.
+This is needed for the respondent to fully understand and reply to Mr. Doussot’s notice of appeal. It is also needed to focus the parties and the Court on the issues in dispute.
+The respondent will file its reply within 60 days of the filing of Mr. Doussot’s amended notice of appeal.
+Signed at Ottawa, Ontario, this 25th day of May 2023.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2023 TCC 26
+COURT FILE NO.:
+2020-2107(IT)I
+STYLE OF CAUSE:
+TONY DOUSSOT AND HIS MAJESTY THE KING
+REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF ORDER:
+March 3, 2023
+APPEARANCES:
+For the appellant:
+Self-represented
+For the respondent:
+Éliane Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada
+[1] Address at the Canadian Tax Foundation Annual Conference 2022, "Judges Panel" November 20 2022. Former Chief Justice Donald Bowman of our Court liked to share that a renowned Canadian jurist and former Chief Justice of the Supreme Court of Canada had described our Court as "the Crown jewel of the federal court system": https://www.lawnow.org/the-tax-court-of-canada-an-introduction/

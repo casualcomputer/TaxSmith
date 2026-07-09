@@ -1,0 +1,186 @@
+---
+title: "Dickie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30959/index.do"
+last_modified: "2012-09-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 327"
+citation2: ""
+neutral_citation: "2012 TCC 327"
+decision_date: "2012-09-19"
+language: "en"
+item_id: "30959"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4833
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:10:33.098000+00:00"
+cases_cited_count: 9
+cases_citing_count: 14
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dd9953d3bde19cc61b15099764a15d3aff42004d7216d53042aac45f0bfc2686"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dickie v. The Queen
+
+- Citation: 2012 TCC 327
+- Decision date: 2012-09-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4833, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dickie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-19
+Neutral citation
+2012 TCC 327
+File numbers
+2008-2808(IT)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2808(IT)G
+BETWEEN:
+REYNOLD DICKIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Counsel for the Appellant:
+Sarah D. Hansen and Robert Janes
+Counsel for the Respondent:
+Nadine Taylor Pickering
+____________________________________________________________________
+ORDER
+The Appellant is awarded a lump sum of costs of $80,000 plus $10,000 for disbursements totalling $90,000 for the reasons set out in the attached Reasons for Order.
+Signed at Ottawa, Canada, this 19th day of September 2012.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation : 2012 TCC 327
+Date : 20120919
+Docket: 2008-2808(IT)G
+BETWEEN:
+REYNOLD DICKIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Pizzitelli J.
+[1] Pursuant to my decision of July 10, 2012, the parties were invited to tender written submissions if any party was of the view that the normal costs award given in that decision was not satisfactory. The Appellant submitted such submission and the Respondent provided a reply to same.
+[2] The Appellant seeks either costs on a full indemnity basis (solicitor and client) plus disbursements or in the alternative costs, on a partial indemnity basis for an award between 50 to 75% of his costs plus disbursements. On the aforesaid basis, the Appellant is seeking either full costs of $133,000 plus $10,000 in disbursement, or in the alternative, costs between $66,500 and $99,750 plus $10,000 in disbursements. The Respondent argues the Appellant is not deserving of costs in excess of the Tariff which would award him $13,000.
+[3] There is no dispute that Section 18.26 of the Tax Court of Canada Act, R.S.C. 1985, c, T-2 as amended, and Rule 147 of the Tax Court of Canada Rules (General Procedure) deal with the Court’s jurisdiction with respect to costs and are reproduced below:
+18.26 (1) The Court may, subject to the rules, award costs. In particular, the Court may award costs to the appellant if the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one half.
+(2) The Court may, in deciding whether to award costs, consider any written offer of settlement made at any time after the notice of appeal is filed.
+147. (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+[4] In brief, the Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them under Rule 147(1) and in exercising its discretionary power thereunder may consider the factors set out in Rule 147(3). Moreover under Rule 147(4), the Court may fix all or part of the costs without reference to Schedule II, Tariff B and further may award a lump sum in lieu of or in addition to taxed costs. Rule 147(6) allows the Court to give directions to the taxing officer in respect of, inter alia, increasing Tariff amounts.
+[5] Accordingly, in exercising my discretion under the above Rule, I will consider the relevant factors applicable to this matter as listed in Rule 147(3) addressed by the parties in their submissions to the Court; not necessarily in order.
+a) The Result of the Proceeding
+[6] There is no dispute the Appellant was wholly successful in this appeal.
+b) The Amounts in Issue
+[7] The Appellant’s taxable income was reassessed at $688,927 for the 2003 taxation year, an increase of $653,243 over the initial assessment, which would have resulted in an approximate tax of $185,000. The Respondent conceded at trial that the Appellant was allowed a deduction of $23,107. With interest and penalties this amount had increased to $441,380.26 at the time of filing the appeal and by July 31, 2012, the Appellant was advised by the Canada Revenue Agency (“CRA”) that it owed $509,759.60.
+[8] To a small business these amounts are substantial. However, the Appellant has submitted that the parties were also in dispute with respect to the 2004 and 2005 taxation years and agreed to hold the reassessements for those years in abeyance pending the outcome of this appeal. The Appellant was advised by CRA dhat as of July 31, 2012, the Appellant owed $325,448.33 for 2004 and $159,171.42 for 2005.
+[9] Having regard to the amount owed by the Appellant for the 2003, 2004 and 2005 taxation years, the Appellant stood to owe in excess of $994,379.35 if he had lost this appeal, a very significant amount for a business of his size, which, as the Appellant’s counsel alluded to in their submissions, would have resulted in financial ruin for the Appellant. The Respondent made no comment on these submissions of the Appellant in its response.
+c) The Importance of the Issues
+[10] From a legal perspective, the Appellant argues that the issue in this appeal ‑ the taxation of income earned by aboriginal business and implicitly whether it is exempt or not from taxation - is of national importance and the subject of much consideration by the Supreme Court of Canada over the years, let alone by the lower courts if I may add. The Respondent itself acknowledged in its response that this area of law is developing and significant, however submits the “connecting factors” test applicable here have been judicially considered in respect of many business income contexts; suggesting in effect that there was little new here to raise the importance factor of the issue.
+[11] With respect to the Respondent, the appeal was one of the first aboriginal business income cases to be heard following the decisions of Bastien Estate v. Canada, 2011 SCC 38, [2011] 2 S.C.R. 710, and Dubé v. Canada, 2011 SCC 39, [2011] 2 S.C.R. 764, which effectively changed the weight and importance of one of the traditionally considered factors to be considered in the “connecting factors” test; namely, the commerciality of the business thus creating a new dynamic in the application of the connecting factors test. In fact, a strong case can be made to argue that the only other post Bastien Estate and Dubé cases brought before the Courts dealt with fishing and small scale logging activities. The nature of the Appellant’s business in this case involved a larger business that clearly competed with non-aboriginal businesses in what has been traditionally considered in the commercial mainstream; a case of head to head competition between an aboriginal business and non–aboriginal competitors. In my view, the case has a significant impact on the interpretation of the Bastien Estate and Dubé decisions of the Supreme Court of Canada. While the name of the applicable “connecting factors” test did not change, the weight and importance of the commercial mainstream factor was significantly reduced and in fact almost obliterated in determining the issue of residence on the reserve.
+[12] A great deal of argument was made on the commercial mainstream issue notwithstanding Bastien Estate and Dubé, and notwithstanding that the Respondent gave lip service to the decision, it continued to strongly plead and argue the issue and the collateral issue of advantage to aboriginal businesses not being intended before the Court. A great deal of the Court’s time was spent on this issue and a large portion of my decision dealt with it. Clearly, both sides considered this Court’s interpretation of Bastien Estate and Dubé to be of significant importance.
+[13] There is no dispute however that the deductibility of management fees paid was only a secondary issue in the hearing and I agree was of little overall importance from a legal perspective.
+d) Offer of Settlement
+[14] No offer of settlement was made by either party in this proceeding.
+f) Complexity of the Issues
+[15] This issue is clearly linked to the importance of the issues discussed above. I would like to add however that in my view, the Respondent’s pleadings and strong arguments in the commerciality issue above clearly created a complexity to the issue in that the Respondent clearly attempted to narrow the interpretation of the Supreme Court of Canada in Bastien Estate and Dubé given to the issue. The Appellant clearly was put to the task of spending a great deal of time and effort in arguing the Supreme Court of Canada’s decisions were broader in scope than the Respondent argued.
+e) The Volume of Work
+[16] I find nothing in the parties’ arguments to suggest that the process followed in this matter was anything but routine for this type of case. The Appellant suggested the Respondent served a Notice to Admit one month before trial and submitted further written questions on examination for discovery one week before trial resulting in increased work load to it but as the Respondent pointed out, the further written questions were the result of documents listed in a supplementary list of documents served on the Respondent the day before. Accordingly, I cannot find the Respondent created additional last minute work for the Appellant.
+[17] However, having regard to the importance and complexity of the issues discussed above, it is my view that the Appellant was required to address, in a significant and onerous way, the applicability of the commercial mainstream argument advanced by the Respondent notwithstanding the decisions in Bastien Estate and Dubé. As I have stated above, the Appellant was in my view forced to spend a great deal of time on an issue the Supreme Court of Canada in my view clearly ruled previously.
+j) Other Matters Relevant to the Question of Costs
+[h) Denial, Neglect or Refusal to Admit]
+[18] Under this factor, the Appellant argues that, in light of the conclusions reached by the Supreme Court of Canada in Bastien Estate and Dubé with respect to the income earned in the commercial mainstream, it wrote a four-page letter to the Respondent eight months before the hearing requesting it reconsider the reassessment in order to avoid the expense of a trial which the Respondent denied in a two-sentence response. The Appellant agrees this letter did not constitute a settlement offer but argues in effect that had the Crown provided more fulsome reasons for its rejection of the Appellant’s submissions regarding the Supreme Court of Canada’s decisions above, it may have resulted in a narrowing of the issues for appeal or possibly even settlement negotiations. The Respondent counters that the Supreme Court of Canada’s decisions did not provide a basis for exempting the Appellant’s business income from tax and as such rejected the request.
+[19] I am in agreement with the Respondent that the connecting factors test requires an analysis of more than just the commercial mainstream argument and accordingly the Supreme Court of Canada’s decision did not, in and of itself, give any reason to abandon the full consideration of the test. It is in the nature of the test that all evidence must be considered with a view to determining whether income was situated on the Reserve or not, including with respect to the several other factors constituting the connecting factors test. Simply conceding the commercial mainstream argument was not of determinative value would not have been determinative of the outcome either.
+[20] I do however also agree with the Appellant that having regard to the clear wording and intention of the Supreme Court of Canada’s decisions effectively reducing the importance of the commercial mainstream factor, if not obliterating it, that the Respondent could have shortened the proceeding by conceding this fact before trial. While the Respondent’s counsel acknowledged the reduction in weight to be given to the issue in argument at trial, she nonetheless maintained its assumptions in its pleadings regarding the commercial mainstream and argued forcefully that such factor would grant an advantage to aboriginal businesses over non-aboriginal businesses, an argument in my opinion clearly not consistent with the Supreme Court of Canada’s decisions on the issue. As I referred to in my decision, if the other factors are sufficient to establish the income was situate on a Reserve, then any such resulting advantage was acceptable. In my view, the Respondent could have significantly reduced the length of the hearing by conceding the argument before trial on receiving the Appellant’s counsel’s letter. In my view, this matter falls under the heading of Rule 147(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted. In my opinion, the Respondent paid lip service to the Supreme Court of Canada’s decisions on the importance of the commercial mainstream argument yet proceeded to trial on the basis it was one of its strongest arguments.
+g) Conduct of any party that tended to shorten or lengthen unnecessarily the duration of the proceeding.
+[21] No argument was made with respect to this factor directly other than the arguments of the Appellant in addressing other factors contemplated in Rule 147(j) discussed above.
+i) Whether any Stage in the Proceedings was Improper, Vexatious, Unnecessary etc.
+[22] There was no argument made directly on this issue.
+[23] Having regard to the above analyses, I am of the view that there is no justification for granting the Appellant a cost award based on full indemnification. The law is clear from cases submitted by the Appellant himself, namely Consorzio del Prosciutto di Parma v. Maple Leaf Meats Inc., 2002 FCA 417, [2003] 2 F.C. 451, and Zeller Estate v. Canada, 2009 TCC 135, 2009 DTC 1106, which cases quoted Supreme Court of Canada decisions in Baker v. Canada (Minister of Citizenship and Immigration), [1999] 2 S.C.R. 817 and Young v. Young, [1993] 4 S.C.R. 3 respectively, that the award of full solicitor and client costs remains exceptional and is generally associated with reprehensible, scandalous or outrageous conduct on the part of one of the parties. I find no such conduct shown on the part of the Respondent in this matter. The Appellant itself acknowledged this in his submissions.
+[24] In the alternative, the Appellant asks the Court to exercise its discretion to award lump sum costs in excess of the Tariff given the factors to consider in Rule 147(3) above discussed and relies on Re Consorzio del Proscuitto di Parma where Rothstein J.A.(as he was then) stated at paragraph 10:
+The Court, therefore, does have discretion to depart from the Tariff, especially where it considers an award of costs according to the Tariff to be unsatisfactory. Further, the amount of solicitor-client costs, while not determinative of an appropriate party-party contribution, may be taken into account when the Court considers it appropriate to do so. Discretion should be prudently exercised. However, it must be borne in mind that the award of costs is a matter of judgment as to what is appropriate and not an accounting exercise.
+[25] I am cognizant of the Federal Court of Appeal’s caution in Finch v. Canada, 2003 FCA 267, 2003 DTC 5501 (F.C.A.), that an award of lump sum costs should not be the equivalent of an award of solicitor–and-client costs unless there is something in the record to justify such an award. As I said above, I see no justification for same. I am further cognizant that the general rule is that a successful litigant is entitled to party and party costs as stated by Bowman J. as he then was, in Merchant v. Canada [1998] 3 DTC 2505 and in Continental Bank of Canada v. Canada, [1994] T.C.J. No. 863 (QL). However, I am also in agreement with Hogan J. in General Electric Capital Canada Inc. v. Canada, 2010 TCC 490, 2010 DTC 1353, at paragraph 26 who reasoned that aside from solicitor and client costs:
+… I believe that the Rules Committee was well aware of the fact that there are numerous factors which can warrant a move away from the Tariff towards a different basis for an award of party and party costs, including lump sum awards. Subsection 147(3) of the Rules confirms this by listing specific factors and adding the catch-all paragraph (j), which refers to “any other matter relevant to the question of costs”. If misconduct or malfeasance was the only case in which the Court could move away from the Tariff, subsection 147(3) would be redundant. Words found in legislation are not generally considered redundant….
+[26] In my view, having regard to the clear victory of the Appellant in this matter, the sizeable amount of taxes in dispute including for other years for which this case served as a test case, the importance of the commercial mainstream issue in particular and the complexity of the issue in light of the Respondent’s position notwithstanding the Supreme Court of Canada’s decisions in Bastien Estate and Dubé and the amount of work generated for the Appellant as a result of the Respondent’s position on that issue and the importance it continued to give to the commercial mainstream factor as above discussed, which in my view should have been conceded before trial to shorten the trial and narrow the issues, there clearly exist special circumstances justified by the application of factors listed in Rule 147(3) to merit awarding the Appellant costs in excess of the Tariff.
+[27] The Appellant asked for between 50 and 75% of solicitor and client costs plus disbursements, consistent with the range of traditional awards cited by author Mark Orkin in the Law of Costs, 2nd ed., Vol. 1 (Aurora: Canada Law Book, 2008) at 2-3 as quoted by Campbell J. in Re Zeller Estate above at paragraph 9. The Appellant’s costs on a solicitor and client basis claimed are $133,000 plus $10,000 in disbursements. In my opinion, the Appellant is deserving of 60% of such claim, amounting to $80,000 plus $10,000 in disbursements, for a total award of $90,000.
+Signed at Ottawa, Canada, this 19th day of September 2012.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION: 2012 TCC 327
+COURT FILE NO.: 2008-2808(IT)G
+STYLE OF CAUSE: REYNOLD DICKIE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: Costs Submissions by Written Submissions
+REASONS FOR ORDER BY: The Honourable Justice F.J. Pizzitelli
+DATE OF ORDER: September 19, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Sarah D. Hansen and Robert Janes
+Counsel for the Respondent:
+Nadine Taylor Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Sarah D. Hansen
+Firm: Miller Thomson LLP
+Vancouver, British Columbia
+Name: Robert Janes
+Firm: Janes Freedman Kyle Law Corp.
+Victoria, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

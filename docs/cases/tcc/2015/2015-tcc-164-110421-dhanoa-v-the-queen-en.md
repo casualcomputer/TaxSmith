@@ -1,0 +1,150 @@
+---
+title: "Dhanoa v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110421/index.do"
+last_modified: "2015-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 164"
+citation2: ""
+neutral_citation: "2015 TCC 164"
+decision_date: "2015-06-26"
+language: "en"
+item_id: "110421"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2659
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:17:45.319000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee8cfeb643120f281a14221bd602a74a99b1df4e1c59b7586ef7c29dd212d2ab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dhanoa v. The Queen
+
+- Citation: 2015 TCC 164
+- Decision date: 2015-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2659, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dhanoa v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-26
+Neutral citation
+2015 TCC 164
+File numbers
+2014-4681(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4681(IT)I
+BETWEEN:
+GURBAAJ DHANOA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 23, 2015, at Calgary, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ian Wiebe
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2012 taxation year is dismissed.
+Signed at Ottawa, Canada, this 26th day of June 2015.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2015TCC164
+Date: 20150626
+Docket: 2014-4681(IT)I
+BETWEEN:
+GURBAAJ DHANOA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The Minister of National Revenue (“Minister”) reassessed the Appellant’s 2012 taxation year to include unreported interest income of $51,727 and to impose a penalty of $5,172.70 pursuant to subsection 163(1) of the Income Tax Act (“ITA”).
+[2] Subsection 163(1) applies if a taxpayer fails to report a taxable amount in his income tax return for two taxation years within a four year period. The amount of the penalty is 10% of the amount of income not reported.
+[3] The Minister has the burden of establishing the facts that justified the penalty under subsection 163(1) but the Appellant can avoid the penalty if he can demonstrate that he exercised due diligence in reporting his income. The onus is on the Appellant to establish due diligence.
+[4] Craig Peturson, a Team Leader in the Appeals Section of the Calgary Tax Services Office of the Canada Revenue Agency (“CRA”) testified on behalf of the Respondent. His evidence established that the Appellant failed to report amounts in his 2011 and 2012 income tax returns. Those amounts were as follows:
+a) For the 2012 taxation year, the Appellant received interest income of $128.64 from Khalsa Credit Union (Alberta) Limited (“Khalsa Alberta”) and interest income of $51,598.62 from Stone West Homes Inc. (“Stone West”). He failed to report both of these amounts;
+b) For the 2011 taxation year, the Appellant also failed to report income which he received from these same entities. He received and failed to report interest income of $127.16 from Khalsa Alberta and capital gains of $18,817 from Stone West.
+Due Diligence [5] I realize that at least four other judges of this Court have held that a taxpayer can be relieved of a penalty under subsection 163(1) if he can establish a due diligence defense for either of the two years within the four year period. I disagree with this reasoning. It is my view that the taxpayer must establish a due diligence defense for the year that the penalty was imposed. In this appeal that year was 2012. It was the failure to report interest income of $51,727 in the 2012 taxation year which triggered the penalty.
+[6] However, because this issue has not been decided by the Federal Court of Appeal, I will give the Appellant the benefit of the doubt by considering his due diligence argument for both 2011 and 2012.
+[7] In Résidences Majeau Inc c R, 2010 FCA 28 (FCA), Letourneau J.A. described the elements necessary to establish a due diligence defence with respect to the imposition of a penalty. He stated:
+[8] According to Corporation de l'école polytechnique v. Canada, 2004 FCA 127, a defendant may rely on a defence of due diligence if either of the following can be established: that the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty.
+[9] A reasonable mistake of fact requires a twofold test: subjective and objective. The subjective test is met if the defendant establishes that he or she was mistaken as to a factual situation which, if it had existed, would have made his or her act or omission innocent. In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made. This is the objective test.
+[10] As already stated, the second aspect of the defence requires that all reasonable precautions or measures be taken to avoid the event leading to imposition of the penalty.
+2011 Failure to Report [8] In the 2011 taxation year, the Appellant reported employment income of $18,000. It was his evidence that he may have mistakenly reported the capital gains of $18,817 which he received from Stone West as his employment income. With respect to the interest income of $127.16 from Khalsa Alberta, he stated that he knew he had to pay tax on this income but he thought that he didn’t have to report it because the CRA would receive a copy of the T5 slip from the credit union.
+[9] I do not believe that the Appellant mistakenly reported the capital gains he received from Stone West as his employment income. Nor do I believe that the Appellant’s explanation is credible. For 2011, the Appellant reported employment income of $18,000 and taxable dividends of $35,000 for total income of $53,000. The T4 enclosed with his 2011 income tax return (“2011 return”) was from 1339421 Alberta Inc. and it showed that his employment income was $18,000. I note that the taxable dividends were also from the same numbered company.
+[10] At the notice of objection stage of this matter, the Appellant gave a different explanation for his failure to report income in 2011. His representative wrote the following to the CRA:
+With respect to 2011, the Taxpayer submits that:
+i. He reported over 85% of his 2011 gross taxable income on original filing.
+ii. He believed that since he had incurred significant interest expense and other costs (information he provided in due course) in order to earn the omitted gross taxable investment income of $9,409, his unreported net taxable income, if any, from this investment would in fact be much lower. As such, his unreported net taxable income from this investment, if any was immaterial in comparison to his 2011 income from other sources.
+iii. He contends that his mistake in not including the slips in question at the time of filing were innocent, with no intention to under report his 2011 income.
+[11] In these representations, the Appellant did not even allege that he made a mistake of fact. His rationale is that the amount of income he failed to report in 2011 was immaterial in comparison to the amount of income which he did report. Aside from being irrelevant, this statement is not correct. The Appellant failed to report 35% of the income he received in 2011. Also, the Appellant alleged that he had incurred a significant interest expense to earn the investment income. This allegation was not supported by any documentary evidence and even if it had been true, it does not excuse the Appellant’s failure to report the capital gains which he earned from Stone West.
+2012 Failure to Report [12] With respect to the failure to report the interest income from Khalsa Alberta for 2012, the Appellant testified that he did not receive the T5 from the credit union by the time he filed his income tax return. He explained that there was a “takeover” of the Board of Directors at Khalsa Alberta and it was late sending out the T5s. The Appellant stated that he wasn’t too worried about it because he knew that his interest income from Khalsa Alberta was a small amount of income. He did not inform the CRA that he had received the T5 from Khalsa Alberta; he was just waiting for the Minister to reassess him.
+[13] The Appellant stated that he had not received the T5 from Stone West by the time he filed his 2012 income tax return in April 2013. Also, he was not expecting a T5 from Stone West for his 2012 taxation year. He thought that he would receive it for his 2013 taxation year. The Appellant further stated that he had invested in Stone West and he had a disagreement with the owners of Stone West about the amount of income he should receive. It was his evidence that he borrowed money from his line of credit to make the investment and he thought that Stone West should deduct the interest expense he incurred from the interest income he earned with it. He received the T5 after he filed his 2012 return and he thought that he could report this interest income after his disagreement with Stone West was settled.
+[14] It is my view that the Appellant’s explanation is implausible. In cross examination, he admitted that he received the amount of $51,598.62 from Stone West in 2012. He may not have received the T5 prior to filing his income tax return but he ought to have expected it for the 2012 taxation year. He had already received the income.
+[15] The Appellant’s explanation about his disagreement with Stone West is also nonsensical. If he had incurred an interest expense, he could have deducted it from the income he reported on his income tax return. Stone West could not deduct the Appellant’s interest expense from the interest income it gave to him.
+[16] If the Appellant received the T5 from Stone West after he filed his income tax return for 2012, he did not inform the Minister that his 2012 return should be amended. After he realized that he could not settle his disagreement with Stone West, he still did not report the amount of the T5 from Stone West.
+[17] The evidence demonstrated that the Appellant had a pattern of not reporting interest income. In 2003, 2006, 2007, 2008 and 2010, the Appellant failed to report interest income he earned from Khalsa Alberta. In 2004, he failed to report interest income he earned from TD Mortgage Corporation. The Minister reassessed the Appellant to include the unreported interest income in his income for 2003, 2004, 2006 and 2008.
+[18] The Appellant stated that he knew that the Minister received a copy of the T5s from the issuer and he waited each year for the Minister to discover the failure to report and to reassess him. It is my view that the Appellant was playing a game of “catch me if you can” with the Minister. It appears that the Minister did not catch him in 2007 and 2010.
+[19] The Appellant has not established a due diligence defense for the 2011 or the 2012 failures to report income. I have inferred from the totality of the evidence that the Appellant deliberately failed to include the interest income of $127.16 and capital gains of $18,817 in his income for the 2011 taxation year and the interest income of $128.64 and $51,598.62 in his income for the 2012 taxation year.
+[20] The appeal is dismissed.
+Signed at Ottawa, Canada, this 26th day of June 2015.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2015TCC164
+COURT FILE NO.:
+2014-4681(IT)I
+STYLE OF CAUSE:
+GURBAAJ DHANOA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+June 23, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+June 26, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ian Wiebe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,261 @@
+---
+title: "Hillman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/315547/index.do"
+last_modified: "2018-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 122"
+citation2: ""
+neutral_citation: "2018 TCC 122"
+decision_date: "2018-06-29"
+language: "en"
+item_id: "315547"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4950
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:44:03.539000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9bb1a7a5191422ea1487856c4456e693c27df8061b07f040d7367bffbb7260e3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hillman v. The Queen
+
+- Citation: 2018 TCC 122
+- Decision date: 2018-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4950, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hillman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-29
+Neutral citation
+2018 TCC 122
+File numbers
+2010-1084(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Notes
+A correction was made on July 23, 2018.
+Decision Content
+Docket: 2010-1084(IT)G
+BETWEEN:
+LORNA HILLMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-994(IT)G
+AND BETWEEN:
+RANDY CAPSTICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-1057(IT)G
+AND BETWEEN:
+BERYL POULSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-1075(IT)G
+AND BETWEEN:
+ALAN OVEREND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-1239(IT)G
+AND BETWEEN:
+GORDON SHEARER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-1403(IT)G
+AND BETWEEN:
+THE ESTATE OF LLOYD HORTON,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2015-4337(IT)G
+AND BETWEEN:
+SHELAGH HORTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on February 14, 2018 at Vancouver, British Columbia
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellants:
+Alistair Campbell
+Michelle Moriartey
+Counsel for the Respondent:
+Ron Wilhelm
+Whitney Dunn
+AMENDED ORDER
+Each of the Respondent’s herein seven applications for an Order pursuant to subsection 58(1) of the Tax Court of Canada Rules (General Procedure) is denied, with one set of costs on a tariff basis awarded to counsel for the seven herein Appellants.
+This Amended Order is issued in substitution for the Order
+dated June 29th, 2018
+Signed at Halifax, Nova Scotia, this 18th day of July 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC122
+Date: 20180718
+Docket: 2010-1084(IT)G
+BETWEEN:
+LORNA HILLMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-994(IT)G
+AND BETWEEN:
+RANDY CAPSTICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-1057(IT)G
+AND BETWEEN:
+BERYL POULSEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-1075(IT)G
+AND BETWEEN:
+ALAN OVEREND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-1239(IT)G
+AND BETWEEN:
+GORDON SHEARER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-1403(IT)G
+AND BETWEEN:
+THE ESTATE OF LLOYD HORTON,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2015-4337(IT)G
+AND BETWEEN:
+SHELAGH HORTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Russell J.
+Introduction:
+[1] The Respondent Her Majesty has applied for an Order per subsection 58(1) of the Tax Court of Canada Rules (General Procedure) (Rules, Rule 58(1)) in respect of each of the herein seven appeals. All seven Appellants and the Respondent have agreed that the Court’s disposition of the said application in the appeal of Lorna Hillman will apply equally to each of the other six applications in each of the other six appeals respectively. One Order will be issued applying cumulatively to all seven herein applications. The term “Appellant” throughout these Amended Reasons for Order is a reference specifically to Lorna Hillman aforesaid, although having equal application to each of the other six Appellants herein.
+[2] Rule 58 reads as follows:
+58(1) On application by a party, the Court may grant an order that a question of law, fact or mixed law and fact raised in a pleading or a question as to the admissibility of any evidence be determined before the hearing.
+58(2) On the application, the Court may grant an order if it appears that the determination of the question before the hearing may dispose of all or part of the proceeding or result in a substantially shorter hearing or a substantial saving of costs.
+58(3) An order that is granted under subsection (1) shall
+(a) state the question to be determined before the hearing;
+(b) give directions relating to the determination of the question, including directions as to the evidence to be given - orally or otherwise - and as to the service and filing of documents;
+(c) fix time limits for the service and filing of a factum consisting of a concise statement of facts and law;
+(d) fix the time and place for the hearing of the question;
+(e) give any other direction that the Court considers appropriate.
+[3] The order sought by the Respondent is that the following proposed question and alternatively the second following proposed question be answered prior to the hearing of this appeal.
+Proposed Question
+Whether the Appellant is precluded by the abuse of process doctrine from re-litigating the facts and conclusions of mixed fact and law determined by the Alberta Court of Queen’s Bench in R. v. Kendall, 2015 ABQB 177 that are listed in paragraph 16 of the Further Amended Reply.
+Second Proposed Question
+If not, then whether the facts and conclusions determined by, and the underlying the convictions by, the Alberta Court of Queen’s Bench as set out in its Reasons for Judgment in R v. Kendall, 2015 ABQB 177 are admissible as evidence in this proceeding as prima facie evidence of the facts and conclusions listed in paragraph 16 of the Further Amended Reply. I note that there are approximately 50 facts and conclusions listed in paragraph 16 of the Further Amended Reply.
+[4] I note that there are approximately 50 facts and conclusions listed in paragraph 16 of the Further Amended Reply. The Appellant opposes this application.
+Background:
+[5] The underlying appeal is of the assessment by the Minister of National Revenue (Minister) of the Appellant’s 2001 taxation year liability per the Income Tax Act (Canada) (Act), raised after expiry of the applicable “normal reassessment period” as defined in subsection 152(3.1) of the Act. The Appellant has raised three issues in this appeal - whether the assessment is statute-barred; whether the Appellant is liable for tax in respect of certain events in 2001 regarding her registered retirement savings plan (RRSP); and whether she is liable for the subsection 163(2) penalty also assessed.
+[6] The Minister’s assessment position is that the Appellant engaged in a “RRSP strip scheme” whereby an amount of funds in her RRSP was used to buy shares in a Canadian corporation which shares were not qualified for RRSP purchase and these shares were not acquired at fair market value and the majority of the supposedly so invested funds were invested offshore. The off-shore investment destination of the RRSP funds was concealed so that the funds would not be recognized as having been withdrawn from her RRSP thus triggering obligations to remit withholding tax obligations on the withdrawals. The RRSP non-qualifying off-shore use of the funds was portrayed as being an investment in qualifying RRSP investments. Many taxpayers in addition to the Appellant were similarly assessed as participants in this alleged scheme.
+[7] The Respondent charged and prosecuted certain individuals in respect of orchestrating this RRSP scheme, including marketing it to the Appellant and others. These individuals included Messrs. Steven Kendall, Christopher Houston and Milowe Brost. Messrs. Kendall and Houston were charged with conspiracy to defraud the government, fraud on the government, fraud on investors and theft. After a lengthy trial in the Alberta Court of Queen’s Bench, they were Kendall and Houston were found guilty of defrauding the government through denying payment of withholding taxes on withdrawn RRSP funds - R. v. Kendall, 2015 ABQB 177. The reasons for judgment of Justice McIntyre issued March 18, 2015 exceed 500 paragraphs and include factual findings. Two statements of agreed facts also had been filed in that matter.
+[8] Mr. Brost had elected trial by judge and jury in the Alberta Court of Queen’s Bench. He ultimately was convicted of five charges including defrauding investors, unlike Messrs. Kendall and Houston who were not convicted of that particular charge. In the Brost case Justice Hall issued a five page document entitled “Findings of Fact” wherein he listed his numerous findings of fact in respect of Mr. Brost. He was sentenced July 28, 2015.
+Analysis and Decision:
+[9] In order to issue a Rule 58(1) order that a question be determined before the hearing of the appeal proper, I must be of the view that a pre-hearing determination of the question may dispose of all or part of the proceeding or result in a substantially shorter hearing or a substantial saving of costs.
+[10] As noted above, the first proposed question is whether the abuse of process doctrine precludes the Appellant from re-litigating the facts and conclusions of mixed fact and law determined by the Alberta Court of Queen’s Bench in R. v. Kendall, 2015 ABQB 177 that are listed in paragraph 16 of the Further Amended Reply.
+[11] The expectation of the Respondent is that this would resolve the first of the Appellant’s three issues not in her favour, that issue being whether the Appellant is liable for the tax assessment on its merits. The Respondent considers that the factual findings in Kendall, upon acceptance in this appeal as conclusive, would establish the Appellant’s liability for the tax for which she has been assessed, with no basis left for the Appellant to oppose same.
+[12] The abuse of process doctrine in the context of denying re-litigation was spoken to by the Supreme Court of Canada in Toronto v. CUPE Local 79, 2003 SCC 63, paras. 37 to 59. Re-litigation of the same matters should be avoided generally, even where the parties in the first litigation are not the same parties in the second litigation. Re-litigation can be abusive of process in the sense that if a matter is re-litigated and a different result arises, the administration of justice is brought into disrepute. And alternatively if the same result is attained on re-litigation, then again the administration of justice suffers, through waste of judicial resources for having allowed a duplicative proceeding reaching the same result. The doctrine is flexible, however, so that it may take account of factors that would encourage re-litigation, such as where the first proceeding was tainted by fraud or dishonesty, or when fresh evidence becomes available and admissible, or simply when circumstances dictate that in fairness the parties in the second matter ought not to be bound by the findings in the first proceeding.
+[13] There is no question that the Rule 58(1) requirement that the hearing may be shortened would here be met, insofar as the Appellant’s first issue - of liability for tax - would be resolved, leaving for litigation only the remaining two issues of whether the matter is statute-barred and whether there is liability for a subsection 163(2) penalty.
+[14] However, in this appeal the Appellant has pleaded that she did not acquire RRSP unqualified shares using her RRSP funds, and thus is not liable for taxation. Her argument, based on certain jurisprudence, is that the entire arrangement was a Ponzi scheme and as such no legally effective transactions occurred, including any actual purchase by her using her RRSP funds of corporate shares intended by the scheme’s organizers to be mis-portrayed as RRSP qualifying shares when in actuality they were not. This was not an issue in the Kendall trial. Indeed in that criminal proceeding the accused parties had, with the Crown, signed two statements of admitted facts, one admitted fact being that the RRSP clients (of which the Appellant would be one) had purchased such corporate shares using RRSP funds. In my view this is enough to conclude that it would not be fair to allow the proposed question to go forward.
+[15] Additionally, however, I note that upon review of the lengthy Kendall reasons for judgment, the Court’s findings of fact are not very specifically articulated as compared or contrasted with the specificity of the Respondent’s some 50 pleaded facts and conclusions at paragraph 16 of the Further Amended Reply. That is not surprising, as typically issues of income tax liability per interpretation of the Act are litigated in this Court while a provincial superior court having criminal jurisdiction would deal with tax matters, as here, through the lens of Criminal Code charges as to tax evasion, fraud and the like.
+[16] Also essentially the same RRSP transactions were litigated in the Alberta Court of Queen’s Bench in the case of Mr. Brost, as noted above. His matter was heard by a different judge, Justice Hall, sitting with a jury. Mr. Brost was convicted of different charges than were Messrs. Kendall and Houston, and Justice Hall’s findings of fact in Brost are not identical to and may substantively differ from those made in the Kendall context. It raises the question why the Brost findings of fact should not also be considered in the proposed question, and not simply the findings of fact reflected in Kendall. I could revise the proposed question to reflect that decision also but I feel that this would cause the intended focus of the proposed question to be lost, to the disadvantage of the efficacy purpose supposed to underlay any Rule 58(1) referral of a particular question.
+[17] I add the further complication that the Appellant in this matter was not a party to the Kendall litigation, nor was she called as a witness in that proceeding. The jurisprudence reflects that this of itself is not a determinative factor; nevertheless it is relevant.
+[18] On the basis of the foregoing I conclude that it would not be appropriate to refer the Respondent’s proposed question for determination at a Rule 58(1) stage two hearing.
+[19] I now turn to the alternative proposed question which is whether the facts and conclusions determined by the Alberta Court of Queen’s Bench as set out in R v. Kendall, 2015 ABQB 177 are admissible as evidence in this proceeding as prima facie evidence of the facts and conclusions listed in paragraph 16 of the Further Amended Reply.
+[20] Again in this context the Kendall findings are somewhat tainted vis-a-vis the Appellant from the perspective that they are based on admission in the Kendall litigation of a key fact (that clients’ RRSP funds were used to purchase non RRSP qualifying corporate shares), which admitted key fact the Appellant has fundamentally put in issue in this Court, per her pleadings. I note also that the argument for shortened time frame for the hearing of the appeal proper is less obvious, where the effect of allowing the Kendall findings on a prima facie basis seemingly would simply be to reverse the initial onus of proof from the Respondent to the Applicant of the many facts and conclusions pleaded in paragraph 16 of the Further Amended Reply.
+[21] For these reasons and as well those noted above regarding the first proposed question, I likewise decline to order a stage two Rule 58(1) hearing in respect of the alternative proposed question. In my view, considering the several concerns herein noted, the most efficient way to proceed with this appeal is through it proceeding to hearing, perhaps preceded by a pre-trial conference, whereat the presiding judge could address questions similar to those herein proposed in the context of the hearing over which he or she would preside.
+[22] Accordingly I deny the application, with tariff costs to the Appellant.
+This Amended Reasons for Order is issued in substitution for the Reasons for Order dated June 29th, 2018
+Signed at Halifax, Nova Scotia, this 18th day of July 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC122
+COURT FILE NO.:
+2010-1084(IT)G; 2010-994(IT)G;
+2010-1057(IT)G; 2010-1075(IT)G;
+2010-1239(IT)G; 2010-1403(IT)G;
+2015-4337(IT)G
+STYLE OF CAUSE:
+LORNA HILLMAN AND HER MAJESTY THE QUEEN
+RANDY CAPSTICK AND HER MAJESTY THE QUEEN
+BERYL POULSEN AND HER MAJESTY THE QUEEN
+ALAN OVEREND AND HER MAJESTY THE QUEEN
+GORDON SHEARER AND HER MAJESTY THE QUEEN
+THE ESTATE OF LLOYD HORTON AND HER MAJESTY THE QUEEN
+SHELAGH HORTON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 14, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice B. Russell
+DATE OF AMENDED ORDER:
+July 18, 2018
+APPEARANCES:
+Counsel for the Appellants:
+Alistair Campbell
+Michelle Moriartey
+Counsel for the Respondent:
+Ron Wilhelm
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Alistair Campbell
+Michelle Moriartey
+Firm:
+Legacy Tax & Trust Lawyers
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

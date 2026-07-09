@@ -1,0 +1,290 @@
+Title: North Shore Health Region c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27333/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-585-27333-north-shore-health-region-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-10-24
+
+# North Shore Health Region c. La Reine
+
+- Citation: 2006 CCI 585
+- Decision date: 2006-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 873, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+North Shore Health Region c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-24
+Référence neutre
+2006 CCI 585
+Numéro de dossier
+2002-897(GST)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-897(GST)G
+ENTRE :
+NORTH SHORE HEALTH REGION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 18 et 19 août 2005,
+à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocate de l’appelante :
+Me Kimberley L.D. Cook
+Avocat de l’intimée :
+Me Ron D.F. Wilhelm
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 9 juillet 2001 et porte le numéro 11BU‑117482935, est rejeté avec dépens en faveur de l’intimée, si elle les demande.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 14e jour de mars 2008.
+Maurice Audet, réviseur
+Référence : 2006CCI585
+Date : 20061024
+Dossier : 2002-897(GST)G
+ENTRE :
+NORTH SHORE HEALTH REGION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] L’appelante, organisme de santé publique de la province de la Colombie‑Britannique, exploite un certain nombre d’établissements de santé à North Vancouver. Le présent appel intéresse l’application de la taxe sur les produits et services (la « TPS ») sous le régime de la partie IX de la Loi sur la taxe d’accise[1] (la « Loi ») à un établissement appelé Kiwanis Care Centre (le « Centre »). Les deux principales questions qu’il me faut trancher consistent à savoir si l’établissement entre dans la définition de « immeuble d’habitation à logements multiples », qui figure au paragraphe 123(1) de la Loi, auquel cas l’appelante doit payer la taxe sur la fourniture à soi‑même de cet immeuble et, le cas échéant, à savoir si le remboursement auquel l’appelante a droit doit être calculé au taux de 83 pour 100, à titre d’hôpital public, ou de 50 pour 100, à titre d’organisme de bienfaisance.
+[2] C’est la Kiwanis Care Homes Society (la « Society ») qui a commencé la construction du Centre en 1996. Cet organisme et l’appelante ont fusionné le 1er mai 1998, peu avant l’achèvement des travaux de construction. Il s’agissait de deux sociétés sans but lucratif. L’appelante a été désignée comme conseil régional de santé en application de la Health Authorities Act[2] de la Colombie‑Britannique. Il n’est pas contesté que, par suite de la fusion, l’appelante a acquis tous les droits et avantages dévolus à la Society et qu’elle est devenue responsable de toutes les obligations incombant à cette dernière. La construction du Centre a été achevée plus tard en mai 1998, et le premier résident[3] a emménagé au cours du même mois.
+[3] Les personnes admises au Centre au moment de son achèvement étaient toutes des aînés, la plupart d’un âge vénérable, et elles étaient toutes atteintes d’un handicap suffisamment sévère pour les empêcher, en l’absence d’aide, de vivre dans la collectivité d’une manière autonome. Les premiers résidents venaient de deux autres établissements similaires exploités par l’appelante et offrant des résidences‑services. Pour des raisons d’ordre administratif, les patients étaient divisés en trois catégories. Ceux du premier groupe de soins intermédiaires pouvaient se déplacer, mais avaient dans une certaine mesure besoin d’aide pour les activités quotidiennes, comme les repas et les bains. Leur état de santé sur le plan médical était stable. Le second groupe de soins intermédiaires se composait de personnes à mobilité réduite ou atteintes d’une maladie chronique devant faire l’objet d’un suivi par un médecin. Certains membres de ce groupe présentaient des troubles psychiatriques ou psychologiques exigeant une surveillance fréquente. Le troisième groupe, celui des soins prolongés, était formé de personnes qui, en raison de leurs antécédents médicaux, devaient faire l’objet d’une surveillance 24 heures par jour. Ce groupe comprenait les personnes souffrant de problèmes cardiaques ou pulmonaires ou de divers autres troubles chroniques exigeant à la fois des soins et de la surveillance. Un grand nombre de personnes appartenant à ce groupe avaient une mobilité très réduite, et l’on avait diagnostiqué chez certains de multiples troubles médicaux. En règle générale, les résidents n’avaient pas besoin des services d’un hôpital de soins actifs, mais ils nécessitaient des soins, de l’aide et de la surveillance à divers degrés.
+[4] L’admission au Centre ne pouvait se faire sur demande. La personne devait au préalable faire l’objet d’une évaluation favorable de la part d’un médecin quant à ses besoins médicaux, ainsi que de la part d’un travailleur social. Seules les personnes dont le médecin particulier acceptait de continuer à leur prodiguer des soins pendant qu’elles résidaient au Centre pouvaient y être admises. La décision quant à l’admission relevait d’une [TRADUCTION] « équipe d’accès » ou d’un consultant de l’appelante. Une fois admis, chaque patient devait verser des frais mensuels fixés en fonction de sa capacité de payer. Ces frais variaient de 750 $ à 1 500 $ par mois et étaient payables par voie de prélèvement automatique sur le compte bancaire du patient.
+[5] Les résidents du Centre n’ont pas à préparer leurs repas et ils reçoivent le degré approprié de soins et d’aide quotidienne que leur état physique et mental nécessite. Le Centre dispose d’un personnel infirmier à plein temps qui veille aux exigences médicales; il s’agit notamment de faire prendre aux patients les médicaments prescrits par leur médecin, de prodiguer les premiers soins et de répondre aux autres besoins médicaux que les patients pourraient avoir. Les infirmières tiennent à jour des dossiers pour chaque patient. Un gériatre effectue des visites au Centre deux fois par mois et les patients peuvent recourir aux services d’un dentiste en cas de besoin, moyennant des honoraires que le Centre négocie pour eux. Le personnel ne compte aucun médecin, mais les patients reçoivent la visite de leur médecin particulier selon les besoins.
+[6] Le Centre dispose de 180 chambres simples et de 6 chambres pour deux personnes, toutes dotées de lits semblables à ceux qu’on trouve dans les hôpitaux. Les chambres sont situées autour de postes de soins infirmiers et leur disposition ressemble beaucoup à ce qu’on trouve en milieu hospitalier. C’est là que les infirmières font leur travail et tiennent les dossiers des patients à jour. Bien que les chambres contiennent le mobilier de base, les résidents peuvent y avoir de petits meubles, comme une chaise, si cela convient, ainsi que des objets personnels, comme des photographies, des objets décoratifs, des couvertures et des édredons, s’ils le souhaitent. Les salles de bain sont dotées des poignées appropriées et de tout le matériel requis pour la sécurité des personnes âgées ou infirmes. De l’oxygène est disponible dans les chambres, soit par approvisionnement central direct ou par des réservoirs facilement accessibles partout dans le Centre. Outre les chambres, les résidents bénéficient d’une bibliothèque avec foyer, d’une salle destinée aux réunions familiales et autres, ainsi que d’un comptoir à provisions, dont s’occupent deux résidents, avec l’aide occasionnelle du personnel. Ils ont également accès à un centre de réadaptation. Par contre, il n’y a pas de pharmacie; les ordonnances sont remplies pour les patients à la pharmacie locale et livrées au Centre, où le personnel infirmier vérifie les livraisons et fait prendre les médicaments aux patients conformément aux instructions de leur médecin traitant respectif.
+[7] Le Centre était exploité à titre d’établissement de soins prolongés. En 2004, environ 25 pour 100 des premiers résidents du Centre y vivaient toujours; les autres étaient décédés. Mme Trevor-Smith, responsable des personnes âgées pour l’appelante, a exposé en ces termes la mission du Centre[4] :
+[TRADUCTION]
+Q. Le travail accompli par le Centre à l’intention de ces résidents visait surtout à rendre l’endroit le plus accueillant et le plus confortable possible.
+R. Oui, nous faisons cela.
+[...]
+Oui, parce qu’ils sont âgés, ils sont fragiles, leur santé est chancelante et c’est peut‑être le dernier endroit où ils vivront. Je veux dire, certains résidents m’ont littéralement dit : « Je suppose que c’est ma dernière chambre », et c’est le cas. Et l’on fait donc tout ce qu’on peut pour leur offrir une réelle qualité de vie, pour être respectueux et pour que la vie soit aussi heureuse et normale qu’elle peut l’être dans le cadre d’un établissement institutionnel.
+[8] Pendant la période de la construction, des fonctionnaires de Revenu Canada ont informé la Society qu’ils estimaient que la construction du Centre constituait une activité commerciale et qu’il faudrait donc procéder à une autocotisation au titre de la fourniture à soi‑même de l’immeuble en application du paragraphe 191(3) de la Loi. C’est en mai 1998 que l’établissement a admis son premier résident, mais l’appelante n’a pas procédé à une autocotisation à ce moment-là. Elle a toutefois produit des déclarations dans lesquelles elle demandait des crédits de taxe sur les intrants relativement à toute la TPS payée au cours de la période de construction, crédits qui lui ont été accordés. À l’été 1999, l’appelante a présenté au ministre du Revenu national une divulgation volontaire voulant qu’elle ait omis de procéder à une autocotisation relativement au Centre, et elle a produit une déclaration modifiée pour la période du 29 mai au 25 juin 1998 par laquelle elle déclarait une TPS payable au taux de 7 pour 100 de la juste valeur marchande de l’immeuble. Le 5 juin 2000, elle a présenté au ministre une demande de remboursement fondée sur l’article 259 de la Loi afin d’obtenir un remboursement de 83 pour 100 de la TPS payée relativement à l’immeuble et à l’ensemble des meubles, des accessoires fixes et des fournitures. Le ministre a répondu à cette demande en établissant une cotisation par laquelle il a refusé le remboursement de 83 pour 100 réclamé, mais il a accordé un remboursement de 50 pour 100 parce qu’il estimait que le Centre était un organisme de bienfaisance et non un hôpital public. L’appelante a produit un avis d’opposition à l’égard de cette cotisation en faisant valoir, premièrement, qu’elle n’était nullement tenue de procéder à une autocotisation puisque le Centre n’était pas un immeuble d’habitation à logements multiples et, deuxièmement, qu’elle avait droit au remboursement au taux de 83 pour 100, comme elle l’avait réclamé. La cotisation a été confirmée par le ministre, ce qui a donné lieu au présent appel.
+L’appelante était‑elle tenue de procéder à une autocotisation pour la fourniture à soi‑même réputée de l’immeuble?
+[9] L’exigence faite au constructeur/propriétaire d’un immeuble d’habitation à logements multiples de procéder à une autocotisation de TPS au titre de la fourniture à soi‑même de l’immeuble est prévue au paragraphe 191(3) de la Loi.
+191(3) Pour l’application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d’un immeuble d’habitation à logements multiples sont achevées en grande partie,
+b) le constructeur, selon le cas :
+(i) transfère à une personne, qui n’est pas l’acheteur en vertu du contrat de vente visant l’immeuble, la possession d’une habitation de celui-ci aux termes d’un bail, d’une licence ou d’un accord semblable conclu en vue de l’occupation de l’habitation à titre résidentiel,
+(i.1) transfère à une personne la possession d’une habitation de l’immeuble aux termes d’une convention prévoyant :
+(A) d’une part, la fourniture par vente de tout ou partie du bâtiment faisant partie de l’immeuble,
+(B) d’autre part, la fourniture par bail du fonds faisant partie de l’immeuble ou la fourniture d’un tel bail par cession,
+(ii) étant un particulier, occupe lui‑même à titre résidentiel une habitation de l’immeuble,
+c) le constructeur, la personne ou un particulier locataire de celle‑ci ou titulaire d’un permis de celle-ci est le premier à occuper à titre résidentiel une habitation de l’immeuble après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble le jour où les travaux sont achevés en grande partie ou, s’il est postérieur, le jour où la possession de l’habitation est transférée à la personne ou l’habitation est occupée par lui;
+e) avoir payé à titre d’acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l’immeuble ce jour-là.
+[Non en caractères gras dans l’original.]
+Si l’on s’en tient à l’essentiel de ces dispositions et qu’on l’applique aux faits en l’espèce, on arrive à la conclusion suivante : si, une fois l’immeuble du Centre achevé en grande partie, l’appelante a transféré à une personne la possession d’une habitation de l’immeuble aux termes d’un bail, d’une licence ou d’un accord semblable en vue de l’occupation de l’habitation à titre résidentiel, la disposition déterminative a alors effet, et une fourniture à soi‑même assujettie à la taxe est effectuée.
+[10] Il y a donc lieu d’examiner trois définitions prévues à l’article 123 de la Loi.
+« immeuble d’habitation à logements multiples » Immeuble d’habitation, à l’exclusion d’un immeuble d’habitation en copropriété, qui contient au moins deux habitations;
+« immeuble d’habitation »
+a) La partie constitutive d’un bâtiment qui comporte au moins une habitation, y compris :
+(i) la fraction des parties communes et des dépendances et du fonds contigu au bâtiment qui est raisonnablement nécessaire à l’usage résidentiel du bâtiment,
+(ii) la proportion du fonds sous-jacent au bâtiment correspondant au rapport entre cette partie constitutive et l’ensemble du bâtiment;
+« habitation » Maison individuelle, jumelée ou en rangée, unité en copropriété, maison mobile, maison flottante, appartement, chambre d’hôtel, de motel, d’auberge ou de pension, chambre dans une résidence d’étudiants, d’aînés, de personnes handicapées ou d’autres particuliers ou tout gîte semblable, ou toute partie de ceux-ci, qui est, selon le cas :
+a) occupée à titre résidentiel ou d’hébergement;
+b) fournie par bail, licence ou accord semblable, pour être utilisée à titre résidentiel ou d’hébergement;
+c) vacante et dont la dernière occupation ou fourniture était à titre résidentiel ou d’hébergement;
+d) destinée à servir à titre résidentiel ou d’hébergement sans avoir servi à une fin quelconque.
+[Non en caractères gras dans l’original.]
+[11] À l’appui de son argument, l’avocate de l’appelante affirme que le paragraphe 191(3) ne s’applique pas en l’espèce en raison d’une interprétation technique que l’Agence du revenu du Canada a fournie à la Society en août 1997 à la suite d’une demande présentée par cette dernière en mai de cette même année. Elle invoque en outre une décision publiée, rendue par la Direction de l’accise et des décisions de la TPS/TVH de l’Agence du revenu du Canada concernant la construction d’une maison de repos, ainsi que les décisions O.A. Brown Ltd. v. The Queen[5] et Blanche's Home Care Inc. v. The Queen[6] de la Cour et l’arrêt Hidden Valley Golf Resort Association v. The Queen[7] de la Cour d’appel fédérale. Pour l’essentiel, elle soutient que, depuis le début, l’appelante offre à chacun des patients du Centre un ensemble de services, dont les plus importants sont les soins médicaux. L’avocate s’est exprimée en ces termes :
+[TRADUCTION]
+[...] le principal élément de la fourniture effectuée consistait donc en soins de santé, tandis que les services d’hébergement ne constituaient qu’une petite partie du coût de l’ensemble de la fourniture, et l’appelante n’effectuait donc qu’une seule fourniture de services de soins de santé.
+[12] La thèse de l’appelante est erronée en ce qu’elle vise la fourniture effectuée par l’appelante aux patients dans l’établissement. Or, la cotisation frappée d’appel concerne la taxe sur une fourniture qui est réputée, suivant le paragraphe 191(3), avoir été effectuée par le constructeur à lui‑même dès lors que le premier patient est devenu résident du Centre après que les travaux de construction eurent été achevés en grande partie en mai 1998. Le bien‑fondé de la cotisation est entièrement tributaire de la question de savoir si les exigences de cette disposition sont remplies. Il est inutile de se demander si une taxe est exigible sur les fournitures continues effectuées par la suite aux patients du Centre et ce point n’a d’ailleurs jamais été soulevé dans le cadre du présent appel. Or, les décisions invoquées par l’avocate de l’appelante portent toutes sur ce dernier point.
+[13] La véritable question à trancher en ce qui concerne cet aspect de l’appel est donc la suivante : la Society a‑t‑elle transféré aux patients la possession d’une chambre aux termes d’un bail, d’une licence ou d’un accord semblable en vue de l’occupation à titre résidentiel? Aucun bail n’est intervenu dans la présente affaire. Par conséquent, il est inutile de se demander si les patients détiennent une licence, ou une autre forme d’autorisation moins formelle, pour occuper leur chambre. De toute évidence, lorsqu’il a employé les termes « [...] bail, licence ou accord semblable, pour être utilisée à titre résidentiel ou d’hébergement [...] », le législateur avait l’intention d’englober tous les fondements légitimes au titre desquels une personne peut, avec permission, élire domicile en ces lieux. Qu’il s’agisse de la version anglaise[8] ou française de la Loi, il est difficile d’imaginer comment exposer d’une manière plus large la situation dans laquelle se trouve le particulier qui, par suite d’un accord avec le propriétaire des lieux, est autorisé à y élire domicile. Si l’accord en l’espèce ne constitue pas une licence, il ne fait aucun doute qu’un « accord semblable » est intervenu.
+[14] De même, il est impossible de conclure que les chambres du Centre qui sont occupées par les patients ne constituent pas leur lieu de résidence. Ils vivent, prennent leurs repas et dorment au Centre à temps plein. Ils bénéficient d’avantages qui vont au‑delà de leur seule chambre. Ils y reçoivent leur courrier et, s’ils le désirent, leurs journaux. Ils peuvent participer à des activités sociales avec les membres de leur famille. Enfin, rien ne permet de penser qu’ils envisagent d’aller vivre ailleurs dans l’avenir. Conclure que le Centre n’est pas un lieu de résidence pour les patients reviendrait à conclure qu’ils n’ont pas de logement, ce qui n’est manifestement pas le cas. Selon moi, chacune des parties de l’immeuble occupée par les patients est une « habitation » et le Centre est un « immeuble d’habitation à logements multiples », au sens où ces expressions sont définies par la Loi. Il s’ensuit que, dès lors que les deux conditions suivantes sont réunies, à savoir l’achèvement en grande partie des travaux et l’occupation par le premier patient à titre résidentiel, il y a eu fourniture réputée de l’immeuble par l’appelante à l’appelante, et celle-ci était réputée avoir payé et perçu la taxe au taux de 7 pour 100 sur la juste valeur marchande de l’immeuble. L’appelante n’a pas contesté la valeur sous‑jacente à la cotisation établie par le ministre, et l’appel est donc rejeté en ce qui touche la question de la fourniture à soi‑même.
+[15] À la lumière de ma conclusion relative à la première question en litige, il est inutile que je me penche sur l’argument de l’intimée voulant que l’appelante soit empêchée par préclusion de nier qu’il y a eu fourniture à soi‑même de l’immeuble aux termes du paragraphe 191(3) de la Loi.
+Taux du remboursement
+[16] Les parties conviennent de ce qui suit : l’appelante a droit au remboursement d’une partie de la taxe qu’elle a payée lorsqu’elle a acheté les meubles, le matériel et les fournitures pour le Centre et d’une partie de la taxe que j’estime exigible sur la fourniture à soi‑même du Centre en application du paragraphe 191(3)[9]. Le taux du remboursement à payer est fixé à l’article 259 de la Loi, dont la longueur et la complexité sont remarquables. Fort heureusement, le litige opposant les parties est bien circonscrit et n’intéresse qu’une portion précise de cette disposition.
+[17] Le paragraphe 259(3) prévoit le mode de calcul du remboursement dans le cas tant d’un organisme de bienfaisance que d’un « organisme déterminé de services publics », expression qui est définie au paragraphe (1) :
+259(1) Les définitions qui suivent s’appliquent au présent article.
+« organisme déterminé de services publics »
+a) Administration hospitalière,
+[…]
+La définition du terme « administration hospitalière », quant à elle, se trouve au paragraphe 123(1) :
+123(1) Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+« Administration hospitalière » Institution qui administre un hôpital public et qui est désignée par le ministre comme administration hospitalière pour l’application de la présente partie.
+L’expression « hôpital public » n’est pas définie dans la Loi.
+[18] L’appelante ne peut demander un remboursement au taux de 83 pour 100 que si elle est un « organisme déterminé de services publics », et elle ne peut prétendre au titre « organisme déterminé de services publics » qu’en qualité d’« administration hospitalière ». Pour obtenir gain de cause sur cet aspect de son appel, elle doit donc être exploitée en tant qu’hôpital public et avoir été désignée par le ministre comme administration hospitalière pour l’application de la partie IX de la Loi. Si elle ne satisfait pas à ces deux exigences, ce n’est qu’à titre d’organisme de bienfaisance qu’elle peut demander un remboursement au taux de 50 pour 100 sur la TPS versée, ce qui constitue le fondement de la cotisation frappée d’appel.
+[19] La cause est en état quant à ces deux exigences. Le paragraphe 16 du 2e avis d’appel modifié énonce en partie :
+[TRADUCTION]
+16. Le 14 juin 2000, la Kiwanis Hospital Division de l’appelante a présenté une demande de remboursement à titre d’organisme de services publics […] afin d’obtenir un remboursement de 83 pour 100 […] Cette demande a été présentée sur le fondement que l’appelante a été désignée par le ministre comme « administration hospitalière » et que le Kiwanis Hospital [le Centre] était un « hôpital public » au sens de la Loi.
+En réponse au 2e avis d’appel modifié, on mentionne ce qui suit au paragraphe 12 :
+[TRADUCTION]
+12. Également en ce qui concerne le paragraphe 16 du [2e] avis d’appel modifié, il :
+a) reconnaît que la Division a demandé un remboursement de 83 pour 100 parce que l’appelante a été désignée par le ministre comme « administration hospitalière » et que le Centre était un « hôpital public » au sens de la Loi;
+b) nie que le ministre a désigné l’appelante ou la Division comme « administration hospitalière » sous le régime de la Loi;
+c) nie que le Centre était un « hôpital public » au sens de la Loi;
+[…]
+La dénégation du fait que le Centre était un « hôpital public » et que la Division (c’est‑à‑dire le Centre) a été désignée comme « administration hospitalière » par le ministre est réitérée sous forme d’hypothèses de fait à l’appui de la cotisation aux alinéas 23(z) et (aa) de la réponse.
+[20] À la fin de l’audience, j’ai demandé aux avocats de me présenter par écrit des observations supplémentaires portant précisément sur la question de savoir si l’appelante est désignée comme administration hospitalière. Je dispose maintenant de ces observations.
+Le Centre est-il un hôpital public?
+[21] Pour affirmer que le Centre est un hôpital public, l’appelante s’appuie principalement sur un décret pris par la ministre de la Santé de la Colombie‑Britannique en vertu de l’article 42.1 de la Hospital Act[10] le 1er août 1996, sur un décret pris en vertu de la Hospital Insurance Act[11] qui la désigne comme un hôpital, sur les définitions des termes [TRADUCTION] « public » [public] et [TRADUCTION] « hôpital » [hospital] qui figurent dans le Webster’s Dictionary de même que sur l’observation voulant que le Centre offre des soins médicaux très spécialisés.
+[22] La Loi ne donne aucune définition du terme [TRADUCTION] « hôpital public » [public hospital]. L’appelante me renvoie aux définitions du Webster’s Dictionary :
+[TRADUCTION]
+public : Qui concerne l’État, […] ou qui est au service de la collectivité;
+hôpital : Établissement caritatif où l’on reçoit les personnes sans ressources, âgées, infirmes […] un établissement où les personnes malades ou blessées reçoivent des soins médicaux ou chirurgicaux.
+Les définitions qui se trouvent dans le Canadian Oxford Dictionary sont quelque peu différentes :
+[TRADUCTION]
+public : 1 Qui concerne le peuple pris dans son ensemble […] 2 Accessible ou ouvert à tous […] 4 (services, fonds, etc.) Fournis ou largement subventionnés par l’État, ou qui concernent l’État […]
+hôpital : 1 a Établissement où l’on prodigue des traitements médicaux et chirurgicaux ainsi que des soins infirmiers aux personnes malades ou blessées. b Établissement destiné au traitement des animaux malades ou blessés. […] 3 Dr. angl. Établissement caritatif […]
+Voici comment on définit ces termes dans le Collins Canadian English Dictionary and Thesaurus :
+[TRADUCTION]
+public : 1 Qui concerne le peuple dans son ensemble. 2 Ouvert à tous […] 5 Maintenu aux frais d’une collectivité; au service ou à l’usage d’une collectivité.
+hôpital : 1 Établissement destiné au soin et au traitement médical ou psychiatrique des patients. […] 4 Arch. Résidence, maison de soins ou école caritative.
+À mon avis, comme les définitions du terme « hôpital », données dans le Canadian Oxford Dictionary et le Collins Canadian Dictionary, insistent davantage sur le traitement que celle du Webster, elles reflètent mieux l’usage canadien contemporain.
+[23] Je ne suis pas non plus d’accord avec l’observation selon laquelle la preuve établit que le Centre offre à ses patients des soins médicaux très spécialisés. Après avoir apprécié la preuve, j’estime que le Centre fournit aux patients divers degrés d’aide pour qu’ils puissent vivre de façon autonome, notamment les services d’infirmières diplômées pour la prise des médicaments et une assistance médicale d’ordre général, au besoin. Le personnel du Centre ne compte aucun médecin, et les visites du gériatre sont peu fréquentes. À mon sens, il s’agit non pas de traitements, ni même de soins spécialisés, mais bien simplement d’aide pour permettre aux patients de fonctionner dans la vie quotidienne. Il ne fait aucun doute que certains patients nécessitent beaucoup d’aide et de soins, mais je ne puis accepter l’assertion voulant que le Centre ait principalement pour objet d’offrir des traitements ou des soins spécialisés.
+[24] À mon avis, les définitions données dans les dictionnaires sont peu utiles en l’espèce. Sous réserve de quelques exceptions qui ne sont pas pertinentes dans la présente affaire, il appartient aux provinces de régir les hôpitaux et, en Colombie‑Britannique comme ailleurs, il existe un certain nombre de textes législatifs à cette fin. Le plus important est la Hospital Act[12]. Elle définit ainsi le terme [TRADUCTION] « hôpital » [hospital] à l’article 1 :
+[TRADUCTION]
+1. Les définitions qui suivent s’appliquent à la présente loi.
+« hôpital » Sauf dans les parties 2 et 2.1, désigne un établissement sans but lucratif qui a été désigné comme hôpital par le ministre et qui a principalement pour objet d’accueillir et de traiter toute personne qui :
+a) soit en est à la phase aiguë d’une maladie ou d’une invalidité;
+b) soit est en convalescence ou en voie de réadaptation à la suite d’une maladie aiguë ou d’une lésion grave;
+c) soit nécessite des soins prolongés plus spécialisés que ceux habituellement prodigués dans un hôpital privé qui est titulaire d’une licence sous le régime de la partie 2.
+La partie 2 traite uniquement des hôpitaux privés et la partie 2.1 n’est pas pertinente en l’espèce. L’expression [TRADUCTION] « hôpital public » [public hospital] n’est définie nulle part dans la Hospital Act mais, dans la partie 2 relative aux hôpitaux privés, se trouve la définition suivante :
+[TRADUCTION]
+5(1) Les définitions qui suivent s’appliquent à la présente partie.
+« hôpital privé » ou « hôpital » Désigne une maison dans laquelle au moins deux patients – autres que l’époux, l’épouse, le père, la mère ou un enfant du propriétaire ou de l’exploitant – vivent en même temps, et comprend une maison de repos ou de convalescence, mais non un hôpital au sens de l’article 1.
+[25] La pièce A-1, onglet 1, reproduit en partie un document daté du 1er août 1996 et intitulé [TRADUCTION] « décret de la ministre de la santé ». Le passage pertinent de ce document est ainsi rédigé :
+[TRADUCTION]
+Je, soussignée, Joy K. MacPhail, ministre de la Santé et ministre responsable des personnes âgées, décrète que le [Centre], exploité par la North Vancouver Kiwanis Care Homes Society, à North Vancouver, est désigné comme hôpital pour la seule application de l’article 41 de la Hospital Act.
+Ce décret a été pris en vertu de l’article 42.1 de la Hospital Act, laquelle a été édictée en 1980[13]. Cette disposition prévoit ce qui suit :
+[TRADUCTION]
+42.1(1) Le ministre peut désigner comme hôpital, pour l’application de l’article 41, tout établissement de soins communautaires, au sens de la Community Care Facility Act, qui remplit les conditions suivantes :
+a) il est titulaire d’une licence délivrée sous le régime de cette loi;
+b) il appartient à une société constituée ou enregistrée sous le régime de la Society Act ou est exploité par une telle société;
+c) il reçoit de l’aide financière de la Province, y compris de l’aide financière au titre du remboursement de dettes découlant de la planification, de la construction, de la reconstruction, de l’outillage ou de l’acquisition d’immeubles pour les fins de l’établissement.
+42.1(2) Lorsque le ministre désigne un établissement de soins communautaires comme hôpital en application du paragraphe (1) :
+a) les dispositions de l’article 41 s’appliquent à cet établissement;
+b) l’avis, selon lequel le bien‑fonds d’un hôpital au sens de l’article 1, 5 ou 25 est assujetti aux alinéas 41(1)c) et d), qui doit ou peut être déposé au bureau d’enregistrement des titres fonciers, peut viser le bien‑fonds d’un établissement de soins communautaires même si les dispositions réglementaires prévoyant le dépôt de l’avis ne font mention ni d’établissements de soins communautaires ni de bien‑fonds d’un établissement de soins communautaires.
+L’article 41 de la Hospital Act alors en vigueur prévoyait expressément que le gouvernement provincial devait participer au coût du capital lié à la construction des hôpitaux et aux ajouts. La Community Care Facility Act[14] définit ainsi le terme [TRADUCTION] « établissement de soins communautaires » [community care facility] :
+[TRADUCTION]
+1 Les définitions qui suivent s’appliquent à la présente loi.
+« établissement de soins communautaires » Établissement qui :
+a) soit offre des soins, de la surveillance, de la formation sociale ou scolaire ou de la thérapie en réadaptation physique ou mentale, gratuitement ou non, à au moins trois personnes non liées par le sang ou le mariage à un exploitant de l’établissement;
+b) soit offre la nourriture et l’hébergement, selon le cas :
+(i) à au moins trois femmes enceintes à n’importe quel stade de leur grossesse, ou pendant les trois mois suivant immédiatement l’accouchement, gratuitement ou non,
+(ii) à au moins 15 personnes bénéficiaires de prestations d’aide sociale sous le régime de la BC Benefits (Income Assistance) Act, d’allocations aux jeunes sous le régime de la BC Benefits (Youth Works) Act ou d’allocations d’invalidité sous le régime de la Disability Benefits Program Act;
+c) soit est désigné par le lieutenant-gouverneur en conseil comme établissement de soins communautaires.
+La présente définition exclut les établissements suivants :
+c) les écoles au sens de la School Act;
+d.1) les écoles francophones au sens de la School Act;
+e) une quelconque partie d’un établissement titulaire d’une licence délivrée sous le régime de la Hospital Act;
+f) les foyers agréés comme familles d’accueil sous le régime de la Child, Family and Community Service Act;
+g) les foyers désignés comme centres de placement sous garde des adolescents sous le régime de la Corrections Act;
+h) les écoles primaires offrant, de l’avis du directeur, une formation scolaire aux enfants âgés d’au moins six ans;
+i) les foyers agréés sous le régime de la Mental Health Act;
+j) les établissements désignés par décret pris par le lieutenant-gouverneur en conseil, ou les catégories d’établissements désignés par règlement, comme n’étant pas des établissements de soins communautaires;
+k) les foyers offrant des services de garderie à une même fratrie seulement.
+À la lumière des précisions que la preuve m’a fournies, les services offerts par le Centre à ses résidents tombent certainement sous le coup de l’alinéa a) de cette définition. Le fait que la ministre de la Santé a pris un tel décret laisse croire que le Centre constituait, à son avis, un établissement de soins communautaires puisque, dans le cas contraire, elle n’aurait tout simplement pas pu agir ainsi. Le décret n’a toutefois pas eu pour effet de transformer le Centre en hôpital. Le pouvoir du ministre de procéder à une désignation en vertu de l’article 42.1 est expressément restreint, tout comme le libellé même du décret : [TRADUCTION] « […] pour la seule application de l’article 41 […] ». [Non en caractères gras dans l’original.]
+[26] Le point de vue faisant du Centre est un établissement de soins continus plutôt qu’un hôpital est en outre étayé par la pièce A‑2, soit les trois premières pages d’un formulaire qui en compte six. Ce document, intitulé [TRADUCTION] « formulaire de demande et d’évaluation » [application and assessment form], est apparemment imprimé et distribué par le ministère des Soins de santé de la Colombie‑Britannique. Pour qu’on évalue leur candidature, les personnes souhaitant être admises au Centre doivent remplir ce formulaire dont l’article E est ainsi libellé :
+[TRADUCTION]
+Je demande à me prévaloir des avantages auxquels je pourrais être admissible dans le cadre du programme de soins continus. J’atteste que les renseignements que j’ai fournis sont exacts, autant que je sache, et je consens à ce qu’ils soient communiqués au fournisseur des soins continus.
+À la suite de ce paragraphe, un espace est réservé à la signature de l’auteur de la demande d’admission. Au verso de la page 1, sous la rubrique intitulée [TRADUCTION] « Accès à l’information et protection de la vie privée », figure un paragraphe qui débute par la phrase suivante :
+[TRADUCTION]
+Les renseignements personnels sont recueillis sous le régime de la Continuing Care Act et serviront à établir la capacité fonctionnelle et celle d’autogestion de la santé du demandeur. […]
+La Continuing Care Act[15] a été édictée en 1989 et la définition du terme [TRADUCTION] « soins continus » [continuing care] qui y est prévue a été modifiée de la façon suivante en 1994 :
+[TRADUCTION]
+1. « soins continus » Soins de santé dont la prestation est prévue à l’article 1.2.
+L’article 1.2 a été ajouté au même moment et est ainsi rédigé :
+[TRADUCTION]
+1.2 Le lieutenant-gouverneur en conseil peut prévoir que sont assimilés à des soins continus un ou plusieurs services de santé prodigués à des personnes qui ont une santé fragile ou une maladie ou une invalidité aiguë ou chronique ne nécessitant pas l’admission à un hôpital au sens de l’article 1 de la Hospital Act.
+[27] Il ressort sans équivoque de ces dispositions que, selon le droit de la Colombie‑Britannique applicable au moment pertinent, les soins continus étaient prodigués dans un établissement de soins communautaires, ou peut‑être dans un quelconque autre établissement, mais pas dans un hôpital. Il ressort également de la pièce A‑2 que les personnes admises au Centre l’étaient pour y recevoir des soins continus. Il s’ensuit que, selon le droit provincial applicable, le Centre ne pouvait être un hôpital.
+[28] L’autre partie de la pièce A-1, onglet 1, consiste en une copie d’un décret apparemment pris en vertu de l’alinéa 1a) de la Hospital Insurance Act[16] de la Colombie‑Britannique. Voici le texte de ce décret :
+[TRADUCTION]
+Sur recommandation du soussigné, le lieutenant-gouverneur, après avoir consulté le Conseil exécutif et obtenu son consentement, décrète que le Centre exploité par la North Vancouver Kiwanis Care Homes Society, à North Vancouver, soit désigné comme hôpital.
+L’alinéa a) de la définition du terme [TRADUCTION] « hôpital » [hospital] figurant à l’article 1 dispose :
+[TRADUCTION]
+1 Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« hôpital » S’entend, sauf à l’article 24 et à l’alinéa 29(2)a) :
+a) d’un hôpital, au sens de l’article 1 de la Hospital Act, désigné sous le régime de la présente loi par le lieutenant-gouverneur en conseil comme hôpital tenu de fournir les services hospitaliers généraux prévus par la présente loi;
+L’article 24 et l’alinéa 29(2)a) portent sur les services hors province et ne sont donc pas pertinents en l’espèce. La nature des services hospitaliers généraux susmentionnés est précisée au paragraphe 5(1) :
+[TRADUCTION]
+5(1) Sous réserve des dispositions prévues au paragraphe (2), les services hospitaliers généraux fournis sous le régime de la présente loi sont les suivants :
+a) pour les personnes admissibles nécessitant un traitement pour une maladie aiguë ou une lésion grave, l’hébergement en salle commune, l’usage des salles d’opération et des salles de travail nécessaires, les actes de radiodiagnostic, de radiothérapie, de laboratoire, l’anesthésie, les services liés aux ordonnances, aux médicaments, aux pansements et aux plâtres ainsi que les autres services prévus par règlement;
+b) pour les personnes admissibles nécessitant un traitement actif pour une maladie ou une invalidité chronique, l’hébergement en salle commune, la physiothérapie et l’ergothérapie, l’usage d’une salle de petite chirurgie, les actes de radiodiagnostic et de laboratoire, les services liés aux ordonnances, aux médicaments, aux pansements et aux plâtres ainsi que les autres services prévus par règlement;
+c) pour les personnes admissibles nécessitant un traitement ou des services de diagnostic à titre de patients externes, le traitement ou les services de diagnostic pour patients externes prévus par règlement.
+Bien que ni la disposition conférant le pouvoir de prendre le décret ni la signification de celui‑ci ne soient évidentes, il semble qu’un décret pris en vertu de cette loi vise uniquement à faire en sorte que les hôpitaux soient payés, sur le fonds d’assurance- hospitalisation, pour la prestation de ces services généraux. Il ne fait aucun doute que le Centre n’offre pas les services généraux énumérés à l’alinéa 5(1)a); mais il fournit la plupart de ceux mentionnés à l’alinéa 5(1)b). Que cette loi ait ou non autorisé la prise du décret, je n’estime pas que celui‑ci a pour effet, selon le droit provincial général, de transformer le Centre, un établissement qui prodigue des soins continus, en hôpital public. Son effet se limite à autoriser le financement, en application de l’article 9, sur le fonds d’assurance-hospitalisation des services qui sont offerts par le Centre et qui tombent sous le coup de l’article 5.
+[29] En ce qui touche cet aspect de l’affaire, je conclus donc que le Centre n’est pas un hôpital selon le droit général de la Colombie‑Britannique. À mon avis, cette conclusion est compatible avec le sens ordinaire du terme « hôpital », tel qu’il est actuellement employé au Canada. Avant de me pencher sur le point suivant, il importe de signaler que le Centre doit certainement être exploité en vertu d’une licence délivrée sous le régime de l’un parmi plusieurs textes législatifs et qu’il aurait été plus facile de décider s’il s’agit d’un hôpital si ce document avait été mis en preuve. J’en tire l’inférence que la production de cette licence n’aurait pas rendu la preuve de l’appelante plus convaincante.
+L’appelante était-elle désignée comme administration hospitalière au moment pertinent?
+[30] Le 25 août 1997, le ministre du Revenu national a désigné la North Shore Health Region comme administration hospitalière avec effet depuis le 13 décembre 1995[17]. Les conséquences de sa fusion avec la Kiwanis Care Homes Society le 1er mai 1998, en ce qui concerne la TPS, sont régies par l’article 271 de la Loi et par le Règlement sur la continuation des personnes morales fusionnantes ou liquidées (TPS/TVH)[18]. Il en découle qu’à certaines fins précisées à l’article 271 et dans le Règlement, deux personnes morales qui fusionnent sont réputées constituer la même personne morale que chaque personne morale fusionnante et en être la continuation, mais à toutes les autres fins connexes à l’application de la Loi, la personne morale issue de la fusion est réputée distincte de chacune des personnes morales fusionnantes. La désignation comme administration hospitalière ne fait pas partie des fins précisées. Par conséquent, lorsqu’une personne morale désignée comme administration hospitalière fusionne avec une autre personne morale (même si cette dernière est également désignée ainsi), la nouvelle personne morale n’est pas automatiquement désignée comme administration hospitalière et doit présenter une demande de désignation en application du paragraphe 123(1). L’appelante n’a présenté aucune demande visant à obtenir cette désignation après le 1er mai 1998 et le ministre n’a pas procédé à une telle désignation depuis cette date.
+[31] L’avocate de l’appelante a avancé plusieurs raisons à l’appui de son assertion voulant que l’apparente absence d’une désignation postérieure à mai 1998 ne doive pas être considérée comme fatale à sa demande de remboursement au taux de 83 pour 100. Premièrement, elle soutient qu’il n’existe aucun processus formel de désignation et qu’il est possible de conclure que la désignation découle implicitement de la conduite du ministre. À cet égard, elle invoque la lettre du 25 août 1997. Comme je l’ai déjà mentionné, par cette lettre, on aurait procédé à une présumée désignation avec effet le 13 décembre 1995. L’appelante affirme que ce document équivaut d’une manière ou d’une autre à une reconnaissance, par le ministre, du fait qu’elle a conservé la désignation depuis cette date, malgré les fusions qui ont eu lieu dans l’intervalle. Pourtant, ce n’est pas du tout ce que mentionne la lettre. Les termes qu’emploie le délégué du ministre pour désigner l’appelante comme administration hospitalière succèdent à une énumération des fusions antérieures et figurent ci‑dessous :
+[TRADUCTION]
+[…] C’est avec plaisir que je désigne le Conseil comme administration hospitalière en vertu du paragraphe 123(1) de la Loi. Cette désignation prend effet le 13 décembre 1995, date du Règlement constituant le Conseil.
+Ces termes ne peuvent être interprétés comme le fait l’avocate de l’appelante. Manifestement, on s’exprime au temps présent pour procéder à une désignation qui se veut rétroactive; il ne s’agit pas de reconnaître une désignation antérieure et toujours valide. On pourrait se demander si le ministre a compétence pour effectuer une désignation rétroactive, mais cette question n’a pas à être tranchée en l’espèce.
+[32] Rien dans la lettre ne laisse entendre que son auteur avait l’intention de procéder à une désignation qui survivrait d’une quelconque façon à une fusion ultérieure. D’après l’avocate, la lettre exprime, au nom du ministre, le point de vue selon lequel [TRADUCTION] « […] pour des raisons de principe, une fusion n’entraîne pas nécessairement la cessation de la désignation même lorsque l’entité désignée cesse de répondre aux critères publiés applicables aux désignations ». Mon interprétation de la lettre est différente mais, quoi qu’il en soit, le ministre ne peut abroger les dispositions explicites de la Loi et du Règlement par une quelconque déclaration de principe. Un avis erroné du ministre ne peut faire en sorte de soustraire son destinataire au plein effet des dispositions législatives applicables : voir l’arrêt M.N.R. v. Inland Industries[19].
+[33] L’avocate affirme en outre qu’après la fusion de mai 1998, le ministre a continué de traiter la région appelante comme une administration hospitalière désignée lorsqu’il a permis à la Society de fonctionner et de produire des déclarations de revenus en tant que division de la région, et qu’il lui a versé des remboursements au taux de 83 pour 100 au titre de son exploitation du Lions Gate Hospital. À l’appui de son assertion, elle invoque également une lettre du service d’information technique du ministre. Suivant les articles 239 et 261 de la Loi, le ministre peut permettre à un inscrit de produire des déclarations et des demandes de remboursement distinctes pour des divisions distinctes de son entreprise. Ces dispositions s’appliquent indépendamment d’une quelconque désignation comme administration hospitalière. De même, le fait que le ministre commette une erreur dans le traitement d’une demande de remboursement à une ou plusieurs occasions n’a pas pour effet de l’obliger à répéter la même erreur à perpétuité. Certes, il est exact que l’existence, ou l’absence, d’une désignation est une question de fait, mais il ne s’ensuit pas que ce fait existe uniquement parce que le ministre a, par erreur, traité une demande de remboursement comme si ce fait existait alors que ce n’est pas le cas. Ces observations sont dénuées de fondement.
+[34] L’avocate de l’appelante a également soutenu que, dans les faits, l’intimée est empêchée par préclusion de nier que l’appelante a été désignée comme administration hospitalière en vertu du paragraphe 123(1) parce que, si le ministre n’avait pas traité l’appelante comme une entité désignée et ne l’avait pas incitée à croire qu’elle avait fait l’objet d’une désignation, elle aurait alors présenté une demande de désignation au moment de la fusion en mai 1998. L’avocate de l’appelante avance aussi que sa cliente n’a pas fait valoir à l’instruction qu’elle n’avait pas été désignée. Elle ne peut avoir gain de cause par de telles observations, et cela, pour un certain nombre de raisons. La préclusion est un moyen qui doit être invoqué dans les actes de procédure et ce n’est manifestement pas le cas en l’espèce, bien que l’absence de désignation soit explicitement mentionnée dans la réponse de l’intimée. De plus, je ne suis saisi d’aucun élément de preuve établissant que l’appelante s’est abstenue de présenter une demande de désignation en mai 1998 parce qu’elle s’est fiée aux supposées façons d’agir à son endroit. En réalité, la preuve est plutôt neutre sur la question de savoir pourquoi l’appelante a omis de présenter une demande de désignation. Or, la nécessité de présenter une telle demande aurait dû lui apparaître clairement à la lecture de la lettre de désignation du 25 août 1997.
+[35] Pour ces raisons, je conclus que l’appelante n’était pas, au moment pertinent, une « administration hospitalière » aux termes de la définition applicable, et qu’elle n’avait donc pas droit à un remboursement au taux de 83 pour 100. Par conséquent, l’appel doit être rejeté. En conclusion, toutefois, je signale que, dans ses observations écrites touchant la question de la désignation, l’avocat de l’intimée affirme que le ministre, de façon générale, est disposé à faire ce qu’il peut pour atténuer les conséquences défavorables qui sont susceptibles de se produire dans des cas comme celui‑ci. Il ajoute, au paragraphe 16 :
+[TRADUCTION]
+De toute évidence, l’intimée ne veut pas, dans la mesure du possible, que cette question fasse obstacle à l’admissibilité d’une administration hospitalière au remboursement au taux de 83 pour 100. Cependant, la loi l’emporte sur les souhaits de l’intimée.
+Si Sa Majesté la Reine du chef du Canada souscrit vraiment à ce point de vue, elle a la possibilité de recourir à la Loi sur la gestion des finances publiques, laquelle lui confère un pouvoir de remise qu’elle pourrait exercer pour conjurer les malheurs de l’appelante. L’intimée a droit aux dépens, si elle les demande.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 14e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI585
+NO DU DOSSIER DE LA COUR : 2002-897(GST)G
+INTITULÉ DE LA CAUSE : NORTH SHORE HEALTH REGION
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE : Les 18 et 19 août 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 24 octobre 2006
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Kimberley L.D. Cook
+Avocat de l’intimée :
+Me Ron D.F. Wilhelm
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom : Kimberley L.D. Cook
+Cabinet : Thorsteinssons
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R. 1985, ch. E-15, et ses modifications.
+[2] R.S.B.C. 1996, ch. 180.
+[3] Je désignerai les occupants du Centre soit comme des « résidents » ou des « patients », mais l’emploi de ces termes ne doit pas être assimilé à une quelconque conclusion relativement aux questions en litige en l’espèce.
+[4] Transcription du témoignage, p. 109, l. 16 à l. 19; p.110, l. 12 à l. 19.
+[5] [1995] G.S.T.C. 40.
+[6] 2004CCI192.
+[7] [2000] G.S.T.C. 42.
+[8] « [...] lease, license or similar arrangement for the occupancy thereof as a place of residence or lodging [...] »
+[9] 2e avis d’appel modifié, par. 16 et 17; réponse au 2e avis d’appel modifié, par. 12 et 13.
+[10] F.B.C. 1980, ch. 36, art. 23.
+[11] R.S.B.C. 1996, ch. 204.
+[12] R.S.B.C. 1979, ch. 180.
+[13] S.B.C. 1980, ch. 36, art. 23.
+[14] R.S.B.C. 1979, ch. 57.
+[15] Édictée par S.B.C. 1989, ch. 2; maintenant R.S.B.C. 1996, ch. 70.
+[16] R.S.B.C. 1979, ch. 180; maintenant R.S.B.C. 1996, ch. 204.
+[17] Pièce A-1, onglet 3.
+[18] C.P. 1980-2742, et ses modifications.
+[19] 72 DTC 6013 (C.S.C.).

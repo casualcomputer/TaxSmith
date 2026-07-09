@@ -1,0 +1,166 @@
+---
+title: "Lessard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30410/index.do"
+last_modified: "2011-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 320"
+citation2: ""
+neutral_citation: "2011 CCI 320"
+decision_date: "2011-06-25"
+language: "fr"
+item_id: "30410"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7937
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:46:50.149000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5200d6439e49e354f754c092b3df5f51ba4b513aebf272a179766a85a6e603b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lessard c. La Reine
+
+- Citation: 2011 CCI 320
+- Decision date: 2011-06-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7937, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lessard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-25
+Référence neutre
+2011 CCI 320
+Numéro de dossier
+2006-1555(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2006-1555(IT)I
+2006-1648(IT)I
+ENTRE :
+FRANCINE LESSARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 18 avril 2011, à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Gabriel Girouard
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d’imposition 2003 et 2004 sont rejetés, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa (Ontario), ce 25e jour de juin 2011.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2011 CCI 320
+Date : 20110625
+Dossiers : 2006-1555(IT)I
+2006-1648(IT)I
+ENTRE :
+FRANCINE LESSARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] L’appelante appelle de ses cotisations pour les années d’imposition 2003 et 2004.
+[2] Les faits de ces causes, bien qu’inhabituels, ne sont pas compliqués et il n’y a pas vraiment de controverse au sujet des faits. Toute la controverse est liée aux conséquences de ces faits. L’appelante conteste l’inclusion dans son revenu d’un montant de 11 628 $ en 2003 et de 10 000 $ en 2004.
+[3] Auparavant, elle avait appelé de sa cotisation pour l’année d’imposition 2002. L’appel de 2002 a été rejeté par la juge Lamarre Proulx dans la décision Lessard c. La Reine[1], confirmée par la Cour d’appel fédérale[2]. La Cour suprême du Canada a refusé d’accorder la permission d’en appeler.
+[4] Le 5 novembre 2001, la Régie des rentes du Québec (RRQ) a informé l’appelante qu’elle avait refusé la demande de rente d’invalidité de l’appelante faite le 16 février 2001[3].
+[5] Le 9 octobre 2002, la RRQ a informé l’appelante de sa décision relative à la demande de révision de l’appelante. La RRQ a informé l’appelante qu’après avoir pris connaissance du rapport du Dr Jacques Lesage, psychiatre, elle avait conclu que l’appelante était invalide depuis juin 2000 et qu’en conséquence une rente d’invalidité serait payée[4].
+[6] L’appelante a porté cette décision en appel devant le Tribunal administratif du Québec (Tribunal). Sa prétention qu’elle n’était pas invalide au sens de la Loi sur le régime de rentes du Québec (LRRQ) a été acceptée. Après avoir examiné la preuve, et en se fondant sur le rapport du Dr Lionel Béliveau, psychiatre, le Tribunal a conclu comme suit le 2 novembre 2004 : « Bien qu’incapable d’occuper son emploi habituel d’avocat senior de classe I, la preuve démontre que la requérante n’est pas incapable de détenir un emploi rémunérateur. » En conséquence, l’appelante n’était pas invalide au sens de la LRRQ[5].
+[7] La RRQ a versé une rente d’invalidité à l’appelante en 2003 et en 2004, jusqu’au moment de la décision du Tribunal en novembre 2004. Les montants payés étaient de 11 628 $ en 2003 et de 10 000 $ en 2004. L’appelante ne conteste pas avoir reçu ces montants.
+[8] Ces deux montants n’ont pas été remboursés avant 2005.
+[9] L’argument de l’appelante, sauf quant à un aspect dont je traiterai ci-dessous, est en substance le même que celui qu’elle a présenté dans son appel de 2002.
+[10] La prétention de l’appelante est que l’effet de la décision du Tribunal est d’annuler la décision qu’avait faite la RRQ d’accorder une pension d’invalidité, ce qui a comme conséquence que l’appelante n’a pas reçu de prestations d’invalidité. Les montants de 11 628 $ et de 10 000 $ en question n’ont donc jamais été un revenu et ne peuvent être inclus dans son revenu.
+[11] Je ne vois aucune différence pertinente entre les faits dans les présentes causes et ceux décrits dans la décision de 2002. De plus, rien dans les arguments de l’appelante ne m’a convaincu qu’il faudrait arriver à une conclusion différente. En conséquence, sauf pour un aspect dont il sera question ci-dessous, j’adopte l’analyse de la juge Lamarre Proulx dans Lessard, aux paragraphes 15, 16 et 20 de son jugement[6].
+[12] En 2003 et en 2004, jusqu’au mois de novembre, l’appelante a reçu des montants qui ont été payés, à l’époque, comme pension d’invalidité par la RRQ et qui doivent être inclus dans son revenu en vertu de la division 56(1)a)(i)(B) de la Loi de l’impôt sur le revenu (LIR). Elle a eu le bénéfice de ces montants.
+[13] La LIR prévoit très clairement au sous-alinéa 60n)(ii) ce qui se passe si un tel montant doit être remboursé, comme c’est ici le cas. Le contribuable peut déduire tout montant remboursé durant l’année où le remboursement est fait.
+[14] En 2003 et en 2004, il n’y a pas eu de remboursement. À part la question que j’examine ci-dessous, cela me mène à conclure que les appels doivent être rejetés.
+[15] Il reste un aspect des arguments de l’appelante à examiner. Il s’agit d’arguments qui n’ont pas été soulevés au cours de l’appel relatif à 2002.
+[16] L’avocat de l’appelante à l’époque, Me Noël Saint-Pierre, a déposé un avis de question constitutionnelle daté du 28 décembre 2007. Selon la déclaration sous serment du 28 décembre 2007 de Me Éric Bernier, cet avis a été signifié aux procureurs généraux des provinces et des territoires par télécopie.
+[17] L’appelante invoque les articles 7 et 15 de la Charte canadienne des droits et libertés (Charte), qui prévoient ce qui suit :
+Garanties juridiques
+7. Chacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu’en conformité avec les principes de justice fondamentale.
+[…]
+Droits à l’égalité
+15. (1) La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.
+[18] Tel que je comprends l’argument de l’appelante, elle soutient que le fait d’établir des cotisations et de réclamer de l’impôt sur les deux montants d’environ 11 628 $ et 10 000 $ en question met en péril sa santé, sa liberté et sa sécurité, parce que cela la priverait du minimum nécessaire pour sa subsistance.
+[19] De plus, ce serait discriminatoire, car cela nuirait surtout aux personnes âgées et handicapées[7].
+[20] Les arguments de l’appelante sont mal fondés. Même si je suppose que l’article 7 de la Charte pourrait s’appliquer si l’effet d’une loi était de priver quelqu’un du revenu minimal nécessaire pour survivre[8], l’appelante n’a pas expliqué comment l’imposition de la rente pouvait avoir un tel effet[9].
+[21] D’ailleurs, je ne vois pas comment le fait d’imposer un montant reçu dont l’appelante pouvait librement disposer pourrait, en soi, réduire son revenu au‑dessous d’un certain minimum vital, vu que la LIR contient diverses dispositions qui font qu’un individu doit avoir un certain revenu avant d’être imposable[10].
+[22] En ce qui concerne l’article 15 de la Charte, il est important d’établir le groupe auquel appartient l’appelante. Ce groupe comprend les personnes qui, pendant une certaine période, reçoivent une pension à laquelle elles n’ont pas droit et qui, par la suite, remboursent le montant. Ce ne sont pas des personnes souffrant d’invalidité ou des personnes âgées.
+[23] Ce groupe n’est pas un des groupes énumérés à l’article 15 de la Charte ou un groupe semblable. En conséquence, l’article 15 ne peut s’appliquer.
+[24] Au sujet de l’année d’imposition 2004, l’appelante a également contesté les intérêts cotisés pour acomptes insuffisants. Sa prétention était qu’il n’y avait pas d’acomptes insuffisants, car si le montant reçu de la RRQ à titre de pension d’invalidité n’avait pas été ajouté à son revenu, il n’aurait pas été nécessaire de verser des acomptes.
+[25] Vu que le ministre du Revenu national avait raison d’ajouter la pension au revenu de l’appelante, il y a nécessairement eu une insuffisance d’acomptes.
+[26] Pour toutes ces raisons, les appels sont rejetés sans frais.
+Signé à Ottawa (Ontario), ce 25e jour de juin 2011.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2011 CCI 320
+Nos DES DOSSIERS DE LA COUR : 2006-1555(IT)I, 2006-1648(IT)I
+INTITULÉ DE LA CAUSE : FRANCINE LESSARD c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 18 avril 2011
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 25 juin 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Gabriel Girouard
+Me Simon Petit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] 2006 CCI 45.
+[2] 2007 CAF 9.
+[3] Pièce A-4.
+[4] Pièce A-2.
+[5] Pièce A-3.
+[6] Je ne vois pas comment le fait que 2004 soit l’année de la décision du Tribunal puisse changer quoi que ce soit. Les paiements de la RRQ ont été faits avant ladite décision.
+L’appelante a porté à mon attention les décisions suivantes : Canada c. Dominion Engineering Co., [1944] R.C.S. 371; Johnston v. M.N.R., 51 DTC 226 (CAI); Ministre du Revenu national c. Simon et al., [1977] 2 R.C.S. 812; Verdon c. Lauzon, C.S. Laval 540-05-003678-988, jugement du 14 septembre 1998, J.E. 98‑2096; Leclair c. Markowski, [1978] C.S. 1132; Succession Perini c. La Reine, 82 DTC 6080 (CAF); Gagnon c. La Reine, [1986] 1 R.C.S. 264; Furfaro-Siconolfi c. La Reine, [1990] 2 C.F. 3; Attorney General of Canada v. Juliar et al., 50 O.R. (3d) 728; Kovarik c. Canada, [2001] A.C.I. no 181 (QL); Hall c. La Reine, 2003 CCI 410; Barthels c. Canada, [2002] A.C.I. no 256 (QL).
+Je ne vois pas comment toutes ces causes peuvent aider l’appelante, car elles portent sur des questions très différentes, tandis que la décision Lessard, 2006 CCI 45, conf. par 2007 CAF 9, est directement pertinente.
+[7] Les mesures correctives demandées dans l’avis de question constitutionnelle sont hors de la compétence de cette cour. L’appelante demande ce qui suit :
+Qu’il soit reconnu que le recouvrement […] entrepris par l’État viole le droit à la vie, la liberté et la sécurité de la personne de la requérante;
+Que le remboursement de la somme, reliée aux dossiers 2006-1648(IT)I et 2006‑1555(IT)I, vu l’avis de cotisation, est arbitraire et non conforme aux principes de justice fondamentale;
+D’ANNULER la demande de remboursement de la somme reliée aux dossiers 2006-1648(IT)I et 2006-1555(IT)I.
+Il s’agit d’une demande pour i) une déclaration et ii) une ordonnance interdisant à l’intimée de percevoir un montant. La compétence de la Cour applicable dans ce cas est de modifier, d’annuler ou de confirmer des cotisations d’impôt. La Cour ne peut rendre de déclaration ni interdire la perception.
+[8] L’appelante n’a cité aucune jurisprudence ou doctrine à l'appui de cette hypothèse.
+[9] L’appelante a dit qu’elle aurait de la difficulté à payer l’impôt résultant des cotisations et qu’elle vivait de pensions. Cela ne démontre pas que le fait que ce montant soit imposable la prive d’un revenu minimal ou a un tel effet généralement pour les personnes recevant des pensions d’invalidité. Sur le plan pratique, il est difficile de concevoir comment l’impôt en question, impôt qui représente une portion de la rente d’invalidité, pourrait priver l’appelante d’une partie du minimum vital quand elle ne voulait pas recevoir la rente elle-même, un montant plus important.
+[10] De plus, il me semble que la question est mal posée. Dans les deux années visées par les appels, l’appelante doit payer de l’impôt sur un montant que, selon elle, elle n’aurait jamais dû recevoir, mais qu’elle a reçu et dont elle pouvait disposer. Si une question relative à l’article 7 pouvait se poser (et je ne tire aucune conclusion relative à une telle question), il me semble que cette question se poserait relativement à la demande de remboursement de la pension versée et non relativement à l’impôt payable sur le montant reçu.

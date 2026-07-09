@@ -1,0 +1,544 @@
+Title: Allegro Wireless Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/495059/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-27-495059-allegro-wireless-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-03-31
+
+# Allegro Wireless Canada Inc. v. The Queen
+
+- Citation: 2021 TCC 27
+- Decision date: 2021-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4624, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Allegro Wireless Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-03-31
+Neutral citation
+2021 TCC 27
+File numbers
+2014-1690(IT)G, 2014-1691(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2014-1690(IT)G
+2014-1691(IT)G
+BETWEEN:
+ALLEGRO WIRELESS CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence on May 6, 7 and 8, 2019 and September 21, 22 and 23, 2020 at Toronto, Ontario and written arguments received on October 8, 21 and 28, 2020.
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+Jonathan N. Garbutt
+Justin Pon (Articling Student)
+Counsel for the Respondent:
+Alisa Apostle
+Natasha Mukhtar
+Aaron Tallon
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeals from reassessments under the Income Tax Act with respect to the Appellant’s 2010 and 2011 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant incurred qualifying scientific research and experimental development expenditures of $449,878 and $508,351 in the 2010 and 2011 taxation years, respectively, and is entitled to corresponding investment tax credits of $157,457 and $177,923 for the 2010 and 2011 taxation years, respectively.
+Signed at Ottawa, Canada, this 31st day of March 2021.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2021 TCC 27
+Date: 20210331
+Dockets: 2014-1690(IT)G
+2014-1691(IT)G
+BETWEEN:
+ALLEGRO WIRELESS CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Arcy J.
+[1] The Appellant has filed an appeal in respect of its taxation year ending on September 30, 2010 (the “2010 Taxation Year”) and an appeal in respect of its taxation year ending on September 30, 2011 (the “2011 Taxation Year”). I heard the two appeals together on common evidence.
+[2] The Appellant carried out a number of projects in an attempt to develop software that would address the various needs of its clients. In computing its tax liability for the 2010 Taxation Year and the 2011 Taxation Year, the Appellant took the position that a number of these projects constituted scientific research and experimental development (“SR&ED”) under the provisions of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.).
+[3] Specifically, when computing its income tax liability for the 2010 Taxation Year, the Appellant claimed SR&ED expenditures of $798,342 and corresponding investment tax credits (“ITCs”) of $279,420 in respect of three projects. The Minister of National Revenue (the “Minister”) disallowed $697,723 of the amount claimed as SR&ED and $244,208 of the corresponding ITCs in respect of two projects.
+[4] In computing its income for the 2011 Taxation Year, the Appellant claimed SR&ED expenditures of $615,906 and corresponding ITCs of $215,567. The Minister disallowed $463,401 of the amount claimed as SR&ED and $162,190 of the corresponding ITCs.
+[5] During the six days of hearings, the Appellant called three fact witnesses, Mr. Wesley Rupel, Mr. Khalid Eidoo, and Mr. Russell Roberts, and one expert witness, Doctor Gerald Penn. The Respondent called one fact witness, Ms. Cathy Sporich, and two expert witnesses, Doctor Shrinavensen Keshav and Doctor Shirook Ali.
+[6] I found all four fact witnesses to be credible. For reasons I will discuss, I have only relied on the expert evidence of Doctor Penn.
+[7] The parties filed a short partial Agreed Statement of Facts (the “PASF”).
+I. Summary of Facts
+[8] Mr. Rupel described the Appellant’s business and the various research projects. During the relevant period, Mr. Rupel and his business partner controlled the Appellant.
+[9] Mr. Rupel holds an undergraduate degree in physics and mathematics. In 1981, he started a combined Masters and Ph.D. program in physics at the University of California, Santa Barbara. He completed the Masters portion of the program, however in 1985, while his professor was on sabbatical, he took a break from the program and joined Dynamical Systems Research (“Dynamical”), a software start-up company located in Berkeley, California.
+[10] A year later Microsoft acquired Dynamical. The acquisition allowed Microsoft access to Dynamical’s software, which it used when creating the Windows operating system. Mr. Rupel was one of 10 people involved in the initial stages of creating the Windows computer operating system.
+[11] Mr. Rupel’s work at Microsoft focused on increasing the speed of the Windows operating system, which was a significant issue since the first version of the operating system was extremely slow.
+[12] Mr. Rupel left Microsoft in 1992 and, in his own words, basically retired. He returned to Microsoft in 1998. He joined the Appellant in 2002 and became President and Chief Technology officer in 2004.
+[13] Mr. Rupel and his business partner formed the Appellant to create software for industries that they believed were underserved from a software perspective. It focused on providing a software platform that allowed its clients to communicate remotely with their workers. This communication was done through wireless hand-held devices with LCD screens that the Appellant’s clients’ workers used to remotely access their employer’s computer system.
+[14] The Appellant’s clients include transportation logistics companies such as Manitoulin Transport, retailers such as Loblaws and the Liquor Control Board of Ontario and companies that provide field services to their customers, such as Canon Canada (“Canon”) and Shred-it.
+[15] Mr. Rupel provided a number of examples of how the Appellant’s clients used the wireless hand-held devices. For example, he described how Canon’s approximately 400 technicians used the devices to communicate with Canon’s headquarters when conducting repairs at the premises of Canon’s customers. This allowed Canon to track the repair work performed by the technicians. It also allowed Canon to communicate directly with each worker.
+[16] Loblaws used the devices in the receiving area of its various stores to scan bar codes, which helped Loblaws control its inventory. Loblaws also used the devices to record deliveries and inventory at various third-party retailers that purchased their goods from Loblaws.
+[17] The hand-held devices allowed for the transfer of information between the field workers of the Appellant’s various clients and databases maintained by the clients. During the relevant period, this was a new product that had not previously existed.
+[18] Third parties provided the wireless hand-held devices and the Appellant provided the software. The information was transferred through cellular networks, primarily the network operated by Rogers Wireless.
+[19] Mr. Rupel described in detail the various technical issues the Appellant faced when developing the software that allowed the hand-held devices to communicate with the servers. These servers held, or were connected to the servers that held, the databases of its various clients.
+[20] He noted that all software development was based upon specific client needs. The Appellant spent significant time determining the needs of each of its clients. This involved understanding the client’s business and the issues the client was trying to resolve. Once this was determined, the Appellant developed specifications setting out what the software should do in order to resolve the client’s problems. The specifications were reviewed by the client and the Appellant’s software development team.
+[21] The specifications would then go to the Appellant’s software development team to build the software according to the specifications. The software development team frequently encountered problems that resulted in a review of the specifications or changes to the software to resolve the problem.
+[22] Once the first version of the software was written, it was then reviewed by the Appellant’s quality analysis team and its business development team. The quality analysis team ensured the software was doing what it was supposed to do and the business development team ensured it did what it was supposed to do from a business standpoint.
+[23] Mr. Rupel noted that, when developing software-based products, technical problems are always encountered. For example, the Appellant may build exactly what is specified but once it puts the software into the device, it is “just too slow”. In order to satisfy the needs of its clients, the Appellant had to find solutions to all problems encountered. During the relevant period, this was a complicated exercise because of the state of the wireless technology and the underlying software at that specific point in time. He noted that it would be much easier to meet the specifications today since the underlying technology is much more advanced.
+[24] He noted that one of the major problems faced by the Appellant was the fact that third-party software controlled the low-level features of the hand-held devices.
+[25] For example, various third parties provided the software that operated the radio that was used to communicate with the various cell towers. Different third parties provided the software for different models of the hand-held devices. This resulted in inconsistency in the operation of one model compared with another model.
+[26] Mr. Rupel noted that if the Appellant identified a problem that should not have occurred based upon the specifications of the underlying software, then it had to get creative. Routine engineering would not resolve the problem. It had to “come up with hypotheses of things [it] could try or do and see what work[ed] by experimentation.”
+[27] The Appellant also had to account for the different servers used by each of its clients. In many instances, the Appellant would install its own server at its client’s premises and this server would then communicate with the client’s server.
+[28] The Appellant’s core product was its platform (software), which it built to accommodate the different idiosyncrasies of the various hand-held devices used by its clients. The platform had to take into account the different operating systems and the frequent updates to the software controlling the low-level features of the devices. The Appellant’s goal was to have one system that all the different applications used in the operation of the devices could be written to.
+[29] This required the Appellant to develop and maintain a significant amount of software. It was also constantly developing software to improve the operation of the various hand-held devices on its platform.
+[30] Mr. Rupel described the process the Appellant used to ensure the devices worked properly for its clients. He provided background on why the Appellant was required to perform research when conducting its business.
+[31] He noted that the Appellant did not have access to the source codes for the various underlying software that operated the hand-held devices. He referred to this software as a black box, something the Appellant could not see the “insides of”. He noted that as the Appellant developed its various products, various bugs and quirks occurred.
+[32] Bugs arose when the underlying tools and software performed as expected and the Appellant made a mistake when writing its software, which it needed to fix.
+[33] Quirks arose when, after looking at the problem, the Appellant could not determine why the event was occurring. It did not make sense to the Appellant. In Mr. Rupel’s words, there was something mysterious going on and it required a deeper investigation.
+[34] Mr. Rupel noted that a quirk may or may not end up on the Appellant’s SR&ED claim. The Appellant made the decision later, after it finished its investigation and hopefully found a solution to the quirk. It would review the work it had done and determine whether it had conducted a significant amount of experimentation or whether the issue had been relatively straightforward and resolved in a direct manner. In the latter instance, the work was not included in the Appellant’s SR&ED claim.
+[35] He then discussed the nature of the software development the Appellant carried out in order to provide its service in a reliable manner.
+[36] He noted that in the late 1980s, when he was working at Microsoft, if Microsoft’s source code was not working properly it was because of something Microsoft had done incorrectly when developing the software. The Microsoft employees would then look through all of the source codes that went into Microsoft Windows to determine where the error occurred. Microsoft built everything from scratch.
+[37] Mr. Rupel noted that by 2010 and 2011 things had evolved. Instead of writing all of the software from scratch, companies, when building a product, utilized software from various sources. He described the various software as software components.
+[38] Most of the actual functionality that was being executed when someone built a product was not being done by the people who appeared to be writing the software, but rather by their use of various components that performed a number of different functions. What was occurring was that a company built its products by taking these components and writing software that “glue[d] them together”.
+[39] This required the builder of the product to rely on the various software components to do what they were intended to do. A quirk would arise when there was some kind of interaction between the different software components that was not expected, that is, when a software component was not doing what the builder expected it to do.
+[40] When this occurred, the Appellant would call the product support department at the company that had developed the specific software component to see if it had a solution. If it did not have a solution, then the Appellant would have to start experimenting to determine under what circumstances the software component behaved in a certain way and when it did not behave in that manner. Sometimes the Appellant could avoid the problem by doing something in a different way. Experimenting was required in the first instance because the Appellant was working with black boxes (the third-party software components) that were not behaving in the way the Appellant expected them to behave.
+[41] The Appellant had to experiment and test to find out what it could do to get all of the software components to execute in the manner the Appellant required in order for the hand-held (or another one of its devices) to provide the service the Appellant’s client required.
+[42] Mr. Rupel provided a general example of the nature of the problems that the Appellant encountered. He noted that component A, component B and component C may all be working as designed, but when you put them together, an unexpected complicated interaction occurs. He noted that the resolution of this problem requires making a hypothesis, testing, getting a result, learning from it and finding a solution.
+[43] Mr. Rupel also explained how the Appellant kept track of the work it performed. He referred to how it tracked and managed changes to source codes. He noted that software is what operates a computer, and source code is basically how someone produces software.
+[44] The Appellant maintained a source code control system that kept track of every change someone made to the source code. It allowed anyone making changes to the source code to be aware of any previous changes that he or she or another employee had made to the source code. It also maintained a version control system that kept track of the current and previous versions of a particular software.
+[45] Mr. Rupel explained that there is a place in the source code control system to place comments. When a person makes a change to the source code, he or she explains in the comments why the change was done.
+[46] The Appellant also used bug/quirk tracking software: one called FogBugz and a second called Jira X. This allowed the Appellant to keep track of all bugs/quirks that were reported, when the bug/quirk was fixed and when a quality assurance team reviewed the fix.
+[47] With respect to determining when the work preformed with respect to quirks constituted SR&ED, the Appellant, with the help of its Canada Revenue Agency (“CRA”) SR&ED technical advisor, Mr. Paul Wong, had set up a system in the bugs/quirks tracking software (particularly Jira X). This system allowed the Appellant to keep track of the problems it identified as quirks, the things that were not working the way the Appellant expected them to work. When the Appellant’s developers were attempting to find a solution to a quirk, they would place information in the bug tracking software with respect to the work they were performing in an attempt to fix the identified quirk.
+[48] The Appellant also stored information with respect to specific projects in the source code control system. The Jira X bug tracking software provided a reference for information in the source code control system. The source code control system would contain a similar reference to the Jira X bugs/quirks software. They were cross-referenced.
+[49] The Appellant would ultimately review the bug tracking software and the source code control system to determine what quirks had been identified, the testing the Appellant’s developers carried out in an attempt to fix the quirk and the ultimate resolution of the issue. After conducting this review, it would determine whether the work constituted SR&ED.
+[50] During the relevant years, the Appellant filed claims in respect of SR&ED performed on five separate projects. It identified technological objectives for each of the five projects. The Appellant worked on three of the projects in its 2010 Taxation Year and two of the projects in its 2011 Taxation Year.
+[51] The Minister accepted the Appellant’s claim for SR&ED in respect of the second project carried out in 2011. As a result, the Appellant only filed appeals in respect of the three projects carried out in 2010 and the remaining project carried out in 2011.
+[52] The PASF notes that the Appellant’s SR&ED claim for its 2010 Taxation Year included three projects, consisting of a number of activities defined as follows:
+2010 Taxation Year Project 1 (“2010 Project 1”), “Protocol Compliant Methods to Extend Bluetooth Functionality”
+- TA1/TO1
+- TA2/TO2
+2010 Taxation Year Project 2 (“2010 Project 2”), “Methods to Optimize TCP Services over Cellular Networks”
+- TA1/TO1
+- TA2/TO2
+- TA3/TO3
+2010 Taxation Year Project 3 (“2010 Project 3”), “Methods and Techniques to Improve Messaging Performance”
+- TA1/TO1
+- TA2/TO2
+[53] TA/TO stands for technological advancement/technological obstacle. Mr. Eidoo testified that the actual claims made by the Appellant did not delineate between different TAs or TOs. The Appellant filed claims in respect of the three SR&ED projects. The delineation between TA1/TO1, TA2/TO2, and TA3/TO3 was done by the CRA. Basically, the CRA converted the three projects into seven projects.
+[54] 2010 Project 3 is no longer before the Court. The CRA accepted that the portion of the project it identified as TA1/TO1 was a valid SR&ED claim. The Appellant conceded, during the hearing, that the remaining portion of its SR&ED claim with respect to 2010 Project 3 did not constitute SR&ED.
+[55] Only a portion of 2010 Project 1 and 2010 Project 2 are before the Court. The CRA accepted that the portion of 2010 Project 1 that it identified as TA2/TO2 and the portion of 2010 Project 2 that it identified as TA2/TO2 constituted SR&ED. Therefore, the following are the only portions of the Appellant’s SR&ED claim for the 2010 Taxation Year that are before the Court:
+TA1/TO1 of 2010 Project 1, and
+TA1/TO1 and TA3/TO3 of 2010 Project 2.
+[56] The PASF notes that when computing income for its 2011 Taxation Year the Appellant claimed expenditures in respect of the two SR&ED claims described as follows:
+2011 Taxation Year Project 1 (“2011 Project 1”), “Multi-point Integration Platform for Mobile Applications”
+- TA1/TO1
+- TA2/TO2
+- TA3/TO3
+2011 Taxation Year Project 2 (“2011 Project 2”), “Methods and Techniques to Improve Messaging Performance”
+- TA1/TO1
+- TA2/TO2
+[57] As noted previously, 2011 Project 2 is not before the Court. The CRA accepted that the entire 2011 Project 2 constituted SR&ED.
+[58] Only the portion of 2011 Project 1 identified by the CRA as TA1/TO1 is before the Court. The CRA accepted that the portion it identified as TA2/TO2 qualified as SR&ED. The Appellant conceded during the hearing that the portion of 2011 Project 1 identified as TA3/TO3 did not constitute SR&ED.
+[59] Mr. Rupel described in detail each of the four projects before the Court.
+II. Expert Witnesses
+[60] I heard from three expert witnesses. The Appellant called Doctor Gerald Penn and the Respondent called Doctor Shrinavensen Keshav and Doctor Shirook Ali.
+[61] Doctor Penn provided his opinion on whether the work performed by the Appellant on its five projects was research and/or experimental development according to the standards of a researcher in information technology.
+[62] Doctor Keshav provided his opinion with respect to whether the Appellant’s work relating to TA1/TO1 and TA3/TO3 of 2010 Project 2 and TA1/TO1 and TA3/TO3 of 2011 Project 1, as the work was described in certain documents provided to him by the CRA, complied with the guidelines established for SR&ED credits by the CRA.
+[63] Doctor Ali provided her opinion on the degree to which the work carried out by the Appellant qualifies for SR&ED credits on the following two technical objectives:
+Implementation of a throttling mechanism to prevent overruns when sending more than 64KB across a Bluetooth printer connection.
+The determination of a concurrency limitation with MSMQ when approximately 200 concurrent devices attempt to perform messaging operation.
+[64] These are the two projects identified by the CRA as TA1/TO1 of 2010 Project 1 and TA2/TO2 of 2010 Project 3.
+A. Expert Report of Doctor Penn
+[65] At the time Doctor Penn was presented to the Court, the Respondent stated that she had numerous concerns with respect to the admissibility of Doctor Penn’s expert report. The Court held a voir dire to determine the admissibility of Doctor Penn’s expert opinion evidence. Doctor Penn testified during the voir dire.
+[66] At the end of the voir dire, I accepted Doctor Penn’s report and qualified Doctor Penn as an expert witness to provide the Court with his opinion on whether the Appellant’s work during the 2010 and 2011 on the relevant projects constituted research and/or experimental development according to the standards of a researcher in information technology. I informed the parties that I would provide my reasons for accepting Doctor Penn’s report in my written reasons for judgment.
+[67] The test for admissibility of expert opinion evidence is a two-step test as set out by the Supreme Court of Canada in White Burgess Langille Inman v. Abbott and Haliburton Co., 2015 SCC 23 (“Inman”). Inman confirms and clarifies the common law principles previously described by the Supreme Court of Canada in R. v. Mohan, [1994] 2 SCR 9 (“Mohan”).
+[68] The first step of the test requires the party putting the proposed expert forward to establish that the evidence satisfies the following four threshold requirements (the so-called Mohan factors):
+- Relevance;
+- Necessity in assisting the trier of fact;
+- The absence of any exclusionary rule; and
+- A properly qualified expert.
+[69] The second step requires the trial judge to conduct a cost-benefit analysis to determine if otherwise admissible expert evidence should be excluded because its probative value is overborne by its prejudicial effect. This requires the trial judge to consider such things as consumption of time, prejudice and the risk of causing confusion.
+[70] At the commencement of the voir dire, the Respondent’s counsel stated that she had concerns with Doctor Penn’s qualifications and concerns with respect to Doctor Penn’s expert report. She noted that her concerns with the report were related to relevance and necessity.
+[71] I have no difficulty qualifying Doctor Penn as a properly qualified expert. He had the requisite special knowledge and experience relating to the specific subject matter on which he was being offered. He acquired this peculiar knowledge through study and experience.
+[72] Doctor Penn holds a Ph.D. from the School of Computer Science at Carnegie Mellon University in Pittsburgh, Pennsylvania.
+[73] Since 2013, he has been a full professor with the Department of Computer Science at the University of Toronto. He was formerly the associate chair of research and industrial relations in the Department of Computer Science at the University of Toronto. He has taught at the University of Toronto since 2005.
+[74] As part of his job, he has often worked with private sector partners to determine whether they are entitled to claim SR&ED credits for certain research and development projects.
+[75] He has extensive experience in computer science, including working with NASA when he was a visiting researcher at the Ames Research Centre in California. His work with NASA focused on human/computer interaction. The work involved research on a dialogue system for extra-vehicular missions on the Mars mission.
+[76] Doctor Penn has 20 years of experience in information technology research. He noted that he has worked on projects similar to the projects the Appellant undertook during the relevant period. He provided numerous examples of specific research projects that related to Bluetooth and wireless networks in areas similar to Allegro’s projects.
+[77] The Respondent did not question Doctor Penn’s independence. In fact, Doctor Penn’s independence is evidenced by the fact that he agreed with the Minister that the work carried out by the Appellant on one of the subprojects (TA3/TO3 of 2011 Project 1) was not research and/or experimental development.
+[78] Doctor Penn’s expert opinion evidence is necessary. I require his opinion evidence because of the highly technical nature of the projects at issue. His evidence is also relevant. It relates to the main issues before the Court.
+[79] The Respondent did not raise any exclusionary rule.
+[80] I also find that the benefits of his testimony outweigh any potential costs. In fact, I do not see any significant costs.
+[81] Doctor Penn’s report identifies the issues he was retained to address, notes what documents and discussions he relied on, provides a summary of his opinion and then for each of the projects provides an analysis of how he reached his conclusions. That is exactly what the Court expects to find in an expert report.
+[82] The Respondent’s main concern with Doctor Penn’s report is his numerous references to a technical review of the Appellant’s projects authored by the Appellant’s CRA scientific research and technology advisor, Mr. Paul Wong. As discussed previously, Mr. Wong had helped the Appellant develop the system in its bugs/quirks tracking software to document the quirks found by the Appellant.
+[83] Mr. Wong’s report is the report in which the CRA splits the Appellant’s five projects into twelve separate projects. Mr. Wong’s report is one of the 284 electronically encoded document files reviewed by Doctor Penn.
+[84] When providing his expert opinion on the Appellant’s projects, Doctor Penn references Mr. Wong’s conclusions with respect to whether each of the 12 projects identified by Mr. Wong qualifies as SR&ED and states whether he agrees or disagrees with Mr. Wong. Doctor Penn refers to Mr. Wong’s conclusions in the course of providing his expert opinion on each project.
+[85] Doctor Penn provides his expert opinion on pages 2 to 16 of his report. On pages 17 to 24 of his report, under the title Exhibit C, Doctor Penn provides his views on certain documents that Mr. Wong provided to the Appellant in response to an undertaking given during Mr. Wong’s discovery. I have ignored this portion of Doctor Penn’s report. It does not form part of his expert opinion with respect to whether the work performed by the Appellant constitutes research and/or experimental development. My understanding is that the Appellant requested the comments on these pages in the hope that they could be used to settle the appeal. However, no settlement discussions occurred.
+[86] The Respondent’s counsel argued that Doctor Penn’s written opinion is “so dependent” on its rebuttal of Mr. Wong’s report that it is impossible to extricate the stand-alone opinions with respect to whether the projects qualify as SR&ED. In the Respondent’s view, to do so would be prejudicial to the Respondent.
+[87] I do not accept the Respondent’s argument. Doctor Penn’s report is very clear and concise. I have no difficulty differentiating his comments with respect to Mr. Wong’s report from his own conclusions with respect to whether the Appellant’s work on individual projects constituted research and/or experimental development. In fact, it is not clear to me how Doctor Penn could have provided his opinion without referring to Mr. Wong’s report. He was required to inform the Court of the information he referred to when forming his opinion. It was the CRA, not the Appellant, that divided the Appellant’s five projects into twelve projects. Doctor Penn would need to understand why the CRA subdivided the Appellant’s five projects into twelve projects before providing his opinion.
+[88] Certainly the Respondent’s expert witness, Doctor Ali, felt that it was important to review Mr. Wong’s report since it is listed in her report as one of the primary references she used when preparing her expert report (Mr. Wong’s report is filed as Exhibit A-8).
+[89] The Respondent’s second concern related to Doctor Penn’s telephone interviews with Mr. Rupel and Mr. Wayne Hammerschlag, an employee of the Appellant. In his report, Doctor Penn referred to the interviews when informing the Court of the basis on which he formed his opinion.
+[90] During cross-examination, counsel for the Respondent asked Doctor Penn if there was a transcript of these interviews. As one would expect, there is no transcript. However, Doctor Penn stated that he had notes summarizing the interviews. At the request of counsel for the Respondent and before the end of counsel for the Respondent’s cross-examination of Doctor Penn during the voir dire, Doctor Penn produced the notes. The notes (Exhibit A-38) are two pages in length, are in point form and provide a brief summary of Mr. Rupel’s answers to eight questions asked by Doctor Penn and Mr. Hammerschlag’s answers to eight questions asked by Doctor Penn.
+[91] The notes are inadmissible as hearsay in proof of any facts asserted in the notes. However, they are admissible as evidence of the basis upon which Doctor Penn formed his opinion.
+[92] Doctor Penn testified that he asked the questions in order to clarify certain issues he identified when reviewing the 284 electronic documents. The issues related to the Appellant’s business and procedures.
+[93] Counsel for the Respondent argued that I should not accept Doctor Penn’s expert report since a transcript of the interviews was not provided to the Respondent or the Court. As a result, the basis for Doctor Penn’s opinions that were reliant on the interviews could not be tested.
+[94] The fact that an expert’s opinion is based in whole or in part on information that is not proven before the Court does not render the opinion inadmissible. It is an issue of weight. The extent to which the factual foundation for the opinion is proven by admissible evidence will affect the weight it will be given.
+[95] Doctor Penn’s interviews of Mr. Rupel and Mr. Hammerschlag allowed Doctor Penn to clarify certain questions he had with respect to the Appellant’s business and procedures. Mr. Rupel provided the Court with extensive evidence on both the Appellant’s business and its procedures. I find that all of Doctor Penn’s references to the Appellant’s business in his expert report and during his in-chief testimony and cross-examination are consistent with Mr. Rupel’s testimony. In other words, the factual foundation for Doctor Penn’s testimony was proven by the admissible evidence before the Court.
+B. Expert Reports of Doctor Ali and Doctor Keshav
+[96] I qualified Doctor Ali and Doctor Keshav as expert witnesses in the fields in which they provided their opinions.
+[97] Counsel for the Appellant raised the concern that Doctor Ali’s and Doctor Keshav’s expert reports were based upon very limited factual information. He argued that Doctor Ali and Doctor Keshav were not provided with the key documents they required in order to make an informed opinion.
+[98] I informed counsel that I could not address issues relating to the factual foundation of Doctor Ali’s and Doctor Keshav’s reports until I had reviewed the reports in detail and until I had an informed understanding of the factual basis for their opinions. Further, I informed counsel that his concerns went to the weight I would give the reports, something I could not decide until I had read the reports in detail and heard from Doctor Ali and Doctor Keshav.
+[99] After reading each of the export reports and hearing from the two experts, I agree with counsel for the Appellant that the factual foundation for each of the reports is based upon insufficient information. Specifically, neither of the two experts called by the Respondent had a sufficient understanding of the Appellant’s business, products or procedures that would allow them to give opinions that would help the Court.
+[100] Both Mr. Rupel and Doctor Penn testified that the difficult technological environment that the Appellant was attempting to operate in caused the various technological issues encountered by the Appellant.
+[101] As I noted previously, the Appellant’s core product was its platform (software), which it built and constantly improved to accommodate the different idiosyncrasies of various hand-held devices, servers and printers. Mr. Rupel testified that the Appellant was trying to develop products that would address issues that arose when dealing with the interactions of numerous complex systems. At the time, its clients were using numerous hand-held devices and printers that were in the early stages of development. It also had to design systems that operated with the various servers of its clients and recognize the different environments that each of its clients operated in. In my view, an understanding of the Appellant’s business and the technical issues that arose in its working environment was essential to providing an informed opinion with respect to whether its work constituted experimental development.
+[102] It was clear from the evidence before me that Doctor Penn spent a significant amount of time understanding the Appellant’s business environment and, more importantly, the technical uncertainty that arose as the Appellant attempted to develop its products in order to carry on and grow its business.
+[103] It is clear that Doctor Penn felt that this was essential for him to provide an informed opinion. For example, as I will discuss, when reviewing TA1/TO1 of 2010 Project 1, one of the key facts that Doctor Penn relied on was the fact that the Appellant was dealing with a range of mobile devices that were not manufactured by the Appellant.
+[104] After reading Doctor Ali’s and Doctor Keshav’s reports and hearing their oral testimony, I have concluded that neither had the required understanding of the Appellant’s business. In my view, this represents a fatal flaw in their reports. They did not have the necessary factual foundation that would allow them to provide to the Court informed opinions on the projects in question.
+[105] Doctor Keshav states in his report that he based his opinion with respect to the four projects he considered on the following documents:
+- The Appellant’s summary of its SR&ED claim filed with the CRA (CRA Form T661)
+- Documents referred to as the “Allegro Wireless Activity Timeline” for 2010 and for 2011 (the document for 2010 is two pages in length and the document for 2011 is two and a half pages in length).
+- A document entitled “2010 Allegro CRA Post Review Supplement” and a document entitled “2011 Allegro CRA Post Review Supplement”.
+- A CRA letter to the Appellant.
+[106] It is clear from his testimony that Doctor Keshav relied primarily on the Appellant’s Form T661. It is also clear from his testimony, particularly his answers during cross-examination, that Doctor Keshav had very limited knowledge of the Appellant’s business. He was not aware of the nature of the Appellant’s business, its clients, the nature of the various devices used in the Appellant’s business and the source code control system and software that the Appellant used to document its research.
+[107] For example, Doctor Keshav was not aware that the Appellant was developing software that would be compatible with multiple hand-helds. He also was not aware of the issues faced by the Appellant because of the limited documentation provided by the manufacturers.
+[108] It is not clear to me how Doctor Keshav could provide his opinion without understanding the Appellant’s business, the technological issues that arose as the Appellant tried to develop products to meet its clients’ needs, the systems the Appellant used to track these technological issues and the steps it took to address these issues.
+[109] Doctor Keshav concluded at certain points in his report that the Appellant did not attempt to formally present and validate a hypothesis. The problem I have with him making this conclusion is that he admitted that he was not aware of the FogBugz and Jira X software (the bugs/quirks tracking software) that the Appellant used to document the work it performed (including the making of hypotheses) on the so-called quirks it encountered.
+[110] The software was a key part of the system the Appellant had developed to make and document its hypotheses as it tried to deal with the technical issues it encountered. For example, the Appellant’s identification of a project as qualifying SR&ED was based primarily on the documentation of its work contained in the Jira X software (which contained the documentation of hypotheses made by the Appellant). Yet, Doctor Keshav was not even aware of the existence of the software, the very software that the Appellant used to identify the projects it carried out in a particular year in order to determine if the work performed on the projects constituted SR&ED.
+[111] This lack of information with respect to the Appellant’s business is evident in Doctor Keshav’s report, in which he makes a number of factual assumptions. Throughout his report, when discussing facts he relied on and assumptions he made, he uses phrases such as “it is not clear”, “this seems to indicate” and “perhaps what was meant”. Doctor Keshav’s use of theses phrases, together with his need to make numerous factual assumptions, evidences that Doctor Keshav did not have the factual foundation required to provide the requested information. This was reinforced during his cross-examination.
+[112] I have similar concerns with Doctor Ali’s report with respect to the one project she considered that is before the Court, the TA1/TO1 of 2010 Project 1. Similar to Doctor Keshav, her primary reference material was a limited number of documents provided by the CRA. She used three documents that Doctor Keshav also used: the T661s, the activity timelines and the CRA letter referred to in Doctor Keshav’s report. Her primary reference material also included Mr. Wong’s technical report, a CRA policy statement and five short documents of the Appellant.
+[113] Similar to Doctor Keshav, Doctor Ali also testified that she was not aware of the Appellant’s business.
+[114] Mr. Rupel testified that a number of the technical obstacles the Appellant faced with respect to TA1/TO1 of 2010 Project 1 were caused by the fact that the Appellant, when developing its products, had to deal with Bluetooth stacks from different manufactures, printers from different companies and multiple handsets. Doctor Ali testified that she was not aware that the Appellant was dealing with the different stacks, printers and handsets.
+[115] Doctor Ali stated that different environments (different types of printers and different types of hand-helds) would have different limitations. She noted that for the Appellant to find a solution that works with all of the limitations would require investigation and development. However, she was not aware that the Appellant faced these different environments.
+[116] Doctor Ali noted that experimenting involves not only testing and analyzing but also exploring the relationship between tests, explaining the results as they relate to the hypothesis, drawing conclusions, proposing a new hypothesis or conducting additional tests. One of the concerns Doctor Ali raised in her report is that it was unclear to her whether the Appellant conducted this analysis.
+[117] Mr. Rupel testified that the Appellant documented this analysis in its source code control system and bugs/quirks tracking software. Doctor Ali noted on cross-examination that she was not informed of the system the Appellant used to document the technical issues it encountered and how it dealt with such issues. This included the Appellant’s use of the bugs/quirks tracking software.
+[118] I find the fact that she was not aware of the Jira X and FogBugz software surprising since she notes in her expert report that one of the documents she relied on was entitled “Samples of Contemporaneous Information”, which the Respondent filed as Exhibit R-66. This two-page document notes that one of the sources used by the Appellant to identify the tasks performed within each SR&ED project was information collected through analysis of the Jira X and FogBugz records.
+[119] Doctor Ali stated that she was concerned about the information she was provided but did not ask for additional information. She did not communicate with anyone. She took the information provided by her client, the CRA, and provided her opinion based on this information.
+[120] The Appellant was attempting to develop a new product (its platform) that would work seamlessly with a multitude of devices using different operating systems and operating on various client operating systems. Neither Doctor Ali nor Doctor Keshav was aware of this difficult environment. As a result of this weak factual foundation, especially when compared to Doctor Penn’s factual foundation for his opinion, I have given no weight to the expert reports of Doctor Ali and Doctor Keshav. The only expert report that I have placed any reliance on is the expert report of Doctor Penn.
+III. Summary of the Law
+[121] Section 248(1) provides the following definition of SR&ED:
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+[122] Five criteria have been used by the courts to assist in determining whether a particular activity constitutes SR&ED. These criteria were summarized by the Federal Court of Appeal in C.W. Agencies Inc. v. The Queen, 2001 FCA 393, 2002 DTC 6740, at paragraph 17, as follows:
+1. Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+2. Did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+3. Did the procedure adopted accord with the total discipline of the scientific method including the formulation testing and modification of hypotheses?
+4. Did the process result in a technological advancement?
+5. Was a detailed record of the hypotheses tested, and results kept as the work progressed?
+[123] The criteria were first outlined in the decision of this Court by Judge Bowman (as he then was) in Northwest Hydraulic Consultants Limited v. The Queen, 98 DTC 1839 TCC (“Northwest Hydraulic decision”).
+[124] In discussing whether a technological risk or uncertainty existed, Judge Bowman noted the following in Northwest Hydraulic at paragraph 16:
+(a) Implicit in the term “technological risk or uncertainty” in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+(b) What is “routine engineering”? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+IV. Which Projects Constituted SR&ED
+[125] I will begin by addressing, for each project, whether there was a technological risk or uncertainty which could not be removed by routine engineering or standard procedures.
+A. TA1/TO1 of 2010 Project 1
+[126] The Appellant’s filing with the CRA described the technological advancement that the Appellant was trying to achieve with respect to the TA1/TO1 portion of 2010 Project 1 as follows: “the implementation of a throttling mechanism to prevent overruns when sending more than 64KB across a Bluetooth printer connection (overcoming specific Bluetooth printing implementation limitations).” [1]
+[127] Mr. Rupel described in some detail the technological obstacles the Appellant had to overcome, the work it performed and the results it obtained with respect to the TA1/TO1 portion of 2010 Project 1.
+[128] He noted that the printers in questions were small printers that were used by approximately 20% of its clients and that hung on the belt of the client’s employees. The printers printed documents, such as receipts, based upon information that was transferred via Bluetooth from the hand-held device to the small printer. Microsoft wrote the software used to communicate with the small printer (referred to as the “Bluetooth stack”). The Appellant was not able to “look inside” the software to see how it worked or to adjust how it worked.
+[129] The problem the Appellant faced was that the small printers had a 64 KB buffer which stored the information sent from the hand-held device to the printer until the printer was able to use the information to print the document. The problem was that if too much information was sent, then the buffer was exceeded and some or all of the information was lost. This meant that its client could not get a proper printout of the document.
+[130] The fact that the Appellant’s different clients had Bluetooth stacks from different companies and printers and hand-held devices from different manufacturers compounded the problem. The Appellant needed to write software that would work on all of these systems.
+[131] Mr. Rupel noted that the problems placed the Appellant in a situation that was outside the bounds of normal engineering. He noted that with normal engineering one is working with systems that do not have buffer overruns, systems that work. The Appellant was required to work with someone else’s system that had bugs and did not work properly, a system that was basically a black box.
+[132] Mr. Rupel stated that the Appellant experimented with three different solutions to the problem, doing a “lossy-type scenario”, using a transparent compression method and using a throttling mechanism. He noted that the Appellant was looking for creative solutions that would allow it to work around the problem while using the standard interfaces.
+[133] The “lossy-type scenario” involved sending less data in order to avoid exceeding the 64 KB buffer. Mr. Rupel explained that this meant that one does not have complete fidelity in the document being printed, in the sense that the information being passed to the printer is incomplete in some manner, which may be acceptable depending on the application. The document that is printed may not look as good as the original, but it may be acceptable to the user.
+[134] Compressing the data meant using one of numerous available methods. It appears that one of the methods the Appellant tried was to create a JPEG image. The JPEG image would have all the text that needed to be transferred but in a compressed format.
+[135] He noted that the Appellant tried to develop a transparent compression method. This meant that that the Appellant was trying to compress and then decompress the data without the intervening software being aware that this was happening. It had to develop software to “dig” into different places in the Bluetooth stack to try to inject compression in a way that would avoid the 64 KB buffer overrun.
+[136] Neither of these methods proved to be successful. However, the Appellant was able to overcome the problem by developing a throttling mechanism. A throttling mechanism is a way to control the speed at which the data is being pushed through the system. Mr. Rupel noted that, through experimenting, the Appellant was able to find an optimum speed that allowed the Bluetooth printer to clear out its buffer fast enough that it would never overrun the buffer.
+[137] Experimenting was required because the Appellant faced a number of obstacles. If the speed was too slow, the printer would fall asleep, if it was too fast, the problem would be made worse. In addition, the Appellant had to contend with the fact that the printers do not have a constant printing speed. It also had to develop software that would work for different types of documents for a variety of different types of printers and different types of hand-helds. As mentioned previously, it had to do all of this without access to the software that actually operated the printers and the hand-helds, the so-called black boxes. The Appellant tracked the work it performed in its source code control system and its Jira X quirk software.
+Doctor Penn’s Opinion
+[138] Doctor Penn concluded that the work performed by the Appellant with respect to TA1/TO1 of 2010 Project 1 was experimental development and applied research.
+[139] He noted that the issue the Appellant faced was largely a result of the lack of standards and the incompatibility problems that were prevalent in 2010 and 2011. He noted that the Appellant had to conduct a systematic investigation of the range of available options from different Bluetooth stack providers as well as different mobile device platforms in order to determine what was possible.
+[140] His actual conclusions were as follows:
+The application of throttling and compression can only be achieved by setting certain quantitative parameters that are inherent in these techniques, such as lengths of time and targetted transfer rates or percentages of compression. While setting or optimizing the settings of these parameters for a fixed pair of devices could be considered routine in different circumstances, this project dealt with interoperability across a range of mobile devices that were not manufactured by Allegro. I know of no readily assessable knowledge base, now or in 2010, with which Allegro’s engineers could have set these parameters merely through due diligence. This was a painstaking, experimental diversion from ordinary software development activities that no reasonable software engineer would call routine.
+. . . firstly, Allegro were assembling a proprietary knowledge base of experimentally ascertained mobile device behaviours that did not exist in any readily assessable form, and, secondly, that, had they chosen to make this knowledge base public, its value to the broader community of mobile software developers would have extended even to those who never intended to purchase Allegro products. This component’s work was applied research. [2]
+[Emphasis added.]
+[141] Doctor Penn’s opinion is an example of the importance of knowing the technological environment that the Appellant faced when conducting experiments in an attempt to improve its products.
+B. TA1/TO1 of 2010 Project 2
+[142] As discussed previously, the CRA split the 2010 Project 2 into three components. Mr. Rupel explained to the Court a number of general terms/concepts that applied to the entire 2010 Project 2.
+[143] The technological objective of 2010 Project 2 was to:
+. . . develop methods and techniques to improve the scalability and throughput of TCP (Transmission Control Protocol) services transmitted over IP (Internet Protocol) on cellular networks. In particular, the objective was to develop methods to enable more efficient streaming of digital audio, connection-handling mechanisms to translate UDP to TCP and reduce the overhead related to TCP timeouts. [3]
+[144] Mr. Rupel explained to the Court the meaning of UDP and TCP. He also explained what is meant by a load balancer, session control and caching.
+[145] He noted that TCP is a protocol for internet communication. TCP is built on top of the internet protocol and provides a reliable way for the vast majority of things on the internet to communicate.
+[146] UDP is another protocol that is also built on top of the internet protocol, similar to TCP. UDP is a very lightweight protocol when compared to TCP, but TCP does a number of things that are not done by UDP.
+[147] Mr. Rupel explained that when a large amount of data is being sent over the internet, it gets broken down into pieces (packets) and each packet is sent separately through the internet protocol.
+[148] He noted that the advantages of TCP include the fact that it guarantees that the packet of information sent over the internet actually arrives at its destination. If the packet does not show up at the destination, TCP sends a notice to the sender of the information identifying which packet did not arrive. It also has a feature that ensures that packets of data, once received, are placed in the correct order.
+[149] UDP does not have these features but since it does not have as much “overhead” it can be faster than TCP. The Appellant created a UDP protocol that allowed its clients to reduce their data usage on the wireless cellular networks, which significantly reduced the clients’ costs. Mr. Rupel emphasized that at the time the cost of bandwidth on cellular networks was very expensive.
+[150] When the Appellant created the UDP protocol, it worked very well, however at some point problems developed. It determined that the problems were being caused by the interaction between its UDP protocol and new firewalls that were being installed by its clients.
+[151] Another problem related to load balancers. Clients that had a large amount of traffic on their networks and multiple servers used these load balancers. The purpose of the load balancers was to balance the usage of each of the servers.
+[152] The Appellant encountered problems with the interaction of load balancers and session control. Session control refers to managing sessions between a server and a specific user (referred to as a client). Instead of the client having to send all of the same information repeatedly to the server, the server stores some of the information until the session is completed. This is referred to as caching. A problem arose when load balancers caused portions of the information transferred to be stored on different servers.
+[153] Because of these issues, the Appellant was required to abandon its UDP protocol. It then worked to develop a TCP protocol that would work better than its UDP protocol and still reduce the client’s data usage.
+[154] Mr. Rupel discussed the portion of 2010 Project 2 identified by the CRA as TA1/TO1.
+[155] The Appellant’s CRA filing described the technological advancement that the Appellant was trying to achieve with respect to the TA1/TO1 portion of the 2010 Project 2 as follows, “the implementation of a non-disposable byte array pool into which digital audio was compressed for transmission completely eliminating audio breakup caused by buffer under runs (the under runs were in turn caused by insufficient packet throughput).” [4]
+[156] When switching from a UDP protocol to a TCP protocol the Appellant encountered a problem with audio files. They were not being sent fast enough and only a portion of the audio file could be played when first accessed by the recipient of the audio files.
+[157] The Appellant began experimenting with different ways to compress the audio files. At first, the methods it tried were not successful.
+[158] It then began experimenting with what is known as unsafe attributes. Mr. Rupel explained that the software language that the Appellant was using had a managed environment. Basically, it ensured that the various source code being used operated properly. However, the code used to do this slowed things down.
+[159] The Appellant tried writing so-called unsafe attributes by adding code that was not going to be managed. Mr. Rupel described the effect of unsafe attributes as follows:
+. . . You don’t have a safety net underneath you anymore, you’re walking across the tightrope hoping that you don’t have any bugs at that point because if you do it’s not going to catch them, it’s not going to prevent you from hurting yourself. [5]
+[160] He noted, however, that it resulted in less overhead, which meant that the Appellant could hopefully push data through quickly enough to solve the problem.
+[161] The use of unsafe attributes did not work. The ultimate solution involved going back into the so-called managed world and using a hybrid solution where the Appellant was “doing things that [were] a little bit unsafe but not particularly unsafe.” [6]
+[162] Mr. Rupel provided a detailed technical description of the solution. It involved reusing certain of the objects that had been transferred. He described the process in layperson’s terms as follows:
+. . . So it’s sort of like you had a bucket that you would – you’d get a bucket and you would fill it up with water and you send it over where you need it and you would throw the whole bucket over and get another bucket and fill it up with water and -- now instead we’re sort of taking – we’re just throwing the water over and bringing the bucket back and filling it up again. So we’re reusing the same bucket. [7]
+This saved enough overhead that the Appellant was able to solve the problem with the audio files. The solution worked for whatever audio was sent and on the approximately 500 different devices it encountered.
+[163] Mr. Rupel stated the following with respect to the work performed regarding the unsafe attributes and the solution of reusing certain objects:
+I still have to find out if it works. It’s just an idea, a hypothesis. No guarantee it is going to work. You have to experiment and find out and lots of details in the code. When we sit here and talk about it it’s sounds straightforward but when you’re actually digging in the code there’s all kinds of complexities that you run into that you have to fight with in order to be able to accomplish the goal in the first place. So can we actually even do this hybrid thing, is it possible, and once we do is it going to be adequate. [8]
+Doctor Penn’s Opinion
+[164] Doctor Penn noted that in 2010 and 2011 the UDP came with restrictions on the number of concurrent devices that could be connected at any one time to a mobile network. He understood that the Appellant was experimenting with the TCP because it allowed more devices to be connected. However, the Appellant was faced with the issue of slower transmission speeds. He concluded that the Appellant’s work on this project constituted experimental development given the experimental nature of the approach the Appellant needed to take with the different devices to determine what the then available ecology could support.
+[165] In his expert report, he stated the following:
+. . . Programming with audio is a very niche expertise that most software engineers lack. This observation, combined with the increasing demand for smartphones over the last seven years, has led to a commodification of audio processing hardware and audio processing APIs within the mobile device industry that has greatly consolidated during the interval. In 2010, however, there was still a considerable variance among handheld mobile devices in the range of supported audio formats, audio codecs, available audio transfer rates and supported functionality for audio in vendor-supplied APIs. Although Allegro’s eventual solution to this TO differs markedly from their solution to TO1 of FY2010 Project 1, the components TO1 of these two projects share the property that the investigation that they undertook was necessarily systematic . . . and wide-ranging (although, with reasonable probability, incomplete as of the end of FY2010), having considered the idiosyncrasies of numerous mobile devices in circulation at that time. In the present component, these audio-specific parameters were underlying technological uncertainties in an ecology of foreign devices that Allegro’s platform developers would have had to adapt their product to. . . Allegro were building a knowledge base in FY2010 Project 2 TA1/TO1, characterizing the distribution of parameters relevant to digital audio transmission in 2010, that would have been of value to members of the broader community of mobile software developers who had never intended to purchase Allegro’s products. This, too, was applied research and not a routine application of standard techniques. . . . [9]
+C. TA3/TO3 of 2010 Project 2
+[166] The Appellant’s CRA filing described the technological advancement that it was trying to achieve with respect to the TA3/TO3 portion of 2010 Project 2 as follows: “The development of an [sic] synchronous event wrapper capable of timing out a process quickly, eliminating an average wait of 5-8 minutes for a TCP timeout from a mobile device”. [10]
+[167] Mr. Rupel explained what a synchronous event was by distinguishing between a synchronous event and an asynchronous event. A synchronous event occurs when, in the course of communication, the system sends a request for information and then waits until it receives the answer. An asynchronous occurs when the systems sends a request for information and then does other things while another part of the system waits for the answer.
+[168] Mr. Rupel noted that with a synchronous event the whole system is waiting for the response and with an asynchronous event it is not waiting for the response. The synchronous method is used when the system cannot move forward in the logic of the program until the system receives an answer.
+[169] The problem the Appellant faced was that Microsoft had built a five-to-eight-minute timeout into its software that controlled the low-level features of the hand-held devices. The Appellant had no control over this timeout. Problems occurred in the TCP communication when a request was going out for information and no information was coming back. The Microsoft software would then take at least five to eight minutes to reset. This was a problem for the Appellant, which was trying to make devices that worked in real time, i.e., were always connected to the network.
+[170] Mr. Rupel described the problem as a software problem that occurred because Microsoft developed the software using protocols from a wired network and the devices were now being used on a wireless network. He noted that the designers of the software never envisaged a situation where the device would be connected but could not send data, but this is a common occurrence for a device on a wireless network. An example of this type of situation is when a device is taken into a parking garage with poor reception.
+[171] While it was a design feature of the Microsoft software, the Appellant had to fix the problem without access to the code used by Microsoft, while operating in a very complex system.
+[172] Mr. Rupel described three methods that the Appellant tested in an attempt to solve the problem.
+[173] The first method involved using a firewall and deep packet inspection to terminate long-running connections that were waiting for a response. The Appellant was trying to deal with the situation where the software would tell it that it was connected, but there was actually a problem and the device was not communicating.
+[174] He explained that deep packet inspection meant that the Appellant was “peeking” into places that it would not normally be expected to go, namely the network buffers where the information was coming in through the TCP network.
+[175] Since the firewalls monitored the system traffic and knew exactly what was passing through the network, the firewall could be used to find information on what was going through the network.
+[176] Testing using the deep packet inspection and firewalls did not lead to a solution to its problem.
+[177] The second method it tried involved experimenting with a loopback process which involved sending a packet out through the networking layers with instructions that the place it should go is back to the point where it originated.
+[178] It hoped to avoid the five-to-eight-minute timeout problem by killing the network session, which, theoretically, would cause everything to immediately reset. The problem it encountered was that it was only able to kill one side of the session (such as the device side) but was not able to kill the session on the other side (the server side). This left the system in what Mr. Rupel referred to as an inconsistent state, which caused a problem.
+[179] The problem was resolved by developing a two-pronged mechanism to eliminate the issue. Mr. Rupel described the process as follows:
+. . . by creating another process we created a parallel situation where we could start a new session for -- the original session, which is where everything is still happening, all the important stuff is still going on there, but we create this other process that then creates a new session with the server, and then we have to basically keep track of what’s happening over there but we can use that channel then to do our communication until that five-to-eight-minute timeout finally times out.
+And so we have sort of a temporary communication channel that we set up during the period of time that the five-to-eight-minute window is blocking us. [11]
+[180] Mr. Rupel noted that the Appellant recorded all of its work in the source code control system. The Appellant wrote software for each of the methods it tried in order to test each of the proposed methods.
+Doctor Penn’s Opinion
+[181] Doctor Penn does not believe that TA3/TO3 of 2010 Project 2 by itself constituted experimental development or research. However, he believes that TA3/TO3 supported the other parts of 2010 Project 2, which he believes constituted experimental development or research. In effect the part of 2010 Project 2 that the CRA identified as TO3/TA3 supported the other portions of 2010 Project 2 in such a way that it contributed to the overall aims of an experimental development project. He questioned whether it made sense for the CRA (or anyone) to split the Appellant’s 2010 Project 2 into three components.
+[182] He stated the following in his expert report:
+. . . This project’s [2010 Project 2] description proposes one overarching technological advancement: a TCP-based application protocol that surpasses UDP in throughput and scalability. Whether or not this could be achieved was a technological uncertainty. To achieve that advancement, there are certain design features of TCP that are inconsistent with its use in this application protocol. One of those, TO3, is the long timeout delays that are typically built into TCP stacks. It is a defect of the subproject terminology, “TA3/TO3”, that it implies such a limited scope of work as to preclude the identification of a TA or TU for just this one component. This component shares in the technological advancements and uncertainties of the project to which it contributes. . .
+. . . I am unable to reasonably ascertain that a systematic investigation was conducted as part of this component’s work on the basis of the documents and interviews available to me. I am, on the other hand, reasonably certain that Project 2 as a whole did consist of research and experimental development alongside some inevitable routine development that took place in support of the project’s overall research programme. I also find it reasonably probable that the work described in TA3/TO3 and the associated technical content by itself was sufficiently novel to serve as the basis for a standardized extension to the TCP protocol for low-latency communication on unreliable networks. What is unclear to me is whether the realization of TA3/TO3’s research potential in fact took place. [12]
+D. TA1/TO1 of 2011 Project 1
+[183] The Appellant described the technological advancements it was trying to achieve for all of Project 3 as follows:
+The technological objective of this project was to develop an integration platform for mobile devices that enables dynamic multiple endpoints. Specifically, the objective was to develop methods to enable mobile data packets to be intelligently routed to different applications without the need for setting up specific end points or messaging agents for each integration point. [13]
+[184] With respect to TA1/TO1 of Project 3, the Appellant hoped to achieve a technological advancement by developing a connection timeout mechanism for distributed transactions initiated by a mobile device.
+[185] The technological obstacle the Appellant faced was related to mobile transaction timeouts. The Appellant noted that the main purpose of its system was to provide data to client devices such as mobile devices. This required data to be sent across high-latency cellular networks. Because of the latency of cellular networks, it is not easy to determine whether a connection has timed out.
+[186] Mr. Rupel noted that people confuse bandwidth with latency. Latency is another aspect of speed or timing. He noted that information may pass through a system at a high speed (high bandwidth) and still be delayed in arriving at its destination (high latency).
+[187] He explained that cellular networks are high latency when compared with wire networks. In a cellular network, “[t]here’s a lot more handshaking that has to go on with decoding what’s in the radio waves and the layers of technology that has to filter through in order to just get where you’re going with it. . . . that initial delay is worse on a wireless network, especially on a cellular network.” [14]
+[188] The timeout was the same as in 2010 Project 2, but the timeout in 2011 Project 1 caused a different problem. Mr. Rupel explained that the Appellant’s system bundled up business logic messages and sent it through the system. As discussed previously, the messages are broken up into pieces and sent through in little packets, which are reconstructed on the other side. The process has what is referred to as a queuing mechanism. The Appellant’s software handles what is in the queue to feed the information through the underlying black box and then reconstruct it on the other side. The timeouts were causing problems in the fidelity of the Appellant’s queuing process.
+[189] For example, the timeout may cause the system to reset. Once it resets it feeds all the information sitting in the queue into the system at such a fast rate that it overwhelms the device.
+[190] As a result, the Appellant had to conduct tests on application timeouts to determine the optimal timing. Mr. Rupel noted that there are a lot of trade-offs in the timing in that if you make it too short, you have one set of problems, if you make it too long, you have another set of problems. It was trying to find the “sweet spot”, complicated by the fact that it was working with black boxes and had no way to know if the individual problems that occurred on one extreme or the other were going to become unacceptable from a business standpoint.
+Doctor Penn’s Opinion
+[191] Doctor Penn explained that in order for the Appellant to keep the connections from timing out, it needed to consider the limited CPU capacities and networking capacities of each of the devices involved. It is his opinion that this was an experimental issue that could not have been resolved by a standard as at 2011. He considered the research done by the Appellant to be experimental development since the Appellant had to experiment with multiple devices under multiple network conditions in order to determine whether the connections could support various solutions in order to maintain the reconnect. He provided the following opinion in his written report:
+. . . the development of a mechanism that waits a specified period of time before resetting a network connection is standard practice, and the experimentation required to set the wait time often involves only a trivial amount of experimentation. . . . however, knowing how long to wait when developing a product within an ecology of foreign devices and on multiple cellular networks is not routine. . . . Allegro were building just such a knowledge base [knowledge of necessary wait times] that would have been of value to members of the broader community of mobile software developers, including those who had never intended to purchase Allegro’s products. This was the result of applied research. [15]
+[192] Doctor Penn also reviewed TA3/TO3 of 2011 Project 1. He concluded that the work carried out by the Appellant was not experimental development. Counsel informed the Court that this was the reason the Appellant conceded this issue at the commencement of the trial.
+E. Finding of the Court
+[193] With respect to projects TA1/TO1 of 2010 Project 1, TA1/TO1 of 2010 Project 2 and TA1/TO1 of 2011 Project 1, I agree with the Appellant and Doctor Penn that the work done by the Appellant was experimental development.
+[194] The Appellant’s core product was its platform (software), which it built to account for the difficult environment in which it operated. The Appellant was attempting to develop a new product (its platform) that would work seamlessly with a multitude of devices that used different operating software and ran on the various operating systems of the Appellant’s clients. It was a product that had not previously existed.
+[195] The Appellant’s success depended on its ability to satisfy its clients’ needs in an environment characterized by numerous wireless devices with numerous underlying software systems that the Appellant could not access, the so-called black boxes. The Appellant also had to design a platform that would interact with the numerous servers of its clients. Its product had to work regardless of the manufacturer of the hand-held device used by the client and/or the operating software used by the hand-held device.
+[196] This environment was further complicated by the state of the wireless technology and underlying software at the point in time the Appellant carried out the experimentation. Mr. Rupel and Doctor Penn both noted that many of the issues the Appellant faced would not exist today because of the technological advancements that have been made over the last ten years. However, they existed at the time the Appellant carried out the projects.
+[197] Working in that environment, the Appellant needed a product that worked better than products offered by its competitors. This required the Appellant to be constantly working to improve its product. It did this by constantly developing software to improve the operation of the various hand-held devices that its clients used on the Appellant’s platform.
+[198] As Mr. Rupel and Doctor Penn explained, when developing this software the Appellant faced numerous technological challenges that required the Appellant to experiment to find solutions.
+[199] Mr. Rupel noted that if the Appellant identified a problem that should not have occurred based upon the specifications of the underlying software, then it had to get creative. Routine engineering would not resolve the problem. It had to experiment, to “come up with hypotheses of things [it] could try or do and see what worked”. [16]
+[200] Doctor Penn concluded that these experiments as they related to the three projects constituted scientific research and resulted in a technological advancement. Doctor Penn was eminently qualified to make these conclusions based upon his education, experience and knowledge of the Appellant’s business. His conclusions are consistent with the evidence before me.
+[201] On the basis of the evidence before me, particularly Mr. Rupel’s description of the research the Appellant performed and Doctor Penn’s expert opinion, I have concluded that the work undertaken by the Appellant with respect to projects TA1/TO1 of 2010 Project 1, TA1/TO1 of 2010 Project 2 and TA1/TO1 of 2011 Project 1 related to the development or improvement of its product and involved attempting to resolve a technological risk or uncertainty that could not be resolved by routine engineering or standard procedure.
+[202] The three projects required the Appellant to conduct tests and experiments, in a difficult environment, to find new solutions that would allow all of the software components to execute in the manner the Appellant required in order for it to develop and improve a product that would meet the needs of its clients. Those solutions could not be found by routine engineering. It was work that the Appellant undertook for the purpose of achieving technological advancements that would allow the Appellant to create a new and/or better product. This product was a platform that would work with multiple devices in the environment described by Mr. Rupel.
+[203] With respect to project TA3/TO3 of 2010 Project 2, as discussed previously, Doctor Penn concluded that if one considered the work related to what the CRA described as TA3/TO3 by itself, the work did not constitute experimental development or research. However, he questioned whether it made sense to split 2010 Project 2 into three parts. Doctor Penn believed that TA3/TO3 supported the other parts of 2010 Project 2, which he believed constituted experimental development or research. I have found that TA1/TO1 of 2010 Project 2 was experimental development and the Minister accepted that TA2/TO2 of 2010 Project 2 was SR&ED.
+[204] I accept Doctor Penn’s conclusion that the part of 2010 Project 2 identified by the CRA as TA3/TO3 supported the other portions of 2010 Project 2 in such a way that it contributed to the overall aims of an experimental development project. In other words, I accept that the Appellant’s work on this part of 2010 Project 2 was experimental development.
+[205] My conclusion with respect to the four projects is consistent with the fact that the CRA found that the four projects were the same or similar to projects in respect of which the Appellant received grants from the National Research Council of Canada (the “NRC”) pursuant to its Industrial Research Assistance Program (the “IRAP”). The grants the Appellant received were to conduct research that would lead to better products.
+[206] The Appellant had numerous systems in place to record the various hypotheses it made when conducting its research. In particular, it recorded its research in its source code control system and its Jira X quirk tracking system. For a specific experimental project, including the projects at issue, these systems recorded the hypothesis made by the Appellant at the beginning of the project, the testing of the hypothesis and any changes made to the hypothesis as the work progressed. This was a system the Appellant developed with the assistance of Mr. Wong, its CRA technical advisor.
+[207] It was only after reviewing the source code control system and the Jira X software tracking system to determine the work it preformed that the Appellant made the decision on whether it should claim the project on its tax return as SR&ED.
+[208] On the basis of the evidence just discussed, I have concluded that when the Appellant conducted the projects at issue, it formulated hypotheses specifically aimed at reducing the identified technological uncertainty, followed appropriate procedures on testing, including the formulation, testing, and modification of hypotheses, and maintained a detailed record of the hypotheses tested and results achieved as the work progressed.
+[209] For these reasons, the work performed by the Appellant on the projects identified by the CRA as TA1/TO1 of 2010 Project 1, TA1/TO1 of 2010 Project 2, TA3/TO3 of 2010 Project 1 and TA1/TO1 of 2011 Project 1 constitutes SR&ED for purposes of the Income Tax Act.
+V. Amount of SR&ED Expenditures Incurred and Corresponding ITCs
+[210] Having found that the Appellant’s work on the four projects discussed above constitutes SR&ED, I must now determine the total amount of SR&ED expenditures the Appellant incurred during the relevant period and the amount of corresponding ITCs it is entitled to claim.
+[211] For each of the years at issue, the Appellant elected under clause 37(8)(a)(ii)(B) and subsection 37(10) to use the proxy method when calculating its SR&ED expenditures and corresponding ITCs. Pursuant to regulation 2900(4), the Appellant and the Respondent calculated the proxy amount as 65% [17] of the eligible salaries and wages of the Appellant’s employees who were directly engaged in SR&ED carried out in Canada. Obviously, the Appellant and the Respondent did not agree on what activities of the Appellant constituted SR&ED.
+[212] At the commencement of the hearing in May 2019, I asked each party to provide the Court with the amount of SR&ED expenditures the Appellant incurred for each of the four projects at issue and the amount of corresponding input tax credits for each project.
+[213] Despite the assurance of counsel that the calculations would be provided to the Court, the parties did not provide the amounts to the Court in 2019. When the hearing resumed in September 2020, I reiterated that the Court required this information. The parties never provided this information to the Court.
+[214] I did hear from Ms. Sporich of the CRA on the second day of the September hearing dates. She provided the Court with a detailed breakdown of how the CRA calculated the amount of SR&ED expenditures allowed and the calculation of the corresponding ITCs. She did not provide the Court with similar information for the four projects at issue.
+[215] However, after I once again emphasized that the Court required such information, she did undertake to provide the Court with a calculation of how the CRA would have calculated the SR&ED expenditures if the Minister had accepted the Appellant’s claim as filed. This information (Exhibits R-8 to R-13) was provided on the last day of the hearing.
+[216] The Appellant did not object to any of the CRA’s calculations except for, as I will discuss shortly, the CRA’s calculation of the IRAP government assistance.
+[217] Exhibit R-13 contains, for the 2010 Taxation Year and the 2011 Taxation Year, the amount the Appellant claimed as SR&ED expenditures and corresponding ITCs and the amounts the Minister allowed. The calculation for the 2010 Taxation Year is as follows:
+Filed by
+Taxpayer
+Assessed by
+the CRA
+Total SR&ED Expenditures
+$587,005
+$171,979
+Add:
+Prescribed Proxy Amount
+65%
+$365,003
+$111,786
+Deduct
+Government Assistance - OITC
+$88,705
+$11,179
+Government Assistance - IRAP
+$65,261
+$171,979
+Qualified Expenditures for ITC
+$798,342
+$100,607
+ITC
+35% [18]
+$279,420
+$35,212
+[218] The calculation for the 2011 Taxation Year is as follows:
+Filed by
+Taxpayer
+Assessed by
+the CRA
+Total SR&ED Expenditures
+$418,890
+$120,635
+Add:
+Prescribed Proxy Amount
+65%
+$272,279
+$78,413
+Deduct
+Government Assistance - OITC
+$68,834
+$16,945
+Government Assistance - IRAP
+$6,829
+$29,598
+Qualified Expenditures for ITC
+$615,506
+$152,505
+ITC
+35%
+$215,567
+$53,377
+[219] The Appellant did not provide the details of its calculation of the amounts claimed on its tax returns. The CRA’s calculation of the amounts the Minister assessed in respect of the total SR&ED expenditures, the prescribed proxy amount, and the government assistance is contained in Exhibits R-3 to R-7 and R-13. Ms. Sporich explained the calculations to the Court.
+[220] As a result of allowing the Appeal with respect to the four projects at issue, the Court must determine new amounts for total SR&ED expenditures, the prescribed proxy amount and the government assistance. Since neither party provided calculations of such amounts for the four projects at issue, the Court calculated such amounts using the evidence before the Court. Each party should have performed these calculations and then provided the calculations to the Court.
+SR&ED Expenditures
+[221] I will first address the total SR&ED expenditures for the 2010 Taxation Year.
+[222] In its tax filing the Appellant claimed $587,005 of allowable SR&ED expenditures comprised of salary and wages of $562,005 and a payment to a contractor of $25,000. [19] When assessing the Appellant, the Minister assumed that the work performed by the subcontractor did not constitute SR&ED. The Appellant has not argued that the Minister’s assumption was wrong or provided the Court with any evidence to support a $25,000 payment to a contractor.
+[223] The Minister allowed the Appellant SR&ED expenditures of $171,979 comprised entirely of salary and wages. Using the numbers provided by the Respondent in Exhibit R-9, I have increased the $171,979 by the salary and wages the Appellant incurred in respect of the TA1/TO1 of 2010 Project 1, TA1/TO1 of 2010 Project 2 and TA3/TO3 of 2010 Project 2. This results in total allowable SR&ED expenditures of $425,911 for the 2010 Taxation Year.
+[224] I have performed a similar calculation for the 2011 Taxation Year. Using the numbers provided by the Respondent in Exhibit R-12, I have increased the $120,635 of salary and wages allowed by the Minister by the salary and wages incurred by the Appellant in respect of TA1/TO1 of 2011 Project 1. This results in total allowable SR&ED expenditures of $355,891 for the 2011 Taxation Year.
+Prescribed Proxy Amount
+[225] The prescribed proxy amount is 65% of the SR&ED expenditures. For the 2010 Taxation Year this is 65% of $425,911, or $276,842. For the 2011 Taxation Year the prescribed proxy amount is 65% of $355,891, or $231,329.
+Government Assistance
+[226] When calculating SR&ED expenditures, both the Appellant and the Minister took into account two forms of government assistance received by the Appellant.
+[227] The NRC, pursuant to its IRAP, provided the first government assistance (the “IRAP Grant”). Pursuant to a contribution agreement between the NRC and the Appellant (Exhibit A-1), the NRC agreed to contribute up to a maximum of $500,000 for salary and wage costs incurred in the performance of certain work described in the agreement. [20] Pursuant to the PASF, the Appellant received $470,378 of the IRAP Grant. The Minister, when calculating the Appellant’s SR&ED expenditures and related ITCs, assumed that all of the projects in respect of which the Appellant claimed SR&ED were the same or similar to some of the projects covered by the IRAP Grant.
+[228] The Appellant, when calculating its eligible SR&ED and ITCs, deducted $65,261 in the 2010 Taxation Year and $6,829 in the 2011 Taxation Year in respect of the IRAP Grant. Therefore, the Appellant assumed that it received at least a part of the IRAP Grant in respect of the SR&ED projects before the Court. I heard no evidence from the Appellant with respect to how it calculated the $65,261 and $6,829. In fact, the Appellant provided no evidence with respect to which of its employees’ remuneration was covered by the IRAP Grant and what work such employees performed in respect of the SR&ED projects.
+[229] The Respondent, using information the Appellant provided to the CRA, provided the Court with a schedule (Exhibit R-7) showing the specific employees of the Appellant who worked on the five research projects, the number of hours each employee worked on the projects and the hours of each employee that were reimbursed under the IRAP Grant.
+[230] For the 2010 Taxation Year, the schedule shows that 23 employees worked a total of 15,899 hours on the five research products [21] and 11,337 of the hours each employee worked for the Appellant were reimbursed under the IRAP Grant.
+[231] The CRA then reduced the 11,337 reimbursed hours by those hours that related either to the Appellant’s projects that the CRA did not accept as SR&ED or related to other projects (see Exhibits R-7 and R-8). It determined that only 4,010 of the employee hours reimbursed under the IRAP Grant related to the projects it accepted as being SR&ED. It then applied each employee’s hourly rate to the 4,010 hours to arrive at a total IRAP Grant reimbursement of $131,054 in respect of the projects it accepted as SR&ED.
+[232] For the 2010 Taxation Year, the CRA deducted the calculated IRAP Grant of $131,054 under paragraph 37(1)(d) when determining the Appellant’s deduction under section 37 for scientific research and experimental development expenditures (see Exhibit R-3, page 1). However, when determining the corresponding ITCs, the CRA deducted, under paragraph 127(18), $171,979, which represents all of the salary and wages the Appellant incurred when conducting the projects the Minister accepted as SR&ED (see Exhibit R-3, page 2).
+[233] Ms. Sporich provided the following reason for deducting, under subsection 127(18), all of the salary and wages incurred by the Appellant as opposed to only that portion of the salary and wages that had been reimbursed under the IRAP Grant: since the IRAP Grant was in respect of projects that were claimed for SR&ED, the work done on the projects had to, under subsection 127(18), be removed from the calculation of the expenditures that qualify for the ITC. [22]
+[234] Exhibit R-7 contains a similar calculation for the 2011 Taxation Year. For the 2011 Taxation Year, the CRA determined that the Appellant received an $18,491 IRAP Grant in respect of the projects that it accepted as SR&ED projects.
+[235] The Appellant disagrees with the Minister’s position. It argues that whatever amount is deducted under paragraph 37(1)(d) when determining the Appellant’s deduction for research and experimental development expenditures, the same amount should be deducted under subsection 127(18) when determining the amount of the Appellant’s corresponding ITCs.
+[236] I agree with the Appellant.
+[237] Paragraph 37(1)(d) requires a taxpayer to deduct the following amount when determining its deduction under subsection 37(1) for scientific research and development expenditures:
+the total of all amounts each of which is the amount of any government assistance or non-government assistance (as defined in subsection 127(9)) in respect of an expenditure described in paragraph (a) or (b), as paragraph (a) or (b), as the case may be, read in its application in respect of the expenditure, that at the taxpayer’s filing-due date for the year the taxpayer has received, is entitled to receive or can reasonably be expected to receive,
+[Emphasis added.]
+[238] The paragraph requires the taxpayer to deduct the amount of any government assistance as defined in subsection 127(9). The taxpayer is required to deduct the government assistance if it is received in respect of certain expenditures made on scientific research and experimental development that are contained in paragraphs 37(1) (a) and (b).
+[239] Subsection 127(18) requires a taxpayer, when calculating an ITC under subsection 127(5) in respect of its SR&ED qualifying expenditure pool, to deduct the following amount:
+Where on or before the filing-due date for a taxation year of a person or partnership (referred to in this subsection as the “taxpayer”) the taxpayer has received, is entitled to receive or can reasonably be expected to receive a particular amount that is government assistance, non-government assistance or a contract payment that can reasonably be considered to be in respect of scientific research and experimental development, the amount by which the particular amount exceeds all amounts applied for preceding taxation years under this subsection or subsection 127(19) or 127(20) in respect of the particular amount shall be applied to reduce the taxpayer’s qualified expenditures otherwise incurred in the year that can reasonably be considered to be in respect of the scientific research and experimental development.
+[Emphasis added.]
+[240] When a taxpayer is calculating its ITC, this paragraph requires the taxpayer to deduct the amount of government assistance received. It is required to deduct the government assistance if it can reasonably be considered to be in respect of SR&ED.
+[241] Under both paragraph 37(1)(d) and subsection 127(18), the Appellant was required to deduct the amount of government assistance as defined in subsection 127(9) that it received in respect of its SR&ED projects. The IRAP Grant is government assistance for purposes of subsection 127(9).
+[242] The CRA determined that the amount of the IRAP Grant that was in respect of the projects it accepted as SR&ED was $131,054. The CRA should have deducted this amount under both paragraph 37(1)(d) and subsection 127(18). Subsection 127(18) does not allow for the deduction of an amount in excess of the government assistance received by the Appellant.
+[243] Ms. Sporich provided the Court with Exhibit R-10, which is prepared on the same basis as Exhibits R-7 and R-8 but assumes that the Minister accepted the Appellant’s SR&ED claim as filed. It is the CRA’s calculation of the amount of the IRAP Grant that the Appellant received in respect of all of its projects.
+[244] Consistent with Exhibit R-7, Exhibit R-10 shows that for the 2010 Taxation Year 23 employees worked 15,899 hours on all of the projects that the Appellant claimed were SR&ED and 11,337 of those hours were reimbursed under the IRAP Grant. Exhibit R-10 shows that of the 11,337 hours reimbursed under the IRAP Grant, 8,029 were in respect of work performed on the projects that the Appellant claimed were SR&ED. Ms. Sporich then applied the hourly rate of each employee to the 8,029 hours to arrive at a total IRAP Grant of $262,239 in respect of all of the Appellant’s projects that it claimed constituted SR&ED. On page 2 of Exhibit R-10, she breaks down the $262,239 by individual project. Pages 3 and 4 of Exhibit R-10 contain similar calculations for the 2011 Taxation Year.
+[245] Using page 2 of Exhibit R-10 I have adjusted the IRAP Grant number for the 2010 Taxation Year to only include projects that the Court has accepted as SR&ED. Specifically, TA2/TO2 of 2010 Project 3 was excluded since the Appellant conceded at the start of the hearing that it did not constitute SR&ED. Adding the number provided for the projects that the Court has found to be SR&ED results in an IRAP Grant of $202,889. A similar calculation for the 2011 Taxation Year results in an IRAP Grant of $22,386. These are the amounts that must be deducted under paragraph 37(1)(d) and subsection 127(18).
+[246] The second government assistance taken into account by both parties was referred to as the OITC. I received no evidence on the nature of the grant other than the fact that both parties deducted an amount in respect of the OITC when determining the Appellant’s SR&ED expenditures and ITCs. Both the Appellant and the Minister calculated the OITC government assistance as 10% of the following:
+Allowable SR&ED expenditures
+Plus: prescribed proxy amount
+Less: IRAP assistance received in respect of SR&ED. [23]
+[247] Applying this calculation to the amounts determined by the Court results in OITC government assistance of $49,986 in the 2010 Taxation Year and $56,483 in the 2011 Taxation Year.
+[248] On the basis of the above, the Appellant incurred qualifying SR&ED expenditures of $449,878 and $508,351 in the 2010 and 2011 taxation years, respectively, and is entitled to corresponding ITCs of $157,457 and $177,923 for the 2010 and 2011 taxation years, respectively, calculated as follows:
+2010 Taxation Year
+2011 Taxation Year
+Total SR&ED Expenditures
+$425,911
+$355,891
+Add:
+Prescribed Proxy Amount
+65%
+$276,842
+$231,329
+Deduct
+Government Assistance - OITC
+$49,986
+$56,483
+Government Assistance - IRAP
+$202,889
+$22,386
+Qualified Expenditures for ITC
+$449,878
+$508,351
+ITC
+35%
+$157,457
+$177,923
+[249] For the foregoing reasons, the appeals are allowed with costs and the reassessments are referred back to the Minister for reconsideration and reassessment on the basis that the Appellant incurred qualifying SR&ED expenditures of $449,878 and $508,351 in the 2010 and 2011 taxation years, respectively, and is entitled to corresponding ITCs of $157,457 and $177,923 for the 2010 and 2011 taxation years, respectively.
+Signed at Ottawa, Canada, this 31st day of March, 2021.
+“S. D’Arcy”
+D’Arcy J.
+CITATION:
+2021 TCC 27
+COURT FILE NOS.:
+2014-1690(IT)G
+2014-1691(IT)G
+STYLE OF CAUSE:
+ALLEGRO WIRELESS CANADA INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 6, 7 and 8, 2019, September 21, 22 and 23, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D’Arcy
+DATE OF JUDGMENT:
+March 31, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Jonathan N. Garbutt
+Justin Pon (Articling Student)
+Counsel for the Respondent:
+Alisa Apostle
+Natasha Mukhtar
+Aaron Tallon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jonathan N. Garbutt
+Firm:
+Garbutt Tax Law
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-3, page 35, Box 240.
+[2] Exhibit A-37, pages 6–7.
+[3] Exhibit A-4, page 39, Box 240.
+[4] Exhibit A-4, page 40, Box 240.
+[5] Transcript of oral hearing, Monday, May 6, 2019, page 143.
+[6] Transcript of oral hearing, Monday, May 6, 2019, page 145.
+[7] Transcript of oral hearing, Monday, May 6, 2019, page 146.
+[8] Transcript of oral hearing, Monday, May 6, 2019, pages 147–148.
+[9] Exhibit A-37, page 9.
+[10] Exhibit A-4, page 40, Box 240.
+[11] Transcript of oral hearing, Tuesday, May 7, 2019, page 166.
+[12] Exhibit A-37, page 10.
+[13] Exhibit A-6, page 51, Box 240.
+[14] Transcript of oral hearing, Tuesday, May 7, 2019, pages 175–176.
+[15] Exhibit A-37, page 15.
+[16] Transcript of oral hearing, Tuesday, May 7, 2019, page 186.
+[17] The 65% percent applies to taxation years before 2015.
+[18] See paragraphs (a.1) and (e) of the definition of “investment tax credit” in subsection 127(9).
+[19] See Exhibit R-3.
+[20] Paragraph 1.1 of the agreement specifies that the Appellant was only to be reimbursed for $500,000 of its salary costs.
+[21] The 15,899 hours is the same number of hours as the total SR&ED hours claimed by the Appellant on Exhibit R-4.
+[22] Transcript of oral hearing, Tuesday, September 22, 2020, page 172.
+[23] See Exhibit R-13, R-8.

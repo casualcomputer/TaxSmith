@@ -1,0 +1,189 @@
+---
+title: "Hue c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521183/index.do"
+last_modified: "2023-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 162"
+citation2: ""
+neutral_citation: "2023 CCI 162"
+decision_date: "2023-11-16"
+language: "fr"
+item_id: "521183"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5671
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T11:18:45.045000+00:00"
+cases_cited_count: 8
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d9a7a4804efe94d338a121c08889eb46b83634bad06e936f468d05b291da63d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hue c. Le Roi
+
+- Citation: 2023 CCI 162
+- Decision date: 2023-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5671, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hue c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-12-04
+Référence neutre
+2023 CCI 162
+Numéro de dossier
+2015-2197(IT)I
+Juges et Officiers taxateurs
+Gilles Renaud
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2197(IT)I
+ENTRE :
+RYAN HUE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 16 novembre 2023, à Hamilton (Ontario).
+Devant : l’honorable juge suppléant Gilles Renaud
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Robert Zsigo
+Me Mitchell Meraw
+JUGEMENT
+Conformément aux motifs du jugement rendus oralement à l’audience, l’appel visant la nouvelle cotisation établie sous le régime de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 4e jour de décembre 2023.
+« Gilles Renaud »
+Le juge suppléant Renaud
+Référence : 2023 CCI 162
+Date : 20231204
+Dossier : 2015-2197(IT)I
+ENTRE :
+RYAN HUE,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Renaud
+Introduction [1] Le 16 novembre 2023, lorsque le greffier a appelé la cause 2015-2197(IT)I, l’appelant a présenté une demande orale d’ajournement de l’audition du présent appel. M. Hue a expliqué que son avocat avait présenté une demande écrite d’ajournement de l’audience, laquelle, pour autant qu’il le sache, avait été rejetée par le juge en chef de la Cour canadienne de l’impôt le 15 novembre 2023. L’appelant n’a pas fourni de copie des documents produits par son avocat. Après le rejet de la demande, son avocat lui a conseillé de se présenter à la Cour à l’heure fixée pour l’audience et de renouveler la demande d’ajournement.
+[2] Il convient de noter que l’appelant a retenu les services de l’avocat en question le soir du lundi 13 novembre 2023. Toutefois, celui-ci n’était pas en mesure de comparaître le 16 novembre 2023 pour représenter l’appelant dans le contexte de la demande d’ajournement.
+[3] L’avocat de l’intimé s’est opposé à la demande, faisant valoir que l’appelant avait attendu beaucoup trop longtemps avant de demander l’ajournement.
+[4] À la demande de la Cour, l’audition de l’affaire a été suspendue pour permettre à l’appelant d’obtenir de son avocat une lettre apportant des précisions sur son mandat de représentation et son identité. Une lettre a été présentée et produite en preuve, mais l’avocat n’était toujours pas en mesure de comparaître ce matin-là.
+[5] La Cour a suspendu l’audition de l’affaire pour que des recherches puissent être effectuées, étant donné qu’aucune des parties n’avait présenté de jurisprudence faisant autorité sur la question, et pour permettre un examen adéquat de la demande sur le fond. À la reprise de l’audience, la Cour a rejeté la demande, précisant que les motifs seraient rendus ultérieurement afin de ne pas retarder davantage l’audience. Elle a ensuite entendu l’appel, puis l’a rejeté, les motifs ayant été rendus oralement lors de l’audience.
+[6] Comme l’heure était tardive, la Cour a informé les parties que les motifs écrits seraient présentés avant le 3 décembre 2023. Voici ces motifs écrits.
+Un bref rappel de la jurisprudence sur le bien-fondé de la demande d’ajournement de dernière minute [7] Je précise que les décisions sont présentées en fonction de grands thèmes.
+Vaste pouvoir discrétionnaire
+[8] La première décision pertinente que la Cour a pu repérer dans le bref délai dont elle disposait a été rédigée par le juge en chef Rip dans l’affaire Côté c. La Reine, 2012 CCI 61, 2012 D.T.C. 1097 :
+[5] C’est un lieu commun que de dire que la Cour canadienne de l’impôt a le contrôle plein et entier de sa procédure et de sa pratique. La décision d’accorder ou non un ajournement relève de la discrétion de la Cour. L’objet de la procédure informelle est d’accélérer l’audition des appels en faisant en sorte que tout se passe de la manière la plus expéditive et la plus simple possible, et les interrogatoires préalables sont extrêmement rares dans le cadre d’appels interjetés sous le régime de la procédure informelle.
+[9] L’analyse du juge Pelletier dans l’arrêt Wagg c. Canada, [2004] 1 R.C.F. 206, 2003 CAF 303, est également digne d’intérêt :
+[19] Il est bien établi en droit que la décision d’accorder ou non un ajournement est une décision discrétionnaire, qui doit être prise équitablement (voir l’affaire Pierre c. Ministre de la Main-d’œuvre et de l’Immigration, [1978] 2 C.F. 849 (C.A.), à la page 851, citée avec approbation dans l’arrêt Prassad c. Canada (Ministre de l’Emploi et de l’Immigration), [1989] 1 R.C.S. 560, à la page 569). Il n’existe aucune présomption selon laquelle il existe un droit automatique à un ajournement. La Cour n’interviendra pas dans le refus d’accorder un ajournement sauf circonstances exceptionnelles (voir l’arrêt Siloch c. Canada (Ministre de l’Emploi et de l’Immigration), (1993), 10 Admin. L.R. (2d) 285 (C.A.F.)).
+Les décisions en matière d’ajournement tiennent compte de l’historique des procédures
+[10] Attirant l’attention sur l’historique des procédures, susceptible d’influer sur les décisions ultérieures, plutôt que sur le pouvoir discrétionnaire de la Cour, la juge D’Auray commence sa décision Rheaume v. The Queen, 2012 CCI 67, par la phrase suivante : [traduction] « [1] Le présent appel a été maintes fois retardés par l’appelant et son représentant. » Voir également Katzenback c. La Reine, 2007 CCI 693, [2007] A.C.I. no 495, 2008 D.T.C. 215, par. 24 :
+« Il importe également de noter qu’en décidant de rejeter la requête, j’étais convaincu, et je le suis toujours, que l’historique des ajournements dans cette affaire ne justifie tout simplement pas d’autres reports. À mon avis, selon la prépondérance des probabilités, la capacité de l’appelant de poursuivre son appel ne s’améliorera pas avec les années […]
+[26] Les demandes d’ajournement présentées par l’appelant ont déjà été suffisamment accueillies par la Cour. Il est temps d’aller de l’avant et d’entendre la meilleure preuve qui peut être présentée aujourd’hui. »
+[11] Ni les observations ni les faits qui ont été présentés à la Cour ne donnent à penser que cet élément est pertinent.
+L’équité, pierre angulaire de l’exercice du pouvoir discrétionnaire
+[12] De plus, la juge D’Auray a formulé des observations utiles sur la question de l’équité des jugements en matière fiscale dans la décision Rhéaume v. The Queen, 2012 CCI 67 :
+[traduction]
+[14] Il était manifeste que l’appelant ignorait tout du déroulement de ses appels. Il ne disposait d’aucun document. L’appelant a déclaré qu’il n’était pas en mesure de procéder sans son représentant, M. Kisondath, puisque celui-ci était son partenaire d’affaires et s’occupait de sa fiscalité.
+[15] Dans cette optique, j’ai décidé d’accorder un ajournement afin que l’appelant dispose d’assez de temps pour comprendre son dossier et se préparer en conséquence.
+[Non souligné dans l’original.]
+[13] L’appelant n’a pas prétendu qu’il n’avait pas conscience de sa situation ou de l’avancement de son dossier, alors que la date d’audience approchait. En outre, il a certainement présenté ses observations avec assurance. L’appelant est éloquent, intelligent, et il ne souffre pas de problèmes de mémoire ou d’autres handicaps de ce genre.
+La position de l’intimé n’est pas déterminante quant à l’issue de la demande d’ajournement
+[14] L’arrêt Rupolo c. Canada, 2010 CAF 289, apporte également un précieux éclairage grâce à ses directives sur les parties non représentées, comme on peut le lire aux paragraphes 2 à 5 :
+LA JUGE SHARLOW (motifs rendus oralement)
+[1] L’appelant interjette appel du jugement de la juge Woods de la Cour canadienne de l’impôt portant rejet de son appel en matière fiscale (2010 CCI 68). Son appel a été rejeté parce qu’aucun argument n’a été présenté pour le compte de l’appelant à l’audience. Le représentant de l’appelant s’est présenté à l’audience sans préparation parce que l’appelant ou son représentant ou tous deux croyaient que l’ajournement demandé serait accordé, mais il ne l’a pas été. Sa Majesté ne s’y était pas opposée.
+[2] L’appelant avait aussi demandé un ajournement deux jours avant l’audience. Sa Majesté ne s’y était pas non plus opposée, mais le juge en chef a rejeté la demande.
+[3] À l’audience, le représentant de l’appelant a expliqué qu’il renouvelait sa demande d’ajournement parce qu’il ne disposait pas des renseignements nécessaires pour défendre la cause de l’appelant. Il n’a cependant pas expliqué pourquoi l’appelant n’avait pas demandé les renseignements nécessaires en temps opportun. Le juge a rejeté la demande d’ajournement essentiellement en raison de l’absence d’explication concernant le manque de diligence de l’appelant.
+[4] Un juge n’est pas tenu d’accéder à la demande d’ajournement d’une partie, et ce, même si l’autre partie y consent. Généralement, lorsque l’audition d’une affaire est prévue, les parties doivent être préparées pour que l’affaire soit entendue au moment prévu, à défaut de quoi elles risquent d’être déboutées. La décision du juge du procès d’accorder ou de rejeter un ajournement est discrétionnaire. La Cour n’interviendra pas en l’absence d’une erreur de droit ou de principe. [Non souligné dans l’original.]
+[5] L’appelant s’est représenté lui-même devant notre Cour et a expliqué que ses problèmes résultaient de divers manquements de son représentant qui n’a pas préparé ses appels avec la diligence voulue. Malheureusement, cela ne constitue pas un fondement permettant à la Cour d’annuler la décision du juge de la Cour de l’impôt. L’examen du dossier ne nous a pas permis de trouver d’erreur de droit ou de principe qui justifierait l’intervention de notre Cour.
+[15] Je m’arrête ici pour rapporter l’observation formulée par la juge de première instance : « [12] […] La Cour a le devoir de veiller au déroulement efficace du processus judiciaire. Il ne suffit pas que les parties conviennent d’un ajournement. » Voir la décision Rupolo c. La Reine, 2010 CCI 68.
+[16] Plusieurs années auparavant, la Cour d’appel fédérale avait statué, dans l’arrêt Paynter c. R., [1996] A.C.F. no 1416 (QL) :
+[7] Lors de la présente audition, l'avocate de l'intimée ne s'est pas opposée à la demande de contrôle judiciaire. Elle estime que l'ajournement aurait dû être accordé parce que d'importantes questions sont en cause dans les appels qui peuvent avoir de grandes conséquences. Elle considère que les questions peuvent être mieux abordées si les parties ont toutes plus de temps de préparation. Il est toutefois clair que ni la Cour de l'impôt ni cette Cour ne sont liées par le fait que toutes les parties ont consenti à un ajournement1. [La note de bas de page numéro 1 est rédigée ainsi : Sidhu v. M.N.R. (1994) 176 N.R. 156, à la page 158.]
+[17] En l’espèce, l’intimé s’est opposé à la demande d’ajournement.
+Dispositions législatives et ajournements : article 18.2 de la Loi sur la Cour canadienne de l’impôt – les affaires ne doivent pas être retardées sans explication et justification convaincantes
+[18] La directive du juge Strayer dans l’arrêt Paynter mérite d’être citée :
+[8] Les questions essentielles que nous abordons le plus découlent de l’article 18.2 de la Loi sur la Cour canadienne de l'impôt, qui est ainsi rédigé :
+18.2 (1) La Cour ajourne l’audition d’un appel lorsqu’elle est convaincue qu’il serait difficilement réalisable d’y procéder à la date fixée, compte tenu de toutes les circonstances.
+(2) À la demande d’une des parties, la Cour peut accorder un ajournement si les autres parties y consentent ou encore s’il s’avère préférable de retarder l’audition jusqu’à ce qu’elle-même ou un autre tribunal canadien ait rendu jugement dans une affaire identique ou semblable. L.R. (1985), ch. 51 (4e suppl.), art. 5.
+[9] Pour ce qui est du paragraphe 18.2(1), on nous demande de déterminer que le juge en chef était tenu de conclure qu'il serait « difficilement réalisable » pour l'appel de se dérouler le 9 octobre 1996. Cela semble mettre en cause une question de droit ou une question mixte de droit ou de fait. Il faut se rappeler que la décision de la Cour de l'impôt abordée dans l'avis de requête introductif d'instance est celle du 27 septembre 1996 et que, dans le contrôle de cette décision, nous sommes limités aux faits dont était saisi à cette date le juge en chef. La lecture de la transcription révèle que l'argument de l'avocat selon lequel la tenue d'une audition le 9 octobre serait "difficilement réalisable" reposait uniquement sur le fait que ses services avaient été retenus seulement trois jours auparavant, probablement le 24 septembre 1996. On n'a nullement expliqué ce changement d'avocats inopportun, à l'exception de la déclaration selon laquelle [traduction] cela « était nécessaire pour que l'autre avocat se retire du dossier ». Il a donné diverses raisons pour lesquelles il serait impossible pour lui d'agir, à savoir les conséquences assez courantes découlant d'un tel bref délai de préparation. Le juge en chef a dit que la Cour n'accordait pas d'ajournements dans les procédures informelles sauf pour des [traduction] « motifs importants »
+[traduction] et le fait que vous avez reçu un mandat il y a seulement trois jours...ne constitue pas un motif important aux yeux de la Cour.
+[10] Compte tenu du fait que le juge en chef statuait sans préparation et oralement, nous interprétons cela comme signifiant que la simple explication selon laquelle il y a eu changement d'avocat peu de temps avant l'audition d'un appel ne rend pas, en soi, « difficilement réalisable » l'audition prévue. À notre avis, le juge en chef dit, non pas qu'un changement d'avocats tardif ne pourrait jamais rendre difficilement réalisable l'audition, mais que, sans justification, il ne pourrait être un facteur déterminant. Nous ne saurions dire qu'une telle interprétation de l'expression « difficilement réalisable » est erronée sur le plan juridique. À l'évidence, il n'y a pas lieu de l'interpréter de manière à inclure toute situation lorsqu'une partie a créé le problème même qui lui cause des difficultés de procédure. [Non souligné dans l’original.]
+[11] Pour ce qui est du pouvoir de la Cour d'accorder un ajournement prévu au paragraphe 18.2(2) lorsque, comme en l'espèce, l'autre partie y consent, nous estimons qu'il n'y a pas lieu d'intervenir dans le pouvoir discrétionnaire exercé par le juge en chef pour refuser l'ajournement. Encore en fois, on lui a demandé, dans la procédure qui fait maintenant l'objet du contrôle, d'accorder un ajournement pour une seule raison : le changements d'avocats inexpliqué et inopportun et ce que cela a entraîné logiquement. Nous ne voyons aucun mauvais principe sur lequel il s'est appuyé pour agir. Il a expressément fait état de la façon dont la Cour aborde les ajournements dans les procédures informelles, et nous considérons cela entièrement approprié. L'article 18.2 qu'il applique figure dans cette partie de la Loi qui porte sur la procédure informelle. Cette procédure prévoit clairement l'accélération des procédures pour les contribuables lorsque de petits montants sont en cause. Elle prévoit qu'une partie peut comparaître en personne ou être représentée par un représentant, c'est-à-dire sans avocats (art. 18.14). L'appel n'est assujetti à aucune condition de forme (art. 18.15). Les délais prévus pour le dépôt d'une réponse du ministre, pour la fixation par la Cour d'une date d'audition et pour le prononcé du jugement sont tous prescrits par la loi (art. 18.16, 18.17, 18.22). Ces dispositions précisent que de tels appels ne sont pas destinés à se dérouler à une petite allure choisie par les parties, mais qu'ils doivent être entendus normalement et tranchés avec célérité et méthodiquement. Cela non seulement colore le sens à donner à l'expression « difficilement réalisable » figurant au paragraphe 18.2(1), mais indique également la portée du pouvoir discrétionnaire que la Cour tient du paragraphe 18.2(2), celui de refuser des ajournements lors même que tous les avocats y consentiraient. [Non souligné dans l’original.]
+[19] La demande de contrôle judiciaire a été rejetée.
+Parties non représentées
+[20] La Cour d’appel fédérale a étudié la question dans l’arrêt Dionne c. Canada (Procureur général), 2003 CAF 451. Je juge utile de reproduire ces paragraphes :
+[7] Le demandeur demande à la Cour, par voie de contrôle judiciaire, d’annuler le jugement rendu pour le motif qu’il y aurait eu violation de son droit à une audience équitable. Il prétend, et je reprends ici le paragraphe 15 de son affidavit, que
+Le juge de la Cour canadienne de l’impôt, voyant que je ne comprenais pas le déroulement de la cour, aurait dû suspendre l’audition, et me permettre d’avoir accès à un avocat et/ou à un comptable agréé afin de revenir devant cette cour et refaire des représentations appropriées.
+[8] Le demandeur invite ni plus ni moins cette Cour à décider qu’un juge de la Cour canadienne de l’impôt a l’obligation, en vertu des règles de justice naturelle, d’ajourner un procès de sa propre initiative dès lors qu’un contribuable qui a choisi de ne pas se faire représenter se rend compte qu’il eût sans doute mieux fait de retenir les services d’un avocat.
+[9] Cette proposition est insoutenable. Le justiciable qui choisit de se représenter lui-même le fait à ses propres risques. Pour reprendre les mots du juge Pelletier dans Wagg c. Canada (Procureur général), 2003 CAF 303, au para. 25, « les plaideurs qui choisissent de se représenter eux-mêmes doivent accepter les conséquences de leur choix ». S’il est loisible à un juge de refuser une demande d’ajournement (voir Shurman c. la Reine, 2003 CAF 393), à plus forte raison ne saurait-il être tenu d’offrir de lui-même à un justiciable l’opportunité d’un ajournement de manière à permettre à ce dernier de « refaire » sa cause. [Non souligné dans l’original.]
+[10] Il est certain, comme l’indique le juge Pelletier au paragraphe 24 de ses motifs dans Wagg, que le juge du procès « doit s’en remettre à des considérations d’équité » s’il devient « manifestement évident » que le justiciable ne comprend pas « la matière suffisamment pour pouvoir aller de l’avant » et qu’il peut alors suspendre ou ajourner l’audience. Cela, toutefois, est affaire de discrétion et rien n’indique ici que le juge du procès ait exercé sa discrétion d’une manière qui appelle notre intervention.
+Exigences administratives du système judiciaire
+[21] Le juge Décary de la Cour d’appel fédérale a cité l’arrêt Wagg c. Canada (Procureur général), 2003 CAF 303, de la manière suivante au paragraphe 6 de l’arrêt Schurman c. Canada, 2003 CAF 393 :
+[…]
+[26] Les nécessités administratives du système judiciaire ne sauraient faire obstacle à une audience équitable, mais elles ne sont pas des considérations hors de propos lorsque vient le temps de décider ce qui est raisonnable eu égard aux circonstances. Il n’est pas dans l’intérêt de la justice que les juges soient inactifs et que les salles d’audience soient vides afin que les plaideurs puissent faire ce qu’ils étaient tenus de faire avant que leur cause ne soit appelée. Il ne peut en résulter que des délais dans la liquidation des affaires dont les tribunaux sont saisis, outre que les autres plaideurs doivent attendre encore davantage l’audition de leurs causes et que les coûts de fonctionnement du système judiciaire s’accroissent.
+[22] Je me hâte d’ajouter que le juge Décary a ensuite formulé les observations suivantes :
+[7] Les termes suivants que le juge Hugessen de la Cour d’appel fédérale a employés dans l’arrêt Adams c. Canada (Gendarmerie royale), (1994) 174 N.R. 314 (C.A.F.), sont particulièrement appropriés pour la présente affaire :
+Le temps est révolu où les tribunaux pouvaient accorder aux plaignants le luxe de se tenir à leur service. Les tribunaux, qui sont des institutions publiques chargées du règlement des litiges, nécessitent une dépense considérable de fonds publics. La congestion des tribunaux et les retards qui s’ensuivent constituent un grave problème pour le public. Aussi les parties qui engagent des procédures, à quelque niveau que ce soit, avec l’intention de les [traduction] _ tenir en suspens _ pour servir leurs propres fins pourront avoir à répondre de leur gaspillage et de leur abus d’une ressource publique. Elles s’exposent également au rejet de leur affaire. (p. 317 et 318).
+[23] Le juge Bowie a formulé plusieurs remarques dans ce sens dans la décision Solomons c. La Reine, 2003 CanLII 604, [2003] 2 C.T.C. 2268 :
+[5] Certains ajournements sont nécessaires dans l’intérêt de la justice pour cause de facteurs qui ne sont ni prévisibles, ni évitables. Les gens peuvent tomber malades, les témoins peuvent parfois justifier leur absence, d’autres procès peuvent empêcher les parties ou leur avocat de se présenter à l’heure fixée. Toutefois, il n’en est pas ainsi dans le cas présent. Je comprends qu’il y avait peut-être des négociations visant un règlement qui se sont poursuivies jusqu’à la fin de la semaine passée. Cela se produit souvent, mais il incombe aux parties et à leurs avocats d’être prêts à présenter leur cause à la date établie. C’est pour faciliter la tâche des avocats et des parties que cette cour fixe les dates des procès des mois à l’avance, afin de leur éviter d’avoir à comparaître très rapidement comme c’est le cas dans d’autres cours. Le revers de la médaille, c’est qu’ils doivent faire ce qu’il faut pour être prêts à la date fixée. Les parties qui décident de mener leurs propres affaires sans avocat dans l’espoir de parvenir à un règlement avant le procès s’exposent au risque d’avoir à comparaître sans avocat. Elles ne peuvent s’attendre à ce que la Cour leur accorde un ajournement, gaspillant ainsi les ressources de la Cour pour le temps alloué à leur cause, sous prétexte que les négociations en vue d’un règlement ont échoué. Cette cour a un arriéré considérable d’appels selon la procédure informelle qui attendent des dates d’audience à Toronto. On pourrait profiter de chaque journée gaspillée pour statuer sur trois ou quatre de ces affaires. La raison proposée par l’appelant pour demander l’ajournement de ce procès ne pèse pas lourd dans la balance, comparativement à l’intérêt public dans une utilisation efficace des ressources de la Cour, qui comprend notamment la fixation de dates d’audience pour les appelants dont la cause figure dans l’arriéré des affaires selon la procédure informelle […] [Non souligné dans l’original.]
+Conclusion [24] Notre analyse de la jurisprudence mène à la conclusion que les parties, dans bien des cas, sont tenues à une obligation très stricte de prendre les mesures voulues dans le délai qui leur est imparti pour se préparer pleinement, et qu’un manque de compréhension attribuable soit à un manque de diligence à l’étape de la préparation, soit à l’omission de solliciter de l’aide en début d’instance, sera vu d’un mauvais œil. En l’espèce, rien ne justifie l’ajournement. Permettre à l’appelant d’invoquer comme justification son propre manque de diligence au cours des derniers mois reviendrait à récompenser un plaideur qui n’a pas agi adéquatement en temps utile.
+[25] L’intimé n’a pas demandé l’adjudication de dépens; au vu de l’issue de l’appel, chaque partie assumera donc ses propres dépens.
+Signé à Toronto (Ontario), ce 4e jour de décembre 2023.
+« Gilles Renaud »
+Le juge suppléant Renaud
+RÉFÉRENCE :
+2023 CCI 162
+NO DU DOSSIER DE LA COUR :
+2015-2197(IT)I
+INTITULÉ :
+RYAN HUE c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 novembre 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Gilles Renaud
+DATE DU JUGEMENT :
+4 décembre 2023
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Robert Zsigo
+Me Mitchell Meraw
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

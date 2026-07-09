@@ -1,0 +1,74 @@
+Title: Gagnon c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26454/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-551-26454-gagnon-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-09-01
+
+# Gagnon c. La Reine
+
+- Citation: 2004 CCI 551
+- Decision date: 2004-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3139, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagnon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-01
+Référence neutre
+2004 CCI 551
+Numéro de dossier
+2002-2240(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI551
+Date : 20040901
+Dossier : 2002-2240(IT)I
+ENTRE :
+PIERRE GAGNON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement sur le banc le 30 mai 2003 à Québec (Québec) et révisés à Ottawa, Canada, le 31 août 2004.)
+Le juge Paris
+[1] L'appelant interjette appel à l'encontre des nouvelles cotisations en date du 22 février 2002 pour ses années d'imposition 1998, 1999 et 2000 et à l'encontre de la cotisation initiale en date du 13 mai 2002 pour son année d'imposition 2001. Par ces cotisations, le ministre du Revenu national a refusé à l'appelant la déduction, dans le calcul de son revenu, des montants de pension alimentaire qu'il a versés à son ex-conjointe. Ces sommes étaient de 7 410 $ en 1998, de 7 706 $ en 1999, de 7 996 $ en 2000 et de 8 196 $ en 2001.
+[2] La première question en litige est de savoir si l'appelant a payé la pension alimentaire en vertu d'un jugement rendu par la Cour supérieure du Québec le 3 avril 1987 ou en vertu d'un deuxième jugement de la même Cour en date du 11 octobre 1988.
+[3] Selon l'alinéa 60c.1) de la Loi de l'impôt sur le revenu, les paiements de pension alimentaire faits en vertu d'une ordonnance rendue par un tribunal compétent après le 10 février 1988 et avant 1993 seraient déductibles dans le calcul du revenu du payeur. Par contre, les paiements faits en vertu d'une ordonnance rendue par un tribunal compétent avant le 11 février 1988 seraient déductibles seulement si le payeur et le bénéficiaire avaient fait un choix à cet effet, ce qui n'est pas le cas ici.
+[4] Les deux jugements en question de la Cour supérieure ont été produits sous les cotes I-9 et I-10, et une convention conclue entre l'appelant et son ex-conjointe le 30 août 1988 a été produite sous la cote I-11.
+[5] Le premier jugement a condamné l'appelant à payer à son ex-conjointe une pension alimentaire de 447,61 $ par mois pour sa fille pour une période d'un an à compter du 1er novembre 1986 et de 385 $ par mois par la suite. En même temps, le jugement établissait de façon provisoire le droit de visite de l'appelant à l'égard de sa fille.
+[6] Le deuxième jugement entérinait une convention conclue entre l'appelant et son ex-conjointe. La partie pertinente du deuxième jugement est rédigée comme suit :
+Donne acte aux parties de leur convention en date du 10 août 1988, L'ENTÉRINE et la DÉCLARE EXÉCUTOIRE pour valoir comme si chacune des clauses en était ici au long récitée et ORDONNE aux parties de s'y conformer.
+[7] La convention même énonce en préambule les circonstances du premier jugement et le fait que les parties avaient eu recours à la conciliation et qu'elles en sont venues à une entente, dont les termes s'étendent sur trois pages.
+[8] Pour la plupart, les stipulations de la convention portent sur la question de l'accès qu'aurait l'appelant à sa fille, mais le paragraphe 2 prévoyait que l'ex-conjointe aurait la garde de leur fille et le paragraphe 5 prévoyait que l'appelant devait remettre à son ex-conjointe la somme de 385 $ par mois comme pension alimentaire.
+[9] L'appelant soutient que le jugement du 11 octobre 1988 a fixé son obligation de verser la pension alimentaire à son ex-conjointe et a aussi déterminé ses droits d'accès et de visite à l'égard de sa fille. Selon lui, ce deuxième jugement a eu pour effet plutôt de remplacer entièrement le premier jugement du 3 avril 1987 que d'y apporter certaines modifications.
+[10] Il fait remarquer que le premier jugement prévoit que :
+La présente ordonnance demeurera en vigueur tant et aussi longtemps que les parties n'en seront pas venues à une entente modifiant les modalités ci-haut prévues.
+[11] Et l'appelant souligne que la convention qu'il a conclue avec son ex-conjointe le 30 août 1988 traite de la question de la pension alimentaire qu'il devait verser, et ce, non seulement dans son préambule mais aussi dans ses conditions mêmes.
+[12] En effet le paragraphe 5 indique que :
+L'intimé remettra à la requérante le premier de chaque mois une rente alimentaire au montant de 385,00 $ pour le bénéfice et l'entretien de sa fille mineure Sarah, laquelle rente sera indexable à chaque année suivant la Loi.
+[13] L'avocat de l'intimée prétend que l'obligation de payer la pension alimentaire établie par le premier jugement n'a pas été modifiée par le deuxième. Il soutient que le fait que le préambule de la convention du 30 août fait référence à l'obligation existante de l'appelant concernant la pension alimentaire et le fait que le préambule était incorporé dans la convention mènent à la conclusion que la source de l'obligation n'a pas changé, que cette source était toujours le premier jugement.
+[14] L'avocat de l'intimée fait valoir que le témoignage de madame Dubord que les parties entendaient par la convention du 30 août 1988 régler seulement la question des droits d'accès et de visite appuie la position que la convention et le deuxième jugement n'ont pas modifié l'obligation primitive en matière de pension alimentaire.
+[15] L'avocat de l'intimée a fait référence à la décision de cette Cour dans la cause Hill c. La Reine, [1993] A.C.I. no 317. Dans cette cause, l'appelante s'opposait à ce que soient inclus dans son revenu certains montants de pension alimentaire. Jusqu'au 27 juin 1990, l'appelante recevait une pension alimentaire de 225 $ par mois qui n'était pas imposable. Au 27 juin 1990, une nouvelle ordonnance a été rendue qui augmentait la pension alimentaire à 450 $ par mois. La Cour dans cette cause devait décider si l'ordonnance du 27 juin avait eu pour effet de supprimer le droit à la pension alimentaire découlant des ordonnances précédentes ou si elle avait eu pour effet d'augmenter le montant payable, sans changer le fondement des ordonnances antérieures.
+[16] Le juge Rowe a conclu que puisque la Cour a ordonné par la nouvelle ordonnance le paiement d'un certain montant, tout le montant était payable en vertu de la nouvelle ordonnance non seulement la partie qui représentait une augmentation de la pension. Le fait de fixer le montant dans la nouvelle ordonnance a eu pour effet de créer un nouveau droit et obligation au montant indiqué. Une nouvelle ordonnance qui traite du même sujet ou matière qu'une ordonnance antérieure est considérée avoir remplacé l'ordonnance antérieure et devient par la suite le fondement légal de l'obligation.
+[17] En l'espèce, le deuxième jugement de la Cour supérieure représente une nouvelle ordonnance en matière de pension alimentaire, même si le montant de l'obligation est resté au même niveau qu'avant. Dès le 11 octobre 1988, la pension alimentaire était payée en vertu de ce jugement.
+[18] À mon avis, cette conclusion découle aussi du fait que les parties à la convention du 30 août 1988 ont traité de façon exhaustive des questions de la garde, du droit de visite et de la pension alimentaire au lieu de demander simplement des modifications au jugement antérieur.
+[19] En ce qui concerne l'année d'imposition 2001, l'avocat de l'intimée soutient que, étant donné que la fille de l'appelant avait atteint l'âge de 18 ans en décembre 2000, celui-ci n'était plus dans l'obligation de verser la pension alimentaire. Il base cet argument sur le paragraphe 5 de la convention du 30 août 1988, auquel la Cour a déjà fait référence.
+[20] L'avocat de l'intimée prétend que la pension alimentaire était payable à condition que la fille de l'appelant soit mineure, et qu'à son dix-huitième anniversaire l'obligation a pris fin.
+[21] Je ne suis pas convaincu que l'utilisation du mot « mineure » au paragraphe 5 reflétait une intention des parties de limiter le versement de la pension alimentaire de cette façon.
+[22] Enfin, la preuve démontre que l'appelant s'est considéré comme obligé de verser les montants de pension alimentaire même après que sa fille a eu atteint sa majorité. Madame Dubord n'a pas témoigné à ce sujet.
+[23] Alors, en ce qui concerne l'intention des parties, la preuve n'appuie pas l'argument de l'intimée et j'en tire la conclusion que l'obligation de payer la pension alimentaire subsistait en 2001.
+[24] Pour tous ces motifs, l'appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2004.
+« B. Paris »
+Le juge Paris

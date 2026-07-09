@@ -1,0 +1,269 @@
+Title: Trower c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/367571/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-77-367571-trower-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-04-08
+
+# Trower c. La Reine
+
+- Citation: 2019 CCI 77
+- Decision date: 2019-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4326, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trower c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-04-08
+Référence neutre
+2019 CCI 77
+Numéro de dossier
+2018-927(IT)I
+Juges et Officiers taxateurs
+Siobhan Monaghan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-927(IT)I
+ENTRE :
+SALLY TROWER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 janvier 2019, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge K.A. Siobhan Monaghan
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Max Kruger
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+L’appel interjeté à l’encontre d’une nouvelle cotisation établie aux termes de la Loi de l’impôt sur le revenu pour l’année d’imposition 2016 de l’appelante est accueilli sans dépens et déféré au ministre du Revenu national aux fins de réexamen et de nouvelle cotisation, pour le motif que le montant de 58 900 $ ne devrait pas être ajouté comme dividende imposable au revenu de l’appelante pour l’année d’imposition 2016.
+Signé à Ottawa, Canada, ce 8e jour d’avril 2019.
+« K.A. Siobhan Monaghan »
+La juge Monaghan
+Référence : 2019 CCI 77
+Date : 20190408
+Dossier : 2018-927(IT)I
+ENTRE :
+SALLY TROWER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Monaghan
+I. INTRODUCTION
+[1] Sally Trower interjette appel d’une cotisation du 23 octobre 2017 qui a été confirmée par le ministre du Revenu national, le 10 janvier 2018, par suite de l’avis d’opposition de Mme Trower. La cotisation fait état d’un dividende imposable de 58 900 $ inclus dans le revenu touché par Mme Trower en 2016 selon un feuillet T5 déposé par Cove BD Inc. (Cove), lequel indique que la société a payé des dividendes de 50 342 $ à Mme Trower en 2016. Mme Trower soutient qu’elle n’a pas reçu de dividendes de Cove en 2016.
+II. QUESTION EN LITIGE
+[2] Dans le présent appel, la Cour est appelée à décider si Mme Trower a reçu des dividendes de Cove en 2016 et, le cas échéant, à déterminer le montant des dividendes reçus.
+[3] Il n’y a pas de réel désaccord entre les parties en ce qui concerne la grande majorité des faits présumés par le ministre à l’établissement de la cotisation. Cependant, Mme Trower conteste la présomption du ministre selon laquelle [traduction] « pendant l’année d’imposition 2016, BD [Cove] a payé à l’appelante un dividende de 50 342 $ qui représente un montant imposable de 58 900 $ ». Il incombe à Mme Trower de réfuter cette hypothèse de fait. Pour l’emporter sur ce point, elle doit donc me convaincre, selon la prépondérance des probabilités, qu’elle n’a pas reçu de dividendes de Cove en 2016.
+[4] Comme je l’ai déjà mentionné, Cove a préparé et déposé un feuillet T5 indiquant qu’un dividende avait été payé à Mme Trower en 2016, alors il n’est pas surprenant, d’une part, que cette cotisation ait été établie pour Mme Trower et, d’autre part, que le ministre en a fait une hypothèse de fait. Évidemment, l’information que contient le feuillet T5 n’établit pas en elle-même qu’un dividende a été payé ou reçu ni qui l’a payé ou reçu. Ce feuillet est une déclaration, vraisemblablement préparée de bonne foi d’après l’évaluation qu’une personne a faite des faits pertinents. Cependant, ce feuillet ne constitue pas un facteur déterminant quant à la question en litige. Si l’on peut établir, par d’autres éléments de preuve, qu’aucun dividende n’a été payé à Mme Trower en 2016 ou qu’elle a reçu des dividendes d’un montant différent de celui qu’indique le feuillet T5, ce dernier perd toute pertinence dans le calcul du revenu de madame.
+III. RÉSUMÉ
+[5] Mme Trower habite en Nouvelle-Écosse et est mariée à M. Alistair Trower depuis environ 20 ans. Ils se sont séparés à l’automne 2015 et ne vivent plus ensemble depuis. Ils ont deux enfants, dont l’un a des besoins spéciaux.
+[6] Cove est une société constituée et régie aux termes de la Companies Act de la Nouvelle-Écosse (la NSCA) [1] . Son année d’imposition se termine le 31 décembre. Bien que M. Trower soit actuellement l’unique actionnaire de Cove, avant le 2 octobre 2016 [2] , Mme Trower en était aussi actionnaire. Mme Trower détenait alors 49 % des actions de Cove et M. Trower, 51 %. Mme Trower était également une administratrice de Cove avant le 2 octobre 2016 [3] , mais lorsqu’elle a démissionné, M. Trower est devenu l’unique administrateur de la société.
+[7] M. et Mme Trower ont tous deux témoigné à l’audience. Bien qu’il soit évident que leur relation est tendue, le témoignage de M. Trower, à bien des égards, a corroboré la principale déclaration de Mme Trower, à savoir qu’elle n’a pas reçu de dividendes de Cove en 2016. Mme Trower avait également plusieurs documents pour appuyer sa version des événements. D’après les éléments de preuve, je conclus que Mme Trower n’a pas reçu de dividendes de Cove en 2016 et que, par conséquent, son appel devrait être accueilli.
+IV. PREUVE
+[8] Je me penche maintenant sur la preuve afin d’expliquer pourquoi je suis arrivée à cette conclusion.
+[9] M. et Mme Trower ont passé une importante partie de l’année 2016 à négocier les conditions de leur séparation. Ils ont échangé beaucoup de courriels et de projets d’accord de séparation traitant de nombreux aspects de leurs arrangements financiers. Cependant, Mme Trower a continué de dresser les budgets mensuels du ménage, comme elle le faisait durant leur mariage.
+[10] Mme Trower a expliqué qu’ils avaient plusieurs comptes bancaires : celui de Cove, le compte de chèques conjoint de M. et Mme Trower et leurs comptes personnels respectifs. Le budget mensuel prévoyait le dépôt dans le compte conjoint de fonds servant à payer diverses dépenses reliées aux propriétés qu’ils possédaient, au remboursement de dettes, aux frais de scolarité et de camp, à l’essence, à la nourriture, aux vêtements, etc. Il prévoyait également des dépôts dans leurs comptes personnels.
+[11] Les fonds provenaient principalement de Cove, l’entreprise exploitée par M. Trower. Bien que Mme Trower ait démarré une entreprise dans les années d’imposition précédant leur séparation, elle en a tiré un revenu et un flux de trésorerie plutôt modestes pendant les années d’imposition 2015 et 2016.
+[12] Il est évident que des fonds ont été virés directement du compte bancaire de Cove dans le compte conjoint et dans les comptes personnels de M. et Mme Trower. Mme Trower a présenté des relevés du compte bancaire de Cove pour la période du 24 décembre 2015 au 26 août 2016, de même qu’un imprimé des relevés Web du compte conjoint pour la période du 31 décembre 2015 au 30 décembre 2016. La comparaison de l’information fournie pour ces deux comptes montre une constante de paiements :
+Date
+Montant pour le compte de Cove
+(débits/retraits)
+Montant pour le compte conjoint
+(dépôts)
+30 décembre 2015
+8 500 $
+8 500 $
+1er février 2016
+8 500 $
+8 500 $
+29 février 2016
+8 000 $
+8 000 $
+31 mars 2016
+8 500 $
+8 500 $
+29 avril 2016
+9 000 $
+9 000 $
+31 mai 2016
+10 000 $
+10 000 $
+30 juin 2016
+8 500 $
+8 500 $
+1er août 2016
+8 500 $
+8 500 $
+[13] Mme Trower n’avait aucun relevé du compte bancaire de Cove pour la période suivant le 26 août 2016. Cependant, en fonction d’un examen des relevés du compte conjoint pour l’année 2016, il semble que d’autres virements mensuels ont été effectués pendant les trois mois qui ont suivi : 6 092 $ le 31 août 2016, 5 679 $ le 30 septembre 2016 et 5 686 $ le 31 octobre 2016. (Je constate que, dans la colonne de description des relevés du compte conjoint, chacun des dépôts décrits dans le tableau et dans le présent paragraphe porte la mention « WWW #RD PTY DEP ». L’information que M. Trower a fournie à Tyler Dougan, le comptable de Cove, dans un courriel de février 2017 détaillé ci-après, corrobore également cette déduction.)
+[14] Ces éléments de preuve permettent donc d’établir que Cove a viré 78 457 $ [4] dans le compte conjoint en 2016.
+[15] Comme il a été indiqué, Cove a également viré des fonds directement dans les comptes personnels respectifs de M. et Mme Trower. Bien que les relevés des comptes personnels n’aient pas été mis à la disposition de la Cour, des courriels échangés entre Tyler Dougan et M. Trower ont été déposés comme éléments de preuve. Dans un courriel, M. Dougan résume plusieurs virements effectués à partir du compte bancaire de Cove entre le 31 août 2016 et le 3 décembre 2016. Ce résumé montre un total de 7 550,91 $ virés directement dans le compte personnel de M. Trower et un total de 2 976,77 $ virés dans celui de Mme Trower.
+[16] Cependant, la nature de l’un ou l’autre de ces paiements ne peut être déterminée par le simple fait que des virements ont été effectués. Par exemple, il aurait pu s’agir d’avances de fonds, de prêts, de frais de consultation, du revenu d’emploi de M. Trower, de remboursements de capital sur des actions, de dividendes, du remboursement de dépenses ou d’avances aux actionnaires, etc. Par conséquent, pour déterminer si l’un ou l’ensemble de ces paiements étaient des dividendes, il faut examiner d’autres éléments de preuve.
+[17] Mme Trower a déclaré qu’en 2016, elle avait constamment avisé M. Trower qu’elle ne voulait pas avoir affaire à Cove et qu’un partage des revenus ne l’intéressait pas. Elle a expliqué que l’année précédente, elle avait accepté le partage des revenus, réalisé au moyen d’un dividende qui lui avait été versé par Cove, mais qu’à ce moment, elle ne comprenait pas qu’il lui fallait payer de l’impôt en raison de ce partage. Lorsqu’elle l’a compris, elle n’a plus souhaité recevoir des dividendes et en a informé M. Trower. Un projet d’accord de séparation et des courriels échangés entre M. et Mme Trower et entre Mme Trower et M. Dougan concordent avec son témoignage. Dans les courriels envoyés à M. Trower et à M. Dougan, Mme Trower réaffirme à maintes reprises sa position, à savoir qu’elle ne veut pas du partage des revenus, qu’elle ne veut pas recevoir de dividendes et qu’elle juge avoir convenu avec M. Trower qu’elle ne recevrait pas de dividendes.
+[18] Elle a expliqué que deux raisons motivaient sa position. Essentiellement, elle était préoccupée par le fait qu’en touchant tout revenu supplémentaire, elle risquerait de compromettre les prestations destinées à leur enfant qui a des besoins spéciaux. Elle a exprimé cette préoccupation dans des courriels envoyés à M. Trower en 2016. Cependant, alors que leur mariage tirait à sa fin, elle ne voulait pas avoir affaire à Cove, et elle déclarait en savoir très peu à son sujet, même si elle en était actionnaire et administratrice.
+[19] M. Trower n’a pas contesté que Mme Trower lui avait dit à plusieurs reprises qu’elle ne voulait aucun dividende. Cependant, il soutient que Mme Trower aurait dû comprendre que, puisqu’ils avaient partagé les revenus des années précédentes au moyen de dividendes, les revenus seraient aussi partagés en 2016. Il a affirmé que, puisqu’ils sont tous deux actionnaires, ils devaient tous les deux recevoir des dividendes et que, puisque Mme Trower avait pleinement accès aux fonds de leur compte conjoint, les fonds que Cove y déposait devaient être traités comme des dividendes destinés à madame (et sans doute à monsieur également).
+[20] Évidemment, le fait que des fonds ont été déposés dans le compte conjoint ne signifie pas qu’il s’agit d’un revenu pour Mme Trower ni pour M. Trower. Bien qu’il soit vrai que les deux titulaires du compte conjoint peuvent avoir accès aux fonds, cela ne détermine pas la nature des fonds qui y sont déposés.
+[21] Par ailleurs, Mme Trower déclare qu’elle avait compris que les fonds que Cove virait dans les comptes constituaient le revenu d’emploi de M. Trower. Ce dernier a fait valoir qu’il n’avait reçu aucun revenu d’emploi de Cove et que les fonds virés étaient tous des dividendes. De toute évidence, les Trower ne s’entendent pas sur les faits pertinents.
+[22] Cependant, bien que les parties ne s’entendent pas sur la nature des paiements effectués par Cove en 2016, il ressort clairement des éléments de preuve que :
+(i) la décision finale touchant le partage des revenus et la raison justifiant ce partage n’a été prise qu’à la fin de février 2017;
+(ii) cette décision a été prise uniquement par M. Trower, en consultation avec M. Dougan et malgré les protestations de Mme Trower; et
+(iii) la résolution approuvant le paiement de « dividendes » a été préparée et signée en 2017, et seulement par M. Trower, qui était à ce moment l’unique administrateur et actionnaire de Cove.
+[23] M. Trower a admis le troisième point dans son témoignage. En fait, pendant son témoignage, il a dit à Mme Trower que les dividendes sont toujours effectués rétrospectivement. Je ne suis évidemment pas d’accord avec cette déclaration. Si je me fie à mon expérience, les dividendes sont déclarés un jour en particulier et doivent être payés, le jour même ou ultérieurement, aux actionnaires inscrits à une date précise, laquelle peut être la date de déclaration, la date de paiement ou une autre date [5] .
+[24] Ces faits sont étayés par divers courriels déposés comme éléments de preuve et par une bonne partie du témoignage de Mme Trower. Par exemple, le 14 février 2017, M. Dougan a envoyé à M. Trower un courriel dans lequel il lui posait quelques questions sur l’activité bancaire de 2016. M. Trower y a répondu en insérant ses réponses directement dans le courriel de M. Dougan. Ses réponses sont imprimées en caractères gras dans les passages suivants de ce courriel :
+[traduction]
+Bonjour Alistair,
+J’aurais quelques questions à vous poser concernant l’activité de 2016 :
+1. Deux paiements de 1 600 $ chacun ont été effectués à partir du compte 306-9, le 15 novembre et le 16 décembre. Pouvez-vous en confirmer le motif?
+Dividendes qui m’ont été payés pour couvrir une mensualité d’impôt personnel payable à l’ARC (de l’année dernière)
+2. J’aurais besoin d’une confirmation pour plusieurs paiements effectués dans le compte 300-2. Pouvez-vous les confirmer pour moi?
+Date
+Montant
+Commentaire
+30 sept.
+985,00 $
+Virement à Sally Trower (Dividende)
+31 août
+915,00 $
+Virement à Sally Trower (Dividende)
+31 août
+1 440,00 $
+Virement au compte personnel (Dividende)
+30 sept.
+1 801,00 $
+Virement au compte personnel (Dividende)
+30 sept.
+5 679,00 $
+Virement au compte conjoint (Dividende)
+17 oct.
+1 200,00 $
+Virement au compte personnel (Dividende)
+31 oct.
+250,00 $
+Virement au compte personnel (Dividende)
+31 oct.
+500,00 $
+Virement au compte personnel (Dividende)
+31 oct.
+1 076,77 $
+Virement à Sally Trower (Dividende)
+31 oct.
+1 759,91 $
+Virement au compte personnel (Dividende)
+31 oct.
+5 686,00 $
+Virement au compte conjoint (Dividende)
+31 août
+6 092,00 $
+Virement au compte conjoint (Dividende)
+3 déc.
+600,00 $
+600,00 $ virés au compte personnel le 23 déc. (Dividende)
+3. [...]
+4. Pouvez-vous confirmer le montant total des dividendes versés par Cove auquel vous arrivez pour 2016?
+Pas avant que vous ne me le disiez! Mais le montant devrait tourner autour des 110 000 $.
+5. [...]
+[Montants non écrits en italique ni soulignés dans l’original.]
+[25] Les montants soulignés et écrits en italique sont ceux qui se trouvent dans les relevés du compte conjoint et qui ont été déclarés par Mme Trower comme des montants virés par Cove. La liste qui précède inclut également des montants virés directement du compte bancaire de Cove dans le compte de Mme Trower [6] ou de M. Trower [7] . Dans ce courriel, M. Trower informe M. Dougan que les montants virés dans le compte de Mme Trower le 31 août, le 30 septembre et le 31 octobre 2016 [8] sont des dividendes payés à Mme Trower.
+[26] Ce qui est plus révélateur, c’est le courriel que M. Dougan a envoyé à M. Trower le 15 février 2017. Il contient les passages suivants :
+[traduction]
+J’ai ces estimations à vous fournir :
+Impôt sur les bénéfices de la société
+[...]
+Impôt personnel
+Le total des dividendes pour 2016 s’élève à 100 000 $. J’ai préparé deux scénarios pour le paiement de votre impôt personnel, le premier où vous déclarez la totalité des revenus et le second, où Sally et vous en déclarez 50 % chacun. J’obtiens les résultats suivants :
+– Alastair 100 % : 21 385 $
+– 50/50 impôts combinés : 11 822 $
+En partageant les dividendes en parts égales, et en supposant qu’aucun de vous ne touche d’autres revenus, vous économiserez environ 9 500 $.
+Veuillez m’indiquer si vous voulez partager les dividendes et je préparerai les feuillets T5 et vous enverrai les documents définitifs [...].
+[Non souligné dans l’original.]
+[27] Ce courriel parle de lui-même. M. Dougan demande à M. Trower s’il veut, lui, partager les dividendes à la lumière des calculs effectués par M. Dougan. Il est donc évident que la décision de définir les montants payés par Cove en 2016 comme des dividendes versés à Mme Trower n’a pas été prise avant le 15 février 2017. En fait, comme il est décrit ci-dessous, il semble que cette décision ait été prise le 28 février 2017.
+[28] Le 17 février 2017, M. Trower a transféré à Mme Trower le courriel qu’il avait reçu de M. Dougan le 15 février 2017, accompagné d’un courriel dans lequel il l’informe que M. Dougan [traduction] « suggère de t’inclure dans les dividendes de l’année 2016, étant donné que tu étais toujours actionnaire ». M. Trower semble ainsi demander à Mme Trower d’accepter ce traitement des dividendes et lui dire que c’est une suggestion de la part de M. Dougan. Mme Trower lui a répondu le même jour en indiquant qu’elle avait reçu 2 949 $ directement et qu’elle était préoccupée par l’impôt qu’elle aurait à payer.
+[29] Dans son courriel du 15 février 2017, M. Dougan a supposé que ni M. Trower ni Mme Trower n’avait touché un revenu autre que les « dividendes ». Le 21 février 2017, M. Trower demande à M. Dougan de vérifier une autre possibilité en prenant en considération le revenu de 2016 de Mme Trower, estimé à 12 000 $. Le 22 février 2017, M. Dougan lui présente une estimation de l’impôt à payer si 55 % du dividende était attribué à M. Trower et 45 % à Mme Trower. Dans ce scénario, le montant estimatif de l’impôt que Mme Trower devrait payer dépasse celui de M. Trower d’environ 2 600 $. M. Trower transfère ce courriel à Mme Trower le 22 février 2017, l’informant qu’il serait heureux de budgétiser le paiement de [traduction] « ceci », ce que je crois signifier l’impôt que Mme Trower aurait à payer sur les dividendes selon cette proposition. Mme Trower répond le même jour en indiquant qu’elle croyait qu’ils avaient convenu de produire sa déclaration de revenus en fonction d’un revenu de 12 000 $ et qu’elle ne comprenait pas pourquoi elle était incluse dans le paiement de dividendes de Cove. M. Trower lui répond le 28 février 2017 en l’informant de l’échéance à respecter pour le feuillet T5.
+[30] Dans sa réponse, elle résiste encore : [traduction] « Je n’ai pas d’argent pour payer tes dividendes et nous avions, selon ce que j’avais compris, [sic] je ne payais pas de dividendes en 2016 [...] ». Bien que M. Trower informe ensuite Mme Trower qu’il ne lui demande pas de payer l’impôt et qu’il lui offre de le payer, rien ne prouve que Mme Trower ait accepté cet arrangement, si ce n’est que M. Trower a déclaré qu’elle devait avoir compris qu’il en serait ainsi, vu les arrangements de l’année précédente.
+[31] Outre les autres éléments de preuve résumés ci-dessus, le courriel que M. Dougan a envoyé à Mme Trower le 24 octobre 2017, en réponse à un courriel dans lequel elle indique qu’il a fait erreur en lui attribuant les dividendes, est clair :
+[traduction]
+Pendant que je préparais la fin de l’exercice 2016 pour Cove BD, Alastair et moi avons discuté de la possibilité de partager les revenus, dans le seul but d’épargner à la famille l’impôt qui s’y rapportait. Les feuillets T5 devaient être produits au plus tard le 28 février et je crois qu’à ce moment, vous faisiez un voyage en Afrique. J’ai reçu des directives [de M. Trower] et produit des feuillets T5 indiquant le partage des revenus et, selon ce que j’avais compris, [M. Trower] assumerait l’impôt que vous auriez à payer sur les revenus de dividendes. Remarquez que je n’ai pas pris, et que je n’aurais pas pris, la décision ultime quant à la façon de produire les feuillets T5, surtout dans ces circonstances.
+[Non souligné dans l’original.]
+[32] M. Dougan confirme qu’il a reçu des directives de M. Trower en février 2017. Les feuillets T5 ont été préparés, en tenant pour acquis que M. et Mme Trower avaient chacun reçu des dividendes de 50 342 $, et ont apparemment été produits au plus tard le 1er mars 2017 [9] .
+[33] Mme Trower a déclaré qu’elle avait reçu le feuillet T5 seulement en octobre 2017, compris dans la documentation sur leur accord de séparation reçue de l’avocat de M. Trower. Bien que M. Trower ne l’ait pas confirmé, il a exprimé quelques regrets pendant son témoignage, en disant qu’en raison de ce qu’il décrit comme une erreur administrative, le feuillet T5 n’a pas été envoyé en temps opportun à Mme Trower. Deux feuillets T5 portant le nom de Mme Trower ont été mis à la disposition de la Cour pendant l’audience, chacun indiquant une adresse différente. Le premier porte l’adresse de Cove, laquelle, si je comprends bien, est l’adresse du domicile de M. Trower, qui était auparavant la résidence familiale. Le second feuillet porte une adresse différente : celle du domicile de Mme Trower. Enfin, les courriels envoyés par Mme Trower en octobre 2017 font référence à sa surprise à la réception du feuillet T5.
+[34] D’après les éléments de preuve, je conclus que Mme Trower n’a pas reçu le feuillet T5 produit en son nom avant l’automne 2017. Cependant, tout comme la réception d’un feuillet T5 n’établit pas en soi la réception d’un dividende, la non-réception d’un feuillet T5 ne veut pas dire que Mme Trower n’a pas reçu de dividende ni qu’elle est libérée de sa dette fiscale, si elle a effectivement reçu des dividendes.
+V. DROIT COMMERCIAL
+[35] Alors, qu’est-ce que tout cela signifie? Il est bien établi que l’analyse fiscale découle des relations commerciales, en l’absence d’une disposition législative requérant ou permettant que la relation commerciale soit écartée. Comme le juge Robertson l’a affirmé dans la décision Dale c. Canada [10] :
+Il ne fait pas non plus de doute que les tribunaux insistent sur le respect des formalités d’origine juridique ou législative lorsque certains avantages fiscaux sont accordés. Je ne veux pas laisser entendre que la norme à respecter par le contribuable est une norme de «perfection». Dans l’arrêt Stubart Investments Ltd. c. The Queen, 1984 CanLII 20 (CSC), [1984] 1 R.C.S. 536, la Cour suprême du Canada a reconnu que certaines irrégularités pouvaient n’avoir aucune conséquence [...]
+Pour déterminer si une opération juridique sera reconnue aux fins de l’impôt, il faut examiner le droit du ressort où l’opération est effectuée. Souvent, cette décision sera prise sans l’aide de précédents traitant exactement de la même question et, par conséquent, l’effet d’une opération peut dépendre uniquement de l’application appropriée de principes généraux de common law et d’equity. Dans certains cas, la Cour de l’impôt devra interpréter les lois d’une province.
+[36] La NSCA demeure un règlement de société basé sur un acte d’association. Par conséquent, à la différence de nombreux statuts constitutifs modernes [11] , la NSCA ne confère pas explicitement le pouvoir de gestion aux administrateurs d’une société, bien que les statuts leur confèrent généralement ce pouvoir [12] . L’acte et les statuts d’association de Cove n’ont pas été déposés en preuve. Cependant, comme il est décrit ci-dessus, M. Trower a déclaré avoir signé une résolution administrative approuvant les dividendes en 2017. J’en déduis que le pouvoir de déclaration des dividendes revient aux administrateurs de Cove. La correspondance du cabinet d’avocats de Cove corrobore la déduction que les administrateurs de Cove ont le pouvoir de gérer les affaires de Cove. Par conséquent, je suis d’avis que, comme c’est généralement le cas, le pouvoir de déclaration des dividendes revenait aux administrateurs de Cove [13] .
+[37] Aucun dividende n’est payable jusqu’à ce qu’il soit déclaré [14] . En l’espèce, le dividende n’a pas été déclaré (ni approuvé) avant février 2017 et, par conséquent, aucun dividende n’était payable en 2016.
+[38] Bien qu’il soit évident que la pratique exemplaire consiste à examiner, à voter et à consigner les résolutions par écrit au moment pertinent, je retiens que, dans la « vraie vie », on ne se conforme pas toujours aux pratiques exemplaires. Je retiens que les administrateurs ou les actionnaires peuvent prendre une décision et l’appliquer, même s’ils la mettent parfois par écrit à une date ultérieure, en particulier dans le cas de sociétés privées à actionnariat restreint. Cependant, on ne peut pas dire que c’est ce qui est arrivé en l’espèce. Tous les éléments de preuve indiquent que les deux seules personnes concernées, M. et Mme Trower, n’ont jamais convenu que les montants virés seraient des dividendes. La décision a été prise unilatéralement par M. Trower. Il n’avait pas ce pouvoir avant de devenir l’unique actionnaire et administrateur de la société.
+[39] Lorsque les paiements ont été effectués, si Mme Trower avait été actionnaire, mais non administratrice de Cove, les administrateurs auraient probablement pu déclarer un dividende à son nom et le lui verser sans obtenir son consentement. Cependant, elle était administratrice entre le 1er janvier 2016 et le 2 octobre 2016 [15] , une période pendant laquelle elle s’est constamment opposée au versement de dividendes. Les paiements effectués alors qu’elle était l’une des deux administrateurs de la société auraient dû être autorisés et déclarés comme dividendes avec son accord. Aucun des montants que Cove a versés en 2016 avant le 2 octobre ne pouvait donc être un dividende. Il est vrai que M. Trower, l’unique administrateur et actionnaire après cette date, aurait eu le pouvoir d’approuver que les virements effectués à compter de cette date soient des dividendes, et ce, sans appliquer la pratique exemplaire décrite ci-dessus. Cependant, puisque Mme Trower a cessé d’être actionnaire le 30 septembre 2016, elle n’aurait pas pu recevoir des dividendes que M. Trower aurait lui-même approuvés après cette date.
+[40] Pour la même raison, je suis d’avis que la situation ne permet pas de voir la résolution de février 2017 comme un moyen de remédier à un défaut mineur du dossier administratif, parfois appelé « raccommoder », par la préparation de documents visant à démontrer des événements que l’on présume survenus en tenant compte d’événements subséquents [16] . D’après les éléments de preuve, il serait incorrect de présumer des dividendes en 2016, du moins avant le 2 octobre. Des éléments de preuve accablants indiquent plutôt que ni les administrateurs ni les actionnaires n’avaient approuvé de dividendes avant ce jour de 2016.
+[41] Un troisième principe est parfois appliqué dans ce genre de situation, soit celui de la ratification, une règle de droit des mandats. En application de ce principe, un mandataire pose un acte sans en avoir le pouvoir pour le mandant, qui peut ultérieurement accepter et adopter l’acte du mandataire comme si ce dernier avait eu le pouvoir de poser l’acte. Dans une telle éventualité, la ratification est rétroactive, c’est-à-dire que le mandataire antérieurement non autorisé est traité comme s’il avait été autorisé au moment où il a posé l’acte [17] . Il n’est pas clair pour moi que ce principe s’applique en l’espèce. Cependant, s’il s’appliquait, et compte tenu de l’opposition de Mme Trower aux dividendes, je suis d’avis qu’il n’appartenait pas à M. Trower, comme unique administrateur en 2017, de ratifier comme dividendes les virements effectués en 2016 avant que Mme Trower ne cesse d’être actionnaire de la société. Le mandant ne peut pas ratifier un acte posé par le mandataire s’il n’avait pas lui-même le pouvoir de poser cet acte au moment où le mandataire l’a posé.
+[42] M. Trower a déclaré qu’il est le seul signataire des résolutions concernant le paiement des dividendes et qu’il les a signées à la fin de février 2017, sinon le 1er mars 2017. Il semble croire que [traduction] « les dividendes sont toujours effectués rétrospectivement ».
+[43] Il ressort clairement des éléments de preuve que ni la nature ni l’affectation des fonds entre M. et Mme Trower qui avaient été virés par Cove [18] en 2016 dans les divers comptes bancaires n’ont été déterminées avant que Mme Trower ne cesse d’être administratrice et actionnaire de la société.
+[44] D’après les éléments de preuve, Mme Trower n’a jamais accepté que Cove lui verse quelque montant que ce soit sous forme de dividende. En effet, elle a constamment contesté cette suggestion. Il était essentiel qu’elle souscrive aux dividendes jusqu’au moment où elle a cessé d’être administratrice et actionnaire de la société. Je conclus que la décision est uniquement celle de M. Trower et qu’il l’a prise seulement au cours de l’année d’imposition qui a suivi l’année pendant laquelle Cove a effectué les virements. Ce n’est qu’à ce moment que M. Trower a pris la décision et a donné à M. Dougan les directives concernant les feuillets T5.
+VI. CONCLUSION
+[45] Je retiens que Cove a viré des fonds dans les divers comptes bancaires décrits ci-dessus. Cependant, Mme Trower m’a convaincue que les montants virés n’ont jamais été approuvés sous forme de dividendes avant le 2 octobre 2016. M. Trower avait peut-être une idée de la nature des paiements, mais Mme Trower, sa coactionnaire et coadministratrice, en avait manifestement une idée entièrement différente.
+[46] Bien que je ne puisse pas déterminer la nature des virements effectués en 2016, je suis d’avis que, sans le consentement de Mme Trower, ils ne pouvaient être, et ne sont pas, des dividendes lui ayant été versés en 2016. Mme Trower a démoli la principale hypothèse de fait du ministre qui sous-tend la cotisation établie pour son année d’imposition 2016 en matière de dividendes.
+[47] En conséquence, son appel est accueilli. Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 8e jour d’avril 2019.
+« K.A. Siobhan Monaghan »
+La juge Monaghan
+RÉFÉRENCE :
+2019 CCI 77
+NO DU DOSSIER DE LA COUR :
+2018-927(IT)I
+INTITULÉ :
+SALLY TROWER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 7 janvier 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge K.A. Siobhan Monaghan
+DATE DU JUGEMENT :
+Le 8 avril 2019
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Max Kruger
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] RSNS 1989, ch. 81.
+[2] Comme je le décrirai ci-dessous, on ne sait pas avec certitude si elle a cessé d’être actionnaire de la société le 30 septembre 2016 ou le 2 octobre 2016. Cependant, le fait de savoir laquelle de ces deux dates est exacte n’est pas un facteur déterminant.
+[3] Comme je le décrirai ci-dessous, on ne sait pas avec certitude si elle a cessé d’administrer la société le 30 septembre 2016 ou le 2 octobre 2016. Le ministre a présumé que cela s’est produit le 2 octobre 2016. Je le répète, le fait de savoir laquelle de ces deux dates est exacte n’est pas un facteur déterminant.
+[4] Ce montant n’inclut pas le paiement de 8 500 $ effectué en 2015, qui n’avait pas été reçu en 2016. Il figure dans le tableau ci-dessus parce qu’il fait partie de la constante de paiements et qu’il se trouvait dans les relevés bancaires que Mme Trower a présentés à la Cour.
+[5] Je retiens que, dans certaines circonstances, la nature d’un paiement effectué par une société un jour en particulier peut être déterminée à une date ultérieure, date à laquelle une résolution des administrateurs ou des actionnaires peut être nécessaire, selon la nature du paiement. Par exemple, une résolution des administrateurs peut être adoptée vers la fin de l’année budgétaire d’une société, dans le but d’approuver le versement d’une prime au propriétaire exploitant ainsi que la compensation du montant ainsi payable au titre des avances versées au particulier au cours de l’année. De même, un dividende peut être déclaré et déduit d’avances antérieures. L’article 164 des statuts par défaut, dans le tableau A de la première annexe de la NSCA, le prescrit expressément : [traduction] « Les administrateurs peuvent déduire de dividendes payables à un membre toute somme d’argent que celui-ci pourrait devoir à la Société […] ». Des limites s’appliquent à cette approche, comme il est décrit ci-dessous à la section [traduction] « Droit commercial ».
+[6] Il s’agit des 915 $ virés le 31 août 2016, des 985 $ virés le 30 septembre 2016 et des 1 076,77 $ virés le 31 octobre 2016.
+[7] Il s’agit des 1 440 $ virés le 31 août 2016, des 1 801 $ virés le 30 septembre 2016, des 1 200 $ virés le 17 octobre 2016, des 250 $, 500 $ et 1 759,91 $ virés le 31 octobre 2016 et des 600 $ virés le 23 décembre 2016.
+[8] Le fait que Mme Trower n’était pas une actionnaire le 31 octobre 2016 ne signifie pas que le montant viré ne peut être un dividende. En effet, un dividende peut être déclaré à une date précise (la date de référence) comme payable aux actionnaires inscrits, mais n’être payable qu’à une date ultérieure. Dans ce cas, un particulier qui était actionnaire à la date de référence, mais qui cesserait d’être actionnaire avant la date du paiement, recevrait néanmoins le dividende. Cependant, lorsqu’il a fourni cette information à M. Dougan, M. Trower a peut-être fait erreur sur la date à laquelle Mme Trower avait cessé d’être actionnaire, car dans un courriel envoyé à Mme Trower sur le sujet, plus tard dans le mois en question, il lui dit qu’elle était actionnaire jusqu’à la fin du mois d’octobre.
+[9] Un courriel de M. Dougan envoyé à M. Trower confirme que c’est bien le cas.
+[10] [1997] 2 CTC 286 (C.A.F.), aux paragraphes 12 et 13.
+[11] Voir, par exemple, la Loi canadienne sur les sociétés par actions, L.R.C. (1985), ch. C-44, la Loi sur les sociétés par actions de l’Ontario, L.R.O. 1990, ch. B.16, et la Business Corporations Act de l’Alberta, RSA 2000, ch. B-9.
+[12] Voir le livre Nova Scotia Companies Act and Commentary, 2018/2019 Edition de Robert L Miedema (LexisNexis Canada Inc. 2018). Voir également l’article 21 de la NSCA et les statuts d’association par défaut, dans le tableau A de la première annexe de la NSCA, notamment les articles 147, 148 et 157 à 174, qui traitent des dividendes.
+[13] Les statuts d’association peuvent également réserver ce pouvoir aux actionnaires (voir le paragraphe 92(1) de la NSCA). Cependant, si je me fie au peu d’éléments de preuve sur la question, cela ne semble pas être le cas pour Cove. Quoi qu’il en soit, en plus d’être administratrice de la société, Mme Trower en a été actionnaire pendant la majeure partie de 2016, et il est plutôt évident qu’elle n’a jamais accepté que des dividendes lui soient payés à l’un ou l’autre de ces titres. Par conséquent, même si le pouvoir de déclaration des dividendes était réservé aux actionnaires, le résultat serait le même.
+[14] Bond c. Barrow Haematite Steel Company, [1902] 1 ch. 353.
+[15] Les documents qui abordent le moment où Mme Trower a cessé d’être administratrice ne sont pas cohérents. Une lettre de rapport envoyée à Cove par Patterson Law, le cabinet d’avocats de la société, indique que les actions de Cove que Mme Trower détenait ont été rachetées le 30 septembre 2016 et que madame a démissionné de son poste d’administratrice et de dirigeante le 2 octobre 2016. Les documents de la société contiennent une résolution administrative datée du 30 septembre 2016 et signée par Alistair Trower, qui est décrit comme [traduction] « tous les administrateurs ». Le paragraphe 5 de cette même résolution indique que la démission de Mme Trower à titre d’administratrice et de dirigeante est acceptée. Donc, rien n’indique clairement si Mme Trower a cessé d’être administratrice le 30 septembre 2016 (date à laquelle M. Trower a signé une résolution acceptant la démission de madame, en prétendant agir en tant que [traduction] « tous les administrateurs ») ou le 2 octobre 2016, date à laquelle madame a apparemment signé sa démission et date d’entrée en vigueur de celle-ci dans la lettre de rapport. La NSCA indique qu’un poste d’administrateur est ipso facto libéré lorsque l’administrateur démissionne par avis écrit. Cependant, je ne peux dire clairement si un administrateur peut également démissionner par une autre forme d’avis à la société (c.-à-d. par une démission verbale que la société accueillerait et accepterait par écrit, comme on pourrait dire que cela s’est produit en l’espèce). Je retiens le 2 octobre 2016 comme la bonne date.
+[16] Pour une analyse de cette pratique et de la maxime juridique dont elle découle ([traduction] « tous actes sont présumés réguliers et solennels »), voir le livre Canadian Business Corporations Law de Kevin P. McGuinness (LexisNexis Canada Inc., 2007), à partir de 12.166.
+[17] Voir le livre Canadian Agency Law de Gerald Fridman (LexisNexis Canada Inc., 2009), page 35.
+[18] Je fais une distinction entre les virements et les paiements effectués par Cove au titre d’une possible obligation de la société. Les montants que Cove devait payer à M. Trower auraient pu faire l’objet d’une directive de virement et donc, être reçus par une autre personne.

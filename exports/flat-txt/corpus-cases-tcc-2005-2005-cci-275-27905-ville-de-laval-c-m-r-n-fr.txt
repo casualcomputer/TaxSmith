@@ -1,0 +1,243 @@
+Title: Ville de Laval c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27905/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-275-27905-ville-de-laval-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-05-18
+
+# Ville de Laval c. M.R.N.
+
+- Citation: 2005 CCI 275
+- Decision date: 2005-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1753, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ville de Laval c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-18
+Référence neutre
+2005 CCI 275
+Numéro de dossier
+2004-2902(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-2902(EI)
+ENTRE :
+VILLE DE LAVAL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 23 février 2005, à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, Juge suppléant
+Comparutions :
+Avocat pour l'appelante :
+Me André Guérin
+Avocat pour l'intimé :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le Ministre est annulée selon les motifs de jugements ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 18e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI275
+Date : 20050518
+Dossier : 2004-2902(EI)
+ENTRE :
+VILLE DE LAVAL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec) le 23 février 2005.
+[2] Cet appel porte sur l'assurabilité de l'emploi de Sylvie Lafrenière, la travailleuse, lorsqu'au service de l'appelante, du 13 février au 9 juin 2003, la période en litige. Le 23 avril 2004, le ministre du Revenu national (le « Ministre ») a informé l'appelante de sa décision selon laquelle la travailleuse occupait un emploi assurable, pendant cette période.
+[3] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants:
+a) à chaque année, l'appelante embauchait des préposés au recensement et à la vente des licences pour chiens et à la mise à jour de l'inventaire des piscines résidentielles; (admis)
+b) la travailleuse avait été embauchée comme recenseur par l'appelante depuis 1998; (admis)
+c) les tâches de la travailleuse consistaient à se présenter à toutes les résidences d'un territoire afin de recenser et de vendre des licences pour chiens et à mettre à jour l'inventaire des piscines intérieures et extérieures; (admis)
+d) lors de son embauche, l'appelante a donné à la travailleuse de la formation sur le territoire à visiter, les directives à suivre ainsi que sur le code d'éthique de la Ville; (admis)
+e) l'appelante déterminait le territoire à visiter par la travailleuse; (nié)
+f) selon les directives de l'appelante, la travailleuse devait visiter les résidences entre 11 h et 21 h du lundi au samedi; (admis)
+g) la travailleuse avait le choix de ses heures de travail à l'intérieur de l'horaire déterminé par l'appelante; (admis)
+h) la travailleuse devait avoir en tout temps une carte d'identité de l'appelante; (admis)
+i) la travailleuse devait visiter toutes les résidences de son territoire sans exemption; (nié)
+j) dans le cas des occupants absents, l'appelante exigeait de la travailleuse qu'elle effectue trois visites; (admis)
+k) l'appelante fixait un échéancier à la travailleuse; (nié)
+l) l'appelante vendait les licences de chien 27 $ chacune; (nié)
+m) la travailleuse devait remettre plusieurs rapports écrits hebdomadaires à l'appelante sur ses ventes, les refus, les rues complétées et sur le dénombrement des piscines; (nié)
+n) la travailleuse devait remettre les sommes d'argent recueillies à l'appelante à chaque semaine; (admis)
+o) la travailleuse recevait comme rémunération 8 $ par licence de chiens vendue et 10 $ par nouvelle piscine identifiée; (admis)
+p) la travailleuse était rémunérée par chèque à chaque semaine; (admis)
+q) au cours de la période en litige, la travailleuse a vendu 2 098 licences de chiens et elle a identifié 204 nouvelles piscines; (admis)
+r) le taux de rémunération de la travailleuse avait été déterminé par l'appelante seulement; (admis)
+s) la travailleuse devait suivre les consignes et les instructions de l'appelante; (nié)
+t) le matériel de travail était fourni à la travailleuse par l'appelante; (nié)
+u) la travailleuse n'avait aucun risque financier dans l'exercice de son travail; (nié)
+v) les tâches de la travailleuse étaient intégrées aux activités de l'appelante. (nié)
+[4] La preuve a révélé les faits suivants :
+1. La travailleuse et l'appelante ont conclu une entente qui s'est échelonnée du 13 février au 9 juin 2003 en vertu de laquelle la travailleuse devait faire du porte-à-porte sur le territoire de Laval afin de vendre des licences aux propriétaires de chiens ainsi qu'identifier les piscines nouvellement installées.
+2. Avant de débuter son travail, la travailleuse a reçu une formation donnée par l'appelante.
+3. Elle n'avait pas d'horaire fixe et elle pouvait solliciter les citoyens entre 11 h 00 et 21 h 00 du lundi au samedi inclusivement.
+4. Elle devait couvrir tout le territoire qui lui était identifié entre février et juin, mais personne ne vérifiait si ce territoire avait été en réalité complètement couvert et aucune liste des adresses où une licence avait été vendue l'année précédente n'a été remise à la travailleuse.
+5. Elle devait remettre des rapports hebdomadaires et elle était payée selon le nombre de licences vendues (8 $ pour chaque licence de chiens et 10 $ pour chaque nouvelle piscine identifiée).
+6. Elle fournissait sa propre automobile et assumait tous les frais reliés à la voiture ainsi que ses autres dépenses, tels ses vêtements.
+7. Pour sa part, l'appelante lui fournissait certains outils accessoires, tels que des formulaires, un carnet de reçus, une carte d'identité, etc.
+8. La travailleuse assumait l'entière responsabilité en cas de perte de licences ou d'argent.
+9. Elle n'avait aucune garantie de revenus et elle n'avait aucune assurance fournie par l'appelante en cas de blessure.
+[5] La travailleuse a reçu une formation de quelques heures, fournie par l'appelante. C'est au tout début que l'appelante prévenait les travailleurs que les citoyens sollicités étaient souvent récalcitrants. L'appelante lui a remis un code d'éthique et ses directives opérationnelles. La preuve a établi que la travailleuse a été engagée comme travailleuse autonome et non pas comme employée de l'appelante. Ainsi, l'appelante ne remboursait pas la travailleuse pour les dépenses encourues dans le cadre de son travail. Aucun local ne lui était fourni; elle n'avait droit à aucune vacance, et aucun bénéfice, Elle ne faisait pas partie d'aucune convention collective, n'avait aucun fonds de pension, ni aucun régime d'assurance. Sa séance de formation n'était pas payée. Elle ne jouissait d'aucune ancienneté, de régime de retraite ou de sécurité d'emploi. Aucune retenue salariale n'était faite, ni pour les impôts, l'assurance-emploi ou les cotisations syndicales. Aucun équipement ne lui était fourni par l'appelante à l'exception d'une trousse munie des articles suivants :
+- un certificat signé par le Directeur des finances et trésorier de la Ville l'autorisant à passer de porte en porte pour vendre des licences de chiens;
+- une carte d'identité;
+- des listes de locaux par district (feuilles de route) avec adresses des contribuables;
+- des reçus officiels prénumérotés;
+- des licences de chiens portant les mêmes numéros;
+- des formulaires de demande d'exemption du paiement de licences de chiens;
+- des pamphlets relatifs au règlement sur les chiens;
+- des formulaires de rapport hebdomadaire;
+- des feuilles de refus;
+- un sac.
+[6] La travailleuse a témoigné à l'audition. Elle est commis de bureau et fait ce travail pour l'appelante en vue d'augmenter son revenu. Elle a été embauchée tous les ans depuis 1998. Vers la fin janvier, elle recevait un appel de M. Lépine, gestionnaire du secteur des licences de la Ville de Laval. Elle a affirmé qu'à son avis elle était travailleuse autonome et avait été engagée comme tel par l'appelante. Elle possède sa propre voiture pour faire son travail et elle en assume toutes les dépenses. Il en est de même pour ses vêtements de travail. Elle a affirmé dans son témoignage qu'elle s'est identifiée comme travailleuse autonome dans sa déclaration de revenu. La travailleuse a déclaré que dans l'exécution de ses tâches pour l'appelante, elle pouvait suivre sa propre procédure. Par ailleurs, elle était libre de prendre les congés qu'elle voulait.
+[7] La détermination de l'assurabilité d'un emploi engage l'application de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi ») qui prévoit ce qui suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[8] Quant à l'exercice qui consiste à déterminer l'assurabilité selon l'alinéa 5(1)a), précité, la jurisprudence en a établi les critères. En voici quelques exemples. La Cour Suprême du Canada dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983 précisait ce qui suit au paragraphe 36 :
+[36] Les tribunaux ont établi divers critères pour aider à décider si un travailleur est un employé ou un entrepreneur indépendant. La distinction entre un employé et un entrepreneur indépendant est utile non seulement en matière de responsabilité du fait d'autrui mais aussi lorsqu'il s'agit d'appliquer diverses lois sur l'emploi, de déterminer si une action pour congédiement injustifié peut être intentée, d'établir des cotisations en matière d'impôt sur le revenu ou de taxe d'affaires, de dresser l'ordre de collocation dans le cas où un employeur devient insolvable ou d'appliquer des droits contractuels [...] Il s'ensuit qu'une bonne partie des décisions en la matière ne sont pas moins utiles du fait qu'elles n'ont pas été rendues dans le contexte de la responsabilité du fait d'autrui.
+[9] Lord Wright dans l'arrêt Montreal c. Montreal Locomotive Works Limited, [1947] 1 D.L.R. 161 stipulait ce qui suit :
+[...] Il a été jugé plus convenable dans certains cas d'appliquer un critère qui comprendrait les quatre éléments suivants : (1) le contrôle; (2) la propriété des instruments de travail; (3) la possibilité de profit; (4) le risque de perte. Le contrôle en lui‑même n'est pas toujours concluant.
+[10] La Cour Suprême dans l'arrêt Sagaz, précité, ajoutait les précisions suivantes :
+[46] À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. [...] Je partage en outre l'opinion du juge MacGuigan lorsqu'il affirme [...] dans l'arrêt Wiebe Door, [[1986] 3 C.F. 553] [...]
+[TRADUCTION] [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. [...]
+[47] [...] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[11] La Cour d'appel fédérale dans l'arrêt Vulcain Alarme Inc. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 749, statuait sur l'assurabilité de l'emploi de M. Blouin dont voici les circonstances et le raisonnement du juge Létourneau :
+[3] Au niveau de l'élément contrôle qui, dans un contrat de travail, caractérise les rapports de commettant à préposé et donc le lien de subordination requis entre l'employeur et l'employé, le juge suppléant de la Cour canadienne de l'impôt a retenu notamment les faits suivants :
+[...]
+b) M. Blouin devait se présenter à l'entreprise de la demanderesse une fois par mois pour obtenir la liste des clients à desservir;
+c) M. Blouin bénéficiait d'horaires flexibles, mais les services devaient être rendus aux clients de la demanderesse dans les 30 jours;
+d) M. Blouin avait le droit d'exécuter d'autres tâches pour d'autres entreprises, mais il devait donner priorité à la demanderesse pour l'exécution des tâches que cette dernière lui confiait;
+[...]
+f) M. Blouin devait soumettre ses factures de temps et de dépenses pour être payé selon un taux horaire et un tarif établis par la demanderesse et, en conséquence, la demanderesse exerçait un contrôle sur ce dernier par le système de facturation.
+[4] À notre avis, toutes ces données factuelles sont aussi compatibles avec un contrat d'entreprise. [...] Le fait que M. Blouin ait dû se présenter chez la demanderesse une fois par mois pour prendre ses feuilles de service et ainsi connaître la liste des clients à servir et, conséquemment, le lieu d'exécution de la prestation de ses services n'en fait pas pour autant un employé. [...]
+[5] En ce qui a trait à la rémunération et au système de facturation, il y a lieu de réitérer les propos de notre collègue le juge Hugessen dans l'arrêt Canada (Procureur général) c. Rousselle et al. [(1990) 124 N.R. 339, à la page 344] où il concluait que le juge n'avait de toute évidence pas compris le sens du mot contrôle :
+Ce n'est pas de contrôler un travail que de fixer la valeur de la rémunération ou de définir le but recherché. Le contrat d'entreprise comporte ces éléments aussi bien que le contrat de louage de services. À plus forte raison, le contrôle ne réside pas dans l'acte de paiement, que ce soit par chèque ou autrement.
+[6] Il en va de même bien entendu du remboursement des dépenses et du système inévitable de facturation qui s'y greffe.
+[7] [...] Au contraire, ce dernier était totalement maître de la façon dont il pouvait fournir ses services, sauf qu'il devait les rendre dans les 30 jours [...] Personne ne lui imposait de contrôle ou n'exerçait de supervision sur sa prestation de services et M. Blouin fixait son propre horaire. [...]
+[8] Le premier juge a reconnu que M. Blouin se déplaçait avec son propre camion d'un site à un autre pour fournir les services d'inspection requis, mais a retenu comme élément indicatif d'un contrat de travail le fait qu'il était remboursé de ses frais par la demanderesse et que la vérification des détecteurs faite par M. Blouin se faisait à partir d'un détecteur spécial fourni par la demanderesse.
+[...]
+[14] [...] Mais ils n'étaient pas liés juridiquement par un contrat d'exclusivité et ne cessaient pas d'être des entrepreneurs. M. Blouin ne travaillait pas aux bureaux ou ateliers de la demanderesse [...] Au surplus, ses allées et venues, ses jours et ses heures de travail n'étaient aucunement intégrées ou coordonnées avec les opérations de la demanderesse [...]
+[...]
+[18] [...] Bien que les revenus de M. Blouin étaient calculés sur une base horaire, le nombre d'heures de travail était déterminé par le nombre de feuilles de services qu'il recevait de la demanderesse. Il n'y avait donc aucun revenu garanti pour M. Blouin et sa société. Contrairement aux techniciens oeuvrant comme employés à l'interne chez la demanderesse et dont la rémunération hebdomadaire était constante, les revenus de M. Blouin fluctuaient selon les appels de service. De fait, vers la fin de son contrat avec la demanderesse, M. Blouin ne faisait plus que l'équivalent de 40 heures par mois car il recevait peu de feuilles de service [...]
+[19] De plus, M. Blouin, qui utilisait son propre véhicule pour travailler, a dû assumer les pertes découlant d'un accident dans lequel il fut impliqué et se procurer un autre véhicule [...]
+[12] La Cour d'appel fédérale, sous la plume du juge Létourneau, a voulu reconnaître, dans cet exercice, l'importance de l'intention exprimée par les parties au contrat de travail. Il a statué ce qui suit dans l'arrêt Livreur Plus Inc. c. Canada (ministre du Revenu national - M.R.N.), [2004] A.C.F. no 267 :
+[17] La stipulation des parties quant à la nature de leurs relations contractuelles n'est pas nécessairement déterminante et la Cour peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : D&J Driveway Inc. c. Le ministre du Revenu national, [2003] A.C.F. no 1784, 2003 CAF 453. Mais en l'absence d'une preuve non équivoque au contraire, la Cour doit dûment prendre en compte l'intention déclarée des parties [...] Car en définitive, il s'agit de déterminer la véritable nature des relations entre les parties. Aussi, leur intention sincèrement exprimée demeure-t-elle un élément important à considérer dans la recherche de cette relation globale réelle que les parties entretiennent entre elles dans un monde du travail en pleine évolution [...]
+[13] Poursuivant son analyse de l'emploi des travailleurs, le juge Létourneau s'est penché sur le critère de contrôle et écrivait ce qui suit :
+[24] La procureure du défendeur a invoqué un certain nombre de faits [...] Elle a beaucoup insisté, dans un premier temps, sur le fait que les livreurs étaient soumis à des heures de disponibilité obligatoires, qu'ils oeuvraient chacun dans un territoire défini et qu'ils ne pouvaient modifier l'horaire de travail sans l'autorisation de la demanderesse.
+[25] Avec respect, je ne crois pas que ces trois premiers éléments soient déterminants dans la recherche de la qualification de la relation globale entre les parties ou soient suffisants pour changer la nature de celle qu'elles ont exprimée au contrat. [...]
+[26] Le défendeur soumet qu'on retrouve aussi une preuve du contrôle exercé par la demanderesse sur ses livreurs, premièrement, dans cette obligation qu'ils ont de produire des rapports de livraison. À cela s'ajoute le fait que la demanderesse s'informait auprès des pharmaciens que les marchandises étaient bien cueillies et livrées tel que convenu et à leur satisfaction.
+[27] Ces deux éléments que le défendeur invoque ne font preuve que d'un contrôle du résultat par la demanderesse, résultat dont elle assume la responsabilité auprès de ses clients. [...]
+[14] Le juge a ensuite examiné l'emploi des travailleurs sous le critère de la propriété des outils, en affirmant ce qui suit :
+[33] Car l'outil de loin le plus important, le plus significatif et le plus coûteux demeure l'automobile. Or, il n'est pas contesté que cet outil était la propriété des livreurs. [...]
+[15] En concluant que les emplois des travailleurs n'étaient pas assurables, le juge Létourneau a statué, en partie, comme suit :
+[35] Au chapitre des profits et des pertes, la preuve révèle que les revenus des livreurs variaient à la hausse ou à la baisse d'une semaine à l'autre en fonction du nombre de livraisons et des échanges que les livreurs pouvaient faire entre eux. Ils n'avaient pas droit à des vacances payées de sorte que leurs revenus étaient affectés s'ils décidaient de se prévaloir d'une période de repos. [...]
+[36] Les contrats et les témoignages établissent que les livreurs assumaient les dépenses reliées à l'utilisation de leurs automobiles, i.e. dépréciation, réparations, essence, assurances, immatriculation, entretien, etc. Ils encouraient donc des risques de pertes et une fluctuation de leurs revenus, particulièrement en cas d'accident [...]
+[37] Enfin, les livreurs engageaient leur responsabilité personnelle pour la perte des médicaments qu'ils livraient, des argents qu'ils recevaient des clients des pharmacies et [...]
+[...]
+[41] Les livreurs n'avaient pas de bureaux ou de locaux chez la demanderesse. Ils n'avaient pas à passer chez la demanderesse pour effectuer leur travail de livraison [...]
+[16] La Cour d'appel fédérale, sous la plume du juge Desjardins, a de nouveau déterminé que le travailleur n'occupait pas un emploi assurable dans l'arrêt Wolf c. Canada, [2002] 4 C.F. 396. Elle statuait, en partie, ce qui suit :
+[117] [...] Je dirai, avec le plus grand respect, que les tribunaux, dans leur propension à créer des catégories juridiques artificielles, ont parfois tendance à ne pas tenir compte du facteur même qui est l'essence d'une relation contractuelle, à savoir l'intention des parties. L'article 1425 du Code civil du Québec établit le principe selon lequel « on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés ». [...]
+[118] [...] La société qui embauche ne traite pas ses consultants, dans son exploitation quotidienne, de la même manière qu'elle traite ses employés [...] Toute la relation de travail commence et se maintient selon le principe voulant qu'il n'y a pas de contrôle ou de subordination.
+[...]
+[120] De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l'embauche ne veut pas avoir de responsabilités envers un travailleur si ce n'est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l'on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d'emploi, le peu d'égard pour les prestations salariales, la liberté de choix et les questions de mobilité.
+[17] Il convient de citer, finalement, l'arrêt Seitz c. Entraide populaire de Lanaudière Inc., [2001] J.Q. no 7635, où la Cour du Québec a résolu un litige semblable à celui en l'espèce. En voici quelques extraits pertinents :
+[10] [...] l'Entraide recrute des vendeurs qui, de l'opinion du Tribunal, ne sont pas des bénévoles. [...] Elle sollicite ainsi des candidats pour vendre des billets de loto. Elle exige que les candidats possèdent une automobile, un permis de conduire, de l'entregent, de la disponibilité et un esprit d'équipe.
+[11] Les vendeurs ainsi recrutés visent avant tout à se procurer un revenu. Pour certains, le revenu qu'ils retirent de la vente des billets s'ajoute à leurs prestations de sécurité de revenu ou à leurs prestations d'assurance-emploi. Pour la plupart, il s'agit d'un travail temporaire pendant qu'ils sont en recherche d'emploi ou qu'ils tentent de réintégrer le marché du travail. [...]
+[...]
+[14] Tous les vendeurs, incluant le demandeur, ont la même rémunération depuis décembre 1997. Ils reçoivent 5 $ par livret de billets vendus. Cette rémunération ne fait pas l'objet de retenues à la source. Les vendeurs doivent assumer leurs frais de transport, de repas et d'hébergement. Ils n'ont pas d'avantages sociaux.
+[...]
+[62] Les indices d'encadrement sont notamment :
+- la présence obligatoire à un lieu de travail
+- le respect de l'horaire de travail
+- le contrôle des absences du salarié pour des vacances
+- la remise de rapports d'activité
+- le contrôle de la quantité et de la qualité du travail
+- l'imposition des moyens d'exécution du travail
+- le pouvoir de sanction sur les performances de l'employé
+- les retenues à la source
+- les avantages sociaux
+- le statut du salarié dans ses déclarations de revenus
+- l'exclusivité des services pour l'employeur
+[...]
+[65] La preuve prépondérante convainc le Tribunal que le demandeur était un travailleur autonome offrant ses services à l'Entraide. C'est-à-dire qu'il était un prestataire de services. Il vendait des billets de loterie à sa convenance. Il était libre d'accepter ou non les assignations proposées. Il pouvait comme bon lui semblait organiser ses horaires de travail. [...]
+[...]
+[68] D'ailleurs, le demandeur se considérait lui-même comme un travailleur autonome tirant un revenu d'une entreprise dans ses déclarations fiscales pour les années 1997, 1998 et 1999.
+[18] Cette Cour s'est inspirée des arrêts cités ci-haut dans sa tâche de résoudre le litige qui lui a été confié.
+[19] La preuve recueillie a établi les faits suivants qu'il convient d'analyser à la lumière des quatre critères établis dans la jurisprudence.
+A. CONTRÔLE
+1. La souplesse des heures de travail de la travailleuse; elle n'avait pas d'heures fixes.
+2. Une grande flexibilité quant aux journées de travail dont aucune n'était obligatoire. Seul le dimanche était exclu.
+3. La travailleuse se rapportait une fois par semaine à l'appelante, pour remettre ce qu'elle avait recueilli et recevoir sa paie.
+4. L'appelante avait confié à la travailleuse un territoire désigné, mais celle-ci avait le loisir de le couvrir à sa discrétion.
+5. Le territoire couvert n'était aucunement vérifié.
+6. La travailleuse n'était aucunement supervisée.
+7. Elle n'était pas tenue de prévenir quiconque en cas d'absence.
+8. Elle avait le loisir de travailler ailleurs, l'appelante ne détenait aucunement l'exclusivité de ses services; d'ailleurs, elle occupait un autre emploi comme commis de bureau.
+9. L'exécution de ses tâches était laissée à la discrétion de la travailleuse.
+B. PROPRIÉTÉ DES OUTILS
+1. Les formulaires et accessoires associés au travail de la travailleuse étaient fournis par l'appelante.
+2. La travailleuse fournissait son automobile, essentielle à son travail et elle n'était aucunement remboursée pour toutes les dépenses, telles que les assurances, les réparations, l'entretien, l'essence ou l'immatriculation.
+3. L'appelante ne lui fournissait aucun bureau, téléphone, ordinateur ou télé-avertisseur.
+C. PROFITS ET PERTES
+1. La travailleuse était rémunérée exclusivement à la commission.
+2. Son revenu variait selon le nombre de licences vendues et de piscines recensées.
+3. Elle risquait des pertes en cas de bris mécaniques, elle assumait les dépenses reliées à sa voiture, dont l'essence, les assurances; elle n'avait aucune assurance‑responsabilité.
+4. Elle était responsable pour la perte des licences ou des argents perçus.
+5. Elle n'avait aucune vacance ou congé payés.
+6. Elle n'avait aucun salaire garanti et n'était pas rémunérée pour des heures de travail supplémentaires.
+7. Si elle ne pouvait se déplacer, elle était privée de revenu.
+8. La travailleuse ne bénéficiait d'aucune sécurité d'emploi, de fonds de pension, d'assurance collective.
+D. INTÉGRATION
+1. L'appelante ne lui fournissait aucun bureau ou local pour son travail.
+2. La travailleuse n'était pas à l'emploi exclusif de l'appelante.
+3. Ses heures de travail et ses journées n'étaient pas coordonnées avec celles des autres employés de l'appelante.
+4. Dans le cadre de son emploi auprès de l'appelante, elle ne contribuait pas au Régime des rentes du Québec ni à aucun autre régime de retraite.
+5. Son salaire n'était pas grevé d'aucune déduction à la source.
+6. Elle n'avait aucun chance de promotion, de préavis de mise à pied, de droit d'ancienneté.
+7. Son échelle de salaire était inexistante; elle n'avait aucun statut permanent ou de surnuméraire.
+8. Elle n'était pas protégée par une convention collective.
+9. La travailleuse était représentante de l'appelante, mais son travail n'était pas intégré à l'entreprise de celle-ci, une municipalité; en outre, elle n'était pas une employée régulière de l'appelante; dans l'exécution de ses tâches, la travailleuse exploitait sa propre petite entreprise et non celle de l'appelante.
+[20] En regard de ce qui précède, la prépondérance de la preuve a établi que la travailleuse travaillait à son compte. Elle exploitait sa petite entreprise. Le travail qu'elle accomplissait ne rencontrait pas les exigences d'un contrat de louage de services, au sens de l'alinéa 5(1)a) de la Loi et l'analyse de son travail et de sa relation avec l'appelante a convaincu cette Cour que la travailleuse offrait ses services à l'appelante en qualité de travailleuse autonome.
+[21] En conséquence, l'appel est accueilli et la décision rendue par le Ministre est annulée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 18e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2005CCI275
+Nº DU DOSSIER DE LA COUR : 2004-2902(EI)
+INTITULÉ DE LA CAUSE : VILLE DE LAVAL ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 23 février 2005
+MOTIFS DE JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : le 18 mai 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me André Guérin
+Avocat de l'intimé :
+Me Simon Petit
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me André Guérin
+Étude : Allaire et associés
+Laval (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

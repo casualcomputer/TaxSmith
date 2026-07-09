@@ -1,0 +1,188 @@
+Title: 675869 BC Ltd op Lexington Tire Superstore v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28237/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-301-28237-675869-bc-ltd-op-lexington-tire-superstore-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-05-18
+
+# 675869 BC Ltd op Lexington Tire Superstore v. M.N.R.
+
+- Citation: 2007 TCC 301
+- Decision date: 2007-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2084, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+675869 BC Ltd op Lexington Tire Superstore v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-18
+Neutral citation
+2007 TCC 301
+File numbers
+2006-399(EI)
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-399(EI), 2006-400(CPP)
+BETWEEN:
+675869 BC LTD. o/a LEXINGTON TIRE SUPERSTORE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Katona International Holdings Corp., 2006-401(EI) and 2006-402(CPP) and Alpi’s Trading Inc., 2006-654(EI) and 2006-656(CPP)
+on September 18 and 19, 2006, at Vancouver, British Columbia,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Agent for the Appellant:
+Karl Flunkert
+Counsel for the Respondent:
+John Gibb-Carsley
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are allowed and the decision of the Minister of National Revenue on the appeal made to him under section 92 of the Act and the determination of the Minister on the application made to him under section 27.1 of the Plan are varied on the basis that Al Nahal was not engaged in insurable employment or pensionable employment by the Appellant within the meaning of paragraphs 5(1)(a) of the Act and 6(1)(a) of the Plan.
+Signed at Ottawa, Canada, this 18th day of May, 2007.
+“M.A. Mogan”
+Mogan D.J.
+Docket: 2006-401(EI), 2006-402(CPP)
+BETWEEN:
+KATONA INTERNATIONAL HOLDINGS CORP.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of 675869 bc Ltd. o/a Lexington Tire Superstore, 2006-399(EI) and 2006-400(CPP) and Alpi’s Trading Inc, 2006-654(EI) and 2006-656(CPP)
+on September 18 and 19, 2006, at Vancouver, British Columbia,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Agent for the Appellant:
+Karl Flunkert
+Counsel for the Respondent:
+John Gibb-Carsley
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are allowed and the decision of the Minister of National Revenue on the appeal made to him under section 92 of the Act and the determination of the Minister on the application made to him under section 27.1 of the Plan are varied on the basis that Julian Manzur and Mike Roth were not engaged in insurable employment or pensionable employment by the Appellant within the meaning of paragraphs 5(1)(a) of the Act and 6(1)(a) of the Plan.
+Signed at Ottawa, Canada, this 18th day of May, 2007.
+“M.A. Mogan”
+Mogan D.J.
+Docket: 2006-654(EI), 2006-656(CPP)
+BETWEEN:
+ALPI’S TRADING INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of 675869 BC Ltd., o/a Lexington Tire Superstore, 2006-399(EI) and 2006-400(CPP) and Katona International Holdings Corp., 2006-401(EI) and 2006-402(CPP)
+on September 18 and 19, 2006, at Vancouver, British Columbia,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Agent for the Appellant:
+Karl Flunkert
+Counsel for the Respondent:
+John Gibb-Carsley
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are allowed and the decision of the Minister of National Revenue on the appeal made to him under section 92 of the Act and the determination of the Minister on the application made to him under section 27.1 of the Plan are varied on the basis that Christine Holten and Peter Vitai were not engaged in insurable employment or pensionable employment by the Appellant within the meaning of paragraphs 5(1)(a) of the Act and 6(1)(a) of the Plan.
+Signed at Ottawa, Canada, this 18th day of May, 2007.
+“M.A. Mogan”
+Mogan D.J.
+Citation: 2007TCC301
+Date: 20070518
+Docket: 2006-399(EI), 2006-400(CPP)
+2006-401(EI), 2006-402(CPP)
+2006-654(EI), 2006-656(CPP)
+BETWEEN:
+675869 BC LTD. o/a LEXINGTON TIRE SUPERSTORE,
+KATONA INTERNATIONAL HOLDINGS CORP.
+and ALPI'S TRADING INC.,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] These six appeals under the Employment Insurance Act and the Canada Pension Plan were set down for hearing at Vancouver, BC commencing Monday, September 18, 2006. When the cases were called in Court, the parties agreed that all six appeals would be heard on common evidence. The appeals are concerned with approximately 90 individuals named in the pleadings. The basic issue is whether those 90 individuals were, during certain periods in 2003, 2004 and 2005, employees of a corporate Appellant or independent contractors. The Appellants claim that the individuals were independent contractors at all relevant times. The Respondent has assessed for Employment Insurance premiums and Canada Pension Plan contributions on the assumption that the individuals were employees.
+[2] The various Notices of Appeal are bare bones documents stating that employment insurance premiums and Canada Pension Plan contributions were not remitted because the corporate Appellants had no employees. All Notices of Appeal were sent from the same address and all were signed by Abdul Karim on behalf of the different Appellants. The Replies to the various Notices of Appeal are lengthy and detailed setting out many facts which the Minister of National Revenue assumed when issuing the assessments under appeal. It is clear from the pleadings and the Appellants' own witnesses that there is a close relationship among the three corporate Appellants.
+[3] Alpar Katona was the first witness for the Appellants. Mr. Katona is the dominant shareholder of the following five corporations, sometimes referred to as "Related Companies":
+- 675869 BC Ltd. (an Appellant)
+- Katona International Holdings Corp. (an Appellant)
+- Alpi's Trading Inc. (an Appellant)
+- Katona Tires Inc.
+- Rid of Rubber Transport Inc.
+Mr. Katona came to Canada from Europe in 1988 and started some of the Related Companies to trade in tires and auto parts. In 2001, he started remanufacturing tires in Alpi's Trading Inc. As business improved, Katona Tires Inc. obtained a government guaranteed loan.
+[4] Mr. Katona's policy was to avoid having employees whenever possible. As an alternative, almost all workers needed for the businesses of the Related Companies were asked to sign a form of agreement which identified the worker as an "independent contractor". Exhibit A-1 is a group of approximately 45 agreements signed by 45 different workers and, in each agreement, the payor is one of the Related Companies. The 45 agreements in Exhibit A-1 are not identical as to form but there are only three or four standard forms within the group; and those three or four standard forms are so similar that they may be regarded as the same in substance.
+[5] As an example of a worker agreement in Exhibit A-1, I will set out the terms of the agreement between Katona Tires and Arif Roya dated April 8, 2005. The one-page agreement is on the letterhead of Katona Tires. In paragraphs 1 and 4, the commencement date and compensation are handwritten. Otherwise, all of the terms reproduced below are printed as a standard form of agreement.
+Dear Arif Roya
+I am pleased to formally confirm your appointment as an independent private Contractor to Katona Tires Inc. (the "Company"). Our understanding concerning the terms of retainer and nature of services to be performed are as follows:
+1. This assignment will commence on April 08/05, 2005 and continue until terminated by either party with two weeks' written notice to the other party.
+2. You shall perform all work or services required to repair, manufacture and sell automotive products. The Company does not have any established method or operation manual that apply directly to you. And your expertise and judgment will be required to be effective.
+3. The work or services to be performed by you may be changed by mutual agreement from time to time. You shall keep the Company informed on the progress of your work. It is acknowledged that the Company does not have a preferred call on our services that you may work for others and engage others to assist you with the work and services hereunder and that such assistance shall be under your supervision and control. You will determine the most appropriate hours of work for you and the sub-trade engaged by you, and provide all of the tools and equipment necessary.
+4. Your compensation shall be $8.00 hour, payable upon an itemized invoice. You shall be solely responsible for any costs you incur, such as promotional activities, hiring, firing, and business use of automobile, purchase of parts, maintenance of an office, stationery, tools, machinery, and any other expense whatsoever. For greater clarity, you will not receive any minimum compensation and you will assume all the normal business risks and be entitled to profit for your efforts.
+5. You shall exercise control over the means and manner in which you perform your work, and in all respect your relationship to the Company shall be that of a private individual serving as a contractor in accordance with your basic fundamental human rights. In addition, you shall be responsible for any losses, expenses, or damages you and your workers may cause.
+6. You agree that during your appointment and at any time thereafter, that you will not disclose to any person, firm or corporation any confidential information regarding the Company, its business, contractors, directors, officers, and employees.
+7. This letter contains the entire agreement.
+I trust the terms of this appointment meet your approval. If so, please indicate this by signing a copy of this letter and return it to us. An additional copy of this letter is enclosed for your records.
+Yours sincerely, Accepted and agreed this
+The above agreement was signed by Alpar Katona on behalf of Katona Tires, and was accepted by the signature of Arif Roya.
+[6] In evidence, the agent for the Appellants (Mr. Flunkert) reviewed with Mr. Katona lists of workers attached to the Respondent's Reply, and asked Mr. Katona to identify which workers had a contract with one or more of the Related Companies. Mr. Katona was able to identify many workers who had signed a standard form of contract. I am satisfied from Mr. Katona’s testimony that he genuinely believed that a particular worker who signed a form of contract would not be an employee of any of the Related Companies. Mr. Katona's belief, however genuine, is not well founded. I have concluded that the forms of agreement in Exhibit A-1 have little or no effect in causing a particular worker to be regarded as an independent contractor.
+[7] In my view, the form of agreement reproduced in paragraph 5 above has the mindset of a person hiring workers; it is paternalistically worded; and it points more toward employment than toward independent contractor notwithstanding the specific words in the first sentence. For example, I note the commanding language in some of the numbered sections:
+Section 2: You shall perform …
+Section 3: You shall keep the Company informed …
+You will determine …
+Section 4: You shall be solely responsible for …
+… you will not receive
+Section 5: You shall exercise control over …
+… you shall be responsible for …
+It is apparent from the form of the printed agreement that there was no room to negotiate the terms as between a worker and Katona Tires. A prospective worker would either sign the agreement or not work at Katona Tires.
+[8] In section 4 of the standard form of agreement, there is a blank after the fourth word in which the compensation is handwritten. Within the approximate 45 agreements comprising Exhibit A-1, about 35 show a rate of pay between $7.00 and $9.00 per hour, with a big majority being $8.00 per hour. Four agreements show a rate of pay between $14.00 and $17.00 per hour. And the remainder shows a lump sum per pay or per month. Having regard to compensation in the range of $8.00 per hour, persons paid by the hour (near the minimum wage) ordinarily require supervision because they are not paid by the job. Supervision implied employment. Also, a person who is paid a relatively low rate per hour cannot afford expenses related to his/her work. As a general rule, a low rate of pay must be without risk.
+[9] Mr. Katona described the principal business of remanufacturing tires. There were three locations in the Vancouver area: the Fraser Highway (10,000 sq. ft.), Scott Road (1,800 sq. ft.) and Richmond (1,400 sq. ft.). There were tire technicians, graders and inspectors. Some workers were required to wear uniforms. He stated that some of the persons on contract kept track of their own hours, while others were paid by piece work. The Related Companies did not provide all of the tools and equipment; some of the workers were required to own an automobile.
+[10] Abdul Karim was the second witness for the Appellant companies. He has worked as an accounts officer with the three Appellants since 1996. He was responsible for computing and remitting the source deductions for all workers who were employees. When the Canada Revenue Agency (“CRA”) audited the Related Companies, Mr. Karim had a personal problem because a $10,000 amount was, in error, included in his income from the numbered company (“Lexington Tire”). As an accounts officer, he had transferred $10,000 between two of the corporations on November 24, 2004. The CRA auditor concluded, in error, that the $10,000 was transferred to Mr. Karim as income; and included that amount in Mr. Karim’s 2004 income. He objected to that amount being included in his income but he did not object to his employment status.
+[11] The $10,000.00 amount appears in Exhibit R-4 (the payroll trust accounts examination report) under Mr. Karim’s name at November 24, 2004. He identified Exhibit A-4 as the actual bank transfer on November 24, 2004 which he effected and which led to the error. A Notice of Reassessment dated August 21, 2006 (Exhibit R-5) issued to Mr. Karim by CRA showed that the error had been reversed and the $10,000 removed from his 2004 income
+[12] The Respondent’s first witness was Sheri Inglis, a trust examination officer for CRA. It is her job to examine payroll records, general ledgers, etc. of an employer to test compliance with income tax, GST, employment insurance and CPP. She prepared the trust examination reports for three of the Related Companies which are marked as Exhibits R-3, R-4 and R-5. She observed that, in 2004, although the three Appellants were paying compensation to about 85 workers, they had only two employees. The assessments under appeal were issued as a consequence of her examination of the Appellants’ records.
+[13] Janet Mah was the Respondent’s second witness. She is an appeals officer for EI and CPP questions. She was assigned the files of the three Appellants which had served Notices of Objection. When she realized that there were about 85 workers who were not paid as employees, she decided to send a standard CRA questionnaire to each worker. The actual questionnaire of a worker named Colin MacKenzie was entered as Exhibit R-6. Ms. Mah tried to contact all 85 workers and did, in fact, contact about 90%. She concluded that most of the workers were employees because they were paid an hourly rate; they had a supervisor; and the work they did was for the Appellants’ customers and not their own customers.
+[14] Christopher Stefani appeared under subpoena as the Respondent’s third witness. He no longer works for any of the Related Companies but, in 2003 and 2004, he had worked for Alpi’s Tires and Katona Tires. Part of his job was to find persons who would sell used tires for remanufacturing. He wore a uniform with an “Alpi’s Tires” logo. He was paid by the hour every second Friday. His workday was 8:30 a.m. to 4:30 p.m. When he was looking to buy used tires, he would give out business cards bearing the name “Alpi’s Tires”. Mr. Stefani thought of himself as an employee even though he never received an ROE (record of employment).
+[15] The Appellants did not call any of the workers as witnesses but entered as Exhibit A-3 a group of five invoices submitted to Katona Tire or Alpi’s Tire by individuals who had signed contracts and who billed for the services. Exhibit A-3 is evidence of the fact that certain individuals who signed the standard form of contract billed for their services like independent contractors but counsel for the Respondent stated in argument that the workers who submitted invoices in Exhibit A-3 were not assessed as employees. In contrast to the two or three workers who appear in Exhibit A-3, Ms. Mah (the CRA appeals officer) made contact with 90% of the 85 workers whose status is in dispute and concluded that they were employees.
+[16] During the hearing of these appeals, the parties agreed that the following three workers who had been assessed as “employees” should be regarded as independent contractors:
+Al Nahal Lexington Tire - List No. 3
+Christine Holten Alpi’s Trading - List No. 8
+Peter Vitai Alpi’s Trading - List No. 8
+During Ms. Mah’s evidence, when describing the questionnaire which she sent out to 85 workers, she concluded that the following two workers were independent contractors:
+Julian Manzur Katona International - List No. 4
+Mike Roth Katona International - List No. 4
+The business name and list number appearing beside each of the above five workers explains where their names are found in the Respondent’s pleadings in the respective appeal. It is the only comprehensive list of workers whose status is in dispute.
+[17] Broadly speaking, the appeals herein should be dismissed, but I will allow all three corporate appeals, if necessary, only for the purpose of excluding as “employees” the five workers named in paragraph 16 above.
+Signed at Ottawa, Canada, this 18th day of May, 2007.
+“M.A. Mogan”
+Mogan D.J.
+CITATION: 2007TCC301
+COURT FILE NOS.: 2006-399(EI), 2006-400(CPP)
+2006-401(EI), 2006-402(CPP)
+2006-654(EI), 2006-656(CPP)
+STYLE OF CAUSE: 675869 BC LTD. o/a LEXINGTON TIRE SUPERSTORE, KATONA INTERNATIONAL HOLDINGS CORP. and ALPI'S TRADING INC. AND M.N.R.
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 18 and 19, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: May 18, 2007
+APPEARANCES:
+Agent for the Appellant:
+Karl Flunkert
+Counsel for the Respondent:
+John Gibb-Carsley
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

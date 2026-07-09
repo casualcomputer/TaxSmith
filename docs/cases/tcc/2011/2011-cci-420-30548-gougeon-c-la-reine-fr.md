@@ -1,0 +1,133 @@
+---
+title: "Gougeon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30548/index.do"
+last_modified: "2011-10-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 420"
+citation2: ""
+neutral_citation: "2011 CCI 420"
+decision_date: "2011-10-11"
+language: "fr"
+item_id: "30548"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7320
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:33:33.996000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "387c4ea61eba0a713fe696f55379457842c054c02a36ae22ebcb7095c5eb121a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gougeon c. La Reine
+
+- Citation: 2011 CCI 420
+- Decision date: 2011-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7320, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gougeon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-11
+Référence neutre
+2011 CCI 420
+Numéro de dossier
+2010-2628(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-2628(GST)I
+ENTRE :
+PIERRE GOUGEON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 28 juin et 31 août 2011, à Ottawa (Ontario)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Éric Bernatchez
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l’avis est daté du 6 janvier 2009 et vise la période du 28 févier 2006 au 29 février 2008, est rejeté.
+Signé, ce 11e jour d'octobre 2011.
+« François Angers »
+Juge Angers
+Référence : 2011 CCI 420
+Date : 20111011
+Dossier : 2010-2628(GST)I
+ENTRE :
+PIERRE GOUGEON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel d’une cotisation établie à l’encontre de l’appelant le 6 janvier 2009 en vertu de la partie IX de la Loi sur la taxe d’accise (la « Loi »). L’appelant a fait l’objet d’une cotisation de 10 015,92 $ relativement à la taxe nette, ainsi que les intérêts et les pénalités y afférant, que la société Quadrisard Canada ltée (la « société ») aurait dû verser en vertu du paragraphe 228(2) de la Loi. L’appelant était l’unique administrateur de la société en tout temps pertinent.
+[2] Il n’est pas contesté que la société est une personne morale dûment constituée et inscrite aux fins de la partie IX de la Loi. Elle a fait défaut de remettre des montants de taxe qu’elle avait perçus. Elle a fait l’objet d’une cotisation, incluant pénalités et intérêts, pour la période du 28 février 2006 au 29 février 2008.
+[3] Le 10 novembre 2008, la société a fait faillite et le ministre du Revenu national (le « ministre ») a fait enregistrer un certificat attestant les taxes, pénalités et intérêts payables par la société dans le délai prescrit à l’alinéa 323(2)c).
+[4] La seule question en litige est celle de savoir si l’appelant, en sa qualité d’administrateur, a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances, comme l’exige le paragraphe 323(3) de la Loi, ce qui lui permettrait de ne pas encourir la responsabilité que prévoit le paragraphe 323(1) de la Loi.
+[5] Selon l’appelant, les difficultés financières de la société ont commencé en l’an 2000, lorsqu’elle a perdu ses données informatiques. Comme il croyait toujours que la société était en mesure de générer des profits, il a préparé un nouveau plan d’affaires vers les années 2003 et 2004. La société était une entreprise locale de vente et de fabrication de décor mural, soit d’encadrement et de laminage.
+[6] L’appelant s’occupait de la haute gestion de la société et, comme on le sait, il en était le seul administrateur. Comme la société était déjà en retard dans ses remises de taxe, il a fait une demande auprès de la banque en septembre 2005 afin d’augmenter la marge de crédit de la société. Cette demande a été refusée. Il a par la suite fait des mises de fonds personnelles dans la société afin qu’elle puisse satisfaire à ses obligations financières. Il a ainsi réussi à payer certains arriérés des taxes payables par la société au ministre et on retrouve dans sa preuve des lettres proposant divers arrangements pour payer les arriérés de taxes de la société.
+[7] La société a connu des difficultés, particulièrement en 2005 et 2006, qui n’ont point aidé sa situation financière. Elles visaient des différends avec son locataire et des employés. Pour ce qui est du versement des taxes en vertu de la Loi, seuls les arriérés étaient versés. En fait, le montant de la cotisation en appel a été calculé grâce aux déclarations produites par la société durant les périodes en cause, pour lesquelles elle n’a cependant pas fait de versement.
+[8] Il ne fait aucun doute que l’appelant a mis beaucoup d’efforts à rentabiliser son entreprise et que cette dernière a connu des difficultés qui n’ont certes pas aidé. Il faut cependant se rappeler que ce que la Loi exige d’un administrateur, c’est qu’il démontre qu’il était particulièrement inquiet de la non-remise des taxes par la société et qu’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[9] Dans une récente décision, Buckingham c. Canada, 2011 CAF 142, la Cour d’appel fédérale nous rappelle l'intention du législateur visant les dispositions pertinentes. Aux paragraphes 52, 56 et 57, on lit :
+Le Parlement n'a pas requis des administrateurs qu'ils soient assujettis à une responsabilité absolue relativement aux versements de leurs sociétés. En conséquence, le Parlement accepte qu'une société puisse, dans certaines circonstances, ne pas effectuer des versements sans que la responsabilité de ses administrateurs ne soit engagée. Ce qui est requis des administrateurs, c'est qu'ils démontrent qu'ils se sont effectivement préoccupés des versements fiscaux et qu'ils se sont acquittés de leur obligation de soin, de diligence et d'habileté afin de prévenir le défaut de la société de verser les montants visés.
+[. . . ]
+L'administrateur d'une société qui avalise la poursuite des activités de sa société en réaffectant à d'autres fins des retenues à la source sur les salaires ne peut établir une défense fondée sur le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu. Tout le régime de l'article 227.1 de la Loi de l'impôt sur le revenu, lu dans son ensemble, est précisément conçu pour éviter de telles situations. En l'espèce, l'intimé avait une attente raisonnable (mais erronée) que la vente de la division de production de cours en ligne donnerait lieu à un paiement important pouvant servir à satisfaire les créanciers, mais il a consciemment fait assumer par la Couronne une partie des risques associés à cette transaction en continuant les activités tout en sachant que les retenues à la source ne seraient pas versées. Il s'agit précisément du méfait que le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu vise à éviter.
+Une fois que le juge de première instance a tiré la conclusion de fait que les efforts déployés par l'intimé après le mois de février 2003 ne visaient plus à éviter les défauts de versements, le moyen de défense fondé sur le paragraphe 227.1(3) de la Loi de l'impôt sur le revenu ou le paragraphe 323(3) de la Loi sur la taxe d'accise ne pouvait être retenu.
+[10] L’appelant a dirigé son entreprise pendant plusieurs années, et tout au long de ces années, la société a été constamment en retard dans ses remises, ce qui explique le montant des intérêts et des pénalités dans la cotisation. Il devient donc évident que la société se souciait peu de faire ses remises lorsqu’elles étaient exigibles et que l’appelant, étant son âme dirigeante et en connaissance de cause, se souciait peu de cette obligation. Il était également de son devoir, en tant qu’administrateur, de s’assurer que la société fasse ses remises au moment où elle était tenue de les verser.
+[11] Il me paraît évident, en l’espèce, que l’administrateur préférait se servir de cet argent pour financer les activités de la société, ce que la disposition législative veut effectivement éviter. Je cite ici un autre passage de l’arrêt Buckingham c. Canada, 2011 CAF 142 :
+49 L'approche traditionnelle est celle voulant que l'administrateur a le devoir de prévenir les défauts de versement, et non de les avaliser dans l'espoir qu'il sera ensuite possible de remédier aux problèmes : Canada c. Corsano, [1999] 3 C.F. 173 (C.A.), au paragraphe 35, Ruffo c. Canada, 2000 D.T.C. 6317, [2000] 4 C.T.C. 39 (C.A.F.). Contrairement aux fournisseurs d'une société qui peuvent limiter leurs risques financiers en exigeant des paiements comptants en avance, la Couronne est un créancier involontaire. Le niveau des risques encourus par la Couronne à l'égard d'une société peut donc accroître si la société poursuit ses activités en versant aux employés les salaires nets sans effectuer les versements des retenues à la source sur ces salaires, ou si la société décide de percevoir la TPS/TVH des clients sans déclarer et verser ces montants en temps opportun. Une société qui fait face à des difficultés financières pourrait s'hasarder à réaffecter les versements dus à la Couronne afin de payer d'autres créanciers et ainsi assurer la poursuite de ses activités. C'est précisément une telle conjoncture que les articles 227.1 de la Loi de l'impôt sur le revenu et 323 de la Loi sur la taxe d'accise visent à éviter. Le moyen de défense prévu au paragraphe 227.1(3) de la Loi de l'impôt sur le revenu et au paragraphe 323(3) de la Loi sur la taxe d'accise ne devrait pas servir à encourager de tels défauts de versement en permettant aux administrateurs d'invoquer une défense de diligence raisonnable lorsqu'ils financent les activités de leur société à l'aide de remises dues à la Couronne, en espérant remédier plus tard à ces défauts.
+[12] L’appelant n’a pas démontré qu’il a pris des moyens concrets pour s’assurer que les remises soient faites au moment où elles devaient être versées. Ses démarches étaient davantage de nature curative, puisqu’il préférait négocier des ententes de paiement à long terme pour payer les arriérés.
+[13] L’appelant n’a pas démontré qu’il était dépourvu de connaissance ou de compétence pouvant justifier son inaction en l’espèce. L’appel est rejeté.
+Signé, ce 11e jour d'octobre 2011.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2011 CCI 420
+Nº DU DOSSIER DE LA COUR : 2010-2628(GST)I
+INTITULÉ DE LA CAUSE : Pierre Gougeon c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATES DE L’AUDIENCE : les 28 juin et 31 août 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 11 octobre 2011
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Éric Bernatchez
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

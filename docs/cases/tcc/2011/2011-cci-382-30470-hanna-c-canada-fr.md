@@ -1,0 +1,130 @@
+---
+title: "Hanna c. Canada"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30470/index.do"
+last_modified: "2011-06-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 382"
+citation2: ""
+neutral_citation: "2011 CCI 382"
+decision_date: "2011-06-02"
+language: "fr"
+item_id: "30470"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7266
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:50:26.077000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8edca819e7e992e77ec3a0d06c66a5bae8f43eb0f93e0efee71a94eee4b1e4ca"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hanna c. Canada
+
+- Citation: 2011 CCI 382
+- Decision date: 2011-06-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7266, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hanna c. Canada
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-02
+Référence neutre
+2011 CCI 382
+Numéro de dossier
+2010-2919(IT)I, 2010-3182(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2011 CCI 382
+Date : Le 15 août 2011
+Dossier : 2010-3182(IT)I
+ENTRE :
+NASR HANNA,
+appelant,
+et
+SA MAJETÉ LA REINE,
+intimée.
+Dossier : 2010-2919(IT)I
+ET ENTRE :
+SARWAT MANSOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Révisés à l’aide de la transcription des motifs du jugement rendus oralement à l’audience le 2 juin 2011 à Hamilton (Ontario))
+La juge Campbell
+[1] Rebonjour à vous deux. Qu’il soit consigné au dossier que je rends oralement mes motifs dans les appels interjetés par Sarwat Mansour et Nasr Hanna que j'ai entendus hier. Les appels ont été entendus ensemble sur preuve commune et concernent les années d’imposition 2005, 2006 et 2007 des deux appelants.
+[2] Dans le calcul du revenu pour ces années d’imposition, les appelants ont déduit des frais concernant un bien situé sur l’avenue Lawrence Est à Toronto (le « bien »). Le ministre du Revenu national (le « ministre ») leur a signifié des avis de nouvelle cotisation leur refusant la déduction de dépenses de location.
+[3] Les appelants ont acquis le bien à zonage commercial en 2004 pour la somme de 235 000 $. Chacun possédait une participation de 50 % dans le bien. Celui-ci a été acheté pour devenir un centre qui faciliterait l’arrivée et l’adaptation au Canada de réfugiés venant du Moyen-Orient, particulièrement d’Égypte.
+[4] Les appelants ont constitué en personne morale la Canadian Coptic Association, ce qui, selon le témoignage de M. Mansour, a été fait sur les instances de la banque afin de rendre possible des emprunts d’argent. Les appelants ont dépensé environ 60 000 $ en rénovations, car le bien avait auparavant servi d’hôpital vétérinaire. Les appelants ont obtenu ensemble une hypothèque de 130 000 $.
+[5] Selon M. Mansour, ils ont essayé de louer le bien après la fin des rénovations, mais n’ont eu que peu de succès. Ils ont publié des annonces dans les journaux qui offraient des annonces gratuites et confié l’affaire à un courtier à un certain moment, dans l’espoir de louer le bien. Le bien a été brièvement loué à un locataire en 2005, mais jamais après cette année-là. Tout locataire éventuel n'aurait pu louer qu'à court terme, au cas où des réfugiés arriveraient à bref délai en provenance du Moyen-Orient.
+[6] La Canadian Coptic Association effectuait les versements hypothécaires mensuels à l’égard du bien et acquittait les factures de services publics, de téléphone et des services de sécurité. Selon son témoignage, M. Mansour disposait d’une marge de crédit au moyen de laquelle il acheminait des fonds au compte bancaire de l’Association pour payer les frais liés au bien. En plus d’une courte location en 2005, M. Mansour a mentionné que le bien avait été loué occasionnellement, par exemple pour des rencontres en soirée. M. Mansour a indiqué qu’il n’y avait aucune présence physique de l’Association sur place, sauf l’affichage devant l’immeuble, un téléphone et un petit bureau à l’intérieur.
+[7] La question à trancher dans ces appels est de savoir si les appelants peuvent déduire diverses dépenses liées à l’entretien de ce bien dans les années d’imposition 2005, 2006 et 2007.
+[8] Le ministre a invoqué les arguments suivants à l’appui de son refus d’accorder la déduction de ces dépenses :
+(1) ce ne sont pas les appelants qui ont engagé les dépenses concernant le bien;
+(2) subsidiairement, si ce sont les appelants qui ont engagé les dépenses, celles-ci ne peuvent toujours pas être déduites parce qu’elles n’ont pas été engagées pour tirer un revenu de ce bien.
+[9] Il ne m’a simplement pas été présenté d'éléments de preuve concernant un grand nombre de ces dépenses, qui les a acquittées et de quelle façon, que ce soit dans la preuve documentaire ou dans des témoignages de vive voix. Je dispose d’éléments de preuve documentaire selon lesquels les dépenses relatives aux services publics, au téléphone et à la sécurité ont été engagées au nom de l’Association. Même si les frais d’intérêts sur l’hypothèque ont été acquittés par l’intermédiaire d’un compte établi au nom de l’Association, l’hypothèque a été souscrite aux noms des appelants, qui étaient donc légalement responsables des frais d’intérêts.
+[10] Je ne dispose d’aucun élément de preuve concernant le paiement des autres dépenses dont la déduction est demandée, par exemple l’assurance, les taxes et les honoraires professionnels. Je ne dispose simplement d’aucun élément de preuve me permettant de tirer la moindre conclusion à savoir qui a engagé ces dépenses ou qui les a acquittées. Par conséquent, si ce n’est du principal et des intérêts des paiements hypothécaires, supportés personnellement par les appelants, il n’y a que peu de dépenses engagées au nom de l’Association (services publics, téléphone et services de sécurité) et plutôt qu’à celui des appelants. Toutefois, en ce qui concerne le reste des dépenses, je ne dispose d’aucun élément de preuve qui me permettrait de tirer la moindre conclusion.
+[11] Vu les frais d’intérêts liés à l’hypothèque qui ont été engagés par les appelants, j’aborderai l’argument subsidiaire du ministre, à savoir qu’il n’y a aucune source de revenu. Cet argument subsidiaire s’applique à la totalité des dépenses dont la déduction est demandée et non seulement aux frais d’intérêts liés à l’hypothèque. Le critère de l’existence d’une source « en vue de réaliser un profit » a été exprimé au paragraphe 54 de l’arrêt Stewart c. Canada, 2002 CSC 46, [2002] R.C.S. 645 : « Le contribuable a-t-il l’intention d’exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Dans l’arrêt Stewart, la Cour suprême a ajouté : « Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux. »
+[12] Ce critère de l’existence d’une source « en vue de tirer un profit » doit s’appliquer dans les cas où certains éléments personnels sont en cause dans l’activité entreprise par un contribuable. Manifestement, l’activité en l’espèce concernait les objectifs personnels déclarés par les appelants, à savoir utiliser le bien comme point de rassemblement pour aider des réfugiés à venir au Canada et, plus tard, les aider à trouver du travail ici. En fait, selon le témoignage de M. Mansour, c’est l’intention ou l’objectif prédominant pour lequel ils ont acquis ce bien. Il a déclaré que, dans l’intervalle, lui et son associé espéraient louer le bien à court terme à des locataires commerciaux.
+[13] Dans l’arrêt Stewart, il est fait mention des conclusions du juge Dickson, dans Moldowan c. La Reine, [1978] 1 R.C.S. 480, exposant un certain nombre de facteurs objectifs dont il faut tenir compte pour établir si un contribuable exerce une activité comme une entreprise ou de manière commerciale. Il s’agit de facteurs objectifs dont la liste n’est pas exhaustive, mais qui comprennent :
+(1) l’état des profits et des pertes pour les années antérieures;
+(2) la formation du contribuable;
+(3) la voie sur laquelle il entend s’engager;
+(4) la capacité de l’entreprise de réaliser un profit.
+[14] Dans l’examen de la preuve à la lumière de ces facteurs, la Cour doit éviter de mettre en doute le sens des affaires du contribuable. Toutefois, étant donné que cette activité comporte un élément personnel, il faut entreprendre un examen des facteurs pour établir si l’intention principale des appelants était de réaliser un profit par la location commerciale du bien et, le cas échéant, si l’activité de location était menée conformément à des normes de comportement d’homme d’affaires sérieux. Selon les éléments de preuve dont je dispose, le bien n’a été que très peu loué au cours de ces années. Tout au plus, il a été loué de façon sporadique, notamment une location de plusieurs mois en 2005, et, hormis cela, de courtes périodes de location pour des réunions ou des barbecues. L’activité de location, en l’espèce, n’a jamais été profitable et il en ressort qu’il y avait des revenus minimes et des pertes comparativement importantes.
+[15] En fait, les appelants n'ont mené aucune enquête avant l’achat du bien pour savoir s’il générerait des revenus de location. M. Mansour a également déclaré, au contre‑interrogatoire, qu’ils comptaient s’occuper eux-mêmes personnellement des dépenses liées au bien en l’absence de revenus de location. De plus, d’après les éléments de preuve, les locataires auraient dû rapidement vider les lieux si des réfugiés étaient arrivés subitement du Moyen-Orient. Cela pourrait avoir miné leur capacité d’attirer des locataires à long terme ou même le moindre locataire.
+[16] Tout cela m’amène à conclure que les appelants ne se sont jamais souciés de la location du bien, ou tout au plus pas très sérieusement. Rien de tout cela n'est conforme aux normes d’un comportement d’affaires. Les appelants ne s’étaient antérieurement jamais vraiment occupés de location de biens. Nasr Hanna est médecin et M. Mansour est un retraité de l’industrie automobile. Même si M. Mansour avait acquis une certaine expérience dans l’achat et la location de locaux résidentiels, cela semblait être un engagement plutôt restreint.
+[17] Les éléments de preuve appuient ma conclusion selon laquelle l’intention principale et prédominante des appelants était d’utiliser ce bien pour leur entreprise concernant les réfugiés et non pas de tirer profit des activités de location. La location semblait être tout ou plus une idée venue après coup, qui n’a suscité que peu d’efforts pour concrétiser les activités de location commerciale. Pour ces motifs, les appels sont rejetés sans frais. Cela conclut mes motifs pour les deux appels.
+Signé à Summerside (Île-du-Prince-Édouard), ce 15e jour d’août 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 29e jour de janvier 2014.
+S. Tasset
+RÉFÉRENCE : 2011 CCI 382
+NOS DE DOSSIERS DE LA COUR : 2010-3182(IT)I
+2010-2919(IT)I
+INTITULÉS : NASR HANNA ET SA MAJESTÉ LA REINE
+SARWAT MANSOUR ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 1er juin 2011
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DES MOTIFS DU JUGEMENT : Le 15 août 2011
+DATE DU JUGEMENT ORAL : Le 2 juin 2011
+COMPARUTIONS :
+Représentant des appelants :
+M. John Lindsay
+Avocate de l’intimée :
+Me Naomi Goldstein
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

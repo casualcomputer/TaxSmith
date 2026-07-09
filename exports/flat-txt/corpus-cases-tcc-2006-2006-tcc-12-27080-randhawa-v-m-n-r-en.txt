@@ -1,0 +1,258 @@
+Title: Randhawa v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27080/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-12-27080-randhawa-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-01-09
+
+# Randhawa v. M.N.R.
+
+- Citation: 2006 TCC 12
+- Decision date: 2006-01-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 950, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Randhawa v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-09
+Neutral citation
+2006 TCC 12
+File numbers
+2004-3169(EI)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-3169(EI)
+BETWEEN:
+DARSHAN NURSERIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Inderpal Singh Randhawa (2004-3170(EI)), Nirmaljit Kaur Randhawa (2004-3171(EI)) and Parminder Kaur Randhawa (2004-3172(EI)) on June 1-3, 2005 and September 12-14, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Gregory P. Bruce
+Counsel for the Respondent:
+Stacey M. Repas
+Miho Ogi-Harris (Student-at-Law)
+____________________________________________________________________
+JUDGMENT
+The appeal filed as it relates to Nirmaljit and Parminder is dismissed and the decision of the Minister is confirmed.
+The appeal filed as it relates to Inderpal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 9th day of January 2006.
+"L.M. Little"
+Little J.
+Docket: 2004-3170(EI)
+BETWEEN:
+INDERPAL SINGH RANDHAWA,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Darshan Nurseries Inc. (2004-3169(EI)), Nirmaljit Kaur Randhawa (2004-3171)(EI)) and Parminder Kaur Randhawa (2004-3172(EI)) on June 1-3, 2005 and September 12-14, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Gregory P. Bruce
+Counsel for the Respondent:
+Stacey M. Repas
+Miho Ogi-Harris (Student-at-Law)
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 9th day of January 2006.
+"L.M. Little"
+Little J.
+Docket: 2004-3171(EI)
+BETWEEN:
+NIRMALJIT KAUR RANDHAWA,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Darshan Nurseries Inc. (2004-3169(EI)), Inderpal Singh Randhawa (2004-3170(EI)) and Parminder Kaur Randhawa (2004-3172(EI)) on June 1-3, 2005 and
+September 12-14, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Gregory P. Bruce
+Counsel for the Respondent:
+Stacey M. Repas
+Miho Ogi-Harris (Student-at-Law)
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed, without costs, and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 9th day of January 2006.
+"L.M. Little"
+Little J.
+Docket: 2004-3172(EI)
+BETWEEN:
+PARMINDER KAUR RANDHAWA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard common evidence with the appeals of Darshan Nurseries Inc. (2004-3169(EI)), Inderpal Singh Randhawa (2004-3170(EI)) and Nirmaljit Kaur Randhawa (2004-3171(EI)) on June 1-3, 2005 and September 12-14, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Gregory P. Bruce
+Counsel for the Respondent:
+Stacey M. Repas
+Miho Ogi-Harris (Student-at-Law)
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed, without costs, and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 9th day of January 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC12
+Date: 20060109
+Dockets: 2004-3169(EI)
+2004-3170(EI)
+2004-3171(EI)
+2004-3172(EI)
+BETWEEN:
+DARSHAN NURSERIES INC.,
+INDERPAL SINGH RANDHAWA,
+NIRMALJIT KAUR RANDHAWA,
+PARMINDER KAUR RANDHAWA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The above appeals were heard in Vancouver, British Columbia on common evidence.
+[2] In June 2002 the Human Resources Development Commission ("HRDC") requested Rulings on the insurability of the employment of Nirmaljit Kaur Randhawa ("Nirmaljit"), Parminder Kaur Randhawa ("Parminder") and Inderpal Singh Randhawa ("Inderpal").
+[3] Nirmaljit, Parminder and Inderpal are collectively referred to as the "Workers".
+[4] Darshan Nurseries Inc., ("Nurseries") is a company incorporated under the laws of the Province of British Columbia. The Workers allege that they worked for Nurseries during various periods.
+[5] The Periods under review are:
+(a) Nirmaljit - from March 8, 1999 to July 3, 1999, February 7, 2000 to July 27, 2000; and April 5, 2001 to September 1, 2001.
+(b) Parminder - from March 20, 2000 to October 7, 2000 and May 7, 2001 to October 20, 2001;
+(c) Inderpal - from February 6, 1998 to July 25, 1998, March 24, 1999 to January 14, 2000 and October 29, 2000 to August 30, 2001;
+[6] On March 4, 2003 the Minister of National Revenue (the "Minister") issued Rulings covering the employment for each of the Workers for the respective Periods.
+[7] By letter dated May 14, 2003 the Workers appealed the Rulings.
+[8] The Minister determined that the Workers were not employed in insurable employment during the respective Periods.
+[9] The Minister issued Rulings based upon a number of facts. Some of the facts relied upon by the Minister were:
+(a) at all material times, the Appellant, Nurseries, was owned solely by Darshan Randhawa ("Darshan");
+(b) at all material times, the Appellant, Nurseries, operated a nursery in Abbotsford, British Columbia selling landscaping trees, shrubs, perennials and annuals at the wholesale level and also operated a retail store on the premises;
+(c) at all material times, Nurseries operated on 33 acres of land located on Townline Road in Abbotsford which was purchased in 1990 and owned by Surjit K. Randhawa (the mother), Darshan Randhawa (her son), Inderpal Randhawa (her second son) and Nirmaljit Randhawa (Darshan's wife);
+(d) Nurseries did not deal at arm's length with Nirmaljit, Parminder and Inderpal.
+B. ISSUES:
+[10] The issues are:
+(a) whether the Workers were employed in insurable employment with Nurseries under a contract of service during the respective Periods; and
+(b) whether the Workers were excluded from insurable employment pursuant to paragraph 5(2)(i) of the Employment Insurance Act.
+C. ANALYSIS:
+RE: DARSHAN NURSERIES
+[11] Based on the evidence before me I have concluded that the Workers were employed by Nurseries under a contract of service during the respective periods.
+[12] I must next determine whether the Workers were excluded from insurable employment pursuant to paragraphs 5(2)(i) and 5(3)(b) of the Employment Insurance Act. These provisions read as follows:
+5(2) Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5(3) For the purpose of paragraph 2(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[13] What is being challenged in this appeal is the decision of the Minister that he was not satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and the importance of the work performed, it would have been reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[14] The position of a Judge of the Tax Court of Canada in this type of appeal is, in my opinion, correctly outlined by Chief Justice Richard of the Federal Court of Appeal in Denis v. Canada, [2004] F.C.J. No. 400:
+5. The function of the Tax Court of Canada judge in an appeal from a determination by the Minister on the exclusion provisions contained in subsections 5(2) and (3) of the Act is to inquire into all the facts with the parties and the witnesses called for the first time to testify under oath, and to consider whether the Minister's conclusion still seems reasonable. However, the judge should not substitute his or her own opinion for that of the Minister when there are no new facts and there is no basis for thinking that the facts were misunderstood (see Pérusse v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 310, March 10, 2000).
+[15] Based on these comments, I believe that the role of the Tax Court Judge is to conduct a trial at which both parties may adduce evidence as to the terms upon which the Appellant was employed, evidence as to the terms upon which persons at arm's length doing similar work were employed by the same employer and evidence relevant to the conditions of employment prevailing in the industry for the same kind of work at the same time and place. In the light of all that evidence, the Tax Court Judge must then assess whether the Minister, if he had had the benefit of all that evidence, could reasonably have failed to conclude that the employer and a person acting at arm's length would have entered into a substantially similar contract of employment. That, as I understand it, is the degree of judicial deference that Parliament's use of the expression "...if the Minister of National Revenue is satisfied ..." in paragraph 5(3)(b) accords to the Minister's opinion.
+(Note: I also agree with the comments of my colleague, Justice Bowie in Birkland v. Canada, [2005] T.C.J. No. 195).
+[16] When I apply the judicial approach outlined above to the facts in this situation, I note the following:
+RE: NIRMALJIT
+1. Nirmaljit is married to Darshan.
+2. Until a sale of shares that Darshan made to his brother in 2002, Darshan owned 100% of the shares of Nurseries.
+3. Nirmaljit was paid on an hourly basis at a rate of $13.00 in 1999 and 2000 and at $14.00 per hour in 2001.
+4. Nirmaljit was not paid wages on a regular basis.
+5. Nirmaljit had accrued wages of $7,132.00 for the 2000 taxation year and $15,316.00 for the 2001 taxation year.
+6. Nirmaljit was not paid what was owed by Nurseries to her until May 2002.
+7. Mr. Paul Wadhawan, an accountant retained by Nurseries, testified that unrelated employees were being paid by Nurseries ahead of the related employees such as Nirmaljit.
+[17] In my opinion, the Minister was correct when he concluded that if Nirmaljit had been dealing with Nurseries at arm's length, Nirmaljit and Nurseries would not have entered into a substantially similar arrangement.
+[18] RE: PARMINDER
+With respect to Parminder I note the following:
+1. Parminder was married to Inderpal.
+2. Parminder arrived in Canada as Inderpal's wife in February 2000.
+3. Parminder began working for Nurseries in March 2000.
+4. In the year 2000 Parminder performed light duties for Nurseries such as operating the cash register or potting, since she was pregnant.
+5. Parminder's hours of work were from 8:30 a.m. to 6:00 p.m. Monday to Saturday.
+6. Parminder was to be paid on an hourly basis at the rate of $10.00 per hour in 2000 and $12.00 per hour in 2001.
+7. The standard for the industry ranged from $7.75 to $12.34 per hour.
+8. Parminder was not paid wages on a regular basis.
+9. Parminder was not paid any wages by Nurseries in the year 2000.
+10. Parminder had accrued unpaid wages from Nurseries of $13,229.00 in 2000 and a further accrual of $15,079.00 in the first half of 2001.
+11. Parminder was not paid any wages by Nurseries until July 13, 2001.
+12. Parminder did not receive full payment from Nurseries of her 2000 and 2001 wages until May 2002.
+[19] I again note that Mr. Paul Wadhawan, Nurseries' accountant, testified that unrelated employees of Nurseries were being paid by Nurseries ahead of related employees such as Parminder.
+[20] I do not believe that it is normal to expect that an arm's length person would work for Nurseries for one to two years without being paid.
+[21] In my opinion, the Minister was correct when he concluded that if Parminder had been dealing with Nurseries at arm's length, Parminder and Nurseries would not have entered into a substantially similar arrangement.
+[22] RE: INDERPAL
+With respect to Inderpal, I note the following:
+1. Inderpal's duties with Nurseries were digging and shipping of plants and shrubs, leading the crew for planting, propagation and maintenance of the greenhouse.
+2. Inderpal's hours of work were from 8:30 a.m. to 5:00 p.m. Monday to Friday.
+3. Inderpal's rate of pay was based on an amount of $14.00 per hour.
+4. Inderpal had signing authority on the Appellant's bank account. However the evidence indicated that in the Periods Inderpal did not sign any cheques.
+5. During the Periods, Inderpal did not receive regular payments from Nurseries, due to cash flow problems.
+6. Inderpal worked with the understanding that he was to become a part owner of Nurseries.
+7. Inderpal agreed to forego wages owing to him in exchange for a share in Nurseries.
+8. Inderpal's wages were settled by accruing a note payable to him.
+9. Inderpal was given promissory notes in lieu of payment.
+10. Inderpal had accrued unpaid wages for 1997 of $20,272.00.
+11. By the end of 1998, Inderpal had accrued wages documented by a note payable totalling $36,052.00.
+12. Inderpal had additional unpaid wages of $17,409.00 for 1999 and $4,256.00 for 2000 increasing the note payable to him to a total of $57,514.00.
+13. On April 17, 2002 Inderpal exchanged his note payable for half of the shares of Nurseries.
+[23] In my opinion the position of Inderpal is not the same as the position of Nirmaljit and Parminder. In this connection it should be noted that the evidence was that Inderpal and Darshan talked to their accountant about how the money owing by Nurseries to Inderpal could be secured. As indicated above, promissory notes were issued to Inderpal on two occasions to secure the amount owing to him. Furthermore, on April 17, 2002, 50% of the shares of Nurseries were received by Inderpal in satisfaction of the amount owing to him by Nurseries.
+[24] In my opinion the position adopted by the Minister was not correct when he concluded that Inderpal would not have entered into this arrangement with Nurseries. I believe that Inderpal and Nurseries reacted in the only way that they could under the circumstances. The appeal filed by Inderpal is allowed.
+[25] The appeal filed by Nurseries as it relates to Inderpal is allowed.
+[26] The appeals filed by Nirmaljit and Parminder are dismissed and the appeal filed by Nurseries as it relates to Nirmaljit and Parminder is dismissed.
+Signed at Vancouver, British Columbia, this 9th day of January 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC12
+COURT FILE NOS.:
+2004-3169(EI), 2004-3170(EI),
+2004-3171(EI), 2004-3172(EI)
+STYLE OF CAUSE:
+Darshan Nurseries Inc.,
+Inderpal Singh Randhawa,
+Nirmaljit Kaur Randhawa,
+Parminder Kaur Randhawa and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 1-3, 2005, September 12-14, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+January 9, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Gregory P. Bruce
+Counsel for the Respondent:
+Stacey M. Repas
+Miho Ogi-Harris (Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gregory P. Bruce
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

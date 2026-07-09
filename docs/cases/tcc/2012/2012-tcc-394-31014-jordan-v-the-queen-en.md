@@ -1,0 +1,146 @@
+---
+title: "Jordan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31014/index.do"
+last_modified: "2012-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 394"
+citation2: ""
+neutral_citation: "2012 TCC 394"
+decision_date: "2012-11-08"
+language: "en"
+item_id: "31014"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4896
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:02:56.113000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f91c667f28b3852f1259bd10dbee9a9ecab6280c969e8d978d662dfbd140216"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jordan v. The Queen
+
+- Citation: 2012 TCC 394
+- Decision date: 2012-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4896, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jordan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-11-08
+Neutral citation
+2012 TCC 394
+File numbers
+2012-2088(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2088(IT)I
+BETWEEN:
+BILL JORDAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 11, 2012 at Regina, Saskatchewan
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+Kevin Mellor
+Counsel for the Respondent:
+John Gravel
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2010 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the medical expense tax credit with respect to additional travel expenses in the amount of $14,833. The appellant is entitled to his costs in accordance with the applicable tariff.
+Signed at Toronto, Ontario this 8th day of November 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 394
+Date: 20121108
+Docket: 2012-2088(IT)I
+BETWEEN:
+BILL JORDAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Bill Jordan appeals in respect of the disallowance of a medical expense tax credit for travel expenses in the amount of $14,883 that he claimed for the 2010 taxation year. The expenses were incurred in the course of traveling between Mr. Jordan’s home and the location where his spouse was receiving medical treatment.
+Background
+[2] The appellant’s spouse, Terri Jordan, was struck by an aneurysm at the age of 48. Tragically, brain damage resulted and Ms. Jordan currently resides in a long-term care facility.
+[3] Immediately after the incident, Ms. Jordan was transported from her hometown of Weyburn, Saskatchewan to a hospital approximately 120 kilometres away in Regina. She was treated in the hospital for about six weeks and was then transferred to a rehabilitation centre in Regina. Weyburn did not have appropriate hospital or rehabilitation facilities for her treatment. After four months at the rehabilitation facility, Ms. Jordan was taken back to Weyburn where she spent some time in hospital and was then moved to a long-term care facility where she currently resides.
+[4] Mr. Jordan accompanied his spouse from Weyburn to Regina and six months later he accompanied her back to Weyburn. In the interim, Mr. Jordan made almost daily trips between Weyburn and Regina to assist with his spouse’s recovery, which required extensive therapy.
+[5] Ms. Jordan was in Regina from March 19 to September 10, 2010. Up until August, Mr. Jordan was given leave from work and he spent long hours with his spouse on a daily basis. Beginning early in August, Mr. Jordan went back to work on a part-time basis but he continued to make the trek to Regina after work on most days.
+[6] In his income tax return for the 2010 taxation year, Mr. Jordan claimed a medical expense tax credit in respect of $11,730 for motor vehicle expenses and $3,468 for meal expenses in Regina. These expenses were incurred in respect of 102 round trips between Weyburn and Regina.
+[7] The Minister allowed the medical expense tax credit in respect of Mr. Jordan’s expenses for one round trip which took place when Ms. Jordan initially went to Regina and when she returned to Weyburn. The expenses were allowed on the basis that Mr. Jordan’s attendance was necessary when his spouse was traveling. It is the additional 101 round trips that are at issue. The Crown does not dispute the amount that has been spent.
+Analysis
+[8] Mr. Jordan relies on paragraph 118.2(2)(h) of the Income Tax Act, which permits a medical expense tax credit in respect of certain travel expenses incurred when a patient requires medical treatment at least 80 kilometres away from their home. The provision is reproduced below, together with paragraph 118.2(2)(g), a related provision.
+(2) Medical expenses - For the purposes of subsection (1), a medical expense of an individual is an amount paid
+[…]
+(g) [transportation] - to a person engaged in the business of providing transportation services, to the extent that the payment is made for the transportation of
+(i) the patient, and
+(ii) one individual who accompanied the patient, where the patient was, and has been certified by a medical practitioner to be, incapable of travelling without the assistance of an attendant
+from the locality where the patient dwells to a place, not less than 40 kilometres from that locality, where medical services are normally provided, or from that place to that locality, if
+(iii) substantially equivalent medical services are not available in that locality,
+(iv) the route travelled by the patient is, having regard to the circumstances, a reasonably direct route, and
+(v) the patient travels to that place to obtain medical services for himself or herself and it is reasonable, having regard to the circumstances, for the patient to travel to that place to obtain those services;
+(h) [travel expenses] - for reasonable travel expenses (other than expenses described in paragraph (g)) incurred in respect of the patient and, where the patient was, and has been certified by a medical practitioner to be, incapable of travelling without the assistance of an attendant, in respect of one individual who accompanied the patient, to obtain medical services in a place that is not less than 80 kilometres from the locality where the patient dwells if the circumstances described in subparagraphs (g)(iii), (iv) and (v) apply;
+[9] As I understand the Crown’s position, it is that the tax credit only applies to travel expenses of an accompanying person if they are incurred as part of the transportation of the patient.
+[10] Counsel for the Crown acknowledges that this interpretation is not explicit in the legislation, however he submits that it is implied by the phrase “who accompanied the patient.”
+[11] Counsel for Mr. Jordan relies in large part on the decision of this Court in Bell v The Queen, 2009 TCC 523, which concluded that s. 118.2(2)(h) includes the travel costs of a spouse who accompanied the patient and lived away from home during the period of treatment. In Bell, the Minister had allowed the hotel and meal costs of the spouse but did not allow the cost of traveling between the hotel and hospital. The reasons of Bowie J. in allowing the additional costs are reproduced below.
+5 [In respect of the allowance by the Minister of hotel costs] I can only assume that the Minister had regard not only to section 12 of the Interpretation Act, which mandates a fair, large and liberal interpretation of legislation, but also to the recent jurisprudence requiring that statutes be given an interpretation that takes into account not only language and context, but also the purpose of the enactment. I expect that, having approached paragraph (h) in that way, he would have seen that it was aimed not simply at the cost of moving the patient, but at those additional expenses incurred by a patient, or the person accompanying a patient, during the period between first leaving home to go to the place of medical treatment, and returning home after the treatment is completed. Travel expenses, in other words, embrace not simply the cost of movement from one place to another, but also the attendant costs of living away from home during the treatment period. The Minister, it seems, recognized this in respect of accommodation and meals, but not in respect of the cost of travel back and forth between the hotel and the hospital for the appellant's wife during his hospitalization. I can see no difference between the two. They are both expenses to which the patient's spouse was subject as a result of his illness and the need to be treated more than 80 kms. from his home in Nanaimo. Clearly, the purpose of this paragraph in section 118.2 of the Act is to provide some relief from the extraordinary expenses incurred when a patient must receive medical treatment 80 kilometers or more from home. (Emphasis added.)
+[12] In my view, the interpretation above is a very reasonable one in the context of a broadly-worded and ambiguous provision.
+[13] The question that remains is whether there is a difference between the expenses in Bell, which were living expenses incurred away from home, and the expenses in this case, which were motor vehicle expenses to travel back and forth between Weyburn and Regina. I do not see any principled reason for making a distinction between the two. They are both travel expenses incurred by an accompanying person during the period of treatment.
+[14] It may have been that the Minister was influenced in this case by the long period of time that Ms. Jordan was being treated in Regina and the high value of the expenses that were incurred. I note, for example, that one of the assumptions made by the Minister in reassessing was that Mr. Jordan’s presence was not necessary during the rehabilitation phase.
+[15] The evidence in this case leaves no doubt that Ms. Jordan was required to receive medical treatment in Regina for a protracted length of time and that Mr. Jordan’s daily presence contributed significantly to her recovery. It is appropriate to apply the principle from Bell in this case, where the circumstances are obviously sympathetic.
+[16] The appeal will be allowed, with costs to the appellant in accordance with the tariff.
+Signed at Toronto, Ontario this 8th day of November 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 394
+COURT FILE NO.: 2012-2088(IT)I
+STYLE OF CAUSE: BILL JORDAN and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: October 11, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: November 8, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Kevin Mellor
+Counsel for the Respondent:
+John Gravel
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kevin Mellor
+Firm: Mellor Law Firm
+Regina, Saskatchewan
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

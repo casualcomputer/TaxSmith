@@ -1,0 +1,166 @@
+Title: Connolly v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29778/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-231-29778-connolly-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-04-30
+
+# Connolly v. The Queen
+
+- Citation: 2010 TCC 231
+- Decision date: 2010-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6523, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Connolly v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-30
+Neutral citation
+2010 TCC 231
+File numbers
+2009-2398(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2398(IT)I
+BETWEEN:
+MARGARET CONNOLLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 6, 2010 at Ottawa, Canada
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jack Warren
+____________________________________________________________________
+JUDGMENT
+The appeals from Notices of Determination for the base taxation years 2004, 2005 and 2006 are allowed, without costs, for the reasons set out in the attached Reasons for Judgment and are referred back to the Minister of National Revenue for re-determination and recalculation of the Canada Child Tax Benefit of the Appellant on the basis that the Appellant was the eligible individual for 3 months in respect of the 6 month period ending December 31, 2007, and 5 months in respect of each of the 12 month periods ending June 30, 2006 and June 30, 2007.
+Signed at Ottawa, Canada this 30th day of April 2010.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2010 TCC 231
+Date: 20100430
+Docket: 2009-2398(IT)I
+BETWEEN:
+MARGARET CONNOLLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+The Issue
+[1] The Appellant appeals Notices of Determination for the base taxation years 2004, 2005 and 2006 denying her the Canada Child Tax Benefit (“CCTB”) received by her in respect of those periods.
+[2] The Notices informed the Appellant that she had been overpaid the CCTB in the amounts of $2,730 for the base taxation year 2004 (in respect of the period July 2005 to June 2006), $2,975 for the base taxation year 2005 (in respect of the period July 2006 to June 2007) and $1,520.06 for the base taxation year 2006 (in respect of the period July 2007 to December 2007). The CCTB had been paid to the Appellant in respect of her son who was born in 1993.
+[3] The Appellant and the boy’s father divorced in 1998 after which the boy’s father married Stephanie B.. The boy continued to live with the Appellant who, pursuant to a Québec Superior Court Judgment ratifying and incorporating a Mediation Agreement, was granted legal custody of the child who according to the Judgment “shall ordinarily reside with the mother”.[1]
+[4] In the fall of 2004 when the boy was 11 years old, he began staying with his father and Stephanie B. in Ottawa in order to go to school there. The town where he lived with his mother was a small rural community in Québec about an hour and a half from Ottawa. He continued to live with his mother on weekends, during the summer and at various other times as will be noted later in these Reasons.
+[5] This pattern of living with both parents continued throughout the periods covered by the subject appeals.
+[6] The determination that the Appellant was not entitled to the CCTB was made on the basis that the Appellant was not the individual eligible to receive it under the Income Tax Act (the “Act”). That is the issue being appealed; namely, whether the Minister of National Revenue (the “Minister”) correctly determined that the Appellant was not the “eligible individual” entitled to receive the CCTB in respect of her son for the periods under appeal.[2]
+The Statutory Provisions
+[7] The term “eligible individual” is defined in section 122.6 of the Act as follows:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+[…]
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[8] The prescribed factors referred to in paragraph (h) to be considered in the determination of which parent meets the qualification in paragraph (b) are set out in Regulation 6302 as follows:
+6302. For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+The Minister’s Assumptions and other Background
+[9] The facts set out in paragraphs 3, 4 and 5 above are not in dispute. They were either adduced in evidence or assumed by the Minister without contradiction by the Appellant.
+[10] The operative assumptions are set out in paragraphs 6(e) through (i) of the Reply to the Notice of Appeal (“Reply”) which read as follows:
+e) In September 2004 the child moved in with his father and stepmother in Ottawa in order to attend school on a full time basis;
+f) On October 17, 2007 the Minister of National Revenue (hereinafter “the Minister”) received a Canada Child Benefits Application from Stephanie Byrne, requesting the CCTB from September 1, 2004 and on.
+g) Following the request the Minister issued a questionnaire to the Appellant and Stephanie Byrne;
+h) The Appellant did not return the completed questionnaire, and Stephanie Byrne returned the same indicating that the child lived part time with her and that she considered herself to be the person primarily responsible for the care and upbringing of the child for the periods he lived with her;
+i) Based upon the request for the CCTB and the return of the questionnaire the Minister issued the letters of determination on January 18, 2008 advising the appellant that there had been a change in eligible children and that she had been overpaid:
+i) $2,730 for the base year 2004 and period July 2005 to June 2006;
+ii) $2,975 for the base year 2005 and period July 2006 to June 2007; and
+iii) $1,520 for the base year 2006 and period July 2007 to December 2007.
+[11] The assumption in paragraph 6(h) of the Reply raises some definitional questions and concerns over the status of Stephanie B. as an eligible individual. She is not a biological parent of the dependant child in these appeals and is not given any parental authority under the Québec Superior Court Judgment. She claims to be, on a part time basis, the person primarily responsible for the care and upbringing of the child for the periods he lived with her. Neither she nor the boy’s father was at the hearing. While the testimony of the Appellant admitted to the possibility that the father might have a claim to be the boy’s primary caregiver for certain periods, no such suggestion was even hinted at in relation to Stephanie B..
+[12] The definitional concerns appear to be resolved by the definitions in section 252 of the Act. Paragraph 252(1)(c) defines child of a taxpayer to include a child of that taxpayer’s spouse and subparagraph 252(2)(a)(i) defines a parent of a taxpayer to include “a person whose child the taxpayer is” (or using more colloquial language the two provisions read together essentially say that if I am a biological child of a person, then that person’s spouse is my parent even if such spouse is not my biological mother).[3] Still, based on the evidence I can only conclude that Stephanie B. was not at any time an eligible individual. Assumptions of the sort made in paragraph (h) of the Reply are not meant to relieve the Respondent of the responsibility to make a bone fide assessment of competing CCTB claims. The Respondent must come to Court with something more than such meagre assumptions.[4]
+[13] While such state of affairs is highly unsatisfactory, the Appellant’s testimony was very candid and did underline the issue to be decided: was she an eligible individual? Her evidence relating to her being the person primarily responsible for the care and upbringing of her son was uncontradicted and, as stated, there was no one at the hearing to support any contention that the father was a caregiver aside from a few minor concessions made by the Appellant and aside from her acknowledgement that the father provided the child a place to live during the school week in order to go to a better school as encouraged by her - his responsible, care-giving mother.
+The Appellant’s Testimony
+[14] The Appellant and a friend testified at the hearing. Based on such testimony, I am satisfied that she never gave up being a caregiver.
+- She delivered her son to his father’s residence every Sunday evening for school the next day or directly to school on Monday mornings.
+- She maintained his room at her home where he lived during weekends, school holidays, including March break, much of the Christmas holiday and the summer months commencing when school ended in June and extending into September when school started.
+- Even when the dependant child was at his father’s, the Appellant talked to him regularly and provided parental guidance on all subjects whether he was at her home and his father’s home.
+- She guided his informal education in many areas from home repairs, computers, and planting and harvesting to cooking.
+- She went to teacher interviews, his grade 6 graduation, and school band concerts.
+- She was responsible for his health care and attended with him at medical appointments. In grade 7 he was away from school for adenoid surgery. She attended at doctor appointments, at the hospital for the surgery and his recovery period was with her at her home.
+- She reconstructed a log of days he spent with her on a calendar year basis. In the fall of 2004, 45 days from Labour day to Christmas; 169 days in 2005; 153 days in 2006; 165 days in 2007 and 174 days in 2008. This averages closer to 45% than 40%.
+[15] Until Stephanie B. applied for the CCTB, the boy’s mother and father had agreed that the Appellant would claim the benefit. This was not in writing. After the current issue arose, the father initially agreed to share the benefit on a 60%-40% basis in his favour. This agreement was not in writing either and he ultimately reneged on the agreement.[5] The Province of Québec, seemingly under a similar benefit scheme, awarded the Appellant benefits on a 60%-40% basis in favour of the father. At trial, that was what the Appellant sought as well.
+Argument
+[16] Respondent’s counsel referred to Justice Webb’s decision in Campbell v. The Queen.[6] In that decision Justice Webb examined subsection 122.61(1) of the Act which assigns the CCTB on a monthly basis to the parent who is the eligible individual at the beginning of the month. Respondent’s counsel put emphasis on the roof under which a child lives at the beginning of a month in terms of the “resides with” test in paragraph (a) and the “primary care giver” test in paragraph (b) of the definition of “eligible individual” in section 122.6. Under these tests the Appellant would qualify, for example, as the “eligible individual” for July and August and September.
+[17] Apparently, satisfied in the present appeal that the Appellant was the parent who primarily fulfilled the responsibility for the care and upbringing of the child at least while the child was with her and that the child was with her on the first day of the summer months, Respondent’s counsel seemed agreeable to allowing the appeal to that extent.
+[18] The Appellant argued for her entitlement on the basis that she had never given up her responsibility as the primary caregiver and should be allowed her share of the CCTB for the days her son actually lived under her roof. As noted, she seemed resigned to rounding her entitlement to 40% as allowed by the province of Québec.
+Analysis
+[19] The definition of eligible individual looks to the caregiver at a particular point in time; namely, the first day of the month and the person who is the caregiver at that point in time gets the whole month’s benefit.[7] One can resolve this appeal to meet the Appellant’s sense of what is “fair” if she is an eligible individual 5 months a year. On the basis that the qualified dependant lived with his mother on the first of July, August, September and January each year, we have 4 of the 5 months required to give her 41.67% of the annual CCTB. As to the other 8 months, if one of them began on a weekend or holiday, she would be, in each 12 month period under review, the eligible individual 5 of the 12 months.
+[20] This assumes that she was the person primarily responsible for her son’s care and upbringing during the times he lived under her roof. I have no reservation in concluding that to be the case.
+[21] Indeed, from the evidence I have heard and considering the factors to be considered under Regulation 6302, I could well find that she never gave up her responsibility as the primary caregiver to her son even when he lived under his father’s roof.
+[22] This leads me to consider whether the roof under which the child lives at a point in time need be the determinative factor in establishing with whom the child resides at that point in time.
+[23] The requirement in paragraph (a) of the definition of eligible individual requires that the parent reside with the child on the first day of the month. This is a peculiar test in that it does not ask if the child resides with the parent. It is peculiar since the parent, not the child, will have the “place” in which to reside.[8] How does a parent reside with a child? While I do not seek a metaphysical answer, the question seems to me to suggest that the roof under which the child lives at a point in time need not in all cases be taken as determinative. Further, and less obtuse, I note that if to reside with someone means “to stay or live with someone with a certain constancy, a certain regularity or else in a habitual manner”,[9] there is an immediate contradiction in believing that the physical structure in which one lives at a point in time has anything to do with where one resides even at that point time.
+[24] A case that illustrates the common sense of not being overly fixated on the roof under which the child lives is Penner v. R..[10] In that case the grandmother had legal custody of her granddaughter and was found to be the eligible individual despite the fact the child was boarded with another family during the school year as she continued to be responsible for her care and upbringing, including her medical care and education. A practical consideration in that case was that the grandmother was financially responsible for the child.
+[25] The Campbell decision also illustrates a tendency of not being overly fixated on the roof under which the child lives. Faced with the problem of a child moving from one residence to another every two weeks, it was difficult to determine how the eligible individual tests worked at the beginning of each month. The practical solution was to find that each parent was the eligible individual at the beginning of alternating months.
+[26] A further example is Sanderson v. R.[11] In that case, based on a split of time spent in each home of one-third in favour of the mother and two-thirds in favour of the father, this Court determined eligibility for the mother every third month and eligibility for the father for the intervening months.
+[27] Still, in the case at bar, I am not suggesting that when the child was at his father’s home, his father was not residing with him. I am simply pointing out another possible approach to the analysis of where a child resides (or of whether a father resides with a child) on the first day of a month. If the child resides with the mother for most of the month but not on the first day, there may be cases where consideration of the roof under which the child lives on that first day is not determinative. Clearly, the general rule would be to find that the roof under which the child lives is determinative but there must be room for exceptions where the facts and common sense dictate otherwise. I also note that this expansive approach as to where a person “resides” clearly contemplates that a person can reside in more than one place at one time.
+[28] Admitting to the possibility of exceptions to this general rule in my view facilitates the administration of the CCTB provisions on a sensible basis considering their purpose and considering the administrative problems associated with applying them on a strict literal basis where there is a good case for finding two eligible individuals in respect of the same child.
+[29] Indeed, Canada Revenue Agency has, on its own, adopted an administrative practice of allowing the benefit to be given to each parent for 6 months each year in appropriate circumstances where the child lives with each parent approximately half the time.[12] As it is then, the Act is not being applied on rigid first day of the month tests. Further, given that the subject legislation has never been changed in spite of the administrative difficulties that have led, with some guidance from this Court, to practices that ignore a literal construction of them, one might well assume that formulating sensible exceptions to a strict and literal construction of the subject requirement to reside with someone at a point in time cannot be taken exception to.
+[30] Indeed, I tend to believe that a liberal construction of the subject provisions is being given effect in order to allow a result that best deals with this sensitive area affecting children from broken homes. In addition to reported cases like Penner, Campbell and Sanderson mentioned above, I dare say there are a great number of unreported decisions that similarly handle such cases of shared responsibility for caring and housing children whose parents live apart.
+[31] Returning to the case at bar, I have noted that finding a fifth month, the first day of which the Appellant resided with her child at her home, would only require that at least one of the 8 months in question commenced on a weekend or school holiday. Even without finding that an exception to the general rule is warranted in this case (on the basis of a finding that there were one or more months that the child resided with his mother notwithstanding that he was sheltered under his father’s roof on the first day of such month or months), I am satisfied that as a matter of probability at least one of the 8 months in question would have commenced on a weekend or school holiday. That is, I am satisfied that on a balance of probability the Appellant would have in a 12 month period met the requirements for being the eligible individual in at least 5 months even applying the requirement in paragraph 122.6(1)(a) of the Act of the definition of eligible individual on a strict and literal basis.
+[32] I make no finding as to whether the father was ever the primary caregiver to his son even when he lived under his roof. What concerns me here is that at least one responsible parent, the Appellant, with the need to receive financial support for the care and upbringing of the child, for the time that child lives with her, has been recognized so as to avoid a result that would wholly frustrate the objectives of the subject provisions.
+[33] Accordingly, for the reasons set out above the appeals are allowed on the basis that the Appellant was the eligible individual for 3 months in respect of the 6 month period ending December 31, 2007, and 5 months in respect of each of the 12 month periods ending June 30, 2006 and June 30, 2007.
+Signed at Ottawa, Canada this 30th day of April 2010.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2010 TCC 231
+COURT FILE NO.: 2009-2398(IT)I
+STYLE OF CAUSE: MARGARET CONNOLLY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: April 6, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: April 30, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraphs 2 and 3 of Judgment NO: 550-12-018997-980. Legal custody to the mother allowed for both parents to exercise parental authority according to the Civil Code of Québec.
+[2] The Appellant received the CCTB for a preceding period during which her son also lived with his father in order to attend school on a full-time basis. However, no determination was made in respect of such prior period due to statutory limitation periods.
+[3] See also: Poulin v. R., [2007] 5 C.T.C. 2505; Murray v. R., [2007] 5 C.T.C. 2262; Dufour v. R., [2008] 5 C.T.C. 2616.
+[4] The Respondent did not submit in evidence a questionnaire completed by Stephanie B.. Both counsel for the Respondent and the Appellant directed their attention to the relative roles of the Appellant and the boy’s father who were most clearly the only caregivers being seriously contemplated and who might reasonably qualify considering the factors set out in Regulation 6302.
+[5] Even if the agreements were in writing, they may not have assisted the Appellant. The subject provisions operate without regard to agreements although I see no reason why in a case like this they would not be given considerable weight either administratively or in these proceedings had they been entered into.
+[6] 2010 TCC 67; 2010 CarswellNat 239.
+[7] See 122.61(1) of the Act wherein the benefit is calculated (essentially as a refundable overpayment of tax). The formula in that subsection only requires the eligible individual to be eligible at the beginning of the month for which the refund is calculated. See paragraphs 2 and 3 of Justice Webb’s reasons in Campbell and in paragraph 9 of Justice Strayer’s reasons in Matte v. R., 2003 D.T.C. 5075 (F.C.A.).
+[8] The French version of the provision reads the same way.
+[9] See Lapierre v. R., 2005 TCC 720 at paragraph 13. I find this definition of “reside” to be the most helpful. It is also the definition used in Campbell at paragraphs 15, 35 and 36. It permits a finding of a number of places where one can be found to reside.
+[10] [2006] 5 C.T.C. 2372.
+[11] [2008] TCC 609.
+[12] http://www.cra-arc.gc.ca/bnfts/fq_lgblty-eng.html, retrieved on April 28, 2010.

@@ -1,0 +1,224 @@
+---
+title: "Ali v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/111072/index.do"
+last_modified: "2015-08-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 196"
+citation2: ""
+neutral_citation: "2015 TCC 196"
+decision_date: "2015-08-06"
+language: "en"
+item_id: "111072"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2621
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:13:46.616000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9fb63603445db56386f18861e051ab5b284e3a1d5b069896fdf19899cb39b476"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ali v. The Queen
+
+- Citation: 2015 TCC 196
+- Decision date: 2015-08-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2621, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ali v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-08-06
+Neutral citation
+2015 TCC 196
+File numbers
+2013-1742(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1742(IT)I
+BETWEEN:
+MOBEEN Z. ALI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 23, 2015, at Hamilton, Ontario.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Syed Naqvi
+Counsel for the Respondent:
+Dominique Gallant
+JUDGMENT
+The appeal from reassessments and redeterminations made under the Income Tax Act for calendar years 2007 and 2010, for taxation years 2008, 2009 and 2010, and for base taxation years 2007, 2008, 2009 and 2010, is dismissed without costs in accordance with the Reasons for Judgment herein.
+Signed at Kingston, Ontario, this 6th day of August 2015.
+“Rommel G. Masse”
+Masse D.J.
+Citation: 2015 TCC 196
+Date: 20150806
+Docket: 2013-1742(IT)I
+BETWEEN:
+MOBEEN Z. ALI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] This is an appeal from reassessments and redeterminations made under the Income Tax Act for calendar years 2007 and 2010, for taxation years 2008, 2009 and 2010, and for base taxation years 2007, 2008, 2009 and 2010. The Appellant is of the view that, in arriving at the reassessments and redeterminations that it did, the Canada Revenue Agency (the “CRA”) made errors of fact and law in reassessing her for the taxation years in question and also that the CRA engaged in an overzealous application of the law where it should have exercised leniency.
+Factual Context [2] The factual context for this matter is taken from the pleadings and the evidence of the Appellant who was the only witness.
+[3] In computing income for the 2007 taxation year, the Appellant reported gross professional income of $3,591. She claimed professional expenses of $12,364. Her employment income was nil but she claimed employment expenses of $8,989.
+[4] In computing income for the 2008 taxation year, the Appellant reported gross professional income of $800, professional expenses of $4,750, employment income of $24,758 and employment expenses of $11,790.
+[5] In computing tax payable for the 2008 and 2009 taxation years, the Appellant claimed a gross non‑refundable tax credit in respect of the following:
+Year
+Spouse or Common‑law Partner Amount
+Canada Child Tax Benefit
+Transfer of Spouse’s unused Deductions
+2008
+$9,600
+NIL
+$13,135
+2009
+$9,149
+$6,267
+$7,196
+[6] Her spouse’s unused deductions consisted of his claimed disability tax credit and his claimed Canada child tax benefit. The CRA has on file two Disability Tax Credit Certificates (form T2201) dated December 17, 2009 and July 22, 2010, respectively, that relate to the Appellant.
+[7] In computing tax payable for the 2010 taxation year, the Appellant claimed a non‑refundable tax credit in respect of tuition fees totalling $5,112.
+[8] The Appellant also claimed an employee and partner GST/HST rebate (“GST/HST rebate”) of $781.62 for 2007, $2.30 for 2009 and $2.42 for 2010. She claimed a working income tax benefit (“WITB”) of $1,019.00 for 2008 and $2,142.50 for 2009.
+[9] Initially, the Minister of National Revenue (the “Minister”) accepted all of the amounts claimed by the Appellant and issued Notices of Assessment and Notices of Determination for the taxation years. The Minister assessed zero federal tax payable for each of the taxation years. However, the Minister subsequently undertook a review of the Appellant’s professional expenses and revised these expenses downward to $394 for 2007 and $163 for 2008 based on the limited information that had been provided by the Appellant. The Minister also disallowed the claimed employment expenses for 2007 and 2008 as well as the other amounts claimed except for the Canada child tax benefit for 2009 and the GST/HST rebates for 2009 and 2010. The Appellant’s claim for deduction of tuition fees in the amount of $5,112 for 2010 was also disallowed and was revised downwards to $852.
+[10] The Minister also redetermined the Appellant’s entitlement to the Canada child tax benefit (“CCTB”) and her entitlement to the goods and services tax/harmonized sales tax credit (“GST/HST credit”) for the applicable taxation years based on the changes to the Appellant’s and her spouse’s net incomes resulting from their reassessments and redeterminations.
+[11] The Minister issued Notices of Reassessment and Notices of Redetermination disallowing the amounts of deductions or tax credits claimed and redetermining the Appellant’s entitlement to benefits as discussed above. These reassessments and redeterminations still resulted in zero federal taxes payable. However, these reassessments and redeterminations did result in a fiscal debt owing by the Appellant.
+[12] The Appellant objected to these reassessments and redeterminations but the Minister confirmed them so the Appellant appealed to this Court.
+[13] The Appellant testified that when she lived in a house on 191 Dennis Street, in Rockwood, all of their receipts for the taxation years in question were in cardboard boxes in the basement. There was flooding in the basement and all of their documents were destroyed. She asked the CRA to dispense with the necessity of producing documents in proof of her claims but the CRA refused. This has left her in the precarious position of having to obtain duplicate documents from other sources. This can certainly be a daunting task but not an impossible one. However, she has not produced to this Court any documentation in support of her position.
+[14] She testified that while she was collecting Employment Insurance (“EI”) benefits, she was attending the CIMT College in Brampton. This was being funded by EI. The documents relating to her claim for educational expenses were also destroyed. She did not provide any documents that could have been obtained from other sources.
+[15] She also claimed expenses for childcare but they as well were disallowed by the CRA. No details of these expenses were provided.
+[16] At one point in time, she was operating a daycare facility in her own home. She claimed the costs of running this daycare as professional business expenses but they were disallowed.
+[17] In determining the Appellant’s reassessments and redeterminations, GST/HST rebates, WITBs, CCTBs and GST/HST credits, as applicable, for calendar years 2007 and 2010, for taxation years 2008, 2009 and 2010, and for base taxation years 2007, 2008, 2009 and 2010, the Minister relied on certain assumptions of fact as set out in paragraph 25 of the Reply to the Notice of Appeal. In her cross‑examination, the Appellant agreed with practically all of the assumptions of fact that the Minister relied upon. The particulars are set out in the following discussion.
+Employment expenses (2007 & 2008) [18] The Appellant agrees that she did not work as an employee for any organization at any time during the 2007 taxation year. The Appellant agrees that she was employed by the Rocking Horse Early Learning Center (“Rocking Horse”) during the 2008 taxation year.
+[19] The Appellant also agreed that while she worked as an employee of Rocking Horse, she was not required to pay for her own expenses, and that she was not normally required to work away from Rocking Horse’s place of business.
+[20] The Appellant agrees that she did not obtain and provide any completed T2200 form (“Declaration of Conditions of Employment”) from Rocking Horse or any other employer for the 2007 and 2008 taxation years. She agrees that she did not incur any expenses that were related to her employment with any employers in respect of those taxation years.
+GST/HST rebates (2007, 2009 and 2010) [21] In her testimony, the Appellant was confused and could not agree nor disagree when asked if she incurred or paid any goods and services tax (“GST”) or harmonized sales tax (“HST”) on employment expenses for the 2007 taxation year. However, she had already agreed that she was not working as an employee that year and therefore, logically, she could not have paid or incurred any GST or HST on employment‑related expenses. The Appellant could neither confirm nor deny that she had paid GST or HST on employment‑related expenses of no more than $20 for 2009 and $21 for 2010 as claimed by her. As she has stated in her evidence, all of her documents were destroyed and so she could not produce any documents to dispute this assertion.
+Professional business expenses (2007 & 2008) [22] The Appellant agrees that she operated a daycare business in her home as a sole proprietorship under the name of “Mobeen’s Home Daycare” during the 2007 and 2008 taxation years. She agrees that her income from the business was no less than $3,591 in 2007 and $800 in 2008. She agrees that in 2007, she incurred business expenses of $300 on account of meals for the children and $50 for toys. She agrees that in 2008, she incurred expenses of only $66 on account of meals for the children and $54 for toys. She also agrees that, other than the meals and toys herein referred to, the only other business expenses claimed for the 2007 and 2008 taxation years were for the business use of her home.
+[23] The total expenses in relation to the home that she lived in and in which she ran her daycare business are:
+2007
+2008
+Heat
+$1,662.73
+$1,892.52
+Electricity
+$899.96
+$983.64
+Insurance
+$645.84
+$645.84
+Mortgage Interest
+$17,816.37
+$17,265.39
+Property Taxes
+$4,674.21
+$4,674.21
+Total
+$25,699.11
+$25,461.60
+[24] The Appellant agrees that all of the above‑noted expenses were in relation to the entire house and not just that part of the house dedicated to her daycare business. The Appellant also agreed that her home is a large home of 4,000 sq. ft. and that only 400 sq. ft. were dedicated to her daycare business. She only had children in her care for 15 days of each of the taxation years and when she did have children in her care, this was for only 10 hours of the day.
+Family income amounts [25] The maximum family net income applicable in respect of the WITB for the 2008 and 2009 taxation years of spouses married and living together throughout the taxation year, who both qualify for the disability tax credit, is $24,969 and $31,867 respectively. The Appellant agrees that the family net income for her and her spouse exceeded these maximums.
+Theory of the Appellant [26] The Appellant submits that the CRA has been overzealous in its application of the law. She submits that equity and fairness should have been exercised in her case and due regard should have been paid to the fact that many of her supporting documents were destroyed when the basement of their residence was flooded. In view of the fact that many years have gone by since 2007, receipts have been destroyed, she has moved many times, she suffers from a disability, she has no employment and in view of the cumulative amount for which she is being held liable to pay, she beseeches the Court to take a lenient view and to absolve her from paying what she considers to be draconian assessments including interest and penalties. Also, despite the lack of a T2200 form, she claims that she still had to incur employment expenses, which she feels should be deductible from her income. It is also argued that when she operated her daycare facility, the children made use of the kitchen and the TV lounge which was not included in the 400 sq. ft. that were being used for the daycare; it may not have been 100% of the house but it was not just restricted to 400 sq. ft.
+[27] The Appellant therefore prays that her appeal be allowed.
+Theory of the Respondent [28] The Respondent submits that what the Appellant is really seeking is to be absolved from her liability to pay taxes, which is obviously a remedy that this Court cannot grant. All the Court can do is determine the amount of taxes to be paid according to the evidence presented and the applicable tax statutes. The Respondent submits that the instant case is a collection issue that is dealt with after the correct tax assessment is determined.
+[29] The Respondent submits that when it comes to employment‑related expenses, such may not be claimed without first obtaining and presenting a T2200 form. The absence of a duly completed T2200 form is fatal to the deduction of any employment expenses even if they were in fact incurred.
+[30] With respect to the GST/HST rebate, it is argued that if there have not been any expenses, then there has not been any GST or HST paid on those expenses and so that claim has to fail as well.
+[31] Regarding the business‑related expenses, the Appellant agreed that she incurred the expenses as set out in the Reply for meals and toys. However, if she took care of children in her daycare centre only 15 days out of the year, for 10 hours of those days, it is really ludicrous to claim a large portion of the total household expenses. The amounts claimed for business expenses are really in the nature of personal or living expenses and therefore are not legitimate business expenses.
+[32] It is argued that the Appellant has not presented any evidence or argument to show that the manner in which the allowable expenses were recalculated, or the manner in which any of the credits claimed were redetermined, was wrong in fact or in law.
+[33] The Respondent therefore submits that the appeal should be dismissed.
+Legislative Provisions [34] The relevant provisions of the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), as amended (the “Act”), are as follows:
+8(1) Deductions allowed — In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+(2) General Limitation — Except as permitted by this section, no deductions shall be made in computing a taxpayer’s income for a taxation year from an office or employment.
+. . .
+(10) Certificate of employer — An amount otherwise deductible for a taxation year under paragraph (1)(c), (f), (h) or (h.1) or subparagraph (1)(i)(ii) or (iii) by a taxpayer shall not be deducted unless a prescribed form, signed by the taxpayer’s employer certifying that the conditions set out in the applicable provision were met in the year in respect of the taxpayer, is filed with the taxpayer’s return of income for the year.
+. . .
+18(1) General Limitations — In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) general limitation — an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) capital outlay or loss —an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+. . .
+(h) personal and living expenses — personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer’s business;
+. . .
+(12) Work space in home — Notwithstanding any other provision of this Act, in computing an individual’s income from a business for a taxation year,
+(a) no amount shall be deducted in respect of an otherwise deductible amount for any part (in this subsection referred to as the “work space”) of a self‑contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the individual’s principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business;
+(b) where the conditions set out in subparagraph (a)(i) or (ii) are met, the amount for the work space that is deductible in computing the individual’s income for the year from the business shall not exceed the individual’s income for the year from the business, computed without reference to the amount and sections 34.1 and 34.2; and
+(c) any amount not deductible by reason only of paragraph (b) in computing the individual’s income from the business for the immediately preceding taxation year shall be deemed to be an amount otherwise deductible that, subject to paragraphs (a) and (b), may be deducted for the year for the work space in respect of the business.
+. . .
+67. General limitation re expenses — In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+67.1(1) Expenses for food, etc. [or entertainment] — Subject to subsection (1.1), for the purposes of this Act, other than sections 62, 63, 118.01 and 118.2, an amount paid or payable in respect of the human consumption of food or beverages or the enjoyment of entertainment is deemed to be 50 per cent of the lesser of
+(a) the amount actually paid or payable in respect thereof, and
+(b) an amount in respect thereof that would be reasonable in the circumstances.
+. . .
+230(1) Records and books — Every person carrying on business and every person who is required, by or pursuant to this Act, to pay or collect taxes or other amounts shall keep records and books of account (including an annual inventory kept in prescribed manner) at the person’s place of business or residence in Canada or at such other place as may be designated by the Minister, in such form and containing such information as will enable the taxes payable under this Act or the taxes or other amounts that should have been deducted, withheld or collected to be determined.
+Analysis [35] The Tax Court of Canada only has jurisdiction to determine whether the reassessments and redeterminations under appeal are correct in fact and in law. It is not open to the Court to grant relief on the grounds of fairness or equity. This Court also does not have jurisdiction to grant any relief from the application of interest or penalties. Only the Minister has that power pursuant to subs. 220(3.1) of the Act. The Court also has no jurisdiction to relieve the Appellant from the obligation to pay taxes for which she is liable to pay.
+[36] It is clear that the Minister, in making assessments, proceeds on assumptions of fact and the initial onus is on the taxpayer to demolish the Minister’s assumptions. The burden of proof is on the balance of probabilities: see Hickman Motors Ltd. v. Canada, [1997] 2 SCR 336.
+[37] Bearing these principles in mind, I now turn to the issues at hand.
+Employment expenses (2007 and 2008) [38] In considering the claimed employment expenses for 2007 and 2008, it is undisputed that the Appellant has not obtained a T2200 form from her employer, Rocking Horse. The provisions of subs. 8(10) of the Act in relation to the T2200 form is a mandatory provision failing which a taxpayer cannot claim any employment‑related expenses pursuant to s. 8 of the Act. The failure to obtain a T2200 form is fatal to the Appellant’s claim even if she in fact did incur employment expenses.
+GST/HST rebates (2007, 2009 and 2010) [39] I agree with the Respondent’s assertion that the Appellant has not established that she was entitled to a GST/HST rebate during the 2007 year, and that she was entitled to no more than what was allowed for the 2009 and 2010 years; she was neither an employee nor a member of a partnership in any of those years and she did not establish that she paid any GST or HST for the expenses involved in those years.
+GST/HST credit (2008, 2009 and 2010 taxation years) [40] The Appellant has not shown that the Minister’s redeterminations of her entitlement to GST/HST credits for the taxation years are erroneous. This claim must therefore fail.
+Professional business expenses (2007 and 2008) [41] The Appellant’s home is a large home of 4,000 sq. ft. and only 400 sq. ft. were dedicated to her daycare business. She only had children in her care for 15 days of each of the taxation years and when she did have children in her care, this was for only 10 hours of the day. Consequently, it is seen that only 10% of the home was used for business purposes and this for less than 2% of the total time. Yet the Appellant claimed professional business expenses of $12,364 for 2007 and $4,750 for 2008. These amounts are clearly disproportionate to the use of her home that was actually made for business purposes. As such, these disallowed expenses were personal or living expenses and not business expenses. These expenses were not connected to the earning of the business income. I am of the view that the amounts of $44 for 2007 and $43.52 for 2008 that the Minister actually allowed for business use of the home are reasonable in the circumstances. The Appellant did not demonstrate that they were not.
+Claim for WITB (2008 &2009) [42] The maximum family net income applicable in respect of the WITB for the 2008 and 2009 taxation years of spouses married and living together throughout the taxation year, who both qualify for the disability tax credit, is $24,969 and $31,867 respectively. The Appellant agrees that the family net income for her and her spouse exceeded these maximums and therefore she would not qualify for the WITB for those taxation years.
+CCTB (2007, 2008, 2009 and 2010 base taxation years) [43] The Appellant has simply not proven that the Minister’s redeterminations of her entitlement to the CCTB for the taxation years are erroneous. This claim must therefore fail.
+Provincial benefits [44] The Appellant also appears to be appealing reductions to the Ontario child benefit and the Ontario tax credits. This Court has no jurisdiction to grant any relief under the Ontario Income Tax Act, R.S.O. 1990, c. I.2, and the Ontario Taxation Act, 2007, S.O. 2007, c. 11, Sched. A, or any other provincial law. The Court’s jurisdiction is limited to those statutes and those matters that are specifically listed in s. 12 of the Tax Court of Canada Act, R.S.C., 1985, c. T‑2, and none other.
+Conclusion [45] The only evidence that the Appellant adduced to support her position and to challenge the presumptions of fact relied upon by the Minister, was her own verbal testimony. Her testimony was found wanting. In addition, she agreed with practically all of the presumptions of fact relied upon by the Minister. She has not provided any documentary evidence to support any of the amounts that she claimed. The fact that her records were destroyed may have made it more difficult to obtain necessary documentation but it did not make it impossible. The Appellant has simply failed to discharge the burden of proof that is incumbent upon her. It is clear that she was not entitled to claim the deductions that she did claim nor was she entitled to receive the benefits that she claimed beyond what the Minister redetermined her to be entitled to.
+[46] For all of the foregoing reasons, this appeal is dismissed.
+Signed at Kingston, Ontario, this 6th day of August 2015.
+“Rommel G. Masse”
+Masse D.J.
+CITATION:
+2015 TCC 196
+COURT FILE NO.:
+2013-1742(IT)I
+STYLE OF CAUSE:
+MOBEEN Z. ALI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+February 23, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+August 6, 2015
+APPEARANCES:
+Agent for the Appellant:
+Syed Naqvi
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

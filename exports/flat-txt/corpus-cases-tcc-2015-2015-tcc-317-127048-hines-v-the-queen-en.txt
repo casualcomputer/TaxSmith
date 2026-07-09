@@ -1,0 +1,166 @@
+Title: Hines v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127048/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-317-127048-hines-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-12-07
+
+# Hines v. The Queen
+
+- Citation: 2015 TCC 317
+- Decision date: 2015-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2837, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hines v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-12-07
+Neutral citation
+2015 TCC 317
+File numbers
+2012-3867(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3867(IT)G
+BETWEEN:
+DAVID HINES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 1, 2015, at Toronto, Ontario
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Jeff Kirshen and Jason Rosen
+Counsel for the Respondent:
+Iris Kingston
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is dismissed.
+The respondent is awarded party and party costs.
+Signed at Edmonton, Alberta, this 7th day of December 2015.
+“K. Lyons”
+Lyons J.
+Citation: 2015 TCC 317
+Date: 20151207
+Docket: 2012-3867(IT)G
+BETWEEN:
+DAVID HINES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] David Hines, the appellant, appeals the reassessment made by the Minister of National Revenue under the Income Tax Act (the “Act”) in which it was determined that in 2008, the appellant was an employee of Wellspring Energy Solutions Ltd. (“Wellspring”) and received the amount of $88,298 (the “Amount”) from Wellspring as employment income. The appellant contends that he was an independent contractor and the Amount includes amounts that he was reimbursed for as expenses that he paid on behalf of Wellspring.
+[2] The issues are whether the appellant was an employee or independent contractor in 2008 and if the Amount includes the reimbursement of expenses paid to the appellant by Wellspring that he had previously paid on its behalf and submitted to Wellspring.
+[3] The appellant testified on his own behalf. Keith Walker testified on behalf of the appellant.
+I. Facts [4] The appellant has worked in the industrial, professional engineering and architectural sectors, has been in business since 1975, has worked as a consultant in Venezuela offering guidance on the development of downhole pumps for gas wells and has taken matters from conception as an oil skimmer to patent and production.
+[5] Wellspring, a research and development company, was incorporated in 2008 and ceased to operate in May 2009. It focussed on downhole well pump technology operating in the oilfield industry.
+[6] Around 2007, the appellant met with Robert Hughes. Mr. Walker, an electrical engineer and business associate of the appellant, subsequently met with Mr. Hughes to discuss the completion of the well pump. All three became shareholders of Wellspring. According to the appellant, it was agreed that he would be retained as a consultant under contract for $8,000 monthly to provide his opinion and advice to develop the well pump and steer it to a successful conclusion so that Wellspring could sell it; he moved from Ontario to Calgary. In January 2008, he began to provide his services to Wellspring.
+[7] Mr. Walker also provided advice to, and was a director of Wellspring. He and the appellant claimed that Mr. Hughes was the mind behind Wellspring who scheduled meetings with oil companies and hired the appellant’s wife and daughter as the accounting department.
+[8] The appellant claims that he invoiced Wellspring but no GST was included on his invoices because he had not reached the $30,000 threshold and was not a GST registrant in 2008. The appellant indicated that he was not always paid or Wellspring did not have enough money to pay him, yet he continued working as he expected he would be paid as a shareholder. The appellant could not recall in cross‑examination the number or percentage of shares that he held but remained a shareholder after his resignation.
+[9] The appellant stated that Wellspring was in a tough financial situation and needed certain things to operate but did not have credit cards. He agreed to use his as long as he received reimbursement of certain expenses. When Wellspring needed items, he mostly purchased them. He then submitted the costs to Wellspring’s accounting department which was responsible for totalling his receipts because it was Wellspring’s expenses and it claimed the amount as an expense, not him. The appellant was also a director and in that capacity or as a shareholder, he sometimes purchased items for Wellspring which he was reimbursed for or entitled to be reimbursed. As to the cheques issued to him by Wellspring totalling the Amount, he estimated that approximately half was allocable to the services he invoiced for and the other half was for the reimbursement of the expenses that he had submitted.[1]
+[10] The shareholders were unhappy and wanted a new board of directors. Candy Victor, who was elected as a director, arrived at his residence a few days after the new executive took over in April 2009 to pick up the books, receipts and documentation. Others showed up for the shop contents. He claims that he was unable to obtain copies of his invoices from her. Even though the appellant was not in favour of a new board, he agreed to it. However, when asked to perform certain tasks, he handed in his resignation.
+[11] The appellant filed his 2008 income tax return, claimed he was self‑employed and reported net business income from Wellspring in the amount of $9,856.[2] In 2012, the Minister reassessed the appellant by including employment income in the Amount in his 2008 taxation year.
+II. Analysis [12] I agree with the appellant’s submission that the burden is on a taxpayer to prove, on the balance of probabilities, his or her case. However, where the Minister has not set out any proper assumptions of fact in the pleadings, the onus reverts to the Minister to establish the correctness of the assessment. The appellant argues that two of the respondent’s assumptions shift the burden to the respondent because the assumptions constitute mixed questions of law and fact that answer the question that the Court must decide.[3]
+[13] He asserts that the assumptions pled in his case are similar to those in Health Quest Inc. v Canada, 2014 TCC 211, [2014] TCJ No. 155 (QL) [Health Quest], in that the Court found that the taxpayer was at a distinct disadvantage in determining the case it had to meet and noted that the respondent had assumed how the law (shoes were zero-rated pursuant to Schedule VI of the Excise Tax Act), is to be applied to the facts. The assumptions pled in Health Quest read:
+(f) the Appellant also supplied other products which were not zero-rated pursuant to Schedule VI of the Act; and
+(g) during the periods under appeal, the Appellant failed to collect tax of not less than $42,274.42 on its supply of products which were not zero-rated pursuant to Schedule VI of the Act.
+[14] The assumptions in the present case read:
+g) the appellant was an employee of Wellspring in the 2008 taxation year;
+h) the appellant received employment income from Wellspring for the 2008 taxation year of not less than $88,298.
+[15] In Health Quest, the Court also found that there was insufficient evidence provided by the respondent to satisfy the burden because the Reply contains no assumptions of fact, or material facts, that would clearly differentiate the features of the footwear for the appellant for which the Minister alleges HST should have been collected and remitted nor were other facts assumed elsewhere in the Reply. For those reasons and because of the inadequacies of the assumptions, the appeal was allowed.
+[16] I find that the assumptions in the present case are not comparable to those in Health Quest. In that case, the Court was clearly concerned about the specialized meanings pled under the Excise Tax Act plus the lack of and differentiation in the assumptions placed the appellant at a distinct disadvantage. None of those elements apply in the present appeal, therefore no disadvantage exists. Even if the two assumptions in the present appeal are mixed fact and law, there were facts elicited throughout the hearing that were sufficient on the balance of probabilities to support the Minister’s reassessment.[4]
+[17] The appellant’s alternative submission is that although the appellant was a director and shareholder of Wellspring, he was hired to provide consulting services as an independent contractor and was not subordinate to anyone at Wellspring.
+[18] The Supreme Court of Canada in 671122 Ontario Ltd. v Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 SCR 983 [Sagaz] encapsulates, at paragraph 47, the essence of the inquiry that needs to be made in determining whether or not an individual is an independent contractor or an employee. That is:
+47. … The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. …
+[19] In answering that question, the Federal Court of Appeal instructs a two‑step analysis is to be undertaken (subjective intent of each party measured by objective factors) as enunciated in 1392644 Ontario Inc. (c.o.b. Connor Homes) v Canada (Minister of National Revenue - MNR), 2013 FCA 85, [2013] FCJ No. 327 (QL). The Court clarified the role of intention and the weight to be given to it. It noted that the legal effect of the relationship determines the legal status and cannot be decided solely on the declared subjective intention of the parties and held that whilst it is relevant, it is not determinative because the parties’ intent “must be grounded in a verifiable objective reality.”[5] Mainville J. states at paragraph 42 that:
+42. … The first step of the analysis should always be to determine at the outset the intent of the parties and then, using the prism of that intent, determining in a second step whether the parties’ relationship, as reflected in objective reality, is one of employer-employee or of independent contractor. …
+A. Intention
+[20] The respondent submits, and I agree, that the evidence with respect to subjective intent was based solely on the appellant’s testimony of his intent to be an independent contractor to steer and guide the pump technology project for Wellspring without any evidence from Wellspring as to its intent.
+[21] In his testimony, the appellant said that he had initially spoken with Mr. Hughes “as the leader of the band” and they entered into a verbal arrangement, part of which was that the appellant would move to Alberta and he would be an independent contractor. Yet, he also described himself as “wearing many different hats” but then stated that his role as director amounted to virtually nothing except that he purchased items in that capacity and as a shareholder. He said that he was not always paid as an independent contractor but was confident that he would be paid because of his shareholdings which subsisted after he resigned. However, during cross-examination, he was unable or unwilling to quantify the number or percentage of his shareholdings. He claims that he invoiced Wellspring for his services but no invoices were produced at the hearing.
+[22] I am drawing an adverse inference from the failure to call Mr. Hughes to testify as a witness to assist in ascertaining the intent of the parties. I find and conclude that the evidence does not demonstrate that it was intended that the appellant was an independent contractor nor was there any such common understanding between the parties. Consequently, intention is not a relevant factor in this appeal and regard must be had to objective factors to ascertain the nature of the relationship between the parties.
+B. The Wiebe Door Test
+[23] In answering the central question as to “whose business is it?”, the Court in Sagaz endorsed the objective factors, as follows, articulated by the Federal Court of Appeal in Wiebe Door Services Ltd. v The Minister of National Revenue (1986), 87 DTC 5025 (FCA) [Wiebe Door] and states at paragraph 47:
+47. … In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+[24] However, no single factor is conclusive in characterizing the objective reality of the parties’ relationship and that list of factors is not exhaustive.
+i. Control
+[25] The level of control the employer has over the worker’s activities involves a determination of who has the authority to exercise control over the individual providing the services and how, when and where services are to be performed.
+[26] The respondent argued that the factor of control is more difficult to apply in circumstances where the appellant was also a shareholder but elements of control were present.
+[27] While some aspects in the arrangement indicate less control by Wellspring over the appellant, other aspects of the arrangement show Wellspring had the right to exercise some control over him. He worked every day, during evenings, did not take vacation and costed parts for a special downhole coil. He participated in meetings with industry specialists, scheduled meetings relating to the downhole coil and development process discussing the profile of the well and site conditions and sometimes observed pre and post-pump installations.[6] Mr. Walker indicated that the appellant was engaged to fix the business and initiate negotiations with Wellspring’s client, Enbridge.
+[28] Although the appellant said that he was not responsible for anything, he then said he was partly responsible for corporate decisions, did anything that arose in the development of the pump, travelled to and attended on-site meetings with Wellspring’s clients, provided guidance to individuals on-site, such as Andy Riopel and Darcy Lamoureux, and sometimes produced a report.
+[29] Generally his evidence was such that there was no clear delineation as to which hat he was wearing and in which capacity when he carried out certain activities. I find that the control factor does not assist in either direction.
+ii. Ownership of tools and equipment
+[30] In terms of whether the appellant owned and provided his own tools and equipment in the provision of services to Wellspring, the appellant said that Mr. Hughes had an agreement with another company where “we” had an office but Wellspring did not enter into a rental agreement. Although the appellant did not have an office, he could use one by sitting at a desk. In September 2008, when the appellant moved to Red Deer, Alberta, Wellspring operated from his residence. Other tools consisted of pens, paper and a tape measure but it was unclear who provided those.
+[31] I find that the appellant did not provide equipment as an independent contractor. Rather, Wellspring initially provided a desk to the appellant and since September 2008, Wellspring paid rent to the appellant to operate its business from Red Deer. I infer that the appellant had an office at his residence for Wellspring’s activities. In my view, this factor tilts in the direction of an employer-employee relationship.
+iii. Hiring helpers
+[32] The evidence was that the appellant did not hire helpers. This is not a relevant factor.
+iv. Opportunity for profit and degree of financial risk
+[33] The degree of financial risk taken by the appellant and opportunity for profit bore little opportunity for profit and financial risk.
+[34] Although the appellant testified that he would follow a critical path plan to successfully resolve the development of the well pump, it appears that the appellant did not stand to lose or gain in his role of guiding and steering as it was agreed that he would be paid $8,000 per month. He was confident that he would eventually be paid as a shareholder if he was not paid as an independent contractor. I find it improbable that an independent contractor would continue to provide services when he was not being paid over a period of time.
+[35] Furthermore, the concept of “profit” necessarily requires a surplus of revenues over expenses and that in an employment arrangement where a worker receives a set rate for services while making no contribution to the expenses of the organization, there can be no true “opportunity” for profit. In the decision of TBT Personnel Services Inc. v Canada, 2011 FCA 256, [2011] FCJ No. 1340 (QL), the Court held that since the operating expenses were borne exclusively by the appellant company, the worker could not “profit” financially. Since Wellspring appears to have been responsible for many if not all of the operational costs, by virtue of the reimbursement mechanism, the appellant was not in a position to profit. I will return to the expenses later in these reasons.
+[36] I find on this factor that the appellant did not have an opportunity to profit and bore virtually no financial risk, which is indicative of an employer-employee relationship.
+v. Other factors
+[37] The manner in which the activities were conducted do not bear the hallmarks of an independent contractor. Despite being in business since 1975, the appellant did not maintain separate books and records; he did not record expenses as an independent contractor nor produce invoices at the hearing. Although he confidently stated that the amount reported as net business income in his income tax return, was “100% correct”, when asked how he arrived at the net business income, he indicated that “some of this doesn’t make sense to me”. Since September 2008, Wellspring operated out of his residence at the same time that he claims that he was an independent contractor. Mr. Walker, Mr. Hughes and others stayed at his residence when conducting Wellspring business.
+[38] Wellspring’s bills were sent to the appellant. He said he paid certain expenses of Wellspring because it was financially strapped. Without keeping track, he viewed it as Wellspring’s responsibility to tally up the expenditures he had made on Wellspring’s behalf. The submitted expenditures to Wellspring’s accounting department were reimbursed and amounted to approximately half of the Amount.
+[39] I am unconvinced that the appellant was in business on his own account as an independent contractor. I am satisfied and find that he was working within Wellspring’s business for its benefit as an employee.
+[40] The appellant submits that subordination, a concept utilized in the Civil Code of Quebec, is persuasive and should be applied as the appellant was not subordinate to anyone at Wellspring. I concur with the respondent’s submission that subordination is not a relevant factor to be taken into consideration in the common-law context.
+[41] Based on the totality of the evidence and for the foregoing reasons, I conclude that the appellant was not in business on his own account.
+vi. Expenses
+[42] Given my finding that he was an employee, it is strictly unnecessary to deal with expenses. However, I will provide some comments. The appellant’s evidence with respect to the purported expenditures was vague, inconsistent, hard to reconcile and not credible. I reject his evidence on this aspect. He estimated that approximately half of the Amount he received relates to expenses for which he was reimbursed as he had incurred those for the benefit of Wellspring. He said he did not claim these as expenses because these are Wellspring’s expenses. Despite the estimate, he had no records of expenses that he had incurred on behalf of and submitted to Wellspring nor any evidence that provides any linkage to the Amount assessed nor records of his own expenses as an independent contractor. When asked about expenses that were to be reimbursed to him, he stated that he did not tally up the expenses but simply submitted these to the accounting department of Wellspring as it was its responsibility.
+[43] Another missing evidentiary link that the appellant failed to establish was the expenses on the incomplete credit card statements (“statements”) of his father-in-law to the Amount that he received. The expenses on the statements are attributable to Wellspring, and in any event, comprise personal expenses for meals and fuel for personal errands.
+[44] His evidence was inconsistent as to whether the expenses he claimed on his return relate to his own expenses or Wellspring’s.[7] As the respondent points out, there was an intermingling of expenses making it impossible to reconcile or quantify any expenses he might have incurred. I find and conclude that no part of the Amount includes expenses reimbursed to him by Wellspring.
+[45] It is improbable that someone who has been in business since 1975 would not retain copies of his own invoices and receipts for expenditures in order to show how much relates to his services and the expenses. I draw an adverse inference from his failure to call Candy Victor as a witness to bring the records and who could have corroborated his claims with respect to the invoicing and the expenses.
+[46] For the foregoing reasons and on the totality of the evidence, I conclude that the appellant was not in business on his own account. He was an employee engaged by Wellspring in its business and received employment income in the Amount assessed in 2008.
+[47] The appeal is dismissed.
+[48] The respondent is awarded party and party costs.
+Signed at Edmonton, Alberta, this 7th day of December 2015.
+“K. Lyons”
+Lyons J.
+CITATION:
+2015 TCC 317
+COURT FILE NO.:
+2012-3867(IT)G
+STYLE OF CAUSE:
+DAVID HINES and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 1, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+December 7, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Jeff Kirshen and Jason Rosen
+Counsel for the Respondent:
+Iris Kingston
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeff Kirshen and Jason Rosen
+Firm:
+Barrett Tax Law
+Vaughan, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Meals, fuel for the truck, airfare for him, transport for others and out-of-town expenses. He repeatedly travelled to Red Deer. Mr. Walker corroborated that the appellant paid for Mr. Walker’s travelling expenses from Ontario to Calgary on Wellspring business; he stayed at the appellant’s residence because Wellspring could not afford such expenses. Mr. Hughes, his son-in-law and the person who did the renovations stayed at the appellant’s residence. The appellant said that Mr. Hughes had no money and the appellant was “led down the garden path”. The appellant said that he paid the reconnection bill for Mr. Hughes’ disconnected phone.
+[2] Gross business income reported was $28,384. Although the evidence was unclear, he also said that the $17,884 claimed as “other income” was a draw in the books due to misguided information from the accountant as he was paid out for consultant fees and filed incorrectly; this was described in the return as investment income. He also received “permanent partial disability income” totalling $13,308 from the Workplace Safety and Insurance Board.
+[3] The respondent’s position is that the burden of proof has not shifted, the appellant is an employee and no part of the Amount relates to a reimbursement by Wellspring for its expenses. The nature of the relationship was unclear because no evidence was provided as to Wellspring’s intent and the application of the objective factors was problematic because of the meshing of his roles and responsibilities. The appellant was not a person in business on his own account as an independent contractor.
+[4] I note that the appellant pled very few material facts in his “Amended Fresh Notice of Appeal.”
+[5] Elaboration of the two-step process is found at paragraphs 39 and 40.
+[6] In cross-examination, it was established that Mr. Riopel is the appellant’s son-in-law.
+[7] This is illustrated in his claims for an interest expense of $5,265.25 and rent.

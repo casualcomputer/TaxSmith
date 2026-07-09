@@ -1,0 +1,181 @@
+---
+title: "Puni c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31190/index.do"
+last_modified: "2013-05-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 172"
+citation2: ""
+neutral_citation: "2013 CCI 172"
+decision_date: "2013-05-29"
+language: "fr"
+item_id: "31190"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5090
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:17:19.384000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c37d5c2f591dfb7a6f04ee0a17c9e697e365bdd548eb25bb6f8ef92525d9045"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Puni c. M.R.N.
+
+- Citation: 2013 CCI 172
+- Decision date: 2013-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5090, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Puni c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-29
+Référence neutre
+2013 CCI 172
+Numéro de dossier
+2012-3086(EI)
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-3086(EI)
+ENTRE :
+KALBIR S. PUNI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 mai 2013, à Kamloops (Colombie‑Britannique).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Jack Warren
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la décision rendue par le ministre du Revenu national en vertu de la Loi sur l’assurance‑emploi pour la période allant du 6 juin au 20 novembre 2011 est accueilli compte tenu du fait que l’appelant occupait un emploi assurable durant cette période.
+Signé à Ottawa, Canada, ce 29e jour de mai 2013.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 5e jour de juillet 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2013 CCI 172
+Date : 20130529
+Dossier : 2012-3086(EI)
+ENTRE :
+KALBIR S. PUNI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Kalbir Puni détient un tiers des parts de la société 0834216 B.C. Ltd. (la « société »). La société a employé M. Puni du 6 juin au 20 novembre 2011. Après son licenciement par la société, M. Puni a présenté une demande de prestations d’assurance‑emploi. Le ministre du Revenu national (le « ministre ») a rendu une décision à l’égard de la demande, dans laquelle il a déclaré que M. Puni n’occupait pas un emploi assurable auprès de la société durant la période en question, parce qu’à son avis, M. Puni et la société avaient entre eux un lien de dépendance. M. Puni a interjeté appel de cette décision.
+[2] M. Puni était le seul témoin à l’audience. J’ai estimé qu’il était un témoin crédible.
+Les faits
+[3] En 2008, M. Puni et deux personnes non liées, à savoir Jesmail Singh Mann et Manjinder Singh Nahal, ont décidé d’ouvrir une franchise de Nando’s Flame‑Grilled Chicken (« Nando »), à Kamloops, en Colombie‑Britannique. Les trois hommes ont constitué leur entreprise en société et ils ont pris chacun un tiers des actions de la société.
+[4] Pour obtenir une franchise Nando, il fallait qu’au moins un des actionnaires suive la formation accordée aux franchisés, qui consistait notamment à apprendre aux franchisés comment travailler en tant que préposé au comptoir, préposé à l’arrière, employé de cuisine et gérant. M. Mann et M. Puni ont tous les deux commencé la formation, mais, à cause de problèmes de santé, M. Mann n’a pas pu terminer la formation. Par conséquent, M. Puni était le seul actionnaire qui avait terminé la formation exigée.
+[5] Le restaurant a ouvert ses portes au printemps 2009.
+[6] M. Puni a été embauché par la société pour gérer le restaurant. Les actionnaires ont convenu de laisser M. Puni prendre toutes les décisions quotidiennes concernant les activités de la société, étant donné que, en tant que gérant, il était le mieux placé pour le faire. Toutes les autres décisions étaient prises par les actionnaires par vote majoritaire.
+[7] M. Nahal participait à l’exploitation d’une autre franchise Nando, à Abbotsford, en Colombie‑Britannique. M. Puni se fiait donc parfois aux conseils et à l’expérience de M. Nahal pour régler des problèmes qui se posaient dans la société.
+[8] Les affaires ont bien marché au cours du printemps et de l’été 2009, mais les activités ont commencé à ralentir à l’automne.
+[9] En 2010, la société a commencé à avoir des problèmes de trésorerie. À plusieurs reprises, la société a demandé à certains employés de remettre à plus tard l’encaissement de leurs chèques de paie jusqu’à ce que la société ait suffisamment de fonds en banque pour payer ces chèques. En tant que gérant, M. Puni était chargé de faire cette demande aux employés. M. Puni a expliqué qu’il utilisait une méthode pour choisir les employés auxquels il devait demander de ne pas encaisser leurs chèques de paie. Il a expliqué qu’en raison de sa qualité d’actionnaire, il était l’employé auquel la société demandait toujours en premier de patienter pour encaisser son chèque de paie. Si cela n’était pas suffisant pour résoudre le problème de trésorerie, la société demandait alors au fils de M. Mann, Kubby Mann, de différer l’encaissement de son chèque de paie. Si un problème de trésorerie subsistait, la société adressait la demande à certains autres employés. M. Puni a précisé que ces employés étaient choisis en fonction de ce qu’il savait d’eux quant à leurs besoins immédiats de liquidités. En d’autres termes, s’il pensait qu’un employé précis pouvait patienter pour recevoir sa paie, il lui demandait de remettre à plus tard l’encaissement de son chèque de paie, au lieu d’adresser la demande à un employé qui semblait avoir besoin de l’argent immédiatement. Il y avait trois employés, en plus de M. Puni et de M. Kubby Mann, auxquels on avait demandé de différer l’encaissement de leurs chèques de paie à divers moments, de 2010 à 2011. Parfois, ils refusaient de le faire et, d’autres fois, ils acceptaient.
+[10] Tous les employés auxquels on avait demandé de différer l’encaissement de leurs chèques de paie (y compris M. Puni et M. Kubby Mann) ont finalement reçu la totalité de leur rémunération.
+[11] En 2010, en raison des problèmes de trésorerie de la société, les actionnaires ont dû prêter de l’argent à la société. M. Mann et M. Nahal ont utilisé leurs fonds propres pour accorder leur part du prêt à la société. M. Puni ne disposait pas de fonds à prêter à la société. En conséquence, il a avancé sa part du prêt en faisant créditer son compte de prêt d’actionnaire d’une partie de ce qu’il devait par ailleurs recevoir à titre d’employé. M. Puni n’a fourni aucun document comptable démontrant que son salaire avait été inscrit à son compte de prêt d’actionnaire. Il a expliqué qu’il n’avait pas réussi à le faire, car, à cause de disputes entre les actionnaires, il n’avait pas accès aux documents comptables détaillés. J’admets le témoignage de M. Puni sur cette question, malgré l’absence de preuve documentaire à l’appui.
+[12] À un certain moment en 2010, M. Mann et M. Nahal ont refusé de se parler à cause d’un problème qui n’avait rien à voir avec la société. En conséquence, à partir de ce moment‑là, M. Puni a servi d’intermédiaire entre les deux hommes. Les deux questions les plus litigieuses que les actionnaires ont dû régler en 2010 et après avaient trait aux employés et aux fournisseurs pour lesquels il fallait différer le paiement et le moment où il fallait le faire.
+[13] Finalement, M. Puni a commencé à éprouver les contraintes financières de devoir à la fois prêter de l’argent à la société et différer l’encaissement de ses chèques de paie. Il a avisé la société qu’il ne pouvait pas continuer à accepter de remettre à plus tard l’encaissement de ses chèques de paie. En conséquence, il a été licencié.
+[14] Durant la période qui a suivi le licenciement de M. Puni, la société a été exploitée sans gérant entièrement formé. Il semble que l’absence de contrôle par un gérant ait entraîné une augmentation du coût des produits alimentaires et un gaspillage de ceux‑ci.
+[15] En juin 2011, la société a décidé de réembaucher M. Puni comme gérant afin de tenter de contrôler ses coûts et le gaspillage de produits alimentaires. M. Puni a travaillé pour la société du 6 juin 2011 jusqu’à ce qu’il soit de nouveau licencié, le 20 novembre 2011.
+[16] Du 6 juin au 20 novembre 2011, M. Puni a gagné environ 18 000 $. De cette somme, un montant d’environ 8 000 $ a été porté au crédit de son compte de prêt d’actionnaire. Le solde de 10 000 $ lui a été versé, mais, tout comme en 2010, on lui a demandé encore une fois de différer l’encaissement de ses chèques de paie lorsqu’il y avait des problèmes de trésorerie. Le montant d’environ 10 000 $ a finalement été versé à M. Puni en totalité.
+[17] M. Puni a déclaré le montant total de 18 000 $ à titre de revenu d’emploi lorsqu’il a produit sa déclaration de revenus pour 2011.
+Les dispositions légales et les critères applicables
+[18] Le paragraphe 5(1) de la Loi sur l’assurance‑emploi (la « LAE ») donne la définition de l’expression « emploi assurable ». Selon l’alinéa 5(2)i) de la LAE, n’est pas un emploi assurable « l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance ».
+[19] Le paragraphe 5(3) de la LAE donne des précisions sur ce que l’on entend « par personnes liées ». Voici la teneur de cette disposition :
+(3) Personnes liées – Pour l’application de l’alinéa(2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[Non souligné dans l’original.]
+[20] Le critère applicable par la Cour lors de l’examen d’une décision rendue par le ministre en vertu de l’alinéa 5(3)b) de la LAE a été résumé par le juge Marceau de la Cour d’appel fédérale, au paragraphe 4 de l’arrêt Légaré v. Minister of National Revenue, 1999 CarswellNat 1458. Voici les observations du juge Marceau :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L’expression utilisée introduit une sorte d’élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu’il s’agit sans doute d’un pouvoir dont l’exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n’est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l’impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[21] L’arrêt Légaré portait sur le sous‑alinéa 3(2)c)(ii) de la Loi sur l’assurance‑chômage. Cette disposition a été plus tard remplacée par l’alinéa 5(3)b) de la LAE. Je ne vois aucune différence importante entre les deux dispositions[1].
+[22] Pour que l’alinéa 5(3)b) de la LAE s’applique, l’employeur et l’employé doivent être des « personnes liées » au sens de la Loi de l’impôt sur le revenu (la « LIR »). La disposition pertinente de la LIR est l’alinéa 251(2)b). La partie pertinente de l’alinéa 251(2)b) de la LIR stipule que sont des personnes liées :
+b) une société et
+(i) une personne qui contrôle la société si
+cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d’un
+groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée
+au sous-alinéa (i) ou (ii);
+[23] M. Puni ne contrôle pas la société et n’est pas membre d’un groupe lié qui contrôle la société, étant donné qu’il n’est pas lié à M. Mann ou à M. Nahal par les liens du sang, du mariage, d’une union de fait ou de l’adoption. Par conséquent, M. Puni n’est pas lié à la société au sens de la LIR.
+[24] Étant donné que M. Puni n’est pas lié à la société, l’alinéa 5(3)b) de la LAE ne lui est pas applicable. Ainsi, la question de savoir s’il y avait un lien de dépendance ou non entre M. Puni et la société doit être tranchée en vertu de l’alinéa 5(3)a) de la LAE.
+[25] L’intimé soutient que la Cour est tenue d’accorder à l’égard d’une conclusion tirée par le ministre en vertu de l’alinéa 5(3)a) de la LAE le même degré de retenue judiciaire que celui qu’elle accorde à l’égard d’une conclusion semblable à laquelle arrive le ministre en vertu de l’alinéa 5(3)b) de la LAE. Je ne puis souscrire à cet argument.
+[26] Bien que cette affaire n’ait pas fait l’objet de discussions lors des plaidoiries, le recueil de documents de l’intimé contenait une copie de l’arrêt de la Cour d’appel fédérale Canada (Ministre du Revenu national) c. Vardy Villa Ltd., 2002 CAF 287, (« Vardy Villa »). Tout comme l’arrêt Légaré, l’arrêt Vardy Villa portait sur l’alinéa 3(2)c) de la Loi sur l’assurance‑chômage. Les paragraphes suivants de l’arrêt Vardy Villa étayent mon point de vue :
+[5] Le sous‑alinéa 3(2)c)(ii) prévoit une procédure d’examen des cas en deux étapes : premièrement, il faut déterminer si l’employeur et l’employé sont liés; deuxièmement, le ministre doit décider, en vertu de son pouvoir discrétionnaire, si, malgré ce lien, le contrat de travail aurait été quand même à peu près semblable si les parties n’avaient pas eu entre elles un lien de dépendance.
+[6] Par contre, il n’y a pas de procédure en deux étapes à suivre dans les affaires portant sur le sous‑alinéa 3(2)c)(i) de la Loi. Lorsque l’employeur et l’employé n’ont pas entre eux un lien de dépendance, en conformité avec la Loi de l’impôt sur le revenu, l’emploi en cause est « exclu » . Il est clair que le ministre n’a pas besoin d’exercer son pouvoir discrétionnaire et d’être convaincu des éléments factuels énoncés au sous‑alinéa 3(2)c)(ii), à moins que l’on n’ait conclu que les parties sont liées. En effet, alors qu’on parle du ministre aux sous‑alinéa 3(2)c)(ii), au sous‑alinéa 3(2)c)(i), on ne mentionne ni le ministre ni l’obligation de celui-ci de décider de quoi que ce soit.
+[7] Toute décision rendue en vertu du sous‑alinéa 3(2)c)(i) est susceptible de faire l’objet d’un nouvel examen par la Cour de l’impôt […]
+La position de l’intimé
+[27] L’avocat de l’intimé a concédé que le seul aspect de la relation entre M. Puni et la société qui avait amené le ministre à conclure à l’existence d’un lien de dépendance dans la relation d’emploi était le fait qu’une partie du salaire de M. Puni était portée au crédit de son compte de prêt d’actionnaire et que l’encaissement de certains de ses chèques de paie avait été différé. Tous les autres aspects de l’emploi de M. Puni indiquaient l’existence d’une relation sans lien de dépendance.
+[28] L’avocat de l’intimé a clairement fait observer qu’il n’y avait aucun élément de preuve que M. Puni tentait d’utiliser la prétendue relation avec lien de dépendance entre lui et la société pour tirer profit abusivement du système de l’assurance-emploi, mais il a soutenu que, compte tenu du fait qu’il s’agissait tout de même d’une relation avec lien de dépendance, M. Puni n’occupait pas un emploi assurable.
+[29] L’intimé avance que le fait qu’une partie de la rémunération de M. Puni ait été portée au crédit de son compte de prêt d’actionnaire était un élément de preuve convaincant de la nature de la relation qui existait entre M. Puni et la société, soit une relation avec lien de dépendance. Selon l’intimé, on n’aurait jamais demandé à un employé sans lien de dépendance d’effectuer un tel prêt et M. Puni n’avait aucun choix en la matière.
+[30] Je ne suis pas d’accord avec l’intimé sur la manière dont il a qualifié les prêts en question. M. Puni jouait deux rôles : celui d’un employé de la société et celui d’un actionnaire de la société. Il avait l’obligation de verser des fonds à la société, mais cette obligation découlait de son rôle d’actionnaire, non de son rôle d’employé. Si M. Puni avait eu accès à des fonds de la même manière que M. Mann et M. Nahal, alors il aurait simplement pu prêter ces fonds à la société, et il n’y aurait eu aucune conséquence sur son salaire. L’obligation de prêter des fonds existerait toujours, mais le prêt aurait été effectué d’une autre manière. Le fait que M. Puni ait été obligé de prêter son salaire à la société découlait du fait que son salaire était sa seule source de fonds, non de sa relation d’emploi. Malgré le fait qu’en réalité l’argent ne soit jamais passé entre les mains de M. Puni, mais qu’il ait plutôt été simplement porté au crédit de son compte de prêt d’actionnaire, je conclus que M. Puni a reçu son revenu d’emploi en sa qualité d’employé de la société et qu’il a par la suite prêté cet argent à la société en sa qualité d’actionnaire. Ainsi, je conclus que les prêts en question n’ont aucune conséquence sur la question de savoir s’il existait ou non un lien de dépendance entre M. Puni et la société.
+[31] Ainsi, le seul facteur qui subsiste de l’ensemble de la relation entre M. Puni et la société qui pourrait être considéré comme démontrant l’existence d’une relation avec lien de dépendance est le fait qu’on avait demandé à M. Puni de différer l’encaissement de ses chèques de paie de temps en temps. Bien qu’il s’agisse manifestement d’une condition de travail inhabituelle, la preuve indique que M. Puni n’était pas le seul employé auquel la condition s’appliquait. Il y avait quatre autres employés auxquels on avait demandé de remettre à plus tard l’encaissement de leurs chèques de paie, dont trois n’avaient aucun lien avec les actionnaires. L’intimé a soutenu que la différence entre ces employés et M. Puni était qu’ils avaient le choix de recevoir une rémunération différée ou non alors que M. Puni était tenu d’accepter une rémunération différée. Je ne puis souscrire à cet argument. Il ressort manifestement de la preuve que M. Puni a été licencié en 2010 parce qu’il avait refusé de continuer à accepter que sa rémunération soit différée. Bien qu’il soit évident que M. Puni était l’employé auquel on demandait toujours en premier d’attendre avant de recevoir son chèque de paie, je n’estime pas que ce facteur à lui seul soit suffisant pour conclure qu’il y avait un lien de dépendance entre M. Puni et la société, alors que tous les autres éléments de preuve indiquent qu’il n’y en avait pas.
+[32] L’intimé a également soutenu que M. Puni était l’actionnaire le plus influent des trois, parce que c’était lui qui s’occupait des activités quotidiennes de la société. J’admets que la participation de M. Puni aux activités quotidiennes de la société devait lui avoir permis d’avoir des connaissances particulières des activités et que le fait qu’il fût le seul actionnaire à être formé par Nando lui accordait aussi un certain niveau de pouvoir. J’accepte également que le rôle de M. Puni en tant qu’intermédiaire entre M. Mann et M. Nahal par suite de la rupture de leur relation lui ait donné du pouvoir en plus. Toutefois, aucun élément de preuve ne démontre que M. Puni a utilisé un tel pouvoir pour établir sa relation d’emploi avec la société. En réalité, la preuve indique que, à part les questions de paiement mentionnées ci‑dessus, la relation d’emploi de M. Puni avec la société n’a pas changé de 2009 (lorsque M. Mann et M. Nahal étaient en bons termes) à 2011 (lorsqu’ils ne s’adressaient plus la parole). La preuve n’indique pas que M. Mann et M. Nahal étaient des actionnaires naïfs qui étaient sous le contrôle de M. Puni. M. Mann avait accès aux renseignements concernant les activités quotidiennes de la société au moyen de la présence de son fils Kubby, et M. Nahal avait de l’expérience au sujet de l’exploitation d’une franchise Nando en raison de sa participation à l’exploitation de sa franchise située à Abbotsford. En outre, tout autre pouvoir que M. Puni avait sur les autres actionnaires était contrebalancé par son manque de pouvoir qui était dû à sa situation financière personnelle, laquelle était plus précaire, et au fait qu’il dépendait de la société pour sa rémunération. Je ne suis donc pas disposé à accepter que M. Puni avait un quelconque degré de contrôle de fait sur la société.
+La conclusion
+[33] Pour l’ensemble des motifs exposés ci‑dessus, je conclus que M. Puni occupait un emploi assurable pour la période allant du 6 juin au 20 novembre 2011. L’appel est par conséquent accueilli.
+Signé à Ottawa, Canada, ce 29e jour de mai 2013.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 5e jour de juillet 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 172
+No DU DOSSIER DE LA COUR : 2012-3086(EI)
+INTITULÉ : KALBIR S. PUNI c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Kamloops (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 14 mai 2013
+MOTIFS DU JUGEMENT : L’honorable juge David E. Graham
+DATE DU JUGEMENT : Le 29 mai 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] L’alinéa 3(2)c) de la Loi sur l’assurance‑chômage était ainsi libellé :
+Les emplois exclus sont les suivants :
+c) [...] tout emploi lorsque l’employeur et l’employé ont entre eux un lien de dépendance, pour l’application du présent alinéa :
+(i) la question de savoir si des personnes ont entre elles un lien de dépendance étant déterminée en conformité avec la Loi de l’impôt sur le revenu,
+(ii) l’employeur et l’employé, lorsqu’ils sont des personnes liées entre elles, au sens de cette loi, étant réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu un lien de dépendance […]

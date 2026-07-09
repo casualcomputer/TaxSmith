@@ -1,0 +1,116 @@
+Title: Mansour c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29145/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-141-29145-mansour-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-03-12
+
+# Mansour c. La Reine
+
+- Citation: 2009 CCI 141
+- Decision date: 2009-03-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6645, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mansour c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-12
+Référence neutre
+2009 CCI 141
+Numéro de dossier
+2007-1754(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1754(IT)G
+ENTRE :
+ROBERT ANTHONY MANSOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 23 janvier 2009, à Montréal (Québec).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me Daniel Bourgeois
+Avocat de l’intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2000 de l’appelant est accueilli intégralement.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2001 de l’appelant est accueilli seulement en ce que les pénalités imposées sont annulées, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Le tout sans dépens.
+Signé à Ottawa, Canada, ce 12e jour de mars 2009.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2009 CCI 141
+Date : 20090312
+Dossier : 2007-1754(IT)G
+ENTRE :
+ROBERT ANTHONY MANSOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Le contribuable, M. Mansour, était engagé dans plusieurs entreprises de location de biens immobiliers à Montréal avec son associé, M. Oberman, pendant la période de 1994 jusqu’à la fin de 2000. Une société de personnes distincte avait été constituée pour chacun des biens immobiliers. Dans certains cas et pendant certaines périodes, le père d’un des associés était également associé. Chacun des associés recevait une part du revenu de location, calculé au prorata de l’argent investi par chacun dans un bien immobilier donné. Dans la plupart des cas, l’investissement de M. Mansour était un tiers. Les associés touchaient des frais de gestion égaux pour leur contribution autre que financière à l’entreprise, et ce, sans égard au montant que chacun avait investi. M. Mansour était chargé surtout de veiller à ce que les immeubles soient entretenus, rénovés et loués, de faire le recouvrement des loyers, etc. De son côté, M. Oberman, comptable de formation, était chargé de la tenue des livres, de la comptabilité et des relations avec les comptables externes.
+[2] Les années d’imposition 2000 et 2001 de M. Mansour ont fait l’objet de nouvelles cotisations. Selon le vérificateur de l’Agence du revenu du Canada (l’« ARC »), c’était initialement M. Oberman qui avait été choisi en vue de la vérification, mais M. Mansour a également fait l’objet d’une vérification après qu’on eut constaté sa relation avec M. Oberman dans le cadre de la vérification menée à l’égard de ce dernier.
+[3] La nouvelle cotisation à l’égard de l’année d’imposition 2000 de M. Mansour a été établie après que cette année ait été frappée de prescription. La nouvelle cotisation à l’égard de l’année 2000 soulève deux questions. La première est de savoir si la disposition de l’immeuble du chemin Queen Mary en 2000 a eu lieu au mois de décembre, comme on l’a déclaré, ou bien en juillet, comme l’a déterminé le ministre du Revenu national (le « ministre »). M. Mansour a réalisé un gain de 150 000 $. Il est important d’établir le moment de l’opération parce qu’en 2000 il y a eu trois différents taux d’inclusion des gains en capital, soit 75 %, 66 2/3 %, 50 %. Il y a également une question connexe, soit celle de savoir si une perte en capital compensatoire s’élevant à 35 000 $ a été subie à la disposition, en 2000, d’un autre bien immobilier situé chemin Côte-St-Luc. La deuxième question est de savoir si les frais de gestion versés à M. Mansour en 2000 s’élevaient à 44 200 $, comme cela était indiqué dans la déclaration produite, ou bien à 75 595 $, comme l’indique la cotisation établie par l’ARC. Il incombe à l’intimée de prouver que la conduite de M. Mansour justifie le réexamen de son année d’imposition 2000 après l’expiration de la période normale de nouvelle cotisation en vertu du paragraphe 152(4) de la Loi de l’impôt sur le revenu (la « Loi »). Le paragraphe 152(4.01) exige que le ministre soit en mesure d’établir à l’égard de chacune des questions qu’il y a eu inconduite de la part de M. Mansour.
+[4] La nouvelle cotisation établie à l’égard de l’année d’imposition 2001 de M. Mansour concerne un montant de 22 390 $ de frais de gestion supplémentaires qui, selon le ministre, ont été versés à M. Mansour dans le cadre de l’entreprise de location de l’immeuble du chemin Queen Mary, exploitée avec M. Oberman. M. Mansour n’a déclaré aucuns frais de gestion pour l’année 2001 et signale qu’à la fin de l’année 2000 (et, selon le ministre, la disposition a même eu lieu plus tôt), il avait disposé de sa participation dans le bien au profit de M. Oberman. La nouvelle cotisation à l’égard de l’année 2001 a été établie avant l’expiration de la période normale de nouvelle cotisation. C’est à M. Mansour qu’incombe le fardeau de la preuve quant au montant ajouté à ses revenus dans la nouvelle cotisation pour l’année 2001.
+[5] De plus, l’ARC a imposé à M. Mansour en vertu du paragraphe 163(2) des pénalités pour faute lourde relativement aux frais de gestion qu’il n’aurait pas déclarés. En ce qui a trait à ces pénalités, c’est à l’intimée qu’incombe le fardeau de la preuve.
+[6] M. Oberman n’a pas témoigné, même si les deux parties ont dit qu’elles avaient espéré qu’il le ferait. L’intimée a essayé deux fois de lui signifier une assignation à comparaître. Les deux tentatives ont eu lieu pendant la semaine précédant l’audience. À la première tentative, la personne habitant à l’adresse où s’était présentée la personne qui devait effectuer la signification a dit que M. Oberman n’habitait plus à cette adresse depuis deux ans et demi. Quelques jours plus tard, on s’est présenté à une autre adresse, où l’ex-épouse de M. Oberman a expliqué que ce dernier n’habitait plus là depuis deux ans.
+[7] Le témoignage de M. Oberman aurait été utile pour évaluer l’exactitude de la position de chaque partie sur les questions en litige. On ne m’a pas demandé de faire d’inférence défavorable à l’égard de l’une ou l’autre partie du fait qu’on n’a pas appelé M. Oberman comme témoin, et je ne serais pas prêt à le faire dans les circonstances. Toutefois, comme il est expliqué en détail plus bas, en raison de l’absence de M. Oberman, aucune des parties n’a été en mesure de s’acquitter du fardeau de la preuve lui incombant. Étant donné le caractère plutôt insuffisant et contradictoire de la preuve en l’espèce, et étant donné l’absence de M. Oberman, aucune des parties n’a été en mesure d’établir que sa position est plus que possible ou même plausible et qu’elle est, en fait, probable.
+[8] Il s’agit là d’un résultat peu satisfaisant et malheureux. J’ai offert la possibilité d’ajourner l’audience afin que l’on puisse retrouver M. Oberman et lui signifier une assignation à comparaître, mais les deux parties ont préféré que l’audience ait lieu.
+I. Le gain et la perte en capital de 2000
+[9] Le contribuable a déposé en preuve une convention de vente datée du 28 juillet 2000, concernant la vente à M. Oberman de la participation de M. Mansour dans l’immeuble du chemin Queen Mary. La convention prévoit expressément comme date de clôture le 31 décembre 2000, et spécifie que la fraction en numéraire de 150 000 $ du prix d’achat était payable au moment de la clôture. C’est donc pour cette raison que le contribuable, dans sa déclaration de revenus pour l’année 2000, a déclaré la disposition comme ayant eu lieu en décembre 2000.
+[10] Selon l’intimée, la disposition a eu lieu en juillet. L’avocat de l’intimée fait remarquer que M. Oberman a donné un chèque de 150 000 $ à M. Mansour le 7 juillet. À la ligne prévue pour la description de la transaction, il est indiqué que le chèque concerne la vente de l’immeuble du chemin Queen Mary à M. Mansour. Le contribuable affirme que ce montant constituait un prêt que lui avait consenti M. Oberman dans l’attente ou en prévision de la vente de l’immeuble du chemin Queen Mary et que ce prêt avait été consenti parce que M. Mansour avait grand besoin d’argent à ce moment-là. Ce qu’avance M. Mansour correspond à l’exigence, dans une des clauses de la convention, que le prix d’achat soit payé à la date de clôture, en décembre. La Couronne avance comme hypothèse – et rien de plus – que la convention aurait pu avoir été rédigée après la publication de l’Énoncé économique d’octobre 2000 afin de profiter du taux réduit d’inclusion des gains en capital. En fait, la Couronne laisse entendre qu’il y a eu fraude, sans être vraiment prête à l’affirmer. Étant donné que la Couronne n’a aucune preuve pour appuyer une allégation de fraude, le simple fait d’avancer que c’est ce qui a pu arriver et que, si c’était bel et bien arrivé, cela serait conforme aux autres éléments de preuve présentés, ne suffit tout simplement pas à me convaincre que c’est ce qui est probablement arrivé. Comme la convention de vente de l’immeuble du chemin Queen Mary prévoyait également la vente de l’immeuble situé chemin Côte‑St-Luc qui a engendré la perte en capital, on est porté à penser qu’un fraudeur rusé aurait fait en sorte que cette perte en capital soit subie en juillet, alors que la perte en capital déductible aurait été plus importante. La position de M. Mansour selon laquelle la date de clôture était en décembre correspond aux éléments de preuve qui m’ont été présentés et qui indiquent qu’il a continué jusqu’à la fin décembre à recevoir et à déclarer les frais de gestion ainsi que sa part des revenus nets de location pour l’immeuble du chemin Queen Mary.
+[11] La position de la Couronne concernant la perte en capital subie à la disposition de l’immeuble du chemin Côte-St-Luc, à savoir qu’il y a eu présentation erronée des faits justifiant l’établissement d’une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation, est beaucoup moins convaincante. M. Mansour a déclaré la disposition ainsi que la perte de 35 000 $. Il y avait quelques éléments de preuve écrite se rapportant à la comptabilité relative à la vente, et ces éléments de preuve établissaient à 35 000 $ la perte financière subie par M. Mansour à la suite de la vente de sa participation au prix d’un dollar. Si tout avait été fait selon les règles, j’en conclurais que le capital devant lui être remis par la société de personnes aurait dû être de 35 000 $ moins que le montant global qu’il a investi, et que, par la suite, sa participation aurait dû être transférée au prix d’un dollar. La Couronne fait valoir que M. Mansour ne pouvait pas démontrer que la perte en capital qu’il a subie s’élevait à 35 000 $. Toutefois, étant donné que le fardeau de la preuve incombe à la Couronne, cette approche ne convient pas. Le vérificateur de l’ARC a affirmé qu’on ne lui avait montré aucun calcul du prix de base rajusté de l’immeuble, du produit de la disposition ou de la perte en capital résultante, qu’il n’avait pas trouvé un tel calcul dans la boîte de documents que lui avait fournie M. Oberman, et qu’il n’avait pas essayé d’en établir un ou d’en reconstituer un lui‑même dans le cadre de la vérification. Dans les circonstances, l’intimée ne s’est pas acquittée de son fardeau de démontrer qu’il y a bel et bien eu une faute lourde ou une inconduite volontaire. La Couronne ne peut pas s’acquitter de ce fardeau en essayant de le renverser. Elle doit commencer par présenter une preuve prima facie d’inconduite et cette preuve doit, en définitive, s’avérer probable.
+[12] Dans son argumentation, la Couronne a fait valoir que tous les associés d’une société de personnes devraient être tenus de surveiller et d’examiner la comptabilité de la société chaque année avant de déclarer leur part des revenus ou des pertes de la société de personnes dans leur déclaration de revenus personnelle, et que le défaut de le faire constitue une inconduite du genre qui permet toujours au ministre d’établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation, même s’il n’y a aucune raison de douter de l’exactitude des renseignements fournis aux associés par la société de personnes. Une position aussi extrême est tout à fait indéfendable. Évidemment, la situation serait bien différente si les associés avaient de bonnes raisons de douter de l’exactitude et de la justesse des renseignements qui leur ont été fournis par la société de personnes ou si, pour quelque autre raison, il était déraisonnable qu’un associé, dans des circonstances données, accepte comme exacts de tels renseignements.
+II. Les frais d’administration de 2000
+[13] Le montant des frais de gestion supplémentaires ajoutés dans le calcul des revenus de M. Mansour pour l’année 2000, prétend-on, consiste en des montants supplémentaires inscrits dans les livres comptables de l’entreprise à titre de frais de gestion ou d’administration versés à M. Mansour. Dans son témoignage, le vérificateur de l’ARC a affirmé que les livres comptables tenus par M. Oberman et qui lui ont été fournis par ce dernier n’étaient ni complets ni adéquats pour l’entreprise. M. Mansour a témoigné qu’une des principales raisons pour lesquelles il s’est brouillé avec M. Oberman était qu’en fin de compte ce dernier consacrait très peu de temps et par conséquent, peut-être, accordait très peu d’attention à ses tâches de comptabilité et de tenue de livres pour les entreprises. Les montants supplémentaires, contrairement aux montants de frais de gestion qui avaient été déclarés, n’ont pas été versés de façon régulière et ils ne sont pas de petits montants. Ce sont d’importants montants forfaitaires payés par chèque. Si ces montants supplémentaires étaient vraiment des frais de gestion, cela signifierait aussi que les frais de gestion étaient loin d’avoir été répartis de façon à peu près égale entre les associés.
+[14] M. Mansour a dit que ces montants constituaient des remboursements de prêts. Il ressort de certains éléments de preuve que M. Mansour avait financé la société de personnes. Le vérificateur de l’ARC a affirmé n’avoir vu dans les livres comptables rien qui indiquait l’existence de comptes de prêts ou de comptes d’avances d’associés. Toutefois, il ressort clairement des pièces déposées par la Couronne que des prêts (autres que des prêts hypothécaires), des prêts entre sociétés et des prêts d’actionnaires ont bel et bien été inscrits. La preuve produite en l’espèce ne me permet pas de conclure que le ministre a réussi à établir qu’il y avait eu inconduite probable de la part de M. Mansour justifiant l’établissement d’une nouvelle cotisation à l’égard d’une année frappée de prescription.
+[15] Étant donné que le ministre ne s’est pas acquitté du fardeau qui lui incombait d’établir que le contribuable avait fait une présentation erronée des faits ou qu’il y avait eu inconduite de sa part pour ce qui était d’indiquer le moment où le gain en capital a été réalisé, le montant de la perte en capital déclarée ou le montant de frais de gestion déclaré, l’appel concernant l’année d’imposition 2000 sera accueilli intégralement.
+III. Les frais de gestion de 2001
+[16] Dans sa nouvelle cotisation établie à l’égard de l’année 2001, le ministre a ajouté 22 390 $ de frais de gestion aux revenus de M. Mansour. Ce dernier n’avait déclaré aucuns frais de gestion. M. Oberman avait inscrit le montant en question dans ses livres comptables de 2001 à titre de frais de gestion versés à M. Mansour à l’égard de l’immeuble du chemin Queen Mary. M. Mansour a reçu un chèque (portant le numéro 1177) de 20 000 $ daté du 16 février 2001 émis par la société de personnes constituée pour l’immeuble du chemin Queen Mary. Le même jour, un chèque (portant le numéro 1179) de 16 000 $ a été fait au profit de M. Oberman. Selon l’ARC, M. Oberman a déclaré ce montant à titre de frais de gestion dans sa déclaration de revenus.
+[17] M. Mansour fait remarquer que ce chèque, à la différence d’autres chèques, ne porte aucune mention qu’il s’agit de frais de gestion; il fait remarquer en outre qu’il ne s’agissait pas d’un des versements réguliers d’un petit montant. Mais ce qui importe davantage est que, selon lui, à aucun moment en 2001 il ne détenait de participation dans l’immeuble du chemin Queen Mary. Il affirme qu’il s’agit d’un chèque postdaté qu’il a reçu en 2000 dans le cadre de l’établissement de ses comptes définitifs. Il signale que le chèque libellé à son ordre porte sa propre signature et celle de M. Oberman, alors que le chèque établi à l’ordre de M. Oberman ne porte que la signature de M. Oberman.
+[18] M. Mansour fait naître, certes, un doute concernant l’exactitude de la nouvelle cotisation pour l’année 2001, mais les éléments de preuve qui sont à l’origine de mes doutes et de mes préoccupations ne suffisent pas à me convaincre, selon la prépondérance des probabilités, que la position de M. Mansour est la plus vraisemblable. Je peux seulement conclure que je ne dispose pas de suffisamment d’éléments de preuve pour être en mesure de dire que je sais ce qui a probablement donné lieu aux inscriptions ou aux chèques en question. Comme il incombe à M. Mansour de me convaincre que la nouvelle cotisation pour l’année 2001 et les hypothèses sur lesquelles elle est fondée sont erronées, son appel concernant les frais de gestion non déclarés comme revenus pour l’année d’imposition 2001 doit être rejeté.
+IV. Pénalités
+[19] De la même façon que le contribuable n’a pas été en mesure de me convaincre, compte tenu de l’ensemble de la preuve présentée, qu’il n’avait reçu aucuns frais de gestion en 2001 à l’égard de l’immeuble du chemin Queen Mary, la Couronne n’a pas été en mesure de me convaincre que M. Mansour avait fait une présentation erronée des faits relativement à ses revenus de frais de gestion de 2001. Par conséquent, bien que M. Mansour n’obtienne pas gain de cause sur le fond de son appel concernant l’année 2001, l’intimée ne peut pas faire confirmer par cette Cour les pénalités imposées à l’égard de cette année.
+V. Imprimés Option-C
+[20] La Couronne a présenté en preuve des imprimés Option-C ou OpC afin de bien établir les renseignements déclarés par le contribuable dans sa déclaration de revenus de l’année 2000 qu’il avait produite électroniquement. L’avocat du contribuable a soutenu que les imprimés Option-C déposés par la Couronne ne constituaient pas une preuve de ce qui se trouvait dans la déclaration électronique de M. Mansour. Il a présenté plusieurs raisons à cela. Le point de départ est le paragraphe 9 de la décision qu’a rendue en 1986 le juge en chef actuel de la Cour dans l’affaire Markakis v. M.N.R., 86 DTC 1237. À la suite de cette décision, le paragraphe 244(22) a été ajouté à la Loi. Il prévoit qu’un imprimé de l’ARC doit être l’imprimé de renseignements reçus électroniquement. Les formulaires Option‑C de l’ARC sont des documents difficiles à utiliser, entre autres parce qu’ils indiquent les montants consolidés des cotisations et des nouvelles cotisations établies à la suite de déclarations de revenus produites électroniquement. L’avocat du contribuable fait valoir que l’imprimé Option-C ne constitue pas un imprimé visé au paragraphe 244(22) parce qu’il comporte beaucoup de renseignements autres que ceux fournis par le contribuable dans sa déclaration électronique. De plus, l’avocat fait valoir qu’en l’espèce l’imprimé Option-C pour l’année d’imposition 2000 de M. Mansour n’indique aucun gain ni aucune perte en capital comme ayant été déclaré.
+[21] En l’espèce, l’imprimé Option-C de 2000 ne pèse aucunement dans la balance. M. Mansour a présenté en preuve sa copie de sa déclaration de revenus de 2000. De plus, j’ai accueilli pour d’autres motifs son appel concernant l’année d’imposition 2000. Bien que je ne sois pas obligé de trancher la question, je dois avouer avoir de la difficulté à saisir comment un imprimé sur lequel ne sont pas indiqués des gains et des pertes en capital qui ont pourtant été déclarés peut constituer un imprimé conforme au paragraphe 244(22) des renseignements produits électroniquement par le contribuable pour l’année.
+[22] Par conséquent, l’appel concernant l’année d’imposition 2000 est accueilli intégralement, et l’appel concernant l’année d’imposition 2001 est accueilli seulement en ce que les pénalités imposées sont annulées.
+[23] Dans les circonstances, aucune ordonnance ne sera rendue à l’égard des dépens.
+Signé à Ottawa, Canada, ce 12e jour de mars 2009.
+« Patrick Boyle »
+Juge Boyle
+RÉFÉRENCE : 2009 CCI 141
+N° DE DOSSIER : 2007-1754(IT)G
+INTITULÉ : ROBERT ANTHONY MANSOUR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 23 janvier 2009
+MOTIFS DU JUGEMENT PAR : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 12 mars 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Daniel Bourgeois
+Avocat de l’intimée :
+Me Simon-Nicolas Crépin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Daniel Bourgeois
+Cabinet : De Grandpré Chait
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

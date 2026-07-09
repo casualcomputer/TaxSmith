@@ -1,0 +1,160 @@
+---
+title: "St-Julien c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27534/index.do"
+last_modified: "2005-08-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 511"
+citation2: ""
+neutral_citation: "2005 CCI 511"
+decision_date: "2005-08-24"
+language: "fr"
+item_id: "27534"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 96
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:37:44.286000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "560feb82c7c883617221056ea8a4d8f2360acf34fce1c9b4257cd653fc9b7528"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# St-Julien c. La Reine
+
+- Citation: 2005 CCI 511
+- Decision date: 2005-08-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 96, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Julien c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-24
+Référence neutre
+2005 CCI 511
+Numéro de dossier
+2002-4871(IT)I
+Juges et Officiers taxateurs
+Alban Garon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4871(IT)I
+ENTRE :
+IVAN ST-JULIEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 août 2005, à Rouyn-Noranda (Québec)
+Devant : L'honorable Alban Garon, juge suppléant
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour d'août 2005.
+Alban Garon
+Juge suppléant Garon
+Référence : 2005CCI511
+Date : 20050824
+Dossier : 2002-4871(IT)I
+ENTRE :
+IVAN ST-JULIEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Juge suppléant Garon
+[1] Il s'agit d'un appel d'une cotisation d'impôt sur le revenu en date du 3 janvier 2002 pour l'année d'imposition 2000. Par cette cotisation le ministre du Revenu national (le « ministre » ) refusait la déduction de certains frais s'élevant à 7 777,13 $ pour l'année en litige. Cependant, lors de l'audition de l'appel, la seule question qui fut débattue a porté uniquement sur les frais afférents à un véhicule à moteur à l'égard desquels une déduction d'une somme de 5 905,84 $ était réclamée.
+[2] L'appelant fut le seul témoin lors de l'audition de cet appel.
+[3] Les faits sont simples.
+[4] L'appelant est juge de la Cour supérieure du Québec et il réside à Val-d'Or.
+[5] L'appelant, dans le cadre de ses fonctions, était appelé au cours de l'année en litige à siéger à plusieurs endroits dans le nord de la province de Québec, notamment à Rouyn-Noranda, Ville-Marie et Chibougamau. Dans l'exercice de ses fonctions, il devait aussi se rendre à Québec et à certains autres endroits à l'intérieur de la province.
+[6] Pour se déplacer, l'appelant ne peut pas utiliser l'avion parce qu'il souffre, depuis une vingtaine d'années, de ce qu'il a décrit comme le « vertige positionnel » . Étant donné les conditions climatiques défavorables qui prévalent particulièrement durant l'hiver, l'appelant a affirmé qu'il doit utiliser un véhicule sécuritaire, un véhicule à 4 roues motrices pour ses déplacements. Durant l'année en cause, l'appelant louait une voiture avec option d'achat. Il devait disposer du véhicule à tous les 2 ou 3 ans en raison du nombre élevé de kilomètres qu'il devait parcourir. Il se servait aussi de sa voiture pour des fins personnelles dans une proportion d'un peu plus de 20 pour cent.
+[7] Durant l'année d'imposition en cause il a parcouru 19 358 kilomètres dans l'exercice de ses fonctions de juge. Il a ainsi reçu, par l'intermédiaire du Bureau du Commissaire à la magistrature fédérale, une allocation non imposable de 8 210,26 $ pour ses frais concernant l'utilisation de sa voiture. L'appelant a mis en preuve un état (pièce A-1), concernant l'utilisation de sa voiture. Cet état fait mention des différentes catégories de dépenses dont il réclame la déduction. La partie pertinente est ci-après reproduite :
+Dépenses déduites
+Frais de véhicule à moteur :
+Location de véhicule 9,781.00
+Entretien et réparation 3,321.00
+Essence 4,242.00
+Assurance 638.00
+Immatriculation 173.00
+18,155.00
+Partie personnelle 4,040.00
+14,115.00
+Contribution de l'employeur 8,210.00
+Dépenses déduites pour véhicule 5,905.00$
+[8] L'appelant a aussi fourni certains renseignements qui démontrent que s'il avait loué une voiture sécuritaire chaque fois qu'il était appelé à siéger à l'extérieur de la ville où il réside (Val d'Or), ce qu'il aurait pu faire suivant les pratiques administratives du Bureau du Commissaire à la magistrature fédérale, il aurait pu réclamer un montant beaucoup plus élevé que le total du montant dont il demande la déduction, soit 5 905,84 $, et de l'allocation de 8 210,26 $ qu'il a reçue du Bureau du Commissaire à la magistrature fédérale.
+Prétentions des parties
+[9] Lors de son argumentation, l'appelant a d'abord souligné qu'à cause de sa condition médicale, il doit utiliser une voiture pour ses déplacements dans le cadre de ses fonctions. Il a argumenté que l'indemnité de déplacement calculée au taux fixe du kilomètre établi par le Conseil du Trésor et utilisé par le Bureau du Commissaire n'est pas raisonnable dans son cas particulier et qu'il en souffre un préjudice. Il a fait valoir que s'il louait une voiture pour chacun de ses déplacements dans le cadre de l'exercice de ses fonctions, les frais de location excéderaient de beaucoup la somme de 14 115 $ qui représente le total de ses dépenses relatives à l'utilisation de sa voiture aux fins de sa charge.
+[10] Pour sa part, l'intimée a prétendu que l'alinéa 8(1)h) de la Loi de l'impôt sur le revenu (la « Loi » ) ne peut autoriser la déduction des frais en question relatifs à l'usage d'une automobile puisque le contrat d'emploi du juge ne l'exigeait pas.
+[11] On a aussi fait valoir pour l'intimée que l'alinéa 8(1)h.1) n'autorise pas non plus cette déduction.
+Analyse
+[12] La question en litige consiste à déterminer si l'appelant peut déduire le montant de 5 905,84 $, montant qui représente une partie des frais relatifs à l'utilisation d'un véhicule à moteur pour lesquels il n'a pas été remboursé.
+[13] À l'audience, les débats ont porté en bonne partie sur les motifs à l'appui de la non-application des alinéas 8(1)h) et 8(1)h.1) de la Loi.
+[14] Je suis d'avis que l'alinéa 8(1)h) ne peut s'appliquer dans le présent cas. Tout d'abord, cet alinéa prévoit la déduction de certains frais de déplacement sauf ceux afférents à un véhicule à moteur qui peuvent être l'objet d'une déduction en vertu de l'alinéa 8(1)(h.1). Il faut donc se référer à ce dernier alinéa en ce qui concerne la déduction relative aux frais afférents à l'utilisation d'un véhicule à moteur. De plus, il est faux de dire au sujet de l'appelant qu' « en vertu de son contrat de travail il était tenu de se déplacer dans différentes localités » , comme cela est affirmé à l'alinéa 4b) de la Réponse à l'avis d'appel. Un juge auquel la Loi sur les juges, s'applique comme c'est le cas de l'appelant, ne passe pas un contrat d'emploi avec le gouvernement du Canada. Il est nommé par le gouverneur général en vertu de l'article 96 de la Loi constitutionnelle de 1867. Sa rémunération est établie par la Loi sur les juges et il a droit, notamment, au remboursement de ses frais de déplacement en vertu des articles 34 et 39 de cette même Loi. Ces dispositions se lisent ainsi :
+34. (1) Subject to this section and sections 36 to 39, a judge of a superior court who, for the purposes of performing any function or duty in that capacity, attends at any place other than that at which or in the immediate vicinity of which the judge is by law obliged to reside is entitled to be paid, as a travel allowance, moving or transportation expenses and the reasonable travel and other expenses incurred by the judge in so attending.
+34. (1) Sous réserve des autres dispositions du présent article et des articles 36 à 39, les juges d'une juridiction supérieure qui, dans le cadre de leurs fonctions judiciaires, doivent siéger en dehors des limites où la loi les oblige à résider ont droit à une indemnité de déplacement pour leurs frais de transport et les frais de séjour et autres entraînés par la vacation.
+(2) No judge is entitled to be paid a travel allowance for attending at or in the immediate vicinity of the place where the judge resides.
+(2) Les juges n'ont droit à aucune indemnité de déplacement pour vacation dans leur lieu de résidence ou à proximité de celui-ci.
+39. Every application for payment of a travel allowance shall be accompanied by a certificate of the judge applying for it showing the number of days for which a travel allowance is claimed and the amount of the actual expenses incurred.
+39. Les demandes d'indemnité de déplacement doivent être accompagnées d'un état des dépenses exposées certifié par l'intéressé et précisant le nombre de jours de déplacement.
+[15] L'alinéa 8(1)h.1) ne peut pas non plus être invoqué à l'appui d'une déduction. En effet, cet alinéa exige pour son application que le contribuable ait été tenu aux termes de son contrat d'emploi d'acquitter les frais afférents à un véhicule à moteur pour se déplacer dans l'exercice de ses fonctions. Comme je viens de l'expliquer, il n'y a pas de contrat d'emploi entre un juge de nomination fédérale et le gouvernement du Canada. En outre, cet alinéa ne s'applique pas à un contribuable qui a reçu pour ses frais afférents à un véhicule à moteur une allocation qui n'est pas incluse dans le calcul de son revenu pour l'année. Dans le présent cas, il n'est pas contesté que l'appelant a reçu une allocation non imposable s'élevant à 8 210,26 $ pour les frais relatifs à sa voiture.
+[16] Au sujet des alinéas 8(1)h) et 8(1)h.1), il n'est peut-être pas inutile d'ajouter que le terme « employeur » mentionné dans chacun de ces alinéas s'applique pour décrire la relation d'un juge avec le Gouvernement du Canada pour les fins de la Loi. En effet, bien qu'un juge n'ait pas d'employeur à proprement parler, pour les fins de la Loi le terme « employeur » inclut la personne de qui le juge reçoit sa rémunération. Cette conclusion découle de l'effet cumulatif des définitions des termes « charge » et « employeur » au paragraphe 248(1) de la Loi. Ces définitions sont ainsi formulées :
+« charge » Poste qu'occupe un particulier et qui lui donne droit à un traitement ou à une rémunération fixes ou vérifiables, y compris une charge judiciaire, la charge du ministre de la Couronne, la charge de membre du Sénat ou de la Chambre des communes du Canada, de membre d'une assemblée législative ou de membre d'un conseil législatif ou exécutif et toute autre charge dont le titulaire est élu au suffrage universel ou bien choisi ou nommé à titre représentatif, et comprend aussi le poste d'administrateur de société; « fonctionnaire » ou « cadre » s'entend de la personne qui détient une charge de ce genre, y compris un conseiller municipal et un commissaire d'école. (Les soulignés sont de moi)
+« employeur » Dans le cas du cadre ou fonctionnaire, la personne de qui celui-ci reçoit sa rémunération.
+[17] L'appelant dans sa plaidoirie n'a invoqué aucune disposition particulière de la Loi qui pourrait autoriser la déduction de la somme de 5 905,84 $ pour l'année d'imposition 2000 à l'égard de ses frais de déplacement dans le cadre de ses fonctions de juge.
+[18] Pour avoir droit à cette déduction, l'appelant devait démontrer que l'un quelconque des alinéas du paragraphe 8(1) de la Loi pouvait s'appliquer dans les circonstances. Cet article prévoit une vingtaine de situations où un contribuable peut se prévaloir d'une déduction dans le calcul d'un revenu tiré d'une charge ou d'un emploi. Aucune de ces déductions n'est susceptible de s'appliquer ici. En outre, le paragraphe 8(2) fait état d'une restriction générale au sujet de ces déductions et précise que « Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi » .
+[19] Je conclus donc qu'en droit, il est indiscutable que l'appelant n'a droit à aucune déduction pour frais relatifs à l'usage d'un véhicule pour les déplacements qu'il doit faire dans l'exécution de ses fonctions.
+[20] Même si je suis d'avis que l'appelant n'a pas droit à la déduction des frais en question, il me semble que l'appelant a subi un certain préjudice en supposant que la totalité des frais de chacun des postes mentionnés dans la pièce A-1 pour lesquels une déduction est réclamée puisse être établie.[*] Ce préjudice est représenté par le fait que l'appelant fut obligé de débourser pour ses frais de déplacement une somme de 5 905,84 $ en sus de l'allocation de 8 210,26 $ qui lui a été versée à ce titre. Même si une déduction lui était accordée, il ne récupérerait en réalité qu'un peu plus de la moitié de ce montant en fonction de son taux marginal qui dépassait de peu 50 pour cent pour l'année d'imposition en cause.
+[21] Bien qu'il ne relève pas de la compétence de cette Cour de déterminer le type de recours que l'appelant pourrait exercer, il me semble qu'une solution administrative puisse être trouvée à ce problème sans obliger l'appelant sur le plan pratique à louer une voiture sécuritaire pour chaque occasion où il aurait à se déplacer hors des environs de son lieu de résidence dans le cadre de ses fonctions. Dans la recherche de cette solution, il faut prendre comme point de départ que l'appelant, selon les articles 34 et 39 de la Loi sur les juges, a droit au remboursement des dépenses qu'il a réellement faites ou engagées dans ses déplacements dans l'exercice de ses fonctions judiciaires, y compris évidemment ses frais de transport.
+[22] Pour ces motifs, l'appel de la cotisation du ministre pour l'année 2000 est rejeté.
+Signé à Ottawa, Canada, ce 24e jour d'août 2005.
+Alban Garon
+Juge suppléant Garon
+RÉFÉRENCE : 2005CCI511
+N º DU DOSSIER DE LA COUR : 2002-4871(IT)I
+INTITULÉ DE LA CAUSE : Ivan St-Julien et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Rouyn-Noranda (Québec)
+DATE DE L'AUDIENCE : le 3 août 2005
+MOTIFS DE JUGEMENT PAR : L'honorable Alban Garon, juge suppléant
+DATE DU JUGEMENT : le 24 août 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario
+[*] La déduction de la portion pertinente du poste « entretien et réparation » au moins en partie me paraît problématique.

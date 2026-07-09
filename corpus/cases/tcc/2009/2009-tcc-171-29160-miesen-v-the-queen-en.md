@@ -1,0 +1,180 @@
+---
+title: "Miesen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29160/index.do"
+last_modified: "2009-03-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 171"
+citation2: ""
+neutral_citation: "2009 TCC 171"
+decision_date: "2009-03-27"
+language: "en"
+item_id: "29160"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6720
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:25:31.010000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9191ffd6e7fed7e531ae06c6b4e171abe549b6afa3f3b7e300296c7cd0bd69d0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Miesen v. The Queen
+
+- Citation: 2009 TCC 171
+- Decision date: 2009-03-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6720, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Miesen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-27
+Neutral citation
+2009 TCC 171
+File numbers
+2007-4110(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4110(IT)I
+BETWEEN:
+KAREN MIESEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 12, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Virginie Falardeau
+Counsel for the Respondent:
+Antonia Paraherakis
+____________________________________________________________________
+AMENDED JUDGMENT
+In accordance with the attached Amended Reasons for Judgment, the appeals from the reassessments dated July 5, 2007 under the Income Tax Act (the "Act") concerning the appellant's 1999, 2000 and 2001 taxation years are allowed in part. The reassessments are referred back to the Minister for reconsideration and reassessment on the basis that the additional unreported income be reduced by $9,944 (being the total of $7,054 admitted by the parties at the commencement of the hearing and $2,890 allowed by virtue of this judgment) for the 1999 taxation year, by $1,760 for the 2000 taxation year and by $1,800 for the 2001 taxation year and that the penalties pursuant to subsections 162(1), 162(2) and 163(2) of the Act be adjusted accordingly.
+This Amended Judgment is issued in substitution for the judgment dated March 27, 2009.
+Signed at Ottawa, Canada, this 21st day of May 2009.
+Favreau J.
+Citation: 2009 TCC 171
+Date: 20090521
+Docket: 2007-4110(IT)I
+BETWEEN:
+KAREN MIESEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau, J.
+[1] Mrs. Karen Miesen is appealing, by way of the informal procedure, the reassessments dated July 5, 2007 under the Income Tax Act R.S.C. 1985, c. 1 (5th Suppl.), as amended (the "Act") , concerning her 1999, 2000 and 2001 taxation years.
+[2] The appellant filed her income tax returns for the 1999, 2000 and 2001 taxation years on November 29, 2000, September 13, 2001 and May 7, 2003 respectively. The initial assessments of the said tax returns are dated January 4, 2001, October 16, 2001 and May 27, 2003 respectively and the total income of the appellant for each of those years was assessed, as declared, in the amounts of $13,083 (including $7,054 as other income) for the 1999 taxation year, $6,552 for the 2000 taxation year and $2,523 for the 2001 taxation year.
+[3] Following an audit conducted by the Minister of Revenue Québec (the "MRQ"), the Canada Revenue Agency (the “CRA”) reassessed the appellant on July 10, 2006 in the following manner (such reassessments were beyond the normal reassessment period):
+(a) for the 1999 taxation year, $16,276 was added as other income and accordingly penalties were applied pursuant to subsections 162(1) (for late filing) and 163(2) (for false statements or omissions) of the Act;
+(b) for the 2000 taxation year, $28,301 was added as other income and $2,225 was added to the net business income subjecting the total amount of $30,526 to the penalties pursuant to subsections 162(1) and 163(2) of the Act;
+(c) for the 2001 taxation year, $10,400 was added as other income and subjecting that amount to the penalties pursuant to subsections 162(2) (for repeated late filing) and 163(2) of the Act.
+[4] As a result of the notices of objection filed by the appellant, CRA reassessed the appellant on July 5, 2007, making the following adjustments:
+(a) for the 1999 taxation year, the amount of the other income reassessed was reduced by $4,582 (to exclude from the deposits included in income the GST (Goods and Services Tax) and QST (Québec Sales Tax) components) with an adjustment to the penalties assessed under subsection 162(1) of the Act and a similar reduction to the amount subjected to the penalties under subsection 163(2) of the Act;
+(b) for the 2000 taxation year, the amount of the other income reassessed was reduced by $14,018 (to exclude from the deposits included in income the non‑taxable gifts and loans in the amounts of $8,500 and $5,518 and the GST and QST components) with an adjustment to the penalties assessed under subsection 162(1) of the Act and a similar reduction to the amount subjected to the penalties under subsection 163(2) of the Act;
+(c) for the 2001 taxation year, the amount of the other income reassessed was reduced by $2,860 (to exclude from the deposits included in income the GST and QST components) with an adjustment to the penalties assessed under subsection 162(2) of the Act and a similar reduction to the amount subjected to the penalties under subsection 163(2) of the Act.
+[5] As a result of these reductions and adjustments, the additional incomes in litigation, as determined by the bank deposits audit methodology, are as follows:
+For 1999 - $11,685[1];
+For 2000 - $16,508;
+For 2001 - $7,540.
+[6] The appellant does not contest the late filing penalties nor the use of the bank deposits audit methodology.
+[7] The appellant was the owner of a business known as "Les Entreprises Miesen" carrying on a maintenance business since 1996. From 1996 to 1999, the company was known as "Studio Couleur Enr." The company was registered for GST purposes but no GST return was ever filed.
+[8] Following the review of the income declared by the appellant and by her husband, Mr. Tino Travers, and their lifestyle, the appellant and her husband were selected by the MRQ in the audit project known as “Indices de richesse – VI”. As important discrepancies between the declared income and the cost of living of the appellant were discovered by the audit, the MRQ applied the bank deposits audit methodology to determine the undeclared income of the appellant. That audit revealed important discrepancies between the total net amount of deposits of all business and personal accounts of the appellant versus the aggregate of (i) the gross amount of business and rental income declared and (ii) the amount of allowances received. The same exercise was done for the appellant’s husband and he also appealed the reassessments issued to him.
+[9] In her notice of appeal, the appellant submitted that she did not have any undeclared taxable income or any other taxable income of any nature whatsoever in respect of each and every one of the relevant taxation years. Moreover, the appellant submitted that CRA did not take into account the following specific adjustments to be made regarding various non‑taxable amounts received by the appellant’s family including, inter alia, the following items described in subparagraphs 15 d) i) to vii) of her notice of appeal:
+i) as was explained to the MRQ’s auditor, the Appellant’s husband, Mr. Tino Travers (in respect of whom a similar Notice of Appeal is being filed with this Honourable Court) was unable to work for some time in view of the fact that he literally “broke his neck” and, consequently, was thereafter unable to perform the same work tasks as he had in the past;
+ii) as a result, this created enormous financial problems for the Appellant’s family;
+iii) in this context, the Appellant’s extended family therefore provided financial assistance to the Appellant’s family during the periods covered by the Initial Reassessments and Assessments;
+iv) moreover, the Appellant’s family also received financial assistance from various friends of the family;
+v) furthermore, the Appellant’s husband received “non‑taxable disability payments” and, at this point in time, it is unclear whether or not the CRA and/or Respondent took same into account;
+vi) as well, the Appellant and/or her husband also contracted and utilized funds from a “line of credit” with a financial institution; and
+vii) finally, the Appellant and/or husband also utilized all available credit cards to their maximum capacity.
+[10] Mrs. Miesen testified at the hearing and most of her testimony consisted in describing the financial assistance provided by the family members (gifts and loans) and friends during this difficult financial period. The husband of the appellant, their two sons and the appellant's mother also testified at the hearing and they all stated that the appellant received, during the 1999, 2000 and 2001 taxation years, financial assistance from them and from the appellant's sister, Mrs. Ilona (Miesen) Csonka, from her mother-in-law, Mrs. Elisabeth Travers, and from an uncle of her husband, Mr. Curt Ulle. Some documentary evidence in the form of affidavits from Mrs. Ilona (Miesen) Csonka, Mrs. Elisabeth Travers and Mr. Curt Ulle were filed at the hearing but none of these individuals appeared in court.
+[11] At the objection level, the gifts and loans from family members made by cheques were accepted (for example, the $2,000 loan and gift from Mrs. Ilona (Miesen) Csonka as well as the loans that were repaid (for example, the $6,000 loan from Mr. Peter Gorht). The cash advances were not accepted because they cannot be identified in the bank accounts' deposits. The appellant’s accountant, Mr. Claude Leroux, stated to the auditor for the MRQ at the end of the audit that he has not been able to identify any more gifts or loans in the appellant’s bank accounts.
+[12] Contrary to what was stated in the notice of appeal, the evidence shows that the appellant omitted to declare in her tax return for the 2000 taxation year, the amount of $2,225 of business income from her main clients, namely Service de courtage Stehr, Storaway and Alfred Stehr enr. The appellant filed her tax return for the 2001 taxation year in May of 2003 after an informal and formal requests to do so. The tax return filed for the 2001 taxation year shows that no tax was payable by the appellant.
+Analysis
+[13] The reassessments for the 1999, 2000 and 2001 taxation years were issued beyond the three-year limitation period and, in this situation, the respondent must comply with subparagraph 152(4)(a)(i) of the Act which reads as follows:
+152(4) Assessment and reassessment [limitation period] -- The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[. . .]
+[14] Judge Lamarre of this Court described the effect of subparagraph 152(4)(a)(i) of the Act in paragraphs 80 and 81 of Dowling v. Canada, 96 D.T.C. 1250, in the following terms :
+According to these provisions, the Minister may assess beyond the normal limitation period if the taxpayer has made a misrepresentation that is attributable to neglect, carelessness, or wilful default. The Minister has the onus of proving this misrepresentation; however, once the Minister establishes a right to reassess after the normal period, the burden of proof shifts to the taxpayer to show that an amount should not be included in his income for the purposes of making an assessment after that period because the failure did not result from any misrepresentation that is attributable to negligence, carelessness, or wilful default. See Caron v. Canada (1995), 1 C.T.C. 205 (T.C.C.)
+The Minister has the initial onus of proving that a taxpayer made a misrepresentation in filing the tax return. It is insufficient for the Minister to refer to a net worth statement showing discrepancies between available income and reported income. The onus on the Minister will be greater if the taxpayer presents plausible explanations showing a non-taxable source of this additional income. [. . .]
+[15] In the present case, I do not consider the testimonies of the appellant and that of her husband as being credible. No reasonable or plausible explanation showing a non‑taxable source of additional income was given except for some financial assistance received from certain family members, in excess of $35,000 over a three-year period. The financial assistance in question represents a fairly large amount of money, the receipt of which is difficult to establish because most of it has been paid in cash. The evidence clearly shows that the appellant omitted to declare in her 2000 taxation year return, business income in the amount of $2,225. Mr. D.C. Nguyen, an appeal officer of MRQ who dealt with the notices of objection filed by the appellant and her husband, testified at the hearing that both taxpayers recognized at a previous meeting that they had undeclared income but not to the extent of the amounts assessed. In his report, the MRQ auditor, Mr. Sébastien Simard, referred to a telephone conversation he had on April 21, 2005 with Mr. Claude Leroux, the accountant representing both the appellant and her husband, in the course of which the latter stated that he did not know the source of certain amounts of money deposited in the bank accounts. Mr. Simard also noted in his audit report that Mr. Leroux expressed some doubt about the honesty of the appellant's husband considering his attitude when he questioned him on the source of the money deposited. Mr. Simard testified at the hearing and confirmed the above-mentioned fact (as Mr. Leroux did not testify at the hearing, this statement should be taken for what it is worth).
+[16] I also noted some inconsistencies in the information provided by the appellant concerning the financial assistance obtained from her family members. In the questionnaire entitled “Declaration concerning your financial situation for the 1999, 2000 and 2001 taxation years” signed by the appellant on July 1, 2003, the appellant declared that she had received (i) gifts from Mrs. Ilona (Miesen) Csonka and Mr. John Csonka in the amount of $300 per month during 2000 and 2001; (ii) gifts from Mrs. Carin Ulle and Mr. Curt Ulle in the amount of $300 (U.S.) per week during five months in 2001; and (iii) loans from Mrs. Ilona (Miesen) Csonka and Mr. John Csonka in the amount of $2,000 and from Mr. Peter Gorht in the amount of $6,000. No reference was made in that declaration to the loans received from the appellant's mother‑in‑law, Mrs. Elisabeth Travers (Exhibit R-3) nor to the financial assistance provided by the appellant's mother and the appellant's sons. The statement of assistance dated November 24, 2003 and signed by Mrs. Ilona (Miesen) Csonka and Mr. John Csonka (Exhibit R-2) refers to many more amounts of financial assistance than those declared by the appellant and does not specify whether they are gifts or loans.
+[17] The remarks of Judge Pinard of the Federal Court – Trial Division in Duval v. Canada, 94 D.T.C. 6431, that have been repeated by Judge Lamarre in Dowling, supra, in paragraph 84 are applicable to this case:
+[. . .] the taxpayer's omissions, unwillingness to disclose information, inconsistencies in testimony, and manoeuvring led to the conclusion that the taxpayer had knowingly made a misrepresentation in respect of his income tax returns such that the limitation period did not apply.
+[18] The respondent did show that the appellant had unreported income from her business and that this misrepresentation was due to negligence, carelessness, or wilful default, mainly attributable to the failure to keep adequate business records and the lack of care on the part of the appellant in filing her income tax returns.
+[19] On the other hand, the appellant's explanations as to the origin of some unexplained deposits is not without some plausibleness in light of the circumstances, namely the appellant's husband's physical condition. In particular, it seems to me that it would have been just and equitable that all financial assistance provided by Mrs. Ilona (Miesen) Csonka and Mr. John Csonka should have been accepted considering the fact that $2,500 provided in 2000 has been allowed by CRA (it should be noted that an amount of $500 was not even mentioned in the statement of assistance submitted by Mrs. Ilona (Miesen) Csonka and Mr. John Csonka). This by itself establishes a prima facie evidence that the document signed by Mrs. Ilona (Miesen) Csonka and Mr. John Csonka is true and can be relied upon. Consequently, the amounts of $2,890 for the 1999 taxation year, $1,760 for the 2000 taxation year and $1,800 for the 2001 taxation year should be applied against the additional income assessed in each of those years.
+Penalties
+[20] The respondent submitted that penalties under subsection 163(2) of the Act should be assessed against the appellant for her 1999, 2000 and 2001 taxation years considering the following facts:
+(a) the importance and materiality of the amounts of $4,631, $16,508 and $7,540 for the 1999, 2000 and 2001 taxation years respectively, in relation to the amounts reported by the appellant for those taxation years which were $13,083, $6,552 and $2,523 respectively;
+(b) the omission of revenues was repetitive for the three consecutive years audited;
+(c) the appellant claimed the amounts identified as additional income were received from her family without being able to substantiate same in any manner except for the amounts allowed at the objection level;
+(d) part of the revenues received by the appellant were cash receipts;
+(e) the income tax returns were prepared by an accountant doubtful as to the exact sources of income which the appellant did not want to disclose to his accountant.
+[21] Subsection 163(2) of the Act reads as follows:
+False statements or omissions -- Every person who, knowingly, or under circumstances amounting to gross negligence in the carrying out of any duty or obligation imposed by or under this Act, has made or has participated in, assented to or acquiesced in the making of, (in this section referred to as a "return") a false statement or omission in a return, form, certificate, statement or answer filed or made in respect of a taxation year as required by or under this Act or a regulation, is liable to a penalty of [. . . ]
+[22] By virtue of subsection 163(3) of the Act, the burden of proof is on the Minister:
+Burden of proof in respect of penalties -- Where, in an appeal under this Act, any penalty assessed by the Minister under this section is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[23] In the present case, the Minister has presented evidence to the effect that the taxpayer made a false statement or omission in filing her tax return for the 2000 taxation year. In justifying the penalties, the Minister must also prove that this false statement or omission was made knowingly or under circumstances amounting to gross negligence. In Venne v. Canada, 84 D.T.C. 6247 (F.C.T.D.), Justice Strayer defined gross negligence at page 6256 in the following manner:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. [. . .]
+[. . .] The sub-section obviously does not seek to impose absolute liability but instead only authorizes penalties where there is a high degree of blameworthiness [sic] involving knowing or reckless misconduct. [. . .]
+[24] In this instance, the appellant’s attitude and general behaviour are such that doubts can seriously be entertained as to her good faith and credibility throughout the entire period covered by the reassessments from 1999 to 2001. The appellant’s bookkeeping of her business activities was incomplete and she failed to justify the important discrepancies between the income reported and the amounts deposited in her bank accounts. I do not think that it would be reasonable to assume that the discrepancies were exclusively attributable to non‑taxable receipts from family members. The appellant never disclosed the exact sources of income to her accountant who has been retained to prepare her tax returns for the 2001 and 2002 taxation years. The appellant filed her 2001 tax returns more than a year after the normal due date. Finally, the omission of revenues was repetitive for the three consecutive years audited.
+[25] Considering all the facts and circumstances of this case, I consider that the appellant had knowingly or under circumstances amounting to gross negligence failed to report all her income for the taxation years in question.
+Conclusion
+[26] The appeals are allowed in part and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the additional unreported income should be reduced by $9,944 (being the total of $7,054 admitted by the parties at the commencement of the hearing and $2,890 allowed by virtue of this judgment) for the 1999 taxation year, by $1,760 for the 2000 taxation year and by $1,800 for the 2001 taxation year. The penalties under subsections 162(1), 162(2) and 163(2) of the Act should be adjusted accordingly.
+These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment dated March 27, 2009.
+Signed at Ottawa, Canada, this 21st day of May 2009.
+Favreau J.
+CITATION: 2009 TCC 171
+COURT FILE NO.: 1007-4110(IT)I
+STYLE OF CAUSE: Karen Miesen v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: December 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: March 27, 2009
+DATE OF AMENDED
+JUDGMENT: May 21, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Virginie Falardeau
+Counsel for the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Virginie Falardeau
+Firm: Sarnino Mostovac
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] At the hearing, counsel for the appellant advised that the additional income now in issue before this Court is $4,631 for the 1999 taxation year (Exhibit A-1). Counsel for the respondent is agreeable to this amount.

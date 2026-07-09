@@ -1,0 +1,179 @@
+---
+title: "Living Friends Tree Farm c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144184/index.do"
+last_modified: "2016-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 116"
+citation2: ""
+neutral_citation: "2016 CCI 116"
+decision_date: "2016-05-11"
+language: "fr"
+item_id: "144184"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3078
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:02:38.583000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "40f601e71c565c4cfb3b51ed7e82d3bf341434596a6bf241705a50d227e6d445"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Living Friends Tree Farm c. La Reine
+
+- Citation: 2016 CCI 116
+- Decision date: 2016-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3078, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Living Friends Tree Farm c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-11
+Référence neutre
+2016 CCI 116
+Numéro de dossier
+2015-2669(GST)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-2669(GST)I
+ENTRE :
+LIVING FRIENDS TREE FARM
+(AGNES DAHL ET ELDON GARTH DAHL),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 15 avril 2016, à Calgary (Alberta)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelante :
+Agnes Dahl
+Avocat de l’intimée :
+Me E. Ian Wiebe
+JUGEMENT
+L’appel interjeté à l’encontre d’une nouvelle cotisation établie aux termes de la partie IX de la Loi sur la taxe d’accise pour la période du 29 juin au 31 décembre 2009 relativement à l’avis de nouvelle cotisation daté du 25 juillet 2013, est rejeté sans dépens, conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour de mai 2016.
+« Diane Campbell »
+La juge Campbell
+Référence : 2016 CCI 116
+Date : 20160511
+Dossier : 2015-2669(GST)I
+ENTRE :
+LIVING FRIENDS TREE FARM
+(AGNES DAHL ET ELDON GARTH DAHL),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Campbell
+[1] Il s’agit d’un appel d’une nouvelle cotisation, datée du 25 juillet 2013, établie aux termes de la partie IX de la Loi sur la taxe d’accise (la « LTA »), refusant les crédits de taxe sur les intrants (« CTI ») de l’appelante d’un montant de 15 689 $ pour la période du 29 juin au 31 décembre 2009 (la « période »). Le ministre du Revenu national (le « ministre ») a confirmé la décision le 10 février 2015.
+[2] M. et Mme Dahl ont enregistré Living Friends Tree Farm en tant que société de personnes aux fins de la TPS/TVH, le 29 juin 2009. Une déclaration a été produite pour la période de déclaration affirmant qu’aucune TPS/TVH n’a été perçue et réclamant des CTI de 15 689 $, résultant en un crédit d’impôt net de 15 689 $.
+[3] Mme Dahl était le seul témoin. Lors de son témoignage, elle a déclaré qu’elle et son mari avaient quitté Vancouver pour déménager en Alberta en 2007 qu’ils avaient fini par acheter 160 acres à Rocky View, en 2009. Ils voulaient vivre et travailler dans une zone entourée d’arbres qui fournissent de l’oxygène à l’environnement et un abri pour la faune. Leurs plans comprenaient la construction d’une serre, d’une grange et, ultimement, d’une maison. L’objectif était de les construire d’une manière aussi respectueuse de l’environnement que possible. Ils ont acheté un moulin à vent et des panneaux solaires et ont fait appel à des gens de métier qui pouvaient travailler avec eux dans le cadre de cette entreprise.
+[4] L’avis d’appel, au paragraphe B(e), énonce qu’ils ont [traduction] « réparti [leur] terrain en 150 acres pour l’espace personnel et 10 acres pour le commerce ». Les 10 acres, qui étaient gérés sous le nom de la société de personnes, devaient être consacrés à la culture d’arbres de Noël. Des 150 acres restants, Mme Dahl, en contre-interrogatoire, a déclaré que 30 acres étaient utilisés pour la récolte de foin et de luzerne. Les Dahl avaient une entente verbale avec un voisin dans le cadre de laquelle le bétail de ce dernier paissait sur une partie de ces 150 acres et, en retour, il récoltait les cultures des Dahl et en conservait la moitié pour son propre usage. Cependant, étant donné que rien n’a été déclaré, cela ne faisait pas partie des activités que les appelants déclaraient en tant qu’entreprise.
+[5] Mme Dahl a décrit l’année 2009 comme une année [traduction] « sans précédent » au cours de laquelle des travaux préparatoires devaient être achevés. Cela comprenait ce qui suit : construction de routes, de clôtures et de portails; analyses et préparation du sol; approbations relatives au drainage du site; forage de trois puits; et travaux de base concernant la grange. Les gens de métier ont été embauchés en septembre 2009. Mme Dahl a déposé de nombreuses pièces pour étayer les montants facturés et les paiements touchant ces gens de métier. Un chef de projet a également été embauché. Une fois que le sol s’est gelé, et avec l’arrivée de la neige, le travail préparatoire a été suspendu.
+[6] En mars 2010, les appelants ont été informés par un inspecteur en bâtiment qu’il y avait de graves lacunes dans la partie de la grange qui avait été construite au cours de l’automne 2009. Un ordre d’arrêt de travail a été délivré après l’inspection, ce qui a obligé les appelants à embaucher divers ingénieurs et gens de métier pour évaluer et corriger ces lacunes. Ces lacunes étaient considérables et comprenaient ce qui suit : solives gauchies qui ne pouvaient pas supporter le plancher; fissure au deuxième étage de la grange en raison du retrait du béton et du non-respect des procédures de durcissement appropriées; murs de l’étage supérieur non construits selon les normes du Code national du bâtiment et fissurés; fuites d’eau; vides dans le béton des murs à coffrages isolants; désalignement de certaines semelles de sonotubes allant jusqu’à 6 pouces sur le mur; ouvertures de fenêtres non soutenues lors de la coulée du béton, engendrant des renflements dans les ouvertures; portes de grange au format fini, mais aucun espace prévu pour l’encadrement; enfoncement du plancher; aucun entretoisement; et autres écarts par rapport aux dessins initiaux. (Pièce A-8 et témoignage de Mme Dahl).
+[7] Mme Dahl a déclaré que ces lacunes ont donné lieu à plusieurs poursuites judiciaires contre les entrepreneurs, sans compter le temps consacré à trouver d’autres gens du métier pour résoudre les problèmes. L’une de ces poursuites a poussé à la société à déclarer faillite; la poursuite finale sera entendue devant la Cour plus tard cette année. Mme Dahl a déclaré qu’en raison des préoccupations que leur ont causées ces poursuites en termes de temps et d’argent, seulement 50 jeunes arbres ont été plantés au printemps 2010, puis 30 à 50 arbres chaque année subséquente, à l’exception de 2014, où aucun arbre n’a été planté. Aucun de ces jeunes arbres n’a été acheté, car les Dahl préféraient les rechercher. En contre‑interrogatoire, Mme Dahl a déclaré qu’avant le début de la plantation des arbres en 2009, elle avait acheté 150 jeunes arbres auprès d’un fournisseur commercial pour les planter près de leur résidence personnelle, à un endroit autre que les 160 acres. Elle a également déclaré qu’à ce jour, moins de la moitié des 10 acres a été consacrée à la plantation d’arbres et, en plus, ils ont l’intention de conserver les buissons sur cette superficie en guise d’abri pour la faune. Elle a également confirmé, en contre-interrogatoire, qu’ils n’ont jamais vendu des arbres, car il faut de nombreuses années pour que les jeunes arbres atteignent la maturité. Des arbres plus matures pourraient être plantés, mais ils sont beaucoup plus chers à l’achat.
+[8] À la fin de 2011, la grange avait finalement été complétée. Jusqu’à ce point, les appelants n’avaient jamais vécu sur la propriété, mais ils ont effectivement résidé au niveau supérieur de la grange en 2012 et 2013, ainsi qu’une partie de l’année 2014. Lorsque leur résidence a été complétée sur la propriété, ils y ont emménagé.
+[9] Des outils et des équipements plus petits, comme des pelles, des râteaux et des brouettes, avaient été achetés à compter de 2009. Mme Dahl a effectivement déclaré qu’ils ont vendu le tracteur pour aider à payer les frais juridiques liés aux poursuites touchant la construction de leur grange. Ces articles étaient rangés dans la grange. Certains de ces outils étaient destinés à un usage personnel sur les 150 acres.
+[10] Les appelants n’ont pas publié d’annonces dans l’intention d’attirer des clients puisque les arbres ne sont pas assez matures pour être vendus. Mme Dahl a déclaré qu’il est arrivé une fois que l’entreprise soit répertoriée dans les pages jaunes par inadvertance; les clients intéressés n’ont toutefois pu être servis puisque l’entreprise n’avait aucun arbre à leur vendre.
+[11] En ce qui concerne leurs antécédents et leur expérience en affaire, Mme Dahl est une économiste travaillant à temps plein auprès d’un conglomérat bancaire allemand. En plus d’un diplôme en économie, elle a obtenu des diplômes en développement de la petite enfance et en enseignement. Son mari travaille aussi à temps plein en tant que docteur en médecine naturopathique. Interrogée sur son manque apparent d’expérience dans le secteur agricole, elle a déclaré que son grand-père possédait plus de 5 000 hectares de terres agricoles à l’extérieur de Vienne, où elle a grandi, et que sa famille est toujours propriétaire d’une vinerie. Dès son jeune âge, elle a travaillé à la ferme et à la vinerie.
+[12] Les CTI, que les appelants ont demandés, touchaient principalement la construction de la grange, des routes et des murs, l’analyse des sols, les services publics et les frais juridiques. Aucun revenu ni aucune perte n’ont été déclarés en ce qui concerne les activités de la société de personnes.
+[13] Pour déterminer la valeur nette des appelants pour la période en question, le ministre a invoqué les hypothèses de fait suivantes dans sa réponse à l’avis d’appel :
+[traduction]
+La grange
+a) En juin 2009 ou vers cette date, Agnes et Eldon ont acheté une propriété agricole près de Cochrane, en Alberta, portant la description juridique 5;4;28;15 SW.
+b) En 2009, Agnes et Eldon ont commencé la construction d’une grange sur leur propriété.
+c) La structure de la grange se composait de ce qui suit :
+i. une salle des machines au sous-sol;
+ii. un étage principal, constitué d’espaces de stationnement, d’un espace pour l’équipement et des stalles pour les chevaux;
+iii. un étage supérieur qu’Agnes et Eldon ont commencé à utiliser comme résidence principale en 2011;
+d) Agnes et Eldon ne possèdent pas de chevaux ou d’autres animaux;
+Living Friends
+[...]
+g) Living Friends n’a jamais procédé à une plantation d’arbres de masse;
+h) elle n’a pas mené d’autres activités agricoles;
+i) elle ne possède pas de chevaux ou d’autres animaux;
+j) elle n’a pas acheté de l’équipement, des arbres ou d’autres articles nécessaires à l’exploitation d’une ferme forestière;
+k) elle n’a jamais produit, enregistré ou déclaré des revenus;
+l) au cours de la période de déclaration, Agnès et Eldon n’exploitaient aucune ferme forestière ni aucune autre entreprise en tant que Living Friends.
+Analyse [14] La question est de savoir si les appelants se livraient à une « activité commerciale » au cours de la période de déclaration. Cela permettra de déterminer si le ministre a eu raison de refuser les CTI de 15 689 $. L’avocat de l’intimée a informé la Cour, au cours des observations finales, que la Couronne ne contestait plus les montants présentés par les appelants, mais souhaitait tout simplement savoir si ces montants ont été engagés dans le cadre d’une activité commerciale.
+[15] L’intimée soutient que la société de personnes ne s’inscrivait pas dans une activité commerciale à l’époque, car la preuve soutient qu’il n’y avait aucune recherche active de profit. Les appelants ont fait valoir que tous les travaux entrepris, en ce qui concerne la préparation de la propriété grâce à des routes, à des clôtures, à des puits et à la construction de la grange et de la serre, sont de nature préparatoire, et que ce type d’activité agricole signifiait que les profits ne seraient pas immédiats, mais qu’on pourrait s’y attendre un jour, une fois les arbres parvenus à maturité.
+[16] Le droit d’un contribuable à des CTI dépend de savoir si la TPS a été payée par rapport à une « activité commerciale ». L’expression « activité commerciale » est définie au paragraphe 123(1) de la LTA :
+activité commerciale Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+[17] En ce qui concerne cette définition, le juge Favreau a déclaré ce qui suit dans la décision Bowden c. La Reine, 2011 CCI 418, [2011] ACI no 346, aux paragraphes 20 et 21 :
+[20] Cette définition établit clairement que l’exploitation d’une entreprise sans attente raisonnable de profit n’est pas une « activité commerciale » pour l’application de la TPS.
+[21] Dans l’arrêt Moldowan v. The Queen, 77 D.T.C. 5213, à la page 5215, la Cour suprême du Canada a formulé le commentaire suivant concernant le sens de l’expression « expectative raisonnable de profit » :
+Une jurisprudence volumineuse traite de la signification de l’expression expectative raisonnable de profit, mais il ne s’en dégage aucune constante. À mon avis, on doit s’appuyer sur tous les faits pour déterminer objectivement si un contribuable a une expectative raisonnable de profit. On doit alors tenir compte des critères suivants : l’état des profits et pertes pour les années antérieures, la formation du contribuable et la voie sur laquelle il entend s’engager, la capacité de l’entreprise, en termes de capital, de réaliser un profit après déduction de l’allocation à l’égard du coût en capital. Cette liste n’est évidemment pas exhaustive. Les facteurs seront différents selon la nature et l’importance de l’entreprise. [...]
+[18] Malgré l’incertitude et la difficulté entourant l’application du critère de l’« expectative raisonnable de profit », la Cour suprême du Canada a, dans l’arrêt Stewart c. Canada, 2002 CSC 46, [2002] 2 RCS 656, reconnu que les critères objectifs énumérés par le juge Dickson dans l’arrêt Moldowan c. La Reine, [1978] 1 RCS 480, servent de référence pour déterminer si une activité est menée de manière professionnelle ou commerciale. La Cour suprême a, dans l’arrêt Stewart, désigné ces critères comme « indices de commercialité » ou « caractéristiques commerciales » et, bien qu’elle ne soit pas exhaustive, cette liste comprend :
+1. l’état des profits et pertes pour les années antérieures;
+2. la formation du contribuable;
+3. la voie sur laquelle il entend s’engager;
+4. la capacité de l’entreprise de réaliser un profit.
+[19] Selon la définition de l’activité commerciale au paragraphe 123(1) de la LTA, une entreprise commerciale doit être menée d’une manière commerciale en vue d’obtenir un bénéfice et présenter les caractéristiques commerciales qui seraient généralement liées à une entreprise de cette nature et de cette ampleur. Dans la décision Land and Sea Enterprises Ltd. c. La Reine, 2011 CCI 101, [2011] ACI no 70, au paragraphe 14, j’ai déclaré ce qui suit en ce qui concerne les activités commerciales menées à l’étape de démarrage initiale :
+[14] Il est clair qu’une activité peut être considérée comme une activité commerciale bien avant qu’elle ne soit rentable. Il s’agira toujours d’une question de fait. Les dépenses donnant droit à des CTI à l’étape de démarrage d’une activité commerciale peuvent être admissibles à condition que l’intention de démarrer une entreprise soit indiquée clairement et que des étapes fondamentales aient été suivies et des mesures essentielles mises en place.
+[20] Même si je reconnais qu’une ferme forestière a une étape de démarrage initiale qui sera sensiblement plus longue que beaucoup d’autres entreprises commerciales en raison du temps nécessaire pour que les arbres atteignent la maturité, je ne peux pas faire abstraction du fait que, selon les éléments de preuve dont je dispose, les appelants n’ont toujours pas formulé des mesures positives claires pour établir la trajectoire future de cette exploitation forestière en tant qu’entreprise commerciale potentiellement viable dans les années à venir. Bien que Mme Dahl ait indiqué lors de son témoignage que, si les conditions météorologiques le permettent, il faut généralement deux ou trois ans avant que la croissance des arbres permette des ventes, il n’y a eu aucune vente jusqu’à ce jour depuis la première plantation de 50 jeunes arbres en 2010. De plus, actuellement, des jeunes arbres ont été plantés sur moins de la moitié des 10 acres, superficie initialement réservée aux activités d’arboriculture. Elle a expliqué que cette plantation limitée a eu lieu parce que leur attention et leurs réserves monétaires ont été accaparées par les nombreuses poursuites judiciaires contre des gens de métier apparemment peu scrupuleux. Cependant, les jeunes arbres qui ont été plantés ont été obtenus sans frais dans les zones environnantes. Même si je comprends que ces poursuites judiciaires ont pris des années pour faire leur chemin à travers le système et ont éprouvé les appelants, à la fois financièrement et émotionnellement, il semble que, bien que l’intention existait dès le départ d’exploiter une ferme forestière, l’objectif a été, à toutes fins utiles, mis à l’écart, peut-être jusqu’à ce que les poursuites soient tranchées ou, peut-être, comme la preuve l’indique, jusqu’à ce qu’ils puissent prendre leur retraite et se consacrer à temps plein aux activités dans le cadre d’un plan d’affaires plus définitif. Cela comprend une plus grande plantation délibérée, de la publicité pour attirer des clients et un intérêt accru pour le profit découlant des activités. Il n’y a aucun plan d’affaires. Aucun contrat de société de personnes n’a été conclu. Mme Dahl a bien déclaré, en contre-interrogatoire, qu’elle est économiste et pensait constamment aux chiffres et aux estimations financières. Cependant, rien ne semble avoir été consigné par écrit et je n’ai rien de concret devant moi, soit oralement ou sous forme d’éléments de preuve documentaires, qui fasse état d’un plan d’affaires ayant des prévisions de profits à long terme.
+[21] En 2010, 50 jeunes arbres ont été obtenus et plantés, suivis de 30 à 50 au cours des années subséquentes; aucun arbre n’a été planté en 2014. Même si je suppose une moyenne annuelle de 40 arbres plantés en 2011, 2012, 2013 et 2015 ainsi que 50 jeunes arbres en 2010, il s’agit de 210 jeunes arbres au total sur plus de six ans, par rapport à l’achat unique de 150 jeunes arbres par M. et Mme Dahl pour leur usage personnel, dans une autre résidence, avant l’achat des 160 acres.
+[22] Pour réitérer les commentaires que j’ai faits dans la décision Land and Sea Enterprises, l’admissibilité des dépenses qui donnent lieu à des CTI à l’étape de démarrage d’une entreprise exige que le contribuable démontre non seulement une intention claire de lancer une entreprise commerciale, mais aussi des éléments de preuve quant aux mesures prises à l’appui de cette intention déclarée. Dans le présent appel, je crois que les appelants avaient l’intention de lancer une plantation d’arbres de Noël lorsqu’ils ont acheté la propriété en 2009. Cependant, cela s’est imbriqué à un mode de vie que les appelants avaient envisagé pour eux-mêmes au milieu de la nature, en particulier des arbres et un habitat faunique. Ces objectifs personnels sont si amalgamés aux objectifs commerciaux que, même si je pouvais accueillir cet appel, je serais incapable de le faire parce que j’ai très peu d’éléments de preuve sur la répartition réelle des aspects personnels et professionnels. Leur demeure se trouve désormais sur les 160 acres, donc certains des coûts de préparation pour les routes, les clôtures et les services publics touchaient peut-être un usage personnel. La grange est utilisée pour l’entreposage commercial et personnel, mais je n’ai aucune preuve concernant la répartition en termes de pourcentage.
+[23] Bien qu’il soit louable que M. et Mme Dahl présentent un tel respect pour leur environnement et qu’ils soient d’excellents intendants des terres, sur la foi des éléments de preuve, je ne peux pas conclure qu’il existait une entreprise commerciale visant une recherche active du profit. Les CTI ne peuvent pas être autorisés quand, selon l’ensemble des faits pertinents, il n’y a aucune preuve des indices de commercialité.
+[24] Pour conclure, bien que l’avocat de l’intimée ait tenté de s’appuyer sur le fait que Mme Dahl était à l’origine économiste et non agricultrice, son témoignage laisse entendre toute autre chose. Elle a grandi dans une famille d’agriculteurs, travaillant non seulement sur une ferme, mais également dans la vinerie familiale. Bien que ses nombreux diplômes ne concernent pas le domaine de l’agriculture, j’estime que les antécédents, l’expérience et les connaissances de Mme Dahl peuvent être considérés comme un facteur positif; malheureusement, ce facteur ne l’emporte pas sur les autres facteurs que je devais prendre en considération pour en arriver à ma conclusion. C’est une personne bien éduquée et très éloquente, et je suis sûr qu’en mettant les affaires judiciaires derrière elle, elle parviendra à transformer la ferme forestière en une entreprise rentable.
+[25] L’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 11e jour de mai 2016.
+« Diane Campbell »
+La juge Campbell
+RÉFÉRENCE :
+2016 CCI 116
+No DU DOSSIER DE LA COUR :
+2015-2669(GST)I
+INTITULÉ :
+LIVING FRIENDS TREE FARM
+(AGNES DAHL ET ELDON GARTH DAHL) et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 15 avril 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 11 mai 2016
+COMPARUTIONS :
+Pour l’appelante :
+Agnes Dahl
+Avocat de l’intimée :
+Me E. Ian Wiebe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

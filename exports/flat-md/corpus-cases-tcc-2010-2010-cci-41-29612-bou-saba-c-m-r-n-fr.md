@@ -1,0 +1,242 @@
+---
+title: "Bou Saba c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29612/index.do"
+last_modified: "2010-01-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 41"
+citation2: ""
+neutral_citation: "2010 CCI 41"
+decision_date: "2010-01-22"
+language: "fr"
+item_id: "29612"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6181
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:20:11.459000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fc2f96529318bce3570335745eb387f05dc5d01e92fe38654ec4904b7ab35330"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bou Saba c. M.R.N.
+
+- Citation: 2010 CCI 41
+- Decision date: 2010-01-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6181, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bou Saba c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-01-22
+Référence neutre
+2010 CCI 41
+Numéro de dossier
+2007-3842(EI)
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-3842(EI)
+ENTRE :
+MOUNTAHA BOU SABA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CLAUDETTE BERGERON,
+intervenante.
+Appel entendu le 20 août et le 5 novembre 2008, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocat de l'appelante :
+Me François De Vette
+Avocate de l'intimé :
+Me Christina Ham
+Avocat de l'intervenante :
+Me Guy Lauzon
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté, et la décision que le ministre du Revenu national a rendue le 13 juillet 2007 est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de janvier 2010.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2010 CCI 41
+Date : 20100122
+Dossier : 2007-3842(EI)
+ENTRE :
+MOUNTAHA BOU SABA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CLAUDETTE BERGERON,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+INTRODUCTION
+[1] L’appelante, Mountaha Bou Saba, appelle d’une décision du ministre du Revenu national (le « ministre ») selon laquelle elle n’exerçait pas un emploi assurable du 29 septembre 2003 au 9 avril 2004.
+[2] L’article 2085 du Code civil du Québec dit :
+Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[3] La question principale est de savoir si l’appelante a effectué ou non du travail pour l’intervenante pendant la période en question. Il s’agit donc d’une question de fait.
+[4] L’appelante et l’intervenante, le Dr Claudette Bergeron, ont témoigné, ainsi que Taline Bou Karam, la belle-fille de l’appelante, Gina Di Cesare, une ancienne employée de l’intervenante, Raffi Kirdi, le conjoint de l’intervenante, et Daniel Doucet, un enquêteur à Service Canada, Ressources humaines et Développement des compétences Canada.
+[5] Mme Bou Karam travaillait pour l’intervenante, qui est chirurgienne dentiste, comme assistante dentaire avant la période en litige. Elle a pris un congé de maternité en février 2003 et est ensuite retournée au travail.
+LA POSITION DE L’APPELANTE
+[6] Selon l’appelante, elle était l’employée de l’intervenante du 29 septembre 2003 au 9 avril 2004.
+[7] Pendant le premier mois, elle faisait le ménage à la clinique dentaire le soir après les heures d’ouverture et elle préparait également des repas. Elle travaillait à peu près 40 heures par semaine.
+[8] Selon l’appelante, après le premier mois, elle ne faisait que la préparation de repas, soit celui du midi et celui du soir en quantité suffisante pour cinq ou six personnes, sept jours sur sept[1]. Elle faisait ce travail chez elle, à raison d’à peu près 40 heures par semaine.
+[9] La position de l’appelante est que pendant la période en litige, Mme Bou Karam travaillait à temps partiel pendant un maximum de cinq heures par semaine.
+LA POSITION DE L’INTIMÉ ET DE L’INTERVENANTE
+[10] L’intervenante a fait une divulgation volontaire en 2005 et, en conséquence, le gouvernement a mené une enquête.
+[11] La position de l’intimé et de l’intervenante est que l’appelante n’a pas fait de travail pour l’intervenante du 29 septembre 2003 au 9 avril 2004, que pendant cette période Mme Bou Karam a travaillé à temps plein, et que l’intervenante a tenu une double comptabilité et a payé à l’appelante la plupart des heures de travail de Mme Bou Karam.
+[12] L’intervenante reconnaît qu’elle a acheté de l’appelante des repas pour sa consommation personnelle pendant une période qui a commencé après avril 2004 et a pris fin en septembre 2004.
+LA PREUVE
+Témoignage de l’appelante
+[13] L’appelante a témoigné avec l’aide d’un interprète. Elle a dit qu’elle parlait très peu français et qu’en conséquence, ce sont Jacques Nicolas, son fils, et Mme Bou Karam, sa belle‑fille[2], qui ont organisé la rencontre initiale avec l’intervenante. D’ailleurs, sa preuve, ainsi que celle de Mme Bou Karam, démontrait que la communication entre l’appelante et l’intervenante s’était toujours faite par l’entremise de M. Nicolas ou de Mme Bou Karam.
+[14] Cette première réunion a eu lieu à la clinique de l’intervenante[3].
+Le premier mois
+[15] Selon l’appelante, elle faisait le ménage à la clinique le soir après les heures d’ouverture. Elle commençait à 19 h et terminait son travail à 21 h ou à 21 h 30. La seule personne présente quand elle faisait le ménage était l’intervenante. Elle travaillait cinq à sept jours par semaine, ce qui donne 14 ou 15 heures de travail par semaine[4].
+[16] Elle a témoigné qu’elle préparait des repas pour deux personnes[5] pendant son premier mois de travail et que cela lui prenait 25 heures par mois. Elle préparait les repas après le ménage, et cela pouvait prendre de cinq à six heures[6].
+Après le premier mois
+[17] Selon l’appelante, après le premier mois, on ne lui demandait plus de faire le ménage, mais plutôt de préparer les repas du midi et du soir pour six personnes, sept jours sur sept[7].
+[18] Les réponses de l’appelante ont varié quant au nombre de personnes pour lesquelles elle préparait les repas[8]. La préparation de repas prenait environ 40 heures par semaine.
+[19] L’appelante a témoigné qu’elle préparait les repas entre 19 h et minuit ou 1 h du matin[9]. Plus tard, en contre‑interrogatoire, elle a dit qu’elle préparait les repas entre 7 h et 12 h 30[10]. Elle apportait les repas du midi et du soir à la clinique vers 12 h 30, sept jours sur sept[11].
+[20] Dans une déclaration statutaire[12] du 6 juillet 2005, l’appelante dit qu’elle préparait le dîner et le souper sept jours sur sept pour l’intervenante, le conjoint de l’intervenante et la sœur de l’intervenante qui travaillait à la clinique, et qu’en fin de semaine, elle préparait des repas plus copieux parce que ces repas étaient pour la famille de l’intervenante.
+[21] L’appelante a dit qu’elle dépensait de 50 $ à 100 $ par semaine pour acheter la nourriture qu’elle préparait. L’intervenante lui remboursait le coût de la nourriture[13].
+[22] L’intervenante téléphonait quatre ou cinq fois par jour pour dire ce qu’elle voulait[14]. M. Nicolas ou Mme Bou Karam servait d’interprète et transmettait l’information.
+Témoignage de Taline Bou Karam
+[23] Mme Bou Karam travaillait déjà pour l’intervenante comme assistante dentaire avant la période en litige.
+[24] Elle a pris un congé de maternité en février 2003. Elle a témoigné qu’elle savait que l’intervenante cherchait quelqu’un pour faire le ménage et qu’elle a demandé à sa belle-mère si elle était intéressée. L’intervenante est allée rencontrer l’appelante chez elle et a engagé l’appelante.
+[25] Mme Bou Karam a témoigné que l’intervenante téléphonait le soir à M. Nicolas ou à elle-même pour lui dire ce qu’elle voulait comme repas. Il y avait toujours trois plats[15].
+[26] Mme Bou Karam a nié qu’il y ait eu des arrangements spéciaux, c’est-à-dire qu’elle ait travaillé pour l’intervenante à temps plein sans que cela ne soit déclaré.
+[27] Pendant la période en litige, elle venait travailler quand on lui demandait de le faire pour une demi-heure ou une heure à la fois. Ce travail consistait à ranger des dossiers.
+[28] En témoignant, Mme Bou Karam a dit qu’elle est retournée au travail à temps plein vers février 2004[16]. En contre-interrogatoire, elle était d’accord qu’elle a été payée à temps partiel jusqu’au 9 avril 2004[17].
+[29] Le 24 janvier 2005, Mme Bou Karam a déposé une plainte contre l’intervenante auprès de la Commission de la santé et de la sécurité du travail où elle dit, entre autres :
+Je travail [sic] chez Clinique Dr Bergeron depuis 2 ans et j’ai toujours été temps plein régulière à 40 heures ou plus par semaine […][18].
+Témoignage de Daniel Doucet
+[30] M. Doucet a vérifié la demande d’assurance-emploi de l’appelante à la suite de la divulgation volontaire de l’intervenante.
+[31] Il a rencontré l’appelante et M. Nicolas. À plusieurs occasions, M. Nicolas répondait aux questions plutôt que sa mère. Plusieurs fois, M. Doucet a demandé à M. Nicolas de poser les questions à sa mère, mais ce dernier insistait pour répondre lui-même. Bien que M. Doucet voulût rédiger la déclaration sur place, il n’a pas pu le faire, car M. Nicolas devait quitter pour aller au travail. Il a donc rédigé la déclaration à l’aide de ses notes et l’a envoyée à l’appelante par la suite. La déclaration a été signée par l’appelante et renvoyée par télécopieur.
+[32] Au cours de son enquête, M. Doucet a parlé, entre autres, à Karla Osegueda et à Emmanuelle Bertrand, deux ex-employées de l’intervenante. Mme Osegueda a déclaré que Mme Bou Karam avait repris son travail à temps partiel en juillet 2003; elle n’était pas certaine si Mme Bou Karam avait repris son travail à temps plein en septembre 2003, mais elle était certaine que Mme Bou Karam travaillait à temps plein en décembre 2003. De son côté, Mme Bertrand a dit à M. Doucet que Mme Bou Karam avait repris le travail à temps partiel vers juillet 2003, mais elle ne se souvenait pas si Mme Bou Karam avait repris le travail à temps plein en septembre ou en octobre 2003.
+[33] La demande de prestations disait que l’appelante faisait du travail de bureau[19].
+[34] Avant la divulgation volontaire de l’intervenante, il n’y avait pas d’enquête en cours relative à l’appelante.
+Témoignage de Gina Di Cesare
+[35] Mme Di Cesare a travaillé à la clinique de l’intervenante de novembre 1996 à juin 2007 comme secrétaire et réceptionniste. Elle travaillait du lundi au mercredi, de 9 h ou 9 h 30 à 19 h ou 20 h. D’octobre 2003 à avril 2004, elle travaillait également de 9 h ou 9 h 30 à 14 h le vendredi.
+[36] Pendant les années de travail de Mme Di Cesare à la clinique de l’intervenante, cette dernière n’a jamais fourni les repas.
+[37] De septembre 2003 à avril 2004, elle n’a jamais vu l’appelante ou Mme Bou Karam apporter des repas[20]. En contre-interrogatoire, Mme Di Cesare a reconnu que des repas ont été livrés par Mme Bou Karam, mais cela a eu lieu après avril 2004 et a duré quelques mois[21].
+[38] Mme Di Cesare dit n’avoir jamais vu l’appelante faire le ménage à la clinique le soir[22]. Pendant la période d’octobre 2003 à avril 2004, Mme Di Cesare travaillait 32 heures par semaine et elle a vu Mme Bou Karam travailler pendant les heures où elle était présente[23].
+[39] Le comptable de la clinique en 2003 et en 2004 était Éric Lamarre, dont le bureau était situé sur la Rive-Sud. Aucune sœur de l’intervenante ne travaillait à la clinique[24].
+Témoignage de l’intervenante
+[40] L’intervenante a témoigné qu’à l’origine, M. Nicolas était un patient. À un certain moment, elle a eu des problèmes de santé graves[25] qui ont eu pour effet de l’affaiblir physiquement et psychologiquement, la rendant ainsi vulnérable.
+[41] Selon l’intervenante, M. Nicolas a ensuite fait des pressions sur elle, notamment pour qu’elle embauche Mme Bou Karam, ce qu’elle a finalement fait.
+[42] Tout ce qui touchait les relations de travail entre elle et Mme Bou Karam passait toujours par M. Nicolas.
+[43] Elle a témoigné que pendant la période en litige, elle n’a jamais engagé l’appelante, ni pour faire le ménage ni pour préparer des repas, et que Mme Bou Karam travaillait plus de 40 heures par semaine[26]. Elle tenait une double comptabilité pour faire paraître que l’appelante travaillait pour elle, bien que cela ne reflétât pas la réalité.
+[44] Selon l’intervenante, elle a fait cela en raison des pressions de M. Nicolas, qui voulait que Mme Bou Karam puisse continuer de recevoir des prestations d’assurance‑emploi tout en travaillant[27].
+[45] Vers la fin de 2004, d’autres désaccords ont eu lieu entre l’intervenante, Mme Bou Karam et M. Nicolas relativement à l’emploi de Mme Bou Karam. M. Nicolas a fait des pressions de nouveau.
+[46] L’intervenante a fait installer une caméra de surveillance avec micro dans sa clinique. Les pièces V-10, V-11 et V-12 sont des enregistrements vidéo faits le 9 décembre, le 16 décembre et le 17 décembre 2004. Selon l’intervenante, ces enregistrements reflètent le comportement typique de M. Nicolas lorsqu’il venait à la clinique et qu’il cherchait à obtenir quelque chose[28].
+[47] Les vidéos confirment que M. Nicolas faisait pression sur l’intervenante.
+[48] Personne d’autre ne vivait avec l’intervenante et son conjoint.
+[49] L’intervenante a témoigné qu’elle dépensait environ 150 $ par semaine pour la nourriture pour elle et son conjoint, et qu’ils allaient au restaurant régulièrement. L’intervenante a déposé des relevés de cartes de crédit en preuve[29].
+[50] Grâce à ces relevés, on constate que pendant la période en litige, plus de 75 paiements ont été faits, par l’intervenante ou son conjoint, à des restaurants de la région montréalaise. Les montants peuvent, selon le cas, représenter un repas pour une ou deux personnes. De même, 10 paiements à des restaurants hors du Canada et un certain nombre de paiements pour des billets d’avion ont été faits. L’intervenante et/ou son conjoint ont donc mangé au restaurant un grand nombre de fois.
+[51] L’intervenante a acheté des repas de l’appelante à compter d’avril 2004. Elle payait 10 $ par jour pour le dîner et le souper pour elle seulement, généralement pendant la semaine et à l’occasion pendant les fins de semaine. Au moment où elle a commencé à acheter des repas, son conjoint était à l’étranger par affaires. L’intervenante recevait trois plats de Mme Bou Karam[30]. Quand elle n’a plus voulu de repas, elle a eu de la difficulté à faire cesser la livraison de ces repas.
+Témoignage de Raffi Kirdi
+[52] M. Kirdi est le conjoint de l’intervenante. Ils n’ont pas d’enfants.
+[53] M. Kirdi a témoigné qu’il n’a pas mangé de nourriture préparée par l’appelante. Il a dit qu’il était Libanais d’origine arménienne et qu’il n’aimait pas la cuisine libanaise arabe.
+[54] Il est photographe et voyage souvent par affaires. Quand il est à Montréal, il aide à la clinique, entre autres pour faire le ménage, mais non dans les salles opératoires, qui sont nettoyées par les assistantes dentaires.
+ANALYSE
+[55] Je n’accepte pas la preuve de l’appelante. Ses prétentions ne sont pas probables. Par contre, j’accepte le témoignage de l’intervenante. Il y a plusieurs raisons qui me mènent à cette conclusion, entre autres :
+a) Dans son témoignage, l’appelante dit qu’elle fournissait deux repas par jour pour quatre à six personnes, et ce, tous les jours après le premier mois de travail. Elle a surtout parlé de cinq à six personnes, ce qui ferait de 70 à 84 repas par semaine. Vu qu’il n’y avait que l’intervenante et son conjoint pour manger ces repas, cette quantité de nourriture n’a aucun sens, même sans tenir compte du fait que l’intervenante et/ou son conjoint mangeaient au restaurant de temps en temps et que le conjoint voyageait à l’occasion.
+b) De plus, ce nombre de repas ne peut être réconcilié avec la déclaration statutaire de l’appelante, où elle dit qu’elle préparait des repas pour trois personnes, soit l’intervenante, son conjoint et la sœur de l’intervenante qui travaillait à la clinique comme comptable.
+c) Aucune sœur de l’intervenante ne travaillait à la clinique. Une de ses sœurs travaillait en technique comptable et vivait à St-Sauveur, une autre vivait à St-Jérôme, et une troisième vivait dans la région de Montréal, mais n’avait pas vraiment de contacts avec l’intervenante[31].
+d) Il n’est pas crédible qu’un montant de 50 $ à 100 $ par semaine soit suffisant pour acheter de la nourriture pour faire de 70 à 84 repas par semaine.
+e) L’appelante ne semblait pas certaine du moment où elle préparait les repas. Elle dit avoir passé de cinq à six heures par jour, tous les jours de la semaine, pendant plusieurs mois, à faire les repas en question. Malgré cela, à un moment, son témoignage était qu’elle commençait à travailler à 19 h, et, à un autre, à 7 h du matin.
+f) J’accepte le témoignage de Mme Di Cesare selon lequel elle n’a jamais vu l’appelante venir faire le ménage et elle n’a jamais vu de livraison de repas pendant la période en litige.
+g) Les relevés de cartes de crédit confirment que l’intervenante et/ou son conjoint ont mangé au restaurant plus de 75 fois pendant la période de six mois en question.
+h) Le témoignage de l’appelante selon lequel la première réunion avec l’intervenante a eu lieu à la clinique contredit le témoignage de Mme Bou Karam, selon lequel la première réunion a eu lieu à la maison de l’intervenante.
+[56] Je conclus donc que l’appelante n’a pas travaillé pour l’intervenante pendant la période en litige[32].
+CONCLUSION
+[57] En conséquence, l’appel sera rejeté.
+Signé à Ottawa, Canada, ce 22e jour de janvier 2010.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2010 CCI 41
+Nº DU DOSSIER DE LA COUR : 2007-3842(EI)
+INTITULÉ DE LA CAUSE : MOUNTAHA BOU SABA c. M.R.N. et CLAUDETTE BERGERON
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Le 20 août et le 5 novembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 22 janvier 2010
+COMPARUTIONS :
+Avocat de l'appelante :
+Me François De Vette
+Avocate de l'intimé :
+Me Christina Ham
+Avocat de l'intervenante :
+Me Guy Lauzon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me François De Vette
+Cabinet : Boucherville (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l’intervenante :
+Nom : Me Guy Lauzon
+Cabinet : Lauzon Avocats inc.
+Montréal (Québec)
+[1] Toutefois, le témoignage de l'appelante varie quant au nombre de jours. Voir ci-dessous.
+[2] Qui était mariée au frère de Jacques Nicolas.
+[3] Transcription du 20 août 2008, question 13.
+[4] Ibid., questions 21 et 92 à 101. L'appelante a premièrement répondu qu’elle travaillait sept jours par semaine, et ensuite elle a changé sa réponse.
+[5] Ibid., question 19.
+[6] Ibid., question 22. Si l’appelante arrivait à la maison à 21 h 45 et qu’elle travaillait pendant, disons, cinq heures et demie, cela voudrait dire mathématiquement qu’elle terminait la préparation des repas après 3 h du matin.
+[7] Ibid., questions 244 à 246, et 325 et 326.
+[8] Ibid., par exemple, à la question 19 (quatre ou cinq personnes), à la question 55 (six personnes), à la question 141 (six personnes) et à la question 243 (six personnes).
+[9] Ibid., question 65.
+[10] Ibid., question 128.
+[11] Ibid., questions 138 à 141. Le samedi et le dimanche, elle livrait les repas à la clinique.
+[12] Pièce I-1.
+[13] Transcription du 20 août 2008, questions 142 et 143.
+[14] Ibid., question 64.
+[15] Ibid., questions 447 à 451.
+[16] Toutefois, le registre de paie préparé par Ceridian (pièce V-4) et fait à l'époque — c'est-à-dire avant la divulgation volontaire de l'intervenante — indique que Mme Bou Karam travaillait cinq heures ou moins par période de deux semaines jusqu'au 9 avril 2004.
+[17] Transcription du 20 août 2008, questions 603 à 605.
+[18] Pièce V-7.
+[19] Voir aussi la pièce I-1, où l’appelante déclare ceci :
+Mon fils a indiqué que je travaillais comme commis de bureau car il n’y avait pas de terme pour l’entretien ménager.
+[20] Transcription du 20 août 2008, question 805. Bien que Mme Di Cesare ne mangeât pas à la clinique, je suis convaincu qu'au cours d'une période de six mois, elle aurait vu la livraison de repas s'il y en avait eu.
+[21] Ibid., questions 845, 848 à 860, et 913 à 929, et la pièce A-3.
+[22] Ibid., questions 869 à 876.
+[23] Ibid., questions 890 à 908, et 959 à 964.
+[24] Ibid., questions 930 à 946. Voir aussi le paragraphe 55c) ci-dessous.
+[25] Pièce V-8.
+[26] Transcription du 20 août 2008, questions 1 003 à 1 011 et 1 128 à 1 129.
+[27] Ibid., questions 1 015 à 1 024. La pièce V-6 indique les heures de travail réelles selon l’intervenante.
+[28] Ibid., questions 1 092 à 1 098.
+[29] Pièce V-13.
+[30] Transcription du 20 août 2008, questions 1 393 à 1 427.
+[31] Ibid., questions 1 362 à 1 371.
+[32] Une question secondaire se pose : dans l'hypothèse où l'appelante avait travaillé pour l'intervenante, s'agirait-il d'un contrat de travail ou d'un contrat d'entreprise ou de service? Vu ma conclusion, il n'est pas nécessaire que je réponde à cette question.

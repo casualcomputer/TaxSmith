@@ -1,0 +1,177 @@
+---
+title: "Doucet v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30854/index.do"
+last_modified: "2012-06-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 223"
+citation2: ""
+neutral_citation: "2012 TCC 223"
+decision_date: "2012-06-20"
+language: "en"
+item_id: "30854"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7365
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:20:06.924000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c4ee6a064b84420be86557b7f4771a92b0881bb2e0210b22684383bc843b066a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Doucet v. M.N.R.
+
+- Citation: 2012 TCC 223
+- Decision date: 2012-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7365, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doucet v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-20
+Neutral citation
+2012 TCC 223
+File numbers
+2011-2234(EI)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-2234(EI)
+BETWEEN:
+CHARELLE DOUCET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 6, 2012, at Sydney, Nova Scotia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jill Chisholm
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision made under the Employment Insurance Act for the period from December 14, 2009 to September 25, 2010 is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 20th day of June 2012.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2012TCC223
+Date: 20120620
+Docket: 2011-2234(EI)
+BETWEEN:
+CHARELLE DOUCET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether Sylvie Doucet was engaged by the Appellant during the period December 14, 2009 to September 25, 2010 in insurable employment.
+[2] The Minister of National Revenue (the “Minister”) decided that Sylvie Doucet (the “Worker”) was employed with the Appellant pursuant to a contract of service but that her employment was excluded employment because she and the Appellant were not dealing with each other at arm’s length in accordance with paragraphs 5(2)(i) and 5(3)(b) of the Employment Insurance Act (the “Act”).
+[3] In making his decision, the Minister made the following assumptions of fact:
+a) The Appellant is a sole proprietor and operates an esthetic salon (the “business”) in Cheticamp, Nova Scotia since December 2009;
+b) Services offered by the business are manicures, pedicures, waxing, massages, eyebrow and lash tint, make-up and facials;
+c) During the period under appeal the business operated from a room in the Appellant’s home;
+d) Clients were led to the esthetics room through the Appellant’s living room;
+e) The Worker was engaged as an esthetician by the Appellant when the business opened, in December 2009;
+f) The Worker was a new graduate of an esthetics program;
+g) The Worker was the only worker of the business to provide the esthetic services listed in b);
+h) In addition to the services listed in b), the Worker also performed duties such as answering the phone, booking appointments, disinfecting implements as well as keeping the room clean and doing the laundry;
+i) The Appellant set the business operating hours, the business rates for the various services and insured that customers were satisfied with the services provided;
+j) The Appellant determined the Worker’s working hours and rate of pay;
+k) The Worker was unable to take time off without prior approval from the Appellant;
+l) The Appellant provided all the equipment and products required to do the work;
+m) If assistants had been hired, it would have been the Appellant’s responsibility to hire and pay them;
+n) The Worker did not pay rent for the use of the esthetics room at the Appellant’s business location;
+o) The Worker did not invoice the Appellant for her services.
+11. In making his decision with regards to the insurability of the worker’s employment, the Respondent relied on the following assumptions of fact:
+a) The facts stated in paragraph 10 above;
+b) The Worker is the Appellant’s daughter;
+c) During the period under appeal, the Worker was paid for 40 hours a week;
+d) During the period under appeal, the client appointments totaled 12 hours a week on average;
+e) The Worker’s salary was excessive in view of the hours of work performed for the business;
+f) The Appellant continued to pay this excessive salary amount to the Worker for a duration of nine months;
+g) The business did not always have sufficient funds to pay the Worker’s salary and the Appellant sometimes borrowed money from her personal line of credit in order to pay her daughter;
+h) In the first year of the business, the Appellant incurred a loss of almost $10,000 while the revenues amounted to $17,340 and salary costs totaled $17,860;
+i) Subsequent to the period under appeal, the Worker’s conditions of employment were modified to better suit the needs of the business and the Worker was paid an hourly wage based on the hours of appointments with the clients;
+j) During the period under appeal, the Worker resided with the Appellant;
+k) The room from which the business operated was not separate from the rest of the Appellant’s house and did not have a separate entrance;
+l) The Appellant worked outside the home 2 or 3 days a week; and
+m) It is not reasonable to think that a non related worker would have been given access to the Appellant’s entire home while the Appellant was out, at work.
+[4] The Worker intervened in this appeal but she did not testify at the hearing. The witnesses were the Appellant and Tenia Morris, an appeals officer with the Canada Revenue Agency.
+[5] It was the Appellant’s evidence that her daughter, the Worker, graduated as an esthetician in 2009 and was employed as such by Island Sunset Resort and Spa in Cheticamp, Nova Scotia from June until October 2009. When the Worker was laid off, the Appellant decided to open her own spa in her home. She hired her daughter and on December 14, 2009, she opened Laisse Aller Spa in one room in her home. Laisse Aller was operated as a sole proprietorship.
+[6] The Worker was the only person hired by the Appellant. The services offered by Laisse Aller were manicures, pedicures, waxing, massages, eyebrow and lash tint, make-up and facials.
+[7] This was the first business operated by the Appellant and she had no prior business experience with respect to spas.
+[8] The Appellant addressed each of the assumptions made by the Minister. She disagreed with the assumptions at paragraphs 11(d), (e), (f) and (m).
+[9] She testified that some of her clients received extra treatments which were not recorded in her appointment book. She disagreed that the client appointments totaled 12 hours a week on average as was assumed at paragraph 11(d) of the Reply. However, she did not give an estimate of the hours per week or the average hours per week that were devoted to client appointments.
+[10] With respect to the assumption at paragraph 11(e) of the Reply, the Appellant stated that her daughter was paid for 40 hours a week and she worked 40 hours a week. According to the Appellant, the Worker helped her to set up the room where the esthetician services were provided. In addition to providing esthetician services, the Worker disinfected the equipment, cleaned the room and washed the towels. She also helped to make and deliver flyers and business cards and she attended meetings which the Appellant had with members of the community.
+[11] The Appellant did not have a record of the meetings which she and the Worker attended but, under cross examination, she stated that she and the Worker attended four meetings which she estimated were 3 hours each in duration.
+[12] In cross examination, the Appellant also stated that if there were no appointments, the Worker did not work as the equipment did not have to be disinfected and there was no laundry or clean-up necessary.
+[13] The Appellant disagreed with the assumption at paragraph 11 (f) because she felt that the Worker’s salary was not excessive. She stated that the Worker earned only $9.65 an hour plus vacation pay. During the months of May to September 2009, most of the Worker’s hours were spent providing services to clients.
+[14] With respect to paragraph 11(m), the Appellant stated that she had hired a non-related person to work in her home as a babysitter-housekeeper when her children were young.
+[15] Tenia Morris was the appeals officer who handled the Appellant’s file on behalf of the Minister.
+[16] It was Ms. Morris’ evidence that the Worker’s hourly wage was reasonable for the industry but her total salary was not justified according to the number of hours that she performed services. From the Appellant’s appointment book, she estimated that, during the period, the Worker provided services for approximately 470 hours whereas the record of employment indicated that she provided services for 1640 hours. Ms. Morris explained that the 470 hours included the esthetician, laundry and clean-up services performed by the Worker. It did not include the time that the Worker would have spent handing out business cards and flyers or meetings that she attended with the Appellant.
+Analysis
+[17] The relevant statutory provision of the Act reads:
+5(2) Insurable employment does not include
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+5(3) For the purposes of paragraph (2)(i),
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[18] The Worker and the Appellant do not dispute that they are not at arm’s length. However, they do challenge the Minister’s decision with respect to paragraph 5(3)(b) of the Act.
+[19] The role of the Tax Court of Canada Judge in an appeal from the Minister’s decision with respect to subsections 5(2) and (3) of the Act was described by Chief Justice Richard in Denis v. Canada (Minister of National Revenue), 2004 FCA 26. He stated:
+[5] The function of the Tax Court of Canada judge in an appeal from a determination by the Minister on the exclusion provisions contained in subsections 5(2) and (3) of the Act is to inquire into all the facts with the parties and the witnesses called for the first time to testify under oath, and to consider whether the Minister's conclusion still seems reasonable. However, the judge should not substitute his or her own opinion for that of the Minister when there are no new facts and there is no basis for thinking that the facts were misunderstood (see Pérusse v. Canada (Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 310, March 10, 2000).
+[20] In making his decision, the Minister was not aware that the Worker helped with the set-up of the esthetician room, delivered flyers and attended meetings on behalf of Laisse Aller. As a consequence, I must decide if the Minister’s decision is still reasonable in light of these new facts.
+[21] According to Ms. Morris’ testimony, the Worker spent approximately 470 hours or 28% of her time performing esthetician and related services. It was the Appellant’s evidence that the Worker spent 12 hours attending meetings. If the Worker actually worked 1640 hours, as was indicated on the record of employment, it would mean that she would have spent 71% of her time on the set-up of the esthetician room, delivering flyers and business cards.
+[22] The Appellant did not produce any evidence beyond her general statement to establish that the Worker did work 40 hours a week during the relevant time.
+[23] I also note from the Appellant’s appointment book that during the period, there were 42 days when the Appellant had one client and there were 49 days (excluding Sundays) when the Appellant had no clients.
+[24] There was no basis presented to me from which I can conclude that the Minister misunderstood the facts.
+[25] When I consider the new facts presented at the hearing, the testimony and the exhibits presented at the hearing with respect to the remuneration paid, the terms and conditions, the duration and the nature of the work performed, I conclude that the Minister’s decision is still reasonable.
+[26] The appeal is dismissed.
+Signed at Ottawa, Canada, this 20th day of June 2012.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2012TCC223
+COURT FILE NO.: 2011-2234(EI)
+STYLE OF CAUSE: CHARELLE DOUCET
+AND M.N.R.
+PLACE OF HEARING: Sydney, Nova Scotia
+DATE OF HEARING: June 6, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: June 20, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jill Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

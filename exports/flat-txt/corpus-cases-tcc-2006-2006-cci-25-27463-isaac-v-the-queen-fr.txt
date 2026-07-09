@@ -1,0 +1,160 @@
+Title: Isaac v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27463/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-25-27463-isaac-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-01-13
+
+# Isaac v. The Queen
+
+- Citation: 2006 CCI 25
+- Decision date: 2006-01-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 219, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Isaac v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-13
+Référence neutre
+2006 CCI 25
+Numéro de dossier
+2002-1568(GST)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-1568(GST)I
+ENTRE :
+EDITH MONIKA ISAAC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Kamloops (Colombie-Britannique), le 28 novembre 2005
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Michael Taylor
+___________________________________________________________________
+JUGEMENT
+L'appel de la cotisation de tiers qui a été établie en application de la Loi sur la taxe d'accise le 9 avril 2001, et qui porte le numéro 65429, est accueilli sans frais et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de janvier 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 7e jour de novembre 2006.
+Christian Laroche, LL.B.
+Référence : 2006CCI25
+Date : 20060113
+Dossier : 2002-1568(GST)I
+ENTRE :
+EDITH MONIKA ISAAC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L'appelante est mariée à Christopher Isaac ( « Christopher » ).
+[2] Christopher a constitué en personne morale Salmon Arm Jewellers Ltd. (la « société » ) en vertu des lois de la Colombie-Britannique le 10 juillet 1990.
+[3] La société exploitait une bijouterie de détail à Salmon Arm, en Colombie-Britannique.
+[4] La société est inscrite aux termes de la partie IX de la Loi sur la taxe d'accise (la « Loi » ) depuis le 1er janvier 1991.
+[5] Le ministre du Revenu national (le « ministre » ) allègue que la société était tenue de verser la taxe nette perçue conformément au paragraphe 228(2) de la Loi et qu'elle a omis de le faire.
+[6] Par l'avis de cotisation de tiers no 64851 en date du 5 novembre 1998, le ministre a établi une cotisation à l'égard de Christopher en application du paragraphe 325(1) de la Loi par suite de l'omission de la société de verser la taxe nette conformément au paragraphe 228(2) de la Loi.
+[7] Christopher a interjeté appel de la cotisation devant la Cour canadienne de l'impôt.
+[8] Le 21 septembre 2000, la Cour canadienne de l'impôt a rejeté l'appel interjeté par Christopher.
+[9] Au mois de juin 1991, Christopher et l'appelante ont acheté à titre de tenants conjoints une maison située à Salmon Arm, en Colombie-Britannique (la « propriété » ).
+[10] La propriété a été achetée pour le montant de 90 255 $ et a été en partie financée au moyen d'une hypothèque au montant de 82 000 $ consentie par le Trust Royal.
+[11] Au mois de juillet 1997, la British Columbia Assessment Authority a évalué la propriété à 165 700 $.
+[12] Le ou vers le 7 septembre 1997, Christopher a transféré à l'appelante son droit sur la moitié de la propriété moyennant une contrepartie d'un dollar.
+[13] L'obligation fiscale impayée de Christopher aux termes de la Loi au moment du transfert n'était pas inférieure à 40 410,84 $.
+[14] Au moment du transfert, la juste valeur marchande de la propriété n'était pas inférieure à 165 700 $.
+[15] Au moment du transfert, les charges qui grevaient la propriété s'élevaient à 70 000 $.
+[16] Le ministre allègue que lors du transfert, le droit que Christopher possédait sur la moitié de la propriété quant à la valeur nette n'était pas inférieur à 47 850 $ [50 p. 100 de (165 700 $ - 70 000 $)].
+[17] Le ministre a délivré un avis de cotisation à l'appelante à l'égard du transfert de la propriété de Christopher en sa faveur.
+[18] L'appelante a interjeté appel de la cotisation devant la Cour canadienne de l'impôt.
+L'historique des audiences devant les tribunaux
+[19] Lors de la première audience qui a eu lieu devant la Cour canadienne de l'impôt, le juge Beaubier a rejeté l'appel de l'appelante en concluant que l'appelante doit avoir su à un moment donné, en acquérant la propriété, que son conjoint, Christopher, était inscrit sur le titre[1].
+[20] L'appelante a interjeté appel devant la Cour d'appel fédérale.
+[21] Le juge Linden, qui a écrit les motifs au nom de la Cour d'appel fédérale, a statué que l'appel de l'appelante devait être accueilli et que l'affaire devait être renvoyée à la Cour de l'impôt pour nouvelle audition devant un juge différent sur la base de l'ensemble de la preuve documentaire et de tout autre témoignage que le nouveau juge estimerait approprié[2]. La Cour a dit que les motifs du juge Beaubier étaient insuffisants en ce qu'ils ne traitaient pas adéquatement de la preuve documentaire, laquelle tendait à démontrer que l'appelante a pu très bien avoir été, à l'époque pertinente, l'unique propriétaire du bien. La présente audience découle de la décision rendue par la Cour d'appel fédérale.
+[22] Le juge Bell, de la Cour canadienne de l'impôt, a également rendu un jugement connexe à l'égard de l'appel interjeté par Christopher Isaac; le juge a rejeté l'appel, mais il a recommandé au ministre de renoncer aux intérêts et à la pénalité[3].
+[23] Christopher a présenté une demande à la Section de première instance de la Cour fédérale en vue d'obtenir le contrôle judiciaire de la décision du ministre de ne pas renoncer aux intérêts et à la pénalité. La juge Heneghan a accueilli la demande et a renvoyé l'affaire à l'Agence du revenu du Canada (l' « ARC » ) pour qu'un autre représentant du ministre rende une décision[4]. À la suite de la décision de la juge Heneghan, le ministre a examiné la cotisation dont faisait l'objet Christopher et a réduit les intérêts d'un montant de 6 074,49 $.
+B. LE POINT EN LITIGE
+[24] Il s'agit de savoir si l'appelante est solidairement responsable avec Christopher, aux termes du paragraphe 325(1) de la Loi, quant au montant de 40 410,84 $.
+Aperçu de l'article 325 de la Loi sur la taxe d'accise
+[25] L'article 325 de la Loi prévoit une « cotisation de tiers » . Cette disposition rend le cessionnaire d'un bien ayant un lien de dépendance responsable à l'égard des montants ou du bien transféré par une personne qui doit la TPS. L'article 325 est une disposition analogue à l'article 160 de la Loi de l'impôt sur le revenu. Cette disposition empêche le débiteur fiscal de transférer simplement des actifs à un conjoint ou à un autre membre de sa famille, ou à un actionnaire contrôlant, de sorte qu'il n'a plus d'actifs lui permettant de payer sa dette à l'ARC, tout en tirant peut-être encore profit des actifs[5].
+[26] Si les conditions énoncées au paragraphe 325(1) sont réunies, l'alinéa a) s'applique, de façon que le cessionnaire est responsable à l'égard de la juste valeur marchande de ce qui a été transféré, moins la juste valeur marchande de ce qui a été donné en échange et moins tout montant établi en application de l'article 160 de la Loi de l'impôt sur le revenu pour le même transfert. L'obligation est ensuite limitée, aux termes de l'alinéa b), au montant total dont le cédant est redevable à l'égard de la TPS pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures.
+Le contexte factuel
+[27] Il faut relater des faits additionnels, parce qu'ils aident à expliquer la situation déplorable dans laquelle se trouve l'appelante. L'appelante et Christopher possédaient et habitaient autrefois une maison à Edmonton. Christopher a utilisé la maison d'Edmonton comme garantie en vue d'emprunter un montant de 75 000 $ qu'il a utilisé pour financer son entreprise (cette entreprise n'était pas Salmon Arm Jewellers Ltd.). Un billet à ordre payable sur demande, daté du 21 septembre 1989, fait état du prêt obtenu par Christopher.
+[28] À cause de problèmes conjugaux, un accord de séparation daté du 5 août 1990 a été signé par l'appelante et par Christopher, par lequel ce dernier s'engageait à transférer à l'appelante son droit sur le foyer conjugal, décrit comme étant la maison située à Edmonton, de façon que celle-ci en soit seule propriétaire. (Nota : Cet accord de séparation n'a pas été produit devant la Cour canadienne de l'impôt lorsque l'appelante a comparu devant le juge Beaubier.)
+[29] Christopher a transféré à l'appelante son droit sur la propriété d'Edmonton. Un certificat de titre daté du 23 août 1990 désigne l'appelante comme seule propriétaire de la propriété d'Edmonton. L'accord de séparation prévoyait également, entre autres choses, que Christopher continuerait à effectuer tous les versements hypothécaires afférents au foyer conjugal.
+[30] Par la suite, l'appelante a accordé à Christopher une procuration datée du 6 février 1991, expressément en vue d'acheter pour son compte une maison à Salmon Arm. Christopher a conclu, pour le compte de l'appelante, un contrat d'achat-vente daté du 15 mars 1991 afin d'acheter la propriété de Salmon Arm. Toutefois, l'appelante et Christopher étaient tous deux inscrits sur le titre de la propriété de Salmon Arm. Au mois de septembre 1997, Christopher a censément transféré à l'appelante son droit sur la moitié de la propriété de Salmon Arm.
+C. ANALYSE
+[31] La propriété en question est la propriété de Salmon Arm (la « propriété de Salmon Arm » ). Lors de la première audience qui a eu lieu devant le juge Beaubier, l'appelante a soutenu que le nom de Christopher avait été inclus par erreur dans le titre de propriété. Le juge a rejeté cet argument. L'appelante soutient maintenant qu'elle était la seule personne ayant la propriété effective de la propriété de Salmon Arm lors de son acquisition en 1991 et que la chose est étayée par la preuve qui a été produite à la présente audience.
+[32] Pour les motifs énoncés ci-dessous, j'ai conclu qu'il n'y avait pas eu de transfert de propriété, parce que l'appelante était la seule personne à avoir la propriété effective de la propriété de Salmon Arm lors de son acquisition. Subsidiairement, j'ai conclu que s'il y avait eu transfert de propriété, le transfert était de la nature d'un remboursement de prêt.
+[33] Cette question a été examinée dans la jurisprudence portant sur l'article 325 de la Loi et, d'une façon plus approfondie, dans la jurisprudence portant sur l'article 160 de la Loi de l'impôt sur le revenu. L'avocat de l'intimée cite les décisions Trinka Holdings Inc. v. Canada[6], Taylor v. Canada[7] et Zavos c. Canada[8] à l'appui d'une application stricte de l'article 325 au présumé transfert de la propriété de Salmon Arm.
+[34] Néanmoins, l'appelante peut avoir gain de cause en se défendant contre la cotisation, compte tenu du raisonnement qui a été fait dans la décision Splinter v. Canada[9]. Il s'agissait d'une affaire se rapportant à l'article 160 de la Loi de l'impôt sur le revenu. La question cruciale dans cette affaire était de savoir s'il y avait un transfert de propriété. L'appelante dans cette affaire était la veuve de l'auteur du transfert de la propriété. Mme Splinter avait déclaré qu'elle était seule propriétaire de la propriété en cause, étant donné que cette propriété faisait partie des biens personnels de la famille et qu'il existait une division claire entre les biens personnels de la famille dont elle était seule propriétaire et les biens d'entreprise de son mari, dont celui-ci était seul propriétaire. Lorsque Mme Splinter avait découvert que la propriété en cause n'était pas enregistrée à son nom, elle avait maintenu que la propriété lui appartenait encore et, à ce moment-là, la propriété en cause lui avait formellement été transférée. Eu égard aux circonstances de cette affaire, le juge Hamlyn a conclu que le prétendu transfert de la propriété en cause n'était pas un transfert de bien-fonds au sens de l'article 160, puisque l'appelante avait la propriété effective de la propriété. En arrivant à cette conclusion, le juge Hamlyn a fait remarquer qu'il n'y avait pas de déclaration écrite de fiducie ou d'accord écrit de fiducie montrant qu'avant le transfert, le mari détenait la propriété en fiducie pour sa femme. Malgré tout, le juge Hamlyn s'est fondé sur plusieurs autres documents qui l'ont amené à conclure que le mari détenait la propriété en fiducie pour sa femme. Cela étant, dans cette affaire, l'appelante s'était défendue avec succès à l'encontre de la cotisation.
+[35] J'ai conclu qu'en l'espèce, la preuve permet de conclure que l'appelante avait la propriété effective de la propriété de Salmon Arm. L'intimée fait valoir que la législation provinciale, à laquelle vient s'ajouter le fait que le conjoint de l'appelante était inscrit sur le titre de propriété et qu'il était désigné à titre d'acheteur et de débiteur hypothécaire sur les documents, fournit une preuve concluante qu'il détenait un droit sur la moitié de la propriété, mais cela ne veut pas pour autant dire que l'appelante n'a pas à elle seule la propriété effective. En particulier, l'accord de séparation et le certificat de titre indiquent que l'appelante était l'unique propriétaire du foyer conjugal d'Edmonton. Lorsque la propriété de Salmon Arm a été achetée, Christopher a été inclus sur le titre légal de cette propriété, mais l'appelante conservait la totalité de la propriété effective du foyer conjugal qui était maintenant situé à Salmon Arm. La procuration et le contrat d'achat-vente relatif à la propriété de Salmon Arm étayent la prétention de l'appelante selon laquelle Christopher et elle croyaient tous deux qu'elle avait seule la propriété effective de la propriété de Salmon Arm lors de l'acquisition de cette propriété, même s'il n'y avait pas de déclaration écrite de fiducie ou d'accord écrit de fiducie. Je note également que dans la décision Bouchard v. Canada, le juge Cattanach a dit qu'un bien peut être détenu en fiducie sans preuve écrite[10]. En outre, la preuve orale de l'appelante a révélé que ses enfants et elle habitaient la propriété de Salmon Arm, alors que Christopher ne l'habitait généralement pas. Christopher détenait simplement son intérêt en common law sur la propriété en fiducie pour l'appelante.
+[36] Subsidiairement, je crois qu'il est loisible à la Cour de conclure que le transfert était de la nature d'un remboursement de prêt comme c'était le cas dans les affaires Hooda v. Canada[11] et Brown v. Canada[12]. Ces deux décisions étayent la thèse selon laquelle un transfert de bien effectué aux fins du remboursement d'un prêt ne déclenche pas l'application de l'article 325 lorsque l'argent obtenu du prêt peut être considéré comme une contrepartie représentant la juste valeur marchande du bien.
+[37] En l'espèce, je crois que la preuve permet de conclure que la propriété de Salmon Arm a en fait été transférée aux fins du remboursement d'un montant que Christopher devait à l'appelante. Selon un état financier de Salmon Arm Jewellers Ltd., un montant de 72 505,71 $ était dû à l'appelante. (Nota : Ce document n'a pas été produit lorsque l'appel a été entendu par le juge Beaubier.) En outre, il est possible que le père de l'appelante ait cédé à l'appelante les droits qu'il avait à l'égard du billet à ordre payable sur demande se rapportant au prêt de 75 000 $, de façon que Christopher devait l'argent à l'appelante. Dans le témoignage oral qu'elle a présenté devant le juge Beaubier, l'appelante a simplement déclaré que son père avait enlevé l'opposition du titre relatif à la maison d'Edmonton sans obtenir de Christopher le remboursement du prêt. Un don effectué par le père de l'appelante peut être considéré comme une cession en faveur de l'appelante des droits qu'il possédait aux termes du billet. Dans ces conditions, le présumé transfert de la propriété par Christopher en faveur de l'appelante peut donc être considéré comme un remboursement de la dette que Christopher avait envers l'appelante.
+[38] Il s'ensuit donc que l'article 325 de la Loi ne s'applique pas dans cette situation-ci.
+[39] L'appel est accueilli sans frais.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de janvier 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 7e jour de novembre 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2006CCI25
+No DU DOSSIER DE LA COUR :
+2002-1568(GST)I
+INTITULÉ :
+Edith Monika Isaac c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Kamloops (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 28 novembre 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 13 janvier 2006
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Michael Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Edith Monika Isaac c. La Reine, 2003CCI650, 2005 G.T.C. 711.
+[2] Edith Monika Isaac c. La Reine, 2005 CAF 296.
+[3] Christopher Robin Isaac v. Canada, 2000 G.T.C. 957.
+[4] Christopher Robin Isaac c. Canada, 2002 CFPI 410.
+[5] David Sherman, « Tax Liability After Transfers Not At Arm's Length » , David Sherman's Analysis (Carswell).
+[6] [1996] G.S.T.C. 10 (C.C.I.).
+[7][1997] G.S.T.C. 39 (C.C.I.).
+[8] [2000] A.C.I. no 736 (C.C.I.).
+[9] [2001] 3 C.T.C. 2553 (C.C.I.) [ci-après « Splinter » ].
+[10] [1983] C.T.C. 173 (C.F. 1re inst.).
+[11] [1997] G.S.T.C. 55 (C.C.I.).
+[12] [1998] 2 C.T.C. 2464 (C.C.I.).

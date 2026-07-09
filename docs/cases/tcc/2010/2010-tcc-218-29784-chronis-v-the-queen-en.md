@@ -1,0 +1,451 @@
+---
+title: "Chronis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29784/index.do"
+last_modified: "2010-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 218"
+citation2: ""
+neutral_citation: "2010 TCC 218"
+decision_date: "2010-05-04"
+language: "en"
+item_id: "29784"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6590
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:23:49.493000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "71255268555f6ba44a73db22f58c9b71326bfe99891391bdf7450d1dd9130937"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chronis v. The Queen
+
+- Citation: 2010 TCC 218
+- Decision date: 2010-05-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6590, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chronis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-04
+Neutral citation
+2010 TCC 218
+File numbers
+2006-3485(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2006-3485(IT)G,
+2006-3693(GST)I
+BETWEEN:
+BASIL CHRONIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 10, 2010, at Sydney, Nova Scotia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine M.G. McIntyre
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years and under Part IX of the Excise Tax Act for the period from January 1, 2000 to December 31, 2002 are allowed, without costs, and the matters are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis of the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of May 2010.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2010 TCC 218
+Date: 20100504
+Dockets: 2006-3485(IT)G
+2006-3693(GST)I
+BETWEEN:
+BASIL CHRONIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Minister of National Revenue (the “Minister”) by Notices of Reassessment dated May 18, 2004 increased the income tax liability of Basil Chronis (the “Appellant”) for the 2000, 2001 and 2002 taxation years through the addition of undeclared income. The Minister used the net worth method to add $45,807, $114,325 and $11,832 to the Appellant’s income for the 2000 (the 2000 undeclared income), 2001 (the 2001 undeclared income) and 2002 (the 2002 undeclared income) taxation years respectively. Details of the net worth calculations are set out in Schedule A to this judgment. The Appellant was also assessed under Part IX of the Excise Tax Act (“ETA”) for the period from January 1, 2000 to December 31, 2002, the amounts assessed being $31,039.30 in tax, $1,630.06 in interest and a $3,577.65 penalty in respect of goods and services tax/harmonized sales tax (GST/HST) on sales and/or services in respect of which the Appellant allegedly failed to collect GST/HST. The Appellant’s appeals from these assessments were heard on common evidence.
+[2] The issues to be determined in these appeals are as follows:
+(a) Is the Appellant liable for the additional income tax determined by the Minister on unreported income in the amounts of $45,807, $114,325 and $11,832 for the 2000, 2001 and 2002 taxation years respectively?
+(b) Is the Appellant liable pursuant to subsection 163(2) of the Income Tax Act (the “ITA”) for penalties in the amounts of $13,413.45 and $733.25 for the 2001 and 2002 taxation years respectively?
+(c) Did the Minister properly assess the Appellant for unreported GST/HST in the amount of $26,573.20 for the period from January 1, 2000 to December 31, 2002?
+[3] The evidence shows that the Appellant was engaged in the business of programming satellite smart cards (“Smart Cards”) for the purpose of decoding US-based satellite television signals (the “Satellite Piracy Business”). The Appellant would sell the Smart Cards to clients located in and around North Sydney who would access the satellite signals emitted from the US satellites without paying a monthly charge for the service. The two satellite television providers, Direct TV and Dishnet, were not authorized to offer satellite services in Canada.
+[4] In October of 2001, the Appellant’s home was searched by the Royal Canadian Mounted Police (the “RCMP”), and various Smart Cards, computer equipment and satellite receivers were seized. Most of the equipment was later destroyed or returned to its manufacturer. The Appellant was charged with a criminal offence, and subsequently convicted, in relation to his activities in carrying on the Satellite Piracy Business.
+Adjustments to the Appellant’s Undeclared Income
+(i) 2000 Undeclared Income
+[5] The evidence shows that the Minister failed to take into account two specific gifts totalling $24,000 received by the Appellant in his 2000 taxation year. The first gift was the forgiveness by his mother of a personal loan in the amount of $15,000 made by her to facilitate the Appellant’s purchase of a joint interest in a 1995 Jeep Grand Cherokee (“1995 Jeep”). The Appellant’s mother loaned him the funds to pay his share of the purchase price. The evidence shows she gave her undivided share of the vehicle to her son in 2001 and forgave the loan. The forgiveness of the loan gives rise to a non-taxable gift to the Appellant. The Appellant’s testimony on this matter was corroborated by his ex-wife. The Minister wrongly assumed that the loan was repaid by the Appellant with undeclared income.
+[6] The evidence also shows that the Appellant’s father paid $9,000 of the purchase price of a 2000 Honda RVT1000R/RC51 motorcycle acquired by the Appellant for $15,604.35. The Appellant’s testimony on this point was corroborated by the testimony of the salesman who sold him the motorcycle. To take into account the tax-free nature of these two gifts, the Appellant’s 2000 undeclared income should be reduced from $45,807.27 to $21,807.27.
+(ii) 2001 Undeclared Income
+[7] The evidence also shows that the Appellant benefited from two other gifts, totalling $14,843, which were not properly taken into account in the determination of the Appellant’s net worth and undeclared income for his 2001 taxation year. The Appellant’s ex-wife testified that she won $10,000 at a casino in the 1998 taxation year. She gave the money to her husband and assumed he would eventually use it to make a down payment on a house. Unbeknownst to the witness, the Appellant used the funds to pay part of the purchase price of a Camaro that he acquired for $35,000 in 1998. The Appellant’s ex-wife testified that the $10,000 was intended to be a gift and that she did not seek repayment of the amount as part of her divorce settlement. The Minister assumed incorrectly that the Appellant owed his wife $10,000 and that this loan was repaid with undeclared income in 2001.
+[8] The evidence also shows that the Appellant traded in a 1995 Jeep for a 1998 Jeep Grand Cherokee (“1998 Jeep”) in 2001. The Appellant paid $29,843 for the 1998 Jeep. The cost of the 1998 Jeep was added by the Minister to the Appellant’s assets for his 2001 taxation year and the cost of the 1995 Jeep was deducted in the determination of the Appellant’s net worth for 2001. The Minister’s treatment of the two transactions resulted in a net increase of $4,843 in the Appellant’s net worth.
+[9] The evidence shows, however, that the Appellant traded in a second car, which he had inherited from his father, along with the 1995 Jeep to acquire the 1998 Jeep. This means that the increase in the Appellant’s net worth with respect to this transaction is not attributable to a source of undeclared income. Therefore, the Appellant’s 2001 undeclared income should be reduced from $114,324.50 to $99,481.50 to take into account these two gifts.
+[10] In No. 275 v. M.N.R., 55 DTC 439, at pages 441-42, 13 Tax ABC 279 (I.T.A.B.), it was established that gains from illegal activities were taxable under the Income War Tax Act.
+[W]hen the question in issue is whether profits arising from illegal sources are liable to taxation or not, the courts are not concerned, either with the source of the taxpayer’s income, or by the means taken by him to earn it, but merely with the question as to whether or not the said income is liable to tax under the provisions of the taxing statute. Once the courts are satisfied that the income is liable to tax, it is immaterial that it comes from a legal or an illegal business, or a business which is malum in se or malum prohibitum.
+[11] It follows, then, that expenses incurred in order to earn business income, even if the business is illegal in nature, are deductible. This position has been upheld by the courts on numerous occasions, most notably in M.N.R. v. Eldridge, 1964 CarswellNat 357, [1964] C.T.C. 545, [1965] 1 Ex. C.R. 758 (QL), 64 DTC 5338. At issue in that case was whether a taxpayer carrying on a call girl operation could deduct the expenses incurred in order to generate business income:
+24 The respondent freely admits that she was engaged in an illegal and illicit business, nor does she dispute the computation of the gross income received by her. The substance of her objection to the assessments is that further expenses were incurred by her in the operation of her business which should be taken into account and her taxable income reduced to the extent of those expenses.
+25 At this point I would mention it is abundantly clear from the decided cases that earnings from illegal operations or illicit businesses are subject to tax. The respondent, during her testimony, remarked that she expressed the view to the officers of the Taxation Division that it was incongruous that the government should seek to live on the avails of prostitution. However, the complete answer to such suggestion is to be found in the judgment of Rowlatt, J. in Mann v. Nash, 16 T.C. 523, where he said at p. 530:
+"It is said again: 'Is the State coming forward to take a share of unlawful gains?' It is mere rhetoric. The State is doing nothing of the kind; they are taxing the individual with reference to certain facts. They are not partners; they are not principals in the illegality, or sharers in the illegality; they are merely taxing a man in respect of those resources. I think it is only rhetoric to say that they are sharing in his profits, and a piece of rhetoric which is perfectly useless for the solution of the question which I have to decide."
+[Emphasis added.]
+[12] Cattanach J. continues with an analysis of the various expenses claimed by the Appellant, and determines which of the proposed expenses may be deducted from gross income by reason of their having been incurred for income-earning purposes.
+[13] In 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, the Supreme Court of Canada confirms that expenses incurred to generate income from illegal acts are tax deductible under the ITA. The issue before the Supreme Court was whether or not it is appropriate to permit the deduction from income under the ITA of fines, penalties and statutory levies. In reaching its decision, the Court considered the public policy argument against allowing the deduction of fines and penalties and drew an analogy with the tax treatment of income from illegal activities:
+56 . . . I note that in calculating income, it is well established that the deduction of expenses incurred to earn income generated from illegal acts is allowed. For example, not only is the income of a person living from the avails of prostitution liable to tax, but the expenses incurred to earn this income are also deductible: M.N.R. v. Eldridge, [1964] C.T.C. 545 (Ex. Ct.). See also Espie Printing Co. v. Minister of National Revenue, [1960] Ex. C.R. 422. Allowing a taxpayer to deduct expenses for a crime would appear to frustrate the Criminal Code, R.S.C., 1985, c. C-46; however, tax authorities are not concerned with the legal nature of an activity. Thus, in my opinion, the same principles should apply to the deduction of fines incurred for the purpose of gaining income because prohibiting the deductibility of fines and penalties is inconsistent with the practice of allowing the deduction of expenses incurred to earn illegal income.
+[Underlining in original; emphasis added.]
+[14] And more recently, in Brizzi v. The Queen, 2007 TCC 226, [2007] 4 C.T.C. 2334:
+5 It is important to mention that the tax authorities are not concerned with the legality of an activity (see Canada (M.N.R.) v. Eldridge, [1965] 1 Ex. C.R. 758 (QL), at par. 25, and 65302 British Columbia Ltd. v. Canada, [1999 CanLII 639 (S.C.C.)], [1999] 3 S.C.R. 804, at par. 56). It is accepted that if a taxpayer's income from an illegal business is taxable, that taxpayer should be allowed the benefits of the Income Tax Act (the "Act") in terms of deductions. It is also important to mention that this Court is only concerned with determining the validity of an assessment after considering all relevant facts and with ascertaining whether the assessment is in compliance with the Act. Equitable considerations are not within our jurisdiction.
+[Emphasis added.]
+[15] Section 67.6 of the Act was enacted in 2005 to deny a deduction for fines and penalties imposed under a law after March 22, 2004.
+[16] In the case of R. v. Chronis, [2002] N.S.J. No. 273 (QL), Constable Donald James Peters applied for an order under subsection 490(5) of the Criminal Code for the disposition of certain items seized from the Appellant’s premises.
+[17] The Appellant intervened in the proceedings for the purpose of having the Smart Cards returned to him. Ross Prov. Ct. J. of the Nova Scotia Provincial Court concluded that the US satellite television provider had established lawful entitlement to the Smart Cards. There is no evidence in the record herein as to why the other seized equipment was not returned to the Appellant. Nevertheless, there was testimonial evidence from the Appellant, corroborated in part by Constable Peters’ testimony, that very few items were returned to the Appellant. The Respondent did not lead any contrary evidence on this point. I conclude, therefore, that the Appellant has established on a balance of probabilities the accuracy of this fact.
+[18] There is no evidence that would allow me to conclude that the items in question were forfeited as the result of the imposition of a penalty or fine after March 22, 2004. I therefore conclude that the Appellant is entitled to claim a deduction in respect of the cost of the forfeited assets.
+[19] Exhibit A-6, tendered by the Respondent at trial, is a detailed inventory of the items seized by the RCMP at the Appellant’s residence. Bruce Mason, the Canada Revenue Agency (“CRA”) auditor who prepared the list also estimated the cost of the seized assets for the purpose of establishing the increase in the Appellant’s net worth over the period at issue. The Appellant testified that only the items listed at numbers 4, 9, 10, 16, 20 to 23, 25 and 26, 28, 41 and 42, 49 to 51, 54, 61, 67 to 69, 72 to 74, 80, and 83 to 86 were returned to him.
+[20] The CRA determined that the total cost of the business assets acquired by the Appellant under review (excluding the replacement of hardware and software) was $77,815. The total cost determined by the CRA for the assets identified by the Appellant as having been returned to him was $16,075. The assets that were returned to the Appellant were no longer suitable for use in the Satellite Piracy Business. The vast majority of the assets that were not returned to the Appellant had been held by him on income account. Arguably, some of the assets were held on capital account. In any event, as regards these latter assets, as they were no longer used in a business, the taxpayer should be entitled to a terminal loss with respect to the capital cost of any depreciable assets that were destroyed, since there were no depreciable assets remaining in the class. Therefore, the Appellant is entitled to an additional deduction of $61,740, which represents the cost of the assets that were not returned to him. As a result of this deduction, the Appellant’s 2001 undeclared income should be further reduced from $99,481.50 to $37,741.50.
+[21] The Appellant’s father passed away in November of 2000. While most of the assets of the estate were divided equally between the Appellant and his sister, the family residence was bequeathed to the Appellant. The Appellant tendered a letter at trial to establish that he was also entitled to all the cash found in the family residence.
+[22] The Appellant claims that his father left him $180,000, which was kept hidden in the basement of the house he inherited from his father. He testified that he used these funds to pay his personal living expenses in 2001 and 2002. He claims that his undeclared income was overstated because the Minister failed to take into account this source of non-taxable capital.
+[23] Counsel for the Respondent points out that the Appellant’s testimony on this point at trial differs from his testimony on discovery. On discovery, the Appellant claimed that he had moved the funds from the basement of his father’s home to the home of a family friend immediately following a flood in the basement of his father’s home in January of 2001.
+[24] At trial, the Appellant claimed that following the flood, the money was moved from the basement to the upstairs laundry room, where it remained until discovered by his wife in May of 2001. Only later was it moved to the home of a relative.
+[25] The Appellant alleged at trial that at least three family members were aware of the fact that his father kept large sums of cash in his home prior to his death. The Appellant chose not to call those relatives to corroborate his testimony, knowing full well that the Respondent intended to dispute his allegation on this point. The Appellant’s decision not to call the witnesses who would have been able to support his claim causes me to seriously doubt the veracity of that claim. Furthermore, the evidence shows that the Appellant’s father had marketable securities and term deposits totalling at least $250,000 at the time of his death. This fact contradicts the Appellant’s claim that his father did not trust banks and so kept large sums of money at home. Thus, no further adjustment is required to be made to the Appellant’s undeclared income. The penalty imposed by the Minister under subsection 163(2) should be reduced to take into account the reduction in the Appellant’s income tax liability as a result of the reduction in the amount of undeclared income for the 2001 taxation year.
+(iii) GST/HST Assessments
+[26] The Minister assessed the Appellant for $26,573 of additional GST/HST collectible for the period from January 1, 2000 to December 31, 2002. The Minister determined that the Appellant owed additional GST/HST of $6,632.95 for the 2000 tax period, that determination was based, inter alia, on the Minister’s estimate of a positive change of $53,053, attributable to undeclared income, in the Appellant’s net worth. As discussed earlier, $24,000 of that increase in the Appellant’s net worth is attributable to gifts. Therefore, the Appellant’s unpaid net GST/HST should be decreased from $6,632.95 to $3,502.52 for the 2000 period to take this adjustment into account. The Appellant also received non-taxable gifts totalling $14,843 in 2001. As a result, the Appellant’s net unpaid GST/HST should be reduced from $16,726.71 to $14,790.71 for the period ending December 31, 2001.
+[27] For these reasons, the reassessments are referred back to the Minister for reconsideration and reassessment in accordance with these reasons for judgment.
+Signed at Ottawa, Canada, this 4th day of May 2010.
+"Robert J. Hogan"
+Hogan J.
+Schedule A
+Comparative Statement of Assets, Liabilities and Net Worth
+ANALYSIS OF ASSETS
+December 31, 1998
+December 31, 1999
+December 31, 2000
+December 31, 2001
+December 31, 2002
+Personal Assets
+Cash seized
+$9,400
+$9,400
+Royal Bank Account - Glace Bay
+$4,405
+$1.00
+$1.00
+$1.00
+$1.00
+Registered Retirement Savings Plans
+$21,075
+$21,075
+$21,075
+$21,075
+$21,075
+CIBC Bank Account – Glace Bay
+$6,440
+$1.00
+$1.00
+$1.00
+$1.00
+1995 Camaro Convertible
+$35,000
+$35,000
+$35,000
+$35,000
+$35,000
+1995 Jeep Grand Cherokee
+$25,000
+$25,000
+$25,000
+1998 Jeep Grand Cherokee
+$29,843
+$29,843
+1998 Maxir Trailer
+$2,000
+$2,000
+$2,000
+$2,000
+$2,000
+1987 Honda Hurricane
+$5,604.35
+$5,604.35
+2000 Yamaha Breeze ATV
+$4,260.00
+2000 Honda Motorcycle RVT1000R RC51
+$15,604.35
+$15,604.35
+$15,604.35
+2001 Honda TRX 350 FE
+$8,300
+$8,300
+$8,300
+2001 TRX500 Rubicon
+$11,212.50
+$11,212.50
+Business Assets
+Costs of items acquired 1999
+$16,013.00
+$16,013.00
+$16,013.00
+$16,013.00
+Costs of items acquired 2000
+$16,013.00
+$16,013.00
+$16,013.00
+Costs of items acquired 2001
+$45,789
+$45,789
+Replacement of Hardware & Software
+$10,000
+$10,000
+Total Assets
+$93,000
+$99,524.35
+$139,007.35
+$220,251.85
+$220,251.85
+ANALYSIS OF LIABILITIES
+December 31, 1998
+December 31, 1999
+December 31, 2000
+December 31, 2001
+December 31, 2002
+Personal Liabilities
+CIBC Visa Balance
+($9.00)
+Loan 1995 Camaro Convertible
+$8,000
+$8,000
+Loan 1995 Jeep Grand Cherokee
+$15,000
+$15,000
+Loan from Spouse for Camaro
+$10,000
+$10,000
+$10,000
+Business Liabilities
+0.00
+0.00
+0.00
+0.00
+Nil
+Total Liabilities
+$32,991
+$33,000
+$10,000
+$0.00
+$0.00
+NET WORTH ANALYSIS
+December 31, 1998
+December 31, 1999
+December 31, 2000
+December 31, 2001
+December 31, 2002
+Net Worth
+$66,533.35
+$75,854.35
+$129,007.35
+$220,251.85
+$220,251.85
+Closing Net Worth Previous year
+$66,533.35
+$75,854.35
+$129,007.35
+$220,251.85
+Increase or (Decrease) in Net Worth
+$9,421
+$53,053.00
+$91,244.50
+ADJUSTMENTS TO NET WORTH
+December 31, 1998
+December 31, 1999
+December 31, 2000
+December 31, 2001
+December 31, 2002
+Adjustments
+Additions
+Personal expenditures
+$11,287
+$11,593
+$11,890
+$12,155
+Personal Income Tax /CPP Payments
+$3,901.91
+$8,712.38
+$7,500
+$4,873.16
+Legal Bills paid
+$11,000
+HST Assessment by Auditor and Paid
+$9,183.89
+Non-deductible loss on 1999 Yamaha PW 80
+$225.00
+Non-deductible loss on 1999 Yamaha Breeze
+$560.00
+Total Adjustments
+$15,188.91
+$29,714.27
+$30,950.00
+$17,028.16
+Deductions
+GST Tax Credit
+$152.00
+$76.00
+$125.00
+---
+Total Adjustments to Deduct
+$152.00
+$76.00
+$125.00
+$---
+DISCREPANCY PER NET WORTH
+December 31, 1998
+December 31, 1999
+December 31, 2000
+December 31, 2001
+December 31, 2002
+Total Income per Net Worth
+$24,457.91
+$82,691.27
+$122,069.50
+$17,028.16
+Less: Total Reported Income
+$23,679.00
+$36,884.00*
+$7,745.00
+$5,196.00
+Discrepancy per Net Worth
+$778.91
+$45,807.27
+$114,324.50
+$11,832.16
+* Amount as determined by the arbitrary assessment pursuant to subsection 152(7) of the Act.
+Schedule B
+GST/HST – Net Worth Statements
+Period: January 1, 2000 - December 31, 2002
+2000
+2001
+2002
+Increase (decrease) in Net Worth
+$53,053.00
+$91,244.50
+-
+Adjustments to arrive at net tax for GST/HST Purposes
+Additions to arrive at gross revenues
+Business Expenses
+$15,807.00
+$6,169.11
+$10,500.00
+Personal Expenditures
+11,593.00
+11,890.00
+12,155.00
+Personal Income Tax/CPP Payments
+8,712.38
+7,500.00
+4,873.16
+Legal Bills Paid
+-
+11,000.00
+-
+HST Audit Assessment Paid
+9,183.89
+-
+-
+Non-deductible loss on 1999 Yamaha PW80
+225.00
+-
+-
+Non-deductible loss on 1999 Yamaha Breeze
+-
+560.00
+-
+Total Consideration on Supplies Received
+$45,521.27
+$37,119.11
+$27,528.16
+Deductions (transactions not subject to GST/HST)
+EI Benefits
+-
+-
+$2,891.00
+GST Tax Credit
+76.00
+125.00
+-
+Total Deductions (transactions not subject to GST/HST)
+76.00
+125.00
+2,891.00
+Total Consideration for Taxable Supplies
+98,498.27
+128,238.11
+24,637.16
+HST collectible reported on HST returns
+7,148.00
+-
+-
+Total consideration including HST for taxable supplies
+105,646.27
+128,238.11
+24,637.16
+Actual HST Collectible (15/115)
+13,779.95
+16,726.71
+3,213.16
+Deduct ITC allowable on supplies used per returns
+2,682.00
+-
+-
+Net Tax Calculated
+11,097.95
+16,726.71
+3,213.16
+Net tax paid (refund) reported per GST/HST returns
+4,465.00
+-
+-
+Discrepancy in net tax paid (refund) per net worth
+6,632.95
+16,726,71
+3,213.54
+CITATION: 2010 TCC 218
+COURT FILE NOS.: 2006-3485(IT)G and 2006-3693(GST)I
+STYLE OF CAUSE: BASIL CHRONIS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sydney, Nova Scotia
+DATE OF HEARING: February 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: May 4, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine M.G. McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

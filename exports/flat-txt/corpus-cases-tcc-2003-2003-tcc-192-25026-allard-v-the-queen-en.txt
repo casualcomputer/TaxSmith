@@ -1,0 +1,71 @@
+Title: Allard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25026/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-192-25026-allard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-04-03
+
+# Allard v. The Queen
+
+- Citation: 2003 TCC 192
+- Decision date: 2003-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2528, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Allard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-03
+Neutral citation
+2003 TCC 192
+File numbers
+2002-1725(IT)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1725(IT)I
+BETWEEN:
+MANON LUCIE ALLARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+I request that the Reasons for Judgment delivered at the hearing at the Tax Court of Canada, 500 Place d'Armes, Montréal, Quebec, on February 12, 2003, and revised on April 3, 2003, be filed.
+Signed at Ottawa, Canada, this 3rd day of April 2003.
+"P. R. Dussault"
+J.T.C.C.
+Translation certified true
+on this 25th day of May 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC192
+Date: 20030403
+Docket: 2002-1725(IT)I
+BETWEEN:
+MANON LUCIE ALLARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(delivered orally from the bench
+on February 12, 2003, at Montréal, Quebec,
+and revised on April 3, 2003)
+P.R. Dussault, J.T.C.C.
+[1] I am going to allow the appeal for March 2001. There are indications that Marc Allard still had the same address, even in May, that is, two months later. The evidence is in fact conflicting; there is no doubt that someone is lying. I am not going to spend two weeks wondering which one is lying. I think that the appellant testified; her testimony is supported by that of her son, who nonetheless acknowledged that he had made an earlier statement to the contrary. He said he had made that statement not because he was forced to do so but because he felt forced to do so. He went back on that statement and now says that, beginning on December 23, 2000, he was living primarily at the appellant’s house and took his meals primarily at her house. For this reason, and given that only the month of March 2001 is at issue, I accept the testimony of the appellant and that of her son.
+[2] As for Mr. Desrochers, his memory is short for some things and long for others. It seems to me that a person ought to remember if he was sued as a father for payment of support. Furthermore, when a person categorically states that on a number of occasions that person bought clothes for a child, that person should, at a minimum, remember one piece or item that he or she may have bought, even if that person does not remember the price.
+[3] The appeal is allowed.
+Signed at Ottawa, Canada, this 3rd day of April 2003.
+"P. R. Dussault"
+J.T.C.C.
+Translation certified true
+on this 25th day of May 2004.
+Sophie Debbané, Revisor

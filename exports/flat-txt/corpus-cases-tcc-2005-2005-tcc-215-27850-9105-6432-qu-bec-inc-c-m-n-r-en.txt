@@ -1,0 +1,204 @@
+Title: 9105-6432 Québec Inc. c. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27850/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-215-27850-9105-6432-qu-bec-inc-c-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-03-24
+
+# 9105-6432 Québec Inc. c. M.N.R.
+
+- Citation: 2005 TCC 215
+- Decision date: 2005-03-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 325, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9105-6432 Québec Inc. c. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-24
+Neutral citation
+2005 TCC 215
+File numbers
+2004-4158(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-4158(EI),
+BETWEEN:
+9105-6432 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 17, 2005, at Montreal, Quebec
+Before: The Honourable Lucie Lamarre, Judge
+Appearances:
+Counsels for the Appellant:
+Gerardo Nicolo and
+Jean-François Girard
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue dated September 16, 2004, for the period from January 5, 2001, to February 1, 2003, is amended on the grounds that the worker, Jean-Paul Berthiaume, did not, pursuant to paragraph 6(g) of the Employment Insurance Regulations, hold insurable employment during the period at issue.
+Signed at Ottawa, Canada, this 23rd day of March 2005.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true on this 9th day of January 2006.
+Garth McLeod, Translator
+Docket: 2004-4159(EI),
+BETWEEN:
+9105-6432 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 17, 2005, at Montreal, Quebec
+Before: The Honourable Lucie Lamarre, Judge
+Appearances:
+Counsels for the Appellant:
+Gerardo Nicolo and
+Jean-François Girard
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue dated September 17, 2004, for the period from June 15, 2001, to February 6, 2004, is amended on the grounds that the worker, Iosif Neda, did not, pursuant to paragraph 6(g) of the Employment Insurance Regulations, hold insurable employment during the period at issue.
+Signed at Ottawa, Canada, this 23rd day of March 2005.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true on this 9th day of January 2006.
+Garth McLeod, Translator
+Docket: 2004-4228(EI)
+BETWEEN:
+9105-6432 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 17, 2005, at Montreal, Quebec
+Before: The Honourable Lucie Lamarre, Judge
+Appearances:
+Counsels for the Appellant:
+Gerardo Nicolo and
+Jean-François Girard
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue dated September 17, 2004 for the period from May 14, 2001 to February 13, 2004 is amended on the grounds that the worker, Guy Fleurent, did not, pursuant to paragraph 6(g) of the Employment Insurance Regulations, hold insurable employment during the period at issue.
+Signed at Ottawa, Canada, this 23rd day of March 2005.
+"Lucie Lamarre"
+Lamarre J
+Translation certified true on this 9th day of January 2006.
+Garth McLeod, Translator
+Docket: 2004-4229(EI)
+BETWEEN:
+9105-6432 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 17, 2005, at Montreal, Quebec
+Before: The Honourable Lucie Lamarre, Judge
+Appearances:
+Counsels for the Appellant:
+Gerardo Nicolo and
+Jean-François Girard
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue dated September 16, 2004 for the period from February 6, 2001 to February 1, 2003 is amended on the grounds that the worker, Jean Rochefort, did not, pursuant to paragraph 6(g) of the Employment Insurance Regulations, hold insurable employment during the period at issue.
+Signed at Ottawa, Canada, this 23rd day of March 2005.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true on this 9th day of January 2006.
+Garth McLeod, Translator
+Reference: 2005CCI215
+Date: 20050323
+Docket: 2004-4158(EI), 2004-4159(EI),
+2004-4228(EI) and 2004-4229(EI)
+BETWEEN:
+9105-6432 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] These are appeals against decisions of the Minister of National Revenue ("Minister") in which it was decided that four workers who were in the service of the Appellant during the periods set out below held insurable employment pursuant to paragraph 6(g) of the Employment Insurance Regulations ("Regulations"). These four workers and the periods during which they were in the service of the appellant are listed as follows:
+• Iosif Neda, from June 15, 2001, to February 6, 2004;
+• Jean-Paul Berthiaume, from January 5, 2001, to February 1, 2003;
+• Guy Fleurent, from May 14, 2001, to February 13, 2004;
+• Jean Rochefort, from February 6, 2001, to February 1, 2003.
+[2] Paragraph 6(g) of the Regulations reads as follows:
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+...
+g) Employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+[3] It is not disputed that, during the periods at issue, the Appellant, who was doing business under the name of "Service de gestion Option-Ressources enr." was a placement agency, and the workers were paid by the Appellant.
+[4] Neither is it disputed that, saving paragraph 6(g) of the Regulations, the four workers in question were considered self-employed persons. The only issue is whether these workers were performing their work under the direction and control of the clients for whom they were called upon to provide services, at the request of the placement agency, the Appellant. If so, they will be deemed to have held insurable employment within the meaning of paragraph 6(g) of the Regulations.
+[5] Three of the four workers appeared to give evidence, as did the owner of the agency, Réjean Beauregard.
+[6] Iosif Neda described himself as a general building maintenance professional. He has been involved in the technical maintenance of buildings for the past 25 years. He works alone, for himself. In 2001, he contacted the Appellant, who had advertised in the newspapers for the services of a general handyman. After meeting with the owner, he signed an agreement on June 15, 2001 with the Appellant. This agreement is entitled "sub-contract". Mr. Neda undertook to perform maintenance and repair duties for the Centre d'Accueil de Lachine at an hourly rate of $14. The contract was for six months, and was renewable. It stipulated that the Appellant could terminate the agreement if the client was dissatisfied with the services provided, or if the client no longer needed his services. In his testimony, Mr. Neda explained that he was not required to accept work under a contract with the Appellant. In the case of the contract with the Centre d'Accueil de Lachine, he was hired as a day labourer. He was asked to be present from 8 am to 4:45 pm. He did not report his arrivals or departures to the Centre d'Accueil, but he did comply with the schedule. He would receive requisitions from the Department of Technical Services at the Centre d'Accueil and carried out his assigned tasks without any supervision, since in any event no one had the necessary expertise to verify what he was doing. He virtually never met the head of this department. Unless there was an emergency, he performed his tasks at his own pace. He took his lunch break when it suited him and took coffee breaks if he wanted to. He was the one who decided if he would take holidays, without having to obtain authorization from anyone. The situation was different for another person who worked with him and who was an employee of the Centre d'Accueil. That other person had to submit reports (for work, vacations) whereas this was not the case with Mr. Neda.
+[7] For his remuneration, he kept a record of his hours of work and billed the Appellant, who paid him by cheque. If he was sick, he would notify the Appellant, who informed the Centre d'Accueil.
+[8] Jean-Paul Berthiaume has worked as a painter for the past 30 years. He has always invoiced for his work under the name of Paul's Painting. He used to live in Alberta. When he came to Quebec, he placed advertisements in the newspapers. The Appellant then contacted him. He signed the same type of agreement as we have seen previously in the case of Mr. Neda. In his case, he was hired to do painting at the Villa Medica Hospital. His hourly rate was $14. A maintenance employee of the hospital told him where he was to paint. Mr. Berthiaume provided his own equipment and did the work according to his own schedule. If he could not do it within the 8 am to 5 pm timeframe (for example, if he had to work on another contract), he could work in the evening or on weekends. He had the keys to the places that he was to paint. He was the one who decided on his lunch hours and his breaks, and he took his vacations when it suited him.
+[9] He was almost always alone when he was working. From time to time, the hospital maintenance employee would come to check that the work was done properly.
+[10] He recorded his hours of work on a sheet provided by the hospital, and the hospital sent this sheet to the Appellant once a week. He himself invoiced the Appellant directly for his hours and was remunerated on that basis. He was never obliged to accept a contract for the Appellant.
+[11] Guy Fleurent is a driver for the disabled. He worked for 23 years driving the disabled under contracts with the City of Laval. Subsequently, on May 14, 2001, he signed with the Appellant the same type of agreement as the two other workers described above. Under this agreement, he agreed to work as a driver for the Berthiaume du Tremblay Residence at an hourly rate of $15. He stated that he also worked for other centres. He was paid by the Appellant for workdays that began at 8 am and ended at 4:30 pm. Employees of the residence would give him a list of the patients to be picked up from their homes and brought to the residence. He was to take them back home the same day after their treatment. Mr. Fleurent inspected the vehicle each morning, collected his itinerary and fetched the patients at the time specified by the caseworkers at the residence. Very often, he was free from 11 am onwards and did not return until the afternoon. He organized his work on his own, without any supervision. If he wanted to take vacations, he would advise the Appellant, who was responsible for replacing him at the residence if necessary. He would himself invoice the Appellant for his hours and the residence did not check them.
+[12] Mr. Fleurent has now become a regular employee of the residence. He is now required to dress in accordance with certain standards, which was not the case when he was working under contract with the Appellant. He can no longer leave the premises in the middle of the day, as he did before when he was working with the Appellant, when there was no transportation work to be done. He is now required to maintain and inspect the vehicle and to eat with the patients at noon. His vacations are now determined by the residence. His performance is now evaluated, whereas that was never the case with the Appellant.
+[13] Lastly, Réjean Beauregard gave evidence to explain the situation of Jean Rochefort, the fourth worker, who was unable to attend the hearing. Mr. Rochefort signed, on February 6, 2001, the same type of contract with the Appellant as the three other workers in this case, to perform maintenance and repair work for the C.H.S.L.D. Mance Decary long-term care facililty. Mr. Rochefort is a plumber and his hourly rate of pay was $20. Mr. Rochefort looked after three facilities for this centre. The caretaker of each of the three facilities would show him the work that needed to be done and he would then perform the work at his own pace. He could work during the day or in the evening. Initially, Mr. Rochefort spent three to four days a week working for this client. Subsequently, he went there less than three days a week. He had no fixed schedule and took his vacations when he wanted. No one supervised his work. If he was unable to handle emergencies, the institution would contact a plumbing company directly.
+[14] Mr. Beauregard explained that, when he referred people to clients, and these workers were replacing employees who were accredited by the institution in question, and were working under the direction of a department head, he regarded these people also as employees.
+[15] However, when he was referring longer-term workers, who were not covered by the accreditation of the institutions in question, he could sub-contact with these workers. They were not supervised and that is why Mr. Beauregard and the worker in question agreed to work on a sub-contract basis, as the workers did not regard themselves as employees.
+[16] Some institutions would agree to keep records of the workers' hours and to forward them to the Appellant so that the Appellant could subsequently bill the institution. The Appellant directly paid the workers with whom he had contracts.
+[17] Mr. Beauregard said that there were 76 employees who worked for the Appellant and four sub-contractors, namely the workers at issue in this case.
+[18] Counsel for the Appellant argued that the evidence demonstrated that the institutions with whom the Appellant did business neither directed nor controlled the work done by the four workers in question. With the possible exception of control of quality and results, it was not possible to talk of real, effective control. No one told these workers how to do their work. They were regarded as sub‑contractors who each provided expertise in their own field. These workers were able to refuse a contract at any time, were free in terms of their schedules and were not supervised in any way. The fact that the work was carried out at a specific location within the framework of a specific work schedule cannot automatically mean that control was exercised over their work. Whether the individual is an employee or an independent contractor, there are some constraints in terms of place and time. This is accordingly not a criterion that can be used to establish a relationship of subordination.
+[19] Counsel for the Respondent noted that pursuant to paragraph 6(g) of the Regulations, a self-employed worker is eligible for Unemployment Insurance if he or she meets certain conditions. She stated that it was necessary to give a broad interpretation to the term "control" used in paragraph 6(g) of the Regulations, a broader interpretation than that given to the control required to establish the existence of an employment contract. Here, a degree of control is exercised by the Appellant's clients, since they control the quality of the work and can terminate a contract if they are not satisfied.
+[20] In my opinion, paragraph 6(g) of the Regulations does not require a different or broader interpretation of the concept of control than in the determination of whether one is dealing with a contract of employment or a contract for services.
+[21] The criterion that one finds at paragraph 6(g) of the Regulations, which is working under the direction and control of a client of the agency, is the same requirement as is found in Article 2085 of the Civil Code of Quebec to determine whether one is dealing with a contract of work (employment contract). In fact, Article 2085 stipulates that a contract of work:
+Art. 2085. [...] is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[22] The concept of control is the same. It cannot, in my view, entail a broader interpretation because it is used to establish whether a self‑employed person becomes insurable by virtue of the application of paragraph 6(g) of the Regulations.
+[23] Recent case law has established that it is possible to talk of control when orders and instructions are given regarding the way in which the work is to be performed (see Vulcain Alarme Inc. v. Canada (M.N.R.), [1999] F.C.J. No. 749, paragraph 7 (Q.L.)). Control regarding the places in general and the specific places where the work is to be performed, or the fact that the tasks are performed according to a specified schedule and remuneration, do not necessarily lead to the existence of a relationship of subordination between the parties (see Poulin v. Canada (M.N.R.), 2003 FCA 50, paragraphs 16 and 19). It is also quite normal that the work performed under a service contract is also subjected to controls in respect of its execution, productivity and quality. (See Poulin, op. cit., paragraph 16). Exercising this type of control does not mean that the worker is subordinate, or is under the control and direction of the person who exercises it. The contractual intention of the parties is also an important factor (see Wolf v. Canada (A.C.), 2002 FCA 96, paragraph 122). Thus, if the worker chooses to offer his services as an independent contractor and the business that hires him chooses independent contractors to perform certain work, and they can terminate their contract at any time, and the corporation doing the hiring does not treat its consultants in its daily operations in the same manner as it treats its employees, it must be concluded that the working relationship begins and is maintained in accordance with the principle that there is no control or subordination (see Wolf, op. cit., at paragraph 118).
+[24] In my view, this is precisely the case here. The workers signed an agreement with the Appellant by which they agreed to provide services to its clients on a contractual basis. The evidence has revealed that each of the institutions for which the workers provided services exercised no control over the performance of their work. These workers were independent in terms of their schedule and in terms of the way in which the work assigned to them was carried out. They were not treated in the same way as the employees of these institutions.
+[25] One can thus not say that they were under the direction and control of the clients of the Appellant. I am thus inclined to allow the appeals and to set aside the decisions of the Minister on the basis that the workers in question did not, pursuant to paragraph 6(g) of the Regulations, hold insurable employment during the periods at issue.
+Signed at Ottawa, Ontario, this 23rd day of March 2005.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true on this 9th day of January 2006.
+Garth McLeod, Translator
+CITATION: 2005CCI215
+COURT FILE NO: 2004-4158(EI), 2004-4159(EI),
+2004-4228(EI) and 2004-4229(EI)
+STYLE OF CAUSE: 9105-6432 QUÉBEC INC. and M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING March 17, 2005
+REASONS FOR JUDGMENT BY: The Honourable Lucie Lamarre, Judge
+DATE OF JUDGMENT: March 23, 2005
+APPEARANCES:
+Counsels for the Appellant:
+Gerardo Nicolo and
+Jean-François Girard
+Counsel for the Respondent:
+Marie-Aimée Cantin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gerardo Nicolo and
+Jean-François Girard
+Firm:
+For the Respondent John H. Sims, QC.
+Deputy Attorney General of Canada
+Ottawa, Ontario

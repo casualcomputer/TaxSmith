@@ -1,0 +1,117 @@
+Title: Heaman c. Ressources Humaines
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27110/index.do
+Corpus path: corpus/cases/tcc/2005/2006-cci-106-27110-heaman-c-ressources-humaines-fr.md
+Document type: case_law
+Last modified: 2005-02-17
+
+# Heaman c. Ressources Humaines
+
+- Citation: 2006 CCI 106
+- Decision date: 2005-02-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 915, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heaman c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-17
+Référence neutre
+2006 CCI 106
+Numéro de dossier
+2004-3988(OAS)
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2004‑3988(OAS)
+ENTRE :
+BERNICE HEAMAN,
+appelante,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 mai 2005 à Brandon (Manitoba)
+Devant : L’honorable juge R.D. Bell
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimé :
+Me Penny L. Piper
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi sur la sécurité de la vieillesse pour l’année de référence 2000 et pour la période de versement commençant en juillet 2001 et se terminant en juin 2002 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 17e jour de février 2006.
+« R.D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 15e jour de mai 2006.
+Aleksandra Koziorowska
+Référence : 2006CCI106
+Date : 20050217
+Dossier : 2004‑3988(OAS)
+ENTRE :
+BERNICE HEAMAN,
+appelante,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Motifs du jugement
+Le juge Bell
+QUESTIONS EN LITIGE
+[1] Les questions en litige sont les suivantes :
+1. Aux fins de calcul du Supplément de revenu garanti (le « SRG ») de l’époux de l’appelante et de l’allocation de conjoint de l’appelante, est‑ce que le montant de 2 133,01 $, versé à l’appelante au titre de la parité salariale à l’égard de ses années d’imposition 1993 et 1994 et reçu par elle lors de son année d’imposition 2002, peut être inclus dans le revenu de l’appelante pour l’année d’imposition 2000?
+2. Aux fins de calcul de ces deux prestations, est‑ce que l’époux de l’appelante a le droit d’effectuer une estimation de son revenu pour « l’année civile de base » (2000) sans que le montant réel de son revenu et de celui de l’appelante pour cette période ait été déterminé?
+LES FAITS
+[2] L’appelante a témoigné qu’elle avait travaillé pour le gouvernement fédéral en 1993 et en 1994, et qu’elle a pris sa retraite en 1994.
+[3] Le 15 septembre 2000, l’appelante a reçu un règlement en matière de parité salariale de 2 133,01 $, qui correspondait à un rajustement de salaire rétroactif se rapportant à son ancien emploi, à savoir l’emploi qu’elle a occupé pendant les années 1993 et 1994.
+[4] En mai 2001, l’appelante a rempli une Déclaration du revenu prévu après la retraite pour l’année 2001 en cochant les cases qui correspondaient aux paiements reçus à titre de revenu de pension, d’assurance‑emploi ou d’indemnité d’accident du travail, et en spécifiant qu’elle avait reçu une somme forfaitaire à titre de règlement en matière de parité salariale en l’an 2000.
+[5] Au moyen d’une lettre datée du 5 septembre 2001, le ministre du Développement des ressources humaines a fait savoir à l’appelante qu’elle ne pouvait pas inclure le règlement en matière de parité salariale qu’elle avait reçu en l’an 2000 dans sa Déclaration du revenu prévu parce qu’il ne s’agissait pas d’un paiement forfaitaire rétroactif versé à titre de revenu de pension, d’assurance‑emploi ou d’indemnité d’accident du travail ni d’un paiement forfaitaire remplaçant un versement mensuel ou périodique devant être effectué à ce titre dans l’avenir.
+ANALYSE ET CONCLUSIONS
+[6] Le terme « année civile de base » renvoie à l’année civile précédant la période de paiement en cours. En l’espèce, la période de paiement en cours commençait le 1er juillet 2001 et se terminait le 30 juin 2002.
+[7] Le SRG est une prestation mensuelle versée aux personnes âgées à faible revenu qui reçoivent une pension de la sécurité de la vieillesse et qui sont des résidents du Canada. Une allocation de conjoint est une prestation mensuelle versée, à partir d’un certain âge, à des résidents canadiens ayant un faible revenu qui, comme l’appelante, sont mariés et dont le conjoint a le droit de recevoir une pension de la sécurité de la vieillesse et le SRG. Ces deux prestations sont calculées en tenant compte du revenu combiné de l’appelante et de son époux pour l’année civile de base. L’appelante a cherché à décrire la somme de 2 133,01 $ comme étant un montant qui devait être déduit de leur revenu combiné, ce qui aurait pour résultat une hausse du SRG et de l’allocation de conjoint. Elle l’a fait parce que le montant se rapportait aux deux années d’imposition antérieures, à savoir celles où elle travaillait pour le gouvernement fédéral, et non à l’année de réception. Toutefois, les parties pertinentes de l’article de la Loi sur la sécurité de la vieillesse (la « Loi »), qui traire de la possibilité de produire une Déclaration du revenu prévu, sont ainsi libellées :
+14.(2) S’il cesse toute activité rémunérée […] pendant la période de paiement en cours, le demandeur […] peut […] produire une […] déclaration indiquant son revenu estimatif, indépendamment de celui que lui procure l’exercice de l’activité susmentionnée, pour l’année civile au cours de laquelle se produit la cessation. Son revenu pour l’année de référence correspond alors au total des éléments suivants :
+a) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle‑ci au titre de l’activité […]
+Il est évident, vu ce qui précède, que puisque l’appelante a pris sa retraite en 1994 et que le montant en cause a été reçu en l’an 2000, l’appelante ne pouvait pas se prévaloir de cette option.
+[8] Le mot « revenu » est ainsi défini à l’article 2 de la Loi sur la sécurité de la vieillesse :
+[…] revenu d’une personne pour une année civile, calculé en conformité avec la Loi de l’impôt sur le revenu […]
+L’article 5 de la Loi de l’impôt sur le revenu énonce, en partie, ce qui suit :
+[…] le revenu d’un contribuable, pour une année d’imposition, tiré d’une charge ou d’un emploi est le traitement, le salaire et toute autre rémunération […] que le contribuable a reçus au cours de l’année.
+[9] Il n’existe aucune disposition législative permettant d’inclure un revenu qui se rapporte à une période antérieure dans le calcul du revenu pour cette même période. Il est inconcevable qu’un revenu attribué à une période antérieure puisse être exonéré d’impôt de cette façon. Le montant de 2 133,01 $ a clairement été « reçu »[1] en l’an 2000 et il doit donc être inclus dans le calcul du revenu pour cette année.
+[10] Les dispositions législatives, les règlements, les règles et les formulaires régissant les prestations de la sécurité de la vieillesse et les autres prestations d’assistance sociale sont beaucoup trop complexes. Ils sont pratiquement impossibles à comprendre. Non seulement ils sont complexes, mais la façon dont ils sont rédigés et présentés laisse elle aussi à désirer. Toutes les dispositions qui touchent les personnes âgées devraient être rédigées en termes simples et faciles à comprendre. Si elles l’étaient, des contribuables tels que l’appelante n’auraient pas à gaspiller temps et argent pour tenter de déterminer leurs droits et obligations sur le plan financier.
+[11] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de février 2006.
+« R.D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 15e jour de mai 2006.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2006CCI106
+Nº DU DOSSIER DE LA COUR : 2004‑3988(OAS)
+INTITULÉ : Bernice Heaman et Le ministre du Développement des ressources humaines
+LIEU DE L’AUDIENCE : Brandon (Manitoba)
+DATE DE L’AUDIENCE : Le 30 mai 2005
+MOTIFS DU JUGEMENT : L’honorable juge R.D. Bell
+DATE DU JUGEMENT : Le 17 février 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimé :
+Me Penny L. Piper
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Voir Lorrain c. R., [2004] 3 C.T.C. 2313.

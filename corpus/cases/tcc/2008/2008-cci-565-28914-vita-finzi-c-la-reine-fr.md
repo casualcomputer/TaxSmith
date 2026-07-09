@@ -1,0 +1,173 @@
+---
+title: "Vita-Finzi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28914/index.do"
+last_modified: "2008-10-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 565"
+citation2: ""
+neutral_citation: "2008 CCI 565"
+decision_date: "2008-10-08"
+language: "fr"
+item_id: "28914"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1422
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:18:42.016000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bae39b881a2b15ed06a03425d86acb5834267691fbd3e2b8bdf406e515dcfa7b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vita-Finzi c. La Reine
+
+- Citation: 2008 CCI 565
+- Decision date: 2008-10-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1422, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vita-Finzi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-08
+Référence neutre
+2008 CCI 565
+Numéro de dossier
+2007-4012(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4012(IT)I
+ENTRE :
+ALEX VITA-FINZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 avril 2008, à Toronto (Ontario)
+Devant : L’honorable juge J. E. Hershfield
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Représentantes de l’intimée :
+Nikki Kumar (stagiaire)
+Me Lesley L’Heureux
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 sont rejetés, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Winnipeg (Manitoba), ce 8e jour d’octobre 2008.
+« J. E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 26e jour de février 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2008CCI565
+Date : 20081008
+Dossier : 2007-4012(IT)I
+ENTRE :
+ALEX VITA-FINZI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hershfield
+[1] L’appelant a inclus les frais de scolarité payés à l’école privée de sa fille (« l’école privée ») en 2005 et en 2006 à titre de « frais médicaux » dans le calcul du crédit d’impôt non remboursable brut auquel il avait droit pour chacune de ces années. La déduction a été refusée au motif que de tels frais n’étaient pas des « frais médicaux » au sens du paragraphe 118.2(2) de la Loi de l’impôt sur le revenu (« la Loi »). L’appelant affirme qu’il s’agit bien de « frais médicaux » au sens de l’alinéa 118.2(2)e) de la Loi.
+[2] Selon l’alinéa 118.2(2)e) de la Loi, les frais médicaux d’un particulier comprennent les frais payés :
+e) pour le soin dans une école, une institution ou un autre endroit – ou le soin et la formation – du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a), qu’une personne habilitée à cette fin atteste être quelqu’un qui, en raison d’un handicap physique ou mental, a besoin d’équipement, d’installations ou de personnel spécialisés fournis par cette école ou institution ou à cet autre endroit pour le soin – ou le soin et la formation – de particuliers ayant un handicap semblable au sien;
+[3] L’intimée a refusé à l’appelant la déduction en cause en se fondant sur l’affirmation voulant que trois des conditions prévues par cette définition n’aient pas été remplies, à savoir l’exigence relative à l’existence d’un handicap, l’exigence voulant que les frais aient été payés à une institution pour le soin et la formation de la personne concernée, et l’obligation de produire une attestation.
+Les faits
+[4] Trois témoins ont déposé à l’audience : le directeur de l’école privée, une coordonnatrice de l’éducation spécialisée de la Commission scolaire du district de Peel (« la coordonatrice »), et l’appelant. Leurs témoignages corroborent les conclusions de fait suivantes :
+· La fille de l’appelant souffrait de troubles d’apprentissage résultant d’un handicap lié au développement;
+· Elle est entrée en première année dans le système scolaire public en 2003, toutefois, dans la deuxième moitié de sa première année, ses parents l’ont retirée de l’école qu’elle fréquentait parce qu’ils n’étaient pas satisfaits de ses progrès, parce qu’ils étaient d’avis que l’école n’avait pas correctement évalué ses besoins et que, de ce fait, elle ne recevait pas l’attention particulière dont elle avait besoin;
+· Elle a ensuite été inscrite dans une autre école, mais ses parents l’en ont retirée à la fin de la deuxième année parce qu’ils étaient toujours inquiets et mécontents de la capacité de cette école à fournir à leur fille les installations scolaires adaptées à ses besoins particuliers; ils l’ont alors inscrite dans une troisième école, l’école privée;
+· Elle répondait aux conditions générales d’admission de l’école privée, où on lui a accordé une attention spéciale tous les jours;
+· Les progrès qu’elle a accomplis ont excédé les résultats auxquels on aurait pu s’attendre si aucune attention spéciale de la même qualité ne lui avait été accordée;
+· La population étudiante des écoles fréquentées par la fille de l’appelant, et plus particulièrement de l’école privée, était composée d’enfants qui n’avaient pas de besoins spéciaux nécessitant une formation ou des soins spéciaux. En fait, sur les 250 élèves constituant la population étudiante de l’école privée, seuls quelque 35 enfants auraient été considérés comme ayant besoin d’une attention particulière et y auraient eu accès;
+· À l’école privée, un seul membre du personnel enseignant avait une formation en éducation spécialisée et offrait son assistance aux quelque 35 enfants qui avaient besoin d’une aide spéciale et qui la recevaient tous les jours. Aucune salle de classe particulière n’était prévue pour les enfants qui recevaient une attention spéciale;
+· Les parents étaient certains, si ce n’est absolument convaincus, que le programme d’éducation spécialisée de l’école privée était meilleur que celui des autres écoles, et que c’était grâce à lui que leur fille avait accompli des progrès scolaires remarquables;
+· Même si la Couronne a contesté la recevabilité du rapport d’évaluation psychologique (« le rapport ») rédigé par le docteur Estes Moustacalls, un pédopsychologue, qui avait reçu les parents pour une consultation et avait fait passer des tests individuels à leur fille à quatre reprises au début de l’année 2005, les deux parties se sont néanmoins fondées sur certains extraits de ce rapport;
+· En l’espèce, les frais de scolarité en cause sont ceux que l’appelant a payés à l’école privée pour la troisième année de scolarité de sa fille. Les deux parties s’accordent pour dire que les frais de scolarité en question ne peuvent être fractionnés de manière à en attribuer une partie aux frais médicaux.
+Les questions en litige
+[5] Les questions en litige sont les suivantes :
+· La fille de l’appelant était‑elle atteinte d’un handicap physique ou mental nécessitant les installations et le personnel spécialisés fournis par l’école privée comme l’exige l’alinéa 118.2(2)e)?
+· L’école fournissait‑elle à la fille de l’appelant les installations et le personnel requis pour la formation d’un particulier atteint d’un handicap donné (en tenant pour acquis qu’il s’agissait d’un handicap admissible)?
+· L’exigence de production d’une attestation prévue par l’alinéa 118.2(2)e) a‑t‑elle été remplie; autrement dit, le rapport d’évaluation psychologique remplit‑il cette condition?
+Analyse
+[6] Il n’y a rien dans les témoignages que j’ai entendus qui m’empêcherait de conclure que la fille de l’appelant souffrait de troubles d’apprentissage résultant d’un handicap lié au développement, et que l’école privée lui a fourni les installations et le personnel spécialisés qu’il fallait pour faire face à ce handicap. Ces mêmes témoignages sont également compatibles avec la conclusion selon laquelle les autres écoles qu’elle a fréquentées, y compris l’école publique, où la scolarité était gratuite, fournissaient les installations et le personnel spécialisés pour faire face à son handicap. Toutefois, je ne crois pas que de telles conclusions soient pertinentes. Je ne crois pas non plus que le fait que l’expérience vécue par l’appelant l’ait amené à croire que les autres écoles fréquentées par sa fille n’offraient pas les installations et le personnel adaptés pour lui offrir l’encadrement pédagogique spécialisé dont elle avait besoin soit davantage pertinent. Le fait que la coordonnatrice ait peut-être eu raison de déclarer que les comparaisons effectuées entre le succès apparent d’un programme et les insuffisances apparentes d’un autre programme ne donnaient pas un tableau exact de la situation (étant donné que chaque école avait travaillé avec l’enfant à un âge et à un stade d’apprentissage et de développement différents) n’est pas non plus pertinent. La coordonnatrice était d’avis que les évaluations préliminaires de la fille de l’appelant, effectuées en première année, étaient conformes à ce à quoi on pouvait s’attendre, et qu’en temps voulu, l’école publique aurait davantage tenu compte du fait qu’elle avait besoin d’un programme spécial, et aurait alors eu davantage recours à ses installations et à ses professeurs spécialisés pour répondre à ce besoin; encore une fois, cela ne m’apparaît pas pertinent.
+[7] En fait, je suis d’avis qu’aucune comparaison n’est pertinente à l’exception de celle‑ci : si j’étais convaincu que les installations et le personnel spécialisés de l’école publique satisfaisaient aux exigences de la disposition en cause, je devrais alors conclure que l’école privée y satisfaisait également, et réciproquement, considérant que je suis convaincu que les installations et le personnel des deux écoles sont largement similaires. Le fait qu’une école donnée, telle que l’école privée, ait une population étudiante plus réduite, permette ainsi aux professeurs de passer plus de temps en tête‑à‑tête avec chaque élève, et puisse ensuite se glorifier d’obtenir de meilleurs résultats que les autres écoles auprès des enfants atteints de troubles d’apprentissage, ne permettrait normalement pas de la considérer comme différente. Pour cela, il faudrait par exemple que l’école en question soit spécialisée dans la prestation d’un enseignement adapté aux besoins des enfants atteints de troubles d’apprentissage ou souffrant de problèmes de développement mental. Je suis convaincu que l’école privée n’était pas spécialisée dans la prestation d’un tel enseignement. D’après moi, le fait que quelque 35 enfants, sur une population étudiante de 250, soient identifiés comme nécessitant une attention particulière et la reçoivent, ne signifie pas forcément que cette école accorde à ces enfants le type d’attention qui pourrait la différencier des autres écoles.
+[8] Par ailleurs, la disposition en cause n’exige pas expressément que l’école ou l’institution soit spécialisée d’une quelconque manière. Elle exige simplement que les installations et le personnel soient fournis pour le soin et la formation de particuliers ayant un handicap mental. On pourrait prétendre que toutes les écoles fréquentées par la fille de l’appelant, y compris l’école privée, satisfont à cette exigence.
+[9] La Cour d’appel fédérale a étudié la question de la spécialisation, et elle a conclu que lorsqu’une institution n’est pas spécialisée dans la fourniture de services médicaux (le soin et la formation fournis à un particulier ayant un handicap), les frais engagés pour obtenir ses services ne sont pas des « frais médicaux » au sens de l’alinéa 118.2(2)e) de la Loi.
+[10] Dans un très récent arrêt, Canada c. Scott[1], la Cour d’appel fédérale s’est penchée sur la nature des frais de scolarité qui avaient été payés à une école privée fournissant un encadrement spécial aux enfants atteints de troubles d’apprentissage, soit du personnel formé pour répondre aux besoins particuliers de ces enfants. À mes yeux, les faits de cette affaire sont en tous points identiques aux faits du présent appel. Dans la cause susmentionnée, la Cour d’appel fédérale, appliquant le raisonnement suivi dans l’arrêt Lister c. Canada[2], s’est exprimée en ces termes :
+[15] Dans l’arrêt Lister, précité, la Cour a examiné la question de savoir quel type d’établissement fournit les soins spéciaux définis à l’alinéa 118.2(2)e). Dans Lister, où il a été statué que le critère est téléologique, la Cour a refusé la déduction des frais acquittés dans une résidence pour personnes âgées au motif que les services médicaux n’étaient fournis que de façon accessoire aux services de logement de la résidence.
+[16] […]
+[…] Toutefois, étant donné le contexte du paragraphe 118.2(2), une organisation qui fonctionne principalement à titre de fournisseur de locaux résidentiels ne devrait pas être visée par l'alinéa 118.2(2)e) simplement parce qu'elle fournit de façon accessoire certains services médicaux à ses résidents.
+[…]
+[18] Le simple fait que certains des services offerts à l’ensemble des élèves aient profité au fils de l’intimée et à d’autres élèves éprouvant des besoins particuliers ne suffit pas à faire en sorte que l’école Rothesay [l’école privée] soit visée par la disposition.
+[11] Je ne vois aucune raison de ne pas appliquer cette conclusion en l’espèce. En fait, considérant que je ne vois aucune raison significative d’opérer une distinction entre la cause susmentionnée et le présent appel, je me trouve lié par la décision en question. Il apparaît clairement que l’enseignement spécialisé proposé par l’école privée était accessoire à son programme scolaire normal. Il n’y avait pas de salles de classe ou de locaux réservés au relativement petit nombre d’élèves ayant des besoins spéciaux inscrits à l’école. La fille de l’appelant satisfaisait aux conditions générales d’admission, et ses frais de scolarité n’étaient pas différents de ceux payés par les élèves qui n’avaient pas besoin d’une attention particulière. En de telles circonstances, les frais de scolarité payés ne peuvent raisonnablement être vus comme des frais encourus « pour » la formation et le soin spécialisés de la fille de l’appelant. Ils ont été payés pour l’ensemble du programme scolaire.
+[12] Même si ce motif est suffisant pour justifier le rejet de l’appel, je m’attarderai brièvement sur la question de savoir si l’autre condition relative aux frais médicaux a été remplie, autrement dit si le rapport du docteur Moustacalls constitue une attestation valable compte tenu des exigences de la disposition en cause.
+[13] En ce qui concerne l’attestation, la Cour d’appel fédérale s’est exprimée en ces termes dans l’arrêt Scott, précité, après avoir reconnu qu’il n’y avait aucune exigence voulant que l’attestation se plie à certaines règles de forme :
+[23] Il faut toutefois que ce soit une véritable attestation, précisant au moins le handicap mental ou physique qu’a le patient, et l’équipement, les installations ou le personnel dont le patient a besoin afin d’obtenir le soin ou la formation nécessaire pour faire face à ce handicap : Canada c. Title, Succession, [2001] A.C.F. no 530, au paragraphe 5.
+[14] Dans l’arrêt Scott, le pédiatre du fils de l’intimée a témoigné au sujet des nombreux troubles dont était atteint son patient, lesquels, si on se fiait à son expertise, feraient en sorte que le fils de l’intimée connaîtrait de grandes difficultés à l’école. Le pédiatre a recommandé que le fils de l’intimée fréquente des écoles comme celle qui avait été choisie, qu’il savait adaptée aux besoins d’enfants ayant le même type de problème. Il a témoigné qu’il recommanderait l’école en question parce qu’il s’agissait d’un établissement susceptible de favoriser le traitement des troubles d’apprentissage et du comportement du fils de l’intimée, et ce, en raison du fort ratio enseignants/élèves, de la plus grande disponibilité des enseignants, ainsi que de la possibilité qu’il offrait d’acquérir de meilleures habitudes pour s’organiser et étudier grâce à des rencontres quotidiennes.
+[15] La Cour était d’avis que cette « recommandation » n’équivalait pas à une « attestation ». En outre, on a jugé que cette recommandation avait été faite a posteriori devant la Cour canadienne de l’impôt. Aux fins de l’application de l’alinéa 118.2(2)e) de la Loi, l’attestation apparaît clairement comme une condition préalable pour que les dépenses engagées puissent être considérées comme des « frais médicaux », et elle doit être obtenue avant que les dépenses ne soient engagées.
+[16] En l’espèce, il y a le rapport écrit, à savoir le diagnostic écrit posé par un docteur en pédopsychologie, portant sur les troubles de l’apprentissage de l’enfant, lequel rapport, selon moi, ne peut être sérieusement remis en question. L’admission dudit rapport en preuve contrevient à une stricte application de la règle du ouï‑dire, le rapport a été présenté par une personne dont la qualité d’expert n’a pas été reconnue et sans que l’intimée ait eu la possibilité de faire subir un contre‑interrogatoire à son auteur; il semble néanmoins très complet à première vue, et il pourrait bien être considéré comme susceptible de tenir lieu d’attestation aux fins de l’application de la disposition en cause en l’espèce. Contrairement à celui qui a été produit dans l’affaire Scott, le rapport dont il est question en l’espèce a été établi avant que les frais en cause n’aient été payés, et il semble satisfaire aux exigences relatives à l’attestation qui sont énoncées dans l’arrêt La succession de Harry Title.
+[17] En effet, le rapport définit le handicap mental dont le particulier est atteint, faisant état des divers domaines dans lesquels ses capacités relèvent de la catégorie de « handicap lié au développement », ce qui, dans la terminologie ontarienne, serait équivalent à « déficience intellectuelle ». De même, le rapport décrit, de façon très détaillée, les modifications à apporter au programme et comporte des pages entières de stratégies d’enseignement suggérées parce que vues comme nécessaires pour faire face au handicap de l’enfant et susceptibles de lui offrir un environnement d’apprentissage optimal.
+[18] Cependant, les modifications détaillées à apporter au programme et les stratégies d’enseignement décrites dans le rapport figurent sous le titre [traduction] « Les recommandations ». Bien que je ne croie pas que l’utilisation d’un tel terme devrait nécessairement nous détourner de la conclusion voulant qu’on ait bien attesté qu’il était « nécessaire » de donner une certaine formation, il y a néanmoins, semble-t-il, deux raisonnements susceptibles de nous encourager, en l’espèce, à considérer lesdites « recommandations » comme insuffisantes par rapport à l’attestation exigée, à l’instar de ce qui a été décidé dans l’arrêt Scott. Premièrement, tel qu’il a été susmentionné, le rapport reconnaît que le système scolaire public a le potentiel de mettre en œuvre des programmes visant à faire face au handicap de la fille de l’appelant[3]. Compte tenu du contexte, on pourrait conclure que si les écoles publiques peuvent mettre en œuvre un programme d’enseignement modifié, celui‑ci ne devrait pas être considéré comme étant assimilable au type de programme visé par la disposition en cause. On en déduit donc que les besoins à satisfaire doivent être plus importants que ceux dont il est question en l’espèce. On doit être en présence d’une formation spéciale qui va au‑delà de la formation qui est normalement donnée (il s’agit sans doute d’une variante de l’exigence de spécialisation évoquée plus haut). Deuxièmement, les frais visés par la disposition en cause sont les « frais médicaux » engagés « pour le soin – ou le soin et la formation » du « particulier », et non les frais payés pour la seule « formation », y compris lorsque celle‑ci a pour objectif le développement des aptitudes cognitives des élèves lents, voire de ceux qui ont une déficience mentale. Dans un tel contexte, la recommandation de stratégies d’enseignement pourrait bien ne pas équivaloir à l’attestation de l’existence de besoins spéciaux.
+[19] En l’espèce, il n’est pas nécessaire de trancher la question de l’attestation. Toutefois, je voudrais souligner que si les frais avaient été engagés afin de payer une formation auprès d’une école ou d’une institution spécialisée dans l’enseignement aux enfants ayant des besoins spéciaux, j’aurais admis que le rapport présenté en preuve était une attestation au sens de l’alinéa 118.2(2)e) de la Loi. Tout est question de mesure. Moins le programme met l’accent sur la prise en charge des besoins spéciaux des personnes handicapées, plus il est impérieux que les attestations respectent expressément et rigoureusement les exigences explicites de la Loi.
+Conclusion
+[20] Les trois questions formulées au début des présents motifs ne peuvent toutes recevoir une réponse favorable à l’appelant. J’admets que sa fille était atteinte d’un handicap visé par l’alinéa 118.2(2)e) de la Loi, et que le rapport aurait pu, en d’autres circonstances, tenir lieu d’attestation, mais le lien qui existait entre la spécialisation du programme offert à l’école privée et les frais de scolarité payés ne satisfaisait pas aux exigences de l’alinéa 118.2(2)e) de la Loi, comme cela a été expliqué dans l’arrêt Scott.
+[21] Pour l’ensemble de ces motifs, l’appel est rejeté, sans dépens.
+Signé à Winnipeg (Manitoba), ce 8e jour d’octobre 2008.
+« J. E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 26e jour de février 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI565
+NO DU DOSSIER DE LA COUR : 2007-4012(IT)I
+INTITULÉ : Alex Vita-Finzi et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 18 avril 2008
+MOTIFS DU JUGEMENT : L’honorable juge J. E. Hershfield
+DATE DU JUGEMENT : Le 8 octobre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Représentantes de l’intimée :
+Nikki Kumar (stagiaire)
+Me Lesley L’Heureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2008 CAF 286.
+[2] 2006 CAF 331; [2007] 1 C.T.C. 137.
+[3] La coordonnatrice que l’intimée a citée en a également convenu. Le fait que l’expérience vécue par l’appelant contredise cette opinion n’est pas pertinent en ce qui a trait à la recevabilité du rapport à titre d’attestation. L’appelant et sa femme se sont donné beaucoup de mal afin de s’assurer que leur fille n’était pas laissée pour compte sur le plan scolaire. Il faut espérer que leurs efforts et leur diligence remarquables continueront de porter fruit. Je suis convaincu que c’est grâce à leur diligence qu’on peut lire dans le rapport que même en deuxième année (avant d’être inscrite à l’école privée), leur fille obtenait dans certaines matières des résultats dépassant les attentes raisonnables compte tenu de ses capacités cognitives.

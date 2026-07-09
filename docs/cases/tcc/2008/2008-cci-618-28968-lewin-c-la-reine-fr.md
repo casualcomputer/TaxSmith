@@ -1,0 +1,184 @@
+---
+title: "Lewin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28968/index.do"
+last_modified: "2008-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 618"
+citation2: ""
+neutral_citation: "2008 CCI 618"
+decision_date: "2008-11-13"
+language: "fr"
+item_id: "28968"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6778
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:12:25.840000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dcad0f849831ab89d056d4d0671db000b073d572b791ab6ac9ebf9528646760f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lewin c. La Reine
+
+- Citation: 2008 CCI 618
+- Decision date: 2008-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6778, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lewin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-13
+Référence neutre
+2008 CCI 618
+Numéro de dossier
+2008-1964(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1964(IT)I
+ENTRE :
+ROGER S. LEWIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 octobre 2008, à Edmonton (Alberta).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelant :
+Forrest J. R. Wright
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT L’appel interjeté à l’encontre de la cotisation établie à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelant a le droit de déduire, dans le calcul de son revenu pour 2004, les frais de 8 146 $ qu’il a engagés pour remplacer la terrasse.
+Signé à Ottawa (Ontario), ce 13e jour de novembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Référence : 2008CCI618
+Date : 20081113
+Dossier : 2008-1964(IT)I
+ENTRE :
+ROGER S. LEWIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, la question à trancher est de savoir si l’appelant pouvait déduire, dans le calcul de son revenu pour 2004, les frais engagés pour remplacer une terrasse rattachée à son bien locatif, ou s’il s’agissait d’une dépense en capital, qui devrait être ajoutée au coût en capital du bien locatif.
+[2] L’appelant pratiquait la médecine en Alberta. En 2003, il a acheté un bien locatif en Colombie‑Britannique, avec l’idée de s’y installer lorsqu’il prendrait sa retraite. Après 2004 et avant la présente audience, l’appelant a effectivement emménagé dans le bien en question (la « maison »).
+[3] Avant d’acheter la maison, l’appelant a pris des dispositions pour la faire inspecter. Le rapport d’inspection indiquait que des parties de la terrasse rattachée à la maison étaient en train de pourrir, et qu’il fallait procéder à des réparations. Le coût des travaux a été évalué à 1 200 $.
+[4] Après que la maison a été achetée, les locataires ont exprimé leurs inquiétudes quant à l’état de la terrasse, et l’appelant a demandé à un entrepreneur de procéder à une estimation du coût de remplacement de celle‑ci. Cette estimation, TPS incluse, s’élevait à 8 627 $. Une fois le travail complètement terminé, l’entrepreneur a déduit du prix à payer par l’appelant le coût des éléments qu’il n’a pas eu à remplacer, et a facturé un supplément pour les changements apportés au projet initial. Le coût total du remplacement de la terrasse s’est élevé à 8 146,30 $. En calculant son revenu pour 2004, l’appelant a déduit ce montant à titre de dépense courante. L’intimée est d’avis que ce montant devrait être ajouté au coût en capital du bâtiment, et ne devrait pas être déduit à titre de dépense courante.
+[5] Dans la décision Bergeron v. Minister of National Revenue, [1990] 2 C.T.C. 2220, 90 DTC 1505, la juge Lamarre Proulx de la Cour a étudié plusieurs affaires portant sur la question de savoir si des sommes engagées pour des réparations ou des rénovations étaient déductibles à titre de dépense courante, ou si elles devaient être ajoutées au coût en capital du bien. Au paragraphe 20 de cette décision, la juge Lamarre Proulx a énuméré les causes qu’elle a examinées, qui sont les suivantes :
+• Minister of National Revenue v. Vancouver Tug Boat Company Ltd., [1957] R.C. de l’É. 160, [1957] C.T.C. 178, 57 DTC 1126;
+• Thompson Construction (Chemong) Ltd. v. Minister of National Revenue, [1957] R.C. de l’É. 96, [1957] C.T.C. 155, 57 DTC 1114;
+• Ministre du Revenu national c. Haddon Hall Realty Inc., [1962] R.C.S. 109, [1961] C.T.C. 509, 62 DTC 1001;
+• Canada Steamship Lines Ltd. v. Minister of National Revenue, [1966] R.C. de l’É. 972, [1966] C.T.C. 255, 66 DTC 5205;
+• Ministre du Revenu national c. Algoma Central Railway, [1968] R.C.S. 447, [1968] C.T.C. 161, 68 DTC 5096;
+• Dubé et al. v. Minister of National Revenue, [1979] C.T.C. 2241, 79 DTC 10;
+• Shabro Investments Ltd. v. The Queen, [1979] C.T.C. 125, 79 DTC 5104;
+• Healey v. Minister of National Revenue, [1984] C.T.C. 2004, 84 DTC 1017;
+• S. Coleman v. Minister of National Revenue, [1984] C.T.C. 2725, 84 DTC 1637;
+• Johns-Manville Canada Inc. c. La Reine, [1985] 2 R.C.S. 46, [1985] 2 C.T.C. 111, 85 DTC 5373;
+• A.B. Wager v. Minister of National Revenue, [1985] 1 C.T.C. 2208, 85 DTC 222;
+• J. Méthé v. Minister of National Revenue, [1986] 1 C.T.C. 2493, 86 DTC 1360;
+• Québec (Sous-ministre du Revenu) c. Goyer, [1987] R.D.F.Q. 159;
+• Gold Bar Developments Ltd. c. La Reine, [1987] 9 C.F. 303, [1987] 1 C.T.C. 262, 87 DTC 5152;
+• Damon Developments Ltd. v. Minister of National Revenue, [1988] 1 C.T.C. 2266; 88 DTC 1128.
+[6] Après avoir étudié ces causes, la juge Lamarre Proulx s’est exprimée en ces termes :
+[33] Les principes que je retire de ces arrêts sont les suivants :
+- sont de la nature de dépenses afférentes au revenu, les réparations qui ont pour but de remettre à son état d'usage normal la partie ou la propriété qui est réparée.
+- sont de la nature du capital, les travaux qui ont pour but de remplacer un bien par un bien nouveau et les travaux qui apportent un tel degré d'amélioration à un bien qu'il en devient un nouveau bien. Ce bien doit soit avoir une valeur importante par rapport au reste de la propriété ou être en soi un bien. Les travaux pour changement d'usage d'un local, d'une pièce ou l'addition d'un nouveau local ou pièce sont habituellement de la nature d'une dépense à titre de capital. Ainsi en serait-il pour un changement de système de chauffage.
+- quoique le facteur d'acquisition récente n'entre pas en ligne de compte quand il n'y a pas changement d'exploitation, l'augmentation de la valeur de l'immeuble, par rapport au prix d'achat due aux réparations, est une indication que le prix ou partie du prix des dépenses est de la nature du coût d'acquisition d'un immeuble.
+- les dépenses doivent aussi être raisonnables dans les circonstances, (art. 67 de la Loi). Il faut se demander si raisonnablement elles sont faites pour tirer du revenu ou pour l'augmentation de la valeur du bien et dans quelle proportion. Peuvent être pris en compte les profits futurs si les dépenses en question diminuent les dépenses postérieures et également je suppose l'escalade imprévue des coûts.
+[7] Dans la décision Marklib Investments II-A Ltd. v. The Queen, [2000] C.T.C. 2513, 2000 DTC 1413, le juge Brulé de la Cour a étudié les causes suivantes, relativement à la question de savoir si les dépenses engagées pour effectuer des réparations étaient des frais d’exploitation :
+• B.P. Australia Ltd. v. Commissioner of Taxation of the Commonwealth of Australia (1965), [1966] A.C. 224, [1965] 3 All E.R. 209 (C.p. d’Australie)
+• British Insulated & Helsby Cables Ltd. v. Atherton (1925), [1926] A.C. 205, 10 T.C. 155, [1925] All E.R. 623 (Chambre des lords du R.‑U.)
+• Canada Steamship Lines Ltd. v. Minister of National Revenue, [1966] R.C. de l’É. 972, [1966] C.T.C. 255, 66 DTC 5205 (C. de l’É. du Canada)
+• Canaport Ltd. v. R. (s.n. Canaport Ltd. v. Canada), [1993] 2 C.T.C. 2830, 93 DTC 1226 (C.C.I.)
+• Chambers v. R. (1997), [1998] 1 C.T.C. 3273 (C.C.I.)
+• Earl v. R. (1992) (s.n. Earl v. Canada), [1993] 1 C.T.C. 2081, 93 DTC 65 (C.C.I.)
+• Gold Bar Developments Ltd. v. R., 87 DTC 5152, [1987] 1 C.T.C. 262, (s.n. Gold Bar Devs. Ltd. v. M.N.R.) 9 F.T.R. 303 (C.F. 1re inst.)
+• Healey v. Minister of National Revenue (1983), [1984] C.T.C. 2004, 84 DTC 1017 (C.C.I.)
+• Johns-Manville Canada Inc. v. R., [1985] 2 R.C.S. 46, 85 DTC 5373, [1985] 2 C.T.C. 111, 21 D.L.R. (4e) 210, 60 N.R. 244 (C.S.C.)
+• Méthé v. Minister of National Revenue, 86 DTC 1360 (ang.), 86 DTC 1364 (fr.), [1986] 1 C.T.C. 2493 (C.C.I.)
+• Ministre du Revenu national c. Haddon Hall Realty Inc. (1961), [1962] R.C.S. 109, [1961] C.T.C. 508, 62 DTC 1001, 31 D.L.R. (2e) 201 (C.S.C.)
+• Morel v. Minister of National Revenue (1951), 51 DTC 431, 5 Tax A.B.C. 213, 1951 CarswellNat 190 (Commission d’appel de l’impôt)
+• Québec (Sous-ministre du Revenu) c. Goyer, [1987] R.J.Q. 988, 10 Q.A.C. 70, [1987] R.D.F.Q. 159 (C.A. Qué.)
+• Shabro Investment Ltd. v. R., [1979] C.T.C. 125, 79 DTC 5104, 28 N.R. 327 (C.A.F.)
+• Wager v. Minister of National Revenue, 85 DTC 222, [1985] 1 C.T.C. 2208 (C.C.I.)
+[8] Il est intéressant de constater que même si plusieurs causes étudiées par la juge Lamarre Proulx ont également été examinées par le juge Brulé, ce dernier n’a pas mentionné la décision Bergeron dans son jugement. Après analyse des causes susmentionnées, le juge Brulé a déclaré :
+[34] La Cour s'interroge sur la pertinence d'un certain nombre d'affaires que l'intimée a invoquées dans son argumentation. Elle a cité des affaires où il était question d'immeubles en mauvais état et nouvellement acquis, des réparations à effectuer pour rendre l'immeuble habitable et du paiement d'un prix d'achat réduit en raison du mauvais état de l'immeuble. Toutes les affaires mentionnées précédemment diffèrent de l'affaire dont je suis saisi car toutes portaient sur l'achat ou l'acquisition par le contribuable d'immeubles délabrés. Les contribuables étaient au courant de l'état du bien au moment de son acquisition. Je dois me demander si l'intimée n'isole pas les raisonnements dans les affaires et ne les érige pas en principes généraux sans tenir compte des faits propres à ces affaires. S'il y a une chose d'établie dans la jurisprudence, c'est, à mon avis, que pour trancher la question des dépenses en capital ou des dépenses courantes il faut examiner et pondérer les faits propres à l'affaire.
+[35] C'est l'objet d'une dépense plutôt que son résultat qui détermine si elle sera qualifiée de dépense en capital ou de dépense courante; le critère a pour but de déterminer si la dépense crée un bien de valeur durable, non pas d'en établir la fréquence ou le caractère répétitif. Les affaires semblent promouvoir l'idée que, tant que les réparations ont été effectuées pour préserver ou conserver le bien et non pour créer un nouveau bien, elles seront considérées comme des dépenses courantes.
+[36] Une dépense engagée simplement dans le but d'entretenir un bien ou de le ramener à son état original est une dépense courante déductible. Comme on l'a vu dans les affaires mentionnées précédemment, cela est plus simple à dire qu'à faire. La distinction entre une dépense en capital et une dépense courante est très floue. En outre, il faut faire un rapprochement entre l'importance de la dépense et la valeur de l'immeuble. Cependant, une dépense ne devient pas une dépense en capital du simple fait que le montant dépensé est élevé.
+[37] Il n'existe pas de critère unique pour déterminer si la dépense est une dépense en capital ou une dépense courante. Il faut examiner et pondérer un certain nombre de facteurs et de circonstances. […]
+[9] Le juge Brulé a également fait référence au Bulletin d’interprétation IT-128R – Déduction pour amortissement – Biens amortissables. Le paragraphe 4 de ce bulletin d’interprétation prévoit ce qui suit :
+Dépenses en capital pour des biens amortissables par opposition aux dépenses courantes pour des réparations et de l’entretien
+4. Les lignes directrices suivantes peuvent servir à déterminer si une dépense est imputable au capital parce que le bien amortissable a été acquis ou amélioré ou si elle est déductible parce qu'elle a été engagée pour réparer ou entretenir un bien :
+a) Avantage durable - Selon les décisions rendues par les tribunaux, lorsqu'une dépense est faite à l'égard d'un bien amortissable corporel (une fois pour toutes et en vue de créer un bien ou un avantage pour le bénéfice durable d'une entreprise), cette dépense est ordinairement considérée comme une dépense en capital. Toutefois, lorsqu'il est vraisemblable que de nouvelles dépenses du genre seront engagées pour remplacer ou renouveler un article en particulier parce que son utilité ne dépassera pas une période relativement courte, ce fait constitue une indication qu'il s'agit d'une dépense courante.
+b) Entretien ou amélioration - Lorsqu'une dépense est engagée à l'égard d'un bien dans le seul but de le restaurer à son état d'origine, ce fait constitue une indication qu'il s'agit d'une dépense courante. Ce cas se présente souvent lorsque, par exemple, on remplace un plancher ou un plafond. Toutefois, lorsqu'une dépense a pour résultat d'améliorer sensiblement le bien par rapport à ce qu'il était à l'origine, par exemple un nouveau plancher ou un nouveau plafond nettement de meilleure qualité et plus durable que l'ancien, il faut alors considérer la dépense comme une dépense en capital. Le fait que la valeur marchande du bien augmente ou non par suite de la dépense n'est pas un facteur important dans la décision. Si la dépense comprend à la fois des éléments de dépense courante et de dépense en capital qui peuvent être identifiés, il faut procéder à la répartition pertinente des frais. Si seulement une faible partie de la dépense est une dépense en capital, le Ministère est prêt à considérer la dépense totale comme une dépense courante.
+c) Partie intégrante ou bien séparé - Il peut y avoir lieu de déterminer également si la dépense a été engagée pour réparer une partie d'un bien ou pour acquérir un bien qui constitue en soi un bien distinct. Dans le premier cas, la dépense est vraisemblablement une dépense courante et dans le deuxième, une dépense en capital. Par exemple, le coût de remplacement d'un gouvernail ou d'une hélice de bateau est considéré comme une dépense courante, car il s'agit d'une partie intégrante du bateau et il n'y a pas d'amélioration; mais le coût de remplacement d'une machine dans une usine est considéré comme une dépense en capital, car la machine n'est pas une partie intégrante de l'usine mais un bien qui peut être vendu séparément. Entre ces cas bien tranchés, il y en a d'autres où un article remplacé peut être une partie essentielle d'un bien entier sans en être une partie intégrante. En pareil cas, d'autres facteurs, comme la valeur relative, doivent entrer en ligne de compte.
+d) Valeur relative - Il y aura peut-être lieu d'évaluer le montant de la dépense par rapport à la valeur du bien entier ou par rapport à la moyenne des frais d'entretien et de réparation déjà engagés. Cela est particulièrement le cas lorsque le remplacement en soi peut être considéré comme étant un bien vendable distinct. Bien qu'une bougie dans un moteur puisse être un tel bien, personne ne considérerait son coût de remplacement autrement que comme une dépense; mais, si le moteur lui-même est remplacé, la dépense ne vise pas seulement un bien vendable distinct mais peut également être très importante par rapport à la valeur totale du bien dont le moteur fait partie; dans ce cas, la dépense serait vraisemblablement considérée comme une dépense en capital. D'autre part, le rapport qui existe entre le montant de la dépense et la valeur du bien entier n'est pas en soi nécessairement décisif dans d'autres circonstances, spécialement lorsqu'est effectuée une réparation importante constituant une accumulation de petits travaux qui auraient été classés comme des dépenses courantes si chacun avait été fait au moment où le besoin s'était d'abord fait sentir; le fait que ces travaux n'aient pas été effectués plus tôt ne change pas la nature du travail lorsqu'il est fini, quel que soit son coût total.
+[10] En l’espèce, l’appelant a simplement remplacé une terrasse vieille de 20 ans, qui avait besoin d’être changée. La terrasse a été restaurée avec quelques changements par rapport à son état d’origine. La terrasse précédente était couverte d’un revêtement en fibre de verre qui protégeait sa surface des intempéries, tandis que la nouvelle terrasse a été couverte d’un revêtement en vinyle. De même, le treillis en vinyle a remplacé le treillis en bois dans l’espace situé sous la galerie, la marche en bois a été remplacée par une marche en béton, les rampes en bois par des rampes en aluminium, et on a installé du soffite microperforé sous la passerelle.
+[11] Comme l’a souligné le juge Brulé en faisant référence à la décision Gold Bar Developments Ltd., qui avait été rendue par le juge Jerome :
+[22] Le juge Jerome a conclu que la contribuable voulait remédier à une situation qui était devenue dangereuse et qu'elle ne cherchait pas à améliorer le bien. Parce que les plaignants dans cette affaire ne s'étaient pas limités à réparer les défectuosités, et qu'en plus de rendre l'immeuble résistant au problème initial ils en avaient amélioré considérablement l'apparence, les dépenses engagées ne prenaient pas nécessairement valeur de dépenses en capital. Lorsque le contribuable est forcé d'effectuer des réparations, il ne doit pas faire fi des nouvelles techniques de construction et de la technologie moderne pour effectuer le travail. Le juge Jerome a toutefois fait un rapprochement entre la valeur de l'immeuble à l'époque pertinente et le montant des réparations effectuées et a conclu que celles-ci représentaient moins de 3 % de la valeur du bien. Par conséquent, on ne pouvait pas dire que la dépense était à ce point considérable qu'elle constituait un remplacement du bien. Le juge Jerome a également conclu que la structure de l'immeuble n'avait nullement été modifiée.
+[12] En l’espèce, rien n’indique que le revêtement en fibre de verre qui avait été utilisé pour construire la terrasse d’origine était toujours en vente en 2004. L’appelant a déclaré qu’en 2004, le vinyle était le matériau généralement utilisé pour recouvrir la surface des terrasses. Par conséquent, en ce qui concerne les matériaux de revêtement en vente en 2004, le vinyle représenterait simplement l’équivalent de la fibre de verre utilisée à l’origine.
+[13] À mon avis, les autres changements apportés à la terrasse ne sont pas significatifs, et ils ne devraient pas avoir d’incidence sur la question de savoir si le montant dépensé pour remplacer la terrasse devrait être considéré comme une dépense en capital ou une dépense courante.
+[14] L’appelant a déclaré que le coût des rampes en aluminium était approximativement le même que celui des rampes en bois. Le treillis en vinyle et le soffite microperforé ont coûté moins de 370 $ (TPS incluse). La terrasse, si on se fie aux photos qui ont été déposées en preuve, semble se trouver à une hauteur de moins de deux pieds du sol à l’arrière de la maison, et le treillis en vinyle couvre simplement l’ouverture qui se trouve entre la terrasse et le sol. Le prix de la marche en béton n’a pas été mentionné. Il s’agissait d’une marche unique faite de béton coulé dans un moule en bois. Il ne me semble pas raisonnable de penser que le coût de cette marche en béton représentait une proportion significative des frais de 8 146 $ qui avaient été engagés.
+[15] En 2003, l’appelant a payé 259 000 $ pour acheter le bien locatif. La somme dépensée pour remplacer la terrasse s’élevait à 8 146 $, ce qui représente approximativement 3,1% du prix total de la maison. La terrasse n’est pas un bien séparé, elle est rattachée à l’immeuble locatif et en fait partie intégrante. Même si l’appelant savait avant d’acheter la maison que la terrasse devait être réparée, et que le prix payé reflétait peut‑être le coût estimé de ces réparations, on évaluait à l’époque le coût de réparation de la terrasse à seulement 1 200 $, ce qui représentait moins de 1 % du prix d’achat de 259 000 $, qui n’aurait donc pas été réduit d’une manière significative.
+[16] Par conséquent, je suis d’avis que les dépenses engagées par l’appelant pour remplacer la terrasse en 2004 étaient des dépenses courantes que celui‑ci pouvait déduire de son revenu pour 2004.
+[17] L’appel est accueilli, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelant a le droit de déduire, dans le calcul de son revenu pour 2004, les frais de 8 146 $ qu’il a engagés pour remplacer la terrasse.
+Signé à Ottawa (Ontario), ce 13e jour de novembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI618
+NO DU DOSSIER DE LA COUR : 2008-1964(IT)I
+INTITULÉ : Roger S. Lewin et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 24 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 13 novembre 2008
+COMPARUTIONS :
+Représentant de l’appelant :
+Forrest J. R. Wright
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada Ottawa, Canada

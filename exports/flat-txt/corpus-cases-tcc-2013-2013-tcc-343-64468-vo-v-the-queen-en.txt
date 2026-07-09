@@ -1,0 +1,109 @@
+Title: Vo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64468/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-343-64468-vo-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-10-28
+
+# Vo v. The Queen
+
+- Citation: 2013 TCC 343
+- Decision date: 2013-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5934, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-28
+Neutral citation
+2013 TCC 343
+File numbers
+2012-5059(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-5059(IT)I
+BETWEEN:
+NGOC NAM VO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 10, 2013 at Windsor, Ontario
+By: The Honourable Justice Judith M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alexandra Humphrey
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2004 and 2005 taxation years is dismissed. The parties shall bear their own costs.
+Signed at Ottawa, Ontario this 28th day of October 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 343
+Date: 20131028
+Docket: 2012-5059(IT)I
+BETWEEN:
+NGOC NAM VO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Ngoc Nam Vo appeals in respect of assessments made under the Income Tax Act that denied claims for charitable donations in the 2004 and 2005 taxation years. According to the Crown’s reply, the claims were for donations in the amounts of $13,612 and $17,136, respectively.
+[2] In the notice of appeal Mr. Vo submits that the amounts claimed should be allowed because the donations were made in good faith.
+[3] The Crown made several arguments in support of the assessments, including a submission that no donations were made.
+[4] At the hearing, Mr. Vo testified on his own behalf. Testimony on behalf of the Crown was provided by John Kajin of the Canada Revenue Agency (CRA).
+Background facts
+[5] In 2009 the CRA began an investigation into an extensive charitable donation scam that was masterminded by two individuals, Festus Bayden and Eric Armah. The scheme involved the preparation of tax returns claiming false donations. The CRA estimates that just under $10 million of bogus tax reductions and refunds were claimed. Bayden fled the jurisdiction; Armah pled guilty and was sentenced to three years in prison.
+[6] The transcript below, from Armah’s criminal proceeding, describes the essential aspects of the scheme.
+The scheme operated as follows: Taxpayer clients attended at E&F to have their tax returns prepared. Eric Armah or Festus Bayden indicated to their clients that the client could get a larger refund or pay reduced taxes if the client made a charitable donation to a certain charity; the larger the charitable donation the greater the refund or reduction in taxes. This charitable donation was false in the following manner: The client paid Bayden and Armah for this charitable donation in an amount far less than what actually appeared on the charitable donation receipt or on the tax return as the amount claimed. Armah and Bayden charged their clients approximately 10 percent of the face value of the false charitable donation amount claimed on each return. This is the amount the clients actually paid for their false charitable donations. Armah and Bayden also generally charged each client an additional $40 to $50 for the preparation of each return.
+When required Bayden and Armah provided their clients with false charitable donation receipts in support of donation credits reported. These donation receipts were in the names of various charitable organizations including, but not limited to: International Aid and Support Organization, Ave Development Foundation, Jesus is the Answer, The Redemption Power International Ministry, Jesus Healing Center, All Nations Full Gospel, City Chapel Ministries International, Peace Light Ministries, Liberty Parish, Canafrica International Foundation, Redeemer’s Victory Church and Pentecostal Assembly Church International and Christ Power Mission.
+[7] Mr. Vo was identified by the CRA as someone who participated in the scheme through documents that were seized from Bayden and Armah.
+[8] Mr. Vo provided donation receipts for the amounts claimed which purport to show donations in the amounts of $13,612 and $17,136, respectively, to Ave Development Foundation (the “Foundation”), which was one of the organizations listed in the transcript above.
+[9] Mr. Vo’s testimony at the hearing was startlingly different from his representations in the notice of objection and the notice of appeal. Mr. Vo testified that he gave donations in the form of cash to an individual who prepared his tax returns. The purported donations were roughly $1,300 and $1,700, respectively, which is ten percent of the donations claimed. Mr. Vo stated that he wanted to help poor children in Africa, and that he did not know how this would impact his taxes.
+Discussion and conclusion
+[10] Section 118.1 of the Act sets out the legal framework for individuals to claim credits for charitable donations made during a taxation year. The issue in this appeal can be simply stated: Did Mr. Vo make gifts to a charitable organization in 2004 or 2005?
+[11] Based on the evidence as a whole, I have concluded that the appeal should be dismissed because Mr. Vo has not established that he made any gifts to a registered charity during the 2004 or 2005 taxation years. I support this conclusion based on five reasons.
+[12] First, Mr. Vo stated that the donations were not made in the particular taxation year at issue but in the following year. Accordingly, if donations were made, they were made in 2005 and 2006. Since no donations were made in 2004, the appeal with respect to this taxation year should be dismissed.
+[13] Second, the evidence reveals that the Foundation was likely not a registered charity during the relevant taxation years. The Foundation only became registered in the following year. This is sufficient to dispose of the appeal for both taxation years.
+[14] Third, at the hearing Mr. Vo changed the position that he had previously taken in his notice of objection and his notice of appeal. Not only were the amounts that Mr. Vo paid a fraction of what was first alleged, but also Mr. Vo falsely represented in his notice of appeal that he was satisfied with the bona fides of the donations because he checked the charitable status of the Foundation on the CRA’s website. Mr. Vo acknowledged at the hearing that this was not true. This calls into question the reliability of Mr. Vo’s testimony as a whole to the extent that it was not supported by other evidence.
+[15] Fourth, there is no evidence that any of the cash that Mr. Vo paid found its way to the Foundation or to a charitable organization. Most, if not all, of these funds were likely pocketed by Bayden and Armah.
+[16] Fifth, in his testimony Mr. Vo painted a picture of someone who did not understand any of the tax aspects of the scheme. He said he simply wanted to help poor children in Africa. This testimony was simply not credible. Mr. Vo was involved in a scheme that involved a substantial reduction in tax. He also made false statements in the notice of objection and the notice of appeal. I do not believe Mr. Vo’s testimony that he had a charitable purpose and that he had no knowledge of the tax implications of the scheme.
+[17] Mr. Vo has the burden to establish that gifts were made to a registered charity. He has not satisfied this burden.
+[18] In light of the conclusions above, it is not necessary that I consider the other arguments made by the Crown.
+[19] The assessments should be upheld and the appeal will be dismissed.
+Signed at Ottawa, Ontario this 28th day of October 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 343
+COURT FILE NO.: 2012-5059(IT)I
+STYLE OF CAUSE: NGOC NAM VO and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: October 10, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: October 28, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alexandra Humphrey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

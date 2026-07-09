@@ -1,0 +1,129 @@
+---
+title: "Markovic c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27394/index.do"
+last_modified: "2006-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 696"
+citation2: ""
+neutral_citation: "2006 CCI 696"
+decision_date: "2006-12-21"
+language: "fr"
+item_id: "27394"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 151
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:26:34.298000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "714b477325deea736cff7ababc7ea7750ee0fb695a348ede1bc6b0d4a8c40487"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Markovic c. La Reine
+
+- Citation: 2006 CCI 696
+- Decision date: 2006-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 151, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Markovic c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-21
+Référence neutre
+2006 CCI 696
+Numéro de dossier
+2003-3899(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI696
+Date : 20061221
+Dossier : 2003-3899(IT)G
+ENTRE :
+MILOS MARKOVIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue par conférence téléphonique le 21 décembre 2006
+Devant : L’honorable juge D.W. Beaubier
+Participants :
+Avocats de l’appelant :
+Mes David Chodikoff et
+Ryan Lay
+Avocate de l’intimée :
+Me Jenny Mboutsiadis
+____________________________________________________________________
+MOTIFS DE L’ORDONNANCE ET ORDONNANCE
+Le juge Beaubier
+[1] La présente requête des avocats de l’appelant, datée du 12 décembre 2006, a été instruite par conférence téléphonique le 21 décembre 2006. Dans la requête, ils demandent à la Cour de nommer Tom Cooper de l’ARC comme la personne qu’ils interrogeront au préalable en vertu du paragraphe 93(3) des Règles de la Cour canadienne de l’impôt (procédure générale), qui est ainsi rédigé :
+[…]
+Qui peut être interrogé
+93
+[…]
+(3) Lorsque la Couronne est la partie interrogée, le sous‑procureur général du Canada doit choisir un officier, un fonctionnaire ou un employé bien informé qui sera interrogé en son nom; toutefois, si la partie interrogatrice n’est pas satisfaite de cette personne, elle peut demander à la Cour de nommer une autre personne.
+[…]
+[2] Les moyens invoqués à l’appui de la requête sont, premièrement, que la personne choisie par l’intimée pour être interrogée au préalable en son nom, à savoir Zahur Jiwa, le vérificateur, a été incapable de donner des réponses de fond aux questions posées par les avocats de l’appelant, deuxièmement, qu’il n’a pas effectué des enquêtes raisonnables sur les questions en litige et, troisièmement, qu’il n’était pas un fonctionnaire de l’intimée bien informé de ces questions.
+[3] L’appelant a aussi allégué que l’avocate de l’intimée avait exprimé son intention de présenter une requête en radiation du paragraphe 13 de l’avis d’appel modifié. Ce paragraphe est ainsi rédigé :
+[traduction]
+13. Est-ce que la preuve sur laquelle s’est fondé le ministre a été irrégulièrement obtenue par suite d’une fouille, d’une perquisition et d’une saisie illégales? Dans l’affirmative, est‑ce que c’était en violation des droits garantis à l’appelant par l’article 8 de la Charte canadienne des droits et libertés (la « Charte »)?
+[4] À l’appui de sa requête, l’appelant a déposé l’affidavit de Sabina Mexis. L’intimée a déposé l’affidavit d’Anna del Mundo.
+[5] Il était prévu que l’instruction du présent appel aurait lieu à Toronto, le 13 septembre 2006, et que l’audience durerait trois jours. Les avocats de l’appelant ont ensuite déposé un avis de requête le 31 août 2006. Cette requête a été accueillie, et la Cour s’est prononcée sur la procédure à suivre, ordonnant notamment de nouveaux interrogatoires, qui devaient être complétés au plus tard le 27 novembre 2006. Ultérieurement, les avocats de l’appelant ont proposé que les interrogatoires préalables soient effectués le 27 novembre 2006, proposition à laquelle s’est ralliée l’avocate de l’intimée. Les interrogatoires ont été reportés à la demande des avocats de l’appelant et ont eu lieu le 30 novembre 2006. En d’autres mots, ils ont été effectués plus tard qu’à la dernière minute.
+[6] Par la suite, les avocats de l’appelant ont déposé la présente requête. La tenue du procès est fixée au 8 janvier 2006.
+[7] Le 20 octobre 2006, les avocats de l’appelant ont demandé l’autorisation d’interroger Tom Cooper au préalable. L’avocate de l’intimée a refusé, et M. Jiwa, le vérificateur chargé du dossier de l’appelant, a été choisi par l’intimée pour subir l’interrogatoire. M. Jiwa a été interrogé par les avocats de l’appelant le 30 novembre 2006 suivant leur avis de comparution.
+[8] La transcription de l’interrogatoire préalable qu’a subi M. Jiwa le 30 novembre démontre qu’il a donné des réponses de fond aux questions des avocats, qu’il a pris des engagements lorsqu’il ne pouvait répondre immédiatement, et qu’il était bien informé au sujet des questions en litige. M. Jiwa était le vérificateur des cotisations en cause.
+[9] Les avocats de l’appelant ont posé une série de questions à propos du fait admis que le processus de cotisation en l’espèce découlait de la communication de renseignements par la police à M. Cooper, un fonctionnaire de l’Agence du revenu du Canada chargé des liaisons avec la police. M. Jiwa a accepté de transmettre aux avocats de l’appelant [traduction] « le document original sur le programme d’échange » entre la police et l’Agence du revenu du Canada, et ce, à la demande des avocats.
+[10] Mais, en ce qui concerne l’avis de requête de l’appelant, la transcription de l’interrogatoire préalable ne révèle aucun des trois prétendus défauts reprochés à M. Jiwa et exposés au paragraphe [2] des présents motifs.
+[11] La requête est rejetée. Les dépens suivront l’issue de la cause.
+Signé à Saskatoon (Saskatchewan), ce 21e jour de décembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 7e jour de mars 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI696
+Nº DU DOSSIER DE LA COUR : 2003-3899(IT)G
+INTITULÉ : Milos Markovic c. La Reine
+LIEU DE L’AUDIENCE :
+DATE DE L’AUDIENCE : Le 21 décembre 2006
+MOTIFS DE L’ORDONNANCE : L’honorable juge D.W. Beaubier
+DATE DE L’ORDONNANCE : Le 21 décembre 2006
+COMPARUTIONS :
+Avocats de l’appelant :
+Mes David Chodikoff et
+Ryan Lay
+Avocate de l’intimée :
+Me Jenny Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Mes David Chodikoff et
+Ryan Lay
+Cabinet : Goodman and Carr LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,177 @@
+---
+title: "Marcil c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30536/index.do"
+last_modified: "2011-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 463"
+citation2: ""
+neutral_citation: "2011 CCI 463"
+decision_date: "2011-10-03"
+language: "fr"
+item_id: "30536"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7337
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:34:58.098000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90c1e0516028ae717fe9531e8f060be121641b430026c113b2aa00e977f77555"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marcil c. M.R.N.
+
+- Citation: 2011 CCI 463
+- Decision date: 2011-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7337, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marcil c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-03
+Référence neutre
+2011 CCI 463
+Numéro de dossier
+2011-1538(EI)
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-1538(EI)
+ENTRE :
+NICOLE MARCIL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES ENTREPRISES GHISLAIN MATHIEU INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 23 septembre 2011, à Chicoutimi (Québec).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Marie-France Dompierre
+Représentant pour l'intervenante:
+Ghislain Mathieu
+____________________________________________________________________
+JUGEMENT
+L’appel en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi (Loi) est rejeté et la décision rendue par le ministre en date du 21 février 2011 établissant que l’appelante n’occupait pas un emploi assurable au cours de la période du 2 août 2009 au 6 août 2010 lorsqu’au service de Les Entreprises Ghislain Mathieu Inc., aux termes de l’alinéa 5(2)i) et du paragraphe 5(3) de la Loi, est confirmée.
+Signé à Ottawa, Canada, ce 3e jour d’octobre 2011.
+« Johanne D’Auray »
+Juge D'Auray
+Référence : 2011 CCI 463
+Date : 20111003
+Dossier : 2011-1538(EI)
+ENTRE :
+NICOLE MARCIL,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES ENTREPRISES GHISLAIN MATHIEU INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+La juge D'Auray
+[1] La question dans le présent appel est de savoir si l’emploi de l’appelante est un emploi exclu aux termes de l’alinéa 5(2)i) de la Loi sur l’assurance-emploi (Loi).
+Faits
+[2] L’appelante, lors de son témoignage, a indiqué qu’elle travaille comme secrétaire pour l’entreprise de son conjoint, « Les Entreprises Ghislain Mathieu Inc. » (intervenante), depuis 30 ans.
+[3] L’intervenante exploitait une entreprise de transport et de chargement de bois. L’intervenante agissait à titre de sous-contractant pour la forestière Robec Inc.
+[4] L’intervenante employait quatorze chauffeurs et deux mécaniciens. En vertu de l’arrangement avec Robec Inc., cette dernière payait les chauffeurs, sauf pour le temps supplémentaire qui était payé par l’intervenante. Robec Inc. était la seule cliente de l’intervenante.
+[5] L’intervenante était propriétaire de sept camions et une chargeuse.
+[6] Les revenus bruts de l’intervenante se terminant le 30 avril étaient de :
+2004
+2005
+2006
+2007
+2008
+2009
+2 212 199
+2 458 463
+2 424 836
+2 208 959
+1 759 630
+1 585 949
+[7] Les tâches de l’appelante consistaient à payer les comptes, répondre au téléphone, faire les dépôts, les relevés d’emploi, les remises fédérales et provinciales, les rapports de TPS et TVQ, les rapports en ce qui à trait à la taxe d’accise sur le diesel, les conciliations des heures des camionneurs, commander des pièces pour les camions au besoin, les conciliations mensuelles et annuelles et nécessairement, la correspondance.
+[8] Le bureau de l’intervenante était situé dans la résidence de l’appelante et de son conjoint Ghislain Mathieu. Le bureau était aménagé avec un ordinateur, une photocopieuse et une imprimante. L’appelante utilisait les outils de l’intervenante pour effectuer ses tâches.
+[9] Quant aux heures travaillées, l’appelante indiquait lors de son témoignage « quand on travaille, on travaille 24 sur 24 pendant 7 jours ». Par ceci, j’ai compris que l’appelante travaillait généralement de 8 heures à 12 heures et de 13 heures à 17 heures. Cependant, quand le téléphone sonnait après les heures d’affaires, elle répondait au téléphone. Nécessairement, comme l’a expliqué l’appelante, « quand tu as une compagnie, tu veux réussir ».
+[10] En contre-interrogatoire, l’appelante indiquait que la période creuse pour l’intervenante était de mars à mai, parfois jusqu’en août.
+[11] L’appelante indiquait aussi qu’elle avait l’autorité de signer tous les chèques, elle n’avait aucune limite monétaire.
+[12] Durant la période où les activités de l’intervenante ralentissaient, l’appelante travaillait de six à sept heures par semaine.
+[13] Il arrivait que l’appelante fasse son travail à partir du chalet, mais son conjoint, M. Mathieu, indiquait qu’ils s’y rendaient surtout la fin de semaine et très rarement durant la semaine. De plus, l’appelante apportait avec elle du travail au chalet. L’intervenante n’y voyait aucun inconvénient.
+[14] Quant à la question à savoir si une autre personne accepterait d’être sur appel 24/7, l’appelante répondait : « on est propriétaire, je suis l’épouse, il faut travailler ».
+[15] M. Mathieu a aussi indiqué lors de son témoignage, qu’avant de travailler pour Robec Inc., l’intervenante était sous-contractante pour Abitibi Bowater Inc. Quand Abitibi Bowater Inc. a fermé, l’intervenante est devenue sous-contractante pour Robec Inc.
+[16] Robec Inc. donnait tellement de travail à l’intervenante, que M. Mathieu devait téléphoner l’appelante le soir, pour s’assurer qu’elle commande des pièces pour le jour suivant.
+[17] M. Mathieu indiquait qu’il n’y a pas une secrétaire qui aurait fait sa job.
+[18] Il n’aurait pas non plus donné à quelqu’un d’autre que l’appelante l’autorisation de signer des chèques pour l’intervenante, sans limite monétaire.
+[19] Quant à l’augmentation du salaire de l’appelante, il a indiqué que l’augmentation avait été donnée avant que l’économie forestière et que et les activités de l’entreprise ralentissent. Le salaire de l’appelante est passé de 520 $ brut par semaine, incluant le 4 % de retenue pour les vacances à 728 $ brut par semaine à partir du 7 février 2010, soit une augmentation de 40%.
+[20] Quand l’avocate de l’intimé lui demandait pourquoi il avait mis à pied l’appelante en août, alors qu’au mois d’août 2010, les activités de l’intervenante étaient en hausse, il a répondu que c’est une décision qu’ils avaient prise ensemble.
+Analyse
+[21] L’intimé ne conteste pas le fait que l’appelante travaillait pour l’intervenante, mais elle fait valoir que l’emploi de l’appelante est un emploi exclu en vertu de l’alinéa 5(2)i) de la LAE.
+L’alinéa 5(2)i) indique :
+(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre un lien de dépendance.
+[22] Le lien de dépendance n’est pas contesté dans le présent appel. L’appelante est la conjointe de l’unique actionnaire de l’intervenante.
+[23] L’appelante et l’intervenante contestent la décision de l’intimé quant à l’application de l’alinéa 5(3)b) de la LAE qui se lit de la façon suivante :
+5(3) Pour l’application de l’alinéa (2)i) :
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[24] Le juge en chef Richard de la Cour d’appel fédérale a expliqué dans l’arrêt Denis c. Ministre du Revenu national, 2004 FCA 26 (F.C.A.), le rôle du juge de la Cour canadienne de l’impôt dans un appel d’une détermination du ministre sur les dispositions d’exclusion contenues aux paragraphes 5(2) et (3) de la Loi :
+[5] Le rôle du juge de la Cour canadienne de l’impôt dans un appel d’une détermination du ministre sur les dispositions d’exclusion contenues aux paragraphes 5(2) et (3) de la Loi est de s’enquérir de tous les faits auprès des parties et les témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre paraît toujours raisonnable. Toutefois, le juge ne doit pas substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus (voir Pérusse c. Canada (ministre du Revenu national – M.R.N.), [2000] A.C.F. no 310, 10 mars 2000).
+[25] Selon l’intimé les liens de dépendance entre l’intervenante et l’appelante régissaient les conditions d’emploi de l’appelante. Tel qu’indiqué dans l’arrêt Denis, je ne peux pas substituer ma propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux. De plus rien ne permet de penser que les faits ont été mal perçus par l’intimé.
+[26] À la lumière des témoignages lors du procès quant à la rétribution, les modalités d’emploi, la durée du travail, et la nature du travail de l’appelante :
+- l’augmentation de salaire de 40% et plus particulièrement alors que les activités de l’industrie forestière ralentissaient;
+- heures travaillées par l’appelante, la disponibilité de l’appelante 24 heures, 7 jours par semaine;
+- la mise à pied de l’appelante sans de véritables motifs au mois d’août, période où les activités de l’intervenante étaient à nouveau en hausse;
+je ne peux pas conclure que les faits ont été mal perçus par l’intimé. Je ne peux pas également conclure que l’intimé n’a pas été raisonnable en appliquant sa discrétion comme il l’a fait dans le présent litige, c'est-à-dire en étant convaincu que l’appelante et l’intervenante n’auraient pas conclu un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[27] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour d’octobre 2011.
+« Johanne D’Auray »
+Juge D'Auray
+RÉFÉRENCE : 2011 CCI 463
+Nº DU DOSSIER DE LA COUR : 2011-1538(EI)
+INTITULÉ DE LA CAUSE : NICOLE MARCIL ET M.R.N. ET LES ENTREPRISES GHISLAIN MATHIEU INC.
+LIEU DE L’AUDIENCE : Chicoutimi (Québec)
+DATE DE L’AUDIENCE : Le 23 septembre 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Johanne D'Auray
+DATE DU JUGEMENT : Le 3 octobre 2011
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Marie-France Dompierre
+Représentant pour l'intervenante:
+Ghislain Mathieu
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

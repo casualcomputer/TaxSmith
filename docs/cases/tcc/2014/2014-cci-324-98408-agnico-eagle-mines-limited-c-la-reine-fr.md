@@ -1,0 +1,273 @@
+---
+title: "Agnico-Eagle Mines Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98408/index.do"
+last_modified: "2014-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 324"
+citation2: ""
+neutral_citation: "2014 CCI 324"
+decision_date: "2014-11-04"
+language: "fr"
+item_id: "98408"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5261
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:40:30.791000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d0ae25c936dc7fb85a57eceb9f746dec13de6ddc8356bbcec313588091ed8e2b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Agnico-Eagle Mines Limited c. La Reine
+
+- Citation: 2014 CCI 324
+- Decision date: 2014-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5261, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Agnico-Eagle Mines Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-04
+Référence neutre
+2014 CCI 324
+Numéro de dossier
+2012-2524(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2524(IT)G
+ENTRE :
+AGNICO-EAGLE MINES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu du 12 au 14 mai 2014 à Toronto (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocats de l’appelante :
+Me Brian R. Carr
+Me Gerald Grenon
+Me Christopher Sheridan
+Avocats de l’intimée :
+Me Arnold H. Bornstein
+Me Louis L’Heureux
+JUGEMENT
+L’appel interjeté des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations; il tiendra compte du fait que l’appelante n’a réalisé aucun gain de change par suite de la conversion de ses débentures convertibles.
+Les dépens sont adjugés à l’appelante.
+Signé à Ottawa (Ontario), ce 4e jour de novembre 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de mars 2015.
+François Brunet, réviseur
+Référence : 2014 CCI 324
+Date : 20141104
+Dossier : 2012-2524(IT)G
+ENTRE :
+AGNICO-EAGLE MINES LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE JUGEMENT
+La juge Woods
+I. Introduction
+[1] En 2002, Agnico-Eagle Mines Limited (« Agnico »), une société canadienne imposable, a émis des débentures convertibles en dollars américains pour un prix global de 143 750 000 $US. Le présent appel soulève une intéressante question : Agnico a-t-elle réalisé des gains de change par suite de la conversion des débentures convertibles et de leur rachat en contrepartie d’actions ordinaires d’Agnico?
+[2] Une cotisation a été établie à l’égard d’Agnico pour les années d’imposition 2005 et 2006 en tenant pour acquis qu’elle avait réalisé des gains en capital réputés de 4 499 360 $ et de 57 676 430 $ respectivement, aux termes du paragraphe 39(2) de la Loi de l’impôt sur le revenu (la « Loi »). Agnico interjette appel de ces cotisations et soutient qu’elle n’a réalisé aucun gain de change.
+[3] La Couronne soutient essentiellement que des gains de change ont été réalisés, parce que les conversions et le rachat ont donné lieu à un remboursement de la dette égal à son principal en dollars américains, qui avait été réduit lorsqu’il a été converti en dollars canadiens (observations de l’intimée, paragraphe 35).
+[4] En raison des fluctuations de la valeur de la monnaie, le principal exprimé en dollars canadiens a diminué d’approximativement 40 pour 100 au moment des conversions et du rachat, passant approximativement de 1 588 $CAN à 1 150 $CAN par débenture convertible.
+[5] Pour sa part, Agnico affirme que le principal de la dette est devenu sans importance après que les détenteurs eurent exercé leur droit de conversion, ainsi que la plupart l’ont fait. Elle soutient qu’il était impossible qu’un gain ait été réalisé parce qu’elle a emprunté un montant d’argent très inférieur à celui qu’elle a versé en dollars canadiens (c.‑à‑d. qu’elle a emprunté 228 289 375 $ et versé 280 987 312 $, suivant la valeur des actions ordinaires émises en faveur des détenteurs).
+[6] Je crois savoir que c’est la première fois qu’un juge canadien est appelé à se pencher sur cette question.
+[7] Par les motifs exposés ci‑après, je conclus qu’un gain de change a été réalisé relativement au rachat seulement, et non pas à l’égard des conversions.
+[8] Sauf indication contraire, les montants d’argent dont il est question dans les présents motifs sont exprimés en dollars canadiens.
+II. Faits
+[9] Les faits exposés ci‑après sont tirés principalement de l’exposé conjoint partiel des faits.
+[10] Agnico exploite une entreprise productrice d’or qui mène des activités dans plusieurs pays. Il s’agit d’une société ouverte régie par les dispositions de la Loi sur les sociétés par actions (Ontario) et, pendant la période pertinente, ses actions ordinaires (« actions ordinaires ») étaient cotées à la Bourse de New York et à la Bourse de Toronto.
+Modalités des débentures convertibles
+[11] Le 15 février 2002 ou vers cette date, des investisseurs ont acheté, conformément à un prospectus, 143 750 débentures subordonnées convertibles (les « débentures convertibles ») d’Agnico, qu’ils ont payées 1 000 $US chacune. Les débentures convertibles ont été négociées sur la Bourse de Toronto.
+[12] Les modalités des débentures convertibles ont été énoncées dans un contrat bilatéral conclu entre Agnico et Computershare Trust Company of Canada, qui stipulait ce qui suit :
+a) le taux d’intérêt annuel était de 4,50 pour 100;
+b) le principal était de 1 000 $US, payable à échéance le 15 février 2012;
+c) chaque débenture convertible était rachetable au gré d’Agnico le 15 février 2006 ou vers cette date, et le prix de rachat (le « prix de rachat ») était égal au principal, plus les intérêts courus impayés. Au moment du rachat, Agnico pouvait remettre des actions ordinaires plutôt qu’une somme d’argent;
+d) chaque débenture convertible pouvait être convertie au gré d’un détenteur en 71,429 actions ordinaires à tout moment avant le rachat ou l’échéance. Si Agnico publiait un avis de rachat, le droit de conversion pouvait être exercé jusqu’à la date du rachat.
+[13] Compte tenu du taux de conversion de 71,429 actions ordinaires pour chaque débenture convertible, les actions ordinaires devaient avoir une valeur de 14 $US pour que le détenteur touche l’équivalent de 1 000 $US à la conversion. À l’émission des débentures convertibles, les actions ordinaires étaient négociées à la Bourse de New York à 12,68 $US environ.
+[14] Pour simplifier les choses, le cours des actions ordinaires sur la Bourse de Toronto n’est pas signalé dans les présents motifs. Je ne crois pas que cela soit pertinent dans le présent appel.
+[15] Agnico détenait les débentures convertibles à titre de capital.
+Détails des conversions
+[16] Au total, 142 639 des 143 750 débentures convertibles émises initialement en 2002 ont été converties en des actions ordinaires dans les années 2005 et 2006. Le gros des conversions a eu lieu après qu’Agnico eut publié un avis de rachat à la fin de l’année 2005.
+[17] Au moment des conversions, les actions ordinaires étaient négociées à la Bourse de New York à des prix allant de 14,63 $US à 24,15 $US. Comme un cours de 14,00 $US permettait au détenteur effectuant une conversion d’obtenir l’équivalent de 1 000 $US par débenture convertible, tous les détenteurs effectuant une conversion ont reçu des actions ordinaires dont le cours global était supérieur au principal de la dette.
+Détails du rachat
+[18] Le 20 décembre 2005, Agnico a donné avis de son intention de racheter la totalité des débentures convertibles en circulation le 15 février 2006, à savoir à la première date possible aux termes du contrat bilatéral. Agnico pouvait racheter les débentures convertibles en contrepartie d’actions ordinaires, ce qu’elle a fait.
+[19] Le prix payable au rachat était égal au principal de la dette, plus les intérêts courus impayés (le « prix de rachat »). L’intérêt impayé à la date du rachat s’élevait à 22,68 $US, de sorte que le prix de rachat était de 1 022,68 $US.
+[20] Un avis de rachat a été envoyé aux détenteurs pour les informer du rachat, le 15 février 2006, de toute débenture convertible en circulation, en contrepartie de 63,4767 actions ordinaires par débenture convertible. Le nombre d’actions a été fixé en fonction d’une formule prévue dans le contrat bilatéral.
+[21] Étant donné que la conversion donnait lieu à l’émission de plus d’actions ordinaires que le rachat (71,429 par rapport à 63,4767), la plupart des détenteurs ont exercé leur droit de conversion après avoir reçu l’avis de rachat.
+[22] La valeur des actions ordinaires déterminée au moyen de la formule de rachat était de 16,58 $US. À la date du rachat, le dernier cours des actions ordinaires s’est en fait établi à 23,92 $US à la Bourse de New York.
+Conversion de monnaies pertinente
+[23] Les taux de change qui jouaient aux dates pertinentes dans le présent appel sont les suivants :
+a) à la date d’émission des débentures convertibles, un dollar américain pouvait être échangé contre 1,5881 dollar canadien;
+b) au moment des conversions, un dollar américain pouvait être échangé contre 1,1443 à 1,1726 dollar canadien;
+c) à la date de rachat, un dollar américain pouvait être échangé contre 1,1541 dollar canadien.
+[24] Le total du principal des débentures convertibles exprimé en dollars canadiens à la date de l’émission s’élevait à 228 289 375 $.
+[25] En 2005, 10 855 débentures convertibles ont été converties. Exprimées en dollars canadiens à la date d’émission, les débentures convertibles ont été émises pour une somme globale de 17 238 825 $. Exprimées en dollars canadiens au moment des conversions, les actions ordinaires émises lors des conversions avaient un cours total d’approximativement 17 010 810 $. (Dans les présents motifs, il n’est pas tenu compte du montant en espèces pour les fractions d’actions.)
+[26] En 2006, 131 784 débentures convertibles ont été converties. Exprimées en dollars canadiens au moment de l’émission, elles ont été émises pour une somme globale de 209 286 170 $. Exprimées en dollars canadiens au moment des conversions, les actions ordinaires émises au moment des conversions avaient un cours total d’approximativement 262 029 722 $.
+[27] En 2006, 1 111 débentures convertibles ont été rachetées. Exprimées en dollars canadiens au moment de l’émission, elles ont été émises pour une somme globale de 1 764 379 $. Exprimées en dollars canadiens au moment du rachat, les actions ordinaires émises lors du rachat avaient un cours total d’approximativement 1 946 780 $.
+Traitement comptable
+[28] Les deux parties ont soutenu que le traitement comptable des opérations n’était pas pertinent dans le cadre de l’appel. Aucun élément de preuve comptable spécifique n’a donc été versé aux débats.
+Compte capital déclaré
+[29] Pour l’application des dispositions sur le capital déclaré prévues dans la Loi sur les sociétés par actions (Ontario), Agnico tient un compte capital déclaré en dollars canadiens.
+[30] Le 31 janvier 2002, le conseil d’administration d’Agnico a adopté la résolution suivante à l’égard des actions ordinaires pouvant être émises en contrepartie des débentures convertibles :
+[traduction]
+11. il est par les présentes entendu que la contrepartie globale aux fins de l’émission de temps à autre de chaque action ordinaire de la société pouvant être émise à la conversion, au rachat ou à l’échéance des débentures, ou d’autres actions ordinaires qui pourraient être émises conformément aux modalités du contrat bilatéral (les « actions ordinaires sous‑jacentes »), est définie dans les modalités du contrat bilatéral (la « contrepartie ») et que la juste valeur de la contrepartie n’est pas inférieure à la somme d’argent que la société aurait reçue si les actions ordinaires sous‑jacentes avaient été émises en contrepartie d’une somme d’argent;
+[31] Le conseil d’administration n’a adopté aucune résolution ajoutant un montant en dollars exact au capital déclaré relativement à l’émission d’actions ordinaires lors d’une conversion ou d’un rachat. Ni l’une ni l’autre partie n’a soutenu que cela compromettait la validité des actions.
+[32] À l’audience, Agnico a cherché à produire un témoignage d’expert concernant l’ajout approprié au compte capital déclaré d’une société à la conversion des débentures en actions. Agnico a soutenu que le rapport de l’expert était admissible étant donné qu’il se rapportait à une pratique commerciale plutôt qu’au droit interne.
+[33] La pertinence de l’opinion d’expert est contestable, mais, quoi qu’il en soit, j’ai conclu que le rapport d’expert devait être exclu au motif que, fondamentalement, il expose une opinion sur le droit interne concernant les exigences relatives aux comptes de capital déclaré qui sont énoncées dans la Loi sur les sociétés par actions (Ontario). Or, le droit est bien fixé : l’opinion d’un expert sur le droit interne n’est pas admissible.
+Cotisations d’impôt sur le revenu
+[34] Lorsqu’une cotisation a été établie à l’égard d’Agnico, il a été tenu compte du fait qu’elle avait réalisé des gains en capital réputés lors des conversions et du rachat selon le paragraphe 39(2) de la Loi. Les montants des cotisations établies sont identiques à ce qu’ils auraient été si le principal avait été remboursé en espèces.
+[35] Le ministre a calculé les gains au moyen de taux de change approximatifs, qu’il a appliqués au principal de la dette à la date de l’émission et aux dates auxquelles les débentures convertibles ont été éteintes par les conversions et le rachat. D’où les cotisations faisant état de gains en capital réputés de 4 499 360 $ et de 57 676 430 $ pour les années d’imposition 2005 et 2006 respectivement.
+III. Thèses des parties
+[36] La thèse de la Couronne, tirée de la réponse modifiée, est reproduite ci‑après.
+[traduction]
+33. L’obligation de l’appelante à l’égard des débentures convertibles a été réduite par suite d’une fluctuation de la valeur du dollar américain par rapport au dollar canadien, entre la date de leur émission et la date des conversions ou rachats. Cette obligation a été réduite de 4 499 360 $CAN relativement aux débentures convertibles qui ont été converties en 2005, et de 57 676 430 $CAN relativement aux débentures convertibles qui ont été converties ou rachetées en 2006.
+34. Par suite d’une fluctuation de la valeur du dollar américain par rapport au dollar canadien, l’appelante a été en mesure, lors des conversions et des rachats des débentures convertibles, de s’acquitter de sa dette initiale de 17 238 826 $CAN pour 12 739 466 $CAN relativement à l’année d’imposition 2005, et de sa dette initiale de 211 050 550 $CAN pour 153 374 120 $CAN relativement à l’année d’imposition 2006.
+35. En conséquence, par suite d’une fluctuation de la valeur du dollar américain par rapport au dollar canadien, l’appelante a réalisé des gains en capital de 4 499 360 $ et de 57 676 430 $ dans les années d’imposition 2005 et 2006 respectivement.
+36. Le paragraphe 51(1) de la Loi n’a aucune incidence sur les gains en capital réalisés par l’appelante. Ce paragraphe s’applique uniquement à l’égard du détenteur de débentures dont les débentures sont converties ou rachetées en contrepartie d’actions d’une société.
+[37] La thèse d’Agnico est tirée de l’avis d’appel modifié supplémentaire.
+[traduction]
+43. Pour les motifs qui suivent, l’appelante ne pouvait pas réaliser un gain en capital dans l’une ou l’autre des années d’imposition 2005 ou 2006 suivant le paragraphe 39(2) par suite des conversions effectuées en 2005 et en 2006 :
+(i) Le paragraphe 39(2) ne joue pas à l’égard des conversions qui ont été effectuées en 2005 et en 2006. L’appelante n’a pas racheté les débentures convertibles qui ont été converties lors des conversions de 2005 ou de 2006. Les débentures convertibles représentaient un prix de souscription pour les actions ordinaires qui ont été émises lors des conversions. Au moment des conversions des débentures convertibles, l’appelante a accepté le prix de souscription des actions ordinaires en lesquelles les débentures convertibles ont été converties.
+(ii) Conformément au paragraphe 261(2), le montant que l’appelante a touché en contrepartie des actions ordinaires a été fixé en 2002 et il n’a pas varié du fait de quelque fluctuation que ce soit du taux de change pour la monnaie américaine et la monnaie canadienne après cette date. L’appelante n’a touché aucun autre montant dans les années d’imposition 2005 et 2006, dans lesquelles le ministre allègue que l’appelante a réalisé des gains substantiels.
+(iii) La juste valeur marchande des actions ordinaires émises lors des conversions des débentures convertibles était supérieure au principal des débentures convertibles converties au cours des années en question.
+(iv) L’appelante a touché 17 238 825 $CAN pour l’émission des débentures convertibles qui ont été converties en actions ordinaires en 2005, et 209 286 170 $CAN pour l’émission des débentures convertibles qui ont été converties en actions ordinaires en 2006. Le capital déclaré des actions ordinaires a été augmenté de chacun de ces montants.
+(v) Le paragraphe 51(1) dispose que la conversion des débentures convertibles ne donne lieu à aucune acquisition ou disposition d’un bien; en conséquence, il n’y a eu aucune opération qui puisse donner naissance à un gain ou à une perte en 2005 ou en 2006.
+44. L’appelante reconnaît qu’elle aurait pu réaliser un gain de change selon les dispositions de la Loi lors du rachat des 1 111 débentures convertibles en 2006, mais qu’elle n’en a réalisé aucun concrètement. Les actions ordinaires que l’appelante a émises lors du rachat de ces actions convertibles avaient une valeur en dollar canadien supérieure au montant en dollar canadien pour lequel ces débentures convertibles ont été émises. Le ministre a conclu erronément que l’appelante avait réalisé un gain relativement au rachat des 1 111 débentures convertibles en 2006.
+IV. Analyse
+Économie générale de la Loi
+[38] Un gain ou une perte de change était généralement réputé avoir été réalisé lors du remboursement d’une dette exprimée en monnaie étrangère, même s’il n’y avait en fait aucune conversion en monnaie canadienne comme telle de la somme d’argent empruntée. Cette opinion a été plus récemment confirmée dans la loi.
+[39] Les dispositions pertinentes de la Loi relativement à une dette imputable au capital sont les paragraphes 39(2) et 261(2). Le paragraphe 39(2) dispose, de manière générale que, si un gain est réalisé par suite de fluctuations de la valeur d’une monnaie étrangère, il est réputé être un gain en capital résultant de la disposition d’une monnaie étrangère. S’il n’y a aucune conversion comme telle de la monnaie étrangère, le paragraphe 261(2) de la Loi dispose que la monnaie étrangère doit être convertie en monnaie canadienne aux taux de change au comptant.
+[40] L’application de ces dispositions au remboursement d’une dette exprimée en monnaie étrangère est assez simple. Le prix d’émission de la dette est converti en dollars canadiens, calculés à la date de l’émission, et le montant payé lors du remboursement est converti en dollars canadiens, calculés à la date du remboursement. S’il s’agit d’une dette imputable au capital, la réduction de ces montants est réputée donner lieu à un gain en capital aux termes du paragraphe 39(2).
+[41] Les dispositions pertinentes de la Loi, dans le texte en vigueur pendant les années d’imposition pertinentes, sont reproduites ci‑après.
+39(2) Gains et pertes en capital relatifs aux monnaies étrangères – Malgré le paragraphe (1), lorsque, par suite de toute fluctuation, postérieure à 1971, de la valeur de la monnaie ou des monnaies d’un ou de plusieurs pays étrangers par rapport à la monnaie canadienne, un contribuable a réalisé un gain ou subi une perte au cours d’une année d’imposition, les règles suivantes s’appliquent :
+a) est réputé être un gain en capital du contribuable pour l’année, tiré de la disposition de la monnaie d’un pays étranger, gain en capital qui est le montant déterminé en vertu du présent alinéa, l’excédent éventuel :
+(i) du total de ces gains réalisés par le contribuable au cours de l’année (jusqu’à concurrence des montants de ceux-ci qui, si l’article 3 était lu de la manière indiquée à l’alinéa (1)a) du présent article, ne seraient pas inclus dans le calcul de son revenu pour l’année ou pour toute autre année d’imposition),
+sur :
+(ii) le total des pertes subies par le contribuable au cours de l’année (jusqu’à concurrence des montants de celles-ci qui, si l’article 3 était lu de la manière indiquée à l’alinéa (1)a) du présent article, ne seraient pas déductibles dans le calcul de son revenu pour l’année ou pour toute autre année d’imposition),
+(iii) si le contribuable est un particulier, 200 $;
+b) est réputé être une perte en capital du contribuable pour l’année, résultant de la disposition de la monnaie d’un pays étranger, perte en capital qui est le montant déterminé en vertu du présent alinéa, l’excédent éventuel :
+(i) du total déterminé en vertu du sous-alinéa a)(ii),
+sur :
+(ii) le total déterminé en vertu du sous-alinéa a)(i),
+(iii) si le contribuable est un particulier, 200 $.
+[…]
+261(2) Monnaie canadienne – exigences – Les règles ci-après s’appliquent au calcul des résultats fiscaux canadiens d’un contribuable pour une année d’imposition :
+a) sous réserve du présent article, à l’exception du présent paragraphe, la monnaie à utiliser est le dollar canadien;
+b) sous réserve du présent article, à l’exception du présent paragraphe, du paragraphe 79(7) et des alinéas 80(2)k) et 142.7(8)b), toute somme prise en compte dans le calcul de ces résultats qui est exprimée dans une monnaie autre que le dollar canadien est convertie en son équivalence en dollars canadiens selon le taux de change au comptant affiché le jour où elle a pris naissance.
+Application aux conversions
+[42] Le présent appel concerne l’application potentielle des paragraphes 39(2) et 261(2) aux conversions et au rachat des débentures convertibles. J’analyserai d’abord les conversions, car elles représentent le gros de tous les montants visés par les cotisations.
+[43] Les débentures convertibles sont imputables au capital pour Agnico. Par conséquent, aux termes du paragraphe 39(2), il faut que des gains en capital soient réalisés pour que les conversions donnent lieu à des gains pour Agnico par suite des fluctuations de la valeur d’une monnaie étrangère.
+[44] La question centrale est donc celle de savoir si Agnico a réalisé des gains lors des conversions par suite des fluctuations de la valeur d’une monnaie étrangère.
+[45] Cette analyse appelle une comparaison entre le montant reçu en contrepartie de l’émission des débentures convertibles et le montant versé pour éteindre les débentures convertibles lors des conversions, ces deux montants étant exprimés en dollars canadiens. S’il subsiste un doute quant à la question de savoir si une débenture convertible a été éteinte lors d’une conversion, ce doute est dissipé par l’article 2.15 du contrat bilatéral (dernier paragraphe).
+[46] Il est utile d’examiner d’abord l’affaire d’un point de vue économique. Sous cet angle, il est clair qu’Agnico n’a réalisé aucun gain lors des conversions et qu’elle a plutôt subi une perte globale. Autrement dit, le montant qu’Agnico a reçu en contrepartie de l’émission des débentures convertibles était de loin inférieur à celui qu’elle a payé, ce montant étant calculé en fonction du cours des actions ordinaires émises lors des conversions.
+[47] Cela ne règle cependant pas la question. Le calcul de la somme d’argent payée par Agnico du fait de l’émission d’actions ordinaires n’est pas nécessairement illustré par le cours des actions. Au contraire, le montant payé par Agnico est celui en contrepartie duquel les actions ordinaires ont été émises : Teleglobe Canada Inc. c. La Reine, 2002 CAF 408, et King Rentals Ltd. v. The Queen, 96 DTC 1132 (CCI).
+[48] La jurisprudence Teleglobe enseigne que le montant payé pour les actions qui sont émises en contrepartie d’un bien est la « véritable contrepartie » des actions, généralement déterminée au moyen de la convention conclue entre les parties. Il peut aussi être illustré dans le compte capital déclaré qui est maintenu pour les actions parce que la société est tenue de refléter la véritable contrepartie dans ce compte.
+[49] Le juge Pelletier, de la Cour d’appel fédérale, expose le principe au paragraphe 31 de l’arrêt Teleglobe :
+[31] En l’absence de facteurs qui rendraient la transaction inattaquable, la convention des parties détermine le coût, pour la société, de l’émission d’actions en échange de biens. En vertu de la loi, la société doit refléter la véritable contrepartie reçue pour l’émission des actions de ses comptes de capital. En conséquence, bien que l’on puisse affirmer que les comptes de capital sont une indication de la convention conclue entre les parties, c’est cette dernière et non les comptes de capital qui déterminent le coût. Par conséquent, le juge de première instance avait raison de dire que la contrepartie correspondait au montant convenu entre les parties et « reflété » dans la résolution adoptée par les administrateurs et par l’augmentation du capital déclaré des catégories d’actions émises (voir le paragraphe 12 ci-dessus).
+[50] Il faut donc déterminer la contrepartie telle qu’elle a été convenue par les parties et telle qu’elle est indiquée dans le compte capital déclaré.
+[51] En l’espèce, le compte capital déclaré tenu par Agnico n’est d’aucune utilité, parce qu’aucun montant en dollar spécifique n’a été ajouté à ce compte par Agnico relativement aux conversions.
+[52] Je me pencherai donc sur les documents des opérations qui énoncent les modalités des débentures convertibles. Le contrat bilatéral et le prospectus prévoient clairement que les actions ordinaires doivent être émises pour la somme de 14 $US l’action ordinaire, ce qui correspond à 1 000 $US par débenture convertible (première page du prospectus, et article 12.2 du contrat bilatéral, qui prévoit un taux de conversion de [traduction] « 71,429 actions par montant en principal de 1 000 $US des titres »).
+[53] Agnico soutient en substance que ces stipulations ne reflètent pas l’entente intervenue entre les parties. Elle soutient que les actions ordinaires sont émises pour une somme correspondant à la juste valeur marchande des débentures convertibles au moment des conversions, ce qui est approximativement égal au cours des actions ordinaires.
+[54] Si je comprends bien, cet argument repose sur le fait que les parties ont convenu d’échanger les débentures convertibles contre des actions ordinaires. Je ne souscris pas à cette observation, parce qu’elle ne tient pas dûment compte des documents de l’opération, ni ne témoigne avec exactitude de la véritable contrepartie reçue par Agnico contre les actions ordinaires. Agnico a reçu 1 000 $US par débenture convertible et, en échange, elle s’est engagée à émettre 71,429 actions ordinaires. C’est cet engagement qui a abouti à l’émission des actions ordinaires, et non le fait qu’Agnico a reçu une somme correspondant à la juste valeur marchande des débentures convertibles.
+[55] J’en conclus donc que la contrepartie reçue pour l’émission des actions ordinaires est de 14 $US par action ordinaire, ou de 1 000 $US par débenture convertible. En outre, suivant la jurisprudenceTeleglobe, c’est le montant qu’a payé Agnico pour éteindre les débentures convertibles lors des conversions.
+[56] Où en sommes-nous? En fin de compte, le montant qu’Agnico a reçu lors de l’émission d’une débenture convertible et le montant qu’elle a payé pour éteindre une débenture convertible est dans chaque cas de 1 000 $US.
+[57] Il reste donc, pour résoudre l’énigme, à convertir ces deux montants en dollars canadiens, ainsi que le prescrit le paragraphe 261(2).
+[58] Selon le paragraphe 261(2), les montants en cause doivent être convertis en dollars canadiens aux taux de change au comptant affichés à la date à laquelle les montants ont « pris naissance ».
+[59] La date de conversion pertinente pour ce qui est du montant reçu par Agnico en contrepartie de l’émission des débentures convertibles n’est pas en litige – il s’agit de la date de l’émission des débentures convertibles, soit approximativement le 15 février 2002.
+[60] La date de conversion qui devrait s’appliquer à l’égard du montant versé par Agnico lors des conversions est moins claire. Agnico soutient que la date applicable est la date à laquelle les débentures convertibles ont été émises. La Couronne affirme que la date qui s’applique est la date à laquelle la dette a été éteinte.
+[61] À mon avis, la date de conversion pertinente doit être la date à laquelle Agnico a reçu la contrepartie des actions ordinaires. Était‑ce le montant payé lors de l’émission des débentures convertibles ou était‑ce le montant de la dette éteinte lors de la conversion? La question est complexe, en partie parce que les montants en cause sont les mêmes – 1 000 $US.
+[62] Je conclus que la date de conversion qui joue dans ce cas‑ci est la date à laquelle les débentures convertibles ont été émises. C’est à cette date qu’Agnico a reçu la véritable contrepartie de l’émission des actions ordinaires. Je tiens à insister sur le fait que cette conclusion repose sur les faits propres à la présente affaire.
+[63] Je me suis guidée, pour tirer cette conclusion, sur une analogie faite avec un exemple simple dans lequel les montants en cause sont différents. Supposons que des débentures convertibles soient émises pour 1 500 $, que le principal de la dette soit de 1 100 $, et que les débentures convertibles soient convertibles en contrepartie d’un nombre déterminé d’actions ordinaires. Lors de la conversion des débentures convertibles en actions ordinaires, quelle est la contrepartie des actions? Est‑ce 1 500 $ ou est‑ce 1 100 $? À mon avis, la véritable contrepartie est de 1 500 $. Cette somme a été reçue par l’émetteur et, en contrepartie, le détenteur avait droit à un montant fixe d’actions ordinaires. Conclure que les détenteurs ont payé les actions ordinaires seulement 1 100 $ ne reflète pas la réalité.
+[64] La Couronne soutient que la contrepartie n’est pas le prix d’émission des débentures convertibles, mais le principal de la dette au moment des conversions. Elle se fonde sur l’article 12.3 du contrat bilatéral, qui énonce les procédures de conversion. Le passage pertinent est reproduit ci‑après.
+[traduction]
+Nul paiement ni rajustement ne sera effectué au titre des dividendes versés sur des actions ordinaires ou de toutes autres distributions faites relativement à celles‑ci, sauf ainsi que le prévoit l’article 12. Les actions ordinaires émises lors de la conversion (ainsi que le paiement en espèces, le cas échéant, à la place de fractions d’actions) sont imputées à l’extinction complète de l’obligation de la société de rembourser le principal. [Non souligné dans l’original.]
+[65] Avec égards, je rejette la thèse de la Couronne portant que le passage susmentionné vise à indiquer la contrepartie des actions ordinaires. Ce passage est enfoui dans une longue clause énonçant les procédures de conversion et il a, à mon avis, un objet plus limité.
+[66] Tout ce que l’article 12.3 paraît accomplir, c’est de s’assurer que la dette a été acquittée lors d’une conversion. Cependant, l’émission des actions ordinaires ne fait pas simplement qu’éteindre la dette. Elle éteint également l’engagement d’Agnico d’émettre des actions ordinaires, qui fait partie intégrante du droit de conversion.
+[67] Par ces motifs, je conclus que l’équivalent de 1 588 $ a été reçu par débenture convertible à l’émission de la débenture convertible et que le même montant a été payé aux fins de l’extinction des débentures convertibles lors des conversions. Il n’y a eu aucun gain de change.
+[68] Compte tenu de cette conclusion, il n’est pas nécessaire que je me penche sur l’observation d’Agnico concernant le transfert en franchise d’impôt que prévoit le paragraphe 51(1) de la Loi.
+[69] Enfin, je signalerais que je ne me suis pas fondée sur une jurisprudence qu’Agnico a invoquée avec insistance pour soutenir que la contrepartie des actions est le prix d’émission des débentures convertibles : Insight Venture Associates III, LLC v. SLMSOFT Inc., 67 OR (3rd) 115 (CSJO). Cette jurisprudence porte sur des débentures convertibles dans un contexte de droit commercial. Je ne me suis pas fondée sur cette jurisprudence parce que les motifs exposés verbalement à l’occasion de cette affaire ne sont pas suffisamment clairs sur le point en litige.
+Application au rachat
+[70] Je me pencherai maintenant sur le rachat des débentures convertibles qui a eu lieu le 15 février 2006.
+[71] Agnico soutient qu’elle n’a réalisé aucun gain de change lors du rachat étant donné qu’elle a dû verser un montant supérieur à celui qu’elle a reçu. Elle se fonde à cet égard sur le fait que le cours des actions ordinaires émises lors du rachat avait une valeur supérieure au montant reçu lors de l’émission des débentures convertibles.
+[72] La Couronne, quant à celle, soutient qu’Agnico a versé un montant inférieur au montant qu’elle a reçu étant donné que le montant payé lors du rachat était fondé sur le principal qui, en dollars canadiens, avait diminué.
+[73] Je retiens la thèse de la Couronne sur cette question. Il ressort clairement des modalités du contrat bilatéral que les actions ordinaires émises lors du rachat sont en acquittement du prix de rachat devenu exigible à la date du rachat (article 3.5 du contrat bilatéral). Le prix de rachat était de 1 022,68 $US pour chaque débenture convertible, ce qui est égal au principal plus les intérêts impayés (exposé conjoint partiel des faits, onglet C).
+[74] Pour déterminer le nombre d’actions ordinaires qui seraient émises pour acquitter le prix de rachat, le contrat bilatéral contenait une formule qui avait pour effet d’évaluer les actions ordinaires à un prix différent du cours à la date de rachat. Plus particulièrement, cette formule utilisait des cours antérieurs et un déport. Conformément à cette formule, donc, 63,4767 actions ordinaires ont été émises pour chaque débenture convertible.
+[75] Compte tenu des clauses du contrat bilatéral, j’ai conclu que la contrepartie de l’émission des actions ordinaires était de 1 022,68 $US pour 63,4767 actions ordinaires.
+[76] La thèse d’Agnico selon laquelle les actions ordinaires doivent être évaluées au cours à la date du rachat ne tient pas dûment compte des clauses pertinentes du contrat bilatéral.
+[77] La détermination par le ministre du gain de change sur le rachat sera maintenue, et cette partie de l’appel sera rejetée.
+V. Conclusion
+[78] En bref, je conclus que nul gain de change n’a été réalisé lors des conversions et que la détermination par le ministre du gain de change sur le rachat doit être maintenue.
+[79] Les dépens seront adjugés à Agnico.
+Signé à Ottawa (Ontario), ce 4e jour de novembre 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de mars 2015.
+François Brunet, réviseur
+RÉFÉRENCE :
+2014 CCI 324
+No DU DOSSIER DE LA COUR :
+2012-2524(IT)G
+INTITULÉ :
+AGNICO-EAGLE MINES LIMITED et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Du 12 au 14 mai 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 4 novembre 2014
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Brian R. Carr
+Me Gerald Grenon
+Me Christopher Sheridan
+Avocats de l’intimée :
+Me Arnold H. Bornstein
+Me Louis L’Heureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Brian R. Carr
+Cabinet :
+KPMG cabinet juridique s.r.l./s.e.n.c.r.l.
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,189 @@
+---
+title: "Adm c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27171/index.do"
+last_modified: "2007-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 221"
+citation2: ""
+neutral_citation: "2007 TCC 221"
+decision_date: "2007-04-16"
+language: "en"
+item_id: "27171"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1010
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:12:06.066000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b2d6b7ec7d9c157539fedf03096ff0773e2dbeabfc302df8382c3b2d1ee3aac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Adm c. La Reine
+
+- Citation: 2007 TCC 221
+- Decision date: 2007-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1010, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adm c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-16
+Neutral citation
+2007 TCC 221
+File numbers
+96-4298(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 96-4298(IT)I 96-4380(IT)I
+2004-89(IT)I
+BETWEEN:
+ROGER ADM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________
+Appeals heard on common evidence,
+on March 3, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pierre Cossette
+Philippe Dupuis
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1991, 1992, 1993 and 1994 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of April 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 6th day of September 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC221
+Date: 20070416
+Dockets: 96-4298(IT)I
+96-4380(IT)I
+2004-89(IT)I
+BETWEEN:
+ROGER ADM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These appeals are for the 1991 to 1994 taxation years.
+[2] At the beginning of the hearing, the Appellant informed the Court that he did not dispute the relief sought by the Respondent in the Replies to the Notice of Appeal. However, he wished to add three additional grounds to his Notices of Appeal. The Respondent did not oppose those amendments.
+[3] For a useful understanding of this case, I quote the relief sought as set out in the Reply to the Notice of Appeal for 1993 and 1994. The relief sought in the other years in issue is substantially different.
+Provisions and grounds relied upon and relief sought
+8. The Deputy Attorney General of Canada relies, inter alia, on the version of sections 3, 9, 18(1)(a), 37, 96, 127, 237.1 and 248(1) of the Income Tax Act, R.S.C. 1985 (5th Supp.) c. 1, which apply to this matter. The Deputy Attorney General of Canada also relies on section 2900 of the Income Tax Regulations,
+C.R.C., 1978, c. 945, as amended.
+9. He submits that, given the circumstances as a whole, there is no genuine partnership carrying on a business, which means that its expenses or losses, if any, are not deductible.
+10. He submits that, in that case, the Appellant is a limited partner within the meaning assigned by subsection 96(2.4) of the Income Tax Act and, consequently, his share in the loss and tax credit of the alleged partnership is limited to his at-risk amount, in accordance with subsections 96(2.1), 96(2.2) and 127(8.1) as well as paragraph 96(1)(g) of the Act.
+11. He further submits that the Appellant is a member of the partnership other than a member who is actively engaged in the activities of the alleged partnership business or who is carrying on a similar business as that purported to be carried on by the alleged partnership in the year in issue.
+12. He submits that in accordance with subsection 237.1(6) of the Income Tax Act, the Appellant can neither claim a deduction in respect of participation in a tax shelter or a tax credit as he did not apply for a tax shelter number.
+13. Moreover, the Deputy Attorney General of Canada respectfully submits that, based on the above facts as a whole, the Court can find
+- that the “tax shelter” in question is a sham that does not qualify for any of the deductions claimed; and
+- that the Appellant was not a member of a partnership either on December 31, 1993, or December 31, 1994.
+[4] The first additional points raised by the Appellant refers to a guide published by Revenue Canada entitled “Scientific Research and Experimental Development -An Information Guide to the Tax Incentive Program.” The Appellant refers to the paragraphs entitled “Qualifying Canadian-controlled private corporations (refundable claims)” and “Other Canadian companies (refundable claims)” at pages 11 to 13 of the Guide. The paragraphs read as follows:
+[TRANSLATION]
+Qualifying Canadian-controlled private corporations (refundable claims)
+We validate all refundable claims before we assess the return and issue the final refund. At Revenue Canada, we usually complete this process within 120 days of receiving a complete claim. This enables claimants to be sure about their entitlement within a reasonable period of time. If the claim is incomplete, a letter will be sent advising them that they have 30 days to submit the missing information. Sometimes we can fast track claims, which means their claim is validated without an audit.
+Fast tracking – This procedure allows us to expedite the processing of claims for refundable investment tax credits.
+We can usually validate the claim and issue a refund to qualifying Canadian-controlled private corporations within 60 days of a complete claim being filed that does not create any problems.
+When we fast track claims, we will usually not review the claim again. Our field staff will determine whether a claim will be fast tracked or whether an audit is necessary.
+Other Canadian companies (non-refundable claims)
+Corporations that are not in the refundable program can still earn non-refundable SR&ED ITCS that they ca apply to reduce taxes payable. These companies are subject to the same filing requirements as the refundable corporations. We review these claims for completeness and, if incomplete, we request the missing information.
+We will send them a letter within 120 days of receiving a complete form. In the letter, we will inform them whether we have accepted their claim as filed without a standard audit, or whether we will begin a review of their claim shortly.
+[5] The Guide was filed as Exhibit A-1.
+[6] The Appellant argues that the Minister of National Revenue (“Minister”) committed to validating the refundable claims before making the initial assessment and issuing the refund, within a period not exceeding 120 days. Therefore, the Appellant submits that, in the instant case, the Minister should stick to his original assessment.
+[7] The second point raised was that the Appellant accepted the settlement proposed by Revenue Canada for the 1991 and 1992 taxation years. Those years involve the partnership Société de recherche Sécuri-Mines enr. According to the Appellant, the Minister was bound. In that regard, the Appellant produced Exhibits A-3 and A-2. The exhibits are dated August 7 and 22 and pertain to the settlement proposal.
+[8] The third point raised pertains to 1992. The Appellant claims the deduction of $6,770.20 in computing the income. According to him, he included the tax advantages obtained for 1991 in computing his income for 1992. The Appellant alleges that he was under the impression that he had to include the tax advantages received in 1991in 1992.
+[9] With respect to the first point, Jean-Marie Boucher, a witness for the Respondent, points out that the Guide produced by the Appellant is for 1995, whereas the years in issue are from 1991 to 1994. He explains that the Canadian-controlled private corporations as well as the other Canadian corporations identified in the Guide are business corporations and not partnerships. However, in the instant case, there is a partnership. The part of the Guide the Appellant referred is therefore not pertinent.
+[10] The versions of the Guide for 1990, 1991 and 1993 were produced in Tabs 13, 14 and 15 of Exhibit I-2. It is stated that the audit may result in a reassessment after the refund or credit are received.
+[11] Mr. Boucher explained that the guides were usually handed out to business corporations at seminars held to provide them with information on Scientific Research and Experimental Development (“SR&ED”) projects. If there were individuals, they were partnerships. According to the witness, the guide certainly did not pertain to partnerships that were tax shelters. Mr. Boucher explains that the guide was amended in 1995 to provide businesses whose projects were allowed as SR&ED projects with more financial certainty.
+[12] As for the stated government’s position on tax shelters, the witness for the Respondent refers to the “Statement of Tax Shelter information,” Form T5003, which is found in the Appellant’s various income tax returns. The prescribed form clearly states that [translation] “Revenue Canada may verify and adjust tax shelter deduction claims.” The statement also states that [translation] “The identification number issued for the tax shelter shall be included in any income tax return filed by the acquirer. Issuance of the identification number is for administrative purposes only and does not in any way confirm the entitlement of an acquirer to the deduction of losses or other amounts that may be associated with the tax shelter” (Tab 5, Exhibit I‑1).
+[13] Counsel for the Respondent had the Appellant read some excerpts from the fact sheets of the Société Sécuri-Mines enr., partnership in issue for the years 1991 and 1992, notably at page 11 of the document which is found in Tab 2 of Exhibit I-2:
+Although the Société is committed to investing partner funds in activities which, in its opinion, are eligible as Scientific Research and Experimental Development expenditures, there is no guarantee that Revenue Canada, Taxation, or the Ministère du Revenu du Québec, will share that view.
+[14] Thus, the document informs shareholders of the uncertainty as to the fiscal fate of their participation. Also, at page 9 of the same document, in a paragraph entitled [translation] “Warning,” provides the same uncertainty [translation]: “Also, it might be possible that the tax authorities will feel adversely affected by the operations of the partnership and its members . . . .” A similar document is found in Tab 4 of Exhibit I-2.
+[15] The same type of warning, this time in relation to the Société de Recherche Minobec enr., another partnership in issue, is found in a document produced in Tab 10 of Exhibit I-2.
+[16] The Appellant’s second point pertains to the settlement offer made by Revenue Canada in June 1995 to the partnerships used as tax shelters in SR&ED projects. The Appellant claims that he accepted that offer for 1991, Exhibit A-3. However, at the end of the proposed settlement, the Appellant added the following condition:
+This agreement is based on the information provided by the Ministère du Revenu and shall be null and void if said information should prove incorrect or incomplete to my detriment.
+[17] The Appellant also made two more rather minor changes to the draft settlement.
+[18] According to the Appellant, his acceptance was refused over the telephone on the basis that the Appellant had to include all the partnerships used as tax shelters in which he invested. The Appellant argues that in September 1995, when he signed the settlement offer, the condition to include all partnerships was not part of the terms and conditions of the settlement offer. He is referring to the letters accompanying the draft settlement, dated August 7 and 22, 1995, produced with Exhibits A-3 and A-2.
+[19] Mr. Huppé, a witness for the Respondent stated that, since the beginning, the Minster’s officers who were responsible for the receipt of settlements received instructions that an Appellant had to include all partnerships used as tax shelters. That is what, according to him, was explained to the agents for the Appellants.
+[20] The letter of November 23, 1995, produced in Tab 19 of Exhibit I-2, clearly indicates that
+This settlement is an overall solution and shall apply to all partnerships used as tax shelters in which you have invested.
+[21] The Appellant did not reply to the letter of November 23 but argues that when he signed the settlement offer, that condition was not specified in any document.
+[22] The third point raised by the Appellant pertains to the deduction of $6,770 for 1992. The Appellant’s income tax return for the 1992 taxation year is found in Tab 6 of Exhibit I-1. The amount entered in line 130, “Other income,” is $6,770.20 and the amount of $6,770.20 also appears at page 20, on a sheet entitled [translation] “List of other income,” under [translation] “Other income included in line 130.” Nowhere in the tax return is a more specific explanation of the derivation of the amount of $6,770.20 to be found.
+[23] During his testimony, the Appellant explains that that amount represented the inclusion of tax advantages received the previous year, that is in 1991. He says he was under the impression that those tax advantages had to be included the following year. Counsel points out to him that those advantages were not included in the 1993 and 1994 taxation years. He replies that he was in doubt whether to include the advantages or not in 1992 and that he did not do so in the other years. An accountant or other person prepared the income tax return for the Appellant, as evidenced by his assertion at page 25 of the return that someone else completed that return for a fee. That person did not come to testify to explain the amount of $6,770.20.
+[24] It was one week before the hearing that the Appellant mentioned this to counsel for the Respondent to whom he sent a description of the items included in that amount and the calculation of the amount of $6,770.20. The calculation was also made that same week.
+[25] The Appellant apparently had several opportunities to mention to the Minister the inclusion of the tax advantages which he now claims he included in 1992. Letters were sent to him on February 20 and March 15 by Francine Dufort of the audit division concerning his SR&ED claims. The Appellant did not reply to those letters. The Appellant submits that he discussed it with an officer of the Minister, Mario Desmarais, in 2002 or 2003. It was also the first time counsel for the Respondent heard of this. The Respondent produced as Exhibit I-5 the Reply to the Notice of Appeal for 1993 and 1994, produced on March 25, 2004, which contains the signature of Mario Desmarais as agent for the Respondent, which would explain why his name was mentioned at the hearing. Mr. Desmarais was not called to testify.
+Analysis and conclusion
+[26] I do not see in the documentation provided by the Appellant any assertion by the Minister that the initial assessment is a final assessment, in the sense that, once the initial assessment was made, the Minister undertook not to verify the merits of the assessment, as he is allowed to under the Income Tax Act (the “Act”), namely subsection 152(4) of the Act.
+[27] The Guide upon which the Appellant relies was for the years subsequent to the years in issue. The guides for the years in issue do not provide the same certainty. What is more, these guides do not address tax shelters. It should also be noted that even the promoter does not provide any guarantee for tax purposes.
+[28] In any case, it is the legislative and regulatory provisions which prevail when the time comes to determine the merits of an assessment. The current state of the law and the case law are very clear and consistent in that respect. See Roitman v. Canada, [2006] F.C.J. No. 1177, (Q.L.), Ludmer v. Canada, [1995] 2 F.C. 3., Redclay Holdings Ltd. v. R., [1996] 2 T.C.J. 2347 and 946406 Ontario Ltd. v. Canada, [1993] G.S.T.C. 57.
+[29] Wit respect to the acceptance by the Appellant of the settlement proposed by Revenue Canada, article 1393 of the Civil Code of Québec provides that
+Acceptance which does not correspond substantially to the offer or which is received by the offeror after the offer has lapsed does not constitute acceptance.
+[30] I am of the opinion that the clause added by the Appellant substantially amended the settlement offer and that as a result, there was no exchange of consent required for entering into an agreement. The purpose of the settlement is to end a litigation. The amendment added by the Appellant did not make it possible to arrive at a final resolution of the case. The acceptance of the settlement by the Appellant was therefore not an acceptance. See Trillium Steel Doors v. Gaboury (Distribution Jacques Gaboury) [1998] J.Q. No. 1647.
+[31] I am also referring to the first article of the proposed agreement, which reads as follows:
+(1) I have invested in the following partnerships (hereinafter “partnership” or “tax shelter”) and the following are details of the purchase and sale of my investments in the partnership:
+[32] This clause, in my opinion, is indicative that all partnerships used as tax shelters in which an Appellant invested should be included and appears to corroborate the statements of the Minister’s witness.
+[33] I am therefore of the opinion that there was no valid acceptance of the settlement offer for the 19914 taxation year for the two reasons mentioned above.
+[33] With respect to the third point, I find it difficult to accept that the Appellant included in his 1992 tax return the tax advantages he received in 1991. It is not logical that a taxpayer would include in his income for the subsequent year the tax advantages sought in the investment of a tax shelter the previous year. The accountant who prepared the Appellant’s income tax return did not come to testify and did not provide any written explanations in that regard. The description of the items making up the amount of $6,770.20 was provided the week before the hearing. As mentioned earlier during the description of the facts, the Appellant apparently had several opportunities to raise this issue. He did not do so. The preponderance of evidence does not make it possible to exclude from the computation of the Appellant’s income for 1992 the amount of $6,770.20 as an amount that was erroneously included by the Appellant.
+[35] Accordingly, the appeals are dismissed.
+Signed at Ottawa, Canada, this 16th day of April 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 6th day of September 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC221
+COURT FILE NOS.: 96-4298(IT)I, 96-4380(IT)I, 2004-89(IT)I
+STYLE OF CAUSE: ROGER ADM v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 3, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: April 16, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pierre Cossette
+Philippe Dupuis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

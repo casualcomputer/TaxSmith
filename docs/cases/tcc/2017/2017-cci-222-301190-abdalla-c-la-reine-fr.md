@@ -1,0 +1,210 @@
+---
+title: "Abdalla c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301190/index.do"
+last_modified: "2017-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 222"
+citation2: ""
+neutral_citation: "2017 CCI 222"
+decision_date: "2017-11-10"
+language: "fr"
+item_id: "301190"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7716
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:18:28.935000+00:00"
+cases_cited_count: 8
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "15d50bb9d7be6962fce7d51c909aac6b5b968ca64e1e789b0a253275feff3a61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Abdalla c. La Reine
+
+- Citation: 2017 CCI 222
+- Decision date: 2017-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7716, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abdalla c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-10
+Référence neutre
+2017 CCI 222
+Numéro de dossier
+2016-5034(IT)I
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-5034(IT)I
+ENTRE :
+SALWA ABDALLA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 12 septembre 2017 à Toronto (Ontario)
+Devant : L’honorable juge en chef Eugene P. Rossiter
+Comparutions :
+Avocat de l’appelant :
+Me Jeff D. Pniowsky
+Avocat de l’intimée :
+Me Cecil S. Woon
+ORDONNANCE
+Après avoir entendu la requête de l’intimée relativement à une ordonnance d’annulation des appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi sur le revenu pour les d’imposition de 2007 et de 2009;
+Après avoir entendu les représentations des parties;
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi sur le revenu pour les années d’imposition 2007 et 2009 sont cassés conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2017.
+« E.P. Rossiter »
+Juge Rossiter
+Référence : 2017 CCI 222
+Date : 20171110
+Dossier : 2016-5034(IT)I
+ENTRE :
+SALWA ABDALLA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Juge Rossiter
+I. Sommaire [1] Ce dossier a entendu par la Cour canadienne de l’impôt à la suite du dépôt d’un avis de requête par l’intimée visant à faire casser les appels présentés à la Cour canadienne de l’impôt par l’appelante, Salwa Abdalla, relativement aux années d’imposition 2007 et 2009, en vertu de l’article 12 de la Loi sur la Cour canadienne de l’impôt et du paragraphe 169(2.2) de la Loi de l’impôt sur le revenu (la « Loi »). L’intimée cherche à casser l’appel au motif que l’appelante était liée par l’appel principal connu sous l’intitulé Mariano c La Reine, 2015 CCI 244, conformément à une acceptation et à une renonciation aux droits d’opposition et d’appel. L’appelante soutient, a contrario, que la requête devrait être rejetée pour trois motifs en lien avec l’acceptation et la renonciation aux droits d’opposition et d’appel. Les trois motifs sont les suivants :
+a) aucune contrepartie valide n’a été échangée contre la promesse de l’appelante;
+b) l’Agence du revenu du Canada (« ARC ») a créé des conditions viciant le caractère informé du consentement de l’appelante; et
+c) la renonciation a été obtenue sous pression indue.
+[2] La requête est accueillie et l’appel est cassé.
+[3] Il importe de souligner que les 26 autres appelants ayant des appels visés par cette requête et figurant à la liste à l’annexe A ont comparu devant la Cour. Monsieur Brian Gunning, l’un des appelants, a comparu au nom de tous les autres 26 appelants. À l’audience, M. Gunning a indiqué qu’il s’en remettrait uniquement aux arguments de droit des appelants. L’appelante dans l’espèce était représentée par un avocat.
+II. Faits [4] Les faits ont été brièvement résumés dans les représentations écrites de l’intimée comme suit :
+a) La ministre du Revenu national (la « Ministre ») a émis de nouvelles cotisations à l’égard des appelants, soit l’appelante et 26 participants à la Global Learning Gifting Initiative (« GLGI »), leur refusant des crédits d’impôt pour don de bienfaisance relativement aux programmes de dons de GLGI.
+b) Chacun des appelants a signé une acceptation et une renonciation aux droits d’opposition et d’appel (les « renonciations ») acceptant d’être liés par la décision définitive relativement aux appels découlant de la décision Juanita Mariano (numéro de dossier : 2009-3506(IT)G) et renonçant à tout droit d’opposition et d’appel quant à leurs droits aux crédits d’impôt pour don de bienfaisance relativement aux programmes de dons de GLGI si la ministre émettait une nouvelle cotisation ou confirmait les nouvelles cotisations conformément au résultat de ces appels.
+c) La décision de la Cour canadienne de l’impôt dans Mariano a été rendue le 19 octobre 2015 refusant tous les crédits d’impôt réclamés relativement aux dons effectués au programme de dons de GLGI. La décision Mariano n’a pas été portée en appel.
+d) La ministre a confirmé les nouvelles cotisations émises aux appelants conformément à la décision Mariano. Or, en dépit des renonciations signées, les appelants ont présenté des avis d’appels à l’encontre des nouvelles cotisations émises par la ministre, leur refusant les crédits d’impôt découlant des dons effectués dans le cadre du programme de dons de GLGI. Les avis d’appel des appelants comprennent le même texte et visent à obtenir l’exonération des intérêts et des pénalités. Or, aucun des appelants ne s’est fait imposer de telles pénalités. Les avis d’appel soutiennent que l’ARC n’a pas bien averti les contribuables que crédits d’impôt réclamés en lien avec des dons effectués au programme de dons de GLGI seraient refusés.
+[5] L’appelante a réclamé 6 218,00 $ en crédits d’impôt pour dons effectués au programme de dons de GLGI au cours de l’année d’imposition 2007. Ce montant est de 5 065 $ pour l’année d’imposition 2009. L’appelante n’a pas fait de contribution en argent pour participer au programme de dons pour ni l’une ni l’autre des années d’imposition visées.
+[6] L’appelante s’est opposée aux nouvelles cotisations dès qu’elles ont été émises. En réponse aux avis d’opposition, l’ARC, dans une lettre datée du 16 décembre 2014, a informé l’appelante des quatre options qui s’offrent à elle :
+a) accepter l’offre de l’ARC d’annuler les intérêts sur le refus des crédits d’impôt pour dons en échange d’une renonciation à ses droits d’opposition ou d’appel; ou
+b) refuser l’offre et porter la cause en appel à la Cour canadienne de l’impôt puisque plus de 90 jours s’étaient écoulés depuis le dépôt de l’avis d’opposition de l’appelante; ou
+c) refuser l’offre et accepter d’être liée au jugement définitif rendu dans d’autres appels semblables portant sur le programme de dons de GLGI et renoncer à tout autre droit d’opposition ou d’appels en lien avec lesdits crédits d’impôt pour dons; ou
+d) refuser l’offre et d’être liée au jugement définitif rendu dans d’autres appels semblables portant sur le programme de dons de GLGI et attendre que l’ARC entreprennent d’autres mesures.
+Voir l’acceptation et la renonciation aux droits d’opposition et d’appels ci-jointe à l’annexe A. Voir la lettre d’avis d’opposition de l’ARC ci-jointe à l’annexe D.
+[7] L’ARC, dans sa lettre datée du 16 décembre 2014, a joint trois documents : a) une renonciation aux droits d’opposition et d’appel pour l’année d’imposition 2007 (voir annexe A); b) une renonciation aux droits d’opposition et d’appel pour l’année d’imposition 2009 (voir annexe B); c) une acceptation et une renonciation aux droits d’opposition et d’appels pour les années d’imposition 2007 et 2009 (annexe C).
+[8] L’appelante, en réponse à la lettre du 16 décembre 2014, a informé l’ARC qu’elle acceptait d’être liée au jugement rendu dans les dossiers devant la Cour canadienne de l’impôt, mais refusait de renoncer à son droit d’appel devant la Cour d’appel fédérale. L’ARC a répondu à l’appelante le 21 janvier 2015, l’informant qu’elle refusait les conditions énoncées dans sa lettre et qu’elle lui accordait un délai de 5 jours ouvrables pour soumettre le formulaire à l’ARC, faute de quoi celle-ci prendrait des mesures relativement à son avis d’opposition sans autre préavis. L’appelante a ensuite acheminé l’acceptation et la renonciation aux droits d’opposition et d’appels dûment signés le 28 janvier 2015.
+[9] Il importe de souligner que l’appelante avait été informée qu’elle pouvait communiquer avec trois personnes-ressources durant cette période. L’affidavit de Ramona Rudeanu, à l’appui de la requête de l’intimée, a été la seule preuve produite à la Cour, par l’intimée ou l’appelante, dans la présente requête.
+III. Position de l’intimée [10] L’intimée soutient que l’appelante a renoncé à ses droits, conformément au paragraphe 169(2.2) de la Loi et, conséquemment, ne peut pas s’opposer aux cotisations visées par l’espèce. L’intimée rajoute que sa renonciation est dûment exécutable et valide en vertu du droit réglementaire et de la common law.
+IV. Position de l’appelante [11] L’appelante soutient que la renonciation en question n’est pas exécutable, car a) il n’y a eu aucune contrepartie valable accordée en échange de sa promesse; b) l’ARC a créé des conditions viciant son consentement; et c) la renonciation a été obtenue à la suite de pressions indues de la part de l’ARC.
+V. Loi applicable [12] Le paragraphe 169(2.2) se lit comme suit :
+Malgré les paragraphes (1) et (2), il est entendu qu’un contribuable ne peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier une cotisation établie en vertu de la présente partie relativement à une question à l’égard de laquelle le contribuable a renoncé par écrit à son droit d’opposition ou d’appel.
+Seule exigence découlant du paragraphe 169(2.2) de la Loi : le contribuable doit avoir renoncé par écrit à son droit d’opposition ou d’appel. En l’espèce, il n’y a aucun doute que l’acceptation et la renonciation aux droits d’opposition et d’appel ont été rendues par écrit.
+[13] La cause type quant aux renonciations est l’arrêt de la Cour suprême dans Saskatchewan River Bungalows Ltd. c Maritime Life Assurance Co, [1994] 2 RCS 490 (« Saskatchewan River Bungalows »). En outre, la Cour suprême, aux paragraphes 19 et 20, a statué qu’une renonciation devait comprendre deux éléments essentiels :
+[...] Les éléments essentiels de la renonciation sont donc la parfaite connaissance du vice qui peut être invoqué et l’intention claire de ne pas se prévaloir du droit de l’invoquer. Cette intention peut être exprimée dans un acte juridique formel, elle peut être exprimée d’une manière informelle ou être inférée du comportement. Quelle que soit la manière dont elle est exprimée, cependant, c’est l’intention consciente de renoncer à ce droit qui doit être établie.
+On ne conclura donc à la renonciation que si la preuve démontre que la partie qui renonce avait (1) parfaitement connaissance des droits en cause et (2) l’intention claire et consciente d’y renoncer. Le recours à un critère aussi strict est justifié vu l’absence de contrepartie de la part de la partie en faveur de laquelle joue la renonciation. Une interprétation trop large de la renonciation minerait l’exigence de contrepartie contractuelle.
+[14] Par ailleurs, la décision mentionne qu’aucune contrepartie n’est nécessaire et qu’on « [...] peut résilier une renonciation si un avis raisonnable est donné à la partie en faveur de laquelle elle joue » (Saskatchewan River Bungalows, paragraphe 27). Cependant, la renonciation ne peut pas être résiliée s’il est trop tard ou si la renonciation a pour effet de causer préjudice à la partie en faveur de laquelle est joue.
+[15] La première question à trancher est à savoir si une renonciation exige ou non une contrepartie pour être valide. J’accepte les représentations de l’intimée sur ce point; elle cite à ce titre W.J. Alan & Company Limited v El Nasr Export & Import Company, [1972] 2 QB 189, [1972] 2 All ER 127, laquelle statuait qu’aucune contrepartie n’était exigée de la partie bénéficiant de la renonciation. Lord Denning, maître des rôles, avait rendu la décision dans ce dossier à l’époque. La Cour suprême du Canada a, comme le souligne l’intimée, adopté des principes semblables dans Saskatchewan River Bungalows, plus particulièrement au paragraphe 20 :
+[...] Le recours à un critère aussi strict est justifié vu l’absence de contrepartie de la part de la partie en faveur de laquelle joue la renonciation.
+[16] La Cour suprême du Canada s’est penchée sur cette question et, à mon sens, il est toujours d’actualité qu’aucune contrepartie n’est requise. Néanmoins, si je suis dans l’erreur sur ce point, il n’en demeure pas moins que je considère que l’appelante a reçu une bonne et valide contrepartie. En outre, l’appelante a bénéficié du fait qu’elle n’a pas eu à dépenser temps, énergie ou argent, car son appel n’a pas eu à procéder devant la Cour canadienne de l’impôt. De plus, l’intimée a maintenu les oppositions de l’appelante en vacance et s’est assurée de confirmer ses nouvelles cotisations en regard de la décision rendue dans la cause type. Chacun de ses éléments est, en soi, une contrepartie suffisante et adéquate relativement à la renonciation dont il est question.
+[17] L’appelante doit avoir la pleine connaissance de ses droits pour satisfaire au critère énoncé dans Saskatchewan River Bungalows. L’appelante soutient principalement qu’elle n’était pas pleinement informée de ses droits; conséquemment, elle n’a pas consenti de façon éclairée.
+[18] L’acceptation et la renonciation aux droits d’opposition et d’appel, le document signé par l’appelante comprend les énoncés suivants, lesquels, s’ils sont lus, devraient suffire à éveiller l’appelante si elle n’est pas pleinement informée de ses droits :
+1. Le document s’intitule Acceptation et la renonciation aux droits d’opposition et d’appel.
+2. Le document indique à un endroit : [traduction] « [...] je renonce à tout droit d’opposition ou d’appel en lien avec mon droit à un crédit d’impôt pour don »;
+3. Le document indique ensuite : [traduction] « Je comprends que je ne pourrai plus soumettre une opposition ou un appel en lien avec ces questions conformément aux paragraphes 165(1.2) et 169(2.2) de la Loi de l’impôt sur le revenu »;
+4. Puis, le document cite les limites des oppositions figurant au paragraphe 165(1.2) ainsi que les dispositions relativement aux renonciations indiquées au paragraphe 169(2.2). Le document lui-même répète le mot « renonciation » à au moins trois reprises, y compris dans le titre. Ce document était accompagné de la lettre envoyée par l’ARC à l’appelante le 16 décembre 2014.
+[19] Avant d’aborder cette lettre, il importe de souligner que la renonciation fait précisément état au droit en question, soit celui d’interjeter appel et lié au crédit d’impôt découlant de GLGI. La lettre de non moins de quatre pages, envoyée par l’ARC à l’appelante (voir l’annexe D), était, nul doute, a) mal rédigée; b) mal formulée; et c) erronée jusqu’à un certain point, car elle mentionnait deux options pour l’appelante, alors qu’il y en avait plutôt quatre. Néanmoins, il est évident à la lecture de la lettre en son entier qu’elle comporte suffisamment d’explications adéquates pour qu’une personne ait la pleine connaissance des droits auxquels elle renonce. La lettre comprend des renseignements contextuels expliquant le problème en lien avec le numéro d’abri fiscal utilisé à des fins d’identification seulement. On fait également référence à des dossiers semblables et à des décisions rendues par la Cour d’appel fédérale. Il y a des précisions quant à la vérification menée par l’ARC et le refus de toutes les déductions effectuées en lien avec le programme de dons de GLGI auquel participait l’appelante.
+[20] L’ARC poursuit, dans sa lettre, en abordant les déductions d’impôts pour dons de l’appelante; plus particulièrement celles effectuées en 2007 et en 2009, et la façon dont les dons ont été effectués. L’auteur commet ensuite une erreur en mentionnant seulement deux options, alors que la lettre comprend plutôt quatre options. Cependant, ces options font référence, à plusieurs reprises et comme soutenu par l’intimée, à une renonciation aux droits d’appel. L’option 1 est intitulée [traduction] « Avis de confirmation et renonciation aux droits d’appel » et ce paragraphe fait référence à la renonciation aux droits d’opposition et d’appel, laquelle devait être transmise dans les 30 jours de la lettre. Les mots « référence » et « renonciation » y sont répétés tout au long et elle comprend une explication détaillée de l’option 1. L’option 2, laquelle n’a pas été décrite comme telle, est la mention selon laquelle l’appelante peut interjeter directement appel à la Cour canadienne de l’impôt au cas où elle ne souscrit pas à l’option 1. L’option 3, identifiée comme l’option 2, était de refuser l’option 1 et de signer et retourner l’acceptation et la renonciation aux droits d’opposition et d’appel. L’option 4 était plutôt de refuser les options 1 et 3, avec la conséquence que l’ARC procéderait eu égard à son opposition sans autre préavis.
+[21] Dans le sommaire des mesures à adopter, l’ARC mentionne encore que l’appelante pourrait accepter l’offre assortie d’une annulation des intérêts en signant et en retourner la renonciation aux droits d’opposition et d’appel jointe à la lettre ou elle pourrait accepter d’être liée par le jugement définitif rendu dans la cause type en signant et en retourner l’acceptation et la renonciation aux droits d’opposition et d’appel. Dans les deux cas, l’appelante avait 30 jours pour signer et retourner le document requis. Le dernier paragraphe de la lettre se lit comme suit [traduction] : « Vous pouvez signer et retourner l’un ou l’autre des formulaires de renonciation aux droits d’opposition et d’appel ci-joints ou l’acceptation à l’adresse suivante. Cependant, veuillez ne pas signer et envoyer les deux renonciations ainsi que l’acceptation. Vous remarquerez qu’il y a un formulaire de renonciation par année d’imposition à retourner et une seule acceptation, laquelle couvre toutes vos oppositions et vos années d’imposition reliées à la GLGI. » La lettre aurait pu être mieux rédigée, comme mentionné précédemment. Elle comprend quelques erreurs, mais à la lecture de celle-ci dans son ensemble, ainsi que des formulaires qui y sont joints, j’ai du mal à conclure que l’appelante ne comprenait pas pleinement qu’elle renonçait à ses droits. En outre, ils étaient pleinement et précisément expliqués dans la lettre.
+[22] En l’espèce, l’ARC a donné beaucoup de renseignements quant aux droits auxquels l’appelante renonçait; tant sur la renonciation que dans la lettre. J’estime qu’une période de 30 jours est un délai amplement suffisant pour prendre une décision. L’ARC aurait pu accorder plus de temps, mais 30 jours étaient certainement suffisants pour permettre à l’appelante se faire conseiller. La lettre comprenait également les coordonnées de trois personnes-ressources disposées à répondre aux questions de l’appelante quant à la renonciation, le cas échéant. Il importe de souligner que la seule preuve produite à la Cour dans l’espèce est l’affidavit de Ramona Rudeanu, mentionné précédemment. Il n’y a aucune preuve témoignant d’un comportement inadéquat de l’ARC ou indiquant que l’appelante eut tenté d’obtenir plus de renseignements. En outre, il n’y a aucune indication de quelque nature que ce soit que l’appelante ne comprenait pas les droits auxquels elle renonçait. L’appelante n’a pas produit d’affidavit à l’appui d’un tel argument et n’a pas choisi de témoigner afin de renverser une telle proposition.
+[23] En bref, l’intimée soutient que l’appelante savait ou aurait dû connaître la nature du document qu’elle signait. Je suis d’accord avec cet argument étant donné la documentation qui lui a été remise, laquelle comprenait une longue explication approfondie.
+[24] Le deuxième critère est à savoir s’il y avait une intention consciente et sans équivoque d’abandonner ces droits. Le critère est satisfait par la signature et le retour de l’acceptation et de la renonciation aux droits d’opposition et d’appel. L’appelante connaissant les droits auxquels elle renonçait, cette conduite indiquait clairement son intention de renoncer à ses droits. Au surplus, la renonciation elle-même stipule clairement les suivantes [traduction] : « Je renonce à mes droits d’opposition et d’appel [...] je reconnais que je ne pourrai pas déposer un avis d’opposition ou d’appel en lien avec ces questions [...] ». De plus, les paragraphes 165(1.2) et 169(2.2) ont été réimprimés sur la renonciation. L’appelante soutient que l’ARC a omis de l’avertir adéquatement que ses déductions en lien avec la GLGI seraient refusées. Or, il n’existe aucune obligation de diligence découlant de l’émission d’un numéro d’inscription d’abri fiscal; l’ARC n’était nullement tenue d’informer l’appelante de ses préoccupations en lien avec l’abri fiscal de GLGI (Canada c Scheuer, 2016 CAF 7).
+[25] L’appelante a allégué qu’elle avait subi une influence et une pression indues, rendant la renonciation non exécutable. La loi est claire à ce titre : l’appelante a le fardeau de démontrer qu’elle a subi une influence indue afin d’annuler la renonciation : Nguyen c La Reine, 2005 CCI697, 2008 DTC 2880 au paragraphe 33; Radelet c La Reine, 2017 CCI 159, 282 ACWS (3d) 443 au paragraphe 14.
+[26] Je ne repère simplement aucune influence indue parmi la preuve produite à la Cour. Comme mentionné précédemment, l’appelante n’a produit aucune preuve à l’appui de cette allégation; elle n’était qu’un simple argument. La jurisprudence produite par l’intimée semble souligner très clairement que le fait que l’ARC informe l’appelante de signer la renonciation faute de quoi le dossier sera classé ne constitue pas une pression indue (McGonagle c La Reine, 2009 CCI 168, 2009 DTC 1120). Par ailleurs, dans Hill c La Reine, 2012 CCI 202, 2012 DTC 1168, la renonciation n’a pas été annulée en raison du simple fait que l’ARC ait affirmé qu’elle classerait le dossier du contribuable. La Cour a mentionné les suivantes aux paragraphes 29 et 20 :
+29 La preuve révèle que M. Hill a eu connaissance de l’offre de règlement par un courriel envoyé par M. De Micco le mercredi 4 mars 2009. Dans ce courriel, M. De Micco écrit que l’agent des appels de l’ARC impose la condition suivante : [traduction] « Pour que cette nouvelle offre [de règlement] soit acceptée, M. Tammer demande qu’elle soit signée au plus tard vendredi de cette semaine ». M. Hill a affirmé qu’on lui avait dit que, s’il refusait l’offre, le dossier serait classé sans aucun ajustement et qu’il devrait payer l’impôt pour le revenu d’un million de dollars, conformément aux nouvelles cotisations.
+30 À mon avis, les actes de l’agent des appels de l’ARC, tels qu’ils sont décrits par M. Hill, ne constituent pas une pression indue ou illégitime. Il me semble que les conditions prévues par l’offre de règlement ne pouvaient constituer une surprise totale pour M. Hill. [...]
+[27] Je ne vois aucune indication selon laquelle l’appelante a subi une pression indue afin qu’elle signe le formulaire en question. Il semble que l’appelante eut l’occasion de signer la renonciation depuis un certain temps, puis choisit de la signer. Or, lorsque la décision a été rendue la cause type, elle n’a pas été satisfaite de la nouvelle cotisation découlant de l’acceptation et de la renonciation aux droits d’opposition et d’appel et a décidé d’interjeter appel. Je crois tout simplement que l’appelante est liée par l’acceptation et la renonciation aux droits d’opposition et d’appel. Par conséquent, la requête de l’intimée est accueillie.
+[28] La requête visant à casser l’appel de l’appelante est accueillie; il en va de même pour les appels des 26 autres appelants, lesquels ont été entendus de façon concurrente et figurent à l’annexe A, ci-jointe.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2017.
+« E.P. Rossiter »
+Juge Rossiter
+ANNEXE A
+Numéro de dossier : 2017-1764(IT)I, Fraser, Donald c. SMR
+Numéro de dossier : 2017-1541(IT)I, Loubier, Normand c. SMR
+Numéro de dossier : 2017-1489(IT)I, Flegg, Murray c. SMR
+Numéro de dossier : 2016-5364(IT)I, Allen, Marie c. SMR
+Numéro de dossier : 2016-5361(IT)I, George, Chris c. SMR
+Numéro de dossier : 2016-5244(IT)I, Thalen, Harvey c. SMR
+Numéro de dossier : 2016-5243(IT)I, Wiens, John c. SMR
+Numéro de dossier : 2016-5242(IT)I, Samadian, Anita c. SMR
+Numéro de dossier : 2016-5194(IT)I, Fast, Gary c. SMR
+Numéro de dossier : 2016-5193(IT)I, Prinzen, Bert c. SMR
+Numéro de dossier : 2016-5192(IT)I, George, Lisa c. SMR
+Numéro de dossier : 2016-5187(IT)I, Thompson, Donna c. SMR
+Numéro de dossier : 2016-5184(IT)I, Carpenter, David c. SMR
+Numéro de dossier : 2016-5181(IT)I, Martens, Edwin c. SMR
+Numéro de dossier : 2016-5169(IT)I, Martens, Allen c. SMR
+Numéro de dossier : 2016-5035(IT)I, Pauco, Steve c. SMR
+Numéro de dossier : 2016-5033(IT)I, Pike, Tracy c. SMR
+Numéro de dossier : 2016-5032(IT)I, Koshe, Carl c. SMR
+Numéro de dossier : 2016-5031(IT)I, Gunning, Brian c. SMR
+Numéro de dossier : 2016-5030(IT)I, Pauco, Terri c. SMR
+Numéro de dossier : 2016-5029(IT)I, Sonik, Mark c. SMR
+Numéro de dossier : 2016-5028(IT)I, Cushnie, Ed c. SMR
+Numéro de dossier : 2016-5027(IT)I, Cairns, Samuel c. SMR
+Numéro de dossier : 2016-5026(IT)I, Hayhoe, Tim c. SMR
+Numéro de dossier : 2016-5025(IT)I, Wiens, Patricia c. SMR
+Numéro de dossier : 2016-5024(IT)I, Armstrong, Roger c. SMR
+RÉFÉRENCE :
+2017 CCI 222
+DOSSIERS :
+2016-5034(IT)I
+INTITULÉS :
+SALWA ABDALLA ET LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 12 septembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge en chef Eugene P. Rossiter
+DATE DU JUGEMENT :
+Le 10 novembre 2017
+COMPARUTIONS :
+Avocat de l’appelante :
+Salwa Abdalla :
+Représentant des 26 appelants :
+Me Jeff D.S. Pniowsky
+Me Brian Gunning
+Avocat de l’intimée :
+Me Cecil Woon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Salwa Abdalla :
+Nom :
+Jeff D. Pniowsky
+Cabinet :
+Thompson Dorfman Sweatman LLP
+Winnipeg (Manitoba)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

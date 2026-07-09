@@ -1,0 +1,203 @@
+---
+title: "Tan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109814/index.do"
+last_modified: "2015-05-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 121"
+citation2: ""
+neutral_citation: "2015 CCI 121"
+decision_date: "2015-05-12"
+language: "fr"
+item_id: "109814"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2815
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:34:02.107000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "348c09c7af7d62750a1846ccadd22b2855b8b58e6c9fcf5bbd0a05ee08457d0d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tan c. La Reine
+
+- Citation: 2015 CCI 121
+- Decision date: 2015-05-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2815, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-05-12
+Référence neutre
+2015 CCI 121
+Numéro de dossier
+2014-83(GST)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-83(GST)I
+ENTRE :
+MEI MEI TAN faisant affaire sous le nom de MTM CHINESE RESTAURANT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 février 2015, à Hamilton (Ontario).
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Représentant de l’appelante :
+M. Lenny Tam
+Avocate de l’intimée :
+Me Dominique Gallant
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi sur la taxe d’accise, dont l’avis est daté du 22 octobre 2008, pour la période de déclaration allant du 13 mai 2005 au 31 décembre 2005, est accueilli en partie. La cotisation sera renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a droit à un crédit de taxe sur les intrants supplémentaire de 819,25 $.
+Signé à Kingston (Ontario), ce 12e jour de mai 2015.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 9e jour de juillet 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2015 CCI 121
+Date : 20150512
+Dossier : 2014-83(GST)I
+ENTRE :
+MEI MEI TAN,
+faisant affaire sous le nom de
+MTM CHINESE RESTAURANT,
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] La Cour est saisie d’un appel interjeté à l’encontre d’un avis de nouvelle cotisation daté du 22 octobre 2008 pour la période de déclaration allant du 13 mai 2005 au 31 décembre 2005 (la « période »).
+Contexte factuel [2] L’appelante est un particulier qui exploite un restaurant situé au 1070 Stonechurch Rd. E., à Hamilton, à titre de propriétaire unique sous le nom de MTM Chinese Food Restaurant.
+[3] L’appelante s’est inscrite aux fins de la taxe sur les produits et services (la « TPS ») le 13 mai 2005. Toutefois, elle exploitait le restaurant avant cette date. Pendant la période où elle exploitait le restaurant avant sa date d’inscription, l’appelante a perçu la TPS et l’a versée au ministre du Revenu national (le « ministre »).
+[4] Le 23 mai 2006, le ministre a établi une cotisation à l’égard de la déclaration de TPS initiale de l’appelante pour la période visée par l’appel dans laquelle cette dernière avait demandé un remboursement de la taxe nette de 4 330,22 $. Le 22 octobre 2008, le ministre a établi une nouvelle cotisation à l’égard de la déclaration de TPS de l’appelante pour la période afin de refuser les crédits de taxe sur les intrants (les « CTI ») totalisant 2 533,22 $. Des intérêts et des pénalités ont également été imposés. L’appelante a déposé un avis d’opposition daté du 24 octobre 2013, mais le ministre a ratifié la nouvelle cotisation établie compte tenu du fait que l’appelante demandait des CTI à l’égard de frais de fonctionnement qui avaient été supportés avant la date d’inscription de l’entreprise ou que les pièces justificatives ne respectaient pas les exigences prescrites par le paragraphe 169(4) de la Loi de la taxe d’accise, LRC 1985, c E‑15 (la « LTA »), dans sa version modifiée, et par l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), DORS/91‑45 (le « Règlement »), dans sa version modifiée. Par conséquent, l’appelante interjette appel à la Cour.
+[5] Initialement, la question à trancher était de savoir si c’est à juste titre que le ministre avait refusé d’accorder des CTI totalisant 2 533,22 $. Cependant, au début de l’audience, l’avocate du ministre et M. Lenny Tam, le représentant de l’appelante, ont passé beaucoup de temps à examiner les documents produits par l’appelante (pièce R‑1). Par suite de cet effort conjoint, le ministre a admis que l’appelante avait droit à des CTI supplémentaires de 819,25 $. Le nombre de documents contestés a également été fortement réduit, comme cela ressort des paragraphes qui suivent.
+[6] Lisa Griffith est vérificatrice de l’impôt à l’Agence du revenu du Canada (ci‑après l’« ARC »). Le dossier en question lui a été confié avec le mandat d’examiner la déclaration de TPS produite pour la période. C’était la première déclaration de l’appelante. Elle a présenté ses documents de travail à la Cour (voir la pièce R‑2). Par suite d’une entente conclue entre le ministre et l’appelante, les éléments suivants pour lesquels l’appelante a demandé des CTI sont soumis à la Cour :
+a) l’élément 3, à la page 2 du document de travail de Mme Griffith, se rapporte à ce qui semble être des dépenses d’immobilisation d’un montant de 10 450 $ pour l’installation d’un brûleur, d’un congélateur‑chambre, d’un lave‑vaisselle, de woks, d’un hachoir, d’une table à vapeur, etc. Ces dépenses sont justifiées par de simples reçus censés avoir été établis par le fournisseur, Superior Restaurant Equipment, le 21 août, le 11 septembre et le 25 octobre 2004; un des reçus semble comporter des caractères chinois. Ces documents ne mentionnent pas le numéro de TPS du fournisseur et les factures ne précisent pas non plus si la TPS a été payée.
+b) Les éléments 12 et 14, à la page 2 du document de travail de Mme Griffith, se rapportent à des travaux d’installation d’une hotte de cuisine et d’un système d’évacuation complet. Cette dépense est justifiée par un chèque numéro 006 daté du 5 novembre 2004, payable à Kem Sheet Metal pour un montant de 5 000 $ et par deux reçus – l’un, daté du 30 août 2004, pour un montant de 5 000 $ et l’autre, daté du 2 novembre 2004, pour un montant de 5 000 $, tous les deux signés par Kem Mahmut, propriétaire de Kem Sheet Metal Co. Aucun de ces documents ne porte le nom ni l’adresse du fournisseur. Aucun de ces documents ne porte le nom ni l’adresse du fournisseur. Aucun de ces documents ne porte le numéro de TPS du fournisseur et aucun d’eux ne mentionne que la TPS a véritablement été payée ou est percevable.
+c) L’élément 17, à la page 2 du document de travail de Mme Griffith, qui est lié au point b) susmentionné, se rapporte également à des travaux d’installation de la hotte de cuisine et du système d’évacuation. La dépense est justifiée par un chèque portant le numéro 009, daté du 13 décembre 2004, pour un montant de 4 000 $, et par un reçu daté du 10 décembre 2004 pour un montant de 4 000 $, signé par Hussein Mahmut pour le compte de Kem Sheet Metal Co. Aucun de ces documents ne mentionne le numéro de TPS du fournisseur et aucun d’eux ne précise que la TPS a véritablement été payée ou est percevable.
+[7] L’appelante a produit la pièce R‑3, qui est une entente datée du 28 août 2004 conclue entre Kem Sheet Metal et MTM Restaurant concernant l’installation de la hotte de cuisine et du système d’évacuation susmentionnés. Le prix du contrat est de 19 000 $. Il est expressément mentionné que le prix comprend toutes les taxes applicables. L’appelante soutient que, selon l’alinéa 233(1)b) de la LTA, la TPS peut être incluse dans le prix du contrat. Même si je retenais cet argument, cela ne modifierait pas le fait que le numéro de TPS du fournisseur ne figure sur aucun des documents démontrant l’existence d’un contrat d’entreprise entre les parties.
+[8] L’appelante conteste également deux autres dépenses. L’une concerne une facture de 320 $ qui a été payée à Brabant Newspapers pour la production de prospectus. Cette facture ne comporte pas de numéro de TPS du fournisseur; la facture montre cependant que ces services ont été fournis avant que l’appelante n’obtienne son numéro d’entreprise et, par conséquent, aux termes du paragraphe 171(2) de la Loi, ils ne peuvent pas faire l’objet d’une demande de CTI. L’autre concerne une facture de 160,52 $ payée à ABP Recyling Inc. pour l’élimination de graisses. Cette facture est datée du 7 décembre 2004. L’appelante soutient que ce service a été étendu à la période postérieure à l’obtention de son numéro d’entreprise; toutefois, il n’existe aucun élément de preuve à l’appui de cette affirmation et la dépense en question ne peut non plus servir de fondement pour une demande de CTI.
+[9] La seule question en litige qui subsiste est l’absence du numéro de TPS des fournisseurs de l’appelante sur les divers documents sur lesquels elle se fonde pour demander des CTI.
+Dispositions législatives [10] Les dispositions pertinentes de la Loi sur la taxe d’accise, LRC 1985, c E‑15, dans sa version modifiée, sont ainsi libellées :
+169(4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[…]
+171.(1) […]
+(2) Sous réserve des dispositions de la présente section, le calcul des crédits de taxe sur les intrants d’une personne, pour sa première période de déclaration se terminant après le moment où elle devient un inscrit :
+a) peut inclure toute taxe qui est devenue payable par la personne avant ce moment, dans la mesure où cette taxe était soit payable relativement aux services à lui fournir après ce moment pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales, soit calculée sur la valeur de la contrepartie qui constitue un loyer, une redevance ou un paiement semblable imputable à une période postérieure à ce moment relativement à un bien utilisé dans le cadre de ses activités commerciales;
+b) exclut la taxe qui devient payable par la personne après ce moment, dans la mesure où cette taxe est soit payable relativement aux services qui lui sont fournis avant ce moment, soit calculée sur la valeur de la contrepartie qui constitue un loyer, une redevance ou un paiement semblable imputable à une période antérieure à ce moment.
+223(1) L’inscrit qui effectue une fourniture taxable (sauf une fourniture détaxée) doit indiquer à l’acquéreur, selon les modalités réglementaires ou sur la facture ou le reçu délivré à l’acquéreur ou dans la convention écrite conclue avec celui‑ci :
+a) soit la contrepartie payée ou payable par l’acquéreur pour la fourniture et la taxe payable relativement à celle‑ci, de sorte que le montant de la taxe apparaisse clairement;
+b) soit la mention que le montant payé ou payable par l’acquéreur pour la fourniture comprend cette taxe.
+[…]
+(2) La personne qui effectue une fourniture taxable au profit d’une autre personne doit, à la demande de celle‑ci, lui remettre, sans délai et par écrit, les renseignements requis par la présente partie pour justifier une demande de crédit de taxe sur les intrants ou une demande de remboursement par l’autre personne.
+295(2) Sauf autorisation prévue au présent article, il est interdit à un fonctionnaire ou autre représentant d’une entité gouvernementale :
+a) de fournir sciemment à quiconque un renseignement confidentiel ou d’en permettre sciemment la fourniture;
+[…]
+(5) Un fonctionnaire peut :
+a) fournir à une personne un renseignement confidentiel qu’il est raisonnable de considérer comme nécessaire à l’application ou à l’exécution de la présente loi, mais uniquement à cette fin;
+b) fournir à une personne un renseignement confidentiel qu’il est raisonnable de considérer comme nécessaire à la détermination de tout montant dont la personne est redevable ou du remboursement ou du crédit de taxe sur les intrants auquel elle a droit, ou pourrait avoir droit, en vertu de la présente loi;
+[…]
+(6) Un fonctionnaire ou autre représentant d’une entité gouvernementale peut fournir un renseignement confidentiel :
+a) à la personne en cause;
+b) à toute autre personne, avec le consentement de la personne en cause.
+[Non souligné dans l’original.]
+[11] Les dispositions pertinentes du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), DORS/91‑45, dans sa version modifiée, sont ainsi libellées :
+3. Les renseignements visés à l’alinéa 169(4)a) de la Loi sont les suivants :
+[…]
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément à l’article 241 de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+[…]
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[Non souligné dans l’original.]
+Thèse de l’appelante [12] L’appelante soutient que le seul élément qui manque sur les documents contestés est le numéro de TPS de ses fournisseurs. Elle affirme qu’elle a respecté toutes les autres exigences énoncées au paragraphe 169(4) de la LTA. Toutefois, elle soutient que le ministre, en tant qu’entité qui délivre les numéros de TPS, connaît déjà les numéros de TPS des divers fournisseurs concernés. L’appelante demande donc pourquoi il devrait lui incomber de veiller à ce que le numéro de TPS du fournisseur figure sur la facture de ce dernier si le ministre possède déjà ce renseignement. L’appelante affirme qu’elle a déployé par la suite tous les efforts pour obtenir les renseignements exigés auprès de ses fournisseurs, mais sans succès. Elle soutient également qu’elle a demandé ces renseignements au ministre au titre de l’article 295 de la Loi, mais que ce dernier a refusé en invoquant des raisons de confidentialité. Selon l’appelante, les fournisseurs ont implicitement consenti à la communication de ces renseignements et elle ne comprend pas pourquoi le ministre a refusé de les lui transmettre. L’appelante avance qu’elle a respecté toutes les exigences de la LTA et du Règlement, sauf la fourniture des numéros de TPS de ses fournisseurs, que le ministre possède déjà, et demande par conséquent à la Cour d’accueillir son appel.
+Thèse de l’intimée [13] L’intimée soutient que, pour que l’appelante puisse demander des CTI, elle doit obtenir tous les renseignements exigés, en application du paragraphe 169(4) de la LTA et de l’article 3 du Règlement, avant de demander des CTI. Ces dispositions sont impératives et ne peuvent être contournées ni écartées. Peu importe que le ministre soit présumé avoir connaissance du numéro de TPS de tous les fournisseurs inscrits. Il incombe à l’appelante d’obtenir ce renseignement pour chaque opération effectuée avec ses fournisseurs et il n’incombe pas au ministre de retracer les numéros de TPS des fournisseurs d’un demandeur de CTI. Aucun des documents en cause en l’espèce ne comporte de numéro de TPS des fournisseurs et, par conséquent, l’appelante n’a pas respecté les exigences énoncées au paragraphe 169(4) de la LTA et à l’article 3 du Règlement.
+[14] En outre, les documents ne précisent pas si une quelconque TPS a en réalité été payée.
+[15] L’intimée demande donc que l’appel soit accueilli en partie et que la cotisation soit renvoyée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante n’a droit qu’à des CTI supplémentaires de 819,25 $.
+Analyse [16] À mon avis, les arguments de l’appelante ne peuvent pas être retenus.
+[17] Dans l’affaire Systematix Technology Consultants Inc. c La Reine, 2006 CCI 277 (CanLII), le ministre a refusé les CTI en partant du principe que les factures présentées par les fournisseurs de Systematix ne contenaient pas tous les renseignements nécessaires visés au paragraphe 169(4) de la LTA et au sous‑alinéa 3b)(i) du Règlement. Les parties étaient d’accord pour reconnaître que la seule question en litige était de savoir si les factures concernées comportaient un numéro d’inscription aux fins de la TPS en bonne et due forme. Le juge Archambault, de la Cour, a rejeté l’appel en faisant observer qu’à son avis, les dispositions en question étaient impératives et que les renseignements exigés devaient être obtenus avant de pouvoir demander des CTI. Voici la teneur de ses observations :
+[10] À mon avis, ces dispositions [le paragraphe 169(4) de la LTA et le sous‑alinéa 3b(i) du Règlement] stipulent clairement qu’un inscrit ne peut pas demander de CTI à moins d’avoir obtenu, avant de produire sa déclaration, les renseignements visés, ce qui comprend le numéro d’inscription du fournisseur. Un grand nombre de mes collègues ont d’ailleurs adopté cette interprétation. Dans la décision Helsi Construction Management Inc. v. R., [2001] G.T.C. 396, le juge en chef adjoint Bowman (maintenant juge en chef), soulignant le fait que les numéros d’inscription aux fins de la TPS n’avaient pas été inscrits sur les factures en cause, a indiqué ce qui suit au paragraphe 11 :
+[...] Il s’agit d’une condition prévue par l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants. Bien qu’il puisse être justifié, dans certains cas, de considérer les conditions techniques ou mécaniques comme indicatives plutôt qu’obligatoires (par exemple l’affaire Senger‑Hammond c. R., C.C.I., no 96‑1117(IT)I, 6 décembre 1996, [1997] 1 C.T.C. 2728), ce n’est pas le cas pour ce qui est des dispositions relatives à la TPS de la Loi sur la taxe d’accise.
+[Non souligné dans l’original.]
+[11] Au paragraphe 6 de la décision Alexander Nix Group Inc. v. R., [2002] G.T.C. 334, [2002] G.S.T.C. 100, le juge McArthur, au fond, a affirmé qu’il acquiesçait à cette conclusion. Il a d’ailleurs cité cette autre partie de la décision précitée rendue par le juge en chef adjoint Bowman, tirée du paragraphe 13 : « En outre, il s’agit là [soit le fait de répondre aux conditions techniques] du fondement d’un régime d’autocotisation visant le monde du commerce ».
+[Non souligné dans l’original.]
+[18] En appel devant la Cour d’appel fédérale (voir 2007 CAF 226), le juge Sexton a approuvé les observations du juge Archambault selon lesquelles les dispositions examinées en l’espèce étaient impératives et non pas seulement indicatives. L’appelante n’avait pas respecté les exigences techniques que la LTA et le Règlement lui imposaient à titre de participant à un régime d’autocotisation. Ces conditions impératives doivent être strictement appliquées et l’appel interjeté par Systematix a été rejeté.
+[19] Dans l’affaire Comtronic Computer Inc. c. La Reine, 2010 CCI 55 (CanLII), le juge Boyle, de la Cour, a examiné la question de savoir si une contribuable avait droit à des CTI à l’égard d’intrants dans des cas où le numéro d’inscription aux fins de la TPS du fournisseur, qui figurait sur la facture, n’était pas celui du fournisseur, mais un numéro d’inscription valablement attribué à quelqu’un d’autre. La contribuable n’avait absolument rien à se reprocher. Comtronic avait payé les fournitures ainsi que la TPS applicable, mais les fournisseurs n’avaient jamais versé la TPS au ministre. Le juge Boyle a conclu que, non seulement le paragraphe 169(4) de la LTA exigeait que l’inscrit obtienne le numéro d’inscription aux fins de la TPS du fournisseur, mais qu’il fallait que ce soit un numéro valide qui avait été attribué à ce fournisseur précis. Voici en partie les observations qu’il a formulées aux paragraphes 24 à 38 :
+[24] Le paragraphe 169(4) énonce clairement qu’un inscrit ne peut demander un CTI que s’il obtient les renseignements visés par règlement. L’article 3 du Règlement dit clairement que les renseignements visés par règlement doivent comprendre le nom ou le nom commercial du fournisseur et le numéro d’inscription attribué au fournisseur.
+[25] Dans l’arrêt Systematix Technology Consultants Inc. c. Canada, 2007 CAF 226 (CanLII), [2007] G.S.T.C. 74, la Cour d’appel fédérale a eu l’occasion de se pencher sur cette même question dans un cas où une demande de CTI avait été faite dans des circonstances malheureuses, semblables à celles en l’espèce, où, pour diverses raisons, les fournisseurs n’avaient pas de numéro d’inscription aux fins de la TPS valide. La Cour d’appel fédérale a écrit ce qui suit :
+4. Nous sommes d’avis que la Loi exige que les personnes ayant versé des sommes au titre de la TPS à des fournisseurs veillent à fournir des numéros d’inscription des fournisseurs valides lorsqu’elles demandent un crédit de taxe sur les intrants.
+[Je souligne.]
+[26] Compte tenu du libellé de l’alinéa 169(4)a), ainsi que des motifs du jugement du juge Archambault de la Cour de l’impôt (2006 CCI 277 (CanLII), [2006] G.S.T.C. 120), qui avait siégé en première instance, motifs auxquels la Cour d’appel fédérale a souscrit, j’estime qu’en parlant de « numéros d’inscription des fournisseurs valides », la Cour d’appel a voulu dire des numéros d’inscription aux fins de la TPS qui avaient été valablement attribués à ces fournisseurs.
+[…]
+[33] […] je ne vois pas en quoi le libellé général des dispositions pertinentes, qui exige que les personnes qui demandent des CTI possèdent le numéro d’inscription attribué au fournisseur, et l’interprétation qui en a été faite par la Cour d’appel fédérale, selon laquelle ce libellé crée une obligation et doit être rigoureusement appliqué, devrait entraîner un résultat différent en l’espèce.
+[…]
+[38] […] L’ARC n’avait certes pas, durant les années en cause, de système de vérification en ligne permettant aux acheteurs de confirmer les noms et les numéros d’inscription des fournisseurs, mais elle offrait un service de renseignements téléphonique à cette fin. […]
+[20] Manifestement, il incombe à la personne qui demande des CTI d’obtenir les renseignements exigés au paragraphe 169(4) de la LTA et à l’article 3 du Règlement auprès de ses fournisseurs avant de présenter une demande de CTI, et non après coup. Il est incontestable que ces exigences sont impératives. Les renseignements exigés comprennent le numéro de TPS des fournisseurs de la personne qui demande des CTI. Il n’appartient pas au ministre de retracer ces renseignements comme le propose l’appelante. Cela imposerait un fardeau trop lourd à ceux qui sont chargés de l’application de la LTA.
+Conclusion [21] Pour les motifs exposés ci‑dessus, et pour donner effet à la concession faite par l’avocate de l’intimée, l’appel est accueilli en partie. La cotisation sera renvoyée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a droit à des CTI supplémentaires de 819,25 $.
+Signé à Kingston (Ontario), ce 12e jour de mai 2015.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 9e jour de juillet 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2015 CCI 121
+NUMÉRO DU DOSSIER DE LA COUR :
+2014-83(GST)I
+INTITULÉ :
+MEI MEI TAN, faisant affaire sous le nom de MTM CHINESE RESTAURANT et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 février 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 12 mai 2015
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Lenny Tam
+Avocate de l’intimée :
+Me Dominique Gallant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

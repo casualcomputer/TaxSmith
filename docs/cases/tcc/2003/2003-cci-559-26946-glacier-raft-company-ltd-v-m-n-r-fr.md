@@ -1,0 +1,240 @@
+---
+title: "Glacier Raft Company Ltd v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26946/index.do"
+last_modified: "2003-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 559"
+citation2: ""
+neutral_citation: "2003 CCI 559"
+decision_date: "2003-08-13"
+language: "fr"
+item_id: "26946"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 556
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:52:21.545000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2452a3e4f95c3c581cecef044014c5af3e89d048b753fff86faa68f8dd63b664"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Glacier Raft Company Ltd v. M.N.R.
+
+- Citation: 2003 CCI 559
+- Decision date: 2003-08-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 556, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glacier Raft Company Ltd v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-13
+Référence neutre
+2003 CCI 559
+Numéro de dossier
+2001-4528(EI)
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2001-4528(EI)
+ENTRE :
+GLACIER RAFT CO. LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Bridget Murphy
+(2001-4529(EI)), de Anne Duquette (2001-4530(EI)) et de Elizabeth Murphy
+(2002-895(EI)) le 7 avril 2003 à Cranbrook (Colombie-Britannique)
+Devant : L'honorable juge E. A. Bowie
+Comparutions
+Représentant de l'appelante :
+James Murphy
+Avocat de l'intimé :
+Me Victor Caux
+____________________________________________________________________
+JUGEMENT
+L'appel présenté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision du ministre du Revenu national en ce qui concerne l'appel présenté devant lui en vertu de l'article 92 de la Loi est confirmée.
+Signé à Ottawa, Canada, ce 13e jour d'août 2003.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise-Marie Leblanc, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2001-4529(EI)
+ENTRE :
+BRIDGET MURPHY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Glacier Raft Co. Ltd.
+(2001-4528(EI)), de Anne Duquette (2001-4530(EI)) et de Elizabeth Murphy
+(2002-895(EI)) le 7 avril 2003 à Cranbrook (Colombie-Britannique)
+Devant : L'honorable juge E. A. Bowie
+Comparutions
+Représentant de l'appelante :
+James Murphy
+Avocat de l'intimé :
+Me Victor Caux
+____________________________________________________________________
+JUGEMENT
+L'appel présenté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision du ministre du Revenu national en ce qui concerne l'appel présenté devant lui en vertu de l'article 92 de la Loi est confirmée.
+Signé à Ottawa, Canada, ce 13e jour d'août 2003.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise-Marie Leblanc, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2001-4530(EI)
+ENTRE :
+ANNE DUQUETTE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Glacier Raft Co. Ltd.
+(2001-4528(EI)), de Bridget Murphy (2001-4529(EI) et de Elizabeth Murphy
+(2002-895(EI)) le 7 avril 2003 à Cranbrook (Colombie-Britannique)
+Devant : L'honorable juge E. A. Bowie
+Comparutions
+Représentant de l'appelante :
+James Murphy
+Avocat de l'intimé :
+Me Victor Caux
+____________________________________________________________________
+JUDGMENT
+L'appel présenté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision du ministre du Revenu national en ce qui concerne l'appel présenté devant lui en vertu de l'article 91 de la Loi est confirmée.
+Signé à Ottawa, Canada, ce 13e jour d'août 2003.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise-Marie Leblanc, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-895(EI)
+ENTRE :
+ELIZABETH MURPHY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Glacier Raft Co. Ltd.
+(2001-4528(EI)), de Bridget Murphy (2001-4529(EI)) et de Anne Duquette
+(2001-4530(EI)) le 7 avril 2003 à Cranbrook (Colombie-Britannique)
+Devant : L'honorable juge E. A. Bowie
+Comparutions
+Représentant de l'appelante :
+James Murphy
+Avocat de l'intimé :
+Me Victor Caux
+____________________________________________________________________
+JUGEMENT
+L'appel présenté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision du ministre du Revenu national en ce qui concerne l'appel présenté devant lui en vertu de l'article 91 de la Loi est confirmée.
+Signé à Ottawa, Canada, ce 13e jour d'août 2003.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise-Marie Leblanc, traductrice
+Référence : 2003CCI559
+Date : 20030813
+Dossiers : 2001-4528(EI), 2001-4529(EI)
+2001-4530(EI), 2002-895(EI)
+ENTRE :
+GLACIER RAFT CO. LTD.,
+BRIDGET MURPHY,
+ANNE DUQUETTE,
+ELIZABETH MURPHY,
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Les quatre appelantes interjettent appel à l'encontre des décisions du ministre du Revenu national (le « ministre » ) en vertu de la Loi sur l'assurance-emploi[1] (la « Loi » ). Les appels ont été entendus ensemble sur preuve commune avec le consentement de toutes les parties visées. James Murphy a représenté toutes les appelantes. Les appels visent l'emploi des trois différentes appelantes pour l'entreprise appelante (Glacier) pendant la période allant du 15 mai 2000 au 31 août 2000 (la période). Glacier exploitait une entreprise de rafting sur la rivière Kicking Horse en Colombie-Britannique chaque été. James Murphy détient toutes les actions de Glacier. Il est également le père des trois appelantes qui étaient toutes à l'emploi de Glacier pendant la période. Lorsqu'elles ont plus tard présenté une demande de prestations en vertu de la Loi, on a déterminé qu'elles n'étaient pas admissibles parce que leur emploi à Glacier n'était pas un emploi assurable au sens des alinéas 5(2)i) et 5(3)b) de la Loi, qui sont rédigés de la manière suivante :
+5(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+5(3) Pour l'application de l'alinéa (2)i),
+[...]
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[2] Il ne fait aucun doute qu'il existe un lien entre chacune des appelantes et Glacier; la question sur laquelle le ministre devait prendre une décision en vertu de l'alinéa 5(3)b) visait à savoir si, après avoir examiné toutes les circonstances, il était raisonnable de conclure que Glacier et chacune des appelantes auraient conclu un contrat de travail à peu près semblable s'il n'y avait eu de lien de dépendance entre elles. L'obligation du ministre qui doit prendre ses décisions en vertu de la Loi et le rôle de la Cour en examinant ces décisions ont fait l'objet de plusieurs décisions de la Cour d'appel fédérale au cours des dernières années. Le juge d'appel Marceau s'est exprimé ainsi dans l'affaire Légaré c. Canada[2] :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+On a répété cette description des rôles du ministre et de la Cour dans l'affaire Pérusse c. Canada[3], et on l'a réaffirmée récemment dans l'affaire Valente c. Canada[4], dans laquelle le juge d'appel Sharlow, parlant également pour les juges d'appel Létourneau et Nadon, l'a décrite ainsi :
+[...] se démarquent de décisions plus anciennes en ce qui a trait à la définition du rôle de la Cour de l'impôt en matière d'appels de décisions ministérielles aux termes de l'alinéa 5(3)b) de la Loi [...].
+Il serait surprenant que la Cour d'appel fédérale infirme ses nombreuses décisions antérieures[5] visant la nature de l'examen de la décision du ministre par la Cour en vertu de l'alinéa 5(3)b) sans qu'on y fasse directement référence, mais il semble que ce soit le cas.
+[3] Selon moi, lorsque le juge d'appel Marceau parlait « [...] de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés » , il faisait référence aux faits découverts par le juge de première instance après une audition dans le cadre d'un nouveau procès et non aux conclusions d'une procédure d'enquête comme celles menées par les commissions d'enquête et par les tribunaux de certains pays qui ne fonctionnent pas selon la tradition anglo-américaine. Si l'objectif était d'apporter un changement à la façon dont les faits doivent être établis pendant l'affaire devant cette Cour, je n'ai aucun doute que le législateur l'aurait indiqué clairement et que la Cour d'appel fédérale aurait examiné de façon plus approfondie cet aspect de la question. Par conséquent, je considère qu'il revient aux parties[6] plutôt qu'au juge présidant de décider quelle preuve doit être présentée devant la Cour.
+[4] On ne m'a pas présenté les documents habituellement disponibles aux tribunaux devant examiner le bien-fondé d'une décision ministérielle ou judiciaire. On ne stipule rien de tel dans la Loi ni dans les Règles de procédure de la Cour canadienne de l'impôt à l'égard de la Loi sur l'assurance-emploi. Les Règlesstipulent que le ministre doit répondre à un Avis d'appel en envoyant une Réponse à l'avis d'appel dans laquelle on précise, entre autres, les faits de l'Avis d'appel admis et niés. On doit également y présenter toute autre allégation de fait sur laquelle le ministre prévoit fonder sa décision. Bien que les Règles ne l'exigent pas, une pratique s'est établie petit à petit voulant que le ministre invoque, comme hypothèses de fait, les faits sur lesquels son évaluation est fondée. Toutefois, sans avoir accès au document présenté en tant que preuve et ayant amené le ministre à ces conclusions factuelles, la Cour est dans l'impossibilité de décider si les documents qui lui ont été présentés étaient suffisants pour appuyer sa décision. Cela n'aura pas une grande incidence cependant étant donné qu'il s'agit d'une nouvelle audition. Ce qui est important, c'est qu'avant l'audition devant la Cour en l'espèce, les appelantes aient été informées des faits et des mesures législatives sur lesquels les décisions du ministre étaient fondées et qu'elles aient eu la possibilité, lors de l'audition, de présenter leur témoignage et leur argument visant à les réfuter.
+[5] Anne et Elizabeth Murphy travaillaient toutes les deux pour Glacier comme guides sur la rivière pendant la période visée, et les réponses du ministre à leur avis d'appel sont identiques. Bridget Murphy travaillait comme gestionnaire de bureau pendant la même période. La réponse à son avis d'appel est presque identique à celle de ses soeurs, la seule différence étant la nature des tâches qu'elle accomplissait. Les mêmes hypothèses de fait sont présentées dans l'appel de Glacier. Je présente ici toutes les hypothèses de fait telles qu'elles paraissent dans les réponses aux avis d'appel de Anne Murphy et de Elizabeth Murphy.
+[Traduction]
+5. Afin de prendre sa décision présentée au paragraphe 4 ci-après désignée, l'intimé s'est fondé sur les hypothèses de fait suivantes :
+a) Glacier constitue une corporation;
+b) James Murphy (James) est l'unique détenteur des actions de Glacier;
+c) James est le père de l'appelante;
+d) pendant la période, Glacier exploitait une entreprise de rafting en eau vive sur la rivière Kicking Horse;
+e) l'appelante est une guide de rafting qualifiée ainsi qu'une chef d'expédition qualifiée possédant de nombreuses années d'expérience dans l'entreprise;
+f) l'appelante était à l'emploi de Glacier comme guide d'expédition pendant la période, travaillant de temps à autre dans le bureau au besoin;
+g) pendant la période, l'appelante pouvait travailler jusqu'à dix heures par jour, six jours par semaine, selon le nombre de clients, le climat, etc.;
+h) on n'a tenu aucun registre des heures de travail de l'appelante pendant la période;
+i) l'appelante devait recevoir une rémunération mensuelle de 2 000 $;
+j) l'appelante ne recevait pas régulièrement de rémunération, mais elle pouvait demander des avances au besoin, le règlement financier devant se faire à la fin de la saison;
+k) Glacier embauchait d'autres guides d'expédition, tant à temps plein qu'à temps partiel et ces guides recevaient une rémunération quotidienne allant de 80 $ à 170 $, selon leur expérience;
+l) les autres guides d'expédition étaient rémunérés par chèque chaque mois;
+m) le T4 préparé par Glacier pour l'appelante pour l'année 2000 indique que son revenu brut versé par Glacier était de 7 000 $ ainsi que des retenues pour les contributions au Régime de pensions du Canada et à l'Assurance-emploi;
+n) le relevé d'emploi préparé par Glacier pour l'appelante pour la période indique qu'elle a travaillé 940 heures assurables et a reçu une rémunération de 7 000 $;
+o) l'appelante a reçu deux chèques, un daté du 9 août 2000 au montant de 5 000 $ et un autre en septembre pour la somme de 2 000 $;
+p) la rémunération de l'appelante était moins élevée que celle des autres guides d'expédition;
+q) la rémunération de l'appelante était moindre que ce qu'elle aurait dû recevoir selon ses titres et qualités et ses années d'expérience;
+r) l'appelante fournissait des services à Glacier avant et après la période sans être rémunérée;
+s) pendant la période, l'appelante et Glacier étaient liées au sens de la Loi de l'impôt sur le revenu;
+t) pendant la période, il existait un lien de dépendance entre l'appelante et Glacier;
+u) ayant examiné toutes les circonstances de l'emploi, y compris la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, il n'est pas raisonnable de conclure que l'appelante et Glacier aurait conclu un contrat de travail à peu près semblable s'il n'y avait pas eu de lien de dépendance entre elles.
+Il est clair que dans les sous-paragraphes s), t) et u), on ne cite aucun fait, mais plutôt des conclusions de la loi (ou un mélange de fait et de loi). Ces conclusions ne devraient pas être présentées comme hypothèses de fait, et je ne peux pas en tenir compte.
+[6] James Murphy a témoigné pour les appelantes, tout comme Anne et Elizabeth. Les appelantes ont également présenté un témoignage d'Yvon Sabourin, un guide d'expédition expérimenté qui travaillait pour Glacier comme gestionnaire des activités de la rivière pendant la période pertinente et celui de Kurt Swanson, également un guide d'expédition expérimenté qui avait travaillé pour quelques entreprises de l'industrie, y compris Glacier. Ils ont tous fourni une certaine description des activités d'une entreprise de rafting en eau vive, à partir du matin lorsqu'il faut vérifier l'équipement et le transporter au point de départ de l'expédition sur la rivière et préparer des goûters pour les clients et le personnel jusqu'à la fin de la journée lorsqu'il faut sortir les radeaux de la rivière, les inspecter et effectuer des réparations au besoin et ranger tout l'équipement. La supervision générale des activités est la responsabilité du gestionnaire des activités de la rivière. Il y a un guide ou plus par radeau pendant l'expédition sur la rivière et un chef d'expédition par groupe, un guide expérimenté de première classe. Le guide doit accomplir des tâches difficiles et variées, et il est clair, selon les témoignages, que Anne et Elizabeth effectuaient toutes les tâches que les autres guides accomplissaient, et plus encore. Ces deux appelantes et Bridget avaient toutes travaillé pour Glacier d'une façon ou d'une autre pendant beaucoup d'années. En fait, M. Murphy a affirmé que, lorsqu'il avait acheté l'entreprise en 1995, il se sentait confiant uniquement parce que ses trois filles avaient acquis entre elles de nombreuses années d'expérience dans plusieurs domaines au sein de l'entreprise du temps de l'ancien propriétaire. J'accepte également le témoignage voulant que chacune des appelantes avait une bonne éthique de travail et n'était pas seulement prête à travailler autant sinon plus que les autres guides, mais elle le faisait avec enthousiasme. Le ministre a fait valoir qu'elles avaient travaillé en dehors de la période sans être rémunérées, et elles n'ont pas contesté ce fait. Toutefois, je ne considère pas que ce soit un facteur important dans le cadre de l'examen des modalités d'emploi; si je tiens compte de tous les témoignages, je crois qu'il est juste de conclure que ce travail supplémentaire ne consistait qu'à répondre au téléphone de temps à autre et à effectuer d'autres tâches semblables avant le début et après la fin de la saison et qu'elles n'accomplissaient pas ces tâches à titre d'employées, mais simplement en tant que membres de la famille.
+[7] Le véritable point en litige dans la présente affaire consiste à établir si chacune des appelantes était rémunérée pour son travail selon la même base que les autres employés ou, pour utiliser le langage alambiqué de la Loi, aurait-il été raisonnable de conclure que les appelantes et Glacier auraient conclu un contrat de travail à peu près semblable s'il n'y avait pas eu de lien de dépendance entre elles? On ne conteste pas le fait que les guides, mis à part les appelantes, étaient rémunérés pour chaque expédition, soit entre 80 $ et 120 $ par expédition, selon leur expérience, ce qui constitue une rémunération normale dans l'industrie. Outre les appelantes, on n'offrait la possibilité de recevoir un salaire qu'au guide d'expédition, mais ce dernier a choisi de recevoir une rémunération quotidienne de 170 $. Il est impossible de savoir de prime abord si la saison sera bonne et qu'on effectuera beaucoup d'expéditions ou si la saison sera tranquille et permettra moins d'expéditions. Évidemment, le guide rémunéré pour chaque expédition gagnera plus d'argent si la saison est bonne que si elle est tranquille. Un certain nombre de facteurs, y compris les éléments naturels tels que le climat et le niveau de l'eau, ont des incidences importantes sur le volume d'affaires, dans cette industrie, ce qui contribuera à déterminer combien d'argent un guide payé pour chaque expédition peut faire pendant la saison. Avant le début de la saison 2000, M. Murphy, à titre de gérant principal de Glacier, a offert à chacune des trois appelantes la possibilité de recevoir un salaire de 7 000 $ pour la saison, réparti en paiements. L'autre option, pour Anne et Elizabeth, consistait à être payées pour chaque expédition comme les autres guides. Il n'est pas tout à fait clair quel autre système de rémunération aurait pu être utilisé pour Bridget à titre de gestionnaire de bureau. La preuve ne précise pas quel taux de rémunération était offert à ce moment-là aux personnes effectuant un travail de bureau dans une entreprise semblable. Toutefois, il est clair qu'on avait offert aux trois appelantes de travailler à salaire uniquement parce qu'elles étaient les filles de M. Murphy.
+[8] Les trois appelantes ont pris entente avec leur père qui leur verserait un salaire de 7 000 $ chacune pour la saison. Il était entendu que les appelantes auraient droit à certains versements qui seraient effectués pendant l'été et que le solde leur serait remise à la fin de la saison. En fait, elles ont chacune reçu un chèque de 5 000 $ daté du 9 août 2000, et un deuxième chèque au montant de 2 000 $, pour le règlement du solde, à la fin de la saison. Rien ne semble indiquer que cette méthode de paiement, plutôt que les chèques de paye hebdomadaires ou mensuels habituels, soit une pratique courante dans l'industrie. Je reconnais les avantages de cet arrangement pour Glacier et pour chacune des trois appelantes. Glacier, n'ayant à payer les travailleuses que tard dans la saison, a pu conserver un fonds de roulement probablement limité. Anne et Elizabeth ont pu éviter les risques d'une saison tranquille au cours de laquelle leur revenu aurait pu être bien en dessous de 7 000 $. Je suppose que Bridget aurait pu, elle aussi, être mise à pied ou travailler moins d'heures si le volume d'achalandage aurait été moins bon que prévu. Je n'ai pas oublié le fait que chacune des appelantes a affirmé qu'elle aurait travaillé pour une autre entreprise selon des conditions semblables à celles que lui offrait Glacier. Toutefois, la question que se posait le ministre était de savoir si Glacier et une personne n'ayant pas de lien de dépendance avec elle auraient conclu un contrat de travail à peu près semblable. Le ministre n'en était pas convaincu et, selon la preuve qui m'a été présentée, je ne peux pas dire qu'il avait tort. Je dois rejeter les appels.
+[9] Je dois expliquer clairement que, bien que je doive rejeter les appels, vos témoignages m'ont impressionné, surtout celui de Anne Duquette (tel est son nom maintenant), de Elizabeth Murphy et de James Murphy. Je ne doute absolument pas que Anne et Elizabeth travaillaient tout autant, sinon plus, que les autres guides. Il ne fait également aucun doute que M. Murphy comptait beaucoup sur leur expérience, non seulement lorsqu'il a acquis l'entreprise en 1995, mais plus tard également. Il ne s'agit certainement pas d'une situation ou l'on crée des emplois pour des raisons de commodité, afin d'avantager des membres de la famille qui pourraient ainsi profiter du système d'assurance-emploi sans y être admissibles. Néanmoins, la Loi est raisonnablement claire et, lorsque des parties ayant un lien de dépendance entre elles concluent des contrats de travail, elles doivent veiller scrupuleusement à ce que les modalités ne diffèrent pas de celles utilisées par l'employeur lorsqu'il embauche d'autres travailleurs ou de celles qui inciteraient les travailleurs à trouver du travail ailleurs s'ils désirent que leur emploi soit assurable en vertu de la Loi.
+Signé à Ottawa, Canada, ce 13e jour d'août 2003.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 2e jour de février 2004.
+Louise-Marie Leblanc, traductrice
+[1] L.C. 1996, ch. 23.
+[2] C.A.F., nos A-392-98, A-393-98, 28 mai 1999 (246 N.R. 176) au paragraphe 4.
+[3] C.A.F., no A-722-97, 10 mars 2000 ((2000), 261 N.R. 150) au paragraphe 14.
+[4] 2003 CAF 132.
+[5] Tignish Auto Parts Inc. c. Canada, C.A.F., no A-555-93, 25 juillet 1994 ((1994), 185 N.R. 73); Canada c. Jencan Ltd., [1998] 1 C.F. 187, (C.A.F.); Bayside Drive-In Ltd. c. Canada, [1997] A.C.F. 1019 (C.A.F.).
+[6] Farrar v. Farrar (2003), 63 O.R. (3d) 141, par le juge d'appel Charron aux paragraphes [23] à [27].

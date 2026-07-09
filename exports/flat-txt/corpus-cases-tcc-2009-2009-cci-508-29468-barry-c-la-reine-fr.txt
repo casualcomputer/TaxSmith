@@ -1,0 +1,207 @@
+Title: Barry c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29468/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-508-29468-barry-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-08-13
+
+# Barry c. La Reine
+
+- Citation: 2009 CCI 508
+- Decision date: 2009-08-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6287, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-13
+Référence neutre
+2009 CCI 508
+Numéro de dossier
+2007-1889(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1889(IT)G
+ENTRE :
+WAYNE BARRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 13 août 2009, à Edmonton (Alberta).
+Par : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocat de l’appelant :
+Me Chad J. Brown
+Avocate de l’intimée :
+Me Elena Sacluti
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’avocat de l’appelant demandant à la Cour de rendre une ordonnance enjoignant au représentant de l’intimée, M. Scott Cameron, de répondre à certaines questions et de produire certains documents lors de l’interrogatoire préalable;
+La Cour ordonne que, sous réserve du droit de l’avocate de l’intimée de s’y opposer pour les raisons consacrées, l’avocat de l’appelant soit autorisé à poser des questions précises sur les points suivants :
+Le document n° 16 de la liste de documents de l’intimée.
+Les employés visés par le document n° 16 de la liste de documents de l’intimée.
+Les chèques annulés de la RBC visés par le document n° 16 de la liste de documents de l’intimée.
+Les documents de base ayant servi à l’établissement du document n° 16 de la liste de documents de l’intimée.
+Les fonds de l’actif de la société en faillite que le ministre du Revenu national a reçus et les comptes de taxes de ladite société auxquels ces fonds étaient destinés.
+L’appelant disposera de 20 jours à compter de la date de l’ordonnance pour faire savoir par écrit à l’avocate de l’intimée si l’interrogatoire préalable de M. Cameron se déroulera oralement ou au moyen de questions et réponses écrites.
+La Cour ordonne également à l’intimée de produire les documents suivants :
+Les formulaires T4 Sommaires pour 2001, 2002, 2003 et 2004, et ce, pour les sociétés Prefco Enterprises Inc., Preferred Restoration and Emergency Services Inc., PCG Preferred Construction Group, Coast Flashing and Scaffolding Ltd., Paramount Homes 2002 Ltd. et Wellington Homes Inc.
+Les feuillets T4 de certains employés visés par le document n° 16 de la liste de documents de l’intimée.
+Le dossier des feuilles de travail de Rusty Cale (l’examinateur des comptes en fiducie) portant sur l’examen de Prefco Enterprises Inc., y compris le rapport de vérification T20 et les registres T2020.
+Les déclarations de revenu des sociétés T2 pour Prefco Enterprises Inc., PCG Construction Group Inc., Preferred Restoration and Emergency Services Inc., Coast Flashing & Scaffolding Ltd., Paramount Homes 2002 Ltd. et Wellington Homes Inc. pour les années d’imposition 2002 à 2005.
+L’ordonnance de la Cour datée du 7 avril 2009 faisant état des différentes étapes menant à l’audition de l’appel est ainsi modifiée :
+a) Toute liste de documents modifiée sera déposée et signifiée à la partie adverse d’ici le 15 décembre 2009;
+b) Les interrogatoires préalables devront être terminés d’ici le 1er mars 2010;
+c) Les engagements pris au moment de l’interrogatoire préalable devront être exécutés d’ici le 15 avril 2010;
+d) Les parties devront communiquer avec le coordonnateur des audiences, par écrit, au plus tard le 30 mai 2010, pour faire savoir à la Cour, entre autres choses, si l’affaire sera réglée, si elles considèrent qu’il serait bon de tenir une conférence préparatoire à l’audience ou s’il y a lieu de fixer une date d’audience. Dans ce dernier cas, les parties peuvent déposer une demande commune pour fixer les temps et lieu de l’audience, conformément à l’article 123 des Règles de la Cour canadienne de l’impôt (procédure générale).
+Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2009.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 5e jour de novembre 2009.
+Alya Kaddour-Lord, traductrice
+Référence : 2009 CCI 508
+Date : 20091014
+Dossier : 2007-1889(IT)G
+ENTRE :
+WAYNE BARRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Rip
+[1] L’appelant a demandé à la Cour de rendre une ordonnance enjoignant au représentant de l’intimée, M. Scott Cameron, lors de l’interrogatoire préalable dans le présent appel, de répondre à certaines questions et de produire certains documents qui ont fait l’objet d’un refus de la part de M. Cameron.
+[2] La requête a été déposée dans le cadre de l’appel interjeté par Wayne Barry à l’encontre des cotisations établies en vertu de l’article 227.1 de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de Prefco Enterprises Inc. (« Prefco »), société de portefeuille ouverte, et de PCG Construction Group Inc. (« PCG »), filiale de Prefco. Ces sociétés avaient en effet omis de verser respectivement 731 490,62 $ et 84 290,31 $ au receveur général du Canada, au titre des retenues à la source non versées, y compris des intérêts et des pénalités s’y rapportant, et ce, en application de l’article 153 de la Loi, au moment où M. Barry était administrateur de Prefco et de PCG. Il s’agit des cotisations établies à l’égard de Prefco pour les années d’imposition 2001 à 2004 et de celle établie à l’égard de PCG pour l’année d’imposition 2000.
+[3] Le paragraphe 227.1(1) de la Loi est ainsi rédigé :
+Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+[4] Les refus de M. Cameron de répondre à certaines questions et de produire certains documents découlent de la position adoptée par l’intimée, selon laquelle il s’agit d’un sujet [traduction] « manifestement sans rapport », considérant que l’appelant ne peut contester l’exactitude des cotisations sous‑jacentes[1] établies à l’égard de Prefco et de PCG. L’avocate de l’intimée admet qu’au cas où je conclurais qu’il est possible de contester l’exactitude des cotisations sous‑jacentes, les questions relatives à ces cotisations seraient alors valables.
+[5] L’appelant est d’avis que le ministre du Revenu national (le « ministre ») a commis une erreur quand il a établi les cotisations en cause à l’égard de Prefco, en comptant dans l’état des salaires un grand nombre de personnes qui n’étaient pas employées par Prefco, mais par ses filiales. Dans une moindre mesure, la cotisation à l’égard de PCG a été établie de façon similaire à celle de Prefco. À l’exception de PCG, M. Barry n’était pas administrateur des filiales.
+[6] Les deux parties ont renvoyé à l’arrêt de la Cour d’appel fédérale Gaucher v. The Queen[2]. Mme Gaucher a été imposée de manière indirecte, en vertu de l’article 160 de la Loi, sur la résidence que son ex‑époux lui avait transférée au moment où la nouvelle cotisation qui a été établie à l’égard de celui-ci était en attente de ratification. Mme Gaucher voulait que la cotisation établie à son égard soit annulée. Pour ce faire, elle a cherché à démontrer que les nouvelles cotisations établies à l’égard de son ex‑époux étaient prescrites et nulles. La Cour avait rejeté cet argument, étant donné qu’elle avait déjà confirmé les nouvelles cotisations de l’ex‑époux de l’appelante. Au paragraphe 6, le juge Rothstein s’est ainsi exprimé :
+[…] Il existe une règle fondamentale relevant de la justice naturelle selon laquelle, sous réserve d’une disposition législative à l’effet contraire, une personne non partie à une instance ne saurait être liée par le jugement qui y est prononcé à l’égard d’autres parties. L’appelante n’était pas partie à l’instance intervenue entre le ministre et son ex-mari au sujet de la nouvelle cotisation. Cette instance n’avait aucunement pour objet de lui imposer une obligation fiscale. Bien qu’elle ait pu être témoin dans cette instance, elle n’y était pas partie et ne pouvait donc pas y soulever des moyens de défense à l’égard de la cotisation de son ancien mari.
+[7] Au paragraphe 7, il a ajouté :
+Lorsque le ministre établit une cotisation à titre dérivé en application du paragraphe 160(1), il invoque une disposition législative particulière qui l’autorise à demander paiement à une seconde personne pour la cotisation d’impôt visant un premier contribuable. Cette seconde personne doit jouir d’un plein droit de défense pour contester la cotisation établie à son endroit, y compris celui d’attaquer la cotisation primaire sur laquelle se fonde la cotisation touchant la seconde personne.
+[8] Si on se fie à l’arrêt Gaucher, dès lors que la cotisation visant le premier contribuable revêt un caractère définitif, quelle qu’en soit la raison, que ce soit par exemple parce que le contribuable ne s’y est pas opposé, qu’il n’a pas interjeté appel de la cotisation ou encore que celle‑ci a été ratifiée par la Cour ou par un tribunal d’instance supérieure, la cotisation devient définitive, ne liant que le contribuable à l’égard duquel la cotisation a été établie et le ministre. Une cotisation établie en vertu du paragraphe 160(1) à l’égard d’une tierce partie ne peut influer sur la cotisation établie par le ministre à l’égard du premier contribuable. La tierce partie n’était pas partie à l’instance ayant opposé le premier contribuable au ministre et elle ne peut donc être liée par la cotisation établie à l’égard du premier contribuable. La tierce partie est autorisée à soulever tous les moyens de défense que le premier contribuable aurait pu invoquer à l’encontre de la cotisation sous‑jacente[3].
+[9] L’intimée est d’avis que la décision rendue par la Cour d’appel fédérale dans l’arrêt Gaucher ne devrait pas s’appliquer aux cotisations établies en vertu de l’article 227.1, simplement parce que les cotisations établies en vertu des articles 160 et 227.1 de la Loi peuvent être classées dans la catégorie des « cotisations établies à titre dérivé ». Il existe, comme l’avocate de l’intimée l’a soutenu, des différences considérables et fondamentales entre les deux dispositions.
+[10] L’avocate de l’intimée a renvoyé à plusieurs dispositions de diverses lois fédérale et provinciales sur les sociétés par actions[4], en matière d’obligations des administrateurs, apparemment afin de faire ressortir le principe voulant que l’article 227.1 de la Loi porte spécifiquement sur le droit des sociétés par actions, en ce sens que l’administrateur a la possibilité de contester la dette de la société du fait de son statut, possibilité dont les tierces parties faisant l’objet de cotisations en vertu de l’article 160 ne peuvent se prévaloir.
+[11] L’intimée a fait valoir qu’il y avait deux raisons pour lesquelles le législateur voulait que l’administrateur soit responsable des déductions à la source : premièrement, pour encourager les administrateurs, en tant qu’âmes dirigeantes de la société, à s’assurer que les sommes sont versées ou remises tel qu’il est requis. Les administrateurs sont les mieux à même de connaître l’état financier de la société, et par conséquent, ils en sont tenus responsables. Deuxièmement, on veut disposer d’une source de fonds secondaire au cas où la société deviendrait insolvable et que les paiements et remises exigés n’auraient pas été faits. On s’assure ainsi que le gouvernement peut récupérer les montants qui lui sont dus.
+[12] L’avocate de l’intimée a souligné que ces dispositions étaient similaires aux dispositions sur la responsabilité des administrateurs dans les lois régissant les sociétés par actions, lesquelles prévoient que les administrateurs sont responsables de certaines dettes de la société, comme les salaires à verser aux employés : article 119 de la Loi canadienne sur les sociétés par actions (la « LCSA »). De même, tout comme le paragraphe 227.1(3) de la Loi, les lois régissant les sociétés par actions prévoient un moyen de défense opposable à la responsabilité des administrateurs : les articles 118 et 119 et le paragraphe 123(4) de la LCSA par exemple.
+[13] Sur la foi de ce raisonnement, l’avocate de l’intimée a conclu qu’une cotisation établie en vertu de l’article 227.1 de la Loi était différente d’une cotisation établie en vertu de l’article 160 de la Loi, lequel n’est pas fondé sur les principes du droit des sociétés, et par conséquent, que le fait d’appliquer les conclusions de l’arrêt Gaucher à une cotisation établie en vertu de l’article 227.1 [traduction] « ignorait le rôle important que jouent les administrateurs en tant qu’âmes dirigeantes de la société et remettait en question le fondement de toutes les dispositions similaires des lois régissant le droit des sociétés par actions au Canada ».
+[14] L’avocate de l’intimée a ajouté que, contrairement à une cotisation établie en vertu de l’article 160, une cotisation établie en vertu de l’article 227.1 devait satisfaire à certaines conditions, décrites au paragraphe 227.1(2) de la Loi.
+[15] Le fait que la dette sous‑jacente prévue par l’article 227.1 soit différente par nature de la dette prévue par l’article 160 signifie également que ces dettes ne sont pas analogues, aux dires de l’intimée. Les retenues à la source exigées par le paragraphe 153(1) sont détenues en fiducie pour la Couronne jusqu’à ce qu’elles soient versées au receveur général. Une dette, dans le contexte de l’article 160, est toute dette d’un contribuable au sens de la Loi. L’intimée a souligné qu’il existait d’autres différences, comme le fait que l’article 160 ne portait pas moyen de défense de la diligence raisonnable, contrairement aux dettes découlant de l’application de l’article 227.1, sous le paragraphe 227.1(3). De plus, il n’y a pas de délai prescrit pour une cotisation établie en vertu de l’article 160 (paragraphe 160(2)), alors qu’on prévoit, au paragraphe 227.1(4), un délai de deux ans pour recouvrer une somme payable à la suite d’une omission au sens de l’article 227.1.
+[16] L’avocate de l’intimée a également soutenu que, lus conjointement, les paragraphes 227.1(1) et 152(8) de la Loi n’autorisaient pas un administrateur à contester une cotisation établie à l’égard d’une société dans le cadre d’un appel relatif à la responsabilité d’un administrateur, quand la société elle-même n’a pas interjeté appel de la cotisation sous‑jacente ou ne s’y est pas opposée. Cet argument est né des termes employés par le juge Rothstein, qui s’est ainsi exprimé au paragraphe 6 de l’arrêt Gaucher : « […] Il existe une règle fondamentale relevant de la justice naturelle selon laquelle, sous réserve d’une disposition législative à l’effet contraire, une personne non partie à une instance ne saurait être liée par le jugement qui y est prononcé à l’égard d’autres parties. […] »
+[17] D’après l’intimée, le moyen de défense de la justice naturelle offert au contribuable dans l’arrêt Gaucher, grâce auquel une tierce partie à l’égard de laquelle une cotisation à titre dérivé a été établie peut contester la première cotisation, ne devrait pas être ouvert aux administrateurs d’une société responsables en application de l’article 227.1, dans la mesure où il existe des dispositions législatives à l’effet contraire dans le contexte d’un appel en matière de responsabilité des administrateurs.
+[18] Par exemple, le paragraphe 227.1(1) prévoit que l’administrateur est responsable de « cette somme » que la société a omis de déduire, de retenir, de verser ou de payer. Si la société omet de s’opposer à « cette somme » ou d’en interjeter appel dans la cotisation sous‑jacente établie à l’égard de la société, « cette somme » devient valide et exécutoire en application du paragraphe 152(8) de la Loi. Le paragraphe 227.1(1) autoriserait alors le ministre à recouvrer « cette somme » auprès des administrateurs de la société quand il s’avère impossible de la recouvrer auprès de la société.
+[19] Par conséquent, il est important d’établir ce que le législateur entendait par « cette somme », telle que l’expression apparaît au paragraphe 227.1(1). L’intimée a soutenu que « cette somme » renvoyait à la totalité du montant dont la société était responsable dans la cotisation établie à son égard. L’appelant fait valoir que « cette somme » pourrait renvoyer à un montant moins important, sous réserve du fait que la cotisation sous‑jacente établie à l’égard de la société soit contestée avec succès.
+[20] L’intimée s’est appuyée sur l’arrêt de la Cour suprême du Canada Hypothèques Trustco Canada c. Canada[5] (l’« arrêt Trustco ») pour proposer l’interprétation des lois fiscales suivante : « […] être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble »[6].
+[21] Le libellé de la Loi constitue le point de départ de l’analyse textuelle de l’intimée[7]. Pour se détacher du sens ordinaire, il faut qu’il y ait ambiguïté, mais dans l’arrêt Bell ExpressVu Limited Partnership c. Rex, le juge Iacobucci a formulé la mise en garde suivante : « Voilà pourquoi on ne saurait conclure à l’existence d’une ambiguïté du seul fait que plusieurs tribunaux – et d’ailleurs plusieurs auteurs – ont interprété différemment une même disposition […] »[8]. L’intimée est d’avis que l’expression « cette somme », au paragraphe 227.1(1) de la Loi, fait référence à la totalité de la somme que la société à omis de déduire, de retenir, de verser ou de payer. Elle ne renvoie pas à une somme moindre dont la société pourrait être responsable si elle décidait de s’opposer à la cotisation établie à son égard ou d’en faire appel. L’avocate de l’intimée soutient que si telle était l’intention du législateur, le paragraphe 227.1(1) prévoirait expressément que « ce montant » désigne également un montant moins important, comme ce qu’avance l’appelant. L’intimée se fonde sur les cotisations établies à l’égard de la société et par la suite à l’égard de l’administrateur comme preuve de la nature claire et exacte de la somme en cause.
+[22] En ce qui a trait à l’analyse contextuelle, l’intimée soutient que les dispositions de la Loi doivent œuvrer en faveur d’un but ou objet commun. Il faut considérer la Loi dans son ensemble. L’article 227.1 se trouve dans la partie XV « Application et exécution » et fait partie des dispositions de « recouvrement » de la Loi, qui comprennent les articles 222 à 229. Par conséquent, l’avocate de l’intimée conclut que le paragraphe 227.1(1) représente pour le ministre une autre façon de recouvrer certains fonds réputés être détenus en fiducie pour Sa Majesté la Reine auprès des administrateurs de sociétés par actions.
+[23] Finalement, aux fins de l’analyse téléologique, l’intimée a fait valoir que le libellé de la Loi était la meilleure preuve de son objet. L’article 227.1 a pour objet de permettre au fisc de se tourner vers les administrateurs des sociétés, en tant qu’âmes dirigeantes, afin de recouvrer « cette somme », y compris les intérêts et les pénalités s’y rapportant, quand la société ne paie pas ses dettes. Il s’assure que les fonds détenus en fiducie pour Sa Majesté soient recouvrés. L’intimée a affirmé que dans la mesure où la société et les administrateurs demeuraient solidairement responsables de cette somme, en application des paragraphes 227.1(2) à (6), la somme calculée dans la cotisation établie à l’égard de la société est égale à celle qui est ensuite calculée dans la cotisation établie à l’égard de l’administrateur.
+[24] Par conséquent, l’intimée a conclu que, lus conjointement, les paragraphes 152(8) et 227.1(1) de la Loi ne permettaient pas à un administrateur de contester une cotisation établie à l’égard de la société dans le cadre d’un appel en matière de responsabilité des administrateurs parce que ces dispositions législatives liaient les administrateurs aux résultats de la cotisation établie à l’égard de la société en premier lieu.
+[25] Je ne peux souscrire aux propos de l’intimée.
+[26] Il m’est difficile de prendre la mesure de l’argument de l’intimée, selon lequel la nature différente des dettes prévues aux articles 160 et 227.1 de la Loi constitue le facteur décisif influant sur l’ancien droit des administrateurs de contester une cotisation en vertu d’une de ces dispositions. Mais en fin de compte, la cotisation établie en application de l’article 160 et celle établie en application de l’article 227.1 sont toutes deux établies en vertu de la Loi, laquelle accorde aux contribuables certains droits. L’intimée semble avoir perdu de vue le fait qu’un contribuable a le droit de s’opposer à une cotisation établie à son égard avec tous les moyens que la loi met à sa disposition, et ce, quelle qu’en soit la cause ou l’origine. Comme le juge Rothstein l’a déclaré dans l’arrêt Gaucher, le fait de lier un contribuable, y compris un administrateur, à une cotisation établie à l’égard d’un autre contribuable contrevient aux règles relevant de la justice naturelle.
+[27] Il existe de nombreuses raisons pour lesquelles le fait qu’une société décide de ne pas s’opposer à la cotisation sous‑jacente ou d’en interjeter appel est préjudiciable à un administrateur. Ce n’est pas nécessairement parce que, comme l’intimée l’a prétendu, l’administrateur à l’égard duquel une cotisation a été établie en vertu de l’article 227.1 aurait pu faire en sorte que la société s’oppose à la cotisation ou en fasse appel. La somme que la société peut récupérer, dans le cas où son appel serait accueilli, peut ne pas suffire à empêcher qu’elle devienne insolvable ou fasse faillite, et les administrateurs ont décidé qu’il ne valait pas la peine de continuer de jeter l’argent par les fenêtres. Il se peut aussi que l’administrateur qui a fait l’objet d’une cotisation en application de l’article 227.1 ait voulu s’y opposer, mais qu’il ait été mis en minorité par les autres administrateurs. Ou alors, il se peut que les livres de comptes et les dossiers de la société se soient trouvés dans un tel état de désordre à l’époque où la cotisation dont la société a fait l’objet a été établie qu’il aurait été inutile de s’y opposer ou d’en faire appel. Par contre, plus tard, quand l’administrateur a fait l’objet d’une cotisation en application de l’article 227.1, il se peut que lui ou quelqu’un d’autre ait remis les livres et les dossiers en ordre, de sorte qu’il était au moins défendable d’alléguer que la cotisation sous‑jacente était erronée. Je suis certain qu’il existe d’autres cas de figure.
+[28] Je souscris à la conclusion de l’ancien juge en chef Bowman dans la décision Scavuzzo[9] :
+Selon moi, le raisonnement qui a été fait dans l’arrêt Gaucher ne peut pas donner lieu à une distinction dans le cas de la responsabilité de l’administrateur. Selon le principe établi dans l’arrêt Gaucher, une personne qui n’est pas partie à une cotisation et qui a fait l’objet d’une cotisation dérivée n’est pas liée par l’omission du débiteur obligataire principal de contester la cotisation dont celui‑ci a fait l’objet. Ce principe est conforme au bon sens et à l’équité ordinaire. Je ne crois pas que la règle salutaire qui a été énoncée dans l’arrêt Gaucher doive être érodée ou amenuisée par des distinctions viciées. En appliquant au principe énoncé dans l’arrêt Gaucher l’exigence voulant que chaque fois nous nous demandions pourquoi la cotisation primaire n’a pas été contestée, ou si les administrateurs qui ont fait l’objet de cotisations dérivées auraient dû ou auraient pu amener le contribuable primaire à contester la cotisation dont il avait fait l’objet, on diluerait le principe, de façon qu’il n’aurait plus aucun sens et qu’il ne pourrait pas s’appliquer. Une fois que nous éliminons la distinction fallacieuse qui a été faite dans les décisions Schuster et Maillé entre les affaires de responsabilité des administrateurs et les affaires de transfert de biens, il nous reste la pleine force de l’arrêt Gaucher, qui s’applique à toutes les affaires de cotisations dérivées.
+[29] L’administrateur à l’égard duquel la cotisation a été établie a la possibilité de contester le fait qu’il était exigé de la société qu’elle déduise, retienne, verse ou paie le montant en cause. Si l’intention du législateur, à l’article 227.1, était d’interdire à l’administrateur de contester la cotisation, la disposition ferait référence à la somme calculée dans la cotisation plutôt qu’au fait que la société a « omis de déduire ou de retenir une somme, tel que prévu […] [à l’]article 153 […], a omis de verser cette somme […] d’impôt […] », étant donné qu’une cotisation en vertu de l’article 227.1 ne peut être établie qu’après la cotisation sous-jacente. En fait, en demandant à poser des questions et à voir des documents ayant trait aux cotisations sous‑jacentes, M. Barry vise essentiellement à prouver que la « somme, tel que prévu » n’est pas la somme que les sociétés ont omis de déduire ou de retenir. Nonobstant les arguments de l’intimée, toute intention du législateur de refuser à un contribuable le droit de contester une cotisation doit être claire et non équivoque.
+[30] L’appelant a le droit de contester l’exactitude des cotisations sous‑jacentes établies à l’égard de Prefco et de PCG. Par conséquent, lors de l’interrogatoire préalable du représentant de l’intimée, l’appelant pourra poser des questions et recevoir des documents ayant trait aux cotisations sous‑jacentes.
+[31] Les questions auxquelles le représentant de l’intimée a refusé de répondre et les documents que l’intimée a refusé de produire lors de l’interrogatoire préalable, lesquels font l’objet de la présente requête, sont les suivants :
+7/19
+Répondre aux questions relatives au document n° 16 de la liste de documents de l’intimée.
+7/27
+Produire les formulaires T4 Sommaires pour 2001, 2002, 2003 et 2004, et ce, pour les sociétés Prefco Enterprises Inc., Preferred Restoration and Emergency Services Inc., PCG Preferred Construction Group, Coast Flashing and Scaffolding Ltd., Paramount Homes 2002 Ltd. et Wellington Homes Inc.
+8/24
+Répondre aux questions relatives aux employés visés par le document n° 16 de la liste de documents de l’intimée.
+9/2
+Produire les feuillets T4 de certains employés visés par le document n° 16 de la liste de documents de l’intimée.
+9/7
+Répondre aux questions relatives aux chèques annulés de la RBC visés par le document n° 16 de la liste de documents de l’intimée.
+9/12
+Répondre aux questions relatives aux documents de base ayant servi à l’établissement du document n° 16 de la liste de documents de l’intimée.
+9/12
+Répondre aux questions relatives aux fonds de l’actif de la société en faillite que le ministre du Revenu national a reçus et à celles relatives aux comptes de taxes de ladite société auxquels ces fonds étaient destinés.
+14/20
+Produire le dossier des feuilles de travail de Rusty Cale (l’examinateur des comptes en fiducie) portant sur l’examen de Prefco Enterprises Inc., y compris le rapport de vérification T20 et les registres T2020
+15/12
+Produire les déclarations de revenu des sociétés T2 pour Prefco Enterprises Inc., PCG Construction Group Inc., Preferred Restoration and Emergency Services Inc., Coast Flashing & Scaffolding Ltd., Paramount Homes 2002 Ltd. et Wellington Homes Inc. pour les années d’imposition 2002 à 2005.
+[32] L’avocate de l’intimée a déclaré que chaque question précise posée par l’avocat de l’appelant devrait être examinée sur le fond compte tenu des principes applicables aux interrogatoires préalables. Elle est toutefois d’avis que [traduction] « l’appelant n’a pas donné de précisions quant au contenu de ces questions » et, par conséquent, que l’intimée [traduction] « ne peut affirmer qu’elle autorisera une question précise ou qu’elle s’y opposera ».
+[33] M. Barry a déposé un affidavit à l’appui de la présente requête. La pièce « D » de son affidavit est une transcription de l’interrogatoire préalable de Scott Cameron. L’avocate de l’intimée affirme à juste titre que l’appelant n’y pose pas de questions précises. Par exemple, à la page 7 de la transcription, aux lignes 19 à 23, on peut lire :
+[traduction]
+Q. : Bien, j’imagine que vous avez indiqué que… ou que votre avocate a indiqué qu’elle n’allait pas autoriser les questions relatives au document n° 16 de l’intimée…
+ME SCALUTI (pour l’intimée) : C’est exact.
+ME BROWN (pour l’appelant) : […] C’est exact? Ces questions feront donc l’objet d’une requête, c’est un juge qui tranchera la question.
+ME SCALUTI : Absolument.
+Aux lignes 24 à 27 de la page 8 et à la ligne 1 de la page 9, on peut lire :
+[traduction]
+ME BROWN : J’allais demander… Ce, le document n° 16, contient une liste d’employés, et j’allais poser des questions à ce sujet, mais je les mettrai de côté en attendant que la requête soit entendue.
+ME SCALUTI : Certainement.
+Aux lignes 7 à 21 de la page 9 de la transcription, on peut lire :
+[traduction]
+ME BROWN : J’allais aussi poser quelques questions au sujet de la liste de chèques annulés de la RBC qui figure dans le document n° 16. Je les mettrai de côté en attendant que notre requête soit entendue.
+ME SCALUTI : Très bien.
+ME BROWN : J’allais également poser des questions relatives aux documents de base ayant servi de fondement à la requête du fiduciaire.
+J’allais aussi poser des questions au sujet des fonds de l’actif de la société en faillite que le ministre du Revenu national a reçus et des comptes de taxes de ladite société auxquels ces fonds étaient destinés. J’imagine que vous avez des objections à cet égard?
+ME SCALUTI : Oui.
+[34] L’appelant n’a posé aucune question précise sur laquelle je peux me prononcer. Il a donné une description générale du sujet sur lequel porteront les questions que son avocat souhaite poser au représentant de l’intimée.
+[35] J’autorise l’avocat de l’appelant à poser des questions précises relativement au sujet visé, sous réserve du droit de l’intimée de s’y opposer pour les raisons consacrées. L’appelant disposera de 20 jours à compter de la date de l’ordonnance pour faire savoir par écrit à l’avocate de l’intimée si l’interrogatoire préalable de M. Cameron se déroulera oralement ou au moyen de questions et réponses écrites.
+[36] En ce qui concerne la production des documents en cause, la Cour ordonne à l’intimée de produire les documents énumérés au tableau qui se trouve au paragraphe 31 des présents motifs.
+[37] L’ordonnance précédente, faisant état des différentes étapes menant à l’audition de l’appel, est ainsi modifiée :
+Toute liste de documents modifiée devra être communiquée d’ici
+le 15 décembre 2009
+L’interrogatoire préalable devra être terminé d’ici
+le 1er mars 2010
+Les engagements pris devront être exécutés d’ici
+le 15 avril 2010
+Les parties devront communiquer avec le coordonnateur des audiences, par écrit, pour faire savoir à la Cour si l’affaire sera réglée, etc. d’ici
+le 30 mai 2010
+[38] Les dépens suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2009.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 5e jour de novembre 2009.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2009 CCI 508
+NO DU DOSSIER DE LA COUR : 2007-1889(IT)G
+INTITULÉ : Wayne Barry et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 13 août 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge en chef Gerald J. Rip
+DATE DE L’ORDONNANCE : Le 14 octobre 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Chad J. Brown
+Avocate de l’intimée :
+Me Elena Sacluti
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Chad J. Brown
+Cabinet : Felesky Flynn LLP
+Edmonton (Alberta)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] La jurisprudence est partagée sur la question. Parmi les décisions refusant à l’administrateur le droit de contester les cotisations sous‑jacentes : Schafer c. Canada, [1998] A.C.I. n° 32 (QL), Schuster c. Canada, [2001] A.C.I. n° 453 (QL) et Maillé c. Canada, [2003] A.C.I. n° 333, Garland c. Canada, [2004] A.C.I. n° 368 (QL). Parmi les décisions autorisant l’administrateur à contester les cotisations sous‑jacentes : Elias c. Canada, [2002] A.C.I. n° 8 (QL), Scavuzzo c. Canada, [2005] A.C.I. n° 620 (QL), La Buick c. Canada, [2007] A.C.I. n° 281 (QL), Lau c. Canada, [2007] A.C.I. n° 512 (QL), Abrametz c. Canada, [2007] A.C.I. n° 202 (QL), Brace c. Canada, [2008] A.C.I. n° 82 (QL).
+[2] 2000 D.T.C. 6678.
+[3] Ibid, aux paragraphes 8 et 9.
+[4] Par exemple, le paragraphe 127(1) et l’article 173 de la Loi canadienne sur les sociétés par actions, L.R.C. (1985), ch. C‑44 (la « LCSA »), les articles 118 et 119 de la LCSA et de la Business Corporation Act de l’Alberta, R.S.A. 2000, ch. B‑9, ainsi que les articles 130 et 131 de la Loi sur les Sociétés par actions de l’Ontario, L.R.O. 1990, ch. B.16.
+[5] [2005] 2 R.C.S. 601; Hypothèques Trustco Canada (« HTC ») a instauré un mécanisme en vertu duquel elle achetait des remorques qu’elle louait ensuite au vendeur afin de demander des déductions pour amortissement. La Cour suprême du Canada a été saisie de la question de savoir s’il y avait eu évitement fiscal abusif visé par le paragraphe 245(4) de la Loi. La juge en chef McLachlin et le juge Major ont prononcé les motifs du jugement, cherchant d’abord à effectuer une analyse textuelle, contextuelle et téléologique unifiée afin de définir l’intention du législateur. La Cour suprême du Canada a ensuite cherché à analyser le contexte factuel afin de voir si le mécanisme mis en place par HTC allait à l’encontre de l’objet et de l’esprit de l’article 245 et des dispositions relatives aux déductions pour amortissement. La Cour suprême du Canada a confirmé la décision de la Cour canadienne de l’impôt, concluant que les opérations de cession‑bail ne minaient pas l’esprit ou l’objet des dispositions de la Loi relatives aux déductions pour amortissement.
+[6] Ibid, au paragraphe 10.
+[7] Ibid, au paragraphe 10 : « Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. »
+[8] [2002] 2 S.C.R. 559, au paragraphe 30. Le juge Bowie s’est également appuyé sur ce passage pour parvenir à sa conclusion dans la décision Zaborniak c. Canada, [2004] A.C.I. n° 412 (QL), au paragraphe 7, voir ci‑dessous.
+[9] Au paragraphe 14 (voir la note 1).

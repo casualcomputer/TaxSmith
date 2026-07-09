@@ -1,0 +1,134 @@
+Title: Pearce v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26147/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-599-26147-pearce-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-09-10
+
+# Pearce v. The Queen
+
+- Citation: 2004 CCI 599
+- Decision date: 2004-09-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4142, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pearce v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-10
+Référence neutre
+2004 CCI 599
+Numéro de dossier
+2004-992(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-992(IT)I
+ENTRE :
+JENNIFER AILEEN PEARCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 août 2004 à Toronto (Ontario)
+Devant : L'honorable L. M. Little
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année de base 1999 est rejeté sans dépens, selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour de septembre 2004.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 17e jour de février 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI599
+Date : 20040910
+Dossier : 2004-992(IT)I
+ENTRE :
+JENNIFER AILEEN PEARCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L'appelante est mariée, et elle et son mari ont deux enfants.
+[2] L'appelante a indiqué dans sa déclaration de revenus pour l'année d'imposition 1999 qu'elle était mariée et qu'elle avait un enfant.
+[3] Le ministre du Revenu national (le « ministre » ) a établi un avis de détermination le 20 juin 2001. L'avis indiquait que la Prestation fiscale canadienne pour enfants (la « PFCE » ) avait été calculée en fonction du fait que l'appelante était célibataire.
+[4] L'avis de détermination contenait également la mention suivante :
+[TRADUCTION] Veuillez vérifier les renseignements et nous aviser s'ils sont erronés.
+[5] L'appelante a reçu, pour l'année de base 1999, une PFCE dont le montant a été établi en fonction du fait qu'elle était une mère célibataire et que son seul revenu pour la période de base était son revenu personnel pour cette période.
+[6] L'appelante a reçu une PFCE d'un montant de 1 916,67 $ pour l'année de base 1999.
+[7] Par un avis de détermination établi le 18 juillet 2003, le ministre a réévalué le droit de l'appelante à une PFCE pour l'année de base 1999. L'avis de détermination était fondé sur le fait que l'appelante était mariée à l'époque, qu'elle avait un enfant et que le revenu familial pour la période de base était de 63 196,00 $. L'avis indiquait également que l'appelante avait reçu un paiement en trop de 1 505,67 $ au titre de la PFCE pour l'année de base 1999.
+B. QUESTIONS EN LITIGE
+[8] La Cour doit décider :
+a) si le ministre a réévalué correctement le droit de l'appelante à la PFCE pour l'année de base 1999;
+b) le cas échéant, si l'appelante est tenue de rembourser la somme qu'elle a reçue en trop au titre de la PFCE.
+C. ANALYSE
+[9] L'appelante a fait les commentaires suivants dans l'avis d'appel :
+[TRADUCTION]
+1. La PFCE a été calculée sur la base du revenu de parents célibataires fourni par l'ADRC, laquelle a ainsi clairement commis une erreur puisque toutes mes déclarations de revenus et mes demandes indiquent que je suis mariée.
+2. À cause de cette erreur de l'ADRC, je dois en outre une somme de 1 206,00 $ à DRHC. DRHC m'a mise dans une catégorie salariale plus élevée parce que l'ADRC a commis une erreur au sujet de mon état civil.
+3. Il est injuste de me demander un remboursement parce que toutes les sommes d'argent que j'ai reçues ont servi à subvenir aux besoins de mon fils Spencer.
+[10] Dans Dionne c. Canada, [2002] A.C.I. no 128, le juge Tardif de la Cour canadienne de l'impôt était saisi d'une affaire dont les faits étaient quasiment identiques. Dans cette affaire, le ministre avait conclu que la PFCE avait été calculée en tenant compte du seul revenu de Mme Dionne, même si celle-ci avait correctement indiqué son état civil dans sa déclaration de revenus. Il avait établi des avis de nouvelle détermination de la PFCE pour les années de base 1997 et 1998 et avait réclamé un remboursement de 1 536,25 $ et de 2 232,00 $ pour les années de base 1997 et 1998 respectivement. Mme Dionne soutenait qu'elle avait toujours bien agi, qu'elle avait toujours été de bonne foi et qu'elle n'avait strictement rien caché ou omis dans ses déclarations pour les années en cause. Elle concluait de ces faits qu'elle n'avait pas à être pénalisée ou à subir les conséquences d'une erreur administrative à laquelle elle n'avait aucunement contribué. Tout en reconnaissant l'erreur administrative, le ministre s'est appuyé sur le paragraphe 152(4) de la Loi de l'impôt sur le revenu (la « Loi » ), qui se lit comme suit :
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenus pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+[...]
+[11] Après avoir passé les faits en revue dans Dionne, le juge Tardif a dit :
+15 Tout d'abord, il y a lieu d'établir que l'appelante n'est aucunement pénalisée, contrairement à ses prétentions. Les avis de nouvelles déterminations de la prestation fiscale pour enfants ne la pénalisent en aucune façon ni ne la privent de quoi que ce soit. Ils ne font que rétablir, conformément à la Loi de l'impôt sur le revenu (la « Loi » ), le montant véritablement dû à cette dernière après avoir pris en considération tous les éléments prescrits par la Loi.
+16 La réclamation a, certes, généré des ennuis et des inconvénients. Il est malheureux que l'appelante ait à subir de tels inconvénients des suites d'une erreur administrative. Cependant, cela n'est pas suffisant pour annuler la réclamation ou faire droit à l'appel. D'ailleurs, l'erreur lui a quelque peu profité puisqu'elle a bénéficié des montants non réclamés à cause de la prescription.
+17 L'appel de l'appelante a comme seul fondement, l'équité. Or, la Cour canadienne de l'impôt n'a pas l'autorité pour disposer d'un appel sur cette base. Sa compétence est essentiellement de décider si les avis de nouvelles déterminations sont conformes aux dispositions pertinentes de la Loi. [...]
+18 En l'espèce, l'appelante voudrait voir son appel accueilli pour le seul motif qu'elle a été étrangère à l'erreur qui fut commise et qui lui a causé beaucoup d'inconvénients. Il n'y a pas de doute que l'appelante a subi un certain préjudice, mais là n'est pas la question. Les seules questions auxquelles je peux et je dois répondre, sont les suivantes : les avis de nouvelles déterminations ont-ils été correctement établis en vertu des dispositions applicables de la Loi? Ont-ils été calculés correctement et dans les délais prescrits? La réponse étant affirmative, je me dois simplement de rejeter l'appel.
+[12] Je souscris à la conclusion à laquelle est arrivé le juge Tardif dans Dionne. J'ai conclu que le ministre a eu raison d'établir un avis de nouvelle détermination indiquant que l'appelante a reçu un paiement en trop de 1 505,67 $ au titre de la PFCE pour l'année de base 1999.
+[13] J'ai également conclu que l'appelante est tenue de rembourser la somme de 1 505,67 $ qu'elle a reçue en trop au titre de la PFCE.
+[14] L'appel est rejeté sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour de septembre 2004.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 17e jour de février 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI599
+NUMÉRO DU DOSSIER
+DE LA COUR :
+2004-992(IT)I
+INTITULÉ :
+Jennifer Aileen Pearce et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 13 août 2004
+MOTIFS DU JUGEMENT :
+L'honorable L. M. Little
+DATE DU JUGEMENT :
+Le 10 septembre 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

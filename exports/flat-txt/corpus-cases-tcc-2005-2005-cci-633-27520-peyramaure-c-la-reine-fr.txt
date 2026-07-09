@@ -1,0 +1,110 @@
+Title: Peyramaure c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27520/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-633-27520-peyramaure-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-09-29
+
+# Peyramaure c. La Reine
+
+- Citation: 2005 CCI 633
+- Decision date: 2005-09-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 15, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peyramaure c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-29
+Référence neutre
+2005 CCI 633
+Numéro de dossier
+2005-1509(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1509(IT)I
+ENTRE :
+GABRIEL PEYRAMAURE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 15 septembre 2005, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Yanick Houle
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI633
+Date : 20050929
+Dossier : 2005-1509(IT)I
+ENTRE :
+GABRIEL PEYRAMAURE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une cotisation en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 2003.
+[2] Pour justifier et soutenir la cotisation, le ministre du Revenu national (le « ministre » ) s'est fondé sur les hypothèses de fait suivantes :
+a) l'appelant, le 23 mai 1997, s'est engagé auprès du ministère des Relations avec les citoyens et l'Immigration de la province de Québec à titre de garant pendant dix ans en faveur d'un ressortissant étranger du nom de madame Endeng Embolo;
+b) le contrat d'engagement comportait de sérieuses obligations pour l'appelant, entre autres :
+i) rembourser le gouvernement du Québec de toute somme que celui-ci versera, à titre de prestations spéciales ou d'aide de dernier recours, conformément à la Loi sur la sécurité de revenu, à la personne en faveur de laquelle l'engagement est souscrit et pendant la durée de celui-ci,
+ii) rembourser le gouvernement de toute province du Canada du montant des prestations spéciales, des prestations d'aide de dernier recours ou autre prestation de même nature qu'il accorderait à la personne en faveur de laquelle l'engagement est souscrit et pendant la durée de celui-ci;
+c) selon un relevé de compte daté du 9 mars 2002, l'appelant était endetté d'une somme de 10 392 $ auprès du ministère de la Solidarité sociale;
+d) un règlement fut négocié en 2003 auprès du ministère de la Solidarité sociale et le Centre des garants défaillants pour une somme de 7 000 $;
+e) l'appelant a réclamé la dite somme de 7 000 $, dans le calcul de son revenu pour l'année d'imposition en litige, au titre de pension alimentaire;
+f) l'appelant n'a jamais indiqué sur aucune de ses déclarations de revenus de 1997 à 2003 que madame Endeng Embolo a été son épouse ou conjointe de fait, son ex-épouse ou ex-conjointe de fait;
+g) madame Endeng Embolo n'a jamais indiqué sur aucune de ses déclarations de revenus de 1999 à 2003 que l'appelant a été son époux ou conjoint de fait, son ex-époux ou ex-conjoint de fait;
+h) aucune ordonnance d'un tribunal compétent ou un accord écrit, à l'égard d'une pension alimentaire payable à madame Endeng Embolo par l'appelant, n'a été soumis.
+[3] L'appelant a admis toutes les hypothèses, à l'exception de l'alinéa 6 g), au sujet duquel il n'avait aucune connaissance et l'alinéa 6 h), qu'il a nié
+[4] La question en litige consiste à déterminer, à l'égard de l'année d'imposition 2003, si la déduction de 7 000 $ réclamée par l'appelant pouvait être faite, dans le calcul de son revenu, à titre de pension alimentaire ou autre allocation payable périodiquement.
+[5] Après avoir été assermenté, l'appelant a expliqué qu'il avait signé un contrat en vertu duquel il s'engageait à rembourser toutes les dépenses encourues par la venue au Canada d'une personne nommée Endeng Embolo. Le tout est décrit plus en détail dans ladite convention, produite par l'intimée (pièce I-1, onglet 1).
+[6] L'appelant a expliqué que madame Embolo avait habité avec lui durant une courte période d'environ deux mois et demi, après quoi elle a quitté son domicile. À la suite de son départ, elle a fait une demande de soutien financier auprès des autorités compétentes.
+[7] S'appuyant sur la convention dont il est question au paragraphe 5, la province de Québec a réclamé de l'appelant la somme de 10 392 $ en remboursement des montants versés à madame Embolo.
+[8] À la suite des négociations, l'appelant a convenu d'une transaction selon laquelle il a remboursé à la province la somme de 7 000 $ en règlement de la créance de 10 392 $; il voudrait voir déduire ce montant de 7 000 $ de son revenu pour l'année d'imposition 2003.
+[9] Lors de son témoignage, l'appelant a expliqué que madame Embolo avait intenté des procédures judiciaires dans le but d'obtenir une pension alimentaire; l'honorable Guy Julien de la Cour supérieure lui avait refusé cette pension étant donné les circonstances, notamment le fait que la cohabitation n'avait duré qu'un peu plus de deux mois.
+[10] Le montant que l'appelant a versé l'a été à la suite du règlement d'une créance découlant de la convention (pièce I-1, onglet 1) en vertu de laquelle il s'engageait à rembourser les dépenses prévues aux paragraphes 3 et 4, qui se lisent comme suit :
+3. Je m'engage de plus à rembourser le Gouvernement du Québec de toute somme que celui-ci versera, à titre de prestations spéciales ou d'aide de dernier recours, conformément à la Loi sur la sécurité du revenu (L.R.Q., c. S-3.1.1), à la personne en faveur de laquelle l'engagement est souscrit et pendant la durée de celui-ci.
+4 En outre, je m'engage à rembourser le gouvernement de toute province du Canada du montant des prestations spéciales, des prestations d'aide de dernier recours ou autres prestations de même nature qu'il accorderait à la personne en faveur de laquelle l'engagement est souscrit et pendant la durée de celui-ci.
+[11] Selon l'appelant, le montant de 7 000 $ qu'il a déboursé satisfait à la définition de pension alimentaire en ce que le montant que la province a versé à madame Embolo était, de toute évidence, pour ses besoins alimentaires de logement et d'habillement.
+[12] À cet égard, l'appelant n'a possiblement pas tort, mais il n'en demeure pas moins que le montant qu'il a payé ne l'a pas été à titre de pension alimentaire, mais en règlement d'une convention qui n'a strictement rien à voir avec une véritable pension alimentaire. De plus, pour qu'un montant versé à titre de pension alimentaire puisse être déductible, il est essentiel que le ou la bénéficiaire puisse avoir la liberté de l'utiliser à sa guise ce qui n'est pas le cas en l'espèce.
+[13] L'appelant ne pouvait donc pas déduire ce montant de ses revenus pour l'année d'imposition 2003, étant donné qu'il ne s'agissait pas d'une véritable pension alimentaire.
+[14] L'appel est donc rejeté.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2005CCI633
+N º DU DOSSIER DE LA COUR : 2005-1509(IT)I
+INTITULÉ DE LA CAUSE : Gabriel Peyramaure c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 15 septembre 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 29 septembre 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui même
+Avocat de l'intimée :
+Me Yanick Houle
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

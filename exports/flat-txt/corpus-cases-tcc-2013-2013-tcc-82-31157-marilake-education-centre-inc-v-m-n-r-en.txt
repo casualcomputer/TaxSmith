@@ -1,0 +1,188 @@
+Title: Marilake Education Centre Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31157/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-82-31157-marilake-education-centre-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2013-04-30
+
+# Marilake Education Centre Inc. v. M.N.R.
+
+- Citation: 2013 TCC 82
+- Decision date: 2013-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4746, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marilake Education Centre Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-04-30
+Neutral citation
+2013 TCC 82
+File numbers
+2012-1756(EI), 2012-1757(CPP)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-1756(EI)
+BETWEEN:
+MARILAKE EDUCATION CENTRE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CARRIE LAI,
+Intervener.
+____________________________________________________________________
+Appeal heard on February 14, 2013, at Toronto, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Christopher P. Goldson
+Counsel for the Respondent:
+For the Intervener:
+Jasmeen Mann
+The Intervener herself
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination made under the Employment Insurance Act is dismissed in accordance with the attached Reasons for Judgment.
+Signed this 30th day of April 2013.
+"François Angers"
+Angers J.
+Docket: 2012-1757(CPP)
+BETWEEN:
+MARILAKE EDUCATION CENTRE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CARRIE LAI,
+Intervener.
+____________________________________________________________________
+Appeal heard on February 14, 2013, at Toronto, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Christopher P. Goldson
+Counsel for the Respondent:
+For the Intervener:
+Jasmeen Mann
+The Intervener herself
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination made under the Canada Pension Plan is dismissed in accordance with the attached Reasons for Judgment.
+Signed this 30th day of April 2013.
+"François Angers"
+Angers J.
+Citation: 2013 TCC 82
+Date: 20130430
+Dockets: 2012-1756(EI),
+2012-1757(CPP)
+BETWEEN:
+MARILAKE EDUCATION CENTRE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CARRIE LAI,
+Intervener.
+REASONS FOR JUDGMENT
+Angers J.
+[1] These are appeals under the Employment Insurance Act (the Act) and the Canada Pension Plan (the Plan). The same issue arises in each appeal. In a decision issued on February 14, 2012, the Minister of National Revenue (the Minister) determined that Carrie Lai (the intervener) was employed in insurable and pensionable employment within the meaning of paragraph 5(1)(a) of the Act and paragraph 6(1)(a) of the Plan while working for Marilake Education Centre Inc. (the appellant) during the period from January 1 to June 26, 2010 (the period). The appellant disagreed with those determinations, hence these appeals.
+[2] The appellant has been in the business of providing supplementary instruction to schoolchildren in a classroom setting every Saturday during the school year since 2005. The supplementary instruction is in accordance with the Province of Ontario curriculum guidelines for pupils in junior kindergarten to Grade 12. In order to provide the service, the appellant rents classroom space and facilities at two school locations in Toronto. The appellant hires instructors in various subjects (art, language, math and science) to provide its services. In the 2009–2010 school year, the appellant had approximately 75 tutors.
+[3] The appellant's business is owned by one Kwan Chi Chow. She is also the principal. She is responsible for obtaining the proper permits and for renting the facilities. Enrolment is based on requests, and tutors are hired accordingly. The appellant will not offer a class if there are less than four pupils for that class. It is the principal who determines the fees the parents are charged. Ms. Chow testified that she is not qualified to supervise the tutors as she does not have sufficient education and that the tutors manage their classes themselves.
+[4] Tutors are hired on a yearly basis. They are paid between 19 and 52 dollars per hour depending on their qualifications and experience. Payment is made by cheque or by direct deposit through a payroll company and there are no deductions. This is the case for all the tutors. They are paid only for the hours worked.
+[5] At the beginning of each school year, i.e., September, Ms. Chow meets a group of potential tutors. Those who are interested sign a contract with the appellant, which Ms. Chow explains page by page. She explains how they will get paid, that there will be no payroll deductions and that they are to be independent contractors.
+[6] The intervener met Ms. Chow on August 21, 2009. She was shown the contract (Exhibit A-2, Tab 6), glanced over it, and signed it that same day. She was later told she could not get a copy as it had been destroyed. Ms. Chow signed the contract on behalf of the appellant on September 12, 2009. It is important to note that the top line on each of the contract's first three pages was changed by hand to read "Acknowledgment of Contract for Service Provision", but the last page was not changed and the first line still reads "Acknowledgment of Contract of Service Provision". Ms. Chow did acknowledge that she changed the first page after it was signed. It is also interesting to note that, according to Ms. Chow, the contract was drafted by one of the teachers (tutors) and that she did not approve it. I will deal later with other issues regarding the contract entered into with the intervener. As for the intervener, she thought she had been hired as an employee. She wanted to be an employee as she was not operating a tutoring business of her own.
+[7] According to Ms. Chow, the tutors had to have someone readily available to replace them if they themselves were not available, and the tutors paid the substitutes. Some of the tutors would submit an invoice for their time worked and others would simply phone in their hours. The tutors would decide the number of classes they wanted and what syllabus or lesson plan they would follow. It was suggested that a tutor give the appellant at least two weeks' notice if the tutor needed time off and that the tutor submit an application for leave form. Ms. Chow denied that a tutor was only allowed to be absent for three classes during the school year, as there was a lot of absenteeism. She also denied that a tutor could be penalized by a reduction in pay if the tutor did not abide by the appellant's rules.
+[8] The fees charged to parents are determined by the appellant. Although the appellant rents the facilities, it is not responsible for any damage. If damage occurs, the tutors are responsible. The appellant has no input into what goes on in the classrooms or how the tutors teach or their methods, nor does the appellant monitor the tutors. Ms. Chow said that the appellant provides no tools and trusts the tutors to follow the Ontario guidelines.
+[9] Although she testified that she did not approve the contract that was drafted by one of the tutors, it was nevertheless signed by the appellant and used to hire tutors, including the intervener. The duties and responsibilities of a tutor (teacher) are set out in paragraph 3 of the contract as follows:
+3. Duties and Responsibilities
+The Teacher agrees to the Teachers' Rules and responsibilities, herein attached and referred to as "Schedule B". The Teacher shall perform in the capacity of a classroom teacher, and thus will be responsible for managing and administering each class of his or hers. This includes, but is not limited to, the performance of the following duties:
+a) teaching and providing instruction and discussion on topics as outlined and scheduled in the approved subject and level syllabi, as compiled in co-operation with involved and corresponding Teachers and the School
+b) distributing letters, notices, and handouts from the Office to the students and collecting items from the students for the Office
+c) at all times while at the School's locations, both inside and outside of the classroom, performing his or her teaching duties punctually and professionally, with professional attire and behaviour becoming of a school teacher, with good intentions, and in the best interests of Marilake School's students
+d) creating and maintaining class lists to record his or her students' information, attendance, homework completion and results, test and exam results; and filling out report cards for the end of the School year
+e) calling students in the event of their absences, logging, and informing the office of the reasons for absences by sending e-mail, or leaving a telephone message, or by sending a fax, no later than the immediate Tuesday
+f) preparing, before the school years, all test / exam papers and weekly homework sheet packages to be assigned to the students (6 pgs.)
+g) reviewing the homework package before photocopying
+h) marking and returning marked homework promptly the following class
+i) working in co-operation with other Teachers to share evenly in the responsibilities of creating and preparing course syllabi, homework sheets, answer sheets, test and exam notices, tests, and exams; and preparing these materials in advance of the earliest date on which they are needed for editing and approval by the School office, and submitting these to the office so that other teachers may use them
+j) participating occasionally in the shared responsibilities of "teacher-on-duty" around the School location property at which the Teacher teaches.
+[10] On cross-examination, Ms. Chow said that paragraph 3 a) was incorrect. As for paragraph 3 c), she testified that it did not reflect what actually happened but agreed that 3 f) was correct. It is important to reproduce as well paragraph 4 of the contract as it contradicts many aspects of Ms. Chow's evidence:
+4. Absences and Requests for a Supply Teacher
+a) Teachers who are unavoidably absent due to an illness, injury, medical emergency, or family emergency must have the School notified by way of discussion with a School office staff member as soon as possible. It is the responsibility of the Teacher who is absent, due to the above mentioned circumstances, to ensure the necessary materials and instructions are available for the substituting Supply Teacher(s).
+b) The Teacher agrees to the following regulations concerning each absence arising from circumstances not covered in 4 a):
+i) the Teacher must complete and submit an "Application for Leave", at the School office, no later than two (2) Saturdays prior to the date of necessary absence, and follow up to confirm with the Office
+ii) The Teacher must follow and complete instructions as outlined on the "Application for leave"
+iii) the maximum number of Saturdays on which the Teacher may be absent for part or all of his or her classes is three (3)
+iv) the Teacher must be present to teach his or her classes for the last two operating Saturdays of the School year of his or her School location
+c) Upon the Teacher's failure to abide by Section 4 b) and/or acts of blatant disregard for the stipulations set out in 4 b), the School reserves the right to, at its discretion and upon each incident, deduct from the Teacher's remuneration, for the month in which the infractions of Section 4 b) occurred, the total of one hour's pay, whatever the rate is at the time of the infraction, as compensation to the School office for inconveniences caused by absences.
+[11] Paragraph 5 of the contract stipulates that the tutors are to accept remuneration for their services as self-employed individuals. It also states that the appellant reserves the right to unilaterally increase the hourly rate of remuneration or offer a tutor more classes, and that if the tutor does not abide by the regulations or does not adequately perform his or her duties, the appellant reserves the right to reduce the tutor's number of classes and/or his or her hourly rate of remuneration.
+[12] Paragraph 6 c) of the contract is also of some importance in terms of the materials used in the classroom. It reads as follows:
+c) The Teacher hereby acknowledges that any course related or School administrative materials mentioned or referred to herein this contract, are private property of the School, and thus will, upon completion of the contract, or in the event that the contract is prematurely terminated for whatever reason, surrender to the School all copies of the School and class materials, including, but not limited to, teaching resources and materials, including those developed by the Teacher during the course of his or her fulfilment of duties and responsibilities at the School; students' work, tests, and exams; students' and parents' information and information lists, classroom materials, administrative forms and papers, and records.
+[13] Attached to the contract is a schedule outlining the tutors' responsibilities. Ms. Chow testified that not only was the contract not enforced but neither was any part of that schedule. The schedule required the tutors to prepare a suitable and well-organized syllabus and submit it to Ms. Chow. The tutors had to prepare assignments, teaching material and test and exam papers, the workload in that regard being shared among all the teachers. Minutes of their meetings had to be submitted to Ms. Chow, and test and exam papers with answer keys were to be sent to the office, as were the daily lesson plans. The schedule set out requirements as to what the tutors were to do or not to do during classes and as to how to mark homework, and all marked homework had to be shown to the appellant's office staff. The tutors had to arrive 15 minutes before the beginning of their classes and sign in every day. The schedule also dealt with classroom duties, homework, exams, student discipline, and how to speak with parents.
+[14] The intervener also received during her period of employment a series of e-mails sent to her by the appellant. Ms. Chow testified that she did not know about these e-mails, but quite a few of these were put in evidence and are found in Exhibits R-2 to R-5. They include requests made by the appellant to the tutors to submit test notices, test reviews, test drafts, marking schemes and lesson plans, and set deadlines for providing the requested items. One e-mail refers to Ms. Chow having caught a number of teachers who created exams by copying questions from the previous year. There are also e-mails containing instructions to teachers regarding the activities to be carried on in the classroom and outside the classroom, and regarding how to write reports, where to get chalk for the classroom, etc. When questioned on these e-mails, Ms. Chow simply said that they were only suggestions or guidelines. Another e-mail, dated October 27, 2009, from the appellant to the intervener identifies the person who will replace the intervener for her classes on November 14, 2009.
+[15] Two other tutors testified that their services to the appellant were provided as independent contractors. They were not privy to the arrangement between the appellant and the intervener nor did they work with her. They said that they use their own materials such as their laptops and supplies for school experiments. Both tutors testified that they had selected and paid a substitute, but said they had their choice approved by Ms. Chow beforehand. Costs for any copies they made through the appellant were deducted from their pay. One of them testified that, on occasion, he would show his lesson plans to the appellant.
+[16] The intervener testified that she worked from 9 a.m. to 4 p.m. every Saturday during the 2009–2010 school year. She taught three English classes: two at the Grade 2 level and a mixed Grade 1 and Grade 2 class. She had to prepare lesson plans and in fact prepared 32 such plans. It was requested by the appellant that these be handed in for approval. Classwork and homework packages material were prepared by the appellant and the intervener was never charged anything for photocopies. She signed in and out, and when she was late would call the appellant. The appellant decided on the number of pupils in her class and chose the pupils. The intervener would ask the appellant if she wanted a day off and her recollection was that the appellant found and paid her replacement. The appellant also provided to the intervener the materials needed to prepare worksheets and flashcards for her classes and also provided other necessary tools for those classes; the intervener was not charged for any of this. She also followed the instructions contained in the e-mails sent by the appellant.
+[17] The intervener was not registered as a business. She was surprised to receive a T4A and had not thought of asking why no deductions were taken from her pay. She was always under the impression that she was an employee.
+[18] Attached to an affidavit of Ms. Chow that was introduced in evidence as part of the appellant's case is an undated memorandum signed by the intervener wherein she acknowledged that she was working for the appellant as an independent contractor and not an employee. The intervener testified that she was told by the appellant in June 2010 that she was an independent contractor and that she must sign the document. It appears as though she, as well as some of her colleagues, had no choice.
+[19] As has been explained in a number of court decisions (671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87, [2007] 1 F.C.R. 35 and in particular by MacGuigan J.A. in Wiebe Door, supra, it is the trial judge's duty to consider all the evidence carefully and then apply to the facts the four-in-one test that has been developed over the years. This therefore requires the consideration of the facts relating to the right of the employer under the contract to supervise and control the manner in which the work is done, those relating to the ownership of the tools necessary to do the job, those relating to the opportunity for the worker to make a profit or the worker's risk of suffering a loss, and those relating to the degree of integration of the work into the enterprise of the employer from the perspective of the worker. The judge must also answer the following question posed by Justice Cooke in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), at 737:
+Is the person who has engaged himself to perform these services performing them as a person in business on his own account?
+[20] In Sagaz, supra, Justice Major summed the matter up as follows in paragraphs 47 and 48:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[21] In a more recent decision from the Federal Court of Appeal, 1392644 Ontario Inc. o/a Connor Homes and the Minister of National Revenue, 2013 FCA 15, Mr. Justice Mainville has reviewed the many decisions that have been rendered by the courts in the past year particularly in Wolf v. The Queen, 2002 DTC 6853 (FCA) and Royal Winnipeg Ballet v. Canada, 2006 FCA 87 and has concluded that both cases set out a two-step process of inquiry that is used to assist in addressing the central question and what each step consists of. I reproduce below the relevant paragraphs:
+[36] However, properly understood, the approach set out in Royal Winnipeg Ballet simply emphasises [sic] the well-know principle that persons are entitled to organize their affairs and relationships as they best deem fit. The relationship of parties who enter into a contract is generally governed by that contract. Thus the parties may set out in a contract their respective duties and responsibilities, the financial terms of the services provided, and a large variety of other matters governing their relationship. However, the legal effect that results from that relationship, i.e. the legal effect of the contract, as creating an employer-employee or an independent contactor relationship, is not a matter which the parties can simply stipulate in the contract. In other words, it is insufficient to simply state in a contract that the services are provided as an independent contractor to make it so.
+[37] Because the employee-employer relationship has important and far reaching legal and practical ramifications extending to tort law (vicarious liability), to social programs (eligibility and financial contributions thereto), to labour relations (union status) and to taxation (GST registration and status under the Income Tax Act), etc., the determination of whether a particular relationship is one of employee or of independent contractor cannot simply be left to be decided at the sole subjective discretion of the parties. Consequently, the legal status of independent contractor or of employee is not determined solely on the basis of the parties declaration as to their intent. That determination must also be grounded in a verifiable objective reality.
+[. . . ]
+[39] Under the first step, the subjective intent of each party to the relationship must be ascertained. This can be determined either by the written contractual relationship the parties have entered into or by the actual behaviour of each party, such as invoices for services rendered, registration for GST purposes and income tax filings as an independent contractor.
+[40] The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. As noted by Sharlow J.A. in TBT Personnel Services Inc. v. Canada, 2011 FCA 256, 422 N.R. 366 at para. 9, "it is also necessary to consider the Wiebe Door factors to determine whether the facts are consistent with the parties' expressed intention." In other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts. In this second step, the parties intent as well as the terms of the contract may also be taken into account since they colors the relationship. As noted in Royal Winnipeg Ballet at para. 64, the relevant factors must be considered "in the light of" the parties' intent. However, that being stated, the second step is an analysis of the pertinent facts for the purpose of determining whether the test set out in Wiebe Door and Sagaz has been in fact met, i.e whether the legal effect of the relationship the parties have established is one of independent contractor or of employer-employee.
+[41] The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker's activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+[22] The question to be determined here is whether the intervener was engaged to perform her services as an employee or as an independent contractor or, to put it differently, was the intervener engaged as a person in business on her own account?
+[23] The contract signed by the appellant and the intervener appears, at first glance, to indicate that the intervener was in fact hired as an independent contractor. Not only does the contract specifically say so, but the appellant decided to change the words "contract of service" in the heading to "contract for service" after it had been signed by the parties. In addition, the appellant got the intervener to acknowledge her independent contractor status in June 2010 in circumstances I would describe as questionable.
+[24] What is also questionable is the appellant's position with regard to the terms and conditions of the contract. Through Ms. Chow's evidence, it became clear that the appellant considered the contract of little importance. Ms. Chow suggested that it had been drafted by a tutor and that the terms and conditions were only suggestions or guidelines that were not enforced. It is difficult to accept Ms. Chow's assertions as to the weight she gave that contract when her business's reputation and success depended on the quality of the teaching provided.
+[25] The services performed by the intervener were fully integrated into the appellant's business and necessary for the appellant to properly operate a tutoring establishment. There is no doubt here that the intervener represented the appellant while providing her services. That to me was what was intended by the parties when they entered into the agreement regarding the services of the intervener. In certain circumstances, such as in this case, the existence of a clause in a contract that says one is to accept remuneration for one's services as a self-employed individual may not be sufficient to be determinative as to the parties' intention. It is an analysis of all the relevant facts and circumstances, and particularly of the evidence of the parties concerned, that makes it possible to determine what the parties' respective intentions were. Even if the parties' intentions were to enter into a contract for services as opposed to a contract of service, the facts established may lead the court to a different conclusion which is what I find to be the case in this fact situation.
+[26] The business being conducted here is that of the appellant. The appellant had a say in the number of pupils per class and which pupils would attend the intervener's class. The appellant would approve the course syllabus and all lesson plans had to be submitted for approval.
+[27] From the contract, and particularly the duties and responsibilities provisions thereof referred to earlier in these reasons, it is clear that the appellant wanted to ensure that the manner in which the intervener provided her services and performed her work was in accordance with the appellant's instructions, and rightly so, for the appellant's reputation was at stake. There are clauses in the contract that suggest more strongly to a contract of service than a contract for services. To mention only a few: the intervener could be penalized by having her pay reduced if she did not abide by the rules; tests and course material were to be surrendered to the appellant on completion or termination of the contract; and the appellant determined when and where the intervener was to provide her services. The schedule to the contract stated that the intervener had to sign in 15 minutes before her scheduled class. The schedule also contains a considerable number of other instructions to the intervener that are indicative of the degree of control the appellant exercised over the intervener and over the manner in which the work was to be done. Although this is not mentioned in the contract, the appellant found and paid a substitute for the intervener when the need arose. In addition, there are the numerous e-mails sent to the intervener.
+[28] These facts favour the existence of an employer-employee relationship although the appellant's representative tried to minimize the requirements of the contract by stating that it was not enforced or that it contained only suggestions. It remains nevertheless a compelling document, showing how the appellant kept an eye on the manner in which the work was performed.
+[29] With regard to the ownership of the tools and the equipment necessary for the services to be performed, the evidence presented supports my conclusion that the appellant provided at no charge to the intervener all course-related materials, as well as tests, exams, a photocopier, chalk and, most importantly, a classroom. This is not a situation in which the tutoring could have been provided in a home setting. The number of pupils enrolled necessitated the renting of school facilities, which made those facilities a necessary and important tool. This factor favours the existence of an employer-employee relationship.
+[30] Regarding the chance of profit and risk of loss, the intervener in this fact situation was paid a fixed rate of $20 per hour regardless of the number of pupils in her class. She was not responsible for any operating costs or other expenses and did not pay the substitute teacher in the event that she was absent. The intervener had only to sign in and out and she was paid on a regular basis. Although the contract allowed the intervener to engage in private, home-based tutoring done independently, she was subject to a restrictive covenant and a confidentiality undertaking that prevented her from, among other things, owning, operating, directing or managing, any non-public educational or tutorial centre, camp, etc. which was in competition with the appellant, or from being sole proprietor of, or a partner with another person in, such an establishment. The intervener was therefore restricted both during and beyond the school year such that there were no chances of profit or risks of any losses.
+[31] The appellant's initial intention to create a contract of service is overshadowed by the fact that it unilaterally amended the contract after it was signed so that it referred to a contract for service instead of a contract of service and by the need to have the intervener sign, at the end of the school year in June, an acknowledgment that she was hired as an independent contractor. Had the appellant's intention been clear, there would have been no necessity for any such measures. The appellant's conduct is highly questionable.
+[32] I therefore find that the intervener was employed by the appellant in insurable and pensionable employment within the meaning of paragraph 5(1)(a) of the Act and paragraph 6(1)(a) of the Plan during the period under appeal.
+[33] The appeals are therefore dismissed.
+Signed this 30th day of April 2013.
+"François Angers"
+Angers J.
+CITATION: 2013 TCC 82
+COURT FILE NOS.: 2012-1756(EI)
+2012-1757(CPP)
+STYLE OF CAUSE: Marilake Education Centre Inc. v. M.N.R.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 14, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 30, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Christopher P. Goldson
+Counsel for the Respondent:
+For the Intervener:
+Jasmeen Mann
+The Intervener herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Christopher P. Goldson
+Firm: Christopher P. Goldson
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

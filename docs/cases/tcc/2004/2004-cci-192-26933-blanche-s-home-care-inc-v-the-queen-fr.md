@@ -1,0 +1,158 @@
+---
+title: "Blanche's Home Care Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26933/index.do"
+last_modified: "2004-03-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 192"
+citation2: ""
+neutral_citation: "2004 CCI 192"
+decision_date: "2004-03-09"
+language: "fr"
+item_id: "26933"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 739
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:42:50.276000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f4296575daece7b246560b76715cbe994531e66d57bd36184c3a6d8f42e8a045"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blanche's Home Care Inc. v. The Queen
+
+- Citation: 2004 CCI 192
+- Decision date: 2004-03-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 739, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blanche's Home Care Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-09
+Référence neutre
+2004 CCI 192
+Numéro de dossier
+2003-3267(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-3267(GST)I
+ENTRE :
+BLANCHE'S HOME CARE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 février 2004 à Saskatoon (Saskatchewan)
+Devant : L'honorable juge David W. Beaubier
+Comparutions :
+Représentant de l'appelante :
+Dan McDonald
+Avocats de l'intimée :
+Michael Ezri et Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 4 novembre 2002, est rejeté selon les motifs du jugement ci-joints.
+Signé à Regina, Canada, ce 9e jour de mars 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 22e jour de septembre 2005.
+Ingrid Miranda, Traductrice
+Référence : 2004CCI192
+Date : 20040309
+Dossier : 2003-3267(GST)I
+ENTRE :
+BLANCHE'S HOME CARE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+L'honorable juge Beaubier
+[1] Le présent appel interjeté conformément à la procédure informelle a été entendu à Saskatoon, en Saskatchewan, le 26 février 2004. Dan McDonald, le représentant de l'appelante, a été le seul témoin à l'audience.
+[2] Les paragraphes 3 à 19 de la réponse à l'avis d'appel présentent ainsi les questions en litige :
+[TRADUCTION]
+3. En ce qui concerne le paragraphe 2 de la Partie « F » de l'avis d'appel, il déclare qu'il s'agit d'un paragraphe à caractère argumentatif. Dans la mesure où ce paragraphe contient des allégations de fait devant être admises ou niées, il les nie toutes. Il désire insister sur le fait que la décision du 2 mai 2003 concernant l'application de la TPS statue que la fourniture de l'appelante, mentionnée dans le contrat d'admission, consiste en une fourniture de services exonérée, en vertu de l'annexe V, partie II, article 2 et de l'annexe V, partie IV, article 2 de la Loi sur la taxe d'accise.
+4. En ce qui concerne les paragraphes 1, 3 et 5 de la Partie « F » de l'avis d'appel, il déclare que ces paragraphes sont de caractère argumentatif et qu'ils ne contiennent aucune allégation de fait pertinente devant être admise ou niée.
+5. Le 30 août 2002, le ministre du Revenu national (le « ministre » ) a reçu, de la part de l'appelante, une Demande de remboursement de la TPS/TVH pour immeubles d'habitation locatifs neufs (la « Demande » ) dans laquelle l'appelante a demandé un remboursement de 6 680,70 $ (le « Remboursement » ) concernant la TPS qu'elle avait versée lors de l'achat du Foyer.
+6. Le ministre a envoyé à l'appelante un avis de cotisation daté du 4 novembre 2002, dans lequel il rejette la demande de l'appelante.
+7. L'appelante s'est opposée à l'avis de cotisation en déposant un avis d'opposition daté du 13 novembre 2002.
+8. Le ministre a confirmé la cotisation au moyen d'un avis de décision daté du 20 juin 2003.
+9. L'appelante a déposé un avis d'appel auprès de la présente Cour le 16 septembre 2003.
+10. Lors de la cotisation de l'appelante et lors de la confirmation de cette cotisation, le ministre a présumé les mêmes faits, à savoir que :
+a) l'appelante est une société;
+b) l'appelante a conclu une convention d'achat et de vente avec North Ridge Development Corporation, le 4 décembre 2001;
+c) selon la convention d'achat et de vente, North Ridge Development Corporation s'est engagée à construire un immeuble, puis à vendre l'immeuble en question, ainsi que le terrain sur lequel il est construit, à l'appelante;
+d) l'immeuble et le terrain se trouvent à l'adresse municipale suivante, soit le 1322, Konihowski Road, à Saskatoon, en Saskatchewan;
+e) l'appelante n'est pas inscrite aux fins de la TPS;
+f) l'appelante n'a pas demandé de crédit de taxe sur les intrants, relativement à la TPS qu'elle a versée;
+g) l'appelante a déposé une demande de remboursement concernant la TPS qu'elle a versée lors de l'achat du terrain et de l'immeuble;
+h) l'appelante a obtenu l'autorisation d'exploiter l'immeuble en tant que « foyer de soins personnels » (le « Foyer » ) en vertu de la Personal Care Homes Act et du Personal Care Homes Regulations, 1996 de la Province de la Saskatchewan;
+i) l'appelante et chacun des pensionnaires ont conclu un contrat d'admission écrit (le « contrat d'admission » ) lequel prévoit les modalités et les conditions de résidence au Foyer;
+j) l'appelante fournit aux pensionnaires l'hébergement et les repas. Elle leur offre également des services de supervision ou d'assistance dans le cadre de leurs soins d'hygiène personnelle;
+k) le nombre maximal de pensionnaires que le Foyer peut loger est de dix;
+l) le Foyer est doté d'équipement spécialisé, notamment une rampe, une baignoire d'accès facile, une baignoire de sécurité, des toilettes surélevées avec des barres d'appui, ainsi que des poignées de porte accessibles;
+m) l'appelante offre des services directs d'assistance et de supervision aux pensionnaires dans le cadre de leurs activités quotidiennes, y compris les repas, le bain, l'habillement, la toilette, les activités sociales et les loisirs, ainsi que l'administration de médicaments, cette liste n'étant pas exhaustive;
+n) l'appelante offre aux pensionnaires : trois repas équilibrés par jour; des collations nutritives entre les repas et au coucher; une supervision sur place, 24 heures par jour; une buanderie, la supervision de la toilette, du bain, de l'habillement et des soins des ongles et des arrangements pour le transport; un endroit sécuritaire pour ranger les médicaments; des activités sociales et récréatives sur place. En outre, l'appelante ramasse les médicaments, elle fait des arrangements pour le renouvellement des ordonnances et reconnaît les évènements spéciaux;
+o) l'appelante exige la présentation d'une évaluation écrite des besoins du pensionnaire en matière de soins préparée par une agence d'évaluation, dans un délai de sept jours suivant l'admission du pensionnaire au Foyer;
+p) l'appelante offre aux pensionnaires des soins et de l'assistance supplémentaires si cela est requis en vertu de leur évaluation des besoins en matière de soins, y compris une assistance en matière de mobilité, des soins spécialisés et des soins cognitifs;
+q) l'appelante élabore un plan de soins pour chaque pensionnaire dans un délai de sept jours suivant l'admission du pensionnaire au Foyer;
+r) l'appelante détermine, dans le plan de soins, le type de services d'assistance ou de supervision dont le pensionnaire a besoin, dans le cadre de ses activités quotidiennes et s'occupe de leurs besoins physiques, cognitifs, émotionnels, sociaux et spirituels; et
+s) les pensionnaires versent une mensualité fixe pour le logement, les repas, la supervision, les soins et les services mentionnés dans les sous-paragraphes m) à r).
+B. QUESTIONS EN LITIGE
+11. Les questions en litige sont énoncées ci-dessous.
+a) L'appelante est-elle admissible au remboursement de la TPS/TVH pour immeubles d'habitation locatifs neufs concernant la TPS qu'elle avait versée lors de l'achat du terrain et de l'immeuble?
+b) Y a-t-il lieu de déni ou de violation des droits de l'appelante garantis par la disposition au paragraphe 15(1) de la Charte canadienne des droits et libertés (la « Charte » )?
+c) S'il y a lieu de déni ou de violation des droits de l'appelante, s'agit-il d'une enfreinte raisonnable aux termes de l'article 1 de la Charte?
+C. DISPOSITIONS LÉGISLATIVES
+11. Il se fonde sur le paragraphe 123(1) et l'article 256.2 de la Loi sur la taxe d'accise L.R.C. 1985, ch. E-15; l'annexe V, partie I, articles 5.1, 6, 6.1 et 7 de la même loi, telle qu'elle a été modifiée; ainsi que l'article 1 et le paragraphe 15(1) de la Charte canadienne des droits et libertés.
+D. MOTIFS INVOQUÉS ET MESURES DE REDRESSEMENT DEMANDÉES
+12. Il fait valoir qu'une « fourniture » , conformément à la définition prévue au paragraphe 123(1) de la Loi sur la taxe d'accise signifie : « Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation » .
+13. Il fait valoir qu'un « service » , conformément à la définition prévue au paragraphe 123(1) de la Loi sur la taxe d'accise signifie : « Tout ce qui n'est ni un bien [...] »
+14. Il fait valoir que l'appelante effectue une simple fourniture de « service » tel que cela est défini au paragraphe 123(1) de la Loi sur la taxe d'accise, ce qui signifie que l'appelante ne peut être en train d'effectuer une fourniture de « biens » .
+15. Il fait valoir que la fourniture effectuée par l'appelante à ses pensionnaires en vertu du contrat d'admission ne constitue pas une fourniture d' « habitation admissible » telle qu'elle est définie au paragraphe 256.2(1) de la Loi sur la taxe d'accise.
+16. Il fait valoir que l'appelante ne détient pas une « habitation admissible » telle qu'elle est définie au paragraphe 256.2(1) de la Loi sur la taxe d'accise.
+17. Il fait valoir que l'appelante ne détient pas une « habitation admissible » dans le but d'effectuer des fournitures exonérées mentionnées dans la disposition à l'article 6 de la partie I de l'annexe V de la Loi sur la taxe d'accise.
+18. Il fait valoir que l'appelante ne fournit pas d'habitation dans un tel immeuble, par bail, licence ou accord semblable, en vue de son occupation continue à titre résidentiel ou d'hébergement par le même particulier. Par conséquent, la fourniture en question ne constitue pas une fourniture exonérée visée par l'annexe V, partie I, article 6, de la Loi sur la taxe d'accise.
+19. Il fait valoir que le paragraphe 15(1) de la Charte ne s'applique pas à l'appelante puisque l'appelante est une société et non un particulier.
+[3] L'appelante est une société et non un particulier. Par conséquent, la Charte n'est pas applicable en l'espèce.
+[4] Aucune présomption, sauf exception de 10p), n'a été réfutée. En ce qui concerne la présomption 10p), le témoignage de M. McDonald est admis : les soins offerts par l'appelante ont plutôt un caractère de supervision. On rappelle aux pensionnaires de prendre leurs médicaments ou de manger leurs repas et on leur prête de l'assistance de manière encadrée. L'appelante n'offre aucun soins médicaux, ni de soins intensifs. S'il est nécessaire d'immobiliser un pensionnaire, l'appelante ne le fait que de manière temporaire, pendant que l'on procède à la recherche d'une maison de soins infirmiers. D'habitude, les pensionnaires sont dirigés vers l'appelante par un hôpital ou par une entité semblable parce qu'ils vivent seuls et qu'ils ont besoin que quelqu'un leur rappelle certaines choses ou les supervise, sans qu'il s'agisse toutefois de soins physiques ou infirmiers.
+[5] L'appelante exploite un foyer de soins personnels autorisé, situé au 1322, Konihowski Road, en application de la loi intitulée Personal Care Homes Act, R.S.S., P-6.01, laquelle définit un foyer de soins personnels à l'article 2 comme [TRADUCTION] « [...] une installation dans laquelle on offre : (i) un logement et des repas; et (ii) des services de supervision et d'assistance dans le cadre des soins personnels, à un adulte [...] » . Bien que cette loi ne semble pas exiger que les bénéficiaires des soins résident dans le foyer, la définition de « soins » prévue à l'article 2 de son Règlement définit ce terme comme la [TRADUCTION] « prestation de soins [...] à un pensionnaire » . Le règlement définit un « pensionnaire » comme [TRADUCTION] « un adulte [...] qui réside dans le foyer dans le but de recevoir des soins personnels » .
+[6] La définition de « pensionnaire » prévue au Règlement est conforme au témoignage de M. McDonald. La plupart des pensionnaires de l'appelante vivaient seuls avant de déménager au foyer, que ce soit dans des appartements ou dans des maisons. Ils sont déménagés au 1322, Konihowski Road [TRADUCTION] « dans le but d'obtenir des soins personnels » . En d'autres mots, ce n'était pas dans le but de trouver un logement, mais parce qu'ils avaient besoin des services de soin personnel fournis par l'appelante. (Et bien que cette opinion n'ait eu aucune incidence dans la présente détermination, il est clair que la qualité des locaux et des services fournis par Blanche's sont exemplaires et semblent représenter la norme des foyers de soins personnels à Saskatoon.)
+[7] M. McDonald a témoigné que les frais mensuels de l'appelante s'élèvent à 1 750 $. En comparaison, le prix moyen d'une simple chambre à Saskatoon est de 500 $ par mois (d'une chambre moyenne, non pas exemplaire). M. McDonald a également déposé lors de son contre-interrogatoire que, selon toute probabilité, environ 1 000 $ des frais mensuels représentent la compensation versée pour les services. Par conséquent, plus de 50 p. 100 des frais mensuels sont consacrés aux services de soins personnels et non simplement aux locaux d'habitation. L'âge moyen d'un pensionnaire varie de 85 à 90 ans. La plupart d'entre eux souffrent de problèmes de santé, notamment de la maladie d'Alzheimer.
+[8] Bien que la Personal Care Homes Act ne le prévoie pas ainsi, son Règlement établit qu'un tel foyer doit être doté d'habitations. Il s'agit, en fait, du premier ingrédient nécessaire au concept de « pensionnaire » . Cependant, il n'est pas possible d'oublier les services car ils constituent les « soins » fournis par l'entité autorisée, lesquels services sont décrits en détail dans le règlement comme comportant un plan de soins et un menu de cinq semaines de repas et de collations. Le logement et les services sont donc étroitement liés. Chacun d'entre eux fait partie de l'ensemble de la fourniture, laquelle ne peut être divisée pour calculer les impôts. Ce sont des services fournis en vertu d'un contrat unique, en échange d'une contrepartie unique. (Voir la décision du juge Rip dans l'affaire O.A. Brown Ltd. c. Canada, [1995] A.C.I. no 678 (C.C.I.), particulièrement les paragraphes 27 et 29).
+[9] M. McDonald fait judicieusement valoir que ce que l'appelante fournit est [TRADUCTION] « une résidence principale » et que le reste est subordonné à cela. Cependant, même en mettant de côté le montant de frais ou de contrepartie qui s'élève à 1 750 $ par mois, il n'est pas possible, pour la Cour, de séparer les éléments de la fourniture sur le fondement de la preuve qui se trouve devant la Cour.
+[10] Pour ces motifs, l'appel est rejeté.
+Signé à Regina, Canada, ce 9e jour de mars 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 22e jour de septembre 2005.
+Ingrid Miranda, Traductrice

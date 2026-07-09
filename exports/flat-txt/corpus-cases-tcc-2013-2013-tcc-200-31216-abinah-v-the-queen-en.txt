@@ -1,0 +1,109 @@
+Title: Abinah v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31216/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-200-31216-abinah-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-06-21
+
+# Abinah v. The Queen
+
+- Citation: 2013 TCC 200
+- Decision date: 2013-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5056, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abinah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-21
+Neutral citation
+2013 TCC 200
+File numbers
+2012-3065(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3065(IT)I
+BETWEEN:
+CONSTANCE ABINAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 14, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christopher Bartlett
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is allowed, without costs, and is referred back to the Minster of National Revenue for reassessment and reconsideration on the basis that the subsection 163(2) penalties are to be deleted.
+Signed at Ottawa, Canada, this 21st day of June 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC200
+Date: 20130621
+Docket: 2012-3065(IT)I
+BETWEEN:
+CONSTANCE ABINAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] This appeal relates to the 2008 taxation year for Constance Abinah in which the Minister of National Revenue (the “Minister”) disallowed her claim for child care expenses in the amount of $7,000. The Minister assessed a penalty pursuant to subsection 163(2) of the Income Tax Act (the “Act”) and adjusted the Appellant’s Canada Child Tax Benefit (“CCTB”) for the 2008 base taxation year.
+[2] At the beginning of the hearing, counsel for the Respondent conceded the penalties under subsection 163(2) and the only issue remaining is whether the Appellant incurred child care expenses of $7,000 in 2008. My decision on this issue will determine the calculation of the CCTB for the 2008 base taxation year.
+[3] The only witness at the hearing was the Appellant.
+[4] The Appellant is a single parent. She has four children who live with her. In 2008, her children were 23, 17, 16 and 10.
+[5] It was the Appellant’s evidence that, in 2008, she worked in a factory and her hours of work were 7:00a.m. to 3:15p.m. However, she had to leave home at 5:30a.m. in order to arrive on time for her work. Her friend, Gifty Acheampong (“GA”), escorted her two younger children (A. and F.) to school in the morning and picked them up from school in the afternoon. GA tended to the children until the Appellant came home from work. The school hours were 8:30a.m. to 2:45p.m.
+[6] The Appellant stated that the amount she paid GA for taking care of her children depended on how much she earned each week. She estimated that she paid GA either $60 or $80 or $100 each week. She paid GA in cash and she did not keep a record of the payments.
+[7] GA is a family friend who lived with the Appellant and her family since 2003. According to the Appellant, the living arrangements were mutually beneficial for both GA and herself. GA had severe arthritis and the Appellant, as a single parent, needed help. GA did not pay room or board to live with the Appellant.
+[8] The Appellant submitted documents which she said supported her position that she paid GA $7,000 in 2008. Some of the documents were personal documents belonging to GA and are not relevant to this appeal. However, one page is labelled “Letter for Child Care Expenses” and is purportedly signed by GA. I note that the document given to the court is only a photocopy. I will discuss this letter further in my decision.
+Analysis
+[9] On a review of the evidence, I found that the Appellant was not credible. Her evidence was shaken on cross-examination so that parts of her testimony changed while other statements which she made were implausible. She was evasive and not forthright in her answers.
+[10] Her testimony was contradicted, in part, by the claim she made in her 2008 income tax return. In her return, the Appellant reported that she paid GA to care for F. only. Under “Child Care Expense Details”, she did not name A. as a child cared for by GA.
+[11] In cross-examination, the Appellant stated that GA did not take her child F. to school or pick her up from school. GA escorted F. to the school bus stop.
+[12] I note that, in 2008, F. was 16 and she earned wages of $869. I find it hard to believe that F. was mature enough to work but not to walk to the school bus stop alone.
+[13] The Appellant estimated that she gave GA $60 or $80 or $100 weekly. Even if she gave GA $100 each week of the year, this would only total $5,200.
+[14] The Appellant said she paid $7,000 in cash. She had no supporting credible documents.
+[15] The document labelled “Letter for Child Care Expenses” (the “Letter”) was dated June 7, 2013 and, according to the Appellant, it was prepared by her accountant but she told him what to write.
+[16] Contrary to the Appellant’s position, the Letter does not read that she paid GA $7,000 in 2008. It reads that she paid GA $4,000 in 2008.
+[17] Although each of these inconsistencies by themselves seem inconsequential, when the evidence is viewed in total, the overall sense is that the Appellant is not credible.
+[18] At the present time, GA lives in Ghana. The Appellant described how she was able to get GA to sign the Letter and have it returned to her in time for the hearing of this appeal. I found this part of her evidence totally implausible.
+[19] The Appellant said that she took the Letter to the Toronto airport where she approached someone in line with KLM airline. She gave this Letter to someone she did not know but who was going to Ghana. GA sent someone to the airport in Ghana to get the Letter. She allegedly signed this Letter on June 10, 2013 and had a person from Ghana take it to the Bronx, N.Y. The Appellant stated that she travelled to the Bronx by bus to get the Letter. However, she did not know the name of the person who allegedly brought the Letter from Ghana to the Bronx and who gave it to her. She said she knew the person’s phone number and address.
+[20] I conclude that the Appellant has not given any corroborated credible evidence that she incurred $7,000 in child care expenses in 2008. The appeal with respect to the child care expenses is dismissed.
+[21] The appeal is allowed only with respect to the penalties which were conceded by the Respondent.
+Signed at Ottawa, Canada, this 21st day of June 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC200
+COURT FILE NO.: 2012-3065(IT)I
+STYLE OF CAUSE: CONSTANCE ABINAH AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 14, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: June 21, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christopher Bartlett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

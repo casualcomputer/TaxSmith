@@ -1,0 +1,242 @@
+---
+title: "Preiss c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29435/index.do"
+last_modified: "2009-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 488"
+citation2: ""
+neutral_citation: "2009 CCI 488"
+decision_date: "2009-10-01"
+language: "fr"
+item_id: "29435"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6926
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:30:46.494000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "99b1d1307c1c2ea16927c95ba49989b3c0cb4645f980ba04e80e57d7dc0e75e8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Preiss c. La Reine
+
+- Citation: 2009 CCI 488
+- Decision date: 2009-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6926, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Preiss c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-01
+Référence neutre
+2009 CCI 488
+Numéro de dossier
+2009-13(IT)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-13(IT)I
+ENTRE :
+SUSAN PREISS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 juillet 2009, à Toronto (Ontario).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Représentant de l’appelante :
+M. B.C. Chastkofsky, C.A.
+Avocate de l’intimée :
+Me Sandra K.S. Tsui
+____________________________________________________________________
+JUGEMENT
+Les appels concernant les nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 sont accueillis avec dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation sur la base suivante :
+Les pertes locatives nettes de l’appelante pour les années d’imposition 2004 et 2005 à l’égard du bâtiment situé au 37, promenade Ben Machree, Mississauga, en Ontario, s’élevaient à 8 196 $ et à 5 492 $ respectivement, comme suit :
+Année d’imposition 2004
+Année d’imposition 2005
+Revenu locatif brut
+Dépenses admissibles
+Moins : Fraction personnelle
+11/12 x 1/3
+1/12 X 2/3
+Fraction personnelle totale
+Dépenses déductibles admissibles
+Honoraires d’avocat déductibles
+Perte locative nette se rattachant au bien
+Part de la perte subie par
+l’appelante (50 %)
+8 724
+30 635
+9 361
+1 702
+11 063
+19 572
+5 543
+-16 391
+-8 196
+8 324
+29 104
+8 893
+1 617
+10 510
+18 594
+713
+-10 983
+-5 492
+Signé à Toronto (Ontario), ce 1er jour d’octobre 2009.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 10e jour de novembre 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 488
+Date : 20091001
+Dossier : 2009-13(IT)I
+ENTRE :
+SUSAN PREISS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] L’appelante Susan Preiss a interjeté appel des nouvelles cotisations établies à son égard pour les années d’imposition 2004 et 2005. L’appel se rapporte à des pertes locatives se rattachant à un bâtiment situé au 37, promenade Ben Machree, Mississauga, en Ontario (appelé le [traduction] « triplex » au cours de l’audience) que l’appelante a déduites dans le calcul de son revenu.
+[2] En produisant ses déclarations de revenus pour les années d’imposition 2004 et 2005, l’appelante a déduit des pertes locatives de 21 265 $ et de 21 085 $ respectivement. Les nouvelles cotisations avaient pour effet de ramener les pertes locatives à 1 385 $ et à 1 280 $ respectivement.
+[3] Au début de l’audience, les parties ont convenu que la Cour devait examiner deux questions :
+(i) L’appelante avait-elle le droit de déduire un tiers ou les deux tiers des dépenses admissibles engagées à l’égard du triplex?
+(ii) L’appelante pouvait-elle déduire les honoraires d’avocat de 6 256 $ qu’elle avait payés au cours des années d’imposition 2004 et 2005 pour l’année d’imposition au cours de laquelle ces honoraires avaient été payés?
+[4] Mme Preiss a témoigné à l’audience. Elle était un témoin crédible et je considère son témoignage comme digne de foi.
+I. Le contexte
+[5] L’appelante a acheté le triplex au mois de novembre 2003. Le triplex était composé de trois logements : un logement au sous‑sol, un logement au rez‑de‑chaussée et un logement à l’étage.
+[6] L’appelante a témoigné que, lorsqu’elle avait acheté le triplex, elle voulait occuper un logement à titre de résidence principale et louer les deux autres logements. L’appelante a en outre reconnu qu’en achetant le triplex, elle envisageait la possibilité que sa mère loue l’un des logements. Elle croyait que sa mère envisagerait de louer un logement si elle tombait malade et qu’elle voulait vivre près d’elle.
+[7] Le logement situé au sous-sol (appelé le logement no 1 au cours de l’audience) était loué à un tiers au cours des années d’imposition 2004 et 2005.
+[8] Le logement situé au rez‑de‑chaussée (appelé le logement no 2 au cours de l’audience) n’a pas été occupé au cours des années d’imposition 2004 et 2005, sauf pour une période de deux mois. Il ressort de la preuve que le logement no 2 était en état d’être loué; toutefois, l’appelante a décidé de ne pas le louer pendant que les réparations dont il sera question ci‑dessous étaient effectuées.
+[9] L’appelante a reçu, au titre de la location, un montant de 8 724 $ au cours de l’année d’imposition 2004 et de 8 324 $ au cours de l’année d’imposition 2005.
+[10] La mère de l’appelante s’est installée dans le logement no 2 au mois de décembre 2004, pour ce que l’on a appelé la [traduction] « période d’essai ». L’appelante a fait remarquer que sa mère voulait savoir si elle se sentait à l’aise à Mississauga. Il a donc été convenu que la mère ne paierait pas de loyer pendant la période d’essai. Toutefois, si à la fin de la période d’essai, la mère se sentait à l’aise dans le logement no 2, elle commencerait à payer un loyer mensuel de 1 100 $. La période d’essai a duré deux mois. Au mois de février 2005, la mère de l’appelante a décidé qu’elle n’aimait pas vivre à Mississauga et elle est retournée chez elle, à Windsor.
+[11] Lorsqu’elle a acheté le triplex, l’appelante a conclu qu’il fallait réparer les logements, en particulier le logement no 2. L’appelante a elle‑même exécuté la plupart des travaux. Les travaux ont été retardés en 2004 par suite d’une question de zonage concernant le logement no 1 (sur laquelle nous reviendrons bientôt), et en 2005 et en 2006, à cause du mauvais état de santé de la mère de l’appelante, qui est décédée au mois de février 2006. Les travaux ont été achevés au cours du premier trimestre de l’année 2007, et le logement no 2 a immédiatement été loué à un tiers.
+[12] Au mois d’avril 2004, un voisin de l’appelante a déposé une plainte en matière de zonage auprès de la ville de Mississauga. Le voisin alléguait que le logement no 1 n’était pas conforme aux règlements de zonage de la ville. L’appelante a eu recours à un avocat; toutefois, elle a consacré elle‑même énormément de temps à se défendre contre la plainte. Il ressort de la preuve que la question a été réglée en faveur de l’appelante au mois d’août ou de septembre 2004. Les factures produites par l’appelante indiquent des paiements effectués en faveur de son avocat, de 5 543 $ en 2004 et de 713 $ en 2005.
+[13] Au cours du contre‑interrogatoire de l’appelante, il a été révélé qu’au cours des années d’imposition 2004 et 2005, un certain James Krystolovich détenait une part de 50 p. 100 dans la propriété bénéficiaire et en common law du triplex.
+II. Analyse
+[14] La première question dont la Cour est saisie est de savoir si, en calculant sa perte en vertu de l’article 9 de la Loi de l’impôt sur le revenu (la « Loi »), l’appelante avait le droit de déduire un tiers ou les deux tiers des dépenses admissibles engagées à l’égard du triplex. En particulier, je dois en premier lieu décider si le logement no 2 constituait une source de revenus. L’approche à adopter en vue d’arriver à une décision est énoncée dans la décision que la Cour suprême du Canada a rendue en 2002 dans l’affaire Stewart c. Canada, 2002 CSC 46, [2002] 2 R.C.S. 645.
+[15] La Cour suprême du Canada a fait remarquer, aux paragraphes 52 à 55 de son analyse, que, dans les situations où l’activité comporte un aspect personnel ou récréatif, il faut appliquer le critère de l’existence d’une source « en vue de réaliser un profit ». Au paragraphe 54, la Cour suprême a énoncé le critère comme suit : « Le contribuable a‑t‑il l’intention d’exercer une activité en vue de réaliser un profit et existe‑t‑il des éléments de preuve étayant cette intention? »
+[16] Les remarques suivantes que la Cour suprême du Canada a faites dans l’arrêt Stewart sont particulièrement pertinentes dans le présent appel :
+63 Même si l’appelant avait utilisé une seule ou plusieurs des propriétés à son avantage personnel, le ministre ne pourrait pas conclure sans plus à l’inexistence d’une entreprise. Le contribuable qui se trouve dans une telle situation devrait avoir l’occasion d’établir que son intention prédominante était de tirer un profit de l’activité et que celle-ci était exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux. La question de l’existence d’une expectative raisonnable de profit peut être un facteur à prendre en considération dans cette analyse.
+[17] Selon la preuve soumise à la Cour dans la présente espèce, l’appelante avait l’intention prédominante de tirer un profit de la location du logement no 1 et du logement no 2. Au cours des années d’imposition 2004 et 2005, le logement no 1 a été loué à un tiers à sa juste valeur marchande. Au cours de cette période, l’appelante a voulu louer le logement no 2 à sa juste valeur marchande. Selon la preuve fournie par l’appelante, ce loyer proviendrait d’un tiers ou de sa mère (au bout de la période d’essai de deux mois).
+[18] Le fait qu’il a fallu énormément de temps pour effectuer les réparations n’a pas changé l’intention de la contribuable au cours des années 2004 et 2005. Le fait que la contribuable n’était pas prête à louer le logement no 2 tant que les travaux n’étaient pas achevés constitue une preuve additionnelle du comportement de femme d’affaires sérieuse de l’appelante. L’appelante savait fort bien jusqu’à quel point il était important de maintenir une réputation de [traduction] « bon propriétaire » et de maximiser les loyers des deux logements.
+[19] Je conclus donc que les activités de l’appelante, en ce qui concerne le logement no 1 et le logement no 2, constituaient une source de revenus.
+[20] Il faut ensuite se pencher sur la question de la déductibilité des dépenses. Comme la Cour suprême du Canada l’a fait remarquer au paragraphe 57 de l’arrêt Stewart, la question de savoir s’il existe une entreprise est une question distincte qui n’a rien à voir avec la déductibilité des dépenses.
+[21] Au début de l’audience, les parties ont convenu que l’appelante avait engagé des dépenses admissibles à l’égard du triplex, de 30 635 $ au cours de l’année d’imposition 2004 et de 29 104 $ au cours de l’année d’imposition 2005, plus tout montant que la Cour accordera pour les honoraires d’avocat. Ces dépenses sont énumérées à l’annexe A de la réponse de l’intimée.
+[22] Les parties se sont entendues sur le montant des dépenses admissibles qui ont été engagées, mais elles ne s’entendaient pas sur la mesure dans laquelle ces dépenses étaient déductibles. Le représentant de l’appelante a soutenu que l’appelante avait le droit de déduire les deux tiers des dépenses dans le calcul du revenu ou de la perte associés à la location des logements. L’avocate de l’intimée a de son côté affirmé que l’appelante avait uniquement le droit de déduire le tiers de ces dépenses. L’avocate a soutenu que la déduction des dépenses se rattachant au logement no 2 était prohibée en vertu de l’un ou l’autre des alinéas 18(1)a) ou 18(1)h), ou subsidiairement, en vertu du paragraphe 18(3.1).
+[23] À mon avis, la déduction des dépenses admissibles liées au logement no 2 au cours de la période de deux mois pendant laquelle le logement était occupé par la mère de l’appelante était prohibée par l’alinéa 18(1)h).
+[24] L’alinéa 18(1)h) est libellé comme suit :
+18(1) Dans le calcul du revenu du contribuable, tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[...]
+h) le montant des frais personnels ou des frais de subsistance du contribuable – à l’exception des frais de déplacement engagés par celui‑ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[25] Les frais personnels et frais de subsistance sont définis au paragraphe 248(1) comme comprenant les dépenses inhérentes aux biens entretenus par toute personne pour l’usage ou l’avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l’union de fait ou de l’adoption, et non entretenus dans le but ou avec l’espoir raisonnable de tirer un profit de l’exploitation d’une entreprise.
+[26] Il ressort clairement de la preuve que, pour la période de deux mois qui a commencé au mois de décembre 2004, le logement no 2 était entretenu pour l’avantage de la mère de l’appelante. En outre, selon la preuve soumise à la Cour, la mère de l’appelante n’a pas payé de loyer pendant cette période. On a qualifié cette période de période d’essai; elle visait à permettre à la mère de l’appelante de décider si elle se sentait à l’aise dans le logement. Si elle décidait de rester, elle commencerait alors à payer le loyer à la juste valeur marchande.
+[27] Toutefois, au cours de la période de deux mois où la mère de l’appelante a occupé le logement no 2, il n’y avait pas d’espoir de tirer un profit. Par conséquent, conformément à l’alinéa 18(1)h), l’appelante n’avait pas le droit de demander la déduction des dépenses engagées au cours de cette période à l’égard du logement no 2.
+[28] L’avocate de l’intimée a fait valoir que le paragraphe 18(3.1) interdisait à l’appelante de déduire les dépenses se rattachant au logement no 2 au cours des années d’imposition 2004 et 2005. Je ne souscris pas à cet argument.
+[29] L’une des conditions d’application du paragraphe 18(3.1) est que la dépense en question doit être une dépense « qu’il est raisonnable de considérer comme un coût attribuable à la période de construction, de rénovation ou de transformation d’un bâtiment ».
+[30] Compte tenu de la preuve soumise à la Cour, il ne semble pas que les travaux exécutés par l’appelante au cours des années 2004 et 2005 aient été attribuables à la construction, à la rénovation ou à la transformation d’un bâtiment. Il s’agissait de réparations plutôt que de travaux de construction, de rénovation ou de transformation d’un bâtiment. Le paragraphe 18(3.1) ne vise pas à s’appliquer aux périodes au cours desquelles des travaux généraux sont exécutés. Il exige plutôt de gros travaux tels que travaux de construction, de rénovation ou de transformation.
+[31] Il serait déraisonnable de soutenir que, chaque fois que des réparations sont effectuées, la déduction des coûts périphériques s’y rattachant sera refusée en vertu du paragraphe 18(3.1). Il s’agit d’une question de degré, les travaux généraux et les réparations cosmétiques se situant à une extrémité de la gamme et les travaux de construction, de rénovation et de transformation à l’autre extrémité. Compte tenu de la preuve soumise à la Cour, les dépenses engagées par l’appelante se rapportaient à des travaux généraux et à des travaux cosmétiques et n’étaient donc pas visées par les dispositions du paragraphe 18(3.1).
+[32] En résumé, l’appelante avait le droit de déduire les deux tiers des dépenses admissibles convenues qu’elle a engagées au cours des années d’imposition 2004 et 2005, sauf celles qui ont été engagées au cours de la période de deux mois où le logement no 2 a été occupé par sa mère. Pour cette période de deux mois, l’appelante avait uniquement le droit de déduire le tiers des dépenses admissibles convenues.
+III. La déductibilité des frais d’avocat
+[33] Comme il en a ci‑dessus été fait mention, l’appelante a payé des honoraires d’avocat afin de se défendre contre une plainte en matière de zonage qu’un voisin avait déposée auprès de la ville de Mississauga. La plainte se rapportait au logement no 1.
+[34] Le représentant de l’appelante a soutenu que les honoraires d’avocat étaient imputables au revenu, alors que l’avocate de l’intimée a soutenu qu’ils étaient imputables au capital.
+[35] Dans l’arrêt M.N.R. v. The Dominion Natural Gas Company Limited, [1941] S.C.R. 19, la Cour suprême du Canada a dit, à la page 31, que les honoraires d’avocat sont imputables au capital s’ils sont payés en vue de [traduction] « préserver un actif ou un avantage pour le bénéfice durable d’une entreprise ».
+[36] Dans la décision Kellogg Company of Canada Limited v. M.N.R., [1942] C.T.C. 51, la Cour de l’Échiquier a conclu que les honoraires d’avocat qu’une société avait payés en vue de se défendre avec succès dans une action en contrefaçon se rapportant à une marque de commerce déposée comportant l’emploi des mots « shredded wheat » étaient déductibles. La Cour de l’Échiquier a fait une distinction entre l’affaire dont elle était saisie et la situation qui existait dans l’affaire Dominion Natural Gas Company, en faisant remarquer que la société Kellogg avait payé les honoraires d’avocat afin de maintenir sa position commerciale et sa rentabilité. En confirmant la décision rendue par la Cour de l’Échiquier, la Cour suprême du Canada a fait remarquer que le droit sur lequel l’intimée se fondait n’était pas un droit de propriété ou un droit exclusif se rapportant à une description, mais le droit de la société (de concert avec le grand public) de décrire ses marchandises de la façon dont elle les décrivait.
+[37] Dans l’arrêt Evans v. M.N.R., [1960] S.C.R. 391, la Cour suprême du Canada a permis à la contribuable de déduire les honoraires d’avocat que celle‑ci avait payés en vue d’établir son droit à un revenu annuel tiré de la succession de son beau‑père. Le juge Cartwright, au nom de la majorité, a dit que le paiement des honoraires d’avocat ne donnait pas naissance à ce droit ou à un avantage et ne créait pas d’actif.
+[38] Les honoraires d’avocat dont il est ici question ont été payés afin de permettre à l’appelante de continuer à louer le logement no 1. Les honoraires d’avocat ont été payés dans le cadre de la production d’un revenu tiré du triplex et n’ont pas été payés afin de préserver les intérêts de l’appelante dans son immobilisation, à savoir le triplex. Par conséquent, ces honoraires sont imputables au revenu et ils étaient déductibles au complet lorsque le revenu ou la perte se rattachant à la location des logements du triplex était déterminé. En outre, il n’y a pas eu recours personnel aux services juridiques, étant donné que les services juridiques se rattachaient uniquement au logement no 1.
+IV. L’intérêt financier de l’appelante dans le triplex
+[39] Comme il en a ci‑dessus été fait mention, au cours des années d’imposition 2004 et 2005, un certain James Krystolovich détenait une part de 50 p. 100 dans la propriété en common law et dans la propriété bénéficiaire du triplex. Par conséquent, l’appelante ne doit déduire la perte locative qu’elle a subie à l’égard du triplex que dans une proportion de 50 p. 100 dans le calcul de son revenu imposable.
+V. Conclusion
+[40] Les appels se rapportant aux nouvelles cotisations établies à l’égard des années d’imposition 2004 et 2005 de l’appelante sont accueillis avec dépens et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation sur la base suivante :
+Les pertes locatives nettes de l’appelante pour les années d’imposition 2004 et 2005 à l’égard du bâtiment situé au 37, promenade Ben Machree, Mississauga, en Ontario, s’élevaient à 8 196 $ et à 5 492 $ respectivement, comme suit :
+Année d’imposition 2004
+Année d’imposition 2005
+Revenu locatif brut
+Dépenses admissibles
+Moins : Fraction personnelle
+11/12 x 1/3
+1/12 X 2/3
+Fraction personnelle totale
+Dépenses déductibles admissibles
+Honoraires d’avocat déductibles
+Perte locative nette se rattachant au bien
+Part de la perte subie par
+l’appelante (50 %)
+8 724
+30 635
+9 361
+1 702
+11 063
+19 572
+5 543
+-16 391
+-8 196
+8 324
+29 104
+8 893
+1 617
+10 510
+18 594
+713
+-10 983
+-5 492
+Signé à Toronto (Ontario), ce 1er jour d’octobre 2009.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 10e jour de novembre 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 488
+No DU DOSSIER DE LA COUR : 2009-13(IT)I
+INTITULÉ : SUSAN PREISS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 6 juillet 2009
+MOTIFS DU JUGEMENT : L’honorable Steven K. D’Arcy
+DATE DU JUGEMENT : Le 1er octobre 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+M. B.C. Chastkofsky, C.A.
+Avocate de l’intimée :
+Me Sandra K.S. Tsui
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

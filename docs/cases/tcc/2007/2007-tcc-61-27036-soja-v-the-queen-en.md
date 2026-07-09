@@ -1,0 +1,173 @@
+---
+title: "Soja v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27036/index.do"
+last_modified: "2007-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 61"
+citation2: ""
+neutral_citation: "2007 TCC 61"
+decision_date: "2007-01-26"
+language: "en"
+item_id: "27036"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 646
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:26:53.138000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86363d8e7e29351d98a2f4e15235e226000278b0328da930ef9a26706b79a638"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Soja v. The Queen
+
+- Citation: 2007 TCC 61
+- Decision date: 2007-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 646, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Soja v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-26
+Neutral citation
+2007 TCC 61
+File numbers
+2003-140(IT)G
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-140(IT)G
+BETWEEN:
+WALTER T. SOJA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 28, 2006, at Toronto, Ontario
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+___________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for the 1999 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 26th day of January, 2007.
+"A.A. Sarchuk"
+Sarchuk D.J.
+Citation: 2007TCC61
+Date: 20070126
+Docket: 2003-140(IT)G
+BETWEEN:
+WALTER T. SOJA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk D.J.
+[1] In his 1999 tax return, the Appellant claimed a deduction in respect of "net capital losses of other years" in the amount of $22,000, carrying charges and interest expenses in the amount of $22,588.60, and a net partnership loss in the amount of $1,106.78. The Minister of National Revenue assessed the Appellant for his 1999 taxation year by Notice of Assessment dated November 27, 2000 to disallow the claimed deductions.
+[2] On January 22, 2001, the Appellant filed a Notice of Objection with respect to the Minister's assessment of the 1999 taxation year in which the Appellant advised for the first time that he wished to claim an allowable business investment loss (at that time, unquantified) (ABIL), with respect to Security Trading Inc. (STI). The Appellant did not provide the information or documentation required to substantiate his claim for an ABIL, or any of the deductions, for his 1999 taxation year. Accordingly, on October 18, 2002, the Minister issued a Notice of Confirmation of the original assessment.
+[3] In so concluding, the Minister made the following assumptions of fact:
+(a) at all material times all of the issued and outstanding shares in Security Trading Inc. ("STI") were owned by Westwil Investments Inc. ("Westwil");
+(b) at all material times the Appellant owned 40% of the issued and outstanding shares of Westwil;
+(c) there was no disposition of property by the Appellant within the meaning of paragraph 39(1)(c) of the Act in the Appellant's 1999 taxation year, or in any other year;
+(d) there was no debt owing to the Appellant, in any of his 1994 through 1999 taxation years by a Canadian Controlled Private Corporation that fulfill the requirements of subclauses 39(1)(c)(iv)(A), 39(1)(c)(iv)(B), or 39(1)(c)(iv)(C) of the Act;
+Background
+[4] In December 1991, STI was purchased from Joronda Investments by Westwil Investments Inc. Westwil's shareholders were Adriatic Insurance Brokers, an insurance company, and Walter T. Soja and Company Inc. (Soja Inc.). in the proportions of 40% and 60%, respectively.[1] Soja Inc. provided the sum of $180,000 by way of a loan to Westwil in order to facilitate its purchase of STI.[2] This is documented in part by a promissory note dated July 15, 1993, for $150,000, at an interest rate of 2% plus prime.
+[5] Subsequently, several further loans to STI were made totalling $315,000 as follows: February 4, 1994 - $125,000, February 14, 1994 - $125,000, July 19, 1994 - $30,000, October 27, 1994 - $10,000,[3] and a further undocumented loan of $25,000, dated October 8, 1993. These amounts were referred to by the Appellant as subordinated loan advances.
+[6] On May 3, 1994, the Board of Governors of the Toronto Stock Exchange ordered that the rights and privileges of STI should be revoked, and the operations wound down, in accordance with certain terms and conditions. STI applied to the Ontario Securities Commission for a hearing and review of the Board's decision. On December 16, 1994, the Commission interfered with the Board's decision to the extent that STI's trading rights would continue, subject to conditions being satisfied. Among these was the payment of a $50,000 fine to the Exchange by January 20, 1995. This condition was not met and STI sought an extension of time for the payment of the fine. The Commission was not prepared to grant the request, and accordingly, STI's rights and privileges were revoked and its operations were wound down by March 31, 1995.[4]
+Appellant's position
+[7] The Appellant's position is that he personally made loans to STI in the total amount of $315,000, and that the ABIL claimed results from losses incurred by these now uncollectible loans. The Appellant referred to the various cheques, promissory notes, correspondence with auditors and directors of Westwil and STI, as well as to his communications with CRA, and argues that by virtue of these documents, he has established the relevant conditions for an ABIL based on loans made by him to Westwil and STI, at an interest rate of prime plus 2%. In this context, he submitted:
+I believe it is up to them (i.e. CRA) to be able to disprove those loans. On the other hand, the burden of proof to me was to show that I incurred these loans, I loaned these monies to a company, business companies. There was a great deal of weight put on whether I was a shareholder of Security Trading. Clearly, Security Trading was owned through Westwil. I don't believe that negates any aspect of my direct investment into Security Trading.
+It was done for a specific reason, why those cheques were written to Security Trading, because I didn't want them going through Westwil. I am a member of the Toronto Stock Exchange. I have an obligation to the membership of the Exchange, and to the Exchange, to provide that capital which is why I did that. I think it is a long, a long jump from the statement from Mr. Freedhoff to our Chief Financial Officer, wanting to substantiate when he is completing his audit, what my loans were that had that significance.
+[8] The Appellant further submitted that a disposition was established by virtue of the fact that the debt was not collectible and referred to the financial statements for both Westwil and STI, which he said clearly show that the latter was insolvent. He further submitted that he had established the necessary conditions for an ABIL by providing the relevant documentation to "CRA officials to the extent that there was sufficient information provided to them", and that "it is erroneous for Justice to specifically address items with respect to certain tests or conditions of ABIL which couldn't be met. The evidence is quite frankly to the contrary".
+[9] With respect to the remaining issue, the Appellant submitted that "the 1999 return together with the amended T1A for the 1999 return suggests that the amount of taxable income was reduced to zero" and submitted that the amount of $45,861 "is basically the adjustment to the T1A for a loss carry-forward as a result of loans, interest charges and other items relevant to the investment of Walter Soja directly and indirectly, in Security Trading, in Westwil". Thus, he said, the T1A adjustment deducting of $45,861 can properly be claimed as a result of a non-capital loss pursuant to paragraph 111(1)(a).
+Respondent's position
+[10] Reference was made by counsel for the Respondent to the following provisions of the Income Tax Act relevant to the issue before the Court:
+39(1) For the purposes of this Act,
+(a) ...
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom the taxpayer was dealing at arm's length
+of any property that is ...
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm's length) that is
+(A) a small business corporation,
+(B) a bankrupt (within the meaning assigned by subsection 128(3)) that was a small business corporation at the time it last became a bankrupt, or
+(C) a corporation referred to in section 6 of the Winding-Up Act that was insolvent (within the meaning of the Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation ...
+50(1) For the purposes of this subdivision, where
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+(b) a share ... of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+(i) the corporation has during the year become a bankrupt (within the meaning of subsection 128(3)),
+(ii) the corporation is a corporation referred to in section 6 of the Winding-up Act that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+(iii) at the end of the year,
+(A) the corporation is insolvent,
+(B) neither the corporation nor a corporation controlled by it carries on business,
+(C) the fair market value of the share is nil, and
+(D) it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+[11] Counsel submitted that with respect to the Appellant's 1999 taxation year, the Appellant did not file an election in his tax return as required by the provisions of subsection 50(1). Accordingly, that section cannot be applied to deem a disposition of a debt for the purposes of claiming an ABIL. Thus, the Minister's position is that in 1999, there had been no disposition of any debt owing to the taxpayer as set out in subparagraphs 39(1)(c)(ii) and 39(1)(c)(iv). Counsel noted that there may have been a disposition of a debt in 1995 and/or 1996,[5] or it may have continued to exist, but there is no evidence whatsoever of a disposition in 1999.
+[12] Counsel further observed that in order to succeed, the Appellant must establish that there was a disposition of a debt to him from a small business corporation. Reference was made to the March 31, 1995 wind-up order,[6] which states, in part, that STI "was not an active business, carrying on business that it was designed to do".
+[13] Reference was further made by counsel to the Notice of Appeal and, in particular, to the appendices regarding the amount of $180,000 claimed by the Appellant as part of his business investment loss. Counsel submitted that the evidence clearly established that these loans were made by Walter T. Soja Inc. and are not the taxpayer's investments, nor can they be claimed by him in his personal capacity.
+[14] The T1 adjustment claimed by the Appellant in the amount of $45,861,[7] was categorized by counsel for the Respondent as non-capital losses of other years. The Respondent's position is that the appeal for the 1999 taxation year is not an appropriate venue for the Appellant to claim what amounts to a determination for the 1996 taxation year, and to ask the Court to allow carry-forward amounts to 1999. Counsel also noted that to the date of this hearing, the 1996 tax year has never been assessed by Revenue Canada since the income tax return had just been filed recently. Counsel submitted that "it is not appropriate at this time for this Court to establish if there is a carry-forward amount, when, in 1996, the income and the expenses have not been determined and it can be said that to know if there is any carry-forward amount to be applicable to, for instance, this taxation year".
+Conclusion
+[15] A business investment loss can only arise if the Appellant establishes that there was a disposition of property that was a debt owing to him by STI. Paragraph 39(1)(c) of the Act refers to two types of disposition but, in my view, it is unnecessary to refer to the disposition set out in subparagraph 39(1)(c)(ii) because it is not applicable. Thus, given the facts of this case, a business investment loss can only arise pursuant to paragraph 39(1)(c) from the disposition of property that is a debt owing to the Appellant by STI. There is equally no dispute that paragraph 50(1)(b) mandates that a taxpayer must elect in his return of income for the year to have that subsection apply. In this case, no such election was made and the Appellant's Notice of Objection and subsequent Notice of Appeal do not, in any sense of the word, constitute notification. Furthermore, I observe that the Appellant did not seek an extension of time for making an election, as he was entitled to do, pursuant to subsection 220(3.2) of the Act. By not making the subsection 50(1) election, the Appellant is precluded from claiming the loss in this taxation year.
+[16] I note as well, that the appeal on this issue would not have succeeded even if the Appellant had not been precluded from claiming the loss, since the Appellant has fallen far short of establishing that a disposition occurred in 1999.
+T1 Adjustment Request
+[17] In addition to the ABIL issue, on May 25, 2006, the Appellant's accountant forwarded the Appellant's personal income tax return for taxation year 1996, along with a T1 Adjustment Request for taxation year 1999, dated May 18, 2006. In the latter, the adjustment details are described as non-capital losses of other years in the amount of $45,861.
+[18] Counsel for the Respondent did not object to the introduction of these documents, but observed that the reference to the non-capital losses of other years is in respect of a loss determination made for the 1996 taxation year, and that the Appellant is asking this Court to allow the carry-forward amounts to the taxation year before the Court. Counsel noted that the 1996 taxation year had not been assessed to the date of the trial as the income tax returns had just been filed. Furthermore, he indicated that if there is an assessment, and if any losses are allowed, those would be attributed first to 1996, and then carry-forward amounts would "trickle down by the operation of the law". I agree with the Respondent's position that this Court is not an appropriate venue at this time to determine if there is a carry-forward amount when, in 1996, the income and the expenses have not been determined, and there is no way of knowing if any carry-forward amount in fact exists.
+[19] For the foregoing reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 26th day of January, 2007.
+"A.A. Sarchuk"
+Sarchuk D.J.
+CITATION: 2007TCC61
+COURT FILE NO.: 2003-140(IT)G
+STYLE OF CAUSE: WALTER T. SOJA AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 28, 2006
+REASONS FOR JUDGMENT BY: Justice A.A. Sarchuk
+DATE OF JUDGMENT: January 26, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant and his children owned 75% and 25% of Soja Inc., respectively.
+[2] In his Notice of Objection and during the course of his testimony, the Appellant referred to this as an investment by W. Soja, personally. That is contradicted by the evidence and ultimately, the Appellant conceded that it was what he described as "my personal loan through the company, through Walter J. Soja and Company".
+[3] Exhibit A-3, Tab 9.
+[4] The Appellant's testimony was that STI opted not to pay the applicable $50,000 in fines and of its own will, ceased active operations.
+[5] The Appellant had not filed returns for those years.
+[6] Exhibit A-7.
+[7] Exhibit A-10.

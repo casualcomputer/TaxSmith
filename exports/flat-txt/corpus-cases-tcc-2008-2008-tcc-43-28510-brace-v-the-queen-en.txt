@@ -1,0 +1,193 @@
+Title: Brace v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28510/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-43-28510-brace-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-02-25
+
+# Brace v. The Queen
+
+- Citation: 2008 TCC 43
+- Decision date: 2008-02-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1239, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brace v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-25
+Neutral citation
+2008 TCC 43
+File numbers
+2003-3069(GST)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-3069(GST)G
+BETWEEN:
+DAVID L. BRACE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on 6, 7 and 8 December 2006,
+at St. John's, Newfoundland.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John P. Bodurtha and Martin Hickey
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, the notice of which is dated November 29, 2000, is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of February 2008.
+“François Angers”
+Angers J.
+Citation: 2008TCC43
+Date: 20080225
+Docket: 2003-3069(GST)G
+BETWEEN:
+DAVID L. BRACE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant was assessed on November 29, 2000, by the Minister of National Revenue (“the Minister”) under the provisions of section 323 of the Excise Tax Act (“the Act”) for failure by National Fabric and Carpet Care Limited (“National Fabric”) to remit net tax, interest and penalties in the amount of $43,079.27 under the Act. The appellant filed a Notice of Objection on February 27, 2001 and the Minister confirmed the assessment on May 6, 2003, on the basis that the appellant, as a director of National Fabric failed to exercise the requisite degree of care, diligence and skill in that he did not take positive action to prevent the failure to remit the applicable net tax.
+[2] On June 30, 2000, a certificate for National Fabric’s net tax liability was registered in the Federal Court of Canada and, on November 15, 2000, the execution relating to the said certificate was returned to the Minister unsatisfied.
+[3] The appellant submits that at the time of any failure of National Fabric to remit net tax, he was not a director of that corporation. He further submits that, if he was, the assessment was made more than two years after he ceased to be a director. In the alternative, the appellant submits that he did exercise the degree of care, diligence and skill to prevent the failure of National Fabric to remit that a reasonably prudent person would have exercised in comparable circumstances. The appellant submits that National Fabric did not fail to remit its net tax in a timely fashion.
+[4] The respondent submits that National Fabric did fail to remit its net tax, that the appellant was at all relevant times a director of National Fabric for the purposes of subsection 323(1) of the Act, namely, a de jure or a de facto director ­ and as such failed to exercise the degree of care, diligence and skill contemplated in subsection 323(3) of the Act.
+[5] National Fabric was incorporated on May 17, 1988, under the Corporations Act of Newfoundland. Its articles of incorporation provide for only one director, and that director was the appellant (Exhibit R-4, Tabs 1, 2 and 3). The appellant, on the other hand, produced a Memorandum of Agreement signed on February 13, 1989, which indicates that five individuals, including the appellant, agreed to incorporate National Fabric under the Corporations Act of Newfoundland as a company with 100 no‑par‑value shares. A schedule attached to that memorandum contains minutes of a meeting of the provisional directors of National Fabric to be held on December 10, 1988, at which the minutes of the incorporators’ meeting, the corporate seal and the form of share certificates were to be adopted and other preliminary matters were to be dealt with. That notice was signed by the same five individuals as directors of National Fabric. Contrary to the May 17, 1988 incorporating documents that carry the Registry of Companies stamp, the Memorandum of Agreement submitted by the appellant does not.
+[6] The appellant testified that at the time of incorporation, although three persons were needed, the five referred to above actually incorporated National Fabric. He does not remember why he decided to incorporate. The appellant is obviously wrong in his belief regarding the number of persons required, for at the time National Fabric was incorporated, the three persons requirement had been abrogated.
+[7] National Fabric was in the business of cleaning movie theatres and its activities extended beyond Newfoundland. It was therefore necessary that a lot of travelling be done by him, and by his wife until she became pregnant and gave birth to a son in 1990.
+[8] On February 25, 1991, National Fabric registered under Part IX of the Act for goods and services/harmonized sales tax (GST/HST) purposes, submitting the appropriate form, which was signed by the appellant as director. National Fabric filed its returns on a quarterly basis.
+[9] National Fabric's annual return for 1989 was filed on January 16, 1990 with the Registry of Companies. It was signed by the appellant on January 11, 1990 and indicates that there had been no change of directors. Similar returns were filed and registered for 1990, 1991 and 1992, all signed by the appellant and indicating no change of directors.
+[10] On March 25, 1993, articles of amendment were filed with the Registry of Companies and a Notice of Directors was also filed. The articles of amendment showed a change of address for National Fabric from the P. O. Box number it had had to 98 Kenmount Road and a new P.O Box number, while the Notice of Directors indicated a change of directors from David Brace, the appellant, to Harry Maxwell Brace, his father. Both documents were signed by one Douglas Harvey as solicitor for the company.
+[11] Two months later, on May 11, 1993, a notice of change of registered office dated May 3, 1993 was filed with the Registry of Companies. It was signed by the appellant as president of National Fabric and shows the same P. O. Box number as that of the new office, registered on March 25.
+[12] The appellant admits that his father was never elected as director of National Fabric nor did he ever act in that capacity notwithstanding the documents signed by Douglas Harvey that were filed with the Registry of Companies. On January 24, 1994, the appellant signed and filed National Fabric’s annual return for 1993, indicating that there had been no change in directors and giving the registered address as P. O. Box 919, that is, the address used prior to the changes filed in March and May 1993.
+[13] The appellant experienced family-related problems after the birth of his son and it became difficult to reconcile his many absences with the need to be at home. His wife left him in February 1994 and they later divorced in April of the same year. The appellant testified that he still had to be away for long periods of time and that this interfered with his visiting rights. He wanted to reduce his travelling. He discussed these things with his lawyer friend, Douglas Harvey, who suggested that he himself could buy National Fabric and have the appellant continue to be in charge. The appellant would thus be responsible for getting the work done but would not have to do it alone. Instead of being gone for months at a time, it would be weeks. The arrangement was that he would be paid $12 per hour and receive bonuses if gross sales exceeded $100,000.
+[14] The appellant would have sold National Fabric to Douglas Harvey around 1994. He cannot find the agreement of purchase and sale he said he signed at the time or the five-year non-competition agreement he signed. His understanding is that he sold his shares in National Fabric and he says he did not buy out the other shareholders, for according to the appellant they never assumed that they were entitled to anything.
+[15] The purchase price was $50,000 and it was to be paid five years later. Douglas Harvey never made the payment. According to the appellant, the whole deal was done over multiple cups of coffee as Mr. Harvey was a good friend of his. He testified that he became the boss after the sale and recalled having signed something like a bill of sale with respect to the sale of National Fabric to Douglas Harvey.
+[16] The appellant also testified that after the sale to Douglas Harvey, his work was hands‑on, but he said he was not expected to do everything. The plan was to train new employees so that they could do the work on the mainland and allow him to return home more often. It was not long, according to the appellant, before complaints started coming in. Douglas Harvey was giving little attention to the business and the appellant was worried that he might not get his purchase price when it became due. As far as the quarterly HST returns were concerned, he would organize the receipts and other necessary documents and submit them to National Fabric’s accountant, Kenneth Snow, so that he could prepare the returns.
+[17] The appellant never informed his clients that he had sold National Fabric to Douglas Harvey. His clients continued to associate National Fabric with him and vice versa. Despite that and notwithstanding the fact that he had signed a non-competition agreement, the appellant says that he decided to leave National Fabric in the summer of 1997 and began informing his clients that he had sold National Fabric back in 1991 and that he was now going to start his own business.
+[18] The appellant did not share his intentions with Douglas Harvey. He used an old company that he had had since he was 18, namely DL Brace Ltd., to operate his new venture. According to the evidence, from March 1998 to August 2003, DL Brace Ltd. had cleaning contracts with Famous Players whose value was $30,926.41.
+[19] During all that time and after starting out on his own in 1997, the appellant kept doing work for National Fabric and continued giving the necessary documents to Kenneth Snow for the preparation of the quarterly HST returns. The appellant continued to be the only signing officer for National Fabric.
+[20] The evidence on cross-examination of the appellant revealed the extent of his participation in the operations of National Fabric ­ and, more particularly, how the appellant held himself out, as to his role and title, beyond the date of that company’s sale to Douglas Harvey. For example, on December 15, 1994, the appellant signed National Fabric’s annual return for 1994. The form indicates that there was no change of directors despite the sale to Douglas Harvey, and the appellant justifies his signing of the document by saying that he was the owner of the business for the first three months of 1994. Asked why he continued signing annual returns for National Fabric after the sale, the appellant stated that he did not. Yet, on March 23, 1996, he again signed National Fabric’s annual return, for the year ending December 31, 1995, and again it was indicated that no change in directors had occurred. His answer to that was that National Fabric's accountant, Kenneth Snow, must have asked him to sign it.
+[21] On August 24, 1995, the appellant signed National Fabric’s tax return as director of that company. Attached to the return are National Fabric’s financial statements as of March 31, 1994. They were prepared by Management Accounting Services Ltd., the corporation for which Kenneth Snow was working. The appellant justifies his signature as director by the fact that the return covers the period when he owned National Fabric. The financial statements indicate a net income of $7,364 for 1993 and a net loss of $17,629 for 1994.
+[22] The appellant also signed National Fabric’s tax return for the period from April 1, 1996 to March 31, 1997, on November 26, 1999, again as director of the company. His explanation was that the typewritten word "director" was not on the return when he signed it. The financial statements for National Fabric as of March 31, 1997 were prepared by the same firm but not signed. They indicate a net loss of $35,340 for 1996 and of $24,212 for 1997.
+[23] National Fabric made a commercial credit application with Kent Building Supplies on November 1, 1998. The application is signed by the appellant as president of National Fabric. His father Harry is identified as vice-president and the accountant, Kenneth Snow, is identified as secretary‑treasurer. The purpose of the application was to purchase an $18,000 to $20,000 lawn tractor. The appellant denied having signed the application but says he did fill in the information. He believes Douglas Harvey signed his name after he refused to sign. Attached to the application are financial statements of National Fabric as of March 31, 1997 and March 31, 1998. They were ostensibly prepared by Management Accounting Inc., a name similar to the accounting firm referred to earlier, except that the signature read D. Lewis Brace. Lewis is the appellant’s middle name. The appellant says it is not his signature. These two financial statements show a net income of $41,305 for National Fabric for 1996 as opposed to the other financial statements, which indicated a net loss of $35,340 for the same year. For 1997, the financial statements accompanying the credit application show a net profit of $36,604, as opposed to the net loss of $24,212 indicated for the same year in the financial statements attached to the tax return. Revenues also differ. The financial statements attached to the tax return show revenues of $22,679 for 1996 and $21,488 for 1997. Those attached to the credit application show revenues of $137,690 for 1996 and $148,672 for 1997.
+[24] Furthermore, the appellant never received any bonuses even though the financial statements with the credit application indicate revenues above $100,000 for 1996 and 1997, which was contrary to his deal with Douglas Harvey, at the time of the sale of National Fabric, that he would receive a bonus if gross sales exceeded $100,000.
+[25] Prior to the credit application with Kent Building Supplies in November 1998, other transactions took place in 1998. On May 1, 1998, National Fabric sold certain assets to DL Brace Ltd. for $65,193.50. The unsigned invoice indicates that the price of the assets was payable on sale. According to the appellant, his company bought these assets because he, the appellant, was trying to get some money back, as Douglas Harvey owed him salary and travel expenses. The appellant admits, however, that some of the assets described on the invoice were not sold.
+[26] On May 6, 1998, the appellant signed an affidavit before Goldie Trowbridge, a commissioner of oaths and also Douglas Harvey’s secretary. In that affidavit, the appellant swears that he is the owner and director of National Fabric. The affidavit is signed to complete an indenture of conveyance from Codey Holdings to National Fabric. Codey Holdings belongs to the appellant. The appellant admits having signed the affidavit but says it is incorrect as it should have been signed by the vendor. According to the appellant, National Fabric was to purchase a house owned by his company for $70,000 but the deal did not go through. He says he did not read the affidavit and relied on Douglas Harvey to do the legal work. There was no written agreement pertaining to that sale either.
+[27] On May 7, 1998, National Fabric sold a minivan to DL Brace Ltd. for $25,000 plus HST. Asked if Douglas Harvey had agreed to this sale, the appellant replied that Douglas Harvey never thought the vehicle to be his.
+[28] On July 26, 1998 and October 31, 1998, the appellant signed HST returns on behalf of National Fabric and he admits he had done so ever since the sale of that company to Douglas Harvey.
+[29] On August 13, 1998, the appellant bought generators on behalf of National Fabric, and it was he who signed the two bills of sale.
+[30] On August 14, 1998, DL Brace Ltd. sold equipment to National Fabric. The purchase was financed through the Newcourt Credit Group. The appellant signed the financing contract on behalf of both National Fabric and DL Brace Ltd. as president of both companies. He signed the delivery and acceptance certificate on behalf of National Fabric in that same capacity. He also signed on behalf of National Fabric the cheque issued to Newcourt. Questioned on this transaction, he said he did not care as all he wanted was more money out of National Fabric.
+[31] The final document signed by the appellant as director of National Fabric is the income tax return for that company signed on November 26, 1999, referred to earlier. The appellant admitted doing certain things for National Fabric in 1999 but did not elaborate. The appellant also testified that he never received any pay stubs nor does he know if he ever received a T4 slip. As for the other employees of National Fabric, he said that they were mostly paid in cash.
+[32] Douglas Harvey also testified at the hearing of this appeal. In addition to his testimony, two affidavits sworn and signed by him on October 22, 2004 in Toronto were introduced in evidence. Although both affidavits were signed in Toronto on the same date, they were sworn before different lawyers. Mr. Harvey did not remember, but he said he may have sworn both and added that he may not have read them. He does not know who drafted the affidavits.
+[33] Mr. Harvey practised law in Newfoundland until he left for the mainland in March 2004. Custodianship of his files was ordered by the Superior Court of Newfoundland after he failed to inform the Law Society of Newfoundland of his departure and failed to co‑operate with the Society in closing down his practice. No files pertaining to National Fabric were found by the custodian.
+[34] According to one of the affidavits and the testimony of Mr. Harvey, he would have purchased National Fabric and its assets in the spring of 1994. The agreement was concluded over coffee at a time when the appellant was having family problems and stood to lose the business. The purchase price was $50,000 payable five years later. The appellant was to be paid $12 an hour for his services, as well as a bonus of 10% of gross revenues above $100,000. Kenneth Snow was the accountant for both National Fabric and Douglas Harvey's law firm. He did the year‑end work for National Fabric.
+[35] Mr. Harvey does not recall whether he did the paperwork for the transaction. He has no copies of any documents whatsoever, but believes an agreement of purchase and sale exists. He does not have in his possession any corporate documents relating to National Fabric. He did not review National Fabric's financial statements before he bought that company and did not hold any board of directors meetings with respect to the transaction, nor, for that matter, was any held even after the purchase. The appellant kept on running the business, did the work and gave instructions to the employees. Douglas Harvey never signed any cheques for National Fabric after the purchase and he testified that National Fabric's bank account was with the Bank of Montreal. Yet, the cheques produced as evidence were all drawn on an account with the Bank of Nova Scotia.
+[36] The aspects of Mr. Harvey’s testimony that is the most revealing is the number of questions that he was unable to answer. "I don’t remember" and "I don’t know" quickly became his favourite answers. For example, Mr. Harvey did not remember or did not know the following:
+1. if he was a director of National Fabric or if there were other directors;
+2. if he signed a contract for the purchase of National Fabric;
+3. if there are any documents saying he is a director of National Fabric;
+4. who was paying Kenneth Snow;
+5. if he had signing authority for National Fabric;
+6. if he was a shareholder of National Fabric or if there were others shareholders;
+7. if National Fabric was in good standing with the Registry of Companies of Newfoundland before he bought that company;
+8. if he himself filed on behalf of National Fabric, the quarterly HST returns, or who actually filed them;
+9. if he paid a bonus to the appellant at any time or if National Fabric’s revenues ever exceeded $100,000;
+10. if the appellant remained a director after the purchase of National Fabric;
+11. National Fabric’s fiscal year‑end;
+12. who was responsible for filing National Fabric's tax returns;
+13. that the appellant had signed National Fabric’s tax returns;
+14. telling the appellant he could sign as director;
+15. that the appellant had signed the quarterly HST returns or that he was authorized to do so;
+16. that National Fabric had submitted to Kent Building Supplies a credit application with respect to the purchase of a lawn tractor, and that this application was signed by the appellant as president of National Fabric and was accompanied by a different set of financial statements;
+17. that National Fabric had bought equipment from DL Brace Ltd. and that the purchase was financed through Newcourt Financial Services;
+18. that National Fabric had sold the minivan to DL Brace Ltd.;
+19. that the appellant remitted to the Canada Revenue Agency payroll deductions for National Fabric in July 2000;
+20. what National Fabric’s net revenues or losses were.
+[37] Mr. Harvey never paid the $50,000 purchase price for National Fabric. He is thus not sure if National Fabric's assets are his. On the other hand, he believes he is responsible for remitting the taxes because this is what the law says, yet he does not remember if he filed quarterly HST returns on behalf of National Fabric.
+[38] Douglas Harvey made an assignment in bankruptcy in August 2006. In his statement of affairs, no assets are described that are connected with National Fabric and the appellant is not listed as a creditor in relation to the $50,000 owed him by Mr. Harvey.
+[39] Be that as it may, the appellant has the burden of proof and must, on a balance of probabilities, satisfy this Court that at all relevant times, he was not a director, either de jure or de facto, of National Fabric and that, accordingly, he is not liable for National Fabric’s failure to make proper remittances of HST.
+[40] Subsection 323(1) of the Act reads as follows:
+323.(1) Liability of directors ‑ If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are solidarity jointly and severally, or, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+[41] The term “director” is not defined in the Excise Tax Act and the courts have consistently turned to the legislation under which a corporation was incorporated for guidance (see The Queen v. Kalef, 96 DTC 6132). “Director” is defined in Newfoundland’s Corporations Act, R.S.N.L. 1990, c. C-36, as follows:
+2. Definitions – In this Act . . .
+(1) “director” in relation to a body corporate means a person occupying in a body corporate the position of director by whatever name that person is called and “directors” and “board of directors” include a single director,
+. . .
+167. Duty to manage – Subject to a unanimous shareholder agreement, the directors of a corporation shall
+(a) exercise the powers of the corporation directly or indirectly through the employees and agents of the corporation; and
+(b) direct the management of the business and affairs of the corporation.
+[42] In order to cease to be a director for the purposes of the charging provision in the Act, a director must leave office in accordance with the Corporations Act, which requires the following:
+177. Directors leave office – A director of a corporation stops holding office when
+(a) the director dies or resigns;
+(b) the director is removed in accordance with section 179; or
+(c) the director becomes disqualified under section 172.
+[43] The relevant provisions with regard to the above provide the following:
+178. Resignation of director ‑ A resignation of a director becomes effective at the time a written resignation is sent to the corporation, or at the time specified in the resignation, whichever is later.
+179. Removal of directors, etc – (1) The shareholders of a corporation may by ordinary resolution at a special meeting remove directors from office.
+(2) Where the holders of a class or series of shares of a corporation have an exclusive right to elect 1 or more directors, a director so elected may only be removed by an ordinary resolution at a meeting of the shareholders of that class or series.
+(3) A vacancy created by the removal of a director may be filled at the meeting of the shareholders at which the director is removed, or if not so filled, may be filled under section 181.
+172. Persons disqualified as directors – The following persons are disqualified from being a director of a corporation, a person who
+(a) is less than 19 years of age;
+(b) is mentally incompetent and has been so found by a court in Canada or elsewhere;
+(c) is not an individual; and
+(d) has the status of a bankrupt.
+[44] The Corporations Act also requires a change of directors to be registered with the Registry of Companies.
+183. Notice of change of directors – (1) Within 15 days after a change is made among its directors, a corporation shall send to the registrar a notice in the prescribed form setting out the change and the registrar shall file the notice.
+[45] The incorporating documents for National Fabric submitted by the appellant are dated February 13, 1989, but it is definitely the documents incorporating National Fabric and identifying the appellant as the incorporator that were filed with the Registry of Companies for Newfoundland on May 17, 1988, that are the official and most reliable documents, and they include the notice of directors filed at the same time identifying the appellant as the only director of National Fabric.
+[46] The only official change in directors that was filed with the Registry of Companies is from March 1993 whereby the appellant is replaced by his father, Harry Brace. The respondent in her reply to the notice of appeal states that Harry Brace denied that he was a director of National Fabric and was properly elected as such, and the appellant agreed with those statements. It would seem fair to conclude that Harry Brace was never a director of National Fabric.
+[47] There is no evidence that the appellant ever resigned, either in writing or otherwise, was removed, or became disqualified as a director under the provisions of the Corporations Act. The primary and only submission of the appellant is, therefore, that he sold National Fabric to Douglas Harvey in 1994 and from then on ceased to be a director de jure, and alternatively, de facto, of National Fabric.
+[48] The difficulty with the appellant’s primary submission is that it is founded on what I would qualify as the least reliable form of evidence possible. In my opinion, it is a story fabricated for the occasion and could potentially have been changed if circumstances so warranted. The appellant's and Douglas Harvey's evidence makes it impossible for this court to determine if a sale of National Fabric did actually occur and if the appellant ceased being a director of National Fabric.
+[49] The sale of National Fabric is not documented. It was done over coffee to help the appellant with his family problems, as he was about to lose his business, in a divorce context. The purchase price was payable five years later and no notes were produced, no payments made and no follow-up done. No one knows if it was the assets that were purchased or the shares. Douglas Harvey is a lawyer who represented himself, as purchaser, who also represented the vendor, and who was National Fabric’s lawyer at the same time. National Fabric and Douglas Harvey had the same accountant. Everything remained the same after the deal. The appellant ran the business, as before, signed the cheques, handled the purchases and sales of assets, and openly held himself out as director or president of National Fabric, as he pleased. He signed the quarterly HST returns, made a credit application with false financial statements and borrowed money. He signed National Fabric's income tax returns up to November 1999.
+[50] At all these relevant times, Douglas Harvey, the alleged owner, did not know anything, and does not now remember anything, about the affairs of National Fabric after he allegedly bought the business. His demeanour on the stand and the vagueness of his answers were clearly indicative of his indifference as to whether he was telling the truth or not and he did not seem to care.
+[51] The appellant was equally vague, and his explanations regarding the use of the titles of director or president for the numerous transactions he orchestrated for National Fabric after the alleged sale are equally unreliable. He never told any of his clients about the sale and never attempted to collect the sale price or his bonus money.
+[52] The appellant and Mr. Harvey, in my opinion, belong to the same category of individuals. They do not hesitate to bend the rules nor do they care as long as they get what they want. When one chooses to operate in that fashion, one must live with the consequences. In my opinion, the appellant has not succeeded in establishing on a balance of probabilities that he ceased at any point in time to be a director, either de jure or de facto of National Fabric.
+[53] Having concluded that the appellant was a director, I turn to the second question raised by the appellant, that is, whether the assessment was issued beyond the statutory time limit. Subsection 323(5) of the Act bars an assessment issued more than two years after the person ceases to be a director. It reads as follows:
+323 (5) Time limit ‑ An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+[54] The assessment is dated November 29, 2000. In view of my conclusion that the appellant was a director at all material times, the assessment is not barred. Even if the appellant was a de facto director only, the evidence nonetheless clearly indicates that he was still holding himself out as a director on November 26, 1999, when he signed the certification on National Fabric’s income tax return. If he was a de jure director, there is no evidence indicating that he actually did anything to resign or quit as director and the assessment would still not be statute-barred.
+[55] The final question is whether the appellant exercised the degree of care, diligence and skill to prevent the failure to remit that a reasonably prudent person would have exercised in comparable circumstances as required by the provisions of subsection 323(3) of the Act.
+[56] The case most often quoted for assistance in answering this question is Soper v. R., [1997] 3 C.T.C. 242 (F.C.A.), which sets out an objective-subjective standard of care as follows:
+37 . . . The standard of care laid down in subsection 227.1(3) of the Act is inherently flexible. Rather than treating directors as a homogeneous group of professionals whose conduct is governed by a single, unchanging standard, that provision embraces a subjective element which takes into account the personal knowledge and background of the director, as well as his or her corporate circumstances in the form of, inter alia, the company's organization, resources, customs and conduct. Thus, for example, more is expected of individuals with superior qualifications (e.g. experienced business-persons).
+38 The standard of care set out in subsection 227.1(3) of the Act is, therefore, not purely objective. Nor is it purely subjective. It is not enough for a director to say he or she did his or her best, for that is an invocation of the purely subjective standard. Equally clear is that honesty is not enough. However, the standard is not a professional one. Nor is it the negligence law standard that governs these cases. Rather, the Act contains both objective elements embodied in the reasonable person language and subjective elements inherent in individual considerations like "skill" and the idea of "comparable circumstances". Accordingly, the standard can be properly described as "objective subjective".
+[57] The appellant argues that having never believed himself to be a director after the alleged sale to Douglas Harvey, it was not expected, from National Fabric’s point of view, that he would have had any power or control over the actions of that company or that he would have had a sense of duty or obligation with regard to National Fabric. With respect, I cannot accept this argument given the fact that the appellant never shied away from acting and holding himself out as a director when it suited his purpose. The numerous transactions he orchestrated between National Fabric and DL Brace Ltd. in order to get money out of National Fabric were indicative that he exercised all the control he needed to run National Fabric and deplete its assets if need be.
+[58] For the most part, the appellant argued that he did the best he could as a mere employee of National Fabric with little education (Grade 11) and no control over National Fabric's affairs, or over Douglas Harvey after the sale. He also submitted that he had no knowledge of any problem in National Fabric’s tax affairs until 2000.
+[59] The respondent, on the other hand, submitted that the appellant was the sole director of National Fabric, and had sole responsibility for the day-to-day operations of National Fabric including the preparation and review of income tax returns and quarterly HST returns. Thus, there is a heavy onus on the appellant to establish that he did, in fact, take positive steps to prevent the failure to remit the tax.
+[60] The evidence before me is, in my opinion, insufficient to allow me to conclude that the appellant acted as a reasonably prudent person would have done to prevent the failure. The appellant’s version of the facts and his arguments are confusing and contradictory to say the least. The circumstances of this case in their entirety leave too many questions unanswered for it to be possible to make, on a balance of probabilities, a finding in favour of the appellant. One thing is certain, however, and that is, that he could do what he wanted, whenever he wanted, with National Fabric as he had full control of the company at all times. Douglas Harvey, his friend and neighbour, knew nothing. That, it seems to me, would have been highly unlikely, had Mr. Harvey been the real owner of National Fabric.
+[61] The final issue is the accuracy of the assessment. While the appellant has the right to challenge the underlying assessment (see Gaucher v. Canada., [2000] F.C.J. No. 1869 (QL) (FCA)), he submitted no evidence on the basis of which I can rule on its accuracy. It shall therefore remain as is.
+[62] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 25th day of February 2008.
+“François Angers”
+Angers J.
+CITATION: 2008TCC43
+COURT FILE NO.: 2003-3069(GST)G
+STYLE OF CAUSE: David L. Brace v. Her Majesty the Queen
+PLACE OF HEARING: St. John's, Newfoundland
+DATE OF HEARING: 6, 7 and 8 December 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: February 25, 2008
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John P. Bodurtha and Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

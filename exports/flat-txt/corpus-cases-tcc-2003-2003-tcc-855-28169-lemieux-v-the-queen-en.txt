@@ -1,0 +1,67 @@
+Title: Lemieux v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28169/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-855-28169-lemieux-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-15
+
+# Lemieux v. The Queen
+
+- Citation: 2003 TCC 855
+- Decision date: 2003-12-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2015, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lemieux v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-15
+Neutral citation
+2003 TCC 855
+File numbers
+2003-2678(IT)APP
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC855
+Date: 200312
+Docket: 2003-2678(IT)APP
+BETWEEN:
+CLAUDE LEMIEUX,
+Applicant,
+and
+HER MAJESTY THE QUEEN
+Respondent,
+AND
+2003-2679(IT)APP
+3242978 CANADA INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on October 17, 2003, at Montréal, Quebec and revised at Ottawa, Canada, on December 9, 2003.)
+Paris, J.
+[1] These reasons apply to two proceedings, Claude Lemieux v. The Queen (2003-2678(IT)APP) and 3242978 Canada Inc. v. The Queen (2003‑2679(IT)APP). The Applicants request an order extending the deadline for filing a Notice of Objection to the assessment under the Income Tax Act (the "Act") for the 1998 and 1999 taxation years.
+[2] The Applicant, Claude Lemieux, represented the Applicant 3242978 Canada Inc. Evidence shows that on March 13, 2003, the Applicants each submitted to the Minister of National Revenue (the "Minister") an application for an extension of the deadline for filing a Notice of Objection to an assessment for the 1998 taxation year. In a letter dated April 15, 2003, the Minister refused to grant the extension to both Applicants. Afterwards, on July 22, 2003, the Applicants submitted applications for deadline extensions.
+[3] The Agent for the Respondent maintains that the Court does not have jurisdiction to extend the deadline because the application from the two Applicants was not made within the ninety days following the Minister's refusal sent on April 15, 2003. The Applicant, Claude Lemieux, claims that he was not aware of the deadline for making these applications to the Court and that he would have done so on time had he known.
+[4] However, the text of the Act is clear: subsection 166.2(1) provides that an application for an extension for filing a Notice of Objection cannot be submitted after the ninety-day deadline following the date of the Minister's decision dismissing the first application. It is unfortunate that the Applicants made their application only a week after the deadline but there is nothing in the Act that enables the Court to extend this deadline.
+[5] With regard to the 1999 taxation year, the Applicant, 3242978 Canada Inc., did not submit an application for a deadline extension for filing a Notice of Objection until August 22, 2003. The Minister has not yet replied to this request and the ninety‑day period he has to reply under subsection 166.2(1) of the Act has not yet passed. There again, because the submission of the Applicant, 3242978 Canada Inc. is premature, it does not meet the conditions of subsection 166.2(1) of the Act. The Applicant could, however, submit a similar application for 1999 after November 20, 2003, if the Minister has not yet replied at that time. If there is a reply from the Minister dismissing the application, the Applicant will have ninety days following this response to submit an application for an extension to the Court.
+[6] Finally, with regard to the application by the Applicant, Claude Lemieux, for the 1999 taxation year, there is no evidence that he applied to the Minister for an extension of the deadline for filing a Notice of Objection for that year.
+[7] Although the Applicant, Claude Lemieux, testified that he had always intended to apply for an extension for both the 1998 and 1999 taxation years, his application to the Minister (Exhibit R-10) only refers to 1998. I do not agree that Exhibit R-10 is an application for an extension for the 1999 taxation years. For this reason, the application of the Applicant, Claude Lemieux, for the 1999 taxation year cannot be allowed.
+[8] However, according to the Agent for the Respondent, the first assessment for Applicant Claude Lemieux’s 1999 taxation year was not made until April 2003, which means that he can still apply to the Minister for a deadline extension for filing a Notice of Objection for 1999.
+[9] As was the Applicant's case in Rice v. Canada, [1999] T.C.J. No. 496 (decision of my colleague, Rip, J.), Mr. Lemieux's circumstances for 1999 to 2001 are very sad and his efforts to get back on track are laudable. But this Court's jurisdiction for granting deadline extensions for filing a Notice of Objection were very clearly circumscribed by Parliament at section 166.2 of the Act. It is with regret that I must dismiss both Applicants' application for 1998 and 1999.
+Signed at Ottawa, Canada, this 15th day of December 2003.
+"B. Paris"
+Paris, J.
+Translation certified true
+on this 20th day of April 2004.
+Sharon Moren, Translator

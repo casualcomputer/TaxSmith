@@ -1,0 +1,108 @@
+Title: Ampratwum-Duah v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/460678/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-18-460678-ampratwum-duah-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-01-30
+
+# Ampratwum-Duah v. The Queen
+
+- Citation: 2020 TCC 18
+- Decision date: 2020-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4267, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ampratwum-Duah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-01-30
+Neutral citation
+2020 TCC 18
+File numbers
+2018-516(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-516(IT)I
+BETWEEN:
+AUGUSTINE AMPRATWUM-DUAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 25, 2019, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+Nii Odoi Yemoh
+Counsel for the Respondent:
+Sophie DeViller
+JUDGMENT
+The appeal of the three reassessments each raised December 29, 2017 pursuant to the federal Income Tax Act pertaining respectively to the Appellant’s 2005, 2006 and 2007 taxation years is dismissed, without costs.
+Signed at Ottawa, Canada, this 30th day of January 2020.
+“B.Russell”
+Russell J.
+Citation: 2020TCC18
+Date: 20200130
+Docket: 2018-516(IT)I
+BETWEEN:
+AUGUSTINE AMPRATWUM-DUAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+[1] Rev. Augustine Ampratwum-Duah, the Appellant, appeals three reassessments concurrently raised December 29, 2017 pursuant to the federal Income Tax Act (ITA) respecting his 2005, 2006 and 2007 taxation years. Specifically, the appeal pertains to denial of claimed charitable donations for those years. The initial assessments had been concurrently raised August 9, 2010, and were objected to March 30, 2011.
+[2] In summary, the Appellant testified at the hearing as follows. He made charitable deductions, in the total amounts of $3,550, $9,120 and $6,346 for his 2005, 2006 and 2007 taxation years respectively. These donations were made to the then recognized charity named, “City Chapel Ministries International” (CCMI), located at 2300 Finch Avenue West, Units 54 & 55, Weston, Ontario. At all material times the Appellant was CCMI’s religious leader. Three documents identified as donation receipts were put in evidence - one for each year - for the subject donation amounts. Each was signed by the Appellant in his capacity as CCMI’s religious leader, this being the procedure followed for issuance of all CCMI donation receipts.
+[3] No corroborating evidence such as bank account or church records were submitted in evidence. Nor were any other CCMI officials, such as the then Treasurer, called to testify. The Appellant said there were no such records available because the donations in question had been made well more than six years earlier. Respondent’s counsel’s cross-examination of the Appellant made no particular inroads.
+[4] In argument the Appellant’s representative submitted that the Appellant was very credible, his receipts constituted sufficient evidence, his income from CCMI was sufficient to support the totals of the claimed donated amounts, and too many years had passed to now be able to obtain bank records. Respondent’s counsel submitted that no gift had been made, the Appellant had access as religious leader to CCMI records and he had signed his own donation receipt. Section 230 of the ITA was cited as requiring availability of corroborating books and records that could be entered as evidence. Also cited was purportedly inadequate textual content of the receipts themselves.
+[5] In considering this matter it is necessary to refer to subsections 230(1), (4) and (6) of the ITA, as follow:
+230(1) Every person carrying on business and every person who is required, by or pursuant to this Act, to pay or collect taxes or other amounts shall keep records and books of account (including an annual inventory kept in prescribed manner) at the person’s place of business or residence in Canada or at such other place as may be designated by the Minister, in such form and containing such information as will enable the taxes payable under this Act or the taxes or other amounts that should have been deducted, withheld or collected to be determined.
+230(4) Every person required by this section to keep records and books of account shall retain
+(a) the records and books of account referred to in this section in respect of which a period is prescribed, together with every account and voucher necessary to verify the information contained therein, for such period as is prescribed; and
+(b) all other records and books of account referred to in this section, together with every account and voucher necessary to verify the information contained therein, until the expiration of six years from the end of the last taxation year to which the records and books of account relate.
+230(6) Where a person required by this section to keep records and books of account serves a notice of objection or where that person is a party to an appeal to the Tax Court of Canada under this Act, that person shall retain every record, book of account, account and voucher necessary for dealing with the objection or appeal until, in the case of the serving of a notice of objection, the time provided by section 169 to appeal has elapsed or, in the case of an appeal, until the appeal is disposed of and any further appeal in respect thereof is disposed of or the time for filing any such further appeal has expired.
+[6] In essence, subsection 230(1) provides that taxpayers are to keep books and records sufficient to determine their tax inabilities; subsection 230(4) provides that such books and records are to be kept for at least six years; and subsection 230(6) requires such books and records to be kept until the expiration of any objection or appeal including expiration of the time for appeal or further appeal of any such objection or appeal.
+[7] In this appeal I find for the Respondent, on the basis that the subsection 230(6) requirement that supporting books and records be retained and available until an appeal has been concluded was not complied with. Corroborating books and records (bank and or CCMI supporting records) were reasonably required in this case, particularly insofar as the sole signatory of the CCMI receipts presented was, reflecting his leadership position with CCMI, the Appellant himself.
+[8] In so concluding I wish to be clear that I have not found that the claimed donations were not made. Simply, I have found that insufficient evidence of the nature contemplated by subsection 230(6) and in any event on a general common sense basis was presented to reasonably support a finding confirming on a balance of probabilities that the subject donations were made.
+[9] Accordingly this informal procedure appeal will be denied, albeit without costs.
+Signed at Ottawa, Canada, this 30th day of January 2020.
+“B.Russell”
+Russell J.
+CITATION:
+2020 TCC 18
+COURT FILE NO.:
+2018-516(IT)I
+STYLE OF CAUSE:
+AUGUSTINE AMPRATWUM-DUAH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 25, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+January 30, 2020
+APPEARANCES:
+Agent for the Appellant:
+Nii Odoi Yemoh
+Counsel for the Respondent:
+Sophie DeViller
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

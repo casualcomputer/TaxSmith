@@ -1,0 +1,113 @@
+Title: Spinazola c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26961/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-457-26961-spinazola-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-11-10
+
+# Spinazola c. M.R.N.
+
+- Citation: 2005 CCI 457
+- Decision date: 2005-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 571, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spinazola c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-10
+Référence neutre
+2005 CCI 457
+Numéro de dossier
+2002-3645(EI)
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2005CCI457
+Date : 20051110
+Dossier : 2002-3645(EI)
+ENTRE :
+GINO SPINAZOLA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Et
+2182373 Nova Scotia Limited s/n Top Wholesale Books,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Halifax (Nouvelle-Écosse), le 28 février 2003)
+Le juge Margeson
+[1] La question dont la Cour est saisie est de savoir si l’appelant a exercé ou non un emploi assurable auprès de l’entité 2182373 Nova Scotia Limited s/n Top Whole Books, le soi-disant payeur, au cours de la période en question, soit la période allant du 20 novembre 2000 au 15 juin 2001.
+[2] Au cours de son témoignage, l’appelant a cité l’arrêt Wiebe Door Services Ltd. c. Canada, [1986] 3 C.F. 553, et je puis simplement souligner qu’il s’agit d’un arrêt clé sur la question de savoir si une personne est engagée en vertu d’un contrat de louage de services, auquel cas elle est un employé, ou en vertu d’un contrat d’entreprise, auquel cas elle est un entrepreneur indépendant. L’appelant a raison de dire que les faits examinés dans l’affaire Wiebe Door sont différents de ceux de la présente affaire.
+[3] Il n’est pas nécessaire que la Cour définisse la nature de la relation. La tâche de la Cour se limite à décider si l’appelant était ou non un employé. Dans la présente affaire, il s’agit simplement de savoir s’il était un employé ou un entrepreneur indépendant.
+[4] Bien entendu, dans une affaire de cette nature, la crédibilité est toujours en litige et la Cour est parfois appelée à choisir entre le témoignage d’une personne et celui d’une autre. Peu de contradictions ont été relevées dans la preuve présentée en l’espèce, sauf en ce qui concerne une question précise, soit la question de savoir ce que l’appelant s’est fait dire par un des dirigeants de la société lorsqu’il a communiqué avec lui, au mois de novembre de l’année en cause, pour obtenir du travail.
+[5] Selon l’appelant, M. Tallon lui a dit en toutes lettres, ou du moins l’appelant a cru, qu’il serait engagé comme entrepreneur indépendant pour les mois de novembre et décembre et que, à compter de janvier, il serait [TRADUCTION] « inscrit dans les livres ». Cependant, le sens que l’appelant a donné aux propos de M. Tallon et le sens que celui-ci leur a attribué sont deux choses différentes.
+[6] De l’avis de la Cour, l’appelant n’a pas réellement cru que M. Tallon lui a dit qu’il serait considéré comme un entrepreneur indépendant pour les mois de novembre et décembre et qu’il serait ensuite considéré comme un employé. Compte tenu de l’ensemble de la preuve et de la question de la crédibilité, la Cour estime que tout ce que M. Tallon lui a dit en novembre/décembre, c’est qu’il lui donnerait la totalité de la somme à laquelle il avait droit pendant cette période.
+[7] L’appelant éprouvait certaines difficultés financières et peut-être manquait‑il d’argent. M. Tallon lui a dit qu’il ne ferait aucune retenue pour les mois de novembre et décembre. La Cour est convaincue qu’il ne lui a pas dit qu’il serait considéré comme un entrepreneur indépendant seulement pour les mois de novembre et décembre.
+[8] Eu égard à la preuve et aux déductions raisonnables que la Cour peut en tirer, ni M. Tallon non plus qu’une autre personne autorisée ne lui ont fait cette affirmation.
+[9] Aucun contrat n’a été présenté en preuve, mais M. Tallon a fait mention d’une entente qui prévoyait clairement que chaque personne qui la signait agirait comme entrepreneur indépendant. Cependant, cette preuve ne peut être invoquée contre l’appelant, parce que la Cour n’est pas convaincue que celui-ci a signé cette entente.
+[10] L’appelant a simplement dit qu’il ne se rappelait pas avoir signé un contrat semblable. Cependant, la Cour est convaincue que l’appelant s’est fait dire clairement dès le départ qu’il ne serait pas un employé, mais plutôt un entrepreneur indépendant et que la seule raison pour laquelle aucune retenue n’était faite avant janvier, c’était pour l’aider.
+[11] La Cour est d’avis qu’après janvier, l’entreprise a fait les retenues pour la seule raison que son comptable lui avait conseillé, à tort, de le faire.
+[12] Selon cette preuve, le « payeur » a cru qu’il était sage de faire des retenues au titre du RPC et de l’A-E et il est indubitable que cette façon de procéder était avantageuse pour l’appelant. La Cour estime que l’entreprise a fait les retenues par mesure de prudence afin de s’assurer qu’elle ne serait pas pénalisée si la Cour devait être saisie de l’affaire et rendre une décision défavorable à son endroit.
+[13] Le rôle de la Cour consiste à décider à la lumière de la preuve si un travailleur est un entrepreneur indépendant ou un employé. Il arrive parfois que des personnes déploient tous les efforts voulus pour créer une relation qui, croient-elles, est une relation avec un entrepreneur indépendant, mais qui devient avec le temps une relation employeur-employé en raison de leur conduite subséquente. D’autres individus signent une entente en pensant qu’ils sont des employés, mais agissent de telle sorte que la situation qu’ils ont créée n’est pas une relation employeur-employé, mais une relation avec un entrepreneur indépendant. Le produit de votre création ne correspond pas toujours à la conception que vous en avez au départ. Les propos des parties ne sont pas toujours concluants, mais une grande importance doit leur être attribuée. Toutefois, lorsque la preuve présentée va à l’encontre des intentions que ces personnes ont déclarées, sa valeur est grandement affaiblie.
+[14] Dans la présente affaire, il n’y a aucun doute au sujet de ce que le payeur pensait. Il a toujours cru que tous les travailleurs étaient des entrepreneurs indépendants et non des employés. Il n’a jamais utilisé le mot « employé ». Le seul indice de l’existence d’une relation employeur-employé serait le fait qu’il a retenu des sommes au titre de l’A-E et du RPC. Dans certains cas, cette retenue pourrait être un facteur déterminant. Elle ne l’est pas en l’espèce, parce qu’il existe une preuve abondante au sujet de la façon dont les parties se sont traitées mutuellement et de la relation qui existait entre elles.
+[15] Dans ce contexte, nous devons revenir à l’arrêt Wiebe Door pour savoir si la relation entre l’appelant et le payeur était une relation employeur-employé. C’est là la question à trancher. À cette fin, la Cour doit, comme toujours, examiner le critère à quatre volets, soit le contrôle, la propriété des instruments de travail, les chances de bénéfice et les risques de perte et l’intégration, ainsi que les conditions d’emploi.
+[16] En ce qui a trait au contrôle, la Cour estime que le type de contrôle que le soi-disant employeur exerçait sur le soi-disant employé était très minime. Il est vrai qu’à l’origine, l’appelant a suivi l’itinéraire qui lui a été proposé et que le soi-disant employeur lui a montré, mais il aurait pu emprunter un itinéraire différent et aller à d’autres endroits, s’il avait voulu. Il ne s’est pas fait dire à quel moment il devait aller à tel ou tel endroit. Il ne s’est pas fait dire combien de temps il devait passer là-bas ni n’était tenu de se rendre à un magasin donné. Il avait le droit d’éliminer des magasins du trajet initial qui lui a été proposé et d’en ajouter d’autres à la liste. Il se rendait là où il voulait aller.
+[17] La Cour n’est pas convaincue qu’il devait présenter un compte rendu ou se rendre au bureau à un moment précis pour aller chercher ses fournitures ou ses marchandises. Lui seul prenait ce genre de décision. Lorsqu’il était sur la route, il agissait à sa guise. Personne ne lui disait quoi faire ou comment faire son travail. Bien entendu, il était là pour vendre des produits et, plus il en vendait, plus il faisait d’argent.
+[18] En ce qui concerne l’élément de contrôle, la Cour est convaincue que très peu d’éléments montrent que le soi-disant payeur exerçait un contrôle sur l’appelant. Celui-ci se contrôlait lui-même.
+[19] En ce qui a trait à la propriété des instruments, la Cour estime que les principaux instruments de travail dans la présente affaire appartenaient à l’appelant lui-même, qui en avait le contrôle.
+[20] Quels étaient ces instruments en l’occurrence? Les articles de commerce appartenaient au payeur, mais celui-ci les avait déposés auprès de l’appelant, qui en assumait dès lors l’entière responsabilité. S’il perdait des marchandises, que des marchandises étaient endommagées, qu’il ne les remettait pas ou qu’il ne se faisait pas payer, il devait supporter le manque à gagner.
+[21] L’appelant avait le droit de recevoir des chèques faits à son propre nom à titre de paiement. Il n’en a peut-être pas reçu, mais il avait le droit d’en recevoir. Il pouvait également recevoir des chèques au nom de la société ainsi que de l’argent comptant. Il disposait d’une très grande marge de manœuvre à cet égard. Il devait même payer des frais d’administration au payeur s’il acceptait des clients des chèques qui étaient subséquemment retournés pour insuffisance de fonds.
+[22] En ce qui a trait aux instruments de travail, le plus important était le véhicule automobile, qui appartenait à l’appelant, et le stock, dont il était le consignataire. Il avait le contrôle de la marchandise et en était responsable.
+[23] Quant aux chances de bénéfice et aux risques de perte, même si la Cour interprète la preuve de l’appelant de la façon la plus libérale qui soit, elle estime, après avoir entendu le témoignage de celui-ci et celui des autres témoins, qu’il avait des chances de bénéfice. L’appelant n’a pas nié ce fait. Des chances de bénéfice existaient. Plus il vendait de marchandises, plus il faisait d’argent. Plus le prix qu’il recevait était élevé, plus il gagnait d’argent.
+[24] L’appelant devait également accepter des risques de perte. S’il passait trois jours au Cap-Breton ou ailleurs sans vendre un livre, il devait quand même payer sa chambre d’hôtel, son essence et les réparations de son véhicule; plus ses dépenses étaient élevées, moins ses bénéfices l’étaient. Il est donc évident qu’il y avait des chances de bénéfice et des risques de perte.
+[25] Le fait que le payeur a proposé un prix de détail pour les marchandises n’est pas un facteur déterminant. Il n’indique nullement que le payeur exerçait un plus grand degré de contrôle sur l’appelant, parce que celui-ci pouvait décider de ne pas en tenir compte.
+[26] Le critère de l’intégration est un critère différent. La Cour doit se poser la question suivante : « lorsque le travailleur faisait le travail, agissait-il pour lui‑même ou pour le compte du soi-disant employeur »?
+[27] Dans la présente affaire, la Cour estime que le travailleur agissait pour sa propre entreprise, qui consistait à vendre les marchandises qu’il recevait en consignation. Il est vrai qu’il les recevait du soi-disant employeur, mais son entreprise consistait à vendre les produits, à percevoir les sommes d’argent s’y rapportant et à tirer des bénéfices de cette activité. C’était son entreprise. Il était en affaires et exploitait sa propre entreprise. Il n’agissait pas pour le compte de l’entreprise de l’employeur.
+[28] En bout de ligne, les réponses à toutes les questions montrent clairement qu’il s’agit d’une situation d’entrepreneur indépendant ou d’un contrat d’entreprise plutôt que d’une relation employeur-employé ou d’un contrat de louage de services.
+[29] L’appelant soutient qu’il se considérait lui-même comme un employé. La Cour n’est pas convaincue qu’il se considérait vraiment comme un employé. Eu égard à l’ensemble de la preuve qui a été présentée, la Cour estime que le travailleur aurait dû savoir qu’il était considéré, du moins par le payeur, comme un entrepreneur indépendant et non comme un employé et il n’a rien fait pour nier cette position.
+[30] En ce qui a trait au contrôle, l’appelant a dit que l’employeur exerçait un degré de contrôle important, mais la Cour estime que ce contrôle était minime à l’endroit de l’appelant et n’est pas d’accord avec celui-ci sur ce point.
+[31] Le mode de paiement est également important. L’appelant était payé sous forme de commissions. Ce fait est indéniable et n’a pas vraiment été contesté. C’est là un autre indice de l’absence de relation employeur-employé, parce que l’employé n’est habituellement pas rémunéré sous forme de commissions. Il peut l’être, mais ce n’est pas l’usage courant.
+[32] Quant aux bénéfices et aux pertes, l’appelant a dit qu’en général, il pouvait faire des profits, mais qu’il n’a pas subi de pertes. C’est possible et il était peut‑être un très bon vendeur, mais il était certainement exposé au risque de subir une perte. Lorsqu’il passait trois ou quatre jours au Cap-Breton sans vendre de marchandises, il devait quand même payer sa chambre d’hôtel, ses repas et d’autres dépenses, auquel cas il risquait de subir une perte. Heureusement pour lui, ce n’est apparemment pas ce qui est survenu.
+[33] Quant au critère de l’intégration, l’appelant estimait qu’il faisait partie de l’entreprise. La Cour n’est pas d’accord. L’entreprise qui était importante en l’espèce était celle qui consistait à vendre les livres, soit l’entreprise de l’appelant lui-même.
+[34] L’appelant a dit ce qui suit : [TRADUCTION] « En bout de ligne, j’avais l’impression que j’étais un employé ». Si tel était le cas, la Cour estime que le soi-disant employeur ne lui a pas dit quoi que ce soit qui puisse lui donner cette impression et, s’il a eu cette impression, c’était une impression erronée. L’appelant était convaincu que son appel devrait être admis.
+[35] L’avocat de l’intimé a fait valoir que l’appelant a peut-être eu l’impression qu’il était un employé, mais que cette impression était erronée. Il n’y avait aucun désaccord au sujet de la nature des activités de l’appelant et de la façon dont il agissait. En d’autres termes, c’est l’appelant lui-même qui déterminait ce qu’il faisait et comment il procédait et non la société, le soi-disant employeur.
+[36] L’avocat a également invoqué l’argument suivant : [TRADUCTION] « Le payeur ne contrôlait ni les heures de travail ni la méthode de travail. Toutes ces décisions appartenaient à l’appelant ». La Cour est d’accord avec cet argument.
+[37] En ce qui concerne les bénéfices et les pertes, l’avocat a formulé les commentaires suivants : [TRADUCTION] « il y avait des chances de bénéfice et des risques de perte. Il suffit d’examiner les frais qu’il devait engager, notamment pour le véhicule automobile et le matériel, le paiement auquel il était exposé en cas de perte du produit ou de chèques sans provision ». Il y avait des chances de bénéfice et des risques de perte.
+[38] Quant à la propriété des instruments de travail, l’avocat a souligné ce qui suit : [TRADUCTION] « Le véhicule était l’élément le plus important. Il avait son propre véhicule, il devait faire ses propres promotions et en payer le coût, il devait également payer le coût d’une partie du matériel. Il travaillait à son propre compte ».
+[39] L’intervenante ne souhaitait pas plaider et a accepté les arguments invoqués par l’intimé.
+[40] Compte tenu de l’ensemble des arguments et de la preuve, la Cour est convaincue hors de tout doute que l’appel devrait être rejeté et que la décision du ministre devrait être confirmée.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2005.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 6e jour de février 2006
+Louise Poulin, traductrice
+RÉFÉRENCE : 2005CCI457
+N° DU DOSSIER DE LA COUR : 2002-3645(EI)
+INTITULÉ DE LA CAUSE : Gino Spinazola c. Le ministre du Revenu national et 2182373 Nova Scotia Limited s/n Top Wholesale Books
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 28 février 2003
+MOTIFS DU JUGEMENT PAR : L’honorable juge T. E. Margeson
+DATE DU JUGEMENT : Le 20 novembre 2005
+COMPARUTIONS :
+Pour l’appelant : L’appelant lui-même
+Avocat de l’intimé : Me Dominique Gallant
+Représentant de l’intervenante : James Daniel Tallon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

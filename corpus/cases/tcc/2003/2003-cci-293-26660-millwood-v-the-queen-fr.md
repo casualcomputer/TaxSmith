@@ -1,0 +1,156 @@
+---
+title: "Millwood v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26660/index.do"
+last_modified: "2003-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 293"
+citation2: ""
+neutral_citation: "2003 CCI 293"
+decision_date: "2003-05-20"
+language: "fr"
+item_id: "26660"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3602
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:09:59.620000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "09939cfdf4165bbcf50ba52c8671d8e800f41f12a3399cc31ec63a22b4f5f3e0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Millwood v. The Queen
+
+- Citation: 2003 CCI 293
+- Decision date: 2003-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3602, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Millwood v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-20
+Référence neutre
+2003 CCI 293
+Numéro de dossier
+2002-1797(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1797(IT)I
+ENTRE :
+DIANA MILLWOOD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 7 avril 2003 à Edmonton (Alberta)
+Par : L'honorable juge Campbell J. Miller
+Comparutions
+Avocat de l'appelante :
+Me K. Peddie
+Avocat de l'intimée :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations au motif que l'appelante n'a pas besoin d'inclure, dans le calcul de son revenu pour 1997 et 1998, les versements hypothécaires effectués par M. Kolakis conformément à l'ordonnance sur consentement datée du 8 novembre 1996. L'appelante a droit aux dépens s'élevant à 200 $.
+Signé à Ottawa, Canada, ce 20e jour de mai 2003.
+« Campbell J. Miller »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22e jour de mars 2004.
+Sylvie Sabourin, traductrice
+Référence : 2003CCI293
+Date : 20030520
+Dossier : 2002-1797(IT)I
+ENTRE :
+DIANA MILLWOOD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Les appels sont interjetés par Diana Millwood, selon la procédure informelle, à l'encontre des cotisations établies par le ministre du Revenu national (le « ministre » ) pour ses années d'imposition 1997 et 1998. Le ministre a inclus dans le calcul du revenu de Mme Millwood des montants de pension alimentaire s'élevant à 8 594 $ en 1997 et à 10 016 $ en 1998. Dans la décision rendue par la Cour canadienne de l'impôt dans l'affaire Kolakis v. The Queen, (2003TCC355), rendue à l'audience le 22 septembre 2000, l'ancien conjoint de Mme Millwood, M. Kolakis, s'est vu accorder la déduction de ces montants. Il est important de savoir que dans l'affaire susmentionnée, aucun témoignage oral n'a été présenté et que le juge Hershfield a dû se prononcer sur la base d'inférences tirées d'éléments de preuve documentaire convenus.
+[2] Mme Millwood a épousé Evangelos Kolakis en 1984. Ils ont eu trois enfants nés respectivement en 1985, en 1986 et en 1988. Ils se sont séparés en 1993 et ont divorcé en 1995. Les enfants sont toujours demeurés avec Mme Millwood. Elle et son ancien conjoint ont convenu d'un procès-verbal de transaction daté du 7 mars 1995 (pièce A-1), dont certaines des modalités sont les suivantes :
+1) M. Kolakis devait verser une pension alimentaire pour enfants s'élevant à 250 $ par mois et par enfant, soit 750 $ par mois, cette pension alimentaire devant être déductible par M. Kolakis et imposable dans les mains de Mme Millwood;
+2) il devait transférer à sa conjointe certains terrains agricoles, reconnaissant et convenant que Mme Millwood [traduction] « a l'intention de commercialiser activement la propriété susmentionnée » . Elle a également convenu d'accorder à M. Kolakis un droit de premier refus en ce qui concerne la propriété. Ladite propriété est hypothéquée;
+3) Mme Millwood devait transférer certains autres biens à M. Kolakis.
+[3] En novembre 1996, Mme Millwood et M. Kolakis ont accepté une ordonnance sur consentement (pièce A-2) qui comportait les dispositions suivantes :
+[traduction]
+1. Il est confirmé que les arriérés au titre de la pension alimentaire pour enfants dus par l'intimé s'élèvent à 3 000 $.
+2. Il y aura un sursis d'exécution à l'égard desdits arriérés au titre de la pension alimentaire pour enfants à l'encontre du directeur de l'application des pensions alimentaires et de la requérante jusqu'à ce que l'intimé vende ses terres désignées officiellement comme plan 862 2261, bloc 1, lot 22 (N.E. 15-50-22-W4th), plan 2252 Mc, lot C (N.E. 17-51-22-W4th), comté de Leduc N.E. 15-50-22-W4th.
+3. À partir de décembre 1996, à la place des paiements au titre de la pension alimentaire pour enfants, l'intimé acquittera directement les versements hypothécaires mensuels de la requérante aux Alberta Treasury Branches pour les terrains désignés officiellement comme le N.E. 21 et E. 1/2 de S.E. 21-50-22-W4th jusqu'à ce que la Cour rende une autre ordonnance. En outre, l'intimé versera à la requérante la somme de 205 $ à partir du 15 janvier 1997 et chaque 15e jour des mois suivants jusqu'à ce que la Cour rende une autre ordonnance.
+4. La requérante informera le Maintenance Enforcement Program lorsque l'intimé lui fournira les 12 chèques postdatés pour les paiements mensuels de 205 $.
+[4] À ce moment-là, M. Kolakis avait des arriérés. Mme Millwood n'effectuait pas les versements hypothécaires pour le terrain agricole car, pour utiliser ses termes, son ancien conjoint ne le lui permettait pas et la banque n'avait pas accepté qu'elle rembourse l'hypothèque. La banque était prête à recourir à la forclusion. Le témoignage de Mme Millwood à cet égard était quelque peu sommaire. Elle pensait que M. Kolakis ne voulait pas la laisser contrôler la propriété car, en fin de compte, il la voulait pour lui-même. Elle s'est sentie obligée de consentir à l'ordonnance sur consentement qui réduisait la pension alimentaire pour enfants mais garantissait que les versements hypothécaires étaient effectués. Elle a expliqué que c'était la façon dont M. Kolakis s'assurait qu'il pourrait obtenir la propriété en fin de compte au moyen de son droit de premier refus. Pendant 1997 et 1998, M. Kolakis a fait des versements hypothécaires d'environ 556 $ par mois.
+[5] Mme Millwood a vendu le terrain agricole à la fin de 1998 et a retiré un certain profit de la vente alors quoiqu'elle ait indiqué qu'elle avait perdu une somme considérable sur la vente du terrain en raison de l'ingérence de M. Kolakis. La nature de cette ingérence n'était pas claire. Mme Millwood a obtenu une ordonnance en 1999 aux termes de laquelle M. Kolakis devait faire des paiements mensuels de 556 $ par mois à partir du 1er mars 1999 au titre de la pension alimentaire pour enfants.
+[6] L'avocat de Mme Millwood a fait valoir que les versements hypothécaires faits directement par M. Kolakis en 1997 et en 1998 ne constituent pas des paiements au titre de la pension alimentaire pour enfants pour les raisons suivantes :
+1) l'ordonnance renvoie précisément au fait que les paiements sont effectués [traduction] « à la place des paiements au titre de la pension alimentaire pour enfants » , c'est-à-dire qu'ils remplacent, sont autres que, les paiements de pension alimentaire pour enfants;
+2) les paiements n'avaient pas pour objet d'être utilisés et n'étaient d'ailleurs pas utilisés pour l'entretien des enfants - ils avaient pour objet de garder le terrain agricole en règle;
+3) Mme Millwood ne disposait d'aucun pouvoir discrétionnaire quant à l'utilisation des paiements, comme il est exigé dans la définition de « pension alimentaire » prévue au paragraphe 56.1(4) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[7] L'intimée se fonde sur la décision Kolakis dans laquelle M. Kolakis a reçu l'autorisation de déduire de son revenu les montants que Mme Millwood cherche maintenant à faire exclure de son revenu.
+[8] L'intimée aborde les deux premiers arguments de l'appelante ensemble au motif qu'un paiement destiné à libérer Mme Millwood d'une obligation juridique de faire des versements hypothécaires mensuels constitue néanmoins un entretien des enfants. C'est une dépense qu'elle aurait dû faire autrement.
+[9] En ce qui concerne la position de l'appelante aux termes de laquelle elle ne disposait d'aucun pouvoir discrétionnaire, l'intimée a soutenu qu'en consentant à l'ordonnance de novembre 1996, Mme Millwood était devenue irrecevable à déclarer qu'elle ne disposait d'aucun pouvoir discrétionnaire. Elle a exercé son pouvoir discrétionnaire à ce moment-là, et il n'était pas nécessaire de l'exercer au moment de chaque paiement.
+[10] La loi sur les paiements de pension alimentaire est, au mieux, ardue. C'est particulièrement vrai lorsqu'on a une décision antérieure portant sur la même situation, bien que présentée tout à fait différemment, dans laquelle l'incidence fiscale est différente. Dans la décision Kolakis, le juge Hershfield indiquait clairement les risques courus par les parties à ne pas présenter de témoin. Il a reconnu qu'il avait été forcé de tirer des inférences en l'absence de dépositions orales de témoins, y compris de M. Kolakis. Dans l'affaire qui m'est dévolue, j'avais l'avantage d'entendre l'explication de sa situation par l'ancienne conjointe de M. Kolakis, Mme Millwood qui est l'appelante. La différence permet de donner gain de cause à Mme Millwood et de ne pas devoir inclure des paiements faits à des tiers dans le calcul du revenu malgré le fait que M. Kolakis a reçu l'autorisation de déduire lesdits paiements. Des conclusions de fait différentes mènent à des décisions divergentes. Je suis convaincu de la fiabilité de la preuve dont je dispose qui conduit à un jugement qui entre en conflit avec celui du juge Hershfield qui a exprimé des hésitations quant à la fiabilité du processus de détermination des faits.
+[11] Les points de départ de la détermination de la question de savoir si les versements hypothécaires faits à un tiers devraient être inclus dans le revenu de Mme Millwood sont l'alinéa 56(1)b) et le paragraphe 56.1(1) de la Loi qui sont ainsi rédigés :
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) [...]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l'année d'une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu'il a incluse dans son revenu pour une année d'imposition antérieure;
+56.1.(1) Pour l'application de l'alinéa 56(1)b) et du paragraphe 118(5), dans le cas où une ordonnance ou un accord, ou une modification s'y rapportant, prévoit le paiement d'un montant à un contribuable ou à son profit, au profit d'enfants confiés à sa garde ou à la fois au profit du contribuable et de ces enfants, le montant ou une partie de celui-ci est réputé :
+a) une fois payable, être payable au contribuable et à recevoir par lui;
+b) une fois payé, avoir été payé au contribuable et reçu par lui.
+[12] Les paiements faits à des tiers au titre de la pension alimentaire sont soit inclus dans les revenus conformément à l'application de l'alinéa 56(1)b) et du paragraphe 56.1(1) ou au moyen de l'application du paragraphe 56.1(2). Dans la décision Kolakis, le juge Hershfield a examiné l'envers de ces dispositions (60b) et 60.1(1) d'un côté et 60.1(2) de l'autre), renvoyant au fait que le payeur se fondait sur le paragraphe 60.1(2) comme disposition refuge pour établir la déductibilité mais clarifiant que la déductibilité des paiements faits aux tiers n'est pas limitée au paragraphe 60.1(2).
+[13] Je vais tout d'abord me pencher sur la question de savoir si l'alinéa 56(1)b) s'applique aux faits de l'espèce. Ledit alinéa inclut dans le calcul du revenu les montants de pension alimentaire reçues par le contribuable. Une pension alimentaire, définie dans le paragraphe 56.1(4) de la Loi est, en partie, un montant à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ses enfants, si le bénéficiaire peut utiliser le montant à sa discrétion. Certes, les paiements étaient périodiques mais constituaient-ils une allocation pour subvenir aux besoins des enfants de Mme Millwood? Je ne le pense pas.
+[14] Les versements hypothécaires étaient appliqués à un terrain agricole sur lequel M. Kolakis avait un droit de premier refus. Ce n'était pas une propriété qui profitait, de quelque façon que ce soit, aux enfants. Selon le témoignage de Mme Millwood, les paiements profitaient au seul M. Kolakis. Alors que le témoignage de l'appelante n'était pas aussi clair qu'il aurait pu l'être à cet égard, j'accepte le fait que les versements hypothécaires étaient faits par M. Kolakis pour un terrain non viabilisé sur lequel il souhaitait exercer un droit de premier refus. J'accepte également le fait que Mme Millwood a consenti au nouvel arrangement pensant qu'il constituait une réduction de l'entretien des enfants. Le libellé de l'ordonnance selon laquelle lesdits versements hypothécaires remplaçaient la pension alimentaire pour enfants est quelque peu ambigu et peut être interprété comme signifiant « au lieu de la pension alimentaire pour enfants » ou « ne représentant pas la pension alimentaire pour enfants » . Ils avaient un autre but. Après la vente de la propriété, les paiements de pension alimentaire pour enfants ont été recommencés.
+[15] L'intimée soutient que parce que Mme Millwood avait une obligation de faire les versements hypothécaires, le paiement direct réalisé par son ancien conjoint pour couvrir ces montants libérait des sommes qui pouvaient être utilisées pour l'entretien des enfants. Je ne suis pas d'accord. Alors qu'elle recevait les paiements directement, Mme Millwood avait un choix - elle pouvait les imputer à l'hypothèque ou risquer de perdre la propriété par forclusion. Selon la preuve, elle courrait ledit risque, un risque considéré comme inacceptable par M. Kolakis et qui a causé la modification de l'arrangement. Les paiements pour l'entretien des enfants doivent être justement cela; ils ne devraient pas être faits dans un but autre ou indirect. En l'espèce, je suis convaincu que, somme toute, les paiements n'étaient pas faits au profit des enfants. Ni l'une ni l'autre partie n'a suggéré que les paiements visaient l'entretien de Mme Millwood elle-même. La présente conclusion est essentielle car si les paiements n'étaient ni pour l'entretien des enfants ni pour celui de Mme Millwood, ils ne peuvent constituer une pension alimentaire telle qu'elle est définie.
+[16] Cependant, même si les faits étayaient une conclusion selon laquelle les paiements avaient, d'une manière ou d'une autre, pour but de profiter à Mme Millwood, je ne conclurais pas qu'ils devraient être inclus dans le calcul de son revenu pour la raison suivante. L'alinéa 56(1)b) exige que la réception par Mme Millwood soit réelle ou réputée l'être conformément au paragraphe 56.1(1). Puisqu'elle ne recevait pas les paiements directement en personne, la disposition déterminative reproduite ci-dessus entre en jeu.
+[17] Le juge Hershfield a été très clair dans la décision Kolakis : pour qu'un payeur puisse se fonder sur la disposition déterminative concernant la pension alimentaire afin de demander la déductibilité de paiements versés à des tiers (et inversement pour que le bénéficiaire soit obligé de les inclure dans son revenu), il faut de solides preuves de l'intention d'exercer un pouvoir discrétionnaire visant à profiter au bénéficiaire et d'une intention à l'égard des conséquences fiscales qui en découlent. Comme je l'ai déjà indiqué, somme toute, la preuve ne suggère aucune intention que les paiements profitent aux enfants ou à Mme Millwood. En outre, la preuve dont je dispose n'étaye nullement une conclusion aux termes de laquelle il existait une intention d'inclure lesdits paiements dans le revenu de Mme Millwood. L'ordonnance de novembre 1996 n'abordait pas ce point, et les circonstances entourant le consentement à ladite ordonnance suggèrent que les paiements étaient très différents des allocations d'entretien des enfants, objet du procès-verbal de transaction du 7 mars 1995. Il avait été convenu que ces paiements seraient inclus dans le revenu de Mme Millwood. Les versements hypothécaires ne l'étaient pas. Le paragraphe 56.1(1) ne s'applique donc pas pour réputer que Mme Millwood avait reçu lesdits paiements.
+[18] Examinons maintenant la deuxième possibilité : Mme Millwood tombe-t-elle sous le coup du paragraphe 56.1(2) qui est ainsi libellé :
+56.1(2) Pour l'application de l'article 56, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+A - B
+où :
+A représente le total des montants représentant chacun un montant (sauf celui qui constitue par ailleurs une pension alimentaire) qui est devenu payable par une personne au cours d'une année d'imposition, aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit, au titre d'une dépense (sauf la dépense relative à un établissement domestique autonome que la personne habite ou une dépense pour l'acquisition de biens corporels qui n'est pas une dépense au titre de frais médicaux ou d'études ni une dépense en vue de l'acquisition, de l'amélioration ou de l'entretien d'un établissement domestique autonome que le contribuable visé aux alinéas a) ou b) habite engagée au cours de l'année ou de l'année d'imposition précédente pour subvenir aux besoins d'un contribuable, d'enfants confiés à sa garde ou à la fois du contribuable et de ces enfants, dans le cas où le contribuable est :
+a) l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait de la personne,
+b) si le montant est devenu payable en vertu de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province, un particulier qui est le père ou la mère d'un enfant dont la personne est le père naturel ou la mère naturelle;
+B l'excédent éventuel du total visé à l'alinéa a) sur le total visé à l'alinéa b) :
+a) le total des montants représentant chacun un montant inclus dans le total calculé selon l'élément A relativement à l'acquisition ou à l'amélioration d'un établissement domestique autonome dans lequel le contribuable habite, y compris un paiement de principal ou d'intérêts sur un emprunt ou une dette contracté en vue de financer, de quelque manière que ce soit, l'acquisition ou l'amélioration,
+b) le total des montants correspondant chacun à 1/5 du principal initial d'un emprunt ou d'une dette visés à l'alinéa a),
+est réputé, lorsque l'ordonnance ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 60.1(2) s'appliquent à un montant payé ou payable à leur titre, être un montant payable au contribuable et à recevoir par lui à titre d'allocation périodique, qu'il peut utiliser à sa discrétion.
+Comme il n'existait aucune « pension alimentaire » (une condition préalable à l'application de cet article), il faut examiner les exigences du paragraphe 56.1(2). À cet égard, j'en arrive à la même conclusion que le juge Hershfield dans la décision Kolakis : pour pouvoir s'appliquer, l'article exige un renvoi exprès aux paragraphes 60.1(2) et 56.1(2) - aucun renvoi de la sorte n'a été effectué dans l'ordonnance de novembre 1996. Le paragraphe 56.1(2) n'est donc pas applicable.
+[19] Par conséquent, j'accueille l'appel et je défère la question au ministre pour nouvel examen et nouvelles cotisations au motif que Mme Millwood n'a pas besoin d'inclure, dans le calcul de son revenu pour 1997 et 1998, les versements hypothécaires effectués par M. Kolakis conformément à l'ordonnance sur consentement datée du 8 novembre 1996. L'appelante a droit aux dépens s'élevant à 200 $.
+Signé à Ottawa, Canada, ce 20e jour de mai 2003.
+« Campbell J. Miller »
+J.C.C.I.
+Traduction certifiée conforme
+ce 22 e jour de mars 2004.
+Sylvie Sabourin, traductrice

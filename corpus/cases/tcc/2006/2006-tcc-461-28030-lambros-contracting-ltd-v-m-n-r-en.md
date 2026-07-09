@@ -1,0 +1,165 @@
+---
+title: "Lambros Contracting Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28030/index.do"
+last_modified: "2006-07-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 461"
+citation2: ""
+neutral_citation: "2006 TCC 461"
+decision_date: "2006-07-26"
+language: "en"
+item_id: "28030"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1616
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:53:26.155000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a3c2e865f14c0dcefeab0f74bf1b87d95ba68be9843fd562692ba1d8e6deb2b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lambros Contracting Ltd. v. M.N.R.
+
+- Citation: 2006 TCC 461
+- Decision date: 2006-07-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1616, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lambros Contracting Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-26
+Neutral citation
+2006 TCC 461
+File numbers
+2005-4280(CPP)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2005-4280(CPP)
+BETWEEN:
+LAMBROS CONTRACTING LTD.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 26, 2006 at Edmonton, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Ronald Agar
+Agent for the Respondent:
+Tyler Lord (Student-at-Law)
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated with respect to Mr. Richard Lamontagne.
+The appeal is dismissed and the decision of the Minister is confirmed with respect to Ms. Carla Lamontagne in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 18th day of August 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC461
+Date: 20060818
+Dockets: 2005-4280(CPP)
+BETWEEN:
+LAMBROS CONTRACTING LTD.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. The Facts
+[1] The Appellant was incorporated in 2003 under the laws of the Province of Alberta.
+[2] The Appellant was in the house construction and framing business.
+[3] Richard Lamontagne ("Mr. Lamontagne") was the President, sole shareholder and sole director of the Appellant.
+[4] Mr. Lamontagne provided management and labour services to the Appellant. His duties included arranging work crews, supervising workers, preparing invoices and managing the Appellant's business.
+[5] Mr. Lamontagne's wife, Carla, provided office management services to the Appellant. Carla's duties included processing invoices, preparing cheques and filing records and documents for the Appellant. Mr. Lamontagne testified that he had expected that Carla would learn to use a computer and organize and maintain the Appellant's financial records. However, this did not happen and the Appellant's financial records were prepared by Ronald Agar, C.A.
+[6] In 2004 Mr. Lamontagne received management fees of $50,000.00 from the Appellant.
+[7] In 2004 and 2005 the Appellant paid Carla Lamontagne the following payments:
+2004 $6,300.00
+2005 $1,250.00
+B. Issue
+[8] The issue to be decided is whether Mr. Lamontagne and Carla Lamontagne were employed in pensionable employment under the rules of the Canada Pension Plan.
+C. Analysis and Decision
+[9] Over the years Canadian Courts have developed various tests to determine if a Worker is an employee or an Independent Contractor. These tests were outlined by Justice MacGuigan in Wiebe Door Services Ltd. V. M.N.R., 87 DTC 5025 and the four tests are:
+1. The control exercised by the alleged employer;
+2. Ownership of tools;
+3. Chance of profit and Risk of loss; and
+4. The integration test.
+There is a fifth test which has been developed and refined by Courts recently and that is the Intention of the Parties. The most recent example of the Intention of the Parties test is found in the Royal Winnipeg Ballet v. Canada, [2006] F.C.J. No. 339 a decision of Sharlow, J.A. of the Federal Court of Appeal. I will now deal with each of the tests.
+[10] I will now comment upon each of the tests.
+1. Control
+[11] The evidence of Mr. Lamontagne was to the effect that the Workers were not supervised in the same manner that an employee is generally supervised. Mr. Lamontagne said he decided what he should do on a job.
+[12] Based on the testimony that was before me I have concluded that with respect to the CONTROL test Mr. Lamontagne was not controlled in the same way that employees would be controlled. There was insufficient evidence before me with respect to the control exercised over Carla Lamontagne.
+2. Ownership of tools
+[13] The evidence indicated that Mr. Lamontagne provided his own tools and equipment. This is similar to the situation in Precision Gutter v. Canada, [2002] F.C.J. No. 771. While, in my view, this test is merely one factor I believe that the Appellant satisfies this test. I did not hear sufficient evidence concerning Carla Lamontagne on this point.
+3. Chance of profit and Risk of loss
+[14] The evidence indicated that Mr. Lamontagne was paid a fixed amount and he was not specifically required to work any minimum number of hours.
+[15] While I do not believe that this test is that significant in this situation I believe that the Appellant satisfies this test regarding Mr. Lamontagne. I did not hear sufficient evidence on this point regarding Carla Lamontagne.
+4. Integration test
+[16] Mr. Lamontagne appears to be an integral part of the Appellant's business in the years under appeal. However, I am sure that other Workers could be hired by the Appellant to replace Mr. Lamontagne and Carla Lamontagne.
+5. Intention of the Parties
+[17] The evidence indicates that the Appellant and Mr. Lamontagne clearly understood that Mr. Lamontagne would be engaged as an independent contractor and he would govern his affairs accordingly.
+[18] In connection with the Intention of the Parties test I refer to the Reasons for Judgment of Sharlow, J. where she stated at paragraph 64:
+64. In these circumstances, it seems to me wrong in principle to set aside, as worthy of no weight, the uncontradicted evidence of the parties as to their common understanding of their legal relationship, even if that evidence cannot be conclusive. The judge should have considered the Wiebe Door factors in the light of this uncontradicted evidence and asked himself whether, on balance, the facts were consistent with the conclusion that the dancers were self-employed, as the parties understood to be the case, or were more consistent with the conclusion that the dancers were employees. (Emphasis mine)
+[19] If I apply the Intention of the Parties test as established by Justice Sharlow I conclude that the facts in this case are more consistent with a finding that Mr. Lamontagne was self-employed and I so find.
+[20] I also wish to quote with approval the comments that were made by Chief Justice McLachlin in Shell Canada Ltd. v. The Queen, [1999] S.C.J. No. 30 where the learned Chief Justice said at paragraph 39:
+…we have held that, absent a specific provision of the Act to the contrary or a finding that they are a sham, the taxpayer's legal relationships must be respected in tax cases. Recharacterization is only permissible if the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect:
+[21] In this situation the Appellant and Mr. Lamontagne entered into an agreement where the parties intended to create a contractor relationship as opposed to an employee relationship and they conducted themselves according to that Plan.
+[22] On the various legal authorities that I have reviewed I believe that Mr. Lamontagne was an independent contractor and not an employee of the Appellant. I have therefore concluded that the Appellant has no liability under the Canada Pension Plan with respect to Mr. Lamontagne.
+[23] I am not satisfied on the evidence presented that Carla Lamontagne was an independent contractor. In my opinion Carla Lamontagne was an employee of the Appellant and the Appellant must recognize that status for Carla Lamontagne under the Canada Pension Plan.
+Signed at Vancouver, British Columbia, this 18th day of August 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC461
+COURT FILE NO.:
+2005-4280(CPP)
+STYLE OF CAUSE:
+Lambros Contracting Ltd. and
+The Minister of National Revenue
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+July 26, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+August 18, 2006
+APPEARANCES:
+Agent for the Appellant:
+Ronald Agar
+Agent for the Respondent:
+Tyler Lord (Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

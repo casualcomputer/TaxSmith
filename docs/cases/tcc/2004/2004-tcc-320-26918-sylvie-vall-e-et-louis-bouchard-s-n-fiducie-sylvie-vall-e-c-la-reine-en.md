@@ -1,0 +1,185 @@
+---
+title: "Sylvie Vallée et Louis Bouchard s/n Fiducie Sylvie Vallée c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26918/index.do"
+last_modified: "2004-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 320"
+citation2: ""
+neutral_citation: "2004 TCC 320"
+decision_date: "2004-04-30"
+language: "en"
+item_id: "26918"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 724
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:31:55.838000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "592118ebd4a7188dde3fff6c0f855802859ec68004380acc8540e178041256d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sylvie Vallée et Louis Bouchard s/n Fiducie Sylvie Vallée c. La Reine
+
+- Citation: 2004 TCC 320
+- Decision date: 2004-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 724, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sylvie Vallée et Louis Bouchard s/n Fiducie Sylvie Vallée c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-30
+Neutral citation
+2004 TCC 320
+File numbers
+2003-114(GST)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-114(GST)I
+BETWEEN:
+SYLVIE VALLÉE AND LOUIS BOUCHARD
+d.b.a. FIDUCIE SYLVIE VALLÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+___________________________________________________________________
+Appeal heard on February 10, 2004, at Québec City, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel of the Appellant:
+Andrée-Claude Harvey
+Counsel of the Respondent:
+Ghislaine Thériault
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment concerning the Goods and Services Tax, issued under Part IX of the Excise Tax Act (the "Act"), notice of which is dated February 5, 2002, and bears No. 013310013229G005, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of April 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 26th day of October 2004.
+Ingrid B. Miranda, Translator
+Citation: 2004TCC320
+Date: 20040430
+Docket: 2003-114(GST)I
+BETWEEN:
+SYLVIE VALLÉE AND LOUIS BOUCHARD
+d.b.a. FIDUCIE SYLVIE VALLÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from the decision of the Respondent to reject an application for a rebate pursuant to subsections 123(1) and 256(2) of the Excise Tax Act (the "ETA").
+[2] In denying the Goods and Services Tax ("GST") new housing rebate, the Minister relied on the assumptions of fact listed in subparagraphs (a) to (d) inclusive of paragraph 14 of the Reply to the Notice of Appeal and they read as follows:
+[TRANSLATION]
+(a) On July 21, 200, Sylvie Vallée and Louis Bouchard established a trust called Fiducie Sylvie Vallée, as it appears in Exhibit I-4;
+(b) On July 29, 2000, Excavation R.S.R. Inc. transferred to Fiducie Sylvie Vallée a piece of land known and referred to as subdivisions 919-38 and 920.641 of the official cadastre of the parish of Beauport, as it appears in Exhibit I-5.
+(c) Within the said agreement, the purchaser undertook to build a residence, and he did so, as it appears from the mortgage that was registered in the Index of Immoveables, adduced as Exhibit I-6;
+(d) On October 12, 2001, Fiducie Sylvie Vallée filed a GST New Housing GST Rebate application, as it appears in Exhibit I-7;
+[3] The issue at bar is whether the Appellant, Fiducie Sylvie Vallée, is entitled to the New Housing GST Rebate under the provisions of subsection 256(2) of the ETA, which reads as follows:
+(2) Rebate for Owner-Built Homes - Where
+(a) a particular individual constructs or substantially renovates, or engages another person to construct or substantially renovate for the particular individual, a residential complex that is a single unit residential complex or a residential condominium unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+(b) the fair market value of the complex, at the time the construction or substantial renovation thereof is substantially completed, is less than $450,000,
+(c) the particular individual has paid tax in respect of the supply by way of sale to the individual of the land that forms part of the complex or an interest therein or in respect of the supply to, or importation by, the individual of any improvement thereto or, in the case of a mobile home or floating home, of the complex (the total of which tax under subsection 165(1) and sections 212 and 218 is referred to in this subsection as the "total tax paid by the particular individual"),
+. . .
+the Minister shall, subject to subsection (3), pay a rebate to the particular individual equal to . . .
+[4] In other words, is a personal trust a "particular individual" under the provisions of the ETA?
+[5] The parties made observations in support of their respective claims; all the assumptions of fact were admitted.
+[6] The Appellant claimed to be a Protective trust and not to possess a separate legal personality, contrary to common-law trusts.
+[7] Effectively, the concept of trust in Quebec law, "fiducie", is legally different from that of the common-law trust, although they are similar in some respects. Doctrine and caselaw pertaining to trusts are not necessarily applicable in cases of "fiducie".
+[8] Professor Jacques Beaulne discussed about the significant difference between these two concepts in his treatise Droit des fiducies, Montréal, Wilson & Lafleur, 1998, at pages 29 to 35:
+[TRANSLATION]
+Ultimately, in order to avoid importing from common law, the Civil Code Revision Office specified that the new rules are only applicable to express trusts (fiducies explicites) and that the rules do not have the effect of establishing the English law doctrines of resulting trust and constructive trust in Quebec law. The new legal foundations of the "fiducie" rest upon the civil law concept of patrimoine (estate), and avoid any connection with the common law concept of fiduciary ownership or with the establishment of a trust as a true moral personality. Although this doctrine differs from classical property theories, and provides for the existence of estates that are unattached to private or moral persons, nevertheless the doctrine remains consistent with the general principles of civil law.
+. . .
+With respect to domestic law, a concept of "fiducie" based on the concept of patrimony by appropriation has the following advantages: first of all, it is possible to avoid the common law concept of "fiduciary ownership" by globally integrating the concept of patrimony by appropriation within the framework of the modern civil law theory of estates. Secondly, it is not necessary to create the "fiducie" as a separate moral person, or to grant the "fiducie" a legal personality for it to be functional, since the "fiducie" is not a topic of law (within the meaning of the classical theory of estates).
+. . .
+We note that the obstacles that Quebec must overcome in connection with common law are basically linked to an interpretation of "fiducie" by persons who only know the concepts of trust, with its resulting dual ownership. Indeed, because the fiduciary estate is independent from the holder of the "fiducie", then the "title" held by the fiduciary holder upon the property placed under his administration is not as ample as the title held by a trustee in common law: the fact that the holder of the fiducie holds a "title" or a right to administer "in trust" the goods placed under his administration only makes him the administrator, not the owner. This title includes all the necessary powers to allow him to administer the fiduciary goods as effectively as possible.
+At paragraph 24 of its Notice of Appeal, the Appellant said:
+[TRANSLATION]
+24. Therefore, the "fiducie" does not belong to the category that is specified as a "particular individual" in the list that appears in section 123 of the Act and referred to at paragraph 8 of these Reasons;
+[9] The Respondent's basic argument is that a "fiducie" cannot be a "particular individual" within the meaning of the ETA.
+[10] Subsection of 123(1) of the ETA reads:
+Definitions
+123(1) "recipient" of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+(c) where no consideration is payable for the supply,
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+(iii) in the case of a supply of a service, the person to whom the service is rendered,
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply;
+. . .
+"person" means an individual, a partnership, a corporation, the estate of a deceased individual, a trust, or a body that is a society, union, club, association, commission or other organization of any kind;
+[11] The Appellant created a personal trust for the purpose of securing a benefit for a determinate or a determinable person, in accordance with article 1267 of the Civil Code of Quebec (the "C.C.Q."), which reads:
+1267. A personal trust is constituted gratuitously for the purpose of securing a benefit for a determinate or determinable person.
+[12] The Appellant has reason to claim that the trust at issue in this matter has no legal personality. Is this sufficient motive to establish the validity of the Appellant's appeal?
+[13] The applicable law in the matter at bar is a federal law that must be applied in the same manner throughout the country. In this respect, I wish to recall some of the provisions of the Interpretation Act R.S. I-21 (the "IA"):
+8. (1) Every enactment applies to the whole of Canada, unless a contrary intention is expressed in the enactment.
+8.2 Unless otherwise provided by law, when an enactment contains both civil law and common law terminology, or terminology that has a different meaning in the civil law and the common law, the civil law terminology or meaning is to be adopted in the Province of Quebec and the common law terminology or meaning is to be adopted in the other provinces.
+[14] Whether this is a trust within the meaning of the C.C.Q. or a common law trust, in either case, it constitutes a person within the meaning of the ETA.
+[15] This finding may, however, not be sufficient for a determination of the matter in this appeal; the main issue is whether a trust is a particular individual.
+[16] The ETA does not define "individual" or "particular individual". In order to find a definition of "individual", one must rely on subsection 248(1) of the Income Tax Act (the "ITA").
+"individual" means a person other than a corporation;
+"person" or any word or expression descriptive of a person, includes any corporation, and any entity exempt, because of subsection 149(1), from tax under Part I on all or part of the entity's taxable income and the heirs, executors, liquidators of a succession, administrators or other legal representatives of such a person, according to the law of that part of Canada to which the context extends;
+"corporation" includes an incorporated company;
+[17] The ETA provides a definition of the word "person" in subsection 123(1) as follows:
+"person" means an individual, a partnership, a corporation, the estate of a deceased individual, a trust, or a body that is a society, union, club, association, commission or other organization of any kind;
+[18] The ETA does not provide a definition for the expression "particular individual". Therefore, we must rely on the general principles of interpretation. At paragraph 9 of a recent decision, CCH Canadian Ltd. v. Law Society of Upper Canada[2004] 1 S.C.J. 12(Q.L.), the Supreme Court of Canada recalled that "courts should apply the modern approach to statutory interpretation whereby 'the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament': Bell ExpressVu Limited Partnership v. Rex, [2002] 2 S.C.R. 559, 2002 SCC 42, at para. 26, citing E. A. Driedger, Construction of Statutes (2nd ed. 1983), at p. 87."
+[19] In Will-Kare Paving & Contracting Ltd. v. Canada[2000] 1 S.C.R. 915, Binnie J. affirmed at paragraphs 53 to 55:
+The first rule identified in the Notre-Dame de Bon-Secours summary at p. 20 is that "[t]he interpretation of tax legislation should follow the ordinary rules of interpretation". The "ordinary rules" include the modern plain meaning rule, as noted by J. E. Fulcher, a tax counsel with the Department of Justice, in "The Income Tax Act: The Rules of Interpretation and Tax Avoidance. Purpose vs. Plain Meaning: Which, When and Why?" (1995), 74 Can. Bar Rev. 563. Commenting at p. 578 on the later case of Canada v. Antosko, [1994] 2 S.C.R. 312, he says:
+[T]he case never gets beyond the first rule in Bon-Secours. The ordinary rule of interpretation here is that unambiguous provisions are to be interpreted as written, and while finding ambiguity is a subjective undertaking, why come to the Finance Department's aid when the provision is drafted with such blinding certainty?
+The primary rule of statutory interpretation is to ascertain the intention of Parliament. Where the meaning of the words used is plain and no ambiguity arises from context, then the words offer the best indicator of Parliament's intent: R. v. McIntosh, [1995] 1 S.C.R. 686, at p. 697, per Lamer C.J., and at p. 712, per McLachlin J., dissenting. No doubt the statement that words have a "plain meaning" is itself a conclusion based on a contextual analysis. However, once the tools of interpretation have been deployed and the issue considered from the different perspectives identified by Professor Driedger, if the result of that exercise is the conclusion that the meaning of the words used by Parliament is plain, then effect must be given to them. The Stubart Investments gloss on "plain meaning" was thus reaffirmed by Major J. in Friesen, supra, at para. 10. He said that, if, after examining the context and purpose of the tax provision, the Court nevertheless concludes that "a provision is couched in specific language that admits of no doubt or ambiguity in its application to the facts, then the provision must be applied regardless of its object and purpose": Friesen, supra, at para. 11, quoting P. W. Hogg and J. E. Magee, Principles of Canadian Income Tax Law (1995), at p. 454.
+The strength of the "plain meaning" rule is its recognition that it is the words of the provision themselves that constitute the vehicle used by Parliament to convey its intent to the people who are trying to assess their rights and tax liabilities under the Act. As the Court said in Antosko, supra, at pp. 326-27:
+While it is true that the courts must view discrete sections of the Income Tax Act in light of the other provisions of the Act and of the purpose of the legislation, and that they must analyze a given transaction in the context of economic and commercial reality, such techniques cannot alter the result where the words of the statute are clear and plain and where the legal and practical effect of the transaction is undisputed. . . .
+[20] The Le Robert French dictionary defines a "particulier" as a "[TRANSLATION] private individual, a private citizen, an individual". Moreover, the English version of subsection 256(2) of the ETA refers to a "particular individual". Although the English version of the ETA does not provide a definition of "particular individual", the English term "person" and "individual" are defined as follows, in subsection 123(1):
+"person" means an individual, a partnership, a corporation, the estate of a deceased individual, a trust, or a body that is a society, union, club, association, commission or other organization of any kind;
+"individual" means a natural person;
+[21] The concept of individual is therefore the common characteristic in the terms "particulier", "particular individual", "individual" and "person". Unfortanately, the French version of the ETA does not mention anything with respect to the meaning of the term "individu". The French dictionary Le Robert [Le Robert électronique] defines the term "individu" as follows:
+[TRANSLATION]
+I
+- 1. (Broad sense). Sc. being* that forms a distinct unit, within a hierarchical series that includes genus* (II., 1.) and species (III., 1.).
+- 2. (1738, D'Argens in T.L.F.). Biol., familiar. Organized body that has its own existence and that cannot be divided without being destroyed.
+- 3. (1680). With respect to the human species. - Man or woman (I., cit. 17, 87, 88), human being.
+-II. (1751). Sc. Basic unit (of a society).
+-III. (1791, Robespierre, in T.L.F.). Familiar. (Often pejorative). Person, ordinary human being that we cannot name or that we choose not to.
+[22] In common law, it can be generally affirmed that a trust has its own legal personality and, consequently, an independent and distinct estate; on the other hand, in Quebec civil law, the Quebec legislature intended that this not be the same for trusts. In Quebec, trusts have an independent estate without having a separate legal personality.
+[23] Although there is no doubt that trusts in Quebec, developed within Quebec civil law, may be considered as persons within the meaning of the ETA, it is, however, not possible to conclude that this person is also a particular individual within the meaning of the same Act, since it is not a physical person.
+[24] And there is absolutely no doubt that the provisions of the ETA, with respect to the issue at bar, are mainly applicable to physical persons, human beings, in other words.
+[25] An array of legal creations have been developed, such as corporations, associations, cooperatives, moral persons, trusts, etc. All these creations share some common characteristics, but they are not and cannot be human beings, the only possible qualification needed to comply with the definition of "particular individual".
+[26] Consequently, a particular individual may be a person in the broad sense of the word, and above all, a physical person. The latter absolutely excludes any legal creation, unless the legislator expressly provides that it be so, which is not the case here.
+[27] For these reasons, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 30th day of April 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 27th day of October 2004.
+Ingrid B. Miranda, Translator

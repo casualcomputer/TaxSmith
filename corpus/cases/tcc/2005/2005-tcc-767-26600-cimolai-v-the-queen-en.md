@@ -1,0 +1,178 @@
+---
+title: "Cimolai v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26600/index.do"
+last_modified: "2005-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 767"
+citation2: ""
+neutral_citation: "2005 TCC 767"
+decision_date: "2005-11-25"
+language: "en"
+item_id: "26600"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3542
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:04:55.259000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ced50d6b2424e77015a6cc93c93fbff7440e85ad586aab73bf2cf17bb493a8c3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cimolai v. The Queen
+
+- Citation: 2005 TCC 767
+- Decision date: 2005-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3542, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cimolai v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-25
+Neutral citation
+2005 TCC 767
+File numbers
+2003-1899(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1899(IT)G
+BETWEEN:
+NEVIO CIMOLAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 6, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to deduct $48,319.61 in computing his income.
+Both parties are to make submissions in writing as to costs within 30 days.
+Signed at Ottawa, Canada this 25th day of November 2005.
+"Gerald J. Rip"
+Rip J.
+Citation: 2005TCC767
+Date: 20051125
+Docket: 2003-1899(IT)G
+BETWEEN:
+NEVIO CIMOLAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] Nevio Cimali appeals from an income tax assessment for 2001 in which he was denied a deduction of $74,866 for legal expenses which, according to his amended notice of appeal, were incurred to establish a right to salary from his employer or that the legal expenses were incurred to prosecute a tort which arose in the ordinary course of business.
+[2] The appellant is a medical physician who graduated from the University of Albertain 1981 and subsequently completed two years of post-graduate training for general practice in Edmonton at the Edmonton General Hospital and the Universityof Alberta. He undertook further studies for certification in medical microbiology, completing his specialty in 1986. During 1983 to 1985 Dr. Cimolai was a part-time general practitioner in Ontario. After completing a research fellowship in Calgary, he commenced working at the British Columbia Children's Hospital in Vancouver1987. At the same time, he received an appointment as a Clinical Instructor at the Universityof British Columbia. He advanced through professional rankings over the next decade and by 1999 was a full Professor at the U.B.C.'s Department of Pathology and Laboratory Medicine; he received tenure from U.B.C. in 1994.
+[3] As I understand Dr. Cimolai's evidence, he was paid by both the hospital and U.B.C., the university paid 15 per cent of his salary, the hospital paid the balance. The hospital billed the Medical Services Plan of British Columbia through fee-for-service billing. Again, as I understand the appellant's arrangement with the hospital, the hospital paid him a salary and in return he assigned to the hospital all billing he would otherwise receive for services billed to the Medical Service Plan. He states that the hospital received more funds from his services billed to the Medical Services Plan that it paid him in salary.
+[4] In September 2001, Dr. Cimolai was suspended without pay on the basis, he states, of the outcome of a harassment complaint within the hospital. He was not terminated, but the hospital stopped paying his salary. He also declared that the hospital continued to use his billing number to obtain funds from the Medical Services Plan until early 2002.
+[5] After his suspension from the hospital, Dr. Cimolai testified, he entered into a general medical practice and commenced billing the Medical Services Plan in December 2001.
+[6] Dr. Cimolai stated that in 2001 he continued to carry on a business of publishing medical books, a business that he started earlier. He received income from the business in 2001.
+[7] The appellant acknowledges in his amended notice of appeal that he was an employee of the hospital and of the U.B.C. He also says he was self-employed, which the respondent denies.
+[8] Sometime before 2001 the appellant's colleagues at the hospital made a series of complaints against Dr. Cimolai and he was informed of the complaint in early 2001. The Minister has assumed that the complaints were considered by a "Peer Review Committee" set up by the Medical Advisory Committee of the hospital and the appellant was permitted to make oral submissions to the Peer Review Committee. The appellant denies he was permitted to make oral submissions since the Chair of the Committee "only wanted to hear the committee regarding the remedy so imposed". He alleges that the Peer Review Committee was "set up" by several individuals who were not necessarily part of the Medical Advisory Committee. The appellant claims that the process breached natural justice. The Board of Directors of the hospital accepted the Medical Advisory Committee's recommendation that Dr. Cimolai's conduct constituted harassment, that he be placed on immediate leave of absence without pay and the he undergo a "complete behavioral assessment".
+[9] The appellant filed a petition in the B.C. Supreme Court under the Judicial Review Procedure Act of B.C. for an order quashing both the report which led to his suspension from employment and the suspension itself ("Petition"). The action was dismissed; the Court's finding that the appellant's appropriate remedy was an appeal to the Hospital Appeal Board. The respondent now concedes that the legal expenses of $48,319.61 with respect to the Petition are deductible under paragraph 8(1)(b) of the Income Tax Act and consents to judgment allowing the appellant to deduct $48,319.61 in computing his income for 2001.
+[10] Dr. Cimolai also filed a statement of claim in the B.C. Supreme Court on April 10, 2000, and an amended statement of claim in January 2001 ("Statement of Claim") seeking damages for conspiracy and wrongful interference against eight professionals who worked with him at the hospital. It is the legal expenses of $26,556.53 incurred with respect to the action described in the Statement of Claim that is now in issue.
+[11] There is no need for me to review the facts leading to Dr. Cimolai's suspension and his action against his associates in these reasons. The facts are fully set out in the reasons for judgment of Holmes J. of the B.C. Supreme Court in Cimolai v. Hall (2005) BCSC 31, (2005) BCJ No. 81.
+[12] The issue before me is only whether Dr. Cimolai may properly deduct the legal expenses incurred with respect to his Statement of Claim against his former associates. In his view the legal expenses were claimed to establish a right of salary from the employer, or that the legal expenses were claimed to prosecute a tort which arose in the ordinary course of business.
+[13] The relationship between Dr. Cimolai and the hospital was one of employee and employer. The legal expenses still in issue relate to litigation between Dr. Cimolai and former associates, none of whom was his employer. The hospital was not a party to the litigation. The action was for damages arising from "defamation by other employees of the hospital". I cannot comprehend how the action can be construed as a claim to establish a right to salary from the hospital.
+[14] Dr. Cimolai has argued that by the very fact that he has a professional designation, he is carrying on a business. However, while in 2001 he was indeed a member of the medical profession, and was subject to a fee-for-service billing structure, the income he received from the hospital was employment income.
+[15] Dr. Cimolai argued that legal fees incurred in litigation against his former associates went to preserve his income earning ability; i.e. the alleged defamation by his colleagues burnished his professional reputation, affected his ability to practice, and thus, reduced his ability to earn income. He cited St-Germain v. M.N.R.[1] and the definition of "business"[2] under subsection 248(1) of the Act as authority for the proposition that his professional status, his profession as a medical doctor, is a "business".
+[16] Building upon this, he then cited a portion of reasons of Bowman A.C.J. (as he then was) in Bladgon c. the Queen[3] where he stated:
+Had his income from being a ship's Master been income from a business it seems probable that he could have deducted these expenses.[4]
+[17] Bladgon, supra, as contended by the appellant, stands as authority supporting the deductibility of his legal expenses; that is, his legal expenses were deductible because his income was from a business, from his profession as a medical doctor. He also cited an Interpretation Bulletin IT-99R5[5] published by the Canada Customs and Revenue Agency and other case law in support of the proposition that legal expenses incurred to prosecute a tort (civil) claim arising in the ordinary course of business are generally deductible.
+[18] In Blagdon, Bowman J. held that legal fees incurred in protecting the appellant's Master's (shipping) certificate, thereby protecting his employment and professional status, were not deductible as an employment expense. That such legal expenses were not deductible was made abundantly clear by the Federal Court of Appeal, where Sharlow J.A., for that Court stated:
+It is arguedby Captain Blagdon that his participation in both [legal] proceedings [being a Transport Canada inquiry held to consider allegations of incompetence, and a wrongful dismissal suit against a former employer] was to protect or restore his reputation as a competent ship's captain, thereby protecting his professional qualifications and his prospects of continuing to earn income from employment as a ship's captain.
+The Tax Court Judge held that paragraph 8(1)(b) did not apply to permit Captain Blagdon to deduct the legal expenses, because the proceedings in respect of which they were incurred could not establish that Captain Blagdon was owed salary or wages, and could not result in the collection of any salary or wages that he was owed. It is argued for Captain Blagdon that this is too narrow an interpretation of paragraph 8(1)(b), and that it should be interpreted to permit a deduction for legal expenses incurred to protect one's entitlement to pursue a particular livelihood.
+We are all of the view that the Tax Court Judge was correct in his interpretation of paragraph 8(1)(b). We do not accept that the words of paragraph 8(1)(b) can reasonably bear the interpretation proposed by counsel for Captain Blagdon. We can understand that a broad entitlement to a deduction for legal expenses for persons in the situation of Captain Blagdon might be justified on policy grounds but that is a matter for Parliament not the courts.[6]
+[Emphasis added]
+[19] The Federal Court of Appeal decisively rejected the notion that paragraph 8(1) of the Act should be interpreted broadly to permit the deduction of legal expenses incurred to protect one's professional qualifications or one's prospects of continuing to earn income from employment related to a profession.
+[20] The Court of Appeal recognized the findings of Bowman A.C.J. that in order for legal expenses to be deductible as an employment expense they must relate to proceedings which were incurred to establish employment salary or wages owed, and which could result in the collection of any salary or wages owed (opposed to damages).
+[21] The portion of the Blagdon decision selected by the appellant is not authority that supports his arguments. Rather, what Bowman A.C.J. was making reference to in Blagdon, was that had Mr. Blagdon been earning business income, opposed to earning employment income, his legal expenses may have been deductible as a general business expense pursuant to paragraph 18(1)(a) of the Act. Such was also the finding in St-Germain.
+[22] Blagdon cannot be taken to stand for the proposition that where income is generated in the course of carrying out a "profession", it will be considered to be generated in the course of carrying out a "business", and may therefore be deductible under paragraph 8(1)(a) of the Act. If anything, Blagdon undoubtedly goes against the appellant's position: the legal expenses incurred by the appellant in order to protect his professional reputation or his prospects of continuing to earn income for employment related to the medical profession are not deductible under paragraph 8(1)(a) of the Act.
+[23] Dr. Cimolai argued that Interpretation Bulletin IT-99R5 represents government policy and supports the deduction of his legal expenses in carrying out his profession, his business.
+[24] The appellant referred to paragraph 4 of the Interpretation Bulletin:
+Legal costs to prosecute or to defend most tort, contract or other civil claims arising in the ordinary course of business will generally be deductible.
+This portion of the Bulletin was taken out of context. The Bulletin first discusses the general deductibility of legal expenses where it states:
+1. Except where there is a specific provision in the Act dealing with legal or accounting fees, such as paragraph 8(1)(b) or 60(o.1) (see paras 22 to 27 below), legal and accounting fees are deductible only to the extent that they
+(a) are incurred for the purpose of gaining or producing income for a business or property...
+[25] From the foregoing, it is evident that the Bulletin highlights paragraph 8(1)(b) of the Act, relied upon by the appellant, as being a specific exception to the general deductibility of legal expenses. The Bulletin expounds upon this exception where, under the subheading entitled "Collection of Salary and Wages", it states that:
+22. Paragraph 8(1)(b) permits a deduction in computing income from an office or employment, for legal expenses paid by a taxpayer in the year to collect or to establish a right to salary or wages owed by an employer or former employer. ...
+23. A deduction under paragraph 8(1)(b) is allowed only in respect of an amount "owed" by an employer or a former employer.
+[26] The Bulletin distinguishes between the deductibility of legal expenses in computing employment income and the deductibility of legal expenses in computing business income. The Bulletin further highlights the business versus employment income distinction:
+7. Under paragraph 60(o), all taxpayers, including those persons who report income from sources other than business or property (such as salary or capital gains), may deduct feed or expenses incurred and paid for advice or assistance in preparing, instituting or prosecuting an objection or appeal in respect of..."
+[27] Dr. Cimolai has placed undue reliance on governmental policy which allows for the general deduction of legal costs incurred in prosecuting civil claims where such expenses are incurred for the purpose of gaining or producing income from a business. Such policy clearly distinguishes between the general deductibility of legal expenses when incurred in the context of earning business income versus the restricted deductibility of legal expenses incurred in the context of earning employment income. The Bulletin explains that legal expenses are deductible under paragraph 8(1)(b) of the Act in calculating employment income, only where they are incurred to establish a right to salary or wages owed by an employer (or former employer).
+[28] The appellant pursued civil litigation against former work colleagues, other employees; the proceedings were not incurred to "establish a right to salary or wages ... owed by an employer." Thus, the appellant's legal expenses are not deductible in calculating his employment income according to the policy outlined in the Bulletin.
+[29] Dr. Cimolai cited several cases supporting his contention that medical practitioners carry on a business by virtue of their profession, and that legal expenses incurred protecting a physician's reputation, in this 'business' context, are deductible. All these cases are distinguishable from the appeal at bar: Gordon v. M.N.R., 40 Tax A.B.C. 105; Fergusonv. M.N.R., 34 Tax A.B.C. 137 and St. Germain, supra.
+[30] Both Noble v. R.[7] and Leduc v. R.[8] deal with the deductibility of legal expenses in the context where they are incurred for the purpose of gaining or producing income from a business. Both cases accept that the appellants were producing income from the practice of law. However, in the former, Noble, the legal expenses were held deductible, while the latter, Leduc, they were not.
+[31] In Noble, legal expenses were incurred by the appellant lawyer in retaining independent counsel to advise him in relation to providing information about a client to the tax authorities. Sobier J. held that the legal expenses were deductible since they were necessary to prevent a conflict of interest position, which would render the appellant incapable of performing his legal services and thus prevent him from earning business income. Therefore, the legal expenses were held deductible pursuant to paragraph 18(1)(a) of the Act since they were made for the purpose of gaining or producing income from the appellant's law practice.
+[32] The facts in Leduc are very different from the foregoing. In Leduc, the appellant lawyer incurred $140,000 worth of legal expenses to defend against charges of multiple counts of sexual exploitation, sexual interference, and offering sexual services for consideration. After such charges had been laid, the taxpayer received a letter from the Law Society of Upper Canada stating, in part, that if the taxpayer were to be convicted of said charges, the Society would decide whether to commence professional misconduct proceedings.
+[33] The appellant argued that the legal expenses are deductible against his income earned from a business, since if he did not defend himself against the charges and was convicted, he would lose his licence to practice law.
+[34] Lamarre J. of this Court rejected this line of argument. She determined that even if the taxpayer had not been engaged in his professional activities, he would nonetheless have paid legal fees to defend himself against the charges, and therefore expenses were not deductible pursuant to paragraph 18(1)(h) of the Act, being personal expenses. She noted that:
+The fact that an eventual conviction could possibly affect the appellant's practice in the future is, in my view, purely hypothetical and speculative at this stage and, in any event, too remote to justify the deduction of the legal expenses in the taxation year at issue pursuant to paragraph 18(1)(a) of the ITA."[9]
+[35] Further, Justice Lamarre rejected the notion that one purpose of incurring these legal expenses was to earn (business) income.
+[36] These cases are reconcilable since the legal expenses in Noble were clearly linked to the appellant's ability to earn income from his current client, whereas the expenses in Leduc were said to preserve a future right to practice law. Further, in the context of the appeal at bar, Dr. Cimolai did not incur the legal expenses to earn income, business, employment, or otherwise.
+[37] Dr. Cimolai is not entitled to deduct legal expenses incurred with respect to the action described in the Statement of Claim. He was not carrying on a business or earning business income by virtue of his professional designation. Dr. Cimolai was an employee of the hospital and U.B.C. and earned employment income from these institutions.
+[38] The legal fees with respect to the Statement of Claim were not incurred by the appellant in pursuit of collecting or establishing a right to salary or wages owed by an employer as required pursuant to paragraph 8(1)(b) of the Act. Dr. Cimolai undertook the action to collect damages from colleagues, not salary or wages from an employer.
+[39] The appeal is allowed only to permit Dr. Cimolai to deduct $48,319.61 in computing his income for 2001.
+[40] I was not made aware at what stage of the proceedings the Crown consented to the deduction of the $48,319.61 with respect to the action against the hospital and so advised Dr. Cimolai. The parties will therefore make submissions in writing as to costs within 30 days.
+Signed at Ottawa, Canada this 25th day of November 2005.
+"Gerald J. Rip"
+Rip J.
+CITATION: 2005TCC767
+COURT FILE NO.: 2003-1899(IT)G
+STYLE OF CAUSE: NEVIO CIMOLAI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 6, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT: November 25, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] (1982), [1983 ] C.T.C. 2038, 83 D.T.C. 36 (T.R.B.) [St-Germain].
+[2] The definition reads, "business" includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment;... The last few words "does not include an office or employment" seems to clear up the situation that a profession may be a business, but a business does not include office or employment; i.e. where a profession is employment it isn't a business - and where a profession is not employment it is a business.
+[3] [2003] 4 C.T.C. 107, 2003 D.T.C. 5491 (Fed. C.A.); affg [2002] 2. C.T.C. 2332, 2003 D.T.C. 804 (T.C.C [Informal Procedure]) [Blagdon cited to T.C.C.)
+[4] Ibid., at para 21.
+[5] Interpretation Bulletin IT-99R5, issued on December 14, 2000, is entitled "Legal and Accounting Fees [Consolidated]".
+[6] Blagdon, supra note 3, citing [2003] 4 C.T.C. 107, 2003 D.T.C. 5491 (Fed. C.A.), paras 3 to 5.
+[7] [1998] 1 CTC 2979 (T.C.C.) [Informal Procedure]).
+[8] (2004), [2005] 1 CTC 2858, 2005 DTC 250 (Eng. (T.C.C. [General Procedure]).
+[9] Ibid., at paragraph 25.

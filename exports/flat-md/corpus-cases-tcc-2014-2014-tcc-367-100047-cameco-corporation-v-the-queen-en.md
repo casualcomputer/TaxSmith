@@ -1,0 +1,246 @@
+---
+title: "Cameco Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100047/index.do"
+last_modified: "2014-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 367"
+citation2: ""
+neutral_citation: "2014 TCC 367"
+decision_date: "2014-12-02"
+language: "en"
+item_id: "100047"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2776
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:25:23.297000+00:00"
+cases_cited_count: 10
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c6f2bb8606b82a8dad46aabf7d8f1d36424667800463ef3bd25fc7ddbd33f1a8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cameco Corporation v. The Queen
+
+- Citation: 2014 TCC 367
+- Decision date: 2014-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2776, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cameco Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-12-02
+Neutral citation
+2014 TCC 367
+File numbers
+2009-2430(IT)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2430(IT)G
+BETWEEN:
+CAMECO CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on December 2, 2014 at Toronto, Ontario
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Joseph M. Steiner
+Peter Macdonald
+Counsel for the Respondent:
+Elizabeth Chasson
+Diana Aird
+ORDER
+WHEREAS the Appellant brought a motion for:
+1. An Order striking paragraphs 31(a), 36, 37 and 38 of the Amended Reply filed by the Respondent on February 15, 2011 and directing that the Respondent is precluded from disputing that the terms and conditions of all of the transactions between the Appellant and any of its affiliates, which are in issue in this appeal, are terms and conditions which would have been made between persons dealing at arm’s length;
+2. An Order directing the Respondent to provide answers (and to also answer any proper questions arising from those answers) to questions 1118-1123 of the examination for discovery of Mr. G.H. conducted on February 5, 2014 (concerning the Crown’s Sham Theory);
+3. Costs of this motion, payable in any event of the cause; and
+4. Such further and other relief as counsel may advise and this Honourable Court deems just.
+AND UPON hearing the submissions of the parties;
+THIS COURT ORDERS THAT the Appellant’s motion is dismissed in its entirety and the Respondent shall be entitled to costs on a solicitor and its own client basis with respect hereto, payable in any event of the cause.
+Signed at Nanaimo, British Columbia, this 12th day of December 2014.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2014 TCC 367
+Date: 20141212
+Docket: 2009-2430(IT)G
+BETWEEN:
+CAMECO CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Pizzitelli J.
+[1] The Appellant has brought a motion for:
+1. An Order striking paragraphs 31(a), 36, 37 and 38 (the “Paragraph 247(2)(a) Statements”) of the Amended Reply filed by the Respondent on February 15, 2011 and directing that the Respondent is precluded from disputing that the terms and conditions of all of the transactions between the Appellant and any of its affiliates, which are in issue in this appeal, are terms and conditions which would have been made between persons dealing at arm’s length;
+2. An Order directing the Respondent to provide answers (and to also answer any proper questions arising from those answers) to questions 1118-1123 of the examination for discovery of Mr. G.H. conducted on February 5, 2014 (concerning the Crown’s Sham Theory);
+3. Costs of this motion, payable in any event of the cause; and
+4. Such further and other relief as counsel may advise and this Honourable Court deems just.
+[2] I intend to deal first with the motion to strike the Paragraph 247(2)(a) Statements and then with the request to preclude the Respondent from disputing the terms and conditions above-referenced. I will deal with the request for answers to questions concerning the Crown’s Sham Theory above-referenced last.
+I. Striking Paragraphs of Amended Reply and Order Sought [3] The Paragraph 247(2)(a) Statements in the Respondent’s Amended Reply the Appellant seeks to strike read as follows:
+C. ISSUES TO BE DECIDED
+31. The issues to be determined in respect of transactions or series of transactions or arrangements described in paragraphs 14 and 17 are:
+a) whether the provisions of paragraphs 247(2)(a) and (c) apply to the said transactions; …
+D. STATUTORY PROVISIONS, GROUNDS RELIED ON, AND RELIEF SOUGHT
+36. He respectfully submits that the terms or conditions made or imposed in respect of the sale and purchase of uranium between Canco and Swissco and the services to be provided by Canco to Swissco in respect of the Mining Agreements differed from those that would have been made between persons dealing at arm’s length within the meaning of paragraph 247(2)(a) of the Income Tax Act. Canco performed all the functions and undertook all the risks and Swissco undertook no functions and assumed no risks. Arm’s length parties, in such circumstances, would give Swissco negligible or nil consideration and provide Canco with all the income, commensurate with each parties’ functions and risks in the transactions. The Minister properly reassessed as such by adding all of Swissco’s profits into Canco’s income pursuant to paragraph 247(2)(c) of the Income Tax Act.
+37. He further submits that with respect to Tenex, Urenco and other transactions with third parties whereby Swissco executed contract(s) and /or amendment(s) or had them assigned to it by Luxco, Canaco guaranteed the performance and payment by Swissco for a guarantee fee, created a Service Agreement whereby Canco performed all substantive functions and all necessary functions, and undertook all the risks. The terms or conditions between Canco and Swissco in respect of those transactions differ from those that would have been made between persons dealing at arm’s length within the meaning of paragraph 247(2)(a) of the Income Tax Act. At arm’s length, the terms and conditions would:
+a) reflect compensation to Swissco only in respect of the functions and risks it undertook, which were limiting to executing contracts and maintaining Swissco as a legal entity; and
+b) the party undertaking all the remaining functions and assuming all the risks would earn all the profits, either through the Guarantee Agreements and the Service Agreement or other arrangements.
+38. Pursuant to paragraph 247(2)(c), the Minister properly reassessed in accordance with the terms and conditions that would exist between arm’s length parties, namely all the profit would be earned by Canco and Swissco would not earn any profit.
+[4] The Appellant takes the position that such provisions should be struck because the Respondent not once, but twice, failed to comply with Chief Justice Rip’s previous Orders to provide certain fundamental information to the Appellant in respect of the allegation that those terms and conditions differ from those that would have been agreed to between person’s dealing at arm’s length and thus pursuant to Rule 53 of the Tax Court of Canada Rules (General Procedure), such statements are scandalous, frivolous or vexatious or is an abuse of process as the Appellant contends in this case.
+[5] Rule 53 reads as follows:
+53. (1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+(2) No evidence is admissible on an application under paragraph (1)(d).
+(3) On application by the respondent, the Court may quash an appeal if
+(a) the Court has no jurisdiction over the subject matter of the appeal;
+(b) a condition precedent to instituting an appeal has not been met; or
+(c) the appellant is without legal capacity to commence or continue the proceeding.
+[6] By way of background, the Appellant brought a motion to strike certain paragraphs of the Respondent’s original Reply on May 17, 2010, which, inter alia included the following paragraphs found in the assumptions portion of the Reply, namely subparagraphs 14(bbb) and (fff) which read as follows:
+(bbb) the transfer prices for uranium on the sales by Canco to Swissco and the purchases by Canco from Swissco were not consistent with an arm’s length price;
+(fff) the terms and conditions made or imposed in respect of the sale and purchase of uranium between Canco and Swissco differ from those that would have been made between persons dealing at arm’s length.
+[7] Chief Justice Rip struck both of these provisions in his Order of December 30, 2010 with leave to amend for the reasons stated in paragraphs 48 and 49 of his Amended Reasons for Order dated January 12, 2011 which read:
+[48] Subject Paragraph 14(bbb) is another key allegation in this appeal alleging that the transfer prices on the sales and purchases in issue were not consistent with an arm’s length price. The Appellant is entitled to know what prices are consistent with an arm’s length prices to the extent that such prices cannot be determined by reference to the amount of tax assessed. This paragraph will be struck with leave to amend.
+[49] Subject Paragraphs 14(fff), (ggg) and (jjj) will be struck with leave to amend. The contents of these paragraphs are mixed fact and conclusions of law, in particular a paraphrase of paragraph 247(2)(a) of the Act.
+[8] With leave to amend, the Respondent filed the Amended Reply where such provisions were contained in identical form save that they were referenced as subparagraphs 14(eee) and (lll). Consequently, the Appellant brought another motion to strike these two subparagraphs on the basis the Respondent did not comply with Chief Justice Rip’s First Order to strike the identical subparagraphs pursuant to Rule 53. Chief Justice Rip ordered the provisions struck in his Order of July 20, 2011 (the “Second Order”) for failure to comply with the First Order on the basis same offended Section 53 of the Rules. Notwithstanding that Chief Justice Rip incorrectly identified those subparagraphs as 14(bbb) and (fff) instead of (eee) and (lll) there is no dispute what provisions he was referring to. In paragraph 20 of his Reasons, Chief Justice Rip reiterated his rationale for striking it in first instance:
+[20] Subparagrpah 14(bbb) was ordered struck from the reply because the appellant was entitled to know how the prices for uranium transferred between Canco and Swissco differed from those that would have been agreed upon by arm’s length parties. …once the Minister assumed that the transfer prices for uranium contracts differed from those that would have been made between persons dealing at arm’s length, the appellant was entitled to know exactly how they differed. In principle, this may apply to subparagraph 14(fff) of the reply as well.
+[9] In paragraphs 22 to 23 Chief Justice Rip went on to state that in effect merely changing the numbers of the subparagraphs does not constitute an amendment and thus if no amendment was made the provisions were ordered struck. In paragraph 23 Chief Justice Rip stated:
+[23] When a court orders a provision of a pleading to be struck the provision in question must be struck. If leave to amend is granted, the struck provisions may be replaced by amendment. In principle, leave to amend does not anticipate the struck provisions will remain in the pleadings even if, on amendment, further provisions are inserted to clarify or address the concerns of the Court in the first place. …
+[10] The Appellant argues that in effect the information directed to be included by Chief Justice Rip in those two subparagraphs; namely that the Appellant was entitled to know how the prices for uranium transferred between Canco and Swissco differed from those that would have been agreed upon by arm’s length parties and once assumed the difference, the appellant was entitled to know exactly how they differed must also be contained in the Paragraph 247(2)(a) Statements or provided on discovery and failure to do so should constitute non-compliance with his Orders and thus an abuse of process under Rule 53(1)(c).
+[11] Frankly, I cannot agree with the Appellant. As the Respondent had pointed out, the Paragraph 247(2)(a) Statements now sought to be struck by the Appellant were contained in the Amended Reply at the time of the second motion and neither specifically argued nor commented on by Chief Justice Rip. If Chief Justice Rip had intended to have his dicta apply to the Paragraph 247(2)(a) Statements he would have indicated so. His Second Order, addressing the Amended Reply was dated July 20, 2011, over 3 years ago, and now the Appellant, after pleadings were closed and discovery commenced and completed, save for any need to further answer questions in issue, raises the issue in respect of the Paragraph 247(2)(a) Statements that he did not raise during the earlier motions.
+[12] Chief Justice Rip was not asked to nor did he consider or make any order in regards to the Paragraph 247(2)(a) Statements in question and hence there is no violation of any such order and hence no abuse of process claimed by the Appellant. Moreover, even if I were to accept the Appellant’s interpretation of Chief Justice Rip’s directives as applying to the Paragraph 247(2)(a) Statements, it is clear that the Respondent has indicated that the arm’s length price for Swissco’s services were nil or nominal and so would have satisfied the directives in any event. The Respondent in such amended Paragraph 247(2)(a) Statements clearly indicated the price is 0. In paragraph 36 the Respondent states that “Arm’s length parties, in such circumstances, would give Swissco negligible or nil consideration …” and in paragraph 37 stated:
+[37] … The terms or conditions between Canco and Swissco in respect of those transactions differ from those that would have been made between persons dealing at arm’s length within the meaning of paragraph 247(2)(a) of the Income Tax Act. At arm’s length, the terms and conditions would:
+a) reflect compensation to Swissco only in respect of the functions and risks it undertook, which were limited to executing contracts and maintaining Swissco as a legal entity; and
+b) the party undertaking all the remaining functions and assuming all the risks would earn all the profits, either through the Guarantee Agreements and the Service Agreements or other arrangements.
+[13] In paragraph 38 of the Paragraph 247(2)(a) Statements the Respondent states “… namely all the profit would be earned by Canco and Swissco would not earn any profit.”
+[14] These Paragraph 247(2)(a) Statements do not paraphrase paragraph 247(2)(a) as did the subparagraphs struck by Chief Justice Rip above. They contain sufficient detail and information in my view for the Appellant to know exactly the price it feels Swissco is due in an arm’s length situation, nil and thus allow the Appellant to know and deal with it properly at trial. This is hardly the case of rambling pleadings that would justify a conclusion that the Amended Reply is scandalous, frivolous or vexatious as in the O’Neil v Minister of National Revenue, [1994] FCJ No. 1940, 95 DTC 5060, relied upon by the Appellant.
+[15] Moreover, these statements fall under the headings “C. ISSUES TO BE DECIDED” or “D. STATUTORY PROVISIONS, GROUNDS RELIED ON, AND RELIEF SOUGHT”. They are not assumptions under paragraph 14 like the provisions considered by Chief Justice Rip, the onus of which falls on the Appellant to demolish, so I am not convinced there is any prejudice to the Appellant in this regards. Moreover, on a review of the assumptions in the Amended Reply not challenged by the Appellant, it is clear to me that if true, many of the assumptions may be capable of supporting the Respondent’s position, something which the trial judge must determine after weighing all the evidence.
+[16] It is trite law stated by Chief Justice Rip in the First Order when quoting former Chief Justice Bowman in Sentinel Hill Productions (1999) Corporation et al. v Her Majesty the Queen, 2007 TCC 742, 2008 DTC 2544, at page 2545, paragraph 4 that:
+…
+(b) To strike out a pleading or part of a pleading under Rule 53 it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care.
+(c) A motions judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence.
+…
+[17] In my view, the Appellant has not demonstrated the Respondent’s position has no hope of succeeding and it seems clear to me that if a trial judge accepts on the evidence that the Appellant has not demolished the Ministers assumptions, like paragraph 14(x), that assumes all substantive functions relating to Swissco’s alleged business were performed by Canco or paragraphs 14(y) and (rr) which assumes Swissco assumed no risk while Canco did, or (hhh) which assumes Swissco provides no functions of value to Canco and assumes no risk, or (mmm) which assumes Swissco would not earn any profit at arm’s length for failure to perform any functions of value to generally name and summarize a few, then such assumptions can support the Paragraph 247(2)(a) Statements that Swissco is in effect entitled to no or nil consideration in the transfer pricing regime.
+[18] It should also be noted that Chief Justice Rip made it clear in paragraph 22 of his Second Order that “… discussions regarding transfer pricing methodologies are not before me at this stage…”. Clearly Chief Justice Rip was not basing his decision to strike the two specific paragraphs on the merits of the Respondent’s profit split methodology and the process it argued in support of its position during those motions.
+[19] It follows then that I disagree with the Appellant’s argument that the decisions of Chief Justice Rip would have had to be appealed for the Respondent to maintain the Paragraph 247(2)(a) Statements in its Amended Reply.
+[20] The Appellant’s motion to strike the Paragraph 247(2)(a) Statements is denied.
+II. Order Precluding Paragraph 247(2)(a) and (c) Issues [21] The Appellant also seeks an Order directing that the Respondent be precluded from disputing that the terms and conditions of all of the transactions between the Appellant and any of its affiliates, which are in issue in this appeal, are terms and conditions which would have been made between persons dealing at arm’s length; effectively precluding the Respondent from pursuing paragraph 247(2)(a) transfer pricing arguments and the adjustments contemplated by paragraph 247(2)(c). These provisions are set out below:
+247. (2) Where a taxpayer or a partnership and a non-resident person with whom the taxpayer or the partnership, or a member of the partnership, does not deal at arm’s length (or a partnership of which the non-resident person is a member) are participants in a transaction or a series of transactions and
+(a) the terms or conditions made or imposed, in respect of the transaction or series, between any of the participants in the transaction or series differ from those that would have been made between persons dealing at arm’s length, or
+…
+(c) where only paragraph 247(2)(a) applies, the terms and conditions made or imposed, in respect of the transaction or series, between the participants in the transaction or series had been those that would have been made between persons dealing at arm’s length, or
+…
+[22] The Appellant argues that the Respondent has failed to properly answer questions on discovery of its auditor, one Mr. G. H., dealing with the above paragraphs, in effect failing for a third time to meet the directives of Chief Justice Rip referred to above pertaining to the striking of the subparagraphs in his First and Second Order, thus rendering the Crown’s pleadings of the Paragraph 247(2)(a) Statements sought to be struck as scandalous, frivolous and vexatious or an abuse of the process of this Court within the meaning paragraphs 53(1)(a), (b) and (c) of the Rules above-referred to, or in the alternative, find that such responses constitute a failure to answer questions; and thus seeks that the appeal under paragraphs 247(2)(a) and (c) of the Income Tax Act be dismissed under Rule 110(f) which will be discussed in more detail. Furthermore argued by the Appellant, the responses to the questions demonstrate there is no basis upon which the Crown could successfully advance an argument under those provisions and indeed the answers represent an abandonment of the argument that paragraphs 247(2)(a) and (b) apply in this case.
+[23] I have already ruled that I am not prepared to strike the Paragraph 247(2)(a) Statements above on the basis of the applicable law pertaining to striking pleadings under any of the provisions of Rule 53. I must also disagree with the Appellant that the directive of Chief Justice Rip which he refers to applied to any questions asked on discovery. Clearly, the Orders of Chief Justice Rip were well in advance of discovery and pertained only to the content of the pleadings questioned, so I frankly again fail to see how the Respondent was in any way in violation of any Order in this regard so as to constitute any abuse of process.
+[24] Moreover, as I mentioned earlier, I have already determined, based on the pleadings in the Amended Reply, the Appellant has not demonstrated that the Respondent has no chance of succeeding. The Appellant however now asks in effect that I find the Respondent also has no chance of succeeding based on his answers on discovery. I am not prepared to do so for a few reasons.
+[25] Firstly, the questions posed to the Respondent’s auditor, Mr. G.H., in particular Question 1117 (although similar questions ensued in Questions 1032 and 1033-1041) and answer ultimately given in writing by follow-up undertakings are as follows:
+Q. Mr. H, in connection with the Minister’s arguments under 247(2)(a) and (c), I’d like you to tell me for each transaction involving the purchase and sale of uranium between Cameco Europe SA and Comeco Corporation or Cameco Europe, Ltd and Comeco Corporation taking place between 1999 and 2003, I’d like you to tell me which terms and conditions differ from those which would have been made between persons dealing at arm’s length, and what you say the terms and conditions of each of these transactions would have been had they been entered into between persons dealing at arm’s length.
+[26] The answer for all the related questions above was as follows:
+The Crown’s primary position is in this appeal is that the structure is a sham. In the alternative, our position is that at arm’s length, CEL, [also earlier described as Swissco] would not have been a party to these transactions as CEL did not perform any functions nor did it assume any risks. An arm’s length party would not have entered into these series of transactions with CEL in these economic circumstances. An arm’s length party would not have paid anything to CEL as CEL did not contribute anything of value to the series of transactions. At arm’s length, CCO [the Appellant] would be a party to all transactions where CEL (or CSA) were signatories and CEL’s compensation, if any, would be commensurate with the minimal functions it performed.
+[27] In addition to the clear arguments of sham enunciated by such answer, the Respondent also clearly addressed the issue of price in all the transactions by clearly advising that “an arm’s length party would not have paid anything” based on its contribution. The Question is answered and the answer, like in the Paragraph 247(2)(a) Statements the Appellant sought to have struck, is nil. The answer not only addresses sham but clearly addresses the price term of the transactions challenged as being the different term and sets out what an arm’s length party would pay. In the circumstances the Respondent appears to have directly addressed the issues contemplated by paragraphs 247(2)(a) and (c) and appears consistent with the pleadings sought to be struck. Even if I had found Chief Justice Rip’s directive had applied, I would find it was satisfied by such answer. It will be up to the trial judge to ultimately decide whether those sections apply on the evidence but the responses to the questions demonstrate a possible basis upon which the Crown could successfully advance an argument under those provisions. It follows that in my opinion the Respondent has in no way abandoned any argument on these transfer pricing provisions.
+[28] Secondly, I am in agreement with the Respondent that there are no grounds to strike the Amended Reply on the basis of the Respondent’s answers at discovery in question pursuant to Rule 110(b) which allows a Court to strike an appeal for failure to answer any proper question.
+[29] As the Respondent has argued, the decision of the Federal Court of Appeal in MacIver v Her Majesty the Queen, 2009 FCA 89, 2009 DTC 5078, at paragraph 8, clearly stated that the use of dismissal powers under section 110(b) of the Rules “… should only be exercised where the violations of the Rules are multiple, egrarious and intentional”. The Respondent also relies on the Federal Court of Appeal decision in Yacyshyn v Her Majesty the Queen, [1999] FCJ No. 196, 99 DTC 5133 where Létourneau JA stated at paragraph 18 that “… the dismissal of an appeal is a drastic and somewhat ultimate remedy reserved for the egregious case or when no other alternative and less drastic remedy would be adequate.”
+[30] In this matter I have found no violation of any Rule or Order here as earlier stated and find the questions were answered on discovery. Moreover, the Appellant seeks this severe remedy without having even asked any follow-up questions or requested further details, without having brought any motion to determine whether his question was proper or properly answered or refused as he alleges or otherwise under the Rules, yet seeks this drastic remedy. The Appellant has made no attempt to pursue less drastic steps under the Rules.
+[31] Accordingly, I am denying the Appellant’s motion for an Order directing that the Respondent be precluded from disputing that the terms and conditions of all of the transactions between the Appellant and any of its affiliates, which are in issue in this appeal, are terms and conditions which would have been made between persons dealing at arm’s length. The Respondent shall not be precluded from advancing any such position or arguments.
+III. Order to Answer Questions on Sham Theory [32] As earlier stated the Appellant seeks an Order directing the Respondent to provide answers (and to also answer any proper questions arising from those answers) to Questions 1118-1123 of the examination for discovery of Mr. G.H. conducted on February 5,2014 concerning the Crown’s Sham Theory.
+[33] The questions and the written answers given to those questions, after the Respondent initially took them under advisement at the discovery, are as follows:
+26. On the examination for discovery of Crown’s nominee, counsel for Cameco put the following questions:
+1118 Q. I would like you, then, to identify for me each instance where the actual legal relationships between [Cameco] and [CSA] in respect of any contract or transaction which you consider relevant, differ from the legal relationships reflected in the agreements between [Cameco] and [CSA].
+…
+1119 Q. And I will have the same question and I assume get the same response with respect to - - well, let me just put it on the record to it’s there. I’d ask you to identify each instance where the actual legal relationships between [Cameco] and [CEL] in respect of any contract or transaction which it considered relevant, differs from the legal relationships reflected in agreements between [Cameco] and [CEL].
+…
+1120 Q. I would like the same information with respect to any agreements between any other pair of Cameco entities or any number of Cameco entities.
+In other words, I’ve covered off [Cameco] and [CSA] relationships, [Cameco] and [CEL] relationships. If there are relationships or contracts which you say are relevant between any other grouping of Cameco entities, which you say do not reflect the actual legal relationships between them, again I’d like to know.
+…
+1121 Q. And the same request with respect to the relationship between any Cameco entity and any third party.
+…
+1122 Q. And I think this will flow from the answers to the undertakings and I would be entitled to ask it, but to the extent your response is that in any of these relationships, the actual legal relationships differed from those represented by the written agreements. I’d like to know the basis upon which you say that. That is to say the basis upon which you say the parties, in fact, were not and did not intend to be governed by the written agreements between them.
+MS. CHASSON: Do I understand you correctly that is – that that question is a similar question that you’ve asked previously in other areas, looking for evidence in the nature of documents or otherwise?
+BY MR. STEINER:
+1123 Q. It would involve, in the first instance, an explanation, and in the second instance, information and documents.
+Crown counsel took all of these questions under advisement. (The reference by Cameco’s counsel to “undertakings” in question 1122 was in error.)
+27. The following answers were provided in the Crown’s Responses:
+1118: All of them because they are all shams. CCO treated CEL’s business as its own.
+1119: All of them because they are all shams. CCO treated CEL’s business as its own.
+1120: Any contract where CEL or CSA is the named party does not reflect the legal relationship.
+1121-1123: Refusal. Too broad. The respondent does not have knowledge all of CCO’s contracts with third parties.
+[34] Although the Appellant failed to rely on any specific rule in support of its contention that the answers given were non-answers or for the relief sought, the Respondent assumed in argument without objection of the Appellant that the Appellant was relying on Rule 95 requiring a person examined for discovery to answer any proper questions to the best of his knowledge, information and belief and Rule 107 which allows a person to object to a question and allows in effect the questioner to bring a motion to the Court for a ruling on the propriety of a question that is objected to, as well as Rule 110, which allows a Court to order a person to re-attend to answer a question essentially found not to be improper.
+[35] It should be noted that the Appellant made no effort to request further particulars or ask any follow up questions at all or bring this motion until almost 10 months after the discovery in question, however I will deal with it now.
+[36] The rationale for the Appellant’s objection to the answers of the Respondent in question is based on its position that the Appellant cannot know the case which it will be required to meet at trial with respect to the Sham issue. Moreover argues the Appellant, if the Respondent believes there is a case to be made on “sham”, it must be able to answer the questions and articulate how it says the actual legal relationships differed from those reflected in the various agreements and transactions and prove all the elements of a Sham which it alleges are articulated in various cases including recently in McLarty v Her Majesty the Queen, 2014 TCC 30, 2014 DTC 1162, at paragraph 73, as follows:
+The classic definition of a “sham” in Snook v. London and West Riding Investments, Ltd., [1967] 1 All ER 518, has been repeatedly endorsed by Canadian courts. The required elements for a sham are (1) an intention of the parties to the transactions (2) to give a false appearance (3) that legal rights and obligations have been created that are different from the actual legal rights and obligations of the parties.
+[37] Firstly, I must say that if the Appellant wished to ask questions pertaining to facts relevant to what he perceives are the elements of the legal test for the existence of a sham he should have asked them. It is not for the witness being examined to presume to answer a question of law. In this context the Appellant’s questions are far too vague or broad.
+[38] Secondly, as the Respondent has argued, the Appellant itself presumes the elements of sham enunciated by the Tax Court are complete. With respect to the Appellant, such arguments must be answered only by a trial judge. It can be said here that the manner in which the elements of sham stated by the Appellant appear somewhat incomplete. In Stubart Investments Ltd. v Her Majesty the Queen, [1984] 1 SCR 536, the Supreme Court of Canada discussed what constituted a “sham transaction” at pages 545 and 546, which provision was also quoted in McLarty above immediately before the earlier elements provision:
+… A sham transaction. This expression comes to us from decisions in the United Kingdom, and it has been generally taken to mean (but not without ambiguity) a transaction conducted with an element of deceit so as to create an illusion calculated to lead the tax collector away from the taxpayer or the true nature of the transaction; or, simple deception whereby the taxpayer creates a facade of reality quite different from the disguised reality. …
+[39] Its seems quite clear to me that the answers given to Questions 1118 -1120 clearly suggest all the transactions between the Appellant and it affiliates are shams because the Appellant treated the business of the affiliates as its own, hence it can be argued falls within the Supreme Court of Canada’s dictum that such transactions create an illusion leading the tax collector away from the taxpayer. That of course will be up to the trial judge to determine. Likewise the answer to Question 1121 that contracts to which the affiliates are parties do not reflect the legal relationship seems to be consistent with the Supreme Court of Canada’s dictum that the tax collector is lead away from the true nature of the transaction.
+[40] Moreover, these answers must be put in context with the answer earlier discussed given in relation to Question 1117 where the Respondent answered that the “Crown’s primary position is in this appeal that the structure is a sham” and in the alternative goes on to discuss that CEL would not have been a party to these transactions as it did not perform any functions nor assume any risks and the Appellant would be a party to all the transactions. The fact the alternative arguments may support a transfer pricing argument do not preclude them from also supporting a “sham” argument and the trial judge must decide that issue based on the evidence before him. It seems clear to me that the Appellant knows exactly the case it has to meet with a sham theory.
+[41] Notwithstanding the above, I must also agree with the Respondent’s position that the questions, particularly when Question 1122 further requires the deponent to provide the basis of why the Respondent says all the various parties intention not to be bound by the written agreements, are compound questions and are unfair to the person being examined. As Bowie J. stated in Reddy v Her Majesty the Queen, 2011 TCC 161, 2011 DTC 1129, at paragraphs 6 and 7:
+[6] In the present case, it is the form of the question that is objectionable.… it is counsel’s job, not the deponent’s, to go through the document to ascertain whether the assumptions are to be found recorded there. The examination is not a memory test for the deponent to pass or fail depending on how well she has memorized the 37 assumptions that are pleaded.
+[7] Compound questions are not permitted, because they are unfair to the person being examined….
+[42] With the questions at hand the deponent was essentially being asked to recall all the contracts between the Appellant and CEL and other members of the group as well as between any member of the group and third parties and then identify differences in the legal relationships. These are not only compound questions, especially difficult having regard to the evidence that the various documents in question were complex and different from one another, but also require, as the Respondent has argued, that the deponent would have to segregate all the potential documents in issue, including some with third parties it may not even have knowledge of in Question 1121, and then identify those documents which related to a particular issue, something found improper in Kossow v Her Majesty the Queen, 2008 TCC 422, 2008 DTC 4408, at paragraph 60. The Appellant is aware of which documents the entities entered into and their terms and has the ability to both identify and pose specific questions related thereto.
+[43] In summary, I do not find that the questions were not answered and find that the questions were in fact not proper questions and hence will not order the deponent to re-attend to answer those questions as posed.
+Conclusion [44] The Appellant has not satisfied me that it is entitled to an Order with respect to any of the relief requested in the motion. Frankly, I am of the view the Appellant had no reasonable grounds to justify seeking the relief sought and frankly failed to take proper steps under the Rules to first seek less dramatic relief than that sought as referred to early in these reasons. The Court should not tolerate unnecessary motions that serve only to delay the process at substantial cost to all parties, particularly when the party bringing the said motion is the one alleging abuse of process. The Appellant’s motion is dismissed in its entirety and the Respondent shall be entitled to costs on a solicitor and its own client basis with respect hereto, payable in any event of the cause.
+Signed at Nanaimo, British Columbia, this 12th day of December 2014.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION:
+2014 TCC 367
+COURT FILE NO.:
+2009-2430(IT)G
+STYLE OF CAUSE:
+CAMECO CORPORATION AND THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 2, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF ORDER:
+December 12, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Joseph M. Steiner
+Peter Macdonald
+Counsel for the Respondent:
+Elizabeth Chasson
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Joseph M. Steiner
+Peter Macdonald
+Firm:
+Osler, Hoskin & Harcourt LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

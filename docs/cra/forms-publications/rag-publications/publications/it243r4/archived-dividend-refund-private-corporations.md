@@ -1,0 +1,414 @@
+---
+title: "ARCHIVED - Dividend Refund to Private Corporations"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it243r4/archived-dividend-refund-private-corporations.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Dividend Refund to Private Corporations
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-243R4**
+
+DATE: February 12, 1996
+
+SUBJECT: INCOME TAX ACT**Dividend Refund to Private Corporations**
+
+REFERENCE: Section 129 (also sections 51, 84, 85.1, 86, 87, 88, 105, 123.2, 125, 150, and 157; subsections 12(10.2), 15(3), 85(1), 104(13) and (14), 126(1) and (2), 161(2), 186(2), 256(2), and 260(7); the definitions of "designated property" and "private corporation" in subsection 89(1), "Canadian-controlled private corporation" and "specified investment business" in subsection 125(7), "capital gains dividend" in subsection 131(1), and "dividend" in subsection 248(1); and paragraphs 108(5)(*a*), 111(1)(*b*), and 251(5)(*b*) of the *Income Tax Act*; and section 4301 of the *Income Tax Regulations*)
+
+### Notice -- Bulletins do not have the force of law
+
+***This document is also available for [download in PDF format](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it243r4.html).***
+
+## Contents
+
+- *[Application](#P74_3218)*
+
+- *[Summary](#P77_3574)*
+
+- *[Discussion and Interpretation](#P80_4104)*
+
+    - [General](#P81_4133) (¶s 1-2)
+
+    - [Taxable dividends paid](#P87_5304) (¶s 3-6)
+
+    - [Refundable dividend tax on hand](#P106_9837) (¶ 7)
+
+    - [Refundable portion of Part I tax](#P115_11092) (¶s 8-9)
+
+    - [Canadian and foreign investment income](#P125_13442) (¶s 10-19)
+
+    - [Other considerations](#P155_22033) (¶s 20-22)
+
+          - *[Dividend refund rate](#P162_24739)*
+
+          - *[Refundable dividend tax on hand](#P164_25252)*
+
+                  - *[Part I tax addition to RDTOH](#P172_26725)*
+
+          - *[Definitions](#P182_28878)*
+
+                  - *[Aggregate investment income](#P184_29244)*
+
+                  - *[Eligible portion](#P198_30665)*
+
+                  - *[Foreign investment income](#P200_31410)*
+
+                  - *[Income or loss](#P202_32045)*
+
+          - *[Refundable tax on CCPC's investment income](#P206_32459)*
+
+- *[Explanation of Changes](#P227_33471)*
+
+## Application
+
+This bulletin cancels and replaces Interpretation Bulletin IT-243R3 dated May 21, 1985, and the Special Release to IT-243R3 dated December 30, 1987.
+
+*The comments in this bulletin are significantly affected by the draft legislation released by the Minister of Finance on July 19, 1995. The relevant proposed amendments are discussed at [¶ 22](#P22) below.*
+
+## Summary
+
+This bulletin outlines the rules for determining the dividend refund of a private corporation. Basically, a dividend refund is available to a private corporation in respect of any Part IV tax paid on its portfolio dividend income and a portion of any Part I tax paid on its investment income if it has paid taxable dividends in a taxation year. The bulletin explains the meaning of the term "taxable dividends" for this purpose. It also deals with the calculation of a corporation's refundable dividend tax on hand (RDTOH).
+
+## Discussion and Interpretation
+
+## General
+
+**¶ 1.** Under subsection 129(1), a dividend refund is available to certain corporations that have paid taxable dividends in a taxation year. For 1993 and later taxation years, a corporation's dividend refund for a year is limited to the lesser of:
+
+(a) one-quarter of all taxable dividends paid by the corporation in the year when it was a private corporation on shares of its capital stock; and
+
+(b) the corporation's RDTOH at the end of the year (see [¶ 7](#P07) below).
+
+For 1992 and previous taxation years, a corporation had to be a private corporation at the end of the year before it could qualify for the dividend refund. (Please refer to the Act for the transitional rule that applies to taxation years beginning before 1993 and ending after 1992.)
+
+**¶ 2.** The term "private corporation" is defined in subsection 89(1). In general, a private corporation is a corporation that is resident in Canada, is not a public corporation, and is not controlled by one or more public corporations or prescribed federal Crown corporations or by any combination thereof. For more information on the definition of "private corporation," see the current version of IT-391, *Status of Corporations*.
+
+## Taxable dividends paid
+
+**¶ 3.** Subject to the anti-avoidance rule in subsection 129(1.2) described in [¶ 6](#P06) below, for the purposes of subparagraph 129(1)(*a*)(i), taxable dividends paid include the following:
+
+- stock dividends, other than those stock dividends which are excluded under the definition of "dividend" in subsection 248(1);
+
+- a dividend deemed under section 84 to have been paid;
+
+- an amount paid as interest or as a dividend on an income bond or income debenture to the extent that it is deemed under subsection 15(3) to have been paid as a dividend; and
+
+- an amount paid under a securities lending arrangement to the extent that it is deemed under subsection 260(7) to have been paid as a taxable dividend.
+
+On the other hand, the following do not qualify as taxable dividends paid:
+
+- a capital dividend;
+
+- a capital gains dividend within the meaning of subsection 131(1);
+
+- interest paid on a small business development bond; and
+
+- by virtue of subsection 129(1.1), a taxable dividend paid to a corporation that controlled (within the meaning assigned by subsection 186(2)) the payor corporation at the time the dividend was paid, and that was a bankrupt at any time during the taxation year of the payor corporation.
+
+For more information on taxable dividends, see the current version of IT-67, *Taxable Dividends from Corporations Resident in Canada*.
+
+**¶ 4.** When, in a particular taxation year, a corporation distributes its assets to its shareholders in the course of winding-up, the dividend which is deemed to have been paid under subsection 84(2) may be insufficient to create a dividend refund equal to the corporation's RDTOH at the end of the year. In such cases, the corporation's dividend refund for the year is restricted to one-quarter of the deemed dividend under subsection 84(2) (i.e., the amount determined under ¶ 1[(a)](#P01) above). The corporation may then use the dividend refund to pay its shareholders a taxable dividend in a later taxation year. Since the taxable dividend is paid in a later taxation year, it cannot be used to redetermine the dividend refund for the particular taxation year in which the deemed dividend arose. Only taxable dividends which are paid or deemed to have been paid in a taxation year are eligible for a dividend refund. A corporation which intends to wind up and has distributed its assets may continue to claim dividend refunds, as long as it complies with section 129 and the corporate charter has not been surrendered.
+
+**¶ 5.** In order to claim a dividend refund, a corporation must make an actual payment to shareholders, except when a dividend is deemed to have been paid. This payment can be in the form of either cash or other tangible assets. In the latter case, the amount of the dividend, other than a stock dividend, is the fair market value of the assets transferred to the shareholders. A corporation is not considered to have paid a dividend when it merely credits a shareholder's account, unless the shareholder is able to withdraw the amount credited at any time. When a shareholder owes an amount to the corporation and, rather than making an actual disbursement to the shareholder, the corporation offsets the shareholder's debt by the amount of the dividend, the offset will constitute payment of a dividend.
+
+**¶ 6.** Subsection 129(1.2) provides an anti-avoidance rule which prevents a corporation from structuring arrangements in order to obtain a dividend refund without the related shareholder tax being paid. For example, a private corporation with RDTOH may seek to issue shares with a high redemption price but low paid-up capital to a tax-exempt entity or other corporation that receives ordinary dividends on a non-taxable basis and obtain a dividend refund on the subsequent share redemption. Subsection 129(1.2) is designed to stop these types of arrangements by deeming a dividend not to be a taxable dividend and denying a dividend refund in respect of that dividend where the following circumstances exist:
+
+- the dividend is paid on a share of a corporation;
+
+- the share (or a substituted share) was acquired by the holder in a transaction or as part of a series of transactions; and
+
+- one of the main purposes of the transaction or the series of transactions was to obtain a dividend refund.
+
+Subsection 129(1.2) applies to dividends paid after 4 p.m. Eastern Daylight Saving Time, September 25, 1987, to a person who is exempt from tax or is a corporation other than a private corporation, and to all dividends paid after November 27, 1987, where the circumstances described above exist.
+
+## Refundable dividend tax on hand
+
+**¶ 7.** Subsection 129(3) provides the definition of a corporation's RDTOH. This notional account is used to calculate the tax refund available to a corporation when it has paid taxable dividends in a taxation year. A corporation's RDTOH at the end of a particular taxation year can generally be described as the amount, if any, by which the total of:
+
+(a) the refundable portion of Part I tax computed in accordance with the rules in paragraph 129(3)(*a*) (see ¶s [8](#P08) and [9](#P09) below);
+
+(b) the total of the Part IV tax payable by the corporation for the year and any previous taxation years ending after it last became a private corporation (see the current version of IT-269, *Part IV Tax on Taxable Dividends Received by a Private Corporation or a Subject Corporation*); and
+
+(c) the corporation's addition at December 31, 1986, of RDTOH as defined in subsection 129(3.3)
+
+exceeds the total of:
+
+(d) the total of dividend refunds for taxation years ending after the corporation last became a private corporation and before the particular taxation year;
+
+(e) the corporation's reduction at December 31, 1977, of RDTOH as defined in subsection 129(3.1); and
+
+(f) the corporation's reduction at December 31, 1987, of RDTOH as defined in subsection 129(3.5).
+
+## Refundable portion of Part I tax
+
+**¶ 8.** Paragraph 129(3)(*a*) sets out the rules for calculating a corporation's refundable portion of Part I tax. The refundable portion of Part I tax is calculated for the block of taxation years that have elapsed since the corporation last became a private corporation. Except for the special circumstances described in subsection 129(3.2), the calculation includes only those taxation years throughout which the private corporation was also a CCPC, as defined in subsection 125(7) (see the current version of IT-458, *Canadian-Controlled Private Corporation*).
+
+**¶ 9.** For taxation years commencing after 1987, the refundable portion of Part I tax is equal to four-fifths of the least of the four factors described in subparagraphs 129(3)(*a*)(i) to (iv). The refundable portion of Part I tax is, for taxation years commencing after 1986 and before 1988, and for taxation years ending before 1978, the least of, and for taxation years ending after 1977 and commencing before 1987, two-thirds of the least of those four factors. The factors can generally be described as:
+
+(a) 25% of the amount, if any, by which the total of Canadian investment income and foreign investment income (both determined without reference to losses from property) for the year exceeds the total of net capital losses deducted under paragraph 111(1)(*b*) from the corporation's income for the year and losses from property for the year;
+
+(b) the amount, if any, by which the total of 25% of Canadian investment income and 30% of foreign investment income for the year, net of any foreign non-business tax credit deducted under subsection 126(1), exceeds 25% of the net capital losses deducted under paragraph 111(1)(*b*) from the corporation's income for the year;
+
+(c) 25% of the amount, if any, by which the corporation's taxable income for the year exceeds the total of
+
+- the least of the amounts used in determining the corporation's small business deduction for the year under paragraphs 125(1)(*a*) to (*c*),
+
+- ten-thirds of the foreign non-business tax credit deducted under subsection 126(1) for the year, and
+
+- ten-fourths of the foreign business tax credit deducted under subsection 126(2) for the year; and
+
+(d) five-fourths of the corporation's tax otherwise payable under Part I for the year determined without reference to the corporate surtax under section 123.2.
+
+## Canadian and foreign investment income
+
+**¶ 10.** Subsections 129(4) to (4.3) set out the rules for determining Canadian investment income and foreign investment income. Subject to the more specific comments that follow, Canadian investment income is essentially the total of:
+
+(a) property income from sources in Canada net of all expenses incurred in earning that income; and
+
+(b) the excess of taxable capital gains over allowable capital losses from sources in Canada.
+
+Foreign investment income is comprised of the same elements noted above, but from foreign sources.
+
+**¶ 11.** Specifically excluded from the definitions of Canadian and foreign investment income in subsection 129(4) are:
+
+(a) exempt income;
+
+(b) dividends deductible in computing taxable income;
+
+(c) income that, but for paragraph 108(5)(*a*), would not be income from a property (see [¶ 15](#P15) below); and
+
+(d) for 1991 and later taxation years, payments received under a net income stabilization account that were included in income under subsection 12(10.2) (such payments are treated as active business income).
+
+By virtue of subsection 129(6), property income from a source in Canada usually included in the definition of Canadian investment income in subsection 129(4) is excluded from that definition if the income was derived from an associated corporation to the extent that the amount was or may be deductible as an expense in determining the associated corporation's income from an active business carried on by it in Canada (see [¶ 17](#P17) below).
+
+**¶ 12.** When a CCPC realizes a taxable capital gain or incurs an allowable capital loss on the disposition of a particular capital property, the gain or loss is included in the calculation of its Canadian or foreign investment income to the extent that it can reasonably be considered to have accrued during a period when the property was held by a CCPC. When the total gain or loss is solely attributable to the period that the corporation held the property, the portion included is usually determined by a pro-rata allocation based on the length of time that the corporation was a CCPC during the period that it held the property. If the corporation's gain or loss included the recognition of a gain or loss accrued to a previous owner at the time the corporation acquired the property (as would be the case, for example, if the provisions of section 87 or 88 or subsection 85(1) were applied), only the portion of the previously unrecognized gain or loss that can reasonably be considered to have accrued while the previous owner was a CCPC is included as Canadian or foreign investment income. Treatment as Canadian or foreign investment income also applies to any period that the corporation or a previous owner held the property (in the circumstances described above) while the corporation or previous owner was an investment corporation, a mortgage investment corporation, or a mutual fund corporation.
+
+**¶ 13.** The rule for calculating Canadian or foreign investment income of CCPCs (see [¶ 12](#P12) above) is significantly modified for "designated property." In the case of such property, the full amount of the taxable capital gains realized and allowable capital losses incurred when a CCPC disposes of designated property is included in the CCPC's calculation of its Canadian or foreign investment income. The term "designated property" is defined in subsections 129(4.3) and 89(1) to mean
+
+(a) for acquisitions made before November 13, 1981, any property acquired by a corporation that has remained a private corporation since November 12, 1981; and
+
+(b) for acquisitions made after November 12, 1981,
+
+- any property acquired pursuant to a written agreement made on or before November 12, 1981, by a corporation that has remained a private corporation since November 12, 1981,
+
+- any property acquired by a private corporation from another private corporation with which it did not deal at arm's length (otherwise than by virtue of a right referred to in paragraph 251(5)(*b*)) at the time of the acquisition, provided that the property was designated property of the other private corporation,
+
+- a share that is property acquired by a private corporation under section 51, 85.1, 86 or 87 or subsection 85(1) in exchange for a share which was designated property of the corporation, or
+
+- property that is replacement property for designated property that was stolen, destroyed or expropriated.
+
+**¶ 14.** By virtue of subsection 129(4.1), the calculation of a corporation's "Canadian investment income" includes its income or loss from a "specified investment business," as defined in subsection 125(7), carried on in Canada. The calculation excludes the income or loss from any other business as well as any income or loss from a foreign source. When a corporation carries on a specified investment business in Canada (or outside Canada), the income or loss from a foreign source which is income or loss from property is included in calculating the corporation's "foreign investment income." When the income or loss of a specified investment business carried on outside Canada is from a source in Canada that is a property, that income or loss is included in calculating Canadian investment income. However, subsections 129(4.1) and (4.2) also exclude the following from the calculation of a corporation's Canadian and foreign investment income:
+
+(a) the income or loss from any property that is incident to or pertains to an active business carried on by the corporation; and
+
+(b) the income or loss from any property used or held principally for the purpose of gaining or producing income from an active business carried on by the corporation.
+
+**¶ 15.** When business income of a trust is included in the income of a corporate beneficiary by virtue of subsection 104(13) or (14) or section 105, such income is not included in the corporate beneficiary's investment income even though paragraph 108(5)(*a*) may deem such income to be income from property. On the other hand, the types of investment income that retain their character when flowed through a trust to a beneficiary remain Canadian or foreign investment income.
+
+**¶ 16.** The income that a private corporation reports from a partnership qualifies as Canadian or foreign investment income for the purposes of subsection 129(3) to the extent that the income earned by the partnership is equivalent to what would be Canadian or foreign investment income as defined in subsection 129(4) read together with subsections 129(4.1), (4.2), (4.3), and (6).
+
+**¶ 17.** As indicated in [¶ 11](#P11) above, to the extent that an amount received or receivable by a corporation (the recipient) from an associated corporation was deductible by the latter in computing its income from an active business carried on by it in Canada, subsection 129(6) deems the amount to be income from an active business carried on by the recipient in Canada (and not investment income) for the purposes of determining its Canadian investment income. Although the recipient may not claim a dividend refund for the deemed active business income, it may qualify for the small business deduction under section 125 on such income depending on the circumstances. Similarly, the recipient would have to treat its proportionate share of the amount received or receivable from a corporate partnership carrying on an active business as income from such a business, if the recipient were associated with one or more of the corporate partners.
+
+**¶ 18.** For the purposes of determining the recipient's Canadian investment income, in computing income for the year from a source in Canada that is a property, subparagraph 129(6)(*a*)(ii) provides that no deduction may be made by the recipient in respect of any outlay or expense that may reasonably be regarded as having been laid out to earn any amount received or receivable from an associated corporation, to the extent that such amount was deductible in computing the income of the associated corporation from an active business carried on by it in Canada. However, for the purposes of subsection 129(6) and section 125, such an outlay or expense is deemed by subparagraph 129(6)(*b*)(ii) to have been incurred by the recipient for the purpose of gaining or producing income from an active business.
+
+**¶ 19.** If subsection 129(6) applies to deem rental income from a depreciable property of a corporation to be active business income and the corporation deducts capital cost allowance on the rented property (e.g., a building) in calculating this active business income, any recapture of the capital cost allowance when the corporation disposes of the property would also be considered active business income.
+
+## Other considerations
+
+**¶ 20.** When determining the required tax instalments for a taxation year under section 157, paragraph 157(3)(*b*) allows each instalment to be reduced by one-twelfth of the dividend refund for that taxation year. In many cases, the dividend refund for a taxation year will not be known at the time tax instalments are made and therefore an estimated dividend refund must be used in calculating the reduction under paragraph 157(3)(*b*). Any change in this estimated dividend refund is adjusted when calculating the remainder of tax payable for the year under paragraph 157(1)(*b*) by deducting, from the total estimated tax for the year, the total of the net instalments made and the actual dividend refund for the year as determined at this later time. However, if a corporation overestimates its dividend refund and therefore under-remits its instalment payments, instalment interest may be charged on the deficient instalments under subsection 161(2).
+
+**¶ 21.** Subsection 129(2.1) provides for the payment of interest on dividend refunds at the prescribed rate determined under section 4301 of the Regulations. The period for which interest is payable starts on the later of:
+
+(a) the day that is 120 days after the end of the taxation year to which the actual dividend refund relates; and
+
+(b) the day on which the corporation's income tax return for that year is filed under section 150, unless the return is filed on or before the filing due date.
+
+The period ends on the day that the dividend refund is paid to the corporation or applied to another liability of the corporation. When interest has been paid or applied to another liability under subsection 129(2.1), and it is later determined that the interest paid or applied was excessive, subsection 129(2.2) allows the Minister to recover the excess interest that was paid or applied, together with interest on that amount at the prescribed rate. Subsections 129(2.1) and (2.2) apply to dividend refunds paid or applied with respect to taxation years commencing after 1991. Previously, the Act did not provide for payment of interest on dividend refunds.
+
+***¶ 22.** Draft legislation released by the Minister of Finance on July 19, 1995, proposes to increase the Part IV tax rate from 25% to 33 1/3% for certain dividends received after June 1995 and to impose an additional refundable tax of 6 2/3% on certain investment income of a CCPC. As a result of these proposals, the dividend refund rate provided in subparagraph 129(1)(a)(i) and a corporation's RDTOH as determined under subsection 129(3) are also amended under the draft legislation. The proposed amendments to section 129 and the new additional refundable tax are described more fully below.*
+
+### Dividend refund rate
+
+*The amendment to subparagraph 129(1)(a)(i) is to increase the dividend refund rate from one-quarter to one-third of taxable dividends paid. This amendment applies to taxation years that end after June 1995 with a transitional rule for such years that began before July 1995. Under the transitional rule, the amount determined under subparagraph 129(1)(a)(i) is the total of one-quarter of the taxable dividends paid before July 1995 and one-third of the taxable dividends paid after June 1995.*
+
+### Refundable dividend tax on hand
+
+*Subsection 129(3), which provides the definition of a corporation's RDTOH, is amended so that RDTOH is computed on an annual basis, with a carryforward of unrefunded RDTOH from the previous year, rather than on a cumulative basis. As a result, the adjustments and special rules in subsections 129(3.1) to (3.5) become unnecessary and are repealed by the draft legislation. The amendment to subsection 129(3) also reflects the additional 6 2/3% of refundable Part I tax imposed under new section 123.3.*
+
+*Under the amended definition, the RDTOH of a corporation at the end of a taxation year can generally be described as the amount, if any, by which the total of*
+
+*(a) where the corporation was a CCPC throughout the year, the Part I tax addition computed in accordance with amended paragraph 129(3)(a) (see "[Part I tax addition to RDTOH](#P172_26725)" below for a description of this amount);*
+
+*(b) the total of the Part IV tax payable by the corporation for the year; and*
+
+*(c) where the corporation was a private corporation at the end of its preceding taxation year, the corporation's RDTOH at the end of that preceding year*
+
+*exceeds*
+
+*(d) the corporation's dividend refund for its preceding taxation year.*
+
+*The amended definition applies to taxation years that end after June 1995, subject to a transitional rule affecting the amount to be computed under amended paragraph 129(3)(a) for taxation years that began before July 1995 (see "[Part I tax addition to RDTOH](#P172_26725)" below).*
+
+#### Part I tax addition to RDTOH
+
+*Paragraph 129(3)(a) which adds an amount to a CCPC's RDTOH in respect of its Part I tax for a year is amended. While the effect of the amended paragraph is generally comparable to that of the existing provision, there are two key rate changes proposed. First, the general rate for Part I RDTOH is increased from 20% to 26 2/3%, reflecting the additional refundable tax imposed under new section 123.3. Second, the rate of tax which is assumed to be levied on foreign-source investment income and taxable capital gains is increased from 30% to 36%.*
+
+*Under amended paragraph 129(3)(a), the Part I RDTOH addition of a corporation that was a CCPC throughout a taxation year is the least of three factors:*
+
+*(a) 26 2/3% of the corporation's "aggregate investment income" for the year minus the excess of the corporation's non-business foreign tax credit deducted under subsection 126(1) for the year over 9 1/3% of its "foreign investment income" for the year (see "[Definitions](#P182_28878)" below for a description of aggregate investment income and foreign investment income);*
+
+*(b) 26 2/3% of the amount, if any, by which the corporation's taxable income for the year exceeds the total of:*
+
+- *the least of the amounts used in determining the corporation's small business deduction for the year under paragraphs 125(1)(a) to (c);*
+
+- *25/9 of the foreign non-business tax credit deducted under subsection 126(1) for the year; and*
+
+- *10/4 of the foreign business tax credit deducted under subsection 126(2) for the year; and*
+
+*(c) the corporation's tax otherwise payable under Part I for the year determined without reference to the corporate surtax under section 123.2.*
+
+*The amendment to paragraph 129(3)(a) applies to taxation years that end after June 1995, subject to a transitional rule for taxation years beginning before July 1995. The transitional rule reduces each of the amounts determined under (a) and (b) above by that proportion of 1/4 of the amount that the number of days in the year that are before July 1995 is of the number of days in the year. This reflects the pro-rated introduction of the additional 6 2/3% refundable tax under new section 123.3.*
+
+### Definitions
+
+*The terms "Canadian investment income," "foreign investment income," and "income" or "loss" are currently defined in subsections 129(4) to (4.2). For taxation years that end after June 1995, these subsections are amended to replace those definitions with several new terms in amended subsection 129(4). The new terms apply for the purposes of section 129.*
+
+#### Aggregate investment income
+
+*Aggregate investment income includes not only certain income from Canadian sources, but also certain foreign-sourced income. A corporation's aggregate investment income for a taxation year means the amount, if any, by which the total of*
+
+*(a) the excess of the "eligible portion" of the corporation's taxable capital gains for the year over the total of the "eligible portion" of its allowable capital losses for the year and any net capital losses deducted under paragraph 111(1)(b) from the corporation's income for the year (see the description of "[eligible portion](#P198_30665)" below);*
+
+*(b) the corporation's income for the year from a source that is a property, other than*
+
+- *exempt income;*
+
+- *an amount received under a net income stabilization account that was included in the corporation's income for the year under subsection 12(10.2);*
+
+- *the portion of any dividend that was deductible in computing the corporation's taxable income for the year; and*
+
+- *income that, but for paragraph 108(5)(a), would not be income from a property; and*
+
+*(c) the corporation's income for the year from a specified investment business carried on by it in Canada (other than income from a source outside Canada)*
+
+*exceeds the total of*
+
+*(d) the corporation's property losses for the year; and*
+
+*(e) the corporation's loss for the year from a specified investment business carried on by it in Canada (other than a loss from a source outside Canada).*
+
+#### Eligible portion
+
+*The eligible portion of a corporation's taxable capital gains and allowable capital losses for a taxation year is the total of those portions of the corporation's taxable capital gains or allowable capital losses that cannot reasonably be regarded as having accrued while the property (or a property for which it was substituted) was property of a corporation other than a CCPC, an investment corporation, a mortgage investment corporation, or a mutual fund corporation. These conditions do not, however, apply where the property giving rise to the gain or loss was a designated property. In the case of designated property, the full amount of a taxable capital gain or allowable capital loss is included in the eligible portion.*
+
+#### Foreign investment income
+
+*For the purposes of amended subparagraph 129(3)(a)(i), it is necessary to determine what part of a corporation's aggregate investment income for a taxation year originated outside Canada. The amended definition of "foreign investment income" takes as its starting-point the corporation's aggregate investment income for the year. By treating as nil every amount of the corporation's income, loss, capital gain or capital loss from a source in Canada, and by ignoring any deduction of net capital loss carryovers, the corporation's aggregate investment income becomes its foreign investment income for the year.*
+
+#### Income or loss
+
+*Under this amended definition, the "income" or "loss" of a corporation for a taxation year from a source that is a property does not include the income or loss from any property*
+
+- *that is incident to or pertains to an active business carried on by the corporation; or*
+
+- *that is used or held principally for the purpose of gaining or producing income from an active business carried on by the corporation.*
+
+### Refundable tax on CCPC's investment income
+
+*New section 123.3 imposes an additional tax on certain investment income of a CCPC. Under section 123.3, a corporation that is a CCPC throughout a taxation year adds to its tax otherwise payable under Part I for that year an amount equal to 6 2/3% of the lesser of:*
+
+- *the corporation's aggregate investment income for the year, as defined in amended subsection 129(4); and*
+
+- *the excess of the corporation's taxable income for the year over the least of the amounts used in determining the corporation's small business deduction for the year under paragraphs 125(1)(a) to (c).*
+
+*This additional tax is reflected in a CCPC's RDTOH under amended subsection 129(3). As a result, the tax is refundable to the corporation if it pays a taxable dividend in the year.*
+
+*New section 123.3 applies to taxation years that end after June 1995. Where any such year began before July 1995, the 6 2/3% rate is prorated according to the number of days in the year that are after June 1995.*
+
+## Explanation of Changes
+
+## Introduction
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised departmental interpretations.
+
+## Overview
+
+The bulletin outlines the rules for determining the dividend refund available under section 129. Under this provision, a private corporation can obtain a dividend refund in respect of any Part IV tax paid on its portfolio dividends and a portion of any Part I tax paid on its investment income if it has paid taxable dividends in a taxation year.
+
+We revised the bulletin to reflect amendments to the *Income Tax Act* enacted in S.C. 1984, c. 45 (formerly Bill C-7); S.C. 1986, c. 6 (formerly Bill C-84); S.C. 1988, c. 55 (formerly Bill C-139); and S.C. 1994, c. 7, Sch. VIII (1993, c. 24-formerly Bill C-92).
+
+The draft legislation released by the Minister of Finance on July 19, 1995, includes proposed amendments that affect this bulletin. These proposed amendments are reflected in [¶ 22](#P22). The comments in this bulletin are not affected by any other draft legislation released before November 16, 1995.
+
+## Legislative and Other Changes
+
+[¶ 1](#P01) reflects an amendment to subparagraph 129(1)(*a*)(i) which applies to taxable dividends paid after 1992. As a result, a corporation is entitled to a dividend refund for the taxable dividends it pays while it is a private corporation, whether or not it is a private corporation at the end of the year for which it claims the dividend refund.
+
+[¶ 2](#P02) has been revised to provide a brief definition of "private corporation." ¶ 2 includes a reference to the current version of IT-391, *Status of Corporations*, which describes more fully the definition of private corporation.
+
+[¶ 3](#P03) has been revised to reflect legislative changes and to delete certain references. Specifically, we have revised the list of amounts that qualify as taxable dividends paid for the purposes of the dividend refund:
+
+- to include a reference to an amount deemed under subsection 260(7) to have been paid as a taxable dividend; and
+
+- to delete the reference to a taxable dividend paid before 1972 but in the 1972 taxation year.
+
+We have also revised the list of amounts that do not qualify:
+
+- to delete the reference to a life insurance capital dividend, since the rules relating to life insurance capital dividends were repealed in 1986;
+
+- to delete the reference to a dividend deemed to have been received by a shareholder under subsection 15(2) as it read before April 1, 1977; and
+
+- to add a reference to a taxable dividend paid to a bankrupt controlling corporation.
+
+New [¶ 6](#P06) outlines the anti-avoidance rule in subsection 129(1.2).
+
+New [¶ 7](#P07) sets out the basic structure of the RDTOH account.
+
+New [¶ 8](#P08) (former ¶ 6) has been revised to replace the detailed discussion of the transitional rule in subsection 129(3.2) with a brief reference to the subsection because of its limited application.
+
+The last two sentences of former ¶ 8 have been deleted as they pertain to the 1982 taxation year.
+
+New [¶ 9](#P09) (former ¶ 7) reflects an amendment to paragraph 129(3)(*a*) to change the amount added to the RDTOH of a CCPC in respect of the tax payable under Part I from the least of the amounts determined under subparagraphs 129(3)(*a*)(i) to (iv) to four-fifths of the least of those amounts. New ¶ 9 has also been expanded to generally describe those amounts.
+
+Former ¶ 9 has been deleted since it dealt with the proration of the foreign tax credit for the purposes of subparagraphs 129(3)(*a*)(ii) and (iii) when the 1972 taxation year began in 1971.
+
+New ¶s [10](#P10) and [11](#P11) replace former ¶ 10. New ¶ 11 reflects an amendment to exclude from the definitions of Canadian and foreign investment income payments that were received under a net income stabilization account and that were included in income under subsection 12(10.2).
+
+New [¶ 13](#P13) (former ¶ 12) has been revised to delete the comment dealing with dispositions by a private corporation that is not a CCPC in a taxation year that includes November 12, 1981.
+
+Former ¶ 13 stated that the reference to Canadian and foreign investment income of a corporation is significant only to corporations that are or are deemed to be CCPCs throughout the taxation year. Former ¶ 13 has been deleted since new ¶ 8 makes the same point.
+
+¶s [14](#P14), [17](#P17), and [18](#P18) have been revised to delete any reference to a non-qualifying business. The concept of a non-qualifying business for the purposes of the small business deduction was repealed applicable to 1985 and later taxation years.
+
+[¶ 16](#P16) has been revised to include a reference to subsection 129(4.3).
+
+New [¶ 19](#P19) discusses the tax treatment of recaptured capital cost allowance on the disposition of a depreciable property, when the rental income from that property is deemed by subsection 129(6) to be active business income.
+
+New [¶ 20](#P20) (former ¶ 19) has been revised to clarify that where a corporation overestimates its dividend refund and therefore under-remits its instalment payments, instalment interest may be charged on the deficient instalments.
+
+New [¶ 21](#P21) (former ¶ 20) reflects the addition of subsection 129(2.1), which provides for the payment of interest on dividend refunds at the prescribed rate.
+
+New [¶ 22](#P22) describes the proposed amendments to section 129 contained in the draft legislation released by the Minister of Finance on July 19, 1995. It also explains the proposal to impose a new additional refundable tax on certain investment income of a CCPC.
+
+Throughout the bulletin, we have changed some of the wording and the order of some paragraphs to improve readability.
+
+### Notice -- Bulletins do not have the force of law
+
+Interpretation bulletins (ITs) provide Revenue Canada's technical interpretations of income tax law. Due to their technical nature, ITs are used primarily by departmental staff, tax specialists, and other individuals who have an interest in tax matters. For those readers who prefer a less technical explanation of the law, the Department offers other publications, such as tax guides and pamphlets.
+
+While the ITs do not have the force of law, they can generally be relied upon as reflecting the Department's interpretation of the law to be applied on a consistent basis by departmental staff. In cases where an IT has not yet been revised to reflect legislative changes, readers should refer to the amended legislation and its effective date. Similarly, court decisions subsequent to the date of the IT should be considered when determining the relevancy of the comments in the IT.
+
+An interpretation described in an IT applies as of the date the IT is published, unless otherwise specified. When there is a change in a previous interpretation and the change is beneficial to taxpayers, it is usually effective for all future assessments and reassessments. If the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date of the IT.
+
+A change in a departmental interpretation may also be announced in the *Income Tax Technical News*.
+
+***If you have any comments regarding matters discussed in this IT, please send them to:***
+
+***Director, Business and Publications Division Income Tax Rulings Directorate Policy and Legislation Branch Revenue Canada Ottawa ON K1A 0L5***

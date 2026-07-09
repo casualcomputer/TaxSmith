@@ -1,0 +1,175 @@
+---
+title: "Jhanji c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71351/index.do"
+last_modified: "2014-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 126"
+citation2: ""
+neutral_citation: "2014 CCI 126"
+decision_date: "2014-04-29"
+language: "fr"
+item_id: "71351"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5295
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:59:29.498000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "89e6e593eaf5b3fb34130ab958acf8e9531e5cce2b84b91131186046851cb3c7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jhanji c. La Reine
+
+- Citation: 2014 CCI 126
+- Decision date: 2014-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5295, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jhanji c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-29
+Référence neutre
+2014 CCI 126
+Numéro de dossier
+2013-2332(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2332(IT)I
+ENTRE :
+VIBHU RAJ JHANJI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 février 2014 à Winnipeg (Manitoba).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Beth Tait
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la détermination établie au titre de la Loi de l’impôt sur le revenu concernant la Prestation fiscale canadienne pour enfants pour l’année d’imposition 2010 est accueilli, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Signé à Edmonton, Alberta, ce 29e jour d’avril 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 29e jour de mai 2014.
+C. Laroche
+Référence : 2014 CCI 126
+Date : 2014-04-29
+Dossier : 2013-2332(IT)I
+ENTRE :
+VIBHU RAJ JHANJI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction
+[1] Il s’agit d’un appel d’une décision du ministre du Revenu national (le « ministre ») selon laquelle l’appelant n’avait pas droit à la Prestation fiscale canadienne pour enfants (la « PFCE ») pour l’année de base 2010 parce que son fils ne résidait pas avec lui au cours de cette période. L’année de base 2010 s’étend du 1er juillet 2011 au 30 juin 2012.
+II. Le contexte factuel
+[2] L’appelant est un avocat originaire de l’Inde. En 2004, lui et son épouse ont rempli une demande d’immigration au Canada avec leur fils, D. Ils ont été acceptés dans la catégorie des travailleurs qualifiés en 2010 et ont visité le Canada pendant 10 jours, en janvier 2011, pour obtenir le statut de résidents permanents.
+[3] Tragiquement, à leur retour en Inde, l’épouse de l’appelant est tombée malade, atteinte d’un cancer à propagation rapide. Elle est décédée en mai de la même année. L’appelant a décrit sa défunte épouse comme une enseignante brillante, ayant deux maîtrises, une en économie (avec honneur) et une en éducation (avec distinction). Elle était médaillée d’or de l’Université du Panjab à Chandigarh. Deux mois après le décès de son épouse, la mère de l’appelant est également décédée.
+[4] L’appelant a maintenu D, qui avait alors 13 ans, inscrit au pensionnat indien qu’il fréquentait depuis 2006. Durement touché par la perte de son épouse et de sa mère et le départ de sa famille pour le Canada étant contrecarré, l’appelant a décidé de s’établir d’abord lui-même au Canada de façon à ne pas interrompre les études de son fils en Inde. Il croyait que cela offrirait à D un minimum de stabilité à la suite de la perte de sa mère. L’appelant a ensuite déménagé au Canada en août 2011, s’établissant finalement à Winnipeg.
+[5] L’appelant a établi sa résidence dans des locaux partagés et a été embauché comme répartiteur par une entreprise de camionnage. En même temps, il a entamé les procédures pour être admis au Barreau du Manitoba.
+[6] L’appelant réside à Winnipeg depuis lors. Il subvient financièrement aux besoins de son fils et maintient avec lui d’étroits contacts. L’appelant paie environ 6 000 $ par an pour les frais de scolarité de son fils au pensionnat, plus les frais de déplacement, les vêtements et les cours particuliers. Selon l’appelant, D a rarement congé du pensionnat. Lorsqu’il obtient un congé, il demeure chez la sœur de l’appelant, la famille de son frère et son père dans la résidence que partage la famille étendue en Inde. L’appelant est retourné en Inde deux fois depuis pour passer du temps avec son fils à la résidence familiale : une fois, en août 2012, pendant deux semaines, et une autre fois, pendant deux mois, au cours du congé d’hiver de son fils de novembre 2012 à janvier 2013. L’appelant n’a pu retourner là-bas entre le 1er juillet 2011 et le 30 juin 2012 parce qu’il venait d’arriver au Canada et n’avait pas les moyens de retourner en Inde.
+[7] D n’est pas revenu au Canada depuis le voyage de 10 jours de la famille au début de 2011. L’appelant a préféré se rendre en Inde lui-même pour passer du temps avec son fils en raison de l’étroitesse de l’endroit où il habite à Winnipeg et également parce qu’il coûte moins cher à l’appelant de passer du temps en Inde que de prendre des mesures pour que son fils lui rende visite à Winnipeg. De plus, ces voyages donnaient à l’appelant l’occasion de rendre visite à son père souffrant et à sa fratrie. De plus, le fils de l’appelant, D, suit des cours particuliers pendant le congé d’hiver.
+[8] L’appelant compte emmener son fils au Canada ce printemps. À ce stade, D aura terminé sa 10e année, et l’appelant compte être mieux établi à ce moment et être prêt à travailler dans le domaine juridique. L’appelant veut que D soit capable d’entreprendre ses études postsecondaires au Canada. En fait, lorsque l’appelant est arrivé au Canada, il a rapidement ouvert un compte REEE pour D, y faisant un dépôt initial de 2 500 $, dans lequel il a depuis ajouté chaque mois 300 $. Le solde du compte est maintenant de près de 9 000 $.
+[9] L’appelant a présenté une demande de PFCE pour compenser les dépenses engagées pour subvenir aux besoins de son fils. L’intimée affirme que l’appelant ne satisfait pas aux exigences de la définition de « particulier admissible » de l’article 122.6 de la Loi de l’impôt sur le revenu (la « LIR »), parce que son fils ne résidait pas avec lui. L’appelant soutient qu’il satisfait aux exigences. L’appelant a également soulevé un certain nombre d’arguments constitutionnels concernant la façon dont le ministre a, en l’espèce, appliqué la Loi.
+III. Les points en litige
+[10] Les questions à trancher dans le présent appel sont les suivantes :
+A) L’appelant était-il un « particulier admissible » du 1er juillet 2011 au 30 juin 2012?
+B) Dans le cas contraire, le ministre a-t-il enfreint les droits constitutionnels de l’appelant et de son fils tels que garantis par la Charte canadienne des droits et libertés?
+IV. Analyse
+[11] La PFCE est un versement mensuel consenti aux familles admissibles pour les aider à subvenir aux besoins de leurs enfants. Pour recevoir la prestation, le contribuable doit être un « particulier admissible » au sens de l’article 122.6 de la LIR. Pour satisfaire aux exigences de cette définition, le contribuable doit :
+A) résider avec l’enfant;
+B) être l’un des principaux responsables du soin et de l’éducation de l’enfant;
+C) résider au Canada;
+D) être un citoyen canadien, un résident permanent, une personne protégée ou un résident temporaire qui a vécu au Canada au cours des 18 mois précédents et qui a un visa en cours de validité au 19e mois.
+[12] Il ressort de la preuve que l’appelant résidait encore en Inde en juillet 2011 et ne peut être qualifié de particulier admissible pour ce mois. La question est de savoir s’il est un particulier admissible pour les mois qui restent de la période de base 2010.
+[13] L’intimée reconnaît que l’appelant est résident permanent et qu’il réside au Canada depuis août 2011 et qu’il est également le principal fournisseur de soins de D, mais elle affirme que D ne résidait pas avec l’appelant au cours de l’année de base 2010.
+[14] Ne sont pas définis à la LIR les termes « réside » ou « réside avec ». La Cour s’est la plupart du temps reposée sur la définition formulée par le juge Bonner dans S.R. c. La Reine[1] :
+12 . . . Le critère est le fait de résider avec le parent. La présence physique d’un enfant qui vient rendre visite à la résidence d’un parent ne permet pas de remplir les conditions imposées par la loi. Le verbe « résider », tel qu’il est utilisé à l’article 122.6, a une connotation de résidence établie habituelle[2].
+[15] La Cour a, à diverses reprises, interprété le terme « réside » de façon plus large de façon à ne pas aller à l’encontre de l’intention du législateur dans le régime de la PFCE. Ainsi, dans Bouchard c. La Reine[3], la Cour a accordé la PFCE à un père monoparental pendant qu’il était emprisonné. En parvenant à cette décision, la juge Woods déclarait :
+18 Je suis d’avis qu’il faut faire preuve de compassion lorsque l’on interprète les dispositions portant sur la Prestation fiscale pour enfants dans de telles circonstances, de manière à ne pas aller à l’encontre de l’intention évidente du législateur, qui était d’aider les familles à faible revenu.
+19 Quand un parent a la garde d’un enfant et s’en occupe, ce parent devrait généralement avoir droit à la Prestation fiscale pour enfants, et ce, même s’il arrive que ce parent ne réside pas physiquement sous le même toit que l’enfant pendant une certaine période.
+20 La situation dans laquelle la fille de l’appelant s’est retrouvée n’était pas facile pour une jeune fille de 17 ans. Refuser au parent qui en avait la garde et qui s’en occupait son droit à la prestation irait radicalement à l’encontre de ce que le législateur avait à l’esprit en adoptant le régime de prestations familiales.
+[16] Ce raisonnement est conforme à d’autres décisions de la Cour. Dans Fiogbe[4], le juge O’Connor a formulé une opinion incidente, à savoir que les parents ne deviendraient pas nécessairement non admissibles à la PFCE si leur enfant devait séjourner à l’hôpital pendant une longue période[5].
+[17] Dans Penner c. La Reine[6], la Cour a conclu qu’un parent ne pouvait être empêché de recevoir la PFCE pendant qu’un enfant est au pensionnat. En l’occurrence, l’appelante était la principale fournisseuse de soins de sa petite-fille. Elle travaillait dans un village éloigné du Nord de la Saskatchewan. Elle a décidé que sa petite-fille fréquenterait l’école dans une ville plus grande et, à cette fin, elle l’a envoyée vivre chez une travailleuse sociale avec laquelle le pasteur de l’appelante l’avait mise en contact. L’appelante payait la chambre et la pension à la travailleuse sociale au nom de sa petite-fille et conservait la garde légale de celle-ci. Le juge Beaubier a statué que les circonstances étaient analogues à celles où l’enfant est envoyé dans un pensionnat et a conclu qu’en pareil cas, le parent de l’enfant, ou son grand-parent, en l’occurence, demeurerait un « particulier admissible ».
+[18] Dans Charafeddine c. La Reine[7], la juge Sheridan a conclu que l’appelante avait satisfait aux exigences et qu’elle résidait avec son enfant malgré le fait que l’enfant ait été enlevé par le père et se trouvait au Liban. La juge Sheridan a reconnu que, dans les cas ayant trait à la PFCE, « résider » signifie normalement « vivre sous le même toit que ». Néanmoins, elle a conclu que si « leur père ne les avait pas retenues illicitement au Liban, les filles auraient été présentes physiquement au Canada »[8]. Et la juge poursuivait, en conclusion :
+16 .... dans certains cas qui partagent les circonstances inhabituelles de la présente affaire, la Cour a conclu qu’un parent et un enfant peuvent résider ensemble sans être présents physiquement dans la même demeure... Le lieu de résidence est une question de fait qui doit être tranchée selon les circonstances particulières à chaque affaire. Il faut aussi respecter l’objectif du législateur, à savoir de mettre des ressources financières à la disposition de la personne dont dépendent le soin et le bien-être des enfants[9].
+[Non souligné dans l’original.]
+[19] En bref, j’estime utiles, dans l’affaire qui nous occupe, les observations de la juge Sheridan selon lesquelles la question de la résidence ne peut être tranchée que dans « les circonstances particulières de chaque affaire », ainsi que celles de la juge Woods selon lesquelles la Cour ne doit pas trancher la question de la résidence à l’encontre de l’intention évidente du législateur, qui était d’aider les familles[10].
+[20] Les faits dont je suis saisi laissent voir que, n’eût été du décès tragique et imprévu de l’épouse de l’appelant, les membres de la famille vivraient ensemble à Winnipeg. La famille est venue au Canada en 2010 pour obtenir le statut de résident permanent et comptait déménager au Canada. Le décès de la mère de D signifiait qu’il n’y aurait plus qu’un seul parent pour subvenir aux besoins de D, et un seul soutien pour répondre aux besoins de la famille dans son nouveau pays. L’appelant croyait que, compte tenu de ces nouvelles circonstances, il vaudrait mieux pour D qu’il demeure au pensionnat qu’il fréquentait depuis six ans déjà. Le fils de l’appelant bénéficiait ainsi d’une plus grande stabilité, tandis que l’appelant prenait des mesures pour établir sa famille en permanence au Canada.
+[21] L’appelant a conservé le rôle de premier fournisseur de soins de D et payait les frais de scolarité du pensionnat et les dépenses. L’appelant avait pris des dispositions pour que D, pendant les rares congés scolaires, vive dans les quartiers de l’appelant dans la résidence que partageait la famille élargie. L’appelant n’avait pas les moyens de retourner en Inde visiter D au cours de l’année de base 2010, mais il y est retourné deux fois l’année suivante. Cela était plus pratique que d’emmener D à Winnipeg, car le logis de l’appelant était loin d’être idéal pour recevoir son fils et D suivait des cours particuliers en Inde pendant ses vacances. Pendant toute la durée de son séjour au Canada, l’appelant a versé des cotisations mensuelles à un compte REEE afin que D puisse suivre des études postsecondaires lorsqu’il déménagera au Canada dans un proche avenir.
+[22] Puisque j’ai conclu que l’appelant et D auraient vécu ensemble pendant la période en question, n’eût été du décès imprévu de l’épouse de l’appelant, je conclus que l’appelant et D peuvent être considérés comme ayant de façon constructive résidé ensemble d’août 2011 jusqu’à juin 2012. Le régime de la PFCE a été conçu pour appuyer les familles dans leurs efforts pour répondre à leurs besoins fondamentaux et améliorer leurs conditions économiques. Je ne crois pas que l’intention du législateur, en ce qui a trait à l’obligation de résidence, était d’exclure des familles par ailleurs admissibles qui ont dû s’adapter à des circonstances malheureuses.
+[23] Pour tous ces motifs, je conclus que l’appelant était un « particulier admissible » à compter du mois d’août 2011 et de façon continue au cours de la période de base 2010.
+[24] Compte tenu de ma réponse à la première question, il m’est inutile de trancher la seconde.
+V. Conclusion
+[25] En me fondant sur les motifs exposés ci-dessus, je conclus que l’appelant a droit à la PFCE d’août 2011 jusqu’à juin 2012.
+Signé à Edmonton, Alberta, ce 29e jour d’avril 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 29e jour de mai 2014.
+C. Laroche
+RÉFÉRENCE : 2014 CCI 126
+NO DU DOSSIER DE LA COUR : 2013-2332(IT)I
+INTITULÉ : VIBHU RAJ JHANJI c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 28 février 2014
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 29 avril 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Beth Tait
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2003 CCI 649. Dans Fiogbe c. La Reine, 2007 CCI 454, le juge O’Connor a mentionné que ce passage est la définition la plus fréquemment citée de « réside ».
+[2] S.R. c. La Reine, supra.
+[3] 2009 CCI 38.
+[4] Supra, note 1.
+[5] Ibid., au par. 6.
+[6] 2006 CCI 413.
+[7] 2010 CCI 417.
+[8] Ibid., au par. 15.
+[9] Ibid.
+[10] L’appelant a également cité Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 R.C.S. 27, à l’appui de son argument selon lequel une loi conférant des avantages doit être interprétée de façon libérale et généreuse.

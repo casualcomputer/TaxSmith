@@ -1,0 +1,150 @@
+Title: PÂTISSERIES JESSICA INC c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28766/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-283-28766-p-tisseries-jessica-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-05-08
+
+# PÂTISSERIES JESSICA INC c. M.R.N.
+
+- Citation: 2008 CCI 283
+- Decision date: 2008-05-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1553, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+PÂTISSERIES JESSICA INC c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-08
+Référence neutre
+2008 CCI 283
+Numéro de dossier
+2007-4231(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-4231(EI)
+ENTRE :
+PÂTISSERIES JESSICA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu les 28 et 30 avril 2008, à Montréal (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocate de l'appelante :
+Me Chantal Labelle
+Avocate de l'intimé :
+Me Chantal Roberge
+____________________________________________________________________
+JUGEMENT
+L'appel est accordé et la décision rendue par le ministre du Revenu national en vertu de la Loi sur l'assurance‑emploi est infirmée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de mai 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2008CCI283
+Date : 20080508
+Dossier : 2007-4231(EI)
+ENTRE :
+PÂTISSERIES JESSICA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s’agit d’un appel d’une décision du ministre du Revenu national (le « Ministre »), voulant que monsieur Taissir Aref ait occupé un emploi assurable auprès de l’appelante du 22 janvier 2006 au 26 janvier 2007.
+[2] Les faits sur lesquels le Ministre s’est appuyé pour rendre sa décision sont décrits au paragraphe 5 de la Réponse à l’avis d’appel comme suit :
+a) l'appelante a été constituée en société le 1er mars 2000;
+b) l'appelante préparait et vendait des pâtisseries à différents clients comme IGA, Métro, Sobeys;
+c) l'appelante embauchait en moyenne 26 travailleurs durant l'année 2006;
+d) le travailleur était à l'emploi de l'appelante depuis l'année 2000;
+e) l'appelante considérait le travailleur comme travailleur autonome alors que le travailleur se considérait comme un employé;
+f) le travailleur était directeur des ventes de l'appelante et il avait été nommé vice‑président aux ventes en janvier 2006;
+g) les tâches du travailleur consistaient à trouver de nouveaux clients, à présenter les produits aux clients, à assurer le service à la clientèle et à régler les plaintes;
+h) jusqu'en septembre 2006, le travailleur était le seul responsable des ventes chez l'appelante;
+i) le travailleur avait un bureau à la place d'affaires de l'appelante;
+j) le travailleur oeuvrait à la place d'affaires de l'appelante, sur la route chez les clients ou à partir de chez lui;
+k) le travailleur oeuvrait 5 jours par semaine entre 9 h et 20 h;
+l) le travailleur ne remplissait pas de feuille de temps;
+m) le travailleur était payé à commissions;
+n) le travailleur recevait un pourcentage de 10% pour les ventes à Métro et 5% pour les ventes aux autres clients;
+o) le travailleur était rémunéré par chèques à chaque deux semaines;
+p) l'actionnaire unique de l'appelante était Man Chor Wong;
+q) monsieur Wong, qui était souvent à Toronto, contactait régulièrement le travailleur par courriel et par téléphone pour connaître les résultats des rencontres avec les clients;
+r) le travailleur donnait à l'appelante des comptes‑rendus fréquents sur la production des pâtisseries et sur les ventes;
+s) le travailleur suivait les directives et répondait aux demandes de l'appelante;
+t) le travailleur oeuvrait exclusivement pour l'appelante;
+u) le 26 janvier 2007, l'appelante écrivait au travailleur pour mettre fin à ses services à partir de cette journée‑là;
+v) le travailleur a porté plainte à la Commission des normes du travail;
+w) durant la période du 23 juillet 2006 au 26 janvier 2007, le travailleur a reçu une rémunération de 64 299,88 $ de l'appelante;
+x) durant les 53 semaines de la période en litige, le travailleur a reçu de l'appelante un montant de 127 410,31 $, ce montant divisé par le salaire minimum de 7,60 $ de l'heure donne 16 764 heures, limité à 35 heures par semaine, le nombre d'heures assurables du travailleur totalisaient 1 855 heures (53 X 35 = 1 855).
+[3] Monsieur George Wong, qui a fondé l’entreprise en l’année 2000, son fils monsieur Jake Wong, qui dirige les opérations de l’entreprise depuis mai 2006 et monsieur Eric Duval, pâtissier en chef pendant plusieurs années chez l’appelante ont témoigné pour cette dernière.
+[4] Monsieur George Wong a relaté que monsieur Aref avait de l’expérience dans le domaine de la vente de produits d’une pâtisserie car il avait agi avant de la même manière pour une autre pâtisserie pendant plusieurs années. Il a affirmé que monsieur Aref ne souhaitait pas être un employé mais un travailleur autonome et qu’il n’a pas voulu d’une entente écrite.
+[5] Il agissait comme représentant en ventes et était rémunéré au pourcentage des ventes. Au début de l’entreprise, pour les premiers mois, il a demandé une avance sur ses commissions non remboursable de 1 000 $ par semaine. À la fin, en 2005, il a déclaré des revenus de commissions au montant de 116 182 $ et en 2006, de 96 882 $.
+[6] Monsieur Aref prenait en charge toutes ses dépenses.
+[7] La preuve a révélé qu’il venait sur les lieux de l’entreprise une fois par semaine ou à toutes les deux semaines pour venir chercher son chèque. Il recevait parfois des clients dans la salle de conférence de l’entreprise. Il avait son propre espace dans un bureau commun à quelques personnes mais son lieu de travail était son domicile.
+[8] C’était monsieur Aref qui établissait son propre horaire de travail. Le payeur ne savait pas le nombre d’heures consacrées par monsieur Aref pour rendre ses services de représentant en vente. Il n’y avait pas d’ententes quant aux vacances. Il les prenait quand il voulait. Il ne demandait pas de permissions et il arrivait que monsieur Wong n’en soit pas informé.
+[9] Les services de monsieur Aref étaient requis pour la vente des produits de l’entreprise et le développement de la clientèle. Il avait des réseaux et il connaissait son travail.
+[10] L’exclusivité de ses services n’était pas requise en autant qu’il ne vende pas des produits concurrentiels à ceux de l’appelante.
+[11] Monsieur Wong parlait à monsieur Aref une ou deux fois par semaine pour s’informer de la vente des produits.
+[12] Le témoignage de monsieur Jake Wong a été à peu près semblable.
+[13] En septembre 2006, il y a eu une plainte d’un important client. Ce client avait changé d’acheteur et le nouvel acheteur ne s’entendait pas avec monsieur Aref. À partir de cet épisode et aussi à cause de la perte de deux importants clients, la relation de l’appelante avec monsieur Aref s’est détériorée si bien qu’elle lui a signifié, le 26 janvier 2007, que ses services n’étaient plus requis.
+[14] Messieurs Wong ont admis que monsieur Aref avait le titre de vice‑président, ventes et mise en marché. Mais ils ont mentionné que c’était pour favoriser le statut de monsieur Aref auprès des clients et qu’en fait monsieur Aref n’avait supervisé aucun employé de l’entreprise ni participé à sa gestion. Selon eux, son rôle s’est toujours limité à celui de représentant en vente. Un rôle extrêmement important pour leur entreprise mais qui était exercé par monsieur Aref de manière indépendante et non contrôlée. Ils ne lui donnaient aucune directive quant à la manière de recruter des nouveaux clients ou de maintenir ses relations avec les clients actuels.
+[15] Le 14 avril 2006, un vidéo de promotion a été fait par l’entreprise. Monsieur Aref a été impliqué. On le voit au début qui fait l’introduction et par la suite la narration.
+[16] Lors de son témoignage, monsieur Aref a affirmé qu’il travaillait de nombreuses heures au bureau de l’entreprise soit au moins 30 heures par semaine. Il a admis qu’il n’avait personne à gérer. Il prenait deux semaines de vacances deux fois par année. Il recevait les plaintes des clients et les transmettait à l’entreprise. Il discutait alors avec le gérant général Jérome T. et le pâtissier en chef, monsieur Duval, des solutions au problème. Il ne recevait pas d’instructions sur la manière de rencontrer les clients mais monsieur Jake Wong avait communiqué avec un acheteur mécontent.
+[17] Monsieur Eric Duval a été de 2000 à 2007 le chef pâtissier de l’entreprise avec des interruptions de travail en 2004 et 2005. Il n’y travaille plus maintenant.
+[18] Il a relaté qu’il voyait rarement monsieur Aref. Le témoin a relaté que monsieur Aref venait pour les thématiques, c’est‑à‑dire pour voir les gâteux faits spécialement pour les différentes fêtes de l’année. Monsieur Aref n’avait personne à gérer car l’entreprise a toujours eu un gérant général soit monsieur Jérôme T. Le témoin était au courant de l’affrontement que monsieur Aref avait eu avec le nouvel acheteur du client le plus important de l’entreprise car monsieur Aref l’avait amené avec lui pour l’aider dans sa présentation.
+[19] Monsieur Duval a relaté que lui, monsieur Jérôme T. et monsieur Aref déjeunaient souvent ensemble quand monsieur Aref venait sur les lieux de l’entreprise. Le témoin a aussi relaté que lui et monsieur Jérôme T. étaient d’avis que monsieur Aref devait avoir d’autres occupations que celles de représentant en vente pour l’entreprise, vu ses rares venues.
+[20] Madame Elaine Vennes, agent du Ministre, a expliqué pourquoi elle avait considéré monsieur Aref comme un employé dans une situation où les modalités de l'emploi ne sont pas clairement d’un côté ou de l’autre. Elle a parlé au téléphone à monsieur Aref et à l’avocate de l’employeur. Elle a trouvé que l’avocate avait des réponses toutes faites. Elle a accordé plus de poids à la version du travailleur qui lui a paru plus authentique.
+Analyse et conclusion
+[21] L’avocate de l’intimée s’est référée aux articles 2085, 2098 et 2099 du Code civil du Québec. Ces articles sont importants et je les cite :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[22] Outre ces articles, je trouve utile de citer l’article 2087 du même code. Cet article décrit encore plus le rapport qui existe entre un employeur et son employé.
+[23] Voici l’article 2087 :
+2087. L'employeur, outre qu'il est tenu de permettre l'exécution de la prestation de travail convenue et de payer la rémunération fixée, doit prendre les mesures appropriées à la nature du travail, en vue de protéger la santé, la sécurité et la dignité du salarié.
+[24] L’avocate de l’intimée s’est référée à l’article de Marie‑France Bich, intitulé « Le contrat de travail », que l’on trouve dans les Textes réunis par le Barreau du Québec et la Chambre des notaires du Québec, La Réforme du Code Civil, Obligations, contrats nommés.
+[25] Voici une citation du paragraphe 26 à la page 753 :
+Le type de contrôle exercé en pratique par l'employeur tend cependant à changer avec l'élévation du niveau hiérarchique de l'emploi. ... De même, il existe une foule d'emplois dont l'exercice requiert une latitude professionnelle assez grande, qui croît souvent avec l'expérience : pensons aux avocats et aux avocates qui oeuvrent en cabinet privé, à titre salarié, ou dans un contentieux d'entreprise, aux gestionnaires de niveau supérieur ou aux spécialistes d'une discipline de haut savoir (pharmacie, informatique, génie, etc.) ou même aux détenteurs de certains savoirs techniques; pensons également à certains types de vendeurs dont la fonction s'accommode mal d'un contrôle étroit. Dans ces cas‑là, le pouvoir de direction et de contrôle s'incarne plutôt dans une faculté de vérification et d'évaluation du travail fait. Comme l'écrivent Gagnon, LeBel et Verge, le pouvoir de contrôle, en pareil cas, « porte non pas sur la façon d'exécuter le travail, mais plutôt sur la régularité de son accomplissement, comme sur la qualité de son exécution ». L'employeur, qui définit le cadre général de l'emploi, conserve toujours le pouvoir théorique de donner des directives plus précises mais n'exerce généralement pas cette faculté.
+[26] L'avocate fait donc valoir que dans le cas de monsieur Aref, il n’y avait pas besoin d’un contrôle serré.
+[27] C’est vrai, mais il doit quand même y avoir un certain contrôle du travailleur sur les moyens d'exécution du service autrement il ne s’agit pas d’un contrat de travail. Ici, je ne vois pas dans les circonstances de travail de monsieur Aref, l’existence d’un tel contrôle du payeur. Il n’y avait pas de présence obligatoire à un lieu de travail. Il n’y avait pas d’assignation plus ou moins régulière du travail, une imposition de règles de conduite ou de comportement, exigence de rapports d’activité, contrôle de la quantité ou de la qualité de la prestation.
+[28] Ainsi, il n’y a aucune preuve d’instruction sur la fréquence à laquelle monsieur Aref devait aller rencontrer ses clients et de quelle manière il devait le faire. Il n'y a aucune preuve d’instruction sur le mode d’établissement des rapports d’activités et sur leur fréquence.
+[29] De plus, il n’y avait aucune exigence d’exclusivité quant aux activités de monsieur Aref en autant qu’il n’agisse pas pour des clients en compétition avec l’entreprise du payeur.
+[30] Monsieur Wong s’informait des résultats auprès de monsieur Aref. Ce dernier était le seul représentant en ventes de l’entreprise. Il est normal que monsieur Wong ait voulu être mis au courant. Il s’agissait du nerf même de son entreprise. Mais il lui parlait comme à une personne qui avait le libre choix des moyens d’exécution. Il n’y a pas de preuve quant à des instructions données sur les moyens d’exécution. C’est monsieur Aref qui décidait quand, où et comment il rencontrerait les clients. Il n'y avait pas de lien de subordination entre lui et l'entreprise quant aux modalités de l'exécution de ses services.
+[31] Il est constant dans les décisions de la Cour d’appel fédérale, dans des appels de cette nature, de mettre un accent très fort sur l’intention commune des parties. Cette intention, elle se manifeste au début de l’entente et au cours de l’entente. Pas à la fin de l’entente. Je n’ai aucune preuve de l’intention de monsieur Aref d’être un employé au début et au cours de l’entente. Aucun écrit. Aucune demande ou plaintes verbales. Lors des déjeuners amicaux entre lui, monsieur Duval, le chef pâtissier et le directeur des opérations, monsieur Jérôme T., le sujet ne semble pas avoir été soulevé. Monsieur Duval n’en a sûrement pas parlé et monsieur Jérôme T. n’a pas été appelé à témoigner.
+[32] Monsieur Aref est un homme intelligent. Ses services étaient de grande valeur pour l’entreprise. Il a négocié le mode de rémunération de ses services et les deux parties en sont arrivées à une entente qui est celle d’un contrat d’entreprise. Il y avait entre monsieur Aref et l’appelante un contrat d’entreprise au sens de l’article 2098 du Code civil du Québec.
+[33] En conséquence, l’appel doit être accordé.
+Signé à Ottawa, Canada, ce 8e jour de mai 2008.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2008CCI283
+Nº DU DOSSIER DE LA COUR : 2007-4231(EI)
+INTITULÉ DE LA CAUSE : PÂTISSERIES JESSICA INC. c. M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 28 avril 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 8 mai 2008
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Chantal Labelle
+Avocate de l'intimé :
+Me Chantal Roberge
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante:
+Nom : Me Chantal Labelle
+Cabinet : Lamarre Perron Lambert Vincent, S.E.N.C., Avocats
+Longueuil (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

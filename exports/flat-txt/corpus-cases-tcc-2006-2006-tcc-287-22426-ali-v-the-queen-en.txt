@@ -1,0 +1,523 @@
+Title: Ali v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22426/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-287-22426-ali-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-05-18
+
+# Ali v. The Queen
+
+- Citation: 2006 TCC 287
+- Decision date: 2006-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2250, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ali v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-18
+Neutral citation
+2006 TCC 287
+File numbers
+2002-1457(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2002-1457(IT)I
+2003-1265(IT)I
+BETWEEN:
+SHARIFA ALI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_____________________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Rose B. Markel v. Her Majesty the Queen (2003-2720(IT)I) on
+April 18 to 22, July 21 and October 21, 2005
+at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Hugh R. Scher
+Counsel for the Respondent:
+Arnold H. Bornstein
+Maria Vujnovic
+_____________________________________________________________________________
+JUDGMENT
+It is ordered that the appeal in respect of assessments made under the Income Tax Act for the 2000 and 2001 taxation years is allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the items conceded by the respondent that are set out in a revised statement of agreed facts that was filed with the Court on June 21, 2005.
+Signed at Vancouver, British Columbia, this 18th day of May, 2006.
+"J. Woods"
+Woods J.
+Docket: 2003-2720(IT)I
+BETWEEN:
+ROSE B. MARKEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_____________________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Sharifa Ali v. Her Majesty the Queen (2002-1457(IT)I and 2003-1265(IT)I)
+on April 18 to 22, July 21 and October 21, 2005
+at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Hugh R. Scher
+Counsel for the Respondent:
+Arnold H. Bornstein
+Maria Vujnovic
+______________________________________________________________________________
+JUDGMENT
+It is ordered that:
+1. the appeal in respect of an assessment made under the Income Tax Act for the 2001 taxation year is dismissed; and
+2. the appeal in respect of assessments made under the Act for the 2002 and 2003 taxation years is quashed.
+Signed at Vancouver, British Columbia, this 18th day of May, 2006.
+"J. Woods"
+Woods J.
+Citation: 2006TCC287
+Date: 20060518
+Dockets: 2003-2720(IT)I
+2003-1265(IT)I
+BETWEEN:
+SHARIFA ALI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-1457(IT)I
+ROSE B. MARKEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+________________________________________________________________
+REASONS FOR JUDGMENT
+Woods J.
+I. Introduction
+[1] The appellants, Sharifa Ali and Rose Markel, both suffer from fibromyalgia syndrome, a chronic and debilitating condition with no known cure. As part of a multi-dimensional treatment regime, they each expended approximately $10,000 annually on vitamins, herbs and minerals recommended by a naturopath. They seek to qualify this expenditure for the medical expense tax credit on the basis that the denial of the tax credit violates their rights under the Canadian Charter of Rights and Freedoms (the "Charter").
+[2] Section 118.2 of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended (the "Act") provides a tax credit for expenses incurred as the result of a disability or illness. The expenses that qualify generally are either medicinal in nature (e.g., drugs) or they are personal expenses specifically incurred because of a disability or illness (e.g., home renovations necessitated by a disability).
+[3] Under paragraph 118.2(2)(n), the cost of drugs and other therapeutic substances qualify for the tax credit provided that they are "prescribed by a medical practitioner or dentist" and are "as recorded by a pharmacist."
+[4] None of the substances at issue in these appeals were purchased through a pharmacy and consequently they do not satisfy the requirement of being recorded by a pharmacist: The Queen v. Ray, [2004] 2 C.T.C. 40 (F.C.A.).
+[5] Although the notices of appeal filed by the appellants challenge the correctness of Ray, the appellants did not argue it at the hearing. Rather, the appellants submit that the medical expense tax credit infringes their rights under the Charter, either under section 15, the right to equality, or under section 7, the right to life, liberty and security.
+[6] Notwithstanding that I have great sympathy for the appellants, for the reasons that follow I have concluded that their Charter rights have not been infringed. The line that Parliament has chosen to draw is between types of therapeutic substances and not physical characteristics of people. The legislation has a harsh result for the appellants but their Charter rights have not been infringed.
+II. Nature of the appeals
+[7] The appellants have elected to have the appeals heard under the Court's Informal Procedure and their appeals were heard together on common evidence.
+[8] Ms. Ali's appeal relates to the 2000 and 2001 taxation years. Ms. Markel filed a notice of appeal for the 2001, 2002 and 2003 taxation years but her appeal for the latter two taxation years was withdrawn at the hearing because the necessary preliminary steps had not been taken. Accordingly, the only taxation year that is still at issue for Ms. Markel is the 2001 taxation year.
+III. Facts[1]
+A. Overview
+[9] The parties filed an agreed statement of facts (revised) that describes the expenditures at issue and outlines certain concessions by the respondent.
+[10] The tax credit that is sought by the appellants is in respect of dietary supplements[2] such as vitamins, herbs and minerals that were recommended by a naturopath. The products are part of a broader class of health products known as natural health products (NHPs).
+[11] Each of the appellants testified on her own behalf and expert evidence on their behalf was given by: (1) the naturopath who treats them both (Dr. Robert J. Medrek), (2) one of their physicians (Dr. David Saul), and (3) another physician who made an assessment of their condition (Dr. Alison C. Bested).
+[12] For the respondent, expert evidence was presented by: (1) a toxicologist who testified as to the regulatory landscape for NHPs (Dr. Mark T. Goldberg), (2) a physician who testified about the qualifying expenditures in s. 118.2(2)(k) (Dr. Allan Knight), and (3) a tax policy officer with the Department of Finance who testified as to the possible fiscal cost of extending the tax credit to all off the shelf drugs (Galen Countryman).
+[13] All of the witnesses were credible and I generally accept their evidence.
+B. Sharifa Ali
+[14] Ms. Ali suffers from fibromyalgia syndrome (FMS) and chronic fatigue syndrome[3] (CFS). Her condition is quite severe.
+[15] In 1998 Ms. Ali started to feel poorly with persistent flu like symptoms and these symptoms worsened to the point where she had to stop work. Her only source of income at the present time is long term disability insurance benefits from her former employer which she began receiving only after instigating legal action.
+[16] Ms. Ali's family doctor, Dr. Choi Fung, suspected that she had FMS and CFS in 2000. The doctor referred her to several specialists and a diagnosis of FMS, CFS, and environmental sensitivity disorder was made.
+[17] Ms. Ali was told by her physicians that there were some pharmaceutical treatments available but these were not recommended because of her sensitivity to chemicals. The recommended course of treatment, which she followed, was to pursue natural treatments. She has been treated by a naturopath, Dr. Medrek, who has prescribed a regimen of dietary supplements and non-drug treatment programs such as massage therapy, acupuncture, colonic lavage and regimens for exercise and diet.
+[18] The regimen of dietary supplements that Ms. Ali takes is recommended by, and under the supervision of, Dr. Medrek. She takes a significant number of products each day, in the range of 50 or so, at an approximate cost of $13,000 in 2000 and $10,000 in 2001.
+[19] Ms. Ali testified that the dietary supplements were first purchased from the naturopathic clinic where Dr. Medrek practices, but more recently she has been able to purchase some of the products at health food stores at a lower cost. Due to their high strength, the products that Ms. Ali purchased at health food stores were not on the shelf. She testified that the stores made them available to her with Dr. Medrek's prescription. They were not acquired from a pharmacist, however.
+[20] Ms. Ali testified that she has been greatly helped by the dietary supplements and she considers them to be the cornerstone of her treatments. Because the treatments are expensive, she made an attempt to cut back on them about a year ago. She testified that this proved to be problematic because it caused a severe setback from which she is still trying to recover.
+[21] All of Ms. Ali's physicians approve of her course of treatment.
+[22] Dr. Saul, a physician who specializes in treating patients with CFS and FMS, has monitored Ms. Ali's condition since 2000. According to his testimony, the natural treatments that are followed by Ms. Ali (i.e., dietary supplements and services such as acupuncture and massage) have allowed her to resume many of the basic activities of daily living, such as getting dressed, personal hygiene and grooming, making light meals, and slowly walking her dog.
+[23] Ms. Ali described the treatments as enabling her to have a life with dignity and she testified to being angry about the lack of financial support for them. She noted that the course of treatment was recommended by her doctors and she does not think that there is a substantial difference between the regimen of dietary supplements that she takes and prescription drugs that qualify for the tax credit.
+[24] The tax assessments issued to Ms. Ali disallowed the tax credit in respect of the cost of both dietary supplements and naturopathic services. The respondent now concedes that amounts paid for services rendered by Dr. Medrek, such as acupuncture and colonic lavage, qualify for the tax credit as amounts paid to a medical practitioner for medical services under s. 118.2(2)(a).
+C. Rose Markel
+[25] Ms. Markel is a social worker with a Toronto area school board and suffers from FMS.
+[26] She testified that she has had numerous medical problems following a car accident in 1989. For a number of years none of the physicians that she consulted were able to diagnose the problem and she was finally diagnosed with FMS in 2003.
+[27] Shortly after the car accident, Ms. Markel sought the help of a naturopath. She testified that she pursued this course of treatment reluctantly because she did not believe in naturopaths but she explained that she was off work and desperate for relief. She felt much better after taking the naturopathic treatments and then stopped them because they were expensive.
+[28] After a couple of years, Ms. Markel started having health problems again. Her doctor sent her to specialists but they were not able to find anything wrong. In the summer of 1999, she went back to a naturopath, this time Dr. Medrek, who recommended a course of treatment very similar to Ms. Ali's. Ms. Markel responded positively to the treatments and began to resume her normal activities.
+[29] In the summer of 2000, Ms. Markel had a flare up and could only work sporadically until 2003. It was at that point that her chiropractor told her that he thought that she had FMS and it was diagnosed shortly thereafter.
+[30] Ms. Markel testified that she has been greatly helped by the dietary supplements recommended by Dr. Medrek and that they have assisted her in being able to work on a full-time basis. She testified that she tried cutting back on the natural treatments for financial reasons, both services and dietary supplements, but that she was not able to cut back on the supplements because her health deteriorated when she did.
+[31] The treatment regimen recommended by Dr. Medrek is approved by Ms. Markel's physicians.
+[32] Although Ms. Markel has not been diagnosed with chemical sensitivity, she has trouble tolerating some pharmaceutical drugs. She does, however, take prescription medicine to treat epilepsy which was diagnosed in the early 1980s.
+[33] Ms. Markel testified that the financial cost of the natural treatments has been a great burden and stressful and she testified as to being angry over the lack of financial assistance for them.
+[34] For purposes of the medical expense tax credit in the 2001 taxation year, Ms. Markel claimed medical expenses of approximately $12,500. The Minister allowed the tax credit with respect to expenditures on services provided by Dr. Medrek but disallowed the claim with respect to dietary supplements. The cost of the products at issue is $9,969.
+D. CFS and FMS
+[35] CFS and FMS are severe illnesses with widespread symptoms such as pain, sleep difficulty, fatigue, memory impairment, loss of concentration, headaches and irritable bowel. The causes are not known and there is no cure.
+[36] The evidence before me includes published reports on FMS and CFS prepared by two panels of medical experts commissioned by Health Canada. Each report sets out a definition of the illness for clinical purposes and diagnostic and treatment protocols.[4] The reports will be referred to in these reasons as the FMS Report and the CFS Report.
+[37] According to the FMS Report, the prevalence of FMS likely has been underestimated as many cases are attributed to other systemic disorders or misdiagnosed as psychiatric in origin.[5] The two reports aim to address this problem by assisting physicians to make more accurate diagnoses and provide more effective treatments.
+[38] I am not certain when these reports were first issued. The expert panels met in 2001 and it appears that the reports were written sometime after this. I was provided with copies published in 2003. Even though the reports may not have been available in 2000 and 2001, the taxation years at issue, it is likely that they generally represent the state of knowledge at that time.
+[39] Dr. Saul was a member of the panel that reported on FMS and Dr. Bested was a member of the panel on CFS. The reports were described as consensus documents and consequently they likely do not totally reflect the views of any particular panel member, including Drs. Saul and Bested.
+[40] CFS and FMS are described in the reports as different, but overlapping, conditions. The FMS Report states: "FMS is at the extreme of the chronic pain spectrum, with lesser degrees of fatigue and cognitive disturbance. ME/CFS is at the extreme end of the chronic fatigue spectrum but often involves a significant cognitive dysfunction and pain as well."[6]
+[41] The treatment protocols recommended in the reports are of particular relevance to these appeals. Both reports stress an individualized treatment program that includes regimens for diet, exercise, sleep, pharmaceutical drugs and avoiding adverse environmental factors. In terms of pharmaceuticals, the reports note that many patients are hypersensitive to medications given in usual doses and suggest that medications should start at low doses to determine tolerability.[7]
+[42] Both reports also consider dietary supplements and suggest that CFS and FMS patients may require additional nutrients.
+[43] The CFS Report recommends a few specific supplements, mostly vitamins, and notes that others have been tried "but is it hard to separate their specific effects from their general effects of assisting the patient coping powers."[8]
+[44] The FMS Report generally stops short of making recommendations. It provides information on supplements that are commonly taken by FMS patients and includes "claims that are said to be relevant."[9]
+E. Regulation of Natural Health Products
+[45] The respondent provided expert evidence on the regulation of natural health products. Their expert, Dr. Goldberg, has a PhD in Pharmacology and is a member of Health Canada's Expert Advisory Committee on Natural Health Products. The following description of the regulatory landscape is from his testimony and expert report, which I accept.
+[46] The regulation of NHPs varies considerably from country to country. In European Union countries, they are generally regulated as drugs. In the United States, they are regulated more like foods in that they do not require pre-market government approval and nor are manufacturers permitted to make treatment-cure claims for these products.
+[47] In Canada, all food and drugs, including NHPs, are regulated federally under the Food and Drug Act (the "FDA"). In general, food is distinguished from drugs in the FDA on the basis that food is generally consumed to provide nourishment or nutrition and drugs are products that are represented for use in treating or preventing abnormal conditions.
+[48] Foods do not require pre-market approval. Drugs generally are subject to approval and all approved drugs are assigned a Drug Identification Number (DIN).
+[49] The regulatory framework for NHPs changed significantly in 2004 when new regulations governing NHPs came into effect. Leading up to the change, in 1999 the government created a new Federal Office of Natural Health Products whose mission was "to ensure that all Canadians have ready access to natural health products that are safe, effective and of high quality, while respecting freedom of choice and philosophical and cultural diversity."
+[50] In 1998, in anticipation of the new regulations Health Canada relaxed regulatory requirements for certain NHPs, including traditional herbal medicines, homeopathic preparations and vitamin and mineral supplements for human use. During this transitional phase, which includes the taxation years at issue, the products covered by the policy were allowed to carry health claims, except for certain conditions such as arthritis, asthma and cancer, without being registered as drugs and having DINs.
+[51] Prior to the transitional phase, NHPs that carried health claims had to be registered as drugs and were given DINs. Unlike most pharmaceuticals, however, clinical trials were often not required. For example, vitamins could be approved if they conformed to a description in a government monograph. A homeopathic remedy could be approved if the product was listed in a recognized source, such as the Homeopathic Pharmacopoeia of the United States.
+[52] Under the 2004 regulations, all new products entering the market must have a product license which requires that the product undergo a pre-market review with respect to safety, efficacy and labeling. The nature of the evidence required varies with the type of NHP and the claims being made. Products already on the market will be brought into compliance over a period of time and by 2010 all NHPs currently on the market with DINs must have a Natural Product Number (NPN).
+[53] Finally Dr. Goldberg's report states that although the new regulations are in force there is still opposition. He notes that in October 2004 a bill was introduced into the House of Commons that is intended to amend the FDA so that dietary supplements, herbs and other natural health products that are "grown" are regulated as foods. Dr. Goldberg notes that this bill, if enacted, would result in significant changes to the Canadian regulatory framework and he noted that they may contradict internationally established regulatory frameworks.
+IV. Medical Expense Tax Credit
+[54] In this section I review the legislative framework of the medical expense tax credit which is necessary to properly consider the appellants' arguments under the Charter.
+[55] The tax credit is provided for in s. 118.2 of the Act. The provision is reproduced in an appendix along with the following related provisions: (1) s. 118.4(2), which provides a definition of "medical practitioner;" (2) s. 5700 of the Income Tax Regulations, which prescribes certain devices and equipment which qualify under s. 118.2(2)(m); and (3) relevant excerpts from the 2005 federal budget.
+[56] The medical expense tax credit is designed to recognize above average medical expenses by providing tax relief for eligible expenses.[10] The genesis of the provision goes back to 1942 when a deduction in computing income was allowed for a limited number of medical expenses. The provision has since been changed from a deduction in computing income to a tax credit and the number of qualifying expenses have been greatly expanded.
+[57] During the relevant taxation years, the tax credit is non-refundable and is determined under a formula. For the 2000 taxation year, the credit is equal to 17 percent of qualifying expenses in excess of the lesser of 3 percent of income and $1,637. For example, if a taxpayer had income of $100,000 and qualifying medical expenses of $10,000, the amount of the tax credit would be $1,422 (17 percent times $8,363).
+[58] The qualifying expenditures in s. 118.2(2) include two provisions that specifically apply to drugs or other therapeutic substances, s. 118.2(2)(k) and (n). They provide:
+118.2(2) For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+...
+(k) for an oxygen tent or other equipment necessary to administer oxygen or for insulin, oxygen, liver extract injectible for pernicious anaemia or vitamin B12 for pernicious anaemia, for use by the patient as prescribed by a medical practitioner;
+...
+(n) for drugs, medicaments or other preparations or substances (other than those described in paragraph 118.2(2)(k)) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist;
+[59] These provisions have been in the Act without significant change for many years. The predecessor to s. 118.2(2)(k) originated in 1951 and the predecessor to s. 118.2(2)(n) was first introduced in 1958. There are no other provisions currently in force that deal with drugs but the 2005 federal budget proposes to add medical marihuana and certain unapproved drugs, both made available through Health Canada.
+[60] The definition of "medical practitioner" is also relevant. It is included in s. 118.4(2) which provides:
+118.4(2) For the purposes of sections 63, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, psychologist or speech-language pathologist is a reference to a person authorized to practise as such,
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+(b) where the reference is used in respect of a certificate issued by the person in respect of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides or of a province; and
+(c) where the reference is used in respect of a prescription issued by the person for property to be provided to or for the use of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides, of a province or of the jurisdiction in which the property is provided.
+(Emphasis added)
+[61] I have included in the appendix the relevant legislation as at the end of 2005 and the amendments that were proposed in the 2005 federal budget. Referring to the most recent legislation may provide more insight into the general legislative scheme in the taxation years in question. I do not think that the recent changes represent a general shift in policy.
+V. Issues
+[62] The issues as framed by the appellants are: Does the pharmacist-recording requirement in s. 118.2(2)(n), or its application to the appellants, violate either their right to equality in section 15 of the Charter or their right to life, liberty and security in section 7?
+[63] Although the issues as framed put in issue the validity of the pharmacist-recording requirement, counsel for the appellants stated in oral argument that what is being sought in these appeals is simply tax relief for the dietary supplements purchased by the appellants. Counsel indicated that Parliament is free to revise the legislation in any manner that it sees fit, as long as the legislation does not violate the Charter rights of the appellants or other persons.
+[64] I also note that the Charter arguments were directed only to the pharmacist-recording requirement and that the appellants submitted that the other requirements of s. 118.2(2)(n) were satisfied.
+[65] The respondent took issue with this and argued that the appellants also did not satisfy the requirement in s. 118.2(2)(n) that the drugs be prescribed by a medical practitioner. According to the respondent, Dr. Medrek is not a "medical practitioner" for purposes of s. 118.2(2)(n) because the Ontario regulations regarding naturopathy do not apply to the function of drug prescription.[11]
+[66] The arguments by the parties relating to this issue were not extensive and for this reason I do not propose to consider the meaning of medical practitioner unless I find that the Charter has been infringed.[12]
+[67] In their pleadings, the appellants raised two other arguments but these were not pursued during oral argument.
+[68] One of the further arguments is that the appellants satisfy the conditions of s. 118.2(2)(n) even without resort to the Charter. This is a difficult argument to make in light of the decision in Ray in which the Federal Court of Appeal concluded that the pharmacist-recording requirement has the effect of excluding off the shelf drugs.
+[69] The other argument that the appellants made is that s. 118.2(2)(n) is ultra vires because it is a colourable attempt by Parliament to regulate health care, which is within the jurisdiction of the provinces.
+[70] Counsel for the appellants decided not to pursue either argument during oral argument and consequently I do not propose to deal with them in these reasons.
+VI. Analysis
+A. Equality - Section 15(1)
+(1) Introduction
+[71] The appellants submit that the pharmacist-recording requirement in s. 118.2(2)(n) has the effect of singling them out on the basis of their disabilities and consequently that it violates their right to equal benefit of the medical expense tax credit under s. 15(1) of the Charter.[13]
+[72] The essential question in these appeals is whether a stereotypical view of CFS and FMS is manifested in the medical expense tax credit through a denial of tax relief for the purchase by the appellants of dietary supplements recommended by a naturopath.
+[73] The circumstances giving rise to the claim are certainly sympathetic. FMS and CFS are seriously debilitating conditions and the appellants are incurring significant amounts on treatments that are recommended by their doctors. Persons who can be treated with prescription medicine have their drug costs partially relieved through the medical expense tax credit. One empathizes with the fact that the tax credit does not extend to the costs incurred by the appellants.
+[74] I would note, however, that this Court often deals with circumstances where the tax results in individual cases are harsh - this ground alone is not sufficient to invalidate the legislation. In most such cases, what is involved are policy issues that do not engage the Charter. Broad-based legislation such as the Income Tax Act cannot always meet the needs of individual taxpayers.
+[75] In Nova Scotia(Workers' Compensation Board) v. Martin, [2003] 2 S.C.R. 504 (S.C.C.), Gonthier J. commented at para. 82:
+[82] Of course, government benefits or services cannot be fully customized. As a practical matter, general solutions will often have to be adopted, solutions which inevitably may not respond perfectly to the needs of every individual. This is particularly true in the context of large-scale compensation systems, such as the workers' compensation scheme under consideration.
+[76] On the other hand, legislation must comply with the Charter and a broadly based provision may be invalid if it discriminates against persons based on an enumerated ground, such as a disability. The Supreme Court of Canada found that to be the case in Martin which concerned legislation dealing with workers' compensation benefits that were denied to people with chronic pain, a condition which includes FMS. The legislation was struck down on the basis that it infringed s. 15(1) of the Charter.
+[77] Writing for the Court, Gonthier J. commented that the lack of understanding of chronic pain has led to prejudice. At paragraph 1:
+... since chronic pain sufferers are impaired by a condition that cannot be supported by objective findings, they have been subjected to persistent suspicions of malingering on the part of employers, compensation officials and even physicians. ...
+[78] I note that the definition of "chronic pain" in the relevant workers' compensation legislation included FMS and similar conditions that are not supported by objective, physical evidence of injury.
+(2) Prior income tax decisions
+[79] This is not the first time that this Court has had to consider whether s. 118.2(2)(n) infringes s. 15(1) of the Charter. In Lewis[14] and Pagnotta,[15] Paris J. and Miller J. found that s. 118.2(2)(n) did not infringe s. 15(1) in relation to the purchase of vitamins and herbs by persons suffering FMS or CFS. In Herzig,[16] Bowman A.C.J. (as he then was) came to the same conclusion with respect vitamins prescribed for a cancer patient.
+[80] In all of the prior decisions, s. 118.2(2)(n) was found to be valid on the basis that the provision applies equally to all persons. The cases also suggest that the present state of regulation for NHPs, or lack thereof, is a valid concern in considering whether expenses for NHPs should qualify for the tax credit.[17]
+[81] The prior decisions are relevant but it is appropriate to take a further look at the issue. None of the taxpayers in the earlier cases were represented by counsel and it appears that the evidentiary record in these appeals is substantially greater.
+(3) General interpretive principles
+[82] The right that is provided for in s. 15(1) is to equal benefit of the law without discrimination on the basis of enumerated or analogous grounds. Subsection 15(1) provides:
+15(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[83] The onus to establish an infringement of s. 15(1) is on the appellants. If the onus is satisfied, the legislation is not necessarily invalid however. The burden then shifts to the respondentwho can save the legislation under s. 1 of the Charter by establishing that it is justifiable. Section 1 provides:
+The Canadian Charter of Rights and Freedoms guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.
+[84] The Supreme Court has said that s. 15(1) is to be interpreted broadly to give effect to its purpose. In the leading case of Law v. Canada(Minister of Employment and Immigration), [1999] 1 S.C.R. 497 (S.C.C.), Iacobucci J. writing for a unanimous Court described the purpose of s. 15(1) at p. 529:
+It may be said that the purpose of s. 15(1) is to prevent the violation of essential human dignity and freedom through the imposition of disadvantage, stereotyping, or political or social prejudice, and to promote a society in which all persons enjoy equal recognition at law as human beings or as members of Canadian society, equally capable and equally deserving of concern, respect and consideration.
+[85] The Law decision at para. 39 sets forth a general analytic framework which breaks down the requirements of s. 15(1) into three elements: (1) differential treatment under the law; (2) on the basis of an enumerated or analogous ground; and (3) which constitutes discrimination.
+[86] This framework requires a comparative analysis. It must be determined whether the claimants are treated differently from others, and if so whether the difference is based on enumerated or analogous grounds and whether the difference amounts to discrimination. To do this, the court is required to determine a "comparator group" to which the appellants are compared.
+[87] The Supreme Court has emphasized that an appropriate choice of comparator is crucial to the s. 15(1) analysis. The guiding principles were recently summarized by McLachlin C.J. in Auton (Guardian ad litem of) v. British Columbia(Attorney General), [2004] 3 S.C.R. 657 (S.C.C.), at para. 48 and 50 to 54:
+[48] This question first requires us to determine the appropriate comparator group, and then to ask whether, as compared with people in that group, the petitioners have been denied a benefit.
+...
+[50] The law pertaining to the choice of comparators is extensively discussed in Hodge, supra, and need not be repeated here. That discussion establishes the following propositions.
+[51] First, the choice of the correct comparator is crucial, since the comparison between the claimants and this group permeates every stage of the analysis. "[M]isidentification of the proper comparator group at the outset can doom the outcome of the whole s. 15(1) analysis": Hodge, supra, at para.18.
+[52] Second, while the starting point is the comparator chosen by the claimants, the Court must ensure that the comparator is appropriate and should substitute an appropriate comparator if the one chosen by the claimants is not appropriate: Hodge, supra, at para. 20.
+[53] Third, the comparator group should mirror the characteristics of the claimant or claimant group relevant to the benefit or advantage sought, except for the personal characteristic related to the enumerated or analogous ground raised as the basis for the discrimination: Hodge, supra, at para. 23. The comparator must align with both the benefit and the "universe of people potentially entitled" to it and the alleged ground of discrimination: Hodge, at paras. 25 and 31.
+[54] Fourth, a claimant relying on a personal characteristic related to the enumerated ground of disability may invite comparison with the treatment of those suffering a different type of disability, or a disability of greater severity: Hodge, supra, at paras. 28 and 32. Examples of the former include the differential treatment of those suffering mental disability from those suffering physical disability in Battlefords and District Co-operative Ltd. v. Gibbs, [1996] 3 S.C.R. 566, 140 D.L.R. (4th) 1, and the differential treatment of those suffering chronic pain from those suffering other workplace injuries in Nova Scotia (Workers' Compensation Board) v. Martin, [2003] 2 S.C.R. 504, 2003 SCC 54, 231 D.L.R. (4th) 385. An example of the latter is the treatment of persons with temporary disabilities compared with those suffering permanent disabilities in Granovsky, supra.
+[88] The decision in Auton illustrates the relevance of the legislative scheme in determining an appropriate comparator. The Charter issue in the case was whether the denial of funding for a particular therapy for autistic children between the ages of three and six years of age violated s. 15(1). The Court concluded that funding for this type of therapy was not a benefit that was provided for under the applicable legislation and consequently it found that s. 15(1) was not infringed. In obiter, the Court considered whether there would otherwise have been a violation of s. 15(1) and for this purpose considered an appropriate comparator group.
+[89] The claimants proposed that they be compared with non-disabled children and their parents, as well as adult persons with mental illness.
+[90] The Supreme Court rejected this comparator on the ground that it failed to take the legislative scheme into account. The therapy for which funding was sought by the claimants was emergent and the relevant legislation did not generally provide funding for such therapies.
+[91] The Supreme Court concluded that the comparator group should be: "a member of a non-disabled group or a person suffering a disability other than a mental disability that requests or receives funding for non-core therapy important to present and future health, but which is emergent and only recently becoming recognized as medically required."
+[92] Auton illustrates that the comparator needs to take the legislative scheme into account so that the claimants are alike with the comparator group in all respects relevant to the benefit sought except for an enumerated ground.
+(4) Application to these appeals
+[93] The appellants submit that the pharmacist-recording requirement in s. 118.2(2)(n) infringes their right to equality under s. 15(1) because it singles them out on the basis of their disability, which is the inability to ingest drugs. In brief, they suggest that they were denied equal benefit of the law because tax relief has been denied to them that is available to persons who are able to ingest drugs.
+[94] When the appellants refer to the inability to ingest drugs, I assume that they mean pharmaceutical drugs. As discussed below, the dietary supplements that are at issue in these appeals may also properly be described as drugs.
+[95] I would comment first on the disability that the appellants have chosen to focus on - an inability to ingest drugs. An appropriate question to ask as a preliminary matter is: What is the disability that is at issue in these appeals? Is it FMS and CFS or is it an inability to ingest drugs?
+[96] The evidence in these appeals, including evidence of discrimination, focused on FMS and CFS rather than an inability to ingest drugs. It was established that persons with FMS and CFS often have a low tolerance for pharmaceutical drugs but no evidence was presented as to the universe of people who have difficulty tolerating pharmaceutical drugs. Specifically, it has not been established that all persons suffering from FMS or CFS have an intolerance to pharmaceutical drugs or that persons with other illnesses do not have a similar problem.
+[97] For purposes of the Charter analysis below, I will focus on the inability to ingest drugs as the appellants have done. I would note however that there was no evidence of stereotypical views of other illnesses whose symptoms might include an inability to tolerate pharmaceutical drugs.
+[98] I would also note for clarification that the appellants have a low tolerance for pharmaceutical drugs but they both have taken them at one time or another.
+[99] As a final preliminary comment, I note that there was no evidence led as to the reason that the government has not extended tax relief to persons in the appellants' circumstances. The only relevant evidence was testimony by a tax policy officer with the Department of Finance who testified as to the potential cost of extending the tax credit to all off the shelf drugs.
+[100] I now turn to the appellants' arguments. They suggest that they have been denied equal benefit of the law because tax relief has been denied to them that is available to persons who are able to ingest drugs. The effect of the pharmacist-recording requirement in s. 118.2(2)(n), according to the appellants, is to provide tax relief to persons who are able to ingest drugs and it denies the same benefit to the appellants.[18]
+[101] The appellants suggest that an appropriate comparator group is individuals who are able to ingest drugs.
+[102] Before considering the appellants' choice of comparator, the first question that might be asked is, assuming that it is an appropriate comparator, does the legislation treat the appellants differently from others based on a personal characteristic?
+[103] The appellants suggest that the legislation makes a distinction on the ability to ingest drugs. This is not a distinction that the legislation makes. Even if someone has an ability to ingest drugs, they are not allowed tax relief for dietary supplements. There was no evidence to suggest that persons who are unable to ingest drugs have a greater need for dietary supplements than persons who do not have an intolerance to pharmaceutical drugs.
+[104] The appellants must do more than establish that they are harshly affected by the legislation. They must establish that they are affected differently based on a personal characteristic. There was no evidence led to indicate that the appellants are affected differently from persons who are able to tolerate pharmaceutical drugs.
+[105] The appellants submit that the legislation has the effect of making a distinction based on their disability because the legislators have failed to make an individualized assessment of their needs.[19] In my view, the judicial decisions[20] that counsel refers to do not support this argument. As indicated in Martin, the Charter does not require that broadly-based legislation take everyone's needs into account.
+[106] Although Parliament does not need to make an individualized assessment of needs, it is necessary for a court to look behind the words of the statute and ask whether the legislation has the effect of singling out a disadvantaged group: Auton, para. 40.
+[107] One of the few examples where s. 15(1) was found to be infringed on this basis is British Columbia (Public Service Employee Relations Commission) v. BCGSEU, [1999] 3 S.C.R. 3. That case concerned the validity of a requirement that firefighters meet certain aerobic levels. The court found that the legislation violated s. 15(1) by discriminating on the basis of gender because the requirement generally could not be met by female firefighters and the aerobic levels that were set were not reasonable for the circumstances of the job. McLachlin C.J. later described that "the aerobic levels served as a proxy for gender": Auton, para. 57.
+[108] The circumstances in these appeals are quite different. The pharmacist-recording requirement applies broadly and, for the reasons below, it is not arbitrary. The requirement does not single out persons who are unable to ingest drugs.
+[109] For these reasons, I conclude that s. 15(1) of the Charter has not been violated. This conclusion has been reached on the assumption that the comparator group selected by the appellants is an appropriate one but because of the focus on comparator group by the parties I will now consider whether persons who are able to ingest drugs is an appropriate comparator.
+[110] As discussed below, I have concluded that the comparator selected by the appellants is not appropriate because it fails to properly take into account the benefit that is sought. A consideration of the legislative scheme is central to this determination.
+[111] The appellants submit that the general scheme of the medical expense tax credit is to provide tax relief for therapeutic substances prescribed by a medical practitioner. I do not agree that the legislative scheme is that broad.
+[112] The list of expenses that qualify for the tax credit is long and it is expanded on a regular basis. This seems to reflect a commitment by Parliament to be responsive to the medical needs of taxpayers.
+[113] On the other hand, the decision to list specific qualifying expenses in s. 118.2(2) rather than making all medical expenses eligible has the result that some taxpayers will incur reasonable medical expenses that do not qualify. I think that this result is intended. Parliament has decided that it is not appropriate to allow tax relief for all medical expenses incurred either at the discretion of the taxpayer or even on the advice of a medical practitioner.
+[114] In considering the legislative scheme specifically in respect to drugs, the legislative history to s. 118.2(2)(n) suggests that when it was enacted in 1958 Parliament intentionally limited the scope of drugs that qualify for the tax credit.[21] Except for a limited number of items listed in s. 118.2(2)(k), Parliament made the choice to restrict the tax credit in respect of drugs and similar substances to those that are recorded by a pharmacist.
+[115] The original list of eligible drugs that was enacted in 1951 was limited to five specific drugs and this provision has survived as para. (k). The debates in the House of Commons at the time suggest that these substances were approved by the Department of Health and Welfare and at first it was contemplated that other drugs would be added from time to time on the advice of that department.
+[116] The very limited scope of this provision led Parliament to abandon that approach in 1958 and enact a more broadly-based provision in what is now para. (n).
+[117] The Parliamentary debates leading up to this change in 1958 suggest that the government of the day had concerns that the new provision would be open to abuse. A member of Parliament who was a pharmacist told the House of Commons in 1958 that abuses were already occurring. He recounted one incident whereby a manufacturer of nutritional supplements for babies was giving pre-printed prescription forms to medical practitioners.[22]
+[118] I also note that there have been no additions to the list of qualifying drugs since the 1950s but that the 2005 federal budget has proposed amendments to include medical marihuana obtained from Health Canada and unapproved drugs obtained through a special government program. The restrictive approach to drugs is in contrast to a large number of amendments to s. 118.2(2) and related regulations that have qualified other types of medical expenses for the tax credit.
+[119] I find, therefore, that the legislative scheme is not as broad as that suggested by the appellants. It is not intended to provide tax relief for all prescribed medical expenses. The scope of the medical expense tax credit in general, and in respect of drugs in particular, is more restrictive.
+[120] The appellants also suggest that the pharmacist-recording requirement is not an appropriate line for Parliament to draw because it is arbitrary. It is therefore relevant to consider what function the pharmacist-recording requirement has, if any, in limiting the scope of qualifying drugs.
+[121] In my view, the drugs that qualify for the tax credit satisfy a number of relevant criteria that would no longer be met if the pharmacist-recording requirement were removed. In brief, these are: (1) that the list of eligible drugs has relatively well-defined parameters and therefore the scope for abuse is limited; (2) that the drugs that qualify are generally recognized as safe and efficacious; and (3) that the availability of the tax credit for drugs is relatively uniform throughout the country.
+[122] First, the pharmacist-recording requirement limits the scope of the provision to fairly well-defined parameters to what are commonly referred to as prescription drugs and other substances that can only be obtained through a pharmacist.
+[123] In Ray, the Federal Court of Appeal concluded that the pharmacist-recording requirement excludes off the shelf drugs from qualifying under s. 118.2(2)(n). At para. 12:
+[12] In my view, it is reasonable to infer that the recording requirement in paragraph 118.2(2)(n) is intended to ensure that tax relief is not available for the cost of medications purchased off the shelf. There are laws throughout Canada that govern the practice of pharmacy. Although the laws are not identical for each province and territory, they have common features. Generally, they prohibit a pharmacist from dispensing certain medications without a medical prescription, and they describe the records that a pharmacist is required to keep for medications dispensed by prescription, including information that identifies the prescribing person and the patient. There is no evidence that pharmacists anywhere in Canada are required to keep such records for the substances in issue in this case.
+[124] The removal of the recording requirement would enable an ill-defined group of substances to qualify. Based on the existing wording of s. 118.2(2)(n), the following substances would qualify as long as they were prescribed by a medical practitioner:
+substances ... manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring correcting or modifying an organic function ...
+[125] Such a broad provision would open the door to claims relating to many types of foods. Even under the existing wording, courts have considered claims for organic food and bottled water.[23]
+[126] The appellants suggest that the group of eligible drugs would be well-defined by products that have DIN numbers. It is not clear to me that replacing the pharmacist-recording requirement with a requirement for a DIN would be feasible from an enforcement perspective. Even if it were, it also could lead to abuse because of the broad category of substances that have DINs.
+[127] DINs are given to approved products that meet the definition of a drug in the FDA. The definition, which is similar to that in s. 118.2(2)(n), in general terms refers to products that make health claims. Dr. Goldberg noted, for example, that toothpaste is a product that is represented to prevent health problems. Although there was no evidence led on this point, I take judicial notice of the fact that some toothpaste does in fact have DIN numbers. Accordingly I reject the suggestion that having a DIN is an appropriate substitute for the pharmacist-recording requirement.
+[128] I also note that under the transitional regulatory provisions that were in effect in the taxation years at issue, DINs were not required for many natural health products.
+[129] Accordingly, by excluding off the shelf products Parliament has ensured that the scope of s. 118.2(2)(n) is within relatively well-defined parameters and that the potential for abuse is limited. This is certainly something that Parliament is entitled to consider in a broadly-based provision such as the medical tax credit.
+[130] Second under the current legislation, Parliament has some assurance that the therapeutic substances that qualify for the tax credit are safe and efficacious.
+[131] In s. 118.2(2)(n), this assurance is provided by the pharmacist-recording requirement because generally these drugs have had to comply with government safety and efficacy requirements, such as clinical trials.
+[132] For the limited number of substances in s. 118.2(2)(k), this assurance is not provided by a pharmacist requirement but Dr. Knight testified that all the products listed in this paragraph are generally accepted as being safe and efficacious for the treatment of particular conditions.
+[133] Assurance of safety and efficacy would not be met if the pharmacist-recording requirement were removed. The evidence as a whole suggests that the efficacy of natural health products is very controversial. In terms of the safety and efficacy of dietary supplements to treat FMS and CFS, Health Canada generally has not required clinical trials for these products and the FMS Report and CFS Report suggest that there is no general acceptance that NHPs generally are efficacious to treat these conditions.
+[134] I note the following comment in the FMS Report, at page 42:
+Many patients consume nutritional supplements and herbal preparations for their potential relief of symptoms. Most of these supplements have not undergone strict scientific trials and the scientific evidence that that does exist comes from studies in different areas of medicine, such as: heart disease, arthritis, etc. Some patients have found supplements and herbs helpful while others have not. ...
+[135] Third, if the pharmacist-recording requirement were removed, the tax credit would apply unevenly across the country. Under the definition of "medical practitioner" in s. 118.4(2), a health professional is not a medical practitioner unless they are authorized by law to practice as such. Dr. Goldberg testified that naturopaths in practice dispense NHPs to patients and that naturopathy is a regulated profession only in the following provinces: British Columbia, Alberta, Saskatchewan, Manitoba and Ontario. Accordingly, if the pharmacist-recording requirement were removed, the availability of the tax credit for NHPs would differ depending on the province in which the taxpayer lived.
+[136] In summary, inenacting s. 118.2(2)(n), Parliament had to decide where to draw the line between therapeutic substances that qualify for tax relief and those that do not. The line that was drawn has a harsh result for the appellants but the line is not arbitrary.
+[137] The comparator group selected by the appellants, individuals who are able to ingest drugs, does not take this legislative scheme into account. I find that a more appropriate comparator group is individuals who can tolerate pharmaceutical drugs and who claim a medical expense tax credit for drugs that (1) are not within well-defined parameters; (2) are not well-established as being safe and efficacious; and (3) are prescribed by a medical practitioner whose profession is not regulated in every province.
+[138] The appellants are not treated differently from others compared to this comparator group. No one is entitled under the legislation to claim tax relief for drugs under this criteria.
+[139] For these reasons, I conclude that s. 118.2(2)(n) does not infringe the appellants' rights under s. 15(1) of the Charter in relation to the claim that is sought in these appeals.
+C. Life, liberty and security - Section 7
+[140] Section 7 of the Charter provides:
+Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+[141] Under section 7, the appellants are required to prove that s. 118.2 deprives them of their life, liberty or security and that the deprivation is not in accordance with principles of fundamental justice: Chaoulli v. Quebec (Attorney General), [2005] 1 S.C.R. 791 at para. 30 and 109.
+[142] The appellants argue that by denying tax relief for NHPs, the state has limited their access to healthcare:[24]
+The Appellants are arguing that the pharmacist-recording requirement represents a form of state interference with their liberty and security rights in that the denial of the tax deductions based on the pharmacist-recording requirement results in increased costs to the Appellants for NHP and thus limits their access to NHP, the denial of which would negatively affect the Appellants' health and well-being.
+[143] There have been cases in which section 7 has been applied where the state has prohibited access to healthcare: Chaoulli, supra; Hitzig v. Canada (2003), 231 D.L.R. (4th) 103; R. v. Morgentaler, [1988] 1 S.C.R. 30.
+[144] The circumstances in these appeals are distinguishable from these decisions because the appellants are not prohibited from purchasing NHPs. What has been denied is not healthcare but financial assistance for healthcare costs. That is a significant difference because to date the courts have not applied section 7 where the state has failed to provide assistance.
+[145] In Gosselin v. Quebec (Attorney General), [2002] 4 S.C.R. 429, the Supreme Court of Canada rejected the argument that section 7 applied to a regulation that provided reduced welfare benefits for individuals under 30 who did not participate in training programs. At para. 81-83, McLachlin C.J. writing for the majority notes that section 7 has not yet been applied where the state action complained of is the failure to provide a benefit:
+[81] Even if s. 7 could be read to encompass economic rights, a further hurdle emerges. Section 7 speaks of the right not to be deprived of life, liberty and security of the person, except in accordance with the principles of fundamental justice. Nothing in the jurisprudence thus far suggests that s. 7 places a positive obligation on the state to ensure that each person enjoys life, liberty or security of the person. Rather, s. 7 has been interpreted as restricting the state's ability to deprive people of these. Such a deprivation does not exist in the case at bar.
+[82] One day s. 7 may be interpreted to include positive obligations. To evoke Lord Sankey's celebrated phrase in Edwards v. Attorney-General for Canada, [1930] A.C. 124 (P.C.), at p. 136, the Canadian Charter must be viewed as "a living tree capable of growth and expansion within its natural limits": see Reference re Provincial Electoral [page492] Boundaries (Sask.), [1991] 2 S.C.R. 158, at p. 180, per McLachlin J. It would be a mistake to regard s. 7 as frozen, or its content as having been exhaustively defined in previous cases. In this connection, LeBel J.'s words in Blencoe, supra, at para. 188 are apposite:
+We must remember though that s. 7 expresses some of the basic values of the Charter. It is certainly true that we must avoid collapsing the contents of the Charter and perhaps of Canadian law into a flexible and complex provision like s. 7. But its importance is such for the definition of substantive and procedural guarantees in Canadian law that it would be dangerous to freeze the development of this part of the law. The full impact of s. 7 will remain difficult to foresee and assess for a long while yet. Our Court should be alive to the need to safeguard a degree of flexibility in the interpretation and evolution of s. 7 of the Charter.
+The question therefore is not whether s. 7 has ever been -- or will ever be -- recognized as creating positive rights. Rather, the question is whether the present circumstances warrant a novel application of s. 7 as the basis for a positive state obligation to guarantee adequate living standards.
+[83] I conclude that they do not. With due respect for the views of my colleague Arbour J., I do not believe that there is sufficient evidence in this case to support the proposed interpretation of s. 7. I leave open the possibility that a positive obligation to sustain life, liberty, or security of the person may be made out in special circumstances. However, this is not such a case. The impugned program contained compensatory "workfare" provisions and the evidence of actual hardship is wanting. The frail platform provided by the facts of this case cannot support the weight of a positive state obligation of citizen support.
+[146] In my view, the comments in Gosselin are equally applicable here. The deprivation of tax relief to the appellants has an adverse effect on them but the deprivation does not engage the fundamental rights of "life, liberty or security."
+[147] The benefit that the appellants seek by way of the tax credit is in the range of $1,500 to $2,000 per year. The denial of the tax credit does not warrant what McLachlin C.J. refers to as a "novel application of s. 7."
+[148] Even if a deprivation of life, liberty or security had been established, section 7 is not violated unless the deprivation is contrary to principles of fundamental justice. I do not think that this is the case.
+[149] The principle of fundamental justice that is engaged here is that laws should not be arbitrary. This principle was recently discussed in Chaoulli, where the Supreme Court of Canada considered whether a state prohibition against private healthcare insurance violated section 7.
+[150] A law is arbitrary if it "bears no relation to, or is inconsistent with, the state interest that lies behind the legislation.": Chaolli, at para. 129, 133 and 232. For the reasons discussed above, I find that s. 118.2(2)(n) is not an arbitrary law. It cannot be said that the state does not have a valid interest in denying the tax credit for the cost of NHPs. Accordingly, I find that the legislation is not contrary to principles of fundamental justice.
+VII. Conclusion and disposition
+[151] The issue that is raised in these appeals is one of policy. Parliament has had to draw a line as to the type of expenses that qualify for the medical expense tax credit. The line that it has been drawn is harsh in the appellants' circumstances but it does not infringe the appellants' rights under the Charter.
+[152] Subject to the expenses incurred by Ms. Ali that have been conceded by the respondent, the appeals are dismissed. The appeals were heard under the Informal Procedure and accordingly there will be no order as to costs.
+Signed at Vancouver, British Columbia, this 18th day of May, 2006.
+"J. Woods"
+Woods J.
+APPENDIX
+RELEVANT STATUTORY PROVISIONS
+(1) Section 118.2 - Medical Expense Tax Credit (as at December, 2005)
+118.2 (1) Medical expense credit - For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted the amount determined by the formula
+A × [(B - C) + D]
+where
+A is the appropriate percentage for the taxation year;
+B is the total of the individual's medical expenses in respect of the individual, the individual's spouse, the individual's common-law partner or a child of the individual who has not attained the age of 18 years before the end of the taxation year
+(a) that are evidenced by receipts filed with the Minister,
+(b) that were not included in determining an amount under this subsection, section 64 or subsection 122.51(2), for a preceding taxation year,
+(c) that are not included in determining an amount under this subsection, section 64 or subsection 122.51(2), by any other taxpayer for any taxation year, and
+(d) that were paid by the individual or the individual's legal representative within any period of 12 months that ends in the taxation year or, if those expenses were in respect of a person (including the individual) who died in the taxation year, within any period of 24 months that includes the day of the person's death;
+C is the lesser of $1,813 and 3% of the individual's income for the taxation year; and
+D is the total of all amounts each of which is, in respect of a dependant of the individual (within the meaning assigned by subsection 118(6), other than a child of the individual who has not attained the age of 18 years before the end of the taxation year), the lesser of $5,000 and the amount determined by the formula
+E - F
+where
+E is the total of the individual's medical expenses in respect of the dependant
+(a) that are evidenced by receipts filed with the Minister,
+(b) that were not included in determining an amount under this subsection, or subsection 122.51(2), in respect of the individual for a preceding taxation year,
+(c) that are not included in determining an amount under this subsection, or subsection 122.51(2), by any other taxpayer for any taxation year, and
+(d) that were paid by the individual or the individual's legal representative within the period referred to in paragraph (d) of the description of B; and
+F is the lesser of $1,813 and 3% of the dependant's income for the taxation year.
+(2) Medical expenses - For the purposes of subsection (1), a medical expense of an individual is an amount paid
+(a) [medical and dental services] -- to a medical practitioner, dentist or nurse or a public or licensed private hospital in respect of medical or dental services provided to a person (in this subsection referred to as the "patient") who is the individual, the individual's spouse or common-law partner or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred;
+(b) [attendant or nursing home care] - as remuneration for one full-time attendant (other than a person who, at the time the remuneration is paid, is the individual's spouse or common-law partner or is under 18 years of age) on, or for the full-time care in a nursing home of, the patient in respect of whom an amount would, but for paragraph 118.3(1)(c), be deductible under section 118.3 in computing a taxpayer's tax payable under this Part for the taxation year in which the expense was incurred;
+(b.1) [attendant] - as remuneration for attendant care provided in Canada to the patient if
+(i) the patient is a person in respect of whom an amount may be deducted under section 118.3 in computing a taxpayer's tax payable under this Part for the taxation year in which the expense was incurred,
+(ii) no part of the remuneration is included in computing a deduction claimed in respect of the patient under section 63 or 64 or paragraph (b), (b.2), (c), (d) or (e) for any taxation year,
+(iii) at the time the remuneration is paid, the attendant is neither the individual's spouse or common-law partner nor under 18 years of age, and
+(iv) each receipt filed with the Minister to prove payment of the remuneration was issued by the payee and contains, where the payee is an individual, that individual's Social Insurance Number,
+to the extent that the total of amounts so paid does not exceed $10,000 (or $20,000 if the individual dies in the year);
+(b.2) [group home care] - as remuneration for the patient's care or supervision provided in a group home in Canada maintained and operated exclusively for the benefit of individuals who have a severe and prolonged impairment if
+(i) because of the patient's impairment, the patient is a person in respect of whom an amount may be deducted under section 118.3 in computing a taxpayer's tax payable under this Part for the taxation year in which the expense is incurred,
+(ii) no part of the remuneration is included in computing a deduction claimed in respect of the patient under section 63 or 64 or paragraph (b), (b.1), (c), (d) or (e) for any taxation year, and
+(iii) each receipt filed with the Minister to prove payment of the remuneration was issued by the payee and contains, where the payee is an individual, that individual's Social Insurance Number;
+(c) [full-time attendant at home] - as remuneration for one full-time attendant upon the patient in a self-contained domestic establishment in which the patient lives, if
+(i) the patient is, and has been certified by a medical practitioner to be, a person who, by reason of mental or physical infirmity, is and is likely to be for a long-continued period of indefinite duration dependent on others for the patient's personal needs and care and who, as a result thereof, requires a full-time attendant,
+(ii) at the time the remuneration is paid, the attendant is neither the individual's spouse or common-law partner nor under 18 years of age, and
+(iii) each receipt filed with the Minister to prove payment of the remuneration was issued by the payee and contains, where the payee is an individual, that individual's Social Insurance Number;
+(d) [nursing home care] - for the full-time care in a nursing home of the patient, who has been certified by a medical practitioner to be a person who, by reason of lack of normal mental capacity, is and in the foreseeable future will continue to be dependent on others for the patient's personal needs and care;
+(e) [school, institution, etc.] - for the care, or the care and training, at a school, institution or other place of the patient, who has been certified by an appropriately qualified person to be a person who, by reason of a physical or mental handicap, requires the equipment, facilities or personnel specially provided by that school, institution or other place for the care, or the care and training, of individuals suffering from the handicap suffered by the patient;
+(f) [ambulance fees] - for transportation by ambulance to or from a public or licensed private hospital for the patient;
+(g) [transportation] - to a person engaged in the business of providing transportation services, to the extent that the payment is made for the transportation of
+(i) the patient, and
+(ii) one individual who accompanied the patient, where the patient was, and has been certified by a medical practitioner to be, incapable of travelling without the assistance of an attendant
+from the locality where the patient dwells to a place, not less than 40 kilometres from that locality, where medical services are normally provided, or from that place to that locality, if
+(iii) substantially equivalent medical services are not available in that locality,
+(iv) the route travelled by the patient is, having regard to the circumstances, a reasonably direct route, and
+(v) the patient travels to that place to obtain medical services for himself or herself and it is reasonable, having regard to the circumstances, for the patient to travel to that place to obtain those services;
+(h) [travel expenses] - for reasonable travel expenses (other than expenses described in paragraph (g)) incurred in respect of the patient and, where the patient was, and has been certified by a medical practitioner to be, incapable of travelling without the assistance of an attendant, in respect of one individual who accompanied the patient, to obtain medical services in a place that is not less than 80 kilometres from the locality where the patient dwells if the circumstances described in subparagraphs (g)(iii), (iv) and (v) apply;
+(i) [devices] - for or in respect of an artificial limb, iron lung, rocking bed for poliomyelitis victims, wheel chair, crutches, spinal brace, brace for a limb, iliostomy or colostomy pad, truss for hernia, artificial eye, laryngeal speaking aid, aid to hearing or artificial kidney machine, for the patient;
+(i.1) [devices for incontinence] - for or in respect of diapers, disposable briefs, catheters, catheter trays, tubing or other products required by the patient by reason of incontinence caused by illness, injury or affliction;
+(j) [eyeglasses] - for eye glasses or other devices for the treatment or correction of a defect of vision of the patient as prescribed by a medical practitioner or optometrist;
+(k) [various] - for an oxygen tent or other equipment necessary to administer oxygen or for insulin, oxygen, liver extract injectible for pernicious anaemia or vitamin B12 for pernicious anaemia, for use by the patient as prescribed by a medical practitioner;
+(l) [guide dogs, etc.] - on behalf of the patient who is blind or profoundly deaf or has a severe and prolonged impairment that markedly restricts the use of the patient's arms or legs,
+(i) for an animal specially trained to assist the patient in coping with the impairment and provided by a person or organization one of whose main purposes is such training of animals,
+(ii) for the care and maintenance of such an animal, including food and veterinary care,
+(iii) for reasonable travel expenses of the patient incurred for the purpose of attending a school, institution or other facility that trains, in the handling of such animals, individuals who are so impaired, and
+(iv) for reasonable board and lodging expenses of the patient incurred for the purpose of the patient's full-time attendance at a school, institution or other facility referred to in subparagraph (iii);
+(l.1) [transplant costs] - on behalf of the patient who requires a bone marrow or organ transplant,
+(i) for reasonable expenses (other than expenses described in subparagraph (ii)), including legal fees and insurance premiums, to locate a compatible donor and to arrange for the transplant, and
+(ii) for reasonable travel, board and lodging expenses (other than expenses described in paragraphs (g) and (h)) of the donor (and one other person who accompanies the donor) and the patient (and one other person who accompanies the patient) incurred in respect of the transplant;
+(l.2) [alterations to home] - for reasonable expenses relating to renovations or alterations to a dwelling of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, to enable the patient to gain access to, or to be mobile or functional within, the dwelling;
+(l.21) [home construction costs] - for reasonable expenses, relating to the construction of the principal place of residence of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, that can reasonably be considered to be incremental costs incurred to enable the patient to gain access to, or to be mobile or functional within, the patient's principal place of residence;
+(l.3) [lip reading and sign language training] - for reasonable expenses relating to rehabilitative therapy, including training in lip reading and sign language, incurred to adjust for the patient's hearing or speech loss;
+(l.4) [sign language services] - on behalf of the patient who has a speech or hearing impairment, for sign language interpretation services or real-time captioning services, to the extent that the payment is made to a person in the business of providing such services;
+(l.41) [note-taking services] - on behalf of the patient who has a mental or physical impairment, for note-taking services, if
+(i) the patient has been certified in writing by a medical practitioner to be a person who, because of that impairment, requires such services, and
+(ii) the payment is made to a person in the business of providing such services;
+(l.42) [voice recognition software] - on behalf of the patient who has a physical impairment, for the cost of voice recognition software, if the patient has been certified in writing by a medical practitioner to be a person who, because of that impairment, requires that software;
+(l.5) [moving expenses] - for reasonable moving expenses (within the meaning of subsection 62(3), but not including any expense deducted under section 62 for any taxation year) of the patient, who lacks normal physical development or has a severe and prolonged mobility impairment, incurred for the purpose of the patient's move to a dwelling that is more accessible by the patient or in which the patient is more mobile or functional, if the total of the expenses claimed under this paragraph by all persons in respect of the move does not exceed $2,000;
+(l.6) [driveway alterations] - for reasonable expenses relating to alterations to the driveway of the principal place of residence of the patient who has a severe and prolonged mobility impairment, to facilitate the patient's access to a bus;
+(l.7) [van for wheelchair] - for a van that, at the time of its acquisition or within 6 months after that time, has been adapted for the transportation of the patient who requires the use of a wheelchair, to the extent of the lesser of $5,000 and 20% of the amount by which
+(i) the amount paid for the acquisition of the van
+exceeds
+(ii) the portion, if any, of the amount referred to in subparagraph (i) that is included because of paragraph (m) in computing the individual's deduction under this section for any taxation year;
+(l.8) [caregiver training] - for reasonable expenses (other than amounts paid to a person who was at the time of the payment the individual's spouse or common-law partner or a person under 18 years of age) to train the individual, or a person related to the individual, if the training relates to the mental or physical infirmity of a person who
+(i) is related to the individual, and
+(ii) is a member of the individual's household or is dependent on the individual for support;
+(l.9) [therapy] - as remuneration for therapy provided to the patient because of the patient's severe and prolonged impairment, if
+(i) because of the patient's impairment, an amount may be deducted under section 118.3 in computing a taxpayer's tax payable under this Part for the taxation year in which the remuneration is paid,
+(ii) the therapy is prescribed by, and administered under the general supervision of,
+(A) a medical doctor or a psychologist, in the case of mental impairment, and
+(B) a medical doctor or an occupational therapist, in the case of a physical impairment,
+(iii) at the time the remuneration is paid, the payee is neither the individual's spouse nor an individual who is under 18 years of age, and
+(iv) each receipt filed with the Minister to prove payment of the remuneration was issued by the payee and contains, where the payee is an individual, that individual's Social Insurance Number;
+(l.91) [tutoring services] - as remuneration for tutoring services that are rendered to, and are supplementary to the primary education of, the patient who
+(i) has a learning disability or a mental impairment, and
+(ii) has been certified in writing by a medical practitioner to be a person who, because of that disability or impairment, requires those services,
+if the payment is made to a person ordinarily engaged in the business of providing such services to individuals who are not related to the payee.
+(m) [prescribed in regulations] - for any device or equipment for use by the patient that
+(i) is of a prescribed kind,
+(ii) is prescribed by a medical practitioner,
+(iii) is not described in any other paragraph of this subsection, and
+(iv) meets such conditions as may be prescribed as to its use or the reason for its acquisition,
+to the extent that the amount so paid does not exceed the amount, if any, prescribed in respect of the device or equipment;
+(n) [drugs] - for drugs, medicaments or other preparations or substances (other than those described in paragraph (k)) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist;
+(o) [lab tests] - for laboratory, radiological or other diagnostic procedures or services together with necessary interpretations, for maintaining health, preventing disease or assisting in the diagnosis or treatment of any injury, illness or disability, for the patient as prescribed by a medical practitioner or dentist;
+(p) [dentures] - to a person authorized under the laws of a province to carry on the business of a dental mechanic, for the making or repairing of an upper or lower denture, or for the taking of impressions, bite registrations and insertions in respect of the making, producing, constructing and furnishing of an upper or lower denture, for the patient;
+(q) [health plan premiums] - as a premium, contribution or other consideration under a private health services plan in respect of one or more of the individual, the individual's spouse or common-law partner and any member of the individual's household with whom the individual is connected by blood relationship, marriage, common-law partnership or adoption, except to the extent that the premium, contribution or consideration is deducted under subsection 20.01(1) in computing an individual's income from a business for any taxation year; or
+(r) [gluten-free food] - on behalf of the patient who has celiac disease, the incremental cost of acquiring gluten-free food products as compared to the cost of comparable non-gluten-free food products, if the patient has been certified in writing by a medical practitioner to be a person who, because of that disease, requires a gluten-free diet.
+(3) Deemed medical expense - For the purposes of subsection (1),
+(a) any amount included in computing an individual's income for a taxation year from an office or employment in respect of a medical expense described in subsection (2) paid or provided by an employer at a particular time shall be deemed to be a medical expense paid by the individual at that time; and
+(b) there shall not be included as a medical expense of an individual any expense to the extent that
+(i) the individual,
+(ii) the person referred to in subsection (2) as the patient,
+(iii) any person related to a person referred to in subparagraph (i) or (ii), or
+(iv) the legal representative of any person referred to in any of subparagraphs (i) to (iii)
+is entitled to be reimbursed for the expense, except to the extent that the amount of the reimbursement is required to be included in computing income and is not deductible in computing taxable income.
+(4) Deemed payment of medical expenses - Where, in circumstances in which a person engaged in the business of providing transportation services is not readily available, an individual makes use of a vehicle for a purpose described in paragraph (2)(g), the individual or the individual's legal representative shall be deemed to have paid to a person engaged in the business of providing transportation services, in respect of the operation of the vehicle, such amount as is reasonable in the circumstances.
+(2) Section 118.4(2) - Definition of "Medical Practitioner"
+118.4(2) Reference to medical practitioners, etc. - For the purposes of sections 63, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, psychologist or speech-language pathologist is a reference to a person authorized to practise as such,
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+(b) where the reference is used in respect of a certificate issued by the person in respect of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides or of a province; and
+(c) where the reference is used in respect of a prescription issued by the person for property to be provided to or for the use of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides, of a province or of the jurisdiction in which the property is provided.
+(3) Section 5700 of the Income Tax Regulations (as at December 2005)
+5700. For the purposes of paragraph 118.2(2)(m) of the Act, a device or equipment is prescribed if it is a
+(a) wig made to order for an individual who has suffered abnormal hair loss owing to disease, medical treatment or accident;
+(b) needle or syringe designed to be used for the purpose of giving an injection;
+(c) device or equipment, including a replacement part, designed exclusively for use by an individual suffering from a severe chronic respiratory ailment or a severe chronic immune system disregulation, but not including an air conditioner, humidifier, dehumidifier, heat pump or heat or air exchanger;
+(c.1) air or water filter or purifier for use by an individual who is suffering from a severe chronic respiratory ailment or a severe chronic immune system disregulation to cope with or overcome that ailment or disregulation;
+(c.2) electric or sealed combustion furnace acquired to replace a furnace that is neither an electric furnace nor a sealed combustion furnace, where the replacement is necessary solely because of a severe chronic respiratory ailment or a severe chronic immune system disregulation;
+(c.3) air conditioner acquired for use by an individual to cope with the individual's severe chronic ailment, disease or disorder, to the extent of the lesser of $1,000 and 50% of the amount paid for the air conditioner;
+(d) device or equipment designed to pace or monitor the heart of an individual who suffers from heart disease;
+(e) orthopaedic shoe or boot or an insert for a shoe or boot made to order for an individual in accordance with a prescription to overcome a physical disability of the individual;
+(f) power-operated guided chair installation, for an individual, that is designed to be used solely in a stairway;
+(g) mechanical device or equipment designed to be used to assist an individual to enter or leave a bathtub or shower or to get on or off a toilet;
+(h) hospital bed including such attachments thereto as may have been included in a prescription therefor;
+(i) device that is designed to assist an individual in walking where the individual has a mobility impairment;
+(j) external breast prosthesis that is required because of a mastectomy;
+(k) teletypewriter or similar device, including a telephone ringing indicator, that enables a deaf or mute individual to make and receive telephone calls;
+(l) optical scanner or similar device designed to be used by a blind individual to enable him to read print;
+(m) power-operated lift or transportation equipment designed exclusively for use by, or for, a disabled individual to allow the individual access to different areas of a building or to assist the individual to gain access to a vehicle or to place the individual's wheelchair in or on a vehicle;
+(n) device designed exclusively to enable an individual with a mobility impairment to operate a vehicle;
+(o) device or equipment, including a synthetic speech system, braille printer and large print-on-screen device, designed exclusively to be used by a blind individual in the operation of a computer;
+(p) electronic speech synthesizer that enables a mute individual to communicate by use of a portable keyboard;
+(q) device to decode special television signals to permit the script of a program to be visually displayed;
+(q.1) a visual or vibratory signalling device, including a visual fire alarm indicator, for an individual with a hearing impairment;
+(r) device designed to be attached to infants diagnosed as being prone to sudden infant death syndrome in order to sound an alarm if the infant ceases to breathe;
+(s) infusion pump, including disposable peripherals, used in the treatment of diabetes or a device designed to enable a diabetic to measure the diabetic's blood sugar level;
+(t) electronic or computerized environmental control system designed exclusively for the use of an individual with a severe and prolonged mobility restriction;
+(u) extremity pump or elastic support hose designed exclusively to relieve swelling caused by chronic lymphedema;
+(v) inductive coupling osteogenesis stimulator for treating non-union of fractures or aiding in bone fusion; and
+(w) talking textbook prescribed by a medical practitioner for use by an individual with a perceptual disability, in connection with the individual's enrolment at an educational institution in Canada.
+(4) Excerpts from Federal Budget, Notices of Ways and Means Motion, February 23, 2005
+(11) That, for the 2005 and subsequent taxation years, there be added to the list of expenses eligible for the medical expense tax credit, amounts paid
+(a) to purchase, operate and maintain phototherapy equipment for the treatment of psoriasis or other skin disorders;
+(b) to operate and maintain an oxygen concentrator;
+(c) for deaf-blind intervening services used by an individual who is both blind and profoundly deaf (if paid to persons engaged in the business of providing such services);
+(d) for reading services used by an individual who is blind or who has a severe learning disability, if the need for the service is certified in writing by a medical practitioner and paid to persons engaged in the business of providing such services;
+(e) for drugs or medical devices obtained under Health Canada's Special Access Programme;
+(f) for the purchase of medical marihuana or marihuana seeds, from Health Canada, for use by a patient who is authorized to possess marihuana for medical purposes under the Marihuana Medical Access Regulations (MMAR) or who holds an Exemption for possession under Section 56 of the Controlled Drugs and Substances Act (CDSA); and
+(g) for the purchase of medical marihuana, for use by a patient who is authorized to possess marihuana for medical purposes under the MMAR or who holds an Exemption for possession under Section 56 of the CDSA, from an individual who possesses a Designated-person Production Licence under the MMAR to cultivate or produce marihuana for medical purposes on behalf of that patient or who holds a designated person Exemption for cultivation or production under Section 56 of the CDSA to cultivate or produce marihuana for medical purposes on behalf of that patient.
+(12) That, for expenses incurred after February 22, 2005, the provisions of the Act that include as an eligible medical expense reasonable expenses relating to renovations or alterations to a dwelling of a patient who lacks normal physical development or has a severe and prolonged mobility impairment to enable the patient to gain access to, or to be mobile or functional within, the dwelling, be amended to require that such expenses
+(a) must be of a type that would not typically be incurred by persons who have normal physical development or who do not have a severe and prolonged mobility impairment; and
+(b) must not be of a type that would typically be expected to increase the value of the dwelling.
+CITATION:
+2006TCC287
+COURT FILE NO.:
+2003-2720(IT)I, 2003-1265(IT)I and 2002-1457(IT)I
+STYLE OF CAUSE:
+Sharifa Ali and Her Majesty the Queen
+and
+Rose B. Markel and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 18 to 22, July 21, and October 21, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+May 18, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Hugh R. Scher
+Counsel for the Respondent:
+Arnold H. Bornstein
+Maria Vujnovic
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Hugh R. Scher
+Firm:
+Scher & De Angelis
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+1 Additional facts are in the Analysis section.
+2 The term "dietary supplements" was used to describe the products purchased by the appellants in the expert report of the naturopath that recommended them.
+3 Chronic fatigue syndrome is also known as myalgic encephalomyelitis: Exh. R-6, p. 7.
+4 "Fibromyalgia Syndrome: Canadian Clinical Working Case Definition, Diagnostic and Treatment Protocols - A Consensus Document," Jain, Anil Kumar et.al., Journal of Musculoskeletal Pain, The Haworth Medical Press, Vol. 11 No. 4 (2003), pp.3-107. "Myalgic Encephalomyetlitis/Chronic Fatigue Syndrome: Clinical Working Case Definition, Diagnostic and Treatment Protocols," Carruthers, Bruce M. et.al., Journal of Chronic Fatigue Syndrome, The Haworth Medical Press, Vol. 11 No. 1 (2003), pp. 7-115.
+5 FMS Report, p. 5.
+6 FMS Report, p. 22.
+7 CFS Report, p. 50; FMS Report, p. 30.
+8 CFS Report, p. 42, 43.
+9 FMS Report, p. 42, 43.
+10 Supplementary information to the 1999 federal budget.
+11 The respondent concedes that Dr. Medrek is a medical practitioner for purposes of s. 118.2(2)(a) and they have allowed the tax credit for services that he rendered to the appellants.
+12 Although it is not law, I note that the assessing practice of the Canada Revenue Agency is to treat naturopaths as medical practitioners if their profession is regulated: Interpretation Bulletin IT-519R2. In an appeal heard last year under the Informal Procedure concerning services provided by a social worker, I accepted the Crown's argument that the term "medical practitioner" means "physicians and surgeons." I was not informed that this position was contrary to the assessing practice of the Canada Revenue Agency: Pickwoad v. The Queen, [2005] 4 C.T.C. 2314 (T.C.C.).
+13 Reply of the Appellants, para. 68.
+14 Lewis v. The Queen, [2004] 2 C.T.C. 3067 (T.C.C.).
+15 Pagnotta v. The Queen, [2001] 4 C.T.C. 2613 (T.C.C.).
+16 Herzig v. The Queen, [2004] 3 C.T.C. 2496 (T.C.C.).
+17 Bowman C.J. also made reference to this in a non-Charter case involving the purchase of vitamins and herbs by a person with CFS: Banman v. The Queen, [2001] 2 C.T.C. 2111 (T.C.C.).
+18 Reply of the Appellants, para. 68.
+19 Revised Factum of the Appellants, at para. 80.
+20 Counsel referred to Martin, supra; Brant Country School Board v. Eaton, [1997] 1 S.C.R. 241 at para 66-67; British Columbia (Public Service Employee Relations Commission) v. British Columbia Government and Service Employees' Union (B.C.G.S.E.U.) (Meiron Grievance), [1999] 3 S.C.R. 3; British Columbia (Superintendent of Motor Vehicles) v. British Columbia (Council of Human Rights), [1999] 3 S.C.R. 868, at para 22, 42, 44.
+21 Canada, House of Commons, Debates, 23 June 1942 at 3580; 8 April 1952 at 1255; 18 May 1951 at 3176-3177; 13 June 1951 at 4055; 24 January 1956 at 457; 8 August 1956 at 7086 and 7087; 17 June 1958 at 1243; 27 June 1958 at 1695-1696; 3 July 1958 at 1889-1890; 10 July 1958 at 2115-2120; 27 August 1958 at 4189-4191.
+22 Canada, House of Commons, Debates, 27 June 1958 at 1695;27 August 1958at 4190.
+23 Bekker v. The Queen, [2004] 3 C.T.C. 183 (F.C.A.); Ray, supra.
+24 Reply of the appellants, para. 46.

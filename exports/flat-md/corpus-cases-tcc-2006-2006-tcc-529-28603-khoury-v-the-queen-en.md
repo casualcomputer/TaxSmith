@@ -1,0 +1,166 @@
+---
+title: "Khoury v. the Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28603/index.do"
+last_modified: "2006-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 529"
+citation2: ""
+neutral_citation: "2006 TCC 529"
+decision_date: "2006-09-28"
+language: "en"
+item_id: "28603"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1070
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:43:25.934000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5d502a2413a48cca357dd11814387a433aa49defb1f2b535621741132ee4ca62"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Khoury v. the Queen
+
+- Citation: 2006 TCC 529
+- Decision date: 2006-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1070, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khoury v. the Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-28
+Neutral citation
+2006 TCC 529
+File numbers
+2005-2453(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2453(IT)I
+BETWEEN:
+MICHAEL KHOURY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 21, 2006, at Fredericton, New Brunswick,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Bruce D. Hatfield, Q.C.
+Counsel for the Respondent:
+Edward Sawa
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 2000 and 2001 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to deductions based on 40% use of the home and expenditures of $24,544.43 in 2000, and $23,594.64 in 2001.
+The parties may speak to costs if they are not agreed upon.
+Signed at Ottawa, Canada, this 28th day of September 2006.
+"E.A. Bowie"
+Bowie J.
+Docket: 2005-2454(GST)I
+BETWEEN:
+MICHAEL KHOURY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 21, 2006, at Fredericton, New Brunswick,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Bruce D. Hatfield, Q.C.
+Counsel for the Respondent:
+Edward Sawa
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Excise Tax Act, notice of which is dated April 7, 2004, and bears number 01EE0103171, for the 2000 and 2001 taxation years, is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to input tax credits based on 40% use of the home and expenditures of $5,918.06 in 2000, and $4,246.31 in 2001.
+The parties may speak to costs if they are not agreed upon.
+Signed at Ottawa, Canada, this 28th day of September 2006.
+"E.A. Bowie"
+Bowie J.
+Citation: 2006TCC529
+Date: 20060928
+Docket: 2005-2453(IT)I
+2005-2454(GST)I
+BETWEEN:
+MICHAEL KHOURY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] There are two appeals before me, one under the Income Tax Act (the Act) and the other under the Excise Tax Act, Part IX (the ETA). Both are concerned with the extent to which the Appellant uses his residence for business purposes.
+[2] In computing his income for the taxation years 2000 and 2001, Mr. Khoury claimed deductions under paragraph 18(12)(a) of the Act of $13,816.79 and $12,427.20, respectively, for the cost of workspace in his home. This was based on business use amounting to 50%. The Minister of National Revenue reassessed him to reduce the business use to 20%, and to disallow certain maintenance expenses that had been included in the computation.
+[3] Mr. Khoury also claimed input tax credits (credits) under the ETA for the reporting periods 2000 and 2001 in respect of the cost to him of utilities and maintenance for the home on the basis of 50% business use. The Minister reassessed him to reduce his credits by $783.56, again reducing the business use permitted to 20%, and disallowing the same maintenance expenses.
+[4] Paragraph 18(12)(a) of the Act reads:
+18(12) Notwithstanding any other provision of this Act, in computing an individual's income from a business for a taxation year,
+(a) no amount shall be deducted in respect of an otherwise deductible amount for any part (in this subsection referred to as the "work space") of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the individual's principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business;
+Paragraph 170(1)(a.1) of the ETA reads:
+170(1) In determining an input tax credit of a registrant, no amount shall be included in respect of the tax payable by the registrant in respect of
+(a) …
+(a.1) a supply, importation or bringing into a participating province of property or a service that is acquired, imported or brought in by the registrant for consumption or use by the registrant (or, where the registrant is a partnership, an individual who is a member of the partnership) in relation to any part (in this paragraph referred to as the “work space”) of a self-contained domestic establishment in which the registrant or the individual, as the case may be, resides unless the work space
+(i) is the principal place of business of the registrant, or
+(ii) is used exclusively for the purpose of earning income from a business and is used on a regular and continuous basis for meeting clients, customers or patients of the registrant in respect of the business;
+[5] The respondent does not dispute that Mr. Khoury’s principal place of business is his home. In fact it is his only place of business. He is therefore entitled to a deduction under section 18 of the Act, and to credits under section 170 of the ETA. The appellant offered no evidence at the hearing to justify the maintenance expenses that the Minister had disallowed. The dispute, therefore, is simply as to the extent to which his use of his house during the years in question was for business.
+[6] Mr. Khoury is an artist. For the past decade that has been his sole occupation. He trained under a renowned artist at the University of New Brunswick, and his energy and talent are such that he has been able to establish a considerable local reputation in the province of New Brunswick. With the assistance of the internet he has now extended that reputation to the point where he makes a number of sales throughout North America and beyond. His studio is in his home, and he displays paintings throughout his home to be viewed by potential buyers. The house has a large entrance foyer, and it is filled with paintings at all times, as are the living room, the family room and the dining room. There is also an upstairs foyer that is used for the same purpose. Two or three times each year Mr. Khoury has an open house at which the public is invited to view, and to buy, his paintings. On these occasions there are even more paintings on display than usual. There are also paintings stored behind the furniture in the living room at all times, many of which are displayed at open houses. The dining room also is filled with paintings for sale. In addition to the open houses, people frequently wish to come and view Mr. Khoury’s inventory of paintings, and they are always welcome to do so. On those occasions they generally view paintings in all the main floor rooms of the house, as well as the upstairs foyer.
+[7] Mr. Khoury uses a room on the main floor as his studio. He paints there most frequently, and it too serves to display his work that is available for purchase. That room contains a piano, a stereo and a computer, and these are sometimes used by other members of the family, but the main use of the studio is as a place for him to paint. Nearby is the laundry room, and he uses it for cleaning his brushes and other tools. The dining room, as well as being used to display paintings, is used by his wife, who is his business manager, to do paperwork in connection with the business. Mr. Khoury frequently paints still lifes and garden scenes, and he does this in various parts of the house, including the kitchen and the dining room, as well as on the patio outside the rear entrance door. For this he uses a portable easel that he can set up anywhere in the house where there is a suitable subject for his art.
+[8] In the basement of the house is a large room that is used as a projection room to display photographic images of Mr. Khoury’s inventory of paintings for sale. Another room in the basement is used for framing, for stretching canvases, for wrapping paintings that are to be sent to purchasers, and for the storage of packing materials and supplies. These two rooms together account for the major part of the basement space, and they are used almost exclusively for business purposes.
+[9] The second story of the house contains, in addition to the foyer to which I have referred, four bedrooms and two bathrooms. Of these, only the bedroom occupied by Mr. and Mrs. Khoury is used for business purposes. A computer and a fax machine are located there, and Mrs. Khoury estimated that 50% of that room was devoted exclusively to use as an office. Much of the dining room is used by her for paperwork related to the business as well.
+[10] I have no doubt that Mr. Khoury is a prolific artist who is developing a substantial reputation. In 2001 he was in Europe for about two months, during which time he shipped numerous canvasses to his wife for display and sale. Typically, these are rolled up for shipping, and when they arrive they are placed throughout the house to be aired and then stretched.
+[11] The evidence before me as to the degree of use is less precise than one might like. As Bowman C.J. recently pointed out, subsection 4(1) of the Act permits a deduction of the expenses that may reasonably be regarded as wholly applicable to the source of income.[1] He then went on to say at paragraph [7]:
+The concept of reasonableness, and its converse, unreasonableness, appear frequently both in income tax law and in other areas of the law. They are terms of some elasticity. They are easier to recognize than to define. If the court is directed by the law to determine what is "reasonable" it requires the application of judgment and common sense and may involve as an initial determination what is unreasonable.
+The evidence of the Appellant and Mrs. Khoury provides a very full description of the type of business use that was made of this house compared to its use as a residence by them, and their four children. Plans of the three stories in the house were introduced in evidence, but these unfortunately do not provide as many particulars of the dimensions of the rooms as they might. I am satisfied that the witnesses were doing their best to present an honest and accurate picture of the use of the home for business, but of necessity much of their evidence consisted of approximations. The assessor frankly admitted in her evidence that the audit was a brief one, and that she did not see or take into account the storage space or the projection room in the basement. I have no doubt on the evidence before me that her estimate of 20% business use for the whole house was too low, as a result of her failure to take the basement space into account. It does seem a reasonable proportion of the expense attributable to the upper two stories, however. Mr. Hatfield did not offer any computation of time and space to support the reasonableness of the Appellant’s estimate of 50% that he used in filing his returns.
+[12] My evaluation of the evidence leads me to conclude that in the years 2000 and 2001, virtually all the basement was used exclusively for business, and that this was not taken into account at all by the assessor. The area of the basement is about 2/3 of the area of each of the ground floor and the upper floor. When that is taken into account the appellant’s business use of the home is 100% of ¼ (the basement), and 20% of ¾ (the two upper floors), which is 40%. This, I believe, is a more reasonable estimate than that of either the assessor or the appellant.
+[13] The appeals under the Act are allowed. The appellant is entitled to a deduction from income for use of space in the home for 2000 based on 40% use of the home and total home expenditures of $24,544.43, and to a deduction from income for use of space in the home for 2001 based on 40% use of the home and total home expenditures of $23,594.64. He is entitled to input tax credits based on 40% use of the home and expenditures of $5,918.06 in 2000, and 40% use of the home and total expenditures of $4,246.31 in 2001.
+[14] The parties may speak to costs if they are unable to agree thereon.
+Signed at Ottawa, Canada, this 28th day of September, 2006.
+"E.A. Bowie"
+Bowie J.
+CITATION: 2006TCC529
+COURT FILE NOS.: 2005-2453(IT)I and 2005-2454(GST)I
+STYLE OF CAUSE: MICHAEL KHOURY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: June 21, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENTS: September 28, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Bruce D. Hatfield, Q.C.
+Counsel for the Respondent:
+Edward Sawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruce D. Hatfield, Q.C.
+Firm: Cox Hanson O'Reilly Matheson
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Morris v. The Queen, 2006TCC502.

@@ -1,0 +1,333 @@
+---
+title: "Seepersad c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/350184/index.do"
+last_modified: "2018-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 226"
+citation2: ""
+neutral_citation: "2018 CCI 226"
+decision_date: "2018-11-14"
+language: "fr"
+item_id: "350184"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5023
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:43:01.344000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a4b9c636ab26286da5c61a4306e6e65a8e9687d1d4eef677e5e7b178585d462a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Seepersad c. La Reine
+
+- Citation: 2018 CCI 226
+- Decision date: 2018-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5023, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seepersad c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-11-14
+Référence neutre
+2018 CCI 226
+Numéro de dossier
+2017-1112(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-1112(IT)I
+ENTRE :
+DIPCHAND SEEPERSAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur une preuve commune le 19 octobre 2018, à Toronto (Ontario).
+Devant : L’honorable juge Randall S. Bocock.
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Janice Liu
+Me Brent Cuddy
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel interjeté contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), avec ses modifications successives (la « Loi »), pour les années d’imposition 2005 et 2006 est rejeté, sans dépens, pour les motifs suivants :
+(i) il n’y avait pas de dons de bienfaisance conformes à la Loi outre ceux, le cas échéant, pour lesquels le ministre du Revenu national (le « ministre ») avait autorisé la déduction;
+(ii) la présentation erronée des faits par l’appelant, par négligence, inattention ou omission volontaire, permettait au ministre d’établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation pour l’année d’imposition 2005;
+(iii) le ministre a établi que les pénalités imposées à l’appelant en vertu du paragraphe 163(2) de la Loi étaient justifiées.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2018.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 3e jour d’octobre 2019.
+Elisabeth Ross, jurilinguiste
+Dossier : 2017-1114(IT)I
+ENTRE :
+SITA SEEPERSAD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur une preuve commune le 19 octobre 2018, à Toronto (Ontario).
+Devant : L’honorable juge Randall S. Bocock.
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Janice Liu
+Me Brent Cuddy
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel interjeté en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), avec ses modifications successives (la « Loi »), est accueilli, sans dépens, seulement en ce qui concerne les sommes supplémentaires de 125 $ en dons de bienfaisance pour l’année d’imposition 2005 et de 499 $ pour l’année d’imposition 2006, mais à tous les autres égards, la nouvelle cotisation est confirmée pour les motifs suivants :
+(i) il n’y a pas eu d’autres dons de bienfaisance conformes à la Loi;
+(ii) la présentation erronée des faits par négligence, inattention ou omission volontaire permettait au ministre du Revenu national (le « ministre ») d’établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation pour l’année d’imposition 2005;
+(iii) le ministre a établi que les pénalités imposées à l’appelante en vertu du paragraphe 163(2) de la Loi étaient justifiées.
+L’affaire est renvoyée au ministre pour nouvel examen et nouvelle cotisation conformément au présent jugement.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2018.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 3e jour d’octobre 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 226
+Date : 20181114
+Dossier : 2017-1112(IT)I
+ENTRE :
+DIPCHAND SEEPERSAD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-1114(IT)I
+ET ENTRE :
+SITA SEEPERSAD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS COMMUNS DU JUGEMENT
+Le juge Bocock
+I. Les faits
+[1] Les appelants (« M. et Mme Seepersad ») interjettent appel des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») pour leurs années d’imposition 2005 et 2006 respectives. En établissant ces nouvelles cotisations, le ministre a également imposé des pénalités en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi »). Le tableau suivant résume les faits concernant les nouvelles cotisations établies pour le couple qui sont pertinents et importants en l’espèce :
+Contribuable
+Année d’imposition 2005
+Année d’imposition 2006
+Date de la nouvelle cotisation
+[EN BLANC]
+Bénéficiaire présumé
+Montant des dons dont la déduction a été refusée
+Bénéficiaire présumé
+Montant des dons dont la déduction a été refusée
+[EN BLANC]
+M. Dipchand Seepersad
+Faith Assemblies Missions House of Fellowship
+8 145 $
+World Council for African Development
+7 244 $
+11 mai 2009
+[EN BLANC]
+Bénéficiaire présumé
+Montant des dons dont la déduction a été refusée
+Bénéficiaire présumé
+Montant des dons dont la déduction a été refusée
+[EN BLANC]
+Mme Sita Seepersad
+City Chapel Ministries International
+6 100 $
+World Council for African Development
+5 089 $
+20 avril 2009
+[2] Comme on peut le constater, le ministre a établi de nouvelles cotisations pour M. et Mme Seepersad après l’expiration de la période normale de nouvelle cotisation pour l’année d’imposition 2005.
+Conclusions et concessions préliminaires concernant certains dons
+[3] Il y a une question préliminaire relativement mineure concernant Mme Seepersad. Pour l’année d’imposition 2005, au-delà des sommes figurant dans le tableau ci-dessus, le ministre a également refusé la déduction demandée pour un don supplémentaire d’environ 95 $ dans une nouvelle cotisation distincte pour 2005. Malheureusement, il n’est pas clair, d’après la réponse, à quels dons de bienfaisance correspondait cette somme. En outre, dans sa réponse, le ministre a concédé que Mme Seepersad avait fait un don de bienfaisance de 50 $ par l’intermédiaire de son employeur en 2005 (peut-être au moyen d’un prélèvement automatique sur la paie). Des concessions supplémentaires ont été faites dans la réponse à l’égard d’un don de 499 $ en 2006. À l’audience, Mme Seepersad a produit des reçus conformes de deux organismes de bienfaisance pour 2005 : un de la Fédération canadienne de la faune pour la somme de 25 $ et un autre de Voice of the Vedas Cultural Sabha Inc. pour la somme de 100 $. Ce dernier organisme a également reçu un petit don de Mme Seepersad en 2006, à l’égard duquel le ministre a autorisé une déduction pour cette année-là. Par conséquent, Mme Seepersad obtiendra gain de cause pour ce qui est des sommes supplémentaires de 175 $ pour l’année d’imposition 2005 et de 499 $ pour 2006, dans la mesure où le ministre n’a pas établi de nouvelle cotisation pour autoriser la déduction demandée relativement à ces sommes avant le prononcé du jugement.
+[4] En ce qui concerne la majeure partie de l’appel de M. Seepersad, deux reçus différents ont été présentés comme preuve de dons pour l’année d’imposition 2005 : un reçu d’Emelia Memorial International Water Development Inc. d’une somme de 8 200 $ et un autre de Faith Assemblies Mission House of Fellowship d’une somme de 8 145 $. Comme il sera établi dans les motifs ci-dessous, le ministre n’a pas admis le reçu de 8 145 $. Ce reçu inadmissible semble correspondre à la somme déclarée par M. Seepersad dans sa déclaration de 2005. Cependant, le témoignage de M. Seepersad concernant ces deux reçus était confus et les réponses qu’il a données dans son témoignage principal et en contre-interrogatoire se contredisaient.
+Témoins, témoignages et autres éléments de preuve à l’audience
+[5] M. et Mme Seepersad ont tous deux témoigné à l’audience. Le ministre a déposé des affidavits concernant la relation entre, d’une part, la valeur des montants des dons et, d’autre part, les revenus déclarés et les dons déclarés au cours des années précédentes. Des documents sur la révocation du statut de tous les prétendus organismes bénéficiaires et les poursuites pénales contre les spécialistes en déclarations de revenus retenus par M. et Mme Seepersad ont également été présentés.
+[6] En se fondant sur ces témoignages et les documents au dossier, la Cour a tiré les conclusions de fait suivantes concernant les événements qui se sont déroulés et qui ont abouti aux nouvelles cotisations qui font l’objet du présent appel.
+Comment les appelants ont rencontré leurs spécialistes en déclarations de revenus
+[7] Au début de 2006, l’oncle de M. Seepersad a conseillé à M. et à Mme Seepersad de se rendre aux bureaux de One Orbit Financial Services [1] . Les deux directeurs d’Orbit étaient un dénommé « Frempong » et un dénommé « Amoako ». L’un d’entre eux a par la suite été déclaré coupable de fraude à l’égard de Sa Majesté, et l’autre s’est soustrait à la justice et a vraisemblablement échappé à la peine, sinon à la déclaration de culpabilité.
+[8] Lorsque M. et Mme Seepersad se sont rendus aux bureaux d’Orbit en mars ou avril 2006, c’était pour faire préparer leurs déclarations de revenus de 2005. Les déclarations comportaient des demandes pour les dons de bienfaisance de 2005 précisés ci-dessus.
+Tout l’argent remis en espèces
+[9] Tous les dons ont été faits en espèces. Des reçus rudimentaires ont été donnés pour les frais considérables, voire usuraires, de préparation des déclarations; les frais s’élevaient à 2 100 $ et 1 900 $ respectivement pour les années d’imposition 2005 et 2006. M. et Mme Seepersad ont affirmé avoir donné aux représentants d’Orbit environ 2 000 $ en espèces au cours d’une semaine en avril 2006 et environ 2 000 $ en espèces au cours d’une autre semaine. Ils ont déclaré que le solde de leurs dons en espèces avait été retenu jusqu’à ce qu’ils reçoivent leur remboursement d’impôt. Seule Orbit a reçu l’argent. Aucune somme d’argent n’a été transférée directement par M. ou Mme Seepersad à l’organisme de bienfaisance souhaité. Un processus semblable a été suivi en mars et avril 2007 pour l’année d’imposition 2006.
+[10] Au cours de la préparation des déclarations de revenus, M. et Mme Seepersad ont été informés de [traduction] « caractéristiques de vente » permettant d’augmenter le remboursement d’impôt. Cependant, les deux soutiennent que leur principale motivation, qui découle de leur religion et de leur culture, était d’aider les personnes dans le besoin. Ils étaient convaincus que l’ensemble des sommes irait aux organismes de bienfaisance visés. Ils n’ont assisté à aucun événement, service du culte ou collecte de fonds des organismes de bienfaisance auxquels ils destinaient leurs dons. Ils en savaient peu sur le lieu ou la nature précise des activités de ces organismes de bienfaisance. Le choix des bénéficiaires et des sommes à donner ont été faits par Orbit et le transfert des fonds devait être exécuté par Orbit.
+Déclarations de revenus antérieures
+[11] Auparavant, M. et Mme Seepersad avaient produit leurs propres déclarations de revenus, qui étaient préparées par M. Seepersad, ou ils avaient retenu les services d’un spécialiste en déclarations de revenus ayant un bureau commercial. Tous deux parlent et comprennent l’anglais et ont une formation appliquée de niveau postsecondaire. M. Seepersad est technicien en climatisation chez un important propriétaire d’immeubles commerciaux à l’échelle nationale. Mme Seepersad travaille comme superviseure d’un petit bureau dans un centre de relations avec la clientèle. Les deux ont admis que le processus et le résultat offerts par Orbit semblaient [traduction] « trop beaux pour être vrais », mais la possibilité d’aider des enfants dans le besoin et de contribuer à la construction d’une église était attrayante. Dans les années antérieures, les dons de bienfaisance de chacun s’étaient élevés à moins de 200 $ à 300 $, et les remboursements d’impôt correspondants étaient minuscules en comparaison.
+Peu ou pas d’examen des déclarations de revenus
+[12] M. Seepersad n’a pas examiné ses déclarations de revenus de 2005 et de 2006. Il a tout simplement autorisé Orbit à les produire par voie électronique. Il n’a pas reçu de copie des déclarations pour l’une ou l’autre des années. Il n’a reçu aucune confirmation que les organismes de bienfaisance avaient reçu l’argent. Dans le cas de Mme Seepersad, elle a brièvement examiné la déclaration à l’écran de l’ordinateur pendant la préparation et a autorisé qu’elle soit produite par voie électronique. Elle n’a pas non plus reçu de copie.
+Preuve alléguée de légitimité
+[13] Pour ce qui est de la preuve de l’authenticité des opérations d’Orbit, M. Seepersad a déclaré que les dirigeants d’Orbit lui avaient dit que des fonctionnaires de l’ARC se trouvaient justement dans la salle de conférence d’Orbit pendant que M. et Mme Seepersad venaient faire préparer leurs déclarations de revenus. M. Seepersad n’a pas rencontré de représentant de l’ARC, ni obtenu de nom ou de carte professionnelle.
+Registre des dons
+[14] La source des dons en espèces était de l’argent que M. et Mme Seepersad avaient sous la main. Cet argent provenait des « emplois secondaires » de M. Seepersad et avait été mis de côté pour des dons de bienfaisance. Aucun bordereau de retrait ni relevé bancaire n’a été produit.
+Motifs d’appel des appelants
+[15] M. et Mme Seepersad contestent le refus des déductions pour les dons, les cotisations frappées de prescription et les pénalités pour les motifs suivants sur lesquels ils se fondent tous deux :
+(1) ils sont des gens honnêtes et respectueux des lois qui ont été bernés par deux criminels;
+(2) l’Agence du revenu du Canada a une certaine responsabilité, parce qu’elle n’a pas mis fin plus tôt aux activités d’Orbit ou, du moins, averti les contribuables innocents de l’escroquerie;
+(3) M. et Mme Seepersad n’avaient pas l’intention de faire une présentation erronée des faits, de produire sciemment de fausses déclarations ou d’éviter de payer de l’impôt sur le revenu;
+(4) ni l’un ni l’autre ne prévoyaient ni ne soupçonnaient que les activités d’Orbit étaient une escroquerie.
+[16] La Cour doit trancher trois questions :
+a) M. et Mme Seepersad ont-ils droit aux crédits d’impôt non remboursables pour dons de bienfaisance qui ont été refusés et qui sont indiqués dans le tableau au début des présents motifs?
+b) Le ministre avait-il le droit de rouvrir l’année d’imposition 2005 pour M. et Mme Seepersad après l’expiration de la période normale de nouvelle cotisation en raison d’une présentation erronée de faits relevant de la négligence, de l’inattention ou de l’omission volontaire?
+c) Les pénalités imposées en vertu du paragraphe 163(2) sont-elles justifiées parce que M. et Mme Seepersad ont fait, sciemment ou dans des circonstances équivalant à faute lourde, de faux énoncés dans leurs déclarations de revenus respectives de 2005 et de 2006?
+a) Crédits d’impôt non remboursables pour dons de bienfaisance
+[17] La question de savoir si les sommes ont effectivement été payées par M. et Mme Seepersad [2] ou s’ils avaient l’intention libérale requise [3] sera examinée aux sections b) et c), au besoin. Les appels de M. et Mme Seepersad sont rejetés dès le départ pour une raison simple et convaincante, à savoir que les reçus pour dons de bienfaisance attestant les dons allégués comportent des lacunes manifestes pour de multiples motifs.
+[18] Les articles 3500 et 3501 du Règlement de l’impôt sur le revenu (le « Règlement ») [4] visés à l’article 118.1 de la Loi fixent des exigences obligatoires et contraignantes quant à la forme et au contenu des reçus pour dons de bienfaisance. Ces reçus doivent être conservés et remis au ministre dans un format conforme afin qu’une déduction pour don de bienfaisance [5] puisse être autorisée.
+[19] Le tableau suivant analyse chaque reçu pour don de bienfaisance produit par M. et Mme Seepersad et expose les multiples motifs pour lesquels chacun d’eux comporte des lacunes et ne se conforme pas à la Loi et au Règlement :
+Reçu pour don de bienfaisance
+Lacune
+Disposition enfreinte
+Lacune
+Disposition enfreinte
+Lacune
+Disposition enfreinte
+Lacune
+Disposition enfreinte
+Emelia Memorial International Water Development Inc.
+En espèces, mais absence de date, de montant par date ou de ventilation
+3501(1)e)
+[EN BLANC]
+[EN BLANC]
+Pas de lieu où le reçu a été délivré
+3501(1)d)
+Aucune mention du site Inernet de l’ARC
+3501(1)j)
+Faith Assemblies Mission House of Fellowship
+En espèces, mais absence de date, de montant par date ou de ventilation
+3501(1)e)
+Aucune date de délivrance
+3501(1)f)
+Pas de lieu où le reçu a été délivré
+3501(1)d)
+Aucune mention du site Internet de l’ARC
+3501(1)j)
+World Council for African Development
+En espèces, mais absence de date, de montant par date ou de ventilation
+3501(1)e)
+Aucune adresse sur le reçu officiel
+3501(1)a)
+Pas de lieu où le reçu a été délivré
+3501(1)d)
+Aucune mention du site Internet de l’ARC
+3501(1)j)
+City Chapel Ministries International
+En espèces, mais absence de date, de montant par date ou de ventilation
+3501(1)e)
+[EN BLANC]
+[EN BLANC]
+Pas de lieu où le reçu a été délivré
+3501(1)d)
+Nom du donateur mal épelé
+3501(1)g)
+[20] Compte tenu de ces lacunes quant à la forme et au contenu, M. et Mme Seepersad n’ont pas droit aux déductions réclamées pour les dons de bienfaisance aux organismes ci-dessus.
+b) Réouverture des années de cotisation frappées de prescription
+[21] Le paragraphe 152(4) de la Loi n’est pas punitif. Il a pour objet de permettre au ministre, en cas de faux énoncé, d’établir une nouvelle cotisation, car il peut arriver que le délai de trois ans ne soit pas suffisant pour que soit découvert le faux énoncé. Le faux énoncé doit découler d’une négligence, d’une inattention ou d’une omission volontaire. Deux précédents importants ont établi que la norme est celle de la personne sage et prudente [6] pouvant découvrir toute erreur évidente au moyen d’un examen attentif [7] . Il n’est pas nécessaire d’avoir l’intention de tromper [8] et les erreurs d’un comptable n’empêcheront pas l’application du paragraphe 152(4) [9] .
+[22] Dans les présents appels, les cotisations pour les années qui, si ce n’était de cette disposition, seraient frappées de prescription doivent être rouvertes. Il y a de multiples raisons pour lesquelles M. et Mme Seepersad ont fait de faux énoncé par négligence, inattention ou omission volontaire ou un amalgame de ces éléments. La liste ci-après est sélective et non exhaustive :
+(i) le montant total du don annuel, selon les propres aveux de M. et de Mme Seepersad, n’avait pas été donné au moment où ces derniers ont autorisé la production de la déclaration de revenus. Au mieux, il s’agissait d’une omission volontaire, mais celle-ci se rapproche de la fausse présentation délibérée de faits;
+(ii) on peut déduire des témoignages qu’aucune des sommes déclarées comme étant des dons faits en 2005 n’a été donnée en réalité en 2005, mais plutôt exclusivement en mars, en avril et après le remboursement en 2006. Il en allait de même pour les dons de 2006 qui ont été versés entièrement en 2007;
+(iii) selon le témoignage de chacun des appelants au sujet des sommes [traduction] « approximatives » qui ont été remises en mars et en avril durant la période de préparation des déclarations de revenus pour l’année précédente et qui, à leurs dires, ont été approximativement [traduction] « augmentées » après la réception du remboursement, il est presque certain que les sommes déclarées étaient considérablement moins élevées que les sommes données et que, de toute façon, elles étaient inexactes;
+(iv) M. Seepersad n’a pas lu ni examiné sa déclaration de revenus. Mme Seepersad l’a fait, mais seulement pendant cinq minutes sur un écran d’ordinateur.
+[23] Certains des faits qui précèdent suffisent à établir, selon la prépondérance des probabilités, qu’il y a eu présentation erronée de faits par négligence ou inattention. D’autres faits étaient clairement connus de M. et Mme Seepersad et sont des indices manifestes de faux énoncés dans les déclarations de revenus, lesquels faux énoncés M. et Mme Seepersad connaissaient et ont admis. Par conséquent, les déclarations ont, à juste titre, fait l’objet d’une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation.
+c) Pénalités imposées en vertu du paragraphe 163(2)
+[24] Dans sa réponse, le ministre a soutenu que c’est sciemment ou en commettant une faute lourde que les appelants ont fait de faux énoncés dans les déclarations de revenus pertinentes ou qu’ils y ont participé, consenti ou acquiescé. La Cour se concentrera sur l’aspect où la culpabilité est la moindre : la faute lourde. Si le ministre, à qui incombe le fardeau de la preuve, établit qu’il y a eu faute lourde, la question du faux énoncé fait sciemment devient théorique.
+[25] La faute lourde ne comporte pas nécessairement d’acte exécuté ou concret. Elle peut aussi être le fruit d’une omission ou d’une inaction découlant d’un aveuglement volontaire [10] . Autrement dit, le contribuable a-t-il choisi d’escamoter certaines étapes?
+[26] Dans des affaires comme celles de M. et de Mme Seepersad, certains facteurs doivent être analysés pour que l’on puisse déterminer si le contribuable a fait preuve d’aveuglement volontaire compte tenu de sa situation. Ces facteurs, dont il est question dans l’arrêt Torres c. La Reine [11] et appliqués et approfondis dans d’autres décisions, sont résumés ci-après :
+a) La connaissance d’un faux énoncé peut être déduite d’un aveuglement volontaire;
+b) La notion d’aveuglement volontaire peut être appliquée aux pénalités pour faute lourde prévues par le paragraphe 163(2) de la Loi;
+c) Pour savoir s’il y a eu ou non aveuglement volontaire, il faut tenir compte du niveau d’instruction et d’expérience du contribuable;
+d) Pour conclure à un aveuglement volontaire, il doit y avoir eu nécessité de s’informer, ou soupçon d’une telle nécessité;
+e) Les facteurs laissant supposer la nécessité de s’informer avant la production d’une déclaration, ou faisant apparaître « des feux rouges clairs », comprennent ce qui suit :
+(i) l’importance de l’avantage ou de l’omission;
+(ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+(iii) l’absence, dans la déclaration elle-même, d’une attestation du spécialiste qui a établi la déclaration;
+(iv) les demandes inusitées du spécialiste;
+(v) le fait que le spécialiste était auparavant inconnu du contribuable;
+(vi) les explications inintelligibles du spécialiste;
+(vii) le point de savoir si d’autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l’encontre de ce dernier, ou le point de savoir si le contribuable lui-même hésite à s’en ouvrir à d’autres;
+f) Le dernier critère de l’aveuglement volontaire est le fait que le contribuable ne s’enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s’enquiert aucunement auprès d’un tiers, ou auprès de l’ARC elle-même.
+[27] Consciente du fait que les pénalités prévues au paragraphe 163(2) sont imposées à chaque contribuable séparément, la Cour a examiné la situation de M. et Mme Seepersad de façon distincte et différenciée lorsque des circonstances, des faits ou d’autres facteurs le justifiaient. Il faut toutefois noter qu’ils se sont rendus ensemble au bureau d’Orbit et que le témoignage de l’un corroborait celui de l’autre.
+a) Niveau d’instruction et expérience des contribuables
+[28] M. et Mme Seepersad sont des gens assez éloquents, qui s’expriment bien et sont engageants. Ils ont des carrières, ils ont de l’instruction de niveau postsecondaire et ils comprennent leurs obligations en tant que membres d’une démocratie moderne, ce qui a déjà été dit dans les présents motifs. Ils ont aussi clairement fait savoir qu’ils auraient dû se méfier de l’escroquerie à laquelle ils ont participé, bien qu’à leur insu.
+[29] Les raisons pour lesquelles ils auraient dû déployer ces capacités de détection et de discernement se résument ainsi, et chacune se rapporte aux facteurs énoncés dans l’arrêt Torres :
+(i) les montants des dons déclarés et des remboursements reçus par rapport au montant des dons étaient tout à fait inconciliables;
+(ii) les appelants n’avaient tout simplement pas donné les sommes qu’ils prétendaient avoir données au moment où ils ont dit l’avoir fait;
+(iii) pour ni l’un ni l’autre il n’y a de copie des déclarations de revenus produites par voie électronique et ni l’un ni l’autre n’a conservé de copie, pour la première fois depuis qu’ils présentent des déclarations de revenus;
+(iv) aucun don n’a été fait directement à l’organisme de bienfaisance et aucun reçu n’a été obtenu directement de l’organisme; Orbit était le seul et unique lien avec l’organisme de bienfaisance;
+(v) Orbit a demandé des honoraires en espèces très élevés pour ses services, et M. Seepersad a reconnu que c’était en raison de l’important remboursement qui serait obtenu;
+(vi) M. et Mme Seepersad ne connaissaient pas Orbit avant la recommandation faite par l’oncle de M. Seepersad;
+(vii) la coïncidence de la visite de représentants de l’ARC au bureau d’Orbit au moment de la préparation des déclarations de revenus est invraisemblable vu l’impossibilité de rencontrer les visiteurs ou de confirmer l’authenticité de la visite;
+(viii) bien que l’oncle de M. Seepersad ait recommandé Orbit aux appelants, il est clair que ses meilleurs instincts l’ont fait hésiter.
+[30] Enfin, la dernière étape cruciale de la détection est l’examen de la déclaration de revenus, particulièrement lorsqu’il n’existe aucun autre motif de confiance, comme une relation de longue date, des références crédibles ou une confirmation fiable par un tiers. Selon les faits portés à l’attention de la Cour, il n’y avait tout simplement aucun motif de faire confiance ni aucun antécédent faisant naître la confiance, et aucune demande de confirmation n’a été faite. Ni M. Seepersad ni Mme Seepersad n’ont examiné leurs déclarations de revenus d’une manière qui correspond à leurs études, leur expérience et leurs connaissances respectives et distinctes.
+[31] En résumé, les faits dans les présents appels touchent tous les facteurs qui auraient dû éveiller les soupçons des appelants. Malheureusement, M. et Mme Seepersad ont chacun de leur côté choisi de ne pas en tenir compte. Le fait d’ainsi détourner volontairement le regard constituait une faute lourde. Les pénalités doivent être maintenues.
+[32] Pour ces motifs, les appels sont rejetés sans dépens, sauf pour ce qui est de l’aspect de l’appel de Mme Seepersad pour 2005 et 2006 concernant les montants supplémentaires des dons de bienfaisance non liés au stratagème d’Orbit qui sont précisés dans les présents motifs, de sorte que cet appel est techniquement accueilli.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2018.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 3e jour d’octobre 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 226
+NOS DES DOSSIERS DE LA COUR :
+2017-1112(IT)I, 2017-1114(IT)I
+INTITULÉ :
+DIPCHAND SEEPERSAD ET SA MAJESTÉ LA REINE; SITA SEEPERSAD ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 octobre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 14 novembre 2018
+COMPARUTIONS :
+Avocat de l’appelant :
+[EN BLANC]
+Avocats de l’intimée :
+Me Janice Liu
+Me Brent Cuddy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Le nom précis demeure inconnu de la Cour et peut-être du ministre, puisque cette entité a été désignée dans la réponse uniquement sous le nom d’« Orbit ».
+[2] Coombs c. La Reine, 2008 CCI 289.
+[3] Frieberg c. La Reine, [1991] A.C.F. no 1255 (QL) (C.A.F.).
+[4] Patel c. La Reine, 2011 CCI 555, au paragraphe 16, citant Plante c. La Reine, [1999] A.C.I. no 51 (QL) (C.C.I.).
+[5] Patel, précitée, paragraphe 30.
+[6] Vine (Succession) c. La Reine, 2014 CCI 64, paragraphe 47.
+[7] Nesbitt c. La Reine, 2003 CCI 942.
+[8] Syla c. La Reine, 2016 CCI 266, paragraphes 9 et 10.
+[9] Snowball c. La Reine, [1996] A.C.I. no 276 (QL) (C.C.I.), paragraphes 8 et 18.
+[10] Wynter c. Canada, 2017 CAF 195, paragraphes 20 et 21.
+[11] Torres c. La Reine, 2013 CCI 380.

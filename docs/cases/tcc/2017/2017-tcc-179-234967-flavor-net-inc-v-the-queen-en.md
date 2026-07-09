@@ -1,0 +1,320 @@
+---
+title: "Flavor Net Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/234967/index.do"
+last_modified: "2017-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 179"
+citation2: ""
+neutral_citation: "2017 TCC 179"
+decision_date: "2017-09-12"
+language: "en"
+item_id: "234967"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2200
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:11:16.788000+00:00"
+cases_cited_count: 5
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf4dafc3f907b97de233da58efa6592e8e5588d5265efac5bff7a9a08b9c902b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Flavor Net Inc. v. The Queen
+
+- Citation: 2017 TCC 179
+- Decision date: 2017-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2200, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Flavor Net Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-09-12
+Neutral citation
+2017 TCC 179
+File numbers
+2015-2330(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2330(IT)I
+BETWEEN:
+FLAVOR NET INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 8 and March 28, 2017, at Hamilton, Ontario, and on June 12, 2017 by videoconference at Ottawa, Ontario.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Agent for the Appellant:
+David C. Sabina
+Counsel for the Respondent:
+Dominique Gallant
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the taxation years ending June 30, 2010 and October 31, 2010 is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 12th day of September 2017.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2017 TCC 179
+Date: 20170912
+Docket: 2015-2330(IT)I
+BETWEEN:
+FLAVOR NET INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+I. INTRODUCTION
+[1] The appellant, Flavor Net Inc., is appealing reassessments issued by the Minister of National Revenue, disallowing the amounts claimed by the appellant as expenditures for scientific research and experimental development (“SR&ED”), as defined in subsection 248(1) of the Income Tax Act [1] (the “Act”), for its taxation years ending June 30, 2010 and October 31, 2010.
+[2] In computing its income, the appellant claimed qualified SR&ED expenditures of $225,136 and investment tax credits (“ITCs”) of $78,798 for the taxation year ending June 30, 2010 and qualified SR&ED expenditures of $45,638 and ITCs of $15,973 for the taxation year ending October 31, 2010.
+[3] The amounts initially claimed by the appellant were in respect of seven projects. Some of these projects continued over both of the taxation years in dispute. The projects were identified at the hearing by the project identification numbers given to them by the appellant. The projects originally at issue were projects 705, 801, 802, 803, 804, 805 and 806. However, since the appellant elected to proceed under the informal procedure [2] , it decided to narrow the scope of the appeal to two of the projects, 705 and 806. The appellant thus chose to waive any amount exceeding $25,000 for each taxation year at issue.
+[4] The sole issue in this appeal is whether the appellant’s activities with respect to projects 705 and 806 constituted SR&ED within the meaning of the definition of SR&ED in subsection 248(1) of the Act. If so, the appellant is entitled to ITCs in respect of the amounts claimed as expenditures for SR&ED.
+II. FACTS
+[5] The appellant was incorporated in 2000. Initially, its business consisted of selling flavours to the baking industry and salty snack seasonings to the snack food industry. [3] Later, that portion of the corporation was sold to third parties, and the company entered the energy drink business. [4] It was this later development that led to the appellant’s work on developing a beverage with plant sterols and other health-food ingredients.
+[6] Gregory Schmalz is the appellant’s founder, president and sole shareholder. Mr. Schmalz holds a Bachelor of Science degree from the University of Waterloo. He has had a lengthy career in the flavour and fragrance industries. Mr. Schmalz testified that the work in question was performed by him and his assistant, Chris Melling. [5] Mr. Schmalz was unable to confirm whether Mr. Melling had any educational background in science. However, he testified that he did not believe this to be the case.
+[7] At the hearing, Mr. Schmalz was the only witness for the appellant. Ms. Azza Hassanein—a research and technology manager with the Canada Revenue Agency (the “CRA”) who evaluated the SR&ED claims made by the appellant—testified as the sole witness for the respondent. No experts were called by either party to testify at the hearing.
+[8] Mr. Schmalz explained that the appellant’s purpose with respect to project 705 (the “Plant Sterols Beverage Project”) was to develop a beverage containing a mixture of 800 milligrams of plant sterols in a two-ounce format. Plant sterols are a natural cholesterol-reducing substance found in plant cell membranes. The U.S. Food and Drug Administration recognizes that a daily dose of 800 milligrams of sterols may reduce cholesterol and lessen the risk of heart disease, and it permits products to advertise their cholesterol‑reducing properties if they contain the prescribed amounts of sterols. The appellant’s intention was that the two-ounce beverage be marketed for its cholesterol-reducing properties.
+[9] With respect to project 806 (the “Partial Hot Fill System Project”), Mr. Schmalz explained that the appellant developed a pasteurization system that focused on pasteurizing only the active ingredients by pumping these ingredients in a side kettle and then pumping back the mixture into a larger tank. This method, according to Mr. Schmalz, was novel in that it was different from the hot fill method used by the industry. The two projects were interrelated in the sense that they were components of the same beverage production process and in the sense that the appellant hoped that the Partial Hot Fill System’s pasteurization process would aid in the dispersion of the desired amount of sterols in the two‑ounce format, as required for the success of the Plant Sterols Beverage Project.
+[10] Before starting my analysis of the appellant’s SR&ED projects, I would immediately emphasize that, as noted by the respondent, there is a discrepancy between the testimony of Mr. Schmalz with respect to the appellant’s SR&ED projects 705 and 806 and the description of these projects by the appellant in its T661 [6] form for both years under appeal. The T661 is a compulsory form that a taxpayer is required to file with its income tax return when claiming SR&ED expenditures and related ITCs. The T661 requires a taxpayer to describe the purpose of the SR&ED project, the activities undertaken, the technological risks, the uncertainties and advancements, and the approach followed. The CRA relies on the T661 to determine whether the activities of a taxpayer constitute SR&ED within the meaning of the definition of SR&DE in subsection 248(1) of the Act.
+[11] With respect to project 705—the Plant Sterols Beverage Project—the respondent noted that the T661 of the appellant does not mention that the appellant was to develop a two-ounce shot in which the mixture would contain 800 milligrams of plant sterols. I agree with the respondent that the description in the T661 is vague. It is stated that the appellant’s aim is to develop a health supplement in the form of a beverage using plant sterols. That said, since Ms. Hassanein, the technical reviewer at the CRA, stated in her testimony that she was aware at the time of her review that the purpose of project 705 was to develop a two-ounce beverage which would include 800 milligrams of sterols, I do not have any concerns in analyzing project 705 as it was described by Mr. Schmalz during the hearing.
+[12] With respect to project 806, at the hearing, Mr. Schmalz testified that the appellant’s purpose was to develop a Partial Hot Fill System. However, the description in the appellant’s T661 with respect to project 806 for both years is focussed on the filling of a dual-chambered bottle. In the T661 for the year ending June 2010, project 806 is described as follows:
+A dual chambered bottle with twin caps had never before been attempted to be filled by Flavour.Net Inc. Syncronization [sic] of the twin tank, pump, piping, filler reservoirs and filling heads was of the utmost importance. Through our trials it was shown that such a filling system can be designed that enables the benefits of the dual chambered bottle to be used in a variety of applications. By integrating a steam kettle as a mixing vessel for liquid concentrates success was achieved in duplicating hot fill results from the system. Significant effort was expended on the design of this unique filling system which is currently in use filling health supplement products. Further uses will be tested in the future. [7]
+[13] In addition, in the appellant’s submissions to the CRA, dated and signed by Mr. Schmalz, project 806 is described by the appellant as relating to the dual‑chambered bottle:
+Never before has Flavor.Net Inc. undertook [sic] to design a filling unit that can simultaneously fill two separate liquids into a dual chambered bottle and heat treat the liquid. [8]
+[14] At the hearing, Ms. Hassanein testified with respect to project 806 that the appellant had described that project, as the filling of the dual-chambered bottle. Accordingly, it was the filling of the dual-chambered bottle that Ms. Hassanein reviewed for SR&ED purposes. Her written reports on project 806 confirm her testimony. In the report dated August 19, 2011 [9] with respect to the taxation year ending June 30, 2010, Ms. Hassanein wrote as follows regarding project 806:
+This project was to design a filling unit that can simultaneously fill two separate liquids into a dual chambered bottle and heat-treat liquid. Natural health supplements can require twice daily dosing. Flavor Net needs to determine if it can develop a unique filling system to fill a single bottle with two chambers and two caps creating a physical reminder to take a dose from each side. As well a capability for heat treating of the liquid to ensure microbial safety will need to be designed.
+[15] The filling of the dual-chambered bottle and the Partial Hot Fill System are distinct projects; this was confirmed by Mr. Schmalz during the hearing. [10]
+[16] Furthermore, the respondent submitted that I should not allow project 806 since it was far from clear from the documents filed in evidence at the hearing that the Partial Hot Fill System was developed by the appellant during the taxation years under appeal.
+A. Project 705-Plant Sterols Beverage Project
+[17] As I have stated, the appellant’s purpose was to develop a health supplement beverage. Since shots tend to be popular and are trendy, the appellant decided to develop a two-ounce health beverage containing 800 milligrams of plant sterols that could be taken as a shot. Plant sterols are recognized as reducing cholesterol and as having other health benefits.
+[18] The issue, however, is that sterols are hydrophobic in nature, meaning that they do not dissolve well in water. The difficulty presented by the project was the development of a method of dispersing in two ounces of liquid an 800‑milligram concentration of plant sterols. The appellant was aware that Cargill Corporation had a patent and had succeeded in dispersing plant sterols in orange juice, but Cargill was only able to disperse 400 milligrams in an eight‑ounce serving. [11] Therefore, the appellant was trying to develop a beverage in which the concentration of sterols was eight times higher than the concentration found in the orange juice product developed by Cargill.
+[19] The appellant conducted various tests. For example, it used different heating temperatures, mixed the sterols with different ingredients to determine if the sterols would disperse better and completely, and tested different emulsifiers in conjunction with NutraFlora, which is a soluble fibre. As the project evolved, other health food ingredients (“nutraceuticals”)—such as cocoa, green tea extract, and berries—were added to the mixture, both to enhance the health properties of the overall product [12] and to aid in the dispersion of the sterols.
+[20] Mr. Schmalz also explained that the appellant tested different mixing methods, for example, high-shear mixing, and mixing with a mechanical pump. Although, it is difficult to completely disperse 800 milligrams of sterols in two ounces of liquid, the appellant succeeded in dispersing 85% of the plant sterols; but there were still sediments that made the beverage unacceptable for market purposes.
+B. Project 806-Partial Hot Fill System
+[21] At the hearing, Mr. Schmalz explained that the objective of the Partial Hot Fill System Project was to develop a system that has the capability of pasteurizing two different liquid concentrates, subsequently diluting them and then filling them into a dual-chambered bottle at 25 degrees Celsius. According to Mr. Schmalz, the appellant’s system differs from the industry-standard “hot fill” pasteurization system, which involves packaging the liquid when hot in special heat‑resistant plastic or glass bottles.
+[22] Mr. Schmalz explained that the process in the Partial Hot Fill System begins with the addition of a small amount of sterilized water to the plant sterols and other nutraceutical ingredients—which produces what he described as a “slurry”. That mixture is then pasteurized by being pumped into the small side kettle, which is connected to the main tank, and heated to 50 degrees Celsius. [13] The next step is to pump back the pasteurized mixture from the side kettle into the larger tank and to dilute it with sterile water, at which point the product is at room temperature and ready for bottling.
+[23] According to Mr. Schmalz, he was seeking to develop an alternative to the traditional hot fill process in order to save energy and packaging costs, since plastic bottles are less expensive than glass bottles. [14] In addition, it was also hoped that the heating process used in the Partial Hot Fill System would assist with the dispersion of the sterols and other nutraceuticals in the two ounces of water, thereby contributing to the realization of the Plant Sterols Beverage Project (i.e., the dispersal of the prescribed dosage of sterols in the two-ounce format). [15]
+III. APPELLANT’S POSITION
+[24] The appellant’s position is that the expenditures relating to the Plant Sterols Beverage Project and Partial Hot Fill System Project were made as part of “experimental development” within the meaning of the definition of SR&ED found in subsection 248(1) of the Act and thus the claimed SR&ED expenditures were qualified SR&ED expenditures and entitled the appellant to the related ITCs. The appellant argues that the Cargill patent represents the standard practice. In Mr. Schmalz’s view, no one had been able to disperse such a large quantity of plant sterols in two ounces of liquid. Therefore, there was technological uncertainty as to whether 800 milligrams of plant sterols could be dispersed in such a small quantity of liquid.
+[25] The appellant further argues that there was technological uncertainty with respect to the Partial Hot Fill System as an alternative to the traditional hot fill process. The appellant further argues that both projects were undertaken through technological advancement.
+[26] Finally, the appellant claims that it demonstrated its use of a systematic approach consisting of the formulation of hypotheses, the testing of those hypotheses using established techniques of measurement and experimentation, and the recording of data.
+IV. RESPONDENT’S POSITION
+[27] The respondent argues that the activities undertaken by the appellant do not constitute eligible SR&ED within the meaning of the definition of SR&ED in subsection 248(1) of the Act.
+[28] With respect to project 705, the Plant Sterols Beverage Project, the respondent argues that there were no technological uncertainties and no technological advancements since the appellant was using a methodology and techniques that were based on existing technology.
+[29] In addition, the respondent argues that the evidence established that the appellant did not understand the concept of a hypothesis. Therefore, no clear hypothesis was formulated and the overall procedure followed by the appellant did not accord with the established principles of the scientific method.
+[30] With respect to project 806, the Partial Hot Fill System Project, the respondent argues that the evidence did not establish that the project was developed during the years under appeal. In addition, she argues that the documents submitted by the appellant at trial generated even more confusion, relating to what project was under review for SR&ED purposes.
+V. ANALYSIS
+A. Applicable Legislative Provisions and Relevant Case Law
+[31] The relevant portions of the definition of the term “scientific research and experimental development,” as set out in subsection 248(1) of the Act, are as follows:
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+. . .
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph . . . (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection.
+[32] In determining whether the work undertaken by the appellant in respect of the projects constituted SR&ED, it is necessary to consider the five criteria set out by Justice Bowman (as he then was) in Northwest Hydraulic Consultants Ltd. [16] These criteria have been repeatedly confirmed and adopted by the Federal Court of Appeal in numerous decisions, including RIS-Christie [17] and C.W. Agencies Inc. [18]
+[33] In Northwest Hydraulic Consultants Ltd., Justice Bowman set out the approach to be taken in assessing a taxpayer’s activities against the requirements of the statutory definition of SR&ED. Justice Bowman’s approach is based on five criteria, which he described as follows (at paragraph 16):
+1. Is there a technical risk or uncertainty?
+(a) Implicit in the term “technical risk or uncertainty” in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+(b) What is “routine engineering”? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+(a) the observation of the subject matter of the problem;
+(b) the formulation of a clear objective;
+(c) the identification and articulation of the technological uncertainty;
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+(e) the methodical and systematic testing of the hypotheses.
+It is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SRED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+(a) It is important to recognize that although the above methodology describes the essential aspects of SRED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SRED. These elements must however operate within the total discipline of the scientific method.
+(b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SRED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+(b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.
+[34] With these principles in mind, I will now proceed to consider the eligibility of both projects undertaken by the appellant during the period at issue.
+B. Plant Sterols Beverage Project
+(1) Technological Risk or Uncertainty
+[35] To constitute SR&ED, a project must address a technological uncertainty that cannot be resolved by routine engineering or standard procedures. [19]
+[36] Mr. Schmalz described the overall objective of the Plant Sterols Beverage Project as the development of a product containing the prescribed dose of plant sterols in a two-ounce bottle. Mr. Schmalz testified that it was uncertain whether it would be possible to properly disperse this concentration of sterols in two ounces of water, that is, 800 milligrams of sterols in two ounces of water mixed with nutraceutical ingredients.
+[37] In my view, the appellant has not succeeded in demonstrating that it faced a technological uncertainty for the purposes of the definition of SR&ED in subsection 248(1) of the Act.
+[38] There is no doubt that the appellant was trying to develop a new product. There is always uncertainty in developing a new product. That said, not all new product development is faced with technological uncertainty. In developing its two-ounce beverage, the main issue that the appellant had was suspending the plant sterols, which are a fat-based substance, in a liquid. To resolve that issue, the appellant used a methodology and a technology that are well established in the food industry, namely high-shear mixing, mechanical pumping, by trying to heat the product at different temperatures and by utilizing emulsifiers that existed in the market.
+[39] The facts of the present appeal are virtually indistinguishable from those in R&D Pro-Innovation Inc., [20] a recent decision of this Court, which has been affirmed by the Federal Court of Appeal. [21] In that case, the project involved developing a cold-tempered chocolate spread containing cream and maple syrup, without artificial ingredients or added preservatives. [22] The appellant stated that even though the cold-tempering process was known, the stabilization of cold tempering with new inputs (such as cream and maple syrup) added to the chocolate did not exist. Justice Masse concluded that there was no technological uncertainty because the appellant used ingredients, food products and methods that are well known. He stated:
+[38] But the question is whether there was technological uncertainty. According to the case law, when uncertainties can be removed by standard procedures or routine engineering, the project does not qualify for SR&ED. Novelty or innovation in a product is not sufficient to illustrate technological advancement.
+[39] In the case at bar, the appellant wanted to develop a spread superior to commercial spreads and specialty spreads. It used as ingredients food products that are well known, such as cocoa butter, maple syrup, cream and other dairy products, carbohydrates and proteins. It modified the ingredients or their proportions in developing the spread. It then used the cold-tempering process, which is a known process, by changing the velocity, time and temperature of the tempering. It observed the results and collected data. The appellant’s work was centered on the use of existing manufacturing processes and existing materials in an attempt to improve its spread. The work involved routine engineering and standard procedures. Having considered all the evidence and the case law, I am not persuaded that the work in issue involved technological risk or uncertainty that could not be removed by standard procedures or routine engineering.
+[40] This conclusion applies with equal force in the present appeal.
+[41] Furthermore, I am also not convinced by Mr. Schmalz’s testimony regarding the state of knowledge regarding, and the technology available for, the dispersion of sterols at the time the project was undertaken. Mr. Schmalz referred throughout his testimony to a 2002 U.S. patent obtained by Cargill Inc. for a product in which 400 milligrams of sterols were mixed with orange juice in an eight-ounce format, which patent was entered into evidence as Exhibit A-4. According to Mr. Schmalz, this product reflected standard industry practice at that time. [23] This patent was the sole evidence of any search conducted by the appellant, at the outset of the project, with regards to existing methods for dispersing plant sterols.
+[42] In cross-examination, Mr. Schmalz was unable to recall the details of any searches undertaken. As I have said, the Cargill patent was the only specific evidence supplied by the appellant of any searches it undertook at the outset of the project. In cross-examination by counsel for the respondent, the following comments were made in reference to the Cargill patent:
+Q. You call this a standard practice. Are there other patents that deal with plant sterols and the way to disperse them or dissolve them in water or liquid, or is that the only one?
+A. I don’t know. Easy answer.
+Q. Did you conduct a search to see if there were other patents dealing with
+A. I am sure we did at the time and I couldn’t tell you the results of that because I don’t remember.
+Q. So what makes you think-- what makes you say that this is the standard practice if you don’t know what the other ones
+A. Because it led to commercialization in the marketplace of plant sterol infused orange juice brands. It led to Cargill setting up, in their ingredient division, sales of things like frozen blocks of pulp infused with plant sterols
+. . .
+Q. Okay. So you may have conducted a search on other patents but today you’re not able to tell us
+A. That’s right.
+Q. whether there are other patents?
+A. That is correct.
+[43] In her testimony, Ms. Hassanein stated that, at the time of her review of the appellant’s project 705, there were multiple patents related to dispersing plant sterols in different products under different conditions.
+[44] For these reasons, I conclude that the appellant has not succeeded in discharging its burden of establishing technological uncertainty since it was using methods and techniques that were available in the industry.
+[45] While this finding alone is sufficient to dispose of the appeal with respect to the Plant Sterols Beverage Project, [24] I will nevertheless proceed to apply as well the other criteria in Northwest Hydraulic Consultants Ltd. to the work undertaken by the appellant.
+(2) Formulation of Specific Hypotheses Related to Technological Risk or Uncertainty
+[46] Since I have concluded that there was no technological uncertainty, I cannot conclude that there were any hypotheses aimed at addressing a technological uncertainty. That said, I have decided to continue my analysis because, in my view, in this appeal, apart from the fact that documents were produced to prove that some tests were performed, the appellant did not meet the other requirements set out in Justice Bowman’s decision in Northwest Hydraulic Consultants Ltd.
+[47] Justice Sommerfeldt in Joel Theatrical Rigging Contractors Ltd. [25] explains what constitutes a hypothesis at paragraph 26 of his reasons for judgment:
+[26] In Maritime-Ontario Freight Lines, Sarchuk J provided a judicial definition of “hypothesis” as follows:
+A hypothesis is a tentative assumption or explanation to an unknown problem and, as a rule, this requirement is met by the existence of a logical plan devised to observe and resolve the hypothetical problem.
+Another judicial definition of “hypothesis” was given by Bonner J in C.W. Agencies, after having set out a description of the appellant’s hypothesis:
+I note here that it is not clear to me that this “hypothesis” is one which is capable of being proved or disproved by means of scientific research. It seems to me that it is simply too vague. The word hypothesis in this context is normally considered to mean a provisional concept which is not inconsistent with known facts and serves as a starting point for further investigation by which it may be proved or disproved objectively.
+In other words, a hypothesis is a statement to be tested by an experiment or a trial.
+[48] On review of the SR&ED filings submitted to the CRA, the records of experiments supplied by the appellant, and the testimony of Mr. Schmalz, it is clear that the appellant had difficulty in articulating a hypothesis in a manner consistent with the way that term is understood in the SR&ED context. For example, in cross-examination, Mr. Schmalz formulated the hypothesis in the following terms: “. . . can we be successful at incorporating those levels of sterols into a solution, disperse them in a solution?” [26] Later, Mr. Schmalz referred to the hypothesis as follows: [27]
+. . . There is an uncertainty, obviously, involved in how much of the plant sterols we can successfully suspend. And the hypothesis is attempting to resolve those technical uncertainties by testing the non standard practices of trying to incorporate that much sterols into a liquid. . .
+[49] Mr. Schmalz was clear in identifying the purpose of the appellant’s project, but he could not explain the hypothesis that was formulated in order to arrive at the overall objective, namely, proving or disproving an assumption through further investigation. Since the hypothesis is an integral part of the scientific method, I also find that the appellant has failed to discharge its burden with respect to the second requirement.
+(3) Testing in Accordance With the Principles of the Scientific Method
+[50] Justice Sommerfeldt in Joel Theatrical Rigging Contractors Ltd. [28] stated that there is overlap between the second and third requirements described in Northwest Hydraulic Consultants Ltd. At paragraph 33 of his Reasons for Judgment, Justice Sommerfeldt states the following with respect to the third requirement, namely, testing in accordance with the principles of the scientific method:
+[33] There is some overlap between the second and third requirements described in Northwest Hydraulic. The second requirement has five stages, the fourth and fifth of which are:
+the formulation of a hypothesis or hypotheses designed to reduce or eliminate the technical uncertainty; and
+methodical and systematic testing of the hypotheses.
+The third requirement indicates that the procedures used should accord with established and objective principles of the scientific method, which is characterized by:
+trained and systematic observation,
+measurement and experiment, and
+the formulation, testing and modification of hypotheses (it is this third characteristic of the third requirement that overlaps with the fourth and fifth stages of the second requirement).
+As the third characteristic of the scientific method deals with hypotheses, and as I have already discussed above the hypotheses formulated by JTR, I will not say anything further about that characteristic here.
+[51] In light of the testimony and the documentary evidence, I am satisfied that the appellant undertook trained and systematic observation. The appellant provided examples of its records of experiments. The logs contain entries for the various nutraceutical emulsifiers that were mixed with the sterols and record the effects of variables such as temperature and mixing method on the dispersion of the sterols. This is sufficient to establish that the appellant undertook trained and systematic observation.
+[52] I am also satisfied that the appellant undertook proper measurement of the testing and results with respect to the Plant Sterols Beverage Project. The sample logs clearly record the measurement of factors such as the amounts of sterols and nutraceuticals, the temperature in the heating process, and the degree of resulting dispersion.
+[53] With respect to the adequacy of the experimentation undertaken by the appellant, this was not as obvious. Parts of the testimony and documentary evidence suggested that the testing was by and large done using the trial and error method. For example, I found that the testimony of Mr. Schmalz and the documentary evidence did not provide any clear rationale for the selection of certain nutraceuticals, other than the fact that they were widely known to have various health benefits. This is particularly striking given that Mr. Schmalz testified that nutraceuticals were incorporated partly to test whether they aided in the dispersion of the sterols in water. In Joel Theatrical Rigging Contractors Ltd., [29] Justice Sommerfeldt suggested that experimentation by trial and error alone does not meet the requirements of testing in accordance with the principles of the scientific method.
+[54] Finally, I was not satisfied that the appellant’s formulation, testing, and modification of its hypotheses were in line with the principles of the scientific method. On review of the testimony and the documentary evidence, it was not clear that the appellant used the results of its experimentation to modify its hypotheses with respect to the feasibility of its dispersion targets.
+[55] Therefore, I am of the view that the third requirement was not met by the appellant.
+(4) Technological Advancement
+[56] The appellant was trying to concentrate the prescribed daily dosage of sterols into a two-ounce format. However, in my view, the appellant pursued this objective using existing methods common throughout the beverage industry and thus failed to attain the required level of technological advancement.
+[57] In this case, the appellant attempted to achieve the required dispersion of the plant sterols and other nutraceuticals in water using methods that were well known in the beverage industry. Mr. Schmalz testified that he and Mr. Melling experimented with a variety of variables, such as temperature and mixing method, in attempting to achieve the required dispersion. [30] They used commercially available mixing devices such as ribbon blenders and high-shear mixers and they used known emulsifiers and known nutraceutical ingredients. In my view, using known methods and products to attempt to disperse sterols in a smaller format does not constitute a technological advancement.
+[58] For example, in Exhibit A-11, the appellant described its technological advancement as follows:
+Testing showed future solutions to the challenges lie in acquiring higher quality lab mixers, continued testing of solubility and continued refinement of the partial hot fill process parameters of time. Mix speed and filling temperatures.
+Experimentation led to a blend of emulsifiers (SSL, Mono and Di Glycerides) that appears to function in a satisfactory manner and can be optimized further with better equipment. Partial hot fill process was shown to be a valid, affordable method of preservation versus the energy and bottle costs associated with continuous hot fill. Product mixing via pump motor proved satisfactory as it eliminated the need for counter rotating blades in the mix vessel. It was shown the viscosity of the product was condusive [sic] to the use of auto fill heads.
+[59] In my view, the appellant did not establish that there were technological advancements. What the appellant did is well reflected in the testimony of the CRA’s technical advisor, Ms. Hassanein. She stated:
+. . . the technologies that they were utilizing to develop that product were based on existing technology and there was no advancement in those technologies, meaning trying to see how much sterol I can incorporate in a certain volume by increasing the shear mixing by heating the product to a different temperature or by utilizing emulsifiers that existed in the market. . . .
+(5) Detailed Record of the Hypotheses, Tests and Results
+[60] Although, it has been held that meeting this criterion is not compulsory, doing so will assist a taxpayer in establishing that its activities qualify as SR&ED. Therefore, it is to the taxpayer’s benefit to keep detailed records of the hypotheses, tests and results as the work progresses. This criterion is closely related to parts of the third requirement, which is that the taxpayer conduct its testing in accordance with established and objectives principles of the scientific method, including systematic observation, measurement and experimentation.
+[61] The respondent does not contest that the appellant kept contemporaneous records of its experiments and I agree that the appellant filed in evidence numerous records of its experiments.
+[62] In light of the requirements set out by Justice Bowman in Northwest Hydraulic Consultants Ltd., I conclude that project 705, the Plant Sterols Beverage Project, does not constitute SR&ED within the meaning of the definition of SR&ED in subsection 248(1) of the Act.
+C. Project 806
+[63] As I have already stated, much of the testimony by Mr. Schmalz with respect to the development and operation of the Partial Hot Fill System during the period at issue was inconsistent with the information contained in the filings with the CRA. More specifically, his description of the overall project and the work undertaken during the taxation years at issue bore little resemblance to the project descriptions contained in the filings. Much of the discussion of the project in the written submissions to the CRA, particularly Exhibits R-2 and R-5, which are the T661s, related to the appellant’s effort to design a filling system that could simultaneously fill two separate streams of liquid into a dual‑chambered bottle.
+[64] In cross-examination, the respondent referred Mr. Schmalz to the documents in which project 806 was described as having to do with the dual‑chambered bottle. Mr. Schmalz’s answer was:
+. . . to be honest with you, I wasn’t aware that we had a related focus to the . . . to augment the filling machine and the capping machine.
+[65] The filling machine and the capping machine are part of the dual‑chambered bottle project.
+[66] In addition, in some documents, the hot fill process was described as novel and in other documents it was described as something that the appellant was already using. In some documents, namely Exhibit A-1 and Exhibit A-8, project 806 is described as having to do with the Partial Hot Fill System. [Other documents use the heading Partial Hot Fill but the description refers to the dual‑chambered bottle.] Exhibit A-9 describes project 806 as relating to the dual‑chambered bottle:
+UNCERTAINTY # 1: Plant development
+We were uncertain about the optimal design to build the process and equipment layout that would enable 2 liquids to be simultaneously mixed, pasteurized, diluted to 25 C and filled into separate sides of the same bottle. The company could not determine from all available sources of readily available information how they could achieve the required line capabilities of twin mix, heat treat, dilute and cool then fill into a 2 neck bottle. The advancement sought is in the field of beverage design, manufacturing and custom filling.
+Fill rates of a minimum of 50 bottles per minute will be required to meet cost efficiency target. Normal hot fill lines hold product hot at 100 C for the length of batch fill time which is 30 minutes. Our system must pasteurize the batch in 1 minute. Regular hot fill lines heat and hold ready to drink beverage. Our system must heat and hold a concentrated version of the finished beverage amounting to 30 gallons versus 250 gallons finished volume.
+. . .
+Results:
+Maximize fill rate: 50 bottles/minutes [sic] (100% of goal)
+Fill bottles simultaneously: 2 Maximize liquids filled (liquid types)/bottle (100% of goal)
+Heat treat temperature: 1 minutes[sic]/batch (100% of goal)
+[L]iquid concentration: 30 galon [sic] (100% of goal)
+Line multiple liquid capability, pasteurization time of liquid concentrate, fill rates were all achieved.
+[67] The question of whether the Partial Hot Fill System was in fact developed prior to the taxation years at issue was also put to Mr. Schmalz in cross‑examination by counsel for the respondent, but a clear answer was not provided by him.
+[68] In light of this confusion, the appeal with respect to project 806 should be dismissed. The burden is on the appellant to prove that its project falls within the ambit of the definition in subsection 248(1) of the Act.
+[69] In any event, if I were to take for granted that the Partial Hot Fill System was developed during the years under appeal and that it was project 806, I would not allow the appeal with respect to this project since I was not convinced by the testimony of Mr. Schmalz that the development of the Partial Hot Fill System constituted SR&ED within the meaning of the definition of SR&ED in subsection 248(1) of the Act.
+[70] The appellant did not introduce any evidence regarding what was available in the market. In other words, what was the gap that existed in the filling methodologies? Although, Ms. Hassanein did not review the Partial Hot Fill System, since what was presented to her by the appellant at the time of her review was the dual-chambered bottle project, after hearing the testimony of Mr. Schmalz, she stated that plastic bottles are used for many products.
+[71] Mr. Schmalz testified that the Partial Hot Fill System was closely related to the existing hot fill technology, stating: [31]
+. . . I guess we created an alternate to the existing hot fill standard that worked for our application.
+[72] In my opinion, the Partial Hot Fill System developed by the appellant was not materially different from the hot fill process widely used in the beverage industry at that time. The essence of the partial hot fill system was to heat the essential (i.e., non-water) ingredients separately to accomplish pasteurization and then add sterile water to cool the mixture and attempt to achieve the correct level of dispersion for bottling in individual two-ounce units. However, it was the basic principles of the hot fill process that were being used to heat the mixture in the side kettle. The system was designed using standard practices and routine engineering.
+[73] Thus, I conclude that the appellant has failed to discharge its onus of proving that there existed with respect to the design of the Partial Hot Fill System a technological uncertainty which could not be removed by routine engineering or standard procedures.
+[74] With respect to the formulation of a hypothesis, as with the Plant Sterols Beverage Project, the appellant did not formulate one, that is, it did not formulate an assumption to be tested in order to remove the technological uncertainty. In addition, there was no technological advancement since the appellant used means known to the industry to develop its system.
+[75] The burden is on the appellant to establish that a project constitutes SR&ED within the meaning of subsection 248(1) of the Act. Project 806 was presented in a manner that was so confusing that it was impossible for me to determine if that project had to do with the dual-chambered bottle or the Partial Hot Fill System during the years under appeal. In any event, I am of the view that the Partial Hot Fill System did not meet the requirements for qualifying as SR&ED within the meaning of subsection 248(1) of the Act.
+VI. CONCLUSION
+[76] The respondent asked for costs under subsection 10(2) of the Tax Court of Canada Rules (Informal Procedure). I am of the view that the circumstances do not warrant costs.
+[77] The appeal is dismissed with respect to project 705—the Plant Sterols Beverage Project—and Project 806 for the taxation years ending June 30, 2010 and October 31, 2010, since these projects undertaken by the appellant did not constitute SR&ED within the meaning of subsection 248(1) of the Act. There will be no award of costs.
+Signed at Ottawa, Canada, this 12th day of September 2017.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2017 TCC 179
+COURT FILE NO.:
+2015-2330(IT)I
+STYLE OF CAUSE:
+FLAVOR NET INC. v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario and Ottawa, Ontario
+DATE OF HEARING:
+February 8, March 28 and June 12, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+September 12, 2017
+APPEARANCES:
+Agent for the Appellant:
+David C. Sabina
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c 1 (5th Supp).
+[2] Tax Court of Canada Act, RSC 1985, c T-2, ss 18.1-18.28.
+[3] Transcript, February 8, 2017, at page 13, lines 5-7.
+[4] Transcript, February 8, 2017, at page 13, lines 8-11.
+[5] Transcript, February 8, 2017, at page 23, lines 23-24.
+[6] See Exhibits R-2, R-5 and R-6.
+[7] See Exhibit R-2 at page 3.
+[8] See Exhibit R-3 at page 2.
+[9] See Exhibit R-7 at page 7.
+[10] Transcript, March 28, 2017, at page 83, lines 17-22.
+[11] See Exhibit A-1, at page 79.
+[12] Transcript, February 8, 2017, at page 14, lines 25-28, to page 15, lines 1-7.
+[13] Transcript, March 28, 2017, at page 33, lines 14-16.
+[14] Transcript, February 8, 2017, at page 16, lines 1-4.
+[15] Transcript, February 8, 2017, at page 22, lines 5-9.
+[16] Northwest Hydraulic Consultants Ltd. v Canada, [1998] TCJ No. 340 (QL).
+[17] RIS-Christie Ltd. v The Queen, 99 DTC 5087.
+[18] C.W. Agencies Inc. v The Queen, 2001 FCA 393.
+[19] Northwest Hydraulic Consultants, supra at para 16, subpara 1(a).
+[20] R&D Pro-Innovation Inc. v The Queen, 2015 TCC 186 (inf proc).
+[21] R&D Pro-Innovation Inc. v The Queen, 2016 FCA 152.
+[22] R&D Pro-Innovation Inc., supra at para 9.
+[23] Transcript, March 28, 2017, at page 20, lines 26-27.
+[24] Jentel Manufacturing Ltd. v The Queen, 2011 FCA 355, at para 6.
+[25] Joel Theatrical Rigging Contractors (1980) Ltd. v The Queen, 2017 TCC 6.
+[26] Transcript, March 28, 2017, at page 111, lines 20-22.
+[27] Transcript, March 28, 2017, at page 112, lines 8-13.
+[28] Joel Theatrical Rigging Contractors (1980) Ltd., supra at para 33.
+[29] Joel Theatrical Rigging Contractors (1980) Ltd., supra at paras 40-42.
+[30] Transcript, February 8, 2017, at page 53, lines 20-24.
+[31] Transcript, February 8, 2017, at page 43, lines 15-17.

@@ -1,0 +1,138 @@
+Title: Commission Scolaire des Patriotes  v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28763/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-8-28763-commission-scolaire-des-patriotes-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-01-16
+
+# Commission Scolaire des Patriotes  v. The Queen
+
+- Citation: 2006 TCC 8
+- Decision date: 2006-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1550, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Commission Scolaire des Patriotes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-16
+Neutral citation
+2006 TCC 8
+File numbers
+2005-1163(GST)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2005-1160(GST)G, 2005-1161(GST)G, 2005-1162(GST)G,
+2005-1163(GST)G, 2005-1166(GST)G, 2005-1168(GST)G,
+2005-1170(GST)G, 2005-1171(GST)G, 2005-1172(GST)G,
+2005-1173(GST)G, 2005-1176(GST)G, 2005-1177(GST)G,
+2005-1178(GST)G, 2005-1179(GST)G, 2005-1180(GST)G,
+2005-1181(GST)G, 2005-1182(GST)G, 2005-1183(GST)G,
+2005-1184(GST)G, 2005-1185(GST)G, 2005-1187(GST)G,
+2005-1190(GST)G, 2005-1191(GST)G, 2005-1192(GST)G,
+2005-1193(GST)G, 2005-1194(GST)G, 2005-1195(GST)G,
+2005-1196(GST)G, 2005-1197(GST)G, 2005-1198(GST)G,
+2005-1199(GST)G, 2005-1201(GST)G, 2005-1203(GST)G
+BETWEEN:
+COMMISSION SCOLAIRE DE VICTORIAVILLE,
+COMMISSION SCOLAIRE DE L'ÉNERGIE,
+COMMISSION SCOLAIRE DE COATICOOK,
+COMMISSION SCOLAIRE DES PATRIOTES,
+COMMISSION SCOLAIRE DU VAL-DES-CERFS,
+COMMISSION SCOLAIRE DES HAUTES-RIVIÈRES,
+COMMISSION SCOLAIRE DE LAVAL,
+COMMISSION SCOLAIRE DES LAURENTIDES,
+COMMISSION SCOLAIRE SIR-WILFRID-LAURIER,
+COMMISSION SCOLAIRE PIERRE NEVEU,
+COMMISSION SCOLAIRE DE LA RIVIÈRE DU NORD,
+COMMISSION SCOLAIRE DES CHÊNES,
+COMMISSION SCOLAIRE DES HAUTS-CANTONS,
+COMMISSION SCOLAIRE DES BOIS-FRANCS,
+COMMISSION SCOLAIRE DES SOMMETS,
+COMMISSION SCOLAIRE DES GRANDES-SEIGNEURIES,
+COMMISSION SCOLAIRE DE L'OR-ET-DES-BOIS,
+COMMISSION SCOLAIRE DES HAUTS-BOIS-DE-L'OUTAOUAIS,
+COMMISSION SCOLAIRE DE L'AMIANTE,
+COMMISSION SCOLAIRE AU CŒUR-DES-VALLÉES,
+COMMISSION SCOLAIRE DU LAC SAINT-JEAN,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+(Delivered orally at the hearing of December 2, 2005, at Montréal, Quebec.)
+McArthur J.
+[1] The Respondent has brought a motion for particulars in relation to certain allegations contained in the Notices of Appeal pursuant to section 52 of the Tax Court of Canada Rules (General Procedure) ("the Rules") and for an order extending the time for filing the Respondent's replies to 45 days after the order of this Court.
+[2] For the following reasons, the motion is denied. In my opinion, the motion is premature at this time.
+[3] So there is no suspense. The Appellants denied the Respondents' requests for clarification on the basis that the allegations contained in the Notices of Appeal are specific enough to inform the Respondent of the true issue raised by the case.
+[4] There is not necessarily an identifiable section. Some of the cases involve generally accepted constitutional conventions based on which a provision, or its application, can be declared unconstitutional.
+[5] In the second case, practice does not require it. I do not see why we would have to do it at this stage, as we do not have the advantage of the Minister's assumptions and do not have the benefit of any of the Minister's arguments. We do not even know who the witnesses will be.
+[6] To provide some context, in another proceeding, a consent judgment in favour of the Appellants was rendered following an assessment under the Excise Tax Act with respect to an input tax credit (ITC) refund claimed by the Appellants. The Tax Court of Canada rendered a judgment for the Appellants in accordance with the Consent to Judgment tendered before the Court. The statutory provision that had been under attack was amended retroactive to the introduction of the GST system. The Explanatory Notes relating to the provision state as follows:
+The legislation also provides a specific authority for the Minister of National Revenue to reassess . . . for a particular reporting period that had previously been assessed by the Minister. . . . Accordingly, the Minister may make the reassessment whether or not the usual limitation period under the Act for making the reassessment has expired and despite any court decision . . . .
+[7] In May 2004, the Minister, contrary to the judgment of this Court, issued a notice of reassessment disallowing the ITC refund that the Respondent herself had agreed to pay the Appellants. The Appellants are appealing from this reassessment before the Tax Court.
+[8] I repeat that the issue in this case is whether, and to what extent, the motion for particulars must be granted.
+[9] Section 52 of the Rules reads, in part:
+52. Where a party demands particulars of an allegation . . .
+and, in French:
+52. Si une partie demande des précisions sur un fait allégué . . .
+As one can see, the two versions are not identical. The French version refers to a demand for particulars regarding an alleged fact, while the English version merely refers to an allegation.
+[10] In Sero v. The Queen, [2004] 2 F.C. 613, [2005] 2 C.T.C. 248 (F.C.A.), the Federal Court of Appeal referred to the decision of the Supreme Court of Canada in Schreiber v. Canada, [2002] 3 S.C.R. 269, where LeBel J. observed, at paragraph 56:
+A principle of bilingual statutory interpretation holds that where one version is ambiguous and the other is clear and unequivocal, the common meaning of the two versions would a priori be preferred . . . Furthermore, where one of the two versions is broader than the other, the common meaning would favour the more restricted or limited meaning . . . .
+[11] I also refer to Baxter v. The Queen, 2004 TCC 636, at tab 3, page 2009 of the Appellants' documents, where Bowman A.C.J. stated that a question of law need not be answered.
+[12] Applying these principles to the case at bar, the English version appears to have more than one possible meaning because it could refer to an allegation of fact or of law, while the French version refers only to an allegation of fact. Consequently, the French version must be preferred to the more ambiguous English version. In addition, the English version has a broader meaning because it refers both to an allegation of fact and of law, whereas the French version refers solely to an allegation of fact. Consequently, the more precise version must be preferred.
+[13] Thus, a demand for particulars should apply only to allegations of fact, not allegations of law. The Respondent refers to Six Nations of the Grand River Indian Band v. Canada, Ont. Div. Ct., No. 690/99, April 12, 2000, [2000] O.J. No. 1431 (QL). That case was heard under the Ontario Rules of Civil Procedure, R.R.O. 1990, Reg. 194, both the English and French versions of which refer to an allegation. Thus, there was no conflict between the two versions at the time of that decision. Consequently, Six Nations is not apposite here.
+[14] According to the case law, it is not appropriate to order the production of particulars related to the legal position that a party intends to take, because particulars are limited solely to questions of fact.
+[15] Thus, after establishing that a demand for particulars pertains only to allegations of fact, one must consider the purpose of the motion. Demands for particulars are governed by the principle that the function of pleadings is to limit the issues to be tried and prevent them from being enlarged to such an extent that the parties are no longer able, prior to the hearing, to determine the true nature of the dispute, as established in Gulf Canada Limited v. The Tug Mary Mackin and Sea-West Holdings Ltd., [1984] 1 F.C. 884.
+[16] In Gulf Canada, the Court listed the objectives of particulars. There are six of them. The Respondent submits that, in the case at bar, it is fair and reasonable to order the production of particulars regarding the Appellants' allegation that a provision of the ETA or a statute is unconstitutional. As worded, the allegation is so broad that the Respondent cannot reasonably reply to it or prepare for the hearing without the risk of being taken by surprise.
+[17] In Satin Finish Hardwood Flooring, T.C.C., No. 95-30(IT)G, March 27, 1995, Bowman J. observed, at paragraph 16:
+The purpose of pleadings is to define the issues to be decided by the court, not to provide a detailed outline of the evidence that the parties intend to adduce at trial. The notice of appeal in this case is adequate to raise the factual issue that must be decided and to enable the Respondent to formulate a defence.
+In the case at bar, the Notice of Appeal is adequate; it raises the factual issue that must be decided and enables the Respondent to formulate a defence. It is clear that the Appellant has no duty to provide, at the pleading stage, the arguments that she intends to rely upon at trial. She need only provide the factual allegations that she intends to rely upon in her arguments at trial. Having regard to the Notice of Appeal, the Court should decide whether other particulars are necessary.
+[18] In the case at bar, by looking at the Notice of Appeal, it seems clear which facts the Appellant will rely upon to make her case. In conclusion, I accept the Appellants' argument, and the motion is denied. Thank you.
+JUSTINE MALONE: Pardon me. There is no order concerning the time for filing the replies?
+HIS HONOUR: And how many days are you asking for? 45?
+JUSTINE MALONE: I don't remember; it's in the motion.
+HIS HONOUR: I have it in front of me somewhere. Yes, an order extending to 45 days. So it's granted.
+Signed at Ottawa, Canada, the 16th day of January 2006.
+"C.H. McArthur"
+McArthur J.
+Translation certified true
+on this 20th day of February 2008
+François Brunet, Revisor
+CITATION:
+2006TCC8
+COURT FILE NO.:
+2005-1163(GST)G et al.
+STYLES OF CAUSE:
+Commission Scolaire des Patriotes et al. and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 2, 2006
+REASONS FOR ORDER BY:
+The Honourable Justice C.H. McArthur
+DATE OF ORDER:
+December 9, 2005
+APPEARANCES:
+Counsel for the Appellants:
+Dominic Belley
+Counsel for the Respondents:
+Justine Malone
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Dominic Belley
+Firm:
+Ogilvy Renault
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,149 @@
+---
+title: "Teelucksingh c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30349/index.do"
+last_modified: "2007-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 125"
+citation2: ""
+neutral_citation: "2007 CCI 125"
+decision_date: "2007-03-05"
+language: "fr"
+item_id: "30349"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7962
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:54:56.104000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b9a42776aba443b233f97fb8e6958112a99fd8331142fa0f85fee1df0a206565"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Teelucksingh c. La Reine
+
+- Citation: 2007 CCI 125
+- Decision date: 2007-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7962, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Teelucksingh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-05
+Référence neutre
+2007 CCI 125
+Numéro de dossier
+2005-1930(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI125
+Date : 20070305
+Dossier : 2005-1930(IT)G
+ENTRE :
+LLOYD M. TEELUCKSINGH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocats de l’appelant : Mes A. Christina Tari et Steve Yoker
+Avocats de l’intimée : Mes George Boyd Aitken et Roger Leclaire
+Avocat du mis en cause, Dale Smith : Me Peter Aprile
+____________________________________________________________________
+MOTIFS DE L’ORDONNANCE
+(Rendus oralement par conférence téléphonique
+le 13 février 2007 à Ottawa (Ontario).)
+Le juge Bowie
+[1] La requête dont je suis saisi a été déposée par l’intimée en vertu de l’article 99 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») dans le but d’obtenir une ordonnance enjoignant à M. Dale Smith, qui n’est pas partie à l’appel, de se soumettre à un interrogatoire préalable. L’appel en matière d’impôt sur le revenu concerne les activités de deux sociétés de personnes en commandite dans lesquelles l’appelant avait, pendant la période pertinente, une participation à titre de commanditaire. Pour les besoins de la requête, je suis disposé à convenir que les documents qui m’ont été soumis établissent que M. Smith possède effectivement des renseignements pertinents sur les questions litigieuses opposant les parties à l’appel.
+[2] M. Smith et l’appelant contestent tous deux la requête pour plusieurs motifs. L’article 99 des Règles est ainsi rédigé :
+99(1) La Cour peut accorder, à des conditions appropriées, notamment quant aux dépens, l’autorisation d’interroger au préalable une personne, à l’exception d’un expert engagé en prévision d’un litige ou en instance par une partie, ou en son nom, si elle a des raisons de croire que cette personne possède des renseignements pertinents sur une question importante en litige.
+99(2) La Cour n’accorde l’autorisation selon le paragraphe (1) que si elle est convaincue :
+a) que le requérant n’a pas été en mesure d’obtenir ce renseignement de l’une des personnes qu’il a le droit d’interroger au préalable ou de la personne qu’il désire interroger;
+b) qu’il est injuste d’exiger que l’instance soit instruite sans que le requérant de la requête ait la possibilité d’interroger cette personne;
+c) que l’interrogatoire n’aura pas pour effet, selon le cas :
+(i) de retarder indûment le début de l’instruction de l’instance,
+(ii) d’entraîner des dépenses injustifiées pour les autres parties,
+(iii) de causer une injustice à la personne que le requérant désire interroger.
+99(3) Sauf directive contraire de la Cour, la partie qui interroge oralement une personne en application du présent article signifie, sur demande, une transcription gratuite de l’interrogatoire à toute partie qui y a assisté ou qui s’y est fait représenter.
+99(4) Sauf directive expresse contraire de la Cour, la partie interrogatrice n’a pas le droit de recouvrer d’une autre partie les dépens de l’interrogatoire.
+99(5) La déposition d’une personne interrogée en application du présent article ne peut être consignée en preuve à l’audience aux fins du paragraphe 100(1).
+Il a été dit à juste titre que l’article 99 des Règles prévoit une mesure extraordinaire à laquelle on doit recourir avec modération seulement lorsque les conditions énoncées au paragraphe 99(2) des Règles ont été manifestement respectées de façon rigoureuse. Le paragraphe 99(1) des Règles porte que l’interrogatoire sollicité doit viser l’obtention de « renseignements pertinents sur une question importante en litige ».
+[3] Il est affirmé dans l’avis de requête dont je suis saisi, au paragraphe 1, que la question fondamentale à trancher dans l’appel est de savoir si deux sociétés de personnes en commandite, qui sont désignées, ont été formées par des personnes exploitant une entreprise en vue de réaliser un bénéfice. L’appelant a été interrogé au préalable et, au cours de cet interrogatoire, il a nié qu’il avait une connaissance directe de faits concernant plusieurs questions pertinentes se rapportant à l’appel.
+[4] Le 31 octobre 2006, les avocats de l’intimée ont écrit à M. Smith pour demander à le rencontrer et à discuter avec lui des activités des deux sociétés de personnes en commandite en cause et de leur lien avec la société Montebello Farms Inc., dont M. Smith était, semble‑t‑il, un dirigeant et un administrateur pendant la période pertinente. Cette lettre a été envoyée à M. Smith à ce qui est décrit dans les documents déposés auprès de la Cour comme sa résidence saisonnière située à Val‑des‑Monts, au Québec, et j’admets qu’il s’agissait de la seule adresse de M. Smith connue des avocats de l’intimée. N’ayant toujours pas reçu de réponse à cette lettre à la mi‑novembre, les avocats de l’intimée ont ensuite déposé la requête dont je suis présentement saisi.
+[5] J’ai rendu une ordonnance énonçant expressément des directives concernant le dépôt de la requête, y compris des directives pour la signification à M. Smith du dossier de requête qui en prescrivaient la livraison à sa résidence située à Val‑des‑Monts. M. Smith a reçu le dossier, mais apparemment pas avant le 29 décembre. À cette date‑là, il a envoyé le courriel suivant aux avocats de l’intimée :
+[traduction]
+J’ai récemment visité mon adresse d’enregistrement, une résidence saisonnière, pour la première fois en à peu près un mois, le 24 décembre 2006, et j’ai trouvé devant ma porte un dossier de requête, qui a apparemment été laissé par un huissier.
+En raison de la période des fêtes, je n’ai pas eu le temps de consulter un avocat pour connaître mes devoirs et mes obligations, mais je suis bien sûr disposé à collaborer avec vous autant que possible afin que soient consignés au dossier tous les faits que je peux fournir pour éclaircir les questions en litige.
+Je suis présentement à l’extérieur du pays en vacances et pour affaires et je le serai jusqu’aux environs du 15 janvier 2007, mais j’essaierai d’entrer en communication avec mon futur avocat et de m’informer sur la procédure appropriée à suivre.
+[6] Le ton de ce courriel est certainement loin d’être hostile, et il est raisonnable de soutenir que la réponse appropriée à cette lettre serait de tenter d’organiser une rencontre informelle avec M. Smith et, s’il était convenu avec lui d’une date pour la rencontre, de prendre les mesures nécessaires pour retirer, ou, ce qui est plus vraisemblable, pour ajourner sine die l’instruction de la requête. Les avocats de l’intimée ont plutôt répondu ainsi à M. Smith par courrier électronique plus tard le même jour :
+[traduction]
+Merci pour votre courriel d’aujourd’hui. Sauf erreur, vous consentez à prendre part à l’interrogatoire préalable dans cette affaire, conformément à la requête de l’intimée en date du 23 novembre 2006 déposée auprès de la Cour canadienne de l’impôt.
+Dans l’attente d’une ordonnance de la Cour canadienne de l’impôt nous autorisant à agir, nous sommes disposés à procéder à l’interrogatoire à une date à votre convenance au cours des prochains mois et à un lieu qui vous conviendra près de votre adresse située à Val‑des‑Monts.
+Compte tenu des délais impartis par la Cour canadienne de l’impôt dans son ordonnance, nous serions heureux de vous transmettre des documents à votre adresse actuelle. Nous vous saurions gré de nous communiquer l’adresse où vous résiderez jusqu’au 15 janvier 2007 pour que nous puissions vous envoyer tout autre document additionnel.
+M. Smith a répondu à ce courriel ainsi le lendemain, encore une fois par courrier électronique :
+[traduction]
+Merci pour votre réponse ci‑dessous transmise par courriel. Je veux qu’il soit bien compris que ce que j’ai dit c’est que je n’ai reçu votre dossier de requête que la veille de Noël. Eu égard à ces circonstances, je n’ai pas eu l’occasion de consulter un avocat‑conseil pour connaître mes obligations, si j’en ai, dans cette affaire.
+Par conséquent, je ne me suis pas engagé à me soumettre à un interrogatoire préalable et je ne pourrai répondre à cette demande qu’après avoir consulté un avocat.
+À cet égard, j’ai l’intention d’obtenir un conseil juridique sur cette question à mon retour au pays.
+Je constate qu’aucune date n’est fixée pour une présentation sur le dossier de requête qui m’a été laissé. Si je fais erreur à cet égard, je vous prie de m’en aviser sur réception du présent courriel. Sinon, moi‑même ou mon avocat entrerons en contact avec vous à mon retour.
+Entre‑temps, vous pouvez m’envoyer tout autre document connexe à la présente adresse de courriel.
+[7] La requête dont je suis saisi est maintenant contestée par M. Smith et l’appelant. Les moyens de contestation invoqués sont notamment que la requête ne précise pas quels renseignements pertinents les avocats de l’intimée s’attendent à obtenir de M. Smith. Il a également été allégué que l’intimée avait tenté inadéquatement de régler la question de façon informelle, et que M. Smith avait, selon l’affidavit non contesté déposé pour son compte, rencontré un vérificateur de Revenu Canada, vraisemblablement avant l’établissement des cotisations à l’égard de l’appelant, passant [traduction] « plusieurs heures à quatre ou cinq occasions » avec celui‑ci. Je ne suis pas certain si cela veut dire plusieurs heures cumulativement à quatre ou cinq occasions, ou plusieurs heures à chacune des occasions. Mais, quoi qu’il en soit, il y a eu, de toute évidence, des discussions significatives et substantielles entre M. Smith et le vérificateur avant l’établissement des cotisations.
+[8] La réponse à l’avis d’appel énumère en détail les hypothèses sur lesquelles s’est fondé le ministre du Revenu national (le « ministre ») en établissant les cotisations à l’égard de l’appelant, et elle énonce des hypothèses précises relativement à ce qui peut être décrit généralement comme des questions touchant à l’exploitation des sociétés de personnes en cause. Il est raisonnable, en l’absence de toute preuve contraire, de conclure que les hypothèses formulées par le ministre dans ses actes de procédure et sur lesquelles il s’est fondé en établissant les cotisations ont comme sources les conversations ou les entrevues entre M. Smith et le vérificateur.
+[9] Mon interprétation de l’échange de courriels auquel j’ai renvoyé qui a eu lieu les 29 et 30 décembre 2006 me porte à croire que, si les avocats de l’intimée avaient adopté une attitude un peu moins combative dans leur réponse au premier courriel de M. Smith, il est fort possible qu’une rencontre aurait pu être organisée, et que la présente requête aurait été retirée, ou, à tout le moins, que son instruction aurait été ajournée pour faire en sorte que cette rencontre puisse avoir lieu et que l’intimée puisse obtenir des renseignements de M. Smith sans devoir le contraindre par une ordonnance de la Cour et sans être obligée de procéder à un interrogatoire en présence d’un sténographe assermenté. Au cours des débats, Me Aitken a suggéré que l’instruction de la requête soit ajournée tout de suite pour permettre la tenue de cette rencontre, mais, à mon avis, cette proposition arrive environ un mois et demi trop tard.
+[10] Tout bien considéré, je ne suis pas convaincu que l’intimée ait montré que la condition formulée à l’alinéa 99(2)a) des Règles a été remplie, parce que la partie requérante n’a pas été en mesure d’obtenir les renseignements recherchés des autres personnes qu’elle avait le droit d’interroger au préalable ou de la personne qu’elle désirait interroger.
+[11] J’arrive à cette conclusion pour deux motifs. Premièrement, la preuve non contredite indique que la partie requérante, à savoir Sa Majesté la Reine, par l’entremise du répartiteur de l’impôt agissant pour le ministre du Revenu national, a effectivement discuté avec M. Smith et obtenu de celui‑ci des renseignements pertinents sur les questions en litige, ce qui est consigné dans l’affidavit de Daniel Im. Deuxièmement, j’en viens à cette conclusion au motif que la teneur de l’échange de courriels donne nettement l’impression que la requête a été présentée de façon prématurée, et que le dépôt de celle‑ci aurait peut‑être pu être facilement évité si les avocats de l’intimée avaient répondu d’une manière plus conciliante au courriel de M. Smith en date du 29 décembre.
+[12] Compte tenu de tous ces facteurs, il me semble plus vraisemblable que l’intimée cherche maintenant non pas à obtenir des renseignements particuliers sur les questions soulevées par les actes de procédure, mais que la requête vise en réalité l’une de deux choses suivantes : soit que l’interrogatoire auquel a l’intention de procéder l’intimée est un interrogatoire à l’aveuglette, ou que son objectif réel n’est pas tant d’obtenir des renseignements que de faire consigner sous la foi du serment avant le procès la version des faits de M. Smith au moyen d’une procédure analogue à la prise des dépositions des témoins qui existe dans d’autres pays, mais pas au Canada.
+[13] Aucun de ces objectifs n’est visé par l’article 99 des Règles, et la requête sera donc rejetée, avec dépens, que je fixe à 750 $, en faveur de Dale Smith, lesquels sont à payer par l’intimée sur‑le‑champ. En ce qui concerne les parties à l’appel, les dépens afférents à la requête suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 5e jour de mars 2007.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 23e jour d’août 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2007CCI125
+Nº DU DOSSIER DE LA COUR : 2005-1930(IT)G
+INTITULÉ : Lloyd M. Teelucksingh
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 13 février 2007
+MOTIFS DE L’ORDONNANCE : L’honorable juge E.A. Bowie
+DATE DE L’ORDONNANCE : Le 13 février 2007
+COMPARUTIONS :
+Avocats de l’appelant :
+Mes A. Christina Tari et Steve Yoker
+Avocats de l’intimée :
+Mes George Boyd Aitken et Roger Leclaire
+Avocat du mis en cause,
+Dale Smith :
+Me Peter Aprile
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Noms : Mes A. Christina Tari et Steve Yoker
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

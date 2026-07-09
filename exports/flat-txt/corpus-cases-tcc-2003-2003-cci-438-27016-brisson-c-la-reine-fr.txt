@@ -1,0 +1,157 @@
+Title: Brisson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27016/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-438-27016-brisson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-07-15
+
+# Brisson c. La Reine
+
+- Citation: 2003 CCI 438
+- Decision date: 2003-07-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 626, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brisson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-15
+Référence neutre
+2003 CCI 438
+Numéro de dossier
+2002-4368(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4368(IT)I
+ENTRE :
+MICHEL BRISSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 25 mai 2003 à Shawinigan (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté, selon les motifs du jugement ci-joints.
+La Cour ordonne que les frais de 100 $ que l'appelant a dû débourser lors du dépôt de son appel lui soient remboursés.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2003.
+« Alain Tardif »
+Juge Tardif
+Référence : 2003CCI438
+Date : 20030715
+Dossier : 2002-4368(IT)I
+ENTRE :
+MICHEL BRISSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à une cotisation pour l'année d'imposition 2000.
+[2] Tous les faits pris pour acquis pour établir et maintenir la cotisation ont été admis par l'appelant. Ces faits sont les suivants :
+a) L'appelant et madame France Marcouiller se sont mariés le 4 juillet 1987;
+b) De leur union sont nés deux enfants : Mélinda et Kévin;
+c) L'appelant et madame France Marcouiller vivent séparés depuis le 23 janvier 1999;
+d) Au cours de l'année en litige, l'appelant et madame France Marcouiller avaient la garde partagée de leurs deux enfants;
+e) Au cours de l'année en litige, l'appelant versait à madame France Marcouiller une pension alimentaire au bénéfice de Mélinda et Kévin tel que définie au paragraphe 46.1(4) de la Loi de l'impôt sur le revenu.
+[3] La question en litige consiste à déterminer si le crédit, réclamé au titre d'équivalent du montant pour conjoint, par l'appelant, a été correctement rejeté par le ministre du Revenu national.
+[4] Pour l'année d'imposition 2000, l'intimée a rejeté la réclamation de 6 140 $ de l'appelant, au titre d'équivalent du montant pour conjoint pour son fils mineur, étant donné qu'il a payé, au cours de cette même année d'imposition, une pension alimentaire pour le bénéfice de cet enfant.
+[5] L'intimée s'appuie sur le jugement de l'honorable juge Lamarre dans l'affaire Lavoiec. Canada, [2001] A.C.I. no 809 (Q.L.), au paragraphe 3 :
+3. L'intimée s'appuie sur les paragraphes 56.1(4) et 118(5) de la Loi pour refuser ce crédit à l'appelant. Ces dispositions législatives se lisent comme suit :
+456.1(4)3
+(4) Définitions. Les définitions qui suivent s'appliquent au présent article et à l'article 56.
+« pension alimentaire » -- « pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+4118(1)b)3
+b) Crédit équivalent pour personne entièrement à charge - la somme de 7 131 $ et du résultat du calcul suivant:
+6 055 $ - (D - 606 $)
+où:
+D représente 606 $ ou, s'il est plus élevé, le revenu d'une personne à charge pour l'année,
+si le particulier ne demande pas de déduction pour l'année par l'effet de l'alinéa a) et si, à un moment de l'année;
+(i) d'une part, il n'est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui-ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+(ii) d'autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d'une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s'il s'agit d'un enfant du particulier,
+(B) elle est entièrement à la charge soit du particulier, soit du particulier et d'une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) sauf s'il s'agit du père, de la mère, du grand-père ou de la grand-mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d'une infirmité mentale ou physique;
+4118(5)3
+(5) Pension alimentaire. Aucun montant n'est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition si le particulier, d'une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d'autre part, selon le cas:
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l'année pour cause d'échec de leur mariage ou union de fait;
+b) demande une déduction pour l'année par l'effet de l'article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait.
+[6] L'appelant a fait valoir des arguments d'équité, de raisonnabilité et de bon sens pour soutenir le bien-fondé de son appel. Il s'est également appuyé sur un bulletin d'interprétation du ministère des Finances du Québec, en date du 5 juillet 2001, dont la partie pertinente se lit comme suit :
+1.1 Confirmation du droit pour le payeur d'une pension alimentaire de demander un crédit d'impôt à l'égard d'un enfant dont il partage la garde
+En vertu de la législation fiscale, un contribuable peut demander, pour une année d'imposition, un crédit d'impôt non remboursable à l'égard d'un enfant dont il est le père ou la mère, pour autant notamment que cet enfant ait, à un moment quelconque de l'année, habité ordinairement avec lui et été à sa charge.
+Dans l'éventualité où plusieurs contribuables peuvent demander un crédit d'impôt à l'égard d'un même enfant, la législation fiscale prévoit qu'ils doivent s'entendre pour répartir le montant du crédit d'impôt entre eux. À défaut d'entente, le ministre du Revenu peut fixer le montant que chacun de ces contribuables peut déduire dans le calcul de son impôt autrement à payer.
+Toutefois, depuis l'année d'imposition 1986, cette règle particulière avait principalement pour objectif d'empêcher qu'un contribuable puisse, à la fois, demander à l'égard de son conjoint ou de son enfant, pour une année d'imposition postérieure à celle dans laquelle était survenu l'échec de son union, une déduction pour la pension alimentaire qu'il avait payée pour l'entretien de l'une ou l'autre de ces personnes et une exemption personnelle ou un crédit d'impôt, selon le cas, à l'égard de cette même personne. Toutefois, la règle qui avait été élaborée n'avait pas pour effet de dénier cette possibilité à un contribuable dont l'enfant faisait l'objet d'une garde partagée.
+En outre, malgré la défiscalisation des pensions alimentaires pour enfants en 1997, cette règle particulière a été maintenue pour empêcher que le payeur d'une pension alimentaire pour l'entretien du conjoint ou d'un enfant puisse demander, pour une année d'imposition postérieure à celle dans laquelle est survenu l'échec de son union, un crédit d'impôt à l'égard de son conjoint ou d'un enfant ne faisait pas l'objet d'une garde partagée.
+Même si la politique fiscale vise à permettre aux contribuables partageant la garde de leurs enfants de demander un crédit d'impôt pour enfants à charge, il est possible, compte tenu du libellé de la disposition législative établissant la règle particulière, qu'un tribunal décide que le ministre du Revenu ne peut, en l'absence d'une entente entre les parents qui se partagent la garde d'un enfant, répartir entre eux le montant du crédit d'impôt demandé à l'égard de celui-ci si l'un des parents paie, à une fréquence régulière pendant toute l'année, une pension alimentaire pour l'entretien de l'enfant.
+Or, considérant, d'une part, que la législation fiscale prévoit qu'un enfant doit, en règle générale, habiter ordinairement avec le contribuable qui demande un crédit d'impôt à son égard et que la valeur de ce crédit d'impôt doit faire l'objet d'une répartition entre tous les contribuables demandant un tel crédit d'impôt et, d'autre part, que le nombre d'ordonnances prévoyant la garde partagée des enfants ne cesse de croître, la règle particulière applicable aux payeurs d'une pension alimentaire pour l'entretien d'un enfant n'apparaît plus nécessaire.
+De plus, compte tenu que le libellé de la disposition législative accordant un crédit d'impôt pour conjoint a également été modifié en 1997 pour prévoir qu'un contribuable a droit à un montant pour une personne qui, à un moment de l'année, est son conjoint si, à ce moment, il subvient aux besoins de cette personne dont il ne vit pas séparé en raison de l'échec de leur union, la règle particulière applicable aux payeurs d'une pension alimentaire pour l'entretien d'un conjoint n'a plus sa raison d'être.
+La législation fiscale sera donc modifiée pour prévoir la suppression, à compter de l'année d'imposition 2001, de la règle particulière applicable aux payeurs d'une pension alimentaire pour l'entretien d'un conjoint ou d'un enfant. De plus, pour les années d'imposition non prescrites antérieures à l'année 2001, la législation fiscale sera précisée pour confirmer que le payeur d'une pension alimentaire à l'égard d'un enfant dont il partage la garde peut, s'il satisfait aux conditions prévues par ailleurs, demander un crédit d'impôt à l'égard de cet enfant.
+[7] Il a demandé à être remboursé des droits exigés pour le motif qu'il n'aurait, sans doute, pas déposé d'avis d'appel s'il n'avait pas été encouragé par un fonctionnaire a initier un tel appel.
+[8] L'appelant a admis que la cotisation avait été établie en conformité avec les dispositions pertinentes de la Loi de l'impôt sur le revenu ( « Loi » ). Il s'agit d'ailleurs d'une question traitée à maintes reprises par cette Cour; il n'y a aucun équivoque possible quant à la portée des dispositions pertinentes.
+[9] Je ne crois pas nécessaire de refaire une fois de plus l'analyse de cette question si ce n'est rappeler quelques décisions très pertinentes suivantes :
+Gautronc. Canada, [2003] A.C.I. no 140 (Q.L.);
+Peeckc. Canada, [1998] A.C.I. no 453 (Q.L.);
+Ruelc. Canada, [1992] A.C.I. no 695 (Q.L.);
+Lavoiec. Canada, [2001] A.C.I. no 809 (Q.L.); et
+Nelson c. Canada, [2000] A.C.I. no 1613 (Q.L.).
+[10] L'appelant a alors indiqué que sa démarche devant le Tribunal consistait à obtenir un jugement pour modifier l'état actuel du droit.
+[11] L'appelant a fait valoir son point de vue d'une manière courageuse et très sympathique tout en indiquant que s'il eut connu les limites quant à l'autorité de cette Cour, quant au bien-fondé de son appel, il n'aurait certainement pas déposé d'avis d'appel eu égard au temps requis pour ce faire, à la nervosité qu'il a dû surmonter et à tout l'inconnu qu'une telle démarche sous-entendait.
+[12] À la suite des représentations fort sympathiques de l'appelant, le Tribunal lui a expliqué qu'il ne suffisait pas de faire valoir des arguments d'équité, mais qu'il était essentiel de soumettre des arguments découlant seulement de la Loi puisque la Cour canadienne de l'impôt est tenue d'appliquer la Loi et ne peut rendre des jugements basés sur l'équité.
+[13] Le regretté honorable Juge Christie de cette Cour a bien exprimé cette contrainte dans l'affaire Martin c. Canada, [1993] A.C.I. no 45 (Q.L.). Il s'exprimait comme suit :
+[TRADUCTION]
+Au procès, l'appelante a déclaré qu'elle croyait que la nouvelle cotisation établie à son égard était « conforme à la Loi » . Elle soutient toutefois que la loi est « injuste » , et il est évident, d'après ses propos, qu'elle a l'impression que la présente Cour a une certaine compétence générale pour invalider des cotisations d'impôt sur le revenu lorsqu'on peut la convaincre du caractère injuste de la loi fiscale en cause. Ce n'est pas le cas. La présente Cour est tenue d'appliquer la Loi telle qu'elle a été adoptée par le législateur et, pour ce faire, elle doit essentiellement attribuer aux termes utilisés dans la loi applicable leur sens habituel et grammatical. Dans l'affaire Planetta v. M.N.R., 87 DTC 554, cette idée est formulée comme suit, à la page 556 :
+« Si les termes employés par le législateur sont clairs, cette Cour doit les appliquer. Agir autrement consisterait à empiéter sur les fonctions du législateur sous prétexte d'interpréter la loi. De plus, comme l'observait Lord Greene dans l'affaire Howard De Walden v. Inland Revenue Commissionners, [1942] 1 All E.R. 287 à 289 : « Il n'y a pas lieu d'interpréter les termes (d'une loi sur l'impôt) en forçant le sens simplement parce qu'ils peuvent à d'autres égard entraîner des conséquences qui pour certains semblent injustes. »
+À cet égard, on a dit, dans l'affaire Kliman v. Winckworth, 17 T.C. 569, à la page 572 :
+« Les considérations d'équité n'ont évidemment pas leur place dans une loi fiscale si, par « équité » , les commissaires entendaient, comme je le suppose, les facteurs qui, selon eux, entraîneraient un résultat juste dans toutes les circonstances. Il appartient bien sûr au législateur et non aux tribunaux de tenir compte de questions de ce genre. »
+[14] Le regretté juge Sobier a également traité de l'autorité de cette Cour dans l'affaire SunilLighting Products c. Canada, [1993] A.C.I. no 666 (Q.L.), Il s'exprimait comme suit au paragraphe 18 :
+La jurisprudence indique clairement que la Cour canadienne de l'impôt n'est pas une cour d'équité et que sa compétence repose sur les dispositions de sa loi d'habitation [...] En outre, la Cour n'est pas habilitée à rendre un jugement déclaratoire, étant donné que cela excède sa compétence [...] Dans le cas des appels portant sur l'impôt sur le revenu, les pouvoirs de la Cour sont énoncés au paragraphe 171(1) de la Loi de l'impôt sur le revenu. Ces pouvoirs consistent donc essentiellement à déterminer si la cotisation a été établie conformément aux dispositions de la Loi de l'impôt sur le revenu [...]
+[15] Pour les raisons précédemment indiquées, l'appel doit être rejeté; en effet, le crédit réclamé, au titre d'équivalent du montant pour conjoint, a été refusé conformément aux dispositions de la Loi. J'ordonne cependant que le montant de 100 $ que l'appelant a dû débourser lors du dépôt de son appel lui soit remboursé.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2003.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI438
+No DU DOSSIER DE LA COUR :
+2002-4368(IT)I
+INTITULÉ DE LA CAUSE :
+Michel Brisson et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Shawinigan (Québec)
+DATE DE L'AUDIENCE :
+le 5 mai 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 15 juillet 2003
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Marie-Aimée Cantin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

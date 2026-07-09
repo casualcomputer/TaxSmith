@@ -1,0 +1,225 @@
+Title: Liddle v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29394/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-451-29394-liddle-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-11
+
+# Liddle v. The Queen
+
+- Citation: 2009 TCC 451
+- Decision date: 2009-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6885, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Liddle v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-11
+Neutral citation
+2009 TCC 451
+File numbers
+2005-4271(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4271(IT)G
+BETWEEN:
+THOMAS GERALD (GERRY) LIDDLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Thomas Gerald (Gerry) Liddle (2005‑3409(GST)G)
+on June 16 and 17, 2009 at Sault Ste. Marie, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nicolas Simard
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to Notice of Assessment dated March 9, 2004 is dismissed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Summerside, Prince Edward Island, this 11th day of September 2009.
+"Diane Campbell"
+Campbell J.
+Docket: 2005-3409(GST)G
+BETWEEN:
+THOMAS GERALD (GERRY) LIDDLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Thomas Gerald (Gerry) Liddle (2005‑4271(IT)G)
+on June 16 and 17, 2009 at Sault Ste. Marie, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appeallant himself
+Counsel for the Respondent:
+Nicolas Simard
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, Notice of Assessment number 100240738-A103885, dated March 9, 2004, is dismissed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Summerside, Prince Edward Island, this 11th day of September 2009.
+"Diane Campbell"
+Campbell J.
+Citation: 2009 TCC 451
+Date: 20090911
+Dockets: 2005-4271(IT)G
+2005-3409(GST)G
+BETWEEN:
+THOMAS GERALD (GERRY) LIDDLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] These appeals deal with the liability of the Appellant, in his capacity as director of AquaNorth Farms Inc. (“Farms”) in respect to the failure of Farms to remit net tax – GST under the Excise Tax Act (“ETA”) together with payroll source deductions under the Canada Pension Plan (“CPP”) and the Employment Insurance Act (“EIA”). Penalties and interest were also imposed. The Appellant was assessed for these amounts pursuant to subsection 323(1) of the ETA and subsection 227.1(1) of the Income Tax Act (the “Act”).
+[2] Subsections 21.1(1) of the CPP and 83(1) of the EIA make the directors of a corporation, where the corporation is an employer, jointly and severally liable with the corporation, for failure to remit amounts under these provisions:
+Liability
+21.1(1) If an employer who fails to deduct or remit an amount as and when required under subsection 21(1) is a corporation, the persons who were the directors of the corporation at the time when the failure occurred are jointly and severally or solidarily liable, together with the corporation, to pay to Her Majesty that amount and any interest or penalties relating to it.
+[3] Similarly, subsection 83(1) of the EIA states:
+Liability of directors
+83.(1) If an employer who fails to deduct or remit an amount as and when required under subsection 82(1) is a corporation, the persons who were the directors of the corporation at the time when the failure occurred are jointly and severally, or solidarily, liable, together with the corporation, to pay Her Majesty that amount and any related interest or penalties.
+[4] Subsection 21.1(2) of the CPP and subsection 83(2) of the EIA provide that subsections 227.1(2) to (7) of the Income Tax Act apply to a director of such a corporation under the CPP and EIA.
+[5] Section 227.1 of the Act states:
+Liability of directors for failure to deduct
+227.1.(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+Limitations on liability
+227.1.(2) A director is not liable under subsection 227.1(1), unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+227.1.(3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+Limitation period
+227.1.(4) No action or proceedings to recover any amount payable by a director of a corporation under subsection 227.1(1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+Amount recoverable
+227.1.(5) Where execution referred to in paragraph 227.1(2)(a) has issued, the amount recoverable from a director is the amount remaining unsatisfied after execution.
+Preference
+227.1.(6) Where a director pays an amount in respect of a corporation's liability referred to in subsection 227.1(1) that is proved in liquidation, dissolution or bankruptcy proceedings, the director is entitled to any preference that Her Majesty in right of Canada would have been entitled to had that amount not been so paid and, where a certificate that relates to that amount has been registered, the director is entitled to an assignment of the certificate to the extent of the director's payment, which assignment the Minister is hereby empowered to make.
+Contribution
+227.1.(7) A director who has satisfied a claim under this section is entitled to contribution from the other directors who were liable for the claim.
+[6] The wording of section 323 of the ETA is almost identical to section 227.1 of the Act. It states:
+Liability of directors
+323.(1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+Limitations
+(2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+Diligence
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+Assessment
+(4) The Minister may assess any person for any amount payable by the person under this section and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances require.
+Time limit
+(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+Amount recoverable
+(6) Where execution referred to in paragraph (2)(a) has issued, the amount recoverable from a director is the amount remaining unsatisfied after execution.
+Preference
+(7) Where a director of a corporation pays an amount in respect of a corporation's liability referred to in subsection (1) that is proved in liquidation, dissolution or bankruptcy proceedings, the director is entitled to any preference that Her Majesty in right of Canada would have been entitled to had the amount not been so paid and, where a certificate that relates to the amount has been registered, the director is entitled to an assignment of the certificate to the extent of the director's payment, which assignment the Minister is empowered to make.
+Contribution
+(8) A director who satisfies a claim under this section is entitled to contribution from the other directors who were liable for the claim.
+The Facts:
+[7] Farms began operations in 1983. The Appellant started the company as a tree nursery operation, growing tens of millions of trees from seed to seedlings for delivery under contract to forest companies involved in reforestation. The Appellant was the President, CEO and a director of Farms. Although the Appellant’s wife was also a director, the evidence suggests that her involvement in the business was limited.
+[8] In 1995, Farms received a significant capital investment from Environmental Research and Development Capital Corporation (“ERD”). ERD was created to invest large capital amounts in promising businesses in the environmental and infrastructure sectors of the Canadian economy. Derrick Rolfe was the managing director and founder of this venture capital fund. According to Mr. Rolfe, ERD did not run businesses that it invested in but instead simply monitored those investments through shareholder agreements. Mr. Rolfe testified that when ERD invested capital in a business, shareholder agreements were always executed in order to protect ERD’s involvement where potential adverse events might occur such as corporate reorganization, issuance of shares or dividend declaration. He stated that this gave ERD’s investment some protection without involving ERD in the day-to-day operations of the businesses in which it invested. Mr. Rolfe testified that ERD wanted to invest in Farms because of the up and coming carbon credit industry and the fact that Farms was a company that converted carbon dioxide to oxygen through the growth of trees.
+[9] To facilitate ERD’s investment in Farms, AquaNorth Holdings (“Holdings”) was incorporated with the Appellant holding 60% of the shares through his corporation, Jocopa Investments, and ERD holding the remaining 40% of those shares. The Appellant was a director of Holdings as was Mr. Rolfe, as the representative of ERD.
+[10] By 2001, Farms was in financial difficulties and the relationship between Mr. Rolfe and the Appellant had become extremely acrimonious. This was self‑evident in the caustic exchanges which occurred between these two individuals during the hearing. Backing up to 1998 one of ERD’s major institutional lenders, Philip Service Board, went bankrupt. Consequently, between 1998 and 2001, Mr. Rolfe attempted to realize on ERD’s six investments, including Farms. He testified that ERD decided not to invest further in Farms and in fact discussions occurred with the Appellant respecting the sale of ERD’s shares in Holdings to the Appellant. The Appellant testified that Farms needed to refinance as a result of a number of factors including ERD’s withdrawal of its investment, the existing debt load of Farms and the state of the Canadian economy after 9/11. However, according to Mr. Rolfe, during a meeting in the fall of 2001, he learned that the Appellant had promised the Royal Bank that if Farms could get further refinancing from this bank ERD would be investing more capital. Mr. Rolfe testified that, since he was receiving only annual financial statements from the business, he was unaware, until this meeting, that the Appellant was attempting to refinance Farms by suggesting ERD would invest more funds. As a result of his concern over ERD’s investment in Farms, Mr. Rolfe began attempts to obtain financial information about this business so that he could make an informed decision concerning the future of ERD’s investment in light of the bankruptcy of one of its major lenders.
+[11] According to Mr. Rolfe’s testimony, the Appellant frustrated all of his efforts to obtain financial information. He stated that he wrote letters, sent emails and tried phoning the Appellant but that the Appellant resisted all of these efforts. It appears that ERD was entitled to this information pursuant to the shareholder agreement. When these attempts failed, Mr. Rolfe tried to solicit new investors and purchasers. According to Mr. Rolfe, the Appellant actively prevented those potential investors from obtaining access to view the facilities, including calling the police. The Appellant’s testimony was that none of these potential investors had signed non-disclosure agreements before viewing the premises. Following these events, Mr. Rolfe engaged Ernst & Young on December 19, 2001 to act as consultants on ERD’s behalf in a further attempt to obtain financial information. They were unsuccessful in accessing any information because the Appellant had apparently removed the pertinent records from the business premises and as a result Ernst & Young could not determine the future viability of the business.
+[12] On January 17, 2002, ERD’s solicitors sent correspondence to Holdings formally demanding repayment of various amounts owing to ERD together with a Notice of Intention to Enforce Security pursuant to the Bankruptcy and Insolvency Act (Exhibit R-1, Tab 14). Attached to this Notice is an Order of the Ontario Superior Court of Justice appointing Ernst & Young as interim receiver of Holdings and allowing Ernst & Young access to the financial information of the business. Mr. Rolfe’s evidence was that the objective of this Order was to enable Ernst & Young to ascertain what was going on in the business but that it did not give Ernst & Young any control over the business operations. Mr. Rolfe stated that despite this Order, the Appellant continued to control the operations of Holdings and Farms because, according to Mr. Rolfe, the Appellant had negotiated and secured additional funding through the senior lender, the Royal Bank, during December 2001 in which the bank permitted the Appellant to continue to write cheques and operate the business.
+[13] By early March 2002, Farms was unable to meet its obligations to either ERD or the Royal Bank and the latter appointed Deloitte & Touche and forced Farms into receivership on March 4, 2002. Farms was bankrupt by July 24, 2002.
+[14] On March 9, 2004, the Appellant was assessed for unremitted source deductions, penalties and interest pursuant to section 227.1 of the Act, section 38 of the Ontario Tax Act, sections 21 and 21.1 of the CPP and sections 82 and 83 of the EIA. The Appellant was also assessed on March 9, 2004 for GST deducted at source but not remitted by Farms together with penalties and interest. According to the evidence of Helene Ciutti, a collections officer with the insolvency unit of the Canada Revenue Agency (the “CRA”), the Appellant was assessed for the period October 1, 2001 to December 31, 2001 with respect to GST and for unremitted source deductions for the month of February 2002.
+[15] On August 26, 2002, Farms was assessed for failure to deduct and remit source deductions, interest and penalties pursuant to section 153 of the Act. On October 1, 2002, CRA made a claim for the amount of the corporation’s liability following Farms’ bankruptcy on July 24, 2002. On October 2, 2002, CRA made a claim for unpaid GST. As a result, the legal prerequisite found in paragraph 227.1(2)(c) of the Act was satisfied.
+Appellant’s Position:
+[16] The Appellant contends that during the relevant period under appeal he was not a director of Farms and therefore not liable pursuant to section 227.1 of the Act or subsection 323(1) of the ETA. Although he and his wife are named as legal directors of Farms on the Corporate Profile Report of the Province of Ontario during the relevant period and both received salaries as directors, the Appellant insists that, at the time the corporation was required to remit or pay the amounts of net tax and source deductions, he was no longer a director. His argument is that beginning in the fall of 2001 until May/June 2002, two receivership processes resulted in the removal of his capacity to control the affairs of the business, thereby effectively removing his authority as a director. He submits that Mr. Rolfe’s correspondence of December 21, 2001 terminated his duties as director. In the alternative, the Appellant claims that the Court Order of January 22, 2002 removed him as director prior to the monies becoming due and payable to CRA.
+[17] The Appellant further submits that, even if he was a director, the due diligence defence is available to him because he exercised the degree of care, diligence and skill to prevent the failure to remit that a reasonably prudent person would have exercised in comparable circumstances pursuant to subsection 227.1(3) of the Act and subsection 323(3) of the ETA.
+The Respondent’s Position:
+[18] The Respondent submits that the Appellant was a director of Farms at all relevant times and maintained control of the day-to-day business operations of Farms until March 4, 2002, the date that Deloitte & Touche obtained the receivership of Farms. As the full liability for unremitted GST and payroll deductions were incurred prior to March 4, 2002, the Appellant is liable as a director of Farms as he failed to exercise due diligence in preventing this failure of Farms to remit those amounts. The Respondent argued that the Court Order of January 22, 2002, which ERD obtained to have Ernst & Young act as interim receivers, did not remove the Appellant as director because the Royal Bank as senior lender intervened and appointed its own receivers, Deloitte & Touche, to monitor the company. However, the Royal Bank allowed the Appellant to sign cheques and continue to operate the company in his role as director. When the Royal Bank actually obtained its own Court Order and implemented the receivership of Farms, it was March 4, 2002, which was subsequent to the relevant periods under appeal and after the amounts in issue were required to be remitted.
+The Issues:
+[19] Was the Appellant a director of Farms during the relevant periods under appeal? If he was not a director, he will not be liable for the unremitted GST, CPP and EI source deductions.
+[20] If the Appellant was a director of Farms, did he act with due diligence? If he did, he will not be liable for these amounts.
+Analysis:
+(A) Was the Appellant a director of Farms?:
+[21] The Appellant need only demonstrate that he was not a director of Farms at the time that Farms was required to remit the net tax and source deductions. In Robitaille v. The Queen, 90 D.T.C. 6059, Justice Addy stated that where effective control of a corporation has been taken over by a bank, without a request by the directors, and where decisions as to issuing cheques are exclusively made by the bank, again without consultation with the board of directors, the corporation’s actions regarding remittances, payments or withholdings will be essentially those of the bank. Consequently, since subsection 227.1(1) contemplates that a corporation is acting freely through its board of directors, in these circumstances there would be no liability on the directors.
+[22] Similarly, in Champeval et al. v. M.N.R., 90 D.T.C. 1291, Couture C.J. decided that if directors did not have free choice in the corporate decisions due to factors completely beyond their control, they cannot be bound by subsection 227.1(1). However, in White v. M.N.R., 91 D.T.C. 54, a 1990 Tax Court decision adopted the reasoning in Fraser v. M.N.R., 87 D.T.C. 250, over more recent jurisprudence and upheld the Minister’s assessment on the basis that the direct responsibility of a director was to prevent the company’s failure to deduct or remit.
+[23] It is clear from the evidence that the Appellant and his wife were the legal directors of Farms. The Appellant, through one of his corporate entities, was also majority shareholder and a director of Holdings. When the relationship between the Appellant and Mr. Rolfe became riddled with problems, Mr. Rolfe sent correspondence to Farms to the attention of the Appellant, dated December 20, 2001 (Exhibit R-1, Tab 12) advising of various breaches of a Forbearance Agreement (not entered into evidence) with ERD and requesting access to the premises to show the property to potential purchasers. The following day, December 21, 2001, Mr. Rolfe, again on behalf of ERD, forwarded a second letter to Farms requesting that the Appellant “cease providing authorization over payments from the AquaNorth accounts”. It went on to state “You are also hereby advised that your duties and entitlements as a director of AquaNorth are terminated and you will therefore not attend any Board meetings previously contemplated by you” and “in the interim you are not required to attend the offices except for management meetings we schedule”. Therefore, one of the dates on which the Appellant argued that he lost control as a director over corporate activities was the date of this last letter, December 21, 2001. However, it is clear from the evidence that the Appellant ignored this letter and simply filed it under miscellaneous. He was successful in frustrating any attempt by Mr. Rolfe to access the premises with potential purchasers or to obtain financial information on behalf of ERD. In fact, Mr. Rolfe hired Ernst & Young as consultants hoping that the firm could obtain this financial information but they too failed.
+[24] The Appellant admitted that “From September through to December I was aware of what the company was doing and the cheques that were being written …” (Transcript, page 123). The evidence supports that the Appellant continued to be in control after the December 21, 2001 letter. He had been in this business for many years and was fully aware that the company was in financial difficulty and needed to be refinanced. He apparently continued to negotiate with the Royal Bank and the evidence suggests that he secured further advances from the bank. At pages 148 to 150 of the Transcript the following exchange occurred during cross-examination by Respondent counsel:
+Q. He’s calling you saying your answering machine is off, you’re not returning my calls. Now you’re telling us well, he could have called any time.
+A. There were plenty of instances where I was not there. I was travelling back and forth down to the St. Williams nursery. If he was calling -- this is before cell phones, of course -- if I was travelling down to St. Williams, driving as I typically did, I wouldn’t have been available.
+During that period of time it was very hectic and chaotic. We were in a financial crisis, at a point in the year where our operations are at peak. The weeks before Christmas we’re packaging the trees. They’ve been grown all year and when we hit the December, January period there’s a huge cashflow requirement and huge labour intensive seasonal operations.
+At that point we would have had over two hundred employees working in the facilities, three shifts a day. Management teams going full out, while there’s a financial crisis on.
+It’s not surprising at all that I wasn’t sitting beside my telephone waiting for a call from Mr. Rolfe.
+(Transcript, page 148, line 25; page 149, lines 1-25; page 150, line 1)
+[25] It appears that the Appellant was going full tilt with business operations during peak season, December 2001 to January 2002. The fact that the Appellant ignored this December 21, 2001 letter from ERD and treated it as ineffectual is supported by the subsequent action of ERD in engaging legal counsel in January 2002 to apply for an Order of the Court to have Ernst & Young appointed as interim receivers. If, as the Appellant contends, Mr. Rolfe, on behalf of ERD, had taken control by virtue of the December 21, 2001 letter, there would have been no need to hire lawyers to convince a court to issue an order to AquaNorth for the release of financial information to Ernst & Young. At one point in the Appellant’s evidence he stated that he lost control of the company in November 2001 as a result of two receivership processes. The January 22, 2002 Order was the first receivership order and therefore the Appellant’s evidence that he lost control in November 2001 is simply incorrect. At another point in his evidence, the Appellant submitted that this January 22, 2002 date was the last possible date that he could have been a director because that Order removed him as a director. Mr. Rolfe’s evidence is that he obtained this Order with the intention of removing the Appellant as director and ultimately gaining control of the company so it could be sold in the hope that ERD could realize on its investment. However, he testified that he was frustrated again in these efforts because the Appellant undermined him by negotiating with the main lender, the Royal Bank, without Mr. Rolfe’s knowledge. Mr. Rolfe testified that the Royal Bank agreed to lend more money to the company and to keep the Appellant on to sign cheques and operate the business with Deloitte & Touche monitoring the activities. During the direct examination of Mr. Rolfe, Respondent counsel asked (Transcript, pages 253-254):
+Q. So on January 22nd, 2002 who was the director of Farms?
+A. Mr. Liddle. We had access to nothing so, absolutely nothing. No records, no offices, no -- we had nothing, so he stayed and that was it.
+Q. So you tried to remove him?
+A. Oh, we tried. Oh, we did try and he ran to the Royal Bank and, you know, I don’t think the Royal Bank would have been fond of letting Ernst & Young run something that they were going to run. I mean, Deloitte & Touche. Deloitte & Touche were already in with the monitor, I believe, and in the natural progression the bank, as the senior lender -- if I were senior lender and were in position I’d say yeah, look, I’m the senior lender I will appoint and –
+[26] In late February 2002, the Royal Bank applied to the Court to have Deloitte & Touche appointed as receivers and that order was obtained on March 4, 2002 (Exhibit R-1, Tab 17).
+[27] There were some inconsistencies in the Appellant’s recall of events and dates but Mr. Rolfe’s testimony on the sequence of events was simply more convincing. In all probability ERD would either have to take a back seat to the actions of the priority lender or step in pursuant to their receivership order of January 22, 2002 assuming full responsibility for the Royal Bank debt as well as their own. It seems logical that, if the priority lender advanced further funds and instilled the Appellant in the position of operating the business with the authority to sign cheques, ERD in the month that these events were occurring, subsequent to the January 22, 2002 order, simply stepped aside and let things play out. The Appellant admitted to cooperating with Deloitte & Touche, who were monitoring the business. He could not have done so if he had already lost control of the business. Any cooperative efforts with Deloitte & Touche would certainly have occurred after December 2001 and probably after January 22, 2002. Both of these dates were alleged by the Appellant as being potential dates on which he had been stripped of control and was no longer a director. Unlike the facts in Robitaille, the Appellant in this appeal was not stripped of his involvement with the business as he alleges. He never legally resigned as a director and, according to his evidence, he continued to work closely with the Royal Bank to obtain further refinancing and to meet contractual obligations with the customers. He continued to successfully shut ERD out of the business, to work with the primary lender behind ERD’s back and to cooperate with Deloitte & Touche in operating the business. All of this supports that the Appellant was a director for the purposes of subsection 227.1(1) of the Act and subsection 323(1) of the ETA during the relevant periods (October 1, 2001 to December 31, 2001 and February 2002).
+[28] In summary, neither ERD’s correspondence of December 21, 2001 nor the Order of January 22, 2002, effectively removed the Appellant as director of the business during the relevant periods. The Appellant treated the correspondence as simply a letter without legal authority and chose to ignore it. ERD decided not to execute the Order of January 22, 2002 because of on-going actions of the Appellant, the Royal Bank and Deloitte & Touche. In addition, this Order was aimed primarily at disclosure of financial information. Until at least March 4, 2002, the date of the Royal Bank receivership order, the Appellant remained sufficiently involved in the day-to-day operations, including making decisions and signing cheques, to support a conclusion that he remained in effective control as a director during the relevant periods.
+(B) As the director of Farms, during the relevant periods, did the Appellant act with due diligence?:
+[29] Whether the Appellant has exercised due diligence is essentially a question of fact to be determined within a set of legal standards. The applicable subsection 227.1(3) of the Act and subsection 323(3) of the ETA, employ almost identical language and provide a director with a potential defence to liability pursuant to subsection 227.1(1) of the Act and subsection 323(1) of the ETA. The question therefore that must be addressed in respect to both of these subsections is whether the Appellant can escape liability for the company’s failure to remit net tax and source deductions because he exercised the degree of care, diligence and skill to prevent this failure that a reasonably prudent person would have exercised in comparable circumstances.
+[30] Generally, directors must take every reasonable effort to ensure that corporate deductions and other amounts owing in respect to tax are collected, withheld and then properly remitted. Directors will be expected to show the specific steps and actions that were taken to prevent this failure. Various methods may be implemented, depending on the circumstances, to achieve this end, including establishing separate accounts for such withholdings, regular communication and reporting between directors and the corporate accountants, financial officers and lending institutions and monitoring by obtaining periodic confirmation that remittances are current. However, there is no legal requirement that any of these methods or systems are utilized but they will go a long way to preventing such a failure in the first place and assisting a director in avoiding potential liability by supporting the argument that the director has exercised the diligence that a reasonably prudent person would have.
+[31] So, is the legal test to be applied in measuring a director's behaviour and actions in the circumstances of each case an objective test or a subjective/objective test? The Federal Court of Appeal decision in Soper v. The Queen, 97 D.T.C. 5407 at page 5416, referred to the standard of care as a combination of subjective/objective components:
+The standard of care set out in subsection 227.1(3) of the Act is, therefore, not purely objective. Nor is it purely subjective. It is not enough for a director to say he or she did his or her best, for that is an invocation of the purely subjective standard. Equally clear is that honesty is not enough. However, the standard is not a professional one. Nor is it the negligence law standard that governs these cases. Rather, the Act contains both objective elements -- embodied in the reasonable person language -- and subjective elements -- inherent in individual considerations like "skill" and the idea of "comparable circumstances". Accordingly, the standard can be properly described as "objective subjective".
+[32] This decision maintains that the standard of care in respect to the subjective test requires that a Court looks at the director's particular background, knowledge, skills and experience in determining if the director exercised due diligence. The objective test will then be applied to determine whether the director, measured against his or her personal background, acted reasonably.
+[33] After the 2004 Supreme Court of Canada decision in Peoples Department Stores v. Wise, [2004] 3 S.C.R. 461, many have questioned whether the test in Soper has been overruled. At page 491, the Supreme Court stated the following:
+63 … We prefer to describe it as an objective standard. To say that the standard is objective makes it clear that the factual aspects of the circumstances surrounding the actions of the director or officer are important in the case of the s. 122(1)(b) duty of care, as opposed to the subjective motivation of the director or officer, which is the central focus of the statutory fiduciary duty of s. 122(1)(a) of the CBCA.
+[34] It appears that the Federal Court of Appeal has not treated the decision in Peoples as changing significantly the test as it is set out in Soper. In Hartrell v.The Queen, 2008 D.T.C. 6173, at paragraph 12, the Court stated:
+[12] The appellant argued that the decision of the Supreme Court of Canada in Peoples Department Stores Inc. (Trustees of) v. Wise 2004 SCC 68 changed the test with respect to the due diligence defence from the "objective subjective" test, in Soper, to simply an "objective" test. Whether Peoples Department Stores can be said to have eliminated the subjective aspects of the due diligence defence in subsection 227.1(3) of the ITA is not entirely clear since that the decision dealt with a provision of the Canada Business Corporation Act R.S.C. 1985, c. B-3. In that regard, the Supreme Court of Canada, in paragraph 63 of the decision, stated that:
+With respect, we feel that Robertson J.A.'s characterization of the standard as an "objective subjective" one could lead to confusion. We prefer to describe it as an objective standard. To say that the standard is objective makes it clear that the factual aspects of the circumstances surrounding the actions of the director or of the officer are important in the case of the s. 122(1)(b) duty of care, as opposed to the subjective motivation of the director or officer, which is the central focus of the statutory fiduciary duty of s. 122(1)(a) of the CBCA.
+If Peoples Department Stores did change the test to be applied under subsection 227.1(3) of the ITA to one that requires due diligence to be demonstrated on a purely objective standard, such a new test would be more difficult to meet than a test that contains some elements of subjectivity. As such, we are unable to see how the potential application of Peoples Department Stores could be helpful to the appellant.
+Again at paragraph [14], the Court made reference to the Soper decision and affirmed the application of the due diligence defence according to Soper:
+[14] Based upon the evidence before the TCC, we are of the view that it was open to the TCC to make these factual findings. Accordingly, we are not persuaded that the TCC made any palpable and overriding error in applying due diligence defence in Soper to these factual findings and in reaching the conclusion that Mr. Hartrell had failed to exercise the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances to prevent the source deduction remittance shortfalls that occurred in 1998.
+[35] Clearly the Soper test has been applied by this Court since the Peoples decision and endorsed by the Federal Court of Appeal. It would appear to be the appropriate and preferable test to apply in this appeal. The Appellant testified that the standard is not perfection and that he did his best. He claimed that he acted responsibly and that there was nothing he could have done. He testified that GST was charged to customers on the invoices and on progress payments. These amounts were entered on the corporate books as accounts receivable. The customers paid the GST. Farms collected this money and deposited it to a bank account. In the normal course of business, Farms was subject to audit standards through KPMG, according to the Appellant's evidence. He did not want to wind the business down or let it go bankrupt. To prevent the demise of his company, he was busy travelling to secure new customers and contacts and attempting to secure additional financing.
+[36] Did all of this amount to positive action by the Appellant to ensure that these amounts, which were charged to customers and then collected and deposited, were being remitted to the Receiver General? What were the reasonable steps, if any, that he took to prevent this failure by Farms to remit these amounts, before that failure occurred? Based on the facts, I must conclude that the Appellant has failed to adduce sufficient evidence to establish the defence of due diligence.
+[37] While the Appellant made a number of assertions that he acted reasonably and did everything he could do, they were simply assertions. The Appellant failed to support these assertions with evidence of the proactive steps which he took and of the installation of reliable corporate systems and controls that were not only in place, within the corporate entity, but were actually being followed during the period when these amounts were to be remitted to the Receiver General. According to the Appellant's evidence, deductions were taken and GST collected but these amounts were not remitted. As of September 2001, the Appellant was aware that Farms was experiencing financial difficulties. In fact, he testified that he anticipated these difficulties one year prior to this when one of ERD'S major investors was unable to fulfil its loan obligations. This means that the Appellant had knowledge of financial difficulties prior to the commencement of the relevant periods in these appeals, being October 1, 2001, and that he was probably aware of the potential for difficulties one year prior to October 1, 2001. The case law supports that, when a company is experiencing financial hardship, a director has a higher duty to ensure that remittances are being properly made. Therefore, the Appellant may well be held to an even higher standard of care because he admitted that he was aware of these financial problems prior to the periods under appeal. Without proper systems and controls in place, such as a tracking system by way of a separate bank account for these remittances, it is the lure of available cash that entices so many companies, when financially strapped, to dip into funds that should be earmarked for source deductions and GST remittances. That appears to be what occurred with Farms. There was no evidence of sufficient safeguards in place to prevent the failure to remit these amounts. Although there was evidence that some measures had been set up such as audits by KPMG, I had no evidence of how this system may have been working or if it was being followed in the period when Farms was experiencing difficulties. In fact, Mr. Rolfe testified that KPMG's figures were inaccurate because some cash was not being deposited to the corporate account. Also according to Mr. Rolfe, financial information was removed from the premises and that Deloitte & Touche could not complete historical financial records.
+[38] The Appellant admitted that from September 2001 to December 2001, he was aware of what the company was doing and the cheques that were being written. He also admitted that he was aware of late payments to the Receiver General but he believed that "it would sort itself out". It is apparent that the Appellant was busy during the period, prior to and subsequent to October 1, 2001, actively securing financing and ensuring completion of contracts, in an effort to salvage his company — his "baby", as he referred to it in his evidence. However, hoping remittances will eventually sort themselves out in the midst of this flurry of activity is choosing to stick one’s head in the sand. At some point, the tide is going to come in.
+[39] The Appellant has been involved in the forestry business for many years. He has a business degree and has been conducting business since 1983. Farms was one of the largest suppliers of seedling trees to the forest industry. Against the background of the Appellant's education, his many years in this industry, his experience with lending institutions and business practice, and his admission that he was aware of corporate actions, aware of the cheques being written and aware that remittances were late, I must conclude that the Appellant failed to act prudently in making reasonable efforts to ensure these remittances were made to the Receiver General. The Appellant took no concrete actions to prevent the shortfall in these remittances and, consequently, failed to exercise the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances to prevent such failure.
+[40] For these reasons, the appeals are dismissed with costs.
+Signed at Summerside, Prince Edward Island, this 11th day of September 2009.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2009 TCC 451
+COURT FILE NO’S.:
+2005-4271(IT)G and
+2005-3409(GST)G
+STYLE OF CAUSE:
+Thomas Gerald (Gerry) Liddle and
+Her Majesty the Queen
+PLACE OF HEARING:
+Sault Ste. Marie, Ontario
+DATES OF HEARING:
+June 16 & 17, 2009
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+September 11, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nicolas Simard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

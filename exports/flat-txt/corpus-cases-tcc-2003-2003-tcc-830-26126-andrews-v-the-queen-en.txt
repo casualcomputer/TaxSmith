@@ -1,0 +1,134 @@
+Title: Andrews v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26126/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-830-26126-andrews-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-11-07
+
+# Andrews v. The Queen
+
+- Citation: 2003 TCC 830
+- Decision date: 2003-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4121, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Andrews v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-07
+Neutral citation
+2003 TCC 830
+File numbers
+2003-349(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-349(IT)I
+BETWEEN:
+LOIS E. ANDREWS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 12, 2003 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Craig Maw
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of the assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Ottawa, Canada, this 7th day of November, 2003.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2003TCC830
+Date: 20031107
+Docket: 2003-349(IT)I
+BETWEEN:
+LOIS E. ANDREWS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Lois Andrews appeals an assessment for the 2000 taxation year that disallowed a tax credit in respect of tuition fees paid to a college in London, England. The question for determination is whether the college is a university and whether the course attended led to a degree.
+[2] The appeal was heard under the Informal Procedure.
+Facts
+[3] Ms. Andrews' daughter, Emily, wished to pursue an education in acting and dance. She auditioned, unsuccessfully, for one of only six openings at Canada's National Theatre School. Emily then enrolled at The London Academy of Music and Dramatic Art in London, England (the "Academy") and paid annual tuition of approximately $20,000. After having satisfactorily completed a three-year acting course, the Academy awarded Emily with a diploma.
+[4] Emily received a second diploma relating to this course from an examinations board named Trinity College London. The function of the examinations board is to guarantee quality and standards in education and for this purpose it evaluates courses at various colleges and grants diplomas of different levels. The certification on Emily's diploma was "The National Diploma in Professional Acting, Level 4 - National Qualifications Framework." Level 4 is the second highest level of qualification granted by the examinations board and it is considered to equate to a first degree.
+[5] Emily Andrews made a designation to transfer the tax credit in respect of tuition fees paid to the Academy to her mother pursuant to section 118.81 of the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1 (the "Act").Lois Andrews claimed a tax credit of $850 in respect of this transfer pursuant to section 118.9 which was disallowed by the Minister of National Revenue.
+Statutory Provisions
+[6] The relevant requirements of the tuition tax credit are set out in paragraph 118.5(1)(b) as follows:
+(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+...
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the university,
+[7] Sections 118.81 and 118.9 of the Act permit the tax credit to be transferred to another person. For the relevant year, they provide:
+118.81. In this subdivision, the tuition and education tax credits transferred for a taxation year by a person to an individual is the lesser of
+(a) the amount determined by the formula
+A - B
+where
+A is the lesser of
+(i) the total of all amounts that may be deducted under section 118.5 or 118.6 in computing the person's tax payable under this Part for the year, and
+(ii) $850, and
+B is the amount that would be the person's tax payable under this Part for the year if no amount were deductible under this Division (other than an amount deductible under section 118, 118.3, 118.61 or 118.7), and
+(b) the amount for the year that the person designates in writing for the purpose of section 118.8 or 118.9.
+118.9. Where for a taxation year a parent or grandparent of an individual (other than an individual in respect of whom the individual's spouse deducts an amount under section 118 or 118.8 for the year) is the only person designated in writing by the individual for the year for the purpose of this section, there may be deducted in computing the tax payable under this Part for the year by the parent or grandparent, as the case may be, the tuition and education tax credits transferred for the year by the individual to the parent or grandparent, as the case may be.
+Issue
+[8] The issue is whether Lois Andrews is entitled to a tax credit under section 118.9 in respect of tuition fees paid by her daughter to the Academy. The sole question for determination is whether the Academy is a university and whether the course taken by her daughter was a course leading to a degree.
+Positions of Parties
+[9] The Crown submitted that the tuition fees paid to the Academy do not satisfy the conditions set out in paragraph 118.5(1)(b) because the Academy is not a university and the course attended by Emily did not lead to a degree. In support, counsel referred to Gilbert v. The Queen,[1] Rogutski v. The Queen,[2] and Drouin v. The Queen.[3]
+[10] Ms. Andrews did not question the disallowance of the tax credit on technical grounds. Instead, she stated that it is unfair to limit the tuition tax credit to schools that grant degrees. Being influenced by a career in education, Ms. Andrews expressed the view that it is important to provide access to teaching in many fields of endeavour, including the field that her daughter has pursued.
+Analysis
+[11] Subsection 118.5(1) of the Act sets out certain conditions that must be satisfied in order to be entitled to the tuition tax credit. If the school attended is outside Canada, the tax credit is available only for tuition paid to a university. There is no such restriction if the school attended is in Canada. Ms. Andrews' disagreement with this distinction is understandable. Ms. Andrews' daughter attended an expensive school outside the country because Canada's National Theatre School only had six openings in her daughter's field of study. Nevertheless, there is no basis on which I can provide relief unless it is consistent with the wording of the legislation.
+[12] The tax credit is available only if the Academy is a university and the course attended led to a degree. Several cases referred to by the Crown state that the distinguishing characteristic of a university is the power to grant a degree. Accordingly, the question is whether the Academy is an institution that grants degrees and whether the course attended by Emily Andrews led to a degree.
+[13] I have concluded that the diplomas granted to Emily Andrews by the Academy and the examinations board were not degrees. The word "degree" has of course many meanings. In this context, the following definition from the Dictionary of Canadian Law, (2d ed.) is instructive:
+Any recognition in writing of academic achievement which is called a degree; and includes the degrees of bachelor, master and doctor.
+The word "diploma" is defined in the same dictionary as:
+A certificate, less than a degree, awarded by a college.
+[14] I agree with Ms. Andrews' argument that the failure of the Academy and the examinations board to describe the award as a degree is not necessarily dispositive of the issue. The word "degree" may have a different meaning in Canada and the United Kingdom. However, I find that the meaning in the United Kingdom is the same as that described above in Canada. Each country prohibits an educational institution from granting "degrees" unless that right has been conferred by some statutory authority. For example, in Ontario the Post-Secondary Education Choice and Excellence Act prohibits an institution from granting awards described as degrees unless duly authorized by the government. A similar prohibition is provided by the Education Reform Act in the United Kingdom.
+[15] In this case, neither the Academy, nor the examinations board, granted something described as a degree. Although the examinations board granted a diploma that was considered to equate to a degree, it was not in fact a degree within the meaning of that term in both Canada and the United Kingdom. Further, even if the diploma granted by the examinations board was considered an actual degree, that would not be sufficient for Ms. Andrews to claim the tax credit because it must also be shown that the Academy was a university. On the facts, the Academy was not a degree granting institution and accordingly was not a university.
+[16] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 7th day of November, 2003.
+"J.M. Woods"
+J.M. Woods J.
+CITATION:
+2003TCC830
+COURT FILE NO.:
+2003-349(IT)I
+STYLE OF CAUSE:
+Lois E. Andrews v. The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 12, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M. Woods
+DATE OF JUDGMENT:
+November 7, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1999] 2 C.T.C. 2127 (T.C.C.).
+[2] [1999] 3 C.T.C. 2679 (T.C.C.).
+[3] [1999] 2 C.T.C. 2413 (T.C.C.).

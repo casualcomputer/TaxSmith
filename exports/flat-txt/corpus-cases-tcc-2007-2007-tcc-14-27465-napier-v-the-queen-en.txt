@@ -1,0 +1,117 @@
+Title: Napier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27465/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-14-27465-napier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-01-11
+
+# Napier v. The Queen
+
+- Citation: 2007 TCC 14
+- Decision date: 2007-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 221, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Napier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-01-11
+Neutral citation
+2007 TCC 14
+File numbers
+2005-3931(IT)I
+Judges and Taxing Officers
+Dwayne W. Rowe
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3931(IT)I
+BETWEEN:
+BRENT P. NAPIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 17, 2006, at Ottawa, Canada
+Before: The Honourable D.W. Rowe, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Daniel Bourgeois
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the terms of the attached Reasons for Judgment.
+Signed at Edmonton, Alberta, this 11th day of January 2007.
+"D.W. Rowe"
+Rowe D.J.
+Citation: 2007TCC14
+Date: 20070111
+Docket: 2005-3931(EI)
+BETWEEN:
+BRENT P. NAPIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rowe, D.J.
+[1] The appellant appeals from an assessment of income tax for the 2002 taxation year. The appellant claimed - in the computation of non-refundable credits - an amount of $4,399.03 with respect to interest paid on student loans. In assessing the appellant's income tax return, the Minister of National Revenue (the "Minister") allowed only $310.00 of the amount claimed on the basis the balance of the interest claimed by the appellant was not in respect of loans made under the Canada Student Loans Act, Canada Students Financial Assistance Act or a law of a province governing the granting of financial assistance to students at the post-secondary school level.
+[2] The issue is whether the appellant is entitled to claim interest paid on promissory notes in the amount of $4,089 pursuant to section 118.62 of the Income Tax Act (the "Act") in computing his non-refundable credits and tax payable for the 2002 taxation year.
+[3] The appellant (Napier) testified he enrolled at the University of Ottawa (the "University") in 1994 and paid the tuition for the first two semesters of study in Political Science. However, upon entering into his second year of study, he needed financial help in order to continue and applied to University of Ottawa, Financial Administration Section, which carried out a mandate to provide interim financing to students in order to bridge the gap between the commencement of a semester and the anticipated arrival of funds from Ontario Student Assistance Program. (OSAP) He applied for a student loan from OSAP in September, 1995, and expected funds would be received about the middle of October. However, OSAP rejected his application and he informed the University. As a consequence, the University agreed it would allow the promissory note - dated September 8, 1995 - to continue provided the appellant agreed to pay interest at the prevailing rate in accordance with the terms of said note. The documentation for this transaction was not entered in evidence. On March 14, 1996, the Appellant and the University entered into an agreement - Exhibit A-1 - and he received the sum of $3,900.15 which was applied directly to his tuition at that institution. According to the heading - Deferred Payment - on the form, the University intended to loan those funds to the appellant until he received financial aid - from OSAP - on or before April 30, 1996. However, OSAP rejected the appellant's application and he discussed the matter with the Manager of the University's Financial Administration Section who agreed the promissory notes executed by Napier could continue on condition that he would seek alternative funding in order to re-pay the loans from the University. That alternative funding was not obtained and the appellant's entire course of study was funded by means of borrowing from the University via the mechanism of promissory notes during the period September, 1995 to September, 1997. Napier testified that tuition increased each term until his final debt to the University was nearly $9,000 when he was entitled to receive his Baccalaureate in Social Sciences on May 25, 1998. According to the terms of the agreement - Exhibit A-1 - the sum of $3,900.15 was to have been repaid in one instalment but in the event that such amount was not paid by April 30, 1996, interest was charged at the rate of prime of the National Bank of Canada at Montreal plus 2%. Napier stated he received a Statement of Account - Exhibit A-2 - from the University showing a balance owing of $8,388.62 as of June 14, 2001. Earlier, the University had sent him another statement - Exhibit A-3 - indicating that as of February 25, 2003, he owed the sum of $5,895.32 and there was a listing of advances to him - pursuant to promissory notes - as well as other charges for participating in a student medical insurance plan together with entries pertaining to interest charges and payments made by him - in 2001 and 2002 - by a series of postdated cheques. Napier testified he sent an e-mail to the University inquiring as to the authority or basis for lending him the amounts for his tuition by way of promissory notes and he received a reply - Exhibit A-4 - which appeared to be an extract from the University website dealing with Administration and Governance and the authority of the Board of Governors. (the "Board") Napier stated he obtained a statement of his account history - Exhibit A-5 - and ascertained it did not indicate that the University - necessarily - apportioned payments between interest and capital in the manner one would expect from a bank or other lending institution. Because he was not able to make payments to the University until 2000, when he obtained employment with the federal public service - Fisheries and Oceans - he did not receive his actual Certificate - Exhibit A-6 - until 2005 due to the outstanding debt. In the interim, the University acknowledged he was authorized to hold out to interested parties that he had qualified for his degree as of May 25, 1998. However, he did not have his diploma in hand to show to prospective employers but that specific date was inserted by the University when his Certificate was finally issued, after he had repaid his debt. The terms of the appellant's agreement - Exhibit A-1 - permitted the University to retain his transcript or diploma until his account had been paid in full. Napier testified that when filing his returns of income for the 1999, 2000 and 2001 taxation years, he had claimed small amounts of interest on those loans from the University, primarily because his documentation was inadequate to support a larger claim. When he received the statement - Exhibit A-5 - he decided there was sufficient detail therein to justify a claim of $4,399 with respect to interest paid on student loans over a period of 5 years in accordance with the Act. Napier stated the course of action followed by him and the University was necessary because 1997 OSAP policy - since revised - included consideration of the income of his family because he was under the age of 25, even though he was not living at home, at the time of his application for funding.
+[4] The appellant was cross-examined by counsel for the respondent. Napier identified his 2002 income tax return - Exhibit R-1 - and agreed he had based his claim - Schedule 1 - on entries in the statement - Exhibit A-5 - in order to arrive at the amount of $4,399.03 and that on the reverse of the statement - Exhibit A-3 - there was an entry that "interest of Promissory Note" was in the sum of $1,472.90.
+[5] In view of the difficulties encountered in calculating interest on the promissory notes over the passage of many years and the infrequency of payments by the appellant and the methods utilized by the University in applying payments on the debt, the appellant and counsel for the respondent agreed that if I were to find the appellant was entitled to claim interest in computing his non-refundable tax credits, that 50% of the sum claimed would be appropriate.
+[6] The position of the appellant is that the objectives of the University were met and that the institution was permitted - by the laws of the Province of Ontario - to loan him money - by way of promissory notes - and that the funds were applied to his tuition and other related expenses directly connected to his attendance at the University for the purpose of obtaining his degree.
+[7] Counsel for the respondent submitted the relevant provision of the Act requires an interpretation consistent with conformity and that even though subsection 11(f) of An Act respecting Université d'Ottawa - Ontario legislation - permitted the Board of Governors of the University of Ottawa to "make, draw and endorse promissory notes or bills of exchange" that such authority was without reference to students, loans, tuition or financing of any studies. Counsel submitted the University was a corporation pursuant to provincial legislation - Corporations Act R.S.O. 1990, Chapter c. 38 - and according to subsection 23(l) had authority to "draw, make, accept, endorse, discount, execute and issue ... promissory notes ... and other negotiable or transferable instruments." Counsel accepted the University had the right to issue promissory notes and had authority to borrow money on the credit of the University according to terms set by the Board. However, he submitted there was no intent within any provincial law to transform the University into an institution for the purpose of granting financial assistance to students. Counsel submitted that ordinary rules of statutory interpretation precluded a finding that the unusual transactions between the University and the Appellant - due only to the rejection of financial aid by OSAP on two separate occasions - qualified as a student loan or loans in the sense contemplated by the plain language within the relevant provision of the Act.
+[8] The relevant section of the Act is:
+... a loan made to, or other amount owing by, the individual under the Canada Student Loans Act, the Canada Student Financial Assistance Act or a law of a province governing the granting of financial assistance to students at the post-secondary school level. [emphasis added]
+[9] In the case of Renz v. Canada [2002] T.C.J. No. 358, 2001-1890(IT)I the Tax Court of Canada dismissed the appeal of the taxpayer who attempted to claim the interest credit arising from loans made by American student loan companies. In coming to the decision, the Court found the words of section 118.62 were clear and unambiguous and the facts did not support a finding that the appellant had complied with the provision.
+[10] In Vilenski v. Canada [2003] T.C.J. No. 418, the Tax Court of Canada dealt with the situation where a student loan had been made under the Canada Student Loans Act but the taxpayer elected to take advantage of a lower interest rate and used a line of credit to pay off the original loan. At paragraph 11 of her reasons Justice Woods held that even though the money obtained through the line of credit was essentially the same money as the original eligible loan that it did not qualify under section 118.62 on the basis the word "under" meant "subject or liable to; controlled or bound by". Since the line of credit was not "subject to" the provisions of the Canada Student Loans Act, the Canada Student Financial Assistance Act nor "a law of a province governing the granting of financial assistance to students at the post-secondary school level", the appeal was dismissed.
+[11] In the within appeal, the appellant utilized the mechanism offered by the University in accordance with its policy of extending a grace period to students who had applied for financial assistance from eligible lenders of the sort named in the relevant provision. In effect, the University offered interim financing by way of loans - secured by promissory notes - to students who were unable to pay tuition by the due date because they were waiting for a decision with respect to their financial aid application. In the event the funds were not forthcoming by the due date specified in the Deferred Payment agreement, interest at prime rate - plus 2% - was charged with respect to the amount of the loan. In Exhibit A-1 - the relevant document in the within appeal - the advance of the sum of $3,900.15 to the appellant is clearly identified as a "loan". As it turned out, the University made a practical decision to continue its role as financier for the appellant's studies and throughout his attendance at that institution, he never qualified for a loan pursuant to OSAP or any other conventional student loan program.
+[12] As conceded by counsel for the respondent, the University had the ability to issue a promissory note pursuant to section 11 of The University of Ottawa Act, S.O. 1965, c. 137.
+Section 25 of said legislation deals with the investment of funds, as follows:
+The funds of the University not immediately required for its purposes and the proceeds of all property that comes to the hands of the Board, subject to any trust or trusts affecting the same, may be invested and re-invested in such investments as the Board deems meet.
+Section 24 of that legislation reads:
+The property and the income, revenues, issues and profits of all property of the University shall be applied solely to achieving the objects and purposes of the University.
+Section 4 deals with the objects and purposes of the University which are:
+a) to promote the advancement of learning and the dissemination of knowledge ...
+[13] At this point, I am satisfied the loans - secured by promissory notes - to the appellant by the University to the Appellant were authorized by the Board which receives its power and authority under the University of Ottawa Act. However, the issue to be determined is whether the loans, made by the University in accordance with powers of the Board were loans made "under" a law of a province "governing" the granting of financial assistance to students at the postsecondary level.
+[14] The position of counsel for the respondent is that the ejusdem generis or limited class rule should apply to the interpretation of section 118.62 since it is clear the Act intended that a law of a province be an enactment for the specific purpose of establishing and regulating the mechanism under which financial aid is granted to students in the same or similar context as those made under the Canada Student Loans Act, the Canada Student Financial Assistance Act or a provincial program such as OSAP, created by specific legislation to achieve that goal.
+[15] A reading of Chapter 9 of Driedger on the Construction of Statutes, Third Edition by Ruth Sullivan, Associate Professor of Law, University of Ottawa, permits one to draw the conclusion that having regard to a number of different rules of statutory construction, there is no standard way of ranking them in order of importance or in order of application. The purposive analysis rule states that the word or phrase should be interpreted so it is consistent with the purpose of the provision and the statute as a whole. There is the ordinary meaning rule which states that if there is no reason to modify or reject it, the ordinary meaning should prevail. That approach was followed by the Tax Court of Canada in both Renz, supra, and Vilenski, supra. The wording of section 118.62 does not refer to a specific Act or agency operating pursuant to statutory authority when it speaks of "a law of a province". According to The Dictionary of Canadian Law, 3rd ed., s.v. "law" is defined as:
+"a rule to govern action; an enactment; an Act of the Parliament of Canada or of the Legislature and includes a proclamation, regulation, order in council, a decree or an ordinance made under the authority of any Act; and in its general sense, refers to all the rules which govern society and are enforceable through the judicial or administrative systems. Law in this general sense is comprised of the written and unwritten Constitution, federal and provincial statutes and the "judge-made" common law and equity"
+[16] By using the words "a law of a province", it is reasonable to assume the framers wanted to permit a broad and liberal interpretation capable of encompassing a particular provision within the larger body of provincial law rather than a specific statute since it did not link the word "under" to "an Act of a province". Within the Act, there are provisions that refer to an "Act of a Province" (subparagraph 60(o)(i) and paragraph 223(1)(d) and others such as paragraph 118(8)(a) and subparagraph 241(d)(iii) where the wording is " a law of a province." There does not appear to be any clear indication behind the different usage but it tends to point to a preference to insert the word "Act" when it is intended to refer to an entire statute. Paragraph 60(o)(i) outlines the procedure for deducting legal or other expenses from income and paragraph 223(1)(d) provides interpretative guidance for subsection 223(2), a collections provision. The reference to " a law of a province" in paragraph 118(8)(a) is in relation to interpretative guidance for the pension credit in subsection 118(3) while subparagraph 241(4)(d)(iii) directs circumstances in which taxpayer information may be disclosed "to an official solely for the purposes of the administration or enforcement of a law of a province". I think it is reasonable to infer that when a provision of the Act uses the phrase "a law of a province", it can include both a particular provision as well as an entire statute. If one regards "law" as a body of rules by which a province is governed, then it embraces the components of a collective system.
+[17] There does not appear to be much jurisprudence with respect to the word "governing" but one can refer to its ordinary meaning by considering the root word, "govern" , which is defined by The Canadian Oxford Dictionary, 1st ed.; s.v. as follows:
+"to rule or control (a state, subject, etc.) with authority; conduct the policy and affairs of (an organization etc.); to be in government; to control or influence (a person, a function, the course of events, etc.); to be the predominating influence; to be a standard or principle for; constitute a law for; serve to decide (a case); to check or control (esp. passions); to (esp. of a verb or preposition) have (a noun or pronoun or its case) depending on it; to be in military command of (a ford, town)"
+[18] All definitions are consistent in the sense they all suggest an exertion of rule, control or influence. In the within appeal, a loan was made by the University to the appellant in accordance with a policy of that institution authorized by its Board and implemented by its bureaucracy for the purpose of providing interim financing to postsecondary students who were unable to obtain traditional student loan financial aid by the deadline for payment of tuition. When OSAP rejected the aid application of the appellant, the University elected not to seek immediate collection on the promissory notes and chose to allow the debt to remain outstanding at an interest rate of prime plus 2% as stated within the body of the note and in accordance with the agreement. (Exhibit A-1) The loan was not for the purpose of permitting the appellant to purchase a MP3 player. It was not a loan made by an electronics store to permit him to attend the University. The University, although not in the business of administering a full-scale financial aid program for its students, recognized the need to provide bridge financing and - as proved to be the case in the within appeal - that it had the right to deal with the troublesome situation created by the refusal of OSAP to provide financial aid to the appellant in the form of a student loan. The loans by the University were within its legal powers and the applicable rules which governed those transactions so as to permit the granting of financial assistance to the Appellant on terms consistent with University policy as determined by the Manager of the Financial Administration Section.
+[19] As a result of the foregoing analysis, I find the facts in the within appeal satisfy the requirements of section 118.62 of the Act.
+[20] The appeal is allowed and the matter is referred back to the Minister for reconsideration and reassessment on the basis the Appellant be permitted to claim interest paid on promissory notes in the sum of $2,044.50 in computing his non-refundable credits and tax payable for the 2002 taxation year.
+[21] In view of the agreement by the parties that if I allowed the appeal, the appellant would be entitled to only 50% of the interest amount in dispute - due to an inability to calculate the precise sum involved with the information at hand - the
+level of success attained by the appellant is not more than half, Therefore, he is not entitled to costs.
+Signed at Edmonton , Alberta, this 11th day of January 2007.
+"D.W. Rowe"
+Rowe, D.J.
+CITATION: 2007CCT14
+COURT FILE NO.: 2005-3931(IT)I
+STYLE OF CAUSE: BRENT P. NAPIER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: October 17, 2006
+REASONS FOR JUDGMENT BY: The Honourable D.W. Rowe, Deputy Judge
+DATE OF JUDGMENT: January 11, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Daniel Bourgeois
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

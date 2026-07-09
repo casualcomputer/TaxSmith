@@ -1,0 +1,281 @@
+---
+title: "A & D Precision Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/364433/index.do"
+last_modified: "2019-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 48"
+citation2: ""
+neutral_citation: "2019 TCC 48"
+decision_date: "2019-02-28"
+language: "en"
+item_id: "364433"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4302
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:18:59.692000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d8e772423fc899e73790c88075d0476858ea57e1605a823e9bc772e2bb4f3f4c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# A & D Precision Limited v. The Queen
+
+- Citation: 2019 TCC 48
+- Decision date: 2019-02-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4302, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A & D Precision Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-02-28
+Neutral citation
+2019 TCC 48
+File numbers
+2014-3465(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3465(IT)G
+BETWEEN:
+A & D PRECISION LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 5-6-7-8-9, 2017, and June 12-13-14-15, 2017 and October 3-4-5, 2017 and December 11-12-13, 2017 and January 21, 2018 and April 30, 2018, May 1-2-3-4, 2018 at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Counsel for the Appellant:
+Adam Gotfried
+Justin Kutyan
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Christopher Kitchen
+JUDGMENT
+The appeal of the reassessments raised under the federal Income Tax Act pertaining to the Appellant’s fiscal periods ending June 30, 2006, 2007 and 2008 respectively is allowed, without costs due to divided success of the parties. The three appealed reassessments are referred back to the Minister for reconsideration and reassessment on the following bases:
+a) for the 2006 fiscal period investment tax credits (ITCs) are allowed as claimed for Project #6 and no ITCs as claimed for Project #4 are allowed;
+b) for the 2007 fiscal period ITCs are allowed as claimed for each of Project #4 and Project #6;
+c) for the 2008 fiscal period ITCs are allowed as claimed for Project #6 and one-third of the ITCs claimed for Project #4 are allowed.
+Signed at Saskatoon, Saskatchewan, this 28th day of February 2019.
+“B. Russell”
+Russell J.
+Citation: 2019TCC48
+Date: 20190228
+Docket: 2014-3465(IT)G
+BETWEEN:
+A & D PRECISION LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] This is a scientific research & experimental development (SR&ED) case. The Appellant, A&D Precision Limited (A&D), is a Canadian privately owned corporation, based in Concord, Ontario. A&D appeals three reassessments raised by the Minister of National Revenue (Minister) under the Income Tax Act (Canada) (Act), pertaining to its fiscal periods ending June 30, 2006, 2007 and 2008 respectively.
+[2] The claimed SR&ED current expenditures are $827,348, $1,202,398 and $789,579 for the 2006, 2007 and 2008 fiscal periods respectively. Also there is a shared-use-equipment (SUE) element claimed, in the amounts of $431,259, $555,984 and $346,579 for the 2006, 2007 and 2008 taxation years respectively. Combined, these expenditures are the basis for claimed investment tax credits (ITCs) of $324,576, $629,782 and $247,855 in issue for those respective fiscal periods. These ITCs total $1,212,213.
+[3] This appeal initially advanced claims for four projects. But prior to the hearing A&D withdrew two. The two projects that were left to be litigated, and which now are the subject of this judgment and reasons for judgment, are identified by A&D as Project #4 - “Full spectrum versatile horizontal lathes” and Project #6 - “Double wheel roll grinding machine”.
+Facts:
+[4] A&D is a successful and sophisticated manufacturer of machine components. Its core business during the subject fiscal periods was the manufacture of complex, high precision components for gas turbines and large, complex electrical motors. A&D’s primary customer during this period was General Electric Co. (GE), which constructs massive gas turbines at its Greenville, South Carolina facilities. A&D has done work for GE over the last 35 years. GE would engage A&D to manufacture components weighing 10,000 to 100,000 pounds and which constantly turn within a gas turbine. GE requires great precision in the manufacturing by A&D of these components.
+[5] The manufacture of components for gas turbines and large complex electrical motors is a specialized field worldwide. A&D has American and Japanese competitors. Also GE purchases parts from low priced suppliers in China, Brazil and Mexico. A&D continuously strives to manufacture parts for GE as economically as possible while continuing to meet high precision requirements.
+[6] Antranik Derbedrosian testified as one of A&D’s two main fact witnesses. He is the founding owner, president, sole shareholder and director of A&D. Mr. Derbedrosian has little formal education, but considerable experience since childhood in machine shops. He left school in Syria at age 13 to undertake a five year machinist apprenticeship. As an apprentice he worked on horizontal lathes and other machines of medium size including milling machines, radial drills and hand tools such as file and surface grinders (transcript, pp. 30, 31). He came to Canada in 1969 at age 22. He worked as a lathe operator at two Ontario locations, and then as a general machinist. He started A&D in 1974 as a one-man shop. At the time of the hearing of this appeal, A&D employed over 30 persons. Mr. Derbedrosian does not hold any engineering designation.
+[7] Although unwell, George Predoiu testified also, as A&D’s other main fact witness. Sadly, Mr. Predoiu has since passed away. During much of the subject time period he was, through a personal corporation, a subcontractor of A&D. Mr. Predoiu was an Ontario registered professional engineer. He had formal training at the University of Bucharest in Romania as a mechanical engineer before coming to North America. He had a distinguished 47 year career in the design and assembly of machine tools, including work with Northstar Aerospace in Milton, Ontario, General Dynamics in Marion, Virginia and the U.S. Air Force. He was able to design machine tools including necessary mechanical, technical, electrical, hydraulic, electronic and pneumatic systems.
+[8] Mr. Predoiu was chief engineer for A&D of the subject two projects, except that he had no involvement on behalf of A&D respecting the Tacchi lathes, claimed as part of Project #4, discussed below.
+[9] Other fact witnesses were Messrs. V. Ouvarov and S. Schiaua, called by the Appellant and Respondent respectively. Mr. Ouvarov was an A&D employee who was involved with aspects pertaining to the assembly and testing of the machines referenced herein. Mr. Schiaua was a former A&D employee during a portion of the time periods at issue.
+[10] As well, two experts were called by the Appellant – Drs. Stephen Veldhuis and Eu-Gene Ng. The Respondent called Dr. Yusuf Altintas as its expert. All are university affiliated and have advanced expertise in machine tool design and testing. Their evidence was of general assistance to me in my reaching the conclusions noted herein.
+Project #4
+[11] As noted, Project #4 involved development by A&D of “full spectrum versatile horizontal lathes”.
+[12] Lathes are machines that shape metal workpieces by rotating the workpieces rapidly against changeable cutting tools. Horizontal lathes have turning workpieces positioned parallel to the floor. The workpiece is held in place at one end by a chuck and headstock. The other end is held in place by a tailstock. These two end pieces cause the workpiece to be rotated, with a cutting tool operating between the two end pieces to cut the rotating workpiece as required.
+[13] Prior to 2000, A&D had used horizontal lathes purchased from an Italian manufacturer - Safop. Upon GE becoming more demanding in its specifications for turbine components that A&D sought to manufacture, these lathes no longer were sufficiently precise for GE work. After engaging in some due diligence enquiries, A&D decided to purchase three new large horizontal lathes from another Italian company, Tacchi Giacomo e Figli SpA (Tacchi). A&D anticipated that these three Tacchi lathes would enable it to achieve GE’s more demanding specifications. Tacchi was considered an international leader in the building of CNC (computer numerical control) heavy duty lathes.
+[14] The three Tacchi lathes were purchased by A&D in or about 2001 and 2002. The last of the three was shipped to A&D from Italy in or about March 2004. After installation at A&D’s work premises the three Tacchis were tested for acceptance. They passed all acceptance tests and tolerance benchmarks (transcript, Ouvarov, pp.1295-1297, 1428-1430; Derbedrosian, pp. 733-736).
+[15] However, performance issues soon developed, including headstock vibration, imprecise z-axis carriage movement and overnight sliding of the tailstock. The one year warranty period for the Tacchis passed, allowing A&D itself, not solely Tacchi, to try to fix or improve these lathes, but without success.
+[16] Mr. Predoiu had been engaged by both A&D and Tacchi to provide a neutral view as to deficiencies respecting the three Tacchi lathes. He had concluded they were unfixable, so as to be able to meet the demandingly tight tolerance requirements of A&D’s major customer, GE. Consequently A&D per Mr. Derbedrosian concluded that the Tacchi lathes should be sold, and that A&D should build its own lathes to be able to continue manufacturing large turbine components for GE with heightened tolerance requirements.
+[17] Mr. Derbedrosian came up with the original concept for the 80 ton horizontal lathe. That concept was that that lathe, known as the 80 ton Matteo, would be capable of turning an unsupported workpiece of 80 tons weight (or 100 tons with use of a steady rest to support the workpiece) and 13 metres in length, while meeting rigorous tolerance specifications in machining the workpiece.
+[18] A&D retained Mr. Predoiu through his consulting company to be A&D’s chief engineer in this work of designing and building the proposed Matteo lathes for A&D. We heard substantial testimony from Messrs. Derbedrosian and Predoiu regarding matters pertinent to the design and building of the 80 ton Matteo.
+[19] A&D asserts that the 80 ton Matteo is made up of various systems and subsystems that all had to work together. A&D further submits (written submissions, para. 145) that the major subsystems of the Matteos are the headstock, tailstock, chuck, the cutting tool post on the cross slide (x-axis), the carriage on the longitudinal slide (z-axis) and the tailstock sensor control.
+[20] My understanding is that these are usual components of a horizontal lathe.
+[21] In more detail, the 80 ton Matteo’s workpiece positioning and driving system included the following elements which A&D describes (written submissions, para. 149) as subsystems - said to be the main spindle and bearings (which holds the workpiece), the main spindle drive system (which provides torque and speed to the main spindle), the headstock (which supports the main spindle drive system), the tailstock mechanism (which holds the other end of the workpiece in place while allowing for rotation), the tailstock structure (which supports the tailstock mechanism), the hydraulic system (which releases the tailstock locking mechanism), the workpiece bed-ways (which particularly includes the longitudinal guide along which the tailstock moves), the chuck (which holds the workpiece and allows it to rotate with the spindle) and steady rests (providing supplementary support to heavy parts).
+[22] A further claimed system of the 80 ton Matteo is the tool positioning and driving system, also said to be comprised of subsystems; such subsystems including the longitudinal carriage guide (which guides the cutting tool carriage as it moves along the z-axis), the longitudinal feed mechanism (which moves the cutting tool carriage along the z-axis), the transversal carriage and guide (which guides and drives the tool carriage along the x-axis), the tool positioning system (which allows multiple tools to be used on the workpiece), the carriage bed (which supports the wheel spindle) and the lubrications system (which lubricates housings for the linear guideways and ball screws).
+[23] The third of the three identified systems for the horizontal lathe is the CNC/PLC system. CNC means, as noted, “computer numerical control” and PLC means “programmable logic controller”. This system provides computer control in the operation of the lathe - which system A&D submits includes electronics, Siemens computer and software (A&D written submissions, heading of para. 248).
+[24] Mr. Predoiu made calculations and closely directed and oversaw the assembly of the parts, largely purchased “off-the-shelf”, comprising the 80 ton Matteo. A testing start-up regimen for new machines such as this was closely followed, starting and proving one component at a time (an inadequate summary of the start-up regimen). The result ultimately was successful. The new 80 ton Matteo performed to the high expectations of A&D. The new lathe was able to machine workpieces of customer GE that were heavier and longer than ever before, with improved precision (Derbedrosian, transcript p. 142; Exhibit A-1, tab 8, p. 103). This allowed A&D to continue its very demanding and specialized work manufacturing components for massive turbines constructed by GE.
+[25] Subsequently the 60 and 40 ton Matteos were built. As suggested by the names, they were intended respectively to be able to handle workpieces of up to 60 tons and 40 tons. Unlike the 80 ton Matteo they were constructed of cast iron rather than welded steel. A&D had discovered a foundry in China that could do the iron castings of the carriage bed, workpiece bed, headstock and tailstock. Other differences were use of a different type of off-the-shelf spindle bearings, and use of a ball screw instead of rack and pinion for movement along the z-axis, as the length of that axis was shorter than that for the 80 ton Matteo. Additional calculations were required of Mr. Perdoiu to aid in ensuring these changes were workable. Ultimately the 60 and 40 ton Matteo lathes were successfully commissioned and put to work fashioning smaller workpieces for GE and other A&D customers.
+[26] At para. 276 of its written submissions A&D asserts that the 80 ton Matteo was a new machine not available from traditional machine tool suppliers. The same claim is not asserted regarding the 60 and 40 ton Matteos.
+[27] The Project #4 work claimed by A&D for its 2006 fiscal period relates entirely to the three Tacchi lathes. The Matteo lathes are not referred to until the following taxation year SR&ED claim (Exhibit R-15).
+[28] The Project #4 work claimed by A&D for its 2007 fiscal period relates solely to the 80 ton Matteo lathe (Exhibit R-15).
+[29] The Project #4 work claimed by A&D for its 2008 fiscal period relates to the three Matteo lathes - 80, 60 and 40 ton - without any allocation amongst them provided by A&D (Exhibit R-15).
+Project #6:
+[30] All of the Project #6 work claimed by A&D for each of its 2006, 2007 and 2008 fiscal periods relates to design and ultimately abandoned development of this one machine, called a “double wheel roll grinding machine” (Exhibit R-15).
+[31] The novel concept, advanced by Mr. Derbedrosian, was to have the grinding head capable of being moved to either side of the middle of the workpiece for grinding. Removing and repositioning the workpiece could take 16 to 18 hours and realignment could occur. A&D knew of no other grinding machine in the world that could do this. The machine would not grind the workpiece on opposite sides of the middle of the workpiece simultaneously. But there were covers on opposite sides of what would be the middle of the particular workpiece for the two positions the grinding wheel could be moved to.
+[32] Grinding machines rough grind and finish grind large metal workpieces with circular shaping such as shafts, spindles and rolls.
+[33] Before deciding that A&D would build this, Mr. Derbedrosian consulted with Toshiba in Japan about whether it could build such a machine. Toshiba ultimately responded with a $6 million quote to produce such a machine but without guarantee that it could meet the required tolerances.
+[34] This machine was desired for work on particular workpieces from GE.
+[35] Messrs. Predoiu and Derbedrosian developed specifications for the contemplated machine, including respecting headstock, carriage, wheel head and grinding performance. Again A&D views this complete machine as an assembly of systems and subsystems. And of course to meet GE specified tolerances all systems and subsystems had to well work together (A&D’s written representations, para. 302).
+[36] The machine itself was built in part from re-furbishment of an older grinding machine located in Romania. Because the grinding wheel could be repositioned at either end, the traditional set-up of a grinder - wheel at one end and a pulley at the other could not be utilized. A&D envisaged driving the wheel (which could be moved to either side of the middle) from the middle of the machine using a Siemens motor. From the middle of the machine between the two wheel locations, the motor would drive the drive shaft, and the drive shaft would drive the main spindle (A&D’s written representations, para. 303).
+[37] There were some novel aspects in the preparation of this machine. To help the spindle not overheat A&D used angular contact bearings that were ceramic which does not overheat, and used Kluber grease, also because ceramic does not overheat (representations, para. 306).
+[38] A&D chose to fabricate rather than cast the wheel-bed of the grinding machine. A&D fabricated rather than cast the parts because this was more economical (representations, para. 307).
+[39] To help minimize vibration the z-axis carriage traveled on linear guideways like the 80 ton Matteo. This was not typical and may have been the first grinder to use linear guideways. Also the foundation of the grinding machine was stiffened, again seek to minimize vibration.
+[40] Further, a steady rest was designed by Mr. Derbedrosian for the grinder, to aid in eliminating or minimizing vibration.
+[41] Nevertheless, there was excessive vibration when the machine was tested. Further attempts to minimize vibration (through use of optimizing software to try to isolate the vibration source, and use of vibration measuring equipment, and referral to a vibration analysis company which provided a report) were not sufficiently successful to make the machine acceptable for use. Mr. Derbedrosian decided A&D would not continue development of this machine because of the financial costs that would continue to be incurred.
+Statement of Issue:
+[42] The issue here in respect of each of Projects #4 and #6 is whether the work during the subject fiscal periods constituted SR&ED, so as to allow the claims for ITCs referred to above.
+[43] It was agreed or in any event decided in the course of the hearing that in determining whether or not work was SR&ED, only the “science” question was pertinent. The “financial” or non-science questions (such as, for example, questioning the number of hours claimed to have been worked and by whom or whether some work had not been undertaken in Canada, or whether the non-scientific elements of SUE had been met) had not been put in issue.
+Legal Analysis:
+[44] Subsection 127(5) of the Act provides for deduction by way of a refundable “investment tax credit” (ITC as referred to above) in respect of a “SR&ED qualified expenditure pool”. These terms are defined in subsection 127(9).
+[45] The term “qualified expenditure”, which in aggregate contribute to the SR&ED qualified expenditure pool, is defined in subsection 127(9) to include expenditures in respect of SR&ED and as described in subparagraph 37(1)(a)(i). That subparagraph permits deduction of “scientific research and experimental development” expenses of a current nature, as follows:
+Scientific research and experimental development
+37 (1) Where a taxpayer carried on a business in Canada in a taxation year, there may be deducted in computing the taxpayer’s income from the business for the year such amount as the taxpayer claims not exceeding the amount, if any, by which the total of
+(a) the total of all amounts each of which is an expenditure of a current nature made by the taxpayer in the year or in a preceding taxation year ending after 1973
+(i) on scientific research and experimental development related to a business of the taxpayer, carried on in Canada and directly undertaken by the taxpayer,
+[46] At subsection 248(1) of the Act the definition of “scientific research and experimental development” provides:
+scientific research and experimental development means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection [underlining added]
+[47] In analyzing whether projects involve SR&ED expenditures, typically while the expenditures may be readily deductible under section 18 of the Act as having been incurred for product research and development in pursuit of gaining income, it is another question whether the expenses were incurred in the carrying out of SR&ED, so as to qualify additionally for refundable ITCs. This leads to an examination of how the developmental work was undertaken. Was there a gap in general technical knowledge not reasonably expectant of resolution through routine engineering and/or standard procedures? And if so, was the scientific method applied in seeking resolution of that general technical knowledge gap? Essentially these are the pivotal questions.
+[48] The starting point for SR&ED analysis is the decision of Bowman, J. as he then was, in Northwest Hydraulic Consultants Ltd. v. Her Majesty, 98 DTC 1839 (TCC). That decision identified five criteria for assisting judicial determination of whether a taxpayer’s activities constitute SR&ED, as follow. Subsequently the Federal Court of Appeal endorsed these identified five criteria, see C.W. Agencies Inc. v. Canada, 2002 DTC 6740 (FCA).
+1. Is there a technical risk or uncertainty?
+a. Implicit in the term “technical risk or uncertainty” in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+b. What is “routine engineering”? It is this question (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+2. Did the person claiming to be doing SR&ED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+a. the observation of the subject matter of the problem;
+b. the formulation of a clear objective;
+c. the identification and articulation of the technological uncertainty;
+d. the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+e. the methodical and systematic testing of the hypotheses.
+It is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SR&ED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+a. it is important to recognize that although the above methodology describes the essential aspects of SRED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SRED. These elements must however operate within the total discipline of the scientific method.
+b. What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SR&ED...is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+a. by general I mean something that is known to, or at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because these is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+b. The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses. [underlining added]
+[49] I will consider A&D’s claims divided into the following four categories:
+A. Project #4 - 2006 fiscal period, the three Tacchi lathes;
+B. Project #4 - 2007 fiscal period, the 80 ton Matteo;
+C. Project #4 - 2008 fiscal period, the 80, 60 and 40 ton Matteos; and
+D. Project #6 - 2006, 2007 and 2008 fiscal periods, the double - wheel roll grinding machine.
+Project #4 - 2006 fiscal period, the three Tacchi lathes.
+[50] A&D’s SR&ED claim in respect of Project #4 for its 2006 fiscal period is for expenditures in respect of the three Tacchi lathes A&D had purchased. According to Ex. R-15 this element of the total SR&ED claim consists of $470,417 of SR&ED current expenditures, $400,720 of shared-use equipment and $218,922 of ITCs claimed.
+[51] I see no basis for A&D’s SR&ED claim in respect of expenditures pertaining to the Tacchi lathes. After acquisition of these three Tacchi lathes and after their one year warranty period had expired, A&D working with Tacchi made attempts to correct or fix them because of their problems of undue vibration and backlash. There is little evidence as to what was done. A&D and Tacchi together retained Mr. Predoiu as a neutral party to provide an unbiased view as to the nature and resolvability of the problems. His conclusion was that the three Tacchi lathes were unfixable so as to meet A&D’s requirements. Accordingly A&D decided to (and did) sell these three lathes, and to design and manufacture its own three lathes, being the Matteo lathes.
+[52] A&D in its written submissions made no obvious effort to identify that Tacchi expenditures were included as part of its Project #4 SR&ED claims, or to explain why expenditures respecting the three Tacchi lathes would qualify for SR&ED tax benefits. In A&D’s written submissions, under the heading “ISSUES”, para. 408 reads: “The only issue is whether A&D’s design, development and assembly of the Matteos and Grinding machine constitutes SR&ED…”. Para. 409’s beginning sentence reads basically the same - “Only the Matteos and Grinding machine are at issue.” There is no mention of the Tacchi lathes.
+[53] Accordingly, A&D’s SR&ED claim for its 2006 fiscal period pertaining to the three Tacchi lathes (subsumed within A&D’s Project #4), is denied.
+Project #4 - 2007 fiscal period, the 80 ton Matteo.
+[54] This element of the total claim is comprised of ITCs claimed in the amount of $435,842, based on claimed SR&ED current expenditures of $687,727 and shared-use-equipment in the amount of $409,225 (Exhibit R-15).
+[55] The design, assembly and testing of the 80 ton Matteo has been described above in summary fashion. It was a project conceived of and headed by Mr. Derbedrosian, with Mr. Predoiu’s consulting firm engaged to provide specific and detailed guidance in this project with Mr. Predoiu as chief engineer.
+[56] In determining SR&ED eligibility the first criterion as listed above, drawing from Northwest Hydraulic, is whether there was a “technical risk or uncertainty”. As noted, this means a type of uncertainty the resolution of which is not reasonably predictable using standard procedure or routine engineering. In this context the term “routine engineering” describes, “…techniques, procedures and data…generally accessible to competent professionals in the field.”
+[57] A&D submits that the technical risk or uncertainty in respect of the 80 ton Matteo work was “system uncertainty” as recognized in jurisprudence and Canada Revenue Agency (CRA) policy. In this regard A&D cites 1726437 Ontario Inc., o/a Airmax Technologies v. The Queen, 2012 TCC 376, at para. 17 whereat is referenced para. 4.8 of IC 86-4R3.
+[58] In that decision, at para. 17, my colleague Justice Hogan applied without particular discussion the statement in CRA’s Information Circular 86-4R3 at para. 4.8 that,
+[w]ork on combining standard technologies, devices and/or processes is eligible if non-trivial combinations of established (well-known) technologies and principles for their integration carry a major element of technological uncertainty...called a ‘system uncertainty’.
+[59] The Respondent’s expert, Dr. Altintas, acknowledged in testimony that system uncertainty could constitute a technological uncertainty:
+When you put the machine - all the parts together, all this uncertainty is now merged, accumulated. Now, the system has uncertainty. I call that - this is my definition - people may say - I call this technological uncertainty, now, because you have a technology, now. The whole machine together. (transcript, p. 2349)
+[60] See also paragraph 64 of the Northwest Hydraulic decision whereat then Justice Bowman commented in respect of one of the proposed SR&ED projects in that case –
+Of all the projects put in evidence this one in my view resulted in the greatest amount of technological advance. It is true that any one of the features of the final design may have been known - rubber weirs, radial gates and walls of different types were known. It was the innovative combination and alignment of these factors that makes this project unique.
+[61] The Respondent’s submission was that if the welded (rather than cast iron) structure of the 80 ton Matteo, and inertia and deflection due to the unprecedented weight and length of an 80 ton and 13 metre workpiece gave rise to technological uncertainties, the uncertainty was overcome by A&D using known solutions.
+[62] In my view, considering the evidence as a whole and as well the submissions of the respective parties and experts, A&D in determining to manufacture the 80 ton Matteo did face a technological uncertainty, being system uncertainty. Here A&D, with the specific guidance and expertise of Mr. Predoiu, took known technologies for the manufacture of horizontal lathes and combined with these technologies other known technologies pertaining to using welded structuring rather than cast iron, and other technological innovations as noted above to address inertia and deflection. These adaptations were made necessary by, and made in the unique context of, the intended great size and weight of the workpieces that would be tooled on this lathe, while seeking also the ability to machine very large workpieces with notably extreme accuracy.
+[63] The second of the five Northwest Hydraulic criteria is whether A&D formulated hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+[64] Mr. Predoiu’s testimony satisfied me that his highly knowledgeable and experienced input in his position as chief engineer in the design and manufacture of the 80 ton Matteo was quite focused on reducing risks due to system uncertainty. That is, with Mr. Derbedrosian he did formulate theories and or plans (which could be termed hypotheses) to minimize risks due to system uncertainty.
+[65] The third of the five Northwest Hydraulic criteria is, did the procedure adopted in each project accord with the total discipline of the scientific method including the formulation, testing and modification of hypotheses? In this matter we have in evidence many drawings made under Mr. Predoiu’s direction of many significant parts of the 80 ton Matteo. We do have fewer items of evidence exhibiting the engineering calculations Mr. Predoiu would have carried out in designing the 80 ton Matteo. What we have - in large part the drawings - helps to corroborate Mr. Predoiu’s testimony that the procedure in developing this machine did accord with the total discipline of the scientific method. The testing of the machine was carried out after it had been assembled as opposed to the creation and testing of prototypes. Given the high cost of this large machine, the building of any prototype of it would have rendered prohibitive the total cost involved in its development.
+[66] The fourth Northwest Hydraulic criterion is, did the process result in a technological advancement? A technological advancement is the gaining of new knowledge that advances general understanding. I conclude from the testimonies of Messrs. Predoiu and Derbedrosian that the process of creating this new lathe, replete with system uncertainty due to modifications in the conventional design of lathes so as to aid this lathe’s capacity to handle mammoth workpieces while still achieving very demanding tolerances, represented a step forward, however incremental, in technical knowledge generally.
+[67] The fifth and final criterion specified in Northwest Hydraulic is, was a detailed record of the hypotheses tested, and the results kept as the work progressed? This is a factor the presence of which is indicative of the scientific methodology. In ACSIS EHR (Electronic Health Record) Inc. v. The Queen, 2015 TCC 263 there were significant contemporaneous records submitted in evidence (specified in ACSIS, para. 37), plus ample oral testimony from the actual trained software technicians who carried out subject work. This in total was adjudged by the Court as sufficient to have established that the scientific methodology had been observed.
+[68] In the case of the 80 ton Matteo records were kept, as noted above largely in the form of drawings of many if not most significant parts of this machine. The parts were in large part designed in the basis of engineering calculations carried out by Mr. Predoiu. Testing only occurred relatively at the end of the building process but that is an aspect of the financial unfeasibility of constructing and utilizing prototypes as above noted. It is acknowledged that not many records pertaining to the carrying out of the testing protocol itself were made, let alone retained.
+[69] In sum, I am persuaded that the Northwest Hydraulic criteria have been sufficiently met that I can conclude that the work that went into design and build of the 80 ton Matteo was SR&ED qualified work. Thus the SR&ED ITCs claimed in respect of this work for Project #4 for the 2007 fiscal period should be entirely allowed A&D.
+Project #4 - 2008 fiscal period; the 80, 60 and 40 ton Matteos:
+[70] For A&D’s 2008 fiscal period, in respect of Project #4 relating to the three Matteo lathes, A&D for that fiscal period made a claim in respect of each of those three lathes, although without any allocation of expenses amongst the three.
+[71] As indicated above, I have accepted that the work on the 80 ton Matteo constituted SR&ED expenditures. Also as indicated above the parties agreed in the course of the hearing that “science” was the only issue and not also “financial” aspects of qualifying SR&ED expenses. Thus the only issue regarding SUE aspects of any of the claim including in respect of the 80 ton Matteo could be the “science” question. As the science question has been answered in the affirmative for the 80 ton Matteo, therefore the science question is likewise answered in the affirmative for the SUE element of the 80 ton Matteo claim.
+[72] In the absence of any allocation from A&D respecting the three Matteos for A&D’s 2008 fiscal period, I will allocate for each of the three Matteos a share of one-third of the total SR&ED and SUE expenditures claimed from Project #4 for the 2008 fiscal period. Accordingly one-third of that total and thus one-third of the total of ITCs claimed for Project #4 for the 2008 fiscal period will be allocated, for purposes of these reasons for judgment and the ensuing judgment itself, to the 80 ton Matteo claim, with identical one-third shares being allocated to each of the 60 and 40 ton Matteo claims.
+[73] As for the 60 ton and 40 ton Matteos, to my mind the evidence shows that there was little originality factored into their designs and manufacture as distinguished from the case of the 80 ton Matteo. One difference the two smaller lathes had with the 80 ton Matteo was that they were made from cast iron rather than, in the case of the 80 ton Matteo, welded steel. But, as A&D acknowledges in its written submissions at para. 207, in describing notable differences of the 80 ton Matteo,
+[m]ost machine manufacturers use cast iron for the main components, as cast iron has density that lessens vibration while steel does not.
+[74] Thus, the use of cast iron for the 60 and 40 ton Matteos, although unlike the 80 ton Matteo, was quite in keeping with the normal or conventional approach in building horizontal lathes. The fact that the 80 ton Matteo was structured otherwise – of welded steel – was a factor in rendering the 80 ton Matteo a unique machine with a novel combination of systems, amounting to a technological uncertainty for SR&ED purposes. However, this is not so for the 60 and 40 ton Matteos.
+[75] Another difference cited by A&D in written submissions between the 60 and 40 ton Matteos on the one hand the 80 ton Matteo on the other is that the latter used SKF main spindle bearings while the two smaller machines each used Timken bearings, being “more economical and off the shelf”. (A&D written submissions para. 266). This does not seem revolutionary either.
+[76] The third and final difference between the 80 ton and the 60 and 40 ton Matteos cited in A&D’s written submissions (paras. 269ff) is the use of a ball screw drive for the for the z-axis of the two smaller machines rather than, as in the case of the 80 ton Matteo, use of a rack and pinion for movement along the z-axis.
+[77] Again, A&D appears to acknowledge that a ball screw drive was already conventional. As stated at para. 238 of A&D’s written representations regarding the 80 ton,
+[Mr. Derbedrosian and Mr. Predoiu] thought about using a ball screw for the linear movement, as it is used for shorter travel and can drive with zero backlash.
+[78] It seems, of the three factors A&D noted in trying to distinguish the 60 and 40 ton Matteos as other than reduced replicas of the 80 ton Matteo, all are in accord with conventional design. Additionally at least one is relatively innocuous, being the use of different commercial bearings for the main spindle. No notable risk or concern in using the other brand of bearings was noted in A&D’s written submissions.
+[79] Accordingly I conclude that there was no non-trivial system uncertainty characterizing development of the 40 and 60 ton Matteos. They were in large part simply smaller versions of the previously constructed 80 ton Matteo. To any extent otherwise, referencing the three differences discussed above that A&D highlighted, those differences seem largely consistent with conventional horizontal lathes, and different only in respect of the 80 ton Matteo, thereby highlighting the latter’s uniqueness. These differences were not shown to be so significant as to signify any noteworthy system uncertainty constituting a technological uncertainty.
+[80] Thus, I conclude that the work in developing the 60 and 40 ton Matteos did not constitute SR&ED. Consequently, the claim for two-thirds of the ITCs claimed for Project #4 for the 2008 fiscal period, is dismissed. The one-third share of claimed ITCs allocated to work on the 80 ton Matteo in the 2008 fiscal period will be allowed, as previously noted.
+Project #6 - 2006, 2007 and 2008 fiscal periods, the double wheel roll grinding machine:
+[81] The design, assembly and testing of the double wheel roll grinding machine has been described above in summary fashion. It also was a project envisaged and headed by Mr. Derbedrosian, with Mr. Predoiu’s consulting firm engaged to provide specific and detailed guidance through Mr. Predoiu as chief engineer.
+[82] In determining SR&ED eligibility the first criterion as listed above, drawing from Northwest Hydraulic, is whether there was a “technical risk or uncertainty”. As noted, this means a type of uncertainty the resolution of which is not reasonably predictable using standard procedure or routine engineering. In this context the term “routine engineering” describes, “…techniques, procedures and data…generally accessible to competent professionals in the field.”
+[83] A&D submits that the technical risk or uncertainty in respect of the double wheel grinding machine was whether - with this novel design of having the grinding wheel capable of being repositioned from one side of the machine to the other, rather than requiring the workpiece itself to be moved - fine grinding tolerances still could be achieved. System uncertainty is also cited.
+[84] There was no knowledge, within Canada or internationally, of any grinding machine having this fundamentally novel design feature.
+[85] In considering the evidence as a whole, I Conclude that there was not reasonable expectation that routine engineering or standard procedures would establish that such a design still could achieve required grinding tolerances, defeating risks or uncertainties pertaining to excessive vibration or “chatter”.
+[86] Thus I find that there was technical uncertainty associated with the development and potential implementation of this radical design concept.
+[87] The second of the five Northwest Hydraulic criteria is whether A&D formulated hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+[88] Again, Mr. Predoiu’s testimony satisfied me that his highly knowledgeable and experienced input in his position as chief engineer in the design and manufacture of the double wheel grinder was quite focused on reducing risks. That is, he in combination with Mr. Derbedrosian did formulate theories and or plans seeking to minimize anticipated risks pertaining to vibration.
+[89] The third of the five Northwest Hydraulic criteria is, did the procedure adopted in each project accord with the total discipline of the scientific method including the formulation, testing and modification of hypotheses? Having heard their testimony I am fully satisfied that Mr. Predoiu, teamed with Mr. Derbedrosian - each able, knowledgeable and highly experienced in the field of machine tools - approached this project in a wholly disciplined and organized manner. Conceptual drawings and drawings of necessary parts could be said to illustrate their methodical and comprehensive approach in seeking to defeat the risk of excessive vibration in developing this new concept machine.
+[90] The fourth Northwest Hydraulic criterion is, did the process result in a technological advancement? A technological advancement is the gaining of new knowledge that advances general understanding. In this instance the project was concluded before any successful outcome. This was due to the cost of this project to A&D. A business decision was taken by Mr. Derbedrosian to end the work. This is the prerogative of, particularly, a private sector entity. I would be reluctant to deny SR&ED recognition because the project did not continue to any natural conclusion.
+[91] In any event in my view technological advancement can occur notwithstanding that the subject work has not proceeded to a natural conclusion. Here, enough work and testing was done to ascertain that the machine had not yielded a sufficiently positive result respecting the deadening or minimization of vibration. The exercise does not have to have been successful for technological advancement to occur. Valuable lessons certainly can be learned as well from defeat. Inevitably such lessons would aid should A&D, or another entity, pick up the gauntlet to resume efforts to develop this radical concept for inducing greater efficiency (in terms of workpiece limited handling) whilst preserving precision accuracy in the operation of the new-design grinding machine.
+[92] The fifth and final criterion specified in Northwest Hydraulic is, was a detailed record of the hypotheses tested, and the results kept as the work progressed? This is a factor the presence of which is indicative of the scientific methodology. As noted above, in ACSIS there were significant contemporaneous records submitted in evidence (specified in ACSIS, para. 37), plus ample oral testimony from the actual trained software technicians who carried out subject work. This combination of written and oral evidence in total was adjudged by the Court as sufficient to have established that the scientific methodology had been observed.
+[93] In my view the situation for development of the grinding machine is not much different. There are records in the form of drawings, supplemented by fulsome testimony particularly from the late Mr. Prediou as chief engineer regarding steps taken along the way in seeking to develop this new design and novel functioning of a grinding machine.
+[94] In conclusion I find that the Northwest Hydraulic criteria have been sufficiently met. I conclude that the work that went into design and build of the grinding machine was SR&ED qualified during each of the subject three fiscal periods. Therefore A&D is entitled to all the ITCs it has claimed for Project #6.
+[95] The appeal will be allowed, without costs due to divided success of the two parties. The appealed reassessments are to be referred back to the Minister for reconsideration and reassessment in accordance with these reasons for judgment.
+Signed at Saskatoon, Saskatchewan, this 28th day of February 2019.
+“B. Russell”
+Russell J.
+CITATION:
+2019TCC48
+COURT FILE NO.:
+2014-3465(IT)G
+STYLE OF CAUSE:
+A & D PRECISION LIMITED, AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 5-6-7-8-9, 2017 and June 12-13-14-15, 2017 and October 3-4-5, 2017 and
+December 11-12-13, 2017 and January 21, 2018 and April 30, 2018, May 1-2-3-4, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+February 28, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Adam Gotfried
+Justin Kutyan
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Christopher Kitchen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Adam Gotfried
+Justin Kutyan
+Firm:
+KPMG Law
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,1350 @@
+Title: 2530-1284 Québec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27668/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-286-27668-2530-1284-qu-bec-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-05-23
+
+# 2530-1284 Québec Inc. c. La Reine
+
+- Citation: 2007 TCC 286
+- Decision date: 2007-05-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 489, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2530-1284 Québec Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-23
+Neutral citation
+2007 TCC 286
+File numbers
+96-1457(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 96-1457(IT)G
+BETWEEN:
+2530-1284 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on common evidence with the appeals of
+Ralph E. Faraggi (96-1458(IT)G), Robert Langlois (96-1459(IT)G) and 2529-1915 Québec Inc. (96-1460(IT)G) on
+January 16, 17, 18 and 19, 2006 and January 23 and 24, 2006
+at Montreal, Quebec.
+Before: The Honourable Associate Chief Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc
+Lysane Tougas
+Counsel for the Respondent:
+Daniel Marecki
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1987 taxation year is dismissed.
+There will be one set of costs in favour of the respondent.
+Signed at Ottawa, Canada, this 23rd day of May 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Translation certified true
+on this 31st day of July 2007.
+Erich Klein, Revisor
+Docket: 96-1458(IT)G
+BETWEEN:
+RALPH E. FARAGGI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+2530-1284 Québec Inc. (96-1457(IT)G), Robert Langlois (96-1459(IT)G) and 2529-1915 Québec Inc. (96-1460(IT)G) on
+January 16, 17, 18 and 19, 2006 and January 23 and 24, 2006
+at Montreal, Quebec.
+Before: The Honourable Associate Chief Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc
+Lysane Tougas
+Counsel for the Respondent:
+Daniel Marecki
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1987 and 1988 taxation years are dismissed.
+There will be one set of costs in favour of the respondent.
+Signed at Ottawa, Canada, this 23rd day of May 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Translation certified true
+on this 31st day of July 2007.
+Erich Klein, Revisor
+Docket: 96-1459(IT)G
+BETWEEN:
+ROBERT LANGLOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+2530-1284 Québec Inc. (96-1457(IT)G), Ralph E. Faraggi (96-1458(IT)G) and 2529-1915 Québec Inc. (96-1460(IT)G) on January 16, 17, 18 and 19, 2006 and January 23 and 24, 2006 at Montreal, Quebec.
+Before: The Honourable Associate Chief Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc
+Lysane Tougas
+Counsel for the Respondent:
+Daniel Marecki
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1987 and 1988 taxation years are dismissed.
+There will be one set of costs in favour of the respondent.
+Signed at Ottawa, Canada, this 23rd day of May 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Translation certified true
+on this 31st day of July 2007.
+Erich Klein, Revisor
+Docket: 96-1460(IT)G
+BETWEEN:
+2529-1915 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+2530-1284 Québec Inc. (96-1457(IT)G), Ralph E. Faraggi (96-1458(IT)G and Robert Langlois (96-1459(IT)G) on January 16, 17, 18 and 19, 2006
+and January 23 and 24, 2006 at Montreal, Quebec.
+Before: The Honourable Associate Chief Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellants:
+Bertrand Leduc
+Lysane Tougas
+Counsel for the Respondent:
+Daniel Marecki
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1987 taxation year is dismissed.
+There will be one set of costs in favour of the respondent.
+Signed at Ottawa, Canada, this 23rd day of May 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Translation certified true
+on this 31st day of July 2007.
+Erich Klein, Revisor
+Citation: 2007TCC286
+Date: 20070523
+Docket: 96-1458(IT)G
+BETWEEN:
+RALPH E. FARAGGI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 96-1459(IT)G
+ROBERT LANGLOIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 96-1460(IT)G,
+2529-1915 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 96-1457(IT)G
+2530-1284 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip A.C.J.
+Introduction
+[1] In 1987 Mr. Robert Langlois and Mr. Ralph Faraggi, lawyers in the Montreal law firm of Stikeman Elliott, formulated and promoted plans to create capital dividend accounts ("CDA" or "CDAs") in several corporations for "sale" or "transfer" to arm’s length third party corporations for a profit. Mr. Langlois was a tax lawyer at the firm; Mr. Faraggi was a corporate lawyer. Together they applied their knowledge in preparing the plans and putting them into effect.
+[2] The plan contemplated using newly formed corporations with nominal assets to subscribe for shares in other newly formed corporations and then create CDA through a combination of share subscriptions, redemption of shares, capital gains by sale of shares and purported elections under subsection 83(2) of the Income Tax Act ("Act"), among other things. Then, through another sequence of share subscriptions and share redemptions, third parties at arm's length to the appellants would receive capital dividends.
+[3] In short, after the "creation" of capital gains several corporations would make elections under subsection 83(2) of the Act and declare tax-free dividends on classes of preferred shares. Near the end of the exercise the aggregate CDAs of these corporations would find their way to an appellant corporation. A third-party corporation would subscribe for shares in an appellant corporation. These shares would have a nominal par value, say $0.01 per share, and a high redemption amount, say $1,000 per share. The third-party corporation would pay $1,210 per share and an appellant corporation would redeem the share for $1,000, electing under subsection 83(2) of the Act that the deemed dividend of $999.99 (subsection 84(1) of the Act) be paid out of the appellant company's capital dividend account. The third-party corporation would then have a capital dividend account and pay its shareholders, after making its own subsection 83(2) election, $1,000 tax-free. Before the transaction, the third-party corporation had no amount in a capital dividend account and could only pay its shareholders a taxable dividend of $1,210; the tax rate in Quebec for individual shareholders was 41.87 per cent. After the transaction the shareholders received $1,000 tax-free; the third-party corporation effectively paid $210 for the tax-free $1,000 dividend. The effective cost to the third-party corporation and its shareholders for the $1,000 dividend was 21 per cent, an economic saving of 20.87 per cent.
+[4] Mr. Langlois and Mr. Faraggi are appealing their income tax assessments for 1987 and 1988 and corporations 2530-1284 Québec Inc. ("1284 Inc.") and 2529‑1915 Québec Inc. ("1915 Inc.") are appealing assessments for 1987.
+[5] The Minister of National Revenue ("Minister") assessed 1284 Inc. and 1915 Inc. on the basis that they earned a profit of $4,677,717 and $8,105,344, respectively, in their 1987 taxation years from carrying on businesses or ventures in the nature of trade, that is, selling fictitious CDA to third parties. The profits (the $210 in the example described in paragraph 3) were included in the corporate appellants’ respective incomes for 1987 as business income in accordance with section 3 and subsection 9(1) of the Act. The corporate appellants, the respondent adds, did not and could not receive capital dividends from the corporations they allege paid them such dividends because the corporations did not realize any capital gains nor did they receive any dividends out of another corporation’s capital dividend account. Any capital gains, and any elections made pursuant to subsection 83(2) of the Act, by any of the corporations in these transactions were fictitious and shams, says the respondent.
+[6] With respect to the appellants Mr. Langlois and Mr. Faraggi, the Minister assessed on the basis that each received taxable dividends of $8,114,350 in 1987 and $155,912 in 1988 notwithstanding that the paying corporations purported to elect under subsection 83(2) of the Act that the dividends were to be paid out of their respective CDA. The respondent claims that the paying corporations never realized capital gains nor had they received dividends out of the CDA of other corporations; the paying corporations did not have CDA from which they could pay tax-free dividends to shareholders. Any such purported capital gains or dividends from CDA received from other corporations were fictitious and shams. The individual appellants received taxable dividends, not tax-free dividends, according to the respondent.
+[7] The Minister also assessed the appellants penalties by virtue of subsection 163(2) of the Act, alleging that each appellant was part of a vast fraud led by persons who were reckless and grossly negligent such that each appellant knowingly or under circumstances amounting to gross negligence made false statements in returns, forms, certificates and statements filed or made in respect of the 1987 taxation year (and 1988 with respect to the individual appellants) by camouflaging the origin of the CDAs. Mr. Langlois and Mr. Faraggi omitted to declare the taxable dividends of $8,114,350 and $155,912 received in 1987 and 1988, respectively, and are each liable to penalties pursuant to subsection 163(2) of the Act of $304,147 for 1987 and $10,564 for 1988. Appellants 1284 Inc. and 1915 Inc. omitted to declare business income for 1987 of $4,677,717 and $8,105,344, respectively, and are liable to penalties pursuant to subsection 163(2) of the Act of $421,579 and $763,316, respectively.
+[8] The corporate appellants claim they did not carry on any business and the capital gains reported were real, were determined in accordance with the provisions of the Act. Valid elections were made, also in accordance with the Act, in particular subsection 83(2). There was no sham.
+[9] The individual appellants say that the corporations who paid them dividends had bona fide capital gains and made proper elections under subsection 83(2) of the Act: the dividends they received in 1987 and 1988 from the corporations were dividends paid out of valid CDAs of these corporations.
+[10] The appeals were heard on common evidence.
+The Deeds
+[11] The corporations participated in two series of transactions, one on August 13, 1987 ("Series 1") and one other ("Series 2"), which was carried out in two phases in September. All corporations in these transactions were incorporated under Part 1A of the Quebec Companies Act.[1] The Companies Act permitted corporations to have par value shares; par value shares apparently were necessary for the proposed transactions to take place in the way they did. Also, the Quebec legislation permitted a corporation to issue shares without immediate payment by the subscribing shareholder.[2] The authorized capital of the corporations in each series of transactions consisted of an unlimited number of common shares without par value and twelve classes of an unlimited number of non-voting preferred shares, classes "A" to "L", inclusive, each preferred share usually having a par value of $0.01 and redeemable, depending on the class of preferred share, for $100.01 or $1,000.01 each, subject to adjustment. Dividends on the preferred shares could not exceed a fixed amount. The classes of preferred shares were identical except that they ranked in alphabetical order concerning dividends and return of capital on liquidation or dissolution. Class "A" shares, for example, had priority over Class "B" shares which had priority over Class "C" shares and so on. At the beginning of the series of transactions the companies had no assets, except for nominal amounts paid by shareholders upon subscribing for common shares. Only after the corporate appellants had dealt with the third party corporations did they have any appreciable assets, the money being assessed as profits from a business.
+[12] The corporations were organized: common shares were issued, directors were elected, the usual by-laws were adopted. Mr. Langlois and Mr. Faraggi were directors of all of the companies.
+[13] The corporations participating in the first series and Phase 2 of the second series[3] were:
+Letter
+Corporate name
+Designation
+Appellant
+2529-1915 Québec Inc.
+1915 Inc.
+A Inc.
+2528-5644 Québec Inc.
+2528 Inc.
+B Inc.
+2529-0099 Québec Inc.
+0099 Inc.
+C Inc.
+2529-0107 Québec Inc.
+0107 Inc.
+D Inc.
+2529-0115 Québec Inc.
+0115 Inc.
+E Inc.
+2529-0123 Québec Inc.
+0123 Inc.
+F Inc.
+2529-0131 Québec Inc.
+0131 Inc.
+G Inc.
+2529-0149 Québec Inc.
+0149 Inc.
+H Inc.
+2529-0156 Québec Inc.
+0156 Inc.
+I Inc.
+2529-0164 Québec Inc.
+0164 Inc.
+J Inc.
+2529-0172 Québec Inc.
+0172 Inc.
+K Inc.
+2529-0180 Québec Inc.
+0180 Inc.
+L Inc.
+2529-0198 Québec Inc.
+0198 Inc.
+M Inc.
+2529-0206 Québec Inc.
+0206 Inc.
+[14] The corporations in the first phase of Series 2[4] were:
+Letter
+Corporate name
+Designation
+Appellant
+2530-1284 Québec Inc.
+1284 Inc.
+N Inc.
+2530-1276 Québec Inc.
+1276 Inc.
+O Inc.
+2530-1292 Québec Inc.
+1292 Inc.
+P Inc.
+2530-1300 Québec Inc.
+1300 Inc.
+Q Inc.
+2530-1318 Québec Inc.
+1318 Inc.
+R Inc.
+2530-1326 Québec Inc.
+1326 Inc.
+S Inc.
+2530-1334 Québec Inc.
+1334 Inc.
+T Inc.
+2530-1342 Québec Inc.
+1342 Inc.
+U Inc.
+2530-1359 Québec Inc.
+1359 Inc.
+V Inc.
+2530-1367 Québec Inc.
+1367 Inc.
+W Inc.
+2530-1375 Québec Inc.
+1375 Inc.
+X Inc.
+2530-1383 Québec Inc.
+1383 Inc.
+Y Inc.
+2530-1391 Québec Inc.
+1391 Inc.
+Z Inc.
+2530-1409 Québec Inc.
+1409 Inc.
+[15] Mr. Langlois and Mr. Faraggi and 2411-4340 Québec Inc. ("4340 Inc.")[5] each held one-third of the common shares of 0206 Inc. and 1915 Inc. 1276 Inc. was the sole common shareholder of 1300 Inc., 1318 Inc., 1326 Inc., 1334 Inc., 1342 Inc., 1359 Inc., 1367 Inc., 1375 Inc., 1383 Inc., 1391 Inc., and 1409 Inc. Mr. Langlois and Mr. Faraggi were the common shareholders of the other corporations.
+Series 1
+[16] In the first series of transactions there was a chain or group of 13 corporations, each owning a class of preferred shares of the corporation immediately below it in a direct vertical line. 2528 Inc. was at the head of the chain. Transactions between these corporations were intended to create capital gains and deemed dividends. The corporations purported to make elections under subsection 83(2) of the Act that the deemed dividends be paid out of CDA. The appellants state that dividends were paid or were deemed by the Act to be paid up the chain of corporations until the aggregate of dividends, all out of CDAs, reached 2528 Inc. In turn, 2528 Inc., paid a dividend out of its capital dividend account, being the aggregate of all the other corporations’ CDAs, to 1915 Inc. 1915 Inc. then "sold" to third parties the bulk of amounts of CDA it received from 2528 Inc. The following is an abridged step-by-step description of the transactions the appellants say took place in August:[6]
+The initial transactions took place in a conference room at the Place Ville-Marie branch of the Royal Bank of Canada on August 13. Before the transactions in Series 1 started, Messrs. Langlois and Faraggi had obtained an overdraft of $10,000,100 from the Royal Bank.[7] They paid for their common shares in 1915 Inc., for example, with their own funds and loaned money to some other corporations to permit them to subscribe for common shares.
+a) A Inc. issued a certified cheque in the amount of $10,000,100 drawn on its account at the Royal Bank to subscribe for 10,000 Class "L" shares of B Inc. B Inc. deposited the $10,000,100 in its bank account. B Inc. then declared a stock dividend of 10,000 Class "K" shares on its Class "L" shares to A Inc.
+b) B Inc. issued a certified cheque in the amount of $10,000,100 drawn on its account at the Royal Bank to subscribe for 10,000 Class "L" shares of C Inc. C Inc. deposited the $10,000,100 in its bank account.
+c) C Inc. issued a certified cheque in the amount of $10,000,100 drawn on its account at the Royal Bank to subscribe for 10,000 Class "L" shares of D Inc.
+d) C Inc. declared a stock dividend of 10,000 Class "K" shares on its Class "L" shares to B Inc. The adjusted cost base of each Class "L" share was $0.01: subsection 52(3) of the Act. The stock dividend was valued at $10,000,000.
+e) B Inc. sold the Class "K" shares to A Inc. for a consideration of $10,000,000; the consideration paid for the purchase was a non‑interest-bearing $10,000,000 promissory note payable on demand. Thus, B Inc. purported to make a capital gain of $9,999,900.[8]
+The appellants’ files at Revenue Canada were eventually reviewed by Mr. Michel Dupuis, an auditor with Revenue Canada and its successor, the Canada Revenue Agency. Mr. Dupuis testified that when A Inc. issued promissory notes aggregating $110,000,000 for the Class "K" shares, it had cash assets of $100 only.
+f) Similarly, each of C Inc., D Inc., E Inc., F Inc., G Inc., H Inc., I Inc., J Inc., K Inc., and L Inc. issued a certified cheque in the amount of $10,000,100 drawn on its account at the Royal Bank to subscribe for 10,000 Class "L" shares of corporations D Inc. to M Inc. respectively, followed by a stock dividend of 10,000 "K" shares on each corporation’s Class "L" shares (the owners being C Inc. to L Inc.). All the Class "K" shares were then allegedly sold to A Inc. for a consideration of $10,000,000 in each case, payable by a promissory note, for a total of $110,000,000. Each of B Inc. to L Inc. claimed a capital gain of $9,999,900, or $109,998,900 for the eleven corporations. The aggregate taxable capital gains of B Inc. to L Inc. on the alleged sales of the Class "K" shares were $54,999,450, which is also the aggregate amount of the purported CDA of these corporations.
+g) M Inc. paid a cash dividend of $10,000,000 on the Class "K" shares to its shareholder A Inc. which used this money to reimburse the Royal Bank.
+h) Corporations B Inc. to L Inc. amended their articles of incorporation ("statuts de constitution") increasing the par value of each of their Class "K" shares from $0,01 to $500. The increase in par value of the shares allegedly triggered deemed dividends to the holder of the Class "K" shares, A Inc., of $54,998,900[9] or $4,999,900 from each corporation: subsection 84(1) of the Act.
+i) Each of C Inc. to M Inc. purported to elect pursuant to subsection 83(2) of the Act that the deemed dividend of $4,999,900 on the increase in the par value of the Class "K" shares be paid out of its CDA. A Inc. received dividends of $54,998,900, purportedly out of the CDA.
+j) On or about September 14, in order to offset the taxable capital gains, the following transactions were performed to create capital losses in the corporations B Inc. to L Inc. (i) B Inc. sold its 10,000 Class "L" shares that it owned in C Inc. to Mr. Faraggi for a consideration of $100. Since the cost base of these shares was $10,000,100, there was a purported capital loss of $10,000,000, $5,000,000 of which was an allowable capital loss. The allowable capital loss offset the taxable capital gain of $5,000,000 that B Inc. realized when it sold the Class "K" shares. (ii) Sales of Class "L" shares owned by corporations C Inc. to L Inc. in corporation D Inc. to M Inc. similarly took place one after the other to reduce their earlier capital gains to nil.
+k) On August 20, 1987, 1915 Inc. borrowed $23,216.61 from its three shareholders and on or about August 21, 1915 Inc. subscribed for 495,660 Class "L" shares of A Inc. for $55,023,216, paid as to $23,216.61 by cheque and the balance by an interest-bearing demand note.[10]
+l) The directors of A Inc. declared a dividend of $49,566,000 to be paid to the owner of the Class "L" shares, 1915 Inc., and filed an election pursuant to subsection 83(2) of the Act that the dividend of $49,566,000 be paid out of its CDA.[11]
+m) In August and September 1915 Inc. and A Inc. paid dividends to each of Mr. Langlois and Mr. Faraggi; the dates, amounts and shares on which the dividends were paid are as set out in Appendix 3 to these reasons. (Notwithstanding that elections were made under subsection 83(2) of the Act, the respondent says these are taxable dividends.)
+n) (i) Later, in August and September, 1915 Inc. transacted with several arm’s length corporations which had a substantial surplus that could only be paid out to their shareholders as taxable dividends. To avoid the burden of distributing taxable dividends, these corporations subscribed for different classes of preferred shares of 1915 Inc. which were redeemed in a similar manner to that described in paragraph 3 of these reasons.
+(ii) The subscription prices varied not only for the class of shares subscribed for but even for the price of the same class of preferred shares. For example, on September 4, 1987 Mr. Langlois and Mr. Faraggi each purchased 64 Class "I" shares of 1915 Inc. for $1.00 each. Their assistants at Stikeman Elliott also purchased Class "I" shares for $1.00 each. However, on the same day a corporation at arm’s length to the appellants subscribed for 10,400 Class "I" shares of 1915 Inc. for $11,585,845.75.
+(iii) During August, September and November 1987 and on December 30, 1988 Mr. Langlois and Mr. Faraggi received dividends aggregating $8,114,350 in 1987 and $155,912 in 1988 from 1915 Inc, 5644 Inc., 1292 Inc. and 1276 Inc. On September 4, 1987, the day Mr. Langlois and Mr. Faraggi each subscribed for 64 Class "I" shares of 1915 Inc. for $64, the directors of 1915 Inc. declared and paid a dividend of $1,000 on each Class "I" share, electing under subsection 83(2) of the Act.[12] Other companies also paid dividends on common shares.
+[17] Thus, shareholders of the arm’s length corporations purportedly received dividends tax-free instead of receiving taxable dividends. The difference between the cost of a share, say $1,210, and the redemption amount, say $1,000, that is, $210, aggregated $8,105,344, with adjustments, in respect of all of the shares so issued and redeemed. According to the respondent, the $8,105,344 was business income to 1915 Inc. and was available for 1915 Inc. to distribute to its shareholders or retain for other purposes.[13]
+[18] Mr. Faraggi described the transactions in Series 1, once step a) at paragraph 16, took place:
+[TRANSLATION]
+. . . So the first transaction was the subscription by 5644, 2528-5644, which subscribed for ten thousand (10,000) Class L shares, I think, in 0099. And then, the cheque was written and it may have been the bank that prepared the cheque or maybe I did. In any case, I signed the cheque and they went, the runners who were in the room, they left, they went to the counter; they had the cheque for $10,000,000 certified. They . . . I don't recall whether they came back to show us the cheque; actually they did come back to show us the cheque. We saw only the certified cheque; the deposit slip was prepared for 099. Then they left with it. So at that point we had 2528 which had subscribed for the shares in 0099, and so there was no doubt a resolution of 2528 authorizing it to subscribe for ten thousand (10,000) shares in 0099. That resolution was signed and it was put aside. 2529 0099 received a subscription letter, a subscription letter from 5644 for ten thousand (10,000) Class L preferred shares of 0099. The resolution was signed for the subscription for the shares and 2528 presented this letter to 099. At that point, the deposit, we had the cheque from 2528, which was now certified. The deposit was prepared and they left to make the deposit. The resolution of 0099 authorizing the issue of ten thousand (10,000) Class L preferred shares of 0099 was signed. Then, as far as I can remember, 099 subscribed for ten thousand (10,000) Class L preferred shares of 0107. So a cheque of 0099 payable to the order of 2529 0107 Québec Inc. was written. The cheque . . . the runner left, had the cheque certified and came back. We had the certified cheque, we saw that the cheque was certified. The deposit was prepared. Oh, in the meantime . . . it must be said that we waited to see, we made sure the deposit had returned to 0099. We saw that the deposit — the sum of $10,000,000 had been deposited — had been stamped by the bank. “Fine, the money is there.” We moved on to the next subscription and so on for about an hour and a half, the time it took to carry out all the transactions.
+Q. Yes.
+A. And then, well, perhaps I should go into a bit more detail in order to . . . because then there was the subscription in 0099, by 0099 for the shares of 107 and then 0107 declared a dividend of Class K preferred shares in favour of 0099. And then, there was a sale of these ten thousand (10,000) Class K preferred shares, a sale by 0099 to 2528-5644, of the 10,000 Class K preferred shares that 0099 had received, after a dividend was declared by 0107. And this sale was for a consideration of $10,000,000. And so on from 0107 to 0115 to 0123 to 0131, 0142, 0156, etc. up to 0 . . .
+Q. 206.
+R. Up to 0206, but 0206 did not sell any shares; it did not have a capital gain.
+Q. No, but the chain stopped . . .
+R. Yes.
+Q. . . . at 0206?
+R. At 0206, yes.
+Q. O.K.
+Series 2
+[19] In phase 1 of Series 2, N Inc. created CDAs with companies P Inc. to Z Inc. In Series 2, phase 2, P Inc. was used to create capital dividend accounts with companies B Inc. to L Inc. The following is a condensed version of the transactions in phases 1 and 2 of Series 2 that the appellants say took place on September 9, 1987 and some days later.
+The Series 1 transactions put the individual appellants in a cash position. On September 9, Mr. Langlois and Mr. Faraggi deposited sums of $3,239,500 and $2,650,500, respectively, in their personal bank accounts at the main Montreal branch of the Canadian Imperial Bank of Commerce and on the same day loaned these amounts to 1276 Inc.; the sum of $5,890,200 was deposited in the bank account of 1276 Inc. at the Royal Bank purportedly on September 9 after 3 p.m., and was used to fund the transactions in Series 2. Bank accounts were opened by the particular companies on September 9, also, the appellants say, after 3 p.m.[14]
+Phase 1
+a) N Inc. subscribed for 5,890 Class "L" shares of Z Inc. for a consideration of $5,890,200. This money was deposited in Z Inc.’s bank account.
+b) Z Inc. paid a stock dividend of $5,890,000 by issuing 5,890 Class "K" shares on the Class "L" shares that N Inc. owned. The Class "K" shares had a paid‑up capital of $0.01 per share, but a fair market value of $5,890,200.
+c) N Inc. sold the 5,890 Class "K" shares of Z Inc. to P Inc. for $5,890,200. P Inc. paid for Z Inc.’s Class "K" shares by issuing 5,890 Class "L" shares, which purportedly had a value of $5,890,200. N Inc. became the owner of 5,890 Class "L" shares of P Inc. and P Inc. became the owner of 5,890 Class "K" shares of Z Inc. This sale purported to create a capital gain of $5,889,941.10 for N Inc., which gave rise to a taxable capital gain of $2,944,970.55 for N Inc.
+d) P Inc. paid a stock dividend of 5,890 Class "K" shares having a purported value of $5,890,000 to the owner of its 5,890 Class "L" shares, that is, to N Inc.
+e) N Inc. sold the 5,890 Class "K" shares of P Inc. to Q Inc. for $5,890,000. The latter paid for these Class "K" shares by issuing 5,890 Class "L" shares (of Q Inc.), which again gave rise to a capital gain of $5,889,941.10 for N Inc.
+f) N Inc. and each of Q Inc. to Y Inc. entered into transactions in the same manner as above, thus giving rise to purported aggregate capital gains to N Inc. in the amount of $58,899,411. N Inc.’s taxable capital gain and amount available for its capital dividend account was $29,449,705.50.
+g) Z Inc. paid a stock dividend of $5,890,000, issuing 5,890 Class "J" shares on its 5,890 Class "K" shares that P Inc. owned. The Class "J" shares had a paid‑up capital of $0.01 and a purported fair market value of $5,890,200.
+h) P Inc. sold to L Inc. the 5,890 Class "J" shares of Z Inc. for $5,890,200 and received in return 5,890 Class "J" shares in L Inc. This sale purported to create a capital gain of $5,890,200 for P Inc.
+i) L Inc. paid a stock dividend of $5,890,000 to the holder of its Class "J" shares by the issuance of 5,890 Class "I" shares to P Inc.; the paid‑up capital of each Class "I" share was $0.01 and all of the Class "I" shares so issued had a purported fair market value of $5,890,000.
+j) P Inc. then sold the 5,890 Class "I" shares of L Inc. to K Inc. in consideration of 5,890 Class "J" shares of K Inc. This transaction purported to create a capital gain of $ 5,890,200.
+k) K Inc. declared a stock dividend of $5,890,000 on the 5,890 Class "J" shares owned by P Inc., issuing 5,890 Class "I" shares to P Inc.
+l) Each of J Inc., I Inc., H Inc., G Inc., F Inc., E Inc., D Inc., C Inc., and B Inc. paid in order a stock dividend of $5,890,000 to the holder of its Class "J" shares by issuing 5,890 Class "I" shares to P Inc., the holder of the Class "J" shares of all these companies. P Inc. sold its Class "I" shares to the next company in the chain in return for Class "J" shares, as in j) above. Each of these sales purported to create a capital gain of $5,890,200 for the vendor corporation, P Inc.; P Inc.'s aggregate capital gain was $64,789,352.10. The alleged aggregate taxable capital gain for P Inc. was $32,394,676.05.
+Phase 2
+The following took place on September 9 and later:
+m) O Inc. subscribed for 29,173 Class "L" shares of N Inc. for $29,468,000, payable by a demand promissory note.
+n) O Inc. subscribed for 32,070 Class "J" shares of P Inc. for $32,295,000, payable by a demand promissory note.
+o) Payment for substantially all of the amounts represented by the promissory notes, plus interest, was demanded on September 12 and on the same day N Inc. declared cash dividends of $29,173,000 on its Class "L" shares and of $32,070,000 on its Class "I" shares, which compensated for the payment of the demand notes.
+p) N Inc. filed forms of election, pursuant to subsection 83(2) of the Act, with respect to the dividends of $29,173,000 and $32,070,000. O Inc. purportedly received dividends of $61,243,000 from the CDA of N Inc.
+q) On September 13, 1284 Inc. subscribed for 45,125 Class "L" shares of O Inc. for $50,820,451.25; payment was made by a demand promissory note.
+r) Also on September 13, 1915 Inc. subscribed for 9,806 Class "L" shares of O Inc. for $11,043,664.16, and payment was made by a demand promissory note.
+s) On September 14, O Inc. demanded payment from 1284 Inc. of $1,000 per Class "L" share subscribed, that is, $45,125,000 and demanded payment from 1915 Inc. of $9,806,000. At the same time, N Inc. demanded payment from 1284 Inc. of the amount of $45,133,354.08, plus interest, due to it under the demand note signed by 1284 Inc. and payment from 1915 Inc. of the amount of $9,807,815.40, plus interest, due to it under the demand note signed by 1915 Inc.
+t) Also on September 14, O Inc. purported to declare a cash dividend of $54,931,000 to holders of its Class "L" shares, which amount was paid to 1284 Inc. as to $45,125,000 and to 1915 Inc. as to $9,806,000.[15] Forms of election pursuant to subsection 83(2) of the Act were filed with Revenue Canada.
+u) On or about September 24, N Inc. sold to Mr. Faraggi 5,890 Class "L" shares in each of P Inc., Q Inc., R Inc., S Inc., T Inc., U Inc., V Inc., W Inc., X Inc., Y Inc. and Z Inc. it had previously acquired for $600, attempting to trigger a capital loss for N Inc. of $58,899,400. On the same day, P Inc. sold to Mr. Faraggi 5,890 Class "K" shares in C Inc., D Inc., E Inc., F Inc., G Inc., H Inc., I Inc., J Inc., K Inc., L Inc. and M Inc. for $660, attempting to trigger a capital loss of $64,789,340 for P Inc.
+[20] Each of 1915 Inc. and 1284 Inc. transacted with corporations with which it dealt at arm's length to "sell" or "transfer" capital dividends in a manner similar to that described in paragraph 3 of these reasons.[16] The Minister treated the difference between the amounts the third party corporations paid for shares and the amounts they received on redemption of the shares as profits from a business to 1915 Inc. and 1284 Inc. in 1987. The amounts so assessed were $8,105,344 to 1915 Inc. and $4,677,717 to 1284 Inc. The various transactions between 1915 Inc. and 1284 Inc. whereby they issued shares to arm's length parties and then redeemed the shares are listed in Appendices 1 and 2, respectively, to these reasons.
+The Plans
+[21] The event giving rise to the series of transactions under review appears to have been a transaction observed by Mr. Langlois at the Stikeman Elliott offices in January 1987. A non‑resident-controlled Canadian corporation which had substantial capital gains "transferred" its capital dividend account to a Canadian-controlled corporation. When Mr. Langlois reviewed the transaction later that evening in January with Mr. Faraggi he was enthralled at the prospect of a similar transaction possibly being structured for the advantage of other clients of the firm.
+[22] By July Mr. Langlois had prepared a "blue print" setting out a scheme whereby capital gains could be created in corporate entities and then capital dividends be transferred from one corporation to another. Mr. Langlois anticipated that he and Mr. Faraggi might each make about $200,000 from such a scheme. Mr. Langlois and Mr. Faraggi had been approached by Messrs. Brian McDougall and Tom Sawyer, who indicated they knew persons who would be interested in acquiring CDAs. A corporation apparently controlled by Messrs. McDougall and Sawyer was allotted one‑third of the common shares of 1915 Inc. to permit them to participate in any profits resulting from the proposed transactions. Third party corporations that "acquired" CDA would be clients or friends of Mr. Langlois and Mr. Faraggi or persons who were referred directly or indirectly by Messrs. McDougall and Sawyer. Messrs. McDougall and Sawyer contacted a brokerage firm which was quite interested in the project.
+The Banks
+[23] After discussions with interested parties, Mr. Langlois and Mr. Faraggi planned to transfer $50,000,000 of CDA to third party corporations. They anticipated that they would require a bank loan of $10,000,000 to get things started.
+[24] At the end of July or in early August, Mr. Faraggi approached his account manager at the main Montreal branch of the Canadian Imperial Bank of Commerce ("CIBC") for a "daylight" loan[17] of $10,000,000. The CIBC was Stikeman Elliott's bank and the bank was a client of the firm; most, if not all, lawyers at the firm did work for the bank, according to Mr. Faraggi.
+[25] As soon as the loan request was made, the CIBC officials apparently got in touch with Stikeman Elliott's managing partner at the time, Mr. James Grant, and informed him of the loan request. According to Mr. Faraggi, the bank asked Mr. Grant to support the loan. He refused to commit to the loan and the CIBC did not pursue the matter with Mr. Faraggi; the loan request was effectively rejected.
+[26] Mr. Langlois then approached Richard Légaré, who was then executive director at the Place Ville-Marie branch of the Royal Bank of Canada, for a loan of $10,000,000. Mr. Légaré referred Mr. Langlois and Mr. Faraggi to Alain Lapointe who, in August 1987, was commercial loan account manager at the Place Ville-Marie branch.
+[27] Mr. Lapointe met with Mr. Langlois and Mr. Faraggi, who explained their plans. They wanted to issue a cheque for $10,000,000 from an account with no balance and deposit the money in another account and then repeat the process several times until the $10,000,000 was eventually deposited back in the original account. Mr. Lapointe described the origin of the $10,000,000 as he understood it:
+[TRANSLATION]
+A. It came . . . let me explain it to you. Let’s say we have three accounts: A, B, C, and a cheque for 10 million is drawn and deposited in account B, a cheque for 10 million is drawn on account B and deposited in account C, and a cheque is drawn on account C that is deposited in account A. So, to cover the original cheque that was issued from account A, there is a deposit of 10 million that comes from account C. So . . .
+Q. Yes, but what about the first cheque?
+A. Yes.
+Q. The very first one, because as I understand it, it's a cascade. But the very first, does the first cheque for 10 million exist?
+A. Yes.
+Q. Where does that 10 million come from? I am not talking about the cheque that comes back and I am not talking about the second one, but the very very first one.
+A. The fact that a cheque is issued does not necessarily mean that there is money in the account to cover the cheque at the time it is issued.
+[28] Mr. Lapointe believed the deposits would have been made almost at the same time. [TRANSLATION] "There is a theoretical delay between transactions and that's the aspect I really wanted to assess." Mr. Lapointe discussed the proposal with his supervisor and the request was approved. The Royal Bank advised the individual appellants that the cost for the $10,000,000 was $10,000 plus another $500 for opening accounts for the companies involved. The bank demanded no security and none was given.
+[29] The cheques issued by the companies in Series 1 were certified cheques. Mr. Faraggi said the cheques were certified at his request. Mr. Lapointe testified that in certifying a cheque the bank guarantees that funds are in the bank account on which the cheque is drawn at the time the cheque is certified, and the bank maintains the amount of the cheque in the account, or that, if there are insufficient funds in the account, the bank nevertheless will honour the cheque. A certified cheque in the amount of $10,000,000, he agreed with the appellants' counsel, has a value of $10,000,000. When a cheque is not certified, Mr. Lapointe stated, there may or may not be money in the account.
+[30] In the appeals at bar, Mr. Lapointe explained,
+[TRANSLATION]
+What is different with this case is the fact that both the cheques and the deposits were made simultaneously at the same time and were given to the bank at the same time. So when the cheque was issued, not only did we know but also we were aware that there was a deposit of 10 million that had been made into that account to cover the cheque.
+He was not concerned that a certified cheque could be endorsed to a third party:
+[TRANSLATION]
+No, no, because the series of transactions, as I explained to you, A to B, B to C and C to A, etc., took place in the presence of the bank and the cheques and the deposits were all returned to us and we kept them in order to process them by computer.
+The only reason the bank certified the cheques, Mr. Lapointe explained, was that all the cheques, deposits, withdrawals and deposits back to accounts were at all times under the control of the bank.
+[31] Asked whether the bank would have offered Mr. Langlois and Mr. Faraggi an option to repay the $10,000,000 the day after the transactions in Series 1, that is, September 14, Mr. Lapointe replied negatively, explaining that in such a case there would have been a loan for $10,000,000 for one day and the bank would not take such a risk without guarantees.
+[32] According to Mr. Lapointe, at the beginning of the transactions in Series 1 there were zero dollars in the accounts of all the companies and after the last transaction (before any "transfer" of capital dividend account to third parties) there were zero dollars in the accounts of the companies. But, he added, transactions of $10,000,000 did take place: there was a series of cheques between accounts for $10,000,000 and a series of similar deposits.
+[33] The Royal Bank never intended to lend any money to Mr. Langlois and Mr. Faraggi or their corporations, Mr. Lapointe insisted. Without any guarantees, the bank would not advance money. Also, the bank required an agreement of loan and there was none. There was no agreement as to interest as is required for a loan and, according to Mr. Lapointe, no interest was charged. The bank considered that the passing of certified cheques and deposits was without risk to the bank since the bank was not exposed to any loss; there was no loan, he declared.
+[34] Mr. Lapointe denied that the bank's actions constituted a "daylight" loan. In his view, in 1987 a "daylight" loan was used by stock brokers when they required money to be placed in an account at, say, 10 a.m. until a deposit to cover the amount could be made at, say, 11:00 a.m. In such a case interest would be calculated on the number of hours during the day the money was outstanding. Also, daylight loans required guarantees. This was not the situation with Mr. Langlois and Mr. Faraggi, although Mr. Lapointe admitted the transaction was structured like a "daylight" overdraft.
+[35] The appellants' counsel noted that Mr. Lapointe indicated at the bottom of a note to file dated August 12:
+[TRANSLATION]
+$10,000 “put in place, daylight overdraft”, that is, $10,000 at . . . one tenth of one per cent.
+Q. . . . one tenth of one per cent.
+And below:
+$500 opening of the current accounts.
+[36] Mr. Lapointe explained the cost of the transaction was 0.1% of $10,000,000, that is, $10,000, plus $500 for opening the account. There was no interest charge. The reference to "daylight overdraft", he explained, was to serve as the basis of the rate charged; this is the basis on which interest is calculated when brokers take out this form of loan.
+[37] Mr. Lapointe estimated that the Series 1 transactions at the Royal Bank took approximately one to one and a half hours. He and Mr. Légaré were present in the conference room during the transactions. The bank accounts had been opened for each corporation before the transactions started. One had to be sure that the right cheque was being deposited in the right account since there were a number of cheques and deposits that had to be made in a certain sequence. There were eleven companies involved and some 20 transactions of cheques and deposits, and all were processed at the same time. The processing of the cheques and deposits took seconds. The cheques and deposits were under the bank's control, Mr. Lapointe repeated. Any amounts of money were credited to different Royal Bank corporate accounts for only seconds or less.
+[38] Mr. Lapointe met with Mr. Langlois and Mr. Faraggi, or one of them, again on September 9, when they deposited approximately $5,800,000 in a Royal Bank account.[18] They opened other accounts as well on that day. These were actual funds, Mr. Lapointe recalled, contrary to the first series of transactions. The deposit was credited on September 10.
+[39] The Crown queried whether the accounts in which the amounts were deposited were even opened by the bank on September 9. In an affidavit dated October 30, 2001, Mr. Lapointe stated that the deposit entry of September 10 was probably due to the fact that the deposit was made after 3 p.m. on September 9. The bank accounts could have been opened on September 9 and, in accordance with bank practice, a cheque could be drawn on the account on September 9 even if the deposit entry is not made until the next day. Mr. Lapointe acknowledged that on September 9 the Royal Bank was in control of the funds. He knew the money would be in the respective accounts the next morning; however, deposited amounts must first be processed before they are credited to the accounts for which they are meant.
+[40] On September 15, Mr. Lapointe prepared a Commercial Banking Credit Application with respect to an application for credit of $20,000,000 by 2528 Inc. However, on Mr. Lapointe being informed of an amendment to the Income Tax Act prohibiting transactions similar to those already undertaken by the appellants, the credit approval was cancelled.[19]
+[41] Lise-Andrée Girard was a credit assistant at the main Montreal branch of the CIBC in 1987 and dealt with many Stikeman Elliott lawyers. During the summer of 1987 she opened several accounts for the individual appellants, for a Mr. Faille and for another person.
+[42] Ms. Girard recalled that about 45 to 50 accounts were opened. All were opened in anticipation of closings of "transactions" transferring CDA to third parties. Ms. Girard prepared bank documents in advance of closings with third parties in order to facilitate and expedite the closings.
+[43] On September 22, Ms. Girard was ordered to stay late because an account had to be opened in anticipation of a closing that day. The transaction, according to her, took place the next day, September 23, because the corporate charter, required for opening an account, was not available.
+[44] However, according to the appellants' evidence, two sets of closings took place on September 22, one by each corporate appellant, and none on September 23. The respondent's counsel referred Ms. Girard to deposit slips for 1276 Inc., 1300 Inc. and 1284 Inc. on which the dates are several days earlier than the CIBC stamp thereon. For example, a slip dated September 9, 1987 is stamped September 16, 1987. Ms. Girard testified that it was not the policy of the CIBC to hold up the deposit of a cheque for several days.
+Law Firm Activity [45] Mr. Grant had other meetings with Mr. Langlois and Mr. Faraggi. He did not testify at trial and the evidence as to what transpired at these meetings is from the testimony of Mr. Langlois and Mr. Faraggi.
+[46] When he and Mr. Faraggi first approached the CIBC, Mr. Langlois testified, they fully explained to the bank their proposal and requested a loan of $10,000,000. He stated they told the CIBC they were acting on their own account and invited the bank to contact Mr. Grant to satisfy itself that the proposed transactions were ethical and would not be detrimental to Stikeman Elliott.
+[47] According to Mr. Langlois, Mr. Grant confirmed to the CIBC that the proposed transactions were personal to him and Mr. Faraggi and that Stikeman Elliott was not involved. Mr. Grant also told the bank that he was not prepared to issue a "comfort letter" to it.
+[48] After speaking to the CIBC, Mr. Grant directed Mr. Langlois and Mr. Faraggi to look to another bank for financing. Mr. Grant also told the individual appellants not to solicit Stikeman Elliott's clients either as a source of capital dividends or as purchasers of capital dividends. Mr. Langlois testified that some clients of the firm had earlier requested his opinion on acquiring CDAs.
+[49] At the same time Mr. Grant was discussing the situation with Mr. Langlois and Mr. Faraggi, the latter — as well as Mr. Grant, it appears — were discussing the transactions with Mr. Maurice A. Régnier, Q.C., the head of Stikeman Elliott's tax department in Montreal.
+[50] I have concluded from the evidence and from observing Mr. Régnier's demeanour during his testimony that he and Mr. Langlois had a very close professional relationship when the latter worked at Stikeman Elliott and that Mr. Régnier had utmost confidence in Mr. Langlois's abilities as a tax lawyer. I mention this because I believe this relationship influenced Mr. Régnier's conduct in dealing with matters at the time, in particular, in preparing letters of opinion.
+[51] Mr. Régnier was questioned by Crown counsel with respect to a meeting he had on May 12, 1989 with Mr. Serge Mercille and Mr. William Rosenberger of Revenue Canada. The Revenue Canada officials were interested in the opinions Mr. Régnier had provided to Mr. Langlois and Mr. Faraggi or to the companies they controlled and possibly to their clients. These opinions were signed during August and September 1987; some opinions (referred to as "long" opinions) indicated the amount of capital dividend account being transferred and others ("short" opinions) did not.[20] According to the revised minutes of the meeting:[21]
+The CDA source was never questioned by Mr. Régnier as to its source; it was presumed to arise from real and legitimate transactions giving rise to increases to the CDA accounts; to the extent of any inaccuracies as to the quantum, the Income Tax Act provided for a Part III tax to the transferor but a full increase in the CDA account of the transferee. Mr. Régnier never thought of, to say the least, the possibility of a fabrication.
+Mr. Régnier did not question the significant quantum of CDA referred to in the September 2/87 long opinion given to Mr. Langlois - approximately $49.6 million. In his mind, he believed that Mr. Langlois had 'found' a source similar in scope to SNC, and also remembered Mr. Langlois's reference to banking arrangements and an acquaintance at Dominion Securities. [22]
+Mr. Régnier would be on a trip for two weeks during September /87; during his absence Mr. Langlois would 'close' his CDA deals.
+Mr. Régnier never participated at any closings.
+[52] Mr. Régnier declared that he opined only on the operations that were a function of an existing capital dividend account. He was not asked, he insisted, for an opinion on the capital dividend account itself. He explained:
+[TRANSLATION]
+It was . . . a fact situation on which I expressed an opinion based on the transactions in question: subscription by third parties for shares of the company in question and then payments of dividends and redemptions of shares. So it was on the transaction as such and not on the quantum, the source, the capital dividend accounts.
+Any amount mentioned in any such opinion was provided by Mr. Langlois. Mr. Régnier declared that he was not concerned with how a capital dividend account may have been created; it was not part of his mandate.
+[53] On or about September 2, 1987, Mr. Régnier forwarded to Mr. Langlois and Mr. Faraggi a copy of a legal opinion in both French and English, dated August 27 and intended for 1915 Inc., its directors and its shareholders; it was an opinion concerning the issue of Class H preferred shares of the company and concerning dividends paid on such shares.
+[54] Mr. Langlois testified that an opinion from Stikeman Elliott was originally requested by lawyers acting for a brokerage with which Mr. Langlois and Mr. Faraggi were negotiating the sale of capital dividend account. Mr. Langlois arranged for Mr. Régnier to provide the opinion. Later, others, such as Mr. Faille, asked to see the opinion. Eventually two opinions were prepared, one being a simple opinion, namely, the “short opinion” referred to earlier, for potential subscribers for shares other than Mr. Faille, addressed to 1915 Inc. In the case of Mr. Faille, a detailed opinion, a “long opinion”, was sent to his company. The proposed transaction did not materialize.
+[55] Mr. Régnier, according to Mr. Langlois, had discussed Mr. Langlois's plan with Mr. Grant. Mr. Langlois paraphrased part of what Mr. Régnier told him of the meeting:
+[TRANSLATION]
+I have just had a discussion with Mr. Grant; he would like to have . . . he would like to have a discussion concerning what you are doing and he also told me that you wanted to create capital dividends and capital dividend accounts.
+Mr. Langlois admitted that he was working on it. According to Mr. Langlois:
+. . . that . . . amused [Mr. Régnier] because he said: “When I heard Jim Grant, Jim talk to me about that, I imagined . . . I saw you with your big pointed alchemist’s hat and . . .”
+[56] Mr. Langlois admitted that Mr. Régnier, when he signed the letter of opinion, had no idea as to the origins of the CDA. When lawyers for one of the original prospective purchasers of CDA questioned the origin of the CDA, Mr. Régnier expressed the view that the source was not relevant.
+[57] Mr. Langlois was also queried by Crown counsel concerning the closing of transactions by 1284 Inc. on September 22. At a meeting between Mr. Grant and Mr. Régnier, Mr. Langlois stated, it was decided that the firm would not give an opinion regarding the scheduled closing. Mr. Grant had met with people from Sherbrooke who wished to purchase CDA and he refused to issue an opinion. A similar transaction nevertheless took place with Mr. Faille's company. Mr. Faille was selling CDA from his company. Later, on September 22, Mr. Faille's company issued a cheque and subscribed for shares in 1284 Inc. However, this was done after banking hours and deposits were made at the bank the following day, according to Mr. Langlois. In the meantime, shares were issued to Mr. Faille's company and dividends on the shares were declared; a resolution making an election under subsection 83(2) was also adopted on September 22. As far as Mr. Langlois was concerned, the transactions were closed on September 22, although cheques were not deposited to 1284 Inc.'s bank account until the next day.
+[58] At the end of the day, 1292 Inc. retained approximately $240,000. The money was used to pay dividends and, also, to issue a cheque to Stikeman Elliott, presumably for services rendered. Stikeman Elliott did not cash the cheque.
+After the Fact
+[59] In December 1987 the appellants and their solicitor at the time began a lengthy series of telephone conversations and meetings with representatives of Revenue Canada, as the taxing authority was then called. The first telephone call took place on December 21 between Mr. Langlois and a Mr. Ritti of the tax department. This was followed by a meeting the next day between Mr. Langlois and Messrs. Rosenberger, Ritti and Daneau of Revenue Canada. Other phone calls and meetings followed during the months of February, March, April, May and November 1988.[23]
+[60] During this period, say the appellants, they provided Revenue Canada officials with documents with respect to Series 1 and 2 transactions.[24] These included corporate documents describing the composition of the CDA of each company, banking documents, details of cheques issued, personal financial information of the individual appellants, organization charts as well as copies of documents requested by Revenue Canada officials at the various meetings. These documents were among those reviewed by Mr. Dupuis.
+Dupuis Testimony
+[61] Mr. Dupuis was the senior tax auditor at Revenue Canada responsible for the appellants’ files. He reviewed all the relevant material relating to the files, including documentation submitted by the appellants; he also interviewed most, if not all, individuals involved in the transactions.
+[62] Mr. Dupuis described the various components of the transactions insofar as the fisc was concerned. He indicated accounting irregularities that cast doubt on the reality of the transactions. For example, he noted that the initial $10 million loan was devoid of any attribute that would qualify it as a loan, such as interest, guarantees, and bank loan agreements. In short, he agreed with Mr. Lapointe. The certified cheques, Mr. Dupuis declared, were an attempt to give the appearance that the corporations had money, which they did not have, in their bank accounts. He explained:
+[TRANSLATION]
+There were eleven companies; there were eleven cheques, for $110,000,100. Then there was the last company in the chain, 0206; it was $10 M in its case. So they ended up with about $130 M; they created financial statements in which they put $100 M in the assets of [A Inc.] and then they issued notes for $110 M. But I can see people saying: “It’s only a cheque”. So was there a loan of $110 M or a loan of $10 M?
+[63] Other aspects of the transactions were also suspect to Mr. Dupuis. He did not believe that the subsection 83(2) elections for capital dividends were bona fide. The mechanism used to create capital gains, namely, promissory notes and their eventual cancellation and the declaration of stock dividends were not legitimate. Mr. Dupuis stated that:
+[TRANSLATION]
+If we look at the entry made in issuing the K dividend in 099, 0099, they debited the contributed surplus, and then the Class K share capital was credited in the entries that were submitted; it is not denied that it was done against the contributed surplus, and the value shown is zero.
+. . .
+And the contributed surplus was debited but with a value of zero. You will see that it is the zero value that is important.
+[64] Mr. Dupuis also alluded to the issuance and sale of the Class “K” shares by the various companies to A Inc., also without the requisite cash assets. He questioned whether the issue of such shares was proper. After the initial $10,000,100 had passed through the various companies, A Inc. continued to issue promissory notes worth $110 million to non-arm’s-length entities. At this time A Inc. had only nominal funds in its account. As Mr. Dupuis explained, the promissory notes delivered by A Inc. in exchange for the $110,000,000 aggregate in Class “K” shares were all promptly cancelled and the shares redeemed. According to Mr. Dupuis:
+[TRANSLATION]
+So you wind up with $110 M in promissory notes issued by 5644. How does 5644 go about paying $110 M in promissory notes? There will be a redemption by . . . companies 099, 0107, 0115 decide to redeem the Class K shares they sold to 5644 for $10 M, but each of them has a note in its hands that is owed by 5644; it will take the note and cancel it. So it loses nothing in the end, $100. It’s a scheme that had to be fully thought through from A to Z, because the $10 M, I said to myself, is there anyone who will someday pay that $10 M for the sale of the class K shares? No one will pay it; as we shall see later, there will be another cancellation.
+[65] As far as Mr. Dupuis was concerned, the corporations were not in possession of dormant CDAs that were then subsequently transferred. Instead, the series of transfers were used to create capital gains which then led to the germination of fictitious CDAs:
+[TRANSLATION]
+The examinations that were conducted of the people we met with, there was reason to believe that there was a tax shelter available. So the creation, when we see Alain Lapointe, when Mr. Lapointe tells us: “I allowed the transaction because at the present time there are dormant companies with [capital dividend accounts]”, well, they're not dormant, those companies, Your Honour, they're in the process of creating CDA, which is not the same thing. From what I can see, he didn't purchase companies in which there was a CDA balance; the $10 M was used to manufacture it.
+[66] In cross-examination, counsel asked Mr. Dupuis:
+[TRANSLATION]
+Q. At the time, the capital gains were achieved as a result of the disposition of shares for which the proceeds of disposition, you explained it all, you had all your tables and they don't even contradict what the appellants have submitted in their statement of facts. There was a sale of shares, the proceeds of disposition were $10 M, the adjusted cost base was $100 and that produced a capital gain.
+And he replied:
+[TRANSLATION]
+A. But we have, pardon me, but that element, which you mention in the statement of facts, we don't admit it. We recognize that there were documents in place but we do not accept those values. Nothing was sold and nothing paid, that’s why we've had so much difficulty agreeing and understanding each other; it’s because the form is there but the money is not. It's as if you were trying to, you would like me to say that yes, there was a sale, it was for $10,000,100, we said so in our statement of facts, but our reply is zero.
+[67] Mr. Dupuis also questioned the dates shares were issued by some corporations. For example, the shares entered in the share registers as [TRANSLATION] "issued and paid for" were paid for with a cheque dated September 9, 1987; however, the accounts of the third party corporations were not opened until October. Mr. Dupuis reviewed the bank documents. Again, a deposit of $110 was made to N Inc.’s bank account on October 2, 1987, purportedly to acquire the common shares of P Inc. to Z Inc., the numbered corporations in the second series. According to CIBC bank statements, the cheques to pay for common shares of P Inc. to Z Inc. were dated and deposited on the 2, 23 and 26 of October 1987. According to CIBC’s statement of fees, dated October 28, 1987, the nine accounts were opened on October 28. The cheques were essential to the transfers of shares in Series 2. Mr. Dupuis wondered:
+[TRANSLATION]
+. . . how it is possible to prepare a deposit in advance with the account number when the account had not been opened on the ninth of September. . . . So I have always wondered how it was possible to be a shareholder of a company and to enter shares as issued and paid for — because it was 1276 that acquired the whole chain — how it was possible to record shares as issued and paid for in the books when it wasn't even possible to write the cheque.
+[68] Mr. Dupuis was correct to pose the following question:
+[TRANSLATION]
+The first question that I asked was: were the essential cheques made out, and then the rest of the accounting done afterwards, the cheques made out in October when the . . . closings had been completed, and then after that the paperwork supporting the transactions done?
+Arguments and Analysis
+[69] The key element in the making of the assessments is the respondent's view that the transactions in Series 1 and 2 comprised business activities and that one or more of the steps described in Series 1 and 2 respectively, and the series themselves, were shams. What the corporate appellants did was to enter into a business, at minimum a venture in the nature of trade, and the difference between what the arm's length third party corporations paid for preferred shares and the amounts for which the shares were redeemed was business income to the corporate appellants. The money to pay dividends to the shareholders was from business income and these dividends were taxable dividends.
+[70] The appellants' counsel submits that the corporate appellants did not realize business income and that the individual appellants, Mr. Faraggi and Mr. Langlois, did not receive taxable dividends from 1915 Inc. and 1284 Inc. There was no sham; there was no deceit.
+[71] The crux of the appellants' submissions is that the Minister must respect the legal reality and legal relationships created in Series 1 and 2. For the Minister to recharacterize the legal relationships is only permissible in the presence of a sham. In these appeals, there can be no sham since the key element of sham is a common intention by the parties to deceive and such common intention is absent. Counsel referred to the Supreme Court decision in Shell Canada Ltd.[25] and Stubart Investments Ltd.[26]
+[72] The appellants submit that the issues of shares in 1915 Inc. and 1284 Inc. to third party arm's length persons were all legally effective transactions completed in due form. These share subscriptions are supported by subscription letters, corporate resolutions and cheques to pay for the shares and are recorded in the share registers of 1915 Inc. and 1284 Inc.
+[73] The Minister, the appellants' counsel argues, is using the notion of sham to recharacterize the share subscriptions in 1915 Inc. and 1284 Inc. as business income derived from profits resulting from the sale of CDA. Counsel insists that CDA cannot be sold; they are not "rights" or "property" and are only accessible to the specific shareholders through the eventual payment of dividends and the making of appropriate elections under the Act. In the absence of any common intention to deceive on the part of the shareholders and the appellants, there can be no finding of sham. Consequently, the Minister must respect the legal relationships as established by the documentation executed by the appellants and the corporations in Series 1 and 2.
+[74] Similarly, counsel for the appellants submits that, absent a sham, the amounts received by Mr. Faraggi and Mr. Langlois are not taxable dividends. These dividends were distributed to Mr. Faraggi and Mr. Langlois following a valid election pursuant to subsection 83(2) of the Act in the prescribed form. Each of the transactions leading to the creation of CDA was legally effective, completed in due form, and supported by documentation.[27]
+[75] In particular, said counsel, none of the operations involving the appellants or the Royal Bank of Canada, or the appellants and the bank, such as the application of $10,000,100 advanced by the bank, the openings and closings of the corporate bank accounts or the issue and deposit of certified cheques, formed shams intended to hide the sale of CDA under the cover of subscriptions for shares in 1915 Inc. and 1284 Inc.. The appellants claim that accounting entries are not legal reality and thus cannot prejudice their case if an unwarranted impression resulted from how transactions were recorded. If each of the component operations leading to the creation of CDA was not a sham then the entire series of transactions cannot be characterized as a sham.
+[76] Thus, absent a sham, the appellants' counsel concludes, the various companies in Series 1 and 2 had valid capital gains, made valid elections pursuant to subsection 83(2) of the Act and created CDA. No portion of the dividends from the valid elections is to be included in the shareholders' income. Section 89 of the Act, he argues, specifically excludes dividends paid out of the CDA from the notion of "taxable dividend". When amounts resulting from the elections pursuant to subsection 83(2) of the Act exceed the available CDA, a tax is applied only to the paying corporation according to subsection 184(2) of the Act and not its shareholders. In no circumstances is a dividend out of CDA transformed into a taxable dividend in the hands of the shareholders. Again, in the absence of sham, the Minister cannot recharacterize transactions which lead to the formation of valid CDAs in the corporations participating in Series 1 and 2.
+[77] In the alternative, the appellants' counsel argues that if any one of the corporate appellants did not have any amount in its CDA when it elected under subsection 83(1) of the Act to pay dividends to the individual shareholders out of their respective CDA, the corporations are liable to penalties under Part III of the Act on the basis that the election was excessive; the individual appellants, however, are not affected adversely.
+[78] Subsection 248(1) of the Act defines the words "entreprise" and "business":
+"business" includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment;
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l'application de l'alinéa 18(2)c), de l'article 54.2, du paragraphe 95(1) et de l'alinéa 110.6(14f), les projets comportant un risque ou les affaires de caractère commercial, à l'exclusion toutefois d'une charge ou d'un emploi.
+[79] It is not any kind of activity or undertaking that may be considered a business; there must be some commercial quality to the activity or undertaking for it to qualify as a business. The "blueprint" for the eventual "transfer" of CDA to third parties and for the payment of dividends to the individual appellants, the solicitation, directly or indirectly, of persons who could benefit from the "transfer" of CDA and other actions by the appellants were all in the nature of a commercial enterprise, no different from the development of a product, the manufacture of that product and the sale of that product by a person carrying on a business. In the appeals at bar all the actions and transactions in Series 1 and 2 were part of a profit-making scheme. Mr. Langlois acknowledged that he and Mr. Faraggi anticipated making about $200,000 each from the scheme. In fact, they made much more. I do not see how the transactions in Series 1 and 2 culminating in the necessary transactions with third parties — which yielded the profit to the appellant corporations — are different from any other profit-making venture. That the intent of the parties was cloaked in purported agreements, in the issuance of shares, in the declaration of dividends and deemed dividends, in capital gains and in subsection 83(2) elections does not change what the appellants intended and what they actually did. The corporate appellants carried on a business of creating dividends, which they advertised as dividends from their capital dividend accounts, and these accounts, if nothing else, they transferred in reality to third parties for a profit. The profits, or parts thereof, were then distributed to the individual appellants as dividends that are to be included in the incomes of the individual appellants as assessed. These dividends were not paid out of any corporation's CDA. There was no amount that was eligible for election under subsection 83(2) of the Act.
+[80] Before Mr. Langlois and Mr. Faraggi started their venture, none of the corporations taking part in Series 1 and 2 had been incorporated, no person involved in Series 1 and 2 had incurred capital gains, and no elections had been filed pursuant to subsection 83(2) of the Act. Mr. Langlois and Mr. Faraggi started off with a clean sheet of paper, with no past history, and created a set of facts for their own purposes. Everything done in Series 1 and 2 was artificial. The appellants exploited provisions of the Act to achieve a result they hoped would not be discovered by the tax authorities. The manner in which they wished to achieve their goal was not consistent with the object, spirit or purpose of, for example, section 89, subsections 52(3), 83(2) and 84(1) of the Act.[28]
+[81] The term "sham" was described by Lord Diplock in Snook v. London & West Riding Investments, Ltd.[29] as:
+. . . acts done or documents executed by the parties to the "sham" which are intended by them to give to third parties or to the court the appearance of creating between the parties legal rights and obligations different from the actual legal rights and obligations (if any) which the parties intend to create. One thing I think, however, is clear in legal principle, morality and the authorities . . . that for acts or documents to be a "sham", with whatever legal consequences follow from this, all the parties thereto must have a common intention that the acts or documents are not to create the legal rights and obligations which they give the appearance of creating. No unexpressed intentions of a "shammer" affect the rights of a party whom he deceived. There is an express finding in this case that the defendants were not parties to the alleged "sham". So this contention fails.
+[Emphasis added.]
+[TRADUCTION]
+[...] les actes faits ou les documents signés par les parties dans l'intention de faire croire aux tiers et au tribunal qu'ils créent des droits et des obligations différents de ceux (s'il en est) que les parties entendent vraiment créer. Je crois qu'il y a cependant une chose qui est claire sur le plan des principes juridiques, de la moralité et des précédents [...] pour qu'un acte ou un document constitue un "trompe-l'oeil" – avec les conséquences juridiques qui peuvent en découler – toutes les parties à cet acte ou à ce document doivent avoir l'intention commune de ne pas créer les droits et les obligations qu'ils font croire qu'ils créent. Les intentions non exprimées de l'auteur du "trompe-l'oeil" n'ont aucune incidence sur les droits de la personne qu'il a trompée. En l'espèce, le tribunal conclut expressément que les défendeurs n'étaient pas partie au présumé "trompe-l'oeil". Cette prétention est donc mal fondée.
+[Je souligne.]
+[82] In Canada, Estey J. described the concept of sham in Stubart Investments Ltd. v. The Queen,[30] as:
+. . . This expression comes to us from decisions in the United Kingdom, and it has been generally taken to mean (but not without ambiguity) a transaction conducted with an element of deceit so as to create an illusion calculated to lead the tax collector away from the taxpayer or the true nature of the transaction; or, simple deception whereby the taxpayer creates a facade of reality quite different from the disguised reality.
+[Emphasis added.]
+[...] cette expression nous vient de décisions du Royaume-Uni et signifie, de façon générale (non sans ambiguïté), une opération assortie d'un élément de tromperie de manière à créer une illusion destinée à cacher au percepteur le contribuable ou la nature réelle de l'opération, ou un faux-semblant par lequel le contribuable crée une apparence différente de la réalité qu'elle sert à masquer.
+[Je souligne.]
+[83] Justice Estey added that "deceit . . . is the heart and core of a sham".[31] Where there is no deceit, Estey J. explained:
+. . . The transaction and the form in which it was cast by the parties and their legal and accounting advisers cannot be said to have been so constructed as to create a false impression in the eyes of a third party, specifically the taxing authority. The appearance created by the documentation is precisely the reality. Obligations created in the documents were legal obligations in the sense that they were fully enforceable at law.[32]
+[Emphasis added.]
+[...] On ne peut soutenir que l'opération elle-même et la forme dans laquelle les parties, leurs conseillers juridiques et comptables l'ont réalisée l'ont été de manière à créer une fausse impression pour les tiers, notamment les autorités fiscales. L'apparence créée par les documents correspond précisément à la réalité. Les obligations prévues dans les documents étaient des obligations juridiques dans le sens qu'elles étaient absolument exécutoires en droit.
+[Je souligne.]
+[84] The Petit Robert and the Oxford English Dictionary define the words "tromper" and "deceive" as:
+1 Induire (qqn) en erreur quant aux faits ou quant à ses intentions, en usant de mensonge, de dissimulation, de ruse;
+2 (Choses) Faire tomber (qqn) dans l'erreur, l'illusion, du fait des choses ou sans intervention d'autrui.
+3 Littér. Ne pas répondre à, être inférieur à (ce qu'on attend, ce qu'on souhaite).
+4 Donner une satisfaction illusoire ou momentanée à (un besoin, un désir).
+1. To ensnare; to take unawares by craft or guile; to overcome, overreach, or get the better of by trickery; to beguile or betray into mischief or sin; to mislead.
+2. To cause to believe what is false; to mislead as to a matter of fact, lead into error, impose upon, delude, ‘take in’. To use deceit, act deceitfully.
+3. To be or prove false to, play false, deal treacherously with;
+4. To cheat, overreach; defraud.
+[85] In Shell Canada Ltd. v. Canada,[33] McLachlin J. (as she then was) opined that the legal relationships between taxpayers must be respected, unless there is a sham:
+39 This Court has repeatedly held that courts must be sensitive to the economic realities of a particular transaction, rather than being bound to what first appears to be its legal form: Bronfman Trust, supra, [[1987] 1 S.C.R. 32] at pp. 52-53, per Dickson C.J.; Tennant, supra, at para. 26, per Iacobucci J. But there are at least two caveats to this rule. First, this Court has never held that the economic realities of a situation can be used to recharacterize a taxpayer's bona fide legal relationships. To the contrary, we have held that, absent a specific provision of the Act to the contrary or a finding that they are a sham, the taxpayer's legal relationships must be respected in tax cases. Recharacterization is only permissible if the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect: Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, at para. 21, per Bastarache J.
+[Emphasis added.]
+39 Notre Cour a statué à maintes reprises que les tribunaux doivent tenir compte de la réalité économique qui sous-tend l'opération et ne pas se sentir liés par la forme juridique apparente de celle-ci: Bronfman Trust, précité, [[1987] 1 R.C.S. 32] aux pp. 52 et 53, le juge en chef Dickson; Tennant, précité, au par. 26, le juge Iacobucci. Cependant, deux précisions à tout le moins doivent être apportées. Premièrement, notre Cour n'a jamais statué que la réalité économique d'une situation pouvait justifier une nouvelle qualification des rapports juridiques véritables établis par le contribuable. Au contraire, nous avons décidé qu'en l'absence d'une disposition expresse contraire de la Loi ou d'une conclusion selon laquelle l'opération en cause est un trompe-l'oeil, les rapports juridiques établis par le contribuable doivent être respectés en matière fiscale. Une nouvelle qualification n'est possible que lorsque la désignation de l'opération par le contribuable ne reflète pas convenablement ses effets juridiques véritables: Continental Bank Leasing Corp. c. Canada, [1998] 2 R.C.S. 298, au par. 21, le juge Bastarache.
+[Je souligne.]
+[86] For a sham to exist, the taxpayers must have acted in such a way as to deceive the tax authority as to their real legal relationships. The taxpayer creates an appearance that does not conform to the reality of the situation.
+[87] In the appeals at bar, the essential components of the transactions entered into by the appellants possess the basic elements of sham. There was an abuse of the provisions of the Act.[34] The initial purported loan of $10,000,100, the declaration of stock and ordinary dividends, the corresponding exchange of promissory notes and the capital gains and losses cloaked an exercise undertaken by the appellants in concert to gain income from a series of paper transactions.
+[88] As the testimony of Mr. Lapointe and Mr. Dupuis has shown, the daylight overdraft or initial loan did not conform to the definition of a loan. Black’s Law Dictionary defines “loan” as: "1. An act of lending; a grant of something for temporary use . . . 2. A thing lent for the borrower’s temporary use; esp., a sum of money lent at interest".[35] The Civil Code of Lower Canada, in 1987, defined as follows the words "prêt" and "loan":
+1777. Loan for consumption is a contract by which the lender gives the borrower a certain quantity of things which are consumed by the use made of them, under the obligation by the latter to return a like quantity of things of the same kind and quality.
+1778. By loan for consumption the borrower becomes owner of the thing lent, and the loss of it falls upon him.[36]
+1777. Le prêt de consommation est un contrat par lequel le prêteur livre à l’emprunteur une certaine quantité de choses qui se consomment par l’usage, à la charge par ce dernier de lui en rendre autant de même espèce et qualité.
+1778. Par le prêt de consommation l’emprunteur devient le propriétaire de la chose prêtée, et la perte en retombe sur lui.
+[89] Mignault[37] writes that:
+[TRANSLATION]
+An interest-bearing loan is merely a variant of the consumer loan, as the amount loaned is returned by the payment of an equal amount and not by returning the very same cash that was provided. However, the borrower no longer receives a free service; he pays the lender compensation for the use of the money and this compensation is called interest.
+Interest is thus the profit that the lender stipulates as the price of the use given to the borrower.
+[90] A "loan" requires an actual transfer of property from the lender to the borrower, with the obligation of the borrower to return a like quantity of funds. In the instant case, the bank had its hands on the money going from account to account; the bank could "pull" the funds from their circulation among accounts at any time and the appellants had no recourse. Further, the absence of any security required the bank to remain in control and possession of the funds at all times. The corporations in Series 1 did not have the absolute enjoyment of the $10,000,000. The bank was under no obligation to these corporations to allow them free use of the funds for any given period. The bank had no security and without security would not have been prepared to lend money to the corporations. If the $10,000 paid to the bank were interest, as claimed by the appellants, one would expect that there would have been a contract of loan between the corporations and the bank under the bank's usual terms providing for interest. There was no such contract. The $10,000 was simply an accommodation charge. I have not been provided with any evidence that the $10,000 related to a charge for interest on a loan of $10,000,000 for a period of less than one day.
+[91] Similarly, the exchange of promissory notes worth $110,000,000 for the stock dividends of various corporations' Class “K” shares failed to conform to legal attributes and obligations normally encountered by a maker of a promissory note. The promissory notes issued were never meant to be repaid by the maker. The funds available at the time to support the repayment by 2528 Inc. were only a nominal amount of $100. The Bills of Exchange Act[38] defines "promissory note" as follows:
+176. (1) A promissory note is an unconditional promise in writing made by one person to another person, signed by the maker, engaging to pay, on demand or at a fixed or determinable future time, a sum certain in money to, or to the order of, a specified person or to bearer.
+176. (1) Le billet est une promesse écrite signée par laquelle le souscripteur s’engage sans condition à payer, sur demande ou à une échéance déterminée ou susceptible de l’être, une somme d’argent précise à une personne désignée ou à son ordre, ou encore au porteur.
+[92] I find reasonable Mr. Dupuis’s conclusion that the purported creditors under the promissory notes had no intention of collecting on the notes and collectively cancelled them. The cancellations were an essential part of the scheme entered into by the appellants and other corporations. The alleged legal relationships that flowed from these promissory notes were merely to construct a means to cause the aggregate of the capital gains and the CDA to end up in 2528 Inc. 2528 Inc. would then transfer the CDA through 1915 Inc. to arm's length share subscribers as non-taxable dividends. Furthermore, one may question the existence of the Class "K" shares themselves as stock dividends since they were issued by corporations at a time when the corporations did not have capital to justify payment of dividends of $10,000,000. It is questionable, in the circumstances, whether the makers of the notes unconditionally promised to pay a sum of money to another person; the maker of each note and the creditor under each knew that there would be no such payment. The promissory notes were shams.
+[93] To determine that the transactions in issue were shams requires the common intention to deceive by at least Mr. Faraggi and Mr. Langlois, the corporate appellants and other corporations in the two series of transactions. I have little difficulty in finding that Mr. Faraggi and Mr. Langlois intended to deceive, since they directly controlled the various corporations as shareholders and directors and were also responsible for how the corporations recorded the transactions. Further, the Royal Bank and potential arm’s length subscribers for shares were each informed as to the nature of the prospective transactions. I share Mr. Dupuis's view that the transactions were complex and each step had to have been planned in advance. A common intention to deceive was present in each step; an appearance was given of legal relations and this masked the purpose of the real intended transactions: to carry on a business for profit.[39] Finally, it is clear that specific provisions of the Act were abused contrary to their object and spirit.
+[94] I do not agree with the appellants' counsel's alternative submission referred to in paragraph 77 of these reasons. I have determined that at no time did the corporate appellants have any CDA. The individual appellants and the shareholders who received dividends from the corporate appellants knew that the corporate appellants never had any capital gains nor, consequently, any CDA. To have made an election pursuant to subsection 83(2) in these circumstances is, to put it mildly, dishonest and contrary to the object and spirit of the provision. Such an election is not cured by resorting to Part III of the Act.
+[95] Lastly, we consider the application of the penalties against the appellants pursuant to subsection 163(2) of the Act. This provision reads in part as follows:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer . . . filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty . . .
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse [...] rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité [...]
+[96] The facts justifying the Crown's assessments of penalties against the appellants on the basis that they "knowingly, or under circumstances amounting to gross negligence," made or participated in making false statements or omissions in their tax returns are set out in these reasons and need not be repeated here. The appellants knowingly carried out and promoted a series of transactions they knew were artificial and were an abuse of provisions of the Act. Yet they prepared and filed the tax returns in issue, or caused these tax returns to be prepared, knowing full well that the information contained in the returns for 1987 for all the appellants and the returns for 1988 for the individual appellants contained false statements or omissions. The corporate appellants knew that they were carrying on a business and their profits were camouflaged as dividends out of CDAs. And the individual appellants knew the dividends they received from the corporate appellants were taxable dividends. A review of the case law with respect to subsection 163(2) of the Act would serve no purpose; the facts speak for themselves. The individual appellants, who were sophisticated lawyers, concocted the scheme and controlled the corporate appellants to effect transactions that were shams and abuses of provisions of the Act. All the appellants knew the score.
+[97] The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 23rd day of May 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Translation certified true
+on this 31st day of July 2007.
+Erich Klein, Revisor
+Appendix 1
+Reassessment of 2529-1915 Québec Inc.
+Date
+Number
+Class
+Subscription price
+Paid-up capital
+Difference
+Purported dividend
+Net difference
+7-Aug-87
+17,640
+H
+$2,119,257.00
+176.40
+2,119,080.60
+($1,764,000.00)
+$355,080.60
+2-Sep-87
+6,727
+K
+7,752,534.07
+67.27
+7,752,466.80
+(6,727,000.00)
+1,025,466.80
+3-Sep-87
+18,184
+J
+20,971,893.32
+181.84
+20,971,711.48
+(18,184,000.00)
+2,787,711.48
+4-Sep-87
+10,190
+I
+11,586,350.75[40]
+100.62
+11,586,250.13
+(10,063,000.00)
+1,523,250.13
+10-Sep-87
+8,729
+K
+10,055,186.10[41]
+82.57
+10,055,103.53
+(8,729,000.00)
+1,326,103.53
+15-Sep-87
+1,450
+L
+1,800,002.50
+14.50
+1,799,988.00
+(1,450,000.00)
+349,988.00
+16-Sep-87
+2,737
+K
+3,010,265.71
+27.37
+3,010,238.34
+(2,737,000.00)
+273,238.34
+17-Sep-87
+5,250
+G
+630,052.50
+52.50
+630,000.00
+(525,000.00)
+105,000.00
+21-Sep-87
+4,000
+F
+495,240.00
+40.00
+495,200.00
+(400,000.00)
+95,200.00
+22-Sep-87
+13,490
+E
+1,613,444.90
+134.90
+1,613,310.00
+(1,349,000.00)
+264,310.00
+Total:
+$60,034,226.85
+877.97
+60,033,348.88
+($51,928,000.00)
+$8,105,348.88
+Reassessed as unreported net business income [par. 6(w) of the Reply to the Notice of Appeal]
+$8,105,344.14
+Appendix 2
+Reassessment of 2530-1284 Québec Inc.
+Date
+Number
+Class
+Subscription price
+Paid-up capital
+Difference
+Purported dividend
+Net difference
+15-Sep-87
+2,341
+K
+$2,722,682.98
+23.41
+2,722,659.57
+($2,341,000.00)
+$381,659.57
+16-Sep-87
+5,720
+J
+6,593,267.20
+57.20
+6,593,210.00
+(5,720,000.00)
+873,210.00
+17-Sep-87
+8,160
+I
+9,392,384.70
+81.60
+9,392,303.10
+(8,160,000.00)
+1,232,303.10
+18-Sep-87
+6,016
+H
+6,921,060.42
+60.16
+6,921,000.26
+(6,016,000.00)
+905,000.26
+21-Sep-87
+516
+G
+600,249.12
+5.16
+600,243.96
+(516,000.00)
+84,243.96
+22-Sep-87
+8,031
+F
+9,232,380.31
+80.31
+9,232,300.00
+(8,031,000.00)
+1,201,300.00
+Total:
+$35,462,024.73
+307.84
+35,461,716.89
+($30,784,000.00)
+$4,677,716.89
+Reassessed as additional business income
+$4,677,716.89
+Appendix 3
+Reassessed dividends
+For 1987
+Class
+Dividend
+Langlois
+Faraggi
+2529-1915 Québec Inc.
+27-Aug-87 04-Sep-87 10-Sep-87 10-Sep-87 16-Sep-87 17-Sep-87
+Total:
+common
+pref. I
+pref. K
+common
+common
+common
+87,675.00
+10,191,000.00
+9,201,000.00
+854,565.00
+358,371.00
+59,580.00
+20,752,191.00
+33 1/3%
+29,225.00
+64,000.00
+236,000.00
+284,855.00
+119,457.00
+19,860.00
+753,397.00
+33 1/3%
+29,225.00
+64,000.00
+236,000.00
+284,855.00
+119,457.00
+19,860.00
+753,397.00
+2528-5644 Québec Inc.
+27-Aug-87 02-Sep-87 03-Sep-87 04-Sep-87
+Total:
+common
+common
+common common
+245,950.00
+1,025,385.00
+2,784,675.00
+1,376,890.00
+5,432,900.00
+50%
+122,975.00
+512,692.50
+1,392,337.50
+688,445.00
+2,716,450.00
+50%
+122,975.00
+512,692.50
+1,392,337.50
+688,445.00
+2,716,450.00
+2530-1292 Québec Inc.
+16-Sep-87 17-sep-87 18-Sep-87 22-Sep-87 13-Nov-87
+Total:
+common
+common common
+common
+common
+872,972.00
+1,118,630.00
+904,910.00
+1,495,200.00
+178,600.00
+4,570,312.00
+50%
+436,486.00
+559,315.00
+452,455.00
+747,600.00
+89,300.00
+2,285,156.00
+50%
+436,486.00
+559,315.00
+452,455.00
+747,600.00
+89,300.00
+2,285,156.00
+2530-1276 Québec Inc.
+16-Sep-87 17-Sep-87
+Total:
+common
+common
+276,705.00
+324,676.00
+601,381.00
+55%
+152,187.75
+178,571.80
+330,759.55
+45%
+124,517.25
+146,104.20
+270,621.45
+Total dividends received
+6,085,762.55
+6,025,624.45
+Gross-up (1/3)
+2,028,587.52
+2,008,541.48
+Amount added by MNR for 1987
+8,114,350.07
+8,034,165.93
+For 1988
+Class
+Dividend
+Langlois
+Faraggi
+2530-1292 Québec Inc.
+30-Dec-88
+common
+233,868.00
+50%
+116,934.00
+50%
+116,934.00
+Gross-up (1/3)
+38,978.00
+38,978.00
+Amount added by MNR for 1988
+155,912.00
+155,912.00
+Appendix 4
+2529-1915 Québec Inc.
+Closing date
+Company
+Number of shares of each class
+Purchase price
+Redemption price
+Difference between purchase and redemption prices
+August 27, 1987
+Total: Class H
+Gestion Yves Beaudoin Inc. Rodolphe Bélanger Inc. Les Productions Bo-Mon Inc. Les Productions Claude Meunier Inc. Les Productions Stéphane Laporte Inc. Léo Dubois et Fils Ltée Fenêtre Métropole Inc. Les Placements Campotoro Inc. 2411-4340 Québec Inc.
+17, 640
+1,600
+2,480
+2,500
+2,500
+1,250
+3,000
+1,653
+2,480
+177
+$200,016.00
+$300,080.00
+$300,000.00
+$300,000.00
+$150,000.00
+$369,000.00
+$200,000.00
+$300,080.00
+$177.00
+$16.00
+$24.80
+$25.00
+$25.00
+$12.50
+$30.00
+$16.53
+$24.80
+$1.77
+$200,000.00
+$300,055.20
+$299,975.00
+$299,975.00
+$149,987.50
+$368,970.00
+$199,983.47
+$300,055.20
+$17,700.00
+September 2, 1987
+Total: Class K
+2529-2079 Québec Inc.
+6,727
+6,727
+$7,752,534.07
+$67.27
+$7,752,466.80
+September 3, 1987
+Total: Class J
+118562 Canada Ltée 2529-2079 Québec Inc.
+18,184
+289
+17,895
+$349,692.89
+$20,622,200.43
+$2.89
+$178.95
+$349,690.00
+$20,622,021.48
+2529-1915 Québec Inc. (continued)
+Closing date
+Company
+Number of shares of each class
+Purchase price
+Redemption price
+Difference between purchase and redemption prices
+September 4, 1987
+Total: Class I
+Robert Langlois Ralph Faraggi Hélène Pronovost 2529-2079 Québec Inc. 2411-4340 Québec Inc.
+10,191
+64
+64
+5
+10,054
+4
+$64.00
+$64.00
+$5.00
+$11,585,845.75
+$500.00
+$0.64
+$0.64
+$0.05
+$100.54
+$0.04
+$63.36
+$63.36
+$4.95
+$11,585,745.21
+$499.96
+September 10, 1987
+Total: Class K
+Robert Langlois Ralph Faraggi Hélène Pronovost 2529-2079 Québec Inc. Jocelyne Tremblay
+9,201
+236
+236
+2
+8,726
+1
+$236.00
+$236.00
+$2.00
+$10,055,183.10
+$1.00
+$2.36
+$2.36
+$0.02
+$87.26
+$0.01
+$233.64
+$233.64
+$1.98
+$10,055,095.84
+$0.99
+September 15, 1987
+Total: Class L
+Fernard Dufresne Inc. Les Excavations Rodrigue Inc. Gestion Alain Michon (1980) Inc. Steven Chacra Enterprises Ltd.
+1,450
+560
+640
+125
+125
+$700,000.00
+$800,000.00
+$150,001.25
+$150,001.25
+$5.60
+$6.40
+$1.25
+$1.25
+$699,994.40
+$799,993.60
+$150,000.00
+$150,000.00
+2529-1915 Québec Inc. (continued)
+Closing date
+Company
+Number of shares of each class
+Purchase price
+Redemption price
+Difference between purchase and redemption prices
+September 16, 1987
+Total: Class K
+Le Matériel Industriel Ltée Mode Caccia Fashions Inc. Lulumco Inc. Plomberie André Landry Inc. 444638 Ontario Limited Gestion Guy Bussière Inc. Les Aménagements René Drouin Prestolame Inc. 2411-4340 Québec Inc.
+2,737
+167
+300
+1,039
+120
+125
+125
+400
+160
+301
+$200,401.67
+$360,003.00
+$1,299,550.74
+$150,001.20
+$150,001.25
+$150,001.25
+$500,004.00
+$200,001.60
+$301.00
+$1.67
+$3.00
+$10.39
+$1.20
+$1.25
+$1.25
+$4.00
+$1.60
+$3.01
+$200,400.00
+$360,000.00
+$1,299,540.35
+$150,000.00
+$150,000.00
+$150,000.00
+$500,000.00
+$200,000.00
+$297.99
+September 17, 1987
+Total: Class G
+Voltelec Inc. Les Gestions Yves Bénard Inc. MacGer Holdings Ltd.
+5,250
+1,500
+1,250
+2,500
+$180,015.00
+$150,012.50
+$300,025.00
+$15.00
+$12.50
+$25.00
+$180,000.00
+$150,000.00
+$300,000.00
+September 21, 1987
+Total: Class F
+Michal Inc. Nova Construction (Marcel Parent) Isolation Beauport (1978) Inc.
+4,000
+1,200
+1,600
+1,200
+$145,212.00
+$200,016.00
+$150,012.00
+$12.00
+$16.00
+$12.00
+$145,200.00
+$200,000.00
+$150,000.00
+2529-1915 Québec Inc. (continued)
+Closing date
+Company
+Number of shares of each class
+Purchase price
+Redemption price
+Difference between purchase and redemption prices
+September 22, 1987
+Total: Class E
+B. Deneault Inc. Les Boîtes à Chanson et Café-Terrasse Les Pierrots Inc. 132331 Canada Inc. Turfquip Inc. 2530-3660 Québec Inc. 109006 Canada Inc.
+13,490
+4,000
+3,500
+1,500
+1,500
+1,490
+1,500
+$480,040.00
+$420,035.00
+$180,015.00
+$180,015.00
+$173,324.90
+$180,015.00
+$40.00
+$35.00
+$15.00
+$15.00
+$14.90
+$15.00
+$480,000.00
+$420,000.00
+$180,000.00
+$180,000.00
+$173,310.00
+$180,000.00
+2530-1284 Québec Inc.
+Closing date
+Company
+Number of shares of each class
+Purchase price
+Redemption price
+Difference between purchase and redemption prices
+September 15, 1987
+Total: Class K
+Lunettes Cartier Ltée 2530-3660 Québec Inc. 2530-0146 Québec Inc.
+Total: Class L
+2530-1292 Québec Inc.
+2,341
+1,000
+448
+893
+5,323
+5,323
+$1,210,010.00
+$484,164.48
+$1,028,508.50
+$5,323,000.00
+$10.00
+$4.48
+$8.93
+N/A
+$1,210,000.00
+$484,160.00
+$1,028,499.57
+N/A
+September 16, 1987
+Total: Class J
+Le Groupe Barrette Ltée Lunettes Cartier Ltée 2530-3660 Québec Inc. 2530-0146 Québec Inc.
+5,720
+826
+1,000
+131
+3,763
+$999,468.26
+$1,210,010.00
+$58,001.31
+$4,325,787.63
+$8.26
+$10.00
+$1.31
+$37.63
+$999,460.00
+$1,210,000.00
+$58,000.00
+$4,325,750.00
+September 17, 1987
+Total: Class I
+2530-0146 Québec Inc. Archer Personnel Inc. Archer Consultants Inc. Jocelyne Tremblay Hélène Pronovost
+8,160
+7,683
+252
+218
+2
+5
+$8,833,073.00
+$299,882.52
+$259,422.18
+$2.00
+$5.00
+$76.83
+$2.52
+$2.18
+$0.02
+$0.05
+$8,832,996.17
+$299,880.00
+$259,420.00
+$1.98
+$4.95
+2530-1284 Québec Inc. (continued)
+Closing date
+Company
+Number of shares of each class
+Purchase price
+Redemption price
+Difference between purchase and redemption prices
+September 18, 1987
+Total: Class H
+2530-3660 Québec Inc. 2530-0146 Québec Inc. Jocelyne Tremblay Hélène Pronovost
+6,016
+577
+5,436
+1
+2
+$671,355.77
+$6,249,701.65
+$1.00
+$2.00
+$5.77
+$54.36
+$0.01
+$0.02
+$671,350.00
+$6,249,647.29
+$0.99
+$1.98
+September 21, 1987
+Total: Class G
+Michael Weinberg 122556 Canada Inc. 2530-3660 Québec Inc.
+516
+4
+125
+387
+$4.00
+$150,001.25
+$450,243.87
+$0.04
+$1.25
+$1.25
+$3.96
+$150,000.00
+$450,242.62
+September 22, 1987
+Total: Class F
+2530-0146 Québec Inc.
+8,031
+8,031
+$9,232,380.31
+$80.31
+$9,232,300.00
+Appendix 5
+[TRANSLATION]
+COPY
+STIKEMAN, ELLIOTT
+LAWYERS
+SUITE 3900, 1155 DORCHESTER BOULEVARD WEST
+MONTREAL, CANADA H3B 3V2
+Montreal, September 2, 1987
+2529-2079 QUÉBEC INC.
+2183 De Baccarat
+Vimont, Laval
+Quebec
+H7M 9Z7
+Dear Sirs,
+You have requested our opinion as to the tax consequences of an investment in Class "K" preferred shares of the share capital of 2529-1915 Québec Inc. (hereinafter the "Company") under the conditions set out below.
+The Company, which was incorporated under Part IA of the Companies Act (Quebec), is a "private corporation" within the meaning of the Income Tax Act (Canada), S.C. 1970-71-72, c. 63, as amended (hereinafter the "federal Act") and the Taxation Act (Quebec), R.S.Q. c. I-3, as amended (hereinafter the "provincial Act"). The authorized share capital of the Company consists of, inter alia, an unlimited number of Class "K" preferred shares with a par value of $0.01 per share (hereinafter the "shares"). Each share is redeemable by the Company at a price equal to $1,000.01 less any dividends declared on the share (hereinafter the "redemption price") plus all dividends declared and unpaid on the share at the time of the redemption, and the share confers on its holder the right to one or more preferred non-cumulative dividends in an amount determined by the Company’s board of directors, but only up to a total of $1,000 per share.
+As of the date hereof, the Company has issued 6,727 shares to 2529-2079 QUÉBEC INC. (hereinafter the "Subscriber") and then declared and paid a dividend of $1,000 per share, as set out hereunder:
+1. Subscription by the subscriber for the shares, acceptance by the Company of this subscription and issuance of the shares. The subscription price of each share was equal to its initial redemption price of $1,000.01 plus a premium in an amount agreed upon by the Subscriber and the Company.
+2. Declaration by the Company’s board of directors of a dividend on the shares in the amount of $1,000 per Share. Following payment of this dividend, the redemption price of each share was reduced from $1,000.01 to only $0.01.
+3. The full amount of the dividend referred to in paragraph 2 above is the subject of elections to be made by the Company under subsection 83(2) of the federal Act and sections 502 and 503 of the provincial Act in the manner and form and within the time prescribed therein.
+In order to provide this opinion, we have consulted the following documents:
+(i) a certified true extract from the resolutions passed on August 20, 1987 by the board of directors of 2528-5644 Québec Inc. ("2528") concerning the issuance and allotment to the Company of 495,660 Class "L" preferred shares of the share capital of 2528;
+(ii) a certified true extract from the resolutions passed on August 21, 1987 by the board of directors of 2528 for the purpose of declaring a dividend of $100 per Class "L" preferred share of its share capital, payable on August 21, 1987; and of authorizing 2528 to make under subsection 83(2) of the federal Act and sections 502 and 503 of the provincial Act elections with respect to the full amount of the dividend;
+(iii) a duly completed federal Form T2054 signed on August 21, 1987 and a duly completed provincial Form C502 signed on the same date, whereby 2528 elected to treat and consider the full amount of the dividend of $49,566,000 as a capital dividend from its capital dividend account, and a copy of the statement accompanying the forms in question and showing the calculation of the amount of 2528's capital dividend account immediately prior to the making of the said elections, i.e., $54,998,900;
+(iv) an affidavit sworn by Pierre Caporicci on August 26, 1987, to which is attached a registration receipt attesting that the said elections were sent by the company on August 21, 1987 by registered mail;
+(v) a receipt given by the Company to 2528 attesting that the Company received the total amount of the said dividend of $49,566,000 on August 21, 1987; and
+(vi) any other documents we considered necessary or useful for the purpose of providing the opinions set out herein.
+In carrying out our examination, we assumed that the documents submitted to us as originals and the signatures thereon were genuine, that all the documents submitted to us as certified copies or facsimiles of the original documents were true copies and that the individuals who signed in their own names had the legal capacity to do so.
+On the basis of the foregoing, we are of the opinion that:
+(a) all the formalities required by the federal Act and the regulations made thereunder for the validity of 2528's election under subsection 83(2) of the federal Act with respect to the dividend of $49,566,000 referred to in (ii) above were observed;
+(b) following receipt by the Company of the dividend of $49,566,000 referred to in (ii) above, and because of this dividend, the balance in the Company’s capital dividend account as of August 21, 1987 totalled not less than $49,566,000;
+(c) the balance in the Company’s capital dividend account as of the date of this opinion, immediately prior to the declaration of the dividend referred to in 2 above, totalled not less than $47,714,325;
+(d) no portion of the dividend referred to in 2 above may be included in computing the income of the Subscriber for the purposes of the federal Act and the regulations made thereunder: subsection 83(2) of the federal Act;
+(e) assuming that the Subscriber is a "private corporation" within the meaning of the federal Act, the whole of the dividend that the Subscriber received on the shares constitutes a capital dividend the entire amount of which is added in calculating its capital dividend account for the purposes of the federal Act: subparagraph 89(1)(b)(ii) of the Act;
+(f) no other provision of the federal Act and the regulations made thereunder has the effect of precluding the application of the provisions referred to in (a) and (b) above; and
+(g) no other provision of the federal Act and the regulations made thereunder has the effect of including any amount whatsoever in computing the income of the Subscriber or of any shareholder of the Subscriber in respect of the transactions described above.
+In particular, it is our opinion that neither section 15 nor section 245 nor section 247 of the federal Act applies in respect of the transactions described above.
+Although our opinions set out above refer solely to the relevant provisions of the federal Act as it presently reads, provisions to the same effect are also found in the provincial Act. Our opinions take into account as well the Notice of Ways and Means Motion and the document entitled "Income Tax Reform" that were tabled by the Minister of Finance of Canada in the House of Commons on June 18, 1987.
+This legal opinion is intended for you alone, for your own purposes. It is not to be considered as a legal opinion given for any other person or as a recommendation to anyone to subscribe for shares of the share capital of the Company or of the Subscriber or as a judgment as to the intrinsic value or the advisability of an investment in the shares of the share capital of the Company or of the Subscriber.
+This legal opinion is not to be used, distributed, quoted or referred to in any other way for any purpose whatsoever, including the purchase or sale of shares of the Subscriber, and it is not to be, in whole or in part, produced or copied with any other document or made reference to in any other document, except with our prior written authorization.
+STIKEMAN, ELLIOTT
+Per: (original signed) ___
+Maurice Régnier, Q.C.
+Appendix 6
+[TRANSLATION]
+COPY
+STIKEMAN, ELLIOTT
+LAWYERS
+SUITE 3900, 1155 DORCHESTER BOULEVARD WEST
+MONTREAL, CANADA H3B 3V2
+August 27, 1987
+2529-1915 QUÉBEC INC.,
+its Directors
+and Shareholders
+Dear Sirs:
+You have requested our opinion as to the income tax consequences of an investment in Class "H" Preferred Shares of the capital stock of 2529-1915 Québec Inc. (the "Company"), in accordance with the terms and conditions described below.
+The Company, a company incorporated under Part IA of the Companies Act (Québec), is a "private corporation" within the meaning of the Income Tax Act (Canada) (the "Act"). The authorized capital stock of the Company includes an unlimited number of Class "H" Preferred Shares with a nominal or par value of $0.01 each. Each Class "H" Preferred Share is redeemable by the Company at a price equal to $100.01 less the amount of any dividend declared on such share (the "Redemption Price"), plus all dividends declared and unpaid thereon at the time of redemption, and the share confers upon its holder the right to preferential, non-cumulative dividends in the amount(s) determined by the Board of Directors of the Company, up to an aggregate of $100.00 per share.
+The Company proposes to issue Class "H" Preferred Shares to certain subscribers, and then declare and pay a dividend on such shares. In each case, the subscriber will be a "private corporation" within the meaning of the Act and the terms and conditions shall be as follows:
+1. Subscription and issue of Class "H" Preferred Shares of the Company. The subscription price of each share will be its initial Redemption Price of $100.01 plus a premium agreed upon between the subscriber and the Company.
+2. Declaration by the Board of Directors of the Company of a dividend of $100.00 per Class "H" Preferred Share. Following payment of such dividend, the Redemption Price of each Class "H" Preferred Share will be reduced from $100.01 to only $0.01.
+3. In respect of the full amount of the said dividend, the Company will file the elections under subsection 83(2) of the Act and sections 502 and 503 of the Taxation Act (Québec), in the manner and form prescribed thereunder and within the time provided therein.
+4. Following the payment to the subscribers of the dividend referred to in 2. above, at the date or dates which may be fixed by its Board of Directors the Company will redeem the Class "H" Preferred Shares upon payment to the subscribers of their residual Redemption Price of $0.01 per share.
+Based on the foregoing, we are of the opinion that:
+(a) no part of the dividend referred to in 2. above will be included in computing the income of a subscriber for the purposes of the Act: subsection 83(2) of the Act;
+(b) the whole amount of the dividend received by each subscriber will be included in computing its capital dividend account for the purposes of the Act: subparagraph 89(1)(b)(ii) of the Act;
+(c) no other provision of the Act will prevent or limit the application of the provisions referred to in (a) and (b) above; and
+(d) no other provision of the Act will require that any amount whatsoever be included in computing the income of a subscriber or the income of a shareholder of a subscriber, with respect to the transactions described above.
+In particular, we are of the opinion that sections 15, 245 and 247 of the Act will not apply to the transactions described above.
+Although our opinions above refer only to the relevant provisions of the Act, as it presently reads, similar provisions are also contained in the Taxation Act (Québec) and are to the same effect. Our opinions also take into account the Notice of Ways and Means Motion, as well as the document entitled "Income Tax Reform" which were tabled by the Minister of Finance of Canada in the House of Commons on June 18, 1987.
+STIKEMAN, ELLIOTT
+(original signed)
+By: Maurice A. Régnier
+CITATION: 2007TCC286
+COURT FILE NOS.: 96-1457(IT)G, 96-1458(IT)G,
+96-1459(IT)G and 96-1460(IT)G
+STYLE OF CAUSE: 2530-1284 Québec Inc., Ralph E. Faraggi, Robert Langlois, 2529-1915 Québec Inc. v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATES OF HEARING: January 16 to 19 and
+January 23 and 24, 2006
+REASONS FOR JUDGMENT BY: The Honourable Associate Chief Justice Gerald J. Rip
+DATE OF JUDGMENT: May 23, 2007
+APPEARANCES:
+Counsel for the Appellants:
+Bertrand Leduc
+Lysane Tougas
+Counsel for the Respondent:
+Daniel Marecki
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Bertrand Leduc
+Lysane Tougas
+Firm: Miller Thompson Pouliot
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.Q., c. C-38 [Companies Act].
+[2] R.S.Q., c. C-38, s. 66.
+[3] Rather than confuse the reader with names of numbered companies I have identified each participating company, other than 1915 Inc. and 1284 Inc. with a letter and short form designation. 2528 Inc. was incorporated on July 27, 1987 and 1915 Inc. on August 13, 1987. All the other companies on the list were incorporated on August 7, 1987.
+[4] These companies were incorporated on September 8, 1987.
+[5] 4340 Inc. was controlled by Messrs. Brian McDougall and Tom Sawyer who were clients of the individual appellants' law firm and who had a close relationship with Messrs. Langlois and Faraggi. They also subscribed for preferred shares of 1915 Inc. and, when the shares were redeemed, were deemed to receive dividends. Messrs. McDougall and Sawyer participated in its marketing of the transactions.
+[6] In an attempt to simplify matters, I use “round” numbers in these examples. Precise numbers and how they were calculated, as well as a detailed description of each step in these transactions and the transactions in Series 2, including descriptions of how tax returns were filed, are included in the appellants’ statement of facts (Exhibit A-1) and the respondent's amended reply to the statement of facts (Exhibit I-1). The statement of facts and the appendices thereto consist of 165 pages and 797 paragraphs; the reply consists of 82 pages and 179 paragraphs. All the information contained therein need not be repeated in detail in these reasons; the statement of fact and the reply were of significant help to me in preparing the reasons. Appendices attached to these reasons describe how tax was assessed.
+[7] The loan amount was actually $10,000,100, but during the hearing the witnesses often said $10,000,000.
+[8] Proceeds of disposition of $10,000,000 less adjusted cost base of $100.
+[9] $500 x 110,000 Class K shares = $55,000,000 less $1100 (the agreed adjusted cost base of the Class K shares) = $54,998,900.
+[10] R.S.Q., c. C-38, s. 66 permits unpaid shares to be issued. Interest was 6 per cent per annum.
+[11] Promissory notes were satisfied in whole or in part by declaration and payment of dividends by the debtor corporation. In this example, A Inc. remained creditor of 1915 Inc. for $5,438,956.60. 1915 Inc. had a capital dividend account of $49,566,000.
+[12] See Appendix 1 attached.
+[13] See Appendix 1 attached for calculation of unreported income by 1915 Inc. and Appendix 4 attached for a description of the transactions between 1915 Inc. and the third-party corporations.
+[14] After 3 p.m. the Royal Bank accepted deposits for credit on the following day.
+[15] Adjustments were made to the amounts owing on the promissory notes; the old notes were cancelled; and new notes issued in their place.
+[16] See Appendix 4 attached.
+[17] Mr. Faraggi defined a "daylight" loan as a loan of money for a very short period of time.
+[18] A deposit slip dated September 9, 1987 for $5,890,000 was made in favour of 1276 Inc.
+[19] Subsection 83(2.1) was added by 1988, c. 55, subsection 55(1), applicable to dividends paid after 4 p.m., Eastern Daylight Saving Time, on September 25, 1987.
+[20] Copies of a "short" and a "long" opinion are attached hereto as Appendices 5 and 6 respectively.
+[21] These minutes were forwarded to a Mr. Ledoux at Revenue Canada, Special Investigations by counsel for Stikeman Elliott by letter dated October 12, 1989.
+[22] Mr. Langlois had assisted Mr. Régnier on a file concerning the tax aspects of a sale in 1986 of a corporation referred to as LAC to another corporation referred to as SNC. A transfer of capital dividend account by SNC to a third party was reviewed by Mr. Régnier and Mr. Langlois at the time. I am unaware if this is the transaction that influenced Mr. Langlois to pursue the transactions in issue.
+[23] There were at least seven telephone calls and eight meetings. Telephone calls took place on December 21, 1987, January 21, February 22, March 11, March 31 and November 17, 1988. Meetings took place on December 22, 1987, March 15, April 1, April 21, May 3, May 30 and November 16, 1988.
+[24] Memoranda including documents were sent on behalf of the appellants to Revenue Canada officials on or about January 27, February 29, April 1, April 4, April 5, April 12, April 21(2) and May 12(2), 1988.
+[25] [1999] 3 S.C.R. 622.
+[26] [1984] 1 S.C.R. 536.
+[27] The intermediate corporations that filed elections pursuant to subsection 83(1) have not been "assessed" by the fisc notwithstanding the latter's view that these corporations had no amounts on which to make such elections. This is not fatal to the respondent's case. In these appeals it is not what the tax authority did or did not do that is important; it is what the taxpayers did or failed to do that determines if the assessments in issue are good or not good.
+[28] See Canada Trustco Mortgage Co. v. R., 2005 CarswellNat 3212 (SCC), para. 60. In this appeal the Supreme Court of Canada considered the provisions of s. 245 of the Act which were not in force until after 1987. However, the comments of McLachlin C.J. and Major J. are relevant to the appeals before me with respect to what may be considered an "artificial" transaction without regard to the current general anti-avoidance rule.
+[29] [1967] 1 All E.R. 518, at p. 528.
+[30] Supra, at pp. 545 and 546.
+[31] Stubart Investments Ltd., supra, at p. 573.
+[32] Stubart Investments Ltd., supra, at pp. 572-573.
+[33] Supra, at para. 39. See also McEwen Brothers Limited v. The Queen, 99 DTC 5326 (FCA), per Robertson J.A. at pp. 5330-5331.
+[34] In Canada v. Antosko, [1994] 2 S.C.R. 312, Iacobucci J. at p. 328, considered "sham" and "abuse of the provisions of the Act" to be similar concepts.
+[35] Black’s Law Dictionary, 8th ed., s.v., "loan".
+[36] Art. 1777, 1778 C.C.L.C.
+[37] P.B. Mignault, Le droit civil canadien (Montreal: Wilson et Lafleur, 1909), vol. VIII, p. 130.
+[38] R.S.C. 1985, c. B-4, s. 176 [Bills of Exchange Act].
+[39] See, for example, Hitch and Others v. Stone, [1999] STC 431 (Ch. D.), rev'd. [2001] STC 214 (C.A.).
+Excluded:
+[40]
+4-Sep-87 64 I $11,586,350.75 Langlois
+4-Sep-87 64 I 11,586,350.75 Faraggi
+[41]
+10-Sep-87 236 K 10,055,186.10 Langlois
+10-Sep-87 236 K 10,055,186.10 Faraggi

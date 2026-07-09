@@ -1,0 +1,298 @@
+Title: Keenan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/424967/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-259-424967-keenan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-11-21
+
+# Keenan c. La Reine
+
+- Citation: 2019 CCI 259
+- Decision date: 2019-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4280, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Keenan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-11-21
+Référence neutre
+2019 CCI 259
+Numéro de dossier
+2012-2117(IT)G, 2012-2120(IT)G, 2012-2123(IT)G, 2012-2124(IT)G, 2012-2125(IT)G, 2012-2126(IT)G, 2012-2127(IT)G, 2012-2128(GST)G, 2012-2129(GST)G, 2012-2130(GST)G, 2012-2131(GST)G, 2012-2132(GST)G, 2012-2134(GST)G, 2012-2135(GST)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2012-2127(IT)G
+2012-2129(GST)G
+ENTRE :
+ROBERT H. KEENAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2120(IT)G
+2012-2134(GST)G
+ET ENTRE :
+WILLIAM E. ADAMS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2117(IT)G
+2012-2135(GST)G
+ET ENTRE :
+640950 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2123(IT)G
+2012-2128(GST)G
+ET ENTRE :
+WORLD WIDE GOLF (CANADA) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2124(IT)G
+2012-2132(GST)G
+ET ENTRE :
+LANDMARK CAPITAL PARTNERS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2125(IT)G
+2012-2131(GST)G
+ET ENTRE :
+LANDMARK OIL & GAS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2126(IT)G
+2012-2130(GST)G
+ET ENTRE :
+PREFERRED CHOICE ACCOUNTING SERVICES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Conférence de gestion de l'instance tenue le 28 mai 2019, à Ottawa (Ontario), et requêtes du 18 mars 2019 et du 28 mai 2019 tranchées sur dossier.
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Représentants des appelants :
+Robert H. Keenan
+William E. Adams
+Avocats de l'intimée :
+Me Max Matas
+Me Victor Caux
+Me Olinda Samuel
+ORDONNANCE
+ATTENDU qu'à la fin de la conférence de gestion de l'instance, les appelants ont abordé la question d'une requête en instance déposée le 18 mars 2019 ainsi qu'une autre requête déposée le 28 mai 2019;
+ET ATTENDU QUE la Cour a ordonné que ces requêtes soient tranchées sur dossier;
+CONFORMÉMENT aux motifs communs de l'ordonnance ci‑joints :
+LA COUR ORDONNE :
+1. Les requêtes des appelants du 18 mars 2019 et du 28 mai 2019 sont rejetées avec dépens à l'intimée, dont 7 500 $ à payer par Robert H. Keenan et 7 500 $ à payer par William E. Adams, soit un total de 15 000 $, payables immédiatement.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2019.
+« Guy R. Smith »
+Le juge Smith
+Référence : 2019 CCI 259
+Date : 20191121
+Dossiers : 2012-2127(IT)G
+2012-2129(GST)G
+ENTRE :
+ROBERT H. KEENAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2120(IT)G
+2012-2134(GST)G
+ET ENTRE :
+WILLIAM E. ADAMS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2117(IT)G
+2012-2135(GST)G
+ET ENTRE :
+640950 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2123(IT)G
+2012-2128(GST)G
+ET ENTRE :
+WORLD WIDE GOLF (CANADA) LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2124(IT)G
+2012-2132(GST)G
+ET ENTRE :
+LANDMARK CAPITAL PARTNERS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2125(IT)G
+2012-2131(GST)G
+ET ENTRE :
+LANDMARK OIL & GAS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 2012-2126(IT)G
+2012-2130(GST)G
+ET ENTRE :
+PREFERRED CHOICE ACCOUNTING SERVICES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS COMMUNS DE L'ORDONNANCE
+Le juge Smith
+[1] Lors d'une conférence de gestion de l'instance tenue le 28 mai 2019, les représentants des appelants, Robert H. Keenan et William E. Adams, ont soulevé la question de la requête du 18 mars 2019 (la requête no 1) et ont informé la Cour du dépôt d'une autre requête le 28 mai 2019 (la requête no 2).
+[2] La Cour a indiqué que ces requêtes seraient tranchées sur dossier à la suite de prétentions écrites, ce qu'a confirmé l'ordonnance et les motifs communs de l'ordonnance du 8 août 2019, qui portaient sur deux requêtes antérieures déposées par les appelants.
+La requête no 1
+[3] La requête no 1 est jointe aux présentes à l'annexe A. Elle renvoie à l'article 170.1 des Règles de la Cour canadienne de l'impôt (procédure générale) (les Règles) et demande une ordonnance visant à modifier les avis d'appel [TRADUCTION] « pour y inclure des questions constitutionnelles ainsi que d'autres faits pertinents étayant un redressement en annulation aux termes du paragraphe 24(1) ».
+[4] La requête se poursuit en répétant des [TRADUCTION] « allégations déjà formulées », notamment : i) un manquement à l'équité procédurale; ii) un manquement à la bonne foi et à l'impartialité administratives; iii) un abus de confiance par un fonctionnaire, iv) un manquement aux [TRADUCTION] « articles 7 et 8 de la Charte des droits et libertés, et autres ».
+[5] L'affidavit de Robert Harold Keenan du 18 mars 2019 est déposé à l'appui de la requête. Il indique qu'il signe l'affidavit [TRADUCTION] « à l'appui des requêtes connexes à la formule 61.1, Avis de question constitutionnelle ».
+[6] Les pièces A, B et C de l'affidavit comprennent divers documents, dont des copies des notes et des rapports de vérification de l'Agence du revenu du Canada (l'ARC), de la correspondance, des affidavits de divers vérificateurs, des demandes de renseignements à des tiers, des rapports de l'ARC sur des pénalités proposées, des avis d'opposition et de ratification et de la correspondance de l'ancien avocat des appelants.
+[7] L'article 170.1 des Règles est rédigé comme suit :
+170.1 Une partie peut, à tout stade d'une procédure, et ce, sans attendre qu'il soit statué sur tout autre point litigieux entre les parties, demander :
+a) qu'il soit rendu jugement sur toute question, par suite d'un aveu fait dans les actes de procédure ou d'autres documents déposés à la Cour, ou fait au cours de l'interrogatoire d'une autre partie;
+b) qu'il soit rendu jugement sur toute question à l'égard de laquelle la preuve n'a été faite qu'au moyen de documents et des déclarations sous serment qui sont nécessaires pour prouver la signature ou l'authenticité de ces documents.
+[8] Cette disposition vise à permettre à une partie de demander qu'il soit rendu jugement sur une ou plusieurs questions avant le procès, « sans attendre qu'il soit statué sur tout autre point litigieux entre les parties ». Il s'agit essentiellement d'une disposition relative au jugement sommaire semblable à celles que l'on retrouve dans les diverses règles de procédure civile provinciales mentionnées par la Cour suprême du Canada dans Hryniak c. Mauldin, [2014] 1 R.C.S. 87, 2014 CSC 7.
+[9] Si les appelants cherchent à se fonder sur les documents joints à l'affidavit de M. Keenan, alors on ne sait pas exactement à quel aveu ou à quel document ils font référence.
+[10] Dans la décision Potash Corporation of Saskatchewan Inc. c. La Reine, 2003 CCI 588, le juge Mogan a examiné l'article 170.1 des Règles et a adopté une approche restrictive, indiquant que s'il y a des questions de droit complexes, il n'est pas approprié de demander un jugement en vertu de cette disposition. Il a ajouté ce qui suit :
+[22] [...] Il me semble qu'il serait mieux de réserver l'article 170.1 des Règles pour une affaire dans laquelle il existe une (ou plusieurs) simple question de fait qui pourrait être répondue par des aveux dans les actes de procédure ou lors du contre-interrogatoire préalable qui, à son tour, permettrait de rendre une décision définitive par l'entremise de plaidoyers relatifs à la loi applicable.
+[11] Étant donné que les appelants n'ont pas clairement indiqué l'aveu ou le document qu'ils cherchent à invoquer, il s'ensuit qu'ils ne peuvent invoquer la procédure en jugement sommaire à l'article 170.1 des Règles, et encore moins invoquer cette disposition pour modifier leurs actes de procédure.
+[12] Même si la Cour estimait que les appelants avaient en fait l'intention de se fonder sur l'article 54 des Règles pour modifier leurs actes de procédure, mais qu'ils ont cherché à le faire de façon sommaire ou accélérée en se fondant sur l'article 170.1, la difficulté de fond est qu'ils tentent, une fois de plus, de modifier leurs actes de procédure pour inclure diverses allégations visant la conduite de l'ARC, notamment à l'égard des articles 7, 8 et 24 de la Charte canadienne des droits et libertés (la Charte).
+[13] Dans la décision Brooks c. La Reine, 2019 CCI 47, la juge Campbell s'est penchée sur une requête en radiation de l'appel d'un contribuable faisant référence aux articles 7, 8 et 24 de la Charte. Les thèses des parties étaient les suivantes :
+[8] Les actes de procédure de l'appelant reposent principalement sur la conduite des fonctionnaires de l'ARC et la question de savoir si l'exercice des pouvoirs de vérification du ministère, afin de recueillir des témoignages et des éléments de preuve documentaire, a porté atteinte aux droits de l'appelant garantis par les articles 7 et 8 de la Charte. L'appelant soutient que ces éléments de preuve peuvent être écartés et que la nouvelle cotisation peut être annulée en application de l'article 24 de la Charte.
+[9] L'intimée soutient que ces questions ne relèvent pas de la compétence de la Cour et qu'elles n'ont aucune chance d'être accueillies, car elles sont frivoles, abusives et pourraient retarder le déroulement de l'instance.
+[14] La juge Campbell a ensuite examiné le critère du caractère « évident et manifeste » pour radier les actes de procédure en application de l'article 53 des Règles, avant d'examiner la compétence de la Cour canadienne de l'impôt et d'expliquer ce qui suit :
+[13] La Cour a compétence exclusive pour ce qui est de déterminer la validité des avis de cotisation. Toutefois, sa compétence est restreinte par les dispositions de la Loi. Plus précisément, l'article 171 de la Loi définit les paramètres encadrant notre Cour en ce qui a trait à l'examen des appels interjetés par des contribuables en application de la Loi. À cet égard, la Cour peut accueillir ou rejeter un appel, annuler ou modifier une cotisation ou renvoyer celle‑ci au ministre pour réexamen et nouvelle cotisation.
+[14] Tant notre jurisprudence que celle de la Cour d'appel fédérale va dans le sens de la thèse de l'intimée portant que la conduite du ministre et des fonctionnaires de l'ARC n'est pas pertinente quant à la détermination de la validité ou de l'exactitude d'une cotisation. La Cour d'appel fédérale a confirmé ce principe dans l'arrêt Main Rehabilitation Co. Ltd. c. Canada, 2004 CAF 403, ainsi que dans l'arrêt Ereiser. Voici ce que la juge Sharlow a observé au paragraphe 40 de l'arrêt Ereiser :
+[40] [...] Le fait qu'une saisie de documents est illégale peut avoir une incidence sur l'admissibilité d'éléments de preuve obtenus en raison de la saisie, mais la conduite fautive sans rapport avec une question de preuve n'est pas, en règle générale, pertinente quant à l'admissibilité d'éléments de preuve. [...]
+Notre Cour n'a pas la compétence nécessaire d'annuler une cotisation en raison d'une conduite répréhensible au cours du processus ayant abouti à cette cotisation. Dans l'arrêt M.N.R. et C.R.A. c. J.P. Morgan Asset Management (Canada) Inc., 2013 CAF 250, au paragraphe 83, la Cour d'appel fédérale a énoncé succinctement ce principe :
+[83] [...] Si une cotisation est bien fondée au regard des faits et du droit, le contribuable doit payer l'impôt.
+[15] Le juge Webb, dans Johnson c. Canada, 2015 CAF 52, [2015] A.C.F. nº 216, au paragraphe 4, a réitéré l'approche retenue par la jurisprudence :
+[4] [...] Les raisons pour lesquelles le ministre a établi ces cotisations et les mesures de recouvrement qu'il a prises à cet égard ne sont pas pertinentes au regard de cette question.
+[Non souligné dans l'original.]
+[15] Comme l'a fait remarquer l'intimée, le juge qui était alors chargé de la gestion de l'instance a expliqué tous ces concepts juridiques fondamentaux aux appelants, notamment dans les motifs du jugement rendus oralement par le juge Paris le 25 février 2014, comme l'expliquent plus en détail les paragraphes 37 à 43 de mes motifs communs de l'ordonnance du 8 août 2019.
+[16] Il s'ensuit de ce qui précède que la requête no 1 doit être rejetée.
+La requête no 2
+[17] La requête no 2 est jointe aux présentes à l'annexe B. Elle vise à radier les réponses de l'intimée en vertu de l'article 53 des Règles. Plus précisément, elle cherche à [TRADUCTION] « radier, annuler, casser, invalider ou déclarer nulles ab initio les réponses de l'intimée [...] et annuler les (nouvelles) cotisations correspondantes faisant l'objet de l'appel ».
+[18] La requête énonce ensuite les divers [TRADUCTION] « motifs » invoqués par les appelants à l'appui de leur requête, qui peuvent être résumés comme suit :
+i. Le fonctionnaire de l'ARC qui a ratifié les nouvelles cotisations en 2012 n'était [TRADUCTION] « pas impartial, juste ou de bonne foi » et le [TRADUCTION] « chef d'équipe », tout au long du processus de vérification, connaissait dès 2003 l'existence d'une enquête pénale visant les appelants;
+ii. Les réponses laissent entendre que l'ARC a amorcé une vérification des activités des appelants en 2008, alors qu'en réalité, elle avait entrepris une [TRADUCTION] « enquête pénale en bonne et due forme » dès 2001, ce qui signifie que l'affirmation dans les réponses constitue une [TRADUCTION] « fausse déclaration intentionnelle de la date du début »;
+iii. L'inconduite de l'ARC est une violation des [TRADUCTION] « principes de la justice fondamentale et de l'équité, la bonne foi, le respect du régime d'autocotisation et la société libre et démocratique du Canada ».
+[19] L'affidavit de Robert Harold Keenan du 28 mai 2019 est joint à la requête et comprend les pièces A et B.
+[20] La pièce A comprend de nombreux documents, dont des coupures de journaux, des notes de vérification de l'ARC (qui indiquent qu'il y a eu une vérification de la TPS en 2002), des dossiers, de la correspondance, des avis de nouvelle cotisation et des copies des procédures interlocutoires antérieures, y compris la requête de l'intimée visant la radiation de l'avis d'appel et l'ordonnance rendue par le juge Paris le 10 mars 2014.
+[21] De même, la pièce B contient de nombreux documents, dont des notes de vérification de l'ARC, des dossiers et de la correspondance, des questionnaires de vérification et de la correspondance avec l'ancien avocat des appelants. Cette liste n'est pas exhaustive.
+Les questions préliminaires
+[22] La requête renvoie à l'article 231.4 de la Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la LIR), ainsi qu'au paragraphe 18.1(1) de la Loi sur les Cours fédérales, L.R.C. (1985), à l'appui de la requête en radiation.
+L'enquête de fait en application de l'article 231.4
+[23] L'article 231.4 de la LIR se trouve dans la partie XV intitulée « Application et exécution ». Il est libellé comme suit :
+231.4(1) Le ministre peut, pour l'application et l'exécution de la présente loi, autoriser une personne, qu'il s'agisse ou non d'un fonctionnaire de l'Agence du revenu du Canada, à faire toute enquête que celle-ci estime nécessaire sur quoi que ce soit qui se rapporte à l'application et l'exécution de la présente loi.
+(2) Le ministre qui, conformément au paragraphe (1), autorise une personne à faire enquête doit immédiatement demander à la Cour canadienne de l'impôt une ordonnance où soit nommé un président d'enquête.
+[...]
+[24] Cette disposition est assez explicite en ce sens qu'elle prévoit que le ministre peut, « pour l'application et l'exécution de la présente loi », nommer une personne pour mener une enquête « sur quoi que ce soit qui se rapporte à l'application et l'exécution de la présente loi ». Le paragraphe 231.4(2) prévoit ensuite que le ministre doit demander à la Cour canadienne de l'impôt de rendre une ordonnance « où soit nommé un président d'enquête ».
+[25] Il n'est pas nécessaire de reproduire intégralement la disposition. Il suffit de mentionner que l'enquête doit se dérouler conformément aux dispositions de la Loi sur les enquêtes, L.R.C. (1985), ch. I‑11. Les témoins peuvent être représentés par un avocat et les personnes dont la conduite fait l'objet de l'enquête ont le droit d'être présentes et d'être représentées par un avocat.
+[26] Les appelants soutiennent que l'intimée a entrepris une enquête « de fait » en application de l'article 231.4 [TRADUCTION] « avec ou sans l'autorisation d'un juge de la Cour canadienne de l'impôt, ce qui est nécessaire pour que les appelants aient droit à diverses protections inhérentes ».
+[27] Je trouve que ces allégations sont non fondées et conspiratrices. Il n'y a certainement pas de preuve d'une enquête au sens de l'article 231.4 de la LIR et très peu d'éléments de preuve, voire aucun, d'une enquête « de fait ».
+[28] Les documents présentés comme pièces à l'affidavit de M. Keenan indiquent simplement que l'ARC a entrepris une vérification, qui comprenait une demande tout à fait normale visant à obtenir des dossiers, des registres et de la documentation, une demande de remplir les questionnaires habituels et des demandes de renseignements à des tiers.
+[29] Sans plus de détails, on ne voit rien d'extraordinaire ou d'inhabituel dans la vérification de l'ARC qui a mené aux avis de nouvelle cotisation en question, bien qu'il semble y avoir un certain désaccord quant à savoir si la vérification a commencé en 2002 ou en 2008. Les éléments de preuve laissent penser que les mesures prises en 2002 visaient une vérification de la TPS.
+[30] Par conséquent, je n'accorde aucun poids à l'affirmation selon laquelle l'intimée pourrait avoir entrepris une enquête « de fait » en application de l'article 231.4 de la LIR.
+Le contrôle judiciaire aux termes du paragraphe 18.1(1)
+[31] Deuxièmement, la requête renvoie au paragraphe 18.1(1) de la Loi sur les Cours fédérales, L.R.C. (1985), ch. F‑7, qui établit la compétence de base de la Cour fédérale en matière de contrôle judiciaire des décisions rendues par un « office fédéral » en fonction de certains « motifs ». Il ne fait guère de doute que l'ARC peut être qualifiée d'« office fédéral » et que ses décisions sont assujetties à la compétence de la Cour fédérale en matière de contrôle judiciaire.
+[32] Toutefois, la compétence de la Cour fédérale en matière de contrôle judiciaire ne comprend pas les questions que le législateur a confié à un autre organisme.
+[33] Dans les présents appels, la question porte que la validité des avis de nouvelle cotisation et la Loi sur la Cour canadienne de l'impôt, L.R.C. (1985), ch. T‑2, une loi fédérale, prévoit que notre Cour « a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l'application » de diverses lois fiscales, dont la Loi sur la taxe d'accise.
+[34] Les motifs de la requête renvoient à une enquête pénale qui aurait débuté dès 2001. La Cour n'a pas de connaissance directe au sujet de ces procédures pénales et, quoi qu'il en soit, il n'est pas tout à fait clair en quoi cela peut être pertinent pour les nouvelles cotisations en cause.
+[35] Comme l'a fait valoir la juge Campbell dans Brooks, on a renvoyé aux arrêts R. c. Jarvis, [2002] 3 R.C.S. 757, 2002 CSC 73, et R. c. Ling, [2002] 3 R.C.S. 814, 2002 CSC 74, dans l'arrêt Romanuk c. La Reine, 2013 CAF 133. Dans cet arrêt, le juge Webb s'est exprimé comme suit :
+[7] Au paragraphe 103 de l'arrêt Jarvis, la Cour suprême a également confirmé qu'« il est évident que l'on peut continuer d'avoir recours aux pouvoirs de vérification, même après le commencement d'une enquête, quoique les résultats de cette vérification ne puissent pas servir pour les besoins de l'enquête ou de la poursuite ». Comme les pouvoirs de vérification peuvent encore être exercés, les résultats obtenus, quoiqu'ils ne puissent servir aux fins d'une enquête ou d'une poursuite, peuvent encore servir à des fins administratives, comme une nouvelle cotisation.
+[8] L'usage de tels renseignements ou documents pour les besoins de l'administration de la Loi et l'établissement des nouvelles cotisations de l'appelante ne porte pas atteinte à ses droits garantis par les articles 7 et 8 de la Charte, puisque l'ARC a le droit de continuer à utiliser ses pouvoirs de vérification, pour autant que les renseignements ou documents ainsi recueillis ne soient utilisés qu'aux fins d'administration de la Loi. S'ils doivent servir à une enquête ou à une poursuite au titre de l'article 239 de la Loi, le tribunal saisi de la poursuite devra alors déterminer si l'exercice de ces pouvoirs avait pour objet prédominant de recueillir des renseignements ou des documents aux fins d'une telle enquête ou poursuite.
+[Non souligné dans l'original.]
+[36] Ainsi, même s'il y avait une enquête pénale, les arrêts Jarvis, Ling et Romanuk appuient l'affirmation selon laquelle l'ARC peut continuer d'utiliser ses pouvoirs de vérification et d'utiliser « de tels renseignements ou documents [...] aux fins d'administration de la Loi » et pour établir une cotisation ou une nouvelle cotisation. Il ne faut pas confondre ce rôle avec celui d'un « tribunal saisi de la poursuite » à l'égard d'une infraction. Il s'agit d'une tout autre question. Bien que la Loi de l'impôt sur le revenu prévoit des « infractions » aux articles 238 et 239, ces infractions sont de nature pénale et font généralement l'objet de poursuites devant les tribunaux provinciaux.
+[37] En conclusion, la compétence en matière de contrôle judiciaire décrite au paragraphe 18.1(1) de la Loi sur les Cours fédérales relève de la compétence exclusive de la Cour fédérale. Elle ne relève pas de la compétence de la Cour canadienne de l'impôt.
+La requête no 2 (suite)
+[38] Compte tenu des conclusions de la Cour qui précèdent, il n'est pas nécessaire d'examiner l'article 231.4 de la LIR, ni le paragraphe 18.1(1) de la Loi sur les Cours fédérales dans le cas de la requête en radiation.
+[39] Les appelants renvoient à l'article 53 des Règles, qui dispose ce qui suit :
+53(1) La Cour peut, de son propre chef ou à la demande d'une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l'acte ou le document :
+a) peut compromettre ou retarder l'instruction équitable de l'appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d'appel ou de contestation de l'appel.
+(2) Aucune preuve n'est admissible à l'égard d'une demande présentée en vertu de l'alinéa (1)d).
+[40] Les appelants n'ont invoqué aucune des dispositions des alinéas 53(1)a) à d), de sorte que la Cour ne peut que supposer que la requête vise à radier les réponses au motif qu'elles sont « scandaleuse[s], frivole[s] ou vexatoire[s] » ou qu'elles « constitue[nt] un recours abusif à la Cour ».
+[41] Le critère appliqué pour radier les actes de procédure a été énoncé à de nombreuses occasions et la Cour a adopté à maintes reprises le critère du caractère « évident et manifeste » : Gramiak c. La Reine, 2013 CCI 383, et, plus récemment, Brooks. La Cour peut se demander s'il est « évident et manifeste » que les réponses doivent être radiées pour l'un des motifs énoncés dans la requête elle-même, comme il a été résumé ci‑dessus.
+[42] En d'autres termes, les allégations selon lesquelles le fonctionnaire de l'ARC qui a ratifié les nouvelles cotisations n'était [TRADUCTION] « pas impartial, juste ou de bonne foi », ou une enquête pénale a précédé les vérifications de l'ARC qui ont mené aux nouvelles cotisations, ou il y a eu inconduite de la part de l'ARC, doivent‑elles amener la Cour à conclure qu'il est « évident et manifeste » que les réponses ne constituent pas une réponse complète aux avis d'appel ou sont insuffisantes et doivent ainsi être radiées? La réponse est non, clairement et sans équivoque.
+[43] Dans ses prétentions écrites, l'intimée soutient ce qui suit :
+[TRADUCTION]
+La requête des appelants comporte des allégations dénuées de fondement concernant la conduite du ministre du Revenu national (le ministre) qui, comme la Cour l'a déclaré à maintes reprises aux appelants, ne sont pas pertinentes aux questions en appel;
+La requête des appelants comporte des attaques non pertinentes et inappropriées contre le ministre, qui ne sont pas étayées par les faits et ne relèvent pas de la compétence de la Cour;
+La requête de l'appelant, dans son intégralité, équivaut à un autre retard en l'espèce et à un abus de la procédure de la Cour.
+[44] La Cour est d'accord avec ces observations et conclut qu'il n'y a pas lieu de radier les réponses et que, par conséquent, la requête no 2 devrait également être rejetée.
+Conclusion
+[45] La Cour est d'accord avec l'observation de l'intimée selon laquelle [TRADUCTION] « depuis que les appels ont été interjetés en 2012, les appelants ont tenté à maintes reprises de soulever la conduite du ministre comme question devant la Cour ».
+[46] Un examen du dossier de la Cour indique que les avis d'appel ont été déposés initialement le 23 mai 2012, suivis des avis d'appel modifiés, des deuxièmes avis d'appel modifiés et des nouveaux deuxièmes avis d'appel modifiés. Puis, à la suite de la requête de l'intimée visant la radiation de toutes les allégations ou mentions de la conduite de l'ARC et de l'ordonnance du 10 mars 2014, les avis d'appel modifiés supplémentaires ont été déposés le 14 mars 2014.
+[47] Les appelants ont ensuite déposé une requête en application de l'article 58 des Règles pour que soient tranchées onze questions de droit, de fait ou de droit et de fait, afin de tenter de présenter de nouveau des observations sur la conduite de l'ARC et des questions relatives à la Charte. Le juge Graham a rejeté cette requête le 14 juin 2016.
+[48] Les appelants ont ensuite tenté de modifier une fois de plus leurs actes de procédure pour étayer un avis de question constitutionnelle. Cette requête a été rejetée pour défaut de comparution des appelants. On n'a pas tenté d'interjeter appel ou de faire annuler l'ordonnance, et une tentative de présenter cette requête de nouveau le 4 juillet 2018 a été rejetée dans l'ordonnance et les motifs communs de l'ordonnance prononcés le 8 août 2019.
+[49] De plus, comme l'a fait remarquer l'intimée, les appelants ont dressé une liste de 27 personnes qui sont ou étaient des fonctionnaires de l'ARC, y compris des avocats du ministère de la Justice, tous appelés [TRADUCTION] « employés de la Couronne », laissant entendre qu'ils avaient commis des [TRADUCTION] « actes frauduleux présumés » ou avaient fait des [TRADUCTION] « présentations erronées de faits pertinents ».
+[50] La Cour conclut que les allégations susmentionnées sont conformes à une série de réclamations ou de prétentions non fondées et conspiratrices formulées par les appelants contre des fonctionnaires de l'ARC ainsi que des juges de la Cour canadienne de l'impôt qui ont participé au litige depuis le début. Il s'agit d'allégations graves, qui sont également répréhensibles et méritent une sévère réprimande.
+[51] Comme le confirme l'article 147 des Règles, la Cour peut adjuger des dépens à tout moment de la procédure dans l'exercice de son pouvoir discrétionnaire.
+[52] Les présentes requêtes ne portaient nullement sur les cotisations et n'ont nullement fait avancer les appels. Après avoir examiné l'alinéa 147(3)g) des Règles, la Cour est d'avis qu'en déposant ces requêtes, les appelants ont pris des mesures qui ont « prolongé inutilement la durée de l'instance », et qu'il s'agit d'un abus de procédure et, pour reprendre le libellé de l'alinéa 147(1)i), d'une conduite « inappropriée, vexatoire ou inutile ».
+[53] En conséquence de ce qui précède, la Cour rejette les deux requêtes et adjuge les dépens à l'intimée, soit 7 500 $ à payer par Robert H. Keenan et 7 500 $ à payer par William E. Adams.
+[54] Les dépens adjugés aux présentes sont payables immédiatement.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2019.
+« Guy R. Smith »
+Le juge Smith
+RÉFÉRENCE :
+2019 CCI 259
+Nos DES DOSSIERS DE LA COUR :
+2012-2127(IT)G, 2012‑2129(GST)G, 2012‑2120(IT)G, 2012‑2134(GST)G, 2012‑2117(IT)G, 2012-2135(GST)G, 2012‑2123(IT)G, 2012‑2128(GST)G, 2012‑2124(IT)G, 2012‑2132(GST)G, 2012‑2125(IT)G, 2012‑2131(GST)G, 2012‑2126(IT)G, 2012‑2130(GST)G
+INTITULÉS :
+ROBERT H. KEENAN, WILLIAM E. ADAMS, 640950 B.C. LTD., WORLD WIDE GOLF (CANADA) LTD., LANDMARK CAPITAL PARTNERS LTD., LANDMARK OIL & GAS LTD., PREFERRED CHOICE ACCOUNTING SERVICES LTD. c. LA REINE
+LIEU DE L'AUDIENCE :
+Ottawa, Canada
+DATE DE L'AUDIENCE :
+Le 28 mai 2019
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Guy R. Smith
+DATE DE L'ORDONNANCE :
+Le 21 novembre 2019
+COMPARUTIONS :
+Représentant des appelants :
+Robert Harold Keenan
+William E. Adams
+Avocats de l'intimée :
+Me Max Matas
+Me Victor Caux
+Me Olinda Samuel
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

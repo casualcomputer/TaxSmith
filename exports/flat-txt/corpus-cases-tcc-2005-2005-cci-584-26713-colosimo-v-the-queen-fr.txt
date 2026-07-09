@@ -1,0 +1,123 @@
+Title: Colosimo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26713/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-584-26713-colosimo-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-08-31
+
+# Colosimo v. The Queen
+
+- Citation: 2005 CCI 584
+- Decision date: 2005-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3425, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Colosimo v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-31
+Référence neutre
+2005 CCI 584
+Numéro de dossier
+2004-3048(GST)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+2004-3048(GST)I
+ENTRE :
+ROSARIO COLOSIMO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 31 mai 2005, à Toronto (Ontario),
+Par l'honorable juge E.A. Bowie
+Comparutions
+Représentant de l'appelant :
+Joe Colosimo
+Avocat de l'intimée :
+Me John Grant
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont avis est daté du 9 juin 2003 et porte le numéro 02308143612307001, est rejeté.
+Signé à Ottawa, Canada, ce 31e jour d'août 2005.
+« E.A. Bowie »
+J. Bowie
+Traduction certifiée conforme
+ce 27e jour d'octobre 2005.
+Ginette Côté, trad. a.
+Référence : 2005CCI584
+Date : 20050831
+Dossier : 2004-3048(GST)I
+ENTRE :
+ROSARIO COLOSIMO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+J. Bowie
+[1] L'appel en instance résulte du rejet par le ministre du Revenu national de la demande de l'appelant visant à obtenir un remboursement pour habitations neuves en vertu du paragraphe 256(2) de la Loi sur la taxe d'accise[1]. Cette disposition prévoit que dans les cas où un particulier qui « [...] lui-même ou par un intermédiaire, construit un immeuble d'habitation - immeuble d'habitation à logement unique [...] - ou y fait des rénovations majeures [...] » , le ministre lui accorde un remboursement dont le montant est préétabli par la Loi. Il n'est pas contesté que l'appelant a conclu un contrat avec un entrepreneur pour faire des travaux de rénovation dans sa maison familiale ou que les travaux ont été faits. De même, le montant qui serait payable si les rénovations ouvraient droit à un remboursement n'est pas non plus contesté. Le différend entre les parties porte uniquement sur la question de savoir si les travaux satisfont à la définition de l'expression « rénovations majeures » pour l'application du paragraphe 256(2) de la Loi. Cette expression est définie comme suit au paragraphe 123(1) :
+« rénovations majeures » Fait l'objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l'achèvement des travaux, le bâtiment constitue un immeuble d'habitation ou fait partie d'un tel immeuble.
+[2] L'appelant était représenté à l'audition de l'appel par son fils, Joe Colosimo. C'est un entrepreneur, et il est familier avec les faits de l'affaire puisqu'il vivait dans la maison avec ses parents et sa soeur avant les rénovations. Il a produit en preuve 47 photographies prises avant et après les rénovations, ainsi que des factures des travaux et il a décrit les rénovations effectuées.
+[3] La maison de l'appelant est située au 180, avenue Riverview à Woodbridge (Ontario). C'est une maison unifamiliale de deux étages construite à la fin des années 1970. Elle compte quatre chambres à coucher, une salle de bain complète et une salle de bain communicante à l'étage. Au rez-de-chaussée, on retrouve un hall d'entrée, un salon, une salle familiale, une salle à dîner, une cuisine et une salle de bain. La superficie de l'étage est environ 25 % plus petite que celle du rez-de-chaussée. Les rénovations ont été effectuées durant le premier semestre de 2001. M. et Mme Colosimo ont abandonné leur chambre à coucher et ont emmanagé au sous-sol pendant les rénovations. Leur fils et leur fille ont quitté la maison pour s'installer ailleurs. Je n'ai aucun doute que cela était nécessaire car toute la maison était en chantier et envahie par la poussière de plâtre et d'autres débris de construction notamment, ce qui fait qu'il leur aurait été impossible de vivre aux étages supérieurs pendant les rénovations.
+[4] M. Colosimo a décrit les travaux de façon assez détaillée. Au rez-de-chaussée, toutes les fenêtres ainsi que la porte-fenêtre coulissante donnant sur l'extérieur ont été remplacées. Dans la cuisine, de nouvelles armoires et moulures ont été installées pour remplacer celles d'origine; les dosserets ont aussi été remplacés. Les murs ont été sablés et peints. Une cloison entre la cuisine et la salle à dîner a été déplacée pour agrandir la cuisine. Toutes les cloisons sèches ont été remplacées dans la cuisine. Dans le hall d'entrée, le papier peint a été enlevé et une partie des cloisons sèches a été remplacée. Les murs ont été sablés et peints. Dans la salle familiale, le foyer de briques a été démantelé et remplacé par un nouveau foyer au gaz, et un manteau de foyer a été installé. Pour ce faire, il a fallu poser des cloisons sèches à l'emplacement de l'ancien foyer. Au rez-de-chaussée, tous les revêtements de plancher sur les faux-planchers ont été remplacés soit par du bois franc, soit par de la céramique. Toutes les portes et tous les encadrements de porte ont été remplacés. Au rez-de-chaussée, les plafonds d'origine en plâtre soufflé ont tous été remplacés par de nouvelles cloisons sèches, des moulures couronnées et de nouveaux luminaires. Les girons de marche ont tous été remplacés par de nouveaux girons en bois franc, et une nouvelle rampe a été installée.
+[5] Les salles de bain ont toutes fait l'objet de travaux majeurs. Les revêtements de sol, les fenêtres et les moulures ont été remplacés. Les installations sanitaires ont été remplacés au complet. Un bain Jacuzzi et une douche ont été installés. Une entrée de porte a été obturée dans la salle de bain principale et une demi-cloison a été enlevée dans une des salles de bain. De nouvelles étagères ont été installées dans les placards, de même que de nouveaux plafonds et luminaires. Dans la salle de bain du rez-de-chaussée, il a été nécessaire de remplacer une bonne partie des cloisons sèches après avoir enlevé les vieilles tuiles de céramique. Dans les chambres à coucher, les portes, les encadrements de porte et les moulures ont tous été remplacés; les murs ont été sablés et peints, et les planchers ont été sablés et teints.
+[6] Le coût total des rénovations s'établit à un peu plus de 100 000 $. Les travaux étaient certainement importants, davantage au rez-de-chaussée qu'à l'étage. En revanche, il s'agissait principalement de travaux esthétiques. Les rénovations effectuées dans les salles de bain englobaient le remplacement complet des appareils sanitaires devenus certainement désuets. La structure n'a guère subi de modifications. Le déplacement d'une cloison dans la cuisine constitue le changement le plus important à cet égard. Les rénovations dans les chambres à coucher étaient uniquement de nature esthétique. Aurait-on pu dire une fois les travaux achevés que [...] la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée [...] » ?
+[7] Je ne le crois pas. Je fais mienne la déclaration suivante du juge Hershfield dans l'affaire Erickson c. Canada[2], au paragraphe 16 :
+[...] La Loi n'autorise pas de remboursement à l'égard d'une rénovation, importante ou non, à moins que presque tout l'édifice ne soit refait. [...]
+Le libellé de la définition étaye certainement ce point de vue. Je comprends que, dans d'autres contextes, on ait attribué un sens assez élastique aux mots « la totalité » . Le jugement rendu par le juge Bowman dans l'affaire Watts v Canada[3] en fournit des exemples. Cela dit, dans le contexte dans lequel ces mots son utilisés en l'espèce, il est très clair que le législateur entendait accorder un remboursement non seulement pour encourager les gens à moderniser leurs maisons et à les rendre plus attrayantes, mais aussi pour reconstruire des édifices qui autrement ne pourraient pas être mis à vendre ou à louer parce qu'impropres à l'habitation - autrement dit, pour élargir le bassin d'habitations utilisables. Bien qu'il soit à peu près impossible d'établir avec précision à partir de quel moment des rénovations peuvent être considérées comme majeures, je suis d'avis que les travaux doivent être beaucoup plus importants que ceux qui ont été effectués en l'espèce.
+[8] Exception faite des deux salles de bain, l'étage de la maison n'a fait l'objet que de changements de nature esthétique. On peut en dire autant d'une bonne partie du rez-de-chaussée. Les installations électriques et la plomberie sont à toutes fins utiles demeurés intacts, hormis le raccordement des nouveaux luminaires au réseau actuel. Le système de chauffage n'a fait l'objet d'aucun changement mécanique. Le sous-sol est demeuré tel quel. On est très loin de l'enlèvement ou du remplacement de la totalité des parties internes, non portantes du bâtiment.
+[9] Le représentant de l'appelant s'est appuyé entièrement sur le jugement rendu par le juge Rip dans l'affaire Lair et Sa Majesté la Reine[4], notamment sur la déclaration suivante au paragraphe 14 :
+[...] D'après les faits dont j'étais saisi alors, si tout observateur raisonnable et neutre du bâtiment, avant et après la construction de l'intérieur et de l'extérieur du bâtiment, pouvait conclure que le degré de rénovation et de transformation était majeur, cela répondait alors à la définition de « rénovations majeures » . Mme Lair avait une vieille maison sur le point de s'effondrer et à toutes fins utiles, l'a reconstruite comme une nouvelle résidence.
+Or, cette affaire ne peut légitimement se comparer à celle qui nous occupe. Rien dans la preuve ne laisse un tant soit peu supposer que la maison de l'appelant était sur le point de s'effondrer. Je ne suis pas davantage convaincu qu'un observateur impartial conclurait que les rénovations effectuées par l'appelant étaient majeures, si cette personne tenait compte de l'intention du législateur. D'aucuns pourraient dire que les rénovations effectuées par M. Colosimo étaient majeures si on attribuait simplement au mots leur sens ordinaire, or ce n'est pas le critère que je dois appliquer. Les travaux effectués en l'espèce ne sont tout simplement pas de l'envergure de ceux que le législateur avait décidé d'encourager et de subventionner en accordant un remboursement fiscal.
+[10] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 31e jour d'août 2005.
+« E.A. Bowie »
+J. Bowie
+Traduction certifiée conforme
+ce 27e jour d'octobre 2005.
+Ginette Côté, trad. a.
+RÉFÉRENCE :
+2005CCI584
+NO DU DOSSIER DE LA COUR :
+2004-3048(GST)I
+INTITULÉ DE LA CAUSE :
+Rosario Colosimo et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+le 31 mai 2005
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+le 31 août 2005
+COMPARUTIONS :
+Représentant de l'appelant :
+Joe Colosimo
+Avocat de l'intimée :
+Me John Grant
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. E-15, et ses modifications.
+[2] [2001] A.C.I. 40.
+[3] 2004 TCC 535.
+[4] 2003 CCI 929.

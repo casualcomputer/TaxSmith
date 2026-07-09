@@ -1,0 +1,111 @@
+Title: Zafran c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30401/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-313-30401-zafran-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-06-23
+
+# Zafran c. M.R.N.
+
+- Citation: 2011 CCI 313
+- Decision date: 2011-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7862, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zafran c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-23
+Référence neutre
+2011 CCI 313
+Numéro de dossier
+2010-1799(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-1799(EI)
+ENTRE :
+JEREMY ZAFRAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 juin 2011, à Montréal (Québec).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Pour l’intimé :
+Me Ilinca Ghibu
+Valérie Messore, étudiante en droit
+____________________________________________________________________
+JUGEMENT
+L’appel relatif à la décision datée du 24 février 2010 du ministre du Revenu national est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de juin 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 11e jour d’août 2011.
+Marie-Christine Gervais
+Référence : 2011CCI313
+Date : 20110623
+Dossier : 2010-1799(EI)
+ENTRE :
+JEREMY ZAFRAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Jeremy Zafran, interjette appel de l’avis de détermination établi par le ministre du Revenu national en vertu du paragraphe 93(3) de la Loi sur l’assurance‑emploi et de l’article 9.1 du Règlement sur l’assurance-emploi, à savoir qu’il n’avait pas accumulé assez d’heures d’emploi assurable pendant la période pertinente pour avoir droit à des prestations d’assurance‑emploi.
+[2] M. Zafran s’est représenté lui-même et a été le seul à témoigner. Il n’a pas contesté qu’au cours des périodes pertinentes il a travaillé comme annonceur à la radio ou que le nombre d’heures de travail qu’il a effectuées au cours de chaque période a été de 1 417, de 443 et de 210, respectivement. L’appel de M. Zafran avait pour but de montrer l’iniquité du fait d’être obligé de cotiser au régime d’assurance‑emploi alors que les conditions de son emploi garantissaient presque qu’il n’aurait jamais le droit de recevoir des prestations quand il en aurait besoin. Comme je ne puis améliorer l’éloquente description que M. Zafran a faite de l’effet qu’a la loi, dans sa forme actuelle, sur de nombreuses personnes qui travaillent dans l’industrie de la radio, j’en reproduis des passages ci-dessous :
+[traduction]
+… Le problème auquel je suis confronté dans l’industrie où je travaille… une situation qui est la même que celle dans laquelle se trouvent tous mes collègues de travail qui sont sur les ondes est que jamais nous n’obtiendrons trente‑cinq (35) heures de travail sur les ondes; c’est impossible. Mon rôle en tant qu’annonceur – même à temps plein – représente au maximum trente (30) heures de travail, peut‑être vingt (20), vingt-cinq (25), suivant le quart de travail que nous effectuons à plein temps [mais] selon des heures de travail à temps partiel. Il y a quelques années, il y a eu une certaine convergence dans l’industrie et les grandes entreprises se sont achetées les unes les autres et ont entrepris d’éliminer des postes à temps plein et de réembaucher des gens à temps partiel, [éliminant] ainsi… l’obligation de payer des prestations de maladie[1].
+… La réalité c’est qu’avec la convergence, il y a… il y a eu un mouvement en faveur de l’élimination d’un plus grand nombre de postes à temps plein en vue d’inclure des postes à temps partiel. Par conséquent, les entreprises, sans le dire directement, se débarrassent de leur obligation de payer des prestations de maladie additionnelles aux employés, mais, en même temps, sont en mesure d’utiliser au maximum les employés à temps partiel, ce qui, en bout de ligne, leur coûte moins cher. La raison pour laquelle je dis cela c’est qu’il y a beaucoup de gens dans ma situation [qui] finissent par accomplir moins d’heures de travail, mais les entreprises parviennent quand même à nous garder à leur service et à rester à flot et nous… ainsi que les employés à temps plein, vous savez, ces derniers se chiffrent à… ils sont beaucoup moins nombreux, et, ainsi [les entreprises de radio] ont plus de facilité à éliminer nos postes…
+Ce qui est arrivé avec les annonceurs à temps plein et à temps partiel, il existe encore des règlements… [Dans] mon cas… il y avait un syndicat et si on parvenait à accomplir un certain nombre d’heures de travail, l’entreprise finissait par nous payer à taux et demi, et l’entreprise [a fait]… un effort concerté pour s’assurer que les employés n’accomplissaient pas plus qu’un certain nombre d’heures qui les obligeaient à être… en surtemps… Le problème avec notre industrie (et je crois que c’est cela qui m’irrite le plus) c’est que j’ai le sentiment d’être pénalisé pour… le travail que je fais et l’argent que je gagne. En tant qu’employé à temps partiel au sein de cette entreprise dans l’année où on m’a licencié, j’ai gagné 46 000 $... plus… 3 000 $ à temps partiel.
+Je complète mon revenu en faisant des travaux à la pige, ce qui me permet d’assurer ma survie et ce qui… m’a permis d’assurer ma survie jusqu’à aujourd’hui. La réalité c’est que mes heures de travail ne correspondent même pas de près au minimum de trente-cinq (35) heures de travail… mais je cotise à l’assurance‑emploi comme un employé à temps plein. Mon problème c’est donc que, en tant qu’employé à temps partiel, je cotise comme un employé à temps plein et je n’ai pas droit aux prestations, comme si j’étais puni à cause de mes heures de travail – mais pas pour le montant de revenu et la quantité d’argent que le gouvernement est prêt à me prendre. Il n’a pas de difficulté à prendre l’argent; il a de la difficulté à me le remettre quand moi je suis en difficulté. Le point de vue… l’esprit de la loi pour ce qui est de l’assurance-emploi est de garantir mon emploi, pas de me punir parce que j’ai un emploi qui, en fait, paye plus que certains autres… Par comparaison, si je travaillais, par exemple, comme employé chez McDonald’s, comme gérant, et que j’accomplissais suffisamment d’heures de travail et gagnais 46 000 $, j’aurais droit aux prestations maximales, mais, comme j’ai travaillé quelque vingt (20) heures par semaine et déclaré 6 000 $, cela ne m’a pas donné droit aux mêmes prestations… qu’un [gérant] de McDonald’s…[2].
+[Les erreurs de ponctuation, d’orthographe et de grammaire présentes dans la transcription ont été révisées.]
+[3] M. Zafran a dit qu’il avait invoqué essentiellement le même argument devant les membres du Conseil arbitral : même si ces derniers compatissaient à sa situation, leur décision devait être prise en fonction du libellé actuel de la loi. Comme je l’ai mentionné à M. Zafran à la conclusion de l’audience, la Cour se trouve dans la même situation. La réparation qu’il cherchait à obtenir était une modification à la loi, un pouvoir qui relève exclusivement du Parlement. M. Zafran était au courant de ce partage des pouvoirs, mais il a dit douter de pouvoir persuader le gouvernement de modifier la Loi sur l’assurance-emploi : [traduction] « je ne peux pas me présenter au Parlement et dire : changez la loi; ça ne fonctionne pas comme ça »[3].
+[4] Certes, la mise en œuvre d’un changement législatif peut être un processus long et frustrant. Mais cela ne devrait pas empêcher des Canadiens préoccupés comme M. Zafran de formuler auprès de représentants élus le genre d’arguments convaincants et passionnés qu’il a présentés à la Cour; par exemple, devant le comité parlementaire approprié ou devant le député de sa circonscription ou le ou les ministres responsables. Une telle initiative aurait à tout le moins l’avantage d’être soumise à la tribune appropriée. Le rôle de la Cour consiste à interpréter et à appliquer la loi, et non pas à la créer.
+[5] J’ai permis à M. Zafran d’exposer ses préoccupations liées à la Charte des droits et libertés et j’ai entendu la réponse compétente de Mme Messore, étudiante en droit, pour le compte de l’intimé, mais, comme M. Zafran n’avait pas fourni l’avis de question constitutionnelle qui doit être signifié, les observations qu’il a faites à cet égard ne pouvaient pas l’aider.
+[6] Dans ces circonstances, je suis au regret de dire que je n’ai pas d’autre choix que de rejeter l’appel.
+Signé à Ottawa, Canada, ce 23e jour de juin 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 11e jour d’août 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011 CCI 313
+No DU DOSSIER DE LA COUR : 2010-1799(EI)
+INTITULÉ : JEREMY ZAFRAN c. MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 3 juin 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 23 juin 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Pour l’intimé :
+Me Illinca Ghibu
+Valérie Messore, étudiante en droit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription, de la page 8, lignes 20 à 25, à la page 9, lignes 1 à 7, inclusivement.
+[2] Transcription, de la page 10, lignes 10 à 25, à la page 12, lignes 1 à 9, inclusivement.
+[3] Transcription, page 37, lignes 15 et 16.

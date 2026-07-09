@@ -1,0 +1,185 @@
+Title: Horseman c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/235710/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-198-235710-horseman-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-09-29
+
+# Horseman c. La Reine
+
+- Citation: 2017 CCI 198
+- Decision date: 2017-09-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2186, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Horseman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-29
+Référence neutre
+2017 CCI 198
+Numéro de dossier
+2016-4561(GST)APP
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-4561(GST)APP
+ENTRE :
+RICK HORSEMAN,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 29 mars 2017, à Edmonton (Alberta)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocate du requérant :
+Me Priscilla Kennedy
+Avocat de l’intimée :
+Me E. Ian Wiebe
+JUGEMENT
+La demande de prorogation du délai pour déposer un avis d’appel concernant la nouvelle cotisation en date du 28 mars 2011 et établie en vertu de la Loi sur la taxe d’accise est rejetée sans dépens conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2017.
+« B. Russell »
+Juge Russell
+Référence : 2017CCI198
+Date : 20170929
+Dossier : 2016‑4561(GST)APP
+ENTRE :
+RICK HORSEMAN,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] M. Rick Horseman demande une ordonnance visant à accorder une prorogation du délai pour déposer un avis d’appel auprès de la Cour relativement à une cotisation établie à l’égard de la taxe sur les produits et services (la « TPS ») en vertu de la Loi sur la taxe d’accise (Canada) (la « Loi »). Selon l’avis de demande l’avis de (nouvelle) cotisation pertinent [traduction] « [avait] censément [été] envoyé en 2011 ». La présente demande, intentée le 18 octobre 2016, a été déposée en application de l’article 305 de la Loi, conformément à ce qui est indiqué au paragraphe 6 de l’avis d’appel visé et joint à l’avis de demande.
+[2] Aux fins de la présente demande, l’intimée accepte les faits énoncés aux paragraphes 1 à 6 de l’argumentation écrite initiale du requérant. Ils comprennent le fait que le requérant est un Indien vivant sur une réserve, qu’il est un ancien conseiller et chef de bande, qu’il a exécuté des travaux visant à niveler les chemins dans les réserves, qu’il était propriétaire d’une société appelée R&R Grading Services Ltd., qui a été radiée par le registre des sociétés de l’Alberta en 1999 et, en 2015, il [traduction] « a accepté un travail temporaire à la Halfway River First Nation (Première Nation de la rivière Halfway) (les deux Premières nations du Traité no 8) ». De plus, toutes les sommes gagnées ont été saisies par le receveur général en vertu de demandes formelles de paiement et l’Agence du revenu du Canada a saisi sa déclaration de revenus de 2016.
+[3] L’avis de demande énonce que la TPS ne peut être due [traduction] « pour des sommes gagnées sur la réserve par un Indien » et invoque la Loi constitutionnelle de 1982, l’article 87 de la Loi sur les Indiens et l’alinéa 81(1)a) de la Loi de l’impôt sur le revenu (la « LIR ») fédérale.
+[4] L’avis affirme en outre que l’Agence du revenu du Canada (l’« ARC ») s’est livrée à des actes inconstitutionnels lorsqu’elle a envoyé les demandes péremptoires de paiement (saisie‑arrêt) et que les [traduction] « les délais [prévus par la loi] ne s’appliquent pas aux actes inconstitutionnels. » Il énonce en outre qu’il [traduction] « juste et équitable de faire droit à une demande de prorogation du délai pour interjeter appel à l’encontre d’actes inconstitutionnels de l’[ARC] qui ne comportent aucun pouvoir légal ». Il conclut en indiquant que le requérant [traduction] « a pris les mesures immédiates pour régler les demandes péremptoires de paiement (saisie‑arrêt) et est dans le délai d’un an suivant le rejet de son avis d’opposition. Il a exprimé son intention d’interjeter appel tout au long du processus. »
+Faits [5] Voici les faits pertinents tirés des documents déposés et de la plaidoirie des parties devant la Cour :
+a) Le 28 mars 2011, le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard du requérant en vertu de la Loi pour ses obligations en matière de TPS. Le requérant déclare qu’il n’a pas reçu l’avis de (nouvelle) cotisation pertinent. Il affirme qu’il a pris connaissance de cette cotisation pour la première au milieu ou à la fin de l’été 2015 et qu’il a ensuite obtenu une copie de l’avis de (nouvelle) cotisation pertinente dont la date d’envoi par la poste est le 28 mars 2011.
+b) En juillet 2015, conformément aux paragraphes 317(1) et (2) de la Loi, le ministre a signifié des demandes péremptoires de paiement à deux sociétés exigeant qu’elles versent au receveur général les sommes dues au requérant au titre de la dette fiscale du requérant.
+c) Le 23 juillet 2015, le ministre a envoyé au requérant un état de ses arriérés de TPS en date du 23 juillet 2015. Le 24 septembre 2015 ou vers cette date, le requérant, par l’entremise de son avocat, a acheminé au chef des Appels de l’ARC à Winnipeg un avis d’une seule page datée du 24 septembre 2015 et intitulée [traduction] « Faits et motifs d’opposition » et indiquait se rapporter à un « avis » en date du 23 juillet 2015.
+d) Vers cette date, sinon avant, le requérant avait une copie de l’avis de (nouvelle) cotisation du 28 mars 2011 susmentionnée.
+e) Au moyen d’une lettre datée du 7 octobre 2015 à l’intention du requérant, le ministre l’a informé que son « avis d’opposition » ne serait pas reconnu comme valable puisqu’il vise un état des arriérés en date du 23 juillet 2015 et qu’un état des arriérés n’est pas un avis de (nouvelle) cotisation. (J’ajoute entre parenthèses que le requérant n’a toutefois pas répondu à cette communication, par exemple, informer le ministre qu’il venait récemment de recevoir l’avis de (nouvelle) cotisation du 28 mars 2011 et qu’il avait l’intention de s’opposer à cette cotisation.)
+f) Au contraire, le 30 octobre 2015, le requérant a intenté, au moyen d’une déclaration, une action devant la Cour fédérale contre l’intimée pour demander des dommages‑intérêts concernant la saisie‑arrêt susmentionnée en affirmant qu’à titre d’Indien, il n’était pas assujetti à la taxation en vertu de la Loi. Une liste des documents déposés par le requérant dans le cadre de cette action, y compris l’avis de (nouvelle) cotisation susmentionnée établie en vertu de la Loi en date du 28 mars 2011 en tant que pièce 8.
+g) Le 7 mars 2016, la Cour fédérale a radié la déclaration susmentionnée, sans autorisation de la modifier puisque la déclaration ne relevait aucun moyen valable. L’appel (2016 CAF 252) de cette décision interjeté par le requérant devant la Cour d’appel fédérale a été rejeté le 17 octobre 2016 et la Cour a conclu que la demande du requérant n’était « [...] rien de plus qu’une contestation de la validité de la nouvelle cotisation [le 25 mars 2011]. » La Cour canadienne de l’impôt et non la Cour d’appel fédérale avait compétence exclusive pour trancher les affaires concernant les cotisations fédérales. Le lendemain, le 18 octobre 2016, le requérant a déposé la présente demande devant la Cour en vue d’obtenir une prorogation du délai pour déposer un avis d’appel.
+h) Plusieurs mois plus tard, le 23 février 2017, le requérant a déposé un avis de question constitutionnelle concernant cette affaire (apparemment en vertu de l’article 19.2 de la Loi sur la Cour canadienne de l’impôt) et a signifié l’avis au procureur général fédéral et à tous les procureurs généraux provinciaux. L’avis informe de l’intention du requérant de remettre en question [traduction] « […] L’applicabilité constitutionnelle ou les effets des dispositions de la [Loi] et de la Loi de l’impôt sur le revenu à un Indien vivant dans une réserve, conformément à la Loi sur les Indiens, L.R.C. 1985, ch. I‑5, article 87 et du Traité no 8, ainsi que de la Loi constitutionnelle. »
+i) À la présentation de la présente demande le 29 mars 2017, les seules parties qui ont comparu étaient le requérant et l’intimée. À la conclusion de l’audition brève, la question a été ajournée afin de donner aux parties le temps de déposer d’autres observations écrites.
+Questions en litige [6] Les questions en litige sont les suivantes :
+i. les dispositions préalables de la Loi concernant le dépôt d’un avis d’appel, y compris les limites temporelles, s’appliquent-elles, en dépit du fait que l’argument que l’appelant éventuel a l’intention de soutenir est que la Loi est inconstitutionnelle dans son application aux Indiens?
+ii. dans l’affirmative; le requérant répond‑il aux exigences en vertu de l’article 305 de la Loi de sorte à permettre la délivrance d’une ordonnance de prorogation du délai pour déposer un avis d’appel devant la Cour.
+Thèse du demandeur [7] Dans les observations écrites initiales, le requérant a affirmé (au paragraphe 23) simplement qu’il [traduction] « [...] avait des motifs valables pour interjeter appel et qu’il est juste et équitable de faire droit à la demande de prorogation du délai pour déposer son avis d’appel. » Il n’y avait aucune mention de faits sous‑jacents selon lesquels le dépôt d’un avis d’appel était hors délai à l’origine, faisant en sorte que la présente demande de prorogation du délai pour le déposer soit nécessaire.
+[8] Dans sa plaidoirie, selon la thèse du requérant, aucune des dispositions de la Loi régissant le dépôt d’un avis d’appel ne pouvait s’appliquer en l’espèce dans le cas où le requérant faisait valoir, en vertu de l’article 87 de la Loi sur les Indiens, une violation de son droit constitutionnel de ne pas être taxé en ce qui concerne les biens dans une réserve.
+[9] En plus de l’article 87 de la Loi sur les Indiens, le requérant a invoqué Fred Kelly c Sa Majesté, 2013 CAF 171 et Sa Majesté c Robertson et al, 2012 CAF 94, dont les décisions ont interprété et suivi l’arrêt faisant autorité Williams c Canada, [1992] 1 RCS 877, et les arrêts de suivi, Succession Bastien c Canada, 2011 CSC 38 et Dubé c Canada, 2011 CSC 39 de la Cour suprême du Canada (CSC). Ces arrêts portent chacun sur le critère pour appliquer l’article 87 de la Loi sur les Indiens, soit la détermination des facteurs de nature factuelle pertinents pour trancher, dans un cas donné, la demande d’exonération de la taxation présentée par un Indien.
+[10] Dans la réponse du requérant aux observations de l’intimée, il a affirmé qu’aucune des décisions invoquées par l’intimée n’établit que les délais prévus par la loi continuent de s’appliquer en dépit d’une exception d’inconstitutionnalité.
+[11] De plus, le requérant a invoqué Manitoba Métis Federation Inc c Canada, [2013] 1 RCS 623, aux paragraphes 133 à 144 et 150, en soutenant que, dans Métis, la majorité de la CSC a décidé que les règles de prescription n’empêchent pas une déclaration selon laquelle une loi était inconstitutionnelle.
+Thèse de l’intimée [12] Selon la thèse de l’intimée, la présente demande a été déposée irrémédiablement hors délai. Cela en tenant compte de l’inobservation du requérant des délais et d’autres dispositions préalables prévues par la Loi relatives au dépôt d’un avis d’appel devant la Cour. Essentiellement, de telles dispositions exigent qu’un avis d’opposition valable soit déposé antérieurement. Ces dispositions ne cessent pas de s’appliquer simplement parce que l’appelant éventuel affirme l’inconstitutionnalité de la loi sous‑jacente, en l’espèce, la Loi. L’intimée invoque Papaschase Indian Band No. 136 (soit, Lameman) c Canada, 2008 CSC 14, Bande indienne Wewaykum c Canada, 2002 CSC 79, Première nation Samson c Canada, 2015 CF 836 et Ermineskin Indian Band c Canada, 2016 FCA 223.
+Discussion A. Question en litige (i) – les dispositions préalables de la Loi concernant le dépôt d’un avis d’appel, y compris les limites temporelles, s’appliquent-elles en dépit du fait que l’argument que l’appelant éventuel a l’intention de soutenir est que la Loi est inconstitutionnelle dans son application aux Indiens? [13] La présente demande de prorogation du délai pour déposer un avis d’appel devant la Cour est intentée en vertu de l’article 305 de la Loi qui dispose :
+Prorogation du délai d’appel
+305 (1) La personne qui n’a pas interjeté appel en application de l’article 306 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. Cette cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+(2) La demande doit indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai par ailleurs imparti.
+(3) La demande, accompagnée de trois exemplaires de l’avis d’appel, est déposée en trois exemplaires auprès du greffe de la Cour canadienne de l’impôt conformément à la Loi sur la Cour canadienne de l’impôt.
+(4) Sur réception de la demande, la Cour canadienne de l’impôt en envoie copie au bureau du sous‑procureur général du Canada.
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti d’appel par ailleurs imparti;
+b) la personne démontre ce qui suit :
+(i) dans le délai d’appel par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été déposée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[14] L’avis de demande du requérant ne précise aucune disposition particulière de la Loi qui pourrait être considérée comme inconstitutionnelle vu l’article 87 de la Loi sur les Indiens, qu’il cite en les approuvant.
+[15] Tel que cela est indiqué par l’intimée, la Loi elle-même a été jugée constitutionnelle par la CSC dans Renvoi relatif à la taxe sur les produits et services (Canada), [1992] 2 RCS 445.
+[16] J’ai étudié la jurisprudence invoquée par les parties. Je suis d’avis que la première question en litige, telle qu’elle est énoncée ci‑dessus, est tranchée entièrement par la décision de 2013 de la Cour suprême du Canada dans Manitoba Métis, précité.
+[17] Dans Manitoba Métis, les appelants ont intenté une action contre les gouvernements fédéral et du Manitoba en affirmant qu’ils avaient manqué à leur obligation fiduciaire envers les Métis dans le cadre de la division et de la répartition des terres en faveur des enfants des Métis conformément aux dispositions de la Loi de 1870 sur le Manitoba. Selon la contestation précise fondée sur la Constitution, cinq lois du Manitoba adoptées par la suite et accessoires à ladite loi fédérale étaient inconstitutionnelles; et une déclaration à cet effet a été demandée. Ces cinq lois sont abrogées depuis longtemps.
+[18] Une majorité de la SCC a affirmé qu’aucune obligation fiduciaire ne s’imposait et qu’il n’y avait de toute façon aucun manquement. De plus, la CSC n’étudierait pas maintenant en 2013 le caractère constitutionnel des cinq lois particulières du Manitoba – elles étaient abrogées depuis 44 ans, en 1969. Toutefois, la majorité a jugé qu’il existait une obligation fiduciaire en vertu du principe de l’« honneur de la Couronne » et que la conduite des représentants du gouvernement il y a plus d’un siècle, concernant la répartition des terres prévue dans la Loi de 1870 sur le Manitoba, affichait un manque de diligence aussi importante qu’ils ne respectaient pas l’honneur de la Couronne.
+[19] La majorité a ensuite pris en considération la question de savoir si une disposition prévoyant le délai imparti par une loi du Manitoba doit s’appliquer en tenant compte du contexte constitutionnel. Selon le principe enseigné par la jurisprudence, on peut donner suite à une demande de jugement déclaratoire relative au caractère constitutionnel législatif malgré une disposition en matière de prescription applicable par ailleurs. La majorité a choisi d’élargir ce principe en vue d’inclure les appelants dans Manitoba Métis, dans le cas du jugement déclaratoire qu’ils demandaient quant au manquement par le gouvernement de son obligation constitutionnelle de respecter l’honneur de la Couronne.
+[20] À cet égard, dans la décision majoritaire de Manitoba Métis, sous la plume de la juge en chef et du juge Karakatsansis, les paragraphes 132 à 137 comprennent les extraits pertinents [non souligné dans l’original] :
+[132] Ces [cinq] lois [du Manitoba] sont depuis longtemps sans effet. Elles ne peuvent avoir de répercussions futures et elles n’importent que dans la mesure où elles s’inscrivent dans la trame historique des revendications des Métis. En somme, elles sont devenues théoriques. La Cour ferait mauvais usage de son temps en examinant leur constitutionnalité. Nous n’avons donc pas à nous prononcer sur ce point.
+E. La demande de jugement déclaratoire est‑elle irrecevable par application des règles de la prescription?
+[133] Nous avons conclu que le Canada n’a pas agi avec diligence pour s’acquitter de l’obligation particulière que l’art. 31 de la Loi sur le Manitoba lui imposait envers les Métis, comme l’exigeait l’honneur de la Couronne. Pour les motifs qui suivent, nous sommes d’avis que les règles de la prescription n’empêchent pas la Cour de le confirmer dans un jugement déclaratoire.
+[134] Notre Cour a statué que, bien que les délais de prescription s’appliquent aux demandes de réparations personnelles découlant de l’annulation d’une loi inconstitutionnelle, les tribunaux conservent le pouvoir de statuer sur la constitutionnalité de la loi sous‑jacente (Kingstreet Investments Ltd. c. Nouveau‑Brunswick (Finances), 2007 CSC 1, [2007] 1 R.C.S. 3; Ravndahl c. Saskatchewan, 2009 CSC 7, [2009] 1 R.C.S. 181).La constitutionnalité d’une loi a toujours été une question justiciable (Thorson c. Procureur général du Canada, [1975] 1 R.C.S. 138, p. 151).Une atteinte au « droit des citoyens au respect de la constitution par le Parlement » peut être réprimée par un jugement déclarant qu’une loi est invalide ou qu’un acte public est ultra vires (Canadian Bar Assn. c. British Columbia, 2006 BCSC 1342, 59 B.C.L.R. (4th) 38, par. 23 et 91, citant Thorson, p. 163 (italiques ajoutés)). « Une question [...] constitutionnelle est toujours justiciable » (Waddell c. Schreyer (1981), 126 D.L.R. (3d) 431 (C.S.C.‑B.), p. 437, conf. par (1982), 142 D.L.R. (3d) 177 (C.A.C.‑B.), autorisation d’appel refusée, [1982] 2 R.C.S. vii (sub nom. Foothills Pipe Lines (Yukon) Ltd. c. Waddell).
+[135] Par conséquent, notre Cour a conclu que les lois sur la prescription des actions ne peuvent empêcher les tribunaux, à titre de gardiens de la Constitution, de rendre des jugements déclaratoires sur la constitutionnalité d’une loi. Par extension, les lois sur la prescription des actions ne peuvent empêcher les tribunaux de rendre un jugement déclaratoire sur la constitutionnalité de la conduite de la Couronne.
+[136] En l’espèce, les Métis sollicitent un jugement déclarant qu’une disposition de la Loi sur le Manitoba – à laquelle la Loi constitutionnelle de 1871 confère un statut constitutionnel – n’a pas été mise en œuvre conformément au principe de l’honneur de la Couronne, ayant lui aussi le statut de « principe constitutionnel » (Little Salmon, par. 42).
+[137] En outre, les Métis ne sollicitent pas de réparation personnelle, ne réclament pas de dommages‑intérêts et ne font aucune revendication territoriale. Ils ne demandent pas non plus le rétablissement du titre dont leurs descendants auraient pu hériter si la Couronne avait agi honorablement. Ils demandent plutôt que soit rendu un jugement déclarant qu’une obligation constitutionnelle précise n’a pas été remplie comme l’exigeait l’honneur de la Couronne. Ils sollicitent ce jugement déclaratoire pour faciliter leurs négociations extrajudiciaires avec la Couronne en vue de réaliser l’objectif constitutionnel global de réconciliation inscrit dans l’art. 35 de la Loi constitutionnelle de 1982.
+[21] Dans Manitoba Métis, la décision minoritaire des juges Rothstein et Moldaver, sous la plume du juge Rothstein, portait plus directement sur les délais dans le cas de demandes de nature constitutionnelle. Leurs paragraphes 224 à 227, sous la rubrique « La prescription d’une demande de nature constitutionnelle », énoncent :
+(3) La prescription d’une demande de nature constitutionnelle
+[224] Mes collègues soutiennent que la prescription légale ne vaut pas lorsqu’il s’agit de se prononcer sur la constitutionnalité des actes de l’État. Ils ajoutent que des dispositions sur la prescription ne peuvent faire obstacle à une action intentée au motif que la Couronne n’a pas agi honorablement dans la mise en œuvre d’une obligation constitutionnelle. Il s’agit pour moi de propos inédits, car la Cour n’a jamais reconnu l’existence d’une exception générale à l’application de la prescription dans le cas d’une demande prenant appui sur la Constitution. Elle conclut en fait invariablement que la prescription vaut pour les allégations de nature factuelle comportant des éléments constitutionnels.
+[225] Invoquant les arrêts Kingstreet Investments Ltd. c. Nouveau‑Brunswick (Finances), 2007 CSC 1, [2007] 1 R.C.S. 3; Ravndahl c. Saskatchewan, 2009 CSC 7, [2009] 1 R.C.S. 181; et Thorson c. Procureur général du Canada, [1975] 1 R.C.S. 138, les juges majoritaires signalent que la prescription ne saurait empêcher un tribunal de déclarer une loi inconstitutionnelle. J’en conviens, mais la constitutionnalité de dispositions législatives n’est pas contestée en l’espèce. La présente affaire a plutôt pour objet des questions d’ordre factuel et des manquements allégués à des obligations qui, même dans les affaires Ravndahl et Kingstreet, ont toujours été soumis à la prescription.
+[226] Ces deux arrêts établissent clairement que l’application des délais de prescription souffre une exception lorsque la demande vise à faire déclarer une loi inconstitutionnelle. En l’espèce, mes collègues concluent au caractère théorique des prétentions d’inconstitutionnalité formulées par les Métis, et le jugement déclaratoire demandé n’a par ailleurs rien à voir avec la constitutionnalité d’une loi.
+[227] En fait, l’objet du recours des Métis s’apparente à la réparation personnelle demandée dans Kingstreet et Ravndahl. Les Métis exhortent notre Cour à trancher un litige factuel se rapportant à la manière dont on leur a attribué des terres il y a plus de 130 ans. Bien qu’ils ne sollicitent pas de réparation pécuniaire, ils demandent l’examen de leur situation et des circonstances de la concession des terres. Comme le dit notre Cour dans Ravndahl :
+Il s’agit de demandes introduites par un individu, en tant qu’individu, en vue d’obtenir une réparation personnelle. Comme il en sera question plus loin, il y a lieu d’établir une distinction entre les demandes de réparations personnelles de ce type et celles sollicitant la déclaration d’inconstitutionnalité d’une loi qui peuvent profiter aux personnes touchées en général. [par. 16]
+Dans le présent dossier, les demandes ont été présentées par des Métis à titre individuel et par l’organisation qui les représente. Elles n’ont pas pour assise l’inconstitutionnalité d’une loi, mais prennent plutôt appui sur des situations factuelles individuelles. La règle établie dans Kingstreet et Ravndahl, à savoir que les demandes fondées sur de telles situations sont assujetties aux délais de prescription, s’applique donc et emporte l’irrecevabilité de l’action.
+[Non souligné dans l’original]
+[22] Ces extraits des décisions majoritaires et minoritaires de la CSC dans Manitoba Métis indiquent clairement que les dispositions en matière de prescription s’appliquent aux demandes de réparations personnelles, sans égard à leur nature constitutionnelle. Les dispositions en matière de prescriptions ne s’appliquent pas lorsqu’un jugement relatif au caractère constitutionnel est demandé, mais elles s’appliquent si la question relative au caractère constitutionnel d’une loi est soulevée dans le cadre d’une réclamation personnelle. (La Cour fédérale est parvenue à une conclusion conforme à ce point de vue dans Première nation Samson (précitée), confirmée par la CAF dans Ermineskin Indian Band (précitée).)
+[23] Tel est le cas en l’espèce – Le présent appel constitue une réclamation privée par une personne qui demande une réparation pécuniaire concernant sa situation fiscale personnelle.
+[24] Par conséquent, on doit répondre par l’affirmative à la première question en litige : les dispositions préalables de la Loi pour déposer un avis d’appel continuent de s’appliquer, même si l’argument prévu de l’appelant est fondé sur des motifs constitutionnels.
+B. Question en litige (ii) – puisque la réponse à la question en litige (i) est affirmative, les dispositions préalables de la Loi pour déposer un avis d’appel continuent de s’appliquer, il faut maintenant décider si le requérant répond aux exigences de l’article 305, afin d’autoriser l’octroi d’une ordonnance prorogeant le délai pour déposer un avis d’appel à la Cour. [25] La première exigence de l’article 305 est prévue au paragraphe 305(2) – indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai par ailleurs imparti. L’article 306 dispose :
+306. La personne qui a produit un avis d’opposition à une cotisation aux termes de la présente sous‑section peut interjeter appel à la Cour canadienne de l’impôt pour faire annuler la cotisation ou en faire établir une nouvelle lorsque, selon le cas :
+a) la cotisation est confirmée par le ministre ou une nouvelle cotisation est établie;
+b) un délai de 180 jours suivant la production de l’avis est expiré sans que le ministre n’ait notifié la personne du fait qu’il a annulé ou confirmé la cotisation ou procédé à une nouvelle cotisation.
+Toutefois, nul appel ne peut être interjeté après l’expiration d’un délai de 90 jours suivant l’envoi à la personne, aux termes de l’article 301, d’un avis portant que le ministre a confirmé la cotisation ou procédé à une nouvelle cotisation.
+[26] Les délais impartis par l’article 306 pour déposer un avis d’appel sont : (1) au plus tard 90 jours suivant, en réponse à un avis d’opposition, la date de confirmation du ministre de la cotisation contestée ou de l’établissement d’une nouvelle cotisation par le ministre; et (2) au moins 180 jours suivant le dépôt d’un avis d’opposition et, entre‑temps, le ministre n’a pas avisé l’auteur de l’opposition qu’il a annulé ou confirmé la cotisation visée ou a procédé à une nouvelle cotisation.
+[27] En l’espèce, aucun de ces délais n’avait commencé à courir pour la simple raison qu’aucun avis d’opposition n’avait été déposé. Il convient de noter que le paragraphe 301(1.1) exige qu’un avis d’opposition indique une opposition à une cotisation (ce terme comprend une nouvelle cotisation). Le paragraphe 301.1(1) dispose :
+La personne qui fait opposition à la cotisation établie à son égard [qui] peut, dans les 90 jours suivant le jour où l’avis de cotisation lui est envoyé, présenter au ministre un avis d’opposition, en la forme et selon les modalités déterminées par celui-ci, exposant les motifs de son opposition et tous les faits pertinents. [Non souligné dans l’original]
+[28] En l’espèce, la cotisation visée par la contestation est la cotisation établie le 28 mars 2011. Le délai de 90 jours plus un an applicable à cette cotisation a expiré le 27 juin 2012 (le jour supplémentaire puisque le délai initial de 90 jours a pris fin un dimanche). Le délai s’écoule sans dépôt proposé ou tenté d’un avis d’opposition ou d’une demande de prorogation du délai pour déposer un avis d’opposition.
+[29] La raison donnée par le requérant pour ne pas avoir déposé un avis d’appel dans le délai imparti est qu’il n’a jamais reçu l’avis de (nouvelle) cotisation qui avait été apparemment établie le 28 mars 2011, date figurant à l’avis de (nouvelle) cotisation. Il soutient en outre qu’il n’en a pris connaissance subséquemment qu’au milieu de l’été 2015.
+[30] Si le requérant avait reçu l’avis de (nouvelle) cotisation indiquant la date du 28 mars 2011 peu de temps après cette date, comme il aurait été normal quant à la date à laquelle l’avis aurait été envoyé ou uniquement pendant l’été 2015, il en était au courant au moins à la fin de cette dernière période. Après cette date, ledit avis était indiqué dans sa liste de documents déposés dans le cadre de l’action devant la Cour fédérale. Le requérant n’a même pas, à ce moment‑là, cherché à déposer un avis d’opposition concernant cette cotisation, établie le 28 mars 2011.
+[31] À la fin septembre 2015, le requérant a envoyé au ministre par la poste un prétendu avis d’opposition, mais il visait un état des arriérés de la TPS que le ministre lui avait envoyé en juillet 2015. Le ministre a répondu rapidement au moyen d’une lettre au début d’octobre 2015 en vue d’informer le requérant qu’il ne s’agissait pas d’un avis d’opposition valable puisqu’il n’indiquait aucune opposition expresse à une cotisation. Notamment, le requérant n’a pas répondu à cette lettre, ni à cette date, ni à une date ultérieure, par exemple, en envoyant une lettre au ministre en vue de l’informer qu’il souhaitait ou avait l’intention de déposer un avis d’opposition valable ayant trait à la cotisation du 28 mars 2011 et en expliquant qu’il n’avait reçu qu’en juillet ou août 2015 l’avis de (nouvelle) cotisation visant la cotisation établie le 28 mars 2011.
+[32] Au contraire, le requérant a ensuite choisi d’intenter l’action malheureuse en dommages‑intérêts ci‑dessus devant la Cour fédérale. Cela a donné lieu à la décision de la Cour d’appel fédérale un an plus tard selon laquelle le requérant cherchait effectivement à interjeter appel de la cotisation du 28 mars 2011 et, pour ce faire, il devait s’adresser à notre Cour, la Cour ayant compétence sur les cotisations.
+[33] La prochaine exigence prévue à l’article 305 est énoncée à l’alinéa 305(5)a) – il n’est fait droit à la demande que si « [...] la demande a été présentée dans l’année suivant l’expiration du délai d’appel par ailleurs imparti ».
+[34] L’expression « délai d’appel par ailleurs imparti » fait que les articles 302 et 306 de la Loi sont pertinents. L’article 306 est reproduit et discuté ci‑dessus. L’article 302 dispose :
+302 La personne, ayant présenté un avis d’opposition à une cotisation, à qui le ministre a envoyé un avis de nouvelle cotisation ou de cotisation supplémentaire concernant l’objet de l’avis d’opposition peut, dans les 90 jours suivant cet envoi :
+a) interjeter appel devant la Cour canadienne de l’impôt;
+b) si un appel a déjà été interjeté, modifier cet appel en y joignant un appel concernant la nouvelle cotisation ou la cotisation supplémentaire, en la forme et selon les modalités fixées par cette cour.
+[35] Comme on peut le constater, l’article 302 prévoit l’appel d’une nouvelle cotisation ou d’une cotisation supplémentaire directement devant la Cour canadienne de l’impôt dans les 90 jours suivant l’avis de nouvelle cotisation ou de cotisation supplémentaire envoyé par le ministre en réponse à un avis d’opposition à une cotisation. De plus, tel que cela est indiqué ci‑dessus, les alinéas 306a) et b) prévoient ensemble qu’une personne qui a déjà produit un avis d’opposition à une cotisation peut interjeter appel devant la Cour dans les 90 jours suivant la confirmation ou la nouvelle cotisation établie par le ministre de la cotisation contestée ou dans un délai de 180 jours suivant la production de l’avis d’opposition à une cotisation et, entre‑temps, le ministre n’a ni annulé ni confirmé la (nouvelle) cotisation
+[36] Dans chacune de ces situations, selon la condition préalable prévue par la loi qui doit être remplie pour déposer un avis d’appel devant la Cour de l’impôt, un avis d’opposition doit avoir été déposé dans le délai imparti.
+[37] Je n’ai pas à examiner davantage les exigences de l’article 305 pour octroyer une ordonnance de prorogation du délai pour déposer un avis d’appel. Ni la première exigence obligatoire ni la deuxième exigence obligatoire dont j’ai maintenant discuté ne peuvent être respectées. Le problème fondamental est qu’aucun avis d’opposition valable ayant trait à la cotisation du 28 mars 2011 n’a été déposé. Aucun appel ne peut être interjeté devant la Cour sans qu’un avis d’opposition ne soit déposé auprès du ministre à un stade antérieur.
+[38] Le requérant soutient qu’il n’a pas reçu l’avis de (nouvelle) cotisation du 28 mars 2011 lorsqu’il lui aurait habituellement été envoyé le 28 mars 2011 et n’avait donc aucune raison d’estimer qu’il devrait déposer un avis d’opposition.
+[39] En supposant qu’il en est ainsi, il avait connaissance de l’avis de (nouvelle) cotisation au moins au milieu de l’été 2015, tel qu’il est indiqué ci‑dessus. Il aurait ensuite reçu la lettre du ministre du 7 octobre 2015 peu après visant à l’informer qu’afin de constituer un avis d’opposition valable, l’avis doit indiquer l’opposition relative à une cotisation ou à une nouvelle cotisation.
+[40] Toutefois, même à la fin de l’été 2015 et pendant le reste de l’année et jusqu’en 2016, rien ne prouve ni n’indique une communication ou un effort de la part du requérant pour déposer ou demander à déposer un avis d’opposition à la cotisation du 28 mars 2011 ou une demande de prorogation du délai pour ce faire.
+[41] Le législateur a un véritable objet d’exiger le dépôt d’un avis d’opposition valable. Cet objet vise à donner au ministre l’occasion d’examiner de nouveau la cotisation ou la nouvelle cotisation particulière en tenant compte de l’opposition du contribuable et de redresser ou même de retirer la cotisation ou la nouvelle cotisation comme il le juge indiqué sans qu’il ne soit donné suite à la question à la Cour de l’impôt au moyen du dépôt d’un avis d’appel devant la Cour.
+[42] Par conséquent, en l’absence du dépôt d’un avis d’opposition valable ou même du dépôt d’une demande de prorogation du délai pour déposer un avis d’opposition, la présente demande de prorogation du délai pour déposer un avis d’appel en vertu de l’article 305 doit être rejetée. Le préambule du paragraphe 305(5), selon lequel « Il n’est fait droit à la demande que si […] » ne confère aucun pouvoir discrétionnaire de conclure autrement.
+[43] Par conséquent, la présente demande est rejetée, sans dépens.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2017.
+« B. Russell »
+Juge Russell
+RÉFÉRENCE :
+2017CCI198
+NO DU DOSSIER DE LA COUR :
+2016‑4561(GST)APP
+INTITULÉ :
+RICK HORSEMAN ET LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 29 mars 2017
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge B. Russell
+DATE DE L’ORDONNANCE :
+Le 29 septembre 2017
+COMPARUTIONS :
+Avocat du requérant :
+Me Priscilla Kennedy
+Avocat de l’intimée :
+Me E. Ian Wiebe
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Me Priscilla Kennedy
+Cabinet :
+DLA Piper (Canada) S.E.N.C.R.L.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

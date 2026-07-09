@@ -1,0 +1,151 @@
+Title: Pelletier v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521021/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-156-521021-pelletier-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-12-06
+
+# Pelletier v. The King
+
+- Citation: 2022 TCC 156
+- Decision date: 2022-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5816, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-12-06
+Neutral citation
+2022 TCC 156
+File numbers
+2017-4279(IT)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4279(IT)G
+BETWEEN:
+SYLVIE PELLETIER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 21, 2022 at Granby, Quebec
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Karman Kong
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act, notice of which is dated October 16, 2014 and bears number 2822944, is dismissed with costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 6th day of December 2022.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Translation certified true
+on this 1st day of August 2024.
+Vera Roy
+Citation: 2022 TCC 156
+Date: 20221206
+Docket: 2017-4279(IT)G
+BETWEEN:
+SYLVIE PELLETIER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Introduction [1] The appellant, Sylvie Pelletier, is appealing an assessment made by the Minister of National Revenue (Minister) under section 227.1 of the Income Tax Act.[1] The Minister held the appellant liable for amounts owed by the corporation 9140-8260 Québec Inc. (9140) in relation to source deductions it had been required to remit for taxation years 2009 to 2013.
+[2] The 9140 corporation, also known under the name Sy-Bel Habitations, was incorporated on April 2, 2004, under the Quebec incorporation regime.[2] At the time of incorporation, the appellant held 80% of 9140’s shares, and the other 20% belonged to her brother‑in‑law, Ghyslain Pelletier.[3] The 9140 corporation operated a residential and commercial construction business. Drawing on 50 years of experience as a carpenter, Benoît Pelletier, the appellant’s spouse, did the construction work with the help of employees hired for this purpose. Ghyslain Pelletier needed to be part of 9140 for it to obtain a licence with the Régie du bâtiment du Québec, as Benoît Pelletier had gone bankrupt in the past.[4]
+II. Issue
+[3] The main issue in this appeal is whether the appellant can be held personally liable for an amount of $91,650.09 for income tax and employment insurance source deductions that 9140 failed to remit and the interest and penalties relating to them for taxation years 2009 to 2013. More specifically, it must be determined whether the appellant was a director of 9140 during the relevant years.
+III. Applicable law
+[4] Section 227.1 of the Act authorizes the Minister to recover a company’s unremitted source deductions by issuing an assessment against a director of the corporation under certain circumstances. Subsection 227.1(1) expressly states that the directors are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount owed for remittances that the corporation is required to make, including any interest or penalties relating to it. Subsection 227.1(3) provides for a due diligence defence, and it falls to the directors to show that the conditions required to take advantage of this defence are met.
+[5] The relevant parts of section 227.1 read as follows:
+227.1 (1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+. . .
+(3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+IV. Positions of the parties
+Position of the appellant
+[6] The appellant is not challenging the underlying assessment; that is, she does not dispute that 9140 failed to remit source deductions during the years at issue, as required by the Act.[5] As required by subsection 227.1(2), a certificate for the amount of the 9140 corporation’s liability was registered in the Federal Court under section 223 of the Act.[6] According to the testimony of Kathy Mercier, Complex Cases Officer, following the sale of personal property by an officer of the court, the Canada Revenue Agency obtained $1,776.01, namely, part of the proceeds of the sale of the Ford F‑150 truck, with the balance being paid to the Quebec Ministère du Revenu.[7] Ms. Mercier confirmed that the amount recovered from the sale of the truck was deducted from the amounts owed by 9140.[8]
+[7] It is difficult to determine the appellant’s position. Her notice of appeal contains none of the elements that should be included under section 21 of the Tax Court of Canada Rules (General Procedure). In her submissions at the hearing, the appellant stated both that she was liable for the amounts owed but found the interest related to them excessive and that she was liable but only for the period from 2004 to 2011.
+[8] I hasten to add that the appellant entered into evidence only two documents, one dated March 1, 2011 describing her tasks and stating her salary, and the other containing contradictory notes regarding the date and describing a transfer of shares from the appellant to her spouse for a nominal amount of $1.[9] Unfortunately, the appellant has not entered any documents that could have clarified several points on which the evidence was nothing short of contradictory. For example, aside from the two aforementioned exhibits, the appellant has not filed any minutes or shareholders’ and directors’ resolutions, any forms indicating changes to the board of directors and specifying the dates of these changes, or the share register indicating the names of the shareholders and details of the shares held.
+[9] According to her testimony and submissions, the appellant maintains that she cannot be held liable for the amounts owed by 9140, at least after February 2011, when she claims she ceased to be the director of 9140. She has stated that she took care of [translation] “calculations” and cheques but that she was [translation] “not responsible for making payments”. I also note that, notwithstanding the fact that subsection 227.1(3) of the Act provides for a due diligence defence, the appellant has confined her submissions to the issue of her capacity as a director.
+Position of the respondent
+[10] The respondent maintains that the appellant was a de jure director of 9140 throughout the years at issue because she never submitted a resignation letter to the corporation and that she is therefore liable for the source deductions the corporation failed to remit. Alternatively, if the Court finds that the appellant was not a de jure director after 2011, the respondent maintains that she was a de facto director given her role in the corporation and in particular the fact that she continued to sign cheques, including NSF cheques to the Receiver General, throughout the period at issue. According to the respondent, the appellant has not shown that she exercised due diligence to prevent the corporation’s breaches.
+V. Analysis
+[11] The main issue in this case is whether the appellant was a de jure director of 9140. I find that she was.
+[12] According to her testimony, the appellant was the director of 9140 from the time of its incorporation in 2004.[10] Furthermore, she testified that she never submitted a resignation letter as the director.[11]
+[13] Section 142 of the Quebec Business Corporations Act sets out the circumstances under which a director ceases to hold office, and section 143 specifies that the term continues until the director is re-elected or replaced, unless he or she resigns. Sections 142 and 143 read as follows:[12]
+142. A director ceases to hold office when he or she becomes disqualified from being a director of a corporation, resigns or is removed from office.
+The resignation of a director becomes effective at the time the director’s written resignation is received by the corporation, or at the time specified in the resignation, whichever is later.
+143. Despite the expiry of a director’s term, the director, unless he or she resigns, remains in office until re-elected or replaced.
+[14] As mentioned above, in her submissions, the appellant initially acknowledged her liability for the assessments but stated that she thought the interest imposed was excessive. At another point, the appellant stated that she was liable for the amounts owed but only for the period from 2004 to 2011, because she claims she ceased to be the director of 9140 in February 2011. The appellant also said the following: [translation] “[b]ased on the documents I presented and the witness, I have shown that I am not liable for this debt. Just because the president is no longer solvent does not mean that one should turn to the director.”[13]
+[15] I would like to point out that the evidence presented at the hearing, both documentary and oral, was confusing in several respects and contradictory as to the identity of members of the board of directors, changes that may have been made to the list of directors, and the dates of these alleged changes. Thus, the documents entered into evidence, in particular the statement of information of a legal person in the Québec Enterprise Register bearing various dates, indicate changes to the list of directors in 2011, while other documents (for example, signature cards for bank accounts) do not reflect these changes. In addition, the testimonies of the appellant and her spouse and the documentary evidence were contradictory regarding, for example, when the shares held by the appellant were transferred to her spouse and the reason for this transfer. Also, the evidence is contradictory regarding the transfer for the nominal amount of $1 when cheques made out to the appellant and signed by her seem to indicate that amounts were paid as reimbursement for the shares.[14] I accept that there may be lapses of memory, given the time that has passed since the events in question. Nevertheless, this Court is left with doubts about the credibility of the appellant’s testimony.
+[16] Based on the aforementioned sections 142 and 143 of the Business Corporations Act, in the absence of written communication received by 9140 indicating that the appellant resigned from her role as director, her resignation is not effective. In Canada v. Chriss,[15] the Federal Court of Appeal states the following:
+In the absence of the communication of a written resignation to the corporation, a resignation is not effective. . . . The reasons underlying the requirement of a written resignation which is communicated to the company are self-evident. Third parties rely on representations as to who is responsible for the governance of a corporation. Business decisions may be made on the basis of directorship of a corporation.[16]
+[17] Given that the appellant very clearly stated that she never gave 9140 a resignation letter, she remained in office. The intent to resign in February 2011, if there was any such intent, does not satisfy the preconditions necessary to render the appellant’s resignation effective.
+[18] I find that the appellant was a de jure director of 9140 during the years at issue. The appellant has not demonstrated that the Minister’s assumption that she served as director of 9140 throughout the period at issue was false. Under the circumstances, that is enough to establish the appellant’s liability for the amounts that 9140 failed to remit.
+[19] As previously mentioned, the appellant does not rely on the defence provided for in subsection 227.1(3). Nevertheless, counsel for the respondent presented submissions on the applicability of the due diligence defence in the circumstances of this case. Out of a concern for fairness to the appellant, who represented herself at the hearing, it seems appropriate to review the respondent’s submissions in this respect. To summarize, counsel for the respondent maintained that the appellant did not present evidence of due diligence and that, on the contrary, her behaviour as a director shows a lack of diligence. For example, the appellant signed several cheques that turned out to be NSF and a good number of cheques made out to her and to her spouse,[17] while the corporation had been incurring losses since 2010.[18]
+[20] I understand that the appellant experienced a tragic event in December 2011. However, I note that the appellant’s behaviour with respect to decisions made for this family business, in particular in terms of her role as the sole signatory of cheques and the many cheques, including those that were NSF, that she signed, did not change throughout the period at issue. The only other person who played a role in the 9140 corporation, her spouse Benoît Pelletier, handled construction activities; he did not sign the cheques, and when Canada Revenue Agency officers asked questions, he always referred them to the appellant. The appellant was aware of 9140’s financial difficulties but has provided no evidence of concrete measures taken to ensure compliance with its obligations under the Act.
+[21] In Canada v. Buckingham,[19] the Federal Court of Appeal gave clear instructions regarding the interpretation of subsection 227.1(3) of the Act, and it specified that the applicable standard for assessing the due diligence defence is an objective standard. The Federal Court of Appeal states that the objective set out in subsection 227.1(3) requires “that the director’s duty of care, diligence and skill be exercised to prevent failures to remit.”[20]
+[22] According to the Federal Court of Appeal, to rely on these defences, the appellant had to establish that she turned her attention to the required remittances and that she exercised her duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts. I find that she did not do this. She did not even try to do so. As noted by the judges in other decisions relating to the diligence defence provided for in subsection 227.1(3) of the Act, it is necessary to ask what a reasonably prudent person placed in the same circumstances could have done to prevent the failure to remit the source deductions. The appellant simply did nothing. Clearly, doing nothing is simply not enough. Consequently, I find that the appellant does not satisfy the conditions that would have allowed her to rely on the due diligence defence. For the record, I want to reiterate that the appellant did not raise the defence provided for in subsection 227.1(3) of the Act, nor did she make any representations in this respect.
+[23] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 6th day of December 2022.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Translation certified true
+on this 1st day of August 2024.
+Vera Roy
+CITATION:
+2022 TCC 156
+COURT FILE NO.:
+2017-4279(IT)G
+STYLE OF CAUSE:
+SYLVIE PELLETIER AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Granby, Quebec
+DATE OF HEARING:
+September 21, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St-Hilaire
+DATE OF JUDGMENT:
+December 6, 2022
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Karman Kong
+COUNSEL OF RECORD:
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada
+[1] Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (Act).
+[2] 9140 was incorporated under the Companies Act, R.S.Q., c. C-38. In 2011, Part IA of this act was replaced by the Business Corporations Act, CQLR c. S-31.1, which from that moment on applied to 9140.
+[3] Ghyslain Pelletier’s shares were transferred to Benoît Pelletier, who then became owner of 20% of the shares, probably in 2009.
+[4] See hearing transcript at 68–69 (Transcript).
+[5] During a case management conference held on September 6, 2022, the appellant confirmed that she was not challenging the underlying assessment.
+[6] Exhibit I‑1, Tab 19.
+[7] Transcript at 118–119. Exhibit I‑1, Tab 16.
+[8] Transcript at 136–137.
+[9] Exhibits A‑1 and A‑2.
+[10] Transcript at 172.
+[11] Transcript at 54, 173.
+[12] Business Corporations Act, CQLR c. S-31.1, ss. 142–143.
+[13] Transcript at 197.
+[14] Transcript at 19 and Exhibit I‑1, Tab 10.
+[15] Canada v. Chriss, 2016 FCA 236, leave to appeal refused, 37299 (30 March 2017) [Chriss].
+[16] Ibid. at paras. 9 and 11.
+[17] See, for example, the transcript at 39–49; see also the bank statements and the cheques signed by the appellant, Exhibit I‑1, Tabs 7, 8, 9 and 10.
+[18] Transcript at 46.
+[19] Canada v. Buckingham, 2011 FCA 142 at para. 37 [Buckingham]. See also Chriss, supra note 15 at para. 20.
+[20] Buckingham, ibid. at para. 40.

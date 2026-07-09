@@ -1,0 +1,137 @@
+Title: Charest v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27513/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-592-27513-charest-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-09-23
+
+# Charest v. M.N.R.
+
+- Citation: 2005 TCC 592
+- Decision date: 2005-09-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 0, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Charest v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-23
+Neutral citation
+2005 TCC 592
+File numbers
+2003-3645(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-3645(EI)
+BETWEEN:
+BERNARD CHAREST,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LANDY MCNICOLL,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 5, 2005, at Rivière-du-Loup, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Annick Bédard
+Counsel for the Respondent:
+For the Intervener:
+Jean Lavigne
+The Intervener herself
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision handed down by the Minister of National Revenue is set aside, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of September 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 9th day of January 2006.
+Maria Fernandes, Translator
+Citation: 2005TCC592
+Date: 20050923
+Docket: 2003-3645(EI)
+BETWEEN:
+BERNARD CHAREST,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LANDY MCNICOLL,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from a decision of the Minister of National Revenue (the "Minister") that the Appellant did not hold insurable employment from April 1st to October 31, 2002, while working for the Intervener because they were not dealing with each other at arm's length within the meaning of paragraph 5(2)(i) and subsection 5(3) of the Employment Insurance Act (the "Act").
+[2] It is admitted that, during the period at issue, the Appellant and the Intervener were related persons, common-law partners, and were married on December 28, 2002. It is also admitted that a contract of service existed between them. Therefore, the question at issue is to determine if, during the period at issue, they were not dealing with one another at arm's length in the framework of that employment, thus rendering it uninsurable within the meaning of the Act.
+[3] The Intervener is the sole owner of a business that she registered on February 21, 2002, under the legal name La Halte d'Art. This business specializes in handicrafts, ceramics and furniture restoration and, during the period in question, was in its first year of operation.
+[4] The Minister was convinced that it was reasonable to conclude that the Appellant and the Intervener would not have entered into a substantially similar contract of employment if they were dealing with each other at arm's length, having regard to the following circumstances, which were admitted or denied by the Appellant and the Intervener as indicated. I reproduce these circumstances as they appear in paragraph 6 of the Reply to the Notice of Appeal.
+[TRANSLATION]
+(a) the Payor's business specializes in handicrafts, ceramics and furniture restoration; [admitted]
+(b) the business was in its first year of operation; [admitted]
+(c) the business is located in St-Honoré-de-Témiscouata near a bicycle path; [admitted]
+(d) the Appellant is a cabinetmaker; [denied]
+(e) the Payor hired the Appellant to restore furniture and maintain the primitive campground located near the bicycle path; [admitted]
+(f) the Payor claims that she hired the Appellant in early April, before the tourist season began, to build a shed to be used as a point of sale, while the shed was purchased already built; [denied]
+(g) the Payor made ceramic pottery, painted furniture and ceramics, looked after the sale of items and the business' accounting; [admitted]
+(h) the Payor's company was open seven days a week with no fixed opening hours; [admitted]
+(i) the Appellant had no work schedule to follow and the Payor did not record his work hours; [denied]
+(j) during the period at issue, the Appellant claims that he worked 40 hours a week, while the Payor claims that he was only paid for 35 hours a week and that he could work up to 60 hours a week; [denied]
+(k) the Appellant claims that he received $320 a week, i.e. 40 hours at $8 an hour, while the Payor claims that he received $280 a week, i.e. 35 hours at $8 an hour; [denied]
+(l) on November 1, 2002, the Payor issued a record of employment to the Appellant indicating April 1, 2002, as the first day paid and October 31, 2002, as the last day paid; [admitted]
+(m) the record indicated 1,085 insurable hours and total insurable earnings of $7,963.20 for the last 27 weeks, including vacation pay of $403.20; [admitted]
+(n) the Appellant received his earnings in cash [admitted] and there is no proof of earnings paid to him; [denied as written]
+(o) during the period at issue, income from the sale of the Payor's commercial products totalled $3,673.34; [admitted]
+(p) during the same period, the Payor received $6,498 in CSST subsidies related to the hire of the Appellant; [admitted]
+(q) an analysis of the Payor's various sales accounts provides no evidence that any renovation work of old furniture took place during the period at issue. [denied]
+[5] At the time, the Intervener moved to St­-Honoré, Quebec, onto a very large property with a house in which she made her home, and an old garage that she converted into a workshop for her business. Her property was located close to a bicycle path. She took advantage of this fact to install a drinking water outlet and set up what she called a primitive campground, i.e. she installed a few picnic tables on her land and made it available so those who used the path could spend the night outdoors.
+[6] Her business plan projected hiring one employee. Not knowing anyone in that region, she planned to hire her spouse to help her with the business. As the latter was receiving benefits from the Commission de la santé et de la sécurité du travail (CSST), about the possibility of hiring her spouse the Commission she asked and about how it would affect him. She was told that there was no problem and that in fact, it was possible the Commission would provide financial assistance because she would be hiring a beneficiary. Consequently, she was granted a subsidy of $6,498, which she received on April 19, 2002. She had to provide for her spouse for at least six months and a restriction was imposed with respect to the weight he was permitted to lift.
+[7] The Intervener's plan projected the installation of a boutique on her property. Hence, she bought a shed measuring approximately 16 feet by 20 feet on February 18, 2002. It was delivered to her in April after the snow melted. The interior was unfinished.
+[8] Consequently, the Appellant was hired on April 1, 2002. The Intervener wanted to pay him a daily rate; however, representatives at the employment insurance office told her that the pay would have to be based on an hourly rate. The salary was based on the Intervener's means because it was the start of her business. The Intervener found the minimum wage insulting. Therefore, she established the Appellant's wage at a gross amount of $280 a week for a 35-hour week working seven days a week. Sometimes he would work more than 35 hours a week; others, he would work less if the weather was inclement. On average, the Intervener was convinced that the Appellant performed as expected, even if she acknowledges that she did not record his hours. She would have done the same thing with a stranger, she said. She trusted him and believed he worked the required number of hours every week.
+[9] At the start of his employment, the Appellant was required to install the shed and finish the interior. He dug a hole for the electrical and telephone hook-ups. He installed the electrical wiring and completed the interior finishing of the shed-turned-boutique. The ceiling, floor and walls were built and shelves and other fixtures installed. He also helped to prepare and manufacture items for the boutique; the Intervener had to add the final touches. All of this work was performed in time for the official opening of the boutique on June 22, 2002.
+[10] As part of building the shed, etc. the Appellant cut down trees and made signs. He then worked on installing the water point near the bicycle path and building the required camping facilities. He then ensured its up-keep and continued working on preparing and manufacturing items for sale and on restoring antique furniture and preparing estimates for this service. He did so until late October 2002.
+[11] The Intervener did all of the bookkeeping with the aid of computer software. The documentation filed into evidence shows that the Intervener withdrew the Appellant's net pay from the boutique bank account for every workweek during the period in question. She would submit his pay to him in cash every Friday at noon.
+[12] According to the Appellant, he is a cook, not a cabinetmaker by trade. He performs the work because he has a natural gift for cabinetmaking. Prior to being hired by the Intervener, the Appellant had not worked since 1997, the year he underwent surgery on his left shoulder.
+[13] The tasks he performed correspond to the descriptions provided by the Intervener. He had to follow the schedules established by the Intervener for the return of the restored furniture and on occasion, the Intervener would reprimand him. He reiterated that he often could not work more than 35 to 40 hours a week because he is diabetic. The average was between 35 to 40 hours and sometimes he would work fewer hours in a given week because of inclement weather, and then more the following week to make up for lost hours. His work schedule was also based on deadlines. It must be acknowledged that during the period at issue, income from cabinetmaking sales were only $830. In fact, the product of all sales was $3,673.34 for 2002.
+[14] As regards cases where the Minister must determine whether employment is excluded from insurable employment because of a non-arm's length relationship, his role and that of the Court were defined by the Federal Court of Appeal in Légaré v. Canada, [1999] F.C.J. No. 878 (QL). Marceau J. summarized the approach in the following terms at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[15] The Federal Court of Appeal also reiterated its position in Pérusse v. Canada, [2000] F.C.J. No. 310 (QL). Marceau J., making reference to the above-cited passage from Légaré, added the following at paragraph 15:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[16] Provisions from the Act that exclude from insurable employment those jobs where the employer and the employee are not dealing with each other at arm's length, and provisions describing a situation where there is no longer that non-arm's length relationship, are written as follows:
+5. . . . Excluded employment
+(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+Arm's length dealing
+(3) For the purposes of paragraph (2)(i):
+. . .
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[17] It must be determined whether or not, having regard to all the circumstances of the employment as described in paragraph 5(3)(b), the Minister's determination is reasonable in that the Appellant and the Intervener would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[18] The circumstances held by the Minister are those described in the Reply to the Notice of Appeal. No representative of the Minister testified. In his view, the Appellant denied some presumptions on which the Minister relied in his analysis and gave very credible explanations. In fact, the Appellant and the Intervener testified with much conviction and were very frank with respect to the conditions of employment established by them.
+[19] The Appellant is not a cabinetmaker, contrary to the Minister's belief. He testified that he had a gift for working with wood but that it was a talent rather than a trade. This, in my opinion, would justify the Appellant's hourly rate of $8, which appears to me to be closer to that of a labourer than that of a tradesperson, even if the Minister, in my opinion, did not seem to make any case of the Appellant's hourly rate as a factor that was considered.
+[20] In his Reply to the Notice of Appeal, the Minister alleged in sub-paragraph (f) that the Intervener had hired the Appellant in early April, before the tourist season began, to build a shed to be used as a point of sale, while the shed had been purchased already built. Evidence shows that the shed was purchased in February and delivered to the Intervener's in April. One thing is certain: this was only a shell that was finished on the exterior; it had to be completely finished inside, including the electrical hook-up. In her statement (Exhibit I-3), the Intervener indicated she hired the Appellant on April 1, 2002, to prepare items for sale, prepare the sale boutique (the shed) and have electricity installed in it. There was never a question that the Appellant was hired to build a shed which, as alleged by the Minister, was already built. I believe the Minister misconstrued the facts, which may have led him to think that the Intervener was making up the work performed by the Appellant and that, in reality, there was no work. The Intervener's testimony sets the record straight and corrects the Minister's misconception.
+[21] The Minister also based his decision on the allegation that the Appellant had no work schedule to follow and that his work hours were not recorded by the Intervener. The evidence showed that the Appellant had to work an average of 35 hours a week. The Intervener did not keep a record of his hours but was always on site and, since she only had one employee, it was possible for her to find out whether or not the Appellant's performance was consistent with their agreement. She testified that she would have done the same thing with a third party. She knew that the Appellant was working. Work hours could vary from one week to another due to weather and due to the fact that in the beginning, they worked longer hours to make sure they were ready for the official opening on June 22. The Intervener also had to ensure that the Appellant worked his work hours because this was a job created for a CSST beneficiary, which was why the Intervener was eligible for a subsidy.
+[22] The Minister's allegations that the Appellant claimed to have worked 40 hours a week while the Intervener said 35 hours were denied by the Intervener and the Appellant. The Intervener testified that the Appellant never worked 60 hours a week. The Appellant confirmed this fact by saying that his health did not permit him to work that many hours in a week. Instead, he worked 35 hours, representing the average between 30-hour and 40-hour weeks. I accept the Intervener's and the Appellant's explanations. Their testimony under oath cleared up the confusion, which appears to convey the truth with respect to the Appellant's number of work hours per week. The Appellant recalls a telephone conversation with a representative of the Respondent but does not recall specifying 40 hours a week. Rather, he had explained the average hours based on the time worked and deadlines to complete furniture restoration projects. He acknowledges that, being on-site, he was available seven days a week but that his hours were in line with the average 35 hours a week. No evidence was filed by either one of the parties to establish that the hourly rate of $8 was excessively low. It reflects the Intervener's ability to pay during her first year in business, but there has been no allegation that it had been established or varied based on the business' revenues.
+[23] Employment duration, insurable hours and pay are admitted. Even though business revenues were lower than the remuneration paid, one must bear in mind that the Intervener received a CSST subsidy to help her meet the salary expense. The Minister raised the fact that the Intervener paid the Appellant the salary in cash and that there is no proof that remuneration was in fact paid to him. In-house financial statements filed as evidence show bank withdrawals allocated to the Appellant's salary for every one of his workweeks. Furthermore, I find the frankness in testimony by the Intervener and the Appellant convincing, in that he was paid every Friday afternoon in cash, as he claims.
+[24] Lastly, the Minister's allegation that no restoration work of old furniture was performed during the period at issue is unfounded because the in-house financial statements show income of $830.04 drawn from the sale of cabinetmaking products, hence, income that is linked to the restoration of old furniture. One must be bear in mind that the business was in its first year of operation.
+[25] Having regard to all the circumstances, including the remuneration paid, the terms and conditions, as well as the duration, nature and importance of the work performed, it is not reasonable to conclude, as the Minister did, that the Appellant and the Intervener would not have entered into a substantially similar contract of employment if they were dealing with each other at arm's length. Based on the circumstances in this case and the credibility I accord to the testimonies, I conclude that the Appellant discharged himself of the burden to submit evidence allowing me to conclude that the Minister erred in his analysis of the facts.
+[26] In my opinion, the evidence reveals that the Appellant's conditions of employment were substantially similar to conditions that would have existed if he and the Intervener were in an arm's length relationship; consequently, they are deemed to have had an arm's length relationship within the meaning of the Act. The appeal is allowed and the Minister's decision is set aside.
+Signed at Ottawa, Canada, this 23rd day of September 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 9th day of January 2006.
+Maria Fernandes, Translator

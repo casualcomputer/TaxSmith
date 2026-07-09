@@ -1,0 +1,158 @@
+---
+title: "Bridgeway Auto Mart Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26064/index.do"
+last_modified: "2004-09-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 605"
+citation2: ""
+neutral_citation: "2004 CCI 605"
+decision_date: "2004-09-10"
+language: "fr"
+item_id: "26064"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4059
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:04:04.658000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "05736aacff2e872606f2b537c81bcbf5d18aaa881b4b24d4efe449342287d12b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bridgeway Auto Mart Ltd. c. La Reine
+
+- Citation: 2004 CCI 605
+- Decision date: 2004-09-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4059, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bridgeway Auto Mart Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-10
+Référence neutre
+2004 CCI 605
+Numéro de dossier
+2003-2388(GST)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-2388(GST)I
+ENTRE :
+BRIDGEWAY AUTO MART LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANCAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Winnipeg (Manitoba), le 20 juillet 2004.
+Devant : L’honorable L.M. Little
+Comparutions :
+Représentant de l’appelante :
+M. Ward Harris
+Avocate de l’intimée :
+Me Penny Piper
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 7 février 2002 et porte le numéro 00000000036, est rejeté, sans qu’aucuns dépens ne soient adjugés, selon les motifs de jugement ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour de septembre 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 1er jour d’avril 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI605
+Date : 20040910
+Dossier : 2003-2388(GST)I
+ENTRE :
+BRIDGEWAY AUTO MART LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Little
+A. LES FAITS
+[1] L’appelante fait le courtage de véhicules à moteur à Winnipeg.
+[2] L’appelante était inscrite en vertu de la Loi sur la taxe d’accise (la « Loi ») aux fins du paiement de la taxe sur les produits et services.
+[3] M. Wayne Dare est président et le principal actionnaire de l’appelante.
+[4] En sa qualité personnelle, Wayne Dare a conclu une entente avec Transcona Motors (« Transcona »).
+[5] Conformément à l’entente, M. Dare a convenu d’agir à titre d’agent indépendant en vue de faire le courtage de voitures pour Transcona.
+[6] Conformément à l’entente, M. Dare devait recevoir 65 p. 100 du revenu net gagné par Transcona. L’entente prévoyait également que M. Dare devait verser à Transcona un montant correspondant à 65 p. 100 des pertes nettes subies par Transcona.
+[7] La part des pertes subies par Transcona que M. Dare devait prendre en charge s’élevait à 149 981 $.
+[8] L’appelante a payé 93 800 $ sur le montant que M. Dare devait à Transcona. L’appelante a versé à Transcona les montants suivants :
+Date du chèque
+Montant payé
+11/08/1999
+59 000 $
+02/01/2000
+20 000 $
+03/03/2000
+14 800 $
+93 800 $
+B. POINT LITIGIEUX
+[9] Il s’agit de savoir si l’appelante a droit à des crédits de taxe sur les intrants à l’égard des sommes qui ont été versées à Transcona.
+C. ANALYSE
+[10] Dans l’avis d’appel que l’appelante a déposé, il était fait mention d’ententes commerciales conclues avec Auto Perfection. Toutefois, pendant l’audience, le représentant de l’appelante a déclaré que le litige portait uniquement sur la question de savoir si l’appelante avait droit à des crédits de taxe sur les intrants à l’égard des sommes qu’elle avait versées à Transcona.
+[11] Compte tenu de la preuve qui a été soumise à la Cour, j’ai conclu que les sommes que l’appelante a versées à Transcona se rapportaient au remboursement d’une dette que Wayne Dare avait personnellement contractée auprès de Transcona. L’appelante n’a pas versé les sommes en question en vue d’acquérir des fournitures de biens et de services qu’elle consommait ou utilisait dans le cadre de ses activités commerciales.
+[12] Étant donné que la somme que l’appelante a versée à Transcona se rapportait à une dette personnelle de Wayne Dare, l’appelante n’était pas tenue de remettre la TPS à Transcona conformément au paragraphe 165(1) et à l’article 221 de la Loi.
+[13] J’ai donc conclu que les conditions énoncées au paragraphe 169(1) de la Loi ne s’appliquaient pas à l’appelante et que l’appelante n’avait pas le droit de demander des crédits de taxe sur les intrants à l’égard des montants versés à Transcona.
+[14] L’appel est rejeté sans qu’aucuns dépens ne soient adjugés.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour de septembre 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 1er jour d’avril 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI605
+No DU DOSSIER DE LA COUR :
+2003-2388(GST)I
+INTITULÉ :
+Bridgeway Auto Mart Ltd. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 20 juillet 2004
+MOTIFS DU JUGEMENT :
+L’honorable L.M. Little
+DATE DU JUGEMENT :
+Le 10 septembre 2004
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Ward Harris
+Avocate de l’intimée :
+Me Penny Piper
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

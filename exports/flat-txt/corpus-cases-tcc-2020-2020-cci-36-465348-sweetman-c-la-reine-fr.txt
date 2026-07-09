@@ -1,0 +1,151 @@
+Title: Sweetman c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/465348/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-36-465348-sweetman-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-03-06
+
+# Sweetman c. La Reine
+
+- Citation: 2020 CCI 36
+- Decision date: 2020-03-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4577, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sweetman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-03-06
+Référence neutre
+2020 CCI 36
+Numéro de dossier
+2018-1524(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-1524(IT)G
+ENTRE :
+GARY SWEETMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée par voie d’observations écrites
+Devant : L’honorable juge David E. Graham
+Participants :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Priya Bains
+ORDONNANCE
+En application de l’article 160 des Règles de la Cour canadienne de l’impôt (procédure générale), la Cour ordonne que l’appelant verse les sommes suivantes à la Cour, au plus tard aux dates suivantes, à titre de cautionnement pour les dépens qui pourraient être adjugés à l’intimée :
+a) 3 000 $, au plus tard le 15 avril 2020;
+b) 4 000 $, au plus tard 30 jours avant la date limite prévue pour terminer son interrogatoire préalable;
+c) 12 375 $, après le dépôt d’une requête conjointe pour obtenir une date d’audience.
+Signé à Ottawa, Canada, ce 6e jour de mars 2020.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 28e jour de mai 2020.
+François Brunet, réviseur
+Référence : CCI 2020 36
+Date : 20200306
+Dossier : 2018-1524(IT)G
+ENTRE :
+GARY SWEETMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] L’intimée a déposé une requête visant à obtenir une ordonnance en application de l’article 160 des Règles de la Cour canadienne de l’impôt (procédure générale) (les Règles) obligeant l’appelant, Gary Sweetman, à verser la somme de 19 375 $ à la Cour à titre de cautionnement pour dépens dans le présent appel dans les 30 jours suivant la date de l’ordonnance. M. Sweetman s’oppose à l’ordonnance.
+Cautionnement pour dépens
+[2] Deux conditions préalables doivent être satisfaites avant que la Cour puisse accorder une ordonnance en cautionnement pour dépens en application de l’article 160 des Règles. D’abord, l’appelant doit résider à l’extérieur du Canada. Ensuite, conformément à l’article 161, l’intimée doit avoir déposé une réponse. Je conclus que ces deux conditions préalables ont été satisfaites. Il me reste à déterminer s’il serait juste d’accueillir la requête de l’intimée. Pour y parvenir, j’examinerai plusieurs critères.
+Chance de succès
+[3] M. Sweetman a demandé des crédits d’impôt pour dons pour les années d’imposition 2004, 2005, 2006 et 2007, relativement à des dons de près de 3 000 000 $ qu’il prétend avoir faits par l’intermédiaire d’un programme appelé la Global Learning Gifting Initiative (programme GLGI). Le ministre du Revenu national a établi de nouvelles cotisations à l’égard de M. Sweetman, dans lesquelles il a refusé ces crédits. M. Sweetman a interjeté appel de ce refus.
+[4] Des dizaines de milliers de contribuables ont demandé des crédits d’impôt pour dons en lien avec des dons prétendument faits au programme GLGI. La Couronne a instruit deux causes principales. M. Sweetman a choisi de ne pas être lié par ces deux causes principales. Dans la décision Mariano c. La Reine [1] , le juge Pizzitelli a rejeté les appels. Il a conclu, entre autres choses, que les appelants « n’avaient pas l’intention libérale de faire leurs dons, qu’ils n’ont pas possédé ou transféré les biens qui étaient l’objet du don en nature, [...] et que le programme était un trompe-l’œil » [2] .
+[5] M. Sweetman a déposé son appel après que la Cour eut rendu la décision Mariano. Il n’y a rien dans l’avis d’appel de M. Sweetman ou dans ses observations concernant la présente requête qui indique en quoi il estime que son appel diffère de celui en cause dans la décision Mariano. Même s’il soulève quelques questions qui n’ont pas été examinées dans la décision Mariano, il s’agit de questions sur lesquelles notre Cour n’a pas compétence.
+[6] M. Sweetman soulève les questions suivantes : le ministre a-t-il effectué un examen approprié de son dossier avant d’établir les nouvelles cotisations; le ministre a-t-il dépassé le délai prescrit par la loi pour recouvrer les sommes dues résultant des nouvelles cotisations; les mesures prises par l’Agence du revenu du Canada équivalent-elles à une peine cruelle et inusitée; et le ministre a-t-il omis d’aviser les contribuables des problèmes potentiels entourant le programme GLGI. Il demande également l’annulation des intérêts. Notre Cour n’a pas compétence pour examiner l’une ou l’autre de ces questions.
+[7] Plusieurs appels en lien avec le programme GLGI ont été entendus depuis la décision Mariano [3] . L’intimée a eu gain de cause dans chacun de ces appels.
+[8] En octobre 2019, M. Sweetman a présenté des observations concernant une question distincte. Ces observations faisaient référence à des demandes de redressement d’une T1 qu’il a présentées pour une partie ou l’ensemble des années en cause. Il a indiqué qu’au moins une de ces demandes portait sur le report d’une perte. M. Sweetman affirme que le ministre n’a pas instruit ces demandes. Il soulève à nouveau cette question dans ses observations relatives à la présente requête. Toutefois, M. Sweetman n’a pas plaidé que les redressements sous-jacents constituaient des questions dans son avis d’appel, et n’a pas demandé à modifier son avis d’appel pour soulever ces questions. Par conséquent, je n’en ai pas tenu compte quand j’ai apprécié ses chances de succès. Je ne sais pas non plus ce qu’il entend faire valoir ni s’il entend faire valoir des arguments. Je note que, même si M. Sweetman devait demander à modifier son acte de procédure pour soulever ces questions, cela ne ferait qu’accroître la complexité de cette instance, ce qui appellerait un cautionnement pour dépens plus élevé, et non moins élevé.
+[9] À la lumière de tout ce qui précède, je conclus que l’intimée a des chances élevées de succès dans le présent appel. M. Sweetman ne m’a présenté aucun motif qui me permettrait de conclure que l’issue du présent appel pourrait différer de celle de la décision Mariano. Il s’agit d’un critère important justifiant une ordonnance de cautionnement pour dépens.
+Capacité de l’intimée à assurer l’exécution d’une adjudication de dépens
+[10] La capacité de l’intimée à assurer l’exécution d’une future adjudication de dépens en sa faveur constitue un facteur important à considérer (Mathias c. Canada [4] ). M. Sweetman n’a présenté aucun élément de preuve dont il ressort que l’intimée pourrait recouvrer sans difficulté les dépens adjugés en sa faveur. Je conclus que ce facteur milite en faveur d'une ordonnance de cautionnement pour dépens.
+Caractère raisonnable de l’estimation des dépens
+[11] L’intimée demande des dépens de 15 375 $ et des débours de 4 000 $ pour un total de 19 375 $. L’intimée fonde ces chiffres sur la grille tarifaire prévue pour une instance de la catégorie C nécessitant deux jours d’interrogatoire préalable et cinq jours d’instruction.
+[12] La durée de l’instruction de la décision Mariano constitue le meilleur indicateur de la durée potentielle de l’instruction de l'affaire de M. Sweetman. Cette affaire a pris 25 jours d’audience. Il est probable que les instances subséquentes seront plus efficaces. Toutefois, comme M. Sweetman n’a pas précisé comment il entend établir une distinction entre son appel et celui dans la décision Mariano, il est difficile de savoir combien de temps prendront les interrogatoires préalables et l’instruction de l’affaire. M. Sweetman affirme que l’instruction de l’affaire ne prendra pas cinq jours, mais n’a pas expliqué pour quelle raison il croyait cela, ni combien de temps durera l’instruction, selon lui.
+[13] Je reconnais que les affaires relatives au programme GLGI depuis la décision Mariano ont pris moins d’une journée d’audience. Toutefois, la raison en était que les appelants dans ces affaires ont présenté peu d’éléments de preuve, voire aucun, ou ont soulevé des arguments ne relevant pas de la compétence de notre Cour. Je présume que M. Sweetman entend suivre une approche différente et plus productive.
+[14] À la lumière de tout ce qui précède, je conclus que l’estimation faite par l’intimée, soit cinq jours d’instruction et deux jours d’interrogatoire préalable, est raisonnable.
+[15] Dans la décision Mariano, le juge Pizzitelli a adjugé des dépens d’environ 490 000 $ en faveur de la Couronne [5] . Cette somme incluait 41 075 $ en honoraires d’avocat. Pour le reste, il s'agissait de débours. Je note que l’estimation faite par l’intimée n’inclut aucuns débours pour les témoins experts. Ces témoins constituaient une portion très importante des dépens dans l'affaire Mariano.
+[16] À la lumière de tout ce qui précède, la meilleure indication que j’ai, c’est que l’estimation faite par l’intimée de 15 375 $ en honoraires d’avocat et de 4 000 $ en débours est raisonnable. Cette conclusion milite en faveur d’une ordonnance de cautionnement pour dépens.
+Recours à un avocat
+[17] M. Sweetman affirme qu’il a retenu les services d’un avocat. Il soutient que l’estimation des dépens faite par l’intimée est par conséquent trop élevée. Même si M. Sweetman n’explique pas pour quelle raison il en vient à cette conclusion, je présume qu’il est d'avis que, puisque l’avocat représente un autre appelant en lien avec le programme GLGI, les dépens de l’intimée seront maintenant répartis entre deux appelants. Même si cet argument est peut-être fondé, M. Sweetman n’a pas, concrètement, retenu les services d’un avocat. Il est possible qu’il ait consulté un avocat et obtenu ses conseils, mais il n’a en réalité désigné aucun avocat pour le représenter dans le présent appel. M. Sweetman a d’abord indiqué son intention de prendre un avocat en décembre. Comme il ne l’a pas encore fait, j’estime qu’il ne s’agit pas là d’un facteur pertinent.
+Capacité de payer
+[18] M. Sweetman affirme avoir une valeur nette très négative et un faible revenu mensuel. Toutefois, il n’a présenté aucun élément de preuve documentaire en fonction duquel je pourrais mesurer l’exactitude de ses affirmations. Je n’accorde aucun poids aux affirmations non corroborées de M. Sweetman. Par conséquent, je conclus que rien n’indique qu’il ne serait pas en mesure de fournir le cautionnement demandé.
+Retards ministériels
+[19] M. Sweetman soutient que le ministre a retardé la vérification de ses années d’imposition et l’établissement des nouvelles cotisations, ainsi que l’examen de ses avis d’opposition. Il soutient que si le ministre avait instruit rapidement ses avis d’objection, il aurait été encore résident au Canada au moment de déposer son avis d’appel et il ne serait donc pas dans l’obligation de fournir un cautionnement. Même si je ne suis pas convaincu qu’il s’agisse là d’un facteur pertinent, je l’examinerai néanmoins.
+[20] M. Sweetman s’est opposé aux nouvelles cotisations établies en 2008 et en 2010. L’alinéa 169(1)b) de la Loi de l’impôt sur le revenu autorisait M. Sweetman à interjeter appel devant notre Cour 90 jours après le dépôt de ses avis d’opposition. S’il avait voulu s’assurer d’être toujours résident au Canada au moment de déposer son avis d’appel, il aurait dû prendre avantage de cette disposition et interjeter appel devant notre Cour plus rapidement. J’estime que ce facteur n’est pas pertinent pour régler la question.
+Annulation des intérêts
+[21] M. Sweetman soutient que le temps qu’a pris le ministre avant d’établir ses nouvelles cotisations a également résulté en des intérêts inutiles sur la dette fiscale en cause. Il affirme qu’il a demandé l’annulation de ces intérêts conformément aux dispositions d’allègement pour les contribuables, mais que le ministre n’y a pas encore donné suite. M. Sweetman soutient que cette absence de réponse l’a laissé dans l’incertitude quant au montant total en litige, et l’a par conséquent empêché de prendre les décisions appropriées concernant le déroulement de la procédure contentieuse.
+[22] Notre Cour n’a pas compétence en matière d’annulation d’intérêts ou de règlement en temps utile des demandes d’allègement des contribuables. C’est la Cour fédérale qui a compétence pour entendre ces deux questions.
+[23] Même si je comprends la frustration de M. Sweetman, je ne peux voir la pertinence de ces questions relativement à la question du cautionnement pour dépens. Si l’intimée demandait un cautionnement pour la dette fiscale sous-jacente de M. Sweetman, une réduction potentielle de cette dette au moyen de l’annulation des intérêts pourrait alors constituer un facteur très pertinent. Toutefois, ce n’est pas ce que demande l’intimée. Ce que l’intimée demande, c’est un cautionnement couvrant les dépens estimés de l’intimée concernant l’instance devant notre Cour. La réduction potentielle de la dette fiscale sous-jacente de M. Sweetman au moyen d’un processus pour lequel notre Cour n’a pas compétence n’a aucune incidence sur ses dépens.
+Conclusion
+[24] Vu tout ce qui précède, je conclus qu’il est approprié d’ordonner que M. Sweetman fournisse un cautionnement pour les dépens de l’intimé, évalués à 19 375 $.
+Nature du cautionnement et délai pour le verser
+[25] Ayant conclu qu’il est approprié que M. Sweetman verse un cautionnement, j’ai le pouvoir discrétionnaire de déterminer le montant et les modalités de ce cautionnement, et la manière dont il doit être versé (article 162).
+[26] J’estime qu’il est approprié que M. Sweetman verse un cautionnement au moyen d’un paiement à la Cour. Il n’a proposé aucune autre façon de verser le cautionnement.
+[27] M. Sweetman affirme que s’il doit verser un cautionnement, il doit être autorisé à étaler les paiements. J'abonde dans son sens. Il n’est pas nécessaire que tout le cautionnement soit versé en une seule fois.
+Ordonnnance
+[28] Vu tout ce qui précède, j’ordonne à M. Sweetman de verser les sommes suivantes à la Cour, aux dates suivantes :
+a) 3 000 $, au plus tard le 15 avril 2020;
+b) 4 000 $, au plus tard 30 jours avant la date limite prévue pour terminer son interrogatoire préalable;
+c) 12 375 $, après le dépôt d’une requête conjointe pour obtenir une date d’audience.
+[29] Comme M. Sweetman se représente lui-même, je pense qu’il est important d’attirer son attention sur le fait que s’il omet de verser le cautionnement ci-dessus en temps utile, l’intimée peut déposer une demande afin d’obtenir le rejet de son appel, en application de l’article 164.
+Signé à Ottawa, Canada, ce 6e jour de mars 2020.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 28e jour de mai 2020.
+François Brunet, réviseur
+RÉFÉRENCE :
+CCI 2020 36
+No DU DOSSIER DE LA COUR :
+Dossier : 2018-1524(IT)G
+INTITULÉ :
+GARY SWEETMAN c. LA REINE
+DATE DE L’AUDIENCE :
+Requête tranchée par voie d’observations écrites
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 6 mars 2020
+PARTICIPANTS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Priya Bains
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 2015 CCI 244.
+[2] Mariano, au paragraphe 146.
+[3] Des décisions ont été rendues par écrit dans Tudora v. The Queen, 2020 TCC 11 et Wiegers c. La Reine, 2019 CCI 260.
+[4] 2017 CAF 19.
+[5] Mariano c. La Reine, 2016 CCI 161. Il y a eu un ajustement des débours. Il n’est pas possible de déterminer le montant de l’ajustement à partir des motifs présentés.

@@ -1,0 +1,158 @@
+---
+title: "Pearson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30593/index.do"
+last_modified: "2011-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 455"
+citation2: ""
+neutral_citation: "2011 TCC 455"
+decision_date: "2011-09-27"
+language: "en"
+item_id: "30593"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7149
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:17:33.911000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e734198165d2edd256e008f3b61accc46aa87b1090320c577ba3e073c4c8c1fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pearson v. The Queen
+
+- Citation: 2011 TCC 455
+- Decision date: 2011-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7149, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pearson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-27
+Neutral citation
+2011 TCC 455
+File numbers
+2011-1262(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1262(IT)I
+BETWEEN:
+JOANN PEARSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 15, 2011, at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Zachary Froese
+____________________________________________________________________
+JUDGMENT
+The appeal from the redeterminations made under the Income Tax Act for the 2007 base year is dismissed and the appeal for the 2008 base year is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination on the basis that the Appellant is the eligible individual for the month of January 2010.
+Signed at Ottawa, Canada, this 27th day of September 2011.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2011TCC455
+Date: 20110927
+Docket: 2011-1262(IT)I
+BETWEEN:
+JOANN PEARSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the Appellant is the “eligible individual” within the meaning of section 122.6 of the Income Tax Act (the “Act”) to receive the Canada Child Tax Benefit (“CCTB”) and the Universal Child Care Benefit (“UCCB”) for various months in 2009 and 2010.
+[2] The Appellant and her former spouse, Anita Furlan, separated in November 2007. They are the parents of two children, T born in 2002 and E born in 2006.
+[3] In a Judgment dated October 28, 2010, Chief Justice Rip decided that Ms. Furlan was the eligible individual in respect of the CCTB and the UCCB for the two children for the following periods:
+July 2008 June 2009
+November 2008 July 2009
+January 2009 (T only) August 2009
+February 2009 (T only) December 2009
+March 2009 January 2010
+[4] The Appellant’s eligibility for the CCTB and the UCCB were redetermined on the basis of the Chief Justice’s decision and it is this redetermination which is the subject of this appeal. It is the Appellant’s position that she was the eligible individual for the two children in:
+January 2009
+December 2009
+February 2009
+January 2010
+March 2009
+June 2009
+Motion to Dismiss
+[5] The Respondent has brought a motion to dismiss the Appellant’s appeal on the basis that it is an abuse of process. The grounds for the motion are:
+a) The issue has already been decided by this court and to relitigate the same factual circumstances is an abuse of process and a waste of judicial resources.
+b) The Appellant did not seek to intervene when the issue was initially heard by the Court; and,
+c) The Appellant cannot now ask the Court to hear the matter over again.
+[6] I disagree with the Respondent and the motion is dismissed for the reasons which follow.
+[7] The doctrine of abuse of process is flexible. It originates from the inherent jurisdiction of the court to control its own process and ensure the integrity of the judicial system[1].
+[8] In Toronto (City) v. Canadian Union of Public Employees (C.U.P.E.) Local 79[2], Justice Arbour explained that the focus of the doctrine of abuse of process is to preserve the integrity of the judicial system in order to avoid inconsistent results.
+[9] In C.U.P.E., Justice Arbour gave situations when it would not be an abuse of process to relitigate a matter. At paragraph 52, she stated:
+52 In contrast, proper review by way of appeal increases confidence in the ultimate result and affirms both the authority of the process as well as the finality of the result. It is therefore apparent that from the system’s point of view, relitigation carries serious detrimental effects and should be avoided unless the circumstances dictate that relitigation is in fact necessary to enhance the credibility and the effectiveness of the adjudicative process as a whole. There may be instances where relitigation will enhance, rather than impeach, the integrity of the judicial system, for example: (1) when the first proceeding is tainted by fraud or dishonesty; (2) when fresh, new evidence, previously unavailable, conclusively impeaches the original results; or (3) when fairness dictates that the original result should not be binding in the new context. This was stated unequivocally by this Court in Danyluk, supra, at para. 80.
+[10] In the present appeal, fairness dictates that the original result should not be binding on the Appellant. First, in filing her Notice of Appeal and litigating the determinations issued against her, the Appellant is exercising her right to appeal in accordance with section 169 of the Act. Second, although she was a witness at the hearing of Ms. Furlan’s appeal, the Appellant was misinformed by the Respondent as to the number of months at issue in Ms. Furlan’s appeal. She was told that there were only four months at issue and she brought documents for these four months; whereas, the period at issue in Ms. Furlan’s appeal was two and one-half years.
+[11] Finally, the Minister could have ensured that both parents were bound by the same judgment. In situations such as the present, it is appropriate and desirable that the Minister join the parties pursuant to section 174 of the Act to ensure consistency and finality in the results. I agree with the comments made by Sheridan J. in Streitenberger v. R.[3] at paragraph 3 where she stated:
+3 As is evident from the assumption in paragraph 16(t) of the Reply to the Notice of Appeal, this is the second time the Court has considered whether the Appellant or his ex-spouse, Sandra Scott, is entitled to the CTB for much of the same period. In the Scott appeal, Margeson, J., without giving reasons, held that Ms. Scott was entitled to the CTB and the Minister redetermined the Appellant's entitlement accordingly. It is from that redetermination that the Appellant now appeals. In these circumstances, it seems to me that it would have been appropriate (indeed, desirable) for the Minister to have sought, under section 174 of the Income Tax Act, to join the Appellant as a party to Ms. Scott's appeal.1 Had this been done, two unfortunate results could have been avoided: the family would not have had to go through judicial proceedings a second time in respect of the same period on the same issue, and the Court would not have been put in the embarrassing position of hearing what is, in effect, a kind of appeal of the decision in the first proceeding.
+CCTB and UCCB
+[12] The only question to be determined is, during each of the months at issue, which parent primarily fulfilled the responsibility for the care and upbringing of the children.
+[13] Both parents kept detail accounts of the time they each spent with their children. Although Ms. Furlan calculated the time on a per diem basis and Ms. Pearson calculated the time on an hourly basis, there were only minor differences in their calculations. For the most part, those differences depend on whether I find that the children were in the Appellant’s care while they were at school during a time that they were resident with Ms. Furlan.
+[14] Paragraph 6 of the Order issued by the Supreme Court of British Columbia on August 19, 2009 reads:
+6. On the days of the week in which the children reside with the Plaintiff, but the Plaintiff is unable to personally care for them, the Defendant will have access on the following basis:
+a. The Defendant will pick up the children at 7:30 a.m. on each of those mornings, and they will be in her care until 4:30, at which time they may be picked up by the Plaintiff or someone designated by the Plaintiff.
+b. If the Defendant is unable to fulfill these access arrangements for the care of the children she will give one week’s notice so that the Plaintiff can make alternative arrangements.
+[15] It was the Appellant’s position that T was “in her care” when T was in school during the periods when the circumstances of paragraph 6 applied. Further, it was her position that the circumstances of paragraph 6 applied prior to and subsequent to the date of the Order.
+[16] I agree with the Appellant that in the circumstances where paragraph 6 applied, T was in her care for the month of September and a portion of the month of October 2009. However, there is nothing in the Separation Agreement dated July 10, 2007 or the Separation Agreement dated October 29, 2007 which supports the Appellant’s position that prior to the Order issued on August 19, 2009, T was in her care when she was in school during a week that she was resident with Ms. Furlan. Likewise, the Consent Order issued on October 19, 2009 does not support the Appellant’s position.
+[17] Further, Ms. Furlan testified that she had instructed the staff at T’s school that she was the contact person when T was resident with her. Further, she gave the school the dates that T would be resident with her.
+[18] On a review of all of the evidence, I find that the Appellant has shown that she primarily fulfilled the responsibility for the care of the children in January 2010. The appeal is allowed on the basis that the Appellant is the eligible individual for the month of January 2010.
+Signed at Ottawa, Canada, this 27th day of September 2011.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2011TCC455
+COURT FILE NO.: 2011-1262(IT)I
+STYLE OF CAUSE: JOANN PEARSON AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 15, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: September 27, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Morel v. Canada, [2008] FCA 53 at paragraph 35
+[2] 2003 SCC 63 at paragraph 43
+[3] 2007 TCC 430

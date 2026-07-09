@@ -1,0 +1,161 @@
+---
+title: "Trignani v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29755/index.do"
+last_modified: "2010-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 209"
+citation2: ""
+neutral_citation: "2010 TCC 209"
+decision_date: "2010-04-19"
+language: "en"
+item_id: "29755"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6501
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:27:09.240000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f201c9e599190c526a8e588c33593b2c9d7eff829383ae7c690ac74058eda27"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Trignani v. The Queen
+
+- Citation: 2010 TCC 209
+- Decision date: 2010-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6501, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trignani v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-19
+Neutral citation
+2010 TCC 209
+File numbers
+2008-3989(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3989(IT)I
+BETWEEN:
+ENNIO TRIGNANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 9, 2010 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Michael A. Jaeger
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2006 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that legal fees in the amount of $5,375 are deductible in computing income.
+The appellant is entitled to costs in accordance with the tariff.
+Signed at Toronto, Ontario this 19th day of April 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 209
+Date: 20100419
+Docket: 2008-3989(IT)I
+BETWEEN:
+ENNIO TRIGNANI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in this appeal is whether the appellant, Mr. Ennio Trignani, is entitled to a deduction in computing income for legal fees in the amount of $5,375. The appellant submits that the expenses are deductible on the basis that they were incurred to obtain child support.
+[2] In an assessment made under the Income Tax Act for the 2006 taxation year, the deduction was disallowed in its entirety.
+Background facts
+[3] The appellant and his former spouse separated in July 2000. They had one child, who was very young at the time of the separation.
+[4] Under a separation agreement made in August 2000:
+· there was no provision for spousal support,
+· the parties agreed to joint custody of the child,
+· the appellant was to pay monthly child support in the amount of $350, and
+· an equalization payment was to be made in respect of net family property.
+[5] In the spring of 2001, the appellant and his spouse each filed petitions for divorce. They also each requested sole custody of the child and claimed child support from the other spouse.
+[6] In May 2001, an order on consent was issued by a judge of the Ontario Superior Court of Justice. It provided:
+· the appellant was to have sole interim custody of the child,
+· the spouse was to have interim access 50 percent of the time with supervision, and
+· the appellant was to continue to pay monthly child support in the amount of $350.
+[7] Notwithstanding this arrangement, for the next several years the appellant had physical custody of the child for the majority of the time because appropriate supervision at the spouse’s residence was not available.
+[8] In December 2006, an order of divorce was issued by the Ontario court pursuant to minutes of settlement. In addition to granting the divorce, the order provided:
+· the parents were to have joint custody of the child,
+· the appellant was to pay monthly child support in the amount of $443;
+· the appellant was to pay monthly spousal support in the amount of $1,650, and
+· a further division of family property was to be made.
+[9] In 2006, the appellant paid legal fees in respect of this matter in the amount of $36,185.35.
+[10] In his income tax return for 2006, the appellant claimed a deduction in the amount of $5,375 as an estimate of the portion of the legal fees that were attributable to the claim for child support.
+[11] In a letter written in 2008 by the lawyer who provided the legal services, it was estimated that 65 percent of the 2006 legal fees ($36,185.35) were attributable to the child support issue, and that 100 percent of the legal fees paid in 2007 ($7,118.19) were attributable to this issue. The lawyer did not testify.
+[12] According to the testimony of the appellant, which I accept, custody was the most significant issue in the divorce proceeding. Child support was not a significant issue, except in so far as it would vary depending on who had custody.
+Analysis
+[13] It has generally been accepted that legal expenses incurred to obtain child support are deductible in computing income: Wakeman v. The Queen, [1996] 3 CTC 2165; McColl v. The Queen, 2000 DTC 2148; Sabour v. The Queen, [2002] 1 CTC 2585 (in obiter at para. 9); and Rabb v. The Queen, [2006] 3 CTC 2266.
+[14] The principle has also been accepted by the Canada Revenue Agency, as evidenced by Interpretation Bulletin IT-99R5, at para. 17.
+[15] In making the assessment, it appears that the Minister did not apply this principle because it was assumed that the appellant had not made a formal claim for child support (Reply, para. 19(f)).
+[16] It is clear from the evidence, though, that this assumption was incorrect. In April 2001, the appellant made a claim for sole custody and child support in an answer and counterpetition filed in the Ontario Superior Court of Justice.
+[17] At the hearing, counsel for the respondent raised two arguments in support of the assessment. First, it was argued that in 2006 the appellant did not have a right to receive child support from his spouse because the May 2001 order required the appellant to pay child support. Second, it was argued that the appellant had abandoned his claim for child support.
+[18] The first argument appears to be based on a long-standing principle that has been applied in the context of spousal support. Under this principle, legal fees incurred to establish a right to spousal support were considered to be on account of capital and not deductible by virtue of s. 18(1)(b). This is in contrast to fees incurred to enforce a pre-existing right, which are on current account.
+[19] More recent judicial decisions have questioned the correctness of this principle and it appears that the CRA no longer follows it: Nissim v. The Queen, [1999] 1 CTC 2119; Income Tax Technical News, No. 24, October 10, 2002. At this point, however, the jurisprudence is not clearly established: Nadeau v. The Queen, 2003 FCA 400, at para. 7.
+[20] This appeal does not concern spousal support, however, and I am not aware that the above principle has ever been applied to child support.
+[21] It appears that with respect to child support, legal expenses have been considered to be on current account on the basis that there is a pre-existing right by virtue of a legislative obligation on each parent to support their children: McColl, above.
+[22] If I understand the respondent’s position correctly, it is that the traditional capital distinction applies here. The respondent submits that in 2006 the appellant did not have a pre-existing right to child support because this right was extinguished by the May 2001 order which entitled the appellant’s spouse to interim child support.
+[23] I do not agree with this submission. In my view, the May 2001 order did not extinguish the appellant’s right to child support. The legislative obligation to support children does not cease with a court order, and especially a court order providing for interim support only.
+[24] I now turn to the respondent’s second argument, which was that the appellant had abandoned the claim for child support.
+[25] In order for this argument to succeed, it must be established that the claim for child support was abandoned before the relevant legal services in 2006 were provided.
+[26] This has not been established by the evidence.
+[27] In cross-examination, the appellant acknowledged that the child support claim was abandoned, as evidenced by a clause in the 2006 court order. I am not prepared to take the leap that the claim was abandoned before the relevant legal services were provided. It is quite possible that the claim was abandoned only when the minutes of settlement were entered into, which likely was after most of the legal services were rendered.
+[28] The evidence as a whole makes a strong case that the claim for child custody (and consequently child support) in 2001 was bona fide, not frivolous, and had a reasonable prospect of success. In the absence of evidence to the contrary, I am not willing to presume that this claim was not being vigourously pursued in 2006.
+[29] Finally, I would briefly comment that in reaching this conclusion I have not attached any weight to the 2008 letter from the lawyer which apportioned the legal fees. The lawyer did not testify and was not subject to cross-examination.
+[30] The appeal will be allowed on this basis. The appellant shall be entitled to costs in accordance with the tariff.
+Signed at Toronto, Ontario this 19th day of April 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 209
+COURT FILE NO.: 2008-3989(IT)I
+STYLE OF CAUSE: ENNIO TRIGNANI and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: April 9, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: April 19, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Michael A. Jaeger
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Michael A. Jaeger
+Firm: Boddy Ryerson LLP
+Brantford, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

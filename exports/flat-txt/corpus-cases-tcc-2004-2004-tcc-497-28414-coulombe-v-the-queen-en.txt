@@ -1,0 +1,1977 @@
+Title: Coulombe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28414/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-497-28414-coulombe-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-09-27
+
+# Coulombe v. The Queen
+
+- Citation: 2004 TCC 497
+- Decision date: 2004-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1213, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coulombe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-27
+Neutral citation
+2004 TCC 497
+File numbers
+98-2464(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 98-2464(IT)G
+BETWEEN:
+RAYMOND COULOMBE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of Gail Wheeler (98‑2153(IT)G) April 7 and 8, 2004, at Sherbrooke, Quebec.
+Before: The Honourable Judge Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Robert Jodoin
+Mélanie Pelletier
+Counsel for the Respondent:
+Martin Gentile
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for taxation years 1990, 1991, 1992, and 1993 are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment, taking into account:
+(i) the changes to be made to Appendix A, “Calculation of Discrepancy per Net Worth,” prepared by the Respondent to take into account the agreement concluded between the parties on May 20, 2004, in Appendix C, attached to the Reasons for Judgment;
+(ii) the capital cost allowance, to which the Appellant Coulombe is entitled for taxation years 1991, 1992, and 1993, relating to the property listed in Exhibit A‑93, as set out in greater detail in paragraph 69 of the Reasons for Judgment;
+(iii) the changes to be made to Appendix A, “Calculation of Discrepancy per Net Worth,” prepared by the Respondent, to take into account the fact that the expenditures entered at items entitled “J.I. Case,” “Ford Credit,” and “GMAC Finance,” which are listed in the “Table of Personal Expenditures” in Appendix A, are not personal expenditures; they are expenditures made by the Appellant Coulombe during the years at issue for the purpose of earning income from his businesses;
+with consequential adjustments to the penalties and interest, the whole with costs to the Respondent.
+Signed at Ottawa, Canada, this 27th day of September 2004.
+« Paul Bédard »
+Bédard J.
+Reference: 2004TCC497
+Date: 20040927
+Docket: 98-2464(IT)G
+BETWEEN:
+RAYMOND COULOMBE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 98-2153(IT)G
+GAIL WHEELER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant Coulombe is appealing from his assessments for taxation years 1990, 1991, 1992, and 1993, and the Appellant Wheeler is appealing from her assessments for taxation years 1989, 1990, and 1992.
+[2] On March 21, 1996, the Minister of National Revenue (the “Minister”) reassessed the Appellant Coulombe for taxation years 1990, 1991, 1992, and 1993. The reassessments for taxation years 1990 and 1991 were made after the expiration of the normal reassessment period.
+[3] On March 21, 1996, the Minister reassessed the Appellant Wheeler for taxation years 1989, 1990, and 1992. The reassessments for taxation years 1989 and 1990 were made after the expiration of the normal reassessment period.
+[4] In reassessing the Appellant Coulombe, the Minister, using the net worth method, determined that the Appellant Coulombe had undeclared income of $99,270 in 1990, $131,644 in 1991, $56,398 in 1992, and $119,009 in 1993, as shown in Appendix A, attached, and imposed a penalty for each of these years, in accordance with subsection 163(2) of the Income Tax Act (the “Act”).
+[5] In reassessing the Appellant Wheeler, the Minister, using the net worth method, determined that the Appellant Wheeler had undeclared income of $46,260 in 1989, $5,531 in 1990, and $22,085 in 1992, as shown in Appendix B, attached, and imposed a penalty for each of these years, in accordance with subsection 163(2) of the Act.
+[6] With respect to the Appellant Coulombe, the Minister made the following assumptions of fact, as set out in paragraph 88 of the Reply to the Notice of Appeal in the Appellant Coulombe’s file (98-2464(IT)G) in making the reassessments at issue in this case:
+a) the Appellant Coulombe is actively involved in a number of areas of economic activity, more specifically in the construction industry;
+b) the Appellant Coulombe submitted to the Minister of National Revenue a statement of assets and liabilities, dated September 1, 1989, compiled by Maheu Noiseux/Dallaire Alain Brodeur Dextradeur, Chartered Accountants, and signed by the Appellant Coulombe, for the period ended December 31, 1988 (with a comparative statement for the period ended December 31, 1987), and a statement of capital reconciliation for 1988 (with a comparative statement of reconciliation for 1987);
+c) the Appellant Coulombe submitted to the Minister of National Revenue a statement of assets and liabilities, dated June 12, 1991, compiled by Gilles Roberge, Accountant, and signed by the Appellant Coulombe, for the period ended December 31, 1989 (with a comparative statement for the period ended December 31, 1988), and a statement of capital reconciliation for 1989 (with a comparative statement of reconciliation for 1988);
+d) the Appellant Coulombe submitted to the Minister of National Revenue a statement of assets and liabilities, dated July 28, 1993, compiled by Gilles Roberge, Accountant, and signed by the Appellant Coulombe, for the period ended December 31, 1990, and a statement of capital reconciliation for 1990, with a comparative statement of assets and liabilities for the period ended December 31, 1989, which was different from the statement submitted in paragraph (c) above, and a comparative statement of capital reconciliation for 1989, which was different from the reconciliation submitted in paragraph (c) above;
+e) the Appellant Coulombe submitted to the Minister of National Revenue statements of assets and liabilities, dated July 29, 1993, compiled by Gilles Roberge, Accountant, and signed by the Appellant Coulombe, for the periods ended December 31, 1991, and December 31, 1992, and statements of capital reconciliation for these years;
+f) the Appellant Coulombe submitted to the Minister of National Revenue a statement of assets and liabilities, dated February 17, 1995, compiled by Gilles Roberge, Accountant, and signed by the Appellant Coulombe, for the period ended December 31, 1993 (with a comparative statement for the period ended December 31, 1992) and a statement of capital reconciliation for 1993 (with a comparative reconciliation for 1992);
+g) the Appellant Coulombe paid in cash for purchases and for the construction of buildings; he provided no invoices from suppliers of goods or services relating to the construction of buildings, and, upon disposition of the buildings, he collected, in whole or in part, a cash sum equal to their selling price;
+h) for certain loan repayments and certain sales of buildings, the Appellant Coulombe or Gail Wheeler, as the case may be, deposited the cheques in a bank account, and on the same day, withdrew amounts of cash corresponding to all or substantially all the amounts of the cheques;
+i) the Appellant Coulombe failed to enter in his personal statements a number of real estate assets and a number of accounts receivable secured by mortgage;
+j) the Appellant Coulombe failed to report profits and interest income relating to a number of real property transactions;
+k) using the Discrepancy per Net Worth method, the Minister of National Revenue determined that the Appellant Coulombe had undeclared income totalling $99,270 in 1990, $131,644 in 1991, $56,398 in 1992, and $119,009 in 1993, based on the information provided in Appendix A, attached, which is an integral part of this reply;
+l) the Appellant Coulombe made a misrepresentation that was attributable to neglect, carelessness, or wilful default, in filing his income tax returns for taxation years 1990 and 1991;
+m) the Appellant Coulombe knowingly, or under circumstances amounting to gross negligence, failed to report income in the amounts of $99,270 in his 1990 income tax return, $131,644 in his 1991 income tax return, $56,398 in his 1992 income tax return, and $119,009 in his 1993 income tax return. The Minister of National Revenue imposed a penalty on the Appellant Coulombe in the amounts of $12,379 for taxation year 1990, $17,408 for taxation year 1991, $6,960 for taxation year 1992, and $15,148 for taxation year 1993, in accordance with subsection 163(2) of the Income Tax Act;
+[7] With respect to the Appellant Wheeler, the Minister made the following assumptions of fact, as set out in paragraph 9 of the Reply to the Notice of Appeal in the Appellant Wheeler’s file (98-2153(IT)G), in making the reassessments at issue in this case:
+a) during the taxation years at issue, the Appellant Wheeler was actively involved in the real estate industry;
+b) during the period at issue, the Appellant Wheeler was the common-law spouse of Mr. Raymond Coulombe;
+c) in her 1990 income tax return, the Appellant Wheeler reported net business income in the amount of $7,300;
+d) in filing her T1 income tax returns for taxation years 1989, 1990, and 1992, the Appellant Wheeler failed to report all of her income;
+e) further to investigation and application of the net worth method, the Minister of National Revenue determined that the Appellant Wheeler’s net worth increased from $56.00 as of December 31, 1988, to $84,279 as of December 31, 1992, as it appears in more detail in the Appellant Wheeler’s statement of assets and liabilities attached hereto as Appendix A, making it an integral part as if stated at length;
+f) the Appellant Wheeler failed to report income in the amount of $46,260 in 1989, $5,531 in 1990, and $22,085 in 1992, for a total of $73,876, as it appears in more detail in the Calculation of Discrepancy per Net Worth, attached hereto as Appendix B, making it an integral part as if stated at length
+g) for taxation years 1989 and 1990, the Appellant Wheeler made a misrepresentation attributable to neglect, carelessness, or wilful default in filing her income tax returns;
+h) the Appellant Wheeler knowingly, or under circumstances amounting to gross negligence, made a false statement or omission in the tax returns she filed for 1989, 1990, and 1992.
+[8] The objections raised by the Appellants involve:
+(i) the reassessments made by the Minister after the expiration of the normal reassessment period;
+(ii) the Minister’s application of a penalty on the additional income for each of taxation years 1990, 1991, 1992, and 1993 with respect to the Appellant Coulombe, and for each of taxation years 1989, 1990, and 1992 with respect to the Appellant Wheeler;
+(iii) the presumption of validity with respect to the assessments made using the net worth method, taking into account the fact that the calculations made to determine net worth, as carried out by the Respondent, contained a multitude of errors;
+(iv) the costs;
+(v) with respect to the additional income for the taxation years at issue, the following specific elements:
+a) Cash on hand on December 31, 1988
+[9] The Appellant Coulombe maintains that the Minister did not take into account the fact that he had cash in the amount of $185,120 on December 31, 1988. He contends that this sum resulted from the 1988 sale of his residence to Ms. Mary-Lou Lancaster and the sale of a Case 1150 bulldozer.
+b) Receipt of insurance proceeds following a fire in a commercial building known as Bar Station 88
+[10] The Appellant Coulombe contended that he collected insurance proceeds in the sum of $30,076 in 1989 following a fire in a commercial building he had sold to a third party. According to the Appellant Coulombe, the sum of $30,076 represented the balance of the mortgage debt owed to him by this third party at the time of the fire.
+c) Payment in the sum of $35,000 in 1993 to Ms. H. Allan
+[11] The Appellant Coulombe maintained that he held the first mortgage for the building owned by Ms. Allan and that Ms. Allan had sold the building on May 18, 1993. Although the Appellant Coulombe collected $82,435.84 as a repayment of the mortgage debt, he claimed that the amount owed to him by Ms. Allan was $50,000. The Appellant Coulombe claimed that he paid Ms. Allan a sum of $35,000 in cash on the same day, in accordance with a verbal agreement concluded between them.
+d) Sale of a Caterpillar 225 excavator in 1989
+[12] The Appellant Coulombe claimed that, in 1989, he sold this excavator for the sum of $35,000 to Équipement P. Lacroix Inc.
+e) Cash deposit to account number 7223 at the Caisse populaire de Waterloo
+[13] The Appellant Coulombe claimed that he and the Appellant Wheeler had made a number of deposits of smaller cash amounts to this account during the period at issue to cover disbursements and cheques drawn from the account. These smaller cash deposits, according to the Appellant Coulombe, were made in the amounts of $10,300 for taxation year 1990, $8,350 for 1991, $6,100 for 1992, and $2,900 for 1993.
+f) Loans made to the Appellant Wheeler totalling $50,000
+[14] The Appellant Wheeler maintained that she borrowed $30,000 from the Appellant Coulombe in 1989, and $20,000 in 1993.
+g) Claim for deduction for the depreciation of capital property
+[15] Counsel for the Appellant Coulombe maintained that the Appellant Coulombe was entitled to a deduction for depreciation for the periods at issue (as set out in Exhibit A-93) with respect to assets the Appellant Coulombe used in the operation of his construction and real estate development business.
+h) Personal expenditures
+[16] The Appellant Coulombe maintained that the amounts identified as personal expenditures at items entitled “J.I. Case,” “Ford Credit,” and “GMAC Finance” in the “Table of Personal Expenditures,” used in the calculation of net worth prepared by the Respondent (Appendix A), were not personal expenditures.
+Preliminary remarks
+[17] It should be noted that I have not heard the evidence relating to the other points at issue initially, because counsel for the parties reached an agreement in principle in this matter in the course of the hearing. This agreement was signed by the parties after the hearing, as shown in Appendix C, attached.
+[18] During the years at issue, the Appellant Coulombe operated real estate development, construction, and money-lending businesses. During these years, he reported only $813 in business income, and that was in 1993. He admitted that he did not keep any accounting records. The Appellant Coulombe conducted cash transactions as often as possible. It is my opinion that the Appellant Coulombe’s modus operandi can be illustrated by citing the following two passages, excerpted from the testimony he gave upon examination by his counsel:
+Q. And over than $186,000 cash on hand, but you have zero at the end of 1988. Can you explain, at the end of 1987, can you remember how much money you had in your pocket, cash on hand?
+A. I don't keep in my pocket, I bury it, first of all, and I have no bank account, that's the truth, I don't care. My money is all cash and I pay cash. I buy something, I pay the taxes, oh yes. I pay the taxes right then and there, so I'm not screwing nobody, not screwing the government, you know, but I always pay cash. I get a better deal, that way I don't know, that's the way I do it, I do. I buy lumber, I buy anything, you know, you go, you deal. I go to four different lumberyards on a $100 item and I can save $20. Believe it or not, you know, I could pay all stupid labour just on what I save.
+[...]
+Q. You are in business since a long time ago now, do you agree that you never kept proper books, accounting books?
+A. No, I couldn't, I'd be more at the books than I would be at the site, you know what I mean. You know, I always figured if I build a house and it costs me 45 and I sold it for 65, I make $20,000. Okay, then I declare it, you know, but I can't start declare every lousy thing all the way up. There's a certain price you pay to build a house, I mean, cement, $100 a meter, $100 a meter, two by four, $3, it's $3, I mean, and they got that, the government got that, they got everything down tight, they know what a nail is worth, you can't beat them. It's just the profit, you make a little bit of profit, you make money and I love that business, I like that. And I like to build, I like to build.
+[19] The Appellant Wheeler, the common-law spouse of the Appellant Coulombe, worked in the real estate industry. During the years at issue, she reported only $7,300 in business income, and that was in 1990. She kept no accounting records. The evidence presented by the Appellant Wheeler involved cash loans for the sums of $30,000 in 1989 and $20,000 in 1993 only, lent to her by the Appellant Coulombe.
+Analysis
+Cash on hand as of December 31, 1988
+[20] The Appellant Coulombe maintained that the Minister did not take into consideration the fact that he had $185,120 in cash on December 31, 1988. In his explanation for the source of these funds, the Appellant Coulombe testified that he had sold a Case 1150 bulldozer to Équipement P. Lacroix Inc. for $45,000 in 1988. In support of this testimony, he filed the contract of purchase for the bulldozer as Exhibit A-66, showing that he did, in fact, make the purchase on March 16, 1987, for the sum of approximately $35,000. During his testimony, he explained that he had realized a profit on the sale of the bulldozer because he had repaired it himself.
+[21] The evidence also showed that the Appellant Coulombe received the sum of $90,120 from the 1988 sale of his residence to Ms. Mary-Lou Lancaster, which explains in part, according to the Appellant Coulombe’s counsel, the fact that his client had a sum of $185,120 in cash as of January 1, 1989.
+[22] In his argument, counsel for the Appellant Coulombe maintained that the Appellant Coulombe’s testimony regarding the $185,120 in cash, which he had in his possession on December 31, 1988, was credible and plausible, given his client’s way of doing business—always keeping substantial amounts of cash on hand in order to conduct cash transactions as often as possible. He contended that this testimony was more plausible than the calculation of net worth prepared by the Respondent (Appendix A), which shows unquestionably that at the end of each of the taxation years at issue, the Appellant Coulombe had substantial amounts of cash.
+[23] However, I find it difficult to believe the Appellant Coulombe’s testimony and to agree with his counsel’s arguments.
+[24] The Appellant Coulombe’s financial statements as of December 31, 1988, prepared by the accounting firm of Maheu Noiseux and signed by the Appellant Coulombe (Exhibit I-16), show that the Appellant Coulombe had only $653 in cash on that date.
+[25] It should be noted that, oddly enough, the Appellant Coulombe did not raise these points until three weeks before the hearing. The assessments had been made in 1996, and the parties had held a number of negotiation sessions thereafter. Counsel for the parties reached a settlement on January 19, 2003, which the Appellants refused to sign afterwards. At no time during the negotiations leading to this settlement did the Appellant Coulombe’s representatives raise these major points with the Respondent.
+[26] Admittedly, the Appellant Coulombe filed the agreement of purchase for the bulldozer as Exhibit A-66 during the hearing. This agreement shows that the Appellant Coulombe purchased it on March 16, 1987, for approximately $35,000. However, the Appellant Coulombe was unable to file any other supporting documents to corroborate his testimony. He was unable to locate the agreement through which he re-sold the equipment or the cheque issued by the buyer, because the Appellant Coulombe kept few supporting documents, and it was not possible for him to obtain copies of these documents from the buyer, who has since declared bankruptcy.
+[27] Is it possible that the proceeds from the sale of the residence and the bulldozer, assuming that this sale took place and involved the price stated, were used in 1988 to purchase other assets, cover the Appellant Coulombe’s living expenses, or settle debts?
+[28] The Appellant Coulombe was to file evidence showing that, on the balance of probabilities, the Minister was wrong about these points in dispute. The Appellant Coulombe cannot satisfy this obligation by making vague and imprecise assertions that are contradicted by written documents such as financial statements, which he produced himself. Such assertions have significant influence on credibility, which is at the core of this issue. It is difficult to not have serious doubts about the Appellant Coulombe’s assertions where they are not supported by serious documentary evidence or by independent and credible testimony. Ultimately, the Appellant Coulombe is the author of his own misfortune. For these reasons, I conclude that the Appellant Coulombe very likely did not have $185,120 in cash on December 31, 1988.
+Receipt of insurance proceeds following a fire in a commercial building known as Bar Station 88
+[29] Essentially, the Appellant Coulombe claimed that he collected $30,076 in 1989 following a fire in a commercial building he had sold to a third party. The sum of $30,076 represented, according to him, the debt owed to him by this third party at the time of the fire.
+[30] The Appellant Coulombe’s evidence in this matter consisted solely of his testimony. It is my opinion that the testimony he gave when he was examined by his counsel is worthy of note, because it illustrates perfectly the type of assertion that can be qualified as vague and imprecise:
+Q. Maybe the other amount is a little bit more tricky. Here, Bar Station '88, you collect $30,076, could you explain the transaction?
+A. That was the building we bought, me and David Picken?
+Q. Can you recall when exactly you?
+A. '87, I don't know, '87, '88 or whenever, you know. We bought it together and we put it up for sale, we sold it, it was a company, so I mean, the only way you get your money out is shares. The guy I sold it to, it burnt after I don't know a year after, not even that.
+Q. When the building was fired, you were not the owner at that moment?
+A. No, no, no. And when he got the insurance money, what he owed us left, he paid us. Just simple as that, I mean, just... we sell the house, something happened, he paid me.
+Q. And does this amount make sense, $30,000?
+A. That's what it was, yes. The building we sold it for $60,000, a big building, you know, that's not much money for a building. To start a business running, it's just a building.
+[31] This testimony fails to identify the third party buyer, the date of the fire, the nature of the debt the Appellant Coulombe was owed at the time of the fire, and the date the building was purchased and sold.
+[32] The Appellant Coulombe’s testimony was not supported by any documentary evidence whatsoever. In fact, the Appellant Coulombe did not see fit to file the contract through which he acquired this building, to show, at least, that he was the owner, or the contract through which he sold it, to show that he had advanced a loan for the balance of the selling price. He also did not find it necessary to file in evidence the cheque he cashed following the fire, or to support his testimony with other independent, credible testimony. The Appellant Coulombe’s failure to supply evidence, which was in his power to supply, and by which the facts might have been elucidated, constitutes grounds for this Court to infer that the Appellant Coulombe’s evidence would have been unfavourable to him.
+[33] It should also be noted that the Appellant Coulombe’s financial statements as of December 31, 1988 (Exhibit I-16), do not show that he was the owner of the building or that he was owed a debt by the third party buyer.
+[34] Moreover, oddly enough, the Appellant Coulombe did not raise this point until three weeks prior to the hearing, even though the assessments had been made in 1996, and they were the subject of a number of negotiation sessions between the parties.
+[35] The Appellant Coulombe—need I recall—was to present evidence tending to demonstrate that, on the balance of probabilities, the Minister was wrong about the point in dispute. The Appellant Coulombe cannot discharge this onus by making vague and imprecise assertions. It is even more evident that he cannot discharge this onus by making assertions that are contradicted by written documents, such as the financial statements he produced himself. As I stated earlier, it is difficult for me to believe such assertions, where they are not corroborated by serious documentary evidence or by independent, credible testimony.
+[36] For these reasons, I conclude that the Appellant Coulombe did not collect the sum of $30,076 during taxation year 1989.
+Payment of $35,000 in 1993 to Ms. H. Allan
+[37] The evidence shows the following:
+(i) On April 26, 1989, Ms. Allan purchased a building from Mr. Vic Sullivan, who advanced a loan at the time of the sale for the balance of the $70,000 selling price, and who secured the debt with a first mortgage. The interest rate on this debt was 11% and was to be repaid in 60 equal and consecutive monthly instalments of $710.95.
+(ii) On the same day, Mr. Sullivan sold his mortgage claim to the Appellant Coulombe for the sum of $50,000.
+(iii) On May 18, 1993, Ms. Allan sold the building to Mr. Marcel Doucet and Ms. Marguerite Beaudin.
+(iv) On May 18, 1993, the executing notary in the sale issued a cheque for the sum of $82,435.84, payable to Ray Coulombe, in trust for H. Allan.
+(v) On May 26, 1993, the Appellant Wheeler deposited a cheque for the sum of $82,435.84 to account number 7223 at the Caisse populaire de Waterloo (the “account”), held jointly by herself and the Appellant Coulombe.
+(vi) On May 26, 1993, the Appellant Wheeler withdrew $85,000 from the account.
+[38] The Appellant Coulombe maintained that he gave $35,000 in cash to Ms. Allan on May 26, 1993, because he considered that she owed him no more than $50,000. The Appellant Coulombe’s evidence in this matter consisted essentially of his testimony, which is worthy of note, because I feel that it raises more questions than it answers:
+Q. And we have a contract here, A-3 and Miss Allan sold to Doucet and Beaudin. Could you explain to the Court from the beginning?
+A. The beginning, Mr. Sullivan owned it. He wanted to sell it to Mrs. Allan. Actually, he said, "Ray, he says, I sold it for $70,000, he says, just give me 50 and get the hell out of here". You know, I took the first mortgage for $50,000, $50,000 first mortgage, you know, $70,000 but what happened, Your Honour, the place burnt and the insurance didn't pay. So therefore, I was screwed. So I made her build back, I didn't care if she went in debt or what she did, I didn't care, I said you build it back. I helped. And I said we'll sell it. But in the meantime, I had a power of attorney on her. That's the only way I could control her, I mean, I didn't know if she was going to take off or go with the money or what, I didn't know. So I said, "I'm going to take a power of attorney, when you sell it, I'm going to get my money".
+But, when we sold it, Your Honour, all I took was my $50,000. I was so glad to get that, you know what I mean, and the rest I gave to her because she was all right. She worked hard, she didn't mean to have that canteen burn or whatever it was, you know what I mean, and she had to put a lot of money back in. She didn't make nothing either. She had to rebuild it with no insurance. So I said, give me my $50,000, and I took my $50,000 and I gave her the rest and that was it. As simple as that, I can't say no more. Your Honour, what I mean, what can I say, that's exactly what happened. Mr. Sullivan is dead otherwise he could, it don't matter.
+[39] This testimony provides no information about the date of the fire in the building, the date of reconstruction, the amount really owed by Ms. Allan at the time of the sale, or the amount of capital and interest paid to the Appellant Coulombe between April 26, 1989, and May 18, 1993.
+[40] I feel that it would have been interesting to hear the testimony of Ms. Allan, who could have confirmed the Appellant Coulombe’s assertions. I would also have liked to know more about the power of attorney that enabled the Appellant Coulombe to collect the amount of the selling price.
+[41] It should also be noted that, oddly enough, this point was not raised until three weeks prior to the hearing, rather than during earlier negotiations.
+[42] The Appellant Coulombe was to produce evidence tending to show that, on the balance of probabilities, the Minister was wrong about the point in dispute. Thus, I must conclude that the Appellant Coulombe did not discharge this onus. The explanations provided by the Appellant Coulombe are, very simply, unlikely in the circumstances.
+1989 sale of a Caterpillar 225 excavator
+[43] The Appellant Coulombe testified that he sold the excavator at issue to Équipement P. Lacroix Inc. in 1989 for the sum of $35,000. In support of his testimony, he filed in evidence, as Exhibit A-66, the agreement of purchase for this equipment.
+[44] However, the Appellant Coulombe was unable to file any other supporting documents (such as the contract of sale or the cheque issued by the buyer) to corroborate his testimony. No independent, credible witness confirmed the Appellant Coulombe’s assertions in this respect.
+[45] Once again, the December 31, 1988, financial statements (Exhibit I-16) do not show that the Appellant Coulombe was the owner of this excavator.
+[46] Why did the Appellant Coulombe raise this point just three weeks prior to the hearing, rather than during earlier negotiations?
+[47] For these reasons, and given the Appellant Coulombe’s testimony, which was, in my opinion, not very credible, I conclude that the Appellant Coulombe has failed to persuade me that, on the balance of probabilities, the Minister was wrong on this point.
+Cash deposits to account number 7223 at the Caisse populaire de Waterloo
+[48] In his arguments, counsel for the Appellant Coulombe maintained that:
+a) the Appellant Coulombe and the Appellant Wheeler held account number 7223 at the Caisse populaire de Waterloo jointly;
+b) the Appellant Wheeler deposited small amounts ($100, $200, $300, or $400) to the account with the cash that belonged to the Appellant Coulombe; counsel submitted that the total of the amounts deposited to the account were $10,300 in taxation year 1990, $8,350 in 1991, $6,100 in 1992, and $2,900 in 1993;
+c) the amounts deposited were used to cover disbursements and cheques drawn on the account.
+[49] The Appellant Coulombe’s evidence on this point consists essentially in the testimony of the Appellant Wheeler and Mr. Roberge, the Appellants’ accountant. It should be noted that the Appellant Coulombe did not testify in this respect.
+[50] Essentially, the Appellant Wheeler testified that she drew cheques on the account to pay the Appellant Coulombe’s small invoices and that she deposited the sums necessary to cover the cheques to the account containing the Appellant Coulombe’s cash. Her testimony provides no information about the amounts deposited during the periods at issue.
+[51] Mr. Roberge’s testimony provided us with information about the amounts deposited to the account by the Appellant Wheeler. His testimony revealed that he had determined the amounts deposited to the account on the basis of his analysis of the deposits as they appeared in the bank book, without verifying any other supporting documents, that is, without examining whether the deposits could have come from another of the Appellant Coulombe’s bank accounts or whether they might represent cheques deposited, for example.
+[52] Ultimately, the Appellant Coulombe’s assertions rely essentially on the cogency of the testimony of the Appellant Wheeler, his common-law spouse.
+[53] The onus was on the Appellant Coulombe to demonstrate that, on the balance of probabilities, the Minister was wrong on this point. I conclude that he did not satisfy this obligation. The Appellant Wheeler’s testimony simply did not persuade me.
+Loans totalling $50,000 made to the Appellant Wheeler
+[54] The Appellant Wheeler maintained that the Appellant Coulombe had loaned her $30,000 in cash in 1989 and $20,000 in 1993. This is the only evidence provided by the Appellant Wheeler with respect to her assessments for the periods at issue. It should be noted immediately that the loan agreements were not made in writing.
+[55] The Appellant Wheeler’s evidence in support of this point consists solely of her testimony and the testimony of the Appellant Coulombe, a witness that cannot be considered to be independent in this case.
+[56] The Appellant Coulombe’s testimony upon examination by his counsel in this matter is worthy of full citation to illustrate what I consider to be a masterpiece of vague and imprecise assertions:
+Q. Can you recall the loan?
+A. That was a piece of land, I told her, I said, we'll build a house and make you some money. You know what I mean, she has the right to make money, just because she's a woman it doesn't mean she is no good. So, I'm just saying she has the right to make money, so I made the land, she had the land, I said, "I'll lend you the money, we'll build a house and you sell the house". That's what happened, first time, it didn't go through, it was (inaudible), but the second time, it went through. When she sold the house, she paid me back, so she made $20,000. Just like that, there's nothing. I helped her out. She had no money, I could have did it myself, but just the idea, to show her she can be responsible too, I'm not going to be around forever, she's younger than I am, I've got kids, you know.
+Q. You did two different loans for $50,000?
+A. Yes, the other one was for another house.
+Q. And the other one?
+A. It was for another house, that's the house they seized, she never had the chance to get the money back, we sold it, but they seized all the money. So, literally [sic] she still owes me $20,000.
+Q. Presently she owes...
+A. I never got the money. She never got the money, what am I going to do? I mean, she's my wife. But she was supposed to make maybe $10,000 on that.
+[57] The Appellant Wheeler’s testimony upon examination by her counsel and cross-examination by the Respondent’s counsel is also worthy of full citation, for the same reason:
+Q. Mrs. Wheeler, it was said in the testimony of Mr. Coulombe that you received a loan of 30 and $20,000 in 1989 and 1993. Can you explain to the Court what you did exactly with the money?
+HIS HONOUR: Which loans are we talking about, the 31?
+Me ROBERT JODOIN: The first one.
+HIS HONOUR: The $30,000 loan?
+A. I had a piece of land and we discussed doing something together so that I could make a few dollars and I took the money and we built a house which was then sold.
+Me ROBERT JODOIN:
+Q. Can you remember when you sold it?
+A. No, I think he just said, but I'm not sure.
+Q. After 1993?
+A. No, before that, the first one.
+Q. And with the second one?
+A. It's the same idea, it was a property that I bought, I borrowed the money and I haven't been able to pay it back yet. I will.
+Q. You haven't paid, presently it is not paid?
+A. No.
+[...]
+CROSS-EXAMINED BY Me MARTIN GENTILE:
+Q. To go back again to the first house that was built and that you sold, if I understand correctly, it was sold to Mr. Beauregard in the same year it was built or you do not recall?
+A. Honestly, if I had the paper with me I'd tell you.
+Q. This is only the document that Mr. Paquette prepared and obviously in '89 we don't see anything, so this means...
+A. That it was old.
+Q. ... probably it was sold in '89 and then in '90 you took it back from him?
+A. Yes.
+[Translation] HIS HONOUR: In what year was it repossessed?
+Me MARTIN GENTILE: 90.
+I have no further questions, thank you.
+[58] According to these testimonies, it appears that the Appellant Wheeler borrowed $30,000 in 1989, and $20,000 in 1993, and that the loans were used to build two buildings on land that belonged to her.
+[59] However, these testimonies are silent on or vague about a number of matters, namely:
+a) the identity of the buyers;
+b) the situs of the buildings;
+c) the selling price of the buildings and the terms of payment;
+d) the terms of the loans;
+e) the date the loans were repaid, if repayment took place.
+[60] Obviously, the Appellant Wheeler did not submit any supporting documents to corroborate her testimony.
+[61] It should also be noted that this point was not raised until three weeks prior to the hearing, at which time—need I recall—a number of negotiation sessions had been held between the parties, and this point was never raised.
+[62] Considering the lack of credibility of these two witnesses, from my perspective, it is difficult to believe their vague and imprecise testimony, which, may I remind you, was not corroborated by any supporting documents whatsoever, or by independent and credible testimony. It is my opinion that the Appellant Wheeler did not show that, on the balance of probabilities, the Minister was wrong on this point.
+Claim for capital cost allowance regarding capital property
+[63] In his arguments, counsel for the Appellant Coulombe submitted to the Court that evidence was provided, during the hearing, that the assets listed in Exhibit A-93 belonged to the Appellant Coulombe during the years at issue, that the Appellant Coulombe had used them in the operation of his construction and real estate development business, and, consequently, the Appellant Coulombe was entitled to the capital cost allowance.
+[64] Should the depreciation of property be considered in the calculation made by the Respondent on the basis of the net worth method?
+[65] Subsection 152(7) of the Act authorizes the Minister to make an assessment in the absence of a taxpayer’s return or without consideration for the information provided in such a return. This is known as an arbitrary assessment.
+[66] An arbitrary assessment is usually based on the net worth method, which consists in evaluating the increase of a taxpayer's capital (assets less liabilities) during a given period and adding consumption expenditures during that same period. From the result thus obtained, various tax-exempt amounts such as gifts, bequests, gambling winnings, and the non-taxable portion of realized capital gains, as well as any previously reported income, are subtracted. The balance represents the additional income, which is the subject of the 'arbitrary' assessment. This method thus determines the change in net worth between the start and end of a given year.
+[67] The net worth method does not take into account the depreciation of assets. Depreciation is reflected in amortization, and it is an accounting transaction which consists in allocating the cost of an asset over its useful life. From the taxpayer's standpoint, there is no cash outflow. Accordingly, depreciation must not be computed under the net worth method. I must conclude, therefore, that the Minister did not make an error in failing to take into account the depreciation of assets in his document entitled “Calculation of Discrepancy per Net Worth” (Appendix A).
+[68] However, it is my opinion that nothing in the Act prevents the Appellant Coulombe from claiming the capital cost allowance, as long as he can demonstrate that, on the balance of probabilities, he was the owner of the property at issue and that he used it for the purpose of earning business income during the periods at issue.
+[69] The evidence provided by the Appellant Coulombe persuaded me that he was the owner of the property listed in Exhibit A-93 during the periods at issue and that he used this property to earn business income. It is, therefore, my opinion that the Appellant Coulombe is entitled to a capital cost allowance, even though he failed to report the business income earned:
+(i) in 1991, from the property listed for that year in Exhibit A-93: the Case 450C bulldozer, purchased for $53,810, and the Case 580K backhoe, purchased for $61,000;
+(ii) in 1992, from the property listed for that year in Exhibit A-93: the Case 580K backhoe, purchased for $54,000, and the Case 550 bulldozer, purchased for $46,000. The evidence (Exhibit A-64) showed that, on April 22, 1992, the Appellant Coulombe purchased the Case 580K backhoe for $54,000 and the Case 550 bulldozer for $46,000, and that in exchange, in the course of this transaction, he gave the two pieces of equipment listed for 1991 in Exhibit A-93: the Case 450C bulldozer and the Case 580K backhoe;
+(iii) in 1993, from the Case 580K backhoe purchased in 1992, the Case 550 bulldozer purchased in 1992, and the “Inter” truck purchased in 1993 for $12,619.
+Personal expenditures
+[70] The Appellant Coulombe maintained that the expenditures entered at items entitled “J.I. Case,” “Ford Credit,” and “GMAC Finance” in the “Table of Personal Expenditures” from the calculation of net worth made by the Respondent (Appendix A) had been incurred for the purpose of earning income from his businesses, and they were not personal expenditures.
+[71] The Appellant Coulombe testified that these expenditures were linked to the purchase of a bulldozer (Case), an excavator (Case) and a pick-up truck, and that they were used solely in the operation of his various construction and real estate development businesses; they were not for personal use.
+[72] The Appellant Coulombe’s testimony on this fact appeared to me likely and credible. The evidence showed very clearly the nature of the Appellant Coulombe’s activities, and it appears to me likely and probable that this type of equipment was used for the purpose of such activities; in fact, it is difficult for me to conclude otherwise.
+Penalties
+[73] Was the Minister correct in imposing a penalty with respect to the additional income for each of the taxation years at issue, in accordance with subsection 163(2) of the Act?
+[74] In this case, the answer is very simple. It is my opinion that the Minister was correct in imposing a penalty for each of the taxation years at issue, because he showed that the Appellants knowingly made a misrepresentation attributable to wilful default. Let me recall that the Appellant Coulombe reported a mere $813 in income earned from the operation of his numerous businesses during the years at issue, and that the Appellant Wheeler reported only $7,300 in business income during the years at issue. The difference between the income reported and the actual income earned is considerable. The taxpayers kept no accounting records. They kept only very few supporting documents—only the ones that were advantageous to the case at hand. The Appellant Coulombe provided the Minister with statements that only vaguely reflected reality. Obviously, the Appellant Coulombe ensured that the transactions he conducted were carried out in cash as often as possible. The evidence and the general attitude of the Appellants show that they used the perfect plan to remove themselves from the self-assessment system, for which they do not appear to have much respect.
+Time-barred
+[75] On March 21, 1996, was the Minister correct in making reassessments for taxation years 1990 and 1991 for the Appellant Coulombe, and for 1989 and 1990 for the Appellant Wheeler, in accordance with subparagraph 152(4)(a)(i) of the Act?
+[76] This subparagraph stipulates that the Minister may make an assessment after the taxpayer's normal reassessment period if the taxpayer has made any misrepresentation that is attributable to neglect, carelessness or wilful default, and the burden of proof lies with the Minister.
+[77] I have found that, in dealing with the preceding issue, the Minister did discharge the burden of proof placed upon him in these cases with respect to the penalties imposed under subsection 163(2) of the Act. It should be noted that the burden of proof imposed on the Minister with respect to penalties is heavier than that imposed with respect to the time-bar. Based on the preceding, the Appellants clearly made a misrepresentation. It is my opinion, therefore, that the Minister was correct in reassessing the Appellant Coulombe for taxation years 1990 and 1991, and the Appellant Wheeler for taxation years 1989 and 1990.
+Validity of the assessments
+[78] Counsel for the Appellant Coulombe maintained that the Appellants established, through their testimony, the exhibits filed, and the work of Mr. Gilles Roberge, that the Respondent’s calculation of net worth contained so many errors, which the Respondent has acknowledged, that the Appellants may refute the presumption of the validity of the assessments in this matter.
+[79] Counsel for the Appellant Coulombe supported this argument by relying on the decisions rendered in P.W. Lee v. M.N.R., (1953), 9 Tax A.B.C. 70, S. Shlien v. M.N.R., [1988] 1 C.T.C. 2244, Canada v. AKI (N.T.), [1992] 2 C.T.C. 145, and Succession André Leroux v. Deputy Minister of Revenue of Quebec, Court of Quebec, Montréal 500-02-060765-976, April 19, 2002, Gérald Locas J.
+[80] Thus, from the perspective of the Appellant Coulombe’s counsel, the innumerable errors in the work of the Respondent enable him to refute the presumption of validity of the assessments at issue here and to simply have them vacated.
+[81] While the Appellants raise the fact that the parties concluded a settlement agreement to support their assertions whereby the Respondent’s work in determining their income using the net worth method contains countless errors, it is my opinion that this has not been shown. The tax consequences of this settlement agreement were not placed in evidence, nor was the fact that the changes made through the agreement to the document filed as Exhibit A-3 correspond necessarily to errors committed by the investigator in preparing this document. The agreement could contain just as many changes to the Appellants’ benefit as changes to the Respondent’s benefit. Moreover, there is no evidence that all these changes had an impact on net worth, and, consequently, on the Appellants’ undeclared income.
+[82] The Respondent initiated negotiations in good faith and signed the settlement agreement. As with any agreement, this is a series of compromises between the parties for the purpose of avoiding legal action or to limit the duration of such action. This settlement agreement was concluded without any admission regarding the parties’ allegations.
+[83] However, the evidence presented to me on the points disputed during the hearing clearly showed that, throughout the taxation years at issue, the Appellants failed to report substantial amounts of income. It should be noted that the Appellants had reported only small amounts of business income during these years. Not only did they not report all their income, but they kept no accounting books or records that would enable their income for the years at issue to be established.
+[84] I agree fully with Mr. Jean-Pierre Paquette, the investigator in these cases, that the net worth method was the only appropriate method to use in the circumstances. Approximately ten of the points dealing with the net worth established were disputed during the hearing, and my decisions with respect to the vast majority of these points show clearly that these are not errors in the calculation of net worth. I feel that Mr. Paquette’s work was carried out conscientiously, given the circumstances. One criticism made of Mr. Paquette is that he relied on the statements provided by the taxpayer himself. How can anyone have the audacity to criticize him for this fact?
+[85] Ultimately, because no evidence was presented with respect to the countless errors, I see no point in analyzing the decisions made by the Respondent in this case, and I conclude that the assessments made using the net worth method are valid. It is my opinion that, in exercising his discretion, the Minister was entitled to use this method—although it is not a perfect method—to establish the Appellants’ income, because they kept no accounting records. On the other hand, the Appellants were entitled to dispute their assessments, and because these assessments are deemed to be valid, they had to demonstrate that, on the balance of probabilities, the assessments were unsound in law and in fact.
+[86] Based on the circumstances and the evidence presented at the hearing, the Respondent is awarded costs in both cases at issue.
+Signed at Ottawa, Canada, this 27th day of September 2004.
+« Paul Bédard »
+Bédard J.
+REFERENCE:
+2004TCC497
+COURT FILE NUMBER:
+98-2464(IT)G and 98-2153(IT)G
+STYLE OF CAUSE:
+Raymond Coulombe and Her Majesty the Queen and Gail Wheeler and Her Majesty the Queen
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+April 7 and 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Paul Bédard
+DATE OF JUDGMENT:
+September 27, 2004
+APPEARANCES:
+For the Appellants:
+Robert Jodoin
+Mélanie Pelletier
+For the Respondent:
+Martin Gentile
+Annick Provencher
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Robert Jodoin
+Mélanie Pelletier
+Firm:
+Jodoin Huppé
+Granby, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Solicitor General of Canada
+Ottawa, Canada
+APPENDIX A
+RAYMOND COULOMBE
+CALCULATION OF DISCREPANCY PER NET WORTH TABLE I
+1989
+1990
+1991
+1992
+1993
+---------------
+---------------
+---------------
+---------------
+------------------
+Net Worth at the end of the year
+(see Table II)
+Less:
+$574,825.00
+$727,552.00
+$845,187.00
+$962,965.00
+$1,035,000.00
+Net Worth at the beginning of the year
+(see Table II)
+446,630.00
+---------------
+574,825.00
+---------------
+727,552.00
+---------------
+845,187.00
+---------------
+962,965.00
+------------------
+Increase (decrease) in Net Worth
+$128,195.00
+$152,727.00
+$117,635.00
+$117,778.00
+$72,035.00
+---------------
+---------------
+---------------
+---------------
+------------------
+ADJUSTMENTS
+----------------------
+ADD:
+------
+Personal expenditures (see Table EXP)
+$24,843.00
+$19,670.00
+$45, 097.00
+$41,667.00
+$61,138.00
+Loss on personal use property
+.00
+.00
+.00
+.00
+20,000.00
+Gross up dividends
+1,250.00
+.00
+.00
+.00
+.00
+Income taxes – M. Coulombe
+.00
+350.00
+.00
+800.00
+7,451.00
+Control
+13,509.00
+---------------
+---------------
+---------------
+---------------
+------------------
+Subtotal
+39,602.00
+20,020.00
+45,097.00
+42,467.00
+88,589.00
+---------------
+---------------
+---------------
+---------------
+------------------
+DEDUCT:
+------------
+Insurance
+.00
+52,000.00
+.00
+.00
+.00
+Taxable gains
+.00
+.00
+.00
+.00
+.00
+Heritage
+148,000.00
+.00
+.00
+.00
+.00
+---------------
+---------------
+---------------
+---------------
+------------------
+Subtotal
+$148,000.00
+$52,000.00
+$.00
+$.00
+$.00
+---------------
+---------------
+---------------
+---------------
+------------------
+TOTAL INCOME PER NET WORTH
+$19,797.00
+$120,747.00
+$162,732.00
+$160,245.00
+$160,624.00
+TOTAL INCOME REPORTED
+19,797.00
+21,477.00
+31,088.00
+103,847.00
+41,615.00
+---------------
+---------------
+---------------
+---------------
+------------------
+DISCREPANCY PER NET WORTH
+$.00
+$99,270.00
+$131,644.00
+$56,398.00
+$119,009.00
+STATEMENT OF ASSETS AND LIABILITIES TABLE II
+31/12/88
+31/12/89
+31/12/90
+31/12/91
+31/12/92
+31/12/93
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+ASSETS
+-----------
+CURRENT ASSETS
+---------------------------
+Cash on hand
+$.00
+$87,704.00
+$34,053.00
+$110,983.00
+$63,987.00
+$186,601.00
+Caisse Populaire (see Table CAI)
+653.00
+2,490.00
+3,152.00
+3,961.00
+3,894.00
+21,897.00
+Bank (see Table CAI)
+.00
+.00
+.00
+.00
+420.00
+446.00
+Accounts receivable (see Table AR)
+.00
+.00
+.00
+.00
+.00
+.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+Total current assets
+$653.00
+$90,194.00
+$37,205.00
+$114,944.00
+$68,301.00
+$208,944.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+INVESTMENTS (see Table INVT)
+$310,681.00
+$255,212.00
+$391,913.00
+$425,309.00
+$561,484.00
+$394,342.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+FIXED ASSETS (see Table FXD)
+135,296.00
+$267,934.00
+$298,434.00
+$304,934.00
+$333,180.00
+$496,846.00
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+TOTAL ASSETS
+$446,630.00
+$613,340.00
+$727,552.00
+$845,187.00
+$962,965.00
+$1,100,132.00
+LIABILITIES
+-------------------
+CURRENT LIABILITIES
+Accounts payable (see Table AP)
+$.00
+$.00
+$.00
+$.00
+$.00
+$.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+Total current liabilities
+$.00
+$.00
+$.00
+$.00
+$.00
+$.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+LONG TERM LIABILITIES
+------------------
+Bank loan (see
+Table LOAN)
+$.00
+$.00
+$.00
+$.00
+$.00
+$.00
+Mortgages (see
+Table LOAN)
+.00
+38,515.00
+.00
+.00
+.00
+65,132.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+Subtotal
+$.00
+$38,515.00
+$.00
+$.00
+$.00
+$65,132.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+Total liabilities
+$.00
+$38,515.00
+$.00
+$.00
+$.00
+$65,132.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+NET WORTH
+$446,630.00
+$574,825.00
+$727,552.00
+$845,187.00
+$962,965.00
+$1,035,000.00
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+TOTAL LIABILITIES AND NET WORTH
+$446,630.00
+$613,340.00
+$727,552.00
+$845,187.00
+$962,965.00
+$1,100,132.00
+TABLE CAI
+31/12/88
+31/12/89
+31/12/90
+31/12/91
+31/12/92
+31/12/93
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+CAISSE POPULAIRE
+------------------------
+Caisse Pop. Waterloo folio 7223 R.C.
+652.00
+494.00
+659.00
+376.00
+39.00
+57.00
+Caisse Pop. Waterloo folio 24169 R.C.
+$.00
+$.00
+$.00
+$.00
+$.00
+$17,860.00
+Caisse Pop. Waterloo folio 18160 R.C.
+1.00
+1,304.00
+1,577.00
+1,696.00
+1,914.00
+1,956.00
+Caisse Pop. Waterloo folio 21070 G.W.
+.00
+692.00
+916.00
+1,021.00
+1,246.00
+1,348.00
+Caisse Pop. Waterloo folio 22252 G.W.
+.00
+.00
+.00
+868.00
+35.00
+12.00
+Caisse Pop. Waterloo folio 23241 G.W.
+.00
+.00
+.00
+.00
+660.00
+664.00
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+TOTAL
+$653.00
+$2,490.00
+$3,152.00
+$3,961.00
+$3,894.00
+$21,897.00
+BANK
+---------
+Montreal Bank Waterloo folio 8021-903
+$.00
+$.00
+$.00
+$.00
+$420.00
+$446.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+TOTAL
+.00
+.00
+.00
+.00
+$420.00
+$446.00
+TABLE INVT
+------------------
+31/12/88
+31/12/89
+31/12/90
+31/12/91
+31/12/92
+31/12/93
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+INVESTMENTS
+--------------------
+200 common shares, 2173-4504 Qc Inc
+$200.00
+$200.00
+$200.00
+$200.00
+$.00
+$.00
+Common shares, Bar station 88 Inc
+$7,010.00
+$15,010.00
+$15,010.00
+$15,010.00
+$15,010.00
+$15,010.00
+Advance to 2173‑4504 Qc Inc
+173,591.00
+47,608.00
+38,632.00
+20,192.00
+.00
+.00
+Les Ponceaux by l'Estrie
+.00
+.00
+.00
+.00
+.00
+28,764.00
+3092-2868 Qc Inc
+.00
+.00
+.00
+.00
+.00
+1.00
+Receivables notes
+Aeos Plante lot 33
+.00
+26,292.00
+26,292.00
+26,292.00
+.00
+.00
+Larry Coulombe
+re 197-1
+40,000.00
+40,000.00
+.00
+.00
+.00
+.00
+Michael Coulombe (transfer by Sullivan)
+10,000.00
+.00
+.00
+.00
+.00
+.00
+Francis Health
+re 197 Des Erables
+.00
+.00
+45,000.00
+43,989.00
+.00
+.00
+Geraldine Smith
+re 197 Des Erables
+.00
+.00
+.00
+.00
+42,092.00
+.00
+Helene Sauve
+re lot 1078-5
+.00
+.00
+.00
+25,000.00
+.00
+Allan Heater
+.00
+50,000.00
+50,000.00
+50,000.00
+50,000.00
+.00
+David Picken
+79,880.00
+76,102.00
+71,897.00
+67,216.00
+62,006.00
+.00
+B. Locke
+.00
+.00
+20,901.00
+18,802.00
+16,400.00
+13,649.00
+Dev. Bord du Lac
+.00
+.00
+64,091.00
+60,437.00
+56,313.00
+.00
+Joyce Powers
+.00
+.00
+59,890.00
+58,471.00
+56,858.00
+56,858.00
+Denis Boulet
+re 101 Rue Tyler
+.00
+.00
+.00
+.00
+.00
+65,608.00
+Timothy Benoit
+re 103 Rue Lafleur
+.00
+.00
+.00
+.00
+70,264.00
+69,042.00
+Roberge and Paraleg
+.00
+.00
+.00
+64,700.00
+62,783.00
+.00
+3092-2868 Qc Inc
+.00
+.00
+.00
+.00
+.00
+40,000.00
+C.A. Rodgers
+re 2173-5484 Qc Inc
+.00
+.00
+.00
+.00
+71,985.00
+67,390.00
+C.A. Rodgers
+.00
+.00
+.00
+.00
+32,773.00
+30,681.00
+Therese Georget
+.00
+.00
+.00
+.00
+.00
+7,339.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+310,681.00
+255,212.00
+391,913.00
+425,309.00
+561,484.00
+394,342.00
+TABLE FXD
+----------------
+31/12/88
+31/12/89
+31/12/90
+31/12/91
+31/12/92
+31/12/93
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+FIXED ASSETS
+--------------------
+Properties:
+Ptie Lot 1040 Brome
+.00
+10,000.00
+10,000.00
+.00
+.00
+.00
+Lot Stanstead
+800.00
+800.00
+800.00
+800.00
+800.00
+800.00
+Lot Knowlton
+.00
+10,000.00
+10,000.00
+10,000.00
+10,000.00
+10,000.00
+Ptie Lot 1126 et 1127 (Gibbs)
+25,000.00
+20,000.00
+20,000.00
+20,000.00
+20,000.00
+20,000.00
+Ptie lot 68-1 Stukely
+2,500.00
+2,500.00
+2,500.00
+.00
+.00
+.00
+Ptie du lot 39 et 83
+2,176.00
+.00
+.00
+.00
+.00
+.00
+Lot 659
+Canton Shefford
+.00
+.00
+.00
+.00
+.00
+90,650.00
+Lot 33 Stukely
+.00
+5,000.00
+5,000.00
+5,000.00
+5,000.00
+5,000.00
+Lot 195-2
+re 2179 Rte 112 Stukely
+.00
+.00
+.00
+.00
+3,000.00
+48,000.00
+Lot 177-33 (S. Vallieres)
+4,000.00
+4,000.00
+4,000.00
+4,000.00
+4,000.00
+.00
+Ptie lot 177-33 (S. Vallieres)
+3,000.00
+3,000.00
+3,000.00
+3,000.00
+3,000.00
+3,000.00
+Lot 195-2
+.00
+.00
+.00
+.00
+.00
+49,000.00
+Ptie lot 177-3
+200.00
+200.00
+200.00
+200.00
+200.00
+200.00
+Lot 197-1-3 Stukely
+3,000.00
+3,000.00
+3,000.00
+3,000.00
+3,000.00
+3,000.00
+Building 2166 Rte 112 Stukely
+.00
+.00
+.00
+.00
+.00
+55,000.00
+398 Rue Diligence
+.00
+35,754.00
+35,754.00
+35,754.00
+.00
+.00
+Ptie du lot 199 (Crennel)
+44,120.00
+44,120.00
+44,120.00
+44,120.00
+44,120.00
+44,120.00
+Ptie du lot 199 (Maomi)
+.00
+20,060.00
+20,060.00
+20,060.00
+20,060.00
+19,457.00
+Lot 199-3 100 rue Tyler
+.00
+.00
+.00
+.00
+62,000.00
+62,000.00
+Lot 199-8 101 rue Tyler
+.00
+.00
+.00
+.00
+64,000.00
+Bulding Garage
+35,000.00
+35,000.00
+35,000.00
+35,000.00
+.00
+.00
+Residence Farm
+.00
+31,000.00
+31,000.00
+50,000.00
+50,000.00
+50,000.00
+Equipment Farm
+.00
+.00
+30,000.00
+30,000.00
+.00
+.00
+Fixed assets
+Equipment and tools
+2,500.00
+7,500.00
+8,000.00
+8,000.00
+8,000.00
+8,000.00
+Vehicle
+13,000.00
+20,000.00
+20,000.00
+20,000.00
+20,000.00
+.00
+Barn
+.00
+16,000.00
+16,000.00
+16,000.00
+16,000.00
+16,000.00
+Truck inter
+.00
+.00
+.00
+.00
+.00
+12,619.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+Total fixed assets
+$135,296.00
+$267,934.00
+$298,434.00
+$304,934.00
+$333,180.00
+$496,846.00
+TABLE OF PERSONAL EXPENDITURES TABLE EXP
+-------------------------------------------------------
+1989
+1990
+1991
+1992
+1993
+---------------
+---------------
+---------------
+---------------
+------------------
+Food
+5,000.00
+5,500.00
+6,000.00
+6,500.00
+7,000.00
+Clothing
+Education
+Rent
+Household operation
+Travel & entertainment
+Medication
+Automobile
+Ford Credit
+2,784.00
+1,865.00
+.00
+.00
+.00
+G.M.A.C. Finance
+.00
+.00
+.00
+.00
+2,271.00
+J.I. Case
+2,869.00
+3,129.00
+3,129.00
+5,243.00
+3,000.00
+Residence
+Taxes
+.00
+1,054.00
+372.00
+1,611.00
+3,151.00
+Insurance
+.00
+524.00
+1,044.00
+1,208.00
+1,610.00
+Mortgage Interest
+3,845.00
+1,724.00
+.00
+.00
+4,886.00
+Telephone
+Insurance life
+4,212.00
+1,513.00
+1,770.00
+3,478.00
+4,904.00
+Bank Fees
+153.00
+56.00
+86.00
+101.00
+535.00
+Welfare refunds
+1,100.00
+330.00
+Visa credit
+.00
+413.00
+.00
+.00
+.00
+Alimony
+1,100.00
+.00
+13,000.00
+16,000.00
+20,000.00
+Legal fees
+.00
+500.00
+4,299.00
+718.00
+3,590.00
+Unclassified expenses paid by checks
+3,780.00
+3,062.00
+2,283.00
+4,295.00
+8,927.00
+Unexplained withdrawals (checks)
+.00
+.00
+13,114.00
+2,513.00
+464.00
+---------------
+---------------
+---------------
+---------------
+------------------
+Total
+$24,843.00
+$19,670.00
+$45,097.00
+$41,667.00
+$61,138.00
+Table LOAN
+----------------
+31/12/88
+31/12/89
+31/12/90
+31/12/91
+31/12/92
+31/12/93
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+BANK LOANS
+--------------------
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+Total
+$.00
+$.00
+$.00
+$.00
+$.00
+$.00
+MORTGAGES
+-------------------
+Caisse Pop. Waterloo
+.00
+38,515.00
+.00
+.00
+.00
+65,132.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+$.00
+$38,515.00
+$.00
+$.00
+$.00
+$65,132.00
+ANNEXE B
+GAIL WHEELER
+STATEMENT OF ASSETS AND LIABILITIES
+31/12/88
+31/12/89
+31/12/90
+31/12/91
+31/12/92
+31/12/93
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+ASSETS
+-----------
+CURRENT ASSETS
+---------------------------
+Cash on hand
+$.00
+$.00
+$.00
+$45,645.00
+$.00
+$355.00
+Caisse Populaire
+.00
+.00
+.00
+.00
+.00
+.00
+Bank
+56.00
+56.00
+113.00
+6,,182.00
+56.00
+44.00
+Accounts receivable
+.00
+.00
+.00
+.00
+.00
+.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+Total current assets
+$56.00
+$56.00
+$113.00
+$51,827.00
+$56.00
+$399.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+INVESTMENTS
+$.00
+$40,000.00
+$45,000.00
+$.00
+$84,223.00
+$96,968.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+FIXED ASSETS
+$.00
+$.00
+$.00
+$.00
+$.00
+$.00
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+TOTAL ASSETS
+$56.00
+$40,056.00
+$45,113.00
+$51,827.00
+$84,279.00
+$97,367.00
+LIABILITIES
+-------------------
+CURRENT LIABILITIES
+Accounts payable
+$.00
+$.00
+$.00
+$.00
+$.00
+$.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+Total current liabilities
+$.00
+$.00
+$.00
+$.00
+$.00
+$.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+LONG TERM LIABILITIES
+------------------
+Bank loan
+$.00
+$.00
+$.00
+$.00
+$.00
+$.00
+Mortgages
+.00
+.00
+.00
+.00
+.00
+.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+Subtotal
+$.00
+$.00
+$.00
+$.00
+$.00
+$.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+Total liabilities
+$.00
+$.00
+$.00
+$.00
+$.00
+$.00
+---------------
+----------------
+---------------
+---------------
+---------------
+------------------
+NET WORTH
+$56.00
+$40,056.00
+$45,113.00
+$51,827.00
+$84,279.00
+$97,367.00
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+TOTAL LIABILITIES AND NET WORTH
+$56.00
+$40,056.00
+$45,113.00
+$51,827.00
+$84,279.00
+$97,367.00
+31/12/88
+31/12/89
+31/12/90
+31/12/91
+31/12/92
+31/12/93
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+CAISSE POPULAIRE
+------------------------
+BANK
+---------
+Imperial Bank
+56.00
+56.00
+113.00
+6,182.00
+56.00
+44.00
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+Total
+$56.00
+$56.00
+113.00
+6,182.00
+$56.00
+$44.00
+31/12/88
+31/12/89
+31/12/90
+31/12/91
+31/12/92
+31/12/93
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+INVESTMENTS
+-----------------
+Lot 178
+.00
+.00
+.00
+.00
+24,000.00
+24,000.00
+581 Des Carrieres
+.00
+.00
+45,000.00
+.00
+.00
+.00
+35 Des Erables
+.00
+.00
+.00
+.00
+50,150.00
+.00
+67 Rue Picard, Shefford
+.00
+.00
+.00
+.00
+.00
+60,350.00
+Fixed assets
+.00
+.00
+.00
+.00
+10,073.00
+12,618.00
+Receivables notes
+$.00
+$40,000.00
+$.00
+$.00
+$.00
+$.00
+Re: 581 Chemin des Carrières
+---------------
+---------------
+---------------
+---------------
+---------------
+------------------
+$.00
+40,000.00
+45,000.00
+.00
+84,223.00
+96,968.00
+CALCULATION OF DISCREPANCY PER NET WORTH
+1989
+1990
+1991
+1992
+1993
+---------------
+---------------
+---------------
+---------------
+------------------
+Net Worth at the end of the year
+Less:
+$40,056.00
+$45,113.00
+$51,827.00
+$84,279.00
+$97,367.00
+Net Worth at the beginning of the year
+56.00
+40,056.00
+45,113.00
+51,827.00
+84,279.00
+---------------
+---------------
+---------------
+---------------
+------------------
+Increase (decrease) in Net Worth
+$40,000.00
+$5,057.00
+$6,714.00
+$32,452.00
+$13,088.00
+---------------
+---------------
+---------------
+---------------
+------------------
+ADJUSTMENTS
+----------------------
+ADD:
+------
+Personal expenditures
+$7,274.00
+$8,582.00
+$7,477.00
+$7,523.00
+$7,523.00
+Income taxes – Mrs. Gail Wheeler
+.00
+.00
+271.00
+.00
+189.00
+---------------
+---------------
+---------------
+---------------
+------------------
+Subtotal
+7,274.00
+8,582.00
+7,748.00
+7,523.00
+7,712.00
+---------------
+---------------
+---------------
+---------------
+------------------
+DEDUCT:
+------------
+Income Tax refund G. Wheeler
+508.00
+411.00
+.00
+1,224.00
+.00
+---------------
+---------------
+---------------
+---------------
+------------------
+Subtotal
+$508.00
+$411.00
+$.00
+$1,224.00
+$.00
+---------------
+---------------
+---------------
+---------------
+------------------
+TOTAL INCOME PER NET WORTH
+$46,766.00
+$13,228.00
+$14,462.00
+$38,751.00
+$20,800.00
+TOTAL INCOME REPORTED
+506.00
+7,697.00
+14,462.00
+16,666.00
+20,800.00
+---------------
+---------------
+---------------
+---------------
+------------------
+DISCREPANCY PER NET WORTH
+$46,260.00
+$5,531.00
+$.00
+$22,085.00
+$.00
+TABLE OF PERSONAL EXPENDITURES TABLE EXP
+------------------------------------------------------- -----------------
+1989
+1990
+1991
+1992
+1993
+---------------
+---------------
+---------------
+---------------
+------------------
+Food
+3,022.00
+3,566.00
+3,117.00
+3,107.00
+3,107.00
+Clothing
+1,142.00
+1,347.00
+1,253.00
+1,259.00
+1,259.00
+Education
+Rent
+Household operation
+911.00
+1,074.00
+911.00
+922.00
+922.00
+Travel & entertainment
+Medication
+Automobile
+2,199.00
+2,595.00
+2,196.00
+2,235.00
+2,235.00
+Residence
+Taxes
+Insurance
+Mortgage interest
+Telephone
+---------------
+---------------
+---------------
+---------------
+------------------
+Total
+$7,274.00
+$8,582.00
+$7,477.00
+$7,523.00
+$7,523.00
+APPENDIX C
+Department of Justice Ministère by la Justice
+Canada Canada
+Quebec Regional Office
+Complexe Guy-Favreau
+200 René-Lévesque Blvd. West
+East Tower, 9th Floor
+Montréal, Quebec H2Z 1X4
+Telephone: (514) 283-0583
+Fax: (514) 283-3103
+Assistant: (514) 283-4268
+BY FAX May 20, 2004
+The Honourable Paul Bédard, J.T.C.C.
+Tax Court of Canada
+200 Kent Street
+Ottawa, Ontario
+K1A OM1
+SUBJECT: Raymond Coulombe v. Her Majesty the Queen
+T.C.C. No.: 98-2464(IT)G/Our file: 3-155948
+Dear Mr. Justice Bédard,
+As agreed during the hearing in the above-noted case, which took place last April 7 and 8 in Sherbrooke, the parties submit the points at issue that have been settled out of Court for your consideration in rendering your decision in this matter.
+Sincerely,
+MORRIS ROSENBERG
+Deputy Solicitor General of Canada
+ANNICK PROVENCHER BY: ______________________
+for MARTIN GENTILE Me MARTIN GENTILE
+JODOIN, HUPPÉ
+Counsel for the Appellants
+BY: _______________________
+Mélanie Pelletier
+_______________________
+Mr. Raymond Coulombe
+MG/dl
+Encl.
+1. McIntosh / Lot 68-1 / Stukely
+- Add $2,500 to application in 1988.
+2. QPP
+- Add $4,701 to source in 1988.
+__________________________
+3. QPP
+- Add $5,077 to source in 1989.
+4. Vie Sullivan
+- Add $5,754 to source in 1989.
+5. Lot 581 des Carrières and Jean Beauregard
+- Remove $40,000 from application in 1989.
+6. Residence Farm, Route 112
+- Add $23, 000 to application in 1989.
+- Add new $23,000 asset in 1989 for the entire period.
+7. Alimony
+- Increase application in 1989, $1,100.
+8. Food
+- Increase application by $5,000 in 1989.
+__________________________
+9. Lot 581 des Carrières and Jean Beauregard
+- Remove $40,000 from source in 1990.
+10. QPP
+- Add $5,483 to source in 1990.
+11. Entry or addition error
+- Remove $40,200 from source in 1990.
+12. 2173-4604 Québec Inc.
+- Remove $9,464 from source in 1990.
+13. Insurance Cheque
+- “Insurance” item in net worth adjustments in Table I should be $50,000 rather than $52,000 in 1990.
+- Reduce source by $2,000 in 1990.
+14. Case model 580 K
+- Reduce application by $5,450 in 1990.
+15. McIntosh / lot 68-1
+- Add $5,000 to source in 1990.
+16. F. Health to Geraldine Smith
+- Increase source by $50,000 in 1990.
+- Remove $40,000 from source in 1990.
+- Increase application by $5,000 in 1990.
+17. C.P. Waterloo loan
+- Increase application by $38,515 in 1990.
+18. Food
+- Increase application by $5,500 in 1990.
+__________________________
+19. McIntosh / Lot 68-1
+- Remove $5,000 from source in 1991.
+20. Partie Lot 39 & 83
+- Remove $70,000 from source in 1991.
+21. Interest Revenue
+- Reduce source by $2,880 in 1991.
+22. Renovation Residence
+- Increase application by $19,000 in 1991.
+23. Alimony
+- Increase application by $13,000 in 1991.
+24. Food
+- Increase application by $6,000 in 1991.
+25. QPP
+- Increase source by $5,922 in 1991.
+- Decrease personal expenditures by $5,000 in 1991.
+__________________________
+26. Interest Revenue
+- Decrease source by $5,642 in 1992.
+27 QPP
+- Increase source by $5,674 in 1992.
+28. 2173-4504
+- Decrease source by $55,000 in 1992.
+- Decrease source by $54,000 in 1992.
+- Decrease source by $35,100 in 1992.
+- Add $800 to source in 1992.
+- Add $7,666 to source in 1992.
+- Add accounts receivable:
+1) $32,773 in 1992.
+1) $71,985 in 1992.
+- “investments” add $29,349 in 1992.
+29. Rent Income
+- Add $2,400 to source in 1992.
+30. Business Income
+- Add $1,644 to source in 1992.
+31. 2162 Rte 112
+- Add $68,000 to source in 1992.
+32. Carol Ann Rodgers (shares)
+- Add $2,327 to source in 1992.
+33. Sale to T. Benoit
+- Increase source by $236 in 1992.
+34. Case Bull 550
+- Increase application by $23,112 in 1992.
+35. 178 des Loyalistes
+- Remove $24,000 from application in 1992.
+36. F. Heath to G. Smith
+- Remove $42,092 from application in 1992.
+37. Alimony
+- Increase application by $16,000 in 1992.
+38. Food
+- Increase application by $6,500 in 1992.
+- Decrease personal expenditures by $463.92 in 1992.
+__________________________
+39. Business Income
+- Add $813 to source in 1993.
+40. QPP
+- Add $3,072 to source in 1993.
+41. Advance 2173 – 4504
+- Add $29,349 to source in 1993.
+42. Choinière
+- Remove $4,886 from personal expenditures in 1993, “ mortgage interest” Table EXP, net worth.
+- Remove $67,000 from source in 1993.
+- Remove $90,650 from application in 1993.
+- Remove $90,650 from assets, Lot 659 Canton Shefford (fixed assets) in 1993.
+- Remove $65,132 from liabilities, Table II “Mortgages” in 1993.
+43. Ray Mali
+- Remove $18,099 and $17,500 from source in 1993.
+44. Interest Revenue
+- Add $31,587 to source in 1993.
+45. Vehicle 1989 truck
+- Add $5,000 to source in 1993.
+46. Allen, Heather (reimbursement Insurance)
+- Remove $2,565 from source in 1993.
+47. S. Vallières, chemin Dubois
+- Remove $3,000 from application in 1993.
+- Reduce asset value by $3,000 in Fixed Assets table, “505 Dubois” in 1993.
+48. Truck Inter.
+- Increase application by $12,619 in 1993.
+49. 2166 Rte 112
+- Remove $55,000 from application in 1993.
+- Remove $55,000 from Fixed Assets table, item “Building 2166” in 1993.
+50. Alimony
+- Increase application by $20,800 in 1993.
+51. Food
+- Increase application by $7,000 in 1993.
+52. Loss / Profit sale of assets
+- Add $29,210 to adjustments, Table I, in 1993.
+53. Caisse
+- Remove $17,860 from “account 24169” in Table CAI, net worth, in 1993.
+- Decrease personal expenditures by $550.74 in 1993.

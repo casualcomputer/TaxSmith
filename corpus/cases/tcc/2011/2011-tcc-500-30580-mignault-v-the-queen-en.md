@@ -1,0 +1,302 @@
+---
+title: "Mignault v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30580/index.do"
+last_modified: "2011-11-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 500"
+citation2: ""
+neutral_citation: "2011 TCC 500"
+decision_date: "2011-11-03"
+language: "en"
+item_id: "30580"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7167
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:10:15.667000+00:00"
+cases_cited_count: 8
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "473202c7a6c6c551a64f7c1dcaeb898162940e736b05356c0f7b7d6bc1d652df"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mignault v. The Queen
+
+- Citation: 2011 TCC 500
+- Decision date: 2011-11-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7167, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mignault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-03
+Neutral citation
+2011 TCC 500
+File numbers
+2008-4073(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-4073(IT)I
+BETWEEN:
+MICHEL J. MIGNAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 9, 2011 at Winnipeg, Manitoba
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Michael J. Weinstein
+Counsel for the Respondent:
+Rosanna Slipperjack-Farrell
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal in relation to the reassessment of his liability under the Income Tax Act for 2005 is dismissed without costs.
+Signed at Halifax, Nova Scotia, this 3rd day of November 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC500
+Date: 20111103
+Docket: 2008-4073(IT)I
+BETWEEN:
+MICHEL MIGNAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant was reassessed for 2005 to include $12,500 in his income as an amount that the Appellant had received from his RRSP and also to assess a penalty pursuant to subsection 163(1) of the Income Tax Act (the “Act”). The appellant was the victim of fraud committed by his former financial advisor (Gary Palmer) for which the advisor was sentenced to serve a term in prison. It would appear that the fraud was perpetrated over several years and in each case the methodology was the same. The methodology was described in detail for the year in question, 2005.
+[2] The financial advisor prepared a form for the Appellant to sign under which the Appellant would withdraw a net amount from his RRSP account with The Great West Life Assurance Company. For 2005 the net amount was $10,000. After the form was signed the financial advisor altered the form to add an address to which the cheque should be sent. It would appear that the financial advisor received the cheque and then met with the Appellant. The Appellant deposited the cheque in his account at the credit union and then requested a certified cheque drawn on the same account in the same amount that was deposited. The certified cheque was payable to a company controlled by the financial advisor. It would appear that was the last time that the Appellant saw those funds.
+[3] Based on the forms submitted by the Respondent during the hearing, it appears that the following were the amounts that the Appellant withdrew from his RRSP as part of the same scheme:
+Taxation Year
+Gross Amount Withdrawn
+Income Tax Deducted
+Net Amount Withdrawn
+2000
+$42,857
+$12,857
+$30,000
+2001
+$71,429
+$21,429
+$50,000
+2002
+$161,134
+$48,340
+$112,794
+2005
+$12,500
+$2,500
+$10,000
+$287,920
+$85,126
+$202,794
+[4] Paragraph 56(1)(h) of the Act provides that:
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+…
+(h) amounts required by section 146 in respect of a registered retirement savings plan or a registered retirement income fund to be included in computing the taxpayer's income for the year;
+[5] Subsection 146(8) of the Act provides that:
+(8) There shall be included in computing a taxpayer's income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer's income.
+[6] “Benefit” is defined in subsection 146(1) of the Act as follows:
+“benefit” includes any amount received out of or under a retirement savings plan other than
+(a) the portion thereof received by a person other than the annuitant that can reasonably be regarded as part of the amount included in computing the income of an annuitant by virtue of subsections (8.8) and (8.9),
+(b) an amount received by the person with whom the annuitant has the contract or arrangement described in the definition “retirement savings plan” in this subsection as a premium under the plan,
+(c) an amount, or part thereof, received in respect of the income of the trust under the plan for a taxation year for which the trust was not exempt from tax by virtue of paragraph (4)(c), and
+(c.1) a tax-paid amount described in paragraph (b) of the definition “tax-paid amount” in this subsection that relates to interest or another amount included in computing income otherwise than because of this section
+and without restricting the generality of the foregoing includes any amount paid to an annuitant under the plan
+(d) in accordance with the terms of the plan,
+(e) resulting from an amendment to or modification of the plan, or
+(f) resulting from the termination of the plan;
+[7] As a result if an individual receives an amount from his or her RRSP (other than an excluded withdrawal in relation to the Home Buyers’ Plan or the Lifelong Learning Plan) or an amount that is included in income under paragraph 12(b) of the Act, the amount is to be included in the income of that individual. For 2005 there are two separate amounts – the $10,000 that the Appellant flowed through his bank account to Gary Palmer’s company and the $2,500 that was remitted by The Great West Life Assurance Company to the Canada Revenue Agency on account of the Appellant’s tax liability. The Appellant argued that he did not receive either amount.
+[8] With respect to the $2,500 amount that was deducted for income taxes and remitted to the Canada Revenue Agency, it is clear that the Appellant would have received this amount for the purposes of the Act. In Morin v. The Queen, 75 DTC 5061 (FC-TD), the taxpayer made a similar argument in relation to amounts that had been withheld from his salary for provincial income tax. The taxpayer’s appeal was dismissed and Justice Lacroix stated that:
+In the case at bar the provincial and federal statutes state that income tax is payable on the salary, wages or remuneration that an employee receives during a taxation year. In this case the plaintiff was recorded in his employer's books as being entitled to a salary of $16,268.84. He contends that since the government deducted the amount of tax, he did not receive his full salary, given the fact that the amount of the tax was deducted at source. In other words, the plaintiff puts forward as a proposition of law that in order to receive his salary in the legal sense, he must actually touch or feel it, or have it in his bank account.
+We regret to say that this proposition seems to us absolutely inadmissible, because the word 'receive' obviously means to get or to derive benefit from something, to enjoy its advantages without necessarily having it in one's hands. In other words, the plaintiff can, and must, say, 'what is left of my salary or income, after taxes, is $14,639.85'; it is not correct to say 'My income is only $14,639.85'.
+[9] In The Queen v. Hoffman, 85 DTC 5508, Justice Rouleau of the Federal Court, Trial Division, stated as follows:
+14 If the proposition that income must be in the actual possession of the employee before it can be taxed is correct, then I would have to conclude that an employee's contributions to Canadian or provincial pension plans, deducted at source by the employer, are not income in the hands of the employee. Jurisprudence does not support this proposition.
+15 In Lucien Gingras v. MNR [unreported decision dated March 26, 1973] the Tax Review Board noted (at page 4):
+[Translation]
+The expression “touché” (received) does not necessarily mean that the full amount of the salary must be physically received by the payee or be deposited in full in his bank account.
+According to the interpretation of s. 5 it is sufficient to say that the amount of the salary was paid by the employer either to the employee himself or to his benefit, or that it was handed over to a third party under a federal or provincial statute.
+16 The fact that defendant's employer deducted at source employee's social security contributions in the 1978 and 1979 taxation years does not support the proposition that he received income net of the withheld amounts. The amounts deducted and forwarded were for his eventual benefit.
+[10] Clearly the $2,500 that was remitted by The Great West Life Assurance Company as income tax payable by the Appellant, was received by the Appellant for the purposes of the Act and should have been included in his income for 2005.
+[11] The Appellant also submitted that he did not know that this extra amount of $2,500 was being withdrawn. As part of the re-direct examination of the Appellant by his lawyer, the following exchange took place:
+Q Thank you. I would like also to refer to another exhibit marked A-3.
+…
+Now you told the Court that certain portions of this were not on this letter. This is not, in fact, a true reflection of the letter that you signed, but the portion that was there included the words,
+"I wish to withdraw $10,000.00 net from my account. Please issue a cheque payable to me in the amount of $10,000.00. [And] Any appropriate charges should be debited to the account",
+is that correct?
+A Yes.
+Q Did you understand that -- other than perhaps these appropriate charges you refer to, was there anything over $10,000 being withdrawn from your account?
+A No.
+Q Did you think $12,500 was being withdrawn from your account?
+A No.
+[12] While the letter that is referred to above (Exhibit A-3) was altered by Gary Palmer after the Appellant signed the letter, the letter that the Appellant did sign did provide that the Appellant wished to withdraw $10,000 net and that a cheque for $10,000 was to be made payable to the Appellant. As a result of the provisions of the Act and the Income Tax Regulations, the holder of the RRSP account (The Great West Life Assurance Company in this case) would be required to withhold an amount from the payment from the RRSP and remit such amount to the Canada Revenue Agency on account of the Appellant’s income tax liability.
+[13] Subsection 153(1) of the Act provides in part as follows:
+153. (1) Every person paying at any time in a taxation year
+…
+(j) a payment out of or under a registered retirement savings plan or a plan referred to in subsection 146(12) as an “amended plan”,
+…
+shall deduct or withhold from the payment the amount determined in accordance with prescribed rules and shall, at the prescribed time, remit that amount to the Receiver General on account of the payee's tax for the year under this Part or Part XI.3, as the case may be, and, where at that prescribed time the person is a prescribed person, the remittance shall be made to the account of the Receiver General at a designated financial institution.
+[14] Part I of the Income Tax Regulations provides, in part, as follows:
+100. (1) — In this Part and in Schedule I,
+“employee” means any person receiving remuneration;
+“employer” means any person paying remuneration;
+…
+“remuneration” includes any payment that is
+…
+(i) a payment made during the lifetime of an annuitant referred to in the definition “annuitant” in subsection 146(1) of the Act out of or under a registered retirement savings plan of that annuitant, other than
+(i) a periodic annuity payment, or
+(ii) a payment made by a person who has reasonable grounds to believe that the payment may be deducted under subsection 146(8.2) of the Act in computing the income of any taxpayer,
+…
+103 (4) Subject to subsection (5), where a lump sum payment is made by an employer to an employee who is a resident of Canada,
+…
+(b) if the payment exceeds $5,000 but does not exceed $15,000, the employer shall deduct or withhold therefrom, in the case of an employee who reports for work at an establishment of the employer
+(i) in Quebec, 10 per cent,
+(ii) in any other province, 13 per cent, or
+(iii) in Canada beyond the limits of any province or outside Canada, 20 per cent,
+of such payment in lieu of the amount determined under section 102; and
+…
+103 (6) For the purposes of subsection (4), a “lump sum payment” means a payment that is
+…
+(c) a payment made during the lifetime of an annuitant referred to in the definition “annuitant” in subsection 146(1) of the Act out of or under a registered retirement savings plan of that annuitant, other than
+(i) a periodic annuity payment, or
+(ii) a payment made by a person who has reasonable grounds to believe that the payment may be deducted under subsection 146(8.2) of the Act in computing the income of any taxpayer,
+[15] The above provisions only reflect the amount to be withheld under the Act and there would be an additional amount that would have to be withheld and remitted under the Manitoba income tax provisions. Presumably the combined amount that would have to be deducted and remitted for a lump sum payment between $5,000 and $15,000 would be 20% and 20% of $12,500 is $2,500. By sending a letter indicating that he wished to withdraw $10,000 net and receive a cheque for $10,000, the Appellant set in motion a series of events that would result in $12,500 being withdrawn from his RRSP as The Great West Life Assurance Company would be required to comply with the provisions of the Act and the Income Tax Regulations and the corresponding Manitoba income tax provisions. In order to comply with the Appellant’s request to withdraw $10,000 net and to have a cheque for $10,000, the gross amount that was withdrawn was $12,500 with $2,500 being remitted to the Canada Revenue Agency on account of the Appellant’s liability under the Act and under the Manitoba Income Tax Act. Whether the Appellant knew the additional amount that would be withdrawn so that he would receive a cheque for $10,000 does not change the fact that this additional amount was withdrawn (and would have to be withdrawn for the holder to comply with the provisions of the Act and the Income Tax Regulations and the Manitoba income tax provisions). The $2,500 (which was in addition to the amount reflected in the cheque for $10,000) was withdrawn from his RRSP and remitted to the Canada Revenue Agency. The Appellant received this amount for the purposes of the Act and this amount should have been included in the Appellant’s income for 2005.
+[16] With respect to the $10,000 amount that eventually went to Gary Palmer’s company, the following exchange took place between the Appellant and counsel for the Respondent during his cross-examination:
+Q Okay. Next I would like to refer to the document which was marked as Exhibit A-4, which was the cheque that -- which was the cheque.
+A Yes, got it, yes.
+Q So is it correct this is the cheque that you received from Great-West Life pursuant to that letter?
+A It is.
+Q And you had this cheque in your hands?
+A Yes.
+Q Wouldn't you say that at this point in time you had a choice to do whatever you wanted with this money? Is that correct?
+A I had a choice, yes --
+Q Yes.
+A -- but I did one thing with it.
+Q So it's correct to say that having this, having withdrawn RRSPs and given authorization to withdraw RRSPs, you requested this cheque, you received this cheque and had this cheque in your hand, you had the choice to do whatever you wanted with this money, correct?
+A Yes, but this wasn't viewed in my mind as a withdrawal. It was a transfer. That was the --
+Q Is it correct --
+A That was the intent.
+Q Is it correct you could have taken this money and donated it to charity, you could have given it to a family member, but in this case you chose to invest this money, is that correct?
+A No argument.
+Q So wouldn't you say that you received this money?
+A Yes, I received the cheque, yes.
+[17] During re-direct, the following exchange took place between the Appellant and his lawyer:
+Q Could you turn now to Exhibit 4 please, Mr. Mignault, A-4, pardon me?
+A What is that?
+THE REGISTRAR: That's the cheque payable to you from Great-West Life.
+THE WITNESS: Thank you.
+BY MR. WEINSTEIN:
+Q Now I believe my friend was asking you if you had a choice to do anything you wanted with this cheque when it was in your hands. Why did you withdraw this amount from Great-West Life, from your RRSP from Great-West Life?
+A Well, again it was on the instructions of Mr. Palmer to withdraw it and make it payable to JDR for reinvestment in my portfolio.
+Q So whose idea was it to withdraw it?
+A It was Mr. Palmer's request.
+Q And other than Mr. Palmer's request, would you have withdrawn the $10,000 otherwise?
+A No.
+[18] Even though it was Gary Palmer’s idea to withdraw the money, the money was still withdrawn. It is clear that the Appellant (as acknowledged by the Appellant during cross-examination) had the cheque for $10,000 and could have done whatever he wanted with that money. Unfortunately he chose to give it to Gary Palmer’s company. That, unfortunately, does not change the fact that he did receive the cheque for $10,000 and he did deposit it into his bank account.
+[19] Counsel for the Appellant referred to the decision of Justice Bowman (as he then was) in Tatarchuk Estate v. Minister of National Revenue, [1993] 1 C.T.C. 2440. However in that case the son fraudulently deregistered an RRSP account of his father and then appropriated the funds from the father’s account without his father’s knowledge or consent. In this case, the Appellant himself signed the letter indicating that he wished to withdraw $10,000 net and he also deposited the cheque himself into his account and arranged for a certified cheque for $10,000 to be paid to Gary Palmer’s company. These facts distinguish this case from the Tatarchuk Estate case and the Tatarchuk Estate case does not assist the Appellant.
+[20] The Appellant argued that he did not think that he was withdrawing funds from his RRSP but instead thought that he was simply reinvesting funds with The Great West Life Assurance Company. However, the letter he signed did use the word “withdraw” and also indicated that he wanted the cheque payable to himself. This should have alerted the Appellant that this was something more than a simple change in the investments held in his RRSP. It is clear that even though the Appellant was mistaken with respect to the consequences of his actions in requesting a withdrawal and receiving the cheque, he did withdraw the funds and he did receive the cheque. All that is required under the Act in order for the amount to be included in income is that the amount be received by the Appellant. As acknowledged by the Appellant he did receive the amount and therefore the $10,000 (together with the $2,500 amount referred to above) should have been included in his income for 2005.
+[21] A penalty was also assessed against the Appellant pursuant to subsection 163(1) of the Act. This subsection provides as follows:
+163. (1) Every person who
+(a) fails to report an amount required to be included in computing the person's income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[22] Subsection 163(3) of the Act provides that:
+163. (3) Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+The penalty under subsection 163(1) of the Act is imposed on a person who fails to report, in that person’s tax return that was filed for a particular year, an amount that is required to be included in computing that person’s income and also failed to report in a tax return that was filed for any one of the three preceding taxation years an amount that was required to be included in computing that person’s income for such year.
+[23] In Saunders v. The Queen, 2006 TCC 51, 2006 DTC 2267, [2006] 2 C.T.C. 2255, Justice Woods stated that:
+12 The penalty in subsection 163(1) is one of strict liability, although this Court has held that it can be vacated if the taxpayer can establish due diligence.
+[24] Justice Boyle in Dunlop v. The Queen, 2009 TCC 177, 2009 DTC 1124, [2009] 6 C.T.C. 2223 reiterated that the penalty will not apply if the taxpayer “can demonstrate he exercised a requisite degree of due diligence”.
+[25] Justice Létourneau, on behalf of the Federal Court of Appeal, in Les Résidences Majeau Inc. v. The Queen, 2010 FCA 28, stated as follows:
+7 As far as the penalty is concerned, we are satisfied that the judge did not make any mistake in upholding it. To avoid this penalty, the appellant had to establish that it was duly diligent.
+8 According to Corporation de l'école polytechnique v. Canada, 2004 FCA 127, a defendant may rely on a defence of due diligence if either of the following can be established: that the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty.
+9 A reasonable mistake of fact requires a twofold test: subjective and objective. The subjective test is met if the defendant establishes that he or she was mistaken as to a factual situation which, if it had existed, would have made his or her act or omission innocent. In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made. This is the objective test.
+10 As already stated, the second aspect of the defence requires that all reasonable precautions or measures be taken to avoid the event leading to imposition of the penalty.
+[26] Although the penalty in issue is not identified in this decision of the Federal Court of Appeal, it appears from the decision[1] of Justice Tardif which was appealed to the Federal Court of Appeal that the penalty in issue is the penalty that was, prior to April 1, 2007, imposed under section 280 of the Excise Tax Act. The imposition of this penalty was also subject to the due diligence defence (see Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49).
+[27] In Symonds v. The Queen, 2011 TCC 274 I held that the due diligence defence will be applicable to either one of the two years that are required to support the imposition of the penalty under subsection 163(1) of the Act. In this case those two years are 2002 and 2005.
+[28] As part of the direct examination of the Appellant by his lawyer, the following exchange took place:
+Q …Mr. Mignault, when did you first discover that Mr. Palmer was acting fraudulently?
+A When we received a letter from Great-West Life in February of 2006.
+Q And what did you learn about Mr. Palmer's activities?
+A Well, that he had absconded with funds not only of ours but supposedly of others as well.
+Q Again we mentioned that this has to do with a reassessment for what CRA says is unreported RRSP income from 2005. At any time previous to 2005 did you ever have any issues with unreported income to CRA?
+A Yes.
+Q And what types of things do you recall about that?
+A Well, they were reassessment notices that we received.
+Q And what did the reassessment notices tell you, do you recall?
+A Well, it provided a number of financial information, but we weren't quite certain what impact that was, and that's why we went back to our financial advisor to get clarification as to what had happened and why we were, why these assessments were being brought forward.
+Q So you said you went back to your financial advisor. You mean Mr. Palmer?
+A Yes, that's correct.
+Q And after you asked Mr. Palmer about them, did you hear anything further?
+A No.
+Q Do you remember the years in question when you might have received these reassessments from CRA?
+A Well, I think it started back in 2001, it might even be earlier than that, 2000, all the way down to 2005.
+Q During that time, did you receive any T4 RRSP slips from Great-West Life?
+A No, we did not. Well, the last one we received, the 2005 slip we did receive. That was the only one we did get.
+Q So you did receive one?
+A Yes.
+Q Do you recall when you received that?
+A It would have been in, I believe it was in March of 2006.
+[29] When the Appellant would receive the reassessment notices for the prior years he would contact Gary Palmer and he would authorize him to act on the Appellant’s behalf. One such form dated August 4, 2004 was introduced during the hearing. It appears that authorization forms were also provided by the Appellant to Gary Palmer for prior years.
+[30] During the cross-examination of the Appellant a letter dated June 24, 2003 from the Canada Revenue Agency to the Appellant was introduced. This letter was a response to a request to have an “omission penalty” that had been assessed against the Appellant in relation to his 2001 income tax return, waived. It appears that this is the same penalty that is in issue in this appeal. The request was denied but it does show that the Appellant knew or ought to have known that his income tax return for 2001 did not include all of his income.
+[31] The two taxation years that are in question for the purposes of subsection 163(1) of the Act are 2002 and 2005. The Minister has satisfied the onus that is on the Minister to establish the facts justifying the assessment of the penalty in 2005 as the Minister established that the Appellant failed to include amounts in his income in 2002 and in 2005. The onus of proof to establish the facts as required in order for the Appellant to rely on the due diligence defence would rest with the Appellant. As noted by the Federal Court of Appeal in Les Résidences Majeau Inc., above, “the appellant had to establish that it was duly diligent”.
+[32] In order to establish that the Appellant had made a reasonable mistake of fact, the Appellant must establish both the subjective and the objective elements of this test. The Appellant stated that it was his understanding that he was not withdrawing funds from his RRSP but simply making arrangements to reinvest the money with The Great West Life Assurance Company. However, the relevant fact for the purposes of the Act is the receipt of an amount. If the Appellant had received the amounts from his RRSP, then he would have been required to include the amounts in his income. The mistake of fact would have to be a mistake with respect to whether he received the amounts. However it appears that the Appellant was not mistaken with respect to whether he received the amounts since he clearly acknowledged that he had received the amounts. The Appellant’s mistake was with respect to the legal implications arising from the transactions orchestrated by Gary Palmer and whether these transactions would result in an amount being included in his income under the Act. This is a mistake of law not a mistake of fact and cannot be used to support a defence of due diligence.
+[33] As well, the Appellant has not satisfied the objective component of this test. As noted by the Federal Court of Appeal in Les Résidences Majeau Inc., above:
+In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made.
+[34] The mistake referred to by the Federal Court of Appeal in Les Résidences Majeau Inc., above, is a mistake of fact, not a mistake of law. In this case, the mistake of fact would have to be a mistake with respect to whether the amount had been received from his RRSP. A reasonable person would conclude, as the Appellant concluded, that the amounts had been received when the Appellant received the cheque from The Great West Life Assurance Company.
+[35] The Appellant can also rely on the due diligence defence if he can establish that he took all reasonable precautions to avoid the failure to include the amounts in his income in 2002 or 2005. The Appellant had been reassessed for prior years for unreported income and sometime prior to June 24, 2003 had made a request for a waiver of a penalty that had been imposed in relation to his 2001 income tax return. As noted the onus of establishing the due diligence defence rests with the Appellant. It is not clear when the Appellant was assessed the penalty in relation to his 2001 income tax return. The Appellant failed to establish that he was not aware of the imposition of the omission penalty in relation to his 2001 income tax return when he filed his 2002 income tax return or that he was not aware of the previous reassessments when he filed his 2002 income tax return.
+[36] Of particular note for 2005 is the admission by the Appellant that he did receive the T4 slip from The Great West Life Assurance Company in March of 2006. While it is not clear whether this was before or after he had filed his tax return for 2006, the Appellant would have had the onus of proof with respect to this point.
+[37] Having been reassessed for unreported amounts and having been assessed a penalty in relation to his 2001 income tax return, the Appellant should have taken more precautions in relation to filing his 2002 and 2005 income tax returns when the same scenario was replayed in each year that money was taken. The Appellant did, in each year that money was taken, sign a form indicating his desire to withdraw a net amount and to receive a cheque for that amount. He received the cheque from The Great West Life Assurance Company and deposited that cheque into his account. It seems to me that the Appellant’s understanding that he could do whatever he wanted with this money would be the same each time he received a cheque from The Great West Life Assurance Company. It seems to me that in each year during which an amount was withdrawn from his RRSP, the Appellant would have known that he had received a cheque from The Great West Life Assurance Company. His misunderstanding with respect to the consequences arising under the Act as a result of receiving this cheque (which would be a mistake of law), cannot be used as a basis to establish that he took reasonable precautions to avoid the failure to include amounts in his income. As a result I conclude that the Appellant has failed to establish that he took all reasonable precautions to avoid the failure to include the amounts in his income.
+[38] There is no indication of what arguments were made in relation to the request to waive the imposition of the penalty imposed in relation to the Appellant’s 2001 income tax return. It would seem obvious that there would not have been any disclosure of the fraud committed by Gary Palmer. In light of the subsequent discovery of this fraud and Gary Palmer’s conviction perhaps the Minister could reconsider his position on whether the penalties imposed on the Appellant should be waived. It seems to me that the Appellant has suffered a very significant loss as a result of the fraud of Gary Palmer and the imposition of penalties in addition to his other losses seems harsh.
+[39] As a result the Appellant’s appeal in relation to the reassessment of his liability under the Income Tax Act for 2005 is dismissed without costs.
+Signed at Halifax, Nova Scotia, this 3rd day of November 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC500
+COURT FILE NO.: 2008-4073(IT)I
+STYLE OF CAUSE: MICHEL MIGNAULT AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: September 9, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: November 3, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Michael J. Weinstein
+Counsel for the Respondent:
+Rosanna Slipperjack-Farrell
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Michael J. Weinstein
+Firm: Hill Sokalski Vincent Walsh Trippier, LLP
+Winnipeg, Manitoba
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2009 TCC 286, [2009] G.S.T.C. 90, [2009] G.S.T.C. 118.

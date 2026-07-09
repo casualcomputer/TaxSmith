@@ -1,0 +1,432 @@
+---
+title: "Ouellet c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29063/index.do"
+last_modified: "2008-09-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 543"
+citation2: ""
+neutral_citation: "2008 CCI 543"
+decision_date: "2008-09-26"
+language: "fr"
+item_id: "29063"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6810
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:21:37.446000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5d62b68c841c48d31d8356cf3d01acca601aa050e13e2fdbce31dcf8e24d1c5d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ouellet c. M.R.N.
+
+- Citation: 2008 CCI 543
+- Decision date: 2008-09-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6810, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-26
+Référence neutre
+2008 CCI 543
+Numéro de dossier
+2007-2830(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-2830(EI)
+ENTRE :
+JÉRÔME OUELLET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 28 mai 2008, à Rimouski (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocate de l'appelant :
+Me Caroline Bérubé
+Avocat de l'intimé :
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce 26e jour de septembre 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008 CCI 543
+Date : 20080926
+Dossier : 2007-2830(EI)
+ENTRE :
+JÉRÔME OUELLET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel d’une décision rendue le 27 mars 2007 par l’Agence du revenu du Canada concernant l’assurabilité de l’emploi de monsieur Jérôme Ouellet (le « travailleur ») auprès de la Scierie Réjean Ouellet Enr. (le « payeur ») pour la période du 29 mai 2006 au 9 septembre 2006 (la « période visée »). Aux termes de cette décision, le ministre du Revenu national (le « ministre ») a déterminé que l’emploi du travailleur n’était pas assurable pour la période visée puisqu’un contrat de travail semblable n’aurait pas été conclu s’il n’y avait pas eu de lien de dépendance entre le travailleur et le payeur. Cette décision a été rendue en vertu de l’alinéa 5(2)i) et des paragraphes 5(3) et 93(3) de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23, telle que modifiée (la « Loi »).
+[2] Le travailleur et le payeur sont des personnes liées au sens de l’article 251 de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e suppl.), telle que modifiée, puisque le travailleur est le fils du propriétaire du payeur.
+[3] Le ministre a déterminé que le travailleur et le payeur avaient un lien de dépendance entre eux dans le cadre de l’emploi du travailleur et le ministre a été convaincu qu’il était raisonnable de conclure que le travailleur et le payeur n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances décrites aux paragraphes (a) à (u) de l’article 6 de la Réponse à l’avis d’appel.
+a) depuis 1995, le payeur exploite un moulin à scie qu’il a lui-même construit en 1993 et 1994 sur le rang Bélanger à St-Gabriel (admis);
+b) le payeur possède un bâtiment de 30 pieds sur 70 pieds avec une scie, un chariot, un planeur, une chargeuse et un tracteur (admis);
+c) avant l’embauche de l’appelant, le payeur exploitait sporadiquement sa scierie de mai à septembre (admis);
+d) le payeur obtient des contrats de coupe de bois de voisins et achemine le bois à sa scierie selon les commandes obtenues (admis);
+e) durant la période en litige, le payeur a embauché, officiellement pour la première fois, l’appelant car il prétendait avoir plus de commandes; (admis);
+f) avant 2006, le payeur retirait peu de revenus de la scierie et ne les déclarait pas pour fins fiscales (nié);
+g) il a embauché son fils à la fin de mai 2006 en lui confiant les tâches suivantes : il devait aller chercher les billots avec la chargeuse, préparer le bois avant le sciage et scier les billots ramenés à la scierie (nié tel que rédigé parce qu’il exécutait également d’autres tâches ménagères);
+h) l’appelant travaillait en vertu d’un contrat verbal et devait travailler 60 heures par semaine, du lundi au vendredi et souvent le samedi (nié tel que rédigé parce qu’il travaillait tous les samedis soit un maximum de 60 heures par semaine);
+i) le payeur compilait les heures de travail de l’appelant dans un carnet ou petit calepin (admis);
+j) le payeur ne possède aucun contrat de coupe avec ses clients pouvant justifier l’embauche de l’appelant durant la période en litige (nié tel que rédigé);
+k) durant la période en litige, l’appelant aurait reçu des avances du payeur, en argent liquide, variant entre 200 $ et 400 $ par semaine (admis);
+l) le payeur aurait versé 6 300 $ en avances au travailleur, en montants irréguliers, sans préciser les dates exactes où ces avances auraient été versées (nié tel que rédigé, parce que les dates des avances étaient connues);
+m) ce n’est qu’à la fin de son emploi qu’il a reçu une série de chèques du payeur pour le travail effectué durant la période en litige (admis);
+n) les chèques émis par le payeur étaient datés entre le 8 juin et le 21 septembre 2006 et le premier chèque n’a été encaissé par l’appelant que le 12 octobre 2006 (admis);
+o) tous les chèques émis par le payeur ont été encaissés par l’appelant entre le 12 et le 26 octobre 2006 (admis);
+p) l’appelant prétend qu’il encaissait les chèques et qu’il remettait au payeur les avances qu’il avait obtenues durant la période en litige (admis);
+q) En 2005, le payeur n’a déclaré aucun revenu de sa scierie mais a versé environ 1 000 $ à l’appelant pour des services rendus à la scierie (nié tel que rédigé parce que le revenu de la scierie a été déclaré et que la somme de 2 000 $ a été versée au travailleur);
+r) malgré qu’il inscrivait les heures de travail de l’appelant, le payeur ne pouvait préciser le tarif horaire versé comme salaire à l’appelant (nié tel que rédigé parce que le tarif/horaire était connu);
+s) le journal des salaires du payeur indiquait que l’appelant était rémunéré ainsi à chaque semaine : 47 premières heures à taux régulier et 13 heures en temps supplémentaire (admis);
+t) de plus, pour chaque jour férié, l’appelant recevait 10 heures de travail additionnel pour une somme de 117,50 $ (admis);
+u) les parties au litige ont agit d’un commun accord dans le but de qualifier l’appelant pour recevoir des prestations de chômage (nié);
+[4] Pour mettre en lumière les faits sur lesquels l’intimé s’est basé, et pour bien comprendre les raisons pour lesquelles l’intimé a conclu que l’appelant occupait un emploi exclu au cours de la période visée, il y a lieu de reproduire les parties (V) et (VI) du rapport sur un appel préparé par l’Agence du revenu du Canada en date du 27 mars 2007 et qui a été déposé à l’audience sous la cote I‑9 :
+(V) FAITS :
+Les documents suivants sont inclus au dossier de décision CE0631 1084 3041
+Déclaration statutaire de Jérôme Ouellet____________________ONGLET A
+1) Du 29 mai 2006 au 9 septembre 2006, il a été engagé comme préposé au sciage mais il avait déjà aidé auparavant. En 2006, il a été engagé à temps plein du lundi au samedi à raison de 60 heures par semaine.
+2) Il n’y avait pas d’autre employé que moi. Le travailleur a été mis à pied le 9 septembre 2006 parce que c’était plus tranquille.
+3) Le moulin à scie est situé dans le rang Bélanger et c’est mon père qui l’a construit, il y a une dizaine d’années. Au début, mon père y allait à l’occasion car il travaillait pour une compagnie de chemin de fer à Sept Iles.
+4) Du 29 mai 2006 au 9 septembre 2006, il recevait des avances qui variait d’une semaine à l’autre soit de 200,00 $ à 400,00 $ cela dépendait de ce qu’il avait besoin.
+5) À la fin de son emploi, il a reçu des chèques qu’il a changés dans son compte à la caisse populaire de St. Gabriel.
+6) Le 12 octobre 2006, il a encaissé les chèques datés du 8 juin 2006 et du 15 juin 2006.
+7) Le 26 octobre 2006, il a encaissé les chèques datés du 31 août 2006, du 7 septembre 2006, du 14 septembre 2006 et du 21 septembre 2006. La valeur de ces chèques devait être remise à son père car ce qui lui revenait en salaire avait été pris.
+8) Pendant sa période d’emploi, il aurait reçu 5,000,00 $ en avance et il a gardé environ 2,000,00 $ par la suite.
+Renseignements supplémentaires concernant la demande de prestation ONGLET B
+9) Réjean Ouellet fournit certains détails à Alain D’Amours enquêteur du DRH
+dont;
+· Il est propriétaire d’une scierie et de lots à bois à St-Gabriel;
+· Il a attendu quelques années avant d’engager une personne à temps plein;
+· Il a engagé son fils Jérôme et il l’a payé par chèques.
+Détail des heures travaillées_________________________________ONGLET C
+Selon ces documents, le travailleur travaillait du lundi au samedi exactement 60 heures à chaque semaine.
+Avances versées à Jérôme Ouellet__________________________ONGLET C1
+Période
+Montant
+23
+250,00 $
+24
+350,00
+25
+375,00
+26
+425,00
+27
+425,00
+28
+500,00
+29
+400,00
+30
+400,00
+31
+450,00
+32
+400,00
+33
+400,00
+34
+400,00
+35
+400,00
+36
+375,00
+37
+375,00
+38
+375,00
+Total
+6,300,00 $
+Ce document a été télécopié par Chantal Dufour (épouse du payeur) à l’enquêteur du DRH. Une balance due de 2,635,77 $ régularisée par les chèques #34 à 38.
+Les documents suivants ont été obtenus du payeur par l’agent des appels
+Journal des salaires_______________________________________ONGLET D
+Afin d’en faciliter la lecture nous le reproduisons sous forme de tableau
+Semaine
+Heures
+Salaire
+Congés fériés
+Total
+3 juin 2006
+60
+781,38 $
+781,38 $
+10 juin 2006
+60
+781,38 $
+731,38
+17 juin 2006
+60
+781,38 $
+781,38
+24 juin 2006
+70
+781,38 $
+117,50
+898,88
+1 juill 2006
+70
+781,38 $
+117,50
+898,88
+8 juill 2006
+60
+781,38 $
+781,38
+15 juill 2006
+60
+781,38 $
+781,38
+22 juill 2006
+60
+781,38 $
+781,38
+29 juill 2006
+60
+781,38 $
+781,38
+5 août 2006
+60
+781,38 $
+781,38
+12 août 2006
+60
+781,38 $
+781,38
+19 août 2006
+60
+781,38 $
+781,38
+26 août 2006
+60
+781,38 $
+781,38
+2 sept 2006
+70
+781,38 $
+117,50
+898,88
+9 sept 2006
+60
+781,38 $
+781,38
+16 sept 2006
+451,74 vacances
+451,74
+Total
+930
+11,720,70
+804,24
+12,524,94
+Revenus mensuels du payeur pour 2006_______________________ONGLET E
+Mois
+Revenus
+juin
+5,706,00 $
+juillet
+8,328,00
+août
+4,422,00
+septembre
+2,460,00
+octobre
+3,821,00
+Total
+24,587,00 $
+Copies des chèques de paies recto verso_______________________ONGLET F
+Numéro de chèque
+Date du chèque
+Montant
+Date d’encaissement
+6
+8 juin 2006
+558,95 $
+12 octobre 2006
+7
+15 juin 2006
+558,95
+12 octobre 2006
+8
+22 juin 2006
+558,95
+13 octobre 2006
+9
+29 juin 2006
+623,52
+13 octobre 2006
+10
+6 juill 2006
+623,52
+16 octobre 2006
+11
+13 juill 2006
+558,95
+16 octobre 2006
+12
+20 juill 2006
+558,95
+17 octobre 2006
+13
+27 juill 2006
+558,95
+17 octobre 2006
+14
+3 août 2006
+558,95
+26 octobre 2006
+15
+10 août 2006
+558,95
+26 octobre 2006
+16
+17 août 2006
+558,95
+26 octobre 2006
+17
+24 août 2006
+558,95
+26 octobre 2006
+18
+31 août 2006
+558,95
+26 octobre 2006
+19
+7 sept 2006
+558,95
+26 octobre 2006
+20
+14 sept 2006
+623,52
+26 octobre 2006
+21
+21 sept 2006
+357,81
+26 octobre 2006
+Les documents suivants ont été obtenus du système informatique de l’ARC par l’agent des appels
+Déclarations d’impôt fédéral de Réjean Ouellet________________ONGLET G
+Pour les années 2004 et 2005, les déclarations d’impôt fédéral du payeur ne contiennent aucun revenu d’entreprise.
+Déclarations d’impôt fédéral de Jérôme Ouellet________________ONGLET H
+La déclaration de l’année 2005 de Jérôme Ouellet indique 7,500,00 $ en revenus d’emploi. Ces revenus d’emploi ne sont pas identifiés.
+La déclaration 2004 indique des revenus d’emploi totalisant 549,00 $.
+Les faits suivants ont été obtenus de Jérôme Ouellet lors d’une entrevue téléphonique, le 8 mars 2007
+10) Jérôme Ouellet confirme que la déclaration qu’il avait fait à l’enquêteur du DRH est exacte.
+11) Depuis 1995, son père Réjean Ouellet possède un moulin à scie dans le rang Bélanger à St-Gabriel. Il s’agit d’un bâtiment d’une dimension de 30 pieds par 70 pieds avec une scie, un chariot, un planeur, une chargeuse et un tracteur sont les équipements qui s’y trouvent.
+12) Dans les années passées, le travailleur allait aider son père quand il avait besoin de lui. D’ailleurs, des 7,500,00 $ qui sont déclarés à son rapport d’impôt. Il dit qu’une partie de cet argent a été versé par son père. Il estime qu’environ 1,000,00 $ provient de son père et le reste vient d’ici et là, sans plus de précision.
+13) Mais en 2006, son père lui a dit « si tu veux venir en va l’opérer plus ». Son travail était de scié le bois, faire de la planche ou du madrier, opérer la planeuse et à l’occasion aller chercher le bois.
+14) Ses heures de travail était de travailler du matin au soir et ce pendant 6 ou 7 jours par semaine. Il travaillait avec son père à la scierie.
+15) Pendant tout l’été, le travailleur a reçu des avances en fonction de ce qu’il avait besoin. Il a reçu des avances parce que son père ne savait pas sur qu’elle serait son salaire au total.
+16) À la fin, le travailleur a reçu tous les chèques en même temps. Il dit que c’est son père qui a décidé cela même s’il avait déjà été payé. Puis, le travailleur a les encaissé à raison de 2 ou 3 chèques par dépôt.
+Les faits suivants ont été obtenus de Réjean Ouellet lors d’une entrevue téléphonique, le 9 mars 2007
+17) Réjean Ouellet est très réticent à nous fournir les détails de l’emploi de son fils. D’ailleurs, l’agent des appels lui a demandé de cesser de blasphémer.
+18) Depuis 5 ou 6 ans, il possède un moulin à scie avec tout l’équipement pour opérer une scierie.
+19) Durant l’année 2005, le payeur a eu (un peu) de revenus de sa scierie et comme Jérôme Ouellet est venu l’aider et il lui a donné environ 1,000,00 $. Cet argent lui était donné parce qu’il lui rendait service sans calcul.
+20) En 2006, il y avait de plus en plus de demande pour la couper du bois. Alors, il a décidé d’engager son fils.
+21) Le payeur ne sait pas sur quelle base il payait son fils et il ne sait pas quel salaire était donné à son fils. Ses heures de travail étaient de 7 heures le matin jusqu’au soir et il travaillait du lundi au samedi.
+22) Le payeur lui donnait des avances selon ce qu’il lui donnait à l’heure. C’était le payeur qui calculait ses heures de travail.
+23) Réjean Ouellet affirme que c’est sa femme qui a décidé de faire les chèques de paie.
+Les faits suivants ont été obtenus de Nicole Leblanc lors d’une entrevue téléphonique le 8 mars 2007
+24) Nicole Leblanc travaille pour la municipalité de St-Gabriel. Elle me fournit les informations suivantes : au registre de la municipalité Réjean Ouellet possède depuis 1995 une scierie dans le rang Bélanger.
+(VII) SOMMAIRE :
+Le payeur, Réjean Ouellet, opère un moulin a scie.
+Le travailleur, Jérôme Ouellet, a été engagé comme préposé au sciage du 29 mai 2006 au 9 septembre 2006.
+Lien de dépendance des parties à l’appel
+Réjean Ouellet est le père de Jérôme Ouellet. Elles sont des personnes liées tel que défini à l’alinéa 251(2)a) de la Loi de l’impôt sur le revenu. Ainsi, des personnes liées sont réputées avoir entre elles un lien de dépendance en vertu de l’alinéa 251(1)a) de la même loi.
+Analyse de l’emploi de Jérôme Ouellet selon l’alinéa 5(3)b) de la Loi sur l’assurance-emploi
+Rétribution versée :
+Selon les documents du payeur, ce dernier a versé 6,300,00 $ en avances au travailleur qui auraient été versées entre les périodes 23 et 38 sans aucune précision sur les dates réelles du versement. De plus, l’encaissement de ces chèques s’est produit plus de 4 mois après la période d’emploi après la période d’emploi.
+Ces documents comptables démontrent que les parties ont agit de façon tout à fait inhabituelle et contraire aux règles du marché du travail.
+Par surcroît, l’examen du journal des salaires indique que le travailleur bénéficiait de paiement d’heures supplémentaires à chaque semaine plus le paiement de congé férié avec un ajout de 10 heures d’emploi additionnelles.
+Ces documents ajoutés aux versions des parties qui affirment que le payeur ne savait pas quel salaire serait versé au travailleur démontrent bien que la rétribution versée n’était basée que sur le lien de dépendance.
+Modalités d’emploi :
+Le travailleur et le payeur affirment que Jérôme Ouellet travaillait du matin au soir. Cette affirmation tendrait à conclure qu’il n’avait pas d’horaire de travail. Toutefois, le carnet des heures de travail présenté par le payeur indique le contraire soit que les heures d’arrivée, de repas et de départ était consigné. Il s’agit d’élément contradictoire puisque les versions citées sont axées sur un salaire fixe peu importe le nombre d’heures travaillées alors que le carnet montre le contraire.
+Cette absence de cohérence nous indique que les modalités d’emploi de ce travailleur étaient basées sur leur lien de dépendance.
+De plus, le journal des salaires indique qu’à chaque semaine 60 heures étaient payées de la façon suivante : les 47 premières heures de travail étaient payées à taux régulier plus 13 heures en temps supplémentaire. En plus, lors des journées fériées on ajoutait 117,50 $ avec 10 heures de travail additionnelles. On constate que ces modalités d’emploi ne sont pas raisonnables et elles nous démontrent que les parties agissaient entre personne liée.
+D’ailleurs durant l’année 2005 Jérôme Ouellet a rendu des services à son père et ce dernier lui a versé des sommes d’argent sans inscription dans un registre de paie. Alors que le payeur ne déclare aucun revenu d’entreprise.
+Dans ces circonstances, nous considérons que ces modalités d’emploi n’étaient pas raisonnables et que des personnes sans lien de dépendance n’auraient pas conclu de telles conditions d’emploi.
+Durée :
+Dans le présent dossier, il nous est difficile de préciser la véritable durée de cet emploi. Puisque les documents fournis par le payeur démontrent plutôt un arrangement pour produire un relevé d’emploi qui présentait un certain nombre d’heures qui permettrait à Jérôme Ouellet à obtenir des prestations d’assurance emploi. D’autre part, on constate une certaine incohérence entre la variation des revenus mensuels du payeur alors que le travailleur fait toujours le même nombre d’heures par semaine.
+De là, nous concluons que la durée de cet emploi était basée sur le lien de dépendance.
+Nature :
+Le travailleur faisait le sciage de bois pour une scierie. Dans un premier temps, nous pourrions conclure que les fonctions sont nécessaires aux opérations du payeur. Toutefois, l’agent des appels considère plutôt que les fonctions de ce travailleur ont été fixées entre des personnes liées. Les parties à l’appel ont agies dans un but commun soit de qualifier Jérôme Ouellet à des prestations d’assurance emploi. D’ailleurs, le payeur et le travailleur ont mentionné qu’en 2005 Jérôme Ouellet a reçu des sommes d’argent du payeur alors que ce dernier ne déclare aucun revenu d’entreprise.
+Nous concluons tout comme l’agent de décision que des personnes sans lien de dépendance n’auraient pas conclu entre eux un tel contrat de travail.
+Conclusion sur l’emploi de Jérôme Ouellet en vertu de l’alinéa 5(3)b) de la LAE
+À la lumière des faits obtenus et de l’analyse des documents, nous considérons que le travailleur avait des conditions d’emploi qu’aucun étranger n’aurait pas obtenu.
+Alternativement, si ce dossier est présenté à la CCI nous pourrions également invoquer que ce contrat de travail ne rencontre pas les exigences d’un contrat de louage de services.
+[5] Les faits énoncés au rapport sur appel présenté au paragraphe précédent n’ont pas été contredits, ni mis en doute lors de l’audience. Par contre, certaines informations additionnelles ont été apportées. Lors de son témoignage, madame Louiselle Pineault, technicienne comptable, a expliqué qu’elle avait suggéré au père de l’appelant, monsieur Réjean Ouellet, d’enregistrer son entreprise et de procéder par la voie d’avances à l’appelant en attendant d’obtenir les numéros de déduction à la source et d’enregistrement, notamment auprès de la Commission santé et sécurité au travail. Suite à la réception de l’enregistrement de l’entreprise, les chèques de paye dûs à l’appelant lui ont été remis. Madame Pineault a également précisé que les dossiers fiscaux de 2005 du payeur et du travailleur étaient, à toute fin pratique, réglés au niveau fédéral suite à la production de déclarations de revenu amendés. Selon madame Pineault, l’embauche du travailleur par le payeur était justifié en mai 2006 sur la base des revenus du payeur jusqu’à un maximum de 60 heures par semaine. Madame Pineault a également affirmé avoir préparé le relevé d’emploi du travailleur en se basant sur le journal des salaires du payeur au 9 septembre 2006. Selon ses calculs, le travailleur avait accumulé 930 heures assurables, soit 15 semaines de travail à 60 heures par semaine, auxquelles 30 heures ont été ajoutées pour tenir compte des 3 jours fériés au cours de la période visée à 10 heures par jour.
+[6] Le père du travailleur, monsieur Réjean Ouellet, a également témoigné et il a indiqué qu’il notait quotidiennement dans un calepin les heures travaillées par le travailleur. Selon lui, les heures travaillées par le travailleur totalisaient toujours 60 heures et plus par semaine. Il a de plus affirmé avoir embauché le travailleur à l’été 2007 aux mêmes conditions en termes de salaire, selon le même horaire et pour exécuter les mêmes tâches et que l’emploi du travailleur pour 2007 avait été reconnu comme un emploi assurable; le travailleur recevait alors un chèque de paye à chaque semaine et non des avances comme en 2006.
+[7] La mère du travailleur, madame Chantal Dufour, a elle aussi témoigné et elle a confirmé avoir effectué les avances en argent liquide au travailleur selon ses besoins et avoir préparé et signé les 16 chèques de paye qui ont été remis au travailleur, lesquels portaient des dates correspondant aux périodes de paye mais qui ont été encaissés selon les disponibilités de l’argent dans le compte bancaire du payeur. Le travailleur endossait les chèques et les remettait à sa mère pour rembourser les avances. Le travailleur a gardé les 5 derniers chèques parce que le montant des avances était inférieur au montant du salaire net gagné par le travailleur.
+[8] Le présent litige porte sur l’application de l’alinéa 5(2)i) et du paragraphe 5(3) de la Loi qui se lisent comme suit :
+5(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminés conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette Loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[9] Le rôle de la Cour en interprétant les dispositions ci-dessus mentionnées a fait l’objet de multiples décisions et a été très clairement résumé par l’extrait suivant tiré de Légaré c. Canada (ministre du Revenu national), (1999) A.C.F., no. 878, par. 4 :
+[…]
+La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre; c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[10] L’avocate de l’appelant a invoqué le contexte, soit une entreprise en démarrage, pour justifier les conditions de travail inhabituelles de l’appelant.
+[11] Malheureusement pour l’appelant, je ne peux souscrire à cet argument. Je ne crois pas que l’on puisse justifier, par le fait que l’entreprise était un démarrage, que le travailleur a reçu sa première paye près de 4 mois après le début de son emploi, qu’il avait alors gagné plus de 12 000 $ en salaire brut et qu’il a été effectivement payé après la fin de sa période d’emploi. L’obtention de numéros d’enregistrement d’une entreprise et de numéros d’employeur pour les déductions à la source ne prend habituellement que quelques jours ou semaines mais rarement des mois.
+[12] Certaines conditions de travail du travailleur ne peuvent s’expliquer que par le lien de dépendance entre le travailleur et le payeur. On peut souligner ici le fait que les avances aient été consenties en argent liquide plutôt que par chèques et le fait que le montant des avances était inférieur au montant du salaire net payable au travailleur. Dans un contexte où il n’y avait pas de lien de dépendance, le montant des avances aurait normalement dû correspondre au montant du salaire net payable au travailleur. Il aurait été facile pour le payeur d’obtenir les montants exacts de la technicienne comptable, qui a d’ailleurs été consultée dans la détermination de la rémunération du travailleur, soit 11,75 $ de l’heure.
+[13] Comme l’a dit le juge Marceau dans l’arrêt Pérusse c. Canada (ministre du Revenu national), [2000] A.C.F. no 310 au par.15 :
+[…] La Loi prescrit au juge une certaine déférence à l’égard de l’appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. […]
+[14] C’est exactement la situation dans cet appel. Il n’y a pas de faits nouveaux et rien ne permet à la Cour de conclure que les faits ont été mal interprétés par le ministre.
+[15] Le fait que le travailleur ait obtenu des prestations d’assurance‑emploi à l’égard de sa période d’emploi en 2007 auprès du payeur n’est pas pertinent aux fins du présent appel vu que les conditions d’emploi du travailleur n’étaient pas identiques à celles qui ont prévalues en 2006. Le fait que le ministre n’ait pas exercé son pouvoir discrétionnaire à l’égard de l’emploi du travailleur en 2007 ne peut invalider l’exercice de ce pouvoir discrétionnaire à l’égard d’une période d’emploi antérieure.
+[16] Aux termes de son analyse, cette Cour est d’avis que les faits retenus ou supposés par le ministre ont été appréciés correctement et que la conclusion dont le ministre était convaincu m’apparaît être raisonnable dans les circonstances.
+[17] En conséquence, l’appel est rejeté et la décision rendue par le ministre est confirmée.
+Signé à Ottawa, Canada, ce 26e jour de septembre 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008 CCI 543
+Nº DU DOSSIER DE LA COUR : 2007-2830(EI)
+INTITULÉ DE LA CAUSE : Jérôme Ouellet et M.R.N.
+LIEU DE L’AUDIENCE : Rimouski (Québec)
+DATE DE L’AUDIENCE : le 28 mai 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 26 septembre 2008
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Caroline Bérubé
+Avocat de l'intimé :
+Me Dany Leduc
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant:
+Nom : Me Caroline Bérubé
+Cabinet : Michaud, LeBoutilier, Joncas, Fortin & Lestage
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

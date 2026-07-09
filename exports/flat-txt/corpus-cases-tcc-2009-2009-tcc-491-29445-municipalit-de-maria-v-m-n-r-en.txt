@@ -1,0 +1,161 @@
+Title: Municipalité de Maria v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29445/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-491-29445-municipalit-de-maria-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-10-02
+
+# Municipalité de Maria v. M.N.R.
+
+- Citation: 2009 TCC 491
+- Decision date: 2009-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6936, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Municipalité de Maria v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-02
+Neutral citation
+2009 TCC 491
+File numbers
+2009-843(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-843(EI)
+BETWEEN:
+Municipalité de Maria,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 14, 2009, at New Carlisle, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Gilbert Leblanc
+Counsel for the Respondent:
+Michel Lamarre
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("the Act") is allowed on the ground that Jean-Paul Leblanc's work as a volunteer firefighter and as deputy fire chief for the Municipalité de Maria from January 1, 2007, to December 31, 2007, was not insurable employment under the terms of the Act.
+Signed at Ottawa, Canada, this 2nd day of October 2009.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 20th day of November 2009.
+Brian McCordick, Translator
+Citation: 2009 TCC 491
+Date: 20091002
+Docket: 2009-843(EI)
+BETWEEN:
+Municipalité de Maria,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal pertains to the insurability of the work done by Jean‑Paul Leblanc as a volunteer firefighter and as deputy fire chief for the Municipalité de Maria ("the Municipality") from January 1 to December 31, 2007.
+[2] In making his decision, the Respondent relied on the following assumptions of fact:
+[TRANSLATION]
+(a) The Appellant operated a fire department for the the Municipality and lent assistance to other municipalities in the region, from Nouvelle to New Richmond.
+(b) The Appellant provided firefighting services, highway accident rescue services and forest rescue services.
+(c) The fire department had a fire chief, a deputy fire chief, a captain and 15 certified or uncertified volunteer firefighters.
+(d) The fire department's equipment included a fire engine with a crew of four, a tank truck with a crew of two, and an emergency vehicle and all-terrain vehicle, each operated by one person.
+(e) The Worker provided services to the Appellant for 31 years.
+(f) During the period in issue, the Worker worked for the Appellant as deputy fire chief.
+(g) The Worker's tasks were to fill out fire reports, approve the firefighters' time sheets, instruct the firefighters, fight fires, go to the scene of automobile accidents with extrication equipment (jaws of life), participate in forest rescues and take part in weekly drills.
+(h) The fire chief filled out the watch schedule sheets for the firefighters (including the Worker) for weekends only; no one was on watch during weekdays.
+(i) The schedule was split into a watch that started on Friday at 6 p.m. and ended on Saturday at 6 p.m., and another watch that started on Saturday at 6 p.m. and ended on Sunday at 6 p.m.
+(j) The firefighters had regular watch duty.
+(k) The firefighter on watch was not permitted to leave the Municipality.
+(l) That firefighter on watch was required to respond to emergency calls.
+(m) The firefighter on watch was responsible for assessing the situation and determining whether reinforcements had to be called in from neighbouring municipalities.
+(n) The Worker kept a pager, supplied by the Appellant, on his person permanently. The pager was directly connected to the 911 service.
+(o) The Worker had to participate in the weekly drills, which were held Wednesday evenings from 7 to 9 p.m., and to be on weekend watches on a rotating basis with the other firefighters.
+(p) The Worker carried out his duties under the direction of the Fire Chief.
+(q) The Worker had to notify the Director if he was unable to be on watch or to find anyone to replace him.
+(r) The hours worked by the Appellant [sic] were consigned on time sheets.
+(s) The Worker was paid at rates determined by the Appellant.
+(t) The Worker received remuneration of $15.72 per hour when carrying out his duties.
+(u) The Worker was paid $1.00 per hour, or $24.00 per day, while on watch duty.
+(v) In carrying out his duties, the Worker did not supply any of his own tools or equipment.
+(w) As part of his duties, the Worker used property and equipment supplied by the Municipality, such as a truck, the jaws of life, a uniform and a pager.
+(x) The Worker was covered by a CSST [workers' compensation] policy for which the Appellant paid the premiums.
+[3] In support of its case, the Appellant called deputy fire chief Jean‑Paul Leblanc and municipal director general Gilbert Leblanc as witnesses.
+[4] The evidence essentially confirmed the vast majority of the factual assumptions. However, it was clearly established that the lump sum of $450 paid for each volunteer firefighter (including deputy fire chief Leblanc) and the amounts paid for weekend watch duty were paid to the volunteer firefighters' association, which was free to use the amounts in question as it saw fit; these amounts were not paid to the volunteer firefighters directly.
+[5] In this regard, it was established that each firefighter was required to be on watch every 20 weekends. There was no watch schedule for statutory holidays.
+[6] Mr. Leblanc explained that the team was made up of enthusiastic and dynamic volunteer firefighters who participated in training to increase their fire prevention and suppression abilities, not only throughout the Municipality but also in neighbouring municipalities with which there were contractual arrangements.
+[7] The volunteer firefighters, including Mr. Leblanc, responded to forest and highway accidents as well. They had all the necessary materials, equipment and tools, such as "jaws of life" extrication equipment.
+[8] All the equipment was held jointly by the volunteer firefighters' association and the Appellant Municipality. Equipment was acquired, maintained, repaired and replaced partly by the Municipality, partly by the association, and partly by sponsors, including the local Caisse populaire, which appears to have been very generous and co-operative over the years.
+[9] The association also organized fundraising drives and occasionally sought support from the public, especially from retailers and other businesses.
+[10] Mr. Leblanc stated that all members were dedicated, committed and active. He also acknowledged that any volunteer firefighter who did not participate, or refused to get involved in, the various activities, especially training, did not remain in the association for long.
+[11] The facts were established in a spontaneous, voluntary and very complete fashion. In order to answer the questions in dispute, we must essentially determine whether or not the work done by deputy fire chief Jean-Paul Leblanc was insurable or not under the Act, having regard to the clear and precise facts.
+[12] It seems safe to say from the outset that the context of this situation is very unusual: the work of a volunteer firefighter is much more of a matter of dedication, a strong sense of civic duty and a desire to get involved in the community's welfare than a matter of remuneration, even though the work is sometimes at least partly remunerated when one is on official business or responding to a fire or to a highway or forest accident. The pecuniary dimension is more marginal and symbolic than real.
+[13] It is in fact theoretically possible for a volunteer firefighter, such as deputy fire chief Jean‑Paul Leblanc, to receive no pay for very lengthy periods. This can happen if there are no fires and the activities essentially consist of training, drills and fundraising. Moreover, the beginning and end of the so-called remunerated periods do not depend on the parties' will, but essentially on emergencies such as fires or accidents.
+[14] This special situation was clearly one basis for section 7 of the Employment Insurance Regulations, which reads as follows:
+7. The following employments are excluded from insurable employment.
+(a) [Repealed, SOR/97-310, s.1]
+(b) employment of a person who is a member of a religious order, if the person has taken a vow of poverty and the person's remuneration is paid directly, or by that person, to the order;
+(c) employment in respect of which premiums are payable under
+(i) the unemployment insurance law of any state of the United States, the District of Columbia, Puerto Rico or the Virgin Islands, by reason of the Agreement between Canada and the United States Respecting Unemployment Insurance, signed on March 6 and 12, 1942,
+(ii) the Railroad Unemployment Insurance Act of the United States;
+(d) employment in Canada of a person who resides in a country other than Canada, if premiums are payable in respect of services performed by the person in Canada under the unemployment insurance laws of that other country;
+(e) employment of a person for the purpose of a rescue operation, if the person is not regularly employed by the employer who employs them for that purpose; and
+(f) employment under the Self-employment employment benefit or the Job Creation Partnerships employment benefit established by the Commission under section 59 of the Act or under a similar benefit that is provided by a provincial government or other organization and is the subject of an agreement under section 63 of the Act.
+[Emphasis added.]
+[15] In the Respondent's submission, the fact that Mr. Leblanc, like the other volunteer firefighters, is called upon to be on watch every two months is sufficient for it to be concluded that the employment is insurable, because it shows that he is regularly employed.
+[16] The Respondent also submits that the fact that the Municipality paid the association $450 per firefighter is another factor that supports such a finding.
+[17] With respect to the $450, it has been established that, contrary to what the Respondent appears to have thought, it was not paid directly to each firefighter; rather, it was paid to the association, which could dispose of it as it saw fit. The amount received was deposited into the association's account, and the association could spend it any way it wished.
+[18] The deputy chief stated that the firefighters received $5 for each training session, but the evidence does not permit a finding that this amount came out of the $450 that the association received.
+[19] The evidence also discloses that the Appellant paid workers' compensation premiums to the CSST. The Municipality also paid the costs of life insurance for all volunteer firefighters, including, of course, the deputy chief.
+[20] In Municipalité d'Eastman v. Minister of National Revenue, [2000] T.C.J. No. 521, I wrote as follows:
+21. The evidence showed that Mr. Laramée had complete discretion as to whether or not to go to the scene of an emergency, even though the emergency was located on the territory for which he was responsible. . . .
+[21] In Whitchurch-Stouffville (City) v. Minister of National Revenue, [1993] T.C.J. No. 152, the Honourable Judge Teskey wrote as follows:
+21. In the case at bar, the Volunteers work as part-time employees, and are remunerated for time spent on call and in training. In the "business" of volunteer fire fighting, the hours of work, apart from training, would be unpredictable as they would only be working when responding to a call. Consequently, their hours of work can be described as "intermittent and sporadic", as in the case of Malo. On the other hand, if the Volunteers were required to be "on call" in the sense that they must be available to respond to calls during certain set periods, then their hours of work could be described as "regular".
+22. The decisions in Abrahams and Malo set out certain guidelines for determining whether an employment is to be considered "regular" within the context of the Act. Where there is ambiguity in the wording of the statute, the Court must adopt the interpretation which favours the taxpayer.
+23. In the present appeal, taking into account the words of Lacombe J. in Malo, it appears that the Volunteers' employment as part-time volunteer firefighters would not constitute insurable employment for the purposes of the Act as it is impossible to identify some consistency in the frequency and the sequence of units of work which the Volunteers are called on to provide. Although this may be inherent in the nature of the work, Lacombe J. specifically stated that "the claimant must show that he did actually perform the work as part of a regular work schedule, regardless of the actual nature of the work being done".
+[22] The Respondent submits that the obligation to be on watch roughly every 20 weeks, depending on the number of volunteers, made the work "regular."
+[23] I do not believe that it is possible, in light of the evidence, to conclude that it was regular employment.
+[24] Remuneration is one of the essential conditions that must be met in order for employment to be insurable. In this case, however, the only time the person is remunerated for work is if there is an accident, a fire or another tragedy. Such events are not predictable and happen randomly. For this reason, I believe it is not appropriate to conclude that the work is regular.
+[25] The meaning of a situation or word may depend on the way the analysis is done. An analysis that does not take the context into account could come to a conclusion that is very different from the one that would be reached following an analysis that does take the context into account.
+[26] In the instant case, Parliament clearly intended to create an exception for persons who perform an essential service in very small municipalities.
+[27] This context and this intent cannot be disregarded based on the pretext that the manner in which the activity is done or structured might supply an argument based on which it could be concluded that the exception does not apply.
+[28] For these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 2nd day of October 2009.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 20th day of November 2009.
+Brian McCordick, Translator
+CITATION: 2009 TCC 491
+COURT FILE NO.: 2009-843(EI)
+STYLE OF CAUSE: MUNICIPALITÉ DE MARIA v. M.N.R.
+PLACE OF HEARING: New Carlisle, Quebec
+DATE OF HEARING: August 14, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 2, 2009
+APPEARANCES:
+Agent for the Appellant:
+Gilbert Leblanc
+Counsel for the Respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

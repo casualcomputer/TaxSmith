@@ -1,0 +1,265 @@
+---
+title: "Shannon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29206/index.do"
+last_modified: "2009-04-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 231"
+citation2: ""
+neutral_citation: "2009 TCC 231"
+decision_date: "2009-04-27"
+language: "en"
+item_id: "29206"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6702
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:20:01.173000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bb201e0bf8f058f54107905d6713de4a36d5c5a59772e9800d7ee56cc638a568"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shannon v. The Queen
+
+- Citation: 2009 TCC 231
+- Decision date: 2009-04-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6702, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shannon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-27
+Neutral citation
+2009 TCC 231
+File numbers
+2007-2715(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2715(IT)G
+BETWEEN:
+RICHARD SHANNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motions of Lucille Shannon (2007-2716(IT)G) and R & L Pipeline Services Ltd. (2007-2717(IT)G and 2007‑2718(GST)G), on February 9, 2009, at Edmonton, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Gordon Beck
+Counsel for the Respondent:
+Kim Palichuk
+____________________________________________________________________
+ORDER
+Upon hearing the motion by the Respondent seeking an order to compel the Appellant to answer questions posed in requests for undertakings;
+And upon hearing what was alleged by the parties;
+The Appellant shall provide responses of the generic type noted in the attached Reasons for Order within 10 days of this Order.
+Signed at Ottawa, Canada, this 27th day of April 2009.
+"Robert J. Hogan"
+Hogan J.
+Docket: 2007-2716(IT)G
+BETWEEN:
+LUCILLE SHANNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motions of Richard Shannon (2007-2715(IT)G) and R & L Pipeline Services Ltd. (2007-2717(IT)G and 2007‑2718(GST)G), on February 9, 2009, at Edmonton, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Gordon Beck
+Counsel for the Respondent:
+Kim Palichuk
+____________________________________________________________________
+ORDER
+Upon hearing the motion by the Respondent seeking an order to compel the Appellant to answer questions posed in requests for undertakings;
+And upon hearing what was alleged by the parties;
+The Appellant shall provide responses of the generic type noted in the attached Reasons for Order within 10 days of this Order.
+Signed at Ottawa, Canada, this 27th day of April 2009.
+"Robert J. Hogan"
+Hogan J.
+Docket: 2007-2717(IT)G
+BETWEEN:
+R & L PIPELINE SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motions of Richard Shannon (2007-2715(IT)G), Lucille Shannon (2007-2716(IT)G) and R & L Pipeline Services Ltd. (2007‑2718(GST)G), on February 9, 2009, at Edmonton, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Gordon Beck
+Counsel for the Respondent:
+Kim Palichuk
+____________________________________________________________________
+ORDER
+Upon hearing the motion by the Respondent seeking an order to compel the Appellant to answer questions posed in requests for undertakings;
+And upon hearing what was alleged by the parties;
+The Appellant shall provide responses of the generic type noted in the attached Reasons for Order within 10 days of this Order.
+Signed at Ottawa, Canada, this 27th day of April 2009.
+"Robert J. Hogan"
+Hogan J.
+Docket: 2007-2718(GST)G
+BETWEEN:
+R & L PIPELINE SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motions of Richard Shannon (2007-2715(IT)G), Lucille Shannon (2007-2716(IT)G) and R & L Pipeline Services Ltd. (2007-2717(IT)G), on February 9, 2009, at Edmonton, Alberta.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Gordon Beck
+Counsel for the Respondent:
+Kim Palichuk
+____________________________________________________________________
+ORDER
+Upon hearing the motion by the Respondent seeking an order to compel the Appellant to answer questions posed in requests for undertakings;
+And upon hearing what was alleged by the parties;
+The Appellant shall provide responses of the generic type noted in the attached Reasons for Order within 10 days of this Order.
+Signed at Ottawa, Canada, this 27th day of April 2009.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2009 TCC 231
+Date: 20090427
+Dockets: 2007-2715(IT)G,
+2007-2716(IT)G,
+2007-2717(IT)G, 2007-2718(GST)G
+BETWEEN:
+RICHARD SHANNON,
+LUCILLE SHANNON,
+R & L PIPELINE SERVICES LTD.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+[1] The Respondent seeks an order to compel the Appellants to answer questions posed in requests for undertakings, which were refused, or in the alternative, an order striking documents No. 7 (“Documents No. 7”) from the Appellants’ lists of documents for failure to comply with sections 81 and 84 of the Tax Court of Canada Rules (General Procedure) (the “Rules”).
+Factual Background
+[2] During the relevant period, the corporate Appellant entered into contracts to provide pipeline welding services throughout western Canada and overseas.
+[3] There are four related actions dealing with contested expenses of the corporate taxpayer, R & L Pipeline Services Ltd. (“Pipeline”), and alleged shareholder benefits. The Respondent reassessed the Appellants, denying the deduction of expenses incurred by the corporate Appellant on the basis that they were personal and living expenses of the individual Appellants, who received the benefit of the expenditures in their capacity as shareholders.
+[4] The Appellants provided identical lists of documents for the four actions, each containing “documents” identified as follows:
+7. Various expense support documents including invoices, sales receipts, credit card statements, various working papers, summaries and reconciliations prepared by Appellant’s accounting advisors.[1]
+(Herein referred to as Documents No. 7.)
+[5] Discovery in the Appellants’ cases took place on May 29, 2008. Lucille Shannon testified as the officer of Pipeline, on her own behalf, and on behalf of Richard Shannon, who adopted her testimony as his evidence.
+[6] At the examination for discovery, a number of undertakings were requested by the Respondents with respect to documents No. 5 (“Documents No. 5”) and Documents No. 7 on the Appellants’ lists of documents. These undertakings were allegedly refused on the basis of relevance.
+[7] The Respondent requested undertakings to provide answers to the following questions with respect to Documents No. 7 :
+a) Which specific documents in the bundle of Documents No. 7 will be relied upon at trial?
+b) What facts contained in each of those specific documents support the Appellants’ position?
+[8] Documents No. 7 on the Appellants’ list of documents contain various components of the working papers prepared by the accountant for the Appellants in support of the financial statements of the corporate Appellant. These working papers were used to prepare the financial statements which served in the preparation of the corporate income tax returns that are under dispute in the present appeals.
+[9] The Respondent, during the examination for discovery of Lucille Shannon for the Appellants, assembled Documents No. 7 in four bundles identified as follows:
+a) stack beginning with R & L year-end June 30, 1993,
+b) stack beginning with R & L year-end June 30, 1994,
+c) stack beginning with R & L year-end June 30, 1995.
+[10]On review of excerpts from the examination for discovery transcript, I note that Lucille Shannon admitted she had little familiarity with the material contained in each bundle.
+[11]The Appellants allege that Documents No. 7 were reviewed in considerable detail by the Respondent’s auditor in the course of the audit that resulted in the reassessments that are the subject of these appeals. The Respondent’s auditor, they maintained, understands the information contained in these documents, and the undertakings requested would duplicate the explanations provided during the audit process.
+Undertakings Relating to Business Expenses
+[12]The remaining undertakings in dispute, namely undertakings Nos. 8 to 12, are all in relation to Documents No. 5 on the lists of documents. Documents No. 5 are a copy of the CRA audit report with a covering letter.
+[13]For each business expense claimed, the Respondent inquired as to the specific business purpose. The Appellants took the position that they were not obliged to provide information beyond the characterization of the expenses as being of a “business” nature. Furthermore, the Appellants pointed out that Lucille Shannon testified that only legitimate business expenses were deducted in the calculation of Pipeline’s income for tax purposes.
+Issues
+[14]Should the Appellants be required to provide answers pursuant to the undertakings requested in relation to Documents No. 7 on the lists of documents (questions 20 to 23)?
+[15]If the Appellants’ objection to answering the Respondent’s questions in this regard is upheld on the basis that Documents No. 7 and the related undertakings are not relevant, should Documents No. 7 then be struck from the lists of documents for non-compliance with sections 81 and 84 of the Rules?
+[16]Should the Appellants be required to answer the questions posed in relation to alleged business expenses referenced in Documents No. 5 (questions 8 to 12)?
+Analysis
+[17]The Appellants’ counsel argues that, in considering the Respondent’s motion to compel the Appellants to answer questions posed in requests for undertakings or, alternatively, to strike Documents No. 7 from the Appellants’ lists of documents, I must bear in mind that the issue in the appeals is simply whether expenses incurred by the corporate Appellant were business expenses or not. According to counsel, because this issue is simple and straightforward, it should influence the extent of the Respondent’s entitlement to “discover” the Appellants’ cases. In addition Documents No. 7 were fully examined by the Respondent’s auditor during the audit process. Detailed explanations of these documents were given by the Appellants during that audit process.
+[18]The Appellants agree with the general principles of discovery set out in paragraphs 8 through 13 of the Respondent’s written submissions, but dispute that the inclusion of Documents No. 7 on the Appellants’ lists of documents affects in any substantive way these general principles.
+[19]In particular, the Respondent alleges that the aim of ensuring a fair and expeditious proceeding that is facilitated by the discovery process is not thwarted in any way by the inclusion of Documents No. 7, given the extensive review of those documents performed by the Respondent’s auditor in the course of the audit of the Appellants. In brief, there is no element of surprise resulting from inclusion, on the Appellants’ lists’ of documents already thoroughly reviewed by the Respondent. Likewise, for the same reason, the aim of providing a discovering party with meaningful, reliable and complete disclosure is not compromised by inclusion of Documents No. 7 on the Appellants’ lists. Documents No. 7 have a single constituent: working papers prepared by the Appellants’ accountant in furtherance of the preparation of the Appellants’ financial statements and tax returns.
+[20]Former Chief Justice Bowman, in Loewen v. The Queen (2006),[2] addresses as follows the question of the level of detail that a party must give to the other party in producing a bundle of documents:
+8 … A party is entitled to know why a document is being produced. One must bear in mind that section 81 of the Tax Court of Canada Rules (General Procedure), in contrast with section 82, is rather unique in that it requires only that the party produce a list of documents that it is intended will be used in evidence. If the answers given were acceptable it would mean that a litigant could swamp the other side by producing cartons of documents and leave it to the other side to go through them in an attempt to anticipate what use, if any, will be made of them. I think a litigant is entitled to know why the other party thinks a document is relevant. It is insufficient to say, in effect, that a document is being put in the list of documents on the off chance that it may be useful to rebut some unspecified point that the other side may wish to make.
+In addressing whether the Appellants should accede to the Respondent’s requests for undertakings to provide particulars regarding the documents listed by the Appellants, I will use the general principle succinctly enunciated by Bowman C. J.
+[21]While I agree with the Appellants’ position that the issue in the appeals is relatively straightforward, I do believe that the Respondent is entitled to know more about why Documents No. 7 appear on their lists. The Appellants provide an answer to this question in their written submissions, as follows:
+6. #7 was reviewed in considerable detail by the Respondent’s auditor in the course of the audit that resulted in the reassessments that are the subject of these appeals.
+7. Notwithstanding this extensive review of #7 by the Respondent’s auditor, it is the Appellants’ position that the #7 reveals at least two errors were committed by the auditor in reassessing the Appellants, namely:
+(i) basing a portion of the reassessment of the corporate Appellant on a figure for “travel expense” that was a thousand times higher than the figure actually claimed by the corporate Appellant;
+(ii) assessing a standby charge benefit on a vehicle the reassessed individual Appellant owned personally.
+[22]In brief, the Appellants are alleging that the auditor made basic errors that are obvious from a review of Documents No. 7.
+[23]I believe that it would be sufficient for the Appellants to provide this answer to the Respondent’s question as to why the documents appear on the lists or to provide some answer along the same lines.
+[24]I also believe that the Appellants should respond to the Respondent’s request for particulars as to which of Documents No. 7 will be relied upon by the Appellants. For example, the Appellants could reply by stating that they will be relying on all the documents to show that the internal and external auditors reviewed the working papers and other financial documents included in Documents No. 7 and that they accepted the contested expenses as legitimate business expenses of the corporate Appellant by accepting the use of these working papers to prepare the financial statements and tax returns of the corporate Appellant. I do not believe that the Appellants need to be more precise than this in their reply.
+[25]Finally, I agree with the Respondent that the Appellants should indicate what facts are set out in each document that supports the Appellants’ position. For example, the Appellants could fulfil the undertaking requested in this regard by stating that the financial working papers, etc. show that the Appellants’ advisors were satisfied that the contested expenses were legitimate business expenses of the corporate Appellant. The outside auditors were satisfied that the expenses were deductible, otherwise they would have had to make a deferred tax adjustment to account for the potential tax liability, subject to the level of materiality of this item. Obviously, the Appellants could provide a different answer that could be along the same generic lines as this example.
+Undertakings Relating to Business Expenses
+[26]The Respondent made requests for undertakings that the Appellants provide information in response to the following questions posed in relation to the matters listed below:
+Undertaking Request
+Related Document
+Transcript
+Reference
+(8) Identify, for the travel expenses, for each expense claimed, what the purpose of the business trip was.
+#5 of Appellants’ Lists of Documents
+(Exhibit B to Affidavit of Monique Van Damme)
+Pages 22-30
+(Exhibit D to the Affidavit of Monique Van Damme)
+(9) April 25, 2002, Travel Lodge, Calgary Airport: Advise what the business purpose of the trip to the Calgary airport was.
+#5 of Appellants’ Lists of Documents
+(Exhibit B to Affidavit of Monique Van Damme)
+Pages 31-33
+(10) Advise as to the business purpose of the trip by which the dinosaur trail RV expense for $105.75 was incurred on July 14th of 2002
+#5 of Appellants’ Lists of Documents
+(Exhibit B to Affidavit of Monique Van Damme)
+Pages 33-35
+(11) Advise what the business purpose of the particular expense on July 25th, 2002, no description on invoice, accommodation trailer $100 was.
+#5 of Appellants’ Lists of Documents
+(Exhibit B to Affidavit of Monique Van Damme)
+Pages 36-37
+(12) Advise what the business purpose of the expense for July 30th, 2002, Thunderbird Hotel in Red Deer, $62.75 was for.
+#5 of Appellants’ Lists of Documents
+(Exhibit B to Affidavit of Monique Van Damme)
+Pages 37-38
+[27]Once again, I believe that the Appellants should provide answers to the questions posed by the Respondent. These responses can also be of a generic nature. For example, if particular travel expenses relate to travel to and from work sites or travel for the purpose of obtaining work, the Appellants could answer by grouping the similar expenses together and stating that the particular travel expenses listed relate to travel to and from work sites. This type of answer, in my opinion, is sufficient to remove any element of surprise to the Respondent. Counsel for the Respondent can use this information to formulate her cross-examination questions.
+[28]In summary, in view of the simple nature of the issue in dispute, I believe it is sufficient for the Appellants to provide to each of the questions listed above generic answers similar to the hypothetical responses that I have offered for illustration purposes. Responses of this type strike the proper balance between informing the Respondent of the purpose for which the documents will be produced and avoiding the danger that the Appellants will be overburdened with requests for specificity.
+[29]The Appellants shall provide responses of the generic type noted above within 10 days of the Order.
+Signed at Ottawa, Canada, this 27th day of April 2009.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2009 TCC 231
+COURT FILE NOS.: 2007-2715(IT)G, 2007-2716(IT)G, 2007‑2717(IT)G, 2007-2718(GST)G
+STYLE OF CAUSE: RICHARD SHANNON, LUCILLE SHANNON and R & L PIPELINE SERVICES LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: February 9, 2009
+REASONS FOR ORDER BY: The Honourable Justice Robert J. Hogan
+DATE OF ORDER: April 27, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Gordon Beck
+Counsel for the Respondent:
+Kim Palichuk
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gordon Beck
+Firm: Henning Byrne
+Edmonton, Alberta
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Appellants’ Lists of Documents (Exhibit A to Affidavit of Monique Van Damme).
+[2] [2007] 1 C.T.C. 2151.

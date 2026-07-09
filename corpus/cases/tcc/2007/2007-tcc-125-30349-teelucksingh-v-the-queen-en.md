@@ -1,0 +1,141 @@
+---
+title: "Teelucksingh v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30349/index.do"
+last_modified: "2007-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 125"
+citation2: ""
+neutral_citation: "2007 TCC 125"
+decision_date: "2007-03-05"
+language: "en"
+item_id: "30349"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7962
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:20:50.499000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3d873f9a345d6260b32a5f765f9f10d9959e64617b5dcc26d63a7d4767661c21"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Teelucksingh v. The Queen
+
+- Citation: 2007 TCC 125
+- Decision date: 2007-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7962, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Teelucksingh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-05
+Neutral citation
+2007 TCC 125
+File numbers
+2005-1930(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC125
+Date: 20070305
+Docket: 2005-1930(IT)G
+BETWEEN:
+LLOYD M. TEELUCKSINGH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Counsel for the appellant: A. Christina Tari and Steve Yoker
+Counsel for the respondent: George Boyd Aitken and Roger Leclaire
+Counsel for the third party, Dale Smith: Peter Aprile
+____________________________________________________________________
+REASONS FOR ORDER
+(Delivered orally by teleconference
+on February 13, 2007, in Ottawa, Ontario.)
+BowieJ.
+[1] This motion before me is brought under Rule 99 by the Respondent for an Order to require Mr. Dale Smith, who is not a party to the appeal, to submit to an examination for discovery. The income tax appeal is concerned with the operations of two limited partnerships in which the Appellant, at the material time, held interests as a limited partner. For the purposes of the motion, I am prepared to accept that the material before me establishes that Mr. Smith does, indeed, have information that is relevant to the issues between the parties in the appeal.
+[2] Mr. Smith and the Appellant both oppose the motion on several grounds. Rule 99 reads:
+99(1) The Court may grant leave, on such terms respecting costs and other matters as are just, to examine for discovery any person who there is reason to believe has information relevant to a material issue in the appeal, other than an expert engaged by or on behalf of a party in preparation for contemplated or pending litigation.
+99(2) Leave under subsection (1) shall not be granted unless the Court is satisfied that,
+(a) the moving party has been unable to obtain the information from other persons whom the moving party is entitled to examine for discovery, or from the person sought to be examined,
+(b) it would be unfair to require the moving party to proceed to hearing without having the opportunity of examining the person, and
+(c) the examination will not,
+(i) unduly delay the commencement of the hearing of the proceeding,
+(ii) entail unreasonable expense for other parties, or
+(iii) result in unfairness to the person the moving party seeks to examine.
+99(3) A party who examines a person orally under this section shall, if requested, serve any party who attended or was represented on the examination with the transcript free of charge, unless the Court directs otherwise.
+99(4) The examining party is not entitled to recover the costs of the examination from another party unless the Court expressly directs otherwise.
+99(5) The evidence of a person examined under this section may not be read into evidence at the hearing under subsection 100(1).
+It has been said correctly that Rule 99 provides for an extraordinary remedy that ought to be applied sparingly and only where there is demonstrably strict compliance with subsection (2) of the Rule. The Rule in subsection (1) requires that the proposed examination be to discover "information relevant to a material issue in the appeal".
+[3] The notice of motion before me states in paragraph 1 that the fundamental issue in this appeal is whether two limited partnerships, which are named, were formed by persons carrying on business with a view to profit. The Appellant has been examined for discovery and on that examination, denied personal knowledge of information on a number of issues relevant to the appeal.
+[4] The Respondent's counsel wrote on October 31, 2006 to Mr. Smith to request the opportunity to meet with him and discuss the operations of the two limited partnerships in question and their relationship with Montebello Farms Inc., of which Mr. Smith at the relevant time was, it appears, an officer and a director. This letter was sent to Mr. Smith at what is described in the material before me as his seasonal residence at Val-des-Monts, Québec, which I accept was the only address of Mr. Smith known to counsel for the Respondent. Having had no reply to that letter by mid-November, counsel for the Respondent then launched the motion that is before me now.
+[5] I made an Order specifically giving directions as to the conduct of the motion, which included directions for service on Mr. Smith of the motion material by leaving it at his residence at Val-des-Monts. Mr. Smith received that material, but not apparently before December 29. On December 29, Mr. Smith sent an email to counsel for the Respondent which reads as follows:
+I recently visited my address of record, a seasonal residence, for the first time in a month or so, on December 24, 2006, and found a motion record on the doorstep, apparently left by a process server.
+With the holiday season I have not had time to consult with counsel as to what my duties/obligations are, but I would certainly wish to cooperate in any way I can to make sure that any facts I can present to clarify issues are put on the record.
+I am currently out of the country on vacation and business until approximately January 15, 2007, but will try to speak with prospective counsel remotely and get a better understanding as to what the proper process is.
+[6] Certainly the tone of this email is far from hostile and one might reasonably suggest that the appropriate response to it would be to endeavour to arrange an informal meeting with Mr. Smith, and if a date had been agreed upon with him to do that, then to take the necessary steps to withdraw, or more probably postpone sine die, the hearing of the motion. Instead, counsel for the Respondent replied by email to Mr. Smith later that day:
+Thank you for your email of today. We understand from your email that you agree to participate in the examination for discovery in this matter, as proposed by the Respondent's Motion to the Tax Court dated November 23, 2006.
+Pending an order from the Tax Court allowing us to proceed, we are prepared to schedule the examination at your convenience in the coming months and at a location most convenient to your own in Val-des-Monts.
+Bearing in mind the deadlines established by the Tax Court in its order, we would be pleased to forward materials to you at your current location. We would ask that you kindly provide us with the address where you will be staying until January 15, 2007, and we will forward any further documentation to you.
+Mr. Smith replied to this the following day, again by email:
+Thank you for your email reply below. To ensure there is no misunderstanding, what I have advised is that I only received your motion record on Christmas Eve. Under these circumstances, I have not had the opportunity to speak with legal counsel to determine what my obligations, if any, are with respect to this matter.
+Accordingly, I have not agreed to participate in any examination for discovery and will not be in a position to respond to this request until after I have consulted with counsel.
+In this regard, it is my intention to obtain this legal advice after I have returned to the country.
+I note that there is no specific return date on the motion material which was left for me. If I am mistaken in this regard, please advise upon receipt of this email. Otherwise, either I or my counsel will be in touch with you after my return.
+In the meantime, you may forward any further related documentation to me using this email address.
+[7] The motion before me is opposed now both by Mr. Smith and by the Appellant. Among the grounds of opposition are that the motion does not indicate specifically what relevant information counsel for the Respondent expects to obtain from Mr. Smith. Secondly, it is argued that inadequate attempts to deal with the matter informally have been made by the Respondent and thirdly, that Mr. Smith had, according to the uncontested affidavit filed on behalf of Mr. Smith, met with an auditor from Revenue Canada, presumably prior to the raising of the assessments, "for several hours on four or five occasions." It is not totally clear to me whether that means several hours cumulatively on four or five occasions or for several hours on each of four or five occasions. But in either event, there obviously were significant and substantial discussions between Mr. Smith and the auditor prior to the assessment.
+[8] The Reply to the Notice of Appeal particularizes the Minister's assumptions made on assessing the Appellant in some detail and it makes specific assumptions in respect of what can be collectively described as matters involved in the operation of the business of these partnerships. It is reasonable in the absence of any evidence to the contrary, to conclude that those assumptions that are pleaded by the Minister as underlying the assessment have their genesis in the conversations or interviews between Mr. Smith and the auditor.
+[9] My reading of the exchange of emails that took place on December 29 and 30, 2006 to which I have referred, leads me to believe that if the Respondent's counsel had taken a somewhat less militant approach in response to Mr. Smith's first email, a meeting might well have been arranged, and this Motion either withdrawn or at least adjourned to permit that meeting to take place and to permit the Respondent to obtain information from Mr. Smith without the compulsion of an order of the Court, and without the need for an examination before a reporter under oath. Mr. Aitken suggested in argument that the motion might now be adjourned to permit such a meeting to take place, but in my view that suggestion comes about a month and a half too late.
+[10] Considering all of the foregoing, I am not satisfied that the Respondent has shown that paragraph 99(2)(a) of the Rule has been satisfied in that the moving party has been unable to obtain the information from other persons whom the moving party is entitled to examine for discovery, or from the person sought to be examined.
+[11] I make that finding on two bases: first, the uncontroverted evidence that the moving party, which is to say Her Majesty the Queen, in the person of the assessor of the Minister of National Revenue did have discussions, and did obtain information relevant to the issues in this appeal from Mr. Smith, as deposed in the affidavit of Daniel Im. I reach this conclusion as well on the basis that the tenor of the exchange of email leaves me with the distinct impression that the Motion was brought prematurely and might easily have been avoided had counsel for the Respondent replied in a more conciliatory way to Mr. Smith's email of December 29.
+[12] In view of all of these factors, it seems to me more likely that the Respondent now seeks not to obtain specific information as to the issues raised by the pleadings, but that the real object of this motion is one of two things. Either that the proposed examination would be a fishing expedition by the Respondent, or else the real object is not to obtain information so much as it is to get Mr. Smith's version of the facts recorded under oath prior to trial by a process akin to the deposition of witnesses that takes place in some other countries, but not in this one.
+[13] Neither of these objects is within the contemplation of Rule 99, and the motion will therefore be dismissed, with costs to Dale Smith which I fix at $750, payable by the Respondent forthwith. As between the parties, costs of the motion will be in the cause.
+Signed at Ottawa, Canada, this 5th day of March 2007.
+"E.A. Bowie"
+Bowie J.
+CITATION: 2007TCC125
+COURT FILE NO.: 2005-1930(IT)G
+STYLE OF CAUSE: LLOYD M. TEELUCKSINGH
+and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: February 13, 2007
+REASONS FOR ORDER BY: The Honourable Justice E.A.Bowie
+DATE OF ORDER: February 13, 2007
+APPEARANCES:
+Counsel for the Appellant:
+A. Christina Tari and Steve Yoker
+Counsel for the Respondent:
+George Boyd Aitken and Roger Leclaire
+Counsel for the Third Party.
+Dale Smith
+Peter Aprile
+COUNSEL OF RECORD:
+For the Appellant:
+Name: A. Christina Tari and Steve Yoker
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

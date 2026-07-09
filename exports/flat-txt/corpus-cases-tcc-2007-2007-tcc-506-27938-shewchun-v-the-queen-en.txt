@@ -1,0 +1,88 @@
+Title: Shewchun v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27938/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-506-27938-shewchun-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-07-26
+
+# Shewchun v. The Queen
+
+- Citation: 2007 TCC 506
+- Decision date: 2007-07-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1721, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shewchun v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-26
+Neutral citation
+2007 TCC 506
+File numbers
+1999-2216(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC506
+Date: 20070824
+Docket: 1999-2216(IT)G
+BETWEEN:
+JOHN SHEWCHUN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Respondent's motions called for hearing on June 27, 2007 at Windsor, Ontario
+Before: The Honourable Justice G.A. Sheridan
+Appearances:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Marie-Thérèse Boris
+____________________________________________________________________
+REASONS FOR ORDER
+Sheridan, J.
+[1] By letter dated August 1, 2007, the Respondent requested written reasons for my Order of July 26, 2007 dismissing the following motions:
+1. a motion dated September 29, 2003 for an order dismissing the appeal; or in the alternative, an order for Security for Costs in the amount of $21,872.00;
+2. a motion dated October 6, 2003 for an order extending the time for service of the motion to dismiss the appeal[1];
+3. a motion dated October 30, 2003 for an order dismissing the appeal with costs fixed at $5,000.00;
+[2] The Appellant commenced his appeals in 1999. Since that time, delay has built upon delay. The most recent activity on the filing having been the flurry of motions dating back to 2003, by Order dated April 27, 2007, the Court ordered that the parties attend for the hearing of the motions on June 27, 2007.
+[3] On that date, the Appellant did not appear and his two motions were dismissed from the Bench for the Appellant's failure to appear[2].
+[4] By way of background, there were two other (unrelated) matters on the hearing list for that same day. In view of this and given that the Appellant had earlier advised the Court of his concerns regarding possible delays in crossing the border from the United States where he is resident, I directed the Registry to inform the parties that the motions would not be called until 2:00 p.m., rather than at 9:30 a.m. as set out in the Order of April 27, 2007. As it happened, the other matters did not finish until after 3:00 p.m. on that day.
+[5] When the motions were called for hearing, a woman identifying herself as Olga Shewchun, the Appellant's sister, presented herself on his behalf. According to Ms. Shewchun, the last-minute change in the time for the hearing made it impossible for the Appellant to reschedule an important medical appointment and he was accordingly, unable to attend in person. She had been dispatched to deliver his excuses and appear on his behalf. Ms. Shewchun urged me to examine, at that moment, the Court file for past correspondence regarding the Appellant's (apparently) poor state of health. This I declined to do. I also denied Ms. Shewchun's last-minute request to appear on his behalf as she is not a lawyer as required under subsection 30(1) of the Tax Court of Canada Rules (General Procedure).
+[6] The motions were heard in the Appellant's absence, although Ms. Shewchun remained in the courtroom throughout. Counsel for the Respondent argued with some vigour that the Appellant's appeals ought to be dismissed or in the alternative, the Appellant ordered to pay security for costs on the basis that he is a non‑resident. While I have some sympathy for the frustration that quite clearly manifested itself in the presentation of her submissions, counsel for the Respondent did not convince me that, in the circumstances, the Respondent's motions ought to be granted.
+[7] A review of the file shows that the Appellant, who is not a young man, is self‑represented. There have been innumerable delays in the appeals which counsel for the Respondent submitted with some justification are the fault of the Appellant. Whether that is the result of his inexperience and lack of legal representation, or as counsel claimed, "games-playing" was not entirely clear on the face of the record. In any event, because of the change in the hearing time, the possibility of the validity of the Appellant's health problems, the superior legal and financial resources of the Respondent and the drastic consequences to the Appellant of dismissing his appeals, I believed the interests of justice to be better served by resolving whatever doubt I had in respect of the granting of the Respondent's motions in favour of the Appellant.
+[8] The Appellant ought not, however, to interpret my dismissal of the Respondent's motions as approving of his past behaviour. The fact remains that these are his appeals and it is his responsibility to prosecute them in a responsible and timely fashion. In an effort to restore some order to the conduct of these appeals, I set out in my Order of July 26, 2007 a timetable detailing the dates by which the steps leading to the hearing of the appeals must be completed. Not the least of these is the Appellant's obligation to complete his Examinations for Discovery of the Respondent by October 26, 2007, a date that is fast approaching. Counsel for the Respondent outlined in some considerable detail the evidence regarding the Appellant's earlier failure to conduct discoveries at the appointed time and place. Given the benefit of the doubt already accorded to the Appellant in the course of these appeals and most recently, in my refusal to grant the Respondent's motions, the Appellant is unlikely to find a sympathetic ear for his excuses should he fail to respect the timetable set out in my Order. It is to be hoped that the Appellant will make good use of the opportunity he has been given; if not, he will have to face the consequences.
+[9] For these reasons, the Respondent's motions are dismissed.
+Signed at Ottawa, Canada, this 24th day of August, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC506
+COURT FILE NO.: 1999-2216(IT)G
+STYLE OF CAUSE: JOHN SHEWCHUN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: June 27, 2007
+REASONS FOR ORDER BY: The Honourable Justice G. A. Sheridan
+DATE OF REASONS: August 24, 2007
+APPEARANCES:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Marie-Thérèse Boris
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant’s motion upon which this motion was predicated having been dismissed, it was not necessary to consider this motion and it was dismissed accordingly.
+[2] By Order dated July 26, 2007.

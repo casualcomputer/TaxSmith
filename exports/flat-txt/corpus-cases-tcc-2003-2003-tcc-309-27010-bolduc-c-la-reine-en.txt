@@ -1,0 +1,158 @@
+Title: Bolduc c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27010/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-309-27010-bolduc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-05-16
+
+# Bolduc c. La Reine
+
+- Citation: 2003 TCC 309
+- Decision date: 2003-05-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 620, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-16
+Neutral citation
+2003 TCC 309
+File numbers
+2001-3328(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3328(IT)I
+BETWEEN:
+JEAN BOLDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 25, 2003 at Chicoutimi, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The appellant himself
+Agent for the Respondent:
+Emmanuëlle Faulkner (Student-at-law)
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act("the Act") having to do with the tax credit for mental or physical impairment for the 1987 to 1997 and the 2000 taxation years are declared invalid and are therefore dismissed. The appeal for the 2001 taxation year is, under the Act, a premature application and is therefore dismissed on the ground of nullity. The appeals for the 1998 and 1999 taxation years are dismissed under the Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of May 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 26th day of January 2004.
+Carol Edgar, Translator
+Citation: 2003TCC309
+Date: 20030516
+Docket: 2001-3328(IT)I
+BETWEEN:
+JEAN BOLDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.T.C.C.
+[1] These appeals have to do with the tax credit for mental or physical impairment claimed by the appellant on behalf of his son. The appeals cover a number of taxation years, specifically, those from 1987 to 2001.
+[2] Firstly, the appeals for the 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997 and 2000 taxation years must be declared invalid on the ground that the appellant did not serve on the Minister of National Revenue ("the Minister") Notices of Objection to the assessments within the prescribed time periods.
+[3] At the time the Notices of Appeal for those taxation years were filed, the appellant had not served Notices of Objection within the prescribed time periods.
+[4] Since these time periods are de rigueur, there is no need to spend more time on the justification for the appeals for those taxation years; those appeals must be dismissed accordingly.
+[5] Concerning the 2001 taxation year, here again the justification for the appeal cannot be assessed since it is a premature application. The appellant has not yet filed an income tax return and consequently no assessment has been made. All these facts have the effect of nullifying the Notice of Appeal for that taxation year.
+[6] I shall deal with only the 1998 and 1999 taxation years, for which the Notice of Appeal respects the time periods and the relevant procedure.
+[7] The tax credit claimed by means of the Notice of Appeal is provided for in sections 118.3(1)(a) and 118.4(1)(c) of the Income Tax Act ("the Act"), which read as follows:
+118.3 Credit for mental or physical impairment
+(1) Where
+(a) an individual has a severe and prolonged mental or physical impairment,
+(a.1) the effects of the impairment are such that the individual's ability to perform a basic activity of daily living is markedly restricted,
+(a.2) a medical doctor, or where the impairment is an impairment of sight, a medical doctor or an optometrist, has certified in prescribed form that the individual has a severe and prolonged mental or physical impairment the effects of which are such that the individual's ability to perform a basic activity of daily living is markedly restricted,
+(b) the individual has filed for a taxation year with the Minister the certificate described in paragraph (a.2), and
+(c) no amount in respect of remuneration for an attendant or care in a nursing home, in respect of the individual, is included in calculating a deduction under section 118.2 (otherwise than because of paragraph 118.2(2)(b.1) for the year by the individual or by any other person,
+for the purposes of computing the tax payable under this Part by the individual for the year, there may be deducted an amount determined by the formula
+A x $4,118
+where
+A is the appropriate percentage for the year.
+118.4 Nature of impairment
+(1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual's ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(c) a basic activity of daily living in relation to an individual means
+(i) perceiving, thinking and remembering,
+(ii) feeding and dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking; and
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living.
+[8] The many judgments concerning the tax credit for mental or physical impairment have repeatedly noted that Parliament set out very restrictive and relatively precise tests for determining whether the tax credit is applicable. Nevertheless, analysis remains difficult given the medical aspect, which is the main characteristic of this type of case; hence the importance, often, of calling on the services of a medical doctor.
+[9] This type of assessment becomes even more problematic when the individual affected by the mental or physical impairment does not testify. As a result, the Court must rely on the testimony of persons who assume responsibility for the individual on whose behalf the tax credit is claimed.
+[10] In this case, the appellant and his spouse testified, their adolescent son, X,[1] being absent. Their testimony was completed by that of pediatrician Charles Morin, a medical specialist, who was very familiar with the case since in it he is the attending physician.
+[11] The evidence established that the adolescent, X, now aged 16 years, has a deficit with significant effects on his remembering and concentrating. This young person is hyperactive and has taken Ritalin daily since he was very young; this medication has significant and positive effects on his behaviour overall.
+[12] X's parents described his serious behavioural and learning problems at length. All their testimony was also confirmed by a written statement from the educator: X is now at the Secondary I level while, according to his age, he should be at the Secondary V level. As well, on this point the content of the letter (Exhibit A-3) provides highly relevant indications, and it is important to reproduce it:
+[TRANSLATION]
+April 24, 2003
+Hello,
+I have been asked to provide an educational profile of X Bolduc-Pearson.
+I have not given X any psychological or neurological tests (I am his teacher). However, I have done so to the best of my knowledge.
+X is a 16-year-old boy who experiences difficulties in his academic subjects. The reason for this state of affairs is that he lacks work effort and constancy. X does not study. X does not see the importance of studying. X is convinced that, for him, there is no point making an effort because he will not succeed anyway. He therefore takes the easy way out and does nothing to change this state of affairs. As a result, he has been very much delayed and is in Secondary 1. He is 16 years old and normally he should be in Secondary 5.
+I hope that this interpretation of X's performance will be helpful to you.
+Yours truly,
+Huguette Morin.
+[13] X is described as undisciplined, aggressive and unpredictable. The parents, clearly very concerned about their child's future and what he is becoming, argued that they were required to supervise him, guide him and call him to order very often; constantly concerned and deeply worried about X's wellbeing, they noted numerous problems resulting from his state of health. They illustrated their testimony with a number of examples demonstrating that their son required ongoing care, attention and vigilance.
+[14] The appellant, who is the parent of two children, X and a daughter, stated that their son often showed lack of respect for them, regularly challenged their authority, did not listen, and systematically forgot all their instructions, as well as very often being aggressive and even violent both verbally and physically, behaviour that was diametrically opposed to that of their young daughter.
+[15] The evidence also showed that X attended school, had friends and participated in sports activities both in and outside of school. He enjoyed hockey and in-line skating, and practised these sports in the evening and on weekends with his friends.
+[16] This adolescent is responsible for a newspaper route; his mother has to help him assume this responsibility because he tends to make mistakes or to forget certain details.
+[17] The Act provides that the deficit forming the basis of the tax credit claimed must be assessed with reference to the basic activities of daily living, that is:
+(i) perceiving, thinking and remembering,
+(ii) feeding and dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+[18] The evidence was material in establishing that only the activities of perceiving, thinking and remembering were at issue. As well, according to the appellant and his spouse, the evidence had to do only with those impairments.
+[19] Is the evidence adduced by the appellant material, and sufficient to allow his appeal for the 1998 and 1999 taxation years?
+[20] I do not believe so. Firstly, I believe that part of the deficit in remembering can be explained by behaviour that is, I shall not say normal, but quite definitely widespread among adolescents who challenge and criticize parental authority. Very few parents have not had to face numerous problems as their children go through adolescence. Often these periods are characterized by deep worry for any parents with a stake in their children's success in life.
+[21] There is no doubt that X's parents have assumed thus far, and will continue to assume, a responsibility that is heavier than normal. Their situation is of greater concern; that fact has been indisputably established by the parents' testimony and confirmed by X's academic level and results. As well, the pediatrician confirmed the reality of the deficit and indicated a medical basis for the parents' fears, worries and observations.
+[22] On the other hand, the evidence has not shown that the deficit observed was serious enough to qualify for the tax credit claimed. While undoubtedly justified on grounds of humanitarian support and profound sympathy for the parents who are responsible for and concerned about the future of their son, the deficit described by means of a number of concrete examples nevertheless does not meet the requirements of the Act. Granted, X is a person affected by a real deficit, but not a deficit that is serious enough to meet the requirements of the Act.
+[23] The balance of evidence is to the effect that the appellant's son did indeed suffer from a neurological deficit with effects that were of concern with regard to his daily activities. On the other hand, it also appears that this adolescent's behaviour was distinctive in certain ways but allowed him to function in the community and to be autonomous.
+[24] Without wishing to minimize the seriousness of the handicap, I believe that some of the difficulties of communication resulted in part from the fact that X, like many young persons his age, challenges everything that calls itself an authority.
+[25] This adolescent enjoyed both physical and mental autonomy. His behaviour showed shortcomings that were clearly amplified by the various problems of adolescence.
+[26] Granted, X's difficulties in perceiving, concentrating, remembering and thinking are real, and have had and will continue to have in future consequences that will complicate his parents' life, while raising definite worries about his future; on the other hand, that situation does not mean that he can perceive nothing or is always or nearly always unable to think and reflect.
+[27] Although the appellant rightly pointed out that in case of doubt the decision should favour the taxpayer, I do not believe that the evidence is sufficiently material to find that the tests set out in the Act were met.
+[28] As Bowman A.C.J. noted in his analysis in Radage, perceiving, thinking or reflecting, and remembering are concepts that cannot easily be defined in a few sentences. However, despite that difficulty, Bowman A.C.J. recognized the need to establish certain criteria or guidelines that would be meaningful in everyday life so that sections 118.3 and 118.4 of the Act could be applied. As well, while he acknowledged that the determination of an impairment must be made on a case-by-case basis and that the assessment of the severity of an impairment is a matter of common sense, he nevertheless stressed a number of legal principles on which the determination must be based. These principles are set out at pages 17 and 18 of the judgment in the following terms:
+...
+(a) The legislative intent appears to be to provide a modest amount of tax relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to everyone who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit to such persons.
+(b) The court must, while recognizing the narrowness of the tests enumerated in sections 118.3 and 118.4, construe the provisions liberally, humanely and compassionately and not narrowly and technically. In Craven v. The Queen, 94-2619(IT)I, I stated:
+The application of the inflexible tests in section 118.4 leaves the court no room to apply either common sense or compassion in the interpretation of the disability tax credit provisions of the Income Tax Act - provisions that require a compassionate and commonsense application.
+In my view I stated the test unduly narrowly in that case. I have heard many disability tax credit cases since that time and my thinking has evolved. My present view of the approach that should be taken is more accurately set out in such cases as Noseworthy v. The Queen, 95-1862(IT)I, Lawlor v. The Queen, 95-1585(IT)I, Hillier v. The Queen, 95-3097(IT)I, and Lamothe v. The Queen, 95-2868(IT)I and 95-3949(IT)I. If the object of Parliament, which is to give to disabled persons a measure of relief that will to some degree alleviate the increased difficulties under which their impairment forces them to live, is to be achieved the provision must be given a humane and compassionate construction. Section 12 of the Interpretation Act reads as follows:
+Every enactment is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects.
+(c) If there is doubt on which side of the line a claimant falls, that doubt should be resolved in favour of the claimant.
+(d) The provisional meanings assigned above to the words "perceiving, thinking and remembering" are more in the nature of guidelines than definitions. They are:
+Perceiving: The reception and recognition of sensory data about the external world that conforms reasonably to common human experience.
+Thinking: A rational comprehension, marshalling, analysis and organization of that which the person has perceived and the formulation of conclusions therefrom that are of practical utility or theoretical validity.
+Remembering: The mental activity of storing perceived data and of retrieving it in a manner that enables the person reasonably to perform the function of thinking.
+In these guidelines I have emphasized the need to recognize the way in which one function depends on the others, and to attempt to relate the use of those functions to some meaningful result in everyday life.
+(e) Finally there must be considered - and this is the most difficult principle to formulate - the criteria to be employed in forming the judgement whether the mental impairment is of such severity that the person is entitled to the credit, i. e. that that person's ability to perceive, think and remember is markedly restricted within the meaning of the Act. It does not necessarily involve a state of complete automatism or anoesis, but it should be of such a severity that it affects and permeates his or her life to a degree that it renders that person incapable of performing such mental tasks as will enable him or her to function independently and with reasonable competence in everyday life.
+[29] In Johnston (supra), Létourneau J. of the Federal Court of Appeal approved the approach set out by Bowman A.C.J. in Radage (supra) according to which the provisions for the tax credit for mental or physical impairment must be given a "humane and compassionate construction" while emphasizing, however, that these provisions applied only to "persons who fall within a relatively restricted category of markedly physically or mentally impaired persons".
+[30] Essentially, what is involved in the present case is assessing the seriousness of the impairment. While bearing in mind the principles set out by Bowman A.C.J. in Radage and reproduced above, I cannot find that during the taxation year at issue, even with the appropriate therapy, "all or substantially all of the time" the appellant's son "[was] unable (or require[d] an inordinate amount of time) to perform" the activities of "perceiving, thinking and remembering", as the Act requires.
+[31] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 16th day of May 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 26th day of January 2004.
+Carol Edgar, Translator
+[1] The given name of the minor child has been kept confidential, and has simply been replaced by "X".

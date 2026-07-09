@@ -1,0 +1,134 @@
+---
+title: "Gagnon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26454/index.do"
+last_modified: "2004-09-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 551"
+citation2: ""
+neutral_citation: "2004 TCC 551"
+decision_date: "2004-09-01"
+language: "en"
+item_id: "26454"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3139
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:05:19.938000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e6f82a75ec764f606295ef8ed90aa0f0a2281dca24647c71f43b2ee21583a11a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gagnon c. La Reine
+
+- Citation: 2004 TCC 551
+- Decision date: 2004-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3139, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagnon c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-01
+Neutral citation
+2004 TCC 551
+File numbers
+2002-2240(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2004TCC551
+Date: 20040901
+Docket: 2002-2240(IT)I
+BETWEEN:
+PIERRE GAGNON,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on May 30, 2003, at Québec, Quebec, and revised at Ottawa, Canada, on August 31, 2004.)
+Paris J.
+[1] The Appellant has instituted an appeal from the reassessments dated February 22, 2002, for his 1998, 1999 and 2000 taxation years and from the initial assessment dated May 13, 2002, for his 2001 taxation year. By those assessments, the Minister of National Revenue disallowed the Appellant the deduction, in computing his income, of the amounts of support that he had paid to his former spouse. Those amounts were $7,410 in 1998, $7,706 in 1999, $7,996 in 2000 and $8,196 in 2001.
+[2] The first point at issue is whether the Appellant paid the support pursuant to a judgment rendered by the Superior Court of Quebec on April 3, 1987, or to a second judgment of that same Court dated October 11, 1988.
+[3] Under paragraph 60(c.1) of the Income Tax Act, support payments made pursuant to an order made by a competent tribunal after February 10, 1988, and before 1993 are deductible in computing the payer's income. However, payments made pursuant to an order made by a competent tribunal before February 11, 1988, are deductible only if the payer and the recipient made an election to that effect, which is not here the case.
+[4] The two Superior Court judgments in question were filed as Exhibits I-9 and I-10, and an agreement entered into by the Appellant and his former spouse on August 30, 1988, was filed as Exhibit I-11.
+[5] Under the first judgment, the Appellant was required to pay his former spouse support of $447,61 a month for his daughter for a period of one year starting on November 1, 1986 and $385 a month thereafter. The judgment also established the Appellant's temporary visiting rights in respect of his daughter.
+[6] The second judgment confirmed an agreement entered into by the Appellant and his former spouse. The relevant part of the second judgment reads as follows:
+[TRANSLATION]
+Certifies the agreement of the parties dated August 10, 1988, RATIFIES and DECLARES IT BINDING to stand as if each of its clauses were here stated at length and ORDERS the parties to comply therewith.
+[7] The preamble to the agreement even states the circumstances of the first judgment and the fact that the parties had resorted to conciliation and that they had come to an agreement, the terms of which extend over three pages.
+[8] For the most part, the stipulations of the agreement concern the question of the Appellant's access to his daughter, but paragraph 2 provided that his former spouse would have custody of their daughter and paragraph 5 stated that the Appellant was to pay his former spouse support of $385 a month.
+[9] The Appellant contends that the judgment of October 11, 1988, stated his obligation to pay his former spouse support and also determined his right of access to his daughter. In his view, the second judgment had the effect of entirely replacing the first judgment of April 3, 1987, rather than making certain amendments to it.
+[10] He pointed out that the first judgment provides that:
+[TRANSLATION]
+This order shall remain in effect until the parties have come to an agreement amending the above terms and conditions.
+[11] And the Appellant emphasized that the agreement into which he entered with his former spouse on August 30, 1988, addressed the question of the support he was to pay, and did so not only in its preamble, but also in its very conditions.
+[12] Indeed, paragraph 5 states:
+[TRANSLATION]
+The Respondent shall remit to the applicant on the first day of each month support in the amount of $385 for the benefit and support of his minor daughter Sarah, which support shall be indexable every year in accordance with the Act.
+[13] Counsel for the Respondent claims that the obligation established by the first judgment to pay support was not amended by the second. He contends that the fact that the preamble to the agreement of August 30 refers to the Appellant's existing support obligation and the fact that the preamble was incorporated into the agreement leads to the conclusion that the source of the obligation has not changed, that that source was still the first judgment.
+[14] Counsel for the Respondent argues that Ms. Dubord's testimony that the parties had agreed by the agreement of August 30, 1988, to resolve only the question of visiting and access rights supports the position that the agreement and the second judgment did not amend the primitive obligation respecting support.
+[15] Counsel for the Respondent referred to this Court's decision in Hill v. The Queen, [1993] T.C.J. No. 317, in which the Appellant objected to the inclusion of certain amounts of support in her income. Until June 27, 1990, the Appellant had received support of $225 a month, which was not taxable. On June 27, 1990, a new order was made increasing the support to $450 a month. The Court in that case had to decide whether the new order of June 27 had the effect of eliminating the entitlement to child support that flowed from the previous orders or whether it increased the amount payable without disturbing the basic foundations of the previous orders.
+[16] Judge Rowe held that, since, by the new order, the Court had ordered payment of a certain amount, the entire amount was payable pursuant to the new order, not only the portion representing an increase in maintenance. The amount fixed in the new order had the effect of creating a new right and obligation respecting the amount stated. A new order concerning the same subject or matter as a previous order is considered as having replaced the previous order and subsequently becomes the legal basis of the obligation.
+[17] In the instant case, the second judgment of the Superior Court represents a new support order, even though the amount of the obligation remained at the same level as previously. Starting on October 11, 1988, support was paid pursuant to that judgment.
+[18] In my view, this finding also follows from the fact that the parties to the agreement of August 30, 1988, exhaustively addressed the questions of custody, access rights and support instead of merely seeking amendments to the previous judgment.
+[19] With respect to the 2001 taxation year, counsel for the Respondent contends that, in view of the fact that the Appellant's daughter had reached the age of 18 in December 2000, he no longer had any obligation to pay support. He bases that argument on paragraph 5 of the agreement of August 30, 1988, to which the Court refers above.
+[20] Counsel for the Respondent claims that support was payable provided that the Appellant's daughter was a minor and that the obligation terminated on her eighteenth birthday.
+[21] I am not satisfied that the use of the word "minor" in paragraph 5 reflected an intention of the parties to limit the payment of support in that manner.
+[22] Lastly, the evidence shows that the Appellant saw himself under an obligation to pay the support amounts even after his daughter had reached her majority. Ms. Dubord did not testify on this subject.
+[23] Thus, with regard to the parties' intent, the evidence does not support the Respondent's argument, and I conclude from it that the obligation to pay support continued in 2001.
+[24] For all these reasons, the appeal is allowed, with costs.
+Signed at Ottawa, Canada, this 1st day of September 2004.
+"B. Paris"
+Paris J.
+Certified true translation
+Colette Dupuis-Beaulne
+CITATION:
+2004TCC551
+COURT FILE NUMBER:
+2002-2240(IT)I
+STYLE OF CAUSE:
+Pierre Gagnon v. Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+May 30, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge B. Paris
+DATE OF JUDGMENT:
+September 1, 2004
+APPEARANCES:
+For the Appellant:
+For the Respondent:
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

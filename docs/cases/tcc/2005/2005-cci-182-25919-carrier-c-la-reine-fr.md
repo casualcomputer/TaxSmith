@@ -1,0 +1,187 @@
+---
+title: "Carrier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25919/index.do"
+last_modified: "2005-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 182"
+citation2: ""
+neutral_citation: "2005 CCI 182"
+decision_date: "2005-03-14"
+language: "fr"
+item_id: "25919"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3717
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:07:03.949000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "feddf44f374b1b03526a866c1ba6372e460aceb9df929aed0f357d24eea1258d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carrier c. La Reine
+
+- Citation: 2005 CCI 182
+- Decision date: 2005-03-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3717, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carrier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-14
+Référence neutre
+2005 CCI 182
+Numéro de dossier
+2004-4202(IT)APP
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4202(IT)APP
+ENTRE :
+CLERMONT CARRIER,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 18 janvier 2005, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant du requérant :
+Michel Robitaille
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+ORDONNANCE
+La demande faite en vue d'obtenir une ordonnance prorogeant le délai pour signifier les avis d'opposition aux cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 est rejetée, selon les motifs de l'ordonnance ci-joints.
+Signée à Ottawa, Canada, ce 14e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI182
+Date : 20050314
+Dossier : 2004-4202(IT)APP
+ENTRE :
+CLERMONT CARRIER,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Tardif
+[1] Il s'agit d'une demande faite en vue d'obtenir une ordonnance prorogeant le délai à l'intérieur duquel le requérant peut signifier un avis d'opposition à l'égard des cotisations datées du 26 janvier 2004 pour les années d'imposition 1999 et 2000.
+[2] La demande de prorogation a été préparée et soumise par le comptable du requérant, monsieur Michel Robitaille. Cette demande a été rédigée comme suit :
+Le 2 août 2004
+Directeur adjoint, Appels
+Agence des Douanes et du Revenu du Canada
+165, de la Pointe-aux-Lièvres Sud
+Québec, Qc G1K 7L3
+Objet : Avis de cotisation pour les années 1999 et 2000
+M. Clermont Carrier
+NAS xxx xxx xxx
+Monsieur,
+Au nom de M. Carrier, je demande par la présente une prolongation de délai pour s'opposer aux cotisations pour les années 1999 et 2000. Ces cotisations font suite à une vérification de la part de votre représentante, Mme Chantal Fortier. Ces cotisations ont été établies sans que la comptabilité détaillée ait été faite. Il s'agit de cotisations un peu arbitraires.
+M. Carrier est un nouveau client pour moi et je n'ai pu mettre beaucoup de temps pour son dossier surtout à cause de la période des impôts annuels.
+Vous trouverez l'état des résultats pour 1999 selon la comptabilité détaillée sur Makisoft. Cet état n'est pas définitif parce que les ajustements ne sont pas passés; mais on peut noter que le revenu net est passablement différent de la cotisation. Tout cela provient de la façon d'interpréter les relevés de Small Fry Snack Food Inc.
+N'hésitez pas à me contacter pour de l'information complémentaire.
+Espérant recevoir une prolongation de délai veuillez agréer, Monsieur, mes salutations.
+Michel Robitaille, c.a.
+p.j.
+c.c. M. Clermont Carrier
+[3] L'intimée s'est opposée très énergiquement à la demande de prorogation. Absent, le requérant était représenté par son comptable, Michel Robitaille. Ce dernier, après avoir été assermenté, a reconnu et admis ne pas avoir préparé les avis d'opposition dans les délais prescrits.
+[4] Il a soutenu que la période pendant laquelle la cotisation a été établie était très occupée pour lui sur le plan professionnel à cause des très nombreux dossiers relatifs aux déclarations annuelles de revenus; il a admis candidement avoir omis de préparer les avis d'opposition.
+[5] Selon son témoignage, après avoir examiné à fond le dossier du requérant Clermont Carrier, il a conclu qu'il y avait un écart important entre la cotisation établie et celle qui aurait dû l'être, d'où la vive et ferme intention du contribuable de faire le nécessaire pour obtenir la révision de la cotisation établie d'une manière arbitraire.
+[6] L'intimée a fait valoir avec vigueur que le dossier du requérant était empreint d'incurie et de négligence quant au respect des délais et cela, à la fois pour l'obligation de produire ses déclarations annuelles de revenus et pour le suivi à la suite de l'établissement des avis de nouvelle cotisation.
+[7] Le comptable a affirmé qu'il n'avait pas cru bon demander au requérant de se présenter. La Cour n'a donc pas pu avoir la version du requérant au sujet des nombreux griefs de négligence faits par l'intimée quant aux divers retards à produire les déclarations de revenus au fil des ans.
+[8] Est-ce que de tels griefs sont recevables et pertinents quant au bien-fondé de la demande pour obtenir une prorogation de délai? Je ne crois pas. Par contre, les explications pour justifier l'absence du requérant, bien que compréhensibles, ne sont pas acceptables eu égard aux fondements de la demande, d'autant plus que la demande concerne exclusivement le requérant lui-même et aucunement son représentant.
+[9] Le paragraphe 165(1) de la Loi de l'impôt sur le revenu (la « Loi » ) se lit comme suit :
+Opposition à la cotisation
+165. (1) Le contribuable qui s'oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d'opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu'il s'agit d'une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d'imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d'échéance de production qui est applicable au contribuable pour l'année,
+(ii) le 90e jour suivant la date de mise à la poste de l'avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date de mise à la poste de l'avis de cotisation.
+[10] Pourquoi l'avis d'opposition n'a-t-il pas été signifié dans les délais? Bien que le requérant semble avoir été totalement étranger à ce retard selon l'aveu même de son représentant, qui a admis être à l'origine du retard à produire l'avis dans les délais prescrits, le tribunal doit disposer de la demande selon la preuve soumise.
+[11] Dans un premier temps, l'intimée indique dans sa contestation écrite ce qui suit :
+[...]
+2. Le requérant n'a pas signifié son opposition aux cotisations du 26 janvier 2004, dans le délai prescrit par le paragraphe 165(1) de la Loi de l'impôt sur le revenu (ci-après, la « Loi » ), lequel se terminait le 26 avril 2004.
+3. Le 2 août 2004, le requérant a adressé au ministre une demande de prorogation du délai pour signifier une opposition aux cotisations du 26 janvier 2004 et y a joint son opposition.
+4. Par lettre datée du 27 août 2004, le ministre a signifié au requérant son refus d'accorder à celui-ci une prorogation du délai pour signifier une opposition à l'égard des cotisations, en vertu du paragraphe 166.1(7) de la Loi.
+5. Le 20 octobre 2004, le requérant a déposé auprès de la Cour canadienne de l'impôt une demande de prorogation du délai pour signifier une opposition aux cotisations du 26 janvier 2004.
+6. L'intimée soutient que la demande devrait être rejetée pour les motifs suivants :
+a) le requérant n'a pas déposé de demande prorogation [sic] de délai pour déposer un avis d'opposition, à l'encontre des cotisations, à l'intérieur du délai prévu à l'alinéa 166.1(7)a) de la Loi;
+[12] Le premier argument selon lequel la demande est présentée à l'extérieur du délai n'est pas recevable puisqu'à la simple lecture de la contestation écrite, il apparaît clairement et d'une manière non équivoque que le requérant a bel et bien produit sa demande dans les délais, le tout d'ailleurs conformément à l'alinéa 166.1(7)a) de la Loi, qui se lit comme suit :
+Conditions d'acceptation de la demande
+(7) Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+a) La demande est présentée dans l'année suivant l'expiration du délai par ailleurs imparti pour signifier un avis d'opposition ou présenter une requête;
+(Je souligne.)
+[13] Les avis de nouvelle cotisation sont datés du 26 janvier 2004. Ainsi, le premier délai de 90 jours prenait fin le 26 avril 2004. Après cette date, le requérant disposait d'une année suivant l'expiration du délai de 90 jours pour présenter une demande pour obtenir la permission de produire son avis, soit jusqu'au 25 avril 2005.
+[14] Or, l'intimée allègue elle-même que la demande a été déposée le 20 octobre 2004, soit bien en deçà de la limite d'un an. Il aurait fallu que la demande soit présentée après le 26 avril 2005 pour que l'argument de l'intimée soit recevable en vertu de l'alinéa 166.1(7)a) de la Loi.
+[15] La demande de l'appelant ne peut cependant pas être accueillie du seul fait qu'elle satisfasse à cette première exigence. En effet, le législateur a aussi prévu qu'une telle demande devait respecter d'autres conditions. Ces conditions sont prévues à l'alinéa 166.2(5)b).
+[16] D'ailleurs, la contestation de l'intimée quant au bien-fondé de la demande s'appuie également sur les conditions édictées aux sous-alinéas 166.2(5)b)(i), (ii) et (iii), qui se lisent comme suit :
+Acceptation de la demande
+(5) Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+a) [...]
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l'avis ou présenter la requête, il n'a pu ni agir ni charger quelqu'un d'agir en son nom, ou il avait véritablement l'intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[17] L'oubli du représentant du requérant lui est-il imputable? Le représentant du requérant a fait valoir que le retard à produire l'avis d'opposition découlait essentiellement d'un oubli de sa part, causé par un excès de travail en raison de l'achalandage exceptionnel lors de la période des déclarations annuelles d'impôt.
+[18] De façon cohérente avec le contenu de sa procédure écrite introductive, il a essentiellement répété les mêmes motifs à l'appui de la demande. Le 2 août 2004, le représentant du requérant écrivait ce qui suit à l'appui de la demande de prorogation de délai :
+M. Carrier est un nouveau client pour moi et je n'ai pu mettre beaucoup de temps pour son dossier surtout à cause de la période des impôt annuels.
+[19] L'enquête n'a soulevé aucun fait nouveau. La seule preuve soumise a consisté à expliciter le motif indiqué dans la demande et reproduit ci-dessus. Même si le représentant de l'appelant a admis avoir été à l'origine de l'oubli, le requérant doit assumer la responsabilité de l'oubli de son mandataire, en ce qu'il avait l'obligation de s'assurer que ce dernier avait les qualités nécessaires pour agir dans les délais prescrits.
+[20] Conclure au bien-fondé de la demande aurait pour effet de reconnaître que le véritable délai pour déposer un avis d'appel est non pas de 90 jours, mais d'un an plus 90 jours.
+[21] Les sous-alinéas 166.2(5)b)(i), (ii) et (iii) n'ont pas été édictés sans raison ou dans un but inutile. Le but de ces sous-alinéas est que les personnes concernées puissent obtenir un délai plus long pour enregistrer leur opposition s'ils satisfont à certaines conditions précises et non pas s'ils n'ont pas respecté le délai en raison d'oublis, d'insouciance ou d'un manque de discipline.
+[22] Or, prétendre avoir droit à la prorogation d'un délai au motif que le requérant était un nouveau client et que le mandataire, le comptable en l'espèce, n'a pas pu consacrer beaucoup de temps au dossier à cause de la période des impôts n'est certainement pas acceptable.
+[23] Je ne vois pas comment le fait d'être un nouveau client pourrait ou devrait générer plus de droits. D'autre part, l'excès de travail était prévisible. Il se peut qu'une surcharge de travail fasse en sorte qu'un professionnel n'ait aucun temps libre. En pareille situation, il aurait été plus prudent et certainement plus approprié de refuser tout simplement le mandat.
+[24] Je conclus donc que le requérant n'a pas rempli les conditions énoncées aux sous-alinéas 166.2(5)b)(i) et (iii) de la Loi, c'est-à-dire qu'il n'a pas démontré, selon la prépondérance des probabilités, d'une part, que dans le délai par ailleurs imparti pour signifier les avis d'opposition, il n'a pu ni agir ni charger quelqu'un d'agir en son nom et, d'autre part, que la demande a été présentée dès que les circonstances le permettaient.
+Signé à Ottawa, Canada, ce 14e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2005CCI182
+No DU DOSSIER DE LA COUR :
+2004-4202(IT)APP
+INTITULÉ DE LA CAUSE :
+Clermont Carrier et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 18 janvier 2005
+MOTIFS DE L'ORDONNANCE PAR :
+l'honorable Juge Alain tardif
+DATE DE L'ORDONNANCE :
+le 14 mars 2005
+COMPARUTIONS :
+Pour le requérant :
+Michel Robitaille
+Pour l'intimée :
+Me Anne Poirier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour le requérant :
+Pour l'intimée :
+John H. Sims, c.r. sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada

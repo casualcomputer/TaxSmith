@@ -1,0 +1,162 @@
+---
+title: "Lamarnic & J Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520913/index.do"
+last_modified: "2022-03-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 35"
+citation2: ""
+neutral_citation: "2022 TCC 35"
+decision_date: "2022-03-11"
+language: "en"
+item_id: "520913"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4449
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:37:30.192000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fb364d196837d68f2d4aa923c30cd277da0e6cf038b690d9878a8fa581581dad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lamarnic & J Ltd. v. The Queen
+
+- Citation: 2022 TCC 35
+- Decision date: 2022-03-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4449, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lamarnic & J Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-03-11
+Neutral citation
+2022 TCC 35
+File numbers
+2020-1939(GST)APP
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2020-1939(GST)APP
+BETWEEN:
+LAMARNIC & J LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on February 22, 2022, at Ottawa, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+Kanny Ng
+Counsel for the Respondent:
+Yvette Virok
+ORDER
+THE APPLICATION to extend the time to file a notice of objection from the assessment made under the Excise Tax Act, RSC 1985, c. E-15, as amended (the “ETA”), in respect of the reporting period of October 1, 2011 to December 31, 2011 is dismissed, without costs.
+Signed at Ottawa, Canada, this 11th day of March, 2022.
+“R.S. Bocock”
+Bocock J.
+Citation: 2022 TCC 35
+Date: 20220311
+Dockets: 2020-1939(GST)APP
+BETWEEN:
+LAMARNIC & J LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+The relevant reporting period
+[1] The Applicant (“Lamarnic”), through its principal shareholder and director, Mr. Kanny Ng (“Mr. Ng”), brings this application to extend the time for filing a notice of objection under the Excise Tax Act, RSC 1985, c. E-15 (the “ETA”). That sought objection concerns the Minister’s assessment of an HST return for the reporting period October 2, 2011 to December 11, 2011 (“Q4 2011 Period”). Initially, the previous reporting period, July 1, 2011 to September 30, 2011 and the following one, January 1, 2012 to December 31, 2012 were included in the application. The parties agreed at the start of the hearing that these two additional reporting periods were no longer in issue or would not form part of the application.
+The statutory authority of Parliament given to the Court
+[2] The relevant, excerpted and emphasized (by underlining) legislation outlining the prescribed time restrictions for filing notices of objection under the ETA provides as follows:
+Objection to assessment
+301(1.1) Any person who has been assessed and who objects to the assessment may, within ninety days after the day notice of the assessment is sent to the person, file with the Minister a notice of objection in the prescribed form and manner setting out the reasons for the objection and all relevant facts.
+Extension of time by Minister
+303(1) Where no objection to an assessment is filed under section 301 […] within the time limit otherwise provided, a person may make an application to the Minister to extend the time for filing a notice of objection […] the Minister may grant the application.
+When order to be made
+303(7) No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Part for objecting […]; and
+(b) the person demonstrates that
+[…]
+Extension of time by Tax Courts Administration Service
+304(1) A person who has made an application under section 303 may apply to the Tax Court to have the application granted after either
+(a) the Minister has refused the application, or
+(b) ninety days have elapsed after service of the application under subsection 303(1) and the Minister has not notified the person of the Minister’s decision,
+but no application under this section may be made after the expiration of thirty days after the day the decision has been mailed to the person under subsection 303(5).
+When application to be granted
+304(5) No application shall be granted under this section unless
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting or […]; and
+(b) the person demonstrates that
+[…]
+Evidence regarding dates of assessment and application
+[3] There is no dispute concerning the date of the notice of assessment relating to the Q4 2011 Period: December 29, 2017. Lamarnic and its principal, Ms. Ng neither marshalled evidence to suggest the notice of assessment had not been sent nor was there any suggestion that it was sent to the wrong address. Likewise again, it is agreed that no notice of objection, compliant or otherwise, was received from Lamarnic before January 23, 2020.
+Applicant wrongly focused on merits of the appeal
+[4] Mr. Ng, in representing Lamarnic, was intent on arguing the merits of his appeal at the application hearing. The Court tried to dissuade him of this at least twice, each time to no avail. His singular focus even confused opposing counsel a day or two before the hearing. This resulted in the Respondent’s pre-hearing written request to adjourn the hearing, permit the Crown to file a reply and argue the merits as Mr. Ng demanded.
+[5] The Respondent’s request missed a critical first step embedded in the ETA: the authority of the Tax Court to hear an application to extend the time to file a notice of objection has a critical “shelf life”. Upon calling the hearing, the Court reminded both parties at length of that pre-condition to hearing the merits of the appeal; first jurisdiction in needed for the Court, then the merits of the appeal may be heard. The Respondent acknowledged this first step. Mr. Ng never did. It was not for lack of trying on the Court’s part.
+[6] Mr. Ng persisted in submitting to the Court the following arguments he asserted were compelling:
+a) Lamarnic claimed input tax credits Q4 2011 Period within the four-year deadline required by subsection 225(4) of the ETA;
+b) The Minister’s agents provided conflicting information about whether Lamarnic must file its GST/HST returns quarterly or annually, which caused significant confusion; and,
+c) The Minister’s agents did not assist Lamarnic with filing a notice of objection or an application to extend the time for filing a notice of objection.
+[7] These assertions are unrelated to the critical test to be met to clear the first hurdle to hearing the same assertions: did Lamarnic file a notice of objection or application to extend the time to do so before the required deadline? The Court enumerates the submissions now only so Mr. Ng knows he was not ignored by the Court. As gently as possible, the Court notes that such courtesy was not returned. Mr. Ng refused to address the assessment, the objection or the application to extend, particularly the relevant dates, and the absence of a compliant notice by Lamarnic.
+Critical Test and facts restated
+[8] The issues in this application are whether Lamarnic filed a notice of objection for the Q4 2011 Period with the Minister by the 90-day deadline required by subsection 301(1.1) or made an application to the Minister to extend the time for filing a notice of objection by the one-year deadline required by paragraph 303(7(a). [1]
+[9] The 90-day period for filing a notice of objection expired on March 29, 2018. The one-year deadline thereafter for filing an application to extend expired on March 29, 2019. Nothing was initiated by Lamarnic or Mr. Ng with the Minister or the Tax Court within that period; no objection was received until some 10 months after: January 28, 2020. There is no denial by Lamarnic of the receipt of the notice of assessment or it not being sent, as in some applications. [2]
+[10] Briefly, Mr. Ng may have contacted the CRA in response to the assessments and particularly the material one dated December 29, 2017, although this also seems doubtful. By Mr. Ng’s own admission, he first contact with the CRA concerned a cheque and took place in late September, 2019, itself well beyond the 90-day and one-year periods for responding in a compliant manner to the notice of assessment. In any event, even if the misdirected contact had occurred prior to the critical date of 90 days plus one year, it needed to be in the form of an application to extend, not a request to reassess, adjust reporting periods or suspend collections. [3]
+[11] Simply restated, Lamarnic was required to file a notice of objection to the Q4 2011 Period assessment dated December 29, 2017 on or before March 29, 2018 when it failed to do so, it needed to apply for an extension of time to file the objection on or before March 29, 2019. There is no evidence before this Court it did either. Therefore, for these reasons, the application is dismissed.
+Signed at Ottawa, Canada, this 11th day of March, 2022.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2022TCC35
+COURT FILE NO.:
+2020-1939(GST)APP;
+STYLE OF CAUSE:
+LAMARNIC & J LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+February 22, 2022
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+March 11, 2022
+APPEARANCES:
+Agent for the Appellant:
+Kanny Ng
+Counsel for the Respondent:
+Yvette Virok
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The 30-day deadline required by subsection 304(1) to make an application to the Tax Court for an extension of time was extended by section 6 of the Time Limits and Other Periods Act (COVID-19), SC 2020, c.11, s.11; the Respondent conceded there was no dispute on this narrow but moot point in this application.
+[2] Aztec Industries Inc. v. Canada [1995] 1 CTC 327 at paragraph 12.
+[3] Deetlefs v. HMQ, 2014 TCC 96 at paragraph 10.

@@ -1,0 +1,210 @@
+---
+title: "951992 Ontario Ltd. o/a The Studio v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26282/index.do"
+last_modified: "2005-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 69"
+citation2: ""
+neutral_citation: "2005 TCC 69"
+decision_date: "2005-01-27"
+language: "en"
+item_id: "26282"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3655
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:06:31.289000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "36ffd24952006fbf4d0cd8ae8e9c319ae81196ad512fc5d33bdeaf65e355c737"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 951992 Ontario Ltd. o/a The Studio v. M.N.R.
+
+- Citation: 2005 TCC 69
+- Decision date: 2005-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3655, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+951992 Ontario Ltd. o/a The Studio v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-27
+Neutral citation
+2005 TCC 69
+File numbers
+2004-92(EI)
+Judges and Taxing Officers
+William E. MacLatchy
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-92(EI)
+BETWEEN:
+951992 ONTARIO LTD. o/a THE STUDIO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeal of 951992 Ontario Ltd. o/a The Studio (2004-93(CPP)) on November 23, 2004 at Toronto, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+John David Buote
+Counsel for the Respondent:
+John Grant
+JUDGMENT
+The appeal is allowed and the assessment made by the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 27th day of January 2005.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+Citation: 2005TCC69
+Date: 20050127
+Dockets: 2004-92(EI)
+2004-93(CPP)
+BETWEEN:
+951992 ONTARIO LTD. o/a THE STUDIO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+MacLatchy, D.J.
+[1] These appeals were heard on common evidence at Toronto, Ontario on November 23, 2004.
+[2] By Notices of Assessment dated October 3, 2002; the Appellant was assessed for failure to remit employment insurance premiums in respect of different workers in the amount of $3,202.14, $2,798.38 and $1,424.17 and for Canada Pension Plan contributions in the amount of $3,915.60, $3,970.46 and $2,288.60 and for related penalties and interest for the years 2000, 2001 and 2002.
+[3] The Appellant appealed to the Respondent for reconsideration of the assessments for the taxation years 2000, 2001 and 2002 and, the Respondent confirmed the assessments only for the taxation years 2001 and 2002, by letter dated September 15, 2003.
+[4] Furthermore, by letter dated September 15, 2003 the Respondent decided to administratively cancel the assessments for the taxation year 2000 as it was raised contrary to the Respondent's policy.
+[5] To reach his decision the Respondent relied on the following assumptions of fact, most of which were admitted by the Appellant with some exceptions as noted:
+(i) the Workers involved in the appeal were Ann Bettolnvil, Gracinda Borges, Kristi Breen, Susie McColl, Gord Murray and Terri Turai-Gill;
+(ii) the Appellant operates a "Dance Studio" which provides dance instruction to its students. (The Appellant's corporation ("The Studio") was formed on August 1, 1991, primarily as a vehicle to rent space suitable for dance instruction so that shareholders/instructors and other instructors could have a common facility to teach dance).
+(iii) the Appellant's shareholders were as follows:
+prior to
+August 1, 2000
+as of
+August 1, 2000
+Ann Bettolnvil
+24%
+26.97%
+Gracinda Borges
+11%
+12.34%
+Kristi Breen
+24%
+26.97%
+Mary Suzanne McColl
+6%
+6.74%
+Terri Turai-Gill
+24%
+26.97%
+Gordon Murray
+11%
+0%
+(iv) the Workers are all shareholders and are not related to each other;
+(v) major business and management decisions, including classes to be offered, class size, rates to be charged to students, and amounts to be paid to instructors, are made by consensus of the Appellant's shareholders;
+(vi) the Workers are highly skilled dance instructors and are members of the Canadian Dance Teachers Association;
+(vii) the Appellant offers different classes such as Ballet, Jazz, Tap, Acrobatics, Hip Hop, Ballroom and also Ballet / Jazz / Tap Exam classes, Drama and Vocal;
+(viii) the Appellant also holds 3 recitals each year;
+(ix) the students range in age from 3 years to adult, beginner to advanced;
+(x) the students enter into contracts with the Appellant for dance instruction and then the Appellant contracts with various instructors to provide the dance instruction to the students;
+(xi) the Appellant offers a specified rate per class hour based on instructor qualifications and the type of dance class;
+(xii) the Workers were paid a fixed rate per class, by cheque on a periodic basis;
+(xiii) the Workers had to invoice the Appellant in order to be paid and the invoice included the number of classes and the total hours worked every day; (The words "every day" were not admitted. Evidence revealed that some instructors would complete the invoice as required weekly or bi-weekly, as they saw fit. There was no rigid requirement to complete any record or invoice on a daily basis).
+(xiv) the Workers established when they are available and then the Appellant fixed the class hours into a class schedule;
+(xv) the Workers are responsible for their own training and for keeping current in their field of dance; (The Appellant stressed that such training, etc. was at the instructors' own expense).
+(xvi) the Workers provided their own shoes and clothing, music books, CD's and CD players;
+(xvii) the Appellant provided the dance studios, without charging any cost to the Workers;
+(xviii) the Appellant is responsible for the publication distributed to the general public;
+The remaining assumptions of fact were not admitted.
+[6] The questions to be answered by the Court is whether the workers were employed under a contract of service, during the relevant period, within the meaning of both the Employment Insurance Act (the "Act") and the Canada Pension Plan (the "Plan"). Further, whether the workers were dealing at arm's length with the Appellant within the meaning of the Act.
+The Law
+[7] The Court will follow the direction of the Federal Court of Appeal as stated in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025 regarding the tests that should be used by the Court to determine "the total relationship of the parties". The four-in-one test includes control, ownership of tools, chance of profit or risk of loss and the organization or integration test. This latter test is now being interpreted by the Appeal Courts as difficult to apply and inconclusive in result. In Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, Major, J. stated as follows:
+[46] In my opinion, there is no one conclusive test, which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, ... ([1952] 1 The Times L.R. 101) that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations..." (p. 416) Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, ...(Vicarious Liability in the Law of Torts. London: Butterworths, 1967) at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+[47] Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, ... ([1968] 3 All. E.R. 732). The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[48] It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[8] The Federal Court of Appeal in LawrenceWolf v. Her Majesty the Queen, 2002 DTC 6853, as articulated in the judgment of Desjardins J.A. followed the conclusions of Major, J. in Sagaz, supra, as indicated above, and instructed himself as follows:
+[61] These words dictate the investigation I must embark on. The factors traditionally developed by the case law have not been discarded. They remain valid, although somewhat reformulated.
+[62] I therefore plan to examine the level of control Canadair exercised over the appellant's activities, the ownership of the equipment necessary to perform the work, whether the appellant hired his own helpers, and the degree of financial risk and of profit, as they relate to circumstances such as these, where an individual with specialized skills is hired by an employment agency to perform work for a third party. I will then assess whether these factors were properly applied by the Tax Court judge in light of all the circumstances of this case.
+and later at paragraph 93:
+Both Canadair's work and the appellant's work were integrated in the sense that they were directed to the same operation and pursued the same goal, namely the certification of the aircraft. Considering, however, the fact that the integration factor is to be considered from the perspective of the employee, it is clear that this integration was an incomplete one. The appellant was at Canadair to provide a temporary helping hand in a limited field of expertise, namely his own. In answering the question "whose business is it?" from that angle, the appellant's business stands independently. Once Canadair's project was completed, the appellant was, so to speak, ejected from his job. He had to seek other work in the market place. He could not stay at Canadair unless another project was under way.
+Décary, J.A., concurring in the decision of Madam Justice Desjardins, stated:
+[117] The test, therefore, is whether, looking at the total relationship of the parties, there is control on the one hand and subordination on the other. I say, with great respect, that the courts, in their propensity to create artificial legal categories, have sometimes overlooked the very factor which is the essence of a contractual relationship, i.e. the intention of the parties. Article 1425 of the Civil Code of Quebec established the principle that '[t] he common intention of the parties rather that the adherence to the literal meaning of the words shall be sought in interpreting a contract'. Article 1426 C.C.Q. goes on to say that '[i] n interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account'.
+[9] The question of the control test has been found to be less important than was originally thought. If control was established to be with the Appellant, little else was as important. But the decisions in Sagaz and Wolfe have shown the difficulty in modern business relationships of applying that test. Freedom to come and go in a business relationship with no real connection between the parties other than remuneration paid for a specific performance of a worker's skill and abilities does not indicate control.
+[10] The intention of the parties has become an area that must be looked at and evaluated. The parties cannot merely agree to opt out of the requirements of legislation by stating what their relationship should be called but the relevant circumstances surrounding the relationship (as established in evidence), can assist to establish what the true nature of that relationship was at the relevant time. Noël, J.A., in concurring judgment in Wolfe, supra, stated :
+[122] I too would allow the appeal. In my view, this is a case where the characterization which the parties have placed on their relationship ought to be given great weight. I acknowledge that the manner in which parties choose to describe their relationship is not usually determinative particularly where the applicable legal tests point in the other direction. But in a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship cannot be disregarded.
+[123] My assessment of the applicable legal tests to the facts of this case is essentially the same as that of my colleages. I view their assessment of the control test, the integration test and the ownership of tool tests as not being conclusive either way. With respect to financial risk, I respectfully agree with my colleagues that the appellant in consideration for a higher pay gave up many of the benefits which usually accrue to an employee including job security. However, I also agree with the Tax Court Judge that the appellant was paid for hours worked regardless of the results achieved and that in that sense he bore no more risk than an ordinary employee. My assessment of the total relationship of the parties yields no clear result which is why I believe regard must be had to how the parties viewed their relationship.
+[124] This is not a case where the parties labelled their relationship in a certain way with a view of achieving a tax benefit. No sham or window dressing of any sort is suggested. It follows that the manner in which the parties viewed their agreement must prevail unless they can be shown to have been mistaken as to the true nature of their relationship. In this respect, the evidence when assessed in the light of the relevant legal tests is at best neutral. As the parties considered that they were engaged in an independent contractor relationship and as they acted in a manner that was consistent with this relationship, I do not believe that it was open to the Tax Court Judge to disregard their understanding (Compare Montreal v. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161 at 170).
+Control
+[11] The workers, in this instance, were responsible for providing their skill and expertise as dance teachers at times as arranged between themselves and the Studio unfettered by any direction or supervision by the Appellant. The contract (Exhibit, R-1) signed between the instructor and the Studio had a list of "responsibilities" that, on first blush, would appear to have elements of control in favour of the Studio but as the evidence adduced clearly showed that these "responsibilities" were only housekeeping items which were not enforced or adhered to by the workers or the Appellant. These items ensured the smooth operation of the instruction process for all concerned. It was a business relationship that worked for the advantage of both the Studio and the workers. The requirement to invoice the Appellant for the hours performed by the workers was an accounting procedure to ensure that correct payment to the workers was made and not a method of controlling the workers' time. The workers would look after their own classes, using their own equipment, monitor the students' attendance for purposes of costuming and their progress to the final stages of the year's teaching. The workers, performance was not monitored or evaluated by the Studio. If the workers could not take a class as scheduled, it was their responsibility to replace themselves with another teacher with the talent and experience to take the class or reschedule the missed class, as the worker could determine. Evidence disclosed that if a worker was to be absent because of a higher paying opportunity presented itself to him/her, he/she could hire a qualified replacement for whatever classes were to be missed and the worker would pay that replacement. The Appellant, in these circumstances, wanted to be informed of the replacement to ensure smooth relations with students and parents.
+[12] The workers could work for other dance studios, as they wished, without interference by the Appellant. The workers could and did absent themselves for more lucrative employment and for opportunities of advancement in their profession.
+[13] Overall, the evidence supported the test of control indicating a relationship between workers and the Appellant as independent contractors and not as a master and servant arrangement.
+Tools
+[14] The workers were highly skilled and well educated in their respective areas of expertise. The various workers that gave evidence usually had 15 to 20 years experience starting as a child in dance school through three and four year courses at Colleges and Universities. Many performed on a regular basis in various shows across Canada and all had the necessary instructor's certificates from the Canadian Dance Instructors Association. The most important tool provided by the worker is his/her skill and ability to perform and to teach. Years of experience together with trained physical prowess are qualities peculiar to the individual. It is not a skill or a talent available to anyone. The workers must maintain their physical conditioning by attending gym classes for flexibility, strength and endurance.
+[15] The workers must be up-to-date in their chosen style of dance. All of these requirements are paid for by the workers and are not inconsiderable over the years. The workers must provide their own shoes for their discipline of choice, the cost of which can be quite substantial. Dance clothing comes at a high cost as does the music requirements for the teaching class which include C.D.'s, C.D. players, tapes and books. The written music and relevant books required for putting on a student performance all are at the expense of the worker. Not only are the above items expensive to purchase but continued maintenance is necessary.
+[16] On the other hand, the Studio provides the dance classroom and some stage facility at no cost to the workers. Overall, the cost of this item may be greater than that expense paid by each worker but the workers' expenses cannot be brushed aside.
+[17] As far as the tools are concerned it would appear to be a wash.
+Chance of profit and risk of loss
+[18] The profit factor depends on the worker's skill, experience, ability and time expended. The workers have the opportunity to improve their skills and become involved in higher paid positions. The hourly rate for the workers depends on their skill and experience and is negotiated with the Studio from time to time.
+[19] The risk of loss is most concerning for the workers. No benefits are payable by the Studio. Sickness and accident occurrences are at the risk of the workers. The evidence disclosed the frequency of broken bones, dislocations and other injuries suffered by and at the sole expense of the workers. These expenses relate directly to a loss by the workers for which there is no recompense other than that which the workers may have arranged.
+[20] The workers are free to negotiate not only with the Studio for a higher pay scale but can and do go in the open market in order to increase their income. There was no arrangement concerning overtime payments, health insurance coverage, or pension plan considerations.
+[21] All of the above favours the appearance of a relationship of independence between the Appellant and the workers.
+[22] The question of "whose business is it?" can be shown to go both ways. The Appellant "Studio" runs a dance school and operates in a manner to continue that endeavour while the workers operate independently from the Appellant and run their own business as dance professionals and instructors. Each is independent, but each avails themselves of the others' business opportunities to run their own show. Once again a relationship of independence is evident.
+[23] The Appellant and the workers regarded each other as independent business operators. The Studio would engage a worker to perform as an instructor when it required that service but not otherwise. The worker would accept the position only if it fitted into his/her schedule and at an hourly rate negotiated to his/her satisfaction. The worker could come and go as desired subject to performing the service for which a contract had been negotiated. The Appellant and workers not only believed that a contract for service existed but acted in such a manner of independence as was shown by the facts introduced in evidence.
+[24] This Court has considered the following cases referred to it by the Respondent: Widdows (c.o.b. Golden Ears Entertainment v. Canada(Minister of National Revenue - M.N.R.), [1999] T.C.J. No. 119, Gastown Actor's Studio Ltd. v. Canada(Minister of National Revenue - M.N.R.), [2002] T.C.J. No. 126 and Stages Performing Arts School Ltd. v. Canada(Minister of National Revenue - M.N.R.), [2001] T.C.J. No. 369. Each can be differentiated based on the facts in each instance. These types of cases are fact driven and each must be considered in light of the evidence presented.
+[25] It is not necessary to deal with the Appellant's other ground of appeal concerning whether the instructors/shareholders were dealing with the Appellant at arm's length. The issue is moot.
+[26] Overall, this Court could reach no other conclusion after weighing the evidence heard and applying the law as it has been interpreted. The workers provided the Appellant with independent personal services.
+[27] These appeals are allowed and the assessments are vacated.
+Signed at Toronto, Ontario, this 27th day of January 2005.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+CITATION:
+2005TCC69
+COURT FILE NOS.:
+2004-92(EI), 2004-93(CPP)
+STYLE OF CAUSE:
+951992 Ontario Ltd. o/a The Studio
+v. M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Deputy Judge W.E. MacLatchy
+DATE OF JUDGMENT:
+January 27, 2005
+APPEARANCES:
+Counsel for the Appellant:
+John David Buote
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John David Buote
+Firm:
+Brampton, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

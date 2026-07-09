@@ -1,0 +1,189 @@
+Title: 1072174 Ontario Ltd c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28607/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-129-28607-1072174-ontario-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-04-18
+
+# 1072174 Ontario Ltd c. La Reine
+
+- Citation: 2008 CCI 129
+- Decision date: 2008-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1170, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1072174 Ontario Ltd c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-18
+Référence neutre
+2008 CCI 129
+Numéro de dossier
+2007-763(GST)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-763(GST)G
+ENTRE :
+1072174 ONTARIO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 1er février 2008, à Toronto (Ontario).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Avocat de l’appelante :
+Me Dennis A. Wyslobicky
+Avocat de l’intimée :
+Me Gordon Bourgard
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’avocat de l’appelante afin d’obtenir une ordonnance portant radiation des paragraphes 25, 26, 28, 29, 30, 31, 33, 34, 35, 36 et 37 de la réponse à l’avis d’appel en application de l’article 53 ou, à titre subsidiaire, de l’alinéa 58(1)a) des Règles de la Cour canadienne de l’impôt (procédure générale);
+LA COUR ORDONNE que la requête soit rejetée. La question des dépens est laissée à l’appréciation du juge présidant l’instruction.
+Signé à Ottawa (Ontario), ce 18e jour d’avril 2008.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 3e jour de juin 2008.
+Aleksandra Koziorowska
+Référence : 2008CCI129
+Date : 20080418
+Dossier : 2007-763(GST)G
+ENTRE :
+1072174 ONTARIO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Bowman
+[1] Il s’agit d’une requête présentée afin d’obtenir une ordonnance portant radiation de certains paragraphes de la réponse à l’avis d’appel. Le premier groupe de paragraphes contestés sont libellés de la façon suivante :
+[TRADUCTION]
+B. QUESTION À TRANCHER
+25. Il accepte l’exposé des questions en litige présenté par l’appelante, sous réserve du fait que la cotisation vise des ventes à l’exportation.
+[…]
+D. MOYENS INVOQUÉS ET RÉPARATION DEMANDÉE
+28. Il soutient que l’appelante n’était pas en mesure de prouver qu’elle avait livré des véhicules à des Indiens inscrits sur une réserve et que le ministre a à juste titre établi à l’égard de l’appelante une nouvelle cotisation relative à la TPS qui aurait dû être facturée, perçue et versée en application des articles 165, 221 et 225 de la Loi.
+29. Il soutient que l’appelante n’était pas soustraite à l’obligation de percevoir et de verser la TPS sur la fourniture des véhicules suivant l’article 87 de la Loi sur les Indiens puisque ni elle ni son mandataire, Courtesy Auto Haulage, n’ont livré de véhicules sur la réserve des Six Nations.
+30. Il soutient que les prétendues livraisons de véhicules à un Indien inscrit sur une réserve constituaient un leurre.
+31. Il soutient que l’appelante n’a pu prouver qu’elle avait exporté des véhicules ou vendu des véhicules directement à une personne qui a exporté le véhicule. Les prétendues ventes à l’exportation ne constituaient pas des fournitures détaxées aux termes de la partie V de l’annexe VI de la Loi sur la taxe d’accise, et l’appelante était tenue de percevoir et de verser la TPS sur celles‑ci.
+32. Il soutient que l’appelante n’a pas exporté un certain véhicule (VIN 3VW) ni vendu le véhicule directement à une personne qui l’a exporté. La fourniture du véhicule ne constituait pas une fourniture détaxée aux termes de la partie V de l’annexe VI de la Loi sur la taxe d’accise, et l’appelante était tenue de percevoir et de verser la TPS sur celle‑ci.
+33. Il soutient que le ministre a procédé à des rajustements afin d’établir les montants exacts de TPS et de CTI pour chacune des périodes de déclaration et qu’aucune erreur d’écriture n’a été commise.
+34. Les pénalités et l’intérêt ont valablement fait l’objet d’une cotisation en application de l’article 280 de la Loi. L’appelante a omis de percevoir et de verser des sommes exigibles, contrevenant ainsi à son obligation en ce sens, et elle a omis de faire preuve de diligence raisonnable en ne veillant pas à ce que ses demandes soient fondées.
+35. Il soutient que l’erreur commise dans la mention relative à la taxe nette figurant dans l’avis de nouvelle cotisation n’a aucune incidence sur l’obligation qui incombe à l’appelante de payer la TPS.
+[…]
+37. Il demande que l’appel soit rejeté avec dépens.
+[2] Les moyens invoqués à l’appui de la requête sont les suivants :
+[TRADUCTION]
+a) La requérante a fait l’objet d’une nouvelle cotisation pour non‑perception de la TPS sur les ventes de véhicules qui, selon elle, étaient exonérés de taxe parce qu’ils ont été soit vendus et livrés à des Indiens sur une réserve, soit exportés. Comme l’intimée affirme au paragraphe 24 de la réponse que les 223 véhicules en cause (voir le paragraphe 26 de la réponse et l’annexe B de celle‑ci) n’ont jamais été achetés par la requérante, cette dernière ne peut faire l’objet d’une nouvelle cotisation pour non‑perception de la TPS sur la vente de ces véhicules – c.‑à‑d. que, s’il n’y a eu aucune acquisition, il ne peut y avoir de vente ni d’obligation de percevoir la TPS.
+Les paragraphes visés par la demande de radiation ne font état d’aucune question en litige ni d’aucun motif de contestation de l’appel en ce qui a trait aux véhicules puisque l’intimée fait valoir que ceux‑ci n’ont jamais été achetés. La requérante présente sa requête en application de l’article 53 ou, à titre subsidiaire, en application de l’alinéa 58(1)a) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), selon ce que la Cour estime approprié.
+[3] Le deuxième groupe de paragraphes figurant dans la réponse et dont l’appelante souhaite obtenir la radiation sont ainsi rédigés :
+[TRADUCTION]
+26. À titre subsidiaire, la question en litige consiste à savoir s’il convient de refuser à l’appelante les crédits de taxe sur les intrants qu’elle a demandés dans le calcul de sa taxe nette pour les périodes de déclaration en cause relativement aux 223 véhicules qu’elle a achetés et vendus, dans la mesure où les opérations étaient des leurres.
+[…]
+36. À titre subsidiaire, il soutient que, dans son calcul de la taxe nette pour la période du 1er septembre 1997 au 31 décembre 1998, l’appelante a irrégulièrement demandé des CTI au titre d’acquisitions de véhicules et que ces demandes doivent être refusées pour les raisons suivantes :
+a) les opérations constituaient des leurres;
+b) les véhicules étaient soit la propriété de tiers, soit déjà à l’extérieur du pays, de sorte qu’il était impossible pour l’appelante d’acquérir ces biens pendant une période de déclaration et d’en tenir compte dans le calcul de ses crédits de taxe sur les intrants en application du paragraphe 169(1) de la Loi;
+c) les véhicules étaient soit la propriété de tiers, soit déjà à l’extérieur du pays, de sorte que n’importe quel élément de preuve que pourrait présenter l’appelante relativement à l’acquisition de ces véhicules serait insuffisant pour permettre d’établir le montant des crédits de taxe sur les intrants en application du paragraphe 169(4) de la Loi;
+d) l’inclusion, dans le calcul des crédits de taxe sur les intrants, de la contrepartie de véhicules appartenant à des tiers ou déjà à l’extérieur du pays au moment de la prétendue acquisition par l’appelante serait déraisonnable dans les circonstances, au sens du paragraphe 170(2) de la Loi.
+[4] Les moyens avancés à l’appui de la requête visant la radiation de ces paragraphes sont les suivants :
+[TRADUCTION]
+a) La requérante a fait l’objet d’une nouvelle cotisation pour non‑perception de la TPS sur la vente et l’exportation des 223 véhicules susmentionnés. Les paragraphes 26 et 36 de la réponse soulèvent pour la première fois l’argument (ainsi que les moyens et la réparation y afférents) voulant que la requérante ne doive pas être autorisée à déduire des crédits de taxe sur les intrants au titre de la TPS qu’elle a réellement payée au moment où elle a acquis les véhicules parce qu’il s’agirait d’acquisitions dont on allègue qu’elles sont fictives ou qu’elles constituent un leurre. S’ils étaient admis, ces paragraphes auraient pour effet d’établir la cotisation sur un fondement tout à fait différent, sur le plan des questions en litige, des opérations et des parties en cause, de celui qui sous‑tend la nouvelle cotisation dont la requérante a interjeté appel. Or, le paragraphe 298(6.1) de la Loi sur la taxe d’accise interdit les assertions de cette nature. La requérante a déposé la présente requête en application de l’article 53 ou, à titre subsidiaire, de l’alinéa 58(1)a) des Règles, selon ce que la Cour estime approprié.
+[5] Enfin, l’appelante demande, dans l’éventualité où les paragraphes seraient radiés, le prononcé d’une autre ordonnance radiant le reste de la réponse sans autorisation de modifier, accueillant l’appel et annulant la cotisation.
+[6] Dans son avis d’appel, l’appelante allègue avoir vendu des automobiles à des Indiens sur une réserve. Le paragraphe 6 de l’avis d’appel est ainsi rédigé :
+[TRADUCTION]
+6. Les automobiles en cause dans le présent appel (à l’exception d’un véhicule exporté – voir plus loin) ont été vendues à divers Indiens, y compris un Indien qui était un concessionnaire d’automobiles titulaire de licence. Les automobiles étaient livrées à la réserve des Six Nations, située près de Brantford (Ontario) (la « réserve »).
+L’intimée nie la véracité de cette allégation.
+[7] La requête dont je suis saisi est plutôt complexe et je vais donc tenter de la ramener à des proportions plus raisonnables. Pour l’essentiel, elle se fonde sur des assertions qui sont formulées dans la réponse à l’avis d’appel et qui sont, de l’avis de l’appelante, intrinsèquement incohérentes, incompatibles et contradictoires. Certes, les conclusions figurant dans la réponse comportent des incohérences. En revanche, il est moins sûr que celles‑ci autorisent l’appelante à faire radier de grandes parties de la réponse et, en définitive, à obtenir gain de cause dans son appel.
+[8] L’appelante allègue dans sa requête avoir déclaré qu’elle avait vendu 223 véhicules dont 178 auraient été achetés par des Indiens inscrits et 45 auraient été exportés. Dans son avis d’appel et sa requête, l’appelante a fait valoir que les véhicules avaient été vendus, et l’intimée, dans sa réponse, paraît admettre que des ventes ont eu lieu. Manifestement, la cotisation établie au titre de la TPS se fonde sur l’hypothèse voulant que les véhicules aient été vendus. L’auteur de la cotisation ne semble pas avoir mis en doute le fait que des ventes avaient eu lieu, mais il n’était apparemment pas convaincu que les véhicules avaient été vendus à des Indiens ou qu’ils avaient été livrés dans une réserve ou exportés.
+[9] Jusqu’ici, la question semble plutôt claire. L’appelante affirme qu’elle a vendu 178 véhicules à des Indiens, qu’elle a livré ces véhicules dans une réserve et qu’elle a exporté 45 autres véhicules. Elle soutient donc que ces ventes ne sont pas assujetties à la TPS ou, dans le cas des véhicules exportés, qu’il s’agit de ventes détaxées. L’avocat de l’appelante établit une distinction entre les véhicules exportés, qui sont détaxés, et les véhicules qui se trouvaient toujours à l’étranger et qui ont été vendus à des non‑résidents. Selon lui, ces derniers véhicules ne sont tout simplement pas assujettis à la TPS puisqu’ils ne sont pas visés par les dispositions en matière de taxation de la Loi sur la taxe d’accise. Cette distinction n’est pas soulevée dans l’avis d’appel et n’est pas particulièrement pertinente dans le cadre de la présente requête. Initialement, la Couronne semble avoir accepté que les véhicules étaient vendus puisqu’elle a imposé la TPS, mais elle a refusé l’exemption parce qu’elle n’était pas convaincue, à la lumière de la preuve fournie, que les véhicules étaient vendus à des Indiens et livrés dans une réserve ou que certains des véhicules avaient été exportés. Cela soulève une question de fait qui relève manifestement de la compétence des tribunaux.
+[10] La suite est un peu plus nébuleuse. Je ne crois pas qu’il soit nécessaire, pour les besoins de la présente requête, que j’examine en détail les chiffres eux‑mêmes. Il ressort sans équivoque de l’avis d’appel et de la réponse que la cotisation était complexe puisqu’elle touchait à de nombreuses opérations et à une multitude de calculs. Un grand nombre des hypothèses invoquées à l’appui de la cotisation du 24 août 2001 ont été reproduites dans la nouvelle cotisation du 14 novembre 2006. Les hypothèses fondamentales sur lesquelles se fondait la cotisation du 24 août 2001 figurent aux paragraphes 21e) et 21i) de la réponse. Les voici :
+[TRADUCTION]
+[…] l’appelante n’a fourni aucun document à l’appui relativement aux prétendues ventes à l’exportation : […]
+[…] il n’a pu être prouvé que l’un quelconque des 178 véhicules ayant fait l’objet d’une prétendue vente à un Indien inscrit […] avait été reçu par un Indien inscrit acquéreur sur une réserve;
+[11] Le paragraphe 21 de la réponse énonce ensuite en détail plusieurs des difficultés éprouvées par le ministre du Revenu national (le « ministre ») sur le plan de la preuve, comme des documents erronés, des renseignements insuffisants, des prétendues ventes à des Indiens dans le cadre desquelles le véhicule avait censément été exporté ou se trouvait censément à l’extérieur du Canada ainsi qu’un certain nombre d’autres irrégularités alléguées.
+[12] La nouvelle cotisation du 24 novembre 2006 reproduit les mêmes hypothèses et en comporte de nouvelles, notamment celle voulant que 97 des véhicules en cause qui auraient été vendus à des Indiens inscrits se trouvaient à l’extérieur du Canada ou auraient appartenu à d’autres personnes. On allègue que certaines des prétendues opérations étaient des leurres.
+[13] Je reproduis ci‑dessous les moyens invoqués par l’intimée.
+[TRADUCTION]
+D. MOYENS INVOQUÉS ET RÉPARATION DEMANDÉE
+28. Il soutient que l’appelante n’était pas en mesure de prouver qu’elle avait livré des véhicules à des Indiens inscrits sur une réserve et que le ministre a à juste titre établi à l’égard de l’appelante une nouvelle cotisation relative à la TPS qui aurait dû être facturée, perçue et versée en application des articles 165, 221 et 225 de la Loi.
+29. Il soutient que l’appelante n’était pas soustraite à l’obligation de percevoir et de verser la TPS sur la fourniture des véhicules suivant l’article 87 de la Loi sur les Indiens puisque ni elle ni son mandataire, Courtesy Auto Haulage, n’ont livré de véhicules sur la réserve des Six Nations.
+30. Il soutient que les prétendues livraisons de véhicules à un Indien inscrit sur une réserve constituaient un leurre.
+31. Il soutient que l’appelante n’a pu prouver qu’elle avait exporté des véhicules ou vendu des véhicules directement à une personne qui a exporté le véhicule. Les prétendues ventes à l’exportation ne constituaient pas des fournitures détaxées aux termes de la partie V de l’annexe VI de la Loi sur la taxe d’accise, et l’appelante était tenue de percevoir et de verser la TPS sur celles‑ci.
+32. Il soutient que l’appelante n’a pas exporté un certain véhicule (VIN 3VW) ni vendu le véhicule directement à une personne qui l’a exporté. La fourniture du véhicule ne constituait pas une fourniture détaxée aux termes de la partie V de l’annexe VI de la Loi sur la taxe d’accise, et l’appelante était tenue de percevoir et de verser la TPS sur celle‑ci.
+33. Il soutient que le ministre a procédé à des rajustements afin d’établir les montants exacts de TPS et de CTI pour chacune des périodes de déclaration et qu’aucune erreur d’écriture n’a été commise.
+34. Les pénalités et l’intérêt ont valablement fait l’objet d’une cotisation en application de l’article 280 de la Loi. L’appelante a omis de percevoir et de verser des sommes exigibles, contrevenant ainsi à son obligation en ce sens, et elle a omis de faire preuve de diligence raisonnable en ne veillant pas à ce que ses demandes soient fondées.
+35. Il soutient que l’erreur commise dans la mention relative à la taxe nette figurant dans l’avis de nouvelle cotisation n’a aucune incidence sur l’obligation qui incombe à l’appelante de payer la TPS.
+36. À titre subsidiaire, il soutient que, dans son calcul de la taxe nette pour la période du 1er septembre 1997 au 31 décembre 1998, l’appelante a irrégulièrement demandé des CTI au titre d’acquisitions de véhicules et que ces demandes doivent être refusées pour les raisons suivantes :
+a) les opérations constituaient des leurres;
+b) les véhicules étaient soit la propriété de tiers, soit déjà à l’extérieur du pays, de sorte qu’il était impossible pour l’appelante d’acquérir ces biens pendant une période de déclaration et d’en tenir compte dans le calcul de ses crédits de taxe sur les intrants en application du paragraphe 169(1) de la Loi;
+c) les véhicules étaient soit la propriété de tiers, soit déjà à l’extérieur du pays, de sorte que n’importe quel élément de preuve que pourrait présenter l’appelante relativement à l’acquisition de ces véhicules serait insuffisant pour permettre d’établir le montant des crédits de taxe sur les intrants en application du paragraphe 169(4) de la Loi;
+d) l’inclusion, dans le calcul des crédits de taxe sur les intrants, de la contrepartie de véhicules appartenant à des tiers ou déjà à l’extérieur du pays au moment de la prétendue acquisition par l’appelante ne serait pas raisonnable dans les circonstances, au sens du paragraphe 170(2) de la Loi.
+37. Il demande que l’appel soit rejeté avec dépens.
+[14] Bref, la Couronne paraît répondre ainsi à l’appelante : « Oui, nous acceptons votre allégation selon laquelle vous avez vendu les véhicules. Dans le cas contraire, nous n’aurions pas établi à votre égard une cotisation relative à la TPS. En revanche, nous n’acceptons pas que les ventes aient été exonérées parce que nous ne sommes pas convaincus que vous avez vendu les véhicules à des Indiens sur une réserve, et nous n’acceptons pas que les ventes aient été détaxées parce que vous avez exporté les véhicules. Et, en passant, en ce qui concerne les véhicules à l’égard desquels nous vous avons assujetti à la taxe, nous vous avons accordé des CTI. Maintenant, après mûre réflexion, nous ne sommes plus aussi certains que vous étiez réellement propriétaire de certains des véhicules et donc, à titre subsidiaire, nous croyons que vous n’avez pas droit aux CTI que nous vous avons accordés. » Et l’appelante de répondre : « Eh bien, si vous ne croyez pas que les véhicules nous appartenaient, il s’ensuit que nous ne pouvons les avoir vendus. Par conséquent, qu’est‑ce qui vous fait croire que vous pouvez nous assujettir à la taxe relativement à des opérations qui n’existent pas? » À cela, la Couronne rétorque : « Eh bien, vous avez affirmé que vous les avez vendus et vous devez maintenant agir en conséquence, à moins que vous ne soyez en mesure de réfuter cette assertion. Notre argument voulant que vous n’ayez peut‑être pas dû obtenir les CTI constituait uniquement un moyen subsidiaire, lequel découle des documents apparemment contradictoires et confus que vous avez fournis. Vous ne pouvez nous reprocher une situation dont vous êtes en grande partie responsable. »
+[15] J’ai tenté, au moyen de ce dialogue imaginaire entre les parties, d’exposer l’essence du problème. Je souhaitais ainsi illustrer de façon simple et imagée la complexité des questions soulevées dans la présente affaire.
+[16] Je conviens avec Me Wyslobicky que les hypothèses avancées par la Couronne comportent des contradictions. Dans un paragraphe, l’intimée affirme pour l’essentiel qu’une cotisation a été établie au titre de la TPS parce que des ventes ont été réalisées et que des CTI ont été accordés, mais qu’aucune exonération n’a été accordée parce que les dispositions de l’article 87 de la Loi sur les Indiens n’ont pas été respectées. Dans un autre paragraphe, la Couronne fait valoir que certaines des opérations constituaient des leurres ou que certains des véhicules se trouvaient à l’extérieur du Canada au moment où ils auraient été vendus à des Indiens sur des réserves. Il s’agit là d’assertions contradictoires. Je suppose qu’il peut arriver, en théorie, que l’auteur d’une cotisation énonce des hypothèses contradictoires. Cette situation pourrait bien permettre à l’appelante de se soustraire du fardeau qui devrait normalement lui incomber. La Couronne peut alléguer des faits qui contredisent des hypothèses si elle est disposée à accepter le fardeau qui en découle.
+[17] De plus, Me Wyslobicky avance que le ministre ne peut, après l’expiration du délai pour établir une nouvelle cotisation, alléguer que l’appelante n’aurait jamais dû se voir accorder les CTI. Cela est peut‑être vrai, mais ce n’est pas un point qui peut facilement être tranché dans le cadre d’une requête en radiation présentée en application de l’article 53 ou 58 des Règles. Cette question doit être examinée à l’instruction.
+[18] La Cour canadienne de l’impôt et la Cour d’appel fédérale ont à maintes reprises statué sur les arguments que l’intimée peut ou non avancer à l’appui d’une cotisation. Or, ces décisions ne peuvent être toutes facilement réconciliées. Je ne crois pas qu’il soit utile de procéder encore une fois à une nouvelle analyse approfondie de la jurisprudence relative à la pratique et à la procédure devant la Cour. Certaines de ces décisions ont été rendues par le soussigné, et elles ont connu un sort mitigé devant la Cour d’appel fédérale. Pratiquement toutes les décisions figurent dans les recueils de jurisprudence et de doctrine de l’appelante ou de l’intimée. Je m’appuie sur les précédents qui étayent le point de vue selon lequel les tribunaux doivent s’abstenir, sauf dans les cas les plus patents et les plus évidents, de radier des conclusions énoncées dans des actes de procédure.
+[19] Si je suis la règle – comme j’en ai le devoir – voulant que je doive me contenter d’examiner les actes de procédure et rien de plus, je constate que la confusion règne des deux côtés. La Couronne allègue des faits et des hypothèses qui sont incompatibles à la fois avec les prétentions formulées par l’appelante et avec sa propre assertion touchant l’assujettissement à la TPS et l’octroi des CTI. Je ne crois pas qu’il me soit possible, à ce stade‑ci, de décider quels éléments précis devraient être retranchés de cet amas confus d’assertions contradictoires faites par les deux parties et quels sont ceux qui devraient être conservés. Une chose est sûre, il serait inopportun que j’ordonne la radiation d’une partie à ce point importante de la réponse que cela pourrait automatiquement entraîner l’admission de l’appel et l’annulation de la cotisation. Je conviens que la réponse comporte des incohérences, mais la thèse même de la Couronne paraît se fonder sur le prétendu manque de cohérence de l’appelante. Les tentatives faites par cette dernière pour tirer profit de ce qu’elle qualifie de contradictions formulées par la Couronne donnent naissance à une anomalie de procédure qui, à mon avis, sera le mieux résolue par le juge présidant l’instruction, lequel entendra l’ensemble de la preuve. Les cotisations soulèvent des questions relevant manifestement de la compétence des tribunaux : l’assertion concernant les ventes à des Indiens sur des réserves ou les ventes à l’exportation, la prétention qui en découle selon laquelle l’appelante ne serait pas assujettie à la taxe relativement à ces opérations et le refus, par le ministre, d’accepter cette prétention. Il s’agit de questions dont le juge présidant l’instruction peut régulièrement être saisi. Je ne vois pas comment le contribuable peut être libéré de l’obligation de prouver ses allégations ou peut obtenir l’annulation de la cotisation simplement parce que le ministre a émis dans sa réponse quelques nouvelles idées qui pourraient être incompatibles avec le fondement qui étaye la cotisation. La question de savoir si le manque de cohérence entraîne l’inversion du fardeau de la preuve ou si l’assertion voulant que certaines des opérations soient des leurres constitue une tentative visant à établir une nouvelle cotisation ne peut être tranchée dans le cadre d’une requête en radiation. Cet examen nécessite la tenue d’une instruction. En effet, je ne crois pas qu’une requête en radiation permette de résoudre ces difficultés.
+[20] Il importe de préciser un point : les vrais litiges en matière fiscale surviennent dans le contexte de la dure réalité pratique. Il ne s’agit pas d’une démarche où le jeu devient une fin en soi. Trancher des affaires sur le fondement d’un régime artificiel créé par les actes de procédure et détaché de la réalité ferait en sorte que l’enquête ne vise plus des faits objectifs, mais relève plutôt d’un domaine artificiel dans le cadre duquel le caractère essentiellement commercial du régime de taxation serait privé de toute pertinence.
+[21] Manifestement, les actes de procédure des deux parties devraient faire l’objet de demandes de précisions ainsi que de recherches et d’interrogatoires préalables minutieux. Quand il sera temps de procéder à l’instruction, si jamais l’affaire se rend jusqu’à cette étape, les parties devraient avoir une bonne idée des biens qui ont été vendus, des personnes qui les ont achetés et de l’endroit où les ventes ont eu lieu. Je garde en mémoire les sages conseils donnés dans l’ouvrage intitulé Odgers on High Court Pleading and Practice, vingt‑troisième édition, aux pages 183 et 184 :
+[TRADUCTION]
+Mais que doit faire le plaideur lorsqu’il est confronté à un acte de procédure manifestement défectueux qui est en violation flagrante des règles? Même dans ce cas, la meilleure chose à faire consiste, en règle générale, à ne rien faire. Il existe toutefois des exceptions. Comme le lord juge Bowen l’a déclaré dans l’arrêt Knowles v. Roberts, « il me semble que la règle voulant que le tribunal ne puisse dicter aux parties comment présenter leur cause en est une dont le caractère sacré devrait toujours être protégé. Toutefois, cette règle fait évidemment l’objet de la réserve et des limites suivantes : les parties ne peuvent contrevenir aux règles relatives aux actes de procédure qui sont établies en droit; et si une partie produit un acte de procédure qui est inutile et qui tend à causer un préjudice, à entraver et à retarder l’instruction de l’action, il s’agit alors d’un acte de procédure illégitime ». Le recours offert à la partie adverse dans un tel cas consistera à présenter au protonotaire siégeant en chambre une requête en radiation ou en modification de tout ou partie de l’acte de procédure en application de l’ordonnance 18, règle 19(1), ou une requête pour précisions en application de la règle 12(3).
+Il importe cependant de faire preuve de prudence avant de conseiller la présentation d’une demande de ce genre. Vous pourriez grandement accroître les frais liés à l’action sans que votre client n’obtienne aucun avantage en retour, même si la demande est accueillie. Vous devez en outre choisir avec soin la mesure que vous prendrez. Si votre adversaire a omis une allégation importante, le recours approprié consiste à présenter une demande en application de l’ordonnance 18, règle 19(1); toutefois, s’il a formulé une allégation importante sans donner de précisions suffisantes, il convient alors de déposer une demande de précisions.
+Dans le cadre d’une action pour préjudice corporel, si le demandeur omet de signifier un rapport médical et une liste des dommages‑intérêts spéciaux avec la déclaration, le défendeur peut présenter une demande de suspension de l’action jusqu’à ce que ces documents soient fournis.
+(1) Radiation ou modification d’un acte de procédure de la partie adverse
+Votre contestation peut viser la totalité de l’acte de procédure de votre adversaire ou seulement certaines parties discutables du document; il peut s’agir de montrer que l’ensemble de l’action ou de la défense à l’action est un leurre ou une mesure qui n’a aucune chance de réussir en droit, et d’obtenir un jugement en conséquence; ou il peut s’agir d’obliger votre adversaire à modifier la totalité ou une partie précise de son acte de procédure problématique, faute de quoi le document pourrait être radié.
+[22] Les parties, ou l’une d’entre elles, pourraient envisager de modifier leurs actes de procédure afin de préciser clairement la question en litige[1]. En particulier, j’estime, à la lecture de la réponse, que la thèse de la Couronne est source de confusion. À nouveau, les observations formulées dans l’ouvrage Odgers, à la page 150, sont utiles :
+[TRADUCTION] Le meilleur critère est peut‑être celui‑ci : après avoir rédigé votre acte de procédure, faites abstraction des instructions que vous avez reçues pour un instant et imaginez que vous êtes un tiers qui ne connaît rien à l’affaire en cause. Votre ébauche, à sa seule lecture, permettrait‑elle à ce tiers d’avoir une idée claire de la cause de votre client? Dans la négative, vous devrez la préciser : et vous pourrez souvent y arriver le mieux en en supprimant la moitié. Longueur n’est pas synonyme de clarté. Une demi‑douzaine de phrases courtes et concises, chacune claire en elle‑même, serviront le mieux votre propos.
+[23] La requête est rejetée, et la question des dépens est laissée à l’appréciation du juge présidant l’instruction.
+Signé à Ottawa, Canada, ce 18e jour d’avril 2008.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 3e jour de juin 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE :
+2008CCI129
+NO DU DOSSIER DE LA COUR :
+2007-763(GST)G
+INTITULÉ DE LA CAUSE :
+1972174 Ontario Ltd. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er février 2008
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable D.G.H. Bowman,
+juge en chef
+DATE DE L’ORDONNANCE ET DES MOTIFS DE L’ORDONNANCE :
+Le 18 avril 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Dennis A. Wyslobicky
+Avocat de l’intimée :
+Me Gordon Bourgard
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Avocat
+Nom :
+345, route Lakeshore Est, bureau 206
+Cabinet :
+Oakville (Ont.) L6J 1J5
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il est quelque peu désolant de voir qu’au paragraphe 25 de la réponse, l’intimée mentionne qu’elle accepte l’exposé des questions en litige de l’appelante, et que cette dernière présente une requête dans laquelle elle demande la radiation de ce même paragraphe.

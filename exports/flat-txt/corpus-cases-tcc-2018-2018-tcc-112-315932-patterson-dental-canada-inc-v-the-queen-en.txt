@@ -1,0 +1,311 @@
+Title: Patterson Dental Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/315932/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-112-315932-patterson-dental-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-07-11
+
+# Patterson Dental Canada Inc. v. The Queen
+
+- Citation: 2018 TCC 112
+- Decision date: 2018-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4953, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patterson Dental Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-11
+Neutral citation
+2018 TCC 112
+File numbers
+2014-2443(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-2443(GST)G
+BETWEEN:
+PATTERSON DENTAL CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 5 and 6, 2017, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Dominic C. Belley
+Vincent Dionne
+Counsel for the Respondent:
+Maurice Régnier
+JUDGMENT
+The appeal against an assessment made pursuant to the Excise Tax Act by the Agence du revenu du Québec, acting on behalf of the Minister of National Revenue, dated March 16, 2010 for the reporting periods from March 1, 2005 to May 31, 2009 is dismissed with costs in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 11th day of July 2018.
+“Réal Favreau”
+Favreau J.
+Citation: 2018 TCC 112
+Date: 20180711
+Docket: 2014-2443(GST)G
+BETWEEN:
+PATTERSON DENTAL CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal against an assessment made pursuant to the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the “ETA”), by the Agence du revenu du Québec, acting on behalf of the Minister of National Revenue (collectively the “Minister”), notice of which bears no specific number and is dated March 16, 2010, for the reporting periods from March 1, 2005 to May 31, 2009 (the “periods in issue”).
+[2] In assessing the appellant, the Minister made the following adjustments in the total amount of $1,111,930.52 to the appellant’s reported net tax:
+Readjustments
+Interest on arrears
+Penalties for late remittance
+Administrative readjustments
+Amount owing
+$893,056.78
+$191,945.81
+$26,920.76
+$7.17
+$1,111,930.52
+[3] The appellant carries on a business of selling and distributing dental products and equipment across Canada, including Quebec. The appellant’s clients are dentists.
+[4] The products sold by the appellant include products marketed as anesthetic solutions.
+[5] During the periods in issue, the appellant supplied dentists with local anesthetic solutions and failed to collect and remit the Goods and Services Tax (the “GST”) that the Minister alleges was payable by the dentists in respect of these supplies.
+[6] The issue to be decided is whether the supplies of local anesthetic solutions containing epinephrine used in dental surgeries, are zero-rated supplies pursuant to subparagraph 2(e)(x) of Part I of Schedule VI of the ETA, for the periods in issue?
+[7] The local dental anesthetics in issue are supplied by the appellant under the following item names and item numbers (the “anesthetics in issue”):
+Item name
+Item number
+Astracaine 4% bx/100 green
+Astracaine forte 4% b100 blue
+Citanest plain 100/pk
+Citanest forte with epinephrine 100/pk
+Isocaine mepi anes 2% 50
+Lidocaine 2% patt b/50 patt lidocaine 1,100,000
+Lidocaine HCL 2% 50/BX 1:100,000
+Lidocaine HCL 2% 50/BX 1:50,000
+Lidocaine Lignospan forte 50 – 1:50,000
+Lidocaine Lignospan Std 50 – 1:100,000 Std
+Marcaine 0.5% 50/Can
+Mépivicaine Scandonest 50 - 2% (discontinued)
+Mépivicaine Scandonest 50 – 3% Plain
+Octocaine Lido Anes 2% 50 - 1/100000 Epineph
+Polocaine 3% w/out vaso 100/box
+Prilocaine anesthesic 50/box
+Septanext 50/pk – N 1:200,000
+Septanext 50/pk – SP 1:100,000
+Vivacaine 1:200,000 50/box
+Xylocaine 100/pk – green 1:50,000 2%
+Xylocaine 100/pk – red 1:100,000 2%
+071200039
+071200021
+071200062
+071200096
+075446190
+070853978
+073100310
+073100328
+076313068
+076313019
+072218527
+076313134
+076313142
+075452727
+071200542
+076313555
+0763114819
+076314827
+076314751
+071200260
+071200278
+[8] At the opening of the hearing, the appellant informed the Court that (a) anesthetic solutions with item numbers 071200062, 075446190, 076313134, 076313142 and 071200542, (b) the date of the notice of assessment, (c) the periods in issue and the determination of the amounts in dispute are not in issue anymore.
+[9] The parties also informed the Court that the professional status of Dr. Gino Gizzarelli, Mr. Eric Ormsby and Dr. Pierre Beaulieu, experts in the matter, are not contested and that their respective expert reports were filed on consent.
+[10] Mr. Pierre Carfantan, comptroller of the appellant, testified at the hearing and explained the context of the litigation. The appellant is a subsidiary of a U.S. parent company whose head office is located in Minneapolis. The appellant sells to dental clinics over 25,000 products including about 20 anesthetic solutions, of which 95% contains epinephrine. The appellant’s catalogues of dental supplies for the years 2003/2004 and 2010/2011 were entered into as evidence.
+[11] From May 1, 2005 to December 2, 2008, anesthetic solutions were supplied as a zero-rated item for GST purposes. From December 3, 2008 to May 2009, the classification of the anesthetic solutions was changed to taxable supplies. Mr. Carfantan explained that before May 1, 2005, anesthetic solutions containing epinephrine were sold as taxable supplies. Mr. Carfantan did not know for sure what prompted the change in 2005 but he thinks that it is because a competitor selling similar products was not charging GST.
+[12] The appellant was audited by the Agence du revenu du Québec in March 2009 and the auditor noted the change in the treatment of the anesthetic solutions containing epinephrine from a taxable supply to a non-taxable supply that occurred in 2005. The tax auditor studied the matter and found an interpretation letter from Revenue Québec dated July 9, 2007 addressed to the appellant’s GST consultant which confirmed that the supply of an anesthetic solution containing epinephrine when sold to a dentist was a taxable supply. Based on this interpretation letter, the auditor assessed the appellant GST on the anesthetic solutions containing epinephrine for the period when the products were sold without GST.
+I. Expert Witnesses
+[13] Dr. Gino Gizzarelli, BScPhm, DDS, MSc (Dental Anesthesia), a dentist with specialty in dental anesthesia, testified at the hearing at the request of the appellant. He explained that his mandate was to answer the following questions:
+What constitutes a local anesthetic solution?
+What constitutes epinephrine and its salts?
+The utility of anesthetic solutions in dental practice?
+The utility of anesthetic solutions with epinephrine in dental practice?
+The components and substances used in anesthetic solutions with epinephrine and the role of each component and substance used in anesthetic solutions with epinephrine?
+Whether epinephrine is the main or one of the main substances of certain anesthetic solutions?
+[14] Dr. Gizzarelli explained why epinephrine is added to local anesthetic solutions in the following terms:
+It is a vasoconstrictor and decreases blood flow to the site of drug administration. By constricting blood vessels and decreasing blood flow, it slows down and decreases the absorption of the local anesthetic into the blood. This enhances safety by decreasing the risk of local anesthetic toxicity. Furthermore, by decreasing absorption, more local anesthetic is available to enter the nerve where it remains for longer periods of time.
+[15] Dr. Gizzarelli also explained that the epinephrine used in local anesthetic solutions is chemically identical to epinephrine naturally produced by the adrenal medulla and secreted by our bodies as part of our sympathetic response.
+[16] According to Dr. Gizzarelli, epinephrine is the most common vasoconstrictor found in local anesthetic solutions. He described the components and substances used in anesthetic solutions with epinephrine and the role of each component and substance used in the solutions as follows:
+. . . local anesthetic solutions are made up of several constituents. The local anesthetic agent itself is dissolved in sterile water for injection. Sodium chloride is added to the solution to make it isotonic (that is, similar concentration) with the tissues of the body. Sodium hydroxide and hydrochloric acid are added to maintain a certain acidity of the solution for stability of the local anesthetic agent, epinephrine and for compatibility with body tissues. In multi-use vials of local anesthetic, methylparaben is added as an antibacterial preservative to maintain sterility of the solution. However, in single-use dental cartridges, there is no antibacterial preservative.
+[17] Dr. Gizzarelli’s opinion is that epinephrine is one of the main substances in the anesthetics in issue except for those listed in paragraph 8 above. Some anesthetics contain only a small quantity of epinephrine.
+[18] During his cross-examination. Dr. Gizzarelli recognized the fact that epinephrine alone has no anesthetic effect and that the active ingredients in the solutions are the astracaine, the lidocaine, the prilocaine and many others. However, Dr. Gizzarelli pointed out that the product information on local anesthetic solutions with epinephrine, provided by Health Canada, contain precautions (contraindications) in relation to the use of epinephrine which demonstrates that epinephrine is a very important element in the solutions.
+[19] Dr. Pierre Beaulieu, MD, PhD, FRCA, a full-time professor at the Department of Anesthesiology and Pharmacology of the Faculty of Medicine at the University of Montreal, testified at the hearing at the request of the respondent. His mandate was to answer the following questions:
+What is the main substance in the local anesthetic solutions at issue in this litigation?
+What is the role of epinephrine when used in local anesthetic solutions?
+[20] Dr. Beaulieu explained that the use of epinephrine in local anesthetic solutions has two purposes: (a) to prolong the duration of the anesthetic and (b) to stop bleeding. The epinephrine also reduces the risk of systemic toxicity and accelerates blood coagulation.
+[21] It is clear in Dr. Beaulieu’s mind that the epinephrine in local anesthetic solutions is only an adjuvant or an additive which has very useful characteristics and that is administered precisely to act as a vasopressor (constriction of blood vessels) to prolong the duration of the local anesthetic. The epinephrine has no anesthetic effect.
+[22] Dr. Beaulieu is of the opinion that the main substance in a local anesthetic solution is the anesthetic agent such as the lidocaine, the articaine or the megivacaine, etc. and not the epinephrine. The epinephrine is not essential.
+[23] Mr. Eric Ormsby, a retired public servant employed by Health Canada as Manager, Office of Science, Bureau of Policy, Service and International Programs, Therapeutic Products Directorate, Health Products and Food Branch, since October 2002, testified at the hearing at the request of the respondent. Mr. Ormsby also chaired the Prescription Drug Status Committee of Health Canada for 20 years. This committee reviews the assessments of drugs and recommends classification of the drug to be prescription, ethical or non‑prescription. This classification determines how the drug may be sold to the public in Canada. As chair of the said committee, Mr. Ormsby acquired personal knowledge on how drugs are approved and classified in Canada and why these approvals and classifications are needed.
+[24] Mr. Ormsby has been asked to answer the following questions:
+according to Health Canada’s drug approval process, are drugs used as local anesthetics in dentistry and which contain two or more active ingredients, one of which is epinephrine, considered different drugs than those that contain epinephrine as sole active ingredient?
+are drugs that contain only epinephrine as the active ingredient approved by Health Canada to be used as local anesthetics in dentistry?
+[25] In order to answer these questions, Mr. Ormsby considered the following issues:
+the drug approval process in Canada;
+the international system for coding drugs;
+for what use are the local anesthetics in dentistry approved and how are they classified;
+for what use is epinephrine approved when used as sole active ingredient and how is it classified;
+for what use is epinephrine approved when combined with drugs that have anesthetic properties such as Lidocaine?
+[26] Based on the reasons stated in his report, Mr. Ormsby’s opinion is as follows:
+According to Health Canada’s drug approval processes, drugs used as local anesthetics in dentistry and which contain two or more active ingredients, one of which is epinephrine, are considered different drugs than those that contain epinephrine as sole active ingredient;
+Drugs that contain only epinephrine as active ingredient are not approved by Health Canada to be used as local anesthetic drugs in dentistry; and
+When epinephrine is the sole active ingredient in a drug, it is approved to be used in emergency situations such as cardiac arrest or severe allergic reaction. It is not approved to be used as local anesthetic for dental work.
+[27] In his report, Mr. Ormsby explained that each drug that received a positive risk-benefit profile from Health Canada is issued a unique eight digit Drug Identification Number (the “DIN”) and a Notice of Compliance (the “NOC”). The DIN is a unique identifier used by industry, the health care system and the regulator to track the sale of a drug and to monitor the use of the drug in the market place.
+[28] The NOC is issued only after a product monogram (the “PM”) is finalized. The PM is the definitive and approved summary of the conditions of use of the drug. It identifies the name of the drug, its pharmacology, its indications of uses, when it should not be used, warnings, precautions, adverse effects, dosages, formats and listing of all non-medicinal ingredients.
+[29] When the drug has received a DIN and a NOC, it is then entered into the Health Canada’s Drug Product Database. Health Canada also identifies products that have the same active ingredient(s) and ingredient strength(s). This classification is referred to as the Active Ingredient Groups (the “AIG”) number. The AIG number is a 10 digit number that is comprised of three portions:
+− the first portion (2 digits) identifies the number of active ingredients;
+− the second portion (5 digits) identifies the unique groups of active ingredient(s);
+− the third portion (3 digits) identifies the active ingredient group strength. The strength group has a tolerance of −2% to +10%.
+[30] In order to facilitate international drug utilization efforts when a drug is approved, the drug is assigned an Anatomical Therapeutic Classification (the “ATC”) code. In the ATC classification system, the active substances are divided into different groups according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties. Drugs are classified in groups at five different levels. The drugs are divided into 14 main groups (1st level), with pharmacological therapeutic subgroups (2nd level). The 3rd and 4th levels are chemical/pharmacological/therapeutic subgroups and the 5th level is the chemical substance. An example of an ATC code in the case of a local anesthetic is N01BB02, where:
+N is for nervous system
+01 is for anesthetics
+B is for local anesthetics
+B is for amides
+02 is for lidocaine
+[31] There are 220 drugs approved in Canada with the ATC code for local anesthetics of the amide groups of N01BB and there is zero product which have the N01BB ATC code which has epinephrine as a single ingredient.
+[32] However, there are 207 products approved in Canada containing epinephrine as a single active ingredient and they each have a different DIN and a different ATC depending upon the use of the product.
+II. Position of the Parties
+A. The Appellant
+[33] The supply of any “drug” or substance included in paragraphs 2(a) through (f) of Part I of Schedule VI of the ETA is zero-rated.
+[34] Pursuant to paragraph 2(d) of Part I of Schedule VI of the ETA, a supply of a “drug” which contains epinephrine is zero-rated for the purposes of such provision.
+[35] As the term “drug” is not defined under the ETA, it must be interpreted by using the modern interpretation rule, which requires consideration of the term in its context under the ETA and its grammatical and ordinary sense.
+[36] As stated by the Tax Court of Canada in Centre Hospitalier Le Gardeur c. R., 2007 TCC 425, (“Le Gardeur”) the meaning of the term “drug” as used in Part 1 of the Schedule VI of the ETA, is not limited only to raw material used in the conception of the medication but also refers to the medication itself.
+[37] This interpretation of the term “drug” is consistent with the Parliament’s intention in exacting the provisions under Part I of Schedule VI of the ETA, to basically zero-rate prescription drugs (i.e. the medication) composed of certain substances for the purposes of the ETA.
+[38] Part I of Schedule VI of the ETA refers to usable products as epinephrine is not sold for patient use in its raw state.
+[39] In Robitaille et al. v. Quebec (Deputy Minister of Revenue), 2010 QCCQ 9283, the Court of Quebec confirmed that the intention of the National Assembly, in enacting Title 1, Chapter IV of the Quebec Sales Tax Act, was to zero-rate the supply of the medication, i.e. a mixture of substances (if one of the substances was described in the said Chapter) rather than only zero-rating the supply of the substance (i.e. the raw material) which composed the said medication.
+[40] Where there is more than one substance which composes the “drug”, the substance mentioned under Part I of Schedule VI of the ETA must be one of the main substances of such drug in order to be zero-rated. The decision of the Tax Court of Canada in Le Gardeur confirmed this interpretation.
+B. The Respondent
+[41] What is being sold here is the anesthetic solutions with or without epinephrine, as shown in the appellant’s catalogues. The principal ingredient is the anaesthesia agent; the epinephrine is added to the formula to prolong or improve the efficacy of the local anesthetic agents. The epinephrine is then considered as an additive or as an adjuvant.
+[42] Paragraph 2(e) of Part 1 of Schedule VI of the ETA should be interpreted restrictively. Paragraph 2(e) refers to drugs that can be used in their pure state and do not have to be mixed with other substances before being used. The wording of paragraph 2(e) is clear. To benefit from zero-rating, there must be a supply of one of the listed drugs, not a mixture that includes one of the drugs listed.
+[43] The epinephrine as a single active ingredient is very different from the anesthetic solutions. They are two different types of drugs and they have a different ATC code, as explained by Mr. Ormsby.
+III. The Law
+[44] Part I of Schedule VI of the ETA is reproduced at the end of this judgment.
+IV. Analysis
+[45] As stated in the Finances Technical Notes (April 2017 and April 2012), paragraph 2(e) of Part I of Schedule VI of the ETA enumerates a list of non‑prescription drugs used to treat life-threatening conditions that are zero-rated at all levels of production and distribution. Pursuant to subparagraph 2(e)(x) of Part I of Schedule VI of the ETA, the epinephrine and its salts are zero-rated for the purposes of such provision.
+[46] There is no doubt in my mind that the epinephrine and its salts and the anesthetic solutions containing epinephrine supplied by the appellant come within the definition of the term “drug” as defined under the Canadian Food and Drugs Act, R.S.C., C.F-27 which is as follows:
+“drug includes any substance or mixture of substances manufactured, sold or represented for use in:
+(a) the diagnosis, treatment, mitigation or prevention of disease, disorder or abnormal physical state, or its symptoms, in human beings or animals;
+(b) restoring, correcting or modifying organic functions in human beings or animals, or
+(c) disinfection in premises in which food is manufactured, prepared or kept.
+[47] However, drugs which have epinephrine as their sole active ingredient are different from those that have epinephrine combined with another active ingredient, such as the anesthetics in issue.
+[48] As explained by the experts,
+(a) the anesthetics in issue are formulations that include two active ingredients:
+1. a drug that is the main active or medicinal ingredient having a sedative pharmacological activity to effect local anesthetic action such as lidocaine, articaine, bupivacaine, prolicaine or mepivacaine which characterizes the product as an anesthetic; and
+2. a drug that is a minor active or medicinal ingredient in minimal quantity, that is a vasoconstrictor called epinephrine which, inter alia, either helps the effectiveness or combats the side effects of the main active or medicinal ingredient. The addition of a vasoconstrictor such as epinephrine prolongs the anesthetic action;
+(b) when combined in minimal quantities with drugs that have sedative pharmacological properties such as lidocaine, articaine, bupivacaine, prilocaine or mepivacaine, and such is the case with the anesthetics in issue, epinephrine differs in function from products when it is the main or sole active/medicinal ingredient. When added to a local anesthetic, epinephrine acts as a vasoconstrictor that prolongs the anesthetic action of the sedative;
+(c) the mixture of two drugs such as lidocaine with epinephrine produces an entirely new drug with a specific purpose.
+[49] As explained by Mr. Ormsby,
+(a) each of the anesthetics in issue has been authorized by Health Canada and has received a unique Drug Identification Number (“DIN”) issued under the Food and Drug Regulations;
+(b) Health Canada assigned each of the anesthetics in issue an “Active Ingredient Group”(“AIG”) number which is a 10 digit number that identifies products that have the same active ingredients and strength;
+(c) the AIG number for drugs which have epinephrine as their sole active ingredient is different from those that have epinephrine combined with another active ingredient;
+(d) Health Canada grouped all local anesthetics, including the anesthetics in issue, under an Anatomical Therapeutical Chemical classification code (“ATC”) N01BB AMIDES which divides drugs into different groups according to organ or system on which they act and their chemical, pharmacological and therapeutical properties;
+(e) the ATC classification code related to the anesthetics in issue is different from the ATC related to any product that has epinephrine as its sole active ingredient.
+[50] In Dr. Beaulieu’s opinion:
+(a) epinephrine does not possess any sedative pharmacological property; and
+(b) epinephrine is not the main substance of the anesthetics in issue and is considered as an additive or as an adjuvant.
+[51] Dr. Gizzarelli considers that epinephrine is one of the main substances in the anesthetics in issue, except for those that have been excluded in paragraph 8 above. The fact that some of the anesthetics contain small quantities of epinephrine is not relevant in any way in the determination of whether epinephrine is one of the main substances. Dr. Gizzarelli’s perspective is from a dentist point of view in the context of dental surgeries. In his opinion, the dentists have the choice to use local anesthetics solutions with or without epinephrine and if they do decide to use a local anesthetic solution containing epinephrine, it is because they need the effects of epinephrine to control the bleedings. The dentists do not have any other choice to control the bleedings in the mouth of their patients. In that sense, when a local anesthetic solution containing epinephrine is used, the role played by the epinephrine is the determining factor.
+[52] The following extract of an article dealing with the composition of local anesthetic solutions and the cartridge contents submitted by Dr. Gizzarelli in his report (filed as Exhibit A-3, Tab 2, Page 103) seems to support Dr. Beaulieu’s opinion:
+The composition of the solution found in the dental cartridge varies depending on whether a vasopressor is included . . .
+The local anesthetic drug is the raison d’être for the entire dental cartridge. It interrupts the propagated nerve impulse preventing it from reaching the brain. The drug contained within the cartridge is listed by its percentage concentration . . .
+A vasopressor drug is included in most anesthetic cartridges to enhance safety and the duration and depth of action of the local anesthetic . . .
+[53] Mr. Ormsby provided the following information concerning drugs containing epinephrine as their sole action ingredient:
+(a) drugs containing epinephrine as their sole active ingredient are used for life-saving purposes in cases such as cardiac arrest and severe allergic reactions known as anaphylaxis;
+(b) various drugs which have epinephrine as their sole active ingredient exist on the market and which serve as emergency relief for people suffering from major death threatening conditions;
+(c) these drugs are sold under various trade names such as:
+AllerjectTM Sterile Epinephrine Injection USP for the emergency treatment of anaphylactic reactions in patients, ATC Code: C01CA ADRENERGIC AND DOPAMINERGIC AGENTS
+EpiPen® Sterile epinephrine injection USP for the emergency treatment of anaphylactic reactions in patients who are determined to be at increased risk for anaphylaxis, ATC Code: C01CA ADRENERGIC AND DOPAMINERGIC AGENTS
+Twinject® 0.3 mg Auto-Injector Epinephrine Injection, USP for the emergency treatment of severe allergic reactions to allergens, such as those present in certain insect venoms, foods, latex, or drugs, ATC Code: C01CA ADRENERGIC AND DOPAMINERGIC AGENTS
+(d) in such cases, a drug that contains epinephrine as a main active or medicinal ingredient does not act as a local anesthetic for dental surgery purposes.
+[54] The appellant relied upon the Tax Court of Canada’s decision in Le Gardeur, cited above, to support the general principle that where there is more than one substance which composes the “drug” the substance mentioned under Part I of Schedule VI of the ETA must be one of the main substances of such drug in order to be zero-rated. In that regard, the Court in Le Gardeur stated that:
+What I understand from paragraph 2(a) when the word “drug” is taken as defined in the FDA is that supplies of substances or mixtures of substances are zero-rated if they are used for diagnoses and if they are covered by Schedule D to the FDA. For the purposes of this analysis, I consider it more advisable to talk of mixtures of substances because Dr. Lepage confirmed that Schedule D drugs cannot be found in a container in their pure state. The combination of the pure Schedule D drug and the other substances that must accompany it thus results in a mixture of substances. Moreover, there is no doubt that all the mixtures of substances found in the products presented by the appellants were for diagnostic purposes, whether they were covered by Schedule D or not. The issue is therefore whether what we have is a mixture of Schedule D substances. In my opinion, if the main substance of a mixture is a substance referred to in Schedule D to the FDA, then that mixture of substances will be considered a whole and, accordingly, as a zero-rated supply. As stated in O.A. Brown, supra, at paragraph 29 (QL), if the alleged separate supplies are interconnected with the zero-rated supply to such a degree that the extent of their interdependence is an integral part of the composite whole, they can be considered to be a zero-rated single supply. Thus, in the absence of statutory provisions to the contrary, a mixture of substances will be characterized according to its main substance for the purposes of paragraph 2(a). . . .
+[55] With respect, I do not think that the Le Gardeur case enunciates a principle or a rule applicable in this particular instance for the following reasons. First, the Le Gardeur case deals with the application of paragraph 2(a) of Part I of Schedule VI of the ETA which is a provision having a different objective from paragraph 2(e). Under paragraph 2(a), the supplies of substances or mixtures of substances are zero-rated if they are used for diagnoses and if they are covered by Schedule D of the Food and Drugs Act. Secondly, the schedule D drugs cannot be found in a container in their pure state, contrarily to the case here where the epinephrine as the sole active ingredient is sold on the market with the specific objective to treat the life-threatening conditions of a patient.
+[56] The anesthetics in issue supplied by the appellant are not designed to serve as an emergency relief for patients suffering from major death threatening conditions as required for being listed in paragraph (2)(e) of Part I of Schedule VI of the ETA.
+[57] The Legislator did not use on purpose in paragraph 2(e) the terms “mixture of drugs” as he did in paragraphs 2(b) and 2(d) of Part I of Schedule VI of the ETA.
+[58] In my view, by allowing epinephrine or any other drug listed in paragraph 2(e) to be mixed with other substances and to characterize this type of mixture with a zero-rating, would be contrary to the policy established by the Department of Finance.
+[59] If Parliament wishes to grant a zero-rated status under paragraph 2(e) to other substances or to a mixture of drugs, it should amend the legislation, as he did for the isosorbide -5- mononitrate in 2012 and for the Naloxone in 2017.
+[60] For all these reasons, the appeal is dismissed with costs.
+Signed at Montreal, Quebec, this 11th day of July 2018.
+“Réal Favreau”
+Favreau J.
+Version of document from 2009-12-15 to 2009-12-31:
+Excise Tax Act
+R.S.C., 1985, c. E-15
+SCHEDULE VI
+(Subsection 123(1))
+Zero-Rated Supplies
+PART I
+Prescription Drugs and Biologicals
+1. In this Part,
+authorized individual means an individual, other than a medical practitioner, who is authorized under the laws of a province to make an order directing that a stated amount of a drug or mixture of drugs specified in the order be dispensed for the individual named in the order;
+medical practitioner means a person who is entitled under the laws of a province to practise the profession of medicine or dentistry;
+pharmacist means a person who is entitled under the laws of a province to practise the profession of pharmacy;
+practitioner [Repealed, 1997, c. 10, s. 118]
+prescription means a written or verbal order, given to a pharmacist by a medical practitioner or authorized individual, directing that a stated amount of any drug or mixture of drugs specified in the order be dispensed for the individual named in the order.
+2. A supply of any of the following drugs or substances:
+(a) a drug included in Schedule C or D to the Food and Drugs Act,
+(b) a drug included in Schedule F to the Food and Drug Regulations, other than a drug or mixture of drugs that may, pursuant to the Food and Drugs Act or those Regulations, be sold to a consumer with neither a prescription nor a written order signed by the Director (as defined in those Regulations),
+(c) a drug or other substance included in the schedule to Part G of the Food and Drug Regulations,
+(d) a drug that contains a substance included in the schedule to the Narcotic Control Regulations, other than a drug or mixture of drugs that may, pursuant to the Controlled Drugs and Substances Act or regulations made under that Act, be sold to a consumer with neither a prescription nor an exemption by the Minister of Health in respect of the sale,
+(d.1) a drug included in Schedule 1 to the Benzodiazepines and Other Targeted Substances Regulations,
+(e) any of the following drugs, namely,
+(i) Digoxin,
+(ii) Digitoxin,
+(iii) Prenylamine,
+(iv) Deslanoside,
+(v) Erythrityl tetranitrate,
+(vi) Isosorbide dinitrate,
+(vii) Nitroglycerine,
+(viii) Quinidine and its salts,
+(ix) Medical oxygen, and
+(x) Epinephrine and its salts,
+(f) a drug the supply of which is authorized under the Food and Drug Regulations for use in an emergency treatment, and
+(g) plasma expander,
+but not including a supply of a drug or substance when it is labelled or supplied for agricultural or veterinary use only.
+3. A supply of a drug when the drug is for human use and is dispensed
+(a) by a medical practitioner to an individual for the personal consumption or use of the individual or an individual related thereto; or
+(b) on the prescription of a medical practitioner or authorized individual for the personal consumption or use of the individual named in the prescription.
+4. A supply of a service of dispensing a drug where the supply of the drug is included in this Part.
+5. A supply of human sperm.
+CITATION:
+2018 TCC 112
+COURT FILE NO.:
+2014-2443(GST)G
+STYLE OF CAUSE:
+Patterson Dental Canada Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+September 5 and 6, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+July 11, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Dominic C. Belley
+Vincent Dionne
+Counsel for the Respondent:
+Maurice Régnier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dominic C. Belley
+Vincent Dionne
+Firm:
+Norton Rose Fulbright Canada LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

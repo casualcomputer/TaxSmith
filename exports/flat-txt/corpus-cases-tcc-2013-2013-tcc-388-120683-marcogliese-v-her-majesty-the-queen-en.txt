@@ -1,0 +1,163 @@
+Title: Marcogliese v. Her Majesty the Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/120683/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-388-120683-marcogliese-v-her-majesty-the-queen-en.md
+Document type: case_law
+Last modified: 2013-12-05
+
+# Marcogliese v. Her Majesty the Queen
+
+- Citation: 2013 TCC 388
+- Decision date: 2013-12-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2729, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marcogliese v. Her Majesty the Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-05
+Neutral citation
+2013 TCC 388
+File numbers
+2011-2561(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Decision Content
+Docket: 2011-2561(IT)G
+BETWEEN:
+Michel Marcogliese,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 15, 2013, at Montréal, Qu ebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment dated April 8, 2010, under subsection 160(1) of the Income Tax Act, bearing number 982014, is dismissed with costs.
+Signed at Ottawa, Canada, this 5th day of December 2013.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+On this 3rd day of June 2014
+Francois Brunet, Revisor
+Citation: 2013 TCC 388
+Date: 20131205
+Docket: 2011-2561(IT)G
+BETWEEN:
+Michel Marcogliese,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from an assessment by the Minister of National Revenue (Minister) in the amount of $30,215.44 under section 160 of the Income Tax Act (ITA). The relevant passages of section 160 read as follows:
+Tax liability re property transferred not at arm’s length
+160. (1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+. . .
+Assessment
+(2) The Minister may at any time assess a taxpayer in respect of any amount payable because of this section, and the provisions of this Division (including, for greater certainty, the provisions in respect of interest payable) apply, with any modifications that the circumstances require, in respect of an assessment made under this section as though it had been made under section 152 in respect of taxes payable under this Part.
+[Emphasis added]
+[2] The assumptions upon which the Minister based his assessment are set out at paragraph 5 of the Reply to the amended notice of appeal (Reply) and are reproduced below with the corrections made by counsel for the respondent at the beginning of the hearing, which I have underlined:
+[translation]
+5. The assumptions upon which the Minister based the assessment dated April 8, 2010, bearing number 982014, under section 160 of the Act, are as follows:
+(a) La Garderie au Village des Poupons inc., hereinafter called “the company”, was incorporated on May 19, 1992; admitted
+(b) the company operated a daycare; admitted
+(c) during the period relevant to this dispute, the appellant was the majority shareholder and the director of the company; admitted
+(d) the company’s fiscal year begins on April 1 and ends on March 31; admitted
+(e) according to the company’s financial statements appended to its T2 income tax returns for the fiscal years ending March 31, 2001, and March 31, 2002, the appellant received real dividends from the company of $21,000 and $10,000 respectively, for a total of $31,000;
+(f) in filing his income tax returns for the 2000 and 2001 taxation years, the appellant reported real dividends of $21,000 and $10,000 respectively for a total of $31,000 and taxable dividends of $26,250 and $12,500 respectively;
+(g) the company issued T5s to the appellant to reflect the dividends indicated in the preceding paragraph; admitted
+(h) the appellant did not pay any consideration to the company with respect to the dividends that were paid to him; admitted
+(i) on December 12, 2000, the company filed a proposal in bankruptcy under the Bankruptcy and Insolvency Act, which the creditors accepted on December 29, 2000, and the court confirmed on May 4, 2001; admitted
+(j) on December 20, 2000, and October 24, 2001, the Minister issued initial notices of assessments to the company for its taxation years ending March 31, 2000, and March 31, 2001, and assessed the company’s tax liability as reported in its income tax returns at $16,860 and $17,408 respectively;
+(k) on the issue date of the assessment bearing number 982014, which is the subject of this appeal, the company’s tax debt to the Minister in relation to the assessments of December 20, 2000, and October 24, 2001, totalled $30,215.44;
+(l) the Minister determined that the transfer of $21,000 and $10,000 by the company to the appellant was a transfer of property between related persons without consideration, with the result that he was solidarily liable with the company for the payment of its tax debt of $30,215.44.
+Issue
+[3] Paragraph 5(l) of the Reply embodies the issue. The appellant does not believe that he is liable for the payment of this debt because, he says, the debt was extinguished as a result of the proposal under the Bankruptcy and Insolvency Act (BIA).
+Facts in evidence
+[4] From the documents filed in evidence, the following is clear. On December 12, 2000, the board of directors (BD) of the Garderie au village des poupons inc. (Garderie) decided to file a proposal under section 62 of the BIA (Exhibit I-1, tab 2, page 5).
+[5] Also on December 12, 2000, a report was given to the trustee, for the Superintendent of Bankruptcy, on the cash‑flow statement for December 2000 and January 2001, in accordance with subsections 50(6) and 50.4(2) of the BIA (Exhibit I-1, tab 2, pages 6 to 9). The cash‑flow statement set out Garderie’s revenue and expenses. Mr. Marcogliese explained before the court that the salary amount indicated in the statement represented only the salaries paid to Garderie’s employees. No provision was made for his own remuneration even though he also worked there.
+[6] A proposal was prepared on the same date by which the ordinary (unsecured) creditors with a provable claim, which were indicated on list A, accepted a total dividend of $48,000, payable in proportion to the claims over a 24‑month period (Exhibit I-1, tab 2, pages 11 to 14).
+[7] Mr. Marcogliese noted before the court that the Canada Revenue Agency (CRA) did not file its proof of claim for $30,215.44, which is the subject of the assessment today. According to the list of unsecured creditors (Exhibit I-1, tab 2, page 11), the amount of $20,905 that appears for the CRA relates to unremitted source deductions (SDs) not to Garderie’s tax debt that is now being claimed from the appellant. The respondent confirmed this. Véronique Pagé, collections officer for the CRA, stated that Garderie did not file its income tax return until December 20, 2000, thus after the date the proposal was filed, December 12, 2000.
+[8] The proposal was accepted by the creditors on December 29, 2000, and confirmed by the Superior Court of Québec on May 4, 2001 (Reply, paragraph 5(i) and Exhibit I-1, tab 2, page 3).
+[9] It was not until July 31, 2003, that the trustee prepared the dividend sheet and the final statement of receipts and disbursements, which showed that the SDs payable to the federal and provincial governments had been paid. In the trustee’s application to be discharged in the matter of Garderie’s proposal under paragraph 152(5)(c) of the BIA, dated July 12, 2004, the trustee stated that no final dividend had to be paid (Exhibit I-1, tab 2, pages 2-4).
+[10] This led to Ms. Pagé to state that this was another reason for not filing a proof of claim for Garderie’s tax debt because no payment had been set out as repayment of the debts, other than the SDs, of unsecured creditors. The appellant confirmed that no creditor on list A had received anything in relation to the proposal (with the exception of governments, for the SDs, and the Commission de la santé et de la sécurité du travail (CSST) under a separate agreement).
+[11] When Garderie’s financial statements were being finalized on March 31, 2001, the appellant explained in court, he and his accountant jointly decided not to report the appellant’s salary so that Garderie’s expenses would not exceed the amount set out in the proposal. The appellant and his accountant were fully aware that, if a salary, bonus or shareholder loan were reported, that would increase the expenses listed in the proposal, and there was a risk that it could be annulled. The only option that remained for the appellant to receive an income was the declaration of a dividend, hence a $21,000 dividend was declared for Garderie’s fiscal year ending March 31, 2001, and a taxable dividend of $26,250 (Exhibit I-1, tabs 4 and 6 and Exhibit A-1). The appellant included this dividend in his income tax return for the 2000 taxation year.
+[12] For Garderie’s fiscal year ending March 31, 2002, there was sufficient revenue for Garderie to report a salary of $11,560 for the appellant (Exhibit I‑1, tab 4, 1st page, and Exhibit A-1), but a dividend of $10,000 (taxable dividend of $12,500) was also granted to him (Exhibit I-1, tab 4, 3rd page and tab 6, 2nd page). The appellant included this income in his income tax return for the 2001 taxation year (Exhibit I-1, tab 4, 1st page and Exhibit A-1).
+[13] The appellant says that he made the proposal to prevent Garderie from filing for bankruptcy and thus to maintain employment for its employees. He does not understand why the CRA did not submit its proof of claim at the same time as the other creditors when the proposal was filed. He does not understand why the CRA is turning against him now when it could have made its case at the time of the proposal or at least when the second dividend was paid in March 2002.
+Analysis
+I Existence of a transfer
+[14] It is clear that a dividend paid by a corporation to its shareholder is a transfer without consideration within the meaning of subsection 160(1) of the ITA (Gilbert v. Canada, 2007 FCA 136, 2007 F.C.J. No. 483 (QL), 2007 DTC 5270) even if the shareholder has rendered services to the corporation that he or she is a shareholder of (Neuman v. M.N.R., [1998] 1 S.C.R. 770; Côté v. Canada, [2002] A.C.L. No. 76 (QL), 2002 DTC 1348; Pauzé v. Canada, [1998] T.C.C. No. 560) (QL), 98 DTC 2109.
+[15] Moreover, the argument that the taxpayer, in essence, paid himself a salary, not a dividend also fails. The appellant was fully aware that he was paying himself a dividend because a salary would have had the effect of increasing the expenses, which he did not want as that would jeopardize the proposal. Also, the fact that the corporation prepared T5s and thus officially declared dividends and that the appellant reported dividends in his income tax returns shows that the payment could not be a salary, bonus or advance but a dividend (Piuze v. Canada, [2002] T.C.C. No. 630) (QL), 2003 DTC 45).
+II Amount of Garderie’s tax debt under the ITA
+[16] The issue now is what was the total of all amounts that Garderie was liable to pay under the ITA in or in respect of the taxation years in which the transfers took place or any preceding taxation years.
+[17] The appellant received a dividend of $21,000 in Garderie’s 2001 taxation year (April 1, 2000, to March 31, 2001) and a dividend of $10,000 in Garderie’s 2002 taxation year (April 1, 2001 to March 31, 2002).
+[18] Garderie’s tax liability for the 2000 taxation year (April 1, 1999, to March 31, 2000) was $16,860 according to the assessment of December 20, 2000. Its tax liability for the 2001 taxation year (April 1, 2000, to March 31, 2001) was $17,408 according to the assessment of October 24, 2001. (See paragraph 5(j) of the Reply.)
+[19] I conclude from this that, at the time of the first dividend payment of $21,000 in the taxation year ending March 31, 2001, the tax liability (determined in accordance with Garderie’s assessments of December 20, 2000, and October 24, 2001) totalled $34,268[1] ($16,860+$17,408). Indeed, although the second assessment, that of October 24, 2001, for the 2001 taxation year (April 1, 2000 to March 31, 2001) was subsequent to March 31, 2001, it is settled law that the debt comes into existence and originates at the moment the income is earned, even if the assessment occurs after the end of the taxation year. The assessment simply confirms the existence of the debt, which is due by the end of each of the years at issue (Electrocan Systems Ltd. v. The Queen, 1988 CarswellNat 494, [1989] 1 C.T.C. 244, 89 DTC 5079, 95 N.R. 281 (FCA); The Queen v. Simard‑Beaudry Inc., [1971] F.C. 396, 1971 CarswellNat 239F, 71 DTC 5511 (FCA).
+III Effect of the proposal filed under the BIA on the appellant’s liability under section 160 of the ITA
+[20] The proposal was made on December 12, 2000; it was accepted by the creditors on December 29, 2000, and confirmed by the court on May 4, 2001.
+[21] The date the proposal is filed with the official receiver is the date for determining creditors’ provable claims (subsection 62(1.1), section 121 BIA). However, the CRA is not required to divide its claim for the taxation year in which a proposal is submitted (Canada v. Marchessault, 2007 FCA 345, 2007 DTC 5749; see also Jacques Deslauriers, La faillite et l’insolvabilité au Québec, 2nd edition (Montréal: Wilson & Lafleur, 2011, paragraph 520).
+[22] In this case, the proposal was filed in the taxation year ending March 31, 2001. Under Marchessault, the assessment of October 24, 2001, for the 2001 taxation year is therefore not covered by the proposal because it was filed on December 12, 2000, prior to the end of the 2001 taxation year (the CRA having no authority to divide the taxation year into two periods, pre‑proposal and post‑proposal).
+[23] As for the tax assessed for the year 2000, it was part of the proposal, even though the CRA did not intervene in the process (it had not filed its proof of claim[2]). However, Garderie, the tax debtor, was not released from its debt under the proposal before it was confirmed by the court on May 4, 2001.[3] The appellant received his first dividend of $21,000 in the taxation year ending March 31, 2001, before Garderie was discharged from its debt for the 2000 fiscal year.
+[24] When the appellant received the first dividend of $21,000, Garderie therefore already owed $34,268 (for the 2000 and 2001 taxation years), and it had not yet been discharged for the portion of the tax debt included in the proposal. Accordingly, the debt existed at the time of the transfer, and the appellant therefore became solidarily liable for the payment of the debt to the extent of the $21,000 received as a dividend (sub‑paragraph 160(1)(e)(i) ITA).
+[25] When the appellant received the second dividend of $10,000 in the taxation year ending March 31, 2002, the tax debt of $17,408 assessed on October 24, 2001, for the 2001 taxation year, subsequent to the filing of the proposal, was not part of it and accordingly still existed. The appellant was therefore jointly and severally liable for the payment of this tax debt to the extent of the $10,000 received as a dividend (sub‑paragraph 160(1)(e)(i) ITA).
+[26] Accordingly, in receiving the two dividends totalling $31,000, the appellant became jointly and severally liable with Garderie for the amount it owed under the two assessments for the 2000 and 2001 taxation years to the extent of those dividends. Because at the time the appellant was assessed under section 160 ITA Garderie owed $30,215.44, the CRA assessed the appellant for this amount under sub‑paragraph 160(1)(e)(ii) ITA.
+IV Assessment under section 160 made only on April 8, 2010
+[27] As the Federal Court of Appeal stated in Heavyside v. Canada, [1996] F.C.J. No. 1608 (QL), at paragraph 9, the Minister could “at any time” assess the appellant, the transferee of the transfer (see also subsection 160(2) ITA, which provides that the Minister may at any time assess a taxpayer in respect of any amount payable by virtue of section 160).
+[28] This responds to the argument put forward by the appellant, who submits that the Minister should have reacted when the dividend was declared by raising subsection 160(1).
+[29] The Federal Court of Appeal said this at paragraph 10 of Heavyside:
+10 The moment chosen by the Minister to assess the transferee is of no consequence. It is trite law that liability for tax results from the Act and not from the assessment and that in the instant case it is the transfer that triggers the liability. The respondent, therefore, was personally liable, in her 1989 taxation year, for income tax in respect of the gains from the disposition of the property transferred and her liability being joint and several with that of her husband, it had a life of its own and survived the eventual extinguishment through bankruptcy, in 1994, of her husband's own tax liability. The fact that she was assessed only in 1994 and only after her husband's discharge is irrelevant as far as her own liability is concerned.
+[30] As a result, the appellant is liable for the amount of $30,215.44 under section 160 of the ITA.
+[31] The appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 5th day of December 2013.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+On this 3rd day of June 2014
+Francois Brunet, Revisor
+CITATION: 2013 TCC 388
+COURT FILE NO.: 2011-2561(IT)G
+STYLE OF CAUSE: Michel Marcogliese v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 15, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: December 5, 2013
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] However, this liability was $30,215.44 at the time of the assessment under section 160 ITA (Exhibit I-1, tab 1 and paragraphs 5(k) and (l) of the Reply).
+[2] See Frank Bennett, Bennett on Bankruptcy, 15th ed. (Toronto: CCH, 2012) p. 252: “A proposal accepted by the creditors and approved by the court is binding on all unsecured creditors even though a creditor has not participated in the process”.
+[3] See L.W. Houlden, G.B. Morawetz and Janis Sarra, Bankruptcy and Insolvency Law of Canada, 4th ed., vol. 1, loose‑leaf (Toronto: Carswell, 2013) p. 2-316, cited in Martel v. The Queen, 2010 TCC 634: “When a proposal is accepted by creditors and approved by the court, the debtor receives the same relief as he or she would receive from a discharge from bankruptcy, i.e., a release of all debts and liabilities to unsecured creditors, except those listed in s. 178 . . .”. [Emphasis added]

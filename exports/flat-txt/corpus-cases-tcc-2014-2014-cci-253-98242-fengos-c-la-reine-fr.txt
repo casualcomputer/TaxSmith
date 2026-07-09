@@ -1,0 +1,153 @@
+Title: Fengos c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98242/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-253-98242-fengos-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-07-17
+
+# Fengos c. La Reine
+
+- Citation: 2014 CCI 253
+- Decision date: 2014-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5248, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fengos c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-17
+Référence neutre
+2014 CCI 253
+Numéro de dossier
+2012-4927(GST)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-4927(GST)I
+ENTRE :
+SPIROS FENGOS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+TRANSCRIPTION RÉVISÉE
+DES MOTIFS DU JUGEMENT
+Je demande que soit déposée la transcription révisée ci-jointe des motifs du jugement rendus à l’audience du 17 juillet 2014, à Montréal (Québec).
+Je demande également qu’une copie de la version originale de la transcription soit envoyée aux parties.
+Signé à Ottawa (Ontario), ce 14e jour d’août 2014.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2014 CCI 253
+Date : 20140814
+Dossier : 2012-4927(GST)I
+ENTRE :
+SPIROS FENGOS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+TRANSCRIPTION RÉVISÉE DES MOTIFS DU JUGEMENT[1]
+(rendus à l’audience du 17 juillet 2014, à Montréal (Québec))
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Billy Katelanos
+Avocat de l’intimée :
+Me Huseyin Akyol
+Greffier audiencier :
+Pierre Limoges
+International Reporting Inc.
+41-5450, chemin Canotek
+Gloucester (Ontario)
+K1J 9G2
+www.irri.net
+1-800-899-0006
+— La séance débute le 17 juillet 2014 à 9 h 55.
+[1] M. Limoges : Lecture du jugement dans le dossier 2012-4927(GST)I entre Spiros Fengos et sa Majesté la Reine. Alors présents ce matin, Me Billy Katelanos, pour l’appelant, et Me Huseyin Akyol, pour l’intimée.
+Le juge Jorré
+[2] Bonjour. Je vais maintenant rendre mes motifs dans l’appel de Spiros Fengos. L’appelant appelle d’une cotisation en date du 12 janvier 2012, cette cotisation a été émise en vertu de l’article 323 de la Loi sur la taxe d’accise. L’article 323 rend les administrateurs d’une personne morale responsables solidairement en cas de défaut par la personne morale de verser un montant de taxe nette. Le montant de la cotisation y compris taxe et pénalités est de moins de 3 000 $.
+[3] Il n’est pas contesté que la société Levisted inc. a fait défaut de remettre des montants de taxe nette pour la période du 1er janvier au 31 décembre 2006. Les montants en question étaient dus le 2 avril 2007. Il n’est pas contesté que l’appelant était administrateur de la société Levisted inc., une personne morale constituée en vertu de la Loi sur la compagnie du Québec.
+[4] La seule question en litige est de savoir si l’appelant peut invoquer la défense prévue au paragraphe 3 de l’article 323. Le texte du paragraphe dit :
+L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[5] Je note aussi que le premier paragraphe de l’article 322 du Code civil du Québec impose l’obligation suivante aux administrateurs : « L’administrateur doit agir avec prudence et diligence. »
+[6] L’appelant est pharmacien de profession, il a reçu son baccalauréat en biologie en 1985 et son baccalauréat en pharmacie en 1989. Il a également reçu un diplôme en administration en 1989. Aussitôt qu’il a été inscrit à l’Ordre des pharmaciens, il est devenu propriétaire d’une pharmacie. Plus tard il a acquis d’autres pharmacies et à un certain moment il avait 19 pharmacies.
+[7] La période des années 2005 à 2007 a été une période très difficile pour l’appelant. Ses deux parents ont été très malades, son mariage a été en difficulté et il a éventuellement eu un divorce. Au cours de cette période il a été également très actif dans sa communauté.
+[8] Évidemment il avait toutes ses responsabilités avec les pharmacies, et plusieurs des pharmacies avaient des problèmes financiers. Bien que d’autres pharmacies fonctionnaient bien, globalement les pharmacies avaient de graves problèmes, car à l’époque un pharmacien ne pouvait pas incorporer sa pharmacie, et ces 19 (ces pharmacies étaient peut-être un peu moins de 19 en juin 2006) n’étaient pas incorporées.
+[9] Suite à ces problèmes, le 21 juin 2006 l’appelant a déposé un avis d’intention de déposer une proposition concordataire. Un séquestre intermédiaire a été nommé le même jour. La proposition datée du 18 octobre 2006 donnait au séquestre intermédiaire comme mandat de vendre l’ensemble des actifs de l’appelant, y compris ses actions dans la société Levisted inc. La proposition a été acceptée et son exécution a été complétée en juillet 2008.
+[10] Selon l’appelant, le syndic lui a dit qu’il ne pouvait plus gérer ses biens après qu’il a donné l’avis d’intention.
+[11] Le fait que les actions de l’appelant dans Levisted ont fait partie de la proposition n’a aucun effet en droit sur le fait que l’appelant avait la charge d’administrateur de Levisted.
+[12] L’appelant a témoigné qu’il est devenu actionnaire et administrateur de Levisted pour rendre service à Gérald Lévis. Dans le passé l’appelant avait acheté des produits non pharmaceutiques de la compagnie à l’époque de M. Lévis. L’ancienne compagnie de M. Lévis avait fait faillite et M. Lévis voulait commencer une nouvelle compagnie dans laquelle il travaillerait aves ses deux fils.
+[13] L’appelant a aidé M. Lévis de deux façons. D’une part, il est devenu actionnaire en achetant des actions non émises de la nouvelle compagnie pour 25 000 $ à la fin de 2002. D’autre part, il a garanti une marge de crédit bancaire de 50 000 $ un peu plus d’un an plus tard. Il espérait éventuellement faire un peu d’argent avec son investissement; il est également devenu à l’époque administrateur de Levisted.
+[14] Le témoignage de l’appelant était très clair qu’il était inactif en tant qu’administrateur. Il n’a jamais été à une réunion d’administrateur, il n’a jamais demandé d’états financiers ou de rapports, il ne posait pas de questions, il ne recevait pas de rapports ni d’états de compte de la banque relatifs à la marge de crédit, ou relatifs à quoi que ce soit. Il a reçu un rapport financier de la compagnie, si j’ai bien compris la preuve, pour la première année financière de la compagnie. Il n’y a aucune preuve qu’il ait demandé ce qui se passait relativement aux remises de TPS.
+[15] M. Lévis venait voir l’appelant tous les deux ou trois mois, mais les visites de M. Lévis étaient en tant que fournisseur des pharmacies de l’appelant. Quand l’appelant voyait M. Lévis ils avaient des conversations très générales et informelles et il concluait que tout allait bien avec la compagnie.
+[16] Après le 21 juin 2006 et avant 2009, l’implication de l’appelant en tant qu’administrateur de Levisted n’a pas augmenté; il n’a eu aucune communication relative à la compagnie jusqu’au moment où la banque lui a demandé d’honorer la garantie.
+Analyse [17] Dans ces circonstances, est-ce que l’appelant a agi avec autant de soin, de diligence et de compétence pour prévenir un défaut de payer la taxe nette que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances?
+[18] La prétention de l’appelant est qu’il est administrateur externe et que sa responsabilité n’est engagée que du moment où il savait que l’entreprise éprouvait des difficultés. Toujours selon l’appelant, parce que l’appelant n’était pas au courant des difficultés de la compagnie, la conséquence est qu’il n’avait aucune obligation d’agir et qu’il n’est donc pas responsable en tant qu’administrateur.
+[19] L’appelant n’était pas engagé au jour le jour dans les opérations de la compagnie et je suis d’accord qu’il était un administrateur externe. Toutefois, j’ai lu attentivement la jurisprudence sur laquelle l’appelant s’appuie, mais je ne peux retenir l’interprétation que propose l’appelant. Ici, non seulement l’appelant n’était pas informé, mais il n’a fait aucun effort pour être informé. Cela ne constitue pas la diligence raisonnable.
+[20] Parmi les passages que l’appelant a cités il y a le passage suivant dans le paragraphe 5 de la décision de la Cour d’appel fédérale dans l’arrêt Borduas c. Canada, 2010 CAF 102, je cite :
+De là l’intérêt de l’appelant à se voir attribuer le statut d’administrateur externe, auquel cas sa responsabilité n’est engagée que s’il savait ou aurait dû savoir que l’entreprise éprouvait des difficultés à effectuer les versements de remise de taxe.
+[21] J’insiste sur l’inclusion dans ce texte des mots « ou aurait dû savoir ».
+[22] Bien que l’appelant n’était pas au courant des problèmes financiers de la compagnie, il est clair qu’une personne ne peut réclamer l’exonération prévue au paragraphe 3 de l’article 323 si cette personne ne fait rien en tant qu’administrateur. Il est également clair que c’est à l’appelant de démontrer qu’il remplissait les exigences de l’exonération.
+[23] Mais je reviens à l’obligation de faire quelque chose et de ne pas simplement rien faire. Ceci est évident premièrement à partir du texte même du paragraphe 3. Le texte dit qu’il faut que la personne agisse avec autant de soin, de diligence et de compétence que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances. Une personne raisonnablement prudente n’est pas une personne qui ne pose pas de questions, qui n’essaie jamais de savoir qu’est-ce qui se passe vis-à-vis les remises de taxe nette. Il faut donc faire quelque chose car si l’on ne s’informe pas il est impossible de prévenir un défaut.
+[24] Deuxièmement, ceci se voit également dans la jurisprudence et je vais citer quelques passages de la décision de la Cour d’appel fédérale dans Canada c. Buckingham, 2011 CAF 142. Bien que la décision concerne un administrateur interne, il est clair que la décision écrite par le juge Mainville énonce des principes qui s’appliquent généralement à tous les administrateurs, notamment, à la fin du paragraphe 33 :
+Les administrateurs doivent établir qu’ils ont exercé le degré de soin, de diligence et d’habileté requis « pour prévenir le manquement ». L’objet de ces dispositions est clairement de prévenir les défauts de versement.
+[25] Vers la fin du paragraphe 38 :
+Par conséquent, une personne nommée administrateur doit activement s’acquitter des devoirs qui s’attachent à sa fonction, et il ne lui sera pas permis de se défendre contre une allégation de malfaisance dans l’exécution de ses obligations en invoquant son inaction.
+[26] Également on peut lire à la fin du paragraphe 40 :
+Pour invoquer ces moyens de défense, l’administrateur doit par conséquent démontrer qu’il s’est préoccupé des versements requis et qu’il s’est acquitté de son obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés.
+[27] On revoit ça aussi ailleurs dans la décision au paragraphe 52, la Cour d’appel dit que la responsabilité n’est pas absolue, mais elle dit, et je lis une partie du paragraphe :
+Ce qui est requis des administrateurs, c’est qu’ils démontrent qu’ils se sont effectivement préoccupés des versements fiscaux et qu’ils se sont acquittés de leur obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés.
+[28] Je reconnais qu’au paragraphe 39 de l’arrêt, la Cour d’appel dit :
+Une norme objective ne signifie toutefois pas qu’il ne doit pas être tenu compte des circonstances propres à un administrateur. Ces circonstances doivent être prises en compte, mais elles doivent être considérées au regard de la norme objective d’une « personne raisonnablement prudente ».
+[29] Et ensuite au même paragraphe, la Cour d’appel cite un passage de l’arrêt de la Cour suprême du Canada dans Magasins à rayons Peoples inc. (Syndic de) c. Wise, 2004 CSC 68.
+[30] Mais qu’est-ce que ça veut dire « tenir compte des circonstances »? C’est vrai que l’administrateur externe est dans une situation différente de l’administrateur interne et on doit en tenir compte. Mais cela ne veut pas dire que l’administrateur externe peut ne faire aucun effort pour s’informer. Car, comme je viens de le lire, ces circonstances « doivent être considérées au regard de la norme objective d’une personne raisonnablement prudente ».
+[31] Or, une personne raisonnablement prudente qui veut éviter un défaut des remises ne se désintéresse pas totalement des opérations.
+[32] Ça veut dire quoi en pratique? Ça pourrait dire par exemple qu’il y a peut‑être des circonstances où la responsabilité d’un administrateur externe pourrait être engagée à une date postérieure à la date où serait engagée la responsabilité d’un administrateur interne.
+[33] Par exemple, un administrateur interne qui est le président de la compagnie, qui est là tous les jours, va peut-être apprendre qu’il y a des problèmes qui risquent potentiellement de faire en sorte que la compagnie ne puisse payer ses remises plus tôt que l’administrateur externe. Et ça peut être compréhensible que, tout en étant diligent, un administrateur externe apprenne cela plus tard et qu’il agisse plus tard. Et donc, la responsabilité de l’administrateur externe commencera à une date subséquente à la date où la responsabilité de l’administrateur interne a commencé. Et ça, ça aura peut‑être des conséquences sur le montant pour lequel il pourrait être responsable. C’est ça que ça veut dire de tenir compte des circonstances.
+[34] D’ailleurs, il y a une phrase dans une décision de la Cour d’appel du Québec qui, je crois, reflète ça. Cette décision est dans un contexte assez différent, c’est l’arrêt de Wightman c. Widdrington (Succession de Widdrington), 2013 QCCA 1187, une décision de la Cour d’appel du Québec. Et dans cette décision la Cour d’appel examine le droit relatif aux obligations des administrateurs aux paragraphes 392 à 407 de la décision.
+[35] Juste après avoir examiné l’arrêt Buckingham, la Cour d’appel dit plusieurs choses aux paragraphes 400 à 402; je ne vais pas tous les lire, mais le paragraphe 400 reflète bien ce que je viens d’exprimer en disant :
+Ainsi, l’administrateur interne doit être comparé à un administrateur interne raisonnablement prudent, alors que l’administrateur externe le sera à un administrateur externe raisonnablement prudent.
+[36] Et dans les deux cas il faut donc faire quelque chose.
+[37] Donc, dans les faits ici il n’y a pas eu des efforts d’une personne raisonnablement prudente qui est administrateur externe pour suivre les remises de Levisted, et je ne vois pas comment je pourrais conclure qu’il y avait diligence raisonnable. La conséquence est que je dois rejeter l’appel.
+— La séance est levée à 9 h 52.
+RÉFÉRENCE :
+2014 CCI 253
+Nº DU DOSSIER DE LA COUR :
+2012-4927(GST)I
+INTITULÉ DE LA CAUSE :
+SPIROS FENGOS c. LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Les 14 et 17 juillet 2014
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Gaston Jorré
+DATE DES MOTIFS DU JUGEMENT RENDUS ORALEMENT :
+Le 17 juillet 2014
+DATE DU JUGEMENT :
+Le 18 juillet 2014
+DATE DE LA TRANSCRIPTION DES
+MOTIFS DU JUGEMENT RÉVISÉE PAR LE JUGE :
+Le 14 août 2014
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Billy Katelanos
+Avocat de l’intimée :
+Me Huseyin Akyol
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Me Billy Katelanos
+Cabinet :
+Gowling Lafleur Henderson
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Cette version est une version révisée par le juge qui a fait des changements mineurs pour améliorer le style et la clarté, corriger des erreurs mineures et ajouter des références aux noms de causes apparaissant déjà dans les motifs. Il n’y a aucune modification sur le fond.

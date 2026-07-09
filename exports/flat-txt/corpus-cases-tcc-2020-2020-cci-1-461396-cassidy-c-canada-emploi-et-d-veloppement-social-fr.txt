@@ -1,0 +1,123 @@
+Title: Cassidy c. Canada (Emploi et Développement social)
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/461396/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-1-461396-cassidy-c-canada-emploi-et-d-veloppement-social-fr.md
+Document type: case_law
+Last modified: 2020-01-02
+
+# Cassidy c. Canada (Emploi et Développement social)
+
+- Citation: 2020 CCI 1
+- Decision date: 2020-01-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4263, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cassidy c. Canada (Emploi et Développement social)
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-01-02
+Référence neutre
+2020 CCI 1
+Numéro de dossier
+2019-356(OAS)
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2019-356(OAS)
+ENTRE :
+FRANK R. CASSIDY,
+appelant,
+et
+LE MINISTRE DE L’EMPLOI ET DU DÉVELOPPEMENT SOCIAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 octobre 2019, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+JUGEMENT
+L’appel interjeté à l’encontre de la décision rendue par le ministre de l’Emploi et du Développement social le 12 juillet 2018 pour la période de l’appelant comprise entre juillet 2018 et juin 2019, aux termes de la Loi sur la sécurité de la vieillesse, est rejeté sans frais.
+Signé à Ottawa, Canada, ce 2e jour de janvier 2020.
+« R. MacPhee »
+Le juge MacPhee
+Référence : 2020 CCI 1
+Date : 20200102
+Dossier : 2019-356(OAS)
+ENTRE :
+FRANK R. CASSIDY,
+appelant,
+et
+LE MINISTRE DE L’EMPLOI ET DU DÉVELOPPEMENT SOCIAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+[1] Frank Cassidy (M. Cassidy) a interjeté appel de la décision rendue par le ministre de l’Emploi et du Développement social (le « ministre ») concernant le calcul de ses prestations au titre du Supplément de revenu garanti (SRG) en application de la Loi sur la sécurité de la vieillesse, L.R.C. (1985), ch. O-9 (la LSV) pour la période de paiement comprise entre juillet 2018 et juin 2019. Plus précisément, la question en litige porte sur le revenu de l’appelant aux fins de son admissibilité au SRG pour la période de paiement comprise entre juillet 2018 et juin 2019 [1] .
+[2] Les prestations au titre du SRG en question sont déterminées en fonction du revenu de l’appelant pour l’année civile précédant le début de la période de paiement. Au procès, l’appelant n’a pas été clair à propos du montant de son revenu en 2017. Les deux parties ont eu plusieurs mois pour me présenter d’autres éléments de preuve concernant le revenu de l’appelant. L’appelant a produit des relevés bancaires pour l’année d’imposition 2017. Après avoir examiné ces relevés, je ne peux conclure, pour les motifs énoncés ci-dessous, qu’ils détruisent l’hypothèse soutenue par le ministre dans sa réponse concernant le revenu de l’appelant en 2017.
+[3] Malheureusement pour l’appelant, les faits de l’espèce ont créé une sorte de tempête conduisant à un résultat absurde. Au cours de l’année d’imposition 2017, l’appelant a perçu des prestations de sécurité de la vieillesse. Leur versement a débuté en octobre 2016.
+[4] En 2016, l’Agence du revenu du Canada (l’Agence) a refusé à tort une déduction pour frais médicaux que l’appelant a demandée dans sa déclaration de revenus. Ainsi, l’Agence a établi le revenu total de l’appelant à un montant supérieur au seuil maximal permis pour qu’il soit admissible à des prestations de SRG au cours de la période de paiement [2] comprise entre juillet 2017 et juin 2018. Finalement, l’Agence a établi une nouvelle cotisation à l’égard de la déclaration de revenus de 2016 de l’appelant, réduisant ainsi son revenu total à zéro pour ladite année.
+[5] Malheureusement, cette décision a été rendue trop tard pour que l’appelant puisse recevoir des prestations du SRG. Le processus était déjà lancé. Compte tenu de la perte du revenu tiré du SRG, l’appelant a été forcé de retirer 9 379 $ de son régime enregistré d’épargne-retraite (REER) en 2017, afin de disposer de fonds suffisants pour subvenir à ses besoins. En conséquence, ce retrait a eu une incidence sur sa période de paiement pour la période comprise entre juillet 2018 et juin 2019. Le revenu de l’année de référence de l’appelant aux fins de son admissibilité au SRG a été calculé de la manière suivante :
+Prestations du Régime de pension du Canada 8 289,00 $
+Revenu d’un régime de retraite privé 6 579,00 $
+Autres revenus 510,00 $
+Déduction au titre du REER (3000,00 $)
+Revenu tiré d’un REER 9 379,00 $
+Revenu de l’année de référence 2017 21 757,00 $
+[6] Le revenu de l’appelant était supérieur au seuil maximal permis pour la période de paiement comprise entre juillet 2018 et juin 2019, lequel seuil était fixé à 18 096 $. Par conséquent, il n’était pas admissible au SRG.
+[7] L’appelant demande à la Cour qu’une forme de correction soit apportée au calcul de son revenu aux fins de la détermination de l’admissibilité au SRG aux termes de la LSV pour la période de paiement comprise entre juillet 2018 et juin 2019.
+[8] L’appelant affirme que l’erreur commise par l’Agence est la seule raison pour laquelle il a retiré une somme de son REER en 2017. Plus précisément, le refus d’une déduction pour frais médicaux à laquelle il avait droit. Cette affirmation m’est apparue vraisemblable.
+[9] L’appelant affirme également que le ministre a incorrectement calculé son revenu pour l’année 2017. Au procès, il a déclaré, lors de son témoignage, que son revenu provenant d’un régime de retraite privé était inférieur au montant utilisé dans les calculs du ministre. Il n’a pas présenté suffisamment d’éléments de preuve à l’appui de cette thèse. Compte tenu du délai accordé à l’appelant pour recueillir ces renseignements, je me serais attendu à ce qu’il produise un feuillet T4A émis par l’administrateur de son régime de retraite privé ou, à titre subsidiaire, un document préparé l’administrateur du régime indiquant les prestations totales qu’il a reçues en 2017. Comme je l’ai indiqué ci-dessus, il a plutôt produit des relevés bancaires de l’année 2017.
+[10] L’année de référence est l’année civile précédant la période de paiement en cours. En l’espèce, il s’agit de l’année d’imposition 2017 [3] . Le revenu est calculé conformément à la Loi de l’impôt sur le revenu (la LIR), en fonction de la définition du terme « revenu » à l’article 2 de la LSV.
+[11] En 2017, l’appelant a retiré 9 379 $ de son REER. La Cour canadienne de l’impôt a examiné à maintes reprises la question de savoir si les retraits des REER devraient être inclus dans le calcul du revenu aux termes de l’article 2 de la LSV. Dans chaque affaire, elle a conclu qu’ils devaient être inclus [4] . En outre, l’intimé souligne, à juste titre, que conformément à l’alinéa 56(1)h) et au paragraphe 146(8) de la LIR, les prestations versées à un contribuable à partir d’un régime de retraite enregistré doivent être incluses dans le calcul du revenu du contribuable.
+[12] Comme je conclus que le revenu de l’appelant pour l’année 2017 a été correctement calculé, je dois rejeter l’appel.
+[13] Je tiens toutefois à conclure les motifs du présent jugement en exprimant le vœu que le ministre accorde une réparation en equity à l’occasion de la demande fondée sur l’équité du demandeur. Dans l’arrêt Almadhoun c. Canada [5] , la Cour d’appel fédérale a déclaré que même si la Cour canadienne de l’impôt n’a pas compétence pour accorder une réparation en equity, un juge peut tout de même exprimer son opinion sur la question dans une remarque incidente.
+[14] C’est ce que je souhaite faire en l’espèce. C’est en raison de l’évaluation erronée du ministre pour l’année d’imposition 2016 de l’appelant que ce dernier a dû retirer des fonds de son REER pour combler son besoin pressant de liquidités, afin de subvenir à ses besoins. L’appelant en a subi deux inconvénients. Premièrement, il a été forcé d’utiliser son REER plus tôt qu’il ne l’aurait fait autrement. Deuxièmement, il a été privé des prestations du SRG qu’il aurait par ailleurs reçues. Si le ministre a le pouvoir de corriger la situation pour l’appelant, l’espèce mériterait une telle réparation.
+[15] L’appel est rejeté. Aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 2e jour de janvier 2020.
+« R. MacPhee »
+Le juge MacPhee
+RÉFÉRENCE :
+2020 CCI 1
+No DU DOSSIER DE LA COUR :
+2019-356(OAS)
+INTITULÉ :
+FRANK R. CASSIDY c. LE MINISTRE DE L’EMPLOI ET DU DÉVELOPPEMENT SOCIAL
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 25 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 2 janvier 2020
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimé :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Le calcul du revenu est la seule question pouvant être portée en appel devant notre Cour en ce qui concerne le Supplément de revenu garanti, en application du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse :
+(2) Lorsque l’appelant prétend que la décision du ministre touchant son revenu ou celui de son époux ou conjoint de fait, ou le revenu tiré d’une ou de plusieurs sources particulières, est mal fondée, l’appel est, conformément aux règlements, renvoyé pour décision devant la Cour canadienne de l’impôt. La décision de la Cour est, sous la seule réserve des modifications que celle-ci pourrait y apporter pour l’harmoniser avec une autre décision rendue aux termes de la Loi sur la Cour canadienne de l’impôt sur un appel pertinent à celui interjeté aux termes de la présente loi devant le Tribunal de la sécurité sociale, définitive et obligatoire et ne peut faire l’objet que d’un recours prévu par la Loi sur les Cours fédérales.
+[2] Le revenu de l’appelant a été calculé de la manière suivante : des prestations de 10 866 $ au titre du Régime de pensions du Canada, un revenu de 3 609 $ au titre d’un régime de retraite privé et un revenu d’emploi de 5 557 $, pour un total de 20 052 $.
+[3] Article 10 de la Loi sur la sécurité de la vieillesse, définition du terme « année de référence ».
+[4] Voir, par exemple, les arrêts Drake c. Ressources Humaines, 2005 CCI 498, et Gonder c. Ressources Humaines, 2011 CCI 505.
+[5] 2018 CAF 112, aux paragraphes 33 à 36.

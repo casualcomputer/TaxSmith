@@ -1,0 +1,85 @@
+Title: Joseph v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26395/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-801-26395-joseph-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-12-21
+
+# Joseph v. The Queen
+
+- Citation: 2004 TCC 801
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3342, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Joseph v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-21
+Neutral citation
+2004 TCC 801
+File numbers
+2004-1293(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC801
+Date: 20041221
+Docket: 2004-1293(IT)I
+BETWEEN:
+PANCETA E. JOSEPH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Toronto, Ontario on September 30, 2004)
+MargesonJ.
+[1] The matters before the Court today for decision are the appeals of Pancetta E. Joseph for the 1997, 1998, 1999, 2000, 2001, 2002 and 2003 taxation years. With respect to the 2003 taxation year, the Court finds that it is not properly before the Court because it was instituted prematurely. There was no assessment to appeal from and therefore there could be no appeal. That purported appeal is quashed.
+[2] With respect to the other years, the Appellant sought a tax credit for the 1996, 1997, 1998, 1999, 2000, 2001, 2002 taxation years and for the redetermination of the Canada Child Tax Benefit for the 1996, 1997, 1998, 1999, 2000, 2001, 2002 base taxation years.
+[3] The preliminary objection that the Minister makes is that the Appellant has not perfected the appeals because she has not filed objections. It is trite to say that the law has been clearly defined in that matter. The Act sets out a procedure for filing an objection and commencing an appeal to the Tax Court of Canada. The Act requires, first of all, in order for there to be an appeal that there be an objection filed.
+[4] Judge Hamlyn, as he then was, dealt with this matter in Michael Nach v. The Queen, dated August 28, 2000, Docket: 98-124(IT)I.
+[5] In this case, the situation is similar to the situation in Nach, supra, in that the Appellant filed the Notice of Appeal before the Minister had actually made an assessment. Judge Hamlyn said "The Appellant's Notice of Appeal was filed on the same day as the Notice of Objection was served. Subsection 169(1) of the Act provides that a taxpayer may only appeal to the Tax Court of Canada after either: (a) the Minister has confirmed the assessment ...".
+[6] The procedure is set out in the Act. It has to be followed. The Minister may confirm the assessment, or if he does not confirm the assessment, 90 days must have elapsed since the Notice of Objection was filed and the Minister has failed to act. Then the Appellant may file a proper Notice of Appeal.
+[7] In this particular case, the Appellant did not do that. In the taxation years 2000 and 2001, (the only years where there could have been an appeal based upon documentation filed that could have been considered to be a notice of objection) the Appellant did not follow the proper procedure. She was not particularly familiar with what she should do, although the Court is satisfied that she had considerable correspondence in front of her from the Minister which indicated that she had to file an objection from the assessments. She did not appear to understand that requirement. She apparently did not realize what she had to do. Unfortunately there is nothing the Court can do about that.
+[8] The affidavit that has been filed properly sets out that no proper Notice of Objection was filed in any of the years in issue. If there is no Notice of Objection, then one cannot file a Notice of Appeal.
+[8] Nach, supra, certainly applies to the situation here. In any event, the Court is satisfied that the Appellant cannot file an appeal in the years in issue. The Court cannot hear the appeals because where no objections have been filed, the Court has no jurisdiction to hear the appeals. That is the situation here.
+[9] So regretfully, then, the Court will have to quash the appeals and confirm the Minister's assessments.
+Signed at Ottawa, Canada, this 21st day of December 2004.
+"T. E. Margeson"
+Margeson J.
+CITATION:
+2004TCC801
+COURT FILE NO.:
+2004-1293(IT)I
+STYLE OF CAUSE:
+Panceta E. Joseph v. The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 30, 2004
+ORAL REASONS FOR JUDGMENT BY:
+The Honourable Justice T. E. Margeson
+DATE OF REAONS FOR JUDGMENT:
+December 21, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+K. Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

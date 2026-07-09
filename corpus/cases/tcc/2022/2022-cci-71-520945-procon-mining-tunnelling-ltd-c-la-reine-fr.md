@@ -1,0 +1,210 @@
+---
+title: "Procon Mining & Tunnelling Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520945/index.do"
+last_modified: "2022-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 71"
+citation2: ""
+neutral_citation: "2022 CCI 71"
+decision_date: "2022-06-29"
+language: "fr"
+item_id: "520945"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4534
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:05:07.504000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c4c3c9be434fb66c018b5ec415b4fc1acf77e9d24030edc15a0feda28f1aad2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Procon Mining & Tunnelling Ltd. c. La Reine
+
+- Citation: 2022 CCI 71
+- Decision date: 2022-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4534, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Procon Mining & Tunnelling Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-06-29
+Référence neutre
+2022 CCI 71
+Numéro de dossier
+2017-4641(IT)G, 2019-2446(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017–4641(IT)G
+2019-2446(IT)G
+ENTRE :
+PROCON MINING & TUNNELLING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 2 mai 2022, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocats de l’appelante :
+Me Patrick Lindsay
+Me Mikael Johansson
+Avocats de l’intimée :
+Me Whitney Dunn
+Me Lalli Deol
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2013 est rejeté, avec dépens, conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de juin 2022.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 12e jour de décembre 2022.
+François Brunet, réviseur
+Référence : 2022 CCI 71
+Date : 20220629
+Dossier : 2017–4641(IT)G
+2019-2446(IT)G
+ENTRE :
+PROCON MINING & TUNNELLING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La seule question en litige à trancher en l’espèce consiste à déterminer si les actions des jeunes sociétés minières ont été acquises et aliénées par l’appelante (« Procon »), ou acquises et détenues par elle, au titre du revenu ou du capital. À partir de cette conclusion, il sera ensuite déterminé par ricochet si les pertes subies par la suite sur la vente de ces actions sont des pertes au titre du capital ou du revenu. Ces actions ont été acquises et détenues par l’appelante dans le cadre de son entreprise. L’appelante a déduit les pertes qu’elle a subies sur ces dispositions au titre du revenu.
+[2] L’appelante a fait l’objet d’une nouvelle cotisation au motif que ces pertes étaient des pertes en capital et, en outre, qu’il s’agissait de « pertes apparentes » en application de la Loi de l’impôt sur le revenu (la « Loi »). L’appelante soutient que les pertes étaient des pertes au titre du revenu, mais reconnaît que, si ses pertes déclarées étaient des pertes en capital, il s’agissait de pertes apparentes non déductibles.
+[3] Avant l’audition du présent appel, les parties ont déposé un exposé conjoint partiel des faits (l’« ECF »). Une copie de cet ECF est jointe aux présentes. Les parties ont convenu d’utiliser un seul recueil conjoint de documents.
+I. Faits
+[4] Selon l’ECF, les éléments suivants sont constants :
+1) L’un des résultats de l’acquisition des actions par l’appelante était qu’elle devait se voir octroyer certains contrats miniers des émetteurs pour les services d’approvisionnement en ingénierie, de construction et de gestion des contrats miniers de l’appelante, à tout le moins renouvelables, et certains, pour la durée de vie des mines émettrices. Ceux-ci ont été définis dans des protocoles d’entente non contraignants conclus avec les émetteurs. L’appelante a acquis les actions comme prévu. Cependant, les initiatives conjointes proposées ne sont pas allées très loin et aucun de ces contrats n’a été attribué.
+2) L’appelante prévoyait tirer des revenus de ses services miniers contractuels fournis aux émetteurs pendant une période pouvant aller jusqu’à une décennie.
+3) Ces services miniers contractuels faisaient partie de l’entreprise de l’appelante depuis le début de l’entreprise vers 1980 jusqu’au moment où elle a abandonné ses activités.
+4) L’appelante exerce son activité commerciale principale comme entrepreneur minier. M. Yurkowski a déclaré lors de son témoignage que Procon n’avait aucune autre source de revenus importante en dehors de ces services contractuels.
+5) L’appelante n’a jamais reçu de dividendes provenant des actions.
+6) L’appelante a acquis les actions des émetteurs dans le cadre de ses initiatives conjointes selon lesquelles les émetteurs concluraient des contrats miniers avec l’appelante qui engrangeraient alors des revenus d’entreprise. Cependant, pour différentes raisons, ces initiatives conjointes ne se sont pas déroulées comme prévu, et les contrats envisagés n’ont jamais été concrétisés à la suite des acquisitions d’actions.
+7) En plus des protocoles d’entente non contraignants conclus avec ces deux émetteurs, Procon a conclu un protocole d’entente non contraignant semblable avec une autre société. Il ressort de ce mutisme de l’ECF que l’initiative n’a pas été mise en œuvre non plus.
+8) L’appelante a déclaré les actions comme des « placements à long terme » dans ses états financiers.
+9) Au cours des années en question, l’appelante avait déclaré des gains en capital sur ses aliénations d’actions de deux sociétés minières cotées en bourse. Dans le cas d’une société, il n’y a jamais eu de contrats miniers entre l’émetteur et l’appelante. Dans l’autre cas, l’appelante a accepté les actions en lieu et place du paiement d’une dette impayée de l’émetteur envers Procon. Aucun élément de preuve n’indiquait que Procon ait jamais souscrit à des placements semblables dans des sociétés autres que des sociétés minières. Cet élément de preuve confirme que Procon avait investi dans au moins une société minière avec laquelle elle ne faisait pas affaire.
+[5] Le seul témoin était M. Yurkowski, un ingénieur minier expérimenté et fondateur, président et chef de la direction de Procon. La partie pertinente de ce témoignage portait sur le but pour lequel Procon a acquis les actions dans chaque cas. M. Yurkowski a déclaré lors de son témoignage ce qui suit :
+1) Il n’y avait aucune intention de tirer un revenu sur les actions de ces deux émetteurs.
+2) Le coût des actions acquises était au titre de la participation de Procon dans la coentreprise ou l’initiative. Le but était d’obtenir des contrats à long terme avec les émetteurs.
+3) Procon n’a pas acquis les actions dans le but de les vendre. Elle a envisagé que sa participation au capital pourrait augmenter avec le temps, elle souhaitait acquérir le contrôle d’un émetteur dans lequel elle avait fait un placement initial et qu’elle pourrait ensuite vendre son placement à une plus grande société minière.
+4) Le financement minier que le protocole d’entente envisageait devait être fourni par Procon à l’un des émetteurs était une partie relativement nouvelle des initiatives commerciales de Procon à la suite de l’acquisition du contrôle du groupe Procon par une société minière d’État chinoise. La seule raison pour laquelle M. Yurkowski pouvait se souvenir de l’émission prévue d’une débenture convertible était également une garantie pour le financement prévu.
+[6] Aucun des documents du recueil de documents n’a été présenté à M. Yurkowski et celui-ci n’en a mentionné aucun, s’il en est.
+[7] L’intimée n’a pas contre-interrogé M. Yurkowski sur son témoignage principal.
+[8] L’appelante a également lu plusieurs petits passages de l’interrogatoire préalable de l’auditeur de l’ARC au sujet de ce qu’elle avait écrit dans le rapport de l’ARC sur les gains en capital par rapport au revenu inclus dans le recueil de documents.
+[9] Il n’est pas controversé entre les parties que les observations, les hypothèses, les analyses et la conclusion de l’auditeur formulées dans son rapport, ou expliquées lors de l’interrogatoire préalable, ne lient pas la Cour dans le cadre de son examen de l’appel de Procon à l’encontre des cotisations en cause. Cela va dans les deux sens.
+[10] Les éléments de preuve appuient clairement deux conclusions de fait :
+1) Les actions ont été acquises par Procon afin de rehausser les revenus de ses activités liées aux contrats miniers. Cela n’est pas controversé. Elles n’ont pas été acquises à des fins commerciales.
+2) Bien qu’elles n’aient pas été acquises pour être revendues ou échangées, les actions constituaient également un placement de Procon dans les capitaux propres des émetteurs. Procon savait également qu’elle effectuait intentionnellement un placement dans les actions qu’elle acquérait en vue d’améliorer stratégiquement sa croissance future et les recouvrements ou le flux de trésorerie générés par ses activités. Procon a indiqué ces gains en capital à l’époque dans son plan d’affaires au titre de la croissance future. Procon n’ignorait pas les possibilités d’augmentation importante de la valeur des actions si leurs vastes initiatives planifiées avec l’émetteur étaient fructueuses. Le plan d’affaires indiquait à l’époque des placements en actions dans les ressources, avec une valeur de placement, et générant des revenus et des bénéfices à long terme. L’avocat de l’appelante a reconnu lors des débats que Procon prévoyait la vente inévitable d’actions des sociétés publiques.
+[11] Les éléments de preuve qui étayent de manière accablante ces deux conclusions comprennent les suivants :
+1) Le témoignage de M. Yurkowski selon lequel le cours initial des actions des jeunes sociétés minières sur lesquelles Procon se concentrait dans le cadre de son nouveau plan d’affaires stratégique devait être tel que cela fonctionnerait, Procon et la société minière exploiteraient conjointement la mine, acquéraient peut-être d’autres propriétés minières, et Procon et les émetteurs prospéreraient. M. Yurkowski a défini les acquisitions d’actions comme des placements.
+2) Les deux protocoles d’entente désignent uniformément l’acquisition d’actions par Procon comme un « placement ».
+3) Le conseil d’administration de la société mère de Procon au sein du groupe Procon, dont M. Yurkowski faisait partie, a adopté une résolution intitulée [traduction] « Approbation du placement » qui désigne l’acquisition d’actions comme un « placement ».
+4) Le communiqué de presse de l’un des émetteurs portant sur l’acquisition des actions et les protocoles d’entente précise que [traduction] « Procon a convenu d’acquérir [les actions] aux fins de placement et pour faciliter les transactions prévues dans le protocole d’entente [sic]. Le communiqué de presse de l’autre émetteur désigne également les acquisitions de ses actions par Procon comme un « placement effectué par Procon » et indique de la même manière que Procon a accepté d’acquérir les actions « à des fins de placement ».
+5) Le recueil de documents comprend un autre communiqué de presse de l’un des émetteurs indiquant qu’en plus de l’acquisition de ses actions par Procon, la société personnelle de M. Yurkowski a acquis 10 millions d’actions de l’émetteur pour cinq cents chacune à la même époque que la clôture unique du placement privé. La Cour n’en a eu aucune autre connaissance et ne connaît donc pas la raison ou le but pour lequel M. Yurkowski a acquis ces actions ou si, quand, pourquoi ou à quel prix il les a vendues. Il semble loin d’être raisonnable de supposer qu’il a acquis les actions personnellement pour permettre à Procon de générer des revenus contractuels au profit de tous ses actionnaires, y compris l’importante entité d’État Chinoise tierce.
+6) La Cour semble n’avoir reçu moins qu’une description complète des circonstances de l’acquisition des actions par le fondateur, président et chef de la direction de l’appelante dans son témoignage. Cela met en évidence la raison pour laquelle la Cour doit aller au-delà de la propre description d’un contribuable de son intention, de sa motivation, de sa raison ou de son but d’avoir fait quelque chose, et vérifier concrètement ces éléments par rapport aux autres éléments de preuve objectifs. Cette lacune ne renforce pas la crédibilité de M. Yurkowski sur le point même qu’il a été appelé s’exprimer. Pour citer l’avocat de l’appelante lors des débats : [traduction] « Vous rechercher si vous faites confiance au témoignage que vous avez entendu d’Ed Yurkowski ». Le fait que l’appelante n’a fourni aucune explication me pose un grand problème quant à la crédibilité de son témoignage.
+7) L’un des émetteurs a déposé un avis d’application de la réglementation américain détaillé et long à l’égard de l’acquisition d’actions par Procon (qui fait également référence à l’acquisition d’actions par la société de M. Yurkowski). En décrivant l’achat par Procon de sa participation dans l’émetteur, il déclare que [traduction] « Procon estime que [...] la production d’or sur les biens détenus par [l’émetteur] est un placement précieux ». [1]
+L’initiative conjointe envisagée par Procon et cet émetteur n’a pas reçu l’approbation de ce comité américain. Apparemment, il n’a pas approuvé l’exploitation d’activités d’extraction d’or et d’argent à proximité de bases et d’installations militaires américaines, qui utiliseraient du cyanure de sodium, des explosifs (y compris de la dynamite) et du nitrate d’ammonium, qui sont des substances contrôlées aux États-Unis comme précurseurs d’agents chimiques toxiques, à des fins d’armement chimique et biologique ou à des fins antiterroristes, par un projet d’initiative conjointe avec Procon, dont le contrôle avait été acquis par une entité d’État Chinoise. Cela a mené à la disparition des initiatives conjointes prévues.
+Cette déclaration indique que Procon [traduction] « prend sa décision sur le placement en se fondant sur des facteurs économiques et financiers ».
+8) Le communiqué de presse annonçant la cession prévue des actions de Procon dans cet émetteur est intitulé [traduction] « cession du placement de Procon […] à la suite de l’examen réglementaire américain » et indique de nouveau que la société de portefeuille de Procon a un placement ».
+9) Le plan d’affaires du groupe Procon pour la croissance future à l’époque pertinente énonçait que :
+- Sa stratégie de croissance favoriserait la réalisation de placements directs en actions auprès de ses clients, en détenant et en investissant dans des placements directs dans des projets précis et en obtenant des contrats miniers comme condition du placement.
+- Son initiative de croissance progressive ou future comprenait des placements en actions dans les ressources.
+- Cette stratégie de placement générerait des revenus et des bénéfices à long terme pour Procon.
+- Procon a envisagé de rendre public l’un des émetteurs d’ici deux à cinq ans alors qu’elle pourrait avoir une capitalisation boursière d’un milliard de dollars. Dans son témoignage, M. Yurkowski a parlé de leurs placements qui ne cessaient jamais, voire qui augmentaient, à mesure que l’émetteur prospérait, et a fait part de son intention d’acquérir le contrôle d’un émetteur.
+- Les flux de trésorerie projetés sur 15 ans indiquaient des prévisions au sujet des activités commerciales de Procon distinguant les flux de trésorerie d’exploitation de l’initiative conjointe et ses flux de trésorerie de placement.
+10) L’appelante n’a pas informé la Cour si c’était Procon ou l’émetteur qui avait proposé le placement en capitaux propres. Vu les documents de planification des activités de Procon et les autres éléments de preuve, j’en déduis que Procon a effectué et recherché le placement en capitaux propres. Aucune explication n’a été donnée sur la façon dont les différentes positions de Procon dans chaque émetteur ont été établies ni pourquoi la représentation différente au conseil faisait partie des placements ni pourquoi elle ne représentait pas les actions relatives.
+II. Droit et analyse
+A. Loi de l’impôt sur le revenu
+[12] L’article clé pour la distinction entre le revenu d’entreprise et les gains en capital est l’article 3 de la Loi.
+[13] Les articles relatifs à la déductibilité actuelle par rapport à la capitalisation des dépenses d’entreprise, comme les articles 9, 18 et 20, et la jurisprudence pertinente, sont de peu d’utilité pour déterminer la nature d’un actif d’entreprise détenu (par opposition à une dépense engagée) soit à titre de revenu ou de capital. Il convient de noter que l’appelante n’a pas cherché à déduire ou à amortir son prix d’achat des actions de son revenu à des fins fiscales, commerciales ou comptables.
+[14] Selon la Cour suprême du Canada et la Cour d’appel fédérale, les biens détenus ou détenus par une entreprise sont l’un des deux types de biens. Il s’agit soit d’un inventaire, soit d’une immobilisation.
+[15] Dans l’arrêt Friesen c. Canada, 1995 CSC 103, la Cour suprême du Canada a observé :
+[28] [sic] Le deuxième problème que pose l’interprétation préconisée par l’intimée tient à son incompatibilité avec la dichotomie fondamentale que la Loi de l’impôt sur le revenu établit entre le revenu d’entreprise et le gain en capital. Comme cela a déjà été mentionné, la sous‑section b de la section B de la Loi porte sur le revenu tiré d’une entreprise ou d’un bien, tandis que la sous‑section c de la section B porte sur les gains en capital. La Loi définit deux types de biens, qui correspondent respectivement à chacune de ces sources de revenu. Les biens en immobilisation (définis à l’al. 54(b)) engendrent un gain ou une perte en capital lors de leur aliénation. Les biens figurant dans un inventaire sont des biens dont le coût ou la valeur entre dans le calcul du revenu d’entreprise. La Loi crée ainsi un système simple qui ne reconnaît que deux catégories générales de biens. La qualification d’un bien comme bien figurant dans un inventaire ou comme bien en immobilisation est fondée principalement sur le type de revenu qui sera tiré de ce bien.
+[Non souligné dans l’original.]
+[16] Dans l’arrêt CAE c. Canada, 2013 CAF 92, la Cour d’appel fédérale a observé :
+[77] Comme l’explique la Cour suprême dans Friesen, il n’existe que deux catégories de biens en vertu de la Loi, soit les biens en immobilisation lesquels lors de leur vente donnent lieu à un gain en capital et les biens détenus pour la vente – i.e. en inventaire – lesquels lors de leur vente donnent lieu à un revenu (Friesen au para. 28).
+[Non souligné dans l’original.]
+[17] Dans l’arrêt Canada Safeway Limited c. Canada, 2008 CAF 24, le juge Pelletier, de la Cour d’appel fédérale a fait les observations suivantes dans ses motifs concordants :
+[76] La définition de bien en immobilisation en tant que bien dont la disposition donne lieu à un gain ou à une perte en capital n’est pas particulièrement utile pour identifier un bien en immobilisation. Comme les biens qui produisent un revenu par rotation des stocks sont des biens figurant dans un inventaire, les immobilisations doivent nécessairement produire un revenu du simple fait qu’elles sont détenues. Sans exclure les autres possibilités, les biens qui produisent un revenu du fait de leur détention peuvent produire soit un flux de rentrées de leur propre chef, c’est-à-dire un bien productif, soit être utilisés dans le cadre de l’entreprise sans faire partie de l’inventaire (des stocks) de cette entreprise. Ainsi, par exemple, des biens immeubles peuvent faire partie de l’inventaire du promoteur immobilier, mais ils seront considérés comme une immobilisation dans le cas de l’exploitant d’une épicerie qui s’en sert pour exploiter son entreprise.
+[77] L’essence de la distinction entre un bien figurant dans un inventaire et un bien en immobilisation, pour déterminer si l’on a affaire à un projet comportant un risque de caractère commercial, dépend de l’intention au moment de l’acquisition du bien (voir le jugement Hazeldean Farm c. Canada (Minister of National Revenue -- M.N.R.), [1967] 1 R.C. de l’Éch. 245, à la page 257). À mon sens, le critère applicable est celui de savoir si le bien est acquis dans l’intention d’être détenu en vue de lui faire produire un revenu (ou de servir à la production d’un revenu), auquel cas on a affaire à une immobilisation. S’il a été acquis dans le but de faire l’objet d’une rotation des stocks, il s’agit d’un bien faisant partie d’un inventaire.
+[Non souligné dans l’original.]
+[18] Dans la décision Rio Tinto Alcan Inc. c. La Reine, 2016 CCI 172, le juge Hogan a observé :
+[86] L’intimée souligne à juste titre que l’appelante a acquis les actions de Pechiney pour les conserver à long terme dans le but d’obtenir un avantage durable. Il est reconnu de part et d’autre que les actions constituent des biens en immobilisation. Comme il a déjà été mentionné, l’intimée fait valoir que les dépenses contestées sont des dépenses en capital parce qu’elles ont été engagées dans le contexte de l’opération Pechiney. L’intimée invoque les décisions Neonex International Ltd. c. Canada [30], Rona Inc. c. La Reine [31] et Firestone c. Canada [32] au soutien de son argument à cet égard.
+[19] Comme l’a fait remarquer le juge Hogan, la décision Rio Tinto portait sur le traitement des dépenses engagées au cours de l’examen si un contribuable devait faire une acquisition d’actions et comment il la faisait. C’est-à-dire qu’il s’agissait d’un cas de caractérisation de dépenses, et non d’une caractérisation de revenus ou de pertes.
+[20] Il peut sembler y avoir certaines ressemblances entre les cas de caractérisation des biens et les cas de déductibilité des dépenses par rapport aux cas de capitalisation, en particulier si la dépense en question se rapporte à l’acquisition d’un bien (comme ce fut le cas dans l’arrêt Johns-Manville, 1985 R.C.S. 46, Rio Tinto and Millford Developments, 1993 D.T.C. 5052 (C.F. 1re inst.), décisions invoquées par l’appelante). Cependant, la jurisprudence sur la caractérisation à des fins fiscales des biens acquis est distincte, claire et simple puisque tous les paliers judiciaires cités ci-dessus l’ont établie :
+Il y a deux types de biens. Les biens figurant dans un inventaire et les biens en immobilisation. Les biens figurant dans un inventaire sont acquis ou produits pour la revente. Tous les biens détenus pour tirer un revenu de l’entreprise autre que l’inventaire sont des immobilisations. La vente ou l’aliénation d’un bien en inventaire donne lieu à un revenu inclus dans le revenu. Le profit ou la perte sur les cessions de biens en inventaire est comptabilisé à titre de revenu. La vente ou la disposition d’un bien qui ne fait pas partie de l’inventaire entraîne un gain en capital ou une perte en capital en vertu des dispositions de la Loi (les biens en immobilisation qui sont amortissables en vertu de la Loi peuvent également entraîner une récupération ou une perte définitive).
+[21] L’appelante n’a avancé aucune exception pertinente ou autre raison de s’écarter de ces règles généralement applicables pour la caractérisation des biens acquis, fabriqués ou détenus dans le cadre de l’entreprise. Par exemple, la Loi énonce des règles dites de changement d’usage, qui peuvent caractériser de nouveau un bien. En l’espèce, l’appelante n’a pas fait valoir dans son avis d’appel ou dans ses conclusions que les acquisitions d’actions étaient des projets comportant un risque à caractère commercial. Cela est conforme à l’ECF.
+[22] Lorsque l’intimée a exposé à la Cour la jurisprudence citée précédemment sur la caractérisation des biens détenus en lien avec une entreprise, l’appelante n’a donné aucune réponse.
+[23] Selon la thèse de l’appelante, simplement exprimée dans son avis d’appel, les actions faisaient partie intégrante de sa stratégie commerciale consistant à conclure des contrats pour tirer un revenu d’entreprise. L’appelante soutient que, puisque son intention au moment de l’acquisition était de tirer un revenu d’entreprise, la perte en cause était une perte d’entreprise. C’est encore plus succinctement exposé dans son mémoire des faits en droit : [traduction] « Le seul but de l’appelante [en acquérant les actions] était de gagner un revenu d’entreprise et, à ce titre, les pertes sur les actions relèvent du compte de revenu ». En toute déférence, on ne réfléchit pas très longtemps à cette formule avant de se rendre compte que tel n’est pas le critère. Les entreprises détiennent presque invariablement des quantités importantes de biens en immobilisation (pensez à l’arbre) pour générer leurs revenus d’entreprise (pensez aux fruits). Il est presque contraire à la distinction correcte entre les deux types de biens de dire que le bien acquis pour être détenu et utilisé pour générer des revenus de son entreprise, ce qui n’inclut pas le commerce de ce bien, n’est pas une immobilisation lorsqu’il est vendu (sauf changement d’utilisation dont la Cour n’est pas saisie en l’espèce), générant un gain ou une perte en capital, mais est un bien de l’entreprise qui, lorsqu’il est vendu, génère un revenu ou une perte de l’entreprise dans laquelle il était détenu.
+III. Conclusion et dispositif
+[24] L’ensemble des éléments de preuve conduit inexorablement à une seule conclusion : les actions aliénées par Procon étaient des immobilisations pour l’application de la Loi, entraînant la perte en capital qui était une perte apparente. La nouvelle cotisation de l’ARC était correcte. Pour ces motifs, le présent appel est rejeté avec dépens en faveur de l’intimée. Si les parties ne parviennent pas à s’entendre sur les dépens dans les 30 jours, elles peuvent déposer chacune des observations écrites d’au plus dix pages (exception faite des pièces jointes).
+Signé à Ottawa, Canada, ce 29e jour de juin 2022.
+« Patrick Boyle »
+Le juge Boyle
+Traduction certifiée conforme
+ce 12e jour de décembre 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022CCI71
+NO DU DOSSIER DE LA COUR :
+2017-4641(IT)G
+2019-2446(IT)G
+INTITULÉ :
+PROCON MINING & TUNNELLING LTD.
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDITION :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 2 mai 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 29 juin 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Patrick Lindsay
+Me Mikael Johansson
+Avocats de l’intimée :
+Me Whitney Dunn
+Me Lalli Deol
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms :
+Me Patrick Lindsay
+Me Mikael Johansson
+Cabinet :
+PwC Cabinet d’avocats S.E.N.C.R.L./s.r.l.
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cette déclaration indique en outre qu’en plus de l’acquisition indirecte par M. Yurkowski des actions de l’émetteur, M. Yurkowski possédait près de six cent mille actions de l’émetteur. La Cour n’a pas non plus été informée des circonstances ou du contexte de cette acquisition. Cela soulève également les doutes de la Cour quant à la crédibilité des intentions déclarées de l’appelante.

@@ -1,0 +1,606 @@
+---
+title: "Waverley Athletic c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27908/index.do"
+last_modified: "2005-06-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 375"
+citation2: ""
+neutral_citation: "2005 CCI 375"
+decision_date: "2005-06-13"
+language: "fr"
+item_id: "27908"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1756
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:50:06.702000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f294429f8f009dc7675260f56c839f4ef5d17e5f0bf7ce3a029f2e2914caa8ac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Waverley Athletic c. M.R.N.
+
+- Citation: 2005 CCI 375
+- Decision date: 2005-06-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1756, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Waverley Athletic c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-13
+Référence neutre
+2005 CCI 375
+Numéro de dossier
+2004-1265(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-1265(EI)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004-1273(EI), 2004‑1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1266(CPP)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004-1273(EI), 2004‑1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1267(EI)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004-1273(EI), 2004‑1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+__________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1268(CPP)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004-1273(EI), 2004‑1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1269(EI)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004-1273(EI), 2004‑1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1270(CPP)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1271(EI), 2004-1272(CPP), 2004-1273(EI), 2004‑1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1271(EI)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1272(CPP), 2004-1273(EI), 2004‑1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1272(CPP)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1273(EI), 2004‑1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+__________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1273(EI)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004‑1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+_________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1274(CPP)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004‑1273(EI), 2004-1275(EI), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+___________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1275(EI)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004‑1273(EI), 2004-1274(CPP), 2004-1276(CPP), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1276(CPP)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004‑1273(EI), 2004-1274(CPP), 2004-1275(EI), 2004-1277(EI), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+__________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1277(EI)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004‑1273(EI), 2004-1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004‑1278(CPP), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1278(CPP)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004‑1273(EI), 2004-1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004‑1277(EI), 2004-1279(EI), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1279(EI)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004‑1273(EI), 2004-1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004‑1277(EI), 2004-1278(CPP), 2004-1280(CPP), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1280(CPP)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004‑1273(EI), 2004-1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004‑1277(EI), 2004-1278(CPP), 2004-1279(EI), 2004-1281(EI) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1281(EI)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004‑1273(EI), 2004-1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004‑1277(EI), 2004-1278(CPP), 2004-1279(EI), 2004-1280(CPP) et 2004‑1282(CPP) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+___________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Dossier : 2004-1282(CPP)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de la Waverley Athletic Association portant les numéros de dossier 2004-1265(EI), 2004-1266(CPP), 2004-1267(EI), 2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP), 2004-1271(EI), 2004-1272(CPP), 2004‑1273(EI), 2004-1274(CPP), 2004-1275(EI), 2004-1276(CPP), 2004‑1277(EI), 2004-1278(CPP), 2004-1279(EI), 2004-1280(CPP) et 2004‑1281(EI) les 12 et 13 avril 2005, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+JUGEMENT
+L’appel est accueilli, et la décision du ministre est modifiée, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Référence : 2005CCI375
+Date : 20050613
+Dossiers : 2004-1265(EI), 2004-1266(CPP),
+2004-1267(EI), 2004-1268(CPP),
+2004-1269(EI), 2004-1270(CPP),
+2004-1271(EI), 2004-1272(CPP),
+2004-1273(EI), 2004-1274(CPP),
+2004-1275(EI), 2004-1276(CPP),
+2004-1277(EI), 2004-1278(CPP),
+2004-1279(EI), 2004-1280(CPP),
+2004-1281(EI), 2004-1282(CPP)
+ENTRE :
+WAVERLEY AMATEUR ATHLETIC ASSOCIATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L’appelante est une œuvre de bienfaisance au sens de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Une partie des fonds dont l’appelante avait besoin pour financer ses activités de bienfaisance provenaient de l’exploitation d’un bingo appelé Bonanza Bingo.
+[3] Le Bonanza Bingo était exploité sept soirs par semaine tout au long de l’année (à l’exception de trois jours fériés par année) dans la salle Settle de Cole Harbour Place, à Cole Harbour (Nouvelle-Écosse).
+[4] L’appelante tenait le Bonanza Bingo à Cole Harbour Place tous les lundis, mercredis et samedis soirs de l’année.
+[5] La Cole Harbour Foundation tenait le Bonanza Bingo à Cole Harbour Place tous les mardis, jeudis et dimanches soirs de l’année.
+[6] La Bel Ayr Hockey Association tenait le Bonanza Bingo à Cole Harbour Place tous les vendredis soirs de l’année.
+[7] Les trois organismes susmentionnés partageaient les profits découlant des activités du Bonanza Bingo qui avaient lieu sept soirs par semaine, c’est-à-dire que l’appelante recevait les trois septièmes des profits, que la Cole Harbour Foundation recevait les trois septièmes des profits et que la Bel Ayr Hockey Association recevait un septième des profits.
+[8] Chaque soir, de 12 à 14 personnes travaillaient pendant le Bonanza Bingo. Parmi ces travailleurs, il y avait le gérant de soir, le meneur de jeu de bingo et des préposés aux services à la clientèle, qui vendaient les cartes de bingo et vérifiaient les cartes remplies par les clients.
+[9] Le gérant de soir supervisait le meneur de jeu de bingo et les préposés au service à la clientèle. Il devait aussi trouver des personnes pour remplacer les travailleurs réguliers, au besoin.
+[10] Toutes les personnes travaillant au bingo avaient un calendrier de travail prédéterminé.
+[11] Les travailleurs étaient censés porter un uniforme (un chandail ou une chemise) portant le nom « Bonanza Bingo ». Toutefois, la preuve indique que certains travailleurs faisaient souvent fi de cette exigence.
+[12] L’appelante payait aux travailleurs un montant prédéterminé en fonction de leurs tâches, c’est-à-dire que le gérant de soir et le meneur de jeu de bingo recevaient chacun 65 $ par soir, et les préposés au service à la clientèle recevaient 25 $ par soir.
+[13] À la suite d’une conversation qui a eu lieu en 1995 entre M. Garner, secrétaire de l’appelante, et un fonctionnaire de Revenu Canada (aujourd’hui l’Agence du revenu du Canada (« ARC »)), l’appelante a adopté la position selon laquelle les travailleurs n’étaient pas des employés et qu’il n’y avait donc pas d’obligation de déduire et de retenir des montants en vertu de la Loi sur l’assurance-chômage (maintenant connue sous le nom de Loi sur l’assurance-emploi) et du Régime de pensions du Canada.
+[14] Le 17 décembre 2003, le ministre du Revenu national (le « ministre ») a rendu une décision sur la question de savoir si les travailleurs exerçaient un emploi assurable et ouvrant droit à pension.
+[15] La décision du ministre se rapportant aux travailleurs a été envoyée à l’appelante et contenait le passage suivant :
+[TRADUCTION]
+Il a été décidé que ces emplois étaient assurables et ouvraient droit à pension. Le ministre du Revenu national a examiné toutes les modalités de l’emploi et est convaincu que les travailleurs exerçaient un emploi aux termes d’un contrat de louage de services valide.
+[16] L’appelante a déposé des avis d’appel pour son propre compte et pour le compte de chaque travailleur. La période visée (la « période ») va du 1er janvier 2000 au 31 décembre 2001.
+B. POINTS EN LITIGE
+[17] 1. Pendant la période, les travailleurs exerçaient-ils un emploi assurable pour l’application de la Loi sur l’assurance‑emploi?
+2. Pendant la période, les travailleurs exerçaient-ils un emploi ouvrant droit à pension pour l’application du Régime de pensions du Canada?
+C. ANALYSE
+[18] À la conclusion de la présentation de la preuve, l’avocat de l’intimé a fait savoir que le ministre était d’avis qu’il avait été déterminé que les travailleurs étaient des employés de l’appelante pour l’application de la Loi sur l’assurance-emploi et du Régime de pensions du Canada sept soirs par semaine pendant la période. Selon les éléments de preuve présentés à la Cour, l’avocat de l’intimé est convaincu que s’il est déterminé que les travailleurs étaient des employés de l’appelante, ils ne l’étaient que trois soirs par semaine plutôt que sept, comme l’avait établi le ministre dans la cotisation.
+[19] Les appels seront accueillis, et les nouvelles cotisations seront modifiées de sorte que les travailleurs ne soient pas considérés comme étant des employés de l’appelante pour l’application de la Loi sur l’assurance-emploi et du Régime de pensions du Canada pendant les trois soirs de la semaine où le Bonanza Bingo était tenu par la Cole Harbour Foundation et pendant le soir de la semaine où le Bonanza Bingo était tenu par la Bel Ayr Hockey Association.
+[20] Je dois maintenant trancher la question de savoir si les travailleurs étaient des « employés » de l’appelante pour l’application de la Loi sur l’assurance-emploi et du Régime de pensions du Canada pendant les soirs où le Bonanza Bingo était tenu par l’appelante.
+[21] Pour trancher la question de savoir si les travailleurs étaient des employés de l’appelante, j’ai consulté un certain nombre de décisions judiciaires.
+[22] Dans la décision Precision Gutters Ltd. c. Canada (Ministre du Revenu national), [2002] A.C.F. no 771, M. le juge Sexton, parlant au nom de la Cour d’appel fédérale, a dit ce qui suit aux paragraphes 15 à 19 :
+15. [...] Les quatre éléments du critère unique à quatre volets sont (1) le degré de contrôle ou l'absence de contrôle de la part de l'employeur; (2) la propriété des instruments de travail; (3) la possibilité de profit; (4) le risque de perte (voir Mirichandani c. Canada (ministre du Revenu national) [2001] F.C.J. 269 et Wiebe Door Services, précité, à la page 5028).
+16. Cette question a été examinée plus récemment par la Cour suprême du Canada dans l'arrêt Sagaz Industries Canada c. 67112 Ontario Limited. Dans cette cause, M. le juge Major, parlant au nom de la Cour, a examiné les divers critères servant à déterminer si une personne était un employé ou un entrepreneur indépendant. Celui-ci était d'accord avec la déclaration du juge MacGuigan sur le critère unique à quatre volets établi dans l'arrêt Wiebe Door, précité. Le juge Major a affirmé :
+47 Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Invsetigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+17. Le passage sur lequel s'est fondé le juge Major dans l'arrêt Market Investigations, Ltd. v. Minister of Social Security, 9 [1968] 3 All E.R. 732 est rédigé comme suit :
+[TRADUCTION]
+Les remarques de LORD WRIGHT, du lord juge DENNING et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s'est engagée à accomplir ces tâches les accomplit-elle en tant que personne dans les affaires à son compte? » Si la réponse à cette question est affirmative, alors il s'agit d'un contrat d'entreprise. Si la réponse est négative, alors il s'agit d'un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n'a été dressée, peut-être n'est-il pas possible de la faire; on ne peut non plus établir de règles rigides quant à l'importance relative qu'il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu'on peut dire, c'est qu'il faudra toujours tenir compte du contrôle même s'il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s'il engage lui-même ses aides, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion, et jusqu'à quel point il peut tirer profit d'une gestion saine dans l'accomplissement de sa tâche.
+18. Donc, le juge Major a indiqué que la question centrale à trancher dans des causes semblables consistait à savoir si la personne qui avait été embauchée pour accomplir ces tâches les accomplissait en tant que personne dans les affaires à son compte ou en tant qu'employé. Afin de statuer, les quatre critères énumérés dans l'arrêt Wiebe Door représentent des facteurs à considérer.
+[23] J’examinerai maintenant examiner les quatre critères mentionnés dans les décisions ci-dessus.
+Contrôle
+[24] M. Bob MacDonald était président de l’appelante pendant la période pertinente. Il connaissait beaucoup de succès et était très bien vu à Halifax en tant que concessionnaire d’automobiles. Il a témoigné qu’il était présent à chaque Bonanza Bingo tenu par l’appelante et qu’il était également présent aux Bonanza Bingos tenus par la Cole Harbour Foundation et par la Bel Ayr Hockey Association. M. MacDonald a dit qu’il arrivait à Cole Harbour Place avant le début du bingo, soit vers 18 h, et qu’il partait vers 20 h ou 21 h. Il a dit qu’il voulait veiller à ce que tout se déroule bien. Il a aussi dit qu’il était sur place pour parler aux clients et pour prendre des décisions sur les cadeaux, les prix et les autres façons de promouvoir le bingo à l’avenir. M. MacDonald a affirmé que c’était le gérant de soir qui supervisait les bingos en soirée.
+[25] Compte tenu des éléments de preuve qui m’ont été présentés, j’ai conclu que, pour les bingos tenus par l’appelante, c’était le gérant de soir (un employé de l’appelante) ou bien à la fois le gérant de soir et M. MacDonald (le président de l’appelante) qui contrôlaient le bingo.
+Propriété des instruments de travail
+[26] Le principal outil ou instrument de travail dans ce cas-ci était la machine qu’utilisait le meneur de jeu de bingo pour annoncer les numéros. La preuve montre que cet instrument était fourni à l’appelante par le distributeur qui fournissait les cartes de bingo sans que l’appelante n’ait à payer de montant supplémentaire. Même si la preuve indique que la machine était fournie par le distributeur des cartes, la machine était dans les faits fournie à l’appelante et exploitée par l’appelante. Dans cette situation, je conclus que c’était l’appelante qui fournissait l’instrument utilisé dans le cadre du bingo pendant les trois soirs par semaine où c’était elle qui tenait le bingo.
+Possibilité de profit et risque de perte
+[27] La preuve indique que chaque travailleur recevait comme rémunération un montant prédéterminé pour chaque soirée de travail. Bien qu’il ait été indiqué que les travailleurs recevaient parfois une petite prime de 10 $ lorsqu’ils faisaient un travail exceptionnel, les travailleurs n’étaient pas tenus de prendre à leur charge quelque partie des pertes éventuelles. Je suis convaincu que dans cette situation-ci, les travailleurs n’avaient ni possibilité de profit ni risque de perte.
+Conclusion
+[28] Après avoir analysé les critères susmentionnés, je conclus que tous les travailleurs étaient des employés de l’appelante pour l’application de la Loi sur l’assurance-emploi et du Régime de pensions du Canada les trois soirs de la semaine où le Bonanza Bingo était tenu par l’appelante.
+[29] Les appels sont accueillis pour qu’il soit tenu compte du fait que les travailleurs n’étaient pas des employés de l’appelante les soirs où le Bonanza Bingo était tenu par la Cole Harbour Foundation ou par la Bel Ayr Hockey Association.
+Signé à Vancouver (Colombie-Britannique) ce 13e jour de juin 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE :
+2005CCI375
+NOS DE DOSSIER :
+2004-1265(EI), 2004-1266(CPP), 2004-1267(EI),
+2004-1268(CPP), 2004-1269(EI), 2004-1270(CPP),
+2004-1271(EI), 2004-1272(CPP), 2004-1273(EI),
+2004-1274(CPP), 2004-1275(EI), 2004-1276(CPP),
+2004-1277(EI), 2004-1278(CPP), 2004-1279(EI),
+2004-1280(CPP), 2004-1281(EI), 2004-1282(CPP)
+INTITULÉ DE LA CAUSE :
+Waverley Amateur Athletic Association et le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATES DE L’AUDIENCE :
+Les 12 et 13 avril 2005
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 13 juin 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimé :
+Me Martin Hickey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Bruce S. Russell, c.r.
+Cabinet :
+McInnes Cooper
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

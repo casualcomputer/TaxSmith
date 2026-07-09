@@ -1,0 +1,297 @@
+---
+title: "Guillemette c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/100414/index.do"
+last_modified: "2015-01-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 6"
+citation2: ""
+neutral_citation: "2015 CCI 6"
+decision_date: "2015-01-12"
+language: "fr"
+item_id: "100414"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2789
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:44:40.379000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df0af4c30e4077b42acc1193a29103b3c97e446061c456d3f612e786c88e637b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guillemette c. M.R.N.
+
+- Citation: 2015 CCI 6
+- Decision date: 2015-01-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2789, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guillemette c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-01-12
+Référence neutre
+2015 CCI 6
+Numéro de dossier
+2013-1396(EI), 2013-1412(EI), 2013-1413(EI), 2013-1414(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2013-1396(EI)
+ENTRE :
+Normand Guillemette,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Plomberie Yves Guillemette Inc.,
+intervenante.
+Appel entendu sur preuve commune avec les appels de Sébastien Guillemette (2013‑1412(EI)), Jonathan Gélinas (2013‑1413(EI)) et Jennifer Chabot (2013‑1414(EI)),
+le 19 novembre 2014, à Shawinigan (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelant :
+Me Gilbert Nadon
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+Avocat de l'intervenante:
+Me Gilbert Nadon
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (LAE) est accueilli et la décision du ministre du Revenu national datée du 21 février 2013 pour les périodes du 7 avril 2008 au 20 mars 2009, du 13 avril 2009 au 12 février 2010, du 1er mars 2010 au 4 mars 2011 et du 5 mars 2011 au 30 mars 2012 est modifiée en tenant pour acquis que l’appelant n’occupait pas un emploi exclu des emplois assurables en vertu des alinéas 5(2)i) et 5(3)b) de la LAE.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2015.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2013-1412(EI)
+ENTRE :
+sébastien Guillemette,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Plomberie Yves Guillemette Inc.,
+intervenante.
+Appel entendu sur preuve commune avec les appels de Normand Guillemette (2013‑1396(EI)), Jonathan Gélinas (2013‑1413(EI)) et Jennifer Chabot (2013‑1414(EI)),
+le 19 novembre 2014, à Shawinigan (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelant :
+Me Gilbert Nadon
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+Avocat de l'intervenante:
+Me Gilbert Nadon
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (LAE) est accueilli et la décision du ministre du Revenu national datée du 21 février 2013 pour les périodes du 1er février 2010 au 17 décembre 2010 et du 24 janvier 2011 au 23 décembre 2011 est modifiée en tenant pour acquis que l’appelant n’occupait pas un emploi exclu des emplois assurables en vertu des alinéas 5(2)i) et 5(3)b) de la LAE.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2015.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2013-1413(EI)
+ENTRE :
+Jonathan gélinas,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Plomberie Yves Guillemette Inc.,
+intervenante.
+Appel entendu sur preuve commune avec les appels de Normand Guillemette (2013‑1396(EI)), Sébastien Guillemette (2013‑1412(EI)) et Jennifer Chabot (2013‑1414(EI)),
+le 19 novembre 2014, à Shawinigan (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelant :
+Me Gilbert Nadon
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+Avocat de l'intervenante:
+Me Gilbert Nadon
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (LAE) est accueilli et la décision du ministre du Revenu national datée du 21 février 2013 pour la période du 29 novembre 2010 au 22 juillet 2011 est modifiée en tenant pour acquis que l’appelant n’occupait pas un emploi exclu des emplois assurables en vertu des alinéas 5(2)i) et 5(3)b) de la LAE.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2015.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2013-1414(EI)
+ENTRE :
+Jennifer chabot,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Plomberie Yves Guillemette Inc.,
+intervenante.
+Appel entendu sur preuve commune avec les appels de Normand Guillemette (2013‑1396(EI)), Sébastien Guillemette (2013‑1412(EI)) et Jonathan Gélinas (2013‑1413(EI)),
+le 19 novembre 2014, à Shawinigan (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l'appelante :
+Me Gilbert Nadon
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+Avocat de l'intervenante:
+Me Gilbert Nadon
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi (LAE) est accueilli et la décision du ministre du Revenu national datée du 21 février 2013 pour la période du 27 décembre 2010 au 22 juillet 2011 est modifiée en tenant pour acquis que l’appelante n’occupait pas un emploi exclu des emplois assurables en vertu des alinéas 5(2)i) et 5(3)b) de la LAE.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2015.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2015 CCI 6
+Date : 20150112
+Dossier : 2013-1396(EI)
+ENTRE :
+Normand Guillemette,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Plomberie Yves Guillemette Inc.,
+intervenante,
+et
+Dossier : 2013-1412(EI)
+ENTRE :
+Sébastien Guillemette,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Plomberie Yves Guillemette Inc.,
+intervenante,
+et
+Dossier : 2013-1413(EI)
+ENTRE :
+Jonathan gélinas,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Plomberie Yves Guillemette Inc.,
+intervenante,
+et
+Dossier : 2013-1414(EI)
+ENTRE :
+Jennifer Chabot,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Plomberie Yves Guillemette Inc.,
+intervenante.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Ces appels ont tous été entendus sur preuve commune. Il s’agit d’appels de décisions du ministre du Revenu national (ministre) par lesquelles il fut décidé que les quatre appelants n’occupaient pas un emploi assurable lorsqu’ils étaient au service de la société Plomberie Guillemette inc. (payeur) au cours des années 2008 à 2012 (les périodes précises en cause diffèrent pour chacun des appelants au cours de ces années). Le seul et unique motif invoqué par le ministre est que leur emploi était exclu des emplois assurables aux termes des alinéas 5(2)i) et 5(3)b) de la Loi sur l’assurance-emploi. En effet, le ministre a considéré que les quatre appelants étaient liés au payeur aux termes de l’article 251 de la Loi de l’impôt sur le revenu (LIR) et qu’il était raisonnable de conclure que les appelants et le payeur n’auraient pas conclu entre eux un contrat de travail à peu près semblable au cours des périodes en litige s’ils n’avaient pas eu entre eux un lien de dépendance (en se basant sur, entre autres, le fait qu’ils rendaient des services au payeur en période de mise à pied et qu’ils étaient disponibles « sur appel » en tout temps sur le téléphone portable fourni par le payeur). Mis à part la question du lien de dépendance, le ministre n’a pas remis en question l’existence d’un véritable contrat de travail entre les appelants et le payeur.
+[2] Le payeur est constitué en société depuis 1982. Jusqu’au 9 octobre 2009, il n’y avait que deux actionnaires, soit Yves Guillemette (74 %) et son frère Normand Guillemette (26 %).
+[3] Le 9 octobre 2009, Normand Guillemette a cédé ses actions à Sébastien Guillemette, le fils d’Yves, et à un ami de Sébastien, Jonathan Gélinas. À compter de cette date, les actions se répartissaient donc comme suit : Yves Guillemette (74 %), Sébastien Guillemette (14 %), Jonathan Gélinas (12 %).
+[4] Les activités commerciales du payeur sont principalement l’installation et l’entretien de systèmes de chauffage. Le payeur rend aussi à l’occasion quelques services « sur appel » ainsi que des services relatifs aux systèmes de climatisation.
+[5] Monsieur Yves Guillemette, l’actionnaire majoritaire, est compagnon plombier et détient une licence d’entrepreneur. Il emploie entre cinq et dix employés par année, selon la quantité de travail. Il a expliqué le caractère cyclique de l’entreprise, selon les contrats et les appels. L’installation des systèmes de chauffage se fait surtout au cours de l’automne et le service principalement en hiver. Le chiffre d’affaires démontre que les périodes occupées ne sont pas toujours les mêmes. En 2008, la période la moins occupée a été durant l’été (juillet, août et septembre); en 2009, c’était l’hiver (janvier, février et mars), en 2010, l’été (juillet, août et septembre) et en 2011, le printemps (avril, mai et juin) (pièce I-1).
+[6] Yves Guillemette a expliqué que son entreprise offre principalement des services non régis par la Commission de la construction du Québec (CCQ). Les services régis par la CCQ ont trait, à ce que je comprends de son témoignage, aux constructions neuves et aux gros chantiers, ce que le payeur ne fait pas. Pour le genre de contrats que le payeur acceptait, il pouvait engager des travailleurs à moindre coût (puisqu’un employé régi par la CCQ pouvait coûter jusqu’à 30 $ l’heure), et ce, même si ces derniers avaient leur carte de compétence leur donnant droit au tarif de la CCQ.
+[7] Au cours des périodes tranquilles, Yves Guillemette explique qu’il faisait des mises à pied sans nécessairement garder les plus anciens. Il a dit vouloir partager le temps de travail disponible entre le plus grand nombre d’employés afin de les garder en cas d’obtention de travail sur des gros chantiers.
+[8] De plus, même en période de mise à pied, ses travailleurs passaient régulièrement à l’entreprise; ils pouvaient rendre quelques services (comme aller chercher des pièces ou signer pour la réception de pièces) et ils gardaient le téléphone portable fourni par le payeur. À titre d’exemple, il a mentionné le nom d’un travailleur non lié au payeur, Dave Buisson, un compagnon plombier qui a travaillé quelques années pour le payeur. Dave Buisson n’était toutefois pas présent en Cour. Seul son relevé de paie pour ce qui semble être l’année 2006 a été déposé en preuve et l’on y voit qu’il ne travaillait pas systématiquement toutes les semaines du mois de janvier au mois d’août (pièce A-1).
+[9] Un autre travailleur, Simon Julien, est toutefois venu témoigner. Il aurait été engagé comme apprenti plombier ou comme commis d’entrepôt. Il a mentionné qu’il avait d’abord travaillé six semaines en février et mars 2008 pour le payeur et qu’il n’avait pas gardé le téléphone portable après son départ. Il a été réembauché à la fin août 2010, a travaillé jusqu’au début février 2011, et a repris à la mi-juillet 2011 pour rester jusqu’à la fin du mois de décembre 2011 (selon l’information colligée par un agent de l’Agence du revenu du Canada (ARC), pièces I-1, I-10 et I-11). Monsieur Julien a dit qu’à partir de 2010 il était toujours en possession de son téléphone portable, même au cours de la période où il ne travaillait pas, et qu’il pouvait rendre quelques services à l’occasion sans être payé.
+[10] Monsieur Yves Guillemette remplissait les feuilles de temps pour les employés qui travaillaient au bureau. On s’en servait pour faire les paies et on les détruisait ensuite. Les travailleurs « sur appel » remplissaient des bons de travail, qu’on détruisait une fois la facturation faite aux clients.
+[11] Je vais maintenant aborder le cas de chaque appelant.
+Normand Guillemette [12] Ce dernier aurait été payé comme un employé régi par la CCQ pour lui permettre d’obtenir un nombre suffisant d’heures (35 000 heures) pour avoir droit à sa pension. Il travaille depuis 1973 dans le domaine de la plomberie, mais n’est compagnon plombier que depuis trois ans. En 2010 et en 2011, son salaire était régi par la CCQ (livre des salaires, pièces I-10 et I-11). Il n’acceptait pas généralement de travailler moins de 40 heures par semaine. On peut voir aussi qu’il recevait de l’assurance-emploi au cours des semaines où il ne travaillait pas (pièce I-4). Il avait toutefois un téléphone portable fourni à l’année par le payeur et rendait quelques services pendant ses périodes sans emploi.
+[13] Lors de l’enquête de l’ARC, il avait mentionné à l’enquêteur, madame Danielle Bellefeuille, qu’il était à la semi-retraite. Elle a réalisé, grâce aux livres de salaires, qu’il travaillait soit des semaines de 40 heures, soit pas du tout.
+[14] Elle a également dit avoir remarqué, en faisant son enquête, que, pendant ses périodes sans travail, il signait beaucoup de factures pour le payeur et faisait et recevait beaucoup d’appels. Toutefois, si l’on regarde la compilation des détails à la pièce I-1, on voit qu’il ne signait que très peu de factures, et que les appels variaient en nombre d’une semaine à l’autre. Pour madame Bellefeuille, c’était excessif pour un travailleur recevant des prestations d’assurance-emploi.
+[15] Madame Bellefeuille a également mentionné qu’il recevait des relevés d’emploi régulièrement. Dès que ses prestations se terminaient, il refaisait une demande d’assurance-emploi.
+Sébastien Guillemette [16] Il suit son cours pour devenir plombier en 1997 et obtient toutes ses heures pour devenir compagnon plombier. Il travaille à ce titre jusqu’en 2009, année où il quitte pour un congé parental. Durant cette période, il n’a pas conservé le téléphone portable du payeur. Il revient en février 2010, mais ne travaille plus comme plombier et fait son apprentissage en administration de l’entreprise pour reprendre à terme l’entreprise de son père. Son salaire diminue.
+[17] Madame Bellefeuille a remarqué qu’il travaillait en alternance avec Jonathan Gélinas et que, lors de ses périodes de mise à pied, Sébastien faisait ou recevait beaucoup d’appels avec le téléphone portable du payeur. Il est à noter que l’emploi de Sébastien a été considéré comme assurable en 2009 (pièce A-5).
+Jonathan Gélinas [18] Jonathan a suivi sa formation comme apprenti frigoriste et a connu Sébastien en 1997. Il n’a aucun lien de parenté avec les Guillemette.
+[19] Il a commencé à travailler pour le payeur en 2008 sous la supervision d’Yves Guillemette. Il allait avec lui sur les chantiers et apprenait à faire des soumissions et de la facturation.
+[20] Il a également mentionné qu’il faisait aussi un peu de recherche et développement. Il aurait travaillé à temps partiel pendant de longues périodes, suite à une dépression en 2007, et il est sous médication depuis ce temps. En commençant chez le payeur, il touchait un salaire peu élevé, soit 8,50 $ l’heure. Son salaire a augmenté de façon importante pour atteindre 18 $ l’heure en 2011. Lui aussi rendait des services occasionnellement au payeur pendant les périodes de mise à pied, puisque, dit-il, il habitait tout près. Il gardait toujours le téléphone portable.
+[21] Il était coactionnaire d’une autre société avec Sébastien Guillemette et la conjointe de ce dernier de l’époque, Jennifer Chabot. Ils auraient fait un prêt de 55 000 $ au payeur sans aucune modalité de remboursement ni intérêt. Ce prêt ne serait toujours pas remboursé. C’est un chèque de 20 000 $ daté du 13 juillet 2010 (pièce I-13) qui a toutefois été remis à madame Bellefeuille et déposé en preuve.
+[22] Selon cette dernière, lorsque Jonathan recevait l’assurance-emploi, il déclarait quelques heures de travail pour le payeur, mais il travaillait dans les faits toute la journée. Ceci n’a pas été corroboré par Jonathan. Son emploi avait toutefois été considéré comme assurable en 2009 (pièce A-6).
+Jennifer Chabot [23] Elle était la conjointe de Sébastien jusqu’en juillet 2011, date de sa dernière mise à pied. Elle était secrétaire et effectuait des tâches simples de bureau.
+[24] Selon madame Bellefeuille, elle travaillait tant pour le payeur que pour la ville de Trois-Rivières. Elle accumulait généralement plus d’heures que le nombre minimal requis pour l’assurance-emploi. Toutefois, une fois qu’elle recevait des prestations, elle les épuisait avant de retourner travailler.
+[25] Madame Bellefeuille a quand même demandé que le dossier de madame Chabot soit renvoyé à la division de l’assurabilité, car elle a cru remarquer que ses périodes de travail ne correspondaient pas au cycle des activités de l’entreprise. La seule période en litige est celle du 27 décembre 2010 au 22 juillet 2011. Avant cela, son emploi a toujours été considéré comme assurable.
+Décision du ministre [26] Madame Nicole Guy, agente des appels, a expliqué les raisons qui l’ont incitée à considérer l’emploi des quatre appelants comme non assurable.
+[27] Elle a remarqué, à la lecture de la pièce I-1, qu’un des employés, Vincent Chabot, n’avait pratiquement jamais été mis à pied. Elle a remarqué que les actionnaires se mettaient à pied avant de mettre à pied d’autres travailleurs, ce qu’elle ne trouvait pas normal pour un propriétaire d’entreprise. Elle a noté qu’ils rendaient des services pendant leur mise à pied.
+[28] Normand Guillemette a reçu un salaire régi par la CCQ, donc beaucoup plus élevé, afin de le rendre admissible aux prestations de retraite liées à la CCQ. Selon madame Guy, c’était son lien de dépendance qui permettait cela.
+[29] La durée des emplois n’était pas en rapport, selon elle, avec le cycle économique du payeur. Selon elle, Normand décidait quand il travaillait. Jonathan et Sébastien alternaient leurs périodes de travail.
+[30] Elle a conclu qu’Yves Guillemette gérait les mises à pied selon une méthode qui ne correspondait pas nécessairement aux besoins économiques de l’entreprise.
+Analyse [31] Dans le cas de Normand Guillemette, le ministre a considéré que ce dernier était rémunéré différemment des employés non liés au payeur. Le ministre soutient, entre autres, que, lorsque Normand travaillait, il était rémunéré pour des semaines de 40 heures alors que les autres pouvaient recevoir une rémunération pour un moindre nombre d’heures. Je note à cet égard que d’autres employés pouvaient travailler certaines semaines huit heures, mais ont également travaillé plusieurs semaines de 40 heures et, au total, travaillaient un nombre d’heures plus élevé que Normand Guillemette dans l’année.
+[32] De plus, le ministre a considéré que seul Normand Guillemette était rémunéré au taux horaire prévu par le décret de la CCQ. J’ai épluché les relevés de paie, déposés comme preuve sous les cotes I-10 et I-11, pour les années 2010 et 2011, et la lecture de ces documents (qui indiquent un sigle dans la case intitulée syndicat, ou le mot « construction » à côté du tarif horaire, ou l’expression « hors construction » pour expliquer un tarif moindre dans certaines semaines) me porte à croire que d’autres employés, non liés, étaient payés selon le taux de la CCQ (selon leur niveau d’expérience).
+[33] Un autre argument soulevé par l’intimé est que Normand Guillemette travaillait parfois pour le payeur sans recevoir de rémunération. Selon les témoignages d’Yves Guillemette et de Simon Julien, d’autres employés avaient également en leur possession un téléphone portable et pouvaient rendre de menus services en dehors des périodes de travail.
+[34] Le ministre a également soutenu que Normand ne remplissait pas de feuilles de temps. Ceci a été nié en preuve. Yves Guillemette a témoigné qu’il remplissait lui-même les feuilles de temps pour tous les employés de bureau et que ceux qui travaillaient en dehors du bureau remplissaient des bons de travail dont on se servait pour facturer les services aux clients. Ceci n’a pas été contredit en contre-interrogatoire.
+[35] Ces documents étaient détruits après que les heures eurent été compilées pour faire les paies des employés et les factures pour les clients.
+[36] Rien dans la preuve n’indique que seuls les employés non liés remplissaient les feuilles de temps ou les bons de travail.
+[37] Le ministre a également considéré que Normand Guillemette était mis à pied plus fréquemment et pour des durées plus longues que les autres employés. Je remarque à la lecture de la pièce I-9 (qui met en tableau les périodes de travail et de chômage de chaque employé) qu’en 2008 il n’y a que deux employés qui ont travaillé plus de semaines que Normand Guillemette; en 2009 il a travaillé 27 semaines au total, et les six autres employés non liés, entre 2 et 31 semaines. En 2010, Normand Guillemette a travaillé 26 semaines, alors que Louis Labbé a travaillé 22 semaines et trois autres employés non liés ont travaillé entre 38 et 41 semaines. En 2011, Normand Guillemette a travaillé 25 semaines et sept autres employés, non liés, ont travaillé entre 5 et 35 semaines.
+[38] Pour Sébastien Guillemette, le ministre a retenu que ce dernier travaillait parfois pour le payeur sans rémunération et qu’il était payé pour 80 % ou 90 % des heures travaillées. De plus, le ministre a mentionné qu’il ne remplissait pas de feuilles de temps et qu’il travaillait en alternance avec d’autres travailleurs liés. Madame Guy a mentionné une alternance avec Jonathan Gélinas.
+[39] Sébastien, dans son témoignage, a dit qu’il pouvait rendre quelques services à l’entreprise en dehors de ses périodes de travail. Cette situation ne semble pas exclusive à Sébastien.
+[40] Madame Bellefeuille a répertorié un nombre important d’appels sur le téléphone portable du payeur faits par Sébastien alors qu’il était sans emploi en 2010 et en 2011 (pièce I-12). Je note toutefois que le même exercice n’a pas été fait pour les autres travailleurs, non liés, à qui un téléphone portable était également fourni par le payeur. Il est donc difficile de faire une comparaison.
+[41] De plus, on ne sait pas si ces appels ont tous été faits pour le payeur, puisque chaque travailleur pouvait se servir de son téléphone portable à des fins personnelles également.
+[42] Quant au travail en alternance avec d’autres travailleurs, particulièrement avec Jonathan Gélinas, il ressort du tableau déposé sous la cote I-9, du relevé de paie de Sébastien (pièce I-11) et des témoignages de Sébastien et de Jonathan que Sébastien est revenu au travail après son congé parental en février 2010. Jonathan était en arrêt de travail en janvier 2010, a travaillé deux semaines à temps plein en février, et a recommencé à travailler à temps partiel au mois de mars 2010. Jonathan a expliqué qu’il souffrait d’épuisement professionnel et de dépression à ce moment, ce qui ne lui permettait pas de travailler à temps plein. Ceci semble corroboré par son dossier médical, selon les renseignements obtenus par un médecin du centre de santé de la MRC de Maskinongé (pièce A-9).
+[43] En 2011, Sébastien a recommencé à travailler à temps plein en juillet, et avait travaillé l’équivalent de trois semaines et demie de janvier à juillet. Jonathan a travaillé quatre semaines en janvier (dont une en même temps que Sébastien), trois semaines en février, deux semaines en mars, quatre semaines en avril (dont une en même temps que Sébastien), à temps plein aux mois de mai, juin et juillet (alors que Sébastien a travaillé 64 heures en juin et à temps plein en juillet). Jonathan a travaillé à temps partiel en août et en septembre (un total de 44 heures), alors que Sébastien a travaillé un total de 120 heures et de 80 heures en août et en septembre respectivement. En octobre, en novembre et en décembre, les deux ont travaillé à temps plein. Dans les circonstances, il me semble difficile de conclure, comme le prétend le ministre, que les deux travaillaient nécessairement en alternance.
+[44] Pour ce qui est de Jonathan Gélinas, le ministre a souligné également le fait que sa rémunération était passée de 12 $ à 18 $ de l’heure en 2010. Je note que le salaire de Colette Guillemette, commis de bureau, est passé de 12 $ à 17 $ l’heure en 2010, et celui de Simon Julien, commis d’entrepôt, de 9,50 $ à 12 $ l’heure.
+[45] En 2011, le tarif horaire de Jonathan est demeuré à 18 $, alors que celui de Colette Guillemette est monté à 20 $. Toutefois, le salaire de Jennifer Chabot, commis de bureau, est passé de 11 $ l’heure en 2010 à 12 $ l’heure en 2011. Le salaire de l’adjointe exécutive, Jennifer Gélinas Beaulieu, engagée à temps plein pour les quatre derniers mois de 2011, est passé de 10 $ l’heure à 12 $ l’heure; celui de Dany Ross est passé de 12 $ l’heure à 13 $ l’heure au cours de 2011, et Simon Julien, commis d’entrepôt, était payé 12 $ l’heure en 2011.
+[46] Quant à Jennifer Chabot, le ministre a considéré qu’elle était mise à pied pendant les périodes d’activités importantes du payeur et que son emploi n’était pas essentiel. Il ressort de la preuve que la cessation d’emploi de Jennifer correspond au moment où elle s’est séparée de Sébastien.
+[47] Le ministre a évoqué également le fait qu’elle était revenue travailler le 27 décembre 2010, période dans laquelle les activités du payeur étaient moins importantes. Je note toutefois qu’il y avait plusieurs employés qui travaillaient pendant la même période que Jennifer (pièce I-9) et que sa cessation d’emploi peut fort bien s’expliquer, compte tenu des circonstances familiales.
+[48] Quant au lien de dépendance factuel liant Jonathan Gélinas au payeur, Jonathan a mentionné qu’il ne gérait pas l’entreprise du payeur, ce qui revenait à Yves Guillemette. Il a reçu une formation de ce dernier pour faire son travail. Son expertise était dans le domaine de la réfrigération, ce qui ne constituait qu’une infime partie de l’entreprise du payeur. Jonathan ne détenait que 12% des actions du payeur.
+[49] À mon avis, il est difficile de dire que Jonathan avait un lien de dépendance factuel avec le payeur. La preuve n’indique pas qu’il prenait part aux décisions du payeur. Le fait qu’il lui ait prêté de l’argent ne fait pas en sorte non plus qu’il soit devenu lié au payeur, en ce que cela ne lui a pas donné plus d’actions dans l’entreprise du payeur. Par ailleurs, je ne suis aucunement convaincue qu’il agissait de concert avec Yves Guillemette, lequel était l’âme dirigeante du payeur, ou qu’il exerçait une influence quelconque sur lui. (voir Parill c. Canada (M.R.N.), [1996] A.C.I. no 1680 (QL)). Je considère donc que, même si son salaire était plus élevé que celui des autres commis, ce n’est ni au ministre ni à la Cour de s’immiscer dans les décisions d’affaires du payeur. Puisque je conclus à l’absence de lien de dépendance, je considère que l’emploi de Jonathan était assurable (ce qui, en l’absence du lien de dépendance, n’était pas contesté par le ministre).
+[50] Quant aux trois autres appelants qui sont des personnes liées au payeur en vertu de l’article 251 de la LIR, le rôle de cette Cour est de vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable (Légaré c. Canada (ministre du Revenu national), 1999 CarswellNat 4187, [1999] A.C.F. no 878 (QL) (CAF), au par. 4).
+[51] J’estime en l’espèce que la presque majorité des faits supposés ou retenus par le ministre n’étaient pas tout à fait exacts et n’ont pas été appréciés correctement. Il est vrai que l’on peut supposer qu’Yves Guillemette, le patron de l’entreprise, semblait gérer l’emploi de ses travailleurs en faisant une certaine rotation. Il a expliqué qu’il devait agir ainsi pour pouvoir s’assurer de leur présence en cas de besoin lors de plus gros contrats. Ceci est une décision d’affaires qui se justifie. Je constate par ailleurs que la preuve (entre autres, le chiffre d’affaires trimestriel) révèle que l’entreprise ne fonctionnait pas nécessairement toujours selon le même cycle.
+[52] Je retiens de la preuve que tous les employés, en général, étaient traités de la même façon et qu’Yves Guillemette ne favorisait pas nécessairement un par rapport à un autre. Pour ce qui est de Normand Guillemette, il est vrai qu’il a reconnu qu’il avait maintenu son salaire au taux de la CCQ pour qu’il puisse arriver à bénéficier du fonds de pension. Toutefois, Normand n’était pas le seul à recevoir un taux horaire selon le décret de la CCQ, et cela étant, on ne peut prétendre qu’il bénéficiait d’un traitement préférentiel. Quant à l’horaire de travail, même s’il ne travaillait que des semaines de 40 heures, son horaire de travail équivalait à celui d’autres travailleurs.
+[53] Quant à Sébastien Guillemette et à Jennifer Chabot, j’estime que les explications et la preuve documentaire relatées plus haut dans mes motifs démontrent également que les faits sous-tendant les prémisses du ministre n’ont pas été appréciés correctement.
+[54] Pour conclure, si l’intimé était d’avis que le payeur tentait d’exploiter le système d’assurance-emploi en procédant à une rotation de ses employés, il aurait fallu qu’il conteste l’existence réelle d’un contrat d’emploi. Mais il n’est pas exact de conclure que les appelants ont été avantagés à cause de leur lien de dépendance. Il ressort plutôt de la preuve que les employés non liés pouvaient également bénéficier des mêmes avantages (voir Provost et Massignani c. M.R.N., 2005 CAF 165).
+[55] Pour ces raisons, je suis d’avis d’accueillir les appels.
+Signé à Ottawa, Canada, ce 12e jour de janvier 2015.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE :
+2015 CCI 6
+Nº DU DOSSIER DE LA COUR :
+2013-1396(EI), 2013-1412(EI), 2013‑1413(EI), 2013-1414(EI)
+INTITULÉ DE LA CAUSE :
+Normand Guillemette, Sébastien Guillemette, Jonathan gélinas et jennifer chabot et Plomberie Yves Guillemette Inc. c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Shawinigan (Québec)
+DATE DE L’AUDIENCE :
+Le 19 novembre 2014
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 12 janvier 2015
+COMPARUTIONS :
+Avocat des appelants :
+Me Gilbert Nadon
+Avocat de l'intimé :
+Me Emmanuel Jilwan
+Avocat de l'intervenante:
+Me Gilbert Nadon
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants:
+Nom :
+Me Gilbert Nadon
+Cabinet :
+Ouellet, Nadon et Associés
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

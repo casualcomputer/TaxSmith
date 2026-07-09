@@ -1,0 +1,213 @@
+Title: Angels of Flight Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29239/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-279-29239-angels-of-flight-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-04-01
+
+# Angels of Flight Canada Inc. v. The Queen
+
+- Citation: 2009 TCC 279
+- Decision date: 2009-04-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7040, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Angels of Flight Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-01
+Neutral citation
+2009 TCC 279
+File numbers
+2007-2766(GST)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-2766(GST)I
+BETWEEN:
+ANGELS OF FLIGHT CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 1, 2009, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the Appellant:
+Gail Courneyea
+Counsel for the Respondent:
+Justin Kutyan
+AMENDED JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Excise Tax Act (the “ETA”), notice of which is dated December 13, 2005 and bears number 04JP2006094 for the period from December 1, 2002 to May 31, 2005, is allowed, with costs in the amount of $600, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the supplies in issue were exempt supplies of ambulance services within the meaning of section 4 of Part II of Schedule V of the ETA.
+It is ordered that the filing fee of $100 be reimbursed to the Appellant.
+This Amended Judgment is issued in substitution for the Judgment signed on May 22, 2009. The Reasons for Judgment remain unchanged.
+Signed at Ottawa, Canada, this 3rd day of June 2009.
+"Gaston Jorré"
+Jorré J.
+Citation: 2009 TCC 279
+Date: 20090522
+Docket: 2007-2766(GST)I
+BETWEEN:
+ANGELS OF FLIGHT CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] This case turns on the question:
+What is an ambulance service?
+[2] The business of Angels of Flight Canada Inc., the Appellant, is described in the company profile which states, in part:[1]
+Mission Statement
+We are a team of medical transfer specialists dedicated to quality patient care and safety through the coordination and delivery of our comprehensive services worldwide.
+Company Profile
+Angels of Flight Canada Inc. is a Canadian owned and operated health care company that has pioneered the specialization of medical evacuation and intra-facility transportation of ill and injured persons both in Canada and around the world. Angels has been innovative in improving safety and setting patient care and education standards for nursing in the ambulance industry for more than sixteen years. Angels of Flight Canada Inc. is the first Canadian company with extensively trained Registered Nurses specializing in aeromedical and ground transportation of ill and injured persons.
+Our transport registered nurses have extensive knowledge and experience in aeromedicine, aviation safety, wilderness and water survival, critical care, trauma, pediatrics, orthopedics, psychiatry, palliative care and oncology. Each of our management staff have more than twenty-five years of experience in the management or direct delivery of patient care. Our Critical Care Transport Teams consist of an ACLS transport registered nurse partnered with a second nurse, physician or paramedic depending on the needs of the patient.
+. . .
+LAND TRANSPORTATION
+Angels’ land transportation units provide non-emergency patient transportation between healthcare facilities, from residence to facilities for treatment or appointments, return home from hospital, to and from airports. Angels’ land transportation units meet all Canadian motor vehicle standards and are staffed by provincially certified paramedics and transportation registered nurses. Each climate controlled vehicle is equipped for intra-facility medical transport with oxygen, stretchers, radios, cellular phones, standard medical, airway and patient comfort supplies, and has safe comfortable seating for escorts and family.
+The company also provides some nursing services unrelated to the transportation of patients.
+[3] The air ambulance and nursing services unrelated to transportation are not in issue in this appeal. What is in issue relates to the “land transportation” segment of the business described above.
+[4] The issue is whether the supply of land transfer services is subject to the Goods and Services Tax (“GST”) or whether it is an exempt supply.
+[5] More specifically, are they exempt supplies falling within section 4 of Part II of Schedule V of the Excise Tax Act (the “ETA”):
+4. A supply of an ambulance service made by a person who carries on the business of supplying ambulance services. . . .
+[6] Alternatively, are they exempt supplies falling within section 6 of Part II of Schedule V of the ETA ― nursing services?
+[7] This appeal was heard under the informal procedure. The Appellant was represented by Gail Courneyea, President and Chief Operating Officer of the Appellant. Ms. Courneyea is a registered nurse and a critical care nurse with very impressive experience and training in the transport of patients. It was evident throughout the hearing that she cares very deeply about her patients and that this commitment is reflected in the operations of the Appellant.
+[8] Ms. Courneyea testified as well as Mr. Richard Brady, Manager of the investigative unit of the Ministry of Health and Long-Term Care of the Province of Ontario, and Ms. Joanna Palin, an audit team leader of the Canada Revenue Agency in Peterborough.
+The facts
+[9] There is no real dispute as to the facts.
+[10] Ms. Courneyea testified that the vehicles purchased by the Appellant are ambulances built by one of the two approved manufacturers of ambulances. These vehicles look like contemporary ambulances and are used for patient transport.[2]
+[11] She also explained that the vehicles were equipped with the same equipment and supplies as an ambulance except for certain variations.
+[12] Because they do not respond to emergencies, they do not carry certain first responder’s equipment. She gave as examples that they did not carry eye patches or a full line of neck braces. On the other hand, they carry certain additional equipment and supplies that ambulances do not carry or, at least, did not carry in the years in question. Examples she gave included glucose monitoring equipment, advance cardiac life support equipment and additional infection control supplies (as a result of having lived through the SARS crisis). Some of the additional equipment or supplies are carried because they may have patients for seven or eight hours at a time.
+[13] Exhibit A-7, the submission made to the Lakeridge Health Corporation by the Appellant, when tendering to provide “Private Ambulance Patient Land Transport – Non-Emergency Transfer” services, sets out in detail the Appellant’s capabilities and lists equipment and supplies carried.[3]
+[14] The Appellant was successful in obtaining the contract and Lakeridge was a significant customer in the period in issue. The contract, at tab 12 of Exhibit R-1, states, among other things:
+Supplier agrees to sell and LHC agrees to purchase “Private Ambulance Patient Land Transport – Non-Emergency Transfer” as detailed in Suppliers RFP #5251 submission document.[4]
+[15] Ms. Courneyea described the Appellant’s operations as follows: 98% of the Appellant’s transport calls originate from hospitals. The dispatchers, all nurses, are knowledgeable and will ask questions if the hospital provides insufficient information so as to determine if a sufficient level of care has been requested. On occasion, they upgrade the level of care although they do not change for a higher level of service than ordered by the hospital.
+[16] There as three levels of service:[5]
+Level One: Basic transfer service – to and from nursing homes and hospitals for routine appointments – 2 crew.
+Level Two: 2 crew of which one is a registered nurse providing a level of service to patients requiring nursing and medications.
+Level Three: 2 crew of which one is a critical care registered nurse, ACLS medical equipment and drugs.
+Angels’ land transportation units provide non-emergency patient transportation between healthcare facilities, from residence to facilities for treatment or appointments, return home from hospital, and to and from airports. Angels’ land transportation units meet all Canadian motor vehicle standards and are staffed by provincially certified paramedics and transportation registered nurses. Each climate controlled vehicle is equipped for intra-facility medical transport with oxygen, stretchers, radios, cellular phones, standard medical equipment, airway and patient comfort supplies, and has safe comfortable seating for escorts and family.
+Level one was very rare in the period in question. There is always at least a paramedic. In level two, there is a nurse and in level three, a critical care nurse. When there is a nurse, the driver might be a paramedic or a firefighter with some medical training.
+[17] When a patient is transferred from one hospital to another, or sent out for a test and brought back to the originating hospital, the sending hospital is responsible for the nursing care of the patient until the patient is taken over by the receiving hospital or, in the case of a test, until the patient returns to the originating hospital. If the originating hospital transferred the patient on an ordinary ambulance, it would have to send a nurse with the patient.
+[18] By using the Appellant’s services, the originating hospital is not obliged to send one of its own nurses ― in addition to the patient benefiting from the specialized training and knowledge of the Appellant’s nurses in patient transport.
+[19] Ms. Courneyea views the services provided by the Appellant as nursing care. The Appellant’s activities are carried out in accordance with the guidelines of the College of Nurses of Ontario.[6] At one point, she likened what they did to providing a hospital on wheels.[7]
+[20] In a level two or three service relating to a test, for example, the nurse sent out will go to the patient’s room in the originating hospital, check the patient’s chart, satisfy herself or himself that everything is in order and accompany the patient from his or her room to the vehicle, then to the other facility and back again to the patient’s room. If, while at the other facility, the patient needs prescription drugs, it is that nurse who will administer those drugs.
+[21] On meeting the patient, the nurse might discover, for example, that the patient had a fever which would not prevent his or her transport but that would result in the facility scheduled to do the test not doing it, with the result that the transfer would be cancelled in order to avoid an unnecessary journey.
+[22] Ms. Courneyea agreed that the Appellant did not have an ambulance service license from the Ontario government.
+[23] She also agreed that they did not respond to emergencies. The patients transported by the Appellant are stable at the time of the move, but there is always a risk of problems arising.
+[24] Separate invoices are sent for every patient. Most moves are paid for by the hospital; in rare cases the insurer pays.
+[25] She agreed that on one occasion they had taken a palliative care patient to a Shania Twain concert in Ottawa. The whole family including two young children attended the concert and met Shania Twain backstage. The patient died 36 hours later. Ms. Courneyea agreed they did a number of such calls ― all for free.
+[26] The billing structure was set up to charge more for levels two and three services with a nurse than for level one service without a nurse.[8]
+[27] Mr. Brady testified as to the role of his ministry which regulates ambulances and which ensures compliance with the regulations. The Ministry pays 50% of the approved costs of ambulances.[9]
+[28] He spoke about a number of standards set by the Ministry with respect to ambulances and paramedics.[10]
+[29] While private transfer companies are permitted, he stated that they are not ambulances because they are not certified.
+[30] At one time, ambulances did many more of the moves of patients between hospitals or for tests but because of the growing demand for ambulances to respond to emergencies, there is growing use of private transfer services for non-emergency transport.
+[31] Ms. Palin testified about the audit, how the output tax was computed and how the related Input Tax Credits (“ITCs”) were determined and allowed to the Appellant.
+[32] There was no dispute as to any issues of quantum.
+[33] Ms. Courneyea also testified that over the years the Appellant’s accountant had inquired about charging GST because they wanted to get back the ITCs and that the accountant had been told verbally that they could not charge GST. They also filed a letter, written after the years in question, signed by the accountant.[11]
+[34] While I accept Ms. Courneyea’s testimony that they had wanted to charge GST, the evidence gives little detail as to exactly what information was provided and exactly what response was given.
+[35] Ms. Courneyea also testified that the average hospital patient is much sicker than before because hospitals now discharge patients more rapidly.
+Analysis
+Ambulance service?
+[36] The crucial question here is an apparently simple one. With respect to the supplies in issue, is the Appellant providing an “ambulance service” and carrying on the “business of supplying ambulance services”?
+[37] On the face of it, the answer would appear to be yes. The Appellant uses the same vehicles and has most of the same equipment as used by ambulances responding to 911 calls. The Appellant also has nurses or, in a few cases, paramedics accompanying the patients throughout their journey.
+[38] The major difference between the services in question and those supplied by ambulances responding to 911 calls is that the Appellant does not respond to emergencies. It transfers patients who are stable, at least at the time of departure from the hospital, on journeys from the hospital to tests and back or in some cases from one hospital to another. There is always the risk that the patient’s condition may change during the trip.
+[39] The ambulances who respond to 911 calls also carry out the same kind of patient transport as the Appellant but, at least in Ontario, they have been doing so less over time because of an increasing demand for emergency transportation.
+[40] Neither “ambulance” nor “ambulance service” are defined by the ETA.
+[41] Using ordinary dictionary definitions, the Appellant certainly operates vehicles falling within the definition of an “ambulance” and, accordingly, operates an “ambulance service” and the “business of supplying ambulance services”. For example, the Canadian Oxford Dictionary[12] defines “ambulance” as:
+a vehicle specially equipped for conveying the sick or injured to and from a hospital, esp. in emergencies.
+[42] The Respondent argues that while a common dictionary meaning or the plain meaning is a useful starting point, the modern approach to statutory interpretation also requires this Honourable Court to take a contextual and purposeful approach.[13] I agree.
+[43] It is not clear to me how this helps the Respondent. “Ambulance services” are within Schedule V which relates to exempt supplies and within Part II thereof which relates to health care services. Part II covers a fairly wide range of health related supplies by hospitals and other (defined) health care facilities, by doctors, dentists, nurses and others. If anything, the general context of Part II, even though it does have a number of specific restrictions, would seem to point in favour of using the plain meaning or dictionary definitions and considering the supplies in issue to fall within the scope of section 4 of Part II.
+[44] The Respondent further argues that to determine contextual meaning, one should take account of provincial legislation relating to health care given that health care is essentially provincially regulated.[14] In support of this, the Respondent cited several cases[15] including Will-Kare, a decision of the Supreme Court of Canada, as well as Dale and Kalef, decisions of the Federal Court of Appeal, and North Shore Health Region, a decision of this Court. All of these decisions support the proposition that the Income Tax Act (the “ITA”) does not operate in a vacuum but that it takes account of the legal meaning of words outside the ITA and not just the plain meaning or the popular meaning.
+[45] In Will-Kare, the majority held that “goods for sale” being well defined in law, the term “sale” must be interpreted in accordance with general commercial law.[16]
+[46] In Kalef, it was held that one should look at the relevant company law to determine when an individual ceases to be a director.[17]
+[47] In Dale, it was held that, in determining whether a transaction will be recognized for tax purposes, one must look at the general law to determine the legal effectiveness of the transaction.[18]
+[48] In Will-Kare, Kalef and Dale, it is clear that the courts determined that Parliament intended to refer to existing legal concepts. In the absence of specific provisions in tax legislation, where else could one turn but to the general law?
+[49] The situation in this appeal is very different from that in those three cases, and I do not see how those three cases lead to the conclusion that Parliament intended for “ambulance service” to be defined by provincial legislation. Indeed, the scheme of Part II of Schedule V suggests the contrary, given that Parliament has explicitly chosen to refer to provincial law in certain cases.
+[50] For example, in the definition of medical practitioner in section 1, it is defined as a “. . . person who is entitled under the laws of a province to practise the profession of medicine or dentistry”. Similarly, paragraph (b) of the definition of “practitioner” in section 1 makes specific reference to licensing under provincial law. If Parliament had meant to restrict section 4 of Part II of Schedule V, one would expect a specific reference to persons authorized to operate an ambulance service under provincial or territorial laws.
+[51] The Respondent also relied on the decision of this Court in North Shore. In North Shore, one of the questions before Bowie J. was whether a facility known as the Kiwanis Care Centre was a “public hospital” or not. On the facts he found that the facility did not provide the patients with a high degree of complex medical care and that what was provided consisted of varying levels of assisted living with the availability of nurses to dispense medication and provide relatively routine medical assistance.
+[52] In North Shore, the Appellant argued, inter alia, that the Court should consider dictionary definitions which took a wide view of “hospital”. The Respondent notes the following portion of the decision in North Shore:
+24 In my view, dictionary meanings are of little help in this case. Subject to a few exceptions that are not relevant here, the jurisdiction to regulate hospitals is provincial, and in British Columbia, as elsewhere, there are a number of enactments for that purpose. Principal among them is the Hospital Act. . . .
+The Respondent went on to note that the Court found that under the laws of British Columbia the Kiwanis Care Centre was not operating a hospital before concluding on this point:
+29 My conclusion on this branch of the case, then, is that the Centre is not a hospital under the general law of British Columbia. This conclusion is consistent, in my view, with the ordinary meaning of the word hospital in common contemporary Canadian usage. . . .
+[53] The Ambulance Act of Ontario defines “ambulance” and “ambulance service” as follows:
+1. (1) In this Act,
+. . .
+“ambulance” means a conveyance used or intended to be used for the transportation of persons who,
+(a) have suffered a trauma or an acute onset of illness either of which could endanger their life, limb or function, or
+(b) have been judged by a physician or a health care provider designated by a physician to be in an unstable medical condition and to require, while being transported, the care of a physician, nurse, other health care provider, emergency medical attendant or paramedic, and the use of a stretcher; (“ambulance”)
+“ambulance service” means, subject to subsection (2), a service that is held out to the public as available for the conveyance of persons by ambulance; (“service d’ambulance”)
+[54] Section 8 of the Ambulance Act prohibits a person from operating an ambulance service unless he or she holds a certificate issued by the Ontario government.
+[55] The Respondent also argues that a person can only be supplying ambulance services if he or she holds a certificate to do so.
+[56] I am unable to agree with this last point as phrased. Whether or not the Appellant supplied “ambulance services” depends not on whether a certificate was issued by the Ontario government but on whether the term, as used in the ETA, has the same meaning as in the Ambulance Act.
+[57] When I initially looked at the first branch of the definition of “ambulance” in the Ambulance Act, paragraph 1(1)(a) cited above, I thought that the Appellant appeared to fall within that branch. However, on further examination of the whole definition including the second alternative branch, I concluded that paragraph 1(1)(a) has to be read as requiring a certain immediacy of the trauma or acute onset of illness that does not exist in the Appellant’s operations since it transports patients who are stable ― at least as of the time of departure.
+[58] Here we have an Appellant using the same type of vehicles as those falling under the Ambulance Act, carrying substantially similar equipment with some variation, using highly trained nurses and, very occasionally, a paramedic without a nurse, transporting patients that ambulances licensed by the province also transport in similar non‑emergency circumstances.[19] Did Parliament intend to exclude the Appellant’s service simply because it does not respond to emergency calls?
+[59] What is the effect of North Shore?[20] While it is clear that this Court put significant weight on provincial law, it did not, in my view, hold that in the area of health care provincial definitions of health care terms are always determinative of the meaning of the ETA terms in Part II of Schedule V. This is clear from the following passage of the decision:
+29 . . . This conclusion is consistent, in my view, with the ordinary meaning of the word hospital in common contemporary Canadian usage. . . .[21]
+Of course, if specific reference is made to provincial law, then the provincial law will be determinative to the extent provided for.
+[60] What I take from North Shore and from the jurisprudence is that one should give great weight to provincial laws but “ambulance service” in Part II of Schedule V of the ETA is not defined by provincial law.
+[61] Accordingly, it is relevant in this case to consider the nature of the requirements imposed by provincial law on ambulances with respect to vehicles, equipment and supplies carried and with respect to the training of staff. These are all relevant considerations as to the contemporary meaning of “ambulance” and “ambulance service”.
+[62] The Respondent expressed concerns that not following provincial legislation might open up “ambulance service” unduly widely. I do not think this concern is warranted. For example, a nurse accompanying a patient with an IV, whether in a standard car or in a standard van with a stretcher and little equipment, would not constitute the provision of an ambulance service.
+[63] However, where, as is the case here, there is a highly equipped vehicle of the same sort as used for 911 calls, with very well trained professionals, this falls within “ambulance service” in Part II of Schedule V.[22]
+Nursing services
+[64] While I have no doubt that the Appellant provided nursing services in the course of transporting the vast majority of the patients, in view of my conclusion on the issue of “ambulance service”, it is unnecessary for me to consider whether the land transportation services[23] described above constitute nursing services.
+Conclusion
+[65] As a result, the appeal of the assessment for the period from December 1, 2002 to May 31, 2005 will be allowed with costs in the amount of $600, and the matter will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the supplies in issue were exempt supplies.
+Signed at Ottawa, Canada, this 22nd day of May 2009.
+"Gaston Jorré"
+Jorré J.
+CITATION: 2009 TCC 279
+COURT FILE NO.: 2007-2766(GST)I
+STYLE OF CAUSE: ANGELS OF FLIGHT CANADA INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 1, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: May 22, 2009
+DATE OF REASONS FOR
+JUDGMENT: May 22, 2009
+DATE OF AMENDED
+JUDGMENT: June 3, 2009
+APPEARANCES:
+Agent for the Appellant:
+Gail Courneyea
+Counsel for the Respondent:
+Justin Kutyan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Respondent's book of documents, pages 1 and 2.
+[2] See photo of Exhibit R-1, tab 1, page 4. The company owned some other vehicles that were not used for patient transportation.
+[3] See Exhibit A-7, especially with respect to equipment, supplies and staff training, pages 28, 29, 33 to 36, 51, 62, 84, 85, 102 and 120. For convenience, the Registrar added page numbers to the Exhibit.
+[4] RFP #5251 submission document is Exhibit A-7.
+[5] See Exhibit R-1, tab 1, page 4.
+[6] See Exhibits A-1 to A-5, especially A-4.
+[7] Alternatively, they could perhaps be described as mobile nursing services.
+[8] See Exhibit A-7, page 119.
+[9] If I understood correctly, the relevant health authority bears the rest of the cost.
+[10] See Exhibit R-1, tabs 7 to 11, and Exhibits R-2 to R-6.
+[11] See Exhibit A-8.
+[12] Second edition, 2004, at page 41.
+[13] Placer Dome Canada Ltd. v. Ontario (Minister of Finance), 2006 SCC 20, [2006] 1 S.C.R. 715, at paragraphs 21 to 24.
+[14] The Respondent said it was exclusively provincial in its written argument. While that is largely true, it is not entirely accurate. For these purposes here, however, that is a good enough approximation.
+[15] Will-Kare Paving & Contracting Ltd. v. Canada, 2000 SCC 36, [2000] 1 S.C.R. 915; Dale v. Canada, [1997] 3 F.C. 235 (FCA); The Queen v. Kalef, 96 DTC 6132 (FCA); North Shore Health Region v. The Queen, 2006 TCC 585; and North Shore Health Region v. Canada, 2008 FCA 2.
+[16] See paragraphs 31 to 37 of Will-Kare.
+[17] See paragraph 10 of Kalef.
+[18] See paragraphs 12 and 13 of Dale.
+[19] When such licensed ambulances are available for non-emergency transport.
+[20] The decision of the Tax Court in North Shore was overturned by the Federal Court of Appeal for other reasons. The Court of Appeal did not deal with this aspect.
+[21] Paragraph 24 of North Shore cannot be read in isolation.
+[22] The Respondent provided a list of legislation applicable to ambulance services in the 10 provinces. A review of the listed legislation shows no consistent results: in several provinces, other than Ontario, the land transportation services like those of the Appellant appear to fall within the legislation governing ambulance services; in other provinces, it appears that the services would not.
+[23] See paragraph 2 above.

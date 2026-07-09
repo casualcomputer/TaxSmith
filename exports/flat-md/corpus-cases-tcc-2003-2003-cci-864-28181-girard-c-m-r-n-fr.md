@@ -1,0 +1,227 @@
+---
+title: "Girard c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28181/index.do"
+last_modified: "2003-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 864"
+citation2: ""
+neutral_citation: "2003 CCI 864"
+decision_date: "2003-12-09"
+language: "fr"
+item_id: "28181"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1962
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:25:02.857000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3839f2edb583bc8c63e0be4d2e288054e040e25e4346c439cb071b88dc2c16f7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Girard c. M.R.N.
+
+- Citation: 2003 CCI 864
+- Decision date: 2003-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1962, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Girard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-09
+Référence neutre
+2003 CCI 864
+Numéro de dossier
+2002-3405(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-3405(EI)
+ENTRE :
+MURIELLE GIRARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MATÉRIAUX ST-FÉLICIEN INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 21 août 2003 à Roberval (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Julie David
+Représentant de l'intervenante :
+Guy Bonneau
+________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 9e jour de décembre 2003.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence :2003CCI864
+Date : 20031209
+Dossier : 2002-3405(EI)
+ENTRE :
+MURIELLE GIRARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MATÉRIAUX ST-FÉLICIEN INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Roberval (Québec), le 21 août 2003.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi qu'occupait l'appelante auprès de Matériaux St-Félicien Inc., le payeur, durant la période en litige, soit du 25 mars 2001 au 9 février 2002.
+[3] Le 4 juillet 2002, le ministre du Revenu national (le « Ministre ») a informé l'appelante de sa décision selon laquelle cet emploi n'était pas assurable pour le motif qu'un contrat de travail à peu près semblable n'aurait pas été conclu s'il n'y avait pas eu un lien de dépendance entre elle et le payeur.
+[4] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel, lesquelles ont été admises ou niées par l'appelante :
+a) Le payeur, constitué en société le 27 septembre 1996, exploite une quincaillerie sous la bannière Home Hardware. (admis)
+b) M. Guy Bonneau, conjoint de l'appelante, détient 85 % du capital-actions du payeur et l'appelante détient 15 % de ce capital. (admis)
+c) Le payeur exploite son commerce à l'année longue, du lundi au samedi, et emploie entre 6 et 10 personnes, selon la période de l'année. (admis)
+d) L'appelante ne travaille pour le payeur que depuis 1998, auparavant elle travaillait pour un bureau d'avocats. (admis)
+e) Toute la comptabilité du payeur est informatisée et l'appelante s'occupait surtout de la vérification de toutes les entrées aux livres comptables et de tenir à jour l'inventaire permanent du payeur. (admis)
+f) Plus précisément, l'appelante s'occupait des tâches suivantes :
+- Elle vérifiait les factures d'achats d'inventaire, les bons de réception en suspens et les bons figurant au système avec les factures des marchandises reçues durant le mois.
+- Elle s'occupait de la compilation des ventes, de la conciliation bancaire, des rapports trimestriels et du paiement des factures.
+- Elle préparait les états de résultats mensuels du payeur. (admis)
+g) L'appelante travaillait généralement 2 semaines par mois et recevait des prestations d'assurance-emploi durant les semaines où elle n'était pas inscrite au registre des salaires du payeur. (admis)
+h) Lorsqu'elle n'était pas au travail, les bons d'achats et le registre des ventes journalières étaient déposés quotidiennement sur son bureau par les caissières et les vendeurs. (admis)
+i) L'appelante évaluait elle-même le travail à faire et rentrait seulement quand il y avait assez de travail pour l'occuper durant une semaine entière, soit environ 30 heures de travail. (nié)
+j) Au cours de l'année 2001, l'appelante a accumulé 23 semaines de travail auprès du payeur. (admis)
+k) Durant les semaines où elle était inscrite au registre des salaires du payeur, l'appelante recevait une rémunération fixe de 600 $ par semaine et ce, sans égard aux heures réellement travaillées. (nié)
+l) Durant la même période, M. Dominique Turcotte, gérant de la quincaillerie, recevait une rémunération de 616 $ par semaine pour 40 heures de travail. (admis)
+m) Le nombre de semaines travaillées par l'appelante n'est pas influencé ni par le montant des ventes, ni par le volume des achats, ni par le nombre d'employés du payeur. (nié)
+n) L'appelante s'est émise un relevé d'emploi indiquant comme dernière journée de travail le 9 février 2002 et indiquant comme raison : « manque de travail » alors que dans les faits il n'y avait pas de manque de travail et que c'est elle-même qui décidait de ses semaines de travail. (nié)
+o) L'organisation des périodes de travail de l'appelante était faite en fonction des besoins de l'appelante et non en fonction des besoins du payeur. (nié)
+[5] Le paragraphe 5(1) de la Loi sur l'assurance-emploi (la « Loi ») se lit en partie comme suit :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[6] Les paragraphes 5(2) et (3) de la Loi sont libellés en partie comme suit :
+5(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance
+[...]
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[7] L'article 251 de la Loi de l'impôt sur le revenu porte notamment ce qui suit :
+251. Lien de dépendance.
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de « personnes liées ». Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+[...]
+[8] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[9] Pour ce qui concerne le sous-paragraphe 5 i) de la Réponse à l'avis d'appel, la preuve a révélé que Guy Bonneau, l'actionnaire principal du payeur, avait déclaré aux enquêteurs du Ministre que l'appelante « rentrait au travail en fonction du volume de travail à faire; elle avait de l'expérience et savait quand rentrer ». Aussi, rapportait-il, « elle vérifie que les escomptes sur les ventes ont bien été appliqués et rectifie les erreurs ».
+[10] Quant à l'appelante, elle a révélé aux enquêteurs qu'elle « a suffisamment d'expérience de travail pour savoir quand rentrer ». Ainsi, elle laissait le travail s'accumuler et quand elle pensait que le volume était suffisant pour l'occuper pour une semaine entière, elle entrait au travail. Elle savait, par exemple, qu'ils recevaient les factures de Home Hardware aux 7 jours.
+[11] L'appelante a nié qu'elle recevait une rémunération fixe de 600 $ par semaine sans égard aux heures réellement travaillées. Cependant, le registre des salaires du payeur indique qu'elle recevait une rémunération fixe de 600 $ par semaine quand elle y était inscrite. Il a été établi, par ailleurs, que ses heures de travail étaient entre 30 et 35 heures par semaine.
+[12] Les documents fournis par le payeur ont permis aux enquêteurs de regrouper en un tableau descriptif, pour les années 2000, 2001 et 2002, les données mensuelles du journal des ventes, du journal des bons de réception et du journal des salaires.
+[13] En 2001, les ventes ont subi une baisse d'environ 300 000 $ par rapport à l'an 2000. De janvier à novembre 2001, le chiffre d'affaires fluctue de 118 000 $ à 200 000 $ et s'établit à 58 403 $ en décembre 2001. Quant aux achats, ils fluctuent de 80 000 $ à 100 000 $ de mars à novembre pour diminuer à moins de 35 000 $ en décembre.
+[14] Le nombre de semaines travaillées par l'appelante durant un mois varie de une à quatre semaines et ne semble pas influencé ni par le montant des ventes, ni par le volume des achats.
+[15] Ainsi, l'appelante n'a travaillé qu'une semaine en janvier 2001 alors que les ventes étaient de 171 309 $ et les achats de 68 508,46 $ et également une semaine en novembre 2001 alors que les ventes étaient de 135 910 $ et les achats de 101 000 $, alors qu'elle apparaît au livre des salaires deux semaines en février 2001 alors que les ventes étaient de 178 155 $ et les achats de 17 577 $ et trois semaines en mars où les ventes étaient de 122 000 $ et les achats de 88 000 $.
+[16] L'appelante est l'épouse de Guy Bonneau, l'actionnaire majoritaire du payeur. Ainsi, selon le sous-alinéa 251(2)b)(ii) de la Loi de l'impôt sur le revenu, l'appelante et le payeur sont des personnes liées.
+[17] L'appelante demande à cette Cour de casser la décision rendue par le Ministre. Or, les pouvoirs de cette Cour dans un dossier comme celui sous étude ont été circonscrits par la jurisprudence.
+[18] En l'espèce, le Ministre a cité l'arrêt Canada (Procureur général) c. Jencan Ltd. (C.A.), [1998] 1 C.F. 187 et, en particulier, les extraits suivants de cet arrêt tel que prononcés par la Cour d'appel fédérale :
+L'arrêt que notre Cour a prononcé dans l'affaire Tignish, ... exige que, lorsqu'elle est saisie d'un appel interjeté d'une décision rendue par le ministre en vertu du sous‑alinéa 3(2)c)(ii), la Cour de l'impôt procède à une analyse à deux étapes. À la première étape, la Cour de l'impôt doit limiter son analyse au contrôle de la légalité de la décision du ministre. Ce n'est que lorsqu'elle conclut que l'un des motifs d'intervention est établi que la Cour de l'impôt peut examiner le bien-fondé de la décision du ministre. Comme nous l'expliquerons plus en détail plus loin, c'est en limitant son analyse préliminaire que la Cour de l'impôt fait preuve de retenue judiciaire envers le ministre lorsqu'elle examine en appel les décisions discrétionnaires que celui-ci rend en vertu du sous-alinéa 3(2)c)(ii)...
+[...]
+...Comme il s'agit d'une décision rendue en vertu d'un pouvoir discrétionnaire, par opposition à une décision quasi‑judiciaire, il s'ensuit que la Cour de l'impôt doit faire preuve de retenue judiciaire à l'égard de la décision du ministre lorsque celui‑ci exerce ce pouvoir. Ainsi, lorsque le juge Décary, J.C.A., déclare dans l'arrêt Ferme Émile, ... que ce type d'appel interjeté devant la Cour de l'impôt « s'apparente plutôt à une demande de contrôle judiciaire », il voulait simplement souligner, à mon humble avis, qu'on doit faire preuve de retenue judiciaire envers les décisions que le ministre rend en vertu de cette disposition à moins que la Cour de l'impôt ne conclue que le ministre a exercé son pouvoir discrétionnaire d'une manière qui est contraire à la loi.
+[...]
+Ainsi, en limitant la première étape de l'analyse de la Cour de l'impôt à un contrôle de la légalité des décisions rendues par le ministre en vertu du sous-alinéa 3(2)c)(ii), notre Cour a simplement appliqué des principes judiciaires acceptés dans le but de trouver le juste milieu entre le droit que possède le prestataire en vertu de la loi de faire contrôler la décision du ministre et la nécessité de faire preuve de retenue judiciaire à l'égard de celle‑ci, compte tenu du fait que le législateur fédéral a conféré un pouvoir discrétionnaire au ministre en vertu de cette disposition.
+Compte tenu de ce qui précède, le juge suppléant de la Cour de l'impôt n'était justifié d'intervenir dans la décision rendue par le ministre en vertu du sous‑alinéa 3(2)c)(ii) que s'il était établi que le ministre avait exercé son pouvoir discrétionnaire d'une manière qui était contraire à la loi. Et, comme je l'ai déjà dit, l'obligation d'exercer un pouvoir discrétionnaire de façon judiciaire implique l'existence de motifs d'intervention spécifiques. La Cour de l'impôt est justifiée de modifier la décision rendue par le ministre en vertu du sous‑alinéa 3(2)c)(ii) - en examinant le bien-fondé de cette dernière - lorsqu'il est établi, selon le cas, que le ministre : (i) a agi de mauvaise foi ou dans un but ou un mobile illicites; (ii) n'a pas tenu compte de toutes les circonstances pertinentes, comme l'exige expressément le sous-alinéa 3(2)c)(ii); (iii) a tenu compte d'un facteur non pertinent.
+[19] La preuve apportée par l'appelante n'a pas réussi à prouver la fausseté des présomptions énoncées par le Ministre dans sa Réponse à l'avis d'appel.
+[20] Il est vrai, cependant, que la preuve a révélé que les fonctions qu'occupait l'appelante depuis 1998 étaient précédemment exécutées par Jacques Leclair, une personne non liée, dans les mêmes conditions. C'est l'argument avancé par l'appelante contre celui du Ministre à l'effet que des conditions à peu près semblables n'existeraient pas dans un contrat de travail entre des parties non liées. Sans doute, cette preuve supporte la position de l'appelante, mais reste à savoir si à elle seule elle réussit à établir que le Ministre, dans sa décision, aurait, premièrement, agi de mauvaise foi ou dans un but ou un mobile illicites; deuxièmement, n'aurait pas tenu compte de toutes les circonstances pertinentes comme l'exige expressément le sous-alinéa 3(2)c)(ii) de la Loi sur l'assurance‑chômage, maintenant l'alinéa 5(3)b) de la Loi sur l'assurance‑emploi; ou finalement, aurait tenu compte d'un facteur non pertinent, selon les termes utilisés par la Cour d'appel fédérale dans l'arrêt Jencan, précité.
+[21] Dans une cause qui présentait des circonstances similaires, le juge Tardif de cette Cour dans l'arrêt Huard c. Canada (ministre du Revenu national - M.R.N.), [2003] A.C.I. no 435, écrivait ce qui suit :
+La mise à pied d'un travail doit avoir des justifications à caractère économique à savoir [surplus d'inventaire, ralentissement économique, bris mécanique, baisse de la demande, conséquence de la concurrence et compétition, fermeture d'usine, faillite, fermeture d'un département, etc.]. Il en va de même au niveau du retour au travail [demande accrue, reprise économique, augmentation de la demande, etc.].
+[...]
+Effectivement, il n'est aucunement question de fraude. Le législateur a exclu le travail pour les personnes ayant un lien de dépendance des emplois assurables, mais il a cependant prévu que si le travail était exécuté à des conditions et suivant des modalités comparables à celles qui auraient prévalu dans les mêmes circonstances entre des tiers, le travail d'abord exclu pouvait devenir assurable.
+De telles dispositions ne sont pas élastiques au point de rendre admissible un emploi exclu des emplois assurables, et ce, pour le seul motif qu'il s'agit d'un dossier sympathique. Le législateur a prévu des critères précis qui permettent d'apprécier si le contrat de travail a été façonné ou affecté par le lien de dépendance qui unit les parties au contrat de travail.
+[22] Pour justifier son travail à temps partiel, l'appelante a invoqué la mise sur pied d'un système informatique hautement spécialisé qui avait pour effet de réduire ses tâches de façon assez considérable. Mais, s'il est vrai que ses tâches ont diminué, son salaire est resté élevé, le plus élevé de toute l'entreprise, même plus élevé que celui du gérant qui, lui, avait un salaire comparable au sien mais travaillait à temps plein.
+[23] Puisque l'appelante et le payeur sont liés, selon la Loi de l'impôt sur le revenu, il convient de faire une appréciation de l'exercice du Ministre prévu au paragraphe 5(3) de la Loi selon les critères établis.
+[24] Les données recueillies par les enquêteurs et les documents fournis par le payeur ont établi les faits suivants.
+1) les modalités d'emploi
+[25] Les paies hebdomadaires du payeur et les DAS sont confiés à un système de paie; le gérant de la quincaillerie compile le nombre d'heures travaillées par les employés et le remet à l'appelante qui le communique à la banque, c'est‑à‑dire au système de paie. Comme les paies sont hebdomadaires et que le nombre d'heures travaillées par certains travailleurs varient de semaine en semaine, le rapport des heures à communiquer au système de paie doit être préparé de façon hebdomadaire.
+[26] Depuis 1998, l'appelante travaille généralement une ou deux semaines par mois et entre ses semaines figurant au livre des salaires du payeur, elle reçoit des prestations d'assurance-emploi. Le nombre de semaines travaillées n'est pas influencé ni par le montant des ventes, ni par le volume des achats, ni par le nombre d'employés. Lorsqu'elle n'est pas au travail, les bons d'achats d'inventaire et la compilation des ventes journalières sont déposés à chaque jour sur son bureau et s'accumulent.
+[27] Cependant, compte tenu des opérations informatisées, si le « système tombe » ou que les employés ont des problèmes avec le système informatique, aucune opération ne devient alors possible. C'est alors que l'appelante est rappelée et elle revient au travail.
+[28] Il est opportun de préciser que pour ce qui porte sur une semaine de travail en juillet 2001 et quatre semaines de travail en août 2001, l'appelante a expliqué que son conjoint ferme son entreprise de construction et qu'elle coordonne ses semaines de travail de façon à prendre également ses vacances à partir de juillet.
+[29] Les conditions ci-haut énumérées ont porté le Ministre à conclure que celles‑ci ne seraient pas offertes à un travailleur non lié, puisqu'elles favorisent davantage les intérêts et les besoins personnels de l'appelante que ceux du payeur.
+2) rétribution versée
+[30] Selon le journal des salaires, le gérant de la quincaillerie, lequel travaille à plein temps pour le payeur est rémunéré à un taux horaire de 15,40 $, soit un salaire hebdomadaire de 616 $ pour 40 heures de travail. Quant à l'appelante, son salaire est de 600 $ par semaine pour 34 à 35 heures de travail, soit un taux horaire de 17,14 $. Il s'agit du taux horaire le plus élevé versé par le payeur, et ce, à une travailleuse à temps partiel. Le Ministre a donc conclu qu'il est déraisonnable de croire qu'un tel salaire, dans de telles conditions, serait versé à une personne non liée.
+3) durée de l'emploi
+[31] L'appelante a travaillé une à deux semaines par mois. Ainsi, au cours de l'année 2001 l'appelante a travaillé 23 semaines; elle a préparé elle-même son relevé d'emploi indiquant le 9 février 2002 comme dernière journée de travail. La raison invoquée pour la mise à pied était le manque de travail.
+[32] Cependant, les faits ont démontré qu'il n'y avait pas de manque de travail puisque c'est l'appelante elle-même qui décidait du moment, de la durée et de l'organisation de ses semaines de travail. En outre, l'appelante a reçu des prestations d'assurance-emploi entre le 18 février 2001 et le 17 février 2002 et pour recevoir de nouvelles prestations, elle devait présenter un nouveau relevé d'emploi et une nouvelle demande de prestations. Elle a d'ailleurs repris le travail deux semaines après sa mise à pied, respectant ainsi ses semaines d'attente de prestations et elle a travaillé trois semaines de suite puisque le travail s'était accumulé durant son absence. Il en a résulté que l'accumulation du travail a permis à la travailleuse, c'est-à-dire, l'appelante d'avoir des semaines pleines, lui assurant ainsi de se qualifier aux prestations d'assurance-emploi pour les semaines non rémunérées par le payeur.
+[33] Devant cet état de fait, le Ministre a conclu qu'il n'était pas raisonnable de croire qu'une telle attention serait accordée à un employé sans lien de dépendance.
+4) nature et importance du travail
+[34] Il a été établi que les services rendus par l'appelante étaient essentiels à la bonne marche de l'entreprise du payeur. Elle détectait les erreurs, balançait les résultats et s'assurait que les escomptes sur les achats étaient bien accordés.
+[35] Le payeur aurait pu bénéficier de la présence de la travailleuse pour une journée ou deux par semaine mais en ne travaillant que quelques heures chaque semaine, l'appelante n'aurait pas subi d'arrêt de travail et conséquemment n'aurait pu faire de réclamation pour des prestations d'assurance-emploi.
+[36] Les circonstances ci-haut décrites sont nettement à l'avantage de l'appelante plutôt qu'à celui du payeur.
+[37] Le Ministre a donc conclu qu'il était déraisonnable de croire, compte tenu du volume de travail et du chiffre d'affaires du payeur, que ce dernier aurait engagé un étranger à de telles conditions et pour un tel salaire.
+[38] Cette Cour est d'avis que le Ministre a exercé son pouvoir discrétionnaire selon les exigences de la Loi et de la jurisprudence, en particulier, les principes énoncés dans l'arrêt Jencan, supra, c'est-à-dire en concluant qu'il n'était pas raisonnable de croire, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, que l'appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[39] L'appelante n'a donc pas réussi à prouver le bien-fondé de l'intervention de cette Cour dans la décision du Ministre prise dans ces circonstances.
+[40] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2003CCI864
+No DU DOSSIER DE LA COUR :
+2002-3405(EI)
+INTITULÉ DE LA CAUSE :
+Murielle Girard et M.R.N. et
+Matériaux St-Félicien Inc.
+LIEU DE L'AUDIENCE :
+Roberval (Québec)
+DATE DE L'AUDIENCE :
+le 21 août 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 9 décembre 2003
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Julie David
+Pour l'intervenante :
+Guy Bonneau (représentant)
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenante :
+Nom :
+Étude :

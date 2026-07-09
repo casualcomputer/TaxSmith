@@ -1,0 +1,193 @@
+---
+title: "Michael Legg et Compagnie c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26857/index.do"
+last_modified: "2006-04-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 228"
+citation2: ""
+neutral_citation: "2006 CCI 228"
+decision_date: "2006-04-21"
+language: "fr"
+item_id: "26857"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 663
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:40:30.959000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "afdc7e30f1dff40c9442ddbea74407501841f04bb30222f52abc17799653572b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Michael Legg et Compagnie c. M.R.N.
+
+- Citation: 2006 CCI 228
+- Decision date: 2006-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 663, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Michael Legg et Compagnie c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-21
+Référence neutre
+2006 CCI 228
+Numéro de dossier
+2005-3894(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005‑3894(EI)
+ENTRE :
+MICHAEL LEGG ET COMPAGNIE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DEBORAH GRIFFITHS,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 9 mars 2006 à Montréal (Québec)
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Christina Ham
+Avocat de l’intervenante :
+Me Claude Marc Boudreau
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision du ministre du Revenu national est annulée conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour d’avril 2006.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 26e jour de juin 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI228
+Date : 20060421
+Dossier : 2005‑3894(EI)
+ENTRE :
+MICHAEL LEGG ET COMPAGNIE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DEBORAH GRIFFITHS,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le 29 avril 2005, Deborah Griffiths (la « travailleuse ») a demandé à l’intimé qu’il détermine si elle avait exercé ou non un emploi assurable auprès de la société Michael Legg Clothiers Inc. (l’« appelante ») pendant la période du 14 novembre 2004 au 15 janvier 2005 (la « période en cause »).
+[2] Dans une lettre datée du 26 juillet 2005, l’intimé a informé l’appelante que la travailleuse avait exercé un emploi assurable pendant la période en cause parce qu’il y avait une relation employeur‑employé entre elle et l’appelante. De plus, l’intimé a informé l’appelante qu’il avait établi à 279 le nombre d’heures assurables de la travailleuse et à 2 901,60 $ sa rémunération assurable pour la période en cause. L’appelante interjette appel de cette décision.
+[3] Pour rendre sa décision, l’intimé a tenu compte des hypothèses de fait non contestées (sauf l’alinéa 5(l)) suivantes :
+[traduction]
+a) l’appelante a été constituée en société le 19 mai 1995;
+b) l’appelante exploitait un magasin de vêtements;
+c) le magasin de l’appelante est situé au 422, rue Main, à Hudson;
+d) la travailleuse a fourni des services à l’appelante en tant que vendeuse du 10 mars 2004 au 31 août 2004;
+e) la travailleuse a travaillé au magasin de l’appelante à Hudson;
+f) la travailleuse était tenue de respecter un horaire de travail établi par l’appelante;
+g) la travailleuse travaillait sous la supervision et la direction des gérants de l’appelante;
+h) la travailleuse recevait un salaire établi en fonction d’un taux horaire de 10 $;
+i) le 31 août, la travailleuse s’est blessée au magasin de l’appelante;
+j) la travailleuse a subséquemment arrêté de travailler pour le compte de l’appelante à cause de sa blessure;
+k) la travailleuse a reçu une indemnisation des accidentés du travail du 1er septembre 2004 au 12 novembre 2004;
+l) la travailleuse devait retourner travailler pour le compte de l’appelante le 14 novembre 2004, cependant, l’appelante n’a pas permis à la travailleuse de réintégrer son poste de vendeuse;
+m) la travailleuse a déposé une plainte contre l’appelante auprès d’un organisme provincial de main‑d’oeuvre en vertu de la Loi sur les accidents de travail et les maladies professionnelles;
+n) le 18 janvier 2005, la travailleuse et l’appelante ont conclu un accord qui prévoyait le paiement d’un montant équivalent à 31 heures de travail par semaine pendant 9 semaines à un taux horaire de 10 $ (2 790 $) plus une paie de vacances de 4 % (111,60 $), soit d’un montant total de 2 901,60 $;
+o) le 31 janvier 2005, à la suite de la conclusion de l’accord, l’appelante a délivré à la travailleuse un relevé d’emploi qui indiquait que le premier jour de travail était le 10 mars 2004, que le dernier jour payé était le 29 novembre 2004, que le nombre total d’heures assurables était de 769, que la rémunération assurable totale se chiffrait à 7 417,77 $ et que l’appelante avait reçu une somme de 2 790 $ correspondant à un règlement de la CSST non inclus dans le nombre d’heures assurables ni dans la rémunération assurable.
+Analyse
+[4] Les faits sont relativement simples : la travailleuse devait retourner travailler pour le compte de l’appelante le 14 novembre 2004, mais celle‑ci ne lui a pas permis de réintégrer immédiatement son poste de vendeuse. Pour qu’elle puisse réorganiser l’horaire de travail, l’appelante a demandé à la travailleuse d’attendre quelques semaines. Le 29 novembre 2004, la travailleuse a déposé une plainte (pièce I-1) contre l’appelante auprès d’un organisme provincial de main‑d’oeuvre en vertu de la Loi sur les accidents de travail et les maladies professionnelles. Le 18 janvier 2005, l’appelante et la travailleuse sont parvenues à un règlement (pièce A-1). L’appelante a accordé à la travailleuse une compensation monétaire équivalente à 31 heures de travail par semaine pendant 9 semaines à un taux horaire de 10 $ (2 790 $) plus une paie de vacances de 4 % (111,60 $), soit un montant total de 2 901,60 $. Conformément au règlement en question, l’appelante a délivré à la travailleuse un relevé d’emploi faisant état d’un manque de travail.
+[5] Les questions en litige sont les suivantes :
+i) Est-ce que la travailleuse a exercé un emploi assurable auprès de l’appelante pendant la période en cause, soit du 14 novembre 2004 au 15 janvier 2005? En d’autres mots, pendant la période en cause, est‑ce que la travailleuse a travaillé 31 heures par semaine pendant 9 semaines, soit un total de 279 heures, dans le cadre d’un emploi assurable au sens du paragraphe 10.1(1) du Règlement sur l’assurance‑emploi?
+ii) Est‑ce que le montant de 2 901,60 $ tombe sous le coup de la définition de l’expression « allocation de retraite »?
+[6] Les dispositions pertinentes de la Loi sur l’assurance‑emploi sont ainsi rédigées :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[7] Les dispositions réglementaires pertinentes sont les suivantes :
+Règlement sur l’assurance‑emploi
+9.1 Lorsque la rémunération d’une personne est versée sur une base horaire, la personne est considérée comme ayant exercé un emploi assurable pendant le nombre d’heures qu’elle a effectivement travaillées et pour lesquelles elle a été rétribuée.
+Règlement sur la rémunération assurable et la perception des cotisations
+1(1) Les définitions qui suivent s'appliquent au présent règlement.
+« allocation de retraite » Somme qu'une personne reçoit :
+a) soit en reconnaissance de longs états de service au moment où elle prend sa retraite d'une charge ou d'un emploi ou par la suite;
+b) soit à l'égard de la perte de sa charge ou de son emploi, que la somme soit reçue ou non à titre de dommages‑intérêts ou conformément à une ordonnance ou un jugement d'un tribunal compétent. (retiring allowance)
+[...]
+PARTIE I
+RÉMUNÉRATION ASSURABLE
+Rémunération provenant d'un emploi assurable
+2(1) Pour l'application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l'application du présent règlement, le total de la rémunération d'un assuré provenant de tout emploi assurable correspond à l'ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l'assuré reçoit ou dont il bénéficie et qui lui est versé par l'employeur à l'égard de cet emploi;
+b) le montant de tout pourboire que l'assuré doit déclarer à l'employeur aux termes de la législation provinciale.
+(2) Pour l'application de la présente partie, le total de la rémunération d'un assuré provenant d'un emploi assurable comprend la partie impayée de cette rémunération qui n'a pas été versée à cause de la faillite de l'employeur, de sa mise sous séquestre effective ou imminente ou d'un non-paiement de rétribution à l'égard duquel l'assuré a déposé une plainte auprès de l'organisme fédéral ou provincial de main-d'oeuvre. Est exclu du total de la rémunération tout montant impayé qui se rapporte au temps supplémentaire ou qui aurait été versé en raison de la cessation de l'emploi.
+(3) Pour l'application des paragraphes (1) et (2), sont exclus de la rémunération :
+[...]
+b) les allocations de retraite;
+[...]
+[8] Par conséquent, aux termes de l’article 9.1 du Règlement sur l’assurance‑emploi, lorsque la rémunération d’une personne est versée sur une base horaire, la personne est considérée comme ayant exercé un emploi assurable pendant le nombre d’heures qu’elle a effectivement travaillées et pour lesquelles elle a été rétribuée.
+[9] Selon la définition de « rémunération assurable », celle‑ci correspond au total de la rémunération qu'un assuré reçoit de son employeur à l’égard de son emploi, à l’exclusion d’une allocation de retraite. Une allocation de retraite est définie comme une somme qu’une personne reçoit à l’égard de la perte de son emploi, que la somme soit reçue ou non à titre de dommages‑intérêts.
+[10] L’avocat de la travailleuse a souligné qu’il n’y avait pas eu de rupture de la relation employeur‑employé pendant la période en cause. En d’autres mots, il a affirmé que, même si un employé ne travaillait plus, il ne s’ensuivait pas nécessairement qu’il n’existait plus de contrat de louage de services pendant la période concernée. La Cour d’appel fédérale[1] a reconnu qu’un contrat de louage de services existait tant qu’il n’y avait pas eu de rupture de la relation employeur‑employé. Elle a aussi reconnu qu’un contrat de louage de services pouvait exister même si l’employé ne fournissait plus de services. De plus, la Cour d’appel fédérale a indiqué dans sa décision qu’aucune disposition réglementaire n’était en cause et que, lorsque de telles dispositions étaient en cause, comme c’est le cas en l’espèce, elles devaient être examinées pour déterminer si un emploi était assurable. Par conséquent, qu’il y ait eu ou non une rupture de la relation employeur‑employé, il faut se demander en l’espèce si l’emploi était assurable à la lumière de l’article 9.1 du Règlement sur l’assurance‑emploi. À cet égard, je souscris au raisonnement que ma collègue la juge Lamarre a employé dans la décision Lefebvre c. Canada (Ministre du Revenu national – M.R.N.), [2004] A.C.I. nº 69 (QL), 2004CCI131, aux paragraphes 7 à 13.
+[11] Je suis d’accord avec l’avocat de la travailleuse pour dire qu’on ne peut pas considérer le salaire payé à la travailleuse comme une allocation de retraite à moins qu’il y ait eu une rupture de la relation employeur‑employé. Cependant, j’estime qu’il n’est pas nécessaire en l’espèce de déterminer s’il y a eu ou non une rupture de la relation en question pendant la période en cause parce que, de toute façon, la travailleuse n’exerçait pas, à mon avis, un emploi assurable pendant cette période. En fait, l’article 9.1 du Règlement sur l’assurance‑emploi prévoit que, lorsque la rémunération d’une personne est versée sur une base horaire, la personne est considérée comme ayant exercé un emploi assurable pendant le nombre d’heures qu’elle a effectivement travaillées et pour lesquelles elle a été rétribuée. En l’espèce, la preuve a révélé que la rémunération de la travailleuse était versée sur une base horaire et qu’elle n’avait pas travaillé les 279 heures pour lesquelles elle a été rétribuée.
+[12] Pour ces motifs, l’appel est accueilli, et la décision du ministre est annulée.
+Signé à Ottawa, Canada, ce 21e jour d’avril 2006.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 26e jour de juin 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI228
+Nº DU DOSSIER DE LA COUR : 2005‑3498(EI)
+INTITULÉ : Michael Legg et compagnie et
+le ministre du Revenu national et
+Deborah Griffiths
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 9 mars 2006
+MOTIFS DU JUGEMENT : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 21 avril 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Christina Ham
+Avocat de l’intervenante:
+Me Claude Marc Boudreau
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+Pour l’intervenante :
+Nom: Me Claude Marc Boudreau
+Cabinet : Boudreau Clermont
+Montréal (Québec)
+[1] Canada (Procureur général) c. Sirois, [1999] A.C.F. nº 523 (QL).

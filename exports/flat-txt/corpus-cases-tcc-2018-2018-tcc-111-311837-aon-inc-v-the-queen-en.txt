@@ -1,0 +1,145 @@
+Title: Aon Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/311837/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-111-311837-aon-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-06-14
+
+# Aon Inc. v. The Queen
+
+- Citation: 2018 TCC 111
+- Decision date: 2018-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5079, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aon Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-14
+Neutral citation
+2018 TCC 111
+File numbers
+2015-1043(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1043(IT)G
+BETWEEN:
+AON INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+The Honourable Justice Diane Campbell
+ORDER ON COSTS
+The Appellant is awarded costs in the amount of $150,000.00 as per the attached Reasons for Order on Costs.
+Signed at Ottawa, Canada, this 14th day of June 2018.
+“Diane Campbell”
+Campbell J.
+Citation: 2018 TCC 111
+Date: 20180614
+Docket: 2015-1043(IT)G
+BETWEEN:
+AON INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER ON COSTS
+Campbell J.
+[1] AON Inc. (“AON”) has brought a Motion asking that this Court award it a lump sum costs award of $200,000 under Rules 147(3.1) and 147(3) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) as follows:
+a) 50 percent of counsel fees incurred prior
+to the settlement offer $ 22,025.43
+b) 80 percent of counsel fees incurred after
+the settlement offer $ 94,271.60
+c) 100 percent of disbursements$ 56,481.78
+d) additional discretionary amount based on
+the factors in 147(3) of the Rules $ 27,221.00
+TOTAL: $200,000.00
+[2] The Respondent opposes the Motion on the following basis:
+a) AON’s settlement offer could not be accepted by the Respondent as it was not in accordance with the provisions of the Income Tax Act (the “Act”) and, consequently, the offer did not trigger subsection 147(3.1).
+b) The proper amount of costs should therefore be in accordance with Tariff B for a total of $47,138.26, comprised of counsel costs of $7,625 and disbursements of $39,513.26.
+c) If costs are to be assessed pursuant to subsection 147(3.1), because the Appellant’s offer triggered this provision, the total counsel costs should be no more than $95,171.60 and total disbursements of $39,513.26 would total $134,684.86.
+d) The disbursements should be reduced from the claimed amount of $56,481.78 to $39,513.26 based on:
+an “other invoice” in the amount of $8,874.00 which was in respect to research and memo preparation rendered for the period ending December, 2014 and therefore incurred prior to the initiation of the proceedings; and
+5 percent “administrative fee” of $8,094.52.
+[3] On March 13, 2015, AON filed a Notice of Appeal in respect to reassessments of its 2010 and 2011 taxation years. The issue before the Court was whether AON’s parking garage expenditures should be characterized as current in the year they were incurred or capital expenditures to be deducted over a number of years in accordance with the capital cost allowance rules. A Reply to the Notice of Appeal was filed on June 16, 2015.
+[4] On February 8, 2016, AON made a written offer of settlement to opposing counsel. It proposed that the installation cost of the waterproofing system be treated as a capital expenditure and that the balance of the expenses of $3,892,185.00 be treated as business expenses in the two taxation years.
+[5] Examinations for discovery and resulting undertakings were completed on March 31, 2016.
+[6] On May 2, 2016, AON wrote to the Court advising that the matter was ready to be set down for trial; however, the Respondent requested an additional 45 days to report to the Court.
+[7] On May 5, 2016, the Court granted the Respondent’s request for an extension of time directing the parties to report to the Court on or before June 20, 2016. On June 17, 2016, AON again requested that the matter be set down for hearing. On June 20, 2016, the Respondent requested a further extension of time of 45 days. The Court directed that a case management call be held in response to the Respondent’s request. During this call, the matter was set down for a two day hearing on January 18-19, 2017.
+[8] On July 25, 2016, AON retained a quantity surveying expert to address the Respondent’s assumption that the parking garage repairs were of considerable value in relation to the fair market value of the property.
+[9] On January 9, 2017, the Respondent made a written offer for settlement in which it proposed to characterize approximately $315,950 only of the total expenditure amount of $4,157,385 as a current expense. This offer was rejected on the same date.
+[10] The hearing, which was heard before Justice Jorré, lasted two days. On August 31, 2017, he rendered his reasons in which the Appellant was wholly successful, thereby obtaining a Judgment more favourable than its offer of settlement of February 8, 2016.
+[11] The starting point for any analysis of costs is that pursuant to section 147 of the Rules, this Court possesses a broad discretionary power when awarding and allocating costs or in refusing costs, including awarding all or part of the costs on a solicitor and client basis. In determining an award of costs, if any, that are not in accordance with the Tariff, the Court will consider the factors set out in subsection 147(3) of the Rules. The Court may fix costs, without reference to the Tariff scale, in determining that a lump sum award that replaces or is in addition to the Tariff is appropriate: “…party and party costs are not designed to constitute full compensation to the successful party for his solicitor and client costs.” (Smerchanski v MNR, [1979] 1 FC 801, at paragraph 12 (FCA). It is generally recognized in the case law that solicitor and client costs will only be awarded in exceptional circumstances involving one party’s misconduct or impropriety which affect the proceedings. The Supreme Court of Canada established the test for solicitor and client costs in Young v Young, [1993] 4 SCR 3, at paragraph 251, where the Court stated:
+…Solicitor-client costs are generally awarded only where there has been reprehensible, scandalous or outrageous conduct on the part of one of the parties. Accordingly, the fact that an application has little merit is no basis for awarding solicitor-client costs;…
+[12] In Continental Bank of Canada v The Queen, 94 DTC 1858, at paragraphs 9 and 10, the Court stated that neither the actual costs incurred by a party nor the complexity of the issues should justify departure from Tariff costs:
+…The fact that the amounts set out in the tariff appear to be inordinately low in relation to a party's actual costs is not a reason for increasing the costs awarded beyond those provided in the tariff. I do not think it is appropriate that every time a large and complex tax case comes before this court we should exercise our discretion to increase the costs awarded to an amount that is more commensurate with what the taxpayers' lawyers are likely to charge. It must have been obvious to the members of the Rules Committee who prepared the tariff that the party and party costs recoverable are small in relation to a litigant's actual costs. Many cases that come before this court are large and complex. Tax litigation is a complex and specialized area of the law and the drafters of our Rules must be taken to have known that.
+In the normal course the tariff is to be respected unless exceptional circumstances dictate a departure from it. Such circumstances could be misconduct by one of the parties, undue delay, inappropriate prolongation of the proceedings, unnecessary procedural wrangling, to mention only a few….
+[13] Although the decision on costs in Sommerer v The Queen, 2011 TCC 212, 2011 DTC 1162, appears to be a departure from the statements contained in Continental Bank, both reached the conclusions they did after a consideration of the factors listed in subsection 147(3) of the Rules. As noted in Sommerer, an award of costs will be “more art than science” in reaching the result. There is no rigid formula that a judge employs in reaching a decision on an award of costs. It will involve a consideration of the factors listed in subsection 147(3), as well as any other factors pertinent to the case, in deciding what is reasonable, fair and appropriate for an unsuccessful litigant to pay, given the particular circumstances and facts of each individual case. In exercising its broad discretion, this Court must do so on a principled basis.
+[14] AON is requesting a lump sum award of costs based on both subsection 147(3.1) and subsection 147(3) of the Rules. Subsection 147(3.1) states:
+147(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+[15] A number of cases have placed significant importance and weight on the existence of offers to settle in the determination of an award of costs (Swain v The Queen, 2012 TCC 46, 2012 DTC 1086; Langille v The Queen, 2009 TCC 139, 2009 DTC 1103; ACSIS EHR v The Queen, 2016 TCC 50, 2016 DTC 1047). Subsection 147(3.1) of the Rules provides that, where a successful party has made an offer of settlement prior to the hearing and obtains a judgment at the hearing that is more favourable than the terms of that offer, it will be entitled to party and party costs up to the date on which it made the offer. It may also be entitled to substantial indemnity costs after the date of the offer and reasonable disbursements.
+[16] AON submits that it is entitled to costs under subsection 147(3.1) of $172,778 plus an additional amount of $27,221 in light of the factors listed in subsection 147(3). AON’s offer of settlement was made on February 5, 2016. It took the Respondent eleven months to contact the Appellant. When the Respondent did respond on January 9, 2017, it was just a few days prior to the commencement of the hearing. An alternate proposal for settlement was made but rejected by AON on the same day. In the Respondent’s Written Submissions on Costs, it is submitted that the offer by AON could not be accepted as it was not in accordance with the Act. The Respondent argued that the additional claimed business expenses of $3,892,185 could not be allowed as per that offer because the full amount in issue of $4,157,385 had already been included as business expenses in Class 3 for the purposes of claiming capital cost allowance. The Respondent submits that if AON’s offer had been accepted, it would have resulted in an inconsistent tax treatment of the same expenses and would have entitled AON to claim deductions twice in respect to the same expenses. Consequently, since AON’s offer could not be accepted in the form that it was presented, as a matter of law, the offer could not trigger the suggested cost consequences that AON is requesting from the Court (CIBC World Markets Inc. v The Queen, 2012 FCA 3). None of these objections to the offer had been raised with the Appellant prior to the written submissions on costs.
+[17] AON, in its Reply Submissions on Costs, accepted the general rule set out in CIBC World Markets that only principled offers can be accepted as a matter of law and only those offers will trigger cost consequences under subsection 147(3.1). However, AON distinguished the facts in that case from the present facts in this appeal. The taxpayer in CIBC World Markets proposed to settle its GST appeal on the basis of a proposed 90 percent of the total input tax credits at issue. The court held that this was an all or nothing issue and the taxpayer had not made a qualifying offer according to the principled basis of settlement (See also Hine v The Queen, 2012 TCC 295, 2012 DTC 1244). In CIBC World Markets, the assessment could either be confirmed or rejected in its entirety; however, AON’s appeal concerned the characterization of expenditures as current or capital with AON arguing that the Respondent could legally accept that some of those expenses were current and some were capital. While I accept AON’s submission in this regard, it does not address the Respondent’s argument that AON’s offer would result in double taxation. It did not recognize or address the fact that the expenditures had already been included in Class 3 for the purposes of capital cost allowance meaning that these same expenses would have been deductible as a business expense while also being a depreciable amount under the capital cost allowance rules. AON simply stated at paragraph 4 of its submissions that “This is an incorrect and unfair interpretation of AON’s offer” without giving the reasons to support why it believed the Respondent’s characterization was incorrect. While I accept that AON did not intend to claim those expenses twice, I cannot accept its suggestion that had the Respondent “…accepted AON’s offer, the Minister could easily have made the necessary consequential adjustments to any expense that was already being depreciated under the CCA rules so as to ensure that there will be no double deduction.” (Appellant’s Reply Submissions on Costs, paragraph 6). I assume that it should have been a relatively easy adjustment for the Minister to make but I simply do not know.
+[18] It is interesting to note that in light of its reasoning, the Federal Court of Appeal would likely have granted CIBC World Markets costs if the offer of settlement had involved 100 percent of the input tax credits. The recent case law suggests that limitations may be placed on the type of settlement offers that can be used to support an award of enhanced costs. Although I have reservations in respect to the impact that settlement offers may have on cost awards as a result of this jurisprudence, the take away to parties presenting settlement offers is that those offers must be carefully drafted and clearly worded to ensure that the proposed tax treatment is in accordance with the Act, particularly if that offer is to be used to support a request for enhanced costs after a successful outcome in court. Although the issue in this appeal is not an “all or nothing” scenario, it is my belief that the Minister, or for that matter any party to a proceeding, has a responsibility in all appeals before this Court to consider the merits of a settlement offer and to respond to the opposing party within a reasonable period of time. That did not occur here and, according to AON’s submissions, the first time, that the Respondent raised the potential for double deductions, was in the written submissions on costs. On a review of the transcripts, this would appear to be the first instance. After AON’s settlement offer on February 8, 2016, the parties continued to proceed with all of the required litigation steps until the Respondent decided to present a counter-offer on January 9, 2017, a few days before the scheduled hearing. Given these circumstances, it is my view that AON’s offer is a valid offer subject to whatever adjustments might have been required to avoid a double deduction. While I cannot consider it within subsection 147(3.1), I see no reason why I cannot consider it as a factor in an award of costs in terms of the weight I can give to it along with the other factors listed in subsection 147(3). I believe I am able to do so based on the very broad wording contained in paragraph 147(3)(d), where it states that this Court can consider “any offer of settlement made in writing.”
+[19] I turn now to those factors listed in subsection 147(3) that are applicable in this appeal:
+a) The Result of the Proceeding
+[20] The Appellant was entirely successful in its appeal as Justice Jorré concluded that the expenditures in issue were a current expense.
+b) Amounts in Issue
+[21] The amount at issue was $4,157,385 in expenditures, which is not an insignificant amount.
+c) Importance of the Issues
+[22] Although this case may serve as a guideline for a taxpayer faced with the characterization of a similar expenditure, it has no particular importance in the jurisprudence in this area of the law. From the perspective of AON, the characterization of the parking garage expenditures would be of particular importance.
+d) Offer of Settlement Made in Writing
+[23] My prior conclusion in this regard is that AON’s offer of February 8, 2016 may be given consideration under this factor even though, based on the jurisprudence, I am precluded from considering it in an award of costs under subsection 147(3.1). In addition, AON is seeking an award of costs on a lump sum basis and although it referenced subsection 147(3.1), it did so “…merely to provide a benchmark to assist the Court in the determination of a fair and appropriate costs award.” AON’s offer in the strict sense was not a principled offer. The test, for whether any offer is principled, is whether it is possible to conclude that the tax consequences, presented in the offer and that are to be agreed upon between the parties, will be in compliance with a reasonable interpretation of a tax statute as it applies to the taxpayer’s circumstances. The offer did not consider those elements. The Respondent could not accept it in the manner that it was written as it would have created a situation where AON would have been given a tax treatment in the form of a double deduction. Based on my reasoning in Campbell v The Queen, 2010 TCC 323, 2010 DTC 1221, which was cited by the Federal Court of Appeal in Transalta Corp. v The Queen, 2013 FCA 285, 2014 DTC 5018, the Respondent is not obligated to propose settlement alternatives. However, in my decision in Campbell, the Respondent promptly rejected the taxpayer’s offer. In AON’s appeal, the Respondent remained silent and took no action until several days prior to the hearing. Paragraph 147(3)(d) contemplates that the circumstances, respecting a written offer of settlement, will be considered in an award of costs particularly when considering enhanced costs pursuant to a lump sum award.
+e) Value of Work
+[24] There were five witnesses in total with an expert qualified for each party. It would appear that the work and hours are commensurate with the preparation necessary for this type of appeal.
+f) Complexity of Issues
+[25] A review of the transcripts and the reasons of Justice Jorré do not reveal that there was any particular complexity in respect to the issue in the appeal. In support of my conclusion, at paragraph 12 of the decision, it states:
+[12] There are no quantum issues, no credibility issues and there are no significant factual issues; the case turns on the proper characterization of the facts in the context of the applicable law.
+g) Conduct of Any Party Tending to Lengthen or Shorten an Appeal
+[26] The Appellant submits that it faced numerous delays in bringing the appeal before the Court, many of which were occasioned by the Respondent’s conduct which unnecessarily lengthened the proceedings. That conduct included the lack of availability of the Respondent’s nominee for examinations for discovery for over three months and multiple requests for extensions of time that culminated in Appellant counsel requesting a case management conference call to move the matter forward. This factor supports an enhanced award of costs.
+h) Denial, Neglect or Refusal of Any Party to Admit Something that should have been Admitted
+[27] The Appellant contends that, because of the Respondent’s refusal to admit the value of the reproduction cost of the buildings, AON was forced to retain an expert to introduce evidence in this regard at the hearing. This required additional time and expense in the preparation for the hearing. In the Appellant’s submissions, it noted that it was unclear why the Respondent refused to admit this fact “…as no contradictory evidence was led by the Crown at the hearing.” (Appellant’s Costs Submissions, paragraph 38(c)).
+i) Improper, Vexatious or Unnecessary Conduct
+[28] This factor is not applicable to this appeal.
+j) Any Other Matter Relevant to the Question of Costs
+[29] The Respondent’s conduct has been discussed under several other factor headings. However, let me again point out that any party, who refuses to turn its mind to a settlement offer within a reasonable period of time, even if it is simply to reject it, runs the risk of enhanced costs being awarded against it. The comments of Wagner, J. (as he was then) in Union Carbide Canada Inc. v Bombardier Inc., 2014 SCC 35, [2014] 1 SCR 800, at paragraph 32, support my conclusions in this regard: “Encouraging settlements has been recognized as a priority in our overcrowded justice system,…”.
+Mitigating Factors in Respect to the Appellant’s Claim of a Lump Sum Award of $200,000.00
+[30] It appears that a portion of the costs and disbursements that the Appellant claims, was incurred prior to the filing of the Notice of Appeal. The Appellant did not indicate nor support which items were specifically related to the drafting of the Notice of Appeal. Consequently, they must be denied. (Repsol Canada Ltd. v The Queen, 2015 TCC 154, 2015 DTC 1151). The only entry, in the relevant invoice for that period that appears to pertain to the drafting of the Notice of Appeal, is the entry of January 12, 2015. It represents approximately $3,500.00 of a $16,500.00 account and it is the only amount that can be permitted.
+[31] I also reject the Appellant’s submission that this Court should adopt a modern approach to the computation of disbursements in support of a 5 percent “administrative fee”. Under subsection 157(3) disbursements must be incurred and the party must be liable to pay them. This administrative fee appears on a number of invoices representing a total disbursement of $8,064.52, but it contains no breakdown of that total amount as it relates to the litigation. Although the Appellant submits that they relate to copying, faxing, printing and postage, the Respondent will not be required to reimburse the Appellant for a disbursement where no particulars are provided to support the amount claimed.
+[32] Finally, the amount of $8,874.00 for “professional fees for research and preparation of a memo” contained in an invoice dated January 31, 2015 cannot be permitted as a disbursement. Although the Appellant argues that the amount did not include any counsel fees, on the face of that invoice, there are no particulars to support that the amount was a disbursement for which the Appellant should be reimbursed as part of an award of costs.
+[33] In summary, the disbursement amount claimed by the Appellant of $56,481.78 should be reduced by the amounts of $13,000.00, $8,064.52 and $8,874.00 for a total reduction of $29,938.52.
+Conclusion
+[34] Taking into consideration all of the factors, particularly my comments in respect to the Appellant’s settlement offer and the Respondent’s subsequent conduct, I believe a lump sum award of costs in the amount of $150,000.00 is justified in the circumstances. This also takes into account the reduction of approximately $30,000.00 in respect to disbursements claimed as part of the lump sum request of $200,000.00 submitted by the Appellant.
+Signed at Ottawa, Canada, this 14th day of June 2018.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2018 TCC 111
+COURT FILE NO.:
+2015-1043(IT)G
+STYLE OF CAUSE:
+AON INC. AND THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Justice Diane Campbell
+DATE OF ORDER:
+June 14, 2018
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Justin Kutyan
+Adam Gotfried
+Firm:
+KPMG Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,131 @@
+Title: Bonik Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27644/index.do
+Corpus path: corpus/cases/tcc/2006/2007-cci-267-27644-bonik-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-11-22
+
+# Bonik Inc. v. The Queen
+
+- Citation: 2007 CCI 267
+- Decision date: 2006-11-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 400, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bonik Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-22
+Référence neutre
+2007 CCI 267
+Numéro de dossier
+2000-3494(GST)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2000-3494(GST)G, 2000-3495(GST)G
+2000-3496(GST)G, 2000-3497(GST)G
+ENTRE :
+BONIK INC., BOKRIKA INC., SERBCAN INC.,
+et THE NIKOLIC CHILDREN TRUST,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 22 novembre 2006 à Toronto (Ontario)
+Devant : L’honorable C.H. McArthur, juge
+Comparutions :
+Avocat des appelantes :
+Me Ronald B. Moldaver, c.r.
+Avocate de l’intimée :
+Me Bobby Sood
+____________________________________________________________________
+ORDONNANCE
+Une requête ayant été présentée par l’avocat des appelantes en vue de l’obtention d’une ordonnance concernant les dépens de l’instance et d’instances connexes, en vue de la modification des motifs de jugement prononcés dans l’appel 2000‑3494(GST)G de Bonik Inc., et en vue de l’obtention de directives au sujet des arguments additionnels à présenter dans le cas où les motifs de jugement seraient modifiés;
+L’affidavit de Marty Johnson, qui a été déposé, et les autres documents qui ont été déposés ayant été lus, et les avocats des parties ayant été entendus;
+Il est ordonné que la requête des appelantes soit rejetée, les dépens étant adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 3e jour de mai 2007.
+« C.H. McArthur »
+Juge McArthur
+Référence : 2007CCI267
+Date : 20070503
+Dossiers : 2000-3494(GST)G, 2000-3495(GST)
+2000-3496(GST)G, 2000-3497(GST)G
+ENTRE :
+BONIK INC., BOKRIKA INC., SERBCAN INC.,
+et THE NIKOLIC CHILDREN TRUST,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge McArthur
+[1] Cette requête, présentée par les appelantes, vise l’obtention d’une ordonnance au sujet de dépens afférents à l’audition des appels, la modification des motifs de jugement prononcés dans l’appel 2000‑3494(GST)G de Bonik Inc., et la présentation d’arguments additionnels, en cas de modification des motifs de jugement, et ce, pour les motifs suivants :
+[traduction]
+1. Les appelantes ont eu gain de cause;
+2. Les résultats qui ont été obtenus sont meilleurs que ce qui était prévu dans l’offre de compromis soumise par les appelantes avant l’audience;
+3. Dès le début et pendant toute la durée de l’audition des appels, l’intimée a contesté en vain à plusieurs reprises la qualité pour agir des appelantes et la capacité des principaux témoins des appelantes de mener ou d’influencer par ailleurs la conduite des appels, la chose ayant eu pour effet, avec le contre‑interrogatoire injustifié, de prolonger inutilement le temps consacré à la présentation de la preuve et de l’argumentation;
+4. En ce qui concerne l’appelante Bonik, dans le dossier du greffe 2000‑3494(GST)G, le juge McArthur a par inadvertance mal interprété les motifs du juge Loukidelis et ses ordonnances et si la prétention de l’appelante est exacte sur ce point, le résultat obtenu en l’espèce serait différent et serait plus avantageux pour l’appelante.
+[2] J’examinerai d’abord la demande relative aux dépens. Aucuns dépens n’ont été adjugés aux appelantes, et ce, pour plusieurs raisons, que je tenterai d’énoncer. Selon le calcul effectué par l’intimée, que je retiens, les appelantes ont eu dans l’ensemble gain de cause dans une proportion de moins de 5 p. 100. Il y avait quatre appelantes, liées les unes aux autres, et quatre appels. Trois appels ont été entendus sur preuve commune; le quatrième, l’appel Bokrika, a été entendu séparément et a été accueilli. Cet appel se rapportait à un montant de 32 470 $, soit un montant minime par rapport à l’ensemble des montants, qui s’élevaient en tout à environ 873 000 $ dans les quatre appels. En décidant de n’accorder les dépens à aucune des deux parties, j’ai tenu compte des quatre appels.
+[3] Les quatre appelantes ont été considérées comme une seule partie jusqu’à la date de l’audience. Je conclus qu’en fait elles ont été à l’origine de la plupart des retards, entre le moment où les appels ont commencé, en l’an 2000, et l’audience, en 2006. Les dates d’audience ont été fixées à six reprises, et cinq ajournements ont été accordés. Il y a eu trois audiences sur l’état de l’instance, et une audience devant le juge Bowman, au mois de juillet 2005, les appelantes devant établir pourquoi les appels ne devaient pas être rejetés à cause des retards qui leur étaient imputables. Les appelantes ont changé d’avocats au moins quatre fois au cours de la période de cinq ou six ans.
+[4] L’appel Bokrika a été accueilli et les requêtes en jugement sommaire de l’intimée ont été rejetées, mais on ne saurait omettre de tenir compte du comportement général des appelantes, malgré l’offre écrite de règlement. En outre, aucuns dépens n’ont été adjugés à l’intimée, qui a dans une large mesure eu gain de cause. Les appelantes ont déposé des documents qui étaient souvent en double et en désordre. En règle générale, le plaideur qui l’emporte a droit aux dépens entre parties. Lorsque le succès est partagé, il n’est pas inhabituel qu’aucune ordonnance ne soit rendue au sujet des dépens, comme c’est ici le cas[1].
+[6] L’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) confère à la Cour de larges pouvoirs discrétionnaires; il est libellé comme suit :
+147(1) Sous réserve des dispositions de la Loi, la Cour a entière discrétion pour adjuger les frais et dépens aux parties à une instance, pour en déterminer la somme, pour les répartir et pour désigner les personnes qui doivent les supporter.
+147(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+147(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.[2]
+147(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+147(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur‑client.
+L’avocate de l’intimée a demandé qu’un montant de 20 000 $ soit adjugé au ministre du Revenu national au titre des dépens. Je conclus que l’intimée est plus méritante que les appelantes, mais en exerçant ma discrétion, j’estime que la conclusion la plus équitable consiste à n’adjuger aucuns dépens.
+[7] Quant à la seconde demande des appelantes, je suis d’accord avec l’avocate de l’intimée pour dire que les Règles de la Cour ne prévoient pas la modification des motifs de jugement. Les appelantes ne demandent pas une modification de l’ordonnance, et la modification demandée n’aurait pas pour effet de modifier l’ordonnance. Les conclusions que j’ai tirées étaient conformes à la preuve présentée à l’instruction. En outre, l’appel Bonik n’a pas été rejeté pour ce qui est de la question de savoir si le bâtiment était utilisé comme résidence. L’appel a été rejeté pour le motif que l’appelante n’avait pas réussi à établir les crédits de taxe sur les intrants qui étaient demandés et non à cause d’une conclusion tirée au sujet de la décision rendue par le juge Loukidelis. Pour ces motifs, la requête est rejetée, les dépens étant adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 3e jour de mai 2007.
+« C.H. McArthur »
+Juge McArthur
+RÉFÉRENCE : 2007CCI267
+Nos DES DOSSIERS DE LA COUR : 2000-3494(GST)G, 2000-3495(GST)G
+2000-3496(GST)G, 2000-3497(GST)G
+INTITULÉ : BONIK INC., BOKRIKA INC., SERBCAN INC. et THE NIKOLIC CHILDREN TRUST
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 22 novembre 2006
+MOTIFS DE L’ORDONNANCE : L’honorable C.H. McArthur
+DATE DE L’ORDONNANCE : Le 3 mai 2007
+COMPARUTIONS :
+Avocat des appelantes :
+Me Ronald B. Moldaver, c.r.
+Avocate de l’intimée :
+Me Bobby Sood
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : Me Ronald B. Moldaver, c.r.
+Cabinet : Traub, Moldaver
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Juge Bowman, dans Merchant v. The Queen, [1998] 3 C.T.C. 3205, p. 58.
+[2] J’ai tenu compte de tous ces critères.

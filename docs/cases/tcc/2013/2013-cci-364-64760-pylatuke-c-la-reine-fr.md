@@ -1,0 +1,203 @@
+---
+title: "Pylatuke c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64760/index.do"
+last_modified: "2013-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 364"
+citation2: ""
+neutral_citation: "2013 CCI 364"
+decision_date: "2013-11-21"
+language: "fr"
+item_id: "64760"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5892
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:56:14.832000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "709cdd26e0f4da098b97d1c234324483c2bc8a77ef42d6d291302301bef68642"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pylatuke c. La Reine
+
+- Citation: 2013 CCI 364
+- Decision date: 2013-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5892, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pylatuke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-11-21
+Référence neutre
+2013 CCI 364
+Numéro de dossier
+2012-1749(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1749(IT)G
+ENTRE :
+GREGORY E. PYLATUKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requêtes entendues le 3 septembre 2013, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelant :
+Me Grant Carson
+Avocat de l’intimée :
+Me John Krowina
+ORDONNANCE
+La requête de l’intimée en vue de faire annuler l’appel relatif à l’impôt sur le revenu de 2006 de l’appelant est rejetée; la requête de l’appelant en vue d’obtenir une prorogation du délai imparti pour déposer un appel concernant l’année d’imposition 2006 est accueillie, et l’avis d’appel déposé le 30 avril 2012 est réputé être un avis d’appel valable ayant été déposé à la date de la présente ordonnance. Chacune des parties supportera les dépens qui lui sont propres.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2013.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 28e jour de février 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 364
+Date : 20131121
+Dossier : 2012-1749(IT)G
+ENTRE :
+GREGORY E. PYLATUKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Favreau
+[1] L’intimée a déposé une requête visant à faire annuler l’appel relatif à l’impôt sur le revenu de 2006 de l’appelant parce que ce dernier l’a interjeté en déposant son avis d’appel auprès de la Cour après l’expiration du délai imparti pour interjeter appel en vertu du paragraphe 169(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée (la « Loi »).
+[2] Selon l’intimée :
+a) aucune demande de prorogation du délai imparti pour interjeter appel n’a été présentée en vertu du paragraphe 167(1) de la Loi;
+b) le délai dans lequel peut être déposée une demande de prorogation du délai imparti pour interjeter appel en l’espèce a expiré;
+c) une condition préalable à l’introduction d’un appel valable n’a pas été remplie.
+[3] L’appelant a présenté une requête visant à obtenir une prorogation du délai dans lequel son appel peut être interjeté, et ce, jusqu’à la date du dépôt de l’avis d’appel inclusivement, en vertu du paragraphe 167(1) de la Loi.
+[4] Selon l’appelant :
+a) le ministre du Revenu national (le « ministre ») ne l’a pas informé en temps opportun, s’il l’a même informé, de l’existence d’une nouvelle cotisation ou d’une décision concernant une opposition;
+b) l’intimée a déposé en l’instance une réponse qui ne faisait pas état d’un problème de délai ou de l’obligation d’obtenir une prorogation de délai en vue d’interjeter appel;
+c) l’intimée, dans sa réponse, a confirmé sa réponse à une dénégation de connaissance;
+d) la date du début de l’appel ne devrait pas être antérieure au 27 février 2012;
+e) dans ces circonstances, le délai imparti pour demander une prorogation ne devrait pas être calculé en fonction d’une date antérieure au 11 juin 2013;
+f) il n’a pas reçu l’avis de ratification de la nouvelle cotisation et il a bel et bien interjeté appel dans le délai prescrit.
+La chronologie des faits
+[5] Selon les observations supplémentaires de l’intimée, la chronologie des faits survenus en l’espèce est la suivante :
+a) l’appelant a fait l’objet d’une nouvelle cotisation concernant son année d’imposition 2006 le 11 juin 2009;
+b) l’appelant a déposé une opposition, qui portait la date du 9 septembre 2009 et que le ministre a reçue le 17 septembre 2009;
+c) l’opposition a été déposée en retard, mais le ministre a estimé qu’elle a été reçue le 4 février 2010;
+d) l’appelant a par la suite fait l’objet d’une seconde nouvelle cotisation, dont il est fait état dans un avis de nouvelle cotisation daté du 19 janvier 2012;
+e) une lettre expliquant la décision ayant donné lieu à l’avis de nouvelle cotisation du 19 janvier 2012 (la « nouvelle cotisation ») a été envoyée à l’appelant en personne, avec copie à son avocat, le 19 janvier 2012;
+f) l’avis d’appel a été déposé le 30 avril 2012;
+g) le délai de 90 jours suivant le 19 janvier 2012 expire le 18 avril 2012;
+h) le délai d’un an suivant le 18 avril 2012 expire le 18 avril 2013;
+i) aucune demande de prorogation du délai imparti pour déposer l’avis d’appel n’a été présentée avant le 18 avril 2013;
+j) la réponse a été déposée le 28 septembre 2012.
+Les questions en litige
+[6] Les questions en litige sont les suivantes :
+a) le délai applicable pour déposer l’avis d’appel a-t-il expiré avant la date à laquelle cet avis a été déposé?
+b) dans l’affirmative, le dépôt de l’avis d’appel peut-il remplacer le dépôt d’une demande en vertu de l’article 167 de la Loi?
+c) quelle est l’importance, le cas échéant, du fait que l’intimée a déposé la réponse avant la date à laquelle la requête a été déposée?
+Le droit applicable
+[7] Le paragraphe 169(1) de la Loi prévoit un délai de 90 jours suivant la date à laquelle l’avis est envoyé au contribuable dans les cas où le ministre a établi une nouvelle cotisation en vertu de l’article 165.
+[8] Le texte du paragraphe 169(1) est le suivant :
+Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+[…]
+[9] Aucun appel visé au paragraphe 169(1) ne peut être interjeté après l’expiration du délai de 90 jours suivant la date à laquelle a été envoyé au contribuable par la poste, en vertu de l’article 165, l’avis selon lequel le ministre a ratifié la cotisation ou établi une nouvelle cotisation. Le délai dans lequel un appel peut être interjeté auprès de la Cour est de 90 jours après la date à laquelle l’avis de ratification de la nouvelle cotisation a été envoyé par la poste à l’appelant. Étant donné que l’avis de ratification a été envoyé par la poste à l’appelant le 19 janvier 2012, ce délai de 90 jours a expiré longtemps avant le dépôt de l’avis d’appel, soit le 30 avril 2012.
+[10] Un contribuable peut présenter une demande de prorogation du délai dans lequel un appel peut être interjeté auprès de la Cour. C’est l’article 167 de la Loi qui régit ces demandes :
+167(1) Le contribuable qui n’a pas interjeté appel en application de l’article 169 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. La Cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+(2) La demande doit indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai imparti.
+(3) La demande, accompagnée de trois exemplaires de l’avis d’appel, est déposée en trois exemplaires au greffe de la Cour canadienne de l’impôt conformément à la Loi sur la Cour canadienne de l’impôt.
+(4) La Cour canadienne de l’impôt envoie une copie de la demande au bureau du sous-procureur général du Canada.
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai imparti en vertu de l’article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[11] Au vu des faits de l’espèce, la principale question en litige consiste à savoir si le ministre a envoyé par la poste la nouvelle cotisation à l’appelant le 19 janvier 2012. Ce dernier soutient que ni lui ni son avocat ne l’ont reçue.
+[12] Tant l’appelant que l’intimée ont déposé des affidavits sous serment sur cette question.
+[13] L’intimée a déposé un affidavit de M. Young-Hamel, agent d’appel auprès de l’Agence du revenu du Canada, établi sous serment le 29 août 2013. Dans son affidavit, M. Young-Hamel déclare notamment ce qui suit :
+[traduction]
+4. Le 19 janvier 2012, un avis de nouvelle cotisation a été envoyé à l’appelant. Une copie de cet avis est jointe en tant que pièce « D » à l’affidavit de Shelley Eichorn, établi sous serment le 29 janvier 2013.
+5. Un formulaire T7W‑C, daté du 19 janvier 2012, était joint à l’avis de nouvelle cotisation du 19 janvier 2012. Un exemplaire de ce formulaire est joint ci-après et désigné pièce « A ».
+6. Une lettre expliquant la modification apportée à la cotisation de l’appelant a été envoyée à celui-ci par courrier recommandé le 19 janvier 2012. Une copie de cette lettre est jointe ci-après et désignée pièce « B ».
+7. Une copie conforme de la lettre a été envoyée à l’avocat de l’appelant, Me Carson. L’appelant a autorisé l’Agence à communiquer avec Me Carson pour son compte, par une autorisation écrite datée du 3 août 2011.
+8. L’adresse qu’a l’Agence dans ses dossiers pour Me Carson est : Carson & Company Law Offices, 803 Main St., Melfort, SK, S0E 1A0.
+9. La copie de la lettre du 19 janvier 2012 aurait été envoyée à Me Carson par courrier ordinaire.
+10. En règle générale, je mets une lettre dans une enveloppe et je dépose ensuite celle-ci dans le panier de « sortie », où notre commis au courrier la ramasse.
+11. Le commis au courrier ramasse le courrier une fois dans la matinée et une fois dans l’après-midi. D’après ce que j’ai compris, les enveloppes quittent habituellement notre bureau le lendemain.
+12. Jamais l’appelant ou Me Carson n’ont communiqué avec l’Agence pour dire qu’ils n’avaient pas reçu la nouvelle cotisation du 19 janvier 2012 ou la lettre explicative portant la même date.
+[14] L’appelant a déposé deux affidavits, l’un de Mme Cindy Nelson, assistante juridique auprès du cabinet d’avocats Carson & Co., établi sous serment le 30 août 2013, et l’autre de lui-même, établi sous serment le 21 août 2013. Dans son affidavit, Mme Nelson affirme :
+[traduction]
+3. J’ai fait une recherche dans notre dossier 24 226, qui se rapporte au dossier 2012‑179(IT)G de la Cour canadienne de l’impôt, afin de déterminer si l’on avait reçu les pièces « A » et « B » jointes à l’affidavit de Jonathon Young‑Hamel, établi sous serment le 29 août 2013. Je puis dire catégoriquement que lesdites pièces « A » et « B » ne sont jamais parvenues à nos bureaux par le courrier ordinaire, ou d’une autre façon. Je connais très bien le système de livraison et de réception du courrier national recommandé qu’applique Postes Canada. J’ai lu l’affidavit de Jonathon Young‑Hamel, établi sous serment le 29 août 2013, dans lequel ce dernier allègue au paragraphe 6 que la pièce « B » a été envoyée par courrier recommandé à l’appelant le 19 janvier 2012.
+4. Est annexée au présent affidavit, en tant que pièce « A », une copie recto-verso conforme d’un récépissé de poste recommandée.
+5. Si, comme l’affirme M. Jonathon Young‑Hamel, du courrier recommandé a été envoyé à Gregory Pylatuke, le dossier de ce dernier contiendrait le numéro de suivi à 11 chiffres, de même que, au verso, le timbre du lieu d’acceptation confirmant l’arrivée du courrier au bureau de poste de Saskatoon.
+6. Une fois que le courrier recommandé arrive au lieu d’acceptation, il est alors possible, par l’entremise du site Web de Postes Canada, de faire le suivi de la livraison grâce au numéro à 11 chiffres. Il est possible d’obtenir un résultat de recherche si le courrier arrive bel et bien à son point de destination, à Quill Lake, en Saskatchewan.
+7. Le fait que Jonathon Young‑Hamel n’ait pu produire le code de suivi à 11 chiffres du courrier recommandé ou un résultat quelconque du site Web quant au point de destination du courrier me donne à penser que le courrier ne s’est jamais rendu au bureau de poste de Saskatoon.
+[15] Dans son affidavit, M. Pylatuke affirme, notamment :
+[traduction]
+4. Que je n’ai jamais reçu une lettre semblable ni aucun avis de nouvelle cotisation au sujet de mon appel personnel. La première notification des résultats de ma cotisation est arrivée sous la forme d’un état de compte indiquant que je devais 210 743,03 $. Une copie de cet état de compte est annexée à la présente en tant que pièce « B ». Le 21 août 2013, avant que je signe le présent affidavit, on m’a montré la pièce « D » jointe à l’affidavit de Shelley Eichorn, qui constitue censément la décision concernant mon opposition. Je n’ai jamais reçu ce document et c’était la première fois que je le voyais.
+5. Après avoir reçu l’état de compte qui figure à la pièce « B », j’ai transmis le document à mon avocat avec la feuille d’accompagnement du télécopieur datée du 2 mars 2012, annexée ci-après en tant que pièce « C ». À ce moment, un avis d’appel avait déjà été déposé auprès de la Cour canadienne de l’impôt (le 2 mars 2012).
+6. Mon avocat, Grant Carson, m’a informé – et je suis sincèrement convaincu de ce fait – que le cabinet d’avocats Carson & Co. n’a pas reçu d’avis de nouvelle cotisation concernant mon appel personnel.
+7. Au début d’avril 2012, j’ai reçu l’état de compte comportant la date de traitement du 30 mars 2012, et annexé ci-après en tant que pièce « D ». Le 10 avril 2012, j’ai transmis cet état de compte à mon avocat en lui donnant instruction d’interjeter appel pour les mêmes motifs (reformulés ou non) que ceux contenus dans l’appel d’entreprise déposé le 2 mars 2012.
+8. Dans le cas présent, l’intimée n’a fait état d’aucune opposition relative aux délais au moment de déposer sa réponse à notre avis d’appel, et cette question a été évoquée pour la première fois aux environs du 11 juin 2013.
+[16] Compte tenu des éléments de preuve dont je dispose, je suis convaincu que la nouvelle cotisation concernant l’année 2006 a été établie le 19 janvier 2012. Cependant, le dossier ne me convainc pas que l’avis a été envoyé par la poste à l’appelant et à son avocat. Il faudrait que l’intimée produise une preuve plus précise de l’envoi par la poste de la nouvelle cotisation en question, surtout si elle a été envoyée par courrier recommandé.
+[17] Le fait que l’appelant ait pris connaissance de la nouvelle cotisation concernant l’année 2006 quand il a reçu, le 2 mars 2012, un état de compte daté du 27 février 2012, montrant qu’une nouvelle cotisation pour 2006 avait été établie le 19 février 2012 et qu’il n’ait rien fait pour obtenir une copie de cette nouvelle cotisation, n’a pas pour effet de valider la nouvelle cotisation.
+[18] Dans les circonstances, je rejette la requête de l’intimée et je fais droit à la requête de l’appelant en vue d’obtenir une prorogation du délai imparti pour interjeter un appel concernant l’année d’imposition 2006. L’avis d’appel déposé le 30 avril 2012 est réputé être un avis d’appel valable ayant été déposé à la date de la présente ordonnance. Les questions soulevées dans la nouvelle cotisation de 2006 seront alors entendues sur le fond. Compte tenu de ma décision concernant le premier point soulevé dans la requête de l’intimée, il n’est pas nécessaire que je traite des autres questions qui y figurent. Chacune des parties supportera les dépens qui lui sont propres.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2013.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 28e jour de février 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 364
+No DU DOSSIER DE LA COUR : 2012-1749(IT)G
+INTITULÉ : Gregory E. Pylatuke et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 3 septembre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 21 novembre 2013
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Grant Carson
+Avocat de l’intimée :
+Me John Krowina
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelant :
+Nom : Grant Carson
+Cabinet : Carson & Co.
+Melfort (Saskatchewan)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

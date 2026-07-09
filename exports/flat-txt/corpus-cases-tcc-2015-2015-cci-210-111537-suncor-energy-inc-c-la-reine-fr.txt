@@ -1,0 +1,165 @@
+Title: Suncor Energy Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/111537/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-210-111537-suncor-energy-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-11-16
+
+# Suncor Energy Inc. c. La Reine
+
+- Citation: 2015 CCI 210
+- Decision date: 2015-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2635, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Suncor Energy Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-16
+Référence neutre
+2015 CCI 210
+Numéro de dossier
+2011-4013(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-4013(IT)G
+ENTRE :
+SUNCOR ÉNERGIE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 30 avril 2015, à Calgary (Alberta)
+Devant : L'honorable juge en chef Eugene P. Rossiter
+Comparutions :
+Avocat de l'appelante :
+Me Jehad Haymour
+Avocat de l'intimée :
+Me Ifeanyi Nwachukwu
+ORDONNANCE MODIFIÉE
+La Cour ordonne par la présente que la question suivante soit tranchée avant l'audience en vertu de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) :
+Le terme « bien » visé par la définition de l'expression « bien locatif » désigne‑t‑il tout le PCC ou seulement l'intérêt indivis de 50 % de Petro‑Canada sur le PCC?
+La Cour ordonne en outre à l'intimée de payer à l'appelante des dépens de 5 000 $ dans les 60 jours suivant la date de la présente ordonnance conformément aux motifs de l'ordonnance modifiés ci‑joints.
+La présente ordonnance modifiée et les motifs de l'ordonnance modifiés remplacent ceux du 24 août 2015 afin de corriger des erreurs de mise en page; le fond des motifs de l'ordonnance reste en vigueur.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2015.
+« E.P. Rossiter »
+Le juge en chef Rossiter
+Référence : 2015 CCI 210
+Date : 20151116
+Dossier : 2011-4013(IT)G
+ENTRE :
+SUNCOR ÉNERGIE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE MODIFIÉS
+Le juge en chef Rossiter
+I. RÉSUMÉ [1] L'appelante et l'intimée présentent toutes deux des requêtes aux termes de l'article 58 des Règles. L'appelante cherche à faire trancher une question avant l'audience, tandis que l'intimée souhaite faire trancher quatre questions avant l'audience; la question de l'appelante et la troisième question de l'intimée sont très semblables. L'examen des requêtes présentées aux termes de l'article 58 des Règles comporte deux étapes. Premièrement, il faut décider s'il convient de trancher les questions avant l'audience. Deuxièmement, il faut entendre les arguments et trancher les questions. La requête vise seulement à décider s'il y a des questions à trancher avant l'audience.
+[2] La Cour exerce son pouvoir discrétionnaire pour décider s'il convient de trancher les questions avant l'audience. Deux exigences s'appliquent. Premièrement, les questions doivent être des questions en litige soulevées dans les actes de procédure. La question de l'appelante et la troisième question de l'intimée sont soulevées adéquatement dans les actes de procédure, contrairement aux autres questions de l'intimée.
+[3] Deuxièmement, le fait de trancher la question doit régler l'instance en totalité ou en partie, abréger substantiellement celle‑ci ou résulter en une économie substantielle de frais. La première et la deuxième questions de l'intimée ne respectent pas cette exigence, car elles ne peuvent qu'éventuellement abréger l'audition de l'appel. La troisième et la quatrième questions satisfont à cette exigence, car elles règlent l'instance en partie. La quatrième question ne respecterait pas cette exigence, sauf s'il est conclu lors de l'examen de la troisième question que le « bien » visé à l'alinéa 1100(14)a) du Règlement de l'impôt sur le revenu n'est que l'intérêt indivis de 50 % de Petro‑Canada sur le Petro‑Canada Centre (« PCC »).
+[4] La question de l'appelante et la troisième question de l'intimée sont très semblables.
+II. LE CONTEXTE L'appel [5] Suncor Énergie inc. (l'« appelante ») a remplacé Petro‑Canada par suite d'une fusion. En 1981, Petro‑Canada Explorations Inc., une société absorbée par Petro‑Canada, a acheté un intérêt bénéficiaire indivis de 50 % sur un terrain, principalement dans l'objectif d'avoir des espaces à bureaux qu'elle utiliserait et occuperait elle‑même. Petro‑Canada a conclu une convention de tenance commune avec ARCI dans l'objectif de construire un complexe de tour de bureaux qui est finalement devenu le Petro‑Canada Centre.
+[6] La superficie louable totale du PCC s'élevait à environ 1 730 000 pieds carrés. La superficie louable totale des locaux à bureaux du PCC était d'environ 1 707 000 pieds carrés. La différence entre ces superficies était attribuable à des locaux pour des commerces de détail.
+[7] L'intimée fait valoir que Petro‑Canada avait un intérêt indivis sur l'ensemble du PCC, de sorte que le bien locatif correspond à tout le bâtiment. Petro‑Canada occupait en tout environ 750 000 pieds carrés en 1998, soit 43 % du bâtiment. Par conséquent, le bâtiment était un « bien locatif », car Petro‑Canada s'en servait principalement pour en tirer un revenu brut qui constitue un loyer.
+[8] L'appelante fait valoir que le paragraphe 1100(14) du Règlement de l'impôt sur le revenu est axé sur l'utilisation que fait le contribuable du bien qui lui appartient, et non de l'ensemble du bien. Petro‑Canada, à titre de tenant commun, avait un intérêt de 50 % sur le PCC, qui était distinct de l'intérêt d'ARCI. Comme la moitié de la superficie louable totale du PCC représentait environ 865 000 pieds carrés, Petro‑Canada utilisait environ 87 % de la superficie afin d'en tirer un revenu d'entreprise. Par conséquent, l'intérêt de 50 % de Petro‑Canada ne correspondait pas à un bien locatif, car Petro‑Canada l'utilisait principalement dans l'objectif d'en tirer un revenu d'entreprise.
+La requête présentée aux termes de l'article 58 des Règles [9] L'appelante veut faire trancher la question suivante :
+En appliquant le paragraphe 1100(14) du Règlement de l'impôt sur le revenu à un ensemble de quatre circonstances pour trancher, de façon quantitative, la question de savoir si Petro‑Canada utilisait son intérêt de 50 % sur le Petro‑Canada Centre (« PCC ») principalement (c'est‑à‑dire dans une proportion supérieure à 50 %) pour en tirer un revenu ou un loyer, l'utilisation commerciale de Petro‑Canada devrait‑elle être calculée en fonction de 50 % ou de 100 % de la superficie louable totale du PCC?
+[10] L'intimée veut faire trancher les questions suivantes :
+(1) Le PCC est‑il un bâtiment dont l'appelante est propriétaire, conjointement avec une autre personne ou autrement (au sens de l'alinéa 1100(14)a) du Règlement de l'impôt sur le revenu)?
+(2) Petro‑Canada a‑t‑elle utilisé le bien entièrement à des fins locatives, car elle louait l'ensemble du bien?
+(3) Le terme « bien » visé par la définition de l'expression « bien locatif » désigne‑t‑il tout le PCC ou seulement l'intérêt indivis de 50 % de Petro‑Canada sur le PCC?
+(4) Si le « bien » désigne seulement l'intérêt indivis de 50 % de Petro‑Canada sur le PCC, pour trancher la question relative à la façon dont Petro‑Canada utilisait ce bien :
+i. l'utilisation commerciale du PCC devrait‑elle être divisée par deux?
+ii. l'« utilisation » totale possible du bien se limite‑t‑elle à l'ensemble de la superficie louable ou comprend‑elle toutes les utilisations quantifiables du bien?
+III. DROIT ET ANALYSE A. La Cour devrait‑elle trancher les questions préliminaires avant l'audience? [11] Les requêtes présentées aux termes de l'article 58 des Règles comportent deux étapes. Premièrement, la Cour doit décider s'il convient de trancher la question aux termes de l'article 58 des Règles. Deuxièmement, si c'est le cas, la Cour entendra l'argumentation et tranchera la question. Voir Gregory c. La Reine, 2000 CanLII 130, au paragraphe 12; Warawa c. La Reine, 2001 CanLII 489, au paragraphe 6.
+[12] La Cour peut rendre une ordonnance afin de trancher une question avant l'audience si les deux conditions suivantes sont respectées :
+(1) Aux termes du paragraphe 58(1) des Règles, il doit s'agir d'une question de fait, d'une question de droit ou d'une question de droit et de fait soulevée dans un acte de procédure (non souligné dans l'original).
+(2) Aux termes du paragraphe 58(2) des Règles, la Cour peut rendre une ordonnance s'il appert que de trancher la question avant l'audience pourrait :
+i. régler l'instance en totalité ou en partie;
+ii. abréger substantiellement celle‑ci;
+iii. résulter en une économie substantielle de frais.
+[13] Dans la décision McIntyre c. La Reine, 2014 CCI 111, la juge Campbell a établi, au paragraphe 23, qu'il faut satisfaire à trois exigences techniques pour franchir la première étape d'une requête présentée aux termes de l'article 58 des Règles :
+(1) il existe des questions de droit, des questions de fait ou des questions de droit et de fait;
+(2) les questions sont soulevées dans les actes de procédure;
+(3) la décision sur les questions pourrait régler l'instance en totalité ou en partie, abréger substantiellement l'audience ou résulter en une économie substantielle des frais.
+[14] Dans la décision Sentinel Hill Productions IV Corp. c. La Reine, 2013 CCI 267, la juge Woods a établi, au paragraphe 3, que la première étape « vise principalement » à rechercher si la deuxième et la troisième exigences énoncées ci‑dessus sont respectées. Cela donne à penser que la juge Woods ne croyait pas que la première exigence, selon laquelle il doit s'agir d'une question de droit, d'une question de fait ou d'une question de droit et de fait, était importante, peut‑être parce que chaque question doit être soit une question de droit, soit une question de fait, soit une question de droit et de fait. Il s'agit de tous les types de questions possibles.
+[15] D'après les décisions McIntyre et Sentinel Hill, il existe essentiellement seulement deux exigences :
+(1) les questions sont soulevées dans les actes de procédure;
+(2) le fait de trancher les questions pourrait régler l'instance en totalité ou en partie, abréger substantiellement celle‑ci ou résulter en une économie substantielle des frais.
+[16] En outre, il convient de souligner que la juge Campbell, au paragraphe 25 de la décision McIntyre, précitée, a conclu qu'au‑delà de ces exigences techniques, « la Cour a le pouvoir discrétionnaire de tenir compte d'autres facteurs, ainsi que de toutes les circonstances de l'affaire ».
+B. Les questions préliminaires de droit, de fait, ou de droit et de fait sont‑elles soulevées dans un acte de procédure? [17] Dans la décision Sentinel Hill, aux paragraphes 27 à 31, la juge Woods a établi qu'une question proposée doit être adéquatement soulevée dans les actes de procédure; il ne suffit pas que la question soit simplement mentionnée dans un acte de procédure. Il ne convient pas d'utiliser l'alinéa 58(1)a) des Règles pour soulever une nouvelle question.
+[18] La question de l'appelante, à savoir s'il faut utiliser comme dénominateur 50 % ou 100 % de la superficie louable totale, a été soulevée à l'alinéa 65a) de l'avis d'appel. Par conséquent, la condition énoncée au paragraphe 58(1) est respectée.
+[19] En ce qui concerne la première question de l'intimée, la question relative à la définition du terme « bien locatif » à l'alinéa 1100(14)a) du Règlement n'est pas directement soulevée dans les actes de procédure. L'intimée fait référence à l'alinéa 23a) de la réponse modifiée, qui indique seulement que [TRADUCTION] « le bien locatif est composé de l'ensemble du bâtiment ». La simple utilisation de ces quelques mots n'équivaut pas au fait de soulever une question adéquatement. L'intimée se reporte également au sous‑alinéa 65a)(i) et aux paragraphes 71 et 74 de l'avis d'appel. Le sous‑alinéa 65a)(i) énonce la troisième question de l'intimée, et non sa première question. Les paragraphes 71 et 74 concernent la troisième question de l'intimée.
+[20] La deuxième question, à savoir si le bien était entièrement utilisé à des fins locatives, car il était loué, était peut‑être mentionnée dans la réponse modifiée, mais n'a pas été soulevée adéquatement comme une question. L'intimée se reporte aux alinéas 20k) et 23b). L'alinéa 20k) précise seulement que l'entreprise d'ARCI était l'acquisition de biens immobiliers et la promotion immobilière; il ne soulève pas la deuxième question de l'intimée. L'alinéa 23b) fait valoir qu'à [TRADUCTION] « titre de tenant commun, Petro‑Canada a loué tout le PCC principalement dans l'objectif de tirer un revenu, à savoir un loyer ». Cet alinéa ne fait que répéter la question visée par l'appel (à savoir si le PCC était loué principalement pour obtenir un loyer); il ne soulève pas précisément la deuxième question de l'intimée, à savoir si Petro‑Canada louait l'ensemble du bien.
+[21] La troisième question, à savoir si le bien est le PCC ou seulement l'intérêt de 50 % sur le PCC, est soulevée à l'alinéa 65a) de l'avis d'appel. Par conséquent, la condition énoncée au paragraphe 58(1) est remplie.
+[22] La question 4(i) de l'intimée, à savoir si l'utilisation commerciale devrait être divisée par deux, n'est pas soulevée dans les actes de procédure. L'intimée se reporte au paragraphe 24 de la réponse modifiée, qui indique seulement que [TRADUCTION] « Petro‑Canada utilisait plus de la moitié [de l'intérêt indivis de 50 %] [...] pour tirer un revenu brut qui constitue un loyer », ce qui est en fait l'objet de l'appel, et non la question 4(i). L'intimée cite également plusieurs paragraphes de l'avis d'appel qui ont, au mieux, un lien ténu avec la question 4(i).
+[23] La question 4(ii) de l'intimée, à savoir si l'« utilisation » comprend l'espace non louable, n'a pas été soulevée adéquatement dans les actes de procédure. L'intimée ne tente même pas de faire valoir que cette question était soulevée dans la réponse modifiée. L'intimée cite plutôt plusieurs paragraphes de l'avis d'appel qui ont, au mieux, un lien ténu avec la question 4(ii).
+[24] Parmi les questions de l'intimée, seule la troisième est soulevée adéquatement dans les actes de procédure; les autres questions ne le sont pas.
+C. Est-ce qu'il appert que de trancher la question avant l'audience pourrait régler l'instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais? Jurisprudence [25] Comme il est indiqué dans la décision McIntyre, précitée, le paragraphe 58(1) des Règles a été modifié en 2004 par l'ajout des questions de fait et des questions de droit et de fait aux questions de droit déjà autorisées. L'existence d'un litige factuel n'est plus un obstacle absolu à une décision de faire droit à une demande, mais demeurera pertinente pour une cour se penchant sur la question de savoir si la décision abrégera substantiellement l'audience ou entraînera une économie substantielle.
+[26] Malgré la modification apportée en 2004, comme il est souligné au paragraphe 27 de la décision McIntyre, précitée, une décision fondée sur l'article 58 des Règles ne devrait en aucun cas remplacer une audience et il ne devrait pas y avoir de contestation des faits importants qui sous-tendent la question de droit. De même, dans la décision Banque HSBC Canada c. La Reine, 2011 TCC 37, le juge C. Miller a maintenu que la jurisprudence a établi que dans une telle décision, les faits sous‑jacents aux questions de droit à trancher ne devraient pas être contestés. Bien qu'il soit possible d'appliquer l'article 58 des Règles aux questions de fait et aux questions de droit et de fait, le processus suivi pour trancher de telles questions ressemble beaucoup à un procès, sauf qu'un véritable procès procure les avantages associés à une audience juste et aux protections en matière de preuve.
+[27] Dans la décision Devon Canada Corp. c. La Reine, 2013 CCI 4, le juge Hogan a confirmé que la question qui se pose n'est pas de savoir s'il y a des faits en litige, mais bien si ces faits en litige ont quelque rôle à jouer pour trancher la question proposée.
+[28] Dans l'arrêt Sentinel Hill Productions IV Corp. c. La Reine, 2014 CAF 161, la Cour d'appel fédérale a maintenu la décision de la juge Woods de rejeter une requête présentée aux termes de l'article 58 des Règles, car la question proposée n'avait aucune chance raisonnable de succès et, par conséquent, elle ne pouvait pas permettre de régler l'instance, d'abréger celle‑ci ou de résulter en une économie de frais.
+[29] Dans la décision McIntyre, précitée, le fait de permettre à la question de passer à la deuxième étape était susceptible d'abréger l'instance et de résulter en une économie des frais, mais uniquement si la question était tranchée d'une certaine manière. La juge Campbell a conclu que cela n'était pas suffisant pour remplir la troisième condition. De même, dans la décision Kwok c. La Reine, 2008 CCI 238, la juge V. Miller a conclu qu'une question permettant d'abréger l'instance uniquement si elle était tranchée d'une certaine façon ne respectait pas cette exigence.
+[30] L'intimée affirme que les questions préliminaires pourraient régler l'instance en totalité ou en partie, abréger substantiellement celle‑ci ou résulter en une économie substantielle de frais. L'intimée soutient également que les questions préliminaires ne s'appuient sur aucun fait en litige.
+[31] La première question est vague et n'est pas expliquée efficacement dans les observations de l'intimée. Si elle pose la question de savoir si le « bien » désigne l'intérêt du contribuable sur le bien ou le bâtiment en soi, il s'agit d'une question redondante, car la question de l'appelante (ou la troisième question de l'intimée) permet essentiellement d'y répondre. En outre, comme le fait de trancher cette question n'abrégerait pas l'instance, elle ne satisfait pas à l'exigence énoncée au paragraphe 58(2) des Règles.
+[32] La deuxième question, si elle recevait une réponse affirmative, pourrait permettre de trancher l'appel en faveur de l'intimée. Toutefois, si elle recevait une réponse négative, l'instance ne serait pas abrégée. Les décisions McIntyre et Kwok laissent toutes deux entendre que ce type de question ne respecte pas l'exigence.
+[33] La troisième question pourrait régler l'appel en totalité ou en partie, car il semble qu'il s'agit de la principale question en litige visée par l'appel. Si le « bien » correspond à la totalité du PCC, la tâche de l'intimée sera grandement simplifiée, car les hypothèses sur lesquelles s'appuie le ministre mènent à la conclusion que Petro‑Canada occupait seulement 43 % du bien à des fins autres que locatives. Si le « bien » correspond plutôt simplement à l'intérêt indivis de 50 % de Petro‑Canada, c'est la tâche de l'appelante qui sera grandement simplifiée.
+[34] La quatrième question dépend de la résolution de la troisième question. Par conséquent, cette question ne serait pas susceptible d'abréger l'instance, sauf si la troisième question était tranchée d'une certaine façon. Si le « bien » correspond à la totalité du PCC, il est tout simplement inutile de répondre à la quatrième question.
+[35] Si la réponse à la troisième question révèle que le « bien » correspond plutôt simplement à l'intérêt indivis de 50 % de Petro‑Canada, il est alors possible que la quatrième question contribue à régler les autres questions en litige dans l'appel. Même dans ce cas, la question 4(i) est essentiellement redondante par rapport à la question 3, car au fond, il s'agit d'une façon indirecte d'obtenir exactement le même résultat que si la question 3 avait donné lieu à une réponse différente. Par conséquent, la question 4(i) ne contribuera pas à régler les autres questions en litige.
+[36] La question 4(ii) n'aura aucune incidence sur l'issue de l'appel et est par conséquent inutile. La superficie louable totale des locaux à bureaux est d'environ 1 707 000 pieds carrés et la superficie louable totale s'élève à environ 1 730 000 pieds carrés. Quoi qu'il en soit, la superficie de quelque 749 000 pieds carrés qu'utilise Petro‑Canada à des fins commerciales est inférieure à la moitié de la surface totale et supérieure à la moitié de l'intérêt de 50 % de Petro‑Canada sur la superficie totale. Par conséquent, la troisième question est déterminante. La question 4(ii) ne permet ni de régler des questions en litige, ni d'abréger l'instance ou de réaliser des économies de frais.
+[36] La question de l'appelante nécessite la même analyse que la troisième question de «l'intimée analysée au paragraphe 33 ci‑dessus, et par conséquent, la condition énoncée au paragraphe 58(2) des Règles est respectée.
+D. Quelle combinaison de requêtes convient‑il d'accueillir? 1) Le critère [37] Dans l'examen du critère se rapportant aux requêtes présentées aux termes de l'article 58 des Règles, il faut souligner que le paragraphe 58(2) des Règles permet à la Cour de trancher des questions avant l'audience si cette façon de faire pourrait régler l'instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais. Il s'agit des objectifs visés par les requêtes présentées aux termes de l'article 58 des Règles. Par conséquent, dans l'exercice de mon pouvoir discrétionnaire d'accueillir une requête présentée aux termes de l'article 58 des Règles, je dois me pencher sur la combinaison qui permet le mieux d'atteindre les objectifs énoncés au paragraphe 58(2) des Règles.
+2) Les choix [38] Il existe essentiellement trois choix : la question de l'appelante, la troisième question de l'intimée, ou une autre question semblable.
+3) Les préoccupations de l'intimée au sujet de la question de l'appelante [39] L'intimée a plusieurs préoccupations quant à la question de l'appelante.
+[40] Premièrement, l'intimée fait valoir que la question de l'appelante, qui ne cherche pas à faire interpréter les termes « utilisé » et « bien » au sens du paragraphe 1100(14) du Règlement, présume à tort que le terme « bien » désigne l'intérêt du contribuable sur le bien, et non le bien en soi. Je ne suis pas d'accord. La question de l'appelante offre deux possibilités en ce qui concerne le dénominateur : quoiqu'une possibilité, soit 50 % de la superficie louable totale, corresponde essentiellement à l'intérêt du contribuable sur le bien, l'autre possibilité, soit 100 % de la superficie louable totale, correspond au bien en soi. En conséquence, la question de l'appelante n'exclut pas cette possibilité.
+[41] Deuxièmement, même en supposant qu'il convient de se concentrer sur l'utilisation de l'intérêt de 50 % de Petro‑Canada, le numérateur doit lui aussi être modifié. La question de l'appelante ne se penche pas sur l'utilisation de l'intérêt de 50 %, mais bien sur la superficie louée aux termes du bail principal, ce qui représente environ 80 % de la superficie du PCC. Par conséquent, si le dénominateur est limité à 50 % du PCC, le numérateur doit lui aussi être limité à 50 %.
+[42] L'intimée ne devrait‑elle pas plutôt proposer de limiter le numérateur à 50 % divisé par 80 % (ou 62,5 %) de l'utilisation proposée de l'appelante, car l'appelante a déjà réduit son utilisation de 100 % à 80 %? Bien entendu, si cette façon de faire était retenue, toute l'affaire serait tranchée en faveur de l'appelante, car 62,5 % des quelque 749 000 pieds carrés utilisés à des fins commerciales représentent 468 000 pieds carrés, c'est‑à‑dire que 54 % de la superficie était utilisée dans l'objectif d'en tirer un revenu.
+[43] En outre, cela est presque complètement redondant. La troisième question de l'intimée et la question de l'appelante consistent à savoir si le dénominateur devrait être tout le PCC ou seulement 50 % du PCC; la question 4(i) de l'intimée consiste à savoir si le numérateur devrait être toute l'utilisation commerciale de Petro‑Canada ou seulement 50 % de celle‑ci. En conséquence, la question 4(i) de l'intimée donne, subsidiairement, exactement le même résultat que si la troisième question avait été tranchée en faveur de l'intimée.
+[44] Troisièmement, l'intimée soutient que la question de l'appelante présuppose également à tort que l'« utilisation » devrait être comparée à la superficie louable et non à l'ensemble du bâtiment. Cet argument n'a absolument aucune pertinence, car la seule question qui permettra de déterminer le critère quantitatif consiste à savoir si le dénominateur est 50 % ou 100 %, peu importe qu'il s'agisse de la superficie louable ou de tout le bâtiment. La question de savoir si l'intimée a raison peut être pertinente à l'audience pour aider la Cour à établir adéquatement le critère juridique qu'il convient d'appliquer, mais elle n'aura aucune incidence sur l'issue de l'appel et n'est pas pertinente en ce qui concerne une requête présentée aux termes de l'article 58 des Règles.
+4) Conclusion [45] À mon avis, la troisième question de l'intimée est beaucoup plus simple que la question de l'appelante, mais elle situe moins le contexte. Elle consiste à savoir si le « bien » est le PCC ou l'intérêt de 50 % de Petro‑Canada sur le PCC. Cette question est la même que celle de l'appelante, qui consiste à savoir si le dénominateur devrait être 50 % ou 100 % de la superficie louable totale.
+[46] Je préfère la troisième question de l'intimée en raison de sa simplicité et du fait qu'elle ne dépend pas d'hypothèses. J'estime que la question qu'il convient de soumettre à la Cour est la troisième question de l'intimée.
+5) Dépens [47] J'estime qu'il n'était pas nécessaire que l'intimée conteste cette requête, encore moins qu'elle présente sa propre requête aux termes de l'article 58 des Règles. La troisième question de l'intimée et la question de l'appelante étaient essentiellement les mêmes. L'intimée a cherché à faire trancher plusieurs questions qui n'étaient manifestement pas appropriées dans une requête présentée aux termes de l'article 58 des Règles. Les questions 1, 4(i) et 4(ii) n'ont pas été soulevées dans les actes de procédure et étaient soit redondantes, soit sans importance. De plus, il semble que ces questions n'aideraient pas la Cour à se concentrer sur la véritable question en litige dans l'appel. La question 2 ne répondait pas tout à fait au critère, mais elle aurait pu être traitée à l'audience au lieu de faire l'objet d'une requête présentée aux termes de l'article 58 des Règles. J'estime que les dépens relatifs à la requête devraient être adjugés à l'appelante. Compte tenu du déroulement de l'affaire et des efforts que les parties ont manifestement consacrés aux requêtes, même si l'affaire était raisonnablement simple, j'estime que des dépens de 5 000 $ sont appropriés. J'ordonne à l'intimée de payer à l'appelante des dépens de 5 000 $ dans les 60 jours suivant la date de la présente ordonnance.
+[48] Les présents motifs de l'ordonnance modifiés remplacent l'ordonnance du 24 août 2015.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2015.
+« E.P. Rossiter »
+Le juge en chef Rossiter
+RÉFÉRENCE :
+2015 CCI 210
+No DU DOSSIER DE LA COUR :
+2011-4013(IT)G
+INTITULÉ :
+SUNCOR ÉNERGIE INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+Le 30 avril 2015
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge en chef E.P. Rossiter
+DATE DE L'ORDONNANCE MODIFIÉE :
+Le 16 novembre 2015
+COMPARUTIONS :
+Pour l'appelante :
+Me Jehad Haymour
+Pour l'intimée :
+Me Ifeanyi Nwachukwu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Jehad Haymour
+Cabinet :
+Dentons Canada S.E.N.C.R.L.
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

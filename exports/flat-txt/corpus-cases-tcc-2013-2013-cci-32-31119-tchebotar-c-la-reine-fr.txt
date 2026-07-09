@@ -1,0 +1,215 @@
+Title: Tchebotar c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31119/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-32-31119-tchebotar-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-01-29
+
+# Tchebotar c. La Reine
+
+- Citation: 2013 CCI 32
+- Decision date: 2013-01-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4768, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tchebotar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-29
+Référence neutre
+2013 CCI 32
+Numéro de dossier
+2011-3508(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3508(IT)I
+ENTRE :
+VALERI TCHEBOTAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels Katrina Tchebotar (2011‑3509(IT)I) et Ekaterina Tchebotar, Valeri Tchebotar (2011‑3510(GST)I) le 31 octobre 2012, à Kelowna (Colombie‑Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentants de l’appelant :
+Mme Esther Dirksen
+M. Darren B. Wilms
+Avocat de l’intimée :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008 sont accueillis, sans dépens, mais seulement dans la mesure nécessaire pour permettre à l’intimée d’apporter les changements qu’elle a proposés quant à l’analyse de la valeur nette. Les cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse des nouvelles cotisations conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2013.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 14e jour de mars 2013.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Dossier : 2011-3509(IT)I
+ENTRE :
+KATRINA TCHEBOTAR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels Valeri Tchebotar (2011‑3508(IT)I) et Ekaterina Tchebotar, Valeri Tchebotar (2011‑3510(GST)I) le 31 octobre 2012, à Kelowna (Colombie‑Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentants de l’appelante :
+Mme Esther Dirksen
+M. Darren B. Wilms
+Avocat de l’intimée :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008 sont accueillis, sans dépens, mais seulement dans la mesure nécessaire pour permettre à l’intimée d’apporter les changements qu’elle a proposés quant à l’analyse de la valeur nette. Les cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse des nouvelles cotisations conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2013.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 14e jour de mars 2013.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Dossier : 2011-3510(GST)I
+ENTRE :
+EKATERINA TCHEBOTAR, VALERI TCHEBOTAR,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels Valeri Tchebotar (2011‑3508(IT)I) et Katrina Tchebotar (2011‑3509(IT)I) le 31 octobre 2012, à Kelowna (Colombie‑Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentants des appelants :
+Mme Esther Dirksen
+M. Darren B. Wilms
+Avocat de l’intimée :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi sur la taxe d’accise pour la période du 1er janvier 2007 au 3 décembre 2008 est accueilli, sans dépens, mais seulement dans la mesure nécessaire pour permettre à l’intimée d’apporter les changements qu’elle a proposés quant à l’analyse de la valeur nette. La cotisation est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2013.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 14e jour de mars 2013.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2013 CCI 32
+Date : 20130129
+Dossier : 2011-3508(IT)I
+ENTRE :
+VALERI TCHEBOTAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2011-3509(IT)I
+ET ENTRE :
+KATRINA TCHEBOTAR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2011-3510(GST)I
+ET ENTRE :
+EKATERINA TCHEBOTAR, VALERI TCHEBOTAR,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Les appelants, Valeri Tchebotar et Katrina (aussi appelée Ekaterina) Tchebotar, sont mari et femme et ils exploitent ensemble une entreprise sous le nom de « Katrina’s Fashion Design & Alterations » (l’« entreprise ») dans une petite boutique située à West Kelowna, en Colombie-Britannique. Ils exploitent l’entreprise à titre de partenaires à parts égales. Il s’agit d’une entreprise de couture faisant de la confection et des retouches sur des vêtements, des couvertures, des rideaux, des coussins de canapés et d’autres articles de ce genre. Les appelants ont quitté la Moldavie pour venir s’établir au Canada en 1992 et ont acquis l’entreprise en 1999.
+[2] Les deux appels relatifs à l’impôt sur le revenu portent sur des cotisations établies à l’égard des appelants pour trois années d’imposition, c’est-à-dire 2006, 2007 et 2008. L’appel relatif à la taxe d’accise porte sur une cotisation établie à l’égard des appelants pour la période allant du 1er janvier 2007 au 3 décembre 2008. La vérificatrice, Gwen Nygaard, a dû procéder à une vérification indirecte des revenus à cause de l’état des livres comptables, de l’absence de pièces justificatives et du fait que la majorité des transactions de l’entreprise étaient faites en espèces. La vérification a entraîné l’augmentation du revenu d’entreprise déclaré – par l’inclusion de revenus non déclarés –, le rejet de déductions demandées au titre de dépenses d’entreprise, l’augmentation du montant de TPS à verser, le rejet de demandes de crédits d’impôt sur le revenu qui dépassaient le montant autorisé et, finalement, l’imposition de pénalités.
+[3] Les clients de l’entreprise payaient en espèces ou par chèque. La boutique n’était dotée d’aucun lecteur de carte de crédit ou de carte de débit. La vérificatrice a expliqué que la boutique dans laquelle l’entreprise était exploitée avait une petite vitrine et un petit comptoir de vente. Dans le comptoir, il y avait [traduction] « [...] un tiroir, un tiroir d’armoire à cuisine qui contenait de l’argent et des chèques [...] » (transcription, page 159, interrogatoire principal de la vérificatrice). De plus, la boutique comportait une petite cabine d’essayage et un espace de travail où se trouvaient les fournitures, des machines à coudre, des presseurs et des fers à repasser.
+[4] Lorsque les clients payaient par chèque, les chèques étaient tous déposés. Par contre, selon les observations des appelants, lorsque les clients payaient en espèces, l’argent n’était pas toujours déposé et, parfois, les appelants s’en servaient directement pour acheter des articles personnels, notamment de la nourriture, ou pour payer des factures. Le suivi des ventes était fait au moyen de copies des reçus remis aux clients, car la boutique n’avait ni caisse enregistreuse ni ordinateur. À la fin de chaque journée, les appelants utilisaient les reçus pour calculer le total des ventes et ils inscrivaient ce montant dans un calepin. Les ventes faisaient l’objet de suivis hebdomadaires, mensuels et annuels. Tous les reçus justificatifs étaient ensuite déchiquetés, de même que les documents où étaient inscrits les montants des ventes totales calculés à partir de ces reçus (à l’exception des totaux annuels).
+[5] Les appelants ont témoigné qu’ils détruisaient tous les reçus parce qu’ils craignaient que le public puisse découvrir et utiliser les noms et numéros de téléphone de leurs clients. Ils ont aussi expliqué qu’ils détruisaient les documents où étaient inscrits les totaux quotidiens, hebdomadaires et mensuels – même si ces documents ne contenaient pas de renseignements personnels sur leurs clients –, car autrement, la quantité de documents à conserver aurait été trop grande.
+[6] Alors que, pour les ventes, seuls les totaux annuels inscrits à la main étaient conservés, les appelantes gardaient les totaux mensuels de leurs dépenses d’entreprise, de même que les factures justificatives.
+[7] Les appelants soutiennent qu’ils ont reçu divers prêts en espèces de membres de leur famille pendant les années et la période visées par les appels, mais ils n’ont pu produire aucun document permettant d’établir l’existence de ces prêts et ils n’ont fait témoigner personne pour corroborer leur témoignage à cet égard. Selon le témoignage des appelants, l’argent ainsi emprunté était conservé dans une enveloppe placée sur le manteau de leur cheminée, au lieu d’être déposé dans leur compte bancaire. L’argent était utilisé pour payer des factures de carte de crédit, acheter de la nourriture et faire d’autres dépenses du ménage. Les appelants ont expliqué qu’ils avaient remboursé partiellement certains de ces prêts, mais, là encore, la Cour ne dispose que de leur témoignage, car ils n’ont conservé aucun document ou dossier permettant de démontrer qu’il y a eu remboursement.
+[8] Les appelants ont aussi soutenu que, pendant la période, leurs enfants avaient remboursé des prêts qu’ils leur avaient consentis et qu’ils ont alors utilisé ces sommes pour payer des factures de carte de crédit. Le principal exemple donné par les appelants est l’achat de mobilier d’une valeur d’environ 8 000 $ pour leur fille, Ludmilla Tchebotar. Les appelants ont affirmé que leur fille avait remboursé ce prêt à partir de son « fonds de voyage de noces », mais ils n’ont présenté aucune pièce justificative et, lors de son contre-interrogatoire, leur fille n’a pas pu fournir de détails sur le remboursement, car c’est son époux qui gère leurs finances. La fille des appelants a simplement présumé que son époux, qui n’a pas témoigné, aurait remboursé ses parents.
+Rajustements :
+[9] Pendant l’audience, il est devenu évident qu’il serait nécessaire d’apporter un certain nombre de rajustements à l’analyse de la valeur nette des appelants que la vérificatrice avait faite. Puisque les parties n’ont pas pu s’entendre sur la portée de ces rajustements, je leur ai demandé de fournir des observations écrites. Ces rajustements étaient nécessaires pour rectifier les problèmes suivants :
+a) la double comptabilisation de certains éléments par la vérificatrice;
+b) le choix erroné par la vérificatrice de la méthode d’analyse des paiements pour les cartes de crédit, alors qu’elle aurait dû utiliser la méthode de l’analyse des achats;
+c) les rajustements apportés en fonction d’une seule carte de crédit MBNA, alors qu’il y avait deux cartes;
+d) des erreurs de calcul commises par la vérificatrice relativement aux éléments de passif.
+[10] Au lieu d’aborder précisément ces rajustements, comme je le leur avais demandé, les appelants ont simplement reproduit intégralement l’analyse de la valeur nette en y ayant corrigé certains montants, mais ils n’ont donné aucune raison ou explication pour justifier les rajustements proposés. J’accepte les rajustements proposés par l’avocat de l’intimée, car il a fourni des explications pour les justifier et y a annexé des appendices qui montrent le calcul et les effets de ces rajustements sur l’analyse de la valeur nette. La vérificatrice a elle aussi reconnu la nécessité d’apporter ces rajustements à son analyse.
+[11] Les dépenses personnelles ayant trait à des frais de restauration et des frais d’automobile qui avaient été comptées en double par la vérificatrice ont été soustraites du total des dépenses utilisé dans l’analyse de la valeur nette.
+[12] Pour calculer les dépenses personnelles des appelants, la vérificatrice avait effectué une [traduction] « analyse des paiements » de cartes de crédit, alors qu’elle aurait dû analyser les achats faits avec ces cartes. Dans ses observations et les appendices qui y sont joints, l’avocat de l’intimée a résumé la manière dont l’analyse des paiements avait été convertie en analyse des achats – la méthode qui aurait dû être utilisée – relativement à la vérification des appelants et les rajustements qui ont été apportés en conséquence au total des dépenses personnelles.
+[13] Dans son analyse des paiements, la vérificatrice avait inclus dans le total des dépenses personnelles les paiements de facture de carte de crédit dont la source ne pouvait pas être retracée. Ces paiements réduisent le passif, mais cette diminution a une incidence sur l’analyse du bilan. Pour corriger le problème pour chacune des années en cause, il faut donc soustraire du total des dépenses le solde impayé des cartes de crédit à la fin de l’année précédente et y ajouter le solde impayé à la fin de l’année.
+[14] Bien que chacun des appelants détenait une carte de crédit MBNA durant les années 2007 et 2008, la vérificatrice a tenu compte d’une seule carte pour calculer le solde impayé à la fin de l’année. Les appendices fournis par l’avocat de l’intimée montrent que les rajustements proposés incluent les soldes des deux cartes de crédit. Aucun rajustement au solde n’était nécessaire pour les périodes ayant pris fin le 31 décembre 2005 et le 31 décembre 2006, car un seul des appelants avait une carte de crédit MBNA durant ces périodes.
+[15] Finalement, les appendices montrant l’analyse modifiée de la valeur nette confirment le bien-fondé des corrections relatives à la manière dont la vérificatrice avait calculé le passif rajusté des appelants en date du 31 décembre 2008.
+[16] Je reconnais que tous ces rajustements sont nécessaires et, selon les appendices révisés que l’avocat de l’intimée a présentés, qu’ils ont été apportés correctement.
+Analyse :
+[17] En l’espèce, on comprend facilement pourquoi la vérificatrice s’est servie de la méthode de l’analyse de la valeur nette pour calculer le revenu des appelants. Les dossiers et les pièces justificatives n’étaient pas seulement insuffisants, ils étaient carrément inexistants. Il était donc impossible de confirmer de manière indépendante la véracité des renseignements inscrits dans les déclarations de revenus des appelants. Tous les documents qui étayaient les totaux annuels qui avaient été fournis au comptable – qu’il s’agisse des reçus de vente ou des totaux quotidiens, hebdomadaires ou mensuels qui avaient été consignés à la main – avaient été détruits.
+[18] Dans la décision Bigayan v. The Queen, 2000 D.T.C. 1619, le juge Bowman (tel était alors son titre), au paragraphe 2, a décrit la méthode de la valeur nette comme « […] un instrument imprécis, exact à l’intérieur d’un registre dont le champ est indéterminé ». Cette méthode est souvent qualifiée de méthode de « dernier recours », car elle est utilisée lorsque toutes les autres méthodes de vérification des revenus déclarés par un contribuable ont échoué. L’analyse de la valeur nette, de par sa nature, donne généralement une évaluation approximative et, pour le moins inexacte du revenu du contribuable. Cependant, puisque nous vivons dans un régime d’autocotisation, c’est le contribuable qui sera toujours le mieux à même de connaître son revenu exact pour une période donnée. Le contribuable qui a conservé les documents comptables appropriés n’aura aucun mal à relever les erreurs commises par le ministre dans l’analyse de la valeur nette et à étayer les rajustements proposés avec des pièces justificatives.
+[19] Dans l’arrêt Hsu v. The Queen, 2001 DTC 5459 (C.A.F.), la Cour d’appel fédérale a souligné que le ministre n’a qu’à démontrer que la valeur nette du contribuable a augmenté entre deux dates, mais qu’il n’a pas à prouver l’existence d’une source imposable de revenu. Elle s’est exprimée de la sorte au paragraphe 29 :
+[29] Les évaluations de la valeur nette sont une solution de dernier recours communément employée dans les cas où le contribuable refuse de produire une déclaration de revenus, qu’il a produit une déclaration fort inexacte ou qu’il refuse de fournir des documents qui permettraient à Revenu Canada de vérifier le rendement (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5e éd. (Toronto : Carswell, (1995) à la page 1089). La méthode de la valeur nette est fondée sur l’hypothèse selon laquelle une augmentation de la richesse d’un contribuable au cours d’une certaine période peut être imputée au revenu pour cette période à moins que le contribuable ne démontre le contraire (Bigayan, précité, à la page 1619). Cette méthode vise à libérer le ministre de l’obligation ordinaire qui lui incombe de prouver l’existence d’une source imposable de revenu. Le ministre est uniquement tenu de démontrer que la valeur nette du contribuable a augmenté entre deux dates. En d’autres termes, une évaluation de la valeur nette ne se rapporte pas à la détermination de la source ou de la nature de l’augmentation de la richesse du contribuable. Une fois qu’il est démontré qu’il y a eu augmentation, il incombe entièrement au contribuable de séparer son revenu imposable des gains provenant de sources non imposables (Gentile c. La Reine, [1988] 1 C.T.C. 253, à la page 256 (C.F. 1re inst.)).
+[20] Il incombe donc au contribuable de convaincre la Cour que l’analyse de sa valeur nette est inexacte. Dans la décision Saikely v. M.N.R., 93 D.T.C. 397, à la page 401, le juge Hamlyn a résumé la manière dont le contribuable peut contester la validité d’une cotisation fondée sur cette méthode :
+[…] Il peut prouver qu’une part de l’augmentation de son avoir net est attribuable à des rentrées d’argent non imposables comme un héritage ou une somme gagnée au jeu; que son avoir net au début de la période a été sous-évalué ou que des éléments d’actif à la fin de la période ont été surévalués; que des éléments de passif existant à la fin de la période ont été omis ou sous-évalués; que l’argent avait été emprunté ou que les pertes de revenu étaient supérieures aux estimations. Quoi qu’il allègue, le contribuable doit le prouver; une simple déclaration ne suffit pas. De plus, il faut une preuve forte pour réfuter une cotisation fondée sur l’avoir net.
+[21] Les appelants n’ont présenté aucun élément de preuve documentaire pour étayer les totaux annuels manuscrits main des ventes qu’ils avaient fournis à leur comptable, car ils avaient détruit tous ces documents. Je ne peux pas prêter foi au témoignage des appelants selon lequel des membres de leur famille vivant aux États‑Unis leur auraient fait des prêts en devises américaines. Ces fonds ont prétendument été transportés au Canada, conservés dans une enveloppe sur le manteau d’une cheminée et utilisés pour payer des dépenses. Là encore, aucun document ne m’a été fourni pour étayer ce témoignage. Lorsque les appelants utilisaient ces fonds pour payer des dépenses – par exemple, des factures de carte de crédit, de la nourriture ou des frais d’électricité – il aurait dû y avoir, dans certains de ces cas, des documents constatant la conversion des devises américaines en dollars canadiens, mais aucun document de la sorte n’a été déposé en preuve. Aucune des personnes qui auraient consenti ces prêts n’a été appelée à témoigner. Bien que des affidavits aient été produits, ils ne comportaient aucun renseignement sur les comptes bancaires, les cartes de crédit ou d’autres sources appartenant aux prêteurs. Je dois donc rejeter les arguments avancés par les appelants à l’égard des prêts, car j’étais en droit de m’attendre à voir d’autres éléments de preuve, outre le témoignage des appelants, qui appuieraient l’existence de tels prêts.
+[22] De même, on ne m’a présenté aucun élément de preuve au sujet des paiements en espèces que les enfants des appelants auraient faits relativement à des dépenses du ménage. Ni le père ni le fils n’ont pu se souvenir, même approximativement, du montant de ces contributions. Si aucun des témoins n’est capable de me fournir une simple estimation approximative, comment pourrais-je déterminer au hasard le montant de telles contributions? Ce fardeau incombait aux contribuables et ils ne s’en sont pas déchargés. Je suis certaine que les enfants d’âge adulte qui travaillaient et qui vivaient chez les appelants ont fait certaines contributions, mais les éléments de preuve vagues dont je dispose ne me permettent pas de les quantifier.
+[23] Je tiens à préciser que, si on m’avait présenté des éléments de preuve concrets et crédibles au sujet des prêts et des paiements en espèces, j’aurais accordé des rajustements à cet égard. Il se peut que des souvenirs soient vagues, mais en l’espèce, les témoins n’en avaient aucun. Cette remarque s’applique aussi au témoignage des appelants au sujet des achats faits par carte de crédit. Pour que je puisse conclure, selon la prépondérance des probabilités, que les appelants ont bel et bien fait ces achats au moyen de fonds qui leur avaient été donnés par des sources externes, je dois disposer de souvenirs clairs et précis pour au moins un certain nombre de ces achats. Par exemple, la fille des appelants a été incapable de fournir le moindre élément de preuve au sujet du montant, du moment ou de la méthode du remboursement qu’elle aurait fait relativement au prêt pour l’achat de mobilier. En fait, la fille des appelants a témoigné que c’était son époux qui gérait les finances du couple et que c’est lui qui aurait remboursé le prêt. Ce témoignage ne démontre pas que le prêt a bel et bien été remboursé et il n’étaye pas l’assertion selon laquelle les sommes remboursées avaient servi à payer des factures de carte de crédit.
+[24] Finalement, il reste la question des sommes que les appelants disent avoir payées à leur fille pour du travail qu’elle effectuait occasionnellement pour l’entreprise. Bien que le père ait affirmé que le taux de rémunération de sa fille variait selon le travail effectué et qu’il conservait un relevé de ces renseignements, sa fille ne se souvenait pas de la tenue d’un tel relevé. Le père avait affirmé à la vérificatrice qu’il n’avait absolument aucun relevé des salaires versés à sa fille. Comme les témoignages sont contradictoires et qu’aucun document ne corrobore l’un des témoignages, je dois aussi rejeter les assertions des appelants à cet égard.
+[25] Il est intéressant de constater que les appelants ont méticuleusement consigné et classé par catégories leurs dépenses d’entreprise. Bien que les appelants aient été capables d’étayer ces dépenses avec des reçus et d’autres documents, ils ont déchiqueté ou détruit autrement tous les documents qui auraient permis d’étayer le calcul de leurs ventes totales.
+[26] Des pénalités pour faute lourde ont été imposées aux appelants. Le ministre a le fardeau de justifier l’imposition de ces pénalités. Les décisions faisant jurisprudence à ce sujet sont nombreuses. Dans la décision Venne v. The Queen, 84 D.T.C. 6247, le juge Strayer a formulé les commentaires suivants à la page 6256 au sujet de l’expression « faute lourde » :
+Quant à la possibilité d’une faute lourde, j’ai conclu, après hésitation, qu’elle n’a pas non plus été établie ici. La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. Je ne conclus pas à un tel degré de négligence en rapport avec les faux énoncés de revenus commerciaux. Certes, le contribuable n’a pas fait preuve de la prudence d’un homme raisonnable et, comme je l’ai déjà fait remarquer, il aurait au moins dû réviser ses déclarations de revenus avant de les signer. Ce faisant, un homme raisonnable, eu égard aux autres renseignements dont il disposait, aurait été amené à croire que quelque chose n’allait pas et aurait cherché à en savoir plus long auprès de son teneur de livres.
+Pour décider s’il y a eu faute lourde, il faut examiner plusieurs facteurs. Il s’agit notamment de l’importance de l’omission relativement au revenu déclaré, de la faculté du contribuable de découvrir l’erreur et du niveau d’instruction et de l’intelligence du contribuable.
+[27] En l’espèce, les revenus d’entreprise non déclarés sont considérables par rapport aux revenus déclarés. Bien que les appelants ne maîtrisent pas l’anglais, car il s’agit de leur langue seconde, ils comprenaient l’importance de conserver des documents permettant d’étayer leurs demandes de déductions, car cela modifiait les montants d’impôt et de taxe qu’ils devraient payer. La méthode de la comptabilité de caisse est une façon légitime d’exploiter une entreprise, mais elle exige une tenue des comptes très rigoureuse afin que le contribuable dispose d’une trace écrite des transactions effectuées en espèces. D’ailleurs, les appelants disposaient des documents justificatifs, mais ils ont décidé de tous les détruire, à l’exception de ceux qui portaient sur leurs dépenses. Si les appelants tenaient à protéger l’identité de leurs clients, ils auraient pu choisir d’autres solutions, notamment en masquant manuellement les renseignements personnels inscrits sur les factures et les reçus ou en demandant à leur comptable de s’assurer que toutes les ventes avaient été bien consignées avant de détruire tous les reçus de vente. En outre, il n’était pas nécessaire de détruire les relevés manuscrits quotidiens, hebdomadaires et mensuels des ventes – relevés qui étayaient les revenus déclarés par les appelants –, car ces documents ne comprenaient pas de renseignements personnels des clients. Lorsqu’on leur a demandé pourquoi ils avaient détruit tous ces documents, les appelants ont donné des réponses vagues. Bien que les appelants aient chargé un comptable de remplir leurs déclarations de revenus, ils ont vérifié les renseignements inscrits et ils ont choisi les éléments qu’ils ont remis au comptable pour lui permettre de remplir les déclarations. Dans les circonstances, les pénalités imposées par le ministre étaient justifiées.
+[28] En somme, j’accueille les appels afin que l’intimée puisse apporter à l’analyse de la valeur nette les rajustements qu’elle a décrits dans ses observations relativement aux erreurs commises par la vérificatrice, rajustements qui sont décrits plus précisément dans les appendices joints à ces observations. Les appelants ont détruit tous leurs documents justificatifs, sauf ceux qui permettent d’étayer leurs demandes de déductions. Ils n’ont pu fournir aucun élément de preuve concret pour corroborer l’existence d’autres sources de revenus. Les appelants ne se sont tout simplement pas déchargés du fardeau qui leur incombait, c’est-à-dire de démontrer que les cotisations reposant sur la valeur nette étaient fondamentalement erronées.
+[29] Puisque les appelants n’ont présenté aucun élément de preuve concret permettant d’établir leur véritable revenu pour les années visées par les appels et qu’ils n’ont pas réussi à faire annuler les cotisations, les appels sont accueillis, sans dépens, mais seulement dans la mesure nécessaire pour permettre à l’intimée d’apporter les changements qu’elle a proposés quant à l’analyse de la valeur nette. Je conclus aussi, à la lumière de la preuve, que les pénalités imposées par le ministre étaient justifiées.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2013.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 14e jour de mars 2013.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2013 CCI 32
+Nos DES DOSSIERS DE LA COUR :
+2011-3508(IT)I
+2011-3509(IT)I
+2011-3510(GST)I
+INTITULÉ :
+VALERI TCHEBOTAR,
+KATRINA TCHEBOTAR,
+EKATERINA TCHEBOTAR et
+VALERI TCHEBOTAR c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 31 octobre 2012
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 29 janvier 2013
+COMPARUTIONS :
+Représentants des appelants :
+Mme Esther Dirksen
+M. Darren B. Wilms
+Avocat de l’intimée :
+Me Shane Aikat
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

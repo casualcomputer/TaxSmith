@@ -1,0 +1,184 @@
+---
+title: "Elbadawi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99963/index.do"
+last_modified: "2014-08-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 363"
+citation2: ""
+neutral_citation: "2014 TCC 363"
+decision_date: "2014-08-27"
+language: "en"
+item_id: "99963"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5231
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:35:55.835000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf13fe9a8646fdf922573ae68555cfd66132087dd8aa9ea36e804ae86c5551fc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Elbadawi v. The Queen
+
+- Citation: 2014 TCC 363
+- Decision date: 2014-08-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5231, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elbadawi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-08-27
+Neutral citation
+2014 TCC 363
+File numbers
+2010-538(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2014 TCC 363
+Date: 20141208
+Docket: 2010-538(IT)G
+BETWEEN:
+MOHAMMED S. ELBADAWI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS RESPECTING SUBMISSIONS ON COSTS
+Campbell J.
+[1] By Reasons for Judgment, dated August 27, 2014, I dismissed the appeals of Mohammed Elbadawi and gave the parties 60 days to provide me with written submissions on the issue of costs.
+[2] The appeals of his wife, Hanni Elbadawi (2010-539(IT)G), were allowed with costs and the appeals of his son, Waleed Elbadawi (2010-394(IT)G), were allowed in part, without costs.
+[3] The issues in the appeals involved unreported income and expense matters, which are fact driven. The amounts in issue in Mohammed Elbadawi’s appeals were $14,610, $128,477 and $78,322 for the 2000, 2001 and 2002 taxation years respectively.
+[4] The Respondent seeks an award of costs on a solicitor-client basis in the form of a lump sum amount of $88,000, which includes disbursements of $6,240.14. In the alternative, the Respondent seeks costs in the form of a lump sum settlement in excess of the Tariff, plus disbursements.
+[5] The Respondent seeks solicitor-client costs because it alleges that the Appellant abused the Court’s process and wasted time and resources by deliberately prolonging the hearing.
+[6] The Appellant did not provide submissions in respect of the issue of costs.
+[7] Section 18.26 of the Tax Court of Canada Act allows this Court to award costs, subject to the Tax Court of Canada Rules (General Procedure) (the “Rules”). It also provides that this Court may consider any written offers of settlement made subsequent to the filing of the Notice of Appeal. Section 147 of the Rules provides the Court with broad discretion, with or without reference to the Tariff, in considering an award of costs. At subsection (3) of this provision, a number of factors are listed that the Court may consider in its determination of costs:
+147. […]
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+[8] Guidelines are also provided in the caselaw. In Merchant v The Queen, 98 DTC 1734, at paragraph 58, Bowman J. (as he was then) stated:
+… The general rule is that a successful litigant is entitled to party and party costs. Where success is divided it is not unusual for no order to be made for costs. … To award solicitor and client costs against a litigant who has achieved the degree of success that Mr. Merchant has requires a high degree of reprehensible conduct. There must, to use the words of McLachin J. in Young (supra) at p. 134, be “reprehensible, scandalous or outrageous conduct on the part of one of the parties”.
+[9] I noted, in my reasons in Zeller Estate v The Queen, 2009 TCC 135, 2009 DTC 1106, that costs may be used as a tool that goes beyond indemnification to a party. Mark Orkin in The Law of Costs, 2nd ed., Vol 1 (Aurora: Canada Law Book, 2008), at 1-9, addresses how costs may be used by the court as a tool beyond that of indemnification:
+Traditionally, the purpose of an award of costs within our “loser pay” system was to partially or, in some limited circumstances, wholly indemnify the winning party for the legal costs it incurred. However, costs have more recently come to be recognized as an important tool in the hands of the court to influence the way the parties conduct themselves and to prevent abuse of the court’s process. Specifically, the three other recognized purposes of costs awards are to encourage settlement, to deter frivolous actions and defences, and to discourage unnecessary steps that unduly prolong the litigation (Mark Orkin, The Law of Costs, 2nd ed., Vol 1 (Aurora: Canada Law Book, 2008) at 2-1)).
+[10] The test for awarding solicitor-client costs was established by the Supreme Court of Canada in Young v Young, [1993] 4 SCR 3, at page 134, as referenced in the decision in Merchant as follows:
+Solicitor-client costs are generally awarded only where there has been reprehensible, scandalous or outrageous conduct on the part of one of the parties. …
+[11] In view of this test and the Respondent’s request for a lump sum award based on solicitor-client costs, a consideration of the factors in subsection 147(3) of the Rules follows:
+The Result of the Proceeding [12] I dismissed the appeals in their entirety so the Respondent was wholly successful.
+The Amounts in Issue [13] While the amounts at issue are, in all likelihood, significant to the Appellant, they are not unusually large amounts.
+The Importance of the Issues [14] The issues are fact specific only to the Appellant.
+Settlement Offers in Writing [15] A consideration of the settlement offers is more difficult to assess as they involved all three Appellants.
+[16] On June 8, 2012 the Respondent made a settlement offer in writing in respect to a resolution of all three appeals on a without costs basis. The Respondent proposed to vacate the assessments of Hanni and Waleed Elbadawi in exchange for Mohammed Elbadawi withdrawing his appeals. This offer was refused on June 11, 2012.
+[17] On January 15, 2013 the Appellant, Mohammed Elbadawi, made an offer, on behalf of all three Appellants, in which he would withdraw his appeals in exchange for the Minister vacating the assessments of Hanni and Waleed Elbadawi subject, however, to the condition that the Minister would agree not to collect on the assessed amount “at any time now or in the future” from his CPP, OAS or GIS payments. The Respondent refused the Appellant’s offer on June 22, 2013 and reiterated its initial offer of June 8, 2012.
+[18] On March 7, 2014 the Appellant again made an offer on behalf of all three Appellants in which he offered to withdraw his appeals in exchange for the Minister vacating the assessments of Hanni and Waleed Elbadawi subject to the condition that payment of the amount owed by Mohammed Elbadawi would be paid by equal yearly instalments in the period between October 1, 2016 and September 30, 2020. The Respondent refused the offer on March 10, 2014 and reiterated its June 8, 2012 offer.
+[19] While both parties made offers, Mohammed Elbadawi’s offers, on behalf of the three Appellants, always contained a condition in respect to his own self‑interest and conditions which I consider unreasonable in the circumstances and potentially a way in which to avoid payment altogether based on his age. This is particularly so when he was not the authorized representative for the other two Appellants.
+[20] Although I allowed the appeals of Hanni Elbadawi and allowed a small portion in relation to the appeals of Waleed Elbadawi, the Respondent’s offer was very similar to the eventual outcome in regard to the appeals of all three Appellants.
+The Complexity of the Issues [21] The issues themselves were neither novel nor complex. The proceedings were lengthy and far more complex than necessary solely because of the Appellant’s conduct and his choice to ignore my many repeated warnings and directions throughout the hearing to concentrate on the issues and not the conduct of the CRA officials. I did not have the same problem with the other two Appellants.
+The Volume of Work [22] The Respondent’s work in respect to the Appellant’s appeal was much greater than would be normally required for this type of an appeal due to the volume of documents produced and probably more largely due to the difficulties in dealing with Mohammed Elbadawi. Prior to the hearing, as referenced in the Respondent’s submissions, the following delays and additional actions were required due to the Appellant’s conduct:
+(a) he late-filed his Notice of Appeal without an application for an extension of time, which necessitated the Respondent bringing a motion and attending a hearing of the motion on June 7, 2010;
+(b) his undertakings were not fulfilled according to the Court-ordered deadline, necessitating a show cause hearing by conference call on August 22, 2012;
+(c) he requested a settlement conference which was scheduled for March 5, 2013, which was adjourned and rescheduled at his request; and
+(d) he filed a unilateral Application for Time and Place of Hearing on March 1, 2013 prior to the settlement conference being rescheduled.
+[23] The volume of the work was also impacted during the hearing by the conduct of the Appellant and length of time required to complete the appeals.
+The Conduct of the Parties [24] As noted by the Respondent, in its submissions on costs, the Appellant’s conduct at the hearing was addressed in the first paragraph of my reasons as follows:
+… The Appellants were self-represented and, despite my explanations and repeated redirections, their focus, throughout the hearing, centered upon the conduct of officials of the Canada Revenue Agency (“the CRA”) in completing the assessments. This accounted in large part for the hearing ballooning from its allotted five days for hearing to the ten days it took to complete.
+[25] The appeals of Mohammed Elbadawi took the majority of the Court’s time over the two weeks of hearings. My aforesaid remarks were focussed primarily at Mohammed Elbadawi, who chose to concentrate his efforts in attempts to denounce the actions and conduct of the CRA officials. He continued that course despite numerous objections by the Respondent and my repeated redirection back to the issues before me. The evidence supports that he is a well‑educated and highly‑experienced business person and, consequently, I cannot attribute his obstinance in maintaining his chosen course of conduct, despite my attempts to dissuade him, to anything but a pursuit of ulterior motives involving the CRA.
+Improper, Vexatious or Unnecessary Stage in the Proceeding [26] Steps in the proceedings, that were unnecessary and could have been avoided, were listed in paragraph 22. Briefly, those included: late-filing of the Notice of Appeal, necessitating the filing and hearing of a motion to dismiss by the Respondent; missed deadline for satisfying undertakings, necessitating the Respondent’s request for a show cause hearing; adjournment of a settlement conference (for which costs, however, have already been awarded to the Respondent); and a unilateral application for time and place of hearing filed by the Appellant before rescheduling of the settlement conference.
+Any Other Relevant Matters [27] At paragraphs 18 and 19 of the Respondent’s submissions, the following was stated:
+18. On the second last day of the hearing, after the evidence of both parties was concluded, the Appellant, Mohammed Elbadawi, approached Sal Bayoumi, who had finished his testimony, and served Mr. Bayoumi with a Statement of Claim.
+19. The Appellant is the plaintiff in the Statement of Claim. The Defendants are Mr. Bayoumi, Joyce Lee (former CRA auditor), Barry Atwood (from the Ontario New Home Warranty Program), and Jinli Ding and Toshiko Nakano (purchasers of the Forest Grove Property). The Statement of Claim is for:
+“a) Damages for interference of contractual rights, defamation of character, conspiracy, perjury, false pretence and harassment in the amount of $2000000.
+b) Prejudgment and post judgment interest in accordance with the provision of the court of Justice act.
+c) Punitive damages in the amount of $200000
+d) The plaintiff cost of this action
+e) Such further and other reliefs as the honourable court deem just.”
+[28] The Respondent suggested that the Court should “draw the conclusion that the Appellant used his Tax Court appeal as a way to gather evidence to be used in his civil action.” (Respondent’s Submissions, paragraph 22). The Appellant’s entire focus throughout the course of the hearing was the conduct of various CRA officials. I repeatedly warned the Appellant that I would give no weight to such evidence and that it was of no assistance to me in determining the issues before me. Despite this, he ignored any efforts on my part to properly focus on the appeals. I agree with the Respondent that it is no coincidence that the Appellant blatantly disregarded my warnings because his goal was a fact-finding mission against the CRA in order to implement his Statement of Claim against a number of CRA individuals as well as an individual from the Ontario New Home Warranty Program and several purchasers of properties he was involved with. It is no doubt the reason why my many, many warnings fell on deaf ears. It is apparent that Mr. Elbadawi had no intention of deviating from his mission.
+[29] The factors of “Requests to admit” and “Stage in the proceeding taken through negligence, mistake or excessive caution” were not applicable to the proceedings before me.
+[30] It was one of the findings in my initial reasons that it was the Appellant’s conduct that prolonged the duration of the hearing to twice the length of time originally allotted for it. Although the Appellant was self-represented, he has been involved in numerous legal and administrative proceedings. He is not new to this process and, in addition, he is an experienced business person. In concluding that the Appellant used the Court’s process with a view to advancing another legal matter in another court is an abuse of the Court’s process. It amounts to reprehensible behaviour on the Appellant’s part, which warrants an award of costs in excess of the Tariff.
+[31] The Respondent provided the following details respecting its calculation of solicitor-client costs:
+1. A determination of the number of hours charged by each counsel and paralegal and application of the applicable hourly rates of each.
+2. The total of the above amounts was reduced by 10 percent to account for inaccuracy and travel time due to the appeals being handled out of the Halifax office (the appeal was heard in Toronto).
+3. This amount was then further reduced by 50 percent on the basis that because there were three Appellants, at least half of the work related directly to Mohammed Elbadawi’s appeal, which was their lead file. The total at this point was $82,830.96 without disbursements.
+4. The Respondent submitted a Schedule I showing the hours, the rate and applicable deductions in support of the above three steps. This schedule also sets out an alternative 33.3 percent split among the three Appellants, applying the same calculations, which resulted in an amount of $55,165.42 in respect to Mohammed Elbadawi’s appeal.
+5. The Respondent submitted that the amount of $55,165.42 was too low since most of the work relating directly to the other Appellants was charged to their individual files.
+[32] In respect to the disbursements, the Respondent used the following method to pro-rate the amounts:
+1. Court reporter services for the discovery were pro-rated at 65 percent ($139.19).
+2. The discovery transcripts invoice included the amount of the Appellant’s transcript and half of the shipping and handling costs ($484.25).
+3. The Tax Court hearing transcript was not pro-rated as only the first week of the hearing was ordered and this week almost entirely related to the appeals of Mohammed Elbadawi ($1,528).
+4. Witness fees for Sal Bayoumi were not pro-rated as the witness’ presence was specifically requested by the Appellant and required from the commencement of the hearing, when the Appellant called him on Day One of the hearing. Witness fees are requested for 9 of the 10 days of the hearing as his presence was required throughout the initial 9 days ($849.40).
+5. Photocopying and courier expenses relating only to the Appellant ($3,239.30).
+[33] The Respondent also provided two scenarios for calculating costs pursuant to the Tariff. The result ranged between $18,170.60 and $35,225, depending on whether various items were pro-rated or not. However, I am of the view that, given the circumstances before me, costs exceeding the Tariff are justified.
+[34] I conclude that the Respondent’s request for a lump sum payment is justified in these circumstances. The Appellant’s attitude toward the outcome of his appeals is reflected again in his non-participation in addressing the issue of costs and further supports my conclusion that he used this Court’s process in order to advance his intended action against numerous individuals, including Sal Bayoumi.
+[35] Consequently, I am awarding the Respondent a lump sum amount of $80,000 for costs in respect to the appeals of Mohammed Elbadawi. I am allowing the total disbursement amount of $6,240.14, as the reasoning and calculations supporting this amount are reasonable in the circumstances. The Respondent shall be entitled, therefore, to an award of costs in the total amount of $86,240.14.
+Signed at Toronto, Ontario, this 8th day of December 2014.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2014 TCC 363
+COURT FILE NO.:
+2010-538(IT)G
+STYLE OF CAUSE:
+MOHAMMED S. ELBADAWI and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+March 17, 18, 19, 20, 21, 2014 and
+June 23, 24, 25, 26, 27, 2014
+REASONS RESPECTING
+SUBMISSIONS ON COSTS:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+August 27, 2014
+DATE OF REASONS RESPECTING SUBMISSIONS ON COSTS
+December 8, 2014
+SUBMISSIONS:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant / Gregory King
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,162 @@
+Title: Nadeau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28399/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-433-28399-nadeau-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-06-22
+
+# Nadeau v. The Queen
+
+- Citation: 2004 TCC 433
+- Decision date: 2004-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1918, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nadeau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-22
+Neutral citation
+2004 TCC 433
+File numbers
+2003-3146(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3146(IT)I
+BETWEEN:
+DEBBIE NADEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on April 8, 2004, at Edmundston, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Guy Décarie
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 23rd day of September 2004.
+Sharon Winkler Moren, Translator
+Citation: 2004TCC433
+Date: 20040622
+Docket: 2003-3146(IT)I
+BETWEEN:
+DEBBIE NADEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from an assessment for the 2001 taxation year. The Minister of National Revenue ("Minister") reduced the Appellant's foreign tax credit by an amount of $2,455. This is the amount of the premiums paid by the Appellant to the Maine State Retirement System ("MSRS") in the course of her employment.
+[2] The Appellant is an American citizen and Canadian resident for the purposes of her income tax return for the taxation year at issue. During this taxation year, she was a teacher in a public school in the State of Maine in the United States. During the taxation year at issue, she earned $32,104 of income in Canadian funds from her work and interest income from Canada. She also paid premiums to the MSRS. The MSRS was created to provide certain benefits to State of Maine employees and public school teachers, including a pension fund and disability and death benefits. Federal tax owing on income from her work in the State of Maine, before the foreign tax credit, is $3,726.32.
+[3] The issue is determining whether the Appellant is entitled to a foreign tax credit for the amount of the MSRS premiums. In her income tax return for the taxation year at issue, the foreign tax credit claimed by the Appellant included the tax she had paid on her income in the State of Maine and her MSRS premiums. The most recent assessment made by the Minister, on October 28, 2002, reduced the amount of the foreign tax credit by the amount of the premiums paid by the Appellant to the MSRS. However, the amount of federal tax to be paid in the case at bar remained the same because the foreign tax credit cannot be higher than the federal tax to be paid on foreign income. A foreign tax credit cannot be used to reduce tax to be paid on income from Canadian sources, such as interest income in the case at bar. The Appellant argues that her MSRS premiums are a foreign tax and must therefore be taken into consideration.
+[4] This situation arises out of section 126 of the Income Tax Act ("Act") the provisions of which are to prevent a Canadian taxpayer from double taxation on income earned abroad. Thus, section 126 grants the taxpayer a credit equal to the foreign tax paid which can be deducted from tax to be paid in Canada on this income. However, this credit cannot be greater than the tax computed according to the proportion set out at paragraph 126(1)(b), in order to prevent the application of the foreign tax credit to tax to be paid on his or her Canadian income.
+[5] The Appellant argues that her premiums are a foreign tax and therefore, must be taken into consideration. It must therefore be determined whether the Appellant's premiums to the MSRS in the course of her employment in the State of Maine, are a tax as understood in the Convention between Canada and the United States or as understood in section 126 of the Act, consequently entitling her to a deduction for foreign tax.
+81.(1) There shall not be included in computing the income of a taxpayer for a taxation year,
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada;
+110 (1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable:
+. . .
+(f) any social assistance payment made on the basis of a means, needs or income test and included because of clause 56(1)(a)(i)(A) or paragraph 56(1)(u) in computing the taxpayer's income for the year or any amount that is
+(i) an amount exempt from income tax in Canada because of a provision contained in a tax convention or agreement with another country that has the force of law in Canada,
+126(1) Foreign tax deduction [credit for foreign tax – non-business income] - A taxpayer who was resident in Canada at any time in a taxation year may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount equal to
+(a) such part of any non-business-income tax paid by the taxpayer for the year to the government of a country other than Canada (except, where the taxpayer is a corporation, any such tax or part thereof that may reasonably be regarded as having been paid by the taxpayer in respect of income from a share of the capital stock of a foreign affiliate of the taxpayer) as the taxpayer may claim,
+not exceeding, however,
+(b) that proportion of the tax for the year otherwise payable under this Part by the taxpayer that
+(i) the amount, if any, by which the total of the taxpayer's qualifying incomes exceeds the total of the taxpayer's qualifying losses
+(A) for the year, if the taxpayer is resident in Canada throughout the year, and
+(B) for the part of the year throughout which the taxpayer is resident in Canada, if the taxpayer is non-resident at any time in the year,
+from sources in that country, on the assumption that
+(C) no businesses were carried on by the taxpayer in that country,
+(D) where the taxpayer is a corporation, it had no income from shares of the capital stock of a foreign affiliate of the taxpayer, and
+(E) where the taxpayer is an individual,
+(I) no amount was deducted under subsection 91(5) in computing the taxpayer's income for the year, and
+(II) if the taxpayer deducted an amount under subsection 122.3(1) from the taxpayer's tax otherwise payable under this Part for the year, the taxpayer's income from employment in that country was not from a source in that country to the extent of the lesser of the amounts determined in respect thereof under paragraphs 122.3(1)(c) and 122.3(1)(d) for the year,
+is of
+(ii) the total of
+(A) the amount, if any, by which,
+(I) if the taxpayer was resident in Canada throughout the year, the taxpayer's income for the year computed without reference to paragraph 20(1)(ww), and
+(II) if the taxpayer was non-resident at any time in the year, the amount determined under paragraph 114(a) in respect of the taxpayer for the year
+exceeds
+(III) the total of all amounts each of which is an amount deducted under section 110.6 or paragraph 111(1)(b), or deductible under any of paragraphs 110(1)(d) to 110(1)(d.3), 110(1)(f), 110(1)(j) and sections 112 and 113, in computing the taxpayer's taxable income for the year, and
+(B) the amount, if any, added under section 110.5 in computing the taxpayer's taxable income for the year.
+126(7) Definitions — In this section:
+"non-business-income tax" paid by a taxpayer for a taxation year to the government of a country other than Canada means, subject to subsections 126(4.1) and 126(4.2), the portion of any income or profits tax paid by the taxpayer for the year to the government of that country that
+(a) was not included in computing the taxpayer's business-income tax for the year in respect of any business carried on by the taxpayer in any country other than Canada,
+(b) was not deductible by virtue of subsection 20(11) in computing the taxpayer's income for the year, and
+(c) was not deducted by virtue of subsection 20(12) in computing the taxpayer's income for the year,
+but does not include a tax, or the portion of a tax,
+(c.1) that is in respect of an amount deducted because of subsection 104(22.3) in computing the taxpayer's business-income tax,
+(d) that would not have been payable had the taxpayer not been a citizen of that country and that cannot reasonably be regarded as attributable to income from a source outside Canada,
+(e) that may reasonably be regarded as relating to an amount that any other person or partnership has received or is entitled to receive from that government,
+(f) that, where the taxpayer deducted an amount under subsection 122.3(1) from the taxpayer's tax otherwise payable under this Part for the year, may reasonably be regarded as attributable to the taxpayer's income from employment to the extent of the lesser of the amounts determined in respect thereof under paragraphs 122.3(1)(c) and 122.3(1)(d) for the year,
+(g) that can reasonably be attributed to a taxable capital gain or a portion thereof in respect of which the taxpayer or a spouse or common-law partner of the taxpayer has claimed a deduction under section 110.6,
+(h) that may reasonably be regarded as attributable to any amount received or receivable by the taxpayer in respect of a loan for the period in the year during which it was an eligible loan (within the meaning assigned by subsection 33.1(1)), or
+(i) that can reasonably be regarded as relating to an amount that was deductible under subparagraph 110(1)(f)(i) in computing the taxpayer's taxable income for the year;
+Convention Between Canada and the United States of America with Respect to Taxes on Income and on Capital (1980):
+Article II
+2. Notwithstanding paragraph 1, the taxes existing on March 17, 1995 to which the Convention shall apply are:
+. . .
+(b) in the case of the United States, the Federal income taxes imposed by the Internal Revenue Code of 1986. However, the Convention shall apply to:
+. . .
+(iii) the United States social security taxes, to the extent, and only to the extent, necessary to implement the provisions of paragraph 2 of Article XXIV (Elimination of Double Taxation) and paragraph 4 of Article XXIX (Miscellaneous Rules); and . . .
+Article III
+1. For the purposes of this Convention, unless the context otherwise requires:
+. . .
+(d) the term "United States tax" means the taxes referred to in Article II (Taxes Covered), other than in subparagraph (b)(i) to (iv) of paragraph 2 thereof, that are imposed on income by the United States;
+Article XV
+1. Subject to the provisions of Articles XVIII (Pensions and Annuities) and XIX (Government Service), salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+Article XXIV
+2. In the case of Canada, subject to the provisions of paragraphs 4, 5 and 6, double taxation shall be avoided as follows:
+(a) subject to the provisions of the law of Canada regarding the deduction from tax payable in Canada of tax paid in a territory outside Canada and to any subsequent modification of those provisions (which shall not affect the general principle hereof)
+(i) income tax paid or accrued to the United States on profits, income or gains arising in the United States, and
+(ii) in the case of an individual, any social security taxes paid to the United States (other than taxes relating to unemployment insurance benefits) by the individual on such profits, income or gains
+shall be deducted from any Canadian tax payable in respect of such profits, income or gains;
+7. For the purposes of this Article, any reference to "income tax paid or accrued" to a Contracting State shall include Canadian tax and United States tax, as the case may be, and taxes of general application which are paid or accrued to a political subdivision or local authority of that State, which are not imposed by that political subdivision or local authority in a manner inconsistent with the provisions of the Convention and which are substantially similar to the Canadian tax or United States tax, as the case may be.
+Canada-United States Tax Convention Act, S.C. 1984, c. 20:
+3(2) In the event of any inconsistency between the provisions of this Act, or the Convention, and the provisions of any other law, the provisions of this Act and the Convention prevail to the extent of the inconsistency.
+Title 5, Part 20: Maine State Retirement System Act, P.L. 1985, c. 801:
+§ 17050 It is the intent of the Legislature to encourage qualified persons to seek public employment and to continue in public employment during their productive years. It is further the intent of the Legislature to assist these persons in making provision for their retirement years by establishing benefits reasonably related to their highest earnings and years of service and by providing suitable disability and death benefits.
+§ 17651 All employees shall become members of the retirement system as a condition of their employment.
+§ 17701‑B Notwithstanding sections 17701 and 17701‑A, on and after July 1, 1993 all members shall contribute to the retirement system or have pick‑up contributions made at a rate of 7.65% of earnable compensation except as otherwise provided in this Part.
+§ 18056 . . . Life insurance and accidental death and dismemberment insurance, to be known as "basic insurance", shall be available to all eligible participants. . . .
+[6] The Appellant's agent conceded during his argument that the premiums are not subject to the provisions of the Convention, particularly paragraph 2 of Article XXIV of the Convention. This section prevents double taxation in Canada by granting a deduction for "income tax paid or accrued to the United States on profits, income or gains arising in the United States" as well as "any social security taxes paid to the United States" by the taxpayer on all Canadian taxes owing on the same sources of income. Although the agent did not specify the reason for this concession, I assume that he concluded that the premiums were not a [translation] "social security" tax and that they were instead in the case at bar, premiums for funding a retirement fund and insurance benefits for teachers in the State of Maine and state employees.
+[7] The Appellant's agent stated, without supporting evidence, that the State of Maine's MSRS replaces the American federal social security program, and as such, it could be a social security tax. I wish to specify that the objective of the MSRS, according to section 17050 of the laws of Maine, supra, is to encourage the residents of the State of Maine to work for the State by making provisions for a pension fund and benefits in the event of death or accident. It is not a social program whose funding is ensured by a [translation] "social security tax".
+[8] The Appellant's agent primarily based his argument on the fact that even if these premiums are not subject to the Convention between Canada and the United States, their deductibility is possible under the definition of a "business‑income tax" found at subsection 126(7) of the Act, supra. A deduction for a foreign tax is allowed on amounts that were not claimed under certain provisions of the Act and that were paid by the taxpayer to the government of a foreign country.
+[9] The Supreme Court of Canada set out the essential characteristics for an amount of money levied by Government to qualify as a tax for the purpose of the Act. As in Lawson v. Interior Tree Fruit and Vegetable Committee of Direction, [1931] S.C.R. 357, the Supreme Court wrote in Eurig Estate, [1998] 2 S.C.R. 565, [2000] 1 C.T.C. 284:
+15 Whether a levy is a tax or a fee was considered in Lawson, supra. Duff J. for the majority concluded that the levy in question was a tax because it was: (1) enforceable by law; (2) imposed under the authority of the legislature; (3) levied by a public body; and (4) intended for a public purpose.
+. . .
+19 The probate levy also meets the fourth Lawson criterion for a tax as the proceeds were intended for a public purpose. The Ontario Law Reform Commission concluded in 1991 that it is difficult to discern a principled justification for ad valorem probate fees, and that "[t]he only rationale for the graduated fee schedule appears to be that it has been regarded as a suitable vehicle for raising revenue" (Report on Administration of Estates of Deceased Persons, at p. 286).
+20 Those conclusions are supported by the evidence before this Court which showed that probate fees do not "incidentally" provide a surplus for general revenue, but rather are intended for that very purpose. The revenue obtained from probate fees is used for the public purpose of defraying the costs of court administration in general, and not simply to offset the costs of granting probate.
+21 Another factor that generally distinguishes a fee from a tax is that a nexus must exist between the quantum charged and the cost of the service provided in order for a levy to be considered constitutionally valid: see G. V. La Forest, The Allocation of Taxing Power Under the Canadian Constitution (2nd ed. 1981), at p. 72. This nexus was also considered relevant to determining the nature of a municipal charge in Allard Contractors, supra. In that case the Court engaged the question of whether an indirect tax levied by a province was validly enacted as incidental to a matter of provincial jurisdiction. Addressing the relationship between a charge and the cost of the underlying service, Iacobucci J. wrote (at p. 411):
+. . .
+22 In determining whether that nexus exists, courts will not insist that fees correspond precisely to the cost of the relevant service. As long as a reasonable connection is shown between the cost of the service provided and the amount charged, that will suffice. The evidence in this appeal fails to disclose any correlation between the amount charged for grants of letters probate and the cost of providing that service. The Agreed Statement of Facts clearly shows that the procedures involved in granting letters probate do not vary with the value of the estate. Although the cost of granting letters probate bears no relation to the value of an estate, the probate levy varies directly with the value of the estate. The result is the absence of a nexus between the levy and the cost of the service, which indicates that the levy is a tax and not a fee.
+[10] In his book entitled The Fundamentals of Canadian Income Tax Vern Krishna reminds us on page 8 that:
+A tax system, however, can be used for more than financing public sector goods and services. It can be used and is also used to implement socio‑economic and political policies.
+[11] In the case at bar, the Appellant's MSRS premiums meet the first three criteria in Eurig Estate (Re) in that there is an enabling statute, the amount is imposed under the authority of the legislature and it is levied by a public agency, i.e. the State of Maine. The difficulty posed by the premiums is the last criterion, for a public interest. As I previously indicated, the MSRS is a retirement and benefit fund for teachers and employees of the State of Maine only and its objective is to encourage the residents of this State to work for the state by establishing these benefits. The premiums therefore are not imposed for the purpose of a public interest, that is, in order to generate income for the state. The premiums, in my opinion, are not a tax for the purposes of section 126 of the Act and should not be included in the foreign tax deduction. The Minister therefore correctly assessed the Appellant.
+[12] The appeal is therefore dismissed.
+Signed at Edmundston, New Brunswick, this 22nd day of June 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 23rd day of September 2004.
+Sharon Winkler Moren, Translator

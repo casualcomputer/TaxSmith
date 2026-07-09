@@ -1,0 +1,135 @@
+---
+title: "Virani c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29697/index.do"
+last_modified: "2010-03-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 113"
+citation2: ""
+neutral_citation: "2010 CCI 113"
+decision_date: "2010-03-16"
+language: "fr"
+item_id: "29697"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6202
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:10:13.024000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b48f1afb889acdc4f383f2f8f70cddf4d9efc9811eeb61756fbf894596bacadc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Virani c. La Reine
+
+- Citation: 2010 CCI 113
+- Decision date: 2010-03-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6202, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Virani c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-16
+Référence neutre
+2010 CCI 113
+Numéro de dossier
+2007-4303(GST)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2010 CCI 113
+Date : 20100316
+Dossier : 2007-4303(GST)I
+ENTRE :
+AZIM M. VIRANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Révisés à partir de la transcription des motifs du jugement
+rendus oralement à l’audience
+à Vancouver (Colombie‑Britannique), le 15 février 2008.)
+La juge Campbell
+[1] Il s’agit d’un appel interjeté sous le régime de la Loi sur la taxe d’accise à l’encontre d’un avis de cotisation établi le 26 septembre 2005 pour la période se terminant le 31 mars 2005. Le 19 mai 2005, le ministre du Revenu national (le « ministre ») a reçu la demande de remboursement de la TPS/TVH pour habitation neuve de l’appelant relativement à un logement en copropriété situé au 1155, rue Seymour, à Vancouver, et portant le numéro d’appartement 2006. Le ministre a refusé le remboursement demandé. La question est donc de savoir si l’appelant a droit au remboursement pour habitation neuve relativement au logement en copropriété de la rue Seymour.
+[2] L’intimée soutient que l’appelant n’a pas acquis le logement pour en faire son lieu de résidence habituelle et que ce logement ne lui a pas non plus servi de lieu de résidence habituelle. L’appelant prétend précisément le contraire : il affirme qu’au moment de l’achat, son intention était d’acquérir le logement de la rue Seymour pour qu’il lui serve de lieu de résidence habituelle. En novembre 2002, l’appelant a conclu un contrat de vente (pièce A‑5) en vue d’acquérir un logement en copropriété qui allait être construit rue Seymour. L’achat avait été effectué sur la base de dessins architecturaux et de plans d’étage. Il devait permettre à l’appelant d’accéder pour la première fois à la propriété. Avant 2002, ce dernier n’avait envisagé qu’une seule fois la possibilité d’acheter une propriété mais, outre ce fait, il avait jusque-là toujours été locataire et jamais propriétaire d’un logement.
+[3] Suivant le contrat de vente, l’appelant devait remettre aux avocats des vendeurs un certain nombre d’acomptes. Par suite d’une confusion, le promoteur a vendu par erreur à une autre personne le logement que l’appelant s’était initialement engagé à acheter. Il a donc proposé à l’appelant d’acheter un autre logement au prix de 312 291,00 $. L’appelant et le promoteur ont signé ce contrat de vente le 19 novembre 2002. Selon les modalités du contrat, l’appelant était tenu de verser, entre le 19 novembre 2002 et le 22 février 2003, trois acomptes considérables totalisant 31 230,00 $. Le logement devait être achevé et prêt à être occupé en 2004. Toutefois, en raison de retards, la fin des travaux a été reportée à mars 2005.
+[4] L'appelant a déclaré dans son témoignage que, puisqu’il avait l’intention d’acheter le logement pour en faire son lieu de résidence habituelle, il avait payé une somme additionnelle de 4 107,73 $ pour la pose de planchers de bois franc et l'installation d’un système d’alarme. Il voulait se doter d’un système d’alarme parce qu’il avait déjà été victime d’un vol. Au départ, l’appelant devait acheter le logement avec sa petite amie, mais après leur rupture, survenue en 2004, il a demandé à son ami Craig Docherty d’emménager avec lui rue Seymour pour l’aider à acquitter les versements hypothécaires.
+[5] En janvier 2004, l’appelant a emménagé chez sa mère, dans l’appartement situé au sous‑sol, afin d’économiser en vue de l’achat de mobilier pour son logement. En décembre 2004 et en janvier 2005, l’appelant a commencé à acheter des meubles. Certains de ces achats ont été effectués avant l’inspection du logement de la rue Seymour (pièce A‑3).
+[6] L’inspection préalable à la livraison a été fixée au 12 janvier 2005 (pièce A‑6). L’appelant s’y est présenté en compagnie de son ami Craig Docherty. Il a été déçu de constater des vices dans la construction du logement. Il y avait des égratignures et des marques sur les planchers, les murs et les stores et des problèmes avec les appareils d’éclairage et les moulures; l’angle d’un des murs avait été construit dans la mauvaise direction et la superficie des pièces était moindre que ce qu’indiquaient les plans d’étage d’origine qu’on lui avait montrés avant la construction.
+[7] L’appelant a déclaré qu’au moment de l’inspection, il a estimé que le logement ne répondait pas à ses attentes et qu’il n’y serait jamais heureux. Il a donc décidé de chercher un autre logement à acheter. Il a déclaré avoir acheté un logement en copropriété situé rue Drake le 3 février 2005. Il aurait visité ce logement pour la première fois environ une semaine avant l’achat. Le 7 février 2005, il a mis en vente le logement de la rue Seymour. La vente a été conclue le 23 février 2005.
+[8] L’appelant avait avisé sa mère de son intention de quitter l’appartement du sous‑sol et celle‑ci avait pris des dispositions pour le louer. Le 4 mars 2005, comme le logement de la rue Drake n’était pas encore libre, il a emménagé dans le logement de la rue Seymour où il a habité jusqu’au 29 mars 2005.
+[9] Son ami, Craig Docherty, qui avait lui aussi avisé le propriétaire de son logement locatif et qui s'était défait de ses meubles, s’est installé dans ce logement pendant cette période de mars. L’appelant a produit les reçus (pièce A‑4) de son déménagement du 29 mars 2005 dans le logement de la rue Drake. Ces reçus montrent que le logement de la rue Drake est le lieu de destination des meubles et qu’il fallait aller chercher ceux-ci au logement de la rue Seymour. L’adresse de la mère de l’appelant figure également sur la facture comme deuxième lieu de collecte de certains des biens de l’appelant. Toutefois, l’appelant a déclaré que les seuls biens qui ont été pris à l’adresse de sa mère étaient des boîtes qui avaient été laissées à l’étage. L’appelant et M. Docherty habitent toujours le logement de la rue Drake.
+[10] Je vais maintenant procéder à l’analyse. Essentiellement, le ministre a décidé que l’appelant n’avait pas droit au remboursement pour habitation neuve parce qu’il ne satisfaisait pas aux conditions énoncées au paragraphe 254(2) de la Loi sur la taxe d’accise (la « Loi »). Les passages pertinents du paragraphe 254(2) sont ainsi libellés (et je lis d’abord le texte de l’alinéa 254(2)b)) :
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche[.]
+[11] L’autre passage pertinent de ce paragraphe se trouve au sous‑alinéa 254(2)g)(i), où on peut lire ce qui suit :
+(i) le premier particulier à occuper l’immeuble ou le logement à titre résidentiel, à un moment après que les travaux sont achevés en grande partie, est :
+Et je lis maintenant la division (B) :
+(B) dans le cas du logement, le particulier, ou son proche, qui, à ce moment, en était l’acheteur aux termes d’un contrat de vente,
+Le paragraphe se poursuit, mais le texte restant n’est pas pertinent.
+[12] Le libellé de cette disposition est limpide. Il fait expressément référence, tant à l’alinéa 254(2)b) qu’à la division 254(2)g)(i)(B), à un « contrat de vente ». Il y est explicitement mentionné que le particulier qui signe un contrat de vente engage sa responsabilité. La disposition ne comporte aucune ambiguïté et je rejette tout simplement l’observation de l’avocate de l’intimée voulant que la responsabilité de l’appelant ait pris naissance au moment où il a obtenu le titre de propriété et assumé la responsabilité des paiements hypothécaires, en février 2005. Ce raisonnement fait totalement abstraction des termes du paragraphe 254(2).
+[13] Il se peut que l’avocate de l’intimée ait été consciente de la difficulté que le libellé du paragraphe lui posait parce qu’elle n’a traité explicitement de la question du [traduction] « moment de l’achat » qu’à la fin de son exposé, lorsque je lui ai demandé de me faire part de ses réflexions à ce sujet. Si ma mémoire est bonne, elle a répondu que la question du « contrat de vente » était évoquée à l’alinéa b) du paragraphe 254(2). Assurément, il faut voir là plus qu’une simple [traduction] « évocation », comme elle l’a affirmé, car la responsabilité y est directement reliée au contrat de vente plutôt qu’à tout événement ultérieur.
+[14] L’avocate de l’intimée a avancé que l’appelant n’avait assumé aucune responsabilité avant février 2005, étant donné qu’en novembre 2002, il ne possédait pas le titre de propriété. Elle a qualifié le document de novembre 2002 d’accord préalable à la construction. Il se peut que ce terme soit tout à fait juste, mais il n’en demeure pas moins qu’il s’agit indubitablement d’un contrat de vente au sens mentionné et envisagé dans cette disposition. En fait, à la pièce A-3, le document porte le titre de [traduction] « contrat de vente ». Ce contrat constituait, pour l'appelant, un engagement ferme et une acceptation de responsabilité relativement à l’achat de la propriété de la rue Seymour. Les acomptes s’élevaient à plus de 31 000,00 $. Par conséquent, je suis d’avis que c’est en novembre 2002, au moment où l’appelant a signé le contrat de vente, qu’il faut établir s’il avait l’intention d’acquérir le logement de la rue Seymour pour qu’il lui serve de lieu de résidence habituelle, et non en février 2005, lors de la cession effective du titre de propriété et de la prise de possession.
+[15] L’avocate de l’intimée a fait valoir que même si je décidais que c’était en date de novembre 2002 qu’il convenait d’établir l’intention de l’appelant, aucune preuve ne permettait de conclure qu’il entendait faire du logement son lieu de résidence habituelle ainsi qu’il l’affirme. Le paragraphe 254(2) prescrit que le ministre doit verser un remboursement à un « particulier » dans le cas où un constructeur effectue, par vente, la fourniture d’un logement au profit du particulier (en l’occurrence, l’appelant) et où le particulier, au moment où il devient responsable aux termes du contrat de vente, acquiert le logement pour qu’il lui serve de lieu de résidence habituelle. À mon sens, la preuve appuie complètement ma conclusion, à savoir que lorsque l’appelant a signé le contrat de vente relatif au logement de la rue Seymour, en novembre 2002, il avait la ferme intention d’en faire son lieu de résidence habituelle. Je fonde cette conclusion sur les facteurs suivants :
+1. Il n’avait aucune expérience du marché de l’immobilier étant donné qu'il accédait à la propriété pour la première fois et qu’il n’avait visité qu’une seule propriété avant d’acheter celle de la rue Seymour;
+2. Il voulait cesser d’être locataire et sa décision d’acheter reposait entre autres sur le fait que ses paiements hypothécaires seraient inférieurs au loyer qu’il payait;
+3. Entre le moment où il a signé le contrat de vente, en novembre 2002, et la date à laquelle il a inspecté le logement de la rue Seymour dont la construction était achevée, soit le 12 janvier 2005, il n’a pas exploré le marché à la recherche d’autres propriétés à vendre; il ne l’a fait qu’après avoir découvert les vices de construction et les problèmes touchant le logement de la rue Seymour, lors de l’inspection;
+4. Il a patienté pendant deux ans et demi, le temps que la construction du logement soit achevée, il a habité chez sa mère pendant environ une année afin d’épargner pour l’achat de mobilier et, lorsque le logement qui correspondait à son premier choix a été vendu par erreur à quelqu’un d’autre, il a d’abord accepté le logement de remplacement qu’on lui a proposé;
+5. Il a commencé à acheter du mobilier pour le logement en décembre 2004, soit avant l’inspection fixée au 12 janvier 2005;
+6. Il a fait ajouter au logement des planchers de bois franc et un système d’alarme.
+[16] Aucun élément de preuve n’indique qu’en novembre 2002, l’appelant avait l’intention d’acquérir et d’occuper le logement de la rue Seymour à d’autres fins que pour en faire son lieu de résidence habituelle. Même si je me rangeais à l’opinion de l’avocate de l’intimée, selon laquelle la Loi commande d’établir l’intention en février 2005, j’arriverais à cette même conclusion. En effet, jusqu’à ce que l’inspection ait lieu, le 12 janvier 2005, la conduite de l’appelant étaye son intention déclarée d’acquérir ce logement pour en faire son lieu de résidence habituelle.
+[17] L’avocate de l’intimée a fait valoir qu’une des factures d’achat de meubles, datée du 29 janvier 2005, posait problème, car les articles avaient probablement été achetés pour le logement de la rue Drake et non celui de la rue Seymour. Toutefois, l’appelant a signalé que le choix des articles avait précédé la visite du logement de la rue Drake, mais qu’en raison du fait qu’ils n’étaient pas offerts en magasin, mais uniquement sur commande, la date figurant sur le reçu et la facture est postérieure à cette visite.
+[18] L’avocate de l’intimée a également relevé des divergences dans les dates de plusieurs documents et déclarations que l’appelant avait signés et transmis à l’ARC au cours de 2007. Certaines de ces dates ne correspondent pas à ce qu’il a déclaré dans son témoignage, mais j’accepte l’explication qu’il en a donnée, car je n’ai aucune raison de douter du témoignage qu’il a livré devant la Cour. Ces documents ont été rédigés par un représentant qui l’aidait à régler le différend avec l’ARC et il les a tout simplement signés sans s’interroger quant aux diverses dates.
+[19] De plus, il a répondu de manière adéquate aux questions de l’avocate concernant le fait qu’en mars 2005, alors qu’il vivait dans le logement, aucune facture n’a été établie à cette adresse. Il a indiqué que puisqu’il n’avait pas ouvert de compte d’électricité, le notaire s’était chargé du calcul et de la répartition des frais. Il utilisait un téléphone cellulaire, ne possédait pas de ligne de téléphone fixe à cette adresse et n’avait pas voulu payer deux fois les frais d’installation de la câblodistribution. Même s’il avait déjà acheté la propriété de la rue Drake lorsqu’il a emménagé dans le logement de la rue Seymour, le 4 mars 2005, ce logement était à ce moment son lieu de résidence habituelle. Il en avait les clés, le titre légal et la possession et il y avait déménagé ses meubles. Son colocataire, M. Docherty, a déclaré qu’il s’était défait de ses propres meubles et qu’il avait emménagé dans le logement, et que toutes les dépenses relatives à ce logement pendant cette période, y compris le paiement de l’hypothèque, étaient entièrement à la charge de l’appelant.
+[20] Lorsque j’examine la disposition maîtresse, l’alinéa 254(2)b), je conclus que l’appelant a assumé la responsabilité du logement de la rue Seymour en novembre 2002 lorsqu’il a conclu le contrat de vente avec le promoteur et que son intention, comme en témoigne sa conduite, était d’acquérir ce logement afin de l’occuper, une fois sa construction achevée. Si j’examine la division 254(2)g)(i)(B), j’en déduis qu’elle est censée s’appliquer, selon moi, aux cas où l’acheteur conclut un contrat de vente avant la construction du logement pour ensuite revendre celui-ci dès l'achèvement des travaux. Cette disposition oblige le ministre à verser le remboursement au premier particulier qui occupe le logement à titre résidentiel à un moment après que les travaux sont achevés en grande partie.
+[21] De nouveau, dans ce passage de la disposition, le particulier est désigné comme étant l’acheteur « aux termes d’un contrat de vente ». Il est par ailleurs intéressant de signaler que, dans ce passage de l’article, il n’est pas question de « lieu de résidence habituelle », mais simplement d’occupation « à titre résidentiel ». Cependant, vu mes conclusions, je ne vois pas la nécessité de procéder à l’examen des implications possibles de l'absence du mot « habituelle » pour qualifier le lieu de résidence à cet alinéa.
+[22] Par conséquent, l’appel est accueilli.
+Signé à Toronto, Canada, ce 16e jour de mars 2010.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 11e jour de février 2014.
+S. Tasset
+RÉFÉRENCE : 2010 CCI 113
+NO DU DOSSIER DE LA COUR : 2007-4303(GST)I
+INTITULÉ : Azim M. Virani et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE : Les 14 et 15 février 2008
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT
+RENDU ORALEMENT : Le 15 février 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Christa Akey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

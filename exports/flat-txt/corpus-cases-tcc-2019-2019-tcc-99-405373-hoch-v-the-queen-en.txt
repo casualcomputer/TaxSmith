@@ -1,0 +1,168 @@
+Title: Hoch v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/405373/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-99-405373-hoch-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-05-01
+
+# Hoch v. The Queen
+
+- Citation: 2019 TCC 99
+- Decision date: 2019-05-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4401, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hoch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-05-01
+Neutral citation
+2019 TCC 99
+File numbers
+2017-2503(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Notes
+A correction was made on May 9, 2019
+Decision Content
+Docket: 2017-2503(IT)G
+BETWEEN:
+RABBI AARON HOCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 3, 2019, at Toronto, Ontario
+By: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Evelyn R. Schusheim
+Counsel for the Respondent:
+Stephen Ji
+JUDGMENT
+The Appeals from the reassessments made under the Income Tax Act for the Appellant’s 2014 and 2015 taxation years are dismissed. Costs payable by the Appellant to the Respondent in accordance with the tariff.
+Signed at Ottawa, Canada, this 1st day of May 2019.
+“R. MacPhee”
+MacPhee J.
+Citation: 2019 TCC 99
+Date: 20190501
+Docket: 2017-2503(IT)G
+BETWEEN:
+RABBI AARON HOCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+MacPhee J.
+OVERVIEW
+[1] The Appellant, Rabbi Aaron Hoch, claimed clergy residence deduction amounts under both subparagraph 8(1)(c)(iii) and 8(1)(c)(iv) of the Income Tax Act (“Act”) [1] for the 2014 and 2015 taxation years. The Minister of National Revenue (the “Minister”) disallowed the Appellant’s claimed deduction under subparagraph 8(1)(c)(iv) on the basis that clergy residence deductions cannot be claimed under both subparagraphs 8(1)(c)(iii) and 8(1)(c)(iv).
+[2] In order to determine whether the Appellant is able to claim a clergy residence deduction under both subparagraphs 8(1)(c)(iii) and 8(1)(c)(iv) the main issue that must be determined is whether the word “or” at the end of subparagraph 8(1)(c)(iii) is disjunctive or conjunctive.
+FACTS
+[3] The parties provided an Agreed Statement of Facts, found at Appendix “A” to this judgment.
+[4] The facts can be summarized as follows: During the 2014 and 2015 taxation years, the Appellant was employed by Canadian Friends of Yeshivat Aish Hatorah (“Aish”) as the principal Rabbi of the Village Shul and Learning Centre in Toronto.
+[5] In 2014 and 2015, the Appellant lived in a home located in Toronto, Ontario. Legal title to the home was taken in the name Aish, but the Appellant and his wife were considered to be beneficial owners of 3/8ths of the home.
+[6] For both 2014 and 2015 Aish issued to the Appellant a T4 slip indicating the value of the benefit of the 5/8ths of the home as $45,000. This amount was included in the Appellant’s income under section 6 of the Act and the Appellant claimed a clergy residence deduction of the same amount pursuant to subparagraph 8(1)(c)(iii) of the Act.
+[7] For the same 2014 and 2015 taxation years, the Appellant also claimed a clergy residence deduction in the amount of $39,460 in respect of the portion of the home owned by the Appellant and his wife. This claim was made pursuant to subparagraph 8(1)(c)(iv) of the Act.
+LAW
+[8] Subparagraphs 8(1)(c)(iii) & (iv) of the Act read as follows:
+Deductions Allowed
+8 (1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted…
+Clergy residence
+(c)…the amount, not exceeding the taxpayer’s remuneration for the year from the office or employment, equal to
+(iii) the total of all amounts including amounts in respect of utilities, included in computing the taxpayer’s income for the year under section 6 in respect of the residence or other living accommodation occupied by the taxpayer in the course of, or because of, the taxpayer’s office or employment as such a member or minister so in charge of or ministering to a diocese, parish or congregation, or so engaged in such administrative service, or
+(iv) rent and utilities paid by the taxpayer for the taxpayer’s principal place of residence (or other principal living accommodation), ordinarily occupied during the year by the taxpayer, or the fair rental value of such a residence (or other living accommodation), including utilities, owned by the taxpayer or the taxpayer’s spouse or common-law partner, not exceeding the lesser of
+(A) the greater of
+(I) $1,000 multiplied by the number of months (to a maximum of ten) in the year, during which the taxpayer is a person described in subparagraphs (i) and (ii), and
+(II) one-third of the taxpayer’s remuneration for the year from the office or employment, and
+(B) the amount, if any, by which
+(I) the rent paid or the fair rental value of the residence or living accommodation, including utilities
+exceeds
+(II) the total of all amounts each of which is an amount deducted, in connection with the same accommodation or residence, in computing an individual’s income for the year from an office or employment or from a business (other than an amount deducted under this paragraph by the taxpayer), to the extent that the amount can reasonably be considered to relate to the period, or a portion of the period, in respect of which an amount is claimed by the taxpayer under this paragraph;
+ANALYSIS
+Standard of Statutory Interpretation
+[9] As previously noted, the issue before the Court is whether the Appellant can claim clergy residence deductions under both subparagraphs 8(1)(c)(iii) and 8(1)(c)(iv). The crux of the issue rests on whether the word “or” at the end of subparagraph 8(1)(c)(iii) is disjunctive or conjunctive.
+[10] As per the Supreme Court of Canada (the “SCC”) in Canada Trustco Mortgage Co., all statutes must be interpreted in a textual, contextual, and purposive way [2] . The SCC further stated in the same decision that:
+When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process [3] .
+[11] Hence, if the words of the statute are clear and plain, they should be given their effect and not be altered by legislative purpose or object [4] . In Placer Dome Inc., the SCC found that:
+Where such a provision admits of no ambiguity in its meaning or in its application to the facts, it must simply be applied. Reference to the purpose of the provision “cannot be used to create an unexpressed exception to clear language” [5] .
+[12] Therefore, a textual analysis of subparagraph 8(1)(c)(iii) and its usage of the word “or” must first take place to determine if the words of the provision are clear and unequivocal.
+Textual
+[13] The Oxford English Dictionary states that “or” is “used to coordinate two (or more) sentence elements between which there is an alternative.” [6] . In Russell, Bowman CJ (as he then was) analyzed whether “or” was disjunctive or conjunctive in the context of subsection 122.5(1) of the Act. Bowman CJ found that “or” in the ordinary sense is prima facie disjunctive [7] . Yet, “or” can also be conjunctive in limited circumstances. For example, the use of “or” between paragraphs 6(6)(a) and 6(6)(b) indicates that the tax free treatment of payment in respect of employment at special worksites or remote locations apply if one or both of the conditions under (a) and (b) are met [8] . However, this is not the case for the “or” in subparagraph 8(1)(c)(iii).
+[14] The existence of the comma before “or” at the end of subparagraph 8(1)(c)(iii) is an important interpretative aid indicating that this “or” is disjunctive. In Matthew, Rip CJ (as he then was) examined paragraphs 90(1)(a) and 90(1)(b) of the Act, which are similarly drafted as subparagraphs 8(1)(c)(iii) and 8(1)(c)(iv). Rip CJ found:
+The presence of a comma "opens the door to a disjunctive interpretation": Canada v. Manitoba (1985), 85 D.T.C. 5588 (Fed. T.D.) (per Joyal J.). The placement of a comma before the word "or" at the end of paragraph 90(1)(a) is clearly intended to create a disjunction between paragraphs 90(1)(a) and 90(1)(b) [9] .
+[15] Paragraphs 90(1)(a) and 90(1)(b) are also similarly drafted in French as subparagraphs 8(1)(c)(iii) and 8(1)(c)(iv). Both pairs of provisions start off with the French word “soit”, which roughly translates to “either, or” in English. Rip CJ found that:
+“[T]he use of the word "soit" is significant, since it clarifies the French text and since it has no counterpart in the English text. Although both "soit" and "ou" are disjunctive particles used to express an alternative, it was a deliberate choice by the legislator to use these distinct terms to indicate a disjunction [10] .”
+[16] The ordinary definition, comma placement, and the French version of the provision show that the word “or” in subparagraph 8(1)(c)(iii) is disjunctive. The language in subparagraph 8(1)(c)(iii) is clear and plain. Therefore, the words of the provision should be given their effect and not be altered by a purposive analysis.
+[17] On that basis, I have concluded that the Appellant is not entitled to claim clergy expenses pursuant to both subsections 8(1)(c)(iii) and 8(1)(c)(iv). The appeal shall therefore be denied. However, for completeness, the statutory context and purpose will be reviewed.
+Contextual
+[18] Subparagraph 8(1)(c)(iii) must be analyzed in the context of subsection 8(1) and paragraph 8(1)(c). The analysis is on whether there is anything in the context of subsection 8(1) or paragraph 8(1)(c) that requires “or” to be interpreted as conjunctive [11] .
+[19] Subsection 8(1) provides for income deductions from an office or employment. Specifically, 8(1) refers to the “following amounts”, which suggests accounting for a sum of multiple deductions. Though, this is referring to the total of different types of deductions and not indicative of how individual deductions are to be calculated.
+[20] The clergy residence deduction is under paragraph 8(1)(c), and contemplates two scenarios. The first being that 8(1)(c)(iii) accounts for amounts received by the taxpayer in his or her income as a benefit under section 6. This is an income approach in accounting for clergy residence expenses.
+[21] The second, 8(1)(c)(iv) accounts for amounts incurred for the fair rental value of a taxpayer’s clergy residence. This is an expenditure approach in accounting for clergy residence expenses. A conjunctive interpretation of “or” would potentially allow a taxpayer to claim clergy residence deductions under both 8(1)(c)(iii) and 8(1)(c)(iv).
+[22] Furthermore, paragraph 8(1)(c) refers to “the amount…equal to”, which suggest that the clergy residence deduction is a singular amount arising from either 8(1)(c)(iii) or 8(1)(c)(iv). Although 8(1)(c)(iii) mentions “the total of all amounts”, the comma and “or” at the end of the subparagraph indicates that it is just the sum of the amounts under 8(1)(c)(iii) alone. There is nothing in the context of subsection 8(1) or paragraph 8(1)(c) that requires “or” to be interpreted as conjunctive.
+Purposive
+[23] The legislative intent of the clergy residence deduction under paragraph 8(1)(c) was to “allow any member of the clergy or a religious order to deduct the cost of their residence because it often served as the place where clergy worked from their home carrying out functions connected to their office” [12] .
+[24] In the present case, interpreting “or” as disjunctive prevents the Appellant from deducting the $39,460 under subparagraph 8(1)(c)(iv). Assuming $84,460 is an accurate sum of all benefits, fair rental value, and utilities incurred by the appellant, the disallowance of his claimed 8(1)(c)(iv) deductions prevents him from fully recouping his expenses. This strays from the legislative intent of paragraph 8(1)(c).
+[25] Normally, 8(1)(c)(iv)(B)(II) limits and reduces the claimed deduction under 8(1)(c)(iv) by any other deduction received by the taxpayer for the same residence. However, 8(1)(c)(iv)(B)(II) is not applicable to deductions claimed under paragraph 8(1)(c), which includes deductions claimed under 8(1)(c)(iii). It is unlikely that Parliament intended for a person to avoid the limitations imposed by subparagraph 8(1)(c)(iv) by simply claiming amounts under both subparagraphs (iii) and (iv) [13] .
+[26] Although the result from the Appellant’s unique situation somewhat stray from Parliament’s original intention, it does not defeat it. The Appellant still received a deduction for part of his expenses under subparagraph 8(1)(c)(iii). As Iacobucci J found in the SCC decision in 65302 British Columbia Ltd.:
+“[W]hile various policy objectives are pursued through our tax system, and do violate the principles of neutrality and equality, it is my view that such public policy determinations are better left to Parliament” [14] .
+[27] As such, the purposive analysis does not support interpreting “or” as conjunctive.
+CONCLUSION
+[28] From the above textual, contextual, and purposive analysis, the word “or” in subparagraph 8(1)(c)(iii) is disjunctive. As such, the Appellant would not be able to claim clergy residence deduction under both subparagraphs 8(1)(c)(iii) and 8(1)(c)(iv).
+[29] The Appeal is dismissed. Costs pursuant to the tariff are awarded to the Respondent.
+Signed at Ottawa, Canada, this 7th day of May 2019.
+“R. MacPhee”
+MacPhee J.
+Appendix “A”
+Agreed Statement of Facts
+CITATION:
+2019 TCC 99
+COURT FILE NO.:
+2017-2503(IT)G
+STYLE OF CAUSE:
+RABBI AARON HOCH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 3, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+May 1, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Evelyn R. Schusheim
+Counsel for the Respondent:
+Stephen Ji
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC, 1985, c1 (5th Supp).
+[2] 2 SCR 601 at para 10.
+[3] Ibid at para 11.
+[4] Vern Krishna, Fundamentals of Canadian Income, Volume I: Personal Tax at page 49.
+[5] Placer Dome Canada Ltd v Ontario (Minister of Finance) 2006 SCC 20 at para 23 quoting Principles of Canadian Income Tax Law (5th ed 2005) at page 569.
+[6] Oxford English Dictionary, 2019 Oxford University Press.
+[7] 2001 CarswellNat 1446 at para 10.
+[8] Jinyan Li, Joanne Magee, and Scott Wilkie, Principles of Canadian Income Tax Law (9th ed 2017) at page 19.
+[9] Matthew v Minister of National Revenue, 1997 CarswellNat 864 at para 29.
+[10] Ibid at para 32.
+[11] Supra note 7 at para 24.
+[12] Lichtman v R, 2017 TCC 252 at para 205.
+[13] Williams v R, 2011 TCC 66 at para 22.
+[14] 65302 British Columbia Ltd., [1999] 3 S.C.R. 804, at para 62.

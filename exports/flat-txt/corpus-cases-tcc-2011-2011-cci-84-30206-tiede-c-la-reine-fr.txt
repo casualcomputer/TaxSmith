@@ -1,0 +1,220 @@
+Title: Tiede c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30206/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-84-30206-tiede-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-02-10
+
+# Tiede c. La Reine
+
+- Citation: 2011 CCI 84
+- Decision date: 2011-02-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7775, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tiede c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-10
+Référence neutre
+2011 CCI 84
+Numéro de dossier
+2010-29(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-29(IT)I
+ENTRE :
+ROBERT W. TIEDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Myrna D. Tiede (2010-30(IT)I) les 1er et 3 décembre 2010 à Winnipeg (Manitoba)
+et le 14 janvier 2011 par vidéoconférence
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Laura Perron (étudiante en droit)
+Me Penny Piper
+JUGEMENT
+L’appel à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en partant du principe que :
+1. pour l’année d’imposition 2003, l’appelant a le droit de déduire une perte d’entreprise fondée sur : a) des déductions de dépenses courantes au montant de 2 022,49 $; b) des dépenses en immobilisations engagées relativement à un bien de catégorie 12 au montant de 674,56 $; c) des dépenses en capital admissibles au montant de 2 725,48 $. Les rajustements appropriés devraient être faits pour tenir compte du fait que l’entreprise a cessé ses activités en septembre 2003;
+2. pour l’année d’imposition 2004, l’appelant a droit à une déduction additionnelle au titre d’une perte locative d’un montant de 132,83 $;
+3. pour l’année d’imposition 2005, l’appelant a droit à une déduction additionnelle au titre d’une perte locative d’un montant de 425,20 $.
+Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 10e jour de février 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de mars 2011.
+Hélène Tremblay, traductrice
+Dossier : 2010-30(IT)I
+ENTRE :
+MYRNA D. TIEDE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Robert W. Tiede (2010-29(IT)I) les 1er et 3 décembre 2010 à Winnipeg (Manitoba) et
+le 14 janvier 2011 par vidéoconférence
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+M. Robert W. Tiede
+Avocates de l’intimée :
+Laura Perron (étudiante en droit)
+Me Penny Piper
+JUGEMENT
+L’appel à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisation en partant du principe que l’appelante a droit à des déductions additionnelles s’élevant à 132,83 $ pour l’année d’imposition 2004 et à 425,20 $ pour l’année d’imposition 2005.
+Chaque partie assumeras ses propres dépens.
+Signé à Ottawa, Canada, ce 10e jour de février 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de mars 2011.
+Hélène Tremblay, traductrice
+Référence : 2011 CCI 84
+Date : 20110210
+Dossiers : 2010-29(IT)I
+2010-30(IT)I
+ENTRE :
+ROBERT W. TIEDE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+ET ENTRE :
+MYRNA D. TIEDE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Robert et Myrna Tiede interjettent appel à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi »). Les appels concernent des déductions que les appelants demandent relativement à un bien locatif ainsi que des déductions que M. Tiede demande au titre de dépenses d’une entreprise de photographie.
+[2] L’appel de M. Tiede concerne les années d’imposition 2003, 2004 et 2005. L’appel de Mme Tiede concerne les années d’imposition 2004 et 2005.
+Activités relatives à la photographie
+[3] Avant les années d’imposition en cause, M. Tiede travaillait à l’emploi d’Atomic Energy of Canada Ltd. (AECL) à Pinawa (Manitoba). En février 2003, AECL a annoncé qu’elle mettait du personnel à pied à cet établissement, et l’emploi de M. Tiede a cessé au début de juin 2003.
+[4] Peu après l’annonce des mises à pied en février 2003, M. Tiede a conclu que ses jours chez AECL étaient comptés, et il a décidé de se lancer dans une carrière d’entrepreneur autonome dans le domaine de la photographie. Il s’intéressait déjà beaucoup à la photographie comme passe-temps depuis de nombreuses années.
+[5] Des plans d’affaires ont été mis en branle dès février 2003. Le domaine de la photographie que M. Tiede avait choisi demandait beaucoup de travaux préliminaires parce que M. Tiede ne possédait ni l’équipement ni la formation requis dans ce domaine précis – l’imagerie numérique. En outre, M. Tiede devait faire d’importantes rénovations dans son sous-sol pour pouvoir y installer le matériel de photographie.
+[6] Les activités préliminaires ont démarré rondement au début de février 2003. Les plans ont toutefois été interrompus en septembre 2003, lorsqu’AECL a offert d’annuler la mise à pied de M. Tiede. M. Tiede a accepté l’offre d’AECL, et il travaille depuis au service de cette entreprise.
+[7] Suite à sa réembauche, M. Tiede a poursuivi ses activités de photographie, mais à un rythme très différent, et sans viser à mettre en marché des produits ou services dans un avenir rapproché. Même à l’heure actuelle, M. Tiede continue de prendre des photos lors de voyages semi-annuels, mais il n’a aucun échéancier précis quant au moment où il pourrait être en mesure de vendre ses photos.
+[8] Dans les années d’imposition 2003, 2004 et 2005, M. Tiede a demandé des déductions au titre de dépenses d’entreprise totalisant respectivement 11 135,11 $, 4 121,11 $ et 8 941,33 $. Au cours de cette période, aucun revenu n’a été généré, mis à part 43,15 $ pour des photos de passeport que M. Tiede a prises pour gagner un revenu à la suggestion de son comptable.
+[9] L’intimée soutient que les pertes que M. Tiede demandait ont été refusées à juste titre dans les cotisations parce que l’entreprise n’a jamais atteint le stade du début. Subsidiairement, l’intimée soutient que, dans tous les cas, la Loi comporte des dispositions précises qui permettent de refuser bon nombre des dépenses.
+[10] J’aborderai chacune de ces questions séparément.
+[11] En ce qui concerne la question de savoir si l’entreprise avait même débuté, j’en suis arrivée à la conclusion que l’entreprise avait effectivement débuté en février 2003. Cependant, je ne suis pas convaincue que l’entreprise soit demeurée active tout au long des années d’imposition en cause. À mon avis, l’entreprise a cessé d’exister en septembre 2003, lorsque M. Tiede a décidé de retourner travailler au service d’AECL.
+[12] La décision du juge Bowman (tel était alors son titre) dans l’affaire Gartry v. The Queen, 94 DTC 1947 (CCI) donne une description utile du critère qui devrait être appliqué pour déterminer si une entreprise a débuté. À la page 1949, le juge Bowman a affirmé :
+[…] Pour ce qui est de la détermination du moment où une entreprise débute, il n’est pas réaliste de dire que c’est au moment où l’on commence à tirer de l’argent du commerce ou de la fabrication d’un bien ou de la prestation d’un service ou, à l’autre extrême, que c’est au moment où l’on a pour la première fois eu l’intention de lancer l’entreprise. Chaque cas dépend des faits qui lui sont propres, mais, lorsqu’un contribuable a pris des mesures importantes, des mesures essentielles pour exploiter l’entreprise, il est juste de conclure que l’entreprise avait démarré. […]
+[13] En l’espèce, je suis convaincue que M. Tiede a pris des mesures importantes très rapidement en vue de mettre en marché des produits et services dans des délais raisonnables. Vers le début de 2003, il a élaboré des plans d’affaires pour l’entreprise de photographie et, tout au long du printemps et de l’été, il a travaillé activement à mettre ces plans en œuvre en achetant du matériel, en suivant une formation et en commençant des rénovations dans son sous-sol. Si les événements n’avaient pas pris la tournure qu’ils ont prises avec AECL, je présume que M. Tiede aurait été en mesure de mettre en marché des produits et services de photographie dans un délai relativement bref. Le bon sens dit que M. Tiede devrait pouvoir déduire des dépenses d’entreprise raisonnables durant la période où il a travaillé activement à l’entreprise.
+[14] Toutefois, il y a eu un changement important dans la situation lorsque M. Tiede a décidé de retourner chez AECL. Il a alors cessé d’avoir un plan précis en vue de mettre en marché des produits ou services dans des délais relativement brefs. À partir de ce moment, l’activité a davantage présenté les caractéristiques d’un projet personnel (passe-temps) que celles d’un projet commercial.
+[15] M. Tiede soutient que la nature de ses plans n’a pas changé; il a continué à mener l’activité dans le but de vendre éventuellement des produits et services de photographie. Il soutient que seul l’échéancier de mise en marché de ces produits et services a changé.
+[16] Je ne puis admettre cette qualification. Plus de huit ans ont passé depuis que ce plan d’affaires a été mis au point, et les plans de M. Tiede en sont encore au stade embryonnaire. Le bon sens dit que la nature de l’entreprise a changé fondamentalement pour passer d’une entreprise active à un projet personnel à l’automne 2003. Je souligne aussi que la photographie est un passe-temps de longue date de M. Tiede et que l’activité comportait des aspects agréables au-delà de la prise de clichés (c’est-à-dire, des voyages vers des destinations vacances ou pour rendre visite à des membres de la famille).
+[17] Étant donné ces circonstances, les dépenses dont la déduction est demandée pour 2003 et qui sont raisonnablement attribuables à la période se terminant au moment où AECL a offert de reprendre M. Tiede (mi-septembre) seront admises dans la mesure où elles sont par ailleurs déductibles en vertu de la Loi. Aucune déduction ne sera admise au titre de dépenses effectuées après ce moment.
+[18] Les dépenses demandées par M. Tiede pour 2003 sont énumérées à l’annexe A de la réponse. Elles sont reproduites ci-dessous.
+[traduction]
+2003
+Publicité
+116,27 $
+Livraison, fret
+18,95 $
+Repas et représentation
+144,80 $
+Bureau
+546,33 $
+Fournitures
+908,13 $
+Voyages
+2 770,22 $
+Téléphone et services publics
+432,81 $
+Perfectionnement professionnel
+629,15 $
+Élaboration d’un portfolio
+4 038,01 $
+Déduction pour amortissement
+1 530,44 $
+Total des dépenses
+11 135,11 $
+[19] J’examinerai maintenant la question de savoir si ces demandes de déduction satisfont aux autres exigences de la Loi.
+[20] Tout d’abord, pour ce qui concerne les dépenses liées à l’élaboration d’un portfolio au montant de 4 038,01 $, cette demande est refusée en entier. Cet article contenait des photos prises au cours d’années antérieures à 2003, et M. Tiede n’était pas certain de la façon dont le comptable avait calculé le montant. Les éléments de preuve ne me convainquent pas que les photos antérieures sont effectivement devenues des actifs de l’entreprise et, dans tous les cas, les éléments de preuve étaient insuffisants quant au coût ou à la valeur de ces biens.
+[21] Pour ce qui est des voyages, à l’été 2003, M. Tiede et son épouse ont fait trois voyages : une croisière en Alaska, un voyage à Calgary et un voyage à Waterton Park. Au cours de la croisière en Alaska, M. Tiede a suivi un cours de photo et, au cours des autres voyages, il a passé du temps à prendre des photos.
+[22] La déduction demandée au titre du coût des voyages à Calgary et à Waterton Park est refusée en entier parce qu’il s’agit de dépenses personnelles qui n’ont pas été engagées dans le cours des activités de l’entreprise. Même si une entreprise avait débuté, je ne suis pas convaincue que les voyages y étaient liés.
+[23] M. Tiede prend depuis longtemps des photos lorsqu’il est en vacances, et je ne suis pas convaincue que ces voyages aient été différents à quelque égard que ce soit. M. Tiede a affirmé que les photos allaient faire partie de ses stocks de photos à vendre. Cependant, je ne suis pas convaincue que les plans d’affaires avaient progressé jusqu’au stade où ces photos pouvaient être considérées comme des actifs de l’entreprise. Ces photos, tout comme les photos prises au cours des années antérieures, sont demeurées des biens appartenant à M. Tiede à titre personnel qui pourraient éventuellement devenir des actifs de l’entreprise.
+[24] Pour ce qui est de la croisière en Alaska, je suis convaincue que le coût du cours de photo était une dépense d’entreprise (2 175,48 $), mais je ne suis pas convaincue que les frais de voyages puissent faire l’objet de la même qualification. Le problème tient à ce qu’aucun élément de preuve n’a été présenté pour démontrer que M. Tiede devait suivre cette formation dans un contexte s’apparentant à un voyage d’agrément. Je propose d’admettre 50 % du coût de la chambre et pension à bord du navire de croisière (550 $). De cette façon, il est tenu compte du fait que M. Tiede aurait engagé des frais de voyage peu importe où le cours était offert. Aucune autre dépense liée à la croisière en Alaska ne sera admise.
+[25] Toutefois, les dépenses reliées à la croisière en Alaska ne devraient pas être admises au titre de dépenses courantes. La formation suivie dans le cadre du cours de photo est un article du compte capital, et les dépenses (2 725,48 $) devraient être traitées comme des dépenses en capital admissibles.
+[26] En ce qui concerne les frais de repas, je ne suis pas convaincue qu’ils ont été engagés principalement à des fins commerciales. Leur déduction est donc refusée au motif qu’ils constituent des dépenses personnelles.
+[27] Pour ce qui est de la déduction pour amortissement (DPA), les dépenses en immobilisations engagées relativement au bien de catégorie 12 au montant de 674,56 $ devraient être admises en conformité avec les reçus fournis (pièce A-30).
+[28] Les autres dépenses demandées pour l’année d’imposition 2003 sont admises. Ainsi, pour l’année d’imposition 2003, M. Tiede a le droit de déduire une perte d’entreprise fondée sur : des déductions au titre de dépenses courantes au montant de 2 022,49 $, des dépenses en immobilisations engagées relativement au bien de catégorie 12 au montant de 674,56 $ et des dépenses en capital admissibles au montant de 2 725,48 $. Les rajustements appropriés devraient être faits pour tenir compte du fait que l’entreprise a cessé d’exister en septembre 2003.
+Bien locatif
+[29] Au cours des années d’imposition 2004 et 2005, M. et Mme Tiede ont demandé la déduction de pertes relatives à un bungalow qui avait été acheté en mai 2004 et avait été utilisé comme bien locatif. Le rez-de-chaussée avait été loué aux deux enfants des Tiede, et le sous-sol avait été occupé à partir d’août 2004 par deux locataires qui n’avaient aucun lien de parenté avec les Tiede.
+[30] Le loyer des enfants était de 625 $ par mois pour le rez-de-chaussée, et les locataires du sous-sol payaient 595 $ par mois. L’intimée admet que les loyers correspondent à la juste valeur marchande.
+[31] Dans leurs déclarations de revenus pour 2004 et 2005, M. et Mme Tiede ont demandé la déduction des pertes locatives totalisant respectivement 6 143,96 $ et 7 404,70 $. Ils ont réparti les pertes entre eux à parts égales.
+[32] Le ministre a refusé la déduction de certaines dépenses, de sorte que les pertes annuelles globales ont été respectivement réduites à 965,54 $ et à 96,16 $. Une déduction additionnelle de 52 $ a été admise à l’égard de Mme Tiede.
+[33] Une annexe aux réponses comporte une ventilation des montants demandés par les appelants et admis par le ministre. Il n’est pas nécessaire de la reproduire dans les présents motifs.
+[34] Trois éléments sont en litige : (1) les frais de bureau; (2) les frais de gestion et d’administration; (3) les frais d’entretien et de réparations.
+[35] Je mentionnerais également certains rajustements que le ministre a faits et qui ne sont plus en litige : (1) les appelants ont accepté le refus de la déduction au titre des frais de voyage; (2) l’intimée admet le coût en capital d’une balayeuse et d’électroménagers; (3) les appelants admettent que le coût du bien-fonds que comporte le bien ainsi que les honoraires d’avocat y afférents ne donnent pas droit à une déduction pour amortissement.
+[36] S’agissant maintenant des montants litigieux, pour ce qui est des frais de bureau, les montants à l’égard desquels une déduction était demandée étaient de 265,65 $ en 2004 et de 517,40 $ en 2005. En vérité, ces montants ne correspondent pas à des frais de bureau, comme les appelants l’avaient indiqué dans leurs déclarations de revenus. Il s’agit plutôt de frais de câble et de services Internet que les appelants ont payés pour le bien locatif. Les déductions seront admises.
+[37] Pour ce qui est de l’entretien et des réparations, les dépenses sont principalement liées aux coûts engagés pour peindre le bien locatif. Il s’agit d’un projet auquel toute la famille a participé. Les dépenses demandées le sont au titre de fournitures et des coûts de la main-d’œuvre des enfants à raison de 10 $ l’heure.
+[38] Les frais d’entretien et de réparations pour 2004 s’élevaient à 5 318,51 $. Ces frais n’ont pas été demandés au titre de dépenses courantes mais ont plutôt été traités comme un coût en capital relatif au bien de catégorie 12 à des fins de déduction pour amortissement.
+[39] Les dépenses pour 2005 s’élevaient 3 360,10 $. La moitié de ce montant (1 680,05 $) a été déduite au titre de dépense courante, tandis que le reste a été traité comme un coût en capital relatif au bien de catégorie 12.
+[40] Le ministre n’a admis aucun coût en capital relativement à l’entretien et aux réparations pour 2004 et 2005. Cependant, une déduction au titre de dépenses courantes au montant de 1 137 $ a été admise pour l’année d’imposition 2005.
+[41] Dans les réponses, l’intimée a remis en question le coût en capital inscrit dans les déclarations. Je pense qu’il s’agit là d’une erreur parce que le coût en capital n’a eu aucune incidence sur les cotisations. Aucune déduction pour amortissement n’a été demandée en 2004 ou en 2005. Comme les présents appels ont été entendus suivant la procédure informelle, je propose de commenter la question du coût en capital afin que cela puisse servir pour les années d’imposition futures. Cependant, mes commentaires à cet égard ne sont pas contraignants, et les dispositifs des jugements n’y feront pas écho.
+[42] Aux fins de l’analyse des frais d’entretien et de réparations, j’examinerai séparément le coût des fournitures et le coût de la main-d’œuvre des enfants.
+[43] Pour ce qui est du coût des fournitures d’entretien en 2004, l’intimée a concédé à l’audience que les montants demandés devraient être ajoutés à la catégorie 1. Cette concession a été faite parce que les appelants ont produit les reçus appropriés à l’audience. Ce montant est de 2 637,79 $.
+[44] Pour ce qui est du coût des fournitures d’entretien en 2005, le ministre a rejeté certains reçus parce qu’il a estimé qu’ils correspondaient à des dépenses personnelles. Ces reçus se rapportaient notamment à des repas pris en famille et à de la litière pour chats. Je conviens qu’il est indiqué de refuser ces dépenses. Le coût des fournitures devrait être réduit et passer de 1 389,20 $ à 1 137 $.
+[45] Pour ce qui est du coût de la main-d’œuvre en 2004 et 2005, le ministre soutient qu’aucun montant n’a été payé aux enfants. Je ne suis pas d’accord. Les appelants n’ont pas payé les enfants en espèces pour leurs services de peinture, mais les montants ont été déduits du montant exigible au titre du loyer. Cette forme de paiement est acceptable pourvu que la tenue de livres soit convenable. Je n’ai aucune raison de croire qu’elle ne l’a pas été.
+[46] En conséquence, je conclue que le coût en capital au titre de l’entretien et des réparations pour 2004 au montant de 5 318,51 $ est demandé à juste titre.
+[47] Pour ce qui est de l’entretien et des réparations en 2005, le total des dépenses correspond à des coûts de main-d’œuvre au montant de 1 804 $ et de fournitures au montant de 1 137 $. Je propose que le montant global de 2 941 $ soit traité pour moitié comme une dépense courante et pour moitié comme un coût en capital. La déduction courante admise pour 2005 est donc de 1 470 $, soit 333 $ de plus que ce que le ministre a admis. Une déduction additionnelle de 333 $ est admise.
+[48] J’examinerai maintenant les frais de gestion et d’administration. Il s’agissait d’un montant de 400 $ supposément payé chaque mois aux enfants qui vivaient dans le logement locatif. Les appelants ont déduit des montants de 2 800 $ pour l’année d’imposition 2004 et de 5 040 $ pour l’année d’imposition 2005.
+[49] Le ministre a refusé la déduction pour deux motifs : premièrement, les montants n’avaient pas été payés, et deuxièmement, les montants étaient déraisonnables.
+[50] Quant à savoir si les frais ont été payés, je suis convaincue qu’ils l’ont été. Tout comme dans le cas des frais de services de peinture, les frais de gestion et d’administration ont réduit le montant du loyer exigible. Je n’y trouve rien à redire.
+[51] L’intimée a également soutenu que la déduction des frais devrait être refusée parce que ceux‑ci étaient déraisonnables. Compte tenu de la relation entre les parties, il est raisonnable d’examiner de plus près ces déductions. Dans la mesure où ces frais dépassent ce que toute personne raisonnable paierait, l’excédant devrait être refusé en application de l’article 67 de la Loi : Gabco Ltd. v. MNR, 68 DTC 5210 (C. de l’É.), à la page 5216.
+[52] D’après les notes que j’ai prises à l’audience, M. Tiede a affirmé que ce montant avait été payé pour des services supplémentaires fournis par les enfants aux fins de l’entretien du bien, notamment des services de nettoyage, de déneigement, d’inspection et de réparation. Le montant payé représente 40 heures par mois à 10 $ l’heure.
+[53] Cette dépense me pose problème parce qu’il n’y a aucun document à l’appui qui justifie les montants payés. Aucun registre n’a été tenu de la nature des services et du temps consacré. À défaut de disposer de documents semblables, je ne puis conclure que les frais sont raisonnables. Je noterais également que le montant global des frais payés aux enfants (peinture et gestion) a pratiquement compensé la totalité du loyer qui était exigé. Je ne suis pas convaincue que cela soit raisonnable en l’absence de documents justificatifs appropriés. Aucun montant n’est donc admis au titre de la gestion et de l’administration.
+[54] Lorsque je tiens compte des rajustements précités relatifs au bien locatif, les appelants devraient avoir droit à des déductions additionnelles aux montants de 265,65 $ pour l’année d’imposition 2004 et de 850,40 $ pour l’année d’imposition 2005. Ces montants devraient être répartis en parts égales, de sorte que chaque appelant ait droit à des déductions additionnelles aux montants de 132,83 $ pour l’année d’imposition 2004 et de 425,20 $ pour l’année d’imposition 2005.
+Conclusion
+[55] En terminant, je tiens à signaler que certains des montants précités sont fondés sur des approximations plutôt que sur un examen méticuleux de la montagne de reçus que M. Tiede a produits en preuve. En conséquence, il se peut que mes approximations entraînent des inexactitudes dont certaines seront à l’avantage des appelants, tandis que d’autres seront à leur désavantage. Je me suis efforcée, de manière générale, d’être généreuse envers les appelants. J’aimerais également louer le grand soin que M. Tiede a mis à monter le dossier de reçus qu’il a présenté à la Cour.
+[56] Compte tenu de ce qui précède, l’appel de M. Tiede pour les années d’imposition 2003, 2004 et 2005 est accueilli, et les cotisations seront déférées au ministre du Revenu national pour nouvelles cotisations. Pour l’année d’imposition 2003, M. Tiede a droit à la déduction d’une perte d’entreprise fondée sur : des déductions de dépenses courantes au montant de 2 022,49 $; des dépenses en immobilisations engagées relativement à un bien de catégorie 12 au montant de 674,56 $; des dépenses en capital admissibles au montant de 2 725,48 $. M. Tiede a droit en outre à des déductions additionnelles aux montants de 132,83 $ pour l’année d’imposition 2004 et de 425,20 $ pour l’année d’imposition 2005.
+[57] L’appel de Mme Tiede est également accueilli, et les cotisations seront déférées au ministre du Revenu national pour nouvelles cotisations en partant du principe que Mme Tiede a droit à des déductions additionnelles aux montants de 132,83 $ pour l’année d’imposition 2004 et de 425,20 $ pour l’année d’imposition 2005.
+[58] Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 10e jour de février 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de mars 2011.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2011 CCI 84
+No DES DOSSIERS DE LA COUR : 2010-29(IT)I
+2010-30(IT)I
+INTITULÉS : ROBERT W. TIEDE c. SA MAJESTÉ LA REINE et MYRNA D. TIEDE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATES DE L’AUDIENCE : Les 1 et 3 décembre 2010
+Le 14 janvier 2011
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 10 février 2011
+COMPARUTIONS :
+Représentant des appelants :
+M. Robert W. Tiede
+Avocate de l’intimée :
+Laura Perron (étudiante en droit)
+Me Penny Piper
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : S.O.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

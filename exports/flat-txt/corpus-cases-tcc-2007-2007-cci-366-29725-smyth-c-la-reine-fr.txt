@@ -1,0 +1,136 @@
+Title: Smyth c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29725/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-366-29725-smyth-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-02-02
+
+# Smyth c. La Reine
+
+- Citation: 2007 CCI 366
+- Decision date: 2007-02-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6533, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smyth c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-02
+Référence neutre
+2007 CCI 366
+Numéro de dossier
+2005-4329(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+0001
+COUR CANADIENNE DE L’IMPÔT
+____________________________________
+Dossier : 2005-4329(IT)I
+ENTRE :
+JAMES R. SMYTH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+______________________________________________
+DÉCISION
+Le 2 février 2007
+Audience tenue aux bureaux de la Cour fédérale du Canada
+Edmonton (Alberta)
+Volume 1
+_______________________________________________
+DEVANT :
+L’honorable juge Brent Paris
+0002
+COMPARUTIONS
+DEVANT :
+L’honorable juge Brent Paris
+--------------------------------------
+Aucune comparution pour l’appelant
+Me Darcie E. Charlton pour l’intimée
+--------------------------------------
+Mme Irene Anselmo greffière audiencière
+Mme Deanna Jackson, s.a. sténographe
+* * * * * * * * * * * * * * *
+0003
+TABLE DES MATIÈRES
+PAGE
+COMPARUTIONS 2
+REMARQUES PRÉLIMINAIRES 4
+DÉCISION 4
+REMARQUES FINALES 13
+* * * * * * * * * * * * * * *
+[TRADUCTION FRANÇAISE OFFICIELLE]
+(L’AUDIENCE A COMMENCÉ À 12 H 54)
+LA GREFFIÈRE : Silence, veuillez vous lever.
+La Cour rendra maintenant une décision dans l’appel 2005‑4329(IT)I entre James R. Smyth, appelant, et Sa Majesté la Reine, intimée.
+LE JUGE PARIS : Merci. Veuillez vous asseoir.
+Il s’agit d’un appel d’une nouvelle cotisation concernant les années d’imposition 2001 et 2002 de l’appelant, par laquelle le ministre du Revenu national a refusé une demande de crédit d’impôt pour emploi à l’étranger (« CIEE »). L’appelant demandait un crédit d’impôt pour emploi à l’étranger de 11 153 $ en 2001 et de 38 448 $ en 2002 à l’égard du revenu d’emploi gagné au Kosovo, où il fournissait des services de police dans le cadre d’une mission de l’ONU.
+Il s’agit en l’espèce de savoir si l’appelant est admissible à un CIEE pour ces années, en vertu de l’article 122.3 de la Loi de l’impôt sur le revenu et, dans la négative, il s’agit de savoir à quelle déduction l’appelant a droit en vertu de l’alinéa 110(1)f) de la Loi.
+Les faits sur lesquels le ministre s’est fondé en établissant une nouvelle cotisation à l’égard de l’appelant sont énoncés au paragraphe 10 de la réponse modifiée à l’avis d’appel, et feront partie des présents motifs (ces faits sont énoncés à l’annexe I).
+Dans la réponse modifiée, l’intimée a indiqué que l’appelant fournissait des services de police au Kosovo plutôt qu’en Bosnie‑Herzégovine, comme on l’avait initialement supposé. La chose est étayée par la preuve, et cette erreur mineure dans les hypothèses n’a pas d’importance.
+L’article 122.3 énonce plusieurs conditions que le contribuable doit remplir afin d’être admissible au crédit d’impôt. Les passages pertinents du paragraphe 122.3(1) sont rédigés comme suit :
+Lorsqu’un particulier réside au Canada au cours d’une année d’imposition et que, tout au long d’une période de plus de 6 mois consécutifs ayant commencé avant la fin de l’année et comprenant une fraction de l’année [...]
+a) d’une part, il a été employé par une personne qui était un employeur déterminé, dans un but autre que celui de fournir des services en vertu d’un programme, visé par règlement, d’aide au développement international du gouvernement du Canada;
+b) d’autre part, il a exercé la totalité, ou presque, des fonctions de son emploi à l’étranger :
+(i) dans le cadre d’un contrat en vertu duquel l’employeur déterminé exploitait une entreprise à l’étranger se rapportant à, selon le cas :
+[...]
+(C) toute activité visée par règlement,
+(ii) dans le but d’obtenir, pour le compte de l’employeur déterminé, un contrat pour la réalisation des activités [susmentionnées]
+L’article 122.3 énonce ensuite la méthode de calcul du CIEE.
+Il faut d’abord déterminer qui était l’employeur de l’appelant pendant que celui‑ci travaillait au Kosovo. L’appelant soutient qu’il était employé par l’ONU et qu’il avait rompu sa relation d’emploi avec le Service de police d’Edmonton avant de commencer à travailler au Kosovo.
+L’appelant a renvoyé à la preuve soumise par deux témoins du Service de police d’Edmonton qui avaient participé à la même mission de l’ONU, au Kosovo, ainsi qu’à la preuve qu’il avait lui‑même présentée, selon laquelle le travail effectué à cet endroit n’était pas visé par la convention collective conclue entre le Service de police d’Edmonton et l’Edmonton Police Association et, en particulier, que les dispositions de la convention collective concernant les heures et les conditions de travail ne s’appliquaient pas.
+L’appelant a également renvoyé à un document produit sous la cote A‑4, intitulé [traduction] « Attestation d’emploi », délivré par le directeur adjoint, Administration, Mission de l’ONU relative au service de police au Kosovo, attestant que l’appelant travaillait à titre d’agent de police civil pour la mission de l’ONU au Kosovo. Le document disait également que l’appelant était rémunéré au taux quotidien de 71 $US pendant qu’il était employé dans le cadre de la mission de l’ONU au Kosovo.
+Je ne puis souscrire aux arguments avancés par l’appelant sur ce point. Selon la preuve soumise par le sergent Glen Hayden, du Service de police d’Edmonton, qui était membre du bureau de l’Edmonton Police Association, l’appelant n’avait pas cessé d’être membre du Service de police d’Edmonton ou de l’Edmonton Police Association pendant qu’il participait à la mission de l’ONU.
+La preuve documentaire montre que l’appelant recevait son salaire régulier du Service de police d’Edmonton et qu’il avait droit à certains avantages prévus dans la convention collective, notamment à un crédit aux fins du calcul de son ancienneté et de ses prestations de retraite pour le temps travaillé au Kosovo, et à la garantie offerte par les régimes médical et dentaire.
+Je ne puis rien constater dans la documentation qui donne à entendre qu’il y a eu cessation d’emploi auprès du Service de police d’Edmonton au cours des années en cause. Il semble plutôt que l’appelant ait été autorisé, dans le cadre de son emploi, à participer à la mission au Kosovo aux conditions énoncées dans la pièce R‑1, soit la lettre d’entente entre le Service de police d’Edmonton et la GRC d’une part, et l’appelant et sa collègue, la gendarme Stolarchuk, d’autre part.
+Le fait que le Service de police d’Edmonton a signé cette entente révèle la relation continue existant entre les participants individuels et le Service de police d’Edmonton. En particulier, je me reporte aux paragraphes 2.1 et 2.2 de l’entente, dans lesquels le Service de police d’Edmonton s’engage à fournir les services des participants dans le cadre de la mission de l’ONU et à mettre ceux‑ci à la disposition de la mission.
+Le Service de police d’Edmonton continuait également à exercer un contrôle sur les participants dans le cas où ceux‑ci ne se seraient pas conformés pas aux lignes directrices opérationnelles de l’ONU applicables à la force de police de l’ONU.
+Le fait que la GRC a remboursé le Service de police d’Edmonton du coût afférent au salaire et aux avantages accordés au participant ne change rien à la relation d’emploi préexistante; je note que l’entente prévoyait également que les participants ne seraient pas considérés comme des employés de la GRC.
+Quant à l’attestation d’emploi délivrée par la mission de l’ONU au Kosovo, pièce A‑4, il n’existe aucun élément de preuve indiquant ce sur quoi repose l’attestation. Le document n’est pas réputé être un contrat de travail, et aucun contrat conclu entre l’appelant et l’ONU n’a été produit à l’audience.
+Dans la mesure où la pièce A‑4 contredit les dispositions qui ont été prises par le Service de police d’Edmonton, la GRC et l’appelant lui‑même au sujet de la participation de celui‑ci à la mission, comme en fait foi la lettre d’entente, je n’y accorde que peu de poids. Ce document semble avoir été préparé à des fins restreintes et ne peut pas être considéré comme remplaçant la lettre d’entente, en l’absence du consentement exprès de toutes les parties à la lettre d’entente.
+L’appelant a peut‑être bien accompli des tâches et assumé des responsabilités ne relevant normalement pas des fonctions d’un agent de police travaillant à Edmonton, mais il en était ainsi par suite d’une entente intervenue entre le Service de police d’Edmonton et l’appelant. De même, l’appelant s’est engagé à s’acquitter de son travail conformément aux conditions énoncées dans les lignes directrices de l’ONU.
+Je ne dispose d’aucun élément montrant que l’appelant ne pouvait pas souscrire à ces conditions pendant qu’il continuait à être employé par le Service de police d’Edmonton. Je conclus donc que l’appelant était de fait employé par le Service de police d’Edmonton pendant qu’il exerçait ses fonctions au Kosovo.
+Il s’agit ensuite de décider si l’appelant a exercé les fonctions de son emploi au Kosovo dans le cadre d’un contrat en vertu duquel le Service de police d’Edmonton exploitait une entreprise à l’étranger comme l’exige le paragraphe 122.3(1) de la Loi.
+L’appelant soutient qu’il suffit que le Service de police d’Edmonton fournisse des services dans le cadre d’un contrat en vertu duquel la GRC exploitait une entreprise à l’étranger. Il se fonde à cet égard sur la décision rendue par la Cour dans l’affaire Gonsalves v. The Queen, 2000 DTC 1491.
+Cette position suscite un problème en ce sens que, pour qu’il soit conclu que le Service de police d’Edmonton ou la GRC exploitait une entreprise, il faut établir que ces organisations assuraient le maintien de l’ordre au Kosovo en vue de la réalisation d’un bénéfice. Cette exigence découle des arrêts rendus par la Cour d’appel fédérale dans les affaires Dansereau c. La Reine, [2001] A.C.F. no 1560 et Timmins c. La Reine, [1999] 2 C.F. 563. Il doit s’agir d’un bénéfice pécuniaire et non d’un avantage théorique comme le soutient l’appelant.
+Rien ne donne à entendre que le Service de police d’Edmonton ou la GRC ait participé au maintien de l’ordre au Kosovo en vue d’en tirer un profit pécuniaire ou financier. Par conséquent, le travail que l’appelant a accompli au Kosovo ne remplit pas les conditions énoncées au sous‑alinéa 122.3(1)b)(i) de la Loi.
+En outre, rien ne montre que le travail de maintien de l’ordre au Kosovo était une activité visée par règlement au sens du sous‑alinéa 122.3(1)b)(ii), qui exige que les fonctions soient liées à un contrat conclu avec l’ONU. Je ne puis retenir la thèse de l’appelant selon laquelle les documents produits en preuve suffisent à démontrer l’existence d’un tel contrat.
+La base sur laquelle les agents de police canadiens étaient mis à la disposition de l’ONU et les conditions applicables n’ont pas été démontrées, et il ne m’est pas loisible de faire des conjectures au sujet de la nature de ces ententes.
+Pour ces motifs, je conclus que l’appelant exerçait au Kosovo un emploi qui ne répond pas aux conditions énoncées au sous‑alinéa 122.3(1)b)(i) de la Loi, et que l’appelant n’a pas droit au CIEE pour les années 2001 et 2002.
+L’appelant n’a pas présenté d’arguments à l’appui d’une demande de déduction en vertu de l’alinéa 110(1)f) de la Loi, mais il a soulevé la question dans son avis d’appel, et l’avocat de l’intimée a traité de ce point.
+Je suis d’accord avec l’intimée pour dire qu’aucune déduction ne peut être effectuée en vertu de cette disposition. J’ai déjà conclu que l’appelant était employé par le Service de police d’Edmonton au cours de la période pertinente; par conséquent, son revenu d’emploi n’est pas prévu au sous‑alinéa 110(1)f)(iii), qui porte sur le revenu tiré d’un emploi auprès d’une organisation internationale visée par règlement. En outre, le sous‑alinéa 110(1)f)(v) n’a été ajouté à la Loi qu’en 2005 et s’applique uniquement aux années d’imposition postérieures à l’année 2003.
+L’appelant conteste également les intérêts et pénalités que le ministre a établis en l’espèce. Il souligne qu’il a demandé le crédit sur les conseils de son employeur et, en particulier, sur les conseils de Daniel Jones, qui dirige le programme international de prestation de services de maintien de la paix au sein du Service de police d’Edmonton.
+M. Jones était également l’un des premiers membres du Service de police d’Edmonton à servir au Kosovo. M. Jones a témoigné s’être renseigné auprès du bureau de l’ARC, à Edmonton, afin de savoir s’il avait droit au crédit d’impôt pour emploi à l’étranger à l’égard du revenu gagné pendant qu’il travaillait au Kosovo dans le cadre du même programme que celui qui s’est par la suite appliqué à l’appelant; on lui avait dit qu’il était admissible.
+M. Jones, pour le compte du Service de police d’Edmonton, a par la suite informé d’autres participants qu’ils pouvaient demander le crédit. La gendarme Stolarchuk a également témoigné qu’il y avait eu énormément de confusion, au sein de l’ARC, au sujet de la demande de CIEE qu’elle avait faite, cette demande ayant initialement été refusée, puis admise, et finalement refusée encore une fois.
+Il existe bon nombre de décisions portant que le ministre n’est pas lié par les déclarations de ses employés, et la Cour n’a pas compétence pour ordonner que les pénalités et les intérêts soient réduits, sauf lorsque la Loi... lorsque l’appelant démontre que ces montants n’ont pas été déterminés ni imposés conformément aux dispositions de la Loi.
+L’appelant n’a pas soutenu que les pénalités et les intérêts n’étaient pas conformes à la Loi, mais il a soutenu que, sur le plan de l’équité, ils devraient être supprimés. Malheureusement, la chose ne relève pas de mon pouvoir. Toutefois, je peux exprimer mon avis, à savoir qu’il conviendrait dans ce cas‑ci de renoncer à la pénalité et aux intérêts en vertu des lignes directrices en matière d’équité pour la période précédant l’établissement de la nouvelle cotisation, étant donné que la demande de crédit d’impôt pour emploi à l’étranger de l’appelant était fondée sur les conseils erronés fournis par l’ARC.
+Pour ces motifs, l’appel est rejeté. Merci.
+M. SMYTH : Merci, Monsieur le Juge.
+LA GREFFIÈRE : L’audience prend fin.
+La séance reprendra à 14 h.
+(L’AUDIENCE A PRIS FIN À 13 H 07)
+Traduction certifiée conforme
+ce 13e jour de décembre 2007.
+Johanne Brassard, trad. a.
+ANNEXE 1
+[traduction]
+10. En établissant et en ratifiant ainsi la nouvelle cotisation à l’égard de l’appelant, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) tout au long des années 2001 et 2002, l’appelant résidait au Canada;
+b) au cours des années 2001 et 2002, l’appelant travaillait pour le Service de police d’Edmonton (le « SPE »);
+c) le SPE a conclu une entente avec Sa Majesté la Reine du chef du Canada, représentée par la Gendarmerie royale du Canada (la « GRC »), en vue de fournir des services de police dans le cadre des opérations internationales de maintien de la paix (l’« entente »);
+d) conformément à l’entente, l’appelant a fourni des services de police en Bosnie‑Herzégovine du 2 novembre 2001 au 2 août 2002;
+e) en 2001 et en 2002, l’appelant a reçu du SPE un revenu d’emploi s’élevant à 82 840 $ et à 67 851 $ respectivement;
+f) l’appelant n’a pas reçu d’autre revenu d’emploi au cours des années 2001 et 2002, mis à part les montants reçus du SPE;
+g) l’appelant a demandé le CIEE, compte tenu du revenu d’emploi gagné pendant qu’il était en Bosnie‑Herzégovine, ce crédit s’élevant à 11 153 $ en 2001 et à 38 448 $ en 2002;
+h) ni la GRC ni le SPE n’exploitaient une entreprise à l’étranger;
+i) le SPE n’avait pas conclu de contrat avec l’ONU.

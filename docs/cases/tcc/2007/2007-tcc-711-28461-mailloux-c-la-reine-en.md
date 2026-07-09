@@ -1,0 +1,173 @@
+---
+title: "Mailloux c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28461/index.do"
+last_modified: "2007-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 711"
+citation2: ""
+neutral_citation: "2007 TCC 711"
+decision_date: "2007-10-31"
+language: "en"
+item_id: "28461"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1194
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:35:35.088000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8e7557cbfe9fdb6a18f4d529cabe2fdfd009eeca44533c9961dfc52af0db845a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mailloux c. La Reine
+
+- Citation: 2007 TCC 711
+- Decision date: 2007-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1194, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mailloux c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-31
+Neutral citation
+2007 TCC 711
+File numbers
+2007-1531(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1531(IT)I
+BETWEEN:
+GASTON MAILLOUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 31, 2007, at Montréal, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Chantal Roberge
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000, 2001, 2002 and 2003 taxation years is dismissed and the appellant will pay costs in the amount of $500, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of December 2007.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 23rd day of January 2008.
+Brian McCordick, Translator
+Citation: 2007TCC711
+Date: 20071203
+Docket: 2007-1531(IT)I
+BETWEEN:
+GASTON MAILLOUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal relating to the 2000, 2001, 2002 and 2003 taxation years.
+[2] The issues are as follows:
+(a) whether the Minister was correct to add $5,152 for the 2000 taxation year, $26,550 for the 2001 taxation year, $8,170 for the 2002 taxation year and $6,791 for the 2003 taxation year to the Appellant's net business income;
+(b) whether the penalty for late filing for the 2000 and 2002 taxation years was justified; and
+(c) whether the penalty provided in subsection 163(2) of the Act on unreported income for the 2000, 2001, 2002 and 2003 taxation years was justified.
+[3] In making and confirming the assessments and penalties for the 2000, 2001, 2002 and 2003 taxation years, the Minister of National Revenue ("the Minister") relied on the following facts, as set out in paragraph 8 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+8.
+(a) During the years in issue, the Appellant operated a construction business;
+(b) The net income from each project was determined by analyzing the amounts received from customers and the purchases made from suppliers;
+(c) In the 2000 taxation year, the Appellant earned gross income of $14,009.08 and net income of $5,152 from various jobs;
+(d) In the 2001 taxation year, the Appellant earned gross income of $47,027.64 and net income of $18,851 from the Sûreté du Québec project;
+(e) In the 2001 taxation year, the Appellant earned gross income of $20,935.28 and net income of $7,699 from the Habitation Sainte Catherine project and other work;
+(f) In the 2002 taxation year, the Appellant earned gross income of $13,782.43 and net income of $5,295 from the Habitation St-Germain project;
+(g) In the 2002 taxation year, the Appellant earned gross income of $7,045.87 and net income of $2,875 from the Havre de Paix project;
+(h) In the 2003 taxation year, the Appellant earned gross income of $11,828.82 and net income of $4,491 from the Les Jardins D'Eugénie project;
+(i) In the 2003 taxation year, the Appellant earned gross income of $11,097.68 and net income of $2,300 from the Coopérative Solidarité project;
+(j) The Appellant did not keep any accounting records;
+(k) The Appellant did not report any of this business income.
+9.
+(a) The Appellant has long experience in the business world;
+(b) The unreported income was collected directly by the Appellant;
+(c) The unreported income represents 94% of the income reported by the Appellant;
+(d) In his income tax returns for the 2000, 2001, 2002 and 2003 taxation years, the Appellant made no mention of his business income, demonstrating intent to conceal that income from the Canada Revenue Agency.
+[4] The appellant was sworn and admitted subparagraphs 8(a), (b), (j) and (k) and 9(a), (b) and (d).
+8.
+(a) During the years in issue, the Appellant operated a construction business;
+(b) The net income from each project was determined by analyzing the amounts received from customers and the purchases made from suppliers;
+(j) The Appellant did not keep any accounting records;
+(k) The Appellant did not report any of this business income.
+9.
+(a) The Appellant has long experience in the business world;
+(b) The unreported income was collected directly by the Appellant;
+(d) In his income tax returns for the 2000, 2001, 2002 and 2003 taxation years, the Appellant made no mention of his business income, demonstrating intent to conceal that income from the Canada Revenue Agency.
+[5] The Appellant adduced in evidence a document dated February 22, 2007, with a covering letter that reads as follows:
+[TRANSLATION]
+...
+I HEREBY ELECT THE INFORMAL PROCEDURE. FURTHER TO THE NOTICES OF OBJECTION DATED MARCH 12, 2005, SENT TO THE SHAWINIGAN TAXATION CENTRE FOR THE YEARS 2000, 2001, 2002 AND 2003, THE RESPONSE TO WHICH I RECEIVED ON DECEMBER 27, 2006, FROM THE LAVAL OFFICE, APPEALS DIVISION.
+THEY HAVE CORRECTED SOME THINGS, BUT THE OPERATING EXPENSES SUCH AS DEPRECIATION, RENT, TELEPHONE, TRAVEL, PURCHASES OF MATERIALS AND TOOLS, AND THE RATIO, MUST BE TAKEN INTO CONSIDERATION IN THIS CASE IN COMPARISON WITH CASES OF THE SAME NATURE.
+...
+[6] The appellant attached his worksheets to the letter, showing various expenses, such as travel expenses, installation expenses, depreciation and so on. All of the amounts were decided arbitrarily, without any supporting documents, in the weeks preceding the hearing.
+[7] On cross-examination, the appellant used the following phrases or expressions: [TRANSLATION] "it depends", "yes" and then "no" a few seconds later, "yes, no", "it's an average", "I don't remember", "it's been seven years", "approximately", "I didn't keep any invoices", "I don't have any documents", "I remember hiring someone but I don't remember his name", "I am entitled to that, based on the tax, I am entitled, I paid, but I didn't keep the invoices, I paid cash", and "I can't remember that".
+[8] Regarding the depreciation for office furniture and equipment, the Appellant did not remember when he purchased the items, or how much he paid for them, but he asked for them to be amortized based on arbitrary figures.
+[9] I observed from the Appellant's brief testimony that he was an intelligent and even shrewd businessman. He even said that he never worked for nothing and that he made money on all his contracts, but just not as much as the Respondent was claiming.
+[10] I am satisfied that the Appellant knowingly and deliberately chose not to keep any books of account and not to report any business income, believing that this approach would be to his advantage. I am further satisfied that the Appellant has come out of this very well, since the Respondent has obviously not been able to identify all of the Appellant’s sources of income.
+[11] His admissions alone are largely sufficient to justify both the penalties for unreported income and the penalty for late filing for 2000 and 2002. I would reiterate that the Appellant made the admissions set out below:
+(a) During the years in issue, the Appellant operated a construction business;
+(j) The Appellant did not keep any accounting records;
+(k) The Appellant did not report any of this business income.
+9.
+(a) The Appellant has long experience in the business world;
+[12] The only evidence adduced by the Appellant was given in his testimony. The Appellant essentially confirmed that the assessment was well-founded. He adduced no evidence based on which he could meet the burden of proof that rested on him. In fact, he contributed to the failure of his own appeal by his admissions, the content of which is reproduced in paragraph 11 of this judgment.
+[13] Admissions of that nature demonstrate temerity and lack of concern, and such negligence that it does not seem to me to be excessive to conclude that the appeal proceedings in a case this pitiful and frivolous are in fact an abuse of process that must be sanctioned, over and above the penalties provided by the Act, by awarding costs against the Appellant, which I assess at $500.
+[14] The appeal is accordingly dismissed and the Respondent is awarded costs in the amount of $500.
+Signed at Ottawa, Canada, this 3rd day of December 2007.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 23rd day of January 2008.
+Brian McCordick, Translator
+CITATION: 2007TCC711
+COURT FILE NO.: 2007-2072(IT)I
+STYLE OF CAUSE: Gaston Mailloux and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 31, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: December 3, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Chantal Roberge
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

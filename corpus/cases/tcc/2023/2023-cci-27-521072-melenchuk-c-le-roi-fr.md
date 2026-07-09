@@ -1,0 +1,261 @@
+---
+title: "Melenchuk c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521072/index.do"
+last_modified: "2023-03-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 27"
+citation2: ""
+neutral_citation: "2023 CCI 27"
+decision_date: "2023-03-27"
+language: "fr"
+item_id: "521072"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5861
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:11:21.280000+00:00"
+cases_cited_count: 22
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a6aaf7c71b5cee805482114cf9dba29149725d9409d8a229d3ed3bf96ea4f36e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Melenchuk c. Le Roi
+
+- Citation: 2023 CCI 27
+- Decision date: 2023-03-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5861, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melenchuk c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-03-27
+Référence neutre
+2023 CCI 27
+Numéro de dossier
+2022-1576(IT)I
+Juges et Officiers taxateurs
+Gilles Renaud
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2022-1576(IT)I
+ENTRE :
+HEIDI MELENCHUK,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 8 février 2023, à Regina (Saskatchewan)
+En présence de : L’honorable juge suppléant G. Renaud
+Comparutions :
+Représentant de l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Steven Tymiak
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints, l’avis d’appel pour l’année d’imposition 2020 est annulé.
+Il n’y aura aucune adjudication de dépens.
+Signé à Ottawa, Canada, ce 27e jour de mars 2023.
+« Gilles Renaud »
+Le juge suppléant Renaud
+Juge suppléant Renaud
+Référence : 2023 CCI 27
+Date : Le 2 mars 2023
+Dossier : 2022-1576(IT)I
+ENTRE :
+HEIDI MELENCHUK,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge suppléant Renaud
+I. INTRODUCTION
+[1] L’intimé demande l’annulation de l’appel en prétendant que la Cour n’est pas compétente pour accorder la mesure de redressement demandée. Dans les circonstances inhabituelles de l’espèce, la Cour a mis en délibéré la requête de l’intimé et a ordonné que l’appel soit entendu en fonction de l’hypothèse que la Cour était compétente. En conséquence, l’appelante a témoigné et présenté des arguments complets pour soutenir le bien-fondé de l’appel long et détaillé qu’elle avait formulé, et l’intimé a contre-interrogé l’appelante et présenté des observations complètes. À l’issue de l’audience, l’appel a été rejeté pour des motifs donnés de vive voix qu’il n’est pas nécessaire de répéter aux présentes.
+[2] Les motifs qui suivent expliquent la décision de la Cour d’adopter les conclusions de l’intimé, conformément à l’article 12 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T-2, en sa version modifiée, et d’annuler l’appel au motif que la Cour n’est pas compétente.
+II. ANALYSE
+A. Voici un résumé des faits saillants :
+[3] Pour les besoins de la présente affaire, il suffit de dire que le grief de l’appelante porte sur le montant du crédit d’impôt pour frais de scolarité des diplômés de la Saskatchewan (le « CIFSDS ») que l’appelante pouvait déclarer pour réduire l’impôt de la Saskatchewan qu’elle devait pour l’année d’imposition 2020. Le CIFSDS est un crédit d’impôt appliqué à l’impôt provincial conformément à la loi de la Saskatchewan intitulée Income Tax Act, 2000, S.S., ch. 1-2.01.
+[4] Il convient de noter que l’intimé n’a pas contesté le fait que le ministre a tenté d’établir une cotisation à l’égard du droit de l’appelante au CIFSDS pour les années d’imposition antérieures. En effet, une partie du contre-interrogatoire de l’appelante a été consacrée aux mesures prises par les fonctionnaires de l’Agence du revenu du Canada dans l’application du droit de l’appelante au CIFSDS pour d’autres années.
+B. Les actes de procédure pertinents de l’intimé
+[5] Le 11 août 2022, l’intimé a déposé une réponse accompagnée d’une annexe, comportant 13 paragraphes. Les passages pertinents pour la question en litige principale concernant la compétence de la Cour et pour la première question en litige secondaire, celle de l’équité procédurale dans le cas d’une partie non représentée, sont reproduits ci-dessous :
+[traduction]
+1) L’intimé déposera une requête le jour de l’audience du présent appel pour annuler l’appel dans son intégralité, au motif qu’il n’est pas correctement soumis à la Cour canadienne de l’impôt parce que le présent appel concerne le montant du crédit d’impôt pour frais de scolarité des diplômés de la Saskatchewan (le « CIFSDS ») que l’appelante pour déclarer pour réduire l’impôt de la Saskatchewan qu’elle doit pour l’année d’imposition 2020. Le CIFSDS est un crédit d’impôt appliqué à l’impôt provincial conformément à la loi [provinciale] intitulée Income Tax Act, 2000 [...] Conformément à l’article 12 de la Loi sur la Cour canadienne de l’impôt [...], la compétence de notre Cour ne s’étend pas aux appels interjetés à l’encontre de cotisations établies en vertu de la Income Tax Act, 2000, qui doivent faire l’objet d’un appel auprès de la Cour du Banc de la Reine de la Saskatchewan.
+[...]
+2) [...] 9) Les questions en litige consistent à déterminer ce qui suit :
+a) L’appel interjeté par l’appelante concernant l’année d’imposition 2020 relève-t-il de la compétence de la Cour canadienne de l’impôt? [...]
+10) Le procureur général du Canada (PGC) s’appuie sur les paragraphes 118.5(1), 165(1), 167(1), 169(1) et 248(1) de la Loi de l’impôt sur le revenu [...] Le PGC s’appuie également sur le paragraphe 12(1) de la Loi sur la Cour canadienne de l’impôt et sur les articles 37.1, 37.2, 39.1, 39.11, 98, 99, 102 et 103 de la Income Tax Act, 2000.
+11) Le PGC prétend respectueusement qu’aux termes du paragraphe 12(1) de la Loi sur la Cour canadienne de l’impôt, la Cour canadienne de l’impôt n’a pas compétence pour examiner le droit de l’appelante au CIFSDS. En vertu du paragraphe 181(1) de la Loi de l’impôt sur le revenu, la Cour peut soit rejeter un appel interjeté à l’encontre d’une cotisation, soit faire droit à l’appel en annulant la cotisation, en modifiant la cotisation ou en renvoyant l’établissement de la cotisation au ministre pour réexamen et nouvelle cotisation. La compétence de la Cour canadienne de l’impôt ne s’étend pas aux appels concernant les cotisations établies en vertu de la Income Tax Act, 2000, qui doivent faire l’objet d’un appel auprès de la Cour du Banc du Roi de la Saskatchewan. [Non souligné dans l’original]
+C. Les décisions procédurales de la Cour
+[6] Au début de l’audience, la Cour a invité l’avocat de l’intimé à présenter tous les renseignements et la jurisprudence pertinents à l’appui de sa thèse. La Cour a observé que si l’argument de l’intimé était à ce point convaincant qu’il semblait qu’il n’y avait pas d’autre issue possible que d’ordonner l’annulation de l’appel, l’appelante présenterait alors ses observations. Si cette possibilité de répondre ne permettait pas d’entrevoir quelque espoir de succès dans l’audition de l’appel, la thèse de l’intimé prévaudrait et l’appel serait annulé.
+[7] En conséquence, étant donné que les conclusions de l’intimé n’établissaient pas une affaire non défendable, la Cour n’a pas invité l’appelante à répondre, indiquant que ces conclusions en réponse sur la question de la compétence seraient présentées après que les parties eurent débattu du fond de l’appel. Une partie de ce qui justifiait l’ordre des observations découle des efforts évidents déployés par l’appelante pour préparer un exposé complet des faits sur plusieurs pages et pour soumettre des douzaines de documents. La Cour craint qu’une erreur sur la question principale de la compétence n’entraîne potentiellement un nouveau procès « sur le bien-fondé » dans un avenir lointain et que cette procédure ne compromette pas l’obligation de la Cour d’appliquer le droit le jour du procès.
+D. Issue de l’audience
+[8] L’intimé a démontré, au moyen d’un contre-interrogatoire approfondi et respectueux, avec des documents à l’appui, y compris l’affidavit de Satvinder K. Hundal du 24 janvier 2023, que l’appelante avait bénéficié de diverses décisions internes lui attribuant un crédit approprié au titre du CIFSDS antérieur et que l’appel n’était pas méritoire. L’appelante quant à elle a démontré que plusieurs erreurs avaient été commises antérieurement, mais n’a pas démontré que l’une des hypothèses formulées dans la réponse était erronée.
+E. D’autres observations ont été avancées
+[9] L’intimé n’ayant pas démontré que l’appelante n’avait aucune possibilité d’obtenir gain de cause à l’issue de son exposé initial, l’appelante a continué à témoigner et à plaider sa cause et la Cour a jugé que les arguments bien affinés contenus dans la réponse de l’intimé étaient corrects. En fin de compte, l’appelante n’a pas réussi à démontrer que les hypothèses énoncées dans la réponse étaient erronées et n’a donc pas été en mesure de justifier une quelconque mesure de redressement. Nous espérons toutefois que l’appelante demandera un réexamen de ses griefs antérieurs si elle est en mesure d’obtenir des documents clairs de l’Université d’Ottawa indiquant qu’une erreur a été commise à l’égard de ses résultats scolaires antérieurs, ainsi que les coûts et les dépenses engagés pour parvenir à cette réussite.
+F. Une recension de la jurisprudence sur la question de la compétence de la Cour
+(1) Commentaire introductif [10] En guise d’introduction, la décision de l’intimé de ne pas déposer un dossier bien avant l’audience a contribué à la procédure scindée adoptée par la Cour. La controverse à laquelle la Cour est confrontée le matin de l’audience est la suivante : soit prendre quelques heures pour examiner les dossiers fournis au début de l’audience, soit permettre à l’appelante, fébrile, d’aller de l’avant. L’analyse de la Cour a surtout consisté à estimer que l’examen des affaires nécessiterait au moins trois heures. La partie qui se représentait elle-même aurait eu besoin de beaucoup moins de temps pour rassembler ses documents, étant donné qu’elle était bien préparée et qu’elle était impatiente de commencer, comme on l’a vu; la Cour a ainsi choisi d’entendre l’affaire. Par la suite, une décision était rendue sur la question de la compétence.
+[11] Cette difficulté aurait été évitée avec un recueil de jurisprudence. Il s’est avéré que la Cour a eu besoin d’environ six heures pour examiner de manière approfondie les décisions soumises et les autres précédents pertinents que la Cour a recherchés.
+(2) Le régime législatif impose une conception étroite de la compétence [12] Il sera utile d’analyser la jurisprudence au moyen d’un examen thématique pour montrer que la Couronne a raison d’affirmer que le régime législatif restreint considérablement la compétence de la Cour canadienne de l’impôt.
+(3) La Cour canadienne de l’impôt est un tribunal d’origine purement législative. [13] Tout d’abord, la décision Andrew Paving & Engineering Ltd. and Meld Development Ltd. v. The Minister of National Revenue, 84 DTC 1157, tranchée par le juge en chef adjoint Christie, retient notre attention. Le long passage pertinent se trouve à la page 1161 :
+[traduction]
+La Cour n’est pas compétente pour statuer sur ces présents appels dans la mesure où ils concernent les pénalités imposées et les intérêts perçus en rapport avec la somme de 18 067,21 $. L’existence d’un accord de perception conclu entre le gouvernement du Canada et celui de l’Ontario ne peut modifier ce fait. La section E de la Loi de l’Ontario dispose que les appels des cotisations faites en vertu de cette loi sont portés devant la Cour suprême de l’Ontario. Aucune disposition de la Loi, de la Loi sur la Cour canadienne de l’impôt, ou de toute autre loi adoptée par le Parlement du Canada ne vise à conférer cette compétence à la Cour. La Cour canadienne de l’impôt est d’origine purement législative et l’étendue de sa juridiction est délimitée par les dispositions expresses ou nécessairement implicites du texte législatif fédéral. De plus, je suis d’avis que si la loi avait été adoptée par le Parlement en vue de conférer à la Cour canadienne de l’impôt le pouvoir d’entendre les appels des cotisations faites en vertu de la Loi de l’Ontario, le Parlement aurait outrepassé les limites de sa compétence législative. La Cour canadienne de l’impôt a été établie en vertu de l’article 101 de la Loi constitutionnelle de 1867, qui dispose ce qui suit :
+Le parlement du Canada pourra, nonobstant toute disposition contraire énoncée dans la présente loi, lorsque l’occasion le requerra, adopter des mesures à l’effet de créer, maintenir et organiser une cour générale d’appel pour le Canada, et établir des tribunaux additionnels pour la meilleure administration des lois du Canada. [Non souligné dans l’original]
+[14] Je voudrais maintenant invoquer l’autorité établie dans l’affaire Hennick c. Canada, [1998] A.C.I. no 562, un jugement du juge Bowman, plus tard juge en chef de la Cour canadienne de l’impôt. La Cour a déclaré ce qui suit aux paragraphes 11 et 12 :
+11 Le juge en chef adjoint Christie a dit, dans l’affaire Lamash Estate v. M.N.R., 91 DTC 9, à la page 16 :
+Réflexion faite, je suis encore plus convaincu que la Cour n’a pas la compétence mentionnée. La Cour canadienne de l’impôt est une pure création de la loi et sa compétence se limite à ce qui lui est conféré expressément par le Parlement et à ce qui se déduit nécessairement de ce qui lui est conféré expressément. [Non souligné dans l’original]
+La Cour canadienne de l’impôt est d’origine purement législative et l’étendue de sa juridiction est délimitée par les dispositions expresses ou nécessairement implicites du texte législatif fédéral.
+[15] Voir à nouveau Andrew Paving & Engineering Ltd. et Meld Development Ltd. v. M.N.R., 84 DTC 1157, p. 1161, ainsi que Hennick c. Canada, [1998] A.C.I. no 562, par. 11.
+[16] Dans la décision Gardner c. Canada, [2001] A.C.F. no 1954, 2001 CAF 401, les juges Stone, Rothstein et Sexton ont fourni des indications précieuses sur la compétence de la Cour canadienne de l’impôt au paragraphe 16. Comme l’écrit le juge Sexton pour la Cour : Tant le gouvernement fédéral que les provinces ont le pouvoir d’adopter des lois concernant l’impôt sur le revenu. La Cour canadienne de l’impôt n’a compétence en ce qui a trait à l’impôt sur le revenu provincial que dans la mesure où cette compétence lui est attribuée par la province. Une province peut réserver à sa propre autorité le soin de rendre des décisions au sujet de questions particulières concernant son impôt sur le revenu et l’Ontario l’a fait [...] [Non souligné dans l’original]
+[17] En l’espèce, l’intimé a fait valoir que la législation provinciale conférait à la Cour du Banc du Roi de la Saskatchewan la compétence de statuer sur le type d’appel interjeté par l’appelante.
+[18] J’attire maintenant l’attention sur les remarques formulées par la Cour d’appel fédérale dans la décision Canada c. Sutcliffe, [2004] A.C.F. no 1937, 2004 CAF 376. Le juge Noël, qui deviendra plus tard le juge en chef, a accueilli l’appel interjeté à l’encontre d’un jugement de la Cour canadienne de l’impôt et a consigné ces remarques, auxquelles se sont ralliés le juge Rothstein, tel était alors son titre, et la juge Sharlow :
+[10] Lorsque le ministre fait une telle détermination, les provinces auxquelles le revenu est attribué ont le droit de fixer un impôt. Le dossier révèle que c’est sous le régime non de la Loi, mais des lois fiscales des provinces en question, que les impôts provinciaux sur le revenu ont été fixés en fonction des proportions attribuées.
+[11] Les lois de l’impôt sur le revenu des provinces entre lesquelles le revenu a été réparti prévoient toutes un recours devant les cours supérieures respectives de ces provinces contre les cotisations d’impôt provincial fondées sur une telle répartition [Loi de l’impôt sur le revenu, L.R.N.-B, ch. I-2, article 22; Income Tax Act, R.S.N.S. 1967, ch. 134, article 22; Loi de l’impôt sur le revenu, R.S.N.L. 1990, ch. I-1, paragraphe 26(1); Income Tax Act, R.S.B.C. 1996, ch. 215, article 42; Alberta Personal Income Tax Act, R.S.A 1980, ch. A31, article 30; Income Tax Act, R.S.P.E.I. 1998, ch. I-1, article 26; Income Tax Act, R.S.S. 1978, ch. I-2, article 26; Loi de l’impôt sur le revenu, L.R.M. 1988, ch. 110, article 30; et Loi de l’impôt sur le revenu, L.R.O. 1990, ch. I-2, article 23]. [Non souligné dans l’original]
+[19] La Cour a ajouté, au paragraphe 14 : La Cour canadienne de l’impôt n’a pas compétence pour statuer sur la validité d’une cotisation fiscale provinciale. Cette compétence appartient aux cours supérieures respectives des provinces en vertu des lois fiscales provinciales énumérées plus haut. Voir à ce sujet : Andrew Paving and Engineering Ltd. et al. c. M.N.R., 84 DTC 1157 (CCI); La Reine c. Bowater Mersey Paper Company Limited, 87 DTC 5382 (C.A.F.); Hennick c. Canada, [1998] A.C.I. no 562; et Gardner c. R., 2002 DTC 6776 (CAF).
+(4) Absence de compétence en ce qui a trait à une cotisation d’impôt provincial sur le revenu [20] La déclaration directe qui se trouve à la page 5834 de l’arrêt The Queen v. Bowater Mersey Paper Company Limited, 87 D.T.C. 5382 (C.A.F.), sous la plume du juge Pratte fait autorité : L’avocat de l’intimée prétend également, à l’appui du jugement, que les avis de nouvelles cotisations du 4 janvier 1984 n’ont pas été remplacés par ceux du 6 mars du fait que ces derniers n’ont pas modifié la cotisation d’impôt provincial établie dans les avis du 4 janvier. Cet argument n’a aucune pertinence étant donné que cette Cour n’a pas compétence pour entendre un pourvoi contestant une cotisation d’impôt provincial sur le revenu. [Non souligné dans l’original]
+(5) Pas de possibilité de redressement en equity ou fondé sur l’« équité » [21] La Cour a également examiné l’affaire Chaya c. Canada, [2004] A.C.F. no 1630, 2004 CAF 327, dans laquelle le juge Rothstein, tel était alors son titre, a écrit au nom du tribunal comprenant le juge en chef Richard et le juge Létourneau. Comme il est dit au paragraphe 4 : Le demandeur soutient que la loi est inéquitable et il demande à la Cour de faire une exception pour lui. Toutefois, la Cour n’a pas le pouvoir de faire droit à sa demande. La Cour doit appliquer la loi telle qu’elle est. Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l’équité. S’il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour. [Non souligné dans l’original]
+(6) L’importance de l’article 171 de la Loi de l’impôt sur le revenu [22] J’attire maintenant l’attention sur les remarques formulées par la Cour d’appel fédérale dans la décision Canada c. Sutcliffe, [2004] A.C.F. no 1937, 2004 CAF 376, par. 15 : La compétence de la Cour canadienne de l’impôt est d’origine législative. Dans le cadre d’un appel interjeté sous le régime du paragraphe 169(1), elle ne peut qu’accorder l’une ou l’autre des mesures de réparation prévues au paragraphe 171(1), c’est-à-dire annuler ou modifier la cotisation, ou la déférer au ministre pour nouvel examen.
+(7) L’importance de l’article 12 de la Loi sur la Cour canadienne de l’impôt [23] Voici les paragraphes 8 et 9 de l’arrêt A&E Precision Fabricating and Machine Shop Inc. c. Canada, 2013 CAF 173, un arrêt de la Cour d’appel fédérale rendu par le juge Dawson, au nom des juges Sharlow et Stratas.
+[8] La juge a ensuite conclu que l’intimée avait déduit les dépens taxés qu’elle était tenue de verser des dettes fiscales des appelantes, et que la Cour de l’impôt n’avait pas compétence pour examiner une telle compensation.
+[9] Nous sommes d’accord. Dans les espèces, la Cour de l’impôt n’était compétente que pour instruire et trancher les appels interjetés en vertu de la Loi (paragraphe 12(1) de la Loi sur la Cour canadienne de l’impôt, L.R.C. 1985, ch. T-2, ce qui n’inclut pas le pouvoir d’examiner les procédures de recouvrement de l’intimée. Cette compétence appartient à la Cour fédérale. [Non souligné dans l’original.]
+[24] Ereiser c. Canada, [2013] A.C.F. no 102, 2013 CAF 20 (C.A.F.), comprend plusieurs remarques pertinentes, rédigées par la juge Sharlow au nom des juges Pelletier et Mainville. Premièrement :
+[26] Dans ce contexte, voici les dispositions législatives qui définissent la compétence et la mission de la Cour canadienne de l’impôt en ce qui a trait aux appels des cotisations en matière d’impôt sur le revenu. Le paragraphe 12(1) de la Loi sur la Cour canadienne de l’impôt, L.R.C. 1985, ch. T-2, consacre cette compétence. Cette disposition se lit comme suit :
+12. (1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l'application de ... la Loi de l'impôt sur le revenu dans la mesure où ces lois prévoient un droit de renvoi ou d'appel devant elle.
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under ... the Income Tax Act... when references or appeals to the Court are provided for in those Acts.
+[27] Pour comprendre la mission de la Cour canadienne de l’impôt en ce qui a trait aux appels en matière d’impôt sur le revenu, il est utile de commencer par le paragraphe 152(8) de la Loi de l’impôt sur le revenu, qui consacre l’effet juridique d’une cotisation. Elle est ainsi libellée :
+152. (8) Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d'une opposition ou d'un appel fait en vertu de la présente partie et sous réserve d'une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s'y rattachant en vertu de la présente loi.
+152. (8) An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+[25] Je considère que la reproduction des paragraphes qui suivent aidera l’appelante à mieux comprendre le résultat :
+[28] Les paragraphes 165(1) et 169(1) de la Loi de l’impôt sur le revenu accordent au contribuable le droit de s’opposer à une cotisation (il s’agit essentiellement d’un processus administratif) et d’ensuite interjeter appel par la suite à l’encontre de la cotisation devant la Cour canadienne de l’impôt. Ces dispositions sont ainsi rédigées :
+165. (1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+169. (1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation [...]
+[26] Le paragraphe 171(1) énonce les manières dont la Cour canadienne de l’impôt peut disposer de l’appel. Il est ainsi libellé :
+171. (1) La Cour canadienne de l'impôt peut statuer sur un appel:
+a) en le rejetant;
+b) en l'admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+171. (1) The Tax Court of Canada may dispose of an appeal by:
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[27] L’article 166 de la Loi de l’impôt sur le revenu limite les motifs en vertu desquels une cotisation d’annulation ou de modification en appel. Il est ainsi libellé :
+166. Une cotisation ne peut être annulée ni modifiée lors d'un appel uniquement par suite d'irrégularité, de vice de forme, d'omission ou d'erreur de la part de qui que ce soit dans l'observation d'une disposition simplement directrice de la présente loi.
+166. An assessment shall not be vacated or varied on appeal by reason only of any irregularity, informality, omission or error on the part of any person in the observation of any directory provision of this Act.
+[28] En guise de mise en évidence et pour éviter tout manque de clarté, le juge Stratas a rédigé l’arrêt de la Cour d’appel fédérale dans l’affaire Pereira c. Canada (Procureur général), [2017] A.C.F. no 1195. J’ai reproduit ci-dessous ses observations au paragraphe 15 :
+15 La Cour canadienne de l’impôt n’avait pas compétence pour examiner ce motif. La Cour canadienne de l’impôt n’a compétence que pour examiner la validité d’une cotisation, et non les mesures d’exécution prises par l’Agence de revenu du Canada. Les décisions concernant l’exécution peuvent être contestées devant la Cour fédérale par voie de contrôle judiciaire, mais pas devant la Cour canadienne de l’impôt. Voir par exemple A&E Precision Fabricating and Machine Shop Inc. c. Canada, 2013 CAF 173, au paragraphe 9. [Non souligné dans l’original]
+La validité et l’exactitude de la cotisation sont les seuls éléments à prendre en considération, et non le comportement des fonctionnaires lors de l’établissement de la cotisation
+(8) Aucun pouvoir de modification de la législation
+[29] La Cour d’appel fédérale a examiné la présente question liée à la compétence dans la décision MacKay c. Canada, [2015] A.C.F. no 456, 2015 CAF 94, et a confirmé l’autorité et la sagesse de ce jugement. Les juges Ryer, Near et Rennie ont tranché comme suit :
+[2] Le présent appel est inhabituel vu que l’appelant ne soutient pas que le montant de la cotisation établie à son égard pour l’année 2006, au titre des impôts, des intérêts et des pénalités, est inexact. Il soutient plutôt que le montant qui a été établi par suite de l’application de la formule prévue à l’article 34.1 de la Loi de l’impôt sur le revenu est injuste et injustifié. Il soutient essentiellement que la formule prévue par cette disposition de la Loi devrait être modifiée. Malheureusement, notre Cour n’a pas le pouvoir de modifier la loi. [Non souligné dans l’original]
+[30] Il convient également de noter l’affaire Meyer c. La Reine, [2019] A.C.I. no 103, 2019 CCI 131, sous la plume de la juge Lafleur, qui illustre la vitalité continue de la décision Chaya. En raison de l’élégance du langage utilisé par la juge Lafleur, je pense qu’il est judicieux de simplement reproduire ses sages paroles :
+[4] À l’audience, M. Meyer a soutenu que la somme de 79 089 $ qu’il a retirée de son REER n’aurait pas dû être incluse dans le calcul de son revenu aux fins du remboursement de prestations de l’assurance-emploi en application de l’article 145 de la LAE, car la somme retirée de son REER, étant d’une nature différente, ne devrait pas être considérée comme un revenu aux fins de la LAE.
+[5] L’avocat de l’intimée a cité les dispositions pertinentes de la LIR et de LAE à l’audience. Les sommes retirées d’un REER (en application du paragraphe 146(8) de la LIR) doivent être incluses dans le calcul du revenu en application de l’alinéa 56(1)h) et de l’article 3 de la LIR. Par conséquent, le montant de 79 089 $ devait être ajouté au revenu de M. Meyer aux fins de l’application des articles 144 et 145 de la LAE. L’avocate de l’intimée a également habilement expliqué à notre Cour que M. Meyer voudrait probablement que le Parlement modifie l’article 144 de la LAE pour exclure les sommes retirées d’un REER du calcul du revenu, à l’instar de la modification apportée à l’égard des paiements issus de régimes enregistrés d’épargne-invalidité. [Non souligné dans l’original]
+[6] M. Meyer a informé la Cour qu’il comprenait désormais mieux les dispositions pertinentes et qu’il ne pouvait obtenir gain de cause.
+[7] J’ai également expliqué à M. Meyer que le rôle de notre Cour, dans le cadre d’un appel interjeté en application de la LIR, était de déterminer si la cotisation en cause était valide et correcte eu égard aux dispositions législatives applicables et aux faits de l’espèce (Ereiser c. La Reine, 2013 CAF 20, 2013 DTC 5036, au paragraphe 31). Les mêmes principes s’appliquent aux fins de la LAE. [Non souligné dans l’original]
+(9) L’absence de compétence en matière de cotisation découlant de la législation provinciale illustrée
+[31] La Couronne a invité la Cour à appliquer la directive contenue dans l’affaire Baluyot c. La Reine, [2007] A.C.I. no 473, 2007 CCI 682, une décision de la juge Miller. La question de la compétence de la Cour s’est posée dans le contexte d’un crédit d’impôt de l’Ontario. La contribuable a fait valoir qu’il existait une exception à la règle selon laquelle aucun appel ne pouvait être exercé devant la Cour canadienne de l’impôt à l’encontre d’une cotisation pour laquelle aucun impôt n’était dû en raison du crédit d’impôt. L’essentiel de la décision de la Cour, qui est utile au soussigné, est exposé ci-dessous :
+[6] Le crédit d’impôt en litige en l’espèce est le CIEO, soit un crédit d’impôt de l’Ontario qui est accordé en vertu du paragraphe 4(6) de la Loi de l’impôt sur le revenu de l’Ontario. Il s’agit donc d’un impôt provincial, et la Cour canadienne de l’impôt n’a pas compétence pour rendre un jugement sur la validité d’une cotisation d’impôt provincial sur le revenu. (Voir Sutcliffe v. The Queen, [2005] 1 C.T.C. 149, au paragraphe 14 et Hennick c. Canada, [1998] A.C.I. no 562, au paragraphe 9.)
+[7] Le dernier moyen que l’avocat de l’appelante a invoqué pour s’opposer à la requête demandant le rejet de l’appel était que la question en litige portait sur le calcul d’un montant d’impôt payable en vertu de la loi fédérale. Selon le paragraphe 23(2.1) de la Loi de l’impôt sur le revenu de l’Ontario, aucun appel d’une cotisation ne peut être interjeté devant la Cour supérieure de justice de l’Ontario relativement au calcul de l’impôt payable en application de la loi fédérale. Il a allégué que la Cour canadienne de l’impôt a implicitement compétence pour entendre le présent appel.
+[8] Je ne suis pas d’accord avec l’appelante. La Cour canadienne de l’impôt est une cour créée par la loi et sa compétence est délimitée par la loi (Voir Little v. The Queen, [2007] 2 C.T.C. 2062). [Non souligné dans l’original] L’article 12 de la Loi sur la Cour canadienne de l’impôt prévoit que la Cour a compétence pour entendre les affaires suivantes :
+12.(1) La Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions découlant de l’application de la Loi sur le droit pour la sécurité des passagers du transport aérien, du Régime de pensions du Canada, de la Loi sur l’exportation et l’importation de biens culturels, de la partie V.1 de la Loi sur les douanes, de la Loi sur l’assurance‑emploi, de la Loi de 2001 sur l’accise, de la partie IX de la Loi sur la taxe d’accise, de la Loi de l’impôt sur le revenu, de la Loi sur la sécurité de la vieillesse, de la Loi de l’impôt sur les revenus pétroliers et de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre, dans la mesure où ces lois prévoient un droit de renvoi ou d’appel devant elle.
+Compétence
+(2) La Cour a compétence exclusive pour entendre les appels portés devant elle sur les questions découlant de l’application de la Loi sur les allocations aux anciens combattants et de la Loi sur les prestations de guerre pour les civils et visées à l’article 33 de la Loi sur le Tribunal des anciens combattants (révision et appel).
+Autre compétence
+(3) La Cour a compétence exclusive pour entendre les questions qui sont portées devant elle en vertu des articles 51 ou 52 de la Loi sur le droit pour la sécurité des passagers du transport aérien, de l’article 97.58 de la Loi sur les douanes, des articles 204 ou 205 de la Loi de 2001 sur l’accise, des articles 310 ou 311 de la Loi sur la taxe d’accise, des articles 173 ou 174 de la Loi de l’impôt sur le revenu ou des articles 62 ou 63 de la Loi de 2006 sur les droits d’exportation de produits de bois d’œuvre.
+[32] Ayant renvoyé à l’affaire Little c. La Reine, [2006] A.C.I. no 509, 2006 CCI 627, il sera intéressant d’invoquer les conseils fournis par le juge McArthur, à la lumière des similitudes relatives entre l’affaire en instance et la situation dans la décision Little. D’emblée, je note que le juge de première instance a fait la remarque suivante :
+[1] La présente requête vise à obtenir une ordonnance annulant l’appel interjeté par l’appelant à l’encontre d’une cotisation établie par le ministre du Revenu national pour l’année d’imposition 2004 parce que la Cour n’a pas compétence pour décider si un montant d’impôt provincial sur le revenu est à payer, et, en l’espèce, s’il est à payer à la province de la Nouvelle‑Écosse. [Non souligné dans l’original]
+[33] Je note en particulier l’historique de la procédure décrite au paragraphe 2 :
+[2] L’appel a été formé sous le régime de la procédure informelle, et l’intimée a obtenu l’autorisation de présenter la requête à court préavis. À la fin de l’instruction de la requête, j’ai différé ma décision, et l’appelant a poursuivi son appel. Après l’instruction de la requête et, bien sûr, avant de rendre une décision sur celle-ci, j’avais affirmé que si j’avais la même opinion après avoir examiné la preuve et les observations, j’accueillerais la requête en annulation de l’appel visant l’année 2004. Je suis toujours du même avis. L’appel est annulé, et, comme je n’ai pas compétence pour rendre une décision exécutoire quant au lieu de résidence de l’appelant, mon opinion à cet égard est exactement ce qu’elle est, une opinion.
+[34] La Cour a ensuite déclaré : « [5] La Cour canadienne de l’impôt est une cour créée par la loi, et sa compétence est régie par celle‑ci. L’article 12 de la Loi sur la Cour canadienne de l’impôt détermine les questions sur lesquelles la Cour a compétence [...] ».
+[35] L’avocat de la Couronne a également invoqué l’affaire Jersak c. La Reine, [2020] A.C.I. no 112, 2020 CCI 136, une décision de la juge Wong. Les passages pertinents sont les suivants :
+Aux termes d’un accord avec l’Alberta, le ministre calcule le montant de la PEFA et de la RLCAB en fonction des renseignements contenus dans la déclaration de revenus d’un particulier. Toutefois, la Cour n’est pas l’instance judiciaire appropriée lorsqu’un désaccord se produit concernant ces montants de prestations provinciaux. À l’article 12 de la Loi sur la Cour canadienne de l’impôt, le législateur énumère les lois relativement sur lesquelles notre la Cour a compétence et elles sont toutes fédérales. Comme je l’ai expliqué à Mme Jersak lors de l’audience, toute compétence ou capacité existante de connaître d’un différend concernant la PEFA et la RLCAB est provinciale [la note de bas de page 1 est rédigée comme suit : Climate Leadership Implementation Act, S.A. 2016, c. 16; Alberta Personal Income Tax Act, R.S.A. 2000, ch. A-30.]; là encore, je ne peux que dire explicitement que la Cour n’a pas compétence. [La note de bas de page 2 se lit comme suit : Arrêt Perron c. La Reine, 2017 CCI 220, par. 4. [Non souligné dans l’original]
+[6] La PUGE est une prestation régie par la Loi sur la prestation universelle pour la garde d’enfants fédérale. Ni cette loi ni l’article 12 de la Loi sur la Cour canadienne de l’impôt ne confère compétence à la Cour pour connaître des litiges relatifs à la PUGE. Comme je l’ai expliqué à Mme Jersak lors de l’audience, la Loi sur la PUGE est une loi courte et ne semble pas comporter de mécanisme de résolution des litiges. Là encore, je ne peux que dire explicitement que la Cour n’a pas compétence. [Arrêt Perron c. La Reine, 2017 CCI 220, par. 4].
+[36] Les autres indications que je tire de l’arrêt de la juge Wong se trouvent au paragraphe 7 : [7] Dans la réponse à l’avis d’appel, l’intimée a donné avis de la requête préliminaire en annulation de l’appel interjeté à l’égard de l’année de base 2013 au motif qu’aucune objection valable n’avait été déposée; toutefois, aucun affidavit fondé sur l’article 244 n’a été produit pour appuyer sa requête. En l’espèce, l’appelante a été informée dans la réponse et dans un affidavit, bien plus tard, mais il n’y a pas eu d’orientation jurisprudentielle.
+[37] Le paragraphe 4 de la décision du juge Russell dans l’affaire Perron c. La Reine, 2017 CCI 220, est repris ci-dessous :
+[4] Je conviens avec l’intimée que la Cour n’a pas compétence pour entendre les appels interjetés à l’encontre d’une décision ayant rejeté une demande de PUGE et de CIEFA. La PUGE est prévue dans la Loi sur la prestation universelle pour la garde d’enfants fédérale, mais ni cette loi ni toute autre loi ne confèrent à la Cour la compétence en matière de PUGE. Le jugement Goldstein c. La Reine, 2013 CCI 165 (inf.), confirme cette conclusion. Le CIEFA est prévu dans la Alberta Personal Income Tax Act, qui est une loi provinciale. La Cour n’a aucune compétence à l’égard des lois provinciales. De plus, la loi de l’Alberta qui a été citée confère à la Cour du Banc de la Reine de l’Alberta la compétence pour entendre les appels des déterminations relatives au CIEFA. [Non souligné dans l’original]
+[38] La dernière phrase soulignée fait écho à l’argumentation de la Couronne intimée en l’espèce, puisque la Cour du Banc du Roi a été désignée, sans contestation, comme la voie de redressement correcte, bien que ni la Cour ni la Couronne n’aient été en mesure de déceler une seule décision publiée démontrant le recours à cette Cour supérieure.
+[39] Je note également que le juge Russell a fait observer ce qui suit, au paragraphe 3 : [...] Mme Perron a reçu signification de l’avis de requête et d’une copie de la réponse modifiée proposée quelques jours avant. Évidemment, déterminer si une question de compétence a été plaidée ou soulevée ou non par l’une ou l’autre des parties n’a de toute façon aucune incidence sur la compétence même de la Cour.
+[40] En outre, les commentaires suivants sont pertinents :
+15 [...] En l’espèce, la compétence de la Cour consiste simplement à trancher la question de savoir si les nouvelles déterminations établies par le ministre au sujet de la PFCE et du crédit pour la TPS/TVH sont bien fondées ou non. Aucune disposition de la Loi ne permet au ministre ou à la Cour d’examiner le facteur des difficultés excessives si le présent appel quant auxdits crédits d’impôt n’était par ailleurs pas accueilli. Ce serait plutôt à la Cour du Banc de la Reine de l’Alberta d’examiner ce facteur dans l’exercice de sa compétence générale consistant à fixer des paiements de pension alimentaire appropriés dans le contexte global du droit de la famille à l’égard de Mme Perron.
+[41] La juge Woods, aujourd’hui membre de la Cour d’appel fédérale, a rédigé le jugement de la Cour canadienne de l’impôt dans l’affaire Goldstein c. La Reine, [2013] A.C.I. no 131, 2013 CCI 165. La décision indique d’emblée que « 1. l’appel portant sur la Loi sur la prestation universelle pour la garde d’enfants soit annulé [...] ». La Cour a ensuite fait remarquer au paragraphe 3 ce qui suit : [3] Il y a deux questions préliminaires. Premièrement, l’appel interjeté en vertu de la LPUGE doit être annulé, parce que la Cour n’a pas compétence pour trancher les appels interjetés en vertu de cette loi : Fatima c. La Reine, 2012 CCI 49.
+[42] La juge Woods a également rendu un jugement dans l’affaire Fatima, 2012 CCI 49, et je trouve utile de reproduire les paragraphes 5 et 6, qui servent à expliquer pourquoi la Cour a annulé l’appel concernant les prestations au titre de la Loi sur la prestation universelle pour la garde d’enfants.
+[5] À l’audience, j’ai soulevé la question de savoir si la Cour canadienne de l’impôt a compétence relativement à la LPUGE. L’avocate de la Couronne a répondu que la question de la résidence était la même au regard des deux lois et que la décision de la Cour concernant la prestation fiscale pour enfants sous le régime de la LIR serait suivie pour l’application de la LPUGE. Cela constitue peut-être une solution pratique en l’espèce, mais la question de la compétence aurait dû être mentionnée dans la réponse. [Non souligné dans l’original]
+[6] Dans la décision Moise c La Reine, 2009 CCI 187, la juge Sheridan a conclu que la Cour canadienne de l’impôt n’avait pas compétence relativement à la LPUGE. Je ne vois aucune raison de m’écarter de cette norme. L’appel relatif aux prestations prévues par la LPUGE sera donc annulé.
+[43] En ce qui concerne la décision Moise c. La Reine, [2009] A.C.I. no 140, 2009 CCI 187, tranchée par la juge Sheridan, elle soutient l’observation de la Couronne en l’espèce. Comme il est dit au paragraphe 3 :
+[3] Au cours de l’audience, l’avocat de l’intimée a soulevé, à juste titre, une objection préliminaire, affirmant que l’appelante ne pouvait pas inclure dans son appel une demande de redressement pour sa réclamation faite en vertu de la Loi sur la prestation universelle pour la garde d’enfants. Le fondement de l’objection était que la Cour n’a pas compétence dans les appels de cette nature. L’appelante l’a admis et s’est finalement désistée de cet aspect de son appel.
+(10) Une affaire qui résume bien l’examen de la jurisprudence qui précède
+[44] La décision Bauer c. La Reine, [1997] A.C.I. no 104, 2016 CCI 136, a également été invoquée par l’avocat de la Couronne à l’appui de son argument selon lequel la Cour n’est pas compétente. Plus précisément, j’ai été invité à examiner les passages suivants de la décision rendue par la juge Lyons :
+[2] En général, les moyens exposés dans la requête sont que l’appelant a invoqué des faits, des questions en litige et des moyens qui excèdent la compétence de la Cour, qui n’ont aucune possibilité de succès, qui sont frivoles et abusifs et qui, s’ils étaient retenus, retarderaient l’appel. [Non souligné dans l’original] Plus précisément, de façon inappropriée, les passages :
+a) portent principalement sur la conduite des fonctionnaires de l’Agence du revenu du Canada pendant l’enquête, la vérification, l’établissement des nouvelles cotisations et l’opposition, la divulgation de documents en vertu de la Loi sur la protection des renseignements personnels et la légalité des demandes péremptoires;
+[...]
+La compétence de la Cour canadienne de l’impôt
+[10] À titre de tribunal constitué par une loi, notre Cour a compétence exclusive pour entendre les renvois et les appels portés à l’encontre de cotisations (ou de nouvelles cotisations) en vertu de la LIR. [La note de bas de page 3 se lit comme suit : Article 12 de la Loi sur la Cour canadienne de l’impôt. La Cour canadienne de l’impôt est une cour supérieure. Cette compétence, conjuguée aux paragraphes 169(1) et 171(1) de la LIR, fait en sorte que la compétence légale de la Cour se limite à déterminer la validité et le bien‑fondé d’une cotisation quant à l’obligation fiscale d’un contribuable et autorise la Cour à rejeter un appel ou à accueillir un appel en annulant ou en modifiant une cotisation ou en la renvoyant au ministre pour nouvel examen et nouvelle cotisation. [Non souligné dans l’original]
+[45] La Cour a ensuite été invitée à examiner ces paragraphes qui, bien que longs, sont très importants et sont donc reproduits intégralement :
+[24] Fait important, la compétence de la Cour est limitée non seulement par l’article 169 de la LIR, mais également par les conclusions de la Cour d’appel fédérale dans les arrêts Main Rehabilitation Co. Ltd. c. La Reine, [2004 CAF 403, 2004 DTC 6762 (CAF)], Ereiser, [2013 CAF 20, 2013 DTC 5036, autorisation d’interjeter appel à la CSC refusée, no 35296, [2013] C.S.C.R. no 167 (5 avril 2013)], JP Morgan Asset Management (Canada) Inc. c. Canada (Revenu national), [2013 CAF 250, 2014 DTC 5001] et d’autres décisions. Autrement dit, la compétence de la Cour de l’impôt à l’égard d’un appel en matière fiscale se limite à décider si une cotisation est valide et exacte, mais elle n’inclut pas les contestations aux processus par lesquels les nouvelles évaluations et l’assujettissement fiscal ont été établis, la façon ou la méthode ayant servi à calculer le montant, l’exercice des pouvoirs ministériels ou la conduite de l’ARC en général (le principe « Main »). [Non souligné dans l’original]
+[25] Dans l’arrêt Main, le juge Rothstein, alors juge, a déclaré ce qui suit :
+[8] Il en est ainsi parce que l’appel interjeté sur le fondement de l’article 169 met en cause la validité de la cotisation et non du processus ayant conduit à l’établir [...] Autrement dit, il ne s’agit pas de déterminer si les fonctionnaires de l’ADRC ont correctement exercé leurs pouvoirs, mais plutôt de déterminer si les montants pouvaient valablement être cotisés sous le régime de la Loi [...] [Non souligné dans l’original]
+[26] Après avoir confirmé le principe de l’arrêt Main, la Cour, dans l’arrêt Ereiser, a conclu ceci : « [...] il est évident et manifeste que la Cour canadienne de l’impôt n’annule pas les nouvelles cotisations visées par l’appel en l’espèce en se fondant uniquement sur la conduite fautive du fonctionnaire du fisc qui les a autorisées ». La juge Sharlow a déclaré ce qui suit :
+[31] [L]a mission de la Cour canadienne de l’impôt lors d’un appel dirigé contre une cotisation d’impôt sur le revenu consistait à déterminer la validité et le bien-fondé de la cotisation en fonction des dispositions applicables de la Loi de l’impôt sur le revenu et des faits donnant lieu à l’obligation du contribuable prévue par la loi. En toute logique, la conduite du fonctionnaire du fisc qui autorise l’établissement d’une cotisation n’est pas pertinente pour déterminer cette obligation prévue par la loi. Il est évident que la conduite fautive d’un fonctionnaire du fisc n’est pas pertinente quant à la détermination de la validité ou du bien‑fondé de la cotisation. [...]
+[27] Même si la conduite de l’ARC menant à une cotisation est fautive, notre Cour n’a pas compétence. Comme l’a déclaré le juge Stratas dans l’arrêt J.P. Morgan :
+[83] En appel, la Cour canadienne de l’impôt n’a pas compétence pour annuler une cotisation établie sur la base d’une conduite fautive du ministre, tel un abus de pouvoir ou un manquement à l’équité, ayant donné lieu à la cotisation [...] Si une cotisation est bien fondée au regard des faits et du droit, le contribuable doit payer l’impôt. [La note de bas de page 13 se lit comme suit : Ibid., au paragraphe 83. Dans l’arrêt Ereiser, voir les paragraphes 36 et 37. Leroux v. Canada (Revenue Agency), 2012 BCCA 63, exemple d’une action délictuelle devant la Cour supérieure de la Colombie-Britannique. Dans l’arrêt J.P. Morgan, diverses causes d’action exposées en détail au paragraphe 89 indiquent qu’un recours est disponible devant les cours supérieures des provinces ou peut-être par le processus de contrôle judiciaire de la Cour fédérale, selon la question en litige.
+III. Conclusion
+[46] Les observations de l’intimé, tant écrites comme indiqué dans la réponse qu’exprimées de vive voix lors de l’audience, sont valables à la lumière de l’analyse exposée ci-dessus et sont adoptées par la Cour. L’appel formé par l’appelante porte sur une question qui n’est pas de la compétence de la Cour et l’appel est annulé.
+[47] Comme les parties n’ont pas réclamé de dépens, aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 27e jour de mars 2023.
+« Gilles Renaud »
+Le juge suppléant Renaud
+Juge suppléant Renaud
+RÉFÉRENCE :
+2023 CCI 27
+NO DU DOSSIER DE LA COUR :
+2022-1576(IT)I
+INTITULÉ :
+HEIDI MELENCHUK c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Regina (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 8 février 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Gilles Renaud
+DATE DU JUGEMENT :
+Le 27 mars 2023
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Steven Tymiak
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+L’appelante elle-même
+Cabinet :
+[EN BLANC]
+Pour l’intimé :
+Steven Tymiak Sous-procureur général du Canada Ottawa, Canada

@@ -1,0 +1,95 @@
+Title: Neathly v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28093/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-611-28093-neathly-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-08-13
+
+# Neathly v. The Queen
+
+- Citation: 2007 CCI 611
+- Decision date: 2007-08-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1678, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neathly v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-13
+Référence neutre
+2007 CCI 611
+Numéro de dossier
+2006-3176(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI611
+Date : 20071107
+Dossier : 2006-3176(IT)I
+ENTRE :
+ELAINE NEATHLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(rendus oralement à l’audience le 13 août 2007, à Toronto (Ontario))
+La juge V.A. Miller
+[1] Les présents appels ont été interjetés à l’encontre des cotisations établies à l’égard des années d’imposition 1994, 1998, 1999, 2000, 2001 et 2002 de l’appelante.
+[2] La Cour n’a pas été officiellement saisie des appels à l’égard des années d’imposition 1994 et 1998 étant donné que l’appelante n’a pas produit d’avis d’opposition au ministre du Revenu national (le « ministre »). De plus, le témoignage de Tracey Cooper, agente des litiges auprès de l’Agence du revenu du Canada (l’« ARC »), a permis d’établir que la date limite pour présenter une demande de prorogation des délais pour la production d’un avis d’opposition à l’égard de l’année d’imposition 1994 était le 11 février 1998 et le 4 mai 2000
+pour ce qui est des oppositions à l’égard de l’année d’imposition 1998. Par conséquent, les appels concernant les années d’imposition 1994 et 1998 sont annulés.
+[3] L’appelante a présenté des éléments de preuve indiquant qu’elle avait présenté une demande fondée sur les dispositions d’équité au ministre le 22 février 2000 et le 27 février 2001. L’ARC a rejeté les deux demandes de rajustement ou d’annulation des pénalités et des intérêts. L’appelante demande donc à la Cour d’examiner ces décisions du ministre.
+[4] Il est bien établi dans la jurisprudence que la Cour canadienne de l’impôt n’a pas compétence pour ce qui est de remettre en question le pouvoir discrétionnaire conféré au ministre en application du paragraphe 220(3.1) de la Loi de l’impôt sur le revenu (la « Loi ») (Adamson v. R., [2002] 2 C.T.C. 2469, au paragraphe 14).
+[5] Un important montant d’intérêts et de pénalités a été imposé à l’appelante. Cette dernière a affirmé que, pour les années d’imposition en cause, le montant d’impôt, d’intérêts et de pénalités encore à payer s’élève à environ 32 000 $, malgré le montant de 17 000 $ faisant l’objet d’une saisie.
+[6] L’appelante est la seule responsable de son malheur. Ses déclarations de revenus pour les années 1994, 1998, 1999, 2000, 2001 et 2002 ont été produites en retard. En fait, chacune de ces années d’imposition a fait l’objet d’une cotisation arbitraire en application du paragraphe 152(7) de la Loi. Ce n’est qu’après avoir reçu les avis de cotisation datés du 10 novembre 2003 pour les années d’imposition 1999, 2000, 2001 et 2002 que l’appelante a produit, le 14 décembre 2005, ses déclarations de revenus pour ces années‑là.
+[7] Les dispositions aux paragraphes 161(1) et 162(1) sont sans équivoque. Si un contribuable omet de produire sa déclaration de revenus au plus tard à la date d’échéance (dans le cas de l’appelante, cette date était le 30 avril) et qu’il a un solde d’impôt dû, des intérêts sont appliqués à ce solde, suivant les dispositions au paragraphe 161(1), et des pénalités pour production tardive sont également appliquées à ce solde, suivant les dispositions au paragraphe 162(1). De plus, dans le cas de l’appelante, les pénalités sont multipliées par deux, suivant le paragraphe 162(2), étant donné qu’elle avait omis, à plusieurs reprises, de produire sa déclaration de revenus à temps.
+[8] L’explication qu’a fournie l’appelante quant à la production tardive de ses déclarations de revenus était que ceci constituait de la « désobéissance civile » et elle insistait pour dire que l’ARC avait égaré sa déclaration de revenus de 1994. J’ai constaté que les documents de l’appelante sont en désordre et que ses affaires sont mal organisées. Cette mauvaise organisation lui a coûté l’application d’intérêts et de pénalités.
+[9] L’intimée a admis que l’appelante avait droit à une déduction concernant des cotisations à un REER s’élevant à 12 050 $ pour l’année d’imposition 2000. Ce montant est constitué des cotisations suivantes :
+N° de série
+La Compagnie d’Assurance du Canada sur la Vie
+2 625 $
+402261
+La Compagnie d’Assurance du Canada sur la Vie
+4 425 $
+402262
+Fiducie (Investment Planner Plus)
+5 000 $
+110-241-6-9
+[10] L’appelante a fait valoir qu’en 2000, elle a reçu une allocation de retraite s’élevant à 14 000 $ de la part de St. Elizabeth Health Care et que ce montant avait été reconduit dans un régime d’épargne‑retraite. Elle a présenté un reçu officiel aux fins d’impôt (n°014659308) produit par Canada Trust. Ce reçu indique que le montant de 14 000 $ représente une cotisation à un régime d’épargne‑retraite de TD Canada Trust pour l’année 2000. J’ai demandé à l’avocat de l’intimée de donner ses observations concernant la pièce en question. Il a fait valoir que les cotisations au REER s’élevant à 12 050 $ étaient comprises dans la cotisation au REER s’élevant à 14 000 $. Je ne suis pas de cet avis. L’information inscrite sur les reçus des cotisations indique que les montants sont distincts. Je conclus donc que l’allocation de retraite a été reconduite dans un régime d’épargne‑retraite.
+[11] Au moment de rendre oralement les présents motifs, j’ai admis une déduction de 22 537 $ au titre de cotisation à un REER pour l’année d’imposition 2000. Ce montant comprenait les 14 000 $ d’allocation de retraite ayant été reconduits, plus le montant de 12 050 $ admis par l’intimée, moins le montant de 3 513 $ dont la déduction avait déjà été admise pour l’année d’imposition 2000.
+[12] Avant que je signe le jugement du présent appel, l’avocat de l’intimée a souligné que le montant maximum déductible au titre de REER de l’appelante pour l’année d’imposition 2000 était de 3 513 $. La question de ce montant avait été présentée à l’alinéa 8l) de la réponse à l’avis d’appel ainsi qu’à la pièce A, joint à la réponse à l’avis d’appel. Je ne crois pas être déssaisie, alors je modifie ma décision et admets la déduction des 17 513 $ au titre de cotisation à un REER pour l’année 2000. Ce montant représente l’allocation de retraite de 14 000 $ plus les 3 513 $. À tous les autres égards, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 21e jour de décembre 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI611
+N° DE DOSSIER : 2006-3176(IT)I
+INTITULÉ : Elaine Neathly c. La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 13 août 2007
+MOTIFS DU JUGEMENT RENDUS
+ORALEMENT PAR : L’honorable juge Valerie Miller
+DATE DES MOTIFS DU JUGEMENT
+RENDUS ORALEMENT : Le 7 novembre 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Brandon Siegal
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

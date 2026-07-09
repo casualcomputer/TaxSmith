@@ -1,0 +1,104 @@
+Title: Levy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25608/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-349-25608-levy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-05-29
+
+# Levy c. La Reine
+
+- Citation: 2003 CCI 349
+- Decision date: 2003-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2416, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-29
+Référence neutre
+2003 CCI 349
+Numéro de dossier
+2002-1863(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑1863(IT)I
+ENTRE :
+CLAUDINE LEVY,
+appelante,
+et
+SA MAJESÉ LA REINE,
+intimée,
+et
+EDOUARD ELKAIM,
+tierce partie.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande en vertu de l’article 174 de la Loi de l’impôt sur le revenu entendue le
+5 mai 2003 et décision rendue oralement le 6 mai 2003 à Montréal (Québec)
+Devant : L'honorable juge C. H. McArthur
+Comparutions
+Avocat de l'appelante :
+Me Asher Neudorfer
+Avocat de l'intimée :
+Avocate de la tierce partie :
+Me Simon‑Nicolas Crépin
+Me Emmanuelle Billion‑Porte
+____________________________________________________________________
+ORDONNANCE
+Vu la demande de Sa Majesté la Reine (dont l’avis est daté du 24 janvier 2003) pour obtenir une ordonnance en vertu de l’alinéa 174(3)b) de la Loi de l’impôt sur le revenu constituant Edouard Elkaim comme partie aux appels de Claudine Levy (no du dossier de la Cour 2002‑1863(IT)I) interjetés à l’encontre des cotisations fiscales établies en vertu de la Loi pour les années d’imposition 1997, 1998 et 1999;
+Et vu la demande indiquant qu’une détermination des questions établies dans la demande aura un effet sur les cotisations émises à l’égard de Claudine Levy pour les années d’imposition 1997, 1998 et 1999;
+Et après avoir lu les actes de procédure et la demande déposés;
+Et après avoir entendu les avocats des parties;
+Il est ordonné que :
+1. Edouard Elkaim soit constitué comme partie aux appels de Claudine Levy (no du dossier de la Cour 2002‑1863(IT)I) interjetés à l’encontre des cotisations fiscales établies en vertu de la Loi pour les années d’imposition 1997, 1998 et 1999;
+2. le sous‑procureur général du Canada signifie sans délai à Edouard Elkaim une copie de l’Avis d’appel et de la Réponse dans le cadre des appels de Claudine Levy;
+3. l’article 18.33 de la Loi sur la Cour canadienne de l’impôt s’applique sans délai à la détermination des questions en litige dans la demande;
+4. l’audition des appels de Claudine Levy soit prévue commencer à 9 h 30 le mercredi 9 juillet 2003, à la Cour canadienne de l’impôt, 500, place d'Armes, 18e étage, à Montréal (Québec).
+Signé à Ottawa, Canada, ce 29e jour de mai 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice
+Référence : 2003CCI349
+Date : 20030529
+Dossier : 2002‑1863(IT)I
+ENTRE :
+CLAUDINE LEVY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+EDOUARD ELKAIM,
+tierce partie.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à
+Montréal (Québec) le 6 mai 2003.)
+Le juge McArthur
+[1] Il s’agit d’une demande du ministre du Revenu national présentée en vertu de l’article 174 de la Loi de l’impôt sur le revenu pour le renvoi à la Cour de questions communes. L’effet d’une ordonnance constituerait M. Elkaim comme partie aux présents appels de son ancienne conjointe, l’appelante, Mme Levy. Me Emmanuelle Billion‑Porte s’est opposée de manière compétente, au nom de M. Elkaim, à la demande.
+[2] La position du ministre est la suivante. Une cotisation a été établie à l’égard de l’appelante en grande partie parce que l’inclusion dans son revenu des paiements de pension alimentaire ne correspond pas aux déductions demandées par M. Elkaim au cours d’une année d’imposition donnée. Les conditions de l’accord de séparation peuvent expliquer cela parce qu’il contient des clauses obligeant M. Elkaim à verser des montants directement à des tiers, par exemple, aux écoles (probablement des écoles privées) pour les enfants. Ces montants ont été déduits par M. Elkaim, mais ils n’ont pas été inclus dans le revenu de Mme Levy. En outre, comme ces paiements étaient périodiques, le problème s’est répété tous les ans.
+[3] Une abondante jurisprudence traite des demandes présentées en vertu de l’article 174 dans des cas portant sur des pensions alimentaires. J’en cite deux, Privitera c. M.R.N., C.C.I., no 89‑2825(IT), 6 janvier 1992 (92 DTC 1122) et Rosenburg v. The Queen, [2002] T.C.J. No. 269, qui sont utiles dans le cas de la présente demande. En général, dans la mesure où le ministre a respecté l’article 174 et porté la question à l’attention de la Cour de manière légitime, il est courant que la Cour joigne deux anciens conjoints étant donné le lien étroit des contribuables avec les situations fiscales. La raison en est que les questions dont est saisie la Cour peuvent être mieux réglées dans le cadre d’une seule action sans que l’on ait à tenir deux audiences et que l’on obtienne deux décisions contradictoires.
+[4] Selon M. Elkaim, il a déjà consacré beaucoup d’énergie, de temps et d’argent pour régler officiellement la question de la déductibilité des montants en cause avec l’Agence des douanes et du revenu du Canada (ADRC). Il croit que sa position est identique à celle du ministre et que sa présence dans le cadre des appels de Mme Levy est donc totalement superflue et que cela ne ferait qu’augmenter ses frais juridiques et comptables.
+[5] L’avocat de l’appelante a indiqué à la Cour que toute question sur laquelle se sont entendus le ministre et M. Elkaim à l’égard de la situation fiscale de ce dernier n’est pas connue de l’appelante puisqu’elle n’est pas au courant des négociations survenues entre les deux parties. L’avocat a également mentionné que dans une situation semblable, le juge Archambault, dans l’affaire Serbey c. Canada, [2001] A.C.I. n° 131, a déclaré ce qui suit :
+Enfin, il est malheureux que les appels de Mme Serbey et de son ex‑époux n'aient pas été entendus ensemble par cette cour. Si tel avait été le cas, une seule audience aurait été nécessaire, et seul l'un de ces contribuables aurait obtenu gain de cause en appel. Les choses étant ce qu'elles sont, ils ont tous les deux eu gain de cause, et ce sont les contribuables canadiens qui ont perdu.
+J’applique ce raisonnement à la présente situation.
+[6] Selon M. Elkaim, il en est venu à une entente avec le ministre quant à la déductibilité de paiements. L’avocate de M. Elkaim a présenté une liasse importante de documents, ce qui, à mon avis, était prématuré. L’objet de la présente audience n’est pas de décider si la preuve présentée par M. Elkaim était bien fondée ou si elle était plus plausible que celle de son ex‑épouse.
+[7] Enfin, la constitution de M. Elkaim comme partie au présent appel ne fera pas en sorte que la Cour aura un préjugé à l’égard de sa preuve. La présente ordonnance ne fait que permettre aux parties de voir traitées les questions en litige dans le cadre d’une seule audience de façon logique et efficace. La preuve de M. Elkaim, y compris toute entente qu’il a conclue avec le ministre, parlera d’elle‑même au procès. Je laisserai le juge de première instance décider de la question des dépens.
+[8] Pour ces raisons, la demande est accueillie.
+Signé à Ottawa, Canada, ce 29e jour de mai 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice

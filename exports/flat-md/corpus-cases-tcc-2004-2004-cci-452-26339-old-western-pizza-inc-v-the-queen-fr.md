@@ -1,0 +1,154 @@
+---
+title: "Old Western Pizza Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26339/index.do"
+last_modified: "2004-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 452"
+citation2: ""
+neutral_citation: "2004 CCI 452"
+decision_date: "2004-06-22"
+language: "fr"
+item_id: "26339"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3286
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:19:28.290000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3042cee714a21911612f3c114aaeebd20025efcd910380077afb51e1cbed5876"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Old Western Pizza Inc. v. The Queen
+
+- Citation: 2004 CCI 452
+- Decision date: 2004-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3286, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Old Western Pizza Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-22
+Référence neutre
+2004 CCI 452
+Numéro de dossier
+2003-1661(GST)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1661(GST)I
+ENTRE :
+OLD WESTERN PIZZA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 février 2004 à Vancouver (Colombie-Britannique)
+Par : L'honorable juge C. H. McArthur
+Comparutions :
+Représentant de l'appelante :
+Houshang Rassaf
+Avocat de l'intimée :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation de la taxe sur les produits et services établie pour la période allant du 1er janvier 1998 au 31 décembre 2001, en application de la Loi sur la taxe d'accise et dont l'avis est daté du 27 septembre 2002 et porte le numéro 11BU0602367 est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de juin 2004.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 29e jour d'octobre 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI452
+Date : 20040622
+Dossier : 2003-1661(GST)I
+ENTRE :
+OLD WESTERN PIZZA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Le ministre du Revenu national a terminé une vérification de la valeur nette d'après les registres de l'appelante, en application de la Loi sur la taxe d'accise. Houshang Rassaf, le représentant de l'appelante, a interjeté appel à l'encontre de la cotisation qui en a résulté laquelle prescrit notamment un montant de 44 129 $ correspondant à la taxe nette sur les produits et services (TPS), le rejet des crédits de taxe sur les intrants (CTI), une pénalité de 6 105 $ et des intérêts de 4 621 $ pour la période allant du 1er janvier 1998 au 31 décembre 2001, inclusivement. M. Rassaf a représenté l'appelante à l'audition de l'appel. La vérification a été entamée, sans aucun doute, en raison des déclarations plutôt exigeantes de l'appelante en matière de TPS. Pour la période en question, elle a déclaré avoir prélevé 7 411 $ de TPS et elle a réclamé un total de 24 802 $ de CTI.
+[2] L'appelante était propriétaire et exploitait un restaurant de cuisines grecque et italienne à Vancouver en Colombie-Britannique. M. Rassaf et le vérificateur de l'intimée, M. Mohammed, ont témoigné seuls. Lorsque le vérificateur a demandé à l'appelante ses registres et ses livres de comptes, M. Rassaf lui a fait parvenir un sac de poubelle plein de reçus, de rubans de caisse enregistreuse, de chèques oblitérés et d'items similaires, tout en désordre. Le vérificateur a rangé les documents par année avec grande peine et il a essayé de reconstruire le revenu et les dépenses de l'appelante pour en déterminer les CTI et la TPS recouvrable.
+[3] M. Mohammed connaissait le domaine de la restauration, puisque lui-même a déjà exploité un restaurant. Il était donc compatissant envers la situation de M. Rassaf. Je mentionne cela en raison de certaines déclarations contenues dans l'avis d'appel :
+[TRADUCTION]
+L'Agence des douanes et du revenu du Canada (ADRC) a déposé des faux renseignements à mon sujet sans procéder à la vérification de mes informations. Au lieu de faire cela, ils ont utilisé des chiffres imaginaires puisés auprès de Statistique Canada, ce qui est illégal ...
+Le vérificateur de l'ADRC, Munief Mohammad et son supérieur et chef d'équipe Bill Burden m'ont continuellement harcelé au téléphone et sont venus dans mon commerce et à ma résidence et m'ont menacé qu'ils pouvaient faire tout ce qu'ils voulaient et ils ont dit qu'ils ne voulaient que personne ne le sache - il semble qu'ils voulaient m'extorquer de l'argent ou que je leur donne un pot de vin. Ils ont produit expressément des faux reçus de cotisation pour me causer des problèmes ils m'ont dit cela quand ils sont venus à ma résidence ce qui est illégal et je veux que la Cour de l'impôt s'occupe d'eux en conséquence.
+M. Rassaf et l'appelante ont poursuivi l'ADRC devant la Cour suprême de la Colombie-Britannique. Le juge présidant l'audience a alors ordonné l'arrêt des procédures, statuant que la Cour canadienne de l'impôt devait trancher l'affaire. J'admets le témoignage du vérificateur selon lequel M. Rassaf a fait preuve de manque de coopération tout au long de la vérification.
+[4] M. Mohammed a déclaré que, lorsqu'il demandait à M. Rassaf comment il avait obtenu ses chiffres, ce dernier lui répondait « Je les connais tout simplement » . Il adoptait la même attitude pendant l'audition du présent appel. Il est juste de dire qu'en toute probabilité, il était conscient que les rubans de factures et de reçus qu'il avait présentés ne reflétaient pas la réalité, mais voilà tout ce qu'il a présenté. Par loi, l'appelante est assujettie à l'obligation de maintenir des registres adéquats[1]. On lui a exigé qu'il produise des éléments de preuve dans un délai de deux années. L'attitude de son représentant pendant l'audience était concernée et assurée. Il a affirmé de manière énergique que les documents qui se trouvent dans ses boîtes démontreraient ses affirmations, mais il n'a pas présenté de preuve comptable claire. Il disait des généralités, sans donner de précisions. Il a effectivement déposé un sac à provisions de documents sans grande utilité. Il a déclaré qu'il n'avait pas les moyens d'engager un avocat ou un comptable, mais il m'a demandé d'accepter sur parole le fait que non seulement l'appelante ne devait aucun impôt, mais que l'ADRC lui devait plus de 130 000 $ ou devait cette somme à l'appelante. Il était difficile de suivre sa logique. Voici de nouveau un extrait de l'avis d'appel :
+[TRADUCTION]
+Ils me doivent environ 139 083 $ pour les années 1995, 1996, 1997, 1998, 1999, 2000 et 2001 en ce qui a trait à sept hausses. Le total de mon revenu brut d'entreprise était de 30 690 $ par année en moyenne depuis 1995. Un tiers de ce chiffre, soit 10 230 $ par an constitue le coût de la nourriture. Le revenu net est de 20 460 $ par année. Le coût total d'exploitation est de 43 468 $ par an (notamment 17 610 $ par année pour la main d'oeuvre et 25 858 $ par année de coût d'exploitation) ce qui signifie une perte de 23 008 $ par année que nous avons dû emprunter depuis 1995. Ce qui veut dire que nous avons une dette de plus de 100 000 $ à un taux d'intérêts composés de 18 p. 100 et que l'ADRC a gagné 50 p. 100 en profit d'impôt en raison des frais d'intérêts.
+Je n'éprouve aucune difficulté à croire que M. Rassaf a rendu la vérification difficile.
+[5] Je vais premièrement aborder la question des CTI. M. Mohammed a témoigné avoir vérifié chaque reçu présenté par l'appelante et que leur somme ne s'élève pas au montant réclamé. Il a rejeté correctement les montants qui ne sont pas documentés. La disposition applicable est le paragraphe 169(4) qui prévoit ce qui suit :
+169(4) L'inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+b) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d'indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+Il n'est pas nécessaire de repasser en détail les prescriptions en matière de reçus puisque les reçus qui ont été présentés ne sont pas très utiles. Sans la présence d'un minimum d'organisation comptable, il n'est pas possible de distinguer les reçus pertinents des reçus inutiles. Il ne suffit pas de tout remettre au vérificateur ou au tribunal pour qu'ils en fassent la comptabilité. Les paragraphes 286(1) et 286(2) prévoient ce qui suit :
+286(1) Toute personne qui exploite une entreprise au Canada ou y exerce une activité commerciale, toute personne qui est tenue, en application de la présente partie, de produire une déclaration ainsi que toute personne qui présente une demande de remboursement doit tenir des registres en anglais ou en français au Canada ou à tout autre endroit, selon les modalités que le ministre précise par écrit, en la forme et avec les renseignements permettant d'établir ses obligations et responsabilités aux termes de la présente partie ou de déterminer le remboursement auquel elle a droit.
+286(2) Le ministre peut exiger que la personne qui ne tient pas les registres nécessaires à l'application de la présente partie tiennent ceux qu'il précise. Dès lors, la personne est tenue d'obtempérer.
+[6] Dans l'arrêt Helsi Construction Management Inc. c. R., le juge Bowman a fait des observations au sujet du paragraphe 169(4) qui sont aussi applicables en l'espèce[2] :
+13 Nous avons affaire à l'une des conditions techniques prévues par une loi qui est quelque peu unique par sa particularisation. En outre, il s'agit là du fondement d'un régime d'autocotisation visant le monde du commerce. Aussi malheureux que cela puisse paraître pour l'appelante, les règles sont les règles. Je ne peux rien faire pour l'aider sur ce point. Le problème, dans une certaine mesure, découle du fait de l'appelante. M. Familamiri s'est efforcé de corriger la situation créée initialement par l'état désordonné des dossiers et il y est parvenu dans une certaine mesure. Toutefois, il y a des limites à ce qu'une personne peut faire pour corriger des années de désordre.
+[7] Lorsqu'il s'est penché sur le prélèvement de la TPS, comme il a été déclaré plus haut, le vérificateur a remarqué que les registres de l'appelante étaient incomplets et complètement désordonnés. Il a déclaré que les chiffres de M. Rassaf semblaient tomber du ciel.
+[8] J'ai regardé quelques documents qui se trouvaient dans le sac (pièce A-12) et qui correspondaient au mois d'octobre 1998. Les reçus présentés par l'appelante ne sont pas documentés, mais on été mis à part pour le mois d'octobre 1998 par le vérificateur. Plusieurs de ces reçus proviennent de London Drugs, l'un d'entre eux de Rogers Cablevision et plusieurs proviennent de stations d'essence. Beaucoup de ces reçus proviennent de supermarchés et sont d'un montant d'environ 15 $ pour des produits courants : ils ne sont pas différents des reçus d'épicerie d'une famille normale peu nombreuse. Il y a quatre ou cinq reçus de Costco et de Saputo Fords Ltd pour le mois d'octobre 1998, s'élevant à un total d'environ 900 $. Ce montant pourrait bien constituer le montant d'achats pour le restaurant. Il y avait des relevés de comptes bancaires, des relevés de cartes de crédit et des chèques oblitérés. La plupart de ces documents, sinon la totalité d'entre eux, étaient au seul nom de M. Rassaf. Ils ne m'ont pas été très utiles pour déterminer le revenu et les dépenses d'entreprise de l'appelante. Il est clair qu'il s'agit d'une tâche herculéenne que de mettre des centaines, si ce n'est des milliers, de documents en ordre chronologique.
+[9] La seule manière dont ces documents auraient pu être utiles à la cause de l'appelante était par la présentation, par un comptable d'un rapport et d'un avis professionnel au sujet de la situation économique de l'appelante après avoir examiné attentivement les documents. Non seulement les registres étaient organisés, mais ils ne contenaient pas les détails prescrits. M. Rassaf a mis ensemble toutes ses dépenses personnelles, ainsi que tous les reçus et les dépenses d'entreprise. Comme il a été déclaré, il avait mis tous ces reçus, relevés, chèques, etc. dans un sac de poubelle sans aucun égard à l'ordre ou à l'organisation. Il n'incombe pas au tribunal d'effectuer une vérification comptable pour le compte de l'appelante.
+[10] Face à cette situation, le ministre n'avait d'autre choix que d'effectuer une vérification de son avoir net. M. Rassaf a fait valoir agressivement que le ministre avait fait preuve de ridicule en basant ses calculs sur les résultats de Statistique Canada et sur d'autres méthodes afin de calculer ses dépenses personnelles. Il n'a cependant pas proposé de meilleure solution. Il a déclaré que le ministre aurait dû tenir compte du fait que ses dépenses de gaz naturel s'élevaient à 60 $ par mois en moyenne, ce qui veut dire que son revenu d'entreprise était très inférieur à la somme évaluée par le vérificateur : tout producteur de pizzas aurait trouvé cela évident. M. Rassaf a déclaré que :
+[TRADUCTION]
+[...] J'ai fait mon travail. Je vous ai donné la preuve, la preuve fondamentale de mon relevé de gaz naturel, sans avoir à tout calculer. Si vous voyez le relevé de gaz naturel vous constatez qu'il s'agit de 60 $ par mois. Si vous communiquez avec quelques pizzerias qui payent 60 $ par mois, ils vous diront combien de pizzas ils vendent. Ils vous le diront. Voilà le chiffre fondamental qui nous dispense de tout autre calcul. (Transcription, page 15, lignes 10 à 16)
+[...]
+Voici, comme je l'ai dit, les deux éléments, les éléments fondamentaux de la présente affaire. L'un d'eux est le relevé de gaz naturel. S'ils peuvent me montrer un relevé de gaz supérieur à 60 $ par mois, alors je leur donnerai raison. Ou sinon, s'ils peuvent me montrer 40 000 $ -- 44 000 $ d'achats de nourriture, comme du mozzarella, de la pâte de tomates et ainsi de suite, pour faire de la pizza, alors je dirai qu'ils ont raison. Ils n'ont rien de tout cela, mais ils font des allégations. N'importe qui peut faire des allégations, votre honneur. Il est facile de faire des allégations mais ce n'est pas facile de démontrer l'affaire, vous savez. Ils n'ont pas de preuves pour appuyer leur cause. Il ne s'agit que d'hallucinations et ils pensent qu'ils vont me jouer ce tour à moi.
+(Transcription, page 27, lignes 7 à 19)
+Entre outre, il a ajouté que le fait qu'il était sérieusement endetté envers plusieurs banques et compagnies de cartes de crédit, démontrait qu'il ne pouvait pas être en train de gagner de l'argent. Sur ce point, il n'y a pas de preuve qui démontre à quel moment et pourquoi il a engagé ces dettes. Le représentant de l'appelante a aussi déclaré que le vérificateur aurait dû communiquer avec ses fournisseurs pour qu'ils lui disent combien de pizzas il pouvait produire avec la quantité de produits qu'il achetait. De nouveau, cette tâche n'incombe pas au vérificateur du ministre. Si le représentant de l'appelante désire faire valoir cet argument, il a le fardeau de le démontrer de manière appropriée.
+[11] Je n'accepte pas la position de l'appelante en ce qui a trait à la conduite du vérificateur. Il a fait ce qu'il pouvait avec les données dont il disposait. En dehors des déclarations générales de Rassaf, il n'y a pas de preuve qui démontre l'existence de subornation, d'extorsion ou d'intimidation.
+[12] Je suis certain qu'il existe des restaurateurs compétents qui peuvent calculer le total de leurs ventes d'après le montant des dépenses de nourriture et de services publics qu'ils ont engagées. Cependant, il ne s'agit pas d'une méthode de calcul fiable en toute situation. Le représentant de l'appelante n'a pas conservé de registres suffisants en la forme et avec les renseignements nécessaires pour permettre au ministre d'établir les responsabilités et les obligations de l'appelante aux termes de l'article 286.
+[13] Je préfère la méthode du ministre plutôt que celle de l'appelante. L'ARC utilise couramment les chiffres avancés par Statistique Canada dans de pareilles circonstances. Cette Cour a accepté plusieurs fois cette méthode qui est la meilleure de deux méthodes inexactes. Dans l'arrêt Cox c. La Reine[3], le juge Bowman a observé :
+Il est ensuite tenu pour acquis que les frais de subsistance personnels de l'appelante correspondent à ceux qui sont indiqués à l'annexe B du relevé de l'avoir net. Cette annexe comprend plus de trois pages de chiffres visant à établir les frais de subsistance de l'appelante[4]. Ces dépenses sont fondées en très grande partie sur les estimations de Statistique Canada de ce qu'il en coûte à deux personnes pour vivre, divisées par deux. Ces données sont aussi peu fiables que celles utilisées dans l'affaire Bigayan, où j'ai dit ceci :
+J'ai ici devant moi deux ensembles de chiffres peu fiables. Le ministère du Revenu national a dans de nombreux cas utilisé les chiffres de Statistique Canada pour les dépenses d'une famille comprenant un homme, une femme
+[...]
+[14] M. Mohammed a utilisé la même méthode mentionnée dans l'arrêt Cox. Il est possible qu'elle ne soit pas exacte ni même raisonnable, cependant il s'agit de la meilleure méthode dont je dispose en les circonstances.
+[15] Pour déterminer le coût de la vie en ce qui concerne M. Rassaf, le vérificateur s'est fondé avant tout sur les chiffres qu'il lui a fourni. Il a conclu que les dépenses personnelles de M. Rassaf étaient de 31 000 $ par année. Par conséquent, l'appelante devait générer au moins 31 000 $ de profits pour pouvoir survivre. Alors que le raisonnement du ministre n'a pas été énoncé en détail, il n'y a pas d'autres chiffres dont je puisse tenir compte.
+[16] Pour établir la valeur de la fourniture taxable de l'appelante, le vérificateur a obtenu des chiffres de Statistique Canada. Dans l'arrêt Ramey c. La Reine[5], le juge Bowman a fait des observations qui sont souvent invoquées et qui s'appliquent au présent pourvoi :
+Je ne sous-estime pas les difficultés énormes, sinon pratiquement insurmontables, auxquelles l'appelante et son avocat se heurtent dans leur tentative de contester les cotisations d'actif net établies à l'égard d'un contribuable décédé. Estimer le revenu annuel d'un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C'est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d'actif net repose sur une comparaison de l'actif net du contribuable, à savoir la valeur de l'actif moins le passif au début d'une année, avec son actif net à la fin de l'année. À la différence ainsi obtenue, on ajoute les dépenses qu'il a engagées pendant l'année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu'à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l'année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d'actif net s'impose est souvent l'artisan de son propre malheur. M. Boudreau a déclaré que les registres de M. Allan Ramey étaient inadéquats, qu'avant 1981 ses cotisations avaient fréquemment été établies selon la méthode de l'actif net, et que son entreprise de machines automatiques, telles des machines à boules et des machines à sous de types divers, fonctionnait en espèces et était donc difficile à vérifier. Le ministre n'avait donc d'autre choix que de procéder comme il l'a fait. Malgré la sympathie que je puis éprouver à l'endroit de quelqu'un comme l'appelante dont la responsabilité à l'égard de l'impôt de son père est subsidiaire, je ne vois rien qui puisse justifier le rajustement des cotisations établies à l'égard de ce dernier au-delà de ce que l'intimée a déjà consenti.
+Ces remarques s'appliquent également à M. Rassaf et à l'appelante.
+[17] Le représentant de l'appelante avait le fardeau de la preuve et il aurait dû être prêt à reconstruire l'intégralité de son revenu correspondant aux années en cause. Il ne peut pas rendre au vérificateur des centaines de reçus non documentés, de chèques, de relevés et d'autres documents tout en prétendant que son revenu sera déterminé d'après ses dépenses de gaz naturel. Pour avoir gain de cause, le représentant de l'appelante doit contester la méthode du vérificateur ligne par ligne, en fournissant des preuves claires et précises et non pas avec des simples déclarations d'ordre général. Il est vrai que les résultats sont déplorables, mais le représentant de l'appelante en est le seul responsable et ne peut en blâmer le vérificateur. Au sujet des hypothèses de fait 6 e), f), g), h) et i) proposées dans la réponse à l'avis d'appel, M. Rassaf a simplement déclaré qu'il s'agissait de mensonges. Ce n'est pas suffisant. De nouveau, le représentant de l'appelante avait le fardeau de démontrer ses affirmations.
+[18] Pour conclure, (i) l'appelante n'est pas admissible à des CTI autres que ceux qui ont déjà été acceptés par le ministre pour la période de cotisation, parce que l'appelante n'a pas fourni la documentation nécessaire pour démontrer son admissibilité à d'autres CTI aux termes du paragraphe 169(4) de la Loi et aux termes du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants; (ii) l'appelante n'a pas exercé le degré nécessaire de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables. L'appel est rejeté.
+Signé à Ottawa, Canada, ce 22 e jour de juin 2004.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 29e jour d'octobre 2004.
+Ingrid B. Miranda, traductrice
+[1]
+Paragraphe 286(1) de la Loi sur la taxe d'accise, dispositions sur la TPS.
+[2] C.C.I., no 97-266 (GST)I, le 14 mars 2001 ([2001] G.S.T.C. 39)
+[3] [2002] A.C.I. no 139
+[4] Dans l'appel dont je suis saisi, le ministre n'a pas présenté une annexe aussi détaillée que celle mentionnée par le juge Bowman.
+[5]
+C.C.I., no 91-547(IT)G, le 20 avril 1993 (93 DTC 791).

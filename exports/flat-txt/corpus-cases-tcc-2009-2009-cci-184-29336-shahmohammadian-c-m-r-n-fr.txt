@@ -1,0 +1,188 @@
+Title: Shahmohammadian c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29336/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-184-29336-shahmohammadian-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-02-09
+
+# Shahmohammadian c. M.R.N.
+
+- Citation: 2009 CCI 184
+- Decision date: 2009-02-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7045, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shahmohammadian c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-09
+Référence neutre
+2009 CCI 184
+Numéro de dossier
+2008-2993(CPP), 2008-2994(EI)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2009 CCI 184
+Dossiers : 2008-2993(CPP)
+2008-2994(EI)
+ENTRE :
+FARAHNAZ SHAHMOHAMMADIAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+CERTIFICATION DE LA TRANSCRIPTION DES
+MOTIFS DU JUGEMENT
+Je requiers que soit déposée la transcription certifiée ci‑jointe des motifs du jugement rendus oralement à l’audience à Toronto (Ontario), le 9 février 2009.
+« N. Weisman »
+Juge suppléant Weisman
+Signé à Toronto (Ontario), le 20e jour d’avril 2009.
+Traduction certifiée conforme
+ce 21e jour de juillet 2009.
+Christian Laroche, LL.B.
+Réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+COUR CANADIENNE DE L’IMPÔT
+Régime de pensions du Canada et Loi sur l’assurance‑emploi
+Dossiers : 2008-2993(CPP)
+2008-2994(EI)
+ENTRE :
+FARAHNAZ SHAHMOHAMMADIAN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+ATLAS TRAVEL & HOLIDAYS INC.,
+intervenante,
+MOTIFS DU JUGEMENT RENDUS ORALEMENT PAR LE JUGE WEISMAN
+aux bureaux du Service administratif des tribunaux judiciaires,
+Centre judiciaire fédéral, 180, rue Queen Ouest,
+Toronto (Ontario)
+le lundi 9 février 2009, à 16 h 12
+COMPARUTIONS :
+Pour l’appelante, Mme Farinaz Shahi
+(auparavant Farahnaz Shahmohammadian) L’appelante elle‑même
+Avocats de l’intimé : M. Ryan Clements (stagiaire)
+Me Lorraine Edinboro
+Le greffier audiencier : M. Michel Lortie
+Par : M. Robert Lee
+A.S.A.P. Reporting Services Inc. © 2009
+200 rue Elgin, bureau 1105 130, rue King Ouest, bureau 1800
+Ottawa (Ontario) K2P 1L5 Toronto (Ontario) M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto (Ontario)
+--- Les présents motifs ont été rendus oralement le
+lundi 9 février 2009, à 16 h 12.
+LE JUGE : Farinaz Shahi interjette appel de deux décisions du ministre du Revenu national intimé (le « ministre ») portant qu’elle était une entrepreneure indépendante aux termes d’un contrat d’entreprise pendant qu’elle travaillait comme agente de voyages auprès de l’intervenante, Atlas Travel & Holidays, du 1er janvier au 31 décembre 2007 (ci‑après « la période visée par l’appel »).
+L’agent des décisions avait initialement conclu qu’au cours de la période visée par l’appel, l’appelante était employée aux termes d’un contrat de louage de services, mais le ministre a changé d’idée à la suite d’un appel interjeté par Atlas Travel. L’appelante conteste maintenant cette conclusion antérieure; elle interjette appel devant la Cour, et Atlas comparaît à titre d’intervenante.
+Afin de décider si la travailleuse était employée aux termes d’un contrat de louage de services ou si elle était plutôt une entrepreneure indépendante travaillant à son compte au cours de la période visée par l’appel, il faut examiner la relation globale existant entre les parties, en utilisant le critère composé de quatre parties intégrantes établi par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Incorporated v. M.N.R.,(1986) 87 DTC 5025, à savoir le droit d’exercer un contrôle, la propriété des instruments de travail ainsi que les chances de bénéfice et les risques de perte auxquels fait face la travailleuse dans sa relation de travail avec l’intervenante.
+Quant au contrôle, la pièce R‑1, que le greffier a semble‑t‑il à sa disposition, est le recueil de documents de l’intimé. À l’onglet 4 figure l’un de deux contrats signés par les parties, et les deux contrats ont été signés le même jour, semble‑t‑il, soit le 7 mai 2006.
+La page 7, qui correspond à la page 48 du recueil de documents de l’intimé, comporte une liste des tâches de la responsable interne des ventes, poste que l’appelante occupait. Je ne lirai pas au complet la liste des nombreuses tâches, qui sont décrites à la page 48 et dans une bonne partie de la page 49; il suffit de mentionner ce qui suit :
+[traduction]
+« La conseillère [...] »
+— soit l’appelante, ou la responsable interne des ventes —
+« [...] doit [...] »,
+— ce qui est un terme impératif par opposition au mot « peut » qui est facultatif —
+« a) recruter de nouveaux clients; c) être au courant des normes et politiques écrites de l’agence; d)(i) transmettre toute somme d’argent directement à l’agence; d)(ii) quant au matériel de promotion, seule l’agence doit être désignée. »
+L’alinéa e) prévoit l’une des diverses indemnités à verser par le vendeur interne de l’intervenante; l’alinéa f) prévoit que le vendeur interne doit obtenir une autorisation préalable à l’égard de toute entente concernant un crédit pour être en mesure de finaliser pareille entente.
+L’alinéa g) prévoit que des rapports doivent être rédigés en temps opportun, ces rapports devant renfermer des détails au sujet des clients éventuels et des ventes effectuées ou prévues ainsi que des sociétés et particuliers auxquels des visites ont été effectuées.
+Selon l’alinéa h), le conseiller doit consulter toute personne désignée par l’intervenante en vue d’effectuer des prévisions et de vérifier les prévisions existantes, de déceler les problèmes exigeant un suivi et d’assurer le contrôle des nouveaux comptes. Selon l’alinéa i), il est interdit aux conseillers de s’occuper des comptes de l’agence ou des comptes hors commission, existants ou faisant l’objet de négociations. De plus, il est interdit aux conseillers de lier l’agence, lorsqu’ils engagent des dépenses, et de conclure des contrats sans que l’agence y consente, à défaut de quoi les conseillers doivent verser une indemnité.
+L’alinéa f) prévoit une autre indemnité : le conseiller doit indemniser l’agence si un tribunal judiciaire tel que la présente cour conclut que le responsable interne des ventes est un employé, et ce, malgré toute entente contraire.
+À la page 78 figure une disposition selon laquelle c’est l’intervenante qui supporte le coût des cartes d’affaires de l’appelante. Je dirai ici qu’à mon avis, cette disposition particulière n’a aucune valeur probante parce que, selon certaines décisions, et je crois qu’il s’agit de la décision Wolf, les tribunaux n’accordent presque aucune importance à la question de savoir qui supporte le coût des cartes d’affaires ou d’autres articles du même genre.
+Il y a également une disposition portant sur les frais d’annulation des réservations d’hôtel. En cas de perte, l’erreur était imputable au conseiller, qui était responsable du paiement et qui devait dédommager l’intervenante en conséquence. La preuve soumise par l’appelante montre qu’elle avait le choix; elle pouvait accepter ce genre de disposition restrictive ou démissionner. En fait, l’appelante a témoigné qu’après maintes contestations, elle a été renvoyée.
+Je conclus, en me fondant sur la preuve, que l’intervenante exerçait énormément de contrôle sur l’appelante aux termes de cette entente. Mon impression, quant au contrôle, est renforcée si je tiens en outre compte du témoignage de l’appelante, que l’intervenante n’a pas réellement contesté dans l’ensemble, à savoir que l’appelante devait respecter l’horaire de travail, qu’elle avait en sa possession une clé permettant d’accéder aux locaux de l’entreprise, qu’elle connaissait le code de sécurité, ce qui est inhabituel dans le cas d’un entrepreneur indépendant et qu’elle était chargée d’ouvrir les locaux lorsqu’elle effectuait le premier poste et de les fermer lorsqu’elle effectuait le dernier poste.
+En ce qui concerne la preuve que l’appelante a présentée, je crois qu’elle a expressément démoli l’hypothèse énoncée à l’alinéa 9k) en particulier; selon cette hypothèse, l’appelante pouvait demander des frais plus élevés, ou elle pouvait accorder une réduction de prix. Or, la preuve n’était pas conforme à cette hypothèse. La preuve que je retiens est que l’appelante pouvait sans aucun doute exiger des frais plus élevés, mais que lorsqu’il s’agissait d’offrir des réductions, elle devait au préalable obtenir l’autorisation de l’intervenante. Lorsque j’ai interrogé l’intervenante sur ce point, sa réponse était loin d’être claire pour ce qui est du montant que la préposée aux ventes rémunérée à la commission ne pouvait pas dépasser. Quoi qu’il en soit, on a réussi à me convaincre que la preuve démolissait cette hypothèse; il existait pour ainsi dire une certaine liberté unilatérale.
+Et ce qui est intéressant au point de vue juridique, c’est que même dans le cas d’entrepreneurs indépendants, la loi permet un certain degré de contrôle; en effet, quelqu’un n’est pas libre de faire à sa guise du simple fait qu’il agit à titre d’entrepreneur indépendant. Celui qui embauche cette personne a le droit de contrôler la qualité du travail ou de s’assurer que celle‑ci se conforme de fait aux dispositions de l’entente.
+Cela nous amène à une série de décisions qui disent à peu près ce qui suit. Tout d’abord, selon l’arrêt Charbonneau c. M.R.N., [1996] A.C.F. no 1337, de la Cour d’appel fédérale, il ne faut pas confondre le contrôle exercé sur le travailleur et le contrôle du résultat.
+La question qu’une personne qui est placée dans la même situation que moi doit avoir à l’esprit est que, même s’il y a des règles, il faut se demander si ces règles sont nécessaires aux fins de l’exploitation ordonnée de l’entreprise ou si elles dépassent les limites, de sorte qu’un contrôle est exercé. Telle est de fait la principale question qui a été soulevée dans la preuve, pour ce qui est du contrôle.
+Comme je l’ai dit, il y a une série de décisions. Au départ, il y a l’arrêt Charbonneau, mais il y a ensuite City Water c. M.R.N., 2006 CAF 350, de la Cour d’appel fédérale, qui se fonde sur Livreur Plus Inc. c. M.R.N., [2004] A.C.F. no 267. Au paragraphe 19 de Livreur Plus Inc., il est dit ce qui suit :
+[...] il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l’ouvrier chargé de les réaliser [...]
+Selon moi, il est certes raisonnable d’établir un horaire de travail, et ce, tant pour les employés que pour les entrepreneurs indépendants, parce que les vendeurs doivent être présents pendant les heures d’ouverture. Certaines personnes devront effectuer le premier poste, et ce, qu’elles le veuillent ou non, alors que d’autres effectueront le dernier poste.
+L’article 2099 du Code civil du Québec est libellé en des termes légèrement différents. Il prévoit que l’essence, l’attribut essentiel, d’un employé est qu’il existe un lien de subordination avec l’employeur. J’ai toujours cru qu’il s’agissait d’un complément utile aux principes de common law, lorsqu’il s’agit de décider si quelqu’un est un employé ou s’il est plutôt un entrepreneur indépendant.
+Quant à la question de savoir s’il existait un lien de subordination dans ce cas‑ci, je dois dire que c’est l’arrêt Charbonneau, dont j’ai déjà fait mention, qui initialement a attiré mon attention. J’ai décidé qu’en effet, il existait ici un lien de subordination entre l’appelante et l’intervenante, et ce, principalement, parce qu’elle travaillait dans les bureaux, dans les locaux commerciaux de l’intervenante. L’appelante n’avait pas la faculté d’aller et de venir à sa guise. Elle assumait de nombreuses responsabilités en vertu de son contrat. Elle devait ouvrir les bureaux lorsqu’elle effectuait le premier poste et elle devait les fermer lorsqu’elle effectuait le dernier poste. J’ai déjà dit que cela semble raisonnable, pour assurer l’exploitation ordonnée d’une entreprise qui doit répondre aux besoins des clients, qu’ils se présentent tôt le matin ou tard le soir, mais cela indique néanmoins un certain manque d’indépendance de la part de l’appelante. Il y avait un certain degré de subordination, et je conclus donc que le facteur « contrôle », eu égard à ces faits, tend à indiquer que l’appelante était employée aux termes d’un contrat de louage de services.
+Le deuxième critère ou la deuxième ligne directrice se rapporte à la propriété des instruments de travail. Étant donné que l’appelante était vendeuse interne, c’était l’intervenante qui fournissait l’espace et les instruments de travail ainsi qu’un bureau et des téléphones, un ordinateur doté de logiciels et le logiciel spécialisé permettant d’émettre les billets dont l’appelante avait besoin dans son travail. Selon certains éléments de preuve, l’appelante apportait ses propres écouteurs, les écouteurs pour son téléphone cellulaire, ainsi que son carnet de téléphone. Cependant, il ne fait aucun doute que dans l’ensemble, les instruments de travail nécessaires étaient fournis par l’intervenante.
+Lorsque je dis que les instruments de travail étaient fournis, je dois ajouter qu’ils l’étaient moyennant une retenue de 50 p. 100 sur les commissions touchées par l’appelante; en d’autres termes, l’appelante payait tous ces outils. On ne saurait absolument pas dire que les instruments de travail lui étaient fournis par l’intervenante, ce qui indiquerait que l’appelante était une employée; il est tout à fait clair qu’étant donné que l’appelante payait une bonne partie des divers services, et notamment les instruments de travail, en versant 50 p. 100 de ses commissions, le facteur « instruments de travail » indique qu’elle était une entrepreneure indépendante; somme toute, les employés n’ont pas à payer leurs bureaux et les fournitures.
+Cela m’amène aux chances de bénéfice. Étant donné que l’appelante était rémunérée à la commission à titre de vendeuse, il est clair que plus elle concluait de ventes, plus elle gagnait d’argent. L’appelante pouvait augmenter sa rémunération au moyen d’une gestion saine, en se taillant une bonne réputation, en ayant recours à son expertise. Du fait qu’elle connaissait le turc et le farsi, l’appelante pouvait accroître sa clientèle. L’appelante pouvait faire de la publicité, et elle faisait de la publicité, et elle utilisait son téléphone cellulaire même si elle avait accès au téléphone de l’entreprise, ce qui m’amène à conclure qu’elle l’utilisait pendant la fin de semaine afin de communiquer avec ses clients. Tout cela indique que l’appelante était en mesure de tirer profit d’une saine gestion, et de tirer profit au sens commercial du terme, en ce sens qu’elle pouvait, grâce à ses efforts et à une gestion saine, faire en sorte que son revenu d’entreprise soit supérieur à ses dépenses d’entreprise.
+De fait, M. Behman Mehdizadeh nous a appris, plutôt tardivement, qu’il était loisible à l’appelante de conclure des ventes en gros parce que cela n’allait pas à l’encontre des intérêts de l’intervenante, qui s’occupait uniquement de ventes au détail. Par conséquent, l’appelante pouvait vendre en gros des réservations d’hôtels ou des locations de voitures à d’autres agents, ce qui augmentait ses chances de bénéfice. Le facteur « chances de bénéfice » indique que l’appelante était une entrepreneure indépendante.
+Les risques de perte : J’ai déjà dit que, compte tenu du droit applicable, le payeur doit veiller à ne pas exercer un contrôle trop strict, au risque de dépasser les limites et d’amener un juge des faits à conclure à l’existence d’un lien de subordination plutôt que d’indépendance. De même, l’entente écrite conclue entre les parties prévoit de nombreux paiements que l’appelante devait effectuer en faveur de l’intervenante, et notamment, bien sûr, un montant représentant 50 p. 100 de ses commissions, et ce, peu importe qu’elle ait recouvré le montant en cause du client; cette disposition figure au paragraphe 5.9.
+À mon avis, cette clause est plutôt restrictive et onéreuse, mais je ne m’arrêterai pas à la question à ce stade. Je cherche plutôt à savoir s’il y a risque de perte; l’appelante supporte, par contrat, le fardeau des créances irrécouvrables, ce qui est inhabituel pour une employée.
+Dans ses observations, l’appelante a essayé d’établir que, contrairement à l’hypothèse émise par le ministre sur ce point, elle n’avait pas le droit de refuser de servir un client particulier et de le confier à un autre vendeur. Selon le droit applicable, les hypothèses émises par le ministre sont réputées exactes à moins d’être démolies par la preuve soumise par l’appelante; or, au cours de l’audience, aucune preuve n’a été soumise en vue de démolir cette hypothèse. Je conclus donc que l’hypothèse était exacte.
+La chose comporte des conséquences, parce que ce droit de refus est expressément mentionné dans des décisions comme Precision Gutters, paragraphe 27, où la Cour dit ce qui suit :
+Selon moi, la capacité de négocier les modalités d’un contrat suppose une chance de bénéfice et un risque de perte de la même manière que permettre à une personne d’accepter ou de refuser du travail suppose une chance de bénéfice et un risque de perte. [...]
+Il se peut que je fasse une digression parce que mes notes indiquent qu’au tout début de son témoignage, l’appelante a déclaré s’être rendue à l’agence et avoir négocié le contrat qu’elle a finalement signé. Elle affirme d’une part que le contrat a été négocié, mais elle dit d’autre part : [traduction] « J’avais le choix d’accepter ou de m’adresser ailleurs. » Cependant, cet aveu, à savoir que le contrat a été négocié, est sur tous les points conforme à ce qui est dit au paragraphe 27 de Precision Gutters; lorsqu’une personne négocie un contrat, cela indique une certaine indépendance, mais cela donne également lieu à des chances de bénéfice et à des risques de perte. Je crois que l’hypothèse énoncée à l’alinéa 9v) n’a pas été démolie.
+De même, selon l’hypothèse énoncée à l’alinéa 9w), l’appelante avait engagé des dépenses; or, aucun élément de preuve n’a été soumis en vue de démolir cette hypothèse. L’hypothèse énoncée à l’alinéa 9y) est maintenue, à savoir que l’appelante devait corriger toute erreur qu’elle avait commise en dehors des heures de travail et à ses frais, c’est‑à‑dire qu’il y avait encore une fois risque de perte, comme c’était le cas pour l’hypothèse énoncée à l’alinéa 9aa) en ce qui concerne les chèques retournés pour insuffisance de fonds. L’appelante assumait ce risque, ce qui m’amène à l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. no 61, dans lequel le juge Major a dit ce qui suit :
+En ce qui concerne le risque de perte ou la possibilité de profit, M. Landow et AIM [soit les parties dans l’affaire Sagaz] touchaient une commission sur les ventes des produits de Sagaz. Par conséquent, AIM pourrait subir une perte ou réaliser un profit selon que le montant de ses dépenses (tels les frais de déplacement) serait supérieur ou inférieur à celui des commissions qu’elle toucherait.
+La Cour suprême du Canada parle expressément des vendeurs rémunérés à la commission, comme l’appelante l’était. Cet examen des diverses obligations possibles et des dépenses réelles et du risque de perte que l’appelante courait à titre de vendeuse à commission indique dans tous les cas l’existence de risques élevés de perte, ce qui tend à montrer que l’appelante était une entrepreneure indépendante.
+Le dernier facteur que je dois examiner se rapporte à la relation globale que les parties entretenaient entre elles. Cependant, je tiens auparavant à mentionner quelque chose au sujet de la crédibilité. L’appelante a consacré énormément de temps, comme elle en avait le droit, à contre‑interroger le témoin de l’intervenante. Selon moi, les questions visaient en général à attaquer la crédibilité du témoin. Toutefois, les points qui ont été soulevés, au lieu d’avoir une importance cruciale pour ce qui est du critère composé de quatre parties intégrantes énoncé dans Wiebe Door, me semblaient être davantage de nature émotive, des points qui inquiétaient l’appelante, comme la question de savoir si les frais exigés pour le bureau étaient expressément prévus dans l’entente à titre de dépense assumée par l’appelante, ou s’ils étaient plutôt censés faire partie de la retenue de 50 p. 100 effectuée sur ses commissions, si l’appelante utilisait son téléphone cellulaire pendant la fin de semaine, ou si l’intervenante avait assuré la formation de l’appelante en ce qui concerne l’émission de billets, si l’appelante avait pris des vacances quatre mois après avoir commencé à travailler, ou sept mois après, des questions sur le nombre de bureaux qu’il y avait et si une agence indépendante utilisait ces bureaux.
+J’ai conclu d’une façon générale que ce genre de contre‑interrogatoire a eu l’effet contraire à celui que l’appelante cherchait à obtenir, parce que Mme Mohajer, l’un des deux témoins de l’intervenante, avait en fin de compte une bonne connaissance des faits et se rappelait très bien les événements. Elle a présenté un témoignage honnête. Dans l’ensemble, la série de questions avait tendance à accroître sa crédibilité plutôt qu’à l’amoindrir.
+Je me pencherai maintenant sur la dernière considération pertinente, ce qu’en réalité, l’examen du contrôle, de la propriété des instruments de travail, des chances de bénéfice et des risques de perte vise à découvrir, à savoir la relation globale entre les parties.
+J’aimerais en premier lieu mentionner qu’au départ, l’appelante avait clairement produit sa déclaration de revenus à titre d’entrepreneure indépendante, et qu’elle avait déduit des dépenses d’entreprise. Elle a déduit en tout 8 781,50 $ de son revenu d’entreprise; 368 $ pour la publicité; 2 453,50 $ pour les frais de repas et de représentation; 127 $ pour les frais de bureau; 159 $ pour les fournitures; 2 193 $ pour les frais afférents à la voiture; 772 $ pour les frais de téléphone; 2 709 $ pour d’autres dépenses, soit 1 989 $ pour des vêtements et 608 $ pour d’autres dépenses, 112 $ pour un ordinateur et enfin, 1 464,70 $ pour les dépenses à domicile.
+Il faut mentionner deux choses à ce sujet. En premier lieu, le fait, d’une part, de produire des déclarations de revenus à titre d’entrepreneure indépendante et de chercher à déduire les montants qui peuvent être déduits en vertu de la Loi de l’impôt sur le revenu, et ensuite, d’autre part, lorsque l’appelante veut recevoir des prestations de maternité, le fait de devenir une employée et de demander ces prestations, est loin d’accroître la crédibilité de l’appelante.
+Cependant, il est encore plus important de noter que, selon la jurisprudence, lorsque quelqu’un produit ses déclarations de revenus à titre d’entrepreneur indépendant, à titre de personne travaillant à son compte, cela indique son intention d’agir à titre d’entrepreneur indépendant, en ce qui concerne la relation de travail existant avec le payeur.
+Je citerai le paragraphe 75 de Combined Insurance Co. of America c. M.R.N., [2007] A.C.F no 124 :
+75 [...] le fait que pour son année d’imposition 2003 l’intimée se soit considérée comme travailleur autonome et qu’elle ait dès lors déduit de son revenu les dépenses qu’elle avait encourues est indicatif, à mon avis, de sa compréhension des contrats qu’elle avait conclus avec l’appelante.
+Un autre facteur, dans la relation globale, est que, selon la preuve, l’appelante avait ses propres clients, qui l’avaient suivie chez l’intervenante lorsqu’elle avait changé d’occupation. Cela est important parce que, en d’autres termes, ses clients lui étaient fidèles, il y avait un achalandage au sens comptable du terme, et l’appelante avait la possibilité d’accroître sa clientèle grâce à une saine gestion.
+Je remarque également qu’au tout début, il était évident qu’elle éprouvait un certain — et je parle ici de l’appelante, qu’elle éprouvait un certain ressentiment du fait qu’elle devait ouvrir les locaux à 9 h lorsqu’elle effectuait le premier poste, et qu’elle devait les fermer — pardon, qu’elle devait les ouvrir à 8 h lorsqu’elle effectuait le premier poste, et qu’elle devait les fermer à 20 h lorsqu’elle effectuait le dernier poste, alors qu’à son avis, cela relevait davantage des tâches de Mme Mohajer, qui pouvait à sa guise ne pas se lever tôt le matin ou ne pas rester tard le soir afin d’accomplir ces tâches.
+L’autre élément de preuve intéressant se rapportait au mystère qui entourait les deux contrats, tous deux signés par les deux parties, tous deux datés du même jour, un contrat comportant une clause fort importante, garantissant à l’appelante un salaire mensuel de mille dollars, alors que l’autre ne renfermait pas de clause de ce genre.
+Cependant, j’ai décidé de ne pas accorder de poids à cette incohérence parce que, comme on l’a signalé dans les témoignages, les commissions de l’appelante étaient suffisantes, au cours des deux années où elle a travaillé auprès de l’intervenante, pour l’empêcher de se plaindre ou de faire des problèmes ou encore de s’adresser à un tribunal au sujet de ces prétendus mille dollars manquants. J’ai conclu que l’appelante avait abandonné ce point.
+En toute justice, la preuve révélait bien, quant à la relation existant entre les parties, deux faits qui n’étaient pas compatibles avec la qualité d’entrepreneur indépendant. Il y avait en premier lieu la lettre datée du 20 décembre 2007 de l’intervenante, Atlas, dans laquelle un montant de 1 050 $ était remis à l’appelante, représentant deux semaines de paie tenant lieu de préavis. De toute évidence, les entrepreneurs indépendants ne touchent pas d’indemnité tenant lieu de préavis.
+Mme Mohajer a en partie expliqué la chose dans son témoignage; elle a déclaré qu’il y avait alors beaucoup de remue‑ménage, qu’elle était fatiguée et qu’elle voulait montrer sa bonne volonté; cela se passait deux semaines avant Noël et elle ne voulait pas que l’appelante passe les fêtes sans argent. Il reste néanmoins que cela n’avance pas la position de l’intervenante. De fait, elle a reconnu à la barre des témoins avoir commis une erreur.
+Il y a en second lieu le texte du contrat, au sujet duquel j’ai interrogé l’intervenante; il s’agit de la clause 5.1, à l’onglet 4 de la pièce 1. Il est question de ce à quoi se rapportent les 50 p. 100. La pièce 1 indique qu’il s’agit de [traduction] « commissions touchées retenues à la source ». Ces mots m’ont intrigué dès le début parce que l’intervenante a pris la position selon laquelle elle avait convenu au départ qu’aucune retenue à la source ne serait effectuée. Le témoin de l’intervenante a expliqué que l’expression « retenues à la source » ne voulait pas dire cela; que, dans le secteur du transport aérien, les retenues à la source n’ont pas le même sens qu’en droit fiscal. Généralement, selon l’interprétation donnée par la présente cour, les retenues à la source se rapportent à l’impôt sur le revenu ainsi qu’aux cotisations au Régime de pensions du Canada et à l’assurance‑emploi, mais dans le secteur du transport aérien, il s’agit des commissions sur les ventes brutes, moins des retenues à la source de 50 p. 100 pour les bureaux et ainsi de suite; je suis porté à conclure à la crédibilité de cette explication.
+Comme je l’ai dit, à première vue, cela ne semblait pas compatible avec la qualité d’entrepreneur indépendant, mais l’explication que l’intervenante a donnée m’a satisfait.
+Par conséquent, le facteur « contrôle » tend à mon avis à indiquer que l’appelante était une employée; les facteurs se rattachant aux instruments de travail, aux chances de bénéfice et aux risques de perte indiquent que l’appelante était une entrepreneure indépendante. Trois facteurs sur quatre indiquent qu’elle était une entrepreneure indépendante. Comme dans la décision que j’ai rendue dans 126873 Ontario Ltd. (s/n Autopark Superstore) c. M.R.N., [2007] CCI 442, je crois que les facteurs les plus importants, parmi tous ceux qui sont mentionnés dans Wiebe Door, sont les chances de bénéfice et les risques de perte; ces facteurs sont si clairs, dans ce cas‑ci, où une vendeuse à la commission est en cause, qu’il faut leur accorder plus de poids qu’au facteur « contrôle ».
+Comme nous le savons, il incombe en l’espèce à l’appelante de démolir les hypothèses que le ministre a énoncées dans la réponse à l’avis d’appel. J’ai conclu qu’une seule hypothèse avait été démolie au moyen de la preuve, celle qui est énoncée à l’alinéa 9k), à savoir si l’appelante pouvait accorder des réductions sans obtenir au préalable l’autorisation du payeur; les autres hypothèses sont suffisantes pour étayer les décisions du ministre.
+Cette conclusion est nécessaire, comme l’a dit la Cour d’appel fédérale dans Jencan Ltd. Je n’ai pas ici ce renvoi. Cependant, si quelqu’un en a réellement besoin, je puis le lui fournir. En effet, je ne l’ai pas.
+J’ai examiné tous les faits avec les parties et avec les témoins cités par l’appelante, qui témoignaient pour la première fois sous serment, ainsi qu’avec les témoins cités par l’intervenante, et je n’ai pu constater aucun nouveau fait ni rien qui indique que les faits dont le ministre a supposé l’existence ou sur lesquels le ministre s’est fondé n’étaient pas exacts ou qu’ils avaient été appréciés ou interprétés d’une façon erronée.
+Je conclus que l’appelante travaillait à son compte en tant qu’agente interne de voyages rémunérée à la commission. Les conclusions du ministre sont donc objectivement raisonnables.
+Par conséquent, je dois rejeter les deux appels et confirmer les décisions du ministre.
+J’aimerais faire une dernière remarque au sujet de M. Clements, dont le comportement et la prestance devant la Cour étaient dignes d’une personne qui est membre du barreau depuis beaucoup plus longtemps. Je l’ai écouté avec grand plaisir. Je tiens à le féliciter.
+Les séances de la Cour sont suspendues jusqu’à mercredi matin, à 9 h 30.
+LE GREFFIER AUDIENCIER : La séance est maintenant levée pour la journée et la Cour reprendra ses séances mercredi, à 9 h 30.
+--- L’audience a pris fin à 17 h 03.
+Traduction certifiée conforme
+ce 21e jour de juillet 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE :
+2009 CCI 184
+Nos DES DOSSIERS
+DE LA COUR :
+2008-2993(CPP)
+2008-2994(EI)
+INTITULÉ :
+Farahnaz Shahmohammadian
+c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 9 février 2008
+MOTIFS DU JUGEMENT :
+L’honorable N. Weisman
+DATE DU JUGEMENT ORAL :
+Le 9 février 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocats de l’intimé :
+Représentante de l’intervenante :
+Me Lorraine A. Edinboro
+M. Ryan Clements (stagiaire)
+Mme Azita Azin Mohajer
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

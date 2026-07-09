@@ -1,0 +1,118 @@
+Title: Matthews v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29231/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-270-29231-matthews-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-05-22
+
+# Matthews v. The Queen
+
+- Citation: 2009 TCC 270
+- Decision date: 2009-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7032, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Matthews v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-22
+Neutral citation
+2009 TCC 270
+File numbers
+2008-3229(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3229(IT)I
+BETWEEN:
+CRYSTAL L. MATTHEWS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 5, 2009, at Sydney, Nova Scotia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Mark Zinck
+Counsel for the Respondent:
+Devon E. Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal from the redetermination made under the Income Tax Act for the period from January 20, 2006 to June 26, 2007 is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of May 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC270
+Date: 20090522
+Docket: 2008-3229(IT)I
+BETWEEN:
+CRYSTAL L. MATTHEWS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The issue in this appeal was: On what date did the Appellant cease to be the “eligible individual” to receive the Canada Child Tax Benefit (CCTB) in respect of her son, David?
+[2] The Minister of National Revenue (“the Minister”) informed the Appellant by Notice of Redetermination, dated August 20, 2007 that she was not the eligible individual in respect of David for the period January 20, 2006 to June 26, 2007. The Appellant was assessed an amount of $4,124.66 for the recovery of overpayments of the CCTB.
+[3] The witnesses at the hearing were the Appellant, Melvin Gerrow and Audrey Spooney.
+[4] In the Notice of Appeal, the Appellant stated that her son, David lived with her at all times up until July 2005. I note that David was fifteen at that time as he was born on May 11, 1990.
+[5] At the hearing, the Appellant explained that she had to call Children’s Aid Society to remove David from the home as he was physically abusive to her and his siblings. She was not sure of the date that she called the Children’s Aid Society. She stated that David later returned home. The Appellant was very confused about the relevant dates. At one point she stated that her son started to live with Spooney in August 2005 and then she stated that he started to live with Spooney sometime in 2006 but she didn’t recall the month.
+[6] It was the Appellant’s evidence that she gave Spooney the CCTB payments each month and she received a receipt from Spooney. She also stated that David did not reside full time with Spooney as he was back and forth between her home and Spooney’s home. She stopped giving the CCTB payments to Spooney in May 2007.
+[7] Melvin Gerrow is David’s father and the Appellant’s common law spouse. He testified that David was back and forth between the two homes. He reviewed the receipts which Spooney had signed when she received the money from the Appellant, and he concluded that David did not begin to live with Spooney until April 2006.
+[8] It was Spooney’s evidence that David was her son’s friend. When she learned that David did not have a place to live, she agreed that he could live with her family. She provided him with his own room, with food, clothing and spending money. I infer from her evidence that she treated David as her son. She agreed that the Appellant did give her some of the CCTB payments. She testified that she received no money from the Appellant for January, February, July 2006 and April, May and June 2007. She stated that David resided with her from January 2006 until a week prior to this hearing.
+[9] In cross-examination, Spooney stated that she called the Canada Revenue Agency (“CRA”) in June 2007. She told CRA that the Appellant had given her certain CCTB payments. However, they also gave her the CCTB payments for January 2006 until June 2007.
+[10] The relevant excerpt from section 122.6 is as follows:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act ,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act , who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act ,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[11] One of the exhibits filed by the Appellant was an Affidavit of Ryan Ellis, a Social Worker with The Children’s Aid Society of Cape Breton-Victoria (“the Society”). The affidavit was prepared for a court hearing which took place on December 29, 2005 in The Supreme Court of Nova Scotia (Family Division). A review of this document confirmed that on February 25, 2005, the Appellant and Melvin Gerrow requested support services on how to handle their son David. On December 21, 2005, David was taken into care by the Society.
+[12] The Appellant also tendered as an exhibit, the receipts that Spooney signed in exchange for the CCTB payments. There were eleven receipts; some of them had only partial dates on them. The earliest receipt was dated April 20, 2006.
+[13] The onus was on the Appellant to prove that the Minister’s assessment was incorrect. This she has not done. The evidence she placed before me established that she ceased to be the eligible individual to receive the CCTB for David in January 2006. I have especially relied on the affidavit of Ryan Ellis. I also accept Spooney’s evidence that David started to reside with her in January 2006.
+[14] The fact that David may have been back and forth between the Appellant’s home and Spooney’s home does not mean that he no longer resided with Spooney. I agree with Justice Bonner’s comments in S.R. v. The Queen[1] where he stated:
+12] The word "reside" with as used in the section 122.6 definition of the term "eligible individual" must be construed in a manner which reflects the purpose of the legislation. That legislation was intended to implement the child tax benefit. That benefit was introduced in 1993 with a view to providing a single nontaxable monthly payment to the custodial parent of a child That payment was intended to benefit the child by providing funds to the parent who primarily fulfilled the responsibility for the care and upbringing of the child The threshold test is whether the child resides with the parent. Physical presence of the child as a visitor in the residence of a parent does not satisfy the statutory requirement. The word "resident" as used in s. 122.6 connotes a settled and usual abode. …
+[15] I have sympathy for the Appellant as she and Melvin Gerrow barely have the means to support their five children and now she must repay the amount of $4,124.66. However, as I explained to her counsel at the hearing, this court does not have the jurisdiction to grant an equitable remedy.
+[16] The appeal is dismissed.
+Signed at Ottawa, Canada, this 22nd day of May 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC270
+COURT FILE NO.: 2008-3229(IT)I
+STYLE OF CAUSE: CRYSTAL L. MATTHEWS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sydney, Nova Scotia
+DATE OF HEARING: May 5, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: May 22, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Mark Zinck
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Mark Zinck
+Firm: Sheldon Nathanson
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2003 TCC 649 at paragraph 12

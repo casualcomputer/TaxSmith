@@ -1,0 +1,322 @@
+Title: Zupet c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521138/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-111-521138-zupet-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-08-01
+
+# Zupet c. Le Roi
+
+- Citation: 2023 CCI 111
+- Decision date: 2023-08-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5852, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zupet c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-08-01
+Référence neutre
+2023 CCI 111
+Numéro de dossier
+2021-1503(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-1503(IT)I
+ENTRE :
+ZDRAVKO ZUPET,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 12 et 13 septembre 2022, à Kelowna,
+Colombie-Britannique
+Devant : l’honorable juge Susan Wong
+Comparutions :
+Avocat de l’appelant :
+Me Robert Neilson
+Michael I. Stuart (stagiaire en droit)
+Avocat de l’intimé :
+Me Randall Lau
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2014, 2016 et 2017 est accueilli sans frais, et l’affaire est renvoyée au ministre du Revenu national pour qu’il procède à un réexamen et établisse une nouvelle cotisation, pour les motifs suivants :
+l’appelant a exploité un commerce de vente en gros de voitures de luxe en 2016 et 2017;
+en ce qui concerne l’année d’imposition 2016, l’appelant a le droit de déduire des dépenses d’entreprise pour un montant de 3 782,34 $;
+en ce qui concerne l’année d’imposition 2017, l’appelant a le droit de déduire des dépenses d’entreprise pour un montant de 5 425,52 $;
+dans la mesure où les dépenses autorisées entraînent une perte d’entreprise, l’appelant a le droit de reporter la perte autre qu’en capital qui en résulte à l’année d’imposition 2014.
+Signé à Ottawa, Canada, ce 1er jour d’août 2023.
+« Susan Wong »
+La juge Wong
+Référence : 2023 CCI 111
+Date : Le 1er août 2023
+Dossier : 2021-1503(IT)I
+ENTRE :
+ZDRAVKO ZUPET,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+I. Introduction/aperçu
+[1] Après avoir pris sa retraite en tant que charpentier, l’appelant a cherché des moyens de faire de sa passion pour les voitures de luxe une activité lucrative. Bien qu’il n’avait aucune expérience dans ce domaine, il a décidé de lancer un commerce de vente en gros de voitures de luxe, activité par laquelle il prévoyait d’acheter des véhicules de luxe d’occasion au Canada, de les revendre aux États-Unis et de réaliser un bénéfice grâce au taux de change.
+[2] Le ministre du Revenu national n’a pas reconnu que l’appelant avait une activité commerciale et a donc refusé la déduction de ses dépenses d’entreprise.
+[3] L’appelant s’est représenté lui-même lors de l’audience et a retenu les services d’un avocat pour présenter des observations écrites sur la décision de la Cour d’appel fédérale rendue dans l’affaire Paletta[1].
+II. Question à trancher
+[4] Les questions sont les suivantes :
+a)Est-ce que l’appelant a exploité une entreprise de vente en gros de voitures de luxe d’occasion à des concessionnaires au cours des années d’imposition 2016 et 2017?
+b)Dans l’affirmative, est-ce que l’appelant a le droit de déduire les dépenses d’entreprise réclamées pour ces années d’imposition?
+c)Est-ce que l’appelant a le droit de reporter les pertes autres qu’en capital connexes (découlant de l’activité en question) à l’année d’imposition 2014?
+III. Faits
+[5] L’appelant a suivi un programme d’administration et de marketing au NAIT (Northern Alberta Institute of Technology) en 1974[2] et est devenu vendeur immobilier vers mars 1975[3]. Il a déclaré qu’en plus de faire de la vente de biens immobiliers, il exploitait un certain nombre d’entreprises différentes, dont l’une se spécialisait dans les services de briquetage et l’autre dans la construction d’habitations. Il a déclaré avoir commencé à travailler comme charpentier syndiqué en 2002, avoir pris sa retraite le 1er janvier 2016 à l’âge de 60 ans et avoir commencé à percevoir sa pleine pension[4].
+[6] Il a expliqué qu’à l’époque où il a pris sa retraite de la charpenterie, son travail affectait son bien-être et que Mme Zupet et lui-même ont commencé à chercher d’autres possibilités de travail pour lui. Mme Zupet était comptable agréée indépendante et a pris sa retraite en mai 2017, à l’âge de 62 ans.
+[7] Mme Zupet a déclaré qu’en discutant de la manière dont ils pourraient continuer à financer leur train de vie, ils ont décidé de créer une entreprise d’import-export à l’échelle internationale. Le travail du cousin de l’appelant, John, était d’acheter et de vendre des voitures. Après en avoir discuté avec lui, l’appelant et Mme Zupet ont décidé que leur activité globale d’import-export commencerait par les voitures, c’est-à-dire qu’ils achèteraient des voitures au Canada et les vendraient aux États-Unis. Ils pensaient qu’ils dégageraient un profit grâce au taux de change favorable entre le Canada et les États-Unis; en d’autres termes, un véhicule acheté au Canada pourrait être vendu au même prix aux États-Unis, mais en dollars américains, ce qui leur permettrait de réaliser un profit.
+[8] L’Alberta Motor Vehicle Industry Council (AMVIC) réglemente l’industrie automobile en Alberta. L’appelant et Mme Zupet ont déclaré que pour pouvoir acheter ou vendre des véhicules, l’appelant devait s’inscrire auprès de l’AMVIC en tant que vendeur automobile agréé. Pour devenir un vendeur automobile agréé, il a dû suivre la formation obligatoire donnée par l’AMVIC et être parrainé par une entreprise automobile agréée. Mme Zupet a déclaré qu’ils avaient obtenu une trousse de plan d’affaires auprès de l’AMVIC et qu’ils avaient rempli la liste de contrôle pour demander une licence d’entreprise automobile pour l’entreprise individuelle de l’appelant (Zed Exports).
+[9] La trousse de plan d’affaires de l’AMVIC[5] contient un barème des frais et une liste de contrôle des exigences à satisfaire, telles qu’un plan d’affaires, une vérification du casier judiciaire, un profil d’entreprise montrant les activités antérieures du demandeur et des renseignements sur l’institution financière choisie. L’appelant et Mme Zupet ont présenté un plan d’affaires[6] pour l’entreprise individuelle, dans lequel il était notamment indiqué :
+a)qu’il s’agissait d’une entreprise de vente d’automobiles en gros qui ne vendrait pas de véhicules au public;
+b)que son propriétaire (l’appelant) n’avait aucune expérience dans le secteur automobile, mais qu’il avait acheté et loué de nombreux véhicules au fil des ans, et qu’il était donc bien informé des caractéristiques des véhicules les plus recherchés pour l’achat et la vente;
+c)que l’entreprise de l’appelant était située dans une habitation privée, sise sur un terrain de 2,59 acres (un peu plus d’un hectare);
+d)que les véhicules qu’il visait pour l’acquisition étaient des véhicules de luxe populaires âgés de quatre ans au maximum, n’affichant pas plus de 40 000 km au compteur, et probablement de marque Audi, BMW, Lexus ou Mercedes;
+e)que les véhicules sont généralement achetés en gros lors de ventes aux enchères en direct ou en ligne;
+f)qu’il n’y avait pas de stock de départ et qu’il était prévu que les activités démarrent avec un seul véhicule, avec une vente par mois;
+g)qu’il n’y avait pas de budget publicitaire;
+h)que la stratégie de marketing consistait à contacter les concessionnaires ou les vendeurs d’enchères nord-américains existants avant d’acheter des véhicules albertains, afin de s’assurer qu’il y aurait un marché pour l’entreprise;
+i)que le propriétaire (l’appelant) était un passionné de voitures de luxe qui aimait rechercher, conduire et être entouré de véhicules de luxe, qui voyait dans l’industrie automobile la possibilité de passer plus de temps à faire ce qu’il aime;
+j)que le propriétaire (l’appelant) avait quelques connaissances dans l’industrie automobile, mais n’avait encore contacté personne pour obtenir des conseils ou de l’aide;
+k)que le seul vendeur était le propriétaire (l’appelant).
+[10] Selon le barème de l’AMVIC[7], une entreprise de vente d’automobiles en gros nécessite un cautionnement général. L’appelant a payé une prime de 500 $ et a obtenu un cautionnement de grossiste délivré par l’AMVIC et valide pour une durée d’un an à compter du 14 septembre 2016[8].
+[11] Le 23 août 2016, l’appelant a réussi la formation obligatoire de vendeur dispensée par l’AMVIC[9]. Le 20 septembre 2016, l’AMVIC a délivré des certificats : a) autorisant Zed Exports à opérer en tant qu’entreprise individuelle de vente en gros jusqu’au 30 septembre 2017[10], et b) inscrivant l’appelant en tant que vendeur automobile agréé pour Zed Exports jusqu’au 30 septembre 2017[11]. Le 21 octobre 2016, l’AMVIC a délivré un certificat inscrivant Mme Zupet en tant que vendeuse automobile agréée pour Zed Exports jusqu’au 31 octobre 2017[12].
+[12] L’appelant a enregistré le nom commercial « Zed Exports » en Alberta le 9 septembre 2016, dénomination entrant en vigueur à compter du 30 septembre 2016.[13] Le 22 septembre 2016, l’appelant a procédé à l’inscription de son entreprise auprès de l’Agence du revenu du Canada et a demandé un numéro d’entreprise aux fins du calcul de la TPS et de la TVH. Sur le formulaire de demande, l’appelant a indiqué que le nom commercial de son entreprise serait « Ed Zupet, faisant affaire sous le nom de Zed Exports », que l’activité commerciale principale serait « concessionnaire automobile – grossiste » et que la vente automobile représenterait la totalité de ses produits et services offerts.[14] À la même date, il a également créé un compte de programme d’importations-exportations auprès de l’ARC.[15] Mme Zupet a déclaré qu’elle et M. Zupet ont décidé de s’inscrire à un compte de TPS/TVH parce que les véhicules cibles de leur entreprise coûteraient au moins 50 000 $, dépassant ainsi le seuil de 30 000 $ prévu par l’ARC pour les petits fournisseurs[16].
+[13] La trousse de plan d’affaires de l’AMVIC exigeait des renseignements de la part de l’institution financière choisie sous la forme d’un formulaire de vérification de compte dûment rempli. Le 16 septembre 2016, la Banque Royale a rempli ce formulaire et a vérifié que l’entreprise individuelle avait ouvert un compte commercial avec un solde initial de 5 000 $ US.[17] Le 30 septembre 2016, l’appelant a ouvert un deuxième compte commercial à la Banque Royale avec un solde initial de 500 $ CA[18]. En ce qui concerne le compte ouvert en dollars canadiens, l’appelant a commandé des chèques commerciaux portant le nom de l’entreprise et l’adresse du couple Zupet à Sherwood Park[19].
+[14] Une fois les licences de l’AMVIC en vigueur, l’appelant a pu inscrire l’entreprise individuelle auprès de deux enchères automobiles opérant en ligne[20]. Les dossiers d’inscription des enchères exigeaient notamment que l’appelant autorise la divulgation d’informations de nature financière à propos de son crédit et fournisse la preuve qu’il était titulaire d’une licence de l’AMVIC. Mme Zupet a expliqué que le site des enchères en ligne permettait à l’appelant de vendre et de trouver des véhicules à acheter en Amérique du Nord. Elle a déclaré qu’une personne travaillant pour l’une des deux enchères les avait mis en garde contre les problèmes logistiques potentiels liés à la vente de véhicules canadiens aux États-Unis; par exemple, si un véhicule canadien vendu aux États-Unis faisait l’objet d’un rappel ultérieur, il serait difficile de le ramener au Canada pour qu’il y soit réparé. Mme Zupet a déclaré qu’elle et l’appelant avaient envisagé de tirer profit de ces obstacles logistiques, lesquels éliminaient une partie de la concurrence.
+[15] Vers le mois d’octobre 2016, Mme Zupet est tombée sur une publicité en ligne pour une entreprise d’Edmonton appelée Auto City, qui invitait des clients américains à acheter ses véhicules[21]. Elle a indiqué que la publicité avait suscité son intérêt et celui de l’appelant parce qu’Auto City semblait exercer le type d’activité qu’ils souhaitaient faire, c’est-à-dire vendre des véhicules canadiens à des clients américains.
+[16] Le couple a visité Auto City pour en savoir plus sur l’entreprise et, à cette occasion, le directeur a proposé à Mme Zupet un poste de responsable de la comptabilité dans un concessionnaire Chrysler situé à Squamish, en Colombie-Britannique, que l’entreprise venait d’acquérir. Mme Zupet a commencé à travailler à temps plein chez le concessionnaire de Squamish le 21 novembre 2016[22], et a quitté son poste vers la mi-février 2017.
+[17] L’appelant et son épouse vivaient sur un terrain à Sherwood Park, un hameau faisant partie de la grande région d’Edmonton. En 2010, l’appelant a déménagé à Kelowna pour vivre avec ses parents âgés et prendre soin d’eux, tandis que Mme Zupet est restée à Sherwood Park. Mme Zupet a dit qu’elle a continué de vivre et de résider sur leur terrain de Sherwood Park jusqu’à la fin du mois de décembre 2016, date à laquelle elle et l’appelant ont décidé de le mettre en vente. Ils ont finalement vendu le terrain le 15 juin 2017. Mme Zupet a déclaré que ce terrain constituait le bureau d’affaires de Zed Exports à Edmonton, tandis que la maison des parents de l’appelant à Kelowna était le bureau principal de Zed Exports.
+[18] Mme Zupet a déclaré qu’elle avait accepté l’offre d’emploi au concessionnaire de Squamish afin que l’appelant et elle-même puissent en apprendre davantage sur le secteur de la vente automobile. À cette fin, elle priait l’appelant de se rendre au bureau du concessionnaire de Squamish pour apprendre en l’aidant à remplir des documents, ou alors elle apportait du travail à sa chambre d’hôtel de Squamish, où il faisait de même. Elle a déclaré qu’au cours des trois mois qu’elle a passés chez le concessionnaire, elle a travaillé 12 heures par jour et sept jours par semaine, la plupart du temps, et que lorsqu’elle prenait des congés, elle retournait chez elle en prenant un autobus Greyhound ou en se faisant reconduire par l’appelant, et elle retournait à Squamish par les mêmes moyens.
+[19] Mme Zupet a affirmé que l’appelant avait acheté chez un concessionnaire d’Edmonton un nouveau VUS de marque GMC, un modèle Yukon Denali 2016, le 19 novembre 2016, avec l’intention d’en faire le premier véhicule vendu aux États-Unis par Zed Exports. L’appelant a acheté le véhicule au prix de 72 414,25 $ (avant TPS); l’odomètre indiquait 14 km au moment de l’achat. Mme Zupet a déclaré que le prix correspondait à un rabais de 20 % sur le prix de détail suggéré par le fabricant, et qu’elle et son mari croyaient que le taux de change leur permettrait de réaliser un profit en vendant le véhicule à un client américain. Sur l’acte de vente du concessionnaire d’Edmonton, signé par l’appelant, figure une déclaration imprimée selon laquelle l’acheteur reconnaît qu’il achète le VUS pour l’utiliser au Canada et non pour le revendre ou en faire un usage principal à l’étranger[23].
+[20] En ce qui concerne les fonds utilisés pour l’achat du VUS, Mme Zupet a indiqué que leur fils, Lance Zupet, avait prêté à l’appelant 25 000 $ US[24] et qu’elle avait à son tour produit un billet à ordre en sa faveur. Elle a déclaré que les membres de la famille Zupet se prêtaient régulièrement de l’argent les uns aux autres pour l’utiliser dans leurs entreprises respectives, et qu’elle documentait les prêts au moyen de billets à ordre.
+[21] Lorsque Mme Zupet a accepté le poste à Squamish, elle et son mari ont décidé d’essayer de vendre le VUS en Colombie-Britannique pour un bénéfice moindre, parce que ce serait plus facile que de lui faire traverser la frontière canado-américaine. L’appelant a conduit le VUS chez plusieurs concessionnaires de Colombie-Britannique pour demander si l’un d’eux était intéressé à l’acheter. En mars 2017, Mme Zupet avait quitté son emploi chez le concessionnaire de Squamish et ils ont réalisé qu’ils n’allaient pas pouvoir vendre le VUS en Colombie-Britannique et en tirer un profit; ils ont alors de nouveau cherché à le vendre aux États-Unis. À cette fin, ils ont demandé et reçu la confirmation écrite de GM Canada attestant que le VUS était conforme aux normes de sécurité américaines et satisfaisait aux exigences en matière de contrôle des émissions. Dans la lettre adressée à l’appelant et datée du 27 avril 2017, les représentants de GM Canada attestent de la conformité du véhicule et déclarent dans l’introduction comprendre que le véhicule devait être importé aux États-Unis pour un usage personnel, et non pour être revendu[25].
+[22] L’appelant et son épouse ont conduit le VUS depuis Edmonton jusqu’en Floride vers la mi-mai 2017, en s’arrêtant chez divers concessionnaires automobiles de la Floride pour déterminer s’ils avaient un intérêt pour l’achat du véhicule[26]. L’appelant et Mme Zupet ont déclaré avoir décidé d’essayer de vendre le VUS en Floride parce qu’ils avaient passé leurs hivers en Floride entre 2007 et 2016, et qu’ils connaissaient donc certaines personnes sur place.
+[23] Alors qu’ils se rendaient en Floride, le couple Zupet a reçu une offre d’achat pour leur propriété de Sherwood Park, avec une date de clôture à la mi-juin. Ils ont accéléré leur voyage en Floride et sont rentrés en Alberta par avion vers le 31 mai, décidant de laisser le VUS dans le stationnement de longue durée de l’aéroport. Les souvenirs de l’appelant et de Mme Zupet diffèrent légèrement en ce qui concerne la séquence des événements ayant eu lieu au cours de cette période, mais ils ont fait paraître une annonce pour le véhicule en ligne et ont reçu une offre d’un concessionnaire du comté d’Orange. Ils ont appris de ce concessionnaire que pour conclure la vente, l’appelant devait d’abord faire immatriculer le véhicule dans le comté d’Orange et le faire certifier par le ministère des Transports des États-Unis.
+[24] Ils ont conclu la vente à partir de leur maison et se sont ensuite rendus par avion à Seattle, afin d’y rencontrer des amis de la Floride avec qui ils avaient prévu de faire une croisière en Alaska. Une fois la croisière terminée, l’appelant et Mme Zupet ont pris un vol d’Anchorage à Seattle, et de là, autour du 5 juillet, ils se sont rendus en Floride pour achever la vente du VUS. Après avoir obtenu l’immatriculation du comté d’Orange et la certification du ministère des Transports des États-Unis, ils ont vendu le véhicule au concessionnaire du comté d’Orange en date du 7 juillet 2017, au montant de 52 000 $ US. Le reçu de livraison du concessionnaire décrit le VUS comme un véhicule de reprise qui a été reçu de l’appelant avec un kilométrage affiché de 9 114 miles[27]. Le produit de la vente a par la suite été déposé dans le compte-chèques personnel de l’appelant aux États-Unis[28].
+[25] Concernant la différence entre les relevés de l’odomètre indiquant 14 km lors de l’achat du véhicule et 9 114 miles (soit 14 667 km) lors de la vente, l’appelant a expliqué qu’un véhicule d’occasion devait indiquer un kilométrage minimal de 6 000 km pour pouvoir être importé aux États-Unis, et qu’il ne s’attendait pas à faire une si bonne affaire sur un véhicule neuf lorsqu’il a acheté le VUS.
+[26] Mme Zupet a déclaré qu’elle et son mari avaient pris l’avion de la Floride vers Edmonton, puis qu’ils étaient partis pour la Slovénie autour du 15 août pour y rechercher des articles à importer au Canada dans le cadre de leur projet d’import-export international. Depuis la Slovénie, ils se sont envolés pour l’Écosse au début du mois de septembre afin de visiter un hôtel dans lequel leur fille et leur gendre souhaitaient qu’ils investissent.
+[27] Mme Zupet a expliqué qu’à partir de ce moment et jusqu’à leur retour au Canada et au début de l’année 2018, ils avaient tous deux des problèmes de santé et que la mère de l’appelant avait reçu un diagnostic de cancer. Elle a affirmé qu’elle et son mari avaient finalement décidé de ne plus poursuivre leur projet. En janvier 2019, l’appelant a fermé les comptes d’affaires de l’entreprise individuelle à la Banque Royale et, en septembre 2019, il a annulé son inscription au compte de TPS/TVH.
+IV. Dépenses d’entreprise réclamées
+[28] En ce qui concerne l’année 2016, l’appelant n’a déclaré aucun revenu brut d’entreprise, mais a déclaré une perte nette de 22 523,83 $.[29] Pour 2017, il a déclaré un revenu brut d’entreprise de 67 080 $ (soit un montant de 52 000 $ US, multipliés par un taux de change de 1,29) et une perte nette de 75 081,16 $.[30] Il a alors reporté des pertes autres qu’en capital de 51 256 $ de 2017 et les a appliquées à son année d’imposition 2014.
+[29] L’appelant a réclamé les dépenses d’entreprise suivantes pour les années 2016 et 2017[31] :
+2016
+2017
+Taxes d’affaires, frais, droits d’adhésion et licences
+1 660,87 $
+195,00$
+Frais de gestion et d’administration
+4 000,00
+2 400,00
+Repas et frais de représentation (50 %)
+3 035,13
+5 920,51
+Dépenses relatives aux véhicules à moteur
+6 090,54
+8 441,69
+Frais de bureau
+280,55
+263,05
+Frais de déplacement
+5 615,82
+21 340,82
+Téléphone et services publics
+1 840,92
+3 472,47
+Intérêts
+5 364,00
+Entretien et réparation
+526,56
+Papeterie et fournitures de bureau
+526,55
+Honoraires professionnels
+2 600,00
+Déduction pour amortissement
+11 096,26
+TOTAL
+22 523,83$
+62 146,91$
+(a) Véhicules à moteur
+[30] Outre le VUS Yukon Denali qu’il souhaitait vendre, l’appelant possédait un VUS Ford Expedition 1999 et un VUS BMW X5 2 010 comme véhicules personnels. Il a réclamé des frais de véhicule à moteur pour : a) le Ford Expedition, au motif qu’il l’a utilisé comme véhicule d’entreprise à hauteur de 81 % en 2016 et de 57 % en 2017; b) le BMW X5, au motif qu’il l’a utilisé comme véhicule d’entreprise à hauteur de 100 % en 2016 et de 74 % en 2017; et c) le Yukon Denali sur la base d’une utilisation commerciale de 100 % pour les deux années[32].
+[31] L’appelant a mentionné qu’il ne tenait pas de registre de kilométrage concernant l’utilisation des véhicules. Mme Zupet a dit qu’elle utilisait les registres d’entretien des véhicules et d’autres factures pour créer les documents fournis au ministre du Revenu national[33]. D’après ces documents, il y a eu de nombreux voyages à Kelowna et à Squamish, plusieurs voyages à Vancouver, un voyage de Squamish à Seattle, des voyages à Whistler, un voyage à Victoria, un voyage à Big White, un à Oliver, un à Vernon, un à Manitou, et le voyage de mai 2017 en Floride, entre autres. De nombreux voyages sont décrits comme étant des voyages de prospection; certains sont décrits comme des réunions stratégiques et des formations d’équipe, d’autres comme mixtes, divers ou liés à l’entreprise, et d’autres encore n’ont pas de description.
+(b) Frais de déplacement
+[32] L’appelant a demandé la déduction d’un séjour de deux jours au Sparkling Hill Resort, à Vernon, ayant eu lieu en avril 2017. Pendant ce séjour, l’appelant et Mme Zupet ont consulté un médecin et ont tous deux bénéficié d’une thérapie par chélation (pour une maladie cardiaque), d’un test d’allergie, d’un test hémodynamique (pour l’hypertension) et de soins dans un établissement spécialisé. L’appelant et Mme Zupet ont décrit leur séjour comme une retraite d’affaires dont ils ont profité pour se ressourcer.
+[33] En ce qui concerne le voyage qu’ils ont fait à Seattle pour rejoindre leurs amis de Floride et embarquer avec eux pour une croisière en Alaska, Mme Zupet a déclaré qu’elle et l’appelant espéraient persuader ces amis de se joindre à eux dans l’aventure de la vente de véhicules. Elle a déclaré que si la croisière constituait une activité personnelle, certaines dépenses engagées à Seattle et à Anchorage étaient liées à leur activité d’entreprise, car elle et l’appelant souhaitaient constater comment les affaires se déroulaient dans ces collectivités.
+[34] Mme Zupet a expliqué qu’elle et l’appelant considéraient que Zed Exports était plus qu’une entreprise de vente de voitures d’occasion, et qu’il s’agissait pour eux d’une entreprise d’import-export à l’échelle internationale. Par exemple, l’hôtel en Écosse n’aurait pas été un bien acheté ou vendu, mais plutôt un service fourni par Zed Exports. Elle a ajouté que lors de leur séjour en Slovénie en août 2017, elle et l’appelant ont cherché à trouver des biens et des services qu’ils auraient pu importer au Canada ou exporter vers d’autres pays. Elle a décrit la plupart de leurs voyages comme ayant été effectués dans le but de faire progresser leur activité internationale d’import-export. L’appelant a reconnu lors du contre-interrogatoire qu’il était né en Slovénie, tandis que Mme Zupet a déclaré que, lors de leur séjour en Slovénie, ils avaient envisagé la possibilité d’acheter de vieilles Volkswagen pour les exporter et de les faire remettre en état par les cousins slovènes de l’appelant.
+(c) Frais de gestion et d’administration
+[35] Pour l’année d’imposition 2016, l’appelant a déduit des frais de gestion et d’administration d’un montant total de 4 000 $ pour l’entreprise individuelle, à titre de dépenses d’entreprise. La facture associée à ces dépenses est datée du 31 décembre 2016 et a été délivrée à l’intention de l’entreprise individuelle par Carolyn Peterson, pour des services administratifs et autres, notamment pour le siège social, le service de boîte aux lettres, les services téléphoniques, la comptabilité et l’administration générale[34]. Mme Peterson est comptable et est la sœur de l’appelant. Mme Zupet a affirmé que Mme Peterson s’était renseignée en leur nom et leur avait apporté un soutien divers pendant leur voyage.
+[36] Mme Zupet a expliqué que le père de l’appelant était un homme d’affaires expérimenté et qu’il leur donnait des conseils. Elle a dit que, pour ses conseils, il avait facturé à l’entreprise individuelle la somme de 2 400 $, qu’elle avait payé en réglant divers frais de réparation et d’entretien engagés pour la maison des parents de l’appelant à Kelowna. Le père de l’appelant a produit une facture au montant de 2 400 $ pour des services administratifs et autres, datée du 31 décembre 2017[35].
+(d) Déduction pour amortissement
+[37] En ce qui concerne l’année 2017, l’appelant a demandé une déduction pour amortissement d’un montant total de 11 096,26 $ relativement aux véhicules BMW et Ford Expedition, ainsi qu’à un MacBook et à un téléphone portable[36].
+(e) Montants pour la sous-traitance
+[38] Pour l’année d’imposition 2017, des montants de sous-traitance totalisant 7 600 $ ont été inclus dans le coût des marchandises vendues[37]. Ces montants sont ventilés comme suit :
+(a)Un montant de 6 400 $ versé à Cherry Lane Developments Ltd. Cherry Lane était détenue à 100 % par Lance Zupet. Une facture datée du 31 décembre 2017 a été adressée à l’entreprise individuelle pour un montant de 6 400 $ pour divers services rendus par Lance et Mme Zupet pour l’entreprise de vente d’automobiles en gros[38]. Dans une lettre datée du 11 février 2021 et adressée à la Division des appels de l’ARC au stade de l’opposition, l’appelant a décrit la dépense de 6 400 $ comme un montant payé à un consultant pour des connaissances commerciales liées à l’exportation[39].
+(b)Un montant de 1 200 $ versés à madame Carolyn Peterson – Mme Zupet a déclaré que lorsqu’ils ont vendu leur terrain à Sherwood Park, l’appelant a déménagé ses dossiers d’affaires, ses classeurs et son mobilier de bureau à la résidence de Mme Peterson, située à Edmonton. Une facture datée du 30 septembre 2017 et faite au nom de l’entreprise individuelle présente un montant de 1 200 $ pour un contrat annuel de services administratifs et autres.
+(f) Montants concédés par l’intimé
+[39] Au cours de l’audience, l’avocat de l’intimé a indiqué que si la Cour concluait à l’existence d’une entreprise, le ministre concéderait les montants suivants à titre de dépenses d’entreprise :
+2016
+2017
+Taxes d’affaires, frais et licences
+1 660,87 $
+195,00$
+Frais de bureau
+280,55
+263,05
+Téléphone et services publics
+1 840,92
+Papeterie et fournitures de bureau
+526,55
+Honoraires professionnels
+2 600,00
+TOTAL
+3 782,34$
+3 584,60$
+V. Cadre juridique
+[40] Il est bien établi qu’aux fins de la Loi de l’impôt sur le revenu, il doit y avoir une source de revenus pour qu’un revenu soit déclaré au cours d’une année d’imposition[40]. Lorsque la source de revenus est une entreprise, le revenu d’un contribuable pour un exercice fiscal donné est le bénéfice qu’il tire de cette entreprise au cours de l’exercice en question[41]. Lorsque les dépenses admissibles encourues dépassent le revenu obtenu, le bénéfice devient une perte[42]. Une perte d’entreprise est une perte autre qu’une perte en capital subie au cours des 20 années d’imposition précédentes (ou des trois années suivantes) et qui est déduite du revenu de l’année d’imposition[43].
+[41] Le critère décisif pour déterminer s’il existe une source de revenus reste la méthode à deux volets définie par la Cour suprême du Canada dans l’arrêt Stewart[44], soit :
+L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle[45]?
+En d’autres termes, le contribuable a-t-il l’intention d’exercer l’activité dans un but lucratif et existe-t-il des preuves objectives étayant cette intention subjective[46]? Le contribuable doit établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux[47].
+S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien[48]?
+Dans le présent appel, les parties conviennent que s’il existe une source de revenus, ce revenu est tiré d’une entreprise (et non d’un bien).
+[42] Lorsqu’une activité : a) semble être manifestement commerciale, b) ne contient aucun élément personnel ou récréatif, et c) que la preuve étaye la thèse selon laquelle l’activité en question a pour objet la réalisation de profits, alors une source de revenus existe aux fins de la loi[49]. Toutefois, lorsque l’activité peut être qualifiée de personnelle, il faut alors déterminer si cette activité est ou non exercée d’une manière suffisamment commerciale pour constituer une source de revenus[50].
+[43] Pour déterminer si un contribuable exerce une activité d’une manière suffisamment commerciale, la liste non exhaustive des facteurs objectifs à considérer comprend : 1) l’état des profits et pertes pour les années antérieures, 2) la formation du contribuable, 3) la voie sur laquelle il entend s’engager et 4) la capacité de l’entreprise de réaliser un profit[51]. Les facteurs diffèrent selon la nature et l’importance de l’entreprise[52]. Cette détermination n’est pas une évaluation du sens des affaires du contribuable, mais plutôt de la nature commerciale de l’activité en question[53].
+[44] La question de la déductibilité d’une dépense est distincte de la question de l’existence de la source de revenus[54]. Pour être déductibles du revenu tiré d’une entreprise, les dépenses doivent être engagées en vue de tirer un revenu de l’entreprise[55]. Une dépense ne sera pas déductible du revenu d’entreprise s’il s’agit d’une dépense personnelle ou de subsistance[56] ou si elle est déraisonnable dans les circonstances[57].
+VI. Discussion et analyse
+(a) L’activité du contribuable était-elle exercée en vue de réaliser un profit, ou s’agissait-il d’une démarche personnelle?
+[45] Bien que l’appelant et Mme Zupet aient affirmé que l’activité était ou allait devenir une entreprise internationale d’import-export, les preuves révèlent qu’il s’agissait plutôt de vente en gros d’automobiles de luxe d’occasion pour les années visées. Par exemple, l’appelant avait indiqué dans la description de l’activité de l’entreprise individuelle [traduction] « véhicules à moteur d’occasion », dans le formulaire T2125 (État des résultats des activités d’une entreprise ou d’une profession libérale) produit dans le cadre de ses déclarations de revenus pour les années 2016 et 2017.[58] En outre, le plan d’affaires soumis à l’AMVIC décrivait l’activité comme une [traduction] « entreprise de vente en gros d’automobiles[59] » et toutes les entités commerciales sans lien de dépendance avec lesquelles ils traitaient appartenaient à l’industrie automobile.
+[46] J’ai exposé en détail la chronologie des faits pertinents pour illustrer le fil quelque peu sinueux des événements survenus au cours des années visées par l’appel. Les activités que l’on pourrait qualifier de personnelles et celles qui pourraient être qualifiées de commerciales se chevauchent régulièrement. Par exemple, l’appelant aimait conduire des voitures de luxe à titre personnel et l’activité impliquait la vente de véhicules de luxe. Le plan déclaré de l’appelant prévoyait l’achat et la vente de véhicules de luxe d’occasion, mais il a acheté un VUS de luxe neuf et a parcouru plus de 14 000 km en le conduisant, principalement en Colombie-Britannique (où il vivait) et jusqu’en Floride. (où il vivait) et finalement en Floride. Il a vendu le VUS en Floride, où lui et Mme Zupet passaient l’hiver (à titre personnel), plutôt que dans de nombreux autres États américains géographiquement beaucoup plus près de Kelowna et d’Edmonton.
+[47] Compte tenu des nombreux chevauchements, je suis d’avis que l’activité comportait une composante personnelle et qu’elle ne pouvait donc pas être qualifiée de commerciale. La question est donc de savoir si l’activité a été exercée d’une manière suffisamment commerciale pour constituer une source de revenus.
+[48] L’appelant et Mme Zupet ont entrepris en 2016 un nombre important de démarches en vue de la création de l’activité à l’échelle d’entreprise, à savoir :
+a)ils ont tous deux suivi la formation AMVIC nécessaire et sont devenus des vendeurs d’automobiles agréés;
+b)ils ont répondu à la longue liste de conditions requises par l’AMVIC (y compris l’achat d’une assurance) et ont réussi à obtenir une licence pour leur entreprise de vente d’automobiles en gros;
+c)l’appelant a utilisé ses licences de l’AMVIC pour enregistrer son entreprise auprès d’enchères automobiles en ligne qui font l’achat et la vente de véhicules en Amérique du Nord;
+d)l’appelant a enregistré le nom commercial de l’entreprise en Alberta;
+e)l’appelant a obtenu un numéro d’entreprise auprès de l’ARC aux fins du calcul de la TPS/TVH et a ouvert des comptes de TPS/TVH et des comptes d’importation/exportation auprès de l’ARC;
+f)l’appelant a ouvert deux comptes bancaires commerciaux, l’un en dollars américains et l’autre en dollars canadiens;
+g)l’appelant a commandé des chèques d’affaires pour le compte commercial en dollars canadiens, en utilisant le nom de l’entreprise.
+[49] Je crois que l’appelant et Mme Zupet ont visité Auto City en octobre 2016 parce que cette entreprise semblait vendre des véhicules canadiens à des clients américains et que c’est ce qu’ils souhaitaient faire. Je crois également que Mme Zupet croyait qu’en acceptant le poste de responsable de la comptabilité à la nouvelle concession d’Auto City à Squamish, elle en apprendrait davantage sur l’industrie automobile (puisque ni l’appelant ni elle n’avaient d’expérience antérieure dans ce domaine). La copie d’écran du site Web d’Auto City est datée du 31 octobre 2016 et est donc contemporaine de la chronologie des événements décrite par l’appelant et son épouse[60].
+[50] À partir de novembre 2016, les choix faits par l’appelant quant à la gestion de sa nouvelle entreprise n’étaient pas principalement orientés vers la réalisation d’un bénéfice ou vers sa maximisation. Plutôt que d’acquérir un véhicule d’occasion par le biais d’une vente aux enchères (comme indiqué dans le plan d’affaires), l’appelant a acheté le VUS Yukon Denali à l’état neuf pour 72 414,25 $ CA. Au moment de l’achat, il a déclaré au concessionnaire qu’il n’achetait pas le VUS pour le revendre. Lorsqu’il a ensuite demandé à GM Canada de confirmer que le VUS répondait aux exigences américaines en matière de sécurité et de contrôle des émissions, il a déclaré que le VUS était importé aux États-Unis pour un usage personnel et non pour la revente. Après avoir parcouru plus de 14 000 km avec le véhicule, il l’a vendu pour une somme équivalant à 67 080 $ CA et l’a conduit jusqu’en Floride, où lui et Mme Zupet avaient des amis et passaient l’hiver.
+[51] Un modèle d’entreprise qui vise l’acquisition de stocks tout en dénaturant les conditions d’acquisition et d’importation semble peu viable sur le long terme, en plus de présenter un risque d’échec croissant au fur et à mesure que les pratiques de l’appelant auraient été connues dans son secteur d’activité. L’appelant a peut-être acheté le nouveau VUS à un prix étonnamment bas, mais sa pratique consistant à le conduire chez différents concessionnaires pour sonder l’intérêt a activement déprécié son unique stock, réduisant ainsi ses chances de récupérer le prix d’achat initial ou de réaliser un bénéfice.
+[52] La Cour n’a pas, en l’espèce, à évaluer le sens des affaires de l’appelant, mais bien la nature commerciale de l’activité. Les nombreuses démarches entreprises par l’appelant et par Mme Zupet au cours de la période relativement dense s’étendant d’août à septembre 2016, environ, étaient des démarches liées au démarrage d’une entreprise et ne comportaient aucun élément personnel distinct. Par conséquent, je suis d’avis que l’appelant avait l’intention de faire de l’activité une entreprise. Selon la prépondérance des probabilités, je retiens l’argument de l’appelant selon lequel l’achat du nouveau VUS constituait une déviation unique du plan d’affaires qui consistait à vendre des véhicules d’occasion. Par conséquent, la nature commerciale de l’activité reste intacte et il y a eu une source de revenus d’entreprise en 2016 et en 2017.
+(b) Quelles sont les dépenses déductibles?
+[53] Bien que j’aie constaté l’existence d’une source de revenus d’entreprise sous la forme de vente en gros d’automobiles de luxe, les activités sous-jacentes à cette source de revenu n’ont pas été foisonnantes au cours des années en question.
+[54] Comme nous l’avons vu précédemment, les activités qui pourraient être considérées comme personnelles ou commerciales se chevauchent régulièrement. L’appelant et Mme Zupet se déplaçaient régulièrement entre Sherwood Park (Edmonton), Kelowna et Squamish dans le cadre de leurs trajets quotidiens entre leurs lieux de résidence et leurs lieux de travail. Cependant, ils ont qualifié ces déplacements de voyages d’affaires puisque l’appelant a conduit le VUS chez des concessionnaires de la Colombie-Britannique à la recherche d’acheteurs intéressés. En 2016 et 2017, ils ont voyagé vers des destinations comme Seattle, l’Alaska, Whistler, la Slovénie, la Croatie, l’Écosse et la Floride. Chaque destination semblait inclure une composante vacances ou personnelle assez importante, de sorte que l’objectif commercial avancé devant la Cour était parfois difficile à cerner, au point de ne pas être crédible.
+[55] En ce qui concerne l’utilisation du véhicule à moteur, aucun registre n’a été tenu à l’époque. Toutefois, même si c’était le cas, l’objectif commercial de l’utilisation resterait discutable. Il ne fait aucun doute qu’il s’est passé beaucoup de choses dans la vie de l’appelant et de Mme Zupet au cours des années 2016 et 2017. Ils essayaient de planifier leurs années de retraite tout en conciliant leurs responsabilités à l’égard de parents âgés et en prenant soin de leur propre santé, et ce, alors qu’ils vivaient dans des provinces différentes. Même si les montants engagés n’étaient pas de nature commerciale, je comprends qu’ils n’étaient pas nécessairement engagés pour le plaisir non plus.
+[56] Les montants qui ont été facturés par les membres de la famille pour des services n’ont été documentés que par une facture de fin d’année; dans ces circonstances – et compte tenu du chevauchement important entre les éléments personnels et commerciaux liés à l’activité – les preuves sont insuffisantes pour établir que ces dépenses ont réellement été engagées ou qu’elles l’ont été à des fins d’entreprise.
+[57] Je suis d’avis que les montants concédés conditionnellement par l’intimé sont appropriés. En outre, j’autorise un montant de 1 840,92 $ pour les dépenses relatives aux services de téléphonie et aux services publics en 2017. La proposition de l’intimé de concéder des montants n’inclut aucun montant de cette catégorie pour 2017. Cependant, le VUS a été vendu en 2017 et je m’attends donc à ce que l’appelant ait eu besoin d’utiliser le téléphone et les services publics en vue de permettre la vente. Faute de preuves plus substantielles et pour des raisons de principe, le montant de 1 840,92 $ que je propose est le même que celui qui a été autorisé pour l’année 2016.
+[58] En ce qui concerne les autres montants qui ont été rejetés, il est difficile de déterminer s’ils constituaient des dépenses personnelles ou déraisonnables dans les circonstances. Quoiqu’il en soit, les hypothèses du ministre n’ont pas été réfutées à cet égard et ces montants n’ont pas été engagés dans le but de tirer des revenus d’entreprise.
+VII. Conclusion
+[59] Pour les motifs qui suivent, l’appel est accueilli sans frais :
+a)l’appelant a exploité un commerce de vente en gros de voitures de luxe en 2016 et 2017;
+b)en ce qui concerne l’année d’imposition 2016, l’appelant a le droit de déduire des dépenses d’entreprise pour un montant de 3 782,34 $;
+c)en ce qui concerne l’année d’imposition 2017, l’appelant a le droit de déduire des dépenses d’entreprise pour un montant de 5 425,52 $;
+d)dans la mesure où les dépenses autorisées entraînent une perte d’entreprise, l’appelant a le droit de reporter la perte autre qu’en capital qui en résulte à l’année d’imposition 2014
+Signé à Ottawa, Canada, ce 1er jour d’août 2023.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2023 CCI 111
+No DU DOSSIER DE LA COUR :
+2021-1503(IT)I
+INTITULÉ :
+ZDRAVKO ZUPET c.
+SA MAJESTÉ LE ROI,
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATES DE L’AUDIENCE :
+12 et 13 septembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 1er août 2023
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Robert Neilson
+Michael I. Stuart (stagiaire en droit)
+Avocat de l’intimé :
+Me Randall Lau
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Noms :
+Me Robert Neilson Michael I. Stuart (stagiaire en droit)
+Cabinet :
+Felesky Flynn LLP
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Canada c. Paletta, 2022 CAF 86.
+[2] Pièce A-1, page 1
+[3] Pièce A-1, page 2
+[4] Pièce A-1, page 3
+[5] Pièce A-1, page 9
+[6] Pièce A-1, pages 13 à 13e
+[7] Pièce A-1, page 9b.
+[8] Pièce A-1, pages 11 et 12.
+[9] Pièce A-1, page 8
+[10] Pièce A-1, page 22
+[11] Pièce A-1, page 23
+[12] Pièce A-1, page 30
+[13] Pièce R-1, onglet 1, page 17.
+[14] Pièce A-1, pages 26 à 26f
+[15] Pièce A-2, page 26.
+[16] Loi sur la taxe d’accise, paragraphe 148(1).
+[17] Pièce A-1, pages 17 et 18.
+[18] Pièce A-1, page 19
+[19] Pièce A-1, page 20
+[20] Pièce A-1, pages 25 à 25d, 28 à 28d
+[21] Pièce A-1, page 32
+[22] Pièce A-1, pages 33 et 34.
+[23] Pièce A-1, page 36
+[24] Pièce A-2, page 2.
+[25] Pièce A-2, page 42.
+[26] Pièce R-1, onglet 1, page 3.
+[27] Pièce A-2, page 13.
+[28] Pièce A-2, page 14.
+[29] Pièce R-1, onglet 2; Réponse à l’avis d’appel (annexe A)
+[30] Pièce R-1, onglet 3; Réponse à l’avis d’appel (annexe B)
+[31] Pièce R-1, onglets 2 et 3; Réponse à l’avis d’appel (annexes A et B)
+[32] Pièce R-1, onglet 6, pages 427 et 502.
+[33] Pièce R-1, onglet 6, pages 429, 452, 466, 517, 534 et 546.
+[34] Pièce R-1, onglet 6, page 78.
+[35] Pièce R-1, page 81
+[36] Pièce R-1, onglet 3, pages 38 et 40; Réponse à l’avis d’appel, par. 10(cc).
+[37] Pièce R-1, onglet 3, page 37.
+[38] Pièce R-1, onglet 6, pages 62 et 63.
+[39] Pièce R-1, onglet 5, page 48.
+[40] Loi de l’impôt sur le revenu, art. 3; Canada c. Paletta, 2022 CAF 86, par. 30.
+[41] Loi de l’impôt sur le revenu, par. 9(1); Canada c. Paletta, 2022 CAF 86, par. 31.
+[42] Loi de l’impôt sur le revenu, par. 9(2); Canada c. Paletta, 2022 CAF 86, par. 31
+[43] Loi de l’impôt sur le revenu, al. 111(1)a)
+[44] Stewart c. Canada, 2002 CSC 46 (CanLII)
+[45] Stewart c. Canada, 2002 CSC 46 (CanLII), par. 50
+[46] Stewart c. Canada, 2002 CSC 46 (CanLII), par. 54
+[47] Stewart c. Canada, 2002 CSC 46 (CanLII), par. 54
+[48] Stewart c. Canada, 2002 CSC 46 (CanLII), par. 50
+[49] Canada c. Paletta, 2022 CAF 86, par. 36; Stewart c. Canada, 2 002 CSC 46 (CanLII) par .60.
+[50] Stewart c. Canada, 2002 CSC 46 (CanLII), par. 60
+[51] Stewart c. Canada, 2002 CSC 46 (CanLII), par. 55
+[52] Stewart c. Canada, 2002 CSC 46 (CanLII), par. 55
+[53] Stewart c. Canada, 2002 CSC 46 (CanLII), par. 55
+[54] Stewart c. Canada, 2002 CSC 46 (CanLII), par. 58 et 60.
+[55] Loi de l’impôt sur le revenu, al. 18(1)a).
+[56] Loi de l’impôt sur le revenu, al. 18(1)h).
+[57] Loi de l’impôt sur le revenu, art. 67.
+[58] Pièce R-1, onglets 2 et 3.
+[59] Pièce A-1, page 13
+[60] Pièce A-1, page 32

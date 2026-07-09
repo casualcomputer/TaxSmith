@@ -1,0 +1,317 @@
+Title: Stone v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/424454/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-253-424454-stone-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-11-07
+
+# Stone v. The Queen
+
+- Citation: 2019 TCC 253
+- Decision date: 2019-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4274, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stone v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-11-07
+Neutral citation
+2019 TCC 253
+File numbers
+2014-1745(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1745(IT)G
+BETWEEN:
+MARK STONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 22, 2019, at London, Ontario, and, additional submissions received on March 8 and 12, 2019,
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sonia Bellerive
+JUDGMENT
+The appeal with respect to the 2009 taxation year is dismissed in accordance with the attached reasons for judgment. If the parties are unable to agree on costs within 60 days of the date of this judgment, they may make submissions in writing to the Court on the matter of costs.
+Signed at Ottawa, Canada, this 7th day of November 2019.
+“G. Jorré”
+Jorré J.
+Citation: 2019TCC253
+Date: 20191107
+Docket: 2014-1745(IT)G
+BETWEEN:
+MARK STONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+I. INTRODUCTION
+[1] In some ways, this appeal was somewhat unusual.
+[2] At the start of the hearing an individual who said his name was “Welby Mark of the Stone family” claimed to be the Agent of the Appellant Mark Stone. When I asked how he became the agent of Mark Stone; he replied “when the government created a fictitious entity.”
+[3] As a result of my questions this individual produced a baptismal certificate which showed his name as Welby Mark Stone.
+[4] A little later in the hearing he stated “I am Welby Mark of the Stone family. I am the administrator and the beneficiary of the corporate name Mark Stone.”
+[5] I am satisfied that the individual who was present and who claimed to be the agent of the Appellant was the Appellant Mark Stone.
+[6] There is a particular procedural twist but I will deal with the underlying substance first. I will come back to that aspect at the end of my reasons. [1]
+[7] In filing his 2009 income tax return the Appellant claimed a net business loss of $81,371.85. This claimed business loss was deducted against the Appellant’s other 2009 income and the unused balance was carried back to reduce the Appellant’s income 2006, 2007 and 2008 taxation years.
+[8] The loss was allowed on initial assessment and subsequently denied on reassessment.
+[9] On reassessment the Minister also applied federal and provincial penalties of slightly more than $10,600 under subsection 163(2) of the Income Tax Act, commonly referred to as the gross negligence penalty, and the equivalent provisions of the Ontario income tax legislation.
+[10] The Appellant appeals from both the denial of the loss and the penalty.
+II. THE CLAIMED LOSSES
+[11] With respect to the business loss claimed, the facts relied on by the Minister of National include [2] :
+a) the appellant’s primary source of income since 1987 was from employment;
+b) in 2006, 2007 and 2008 the appellant reported. total income in the amounts of $17,076, $30,046 and $27,173, respectively, …
+c) the appellant’s total income for the 2009 taxation year was $29,187, consisting of employment income … , employment insurance benefits … and withdrawals from his registered retirement savings plan;
+d) in ﬁling his 2009 income tax. return, the appellant claimed a net business loss in the amount of $81,37l .85 (the previously deﬁned Business Loss);
+e) on initial assessment, the Business Loss resulted in a refund of all taxes withheld at source for the 2006, 2007, 2008 and 2009 taxation years;
+f) the Business Loss was not in respect of any business activity by the appellant;
+g) the appellant claimed in his income tax return for the 2009 taxation year that the Business Loss was incurred from a business as an “Agent”;
+h) in claiming a net business loss of $8l,371.85 for the 2009 taxation. year, the appellant attempted to use $28,076.85 of the Business Loss against his income in the 2009 taxation year and requested that $53,295 be carried back and applied to his 2006, 2007 and 2008 taxation years in the amounts of $10,076, $23,046 and $20,173, respectively (the previously referred to Loss Carry/back); the
+i) the appellant reported in his 2009 income tax return that the gross income from the “business” was $31,576.91;
+j) the income arising from the alleged business Was “Money Collected as Agent for the Principal”;
+k) the appellant claimed in his 2009 income tax return that the expenses from the business were $84,871.91 (the “Disallowed Expenses”);
+l) the appellant claimed that his expenses from this “business” were for “Subcontracts and labour” and described them as “Amount to principal in exchange for labour”;
+m) the appellant signed form T1 A (Request for Loss Carryback) for the 2009 taxation year “Per: Mark Stone”;
+n) the appellant. was not involved in any business activity of any kind during the appeal period;
+o) the appellant did not make or incur the Disallowed Expenses for the purpose of gaining or producing income from business or property;
+p) the appellant’s claim for expenses in relation to the Disallowed Expenses, if incurred, consisted solely of personal and living expenses;
+q) the appellant did not incur any expenses in relation to the alleged business during the appeal period;
+r) the amounts claimed by the appellant as expenses were not in respect of any business activities of the appellant;
+s) the appellant did not incur any business losses for the 2009 taxation year;
+t) the appellant had no business loss to carryback to his 2006, 2007 and 2008 taxation years;
+u) the appellant, the alleged agent and the alleged principal are the same person;
+v) …
+[12] The following extracts from the transcript of the cross-examination of the Appellant give the flavour of the Appellant’s evidence regarding the losses.
+[13] For example, after the Appellant agreed that he claimed a business loss of $81,371 on the Request for Loss Carryback form [3] , there is the following passage:
+…
+Q. You can go to page 1, tab 1. Okay, and that business loss was related to what?
+A. That business loss was related to the wages.
+Q. What do you mean "related to the wages"?
+A. The wages, your pay to have work done.
+Q. Could you explain that further, please?
+A. I'm not sure how it needs to be explained further.
+Q. Okay. What do you mean about wages? What wages?
+A. Those are the wages that were paid over the years of the loss carryback.
+Q. The wages paid over the year by whom and to who?
+A. By whom and to whom?
+Q. Yes.
+A. The wages were paid to the employee.
+Q. Okay. And who is the employee?
+A. And, at this time, I'm not really sure. I don't have that in front of me.
+Q. Okay. And then if there were wages paying, who was the employer?
+A. Mark Stone, capital name, is the employer. That's the loss carryback.
+Q. Okay. So Mark Stone, capital name, is the employer. And Mark Stone is you?
+A. I am Welby of the Stone family. Mark Stone is a corporation created by the government. It's in the dictionary, the law dictionary.
+Q. Okay. So you're saying that Welby is the employee. Is that correct?
+A. I am saying that Welby is the employee that received wages.
+Q. Excuse me, could you just speak louder? I missed what you said.
+A. Oh. Welby is the one that received the wages.
+Q. And he received the wages from the employer Mark Stone, capital?
+A. Corporation, yes.
+[14] Or at pages 53 and 54:
+Q. Could you please explain the information in this document? What's your understanding of this document?
+A. What is my understanding of this document?
+Q. Yes.
+A. My understanding, that is the ‑‑ it's a statement of agent of activities and that I'm the principal agent for Mark Stone.
+Q. Who is the principal?
+A. I am the principal.
+Q. And who is the agent?
+A. Welby Mark of the Stone family.
+Q. So Welby Mark of the Stone family is the agent. And the principal is you?
+A. I think you just said that backwards, but I'm not really sure.
+Q. Earlier I asked who is the principal, and you said "Me."
+A. I am the principal for the agent Mark Stone.
+Q. So if you are the principal for the agent Mark Stone, and you are the Welby ‑‑
+A. I am the agent. I am the agent for Mark Stone, the principal agent. So the...
+Q. So is the principal and the agent the same person, or the same physical person?
+A. No, not by what that reads. We're two different entities.
+Q. Okay. Are they both a physical person?
+A. No. I'm a flesh and blood creation of God.
+Q. And could you explain what is the money collected as agent for the principal and reported by third parties in the amount of $28,076.85?
+A. I can't explain that, no.
+…
+[15] The evidence of the Appellant did not even begin to prove the existence of an “Agent” business of any kind with revenues and expenses, let alone the existence of a business loss from this “Agent” business. Nowhere in the evidence is there any suggestion that any kind of goods or services were produced by the business.
+[16] The business losses in issue are fictitious and the Canada Revenue Agency was unquestionably justified in denying the losses.
+III. THE LAW RELATING TO SECTION 163(2) PENALTIES
+[17] I turn now to the question of the penalty.
+[18] The key words of subsection 163(2) are:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made…a false statement…in a return, form, … filed… in respect of a taxation year…, is liable to a penalty of the greater of $100 and 50% of the total of…
+[19] Two elements must be present in order for the penalty to be applicable. There must be i) a false statement and ii) the statement must be made knowingly or in circumstances amounting to gross negligence.
+[20] The first element is clearly met; the claim for non-existent business losses is clearly a false statement.
+[21] There is a great deal of case law about the penalty under subsection 163(2) and about what constitutes making a false statement “knowingly” or “under circumstances amounting to gross negligence”.
+[22] Justice Owen provides the following summary of the law in the case of Peck v. The Queen, 2018 TCC 52 [4] :
+B. The “Knowingly” and “Under Circumstances Amounting to Gross Negligence” Standards
+[43] In Wynter v. The Queen, 2017 FCA 1985 (CanLII) the Federal Court of Appeal stated the following about the two standards in subsection 163(2):
+[11] When Parliament uses alternative terms, it is assumed that it intended them to have different meanings. Put otherwise, Parliament does not repeat itself: see Ruth Sullivan, Statutory Interpretation, 3rd ed. (Toronto: Irwin Law Inc., 2016) at 43. Section 163 allows the imposition of penalties where the taxpayer has knowledge or in circumstances amounting to gross negligence. The section is not conjunctive, and presumptively, these two terms differ in their meaning and content.
+[12] The distinction between gross negligence — determined by an objective assessment of the comportment of the taxpayer — and wilful blindness — determined by reference to the taxpayer’s subjective state of mind — has a long history. Admittedly, it is, on occasion, a fine distinction and one that is not always clearly drawn. Nonetheless, Parliament is taken to have been cognizant of the distinction.
+[44] As suggested in Wynter, the word “knowingly” requires a determination of whether the Appellant had subjective knowledge that he was making a false statement in the Return or the Request when he signed those documents. The burden is on the Respondent to present evidence that establishes on a balance of probabilities that the Appellant knew he was making a false statement when he signed the Return and the Request.
+[45] As also suggested in Wynter, the subjective knowledge of the Appellant may be proven by evidence establishing on a balance of probabilities that the Appellant was wilfully blind as to whether the statements in the Return and the Request were false. This is a helpful clarification of the point that wilful blindness is used to attribute subjective knowledge to the Appellant and that wilful blindness and gross negligence are different legal concepts.
+[46] To establish wilful blindness, the evidence must prove on a balance of probabilities that the Appellant subjectively knew that the false statements in the Return and the Request were probably false but deliberately chose not to make further inquiries because he subjectively knew or strongly suspected that the inquiries would provide him with the knowledge that the statements were indeed false (see Sansregret v. The Queen, 1985 CanLII 79 (SCC), [1985] 1 S.C.R. 570 at 584, R. v. Jorgensen, 1995 CanLII 85 (SCC), [1995] 4 S.C.R. 55 at paragraphs 102 and 103 and Briscoe v. The Queen, 2010 SCC 13 (CanLII), [2010] 1 S.C.R. 411 at paragraphs 21 to 23). The wilful blindness test is summarized in Wynter as follows:
+[13] A taxpayer is wilfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids, the truth. The concept is one of deliberate ignorance: R. v. Briscoe, 2010 SCC 13 (CanLII) at paras. 23-24, [2010] 1 S.C.R. 411 (Briscoe); Sansregret at para. 24. In these circumstances, the doctrine of wilful blindness imputes knowledge to a taxpayer: Briscoe at para. 21. . . .
+[47] The subjective knowledge required for a finding of actual knowledge or wilful blindness refers to the actual or subjective knowledge of the person committing the prohibited act and not the objective or constructive knowledge of a reasonable person in the same circumstances (see, generally, Shand v. The Queen, 2011 ONCA 5 (CanLII) at paragraph 188 and Roks v. The Queen, 2011 ONCA 526 (CanLII) at paragraph 132).
+[48] Actual subjective knowledge and wilful blindness may be proven by direct evidence, by circumstantial evidence or by a combination of the two. The determination of whether there is actual subjective knowledge or wilful blindness must be made in light of all the circumstances. [Emphasis added]
+[49] The subjective nature of the wilful blindness standard versus the objective nature of the gross negligence standard means that conduct that contributes to a finding of wilful blindness may support a finding of gross negligence, but the converse is not necessarily true. For example, the fact that a reasonable person in the same circumstances would have made inquiries does not support a finding of wilful blindness but can support a finding of gross negligence. In Briscoe, the Supreme Court of Canada explains this distinction as follows:
+[24] Professor Don Stuart makes the useful observation that the expression “deliberate ignorance” seems more descriptive than “wilful blindness”, as it connotes “an actual process of suppressing a suspicion”. Properly understood in this way, “the concept of wilful blindness is of narrow scope and involves no departure from the subjective focus on the workings of the accused’s mind” (Canadian Criminal Law: A Treatise (5th ed. 2007), at p. 241). While a failure to inquire may be evidence of recklessness or criminal negligence, as for example, where a failure to inquire is a marked departure from the conduct expected of a reasonable person, willful blindness is not simply a failure to inquire but, to repeat Professor Stuart’s words, “deliberate ignorance”.
+[50] The subjective nature of the willful blindness standard also means that the personal attributes of the individual may be considered in determining whether the individual is willfully blind.
+[51] In contrast, the objective nature of the gross negligence standard means that the personal attributes of the individual are not relevant unless the individual establishes that he or she is incapable of understanding the risk the individual has failed to avoid (see R. v. Beatty, 2008 SCC 5 (CanLII), [2008] 1 S.C.R. 49 at paragraph 40). In R. v. Roy, 2012 SCC 26 (CanLII), [2012] 2 S.C.R. 60 at paragraph 38 the Court refers to this as the modified objective standard:
+. . . The modified objective standard means that, while the reasonable person is placed in the accused’s circumstances, evidence of the accused’s personal attributes (such as age, experience and education) is irrelevant unless it goes to the accused’s incapacity to appreciate or to avoid the risk . . . .
+[52] Although Roy addresses the criminal law standard of negligence, I see no reason to approach “gross negligence” under subsection 163(2) differently since the test under any negligence standard is whether the conduct in question departs from the objective standard of the reasonable person. Roy simply emphasizes that the relevant objective standard is that of the reasonable person in the same circumstances as the person whose conduct is in issue.
+[53] The risk that the Appellant must be capable of understanding in order for gross negligence to be established is the risk of failing to meet the obligation imposed on all taxpayers under Canada’s self-assessment system to prepare their income tax returns with honesty and integrity; in short, the risk of failing to meet the obligation not to commit a prohibited act. In R. v. Jarvis, 2002 SCC 73 (CanLII), [2002] 3 S.C. R. 757 the Supreme Court of Canada stated at paragraph 49:
+Every person resident in Canada during a given taxation year is obligated to pay tax on his or her taxable income, as computed under rules prescribed by the Act . . . . The process of tax collection relies primarily upon taxpayer self-assessment and self-reporting: taxpayers are obliged to estimate their annual income tax payable . . . and to disclose this estimate to the CCRA in the income return that they are required to file . . . .
+[See also: (Canada) National Revenue v. Thompson, 2016 SCC 21 (CanLII) at paragraph 31, [2016] 1 S.C.R. 381]
+[54] Accordingly, short of evidence establishing that the Appellant could not understand the obligation placed on him by Canada’s self-assessment income tax system not to commit a prohibited act, the words “under circumstances amounting to gross negligence” require a determination of whether the conduct of the Appellant represented a marked and substantial departure from the expected conduct of a reasonable person in the same circumstances as the Appellant. For there to be a finding of gross negligence, the conduct of the Appellant must reflect a high degree of negligence (Venne v. The Queen, 84 DTC 6247).
+[55] Importantly, the objective standard against which the conduct of the Appellant is measured does not vary according to the personal attributes of the Appellant or the actual knowledge of the Appellant. In all cases, the standard is the expected conduct of a reasonable person in the same circumstances as the Appellant. The question that must be addressed is this: To what degree, if any, has the conduct of the Appellant deviated from that objective standard?
+[56] A helpful albeit brief summary of the necessary departure from the objective standard of the reasonable person required for a finding of gross negligence is found in the recent judgment of the Supreme Court of Canada in Guindon v. Canada, 2015 SCC 41 (CanLII), [2015] 3 S.C.R. 3 where, at paragraph 60, the Court, in discussing the gross negligence standard described in Venne, adopts the following statement of the Tax Court of Canada from paragraph 23 of Sidhu v. The Queen, 2004 TCC 174 (CanLII):
+The burden here is not to prove, beyond a reasonable doubt, mens rea to evade taxes. The burden is to prove on a balance of probability such an indifference to appropriate and reasonable diligence in a self-assessing system as belies or offends common sense
+[23] There is no fixed set of criteria for determining whether or not there is wilful blindness or gross negligence. Any relevant factor may be considered and there is a fair amount of overlap in what is relevant to either standard.
+[24] Justice Miller of this Court enumerated a useful list of matters to be considered in determining whether there is wilful blindness in Torres v. The Queen, 2013 TCC 380 at paragraph 65. [5] Among the matters to be considered are:
+…
+c) In determining willful blindness, consideration must be given to the education and experience of the taxpayer.
+d) To find willful blindness there must be a need or a suspicion for an inquiry.
+e) Circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights as I called it in the Bhatti decision, include the following:
+i) the magnitude of the advantage or omission;
+ii) the blatantness of the false statement and how readily detectable it is;
+iii) the lack of acknowledgment by the tax preparer who prepared the return in the return itself;
+iv) unusual requests made by the tax preparer;
+v) the tax preparer being previously unknown to the taxpayer;
+vi) incomprehensible explanations by the tax preparer;
+vii) whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others.
+f) The final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.
+IV. FACTS AND ANALYSIS RELATING TO THE PENALTY
+[25] The Appellant completed grade 12.
+[26] At the time of the hearing the appellant had been working for about seven years as a factory labourer for the Cooper Standard Company. Prior to that, including the year under appeal, he worked for a number of companies.
+[27] The appellant also testified that he had an unincorporated proprietorship that operated under the name Stoney’s Installations. Stoney’s started before 2009 and was still operating at the time of the hearing. Stoney’s installed windows and doors as a subcontractor. His role was to see to it that others properly installed the doors and windows. This work was generally done for D&D Glass. [6]
+[28] While the Appellant referred to Stoney’s as his business in the 2009 taxation year his main source of income was shown in a T4 [7] issued by a numbered company that the Appellant believes was D&D Glass. His return did not show any income from a proprietorship [8] . It would appear that D&D Glass viewed the Appellant as an employee.
+[29] Whether the Appellant was an independent contractor or an employee in relation to the work performed for D&D Glass has no impact on the issues here.
+[30] At the time of the hearing, the Appellant was vice president of the union at his employer. He was elected to the position and as vice president he was responsible for ensuring that the collective bargaining agreement was complied with. Sometimes he would replace the president of the union. There were approximately 50 members in the bargaining unit.
+[31] From the year 2000 to the year 2008 the Appellant had his tax return prepared by H&R Block. The Appellant was unsure how much he paid for the preparation of the tax return because he would have his tax refund discounted by H&R Block who would pay him immediately the discounted refund.
+[32] In 2009 the Appellant went back to H&R Block who filed his return.
+[33] Subsequently, he went to C&M Tax who prepared for him the statement of agent activities and the request for a loss carryback. [9] These two documents were sent to the Canada Revenue Agency.
+[34] When asked why he went to see C&M Tax to seek a loss carryback after he had already had his return filed by H&R Block, the appellant answered that it was because he was allowed to do that and he had learned about the loss carrybacks “because of the Internet and due diligence.” He further stated that he read some of the Income Tax Act. [10]
+[35] This is unlikely and I do not accept that the Appellant learned about loss carrybacks in this manner.
+[36] When asked what else he did that led him to go to C&M Tax, the Appellant said he was at a party where there was a long discussion of loss carrybacks which he participated in. Someone mentioned C&M Tax and he later went to see them.
+[37] When the appellant went to see C&M Tax he brought with him his T4s “so he could do the loss carryback.” [11] The Appellant testified that when he visited C&M he asked them a lot of questions. However, the only example he gave of his questions was that he asked why everyone did not claim a loss carryback. He did not remember the answer.
+[38] He did not go back to H&R Block to ask them to do a loss carryback because he did not think that they would do a loss carryback request.
+[39] The Appellant paid C&M Tax $1500 cash for preparing his loss carryback request. He agreed that he had always paid H&R Block less than $500 for their services; as I noted earlier the payments to H&R Block included payments for the service of tax discounting.
+[40] The Appellant signed the loss carryback request form and testified that it was his idea to add the word “per” before the signature of Mark Stone on page 2 of the request for loss carryback. [12]
+[41] The Appellant printed “MARK STONE” on the statement of agent activities that sets out the calculation of net loss of $81,371.85 claimed in the loss carryback request form. [13]
+[42] The Appellant agreed that he knew that he was claiming very significant refunds as a result of making the request for a loss carryback. He stated that he did not understand the numbers on the loss carryback form.
+[43] The Appellant agreed that he did not get a second opinion from anyone regarding the request for a loss carryback prepared for him by C&M Tax.
+[44] As I said earlier there is clearly a false statement. Indeed, there is more than one; there is a nonexistent business of agent activities and there are nonexistent business losses that result from nonexistent expenses paid for work (subcontracts and labour).
+[45] The quantum of nonexistent expenses and nonexistent losses is very large in relation to the level of income of the appellant as reflected in the Appellant’s tax returns for the taxation years 2000 to 2010. [14]
+[46] Absent compelling evidence to the contrary, the logical inference that arises from a large claim of nonexistent expenses and the resulting of nonexistent losses is that the appellant had to be aware that they were non-existent.
+[47] Is there any such compelling evidence to displace the inference?
+[48] On the contrary, the evidence is inconsistent with the Appellant believing that he, or anyone else, received wages or payments for work from his fictional alter ego resulting in the claimed expenses and losses.
+[49] First, nothing in the Appellant’s evidence begins to suggest that he lacked the capacity to appreciate that the claimed expenses were non-existent.
+[50] Second, he never testified as to what goods or services were provided by this business. More broadly, the Appellant could provide no coherent explanation of what this agent activity business was all about.
+[51] Third, no supporting documentation demonstrated the existence and operation of the alleged business.
+[52] Fourth, while this business purportedly existed in 2009 the Appellant apparently was unaware of its existence during the year in question. He does not ask H&R Block about it when he goes to them to have his 2009 tax return prepared. He appears to have become aware of this business only later in 2010 after going to H&R Block.
+[53] Given the absence of compelling evidence to the contrary, I infer that the appellant knew that there was no agent business and that there were no expenses incurred for that business with the result that there could not be losses when he filed the Request for Loss Carryback Form together with a statement of agent activities. [15]
+[54] Given the false statements were made knowingly. In substance the appeal is without merit. [16]
+V. A PROCEDURAL TWIST
+[55] However, I must deal with the procedural twist I alluded to earlier. This relates to a small calculation error of less than $700 in the amount of the federal penalty. The Respondent concedes the amount. [17]
+[56] The Appellant appealed from a reassessment dated 7 June 2012. Subsequent to the confirmation of the reassessment by notice dated 10 April 2013, the Minister reassessed the Appellant on 21 May 2013. That reassessment was done to correct the calculation error and reduce the federal gross negligence penalty.
+[57] The Appellant, who was not represented by counsel, never amended his pleading to be an appeal from the later assessment.
+[58] In its Reply to the Notice of Appeal, the Minister took the position that the appeal should be allowed to reduce the penalty by the amount of the calculation error. The Minister also took the position that the 21 May 2013 reassessment was invalid because it was made after the normal reassessment period.
+[59] After the hearing, I requested further submissions from the parties regarding the 21 May 2013 reassessment. The Appellant sent a brief submission that did not address this issue.
+[60] The Respondent sent a submission in which it changed its position and argued that the 21 May 2013 reassessment was in fact valid.
+[61] In its submission the Respondent said it would consent to the Appellant amending his pleading; the Appellant, who was not represented by counsel, did not amend his pleading so as to appeal from the later reassessment.
+[62] The Respondent’s first argument in favour of the validity of the 21 May 2013 reassessment, as I understand it, can be summarized as follows: the assessment of the penalty is separate from the assessment of the amount of tax; as a result the normal reassessment period can only begin once there has been a first assessment of a penalty, something which, in this case, happened at a later date than the initial assessment.
+[63] While an assessment of penalty is a separate action from the assessment of tax, when one examines the scheme of the Income Tax Act it does not follow that the normal reassessment period for reassessing tax or for reassessing penalties could be different.
+[64] Subsection 152(1) in its opening lines says that the Minister shall examine the taxpayer’s return and assess tax, interest and penalties [18] and subsection 152(2) requires that the Minister send a notice of assessment advising the taxpayer of the result of the Minister’s examination.
+[65] Subsection 152(4) then limits the ability to reassess after the taxpayer’s normal reassessment period. “Normal reassessment period” is a defined term and the start of that period is triggered by the sending of a notice of original assessment or an original notification that no tax is payable. [19]
+[66] It is quite clear that the text and the scheme of the Act are intended to trigger the beginning of the normal reassessment period from the time of sending of either a first notice of assessment or a first notice that no taxes are payable. It makes no difference whether or not the first notice assessed penalties.
+[67] Accordingly, I do not agree the Respondent’s submission on this point.
+[68] In the alternative, the Respondent submits that the 21 May 2013 reassessment is valid and not out of time because, on the evidence, there was a misrepresentation and that misrepresentation was clearly the result of neglect, carelessness or wilful default.
+[69] Given the evidence and my findings, I agree. [20] The 21 May 2013 reassessment is valid. As a result the prior reassessment of 7 June 2012 no longer exists.
+[70] There are two possible ways that I can deal with this.
+[71] Before doing so I would observe that as a practical matter the outcome for the Appellant is unaffected by how I approach this aspect of the case. [21]
+[72] Given that I am satisfied that the later reassessment is valid, the first approach I could take would be that, in the absence of an amendment, the appeal is against an assessment that no longer exists and should be dismissed. The practical result would be that, given the validity of the 21 May 2013 reassessment, the Appellant has the benefit of the concession made by the Respondent. I note that the Respondent has not sought to have the appeal dismissed or this basis.
+[73] The second approach would be for me, on my own motion, to amend the appeal to be against the later assessment. Again if I take this option the result would be the same since the 21 May 2013 reassessment incorporates the concession made by the Respondent.
+[74] The Respondent submitted that I should not take this second approach in the General Procedure.
+[75] There is merit in the position taken by the Respondent; the rules of this court as well as the law of evidence and procedure more generally are there for good reason and have been developed over time in order to ensure fair trials. Having said that, procedure exists to serve justice. [22] In circumstances where, as here, the evidence and argument would not have been different, the Respondent could not be prejudiced and was prepared to consent to such a motion and where it could only be beneficial to the Appellant to amend, I am satisfied that it would also be appropriate for me to amend the appeal on my own motion.
+[76] In my view, the second approach is preferable and I opt for it. The appeal is amended to be an appeal against the 21 May 2013 reassessment of the 2009 taxation year.
+[77] Given my substantive findings set out above, the appeal will be dismissed.
+VI. SIZE OF THE PENALTY
+[78] As best I can determine based on what I have before me the federal and provincial penalty is above 50% of the tax that would have been avoided had the CRA not reassessed.
+[79] I have no power to alter the amount of the penalty. [23]
+[80] The Appellant may wish to consider making an application for a reduction of the penalty and interest under the taxpayer relief provisions contained in subsection 220(3.1) of the Income Tax Act. This Court has no role to play in relation to those provisions [24] .
+VII. CONCLUSION
+[81] In conclusion, the appeal is dismissed with costs. If the parties are unable to agree on costs within 60 days of this judgment, they may make submissions in writing to the Court on the matter of costs.
+Signed at Ottawa, Canada, this 7th day of November 2019.
+“G. Jorré”
+Jorré J.
+CITATION:
+2019TCC253
+COURT FILE NO.:
+2014-1745(IT)G
+STYLE OF CAUSE:
+MARK STONE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+January 22, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+November 7, 2019
+TRANSCRIPT RECEIVED:
+February 5, 2019
+ADDITIONAL SUBMISSIONS RECEIVED:
+March 8 and 12, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sonia Bellerive
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In addition, I note that the appeal began with an application to extend the time to file a Notice of Appeal with respect to the 2009 taxation year - see the cover page of the “Application to Extend Time - General Procedure”. The Minister then consented to an extension of time for the 2009 taxation year and the Court issued a time extension order for the 2009 taxation year, only. However, when one looks to the draft Notice of Appeal that was attached to the application one sees on the first page in the second paragraph under (b) a statement that this is an appeal from Notices of Reassessment dated 7 June 2012 for the 2006, 2007, 2008 and 2009 taxation years. This draft Notice of Appeal became the actual Notice of Appeal.
+In the absence of a time extension with respect to any other year, the only year properly in front of me is the 2009 taxation year; the appellant did not seek to appeal the time extension order. I also note that it may well be that there could not have been a time extension for the other three years given that the notice of objection in evidence is limited to the 2009 taxation year, see tab 7 of exhibit R-1.
+Given my conclusion with respect to the substance of the matter, there would be no change to the substantive outcome even if those three additional years were in front of me.
+[2] See paragraph 16 of the Reply of the Notice of Appeal.
+[3] That loss is computed on the statement of agent activities where in producing the result it is claimed that $84,871.91 was paid for subcontracts and labour, presumably what the Appellant referred to as wages in testifying. See tab 2 to of exhibit R-1.
+[4] See also paragraphs 4 to 45 of the decision of Justice D’Auray in Bradshaw v. Queen, 2019 TCC 1.
+[5] The decision was confirmed by the Federal Court of Appeal in Strachan v The Queen, 2015 FCA 60.
+[6] It is not clear to me from the appellant’s testimony whether this work was always done for D&D or mostly done for D&D.
+[7] Found at the first page of tab 3 of exhibit R-1.
+[8] See the “Option C” print out at pages 22 to 24 of tab 4 of exhibit R-1. The only business income or loss shown is the $81,000 loss that is the subject of this appeal.
+[9] See page 56 of the transcript of the hearing.
+[10] See the transcript from line 24 on page 57 to line 23 on page 58.
+[11] see page 60 of the transcript. He had previously contacted the CRA to obtain his T4s for the last 10 years; that was the only reason he contacted the CRA. See page 72 of the transcript.
+[12] See tab 1 of exhibit R-1 and pages 63 and 64 of the transcript.
+[13] See tab 2 of exhibit R-1 and page 52 of the transcript.
+[14] See the “option C” print outs for those tax years at tab 4 of exhibit R-1.
+[15] I would just note that initially as I started the analysis I expected to follow an approach broadly similar to that in Torres v. the Queen (see paragraph 24 above) in order to determine whether or not there was wilful blindness. However, as I consider the evidence I realized that on the facts of this case it was not necessary. Here, the very nature and scale of the misstatement, in the absence of a compelling explanation, leads directly to the inference of knowledge.
+[16] In the course of the hearing and in his Notice of Appeal the Appellant raised a number of meritless arguments. I will mention some of them very briefly.
+Certain provisions of the Canadian Charter of Rights and Freedoms were raised without any real explanation of how they could apply: I am unable to see their pertinence. In any event, no notice of the constitutional question to the Attorneys General was given as required by section 19.2 of the Tax Court of Canada Act.
+The Appellant made some sort of argument that he had been deprived of due process contrary to the subsection 1 (a) of the Canadian Bill of Rights. The argument appears to be related to some of his salary having been seized at some point; such a seizure may have been related to his failure to appeal to this court in a timely way. In any event, given his right to appeal his reassessment to this Court I fail to see how there can be any deprivation of the Appellant's right not to be deprived of his enjoyment of property except by due process of law.
+Finally, the Appellant argued, as I understand it, that, because the losses and loss carryback were not challenged in the assessments of 2009 and the three prior years made after the loss carrybacks request was received, the Minister of National Revenue had approved the losses and could not take back such approval. Again, it is well settled that an assessment does not preclude subsequent reassessments.
+[17] The specific amount of the concession is a reduction of the federal penalty by $676.51. The calculation of this amount is found at tab 14 of exhibit R-1. On the same page there is a calculation of the provincial gross negligence penalty; the calculation concludes that the provincial penalty should have been $151.66 higher. One sees from exhibit A-6 that the 21 May 2013 reassessment reduced the penalties by $524.85. This is exactly the result of subtracting the $151.66 provincial increase from the $676.51 federal decrease. I have no jurisdiction with respect to the provincial penalty.
+[18] In addition, if paragraphs (a) or (b) are applicable further determinations may be required.
+[19] See subsection 152(3.1) of the Act.
+[20] I see nothing in the text or scheme of the Act to suggest that, once the conditions of subparagraph 152(4)(a)(i) are met, the reassessment power contained therein cannot be used to further reassess in order to correct an error in the computation of the penalty resulting from the misrepresentation attributable to neglect, carelessness or wilful default.
+[21] If I were not persuaded of the validity of the 21 May 2013 reassessment, then I would have allowed the appeal but only to the extent of the small concession made by the Respondent.
+[22] This is reflected, for example, in Rules 4 and 9 of the Tax Court of Canada Rules(General Procedure).
+[23] However, as I stated in a recent judgment Wardlaw v. HMTQ, 2019 TCC 199, perhaps Parliament may wish to consider the quantum of the penalty, particularly where a loss carryback is claimed.
+[24] The Appellant may wish to obtain from the Canada Revenue Agency publication IC07-1R1 entitled Taxpayer Relief Provisions. The publication discusses the CRA’s policy with respect to such applications and when it may consider granting relief. The appellant may also wish to obtain form RC 4228, Request for Taxpayer Relief.

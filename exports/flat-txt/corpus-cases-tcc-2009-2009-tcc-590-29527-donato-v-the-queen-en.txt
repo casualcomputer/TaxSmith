@@ -1,0 +1,189 @@
+Title: Donato v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29527/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-590-29527-donato-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-11-13
+
+# Donato v. The Queen
+
+- Citation: 2009 TCC 590
+- Decision date: 2009-11-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6315, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donato v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-13
+Neutral citation
+2009 TCC 590
+File numbers
+2007-2495(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2007-2495(IT)G
+2008-1085(IT)G
+BETWEEN:
+ANDREW A. DONATO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 13 and 14, 2009 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+William I. Innes
+Douglas B.B. Stewart
+Counsel for the Respondent:
+Craig Maw
+Diana Aird
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made on July 30, 2007 under the Income Tax Act for the 1999 taxation year is allowed, and the assessment is vacated.
+The appeal with respect to an assessment made under the Act for the 2001 taxation year is dismissed.
+Signed at Toronto, Ontario this 13th day of November 2009.
+“J. M. Woods”
+Woods J.
+Citation: 2009 TCC 590
+Date: 20091113
+Dockets: 2007-2495(IT)G
+2008-1085(IT)G
+BETWEEN:
+ANDREW A. DONATO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Andrew Donato, is a cartoonist and artist who is well-known for his editorial cartoons in the Toronto Sun. The appeal relates to charitable donations of cartoons for which tax credits are claimed based on the appraised fair market value of the works. The periods at issue are the 1999 and 2001 taxation years.
+[2] The respondent does not dispute that charitable donations were made by the appellant for the appraised amounts. The dispute does not concern the tax credits. Rather, the respondent submits that the appellant realized taxable capital gains when the works were gifted to charities.
+[3] The amount of taxable capital gains that are at issue are: (1) $197,156 for the 1999 taxation year, and (2) $96,331 for the 2001 taxation year.
+[4] In addition to this issue, there is a statute-bar issue in reference to the 1999 taxation year.
+[5] For the reasons below, I have concluded that the Minister is precluded by the statute-bar provisions from assessing any capital gain for the 1999 taxation year. As for the 2001 taxation year, I have concluded that the assessment is correct. The basis for this conclusion is that the donated property was not personal-use property of the appellant.
+Factual background
+[6] The appellant was one of the founders of the Toronto Sun newspaper, which began operations in 1971. Initially he was employed as the art director, and beginning around 1975 he began to produce five editorial cartoons a week. The cartoons were on topical subjects, and generally related to matters that were being reported by the newspaper.
+[7] In 1997, the appellant ceased to be employed by the owner of the newspaper (“Sun Media”), and contracted on a freelance basis to provide “services” for Sun Media consisting of five cartoons weekly. The appellant was paid $2,000 per week for the 46 weeks in which his services were provided. This equates to $400 per cartoon.
+[8] The appellant is a skilled artist and he draws the cartoons the old-fashioned way on paper. Most of the cartoons are done in black and white, but a coloured cartoon is produced once a week.
+[9] At all relevant periods, the appellant retained copyright in the works, and possession. The main right that Sun Media had was a right of first publication.
+[10] Sun Media also had a limited right to syndicate the cartoons, in which case the proceeds were to be split with the appellant. This was an occasional occurrence that generated a small amount of income.
+[11] After publication, the works were generally retained by the appellant and not held for sale. The appellant had a practice of giving a cartoon, if requested, to the person who had been the subject of a caricature. The appellant would charge a modest amount for repeat requests, which generated a very small amount of additional income.
+[12] In the 1980s, the appellant met a representative of the National Archives of Canada. Through that connection, he decided to make a charitable donation of a large portion of his cartoon collection to that institution. Other cartoonists did the same.
+[13] Since the mid-1990s, the appellant has continued to make donations of his cartoons, but through gifts to universities and other educational institutions. Mr. Rosen of Museum Services made the arrangements for these donations, including arranging for appraisals.
+[14] This appeal concerns a donation made in each of the 1999 and 2001 taxation years.
+[15] The 1999 donation consisted of 405 cartoons given to Touro College in New York City. The cartoons were individually appraised at varying amounts averaging around $700 each. The total appraised value was $292,300, and a tax receipt was issued by Touro College for this amount.
+[16] The 2001 donation was a gift of 305 cartoons to Brock University in St. Catharines, Ontario. These cartoons were similarly appraised for a total value of $193,662.50, and a corresponding tax receipt was issued by Brock University.
+The rectification order
+[17] In 2005, in response to proposed assessments, a rectification order was sought and obtained from the Ontario Superior Court of Justice in relation to the donations. It is useful for the purpose of this appeal to briefly describe some of the background to this.
+[18] The saga begins in the mid-1990s, when the appellant decided to begin gifting his cartoons to his spouse, Dianne Jackson-Donato. It was contemplated that the donations would be made by Mrs. Jackson-Donato, and not the appellant.
+[19] These gifts were made based on the advice of the appellant’s long-time accountant, Gerald Prenick. Also on the advice of the accountant, it was decided that the cartoons would be kept at the Donato residence as opposed to the offices of the Toronto Sun where they had previously been kept.
+[20] Testimony was provided as to non-tax reasons for these arrangements. Notwithstanding that there may have been some non-tax benefit to having the cartoons kept at home, it seems clear from the evidence as a whole that the main reason that gifts were made to Mrs. Jackson-Donato was to ensure that the dispositions to charities would qualify for the favourable tax rules applicable to personal-use property. Mr. Prenick did not acknowledge this in his testimony, however. I found the testimony of all the witnesses to be unconvincing on this point, but nothing turns on it in this appeal.
+[21] For the taxation years at issue, the appellant executed deeds of gift in reference to the donated works, and Mrs. Jackson-Donato executed deeds of gift to educational institutions, for which she received tax receipts.
+[22] Mr. Prenick’s accounting firm prepared the relevant income tax returns for the Donatos, which reflected the above transactions. As I understand it, tax credits were claimed first by Mrs. Jackson-Donato to the extent that she could use them, the balance were then claimed by the appellant to the extent that he could use them, and the remaining balance was carried over to other years.
+[23] The sharing of the tax credits in this manner was based on what Mr. Prenick understood to be the policy of the Canada Revenue Agency (CRA).
+[24] On October 6, 2003, following an audit of the appellant, the CRA proposed to issue assessments for the 1999 and 2001 taxation years. Two adjustments were proposed (Ex. A-1, Tab 12).
+[25] The first was an income inclusion to the appellant on the basis that the cartoons were inventory. It was submitted by the CRA that business income was realized when the cartoons were gifted to Mrs. Jackson-Donato.
+[26] The second proposed adjustment was a disallowance of the charitable donation tax credits to the appellant. The reason given for the disallowance was that the CRA policy regarding sharing tax credits between spouses did not apply in these circumstances.
+[27] The first proposed adjustment was later modified slightly so that the income would be assessed as capital gains and not business income. The amounts of tax and interest would have remained very significant, however.
+[28] In response to what the appellant must have perceived as being a terrible outcome to the audit, and based on legal advice, the Donatos decided to seek a rectification order which would declare that the gifts from the appellant to Mrs. Jackson-Donato were a nullity, so that the charitable donations were actually made by the appellant. This would enable the appellant to use the tax credits.
+[29] The CRA did not oppose the application and an order was issued by the Ontario Superior Court of Justice on July 5, 2006.
+[30] The order provides in part:
+1. THIS COURT DECLARES THAT, a mistake was made when Donato gifted works of art to his wife, Mrs. Donato, […], which works of art were subsequently donated by Mrs. Donato to Touro College and Brock University (the “Recipients”), in return for receipts confirming these donations […] (the “Receipts”);
+2. THIS COURT ORDERS THAT, the works of art contained within the Deeds of Gifts, that were donated by Mrs. Donato to the Recipients as reflected by the Receipts, be deemed as though they were donated directly by Donato to the Recipients, and that the Receipts be treated as such; […].
+Subsequent reassessments
+[31] Subsequent to the issuance of the rectification order, reassessments were issued to the appellant for the 1999 and 2001 taxation years. It is these assessments that are the subject of this appeal.
+[32] In general, the reassessments allowed the charitable donation tax credits to the appellant in accordance with the rectification order, but they also included taxable capital gains in respect of the donations.
+Analysis re the 2001 taxation year
+[33] In the 2001 taxation year, 305 cartoons were donated to Brock University at an appraised value of $193,662.50.
+[34] The only question to be determined is the amount of the capital gain, if any, that was realized by the appellant as a result of his donation to Brock University.
+[35] It is not in dispute that the donated property was capital property to the appellant, and that the donation resulted in a deemed disposition at fair market value.
+[36] A central issue is whether the donated property was personal-use property of the appellant.
+[37] In general, a disposition of personal-use property, as defined in the Act, will not give rise to a capital gain as long as the property, or properties if in a set, are disposed of for proceeds no greater than $1,000.
+[38] The relevant provisions of the Act are subsections 46(1) and (3) and the definition of “personal-use property” in section 54. The relevant parts are reproduced below.
+"personal-use property" of a taxpayer includes
+(a) property owned by the taxpayer that is used primarily for the personal use or enjoyment of the taxpayer or for the personal use or enjoyment of one or more individuals each of whom is
+(i) the taxpayer,
+(ii) a person related to the taxpayer, or
+(iii) where the taxpayer is a trust, a beneficiary under the trust or any person related to the beneficiary, […]
+46.(1) Where a taxpayer has disposed of a personal-use property […] of the taxpayer, for the purposes of this subdivision
+(a) the adjusted cost base to the taxpayer of the property immediately before the disposition shall be deemed to be the greater of $1,000 and the amount otherwise determined to be its adjusted cost base to the taxpayer at that time;
+and
+(b) the taxpayer's proceeds of disposition of the property shall be deemed to be the greater of $1,000 and the taxpayer's proceeds of disposition of the property otherwise determined.
+46.(3) For the purposes of this subdivision, where a number of personal-use properties of a taxpayer that would, if the properties were disposed of, ordinarily be disposed of in one disposition as a set,
+(a) have been disposed of by more than one disposition so that all of the properties have been acquired by one person or by a group of persons not dealing with each other at arm's length, and
+(b) had, immediately before the first disposition referred to in paragraph 46(3)(a), a total fair market value greater than $1,000,
+the properties shall be deemed to be a single personal-use property and each such disposition shall be deemed to be a disposition of a part of that property.
+[39] For clarity, I would mention that effective for property acquired after February 27, 2000 the personal-use property rules are inapplicable to property that has been acquired as part of a “donation arrangement” (subsection 46(5)). This provision has no application here.
+[40] The appellant submits that the donated property was personal-use property, that each property had a fair market value less than $1,000, and that the donated property was not a set. As such, it is submitted that no capital gain was realized when the property was donated by the appellant to Brock University.
+[41] In determining whether the cartoons are personal-use property, the relevant inquiry is whether the cartoons were used primarily for the personal use or enjoyment of the appellant or his spouse.
+[42] The conclusion that I have reached is that the property donated to Brock University in 2001 was not personal-use property of the appellant.
+[43] The creation of the cartoons by the appellant was for the purpose of fulfilling his contractual commitment to Sun Media to provide a daily cartoon for use in its newspaper. This purpose is commercial rather than personal.
+[44] Over the years, a few of the cartoons were subsequently used for personal purposes. These uses included: gifts to relatives or friends, the display of a few cartoons in the home, a single use by the Donatos in a trivia type game with friends in their home, and trading cartoons with other cartoonists for their work. There was very little, if any, evidence linking these uses to cartoons that were donated in 2001, and in any event the personal use was quite minor.
+[45] It is perhaps worth mentioning that at the present time the Donatos have a hanging system in the home whereby cartoons that are displayed can be changed relatively easily and inexpensively. This system was not in use until after the period at issue. At the time, cartoons that were displayed in the home were generally framed.
+[46] The main argument of the appellant was that the commercial exploitation of the cartoons involved an intellectual property right, a copyright. It was not this property that was donated to Brock University. It was the tangible works of art that were donated, and the two types of properties are separable, it is submitted.
+[47] I agree with several aspects of this submission. In particular, I accept that the copyright is a separable right from the tangible art work. I also accept that the appellant retained the copyright when the works were donated to Brock University. Further, I accept that the Toronto Sun was given only a right to publish.
+[48] The problem that I have with the appellant’s submission is that it misses the essential issue, which is to determine the use of the donated property.
+[49] The term “used” in the definition of personal-use property has a broad meaning. According to the Concise Oxford English Dictionary, eleventh edition, one of the primary meanings is: “take, hold, or deploy as a means of achieving something.”
+[50] Based on the evidence, the tangible works of art were used in connection with the Sun Media contract, and this was the primary use of this property. Whether the appellant also used intellectual property rights is not the appropriate question.
+[51] It is clear that the drawings created by the appellant were prepared for, and were actually used in, fulfilling the appellant’s contract. Whether the reproduction of the cartoons was done by the appellant or someone else does not matter. The drawings were created for this purpose, and they were actually used in the process of fulfilling that contract.
+[52] In light of this conclusion, it is not necessary that I consider the respondent’s alternative argument that the minimum $1,000 adjusted cost base applicable to personal-use property should be allocated among the cartoons on the basis that they are a set.
+[53] It is also not necessary that I consider a further alternative argument by the respondent that the collection of cartoons that were donated in 2001 is a single property, with an adjusted cost base of $1,000.
+[54] Although I do not propose to consider the merits of this submission, I would briefly comment concerning an objection in relation to it. Counsel for the appellant strenuously objected to this argument being made on the ground that it had not been raised in the pleadings.
+[55] The basis for the respondent’s argument is the following comment in The Queen v. Nash, 2005 FCA 386, 2005 DTC 5696, at paragraph 36:
+[36] The issue of the application of the personal use property provisions of section 46 of the Income Tax Act do not arise. The property acquired and disposed of was, in each case, a group of prints. The cost of acquisition and the fair market value in the case of Ms. Quinn were the same. Ms. Tolley's cost of acquisition was $8,025 and the fair market value was $8,625. The cost of Mr. Nash's acquisition was $8,667 and the fair market value was $9,315. As the cost of acquisition and the fair market value all exceed $1,000 for Ms. Tolley and Ms. Quinn, the personal use property provisions do not affect the capital gain realized by them. (Emphasis added.)
+[56] I would agree with counsel for the appellant regarding this objection. Counsel for the respondent submits that the issue had been fairly raised in the reply, but I do not agree.
+Analysis re the 1999 taxation year
+[57] The analysis above would apply equally to the donation made in the 1999 taxation year, provided that the assessment is not statute-barred.
+[58] The relevant assessment was made on July 30, 2007, which is beyond the normal reassessment period.
+[59] The respondent submits that the taxable capital gain for the 1999 taxation year can be reassessed after the normal reassessment period because the failure of the appellant to report this gain on the income tax return constituted a misrepresentation due to neglect, carelessness or wilful default (Reply, para. 12). The relevant provision is s. 152(4)(a)(i) of the Act.
+[60] The main thrust of the argument is that the attribution rules require the appellant to recognize the taxable capital gain that was realized when Mrs. Jackson-Donato executed deeds of gift to Touro College.
+[61] The respondent has the onus with respect to this issue and for this purpose Mr. Prenick was issued a subpoena to attend the hearing. Although his testimony was unsatisfactory in many ways, I accept his statement that a capital gain was not reported because the donated property was thought to be personal-use property.
+[62] This was not an unreasonable view to take in preparing the 1999 income tax return. At that time, Mr. Prenick would reasonably have thought that the cartoons were owned by Mrs. Jackson-Donato. She had not used the donated property for a commercial purpose, as the appellant had done.
+[63] Even if Mrs. Jackson-Donato acquired the cartoons only for the purpose of donating them to Touro University, it would be a reasonable position to take that such property was personal-use property to her. Subsequent to the relevant time, this conclusion was accepted by former Chief Justice Bowman in Klotz v. The Queen, 2004 TCC 147, 2004 DTC 2236 (aff’d 2005 FCA 158, 2005 DTC 5279), at para. 61-67.
+[64] That the ownership of the donated property was in error, as evidenced by the rectification order, was not foreseeable at the time. When the 1999 income tax returns were prepared, neither the appellant nor Mr. Prenick would have thought that the appellant owned the donated property at the time of the donation.
+[65] The respondent submits that the filing position was not supportable because the donated property was only one property that had a fair market value greatly in excess of $1,000. This property, it was submitted, was a group of cartoons.
+[66] The genesis of the respondent’s position is a comment by Rothstein J.A. in The Queen v. Nash, 2005 FCA 386, 2005 DTC 5696, reproduced above. This case was decided long after the 1999 tax return was filed. It certainly was not unreasonable to take a different view at the relevant time.
+[67] In my view, there was no neglect, carelessness, or wilful default on the part of the appellant in failing to report the taxable capital gain in his 1999 income tax return. The Minister is precluded from assessing tax with respect to this item after the normal reassessment period.
+Disposition
+[68] In light of these findings,
+(a) the appeal with respect to the 2001 taxation year will be dismissed, and
+(b) the appeal with respect to the 1999 taxation year will be allowed, and the assessment made on July 30, 2007 will be vacated.
+[69] The appellant has requested an opportunity to make written submissions on costs. In light of this request, I would direct that each party file written submissions with the Registry on or before December 4, 2009.
+[70] Finally, I wish to comment that I appreciated a chart that was included with the appellant’s written submissions. The chart succinctly set out in chronological order the main transactions and events that were relevant in this appeal. The chart was of great assistance and much appreciated.
+Signed at Toronto, Ontario this 13th day of November 2009.
+“J. M. Woods”
+Woods J.
+CITATION: 2009 TCC 590
+COURT FILE NO.: 2007-2495(IT)G and 2008-1085(IT)G
+STYLE OF CAUSE: ANDREW A. DONATO and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: July 13 and 14, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: November 13, 2009
+APPEARANCES:
+Counsel for the Appellant:
+William I. Innes
+Douglas B.B. Stewart
+Counsel for the Respondent:
+Craig Maw
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name: William I. Innes
+Firm: Fraser Milner Casgrain LLP
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

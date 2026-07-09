@@ -1,0 +1,275 @@
+Title: Wolf v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/311063/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-84-311063-wolf-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-05-31
+
+# Wolf v. The Queen
+
+- Citation: 2018 TCC 84
+- Decision date: 2018-05-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4693, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wolf v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-05-31
+Neutral citation
+2018 TCC 84
+File numbers
+2015-1745(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1745(IT)G
+BETWEEN:
+LAWRENCE WOLF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 12, 2017, at Montreal, Quebec.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Anne-Marie Boutin
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2012 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 31st day of May 2018.
+“Sylvain Ouimet”
+Ouimet J.
+Citation: 2018 TCC 84
+Date: 20180531
+Docket: 2015-1745(IT)G
+BETWEEN:
+LAWRENCE WOLF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Ouimet J.
+I. INTRODUCTION
+[1] This is an appeal by Lawrence Wolf (“Mr. Wolf”) from an assessment made by the Minister of National Revenue (the “Minister”) on the basis that Mr. Wolf’s Canadian-source income for his 2012 taxation year was taxable in Canada.
+[2] During the 2012 taxation year, Mr. Wolf was a citizen and resident of the United States of America (the “US”). During that year, Mr. Wolf earned CAD$26,244 of income in Canada from the provision of services to Bombardier Inc. In the United States, Mr. Wolf earned an amount of US$233,197 of business income through his membership interest in Wolfbend LLC (“Wolfbend”), a US limited liability company. Through that membership, during the same year, Mr. Wolf also earned US$46,143 in royalties.
+[3] The Minister determined that, pursuant to subparagraph 9(a) of Article V of the Convention Between Canada and the United States of America With Respect to Taxes on Income and on Capital (the “Convention”), [1] Mr. Wolf was deemed to have provided services to Bombardier Inc. through a permanent establishment in Canada. Consequently, the Minister concluded that, pursuant to paragraph 1 of Article VII of the Convention, the amount of CAD$26,244 earned by Mr. Wolf in Canada was taxable in Canada.
+[4] Mr. Wolf testified at trial. The Respondent called no witnesses.
+II. ISSUE
+[5] The issue in this appeal is as follows:
+Was the amount of CAD$26,244 earned by Mr. Wolf in Canada taxable in Canada?
+[6] To answer this question, the Court will determine whether, pursuant to subparagraph 9(a) of Article V of the Convention, Mr. Wolf is deemed to have provided services to Bombardier Inc. through a permanent establishment in Canada.
+III. RELEVANT LEGISLATIVE PROVISIONS
+[7] The relevant legislative provisions are as follows:
+Convention Between Canada and the United States of America With Respect to Taxes on Income and on Capital
+Article V
+. . .
+9. Subject to paragraph 3, where an enterprise of a Contracting State provides services in the other Contracting State, if that enterprise is found not to have a permanent establishment in that other State by virtue of the preceding paragraphs of this Article, that enterprise shall be deemed to provide those services through a permanent establishment in that other State if and only if:
+(a) those services are performed in that other State by an individual who is present in that other State for a period or periods aggregating 183 days or more in any twelve‑month period, and, during that period or periods, more than 50 percent of the gross active business revenues of the enterprise consists of income derived from the services performed in that other State by that individual; or
+. . .
+Article VII
+Business Profits
+1. The business profits of a resident of a Contracting State shall be taxable only in that State unless the resident carries on business in the other Contracting State through a permanent establishment situated therein. If the resident carries on, or has carried on, business as aforesaid, the business profits of the resident may be taxed in the other State but only so much of them as are attributable to that permanent establishment.
+Income Tax Act
+PART XVII — Interpretation
+248 (1) Definitions — In this Act,
+. . .
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment;
+. . .
+Income Tax Conventions Interpretation Act
+. . .
+Interpretation
+Meaning of undefined terms
+3 Notwithstanding the provisions of a convention or the Act giving the convention the force of law in Canada, it is hereby declared that the law of Canada is that, to the extent that a term in the convention is
+(a) not defined in the convention,
+(b) not fully defined in the convention, or
+(c) to be defined by reference to the laws of Canada,
+that term has, except to the extent that the context otherwise requires, the meaning it has for the purposes of the Income Tax Act, as amended from time to time, and not the meaning it had for the purposes of the Income Tax Act on the date the convention was entered into or given the force of law in Canada if, after that date, its meaning for the purposes of the Income Tax Act has changed.
+IV. FACTS
+A. Context
+[8] Mr. Wolf is an aerospace engineer who graduated from Stony Brook University in the state of New York in 1980. Ever since, Mr. Wolf has worked as an engineer in the aircraft manufacturing industry and developed expertise in designing fuel systems for aircraft. [2]
+[9] From 1990 to 2012, Mr. Wolf worked as a consultant for Bombardier Inc. on an ad hoc basis. In 1994, while working for Bombardier Inc., he invented a fuel line system for aircraft. [3] Bombardier Inc. patented the invention (the “Patent”) and transferred it to Mr. Wolf on the condition that Bombardier Inc. retain a free licence to use it. Mr. Wolf has since used the Patent to earn income. [4]
+(1) Mr. Wolf’s Commercial Activity in Canada
+[10] During the 2012 taxation year, Mr. Wolf provided engineering services to Bombardier Inc. at its Montreal facility. Mr. Wolf did not have a direct contractual relationship with Bombardier Inc. He was hired as an independent contractor for TDM Technical Services, a temporary employment agency, to assist Bombardier Inc. in the designing of fuel lines. [5] Consequently, Mr. Wolf was paid by TDM Technical Services and not by Bombardier Inc. [6]
+[11] Mr. Wolf provided services to Bombardier Inc. on a part-time basis. In 2012, he was present in Canada from the start of the year until August 10. [7] On average, he provided 3.46 hours of engineering services to Bombardier Inc. for each day that he worked. [8] In doing so, he earned CAD$26,244 of income at an hourly rate of CAD$66.95. [9]
+(2) Mr. Wolf’s Commercial Activity in the US
+[12] On September 15, 2005, Mr. Wolf and Davis Aircraft Products Company, Inc. (“Davis Aircraft Inc.”) entered into a Manufacturing & License Agreement. On the same day, an Operating Agreement was entered into by Mr. Wolf, his brother, and members of the Davis family. [10]
+[13] Under the terms of the Manufacturing & License Agreement, Mr. Wolf licensed the Patent to Davis Aircraft Inc. The parties combined their expertise to earn profits through the sale of fuel lines designed and manufactured using the Patent and through the sublicensing of the Patent to aircraft manufacturers based in the US. [11] The profits from the sales of fuel lines and from the sublicensing of the Patent would then be paid to Wolfbend. [12]
+[14] Wolfbend was established for the purpose of collecting profits earned under the Manufacturing & License Agreement between Mr. Wolf and Davis Aircraft Inc. and allocating those profits to its members. [13] Mr. Wolf, his brother, and individuals of the Davis family made up the members of Wolfbend, a limited liability company (“LLC”) incorporated under the law of the state of New York.
+[15] The Operating Agreement described how the profits earned under the Manufacturing & License Agreement would be distributed among the members of Wolfbend and set out the rights and responsibilities of Wolfbend’s members, directors and officers, both with regard to the company and with regard to each other.
+[16] During the 2012 taxation year, Mr. Wolf’s share of the profits from sales of fuel lines by Davis Aircraft Inc. was US$233,197 and his share of the profits from the sublicensing of his Patent by Davis Aircraft Inc. was US$46,143. [14]
+V. PARTIES’ POSITIONS
+A. Mr. Wolf’s Position
+[17] Mr. Wolf acknowledged that the income he earned in Canada was earned directly, whereas the income he earned in the US was earned indirectly through his membership interest in Wolfbend. However, according to Mr. Wolf, both sources of income were related to the same enterprise that specializes in the design of fuel lines for aircraft.
+[18] Mr. Wolf drew this conclusion on the basis that the engineering work he performed in Canada and in the US was identical as he relied on the same patented technology, the same know-how and the same processes to design fuel lines for aircraft manufacturers. Therefore, Mr. Wolf argued, in accordance with the Federal Court of Appeal’s decision in Du Pont, [15] there was sufficient “interlacing and interdependence” between his Canadian and US activities for them to be considered part of the same enterprise. [16]
+[19] In addition, Mr. Wolf submitted that paragraph 6 of Article IV of the Convention applied to deem his portion of the profits paid by Wolfbend to be income earned directly by him. This, Mr. Wolf suggested, also had the effect of deeming Wolfbend’s commercial activity to be his activity. [17] Therefore, he argued, paragraph 6 of Article IV of the Convention applied to fiscally transparent entities such as partnerships such that, under US tax law and Canadian domestic tax law, income tax is assessed against the owners of the entity but not the entity itself. That said, Mr. Wolf accepted that, under Canadian law, Wolfbend was a corporation and not a fiscally transparent entity. He nonetheless argued that for the purposes of the Convention, paragraph 6 of Article IV is determinative. [18]
+B. The Respondent’s Position
+[20] The Respondent argued that Mr. Wolf’s US and Canadian commercial activities were related to two separate enterprises. The commercial activities of the first enterprise consisted in providing engineering services to Bombardier Inc. Those services were provided by Mr. Wolf acting in his personal capacity. The income earned by Mr. Wolf in Canada was thus earned by Mr. Wolf’s enterprise. According to the Respondent, the income Mr. Wolf earned in the US was earned through a separate enterprise. This enterprise was carried on by Wolfbend and consisted in selling fuel lines and sublicensing the Patent. As a result, Mr. Wolf merely participated in Wolfbend’s enterprise as one of its members. [19]
+[21] The Respondent argued that the Court should reject Mr. Wolf’s argument that, for the purposes of the Convention, Wolfbend is a fiscally transparent entity such that the LLC’s commercial activity is deemed to be Mr. Wolf’s commercial activity. The Respondent noted that Wolfbend is a legal entity distinct and separate from its members and argued that its legal form must be respected. The Respondent added that the New York’s Limited Liability Company Law, being the legislation under which Wolfbend was incorporated, expressly states that an LLC is a separate legal entity. [20] Similarly, the Operating Agreement provides that no member will be liable for any debts or obligations of Wolfbend solely by reason of being a member. [21]
+[22] The Respondent suggested that, should the Court accept Mr. Wolf’s argument based on paragraph 6 of Article IV of the Convention, the Court should nonetheless find that the Mr. Wolf’s US and Canadian commercial activities were related to separate enterprises since one person can have multiple enterprises.
+VI. ANALYSIS
+[23] The issue in this appeal is whether the income earned by Mr. Wolf in Canada was taxable in Canada.
+[24] Under paragraph 1 of Article VII of the Convention, when a US resident carries on a business through a permanent establishment in Canada, the business profits of the US resident that are attributable to the Canadian permanent establishment are taxable in Canada. Therefore, the Court must determine if the business profits earned by Mr. Wolf’s enterprise in Canada were attributable to a Canadian permanent establishment. Pursuant to paragraph 9 of Article V of the Convention, the income earned by Mr. Wolf’s enterprise may be deemed to be attributable to a Canadian permanent establishment. Subparagraph 9(a) of Article V of the Convention reads as follows:
+9. Subject to paragraph 3, where an enterprise of a Contracting State provides services in the other Contracting State, if that enterprise is found not to have a permanent establishment in that other State by virtue of the preceding paragraphs of this Article, that enterprise shall be deemed to provide those services through a permanent establishment in that other State if and only if:
+(a) those services are performed in that other State by an individual who is present in that other State for a period or periods aggregating 183 days or more in any twelve-month period, and, during that period or periods, more than 50 percent of the gross active business revenues of the enterprise consists of income derived from the services performed in that other State by that individual; or
+. . .
+[25] Under subparagraph 9(a), the income earned by Mr. Wolf’s enterprise in Canada will be deemed to be attributable to a Canadian permanent establishment if two conditions are satisfied:
+1. If the services provided by Mr. Wolf’s enterprise in Canada were performed by Mr. Wolf in Canada for a period or periods aggregating 183 days or more in any twelve-month period; and
+2. If, during the period or periods aggregating 183 days or more in any twelve-month period, more than 50 percent of the gross active business revenues of Mr. Wolf’s enterprise consisted of income derived from the services that Mr. Wolf’s enterprise performed in Canada.
+[26] Before deciding if the above conditions are satisfied, the Court must first consider whether paragraph 9 of Article V of the Convention applied to Mr. Wolf’s enterprise. In order to do so, the Court must determine whether, under the Convention, Mr. Wolf had an enterprise that performed services in Canada.
+A. Identifying Mr. Wolf’s Enterprise
+(1) Mr. Wolf’s Commercial Activity in Canada
+[27] The term “enterprise” is not defined in the Convention. Pursuant to section 3 of the Income Tax Conventions Interpretation Act, [22] the Court must therefore give the term the meaning it has under domestic law, except when the context requires otherwise. In the present appeal, because the context does not require otherwise, the Court has to give the term “enterprise” the meaning it has for the purposes of the Income Tax Act (“ITA”). [23]
+[28] When the ITA does not provide a definition for a term, the Court turns to case law for guidance. While there is no Canadian jurisprudence specifically addressing the interpretation of the term “enterprise” found in paragraph 9 of Article V of the Convention, the parties referred the Court to the McMahon [24] decision. Even though that decision dates back to 1959 and concerns the 1942 Convention, [25] the Court believes it is still relevant. In reaching its decision, the Exchequer Court stated that the word “enterprise” appears to refer to the business or undertaking itself by which industrial and commercial profits are earned. [26]
+[29] While this definition is instructive, tax treaties must be interpreted so as to implement the true intentions of the drafters. [27] In this regard, the Supreme Court of Canada has acknowledged that the Organization for Economic Cooperation and Development (the “OECD”) model treaty may be of “high persuasive value” in terms of defining the parameters of the Convention. [28] For the same reason, it is also relevant to consider the United States model treaty and its commentaries in addition to the technical explanation accompanying the Convention.
+[30] The United States has adopted a broad definition of “enterprise” in its model treaty. [29] The term “enterprise” is therein referred to as applying to the carrying on of any business. [30] Exactly the same approach is adopted in the OECD model treaty. [31] Consequently, the Court has determined that an “enterprise” for the purpose of the application of the Convention must be understood as the “carrying on of any business”.
+[31] As the term “business” is not defined in the Convention either, the Court must again turn to domestic law for guidance. The term “business” is defined in subsection 248(1) of the ITA. It includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of applying certain provisions of the ITA, it also includes an adventure or concern in the nature of trade. It does not include an office or employment. [32] It has long been established in Canada that a profession involves “special skill or ability, or some special qualifications derived from training or experience” possessed by persons carrying on that profession. [33] Without doubt, engineering qualifies as a profession.
+[32] The evidence in this case is that Mr. Wolf did not have a direct contractual relationship with Bombardier Inc., as he was hired as an independent contractor for TDM Technical Services. Mr. Wolf provided engineering services with respect to the design of fuel lines to be used in Bombardier’s Canadair Regional Jet series of aircraft. [34] By virtue of that arrangement, the income earned by Mr. Wolf in Canada was not employment income. [35] Therefore, the Court has concluded that Mr. Wolf had a business in Canada that consisted in providing engineering services with respect to the design of fuel lines for aircraft.
+(2) Mr. Wolf’s Commercial Activity in the US
+[33] The Respondent argued that the payments received by Mr. Wolf’s enterprise from Wolfbend cannot be attributed to Mr. Wolf’s enterprise. The Respondent’s position is based on two propositions. First, for Canadian tax purposes, Wolfbend is a corporation and therefore a separate legal entity. Second, the revenues of Wolfbend were generated by its own enterprise. [36] The Respondent did not submit any evidence as to the exact nature of that enterprise.
+[34] The Appellant did not contest the first proposition. In US law, LLCs are recognized as distinct legal entities separate from their members. Because the parties agreed that Wolfbend should similarly be recognized as a distinct legal entity from its members under Canadian law, the Court does not need to revisit the characterization issue.
+[35] The facts of this case do not support the second proposition of the Respondent. [37] Wolfbend does not constitute an “enterprise” for the purposes of the Convention. The Court makes this finding of fact because the evidence is that Wolfbend does not carry on a “business” as defined in subsection 248(1) of the ITA.
+[36] According to Mr. Wolf’s testimony and the terms of the Operating Agreement, Wolfbend was only established for the purpose of collecting and allocating profits generated through the Manufacturing & License Agreement. The Manufacturing & License Agreement stated that the method of allocation of profits would be indicated in the Operating Agreement. The transfers of the “revenues” – the term used in the agreement – between Davis Aircraft Inc. and Wolfbend were referred to as “disbursements”. Neither Mr. Wolf nor the Respondent attempted to characterize these “disbursements”. It is thus impossible for this Court to make a specific finding of fact on the nature of the payments made to Wolfbend. In any event, there is no evidence that Wolfbend had a business. The evidence is that the profits generated by the Manufacturing & License Agreement were clearly those of Mr. Wolf and Davis Aircraft Inc. These profits were to be allocated to them according to the terms of the Operating Agreement. The most convincing evidence of the existence of an enterprise is the Manufacturing & License Agreement. Davis Aircraft Inc. was required to maintain records in order to determine the profits generated by the Manufacturing & License Agreement, not Wolfbend. [38] Mr. Wolf was a party to this agreement and Wolfbend was not. Clearly, Mr. Wolf made a “business deal” with Davis Aircraft Inc., not with Wolfbend. The Court therefore concludes that the payments received by Mr. Wolf from Wolfbend were revenues of Mr. Wolf’s enterprise.
+[37] Because an individual can have more than one enterprise, the Court must next determine whether the revenues generated through the Manufacturing & License Agreement were revenues of the same enterprise that provided engineering services in Canada. Hence, even though the Canadian and US commercial activities are attributable to Mr. Wolf, it does not necessarily follow that the enterprise that performed services in Canada also generated the US‑source income.
+[38] On this issue, the Appellant referred the Court to the Federal Court of Appeal decision in Du Pont. [39] While this decision does not concern the application of a tax treaty, it is nevertheless indicative of the approach to adopt in determining whether two businesses are part of the same enterprise. With regard to the applicable test, the relevant passage from the decision is the following:
+. . . there will be one business when there is interlacing and interdependence to such a degree that there may be found only one income producing unit; there will be a separate business when the circumstances are such that the whole process by which profit is earned is quite distinct from the others despite the fact that the business is not the subject of a separate incorporation. . . . [40]
+[39] According to the Federal Court of Appeal, the question becomes one of whether the operations of the business were characteristic of a single integrated business or of separate businesses. [41]
+[40] In Arbeau v. The Queen, [42] this Court, commenting on the Du Pont decision, stated that the relevant facts may be different when looking at an individual enterprise. Where there is a sole proprietor, the degree of interlacing and interdependence cannot be determined on the basis of the concentration of the decision-making power in the hands of the sole proprietor. If it could, every sole proprietor would only be carrying on a single enterprise regardless of the diversity of his commercial activities. [43]
+[41] In this case, considering the whole process by which income was earned, the Court concludes that Mr. Wolf had only one enterprise. This enterprise consisted in providing engineering services for the design of aircraft fuel lines.
+[42] At trial, Mr. Wolf gave detailed testimony on the commercial activities in which his enterprise was involved. As an engineer, he developed expertise in designing fuel lines that fit in specific aircraft and perform specific functions. [44] During his career, he commercialized this expertise in both the United States and Canada.
+[43] The first line of business of Mr. Wolf was providing engineering services in Canada. Indeed, Mr. Wolf was hired by TDM as an independent contractor to provide engineering services to Bombardier Inc. These services consisted in assisting Bombardier Inc. in the design of fuel lines to be used in the company’s Canadair Regional Jet series of aircraft. [45]
+[44] The question is whether Mr. Wolf’s US business is separate from the Canadian one. In the US, Mr. Wolf decided to commercialize his expertise in collaboration with Davis Aircraft Inc. Mr. Wolf did so by entering into the Manufacturing & License Agreement with Davis Aircraft Inc.
+[45] Mr. Wolf testified that he performed the same tasks when working with both Bombardier Inc. and Davis Aircraft Inc.: designing fuel lines that met industry requirements and requirements specific to each customer. In some cases, the fuel lines manufactured by Davis Aircraft Inc. were the same as the ones that Mr. Wolf designed for Bombardier Inc. [46]
+[46] While Mr. Wolf performed the same tasks for Bombardier Inc. and for Davis Aircraft Inc., the process by which Mr. Wolf’s enterprise earned income from its two commercial activities was not the same. In Canada, Mr. Wolf’s enterprise earned income on an hourly basis from the engineering services provided to Bombardier Inc. In the United States, the income earned by the enterprise was generated by the licensing of the Patent and know-how to Davis Aircraft Inc. [47] The Patent was licensed to Davis Aircraft Inc. for the purpose of manufacturing fuel lines for Davis Aircraft Inc.’s customers and sublicensing it to third parties. Mr. Wolf’s know-how was licensed to enable Davis Aircraft Inc. to manufacture fuel lines based on the Patent. [48]
+[47] For both commercial activities, engineering services were provided. Instead of generating income by charging an hourly fee as was done in Canada, in the United States, the enterprise’s source of income was a share of the manufacturing profits. The share of the manufacturing profits also compensated the enterprise for the use of its Patent. Additionally, the enterprise received a share of the profits from the sublicensing of the Patent to third parties.
+[48] A priori, an enterprise whose commercial activities are licensing or sublicensing is different from an enterprise that provides engineering services. In the present case, the Court nevertheless finds that it was the same enterprise because all three commercial activities are directly related to the design of fuel lines for aircraft. The products manufactured by Davis Aircraft Inc. and Bombardier Inc. with the assistance of Mr. Wolf are by and large the same; the Patent that was used by Davis Aircraft Inc. and sublicensed to third parties was developed while engineering services for the design of fuel lines for aircraft were being provided to Bombardier Inc.; the same type of engineering services were provided to both Davis Aircraft Inc. and Bombardier Inc. The degree of interlacing and interdependence between the three sources of income is therefore such that the Court finds that both the Canadian and US commercial activities were part of the same enterprise.
+B. Is the income earned by Mr. Wolf’s enterprise in Canada deemed to be attributable to a Canadian permanent establishment?
+(1) Were the services provided by Mr. Wolf’s enterprise in Canada performed by Mr. Wolf in Canada for a period or periods aggregating 183 days or more in any twelve-month period?
+[49] It was agreed by the parties that Mr. Wolf was present in Canada for periods totalling more than 183 days in the twelve-month period ending in 2012. [49] The first condition for the application of paragraph 9 of Article V of the Convention has thus been satisfied.
+(2) During the periods aggregating more than 183 days, did more than 50 percent of gross active business revenues from Mr. Wolf’s enterprise consist of the income derived from the services performed by Mr. Wolf in Canada?
+[50] There is no definition of the phrase “gross active business revenues” in the US model treaty. Nor does the OECD model treaty provide a definition of that phrase. However, the OECD commentaries do discuss a provision that mirrors paragraph 9 of Article V. This commentary should be considered in interpreting subparagraph 9(a) of Article V as the Federal Court of Appeal has recognized the importance of the OECD commentaries where the language of a convention is based on OECD material: The Queen v. Prévost Car Inc., 2009 FCA 57, 2009 DTC 5053 at para. 10. The OECD commentaries do provide an explanation of the second criterion that reads as follows (Model Tax Convention on Income and on Capital: Condensed Version 2010, Commentary on Article 5):
+42.37 For the purposes of the second condition, according to which more than 50 per cent of the gross revenues attributable to active business activities of the enterprise during the relevant period or periods must be derived from the services performed in that State through that individual, the gross revenues attributable to active business activities of the enterprise would represent what the enterprise has charged or should charge for its active business activities, regardless of when the actual billing will occur or of domestic law rules concerning when such revenues should be taken into account for tax purposes. Such active business activities are not restricted to activities related to the provision of services. Gross revenues attributable to “active business activities” would clearly exclude income from passive investment activities, including, for example, receiving interest and dividends from investing surplus funds. . . .
+[Emphasis added.]
+[51] In light of the words used in the Convention and the OECD commentaries, the Court notes four requirements relevant to measuring the gross active business revenues of Mr. Wolf’s US enterprise. First, sources of revenue must be attributable to the US enterprise that provided the services. Second, the gross revenue amounts included in the calculation are amounts before tax. Third, passive investment revenues are excluded from the aggregation of revenue from different sources. And fourth, the relevant period during which gross active business revenues are measured is the same period during which the individual was in the contracting state.
+[52] Since the Court has determined that Mr. Wolf had only one enterprise, the revenues from both the Canadian and US commercial activities of Mr. Wolf must be attributed to that single enterprise. The first requirement is thus satisfied.
+[53] The next question is which sources of revenue qualify as generating “gross active business revenues.” Revenues from three sources must be considered :
+a) The amount of US$233,197 representing the enterprise’s share of the profits from sales of fuel lines by Davis Aircraft Inc.
+b) The amount of US$46,143 representing the enterprise’s share of the profits from sublicensing of the Patent.
+c) The amount of CAD$26,244 representing the amount received for the engineering services provided in Canada.
+[54] The phrase “gross active business revenues” is not defined in the Convention or in the ITA. The Court must therefore turn to case law for guidance.
+[55] In the Stromotich [50] decision, the word “revenue” is described as a “broad term” and defined as being: “all the amounts received by a taxpayer from all sources.” This definition is consistent with that given in Black’s Law Dictionary, which is the following: “Income from any and all sources; gross income or gross receipts.” [51] For the purposes of the Convention, “revenues” should be understood as meaning gross income or gross receipts from any sources.
+[56] The parties did not put at issue whether the income generated in Canada and in the United States was gross income or not. In the absence of evidence to the contrary, the Court finds that the income from both countries was gross income and therefore constituted “revenues”. Therefore, Mr. Wolf’s enterprise revenues from all three sources qualified as “gross revenues”.
+[57] The revenues must also be generated through an “active” commercial activity. The Supreme Court of Canada has enumerated criteria for distinguishing business income from property income:
+. . . It is trite law that the characterization of income as income from a business or income from property must be made from an examination of the taxpayer's whole course of conduct viewed in the light of surrounding circumstances: see Cragg v. Minister of National Revenue, [1952] Ex. C.R. 40, per Thorson P. at p. 46. In following this method courts have examined the number of transactions, their volume, their frequency, the turnover of the investments and the nature of the investments themselves. [52]
+[58] The “level-of-activity test” requires identifying the source of income and all relevant facts with respect to the activities of the taxpayer in order to determine whether earning the income necessitated a level of activity by the taxpayer that would not be characteristic of passive income. In other words, if the taxpayer was sufficiently active in earning the income, the income will be characterized as business income even if, prima facie, it would be characterized as property income.
+[59] As determined in paragraph 32 of these reasons, providing engineering services is a business and, therefore, the income of CAD$26,244 earned in Canada was generated by an “active” commercial activity. As for the profits from manufacturing activities, the definition of the term “business” in subsection 248(1) of the ITA includes “manufacture”. The term “manufacture” is not defined in the ITA, but is defined in the Oxford Dictionary of English as “the making of articles on a large scale using machinery”. [53] Therefore, the income generated by manufacturing activity is also from an “active” business.
+[60] As for the income generated by the licensing and sublicensing activity, royalties prima facie qualify as passive income.
+[61] Considering the evidence adduced in this case, the Court finds that Mr. Wolf’s enterprise, through the action of Mr. Wolf, was sufficiently active in earning licensing and sublicensing income. With respect to the licensing activities, Mr. Wolf’s responsibilities included designing, in accordance with the Patent, the fuel lines ordered and their customization for the client’s particular aircraft. [54] With respect to the sublicensing, Mr. Wolf was required to seek potential sublicensees. [55] Therefore, the third requirement is met because the revenues from all three sources qualify as “active business” revenues.
+[62] The fourth requirement calls for matching the “gross active business revenues” with the corresponding period or periods during which the services were performed. Subparagraph 9(a) of Article V of the Convention is clear: 50 percent of the gross active business revenues of the enterprise must consist of income derived from the services performed in the other state during the period or periods of 183 days or more.
+[63] The length of the period or periods is a question of fact. The Minister assumed that Mr. Wolf spent more than 183 days in Canada, [56] but did not provide a starting date or an end date for that period. During the trial, Mr. Wolf testified that he was present in Canada for a period of 188 days, [57] between August 10, 2011, and August 10, 2012. [58] This assertion was not contested by the Minister. Therefore, this Court finds that Mr. Wolf was physically in Canada for 188 days between August 10, 2011, and August 10, 2012.
+[64] Revenues included in the calculation of “gross active business revenues” of Mr. Wolf’s enterprise are only those generated during the 188-day period. The evidence presented by Mr. Wolf is that his enterprise received payments from Wolfbend of US$233,197 and US$46,143 during the 2012 taxation year. The evidence is that they represent the “gross active business revenues” of Mr. Wolf’s enterprise during the 2012 taxation year, not that they represent the “gross active business revenues” of Mr. Wolf’s enterprise during the 188-day period. [59] Therefore, the Court cannot determine whether 50 percent or less of the gross active business revenues of the enterprise consisted of revenues derived from the services performed in Canada during the periods totalling 188 days. The onus was on the Appellant to prove that the revenues earned in Canada did not represent more than 50 percent of the “gross active business revenues” of Mr. Wolf’s enterprise, which he failed to do. [60]
+[65] Consequently, the amount of CAD$26,244 earned in Canada by Mr. Wolf’s enterprise is taxable in Canada under Article VII because it is deemed to be attributable to a Canadian permanent establishment under paragraph 9 of Article V of the Convention.
+[66] The appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 31st day of May 2018.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2018 TCC 84
+COURT FILE NO.:
+2015-1745(IT)G
+STYLE OF CAUSE:
+LAWRENCE WOLF v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+May 12, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+May 31, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Aaron Rodgers
+Counsel for the Respondent:
+Anne-Marie Boutin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Aaron Rodgers
+Firm:
+GWBR, L.L.P.
+Montreal Quebec
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Convention Between Canada and the United States of America with Respect to Taxes on Income and on Capital, signed at Washington, DC on September 26, 1980, as amended by the protocols signed on June 14, 1983, March 28, 1984, March 17, 1995, July 29, 1997, and September 21, 2007.
+[2] Trial transcript, page 11.
+[3] Trial transcript, page 12.
+[4] Trial transcript, pages 12 and 13.
+[5] Agreement between Mr. Wolf and TDM; Exhibit R-1,
+[6] Trial transcript, pages 47, 50-51; Exhibit R-2.
+[7] Trial transcript, page 53.
+[8] Trial transcript, page 39.
+[9] Appellant’s Book of Documents including Partial Agreement of Statement of Facts; Exhibit A-1, Tab 3.
+[10] Exhibit A-1, Tabs 5 and 6.
+[11] Exhibit A-1, Tab 6, paras. 1.0 and 2.1.
+[12] Exhibit A-1, Tab 6, para. 3.3.3.
+[13] Exhibit A-1, Tab 5, para. 2.4.
+[14] Exhibit A-1, Tab 9.
+[15] Du Pont Canada Inc. v. The Queen, 2001 FCA 114 at paragraph 50, citing the reasons of the Tax Court judge in Dupont Canada Inc. v. The Queen, 99 DTC 1132.
+[16] Appellant’s Written Submissions, paras. 37, 38, 40, 41 and 45.
+[17] Appellant’s Written Submissions, paras. 11, 12, 20, 21, 28 and 44.
+[18] Appellant’s Written Submissions, para. 21.
+[19] Trial transcript, pages 97-101.
+[20] Exhibit A-1, Tab 5.1, page 10; trial transcript, page 116.
+[21] Exhibit A-1, Tab 5, para. 4.1; trial transcript, page 119.
+[22] Income Tax Conventions Interpretation Act, R.S.C. 1985, c. I-4.
+[23] Income Tax Act, R.S.C. 1985, c.1 (5th Supp.).
+[24] McMahon v. M.N.R., [1959] C.T.C. 166 (Exchequer Court of Canada) [McMahon].
+[25] Convention Between Canada and the United States of America for the Avoidance of Double Taxation and the Establishment of Rules of Reciprocal Administrative Assistance in the Case of Income Taxes, signed at Washington, DC on March 4, 1942, as amended by the protocol signed on June 12, 1950.
+[26] McMahon, page 169.
+[27] Crown Forest Industries Ltd. v. Canada, [1995] 2 S.C.R. 802, at para. 43, citing Gladden (JN) Estate v. The Queen, [1985] 1 C.T.C. 163, pages 166-167.
+[28] Crown Forest Industries Ltd. v. Canada, supra, at para. 55.
+[29] United States Model Income Tax Convention, November 15, 2006.
+[30] Ibid, Article 3, subparagraph 1(d).
+[31] OECD Model Tax Convention on Income and on Capital, November 21, 2017. The definition of the phrases “enterprise of a Contracting State” and “enterprise of the other Contracting State” found in the OECD model treaty is as follows: “the terms ‘enterprise of a Contracting State’ and ‘enterprise of the other Contracting State’ mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a resident of the other Contracting State”. The OECD’s model tax treaty definition of the phrase “enterprise of a Contracting State” confirms that the jurisdiction under which the enterprise falls is, for treaty purposes, the same as the jurisdiction of the resident who carries on the enterprise.
+[32] The definition of the term “business’ in the ITA is consistent with the definition of this term in the US and OECD model treaties. All consider the term “business” to include the performance of professional services and of other activities of an independent character.
+[33] Bower v. M.N.R., 49 DTC 554, 557, citing DuParcq L.J. in Carr v. Inland Revenue Commissioners, [1994] 2 All E.R. 163 at 166.
+[34] Trial transcript, pages 38-39 and page 53.
+[35] Definition of “business” in subsection 248(1) of the ITA.
+[36] Respondent’s Written Submissions, paragraphs 36 to 38, page 7.
+[37] Exhibit A-1, Tab 6, para. 3.3.3 and Exhibit A-1,Tab 5, Operating Agreement, Recitals third and fourth paragraphs.
+[38] Exhibit A-1, Tab 6, paras. 3.3.1 to 3.3.3.
+[39] Supra footnote 15.
+[40] Du Pont, at para. 49, citing the Tax Court judge.
+[41] Du Pont, at para. 52.
+[42] Arbeau v. Canada, 2010 TCC 307.
+[43] Ibid., at para. 14.
+[44] Trial transcript, page 26.
+[45] Trial transcript, pages 38-39 and page 53.
+[46] Trial transcript, pages 13 and 36-37.
+[47] Manufacturing & License Agreement, para. 2.2.
+[48] Ibid.
+[49] Exhibit A-1, Partial Agreement of Statement of Facts, para. 14.
+[50] Stromotich v. M.N.R., 86 DTC 1032, 1036.
+[51] Black’s Law Dictionary, 10th ed., sub verbo “revenue”.
+[52] Canadian Marconi v. R. [1986] 2 S C.R. 522, page 532.
+[53] The Oxford Dictionary of English, 3rd ed., sub verbo “manufacture”.
+[54] Exhibit A-1, Tab 6, para. 2.1.
+[55] Exhibit A-1, Tab 6, para. 3.1.
+[56] Reply to the Notice of Appeal, para. 7(h).
+[57] Trial transcript, page 53.
+[58] Trial transcript, page 53.
+[59] Even if the Appellant had provided evidence with respect to the frequency with which and the dates on which payments were received from Wolfbend, this would not have been relevant as they became revenues of Mr. Wolf’s enterprise as soon as the amounts were charged to clients by Davis Aircraft Inc.
+[60] Reply to the Notice of Appeal, para. 7(h).

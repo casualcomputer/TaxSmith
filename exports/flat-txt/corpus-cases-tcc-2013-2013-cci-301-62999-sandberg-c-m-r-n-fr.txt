@@ -1,0 +1,192 @@
+Title: Sandberg c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/62999/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-301-62999-sandberg-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2013-09-24
+
+# Sandberg c. M.R.N.
+
+- Citation: 2013 CCI 301
+- Decision date: 2013-09-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6080, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sandberg c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-09-24
+Référence neutre
+2013 CCI 301
+Numéro de dossier
+2012-3442(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-3442(EI)
+ENTRE :
+DONALD ERIC SANDBERG,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+THE FRONTIER CENTRE FOR PUBLIC POLICY INC.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 août 2013, à Winnipeg (Manitoba)
+Devant : L’honorable juge Judith M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Pour l’intervenante :
+Me Neil Goodridge
+Personne n’a comparu
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne que l’appel interjeté à l’encontre d’une décision du ministre du Revenu national rendue en application de la Loi sur l’assurance‑emploi soit accueilli, et la décision est modifiée compte tenu du fait que Donald Sandberg exerçait un emploi assurable auprès de The Frontier Centre for Public Policy Inc. pour la période allant du 1er janvier 2007 au 31 décembre 2008. Chacune des parties supportera ses propres dépens.
+Signé à Ottawa (Ontario), ce 24e jour de septembre 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour d’octobre 2013.
+Marie-Christine Gervais, traductrice
+Référence : 2013 CCI 301
+Date : 20130924
+Dossier : 2012-3442(EI)
+ENTRE :
+DONALD ERIC SANDBERG,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+THE FRONTIER CENTRE FOR PUBLIC POLICY INC.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question en litige dans le présent appel est de savoir si Donald Sandberg était engagé à titre d’employé ou d’entrepreneur indépendant par The Frontier Centre for Public Policy Inc. (« Frontier ») au cours de la période allant du 1er janvier 2007 au 31 décembre 2008 (la « période »).
+[2] L’appel porte sur une décision rendue par le ministre du Revenu national en vertu de la Loi sur l’assurance-emploi, selon laquelle M. Sandberg était un entrepreneur indépendant. M. Sandberg appelle de cette décision.
+[3] Frontier a déposé un avis d’intervention et son avocat a informé la Cour qu’elle compte sur le ministre pour représenter ses intérêts à l’audience.
+[4] À titre préliminaire, je tiens à souligner que ce n’est pas la première fois que cette question est portée devant les tribunaux. Pour l’application de la législation sur les normes d’emploi au Manitoba, il a déjà été conclu que M. Sandberg avait été engagé à titre d’entrepreneur indépendant par Frontier. Aucune des parties n’a fourni de détails concernant cette décision et, pour ce motif, je n’ai pas fait preuve de retenue à l’égard de celle‑ci.
+[5] Trois personnes ont témoigné à l’audience. M. Sandberg a témoigné pour son propre compte et a appelé à témoigner Dennis Owens, un ami et ancien collègue. Le ministre a appelé à témoigner Peter Holle, qui était alors président de Frontier et l’est encore aujourd’hui.
+Contexte factuel
+[6] L’appelant est un Indien inscrit qui demeure à The Pas, au Manitoba. Il est pigiste et il s’intéresse depuis longtemps aux affaires autochtones, et particulièrement à la promotion d’une plus grande responsabilisation des dirigeants des bandes.
+[7] Frontier est un organisme de bienfaisance qui mène des recherches sur une grande variété de questions de politique publique. M. Holle a qualifié Frontier de groupe de réflexion.
+[8] Vers 2004, M. Holle a été mis au courant de l’expertise de M. Sandberg en ce qui concerne les enjeux politiques liés aux Autochtones et a conclu une entente avec lui pour qu’il fournisse des services à Frontier à temps partiel moyennant de modestes honoraires. Ces services comprenaient généralement la rédaction d’une chronique deux fois par mois et la participation à des activités.
+[9] Environ deux ans après avoir eu recours aux services de M. Sandberg pour la première fois, Frontier a entrepris un projet dont le but était d’étudier les questions de gouvernance dans les réserves. Dans le cadre du projet, Frontier voulait obtenir l’opinion des résidents des réserves en faisant effectuer des enquêtes par une équipe dans les réserves. L’initiative s’appelait l’Aboriginal Governance Index (« AGI »).
+[10] L’expertise de M. Sandberg était essentielle pour la réalisation des enquêtes parce que les dirigeants des bandes lui faisaient confiance et qu’il pouvait obtenir leur consentement pour les enquêtes. Il était donc responsable de cet aspect du projet.
+[11] Le projet AGI a débuté vers 2005, par la phase de conception, et M. Sandberg a participé à la rédaction des questions de l’enquête.
+[12] Par la suite, M. Sandberg a dirigé la réalisation de l’enquête, qui avait lieu chaque année, et durait environ six mois. Il ressortait clairement de la preuve que M. Sandberg avait les relations et les compétences nécessaires pour effectuer le travail, surtout lorsqu’il était question de convaincre les dirigeants des bandes de collaborer au projet.
+[13] Une fois le travail d’enquête annuel terminé, Frontier faisait le nécessaire pour qu’une analyse statistique des données soit effectuée, puis le personnel de Frontier établissait un rapport. M. Sandberg ne participait pas directement à ce processus.
+[14] Au départ, Frontier a donné carte blanche à M. Sandberg concernant la réalisation des enquêtes. Plus particulièrement, il choisissait les réserves à visiter et il aidait à choisir les membres de l’équipe. Les enquêteurs étaient généralement des jeunes, et plusieurs d’entre eux étaient des connaissances ou des proches de M. Sandberg.
+[15] Au fil du temps, des divergences d’opinions se sont manifestées entre le personnel de Frontier et M. Sandberg. Une des principales préoccupations de Frontier était les frais de déplacement élevés supportés relativement au travail d’enquête.
+[16] Frontier a plus tard exercé un plus grand contrôle sur les déplacements effectués par M. Sandberg et l’équipe d’enquêteurs, notamment en ce qui concerne le choix des réserves à visiter.
+[17] L’entente conclue entre M. Sandberg et Frontier était consignée dans des contrats écrits datés du 13 janvier 2004, du 1er septembre 2005 et du 1er octobre 2006.
+[18] Frontier a mis fin à sa relation avec M. Sandberg en 2010.
+Principes de droit applicables
+[19] Le sens du terme « emploi » est au cœur du présent appel. Comme ce terme n’est pas défini dans la loi, il faut appliquer le sens qui a été donné à ce terme dans diverses décisions judiciaires.
+[20] Certains des principes pertinents sont résumés ci-dessous, en fonction d’un arrêt récent de la Cour d’appel fédérale communément appelé l’arrêt Connor Homes (1392644 Ontario Inc c MRN, 2013 CAF 85).
+a) La question fondamentale est de savoir si la personne fournit les services en question en tant que personne travaillant à son compte (paragraphe 23).
+b) Les facteurs suivants sont habituellement pertinents, à savoir le degré de contrôle que le payeur exerce, ainsi que les points de savoir si le travailleur fournit son propre outillage, s’il engage lui‑même ses assistants, s’il gère et assume des risques financiers, et s’il peut escompter un profit de l’exécution de ses tâches (paragraphe 29). Ces facteurs ne sont pas exhaustifs et aucun facteur n’est déterminant à lui seul.
+c) L’intention des parties est aussi pertinente et doit être considérée en premier. Cependant, l’intention des parties ne peut pas l’emporter sur la réalité objective, qui doit prévaloir si elle est incompatible avec l’intention des parties (paragraphes 39 et 40).
+Application aux faits
+[21] Je me penche maintenant sur l’application des principes de droit aux faits de l’espèce.
+Appréciation de la preuve
+[22] Je ferai tout d’abord des commentaires au sujet des témoignages.
+[23] J’ai de sérieuses préoccupations au sujet du témoignage de M. Sandberg. Son témoignage était parfois évasif, une partie de celui‑ci n’était pas compatible avec d’autres éléments de preuve et, parfois, les faits exposés dans le témoignage étaient improbables.
+[24] Par exemple, au début, M. Sandberg a admis qu’il travaillait pour Frontier en 2004. Cependant, il s’est rétracté lorsqu’on lui a montré une déclaration qu’il avait signée relativement à une procédure en matière de faillite datant de septembre 2005, laquelle ne faisait état d’aucun revenu provenant de Frontier.
+[25] De plus, M. Sandberg a nié être au courant de deux lettres relatives à la résiliation de son contrat en février 2010. Les deux lettres semblent être signées par M. Sandberg, mais celui-ci a dit que l’une des signatures n’était pas la sienne. Il est peu probable que la signature ait été contrefaite. Ce témoignage ne m’a pas paru crédible.
+[26] En pareilles circonstances, il est difficile d’ajouter foi au témoignage de M. Sandberg en général, surtout son témoignage selon lequel il a signé les contrats avec Frontier sous la contrainte.
+[27] Quant au témoignage de M. Owens et à celui de M. Holle, j’ai jugé leur témoignage fiable dans l’ensemble. Je tiens toutefois à souligner que le témoignage de M. Holle était intéressé et que j’ai tenu compte de ce fait.
+[28] Je tiens également à souligner qu’une partie du témoignage de M. Holle était peu utile parce que les questions de l’avocat du ministre n’étaient pas assez détaillées pour être convaincantes.
+[29] À titre d’exemple, M. Sandberg a témoigné que les contrats étaient généralement signés bien après la date figurant sur ceux-ci. L’avocat du ministre a demandé à M. Holle quand les contrats avaient été signés et il a semblé simplement utiliser la date indiquée dans le haut de l’entente écrite. Aucun élément de preuve n’a été présenté quant à la question de savoir pourquoi M. Holle croyait qu’il s’agissait de la date de signature et je n’ai pas été convaincue que M. Holle se souvenait de la date de signature.
+Quelle est l’intention des parties?
+[30] L’entente écrite applicable pour la période est datée du 1er octobre 2006. Comme les ententes précédentes, elle prévoit que M. Sandberg est engagé à titre d’entrepreneur indépendant et non à titre d’employé.
+[31] M. Sandberg a témoigné qu’il pensait qu’il était un employé en dépit du libellé du contrat, et il a soutenu qu’il avait signé les contrats sous la contrainte et qu’on ne lui avait pas permis de consulter un avocat. M. Holle a contesté ce témoignage.
+[32] À mon avis, la version de M. Holle est plus probable et j’y ajoute foi.
+[33] M. Sandberg fait également valoir que les ententes étaient généralement signées bien après leur date d’entrée en vigueur. M. Sandberg travaillait aux termes de contrats similaires depuis 2004. Je ne pense pas que la date de signature du contrat pour 2006 ait une incidence sur l’intention déclarée des parties selon laquelle M. Sandberg devait être un entrepreneur indépendant.
+[34] M. Sandberg affirme aussi que personne ne lui a expliqué ce que signifiait le statut d’entrepreneur indépendant. Cela n’aide pas M. Sandberg. L’entente écrite régit la relation entre les parties. En signant l’entente, M. Sandberg a accepté d’être lié par celle‑ci, même si son impression quant à la signification de l’entente était erronée.
+[35] Je conclus que les parties voulaient clairement avoir une relation client‑entrepreneur indépendant.
+L’intention reflète-t-elle la réalité objective?
+[36] À la deuxième étape de l’analyse, il faut examiner si la réalité correspond à l’intention exprimée. Les facteurs susmentionnés seront tous examinés.
+a) La capacité de contrôle
+[37] M. Sandberg a témoigné qu’il faisait l’objet de microgestion dans le rôle qu’il jouait pour le projet AGI.
+[38] M. Holle a allégué dans son témoignage qu’au début de la relation, Frontier était une jeune entreprise qui comportait peu de processus et de procédures. Au départ, Frontier a donné carte blanche à M. Sandberg quant au rôle qu’il jouait dans le cadre du projet AGI. Au fil du temps, Frontier s’est mise à éprouver de graves problèmes financiers et, lorsqu’il a été mis fin à la relation, Frontier exerçait un contrôle rigoureux sur les aspects financiers du travail de M. Sandberg pour le projet AGI, entre autres en ce qui concerne le choix des réserves à visiter.
+[39] M. Holle a expliqué que les restrictions que Frontier avait imposées à M. Sandberg au fil du temps se limitaient aux questions générales, comme les questions financières et les questions de libelle.
+[40] Le problème que pose la preuve dans son ensemble est le fait qu’elle est axée sur le contrôle réel exercé par Frontier. Le critère applicable n’est pas le contrôle réel, mais la capacité d’exercer un contrôle (Meredith c La Reine, 2002 CAF 258).
+[41] En l’espèce, l’entente de 2006 renferme une clause traitant du contrôle qui ne figurait pas dans les ententes précédentes conclues avec M. Sandberg. Elle est libellée ainsi :
+[traduction]
+[…] Le consultant indépendant travaillera sous la direction du président de [Frontier] et de l’analyste principal en matière de politiques, sauf directive contraire.
+[42] Le libellé de cette clause est très général, et aucune limite n’est indiquée quant au genre de directives que Frontier peut donner. Je conclurais que, si M. Sandberg refusait de suivre une directive particulière, Frontier pouvait exercer son droit légal de donner la directive aux termes de cette clause.
+[43] M. Holle a témoigné que M. Sandberg avait seulement besoin de directives générales, étant donné que c’était lui l’expert en matière de questions autochtones.
+[44] J’accepte le témoignage de M. Holle à cet égard, mais l’entente écrite ne limite pas la nature du contrôle que Frontier pouvait exercer si elle le souhaitait. C’est la capacité d’exercer un contrôle qui est le facteur pertinent, et je conclus que l’entente conférait beaucoup de pouvoir à Frontier.
+[45] L’examen du critère du contrôle fait fortement pencher la balance en faveur d’une relation employeur-employé.
+b) La question de savoir si le travailleur fournit son propre outillage
+[46] Les faits pertinents sont que Frontier acceptait de rembourser M. Sandberg de ses frais de déplacement et mettait un appartement à sa disposition à Winnipeg. Frontier fournissait aussi un ordinateur portatif et un BlackBerry à M. Sandberg. Ces facteurs indiquent une relation employeur‑employé.
+[47] Il ressort aussi de la preuve que M. Holle avait communiqué avec M. Sandberg concernant l’achat par ce dernier de véhicules qui pourraient être utilisés par l’équipe d’enquêteurs pour les déplacements dans les réserves. M. Sandberg recevrait une allocation selon un taux par kilomètre parcouru pour les véhicules qu’il fournirait. M. Sandberg avait accepté vu que le taux était avantageux. Après un certain temps, Frontier a mis fin à cette entente en raison de son coût élevé et a commencé à utiliser des voitures de location d’Enterprise.
+[48] L’entente conclue relativement aux véhicules montre l’esprit d’entreprise dont a fait preuve M. Sandberg. Cependant, je considèrerais cette entente comme un accord commercial distinct de la prestation de services aux termes des ententes écrites. Je ne considère pas qu’il s’agit d’un facteur important pour déterminer la nature des services fournis par M. Sandberg.
+[49] L’allégation formulée par le ministre concernant l’outillage était axée sur l’expertise dont M. Sandberg faisait bénéficier Frontier dans le cadre de l’entente qu’ils avaient conclue. Aucune décision n’a été citée sur ce point, et, à mon avis, la fourniture de l’outillage n’est pas censée comprendre l’expertise.
+[50] En outre, je suis d’avis que l’expertise de M. Sandberg est un facteur neutre pour décider s’il était un employé ou un entrepreneur indépendant. L’expertise est un élément de grande valeur recherché dans les deux types de relation.
+[51] Dans l’ensemble, je considère que l’outillage est un facteur qui fait pencher légèrement la balance en faveur d’une conclusion selon laquelle il s’agissait d’une relation employeur‑employé.
+c) La question de savoir si le travailleur engage lui-même ses assistants
+[52] Des éléments de preuve contradictoires ont été présentés concernant la question de savoir si M. Sandberg choisissait les membres de l’équipe d’enquêteurs. M. Holle a laissé entendre qu’il les choisissait, alors que M. Sandberg a témoigné qu’il choisissait seulement certains des membres de l’équipe.
+[53] Je ne pense toutefois pas que cela soit d’une importance quelconque. M. Sandberg a peut-être choisi les membres de son équipe, mais ceux‑ci étaient embauchés par Frontier, qui payait leurs dépenses. Le témoignage de M. Holle donne à penser que Frontier avait procédé ainsi pour des raisons administratives. Je ne pense pas que cela ait beaucoup d’importance. La preuve dans son ensemble donne à penser que les membres de l’équipe n’étaient pas embauchés par M. Sandberg.
+[54] Je considère que ce facteur est neutre.
+d) La question de savoir si le travailleur gère et assume des risques financiers
+[55] En général, l’entente ne comportait pas de risque financier pour M. Sandberg parce que Frontier avait accepté de payer ses dépenses.
+[56] Deux circonstances particulières doivent être examinées. La première a trait aux véhicules fournis par M. Sandberg à l’égard desquels j’ai déjà formulé des commentaires. À mon avis, il s’agit d’un facteur neutre parce que cette circonstance concerne un accord commercial distinct.
+[57] La deuxième circonstance concerne le fait que M. Sandberg avançait parfois de l’argent aux membres de son équipe et payait ses propres frais de déplacement parce qu’il avait de la difficulté à obtenir de l’argent de Frontier.
+[58] La preuve ne montre pas clairement si les difficultés découlaient seulement de problèmes administratifs chez Frontier ou si M. Sandberg et les membres de son équipe d’enquêteurs étaient en partie responsables de ces problèmes d’argent.
+[59] À mon avis, il ne s’agit pas d’un facteur important. Il ne serait pas inhabituel qu’une personne responsable d’un groupe de jeunes enquêteurs avance des fonds selon les besoins, et ce, que cette personne soit un employé ou un entrepreneur indépendant. Ce qui importe c’est que l’entente prévoyait que les frais de déplacement de M. Sandberg et des membres de son équipe seraient payés ou remboursés par Frontier.
+e) La question de savoir si le travailleur peut escompter un profit
+[60] Selon le barème d’honoraires figurant dans le contrat, M. Sandberg avait droit à des honoraires fixes mensuels de 3 120 $, plus les débours, et à des honoraires de 50 $ pour chaque commentaire à la radio. Il pouvait aussi recevoir une prime pouvant aller jusqu’à 10 % s’il atteignait ses propres objectifs de rendement et ceux de l’entreprise, en fonction des politiques et des objectifs de rendement de Frontier. Le barème d’honoraires penche légèrement en faveur de l’existence d’une relation employeur‑employé parce qu’il est en partie fondé sur le rendement de l’entreprise, ce qui a peut‑être peu à voir avec la contribution de M. Sandberg.
+[61] Un certain profit pouvait être réalisé à l’égard des véhicules achetés par M. Sandberg. Comme je l’ai mentionné ci-dessus, j’ai conclu qu’il s’agit d’un accord distinct qui n’a aucune incidence sur la nature des services fournis.
+[62] Dans l’ensemble, je conclus que le facteur de la possibilité de profit penche légèrement en faveur de l’existence d’une relation employeur‑employé.
+Conclusion
+[63] Compte tenu des facteurs ci-dessus, je conclus que la réalité objective n’est pas compatible avec une relation client‑entrepreneur indépendant. Pour tirer cette conclusion, je considère que le contrôle que Frontier pouvait exercer est un facteur dominant en l’espèce.
+[64] La réalité objective doit l’emporter sur l’intention des parties. Par conséquent, la décision du ministre sera modifiée compte tenu du fait que M. Sandberg était un employé de Frontier au cours de la période.
+[65] Enfin, j’aimerais faire remarquer qu’il est troublant de donner gain de cause à un plaideur dont je juge le témoignage mensonger. Toutefois, comme il incombe à la Cour d’appliquer les principes de droit à l’ensemble de la preuve, je conclus que M. Sandberg obtient gain de cause dans le présent appel.
+[66] L’appel sera accueilli. Chaque partie assumera ses propres frais.
+Signé à Ottawa (Ontario), ce 24e jour de septembre 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour d’octobre 2013.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2013 CCI 301
+NO DU DOSSIER DE LA COUR : 2012-3442(EI)
+INTITULÉ : DONALD ERIC SANDBERG c.
+LE MINISTRE DU REVENU NATIONAL et THE FRONTIER CENTRE FOR PUBLIC POLICY INC.
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 26 août 2013
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 24 septembre 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Pour l’intervenante :
+Me Neil Goodridge
+Personne n’a comparu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+Pour l’intervenante :
+Nom : Paul K. Grower
+Cabinet : Fillmore Riley LLP
+Winnipeg (Manitoba)

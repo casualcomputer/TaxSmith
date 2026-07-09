@@ -1,0 +1,164 @@
+Title: Walters v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27907/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-582-27907-walters-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-09-20
+
+# Walters v. M.N.R.
+
+- Citation: 2005 TCC 582
+- Decision date: 2005-09-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1755, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walters v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-20
+Neutral citation
+2005 TCC 582
+File numbers
+2004-3812(CPP)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2004-3812(CPP)
+BETWEEN:
+FREEMAN WALTERS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE MOOSE JAW TIMES HERALD OPERATED BY
+TRANSCONTINENTAL SASKATCHEWAN MEDIA GROUP INC.,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Freeman Walters (2004-3813(EI)) on August 22, 2005, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ainslie Schroeder
+Counsel for the Intervenor:
+Shane Parker
+____________________________________________________________________
+JUDGMENT
+The appeals are dismissed and the decisions of the Minister are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 20th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2004-3813(EI)
+BETWEEN:
+FREEMAN WALTERS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE MOOSE JAW TIMES HERALD OPERATED BY
+TRANSCONTINENTAL SASKATCHEWAN MEDIA GROUP INC.,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Freeman Walters (2004-3812(CPP)) on August 22, 2005, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ainslie Schroeder
+Counsel for the Intervenor:
+Shane Parker
+____________________________________________________________________
+JUDGMENT
+The appeals are dismissed and the decisions of the Minister are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 20th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC582
+Date: 20050920
+Docket: 2004-3812(CPP)
+2004-3813(EI)
+BETWEEN:
+FREEMAN WALTERS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE MOOSE JAW TIMES HERALD OPERATED BY
+TRANSCONTINENTAL SASKATCHEWAN MEDIA GROUP INC.,
+Intervenor.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence at Regina, Saskatchewan on August 23, 2005. The Appellant testified. The Intervenor called Leslie Gould, the circulation manager of the Moose Jaw Times Herald (“MJTH”) during the period in question.
+[2] The particulars in dispute are set out in paragraphs 6 to 8 of the Reply to the Notice of Appeal. They read:
+6. In response to the appeal, the Minister decided that the Appellant was not employed under a contract of service with MJTH for the period January 1, 2003 to July 6, 2003.
+7. In so deciding as he did the Minister relied on the following assumptions of fact:
+(a) MJTH was in the business of publishing newspapers;
+(b) the Appellant delivered bundles of MJTH’s newspapers to dealers and paper carrier persons;
+(c) the Appellant worked for MJTH from December 16, 1996 to July 5, 2003;
+(d) the Appellant was paid $70.00 per day by MJTH;
+(e) the Appellant was paid additional amounts for inserting flyers and obtaining new customers;
+(f) the Appellant did not have to perform the services for MJTH personally;
+(g) the Appellant periodically hired and paid a replacement driver to do deliveries;
+(h) replacement drivers were paid between $25.00 and $40.00 per day by the Appellant;
+(i) the Appellant provided his own vehicle and cell phone;
+(j) the Appellant was responsible for all vehicle expenses and all cell phone expenses;
+(k) MJTH did not supply any tools or equipment for the Appellant to perform his duties;
+(l) the Appellant entered into a written agreement with MJTH where, among other things, the Appellant agreed he was no an employee of MJTH;
+(m) the Appellant was not entitled to participate in any employee benefit plans provided by MJTH;
+(n) the Appellant did not receive vacation pay or pay for sick leave;
+(o) the Appellant was not supervised in the performance of his delivery duties;
+(p) the Appellant was subject to a chance of profit or risk of loss in performing his duties for MJTH.
+B. ISSUES TO BE DECIDED
+8. The issue to be decided is whether the Appellant was employed under a contract of service with MJTH during the period January 1, 2003 to July 6, 2003.
+[3] None of the assumptions in paragraph 7 were refuted by the evidence.
+[4] Using the points set out in paragraphs 47 and 48 of 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 2 S.C.R. 983, the Court finds:
+1. Control
+The Appellant’s contract with MJTH (Exhibit R-1) required the Appellant to deliver bundles of newspapers to retailers and then to newspaper carriers in that order. After that, he was to deliver some individual newspapers to more remote customers – all “in the shortest time possible.” Exactly how, where, in what order as to who was up to the Appellant. He controlled that. The total usual time spent on this appears to have been about three hours per day, before 12 noon.
+2. Equipment
+All of the equipment, a van and a cell phone, were the Appellant’s and their operation and any hired driver or substitute was at his expense. In fact, the Appellant did hire substitutes from time to time and paid them from $25 to $40 per day; they used his vehicle.
+3. Helpers
+See 2. above.
+4. Degree of Risk
+There was a risk. The Appellant had another business and excessive time spent on the MJTH contract took away earning time at his other business. Despite the Appellant’s denials, the Court finds that he solicited customers for his “Dry Car Wash” from MJTH’s customers – he did solicit MJTH’s business for it while he was picking up papers.
+5. Responsibility and Management
+The Appellant had all the financial responsibility for the deliveries and managed the order of travel on his routes.
+6. Opportunity for Profit
+Efficient use of his vehicle and his time would enhance the Appellant’s profit.
+[5] The Appellant was in business for himself. His case as an appellant is weaker than that of the contractors in Thomson Canada Ltd. v. MNR, 2001 T.C.J. No. 374.
+[6] The appeals are dismissed and the decisions of the Minister are confirmed.
+Signed at Vancouver, British Columbia, this 20th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC 582
+COURT FILE NOS.: 2004-3812(CPP) and 2004-3813(EI)
+STYLE OF CAUSE: Freeman Walters v. M.N.R.
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: August 22, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: September 20, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Counsel for the Intervenor:
+Ainslie Schroeder
+Shane Parker
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

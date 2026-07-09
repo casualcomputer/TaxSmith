@@ -1,0 +1,110 @@
+Title: Wellington v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26924/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-313-26924-wellington-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-04-21
+
+# Wellington v. The Queen
+
+- Citation: 2004 CCI 313
+- Decision date: 2004-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 730, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wellington v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-21
+Référence neutre
+2004 CCI 313
+Numéro de dossier
+2003-3628(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3628(IT)I
+ENTRE :
+CHRISTINE M. WELLINGTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 février 2004 à Windsor (Ontario)
+Par : L'honorable juge E. A. Bowie
+Comparutions :
+Représentant de l'appelante :
+William Wellington
+Avocate de l'intimée :
+Me Marlyse Dumel
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation fiscale établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2004.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 2e jour de juillet 2004.
+Louise-Marie LeBlanc, traductrice
+Référence : 2004CCI313
+Date : 20040421
+Dossier : 2003-3628(IT)I
+ENTRE :
+CHRISTINE M. WELLINGTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le présent appel est interjeté à l'encontre d'une cotisation d'impôt sur le revenu pour l'année 2001. L'appelante affirme que le ministre du Revenu national a fait erreur en lui refusant un crédit d'impôt de 9 137 $ réclamé à titre de frais de scolarité payés à la Finch University of Health Sciences/The Chicago Medical School (Finch University) à Chicago, en Illinois, aux Etats-Unis, pour un cours qu'elle a suivi au moyen d'Internet. La principale question en litige dans le présent appel vise la signification que l'on doit donner au syntagme verbal « faire régulièrement la navette » ( « to commute » ) utilisé au sous-alinéa 118.5(1)c)(ii) de la Loi de l'impôt sur le revenu (la Loi). De plus, l'appelante insiste qu'on devrait admettre le crédit d'impôt puisqu'un agent de l'Agence des douanes et du revenu du Canada (ADRC) lui avait assuré avant qu'elle ne s'inscrive au cours, qu'elle aurait droit au crédit réclamé.
+[2] Les faits ne sont pas contestés. L'appelante travaille pour le Centre de santé communautaire de Sandwich, en tant que diététicienne. Elle a obtenu un diplôme en diététique à la University of Western Ontario, et elle est membre du Collège des diététiciens de l'Ontario. Dans le cadre de son travail, elle doit être membre inscrite du Collège, ce qui l'oblige à suivre régulièrement des cours de formation permanente. Elle croit également que son cheminement de carrière peut un jour l'amener à enseigner au niveau universitaire, un travail pour lequel elle devra obtenir un diplôme d'études supérieures en diététique. En 2001, toutes ces considérations l'ont amenée à songer à s'inscrire à un programme de maîtrise. Un certain nombre de facteurs qui ne sont pas pertinents en l'espèce l'ont amenée à conclure qu'il valait mieux pour elle de s'inscrire à des cours d'apprentissage à distance offerts par la Finch University. Il s'agissait de cours et de séminaires interactifs offerts sur le Web. La procédure était la même pour les travaux et les examens. Pour obtenir son diplôme, l'appelante a dû terminer onze cours en six semestres. Elle devait donc travailler quatre heures à son ordinateur chaque soir, cinq soirs par semaine et plus longtemps pendant les fins de semaine. Elle a débuté le cours en septembre 2001. Le premier semestre a duré treize semaines. Il y a eu une semaine d'arrêt entre la onzième et la douzième semaines.
+[3] Le cours était coûteux et l'employeur de l'appelante ne voulait pas participer aux frais. C'est pourquoi, avant de s'inscrire, elle s'est informée des répercussions d'ordre fiscal. Au cours de son témoignage, elle n'a pas pu fournir le nom de l'agent de l'ADRC à qui elle a parlé au téléphone, mais j'ajoute foi à son témoignage selon lequel l'agent lui aurait dit que si elle suivait le cours, elle aurait droit à un crédit pour frais de scolarité conformément à l'article 118.5, ainsi qu'à un crédit pour études aux termes de l'article 118.6 de la Loi. Je n'ai aucun doute que cette information a influencé sa décision de s'inscrire au cours. C'est pourquoi elle a été surprise et déçue lorsqu'en septembre 2002, le ministre a établi une nouvelle cotisation à son égard dans laquelle il l'informait qu'il ne lui accordait pas ses deux crédits d'impôt, et sa déception ne s'est pas atténuée lorsqu'elle a reçu en mars 2003 une autre nouvelle cotisation selon laquelle on lui accordait le crédit relativement insignifiant prévu à l'article 118.6, mais pas le crédit d'impôt plus important pour les frais de scolarité prévu à l'article 118.5.
+[4] La disposition pertinente de la Loi est rédigée en ces termes :
+118.5. (1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+a) [...]
+c) si, tout au long de l'année, le particulier réside au Canada près de la frontière entre le Canada et les États-Unis et si :
+(i) d'une part, il est inscrit à un moment de l'année à un établissement d'enseignement situé aux États-Unis - université, collège ou autre - offrant des cours de niveau postsecondaire,
+(ii) d'autre part, il fait régulièrement la navette entre sa résidence et cet établissement,
+le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'établissement pour l'année si ces frais dépassent 100 $ et à l'exception des frais :
+(iii) soit qui ont été payés pour son compte par son employeur et ne sont pas inclus dans le calcul de son revenu,
+(iv) soit qui font partie d'une allocation que son père ou sa mère a reçue pour son compte d'un employeur et ne sont pas inclus dans le calcul du revenu de son père ou de sa mère par application du sous-alinéa 6(1)b)(ix).
+[5] L'appelante a soulevé ces questions :
+(i) Considère-t-on qu'une personne suivant un cours universitaire à distance par le moyen d'Internet fait régulièrement la navette entre son domicile et l'université?
+(ii) Alternativement, l'appelante a-t-elle droit au crédit réclamé en raison des garanties que lui a fournies un agent de l'ADRC en réponse à sa question?
+[6] Selon l'appelante, on peut de nos jours interpréter le syntagme verbal « faire régulièrement la navette » utilisé dans la Loi en y donnant le sens de « télétravailler » . L'appelante a cité la définition du terme fournie dans l'édition du Oxford International Dictionary of the English Language de 1958 rédigée en ces termes : « to change, to exchange, to interchange » . L'appelante insiste également que « l'esprit et l'intention » de la Loi soutiennent sa logique. L'appelante appuie son observation sur une lettre du ministre des Finances dans laquelle celui-ci indique que l'objectif du crédit d'impôt pour frais de scolarité est d'aider [traduction] « les Canadiens et les Canadiennes à acquérir ou à mettre à jour des compétences professionnelles » . Ainsi, le verbe « télétravailler » équivaudrait à « travailler à distance » , une méthode de travail reconnue dans une publication de Développement des ressources humaines Canada. Enfin, l'appelante souligne que le Secrétariat du Conseil du Trésor a établi une politique en matière de travail à distance pour ses employés.
+[7] Selon l'intimée, les cours suivis par Internet ou le « télétravail » ne sont pas englobés par la définition du syntagme verbal « faire régulièrement la navette » . À son avis, ce dernier syntagme verbal fait plutôt référence au trajet fait chaque jour pour se rendre d'un endroit à un autre et en revenir. L'intimée fonde son observation sur la définition d'un dictionnaire et sur la version française du sous-alinéa 118.5(1)c)(ii). De plus, la nature exceptionnelle de l'article 118.5 indique que si le Parlement avait voulu rendre admissibles au crédit d'impôt pour frais de scolarité les programmes d'études post-secondaires par Internet, il l'aurait précisé dans la Loi.
+[8] L'intimée insiste pour dire que le caractère incorrect des renseignements que l'ADRC a fournis à l'appelante quant à son droit au crédit d'impôt pour frais de scolarité ne fait pas obstacle à l'obligation du ministre et des tribunaux d'appliquer la Loi telle qu'elle a été rédigée par le Parlement.
+[9] L'alinéa 118.5(1)c) prévoit un crédit d'impôt pour frais de scolarité lorsque le particulier :
+(i) réside au Canada près de la frontière entre le Canada et les États-Unis;
+(ii) est inscrit à un moment de l'année à un établissement d'enseignement situé aux États-Unis - université, collège ou autre - offrant des cours de niveau postsecondaire;
+(iii) fait régulièrement la navette entre sa résidence et cet établissement.
+On ne conteste pas le fait que l'appelante répond aux deux premières exigences de l'alinéa 118.5(1)c).
+[10] Pour interpréter une loi, l'approche privilégiée consiste à lire les termes d'une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s'harmonise avec l'esprit de la loi, l'objet de la loi et l'intention du législateur[1]. En l'absence d'ambiguïté, il faut appliquer le sens ordinaire des mots[2].
+[11] La Loi ne donne pas la définition du terme « faire régulièrement la navette » . Je conclus que selon le sous-alinéa 118.5(1)c)(ii), « faire régulièrement la navette » oblige le particulier à se rendre régulièrement du Canada à l'établissement d'enseignement américain et en revenir, ce qui n'englobe pas le « télétravail » . Cela signifie faire la navette entre les deux pays, quotidiennement ou hebdomadairement[3].
+[12] Selon la définition du Canadian Oxford Dictionary, « to commute » signifie [traduction] « faire le trajet chaque jour de son domicile à son lieu de travail et en revenir, en particulier se déplacer en voiture ou en utilisant les transports en commun pour se rendre d'une banlieue vers le centre d'une ville » . Il est important de souligner que ce dictionnaire comprend une entrée distincte pour le terme « telecommute » . Dans la version française du sous-alinéa 118.5(1)c)(ii) on indique : « il fait régulièrement la navette entre sa résidence et cet établissement » . Dans le dictionnaire français/anglais Le Robert & Collins, la traduction anglaise de l'expression « faire la navette entre » est rédigée de cette manière : « (banlieusard, homme d'affaires) To commute between; (véhicule) To operate a shuttle (service) between » . Cette expression confirme que le Parlement prévoyait un déplacement physique régulier.
+[13] Suivre un cours offert par un établissement d'enseignement en échangeant les renseignements par Internet n'est pas la même chose que faire la navette entre le Canada et les États-Unis. Le Parlement a longuement réfléchi aux circonstances qui permettraient à un contribuable d'avoir droit au crédit d'impôt pour frais de scolarité prévu à l'article 118.5. Si l'intention du Parlement avait été d'offrir le crédit d'impôt pour frais de scolarité aux contribuables canadiens continuant à s'instruire en suivant au Canada un cours fourni par Internet à partir d'un établissement d'enseignement américain, on l'aurait précisé dans la disposition pertinente de la Loi.
+[14] L'appelante insiste qu'il est dans l'esprit et dans l'intention de la Loi que le syntagme verbal « faire régulièrement la navette » englobe également le verbe « télétravailler » . Une telle interprétation de la Loi refléterait les opinions et les politiques du gouvernement fédéral. Malheureusement, bien que j'applaudisse les efforts fournis par l'appelante pour produire ces renseignements, je ne peux y accorder aucune importance juridique, étant donné que, ni la version anglaise, ni la version française de la Loi n'est ambiguë.
+[15] Je crois l'appelante lorsqu'elle affirme qu'un agent de l'ADRC l'avait assurée qu'elle aurait droit au crédit d'impôt pour frais de scolarité si elle s'inscrivait à la Finch University. En fait, l'appelante a présenté un argument fondé sur l'irrecevabilité en indiquant que le caractère erroné des renseignements qu'on lui a fournis empêcherait le ministre de lui refuser le crédit d'impôt pour frais de scolarité prévu à l'alinéa 118.5(1)c).
+[16] L'agent de l'ADRC a fourni à l'appelante des renseignements erronés. L'obligation fiscale d'un contribuable n'est pas viciée en raison du caractère erroné de l'information que le ministre a fourni par négligence concernant l'exonération fiscale du contribuable. Le juge Pigeon, dans l'arrêt Canada (ministre du Revenu national) c. Inland Industries Ltd.[4], a établi la règle en des mots particulièrement pertinents à l'affaire qui nous occupe : Toutefois, il me paraît clair qu'une approbation donnée sans que les conditions prescrites par la loi ne soient remplies ne lie pas le ministre.
+[17] L'Internet a changé et continuera de changer la nature de la formation et du travail. Le Parlement devrait peut-être examiner à nouveau le sous-alinéa 118.5(1)c)(ii) et y apporter les modifications nécessaires pour refléter cette transformation. Mais jusqu'alors, je suis obligé d'utiliser le sens ordinaire des mots utilisés dans cette disposition. Par conséquent, malgré les renseignements erronés fournis par l'agent de l'ADRC, je dois rejeter l'appel étant donné que l'appelante ne répond pas au critère du sous-alinéa 118.5(1)c)(ii) selon lequel elle doit « faire régulièrement la navette » entre l'établissement d'enseignement américain et sa résidence au Canada.
+Signé à Ottawa, Canada, ce 21e jour d'avril 2004.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 2e jour de juillet 2004.
+Louise-Marie LeBlanc, traductrice
+[1] Bell ExpressVu Limited Partnership c. Rex, [2002] 2 R.C.S. 559, à la par. 26.
+[2] Friesen c. Canada, [1995] 3 R.C.S. 103.
+[3] Napier c. Canada, [2000] A.C.I. no 762.
+[4] [1974] R.C.S. 514, à la page 523.

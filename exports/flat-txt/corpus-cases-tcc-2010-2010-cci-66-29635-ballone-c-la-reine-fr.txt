@@ -1,0 +1,131 @@
+Title: Ballone c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29635/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-66-29635-ballone-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-02-03
+
+# Ballone c. La Reine
+
+- Citation: 2010 CCI 66
+- Decision date: 2010-02-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6142, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ballone c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-03
+Référence neutre
+2010 CCI 66
+Numéro de dossier
+2008-3184(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3184(IT)G
+ENTRE :
+WILLIAM BALLONE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 janvier 2010 à Toronto (Ontario)
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, en tenant compte du fait que l’appelant a réalisé un gain en capital sur des opérations sur des valeurs mobilières d’un montant de 39 607 $ et un gain en capital relatif aux biens fonciers en Floride d’un montant de 88 264 $.
+Chaque partie supportera ses propres dépens.
+Signé à Ottawa, Canada, ce 3e jour de février 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 26e jour de mai 2010
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 66
+Date : 20100203
+Dossier : 2008-3184(IT)G
+ENTRE :
+WILLIAM BALLONE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, William Ballone, a interjeté appel à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003.
+[2] La cotisation à l’égard de l’appelant a été établie quatre mois après la période normale de nouvelle cotisation pour tenir compte : (1) des gains en capital sur des opérations sur des valeurs mobilières d’un montant de 39 607 $, et (2) des revenus d’un montant de 88 264 $ relatifs à un investissement réalisé avec le frère de l’appelant, Maurizio Ballone.
+[3] Au début de l’audience, l’avocate de l’intimée a indiqué que l’appelant ne contestait pas les gains en capital réalisés sur des opérations sur des valeurs mobilières.
+[4] L’unique question concerne alors l’investissement censément fait avec le frère de l’appelant.
+[5] L’appelant était le seul témoin à l’audience.
+Le contexte factuel
+[6] L’appelant était résident du Canada pour l’année d’imposition 2003.
+[7] Entre l’année 1995 et l’année 2002, l’appelant était résident des États-Unis et vivait avec son frère en Floride.
+[8] Au cours de cette période, les frères ont vécu dans trois biens condominiaux. Le premier bien condominial, l’unité 1104, a été acheté en 1995 et a été vendu en 1997 pour 214 000 $US. Les frères en étaient propriétaires à parts égales.
+[9] Le deuxième bien foncier, l’unité 409, a été acheté en 1997 et a été vendu en 1999 pour 250 000 $US. Le titre de propriété était établi au nom du frère de l’appelant.
+[10] Le troisième bien, l’unité 2501, a été acheté en 1999 et a été vendu au mois de décembre 2002. Le titre était aussi établi seulement au nom du frère. Le prix de vente de ce bien était de 625 000 $US.
+[11] Le deuxième bien, l’unité 409, avait été acheté avec les fonds provenant de la vente du premier bien, y compris la part de l’appelant de 107 000 $US.
+[12] À la suite de la vente du troisième bien, l’unité 2501, le frère a payé à l’appelant 155 000 $US en deux tranches. La première tranche, de 125 000 $US, a été payée le 15 janvier 2003 ou vers cette date, et la deuxième, de 30 000 $US, a été payée le 2 avril 2003 ou vers cette date (pièces A-4 et A-5).
+[13] L’appelant est revenu au Canada à la fin de l’année 2002.
+Thèses des parties
+[14] L’intimée soutient que l’appelant a réalisé un bénéfice de 88 264 $CAN à l’égard de ces biens fonciers. Ce montant, converti en dollars canadiens, correspond à la différence entre la part de l’appelant sur le produit de la vente du premier bien foncier (107 000 $US) et le montant que le frère de l’appelant a payé à ce dernier en 2003 (115 000 $US).
+[15] L’appelant soutient, quant à lui, qu’il ne s’agissait pas d’une entreprise visant la réalisation d’un bénéfice. D’après son témoignage, il a avancé des fonds à son frère afin de l’aider à acquérir le deuxième bien foncier et il comptait récupérer cet argent à un certain moment, sans intérêt. L’appelant a déclaré qu’il n’avait pas conclu d’accord verbal ou écrit avec son frère, mais que telles étaient ses attentes.
+[16] D’après le témoignage de l’appelant, l’argent reçu en 2003 ne constituait pas un bénéfice mais plutôt un remboursement de ses propres fonds. Selon la déposition, les fonds provenaient des sources suivantes : (1) le remboursement du capital d’un prêt consenti au frère de l’appelant en 1997 (107 000 $US), (2) la remise des dons en argent faits par la mère de l’appelant et provenant d’un héritage, qui ont été utilisés pour rénover et meubler les biens condominiaux, et (3) le remboursement d’un prêt de 35 649,71 $US consenti au frère de l’appelant en 1997, lequel prêt provenait du produit de la vente d’une voiture.
+Analyse
+[17] Pour une large part, l’issue du présent appel dépend de l’acceptation du propre témoignage de l’appelant au sujet de la nature des paiements d’un montant total de 155 000 $US qu’il a reçus de son frère en 2003.
+[18] L’appelant a tenté de produire des documents justificatifs sous forme de correspondance émanant de sa mère et de l’acheteur de la voiture. L’intimée s’est opposée à la production de ces documents pour établir la véracité de leur contenu, parce que leurs auteurs n’étaient pas présents à l’audience pour être contre‑interrogés.
+[19] Je suis d’accord avec l’intimée à cet égard. Ces documents n’auraient aucune valeur probante puisque leurs auteurs ne pourraient pas être contre-interrogés.
+[20] L’appelant a produit d’autres documents, comme les relevés bancaires de son frère, mais ils n’indiquent pas que l’argent provenait de la vente d’une voiture ou des cadeaux offerts par la mère de l’appelant.
+[21] Je ne trouve pas convaincant le témoignage oral de l’appelant relatif à la vente de la voiture et aux dons de la mère. Le témoignage était bref et vague et il était loin d’être suffisamment détaillé et convaincant pour être crédible. Par exemple, il a été demandé à l’appelant lors du contre-interrogatoire comment sa mère lui avait transféré l’argent. Au début, il a déclaré que les dons avaient été faits en argent comptant, mais à la suite d’autres questions, il a déclaré qu’il n’était pas sûr.
+[22] Au vu du témoignage insatisfaisant de l’appelant et compte tenu du manque de documents justificatifs, je conclus que la preuve n’est pas suffisante pour exclure du revenu le montant de 88 264 $CAN.
+[23] La question qui subsiste est celle de savoir si le bénéfice constitue un revenu ordinaire ou un gain en capital. Si la vraie nature de l’arrangement résidait dans le fait que l’appelant devait recevoir une part de tout gain réalisé sur la vente ultérieure des biens condominiaux, alors le bénéfice est vraisemblablement un gain en capital.
+[24] Il n’y a pas d’élément de preuve satisfaisant pour établir la nature de l’arrangement que les frères avaient conclu. Je trouve qu’il est fort peu probable que les frères n’aient pas conclu d’accord comme le soutient l’appelant. Cela ne met cependant pas fin à la présente affaire.
+[25] Selon la réponse à l’avis d’appel, l’hypothèse faite par le ministre du Revenu national (le « ministre ») est que l’appelant a réalisé le bénéfice [traduction] « sur son investissement dans le deuxième bien condominial ». La référence à un « deuxième » bien condominial est en fait une référence au troisième bien foncier, l’unité 2501, mais cette petite faute importe peu.
+[26] À la lumière de cette hypothèse, il serait raisonnable de conclure que le bénéfice d’un montant de 88 264 $CAN était un gain en capital.
+[27] L’intimée soutient que ce bénéfice devrait constituer un revenu ordinaire parce que l’appelant était un vendeur d’immeubles.
+[28] Il est certainement possible de considérer le bénéfice comme un revenu ordinaire en se fondant sur le fait que les frères s’étaient engagés dans un projet visant la réalisation d’un bénéfice, et qui consistait à acheter et à vendre des biens condominiaux. Toutefois, il existait fort peu d’éléments de preuve à l’appui de cette position et les frères ont en fait vécu dans chacun des biens condominiaux. À mon avis, il est raisonnable de traiter ce bénéfice comme un gain en capital.
+[29] Afin de trancher le présent appel, j’ai tenu compte du fait que l’intimée avait la charge d’établir qu’il y avait eu négligence ou imprudence de la part de l’appelant lorsqu’il a exclu ce montant de son revenu, soit comme revenu ordinaire, soit comme gain en capital. L’intimée s’est acquittée de cette charge, compte tenu des conclusions de fait qui précèdent.
+[30] L’appel est accueilli et la cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation, en tenant compte du fait que l’appelant a réalisé un gain en capital sur des opérations sur des valeurs mobilières d’un montant de 39 607 $ et un gain en capital relatif aux biens fonciers de la Floride d’un montant de 88 264 $CAN.
+[31] Étant donné que les deux parties ont partiellement eu gain de cause, chacune d’elles supportera ses propres dépens.
+Signé à Ottawa, Canada, ce 3e jour de février 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 26e jour de mai 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 66
+No DU DOSSIER DE LA COUR: 2008-3184(IT)G
+INTITULÉ : WILLIAM BALLONE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 26 janvier 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 3 février 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

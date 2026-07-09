@@ -1,0 +1,153 @@
+Title: Pavao v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/63020/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-305-63020-pavao-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2013-09-27
+
+# Pavao v. M.N.R.
+
+- Citation: 2013 TCC 305
+- Decision date: 2013-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6083, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pavao v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-09-27
+Neutral citation
+2013 TCC 305
+File numbers
+2012-3489(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-3489(EI)
+BETWEEN:
+NATHALIE ANDREA PAVAO
+(formerly Nathalie Andrea Olivera),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Nathalie Andrea Pavao (2012-3490(CPP))
+on June 27, 2013 at Toronto, Ontario
+By: The Honourable Justice Judith M. Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tony Cheung
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to a decision made under the Employment Insurance Act that the appellant was not engaged in insurable employment with Fiscal Fitness Inc. during the period from May 23, 2010 to June 3, 2011 is dismissed, and the decision is confirmed.
+Signed at Toronto, Ontario this 27th day of September 2013.
+“J. M. Woods”
+Woods J.
+Docket: 2012-3490(CPP)
+BETWEEN:
+NATHALIE ANDREA PAVAO
+(formerly Nathalie Andrea Olivera),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Nathalie Andrea Pavao (formerly Nathalie Andrea Olivera) (2012-3489(EI))
+on June 27, 2013 at Toronto, Ontario
+By: The Honourable Justice Judith M. Woods
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tony Cheung
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to a decision made under the Canada Pension Plan that the appellant was not engaged in pensionable employment with Fiscal Fitness Inc. during the period from May 23, 2010 to June 3, 2011 is dismissed, and the decision is confirmed.
+Signed at Toronto, Ontario this 27th day of September 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 305
+Date: 20130927
+Dockets: 2012-3489(EI)
+2012-3490(CPP)
+BETWEEN:
+NATHALIE ANDREA PAVAO
+(formerly Nathalie Andrea Olivera),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Nathalie Pavao, was engaged by Fiscal Fitness Inc. (the “Payer”) to provide swimming lessons at its fitness facility. After Ms. Pavao applied for employment insurance benefits, the Minister of National Revenue ruled that she was engaged as an independent contractor for purposes of the Employment Insurance Act and Canada Pension Plan. Ms. Pavao appeals this ruling.
+[2] The period at issue is from May 23, 2010 to June 3, 2011.
+[3] At the hearing, Ms. Pavao testified on her own behalf. Testimony on behalf of the Crown was provided by Lori Ferren who worked for the Payer and was in charge of the fitness facility.
+Background
+[4] The Payer operates a fitness facility in a Hilton Hotel in the Toronto area. The facility is operated as a private club under the name Club Markham, and hotel guests may also use the facility. The Payer and the hotel have common ownership.
+[5] While she was a student, Ms. Pavao approached the Payer about the possibility of providing aquafit classes at the Club’s pool. This led to her engagement to provide swimming instruction to members of the Club and their children. From the Payer’s perspective, the arrangement was perceived to be a benefit to their members. Most of the customers were children of Club members who were typically given lessons on Saturday morning.
+[6] The engagement began in January 2010 and was slow to develop because the Club had not provided a swim instructor for some time. Ms. Pavao’s services were advertised through business cards that were kept at reception and Ms. Pavao prepared a flyer which was on display.
+[7] Ms. Pavao was a qualified swim instructor and was experienced in this type of work. She also taught one day a week at the YMCA. At the time of the engagement, Ms. Ferren simply reviewed with Ms. Pavao how the services would be performed and approved them. The services were consistent with a Red Cross manual that Ms. Pavao received in the course of receiving her teaching qualification.
+[8] Club members who were interested in arranging lessons were provided with Ms. Pavao’s telephone number and she would arrange the lessons directly with them.
+[9] Customers paid fees to the Payer and Ms. Pavao received 70 percent of this. The fees were generally $20 per session for children and $25 for adults. Ms. Ferron explained the 70/30 allocation to Ms. Pavao on the basis that the Payer was being compensated for its costs plus a small profit.
+[10] Ms. Ferren prepared invoices for Ms. Pavao’s services which she would include with the pay cheques. The pay stub only showed the amount paid to Ms. Pavao and no source deductions were taken.
+[11] In the initial meeting between Ms. Ferren and Ms. Pavao, there was no specific mention of source deductions or whether Ms. Pavao was to be an employee or independent contractor. There was no written contract.
+[12] Ms. Pavao left the Club in June of 2011 due to a medical issue.
+Analysis
+[13] The test to determine whether someone is engaged as an employee or independent contractor is whether the individual is performing the services as her own business on her own account. Mainville J.A. described this test as deceivingly simple: 1392644 Ontario Inc v MNR, 2013 FCA 85 (“Connor Homes”).
+[14] Connor Homes is the most recent Federal Court of Appeal decision which reviews the approach to be taken in some detail. The essence of the test is summarized at paragraph 41 of that decision.
+[41] The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker’s activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+Intention of parties
+[15] Connor Homes instructs that the intention of the parties must be looked at first. In this particular case, I find that there was no common intention between the parties.
+[16] It is clear that the Payer did not intend to enter into an employment relationship because it did not take source deductions.
+[17] It appears that the Payer did not make this intention clear to Ms. Pavao. Ms. Pavao testified that she came away from the initial meeting with the understanding that she would be an employee. This conclusion was likely based on Ms. Pavao’s prior experience of always working as an employee, rather than being based on anything Ms. Ferren had said. Ms. Pavao testified that she thought that tax was being withheld, but the evidence was not detailed enough to show that this was a reasonable conclusion on her part.
+[18] I find that the parties did not form a mutual intention as to the nature of the relationship. I turn then to the conduct of the parties and the relevant tests as set out in Connor Homes.
+Level of control
+[19] The control test is whether the payer has the ability to control the manner in which the work is done. The evidence is clear that the Payer did not control the manner in which the lessons were conducted. Ms. Pavao was the qualified instructor and she needed no supervision in this respect. In addition, the Payer simply referred customers to Ms. Pavao and left it to her to make the appropriate arrangements. I find that this factor tilts toward an independent contractor relationship.
+Whether worker provides own equipment
+[20] The engagement did not require Ms. Pavao to provide much in the way of equipment. As she described it, she provided a swim suit. I do not think that this is a significant factor one way or the other. Ms. Pavao was engaged to provide instruction at the Payer’s facility. I would not describe this as the Payer providing a pool. Ms. Pavao was performing services at the Payer’s pool for their mutual benefit.
+Whether worker hires helpers
+[21] Ms. Pavao did not hire helpers and the matter was not discussed by the parties. I do not find this to be a significant factor.
+Does worker manage and assume financial risk?
+[22] As far as the evidence reveals, there was no significant risk associated with this engagement to Ms. Pavao. I do not think that this is a significant factor in this particular case.
+Does worker have opportunity for profit?
+[23] The engagement contemplated that Ms. Pavao would provide instruction as requested by Club members. She probably had some opportunity to profit by seeking more customers, but this was likely limited. This factor tilts slightly toward an independent contractor relationship.
+Conclusion
+[24] As the case law informs, it is necessary to look at the entirety of the relationship. In this particular case, the arrangement was quite casual in that the Payer did not guarantee any work for Ms. Pavao and merely offered her services mostly as a benefit to Club members. Further, the engagement did not take much of Ms. Pavao’s time.
+[25] I would conclude that Ms. Pavao was engaged as an independent contractor.
+[26] Finally, I would comment that I have sympathy for Ms. Pavao’s situation. She was quite young when she entered into this relationship and it would have been desirable for the Payer to inform her that it was not proposing to engage her as an employee. Nevertheless, the appeal will be dismissed, and the rulings made by the Minister will be confirmed.
+Signed at Toronto, Ontario this 27th day of September 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 305
+COURT FILE NOS.: 2012-3489(EI)
+2012-3490(CPP)
+STYLE OF CAUSE: NATHALIE ANDREA PAVAO
+(formerly Nathalie Andrea Olivera) and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 27, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: September 27, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

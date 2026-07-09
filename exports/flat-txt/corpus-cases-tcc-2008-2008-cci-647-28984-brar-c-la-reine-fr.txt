@@ -1,0 +1,145 @@
+Title: Brar c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28984/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-647-28984-brar-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-10-31
+
+# Brar c. La Reine
+
+- Citation: 2008 CCI 647
+- Decision date: 2008-10-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6794, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-31
+Référence neutre
+2008 CCI 647
+Numéro de dossier
+2008-97(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2008 CCI 647
+2008-97(IT)I
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+DHARMINDER SINGH BRAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT RENDUS ORALEMENT À L’AUDIENCE PAR L’HONORABLE JUGE GASTON JORRÉ,
+dans les bureaux du Service administratif des tribunaux judiciaires, 180, rue Queen Ouest, Toronto (Ontario),
+le vendredi 31 octobre 2008.
+COMPARUTIONS :
+Dharminder Singh Brar
+Pour son propre compte
+Me Samantha Hurst
+Pour l’intimée
+A.S.A.P. Reporting Services Inc. 8 (2008)
+200, rue Elgin, bureau 1105
+Ottawa (Ontario) K2P 1L5
+613-564-2727
+130, rue King Ouest, bureau 1800
+Toronto (Ontario) M5X 1E3
+416-861-8720
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Transcription révisée des motifs du jugement prononcés oralement à l’audience le 31 octobre 2008 à Toronto (Ontario).)
+[1] L’HONORABLE JUGE JORRÉ : Je vais maintenant rendre ma décision dans l’appel Dharminder Singh Brar c. Sa Majesté la Reine.
+[2] M. Brar interjette appel des cotisations établies à son égard pour les années d’imposition 2000, 2001 et 2002, dans lesquelles le ministre a calculé son revenu en ayant recours à ce qui est communément appelé la « méthode de la valeur nette ». Il appelle également des pénalités pour faute lourde qui lui ont été imposées en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Trois personnes ont comparu à l’audience : l’appelant, son épouse – qui a témoigné brièvement – , et le vérificateur chargé du dossier.
+[4] Le revenu que l’appelant a déclaré pour les années d’imposition en cause était très modeste, à savoir 849 $ pour 2000, 114 $ pour 2001 et 2 965 $ pour 2002.
+[5] Pendant la vérification, le vérificateur a recueilli divers renseignements, y compris des relevés bancaires. Il a également obtenu, entre autres, des déclarations de l’appelant au sujet de ses dépenses.
+[6] Le vérificateur est parvenu à la conclusion que la valeur nette de l’appelant a augmenté de manière constante, passant, en chiffres ronds, d’environ 21 000 $ au 31 décembre 1999, à approximativement 94 000 $ au 31 décembre 2002.
+[7] Après avoir procédé à divers rajustements, consistant notamment à additionner les dépenses personnelles et à déduire la valeur des cadeaux reçus et le revenu déclaré, le vérificateur a conclu qu’il y avait des écarts d’environ 32 000 $, 22 000 $ et 46 000 $ entre le revenu apparent et le revenu déclaré pour les années 2000, 2001 et 2002 respectivement. La méthode employée pour établir les cotisations de valeur nette en l’espèce était inhabituelle dans la mesure où le fait que l’appelant s’est marié en 2001 a amené le vérificateur à ne tenir compte que de la valeur nette de M. Brar pour ce qui est de la fin des années 1999 et 2000, mais à se fonder sur la valeur nette de M. Brar et celle de son épouse en ce qui concerne la fin des années 2001 et 2002.
+[8] À l’audience, j’ai exprimé des préoccupations concernant la possibilité que le fait de modifier la base des calculs, qui étaient d’abord fondés sur des données relatives à une seule personne, puis sur des données concernant deux personnes, ait donné lieu à des erreurs; toutefois, les témoignages que j’ai entendus m’ont convaincu que, sous réserve d’une correction dont je parlerai plus loin, les calculs sont exacts.
+[9] En fait, la méthode employée par le vérificateur était la suivante : en ce qui concerne l’année d’imposition 2000, il a comparé la valeur nette de l’appelant à la fin de l’année 2000 à sa valeur nette à la fin de l’année 1999 pour voir s’il y avait un écart.
+[10] Pour ce qui est de l’année d’imposition 2001, il a comparé la valeur nette de l’appelant et de son épouse à la fin de l’année 2001 à la valeur nette de l’appelant à la fin de l’année 2000. En ce qui a trait à l’année 2002, il a comparé la valeur nette de l’appelant et de son épouse à la fin de l’année 2002 à celle de l’appelant et de son épouse à la fin de l’année 2001.
+[11] Le vérificateur a également effectué un rajustement relativement à l’année 2002, soustrayant de la valeur nette du couple la valeur nette de l’épouse au 31 décembre 2001.
+[12] On ne peut clairement pas comparer des pommes et des oranges, ce qui implique que les chiffres que le vérificateur aurait dû comparer pour l’année 2001 étaient la valeur nette de l’appelant à la fin de l’année 2001 et sa valeur nette à la fin de l’année 2000, abstraction faite de la valeur nette de son épouse.
+[13] Pour arriver à ce résultat, le vérificateur aurait dû effectuer relativement à l’année 2001 le rajustement qu’il a fait pour l’année 2002, à savoir soustraire, de l’augmentation de valeur nette constatée, la valeur nette de l’épouse de l’appelant au 31 décembre 2001. Le rajustement en question se chiffrant à 2 412,34 $, ce dernier montant aurait dû être déduit de l’augmentation de valeur nette relative à l’année 2001. Cette diminution devrait logiquement donner lieu à une augmentation correspondante en 2002.
+[14] Toutefois, étant donné que la Cour n’a pas compétence pour modifier à la hausse les montants établis dans une cotisation et que, comme je l’expliquerai plus loin, aucun autre changement ne sera à mon avis nécessaire pour ce qui est de l’année 2002, il n’y aura pas lieu de procéder à une augmentation correspondante pour cette année.
+[15] L’appelant a témoigné qu’il n’a pas travaillé pendant les périodes en cause, et que sa seule occupation consistait à faire de petits travaux. Il a également déclaré qu’au moment de son mariage en septembre 2001, son épouse et lui ont reçu environ 30 000 $ en cadeaux. Il a par la suite affirmé avoir reçu plus de 37 000 $ en cadeaux.
+[16] Il a affirmé que c’étaient ses parents qui s’occupaient de ses déclarations de revenu, mais lorsqu’on lui a montré les déclarations en question, il a reconnu qu’elles avaient été remplies par un comptable.
+[17] L’appelant a vécu avec ses parents pendant les années 2000, 2001 et une partie de l’année 2002. En 2002, son épouse et lui ont acheté une maison. L’appelant a confirmé l’exactitude des dépenses personnelles énumérées dans la colonne du centre du chiffrier établi par le vérificateur qu’on lui a montré. La colonne du centre contient les estimations des dépenses du contribuable établies par celui-ci. Il a également déclaré que ses parents assumaient la majorité de ses dépenses.
+[18] Il a nié avoir travaillé auprès de l’entreprise V-Tech Auto Centre pendant la période en cause. V-Tech Auto Centre appartenait à son oncle maternel; toutefois, l’appelant s’y rendait à l’occasion pour aider celui-ci, même s’il a affirmé n’avoir jamais été payé.
+[19] On a également demandé à l’appelant s’il avait fréquenté une école pendant la période en cause. Il n’en était pas sûr, mais il croyait s’être inscrit en 1999 à un cours d’administration des affaires donné par le Collège Sheridan. Il pensait l’avoir fréquenté pendant un an et demi. Il a encore une fois dit que c’étaient ses parents qui avaient payés ses frais de scolarité.
+[20] En 2001, l’appelant s’est inscrit à un cours de mécanique automobile, les frais de 3 000 $ connexes ayant, selon ses dires, été assumés par ses parents ou par son épouse.
+[21] Parmi les dépenses que le vérificateur a ajoutées à celles qui ont été énumérées par l’appelant figuraient les frais des photos du mariage et ceux du voyage de noces. M. Brar a témoigné que c’était sa belle-mère qui avait payé les photos, et qu’un oncle avait payé le voyage de noces.
+[22] Lors du contre-interrogatoire, l’appelant a reconnu avoir travaillé à la toute fin de l’année 2002. Il a fait valoir que les chiffres obtenus par la méthode de la valeur nette ne pouvaient pas être exacts. Il a témoigné qu’il n’avait pas touché le revenu qui a été ajouté par le ministre. Son témoignage était très général, imprécis et vague.
+[23] À l’exception des trois points principaux qu’il a soulevés, l’appelant n’a présenté aucun ou presqu’aucun élément de preuve pour contester les montants relatifs aux divers éléments d’actif et de passif et aux rajustements qui constituent le fondement des cotisations de valeur nette.
+[24] Un des points litigieux soulevés par l’appelant concernait l’omission du vérificateur de tenir compte des fonds que le père de l’appelant a mis de côté au fil des ans et remis à ce dernier sous forme de somme forfaitaire. L’appelant a dit que son père a mis de côté [traduction] « des prestations ».
+[25] Je ne suis pas sûr de ce que cela veut dire, je suppose qu’il s’agit peut-être de ce qu’on a autrefois appelé la prestation familiale, à savoir l’allocation familiale qui est devenue la Prestation fiscale canadienne pour enfants. L’appelant n’a fourni aucune précision quant à l’importance de la somme forfaitaire qu’il a reçue en cadeau, ni à la date à laquelle il l’aurait reçue. Je me serais attendu à ce qu’un fils qui a reçu une somme d’argent importante de son père se souvienne, au moins approximativement, du montant qu’on lui a donné et de la date – ou du moins de l’année – où il l’a reçu.
+[26] En outre, étant donné qu’il s’agissait d’une somme importante, on se serait attendu à ce que l’appelant puisse apporter la preuve d’un dépôt bancaire ou d’un investissement correspondant. Or, aucun élément de preuve n’a été fourni sur ce point.
+[27] Je constate également que si le cadeau en question avait été reçu avant l’année 2000, il aurait de toute façon été pris en considération dans le calcul de la valeur nette initiale. Je ne suis pas convaincu qu’un tel cadeau ait été reçu pendant la période visée par les cotisations de valeur nette.
+[28] On a également parlé des gains au jeu. La chose aurait surtout été évoquée au début de la présente instance, à l’étape de l’opposition, après quoi les pièces justificatives ont été transmises au vérificateur.
+[29] Les pièces justificatives reçues faisaient apparemment état des pertes au jeu subies au cours de deux années et des gains au jeu réalisés pendant une année, et ces éléments ont été pris en compte dans le calcul de la valeur nette. Aucun élément de preuve n’a été fourni concernant d’autres gains au jeu.
+[30] Le dernier point litigieux soulevé par l’appelant concernait la question des cadeaux de mariage mentionnés plus haut.
+[31] Je constate tout d’abord que dans son avis d’appel, l’appelant a également soutenu que son épouse et lui ont reçu une somme indéterminée en guise de cadeaux de fiançailles, ainsi qu’une autre somme indéterminée que ses parents leur ont donnée pour les aider à s’acheter une maison.
+[32] Dans le témoignage qu’il a présenté lors de la présente audience, l’appelant n’a jamais mentionné les deux sommes dont il est question dans son avis d’appel.
+[33] En ce qui concerne les prétendus cadeaux de mariage, l’appelant a fourni au vérificateur des cartes-cadeaux au verso desquelles figuraient les montants que les différents invités avaient offerts à l’appelant et à son épouse lors du banquet de noces; leur montant total se chiffrait à environ 17 186 $. Le vérificateur a témoigné avoir, je cite, [traduction] « accordé à l’appelant le bénéfice du doute », et admis que le couple avait reçu le montant total de 17 186 $. Je reviendrai sur ce montant un peu plus loin.
+[34] Pour ce qui est des autres cadeaux qui permettraient d’arriver à la somme de 37 000 $ ou plus évoquée par l’appelant, celui-ci a témoigné que le couple les a reçus dans des enveloppes qui ne contenaient pas de cartes, et qu’il lui était par conséquent impossible de fournir d’autres précisions à leur sujet.
+[35] Bien qu’il soit possible que le couple ait reçu quelques cadeaux de ce genre, étant donné que la somme recueillie lors du mariage ou du banquet se chiffrait à 30 000 $ ou plus, on se serait attendu à ce que des dépôts bancaires correspondants aient été effectués dans les jours qui ont suivi, dépôts qu’il aurait été facile de retracer au moyen de relevés bancaires. Or, aucun élément de preuve n’a été présenté sur ce point.
+[36] Il n’y a rien dans la preuve dont je suis saisi qui me permette d’arriver à la conclusion que des cadeaux additionnels d’une valeur d’environ 20 000 $ ont été reçus en plus de la somme de 17 000 $ dont le vérificateur a admis l’existence.
+[37] Je rejette l’essentiel du témoignage de l’appelant. Compte tenu de l’importance des sommes d’argent qui sont passées par ses comptes, je ne crois pas qu’il lui était impossible de fournir des réponses plus claires et plus détaillées et au moins quelques pièces justificatives.
+[38] Lors du contre-interrogatoire, on a montré à l’appelant plusieurs documents qui semblaient porter sa signature. Il a témoigné ne les avoir jamais signés et n’avoir jamais pris part aux opérations concernées. Il a également affirmé avoir appris par la suite que c’était sa sœur qui les avait signés; en fait, il a reproché à sa sœur d’être à l’origine d’une bonne partie de ses problèmes.
+[39] La question de savoir si l’appelant a effectivement signé les documents susmentionnés n’a aucune incidence sur le calcul de sa valeur nette. Par exemple, les documents produits sous la cote R-2 ont trait à une demande de prêt adressée à la Banque Toronto Dominion; la demande concerne un compte de prêt portant le numéro 9180668-01 qui, si je comprends bien, n’a rien à voir avec la ligne de crédit portant le numéro 136-423429 accordée par la même banque qui a été prise en considération dans le calcul de la valeur nette.
+[40] Si je fais erreur sur ce point, et qu’il s’agit en réalité d’un même compte, le fait de supprimer la ligne de crédit du calcul de la valeur nette se traduirait par une diminution de 19,50 $ de la valeur nette de l’appelant pour l’année 2001, et par une augmentation de 7 669,69 $ de sa valeur nette pour 2002, changement qui ne serait pas à l’avantage de l’appelant.
+[41] Une des préoccupations que j’ai soulevées concernait l’étape de la vérification à laquelle les retraits importants étaient additionnés à l’actif. Je voulais m’assurer que ces sommes n’étaient pas comptées une deuxième fois dans les rajustements, et ce, en tant que dépenses rajoutées à l’écart de valeur nette ou aux nouveaux éléments d’actif acquis au cours de l’année.
+[42] Voici ce que j’ai saisi de l’explication donnée par le vérificateur concernant l’étape en question : d’abord, pour être qualifiées de retraits importants, les sommes retirées devaient dépasser 500 $, les dépenses inférieures à ce seuil étant considérées comme des dépenses courantes; toutefois, on a tenu pour acquis que les sommes faisant l’objet de retraits importants n’étaient pas dépensées et étaient conservées par l’appelant, à moins que celui-ci n’ait fourni une explication quant à la manière dont il les a employées.
+[43] De façon générale, je suis disposé à admettre qu’il s’agit là d’une étape logique du calcul de la valeur nette. Plus la somme retirée est importante, plus il devrait être facile de retracer l’usage qui en a été fait. J’ajouterais toutefois que cette étape devrait, à mon avis, être abordée avec une grande prudence.
+[44] Je mentionnerais aussi que dans les cas où un retrait important a servi à financer une dépense personnelle dont il n’a pas été tenu compte dans les dépenses ajoutées dans les rajustements, le retrait serait compensé par la dépense, et il faudrait logiquement réduire le montant du retrait important additionné et augmenter celui des dépenses, changement dont l’effet serait neutre et qui n’aurait aucune incidence sur l’écart qui ressortirait ultimement du calcul de la valeur nette.
+[45] Quoi qu’il en soit, étant donné que l’inclusion de ces sommes n’a pas été expressément contestée, il ne m’est pas loisible de conclure que l’un ou l’autre des montants visés par les retraits importants devrait être modifié.
+[46] Je voudrais revenir sur la question des cadeaux de mariage d’une valeur de 17 000 $. J’ai mentionné plus haut que le vérificateur a admis l’existence de cadeaux d’une valeur de 17 000 $; cependant, il a divisé cette somme en deux du fait que la moitié des cadeaux était destinée à l’appelant, et l’autre moitié à son épouse. Il a donc déduit la moitié de la somme seulement.
+[47] Comme l’appelant et son épouse assumaient les mêmes dépenses à l’époque, je ne suis pas convaincu qu’il ait été opportun de diviser les cadeaux entre les époux dans les circonstances. Je suis d’avis qu’il est préférable d’admettre la déduction de la valeur intégrale des cadeaux de 17 186 $, et non de la moitié de celle-ci, dans les rajustements.
+[48] J’accepte également la prétention voulant que l’appelant ait peut-être reçu quelques cadeaux additionnels qu’il n’est pas en mesure d’étayer avec des pièces justificatives, et j’estime que leur valeur devrait être fixée à 2 000 $.
+[49] Comme l’a si bien dit l’avocate de l’intimée, la méthode de la valeur nette est un instrument rudimentaire qui ne permet pas d’obtenir des résultats parfaits; toutefois dans les affaires comme celle-ci, où l’on est en présence d’un revenu non déclaré important et où il est impossible d’obtenir des livres comptables convenables pour reconstituer les états financiers, le ministre doit nécessairement avoir recours à une méthode de rechange pour arriver à estimer le revenu de la manière la plus exacte possible dans les circonstances.
+[50] Je me pencherai maintenant sur les pénalités imposées en application du paragraphe 163(2). Je suis convaincu que l’appelant a commis une faute lourde en omettant de déclarer le revenu additionné par le vérificateur dans les rajustements.
+[51] Le montant du revenu non déclaré est très important par rapport à celui du revenu déclaré. Pour 2000, le revenu déclaré par l’appelant se chiffrait à 849 $, soit plus de 31 000 $ de moins que son revenu réel. Pour 2001, l’appelant a déclaré un revenu de 114 $, c’est-à-dire environ 9 000 $ de moins que son revenu réel. Pour 2002, il a déclaré un revenu de 2 965 $, soit environ 46 000 $ de moins que son revenu réel.
+[52] L’appelant ne pouvait pas ignorer l’existence d’écarts d’une telle importance. De toute évidence, il ne se souciait nullement de savoir s’il respectait ou non la loi. Les pénalités sont tout à fait justifiées.
+[53] En conclusion, l’appel visant l’année d’imposition 2001 sera accueilli sans dépens. Les appels visant les années 2000 et 2002 seront rejetés.
+[54] Pour ce qui est de l’appel visant l’année 2001, la nouvelle cotisation sera renvoyée au ministre afin qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que les sommes suivantes doivent être retranchées de l’écart de valeur nette et, par conséquent, du revenu de l’appelant :
+a) la somme de 2 412,34 $ que j’ai évoquée plus haut et qui a trait au changement de la base des calculs pour passer d’un célibataire à deux personnes mariées;
+b) la somme additionnelle de 8 593 $ correspondant à l’autre moitié de la valeur des cadeaux de mariage dont le vérificateur a admis l’existence;
+c) la somme additionnelle de 2 000 $ correspondant à d’autres cadeaux.
+[55] La déduction des trois éléments susmentionnés se traduira par une diminution de 13 005,34 $ du revenu de l’appelant pour 2001.
+[56] De plus, le montant des pénalités imposées en application du paragraphe 163(2) pour l’année 2001 doit être modifié à la baisse pour qu’il soit tenu compte de la diminution du revenu découlant des changements que je viens d’ordonner. Je vous remercie.
+Traduction certifiée conforme
+ce 30e jour de décembre 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008 CCI 647
+No DU DOSSIER DE LA COUR : 2008-97(IT)I
+INTITULÉ : Dharminder Singh Brar et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 30 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DES MOTIFS DU JUGEMENT
+RENDUS ORALEMENT : Le 31 octobre 2008
+DATE DE LA TRANSCRIPTION
+RÉVISÉE DES MOTIFS DU
+JUGEMENT: Le 27 novembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

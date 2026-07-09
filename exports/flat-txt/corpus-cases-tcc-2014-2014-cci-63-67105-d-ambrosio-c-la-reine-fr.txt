@@ -1,0 +1,124 @@
+Title: D'Ambrosio c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/67105/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-63-67105-d-ambrosio-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-03-03
+
+# D'Ambrosio c. La Reine
+
+- Citation: 2014 CCI 63
+- Decision date: 2014-03-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5970, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D'Ambrosio c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-03
+Référence neutre
+2014 CCI 63
+Numéro de dossier
+2012-4041(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-4041(GST)I
+ENTRE :
+ILLO D'AMBROSIO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 février 2014 à Hamilton (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentante de l’appelant :
+Mme Lisa D'Ambrosio
+Avocat de l’intimée :
+Me Gregory B. King
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l'encontre de l'avis de cotisation numéro 112525000123602 établi en vertu de la Loi sur la taxe d’accise à l’égard d’une demande de remboursement pour habitations neuves, pour une habitation construite par soi‑même est rejeté et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 3e jour de mars 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 9e jour de mars 2014.
+S. Tasset
+Dossier : 2014CCI63
+Date : 2014-03-03
+Dossier : 2012-4041(GST)I
+ENTRE :
+ILLO D'AMBROSIO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Le présent appel a trait à un remboursement pour habitations neuves demandé par Illo D’Ambrosio à l’égard de l’habitation qu’il a construite au 49, chemin Hickey Hill, à Maynooth, en Ontario.
+[2] À titre de question préliminaire, l’intimée a présenté une requête pour obtenir une ordonnance afin que Daniel D’Ambrosio soit retiré de l’intitulé de la cause parce qu’il n’avait pas qualité pour agir devant la Cour.
+[3] Il ressort de la preuve documentaire qu’Illo D’Ambrosio a présenté le 25 août 2011 une demande de remboursement pour habitations neuves à l’égard d’une maison située au 49, chemin Hickey Hill, à Maynooth, en Ontario (le « bien »). Par voie d’un avis de cotisation daté du 21 septembre 2011, le remboursement lui a été refusé, et l'appelant a envoyé au ministre du Revenu national un avis d’opposition daté du 31 octobre 2011.
+[4] Le paragraphe 301(1.1) et l’article 302 de la Loi sur la taxe d’accise (la « LTA ») sont ainsi libellés :
+301(1.1) Opposition à la cotisation – La personne qui fait opposition à la cotisation établie à son égard peut, dans les 90 jours suivant le jour où l’avis de cotisation lui est envoyé, présenter au ministre un avis d’opposition, en la forme et selon les modalités déterminées par celui-ci, exposant les motifs de son opposition et tous les faits pertinents.
+302. Appel [d'une nouvelle cotisation directement] à la Cour canadienne de l’impôt – La personne, ayant présenté un avis d’opposition à une cotisation, à qui le ministre a envoyé un avis de nouvelle cotisation ou de cotisation supplémentaire concernant l’objet de l’avis d’opposition peut, dans les 90 jours suivant cet envoi :
+a) interjeter appel devant la Cour canadienne de l’impôt;
+[5] Il ressort clairement du paragraphe 301(1.1) que c’est la personne visée par la cotisation qui a le droit de s’y opposer. L’article 302 dispose que la personne s’opposant à une cotisation peut interjeter appel devant la Cour canadienne de l’impôt. Dans le présent appel, Illo D’Ambrosio a présenté une demande de remboursement pour habitations neuves; il a reçu un avis de cotisation et s’y est opposé. Seul Illo D’Ambrosio a qualité pour interjeter appel contre l’avis de cotisation qui lui a été délivré.
+[6] À l’audition de l’appel, j’ai ordonné que le nom de Daniel D’Ambrosio soit rayé de l’intitulé de la cause. Le seul appelant en l’espèce est Illo D’Ambrosio.
+[7] Le ministre du Revenu national (le « ministre ») a refusé la demande de remboursement pour habitations neuves parce que le bien n’était pas le lieu de résidence habituelle de l’appelant ou d’un de ses proches.
+[8] L’alinéa 256(2)a) de la LTA est ainsi libellé :
+(2) Remboursement — habitation construite par soi‑même. Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le particulier, lui-même ou par un intermédiaire, construit un immeuble d’habitation — immeuble d’habitation à logement unique ou logement en copropriété — ou y fait des rénovations majeures, pour qu’il lui serve de résidence habituelle ou serve ainsi à son proche;
+[…]
+Le montant remboursable est égal au montant obtenu par la formule ...
+[9] Le bien appartenait conjointement à l’appelant, à son épouse et à ses trois enfants et ce sont eux qui ont construit l’habitation située sur le bien. L’appelant estime que le bien était le lieu de résidence habituelle de Daniel D’Ambrosio, son fils.
+[10] L’appelant et Daniel ont déclaré dans leur témoignage qu’ils ont acheté le bien le 5 juin 2009. Aux dires de Daniel, le bien a été acquis avec l’intention qu’ils y construisent une maison et, ultérieurement, qu’ils y exploitent une ferme. Le bien se composait d’environ 100 acres de terre et d’une maison délabrée. En 2009, ils ont enlevé les débris de la terre et rasé l’ancienne maison. Ils ont commencé à construire une maison sur le bien à l’été de 2010 et, selon leur Feuille de travail pour sommaire de construction, la date d’occupation de la maison était le 1er février 2011.
+[11] Dans sa demande de remboursement, l’appelant devait inclure l’un des nombreux documents énumérés afin de prouver que le bien était occupé. Toutefois, il n’a inclus aucun des documents indiqués dans le formulaire de demande et, au lieu de cela, a joint le relevé d’impôt foncier du bien pour 2011. Ce relevé était établi au nom des propriétaires, mais a été expédié par la poste à l’adresse de l’appelant à Port Colborne, plutôt qu’à l’adresse du bien. Au stade de l’opposition dans cette affaire, l’appelant a été à nouveau invité à établir que le bien était soit sa résidence habituelle, soit celle de son proche. Il a présenté à nouveau le relevé d’impôt foncier de 2011 à l’égard du bien et envoyé également une copie du permis de conduire temporaire de Daniel, délivré le 20 octobre 2011. Il est indiqué sur le permis de conduire que l’adresse de Daniel est le 49, chemin Hickey, à Maynooth, mais le permis de conduire ayant été délivré après le refus du remboursement, le ministre a demandé que l’appelant envoie une facture d’électricité concernant le bien. Le 7 juin 2012, l’appelant a envoyé au ministre la facture d’électricité du bien. Elle était établie aux noms de Daniel D’Ambrosio et de Maria D’Ambrosio, l’épouse de l’appelant, mais a également été expédiée par la poste à l’adresse de l’appelant à Port Colborne.
+[12] À l’audience, l’appelant et Daniel ont expliqué qu’ils avaient, concernant le bien, des factures et des lettres expédiées à l’adresse de l’appelant à Port Colborne, parce que l’adresse postale du bien posait problème. La municipalité de Hastings a inscrit l’adresse du bien aux fins de l’impôt comme étant le 49, chemin Hickey, à Maynooth, tandis que l’adresse postale du bien était le 49, chemin Hickey Hill, et même cette adresse était erronée. Le problème concernant l’adresse de la propriété a été finalement réglé en juin 2013. L’adresse est maintenant le 329, chemin Hickey Hill.
+[13] J’admets l’explication concernant l’adresse donnée sur les relevés d’électricité et d’impôt foncier. Toutefois, ces seuls éléments ne suffisent pas à appuyer la position de l’appelant selon laquelle la maison a été construite pour que Daniel en fasse son lieu de résidence habituelle. Le critère énoncé à l’alinéa 256(2)a) est celui de l’intention. C’est l’intention de l’appelant au moment de la construction de l’habitation qui est pertinente. En plus de la déposition des témoins, les actes des parties et la preuve documentaire peuvent aussi établir l’intention. Dans la décision Yang c. La Reine, 2009 CCI 636, le juge Angers a énuméré certains des facteurs pris en considération par la Cour et qui permettent de savoir ce qui constitue un lieu de résidence habituelle. Il mentionnait, au paragraphe 7 :
+Il s’agit notamment des facteurs suivants : l’intention du contribuable d’utiliser l’habitation neuve comme lieu de résidence habituelle, la durée de l’occupation de l’habitation neuve, l’adresse de correspondance utilisée, le moment de l’emménagement et celui où les effets personnels sont déménagés, les causes d’un éventuel retard du déménagement, les détails de la couverture d’assurances, l’utilisation de l’ancienne résidence ou de l’ancien logement, et tout autre facteur pertinent compte tenu des circonstances de l’affaire.
+[14] Daniel a déclaré que le bien est sa résidence habituelle, parce que c’est la seule propriété qu’il possède. Par contre, ce n’est pas là le critère permettant de conclure qu’il s’agit d’une « résidence habituelle » conformément à la LTA.
+[15] Il ressort de la preuve documentaire que, de 1998 à 2011, Daniel a déclaré à l’Agence du revenu du Canada (« ARC ») que son adresse postale était située à Toronto. En fait, il a informé l’ARC le 16 février 2011 que son adresse domiciliaire avait changé et a fourni une nouvelle adresse, également à Toronto. Le 18 juin 2012, il a déclaré que son adresse postale était celle du bien.
+[16] Les feuillets T4 de Daniel indiquent que de 2002 à 2011 inclusivement, il travaillait dans un pub de Toronto et vivait également à Toronto.
+[17] À l’audience, Daniel a déclaré qu’il a maintenant un appartement dans le secteur Danforth de Toronto. Il a dit qu'il passe la majorité de son temps à Toronto. Il travaillait à Toronto, mais il est actuellement sans emploi parce qu’il fait des études à Toronto. D’après ses estimations, lorsqu’il travaillait, il passait trois jours à la propriété, la fin de semaine. Il a déclaré qu’il se rendait à la propriété le samedi et retournait à Toronto le lundi ou le mardi. Il ne possédait pas de véhicule et ne se rendait au bien que la fin de semaine, avec l'appelant. Après avoir cessé de travailler (il n’a pas fourni de date), il séjournait habituellement deux jours de la fin de semaine au bien.
+[18] L’appelant n’a produit aucun document indiquant que Daniel ait déménagé au bien. Le permis de conduire temporaire qu’il a présenté n'a été obtenu qu’après le refus de la demande de remboursement et je n’y ai accordé aucun poids. Son changement d’adresse communiqué à l’ARC en 2012 visait également à appuyer sa position dans cette affaire.
+[19] Les relevés d’électricité présentés à l’ARC par l’appelant indiquaient que la consommation quotidienne moyenne d’électricité du bien du 8 mars 2011 au 11 mai 2011 n’était que de 5 kilowatts par jour. Elle est passée à 20 kilowatts par jour pendant la période estivale, du 11 juillet 2011 au 11 août 2011, pour ensuite diminuer à une moyenne de 2 kilowatts par jour du 11 août 2011 au 10 janvier 2012. J’ai conclu que le bien n’était occupé qu’à temps partiel et surtout pendant les mois d’été.
+[20] Lorsque l’appelant a construit l’habitation sur le bien, Daniel travaillait et vivait à Toronto. L’appelant et Daniel ont déclaré qu’il n’y avait pas de possibilité que Daniel obtienne de l’emploi dans le comté de Hastings, où le bien était situé. Daniel ne possédait pas de véhicule et ne pouvait faire la navette entre cet endroit et un autre secteur pour occuper un emploi. Compte tenu de cela et du fait que le bien est situé dans une région de l’Ontario où se trouvent nombre de propriétés de loisirs, je conclus que l’appelant n’a pas établi que, lors de la construction de l’habitation, il avait l’intention que le bien soit la résidence habituelle de Daniel. De plus, il n’a produit aucun document appuyant sa position selon laquelle le bien était la résidence habituelle de Daniel.
+[21] Je conclus que l’appelant n’a pas droit au remboursement, et son appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de mars 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 9e jour de mars 2014.
+S. Tasset
+RÉFÉRENCE : 2014CCI63
+NO DU DOSSIER DE LA COUR : 2012-4041(GST)I
+INTITULÉ : ILLO D'AMBROSIO ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 14 février 2014
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 3 mars 2014
+COMPARUTIONS :
+Représentante de l’appelant :
+Mme Lisa D'Ambrosio
+Avocat de l’intimée :
+Me Gregory B. King
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

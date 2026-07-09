@@ -1,0 +1,218 @@
+---
+title: "Jobin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99576/index.do"
+last_modified: "2014-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 326"
+citation2: ""
+neutral_citation: "2014 TCC 326"
+decision_date: "2014-11-21"
+language: "en"
+item_id: "99576"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5218
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:26:48.438000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fa4f99440f7f7d1a313e73a702200bbdcfc137bbcf4cc468d9af20e3d9667788"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jobin v. The Queen
+
+- Citation: 2014 TCC 326
+- Decision date: 2014-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5218, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jobin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-21
+Neutral citation
+2014 TCC 326
+File numbers
+2012-3293(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3293(IT)G
+BETWEEN:
+DANNY JOBIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 7, 2014, at Montreal, Quebec.
+Before: The Honourable Chief Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+André Taillefer
+Counsel for the Respondent:
+Anne-Marie Boutin
+JUDGMENT
+The appeal from the assessment made pursuant to section 227.1 of the Income Tax Act and section 83 of the Employment Insurance Act, the notice of which bears number 1026314 and is dated May 21, 2010, is dismissed, with costs.
+Signed at Ottawa, Canada, this 21st day of November 2014.
+“Gerald J. Rip”
+Rip C.J.
+Translation certified true
+on this 25th day of March 2015.
+Erich Klein, Revisor
+Citation: 2014 TCC 326
+Date: 20141121
+Docket: 2012-3293(IT)G
+BETWEEN:
+DANNY JOBIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Rip C.J.
+[1] The only issue in this appeal is whether the Canada Revenue Agency (CRA) issued outside of the prescribed time, by notice of assessment dated May 21, 2010, an assessment of Danny Jobin for amounts of tax owed under section 227.1 of the Income Tax Act (Act) and for amounts owed under section 83 of the Employment Insurance Act.
+[2] I was prepared to issue my reasons dismissing the appeal at the conclusion of the hearing. However, counsel for the appellant requested 15 days to search for certain documents and present written submissions. Those 15 days are now up.
+[3] The parties agree that, for the periods ending on September 19, 2002, October 2, 2002, and December 17, 2002, 3560643 Canada Inc. failed to withhold from salaries and wages that it had paid amounts for income tax and employment insurance premiums and to remit those amounts to the Receiver General for Canada. The assessment also includes related interest and penalties.
+[4] At all relevant times, Mr. Jobin was the sole director as well as the president of the corporation. He did not argue at trial that, as director, he exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances: subsection 227.1(3) of the Act. The sole issue is whether the CRA made the assessments outside of the prescribed time.
+[5] The assumptions of fact relied on by the Minister of National Revenue, which are not challenged, are as follows:
+[translation]
+(a) The corporation 3560643 Canada Inc. (hereinafter the “corporation”) . . . was incorporated on December 24, 1998, under the Canadian Business Corporations Act.
+. . .
+(c) The corporation operated under the name Boutique F.O.A.M. Fashion International.
+. . .
+(g) The corporation made an assignment in bankruptcy on February 27, 2003.
+(h) In that bankruptcy, the Canada Revenue Agency (hereinafter the “CRA”) was owed $37,607.52 due to the corporation’s failure to pay source deductions in 2002, as illustrated in the following table:
+Date
+Relevant period
+Tax
+Employment Insurance
+Penalty
+Interest
+Total
+19/09/2002
+2002
+$14,479.86
+$0
+$939.64
+$307.84
+$15,727.34
+02/10/2002
+2002
+$4,983.50
+$3,875.47
+$785.89
+$48.71
+$9,693.57
+17/12/2002
+2002
+$5,710.84
+$4,532.57
+$924.34
+$90.16
+$11,257.91
+27/02/2003
+2002
+$928.70
+$928.70
+TOTAL
+$37,607.52
+(i) On August 14, 2003, the CRA filed a proof of claim in the amount of $37,607.52 . . . .
+. . .
+(l) The trustee was discharged on April 5, 2007.
+. . .
+(o) The appellant never resigned as director of the corporation.
+[6] The corporation filed for bankruptcy on February 27, 2003. The trustee was appointed that same day. On August 14, 2003, that is, within six months from the date of the assignment, the CRA proved its claim: paragraph 227.1(2)(b) of the Act.
+[7] On May 6, 2005, the corporation was struck ex officio from Quebec’s business register (register).
+[8] Counsel for the appellant relies on subsection 227.1(4) of the Act, which reads as follows:
+No action or proceedings to recover any amount payable by a director of a corporation under subsection (1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+L’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société.
+[9] Counsel for the appellant submitted that at each of the following times Mr. Jobin had ceased to be a director of the corporation and that the notice of assessment was sent to him in 2010, that is, more than two years after each of those times:
+(a) when the corporation made an assignment in bankruptcy on February 27, 2003, and a trustee was appointed: the appellant thereupon lost to the trustee the right to manage the corporation, and also lost his position as director, under the Bankruptcy and Insolvency Act;
+(b) when the corporation was struck ex officio from Quebec’s business register on May 6, 2005: the appellant thereupon lost his status as a director;
+(c) when the trustee was discharged on April 5, 2007: the corporation thereupon ceased to exist and, as a result, the appellant could not maintain his status as director in a non-existent entity.
+[10] It is clear that the appellant cannot succeed.
+[11] The fact that a corporation goes bankrupt has no effect on the existence of the corporation. The corporation continues to exist and its officers continue to hold office, although their powers may be reduced. A person does not cease to be a director by virtue of the appointment of a trustee in bankruptcy: Kalef v. The Queen.[1] I have found neither any provision in the Bankruptcy and Insolvency Act nor any reported case that contradicts Kalef.
+[12] With respect to a corporation being struck from the register, there would be absolute constitutional anarchy if provincial legislation could provide for the dissolution of an entity incorporated under federal law or federal legislation could provide for the dissolution of an entity incorporated under provincial law. The Act respecting the legal publicity of sole proprietorships, partnerships and legal persons[2] (ALP) requires corporations incorporated outside of Quebec but domiciled in the province to be registered under the ALP if carrying on business in Quebec. Subsection 2(5) of the ALP provides that the requirement of registration applies to:
+. . .
+(5) every legal person established for a private interest not constituted in Québec, but domiciled in Québec, which carries on an activity in Québec, including the operation of an enterprise . . .
+[13] The ALP does not provide for the creation of any corporation. If a company incorporated outside of Quebec but domiciled in Quebec and registered under the ALP is struck off the register, it continues to exist although it may be prohibited from carrying on business in Quebec. Sections 50 to 53 deal with the striking of a corporation off the register and section 56 provides for the revocation of the striking off the register through an order to that effect. It is quite a stretch to consider striking off the register as constituting dissolution in the case of an extra-provincially incorporated legal person.
+[14] Generally, incorporation of a company is provided for by a statute which also sets out the conditions for the cessation of the corporation’s existence[3] or specifies the time at which the directors of the corporation lose their status as directors. In the case at bar, that statute is the Canada Business Corporations Act (CBCA).
+[15] Section 108 of the CBCA provides as follows:
+(1) A director of a corporation ceases to hold office when the director
+(1) Le mandat d’un administrateur prend fin en raison :
+(a) dies or resigns;
+a) de son décès ou de sa démission;
+(b) is removed in accordance with section 109; or
+b) de sa révocation aux termes de l’article 109;
+(c) becomes disqualified under subsection 105(1).
+c) de son inhabilité à l’exercer, aux termes du paragraphe 105(1).
+(2) A resignation of a director becomes effective at the time a written resignation is sent to the corporation, or at the time specified in the resignation, whichever is later.
+(2) La démission d’un administrateur prend effet à la date de son envoi par écrit à la société ou, à la date postérieure qui y est indiquée.
+[16] Section 109 provides for the removal of a director by resolution of the shareholders, and subsection 105(1) provides that persons under 18 years of age, persons of unsound mind if so found by a court of law, and persons who have the status of bankrupt cannot be directors. Mr. Jobin did not resign as director nor was he removed from that position.
+[17] There was no claim by the appellant that the corporation had been dissolved under the provisions of the CBCA or wound up pursuant to the Winding‑up and Restructuring Act[4] or any other legislation. If the corporation had been dissolved, then Mr. Jobin would have ceased to be a director.
+[18] Mr. Jobin was a director of the corporation within the two-year period prior to the notice of assessment under appeal herein.
+[19] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 21st day of November 2014.
+“Gerald J. Rip”
+Rip C.J.
+Translation certified true
+on this 25th day of March 2015.
+Erich Klein, Revisor
+CITATION:
+2014 TCC 326
+COURT FILE NO.:
+2012-3293(IT)G
+STYLE OF CAUSE:
+DANNY JOBIN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+October 7, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Chief Justice Gerald J. Rip
+DATE OF JUDGMENT:
+November 21, 2014
+APPEARANCES:
+Counsel for the appellant:
+André Taillefer
+Counsel for the respondent:
+Anne-Marie Boutin
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+André Taillefer
+Firm:
+André Taillefer, Counsel
+Montreal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 96 DTC 6132 (FCA), at pages 6133 to 6135, [1996] F.C.J. No. 269 (QL). See also The Queen. v. Wellburn, 95 DTC 5417 (F.C.T.D.), [1995] F.C.J. No. 971 (QL).
+[2] C.Q.L.R, c. P‑45, in force on May 6, 2005.
+[3] In Quebec, a corporation incorporated under the provisions of the Companies Act may be dissolved in accordance with sections 28, 123,144 and 131 of that Act. Furthermore, the striking of a corporation incorporated in Quebec from the register “entails its dissolution” under subsection 50(2) of the ALP, which was in force in 2005.
+[4] R.S.C. 1985, c. W-11.

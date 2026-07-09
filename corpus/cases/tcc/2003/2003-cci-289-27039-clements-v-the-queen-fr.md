@@ -1,0 +1,141 @@
+---
+title: "Clements v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27039/index.do"
+last_modified: "2003-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 289"
+citation2: ""
+neutral_citation: "2003 CCI 289"
+decision_date: "2003-06-17"
+language: "fr"
+item_id: "27039"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 615
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:03:56.465000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "891bf4b3ab7cdbfac3d4681980679e2a6732ce0ff7a76573d6bc538827a8e852"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clements v. The Queen
+
+- Citation: 2003 CCI 289
+- Decision date: 2003-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 615, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clements v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-17
+Référence neutre
+2003 CCI 289
+Numéro de dossier
+2001-453(IT)G
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-453(IT)G
+ENTRE :
+STEVEN L. CLEMENTS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 6 mars 2003 à Toronto (Ontario)
+Devant : L'honorable juge Michael J. Bonner
+Comparutions
+Avocat de l'appelant :
+Me David A. S. Mills
+Avocate de l'intimée :
+Me Donna Dorosh
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations imposant une obligation en vertu de l'article 227.1 de la Loi de l'impôt sur le revenu, de l'article 21.1 du Régime de pensions du Canada et de l'article 83 de la Loi sur l'assurance-emploi sont admis, sans dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement.
+Signé à Vancouver (Colombie-Britannique), ce 17e jour de juin 2003.
+« Michael J. Bonner »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de mars 2004.
+Crystal Lefebvre, traductrice
+Référence : 2003CCI289
+Date : 20030617
+Dossier : 2001-453(IT)G
+ENTRE :
+STEVEN L. CLEMENTS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner, C.C.I.
+[1] L'appelant interjette appel à l'encontre des cotisations lui imposant une obligation en vertu de l'article 227.1 de la Loi de l'impôt sur le revenu (la « Loi » ), de l'article 21.1 du Régime de pensions du Canada (RPC) et de l'article 83 de la Loi sur l'assurance-emploi (a.-e.). Les cotisations sont fondées sur la conclusion selon laquelle SLC Cartage Inc. (SLC) a omis de verser au receveur général du Canada des montants déduits ou retenus du salaire ou du traitement de ses employés pour les mois de janvier, de février, de mars et d'avril 1998.
+[2] Les dispositions législatives qui donnent naissance à l'obligation de SLC de déduire ou de retenir et de verser les montants sont les paragraphes 153(1) de la Loi, 21(1) du RPC et 82(1) de l'a.-e. Lorsqu'une société employeuse omet de se conformer aux obligations découlant de ces dispositions, « [...] les personnes qui en étaient les administrateurs à la date de l'omission » sont solidairement responsables envers Sa Majesté du paiement du montant que l'employeuse était tenue de payer[1].
+[3] La présente affaire soulève les deux questions suivantes :
+a) SLC a-t-elle omis de verser un montant jusqu'au point conclu par le ministre lors de la cotisation?
+b) L'appelant a-t-il agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables? Si et dans la mesure où il a ainsi agi, en vertu du paragraphe 227.1(3) de la Loi, il est dégagé de la responsabilité.
+[4] Dans la décision Smith c. R., C.A.F., no A-154-00, 26 mars 2001 ([2001] 2 C.T.C. 192), la Cour d'appel fédérale a examiné l'objet législatif sous-jacent des dispositions de la Loi de l'impôt sur le revenu et de la Loi sur la taxe d'accise portant sur la responsabilité des administrateurs. On trouve ce qui suit aux paragraphes 6 et 7 :
+[6] Les dispositions portant sur la responsabilité des administrateurs ont été adoptées pour permettre à la Couronne de mieux faire respecter l'obligation que la loi impose à certains contribuables de verser les impôts payables par des tiers, comme l'impôt sur le revenu retenu à la source sur le salaire d'employés et la TPS nette perçue des clients. Normalement, les recours de la Couronne contre une société qui ne verse pas les impôts des tiers se limiteraient aux avoirs de la société. Ceci découle nécessairement de l'existence d'une personne morale distincte. On a toutefois constaté qu'une société, surtout lorsqu'elle faisait face à des difficultés financières, pourrait préférer ne pas satisfaire son obligation de verser les impôts afin de payer des créanciers dont les réclamations semblent plus pressantes. On a donc cru qu'il était nécessaire d'adopter une législation qui empêcherait les sociétés de faire un tel choix.
+[7] En conséquence, on a adopté les paragraphes 227.1(1) de la Loi de l'impôt sur le revenu et 323(1) de la Loi sur la taxe d'accise, qui permettent, sous réserve de certaines conditions, d'imposer une responsabilité aux administrateurs d'une société qui n'a pas versé les impôts perçus de tiers : Soper c. Canada [1998] 1 C.F. 242, 215 N.R. 372, 149 D.L.R. (4th) 297, [1997] 3 C.T.C. 242, 97 D.T.C. 5407 (C.A.F.). Ceci présuppose que ce sont les administrateurs qui prennent la décision faisant que la société ne respecte pas ses obligations de verser les sommes en cause : Kalef c. Canada (1996), 194 N.R. 39, 39 C.B.R. (3d) 1, [1996] 2 C.T.C. 1, 96 D.T.C. 6132 (C.A.F.).
+Les remarques ci-dessus s'appliquent tout autant aux dispositions analogues de l'a.-e. et du RPC.
+[5] Dans la décision Smith, la Cour d'appel fédérale a inclus, aux paragraphes 9 à 14 de ses motifs, un aperçu utile des principaux éléments de la défense de diligence raisonnable :
+[9] L'arrêt Soper, précité, a établi que la norme de prudence décrite dans la défense de diligence raisonnable au sens de la loi est essentiellement la même que la norme de prudence en common law, établie dans l'arrêt City Equitable Fire Insurance Commission., In re, [1925] ch. 407 (C.A.). Il s'ensuit que ce à quoi on peut raisonnablement s'attendre d'un administrateur aux fins des paragraphes 227.1(1) de la Loi de l'impôt sur le revenu et 323(1) de la Loi sur la taxe d'accise dépendra des faits de l'affaire, avec un élément objectif et un élément subjectif.
+[10] L'élément subjectif de la norme de prudence applicable à un administrateur donné dépendra de ses qualités personnelles, y compris ses connaissances et son expérience. En général, une personne expérimentée en affaires ou en questions financières sera tenue à une norme plus élevée qu'une personne qui n'a pas de connaissances ou d'expérience en affaires et dont le statut d'administrateur reflète, par exemple, un simple lien familial. Toutefois, la défense de diligence raisonnable ne sera d'aucune aide à un administrateur qui n'a pas tenu compte des obligations imposées aux administrateurs par la loi, ou qui n'a fait aucun cas d'un problème dont il connaissait l'existence, ou dont il aurait dû connaître l'existence comme toute personne prudente en pareilles circonstances (Hanson c. Canada (2000) 260 N.R. 79, [2000] 4 C.T.C. 215, 2000 D.T.C. 6564 (C.A.F.)).
+[11] En évaluant objectivement l'aspect raisonnable de la conduite d'un administrateur, il y a lieu de tenir compte de facteurs comme le volume, la nature et la complexité des affaires de la société, ainsi que de ses coutumes et pratiques. Plus une entreprise est importante et complexe, plus il sera raisonnable que les administrateurs se partagent les responsabilités, ou qu'ils délèguent le règlement de certaines questions au personnel de la société et à des conseillers extérieurs auxquels ils accordent leur confiance.
+[12] La souplesse inhérente à la défense de diligence raisonnable peut créer des situations où une norme de prudence plus élevée s'impose à certains administrateurs d'une société par rapport à d'autres. Par exemple, il peut être approprié d'imposer une norme plus élevée à un « administrateur interne » (par exemple, un directeur ayant l'habitude de la gestion au jour le jour) qu'à un « administrateur externe » (comme un directeur qui connaît assez peu les affaires de la société et n'est impliqué que de façon superficielle).
+[13] Ceci s'applique plus particulièrement s'il est démontré que l'administrateur externe a donné foi de façon raisonnable aux assurances données par les administrateurs internes que les remises d'impôts correspondant aux obligations de la société étaient effectivement versées. Voir notamment Cadrin c. Canada (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 D.T.C. 5079 (C.A.F.).
+[14] Dans certaines circonstances, le fait qu'une société soit en difficultés financières et donc à risque plus élevé que d'autres sociétés de ne pas verser ses remises d'impôts peut être un facteur qui milite pour une norme de prudence plus élevée. Par exemple, un administrateur qui connaît les difficultés financières de la société et qui décide sciemment de financer les opérations de la société avec les sommes prélevées à la source et non remises pourrait ne pas pouvoir invoquer la défense de diligence raisonnable (Ruffo c. Canada, 2000 D.T.C. 6317 (C.A.F.)). Toutefois, il est important de se rappeler que dans tous les cas la norme est celle du raisonnable et non celle de la perfection.
+[6] À l'audition de l'appel, l'appelant et sa soeur, Joan Michelle Clements, qui, à l'époque pertinente, était responsable de la comptabilité, des fonctions de paie et des versements au gouvernement de la SLC, ont témoigné.
+[7] SLC a été constituée en personne morale au mois d'avril 1990. Pendant toutes les périodes pertinentes, l'appelant était l'unique actionnaire et l'administrateur. Elle exploitait une entreprise de camionnage. Son travail consistait presque exclusivement en la livraison de biens pour Sears Canada (Sears). Au début de 1998, elle avait environ 38 employés.
+[8] L'appelant a terminé ses études secondaires et a obtenu un diplôme d'un cours de qualification de deux ans qui l'a qualifié de technicien de laboratoire. Il conduit des camions depuis 1983. Pendant la période de 1986 à 1988, l'appelant travaillait à titre d'employé pour une compagnie nommée Canada Cartage. Elle livrait des biens pour Sears. En 1988, il y a eu un désaccord entre Canada Cartage et Sears, et l'appelant s'est lancé dans la livraison pigiste pour Sears. Par la suite, SLC a été constituée en personne morale et a commencé à travailler pour Sears. La relation entre SLC et Sears a pris fin en 1995. En juin 1997, un nouveau contrat de livraison a été conclu entre SLC et Sears. Ce dernier semble avoir été la source de presque toutes les activités commerciales de SLC pendant la période pertinente.
+[9] En juin 1997, la situation financière de l'appelant et de SLC semble avoir été précaire. L'appelant a témoigné qu'il n'avait pas de crédit à l'époque. Il semble que le paiement sans retard du revenu tiré du contrat avec Sears était essentiel à la santé financière de SLC. Le contrat prévoyait que Sears devait payer SLC le jour suivant la présentation d'une facture.
+[10] Selon le témoignage de l'appelant, l'omission de SLC de verser les retenues salariales était afférente aux difficultés financières causées par le fait de s'être écarté des dispositions du contrat de livraison portant sur le moment des paiements ou de les avoir modifiées. Selon l'appelant, en février 1998, Sears l'a averti qu'elle avait l'intention de commencer à effectuer les paiements 30 jours suivant la réception des factures de SLC.
+[11] Sears a payé les factures de SLC remises le 4 mars 1998 mais n'a pas effectué un autre paiement avant le 20 avril. Selon l'appelant, le versement au receveur général du 15 mars 1998 des retenues salariales du mois de février 1998 ne pouvait pas être effectué parce que SLC n'avait pas d'argent. Il a témoigné qu'il avait indiqué à Sears que si elle ne payait pas SLC, elle était pour faire faillite et que Sears a [traduction] « commencé à embaucher nos employés » .
+[12] Il convient de noter que bien que, raison de la modification du moment des paiements versés à SLC par Sears, SLC ait éprouvé des difficultés au mois de mars 1998 à verser les retenues salariales du mois de février, cette modification ne peut pas expliquer l'omission de SLC de verser au mois de février 1998 les retenues salariales du mois de janvier 1998.
+[13] Il ressort clairement du témoignage de Joan Clements que SLC était dans un état continu de crise financière de juin 1997 jusqu'à mai 1998, date à laquelle la compagnie a fait faillite. Elle a déclaré que [traduction] « nous cherchions toujours des fonds » et que Sears n'avait pas avancé à SLC les fonds de démarrage qu'elle avait promis. Elle a décrit la SLC comme une petite compagnie qui « était égorgée dès le début » .
+[14] L'appelant et Mme Clements ont tous les deux convenu que le chèque du mois de février 1998 pour le versement des retenues salariales du mois de janvier fait à l'ordre du receveur général n'était pas signé parce qu'il serait sans provision. L'appelant a soutenu qu'on lui avait dit que le paiement avait été effectué mais il ne pouvait pas identifier la personne qui le lui a dit. Deux personnes ont le pouvoir de signer les chèques de SLC, à savoir l'appelant et sa soeur Debby Best. Mme Best n'a pas été appelée à témoigner. À mon avis, il était fort peu probable que l'appelant croyait que SLC, une compagnie qui depuis un certain temps avait été dans une situation financière délicate, avait versé le paiement du 15 février. Je ne suis pas convaincu que l'appelant a été induit en erreur ou empêché de quelconque manière de découvrir la vérité. Je rejette la proposition selon laquelle l'appelant n'était pas au courant des problèmes des mois de janvier et de février et selon laquelle l'insuffisance des retenues salariales n'est venue à sa connaissance qu'au mois de mars.
+[15] Il ressort de la preuve qu'au mois de février, SLC a effectué des paiements à des créanciers autre que Sa Majesté. SLC a payé son locateur. Elle a également payé les membres de la famille de l'appelant à qui SLC était endettée.
+[16] L'appelant a reconnu qu'un peu avant le milieu du mois de mars 1998, il s'est rendu compte qu'il y aurait une insuffisance lorsque les retenues salariales du mois de février devaient être versées. Il a déclaré qu'il savait à cette époque qu'il allait « fermer » la compagnie. Aucun élément de preuve n'appuie la conclusion selon laquelle l'appelant avait fait des efforts pour amasser des fonds en vue d'effectuer le versement du 15 mars au receveur général. L'appelant a énoncé qu'il croyait mieux laisser le syndic de faillite s'occuper du versement des retenues salariales et que les comptes débiteurs de SLC à l'époque étaient suffisants pour permettre le syndic de faillite de payer toutes les créances de la compagnie. Il a expliqué que l'insuffisance relative au paiement que devait verser le syndic au receveur général était imputable aux frais exigés par le syndic de faillite.
+[17] Dans ses arguments portant sur la défense de diligence raisonnable, qui est soulevée selon le paragraphe 227.1(3) de la Loi, l'avocat de l'appelant a mentionné les éléments objectifs et subjectifs examinés par la Cour d'appel fédérale dans la décision Neil Soper c.La Reine, C.A.F., no A-129-95, 27 juin 1997 (97 DTC 5407). L'avocat a soutenu que l'appelant n'avait pas une formation en gestion d'entreprise ou en comptabilité, qu'il avait fait des études limitées et qu'il n'avait que peu d'expérience en affaires. Il a soutenu que, compte tenu de ces restrictions subjectives, en engageant sa soeur Joan à titre d'aide comptable ou de comptable et en tenant des réunions hebdomadaires afin de discuter des problèmes de l'entreprise, l'appelant a respecté la norme législative. Il a soutenu que l'omission découlait d'affaires échappant au contrôle de l'appelant.
+[18] Il est difficile de trouver des éléments de preuve qui appuient les arguments de l'avocat de l'appelant. J'estime que l'appelant était tout à fait capable de gérer et de contrôler l'entreprise de SLC. La compagnie était d'une taille modeste, et la tâche n'était pas considérable. Il avait fait des études postsecondaires. Son expérience dans l'entreprise de camionnage était considérable. L'appelant avait toute l'aide compétente de sa soeur Joan qui exploitait un système comptable informatisé qui pouvait lui fournir des données financières, notamment l'état de la paie.
+[19] Je ne peux pas accepter la proposition selon laquelle les omissions de verser les retenues salariales étaient causées par des circonstances échappant au contrôle de l'appelant. Il était responsable d'une entreprise qui faisait face à des difficultés financières évidentes. Le risque de ne pas verser les retenues salariales était évidemment élevé. L'appelant avait accès aux faits. Un unique administrateur et actionnaire avait le pouvoir de prendre les mesures efficaces pour prévenir les défauts de versements. Je n'ai aucun doute qu'il possédait la connaissance et les habiletés nécessaires pour comprendre la gravité de la situation et de prendre des mesures efficaces pour verser les montants exigés. Dans les circonstances, l'appelant était tenu de prendre des mesures positives pour prévenir le défaut. Il n'existe tout simplement pas d'élément de preuve crédible qui permet de conclure que l'appelant a abordé le problème avant le milieu du mois de mars 1998 lorsqu'il a permis SLC de faire faillite et de laisser le syndic de faillite s'occuper du paiement des retenues salariales. Cette décision ne peut pas être considérée comme un effort pour prévenir le défaut. Elle ne peut même pas être qualifiée de plan pratique pour corriger les défauts antérieurs parce qu'il n'existe simplement pas d'élément de preuve pour appuyer l'argument de l'appelant selon lequel le syndic aurait des actifs suffisants pour payer les arriérés.
+[20] Dans la décision Soper c. La Reine (précitée), le juge d'appel Marceau a prononcé de brefs motifs concordants quant au résultat. À la page 5420, il examine l'obligation imposée aux administrateurs en vertu de l'article 227.1. Il a déclaré ce qui suit :
+Je ne peux tout simplement pas imaginer qu'on puisse jamais considérer qu'un administrateur comme l'appelant en l'espèce s'est acquitté d'une telle obligation s'il ne s'est jamais soucié de cette exigence et est demeuré complètement indifférent et passif à cet égard.
+À mon avis, en l'espèce, l'appelant était « complètement indifférent et passif » à l'égard de l'obligation d'agir de façon raisonnable pour prévenir les défauts.
+[21] Les cotisations découlent du défaut de SLC de verser les retenues salariales pour la période de janvier 1998 à la fin d'avril 1998. Les témoignages de l'appelant et de Joan Clements établissent que SLC n'avait pas les fonds nécessaires pour payer les salaires du mois d'avril 1998. La preuve indique qu'au début du mois d'avril, Sears avait « embauché » les employés de SLC afin de prévenir une interruption de service à ses clients. En ce qui concerne les salaires ou les traitements que SLC n'a pas payés, cette dernière n'avait aucune obligation de retenir ou de verser un montant. Par conséquent, l'appelant ne peut pas être indirectement responsable du défaut de verser un montant au mois d'avril.
+[22] Certains éléments de preuve ont été présentés relativement au montant des traitements du mois d'avril. L'avocat de l'appelant a présenté un calcul, pièce A-6, qui était censé indiquer la somme de 42 901,36 $ à titre de traitements impayés pour la période du 29 mars au 30 avril 1998. L'appelant n'a pas montré que le calcul était fiable. L'auteur n'a pas été appelé à témoigner. Selon la pièce A-7, qui contient le calcul effectué par le ministère du Travail de l'Ontario, il existait des traitements impayés pour le mois d'avril d'un montant de 20 334,80 $, et l'avocate de l'intimée a reconnu que SLC n'était pas responsable de verser des retenues salariales sur ce montant. À mon avis, les deux calculs sont sans pertinence. Ce qui importe est le fait que SLC n'avait pas les fonds nécessaires pour payer et elle n'a pas payé les traitements pendant le mois d'avril. Je présume que le ministre du Revenu national est capable de calculer de nouveau les cotisations afin d'écarter tout montant inclus relativement aux salaires impayés par SLC au mois d'avril.
+[23] Je rendrai donc un jugement admettant les appels et déférant les cotisations au ministre du Revenu national pour nouvelles cotisations afin de dégager l'appelant de la responsabilité relativement à la conclusion erronée des traitements payés aux employés de SLC au mois d'avril 1998. Le succès est partagé. Aucuns dépens ne seront adjugés.
+Signé à Vancouver (Colombie-Britannique), ce 17e jour de juin 2003.
+« Michael J. Bonner »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de mars 2004.
+Crystal Lefebvre, traductrice
+[1] Voir l'article 21.1 du RPC et le paragraphe 83(1) de la a.-e. Le paragraphe 227.1(1) de la Loi est rédigé différemment, mais, au moins pour l'objectif de la présente affaire, ces différences ne sont pas importantes.

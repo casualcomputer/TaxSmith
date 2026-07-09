@@ -1,0 +1,188 @@
+---
+title: "Warren v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29338/index.do"
+last_modified: "2008-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 674"
+citation2: ""
+neutral_citation: "2008 TCC 674"
+decision_date: "2008-12-12"
+language: "en"
+item_id: "29338"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6923
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:33:00.506000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cb3dc1830e69a9d07a0e63c09b4474cb5b855785054ccd3c5ba84155c59d92dc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Warren v. The Queen
+
+- Citation: 2008 TCC 674
+- Decision date: 2008-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6923, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Warren v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-12
+Neutral citation
+2008 TCC 674
+File numbers
+2007-1166(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1166(IT)G
+BETWEEN:
+ELIZABETH ANNE WARREN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 4, 2008, at Ottawa, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Jason Dutrizac
+Counsel for the Respondent:
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under section 160 of the Income Tax Act, notice of which is dated November 21, 2005 and bears number 40929, is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s tax liability is limited to $55,333.
+Signed at Ottawa, Canada, this 12th day of December 2008.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2008 TCC 674
+Date: 20081212
+Docket: 2007-1166(IT)G
+BETWEEN:
+ELIZABETH ANNE WARREN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Elizabeth Warren appeals an assessment pursuant to section 160 of the Income Tax Act, whereby the Government assessed her as jointly and severally liable with her husband, Dr. Frederick Warren, for his tax liability of $261,921.56. The Minister of National Revenue invoked section 160 based on a transfer of the matrimonial home from Dr. Warren to his wife in 1998. Mrs. Warren claims that notwithstanding that Dr. Warren was the sole registered owner of the property, she had a 50% equity interest pursuant to a resulting trust, and that she paid Dr. Warren consideration equal to the fair market value of his 50% interest; consequently, section 160 of the Income Tax Act should not apply. The following are the issues:
+(i) What property interest did Dr. Warren transfer to his wife? In this regard I must consider:
+(a) Does this Court have jurisdiction to consider whether a resulting trust existed for purposes of a section 160 assessment? Yes it does.
+(b) If so, was there such a resulting trust in the circumstances before me? Yes, there was a resulting trust.
+(ii) What were the Warrens’ respective interests in the matrimonial property? I conclude Mrs. Warren and Dr. Warren had a one-third and two-thirds interest, respectively, in the property.
+(iii) Did Mrs. Warren pay to Dr. Warren consideration equal to the fair market value of such interest in the property? No, Mrs. Warren paid to Dr. Warren less than the fair market value of the property transferred ($55,333).
+Facts
+[2] In November 1982, Dr. Warren entered an agreement to acquire a lot in Manotick for $74,500 (the “Manotick property”). The Warrens’ intention was to construct their matrimonial home on this property. Prior to their move to Manotick, the Warrens lived in Ottawa (the “Elvaston property”). They were registered as joint tenants on the Elvaston property, though when initially acquired in 1974, it was in Mrs. Warren’s name, in trust. It was later transferred into both their names. I find their joint ownership of the Elvaston property reflected an equal interest in that property.
+[3] In April 1983, the Warrens took out a mortgage on the Elvaston property for $74,200. Also in April 1983, the Transfer of Land of the Manotick property was registered in Dr. Warren’s name alone, indicating a consideration of $74,500. He also granted a mortgage back of $37,250 to the Vendor of the Manotick property. Mrs. Warren testified that she believed her husband would look after her interest in the matrimonial property, for, as she put it, they were married so they would share the home together.
+[4] In June 1984, the Warrens sold the Elvaston property for $133,000. The construction of their home on the Manotick property was completed in 1984 and they moved into that property, where they continue to reside to this day.
+[5] Mrs. Warren did not know what the home in Manotick cost to build, other than it was more than anticipated. Dr. Warren estimated the total cost of construction was approximately $280,000. He suggested that funds were borrowed to pay for the construction. He suggested the borrowed funds were paid off with income from his chiropractic business. A mortgage was registered against this property to the Royal Bank of Canada in 1989 for $280,000, several years after construction had been completed.
+[6] There is a third property that also comes into play in the Warrens’ story; a property on Woodroffe Avenue in Ottawa from which Dr. Warren carried on his chiropractic clinic. Mrs. Warren testified this property was held in a company, though the only documents presented at trial indicated this property was, in 1976, in Mrs. Warren’s name (in trust), and in 1986 was transferred into her name alone. The transfer indicated consideration was “$2.00 - Transfer by Transferee to the beneficiary of the trust”. There was a mortgage of $30,000 registered against this property in 1976 to the Royal Bank of Canada.
+[7] Mrs. Warren testified that her husband paid the mortgage on the clinic property and on the Elvaston property, and also on the Manotick property up until the time that she took over ownership of the Manotick property in December 1997. She was unclear on that latter point in cross-examination. Dr. Warren testified that both he and his wife made payments on the Elvaston property. Mrs. Warren also testified that she received income from the company that owned the clinic and that she was a director of that company. I did not receive any documentary evidence indicating a company owned the clinic, received rent or paid Mrs. Warren any salary. She could not recall what rent the clinic paid, nor initially how much salary she received though she later reflected it may have been around $37,000 a year. She also made no mention of receiving salary for managing the clinic; indeed she admitted she was not a businesswoman. Dr. Warren testified that Mrs. Warren was the manager of the clinic and received a salary for that job, although he acknowledged that she did not actually have to go to the clinic to manage it. I describe this testimony as it has led me to the conclusion that Mrs. Warren had little, if any, involvement in arranging the couple’s financial situation. It is clear that it was Dr. Warren, with the assistance of an accountant, a Mr. Savarin, who made the arrangements. Mrs. Warren simply believed her husband would protect her. I am satisfied she received income, though I am not sure exactly what she did to earn it.
+[8] With that background, I turn now to what occurred in December 1997. Dr. Warren was in some financial straits. He needed to consolidate his debts and he turned to Healthgroup Financial, a division of Newcourt Credit Group Inc. to do so. As he testified, his accountant set up everything. He was not aware of any tax obligations at this stage. His current accountant, Mr. Patterson, testified that the former accountant had led Dr. Warren to believe he owed no taxes. Dr. Warren in fact owed $261,921.56.
+[9] In December 1997, Dr. Warren transferred the Manotick property to his wife. The transfer documents show a transfer from Dr. Warren to his wife for $90,000 (the $90,000 being the assumption of the mortgage against the property). The property had a fair market value of $425,000. Coincidentally, with the registration of the transfer, a new mortgage was placed on the property (now in Mrs. Warren’s name) in the amount of $168,000 showing Healthgroup as the lender, Mrs. Warren as borrower, and Dr. Warren as guarantor. Also at the same time, a mortgage in the amount of $206,000 was registered by Healthgroup against the clinic property, again showing Dr. Warren as guarantor. This was all, according to Dr. Warren, in connection with the consolidation of debts.
+[10] Clearly, Mrs. Warren entered these arrangements on the advice of her husband. At one point in testimony, she indicated she made the mortgage payments on the $168,000 mortgage, though in cross-examination she was less sure: she had no idea how much the payments were. She also assumed that her husband made the mortgage payments on the clinic property.
+Appellant’s Position
+[11] The Appellant argues that at the time Dr. Warren transferred the Manotick property to her in December 1997, she already had a 50% interest in the property, arising from a resulting trust. She was therefore only acquiring Dr. Warren’s 50% interest, valued at $212,500, for which she assumed her share of the $90,000 mortgage ($45,000) and borrowed a further $168,000, which she argues formed part of the consideration, as it went to Dr. Warren’s consolidation of debts arrangement. There is therefore no inadequate consideration which would bring section 160 of the Income Tax Act into play.
+Respondent’s Position
+[12] The Respondent argues firstly that the Court has no jurisdiction to consider the resulting trust, as the Tax Court of Canada is not a Court of equity. Further, Mrs. Warren only paid $90,000 for a property valued at $425,000, as the subsequent $168,000 mortgage did not constitute part of the consideration paid to Dr. Warren. Section 160 of the Income Tax Act is therefore engaged, and Mrs. Warren has been correctly assessed for her husband’s tax liability of $261,921.56.
+Analysis
+[13] Subsection 160(1) reads as follows:
+160(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[14] There are four elements to the application of this provision in this case:
+(i) There must be a transfer of property from Dr. Warren to Mrs. Warren;
+(ii) Dr. Warren and Mrs. Warren must be spouses;
+(iii) There must be no consideration (or inadequate consideration) flowing from Mrs. Warren to Dr. Warren for the property transferred; and
+(iv) Dr. Warren must be liable to pay an amount under the Act in or in respect of the year when the property was transferred or in any preceding year.
+[15] Only the first and third elements are at play before me. With respect to the requirement of the transfer of property, there is no question Dr. Warren transferred property to his wife in December 1997. The question, however, is what was the extent of his interest in the property transferred? He was the sole registered owner of the Manotick property, but the Appellant argues Dr. Warren only had a 50% interest in that property to transfer to her, as she had a 50% interest arising from her resulting trust.
+[16] The Respondent argues that a finding of a resulting trust, as an equitable remedy, cannot be determined by this Court as the Tax Court is not a Court of equity. Certainly, Justice Webb concluded in the recent decision of Darte v. R.[1] that a constructive trust must be judicially declared, which had not happened in that case. He neatly sidestepped this obstacle by finding that the Appellant had a right to apply to a Court of equity for a declaration of constructive trust, and that that right could be valued at the same amount as the actual beneficial interest itself. The parties before me did not argue the constructive trust: they focused on the resulting trust.
+[17] As pointed out by Professor Waters in the Waters’ Law of Trusts in Canada:[2]
+The terms “implied”, “resulting” and “constructive” trusts have caused a good deal of confusion in the law of trusts, … (page 454)
+What is clear is that the resulting trust is recognized as something separate from the constructive trust. The Respondent argues that it is not open to the Tax Court to find Dr. Warren’s interests in the Manotick property as anything other than a 100% interest, for purposes of the application of section 160 of the Income Tax Act. The Crown seeks support for this proposition in the judgment of Justice Webb in Darte, and also the judgment of Justice Angers in Burns v. R.[3] where Justice Angers, in dealing also with a section 160 issue, stated:
+25 In my opinion, the appellant cannot invoke these equitable remedies to argue that the transfers amounted to a conveyance to her of the interest she had in the properties at the time, when in fact she and McCarthy were still living together and no apparent cause or need to remedy an economic injustice existed between McCarthy and the appellant. See Blackman v. Davison (1986), 2 B.C.L.R. (2d) 8 (B.C.S.C.). The transfer of the properties was not done pursuant to a finding that the appellant had an equitable interest in them.
+[18] In the recent decision of Livingston v. R.,[4] the Federal Court of Appeal addressed the possibility of a resulting trust in the context of a section 160 issue, and found that it was unnecessary to consider that argument, however, the Court did not raise any concerns about jurisdiction to consider such an equitable remedy. Further, in the case of Savoie v. R.,[5] Former Chief Justice Bowman stated that the doctrine of constructive trust could be invoked in determining the fair market value of a property transfer by a tax debtor for purpose of the application of section 160 of the Income Tax Act.
+[19] One purpose of section 160 is to prevent taxpayers from thwarting the Government’s ability to collect tax by transferring property to a spouse. It is not intended to widen the Government’s collection powers to seize property that never was beneficially owned by the debtor taxpayer. To effectively turn a blind eye to the legal and equitable realities, under the guise of some purported lack of authority, could lead to not just a harsh result, but a result contrary to the very object and spirit of the legislation in issue. Given Former Chief Justice Bowman’s view in Savoie, given I have been referred to no definitive statement from the Federal Court of Appeal or the Supreme Court of Canada as to the application of a resulting trust in a section 160 assessment situation, and given my colleague Justice Webb’s end-around to accomplish the same objective as a finding of constructive trust, I am prepared to consider whether the circumstances of the Warrens’ property holdings justify a conclusion of a resulting trust for the purposes of determining exactly what property was transferred by Dr. Warren to his wife.
+[20] In April 1983, at the time Dr. Warren took title to the Manotick property (at that stage bare land) in his name alone the following was the situation:
+(i) Dr. Warren provided a $37,250 mortgage back on the Manotick property to the Vendor.
+(ii) Dr. Warren and Mrs. Warren borrowed $74,200 from the Royal Bank secured by a mortgage registered against the Elvaston property (held jointly).
+(iii) Mrs. Warren’s intention was that Dr. Warren would look after her interests.
+[21] For the several months after the transfer, the following transpired:
+(i) Costs were incurred of approximately $280,000 for construction of the home on the Manotick property.
+(ii) In 1984, the Elvaston property sold for $133,000 (equity of approximately $60,000) and, according to Mrs. Warren, the proceeds went into construction of the house.
+(iii) According to Dr. Warren, the house was constructed with borrowed funds, though a review of the documents provided show no further borrowing against the Manotick property until 1989.
+[22] The concept of resulting trust is not complicated. As Professor Waters asks in Waters Law of Trusts in Canada, in his chapter on resulting trusts:
+What is the position if two persons advance the money for the purchase of certain property, which is taken in the name of one of them? If the amount subscribed by each is determinable, it is clear that the transferee holds on a proportionate resulting trust. … (page 370)
+[23] I believe that is the situation before me. Two people contributed to the Manotick property notwithstanding title was put in Dr. Warren’s name alone. I have been convinced it was intended that some part of the Manotick property was held for Mrs. Warren. So, for purposes of the section 160 appeal, the property which the Government can trace, now in Mrs. Warren’s name, is only that part of the property to which she was not previously beneficially entitled.
+[24] What then is the extent of the interest in the property held by Dr. Warren for his wife. The Warrens claim he held half the property for his wife. I am not convinced that reflects Mrs. Warren’s real contribution. According to Dr. Warren, the Manotick property cost $74,500 for the lot and approximately $280,000 for the construction of the house for a total cost of $354,500. Of that, $133,000 came from the Elvaston property, the former matrimonial home, held jointly by Dr. Warren and his wife. In reviewing the history of that property, the Elvaston property, I have been satisfied that joint ownership reflects an equal ownership. A further $37,000 came from a mortgage Dr. Warren gave back to the Vendor of the Manotick property, and for which Dr. Warren made the mortgage payments. There remains approximately $184,500 to account for, to cover the costs towards the construction of the Manotick property. Dr. Warren testified this came from borrowing. Mrs. Warren did not have a clear handle on the financial and business affairs to offer any insight on this issue. I conclude that the source of the $184,500 could only have come from the one source of revenue for the Warrens and that was the clinic. The clinic was registered in Mrs. Warren’s name and she claims to have received some rental income from it. Again, her testimony was somewhat confusing on this point, as she suggested a company owned the property and she got salary from the company. Dr. Warren testified that Mrs. Warren received a salary as manager of the clinic and rent as owner of the clinic. I accept that Mrs. Warren received some income from the clinic in 1983 and 1984 when funds were needed to put into the Manotick property. The only evidence as to amount is the $37,000 per year Mrs. Warren suggested. I find that such income was likely considerably less than what Dr. Warren was taking from the clinic. Unfortunately, I heard little evidence on this critical aspect of the source of funds for the Manotick property. Though Dr. Warren suggested funds were borrowed for the construction costs, I have no evidence of that. The only mortgage was long after the construction.
+[25] To find a resulting trust, the amount contributed by the beneficiary must be readily determinable. Dr. Warren and Mrs. Warren have made it difficult to make such a ready determination. I am left to surmise from Mrs. Warren’s annual income, Dr. Warren’s control of financial affairs and, granted, a presumption that he drew the lion’s share from the clinic that of the $184,500 contributed to the construction of the house, $50,000 at most may have been contributed by Mrs. Warren. This is, I would suggest, closer to the truth than a finding that Mrs. Warren contributed none of it, half of it or all of it.
+[26] In summary, of the $354,500 for the purchase of the lot and construction of the home, Mrs. Warren contributed half of $133,000 plus $50,000 or a total of $116,500, compared to Dr. Warren’s contribution of $238,000. I conclude that the interest held by Dr. Warren for Mrs. Warren in the Manotick property was approximately a one-third interest. Dr. Warren had a two-thirds interest. It was this two-thirds interest in the property that he transferred to Mrs. Warren in January 1998. I wish to emphasize that this analysis is not one of a constructive trust on the breakdown of marriage. It is an analysis to determine the extent of Mrs. Warren’s interest as a beneficiary of a resulting trust for purposes of the application of section 160 of the Income Tax Act. I conclude Dr. Warren did indeed transfer property to his wife, but the property transferred was a two-thirds interest in the Manotick property, not the 50% interest as suggested by the Appellant nor the 100% interest as suggested by the Respondent.
+[27] I now turn to the second element of the section 160 analysis, and that is the adequacy of the consideration Mrs. Warren provided to her husband for the two‑thirds interest. There is no dispute that at the time of transfer the Manotick property was valued at $425,000, with a $90,000 mortgage against it, leaving an equity of $335,000. So what did Mrs. Warren pay to Dr. Warren for his two-thirds interest?
+[28] In the transfer document the consideration is shown only as the $90,000 remaining balance of the mortgage, and the purpose for the conveyance is stated as “conveyance from husband to wife for natural love and affection”. Coincidentally with the transfer a mortgage is registered against the property for $168,000 showing Mrs. Warren as the chargor, Healthgroup Financial as the chargee and Dr. Warren as the guarantor. The Respondent argues that the $168,000 was not part of the consideration, firstly, as it was not registered against the property at the time of the transfer, and secondly that there was no documentary evidence indicating the funds went to Dr. Warren.
+[29] With respect to the Respondent’s first position that the mortgage was subsequent to the transfer, and therefore not part of the consideration, I refer to the Transfer/Deed of Land which shows a registration date of January 6, 1998 at 11:40 a.m. and the mortgage for $168,000 showing a registration date of January 6, 1998 at 11:41 a.m. While the transfer does not refer to the $168,000 mortgage as part of the consideration, the timing is such that these events did take place coincidentally. The Respondent appears to be suggesting that Mrs. Warren only paid $90,000 for the property, then borrowed against the property to raise $168,000 for whatever other purpose she may have intended. But that purpose was to accommodate her husband’s consolidation of debt agenda. It is not the timing of the registration of the mortgage that is conclusive, nor the statements in the Transfer/Deed of Land itself, but whether in fact the $168,000 went from Mrs. Warren to Dr. Warren to buy the property. This leads to the consideration of the Respondent’s second point.
+[30] What evidence is there that the $168,000 mortgage went to Dr. Warren as consideration for the Manotick property. As already indicated, the Transfer does not recognize the $168,000 as part of the consideration. The Charge/Mortgage of Land document registered with the Land Registry Office does though show Dr. Warren as a guarantor. I have already commented on Mrs. Warren’s limited knowledge of the financial affairs: it was not her but Dr. Warren who, with the assistance of an accountant, devised this plan to consolidate debts. As he testified, he asked his wife to take out the $168,000 mortgage as he was consolidating debts and needed the money for his business, presumably the clinic. When questioned in cross‑examination about how much the mortgage payments were and who made them, it was clear Mrs. Warren had no idea. This is not intended in any way to be a criticism of Mrs. Warren: the financial arrangements were just not her area of expertise. She was simply helping her husband.
+[31] Although there is no documentary trace of exactly where the $168,000 went, I have been satisfied that it did not go into Mrs. Warren’s pocket, but went directly or indirectly to the benefit of her husband. There is no evidence to suggest otherwise. It really comes down to whether Mrs. Warren gave her husband the money, or paid him the money to buy his interest out. She never addressed her mind to how this was structured legally. Dr. Warren needed money. If he simply borrowed the $168,000 against the Manotick property, and the property remained in his name, he would have reduced his wife’s equity in the property (whether she had a 50% resulting trust interest, or as I have determined, a one-third interest). So, he protected his wife’s interest by shifting the property into her name (presuming he, in turn, retains no resulting trust interest in the property now in his wife’s name ‑ this is not an avenue of analysis explored by either side, for good reason ‑ the image of a dog chasing its tail comes to mind). Tax impact aside, this objective was met whether the $168,000 was consideration for the transfer or simply a subsequent loan, the proceeds of which were for Dr. Warren’s benefit. While Mrs. Warren and Dr. Warren may not have addressed their minds as to how the $168,000 was to be categorized, it is clear that it went hand in hand with the transfer. It was clearly prearranged so that it would be registered coincidentally with the transfer. There is no doubt, as far as Dr. Warren was concerned, there would be no transfer unless there was the Healthgroup mortgage. I conclude it was all part of the same deal, and therefore, did constitute part of the consideration from Mrs. Warren to her husband.
+[32] I have a concern with respect to the value of the $168,000 mortgage Mrs. Warren took out to pay her husband. Firstly, she was unsure whether she made the mortgage payments. Secondly, I am satisfied she had no involvement in arranging the financing. Thirdly, Dr. Warren was guarantor and may have been making the mortgage payments himself. No banking documents were presented to indicate who made the payments. The Respondent did not raise these matters to suggest that the $168,000 had a value of anything other than $168,000. While I have concerns whether in these circumstances the $168,000 is properly valued as $168,000 of consideration for the property, I do not intend to engage in an exercise of actuarial and appraisal speculation, when the Respondent has not led me there. I take the $168,000 at its face value.
+[33] What really occurred between Dr. Warren and Mrs. Warren was that by assuming the existing mortgage and adding a further $168,000 mortgage, proceeds of which went to Dr. Warren’s benefit, Mrs. Warren was effectively acquiring Dr. Warren’s equity in the property for $168,000. She argues that Dr. Warren’s equity was $168,000 so she paid adequate consideration for purposes of section 160. In that regard, she is mistaken. Dr. Warren’s equity interest in the property was two-thirds of $335,000, or $223,333. She therefore did not pay him fair market value. She fell short by $55,333, and it is that amount for which she is exposed pursuant to section 160.
+[34] The appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Mrs. Warren’s tax liability pursuant to section 160 is to be limited to $55,333. Given the limited success, I am making no award of costs in this matter.
+Signed at Ottawa, Canada, this 12th day of December 2008.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2008 TCC 674
+COURT FILE NO.: 2007-1166(IT)G
+STYLE OF CAUSE: ELIZABETH ANNE WARREN AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: November 4, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: December 12, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jason Dutrizac
+Counsel for the Respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jason Dutrizac
+Firm: Gibsons LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2008 TCC 66.
+[2] Donovan W.M. Waters, Q.C., Mark R. Gillen & Lionel D. Smith, Waters’ Law of Trusts in Canada, 3rd ed. (Toronto: Thomson Carswell, 2005) at p. 454.
+[3] [2006] 5 C.T.C. 2392.
+[4] 2008 FCA 89.
+[5] 93 DTC 552.

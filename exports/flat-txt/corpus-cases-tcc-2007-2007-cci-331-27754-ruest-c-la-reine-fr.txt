@@ -1,0 +1,332 @@
+Title: Ruest c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27754/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-331-27754-ruest-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-07-09
+
+# Ruest c. La Reine
+
+- Citation: 2007 CCI 331
+- Decision date: 2007-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 307, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ruest c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-09
+Référence neutre
+2007 CCI 331
+Numéro de dossier
+2004-3149(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3149(IT)I
+ENTRE :
+JACQUELINE RUEST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Claude Ruest (2004-3168(IT)I)
+le 14 mai 2007, à Edmundston (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentante de l'appelante :
+Denyse C. Morin
+Avocat de l’intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2000 et 2001 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa (Canada), ce 9e jour de juillet 2007.
+« François Angers »
+Juge Angers
+Dossier : 2004-3168(IT)I
+ENTRE :
+CLAUDE RUEST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Jacqueline Ruest (2004-3149(IT)I)
+le 14 mai 2007, à Edmundston (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentante de l'appelant :
+Denyse C. Morin
+Avocat de l’intimée :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2000 et 2001 est rejeté selon les motifs du jugement ci‑joints.
+Signé à Ottawa (Canada), ce 9e jour de juillet 2007.
+« François Angers »
+Juge Angers
+Référence : 2007CCI331
+Date : 20070709
+Dossiers : 2004-3149(IT)I
+2004-3168(IT)I
+ENTRE :
+JACQUELINE RUEST
+et CLAUDE RUEST,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Les deux appels ont été entendus sur preuve commune. Les deux dossiers portent sur les années d’imposition 2000 et 2001, pour lesquels les appelants se sont vus refuser des dépenses ou des pertes de location par le ministre du Revenu national (le « ministre ») dans des avis de nouvelles cotisations établis le 10 avril 2003 et ratifiés par la suite le 4 février 2004. De son côté, l’appelante Jacqueline Ruest s’est vue refuser la déduction des dons de bienfaisance et de dépenses d’emploi pour les deux mêmes années d’imposition.
+[2] Les appelants sont conjoints et ils ont fait l’achat d’un immeuble locatif en 2000 (l’immeuble). Je reproduis ci-dessous un des deux tableaux indiquant les montants déclarés et réclamés par les appelants ainsi que ceux que le ministre a refusés ou acceptés pour cet immeuble. Je ne reproduis qu’un seul tableau puisqu’ils sont identiques, à l’exception du pourcentage de l’intérêt de propriété. Le seul témoin pour les appelants a été madame Ruest.
+Tableau 1 : Résumé des revenus et des dépenses de location de l’appelant.
+Revenus et dépenses de location *
+2000
+2001
+Catégorie
+Montant réclamé
+Montant refusé
+Montant accepté
+Montant réclamé
+Montant refusé
+Montant accepté
+Revenu
+2 800 $
+2 800 $
+4 800 $
+4 800 $
+Dépenses
+Assurances
+795 $
+563 $
+232 $
+556 $
+324 $
+232 $
+Intérêts
+589 $
+589 $
+2 874 $
+0 $
+2 874 $
+Entretien / réparation
+12 000 $
+12 000 $
+0 $
+3 800 $
+0 $
+3 800 $
+Frais comptables / judiciaires
+2 944 $
+2 944 $
+0 $
+Néant
+Impôts fonciers
+1 980 $
+1 980 $
+0 $
+2 018 $
+0 $
+2 018 $
+Frais de voyage
+375 $
+0 $
+375 $
+380 $
+0 $
+380 $
+Services publics
+300 $
+300 $
+0 $
+300 $
+0 $
+300 $
+Autres dépenses
+530 $
+0 $
+530 $
+550 $
+0 $
+550 $
+Total
+19 513 $
+17 787 $
+1 726 $
+10 478 $
+324 $
+10 154 $
+Revenus (perte)
+(16 713 $)
+1 074 $
+(5 678 $)
+324 $
+(5 354 $)
+Copropriété 20%
+(3 342 $)
+215 $
+(1 136 $)
+65 $
+(1 071 $)
+Amortissement
+1 088 $
+215 $
+933 $
+933 $
+0 $
+Perte nette
+(4 430 $)
+0 $
+(2 069 $)
+998 $
+(1 071 $)
+* Source : Réponses aux avis d’appel
+[3] Dans son témoignage, madame Ruest n’a pas abordé toutes les dépenses qui lui furent refusées. Les rubriques « entretien et réparation », « frais comptables et judiciaires » et « impôts fonciers » sont celles qui ont retenu son attention. Au moment de l’achat, l’immeuble était une maison neuve, sauf que les câbles électriques n’y étaient pas installés. Les appelants ont donc dépensé de l’argent pour y faire mettre les installations électriques et des dépenses de 12 000 $ furent accordées à ce titre, bien que les appelants n’aient pu produire des reçus que pour 9 500 $ lors de la vérification. Les appelants ont réclamé cette dépense comme étant une dépense courante, alors que le ministre l’a décrite comme une dépense en capital et l’a donc refusée. Les frais judiciaires ont reçu le même traitement par le ministre.
+[4] Il s’agit donc de déterminer si les frais judiciaires et les dépenses d’amélioration de l’immeuble pour le rendre conforme sont des dépenses en immobilisation, donc des dépenses en capital, que le ministre a refusées à juste titre selon l’alinéa 18(1)b) de la Loi de l’impôt sur le revenu (la « Loi »). La juge Lamarre Proulx, dans Produits Forestiers St-Armand inc. c. Canada, 2003 CCI 696, a fait référence à quelques passages du livre intitulé « Les principes de l’imposition au Canada » (13e édition, 2002), qui répète le critère traditionnel pour déterminer si une dépense est de nature capitale ou de nature courante. Le passage se lit comme suit :
+Le test classique pour déterminer si une dépense est de nature capitale ou de nature courante peut être formulé de la façon suivante : la dépense a-t-elle été faite dans le but de conférer un avantage durable à l'entreprise du contribuable? Dans l'affirmative, elle est de nature capitale.
+Le test a d'abord été élaboré par les tribunaux britanniques et plus particulièrement par le Vicomte Cave dans l'arrêt British Insulated and Helsby Cables Ltd. c. Atherton, [1926] A.C. 205 (H.L.). Il a été repris par la suite par la Cour suprême du Canada dans l'arrêt Montreal Light Heat and Power Consolidated c. M.N.R., [1942] R.C.S. 89, 105. Il fut confirmé à nouveau par la Cour suprême dans l'arrêt British Columbia Electric Railway Co. c. M.N.R., [1958] CTC 21 (C.S.C.) et encore par la suite dans l'arrêt M.N.R. c. Algoma Central Railway, [1968] CTC 161 (C.S.C.).
+. . .
+Un deuxième critère consiste à déterminer si une dépense a été faite une fois pour toute (once and for all) par opposition à celle qui aurait un caractère répétitif. . . .
+[5] Ce critère avait aussi été énoncé par la Cour suprême du Canada dans l’arrêt Canada c. Johns Manville Corp., [1985] 2 R.C.S. 46. Nous sommes en présence de travaux d’amélioration d’un immeuble. La juge Lamarre de notre Cour a présenté un résumé des critères à évaluer en matière d’amélioration ou de rénovations dans Brunet c. la Reine, no. 2002-1122(IT)I, [2003] 2 C.T.C. 2020, en référant à plusieurs arrêts et au bulletin d’interprétation IT-128R. Sans reproduire tous ces passages, qu’il me suffise de dire que la question fondamentale consiste à se demander si la dépense considérée a créé une immobilisation différente du bien remplacé. En l’espèce, il s’agit réellement d’une amélioration de ce qui existait à l’origine afin de le rendre habitable et louable. Il ne peut s’agir que d’une dépense en capital.
+[6] En ce qui concerne les frais judiciaires engagés afin de faire l’acquisition de l’immeuble, il s’agit d’une dépense en capital. Voir Rona inc. c. la Reine, 2003 CCI 121, [2003] 4 C.T.C. 2974, et Oxford Shopping Centres Ltd. c. la Reine, [1980] 2 F.C. 89, conf. par la Cour d’appel fédérale. Lorsque les services juridiques procurent un avantage durable pour l’usage qu’on fait de l’immeuble, les honoraires sont des dépenses en capital et doivent être ajoutés au coût du bien acquis.
+[7] L’appelante s’est vue refuser la dépense visant les impôts fonciers de l’année d’imposition 2000. Elle soutient que les impôts fonciers de l’année 2000 ont été payés l’année suivante. Elle n’a pas déposé de documentation démontrant la date exacte du paiement, mais a reconnu finalement en contre-interrogatoire que les impôts fonciers de 2000 avaient été payés en 2001. Cependant, l’état des rajustements préparé lors de l’achat de l’immeuble (pièce I-4) indique clairement que les impôts fonciers étaient payés au complet jusqu’au 31 décembre 2000 par l’ancien propriétaire et qu’aucun rajustement n’a été calculé sous cette rubrique. Les appelants ne sont donc pas ceux qui ont payé les impôts fonciers pour l’année 2000 et le ministre avait raison de ne pas leur accorder la dépense pour l’année d’imposition 2000.
+[8] Les appelants n’ont pas soulevé la question de l’amortissement à l’audience de cette cause. Qu’il me suffise de dire que selon le paragraphe 1100(11) du Règlement, une dépense d’amortissement ne peut jamais créer ou augmenter une perte de location. Elle est toujours calculée après avoir déterminé la perte ou le revenu de location pour l’année d’imposition. Les appels sont par conséquent rejetés pour les deux appelants en ce qui concerne les dépenses refusées par le ministre relativement aux revenus de location de l’immeuble.
+[9] L’appelante Jacqueline Ruest s’est vue refuser des crédits d’impôt pour des dons de bienfaisance et des dépenses d’emploi pour ces mêmes années d’imposition. Les dépenses d’emploi réclamées s’élevaient à 12 201 $ en 2000 et à 2 710 $ en 2001. Pour ce qui est des dons de bienfaisance, il s’agit des montants de 11 000 $ en 2000, dont 6 373 $ furent réclamés, et de 4 000 $ en 2001.
+[10] Pendant les années en litige et avant celles-ci, l’appelante faisait du travail bénévole en tant que secrétaire et trésorière pour la filiale 52 de la Légion royale canadienne (la Légion). L’appelante soutient qu’elle a engagé, dans l’exercice de ce travail bénévole, des frais de déplacement et d’autres dépenses et que la Légion lui remettait un reçu aux fins d’impôt au lieu de lui rembourser ses dépenses. Le reçu de 2000, pour le montant de 11 000 $, représente les dépenses engagées de 1997 à 2000. L’appelante ne peut cependant préciser le montant pour chacune des années, sauf qu’elle est certaine que le montant de 4 500 $ est attribuable à l’année 2000. Elle ne peut également fournir de reçu qui contient les détails des dépenses qu’elle a engagées pour la Légion et pouvant soutenir ses prétentions.
+[11] L’appelante a été incapable de démontrer que la Légion était effectivement un organisme de charité dûment enregistré pendant les années en litige. En fait, une lettre de la Légion reconnaît que le numéro d’enregistrement n’était pas valable durant les deux années d’imposition. Par conséquent, l’appelante ne peut avoir droit au crédit d’impôt pour dons de bienfaisance pour les montants réclamés durant chacune des années d’imposition en litige en vertu du paragraphe 118.1(3) de la Loi et des définitions aux paragraphes 248(1) et 149.1(1) de la Loi. À la lumière de cette conclusion, il ne m’est pas nécessaire de traiter de la question de la nature du don en l’espèce ou de la question de savoir s’il s’agit d’un véritable don.
+[12] Pendant les années en litige, l’appelante travaillait pour le Service d’aide à la famille; elle a donc réclamé des dépenses liées à cet emploi. Le tableau indique les dépenses d’emploi que l’appelante a réclamées et que le ministre a refusées.
+Tableau 2 : Résumé des dépenses d’emploi de l’appelante
+Dépenses d’emploi
+2000
+2001
+Catégorie
+Montants réclamés
+Montants acceptés
+Montants réclamés
+Montants acceptés
+Frais de véhicule automobile
+Carburant
+1 500 $
+1 500 $
+2 203 $
+2 203 $
+Entretien / Réparation
+950 $
+950 $
+620 $
+620 $
+Immatriculation
+81 $
+81 $
+81 $
+81 $
+Assurances
+1 346 $
+901 $
+1 698 $
+1 148 $
+Intérêts
+1 240 $
+1 240 $
+482 $
+482 $
+Amortissement
+7 812 $
+8 946 $
+10 792 $
+7 396 $
+Total
+12 929 $
+13 618 $
+15 876 $
+11 930 $
+% de l’utilisation du véhicule pour le travail
+x 90,1%
+x 77,8%
+x 40,8%
+40,8%
+Frais comptables / juridiques
+2 500 $
+0 $
+Néant
+Frais de repas
+1 092 $
+0 $
+1 100 $
+0 $
+Stationnement
+Néant
+12 $
+12 $
+Montant inconnu
+7 555 $
+0 $
+Néant
+TOTAL
+22 796 $
+10 595 $
+7 589 $
+4 879 $
+Portion refusée
+12 201 $
+2 710 $
+[13] Le ministre a refusé les dépenses suivantes pour les motifs suivants :
+a) L’utilisation de l’automobile de l’appelante pour son emploi n’a pas dépassé 77,8 % de l’usage du véhicule pour l’année d’imposition 2000 et 40,8 % pour l’année d’imposition 2001.
+b) Les frais judiciaires de 2 500 $ engagés par l’appelante pour son année d’imposition 2000 se rapportent à un accident de voiture et ne sont donc pas déductibles en vertu de l’alinéa 8(1)b) et du paragraphe 8(1) de la Loi.
+c) Les frais de repas totalisant 1 092 $ et 1 100 $ pour les années d’imposition en cause représentaient en des repas consommés par l’appelante pendant ses journées ordinaires de travail et constituent des dépenses personnelles; ces frais ne sont pas des dépenses déductibles en vertu des paragraphes 8(1) et (4) de la Loi.
+d) Les frais d’assurances de l’appelante totalisaient 901 $ pour 2000 et 1 148 $ pour 2001.
+Analyse
+[14] L’utilisation de l’automobile
+L’appelante a témoigné que durant les deux années en litige, elle avait deux automobiles et que la distance parcourue est différente de celle indiquée par l’employeur au formulaire T-2200. Quant au ministre, il a simplement accepté l’information provenant de l’employeur pour les deux années en ce qui concerne la distance parcourue par l’appelante et pour laquelle elle n’a pas reçu d’allocation ou de remboursement. Je n’ai donc aucune autre preuve concrète pouvant me permettre de modifier cette rubrique, au sujet de laquelle le fardeau incombait à l’appelante.
+[15] Les frais judiciaires
+L’article qui permet de déduire des frais judiciaires d’un revenu d’emploi se lit comme suit :
+8(1) Éléments déductibles
+Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[. . . ]
+b) Frais judiciaires d’un employé
+les sommes payées par le contribuable au cours de l'année au titre des frais judiciaires ou extrajudiciaires qu'il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur ou pour établir un droit à ceux-ci;
+[16] Les prétentions de l’appelante voulant que cette dépense se rapporte à un accident d’automobile ne satisfont pas aux exigences de la Loi. Le ministre a donc refusé la dépense à juste titre.
+[17] Les frais de repas
+La disposition qui permet la déduction de frais de repas se lit comme suit :
+8(4) Repas
+La somme dépensée par un cadre ou un employé pour son repas ne peut être incluse dans le calcul du montant d'une déduction en vertu de l'alinéa (1)f) ou h) que si le repas a été pris au cours d'une période où les fonctions de ce cadre ou de cet employé l'obligeaient à être absent, durant une période d'au moins douze heures, de la municipalité dans laquelle était situé l'établissement de l'employeur où il se présentait habituellement pour son travail et à être absent, le cas échéant, de la région métropolitaine où cet établissement était situé.
+[18] La seule prétention avancée par l’appelante repose sur le fait qu’elle devait manger le midi. La preuve est donc nettement insuffisante pour me permettre de conclure que l’appelante a satisfait aux conditions exigées par la Loi.
+[19] Les frais d’assurance
+L’appelante a abandonné à l’audience la question des frais d’assurance.
+[20] Devant ces conclusions, je dois rejeter les appels.
+Signé à Ottawa (Canada), ce 9e jour de juillet 2007.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2007CCI331
+Nº DES DOSSIERS DE LA COUR : 2004-3168(IT)I
+2004-3149(IT)I
+INTITULÉS DES CAUSES : Jacqueline Ruest et Sa Majesté la Reine
+Claude Ruest et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmundston (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : le 14 mai 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 9 juillet 2007
+COMPARUTIONS :
+Représentante des appelants :
+Denyse Morin
+Avocat de l'intimée :
+Me Claude Lamoureux
+AVOCAT INSCRITE AU DOSSIER :
+Pour les appelants:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

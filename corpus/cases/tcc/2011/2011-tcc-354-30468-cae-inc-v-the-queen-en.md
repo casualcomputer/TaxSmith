@@ -1,0 +1,525 @@
+---
+title: "CAE Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30468/index.do"
+last_modified: "2011-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 354"
+citation2: ""
+neutral_citation: "2011 TCC 354"
+decision_date: "2011-08-12"
+language: "en"
+item_id: "30468"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7265
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:23:52.751000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4d06cd366f1ec8769f76073bd793b52082b7e178c8ac966cf8fbfc63267dc235"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CAE Inc. v. The Queen
+
+- Citation: 2011 TCC 354
+- Decision date: 2011-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7265, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CAE Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-08-12
+Neutral citation
+2011 TCC 354
+File numbers
+2008-1944(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1944(IT)G
+BETWEEN:
+CAE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 4, 5 and 6, 2009, at Montreal, Quebec,
+and submissions as to costs heard by telephone conference
+on July 14, 2011, at Ottawa, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+Wilfrid Lefebvre, Q.C.
+Dominic C. Belley
+Counsel for the respondent
+Martin Gentile
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+(a) The profit realized on the sale of the A320 and A330/A340 simulators (used at the Toronto training centre) and the CL-65 and A330/A340 simulators (used by Air Canada) created income.
+(b) The appellant was entitled to claim capital cost allowance in relation to the CL-65 and A330/A340 simulators (used by Air Canada), the A320 (Airbus) simulator, the Boeing 747‑400 simulator and the A320 simulator (initially built for US Airways).
+Each party shall bear its costs.
+Signed at Toronto, Ontario, this 12th day of August 2011.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 28th day of October 2011.
+Erich Klein, Revisor
+PUBLIC VERSION
+Citation: 2011 TCC 354
+Date: 20110812
+Docket: 2008-1944(IT)G
+BETWEEN:
+CAE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] The appellant, CAE Inc., is the leading manufacturer of civil aviation flight simulators. It also provides flight training services.
+[2] The appellant is also involved in other activities, such as manufacturing military simulators and providing military training services, but this case involves civil aviation simulators and training only.
+[3] The appellant is appealing reassessments for the taxation years ended March 31, 2000, 2001 and 2002.
+[4] The dispute pertains to seven simulators and five different situations.
+[5] In some cases, the respondent disallowed capital cost allowance claimed by the appellant. In other cases, the appellant sold simulators and the respondent considered those sales as giving rise to business income, while the appellant considers the sales as giving rise to capital gains.
+[6] The facts are not really in dispute.
+[7] For the reasons set out below, I find that the appellant's position concerning the capital cost allowance is correct, but that the respondent's position concerning the nature of the sales is correct.
+[8] The witnesses in these proceedings were as follows: Derek Burney, the appellant's former president; Alain Raquepas, CA, the appellant's chief financial officer; Sylvie Brossard, CA, a tax specialist and the appellant's tax director; and Ginette Phisel, CA, large business auditor with the Canada Revenue Agency. All the exhibits, including the transcripts of the examinations for discovery, were filed in evidence on mutual consent.[1]
+The nature of the appellant's business and the evolution of its business model
+[9] Flight simulators are large. They include a full flight deck, a visual system that generates very realistic images simulating what pilots would see from the flight deck, a motion system, the electronic equipment necessary for the simulation, and software. Flight simulators cost roughly $10 million to $20 million each.
+[10] The realism of simulators enables airlines to reduce their costs because they can do a significant amount of their pilot training on a simulator. They can thus reduce the number of flight training hours aboard an aircraft. Moreover, simulators make it possible to simulate difficult flight conditions and equipment failures for training purposes.
+[11] Simulators generally operate 20-22 hours a day, 365 days a year.
+[12] In the past, the appellant sold flight simulators that were built to order.
+[13] The civil aviation industry experiences significant cyclical highs and lows, so the simulator market is also very cyclical. The appellant built anywhere from a dozen or so to roughly 30 simulators per year.
+[14] The appellant set out to do two things. One was to increase sales, which was very difficult because it was already the largest supplier of flight simulators for the civil aviation sector. The other was to achieve a more stable income stream.
+[15] In order to achieve its objectives, the appellant[2] expanded its offering.
+[16] The appellant broadened its use of its simulator design and construction expertise by offering a more complete range of services to its customers. In addition to simply selling simulators, it began to offer
+(a) simulator leasing (full-time or hourly) with or without maintenance services, and
+(b) complete flight training services with an instructor, in which case the appellant took care of maintenance.
+[17] The appellant also created flight training centres.
+[18] Since the costs of building simulators are very high, and simulators are specific to aircraft type, the appellant does not build simulators without having
+(a) a purchaser, or
+(b) a lease or training customer, an "anchor tenant",[3] who will lease the simulator for a sufficient number of hours or purchase a sufficient amount of training hours to justify building that particular simulator.
+Transactions
+Simulators for Canadair Regional Jet CL-65 and Airbus A330/A340[4] aircraft (Air Canada)
+[19] Although there are differences between the facts concerning the CL-65 simulator and the facts concerning the A330/A340 simulator,[5] the differences are not important for the purposes of this case. Therefore, I will only discuss the situation involving the CL-65 simulator, noting, however certain differences pertaining to the A330/A340 simulator.
+[20] In April 1997, the appellant and Air Canada signed a contract concerning a CL-65 simulator.[6] The essential elements of the contract were as follows:
+(a) The appellant would build a CL-65 simulator that Air Canada could use.
+(b) The simulator would be built, installed, tested and ready to use for training in July 1998.[7]
+(c) The simulator would be located on the appellant's premises in Montreal.
+(d) The appellant would maintain the simulator while it was located on its premises. If the simulator was moved elsewhere, Air Canada would have to maintain it. In either case, Air Canada was responsible for maintaining the avionics.
+(e) The appellant would not provide the services of an instructor while the simulator was being used.
+(f) Air Canada agreed to use the simulator for [CONFIDENTIAL] years ([CONFIDENTIAL] years in the case of the A330/A340 simulator) in consideration of (i) certain fixed monthly payments[8] and (ii) other payments that varied depending on the number of hours of simulator use.
+(g) [CONFIDENTIAL][9]
+(h) The [CONFIDENTIAL] –year term could be shortened by the appellant if its annual revenue was below a certain target; in such a case, the appellant could terminate the contract on 15 months' notice. The appellant also had the option to terminate the contract if Air Canada sold all or substantially all of its CL-65 aircraft.
+(i) Third parties could use the simulator; if they did, the income from the third parties [CONFIDENTIAL]. [CONFIDENTIAL] would be split between the appellant and Air Canada, with certain adjustments.
+(j) Air Canada would schedule the simulator use and undertook to make reasonable efforts to sell other airlines the simulator time that it was not using. The appellant could also sell simulator time not used by Air Canada, provided it made sure the hours of use were established jointly with Air Canada.
+(k) [CONFIDENTIAL]
+(l) There was a purchase option clause entitling Air Canada to purchase the simulator on three months' notice, subject to agreement between the parties on the terms, particularly with respect to price.[10]
+[21] [CONFIDENTIAL]
+[22] Air Canada began to use the simulator during the 1999 taxation year, and the appellant claimed capital cost allowance in computing its income for tax purposes.
+Sale and leaseback contracts
+[23] On December 22, 1999, the appellant signed five contracts concerning the CL‑65 simulator:[11] The first contract sold the simulator to the Bank of America Canada Leasing VIII Company ("Bank of America"). In the second, Bank of America leased the simulator to the appellant. The third was a contract between the appellant and Air Canada for the supply of services involving use of the simulator; this contract replaced the April 1997 contract with Air Canada. The fourth was between the appellant, Air Canada and Bank of America. The fifth, entitled "Participation Agreement 1999‑1", was between the appellant and Bank of America.
+[24] These contracts clearly form a whole. The lease of the simulator to the appellant depended on it having been sold to the bank.
+[25] The new contract with Air Canada contains the main elements of the first contract, though there are a few differences (such as the fact that the new contract states that the simulator is to be moved to the Air Canada training centre in Toronto). There is no change that is relevant to this matter.
+[26] The lease contract with Bank of America provides for a lease term of [CONFIDENTIAL] years. According to the lease contract, the appellant must, at its expense,[12] make all necessary repairs and any changes or updates required by the country's laws.[13] The appellant must insure the simulator at its expense and is responsible for any risks[14] related to the simulator.
+[27] At the end of the lease, the appellant must return a simulator [CONFIDENTIAL] to the bank.[15]
+[28] The lease contract also states that the appellant guarantees the bank that the simulator will have a minimum residual value.[16]
+[29] Further provisions of the lease contract enable the appellant to purchase the simulator before the expiry of the lease, notably if Air Canada wishes to exercise the purchase option granted in the contract for the supply of services, or on a fixed date that is approximately six months prior to the end of the contract for the supply of services entered into with Air Canada.[17]
+[30] The contract contains financial terms and conditions governing each of the cases in which the appellant can terminate the lease before its expiry. Although those terms and conditions vary depending on the different termination clauses, the appellant must always [CONFIDENTIAL].
+[31] From the appellant's standpoint, these sale and leaseback transactions are a financing method, a way to "monetize" the value of the simulators.[18]According to Mr. Raquepas, the result of the sale and leaseback is similar to the result that would have been achieved if there had been a loan and the appellant had given the simulator as security. In the course of the lease, the bank receives payments in excess of the purchase price and therefore receives a return on its investment, that is, imputed interest; the rent, including imputed interest, was similar to a repayment of loan principal plus interest.[19]
+[32] Mr. Raquepas testified that the bank was not a customer; in his view, the profit from the simulators is derived from the lease to Air Canada, not the sale to Bank of America.[20]
+The accounting treatment of these transactions
+[33] Mr. Raquepas testified that, from an accounting standpoint, the transactions of December 22, 1999, were not recorded as a sale to a customer, but, rather, as a disposition of assets, because the company's auditors would not have permitted the company to "crystallize" the profit from the transactions during the year in which the transactions occurred.[21]
+[34] The accounting treatment of these transactions was as follows: the gain on the disposition of each simulator to the bank — that is to say, the selling price to the bank minus the cost of the simulator — was treated as a "deferred gain." This gain [CONFIDENTIAL] is realized gradually as a reduction of rent paid during each year of the lease.[22] As for the balance of the gain [CONFIDENTIAL], this balance, minus any payment made under the [CONFIDENTIAL], will be realized at the end of the lease.[23]
+[35] This is illustrated by the following example:
+Selling price
+$100
+Less cost
+($80)
+Deferred gain
+$20
+[CONFIDENTIAL]
+___
+Gain over term of lease
+$12
+Gain realized at end of lease
+$8 (less any payments pursuant to [CONFIDENTIAL])
+In this example, part of the gain, $12, is realized over time as a reduction of the rent during the lease. The $8 balance [CONFIDENTIAL] will be included in the appellant's income at the end of the lease. [CONFIDENTIAL]
+[36] With respect to the two simulators, there are two points in issue:
+(a) Prior to the sale and leaseback arrangement with Bank of America, could the appellant claim capital cost allowance?
+(b) Did the sale to Bank of America give rise to income or to a capital gain?
+Airbus A320 and A330/A340 simulators (Toronto training centre)
+[37] The appellant decided to open a flight training centre in Toronto and to build an A320 simulator and an A330/340 simulator for that centre. These two simulators were the first ones installed at the Toronto training centre. Their construction began on December 1, 2000, and September 4, 2000, respectively.
+[38] The appellant had major customers (anchor tenants) for the A320 simulator (Skyservice Airlines and Canada 3000) and the A330/A340 simulator (Skyservice Airlines) (contract dated September 29, 2000, with Skyservice, and contract dated December 6, 2000, with Canada 3000).[24]Each of these airlines undertook to lease the simulator for at least a certain number of hours per year. In both cases, the appellant performed the maintenance but did not provide an instructor.
+[39] The guaranteed minimum number of rental hours per simulator in the case of Skyservice Airlines was less than half the rental hours contemplated [CONFIDENTIAL] in the aforementioned two contracts with Air Canada. However, upon reading the contract, one can see that there is an expectation that the use will exceed these guaranteed hours because, for one thing, the customer, Skyservice, agrees to do all of its training for A320 and A330/A340 aircraft on the appellant's simulators, subject to certain conditions, and for another, the appellant reserves the right to cancel the contract if, during each of the first three years of the contract, the customer does not increase the number of crews undergoing Airbus training by [CONFIDENTIAL] crews per year.[25] In the case of the contract with Canada 3000, the evidence does not reveal the details.[26]
+[40] The term of the contract with Skyservice is three years.[27] The term of the contract with Canada 3000 is six years.[28]
+[41] Both contracts provide that the lease will begin before the two simulators in question for the Toronto training centre are built, installed and certified. Consequently, the lease began with the appellant’s simulators in Montreal,[29] and continued in Toronto once the Toronto training centre and its simulators were operational.
+[42] As it did with the two aforementioned simulators for Air Canada, the appellant decided to “monetize” the two simulators built for the Toronto training centre. Consequently, sale and leaseback contracts for these two simulators were entered into between the BAL Simulator Leasing 2001 Company (another Bank of America subsidiary) and the appellant.
+[43] These sales and leasebacks took place when the simulators became operational (late September 2001) but before the appellant used them. The simulators always remained in the appellant's possession. The essential terms and conditions of these contracts are very similar to the essential terms and conditions of the sale and leaseback agreements involving the aforementioned simulators used by Air Canada.[30] The duration of the leaseback by the appellant from the bank is [CONFIDENTIAL] years.
+[44] For accounting purposes, these two sale and leaseback arrangements were treated the same way as those involving the two simulators subleased to Air Canada discussed above.
+[45] The issue concerning the simulators being presently considered is whether the sale to BAL gave rise to income or to a capital gain.
+Airbus A320 simulator [CONFIDENTIAL]
+[46] In June 1997, the appellant and Airbus Industrie signed an agreement. Under the agreement, the appellant was to build and install, on Airbus's premises in Toulouse, an A320 simulator that would be operational on June 30, 1998. [CONFIDENTIAL].[31]
+[47] The agreement provided that, after the [CONFIDENTIAL] -year period, Airbus could either lease the simulator and pay on that basis, or purchase it. Fixed prices were provided for should Airbus exercise either of these options. In addition, the agreement provided for the possibility of leasing or purchasing after the third year, at fixed prices.
+[48] [CONFIDENTIAL].[32]
+[49] [CONFIDENTIAL].[33]
+[50] Airbus exercised the option to lease, and rented the simulator for one year following the loan period. At the end of the lease, the simulator was not used for a while. It was sold to Khalifa Airways in 2003, which is beyond the period relevant to this litigation.
+[51] The issue with respect to this simulator is whether the appellant was entitled to claim capital cost allowance.
+Airbus A320 simulator (built for US Airways)
+[52] US Airways ordered an A320 simulator and cancelled its order in June 2000.[34] The appellant had completed nearly 60% of the simulator's construction, and decided to finish it. The simulator became operational around November 2000.[35]
+[53] [CONFIDENTIAL].[36]
+[54] The simulator was then used for training purposes on the appellant's premises in Montreal. Apparently, under the contracts discussed above, Skyservice and Canada 3000 were the first users of this simulator, or among the first. It is not certain how the simulator was used from December 2001 to June 2002.[37]
+[55] In August 2001, the appellant signed a five-year lease of the simulator with Frontier Airlines, commencing on the simulator's anticipated commissioning date in Denver, Colorado.[38] That date was June 30, 2002.[39]
+[56] Under the agreement, the appellant would not provide any instructors and, subject to certain exceptions, Frontier agreed to do all its A320 training on this simulator located in Denver, though it did not guarantee a minimum number of hours. The agreement offered Frontier two choices: it could (i) lease by the hour; or (ii) have "exclusive" use of the simulator for a fixed annual price.[40]
+[57] The agreement could be terminated under certain circumstances, notably if Frontier used less than a specified number of hours annually.
+[58] If Frontier made choice (ii), but was not using all the simulator hours, the appellant retained the right to sell the unused hours to other airlines, in which case the revenues would be shared.
+[59] Civil Aviation Training Services (CATS) is a Denver-based subsidiary of the appellant that operated a flight training centre.
+[60] In September 2002, the appellant sold the simulator to CATS. The simulator became operational in Denver on October 5, 2002.[41]
+[61] The issue is whether the simulator was depreciable.
+Boeing 747-400 simulator
+[62] In April 1997, the appellant purchased a Boeing 747-400 simulator from Singapore Airways. The simulator was to be delivered to the appellant in Singapore within 90 days.[42] The appellant spent more than $1,000,000 to renovate and update this simulator, which it had originally built, and to get it recertified.
+[63] At the time of the purchase, the appellant had United Airlines in mind as a customer for the simulator, but the appellant and United only signed an agreement in March 1999.[43] At the time of signing, the simulator had already been delivered to the premises of United in Denver.[44]
+[64] The agreement provided
+(a) that United
+- would use the equipment to train pilots,
+- would maintain the simulator,
+- would be the simulator's operator,
+- would make reasonable efforts to sell and market training services using the simulator,
+- would have the option to purchase the simulator in accordance with a predetermined price calculation method, and
+- [CONFIDENTIAL];
+(b) that unless United exercised the purchase option,
+- either party could terminate the agreement after 15 months, on six months' notice,
+- either party could terminate the agreement after 15 months, on 30 days' notice, if the use of the simulator was below a certain minimum;
+(c) that the revenues would be shared between United and the appellant (the percentage of revenues attributed to each party would be calculated using a scale in which the percentage attributed to United increased as certain thresholds were exceeded);
+(d) that United had to insure the simulator and the parts, while the appellant had to obtain liability insurance; and
+(e) that unless United purchased the simulator, the appellant would remain its owner.
+[65] After just over two years, United terminated the agreement, after which the simulator was transferred to the appellant's training centre in Toronto.[45]
+[66] The issue is whether the Boeing 747-400 simulator was depreciable.
+Analysis[46]
+General considerations[47]
+Nature of the business
+[67] It is important to bear in mind the nature of the appellant's business in the field of civil aviation.
+[68] The appellant creates simulators. It also provides flight training services. Drawing on its employees' knowledge and exploiting intellectual property rights, it designs, builds, verifies and installs civil aviation flight simulators using its employees' labour and purchased parts and materials. After building the simulators, it turns them to account by selling them, leasing them out, or using them to sell flight training services.
+[69] The appellant built roughly 12 to 30 simulators per year.
+[70] The evidence shows a great deal of flexibility with regard to clients; this is reflected in the many options available to satisfy their needs for simulators, simulator time, or training. In addition, the appellant's contracts and its actions show flexibility in terms of the possibilities in relation to a given simulator.[48]
+[71] There is a single civil aviation simulator business. The evidence does not establish the existence of a distinct simulator leasing or training business.
+The word "capital" can have various meanings
+[72] It is helpful to point out that the word "capital" can have different meanings. For example, a capital expenditure might be made to acquire property that will procure benefits over several fiscal years; in this sense, it is the opposite of a current expenditure. In some cases, a capital expenditure in this sense results in the acquisition of "depreciable property" within the meaning of the Income Tax Act (the Act).[49]
+[73] The term "capital expenditure" can also be mean an expenditure for the purpose of acquiring property the disposition of which would give rise to a capital gain or loss for the taxpayer.[50]
+[74] Would a capital expenditure in the first sense of the term automatically be a capital expenditure in the second sense? In other words, does a capital expenditure in the first sense necessarily result in the acquisition of property which, if sold, will give rise to a capital gain or capital loss? We will come back to this question.
+Difficulties in distinguishing between a capital gain and income in certain cases
+[75] It is also worth noting that it is often difficult to determine whether the sale of certain property produces income or a capital gain.
+[76] In some cases, the distinction is easy to make. The classic example is the distinction between a fruit tree and the fruit it produces. A farmer who buys an orchard and sells the fruit from its trees receives income from the fruit. Upon selling the orchard when he retires 40 years later, he is clearly realizing a capital gain.
+[77] However, things can get complicated very quickly. If a person purchases the orchard with the intention of reselling it at a profit because the person believes that a builder will purchase it for a new suburban residential development, but the person is happy to receive in the meantime the income from the sale of the fruit, the proceeds of the sale are not a capital gain, but income, because there was at least a secondary intention to resell. One might also call this a dual intention.
+[78] In the instant case, the situation is even more complicated because the appellant "created" the simulators.
+[79] At the moment that a simulator is ready to be used, the difference between the fair market value of the simulator and its cost (all costs, namely salaries, materials, parts, depreciation, etc.) — that is to say, the value created — is a product of the efforts made by the appellant and by its business. This created value is not merely a change in the value of an investment.
+[80] Consequently, getting back to the fruit tree analogy, what is the nature of a tree that has been created by its owner, whose calling is to plant and grow trees (i.e. to be a "tree creator") and to sell the trees (or the orchard) when they have grown sufficiently to bear fruit? The tree is the fruit of the owner's work. Obviously, if the tree is simply sold, it is part of inventory,[51] and the sale is income.
+[81] Similarly, the building and then selling of a simulator produces income.
+[82] But what if this "tree creator" (or, here, creator of simulators) leases out or uses one of the trees (or simulators) and sells it later? We will come back to this.
+[83] The question whether depreciable machines or equipment used by a business give rise to a capital gain or to income upon their disposition is of limited importance if they are sold at a price lower than their cost.[52] In such a case, the Act's provisions concerning recapture and terminal loss[53] will render any loss or recapture completely deductible or taxable, even if the sale, in the absence of those provisions, gives rise to a capital gain or loss.
+[84] However, if the machine or equipment is sold for more than its cost, the distinction is of major importance.
+[85] It is surprising that the question whether the sale of depreciable property gives rise to income or a capital gain has not come up more often in the case law. Perhaps the scarcity of case law reflects the fact that the owner of depreciable property is rarely able to sell it for an amount that exceeds its cost.
+[86] I will come back, further on, to the issue of whether the sale of depreciable property can give rise to income.
+The sales
+[87] I will analyze the nature of the gain from the disposition of the simulators in two stages:
+(a) If the simulators had been sold to an airline or a flying school unconnected with the appellant, what would the nature of the gain have been?
+(b) Does a sale to a financial institution alter that nature?
+If the sales had been made to an airline
+[88] One approach is to examine the appellant's use of the property and the nature of the revenues generated by that use. One must also consider the four criteria from Friesen v. Canada:[54]
+17 IT-218R, which replaced IT-218 in 1986, lists a number of factors which have been used by the courts to determine whether a transaction involving real estate is an adventure in the nature of trade creating business income or a capital transaction involving the sale of an investment. Particular attention is paid to:
+(i) The taxpayer's intention with respect to the real estate at the time of purchase and the feasibility of that intention and the extent to which it was carried out. An intention to sell the property for a profit will make it more likely to be characterized as an adventure in the nature of trade.
+(ii) The nature of the business, profession, calling or trade of the taxpayer and associates. The more closely a taxpayer's business or occupation is related to real estate transactions, the more likely it is that the income will be considered business income rather than capital gain.
+(iii) The nature of the property and the use made of it by the taxpayer.
+(iv) The extent to which borrowed money was used to finance the transaction and the length of time that the real estate was held by the taxpayer. Transactions involving borrowed money and rapid resale are more likely to be adventures in the nature of trade.
+[89] If, after using this approach, one concludes that the primary object of the transaction does not constitute an adventure in the nature of a trade, then the following question must be asked: Was there also a secondary intention to sell, or a dual intention? In this approach, one must bear in mind that in order for there to be a secondary intention, it is not sufficient that the business be prepared, if offered a high enough price, to sell what it intended to keep for its own use.[55]
+[90] Although the criteria in Friesen are articulated in the context of real estate transactions, they are, subject to the necessary adjustments, generally accepted. However, it must be borne in mind that they do not constitute a complete list of potentially relevant factors.
+[91] It is important to note that these criteria are for determining whether there is an "adventure or concern in the nature of a trade", this being an addition to the concept of business.[56]
+[92] The other approach, as I understand it, places more emphasis on the nature of the business and the question whether the transaction is integral to the operation of the business. The decision of the House of Lords in Gloucester Railway Carriage and Wagon Co., Ltd. v. Commissioners of Inland Revenue [57] is at the heart of this approach.
+[93] Another way to describe this second approach is that it is one which determines that a "business" exist without resorting to the concept of "adventure or concern in the nature of a trade."
+[94] Before examining Gloucester, it would be helpful to recall the decision in California Copper Syndicate v. Harris,[58] which the House of Lords followed in Commissioner of Taxes v. The Melbourne Trust Ltd.,[59] a decision which was, in turn, followed by the Supreme Court of Canada in Anderson Logging Co. v. The King,[60] where that court stated:
+The principle of these decisions can best be stated for our present purpose in the language of Lord Dunedin in his judgment delivered on behalf of the Judicial Committee, in Commissioner of Taxes v. The Melbourne Trust, Ltd.,
+It is common ground that a company, if a trading company and making profit, is assessable to income tax for that profit. *** The principle is correctly stated in the Scottish case quoted, California Copper Syndicate v. Harris. It is quite a well settled principle in dealing with questions of income tax that where the owner of an ordinary investment chooses to realize it, and obtains a greater price for it than he originally acquired it at, the enhanced price is not profit in the sense of schedule D of the Income Tax Act of 1842 assessable to income tax. But it is equally well established that enhanced values obtained from realization or conversion of securities may be so assessable where what is done is not merely a realization or change of investment, but an act done in what is truly the carrying on, or carrying out, of a business;
+or, in the language of the judgment from which this quotation is made, which follows in sequence after the passage cited:
+What is the line which separates the two classes of cases may be difficult to define and each case must be considered according to its facts; the question to be determined being — Is the sum of gain that has been made a mere enhancement of value by realizing a security, or is it a gain made in an operation of business in carrying out a scheme for profit-making?
+or, in the form adopted by Sankey J. — in Beynon v. Ogg — from the argument of the Attorney General — was the profit in question
+a profit made in the operation of the appellant company’s business?[61]
+[Emphasis added.]
+[95] The decision in Gloucester was cited in Anderson.[62] Gloucester Railway Carriage and Wagon Co. built, sold and leased railway wagons, and purchased wagons built by others. Gloucester was followed by Thorson P. of the Exchequer Court in Canadian Kodak Sales Ltd. v. M.N.R.,[63] where he summarized Gloucester as follows:
+Moreover, I am unable to distinguish this case in principle from the case of Gloucester Railway Carriage and Wagon Co. v. Inland Revenue Commissioners, (1925) A.C. 467 and 12 T.C. 720. In that case the Company was formed to manufacture, buy, sell, hire and let on hire wagons and other rolling stock, and for many years it manufactured railway wagons, either selling them outright or on the hire-purchase system or letting them on simple hire. In the books of the Company the wagons built to be let on hire were capitalized at a sum which included an amount added as profit on manufacture, and year by year an amount was written off the value of the wagons for depreciation. In 1920 the Company decided to cease letting wagons on hire and to sell them. It then sold the entire stock of wagons used in that branch of its business for a sum in excess of the value of the wagons in the Company's books. The surplus was included in an assessment to corporation profits tax on the Company in respect of the profits of its business, and the Company appealed contending that the surplus arose from the realization of capital assets used in its hiring business. The Special Commissioners disagreed with the contention of the Company that the profit on the sales was an accretion of capital. They found as follows, at page 734 of 12 T.C.:
+We are unable to take this view. In our opinion we must have regard to the main object of the Company which is to make a profit in one way or another out of making wagons and rolling stock. We are unable to draw the very sharp line which we are asked to draw between wagons sold, wagons let on hire purchase and wagons let on simple hire, nor do we consider that this very sharp division in fact exists. We do not regard ourselves as precluded by the fact that as long as the wagons were let they were treated as "plant and machinery" subject to wear and tear, from deciding that they are stock in trade when they are sold, even though let under tenancy agreements, for they seem to us to have in fact the one or the other aspect according as they are regarded from the point of view of the users or the Company. In our view, shortly, it makes no difference that one way of making profit out of the wagons was given up, for the very giving up itself involved the making of a profit in another way out of the same wagons, and the purpose of the Company's trade is to make a profit out of wagons.
+The decision of the Commissioners was affirmed by Rowlatt J. of the King's Bench Division. An appeal from his decision to the Court of Appeal was dismissed, Pollock M.R. dissenting. The judgment of the majority of the Court was clearly to the effect that the profit made by the Company was profit arising from the business. On an appeal being taken to the House of Lords it was unanimously dismissed. I need quote only the last paragraph of Lord Dunedin's speech, reported at page 474 of (1925) A.C.:
+The appellants argue that this is really a capital increment; and to say so they call these wagons plant of the hiring business. I am of the opinion that in calling them plant they really beg the whole question. The Commissioners have found -- and I think it is the fact -- that there was here one business. A wagon is none the less sold as an incident of the business of buying and selling because in the meantime before sold it has been utilized by being hired out. There is no similarity whatever between these wagons and plant in the proper sense, e.g. machinery, or between them and investments the sale of which plant or investments at a price greater than that at which they had been acquired would be a capital increment and not an item of income. I think that the appeal fails.
+The principles applied in the Gloucester Railway Carriage and Wagon Company case (supra) are applicable in this one. Counsel for the appellant sought to distinguish it from the present case on several grounds one of which was that in the case cited there was only one business whereas in the appellant's case there had always been a sharp separation between its Recordak Division and its other business so that the former was really a separate business, but the fact is that in each case there was only one business. The appellant's Recordak Division was not a separate business. The manner in which the appellant kept its accounts proves this beyond dispute. Moreover, just as in the case cited the Commissioners did not regard themselves as precluded by the fact that as long as the wagons were let they were treated as plant and machinery from deciding that they were stock in trade when they were sold, and Lord Dunedin considered that "a wagon is none the less sold as an incident of the business of buying and selling because in the meantime before sold it has been utilized by being hired out", so the fact that the appellant's recordaks were formerly leased and treated as capital assets subject to depreciation does not prevent the profit from their sale being profit from the appellant's business once it had made the business decision to sell them and sold them in the course of its ordinary business of selling photographic equipment and supplies. It was in exactly the same position in which it would have been in if it had acquired the recordaks for resale. There was nothing of a capital nature in the sale of its recordaks and it is fanciful to say that they were realizations of investments. There was no difference in principle between its sales of recordaks and its sales of other photographic equipment. They were all sales in the course of the appellant's business.[64]
+[96] Gloucester Railway Carriage and Wagon Co. was a firm that manufactured railway wagons that it sold or leased. Sometimes it purchased wagons made by others and then leased them or, less frequently, resold them right away.[65]
+[97] The decision in Gloucester[66] applies to the case at bar. There, as here, a manufacturer sold and leased its products. There, as here, there is only one business. The appellant does not have a separate leasing business. Having a separate leasing business would in fact be contrary to its strategy of offering a full range of options to airlines, with a great deal of flexibility as to options for each customer. The activities involved are at the very heart of the appellant's business.[67]
+[98] The fundamental principle on which Gloucester is based is this: A profit constitutes income if it is derived from systematic efforts rather than from a mere investment. This principle is clearly expressed by Justice Noël in Dansereau v. Canada:[68]
+12 A line must be drawn under the Act between a mere investment in property and an activity or activities that constitute a business. The expansive definition of the term "business" in section 248 is not exhaustive. It extends to any endeavour that occupies time, labour and attention with a view to profit. To the extent that income is derived from human activity rather than from the passive ownership of property, its source can be properly described as business. The distinction must be made in light of the facts and circumstances surrounding each particular case (compare The Queen v. Rockmore Investments Ltd., 76 D.T.C. 6156, per Jackett C.J. at 6157).[69]
+[99] Consequently, if there were sales to airlines, the profit from those sales of the A320 and A330/A340 simulators (used at the Toronto training centre), at the time that they were first put to use, would be income, not a capital gain.[70]
+[100] As for the CL-65 and A330/A340 simulators (used by Air Canada), even with a long-term lease, by virtue of the application of Gloucester the profit is income for the simple reason that it is derived from the appellant's work and initiative in designing and manufacturing the simulators. The profit represents the value created by the appellant. It is not derived from a mere investment by the appellant.
+Does the sale to a financial institution change the result?
+[101] The appellant submits that, in determining the nature of these four simulator sales, one must take into account the fact that from both a commercial and practical standpoint they constitute a financing method. The financial institutions are not customers.
+[102] I agree that the financial institutions which purchased the simulators are not simulator customers, and that the sales to them are a financing method for the appellant.
+[103] That said, they are sales, not loans, and we must bear in mind that profit — that is to say, the value created by a business — is a financing method, since businesses often finance themselves using the profits that they realize.
+[104] It must also be borne in mind that this financing was not for the purchase or construction of the four simulators in question.[71] The four simulators had already been built; the financing was for other activities, including new civil aviation flight simulators.
+[105] I do not see how the fact that the sale was made for financing purposes could exclude the application of the principle in Gloucester and thereby change the nature of the sales.[72]
+[106] First of all, the appellant still realized the value created by its work in manufacturing each simulator.
+[107] Moreover, in "monetizing" the simulator's value, the appellant was not doing anything fundamentally different from what it does in a traditional sale to a customer. In either case, the appellant recovers the capital invested in the simulator's construction (its costs) and realizes the value that this capital created, namely its profit, which can be used to finance the business.[73]
+[108] Consequently, the fact that the purpose is financing does not change the nature of the gain made upon selling the simulators to the financial institutions. It is income.[74]
+Depreciation and capital cost allowance
+[109] It is useful to begin by examining the applicable provisions of the Act and the Income Tax Regulations (the Regulations).
+Depreciable property
+[110] The Act defines "depreciable property" as follows in subsection 248(1):
+"depreciable property" has the meaning assigned by subsection 13(21).
+[111] Subsection 13(21) of the Act provides the following definition:
+"depreciable property" of a taxpayer as of any time in a taxation year means property acquired by the taxpayer in respect of which the taxpayer has been allowed, or would, if the taxpayer owned the property at the end of the year and this Act were read without reference to subsection 13(26), be entitled to, a deduction under paragraph 20(1)(a) in computing income for that year or a preceding taxation year.
+[112] Paragraph 20(1)(a) of the Act provides:
+20(1) Deductions permitted in computing income from business or property ― Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+(a) Capital cost of property ― such part of the capital cost to the taxpayer of property, or such amount in respect of the capital cost to the taxpayer of property, if any, as is allowed by regulation;
+. . .
+[113] Next, we must look at Parts XI and XVII and Schedules II to VI of the Regulations to determine when a taxpayer is entitled to claim part of the capital cost, that is to say, capital cost allowance.
+[114] There are numerous rules. The property in question must come within one of the classes of depreciable property. The parties agree that the simulators do come within one of those classes.
+[115] The exclusions set out in subsection 1102(1) of the Regulations are a part of these rules. Among other things, paragraph 1102(1)(a) excludes property the cost of which is otherwise deductible, and paragraph 1102(1)(b) excludes property "that is described in the taxpayer's inventory."
+[116] One consequence of paragraph 1102(1)(a) is that any property the cost of which can be deducted as a current expense cannot be depreciable property.
+[117] Furthermore, the property must be depreciable at the end of the taxation year.[75]
+[118] Nothing in the Regulations requires that depreciable property be property that would give rise to a capital gain at the time of its sale.
+[119] This may seem surprising given that paragraph (a) of the definition of "capital property"[76] in section 54[77] of the Act includes "any depreciable property of the taxpayer", but only paragraph (b) of the definition includes property "any gain or loss from the disposition of which would, if the property were disposed of, be a capital gain or a capital loss . . . ."
+[120] It is important to remember that, in this context, the Act is using the term "capital property" in a limited sense.
+[121] In particular, capital gains are not derived from the disposition of capital property. Paragraph 39(1)(a) of the Act provides that a capital gain is a gain from any disposition, except for certain exclusions in subparagraphs 39(1)(a)(i) through (v) and amounts already included in income.[78]
+[122] The fact that paragraph (b) of the definition of the term "capital property" in section 54 excludes "depreciable property" does not mean that, under the Act, the sale of depreciable property necessarily gives rise to a capital gain.[79] The Act leaves open the possibility that the sale of an item of depreciable property will give rise to income or a capital gain, depending on the circumstances.[80] In other words, the Act leaves open the possibility that depreciable property will be part of inventory at the time of its sale.
+[123] In the case at bar, the only possible reason to disallow depreciation with respect to the simulators in question is that, during the period in issue, the simulators were "described in the . . . inventory" of the appellant. The simulators clearly met all the other conditions in order for them to be depreciable property.
+[124] The term "inventory" is defined as follows in subsection 248(1):
+"inventory" means a description of property the cost or value of which is relevant in computing a taxpayer's income from a business for a taxation year or would have been so relevant if the income from the business had not been computed in accordance with the cash method and, with respect to a farming business, includes all of the livestock held in the course of carrying on the business.
+[125] This definition leaves many unanswered questions, and so we must consider the case law as well as accounting concepts. The concept of inventory is relevant in determining the profit or loss of a business for the purposes of section 9 of the Act.[81]
+[126] Were the simulators in question part of inventory during the period in issue? Are they "property the cost or value of which is relevant in computing a taxpayer's income from a business for a taxation year"?
+[127] Since the appellant sells many simulators, since its business model is very flexible and since it offers airlines range of options ― sale, lease or training ― and considering the flexibility seen in the situations that we have studied, the only possible conclusion is that the appellant is a business that seeks to derive profit from its knowledge and skill in creating simulators, whether by selling or by leasing them.[82] This model incorporates a dual or secondary intention in that the leased simulators (or, in the case of Airbus, the loaned simulators) are for lease and for sale.
+[128] To the extent that a simulator is for sale, it is inventory, because its price will be relevant in computing the appellant's income.
+[129] However, to the extent that the property is leased, even if the possibility of a sale always exists (and a simulator might be used as rental property for its entire useful life), it is not inventory but, rather, property used as depreciable property, that is to say, property which is used in a business, but the cost of which is not a current expense or an expense from which all the benefit is used up over the course of a year.
+[130] Thus, there are indicia supporting both possible characterizations of the simulators in question: inventory, or depreciable property.
+[131] The appellant submits that in order to determine whether a simulator is inventory or capital property, one must take into account (i) the use of the property and (ii) the nature of the income derived from the property. I agree that this is the correct approach, but I arrive at this conclusion somewhat differently from the appellant. I would add that the second criterion—the nature of the income—is, to a great extent, an indicator of the use of the property.
+[132] In such a situation, since the Act applies on a year-by-year basis, I do not see how the issue of the simulators' nature can be resolved other than by an examination of their current use in each taxation year and of all the indicia in each taxation year. This characterization can evolve from year to year.
+[133] It is therefore necessary to examine the use of each simulator and all the indicia and to do so for each year in order to determine whether the primary nature of the property was inventory or depreciable property at the end of each taxation year.
+[134] Before undertaking this analysis, I must examine the decision of the Supreme Court of Canada in Friesen,[83] where the majority of the Court held that a person who participated in an adventure in the nature of trade involving a parcel of raw land could avail himself of subsection 10(1) of the Act.[84]
+[135] The judgment of the majority, written by Justice Major, states the following at paragraph 28:
+28 The second problem with the interpretation proposed by the respondent is that it is inconsistent with the basic division in the Income Tax Act between business income and capital gain. As discussed above, subdivision b of Division B of the Act deals with business and property income and subdivision c of Division B deals with capital gains. The Act defines two types of property, one of which applies to each of these sources of revenue. Capital property (as defined in s. 54(b)) creates a capital gain or loss upon disposition. Inventory is property the cost or value of which is relevant to the computation of business income. The Act thus creates a simple system which recognizes only two broad categories of property. The characterization of an item of property as inventory or capital property is based primarily on the type of income that the property will produce.
+In addition, the decision of the majority rules out the possibility that the property can be inventory during the year of its sale but not during another year.
+[136] In his dissenting opinion, Justice Iacobucci disagrees with this point of view; see paragraph 136 of Friesen, which states, in part:
+136 . . . I fail to understand how property that has received a particular characterization in one year ipso facto receives that characterization in another, or all other, years.
+[137] On an initial reading, this decision of the Supreme Court implies that the approach that I have just described is impossible, because a simulator would have to be either inventory or capital property. Moreover, the nature of the property could not change from one year to another, thus if the sale of the simulators generated income, that would mean they were inventory, which, under the Regulations, is not depreciable.[85]
+[138] It would also mean that if, for example, a taxpayer purchased a building with a view to leasing it, but with a secondary—or dual—intention to sell it, the taxpayer could never claim capital cost allowance, even if many years elapsed before the sale occurred.
+[139] Does the excerpt from Friesen that I have just quoted, apply? We are no longer in the era where Lord Halsbury stated that a judgment is authoritative solely for the issue it decides and nothing more. Ever since the Supreme Court's decision in Sellars v. The Queen,[86] it has been clear that the Supreme Court's decisions have broader scope than they would under Lord Halsbury's classic approach.
+[140] The current situation is summed up by the Supreme Court in R. v. Henry,[87] at paragraphs 53 to 57. At paragraph 57, that court summarizes the applicable principles:
+57 The issue in each case, to return to the Halsbury question, is what did the case decide? Beyond the ratio decidendi which, as the Earl of Halsbury L.C. pointed out, is generally rooted in the facts, the legal point decided by this Court may be as narrow as the jury instruction at issue in Sellars or as broad as the Oakes test. All obiter do not have, and are not intended to have, the same weight. The weight decreases as one moves from the dispositive ratio decidendi to a wider circle of analysis which is obviously intended for guidance and which should be accepted as authoritative. Beyond that, there will be commentary, examples or exposition that are intended to be helpful and may be found to be persuasive, but are certainly not "binding" in the sense the Sellars principle in its most exaggerated form would have it. The objective of the exercise is to promote certainty in the law, not to stifle its growth and creativity. The notion that each phrase in a judgment of this Court should be treated as if enacted in a statute is not supported by the cases and is inconsistent with the basic fundamental principle that the common law develops by experience.
+[141] In order to apply paragraph 57 of Henry in the present context, we must examine the decision of the majority in Friesen.
+[142] In Friesen, vacant land was involved and therefore there could have been no question of its being depreciable property. Thus, there was no issue as to (i) whether depreciable property could constitute another category or subcategory which could, depending on the circumstances, give rise either to income or to a capital gain upon its disposition; or (ii) whether, alternatively, depreciable property could become inventory in a subsequent year.
+[143] In Friesen, supra, at paragraph 28,[88] the majority states, among other things:
+28 . . . The Act defines two types of property, one of which applies to each of these sources of revenue. Capital property (as defined in s. 54(b)) creates a capital gain or loss upon disposition. Inventory is property the cost or value of which is relevant to the computation of business income. The Act thus creates a simple system which recognizes only two broad categories of property. . . .
+[Emphasis added.]
+[144] The capital assets defined in paragraph (b) of the definition "capital property" in section 54 exclude "depreciable property", and since depreciable property cannot, under the Regulations, constitute inventory, it appears that "depreciable property" belongs to neither of the two categories.
+[145] Since the majority's decision in Friesen leaves depreciable property outside both categories, I conclude, applying the approach set out in paragraph 57 of the decision in Henry, that in the context of the instant case, I am not bound by the assertion that all assets are either inventory or property giving rise to a capital gain and that the category cannot change from one year to another.
+[146] Consequently, I can follow the approach that I have described above and look at the current use of each simulator year by year, whatever the nature of the income might have been at the time that the simulator was sold.
+[147] I would add that, in following this approach, I am in agreement with Justice Bowie, who states the following in Good Equipment Limited v. The Queen,[89] at paragraph 8:
+8 The respondent contends that the leased items of equipment do not qualify as capital assets. In my view, however, the appellant correctly so classified these units during the term of each lease. The characterization of an asset as inventory or depreciable capital asset may change from time to time depending on the circumstances, and in particular, the use to which the unit is being put at a given time: see Plaza Pontiac-Buick Ltd. v. The Queen; Canadian Kodak Sales Ltd. v. M.N.R. . . .[90]
+I would clarify that what is involved is "depreciable property", the term used in the Act, not a "depreciable capital asset", and that, as I have explained above, depreciable property does not necessarily give rise to a capital gain upon its disposition.
+Simulators for Canadair Regional Jet CL-65 and Airbus A330/A340 (Air Canada)
+[148] These two simulators were leased to Air Canada on a long-term basis ([CONFIDENTIAL: The leases were longer than five years.]). There was no question of sales to the bank at the time that the leases were entered into.
+[149] These leases began in July 1998 and January 1999 and were renewed on a sublease basis at the time of the simulator sale-and-leaseback arrangement involving the bank.
+[150] These were not short-term leases. Nothing in the evidence suggests that a sale could be anticipated in the short term. The option clause was just a possibility; it is always possible for an owner and lessee to agree to the sale of property that is being leased. Moreover, nothing in the evidence suggests that the circumstances which led the customer to choose a leasing arrangement would change in the short term.
+[151] Similarly, as a consequence of the lease contract the appellant could not sell the simulators to another airline. The appellant received rental income during the lease.
+[152] Given these circumstances, the simulators were not inventory between the time of their commissioning and, at the earliest, the beginning of the taxation year in which the sale to Bank of America took place.[91] Thus, the appellant was entitled to claim capital cost allowance for income tax purposes under paragraph 20(1)(a) of the Act.[92]
+Airbus A320 simulator (Airbus)
+[153] I do not see how this simulator could constitute inventory during the period commencing with its commissioning in late June 1998 and ending in late June 2001, following the two-year loan and one-year lease.
+[154] [CONFIDENTIAL]
+[155] However, during the three years in question, this simulator could not be sold to another airline, and during the first two years, it could not be sold to anyone, including Airbus. [CONFIDENTIAL]
+[156] [CONFIDENTIAL].[93] [CONFIDENTIAL]
+[157] During the three years in question, the current use of the simulator was to earn rental income.
+[158] The simulator was not inventory during those three years. By its primary nature the simulator was depreciable property.
+[159] Given the sale to Khalifa Airways in 2003, the simulator became inventory no later than 2003, when the sale took place.
+[160] There is no evidence regarding the use of the simulator after the end of the lease to Airbus and for the rest of the fiscal year ended March 31, 2002. Consequently, there are no facts on which it could be found that the use of the simulator changed prior to March 31, 2002.
+[161] In light of the foregoing, the appellant was entitled to claim capital cost allowance with respect to this simulator for the three years at issue.
+Boeing 747-400 simulator
+[162] The appellant and United signed a lease contract of indeterminate duration for this simulator. The contract could be terminated after 15 months. There was a significant sharing of risks between the parties, and United had the option to purchase the simulator at a price predetermined according to a formula. United ended the lease after a bit more than two years.
+[163] Nothing in the evidence points to circumstances that made it probable that United would exercise its option in the short term.
+[164] After two years, the appellant moved the simulator to Toronto, where it used it in its training centre. The respondent agrees that this simulator was depreciable once it was in Toronto. The dispute is about the two years during which it was leased to United.
+[165] The use during that period was under a lease for an indeterminate term. The income was rental income. This simulator could not have been sold to another airline before United terminated the lease.
+[166] Given the circumstances, by its primary nature the simulator was depreciable property, and I do not see how one could consider it inventory during the years in question.
+[167] I agree that it was depreciable property.
+Airbus A320 simulator (built for US Airways)
+[168] I will limit my analysis to the 2002 taxation year (April 1, 2001 to March 31, 2002) because no capital cost allowance was claimed for the two preceding years.[94]
+[169] The simulator was used to conduct training on the appellant's premises in Montreal from the fall of 2000 until December 2001 (at least).
+[170] In August 2001, the appellant signed a five-year lease that commenced on June 30, 2002. Although there were clauses allowing the appellant to terminate the contract earlier, nothing in the evidence suggests that a premature termination of the lease could be anticipated.
+[171] Given the agreement with Frontier, the simulator could not be sold during the 2002 taxation year. It could not be sold to another airline while the agreement with Frontier was in place.
+[172] Although the simulator was not yet operational in Denver on March 31, 2002, it had been used during the year to earn income, and it was expected that it would be leased to Frontier during the five years of the agreement.[95] By its primary nature, it was depreciable property.
+[173] Therefore, it constituted depreciable property during the 2002 taxation year.
+Conclusion
+[174] The appeal is allowed, and the entire matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons, on the following basis:
+(a) The profit from the sale of the A320 and A330/A340 simulators (used at the Toronto training centre) and the CL-65 and A330/A340 simulators (used by Air Canada) was income.
+(b) The appellant was entitled to claim capital cost allowance in respect of the CL-65 and A330/A340 simulators (used by Air Canada), the
+A320 simulator (Airbus), the Boeing 747‑400 simulator, and the A320 simulator (originally built for US Airways).
+Signed at Toronto, Ontario, this 12th day of August 2011.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 28th day of October 2011.
+Erich Klein, Revisor
+CITATION: 2011 TCC 354
+COURT FILE NO.: 2008-1944(IT)G
+STYLE OF CAUSE: CAE INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATES OF HEARING: November 4, 5 and 6, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: August 12, 2011
+APPEARANCES:
+Counsel for the appellant:
+Wilfrid Lefebvre, Q.C.
+Dominic C. Belley
+Counsel for the respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the appellant:
+Names: Wilfrid Lefebvre, Q.C.
+Dominic C. Belley
+Firm: Norton Rose OR
+Montreal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Transcript, November 4, 2009, at pp. 7-11.
+[2] Although I refer to the appellant, it would be more accurate to refer to the CAE group, because the activities are carried on not only by the appellant, but sometimes by various subsidiaries of the appellant as well.
+[3] Mr. Burney used by analogy the term "anchor tenant" used with respect to shopping centres.
+[4] Apparently, the Airbus A330 and A340 are similar enough for the same simulator to be used for both types of aircraft.
+[5] For example, the fact that the simulators are different, that the amounts are different, or that the initial training contract between the appellant and Air Canada was signed on different dates in 1997.
+[6] Exhibit I-1, Tab 15; Exhibit I-2, Tab 21, in the case of the A330/A340 simulator, the contract for which is dated August 1997.
+[7] Delivery was made on schedule. In the case of the A330/A340 simulator, delivery was to be in January 1999; that delivery was also made on time.
+[8] The fixed payments were for the use of the appellant's premises.
+[9] [CONFIDENTIAL]
+[10] Contract, clause 17: "The Customer shall have the right to purchase the Equipment upon giving CAE three (3) months prior written notice and upon mutually acceptable terms and conditions."
+[11] Plus five similar contracts pertaining to the A330/A340 simulator (CL-65: Exhibit I-1, Tabs 16-20; A330/A340: Exhibit I‑2, Tabs 22-26).
+[12] [CONFIDENTIAL]
+[13] The fact that the certifying authorities might require the owner to make changes was therefore contemplated.
+[14] On the other hand, risks involving Canadian and foreign tax authorities are, depending on the tax and the country in question, to be shared between the appellant and the bank: see Participation Agreement, Exhibit I-2, Tab 20, clauses 16(c) and (d). This is not significant for the purposes of this case.
+[15] Exhibit I-1, Tab 17, clause 12.
+[16] Ibid., clause 12(b) and Appendix F. These provisions are rather complicated. Essentially, their effect is as follows: [CONFIDENTIAL].
+[17] In the case of the A330/A340 simulator, the equivalent date is roughly one month before the end of the contract for the supply of services entered into with Air Canada.
+The contract also sets out the possibility of terminating the lease after two years (Exhibit I-1, Tab 17, clause 14(a)).
+[18] Transcript, November 4, 2009, question 118.
+[19] Ibid., pp. 90-91.
+[20] Ibid., questions 128 and 144.
+[21] Ibid., question 128. If there had been a straightforward sale, the profit from the transactions would have been clear. Here, given the various risks borne by the appellant under the lease and sublease contracts, it is not surprising that accountants required this approach by virtue of the conservatism principle in accounting.
+[22] The rent reduction has the same effect as including the amount in income.
+[23] See, in particular, Exhibit I-1, Tab 14, second and third paragraphs of the page numbered 44 (46th page of tab). In addition, see transcript, November 4, 2009, p. 97, question 135; p. 99, question 139; p. 143, question 279; and p. 146, question 291; and the first two paragraphs of Exhibit A-2, Tab 13, p. 24 of the document (p. 503 of the exhibit).
+[24] Exhibit I-3, Tabs 38-40.
+[25] Ibid., Tab 39.
+[26] Ibid., Tabs 40 and 41 — only the first pages of the contract and of Appendix A were adduced in evidence.
+[27] Ibid., Tab 38, first page of Appendix A.
+[28] Ibid., Tab 40.
+[29] In particular, the simulator that was originally built for US Airways and which will be discussed below.
+[30] Naturally, the dates, amounts, etc. are different.
+[31] Exhibit A-2, Tab 21.
+[32] [CONFIDENTIAL]
+[33] [CONFIDENTIAL]
+[34] This order was one of several placed pursuant to a contract that was signed on May 11, 1999, and was effective as of January 26, 1998 (Exhibit I-5, Tab 4).
+[35] Exhibit I-4, examination for discovery of Mr. Raquepas, questions 373 and 374.
+[36] [CONFIDENTIAL]
+[37] Exhibit I-4, questions 380-388. In addition, see Exhibit I-5, page 2, question 14.
+[38] The agreement allowed Frontier to renew the lease.
+[39] Exhibit I-3, Tab 32.
+[40] The appellant had the possibility of changing the choice annually. Although the contract refers to “exclusive” use, it would be more accurate to call it use on a priority basis, with a right to use all available hours. See below.
+[41] See Exhibit I-5, page 2, question 15, where the date indicated is October 5, 2000. Given the rest of the evidence, I am convinced that "2000" is a typographical error. The correct year is 2002.
+[42] Exhibit I-5, Tab 3.
+[43] Transcript, November 4, 2009, questions 356-358; Exhibit I-3, Tab 28.
+[44] The evidence does not explain why the simulator was already with United, but it is reasonable to assume that there must already have been a serious expectation that an agreement would be signed between the appellant and United.
+[45] Transcript, November 4, 2009, questions 220, 221 and 512.
+[46] The parties submitted the following case law: Friesen v. Canada, [1995] 3 S.C.R. 103; Good Equipment Limited v. The Queen, 2008 TCC 28; Racine, Demers and Nolin v. M.N.R., 65 DTC 5098 (Ex. Ct.); Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298; Senza Inc. c. Québec (Sous-ministre du Revenu), 2007 QCCA 1335; Reicher v. Canada, [1975] F.C.J. No. 1106 (QL); Richcraft Homes Ltd. v. Canada, [1995] T.C.J. No. 749 (QL); Zehr’s Markets Ltd. v. The Queen, 75 DTC 5135 (F.C.T.D.); Canadian Kodak Sales Limited v. M.N.R., 54 DTC 1194 (Ex. Ct.); Anthes Equipment Limited v. M.N.R., 87 DTC 59 (TCC).
+[47] At the end of the hearing, I did not think that the analysis of this case would be this difficult. Upon studying the Income Tax Act (the Act) and the case law, I saw that the case raises fundamental and difficult questions. Some of the decisions cited have certain analogies with this case, but none are identical.
+[48] [CONFIDENTIAL]
+[49] A "capital expenditure" in this first sense could also result in the acquisition of other kinds of property, such as "eligible capital property" within the meaning of section 54 of the Act.
+[50] Within the meaning of paragraph (b) of the definition "capital property" in section 54 of the Act. The term "capital" can be used in many ways; it is important to keep in mind the sense in which the word is used in the particular context.
+[51] Although the word "stock" might be preferable, the word "inventaire" is used in the French version of these reasons, since that is the term used in s. 10 of the French version of the Act.
+[52] Subsection 39(1) applies to all dispositions of property, regardless of the nature of the property (whether its disposition gives rise to income or to a capital gain), but, by reason of the words in parentheses in para. 39(1)(a) of the Act, the amount cannot be included twice:
+(a) . . . (to the extent of the amount thereof that would not, if section 3 were read without reference to the expression "other than a taxable capital gain from the disposition of a property" in paragraph 3(a) and without reference to paragraph 3(b), be included in computing the taxpayer's income for the year or any other taxation year) . . . "
+Subsection 248(28) of the Act would probably have a similar effect in the absence of these words in paragraph 39(1)(a).
+[53] Subsections 13(1) and 20(16) of the Act.
+[54] [1995] 3 S.C.R. 103.
+[55] See Racine, Demers and Nolin v. M.N.R., 65 DTC 5098 (Ex Ct.), at pp. 5103-5104.
+[56] See the definition of "business" in subsection 248(1) of the Act.
+[57] (1925), 12 T.C. 720.
+[58] (1904), 5 T.C. 159.
+[59] [1914] A.C. 1001.
+[60] [1925] S.C.R. 45, at pp. 48-49. The decision of the Supreme Court was affirmed by the Privy Council, [1926] A.C. 140, [1917-1927] C.T.C. 210.
+[61] The French version of these reasons contains a translation of this excerpt.
+[62] [1925] S.C.R. 45, at p. 55.
+[63] 54 DTC 1194.
+[64] The French version of these reasons contains a translation of this excerpt.
+[65] It appears that these immediate resales were only made if Gloucester Railway Carriage and Wagon Co. was required to purchase en bloc a number of wagons that exceeded its leasing needs.
+The Gloucester case as reported at (1925), 12 T.C. 720, provides the reader with the decisions at every level and includes the commissioners' statement of facts.
+[66] Gloucester and Canadian Kodak Sales were followed by the Australian Federal Court of Appeal in Memorex Pty Ltd. v. Commissioner of Taxation of the Commonwealth of Australia, [1987] FCA 440 (see the reasons of Justices Davies and Einfeld, notably at paras. 22-23).
+Gloucester and Canadian Kodak Sales were also followed by Associate Chief Judge Christie (as he then was) in Anthes Equipment Limited v. M.N.R., 87 DTC 59 (T.C.C.); see page 62. However, I would add the following nuance: At page 62, Associate Chief Judge Christie states that, at a certain point in time, the property in question was no longer a "capital asset" and had become inventory. "Capital asset" is to be understood to mean an expense that procures a benefit spanning several fiscal periods.
+In the instant case, I am focusing on Gloucester, because, although they apply Gloucester, the decisions in Canadian Kodak Sales, Anthes Equipment and Memorex appear to me to extend the scope of Gloucester to somewhat different situations, whereas Gloucester itself is more similar to the present case because Gloucester Railway Carriage and Wagon Co. is a manufacturer, like the appellant.
+For the purposes of this case, it is not necessary to decide in what circumstances goods manufactured by a business in the course of its normal manufacturing activities, and kept for its use, can become property that gives rise to a capital gain upon its disposition, but it is clear that this transformation is not an easy one in view of Gloucester. For example, see Richcraft Homes Limited v. The Queen, 95 DTC 657 (T.C.C.).
+Another example is Oliver v. Farnsworth (1956), 37 T.C. 51 (Chancery Div.). Oliver was a company that built, purchased and sold houses. Between 1927 and 1953, the company bought or sold 58 houses. Seventeen of those houses were sold. If a house was not sold shortly after being built, it was leased. The appeal pertained to a house that was built in 1929, sold in 1953, and leased in the meantime. The court held that the company had earned income.
+[67] Since this is the appellant's very business, it is unnecessary to determine whether there is an adventure in the nature of trade and to apply the factors set out in Friesen.
+[68] 2001 FCA 305.
+[69] I realize that the controversy in Dansereau was very different from the one in the instant case.
+The fact that the definition of "business" in subsection 248(1) of the Act says "'business' includes a profession, calling, trade, manufacture or undertaking of any kind whatever . . ." (Emphasis added.) is also a relevant consideration.
+[70] This would be the result regardless of the test.
+[71]Two simulators for Air Canada and two for the Toronto training centre.
+[72] In Minister of National Revenue v. Allarco Developments Ltd., [1974] S.C.R 730, the majority of the Supreme Court, per Justice Martland, stated at p. 741:
+My conclusions, in light of all these circumstances, are as follows: The respondent, being desirous of salvaging its investment in the lands acquired by it from Greniuk, and re-zoned by the City as parkland, was successful in arranging with the City for the exchange of part of its land for the Bellamy Hill site. That exchange was subject to the respondent’s using the land acquired for specified construction purposes. The respondent, through its financing by Great‑West, was able to meet the requirement and to complete the exchange. The lands conveyed to the City were trading lands. The financing arrangement involved a sale of the Bellamy Hill site by the respondent to Great-West for a price of $1,000,000, which was received by the respondent. That price represented the value of the Bellamy Hill site according to Great-West's land appraisal. In the result, the respondent obtained, by its exchange of trading lands, land which it was able to sell for a cash consideration of $1,000,000, being the value placed on the land by the purchaser. The fact that such sale was made as a part of Great-West's arrangement for the financing of the construction of the parkade and of the hotel does not affect the nature of the receipt of moneys by the respondent, which represented a trading receipt and not a realization of capital.
+[Emphasis added.]
+In Victoria Park Development Ltd. v. M.N.R., 72 DTC 1523, Assistant Chairman Cardin of the Tax Review Board distinguished Allarco on the facts. At page 1525, he appears to state that the fact that the land was sold in 1969 for financing purposes change what would otherwise have been income into a capital gain. However, the case was not decided on this basis because, as one can see further down on page 1525 of the decision, the Board determined that the land had changed in nature in 1961.
+In Zehr’s Markets Ltd. v. The Queen, 75 DTC 5135 (F.C.T.D.), the appellant owned two dozen or so grocery stores. It decided to sell three of its stores and simultaneously lease them back from the purchaser for 25 years. Justice Gibson held that the gain was a capital gain, not income.
+The decision in Zehr's is not based on the fact that the transaction was for financing purposes, or that the appellant continued to use the three stores for its business. Rather, it is based on the fact that, prior to the sale, the property was already of the kind that give rise to a capital gain upon sale. See the last sentence of the third full paragraph on page 5136 of the judgment.
+In these three cases, the vendor of the property was not its creator.
+[73] Even if it were possible to exclude the application of the Gloucester principle and to consider the use of the property and the income that it generates, the fact is that in order to conclude that the income is a capital gain, one would have to attach a great deal of importance to the use of each simulator leased by the appellant from its owner, a financial institution. This would be particularly true for the two simulators intended for the Toronto training centre, because those simulators were sold as soon as they became operational. However, the evaluation of a transaction in order to determine whether it is an adventure or concern in the nature of trade is to be done by examining the purpose pursued in purchasing or creating the property, and by examining the use of the property while it belonged to the seller, and the circumstances of the sale. Events subsequent to the sale are relevant only to the extent that they can corroborate or negate the evidence regarding the purpose and use of the property prior to the sale.
+[74] I do not find this result particularly satisfactory, but, upon reflection, I realize that my reaction does not stem from the fact that the gain realized is income, but, rather, from the fact that the entire gain is included in the income for the taxation year in which the sale took place even though the appellant continues to bear nearly all the risks, including the residual value guarantee. The accounting approach seems more realistic.
+[75] This results from the concluding words of paragraph 1100(1)(a) of the Regulations.
+[76] "Immobilisations" in French.
+[77] Which applies to the entire Act by virtue of the definition of "capital property" in subsection 248(1) of the Act.
+[78] This results from the following words:
+(a) . . . (to the extent of the amount thereof that would not, if section 3 were read without reference to the expression "other than a taxable capital gain from the disposition of a property" in paragraph 3(a) and without reference to paragraph 3(b), be included in computing the taxpayer's income for the year or any other taxation year) . . . .
+In his book entitled The Income Tax Law of Canada, 3d ed. (Toronto: Law Society of Upper Canada, 1976) Arthur Scace describes this well when he writes: "This means that a capital gain is in effect defined as something arising from a disposition that would not have been taxable under the pre-1972 Act."
+The words "to the extent of the amount thereof" mean that part of the profit from a single disposition might be a capital gain, and part of it could be income. (See also B.J. Arnold, Timing and Income Taxation: The Principles of Income Measurement for Tax Purposes (Canadian Tax Foundation, 1983) at pp. 303 and 312-322).
+Paragraph 39(1)(b) deals similarly with capital losses.
+[79] If the sale of any depreciable property gave rise to a capital gain, it would be unnecessary to refer to depreciable property in either paragraph (a) or paragraph (b) of the definition.
+[80] I will discuss the Friesen decision below.
+[81] For, although there are some differences, the Act, like accounting, seeks to apply the principle of the matching of revenues and charges to the fiscal period. Similarly, although there are some differences, the Act, like accounting, seeks to properly allocate, over time, the cost of property used by a business for a number of years.
+[82] Or by providing training services.
+[83] Supra, note 54.
+[84] Friesen aptly illustrates the fact that it is sometimes very difficult for a lawyer to advise his or her client on the ultimate outcome of litigation. The respondent was successful at first instance and before the Court of Appeal, but three of the five Justices of the Supreme Court decided in the appellant's favour.
+[85] In the case of the simulator sold to CATS, this would mean that if the sale produced income, there could be no depreciation in respect of the simulator; the same result would obtain for the simulator sold to Khalifa Airways, if that sale created income.
+[86] [1980] 1 S.C.R. 527.
+[87] 2005 SCC 76.
+[88] The numbering in certain unofficial reporters differs from the numbering in the official reporters.
+[89] 2008 TCC 28.
+[90] I would also note that, according to Tax Partner, "2011 ― Release 3", there appear to be situations where, in practice, the Minister accepts this dual nature. See the discussion in Canada Tax Service, at section 10, "Inventories", "Quasi‑Inventory", "Real Estate", first paragraph, and "Rental Equipment", first paragraph.
+[91] The 2000 taxation year. (See Exhibit I-2, at Tab 22, clause 2, and at Tab 26, Appendix A, "Closing date", and clause 2(b), and the same provisions in Exhibit I-1, at Tab 16, and Exhibit I-2, at Tab 20.)
+[92] The parties informed me that it was not necessary for me to decide the quantum of the capital cost allowance. My understanding from the parties' representations is that although the 1999 taxation year is not in issue in this appeal, it is relevant to the calculation for the 2000 taxation year.
+[93] [CONFIDENTIAL]
+[94] See Exhibit A-5.
+[95] The sale to CATS took place the following year.

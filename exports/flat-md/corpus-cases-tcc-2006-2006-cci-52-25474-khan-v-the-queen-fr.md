@@ -1,0 +1,148 @@
+---
+title: "Khan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25474/index.do"
+last_modified: "2006-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 52"
+citation2: ""
+neutral_citation: "2006 CCI 52"
+decision_date: "2006-01-25"
+language: "fr"
+item_id: "25474"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2356
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:57:05.964000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "31f9ef04da37c73836afc193920740664f46b95d9160a8fba840c68e95bff776"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Khan v. The Queen
+
+- Citation: 2006 CCI 52
+- Decision date: 2006-01-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2356, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-25
+Référence neutre
+2006 CCI 52
+Numéro de dossier
+2005-714(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-714(IT)I
+ENTRE :
+ARIF KHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 17 janvier 2006 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me John Gibb-Carsley
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont rejetés conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de janvier 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour d'avril 2006.
+Sara Tasset
+Référence : 2006CCI52
+Date : 20060125
+Dossier : 2005-714(IT)I
+ENTRE :
+ARIF KHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L'appelant, Arif Khan, interjette appel des nouvelles cotisations établies pour ses années d'imposition 2001 et 2002. Le ministre du Revenu national (le « ministre » ) a refusé la déduction de frais professionnels demandée par M. Khan au motif que le revenu de l'appelant pour ces années était un revenu d'emploi et non un revenu d'entreprise.
+Les faits
+[2] En 1997, M. Khan est entré en fonctions à titre de directeur général de la société Amstar Service Ltd. ( « Amstar » ), une entreprise de nettoyage commercial. La question en litige dans cet appel est de savoir si, en 2001 et en 2002, M. Khan exerçait ses fonctions à titre d'employé ou d'entrepreneur indépendant.
+[3] M. Khan s'est représenté lui-même et a été seul à témoigner pour son compte Il avait le fardeau de prouver que les hypothèses sur lesquelles le ministre a fondé ses nouvelles cotisations étaient erronées.
+[4] M. J. Derrick, agent des appels, a été appelé à témoigner pour la Couronne. Il a 11 ans d'expérience à la Division des appels et il a une expertise particulière en ce qui concerne l'assurance-emploi et le Régime de pensions du Canada, y compris la détermination du statut d'un travailleur en tant qu'employé ou en tant qu'entrepreneur indépendant.
+Analyse
+[5] Pour déterminer si M. Khan fournissait ses services à titre d'employé ou d'entrepreneur indépendant, la Cour doit prendre en considération les critères mentionnés dans l'arrêt 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 4 C.T.C. 139 (C.S.C.), à la page 154 :
+47 [...] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+La Cour doit aussi prendre en considération le critère mentionné plus tôt dans l'arrêt, à la page 152 :
+40 Comme le souligne le juge MacGuigan, le lord juge Denning (plus tard maître des rôles) a appliqué un critère général similaire, appelé « critère d'organisation » ou « critère d'intégration » dans l'arrêt Stevenson Jordan and Harrison, Ltd. c. Macdonald, [1952] 1 The Times L.R. 101 (C.A.), p. 111 :
+[TRADUCTION] Un élément semble se retrouver dans tous les cas : en vertu d'un contrat de louage de services, une personne est employée en tant que partie d'une entreprise et son travail fait partie intégrante de l'entreprise; alors qu'en vertu d'un contrat d'entreprise, son travail, bien qu'il soit fait pour l'entreprise, n'y est pas intégré mais seulement accessoire.
+[6] Examinée à la lumière des facteurs énoncés dans l'arrêt Sagaz, la preuve n'appuie pas la conclusion préconisée par l'appelant selon laquelle il exerçait ses fonctions à titre d'entrepreneur indépendant. Pour les motifs exposés ci-après, je suis convaincue qu'il exerçait ses fonctions de directeur général à titre d'employé.
+Contrôle
+[7] Comme l'avocat de l'intimée en a convenu, l'analyse de la situation de l'appelant est rendue un peu plus difficile par le fait que M. Khan occupait un poste de directeur général. Un certain degré d'autonomie est inhérent à un tel poste, mais il ne faut pas confondre cette autonomie avec le « contrôle » d'une entreprise en tant que personne « travaillant à son compte » au sens de l'arrêt Sagaz. Même s'il avait à accomplir ses tâches de gestion avec une certaine indépendance, M. Khan n'était pas celui à qui incombait la prise de décision ultime. La prise de décisions importantes relevait exclusivement du directeur d'Amstar, M. Lawrie. Par exemple, même si M. Khan devait reccueillir les renseignements nécessaires pour déterminer le prix des contrats des clients, c'était M. Lawrie qui donnait son approbation finale. De la même façon, même si M. Khan faisait des recommandations à M. Lawrie en ce qui concerne l'embauche et le licenciement des travailleurs, M. Khan a témoigné qu'il n'avait pas le pouvoir de hausser le salaire versé aux travailleurs et qu'il ne pouvait pas non plus envoyer de nouveaux travailleurs chez un client sans l'approbation de M. Lawrie. Les contrats[1] des travailleurs, tout comme ceux des clients, étaient conclus avec Amstar, et non avec M. Khan. Dans tous les cas, M. Khan travaillait sous la direction de M. Lawrie pour le compte d'Amstar : il a raconté comment, à un certain moment, lorsque l'Agence a demandé à Amstar les contrats des travailleurs pour examen, il a envoyé des télécopies des contrats à l'Agence en expliquant que [TRADUCTION] « quand mon patron m'a appelé et m'a demandé de le faire, je l'ai fait » .
+Instruments de travail
+[8] Cet aspect de la preuve n'était pas déterminant. J'accepte l'argument de l'avocat de l'intimée à savoir qu'il est, au mieux, neutre. Il semble que M. Khan fournissait une partie des instruments de travail utilisés par Amstar, mais il est difficile de déterminer sur quelle base et dans quelle mesure.
+Chance de profit et risque de perte
+[9] La rémunération que M. Khan recevait pour l'exercice de ses fonctions de directeur général était fixée pour l'année et lui était payée en versements mensuels égaux à partir du compte bancaire d'Amstar. En plus de son salaire ordinaire, M. Khan recevait aussi 400 $ par mois à titre de prime de « loyauté » versée pour le garder à Amstar. M. Khan a expliqué que lorsqu'il a commencé à travailler pour Amstar, il exerçait aussi un emploi de livreur de journaux tôt le matin. Lorsque cet emploi a commencé à nuire aux tâches croissantes de l'appelant pour Amstar, M. Lawrie a eu l'idée de la prime de 400 $, et qui visait aussi à aider M. Khan à acquitter les frais afférents à son véhicule. Tout comme son salaire mensuel, le paiement de 400 $ était fixe, quel que soit son objet; peu importe le rendement de l'appelant ou d'Amstar, la rémunération de l'appelant n'était pas modifiée. M. Khan a témoigné qu'il était possible qu'il touche une prime pour des projets de nettoyage sur des chantiers de construction d'écoles, mais je ne trouve pas cet élément de preuve clair ni convaincant. De plus, il a parlé d'une occasion où il avait été incapable d'exercer ses fonctions de directeur général et où il avait payé une autre personne pour prendre sa place; mais, en plus de l'absence d'éléments de preuve pour appuyer cette assertion, cette occasion à elle seule ne suffit pas pour établir que l'appelant avait généralement le droit de désigner des remplaçants pour exercer ses fonctions. Au contraire, cet élément de preuve montre que la fiabilité et la loyauté particulières de M. Khan étaient ce qui faisait de lui un employé précieux pour Amstar.
+Intégration
+[10] En sa qualité de directeur général d'Amstar, M. Khan était un élément clef pour le succès commercial de la société. Il accomplissait ses tâches consciencieusement et tenait M. Lawrie au courant pour que les décisions appropriées soient prises par la société. À ce titre, M. Khan faisait partie intégrante de l'entreprise d'Amstar. Il a témoigné que ses cartes de visite indiquaient qu'il était le [TRADUCTION] « directeur général » de la société. Il écrivait des lettres au nom de la société sur le papier à en-tête d'Amstar[2] et donnait du poids à sa signature en y accolant le titre [TRADUCTION] « directeur général » , ce qui convenait à son poste de gestion. Il a rapidement cessé de remettre des factures à Amstar parce que le montant était toujours le même. Considérée dans son ensemble, la preuve n'appuie pas la conclusion selon laquelle les efforts de M. Khan étaient faits au profit de sa propre entreprise; ils faisaient plutôt partie intégrante de l'exploitation d'Amstar.
+Conclusion
+[11] J'accepte la preuve de M. Derrick à savoir qu'il a examiné attentivement le dossier de M. Khan pour vérifier que le calcul des nouvelles cotisations avait été fait correctement et qu'il avait été rajusté pour tenir compte du statut d'employé de M. Khan. De la même façon, M. Khan a présenté son témoignage de manière franche. Il avait fait de son mieux pour se renseigner sur la position de l'Agence en ce qui concerne les critères qui doivent être satisfaits pour que le statut d'entrepreneur indépendant soit établi et avait formulé ses arguments dans ce contexte. C'est l'interprétation des critères établis dans la jurisprudence qui lui a posé problème.
+[12] Pour tous ces motifs, je ne suis pas convaincue que M. Khan s'est acquitté de son fardeau de présentation pour prouver que l'hypothèse du ministre selon laquelle il était un employé est erronée; en conséquence, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 25e jour de janvier 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 12e jour d'avril 2006.
+Sara Tasset
+RÉRÉRENCE : 2006CCI52
+N º DU DOSSIER DE LA COUR : 2005-714(IT)I
+INTITULÉ : Arif Khan c. S.M.R.
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : Le 17 janvier 2006
+MOTIFS DU JUGEMENT : L'honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 25 janvier 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me John Gibb-Carsley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-7.
+[2] Pièce R-6.

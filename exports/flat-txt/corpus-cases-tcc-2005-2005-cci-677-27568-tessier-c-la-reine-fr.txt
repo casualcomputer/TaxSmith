@@ -1,0 +1,104 @@
+Title: Tessier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27568/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-677-27568-tessier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-10-19
+
+# Tessier c. La Reine
+
+- Citation: 2005 CCI 677
+- Decision date: 2005-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 63, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tessier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-19
+Référence neutre
+2005 CCI 677
+Numéro de dossier
+2005-2154(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2154(IT)I
+ENTRE :
+JACQUES ROSAIRE TESSIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 12 octobre 2005, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Johanne M. Boudreau
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté.
+Signé à Ottawa, Canada, ce 19e jour d'octobre 2005.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2005CCI677
+Date : 20051019
+Dossier : 2005-2154(IT)I
+ENTRE :
+JACQUES ROSAIRE TESSIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L'appelant porte en appel la cotisation établie par le ministre du Revenu national (« Ministre ») en date du 21 septembre 2004 pour son année d'imposition 2003, et par laquelle le Ministre établissait le revenu imposable de l'appelant à 30 999 $ (voir pièce A-1, page 3).
+[2] Ce revenu imposable est constitué de l'addition de deux montants, soit un montant de 15 740 $ provenant d'un régime enregistré d'épargne retraite (« REER ») (voir pièce A-1, page 11), et d'un montant de 15 259 $, attribuable aux montants versés par la Régie des rentes du Québec (« RRQ ») au cours de l'année 2003, selon le relevé 2 du ministère du Revenu du Québec (voir pièce A‑1, page 10).
+[3] L'appelant conteste l'ajout de ce deuxième montant de 15 259 $ dans son revenu pour l'année 2003. Il soutient qu'une somme de 7 343 $ a été retenue par le gouvernement du Québec de cette somme de 15 259 $, en remboursement des prestations d'aide sociale qu'il avait reçues, et que la somme réelle qu'il a reçue de la RRQ, est la différence, soit 7 916 $.
+[4] Selon le relevé 2 du ministère du Revenu du Québec (pièce A-1, page 10), le montant de 15 259 $ se détaille comme suit :
+8 779,20 $ attribuable à l'année 2003
+6 480,72 $ attribuable à l'année 2002, qui aurait été reçu en 2003
+15 259,92 $ total
+[5] Il ressort de la preuve que la RRQ a accepté par lettre envoyée à l'appelant en date du 17 avril 2003, de verser une rente d'invalidité à l'appelant, rétroactivement à compter du mois d'avril 2002. Selon cette lettre, on y joignait un chèque couvrant le montant rétroactif qui était dû à l'appelant (voir pièce A-1, page 13). Ainsi, selon les « Explications relatives au paiement » jointes à la lettre du 17 avril 2003, on calculait la somme à verser à l'appelant de la façon suivante: pour l'année 2002, l'appelant avait droit à une rente mensuelle de 720,08 $ pour une période de neuf mois (avril à décembre 2002), totalisant 6 480,72 $; pour l'année 2003, l'appelant avait droit à une rente mensuelle de 731,60 $, de sorte qu'à la date où l'appelant fut avisé de son droit de recevoir une rente d'invalidité, soit au 17 avril 2003, la RRQ reconnaissait devoir à l'appelant la somme de 2 926,40 $, soit une rente mensuelle de 731,60 $ pour une période de quatre mois (janvier à avril 2003). Le total dû à la fin du mois d'avril 2003 s'élevait donc à 9 407,12 $.
+[6] Puisque l'appelant avait fait une demande d'invalidité en 2001, il a reçu des prestations d'aide sociale en attendant de savoir s'il était éligible à une rente d'invalidité. Il avait toutefois un engagement auprès du ministère de la Solidarité sociale de rembourser ces prestations d'aide sociale à même la rente d'invalidité qui lui serait versée ultérieurement.
+[7] C'est pourquoi, au moment d'établir un chèque à l'appelant pour sa rente d'invalidité le 23 avril 2003, la RRQ a retenu une somme de 7 275,11 $ du montant total de la rente due à cette date, soit 9 407,12 $. En sorte que, l'appelant a reçu un chèque pour la différence, soit 2 132,01 $ (voir pièce A-1, page 12).
+[8] C'est ce montant de 7 275,11 $ (l'appelant parlait d'un montant de 7 343 $ dans son avis d'appel, mais reconnaît que c'est plutôt 7 275,11 $ qui est le montant exact) que l'appelant refuse de se voir inclure dans son revenu, puisqu'il dit qu'il n'a pas reçu en 2003 cette somme, qui selon lui, a déjà été incluse dans son revenu antérieurement.
+[9] Il ressort des documents mis en preuve par l'appelant, qu'en 2002, il a reçu des prestations d'aide sociale (aide financière de dernier recours) de 7 153 $. Ce montant a été inclus dans le revenu de l'appelant dans sa déclaration de revenu provinciale en 2002, et une déduction de 1 096 $ lui a été accordée en contrepartie (l'on peut présumer que l'appelant avait remboursé un montant de 1 096 $ à l'aide sociale en 2002). Le revenu imposable s'élevait donc à 25 146 $ en 2002 sur sa déclaration de revenu provinciale (voir pièce A-1, page 15). Au fédéral, les prestations d'aide sociale doivent également être incluses dans le revenu aux termes de l'alinéa 56(1)u) de la Loi de l'impôt sur le revenu (« Loi ») et sont par la suite déduites en totalité dans le calcul du revenu imposable (que l'appelant rembourse ou non ces prestations) aux termes de l'alinéa 110(1)f) de la Loi. Ainsi, en 2002, on voit que le revenu net fédéral de l'appelant est de 25 146 $ (lequel montant inclut la somme de 7 153 $ reçue de l'aide financière de dernier recours, de laquelle a déjà été déduite la somme remboursée de 1 096 $, selon la pièce A-1, page 15), et qu'on accorde une déduction supplémentaire de 6 057 $ (soit 7 153 $ moins 1 096 $) pour arriver à un revenu imposable de 19 089 $ en 2002 (voir pièce A-1, page 14). On voit donc que le montant d'aide sociale de 7 153 $ reçu par l'appelant en 2002 n'a pas été inclus dans le calcul du revenu imposable de l'appelant pour cette même année.
+[10] En 2003, l'appelant a reçu une aide financière de dernier recours de l'aide sociale de 3 066 $ qui a été incluse dans le revenu de l'appelant dans sa déclaration de revenu provinciale (voir pièce A-1, page 18) et on lui a accordé une déduction de 7 343 $ par suite du remboursement qu'il a effectué dans cette même année et qui comprend le montant de 7 275,11 $ mentionné plus haut. Le revenu net et imposable de l'appelant au provincial s'élève donc à 26 722 $ pour l'année 2003 (voir pièce A-1, page 18). Ceci s'explique par le fait qu'en 2002, l'appelant avait dû inclure le montant d'aide sociale de 7 153 $ et n'avait bénéficié que d'une déduction de 1 096 $, correspondant à ce qu'il avait probablement remboursé en 2002. En 2003, comme il a dû rembourser la somme de 7 275,11 $, on lui a accordé cette déduction, puisqu'on ne lui avait pas accordée dans une année antérieure (en fait, la déduction accordée au provincial est de 7 343 $).
+[11] Au fédéral, en 2003, le revenu imposable s'élève à 30 999 $, lequel montant n'inclut pas le montant d'aide sociale de 3 066 $ reçu en 2003, et n'inclut pas non plus une déduction de 7 343 $, puisque l'aide sociale n'a pas été incluse au revenu imposable de l'appelant en 2002, comme ce fut le cas au provincial.
+[12] Le montant de 30 999 $ inclut la somme de 15 740 $ reçue de l'appelant de son REER (ce que l'appelant ne conteste pas) et la somme de 15 259 $, lequel correspond au montant total de la rente d'invalidité qui a été versée par la RRQ en 2003 (voir pièce A-1, page 10), qui comprend le paiement rétroactif pour l'année 2002.
+[13] Il est vrai que la RRQ a retenu un montant de 7 275 $ du montant total qu'elle devait verser à l'appelant pour l'année 2003, en remboursement de l'aide sociale qu'il avait reçue temporairement en attendant l'octroi de sa rente d'invalidité. Que l'appelant ait reçu le plein montant de 15 259 $ et qu'il refasse lui-même un chèque au gouvernement du Québec en remboursement de l'aide sociale qu'il a reçue temporairement, ou que le gouvernement du Québec opère compensation sur la rente d'invalidité qu'il doit verser à l'appelant, revient au même. La procédure de compensation ne change pas le fait que l'appelant a reçu une rente d'invalidité de 15 259 $ en 2003, qui est imposable aux termes de l'alinéa 56(1)d) de la Loi. Puisque l'appelant n'a jamais inclus dans son revenu imposable au fédéral le montant de l'aide sociale qu'il a dû rembourser, ce montant ne peut venir réduire le montant de la rente d'invalidité, lequel est totalement imposable.
+[14] Je conclus donc que le Ministre a correctement calculé le revenu imposable de l'appelant à 30 999 $ pour l'année 2003 et que la cotisation sous appel est bien fondée.
+[15] L'appel est rejeté.
+Signé à Ottawa, Canada , ce 19e jour d'octobre 2005.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2005CCI677
+Nº DU DOSSIER DE LA COUR : 2005-2154(IT)I
+INTITULÉ DE LA CAUSE : JACQUES ROSAIRE TESSIER ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 12 octobre 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 19 octobre 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Johanne M. Boudreau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

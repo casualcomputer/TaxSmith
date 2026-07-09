@@ -1,0 +1,206 @@
+---
+title: "Park Avenue Specialties Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28141/index.do"
+last_modified: "2003-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 750"
+citation2: ""
+neutral_citation: "2003 CCI 750"
+decision_date: "2003-10-27"
+language: "fr"
+item_id: "28141"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1792
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:36:19.281000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "45c7545ab50f4273e19cdbec9fb6654f5935c11ab626689b31e33690a8df1c51"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Park Avenue Specialties Ltd. c. M.R.N.
+
+- Citation: 2003 CCI 750
+- Decision date: 2003-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1792, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Park Avenue Specialties Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-27
+Référence neutre
+2003 CCI 750
+Numéro de dossier
+2003-1079(CPP)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2003‑1079(CPP)
+ENTRE :
+PARK AVENUE SPECIALTIES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SUSAN PASAY,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Park Avenue Specialties Ltd. (dossier numéro 2003‑1078(EI)) le 3 octobre 2003 à Edmonton (Alberta)
+Devant : L’honorable juge C. H. McArthur
+Comparutions
+Avocat de l’appelante :
+Me Peter L. Court
+Avocate de l’intimé :
+Me Galina M. Bining
+Pour l’intervenante :
+L’intervenante elle‑même
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada est rejeté et la décision qu’a rendue le ministre en vertu de l’article 27 du Régime à l’égard dudit appel porté devant lui est confirmée.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Dossier : 2003‑1078(EI)
+ENTRE :
+PARK AVENUE SPECIALTIES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SUSAN PASAY,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Park Avenue Specialties Ltd. (dossier numéro 2003‑1079(CPP)) le 3 octobre 2003 à Edmonton (Alberta)
+Devant : L’honorable juge C. H. McArthur
+Comparutions
+Avocat de l’appelante :
+Me Peter L. Court
+Avocate de l’intimé :
+Me Galina M. Bining
+Pour l’intervenante :
+L’intervenante elle‑même
+____________________________________________________________________
+JUDGMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté et la décision qu’a rendue le ministre en vertu de l’article 91 de la Loi à l’égard dudit appel porté devant lui est confirmée.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI750
+Date : 20031027
+Dossiers : 2003‑1078(EI)
+2003‑1079(CPP)
+ENTRE :
+PARK AVENUE SPECIALTIES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SUSAN PASAY,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les présents appels sont interjetés à l’encontre des décisions qu’a rendues le ministre du Revenu national (le « ministre ») en vertu de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime »). La question en litige consiste à savoir si Susan Pasay occupait un emploi assurable auprès de l’appelante en vertu d’un contrat de louage de services ou si elle a été engagée en vertu d’un contrat d’entreprise (l’alinéa 5(1)a) de la Loi).
+[2] Avant de commencer, il est à noter que la demande d’ajournement qu’a formulée l’avocat de l’appelante a été refusée. Le directeur de l’appelante (Don) qui a été informé de la date de l’audience par voie d’avis était à Montréal en vue de participer à un salon professionnel ou à une conférence. Il semble qu’il ait oublié que l’appel devait être entendu aujourd’hui. L’avocate de l’intimé a indiqué qu’elle n’avait été informée de la demande de l’appelante que une heure avant la tenue de la présente audience et s’est opposée à ce que la Cour autorise un ajournement. L’appelante a été informée de la date et de l’heure auxquelles devaient se tenir les présentes procédures par voie d’un avis daté du 6 août 2003. Les présents appels sont tenus aux frais du contribuable, et la Cour ne peut les ajourner en raison d’un simple caprice ou d’un oubli de sa part. L’appelante a été avisée presque deux mois à l’avance, et il était prévu que seuls ses appels seraient entendus le 3 octobre 2003.
+[3] L’appelante était représentée par un avocat conseil et Tracey Manning, l’adjointe administrative de l’appelante, a témoigné en son nom. Quant à la travailleuse, Susan Pasay, elle a témoigné au nom du ministre. Selon la position de l’appelante, qui a brièvement été énoncée, Susan Pasay possédait 17 années d’expérience dans le domaine de la vente au sein d’entreprises semblables à celle qu’exploitait l’appelante. Cette dernière l’a engagée parce qu’elle apportait à l’entreprise une contribution consistant en une clientèle composée de plusieurs centaines de clients, clientèle qu’elle s’était constituée au cours des années. Elle établissait son propre horaire de travail et possédait sa propre clientèle. Elle connaissait très bien l’établissement des prix et fixait ses propres prix sur les produits vendus. Elle était également personnellement responsable de rendre compte de toute erreur commise ou de toute perte subie.
+[4] Selon la position de l’intimé, Susan Pasay exerçait un emploi assurable et ouvrant droit à pension. Cette position se fonde sur les hypothèses de fait suivantes :
+[Traduction]
+a) l’appelante exploitait une entreprise consistant en la vente d’articles promotionnels;
+b) la travailleuse a été engagée à titre de vendeuse;
+c) la travailleuse fournissait ses services sur le lieu d’affaires de l’appelante et sur le terrain;
+d) la travailleuse n’a pas soumissionné pour obtenir un contrat de travail;
+e) la travailleuse était rémunérée à la commission;
+f) selon le calcul de son salaire, la travailleuse percevait 50 p. 100 des profits que généraient les ventes;
+g) l’appelante établissait le prix des produits;
+h) la travailleuse disposait d’une certaine latitude pour établir les prix en fonction du client et du volume de la commande;
+i) la travailleuse percevait également des primes;
+j) l’appelante contribuait également au REER de la travailleuse;
+k) l’appelante percevait les sommes des ventes et contrôlait les paiements versés à la travailleuse;
+l) la travailleuse était admissible à des avances sur ses commissions;
+m) l’appelante se réservait le droit d’exercer un contrôle sur la travailleuse;
+n) l’appelante avait le droit de surveiller le travail qu’accomplissait la travailleuse et de lui transmettre des directives;
+o) la travailleuse représentait l’appelante lorsqu’elle travaillait sur le terrain;
+p) la travailleuse participait aux réunions du personnel vendeur;
+q) la travailleuse n’était pas autorisée à fournir des services semblables aux concurrents de l’appelante;
+r) la travailleuse était tenue de fournir ses services personnellement et n’était pas autorisée à engager elle-même un remplaçant;
+s) l’appelante a fourni à la travailleuse un bureau meublé et équipé et a mis à sa disposition un personnel de soutien;
+t) l’appelante fournissait à la travailleuse un véhicule loué;
+u) la travailleuse a engagé des dépenses liées à l’achat d’essence et à l’entretien du véhicule;
+v) l’appelante a rémunéré la travailleuse pour qu’elle participe à un salon professionnel qui se tenait à Toronto;
+w) l’appelante a fourni à la travailleuse des vestons et des chandails sur lesquels était imprimé le symbole social de l’appelante;
+x) l’appelante fournissait le produit à vendre ainsi que tout le matériel nécessaire à la vente;
+y) la travailleuse a engagé quelqu’un temporairement pour qu’il lui fournisse un soutien relativement à ses tâches administratives;
+z) l’appelante a engagé la travailleuse en vertu d’un contrat de louage de services.
+[5] Les hypothèses de fait énoncées aux points a) à f) inclusivement ainsi qu’aux points h), i), j), k), p), q), s), t), u), v), x) et y) n’ont pas vraiment été contestées. Je constate que l’hypothèse énoncée au point d) manque de précision, aucune preuve ne m’a été présentée en ce qui concerne les hypothèses énoncées aux points l) et r) et l’hypothèse énoncée au point z) constitue la question en litige.
+[6] Outre l’hypothèse énoncée au point z), celles contestées sont les suivantes :
+g) l’appelante établissait le prix des produits;
+l) la travailleuse était admissible à des avances sur ses commissions;
+m) l’appelante se réservait le droit d’exercer un contrôle sur la travailleuse;
+n) l’appelante avait le droit de surveiller le travail qu’accomplissait la travailleuse et de lui transmettre des directives;
+o) la travailleuse représentait l’appelante lorsqu’elle travaillait sur le terrain.
+[7] Les faits, tels qu’ils ont été admis et tels qu’ils m’ont été présentés, sont les suivants :
+[8] L’appelante exploitait et exploite encore une entreprise qui consistait en la vente d’articles promotionnels tels que des stylos, des grosses tasses, des tee-shirts et autres choses de ce genre à Edmonton et dans la région. Susan Pasay a travaillé dans la vente d’articles semblables pendant environ 17 années.
+[9] L’appelante exploitait une entreprise assez importante qui comptait à son service plusieurs employés du personnel de soutien dont les responsabilités n’étaient pas directement liées à la vente. Elle possédait et occupait un édifice commercial qui comprenait une salle d’exposition pour les clients, des bureaux, de l’équipement de bureau et des fournitures mis à la disposition des vendeurs et du personnel de soutien. Pendant la période pertinente, l’entreprise comptait entre cinq et sept vendeurs dont deux percevaient un salaire fixe. Quant aux autres vendeurs, ils étaient rémunérés uniquement à la commission. Celle que percevait Susan Pasay correspondait à 50 p. 100 des profits tirés des ventes qu’elle réalisait. Parce que ses ventes annuelles s’étaient élevées à plus de 250 000 $ et 400 000 $, l’appelante lui a payé ses dépenses pour qu’elle participe à un salon professionnel à Toronto. L’appelante payait également les assurances et la location du véhicule qui était fourni à la travailleuse. Elle payait également les frais d’essence et d’entretien dudit véhicule. Susan Pasay était libre d’aller et de venir comme bon lui semblait. Elle réalisait la plupart de ses ventes sur le lieu d’affaires des clients et dans des municipalités plus petites situées à l’extérieur d’Edmonton. Elle n’avait besoin d’aucune directive concernant l’art de la vente ou la clientèle visée. Lorsque l’appelante l’a engagée, celle‑ci a fourni à l’entreprise un atout précieux, notamment une liste appréciable de clients qu’elle avait recrutés au cours des années. Manifestement, elle avait beaucoup d’initiative. Plus elle vendait, plus elle touchait des commissions. Bien que l’appelante n’ait exercé qu’un certain contrôle sur ses activités quotidiennes relatives à la vente, outre le véhicule et le voyage à Toronto, elle lui a fourni un soutien et une aide considérable. Une salle d’exposition d’articles promotionnels a été mise gratuitement à sa disposition pour ses clients. Une réceptionniste répondait aux appels et aux questions de ses clients. L’appelante lui a également fourni un bureau privé, du matériel promotionnel, tel que des brochures, ainsi que de l’équipement de bureau moderne sans aucuns frais. De plus, elle avait, à son domicile, un bureau entièrement équipé. Don, le propriétaire de l’appelante, examinait ses bons de commande quotidiennement et, quelquefois pendant l’année, elle le rencontrait pour discuter de sa situation commerciale. Elle avait la possibilité de participer à des réunions du personnel vendeur et à des colloques. Elle pouvait compter sur le soutien de ses collègues en son absence. Des échantillons de produits lui étaient fournis gratuitement, notamment un veston, un gilet et un tee‑shirt portant le logotype de l’appelante. Elle a engagé, à ses propres frais, un aide‑commis pendant six mois, période durant laquelle elle était très occupée. Lorsqu’elle produisait ses déclarations de revenus, elle déduisait des dépenses, tels que des frais de bureau à domicile et des frais d’utilisation d’un véhicule automobile au même titre qu’un entrepreneur indépendant. Elle payait pour les erreurs qu’elle commettait sur ses bons de commande. Elle était inscrite aux fins de la taxe sur les produits et services (« TPS ») et la facturait à l’appelante sur ses bons de commande.
+[10] Susan Pasay disposait d’une certaine latitude concernant l’établissement de ses prix à condition qu’elle maintienne un ratio de profit global d’environ 40 p. 100. Elle pouvait vendre certains produits avec une marge sur coût de revient de 50 p. 100 et d’autres produits avec une marge brute de 30 p. 100. Elle bénéficiait également d’une autonomie considérable sur le plan professionnel puisqu’elle vendait ses produits où, quand et comme elle le voulait. L’appelante exerçait un contrôle sur ses commissions, sur les produits qu’elle vendait et sur l’édifice commercial. Le témoignage oral présenté au nom des deux parties était assez honnête. Les deux témoins ont répondu aux questions qui leur ont été posées avec prudence et ont évalué soigneusement leurs propos de manière à ce qu’ils soient favorables à leur position respective.
+LES CRITÈRES ET LES FAITS
+[11] L’affaire en l’espèce présente certaines difficultés parce que, d’une part, le directeur de l’appelante n’a pas témoigné et parce que, d’autre part, la relation qui existait entre l’appelante et Susan Pasay était régie par une entente verbale vaguement définie.
+[12] Fondamentalement, selon l’argument de l’appelante, celle‑ci ne contrôlait pas Susan Pasay, elle a apporté sa clientèle, elle avait des chances de réaliser des profits ou risquait de subir des pertes parce qu’elle fixait le prix des produits qu’elle vendait, qu’elle payait pour les erreurs qu’elle commettait et qu’elle possédait, à son domicile, l’essentiel de l’équipement qui lui était nécessaire à l’exécution de ses fonctions. La seule retenue qui était prélevée sur ses commissions nettes concernait un régime enregistré d’épargne‑retraite auquel contribuait aussi l’appelante qui y versait une somme jusqu’à concurrence de 100 $ par mois. Lorsque la travailleuse a quitté l’appelante, elle a gardé la plupart de ses clients.
+[13] Dans la décision 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, le juge Major a examiné certaines affaires qui traitaient de la distinction à établir entre un contrat de louage de services et un contrat d’entreprise. À la page 1005[1] il a affirmé ceci :
+¶ 47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui‑même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+¶ 48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablies de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[14] Je me pencherai maintenant sur les critères dont il est fait mention ci‑dessus et sur les faits en l’espèce. Susan Pasay était une vendeuse très qualifiée. Elle n’avait besoin d’aucune directive. Bien que l’appelante ait examiné ses bons de commande et qu’elle l’ait incitée à participer aux réunions du personnel vendeur, la plupart du temps elle était libre d’accomplir son travail où, quand et comme elle le voulait, ce qui favorise la position de l’appelante. Quant à celle de l’intimé, elle est appuyée par les faits suivants : elle n’était pas autorisée à travailler pour le compte d’un concurrent de l’appelante; elle ne devait promouvoir que les produits de cette dernière; elle utilisait du papier à lettre à en‑tête sur lequel était imprimé le logotype de l’appelante ainsi que la salle d’exposition qui avait été mise à sa disposition et vendait les produits de l’appelante. Toutefois, ce critère n’est pas concluant.
+[15] En ce qui concerne la propriété et l’utilisation des outils de travail qui étaient nécessaires à Susan Pasay pour accomplir son travail, ce critère est également peu concluant. L’appelante fournissait un édifice, une salle d’exposition, un bureau, de l’équipement, un personnel de soutien, des produits, du matériel promotionnel et une voiture, ce qui appuie l’existence d’une relation de travail avec un employé. La travailleuse avait un bureau à son domicile et elle avait engagé un adjoint pour qu’il lui fournisse une aide relativement à ses ventes, ce qui appuie l’existence d’une relation de travail avec un entrepreneur indépendant, bien que l’aide qu’elle a engagé ne se soit pas occupé directement des ventes.
+[16] Elle était une vendeuse commerciale et touchait une commission fixe sur ses ventes, ce qui ne comportait pas de risques importants.
+[17] Je suis parvenu à la conclusion selon laquelle elle était une employée de l’appelante après avoir toutefois longuement hésité et délibéré. Manifestement, il s’agit d’un cas limite.
+[18] Après avoir appliqué les faits et les critères, la question se résume à ceci : Susan Pasay travaillait‑elle à son compte ou pour le compte de l’appelante?
+– La réponse la plus cohérente est qu’elle travaillait pour le compte de l’appelante;
+– l’appelante l’a engagée et pouvait la congédier;
+– la travailleuse vendait les produits de l’appelante et en faisait la promotion;
+– la travailleuse faisait appel au réseau complet de soutien que fournissait l’appelante;
+– la travailleuse était rémunérée selon la méthode du partage des bénéfices de l’appelante;
+– elle se présentait à ses clients comme une employée de l’appelante;
+– elle n’aurait pas obtenu autant de succès dans l’exécution de son travail sans les ressources de l’appelante;
+– dès le départ, l’appelante et Susan Pasay considéraient leur relation comme une relation avec un entrepreneur indépendant, mais il ne s’agit pas d’un facteur déterminant. La manière dont les parties ont pu voir leur entente doit l’emporter à moins qu’elles se soient trompées sur la véritable nature de leur relation[2]. Après avoir examiné l’ensemble de la relation qui existait, je conclus qu’elle correspondait davantage à une relation employeur‑employé qu’à une relation avec un entrepreneur indépendant.
+[19] Pendant la période du 1er janvier 2001 au 10 avril 2002, Susan Pasay exerçait un emploi assurable aux termes de l’alinéa 5(1)a) de la Loi, et l’appelante l’a engagée en vertu d’un contrat de louage de services.
+[20] Par conséquent, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Nancy Bouchard, traductrice
+[1] Paragraphes 47 et 48 de la version que fournit le Recueil des textes de loi et de la jurisprudence de l’intimée, onglet 2.
+[2] Wolf c. Canada (C.A.), [2002] A.C.F. no 375.

@@ -1,0 +1,136 @@
+Title: Luo v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71777/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-143-71777-luo-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-05-09
+
+# Luo v. The Queen
+
+- Citation: 2014 TCC 143
+- Decision date: 2014-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5373, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Luo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-09
+Neutral citation
+2014 TCC 143
+File numbers
+2012-4037(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4037(IT)I
+BETWEEN:
+YAUN QIONG LUO,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+Appeal heard on May 5, 2014, at
+Toronto ,
+Ontario
+.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Leslie Ross
+JUDGMENT
+For the attached reasons for judgment, the appellant’s appeal from the redeterminations of April 20, 2011 with respect to the 2006, 2007, 2008 and 2009 base taxation years is dismissed.
+Signed at
+Ottawa ,
+Ontario
+, this 9th day of May 2014.
+“Gaston Jorré”
+Jorré J.
+Citation: 2014 TCC 143
+Date: 20140509
+Docket: 2012-4037(IT)I
+BETWEEN:
+YAUN QIONG LUO,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+[1] The appellant appeals from redeterminations in respect of the Canada Child Tax Benefit.
+[2] I would note first that I agree with the Minister of National Revenue that to the extent that the appellant’s appeal relates to the Universal Child Tax Benefit pursuant to the Universal Child Care Benefit Act and to the Ontario Child Benefit pursuant to
+Ontario
+legislation, I have no jurisdiction to deal with those benefits.
+[3] The Minister has determined that the appellant was not eligible to receive the Child Tax Benefit in respect of children “S” and “Z” between the time of the application in June 2008 and July 5, 2010 when she immigrated to
+Canada
+.
+[4] The Minister accepts that the appellant is eligible in respect of her child “S” as of July 5, 2010.
+[5] The appellant does not dispute that she was not eligible to receive the Child Tax Benefit prior to July 5, 2010. In her notice of appeal and at the hearing she did not raise any issues with respect to the period after July 4, 2010.
+[6] One of the requirements to be eligible to receive the Child Tax Benefit is that the “eligible individual” as defined in section 122.6 of the Income Tax Act must be a resident of
+Canada
+. Prior to July 5, 2010 the appellant clearly resided in
+China and only came to
+Canada
+for less than one month in June 2008.
+[7] What the appellant seeks in this Court is not a variation of the determination but, as set out in the heading of her notice of appeal, that Li Yue, her husband at the time, should pay the amount owing to the Canada Revenue Agency.
+[8] In support of this the appellant testified as follows: When she came to
+Canada
+in 2008 it is her then husband who persuaded her to sign the application form for the Child Tax Benefit. The same day that she signed the form she changed her mind and asked her husband not to send it in but he sent it in anyway without telling her. The Child Tax Benefit was paid into the joint account with her husband. Although she could access the account from China, she did not, she had no idea that the Child Tax Benefit was being paid into the account and her husband is the one who took the child benefit money from the account. In support of this last statement, Exhibit A-1 was filed.
+[9] As a result, the appellant says that her husband should have to pay the amount owing or, alternatively, they should both share the burden of paying.
+[10] I do not accept the appellant’s testimony that she was unaware that the Child Tax Benefit was being received in the joint account for the following reason.
+[11] The appellant filed a divorce agreement made in the Guangzhou Notary Public Office in
+China
+, together with an English translation. The agreement is signed July 17, 2009 and is between the appellant and her husband, Li Yue. In the agreement, they agree to divorce and, among other things, the agreement provides the following:
+Bank deposit: Each party’s own bank deposit will be owned by each party. In reference to our bank deposit maintained in both parties’ names (joint account), some bank deposit in our joint account is the allowance to the eldest daughter “Z” (the daughter given birth to by the male party’s ex-wife and male party) given according to
+Canada
+laws and regulations will be owned by the male party. The rest bank deposit in our joint account will be owned by the female party.
+[12] Given the above statement in the 2009 divorce agreement with her ex‑husband and given that she signed a child benefit application for both children, I do not believe her evidence that she did not know the child benefit was being paid. Not only does the document show she was aware, it also shows she agreed with her husband on the disposition of the funds.
+[13] As a result I conclude that the appellant was a knowing participant in claiming the Child Tax Benefit.
+[14] In any event, the narrow issue before me is the following: Was the Minister wrong in concluding that she was not entitled to the Child Tax Benefit prior to July 5, 2010? The answer is clear, the appellant was not eligible. She did not reside in
+Canada
+and therefore could not be an “eligible individual”.
+[15] The appeal is dismissed.
+Signed at
+Ottawa ,
+Ontario
+, this 9th day of May 2014.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2014 TCC 143
+COURT FILE NO.:
+2012-4037(IT)I
+STYLE OF CAUSE:
+YAUN QIONG LUO v. THE QUEEN
+PLACE OF HEARING:
+Toronto
+,
+Ontario
+DATE OF HEARING:
+May 5, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+May 9, 2014
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Leslie Ross
+COUNSEL OF RECORD:
+For the appellant:
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa ,
+Ontario

@@ -1,0 +1,273 @@
+---
+title: "Atlantic Thermal Star Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144655/index.do"
+last_modified: "2016-05-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 135"
+citation2: ""
+neutral_citation: "2016 CCI 135"
+decision_date: "2016-05-31"
+language: "fr"
+item_id: "144655"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3092
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:01:03.411000+00:00"
+cases_cited_count: 10
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3d5ad4289401512e98a44129fc1ae4f1b3c75a7a74ada9cb863daa73da9c6e43"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Atlantic Thermal Star Limited c. La Reine
+
+- Citation: 2016 CCI 135
+- Decision date: 2016-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3092, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Atlantic Thermal Star Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-31
+Référence neutre
+2016 CCI 135
+Numéro de dossier
+2015-3366(IT)I
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE]
+Dossier : 2015­3366(IT)I
+ENTRE :
+ATLANTIC THERMAL STAR LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 31 mars 2016, à Halifax (Nouvelle­Écosse)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Représentant de l’appelante :
+Doug Rudolph
+Avocats de l’intimée
+Me Stan W. McDonald
+Me Heidi Collicutt
+JUGEMENT
+L’appel interjeté à l’encontre des nouveaux montants établis en vertu du paragraphe 152(1.1) de la Loi de l’impôt sur le revenu pour les années d’imposition 2008 et 2010 par avis datés du 14 novembre 2014 est rejeté, sans dépens, conformément aux motifs de jugement ci­joints.
+Signé à Ottawa, Canada, ce 31e jour de mai 2016.
+« Dominique Lafleur »
+La juge Lafleur
+[TRADUCTION FRANÇAISE]
+Référence : 2016 CCI 135
+Date : 20160531
+Dossier : 2015­3366(IT)I
+ENTRE :
+ATLANTIC THERMAL STAR LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+A. Aperçu [1] Atlantic Thermal Star Limited (« l’appelante ») a déposé un avis d’appel concernant des avis de détermination de pertes, datés du 14 novembre 2014 et délivrés par le ministre du Revenu national (« le ministre ») en vertu du paragraphe 152(1.1) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (« la LIR »). Ces avis concernent les exercices financiers de l’appelante se terminant le 30 septembre 2008 (« l’année d’imposition 2008 ») et le 30 septembre 2010 (« l’année d’imposition 2010 »), ont été confirmés le 29 juin 2015 et indiquent le refus d’accorder une dépense pour créances irrécouvrables de 14 919 $ pour l’année d’imposition 2008 et une déduction pour montant cumulatif des immobilisations admissibles s’élevant à 4 996 $ pour l’année d’imposition 2010.
+[2] Le ministre avait initialement établi une cotisation à l’endroit de l’appelante pour l’année d’imposition 2008 et l’année d’imposition 2010 par avis datés du 30 septembre 2009 et du 13 octobre 2011, respectivement.
+B. Les faits [3] Le ministre se fonde sur les faits suivants pour déterminer les pertes de l’appelante pour l’année d’imposition 2008 et l’année d’imposition 2010 :
+i) L’appelante était une corporation résidant au Canada qui exploitait une entreprise de produits de chauffage et de refroidissement.
+ii) Le principal actionnaire de l’appelante était Michael Backman (« M. Backman »).
+iii) L’exercice financier de l’appelante avait pris fin le 30 septembre.
+iv) De 2001 jusqu’au 31 décembre 2004, M. Backman était en partenariat, et les activités de ce partenariat étaient les mêmes que celles de l’appelante.
+v) Le 2 janvier 2005, M. Backman a acquis la part de son partenaire et a exploité l’entreprise en tant que propriétaire unique.
+vi) Le 29 juin 2006, l’appelante a été constituée en société par M. Backman, qui a transféré les biens de l’entreprise à propriétaire unique à l’appelante. Il s’est ensuivi le dépôt du formulaire de choix T2057 informant le ministre de ce transfert (et du choix qui a été fait en vertu des dispositions de l’article 85 de la LIR).
+vii) Le formulaire de choix T2057 déposé auprès du ministre faisait état du transfert d’un fonds commercial d’une valeur de 103 197 $ de M. Backman vers l’appelante, pour lequel l’appelante avait produit un effet à payer du même montant à l’ordre de M. Backman.
+viii) La juste valeur marchande du fonds commercial transféré de M. Backman à l’appelante était nulle.
+ix) L’appelante n’avait pas une dette de 14 919 $ qui, par la suite, serait devenue créance irrécouvrable au cours de l’année d’imposition 2008.
+x) Il n’y avait pas de dette de 14 919 $ dans le calcul du revenu de l’appelante pour l’année d’imposition 2008 ni pour toute autre année d’imposition antérieure.
+[4] L’appelante était représentée par M. Doug Rudolph, commis/agent comptable. Au début de l’audience, M. Rudolph a informé la Cour que M. Backman ne témoignerait pas. M. Backman n’avait pas l’intention de témoigner, puisqu’il se trouvait sans doute à l’étranger à ce moment­là. En outre, l’appel avait été interjeté par l’appelante, selon M. Rudolph, par principe et non par besoin, car même si l’appel avait été rejeté, il n’en aurait pas résulté une dette fiscale pour l’appelante en raison du nombre suffisant de déductions dont celle­ci disposait.
+[5] Le seul témoin de l’appelante était M. Rudolph.
+[6] Selon M. Rudolph, M. Backman aurait constaté qu’une dette serait devenue une créance irrécouvrable et, de ce fait, ses actes étaient ceux d’une personne raisonnable et de bonne foi. De plus, selon M. Rudolph, la valeur du fonds commercial avait été établie par Deloitte & Touche (« Deloitte ») le 1er janvier 2005, soit au moment où M. Backman avait acheté la part de son partenaire. L’appelante avait également mentionné lors de l’audience que le transfert du fonds commercial de M. Backman à l’appelante était entré en vigueur le 30 septembre 2006, et non le 29 juin 2006.
+[7] M. Rudolph avait déposé volontairement diverses pièces (numérotées A–1 à A–13), notamment les suivantes :
+i) Pièce A–1 Échéancier : Selon cette pièce, plus de cinq (5) années se seraient écoulées entre l’envoi de la lettre de l’Agence du revenu du Canada (« l’ARC ») informant l’appelante qu’une vérification était en cours et la date de l’audience.
+ii) Pièce A–4 Détails des transactions par compte, et pièce A–5 Détails des soldes clients : Selon M. Rudolph, ces pièces indiquent que le montant de 14 919 $ déduit en tant que dette irrécouvrable à l’année d’imposition 2008 faisait partie du revenu de l’appelante pour l’année 2008 ou une année antérieure.
+iii) Pièce A–6 Profits et pertes : Selon cette pièce, 1,88 % des ventes totales de l’appelante pour l’année d’imposition 2008 représentaient des créances irrécouvrables. Selon M. Rudolph, ce montant est raisonnable pour ce secteur d’activités. M. Rudolph a ajouté que, pour ce secteur, il devrait être acceptable que de 3 à 5 % des ventes totales deviennent des créances irrécouvrables.
+iv) Pièce A–7 Lettre de Deloitte datée du 4 octobre 2011 : Cette lettre indique en détail le calcul du montant du fonds commercial au moment où M. Backman avait acheté la part de son partenaire dans l’entreprise; selon cette lettre, le montant du fonds commercial était de 105 864 $ à ce moment, soit le 1er janvier 2005. Plus loin dans la lettre, on peut lire le paragraphe suivant : [TRADUCTION] « Le 30 septembre 2006, M. Backman a fait le transfert de l’entreprise vers une société nouvellement constituée avec report de l’impôt conformément à l’article 85 de la Loi de l’impôt sur le revenu. En ce qui concerne le fonds commercial, le produit de disposition a été déterminé comme l’équivalent des 4/3 du montant cumulatif des immobilisations admissibles de 77 398 $ ».
+v) Pièce A–8 Courriel envoyé par James MacGowan : Ce courriel contient, selon M. Rudolph, les commentaires de suivi que Deloitte a fait parvenir à l’ARC pour lui expliquer encore une fois la méthode ayant servi à établir la juste valeur marchande du fonds commercial au 1er janvier 2005.
+vi) Pièce A–10 Calcul du fonds commercial par Deloitte et pièce A–13 Sommaire des immobilisations admissibles de l’appelante : ces pièces ont été préparées par M. Rudolph.
+[8] Lors du contre­interrogatoire, M. Rudolph a admis qu’il n’était ni le comptable ni le commis comptable de l’appelante lors des années d’imposition en cause. De plus, il a admis qu’il n’était pas un spécialiste du type d’entreprise exploitée par l’appelante, qui serait en droit de témoigner sur ce qui constitue un taux raisonnable de créances irrécouvrables sur les ventes.
+[9] Aucun représentant de Deloitte n’est venu témoigner à l’audience. Pour terminer, M. Rudolph a reconnu qu’on lui avait dit que la pièce A–8 est un commentaire de suivi que Deloitte a fait parvenir à l’ARC et qu’il n’a pas participé à la rédaction ni à l’envoi de ce document.
+[10] L’intimée a appelé un témoin à l’audience, Mme Joanne Caryi, l’employée de l’ARC qui a préparé le rapport d’évaluation du fonds commercial. Son rapport a été déposé et constitue la pièce R–1. Selon ce rapport, la valeur du fonds commercial au 30 septembre 2006 était nulle. Lors de son témoignage, Mme Caryi a admis que les renseignements dont elle disposait lors de son évaluation étaient limités.
+C. Questions en litige (1) L’appelante a­t­elle droit à une déduction pour créance irrécouvrable de 14 919 $ pour l’année d’imposition 2008 en vertu de l’alinéa 20(1)p) de la LIR?
+(2) L’appelante a­t­elle droit à une déduction pour montant cumulatif des immobilisations admissibles de 4 996 $ pour l’année d’imposition 2010 en vertu de l’alinéa 20(1)b) de la LIR?
+(3) L’appelante a­t­elle droit aux dépens en vertu du paragraphe 11.2(1) des Règles de la Cour canadienne de l’impôt (procédure informelle), DORS/90­688b, telles que modifiées (les « Règles »)?
+D. Observations des parties (1) Concernant la déduction de créance irrécouvrable de 14 919 $ en vertu de l’alinéa 20(1)p) de la LIR pour l’année d’imposition 2008 [11] L’appelante est d’avis qu’un montant de 14 919 $ peut être déduit en application de l’alinéa 20(1)p) de la LIR en tant que dette irrécouvrable pour l’année d’imposition 2008. Selon M. Rudolph, M. Backman aurait constaté qu’une dette serait devenue une créance irrécouvrable et, de ce fait, ses actes étaient ceux d’une personne raisonnable et de bonne foi. De plus, comme l’indiquent les pièces A–4 et A–5, le montant de 14 919 $ avait été inscrit au revenu de l’appelante pour l’année d’imposition 2008 ou une année antérieure. Par conséquent, toutes les exigences énoncées à l’alinéa 20(1)p) de la LIR sont satisfaites.
+[12] L’intimée est d’avis que les hypothèses de fait sur lesquelles le ministre s’appuyait n’ont pas été réfutées par l’appelante, puisque M. Backman n’a pas témoigné à l’audience et que M. Rudolph n’a pas participé aux activités de l’appelante au cours des années d’imposition en cause. Il s’ensuit que les hypothèses de fait sur lesquelles le ministre s’appuyait, à savoir que l’appelante n’avait pas eu une dette de 14 919 $ qui était devenue une créance irrécouvrable au cours de l’année d’imposition 2008, n’ont pas été réfutées par l’appelante. Par conséquent, l’appelante n’a pas droit à cette déduction pour créance irrécouvrable pour l’année d’imposition 2008.
+(2) Concernant la déduction pour montant cumulatif des immobilisations admissibles s’élevant à 4 996 $ en vertu de l’alinéa 20(1)b) de la LIR pour l’année d’imposition 2010 [13] L’appelante est d’avis que le ministre est frappé de prescription pour la contestation de la valeur de son fonds commercial, car cette valeur a été fixée en 2005.
+[14] Par contre, si la Cour conclut que l’ARC peut contester la valeur du fonds commercial, l’appelante est d’avis que la juste valeur marchande du fonds commercial a été déterminée à juste titre par Deloitte, un tiers qui n’a aucun lien de dépendance, valeur qui n’est pas nulle. Par conséquent, l’appelante a droit à la déduction pour montant cumulatif des immobilisations admissibles s’élevant à 4 996 $ en vertu de l’alinéa 20(1)b) de la LIR pour l’année d’imposition 2010. L’appelante prétend également que l’évaluation faite par l’ARC n’a pas été faite par un tiers sans lien de dépendance.
+[15] L’intimée est d’avis que, comme l’indique la pièce R–1, la juste valeur marchande du fonds commercial est nulle; il s’ensuit que l’appelante n’a pas droit à une déduction pour montant cumulatif des immobilisations admissibles concernant le fonds commercial pour l’année d’imposition 2010. De plus, comme cette déduction a été demandée pour l’année d’imposition 2010, la contestation par l’intimée n’est pas frappée de prescription.
+(3) Pour ce qui est des dépens [16] M. Rudolph demande que les dépens soient accordés à l’appelante en raison des retards accusés par l’ARC dans la réalisation de la vérification, de l’incompétence des vérificateurs de l’ARC, de la difficulté à traiter avec l’ARC, du stress enduré par M. Backman et de la détérioration de sa santé dus à l’ensemble du processus judiciaire, et en raison du défaut par l’ARC de respecter les droits garantis à l’appelante en vertu de la Charte des droits du contribuable. M. Rudolph estime que le paragraphe 11.2(1) des Règles m’autorise à adjuger les dépens à l’appelante.
+[17] Étant donné que l’appelante n’a pas établi qu’elle a versé des débours, l’intimée est d’avis que le paragraphe 11.2(1) des Règles ne m’autorise pas à adjuger les dépens à l’appelante.
+E. Analyse (1) Fardeau de la preuve [18] En vertu du paragraphe 152(8) de la LIR, une cotisation faite en application de la LIR est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation :
+152(8) Présomption de validité de la cotisation — Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d’une opposition ou d’un appel fait en vertu de la présente partie et sous réserve d’une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s’y rattachant en vertu de la présente loi.
+152(8) Assessment deemed valid and binding — An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+[19] Le paragraphe 152(1.2) de la LIR prévoit notamment que la section I de la LIR, qui englobe le paragraphe 152(8), s’applique à un avis de détermination des pertes en vertu du paragraphe 152(1.1) de la LIR.
+[20] Comme l’explique le juge L’Heureux­Dubé dans l’arrêt Hickman Motors Ltd. c. Canada, [1997] 2 RCS 336, aux paragraphes 92 à 95, [1997] ACS no 62 (QL), le fardeau de la preuve revient initialement au contribuable qui doit réfuter les hypothèses de fait sur lesquelles le ministre s’appuie pour établir les cotisations en présentant une preuve prima facie établissant que ces hypothèses sont inexactes. Le fardeau de la preuve passe ensuite au ministre, lequel doit prouver les hypothèses sur lesquelles il s’appuie. Les paragraphes pertinents des motifs énoncés par le juge L’Heureux­Dubé suivent :
+92 Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités : Dobieco Ltd. c. Minister of National Revenue, [1966] R.C.S. 95, et que, à l’intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve : Continental Insurance Co. c. Dalton Cartage Co., [1982] 1 R.C.S. 164; Pallan c. M.R.N., 90 D.T.C. 1102 (C.C.I.), à la p. 1106. En établissant des cotisations, le ministre se fonde sur des présomptions : (Bayridge Estates Ltd. c. M.N.R., 59 D.T.C. 1098 (C. de l’É.), à la p. 1101), et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486; Kennedy c. M.R.N., 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu’a utilisées le ministre, mais rien de plus : First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+93 L’appelant s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie : Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.N.R., 82 D.T.C. 1679 (C.R.I.). En l’espèce, l’appelante a produit une preuve qui respecte non seulement la norme prima facie, mais, selon moi, une norme encore plus sévère. À mon avis, l’appelante a « démoli » les présomptions suivantes : a) la présomption de l’existence de « deux entreprises », en produisant une preuve claire de l’existence d’une seule entreprise; b) la présomption qu’il n’y a « aucun revenu », en produisant une preuve claire de l’existence d’un revenu. Il est établi en droit qu’une preuve non contestée ni contredite « démolit » les présomptions du ministre : voir par exemple MacIsaac c. M.R.N., 74 D.T.C. 6380 (C.A.F.), à la p. 6381; Zink c. M.R.N., 87 D.T.C. 652 (C.C.I.). Comme je l’ai déjà dit, aucune partie de la preuve produite par l’appelante en l’espèce n’a été contestée ni contredite. Par conséquent, à mon avis, l’appelante a « démoli » les présomptions sur l’existence de « deux entreprises » et sur le fait qu’il n’y a « aucun revenu ».
+94 Lorsque l’appelant a « démoli » les présomptions du ministre, le « fardeau de la preuve [...] passe [...] au ministre qui doit réfuter la preuve prima facie » faite par l’appelant et prouver les présomptions : Magilb Development Corp. c. La Reine, 87 D.T.C. 5012 (C.F. 1re inst.), à la p. 5018. Ainsi, dans la présente affaire, la charge est passée au ministre, qui doit prouver ses présomptions suivant lesquelles il existe « deux entreprises » et il n’y a « aucun revenu ».
+95 Lorsque le fardeau est passé au ministre et que celui­ci ne produit absolument aucune preuve, le contribuable est fondé à obtenir gain de cause : voir par exemple MacIsaac, précité, où la Cour d’appel fédérale a infirmé le jugement de la Division de première instance (à la p. 6381) pour le motif que le « témoignage n’a été ni contesté ni contredit, et aucune objection ne lui a été opposée ». Voir aussi Waxstein c. M.R.N., 80 D.T.C. 1348 (C.R.I.); Roselawn Investments Ltd. c. M.R.N., 80 D.T.C. 1271 (C.R.I.). Se reporter également à Zink, précité, à la p. 653, où, même si la preuve « échappait à la logique et présentait de graves lacunes de fond et de chronologie », l’appel du contribuable a été accueilli parce que le ministre n’a présenté aucune preuve quant à la source de revenu. Dans la présente affaire, je remarque que la preuve ne contient aucune « lacune » de ce genre. Par conséquent, puisque le ministre n’a produit absolument aucune preuve et que personne n’a soulevé le moindre doute quant à la crédibilité, l’appelante est fondée à obtenir gain de cause.
+[Non souligné dans l’original.]
+[21] Les motifs justifiant que le fardeau de la preuve initial repose sur le contribuable, lequel doit réfuter les hypothèses de fait, sont bien expliqués dans les arrêts précédents de la Cour suprême du Canada.
+[22] Dans Anderson Logging Co v. The King, [1925] SCR 45, à la page 50, [1925] 2 DLR 143, le juge Duff (tel était alors son titre) s’exprime ainsi :
+[traduction]
+Premièrement, examinons le débat sur la question du fardeau de la preuve. Si, dans le cadre d’un appel devant le juge de la Cour de révision, il semble, d’après les faits véridiques, que l’application de la loi pertinente soulève des doutes, il semblerait, en principe, que la Couronne doive être déboutée. Ce serait la conséquence nécessaire du principe à la lumière duquel les lois imposant un fardeau de la preuve au sujet ont, selon une pratique bien enracinée, été interprétées et appliquées. Mais en ce qui a trait à l’enquête sur les faits, l’appelant se trouve dans la même position que tout autre appelant. Il doit démontrer que la cotisation contestée n’aurait jamais dû être établie, c’est­à­dire qu’il doit établir des faits qui permettent d’affirmer que la cotisation n’était pas autorisée par la loi fiscale ou qui jettent un tel doute sur la question qu’en vertu des principes susmentionnés, la responsabilité de l’appelant ne peut être retenue. Naturellement, on peut établir les faits véridiques au moyen d’éléments de preuve directe ou d’inférences probables. L’appelant peut présenter des faits pour établir une prétention prima facie qui demeure incontestée; mais pour déterminer si une telle preuve a été établie, il est important de ne pas oublier, si tel est le cas, que les faits sont jusqu’à un certain point, sinon exclusivement, du domaine de la connaissance de l’appelant, bien que, pour des raisons évidentes, il convienne de ne pas trop insister sur cette dernière question.
+[Non souligné dans l’original.]
+[23] Dans Johnston v. Minister of National Revenue, [1948] SCR 486, aux pages 489 à 490, [1948] 4 DLR 321, le juge Rand développe les principes déjà établis en affirmant ce qui suit :
+[traduction]
+Bien qu’il soit question, au paragraphe 63(2), d’une action prête pour l’instruction ou audition, l’instance est un appel à l’encontre de la cotisation, et comme l’impôt est fondé sur certains faits et certaines dispositions légales, ce sont soit les faits en question soit l’application de la loi que l’on conteste. Tout fait que détermine ou que suppose l’évaluateur ou le ministre doit donc être accepté de la façon dont ces personnes en ont traité, à moins que l’appelant ne le mette en doute. Si le contribuable en l’espèce avait eu l’intention de contester le fait qu’il subvenait aux besoins de son épouse au sens des Règles susmentionnées, il aurait dû soulever la question dans ses actes de procédure, et il lui aurait incombé, comme à tout autre appelant, de faire la preuve que la conclusion tirée par les décideurs de rang inférieur n’était pas justifiée. À cette fin, le contribuable pourrait soumettre des éléments de preuve à la Cour même s’ils n’ont pas été présentés à l’évaluateur ou au ministre, mais il lui incombait de démolir le fait fondamental sur lequel l’impôt reposait.
+[...]
+Il s’ensuit que je ne peux souscrire à ce que la présente instance soit soumise à un changement fondamental concernant les procédures. Les allégations nécessaires à l’appel dépendent de la construction de la loi, et l’application de cette loi sur les faits et les actes de procédure doit pouvoir faciliter le règlement de la question. On doit évidemment tenir pour acquis que la Couronne, puisqu’elle en a l’obligation, a pleinement divulgué au contribuable les constatations de fait et les décisions de droit qui ont donné lieu au litige. Cependant, à moins que la Couronne ne soit placée dans la position d’un demandeur ou d’un appelant, je ne peux voir de quelle façon appliquer les actes de procédure de façon à renverser le fardeau de la preuve. Étant donné que le contribuable dans le cas en l’espèce doit démontrer quelque chose, il me semble que ce quelque chose doit être l’existence de faits ou de droit qui signale une erreur dans l’établissement de l’impôt qu’on lui demande.
+[Non souligné dans l’original.]
+[24] Il est également très important de garder à l’esprit que le renversement du fardeau de la preuve sur le ministre ne peut être fait à la légère, arbitrairement ou accidentellement, car c’est le contribuable qui dispose, le plus souvent, de renseignements à sa portée et sous son contrôle. Sauf dans des cas exceptionnels dans lesquels les faits relèvent de la connaissance particulière du ministre, la remise en question de cotisations d’impôt établies doit passer par une réfutation des hypothèses du ministre (voir Canada c. Anchor Pointe Energy ltd., 2007 CAF 188, aux paragraphes 35 et 36, 283 DLR (4th) 434).
+[25] En outre, le fardeau de la preuve applicable à une cotisation établie en vertu de la LIR s’applique également à un avis de détermination des pertes (voir, par exemple, Canada Trust Co v Canada (Minister of National Revenue – MNR), [1985] TCJ No 3 (QL), aux paragraphes 4 et 34 (CCI)).
+[26] Une preuve prima facie est celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé. Une preuve prima facie n’est pas la même chose qu’une preuve concluante, qui exclut la possibilité que toute conclusion autre que celle établie par cette preuve soit vraie » (Stewart c. Canada, [2000] T.C.J. No 53 (QL), au paragraphe 23 (CCI). Décision citée avec approbation par la juge Trudel dans la décision Amiante Spec Inc. c. Canada, 2009 CAF 139, au paragraphe 23, [2010] G.S.T.C. 26).
+[27] En gardant ces principes à l’esprit, je vais maintenant examiner les questions soulevées dans le présent appel.
+(2) La déduction pour créance irrécouvrable de 14 919 $ pour l’année d’imposition 2008 en vertu de l’alinéa 20(1)p) de la LIR [28] Selon ce que prévoit l’alinéa 20(1)p) de la LIR :
+20(1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien — Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+p) Créances irrécouvrables — le total des montants suivants :
+(i) les créances du contribuable qu’il a établies comme étant devenues irrécouvrables au cours de l’année et qui sont incluses dans le calcul de son revenu pour l’année ou pour une année d’imposition antérieure,
+[…]
+20(1) Deductions permitted in computing income from business or property — Notwithstanding paragraphs 18(1)(a), 18(1)(b) and 18(1)(h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(p) bad debts — the total of
+(i) all debts owing to the taxpayer that are established by the taxpayer to have become bad debts in the year and that have been included in computing the taxpayer’s income for the year or a preceding taxation year, and
+...
+[Notre soulignement]
+[Emphasis added]
+[29] Pour avoir droit à la déduction prévue aux termes de l’alinéa 20(1)p) de la LIR, le contribuable doit satisfaire à deux exigences : (i) il doit établir que les dettes sont devenues irrécouvrables au cours de l’année et (ii) les dettes doivent être incluses dans le calcul du revenu du contribuable pour l’année ou une année d’imposition antérieure.
+[30] Il faut considérer divers facteurs pour déterminer si une créance est irrécouvrable.
+[31] Dans la décision Rich c. Canada, 2003 CAF 38, [2003] 3 RCF 493 [Rich], le juge Rothstein (tel était alors son titre) a résumé comme suit les facteurs à considérer pour savoir si une créance est irrécouvrable :
+[12] Pour savoir si une créance est irrécouvrable, il faut considérer les faits à une date donnée, par exemple le 31 décembre 1995. La Loi de l’impôt sur le revenu ne précise pas les facteurs à prendre en compte pour savoir si une créance est ou non recouvrable. Cependant, les jugements rendus par la Commission d’appel de l’impôt dans l’affaire Hogan c. Le Ministre du Revenu national, 56 D.T.C. 183 et dans l’affaire No. 81 c. Le Ministre du Revenu national, 53 D.T.C. 98, indiquent certains des facteurs dont il convient de tenir compte. Après que le créancier a considéré lui­même les facteurs à retenir, il s’agit de savoir s’il a honnêtement et avec raison décidé que la créance était irrécouvrable.
+[13] Je résumerais ainsi les facteurs qui, à mon sens, devraient en général être pris en compte lorsqu’on veut savoir si une créance est devenue irrécouvrable :
+1. l’historique et l’âge de la créance;
+2. la situation financière du débiteur, ses revenus et ses dépenses, gagne­t­il un revenu ou essuie­t­il des pertes?, sa trésorerie et son actif, son passif et les liquidités dont il dispose;
+3. l’évolution du chiffre d’affaires total par rapport aux années antérieures;
+4. l’encaisse, les comptes clients et autres disponibilités du débiteur à l’époque pertinente et par rapport aux années antérieures;
+5. les comptes fournisseurs et autres exigibilités du débiteur à l’époque pertinente et par rapport aux années antérieures;
+6. les conditions économiques générales ayant cours dans le pays, parmi l’ensemble des débiteurs et dans la branche d’activités du débiteur; et
+7. l’expérience antérieure du contribuable en matière de radiation de créances irrécouvrables.
+Cette liste n’est pas limitative et, selon les circonstances, un facteur ou un autre pourra prendre une importance accrue.
+[14] Les perspectives de la société débitrice peuvent présenter un intérêt dans certains cas, mais les considérations premières seraient en général liées au passé ou au présent. S’il est établi qu’un événement se produira probablement dans l’avenir et que cet événement donne à penser que la créance sera recouvrable lorsqu’il surviendra, alors l’événement en question devra être pris en compte. Si les considérations futures ne sont que des conjectures, elles n’interviendront pas lorsqu’on se demandera si une créance exigible est recouvrable.
+[15] Il n’est pas nécessaire non plus pour un créancier d’épuiser tous les moyens possibles de recouvrement. Ce qu’il faut, c’est une évaluation honnête et raisonnable. D’ailleurs, lorsqu’une créance irrécouvrable est par la suite recouvrée en totalité ou en partie, la somme recouvrée est considérée comme un revenu de l’année du recouvrement.
+[32] En l’espèce, M. Backman, directeur et principal actionnaire de l’appelante, n’a pas témoigné et n’était pas présent à l’audience. De plus, M. Rudolph n’était pas le commis/agent comptable de l’appelante durant l’année d’imposition en cause. En outre, selon M. Rudolph, c’est M. Backman qui décidait qu’une dette devenait créance irrécouvrable et a toujours agi de bonne foi et raisonnablement en cette matière.
+[33] Aucun élément de preuve n’a été présenté à l’audience concernant la méthode dont M. Backman s’est servi pour savoir si une créance était irrécouvrable. L’appelante a présenté une preuve insuffisante pour me permettre d’appliquer les facteurs énoncés dans la décision Rich. Tout ce que m’a dit M. Rudolph, c’est que M. Backman a agi de bonne foi, en tant que personne raisonnable, pour ce faire.
+[34] En raison de ce manque de preuve, il est clair que l’appelante ne s’est pas acquittée de son fardeau de preuve initial, c’est­à­dire qu’elle n’a pas présenté de preuve prima facie pour montrer l’inexactitude de l’hypothèse du ministre à cet égard. Le fardeau initial incombait à l’appelante, qui devait réfuter l’hypothèse du ministre, à savoir que les dettes de 14 919 $ n’étaient pas des créances irrécouvrables selon les termes de l’alinéa 20(1)p) de la LIR. Il s’ensuit que le fardeau de la preuve n’est pas passé au ministre.
+[35] Il ne m’est donc pas nécessaire de tenir compte de la deuxième exigence applicable aux déductions autorisées par l’alinéa 20(1)p) de la LIR, à savoir que le montant devait être inscrit dans le calcul du revenu de l’appelante pour l’année d’imposition en question ou une année d’imposition précédente.
+[36] Par conséquent, je conclus que l’appelante ne s’est pas acquittée de son fardeau de la preuve, soit de montrer qu’elle avait droit à une déduction pour créances irrécouvrables de 14 919 $ pour l’année d’imposition 2008 en vertu de l’alinéa 20(1)p) de la LIR.
+(3) La déduction pour montant cumulatif des immobilisations admissibles de 4 996 $ pour l’année d’imposition 2010 en vertu de l’alinéa 20(1)b) de la LIR a) La contestation de la déduction de l’année d’imposition 2010 est­elle frappée de prescription? [37] L’appelante est d’avis que la contestation de l’intimée relative à la valeur de son fonds commercial est frappée de prescription parce que cette valeur a été déterminée le 1er janvier 2005.
+[38] À mon avis, rien ne permet d’empêcher soit le ministre, soit une autre partie, de faire des allégations factuelles sur l’état des choses remontant à une année d’imposition antérieure lorsque ces allégations, si elles s’avèrent, ont des répercussions sur l’exactitude de la cotisation (ou, en l’espèce, l’avis de détermination des pertes) en litige devant la Cour.
+[39] Je mentionne ici le principe, que certaines décisions ont appelé « le principe du jugement New St. James » (voir, par exemple, le jugement Sherway Centre Limited c. La Reine, 2001 DTC 1021, [2001] ACI no 751 (QL) (CCI)) : rien n’empêche le ministre de contester certains montants établis durant une année antérieure pour en arriver à une conclusion sur la position du contribuable lors d’une année d’imposition donnée. Comme le soutenait le juge en chef Bowman (tel était alors son titre), dans sa discussion sur le principe du jugement New St. James (Coastal Construction & Excavating Ltd. v R, [1996] 3 CTC 2845, au paragraphe 23, 97 DTC 26 (TCC), qui cite le jugement New St. James Limited v M.N.R., [1966] CTC 305, 66 DTC 5241 (C. de l’É.)
+[traduction] :
+Enfin, l’appelant soutient que comme le ministre avait considéré, dans les années antérieures, l’exploitation comme étant un « établissement » au sens de la Loi sur les subventions au développement régional (LSDR), il n’avait pas le droit de modifier le report en avant du crédit d’impôt à l’investissement à partir des années frappées de prescription pour modifier le revenu imposable d’une année non frappée de prescription afin d’établir que son bien était admissible et non certifié. Cette interprétation impliquerait que l’établissement du solde du report pour les crédits d’impôt à l’investissement lors d’une année frappée de prescription équivaudrait à une évaluation. Je ne considère pas que l’article 152 de la Loi de l’impôt sur le revenu puisse admettre une telle conclusion. Le ministre a l’obligation d’établir une cotisation en conformité avec les règles de droit en vigueur. Si la cotisation établie lors d’une année antérieure est inexacte et que cette année­là est devenue frappée de prescription, il sera impossible de modifier la cotisation de cette année­là, mais ce fait n’empêche pas de corriger l’erreur dans une autre année d’imposition qui, elle, n’est pas frappée de prescription, même s’il faut apporter une correction aux reports des années précédentes, pouvant être une perte ou un solde en crédits d’impôt à l’investissement. New St. James Limited. v. M.N.R., 66 D.T.C. 5241; Allcann Wood Suppliers Inc. v. The Queen, 94 D.T.C. 1475. Aucune question d’irrecevabilité n’a été soulevée : Goldstein c. La Reine, 96 D.T.C. 1029.
+[Non souligné dans l’original.]
+Le juge Létourneau a cité ces commentaires qu’il a fait siens dans son jugement Canada c. Papiers Cascades Cabano inc., 2006 CAF 419, au paragraphe 23, 2008 DTC 6264.
+[40] À mon avis, le principe de jugement New St. James indique clairement que le ministre, en l’espèce, a le pouvoir de contester le calcul du montant cumulatif des immobilisations admissibles de l’appelante pour l’année d’imposition 2010 selon la valeur du fonds commercial au moment où ce fonds commercial a été transféré de M. Backman à l’appelante, soit le 30 septembre 2006; cette contestation n’est pas frappée de prescription.
+[41] De plus, la Cour doit examiner la validité de l’avis de détermination des pertes, avis daté du 14 novembre 2014, qui refuse la déduction pour montant cumulatif des immobilisations admissibles s’élevant à 4 996 $ pour l’année d’imposition 2010. Cet avis de détermination des pertes a été délivré par le ministre à la suite de la demande de l’appelante déposée le 27 mai 2014 (voir la pièce A­1). En vertu du paragraphe 152(1.2) de la LIR, les dispositions de la LIR concernant les procédures d’opposition et d’appel s’appliquent à un avis de détermination des pertes. L’appelante n’a pas relevé d’irrégularité procédurale relative à la délivrance de l’avis de détermination ni soulevé de question en vue d’invalider l’avis. Tout au long du processus dans lequel on a vu l’appelante demander la détermination des pertes, le ministre déterminer ce montant, l’appelante faire opposition à ce montant, puis interjeter appel, il y a eu respect des exigences de la LIR.
+[42] J’en conclus donc que l’année d’imposition 2010 n’est pas frappée de prescription; les allégations factuelles concernant la valeur du fonds commercial ne sont pas frappées de prescription.
+b) Preuve portant sur la valeur du fonds commercial [43] L’alinéa 20(1)b) de la LIR prévoit qu’un contribuable peut déduire 7 % du montant cumulatif des immobilisations admissibles relatives à son entreprise et est rédigé comme suit :
+20(1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien — Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+b) Montant cumulatif des immobilisations admissibles — la somme qu’un contribuable déduit au titre d’une entreprise, ne dépassant pas 7 % du montant cumulatif des immobilisations admissibles relatives à l’entreprise à la fin de l’année; […]
+20(1) Deductions permitted in computing income from business or property — Notwithstanding paragraphs 18(1)(a), 18(1)(b) and 18(1)(h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(b) cumulative eligible capital amount — such amount as the taxpayer claims in respect of a business, not exceeding 7% of the taxpayer’s cumulative eligible capital in respect of the business at the end of the year...
+[Notre soulignement]
+[Emphasis added]
+[44] Le paragraphe 14(5) de la LIR définit le terme « montant cumulatif des immobilisations admissibles » d’un contribuable; ce montant englobe notamment une partie des dépenses en capital admissibles (également définies au paragraphe 14(5) de la LIR) engagées par le contribuable. Très brièvement, le dernier terme englobe les dépenses engagées ou effectuées par le contribuable lors de l’acquisition d’un fonds commercial. C’est là la raison pour laquelle la juste valeur marchande du fonds commercial au 30 septembre 2006 est l’élément principal à considérer en ce qui concerne la déduction demandée par l’appelante en vertu de l’alinéa 20(1)b) de la LIR.
+[45] Comme il a déjà été mentionné, le ministre avait une hypothèse de fait, à savoir que la valeur du fonds commercial qui a été transféré de M. Backman à l’appelante le 30 septembre 2006 est nulle. Par conséquent, si l’appelante a présenté une preuve prima facie démontrant que la valeur du fonds commercial le 30 septembre 2006 est égale à un montant autre que nul, comme le ministre le suppose, le fardeau de la preuve passera alors au ministre qui devra ensuite faire la preuve de son hypothèse.
+[46] À cet égard, l’appelante a déposé la pièce A–7 (la « lettre de Deloitte »). Cette lettre indique la méthode ayant servi à calculer la valeur du fonds commercial au moment où M. Backman avait acheté la part de son partenaire dans l’entreprise; que cette détermination était celle du 1er janvier 2005; et que Deloitte avait conclu que le montant du fonds commercial était alors de 105 864 $. On peut lire dans la lettre de Deloitte le paragraphe suivant : [traduction] « Le 30 septembre 2006, M. Backman a fait le transfert de l’entreprise vers une compagnie nouvellement constituée avec report de l’impôt conformément à l’article 85 de la Loi de l’impôt sur le revenu. En ce qui concerne le fonds commercial, le produit de disposition a été déterminé comme l’équivalent des 4/3 du montant cumulatif des immobilisations admissibles de 77 398 $ ». De plus, comme je l’ai déjà mentionné, personne chez Deloitte n’est venu témoigner à l’audience sur la juste valeur marchande du fonds commercial en date du 30 septembre 2006.
+[47] J’estime que l’appelante n’a pas présenté une preuve prima facie avec la seule lettre de Deloitte pour démontrer que la valeur du fonds commercial n’était pas nulle le 30 septembre 2006; l’appelante n’a pas réfuté l’hypothèse du ministre sur ce sujet.
+[48] Comme je l’ai déjà mentionné, une preuve prima facie est celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé ».
+[49] La lettre de Deloitte établit la juste valeur marchande du fonds commercial en date du 1er janvier 2005 et non celle en date du 30 septembre 2006, soit 21 mois après l’évaluation du 1er janvier 2005. Aucun élément de preuve présenté n’a établi que la juste valeur marchande du fonds commercial était la même au début de 2005 qu’au 30 septembre 2006, c’est­à­dire 21 mois plus tard. Il s’agit d’un long laps de temps lors duquel bien des événements peuvent survenir pour altérer l’évaluation initiale. De plus, l’appelante n’a pas demandé que Deloitte fournisse une évaluation de la juste valeur marchande du fonds commercial en date du 30 septembre 2006. Même si on m’avait présenté une preuve suffisante pour vérifier la méthode dont Deloitte s’est servi pour déterminer la valeur du fonds commercial le 1er janvier 2005, l’appelante me demande de conclure simplement que la valeur du fonds commercial n’a pas décru pour devenir nulle dans les 21 mois suivant l’évaluation à laquelle la lettre de Deloitte fait référence. J’en conclus que la lettre de Deloitte ne fournit qu’une valeur probante minime pour ce qui est de la valeur véritable du fonds commercial au moment pertinent, soit en septembre 2006. Par conséquent, le fardeau de la preuve n’est pas passé au ministre en ce qui concerne l’établissement de la juste valeur marchande du fonds commercial.
+[50] De plus, je serais forcé de rejeter l’appel même si j’avais conclu que l’appelante avait présenté une preuve prima facie par cette lettre de Deloitte qui aurait démontré que la valeur du fonds commercial au 30 septembre 2006 était autre que nulle, comme le ministre le suppose.
+[51] Je note la portée limitée et les mises en garde de la pièce R–1 (par exemple, le fait qu’elle a été préparée sans la contribution de la direction de l’appelante), mais il n’en reste pas moins qu’il s’agit de l’évaluation la plus complète sur la juste valeur marchande du fonds commercial au moment pertinent. Dans son témoignage, Mme Caryi s’est débattue avec les problèmes soulevés par la pièce R–1, mais ce témoignage a fourni une preuve suffisamment crédible pour déterminer s’il était vraisemblable que le fonds commercial avait une juste valeur marchande nulle le 30 septembre 2006. Je suis d’avis que l’intimée, sur la base de la pièce R–1 et du témoignage de Mme Caryi, a prouvé, selon la prépondérance des probabilités, que la juste valeur marchande du fonds commercial était nulle le 30 septembre 2006. Il en aurait été de même si l’appelante avait réussi à faire passer le fardeau de la preuve à l’intimée.
+[52] Pour ces motifs, l’appelante n’a pas droit à une déduction pour montant cumulatif des immobilisations admissibles de 4 996 $ pour l’année d’imposition 2010 en application de l’alinéa 20(1)b) de la LIR.
+c) Frais et dépens aux termes du paragraphe 11.2(1) des Règles [53] M. Rudolph demande que les dépens soient accordés à l’appelante conformément au paragraphe 11.2(1) des Règles en raison des retards accusés par l’ARC dans la réalisation de la vérification, de l’incompétence des vérificateurs de l’ARC, de la difficulté à traiter avec l’ARC, du stress enduré par M. Backman et de la détérioration de sa santé dus à l’ensemble du processus judiciaire et en raison du défaut par l’ARC de respecter les droits garantis à l’appelante en vertu de la Charte des droits du contribuable.
+[54] L’intimée fait valoir que rien ne prouve que des débours aient été engagés et que, par conséquent, je ne puis allouer les frais et dépens à l’appelante.
+[55] Comme il est mentionné dans le jugement Canada c. Munro, [1998] 4 CTC 89, aux paragraphes 12 à 14, 163 DLR (4th) 541 (CAF), le pouvoir discrétionnaire d’allouer les frais et dépens est régi par l’article 18.26 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), ch. T­2 (la « Loi sur la CCI »), et les Règles qui s’appliquent.
+[56] Le paragraphe 18.26(1) de la Loi sur la CCI est libellé comme suit :
+18.26(1) Frais et dépens — La Cour peut, sous réserve de ses règles, ordonner le paiement des frais et dépens. Elle peut notamment en allouer à l’appelant si le jugement réduit de plus de la moitié le total de tous les montants en cause ou des intérêts en cause, ou augmente de plus de la moitié le montant de la perte en cause.
+18.26(1) Costs — The Court may, subject to the rules, award costs. In particular, the Court may award costs to the appellant if the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one half.
+[57] Les dispositions pertinentes des Règles sont les suivantes :
+10(1) Frais et dépens — La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+[…]
+11.2(1) Les autres débours essentiels à la tenue de l’appel peuvent être adjugés s’il est établi qu’ils ont été versés ou que la partie est tenue de les verser.
+(2) Peuvent être adjugées les taxes sur les services, les taxes de vente, les taxes d’utilisation, les taxes de consommation et autres taxes semblables payées ou payables sur les honoraires d’avocat et les débours adjugés, s’il est établi que ces taxes ont été payées ou sont payables et qu’elles ne peuvent faire l’objet d’aucune autre forme de remboursement, notamment sur présentation, à l’égard de ces taxes, d’une demande de crédits de taxe sur les intrants.
+10(1) Costs — The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+...
+11.2(1) Such other disbursements may be allowed as were essential for the conduct of the appeal if it is established that the disbursements were made or that the party is liable for them.
+(2) There may be allowed all services, sales, use or consumption taxes and other like taxes paid or payable on any counsel fees and disbursements allowed if it is established that such taxes have been paid or are payable and are not otherwise reimbursed or reimbursable in any manner whatever, including, without restriction, by means of claims for input tax credits in respect of such taxes.
+[58] Dans un appel interjeté sous le régime de la procédure informelle, le juge dispose encore d’un pouvoir discrétionnaire sur la question des dépens dans certaines circonstances.
+[59] La règle générale, ici, est bien établie : les frais et dépens ne peuvent être adjugés sous le régime de la procédure informelle (voir, par exemple, Cavanagh c. La Reine, [2000] 3 CTC 2354, au paragraphe 45, [1999] ACI no 465 (QL) (CCI)).
+[60] De plus, dans le jugement Canada c. Martin, 2015 CAF 95, 2015 DTC 5048, la juge Dawson s’est exprimée ainsi :
+[18] La jurisprudence est bien fixée : dans certains cas exceptionnels, il est possible de tenir compte d’un comportement antérieur à l’instance, si ce comportement a pour effet de prolonger indûment et inutilement l’audience. Voir, par exemple : Merchant c. Canada, 2001 CAF 19, 267 N.R. 186, paragraphe 7; Canada c. Landry, 2010 CAF 135, 404 N.R. 255, paragraphe 25.
+[19] Ainsi, à l’occasion de l’affaire Merchant, la Cour de l’impôt a tenu compte, au moment de l’adjudication des dépens, de la conduite du contribuable lors des étapes de la vérification et de l’opposition, étant donné les répercussions que cette conduite avait eues sur le déroulement de l’audience. Le juge de première instance a conclu qu’une audience qui n’aurait dû durer qu’un jour s’était prolongée pendant sept jours : Merchant c. Canada, [1998] A.C.I no 278, 98 DTC 1734, paragraphe 59.
+[61] Le régime, dans cette affaire, était celui de la procédure générale, mais les commentaires sont pertinents à l’exercice de mon pouvoir discrétionnaire.
+[62] Je ne vois aucun facteur dans le présent appel qui me convaincrait d’user de mon pouvoir pour allouer les frais et dépens à l’appelante. De plus, je ne peux voir aucune circonstance exceptionnelle dans la conduite des agents de l’ARC précédant le dépôt de l’avis d’appel. L’appelante n’a fourni aucune preuve concernant les débours engagés, l’état de santé de M. Backman ou le niveau de stress exceptionnel qui serait dû à la conduite des agents de l’ARC. Cet état de choses pourrait être dû en partie au fait que M. Backman n’a pas comparu à l’audience.
+[63] C’est pourquoi, quel que puisse avoir été le sort du présent appel, je n’aurais pas été disposé à allouer les frais et dépens à l’appelante.
+F. Conclusion [64] Pour tous ces motifs, l’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 31e jour de mai 2016.
+« Dominique Lafleur »
+La juge Lafleur
+RÉFÉRENCE :
+2016CCI135
+NO DU DOSSIER DE LA COUR :
+2015­3366(IT)I
+INTITULÉ :
+ATLANTIC THERMAL STAR LIMITED ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle­Écosse)
+DATE DE L’AUDIENCE :
+Le 31 mars 2016
+MOTIFS DU JUGEMEMENT :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 31 mai 2016
+COMPARUTIONS :
+Représentant de l’appelante :
+Doug Rudolph
+Avocats de l’intimée
+Me Stan W. McDonald
+Me Heidi Cullicutt
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[Blank]
+Cabinet :
+[ Blank]
+Pour l’intimée :
+William F. Pentney
+Sous­procureur général du Canada
+Ottawa (Canada)

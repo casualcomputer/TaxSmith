@@ -1,0 +1,149 @@
+---
+title: "Mercier v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29776/index.do"
+last_modified: "2008-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 118"
+citation2: ""
+neutral_citation: "2008 TCC 118"
+decision_date: "2008-02-22"
+language: "en"
+item_id: "29776"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6521
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:30:59.999000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "be0ce8d2f2da5463df98d82db397fbac49b44cb16810df057e7156f6cc212a87"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mercier v. M.N.R.
+
+- Citation: 2008 TCC 118
+- Decision date: 2008-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6521, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mercier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-22
+Neutral citation
+2008 TCC 118
+File numbers
+2006-321(EI)
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-321(EI)
+2006-322(CPP)
+BETWEEN:
+KEVIN MERCIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DALE JEWETT o/a WHITE LINE FEVER BAND,
+Intervenor.
+____________________________________________________________________
+Appeals heard on March 7, 2007, at Thunder Bay, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Penny L. Piper
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are dismissed.
+Signed at Ottawa, Canada, this 22nd day of February 2008.
+“E.A. Bowie”
+Bowie J.
+Citation: 2008TCC118
+Date: 20080222
+Docket: 2006-321(EI)
+2006-322(CPP)
+BETWEEN:
+KEVIN MERCIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DALE JEWETT o/a WHITE LINE FEVER BAND,
+Intervenor.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] These appeals concern the nature of the working relationship between the appellant and the intervenor. During the period between January 1 and February 24, 2005, the appellant played guitar in the White Line Fever Band (the Band). The intervenor, Dale Jewett, is the leader of the Band and the vocalist. The appellant had played with the Band for some 18 years, but it was with respect to that specific eight-week period that the Canada Customs and Revenue Agency ruled under subsections 90(3) of the Employment Insurance Act (the Act) and 26.1(3) of the Canada Pension Plan (the Plan) that Mr. Mercier was engaged in insurable and pensionable employment by Dale Jewett. Mr. Jewett appealed that decision to the Minister under section 91 of the Act and section 27 of the Plan. The Minister allowed his appeals and ruled that Mr. Mercier was engaged under a contract for services, and so his employment was neither insurable nor pensionable. I heard Mr. Mercier’s appeal from that ruling at Thunder Bay. Mr. Mercier and Mr. Jewett both gave evidence. Mr. Mercier also called Charles Arnaud to give evidence.
+[2] I put little weight on Mr. Arnaud’s evidence. He testified that he recommended the appellant to Mr. Jewett, and that at the time their association began he was present and heard Mr. Jewett say to Mr. Mercier that if he played for the Band he could not play for anyone else. The balance of his evidence was largely irrelevant to the issues that I have to decide. It was clear, however, that Mr. Arnaud was determined to assist the appellant in his case, and would give any evidence that he thought would be helpful to that end. I do not find that his evidence sheds much light on the nature of the business relationship.
+[3] It appears from the appellant’s evidence that a difference of opinion as to the nature of the relationship between him and Mr. Jewett arose early on. Among the exhibits at trial is a document that appears to be signed by both the appellant and the intervenor on June 1, 1990. It simply states that any person playing in the Dale Jewett Band is self employed, and that Mr. Jewett has no responsibility to pay benefits such as “Canada Pension, UIC, Income Tax, Compensation or any other benefits”. Mr. Mercier testified that this document was a forgery; Mr. Jewett maintains that it is genuine. Given that it is dated almost 15 years prior to the relevant time period, I am not inclined to give it any weight, genuine or not. A number of receipts were entered in evidence with various notations on them. Some are dated closer to the relevant time period than others. All are suspect in that the notations, to the extent that they could be interpreted to bear on the nature of the relationship, tend to have been put there by one party or the other for their own purposes. In my view, this is a case that should be decided on the basis of the oral evidence given by Mr. Mercier and Mr. Jewett at the hearing.
+[4] The Band consists of four members. It plays country and country-rock music, generally on short term engagements throughout Canada. Mr. Jewett is the leader of the Band, and the vocalist. Mr. Mercier is one of three sidemen who accompany him. Occasionally, a sideman will leave and be replaced by someone else. Mr. Mercier left the Band at one time and returned to it later. There is no written contract among any of the members of the Band, other than the document from 1990 that I have referred to, which could hardly be described as a contract at all.
+[5] Some facts are reasonably clear. Mr. Jewett is the leader of the Band in every sense. He arranges the Band’s engagements, through an entertainment agency. He agrees for the Band on the amount that they will be paid for each engagement. To the extent that there is any negotiation to be done with the hotels, clubs and other venues where they play, he is the one who does that negotiation. A flat rate for the whole Band is agreed on for the whole period of the engagement.
+[6] Mr. Jewett lives in Kakabeka Falls, near Thunder Bay, Ontario. Mr. Mercier lives in a house there that he rents from Mr. Jewett. The other Band members presumably live nearby. Transportation to the venues of their engagements is for them to arrange, and the invariable method of travel is in a van owned by Mr. Jewett. A trailer carries their instruments and equipment. Mr. Mercier, as is common in the music business, owns and maintains his instruments. Mr. Jewett owns the amplifying equipment that they use.
+[7] Usually the Band plays in hotels, and the hotel supplies two guest rooms for the duration of the engagement, which the four Band members share. Sometimes they have to pay for a room while traveling, before their engagement begins. In that case there seem to be no fixed rules; sometimes Mr. Jewett pays for a room for them all, and sometimes they simply sleep in the van. Generally, they all pay for their own meals while they are away from home, but Mr. Jewett sometimes buys meals for the others, and Mr. Mercier has on occasion bought a meal for Mr. Jewett.
+[8] As with most aspects of the relationship, the evidence as to remuneration is vague. Exhibits A-2 and A-3 are bundles of receipts identified by Mr. Mercier, but they all relate to periods years before that to which the ruling applies, and so are of little help. For each engagement, the client pays the agreed fee to Mr. Jewett, generally by one cheque. He usually paid Mr. Mercier $300.00 per week, or a proportionate amount for engagements of more or less than one week. As Mr. Jewett explained it, typically he would have $800.00 for himself, out of which he paid the traveling expenses, and possibly some other expenses as well, and there would be remaining $1,000.00 for the other three members. Usually one of them got $400.00 and the other two each got $300.00. As Mr. Jewett put it, he would leave the other three to settle the distribution of it among themselves. As there was a limited amount of money, if they could not agree on the distribution then there would be no Band, and no income for any of them.
+[9] Such records as there are suggest that Mr. Mercier was always paid a round number as his share of the proceeds. If the engagement was a lucrative one then he would be paid somewhat more than usual, and the amount also varied depending on the length of the engagement. He never received either vacation pay or a paid vacation, nor any other employment benefits. No deductions were ever taken from his share for income tax, employment insurance, or Canada Pension Plan, and he never received a T4 form for his earnings, although he had received one while playing with a different band in the time between leaving Mr. Jewett’s Band and returning to it.
+[10] Under the contract with the hotel or other venue where they played, the hotel specified the type of music that the Band was to play, the hours, and the length of sets and breaks. Within these parameters, Mr. Jewett would select specific songs. The Band practiced (and this included working on additions to their repertoire) on their own time, usually between engagements, at the trailer Mr. Jewett lives in at Kakabeka Falls. Between engagements there was no money coming in, and none of the Band members received any income at all.
+[11] The principle to be applied in deciding whether the contract between the parties is a contract of service, thus giving rise to insurable and pensionable employment, has recently been restated by the Supreme Court of Canada in the Sagaz[1] case. At paragraphs 46 to 48, it is put this way by Major J. for a unanimous Court:
+46 In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that “no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations . . .” (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[12] The facts of this case do not point to a relationship of master and servant, although superficially one might think that. I was impressed by Mr. Jewett’s evidence as to the degree to which decisions affecting the Band and its members were made consensually, and I conclude that the Band is run far more as a joint enterprise of its four members than as an entity controlled by Mr. Jewett. He said that when a new musician joined the Band it was with the concurrence of all. Similarly, there was a certain amount of money to be distributed, and all agreed as to that distribution. The members all practiced their repertoire together on their own time. They were all, including Mr. Jewett, subject to the control of the clients as to the nature and timing of their performances. Mr. Jewett was no doubt the leader, but there is a distinction between a leader and a controller. He entered into the contracts and looked after such business matters as there were to be attended to, but he did it for the common benefit of the Band members.
+[13] Mr. Jewett owned the vehicle and the amplifying equipment used by the Band. The other members of the Band owned their instruments. There was nothing in the evidence about the relative values of these, but certainly all members of the Band had some capital invested in the enterprise. I do not think that this is a factor that points unequivocally in either direction.
+[14] Similarly, the opportunity for profit and the risk of loss are not, I think, significant factors in this case. The evidence left me with the impression that the Band operates at not much more than a subsistence level. There was no evidence as to the number of weeks in a year that the Band could expect to work, or of the amount of the expenses that Mr. Jewett had to cover from his $800.00 per week. No doubt he was the one who stood to lose if the money was insufficient to meet expenses, and he might profit from a job where the travel expenses were less than usual. However, the evidence does support the view that there were ad hoc adjustments to the amounts paid to the sidemen, particularly if they got a more than their usual fee. This factor does not weigh greatly in either direction.
+[15] In the context of this case, Cooke J.’s question becomes this: is this Mr. Jewett’s enterprise in which the sidemen are employed as servants, or is it the enterprise of all the members of the Band in which they stand to share success or failure? In my view, it is the latter. Mr. Jewett did not argue that the Band was a partnership, but I find that the evidence describes something more in the nature of a joint enterprise of all the members of the Band than a proprietorship owned and operated by Mr. Jewett.[2] It is not necessary for me to make a specific finding as to the nature of the Band as a business entity, however. The question I have to decide is much narrower than that – it is simply whether there was a contract of service between Mr. Mercier and Mr. Jewett during the period in question. For the foregoing reasons, I find that there was not. These appeals will therefore be dismissed.
+Signed at Ottawa, Canada, this 22nd day of February, 2008.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2008TCC118
+COURT FILE NO.: 2006-321(EI), 2006-322(CPP)
+STYLE OF CAUSE: KEVIN MERCIER and THE MINISTER OF NATIONAL REVENUE and DALE JEWETT o/a WHITE LINE FEVER BAND
+PLACE OF HEARING: Thunder Bay, Ontario
+DATE OF HEARING: March 7, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: February 22, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Penny L. Piper
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983.
+[2] I have not overlooked that the intervenor is styled as “Dale Jewett o/a The White Line Fever Band”. He appears to have been first styled that way by the Respondent in filing the Reply to the Notice of Intervention, presumably because Mr. Jewett wrote the name of the Band under his signature on his handwritten Notice of Intervention.

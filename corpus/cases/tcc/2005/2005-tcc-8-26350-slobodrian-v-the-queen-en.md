@@ -1,0 +1,158 @@
+---
+title: "Slobodrian v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26350/index.do"
+last_modified: "2005-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 8"
+citation2: ""
+neutral_citation: "2005 TCC 8"
+decision_date: "2005-01-11"
+language: "en"
+item_id: "26350"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3363
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:10:51.451000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "602903be8a1e3f93a06fd755e63aa4b2db664da4e9539822d363da928390763a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Slobodrian v. The Queen
+
+- Citation: 2005 TCC 8
+- Decision date: 2005-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3363, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Slobodrian v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-11
+Neutral citation
+2005 TCC 8
+File numbers
+2004-589(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-589(IT)I
+BETWEEN:
+RODOLFO JOSÉ SLOBODRIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on December 6, 2004, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Benoît Mandeville
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999, 2000, 2001 and 2002 taxation years are dismissed in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 11th day of January 2005.
+"Paul Bédard"
+Bédard J.
+Citation: 2005TCC8
+Date: 20050111
+Docket: 2004-589(IT)I
+BETWEEN:
+RODOLFO JOSÉ SLOBODRIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BédardJ.
+[1] The Appellant appeals income assessments for 1999, 2000, 2001 and 2002 (the "relevant taxation years"). The Minister of National Revenue (the "Minister") disallowed claims for tax credits for charitable donations in relation to purported gifts of $44,993.00 in 1999, $29,113.00 in 2000, $18,000.00 in 2001 and $37,600.00 in 2002. The main reason the Minister disallowed the tax credits is that no property was gifted by the Appellant during the relevant taxation years and that the donations were not proven by receipts for the gifts that contained prescribed information, as provided by subsection 118.1(2) of the Income Tax Act (the "Act").
+[2] At the beginning of the hearing, the Appellant admitted to the facts set out in paragraph 11 of the Reply to Notice of Appeal, except for subparagraphs (c), (d), (e), (f) and (g). Paragraph 11 reads as follows:
+a) during the years in litigation, the Appellant was retired from "Université Laval";
+b) during the years in litigation, the Appellant participated in advance research and teaching for the Canadian Space Agency;
+c) in filing his Income Tax Returns for the taxation years in litigation, the Appellant claimed charitable donation tax credits in relation to the amounts of $44,993 in the 1999 taxation year, $29,113 in the 2000 taxation year, $18,800 in the 2001 taxation year and $37,600 in the 2002 taxation year, for the unpaid time spent for researches with "Université Laval" (hereinafter, the "employer");
+d) the Appellant did not charge anything to the employer;
+e) no form T4 was prepared by the employer regarding the amounts mentioned in the subparagraph c) above;
+f) for the taxation years in litigation, the Appellant has not shown that he gave something, in terms of property, to the employer;
+g) for the taxation years in litigation, the appellant did not provide the Minister with official receipts issued by a registered organization, as prescribed by the section 3501 of the Income Tax Regulations;
+h) the Appellant filed with the Tax Court of Canada a Notice of Appeal for the 1995 taxation year, concerning the same litigation;
+i) this Notice of Appeal was registered by the Tax Court of Canada under the number 97-812(IT)I;
+j) by Judgment rendered by the Honorable judge Louise Lamarre-Proulx, dated May the 15th, 1998, the appeal was dismissed;
+k) the Appellant also filed with the Tax Court of Canada a Notice of Appeal for the 1996, 1997 and 1998 taxation years, concerning the same litigation;
+l) this Notice of Appeal was registered by the Tax Court of Canada under the number 2000-3121(IT)I;
+m) by Judgment rendered by the Honorable judge Pierre Archambault, dated October the 18th, 2001, this appeal was also dismissed;
+n) this decision was brought to the attention of the Federal Court of Canada (Docket A-497-01);
+o) the decision of the Honorable judge Pierre Archambault was maintained at this point;
+p) the assumptions of fact outlined in paragraphs k), l), m), n) and o) were first made by the Minister in confirming the assessments.
+[3] I do not deem it useful to provide a detailed recitation of the facts in the appeals as they are substantially similar to those set out in the reasons for judgment of the Honourable Justice Lamarre Proulx published in [1998] 3 C.T.C. 2454 and in the reasons for judgment of Archambault J. published in [2001] A.C.I. no 702.
+[4] The evidence revealed
+(i) that in 1999, the Appellant, principal investigator for a contract entered into with the Canadian Space Agency, conducted scientific research as part of contract 9F007-8-5009TPS6C at the Department of Physics of the Faculté des sciences et de génie of the Université Laval (the "Faculté"). During that year, he taught the students of the Université for three weeks. He did not receive remuneration that year for research and higher education teaching activities. The Appellant also produced a letter from the Université Laval (Exhibit I-1) in which the director of the Faculté provided a monetary value of the services rendered by the Appellant. He valued the services provided in 1999 at $47,040.00, an amount equivalent to 1,960 hours of work at an hourly rate of $24. That hourly rate of $24 corresponded to the rate of pay of the Appellant's senior assistant and represented, according to the director, the lowest possible rate at which the Appellant's work may be valued.
+(ii) that in 2000, the Appellant conducted scientific research as part of the same contract as in 1999. During that year, he also made new research proposals to the Natural Sciences and Engineering Research Councilof Canada (NSERC) and the Canadian Space Agency. In 2000, he also taught courses and did not receive remuneration for research and higher education teaching activities. The Appellant also produced a letter (Exhibit I-1) similar to that of 1999, in which the director of the Faculté provided a monetary value of the services rendered by the Appellant. He valued the research services at $11,040.00 and the services related to teaching activities and the preparation of proposals at $14,720.
+(iii) that in 2001, the Appellant conducted scientific research as part of a five-month contract (Exhibit A-3) he entered into with the Canadian Space Agency. He sent three reports with the results of his research to the Agency. During that year, he also counselled students of the Faculté and directed a student's master's thesis. He also participated in phase A of the ICAPS project of the International Space Station of the European Space Agency. He did not receive remuneration for the research and higher education teaching activities. The Appellant also produced a letter (Exhibit I-1) similar to those of 1999 and 2000, in which the director of the Faculté provided a monetary value of the services rendered by the Appellant. He valued the research services at $18,800. No value was provided as to the other services rendered by the Appellant.
+(iv) that in 2002, the Appellant drafted a two-year research proposal (Fractal Nanostructures Produced by Laser Evaporation-Condensation in a Reduced-Gravity Environment) for a Canadian Space Agency competition (Exhibit A-1). In a letter dated November 4, 2002 (Exhibit A-1), the Canadian Space Agency confirmed to the Appellant that his proposal was successful and that a contract would subsequently be signed in that respect, a contract which, moreover, came into effect in 2003. The Appellant also counselled students of the Faculté and directed a student's doctoral thesis. He also participated in phase A of the ICAPS project of the International Space Station of the European Space Agency. The Appellant also produced a letter (Exhibit I-1) similar to those of 1999, 2000 and 2001 in which the director of the Faculté provided a monetary value of the services rendered by the Appellant. He valued the services at $37,600. The letter also spoke of cash donations by the Appellant of $3,615.76. In 2002, the Appellant did not receive remuneration for his services.
+Appellant's Position
+[5] In support of his application, the Appellant stated that what he donated was "scientific research" and "higher-education teaching" and not services. He submitted that his research produced results that were presented to Public Works and Government Services Canada as studies and reports (Exhibit A-9). In his opinion, intellectual property resulted from the work. In the alternative, the Appellant argued that the Act does not explicitly restrict that which can form the subject matter of a gift to "property." He asserted that what he made was a "donation in kind" (i.e., a donation of goods or labour, not money, Oxford Dictionary of Current English). In his view, nothing prevents the recognition of a gift of services for the purposes of the Act.
+Analysis and Decision
+[6] For the purposes of the Act, a gift must involve the transfer of something known to law as property. The mere supply of services without compensation involves no property and hence cannot form the subject matter of a gift.As noted by Noël J. of the Federal Court of Appeal in Slobodrian v. Canada (The Minister of National Revenue - M.N.R.), [2003] F.C.J. no. 1414; 2003 F.C.A 350, this is to be contrasted with remunerated services which once performed give rise to rights capable of ownership and which can in turn form the subject matter of a gift. In that respect, he noted that the simplest example of this would be the remunerated worker who assigns gratuitously his right to the remuneration which he has earned. It should be noted that in the present case, it is common ground that the Appellant was to render his services without any form of compensation.
+[7] It is important to note that the Appellant argued that as a result of his efforts, the Canadian Space Agency became the proprietor of somewhat valuable research. According to him, this research constituted intellectual property which can form the subject matter of a gift.
+[8] I need not decide whether the Appellant's efforts gave rise to some form of intellectual property because the evidence revealed
+(i) that in 1999, 2000 and 2001, the agreements, under which the research was conducted, provided that any such property would vest in Canada and not the Université Laval or any member of the research team.
+(ii) that in 2002, the Appellant did not conduct the research as such but rather drafted a research proposal that was the subject of a contract that came into effect in 2003.
+(iii) that the other services rendered by the Appellant during the relevant taxation years were essentially related to teaching and counselling services.
+It follows that the Appellant could not have become the owner of any intellectual property which he purports to have given.
+[9] Finally, the receipts submitted by the Appellant attesting to the value of his purported gift did not meet the requirements of subsection 118.1(2) of the Act and section 3501 of the Regulations. In fact, they do not reflect the registration number of the issuer or certify that the signator is duly authorized to issue such receipts as required by Regulation 3501. According to subsection 118.1(2) of the Act, a charitable gift cannot be recognized unless it is proven by a receipt reflecting this information.
+[10] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 11th day of January 2005.
+"Paul Bédard"
+Bédard J.
+CITATION:
+2005TCC8
+COURT FILE NO.:
+2004-589(IT)I
+STYLE OF CAUSE:
+Rodolfo José Slobodrian and
+Her Majesty The Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+December 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+January 11, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Benoît Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims
+Deputy Attorney General of Canada
+Ottawa, Canada

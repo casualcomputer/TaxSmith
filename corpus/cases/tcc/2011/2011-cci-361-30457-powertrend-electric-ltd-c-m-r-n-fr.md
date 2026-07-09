@@ -1,0 +1,163 @@
+---
+title: "PowerTrend Electric Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30457/index.do"
+last_modified: "2011-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 361"
+citation2: ""
+neutral_citation: "2011 CCI 361"
+decision_date: "2011-07-22"
+language: "fr"
+item_id: "30457"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7926
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:43:11.166000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "55852eae6f4ddd651b1b4d25022688be7be3a549c98ce074e3f083a5f52cd8ed"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# PowerTrend Electric Ltd. c. M.R.N.
+
+- Citation: 2011 CCI 361
+- Decision date: 2011-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7926, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+PowerTrend Electric Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-07-22
+Référence neutre
+2011 CCI 361
+Numéro de dossier
+2010-372(EI), 2010-373(CPP)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2010-372(EI) et 2010-373(CPP)
+ENTRE :
+POWERTREND ELECTRIC LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JAMES D. EBERLE,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 11 juillet 2011, à Kelowna (Colombie-Britannique).
+Devant : L'honorable juge Brent Paris
+Comparutions :
+Représentant de l'appelante :
+M. David Zobatar
+Avocate de l'intimé :
+Me Holly Popenia
+Pour l'intervenant :
+L'intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés conformément au paragraphe 103(1) de la Loi sur l'assurance-emploi (la « LAE ») et à l'article 28 du Régime de pensions du Canada (le « Régime ») sont rejetés et la décision que le ministre du Revenu national a rendue par suite de l'appel qui avait été interjeté devant lui en vertu de l'article 91 de la LAE ainsi que la décision que le ministre a rendue par suite de la demande qui lui avait été faite en vertu de l'article 27.1 du Régime sont confirmées pour le motif qu'au cours de la période allant du 1er mai 2007 au 19 avril 2009, James D. Eberle exerçait auprès de l'appelante un emploi assurable ouvrant droit à pension.
+Signé à Vancouver (Colombie-Britannique), ce 22e jour de juillet 2011.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 31e jour de octobre 2011.
+François Brunet, réviseur
+Référence : 2011 CCI 361
+Date : 20110722
+Dossiers : 2010-372(EI) et 2010-373(CPP)
+ENTRE :
+POWERTREND ELECTRIC LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JAMES D. EBERLE,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] En l’espèce, il faut rechercher si, lorsqu'il était au service de l'appelante entre le 1er mai 2007 et le 19 avril 2009, James Eberle oeuvrait à titre d'employé aux termes d'un contrat de louage de services ou plutôt à titre d'entrepreneur indépendant aux termes d'un contrat d'entreprise. Le ministre du Revenu national a conclu que M. Eberle était l’employé de l'appelante et qu'il exerçait donc un emploi assurable en vertu de la Loi sur l'assurance-emploi[1] et un emploi ouvrant droit à pension conformément au Régime de pensions du Canada[2].
+[2] L'appelante exploite une entreprise d'électricité, à Penticton (Colombie-Britannique); l'entreprise est exploitée par son seul actionnaire, David Zobatar. M. Zobatar représentait l'appelante à l'audience et il a témoigné pour le compte de celle‑ci.
+[3] Au début de l'année 2006, l'appelante a conclu un contrat, avec Lang Ventures Inc. (« LVI ») de réparation sur appel du matériel informatique de loterie dans divers établissements de détail, dans la région du Sud de l'Okanagan, et l’installation et d’enlèvement de matériel de loterie dans ces lieus. Le matériel appartenait à la British Columbia Lottery Corporation (la « BCLC »). LVI était apparemment chargée du fonctionnement et de l'entretien du matériel de la BCLC partout dans la province.
+[4] En vertu du contrat qu'elle avait conclu avec LVI, l'appelante s'était engagée à s’assurer que toute personne qui s'occupait des appareils de loterie suive un cours de formation de deux jours, à Kamloops (Colombie-Britannique). Le contrat stipulait également que l'appelante devait être disponible pour assurer les services de réparation tous les jours de l'année entre 7 h et 21 h, sauf le jour de Noël. Les travaux de réparation dans la région immédiate de Penticton devaient être achevés dans l'heure qui suivait le moment où l'appel était effectué par le répartisseur de LVI, et les travaux exécutés à l'extérieur de Penticton devaient être achevés dans un délai d'une heure et demie.
+[5] Afin d'exécuter ce contrat, l'appelante a embauché M. Eberle au mois de mars 2006. L'appelante a initialement embauché M. Eberle à titre d'employé; elle effectuait les retenues requises aux fins de l'impôt sur le revenu ainsi que des cotisations à l'assurance-emploi et au Régime de pensions du Canada. L'appelante versait à M. Eberle un salaire fixe mensuel de 2 000 $ pour les réparations. En ce qui concerne les installations et les enlèvements, elle lui versait 12 $ l'heure, plus 0,30 $ le kilomètre pour les déplacements d'un lieu de travail à l'autre. M. Eberle n'était pas rémunéré lorsqu'il se déplaçait pour effectuer des réparations. M. Eberle a suivi le cours de formation de LVI avec M. Zobatar. Ni l'un ni l'autre ne se rappelaient si l'appelante avait rémunéré M. Eberle pour cette formation.
+[6] L'appelante exigeait que M. Eberle soit de garde tous les jours de l'année, de 7 h à 21 h, sauf le jour de Noël, et qu'il réponde directement aux appels du répartisseur de LVI et achève le travail dans le délai prévu. Une fois le travail effectué, M. Eberle rendait compte par téléphone à LVI et à la BCLC afin de les informer de ce qu'il avait fait. M. Eberle n'était pas tenu de rendre compte de son travail à l'appelante, et M. Zobatar a déclaré qu'il arrivait souvent qu'ils ne se parlent pas pendant deux ou trois semaine de suite.
+[7] Il semble que les réparations consistaient principalement en le remplacement des pièces des terminaux informatiques de loterie ou les câbles des terminaux, et à reprogrammer les terminaux. S'il fallait exécuter des travaux électriques, M. Eberle avisait LVI et laquelle prenait des dispositions avec l'appelante pour que celle‑ci envoie un électricien.
+[8] M. Eberle n'avait pas besoin de beaucoup d'outils pour effectuer les réparations. Il fournissait quelques petits outils à main, et l'appelante fournissait une perceuse sans fil, un contrôleur de câble électrique et un foret. Le contrôleur de câble et le foret étaient des outils spécialisés conçus pour être utilisés sur le matériel de loterie, et ils étaient fournis à l'appelante par LVI. M. Eberle devait utiliser sa propre voiture pour se rendre aux différents lieux de travail. L'appelante fournissait un téléphone cellulaire à M. Eberle.
+[9] Les pièces de rechange pour les réparations étaient entreposées chez M. Zobatar, au sous-sol, en 2006 et en 2007, et par la suite dans un hangar d'entreposage appartenant à l'appelante. M. Eberle s'occupait des stocks de pièces de rechange, et il communiquait avec LVI s'il fallait plus de pièces. LVI surveillait également les stocks de pièces de rechange au moyen des comptes rendus que M. Eberle lui faisait par téléphone après avoir effectué le travail à la suite d'un appel, M. Eberle indiquant alors les pièces qu'il avait utilisées pour effectuer les réparations.
+[10] Lorsque LVI demandait à l'appelante d'installer ou d'enlever du matériel de loterie, elle communiquait avec M. Zobatar, et celui‑ci communiquait avec M. Eberle. Ils travaillaient la plupart du temps ensemble étant donné qu'il fallait également un électricien pour exécuter la plupart des travaux. Apparemment, ce genre de travail représentait une partie relativement peu importante de l'ensemble des travaux que M. Eberle effectuait pour l'appelante. M. Zobatar a déclaré qu'ils installaient chaque année de dix à 16 appareils et qu'ils en enlevaient à peu près autant. M. Eberle a qualifié ce travail [traduction] d’« intermittent ». Les installations et les enlèvements avaient une priorité inférieure aux réparations, et les délais, pour ce travail, étaient plus souples. Cependant, dans l'ensemble, les travaux étaient effectués selon l'horaire établi par LVI. M. Eberle rendait compte par téléphone à LVI du travail qu'il effectuait à ces moments‑là.
+[11] Au bout d'un an, M. Zobatar a examiné la quantité de travail que M. Eberle effectuait pour l'appelante, soit en moyenne un appel par jour pour LVI, et il a décidé que M. Eberle devrait assurer ses services à titre d'entrepreneur indépendant plutôt qu'à titre d'employé. M. Zobatar a déclaré avoir également tenu compte du fait qu'il ne supervisait pas le travail de M. Eberle et qu'il n'exerçait aucun contrôle sur ce travail lorsqu'il a décidé de changer le statut de M. Eberle. M. Zobatar a informé M. Eberle de ce changement et il lui a dit qu'il serait obligé de facturer ses services à l'appelante deux fois par mois. Aucun autre changement n'a été apporté à la relation de travail existant entre M. Eberle et l'appelante. M. Eberle a déclaré avoir accepté ce changement afin de pouvoir continuer à travailler.
+[12] M. Zobatar a également déclaré que M. Eberle pouvait embaucher quelqu'un pour faire le travail à sa place, dans la mesure où le remplaçant avait reçu la formation requise de LVI et où il n'avait pas de casier judiciaire. Toutefois, M. Zobatar était l'unique personne à remplacer M. Eberle. Il l'a fait à deux reprises lorsque M. Eberle jouait dans une pièce de théâtre. M. Eberle a déclaré qu'il n'avait jamais envisagé la possibilité d'embaucher quelqu'un pour le remplacer.
+[13] M. Eberle n'a jamais été inscrit aux fins de la perception de la TPS parce que la rémunération que l'appelante lui versait était inférieure au seuil de petit fournisseur de 30 000 $ l'an.
+[14] L'appelante maintient qu'elle a eu raison de considérer M. Eberle comme un entrepreneur indépendant parce que c'était LVI, et non elle, qui exerçait le contrôle sur le travail de celui‑ci. L'appelante dit que M. Eberle pouvait également embaucher un remplaçant et qu'il était tenu de fournir, pour le travail, plus de matériel qu'elle, étant donné qu'il devait fournir son propre véhicule. L'appelante a également déclaré que le statut de M. Eberle était probablement au départ celui d'un entrepreneur indépendant et qu'au cours de la première année, elle avait erronément cru qu'il était un employé.
+Analyse
+[15] Selon la jurisprudence 671122 Ontario Ltd. c. Sagaz Industries Inc.[3] de la Cour suprême du Canada, la question cruciale qui se pose dans un cas de ce genre est de « savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte ». La Cour a ajouté :
+47 [...] Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[16] Je commencerai par examiner le degré du contrôle que l'appelante exerçait sur les activités de M. Eberle. M. Zobatar a soutenu que l'appelante exerçait peu de contrôle sur M. Eberle, mais je ne retiens pas cette qualification de leur relation. Je conclus que LVI exerçait un contrôle direct sur M. Eberle dans l'exécution de ses fonctions et que ce contrôle découlait du contrat que M. Eberle avait conclu avec l'appelante. En effet, l'appelante avait délégué à LVI son droit de contrôle et LVI exerçait ce contrôle d'une façon continue. Selon le contrat qu'il avait conclu avec l'appelante, M. Eberle devait être disponible sur appel de LVI et il devait faire rapport à LVI après chaque appel. En exigeant que M. Eberle soit disponible 14 heures par jour, 364 jours par année, pour répondre aux appels, pour effectuer les réparations dans un délai précis et pour fournir des comptes rendus détaillés de son travail, l'appelante exerçait un contrôle étroit sur le travail de M. Eberle. Il est également évident que l'appelante avait priorité dans l'emploi du temps de M. Eberle. Une fois que LVI avait effectué un appel de service, M. Eberle devait abandonner ce qu'il faisait et répondre à l'appel. Il était autorisé à travailler ailleurs, mais il devait adapter ce travail compte tenu du travail qu'il effectuait pour l'appelante. À mon avis, le facteur crucial est le suivant : M. Eberle n'était pas autorisé à refuser de répondre aux appels du répartiteur de LVI. Il s'agit également d'un type de contrôle et d'un contrôle qui est incompatible avec l'existence d'une relation d'entrepreneur indépendant. Il est vrai que M. Eberle pouvait refuser le travail d'installation et d'enlèvement puisque M. Zobatar aurait pu s'en charger lui-même, au besoin, mais ce travail ne constituait qu'une petite partie du travail que M. Eberle effectuait pour l'appelante. Dans l'ensemble, le critère du contrôle milite fortement en faveur de la conclusion selon laquelle M. Eberle l’un employé de l'appelante au cours de la période ici en cause.
+[17] Quant aux instruments de travail et au matériel que M. Eberle utilisait dans le cadre de son travail, les principaux semblent être le véhicule de M. Eberle et un téléphone cellulaire que l'appelante avait fourni à M. Eberle. Cet élément tend à indiquer que le travail était accompli en vertu d'un contrat d'entreprise.
+[18] Aucun élément de preuve n’indique que M. Eberle ait été exposé à quelque risque financier ou qu'il ait réellement eu la possibilité de faire un profit dans le cadre des rapports qu'il entretenait avec l'appelante. Le taux de rémunération de M. Eberle était fixe. Il recevait un taux mensuel fixe pour les appels se rapportant à des réparations et un taux horaire pour les installations et les enlèvements. Je ne retiens pas la thèse de l'appelante lorsqu'elle affirme qu'en effectuant les réparations d'une façon plus efficace, M. Eberle pouvait réduire le nombre d'appels futurs pour ce matériel et augmenter ainsi son « profit ». Aucun élément de preuve n’indique que M. Eberle ait eu quelque contrôle que ce soit sur la fréquence à laquelle le matériel devait être réparé ou qu'il ait pu de quelque façon réduire au minimum le nombre d'appels de service effectués par LVI. Ce critère milite en faveur de la thèse portant que M. Eberle était l’employé de l'appelante.
+[19] M. Zobatar a maintenu que M. Eberle aurait pu embaucher quelqu'un pour l'aider à effectuer le travail, mais il aurait fallu que cette personne reçoive une formation de LVI. M. Eberle n'avait pas envisagé d'embaucher quelqu'un pour l'aider parce qu'il voulait faire ce travail lui-même. M. Zobatar a remplacé M. Eberle à deux reprises sur une période de trois ans, mais il ne ressort pas des preuves ne que la rémunération de M. Eberle a été réduite en conséquence. À mon avis, ce facteur ne révèle pas si M. Eberle agissait à titre d’employé ou d’entrepreneur indépendant.
+[20] Le dernier facteur à prendre en considération est l'intention des parties quant à la nature de la relation de travail. Malgré l'assertion de M. Zobatar selon laquelle M. Eberle avait accepté d'être considéré comme un entrepreneur indépendant après la première année, je conclus qu'il l'a uniquement fait afin de conserver son emploi. On ne peut dégager de ces faits une véritable intention mutuelle en ce qui concerne le statut de M. Eberle et, cela dit, ce facteur n'aide pas à établir si M. Eberle était un employé ou s'il était plutôt un entrepreneur indépendant.
+[21] Dans l'ensemble, compte tenu du contrôle que l'appelante exerçait sur M. Eberle et du fait que ce dernier n'avait pas la possibilité de faire un profit ou n'était pas exposé à un risque de perte dans le cadre de son travail, je conclus que, pendant la période en cause, M. Eberle n’assurait pas ses services à titre de personne travaillant à son compte, mais qu'il le faisait à titre d'employé de l'appelante. Le seul élément contraire, l'obligation pour M. Eberle de fournir son propre véhicule, ne suffit pas en soi à démontrer que M. Eberle était à son compte, étant donné, en particulier, que l'appelante lui fournissait un téléphone cellulaire et certains petits outils nécessaires à l'exécution de ses tâches.
+[22] Pour ces motifs, les appels sont rejetés.
+Signé à Vancouver (Colombie-Britannique), ce 22e jour de juillet 2011.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 31e jour de octobre 2011.
+François Brunet, réviseur
+RÉFÉRENCE : 2011 CCI 361
+Nos DES DOSSIERS DE LA COUR : 2010-372(EI) et 2010-373(CPP)
+INTITULÉ : POWERTREND ELECTRIC LTD.
+c.
+LE MINISTRE DU REVENU NATIONAL et JAMES D. EBERLE
+LIEU DE L’AUDIENCE : Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 11 juillet 2011
+MOTIFS DU JUGEMENT : L’honorable Brent Paris
+DATE DU JUGEMENT : Le 22 juillet 2011
+COMPARUTIONS :
+Représentant de l'appelante :
+M. David Zobatar
+Avocate de l'intimé :
+Me Holly Popenia
+Pour l'intervenant :
+L'intervenant lui-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.C. 1996, ch. 23, dans sa forme modifiée.
+[2] L.R.C. 1985, ch. C‑8, dans sa forme modifiée.
+[3] 2001 A.C.S. no 61.

@@ -1,0 +1,172 @@
+Title: Bradshaw c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31263/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-244-31263-bradshaw-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-08-06
+
+# Bradshaw c. La Reine
+
+- Citation: 2013 CCI 244
+- Decision date: 2013-08-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5104, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bradshaw c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-08-06
+Référence neutre
+2013 CCI 244
+Numéro de dossier
+2012-1408(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1408(IT)I
+ENTRE :
+RICHARD BRADSHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 mai 2013 à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelant :
+M. Bridge R. Bahadoor
+Avocat de l’intimée :
+Me Stephen Oakey
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2008 et 2009 de l’appelant est accueilli, sans frais, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu que l’appelant a le droit de déduire des montants pour une conjointe à charge, relativement aux années d’imposition 2008 et 2009.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté.
+Signé à Halifax (Nouvelle-Écosse), ce 6e jour d’août 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 23e jour de septembre 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 244
+Date : 20130806
+Dossier : 2012-1408(IT)I
+ENTRE :
+RICHARD BRADSHAW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS JUGEMENT
+La juge V.A. Miller
+Informations préliminaires
+[1] L’appelant a déposé un avis d’appel relatif à ses années d’imposition 2007, 2008 et 2009, mais il ressortait clairement des documents annexés à cet avis qu’il n’avait pas signifié au ministre du Revenu national (le « ministre ») un avis d’opposition concernant ses années d’imposition 2007 et 2008. Le 11 avril 2012, l’appelant a demandé à la Cour une prorogation du délai prévu pour signifier des avis d’opposition relatifs à ces années-là, et la demande a été accordée par ordonnance datée du 23 juillet 2012.
+[2] À l’audition du présent appel, l’appelant a demandé que l’appel relatif à ses années d’imposition 2007 et 2008 y soit joint. Comme il s’était écoulé plus de 90 jours depuis que l’appelant avait envoyé les avis d’opposition au ministre, j’ai fait droit à sa demande.
+[3] Les témoins à l’audience ont été l’appelant et Melissa Quan.
+Les questions en litige
+[4] Les questions qui suivent se rapportent aux années d’imposition 2007, 2008 et 2009 de l’appelant :
+(i) s’il avait une entreprise de location ou non;
+(ii) s’il avait engagé des frais d’intérêt de 1 462 $, 1 496 $ et 1 462 $ en 2007, 2008 et 2009, respectivement;
+(iii) s’il avait le droit de se prévaloir d’un crédit d’impôt non remboursable à l’égard d’une conjointe de fait à charge.
+[5] Une question additionnelle, concernant son année d’imposition 2009, consistait à savoir si l’appelant avait une entreprise de réparation d’automobiles ou non.
+L’entreprise de location et les frais d’intérêt
+Les faits
+[6] Selon l’appelant, Melissa Quan (« Mme Quan ») et lui étaient des collègues de travail; en 2003, cette dernière avait commencé à vivre avec lui et sa famille, au 54, Giannarco Way. La maison située à cette adresse était la propriété de l’appelant, de sa sœur et de son frère.
+[7] Le 11 décembre 2005, l’appelant et Mme Quan ont acheté une maison en rangée, au 37, Brahm Court, à Vaughn (Ontario) (la « maison en rangée ») à titre de copropriétaires. Ils ont acheté cette maison pendant qu’elle était en construction, et tous deux ont déclaré qu’ils la considéraient comme un placement qu’ils utiliseraient comme bien locatif. Ils ont aussi tous deux témoigné que l’appelant n’avait pas d’argent pour verser l’acompte et que Mme Quan avait emprunté à ses parents une somme d’environ 21 000 $ ou 22 000 $, en vue d’effectuer le dépôt.
+[8] L’appelant a déclaré que les frais d’intérêt qu’il avait réclamés étaient les montants qu’il avait payés à Mme Quan pour avoir fait le dépôt relatif à la maison en rangée. À l’appui de ses dires, il a produit une pièce intitulée [traduction] « Billet à ordre », portant la date du 10 février 2006 et signé de sa main. Le texte de ce document était, en partie, le suivant :
+[traduction]
+POUR VALEUR REÇUE, RICHARD BRADSHAW promet de payer à Melissa Quan, à Vauhan [sic] (Ontario), la somme de 21 000 $ aux conditions suivantes :
+Le paiement de la somme de 21 000 $, portant intérêt au taux de 7 % par année, sera fait et à payer au moment de la vente de ma maison située au 54, Giannarco Way, Vaughan (Ontario) L6A 3J2.
+[9] En avril ou en mai 2007, l’appelant et sa famille ont vendu la maison située au 54, Giannarco Way, et il a loué un appartement. L’achat de la maison en rangée a été conclu en août 2007. L’appelant a dit y avoir emménagé en août 2007, parce qu’il n’avait pas réussi à trouver quelqu’un pour la louer. Il a témoigné qu’en septembre 2007, il avait trouvé un locataire qui partagerait la maison en rangée avec lui et qu’il lui facturait la somme de 800 $ par mois.
+[10] Dans ses déclarations de revenus, l’appelant a déclaré les pertes locatives suivantes :
+2007
+2008
+2009
+Revenu
+3 200,00 $
+7 200,00 $
+7 200,00 $
+Entretien et réparations
+4 346,00 $
+4 672,50 $
+3 780,00 $
+Assurances
+227,50
+234,00
+351,18
+Intérêts
+2 968,75
+7 896,00
+8 415,74
+Impôt foncier
+725,00
+739,00
+1 704,47
+Services publics
+732,92
+1 563,97
+1 607,98
+Autres dépenses
+318,00
+420,00
+472,50
+Total des dépenses
+9 318,17 $
+15 495,37 $[1]
+16 331,87 $
+Perte nette
+(6 118,17 $)
+(8 295,37 $)
+(9 131,87 $)
+Analyse
+[11] La preuve de l’appelant a été vague, ainsi qu’incohérente en soi et avec certains des éléments de preuve documentaires. J’ai conclu que son témoignage n’était pas digne de foi et que certains des documents qu’il avait produits étaient fictifs.
+[12] Tant Mme Quan que l’appelant ont déclaré qu’ils avaient acheté conjointement la maison en rangée à titre de placement et que Mme Quan avait payé le dépôt de 21 000 $ ou 22 000 $. Ils ont aussi dit que Mme Quan n’y avait jamais vécu. Cependant, les éléments de preuve documentaires qui suivent n’étayaient pas leur témoignage.
+[13] Selon le billet à ordre, Mme Quan a prêté à l’appelant la somme de 21 000 $ et n’a pas investi dans la maison en rangée. Le billet indique que l’appelant devait rembourser à Mme Quan la somme de 21 000 $, plus des intérêts au taux de 7 % par année.
+[14] L’appelant et Mme Quan ont signé une entente d’achat et de vente concernant la maison en rangée le 11 décembre 2005. Le dépôt qui a été fait n’était pas de 21 000 $ comme ils l’ont allégué, mais plutôt de 5 000 $ à payer immédiatement et de 25 000 $ à payer par chèques postdatés sur une période de 180 jours.
+[15] Le 7 avril 2008, l’appelant et Mme Quan ont signé une entente dans laquelle ils convenaient qu’ils étaient les propriétaires enregistrés en tant que copropriétaires de la maison en rangée et qu’ils souhaitaient en transférer à l’appelant la propriété unique, conformément à un règlement qu’ils avaient négocié entre eux. Selon cette entente, en vue de l’achat de la maison en rangée, Mme Quan avait payé 24 000 $, et l’appelant 46 000 $. Dans cette entente, ils disaient qu’ils cohabitaient dans la maison en rangée et qu’ils s’étaient séparés le ou vers le 26 novembre 2007. L’entente a été établie par leur avocat et chacun d’eux l’a signée.
+[16] Je suis d’avis que cette entente représente la véritable situation de l’appelant et de Mme Quan, et je suis arrivée à la conclusion qu’ils ont acheté la maison en rangée comme lieu de résidence principale, et non pas comme bien de placement.
+[17] Je suis d’avis que l’appelant n’a pas loué à quelqu’un une partie de sa maison et que les frais de location qu’il a déclarés étaient en fait des dépenses personnelles. Il lui a été impossible de produire une preuve montrant qu’il avait essayé de trouver un locataire pour la maison en rangée avant d’y emménager en août 2007. De plus, Mme Quan a déclaré que cette maison n’a jamais servi de bien locatif au cours de la période où elle en détenait une part. Elle en a été copropriétaire jusqu’au 15 avril 2008.
+[18] La crédibilité de l’appelant quant au fait de savoir si la maison en rangée était un bien locatif ou non a été à ce point ébranlée par le témoignage de Mme Quan que je suis arrivée à la conclusion que cette maison n’avait jamais servi de bien locatif.
+[19] On ne m’a pas convaincue que l’appelant avait payé à Mme Quan un montant quelconque à titre de frais d’intérêt. À un moment dans son témoignage, l’appelant a déclaré qu’il avait payé à Mme Quan un montant d’intérêt dans chacune des années 2006, 2007 et 2008. Plus tard, il a déclaré qu’il lui avait payé la totalité des frais d’intérêt en mai 2008. Je signale qu’il a déduit des frais d’intérêt dans ses déclarations de revenus relatives aux années 2007, 2008 et 2009.
+[20] L’affirmation de l’appelant selon laquelle il a payé à Mme Quan un montant à titre de frais d’intérêt a contredit son témoignage, à savoir que Mme Quan avait acheté avec lui la maison en rangée à titre de placement. Si le dépôt qu’elle avait fait à l’égard de la maison en rangée était son placement, je me demande alors pourquoi l’appelant aurait à lui payer des intérêts sur ce dépôt. Aucune explication n’a été donnée.
+Le crédit d’impôt non remboursable
+[21] J’ai conclu, à partir des documents que l’appelant a produits, qu’il avait subvenu aux besoins de sa conjointe actuelle en 2008 et 2009 et qu’il avait le droit de déduire des montants pour une conjointe à charge au cours de ces années-là.
+L’entreprise de réparation d’automobiles
+[22] L’appelant a déclaré qu’il avait lancé une entreprise de réparation d’automobiles en bordure de route en janvier ou en février 2009. Il n’avait aucun employé et il avait gagné entre 4 000 $ et 6 000 $. Il trouvait ses clients par le bouche à oreille. Il possédait quelques outils et en louait d’autres au besoin. Au début du mois de mars 2009, il s’est blessé à la main et il a fallu que ses amis le conduisent jusqu’à ses divers lieux de travail. Il a mis fin à son entreprise de réparation d’automobiles en 2009. L’appelant a déclaré à cet égard une perte d’entreprise de 5 116,59 $.
+[23] En ce qui concerne cette question, le témoignage de l’appelant a été vague, imprécis et peu convaincant. Il soutenait avoir engagé des dépenses professionnelles de 11 418,59 $, mais il lui a été impossible de produire un document quelconque à l’appui de cette prétention. L’appelant n’a pas établi qu’il avait une entreprise de réparation d’automobiles ou qu’il avait subi une perte d’entreprise de 5 116, 59 $ en 2009.
+[24] L’appel est accueilli et l’appelant a le droit de déduire des montants pour une conjointe à charge dans les années d’imposition 2008 et 2009.
+Signé à Halifax (Nouvelle-Écosse), ce 6e jour d’août 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 23e jour de septembre 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 244
+DOSSIER DE LA COUR No : 2012-1408(IT)I
+INTITULÉ : RICHARD BRADSHAW ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 10 mai 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 6 août 2013
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Bridge R. Bahadoor
+Avocat de l’intimée :
+Me Stephen Oakey
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le total des dépenses indiquées dans la déclaration de revenus de l’appelant pour 2008 s’élève en fait à 15 525,47 $.

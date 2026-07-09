@@ -1,0 +1,178 @@
+---
+title: "S.W. Underhill Trucking Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28207/index.do"
+last_modified: "2008-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 38"
+citation2: ""
+neutral_citation: "2007 TCC 38"
+decision_date: "2008-05-13"
+language: "en"
+item_id: "28207"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2021
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:13:25.847000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "27d157badb381f40d2b655852ad35ae3043eba3351be4a76c155c1d27f38b230"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# S.W. Underhill Trucking Ltd. v. M.N.R.
+
+- Citation: 2007 TCC 38
+- Decision date: 2008-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2021, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+S.W. Underhill Trucking Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-13
+Neutral citation
+2007 TCC 38
+File numbers
+2006-1969(CPP)
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-1970(EI)
+BETWEEN:
+S.W. UNDERHILL TRUCKING LTD.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 10, 2007 with the appeal of S.W. Underhill Trucking Ltd. (2006-1969(CPP)) and judgment rendered orally on January 11, 2007 at
+Fredericton, New Brunswick
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Peter Hyslop
+Counsel for the Respondent:
+Craig Silliker and
+Catherine McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Oral Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of January 2007.
+"Diane Campbell"
+Campbell J.
+Docket: 2006-1969(CPP)
+BETWEEN:
+S.W. UNDERHILL TRUCKING LTD.,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 10, 2007 with the appeal of S.W. Underhill Trucking Ltd. (2006-1970(EI)) and judgment rendered orally on January 11, 2007 at
+Fredericton, New Brunswick
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Peter Hyslop
+Counsel for the Respondent:
+Craig Silliker and
+Catherine McIntyre
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Oral Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of January 2007.
+"Diane Campbell"
+Campbell J.
+Citation: 2007TCC38
+Date: 20070118
+Dockets: 2006-1970(EI)
+2006-1969(CPP)
+BETWEEN:
+S.W. UNDERHILL TRUCKING LIMITED,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+ORAL REASONS FOR JUDGMENT
+(Delivered from the Bench on January 11, 2007
+at Fredericton, New Brunswick)
+Campbell J
+[1] Let the record show that I am delivering oral reasons in the matter of S. W. Underhill Trucking Ltd. There were two appeals, EI and CPP, both of which were heard together yesterday.
+[2] The Appellant was assessed for failure to remit Employment Insurance premiums and Canada Pension Plan contributions, together with interest and penalties, in respect to two workers, John Lever and Albert Wingfield, for the period January 1, 2003 through to December 31, 2004.
+[3] Although the Appellant was represented by legal counsel, Mr. Peter Hyslop, only Alton Shaw, the accountant to the Appellant corporation, was called to give evidence.
+[4] He testified that he acted in the capacity of comptroller to the Appellant, completing the banking, paying the accounts payable, signing cheques and generally keeping the corporate records.
+[5] The evidence that was presented focused on only one of the two workers, Albert Wingfield. Mr. Wingfield had been involved in a work relationship with the Appellant for a number of years, but in the fall of 2004, this changed when the Appellant was requested to put Mr. Wingfield on the corporate payroll with employee deductions to be made.
+[6] As I understand Mr. Shaw’s evidence, the Appellant entered into agreements with companies such as Day & Ross to provide equipment, including the trucks, together with the services of the drivers.
+[7] The workers here were the truck drivers. Mr. Wingfield submitted his miles to the Appellant and was paid on a per mile basis. Mr. Wingfield died in November of 2004.
+[8] Other than this very scant evidence, I was not provided with any concrete factual information which would have assisted me in deciding the very issue which is at the heart of these appeals.
+[9] The issue is simply whether the workers, and in particular Mr. Wingfield, were employees or independent contractors.
+[10] In this Court, the Minister is permitted to make Assumptions of Fact and an Appellant has the onus or burden of proof of overcoming or demolishing those assumptions. The proper approach by the Appellant’s counsel would have been the introduction of evidence to counter those assumptions for which the corporation did not agree.
+[11] In doing so, the four-in-one test factors established in the well known case of Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, that is control, tools, profit and risk, should have been addressed by introducing evidence in respect to these factors.
+[12] If a review of these relevant factors, in light of the evidence, provides no clear result, then a review of the parties’ intention must be considered by the Court and therefore evidence respecting intention may have assisted.
+[13] If the Appellant had presented sufficient evidence to overcome the Minister’s Assumptions of Fact, then I may have been persuaded that the Minister’s finding was incorrect and that the workers were in fact independent contractors and not employees throughout the period, with the result that the Appellant would no longer be liable to pay any of the assessed contributions, penalties or interest.
+[14] Instead, as I see it, the Appellant’s counsel came to play a hockey game but was equipped with a baseball bat. Although I provided Mr. Hyslop with ample opportunity to have a brief adjournment to get Mr. Underhill to court to give evidence, he did not see the need to have him here.
+[15] It was Mr. Underhill who could have provided me with the very details surrounding the terms and conditions of employment essential to making conclusions on this very issue. And even if Mr. Shaw could have provided some of this information, counsel never attempted to elicit these very facts from the accountant.
+[16] In addition, Mr. Lever, the second worker who is still living, may have provided insight into this work relationship.
+[17] If I understand legal counsel’s approach, he seemed to be arguing that the Appellant corporation has suffered unfairly because, although CRA had acknowledged that Mr. Wingfield was self-employed for a number of years prior to the assessment, because of CRA’s delays, the Appellant is left in a position of no recourse against the deceased Mr. Wingfield for his share of these employee deductions. He stated that the Appellant could still deal with Mr. Lever’s portion as he was still living.
+[18] As counsel phrased it, he requested that this Court apply, in his term, “old fashion justice”. First of all, this Court is not a Court of Equity. But that aside, counsel has completely missed the mark by conceding the issue himself when in his submissions and throughout the hearing, he stated that the Appellant did in fact acknowledge that Mr. Wingfield was an employee in this period and that the Appellant corporation would be responsible for the employer portion of these deductions.
+[19] I believe therefore that counsel was requesting me to absolve the Appellant from the employee portion of those deductions because CRA delayed in assessing the Appellant until after Mr. Wingfield died.
+[20] This misses the whole point and leaves my hands completely tied. I expect counsel that come before me to have at the very least a modicum of knowledge of the rules that pertain to this type of hearing.
+[21] Not having Mr. Underhill testify to the terms and conditions of the work relationship and not addressing the Assumptions of Fact contained in the Reply were startling and distressing choices which counsel made, and in doing so, those omissions resulted in a gap in the evidence that could have been supplemented and addressed.
+[22] By conceding that the worker was an employee, the very issue that was before me was effectively resolved for the Court at the outset.
+[23] The most unsettling observation, Mr. Hyslop, which I have is that if Mr. Underhill had come before me on behalf of his company, but unrepresented by legal counsel, there was a very good chance that I may have been able to come to the conclusion that the workers were in fact independent contractors and not employees throughout this period in question, thereby effectively eliminating the Appellant’s responsibility to pay any of the amounts assessed against it by the Minister.
+[24] It is most unfortunate that these appeals were handled in the manner they were, and unfortunately for this Appellant, I must dismiss both appeals.
+Signed at Ottawa, Canada, this 18th day of January 2007.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2007TCC38
+COURT FILE NOS.:
+2006-1970(EI)
+2006-1969(CPP)
+STYLE OF CAUSE:
+S.W. Underhill Trucking Limited and The Minister of National Revenue
+PLACE OF HEARING
+Fredericton, New Brunswick
+DATE OF HEARING
+January 10, 2007
+REASONS FOR JUDGMENT BY:
+the Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT
+January 11, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Peter Hyslop
+Counsel for the Respondent:
+Craig Silliker and
+Catherine McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,84 @@
+Title: Grenier v. Human Resources
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28288/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-561-28288-grenier-v-human-resources-en.md
+Document type: case_law
+Last modified: 2007-10-23
+
+# Grenier v. Human Resources
+
+- Citation: 2007 TCC 561
+- Decision date: 2007-10-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1872, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grenier v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-23
+Neutral citation
+2007 TCC 561
+File numbers
+2007-1631(OAS)
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Old Age Security Act
+Decision Content
+Citation: 2007TCC561
+Date: 20071023
+Docket: 2007-1631(OAS)
+BETWEEN:
+CLAUDE GRENIER,
+Appellant,
+and
+MINISTER OF HUMAN RESOURCES
+DEVELOPMENT,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on August 16, 2007, at
+Sherbrooke, Quebec and amended for clarification and precision.)
+Archambault J.
+[1] Claude Grenier is appealing from a decision rendered by the federal Department of Human Resources Development (Department). Notice of reference to the Tax Court of Canada given by the Office of the Commissioner of Review Tribunals, Canada Pension Plan/Old Age Security. The Court heard Mr. Grenier's appeal regarding the determination of income carried out by the Department for the purposes of calculating the guaranteed income supplement, which resulted in a $110 overpayment granted as such supplement under the Old Age Security Act of Canada (Act).
+[2] The evidence showed that Mr. Grenier, who turned 65 in 2004, retired that year from his job at the Village québécois d'Antan, in Drummondville. First, he produced an application for the guaranteed income supplement in April 2005, claiming income of $20,617 for the base calendar year 2004 (Exhibit I-1). Then, Mr. Grenier realized he could make a choice under section 14 of the Act, which allowed him to use 2005 as base calendar year rather than 2004. He signed a new application for the supplement on July 22, 2005 (Exhibit I‑2). The advantage for him was that he had no employment income for 2005, and he did in 2004, in the amount of $7,065. For 2005, he estimated his income at $11,892 (($579 +$412) × 12), which, in my opinion, allowed him to receive a higher income supplement than if he had used 2004 as base calendar year.
+[3] When he submitted his annual renewal application for the guaranteed income supplement, in all likelihood in March 2006 (although 2005 is indicated in Exhibit I‑3), he declared income of $16,722[1] for 2005, a number that corresponds exactly to the income listed in his 2005 tax return, produced under Exhibit A‑2 .[2]
+[4] Knowing the actual income Mr. Grenier earned in 2005, the Minister amended the amount of the guaranteed income supplement in accordance with section 18 of the Act, which provides for such a modification when there is a discrepancy between the actual income (in this case, $16,722 earned in 2005, the base calendar year following the choice made under section 14 of the Act) and the income Mr. Grenier estimated (which was $11,892). As a result of this amendment, there was an overpayment of $110 by the Department to Mr. Grenier.
+[5] As a ground for his challenge, in his Notice of Appeal, Mr. Grenier stated discrimination towards elderly persons with low incomes, because unrealistic and unnecessary constraints are placed upon them. At the beginning of the hearing, Mr. Grenier stated he was disregarding this argument and was instead claiming that section 14 conflicted with section 18 of the Act, in his opinion.
+[6] First, he claimed that the Department could have made an error using the numbers from base calendar year 2004, as they appeared in Exhibit I‑1. However, I have no evidence showing the numbers used by the Department were not those found in Exhibits I‑2 and I‑3 (applications to renew the guaranteed income supplement) and as a result, the adjustment was carried out in accordance with section 18 of the Act, in my opinion. This section specifically provides for the possibility of such an adjustment when there is a discrepancy between the amount estimated under section 14 and the actual amount earned as calculated under the Income Tax Act (considering the restriction stated in the definition of "income" at section 2 of the Act).
+[7] In this case, there was a discrepancy. I have no reason to modify the calculation of income made by the Department. Moreover, Mr. Grenier admitted all the facts stated in paragraph 16 of the Reply to the Notice of Appeal. The numbers indicated there correspond not only to those in the application to renew the guaranteed income supplement produced under Exhibit I-3, but also to those in his tax return for 2003, which was produced under Exhibit A‑2.
+[8] Mr. Grenier's argument based on sections 14 and 18 of the Act is not valid. In my opinion, he was mistaken as to the scope of these sections. For these reasons, the Court dismisses Mr. Grenier's appeal.
+Signed at Montréal, Quebec, this 23rd day of October 2007.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 7th day of November 2007
+Elizabeth Tan, Translator
+CITATION: 2007TCC561
+COURT FILE NO.: 2007-1631(OAS)
+STYLE OF CAUSE: CLAUDE GRENIER v. THE MINISTER OF HUMAN RESOURCES DEVELOPMENT
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: August 16, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: August 27, 2007
+DATE OF REASONS
+FOR JUDGMENT: October 23, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie‑Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Not $20,617, as I stated when I pronouned these reasons orally.
+[2] Exclusion of the old-age security benefits of $5,706.63 and the guaranteed income supplement of $542.28.

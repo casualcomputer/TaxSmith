@@ -1,0 +1,288 @@
+Title: Vitek v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27906/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-338-27906-vitek-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-05-25
+
+# Vitek v. M.N.R.
+
+- Citation: 2005 TCC 338
+- Decision date: 2005-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1754, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vitek v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-25
+Neutral citation
+2005 TCC 338
+File numbers
+2004-495(EI)
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-495(EI)
+BETWEEN:
+VITEK WINCZA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+PATRICIA BIRCH, LAUREN CHO, KATE DAVIES, SU DING, PATRICIA DYDNANSKY, ROLAND FIX, MARTA GREDA‑-KICEK, ROBERT HORVATH, JANINE HUNT, LEONID KARAN, KATERINA KOLBAS, TOMISLAV LAVOIE, WARREN NICHOLSON, ELIZABETH PICKETT, MICHELE RICCI,
+Intervenors.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Vitek Wincza,
+(2004-496(CPP)) at Hamilton, Ontario, on April 4, 2005
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brent Cuddy
+Agent for the Intervenors:
+Vitek Wincza
+____________________________________________________________________JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of May, 2005.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2004-496(CPP)
+BETWEEN:
+VITEK WINCZA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LAUREN CHO, KATE DAVIES, SU DING,
+PATRICIA DYDNANSKY, ROLAND FIX, MARTA GREDA‑-KICEK, ROBERT HORVATH, JANINE HUNT, LEONID KARAN, KATERINA KOLBAS, TOMISLAV LAVOIE, WARREN NICHOLSON, ELIZABETH PICKETT, MICHELE RICCI,
+Intervenors.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Vitek Wincza,
+(2004-495(EI)) at London, Ontario, on April 4, 2005
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brent Cuddy
+Agent for the Intervenors:
+Vitek Wincza
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of May, 2005.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2005TCC338
+Date: 20050525
+Dockets: 2004-495(EI)
+2004-496(CPP)
+BETWEEN:
+VITEK WINCZA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+PATRICIA BIRCH, LAUREN CHO, KATE DAVIES, SU DING, PATRICIA DYDNANSKY, ROLAND FIX, MARTA GREDA‑-KICEK, ROBERT HORVATH, JANINE HUNT, LEONID KARAN, KATERINA KOLBAS, TOMISLAV LAVOIE, WARREN NICHOLSON, ELIZABETH PICKETT, MICHELE RICCI,
+Intervenors.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The issue in these appeals is whether in the period January 1, 2002 to April 29, 2003, Patricia Birch, Lauren Cho, Kate Davies, Su Ding, Patricia Dydnansky, Roland Fix, Marta Greda-Kicek, Robert Horvath, Janine Hunt, Leonid Karan, Katerina Kolbas, Tomislav Lavoie, Warren Nicholson, Elizabeth Pickett, Michele Ricci, (together the "Workers" or "teachers"), were engaged in insurable employment pursuant to paragraph 5(1)(a) of the Employment Insurance Act and in pensionable employment pursuant to subsection 6(1) of the Canada Pension Plan, in their relationships with the Appellant. The list of Workers appended to the Reply to the Notice of Appeal indicates that Patricia Birch's situation relates only to Employment Insurance.
+[2] The Minister of National Revenue (the "Minister") determined that the Workers were engaged in insurable employment and pensionable employment on the basis that they were hired under contracts of service as opposed to contracts for services (independent contractors) and assessed the Appellant accordingly.
+[3] This issue comes before this Court frequently and, as is well known, has generally been resolved on the basis of a four-fold test. The tests are:
+(1) control,
+(2) ownership of tools,
+(3) chance of profit and risk of loss,
+(4) the integration test.
+[4] In my opinion the following are the most important facts in the determination of the issue in question:
+1. The Appellant owns and is the Artistic Director of the Hamilton Conservatory for the Arts ("the Conservatory"), a building in the City of Hamilton which he acquired in 1997 and which was the former Royal Conservatory of Music.
+2. The Conservatory in the period in question offered the opportunity for students to register for private lessons or group classes in various types of dance, voice and musical instruments. The Conservatory is open to all members of society. Programs are offered for all ages from 3 to 93. The Workers were hired as teachers to provide their professional expertise in teaching students at the Conservatory. The staff of the Conservatory handled all administrative matters including registration of the students and established a certain Code of Conduct for students while attending the Conservatory.
+3. Practically all lessons given by the Workers were given at the Conservatory. The Workers established all their own rates of pay and hours of work with the students. The payments were collected by the Conservatory staff from the students on the basis of invoices which the Workers submitted to the Conservatory.
+4. The Conservatory charged each Worker $10.00 per a one hour lesson of a student; $4.00 from this $10.00 was retained to cover certain services of the Conservatory and its staff and $6.00 was retained by the Conservatory as income. For example if the student paid $40.00 per hour, the Conservatory, after receiving the relevant invoice would retain $10.00 and remit the remaining $30.00 to the Worker.
+5. In addition to the payment of the Workers' rates, students paid a $25.00 registration fee. This registration fee covered insurance and other administrative expenses, printing of newsletters, use of the Recital Hall and parking. The insurance was to protect the Workers against liability should a student be injured.
+6. The Conservatory provided no employee benefits nor holiday pay.
+7. The teachers paid for their own personal advertising designed to attract students. In addition to the personal advertising by the teachers the Conservatory put out a flyer stating the experience and talents of the various teachers. That flyer is filed as Exhibit R-1.
+[5] The Appellant pointed out that the Letter of Understanding ("Letter"), a sample of which was filed as Exhibit A-1, was worked out between the Appellant and the Workers, without professional advice. The Appellant attempted to explain that this is the reason why some of the provisions of the Letter were inadequate in attempting to make it clear that the contract between the parties was that of an independent contractor. The Letter refers to the Conservatory as HCA, meaning Hamilton Conservatory for the Arts. The Letter reads substantially as follows:
+Letter of Understanding
+Between
+The Hamilton Conservatory for the Arts
+And
+_______________________________
+Teacher
+For the Academic Year September 1, 20 ___ to June 30, 20 ___
+I, _____________________________, being a self-employed professional music teacher, undertake an association with the HCA under the terms and conditions following:
+1. In all my professional dealings as a musician and teacher with the HCA, the well being of each student and HCA will take precedence.
+2. In principle, I will adhere to the policies and practices of HCA as outlined in the current Handbook for Teachers, and which may be announced from time to time, and will be guided by the direction and advice of the Artistic Director Vitek Wincza or his designate. I will also adhere to the Registration & Invoicing Policies/Procedures HCA has outlined.
+3. I agree that I am free to choose my own professional fees for private lessons in consultation with the HCA Artistic Director, Vitek Wincza. We have agreed upon the rate of _____________ per 1/2 hour of private instruction (longer lessons to be calculated on that basis) to be paid to the Hamilton Conservatory for the Arts by the student. $10.00 per teaching hour will be retained by the Conservatory, resulting in my being paid _______________ per teaching hour. I understand this fee must be applied to ALL students assigned to me. My attendance sheet(s) will be left in my personal slot at all times, as they are the property of the HCA.
+4. I understand that I am to begin teaching a student only after I have received a confirmation slip from HCA administration and I have signed it and returned it to HCA administration.
+5. I understand that any cancelled lessons are to be made up within 30 days. I understand that I must inform HCA administration of the agreed (teacher/student) date and time of the make-up lesson and in return, administration will schedule a room for the lesson to take place. No make-up lesson will be allowed without the HCA being notified in advance.
+6. I understand that in case of an emergency (ex. snow storm) and there is a cancellation of lessons, it is the responsibility of HCA to phone any students to advise them of the cancellation. HCA will also be responsible for scheduling a convenient time, day, and studio for the make-up lesson to take place.
+7. I understand that students (and their parents) registered with HCA who were not my students before I became a member of the faculty and who come to me as a result of advertising and promotion by the Conservatory, are its clients/customers and are therefore students of the Conservatory. In respect of this formal relationship, I agree that I will not offer HCA students to study with me outside the Conservatory, either during my tenure as a teacher for the HCA or for a period of two years after the termination of my tenure as an HCA teacher.
+8. I understand that during my employment with the Hamilton Conservatory for the Arts, I will teach those students appointed to me by the HCA at the Conservatory only. No lessons will be taken elsewhere (ex. in my home). If HCA is notified that lessons are being taken other than at the Conservatory, HCA has the right to immediately terminate this agreement, and the students appointed to me will be placed by HCA to other teachers.
+9. I understand that the first 15-minute consultation with a new student, which is always held at the Conservatory, will not be subject to any fees. I agree that I will not invoice the HCA for this consultation.
+10. I agree to submit my available teaching schedule to HCA so they may register students. It is the responsibility of HCA to allocate studio space and equipment, and, in consultation with the teacher, to schedule lesson times. HCA agrees to consult teachers in advance of any decisions taken which will affect teaching arrangements made under this agreement.
+11. I agree that after HCA has left a message or had a conversation concerning the possibility of scheduling a student with me and there has been no response made by me to HCA in 24 hours, HCA may call another teacher for this student.
+12. I understand that I should have an appropriate method of receiving messages (answering machine, fax, etc) for HCA to contact me. If not, HCA may immediately phone another teacher for the student.
+13. I agree to be expected to maintain a student body of 75% of all students appointed to me. I understand that there will be follow up calls directed to cancelling students to find out the reasons for their cancellation. This is to help improve HCA services.
+14. I understand that when using HCA premises, equipment, and teaching facilities, it is my responsibility to ensure 1) proper and adequate security against loss, theft, or damage of HCA property and 2) as much as lies within my power, to ensure the safety of individuals while on the premises.
+15. I understand that the use of HCA facilities and equipment is normally restricted to members of the teaching faculty, and HCA registered student (along with parents or musical associates such as accompanists and ensemble partners). I will admit others to the building ONLY with the prior approval of the Artistic Director, Vitek Wincza, or his designate.
+16. HCA agrees to provide and maintain a reception and accounting office to assist in communication with students and parents and also with the bookkeeping necessary for each teacher/student relationship. In addition, HCA will provide leadership in developing group programs, recitals, workshops, and other activities. HCA will also work in cooperation with teachers, to undertake public elation/marketing efforts to further enhance the stature and reputation of the Conservatory, its teachers and students.
+17. I understand that as a faculty member/staff teacher, I agree to attend 3 quarterly department meetings per teaching year.
+18. I understand that each student must have a performance class for their families after every (12 – week) session of instruction. I also acknowledge that I will appoint one (1) or more students to join in the celebration days held at the HCA with all of the departments of the Conservatory.
+19. I authorize HCA to use my name, academic and professional qualifications, photographs (as approved by me), and other relevant details from my biographical file in any communication or promotional material related to HCA programs and activities.
+20. Both parties shall honour the terms and conditions expressed in this Letter of Understanding for the full period covered therein. However, this agreement may be terminated by either party for reasonable and just cause upon thirty (30) days notice in writing. In this event, HCA retains the right and responsibility to make alternative lesson arrangements for the students of the departing teacher.
+[6] The testimony of the Appellant and of the three Workers who testified made it clear that the intention between them, notwithstanding any of the provisions in the Letter, was that the relationship between the Appellant and a Worker was that of an independent contractor.
+[7] Counsel for the Minister, in cross-examination of the Appellant referred to the Letter and the following summarizes Counsel's principal questions and the answers thereto of the Appellant in this regard. Counsel quoted paragraph 7 of the Letter (see above) and referred to other paragraphs of the Letter, then the following exchanges, inter alia, took place:
+Q. I'm just wondering, you have indicated that this is -- this letter is a statement of your relationship and the evidence you have given us today about your relationship tells us that there is something different there. So I'm wondering if you could explain that.
+A. Okay.
+Again, because we made a, and I wish we could have a little bit more professional help and this is a lesson to learn, this was indicated to the students. Let's say the teacher moves to Nova Scotia and we have twenty students left and the students would like to continue the class at the Conservatory, then we assign, if we need a new teacher to replace the teacher, we will indicate -- we will create a relationship with that new teacher and in this situation the teacher will provide the service.
+But there were other people who brought those teachers -- the students into the Conservatory. So that relates to that particular situation. That if the teacher leaves for the reasons or something and leaves twenty students, the teacher -- the hired teacher for the services, the independent contractor for the services cannot just come and work for one week and take those twenty students with them.
+Q. Well, that statement doesn't say that though, does it? It says that the students are the Conservatory's students and the teachers can't take them with them.
+A. For that particular situation.
+Q. Now the students come to the Conservatory because of the advertising that's sent out in the community.
+A. For several reasons. We do have activities in an education and we are very involved in education. We have over 300 schools participating in the Conservatory offering the art classes, and teachers teach -- Conservatory teachers are hired to do some programmes in Conservatory and outside Conservatory and many times word goes around. But basically, through the teachers' activities beyond a private teaching and also the website and also what the Conservatory stands for it. So you can see quite often in the media the programmes we offer and concerts we offer.
+So we establish already quite reputable, over the seven or eight years, quite a reputation and that attracts people to be. And again what stipulates our relationships, our Code of Conduct and the way we operate the classes through the letter of understanding, it pays off in the long run.
+Q. So you are saying that some of the students you get will be through programmes that your teachers run in schools?
+A. At schools outside.
+Q. So they are going out there and they're saying that "We work at the Hamilton Conservatory for the Arts", and then that will draw...
+A. In some cases, yes.
+Q. So that will draw students in. So when they're going out in the community they are saying "We are with the Conservatory for the Arts".
+...
+Q. But you do advertising as well in the community?
+A. Yes. That's a letter advertising. I mean we have our brochure once a year. We print a Conservatory prospectus which outlines all the programmes we have and we distribute them throughout the community.
+Q. And you have your website as well?
+A. That's right.
+Q. And the students are registered through the Conservatory.
+A. Yes, for the insurance purpose.
+Q. So the Conservatory carries the insurance?
+A. Yes. $25.00 registration fee paid by the student carries the insurance for the teachers. So in case there is legal problems, if the student fell from the stairs, they are insured.
+Q. And the students pay their tuition through –
+A. On top of it.
+Q. -- through the Conservatory. So they will pay the Conservatory and then the Conservatory will –
+A. On behalf of the teachers. The Conservatory administration team arrange all the whole operation, the financial operation, for the teachers on behalf of the teachers.
+Q. So the Conservatory runs all the financial aspects of things.
+A. Well, runs, yeah, administration on behalf of the teacher.
+Q. So the student would pay the Conservatory and then the Conservatory would pay the teacher?
+A. That's right.
+Q. And this was the relationship that the Conservatory had with all its teachers?
+A. Yes.
+...
+Q. I guess I'm asking what happened in the period from we're looking at January 1st, 2002 to April 29th, 2003 when say the academic year ended in June of 2002 and started again in September of 2002, would a new letter be signed in 2002?
+A. Not necessarily. It depends.
+Q. But the agreement would continue? The understanding of the terms would continue?
+A. Yes. Well, if, for example now we are in the process of establishing -- I mean there's a lot of corrections there we realize right now, but it's not that we didn't comply with it. We want to comply with the basic principle that the teacher was self-employed.
+...
+Q. Now at paragraph 3 it does say that the worker would choose their fee in consultation with yourself. So they would discuss this with you in terms of what?
+A. Sometimes teachers -- sometimes teachers, especially new teachers coming from Toronto or other places, don't know what's going rate because again, as I mentioned in my statement, there was one teacher who charged $60.00 and couldn't have students for two years. And so in some cases the Conservatory helps them to tell them what's the market. Obviously Toronto will have different rates. Oakville will have different rates and Hamilton will have different rates. Not knowing those rates, sitting on the rates, the Toronto rates, the teacher may lose the income, not knowing the market and the value of the lessons.
+But at the bottom line we may suggest it to them, but they are the ones who finalize the rate, what they want to negotiate in.
+...
+Q. I'm just looking at paragraph 8 of Exhibit A-1 and I read there:
+"I understand that during my employment with Hamilton Conservatory for the Arts I will teach those students appointed to me by the HCA..."
+So there are a couple of points here.
+"...at the Conservatory only. No lessons will be taken elsewhere, for example in my home."
+And it goes on to say that:
+"If HCA is notified that lessons are being taken other than at the Conservatory, HCA has the right to immediately terminate this agreement and the students appointed to me will be placed with..."
+A. Yes. That is another fine line. This applies -- as I said, if there is a rule and the teacher is available to teach the particular classes, well, we would like to see that class continue because there is a student which is there. But if it's only one class, one half-hour class and the teacher has to come from far to teach half-hour, it will take them one-and-a-half hour to get to the Conservatory, obviously we are staying out of rule and we acknowledge that.
+But if there is three teachers available to teach at the Conservatory and offer services to the Conservatory and there is a possibility to have that student at the Conservatory, the student should be taught at the Conservatory and nowhere else.
+Q. You are saying it's a fine line. That paragraph doesn't read like a really fine line.
+A. Yeah. I wish to take the law in my past but I am principally an artist and we are making mistakes in not clarifying. But we are –
+Q. I am just thinking these points, in terms of who the students belong to, where they can be taught and who they are appointed to, the particular teacher, these are fairly important points. And you are saying that it's not always the case; but you are also saying that the workers collectively came up with this agreement.
+So I'm assuming that you would agree with me that these are points that would be very important to the workers in terms of who owns the students, and the fact that where they can teach and this sort of thing. And it certainly reads that these are the Conservatory students.
+A. They are not Conservatory students.
+Q. So even though it says that, even though everyone came up with this agreement, according to your evidence –
+A. It's a co-op. It's a co-op at the Conservatory. And at the time when the services -- the co-op, it protects their own because if one teacher decides to teach somewhere else that other teacher protects their income, being available to teach.
+Q. Now there is nothing in this agreement that speaks to -- the word "cooperative" is never used in terms of describing the relationship between the teachers and the Conservatory.
+A. It's in the process.
+Q. I'm sorry?
+A. It's in the process as we are learning through this and, as I said, we will be still improving our relationship and making more clear it complies with the rules and regulations of the government.
+Q. In this document that refers to the time period that we're talking about, there's no discussion about any cooperative relationship that was in Exhibit A-1.
+A. Yes and no. In a general sense. It depends how you read it.
+Q. Nowhere does it describe the Conservatory as a cooperative, does it?
+A. No, I can't see it.
+Q. And if a teacher ceased working at the Conservatory for whatever reason, there is a two year -- basically a two year non-competition period where they couldn't teach the students that they once taught?
+A. Yes, they can teach. They can teach anywhere they...
+Q. Well, the students I'm asking. They couldn't teach students that belonged to the Conservatory for a two year period after they left.
+A. If they belong to the co-op. If there are teachers in the co-op who can offer the same services and a teacher is leaving the Conservatory, they should be part of the co-op and be assigned to the co-op teachers. If they are not, they can take them.
+Q. What I am reading here in paragraph 7 is it's basically a non-competitive agreement, that the teacher won't take any students with them from the Conservatory for two years.
+A. Well, where that refers? Can you...
+Q. Paragraph 7, the last sentence:
+"In respect of this formal relationship I agree that I will not offer HCA students to study with me outside the Conservatory either during my tenure as a teacher for the HCA or for a period of two years after the termination of my tenure as a HCA teacher."
+A. Yes, that applies to -- that is to protect the co-op for their benefit. Because there is choices you make. If you have four teachers and you are assigned a student you could assign to either of these or that one. And you just go on the rotation basis or whatever.
+But assigning a student to one of the teachers, it may hurt another teacher who was not assigned. So therefore if this teacher leaves the Conservatory, the student, if they wish, usually, as I said, usually a student goes with the teacher, but we have no control of that. We can't tell the student not to go and take the classes with that particular teacher. It is up to the student because they are the ones who engage.
+Q. Now when you were saying that the teachers own their own instruments, those are the instruments that the teachers would use; is that correct?
+A. Mm-hmm.
+Q. And the students would generally show up with their own instruments.
+A. With their own.
+Q. And that if there was a need for a large instrument at the facility, such as a piano or something like that for voice lessons or whatever, that would be provided?
+A. Yeah. There's those three I mentioned out of my hand, the harpsichord, organ and piano. It would be difficult for the teacher to bring each time to the Conservatory when they teach. So in this case it has become part of the agreement with the co-op that this will be part of the $10.00 service fee.
+Q. How many rooms are there in the Conservatory?
+A. There is 21 music rooms, private music rooms and six group -- six group larger rooms, and a recital hall.
+Q. You have said that some teachers would work eight to twelve hours a week, some teachers would work less.
+A. That is an average.
+Q. And you would set these rooms aside for the whole...
+A. Well, usually the teachers, as I've said before, they decorate their own, they create their own, like their own home, their own environment. Some like the green colour, some like a picture on it. So they will bring.
+These are the rooms which usually they will teach if available. But, if not, it was first come, first served. If that room -- that particular room is already taken by another teacher, because some rooms are used by two or three teachers and some rooms are used by one teacher. So if there is available, they will still continue teaching in that room and that will usually happen. But, if not, they will choose their own room, if it's available. It's on a first come available basis.
+Q. So there is no actual lease or rental agreement.
+A. That's right.
+Q. There wasn't one.
+A. No. This is all part of that.
+...
+[8] The Conservatory provided its building for purposes of the lessons. However, the testimony of the Appellant was that the Workers in many cases chose their own rooms and actually painted and decorated them to their own liking. The Conservatory also supplied the major instruments of piano, organ and harpsichord. The principal item here was the piano. The other instruments were not used frequently. All other instruments, papers, materials were supplied by the Workers and in some cases students have their own instruments.
+[9] With respect to control, the Appellant exercised very little control over the work of the Workers. The Workers fixed their own rates and hours with the students. They invoiced the Conservatory. The input of the Appellant was principally from an administrative point of view, handling registrations, running the Conservatory, providing the rooms for the lessons in the Conservatory, collecting the teachers pay on behalf of the teachers from the students and deducting the $10.00 fee mentioned above and remitting the balance to the teachers at the periods of time chosen by the teacher. The Letter contemplates certain aspects of control but not that stringent. The Appellant and the Workers testified that the Letter was not to alter the independent contractor relationship. Also the Letter refers to the Worker as a "self-employed" professional who undertakes an "association" with the Conservatory. Thus on balance the control test would appear to point to an independent contractor relationship as opposed to a contract of service.
+[10] With respect to tools, as mentioned, the Appellant owned the Conservatory and made that available to the Workers. However the Workers, in many cases, occupied their own rooms and decorated them. The Conservatory also owned the three major instruments, piano, organ and harpsichord. It was explained that this arose because it would be impossible for the teachers to bring these heavy instruments to the Conservatory. As to other tools consisting of instruments such as violins, cellos, flutes, guitars, saxophones and others (about 30 in all) and books, tapes and other materials, these were supplied by the teachers who owned 99% of the particular instruments and in some cases the students themselves brought their own instruments. Consequently the test of ownership of tools would appear to point in both directions (i.e. contract of service and/or contract for services or independent contractor.
+[11] With respect to the chance for profit, since the Workers fixed their own rates and hours they did have a chance for profit. In other words they were not on a fixed salary basis as would be usually the case with most employees. Here again this test points to a contract for services.
+[12] With respect to risk of loss I do not see how the Workers had any risk of loss other than that arising from the fact that if they failed to give the lesson they had contracted for, they would not be paid and thus suffer a loss. In my view the test of risk of loss would tend to point to a contract of service but that test is not that important in the overall context of the relationship.
+[13] As to integration, which is to be looked at from the point of view of the Worker, the evidence indicates that because of the advertising and the connections through the Conservatory and the works of administration for the teachers by the Conservatory I believe the integration test tends to point to a contract of service.
+[14] Because some tests point in one direction and others point in the opposite direction, it is important to give effect to the intention of the parties. Moreover although the basic understanding between the parties does not necessarily establish a presumption nor definitely determine the issue, it is a prime consideration. Specifically, see Wolfe v. Canada, [2002] 4 F.C. 396, (FCA) where Noël, J. stated as follows:
+...This was a case where the characterization placed by the parties on their relationship ought to be given great weight. In a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship could not be disregarded. As the parties considered that they were engaged in an independent contractor relationship and as they acted in a manner consistent with this relationship, it was not open to the Tax Court Judge to disregard their understanding.
+Analysis and Conclusion
+[15] I find firstly that the Minister did not consider all the factors or did not give sufficient importance to certain factors. With respect to all the tests, see my above comments.
+[16] I find secondly that the testimony of both the Appellant and the three Workers called to testify was entirely credible, an important consideration in cases of this nature.
+[17] What must be examined is the total relationship between the parties. Doing that in the context of the tests analyzed above, I conclude on a balance of probabilities that what existed were contracts for services, i.e. independent contractor relationships.
+[18] Consequently, the appeals are allowed and the decisions of the Minister are vacated.
+Signed at Ottawa, Canada, this 25th day of May, 2005.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC338
+COURT FILE NOS.:
+2004-495(EI) and 2004-496(CPP)
+STYLE OF CAUSE:
+Vitek Wincza v. MNR and
+Patricia Birch, Lauren Cho, Kate Davies, Su Ding, Patricia Dydnansky, Roland Fix, Marta Greda-Kicek, Robert Horvath, Janine Hunt, Leonid Karan, Katerina Kolbas, Tomislav Lavoie, Warren Nicholson, Elizabth Pickett, Michele Ricci
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+April 4, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+May 25, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brent Cuddy
+Agent for the Intervenors:
+Vitek Wincza
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

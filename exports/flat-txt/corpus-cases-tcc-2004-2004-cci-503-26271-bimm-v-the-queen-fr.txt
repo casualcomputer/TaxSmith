@@ -1,0 +1,139 @@
+Title: Bimm v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26271/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-503-26271-bimm-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-07-16
+
+# Bimm v. The Queen
+
+- Citation: 2004 CCI 503
+- Decision date: 2004-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4002, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bimm v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-16
+Référence neutre
+2004 CCI 503
+Numéro de dossier
+2003-3938(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3938(IT)I
+ENTRE :
+RICHARD BIMM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 5 juillet 2004.
+Devant : L'honorable L.M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Eric Sherbert
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont admis, sans que les dépens soient adjugés, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs de jugement ci-joints.
+Signé à Vancouver, Colombie-Britannique, ce 16e jour de juillet 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI503
+Date : 20040716
+Dossier : 2003-3938(IT)I
+ENTRE :
+RICHARD BIMM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Little
+A. Exposé des faits
+[1] L'appelant et Patricia Michelle Salter se sont mariés le 5 janvier 1980.
+[2] L'appelant et son épouse avaient deux enfants (les « enfants » ).
+[3] Il y a eu échec du mariage et l'appelant et Patricia Michelle Salter ont conclu un accord de séparation le 9 décembre 1993.
+[4] L'accord de séparation renferme la disposition suivante :
+[TRADUCTION] Richard Bimm versera chaque mois un montant de 1 000 $ au titre de la pension alimentaire pour enfants.
+[5] L'appelant et Patricia Michelle Salter ont divorcé conformément à un jugement de divorce prononcé le 16 mai 1995.
+[6] La requête en divorce prévoit le paiement d'un montant mensuel de 1 400 $ au titre de la pension alimentaire pour enfants. (La somme mensuelle de 1 400 $ devait être augmentée chaque année en fonction de l'indice du coût de la vie (le « CDV » )).
+[7] L'appelant a versé à son ex-épouse au profit des enfants le montant mensuel de 1 400 $ (plus les augmentations annuelles attribuables au CDV) conformément à la requête en divorce, ainsi que le montant mensuel de 1 000 $ stipulé dans l'accord de séparation. (Nota : L'appelant a témoigné avoir également versé des montants additionnels tels que les frais de scolarité exigés par un établissement privé et d'autres frais au profit des enfants.)
+[8] Le 4 octobre 2000, l'appelant et son ex-épouse ont signé un document qui a été appelé [TRADUCTION] « Définition et conditions relatives au soutien financier de l'accord de séparation et de divorce » (l' « accord concernant la pension alimentaire » ) (voir la pièce R-1, onglet 3).
+[9] L'accord concernant la pension alimentaire stipulait notamment ce qui suit :
+[TRADUCTION]
+a) Richard versera au titre de la pension alimentaire un montant de 1 000 $ le premier jour de chaque mois au profit [...] des enfants.
+b) Richard versera au titre de la pension alimentaire un montant de 1 400 $ le 15e jour de chaque mois au profit [...] des enfants. (Les montants susmentionnés sont ci-après appelés la pension alimentaire.)
+(Nota : L'appelant a témoigné qu'à la demande de son ex-épouse, il a parfois versé la pension alimentaire à des tiers - par exemple en vue de payer certaines dépenses engagées au profit des enfants.)
+[10] L'appelant a témoigné avoir toujours versé toute la pension alimentaire à son ex-épouse au profit des enfants comme le prévoit l'accord concernant la pension alimentaire.
+[11] Lorsque l'appelant a produit ses déclarations de revenu pour les années d'imposition 1994 à 1999, il a demandé et a été autorisé à déduire la pension alimentaire qu'il avait versée à son ex-épouse au profit des enfants.
+[12] Lorsque l'appelant a produit ses déclarations de revenu pour les années d'imposition 2000 et 2001, il a déduit la pension alimentaire comme suit :
+2000 31 407,25 $
+2001 30 664,00 $
+[13] Le ministre du Revenu national (le « ministre » ) a délivré plusieurs avis de nouvelle cotisation.
+[14] Dans l'avis de nouvelle cotisation qui a été délivré le 15 août 2003 pour l'année d'imposition 2000, le ministre a autorisé l'appelant à déduire la pension alimentaire, qui s'élevait à 14 033 $.
+[15] Dans l'avis de nouvelle cotisation qui a été délivré le 6 mars 2003 pour l'année d'imposition 2001, le ministre n'a pas autorisé l'appelant à déduire la pension alimentaire.
+B. Points litigieux
+[16] L'appelant a-t-il le droit de déduire la pension alimentaire suivante?
+Année d'imposition 2000 31 407,25 $
+Année d'imposition 2001 30 664,00 $
+C. Analyse
+[17] L'appelant a affirmé que l'accord de séparation et le jugement de divorce devaient être considérés ensemble quant à leur objet et à leur esprit. Selon lui, les documents indiquent qu'il a respecté les conditions financières de l'accord de séparation et du jugement de divorce dans les années d'imposition 2000 et 2001. Il maintient en outre que l'accord concernant la pension alimentaire ne prévoyait pas de changements dans les obligations financières qu'il avait envers les enfants en ce qui concerne la pension alimentaire. En d'autres termes, l'appelant croyait qu'il était obligé de continuer à effectuer les paiements prévus par l'accord de séparation et les paiements prévus par le jugement de divorce.
+[18] L'avocat de l'intimée a fait valoir que l'accord concernant la pension alimentaire constituait une modification et que la pension alimentaire que l'appelant avait versée n'était pas une pension alimentaire au sens de l'article 60.1 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[19] J'ai minutieusement examiné les documents qui ont été produits devant la Cour et la preuve présentée à la Cour et j'ai conclu que l'accord concernant la pension alimentaire daté du 4 octobre 2000 (pièce R-1, onglet 3) ne constituait pas un nouvel accord de séparation ou un accord de séparation modifié. L'accord de séparation précisait clairement que l'appelant était tenu de payer le montant de 1 000 $ à son ex-épouse au profit des enfants. Le jugement de divorce précisait clairement que l'appelant était tenu de payer la somme mensuelle de 1 400 $ (plus les augmentations annuelles attribuables au CDV) au profit des enfants. Les paiements mentionnés dans l'accord concernant la pension alimentaire ne changeaient rien à ces obligations financières.
+[20] Il s'ensuit donc que l'accord concernant la pension alimentaire n'établissait pas ou ne créait pas de date d'exécution telle que cette expression est définie au paragraphe 56.1(4) de la Loi.
+[21] J'ai conclu que l'appelant peut à bon droit déduire la pension alimentaire pour enfants comme suit :
+Année d'imposition 2000 31 407,25 $
+Année d'imposition 2001 30 664,00 $
+[22] Les appels sont admis sans que les dépens soient adjugés et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément à ces motifs de jugement.
+Signé à Vancouver (Colombie-Britannique), ce 16e jour de juillet 2004.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI503
+No DU DOSSIER DE LA COUR :
+2003-3938(IT)I
+INTITULÉ :
+Richard Bimm et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 5 juillet 2004
+MOTIFS DU JUGEMENT :
+L'honorable L.M. Little
+DATE DU JUGEMENT :
+Le 16 juin 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Eric Sherbert
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

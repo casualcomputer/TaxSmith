@@ -1,0 +1,100 @@
+Title: 492581 Ontario Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27412/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-45-27412-492581-ontario-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-04-12
+
+# 492581 Ontario Limited v. The Queen
+
+- Citation: 2005 CCI 45
+- Decision date: 2005-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 234, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+492581 Ontario Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-12
+Référence neutre
+2005 CCI 45
+Numéro de dossier
+2004-2122(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI45
+Date : 20050412
+Dossier : 2004-2122(IT)I
+ENTRE :
+492581 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Représentant de l'appelant : George Vandenberg
+Avocat de l'intimée : Me Jonathon Penney
+___________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Toronto (Ontario), le 28 octobre 2004.)
+Le juge Bowie
+[1] Il s'agit d'appels interjetés à l'égard de cotisations d'impôt établies pour les années d'imposition 1998, 1999, 2000, 2001 et 2002. L'appelante soutient qu'elle a droit à une déduction de 213 206 $ au titre d'une créance estimée irrécouvrable en 2001. De plus, elle affirme que cette charge a donné lieu à une perte autre qu'en capital de 140 374 $ pour 2001, et qu'elle a le droit de reporter la perte en arrière sur les années 1998, 1999 et 2000, et de la reporter en avant sur l'année 2002. Les appels pour les autres années dépendent donc du résultat de l'appel pour 2001. De plus, l'appelante soutient que si elle n'a pas le droit de déduire le montant de 213 206 $ comme une charge en vertu de l'alinéa 20(1)p) de la Loi, alors elle a le droit de traiter le montant comme une perte au titre d'un placement d'entreprise donnant droit à une déduction pour une perte déductible au titre d'un placement d'entreprise.
+[2] Le prêt initial a été consenti à 865628 Ontario Ltd. ( « 865 » ) par l'appelante et une autre société à numéro, qui appartiennent toutes les deux en propriété exclusive à M. Azman. Par la suite, l'appelante a acquis la créance de l'autre société à numéro, 253687 ( « 253 » ), en payant en espèces. Ainsi, en 2001, soit l'année où la créance irrécouvrable est supposément déductible, l'appelante possédait la totalité de la créance. M. Azman a indiqué dans son témoignage que la créance était de 250 000 $; et une radiation de 213 206 $ a été demandée.
+[3] Si uncontribuable dont l'entreprise ne consiste pas à prêter de l'argent veut avoir le droit de radier une créance, il faut que cette créance soit visée par l'alinéa 20(1)p) de la Loi. Cet alinéa permet la radiation de créances du contribuable qu'il a établies comme étant devenues irrécouvrables au cours de l'année, et qui sont incluses dans le calcul du revenu du contribuable pour l'année ou pour une année d'imposition antérieure. L'entreprise de l'appelante ne consiste pas à prêter de l'argent.
+[4] Autrement dit, si un contribuable exploite une entreprise commerciale et vend des biens à crédit, qu'il inclut le prix de vente dans son revenu et qu'il est par la suite incapable de recouvrer la créance, il a alors le droit de déduire le montant impayé. Ce qui s'est produit ici est un prêt intersociétés. Le montant en question n'a jamais été inclus dans le revenu de la société créditrice. L'appelante a prêté le montant à une société liée. Cette dernière ne l'a pas remboursée, et l'appelante affirme qu'elle peut radier le montant en tant que créance irrécouvrable. Le montant n'est pas admissible parce qu'il n'a jamais auparavant été inclus dans le revenu.
+[5] D'ailleurs, l'appel serait rejeté de toute façon parce que l'appelante n'a pas établi que la créance est irrécouvrable. M. Azman a indiqué dans son témoignage que la société de l'appelante avait prêté cet argent à 865 pour que celle-ci puisse constituer une coentreprise avec deux particuliers en vue d'acquérir un terrain de station-service qui appartenait auparavant à Petro-Canada et de le réaménager. M. Azman a dit que le bien, au moment de son acquisition, devait en principe être nettoyé et non contaminé d'un point de vue environnemental. Le bien a été acheté sur cette base. M. Azman a donné peu de précisions, mais une chose est claire : après la conclusion de la transaction, il est devenu évident que le bien n'avait pas été complètement nettoyé. En tant qu'ancien emplacement de station-service, le terrain a subi un certain niveau de contamination, et les coûts de nettoyage supplémentaires requis, selon le témoignage de M. Azman, étaient estimés à 450 000 $.
+[6] 253 et probablement les particuliers participant dans la coentreprise, ont intenté une action en justice contre Petro-Canada devant la Cour suprême de l'Ontario, mais ils n'ont pas eu gain de cause. Je n'ai pas reçu de copie de ce jugement ni des motifs de celui-ci comme élément de preuve, mais M. Azman a témoigné, et je n'ai aucune raison de ne pas le croire, que dans sa décision, le juge Campbell de la Cour suprême de l'Ontario a indiqué que le bien avait une valeur de 1,5 M$. Le bien aurait donc une valeur résiduelle considérable, même si on tient compte des fonds nécessaires pour effectuer le nettoyage. Selon M. Azman, c'est la raison pour laquelle l'action a été rejetée.
+[7] M. Azman a indiqué dans son témoignage que le bien est encore là et qu'il est assujetti à un privilège fiscal de 500 000 $ par la Ville de London. S'il en coûte 450 000 $ pour nettoyer le bien et 500 000 $ pour acquitter l'impôt foncier impayé, le bien a encore une valeur de 550 000 $, ce qui est plus de deux fois le montant de la créance que l'appelante veut radier. Je n'ai aucune indication que 865 ou le bien sont assujettis à tout autre privilège, créance ou revendication.
+[8] Il incombe au contribuable d'établir que la créance qu'il veut radier est en fait une créance irrécouvrable. Pour appuyer la cotisation qu'il a établie à l'égard de l'appelante, le ministre a fait valoir ce qui suit à l'alinéa 10f) de la réponse :
+[TRADUCTION]
+L'appelante n'a pas contracté une créance estimée irrécouvrable de 213 206 $ pendant l'année d'imposition 2001.
+Il revenait à l'appelante de prouver que la créance était vraiment irrécouvrable. Le seul élément de preuve à ce sujet tend à montrer que 865 est en fait solvable, ou était solvable à ce moment-là.
+[9] L'avis d'appel indique à titre subsidiaire ce qui suit, et je cite le paragraphe 8 :
+[TRADUCTION]
+[...] l'appelante devrait avoir le droit de déduire le montant en tant que perte déductible au titre d'un placement d'entreprise.
+Aucun argument ne m'a été présenté à ce sujet, et la demande n'a pas été expressément abandonnée. Toutefois, l'alinéa 39(1)b) indique clairement qu'il peut y avoir une perte déductible au titre d'un placement d'entreprise si une créance du contribuable sur une société privée sous contrôle canadien perd toute sa valeur, mais la disposition ne peut pas s'appliquer si la créance lie deux sociétés ayant un lien de dépendance, ce qui est le cas ici. M. Azman est propriétaire de la société débitrice et de la société créditrice. L'alinéa 39(1)b), comme l'alinéa 20(1)p), exige également que l'appelante établisse qu'il s'agit en fait d'une créance irrécouvrable.
+[10] L'appel pour l'année 2001 est rejeté parce que l'appelante n'a pas établi que la créance était une créance irrécouvrable. L'appel ne peut pas non plus tomber sous le coup de l'alinéa 20(1)p) ou du paragraphe 39(1) pour les motifs que j'ai indiqués. Les appels relatifs aux autres années sont également rejetés, étant donné qu'ils dépendent de l'appel relatif à l'année 2001.
+Signé à Ottawa, Canada, ce 12e jour d'avril 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme ce 7e jour de septembre 2005.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2005CCI45
+NO DU DOSSIER DE LA COUR :
+2004-2122(IT)I
+INTITULÉ DE LA CAUSE :
+492581 Ontario Limited c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 28 octobre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+Le 1er novembre 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+George Vandenberg
+Avocat de l'intimée :
+Me Jonathon Penney
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelante :
+Nom :
+S/O
+Étude :
+S/O
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

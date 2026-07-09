@@ -1,0 +1,195 @@
+Title: Aujla v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28355/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-764-28355-aujla-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-12-21
+
+# Aujla v. The Queen
+
+- Citation: 2007 TCC 764
+- Decision date: 2007-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1940, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aujla v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-21
+Neutral citation
+2007 TCC 764
+File numbers
+2004-4534(GST)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4534(GST)G
+BETWEEN:
+AMARJIT AUJLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Harjinder Aujla (2004-4535(GST)G), on October 17, 2006,
+at Vancouver, British Columbia,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+David R. Davies
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeal from the third party notice of assessment made under subsection 323(1) the Excise Tax Act, notice of which is dated September 4, 2003, and bears number A101446, is allowed, with costs, and the assessment is vacated.
+Signed at Ottawa, Canada, this 21st day of December, 2007.
+"E.A. Bowie"
+Bowie J.
+Docket: 2004-4535(GST)G
+BETWEEN:
+HARJINDER AUJLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Amarjit Aujla (2004-4534(GST)G), on October 17, 2006,
+at Vancouver, British Columbia,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+David R. Davies
+Counsel for the Respondent:
+Bruce Senkpiel
+____________________________________________________________________
+JUDGMENT
+The appeal from the third party notice of assessment made under subsection 323(1) the Excise Tax Act, notice of which is dated September 4, 2003, and bears number A101447, is allowed, with costs, and the assessment is vacated.
+Signed at Ottawa, Canada, this 21st day of December, 2007.
+"E.A. Bowie"
+Bowie J.
+Citation: 2007TCC764
+Date: 20071221
+Docket: 2004-4534(GST)G
+2004-4535(GST)G
+BETWEEN:
+AMARJIT AUJLA and HARJINDER AUJLA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] These two appeals are brought from assessments made under subsection 323(1) of the Excise Tax Act[1] (the ETA) for the outstanding liability for goods and services tax (GST), interest and penalties of Aujla Construction Ltd. (the company) at the time it was struck from the register of companies for failure to file returns. At the opening of the trial, the parties filed the following Agreed Statement of Facts.
+1. Aujla Construction Ltd. (the "Company") was incorporated under the Company Act, R.S.B.C. 1996, c. 62 on October 1, 1992.
+2. Amarjit Aujla became a director of the Company on its incorporation.
+3. Harjinder Aujla became a director of the Company on November 18, 1992.
+4. By Notice of Assessment dated March 20, 1998, the Company was assessed to net tax, penalties and interest in the amount of $197,995.75 for the reporting period January 1, 1993 to December 31, 1995.
+5. On March 5, 1999 the Company was dissolved and struck off the Register of Companies by the British Columbia Registrar of Companies, pursuant to section 257 of the Company Act, for failure to file annual reports.
+6. On February 20, 2003 the Attorney General of Canada, on behalf of Her Majesty the Queen in right of Canada, applied to the British Columbia Supreme Court for the restoration of the Company to the Register of Companies.
+7. On February 20, 2003 the British Columbia Supreme Court ordered that the Company be restored to the Register of Companies.
+8. On March 6, 2003 the Company was restored to the Register of Companies for a two-year period ending March 5, 2005 pursuant to the Company Act.
+9. On June 17, 2003, pursuant to section 316 of the Excise Tax Act (the Act), $115,556.49 of the amount payable by the Company was certified in the Federal Court and execution for this amount was returned unsatisfied.
+10. By Third Party Notices of Assessment dated September 4, 2003 (the "Assessment"), the Appellants were each assessed to net tax, penalties and interest in the total amount of $162,331.91 under subsection 323(1) of the Act in respect of the failure of the Company to remit tax, penalties and interest for reporting periods ended December 31, 1995 and June 30, 1997.
+11. Harjinder Aujla objected to his Assessment by Notice of Objection dated December 3, 2003.
+12. Amarjit Aujla objected to his Assessment by \Notice of Objection dated January 26, 2004.
+13. On March 29, 2004 the Minister of National Revenue (the "Minister") granted Amarjit Aujla an extension of time to serve a notice of objection to his Assessment.
+14. By Notices of Decision dated August 31, 2004, the Minister confirmed the Assessments.
+[2] The following provisions of the ETA and of the British Columbia Company Act[2] are relevant to the determination of the issues:
+Excise Tax Act
+323(1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+323(2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under subsection 316 and execution for that amount has been returned in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+323(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+323(4) The Minister may assess any person for any amount payable by the person under this section and, where the Minister sends a notice of assessment, sections 296 to 311 apply, with such modifications as the circumstances requires.
+323(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+Company Act
+130(1) A director ceases to hold office when his or her term expires in accordance with the articles or when he or she
+(a) dies or resigns,
+(b) is removed in accordance with subsection (3),
+(c) is not qualified under section 114, or
+(d) is removed in accordance with the memorandum or articles.
+257(1) If
+(a) a company or an extraprovincial company has for 2 years failed to file with the registrar the annual report or any other return, notice or document required by this Act to be filed by it,
+(b) …
+the registrar must mail to the company or extraprovincial company a registered letter notifying it of its failure or of the registrar’s belief, and of the registrar’s powers under subsection (3).
+257(3) If, within one month after the registrar mails the letter referred to in subsection (1) or (2), the registrar does not receive a response that
+(a) indicates that the failure has been or is being remedied, or is otherwise satisfactory to the registrar, or
+(b) notifies the registrar that the extraprovincial company continues to carry on business in British Columbia,
+the registrar may publish in the Gazette a notice that, at any time after the expiration of one month after the date of publication of the notice, unless cause is shown to the contrary, the company will be struck off the register and dissolved, or, in the case of an extraprovincial company, its registration will be cancelled.
+257(4) At any time after one month after the date of publication of the notice referred to in subsection (3), the registrar, unless good cause to the contrary is shown to him or her, may strike the company off the register and, on being struck off, the company is dissolved, or, in the case of any exstraprovincial company, cancel its registration.
+260 The liability of every director, officer, liquidator and member of a company that is struck off the register, or of an extraprovincial company that has had its registration cancelled, under section 256, 257, 259 or 319 continues and may be enforced as if the company had not been struck off the register or the registration of the extraprovincial company had not been cancelled.
+262(1) If a company has been dissolved, or the registration of an extraprovincial company has been cancelled under this Act or any former Companies Act, the court may, if it is satisfied that it is just that the company or extraprovincial company be restored to the register, no more than 10 years after the date of the dissolution or cancellation, on application by the liquidator, a member, a creditor of the company or extraprovincial company, or any other interested person, make an order to the conditions and on the terms the court considers appropriate, restoring the company or extraprovincial company to the register.
+262(2) If a company or an extraprovincial company is restored to the register under subsection (1), the company is deemed to have continued in existence, or the registration of the extraprovincial company is deemed not to have been cancelled, and proceedings may be taken as might have been taken if the company had not been cancelled.
+262(3) The court may make an order under subsection (1) restoring a company or an extraprovincial company to the register for a limited period, and, after the expiration of that period, the company must promptly be struck off the register, or, in the case of any extraprovincial company, its registration cancelled, by the register.
+263 In an order made under section 262, the court may give directions and make provisions it considers appropriate for placing the company or extra provincial company and every other person in the same position, as nearly as may be, as if the company had not been dissolved or the registration of the extraprovincial company cancelled, but, unless the court otherwise orders, the order is without prejudice to the rights of parties acquired before the date on which the company or extraprovincial company is restored to the register.
+[3] The operative paragraphs of the order of the Supreme Court of British Columbia that restored the company to the register read as follows:
+THIS COURT ORDERS that Aujla Construction Ltd. is restored to the Register of Companies for a period of not more than two (2) years, commencing on the date of the filing of a certified copy of this Order with the Registrar of Companies, for the purpose of enabling the Minister of National Revenue to facilitate the assessment and collection of the Goods and Services Tax debt owing by Aujla Construction Ltd. to the Receiver General for Canada.
+THIS COURT FURTHER ORDERS that Aujla Construction Ltd. shall be deemed to have continued in existence as if its name had never been struck off the register and dissolved, without prejudice to the rights of any parties which may have been acquired prior to the date on which Aujla Construction Ltd. is restored to the Registrar of Companies.
+There is no evidence before me as to the material that was before the Master on the application.
+[4] The appellants argue that after its dissolution the company had no existence and no capacity, and it follows that it could have no directors. As it was put by Oliver Co. Ct. J. in R. v. Gill:[3]
+A dissolved corporation is a dead corporation and with it die its officers and directors.
+The appellants therefore ceased to be directors on March 5, 1999, and subsection 323(5) of the ETA provides that they cannot be assessed under subsection (4) for the liability of the company more than two years after that date. An assessment made under subsection (4) after March 5, 2001 is therefore not authorized by the statute and must be vacated.
+[5] The appellants rely as well on the without prejudice provision that is found in section 263 of the Company Act, and in the Order made by the Master under section 262. The effect of that, they say, is to preserve all rights that were acquired during the period of dissolution. Among those is the right that the directors acquired on March 6, 2001 of immunity from assessment under subsection 323(4) of the ETA in respect of the company’s indebtedness under that Act.
+[6] Counsel for the respondent argues that under subsection 323(1) of the ETA the liability of a director for the debt of the corporation arises at the time the corporation fails to remit net tax that is due. No assessment is required to make the corporation liable to remit the net tax, and no assessment is required to make the directors jointly and severally liable if it is not remitted when due. The determination whether a person has ceased to be a director must be made under the laws governing the company, which in this case is the British Columbia Company Act.
+[7] Section 130 of the Company Act specifies a number of ways in which a director may cease to be a director, none of which apply in this case. A company cannot voluntarily be removed from the register under section 258 unless it first proves that it has no debts or liabilities. Section 260 provides that the liability of every director of a company that has been struck off the register under section 257 continues and is enforceable as though the company had not been struck off. The respondent argues, therefore, that the directors of a company that has been struck off for failure to file cannot escape their liability for the company’s unpaid GST liability by claiming that they ceased to be directors when the company was involuntarily struck off.
+[8] The respondent’s alternative argument is based upon the deeming provision found in subsection 262(2) of the Company Act. The company, upon its restoration to the register, is deemed to have continued in existence. The effect of that, it is argued, is that the directors must be taken to have continued to be directors throughout the same period, as the company could not have been in existence, notionally or otherwise, with no directors. The appellant therefore asserts that the directors, by the operation of the Company Act, never ceased to be the directors of the company, and so the two-year limitation provided for in subsection 323(5) never began to run. Counsel finds support for this argument in the decision of this Court in Glass v. The Queen,[4] Natural Nectar Products Canada Ltd. v. Theodor,[5] and Doig v. Laurand Holdings Ltd.[6]
+[9] Both by the terms of section 263 of the Company Act and the terms of the order of the Master made under it, the restoration of the company to the register was made “… without prejudice to the rights of parties acquired before the date on which the Company [was] restored to the register”. The respondent argues that this provision cannot benefit the two appellants, because it deals only with rights as between the company itself and other parties dealing with it. It is not applicable to rights of persons other than the company as between themselves, and it cannot negative rights arising between the Crown and the directors of a revived company. Glass v. The Queen[7] is cited by counsel as support for that submission.
+[10] In my view, there can be no doubt that the appellants ceased to be directors of the company when it was struck from the register on March 5, 1999. From that date until March 6, 2003, when it was restored to the register pursuant to the restoration order made by the Supreme Court of British Columbia, there was no company, and so it could not have any directors. Unlike the earlier Companies Act, R.S.B.C. 1924, c. 38, that was considered in British Columbia v. Royal Bank of Canada,[8] the Company Act that applies to this case makes no provision for a company that has been struck off the register to itself make application for a restoration order. There is therefore no reason under the later Act to conclude by implication that a company, although struck off, retains some vestigial existence sufficient to enable it to make such an application. I am satisfied that between these two dates the company had no existence: in the words of section 258, it was dissolved. In this context, the relevant definition of the verb to dissolve found in the Shorter Oxford Dictionary[9] is:
+9. annul or put an end to (a partnership, marriage etc.).
+Collins Canadian English Dictionary & Thesaurus[10] gives the meaning :
+8. to terminate legally, as a marriage etc.
+[11] Counsel for the respondent points out, quite correctly, that section 130 of the Company Act specifies various means by which a director of a company may, either voluntarily or involuntarily, cease to be a director. That section does not purport to be exhaustive, however, and it certainly does not by its language negative the proposition that if a company does not exist then it cannot have directors.
+[12] What, then, is the effect of the restoration order? The answer to that question requires an examination of both the legislation and the order itself.
+[13] Subsection 262(1) permits the court to make an order restoring the company to the register “on the terms the court considers appropriate …”. “Section 263 empowers the court “to give directions and make provisions it considers appropriate for placing the company … and every other person in the same position, as nearly as may be, as if the company had not been dissolved …” (emphasis added).
+[14] The effect of the order and the restoration of the company to the register, by the terms of subsection 262(2), is that the company is deemed to have continued in existence, and proceedings that might have been taken had there been no dissolution may be taken thereafter. Notably, the order of the court made no provision, as it might have done, to place the directors in the same position as if the company had not been dissolved. The words of the order add nothing to the effects that flow automatically by reason of the words of the Act from the simple fact of restoration.
+[15] Although they are not operative words, the following words in the order of the Master are not totally without significance, as they speak to the purpose of the making of the order:
+… for the purpose of enabling the Minister of National Revenue to facilitate the assessment and collection of the Goods and Services Tax debt owing by Aujla Construction Ltd. to the Receiver General for Canada.
+There are no facts before me as to whether the Minister considered that there was additional tax owing by the company beyond that already assessed. It is significant, however, that this statement of the purpose of the order does not include facilitating the assessment and collection of the debt owing by each of the two appellants, but only that owing by the company. Counsel for the respondent submitted, correctly, that the indebtedness of the directors arose at the time the company failed to remit net tax that was due. The Attorney General, then, would surely have included in his stated purposes for seeking the order that the Minister of National Revenue wished to assess and collect the tax debt owing, jointly and severally with the company, by each of the two directors who are the appellants here. The Master did not include that in his statement of the purpose of the order, and he did not make any provision for placing the directors in the same position that they would have been had the company not been dissolved, although he clearly had the power to do so. Nor is there anything in his order or the other evidence before me that suggests that the directors were given notice of the application, as one might expect if they were to be affected by it.
+[16] As important as the words of the statute and the order are, the words omitted from them are equally important. I am asked, in effect, to conclude that by necessary implication the deeming provision in subsection 262(2) not only deems the company to have been in existence when in fact it was not, but also deems the directors to have been directors when in fact they were not. There is, for good reason, a presumption against expanding by interpretation the scope of retrospective legislation: see Driedger on the Construction of Statutes, 3rd Ed., pp. 511-17 and the authorities there cited. In the present case, there is an additional reason not to extend the deeming provision beyond the company to the directors. The British Columbia legislature, by enacting section 263, has given to the court hearing the restoration application the discretionary power to decide whether “other persons” are to be retrospectively affected by the restoration order, or are to have the benefit of the “without prejudice” clause in that section. The absence of a provision in the order placing the directors in the position for which the respondent contends, and the inclusion of the without prejudice provision in it, both are indicative of an intent that the directors are not to be, in effect, deemed to have been directors throughout the period during which the company was struck off.
+[17] For all these reasons, I am of the view that the appellants must succeed. I appreciate that this result is not entirely consistent with the decision of this Court in Glass v. The Queen. However, it appears that in that case the issue was dealt with as an unpleaded afterthought, and doubtless not exhaustively prepared and argued as it was before me. The Court there seems to have dealt only with the continuation of the existence of the company and the continuing liability of the directors, as provided for in what is now section 260 of the Company Act. The primary issue before me, however, is not the existence of the debt, but the Minister’s right to assess, and that has to turn on whether, by operation of the Company Act, the Master’s order, or both of them, the directors did not cease to be directors on March 5, 1999.
+[18] The appeals are allowed, with costs, and the assessments against the appellants are vacated.
+Signed at Ottawa, Canada, this 21st day of December, 2007.
+"E.A. Bowie"
+Bowie J.
+CITATION: 2007TCC764
+COURT FILE NO.: 2004-4534(GST)G and 2004-4535(GST)G
+STYLE OF CAUSE: AMARJIT AUJLA and
+HARJINDER AUJLA
+and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: October 17, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: December 21, 2007
+APPEARANCES:
+Counsel for the Appellants:
+David R. Davies
+Counsel for the Respondent:
+Bruce Senkpiel
+COUNSEL OF RECORD:
+For the Appellants:
+Name: David R. Davies
+Firm: Thorsteinssons
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. E-15, as amended.
+[2] R.S.B.C. 1996, c. 62 as amended.
+[3] 40 B.C.L.R. (2d) 360 @ 367.
+[4] 98 DTC 1085
+[5] (1990), 46 B.C.L.R. (2d) 394 (B.C.C.A.).
+[6] 2001BCSC 780.
+[7] Supra, note 4.
+[8] [1937] S.C.R. 459.
+[9] Vol. I, p. 712.
+[10] @ p. 340.

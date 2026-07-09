@@ -1,0 +1,175 @@
+Title: North Shore Power Group Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218041/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-1-218041-north-shore-power-group-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-01-16
+
+# North Shore Power Group Inc. v. The Queen
+
+- Citation: 2017 TCC 1
+- Decision date: 2017-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2958, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+North Shore Power Group Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-01-16
+Neutral citation
+2017 TCC 1
+File numbers
+2015-1269(GST)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-1269(GST)G
+BETWEEN:
+NORTH SHORE POWER GROUP INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 9 and 10, 2016, in London, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant: David J. Thompson
+Counsel for the Respondent: Suzanie Chua
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal is dismissed on the basis that the assessments of the Minister of National Revenue relating to the reporting periods ending April 30, 2011, January 31, 2012 and April 30, 2012 are correct. Costs are awarded to the Respondent in accordance with the tariff, subject to representations in writing by either party within 30 days of the date of this judgment.
+Signed at Ottawa, Canada, this 16th day of January 2017.
+“R.S. Bocock”
+Bocock J.
+Citation: 2017 TCC 01
+Date:20170116
+Docket: 2015-1269(GST)G
+BETWEEN:
+NORTH SHORE POWER GROUP INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction (a) Partial GST and Payment - Generally [1] Good and Services Tax (“GST”) is exigible upon partial payments made to suppliers for goods purchased in advance of the delivery of such goods. When paid by a purchaser to a supplier of goods, the purchaser is entitled to deduct the GST paid on the partial payment against the GST a registrant purchaser otherwise collects from its own customers. These deductions for GST paid comprise input tax credits (“ITCs”). In turn, where the partially paid goods are never delivered, the purchaser reverses the claimed ITCs, by way of adjustments to tax payable (“ITC Reversals”). This increases the net GST payable, usually in the subsequent reporting period.
+[2] The Appellant, North Shore Power Group Inc. (“North Shore”), did all of the above in respect of partial payments made by it for never delivered goods. Additionally, North Shore had issued to it credit memoranda (“Credit Memos”) by the supplier/vendor, reflecting the value of the outstanding partial payments related to the undelivered goods. In addition to the ordered goods never being delivered, the Credit Memos were never honoured.
+(b) Inconsistent filing and assessing positions [3] Both the respective historical filing and assessing positions of North Shore and the Minister have been inconsistent. Firstly, the Minister of National Revenue (the “Minister”) initially characterized the partial payments as deposits. GST is not exigible on deposits (as opposed to partial payments). As a result of that characterization, the Minister initially disallowed all of North Shore’s ITCs totalling $388,412.50. After objection and representations by North Shore, the Minister revised this characterization. She allowed the ITCs relating to 8 delivered and completed contracts, but not for 10 contracts representing the undelivered goods.
+[4] Secondly, North Shore, upon receipt of the Credit Memos, increased its net tax payable (the “ITC Reversals”) by the amount of the harmonized sales tax (HST) pursuant the Excise Tax Act (the “ETA”). North Shore asserts this was an error since the Credit Memos were not credit notes within the meaning of the ETA. The Minister asserts they were.
+(c) Issue [5] Therefore, the sole issue is whether the Credit Memos constitute credit notes within the ETA. If they do, then both parties agree that North Shore’s filing position with respect to the ITC Reversals and the Minister’s revised reassessments are correct and the appeal must be dismissed.
+II. Some Additional Facts [6] The parties filed a Partial Statement of Agreed Facts, the following summary of which contains the relevant facts for the Court’s reasons for judgment. Some additional facts were also obtained at the trial through testimony.
+a) the purchase of solar panels, payments and ITCs [7] North Shore, a wholly owned subsidiary of the Town of Blind River, Ontario, owns solar, hydraulic and wind energy generating facilities.
+[8] North Shore entered into 18 contracts (the “Contracts”) with Menova Energy Inc., (“Menova”) on July 30, 2010 for the purchase and installation of a series of solar array installations. Commonly, and within these reasons, these are referred to as “solar panels”.
+[9] Upon signing the Contracts, North Shore paid to Menova one half of the purchase price, described in the Contracts as the “Down Payment”, being the sum of $3,376,197.05. This paid sum consisted of $2,987,785.00, plus $388,412.05 representing the HST of 13%. At the hearing, it was generally conceded that such paid amounts were in the nature of partial payments and not deposits (the “Partial Payments”).
+[10] North Shore claimed ITCs of $388,412.05 pursuant to subsection 169(1) of the ETA in respect of the Partial Payments by virtue of the formula within subsection 225(1) of the ETA. Accordingly, it filed its return on that basis for the reporting period ended July 31, 2010.
+b) some contracts never fulfilled [11] Menova only completed eight of the Contracts for a total value of $604,780.00 and corresponding HST of $78,621.40. Menova also failed to remit any HST it collected to the Minister.
+[12] Thereafter, Menova issued documents to North Shore, each entitled "Credit Memo" (the “Credit Memos”), variously dated November 24, 2010, April 20, 2011 and April 30, 2011. These Credit Memos related to the Contracts which were not and never would be supplied (the “Cancelled Contracts”). On April 25, 2012, a general security agreement was given by Menova to North Shore as collateral for all indebtedness. Subsequently, certain sums were received by North Shore as sale proceeds from the sale of secured collateral.
+c) ITC reversals and reinstatements [13] For its reporting period ended April 30, 2011, North Shore recorded an addition to net tax in the amount of $107,954.00 as a reversal of ITCs previously claimed in respect of the invoices that totalled $107,954.00, reflecting nine Menova Credit Memos dated April 20, 2011 or April 30, 2011 totalling $107,954.00 (the “First ITC Reversal”). In doing so, North Shore assumed each Credit Memo was issued pursuant to section 232 of the ETA.
+[14] For its reporting period ended January 31, 2012, North Shore cancelled the adjustment made in the April 30, 2011 return, re-claiming an ITC of $107,954.00 (the “First ITC Reinstatement”). This step was taken on the basis that North Shore determined that the Credit Memos were uncollectible bad debts. North Shore did so pursuant to section 231 of the ETA.
+[15] Similarly to the First ITC Reversal, within the reporting period ended January 31, 2012, North Shore recorded an addition to net tax in the amount of $240,089.00 as a reversal of the ITCs previously claimed in respect of an invoice, reflecting Menova's document dated November 24, 2010 entitled "Credit Memo" for $240,089.00 (the “Second ITC Reversal”).
+[16] Similarly to the First ITC Reinstatement, for its reporting period ended April 30, 2012, North Shore reversed the adjustment made in the January 31, 2012 return, re-claiming an ITC of $240,089.00 (the “Second ITC Reinstatement”).
+[17] Ultimately, for its reporting period ended April 30, 2012, North Shore recorded a further reduction of claimed ITCs in the amount of $39,311.00, previously claimed in respect of the 50% balance payable, but not paid by North Shore in respect of the 8 completed contracts.
+d) North Shore’s subsequent actions and Minister’s reassessments [18] Menova’s non-performance of the Cancelled Contracts and its non-refund of surplus partial payments made by North Shore to it for those Cancelled Contracts caused North Shore to take further legal action. North Shore petitioned Menova into bankruptcy by application on June 29, 2012. Menova was adjudged to be bankrupt by an order of the Ontario Superior Court of Justice dated July 24, 2012. North Shore filed a proof of claim in the bankruptcy of Menova claiming the $3,025,302.67 (inclusive of $348,043.00 HST) due under the Cancelled Contracts and Credit Memos. On December 18, 2013, North Shore received $300,448.00 as a creditor dividend from the bankrupt estate of Menova.
+[19] The Minister’s reassessment history over the several reporting periods accounted for the following: the Partial Payment dispute, the Cancelled Contracts, the ITC Reversals and the ITC Reinstatements. They may best be summarized as follows:
+(i) The original characterization of the down payments as deposits rather than Partial Payment, the reversal of that position, firstly, in respect of the completed contracts and later in respect of the Cancelled Contracts. As such, ITCs were disallowed and later allowed over several filing periods; and (ii) The eventual allowance of all the ITC Reversals on the basis that the Credit Memos fell within the provisions of section 232 of the ETA; and (iii) The consistent disallowance of the First ITC Reinstatement and, subsequently, the Second ITC Reinstatement. [20] As a result of these differing positions and filings occurring over several reporting periods, the assessment history and sequence appears complicated.
+[21] Ultimately however, this filing and assessment history may be reduced to the following salient points at the crux of this appeal:
+a) North Shore ultimately received its claimed ITCs for the 8 completed contracts; b) North Shore’s First ITC Reversal and Second ITC Reversal, now disavowed by North Shore, were accepted by the Minister on the basis of the Credit Memos and the application of section 232 of the ETA; c) the ITC Reinstatements, on account of bad debts, were fully rejected; and d) as such, North Shore paid $338,412.50 in HST to Menova, but has been allowed ITCs of only $78,620.00 relating to the 8 completed contracts and no ITCs for any of the Cancelled Contracts. III. Legislation [22] The following is a summary of excerpts from the relevant sections of the ETA at issue in this appeal [deletions for irrelevancy and underlining for emphasis added].
+Input Tax Credits
+169 (1) Subject to this Part, where a person acquires … property …, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, … becomes payable by the person or …, the amount determined by the following formula is an input tax credit of the person in respect of the property …;
+Adjustments for Excess Tax Collected
+232 (1) Where a particular person has charged to, or collected from, another person an amount as or on account of tax under Division II in excess of the tax under that Division that was collectible by the particular person from the other person, the particular person may, within two years after the day the amount was so charged or collected,
+(a) where the excess amount was charged but not collected, adjust the amount of tax charged; and
+(b) where the excess amount was collected, refund or credit the excess amount to that other person.
+Adjustment
+(2) Where a particular person has charged to, or collected from, another person tax under Division II calculated on the consideration or a part thereof for a supply and, for any reason, the consideration or part is subsequently reduced, the particular person may, in or within four years after the end of the reporting period of the particular person in which the consideration was so reduced,
+(a) where tax calculated on the consideration or part was charged but not collected, adjust the amount of tax charged by subtracting the portion of the tax that was calculated on the amount by which the consideration or part was so reduced; and
+(b) where the tax calculated on the consideration or part was collected, refund or credit to that other person the portion of the tax that was calculated on the amount by which the consideration or part was so reduced.
+Credit or debit notes
+(3) Where a particular person adjusts, refunds or credits an amount in favour of, or to, another person in accordance with subsection (1) or (2), the following rules apply:
+(a) the particular person shall, within a reasonable time, issue to the other person a credit note, containing prescribed information, for the amount of the adjustment, refund or credit, unless the other person issues a debit note, containing prescribed information, for the amount;
+(b) the amount may be deducted in determining the net tax of the particular person for the reporting period of the particular person in which the credit note is issued to the other person or the debit note is received by the particular person, to the extent that the amount has been included in determining the net tax for the reporting period or a preceding reporting period of the particular person;
+(c) the amount shall be added in determining the net tax of the other person for the reporting period of the other person in which the debit note is issued to the particular person or the credit note is received by the other person, to the extent that the amount has been included in determining an input tax credit claimed by the other person in a return filed for a preceding reporting period of the other person; and
+Calculation Formula for Net Tax
+225 (1) Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A - B
+where
+A is the total of
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+(b) all amounts that are required under this Part to be added in determining the net tax of the person for the particular reporting period; and
+Deposits
+168(9) For the purposes of this section, a deposit (other than a deposit in respect of a covering or container in respect of which section 137 applies), whether refundable or not, given in respect of a supply shall not be considered as consideration paid for the supply unless and until the supplier applies the deposit as consideration for the supply.
+IV. Issues and North Shore’s submissions a) Deposit vs. Part Payment [23] Within the agreed facts, the parties agreed that the down payments were part payments and not deposits. Since this is a legal question determined from the facts, the Court shall quickly deal with this issue. The parties made no further submissions on the point.
+[24] There can be little dispute the contracts, once executed, were binding obligations at law for both Menova and North Shore. There was no payment of earnest money to guarantee the completion of the contracts. The sizeable partial payments were meant to fund the considerable costs connected with the solar panels. The Contracts, although describing the moneys paid as deposits were nonetheless structured as partial payments, half due on execution and the balance due on delivery. Quite conclusively, through such characteristics, the sums paid were partial payments.
+b) Adjustment to net tax on account of bad debts [25] Should the requisite legal and formulistic requirements of section 232 regarding adjustments to excess tax collected be fulfilled, then the parties were in agreement, and the Court concurs, that the Minister’s present assessment of North Shore’s filing position would be correct. Implicit within this position taken by North Shore, is its abandonment at the hearing of its subsequent deduction from net tax by virtue of subsection 231(1). The First and Second ITC Reinstatements constitute these deductions.
+[26] An examination of the foregoing subsection reveals it applies exclusively to a “supplier”, if after having “made a taxable supply…for consideration…, it is established that…the consideration and tax payable…has become a bad debt and the supplier…writes off the bad debt…, the reporting entity for the supply may…deduct the amount…”. North Shore was neither a “supplier” nor did it make a “taxable supply”. Factually, North Shore was a recipient who received a taxable supply. The section is unequivocally, by virtue of a cursory reading of its text, inapplicable to permit the reduction to net tax on account of a bad debt incurred by North Shore in such a capacity. Consequently, for North Shore to succeed, the only remaining ground is for the Court to find that section 232 does not apply in regards to the Credit Memos.
+c) Does section 232 apply regarding Credit Memos? [27] North Shore argues that section 232 does not apply for the following reasons.
+a) the “Credit Memos” are not credit notes per se [28] North Shore’s counsel submits that the Credit Memos were not credit notes with the meaning of section 232. Firstly, the description on the document issued is not the same (namely “credit memos”, not “credit note”). Additionally, counsel submits there was no effective guarantee or security issued to ensure payment under the Credit Memos. North Shore’s filing of the First ITC Reversal and the Second ITC Reversal were errors, committed formulaically by an accounting person or bookkeeper, without any focussed deliberation regarding the composite legal requirements within the credit memos needed to give rise to such a reversal of the ITCs claimed.
+b) paragraph 232(1)(a) does not apply to the facts [29] Specifically with respect to paragraph 232(1)(a), North Shore’s counsel argues that 232(1)(a) applies solely in the instance where HST is charged, but not collected. In the present appeal, it was both charged and collected. Therefore, there is no basis to any assessment utilizing this paragraph.
+c) paragraph 232(1)(b) may apply, but has not been engaged [30] North Shore’s counsel argues that paragraph 232(1)(b), which does apply where the HST was collected, has embedded within it the requirement that there be an actual refund or credit. A mere recording of the credit does not meet the test. Firstly, there was no amount set aside or provision made by Menova, the debtor, under the Credit Memos, to honour the credit. The credit was merely notional and had no value. Further there were no other prospective or subsisting orders against which the credit could be set-off. This further renders the Credit Memos valueless and outside the ambit of the paragraph.
+d) in any event, public policy should override this occurrence to prevent abuse [31] North Shore’s counsel contends that if the appeal before the Court is not allowed, that decision will result in easy abuse of the ITC system by unscrupulous suppliers/vendors on the brink of insolvency. The process would be simple. Render invoices for partial payment of product one never intends to supply. Collect the HST as required and pocket it. Issue credit notes on the eve of bankruptcy. The vendor owes nothing to the extent of the credit notes (subsection 231(3)(b)) (in the present case the Credit Memos). There is no loss to the public treasury. The purchaser, who paid the full amount of the HST on product never received is denied the ITCs (231(3)(c)) and cannot claim a bad debt under subsection 231(1). In turn, the purchaser, similar to North Shore, has little recourse against the insolvent supplier who is permitted to issue notional and valueless credit notes to absolve itself of the HST obligation by saddling the purchaser with full HST liability. This abuses the ETA and offends public policy.
+V. Analysis and Conclusions a) decision [32] The Court concurs with North Shore’s counsel that subsection 232(1)(a) does not apply. However, the Court dismisses the appeal on the following grounds: the Credit Memos were credit notes within the meaning of subsection 232(1) and related subsections; the actions of North Shore itself were determinative and informative to the Minister’s assessment, and, public policy, while it may be engaged in certain circumstances to invalidate supplier issued credit notes under section 232, is not offended given the facts of the present appeal.
+b) the Credit Memos were credit notes [33] North Shore’s suggestion that the use of the name “credit memo” and the non-reference within the documents to subsection 232(3) of the ETA somehow disqualify the Credit Memos as credit notes, is rejected. Firstly, there is no prescribed form or definition for credit notes within the ETA. Secondly, various definitions for credit notes and credit memorandum exist without much variation:
+Credit Note: (acknowledging sum credited, e.g. for goods returned)[1];
+Credit note: a note given by a store etc. in return for goods returned, stating the value of goods owed to the customer[2].
+Credit memorandum: A document used by a seller to inform a buyer that the buyer’s account receivable is being credited (reduced) because of errors, returns, or allowances[3].
+Credit note: A note issued by a business indicating that a customer is entitled to be credited by the issuer with a certain amount[4].
+[34] This consistency, but more importantly consistent reference to commercial custom, reflects the incorporation within the ETA of the law merchant and common commercial understanding.
+[35] To add to such common usage of the terms “credit notes” or “credit memoranda”, notions of securitization, collateral, guarantee and specific reference to the ETA within the form of such a document, reads into the ETA a level of complication and intricacy otherwise wisely rejected. In short, the word “credit” is not disjunctive form either “credit note” or “credit memo”, but part of the same instrument widely used and acknowledge between creditors and debtors alike engaged in commerce.
+[36] To that end, the Supreme Court of Canada, has indicated that credit notes are to be treated as current liabilities or assets, as the case may be, until they are redeemed or otherwise lapse. In Time Motors v. MNR, Justice Pidgeon for the Court stated[5] the following:
+The fact that the merchandise to be obtained by virtue of a credit note was not specified does not mean that appellant’s customer had no enforceable obligation for the balance due.
+Even if the credit notes were to be considered by themselves they could not be considered as unenforceable for indefiniteness. It should be noted that Viscount Dunedin’s dictum in May & Butcher v. The King (Feb. 22, 1929, reported [1934] 2 K.B. 17):
+To be a good contract there must be a concluded bargain, and a concluded contract is one which settles everything that is necessary to be settled and leaves nothing to be settled by agreement between the parties.
+was explained in a later decision of the House of Lords, Hillas & Co. v. Arcos Ltd., [1932] All E.R. 494. Reversing a judgment of the Court of Appeal based on it Lord Wright said (at pp. 507–508):
+When the learned lord justice speaks of essential terms not being precisely determined, i.e., by express terms of the contract, he is, I venture with respect to think, wrong in deducing as a matter of law that they must, therefore, be determined by a subsequent contract; he is ignoring, as it seems to me, the legal implication in contracts of what is reasonable, which runs throughout the whole of modern English law in relation to business contracts. To take only one instance, in Hoadly v. McLaine, Tindal C.J. (after quoting older authority), said (10 Bing. at p. 487):
+“What is implied by law is as strong to bind the parties as if it were under their hand. This is a contract in which the parties are silent as to price, and therefore leave it to the law to ascertain what the commodity contracted for is reasonably worth.”
+That decision was relied on by Estey, J. in Dawson v. Helicopter Exploration Co. Ltd., [1955] S.C.R. 868 at 878.
+[37] The Credit Memos were factually sufficient to provide a clear indication of a credit being established in writing to the detriment of Menova and to the benefit of North Shore. To suggest the Credit Memos were ineffective in doing so ignores the referenced authority.
+[38] Quite apart from the authority, it also ignores the actions of North Shore, who acted consistently and perhaps presciently of the law in Time Motors. The following acts, which were demonstrable of meaningful reliance upon the Credit Memos, were undertaken by North Shore who:
+(i) filed and adjusted for the First ITC Reversal and the Second ITC Reversal in its returns; (ii) requested and received a general security agreement to secure debts which included the Credit Memos; (iii) received proceeds from the sale of that collateral to reduce the debt reflected by the Credit Memos; and (iv) filed a proof of claim in the bankruptcy of Menova related to the debt evidenced by the Credit Memos and received a dividend from the estate of the sum of $300,488.00. [39] The foregoing actions undertaken by North Shore, reliant upon the now disavowed Credit Memos, belie the legal and factual position that the Credit Memos were invalid, unenforceable or did not represent a liability of Menova issued under section 232 of the ETA. That reliance informed the very adjustment and reversal to North Shore’s claimed ITCs which it now appeals.
+[40] This reliance by North Shore marches along with the Court’s rejection that public policy is offended in this appeal by the nefarious and sharp behaviour of an impecunious supplier. This rejection is based upon an omnipresent fact. In carrying out steps (i) through (iv) above, North Shore, itself, accepted and acted upon the Credit Memos when issued by Menova and received by North Shore. If it had repudiated, rejected or disavowed the Credit Memos upon receipt, the facts would be different.
+[41] The suggestion that the Credit Memos representing more than $3 million were received and treated by North Shore as business in the normal course seems contrived, forced and inconsistent. Testimony by the President confirmed intense, prolonged and heated discussions were held at the highest levels concerning the Cancelled Contracts, and the moneys paid as Partial Payments to Menova by North Shore. North Shore was alarmed and very unhappy with the Cancelled Contracts and the Credit Memos. However, this reveals it did turn its full attention to the documents. It did not reject, repudiate or contest them. Instead, it added sums to its HST payable by virtue of the First ITC Reversal and, subsequently the Second ITC Reversal. If it had rejected or repudiated the Credit Memos and not filed accordingly, and thereafter, had the Minister assessed and unilaterally reversed the ITCs, the marshalled policy public argument would have some sway.
+[42] As it is, the Minister simply did what North Shore did when it filed. She relied upon on the Credit Memos in assessing North Shore, but she did so only after North Shore had first reviewed, characterized and concluded the Credit Memos were credit notes within the provisions and meaning of subsection 232(1) of the ETA.
+VI. Conclusion
+[43] For the reasons stated, the appeal is dismissed on the basis that the assessment upholding the reversal of ITCs by virtue of the additions to net tax filed by North Shore for the reporting periods ending April 30, 2011, January 31, 2012 and April 30, 2012 is correct. Costs are awarded to the Respondent in accordance with the tariff, subject to representations in writing by either party within 30 days of the date of this judgment.
+Signed at Ottawa, Canada, this 16th day of January 2017.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2017 TCC 01
+COURT FILE NO.:
+2015-1269(GST)G
+STYLE OF CAUSE:
+NORTH SHORE POWER GROUP INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+November 9 and 10, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+January 16, 2017
+APPEARANCES:
+Counsel for the Appellant:
+David J. Thompson
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David J. Thompson
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Concise Oxford English Dictionary (6 ed), at page 223.
+[2] Canadian Oxford English Dictionary (2 ed), at page 357.
+[3] Blacks Law Dictionary (5 ed), at page 332.
+[4] A Dictionary of Canadian Law (1991), at page 233.
+[5] Time Motors Ltd. v. MNR, [1969] 4 DLR (3d) 546 at 548; 69 DTC 5149 at page 5151.

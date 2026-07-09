@@ -1,0 +1,97 @@
+Title: Audet c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27361/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-613-27361-audet-c-la-reine-en.md
+Document type: case_law
+Last modified: 2006-10-04
+
+# Audet c. La Reine
+
+- Citation: 2006 TCC 613
+- Decision date: 2006-10-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 183, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Audet c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-04
+Neutral citation
+2006 TCC 613
+File numbers
+2006-792(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC613
+Date: 20061122
+Docket: 2006-792(IT)I
+BETWEEN:
+ANDRÉ AUDET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Delivered orally from the Bench on October 4, 2006,
+at Montréal, Quebec.
+Paris J., T.C.C.
+[1] This is an appeal under the informal procedure of an assessment made by the Minister of National Revenue for 2001 in which the deduction of $69,566 shown by Mr. Audet as business expenses was disallowed.
+[2] The amount in question consists of two elements: $32,500 paid as surety bond on a loan contracted by Société de gestion et d'investissement dans le tourisme et le loisir, SOGITEL limitée, and an amount paid in expenses for A.E. Audet incorporée. These amounts were personally deducted by the Appellant in calculating his business income.
+[3] With regard to the second amount, Mr. Audet admitted in cross-examination that these expenses were incurred by A.E. Audet in the operation of this company’s business. Given that A.E. Audet is a legal entity distinct from Mr. Audet, there is no rule of law allowing Mr. Audet to deduct these expenses personally. Even though the company was at the verge of bankruptcy and could not afford these expenses, it cannot be ignored that the company had a distinct existence and that the business that incurred the expenses belonged to the company and not to Mr. Audet.
+[4] Concerning the surety bond amount, the issue is whether Mr. Audet stood surety in the aim of earning a business income.
+[5] In short, Mr. Audet stated that he had concluded, at the beginning of his participation in the SOGITEL project, in the early 80s, a verbal agreement with PGL under which he acted as financial advisor for the project in consideration of a remuneration consisting of commissions and professional fees. Mr. Audet also stated that he stood surety for SOGITEL for a loan of $165,000 that this company had contracted in 1990 in order to protect the professional fees that had he had been accorded and preserve the fees and commissions to come.
+[6] The summary of facts prepared by Mr. Audet is found in Exhibit A-1 and reads, in part, as follows:
+[TRANSLATION]
+About 20 to 25 years ago, a long-time acquaintance, Jean Larivé, then president of P.G.L. International, an engineering company in Montréal, asked me to give him financial advice on a tourist infrastructure project worth a few hundred million dollars that he expected to receive from the Algerian government. Many participants joined the development effort, CCC, the Department of External Affairs, EDC and SDI, predecessor of Investissement Québec, for whom I acted as managing director of the project. During the ten years that followed, the project experienced all sorts of delays and complications and was headed by various entities, but always under the management of Mr. Larivé. The last corporate vehicle was incorporated around 1985-1988 under the name Société de tourisme et de loisirs (SOGITEL). To my knowledge, I have never held any shares of this company. Without any inflows, the promoters had to contract loans with the Royal Bank of Canada to cover their operational expenses against, in part, personal guarantees from the individual promoters. They informed me that I had to take part in such endorsements, failing which my accumulated professional fees and potential commissions would be ignored. I obtained confirmation of the circumstances from Mr. Larivé on May 26, 2004, upon the request of the Department. Which I accepted to do in 1990. About one year later, in the face of the rise of Muslim fundamentalism and on its last legs, the project was abandoned. The bank called in its loan and I refused to pay my portion after realizing that the promoters had pursued business activities abroad, including in Algeria, while excluding me under the same company, Sogitel, which had changed its name to Sofram without my knowledge. I therefore relied on the principle that I could not be asked to share in the losses without having the opportunity to share in the profits.
+The legal proceedings dragged on for five years, and a few days before the trial, the parties accepted a settlement that cost me $32,500, paid in July 2001 . . .
+[7] In light of the entire evidence, I cannot accept the testimony of Mr. Audet as to the motives that brought him to act as surety for SOGITEL for the loan. In my opinion, the evidence does not reveal the existence of a contract between Mr. Audet and PGL at the very start of the project concerning payment of professional fees to Mr. Audet. Mr. Jean Larivé, witness for the Appellant and former president of PGL international, was not able to confirm the existence of such a contract.
+[8] Moreover, Mr. Audet’s behaviour does not correspond with that of a party to a contract of this nature. Mr. Audet apparently never calculated the professional fees supposedly accorded, never invoiced the fees to PGL or SOGITEL, never had an agreement on how this work was to be paid. Moreover, Mr. Audet apparently never required an acknowledgement of the fees supposedly due when the surety letter was signed.
+[9] Even if, at the start of the project there had been an agreement like the one described by Mr. Audet, it is clear that this agreement would have been modified before Mr. Audet stood surety. This results from the testimony of Mr. Larivé, who said that when the surety bonds were provided, there was an agreement between the four sureties – Messrs. Larivé and Audet, Maurice Mayer and Claude Fréchette – according to which the four would equally share the profits of the project in consideration of their services. Mr. Larivé also said that he and Mr. Audet were to receive shares of SOGITEL, but that they never received them and that they were “pushed out” shortly after having stood surety.
+[10] Mr. Larivé’s testimony on the nature of the agreement between him, Mr. Audet, Mr. Mayer and Mr. Fréchette, when the surety bonds were signed, was corroborated by Mr. Audet’s declarations, which appear in Exhibit I-4 entitled Déclaration en garantie du défendeur/demandeur en garantie André E. Audet dated May 15, 1996.
+[11] In paragraphs 5 (b) and (c) he indicated:
+[TRANSLATION]
+b. towards the end of the project, certain partners borrowed money from the Royal Bank of Canada, approximately $75,000, and four individuals accepted to guarantee this amount: Maurice Mayer, Claude Frenette, Jean Larivé and André E. Audet, with the tacit agreement that the profits from the group’s activities abroad would be proportionately distributed among them, based on their guarantees;
+c. subsequently, on August 20, 1990, said loan was increased to $165,000 again with a personal guarantee signed by the same four individuals . . .
+[12] I note that the facts alleged in the document were sworn by Mr. Audet under oath. I also not that nothing in this document indicates that Mr. Audet had accepted to stand surety to protect the professional fees accorded.
+[13] On the other hand, I rule out the Respondent’s thesis that Mr. Audet stood surety out of friendship for the three other participants. I find it unlikely that Mr. Audet, an experienced businessman, would commit himself as a surety for $165,000 out of friendship for business acquaintances.
+[14] However, given my conclusion that Mr. Audet stood surety, not to protect and earn fees and commissions in exercising his profession, but rather to obtain part of the profits from the SOGITEL project, it now must be determined whether he is entitled to a business deduction outside of the exercise of his profession.
+[15] The evidence shows that the money from the loan was used as working capital for SOGITEL, allowing it to pay office expenses and the salaries of certain associates such as Mr. Larivé. If a taxpayer stands surety in the aim of permitting a business to obtain working capital, any loss incurred following the execution of the taxpayer’s commitment is a capital loss and not a business loss.
+[16] I cite the reasons of the Court in Laframboise v. the Minister of National Revenue, 1992 DTC, 2155, where Dussault J. said in paragraphs 13 and 14:
+It is the Supreme Court of Canada’s judgment in M.N.R. v. Steer, 66 DTC 5481 [1974] S.C.R. 476, which first approved the principle that a loss sustained by a taxpayer as a result of a security given on a loan to provide working capital for a corporation was a capital loss.
+When the taxpayer’s business is not making loans or providing securities, several decisions have in one way or another approved this principle that losses suffered from loans made or securities given to provide working capital were capital losses and not business losses . . .
+[17] In this case, Mr. Audet stood surety in order to provide working capital for the project. For this reason, the payment relating to the surety bond is considered capital and is not deductible as a business expense.
+[18] In conclusion, the appeal must be dismissed in respect of both amounts, that is the amount relating to the surety bond and the amount relating to the business expenses of A.E. Audet incorporée.
+Signed at Ottawa, Canada, this 22nd day of November 2006.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 11th day of June 2007.
+Gibson Boyd, Translator
+CITATION: 2006TCC613
+COURT FILE NUMBER: 2006-792(IT)I
+STYLE OF CAUSE: ANDRÉ AUDET AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 4, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: November 22, 2006
+APPEARANCES:
+Agent for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

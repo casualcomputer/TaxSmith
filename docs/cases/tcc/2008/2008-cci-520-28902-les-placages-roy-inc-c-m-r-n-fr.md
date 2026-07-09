@@ -1,0 +1,256 @@
+---
+title: "Les Placages Roy inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28902/index.do"
+last_modified: "2008-10-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 520"
+citation2: ""
+neutral_citation: "2008 CCI 520"
+decision_date: "2008-10-02"
+language: "fr"
+item_id: "28902"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1410
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:20:07.413000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "256bf6becbe62006f112feec7b5c59eea40f61e64c6cfbba1a85c06b1922fdb8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Placages Roy inc. c. M.R.N.
+
+- Citation: 2008 CCI 520
+- Decision date: 2008-10-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1410, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Placages Roy inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-02
+Référence neutre
+2008 CCI 520
+Numéro de dossier
+2007-4471(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-4471(EI)
+ENTRE :
+LES PLACAGES ROY INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 3 septembre 2008, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est accueilli et la décision du ministre du Revenu national est annulée en ce que le travail exécuté par Annie Roy et Carol Roy pour l’appelante « Les Placages Roy inc. », du 1er janvier au 18 décembre 2006, est exclu des emplois assurables en vertu de l’alinéa 5(2)i) de la Loi, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008 CCI 520
+Date : 20080925
+Dossier : 2007-4471(EI)
+ENTRE :
+LES PLACAGES ROY INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif à l’assurabilité du travail exécuté par madame Annie Roy et monsieur Carol Roy pour le compte de l’appelante, soit la société « Les Placages Roy inc. », du 1er janvier au 18 décembre 2006.
+[2] L’intimé, après avoir exercé la discrétion que lui confèrent les dispositions de la Loi sur l’assurance­‑emploi (la « Loi »), en est arrivé à la conclusion que le travail en question avait été effectué d’une manière semblable ou comparable à une situation et un contexte où il n’y aurait pas eu de lien de dépendance entre les parties au contrat de travail.
+[3] Les dispositions de la Loi à cet effet se lisent comme suit :
+5(2) N’est pas un emploi assurable [...]
+[...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[4] Sur cette matière la jurisprudence est abondante. Aux termes de cette jurisprudence, il faut retenir notamment que chaque dossier est un cas d’espèce et que, si la conclusion à laquelle l’intimé est arrivé, après avoir pris en considération tous les éléments pertinents, est raisonnable, la Cour canadienne de l’impôt ne peut pas changer la conclusion retenue.
+[5] En l’espèce, l’appelante a d’abord admis un grand nombre de faits tenus pour acquis desquels a résulté la décision dont il est fait appel.
+5. a) l’appelante a été constituée en société le 7 février 1968;
+b) l’appelante exploitait une entreprise d’encollage de bois de placage sur des meubles, des armoires, des instruments de musique;
+c) l’appelante était en exploitation à l’année longue;
+d) en 2006, l’appelante avait un chiffre d’affaires d’environ 4,4 millions de dollars;
+e) l’appelante employait, en plus de la travailleuse et du travailleur, 46 employés environ;
+f) l’appelante avait trois plans de travail qui faisaient de l’encollage de différentes façons avec différentes machines;
+g) chaque plan avait un chef d’équipe et une dizaine d’employés;
+h) la travailleuse était à l’emploi de l’appelante depuis une vingtaine d’années;
+i) la travailleuse était la directrice générale de l’appelante;
+j) les tâches de la travailleuse consistaient à s’occuper de l’administration des opérations, de la comptabilité, de la vente et des achats de bois;
+k) la travailleuse supervisaient directement deux employés qui effectuaient la comptabilité et les commandes;
+l) la travailleuse œuvrait dans les bureaux de l’appelante;
+m) la travailleuse n’avait pas d’horaire précis;
+n) la travailleuse travaillait de 45 à 50 heures par semaine pour l’appelante;
+[…]
+p) la travailleuse était rémunérée par dépôt direct à chaque semaine;
+q) la travailleuse, comme tous les employés de l’appelante bénéficiait d’une assurance collective médicale et salariale;
+r) le travailleur était à l’emploi de l’appelante depuis une vingtaine d’années;
+s) le travailleur était le vice‑président de la production;
+t) les tâches du travailleur consistaient à diriger et superviser l’atelier d’encollage de bois, soit le travail des employés et le bon fonctionnement des machines;
+u) le travailleur œuvrait dans les bureaux et ateliers de l’appelante;
+v) le travailleur n’avait pas d’horaire précis;
+w) le travailleur travaillait jusqu’à 70 heures par semaine pour l’appelante;
+[…]
+y) le travailleur était rémunéré par dépôt direct à chaque semaine;
+z) le travailleur, comme tous les employés de l’appelante bénéficiait d’une assurance collective médicale et salariale;
+[…]
+6. a) l’actionnaire unique de l’appelante avec des actions votantes était :
+Les placements J.L. Roy Inc
+100 % des actions
+b) les actionnaires de Les placements J.L. Roy Inc. avec des actions votantes étaient :
+Blanche Yvette Giguère
+La travailleuse
+Le travailleur
+Gérald Roy
+9,09 % des actions
+30,3 % des actions
+30,3 % des actions
+30,3 % des actions
+c) Blanche Yvette Giguère est la mère de la travailleuse, du travailleur et de Gérald Roy;
+d) la travailleuse et le travailleur sont liés par les liens du sang à un groupe de personnes qui contrôlent l’appelante par l’entremise de la société Les placements J.L. Roy Inc.
+[…]
+7. b) en 2006, la travailleuse et le travailleur, n’ont pas reçu de bonis de l’appelante;
+c) la travailleuse et le travailleur n’avaient pas donné de garanti ou de caution personnelle en faveur de l’appelante;
+[…]
+f) les travailleurs étaient au service de l’appelante à l’année longue depuis plus de 20 ans
+[…]
+h) le travail des travailleurs était essentiel et important pour la bonne marche de l’entreprise de l’appelante;
+[…]
+l) l’appelante ne fournissait pas de véhicule automobile à la travailleuse et au travailleur;
+[6] Pour ce qui est des autres faits tenus pour acquis, ils ont été niés. Il s’agit des faits suivants :
+5. o) la rémunération de la travailleuse avait été décidé par l’appelante, et elle était basée sur un salaire de 1 390 $ brut par semaine;
+[…]
+x) la rémunération du travailleur avait été décidé par l’appelante, et il était identique à celui de la travailleuse, soit 1 390 $ brut par semaine;
+[…]
+aa) la travailleuse et le travailleur avait des vacances rémunérés durant les fermetures de la production, soit 3 semaines durant l’été et 2 semaines durant l’hiver;
+bb) l’appelante avait une vie corporative active;
+cc) les actionnaires de l’appelante se réunissaient régulièrement;
+dd) la travailleuse et le travailleur avaient des comptes à rendre aux autres actionnaires de l’appelante;
+ee) les décisions importantes pour l’appelante étaient prises par les actionnaires;
+ff) un lien de subordination existait entre l’appelante et la travailleuse et le travailleur;
+gg) l’appelante avait un droit de contrôle sur la travailleuse et le travailleur;
+[…]
+7. a) le salaire de la travailleuse et du travailleur avaient été décidé par entente des administrateurs de l’appelante;
+[…]
+d) la travailleuse et du travailleur étaient responsables de leur secteur d’activité respectif;
+e) la travailleuse et du travailleur occupaient des postes de direction, compte tenu de leurs fonctions et de leurs responsabilités chez l’appelante, leur rémunération était raisonnable;
+[…]
+g) la durée du travail des travailleurs était raisonnable;
+[…]
+i) il n’y avait pas d’absence prolongée la travailleuse et du travailleur;
+j) la nature et l’importance du travail des travailleurs étaient raisonnables;
+k) les modalités d’emploi reflétaient les exigences des postes de direction des travailleurs;
+[…]
+m) les frais de déplacements de la travailleuse et du travailleur étaient remboursés par l’appelante;
+n) les conditions d’emploi de la travailleuse et du travailleur demeuraient dans les normes des conditions d’emploi des dirigeants d’entreprise;
+o) les modalités d’emploi des travailleurs étaient raisonnables.
+[7] La preuve s’est limitée essentiellement au témoignage de monsieur Carol Roy et de madame Annie Roy, frère et sœur. Ils ont fait l’historique de l’entreprise et ont clairement décrit les activités de fabrication du produit, soit un contre‑plaqué dont la surface est du bois véritable. Ils ont fourni les détails relatifs aux variations du chiffre d’affaires, au nombre d’employés, le tout ressortant d’ailleurs assez bien à partir des faits admis précédemment reproduits. Les témoins ont néanmoins apporté plusieurs précisions et certaines nuances.
+Rétribution - Rémunérations
+[8] Madame Annie Roy a expliqué que les actionnaires se versaient de généreux bonis lorsque les affaires étaient florissantes, ce qui a cessé avec le ralentissement significatif des affaires causé par la dépréciation du dollar américain, le marché américain comptant pour plus de 70 % de leur chiffre d’affaires.
+[9] Pour l’année 2006, elle a reçu une rémunération de 75 433 $, alors que son frère Carol a touché 74 049 $. La rémunération a été établie essentiellement à partir de leurs besoins financiers.
+[10] Madame Roy a aussi expliqué que deux autres de ses frères avaient travaillé pour l’entreprise, l’un ayant décidé de faire carrière ailleurs et ayant vendu ses actions en 2003 et l’autre ayant cessé d’y travailler à temps plein d’abord pour cesser complètement de manière à consacrer sa totale disponibilité à l’entreprise qu’il a lui‑même créée dans l’environnement immédiat de l’appelante; d’ailleurs, son entreprise exploitée sur le site de l’appelante est devenue un acheteur des produits manufacturés dans une proportion de 7 % des ventes totales.
+[11] Dans un premier temps, la transition s’est effectuée par une diminution des heures de travail; durant une certaine période, Gérald Roy a travaillé 4 à 5 jours par semaine, mais seulement l’avant-midi. Lors de la période en question, soit en 2006, il ne travaillait plus pour l’entreprise mais il recevait cependant un salaire d’environ 200 $ par semaine.
+[12] À l’occasion, il était appelé, consulté ou mis à contribution étant donné qu’il avait œuvré dans l’entreprise pendant de nombreuses années, ce qui faisait de lui quelqu’un ayant des connaissances fort utiles.
+[13] À la suite de l’analyse ou de la révision, il semble que le travail de monsieur Gérald Roy a été exclu des emplois assurables.
+[14] Pourquoi? La preuve ne l’a pas démontré. Par contre, il y a lieu de croire que la personne qui a conclu ainsi a conclu que, n’ayant pas de prestation de travail, il ne pouvait pas y avoir de contrat de travail, la prestation de travail constituant un des éléments essentiel d’un contrat de travail.
+[15] Si tel est le fondement de la conclusion retenue, elle n’est pas conforme à la preuve puisqu’Annie Roy a bel et bien mentionné que l’expertise, l’expérience et les connaissances de Gérald étaient requis dans certaines situations. Il est cependant possible que l’analyste ait conclu qu’il s’agissait là d’une contribution à titre d’actionnaire et non à titre de travailleur, rejetant ainsi la preuve du salaire. Or, la preuve a bel et bien indiqué qu’il s’agissait non pas d’un dividende, non pas un boni, mais d’un salaire.
+Prestation de travail
+[16] Madame Annie Roy a expliqué qu’elle s’occupait principalement de la gestion administrative qui touche le personnel, les achats, les ventes, le service aux clients, la comptabilité, alors que son frère était principalement responsable de la production et de tout ce que cela comprend, allant des commandes spéciales aux achats d’équipement, à l’entretien‑réparation et à l’ensemble des activités liées à la productivité.
+Lien de subordination
+[17] Tant madame Annie Roy que son frère Carol ont affirmé avoir beaucoup d’autonomie et liberté en ce qui concerne l’exécution des tâches qui leur incombaient. De part et d’autre, ils assumaient leurs responsabilités, sachant très bien qu’ils n’avaient pas à obtenir quelque approbation que ce soit.
+[18] Il s’agissait de tâches, de fonctions et de décisions de nature routinière ou quotidienne. Tous les deux ont cependant reconnu que les décisions d’orientation ou d’achats importants et les décisions lourdes de conséquences se prenaient à la suite de discussions et/ou de consultations.
+[19] Ils ne tenaient pas de réunions formelles et encadrées; par contre, à l’occasion de dîners chez leur mère ou d’autres rencontres, ils prenaient connaissance des résultats financiers de manière ponctuelle. Tout se faisait dans l’harmonie.
+[20] Les travailleurs de l’entreprise, une quarantaine de personnes en tout, faisaient partie d’un syndicat depuis plusieurs années et les relations de travail étaient et, selon monsieur Roy, sont toujours manifestement très harmonieuses. Depuis l’arrivée du syndicat, il y a plusieurs années, il n’y a jamais eu de grief, son affirmation textuelle étant « O grief ». Après avoir indiqué qu’il avait deux fils qui faisaient partie de la main‑d’œuvre, je lui ai demandé si ces derniers bénéficiaient d’avantages, de conditions de travail particulières, et la réponse a été négative. Il a affirmé qu’ils étaient traités exactement comme les autres employés.
+[21] Chaque dossier étant un cas d’espèce, il en découle que de multiples situations sont possibles. Par conséquent, les paramètres dont la Cour doit tenir compte pour conclure à la raisonnabilité de la décision de l’intimé sont très larges au point où il est possible d’imaginer de très nombreuses hypothèses ou scénarios comparables.
+[22] Or, lorsque vient le temps d’apprécier si une conclusion s’avère raisonnable à la suite de la prise en considération de tous les facteurs pertinents, il faut, dans un premier temps, se demander si tous les éléments pertinents ont vraiment été pris en considération et, dans un second temps, se demander si ces mêmes faits ont reçu l’appréciation appropriée, à savoir si une importance démesurée a été accordée à certains éléments et si l’importance de certains autres faits a été sous-évaluée.
+[23] Dans l’hypothèse où le ministre a exercé son pouvoir discrétionnaire de façon irréprochable, il devient relativement difficile de faire la démonstration, par une prépondérance de la preuve, que la conclusion retenue est manifestement déraisonnable. En l’espèce, l’appelante a nié plusieurs faits tenus pour acquis par le ministre. Ils sont d’ailleurs reproduits au paragraphe 6 de ce jugement.
+[24] Bien que nié, le contenu des alinéas 5 o), 5 x), 5 aa) à 5 bb), 5 ee), 7 a), 7 i) et 7 m) s’est avéré exact en majeure partie à la lumière des explications soumises par madame et monsieur Roy. Quant aux autres alinéas niés, il s’agit essentiellement de questions d’interprétation.
+[25] Le compte-rendu intégral, soit le CPT 110, a été produit sous la cote A1. Étant donné qu’il s’agit là d’un document plus complet et détaillé que les allégués énumérés à la Réponse à l’avis d’appel, je crois pertinent de m’y référer pour vérifier la qualité du travail effectué par l’agent des appels.
+[26] Dans un premier temps, il est manifeste que la majeure partie du contenu de ce document est tiré des explications soumises par les personnes concernées. Je limiterai donc mon appréciation de ce document aux éléments qui ne concordent pas ou très peu avec la preuve soumise par madame et monsieur Roy dont l’emploi a été assurable. À la lecture de ce document, il appert que l’ensemble des faits qui y sont relatés sont tout à fait conformes aux témoignages. Par contre, à prime abord, il semble que certains éléments ont été écartés de l’analyse.
+[27] L’aspect familial de l’entreprise a-t-il eu une influence marquée sur son fonctionnement au point où il est facile d’imaginer des hypothèses où une ou des décisions importantes auraient été prises davantage à cause du lien familial qu’en raison de la réalité économique des affaires?
+[28] Les affaires et la famille ne sont pas nécessairement incompatibles; dans les faits, cependant, cela peut être autant à l’origine du succès de l’entreprise qu’à l’origine de sa déconfiture, l’idéal étant, évidemment, l’harmonie et l’équilibre.
+[29] Pour trancher, il m’apparaît essentiel de tenir compte des faits, certes, mais aussi de certaines hypothèses, d’autant plus que la jurisprudence a souvent rappelé que le pouvoir de contrôle à l’origine du lien de subordination n’a pas besoin d’être établi à partir d’exemples concrets, mais essentiellement à partir de son existence et/ou de l’absence de renonciation à celui‑ci.
+[30] Ainsi, il faut se demander s’il est probable, dans l’hypothèse d’une décision fort importante pouvant avoir des conséquences significatives sur les affaires de l’entreprise, que le critère familial serait priorisé, et ce, même au détriment possible de considérations purement économiques.
+[31] En l’espèce, la réponse à cette question ne fait aucun doute, à savoir que la dimension familiale l’emportait sur les affaires.
+[32] L’analyse effectuée a été réalisée à partir de la grande majorité des faits pertinents. Il est cependant évident que l’accent a d’abord été mis sur la question du contrat de travail. À cet égard, l’approche et l’analyse sont impeccables puisque la personne responsable a identifié les trois composantes essentielles, à savoir : RÉMUNÉRATION – PRESTATION DE TRAVAIL – LIEN DE SUBORDINATION
+[33] Par contre, eu égard aux dispositions légales pertinentes à ce dossier, il était aussi important de faire l’analyse sous l’angle d’une ou de plusieurs comparaisons afin de pouvoir conclure si le contrat de travail constaté était similaire ou comparable à celui qui aurait été conclu s’il n’y avait pas du de lien de dépendance.
+[34] À cet égard, certains éléments fort importants me semblent faire défaut dans l’analyse. Je fais notamment référence aux faits suivants, révélés par la preuve, mais aussi validés par les faits colligés lors de l’enquête : (pièce A-1)
+Faits recueillis lors de l’entrevue téléphonique, en appel conférence avec Annie Roy, travailleuse, et Nathalie Poirier, représentante du payeur, le 3 octobre 2007;
+[…]
+12. La travailleuse n’a pas investi personnellement dans la compagnie.
+[…]
+19. Elle pourrait cependant s’impliquer et s’imposer face à ses enfants si deux actionnaires essayaient de se débarrasser du troisième. Mme Roy, mère ramènerait les dissidents à l’ordre et par respect ils l’écouteraient.
+[…]
+22. Sa rémunération a été basée sur un salaire de 35 $ l’heure pour 40 heures de travail, en considération de ses tâches. Elle tournait autour de 77 000 $ à 80 000 $ en 2006. La travailleuse est payée par dépôt direct.
+23. La travailleuse reçoit le même salaire que Carol. Gérald reçoit moins puisqu’il travaillait depuis quelques années uniquement des demi-journées.
+[…]
+25. Le payeur ne fournit pas de véhicule à la travailleuse, elle n’a pas l’usage d’une carte de crédit du payeur. Seul Carol, en a une, car il oublierait de demander un remboursement au payeur sinon.
+[…]
+38. Concernant le chiffre d’affaires, il se souvient d’un revenu de 10 millions en 2000 car c’était une très bonne année. Pour l’année 2006, il ne le sait pas.
+[…]
+43. Il peut signer les chèques seul, il confirme l’obligation de deux signatures d’actionnaires pour les emprunts et la marge de crédit. Le travailleur ne peut pas cependant me dire les montants des emprunts. Annie pourrait me les donner, c’est elle qui travaille avec les chiffres.
+44. Comme Annie, le travailleur confirme que Mme Blanche Yvette G. Roy pourrait s’impliquer dans la compagnie si elle s’apercevait d’une discorde entre les deux frères et la sœur. Elle servirait d’arbitre pour les remettre à l’ordre.
+[…]
+49. Le travailleur n’a pas d’horaire, il travaille beaucoup d’heures, pas en bas de 70 heures par semaine. Il peut commencer à 5 :00 heures le matin et terminer à 20 :30 ou 21 :00 heures.
+[…]
+52. Le travailleur ne sait pas combien il gagne, c’est sa femme qui s’occupe de cela. Il sait qu’il gagne le même salaire qu’Annie et que Gérald gagne moins puisqu’il travaille moins.
+[…]
+[Je souligne.]
+[35] Les motifs à l’origine de la fixation de la rémunération peuvent varier considérablement; il est possible que le principal critère, tout comme en l’espèce, soit les besoins financiers des personnes concernées. Par contre, je ne crois pas que des personnes sans lien de dépendance auraient accepté de telles conditions. Certes, l’importance des tâches était aussi un critère important pour la détermination de la rémunération. Dans ce dossier, il peut exister d’autres facteurs, mais certainement rien de comparable en termes d’importance constatée ici où le nombre d’heures travaillées par Annie et Carol Roy était presque du simple au double.
+[36] Annie et Carol recevaient le même salaire pour une prestation de salaire différente, certes, mais non comparable en terme d’heures travaillées. Carol est une personne passionnée par son travail; une telle passion aurait été possible chez un tiers, mais certainement pas au point de l’amener à accepter pareille disproportion. Annie a été absente pendant une longue période dans le cadre de l’adoption d’un enfant et elle a quand même reçu son plein salaire.
+[37] L’influence de la mère n’était manifestement pas proportionnelle au pourcentage des actions qu’elle détenait. Bien qu’elle ne participait pas aux affaires courantes et quotidiennes, elle avait le pouvoir de prendre des décisions qui n’étaient pas nécessairement dans l’intérêt commercial de l’entreprise, mais qui favorisaient l’harmonie familiale. Le fait que Gérald touche un salaire sans avoir à travailler est une belle illustration de ce genre de décision. Il est très difficile, sinon totalement impossible, d’imaginer des tiers acceptant des conditions de travail à peu près semblables et comparables à celles abondamment décrites en l’espèce.
+[38] Voilà autant de faits qui justifient la Cour de conclure que la décision était déraisonnable au point où la prépondérance de la preuve qui se dégage de la prise en considération de tous les faits pertinents commande une conclusion à l’effet que le contrat de travail d’Annie et de Carol Roy était fortement façonné par les préoccupations d’ordre familial, d’où la décision de la Cour d’exclure le travail en question des emplois assurables en vertu de l’alinéa 5(2)i) de la Loi.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008 CCI 520
+Nº DU DOSSIER DE LA COUR : 2007-4471(EI)
+INTITULÉ DE LA CAUSE : LES PLACAGES ROY INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 3 septembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 2 octobre 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Nancy Dagenais
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jérôme Carrier
+Ville : Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

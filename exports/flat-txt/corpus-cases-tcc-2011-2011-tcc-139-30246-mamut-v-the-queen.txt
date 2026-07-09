@@ -1,0 +1,177 @@
+Title: Mamut v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30246/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-139-30246-mamut-v-the-queen.md
+Document type: case_law
+Last modified: 2011-03-16
+
+# Mamut v. The Queen
+
+- Citation: 2011 TCC 139
+- Decision date: 2011-03-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8015, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mamut v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-16
+Neutral citation
+2011 TCC 139
+File numbers
+2010-759(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2010-759(IT)G
+2010-762(IT)G
+BETWEEN:
+ADINA MAMUT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Dockets: 2010-758(IT)G
+2010-761(IT)G
+BETWEEN:
+SAMUIL MAMUT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2010-760(GST)G
+BETWEEN:
+SAMUIL MAMUT and
+ADINA MAMUT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Counsel for the Appellants:
+Thomas P. Fellhauer
+Counsel for the Respondent:
+Nadine Taylor Pickering
+AMENDED ORDER
+The respondent’s motion pursuant to section 69 of the Tax Court of Canada Rules (General Procedure) seeking an order consolidating the five appeals referred to above is granted in accordance with the attached Reasons for Order.
+The costs of this motion shall be in the cause.
+Signed at Montreal, Canada, this 16th day of March 2011.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2011 TCC 139
+Date: 20110316
+Dockets: 2010-759(IT)G
+2010-762(IT)G
+BETWEEN:
+ADINA MAMUT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Dockets: 2010-758(IT)G
+2010-761(IT)G
+BETWEEN:
+SAMUIL MAMUT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2010-760(GST)G
+BETWEEN:
+SAMUIL MAMUT and
+ADINA MAMUT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Lamarre J.
+[1] The respondent filed a motion before this Court pursuant to section 69 of the Tax Court of Canada Rules (General Procedure) (Rules) seeking an Order consolidating the five above‑mentioned appeals, which motion is opposed by the appellants.
+[2] The grounds for the respondent’s motion are stated at paragraphs 4 through 7 of the Notice of Motion :
+4. An application of the consolidation factors to these five appeals supports an order of consolidation. Common parties, common legal and factual issues, similar causes of action, parallel evidence and the outcome of one case as likely resolving the other case are the factors which the Court looks to in determining whether consolidation should be ordered. In the five appeals there are:
+(a) common parties: the Appellants in these appeals are Samuil Mamut, Adina Mamut (his spouse), and Samuil and Adina Mamut in partnership, and the Respondent in each appeal is Her Majesty the Queen;
+(b) common counsel: the Appellants’ and Respondent’s counsel are the same for all of the appeals;
+(c) common legal issue: that issue is whether the Appellants engaged in adventures in the nature of trade in respect of the construction and then disposition of two properties; and specifically: the issues for 2003 for both Samuil and Adina are identical; the issues for 2005 for both Samuil and Adina are identical; and the GST issue encompasses the facts of the four income tax appeals;
+(d) common facts: the relevant property transactions and surrounding property transactions are similar or the same in each appeal;
+(e) common pleadings: the facts pleaded in the five appeals are similar and overlap: the two 2003 appeals are virtually identical; the two 2005 appeals are virtually identical; and the GST Appeal references and provides details about the property transactions in issue in all of the income tax appeals;
+(f) a series of transactions relevant to all appeals and therefore common evidence: the mechanics of the property transactions are similar and overlap, and are proximal in time to various other real estate transactions. Later property transactions may evidence what the Mamuts’ intentions were in purchasing the earlier properties, and the number of similar transactions before and after the transaction under review is an important factor in determining whether the Mamuts were engaged in adventures in the nature of trade; and
+(g) common witnesses: the same auditor raised all of the reassessments, the same appeals officer reviewed all of the Notices of Objection to those reassessments, and the submissions made in all of the Objections are identical, and therefore, the witnesses called in each appeal will likely be the same or similar.
+5. At trial, the Tax Court would make findings of fact regarding property transactions, and these findings would be relevant to each of the five appeals.
+6. The requested Order will promote the most expeditious and inexpensive determination of the common questions of fact and law arising out of these five appeals, allowing the parties to prepare one list of documents each, reducing the number of examinations for discovery and undertakings, and allowing the Court to issue one Order or one communication that will be applicable to all five appeals. This will lead to more efficient file case management of these five appeals and be more time efficient overall.
+7. There is no prejudice to the Appellants in consolidating these appeals at this early stage: all of the details surrounding both property transactions would be heard by the Court for at least the GST appeal regardless of consolidation, and the Court will make findings of fact that are pertinent and relevant to all five appeals. In addition, consolidation of the five appeals will eliminate the possibility of inconsistent and contrary findings of fact, which might occur where the appeals are heard separately.
+[3] More precisely, the respondent states the following in her written representations, at paragraph 7 et seq.:
+Common Legal Issues
+7. There is a common legal issue in all five Appeals. That issue is whether the Appellants engaged in adventures in the nature of trade in respect of the construction and then disposition of two properties: 2137 Chilcotin Crescent, Kelowna, British Columbia which was purchased in 2001 and sold in 2003, and 611 South Crest Drive, Kelowna, British Columbia which was purchased in 2003 and sold in 2005.
+8. The issues in the 2003 Samuil Appeal and the 2003 Adina Appeal are identical: whether Chilcotin Crescent was the Mamuts’ principal residence in 2003, and, if not, whether the gain from its disposition in 2003 is from an adventure in the nature of trade and therefore properly included in the Appellants’ income for 2003 pursuant to the relevant sections of the Income Tax Act (the "ITA").
+9. The issues in the 2005 Samuil Appeal and the 2005 Adina Appeal are identical: whether the Appellants maintained beneficial ownership of South Crest Drive when they transferred legal title to their son Adiel in 2004, and if so, whether the gain from its disposition in 2005 is from an adventure or concern in the nature of trade and therefore properly included in the Appellant’s income for 2005 pursuant to the relevant sections of the ITA.
+10. The GST Appeal encompasses the facts of the four income tax appeals. The issue is whether GST is exigible on the sale of Chilcotin Crescent and South Crest Drive pursuant to the Excise Tax Act.
+Common Facts
+11. The GST Appeal and the four income tax appeals share common facts. The relevant property transactions are the same or similar: the two 2003 appeals concern both Samuil and Adina Mamut and one property; the 2005 appeals again pertain to both Samuil and Adina Mamut and another property; and the GST Appeal again deals with both Samuil and Adina Mamut and both of the properties.
+12. The Respondent’s position is that the Mamuts’ principal residence from 1996 through 2007 was 2258 Lillooet Crescent, Kelowna. However, the Appellants claim that when Chilcotin Crescent was sold in 2003, it was their principal residence. Should the Court conclude that Lillooet Crescent was the Mamuts’ principal residence from 1996 through 2007, that finding would be relevant in all five of the appeals.
+Series of Transactions
+13. Factually, the mechanics of the Chilcotin Crescent and South Crest Drive transactions are similar and overlap, and are proximal in time to various other real estate transactions. Although all of the following properties were sold by the Mamuts for more than their purchase price and there is overlap in the ownership of the various properties, the Mamuts have not reported a gain on any of the properties that were sold. The Mamuts:
+(a) purchased Chilcotin Crescent in September 2001 and sold it in July 2003;
+(b) purchased South Crest Drive in August 2003, constructed a house on it in 2004 and transferred legal title to their son, and sold it in 2005;
+(c) owned the property at 2258 Lillooet Crescent from 1996 through 2007, which ownership overlaps and encompasses the ownership of Chilcotin Crescent and South Crest Drive;
+(d) owned a property at 995 Neptune Road in Kelowna, from 1992 through 2001, which ownership overlaps with ownership of 2258 Lillooet Crescent; and
+(e) purchased a property at 592 Denali Drive in Kelowna in June 2005, which ownership overlaps with ownership of 2258 Lillooet Crescent.
+14. The property transactions in issue in the five appeals are all linked. Therefore, there will be common evidence put forth for all the appeals. Later property transactions may evidence what the Mamuts’ intentions were in purchasing the earlier properties. The number of similar transactions before and after the transaction
+under review is an important factor in determining whether the Mamuts were engaged in adventures in the nature of trade.2
+___________________
+2 Happy Valley Farms Ltd. v. MNR, 1986 CarswellNat 375 (FCTD) at Tab 2,
+paras. 13 and 28.
+15. The factual findings of the trial judge in the income tax appeals would essentially be applied in the GST Appeal. All five appeals are tied together in the GST Appeal.
+16. At trial, the Tax Court would make findings of fact regarding property transactions which would be relevant to each of the five appeals.
+[4] The appellants, for their part, oppose the application to consolidate the five appeals on the basis that consolidation is inappropriate because the five appeals do not share common facts or common issues of law and because consolidation would unduly prejudice the appellants and amount to a disposition of the very issues under appeal.
+[5] The appellants submit that the Income Tax Act (ITA) provides that each taxpayer has the right to appeal each assessment issued against him/her. They submit that they have limited means and are extremely motivated to pursue these appeals in the most efficient, expeditious and cost‑effective manner possible, but not in such a way that their interests will be unduly prejudiced.
+[6] According to the appellants, the 2003 income tax appeals and the 2005 income tax appeals have few, if any, common facts. The 2003 income tax appeals pertain to the sale of their home located on Chilcotin Crescent, which they argue was their principal residence, a fact denied by the Canada Revenue Agency (CRA).
+[7] The 2005 income tax appeals pertain to the beneficial ownership of the home located on South Crest Drive in Kelowna that they built and gave to their son Adiel in 2004. That house was sold in 2005 and treated as having been Adiel’s principal residence. The CRA considered that the beneficial ownership of that property had always remained with the appellants and that the gain on the sale had to be reported in their income.
+[8] According to the appellants, these were separate transactions, the owner of the house being different in each transaction. There are therefore no common facts.
+[9] Furthermore, the appellants argued that the legal issue with respect to each transaction is different. According to the appellants, consolidation of all five appeals on the basis of a finding that there are common issues of law requires prejudgment of the very issues that are under appeal, to the detriment of the appellants, and they submit that, in the interest of fairness, this is not the appropriate process for dealing with the issues in the appeals.
+[10] The appellants also asserted that the two dispositions were in no way related and were not part of a series of transactions. If the five appeals were consolidated, it would cause undue prejudice to the appellants because such consolidation would amount to a finding that the transactions are part of a series of transactions and would strongly suggest the outcome of the appeals. Furthermore, it would likely add substantially to the legal costs.
+[11] Instead, the appellants proposed the consolidation of the Samuil Mamut and Adina Mamut 2003 income tax appeals, which would be heard first, and, of both of the 2005 income tax appeals, which would be heard subsequently. The appellants agreed that the resolution of the issue in the income tax appeals should be determinative of the GST appeal and therefore proposed that the GST appeal be stayed until all the income tax appeals are decided.
+Analysis
+[12] Section 26 of the Tax Court of Canada Rules (General Procedure) provides as follows :
+26. When Proceedings May be Consolidated — Where two or more proceedings are pending in the Court and
+(a) they have in common a question of law or fact or mixed law and fact arising out of one and the same transaction or occurrence or series of transactions or occurrences, or
+(b) for any other reason, a direction ought to be made under this section,
+the Court may direct that,
+(c) the proceedings be consolidated or heard at the same time or one immediately after the other, or
+(d) any of the proceedings be stayed until the determination of any other of them.
+[13] In John E. Canning Ltd. v. Tripap Inc., [1999] F.C.J. No. 715 (FCTD) (QL), referred to by counsel for the respondent, Lemieux J. stated the following at paragraphs 26 and 27 :
+[26] Consolidation of two actions will usually be ordered when the issues raised by the pleadings in the action are sufficiently familiar or common so as to achieve the objectives of consolidation namely: the general interest of justice, its proper administration and the true interests of the parties.
+[27] The underlying policy objectives in consolidation is [sic] the avoidance of a multiplicity of proceedings and the promotion of expeditious and inexpensive determination of those proceedings. Common parties, common legal and factual issues, similar causes of action, parallel evidence and the outcome of one case as likely resolving the other case are the factors which the Court looks to in determining whether consolidation will be ordered or not (see Eli Lilly and Co. v. Apotex Inc. and Eli Lilly and Co. v. Apotex Inc., 55 C.P.R. (3d) 429, and Mon-Oil Ltd. v. Canada (1989), 27 F.T.R. 50).
+[14] In my view, this is a case where consolidation of the five appeals will serve the general interest of justice, its proper administration and the true interests of the parties. The issues in these appeals are sufficiently familiar or common as to achieve the objectives of consolidation. It will avoid a multiplicity of proceedings which, I find, are not necessary in the present case.
+[15] The parties are the same in all the appeals and, in my opinion, it is in the interests of justice to analyze in a single hearing the factual and legal issues in all the appeals. Indeed, the appeals deal with two transactions initiated by the same people and involve related persons.
+[16] The determination of the issue in all the appeals requires the analysis of, among other things, the course of conduct and the intention of the taxpayers (see Happy Valley Farms Ltd. v. Minister of National Revenue, 1986 CarswellNat 375 (FCTD).
+[17] In my view, if all five appeals are consolidated, the trier of fact will be in a better position to make findings with respect to the existence or non-existence of a series of transactions without causing undue prejudice to the appellants, as they fear. The trier of fact’s role is to analyze the evidence before her or him in all objectivity, and the fact they are consolidated should not influence the outcome of the appeals. Whether there are separate hearings or only one, it is most probable that evidence regarding all of the transactions will be adduced for each appeal in any event, and this will entail much higher costs if the appeals are heard separately.
+[18] The respondent has satisfied me that it will be more efficient to proceed with all of the appeals together. As the parties will thus need to prepare only once for a hearing and the witnesses will have to appear only once, it is only logical to conclude that the consolidation will promote the most expeditious determination of all issues. With respect to the cost of holding only one hearing, I doubt that it will result in much higher legal costs for the appellants. In fact, there is no evidence that it will at this early stage of the proceedings, the parties not yet having set dates for the completion of the various steps preparatory to the hearing of the five appeals. There is no evidence either that consolidation would occasion delay or significant or extreme expense as I understand would have been the case in Baxter v. R., 2003 CarswellNat 4105 (TCC), referred to by the appellants.
+[19] I therefore conclude that it will be more efficient and achieve better administration of justice to consolidate the five appeals. The respondent’s motion is granted.
+[20] The costs of this motion shall be in the cause.
+Signed at Montreal, Canada, this 16th day of March 2011.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2011 TCC 139
+COURT FILES NO.: 2010-759(IT)G; 2010-762(IT)G;
+2010-758(IT)G; 2010-761(IT)G;
+2010-760(GST)G
+STYLE OF CAUSE: ADINA MAMUT v. THE QUEEN
+SAMUIL MAMUT v. THE QUEEN
+SAMUIL MAMUT and ADINA MAMUT
+v. THE QUEEN
+REASONS FOR ORDER BY: The Honourable Justice Lucie Lamarre
+DATE OF ORDER: March 16, 2011
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Thomas P. Fellhauer
+Firm: Pushor Mitchell LLP
+Kelowna, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

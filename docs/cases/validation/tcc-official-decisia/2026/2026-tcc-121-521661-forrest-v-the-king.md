@@ -1,0 +1,485 @@
+---
+title: "Forrest v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521661/index.do"
+last_modified: "2026-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 121"
+neutral_citation: "2026 TCC 121"
+decision_date: "2026-06-26"
+language: "en"
+item_id: "521661"
+file_numbers: "2025-2746(IT)I"
+judges: "Michael U. Ezri"
+subjects: "Income Tax Act"
+case_scope: "all"
+tax_relevance: "income tax"
+pdf_url: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/521661/1/document.do"
+pdf_path: ""
+pdf_sha256: ""
+source_html_sha256: "e5c6a822e7115d5587931450b708550bbc9b0a64c8deb3ad0a371b0912b5d1a2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Forrest v. The King
+
+- Citation: 2026 TCC 121
+- Decision date: 2026-06-26
+- Court: Tax Court of Canada
+- Subjects: Income Tax Act
+- File numbers: 2025-2746(IT)I
+- Judges: Michael U. Ezri
+- Tax relevance: income tax
+
+## Decision Text
+
+Docket: 2025-2746(IT)I
+
+BETWEEN:
+
+NORMAN FORREST,
+
+Appellant,
+
+and
+
+HIS MAJESTY THE KING,
+
+Respondent.
+
+Motion heard on May 5, 2026, and written submissions made on May 20 and 29, 2026, at Montréal, Quebec.
+
+Before: The Honourable Justice Michael U. Ezri
+
+Appearances:
+
+For the appellant:
+
+The appellant himself
+
+Counsel for the respondent:
+
+Valentina G. Danielova
+
+ORDER
+
+The respondent’s motion to quash the appellant’s appeal is dismissed.
+
+The parties have 30 days from the date of this Order to either file a consent to judgment or withdraw the appeal, failing which the matter is to be set down for hearing.
+
+Signed this 26thday of June 2026.
+
+“Michael Ezri”
+
+Ezri J.
+
+Citation: 2026 TCC 121
+
+Date: 20260626
+
+Docket: 2025-2746(IT)I
+
+BETWEEN:
+
+NORMAN FORREST,
+
+Appellant,
+
+and
+
+HIS MAJESTY THE KING,
+
+Respondent.
+
+REASONS FOR ORDER
+
+Ezri J.
+
+I. Reasons
+
+[1]Can the Minister of National Revenue (the Minister) abrogate a taxpayer’s appeal rights by purporting to issue an assessment under the fairness provisions of subsection 152(4.2) of the Income Tax Act (ITA) where that assessment includes a tax increase, which is then immunized from judicial scrutiny?That is the question raised by the unusual procedural history of this case.For the reasons that follow, I find that the Minister’s assessment was issued only partly under subsection 152(4.2) of the ITA and does not abrogate all of the appeal rights of the appellant.
+
+II. The Background
+
+[2]The appellant filed his 2020 tax return in April 2021.It was assessed as filed on April 13, 2021.This date is important because it starts the three-year clock on the “normal reassessment period” in subsection 152(3.1) of the ITA.
+
+[3]Apparently, the tax preparation software that Mr. Forrest used contained a glitch resulting in an improper claim with respect to capital gains on the disposition of shares.The Canada Revenue Agency (CRA) carried out an audit and the appellant responded by, among other things, filing an amended return and seeking a capital gains deduction carry forward.The CRA responded that there was no such amount available and it issued a reassessment (NORA #1) on September 8, 2023, adding a capital gain and reducing a capital loss.The total effect was to increase the taxable capital gain by $12,000.
+
+[4]The appellant filed a notice of objection on November 10, 2023, along with a T1 adjustment request seeking a capital gains deduction.
+
+[5]Nothing happened to the objection, and while everyone was napping, the normal reassessment period expired on April 13, 2024.The CRA nevertheless retained the power to reassess in response to the objection under subsection 165(3) of the ITA and/or to assess in response to a taxpayer relief request under subsection 152(4.2) of the ITA.
+
+[6]In August 2024, the appellant filed an adjustment request that was wholly unrelated to the matters described above.He requested non-refundable tax credits for an infirm dependent and for attendant care expenses.
+
+III. It all goes off the rails
+
+[7]On March 7, 2025, the CRA wrote to the appellant advising that his objection would be accepted in its entirety.On March 17, 2025, the CRA issued a notice of reassessment (NORA #2).The reassessment completely reversed NORA #1 from September 8, 2023, and gave the taxpayer everything that he wanted.It did not however deal with the non-refundable tax credits.The March 7, 2025 decision letter read in part:
+
+[translation]
+
+“We have accepted your objection in its entirety.”
+
+[8]Everyone was happy.
+
+[9]Then a funny thing happened.Someone at the CRA realized that the March 17, 2025 NORA #2 was completely wrong and the opposite of what the CRA should have done.
+
+[10]The exchanges of correspondence include a peculiar letter dated April 25, 2025, repeating the quote that I referenced above and then proceeding to deny some of the amounts accorded to the appellant:
+
+[TRANSLATION]
+
+The Minister made the following decision based on a review of the available information.
+
+We have accepted your objection in its entirety (emphasis added).
+
+Further to the conversation we had on April 25, 2024,[1] a reassessment will be issued. We will remove the $58,000 capital loss from your 2020 tax return. In addition, a $12,136 capital gains deduction will be allowed at line 25400 of your 2020 tax return (emphasis added).
+
+[11]The CRA then issued NORA #3 on May 23, 2025, which completely reversed NORA #2 and reinstated the amounts from NORA #1, issued in September 2023, and allowed no capital gains deduction.NORA #3 increased the appellant’s gross income by over $12,000.
+
+[12]The attentive reader will, of course, be aware that NORA #3 was issued more than a year after the April 13, 2024 expiry of the normal reassessment period.The CRA seems to have missed this detail.NORA #3 made no mention at all of being issued on the basis of a misrepresentation or negligence.Instead, NORA #3 was purportedly issued in response to the November 10, 2023 notice of objection, despite NORA #2 having been issued pursuant to subsection 165(3) and presumably having exhausted the Minister’s powers to assess under subsection 165(3).I quote directly from NORA #3 as to the basis upon which it was ostensibly issued:
+
+[translation]
+
+“In response to your November 10, 2023 notice of objection, we have made a change based on subsection 165(3) of the Income Tax Act.”
+
+After reviewing the facts and the documents provided, we cannot grant you the capital gains deduction for the 2020 taxation year.
+
+[13]However, the CRA also used NORA #3 as the opportunity to offer the appellant non-refundable credits for a dependent, though apparently not for attendant care.
+
+[14]The CRA sent a decision letter on May 30, 2025, addressing both matters.Again, it is instructive to quote from the letter:
+
+[translation]
+
+This letter is further to your objection regarding the September 8, 2023 income tax reassessment in respect of the 2020 taxation year.
+
+The Minister made the following decision based on a review of the available information.
+
+We have accepted your objection in part.
+
+The basis of your objection is that you are requesting an adjustment to the September 8, 2023 notice of assessment in respect of the 2020 taxation year to account for the $12,136 eligible capital gains deduction respecting a small business corporation. You are also seeking an $8,576 disability tax credit in respect of that same year.
+
+After reviewing the facts and the documents provided, we cannot grant you the capital gains deduction in respect of the 2020 taxation year.
+
+[Emphasis added.]
+
+[15]The May 30, 2025 letter advised the appellant that he could either file a further notice of objection or appeal to the Tax Court of Canada.
+
+[16]The appellant filed a further notice of objection dated August 7, 2025, again objecting to NORA #2 dated September 8, 2023, and now also to NORA #3 dated May 23, 2025.
+
+[17]Attached to the notice of objection were two further T1 adjustment requests.The first one related to the capital gains issues and the second was a re-signed copy of the August 2024 request for dependent care and attendant care expense non-refundable tax credits.
+
+IV. The CRA’s remarkable August 29, 2025 letter
+
+[18]By letter dated August 29, 2025, the CRA purported to respond to a submission of the appellant dated May 22, 2025.If such a submission was made, I do not believe it was ever placed before me.
+
+[19]In any event, the CRA’s August 29, 2025 letter advised that the appellant’s May 22, 2025 submission could not be accepted as a valid objection.The appellant had already filed an objection on November 10, 2023, and the CRA had confirmed the 2020 assessment by letter dated May 30, 2025.
+
+[20]It is impossible to reconcile the May 30, 2025 letter inviting the appellant to file a further objection with the August 29, 2025 letter refusing to accept that objection.
+
+[21]The August 29, 2025 letter invited the appellant to appeal to the Tax Court.
+
+V. The CRA’s NORA #4
+
+[22]On September 18, 2025, the CRA issued NORA #4.The only change made in this NORA was to allow non-refundable tax credits related to attendant care.It did not allow any deductions for capital gains.
+
+[23]NORA #4 explicitly states that it was issued in response to the Appellant’s adjustment requests and that he was not permitted to file an objection to NORA #4.
+
+VI. The legal effect of NORA #3 and NORA #4
+
+[24]Whatever else is in dispute, the following is clear:
+
+-
+Regardless of whether the CRA was allowed to issue NORA #3 or whether it might have been statute-barred, NORA #3 was deemed by subsection 152(8) of the ITA to be valid and binding until and unless overturned or superseded by another reassessment; and
+
+-
+Per a long line of case law, notably 684761 B.C. Ltd.,[2] NORA #3 supersedes all prior assessments and reassessments.NORA #3 fixed the amount of gross and net income of the appellant; it changed his non-refundable tax credits and it changed tax payable for 2020.As long as NORA #3 was in place, all prior assessments and reassessments were nullities; and
+
+-
+NORA #4 in turn supersedes NORA #3 and makes NORA #3 a nullity.NORA #4 explicitly maintained the increases to income and tax that were established in NORA #3.It also changed the appellant’s non-refundable tax credits.Like NORA #3, NORA #4 is deemed to be valid and binding per subsection 152(8) of the ITA.That is true regardless of whether NORA #4 was issued pursuant to subsection 152(4.2), or even in a manner that contravened subsection 152(4.2), at least until a contravention is acknowledged by the respondent or found to exist by this Court.
+
+[25]So, NORA #4 is the last assessment standing.It is the only one from which an appeal might be maintained in this Court, and that is only if an appeal against NORA #4 is permitted.That question is the subject of the balance of this decision.
+
+VII. This appeal contests NORA #4
+
+[26]The appellant’s notice of appeal is not a model of clarity.That is understandable given both the complex procedural history that I have detailed, and the fact that the appellant is not represented by counsel.
+
+[27]One thing that is clear from the evidence before me is that the appellant has made significant efforts to preserve his rights as far as possible.This includes filing and re-filing T1 adjustment requests and objecting to both NORA #1 and NORA #3.
+
+[28]In his notice of appeal filed on November 13, 2025, the appellant sought to appeal what he described as the CRA’s decision of August 29, 2025, regarding capital gains deductions under subsection 48.1(1) of the ITA as well as the CRA’s refusal to allow the use of capital losses to reduce his 2020 capital gain.This is sufficient to constitute an appeal against NORA #3, but since NORA #3 is a nullity, it does not assist Mr. Forrest.
+
+[29]The appellant included in the attachments to his notice of appeal a document that is described as a request to appeal informally the August 29, 2025 decision addressed to the Chief of Appeals.That document then refers to NORA #4, dated September 18, 2025.I believe that this document is actually part of the notice of appeal addressed to the Tax Court seeking an appeal under the Informal Procedure.I find as a fact that it is such an appeal in respect of NORA #4 in addition to being an appeal against NORA #3.
+
+[30]There is therefore before this Court a notice of appeal contesting the September 18, 2025 NORA #4.
+
+VIII. Is the current appeal valid?
+
+[31]The respondent as moving party on this motion argues that the appeal against NORA #4 is invalid because NORA #4 was issued pursuant to subsection 152(4.2) of the ITA to give effect to the appellant’s T1 adjustment requests.Since no objection lies from a subsection 152(4.2) assessment and since the filing of a valid objection is a precondition to filing a notice of appeal, the respondent argues that this appeal is invalid and must be quashed.
+
+[32]It is the case that no appeal lies from a reassessment issued under subsection 152(4.2) of the ITA.[3]However, the amounts assessed under NORA #4 go beyond what was needed to give effect to the appellant’s T1 adjustment requests under subsection 152(4.2).The appellant certainly never asked for his income to be increased by $12,000.So, the crux of the issue is whether NORA #4 is a subsection 152(4.2) assessment such that no objection or appeal lies from it.
+
+[33]And just to eliminate a loose end, nothing turns on the fact that NORA #4 did not increase the appellant’s gross income beyond what it had been as a result of NORA #3 and in fact lowered tax payable as compared to NORA #3 by allowing additional non-refundable tax credits.It is true that the gross and net income stayed the same as between NORA #3 and NORA #4, but it is also true that the gross income and the tax assessed in NORAs #3 and #4 were higher than what they had been in NORA #2.NORA #2 is important because it was the last NORA that clearly did not depend on subsection 152(4.2) for its existence. It was without question issued under subsection 165(3) of the ITA in response to a notice of objection.
+
+[34]NORA #2 reassessed $58,000 in income and just $5,535 in federal tax.NORA #4 reassessed $70,548 in income and $6,079 in federal tax.
+
+IX. The problem with NORA #4 and maybe NORA #3
+
+[35]The basic problem with NORA #4 is that if it is issued pursuant to subsection 152(4.2) of the ITA, then there is no right of appeal.The appellant might have had appeal rights when the CRA increased his income and tax payable under NORA #3, but those rights were abrogated when NORA #3 was nullified by the issuance of NORA #4.
+
+[36]The effect is that the appellant has had his tax increased and has no legal recourse to do anything about it even though subsection 152(4.2) is supposed to exist as an exception to the “normal reassessment period”to help taxpayers, not to hinder them.Telling a taxpayer that they are getting a tax credit under a subsection 152(4.2) reassessment and that, by the way, they also owe more tax than before the reassessment is not what Parliament had in mind.
+
+X. Is NORA #4 a subsection 152(4.2) reassessment?
+
+[37]The test for determining whether an assessment has been issued under subsection 152(4.2) of the ITA is found in Reyes and is referenced by the respondent:
+
+-
+The reassessment is issued at any time after the end of the normal reassessment period;
+
+-
+The reassessment is for the purpose of determining the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under Part I for the year;
+
+-
+The taxpayer makes an application for that determination; and
+
+-
+The application is made on or before the day that is 10 calendar years after the end of that taxation year.[4]
+
+[38]We can review each factor in turn.
+
+The reassessment is issued at any time after the end of the normal reassessment period
+
+[39]This factor is satisfied.Both NORA #3 and #4 were issued after April 13, 2024, which was the end of the normal reassessment period.
+
+The reassessment is for the purpose of determining the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under Part I for the year
+
+[40]On its face, NORA #4 was issued to determine a refund or to reduce tax payable.As compared to NORA #3, it does just that by allowing an additional non-refundable tax credit.
+
+[41]However, this second criterion must be read in light of the actual wording of subsection 152(4.2), reproduced below with superfluous language removed:
+
+(4.2) Notwithstanding subsections (4), (4.1) and (5) for the purpose of determining — at any time after the end of the normal reassessment period, of a taxpayer who is an individual…, in respect of a taxation year — the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under this Part by the taxpayer for the year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is 10 calendar years after the end of that taxation year,
+
+a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year; and
+
+…
+
+[Emphasis added.]
+
+4.2) Malgré les paragraphes (4), (4.1) et (5) pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable — particulier… — pour une année d’imposition, le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition, à la fois :
+
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+
+[Non souligné dans l’original.]
+
+Textual, contextual and purposive analysis militates against increasing taxes under subsection 152(4.2)
+
+[42]An analysis of paragraph 152(4.2)(a) using the text, context, and purpose in Canada Trustco[5] reveals an ambiguity.[6]The ordinary meaning of “reassess” at the start of paragraph (a) of subsection 152(4.2) can mean either an upward or a downward assessment.That could be viewed as ambiguous since ambiguity exists where a word is reasonably capable of more than one meaning.[7]Here, reassessment can be either upward or downward.However, the provision exists in the context of section 152, which both grants the Minister the power to assess and imposes restrictions on that power.
+
+[43]Paragraph 152(4)(a) prohibits reassessments after the normal reassessment period[8] absent misrepresentations described therein.
+
+[44]Subsection 165(3) permits reassessment outside the normal reassessment period to give effect to decisions on objection, but subsection 152(5) prohibits adding amounts to the computation after the normal reassessment period.[9]
+
+[45]Subsection 152(4.2) operates notwithstanding subsections 152(4), (4.01), and (5).This could be read to mean that under subsection 152(4.2), one can assess to increase taxes “notwithstanding” the assessment restrictions enacted in those subsections.However, the purpose of subsection 152(4.2) per the May 1991 technical notes is only to allow refunds and reduce taxes:
+
+The purpose of new subsection 152(4.2), … is to give the Minister of National Revenue discretion to make a reassessment or a redetermination beyond the normal reassessment period when so requested by a taxpayer… in order to give the taxpayer a refund, or to reduce taxes payable. Thus, for example, if, after the expiration of the normal reassessment period an individual became aware that a claim for a deduction or a credit to which the individual was entitled was inadvertently not made, the Minister would have the discretion to reassess the return and give the taxpayer the benefit of the deduction or credit.
+
+[Emphasis added.]
+
+Le nouveau paragraphe 152(4.2), … confère au ministre du Revenu national un pouvoir discrétionnaire qui lui permet d’établir une nouvelle cotisation ou de déterminer un montant de nouveau, sur demande présentée par un particulier…après l’expiration de la période normale de nouvelle cotisation, et ainsi d’accorder un remboursement au contribuable ou de réduire son impôt payable. De même, le particulier qui, après l’expiration de la période normale de nouvelle cotisation, se rend compte qu’il n’a pas demandé, par inadvertance, une déduction ou un crédit auquel il avait droit pourra demander au ministre d’établir une nouvelle cotisation à l’égard de sa déclaration afin de remédier à la situation.
+
+[Non souligné dans l’original.]
+
+Reading subsection 152(4.2) as allowing upward adjustments “notwithstanding” subsection 152(4) or (5) would create a loophole that would allow the Minister to avoid the limitations therein and also immunize the resulting assessments from objections and from judicial scrutiny in this Court.That is an absurd interpretation of a remedial provision designed to reduce taxes and allow credits.
+
+[46]The context and purpose of subsection 152(4.2) reveal that the references to “notwithstanding” subsections (4), (4.1), and (5) in subsection 152(4.2) and the word “reassess” in paragraph 152(4.2)(a) should be limited to meaning that notwithstanding the limitations on assessment contained in subsections 152(4), (4.1), and (5) of the ITA, only downward adjustments may be reassessed under paragraph 152(4.2)(a).
+
+[47]A reassessment issued under subsection 152(4.2) cannot therefore assess an amount of income or tax that is higher than the amount that existed prior to the end of the normal reassessment period or that was established following a reassessment made to respond to an objection under subsection 165(3) of the ITA because that would constitute an end run around the requirements in subsections 152(4) and (5).
+
+Respondent’s argument that NORA #4 can increase tax: the Morton case
+
+[48]The respondent implicitly addresses the possibility of increasing taxes under a subsection 152(4.2) reassessment by introducing its written submissions with a case that seems to permit such a result.That case is Morton,[10]and paragraph 17 of Morton states the following:
+
+[17] ... Subparagraph 152(4.2)(a), as reproduced above, includes reference to penalties and does not by its plain wording limit the Minister to “reduce”, but to “reassess” tax, interest and penalties.
+
+[49]I agree that paragraph 17 of Morton can, at first glance, be read as holding that penalties can be imposed pursuant to subsection 152(4.2), and reasoning by analogy perhaps subsection 152(4.2) can permit a tax increase.However, a closer reading of Morton reveals that the Court did not rely on paragraph 152(4.2)(a) as the basis upon which the gross negligence penalty was assessed.
+
+[50]Morton is a case in which the taxpayer filed false T1 adjustment requests after the normal reassessment period had expired.The Minister, instead of reassessing to lower income and taxes, issued gross negligence penalty assessments under subsection 163(2) of the ITA.[11]There are two interesting points to emerge from Morton:
+
+-
+The first and most important point is that the Court did not quash the appeals but considered them on their merits and dismissed them.If the Court had really been of the view that the penalties were being imposed under paragraph 152(4.2)(a), then it would have simply quashed the appeals pursuant to Groulx[12] on the basis that no objection or appeal can be taken against a paragraph 152(4.2)(a) assessment; and
+
+-
+The Court in Morton went on to consider whether the T1 adjustment requests were “returns” within the meaning of subsection 163(2) of the ITA.The Court found that the adjustment requests were “returns”.[13]As such, a false statement therein could result in the imposition of gross negligence penalties.However, and at the risk of pointing out the obvious, subsection 163(2) is not a provision that permits statute-barred assessments.A subsection 163(2) assessment issued outside of the normal reassessment period must be grounded on some other assessing provision, which is invariably paragraph 152(4)(a) of the ITA.
+
+[51]Since Morton holds that T1 adjustment requests are returns, it follows that they can ground a paragraph 152(4)(a) reassessment if they contain a misrepresentation.In turn, if that misrepresentation is severe enough, the resulting reassessment can include or consist entirely of penalties under subsection 163(2) of the ITA.
+
+[52]So, the reassessments in Morton were not issued under subsection 152(4.2) and were not immune from objection or appeal, but rather were issued under paragraph 152(4)(a) and were subject to objection and appeal in the usual way.
+
+[53]If I am incorrect and paragraph 17 of Morton does stand for the proposition that paragraph 152(4.2)(a) can be used to impose penalties or increase taxes, then I would hesitate to apply paragraph 17 because:
+
+-
+Paragraph 17 is obiter.The decision in Morton produces the same result even without recourse to paragraph 17.As just noted, paragraph 22 of Morton recognizes that T1 requests are returns.So, the reassessments in Morton did not have to be and were not issued under subsection 152(4.2) of the ITA; they were issued under paragraph 152(4)(a);
+
+-
+The holding at paragraph 17 is contrary to the meaning of subsection 152(4.2), which contemplates assessments to help taxpayers and not to disadvantage them per my above textual, contextual and purposive analysis;
+
+-
+The need to guard against fraudulent T1 adjustment requests is not a good enough reason to read subsection 152(4.2) as conferring a power to assess or increase taxes or penalties when the above contextual reading clearly leads to the opposite conclusion.This Court does not read unexpressed policy intentions into statutes.[14]If it were to turn out that T1 adjustment requests are not returns to which paragraph 152(4)(a) applies, then it is up to Parliament, and not this Court, to fix the problem by legislating appropriate supervisory powers along with appropriate safeguards for the exercise of such authority; and
+
+-
+Morton is an Informal Procedure decision; it is not precedential.
+
+Conclusion on second criterion
+
+[54]NORA #4 conforms only in part to the second criterion.The acceptance of non-refundable tax credits therein conforms to paragraph 152(4)(a), but the reassessment of income in excess of what had been assessed under NORA #2 does not conform to that provision and so is not subject to the restrictions on objection or appeal.Since the appellant has already objected to the issues relating to capital gains and losses, no further objections need be filed and the matter can proceed to Court.
+
+[55]This is sufficient to dispose of the Crown’s motion, but for the sake of completeness, I turn to the remaining criteria.
+
+Third criterion: The taxpayer makes an application for that determination
+
+[56]Only one request, the attendant care request of the appellant, is caught by NORA #4. It is useful to look at each of the applications referenced by the respondent in turn.
+
+The November 2023 request
+
+[57]The appellant’s notice of objection was accompanied by a T1 adjustment request dated November 13, 2023,[15] seeking a capital gains deduction request for $29,166.75.This request was not made out of time and in any event, was fully addressed by NORA #2.It has no further relevance to this analysis.
+
+The August 2024 requests
+
+[58]The next requests are the non-refundable tax credit requests of August 21, 2024.Neither was addressed in NORA #2 but the dependant care amount was included in NORA #3.The attendant care amount remained outstanding.
+
+The August 2025 requests
+
+The final two requests were made on August 7, 2025:
+
+-
+The first request was related to capital gains and restated the $29,166.75 while also requesting an allowable business investment loss of $12,136.00.These requests are irrelevant.To the extent that the amounts were not allowed in NORA #2, they do not form the basis of any part of NORA #4.If the Minister in his discretion decides to accept a T1 adjustment request, he reassesses.If not, that decision is not communicated in a reassessment but in a decision that is subject to judicial review in the Federal Court.So, the decision to deny the August 7 capital losses requests is not communicated by NORA #4; and
+
+-
+The second request was the duplicate claim for dependent care and attendant care credits.The dependent care had already been allowed.The attendant care was allowed in NORA #4.This clearly is an adjustment that falls into subsection 152(4.2) of the ITA.So, to that extent only, NORA #4 is issued under subsection 152(4.2) of the ITA.
+
+[59]The fact that one element of NORA #4 conforms to subsection 152(4.2) does not mean that all of NORA #4 so conforms, still less does it immunize a challenge to the other elements of NORA #4 where the taxpayer believes that those elements are reassessed so as to increase tax payable.
+
+Fourth criterion: The application is made on or before the day that is 10 calendar years after the end of that taxation year.
+
+[60]This criterion is not disputed.All the T1 adjustment requests were made within the 10-year period.
+
+XI. Disposition of the motion
+
+[61]The respondent’s motion to quash must be dismissed.NORA #4 is not solely a subsection 152(4.2) reassessment from which no appeal lies because it reassesses income and taxes above the amounts assessed under subsection 165(3) of the ITA in NORA #2.The appellant has a limited right to appeal NORA #4 to reduce his federal tax by seeking to restore his gross, net and taxable income to the amounts reassessed under NORA #2, but nothing more.
+
+XII. Disposition of the appeal
+
+[62]I have considered whether my decision on this motion entails that this appeal should be summarily allowed and that NORA #4 should be referred back to adjust the appellant’s gross, net and taxable income so as to conform to NORA #2.
+
+[63]The increases to income and tax in NORA #3 and #4 were assessed after the normal reassessment period and did not refer to or rely on any misrepresentations, and indeed none are pleaded.Per subsections 152(5) and 165(3) of the ITA and the associated jurisprudence,[16] it was not open to the Minister nor is it open to the respondent to increase tax or to advance a new basis for reassessment following the normal reassessment period.I have also just found that taxes cannot be increased under subsection 152(4.2).There is therefore no obvious basis to permit NORA #4 to increase income or tax beyond what was assessed under NORA #2 and no basis upon which to allow the appellant any additional relief in respect of any capital gains matters that he may have wished to raise beyond those assessed in his favour under NORA #2.
+
+[64]I prefer not to allow the appeal at this time, however.I think it would raise procedural fairness issues to do so without giving both parties a chance to consider their positions and to determine how they wish to proceed.The parties are to have 30 days from the date of this Order to either file a consent to judgment or to withdraw the appeal on such terms as they think best having regard to these reasons, failing which the matter is to be set down for hearing.
+
+XIII. A postscript: appellant’s written submissions and the non-existent cases cited therein
+
+[65]The appellant’s May 29, 2026 submissions cited two cases that are fictitious and presumably the product of an AI hallucination: Anand v. Canada, 2019 FCA 141, and Beydoun v. Canada, 2018 FCA…
+
+[66]On June 11, 2026, some two weeks after the due date for the appellant’s submissions and following correspondence with the respondent, who drew the problem to his attention, he purported to send a wholesale replacement set of submissions.Needless to say, the respondent opposed this substitution.
+
+[67]Unfortunately, the appellant’s submissions were not particularly responsive given the highly technical nature of the issues before me, the appellant’s lack of legal training and the fact that AI is no substitute for real lawyering.I therefore placed no weight on either the original submissions or the replacement submissions.However, that does not excuse the appellant or any self-represented litigant from the obligation to make sure that the cases that they cite are real and that the analysis is their own.The cases may be fake but the cost consequences of filing such nonsense are real.In this instance, however, I will not make a costs order against the appellant.
+
+Signed this 26th day of June 2026.
+
+“Michael Ezri”
+
+Ezri J.
+
+CITATION:
+
+2026 TCC 121
+
+COURT FILE NO.:
+
+2025-2746(IT)I
+
+STYLE OF CAUSE:
+
+NORMAN FORREST AND HIS MAJESTY THE KING
+
+PLACE OF HEARING:
+
+Montréal, Quebec
+
+DATE OF HEARING:
+
+May 5, 2026
+
+DATES OF WRITTEN SUBMISSIONS:
+
+May 20 and 29, 2026
+
+REASONS FOR ORDER BY:
+
+The Honourable Justice Michael U. Ezri
+
+DATE OF ORDER:
+
+June 26, 2026
+
+APPEARANCES:
+
+For the appellant:
+
+The appellant himself
+
+Counsel for the respondent:
+
+Valentina G. Danielova
+
+SOLICITOR OF RECORD:
+
+For the appellant:
+
+Name:
+
+N/A
+
+Firm:
+
+N/A
+
+For the respondent:
+
+Marie-Josée Hogue
+
+Deputy Attorney General of Canada
+
+Ottawa, Canada
+
+[1] It is not clear if this date should be April 25, 2025.
+
+[2]684761 BC Ltd. v R. 2015 TCC 288.
+
+[3] The jurisprudence is concisely summarized in Ryes v R, 2023 TCC 31, para. 22, which cites, in particular, Groulx v. The Queen, 2008 TCC 445, aff’d 2009 FCA 10.
+
+[4]Ibid,para. 24.
+
+[5]Canada Trustco v. R., 2005 SCC 54, para. 10.
+
+[6]Ibid, para. 47.
+
+[7]Bell Express Vu Limited Partnership v. Canada (AG), 2002 SCC 42, para. 29.
+
+[8] Defined in subsection 152(3.1).
+
+[9] See also, Foster v. R., 2015 TCC 334, paras. 32‒36.
+
+[10]Morton v. R.,2014 TCC 72, para. 17.
+
+[11] The decision does not specify if the assessments were additional assessments for the penalty only or if they were wholesale reassessments that retained existing amounts of assessed tax while imposing penalties.
+
+[12]Groulx, supra note 3.
+
+[13]Morton, supra note 10, para. 23.
+
+[14]Cheema v. R., 2018 FCA 45, paras. 74–75 and 97.
+
+[15] The CRA affidavit describes the T1 adjustment request as Exhibit D dated November 10, 2023, but the signature date for the T1 adjustment request at Exhibit D is November 13, 2023.
+
+[16]Foster, supra note 9.

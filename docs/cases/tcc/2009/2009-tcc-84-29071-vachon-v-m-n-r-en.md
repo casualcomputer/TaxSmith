@@ -1,0 +1,244 @@
+---
+title: "Vachon v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29071/index.do"
+last_modified: "2009-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 84"
+citation2: ""
+neutral_citation: "2009 TCC 84"
+decision_date: "2009-02-04"
+language: "en"
+item_id: "29071"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6830
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:36:23.931000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "62c650b9fa5e1c5fbb36240895769f88e5846c8049a8e27753958eb29d425882"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vachon v. M.N.R.
+
+- Citation: 2009 TCC 84
+- Decision date: 2009-02-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6830, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vachon v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-04
+Neutral citation
+2009 TCC 84
+File numbers
+2008-105(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-105(EI)
+BETWEEN:
+NORMAND VACHON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LES PRODUITS MÉTALLIQUES ROY INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+_____________________________________________________________
+Appeal heard on June 25, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Claude Deschamps
+Counsel for the Respondent:
+Mounes Ayadi
+For the Intervener:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 4th day of February 2009.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 31st day of March 2009.
+Daniela Possamai, Translator
+Citation: 2009 TCC 84
+Date: 20090204
+Docket: 2008-105(EI)
+BETWEEN:
+NORMAND VACHON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LES PRODUITS MÉTALLIQUES ROY INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] Normand Roy (the Worker) is appealing from a decision by the Minister of National Revenue (the Minister) respecting the insurability of the work performed with Les produits métalliques Roy Inc. (the Payor) for the period from June 10, 2002, to December 31, 2004 (the relevant period). The Minister determined that the Worker was employed in insurable employment for the purposes of the Employment Insurance Act (the Act). The Worker submits that he was not employed in such employment as the nature of the contractual relationship binding them to the Payor was not that of a contract of employment, but rather that of a contract for services.
+[2] In making his decision, the Minister determined, based on the following assumptions of fact set out at paragraph 12 of the Reply to the Notice of Appeal, that the Appellant was employed under a contract of service:
+[TRANSLATION]
+(a) The Payor was incorporated on November 28, 1999; (no knowledge)
+(b) The Payor operates a commercial furniture manufacturing business; (admitted)
+(c) The Payor has annual sales of over 23 million dollars and employs over 200 employees; (denied with respect to what is inconsistent with the Payor’s financial statements)
+(d) The Payor’s principal shareholder was the Groupe Robert Roy Inc., a management business whose majority shareholder was Robert Roy; (denied with respect to what is inconsistent with the Payor’s minutes book)
+(e) Robert Roy was also the president and director of the Payor; (admitted)
+(f) In 2002, the Payor mandated Gestion Michel Aubry Inc. to perform a diagnostic test on the Payor’s operations; (admitted)
+(g) The report of Gestion Michel Aubry Inc. recommended, inter alia, that the Payor hire an acting chief executive officer on a full-time basis; (admitted as long as the term “hire” is interpreted as being hired as a self-employed worker)
+(h) Following that recommendation, the Payor hired the Worker as acting chief executive officer; (denied as written as the Worker was self-employed)
+(i) The Worker had extensive experience as chief executive officer of companies such as Alcan, Bombardier and Volvo; (admitted)
+(j) The Payor and the Worker signed a first employment agreement on June 10, 2002, covering the period from July 29, 2002, to January 31, 2003, and a second agreement covering the period from February 3 to November 28, 2003; this last agreement was extended until December 2004; (admitted with respect to the agreements, but denied as to the use of the expression “employment agreement”)
+(k) The Payor and the Worker agreed in writing to the terms and conditions of service of the Worker that came within the purview of the Payor’s board of directors; (admitted as long as it means how to report to the Payor as a consultant agent)
+(l) The Worker’s main objective consisted in making the Payor profitable again and assisting Robert Roy in managing operations; (admitted)
+(m) The Worker had an office at the Payor’s premises and also used the Payor’s boardroom; (admitted by specifying that the premises were placed at his disposal only for the duration of his mandate and that the boardroom was only used once per week at most)
+(n) The Payor confirms that the Worker performed 95% of his duties at its premises; (no knowledge)
+(o) Generally speaking, the Worker worked 4 days per week at the Payor’s premises in addition to occasionally working in the evening, from his hotel room, on certain matters; (denied as written by specifying that he generally worked 3½ days per weeks)
+(p) During his mandate with the Payor, the Worker carried out several tasks, including the following:
+a. he coached Robert Roy so that he could gain experience as a chief executive officer; (denied as written as the objective was not for Mr. Roy to become chief executive officer)
+b. he rectified issues involving the quality control of finished products and applied a new for reducing production time and errors; (admitted)
+c. he mobilized, with the help of executives, staff by way of an action plan, consensus and planned implementation with a view to increasing production speed and quality; (admitted)
+d. he put in place des corrective measures so that would allow certain employees of the Payor to receive complaints from dissatisfied customers; (admitted)
+e. he submitted reports on the fiscal results and provided outcome measures during quarterly meetings with the board of directors; (admitted)
+f. he held meetings with six other executives of the Payor who, as a management committee, ensured the implementation of the corrective measures he suggested; (admitted)
+(q) The Worker was paid a fixed salary of $1,200.00 per day and was reimbursed for his travel, meal and lodging expenses; (admitted by adding that he charged GST and QST on the monthly invoices he submitted to the Payor)
+(r) The Worker was paid upon the submission of invoices which indicate that, during the period in issue, he worked between 20 and 23 days per month for the Payor; (denied as written with respect to anything that is inconsistent with the invoices issued)
+(s) The Worker did not incur any financial risk in performing his work for the Payor; (denied)
+(t) The worker was the acting chief executive officer, that is to say, he occupied a line position in the Payor’s business which is an indication of the integration into the business and an indication of subordination; (denied)
+(u) The monthly invoices obtained from the Payor confirm that the Worker’s benefit period began on June 10, 2002; (no knowledge)
+(v) During the period in issue, the Worker rendered services under the
+supervision and control of the payor. (denied)
+[3] Normand Vachon and Roger Dufresne, appeals officer, both testified. No one testified on behalf of the Payor. The Worker indicated that he had 35 years’ experience as a chief executive officer, namely with Alcan, Bombardier and Volvo. After leaving Volvo, he took a one-year sabbatical and began to provide business start-up and turnaround consulting services. Prior to the relevant period, he performed consulting mandates for Bombardier and Ébénisterie Saint‑Patrick.
+[4] In all, the Worker entered into four agreements with the Payor. The first agreement is dated June 10, 2002, and its main terms and conditions are as follows:
+[TRANSLATION]
+- Les produits métalliques Roy Inc. retains the services of Mr. Vachon who will act as Acting Chief Executive Officer for the period July 29, 2002, to January 31, 2003;
+- the mandate will be performed on a full-time basis, that is, from Monday to Friday, inclusively;
+- a transition period will be mutually defined by the parties to effectively ensure the transfer of responsibilities to Mr. Vachon’s successor at Ébénisterie Saint‑Patrick;
+- Mr. Vachon will be paid $1,200 per day payable before the 15th day of the following month. Travel expenses will be paid at the rate of $0.35/km and meal and lodging expenses will be reimbursed at cost upon presentation of a monthly expense account;
+- Mr. Vachon will report to the President, Robert Roy, and the Vice‑President, strategic partnership development of Sajo, Gilles Thompson;
+- Mr. Vachon will have full authority and responsibility in fulfilling his mandate and will be involved in the decision-making of all aspects of the business’s day-to-day management;
+- In the case of investments and/or the hiring of outside consultants, he will have to obtain prior authorization of the mandates;
+- The main objectives of Mr. Vachon include, but are not limited to, the following:
+A. The development and implementation of a work plan approved by mandates following diagnostic tests prepared by Gestion Michel Aubry and the Créatech group.
+The main areas for improvement are as follows:
+(a) the company’s profitability;
+(b) the business’s commercial development (business plan, action plans);
+(c) a complete overhaul of the company’s organization chart (analysis of the structure, optimization of work and business processes);
+(d) the mobilization of human resources (overall compensation policy, job description, introduction of the principle of accountability).
+B. The development and implementation and necessary follow-up of a mentorship and personal and professional development program for the president.
+[5] The second agreement is dated December 12, 2002, and like the first agreement, it was signed by Mr. Vachon, as acting officer, and by Mr. Roy, as president of Les produits métalliques Roy Inc. The terms and conditions of the second agreement are similar to the first agreement and such agreement applies to the period from February 3, 2003, to November 28, 2003. The main objectives of Mr. Vachon under this agreement are as follows:
+[TRANSLATION]
+A. The implementation of the 2003‑2005 business plan and the 2002‑2003 operational plan arising therefrom; and
+B. The implementation of the mentorship and personal and professional development program for the president.
+[6] The third agreement is dated October 2, 2003, and like the previous agreements, it was signed by Mr. Vachon, as acting officer, and by Mr. Roy, as president of Les produits métalliques Roy Inc. The terms and conditions of the third agreement are similar to the previous agreements and such agreement applies to the period from December 1, 2003, to December 2, 2005. The main objectives of Mr. Vachon under this agreement are as follows:
+[TRANSLATION]
+A. The implementation of the 2003‑2005 business plan and the operational plan arising therefrom; and
+B. The implementation of the mentorship and personal and professional development program for the president; and
+C. The development of a high-performing management team as well as the achievement of an adequate transition with the assigned chief executive officer to ensure business continuity and the organizational development underway.
+[7] The fourth and last agreement is dated August 24, 2004, and it was also signed by Mr. Vachon, as acting officer, and by Mr. Roy, as president of Les produits métalliques Roy Inc. The terms and conditions of the fourth agreement are similar to the previous agreements and such agreement applies to the period beginning on August 3, 2004, and ending on November 30, 2004. However, said agreement stipulates that
+[TRANSLATION]
+(i) the services of Mr. Vachon will be retained three days per week, namely Tuesday, Wednesday and Thursday;
+(ii) the president of the business may terminate the services of Mr. Vachon at any time but will be obliged to continue to pay his salary until November 30, 2004;
+(iii) Mr. Vachon may withdraw from his mandate at any time, as of August 31, 2004, and the company’s obligation to pay his salary may cease as of his last day of work. The main objectives of Mr. Vachon will be as follows:
+A. The development of a transition plan to ensure business continuity and the organizational development underway;
+B. The implementation of the transition plan taking into account that no chief executive director will take Mr. Vachon’s place once his mandate has ended;
+C. The joint training of the president and assigned staff to ensure the performance of the duties contained in the transition plan.
+This last agreement cancels and replaces all other agreements between parties, whether written or oral, including the agreement signed on October 2, 2003.
+[8] All these agreements were governed by the laws of the Province of Quebec and contained a clause protecting confidential information obtained during the course of Mr. Vachon’s mandate.
+[9] On August 21, 2003, Mr. Vachon formed the company 9132‑8518 Québec Inc. of which he was one of the directors (the other being his wife), the president and principal shareholder. That company also operated as Normand Vachon Service. As of September 2003, the Mr. Vachon’s consulting fees were paid to Normand Vachon Service (except for that of September 2003 which was payable to Normand Vachon Inc.)
+[10] Over the course of the relevant period, the Worker issued 29 monthly invoices for 576 working days, that is, 20 to 23 working days per month, except for the first invoice (7 days) and the four last invoices for 2004, which were for 13 days, 14 days, 12 days and 12 days, respectively. The total amount paid in consulting fees was $691,200, plus GST in the amount of $48,384 and QST in the amount of $55,188.18. During the relevant period, three GST numbers were used by Mr. Vachon.
+[11] The Payor is a family-run business which made a profit at the beginning of the year 2000 on an investment of 4.5 million dollars by the company’s main client, Sajo. The Payor, whose head office is located in St‑François de Montmagny, operates a commercial furniture manufacturing business. The company has about 200 non-unionized employees. In 2002, the financing partner was dissatisfied with the company’s financial results and convinced Mr. Roy to commission a study on the Payor’s operations. That mandate was given to the firm Gestion Michel Aubry Inc. One of the recommendations the consulting firm made was to hire a person with experience as acting chief executive officer on a full-time basis.
+Analysis
+[12] Paragraph 5(1)(a) of the Act defines the notion of “insurable employment” as follows:
+5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise.
+. . .
+[13] It is well-established in law that we must look to the provisions of the Civil Code of Québec (the C.C.Q.) to determine whether there was a contract of employment or a contract for services between the parties. Articles 2085, 2098 and 2099 of the C.C.Q. provide that the primary criterion for distinguishing between the two types of contracts is the relationship of subordination that characterizes the contract of employment. The provisions of the C.C.Q. read as follows:
+Art. 2085 A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+Art. 2098 A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+Art. 2099 The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[14] In addition to these articles, we must refer to articles 1378, 1425, 1426 and 1440 of the C.C.Q. which apply to contracts in general. The articles read as follows:
+Art. 1378 A contract is an agreement of wills by which one or several persons obligate themselves to one or several other persons to perform a prestation.
+Art. 1425 The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+Art. 1426 In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+Art. 1440 A contract has effect only between the contracting parties; it does not affect third persons, except where provided by law.
+[15] The legal nature of the relationship between the Payor and the Worker was not clearly set out in the four agreements between them. It was specified that the Worker was to act as acting chief executive officer and that his mandate was to be carried out on a full-time basis from Monday to Friday. The Worker reported to the president of the Payor and the vice-president, strategic partnership development of Sajo. The Worker’s salary was a fixed amount per day with the reimbursement for travel, meal and lodging expenses. Said agreements did not contain any provisions regarding vacation, fringe benefits and incentive bonuses. The agreements had a term of less than a year, except for the third agreement, which originally had a term of two years.
+[16] If we take into account the terms and conditions of the agreements, the circumstances in which they were formed and the interpretation which has been given to them by the parties such as the fact that the GST and the QST was invoiced and paid on the salary amounts and that no source deductions were made on those amounts, it seems quite clear to me that the parties had a common intention to form a contract of enterprise or for services.
+[17] In seeking the intention of the parties to the contract, I did not attach any importance to the fact that the Worker used the company 9132‑8518 Québec Inc. to invoice the cost of his services to the Payor, considering that the company was not party to the agreements concluded with the Payor (Art. 1440, C.C.Q.). Furthermore, there is no evidence that the Worker assigned his rights under those agreements in favour of 9132‑8518 Québec Inc. Finally, the third and fourth agreements dated October 2, 2003, and August 24, 2004, respectively, were signed by the Worker personally as acting officer of the Payor rather than by the company which existed at the time. Considering the circumstances, it seems therefore that 9132-8518 Québec Inc. benefited from a direction of the payment of the Worker’s consulting fees.
+[18] Even if the intention of the parties was to form a contract of entreprise or for services, that intention is not in itself a determining and decisive factor and it is necessary to examine all the relevant factors of the case and the parties’ conduct in fulfilling the mandate provided for in the agreements. The evidence clearly demonstrated that the Worker provided services in favour of the Payor and that he was paid a salary from the Payor. The only issue, then, is whether there was a relationship of subordination between the Payor and the Worker.
+[19] Subordination is verified by reference to the facts. The notion of subordination has evolved over time to include the degree of specialization of workers. The remarks of Robert P. Gagnon in Le droit du travail du Québec, Éditions Yvon Blais, 2003 5th edition, at page 67 are particularly interesting on the subject:
+. . . The reason for this is that the diversification and specialization of occupations and work methods often made it unrealistic for an employer to be able to dictate or even directly supervise the performance of the work. Consequently, subordination came to include the ability of the person who became recognized as the employer to determine the work to be performed, and to control and monitor the performance. Viewed from the reverse perspective, an employee is a person who agrees to integrate into the operational structure of a business so that the business can benefit from the employee's work. In practice, one looks for a certain number of indicia of the ability to control (and these indicia can vary depending on the context): mandatory presence at a workplace; a somewhat regular assignment of work; the imposition of rules of conduct or behaviour; an obligation to provide activity reports; control over the quantity or quality of the services, etc. The fact that a person works at home does not mean that he or she cannot be integrated into a business in this way.
+[20] The services of Mr. Vachon were retained by the Payor for his experience and his qualities as a manager. The agreements concluded provided that the mandate had to be carried out on a full-time basis, from Monday to Friday, inclusively, and that the Worker reported to the president of the Payor and Vice-president of Sajo. There are a number of indicia that tend to show that that the Worker was integrated into the Payor’s organization and that his services were performed for the Payor on a continuous and exclusive basis during the relevant period, at least until the signing of the fourth and last agreement on August 24, 2004.
+[21] The position the Worker occupied was that of acting chief executive officer, a very high position in the company’s hierarchy. In that capacity, the Worker enjoyed great freedom in the performance of his duties. It was provided for in the agreements that the Worker had full authority and responsibility in fulfilling his duties and that he would be involved in the decision-making of all aspects of the business’s day-to-day management. These factors clearly demonstrate the extent to which the Worker was integrated into the Payor’s organization.
+[22] The Worker also represented the Payor in dealings with clients and suppliers as evidenced by his invoices for meal and entertainment expenses.
+[23] The accomplishment of the objectives described in the agreements required from the Worker that he carry out the vast majority of his activities at the Payor’s establishment (offices and factory) even though there was no particular requirement for compulsory presence at the Payor’s establishment or for a specific work schedule. The parties do not agree on the duration of the Worker’s presence at the Payor’s establishment. The Worker claims that he only spent 3½ days per week working from the company’s premises, whereas according to the information provided by Mr. Roy to the appeals office, the Worker spent 95% of his time at the Payor’s establishment.
+[24] The agreements did not contain any requirement as to exclusive service provision by the Worker but considering the nature of the work to be performed, it was unthinkable that the Worker would have someone else replace him. In any case, the hiring of outside consultants was subject to the prior approval of Messrs. Roy and Thompson.
+[25] Considering that one of Mr. Vachon’s main objectives was to implement a training program and personal and professional development program for the president of the Payor, there is every reason to believe that the Worker therefore necessarily worked under the supervision and control of the president.
+[26] In the context of a family-run business whose principal shareholder is the president, I cannot see how the Worker could have performed his duties and met his objectives without being under the supervision and control of the president. This is even more obvious if we take into account the observations contained in the report of the firm Gestion Michel Aubry Inc. that Mr. Roy was feared and esteemed by his employees, that he decided everything and that he intervened in all of the company’s areas of activity. The following excerpt taken from page 18 of the report is very telling:
+[TRANSLATION]
+Decision-making process
+The employees and managers we met with are unanimous: Robert is the one who decides. Some go even further: The company’s main client is Robert. In addition to selling our projects to the client, we must sell our ideas to Robert. Decisions may vary greatly depending on his mood at the time.
+[27] According to the agreements, the Worker reported to the president of the Payor and the vice-president of Sajo. That provision clearly establishes the power of direction or control of the president over the Worker, exercised jointly or severally wth the vice-president de Sajo. According to the report of the appeals officer, the Worker issued reports each week or every two weeks on the progress of matters. The following excerpt taken from the first paragraph of page 7 of the appeals officer’s report is very telling with respect to the modus operandi of the parties involved and the degree of participation of Mr. Roy in the operational process:
+[TRANSLATION]
+. . . The worker helped them identify the problems owing to his experience. Whenever a problem arose, the Worker and Robert Roy and Sajo (new investor) worked out a game plan between them. They agreed on how to intervene and followed up on the outcome.
+[28] Even if the Worker provided his own equipment necessary for the performance of his work (e.g. computer, software, cellular telephone), he did not incur any financial risk in performing his work for the Payor. He was paid per diem and was reimbursed for his travel, meal and lodging expenses.
+[29] Considering the foregoing, my finding is that the Appellant has not, on a balance of probabilities, satisfied me that the Respondent’s decision to consider him as being an employee of the Payor during the period from June 10, 2002, to December 31, 2004, is incorrect. In my view, there was in fact truly a relationship of subordination between the Payor and the Appellant.
+[30] Accordingly, the appeal is dismissed.
+Signed at Montréal, Quebec, this 4th day of February 2009.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 31st day of March 2009.
+Daniela Possamai, Translator
+CITATION: 2009 TCC 84
+COURT FILE NO.: 2008-105(EI)
+STYLE OF CAUSE: Normand Vachon and M.N.R. and
+Les Produits Métalliques Roy Inc.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 25, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: February 4, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Claude Deschamps
+Counsel for the Respondent:
+Mounes Ayadi
+For the Intervener:
+No one appeared
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Claude Deschamps
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:
+Name:

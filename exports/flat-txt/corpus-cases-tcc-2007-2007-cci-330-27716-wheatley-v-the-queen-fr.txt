@@ -1,0 +1,152 @@
+Title: Wheatley v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27716/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-330-27716-wheatley-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-04-25
+
+# Wheatley v. The Queen
+
+- Citation: 2007 CCI 330
+- Decision date: 2007-04-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 468, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wheatley v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-25
+Référence neutre
+2007 CCI 330
+Numéro de dossier
+2005-3605(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3605(IT)I
+ENTRE :
+KEITH WHEATLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 25 avril 2007, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat de l’appelant :
+Me Raymond Wiebe
+Avocate de l’intimée :
+Me Ainslie Schroeder
+Melissa Danish, stagiaire en droit
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté, sans dépens, selon les motifs de jugement ci‑joints.
+Signé à Calgary (Alberta), ce 13e jour de juin 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 3e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI330
+Date : 20070613
+Dossier : 2005-3605(IT)I
+ENTRE :
+KEITH WHEATLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L’appelant a épousé Marie Wheatley (l’« ancienne épouse ») le 16 février 1973.
+[2] L’appelant et l’ancienne épouse ont eu deux enfants :
+1. une fille, née le 12 mars 1978;
+2. un garçon, né le 20 décembre 1988.
+[3] L’appelant et l’ancienne épouse se sont séparés. Dans une ordonnance datée du 8 août 1995, Mme la juge M.Y. Carter, de la Cour du Banc de la Reine de la Saskatchewan, a ordonné à l’appelant de payer à l’ancienne épouse la somme de 400 $ par mois par enfant, à compter du 1er juillet 1995 et le premier de chaque mois par la suite, aussi longtemps que l’enfant demeurait un enfant au sens de la Loi sur le divorce.
+[4] L’appelant et l’ancienne épouse ont conclu un règlement amiable daté du 10 février 1999. Le paragraphe 6 du règlement amiable prévoit ce qui suit :
+[traduction]
+L’ordonnance actuelle de paiement d’une allocation d’entretien des enfants rendue par Mme la juge M.Y. Carter le 8 août 1995 restera valide en ce qui concerne ledit garçon, et la somme payable en vertu de cette ordonnance sera de 500 $ par mois pour le garçon, aussi longtemps qu’il demeurera un enfant au sens de la Loi sur le divorce. Étant donné que la fille ne fréquente plus à temps plein un établissement d’enseignement, aucune somme ne sera payable pour son entretien, à moins qu’il ne survienne un important changement dans sa situation ou qu’une autre ordonnance judiciaire ne soit rendue. (Remarque : Les noms du garçon et de la fille ont été supprimés par la Cour pour des raisons de confidentialité.)
+[5] Il sera noté que le règlement amiable et le jugement de divorce ont eu pour effet d’augmenter à 500 $ la somme payable au titre de la pension alimentaire pour le garçon, qui avait été fixée à 400 $ dans la première ordonnance.
+[6] L’appelant a versé à l’ancienne épouse la somme de 500 $ par mois pour le garçon pendant l’année d’imposition 2003.
+[7] L’appelant a déduit les paiements faits au titre de la pension alimentaire pour enfants dans sa déclaration de revenus pour l’année d’imposition 2003.
+[8] Le ministre du Revenu national (le « ministre ») a refusé la déduction.
+B. QUESTION À TRANCHER
+[9] Il s’agit de décider si l’appelant peut déduire de son revenu pour l’année d’imposition 2003 la somme de 500 $ qu’il a versée chaque mois au titre de la pension alimentaire pour son garçon.
+C. ANALYSE ET DÉCISION
+[10] Les expressions « date d’exécution », « pension alimentaire » et « pension alimentaire pour enfants » sont définies au paragraphe 56.1(4) de la Loi de l’impôt sur le revenu (la « Loi »), lequel est rédigé comme suit :
+« date d’exécution » Quant à un accord ou une ordonnance :
+a) si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement;
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l’accord ou de l’ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d’exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l’accord ou l’ordonnance, ou dans toute modification s’y rapportant, pour l’application de la présente loi.
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+« pension alimentaire pour enfants » Pension alimentaire qui, d’après l’accord ou l’ordonnance aux termes duquel elle est à recevoir, n’est pas destinée uniquement à subvenir aux besoins d’un bénéficiaire qui est soit l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur, soit le père ou la mère d’un enfant dont le payeur est le père naturel ou la mère naturelle.
+[11] L’alinéa 60b) de la Loi, qui porte sur le calcul de la « pension alimentaire », est rédigé ainsi :
+b) Pension alimentaire – le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure;
+[12] Avant mai 1997, en vertu des anciennes dispositions de la Loi, le contribuable qui versait une pension alimentaire ou une pension alimentaire pour enfants à l’ex‑époux pouvait déduire ces paiements de son revenu, et le bénéficiaire devait les inclure dans son revenu. La Loi a été modifiée à la suite de l’arrêt rendu par la Cour suprême du Canada dans l’affaire Thibaudeau c. Canada, [1995] 2 R.C.S. 627. Tant et aussi longtemps qu’une entente conclue avant mai 1997 demeure inchangée, les anciennes dispositions continuent de s’appliquer.
+[13] Si une nouvelle entente est conclue, ou si une ancienne entente est modifiée d’une façon particulière, le régime de déduction et d’inclusion ne s’applique plus; le payeur pourra déduire seulement les paiements qu’il aura faits jusqu’à la date d’exécution, telle qu’elle est définie, et ces paiements devront être inclus dans le revenu du bénéficiaire.
+[14] L’appelant prétend que la définition de l’expression « date d’exécution » qui figure au paragraphe 56.1(4) de la Loi ne s’applique pas dans son cas, ni la restriction prévue à l’alinéa 60b) de la Loi.
+[15] Il sera noté que la définition de « date d’exécution » susmentionnée est très large, et qu’elle s’appliquerait à toute nouvelle entente ou à toute modification apportée à une entente existante qui aurait pour effet de changer la somme payable au bénéficiaire au titre de la pension alimentaire pour enfants. Dans le cas qui nous occupe, le règlement amiable daté du 10 février 1999 a clairement eu pour effet de modifier la pension alimentaire payable pour le garçon, en faisant passer cette somme de 400 $ à 500 $ par mois.
+[16] Je conclus que la définition de « date d’exécution » est assez large pour s’appliquer en l’espèce.
+[17] À mon avis, l’appelant est visé par les dispositions modifiées qui figurent à l’article 56.1 de la Loi, et il n’est pas autorisé à déduire les paiements de pension alimentaire faits pour son fils dans le calcul de son revenu pour l’année d’imposition 2003.
+[18] Afin d’étayer ma conclusion, j’ai lu et adopté les motifs du jugement rendu par le juge en chef adjoint Bowman (maintenant juge en chef) dans l’affaire Kovarik v. The Queen, 2001 DTC 3716.
+[19] Je regrette de ne pas pouvoir accorder d’allégement fiscal à l’appelant, parce qu’il est manifestement un parent responsable et empreint de sollicitude. Toutefois, il est de mon devoir d’interpréter les dispositions de la Loi; je n’ai pas le pouvoir de la modifier.
+[20] L’appel est rejeté, sans dépens.
+Signé à Calgary (Alberta), ce 13e jour de juin 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 3e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE :
+2007CCI330
+No DU DOSSIER DE LA COUR :
+2005-3605(IT)I
+INTITULÉ :
+Keith Wheatley c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 25 avril 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 13 juin 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Raymond Wiebe
+Avocate de l’intimée :
+Me Ainslie Schroeder
+Melissa Danish, stagiaire en droit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Raymond Wiebe
+Cabinet :
+McDougall Gauley
+Saskatoon (Saskatchewan)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

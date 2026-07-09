@@ -1,0 +1,408 @@
+Title: Goldhar v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521061/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-30-521061-goldhar-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-03-10
+
+# Goldhar v. The King
+
+- Citation: 2023 TCC 30
+- Decision date: 2023-03-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5790, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goldhar v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-03-10
+Neutral citation
+2023 TCC 30
+File numbers
+2018-12(IT)G, 2018-1687(IT)G
+Judges and Taxing Officers
+Henry A. Visser
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-12(IT)G
+2018-1687(IT)G
+BETWEEN:
+DAVID GOLDHAR,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on August 24-26, September 25, and October 16, 2020, at Toronto, Ontario.
+Before: The Honourable Justice Henry A. Visser
+Appearances:
+Counsel for the Appellant:
+Jason C. Rosen
+Kendal Steele
+Counsel for the Respondent:
+Brent E. Cuddy
+JUDGMENT
+The appeals from the Reassessments dated July 7, 2017, and November 20, 2017, made under the Income Tax Act (Canada) for the Appellant’s 2008, 2009, 2010 and 2011 taxation years are allowed in accordance with the attached Reasons for Judgment, and the Reassessments are vacated.
+Costs are awarded to the Appellant. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the Appellant shall have a further 30 days to file written submissions on costs and the Respondent shall have yet a further 30 days to file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received, costs shall be awarded to the Appellant as set out in the Tariff.
+Signed at Ottawa, Canada this 10th day of March 2023.
+“Henry A. Visser”
+Visser J.
+Citation: 2023 TCC 30
+Date: 20230310
+Docket: 2018-12(IT)G
+2018-1687(IT)G
+BETWEEN:
+DAVID GOLDHAR,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Visser J.
+[1] David Goldhar is a businessperson and salesperson who was successfully involved in the international toy business for many years. Mr. Goldhar and his business colleagues utilized complex corporate structures for the toy businesses they carried on, which included corporations and partnerships in Canada, the British Virgin Islands (“BVI”) and Hong Kong. As a result of information obtained from the International Consortium of Investigative Journalists, the Offshore Compliance Specialized Team of the Canada Revenue Agency conducted an audit of Mr. Goldhar’s 2006 to 2013 taxation years, following which the Minister of National Revenue (the “Minister”) issued the following Notices of Reassessment under the Income Tax Act [1] (the “Act”) to the Appellant in respect of his 2008 to 2011 taxation years:
+a) Notices of Reassessment dated November 20, 2017, pursuant to which the Minister reassessed the Appellant in respect of $5,555,021 of unreported benefits as follows:
+for the 2008 taxation year, the Minister reassessed the Appellant to include additional income of $3,032,271 based on the following:
+benefits from shares in the amount of $601,685;
+benefits of warrants in the amount of $93,774;
+unreported cash advances totaling $2,000,537; and
+cash conferred on others totalling $336,275; and
+for the 2009, 2010 and 2011 taxation years, the Minister reassessed the Appellant to include the following amounts as unreported income on the basis that these amounts represented cash conferred on others: $1,316,399, $1,190,262 and $16,089, respectively; and
+b) Notices of Reassessment dated July 7, 2017, pursuant to which the Minister assessed penalties pursuant to subsection 163(2) and paragraphs 162(7)(a), 162(10)(a), 162(10.1)(f) and 163(2.4)(d) of the Act, amounting to approximately $1,271,946.90.
+[2] Mr. Goldhar has appealed these Reassessments on the basis that they are, inter alia, all statute barred. He also disputes the correctness of the Reassessments on the basis that the amounts in dispute do not represent income in his hands. He also disputes the application of all of the aforementioned penalties on the basis, inter alia, that he exercised due diligence in filing all of his tax returns for the taxation years in dispute. These appeals were heard together on common evidence.
+[3] For the reasons that follow, it is my view that the appeals should be allowed with respect to both the amounts included in Mr. Goldhar’s income and the penalties imposed.
+ISSUES
+[4] The issues in these appeals are as follows:
+a) Whether the Minister correctly reassessed Mr. Goldhar’s 2008, 2009, 2010 and 2011 taxation years to include unreported shareholder benefits of $3,032,271, $1,316,399, $1,190,262 and $16,089, respectively;
+b) Whether the Minister correctly reassessed Mr. Goldhar’s 2008, 2009, 2010 and 2011 taxation years beyond the normal reassessment period pursuant to subparagraph 152(4)(a)(i) of the Act;
+c) Whether the Minister properly assessed penalties in respect of Mr. Goldhar’s 2008, 2009, 2010 and 2011 taxation years pursuant to subsection l63(2) of the Act; and
+d) Whether the Minister correctly applied penalties in respect of Mr. Goldhar’s 2008, 2009, 2010 and 2011 taxation years pursuant to paragraphs 162(7)(a), 162(10)(a), 162(10.1)(f) and 163(2.4)(d) of the Act.
+EVIDENCE
+[5] The parties collectively called the following five witnesses during the hearing of these appeals:
+a) David Goldhar, the Appellant;
+b) Marilyn Goldhar, the Appellant’s spouse;
+c) Richard Yanofsky, a former business colleague of the Appellant;
+d) Mark Pelchovitz, one of the Appellant’s accountants during the taxation years in dispute; and
+e) Scott Robinson, a CRA auditor.
+[6] The parties submitted a Partial Agreed Statement of Facts (the “PASF”). The parties also submitted a 17 volume Joint Book of Documents [2] containing some 241 tabs and 5172 pages of documents. The Appellant also submitted two excerpts from the examination for discovery of Scott Robinson. [3]
+[7] Following is a summary of the evidence submitted in these appeals.
+(i) The Partial Agreed Statements of Facts
+[8] In the PASF, the parties admitted the following facts in respect of these appeals: [4]
+30. Mr. David Goldhar is an individual taxpayer residing in the province of Ontario with his wife Mrs. Marilyn Goldhar (Mrs. Goldhar”). He has lived in Ontario with Mrs. Goldhar throughout the entire period relevant to this appeal.
+11. The Appellant was a Canadian resident at all relevant times.
+31. WowWee Hong Kong (“WowWee”) was part of an international toy manufacturing business, primarily based in China.
+32. At the time, the Appellant served as part of WowWee’s senior management team, as Director of Sales and Marketing.
+33. Beanteek Enterprises Inc. was incorporated under the laws of the British Virgin Islands in March of 2006.
+13. With the exception of the initial corporate director, the Appellant was one of four directors of Beanteek, three of which were at all material times non-residents of Canada for income tax purposes.
+34. Beanteek initially had a corporate director, but immediately following its incorporation appointed the following four individual directors:
+a) David Goldhar;
+b) Tsee Yee Tang Kennedy;
+c) Eric Tung Ching Lau; and
+d) Peter Yanofsky.
+35. The initial sole shareholder of Beanteek was “4307836 Canada Inc., a holding corporation of which the Appellant held all shares and was the sole director.
+15. On or about the 12th day of September 2006, the shares of Beanteek were transferred to the Appellant.
+36. On September 12, 2006, David [Goldhar] transferred his shares of RPA [(Rich Point Asia)] to Beanteek pursuant to subsection 85.1(3) of the Act.
+37. In exchange, the Appellant received 7,999,900 shares of Beanteek, placing the total number of shares of Beanteek outstanding at 8,000,000, of which the Appellant was the sole owner.
+38. In December 2007, WowWee disposed of its assets in a transaction to Optimal Group Inc. (herein referred to as “Optimal”) in exchange for a combination of cash, as well as Optimal shares and warrants.
+16. In December 2007, as a result of the series of transactions, a dividend was declared to Beanteek in the form of US$2,964,000 cash, and US$606,110 and $94,464 in shares and warrants, respectively, of the Optimal Group (“Optimal”) arising from the sale of the assets of WowWee Inc.
+18. The Optimal share certificates and warrants were issued in the Appellant’s name, not Beanteek’s.
+40. The Minister included the following in the 2008 Notice of Reassessment issued to the Appellant:
+a) $601,685.40 representing the Canadian value of the Optimal shares; and
+b) $93,774.41 representing the Canadian value of the Optimal warrants.
+41. In addition, between 2008 and 2013, Beanteek transferred cash from its own accounts to a variety of individuals or entities that were connected to this entity.
+17. From 2008 through to 2011, funds in the following amounts: CAD$2,336,812, $1,316,399, $1,190,262, and $16,089 were withdrawn from the accounts registered to Beanteek.
+42. On January 9, 2009, 2010 Ltd. deposited $1,218,520 CAD into Beanteek’s accounts.
+43. On March 24, 2011, WowWee deposited $536,084.04 into Beanteek’s account.
+44. The Minister considered both of the above deposits in assessing the 2009 and 2010 tax years, which brought down value of “cash conferred on others” in the respective taxation year.
+29. During the preceding taxation years, the Appellant reported the following on his income tax returns:
+Year
+Gross Income
+Net Income
+2006
+$1,299,000
+$1,281,000
+2005
+$287,000
+$271,000
+2004
+$256,000
+$245,000
+2003
+$289,000
+$266,000
+2002
+$439,000
+$407,000
+2001
+$234,000
+$194,000
+2000
+$123,000
+$117,000
+19. The Appellant acquired one registered share of 2010 Limited, a corporation resident in the BVI, on January 15, 2009.
+20. The Appellant was a shareholder of 2010 Limited after January 2009.
+21. The Appellant was also a shareholder of Goldmount Marketing Inc. (“Goldmount”) after October 20, 2011.
+22. The Appellant was aware of the existence of 2010 Ltd, Goldmount and/or Goldy Group during the relevant periods.
+23. The T1134 Foreign Reporting Forms prepared and filed by the Appellant’s representative at Schwartz Feldman LLP, in respect of his 2008 taxation year, included incomplete information in respect of Beanteek.
+24. The Appellant retained a new accounting firm, mainly Truster Zweig LLP, at some point in 2009.
+25. The Appellant’s accountant at Truster Zweig LLP did not file the required T1134 Foreign Reporting Forms for the 2009 taxation year for Beanteek or 2010 Ltd.
+26. The Appellant’s then representative prepared and filed a T1134 Foreign Reporting Form in respect of Beanteek, but did not include information pertaining to 2010 Ltd. as part of the Appellant’s 2010 income tax filings.
+27. The T1134 Foreign Reporting Forms prepared and filed by the Appellant’s representative in respect of his 2010 taxation year included inaccurate information in respect of Beanteek.
+28. The Appellant satisfied his foreign reporting obligation in the 2011 taxation year for both foreign affiliates, that being Beanteek and 2010 Ltd.
+1. The Minister of National Revenue (the “Minister”) initially assessed the Appellant for the 2008, 2009, 2010 and 2011 taxation years on May 7, 2009, April 29, 2010, June 6, 2011 and April 30, 2012, respectively in accordance with the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the “Act”).
+2. During the years at issue, the Appellant’s income tax returns were prepared and filed by a Chartered Professional Accountant.
+3. The Appellant retained a number of accounting firms during the years at issue, including: Dacks & Levine, Chartered Accountants, Schwartz Levitsky Feldman LLP, and Truster Zweig LLP. These firms were Chartered Professional Accountants who were charged with the responsibilities of preparing and filing the Appellant’s income tax returns, foreign reporting forms and related corporate tax returns.
+4. On or about the 1st day of August, 2014, the Canada Revenue Agency (the “CRA”) Audit Division (Offshore Compliance Department) sent the Appellant and audit questionnaire.
+5. On or about the 7th day of July, 2017 [this should read November 20, 2017] [5] , the Minister issued Notices of Reassessment to the Appellant for:
+a) the 2008 year the Minister reassessed the Appellant to include additional income of $3,032,271 based on the following: “Benefits from Shares” in the amount of $601,685; “Benefits of Warrants” in the amount of $93,774; “Unreported Cash Advances” totaling $2,000,537; and “Cash Conferred on Others” by $336,275, totaling an income inclusion of $3,032,271; and
+b) for the 2009, 2010 and 2011 taxation years to include the following amounts as unreported income: … $1,316,399, $1,190,262 and $16,089, respectively on the basis that these figures represented cash conferred on others.
+6. The Auditor did not conduct an interview with the Appellant or third parties in the course of conducting his audit, including his wife, his accountants and the legal professionals involved at the time.
+7. No information was obtained from non-Canadian tax authorities other then the Securities and Exchange Commission.
+8. On or about the 20th day of November, 2017 [this should read July 7, 2017] [6] , the Minister also assessed penalties pursuant to subsection 163(2), and paragraphs 162(7)(a), 162(10)(a), 162(10.1)(f) and 163(2.4)(d) of the Act, amounting to approximately $1,271,946.90.
+(ii) David Goldhar’s Testimony
+[9] Mr. Goldhar testified at the hearing of this appeal. I found Mr. Goldhar to be a credible witness.
+[10] Mr. Goldhar testified that he graduated from high school with a diploma and then briefly went to Seneca College for business administration. He did not obtain any degrees, certificates or obtain any other qualifications. He also did not take any tax courses. After attending Seneca College, Mr. Goldhar went into the carpet business for seven years, eventually becoming a store manager. He then went into the gift business for seven years, becoming a sales manager and then a regional manager.
+[11] Mr. Goldhar then entered the toy business, partnering with and doing joint ventures with various others, including Peter Yanofsky and Richard Yanofsky from Montreal. After developing several successful products, they formed WowWee, which was eventually sold in 2000 to Hasbro. Mr. Goldhar worked with Hasbro for three years, during which WowWee’s sales faltered. Mr. Goldhar and his partners then repurchased WowWee from Hasbro and built the company back up, following which they sold WowWee to a company called Optimal Group. Mr. Goldhar then worked for Optimal for a period of time, after which he entered into a partnership named Gillyboo Group with a friend, Lenny Gelbard. After exiting Gillyboo, Mr. Goldhar formed the Goldy Toys Partnership with Bobby Stewart.
+[12] Mr. Goldhar testified that his spouse, Marilyn Goldhar, helped him by looking after his accounting and tax affairs for the taxation years at issue in these appeals. He further testified that he hired professional accountants and lawyers to look after all of his legal and tax affairs, and his accountants filed all of his tax returns. Marilyn Goldhar provided the lawyers and accountants with all of the information they required. Mr. Goldhar testified that he would review his tax returns with his accountants before they were filed each year.
+[13] Following is a summary of other background information from Mr. Goldhar’s testimony:
+a) Kennedy Tang in Hong Kong looked after the accounting for WowWee Hong Kong and Beanteek Enterprises Inc.
+b) The Yanofskys’ accountants looked after the accounting for WowWee Canada.
+c) Mr. Goldhar’s accountants looked after filing all of his tax returns. He used Jerry Pinkas at Schwartz Levitsky Feldman LLP, Steven Levine from Dacks & Levine, and Mark Pelchowitz at Truster Zweig LLP.
+d) Mr. Goldhar’s corporate structure for his ownership interest in WowWee and its eventual sale in 2007 was set up under the instructions of Richard Yanofsky and with the assistance of the Yanofskys’ accountants, Schwartz Levitsky Feldman LLP, and their lawyers at Yanofsky Mancuso Et Associés.
+e) Mr. Goldhar invested money back into each of the toy businesses he was involved with. In addition, Mr. Goldhar testified that intercorporate loans within his corporate group were used to finance his business operations.
+(iii) Marilyn Goldhar’s Testimony
+[14] Marilyn Goldhar testified at the hearing of this appeal. I found Ms. Goldhar to be a credible witness.
+[15] Ms. Goldhar testified that she has been a dental hygienist for over 40 years. She has not worked in any other industries, and does not have an accounting background. She testified that beginning in 2006, when Mr. Goldhar was travelling more to Hong Kong for his wok with WowWee, which was doing quite well, he needed someone to take care of his day to day affairs, including dealing with his accountants and lawyers. As a result, she agreed to reduce her work hours as a dental hygienist so that she could help Mr. Goldhar with his financial affairs.
+[16] Ms. Goldhar testified that she communicated frequently with Mr. Goldhar’s lawyers and accountants, and obtained all of the documentation they required and requested.
+(iv) Richard Yanofsky’s Testimony
+[17] Richard Yanofsky testified at the hearing of this appeal. While I found Mr. Yanofsky to be a credible witness, because of the passage of time and his lack of familiarity with all of Mr. Goldhar’s affairs, I found some of his responses to be vague.
+[18] Mr. Yanofsky testified that he is a businessman and graduated from McGill University, where he studied investor relations and economics. He also has a year of post-graduate studies in management. He does not have any experience or formal training in tax or accounting.
+[19] Mr. Yanofsky testified that he first met Mr. Goldhar in the early 1990s when Mr. Goldhar began working with WowWee Canada and WowWee Hong Kong. WowWee Canada primarily undertook the sales function for WowWee Group, which was a Hong Kong company. Mr. Goldhar was instrumental in soliciting and driving those sales. Over time, Mr. Goldhar moved from being an employee to a minority shareholder of WowWee.
+[20] Mr. Yanofsky testified that WowWee was first sold to Hasbro in around the year 2000, following which Mr. Goldhar continued on as an employee of Hasbro selling the WowWee products. In around 2003 or 2004, the WowWee management group repurchased WowWee (or its assets) from Hasbro. Mr. Goldhar continued working in his sales function with WowWee after the repurchase. Mr. Goldhar’s ownership interest was approximately 6%. Because of the cost of financing the repurchase, they brought Francis Choi in as a partner at that time. They also relied on self-financing, including intercompany loans.
+[21] Mr. Yanofsky further testified that they sold WowWee a second time in the second half of 2007 to the Optimal Group. They used lawyers and accountants in Canada and Hong Kong to advise them and to structure the sale. The advisors included Kennedy Tang in Hong Kong, PSB in Montreal and Charles Spector of Dentons. Mr. Yanofsky was actively involved in meeting with their various legal and accounting advisors in structuring the second sale of WowWee.
+[22] After the WowWee sale to the Optimal Group, Mr. Goldhar continued to work for the Optimal Group in his WowWee sales function until approximately 2009 or 2010.
+(v) Mark Pelchovitz’s Testimony
+[23] Mark Pelchovitz testified at the hearing of this appeal. I found Mr. Pelchovitz to be a credible witness.
+[24] Mr. Pelchovitz testified that he is a CA/CPA which he obtained in 1983. Lenny Gelbard was a client of his, and when Mr. Gelbard and Mr. Goldhar decided to form the Gillyboo Group partnership with their respective spouses, he became the accountant for Mr. Goldhar as well. Mr. Pelchovitz practices with Truster Zweig LLP.
+[25] Mr. Pelchovitz testified that he met with Mr. Goldhar and Mr. Gelbard to design a structure for the Gillyboo Group partnership, which was registered in 2010. The structure was designed by Perry Truster of his firm, and included two corporations for each of the 4 partners, for a total of 8 corporations. The corporations were formed by the parties legal counsel. Mr. Pelchovitz prepared and filed the 2009, 2010, 2011 and subsequent tax returns for the Goldhars as well as the corporate tax returns for their corporations. Mr. Pelchovitz testified that he stopped working for the Goldhars in approximately 2014 or 2015.
+(vi) Scott Robinson’s Testimony
+[26] Scott Robinson testified at the hearing of this appeal. I found Mr. Robinson to be a credible witness.
+[27] Mr. Robinson testified that he has a Bachelor of Business Administration from Wilfred Laurier University, a Bachelor of Education from Western University and a CMA/CPA designation. He is currently employed as an auditor in the CRA offshore compliance division. Prior to that, he was an auditor in the small to medium enterprises division, which entailed working with large personal income tax returns and small corporate income tax returns. Prior to that, he was in the CRA collections department. Overall, he has been with the CRA since 1993.
+[28] Mr. Robinson testified that the CRA’s audit of Mr. Goldhar was initiated after it received information from the International Consortium of Investigative Journalists that the Appellant was the sole shareholder of a British Virgin Island corporation. As a result, an initial audit questionnaire was sent out by the CRA to Mr. Goldhar on or about August 1, 2014. The CRA’s audit related to Mr. Goldhars 2006 to 2013 taxation years and continued until 2017 when Reassessments were issued on July 7, 2017 and November 20, 2017 in respect of Mr. Goldhar’s 2008, 2009, 2010 and 2011 taxation years. The other taxation years were not Reassessed and are not before this Court.
+LAW AND ANALYSIS
+[29] As noted above, there are four issues in these appeals. The first two issues will be dealt with together, after which the remaining two issues will be dealt with. An underlying issue, which is to an extent common to all of the issues, is the degree of care which Mr. Goldhar, with the assistance of Ms. Goldhar, took in addressing his tax filing obligations during his 2008 to 2011 taxation years.
+(i) Subparagraph 152(4)(a)(i) - Statute Barred Years and Unreported Income
+[30] As noted above, the first two issues in these appeals are:
+a) Whether the Minister correctly reassessed Mr. Goldhar’s 2008, 2009, 2010 and 2011 taxation years to include unreported shareholder benefits of $3,032,271, $1,316,399, $1,190,262 and $16,089, respectively; and
+b) Whether the Minister correctly reassessed Mr. Goldhar’s 2008, 2009, 2010 and 2011 taxation years beyond the normal reassessment period pursuant to subparagraph 152(4)(a)(i) of the Act.
+[31] For the reasons that follow, it is my view that the Minister did not correctly include unreported shareholder benefits in Mr. Goldhar’s 2008 to 2011 taxation years on the basis that the Minister could not reassess those taxation years beyond the normal reassessment period and, in the alternative, on the basis that the Minister incorrectly computed the amount of those benefits.
+[32] In this case, the Minister reassessed Mr. Goldhar’s 2008 to 2011 taxation years beyond the normal reassessment period pursuant to subparagraph 152(4)(a)(i) of the Act, which provides as follows:
+(4) Assessment and reassessment [limitation period] — The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or …
+[Emphasis added]
+[33] In this case, the Minister has not alleged fraud, but rather has alleged that Mr. Goldhar made misrepresentations in each of his 2008 to 2011 taxation years that were attributable to neglect, carelessness or wilful default. As has been held in numerous cases, the Minister has the onus of proving the alleged misrepresentations in each of those taxation years, and must also prove that the misrepresentations were attributable to neglect, carelessness or wilful default. [7]
+[34] I will first address the issue of whether the Minister has established that the alleged misrepresentations occurred in the four taxation years under appeal. In this respect, I note that the Minister reassessed Mr. Goldhar on the basis that he failed to report the amounts set out in Appendix A in his 2008 to 2011 taxation years. [8] For the reasons that follow, it is my view that the Minister has not established that all of the alleged misrepresentations were made in the taxation years under appeal herein.
+[35] Notwithstanding the PASF, 5 witnesses and 17 volumes of exhibits proffered as evidence at trial, the Court was left with conflicting evidence and an unclear picture of the transactions undertaken by Mr. Goldhar and his various corporate entities during the taxation years under appeal. In essence, the Minister alleges that all of the funds withdrawn from Beanteek during the period 2008 to 2011 where shareholder benefits. Mr. Goldhar argues that he and Ms. Goldhar had advanced funds to Beanteek, and the various transfers were intercorporate transfers within their corporate group and/or repayments of corporate loans they had made. I note that the evidence supports Mr. Goldhar’s position with respect to some of the transfers. I also note that the evidence indicates that the Minister assessed Mr. Goldhar’s 2008 to 2011 taxation years for amounts that were not benefits during those taxation years.
+[36] With respect to Mr. Goldhar’s 2008 taxation year, the first three items listed by the Minister are (i) Benefit of Shares, (ii) Benefit of Warrants and (iii) Unreported Cash advances. All three of these purported benefits relate to the 2007 sale of WowWee. In this respect, paragraphs 16-18 of the PASF provide as follows:
+16. In December 2007, as a result of the series of transactions, a dividend was declared to Beanteek in the form of US$2,964,000 cash, and US$606,110 and $94,464 in shares and warrants, respectively, of the Optimal Group (“Optimal”) arising from the sale of the assets of WowWee Inc.
+17. From 2008 through to 2011, funds in the following amounts: CAD$2,336,812, $1,316,399, $1,190,262, and $16,089 were withdrawn from the accounts registered to Beanteek.
+18. The Optimal share certificates and warrants were issued in the Appellant’s name, not Beanteek’s.
+[37] I note, however, that the following additional evidence was presented at trial in relation to these three items:
+a) Securities and Exchange Commission Form 8-K, and attached Asset Purchase Agreement, dated September 26, 2007, relating to the sale of WowWee’s assets. [9] At page 2 of the Form 8-K, the following summary of the sale is provided:
+“On September 26, 2007, Optimal Group Inc. (the “Registrant”), entered into an asset purchase agreement (the “Agreement”) with Wow Wee Limited, Wow Wee Group Company, WowWee Marketing, Inc., Power Assets Pacific Ltd., Richard Yanofsky, David Goldhar, and Eric Lau Tung Ching. Pursuant to the Agreement, the Registrant has agreed to acquire substantially all of the assets of Wow Wee Limited, a privately held Hong Kong-based developer, marketer and supplier of consumer robotic, toy and electronic products, as well as substantially all of the assets of WowWee Marketing, with offices in La Jolla, California, and Wow Wee Group, with offices in Montreal, Quebec (collectively “Wow Wee”). WowWee Marketing and Wow Wee Group provide services to Wow Wee Limited in the operation of its business. The Registrant’s purchase of Wow Www assets and business is referred to herein as the “Transaction”.”
+…
+“The Agreement provides that Wow Wee will be acquired by three wholly-owned subsidiaries of the Registrant. The aggregate purchase price is US$65 million, US$55 million of which is payable in cash and US$10 million of which is payable to Wow Wee Limited in Optimal Group Class “A” Shares (Optimal Shares” valued on the day preceding the closing date of the Transaction (the “Closing”). Optimal will also issue Wow Wee Limited warrants to purchase up to an additional 820,000 Optimal Shares (the “Warrants”) at an exercise price of US$5.56 per Optimal Share. Certain of the specific terms of the Warrants remain subject to determination.”
+“The Closing is expected to occur in the fourth quarter of 2007. Senior management of Wow Wee, including the majority shareholders of Wow Wee Limited, will continue to be employed in the business following the Closing.”
+b) According to a document labeled “SEC–10K-FYE 31 Dec 2007”, Wow Wee Limited changed its name to Sell Point Holdings Limited. [10]
+c) Pursuant to a Securities Transfer Agreement dated December 17, 2007, between David Goldhar (as Purchaser) and Sell Point Holdings Limited (as Vendor), Sell Point Holdings Limited agreed to sell 154,620 Class “A” shares in the capital of Optimal Group Inc. and 59,040 share purchase warrants to acquire additional shares of Optimal. The agreement further states that Sell Point Holdings Limited acquired the Optimal securities under the terms of the aforementioned Asset Purchase Agreement, dated September 26, 2007. Paragraph 2.1 of the Securities Transfer Agreement provides that the purchase price of the Optimal Shares is $606,110.40 and the purchase price of the Optimal Warrants is $96,646. It further provides that the purchase price shall be satisfied in full by the issuance and delivery of an interest bearing promissory note for a total amount of $700,574.40. An executed copy of the promissory note, dated December 17, 2007, provided by Mr. Goldhar to Sell Point Holdings Limited is attached to the Securities Transfer Agreement. [11]
+d) Share Certificate number 00002270 for 154,620 Class “A” Shares in the capital of Optimal Group Inc. was issued in the name of David Goldhar. The certificate is dated May 26, 2008. [12]
+e) A Warrant To Purchase 59,040 Class “A” Shares of Optimal Group Inc. was issued in the name of David Goldhar. The Warrant is dated May 1, 2008. [13]
+f) The balance sheet for Beanteek Enterprises Inc. at December 31, 2008 shows current liabilities labelled “Advances from director” in the amount of HK$19,902,021.09. [14]
+g) In correspondence dated May 25, 2015, sent by Counsel for the Appellant to Scott Robinson (the CRA auditor), the appellant made the following representations to the Minister:
+“During the period 2004 through 2006, Wow Wee Hong Kong advanced funds to David Goldhar and/or his holding companies (including Beanteek).”
+…
+“In December 2007, RPA also declared dividends on its class A common shares of $24,241,698 USD (which includes $5,679,822.62 USD to Beanteek.”
+“In lieu of the dividend, Beanteek received the following consideration:
+Cash $2,964,000 USD
+Old loans/advances from David and/or his holding companies $2,015,248.22 USD
+Optimal shares $606,110.40 USD
+Optimal warrants $94,464 USD” [15]
+[38] There are inconsistencies between the PASF and the evidence presented at trial on the one hand and the aforementioned documents. Considering all of the evidence, on a balance of probabilities, it is my view that:
+a) The US$606,110.40 and US$94,464 of Optimal shares and warrants issued in May 2008 in the name of Mr. Goldhar were purchased by him on December 17, 2007 in exchange for a promissory note in the amount of US$700,574.40. Given that Mr. Goldhar paid consideration equal to the purchase price of the shares, which equals the benefit the Minister alleges he received from Beanteek, it is my view that he did not receive any benefit from Beanteek in 2008 in respect of the Optimal Shares or Warrants that were the subject of the Minister’s 2008 Reassessments.
+b) There is little evidence of the unreported cash advances of US$2,015,248 purportedly received by Beanteek, Mr. Goldhar and/or his holding companies from WowWee leading up to the sale to Optimal in late 2007. The little evidence there is, however, indicates that the cash advances were made by WowWee during the years 2003 to 2006, and that they were set-off by Rich Point Asia (RPA) against the sale proceeds otherwise payable to Beanteek in December 2007. As a result, it is my view that Mr. Goldhar did not receive any benefit from Beanteek in 2008 (or subsequent taxation years) in respect of the unreported cash advances of US$2,015,248 that were the subject of the Minister’s 2008 Reassessments.
+[39] All of the other alleged shareholder benefit amounts listed in Appendix A hereto relate to cash transfers made by Beanteek during the years 2008 to 2011 to unknown recipients, 2010 Ltd., WowWee (on behalf of Gillyboo Partnership), Marilyn Goldhar, WowWee (on behalf of Goldy Toys Partnership) and Kenscott Ltd. While the Minister alleges all of these amounts are shareholder benefits conferred on others, Mr. Goldhar argues that they are all either repayments of amounts advanced to Beanteek by him or Ms. Goldhar or were intercorporate loans relating to the business ventures he pursued after leaving Optimal. Based on all of the evidence, on a balance of probabilities, it is my view that the evidence supports Mr. Goldhar’s position more than the Minister’s position. In this respect, I note the following:
+a) As noted above, the balance sheet of Beanteek Enterprises Inc. at December 31, 2008 showed current liabilities labelled “Advances from director” in the amount of HK$19,902,021.09. [16]
+b) On January 9, 2009, 2010 Ltd. repaid an amount equal to CAD$1,218,520 to Beanteek. This was one day after a US$1,100,000 transfer from Beanteek to 2010 Ltd. I note that the Minister included the transfer from Beanteek to 2010 Ltd. in the benefits assessed against Mr. Goldhar in 2009, but did not reduce the benefits assessed to Mr. Goldhar in 2009 by the amount of the repayment. Instead, the Minister reduced the amount of benefits assessed in 2011 and 2012. [17]
+c) On March 24, 2011, WowWee repaid $536,084.04 to Beanteek. This amount was not reflected in the amounts assessed against Mr.Goldhar in his 2008 to 2011 taxation years. Instead, the Minister reduced the amount of benefits assessed in 2012 and 2013.
+d) Miller Thompson LLP registered a Security Agreement in Ontario in respect of a loan by Beanteek Enterprises Limited to Gold Toys Partnership. [18]
+[40] Based on all of the evidence, on a balance of probabilities, it is my view that the Minister has not proven that Mr. Goldhar made the alleged misrepresentations in his 2008 to 2011 taxation years. Even if the Court was to accept that the Minister has met her onus with respect to some of the alleged shareholder benefit amounts, it is my view that the Minister assessed a substantial portion of the amounts discussed above in the wrong taxation years. As a result, even if the Court otherwise accepted that the Minister had met her onus with respect to some of the amounts, those amounts should be reduced by the following amounts:
+a) In 2008, by CAD$601,685.40, CAD93,774.41, and CAD$2,000,536.69, for a total of CAD$2,695,996.50 (being the amounts for the Optimal Shares and Warrants and the prior year Unreported Cash advances);
+b) In 2009, by CAD$1,218,520, being the amount of the 2010 Ltd. loan which was repaid on January 9, 2009, being the day after it was made; and
+c) In 2010, by CAD$536,084.04, being the amount of the WowWee loan which was repaid on March 24, 2011. This loan appears to have been advanced by Beanteek to WowWee on August 5, 2010. [19]
+[41] These adjustments would reduce the amount of benefits otherwise assessed for Mr. Goldhar’s 2008 to 2011 taxation years from CAD$5,555,022.39 to CAD$1,104,421.85, for a total reduction of CAD$4,450,600.54.
+[42] As previously noted, the Minister also has the onus of proving that misrepresentations were attributable to neglect, carelessness or wilful default. For the reasons that follow, it is my view that the Minister has not established that the misrepresentations allegedly made by Mr. Goldhar in his 2008 to 2011 taxation years were attributable to neglect, carelessness or wilful default.
+[43] In Venne v. R., [1984] C.T.C. 223, at paragraph 16, Strayer J. noted the following:
+16 I am satisfied that it is sufficient for the Minister, in order to invoke the power under subparagraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care. This is surely what the words “misrepresentation that is attributable to neglect” must mean, particularly when combined with other grounds such as “carelessness” or “wilful default” which refer to a higher degree of negligence or to intentional misconduct. Unless these words are superfluous in the section, which I am not able to assume, the term “neglect” involves a lesser standard of deficiency akin to that used in other fields of law such as the law of tort. …
+[Emphasis added]
+[44] In Regina Shoppers Mall Ltd. v. R., [1991] C.T.C. 297 (FCA), at paragraph 7, it was also noted that “It has also been established that the care exercised must be that of a wise and prudent person and that the report must be made in a manner that the taxpayer truly believes to be correct.”
+[45] In this case, Mr. Goldhar relied upon professional accountants to file his corporate and personal tax returns during the taxation years under appeal. He also relied upon lawyers and his professional accountants to structure his legal affairs. Because of his heavy travel and work schedule, he also relied upon his spouse, Marilyn Goldhar, to help with his financial affairs, including providing information to his accountants as and when needed. When they became aware of an issue with Mr. Goldhar’s T1134 reporting, they contacted the accountant to deal with it promptly, and when they were not satisfied that it was being dealt with satisfactorily, they switched accountants. Overall, I am of the view, based on all of the evidence, that Mr. Goldhar, with the assistance of his spouse and his professional accountants, acted in a wise and prudent manner and exercised reasonable care in dealing with the filing of his tax returns in each of his 2008 to 2011 taxation years. In this respect, I note the following:
+a) Mr. Goldhar did not have a background in tax, business administration or accounting. He was a sales person and travelled extensively for his work.
+b) Mr. Goldhar never filed his own tax returns. The professional accountants that he engaged always filed his tax returns, including for the taxation years under appeal herein.
+c) Mr. Goldhar and Ms. Goldhar communicated frequently with his accountants.
+d) Mr. Goldhar’s financial affairs became more complicated just before and during the taxation years under appeal.
+e) Although the Respondent argued that Mr. Goldhar’s accountants were not aware of his offshore corporations, this is not supported by the evidence. Mr. Goldhar’s accountants filed T1134 forms for Beanteek for each of 2008, 2010 and 2011. Mr. Pelchovitz was unable to explain why his firm did not file the T1134 for Beanteek in 2009. Mr. Goldhar also obtained tax advice from his accountants with respect to Beanteek. [20] Although Mr. Pelchovitz testified that he was not aware of 2010 Ltd, this is also not supported by the evidence, as his firm properly filed a T1134 for both Beanteek and 2010 Ltd. in Mr. Goldhar’s 2011 taxation year.
+f) In terms of his tax filing process, Ms. Goldhar gathered all of the information required by the accountants. Mr. Goldhar testified that he discussed his tax filings with his accountants.
+g) Mr. Goldhar and Ms. Goldhar were not direct partners in the Gillyboo Group Partnership. Rather, each of the underlying principals in Gillyboo used a corporate structure involving two corporations. Mr. Pelchovitz and his firm prepared the tax returns for the Goldhar’s Canadian corporations.
+h) Mr. Goldhar was not a direct partner in the Goldy Toys Partnership. The partners were corporations.
+i) Beanteek advanced funds to WowWee and Kenscott Ltd. for the purpose of financing inventory purchases on behalf of both the Gillyboo Group Partnership and the Goldy Toys Partnership. Mr. Goldhar described the funds advanced as being intercorporate loans. Those partnerships were ultimately not successful.
+j) The Partnership Withdrawal Agreement dated December 31, 2010 in relation to the withdrawal of the Goldhars from the Gillyboo Group Partnership, collectively defines the “Goldhars” as including Mr. Goldhar, Ms. Goldhar, and their four numbered Ontario corporations. At paragraphs 1.2 and 1.5 of that agreement, the parties acknowledge that the “Goldhars” had loaned $200,000 and USD$1,000,000 to the Gillyboo Group Partnership. [21] While the Respondent argued references to “Goldhars” in the agreement was indicative of personal loans by Mr. Goldhar to the Gillyboo Group Partnership, it is my view that the agreement supports Mr. Goldhar’s testimony that the loans were intercorporate loans from Beanteek. In this respect, I note that the numbered corporations, and not Mr. Goldhar or Ms. Goldhar, were partners of Gillyboo Group.
+k) Mr. Goldhar testified that he (with the assistance of Ms. Goldhar) gave his accountants, including Mr. Pelchovitz, all of the financial and other information they had on Beanteek.
+l) Mr. Goldhar used Jerry Pinkas at Schwartz Levitsky Feldman LLP in respect of the filing of his 2008 tax return. That firm was also the accountant for Mr. Yanofsky. When the CRA raised an issue in 2009 with the T1134 filing in respect of Beanteek, Mr. Goldhar switched to Dacks and Levine, Chartered Accountants. He then switched to Mr. Pelchovitz at Truster Zweig LLP in 2009 because Mr. Pelchovitz was the accountant for Mr. Gelbard, with whom Mr. Goldhar did business through the Gillyboo Group Partnership. Mr. Pelchovitz and his firm were responsible for filing all of Mr. Goldhar’s personal and Canadian corporate tax returns in 2009, 2010 and 2011. They also provided tax advice and instructions relating to the structuring of Mr. Goldhar’s corporate matters from 2009 to 2011 (and following years).
+m) Mr. Goldhar testified that he consistently provided the same information to his accountants in respect of each of his 2008 to 2011 taxations years, and it was unclear to him why the accountants made mistakes in some of those years.
+n) On cross examination, Mr. Goldhar testified that he would go through his returns with his accountants every year the same way for 30 years. While he did not understand all of the details, he testified that his returns would be explained to him, including in particular what he owed each year to the government. Mr. Goldhar further testified that he was not aware of any deficiencies with his tax returns until advised by the CRA.
+o) The invoice from Jerry Pinkas at Schwartz Levitsky Feldman LLP (SLF) dated March 31, 2009, [22] makes it clear that SLF provided Mr. Goldhar with tax advice in respect of Beanteek and also that it requested that Mr. Kennedy in Hong Kong provide it with financial statements for Beanteek for its 2006 to 2008 taxation years.
+p) Ms. Goldhar testified that she personally lent money to the various businesses carried on by Mr. Goldhar and/or her through their respective corporations and partnerships.
+q) Mr. Pelchovitz testified that the corporate structure he and his firm put in place for the Goldhars was designed by Perry Truster, a former chair of the Canadian Tax Foundation. He further testified that for tax filing season each year he would get in touch with Ms. Goldhar who was very organized and she would get and supply him with the information he required. He further testified that she was very prompt in replying to his requests. He described her as a “star” in terms of her responsiveness. He also testified that he relied on one of the tax managers in his office to deal with the foreign reporting for Mr. Goldhar and his corporations. He also testified that he was not sure why his firm made reporting errors in respect of the T1134s for Beanteek and 2010 Ltd. in Mr. Goldhar’s 2009 and 2010 taxation years but were able to properly file them in respect of Mr. Goldhar’s 2011 taxation year.
+r) Mr. Pelchovitz further testified that he was not aware of any other tax compliance issues with respect to Mr. Goldhar’s personal or corporate tax filings.
+s) T1134s were filed without deficiencies by Mr. Goldhar’s accountant for each of Beanteek and 2010 Ltd. in respect of Mr. Goldhar’s 2011 taxation year, which was approximately 2-3 years before CRA commenced its audit. [23]
+[46] Overall, it is my view that, on a balance of probabilities, Mr. Goldhar exercised reasonable care in his tax reporting in his 2008 to 2011 taxation years. It is also my view that the care he exercised was that of a wise and prudent person. Mr. Goldhar carried on an international business, and engaged professional lawyers and accountants to assist in organizing his financial affairs and in filing his personal and corporate tax returns. With the assistance of his spouse, Ms. Goldhar, he sought to provide his professional accountants with all necessary information on a timely basis. Mr. Pelchovitz testified that they did so. When the CRA asked for more information regarding the 2008 T1134, they responded promptly by instructing their accountant to deal with it, and when he did not act satisfactorily, they promptly switched accounting firms. Considering the complexity of Mr. Goldhar’s businesses and his lack of tax expertise, it is my view that he took all reasonable steps that a wise and prudent person would to ensure that his tax returns were filed properly during the taxation years under appeal. While the Respondent argues that Mr. Goldhar should have undertaken additional steps, such as a more thorough review of the returns or by asking more questions of his accountants, it is my view that such additional steps were not practical in the circumstances of this case, because Mr. Goldhar lacked the expertise to undertake a more through review. He would have had to be a tax expert to do so. That is not the standard. That is why he engaged a professional accounting firm, which had professional tax experts within its ranks, to provide him with tax advice and file his tax returns.
+[47] Based on all of the foregoing, it is my view that the Minister has not met her onus to prove both the misrepresentations that she alleges were made in Mr. Goldhar’s 2008 to 2011 taxation years and that the alleged misrepresentations were attributable to neglect, careless or wilful default.
+(ii) Subsection 163(2) Penalties
+[48] The next issue in these appeals is whether the Minister properly assessed penalties in respect of Mr. Goldhar’s 2008, 2009, 2010 and 2011 taxation years pursuant to subsection l63(2) of the Act. For the reasons that follow, it is my view that subsection 163(2) should not apply in all of the circumstances of these appeals.
+[49] Subsection 163(2) of the Act provides that:
+(2) False statements or omissions — Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of …
+[50] In addition, subsection 163(3) of the Act provides that:
+(3) Burden of proof in respect of penalties — Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[51] As a result, the Respondent in this case must establish, on a balance of probabilities, that (i) each of Mr. Goldhar’s 2008 to 2011 tax returns contained a false statement or omission and (ii) Mr. Goldhar made, participated in, assented to or acquiesced in the making thereof knowingly or in circumstances amounting to gross negligence. [24]
+[52] The seminal case on this issue is Venne v. The Queen, [1984] C.T.C. 223, 84 D.T.C. 6247, at para. 37: “‘Gross Negligence’” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.” The “conduct must include a high degree of negligence equal to intentional acting or indifference as to compliance”: Melman v. R., 2017 FCA 83, at para. 4. [25]
+[53] In Khanna v. R., Monaghan J.A. also noted the following at paragraph 24:
+… As this Court has stated, “simply finding that an unreported amount is taxable does not inevitably lead to a conclusion that a gross negligence penalty is justified”: Deyab v Canada 2020 FCA 222, [2021] 4 C.T.C 83, at para. 65, leave to appeal to S.C.C refused, 39587 (June 10, 2021), [Deyab]. When a taxpayer has unreported income, “the circumstances related to the failure to report the income must be examined to determine if such failure was attributable to ... gross negligence (to justify the assessment of the gross negligence penalty)”: Deyab at para. 66. [26]
+[54] In this case, as discussed above, it is my view that the Respondent has not established that the Appellant failed to report a significant portion of the alleged unreported income in the taxation years under appeal herein. As a result, penalties under subsection 163(2) of the Act should not apply to those amounts irrespective of this Court’s findings with respect to the degree of the Appellant’s negligence (if any) in filing his 2008 to 2011 tax returns.
+[55] I also note that it is the Appellant’s position that many, if not all, of the other alleged unreported income amounts were intercorporate loans from Beanteek to other entities within Mr. Goldhar’s corporate structure, or were repayments of amounts he or Ms. Goldhar advanced to Beanteek. In this respect, I note that the Beanteek financial statements as at December 31, 2008 showed current liabilities in relation to “Advances from director” in the amount of HK$19,902,021.09. [27]
+[56] Considering the Appellant’s credible testimony, the fact that many of the Beanteek transfers went to other entities Mr. Goldhar was dealing with, such as 2010 Ltd., WowWee and Kenscott Ltd., and the fact that there were material repayments of these transfers during the taxation years under appeal, it is my view that the Appellant did not file his 2008 to 2011 tax returns with knowledge of the alleged errors or omissions or with a high degree of negligence tantamount to intentional acting or an indifference as to whether the law was complied with or not. Rather, it is my view that the Appellant, with the assistance of his spouse, made every attempt to ensure that his tax returns were filed properly and accurately for each of the taxation years under appeal. In this respect, I note that he engaged professional CPA firms to file his tax returns for each of those years and he, with the assistance of his spouse, attempted to provide them with all of the information required to properly file those tax returns. I also note that T1134 filing was undertaken for Beanteek in 2008, 2010 and 2011 and that T1134 filing was undertaken for 2010 Ltd. in 2011. As a result, there is clear evidence that his accountants were aware of his offshore corporations and the need to report on their activities. Given the complexity of his business affairs, and the efforts he and Ms. Goldhar took to provide his accountants and lawyers with all relevant information, it was in view reasonable for Mr. Goldhar to rely on his professional accounting firms to ensure that his 2008 to 2011 tax reruns were properly and accurately filed. In my view, any errors or omissions contained in those returns were not attributable to his knowledge or any degree of neglect, and in particular not a high degree of negligence tantamount to intentional acting.
+[57] Based on all of the foregoing, it is my view that subsection 163(2) penalties should not apply to Mr. Goldhar’s 2008 to 2011 taxation years in all of the circumstances of these appeals.
+(iii) T1134 Penalties – Foreign Reporting
+[58] The last issue in these appeals is whether the Minister correctly applied penalties in respect of Mr. Goldhar’s 2008, 2009, 2010 and 2011 taxation years pursuant to paragraphs 162(7)(a), 162(10)(a), 162(10.1)(f) and 163(2.4)(d) of the Act. For the reason that follow, it is my view that the Appellant has established that he was diligent in attempting to address his foreign tax reporting obligations under the Act and therefore should not be subject to these penalties. I also note that the Minister has admitted facts, which invalidate the application of the penalties with respect to Mr. Goldhar’s 2011 taxation year.
+[59] Following are the relevant sections of the Act:
+162(7) Failure to comply — Every person (other than a registered charity) or partnership who fails
+(a) to file an information return as and when required by this Act or the regulations, or
+(b) to comply with a duty or obligation imposed by this Act or the regulations
+is liable in respect of each such failure, except where another provision of this Act (other than subsection (10) or (10.1) or 163(2.22)) sets out a penalty for the failure, to a penalty equal to the greater of $100 and the product obtained when $25 is multiplied by the number of days, not exceeding 100, during which the failure continues.
+…
+162 (10) Failure to furnish foreign-based information — Every person or partnership who,
+(a) knowingly or under circumstances amounting to gross negligence, fails to file an information return as and when required by any of sections 233.1 to 233.4 and 233.8, or
+(b) where paragraph (a) does not apply, knowingly or under circumstances amounting to gross negligence, fails to comply with a demand under section 233 to file a return
+is liable to a penalty equal to the amount determined by the formula …
+162 (10.1) Additional penalty — Where
+(a) a person or partnership is liable to a penalty under subsection (10) for the failure to file a return (other than an information return required to be filed under section 233.1),
+(b) if paragraph (10)(a) applies, the number of months, beginning with the month in which the return was required to be filed, during any part of which the return has not been filed exceeds 24, and
+(c) if paragraph (10)(b) applies, the number of months, beginning with the month in which the demand referred to in that paragraph was served, during any part of which the return has not been filed exceeds 24,
+the person or partnership is liable, in addition to the penalty determined under subsection (10), to a penalty equal to the amount determined by the formula
+A – B
+where
+A is
+(d) if the return is required to be filed under section 233.2 in respect of a trust, 5% of the total of all amounts each of which is the fair market value, at the time it was made, of a contribution of the person or partnership made to the trust before the end of the last taxation year of the trust in respect of which the return is required,
+(e) where the return is required to be filed under section 233.3 for a taxation year or fiscal period, 5% of the greatest of all amounts each of which is the total of the cost amounts to the person or partnership at any time in the year or period of a specified foreign property (as defined by subsection 233.3(1)) of the person or partnership, and
+(f) where the return is required to be filed under section 233.4 for a taxation year or fiscal period in respect of a foreign affiliate of the person or partnership, 5% of the greatest of all amounts each of which is the total of the cost amounts to the person or partnership at any time in the year or period of a property of the person or partnership that is a share of the capital stock or indebtedness of the affiliate, and
+B is the total of the penalties to which the person or partnership is liable under subsections (7) and (10) in respect of the return.
+163 (2.4) False statement or omission [re foreign asset reporting] — Every person or partnership who, knowingly or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in, the making of a false statement or omission in a return is liable to a penalty of
+(a) where the return is required to be filed under section 233.1, $24,000;
+(b) if the return is required to be filed under section 233.2 in respect of a trust, the greater of
+(i) $24,000, and
+(ii) 5% of the total of all amounts each of which is the fair market value, at the time it was made, of a contribution of the person or partnership made to the trust before the end of the last taxation year of the trust in respect of which the return is required;
+(c) where the return is required to be filed under section 233.3 for a taxation year or fiscal period, the greater of
+(i) $24,000, and
+(ii) 5% of the greatest of all amounts each of which is the total of the cost amounts to the person or partnership at any time in the year or period of a specified foreign property (as defined by subsection 233.3(1)(a)) of the person or partnership in respect of which the false statement or omission is made;
+(d) where the return is required to be filed under section 233.4 for a taxation year or fiscal period, the greater of
+(i) $24,000, and
+(ii) 5% of the greatest of all amounts each of which is the total of the cost amounts to the person or partnership at any time in the year or period of a property of the person or partnership that is a share of the capital stock or indebtedness of the foreign affiliate in respect of which the return is being filed; and
+(e) where the return is required to be filed under section 233.6 for a taxation year or fiscal period, the greater of
+(i) $2,500, and
+(ii) 5% of the total of
+(A) all amounts each of which is the fair market value of a property that is distributed to the person or partnership in the year or period by the trust and in respect of which the false statement or omission is made, and
+(B) all amounts each of which is the greatest unpaid principal amount of a debt that is owing to the trust by the person or partnership in the year or period and in respect of which the false statement or omission is made.
+[60] With respect to the penalties imposed under paragraphs 162(10(a) and 163(2.4)(d) of the Act, it is my view that the Appellant did not act knowingly or in circumstances amounting to gross negligence with respect to any failure to file a T1134 information return or in the making of a false statement or omission in respect of the filing of a T1134 information return. In my view the reasons set out above in respect of subsection 163(2) and subparagraph 152(4)(a)(i) of the Act apply equally in the circumstances of these provisions.
+[61] As set out in paragraph 28 of the PASF, T1134 forms were properly filed for both Beanteek and 2010 Ltd. in respect of Mr. Goldhar’s 2011 taxation year. The T1134 Reassessment dated July 7, 2017, in respect of 2011 indicates that penalties were applied in respect of Beanteek and 2010 Ltd. [28] No other foreign affiliates are referenced, although Mr. Robinson testified that the 2011 T1134 penalties were related to Beanteek, 2010 Ltd and possibly one or more other corporations. After being advised on cross-examination that the Minister had agreed that the 2011 T1134 form for Beanteek and 2010 Ltd was properly completed, Mr. Robinson recanted his testimony and suggested the penalty applied in respect of some other foreign corporations. However, I note that is contrary to the 2011 T1134 Notice of Reassessment itself, which only references Beanteek and 2010 Ltd in respect of Mr. Goldhar’s 2011 taxation year. While I found that Mr. Robinson was generally a credible witness, his testimony on this issue undermined the veracity of his testimony generally. Based on the 2011 T1134 Notice of Reassessment and the Respondent’s admissions set out in paragraph 28 of the PASF, it is my view that there is no factual basis for any of the T1134 penalties imposed in respect of Mr. Goldhar’s 2011 taxation year.
+[62] I note that a T1134 form was filed for Beanteek in respect of the 2008, 2010 and 2011 taxation years. In addition, a T1134 form was filed for 2010 Ltd. in respect of the 2011 taxation year. I also note that Mr. Goldhar engaged a new accountant as soon as he became aware that there was a deficiency in respect of his 2008 T1134. It is also clear that he, with the assistance of Ms. Goldhar, instructed his accountants to address the proper filing of his T1134 form in respect of Beanteek and 2010 Ltd. It is also clear that he, with the assistance of Ms. Goldhar, made every effort to provide his accountants with all necessary information so that they could properly and accurately complete his 2008 to 2011 tax returns. Based on all of the evidence, it is my view that any failure to comply was not due to a lack of effort or due diligence on the part of Mr. Goldhar or Ms. Goldhar.
+[63] Penalties under paragraphs 162(7)(a) and 162(10.1)(f) are subject to a due diligence defence. In Chiang v. R., 2017 TCC 165, at paragraphs 25-26, Justice Sommerfeldt of this Court provided the following summary of the due diligence defence:
+25 I have considered whether Mr. Chiang may rely on the due diligence defence, which the Supreme Court of Canada explained as follows:
+The due diligence defence is available if the defendant reasonably believed in a mistaken set of facts that, if true, would have rendered his or her act or omission innocent. A defendant can also avoid liability by showing that he or she took all reasonable steps to avoid the particular event.... The defence of due diligence is based on an objective standard: it requires consideration of what a reasonable person would have done in similar circumstances.
+26 Although La Souveraine dealt with a regulatory offence, the Federal Court of Appeal has confirmed that the defence is also available in respect of administrative penalties:
+This Court has held that there is no bar to the defence argument of due diligence, which a person may rely on against charges involving strict liability, being put forward in opposition to administrative penalties.... It may be worth reviewing the principles governing the defence of due diligence before applying them to the facts of the case at bar.
+The due diligence defence allows a person to avoid the imposition of a penalty if he or she presents evidence that he or she was not negligent. It involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made his or her act or omission innocent, or whether he or she took all reasonable precautions to avoid the event leading to the imposition of the penalty.... In other words, due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act.
+[Emphasis added]
+[64] In this case, as discussed above, it is my view that Mr. Goldhar has established that he took all reasonable steps and was not negligent in filing his tax returns, including form T1134 in each of his 2008-2011 taxation years. With the assistance of Ms. Goldhar, he provided all requested information to his accountants each year and made reasonable efforts to ensure that his tax returns were filed accurately. In my view, any deficiency in his T1134 filings was not due to a lack of reasonable efforts he undertook, with the assistance of Ms. Goldhar and his professional accountants. For example, he did file a T1134 form in 2008 in respect of Beanteek, albeit with a deficiency he was not aware of until so advised by the CRA on June 8, 2009. [29] With the assistance of Ms. Goldhar, he undertook to resolve this deficiency promptly with respect to 2008 and going forward, going so far as to switch professional accounting firms. While Mr. Pelchovitz, in his testimony did not know why T1134 forms were not filed for Beanteek in 2009 and 2010 Ltd. in 2009 and 2010, I note that his firm did properly file T1134 forms for both corporations in 2011 and it is clear that his firm was aware of the existence of both corporations and the necessity to file the T1134 forms. Due to complexity of his financial affairs, and his lack of tax background, it is my view that Mr. Goldhar reasonably relied on his accountants to properly file his tax returns in each of his 2008 to 2011 taxation years.
+[65] Based on all of the foregoing, it is my view that none of the referenced T1134 penalties assessed by the Minister in respect of Mr. Goldhar’s 2008 to 2011 taxation years were properly imposed, and all should accordingly be vacated.
+CONCLUSION
+[66] Based on all of the foregoing, Mr. Goldhar’s appeals from the Reassessments dated July 7, 2017, and November 20, 2017, for the Appellant’s 2008, 2009, 2010 and 2011 taxation years are allowed and the reassessments are vacated.
+COSTS
+[67] Costs are awarded to the Appellant. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the Appellant shall have a further 30 days to file written submissions on costs and the Respondent shall have yet a further 30 days to file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received, costs shall be awarded to the Appellant as set out in the Tariff.
+Signed at Ottawa, Canada this 10th day of March 2023.
+“Henry A. Visser”
+Visser J.
+APPENDIX A
+CITATION:
+2023 TCC 30
+COURT FILE NO.:
+2018-12(IT)G;
+2018-1687(IT)G
+STYLE OF CAUSE:
+DAVID GOLDHAR AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 24-26, September 25 and October 16, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Henry A. Visser
+DATE OF JUDGMENT:
+March 10, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Jason C. Rosen
+Kendal Steele
+Counsel for the Respondent:
+Brent E. Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jason C. Rosen
+Firm:
+Rosen Kirshen Tax Law
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C., 1985, c.1 (5th Supp.), as amended. All statutory references herein are to the Act, unless specified otherwise.
+[2] The entire 17 volume Joint Book of Documents was entered into evidence for identification purposes as Exhibit J-1. The documents formally entered into evidence from the Joint Book of Documents were listed in a Joint List of Exhibits dated September 23, 2020.
+[3] The discovery excerpts were included in evidence as Exhibit A-1 and A-2.
+[4] The relevant paragraphs of the PASF which are listed herein have been reordered. Some non-material or repetitive paragraphs have been omitted.
+[5] The dates of the Reassessments in paragraphs 5 and 8 of the PASF appear to have been reversed. See Exhibit J-1, Vol 10, Tab 179 at pages 1854 – 1872 and Exhibit J-1, Volume 9, Tab 176 at pages 1825 – 1829.
+[6] The dates of the Reassessments in paragraphs 5 and 8 of the PASF appear to have been reversed. See Exhibit J-1, Vol 10, Tab 179 at pages 1854 – 1872 and Exhibit J-1, Volume 9, Tab 176 at pages 1825 – 1829.
+[7] See Deyab v. R., 2020 FCA 222, at paragraph 25, leave to appeal to SCC denied 2021 CarswellNat 1815.
+[8] See paragraph 5 of the PASF. See also Exhibit J-1, Volume 14, Tab 237, at pages 03468-03470.
+[9] See Exhibit J-1, Volume 13, Tab 228, at pages 03131 to 03240.
+[10] See Exhibit J-1, Volume 13, Tab 230, at pages 03244 to 03246, and in particular note (2) on page 03246.
+[11] See Exhibit J-1, Volume 2, Tab 22, at pages 162 to 167.
+[12] See Exhibit J-1, Volume 2, Tab 29, at pages 198-199.
+[13] See Exhibit J-1, Volume 2, Tab 29, at pages 185-190.
+[14] See Exhibit J-1, Volume 2, Tab 32, at page 209.
+[15] See Exhibit J-1, Volume 9, Tab 163, at pages 1667-1668.
+[16] See Exhibit J-1, Volume 2, Tab 32, at page 209.
+[17] See Exhibit J-1, Volume 14, Tab 237, at pages 03468-03470.
+[18] See Exhibit J-1, Volume 7, Tab 119, at pages 1299-1302.
+[19] See Exhibit J-1, Volume 14, Tab 237, at pages 03468-03470. Alternatively, an argument could be made that the amount of the loan repayment should be deducted in 2011 from the benefits otherwise assessed.
+[20] See Exhibit J-1, Volume 3, Tab 43, at pages 421-422.
+[21] See Exhibit J-1, Volume 4, Tab 66, at pages 660-666.
+[22] See Exhibit J-1, Volume 3, Tab 43, at pages 421-422.
+[23] See paragraph 28 of the PASF.
+[24] Khanna v. R., 2022 FCA 84, at paragraph 6.
+[25] Ibid, at paragraph 7.
+[26] Ibid.
+[27] See Exhibit J-1, Volume 2, Tab 32, at page 209.
+[28] See Exhibit J-1, Volume 9, Tab176, at page 1828.
+[29] See Exhibit J-1, Volume 3, Tab 44, at page 423.

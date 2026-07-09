@@ -1,0 +1,166 @@
+---
+title: "Basi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30976/index.do"
+last_modified: "2012-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 345"
+citation2: ""
+neutral_citation: "2012 TCC 345"
+decision_date: "2012-10-03"
+language: "en"
+item_id: "30976"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4791
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:07:51.483000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "814edf6dbe3bc46b4241dbc5c53dda918f8de1201433e4ff0730beb529d79365"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Basi v. The Queen
+
+- Citation: 2012 TCC 345
+- Decision date: 2012-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4791, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Basi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-03
+Neutral citation
+2012 TCC 345
+File numbers
+2010-1522(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1522(IT)G
+BETWEEN:
+BALBIR KAUR BASI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 12, 13 and 14, 2012,
+at Victoria, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Kash Basi
+Counsel for the Respondent:
+Whitney Dunn
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeals from the reassessments issued in relation to her 2003 and 2005 taxation years are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the Appellant realized a capital loss of $289,110.78 in 2003;
+(b) in determining the amount of the capital gain realized by the Appellant on the disposition of her property located at 918-920 Shearwater Avenue, Victoria, British Columbia, in 2003, the Appellant’s proceeds of disposition were $320,000;
+(c) the Appellant realized a capital loss of $119,194.33 in 2005; and
+(d) in determining the amount of the capital gain realized by the Appellant on the disposition of her property located at 2714 Quadra Street, Victoria, British Columbia, in 2005, the Appellant’s proceeds of disposition were $550,000.
+The parties shall have until November 30, 2012 to reach an agreement on the amount of costs that will be paid by the Respondent to the Appellant, failing which the issue of the amount of costs that will be paid by the Respondent to the Appellant shall be determined based on written submissions of the parties, such submissions to be made by the Appellant by January 25, 2013, by the Respondent by February 28, 2013 and any additional submissions by the Appellant by March 15, 2013.
+Signed at Ottawa, Canada, this 3rd day of October, 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC345
+Date: 20121003
+Docket: 2010-1522(IT)G
+BETWEEN:
+BALBIR KAUR BASI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] At the commencement of the hearing of the Appeal, counsel for both parties indicated that the parties had reached an agreement that the Appellant had realized a capital loss of $289,110.78 in 2003 and a capital loss of $119,194.33 in 2005. The only remaining issues for the hearing were:
+(a) a determination of the Appellant’s proceeds of disposition from the sale of her property located at 918-920 Shearwater Ave., Victoria, B.C. (the “Shearwater Property”) in 2003; and
+(b) a determination of the Appellant’s proceeds of disposition from the sale of her property located at 2714 Quadra St., Victoria, B.C. (the “Quadra Property”) in 2005.
+[2] The Appellant is over 75 years old and now has limited income. As a result of certain investments that did not work out, the Appellant owed approximately $500,000 to Terrapin Mortgage Investment Corp. in 2003. This liability could only be satisfied if the Appellant’s properties were sold. The Appellant reached an agreement with Terrapin Mortgage Investment Corp. that the Appellant would be permitted to sell her properties instead of Terrapin Mortgage Investment Corp. selling the properties under a judgment. Included in the properties that were sold were the Shearwater Property and the Quadra Property. As a result of the Appellant selling her properties to satisfy her liability to Terrapin Mortgage Investment Corp., the Appellant lost everything.
+The Shearwater Property
+[3] The Shearwater Property was a rental property that consisted of two units. At the time that this property was to be sold, one of the units was vacant. Some work had to be done on the building before it could be sold. The work started with the vacant unit. The Appellant’s sons helped with the renovations but the main work on the renovations was done by Jagtar Phagura, who was in the business of developing properties. At some point during the renovations, Jagtar Phagura entered into an agreement to purchase this property for $320,000. A copy of the agreement of purchase and sale was introduced at the hearing. Before the closing of the purchase of this property, Jagtar Phagura agreed to sell this property to Peter Dosanjh for $340,000. A copy of this agreement of purchase and sale was also introduced at the hearing.
+[4] Included with the Appellant’s documents is also an assignment by Peter Dosanjh to Ronald Millard of his right to purchase the Shearwater Property. The ultimate purchaser of the property was 678664 B.C. Ltd.
+[5] At the closing, the conveyance was made by the Appellant to 678664 B.C. Ltd. and the closing documents reflect a purchase price of $340,000. Assuming that on the assignments from Peter Dosanjh to Ronald Millard and from Ronald Millard to 678664 B.C. Ltd. (also assuming that Ronald Millard assigned his rights to 678664 B.C. Ltd.) the purchase price did not change from that as stated in the agreement of purchase and sale between Jagtar Phagura and Peter Dosanjh, the $340,000 purchase price was correct for 678664 B.C. Ltd.
+[6] However, the issue in this appeal is whether the Appellant’s proceeds of disposition were $320,000 or $340,000.
+[7] In McMillan v. The Queen, 2012 FCA 126, the Federal Court of Appeal stated that:
+[7] Before concluding these reasons, we note that the appellant did not raise in her memorandum of fact and law any issue with respect to the Judge's statement at paragraph 19 of the reasons, and repeated at paragraph 21, that the appellant "has the initial onus of proving on a balance of probabilities (i.e. that it is more likely than not), that any of the assumptions that were made by the Minister in assessing (or reassessing) the Appellant with which the Appellant does not agree, are not correct." In our respectful view, it is settled law that the initial onus on an appellant taxpayer is to "demolish" the Minister's assumptions in the assessment. This initial onus of "demolishing" the Minister's assumptions is met where the taxpayer makes out at least a prima facie case. Once the taxpayer shows a prima facie case, the burden is on the Minister to prove, on a balance of probabilities, that the assumptions were correct (Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336 at paragraphs 92 to 94; House v. Canada, 2011 FCA 234, 422 N.R. 144 at paragraph 30).
+[8] Therefore the initial onus on the Appellant in this case is not to prove on a balance of probabilities that the assumption that was made that the Appellant’s proceeds of disposition were $340,000 is not correct but rather to only make out a prima facie case that her proceeds of disposition were not $340,000. Once the Appellant shows a prima facie case that her proceeds of disposition were not $340,000, then the Minister will have the burden of proving, on a balance of probabilities, that her proceeds of disposition were $340,000.
+[9] In this case, it seems clear to me that the Appellant has made out at least a prima facie case that her proceeds of disposition were $320,000 and not $340,000. In addition to the agreements of purchase and sale between the Appellant and Jagtar Phagura and between Jagtar Phagura and Peter Dosanjh, Ray Basi (the Appellant’s son who was the real estate lawyer handling the transaction) and Jagtar Phagura testified. I find that both of these witnesses were credible. They both confirmed that the Appellant had sold the property for $320,000 and then Jagtar Phagura had resold the property before the closing for $340,000. The conveyance was from the Appellant to 678664 B.C. Ltd. so that land transfer tax was only paid once and not several times.
+[10] The closing documents prepared by the lawyer for 678664 B.C. Ltd. and the documents filed under the Land Title Act (British Columbia) reflect the transfer of title from the Appellant to 678664 B.C. Ltd. and the amount paid by 678664 B.C. Ltd. The amount paid by 678664 B.C. Ltd. was not, however, the amount at which the Appellant sold the Shearwater Property. The Appellant sold the Shearwater Property to Jagtar Phagura for $320,000 and he resold the property for $340,000.
+[11] The only evidence introduced by the Minister was the testimony of the auditor for the Canada Revenue Agency who could only confirm the amounts as stated in the closing documents. Having the auditor simply confirm the amounts as stated on documents that are already in evidence does not assist the Minister in discharging his burden of proving that the proceeds of disposition were $340,000.
+[12] In this case even if the Appellant were to have the onus of proving on a balance of probabilities that the Appellant’s proceeds of disposition for the Shearwater Property were $320,000, I am satisfied that the Appellant would have discharged this burden as I am satisfied that it is more likely than not that the Appellant’s proceeds of disposition for the Shearwater Property were $320,000.
+[13] As a result, the Appellant’s appeal in relation to the issue of the Appellant’s proceeds of disposition for the Shearwater Property is allowed and I find that the Appellant’s proceeds of disposition for the Shearwater Property were $320,000.
+The Quadra Property
+[14] The Quadra Property was a commercial property that was occupied in part by the Appellant’s sons – Ray Basi and Kash Basi – who were practicing law from offices located in the Quadra Property. Since the Appellant was selling all of her properties to satisfy her liability to Terrapin Mortgage Investment Corp., it seems obvious that the Appellant would have been trying to sell the Quadra Property around the same time as she was trying to sell the Shearwater Property. Since the Quadra Property did not sell until 2005, it also seems obvious that the Quadra Property did not sell quickly and that the Appellant had a difficult time in selling this property.
+[15] The Appellant’s sons tried to sell the Quadra Property on their own and when this was not successful they retained a real estate agent who listed the property for the period from January 23, 2004 until April 30, 2004. The property still did not sell and the Appellant’s sons again tried to sell the property on their own. The asking price was $549,000. The Appellant also submitted copies of two appraisal reports related to the Quadra Property. The first one was completed by Palmer Appraisals Ltd. in 1998 and stated that the market value of this property was “in the vicinity of $470,000” as of February 25, 1998. The second appraisal was completed by Blake Appraisals Ltd. in 2003 and indicated that the market value of this property was $510,000 as of June 19, 2003.
+[16] Eventually an agreement was reached with Lee Larabie for the sale of the Quadra Property. Although the agreement was reached with Lee Larabie, the purchaser was a numbered company (0723585 BC Ltd.), the shares of which were held by Lee Larabie’s then common-law partner and her parents. The purchase price, as reflected in the documents prepared for the purposes of the Land Title Act (British Columbia) and in the statements of adjustments prepared for the closing, was $650,000. The Appellant and Ray Basi both testified that the only amount that the Appellant received for the property was $550,000. The other $100,000 was reflected in a promissory note. Ray Basi stated that it was his understanding that payment of the $100,000 promissory note was linked to rezoning the property. It became clear shortly after the closing that the rezoning would not be approved. No payments were received in relation to the promissory note and Ray Basi never pursued payment of the promissory note.
+[17] The Respondent does not agree that there was a promissory note and even if there was a promissory note, the position of the Respondent is that the amount of the promissory note should be included in determining the Appellant’s proceeds of disposition of the Quadra Property. Counsel for the Respondent referred to the decision of Justice Rip (as he then was) in Sénécal v. The Minister of National Revenue, [1993] 2 C.T.C. 2218, 93 DTC 1149 as support for the position of the Respondent that the Appellant’s proceeds of disposition will include the amount of the promissory note. However, as noted in that case:
+26…
+The evidence adduced by the taxpayer did not support his position that the value of the properties transferred to his children was less than stated in the promissory note. If there had been sufficient evidence to this effect, Demers might have applied. The determination of the proceeds of disposition must be looked at realistically if something suggests that the sale price included a component other than the consideration for the property itself. In Demers, that something was the obligation to purchase a debt at its face value, which inflated the sale price of the shares. In Attis, that something was the possible existence of a premium in excess of the consideration for the properties.
+(emphasis added)
+[18] It seems to me that the Appellant introduced sufficient evidence to not only show a prima facie case but also to establish on a balance of probabilities (even though the only requirement is that the Appellant show a prima facie case) that part of the consideration included a promissory note for $100,000 and that this promissory note was issued as the consideration for something other than the Quadra Property.
+[19] The amount shown as the deposit provided by the purchaser on the Purchaser’s Statement of Adjustments prepared for the closing was $200,000. However, on the Vendor’s Statement of Adjustments the deposit amount of $200,000 was crossed out and the amount of $201,500 was written above the $200,000 amount. The witnesses could not recall why the amount was changed. In any event Ray Basi stated that the deposit amount included the promissory note of $100,000. If the deposit did not include a promissory note for $100,000, it would mean that the Appellant had received a cash deposit of $200,000 or $201,500 prior to the closing on a property that was being sold for $650,000. This would mean that the deposit amount would have been approximately 31% of the purchase price. There was no evidence to show that the Appellant had received either $200,000 or $201,500 in cash as the deposit for the Quadra Property. It therefore seems to me that it is more likely than not that the deposit consisted of a promissory note for $100,000 and cash of either $100,000 or $101,500 and that the Appellant had not received either $200,000 or $201,500 in cash as a deposit.
+[20] It also seems to me that the promissory note was for something other than the purchase price of the Quadra Property. The appraisal of the Quadra Property indicated that the market value of the property in 2003 (when the Appellant first tried to sell this property) was $510,000. The asking price when the property was listed with the real estate agent in early 2004 was $549,000 and the asking price did not change when the Appellant’s sons tried to sell the property on their own after the listing contract had expired. Therefore the property had been for sale for over a year at this asking price before Lee Larabie agreed to purchase the property. He did not agree to purchase it after just viewing it once. Lee Larabie viewed the property on more than one occasion and had discussions with Ray Basi over a period of time before he finally agreed to purchase the property. There were also no other parties who were interested in buying the property.
+[21] Lee Larabie did not testify during the hearing. Despite having searched for him, the Appellant’s sons were not able to locate him. The Appellant did introduce a memo prepared by Ray Basi and Lee Larabie in which Lee Larabie confirmed that part of the consideration was the promissory note for $100,000 and this “premium” was based on the assumption the property could be developed. The Appellant also retained a hand-writing expert who confirmed that “there is a strong probability” that Lee Larabie signed the letter.
+[22] The Appellant also called as a witness Yen Vu who was the common-law partner of Lee Larabie when the property was acquired and who, together with her parents, owned the shares of the company that had acquired the Quadra Property. She confirmed that Lee Larabie had negotiated the deal and that she did not know his current whereabouts. She was also the signing officer for the company who would have signed the corporation’s 2005 income tax return. In that return the company stated that the cost of the Quadra Property was $562,454. The accountant for the number company that had purchased the Quadra Property (who was also the accountant for the Appellant) also testified and he confirmed that in preparing the income tax return for this company, the cost of the Quadra Property was stated to be $562,454 based on a purchase price of $550,000 plus land transfer taxes and legal fees. The numbered company sold the Quadra Property in 2008 for $513,000.
+[23] Counsel for the Respondent placed emphasis on the fact that the tax return for 0723585 BC Ltd. for its 2005 taxation year (which ended on December 31, 2005) was not filed until sometime in July 2007, after the Canada Revenue Agency had started its audit of the Appellant. However at that time how would the officers of this company know that the company would be selling the property a year later (in 2008) for $513,000? When this company filed its tax return in 2007 it would not want to show an adjusted cost base (or capital cost) that was less than the amount that it paid for the property as the adjusted cost base (or capital cost) would be relevant in determining any subsequent gain or loss that would be realized by the company on a disposition of the property. Why would the company report an adjusted cost base (or capital cost) based on a purchase price of $550,000 in July 2007 unless the purchase price was $550,000?
+[24] Other than having the same accountant, there was no connection or relationship between the shareholders of 0723585 BC Ltd. and the Appellant. It seems clear that the shareholders of this numbered company and the Appellant were dealing with each other at arm’s length. There is no reason to believe or to even suggest that 0723585 BC Ltd. would report in July 2007 a lower adjusted cost base (or capital cost) simply to accommodate the Appellant. It therefore seems to me that even though the 2005 tax return was not filed until 2007, because this return was filed several months before the property was sold by the company (which sale occurred sometime in 2008) it still supports the position of the Appellant that the purchase price of the Quadra Property was $550,000 and not $650,000.
+[25] As a result it seems clear to me that the purchase price for the property was $550,000 (which was only $1,000 more than the asking price of $549,000) and that the promissory note for $100,000 was for assistance in obtaining approval for rezoning so that the property could be developed.
+[26] As a result the Appellant’s appeal in relation to the issue of the Appellant’s proceeds of disposition for the Quadra Property is allowed and I find that the Appellant’s proceeds of disposition for the Quadra Property were $550,000.
+[27] It seems to me that there is also an alternative basis on which the Appellant would be successful in this matter. It seems clear to me that part of the consideration included a promissory note for $100,000. If the proceeds of disposition were $650,000, then the adjusted cost base of the promissory note would be $100,000. It seems to me that once it became clear that the property could not be rezoned, it would also be clear that the $100,000 promissory note would not be paid. Therefore the promissory note would have been cancelled, which would result in a disposition of the promissory note[1]. Since the company reported in its tax return for 2005 that its cost of the property was $550,000 (plus land transfer tax and legal fees) and since the undisputed testimony was that it became clear shortly after the closing that the property could not be rezoned, it seems to me that it was more likely than not that the promissory note would have been cancelled before the end of 2005. The cancellation of the promissory note would result in a capital loss of $100,000[2] in 2005. This capital loss of $100,000 would be set off against the additional capital gain that would be realized if the proceeds of disposition were $650,000 instead of $550,000. Therefore the net taxable capital gain realized for 2005 would be the same whether the proceeds of disposition were $650,000 with a capital loss of $100,000 on the cancellation of the promissory note or the proceeds of disposition were $550,000 (with no capital loss on the cancellation of the promissory note).
+Conclusion
+[28] The Appellant’s appeals from the reassessments issued in relation to her 2003 and 2005 taxation years are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the Appellant realized a capital loss of $289,110.78 in 2003;
+(b) in determining the amount of the capital gain realized by the Appellant on the disposition of her Shearwater Property in 2003, the Appellant’s proceeds of disposition were $320,000;
+(c) the Appellant realized a capital loss of $119,194.33 in 2005; and
+(d) in determining the amount of the capital gain realized by the Appellant on the disposition of her Quadra Property in 2005, the Appellant’s proceeds of disposition were $550,000.
+[29] The parties shall have until November 30, 2012 to reach an agreement on the amount of costs that will be paid by the Respondent to the Appellant, failing which the issue of the amount of costs that will be paid by the Respondent to the Appellant shall be determined based on written submissions of the parties, such submissions to be made by the Appellant by January 25, 2013, by the Respondent by February 28, 2013 and any additional submissions by the Appellant by March 15, 2013.
+Signed at Ottawa, Canada, this 3rd day of October, 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC345
+COURT FILE NO.: 2010-1522(IT)G
+STYLE OF CAUSE: BALBIR KAUR BASI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: September 12, 13 and 14, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: October 3, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Kash Basi
+Counsel for the Respondent:
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kash Basi
+Firm: Kash Basi
+Victoria, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subparagraphs (b)(i) or (ii) of the definition of “disposition” in subsection 248(1) of the Income Tax Act.
+[2] The capital loss would not be denied under subparagraph 40(2)(g)(ii) of the Income Tax Act because the promissory note would have been part of the consideration for the disposition of capital property to a person with whom the Appellant was dealing at arm’s length.

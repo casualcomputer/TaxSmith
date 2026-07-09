@@ -1,0 +1,191 @@
+---
+title: "Domart Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28273/index.do"
+last_modified: "2007-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 585"
+citation2: ""
+neutral_citation: "2007 CCI 585"
+decision_date: "2007-04-02"
+language: "fr"
+item_id: "28273"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2054
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:49:04.296000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d00af152209b4826a6ef038bd7383f4b8d5736384bb2809dcb43375e6efbf634"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Domart Ltd. c. M.R.N.
+
+- Citation: 2007 CCI 585
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2054, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Domart Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-02
+Référence neutre
+2007 CCI 585
+Numéro de dossier
+2006-13(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-13(EI)
+ENTRE :
+DOMART ENERGY SERVICES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Domart Energy Services Ltd. (2006-17(CPP)) le 9 août 2007, à Grande Prairie (Alberta).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocate de l’appelante :
+Me Andrea Chrenek
+Avocat de l’intimé :
+Me Daniel Segal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision rendue par le ministre le 7 décembre 2005 est annulée.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 6e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-17(CPP)
+ENTRE :
+DOMART ENERGY SERVICES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Domart Energy Services Ltd. (2006-13(EI)) le 9 août 2007, à Grande Prairie (Alberta).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocate de l’appelante :
+Me Andrea Chrenek
+Avocat de l’intimé :
+Me Daniel Segal
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la décision rendue par le ministre le 7 décembre 2005 est annulée.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 6e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI585
+Date : 20071002
+Dossiers : 2006-13(EI)
+2006-17(CPP)
+ENTRE :
+DOMART ENERGY SERVICES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] L’appelante Domart Energy Services Ltd. (« Domart ») interjette appel des décisions rendues en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, selon lesquelles M. Wilfrid Flanagan exerçait pour Domart un emploi assurable aux fins de la Loi sur l’assurance‑emploi et un emploi ouvrant droit à pension aux fins du Régime de pensions du Canada.
+[2] Domart est une société œuvrant dans le domaine du camionnage et de la location d’équipement pour les champs pétrolifères. M. Brian Pavlis est directeur général et un des propriétaires de Domart, et il a témoigné au nom de l’appelante.
+[3] Wilfrid Flanagan exerçait ses activités sous le nom de Grubbs Oilfield Services (« Grubbs »).
+[4] Dans le cadre des services de location qu’elle offre à ses clients du domaine pétrolier, Domart utilise deux camions‑grues. Les camions‑grues sont de gros camions qui coûtent cher; grâce à leur grue à flèche intégrée, ils peuvent servir à livrer et à reprendre de la machinerie et de l’équipement du type et de la taille de ceux que Domart loue. Domart possède un des deux camions‑grues, et l’autre appartient à un tiers avec lequel Domart n’a pas de lien de dépendance, McCallum Trucking Ltd., qui fournit également à Domart le conducteur du camion‑grue. Les camions‑grues sont des pièces d’équipement dont le prix élevé est de l’ordre des 400 000 $.
+[5] Avant la période en cause, Domart employait un conducteur privé pour son propre camion‑grue. Toutefois, quand ce conducteur est parti, Domart a eu de la difficulté à trouver un nouvel employé, malgré la publicité faite et les efforts de recrutement déployés.
+[6] M. Wilfrid Flanagan a abordé M. Pavlis et a offert à ce dernier les services de conducteur de camion‑grue de son entreprise, Grubbs, pour le camion‑grue de Domart. M. Pavlis connaissait bien Grubbs et l’entreprise précédente de M. Flanagan, Skookum Inc., nom sous lequel M. Flanagan avait auparavant exercé ses activités. Domart avait été client de Skookum et de Grubbs.
+[7] Grubbs offrait certains services de transport aux entreprises œuvrant dans le secteur de l’exploration et du développement pétroliers. Outre les services de conducteur de camion‑grue, Grubbs fournissait des services de véhicule d’escorte et des services de livraison express. Les services de véhicule d’escorte consistent à fournir le petit camion qui précède ou qui suit les véhicules gros, lents ou dangereux, ainsi que le conducteur. Grubbs fournissait régulièrement des services de véhicule d’escorte à Domart, environ deux fois par mois, pendant la période pertinente; elle fournissait à la fois le véhicule d’escorte et le conducteur. Les services de livraison express consistent à rendre disponibles de petits camions pour livrer immédiatement dans les champs pétrolifères les pièces de remplacement et les accessoires qui sont nécessaires à l’équipement loué. Domart n’utilisait pas les services de livraison express de Grubbs parce qu’elle avait pris d’autres arrangements. Grubbs avait un barème tarifaire qui indiquait les taux et les modalités de ses services de véhicule d’escorte, de livraison express et de conducteur de camion‑grue. M. Flanagan en avait donné une copie à M. Pavlis à des fins de discussion. M. Flanagan insistait sur le fait qu’il n’était pas intéressé à être employé de Domart, mais que Grubbs était disposée à fournir des services à titre d’entrepreneur. Grubbs avait un numéro de TPS, une lettre d’attestation aux fins de l’indemnisation des accidents du travail et sa propre assurance responsabilité, et elle avait fourni ces documents à Domart.
+[8] Domart savait que Grubbs avait d’autres clients et que Grubbs ne serait pas en mesure de répondre chaque fois qu’elle avait besoin d’un conducteur de camion‑grue. Grubbs pouvait refuser le travail qu’on lui offrait, ce qu’il lui est d’ailleurs arrivé de faire.
+[9] Depuis la période en cause, Domart a pu remplacer Grubbs et M. Flanagan en embauchant un conducteur de camion‑grue à titre d’employé.
+[10] M. Flanagan avait obtenu et conservé son propre permis de conduire de classe 1, dont il avait besoin pour conduire un camion‑grue. M. Flanagan avait un certificat de compagnon grutier-opérateur d’appareil de levage, ce qui signifie qu’il avait le permis provincial nécessaire pour pouvoir conduire le camion‑grue. M. Flanagan payait de sa poche et consacrait de son temps personnel pour conserver ce titre de compétences. En outre, il tenait le carnet de route réglementaire du camion et de la grue.
+[11] Grubbs ou M. Flanagan était aussi responsable des infractions aux règlements de la circulation. Ce n’était pas une pratique courante, dans l’industrie, qu’un conducteur soit responsable des contraventions et des amendes de la manière dont Grubbs avait accepté de l’être.
+[12] Domart avait accepté de verser 45 $ l’heure à Grubbs pour les services de conducteur de camion‑grue de M. Flanagan. Ce taux horaire était considérablement plus élevé que celui de 35 $ l’heure que Domart avait auparavant versé à ses employés conducteurs de camion‑grue et qu’elle offrait aux employés éventuels. Il n’y avait pas de contrat écrit. M. Pavlis avait clairement établi, dans ses discussions avec M. Flanagan, que le taux horaire accru était versé parce qu’il s’agissait d’un taux contractuel, et qu’il n’y aurait pas d’heures supplémentaires payées, ni rien de plus. Bien que Domart aurait fortement préféré embaucher un employé pour conduire le camion‑grue, M. Pavlis, au nom de Domart, avait expressément convenu avec M. Flanagan que les services de conducteur de camion‑grue seraient rendus dans le cadre des activités de Grubbs.
+[13] Domart ne versait rien de plus à Grubbs pour les repas et les chambres d’hôtel; Grubbs n’avait ni vacances ni congés de maladie payés, et pas d’avantages sociaux. Les employés de Domart, y compris les conducteurs de camion‑grue, bénéficiaient d’une gamme d’avantages sociaux. Domart payait la factuelle mensuelle qu’elle recevait de Grubbs au taux convenu, TPS en sus.
+[14] Pour le camion‑grue et son conducteur, Domart versait à McCallum Trucking un taux horaire unique de 220 $ l’heure, ce qui comprenait les services de l’aide sur véhicule motorisé. Domart versait à Grubbs plus de 45 $ l’heure pour les services de véhicule d’escorte.
+[15] Il n’y avait pas d’horaire de travail établi; Domart appelait M. Flanagan pour lui offrir du travail la journée même. À l’occasion, le travail était prévu à l’avance. Domart appelait M. Flanagan au numéro de téléphone cellulaire de ce dernier. M. Flanagan prenait parfois l’initiative d’appeler Domart le matin pour savoir s’il y avait du travail pour lui. Il n’était pas tenu de se présenter au travail chaque jour et ne travaillait pas les jours où il n’y avait pas de travail pour un conducteur de camion‑grue. À l’opposé, les employés de Domart devaient se présenter à 8 h chaque matin et rester au moins jusqu’à l’heure du dîner même s’il n’y avait pas de travail pour eux.
+[16] Les heures de livraison ou de ramassage étaient généralement fixées par les clients de Domart. S’il n’y en avait pas, Grubbs établissait son propre horaire et choisissait l’itinéraire; M. Flanagan décidait de l’heure des pauses, des repas et des haltes.
+[17] Pour manier efficacement la grue montée sur un camion‑grue, le conducteur doit être assisté d’un ouvrier qui l’aide à placer le camion et la charge de façon sécuritaire. Dans l’industrie du pétrole, cet ouvrier s’appelle l’aide sur véhicule motorisé. Lorsque M. Flanagan conduisait le camion‑grue de Domart, l’aide qui l’accompagnait était un employé de cette même société. En pratique, le conducteur est tenu de superviser et de diriger l’aide.
+[18] Pendant la période en cause, Domart était très active et elle utilisait beaucoup les services de conducteur de camion‑grue de Grubbs ou de M. Flanagan. Grubbs n’avait pas de garantie de travail, mais il était entendu, semble‑t‑il, que Domart appellerait d’abord Grubbs si elle avait besoin d’un conducteur pour son camion‑grue. Même si Domart était probablement le plus gros client de Grubbs, elle ne pouvait s’attendre à ce que Grubbs accepte de travailler pour elle toutes les fois où elle avait besoin d’un conducteur de camion‑grue, ni ne pouvait l’exiger.
+[19] Grubbs souscrivait sa propre assurance responsabilité, mais l’assureur avait refusé la seule demande de règlement qui lui avait été présentée concernant un sinistre survenu pendant que M. Flanagan conduisait le camion‑grue, au motif que M. Flanagan était, selon l’assureur, un employé de Domart. Par la suite, les décisions selon lesquelles M. Flanagan était un employé aux fins du Régime de pensions du Canada et de la Loi sur l’assurance‑emploi ont été rendues, et dès lors, M. Flanagan a refusé de discuter davantage de sa responsabilité éventuelle. Domart a payé les factures, qui étaient peu élevées, et n’a pas fait de demande de règlement à son propre assureur. Puis, elle a poursuivi ses activités, ayant réussi à satisfaire ses clients qui avaient demandé des indemnités.
+Analyse
+[20] Afin d’établir si un particulier était employé ou entrepreneur indépendant pour l’application des définitions d’emploi ouvrant droit à pension et d’emploi assurable, il faut décider si le particulier, en l’espèce M. Flanagan, exploitait vraiment une entreprise à son compte. Cette question a été établie par les tribunaux britanniques dans Market Investigations Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), approuvée par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd v. The Minister of National Revenue, 87 DTC 5025, aux fins des définitions canadiennes d’emploi assurable et d’emploi ouvrant droit à pension, et adoptée par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. Cette question doit être tranchée à la lumière de toutes les circonstances pertinentes et d’un certain nombre de critères et de points de repère utiles, y compris : 1) l’intention des parties; 2) le contrôle sur les activités; 3) la propriété des instruments de travail; 4) la possibilité de profit et le risque de perte; 5) ce qui a été qualifié de critère de l’intégration dans l’entreprise, de l’association ou de l’entrepreneuriat.
+[21] Avant de me pencher sur ces critères et de les examiner dans le contexte des faits de l’espèce, je ferai remarquer qu’il est à la fois très clair et reconnu par la Couronne que M. Flanagan exploitait effectivement une entreprise sous le nom de Grubbs Oilfield Services. Selon la Couronne, le travail de conducteur de camion‑grue que M. Flanagan exécutait pour Domart s’inscrivait dans une relation d’emploi distincte. Il n’est pas contesté que M. Flanagan rendait à Domart des services de véhicule d’escorte dans le cadre des activités de Grubbs, l’entreprise que M. Flanagan exploitait. La Couronne ne conteste pas non plus que Grubbs, l’entreprise de M. Flanagan, fournissait des services de véhicule d’escorte et de livraison express, et peut‑être même des services de conducteur de camion‑grue, à d’autres clients que Domart. Cet aspect rend l’affaire passablement différente des nombreux jugements publiés en la matière et de la plus grande partie de la jurisprudence sur laquelle se fonde la Couronne. Essentiellement, la Couronne soutient que le travail de conducteur de camion‑grue constituait un travail distinct des services de véhicule d’escorte que M. Flanagan fournissait à Domart pendant la même période, et distinct des services qu’il fournissait à d’autres clients pendant cette période. La position opposée à celle de la Couronne serait que Domart était simplement l’un des meilleurs et des plus importants clients de Grubbs pendant la période en cause.
+Intention des parties
+[22] En l’espèce, les deux parties avaient clairement l’intention d’établir une relation d’entrepreneur indépendant. M. Flanagan faisait affaire sous le nom de Grubbs Oilfield Services et, avant de travailler comme conducteur de camion‑grue pour Domart, il avait fait d’autres types de travaux pour celle‑ci et avait aussi travaillé pour d’autres clients. M. Pavlis, au nom de Domart, a témoigné que même s’il aurait préféré embaucher M. Flanagan au poste de conducteur de camion‑grue, devant l’insistance de M. Flanagan, Domart avait sciemment et intentionnellement accepté d’établir plutôt une relation d’entrepreneur indépendant avec Grubbs, l’entreprise de M. Flanagan.
+Contrôle
+[23] Dans sa relation de travail avec Grubbs, l’entreprise de M. Flanagan, il est clair que Domart n’exerçait pas le degré de contrôle qu’un employeur aurait exercé sur un employé. Il est important de noter que Domart ne pouvait obliger M. Flanagan à faire un travail pour elle. Domart offrait à M. Flanagan du travail de conducteur de camion‑grue, mais M. Flanagan était libre de refuser, ce qu’il a fait à l’occasion, selon la preuve. Même si M. Pavlis n’était pas toujours au courant de la raison du refus, il savait que M. Flanagan refusait du travail parfois pour des raisons personnelles, parfois parce qu’il avait déjà accepté du travail pour d’autres clients de Grubbs. En outre, quand Grubbs acceptait de faire un travail particulier pour Domart, sa seule responsabilité envers Domart consistait à livrer ou à reprendre l’équipement chez le client de Domart à la date et à l’heure fixées ou convenues. M. Flanagan décidait de l’heure du départ et des pauses, de la manière de procéder, etc.
+Propriété des instruments de travail
+[24] Grubbs ne possédait pas de camion‑grue. Cependant, l’entreprise ne prétendait pas offrir la même gamme de services de camion‑grue que McCallum Trucking, l’autre fournisseur de Domart. Grubbs offrait seulement des services de conducteur de camion‑grue dûment qualifié. M. Flanagan possédait le titre de compétences et les qualifications réglementaires pour faire ce travail, et payait pour maintenir les permis et certificats nécessaires. En outre, M. Flanagan payait lui‑même l’équipement de protection, les chaussures et les vêtements dont il avait besoin pour conduire un camion‑grue, sans obtenir de remboursement ni de contribution de Domart.
+Possibilité de profit et risque de perte
+[25] De toute évidence, c’était M. Flanagan, à titre de propriétaire, qui bénéficiait d’une possibilité de profit et qui s’exposait à un risque de perte par suite des activités globales de Grubbs, en raison de leur nature. Même si les services rendus étaient facturés à l’heure, la situation de M. Flanagan n’était pas celle d’un simple salarié rémunéré à l’heure. Bon nombre d’ouvriers qualifiés et de professionnels génèrent leurs revenus en facturant leurs services à l’heure. M. Flanagan possédait au moins un camion, qu’il utilisait pour offrir des services de véhicule d’escorte et de livraison express; il prenait en charge tous les coûts liés au camion et à la promotion de son entreprise. Le risque de perte lié aux services de conducteur de camion‑grue était peut‑être moins élevé que le risque lié aux autres activités de Grubbs, mais l’entreprise risquait quand même de causer des dommages, ce qui l’obligeait à souscrire une assurance responsabilité. Grubbs engageait des frais afin de répondre aux attentes de ses clients et aux attentes des clients de ses clients. Rien ne garantissait que Domart aurait besoin des services d’un conducteur de camion‑grue. Grubbs payait toutes les amendes et les pénalités liées à des infractions aux règlements de la circulation et aux règlements sur le transport, et tous les coûts liés aux déplacements à l’extérieur, exception faite du coût du carburant consommé par le camion‑grue. Je ne crois pas que le degré de risque moindre que comportait le travail de conducteur de camion‑grue indique une relation employeur‑employé entre Domart et M. Flanagan. Il n’y avait pas absence quasi totale de risque. Il ne faut pas oublier que les gens d’affaires prudents essaient toujours de structurer leurs activités et leurs relations professionnelles de manière à minimiser les risques dans la mesure du possible. En fait, de nombreuses personnes considèrent que cette façon de faire révèle une entreprise bien gérée.
+[26] Dans son argumentation, la Couronne a beaucoup insisté sur le fait que, lorsque M. Flanagan avait été impliqué dans un accident causant des dommages à la propriété d’un tiers, l’assureur responsabilité de Grubbs avait rapidement rejeté la demande de règlement au motif que M. Flanagan était un employé de Domart. Je ne suis guère influencé par le fait qu’un assureur a refusé de payer en raison de l’évaluation qu’il avait faite d’une relation juridique, sur laquelle je dois justement rendre une décision. Ce n’est pas comme si l’enquêteur de l’assureur avait trouvé un contrat d’emploi écrit, ou une déclaration faite par M. Flanagan, plutôt que par Domart, selon laquelle M. Flanagan était employé. Rien ne démontre que M. Flanagan ait jamais soutenu qu’il était employé aux fins de cette demande de règlement d’assurance avant que l’Agence du revenu du Canada ne rende sa décision. Je ne suis pas influencé par le fait que M. Flanagan a pu soutenir qu’il était un employé de Domart, après avoir appris que l’Agence du revenu du Canada le considérait comme tel, afin de se défendre dans le cadre de la demande de règlement de Domart. Je ne trouve pas non plus révélateur dans les circonstances le fait que Domart a décidé de payer pour les dommages à la propriété dans le but, exprimé lors du témoignage, de préserver la satisfaction de sa clientèle et de protéger son image de marque. Le fait que Domart n’a pas présenté de demande de règlement à son assureur pour ce sinistre n’appuie pas clairement la position de la Couronne, car l’assurance de Domart aurait vraisemblablement couvert les dommages causés par les employés de la société, mais elle n’aurait peut-être pas couvert les dommages causés par un tiers entrepreneur qui fournissait des services à Domart.
+Critère de l’intégration, de l’association ou de l’entrepreneuriat
+[27] Je n’oublie pas que le critère de l’intégration, de l’association ou de l’entrepreneuriat doit être appliqué, s’il y a lieu, avec une grande prudence. Je ne crois pas que les services de conducteur de camion‑grue en question étaient intégrés aux activités de Domart au point que c’était Domart qui exploitait son entreprise par l’intermédiaire de M. Flanagan à titre d’employé. Aucun élément de preuve n’indique que les clients de Domart n’aient pas considéré Grubbs ou M. Flanagan comme un sous-traitant indépendant qui livrait et ramassait l’équipement de Domart à leur lieu de travail. De toute évidence, les clients de Domart auraient considéré McCallum Trucking comme un entrepreneur indépendant si son camion‑grue et son conducteur avaient été utilisés pour la livraison et le ramassage de l’équipement.
+[28] Lorsqu’il s’agit de décider si M. Flanagan faisait partie intégrante de l’entreprise Domart, je ne reconnais pas qu’il exerçait des fonctions de gestion ou de supervision du personnel de Domart lorsqu’il supervisait et dirigeait l’aide qui l’accompagnait dans ses voyages avec le camion‑grue et qui lui était fourni par Domart.
+Conclusions
+[29] En me fondant sur la preuve présentée, je suis convaincu que la prestation des services de conducteur de camion‑grue faisait partie intégrante des activités de l’entreprise Grubbs, exploitée par M. Flanagan. Rien dans les faits ou dans la loi ne permet de séparer ces services utilisés par Domart des autres activités générales de Grubbs et de les qualifier de services s’apparentant à un emploi qu’aurait exercé M. Flanagan pour Domart. Dans l’affaire qui nous occupe, M. Flanagan fournissait les services à Domart dans le cadre de sa propre entreprise déjà établie. Comme il a été exposé dans Market Investigations, il est ainsi plus facile en l’espèce d’appliquer les critères pertinents.
+[30] L’avocat de la Couronne a fait référence à un nombre considérable de décisions antérieures rendues par la Cour qui concernaient des conducteurs de camion. Pratiquement toutes ces décisions ont été rendues avant l’arrêt de la Cour d’appel fédérale dans Royal Winnipeg Ballet v. The Minister of National Revenue, 2006 DTC 6323. L’avocate de Domart a mentionné les motifs de la décision A.L.D. Enterprises Inc. c. Le ministre du Revenu national, 2007 CCI 71, que la Cour a rendue en se fondant sur l’arrêt Royal Winnipeg Ballet. Ces motifs ont été rédigés par le juge qui avait tranché plusieurs des causes en matière de transport sur lesquelles la Couronne s’est fondée. Dans A.L.D., la Cour a tranché en faveur du statut d’entrepreneur indépendant et signalé l’importance particulière de l’intention des parties et du critère du contrôle. L’analyse faite et la décision rendue dans A.L.D. sont conformes à l’arrêt Royal Winnipeg Ballet de la Cour d’appel fédérale et à la décision plus récente de celle‑ci dans Combined Insurance Co. of America c. Canada (Ministre du Revenu national), 2007 CAF 60. Dans Vida Wellness Corp. c. Canada (Ministre du Revenu national), 2006 CCI 534, la Cour donne aussi dans ses motifs un résumé utile de la signification de l’arrêt Royal Winnipeg Ballet rendu par la Cour d’appel fédérale. Tout récemment, les motifs du juge en chef dans la décision Lang c. Canada (Ministre du Revenu national), 2007 CCI 547, sont aussi très utiles sur ce point.
+[31] La position de Domart est simple et persuasive. Domart a fait appel à Grubbs pour obtenir des services de conducteur de camion‑grue, tout comme elle a fait appel à cette même entreprise pour obtenir des services de véhicule d’escorte, et tout comme elle avait auparavant fait appel à Skookum Inc. Grubbs fournissait des services de conducteur de camion‑grue, des services de véhicule d’escorte et des services de livraison express. Puisque M. Flanagan était le propriétaire et l’exploitant de Grubbs lorsque les services ont été fournis, et puisque les services étaient fournis dans le cadre des activités de Grubbs, M. Flanagan ne pouvait être considéré comme un employé de Domart.
+[32] En bref, Grubbs était une entreprise indépendante exploitée par M. Flanagan; elle avait des clients autres que Domart et offrait certains services que Domart n’utilisait pas. Dès le début, Domart et M. Flanagan avaient eu l’intention d’établir entre eux un contrat d’entreprise, et non un contrat de louage de services. En fait, M. Flanagan a même refusé d’établir la relation employeur‑employé qu’aurait préférée Domart. Les parties n’ont jamais agi de manière incompatible avec la relation d’entrepreneur indépendant. Les employés de Domart qui travaillaient comme conducteurs de camion‑grue avant que la relation fût établie avec Grubbs et après la fin de cette relation étaient payés différemment. Ils recevaient un taux horaire inférieur, leurs heures supplémentaires étaient rémunérées, ils avaient une garantie de travail, ils étaient tenus de se présenter à 8 h et ne pouvaient partir avant 13 h, même s’il n’y avait pas de travail à faire. Ils n’étaient pas responsables des infractions qu’ils commettaient aux règlements de la circulation et aux règlements sur le transport. Ils subissaient un degré de contrôle plus élevé que M. Flanagan.
+[33] Pour ces motifs, je conclus que M. Flanagan n’exerçait pas un emploi assurable ni un emploi ouvrant droit à pension pour Domart. J’accueille les appels et annule la décision rendue par le ministre.
+Signé à Ottawa, Canada, ce 2e jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 6e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI585
+Nos DES DOSSIERS DE LA COUR : 2006-13(EI), 2006-17(CPP)
+INTITULÉ : Domart Ltd. c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Grande Prairie (Alberta)
+DATE DE L’AUDIENCE : Le 9 août 2007
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 2 octobre 2007
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Andrea Chrenek
+Avocat de l’intimé :
+Me Daniel Segal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Andrea Chrenek
+Cabinet : Lewis & Chrenek LLP
+Grande Prairie (Alberta)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

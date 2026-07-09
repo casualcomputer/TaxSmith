@@ -1,0 +1,33 @@
+Title: Ace Painting v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27856/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-319-27856-ace-painting-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-03-29
+
+# Ace Painting v. M.N.R.
+
+- Citation: 2005 TCC 319
+- Decision date: 2005-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 331, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ace Painting v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-29
+Neutral citation
+2005 TCC 319
+File numbers
+2004-58(EI), 2004-60(CPP)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Employment Insurance Act
+Decision Content
+Your browser's JavaScipt is disabled. Please download the PDF via the PDF icon.

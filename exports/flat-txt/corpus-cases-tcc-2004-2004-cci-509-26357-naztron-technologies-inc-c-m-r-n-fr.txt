@@ -1,0 +1,257 @@
+Title: Naztron Technologies Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26357/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-509-26357-naztron-technologies-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-07-27
+
+# Naztron Technologies Inc. c. M.R.N.
+
+- Citation: 2004 CCI 509
+- Decision date: 2004-07-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3370, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Naztron Technologies Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-27
+Référence neutre
+2004 CCI 509
+Numéro de dossier
+2003-719(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-719(EI)
+ENTRE :
+NAZTRON TECHNOLOGIES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu le 30 juin 2004 à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Yvon Nazon
+Avocate de l'intimé :
+Me Agathe Cavanagh
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu de la Loi sur l'assurance-emploi, concernant une détermination du ministre du Revenu national (le « Ministre » ) en date du 10 décembre 2002, est accueilli et la décision rendue par le Ministre est modifiée en tenant compte du fait que monsieur Bernard Jules, dont les services étaient retenus par l'appelante, a exercé son travail dans les deux années en cause non pas dans le cadre d'un contrat de louage de services, mais dans le cadre d'un contrat d'entreprise entre Multimedia Consulting 2000+ et l'appelante, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 27e jour de juillet 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI509
+Date : 20040727
+Dossier : 2003-719(EI)
+ENTRE :
+NAZTRON TECHNOLOGIES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une détermination en date du 10 décembre 2002, en vertu de laquelle l'intimé concluait que, du 18 novembre 2001 au 12 avril 2002, monsieur Bernard Jules a effectué du travail pour Naztron Technologies Inc. dans le cadre d'un contrat de louage de services.
+[2] Pour rendre la détermination, l'intimé s'est fondé sur les présomptions de fait suivantes :
+a) l'appelante exploite une entreprise de consultation en génie électrique depuis novembre 2000.
+b) L'appelante est détenue, à parts égales, par M. Yves Nazon et M. Ron Rinkembach.
+c) L'appelante a embauché le travailleur en lui confiant le mandat de développer un nouveau marché en technologie de l'information.
+d) Les principales tâches confiées au travailleur étaient :
+- Solliciter de nouveaux clients.
+- Définir ce que l'appelante pouvait rendre comme services à ces clients.
+- Superviser le vendeur de l'appelante qui effectuait des appels téléphoniques aux clients.
+- Développer le site WEB de l'appelante.
+e) Le travailleur effectuait environ 50 % de ses tâches au bureau de l'appelante, 25 % à son domicile et 25 % sur la route pour rencontrer les clients.
+f) Le travailleur n'avait pas à compléter de feuilles de temps car l'appelante contrôlait son volume de travail et évaluait ses résultats.
+g) Le travailleur devait effectuer lui-même le travail; il ne pouvait se faire remplacer.
+h) Des rencontres hebdomadaires avaient lieu entre le travailleur et l'appelante où des rapports verbaux étaient échangés entre les parties.
+i) Le travail du travailleur était supervisé par l'un ou l'autre des actionnaires de l'appelante.
+j) Le travailleur était rémunéré une fois par mois sur présentation de facture; il recevait 1 280 $ par semaine pour 37,5 heures de travail, soit 34,13 $ de l'heure.
+k) Le travailleur détenait une raison sociale appelée « Consultation Multimédia 2000+ » .
+l) L'appelante émettait le chèque de paie du travailleur au nom de « Consultation Multimédia 2000+ » .
+m) L'appelante versait la T.P.S. et la T.V.Q. sur la rémunération versée au travailleur.
+n) L'appelante fournissait les outils de travail et remboursait au travailleur toutes les dépenses engagées dans le cadre de son travail.
+[3] L'appelante a admis le contenu de tous les alinéas, à l'exception de celui des alinéas e), f), g), i), j), l) et n).
+[4] L'avis d'appel résume assez bien la preuve soumise par l'appelante. Il y a lieu d'en reproduire le contenu.
+[...]
+Je désire faire appel d'une décision de l'Agence des Douanes et du Revenu du Canada. Les informations relatives à la décision sont les suivantes :
+Décision :
+Contrôle :
+Date de mise à la poste :
+Nom de la Compagnie :
+Adresse :
+Représentant :
+Téléphones :
+CE 0226 2093 8363
+0762195
+10 décembre 2002
+Naztron Technologies Inc.
+2050 Marlowe, Montréal, QC H4A 3L5
+Yvon Nazon (président)
+514-482-6495 (bureau), 514-993-8973 (cellulaire)
+Naztron Technologies se doit d'appeler de la décision pour les raisons suivantes :
+1- Naztron Technologies a engagée la compagnie de consultation « Multimedia Consulting 2000+ » pour le compte de laquelle travaillait M. Bernard Jules.
+2- De bonne foi, entre les deux parties, il a été entendu que M. Jules travaillerait en tant que consultant. Le but de l'opération n'a pas été, pour l'une ou l'autre partie, de déguiser un emploi régulier sous la forme d'un travail autonome.
+3- Le travail de M. Jules était facturé par la compagnie « Multimedia Consulting 2000+ » . Naztron n'a jamais eu à verser des honoraires directement à M. Jules. « Multimedia Consulting 2000+ » facturait également la TPS et la TVQ correspondant au travail effectué par M. Jules.
+4- En fonction des honoraires versés à « Multimedia Consulting 2000+ » et en fonction des contraintes du marché, Naztron a exigé un minimum de temps que M. Jules devait consacrer aux activités de Naztron. Naztron n'exigeait pas un horaire fixe, ni une présence constante à ses bureaux. M. Jules, une fois le minimum d'heures exigé effectué, était libre de travailler pour toute autre compagnie.
+5- Pour le remboursement des dépenses, il est tout à fait courant dans ce genre de contrat que le consultant soit remboursé pour des dépenses de matériel ou de représentation ayant trait directement au travail de son client. C'est pour cela que nous avons remboursé certaines dépenses à « Multimedia Consulting 2000+ » Vous remarquerez également que nous avons remboursé les dépenses de déplacements de M. Jules lorsqu'il devait se déplacer pour avoir des réunions dans les bureaux de Naztron. Tous les équipements réguliers (ordinateurs et logiciels) que M. Jules utilisait pour son travail sont la propriété de « Multimedia Consulting 2000+ » et n'ont pas été payés par Naztron sous forme de remboursement de dépenses.
+6- Le travail effectué à Naztron est un travail d'équipe. Dans le but de coordonner le travail des différents membres de l'équipe, nous avons exigé (pendant une courte période) des rapports hebdomadaires de M. Jules. Ces rapports ont été exigés dans un but de coordination et non pas dans un but de contrôle.
+Je crois que les raisons mentionnées ici, vous permettent de mieux comprendre les motivations de notre contestation.
+Merci de votre collaboration et bien à vous,
+(Signature)
+Yvon Nazon
+[5] Outre monsieur Nazon, monsieur Bernard Jules a témoigné. Les deux témoignages sont tout à fait cohérents et la Cour n'a pas relevé de contradictions significatives si ce n'est quant à l'interprétation des faits.
+[6] Avant l'entente intervenue au début de la période en question, Bernard Jules ne travaille pas, mais il est propriétaire de Multimedia Consulting 2000+, une entreprise possédant une adresse internet.
+[7] Yvon Nazon connaît les compétences et l'expertise de Multimedia Consulting 2000+, et il connaît également son propriétaire, Bernard Jules. Une rencontre a lieu et des discussions portent sur la possibilité d'associer Multimedia Consulting 2000+ et Bernard Jules dans un projet dont le but serait de développer un nouveau marché. Les parties s'entendent sur un montant mensuel et sur la durée possible de l'entente.
+[8] Le travail débute. Assez régulièrement, messieurs Jules et Nazon font le point sur la situation. Monsieur Jules fait part de ses initiatives et monsieur Nazon fait certaines suggestions; à l'occasion, celui-ci fournit certains noms de clients de l'entreprise de l'appelante, Naztron Technologies Inc.
+[9] À un moment donné, monsieur Jules embauche Mélanie Guindon pour l'élaboration d'un site Web pour l'appelante.
+[10] Madame Guindon est choisie, embauchée et payée par Bernard Jules qui refile la dépense à l'appelante. L'entente initiale est respectée. Chaque mois, Multimedia Consulting 2000+ facture l'appelante, Naztron Technologie Inc., qui acquitte la facture et les taxes applicables.
+[11] Il y a lieu de reproduire un des spécimens de la facturation utilisé pour le paiement du temps consacré.
+Multimedia Consulting 2000+
+4711 Beneche
+Pierrefonds, P.Q., H9J 3R1
+Tel/Fax: 696-2771
+No. TPS: 872835814
+No. TVQ: 2247383385
+Invoice
+to: Naztron Technologies Inc.
+2050 Marlowe
+Montreal, PQ, H4A 3L5
+Invoice number: MC-000001
+Date: November 5, 2001
+Engineering consulting services rendered between September 30th, 2001 and October 27, 2001.
+Fees:
+64.00 hours at $80/hour
+TPS (7%)
+TVQ (7.5%)
+Total (net 7 days)
+$5,120.00
+$358.40
+$410.88
+$5,889.28
+Bernard Jules
+[12] Toutes les dépenses sont également facturées de la même façon. Il y a lieu de reproduire un exemple de facturation utilisée pour le remboursement des dépenses.
+Naztron Technologies
+Bernard Expenses
+Item
+Consulting services
+Expense
+Consulting services
+Expense
+Consulting services
+Expense
+Consulting services
+Total paid until today
+Consulting services
+Expense
+Consulting services
+Expense
+Total dued
+Period/Date
+05-Nov-01
+05-Nov-01
+13-Dec-01
+20-Dec-01
+11-Jan-02
+11-Jan-02
+11-Feb-02
+February
+Jan-Feb
+March
+March
+Amount
+$ 5,889.28
+693.93
+7,361.60
+1,856.04
+5,889.28
+986.18
+5,889.28
+$28,565.59
+$ 5,889.28
+984.43
+5,889.28
+3,000.00
+$15,762.99
+Grand total (tax included)
+Grand total
+$ 44,328.58
+$ 38,538.21
+Total consulting services (tax included)
+Total consulting services
+Total expenses (tax included)
+Total expenses
+$ 36,808.00
+$ 32,000.00
+$ 7,520.58
+$ 6,538.21
+[13] Monsieur Bernard Jules a témoigné à la demande du représentant de l'appelante. Il a reconnu avoir toujours eu une très grande liberté d'action dans le cadre de son mandat. Il s'est lui-même décrit comme un consultant professionnel autonome ayant de l'expérience et une expertise dans un secteur spécialisé. Ses services ont été retenus par l'appelante dans ce secteur d'activité. Il a admis qu'il s'agissait d'un projet visant à développer un nouveau créneau.
+[14] Il s'agissait donc d'une initiative particulière dans un secteur d'activités qui ne faisait pas partie des activités courantes de l'appelante. Dès le départ, il avait été clairement convenu qu'il s'agissait là d'une tentative.
+[15] Monsieur Jules a affirmé que les parties auraient manifestement renégocié l'entente s'il avait pu ouvrir le nouveau marché. Il a alors fait référence à une formule de commission comme étant une possibilité.
+[16] Pour l'exécution du travail, Bernard Jules utilisait exclusivement ses outils technologiques. Il possédait la totalité de ce dont il avait besoin pour exécuter le travail.
+[17] Yvon Nazon a indiqué que l'appelante avait englouti près de 40 000 $ dans l'aventure qui s'est avérée un échec et qu'il avait été décidé d'y mettre un terme.
+[18] À la fin du projet, il semble que monsieur Jules a fait des démarches dans le but d'obtenir des prestations d'assurance-emploi étant donné que son entreprise n'avait pas d'autre contrat et qu'il était, conséquemment, sans emploi.
+[19] Lors de son témoignage, monsieur Jules s'est lui-même décrit comme travailleur autonome.
+[20] Le travail effectué par Bernard Jules pour le compte de Naztron Technologies Inc. a-t-il été exécuté dans le cadre d'un contrat de louage de services ou d'un contrat d'entreprise?
+[21] Tout d'abord, l'appelante a fait valoir au moyen d'une prépondérance de la preuve, tant testimoniale que documentaire, qu'elle avait fait affaires non pas avec Bernard Jules, mais avec son entreprise, Multimedia Consulting 2000+. Le paiement pour le travail effectué et facturé par Multimedia Consulting 2000+ était également versé à cette entreprise. Il en était de même en ce qui concerne les dépenses. La taxe de vente du Québec ( « TVQ » ) et la taxe sur les produits et services ( « TPS » ) étaient ajoutées à la facture et payées par l'appelante.
+[22] Multimedia Consulting 2000+ possédait le matériel requis pour l'exécution du travail accompli par monsieur Jules. Tous les coûts inhérents à l'utilisation, à la dépréciation et à la réparation de l'équipement étaient exclusivement à la charge de Bernard Jules.
+[23] Aucun des documents relatifs aux dépenses ou au travail ne fait état de monsieur Jules personnellement. Ils font plutôt référence à son entreprise, Multimedia Consulting 2000+.
+[24] Bernard Jules avait-il mis fin à son entreprise? Avait-il pris possession du matériel de Multimedia Consulting 2000+? Avait-il abandonné son numéro d'inscrit auprès des autorités fiscales? Avait-il informé les personnes avec qui il faisait affaires qu'il agissait à titre personnel? Ce sont là quelques questions demeurées sans réponses.
+[25] Le fait que Multimedia Consulting 2000+ n'avait qu'un seul client, soit l'appelante, pendant la période en question, ne fait pas automatiquement de monsieur Jules un salarié de l'appelante.
+[26] L'intimé a fait référence à l'article 2085 du Code civil du Québec qui se lit comme suit :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[27] Certes, il s'agit là d'une disposition incontournable. Par contre, la preuve n'a pas permis d'établir l'existence d'une relation d'emploi directe entre Bernard Jules et l'appelante.
+[28] Le raisonnement et le cheminement de l'intimé occultent Multimedia Consulting 2000+ totalement de son analyse des faits. Rien dans la preuve, dont la charge sur cette question n'incombait pas à l'appelante, ne permet à la Cour de conclure que le consultant Bernard Jules a, de façon temporaire ou définitive, renoncé à faire affaires par l'intermédiaire de Multimedia Consulting 2000+. Bien au contraire, monsieur Jules a continuellement utilisé la même facturation en prenant bien soin d'ajouter la TPS et la TVQ et, à certaines occasions, la mention « Total (Net 10 days) » .
+[29] Pousser la logique suivie par l'intimé jusqu'au bout pourrait avoir pour effet de nous mener à conclure que Bernard Jules a été employé par Yvon Nazon personnellement puisqu'il s'agit de celui qui lui parlait, qui s'informait et qui demandait des rapports d'étapes. Or, monsieur Nazon agissait au nom de l'appelante, Naztron Technologies Inc., alors que monsieur Jules de son côté, agissait au nom de Multimedia Consulting 2000+.
+[30] Lorsque deux entreprises traitent l'un avec l'autre pour que soit effectué un travail, les particuliers qui effectuent le travail pour le compte du payeur ne deviennent pas des salariés assujettis au contrôle de ce dernier, à moins que l'on arrive à prouver dans ce contexte particulier l'existence d'une entente spécifique et de faits qui ne prêtent à aucune confusion.
+[31] En l'espèce, il n'y a eu aucune preuve à l'effet que Bernard Jules avait renoncé à son entreprise pour l'exécution du contrat en cause. Bien au contraire, il a lui-même parlé de flexibilité, de liberté, de non-exclusivité et du fait qu'il était un travailleur autonome.
+[32] L'intimé a élaboré toutes sortes de théories à partir des divers échanges, suivis, mises à jour, etc., intervenus dans le cours de l'exécution du contrat.
+[33] Sur cette question, je crois pertinent de rappeler un extrait de la récente décision rendue dans l'affaire Le livreur plus Inc. c. M.R.N., [2004] A.C.F. no 267 (Q.L.), où l'honorable juge Létourneau de la Cour d'appel fédérale rappelait les différents aspects de la problématique. Il s'exprimait comme suit :
+[17] La stipulation des parties quant à la nature de leurs relations contractuelles n'est pas nécessairement déterminante et la Cour peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : D & J Driveway Inc. c. Le ministre du Revenu national, 2003 CAF 453. Mais en l'absence d'une preuve non équivoque au contraire, la Cour doit dûment prendre en compte l'intention déclarée des parties : Mayne Nickless Transport Inc. c. Le ministre du Revenu national, 97-1416-UI, 26 février 1999 (C.C.I.). Car en définitive, il s'agit de déterminer la véritable nature des relations entre les parties. Aussi, leur intention sincèrement exprimée demeure-t-elle un élément important à considérer dans la recherche de cette relation globale réelle que les parties entretiennent entre elles dans un monde du travail en pleine évolution : voir Wolf c. Canada, [2002] 4 C.F. 396 (C.A.F.); Procureur général du Canada c. Les Productions Bibi et Zoé Inc., 2004 C.A.F. 54.
+[18] Dans ce contexte, les éléments du critère énoncé dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., 87 D.T.C. 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et enfin l'intégration, ne sont que des points de repère : Charbonneau c. Canada (ministre du Revenu national - M.R.N.) (1996), 207 N.R. 299, paragraphe 3. En présence d'un véritable contrat, il s'agit de déterminer si, entre les parties, existe un lien de subordination, caractéristique du contrat de travail, ou s'il n'y a pas, plutôt, un degré d'autonomie révélateur d'un contrat d'entreprise : ibidem.
+[19] Ceci dit, il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l'ouvrier chargé de les réaliser : Vulcain Alarme Inc. c. Le ministre du Revenu national, A-376-98, 11 mai 1999, paragraphe 10, (C.A.F.); D & J Driveway Inc. c. Le ministre du Revenu national, précité, au paragraphe 9. Comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N.), précitée, suivie dans l'arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), 2002 F.C.A. 394, « rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur » .
+[20] Je suis d'accord avec les prétentions de la demanderesse. Un sous-entrepreneur n'est pas une personne libre de toute contrainte qui travaille à son gré, selon ses inclinations et sans la moindre préoccupation pour ses collègues co-contractants et les tiers. Ce n'est pas un dilettante à l'attitude cavalière, voire irrespectueuse, capricieuse ou irresponsable. Il oeuvre dans un cadre défini, mais il le fait avec autonomie et à l'extérieur de celui de l'entreprise de l'entrepreneur général. Le contrat de sous-traitance revêt souvent un caractère léonin dicté par les obligations de l'entrepreneur général : il est à prendre ou à laisser. Mais sa nature n'en est pas altérée pour autant. Et l'entrepreneur général ne perd pas son droit de regard sur le résultat et la qualité des travaux puisqu'il en assume la seule et entière responsabilité vis-à-vis ses clients.
+[34] La prépondérance de la preuve est à l'effet que monsieur Bernard Jules n'a jamais été à l'emploi de l'appelante; elle avait fait affaires avec la société que ledit Bernard Jules possédait. Le travail exécuté par Bernard Jules a été exécuté dans le cadre d'un contrat entre sa société et l'appelante.
+[35] Pour toutes ces raisons, l'appel estaccueilli et la décision rendue par le Ministre est modifiée en tenant compte du fait que monsieur Bernard Jules, dont les services étaient retenus par l'appelante, a exercé son travail dans les deux années en cause non pas dans le cadre d'un contrat de louage de services, mais dans le cadre d'un contrat d'entreprise entre Multimedia Consulting 2000+ et l'appelante.
+Signé à Ottawa, Canada, ce 27e jour de juillet 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI509
+No DU DOSSIER DE LA COUR :
+2003-719(EI)
+INTITULÉ DE LA CAUSE :
+Naztron Technologies Inc.
+c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE
+le 30 juin 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 27 juillet 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+Yvon Nazon
+Avocate de l'intimé :
+Me Agathe Cavanagh
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,107 @@
+Title: Waters c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30111/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-631-30111-waters-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-12-06
+
+# Waters c. La Reine
+
+- Citation: 2010 CCI 631
+- Decision date: 2010-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7637, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Waters c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-06
+Référence neutre
+2010 CCI 631
+Numéro de dossier
+2010-1216(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1216(IT)I
+ENTRE :
+ANGELE M. WATERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 29 novembre 2010 à Saskatoon (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Jamie Hammersmith
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle détermination du ministre du Revenu national pour l’année de base 2008 de l’appelante est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 631
+Date : 20101206
+Dossier : 2010-1216(IT)I
+ENTRE :
+ANGELE M. WATERS,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Angele Waters, interjette appel contre la détermination du ministre Revenu national (le « ministre ») selon laquelle elle n’avait pas droit à la prestation fiscale canadienne pour enfants (la « PFCE ») pour l’année de base 2008 (de juillet 2009 à juin 2010) relativement à sa fille, C., née le 5 octobre 1992.
+[2] Dans son avis d’appel, l’appelante mentionne aussi son droit à la PFCE pour les années d’imposition 2004, 2005, 2006 et 2007. L’intimée soutient que seule la période de juillet 2009 à juin 2010 peut valablement faire l’objet du présent appel parce que l’appelante n’avait déposé aucun avis d’opposition relativement aux autres années d’imposition mentionnées dans son avis d’appel[1] et que le délai pour le faire est maintenant expiré. L’appelante n’a pas contesté la position de l’intimée, et j’accepte son explication selon laquelle elle avait mentionné les autres années pour situer le contexte, et que son appel ne porte que sur l’année de base 2008.
+[3] L’appelante prétend avoir droit à la PFCE en se fondant sur ce qu’elle considère être un « enlèvement » ou, tout au moins, sur le fait que son ex‑époux lui ait à tort retiré leur fille de sa garde le 15 décembre 2005. L’appelante avance que, n’eût été cet « enlèvement », elle aurait continué à résider avec sa fille et à être sa principale pourvoyeuse de soins.
+[4] En ce qui concerne la PFCE, l’intimée soutient que la preuve n’est pas suffisante pour conclure à un enlèvement. La Couronne affirme en outre qu’il ressort clairement de la preuve que, de juillet 2009 à juin 2010, C. résidait avec l’ex-époux de l’appelante, à savoir Donald Waters, et que c’est ce dernier qui assumait principalement la responsabilité pour le soin et l’éducation de C., comme l’exige l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi »). En conséquence, l’appelante ne peut pas satisfaire aux critères d’admissibilité à la PFCE.
+[5] L’appelante a déclaré qu’après son divorce d’avec Donald Waters en 1999, elle s’était vue confier la garde, la charge et la direction de C. en vertu d’une ordonnance de la Cour du Banc de la Reine de Saskatchewan datée du 22 septembre 1999[2] (l’« ordonnance de garde »). C. a vécu avec l’appelante jusqu’au 15 décembre 2005. À cette date, M. Waters a fait en sorte que C. aille vivre à sa ferme, où elle est demeurée jusqu’au moment où elle a cessé de répondre à la définition de « personne à charge admissible » selon la Loi. L’appelante a déclaré qu’elle avait communiqué avec le bureau local de la GRC immédiatement après le départ de sa fille et produit une copie de l’ordonnance de garde, mais qu’elle n’avait abouti à aucun résultat. N’ayant pas les moyens d’engager les services d’un avocat et incertaine quant à la façon de procéder par elle‑même, l’appelante n’a pris aucune autre mesure pour récupérer la garde de sa fille.
+[6] D’après M. Waters, le 15 décembre 2005, sa fille l’avait appelé pour lui dire qu’elle et sa mère vivaient dans une maison de transition. M. Waters considérait qu’un tel logement ne convenait pas à sa fille, et c’est pour cette raison qu’il avait demandé à sa sœur d’aller chercher C. et de l’amener chez lui. Ce dernier a reconnu qu’il savait que l’appelante avait obtenu la garde de leur fille, mais qu’il croyait qu’à 13 ans, C. était capable de choisir où elle voulait vivre. Il a consulté son avocat et, le 10 mars 2006, il a obtenu une ordonnance provisoire[3] (l’« ordonnance de résidence permanente »), qui prévoyait, au paragraphe 2, que la principale résidence de C. [traduction] « sera celle [du père], jusqu’à ce que la Cour réexamine la question ». L’appelante a reconnu qu’elle n’avait pas pris d’autres mesures pour contester l’ordonnance de résidence permanente qui était demeurée en vigueur pendant la période de juillet 2009 à juin 2010.
+[7] Bien que je sois sensible à la situation de l’appelante, je dois décider de son droit à la PFCE compte tenu des critères prévus à l’article 122.6 de la Loi; à savoir que C. devait résider avec sa mère de juillet 2009 à juin 2010 et que l’appelante devait avoir assumé principalement le soin et l’éducation de C. L’appelante a le fardeau de prouver les faits à l’appui de ces conclusions.
+[8] À mon avis, il ressort de la preuve que C. résidait avec son père pendant la période visée par l’appel. Bien que le fait pour le père de retirer l’enfant de la garde la mère fût contraire à l’ordonnance de garde, il ressort de la preuve non contestée produite par M. Waters que C. était en âge de décider et qu’elle avait décidé de vivre avec son père. En outre, peu de temps après, l’ordonnance de garde avait été modifiée par une ordonnance de résidence permanente qui était demeurée en vigueur pendant la période de juillet 2009 à juin 2010. Le fait est que C. est restée à la résidence de son père pendant cette période. En ce qui concerne la personne qui avait pourvu au soin et à l’éducation de C. pendant cette période, l’appelante n’a pas contesté la preuve produite par M. Waters selon laquelle il était la personne qui avait vu à l’éducation de C., aux soins médicaux de C., etc., comme le prévoit l’article 6302 du Règlement de l’impôt sur le revenu.
+[9] L’intention du législateur est que la PFCE suive l’enfant; ce but est atteint en remettant les fonds pour le soutien de l’enfant entre les mains de la personne qui subvient réellement aux besoins de l’enfant. En l’espèce, l’appelante n’a pas réussi à démontrer que le ministre avait eu tort de lui refuser la PFCE. Pour les motifs exposés ci‑dessus, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010CCIC631
+NO DU DOSSIER DE LA COUR : 2010-1216(IT)I
+INTITULÉ : ANGELE M. WATERS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 29 novembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 6 décembre 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Jamie Hammersmith
+AVOCATS INSCRITS AU DOSSIER :
+pour l’appelante :
+Nom :
+Cabinet :
+pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada Ottawa, Canada
+[1] Déclaration sous serment d’Yvonne Provost.
+[2] Pièce A-1.
+[3] Pièce R-1.

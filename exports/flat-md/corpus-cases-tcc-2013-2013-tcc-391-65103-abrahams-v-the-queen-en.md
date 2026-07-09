@@ -1,0 +1,161 @@
+---
+title: "Abrahams v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/65103/index.do"
+last_modified: "2013-12-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 391"
+citation2: ""
+neutral_citation: "2013 TCC 391"
+decision_date: "2013-12-06"
+language: "en"
+item_id: "65103"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5909
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:42:33.977000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c2f6c10b775f1678887f1b7b64be41df5f879e71a6271e7861a4ec2a9ea4bd41"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Abrahams v. The Queen
+
+- Citation: 2013 TCC 391
+- Decision date: 2013-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5909, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abrahams v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-12-06
+Neutral citation
+2013 TCC 391
+File numbers
+2012-3500(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3500(IT)I
+BETWEEN:
+KEITH ABRAHAMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 13, 2013, at Vancouver, British Columbia
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Holly Popenia
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the Appellant’s 2010 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim the amount of $17,891 as a deduction for a clergy residence, and the Appellant is not entitled to claim employment expenses in the amount of $10,972.16.
+The purported appeal for the assessments made under the Income Tax Act for the Appellant’s 2009 and 2011 taxation years is quashed.
+Signed at Ottawa, Canada, this 6th day of December 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC391
+Date: 20131206
+Docket: 2012-3500(IT)I
+BETWEEN:
+KEITH ABRAHAMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the Appellant is entitled to claim a deduction for a clergy residence in his 2010 taxation year.
+Preliminary Matter
+[2] In his amended notice of appeal, the Appellant requested that if the Court allowed his appeal for his 2010 taxation year, the same result be applied to his 2009 and 2011 taxation years.
+[3] The appeal for the 2009 and 2011 taxation years is not properly before this Court. According to the affidavit of May Yu, an officer with the Canada Revenue Agency, the Appellant did not file a notice of objection against the reassessment of his 2009 taxation year or the assessment of his 2011 taxation year. It is a condition precedent that a taxpayer must file a notice of objection against an assessment before he can file an appeal with this Court.
+[4] The appeal of the 2009 and 2011 taxation years is quashed.
+History of Appeal
+[5] The Appellant is an ordained pastor. In 2010, he ministered the congregation of Harvest Church International (the “Church”) in Abbotsford, British Columbia. It was his evidence that the Church had financial difficulties as a result of the recession in 2008 and he proposed to the Directors of the Church that he would be employed on contract with the Church.
+[6] When the Appellant filed his tax return for 2010, he reported that he had earned business income and he claimed a deduction for a clergy residence in the amount of $17,891 and business expenses of $10,972.16. The Appellant filed his notice of appeal with the Court claiming that whether he was employed by an “external employer or by self, the qualifying function remains unchanged”.
+[7] The appeal was set for hearing in March of 2013. At the hearing, the Appellant stated that he intended to file an amended 2010 income tax return in which he would report that the income he earned was employment income and not business income. It was suggested that he file an amended notice of appeal instead of amending his income tax return. The Appellant followed this suggestion and filed an amended notice of appeal.
+[8] In the amended notice of appeal, the Appellant stated:
+(a) His income in 2010 should have been reported as employment income;
+(b) There was a contract of employment between him and the Church in 2010 and he was employed to minister to the congregation of the Church;
+(c) He met both the function and status tests set out in paragraph 8(1)(c) of the Income Tax Act;
+(d) The Church had very little money in 2010 and his remuneration was paid without deductions. It was an error that his income was reported as having come from business rather than employment;
+(e) He asks that his income be treated as employment income;
+(f) He further asks that the Court allow the CPP deduction which he claimed at line 222 in the amount of $1,940.44;
+(g) He further asked that his expenses in the amount of $10,972.16 be reported as employment expenses rather than business expenses. He wrote that he enclosed a copy of form T2200 which was signed by the Director of the Church;
+(h) He requested that he be allowed his original claim for the clergy residence deduction in the amount of $17,891. He enclosed photocopies of cancelled cheques evidencing his income from the Church.
+The Appeal
+[9] Paragraph 8(1)(c) of the Income Tax Act (“ITA”) reads:
+(1) Deductions allowed -- In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+( c ) clergy residence -- where, in the year, the taxpayer
+(i) is a member of the clergy or of a religious order or a regular minister of a religious denomination, and
+(ii) is
+(A) in charge of a diocese, parish or congregation,
+(B) ministering to a diocese, parish or congregation, or
+(C) engaged exclusively in full-time administrative service by appointment of a religious order or religious denomination,
+the amount, not exceeding the taxpayer's remuneration for the year from the office or employment, equal to
+(iii) the total of all amounts including amounts in respect of utilities, included in computing the taxpayer's income for the year under section 6 in respect of the residence or other living accommodation occupied by the taxpayer in the course of, or because of, the taxpayer's office or employment as such a member or minister so in charge of or ministering to a diocese, parish or congregation, or so engaged in such administrative service, or
+(iv) rent and utilities paid by the taxpayer for the taxpayer's principal place of residence (or other principal living accommodation), ordinarily occupied during the year by the taxpayer, or the fair rental value of such a residence (or other living accommodation), including utilities, owned by the taxpayer or the taxpayer's spouse or common-law partner, not exceeding the lesser of
+(A) the greater of
+(I) $1,000 multiplied by the number of months (to a maximum of ten) in the year, during which the taxpayer is a person described in subparagraphs (i) and (ii), and
+(II) one-third of the taxpayer's remuneration for the year from the office or employment, and
+(B) the amount, if any, by which
+(I) the rent paid or the fair rental value of the residence or living accommodation, including utilities
+exceeds
+(II) the total of all amounts each of which is an amount deducted, in connection with the same accommodation or residence, in computing an individual's income for the year from an office or employment or from a business (other than an amount deducted under this paragraph by the taxpayer), to the extent that the amount can reasonably be considered to relate to the period, or a portion of the period, in respect of which an amount is claimed by the taxpayer under this paragraph;
+[10] At the hearing, the Appellant stated that he satisfied the conditions given in paragraph 8 (1)(c) of the ITA. He was ordained as a pastor; he ministered to a congregation and he occupied an office during 2010. Therefore he met all of the conditions in paragraph 8(1)(c).
+[11] It is not disputed that the Appellant met the status and function conditions of paragraph 8(1)(c). The only issue in this appeal is whether the Appellant was self-employed in 2010 or whether he earned his income from an “office or employment” in 2010. The Appellant is eligible to claim the deduction in paragraph 8(1)(c) only if he was an employee of the Church in 2010.
+[12] The Appellant has presented sufficient evidence to allow me to find that he met the conditions in paragraph 8(1)(c) and he is entitled to the deduction for a clergy residence in the amount of $17,891.
+[13] Although the Appellant stated that he was no longer claiming the amount of $10,972.16 as an employment expense, his witness, Gary Steeds, accountant, insisted that the Appellant was entitled to both the employment expense and the clergy residence deduction.
+[14] The Appellant has not submitted any documents to show that he incurred any employment expenses or that he was required by his employer to pay expenses related to his employment. I note that although he referred to a signed T2200 form in his amended notice of appeal, the form was neither attached to his amended notice of appeal nor was it submitted as an exhibit at the hearing. I find that the Appellant is not entitled to deduct any expenses related to his employment beyond those related to his residence.
+[15] In his amended notice of appeal, the Appellant asked that the Court allow the CPP deduction in the amount of $1,940.44. This matter was not raised at the hearing of the appeal.
+[16] The appeal is allowed and the Appellant is entitled to claim the amount of $17,891 as a deduction for a clergy residence.
+Signed at Ottawa, Canada, this 6th day of December 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCCX391
+COURT FILE NO.: 2012-3500(IT)I
+STYLE OF CAUSE: KEITH ABRAHAMS AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: November 13, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: December 6, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Holly Popenia
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

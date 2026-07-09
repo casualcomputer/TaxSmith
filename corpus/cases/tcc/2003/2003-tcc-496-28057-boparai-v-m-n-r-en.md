@@ -1,0 +1,144 @@
+---
+title: "Boparai v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28057/index.do"
+last_modified: "2003-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 496"
+citation2: ""
+neutral_citation: "2003 TCC 496"
+decision_date: "2003-07-22"
+language: "en"
+item_id: "28057"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1577
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:55:14.961000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "74816c494a90663e14c05e16c229e997d3187e2a4ef5bc9da6a90aa1e9ed6da1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boparai v. M.N.R.
+
+- Citation: 2003 TCC 496
+- Decision date: 2003-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1577, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boparai v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-22
+Neutral citation
+2003 TCC 496
+File numbers
+2002-4316(EI)
+Judges and Taxing Officers
+William E. MacLatchy
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4316(EI)
+BETWEEN:
+SWARN SINGH BOPARAI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 19, 2003 at Toronto, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Kuldip Singh
+Counsel for the Respondent:
+Andrea Jackett
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 22nd day of July 2003.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+Citation:2003TCC496
+Date: 20030722
+Docket: 2002-4316(EI)
+BETWEEN:
+SWARN SINGH BOPARAI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+MacLatchy, D.J.
+[1] This appeal was heard at Toronto, Ontario, on June 19, 2003.
+[2] The Appellant appealed a ruling to the Minister of National Revenue (the "Minister") for the determination of the question of whether or not he was employed in insurable employment while engaged by Navi Auto Services & Sales Ltd., the Payer, during the period in question, from July 28, 2001 to May 24, 2002, within the meaning of the Employment Insurance Act (the "EI Act").
+[3] By letter dated August 30, 2002, the Minister informed the Appellant and the Payer that it had been determined that the Appellant was not employed in insurable employment during the period in question for the reason that he and the Payer were not dealing with each other at arm's length pursuant to paragraph 5(2)(i) of the EI Act.
+[4] The Minister exercised his discretion under paragraph 5(2)(i) of the EI Act and decided that the contract of employment would not be deemed to be at arm's length.
+[5] Certain relevant facts were agreed to by the parties, as follows:
+(a) Sukhwinder Singh is the sole shareholder of the Payer that operates an auto repair and service;
+(b) the Appellant is the natural brother of the sole shareholder of the Payer;
+(c) the Appellant was hired as an auto mechanic helper as he was an unlicensed mechanic although he had some auto repair experience;
+(d) the Appellant worked with his brother, the same hours, at the Payer's place of business;
+(e) the Appellant worked at a rate of $600 per week for his first week of employment and thereafter at the rate of $450 per week for approximately 40 hours per week; all rates of pay having been set by the Payer;
+(f) the Appellant was paid in cash on most occasions except for 5 cheque payments;
+(g) there were no records of hours worked, receipts received for monies paid to the Appellant and none of the documentation submitted supported the evidence given.
+[6] It was accepted that as the sole owner of the Payer, Sukhwinder Singh and the Appellant are brothers and clearly related pursuant to the provisions of the Income Tax Act. The EI Act provides that if the parties are related, they are deemed to deal with each other at arm's length if the Minister is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[7] Evidence was presented on behalf of the Appellant through the examination of the sole shareholder of the Payer. His evidence was less than precise and in most instances during cross-examination the witness was unsure why his testimony often did not agree with filings made previously by him with various agencies. The record of employment indicating commencement date of employment differed from his evidence given in chief. The rate of pay of the Appellant for the period he was stated to have worked, did not agree with the record of employment. In all instances where his testimony differed from the record of employment or T4 slips, he blamed his accountant or his memory.
+[8] The Payer set the rate of pay that the Appellant was to receive with no consultation with the latter. The hours were set by the Payer but not recorded and loose evidence was given that if there were extra hours worked by the Appellant, then he was paid extra notwithstanding that there was no evidence presented to support any such payments.
+[9] The Appellant was apparently terminated for lack of work. The Appellant stated that he would not work part time for the Payer notwithstanding the fact that he could not get other employment and had no other source of income.
+[10] It is the Appellant's responsibility to present to this Court evidence to support his appeal in an effort to convince this Court that the decision made by the Minister was incorrect. No such evidence was forthcoming.
+[11] In an attempt to give the Appellant benefits under the EI Act, the Minister exercised his discretion as provided in said Act but was not satisfied that the conditions stipulated in subsection 5(3) had been met and that the Appellant and the Payer would not be deemed to be dealing at arm's length. The circumstances of the employment were vague at best. No records of hours of employment or records of payments of wages paid were available or in fact made. The method of payment in cash was most unusual and the rate of remuneration was set by the Payer as it saw fit. There were no terms and conditions of the employment presented to this Court. The employment lasted until the Payer felt he wanted to terminate the Appellant although there did not appear to be any significant reason why termination was warranted.
+[12] The Appellant indicated that after termination he looked for some employment but was more concerned with taking a course to become a truck driver and with constructing a basement apartment in his home as a further source of revenue. Part-time employment was apparently available with the Payer but the Appellant was not prepared to be paid less than he had received previously from the Payer even though he would have no income whatsoever.
+[13] It appeared clear to this Court that based on the evidence produced by the Appellant, the Minister could come to no other conclusion than that the parties were not dealing with each other at arm's length.
+[14] The appeal is dismissed and the decision of the Minister is hereby confirmed.
+Signed at Toronto, Ontario, this 22nd day of July 2003.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+CITATION:
+2003TCC496
+COURT FILE NO.:
+2002-4316(EI)
+STYLE OF CAUSE:
+Swarn Singh Boparai and M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 19, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable W.E. MacLatchy, Deputy Judge
+DATE OF JUDGMENT:
+July 22, 2003
+APPEARANCES:
+Agent for the Appellant:
+Kuldip Singh
+Counsel for the Respondent:
+Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

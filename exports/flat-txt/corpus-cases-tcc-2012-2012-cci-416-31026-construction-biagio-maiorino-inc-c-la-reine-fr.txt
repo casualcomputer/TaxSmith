@@ -1,0 +1,258 @@
+Title: Construction Biagio Maiorino inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31026/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-416-31026-construction-biagio-maiorino-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-11-28
+
+# Construction Biagio Maiorino inc. c. La Reine
+
+- Citation: 2012 CCI 416
+- Decision date: 2012-11-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4880, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Construction Biagio Maiorino inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-28
+Référence neutre
+2012 CCI 416
+Numéro de dossier
+2010-2002(GST)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-2002(GST)I
+ENTRE :
+CONSTRUCTION BIAGIO MAIORINO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 4 septembre 2012, à Montréal (Québec).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Avocate de l'appelante :
+Me Lise Massicotte
+Avocat de l'intimée :
+Me Khashayar Haghgouyan
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l’avis est daté du 9 août 2007 et concerne six périodes distinctes comprises entre le 1er juillet 2003 et le 31 décembre 2005, est accueilli en ce qui a trait aux frais de gestion.
+La cotisation est maintenue quant aux autres questions en litige.
+Le tout sans frais.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2012.
+« Johanne D’Auray »
+Juge D'Auray
+Référence : 2012 CCI 416
+Date : 20121128
+Dossier : 2010-2002(GST)I
+ENTRE :
+CONSTRUCTION BIAGIO MAIORINO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D'Auray
+[1] Le 9 août 2007, l’appelante a fait l’objet d’une cotisation en vertu de la partie IX de la Loi sur la taxe d'accise (LTA) pour six périodes couvrant les années 2003, 2004 et 2005.
+[2] Il y a trois questions points en litige :
+- Frais de gestion. Le ministre du Revenu du Québec ou l’Agence du Revenu du Québec pour le compte du ministre du Revenu national (ministre) a établi une cotisation d’un montant de 44 023 $ au titre de la taxe sur les produits et services (TPS) relativement à des frais de gestion non déclarés par l’appelante.
+- TPS perçue mais non déclarée. À la suite d’une conciliation des feuilles de travail de l’appelante et des déclarations de TPS produites par cette dernière, le ministre a établi une cotisation de 13 343,27 $ au titre de la TPS perçue sur des fournitures taxables mais non déclarée. Le ministre a, de plus, accordé un montant de 10 547,37 $ au titre de crédit de taxe sur les intrants. Ainsi, le montant net ajouté au titre de TPS est de 2 795,90 $. Une pénalité de 698,97 $ a été imposée en vertu de l’article 285 de la LTA.
+- TPS non perçue. Le ministre a établi une cotisation d’un montant de 10 874,85 $ au titre de TPS non perçue, donc non remise, à la suite d’une analyse des fournitures taxables déclarées aux états financiers.
+LES FRAIS DE GESTION
+[3] Le ministre a tenu pour acquis que l’appelante agissait à titre de gestionnaire pour les projets de construction et/ou exécutait des contrats de construction en ce qui a trait aux immeubles suivants :
+Date
+Projet
+Propriétaire
+Évaluation municipale
+2003-08-30
+2225 des Laurentides
+Laval, Qc
+Concetta Calderone
+806 600,00 $
+2004-05-30
+2227 des Laurentides
+Laval, Qc
+Concetta Calderone
+806 600,00 $
+2005-06-11
+8480 boul. Perras
+Montréal, Qc
+Elio Arcobelli
+349 300,00 $
+2005-06-11
+8490 boul. Perras
+Montréal, Qc
+Elio Arcobelli
+349 300,00 $
+2004-01-30
+9150 boul. Perras
+Montréal, Qc
+Elio Arcobelli
+492 700,00 $
+Date
+Projet
+Propriétaire
+Rénovation établie à
+2004-06-11
+190 de Pierre-Fontaine
+Concetta Calderone
+68 000,00$
+[4] À cet égard, le ministre a déterminé que l’appelante aurait dû recevoir des revenus de frais de gestion équivalant à 20 % de l’évaluation municipale des immeubles. Ainsi, le ministre a établi une cotisation au titre de la TPS sur les frais de gestion, soit la taxe non perçue et non déclarée.
+Projet
+Évaluation municipale
+Frais de gestion de 20 %
+TPS exigible
+2225 des Laurentides
+Laval, Qc
+806 600,00 $
+161 320,00 $
+11 292,40 $
+2227 des Laurentides
+Laval, Qc
+806 600,00 $
+161 320,00 $
+11 292,40 $
+8480 boul. Perras
+Montréal, Qc
+349 300,00 $
+69 860,00 $
+4 890,20 $
+8490 boul. Perras
+Montréal, Qc
+349 300,00 $
+69 860,00 $
+4 890,20 $
+9150 boul. Perras
+Montréal, Qc
+492 700,00 $
+98 540,00 $
+6 897,80 $
+Projet
+Rénovations établies à
+TPS exigible
+190 de Pierre-Fontaine
+68 000,00 $
+x 7% (TPS)
+4 760,00 $
+[5] Les personnes suivantes ont témoigné pour l’appelante :
+- M. Biagio Maiorino, qui est administrateur et seul actionnaire de l’appelante;
+- M. Giovanni Maiorino, qui est le frère de Biagio Maiorino;
+- Mme Concetta Calderone, qui est la conjointe de M. Giovanni Maiorino, par conséquent la belle-sœur de Biagio Maiorino;
+- Elio Arcobelli, qui est le beau-frère de Biagio Maiorino.
+[6] M. Charles-André Lussier, vérificateur à l’Agence du Revenu du Québec (ARQ) et M. Michel Pelletier, directeur du contrôle fiscal à l’ARQ, ont témoigné pour l’intimée.
+[7] M. Biagio Maiorino vit au 1700, son père au 1708, et son frère, Giovanni, au 1704 de la rue Paul-Broca à Laval. Selon la preuve lors de l’audience, la famille est très unie. Ils se fréquentent presque tous les jours et se rencontrent toutes les fins de semaine pour dîner ensemble. Lors de ces rencontres, ils discutent de leurs projets et se donnent entre eux des conseils.
+[8] Le père des frères Biagio et Giovanni exerçait des activités dans le domaine de la construction. Les deux frères ont appris le métier de leur père. À cet égard, Biagio détient une licence d’entrepreneur à titre personnel depuis 1977. Quant à Giovanni, lors de l’audience, il a indiqué qu’il était gestionnaire d’immeubles.
+[9] Les témoins pour l’appelante ont tous témoigné dans le même sens. Il n’y a eu aucune contradiction, bien que l’exclusion des témoins eût été ordonnée.
+[10] Durant les années 2003 et 2004, M. Biagio Maiorino était concierge de l’immeuble que détenait sa belle-sœur, Mme Concetta Calderone. L’immeuble était situé au 7950, boul. St-Michel à Montréal. L’immeuble était semi-commercial; au rez‑de-chaussée se retrouvaient un CLSC et une garderie, et aux autres étages, environ 14 appartements.
+[11] M. Biagio Maiorino a indiqué qu’à titre de concierge il s’occupait de la perception des loyers, de l’entretien de l’immeuble et de tous les autres problèmes qui pouvaient y survenir. Il travaillait 40 heures par semaine et était en disponibilité 24 heures sur 24, 7 jours par semaine.
+[12] Mme Concetta Calderone et son conjoint, M. Giovanni Maiorino, ont témoigné qu’en guise de rétribution ils payaient toutes les dépenses personnelles de M. Biagio Maiorino, notamment les paiements hypothécaires et les frais de téléphone cellulaire, de chauffage, d’électricité, de nourriture et d’auto.
+[13] M. Biagio Maiorino a constitué l’appelante en société le 2 avril 2002 (voir la pièce A‑1). C’est Mme Concetta Calderone qui a prêté à M. Biagio Maiorino les 20 000 $ dont l’appelante avait besoin à titre de caution en vertu des lois qu’applique la Régie du bâtiment du Québec.
+[14] M. Biagio Maiorino a aussi suivi, en 2003, des cours afin que l’appelante obtienne une licence d’entrepreneur de la Régie du bâtiment du Québec. L’appelante a donc obtenu en août 2003 sa licence d’entrepreneur.
+[15] La prétention de l’appelante est qu’elle n’avait reçu aucuns frais de gestion relativement aux immeubles en cause. Elle fait valoir qu’elle n’a pas agi à titre de gestionnaire de projets de construction et qu’elle n’a pas exécuté de contrats de construction à l’égard de ces immeubles. Les frais de gestion de 20% de l’évaluation municipale des immeubles fixés par le ministre sont fictifs selon l’appelante. Conséquemment, elle n’avait pas à percevoir et à remettre la TPS sur des montants qu’elle n’a jamais reçus.
+[16] M. Biagio Maiorino a témoigné que l’appelante avait prêté sa licence d’entrepreneur à son frère et à son beau-frère aux fins de la construction de leurs immeubles. M. Biagio Maiorino a témoigné qu’en tant que dirigeant de l’appelante, il n’aurait jamais demandé aux membres de sa famille de payer pour l’utilisation de la licence d’entrepreneur de l’appelante.
+[17] Quant à l’immeuble situé au 2225, boul. des Laurentides, Mme Concetta Calderone et son conjoint ont témoigné qu’au début de la construction de l’immeuble, comme l’appelante n’avait pas encore obtenu sa licence d’entrepreneur général, ils ont emprunté à M. Arthur Doucet sa licence d’entrepreneur pour construire l’immeuble. Ils auraient payé 2 000 $ par mois pour utiliser la licence de M. Doucet. Dès que l’appelante a obtenu sa licence, M. Biagio Maiorino a prêté la licence de l’appelante sans aucune contrepartie. Ils ont fait de même pour le 2227, boul. des Laurentides et pour le remplacement des fenêtres au 190, rue de Pierre-Fontaine.
+[18] De plus, M. Giovanni Maiorino a expliqué qu’il avait lui aussi de l’expérience dans le milieu de la construction, qu’il n’en était pas à son premier immeuble. Sans la licence d’entrepreneur, il n’aurait pas pu construire d’immeuble. Il a clairement indiqué que son frère, M. Biagio Maiorino et/ou l’appelante, n’étaient pas impliqués dans la construction ou la rénovation des immeubles en question.
+[19] Il a cependant indiqué que, durant les week-ends, lors des rencontres en famille, M. Biagio Maiorino lui avait donné des conseils et le nom de sous‑traitants à contacter. À ce sujet, il a aussi indiqué que son frère l’a remplacé sur le chantier de construction à quelques reprises, notamment quand il a été malade. Il a aussi dit qu’à l’occasion il utilisait le nom de l’appelante auprès des fournisseurs. Son frère étant connu dans le milieu de la construction, il était plus facile d’obtenir du crédit. Il a ajouté que sa conjointe, Concetta Calderone payait toutes les factures liées à la construction des immeubles.
+[20] M. Giovanni Maiorino a expliqué qu’il était normal que les constats d’infraction relatifs à certains des immeubles soient faits au nom de l’appelante, puisque l’appelante était l’entrepreneur général en titre (voir les pièces I-1 et I-2). Il a, de plus, indiqué que c’est Mme Concetta Calderone qui avait payé ces constats d’infractions dressés en vertu de la Loi sur la santé et la sécurité du travail et de la Loi sur les relations du travail, la formation professionnelle et la gestion de la main-d’œuvre dans l’industrie de la construction.
+[21] Quant aux immeubles situés sur le boul. Perras à Montréal, M. Elio Arcobelli a témoigné qu’il connaissait très bien, lui aussi, le domaine de la construction. Son père, Vincenzo Arcobelli, a travaillé pendant 25 ans comme cimentier. Il a indiqué qu’il construit des immeubles avec son père depuis 1986, bien avant de connaître M. Biagio Maiorino.
+[22] Il a confirmé le témoignage de M. Biagio Maiorino en relatant qu’il avait emprunté la licence d’entrepreneur de l’appelante, sans aucune contrepartie. Il a indiqué que M. Biagio Maiorino et/ou l’appelante n’avaient jamais supervisé les travaux ni commandé de matériel. Il a indiqué que l’implication de M. Biagio Maiorino s’était limitée à lui donner des conseils et des noms d’entrepreneurs à contacter.
+[23] L’intimée fait valoir que Mme Concetta Calderone avait payé les dépenses personnelles de M. Biagio Maiorino en échange de services que l’appelante aurait rendus en ce qui concerne la gestion de la construction des immeubles ou l’exécution de certains travaux de construction. Cependant, il a été admis par M. Lussier de l’ARQ qu’il n’était pas au courant du fait que M. Biagio Maiorino avait travaillé à titre de concierge en 2003 et en 2004 de l’immeuble situé au 7950, boul. St-Michel à Montréal.
+[24] À cet égard, l’intimée n’a pas contesté les témoignages de M. Biagio Maiorino, M. Giovanni Maiorino et Mme Concetta Calderone, que durant les années 2003 et 2004, M. Biagio Maiorino avait travaillé 40 heures par semaine comme concierge de l’immeuble situé sur le boulevard St‑Michel à Montréal et que ses dépenses personnelles étaient payées en guise de rétribution (voir paragraphes 11 et 12 de mes motifs).
+[25] L’intimée a aussi insisté sur le fait que l’appelante avait produit des déclarations de TPS indiquant 0 TPS pour les années se terminant le 31 mars 2003 et 2004. L’appelante a fait valoir qu’elle n’avait obtenu sa licence d’entrepreneur qu’en août 2003 et qu’elle devait donc se faire connaître. Quant à 2004, l’appelante a expliqué qu’elle avait l’impression qu’elle ne devait pas faire de déclaration de TPS, car ses revenus étaient inférieurs à 30 000 $. L’appelante a déclaré des revenus de 143 854 $ pour l’année se terminant le 31 mars 2005 et, selon l’intimée, ce serait la vérification par l’ARQ qui aurait incité l’appelante à produire une déclaration faisant état de tels revenus, ce que conteste l’appelante.
+[26] L’intimée a aussi fait valoir que les constats d’infraction désignaient l’appelante comme défendeur. Tel qu’il a été expliqué par les témoins, ils utilisaient la licence de l’appelante pour construire; les contraventions devaient donc être au nom de l’appelante.
+[27] L’intimée a aussi mis en preuve un contrat entre MM. Vincenzo et Elio Arcobelli à titre d’entrepreneurs et Les Constructions Depian Inc. à titre de sous‑entrepreneur relativement à l’immeuble situé au 9160, boul. Perras (voir la pièce I‑3). Selon la clause 7 de l’annexe B de ce contrat, M. Biagio Maiorino devait approuver les extras. La clause indique que « [n]o extra to contract shall be valid unless authorized by written change order signed by Mr. Biaggio [sic] Maiorino (paid hourly rate $50.00 per employee) ». Cependant, j’ai constaté que ce contrat est relatif à un immeuble qui ne fait pas partie de la cotisation quant aux frais de gestion. La cotisation est relative aux 8480, 8490 et 9150, et non pas au 9160, boul. Perras (voir la pièce I-6).
+[28] L’intimée a aussi déposé le rapport de vérification (voir la pièce I-7). Ce rapport a été signé par M. Romain. Ce dernier n’a pas assisté à l’audience pour des raisons personnelles que je ne mets pas en question et il n’a donc pas témoigné. M. Lussier, à titre de témoin pour l’ARQ, a expliqué qu’il avait collaboré à la vérification, mais n’est pas l’auteur du rapport de vérification. La majorité des faits énoncés dans le rapport de vérification n’ont pas été portés à mon attention lors des interrogatoires principaux ni lors des contre-interrogatoires des témoins. De plus, ces faits n’ont pas été soulevés lors des arguments. Je ne peux donc accorder de l’importance à ces faits. Je suis d’accord avec l’intimée que le prêt d’une licence d’entrepreneur peut avoir des conséquences pour l’appelante et M. Biagio Maiorino en ce sens que la licence d’entrepreneur pourrait être révoquée par la Régie du bâtiment. Cependant, ce n’est pas là la question qui doit être tranchée dans le présent litige.
+[29] Dans l’affaire Hickman Motors Ltd. c. Canada[1], la juge L’Heureux-Dubé de la Cour suprême du Canada a fait les commentaires suivants quant au fardeau de la preuve qui incombe au contribuable quant aux présomptions de fait avancées par le ministre au soutien de sa cotisation :
+92 Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités: Dobieco Ltd. c. Minister of National Revenue, [1966] R.C.S. 95, et que, à l'intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve: Continental Insurance Co. c. Dalton Cartage Co., [1982] 1 R.C.S. 164; Pallan c. M.R.N., 90 D.T.C. 1102 (C.C.I.), à la p. 1106. En établissant des cotisations, le ministre se fonde sur des présomptions: (Bayridge Estates Ltd. c. M.R.N., 59 D.T.C. 1098 (C. de l’É.), à la p. 1101), et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486; Kennedy c. M.R.N. 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu'a utilisées le ministre, mais rien de plus: First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+93 L'appelant s'acquitte de cette charge initiale de « démolir » l'exactitude des présomptions du ministre lorsqu'il présente au moins une preuve prima facie: Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.R.N., 82 D.T.C. 1679 (C.R.I.). En l'espèce, l'appelante a produit une preuve qui respecte non seulement la norme prima facie, mais, selon moi, une norme encore plus sévère. À mon avis, l'appelante a « démoli » les présomptions suivantes: a) la présomption de l'existence de « deux entreprises », en produisant une preuve claire de l'existence d'une seule entreprise; b) la présomption qu'il n'y a « aucun revenu », en produisant une preuve claire de l'existence d'un revenu. Il est établi en droit qu'une preuve non contestée ni contredite « démolit » les présomptions du ministre: voir par exemple MacIsaac c. M.R.N., 74 D.T.C. 6380 (C.A.F.), à la p. 6381; Zink c. M.R.N., 87 D.T.C. 652 (C.C.I.). Comme je l'ai déjà dit, aucune partie de la preuve produite par l'appelante en l'espèce n'a été contestée ni contredite. Par conséquent, à mon avis, l'appelante a « démoli » les présomptions sur l'existence de « deux entreprises » et sur le fait qu'il n'y a « aucun revenu ».
+94 Lorsque l'appelant a « démoli » les présomptions du ministre, le « fardeau de la preuve [...] passe [...] au ministre qui doit réfuter la preuve prima facie » faite par l'appelant et prouver les présomptions: Magilb Development Corp. c. La Reine, 87 D.T.C. 5012 (C.F. 1re inst.), à la p. 5018. Ainsi, dans la présente affaire, la charge est passée au ministre, qui doit prouver ses présomptions suivant lesquelles il existe « deux entreprises » et il n'y a « aucun revenu ».
+95 Lorsque le fardeau est passé au ministre et que celui-ci ne produit absolument aucune preuve, le contribuable est fondé à obtenir gain de cause: voir par exemple MacIsaac, précité, où la Cour d'appel fédérale a infirmé le jugement de la Division de première instance (à la p. 6381) pour le motif que le « témoignage n'a été ni contesté ni contredit, et aucune objection ne lui a été opposée ». Voir aussi Waxstein c. M.R.N., 80 D.T.C. 1348 (C.R.I.); Roselawn Investments Ltd. c. M.R.N., 80 D.T.C. 1271 (C.R.I.). Se reporter également à Zink, précité, à la p. 653, où, même si la preuve « échappait à la logique et présentait de graves lacunes de fond et de chronologie », l'appel du contribuable a été accueilli parce que le ministre n'a présenté aucune preuve quant à la source de revenu. Dans la présente affaire, je remarque que la preuve ne contient aucune « lacune » de ce genre. Par conséquent, puisque le ministre n'a produit absolument aucune preuve et que personne n’a soulevé le moindre doute quant à la crédibilité, l’appelante est fondée à obtenir gain de cause.
+[30] J’ai analysé le paragraphe 5 de la réponse à l’avis d’appel de l’intimée, qui y énonce les présomptions de fait sur lesquelles le ministre s’est appuyé pour établir sa cotisation quant aux frais de gestion. À la lumière de la preuve à l’audience, je suis d’avis qu’une preuve prima facie a été présentée par l’appelante. Ainsi, le fardeau de la preuve a été renversé. Tous les témoignages des personnes impliquées sont allés dans le même sens. Selon ces témoignages, l’appelante avait prêté sa licence d’entrepreneur et n’avait reçu aucune somme au titre de frais de gestion.
+[31] L’intimée n’a pas présenté de preuve me permettant de conclure que selon la prépondérance de la preuve, l’appelante avait reçu des montants d’argent pour avoir prêté sa licence d’entrepreneur. La crédibilité des témoignages en faveur de l’appelante n’ont pas été mis en doute par l’intimée.
+[32] Ainsi, à la lumière de la preuve présentée à l’audience, j’accueille l’appel relativement aux frais de gestion.
+Conciliation - TPS perçue et non déclarée
+[33] M. Lussier, vérificateur de l’ARQ, a indiqué lors de son témoignage qu’une conciliation en ce qui a trait à l’année 2005 a été faite entre les feuilles de travail de l’appelante et les déclarations de TPS produites par l’appelante.
+[34] M. Lussier a indiqué que l’appelante avait, dans ses déclarations de TPS, sous‑estimé la TPS à remettre. L’appelante avait, en effet, déclaré 5 925 $ de TPS, alors que, selon ses propres feuilles de travail, la TPS s’élevait à 19 268,27 $, soit un écart de 13 343,27 $. Quant aux crédits de taxe sur les intrants, l’appelante a indiqué des crédits de taxe sur les intrants de 4 821 $ alors que selon ses feuilles de travail, les crédits de taxe sur les intrants s’élevaient à 15 368,37 $. Le ministre a accordé un montant de 10 547,37 $ au titre de crédit de taxe sur les intrants. L’appelante a donc fait l’objet d’une cotisation d’un montant de 2 795,90$ :
+13 343,27 $ au titre de TPS à payer
+-10 547,37 $ au titre de crédit de taxe sur les intrants
+2 795,90 $
+[35] Le ministre a aussi ajouté une somme de 698,97 $ au titre de pénalité en vertu de l’article 285 de la LTA.
+[36] Je suis d’avis que l’appelante n’a pas réussi à démontrer que le ministre n’avait pas établi correctement la cotisation à son égard.
+[37] Aucune preuve, testimoniale ou documentaire, n’a été présentée par l’appelante à cet égard. Aux fins de la conciliation, l’ARQ s’est appuyée sur les feuilles de travail préparées par M. Biagio Maiorino au nom de l’appelante et remises à son comptable, M. Bastone, C.A., pour la préparation des états financiers. À cet effet, M. Lussier de l’ARQ a indiqué que les chiffres émanant des feuilles de travail ont été confirmés par M. Bastone.
+[38] Par conséquent, je rejette l’appel sur cette question. J’analyserai la pénalité sous une rubrique séparée dans ces motifs.
+ANALYSE DE RISQUE - TPS non perçue sur les fournitures déclarées aux états financiers
+[39] Le ministre a aussi établi une cotisation d’un montant de 10 874,85 $ au titre de la TPS non perçue sur les fournitures déclarées aux états financiers. Durant l’année 2005, l’appelante a fait du travail pour la société CRC 2000 Industrielle Inc. (CRC 2000). M. Biagio Maiorino est président de la société CRC 2000. M. Biagio Maiorino a admis que l’appelante n’avait pas perçu la TPS car, selon lui, comme la société CRC 2000 percevait la TPS, l’appelante n’avait pas à la percevoir. Selon l’appelante, il s’agirait d’une opération sans effet fiscal.
+[40] Je ne suis pas d’accord qu’il s’agisse ici d’une opération sans effet fiscal. Le paragraphe 156(2) de la LTA est clair à cet égard. Pour qu’il s’agisse d’une transaction sans effet fiscal, les membres déterminés doivent faire un choix conjoint afin que chaque fourniture taxable effectuée entre eux soit réputée effectuée sans contrepartie. Le paragraphe 156(2) est ainsi rédigé :
+(2) Choix visant les fournitures sans contrepartie -- Pour l'application de la présente partie, deux membres déterminés d'un groupe admissible peuvent faire un choix conjoint pour que chaque fourniture taxable effectuée entre eux, pendant que le choix est en vigueur, soit réputée être effectuée sans contrepartie.
+[41] Aucun choix conjoint n’a été fait par l’appelante et CRC 2000. L’appelante n’a même pas mis en preuve qu’elle faisait partie d’un groupe admissible au sens de l’article 156 de la LTA.
+[42] Par conséquent, en vertu du paragraphe 221(1) de la LTA, l’appelante devait percevoir la taxe sur les fournitures taxables facturées à CRC 2000, soit un montant de 10 874,85 $ (voir la pièce I-6).
+[43] L’appel est donc rejeté sur cette question.
+PÉNALITÉS
+[44] Des pénalités ont été imposées en vertu de l’article 280 de la LTA. Durant les années en litige, l’article 280 se lisait de la façon suivante :
+280. (1) Sous réserve du présent article et de l’article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l’expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6 % par année;
+b) des intérêts au taux réglementaire.
+[45] L’appelante a présenté lors de l’audience un mémorandum, publié par l’Agence du revenu du Canada, sur la réduction des pénalités et des intérêts dans les cas d’opérations sans effet fiscal. Elle m’a demandé de réduire les intérêts et pénalités imposés sous l’article 280 de la LTA en vertu de ce mémorandum. Je ne peux pas appliquer une politique administrative.
+[46] En vertu du texte de Loi et de l’interprétation jurisprudentielle de l’article 280 de la LTA, je n’ai pas la compétence pour annuler les intérêts qui sont dus sous cet article. Cependant, dans la décision Canada (Procureur général) c. Consolidated Canadian Contractors Inc.[2], le juge Robertson, dans un jugement unanime de la Cour d’appel fédérale, énonce qu’un contribuable peut présenter une défense de diligence raisonnable pour faire échec à la pénalité imposée en vertu de l’article 280 de la LTA. Voir aussi la décision Pillar Oilfield Projects Ltd. c. Canada[3].
+[47] Dans la présente affaire, M. Biagio Maiorino a indiqué qu’il préparait avec sa conjointe les déclarations de TPS de l’appelante. M. Biagio Maiorino n’a présenté aucun élément tendant à établir qu’il avait fait preuve de diligence raisonnable en agissant au nom de l’appelante, sauf pour dire qu’il faisait de son mieux, qu’il n’était pas un professionnel ni un gestionnaire. La preuve a démontré que la tenue des livres de l’appelante était en piètre état. M. Biagio Maiorino exerce des activités dans le domaine de la construction depuis plusieurs années, ayant commencé bien avant la constitution de l’appelante en société. Il connaissait les obligations de l’appelante en ce qui concerne la TPS. Le fait qu’il fasse de son mieux et qu’il ne soit pas un gestionnaire ni un professionnel de la tenue des livres dans le domaine de la TPS n’est pas une défense de diligence raisonnable. M. Biagio Maiorino, pour l’appelante, n’a posé aucun geste positif pour prévenir les manquements.
+[48] Le juge Bowman alors qu’il était juge en Chef de cette Cour, a énoncé dans Pillar Oilfield Projects Ltd. « que la bonne foi dans le contexte d’erreurs commises involontairement n’équivaut pas à diligence raisonnable. Cette défense exige la preuve positive que toutes les précautions raisonnables ont été prises pour qu’aucune erreur ne soit commise ».
+[49] Par conséquent, je suis d’avis que les pénalités imposées en vertu de l’article 280 de la LTA doivent être maintenues.
+[50] Une pénalité de 698,97 $ a été imposée en vertu de l’article 285 de la LTA. Tel qu’il a déjà été indiqué, l’appelante avait déclaré 5 925 $ de TPS, alors que, selon ses propres feuilles de travail, la TPS s’élevait à 19 268,27 $, soit un écart de 13 343,27 $. Quant aux crédits de taxe sur les intrants, l’appelante avait déclaré des crédits de taxe sur les intrants de 4 821 $ alors que, selon ses propres feuilles de travail, les crédits de taxe sur les intrants s’élevaient à 15 368,37 $. Le ministre a accordé un montant de 10 547,37 $ au titre de crédit de taxe sur les intrants. La pénalité de 25% a été imposée sur la différence :
+25% x (13 343,27 $ - 10 547,37 $) = 698,97 $
+[51] L’article 285 de la LTA dispose comme suit :
+285. Faux énoncés ou omissions -- Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse — appelés « déclaration » au présent article — établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d'une pénalité de 250 $ ou, s'il est plus élevé, d'un montant égal à 25 % de la somme des montants suivants :
+a) si le faux énoncé ou l'omission a trait au calcul de la taxe nette de la personne pour une période de déclaration, le montant obtenu par la formule suivante :
+A – B
+où :
+A représente la taxe nette de la personne pour la période,
+B le montant qui correspondrait à la taxe nette de la personne pour la période si elle était déterminée d'après les renseignements indiqués dans la déclaration;
+b) si le faux énoncé ou l'omission a trait au calcul de la taxe payable par la personne, l'excédent éventuel de cette taxe sur le montant qui correspondrait à cette taxe si elle était déterminée d'après les renseignements indiqués dans la déclaration;
+c) si le faux énoncé ou l'omission a trait au calcul d'un remboursement prévu par la présente partie, l'excédent éventuel du remboursement qui serait payable à la personne s'il était déterminé d'après les renseignements indiqués dans la déclaration sur le remboursement payable à la personne.
+[52] Dans la décision Haniff c. La Reine, 2011 CCI 112, le juge Boyle de cette Cour explique, aux paragraphes 24 et 25 de ses motifs, le concept de la faute lourde en se référant à la décision de la Cour fédérale dans Venne, [1984] A.C.F. no 314 (QL) :
+24 La question qui demeure en litige est de déterminer si les pénalités imposées aux fins de l'impôt sur le revenu et de la TPS étaient justifiées.
+25 La description classique des circonstances dans lesquelles ce qu'on appelle des pénalités pour faute lourde sont justifiées est établie dans l'arrêt Venne v. The Queen, 84 DTC 6247, de la Cour d'appel [sic] fédérale:
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [...]
+[53] L’appelante a démontré une indifférence quant au respect de ses obligations fiscales. Elle a déclaré des montants de TPS d’une façon arbitraire; elle ne s’est même pas préoccupée de faire une conciliation entre ses propres feuilles de travail et ses déclarations de TPS. L’écart entre les chiffres est important. Je suis d’avis que ce comportement n’est pas un cas de simple négligence, mais bien un comportement qui équivaut à une faute lourde. La pénalité de 698,97 $ est maintenue.
+[54] Par conséquent, l’appel en ce qui a trait aux frais de gestion est accueilli; quant aux autres questions en litige, les cotisations établies sont maintenues, soit :
+- quant au montant de 2 795,50 $ au titre de la TPS perçue et non déclarée;
+- quant au montant de 10 874,85 $ au titre de la TPS non perçue sur les fournitures déclarées aux états financiers;
+- quant aux intérêts et pénalités imposés en vertu de l’article 280 de la LTA, sauf en ce qui a trait aux frais de gestion;
+- quant à la pénalité imposée en vertu de l’article 285 de la LTA de 698,97 $.
+Le tout sans frais.
+Signé à Ottawa, Canada, ce 28e jour de novembre 2012.
+« Johanne D’Auray »
+Juge D'Auray
+RÉFÉRENCE : 2012 CCI 416
+Nº DU DOSSIER DE LA COUR : 2010-2002(GST)I
+INTITULÉ DE LA CAUSE : CONSTRUCTION BIAGIO MAIORINO INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 4 septembre 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Johanne D'Auray
+DATE DU JUGEMENT : Le 28 novembre 2012
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Lise Massicotte
+Avocat de l'intimée :
+Me Khashayar Haghgouyan
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante:
+Nom : Me Lise Massicotte
+Cabinet : Me Lise Massicotte
+Laval (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1997] 2 R.C.S. 336.
+[2] [1999] 1 C.F. 209.
+[3] [1993] G.S.T.C. 49.

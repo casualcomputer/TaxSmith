@@ -1,0 +1,215 @@
+Title: Sokil c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29562/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-601-29562-sokil-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-12-07
+
+# Sokil c. La Reine
+
+- Citation: 2009 CCI 601
+- Decision date: 2009-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6319, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sokil c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-12-07
+Référence neutre
+2009 CCI 601
+Numéro de dossier
+2008-1351(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008­1351(IT)I
+ENTRE :
+CAROLYNN SOKIL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 septembre 2009, à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Shawn M. Philbert
+Avocat de l’intimée :
+Me Amit Ummat
+____________________________________________________________________
+JUGEMENT
+Les appels visant les nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont rejetés, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2009.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 29e jour de janvier 2010.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 601
+Date : 20091207
+Dossier : 2008­1351(IT)I
+ENTRE :
+CAROLYNN SOKIL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelante, maintenant vice‑présidente, service à la clientèle nationale et administration, chez MI Group, a interjeté appel de la nouvelle cotisation établie à son égard, relativement à ses années d’imposition 2003 et 2004, sur le fondement qu’elle peut déduire les dépenses non admises suivantes :
+2003
+2004
+Revenu brut déclaré
+0
+0
+Dépenses
+- Taxes, frais et permis professionnels
+5 414 $
+2 348 $
+- Assurance
+‑
+2 102 $
+- Repas et divertissement
+187 $
+633 $
+- Véhicule à moteur
+(sans la DPA)
+1 637 $
+2 009 $
+- Locaux
+5 605 $
+4 526 $
+- Fournitures
+398 $
+3 662 $
+- Déplacement
+‑
+2 194 $
+- Divers (route express 407)
+‑
+820 $
+Dépenses totales
+13 290 $
+18 294 $
+Revenu d’entreprise net (perte)
+(13 290 $)
+(18 294 $)
+[2] Lorsqu’il a établi la cotisation relative à Mme Sokil, le ministre du Revenu national (le « ministre ») s’est appuyé sur l’hypothèse voulant que l’appelante n’ait pas exploité une entreprise, mais qu’elle ait plutôt participé à une entente visant à l’aider à couvrir ses frais personnels ou de subsistance. Selon le ministre, l’entreprise alléguée de l’appelante n’était pas exploitée d’une manière suffisamment commerciale pour permettre d’en tirer un revenu et elle ne peut donc être assimilée à une source de revenus pour l’application de l’article 3 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. C‑1 (5e suppl.), et ses modifications (la « Loi »).
+[3] À l’automne 2003, Mme Sokil et son époux, M. Walter Sokil (M. et Mme Sokil »), ont été mis en rapport avec une société de commercialisation à paliers multiples sur le Web connue sous le nom de FFL Vacations Ltd. (« FFL ») et faisant affaire sous la dénomination Fun For Life Club International (« Fun For Life »). Dans l’une de ses brochures, Fun For Life formulait ainsi la mission qu’elle poursuivait :
+[TRADUCTION]
+Redonner du piment à votre existence!
+Fun For Life Club International vous offre une occasion des plus excitantes et novatrices de conjuguer le plaisir des vacances et la possibilité de gagner un revenu supplémentaire.
+Jouissez pleinement de votre vie – profitez de vacances abordables à des centres de villégiature quatre ou cinq étoiles partout dans le monde et enrichissez votre vie et celle de vos proches grâce à des occasions de gagner un revenu plus élevé.
+[4] Dans le témoignage qu’elle a rendu à l’audience, Mme Sokil a expliqué qu’elle et son époux avaient acheté deux forfaits vacances de trois semaines chacun qui leur donnaient droit à deux centres d’affaires. Le premier centre a été acheté en septembre 2003. Leur entreprise avait pour nom « Here’s The Deal » et leur site Web se trouvait à l’adresse Internet www.funforlifeclub.net/htd. L’entreprise consistait à recruter des membres et à vendre des forfaits vacances par l’entremise de leur site Web. Au début, Mme Sokil et son époux détenaient respectivement une participation de 65 pour 100 et de 35 pour 100 dans l’entreprise. À la fin de 2004, Mme Sokil est tombée enceinte et elle a cessé de participer à l’entreprise; son époux a poursuivi seul l’exploitation de celle‑ci pendant toute l’année 2005.
+[5] Dans une lettre qu’elle a adressée à l’Agence du revenu du Canada (l’« ARC ») le 30 novembre 2006, l’appelante a fourni les renseignements suivants sur la façon dont le système fonctionnait et dont l’entreprise était exploitée :
+[TRADUCTION]
+[...] Si vous choisissez d’acheter un centre d’affaires chez Fun For Life Club International, on vous offre un site Web personnel réservé, des séminaires d’élaboration de produits et des outils de prospection, des conférences de formation et sur les possibilités d’affaires, une fonction de suivi permettant d’identifier chaque client qui achète un produit sur votre site Web de même qu’un certain nombre de « certificats » pouvant être échangés contre des voyages au sein du club. Ces certificats peuvent être vendus, donnés ou utilisés par le détenteur commercial.
+Initialement, un revenu était généré lorsque 14 personnes joignaient le club au moyen de notre site Web réservé. Comme nous n’avons réalisé 14 ventes qu’en 2004, nous avons subi des pertes en 2003.
+[...]
+Afin d’exploiter notre entreprise, nous avons acheté des brochures, des cartes professionnelles et des CD de la société à remettre aux clients potentiels.
+Nous dirigeons cette entreprise à partir de notre domicile, à temps partiel, puisque nous travaillons tous deux le jour pour d’autres sociétés. Nous avons aménagé l’une des chambres à coucher de notre maison en bureau. Nous avons notamment acheté un ordinateur portatif, un bureau et d’autres matériels de bureau afin de gérer l’entreprise à partir de la maison. Cette chambre à coucher est uniquement utilisée comme bureau et elle ne sert à aucune autre fin.
+Comme il s’agit d’une entreprise sur le Web, nous avons dû obtenir et maintenir des services Internet et nous utilisions à la fois le téléphone et l’ordinateur pour communiquer avec des clients potentiels. En outre, nous avons participé à intervalles réguliers à des réunions sur le lancement d’entreprises devant nous aider à faire croître notre centre d’affaires. Mon véhicule a servi pour se rendre aux réunions et pour rencontrer des clients potentiels. Selon l’endroit où se tenait la réunion et où se trouvait le client, la route express 407 était utilisée.
+[6] Au chapitre de la preuve documentaire, aucune convention d’achat signée ni aucune preuve de paiement relatif aux forfaits vacances n’ont été produites par l’appelante, mais les documents suivants ont été soumis à l’examen de la Cour :
+- une carte professionnelle montrant que Carolynn et Walter Sokil étaient des membres indépendants de Fun For Life;
+- une brochure de Fun For Life offrant des renseignements généraux au sujet du système de primes, lequel fonctionne habituellement de la façon suivante : pour chaque forfait vacances de trois semaines vendu, le centre d’affaires est inscrit dans le système de primes et de récompenses. Une fois inscrit, le centre d’affaires est intégré dans un régime de primes 2 x 2, lequel comporte six places vacantes. Lorsque les six places du cycle de primes sont remplies, le centre est automatiquement intégré à un nouveau cycle de primes et il a droit à une prime de 1 600,00 $US à titre de membre affilié de Fun [FunAffiliate];
+- les conditions jointes à l’annexe A de la [TRADUCTION] « Formule d’inscription de l’acheteur Fun » [FunPurchaser Subscription Form] (ce document ne porte aucune date, n’est pas adressé à l’appelante et n’est pas signé);
+- une brochure donnant des renseignements sur le profil d’entreprise de Fun For Life;
+- un document d’une seule page intitulé [TRADUCTION] « Bienvenue à bord! » [Welcome Aboard!], qui précise que la trousse de bienvenue renferme les certificats de vacances ainsi que des brochures, un CD de présentation, une formule de commande et d’autre matériel publicitaire (ce document ne porte aucune date, n’est pas adressé à l’appelante et n’est pas signé);
+- un document intitulé [TRADUCTION] « Politiques et formalités relatives à la semaine Fun » [FunWeek Policies and Procedures], qui semble être joint à l’annexe A de la convention d’adhésion (ce document, qui consiste en la version (1) datée du 17 avril 2006, n’est pas adressé à l’appelante et n’est pas signé);
+- un document relatif au soutien des ventes de Fun For Life intitulé [TRADUCTION] « Lancer une entreprise en six étapes » [6 Step Business Building Process] (ce document n’est pas adressé à l’appelante et n’est pas signé);
+- un [TRADUCTION] « Certificat d’admissibilité d’acheteur Fun » [FunPurchaser Entitlement Certificate] montrant que Here’s The Deal (le nom de l’entreprise utilisé par M. et Mme Sokil) est la propriétaire et la personne admissible à bénéficier d’une semaine Fun;
+- un courriel que Fun For Life a envoyé à W. Sokil le 20 janvier 2004 et qui présente le nouveau régime de rémunération entré en vigueur le 1er février 2004;
+- une [TRADUCTION] « Formule de commande de documents imprimés » [Printed Materials Order Form] laissée en blanc;
+- trois formules d’inscription de l’acheteur Fun faisant état de ventes de [TRADUCTION] « forfaits Fun » [FunPacks], respectivement signés par les acheteurs le 25 octobre, le 29 octobre et le 26 novembre 2003, ainsi que des chèques établis à l’ordre de Fun For Life Club International;
+- un chèque de commission daté du 28 avril 2004 s’élevant à 1 600,00 $US établi à l’ordre de Walter et de Carolynn Sokil et tiré sur un compte bancaire de Fun For Life Club (l’appelante a omis de déclarer ce revenu dans sa déclaration de revenus relative à 2004);
+- une brochure de l’Oakville Arts Council offrant des renseignements aux commanditaires du Mayor’s Awards for Business and the Arts de 2004 ainsi qu’une [TRADUCTION] « Formule de don en nature » [In Kind Donation Form] selon laquelle Here’s The Deal, membre affilié du Fun For Life Club, a commandité un prix consistant en un séjour d’une semaine pour deux personnes dans un centre de villégiature de luxe d’une valeur d’environ 1 600,00 $.
+[7] L’ARC a refusé l’ensemble des dépenses déduites par l’appelante au motif qu’il s’agissait de frais personnels et elle a décidé que ces dépenses n’avaient pas été engagées en vue de tirer un revenu d’une entreprise. Elle a signalé l’existence de nombreuses contradictions liées à ces déductions :
+a) l’appelante n’a déclaré aucun revenu brut tiré de l’entreprise dans ses déclarations de revenus relatives aux années d’imposition 2003 et 2004, bien que des commissions de 1 600,00 $US aient été reçues en 2004;
+b) en 2003, on a déduit des dépenses pour l’ensemble de l’année, alors que le forfait vacances initial a été acheté en septembre de cette année‑là;
+c) en 2003 et en 2004, l’appelante a déduit 100 pour 100 des dépenses, malgré le fait que son époux détenait une participation de 35 pour 100 dans l’entreprise (aucune répartition des dépenses n’a été faite);
+d) dans la déclaration de revenus relative à 2003, une somme de 4 171,93 $ a été déduite au titre du coût d’un forfait vacances, tandis qu’une somme de 2 348,00 $ a été déduite pour un forfait analogue en 2004 (la différence dans le coût de ces forfaits vacances n’a pas été justifiée);
+e) des frais d’assurance s’élevant à 2 102,00 $ ont été déduits pour 2004, bien que ces frais ait été attribuables à l’assurance visant deux automobiles pour l’année entière; aucune déduction au titre de frais d’assurance n’a été demandée pour 2003;
+f) des frais de repas et de divertissement ont été déduits en 2003 (187,00 $) et en 2004 (633,00 $), mais le nom des personnes diverties n’a pas été fourni par l’appelante;
+g) des frais de véhicule à moteur ont été déduits pour 2003 (1 637,00 $) et 2004 (2 009,00 $), mais aucun registre des déplacements d’affaires et aucun nom de client n’ont été fournis, et seuls des reçus s’élevant à 8,50 $ pour 2003 et à 60,00 $ pour 2004 ont été présentés;
+h) des frais de bureau de 5 605,00 $ ont été déduits pour 2003 et de 4 526,00 $ pour 2004, alors que l’appelante a fourni des reçus de 5 641,92 $ pour 2003 et de 1 102,01 $ pour 2004. De plus, les frais liés à l’ordinateur portatif, à l’imprimante couleur, au bureau et au projecteur auraient dû être immobilisés puisqu’il s’agissait de biens amortissables;
+i) des fournitures d’une somme de 398,00 $ pour 2003 et de 3 662,00 $ pour 2004 ont été déduites, mais l’appelante a présenté des reçus ne s’élevant qu’à 227,44 $ pour 2003 et aucun reçu du tout pour les fournitures de 2004;
+j) des frais de déplacement de 2 194,00 $ ont été déduits pour 2004 relativement à un voyage en République dominicaine organisé pour les membres fondateurs de Fun For Life; l’époux de l’appelante a également profité de ce voyage;
+k) quant à la somme de 820,00 $ déduite au titre de la route express 407 pour 2004, l’appelante a présenté un relevé de 30,76 $ qui lui était adressé ainsi qu’un autre relevé, visant une somme de 573,35 $, adressé à Wolodymyr Sokil.
+[8] En résumé, l’appelante a déduit, à titre de travailleuse indépendante, des pertes d’entreprise totalisant 31 584 $ pour 2003 et 2004, mais elle n’a fait état d’aucun revenu brut dans ses déclarations de revenus.
+[9] L’avocat de l’appelante a reconnu qu’il manquait des reçus et que ceux produits ne correspondaient pas aux déductions demandées dans les déclarations de revenus, que certaines dépenses auraient dû être immobilisées parce qu’elles avaient été engagées au titre de biens amortissables et que les livres comptables étaient mal tenus. Malgré tout cela, il a soutenu que l’appelante avait tenté sa chance sur le plan commercial avec Fun For Life, qu’elle avait acheté le matériel nécessaire pour exploiter une entreprise, qu’elle avait fait la promotion de son entreprise et qu’elle avait fait de la publicité en vue de recruter des membres. Selon lui, l’appelante s’est lancée dans une entreprise vraisemblable avec une attente raisonnable d’en tirer un profit.
+Analyse
+[10] Il s’agit de savoir si l’appelante pouvait déduire des pertes d’entreprise pour les années d’imposition 2003 et 2004.
+[11] Le paragraphe 248(1) de la Loi définit ainsi le terme « entreprise » :
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l’application de l’alinéa 18(2)c), de l’article 54.2, du paragraphe 95(1) et de l’alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l’exclusion toutefois d’une charge ou d’un emploi.
+[12] Les règles de base du calcul du revenu pour l’application de la Loi se trouvent aux articles 3 et 4 de la section B de la partie I. L’alinéa 3a) fait état des différentes sources de revenus d’un contribuable :
+Article 3 : Revenu pour l’année d’imposition
+Pour déterminer le revenu d’un contribuable pour une année d’imposition, pour l’application de la présente partie, les calculs suivants sont à effectuer :
+a) Le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l’année (autre qu’un gain en capital imposable résultant de la disposition d’un bien) dont la source se situe au Canada ou à l’étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien.
+[13] Les règles de base du calcul du revenu ou de la perte provenant d’une entreprise sont énoncées à l’article 9 de la Loi :
+Article 9
+(1) Revenu. Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+(2) Perte. Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+[14] Les alinéas 18(1)a) et 18(1)h) ainsi que l’article 67 de la Loi prévoient certaines restrictions concernant la déduction des dépenses :
+Article 18
+(1) Exceptions d’ordre général. Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[…]
+h) le montant des frais personnels ou de subsistance du contribuable – à l’exception des frais de déplacement engagés par celui‑ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+Article 67 : Restriction générale relative aux dépenses
+Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l’égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+[15] Dans l’arrêt Stewart v. Canada (2002), 56 D.T.C. 6969, 2002 DTC 6969, la Cour suprême du Canada a élaboré une méthode à deux volets pour déterminer si les activités d’un contribuable sont une source de revenus constituée d’une entreprise faisant en sorte que l’article 9 de la Loi s’applique. Au paragraphe 50, cette méthode à deux volets est présentée de la façon suivante :
+[…]
+(i) L’activité du contribuable est‑elle exercée en vue de réaliser un profit, ou s’agit‑il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est‑elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s’il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d’entreprise ou de bien.
+[16] La Cour suprême du Canada a donné des précisions sur le premier volet du critère aux paragraphes 52, 54 et 55 de cet arrêt :
+[52] Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles […] Ainsi, lorsque la nature de l’entreprise du contribuable comporte des aspects indiquant qu’elle pourrait être considérée comme un passe‑temps ou une autre activité personnelle, mais que l’entreprise est exploitée d’une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenu aux fins d’application de la Loi.
+[…]
+[54] […] Ainsi, sous une forme plus élaborée, le premier volet du critère susmentionné peut être reformulé ainsi : « Le contribuable a‑t‑il l’intention d’exercer une activité en vue de réaliser un profit et existe‑t‑il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+[55] Les facteurs objectifs énumérés par le juge Dickson dans Moldowan, précité, p. 486, étaient (1) l’état des profits et pertes pour les années antérieures, (2) la formation du contribuable, (3) la voie sur laquelle il entend s’engager, et (4) la capacité de l’entreprise de réaliser un profit. […]
+[17] Dans la présente affaire, il y a manifestement eu acquisition d’un bien personnel ou récréatif, à savoir les forfaits vacances, et l’appelante a bénéficié de ce bien lorsqu’elle s’est rendue en République dominicaine dans le cadre d’un voyage organisé pour les membres fondateurs de Fun For Life.
+[18] À la lumière de tous les faits en l’espèce, j’arrive à la conclusion que l’appelante avait principalement l’intention d’obtenir un avantage personnel et que la possibilité de gagner un revenu était accessoire à cette intention.
+[19] La preuve présentée par l’appelante n’a pas permis d’établir qu’une entreprise était exploitée en vue d’en tirer un profit. Les activités de l’appelante n’étaient pas exercées d’une manière commerciale. Ses activités commerciales exercées à domicile constituaient un passe‑temps ou un emploi secondaire à temps partiel visant à augmenter son revenu d’emploi.
+[20] Je ne pense pas que l’appelante s’est lancée dans cette entreprise avec une attente raisonnable d’en tirer un profit. Au cours des 19 mois d’exploitation, l’entreprise a généré des revenus de seulement 1 600,00 $US, lesquels devaient être partagés entre l’appelante et son époux, ainsi qu’une perte de 32 000,00 $. Les modifications apportées au régime de commission en 2004 ont fait en sorte qu’il était pratiquement impossible pour l’appelante de réaliser un profit, et c’est une des raisons pour laquelle, comme il est mentionné au paragraphe 19 de l’avis d’appel modifié, l’appelante a intenté contre FFL une action pour assertions inexactes quant à sa participation à une entreprise. Pour atteindre le seuil de rentabilité, il aurait fallu que l’appelante vende 24 forfaits vacances tandis qu’elle n’en a vendu que six. La possibilité de tirer un revenu de l’entreprise n’était qu’accessoire et aucun profit ne pouvait être réalisé.
+[21] L’appelante ne possédait aucune expérience en matière de commerce sur Internet et elle n’a pas exercé ses activités conformément à des normes objectives de comportement d’homme d’affaires sérieux. Aucun compte bancaire distinct n’a été ouvert pour les besoins de l’entreprise et aucun livre ni document comptable n’était tenu à jour. Les activités de l’appelante, tant en ce qui touche le temps consacré à la croissance de l’entreprise que les efforts déployés à cet égard, n’avaient pas un caractère suffisamment commercial pour constituer une source de revenu, même si une certaine publicité a été faite.
+[22] Les dépenses déduites comme dépenses d’entreprise n’ont pas été payées ou engagées par l’appelante en vue de gagner un revenu, mais bien à titre de frais personnels ou de subsistance au sens du paragraphe 248(1) de la Loi. L’alinéa 18(1)h) de la Loi empêche donc l’appelante de déduire ces dépenses dans le calcul de sa perte d’entreprise nette.
+[23] Enfin, le montant des dépenses réclamé à titre de dépenses d’entreprise est manifestement déraisonnable dans les circonstances et ne peut être déduit selon l’article 67 de la Loi.
+[24] Pour ces raisons, les appels visant les nouvelles cotisations établies relativement aux années d’imposition 2003 et 2004 sont rejetés.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2009.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 29e jour de janvier 2010.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 601
+NO DU DOSSIER DE LA COUR : 2008­1351(IT)I
+INTITULÉ : Carolynn Sokil et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 18 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 7 décembre 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Shawn M. Philbert
+Avocat de l’intimée :
+Me Amit Ummat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Shawn M. Philbert
+Cabinet : Avocat et notaire public Mississauga (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

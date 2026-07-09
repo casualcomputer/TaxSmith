@@ -1,0 +1,179 @@
+---
+title: "Tomlinson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181783/index.do"
+last_modified: "2016-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 246"
+citation2: ""
+neutral_citation: "2016 TCC 246"
+decision_date: "2016-11-01"
+language: "en"
+item_id: "181783"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2991
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:37:55.300000+00:00"
+cases_cited_count: 5
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2cbee76cdf633626b20e5e8cc8fb9815e8dea5b9b2a685e73ecacdce40dc2bf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tomlinson v. The Queen
+
+- Citation: 2016 TCC 246
+- Decision date: 2016-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2991, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tomlinson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-01
+Neutral citation
+2016 TCC 246
+File numbers
+2012-4380(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4380(IT)G
+BETWEEN:
+CHARMANE TOMLINSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 4, 2016, in Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant: The Appellant herself
+Counsel for the Respondent: Christian Cheong
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal made under the Income Tax Act, R.S.C., 1985, c. 1 (5th supp.) in respect of the penalties imposed for the taxation year 2008 is hereby dismissed.
+Signed at Ottawa, Canada, this 1st day of November 2016.
+“R.S. Bocock”
+Bocock J.
+Citation: 2016 TCC 246
+Date:20161101
+Docket: 2012-4380(IT)G
+BETWEEN:
+CHARMANE TOMLINSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction [1] Ms. Tomlinson’s tax return for 2008 was prepared by a Mr. Roual McGann, a fiscal arbitrator. Roual McGann created completely fictious business losses and sought to carry them back to tax years 2005, 2006 and 2007. The intention in doing so was to obtain refunds for most, if not all, of the tax paid by Ms. Tomlinson for those four years. This fiscal arbitrator used the usual mantra with Ms. Tomlinson: there are well hidden “pots of gold” available to a small group of “smart tax advisers” of which the general taxpaying public is unaware. There is no such “mother-code” loophole containing this pot of gold. Similarly, there was no business and no tax refund owing. The Minister of National Revenue (the “Minister”) imposed gross negligence penalties against Ms. Tomlinson.
+[2] The sole issue in this appeal is whether the gross negligence penalty assessed against Ms. Tomlinson should remain or be vacated? The issue for that determination is whether Ms. Tomlinson either knowingly, or in circumstances amounting to gross negligence, made or acquiesced in the making of false statements in her return so as to attract the harsh penalties provided for in subsection 163(2) of the Income Tax Act (the “Act”).
+II. Background of the Appellant [3] Ms. Tomlinson is a well-spoken and educated as a registered nurse. She graduated from nursing college in 2000. She has been a practising registered nurse ever since. Her testimony was candid, straight-forward and honest. Her knowledge of tax law and its systems has been gained entirely through her tax filings. Prior to the 2008 taxation year, she utilized the services of one Phyllis Anderson, who charged her approximately $60.00 to complete her tax return. Ms. Tomlinson’s filing history in the Anderson years consisted primarily of T4 employment income and a reasonable annual deduction for charitable donations. In the 2008 taxation year, that all changed.
+III. Introduction to Tax Preparer [4] A co-worker introduced Ms. Tomlinson to the possibility of using the services of fiscal arbitrators. The co-worker advised Ms. Tomlinson that she knew of others taxpayers who had accessed refunds under little known provisions within the Act. The co-worker herself was apparently awaiting a sizeable refund as a result of utilizing such services.
+[5] In early 2008, Ms. Tomlinson then contacted Roual McGann of the fiscal arbitrators. Mr. McGann came to Ms. Tomlinson’s house. He presented well according to Ms. Tomlinson: well attired, business card, credible speaker and a “churchman”. At that meeting, Mr. McGann requested Ms. Tomlinson’s notices of assessments for the previous 10 years. He said his fee was $500.00 up front with additional fees representing 10% of all tax refunded to Ms. Tomlinson, due upon her receipt. The 2008 tax return and loss carry-back request would access refunds generally unknown to other taxpayers. Mr. McGann indicated that the process would be “tortuous and long”, but in the end Ms. Tomlinson would prevail against the Canada Revenue Agency (the “CRA”) which jealously guarded these little known benefits. To ensure the unbroken and essential chain of communications, all correspondence from CRA received by Ms. Tomlinson should be directed to Mr. McGann on behalf of the fiscal arbitrators. He would undertake the protracted “arbitration” needed to wrestle the lucrative benefits from CRA.
+IV. Preparation of the Return [6] Ms. Tomlinson gave the requested documents to Mr. McGann prior to the filing deadline for the 2008 taxation year. Subsequently, an envelope was delivered to Ms. Tomlinson’s residence. It contained various documents: T1 general return for 2008, a T1A-Request for Loss Carry-Back and “a statement of agent activities”.
+[7] The T1-General Tax Return itself contained various uncustomary and inexplicable entries for Ms. Tomlinson relative to her filing history: a business loss of $369,963.80, total income of $(-251,463.95), net income of nil and a tax refund of $31,341.39, but it did include her employment income of $111,361.84. The T1A-Request for Loss Carry-Back requested the application of such excess losses to taxation years 2005, 2006 and 2007, totalling $258,602.00. But for the CRA’s rejection of the T1-Return and T1A-Request, the result would have been a refund of all taxes paid by Ms. Tomlinson for those previous years.
+[8] The odd statement of agent activities is a studied melange of misapplied, commingled and rearranged accounting and legal concepts. It is replete with nomenclature normally and properly used in the law of agency, contract and trusts. However, the usage is anything but normal and proper within it: Ms. Tomlinson certifies that she is principal of her own agency, engaged in the business of “agency” and such agency, in certain circumstances, involves the agent and the principal (both of whom are one and the same “entity”) and, still in others circumstances, mysterious third parties who may or may not have “reported income”. In all instances, Ms. Tomlinson signed or completed each document “per” herself. She testified that she mailed the returns to the CRA without reading the contents.
+V. CRA Actions upon Receipt of 2008 Return [9] Not surprisingly, the CRA did not confirm, as filed, any of the unusual 2008 T1-General Tax Return, the T1-A Request for Loss Carry-Back or the statement of agent activities. Instead, the CRA engaged in a series of correspondence exchanges requesting completion of a business questionnaire, receipts for expenses, explanations of the transactions between “principal and agent” and a general description of the business.
+[10] Consistently, Ms. Tomlinson, without reading or at least without reading in any detail, forwarded the CRA queries to Mr. McGann. Mr. McGann, in return, generated responses consistent in tone, sense and meaning with the mangled, meaningless and inscrutable contents of the statement of agent activities. Concern for understandable grammar, syntax and thought does not exist in the correspondence prepared by Mr. McGann and signed by Ms. Tomlinson. Ms. Tomlinson testified the series of responses struck her as a consistent process with the initial description by Mr. McGann of the tortuous and sustained effort needed to ultimately obtain the seldomly available refunds. Ms. Tomlinson could explain none of the terminology utilized in the fiscal arbitrator prepared returns, statements or correspondence.
+VI. Ms. Tomlinson realizes the Pretense [11] After several years, rounds of communication exchanges and the filing a notice of objection, Ms. Tomlinson returned to her pre-2008 tax preparer, Ms. Anderson for advice. The response was swift and blunt: “you are in big trouble”.
+VII. The Law A. Subsection 163(2) [12] A. Subsection 163(2) of the Act reads in part as follows:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty…
+[13] According to subsection 163(3), the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+B. Self-Reporting System [14] The Supreme Court of Canada in the matter of R. v. Jarvis, 2002 SCC 73 highlighted the obligations of taxpayers and well as the provision to ensure taxpayers feel so obliged to comply:
+49 Every person resident in Canada during a given taxation year is obligated to pay tax on his or her taxable income, as computed under rules prescribed by the Act (ITA, s. 2 …). The process of tax collection relies primarily upon taxpayer self-assessment and self-reporting... Subject to certain time limitations, the Minister may subsequently reassess or make an additional assessment of a taxpayer’s yearly tax liability (s. 152 (4)).
+50 While voluntary compliance and self-assessment comprise the essence of the ITA’s regulatory structure, the tax system is equipped with “persuasive inducements to encourage taxpayers to disclose their incomes”… For example, in promotion of the scheme’s self-reporting aspect, s. 162 of the ITA creates monetary penalties for persons who fail to file their income returns. Likewise, to encourage care and accuracy in the self-assessment task, s. 163 of the Act sets up penalties of the same sort of for persons who repeatedly fail to report required amount, or who are complicit or grossly negligent in the making of false statements or omissions.
+51 … self-reporting characteristics that the success of its administration depends … As Cory J. stated in Knox Contracting, supra, at p. 350: “The entire system of levying and collecting income tax is dependent upon the integrity of the taxpayer in reporting and assessing income. If the system is to work, the returns must be honestly completed.” It is therefore not surprising that the Act exhibits a concern to limit the possibility that a taxpayer may attempt “to take advantage pf the self-reporting system in order to avoid paying his or her full share of the tax burden by violating the rules set forth in the Act”…
+[Emphasis added. Citations omitted.]
+[15] The object of all these provisions is the efficacy and functionality of a volitional self-reporting and self-assessing tax system.
+[16] A chief aspect of this system is that the heavy hammer of the tax authority to penalize remains sheathed unless and until the taxpayer fails to exercise sufficient care and accuracy to the extent of gross negligence in the preparation of her tax return, usually no matter to whom that actual task is delegated. The taxpayer gets the benefit of a self-assessing and self-reporting system, but she or he must act honestly, timely and in good faith, failing which the compliance and penal provisions of the Act shall be engaged.
+[17] This positive obligation of the taxpayer and the failure to discharge same will determine whether penalties are levied in this system. Evident from a reading of subsection 163(2), two elements must be present for a finding of liability for a penalty:
+a) false statement in a return and; b) knowledge, or if not actual knowledge, the participation, assent or acquiescence in the making of that false statement. VIII. False Statements: [18] Based upon the evidence, there is no question that all the information submitted in the return relating to the “agency” business was manifestly false. Ms. Tomlinson did not suggest otherwise. There simply was no such business, period. Any reference to such, losses claimed thereunder or refunds arising therefrom are also fatally flawed by the same fundamental falsehood. Therefore, the first element of a false statement on a return is established.
+IX. Actual Knowledge or Gross Negligence [19] The “knowledge” of the manifest untruthfulness of the business is slightly more nuanced in cases where the taxpayer did not review or read the returns before signing them. This is further complicated in cases concerning fiscal arbitrators. Reviewing the chosen script, verbiage and conceptual framework used by these “advisors” causes the formation of frowns on the faces of otherwise experienced tax accountants, lawyers and judges alike. How can one discern or know such statements are false, or true for that matter? They simply lack sensible language necessary for such a determination. This conclusion can occur even in the case where such statements are read. In the present case, they were not. The Court believes Ms. Tomlinson when she says that she was not familiar with “tax jargon”. It was not in her skill set as a registered nurse. In short, Ms. Tomlinson contends that she did not read the return because she would not, unlike tax professionals or others knowledgeable in business or accounting, have been able to discern the “gibberish” of the fiscal arbitrators from the overly complicated and arcane language of tax law and accountancy. This usual reaction by most lay people is likely the “stock in trade” of fiscal arbitrators. However, it provides no exoneration for the taxpayer.
+[20] The relevant issue in this appeal is whether Ms. Tomlinson made a false statement amounting to gross negligence, quite apart from “actual knowledge”.
+[21] Gross negligence is beyond simple negligence. Gross negligence involves a greater standard than simply a failure to use reasonable care. Gross negligence involves a high degree of negligence tantamount to intentional acting or an indifference to compliance with the law: Venne v. Canada [1984] FCJ No. 314. It is conduct that borders on recklessness: Farm Business Consultants Inc. v. Canada [1994] TCJ No. 760 (QL).
+[22] Certain factors should be utilized to assess whether conduct is grossly negligent. These were laid down in DeCosta v. The Queen, 2005 TCC 545, at paragraph 11 as:
+a) the magnitude of the omission in relation to the income declared,
+b) the opportunity the taxpayer had to detect the error,
+c) the taxpayer’s education and apparent intelligence,
+d) genuine effort to comply.
+[23] Wilful blindness may constitute gross negligence in the income tax penalty context. In both Canada v. Villeneuve, 2004 FCA 20 and Panini v. Canada, 2006 FCA 224, it was held that the notion or construct of wilful blindness applies in respect of gross negligence penalties under subsection 163(2) of the Act.
+[24] Similarly, Justice C. Miller in Torres v. The Queen, 2013 TCC 380, at paragraph 65, further enumerated a process for analyzing the existence of the hallmarks of gross negligence in case involving fiscal arbitrators:
+a) Knowledge of a false statement can be imputed by wilful blindness.
+b) The concept of wilful blindness can be applied to gross negligence penalties pursuant to subsection 163(2) of the Act. …
+c) In determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+d) To find wilful blindness there must be a need or a suspicion for an inquiry.
+e) Circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights…, include the following:
+i) the magnitude of the advantage or omission;
+ii) the blatantness of the false statement and how reality detectable it is;
+iii) the lack of acknowledgement by the tax preparer who prepared the return in the return itself;
+iv) unusual requests made by the tax preparer;
+v) the tax preparer being previously unknown to the taxpayer;
+vi) incomprehensible explanations by the tax preparer;
+vii) whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others.
+f) The final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.
+[25] The Court has engaged in the following analysis of the facts concerning Ms. Tomlinson.
+a) Education and Experience [26] While Ms. Tomlinson was unaware of the coded parlance of tax law and accountancy, she was an educated woman and registered nurse. She understands and speaks English well. She had promptly, accurately filed and paid her previous year’s tax returns without inquiry, incident or reassessment. She had done so, by utilizing her intelligence and common sense in retaining a reasonably-priced and trustworthy tax preparer.
+b) Need for Suspicion [27] The circumstances regarding Ms. Tomlinson’s introduction to the new tax preparer (by word of mouth), the novel basis of compensation (contingency fee for taxes refunded) and the receipt of the prepared tax returns by hand delivery (rather than the usual face to face review) all ought to have raised suspicion regarding this novel offered service.
+c) Circumstances indicating a need for inquiry [28] An analysis of Ms. Tomlinson’s actions after receiving her 2008 tax return, Request for Loss Carry-Back and statement of agent activities, all in an envelope sent to her house is needed. In particular, this review must relate to the contents of the documents whether read by Ms. Tomlinson or not.
+(i) Magnitude of omission [29] The declaration of business losses, almost equal in quantum to three years of Ms. Tomlinson’s normal employment income, is comparatively staggering. All other comparative line items in the return lead to similar dramatic differences. A simple review of the numbers alone ought to have raised hackles and concern in Ms. Tomlinson’s mind.
+(ii) Blatantness of false statement and detectability [30] Simply put, the entire business concept was a manifest falsehood. Detectability is obvious. Two additional documents, never before filed by Ms. Tomlinson, the Request for Loss Carry-Back and statement of agent activities were included with the return executed by her and exclusively arose because of the manifest falsehood of the fabricated business.
+(iii) Lack of acknowledgement by tax preparer in return [31] Neither Mr. McGann nor the fiscal arbitrators indicated within the return that they prepared the return for a fee. The omission was made, notwithstanding Ms. Tomlinson’s belief that the fiscal arbitrators were acute, specialized tax advisers capable of accessing available, but little known, refunds. This omission, in light of the considerable or, at least, increased fee (from $60.00 to $500.00) ought to have raised a query from Ms. Tomlinson. This is buttressed by the fact that Mr. McGann advised Ms. Tomlinson that he intended to arbitrate directly with the CRA.
+(iv) Unusual requests made by the tax preparer [32] There were several unusual requests made by Mr. McGann on behalf of the fiscal arbitrators at the time of the retainer. Firstly, all correspondence from CRA was to be directly forwarded to Mr. McGann without further inquiry or concern on the part of Ms. Tomlinson. Secondly although all correspondence would be prepared by the fiscal arbitrators, Ms. Tomlinson would sign it, but “per” the letters and returns when doing so. Lastly, the preliminary information requested concerning the previous 10 years’ notices of assessment was unusual and inconsistent with the request of previous tax preparers, when the task from the outset was to complete only the 2008 tax return.
+(v) Tax preparer previously unknown [33] Until the word of mouth referral from a colleague, no better versed in tax law and accountancy than Ms. Tomlinson, Ms. Tomlinson had never heard or known of Mr. McGann or the fiscal arbitrators. This novelty of the relationship did not lead to any particular concern or queries by Ms. Tomlinson.
+(vi) Incomprehensible explanations [34] From the outset, Mr. McGann indicated there would be immediate inquiries, reassessments and investigations from the CRA. His explanation for these questions related to vague and obscure, but available tax benefits known to the CRA and clients of the fiscal arbitrators alone. This anticipated notice of reassessment, ensuing litigation and levied penalties would all eventually meld away if Ms. Tomlinson simply trusted the fiscal arbitrators throughout the arduous and laborious process. Comfort arising from such incongruous explanations, based upon Ms. Tomlinson previously uneventful filings, is difficult to imagine.
+(vii) Whether others engaged the tax preparer or warned against doing so, or taxpayer expresses concern about telling others. [35] Ms. Tomlinson’s testified that, until her previous tax preparer identified the folly of Ms. Tomlinson in trusting the fiscal arbitrators, Ms. Tomlinson expressed no concern.
+d) Taxpayer makes no inquiry to understand the return or makes no inquiry. [36] Ms. Tomlinson testified she did not read her return or the documents filed with it. She did not attempt to do so when it was delivered to her. She asked no questions since she averted her eyes to its contents. There is no more that may be written on this point.
+X. Conclusion [37] The appeal of Ms. Tomlinson is dismissed. Based upon the analysis of the factors above taken from both De Costa and Torres, Ms. Tomlinson failed to respond to the strong and clear warning that if something is too good to be true, then, it is usually just that: not true.
+[38] She failed to undertake the most basic and required step a taxpayer is obligated to do: read and review her tax return before signing it. A failure to do so is, per se, the foundation block of wilful blindness: Saikadi v. La Reine, (1998) 3 CTC 200 (FCA) at paragraph 3; La Reine v. Columbia Enterprise Ltd., (1983) CTTC 204 (FCA). That cornerstone, in this case, has built upon it all the circumstances which ought to have led Ms. Tomlinson to take notice of the obvious lie being foisted upon the Minister. Instead, she simply chose to avert her eyes to the glaring and obvious false statements in her 2008 tax return and accompanying schedules. The penalties imposed, while substantial and potentially ruinous, are proportionally meted out against such plain and obvious fabrications, the warning signs for which were wilfully ignored by Ms. Tomlinson. As such, the penalties remain.
+[39] In the circumstances, the Court shall receive submissions on costs within 30 days of this judgment unless the parties are able to agree on same.
+Signed at Ottawa, Canada, this 1st day of November 2016.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2016 TCC 246
+COURT FILE NO.:
+2012-4380(IT)G
+STYLE OF CAUSE:
+CHARMANE TOMLINSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 4, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 1, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+Christian Cheong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

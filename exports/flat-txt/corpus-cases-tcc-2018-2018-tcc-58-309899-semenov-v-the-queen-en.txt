@@ -1,0 +1,735 @@
+Title: Semenov v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/309899/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-58-309899-semenov-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-03-21
+
+# Semenov v. The Queen
+
+- Citation: 2018 TCC 58
+- Decision date: 2018-03-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4808, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Semenov v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-03-21
+Neutral citation
+2018 TCC 58
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2636(IT)I
+BETWEEN:
+ANDREI SEMENOV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2016-2637(IT)I
+BELCA TOURS & COACH INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on April 7, 2017 and September 7, 2017, at Toronto, Ontario
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Adam Serota
+Counsel for the Respondent:
+Kanga Kalisa
+JUDGMENT
+The Appeals from the reassessments (the “Reassessments”) made under the Income Tax Act (the “ITA”) with respect to the 2011 and 2012 taxation years are allowed, without costs, and the Reassessments are referred back to the Minister of National Revenue (the “Minister”) for reconsideration and reassessment on the basis that:
+a) as conceded by the Respondent, the amount of each Appellant’s income for 2012 is to be reduced by the amount of $540, representing a mathematical error committed and acknowledged by the Minister;
+b) the unidentified deposits in the respective amounts of $60 deposited to the account of Andrei Semenov at the Bank of Nova Scotia (“Scotiabank”) on February 22, 2011, $162.64 deposited to the account of Mr. Semenov at Scotiabank on March 24, 2011, and $85.51 deposited to the account of Mr. Semenov at the Canadian Imperial Bank of Commerce on September 19, 2011 are not to be included in computing the income of either Appellant for 2011;
+c) if the Reassessments for 2011 included the amounts of $7,090 and $5,900 deposited on January 13, 2011 and June 7, 2011 respectively to the joint account of Mr. Semenov and his wife at the Bank of Montreal (“BMO”), the total of the unidentified deposits that may be treated by the Minister as unreported income of the Appellants is limited to $24,879.15, less the amount of the exclusion specified in subparagraph e) below;
+d) if the Reassessments for 2011 did not include the amounts of $7,090 and $5,900 deposited on January 13, 2011 and June 7, 2011 respectively to the BMO joint account, those amounts are not to be included in computing the income of the Appellants for the purposes of the new reassessments;
+e) the amount of $14,550, being the Canadian-currency equivalent of the amount of US$15,000 that was the subject of the Personal Loan Contract dated March 10, 2011, between Andrei Semenov and Vasilliy Li, and that was loaned by Mr. Li to Mr. Semenov, is not to be included in computing the income of either Appellant for 2011;
+f) the penalties imposed under subsection 163(2) of the ITA are not justified; and
+g) in all other respects the Reassessments are confirmed;
+all as set out in more detail in the attached Reasons.
+Signed at Ottawa, Canada, this 21st day of March 2018.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2018 TCC 58
+Date: 20180321
+Docket: 2016-2636(IT)I
+BETWEEN:
+ANDREI SEMENOV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2016-2637(IT)I
+BELCA TOURS & COACH INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to Appeals instituted by Andrei Semenov and Belca Tours & Coach Inc. (“Belca”) in respect of various reassessments (the “Reassessments”) under the Income Tax Act (the “ITA”), [1] which were issued by the Canada Revenue Agency (the “CRA”) on behalf of the Minister of National Revenue (the “Minister”), for the 2011 and 2012 taxation years.
+II. ISSUES
+[2] The issues for consideration in these Appeals are:
+a) Whether certain bank account deposits (the “Subject Deposits”) in various bank accounts of Mr. Semenov, as summarized in Table 1 below, were derived from loan advances, loan repayments or other non-taxable sources, or were derived from, and represented, unreported income of Belca?
+b) Whether, by reason of subsection 15(1) of the ITA, the Subject Deposits constituted taxable benefits conferred by Belca on Mr. Semenov in his capacity as a shareholder?
+c) Whether certain amounts, totalling $10,377.84 in 2011 and $2,452 in 2012, that were added by Belca to the shareholder loan account in respect of Mr. Semenov constituted unreported income of Belca and taxable benefits conferred by Belca on Mr. Semenov in his capacity as a shareholder?
+d) Whether the amount of $5,900 paid by Belca to Mr. Semenov in 2011 and recorded as subcontractor remuneration represented income of Mr. Semenov that he failed to report?
+e) Whether certain purchases paid for by Belca in 2012, totalling $625.09, constituted taxable benefits conferred by Belca on Mr. Semenov in his capacity as a shareholder?
+f) Whether certain advertising expenses incurred by Belca were deductible in computing its income for the 2012 taxation year?
+g) Whether the Minister properly reassessed Mr. Semenov and Belca after their normal reassessment periods in respect of the 2011 taxation year?
+h) Whether Mr. Semenov is liable to a penalty pursuant to subsection 163(2) of the ITA in respect of the 2011 taxation year?
+i) Whether Belca is liable to penalties pursuant to subsection 163(2) of the ITA in respect of the 2011 and 2012 taxation years?
+III. BACKGROUND
+A. Immigration, Personal and Business Arrangements
+[3] In 1997, Mr. Semenov immigrated to Canada from Minsk, Belarus and established a home in Toronto. [2] While living in Belarus, Mr. Semenov owned various assets, including a home and a business, both of which he sold before immigrating to Canada. He arranged for the net sale proceeds, approximately $100,000, to be deposited in an account at the Canadian Imperial Bank of Commerce (“CIBC”). As well, when Mr. Semenov came to Canada, he brought with him approximately $20,000 to $25,000 in cash. [3]
+[4] After arriving in Canada, Mr. Semenov married Tatyana Li, and eventually, Ms. Li’s parents immigrated to Canada from Kazakhstan and took up residence with Mr. Semenov and Ms. Li.
+[5] The first business established by Mr. Semenov in Canada was a paint store, which he operated through a corporation, Full of Colour Inc. (“FCI”). Subsequently, in January 2008, Mr. Semenov arranged for Belca to be incorporated and to undertake the business of operating school buses and coach buses. In 2011 and 2012, Mr. Semenov was the only shareholder of Belca and apparently was its main, if not only, employee. On its T2 corporate income tax returns, Belca reported gross sales of $559,156 for the taxation year ending December 31, 2011 and $451,138 for the taxation year ending December 31, 2012. [4]
+B. Loans
+[6] A significant portion of the oral evidence given by the witnesses for the Appellants focused on two loans, one borrowed by Mr. Semenov and the other advanced by him. On March 10, 2011, Mr. Semenov and his father-in-law, Vasilliy Li, signed a Personal Loan Contract, which provided that Mr. Semenov was to borrow C$15,000 from Mr. Li, without interest, and that the loan was to be repaid as business profitability permitted, but no later than March 10, 2021. [5] Both Mr. Semenov and Mr. Li testified that additional amounts, in excess of the C$15,000 set out in the Personal Loan Contract, were loaned by Mr. Li to Mr. Semenov. Mr. Semenov testified that the loan advances from Mr. Li were the source of some of the Subject Deposits.
+[7] Mr. Semenov testified that in 1997, he loaned $25,000 to Igor Brylev, pursuant to a Personal Loan Agreement dated September 5, 1997. [6] Mr. Semenov explained that Igor Brylev was the younger brother of Valeriy Brylev, who was a close friend of Mr. Semenov when he lived in Minsk. Igor Brylev, who had immigrated to Toronto before 1997, met Mr. Semenov when he arrived in Toronto and assisted Mr. Semenov in becoming settled in the city. Ultimately they became business associates, and Mr. Semenov lent $25,000 to Igor to assist the latter in acquiring shares of FCI. Igor later died, without having repaid the loan. As the Personal Loan Agreement stated that Valeriy Brylev was to be a guarantor for the loan, Mr. Semenov indicated that, on two or three occasions in the period between 2003 and 2011, Valeriy made partial loan repayments to him and those repayments were the source of some of the Subject Deposits.
+C. Subject Deposits
+(1) Possible Tabulation Error or Oversight
+[8] In auditing Mr. Semenov and Belca for 2011 and 2012, the CRA conducted a bank deposit analysis of the personal bank accounts of Mr. Semenov at CIBC and the Bank of Nova Scotia (“Scotiabank”) and a joint bank account that he and Ms. Li had at the Bank of Montreal (“BMO”). As a result of that analysis, the CRA identified a number of deposits (defined above as the “Subject Deposits”) which, in its view, constituted unreported income of both Belca and Mr. Semenov, and which it tabulated in one of its bank deposit analysis documents as follows: [7]
+Table 1
+Bank Account
+Amount (2011)
+Amount (2012)
+Scotiabank account
+$16,943.64
+$2,400.00
+CIBC account
+7,935.51
+16,990.35
+BMO joint account
+12,990.00
+_________
+Total
+$24,879.15[sic]
+$19,390.35
+[9] When tabulating the deposits which it viewed as constituting unreported income, the CRA appears to have made an arithmetical error in its bank deposit analysis for 2011. [8] As indicated in Table 1 above, the CRA showed the total of the aggregate deposits at the three banks as being $24,879.15. However, according to my calculations, the total should be $37,869.15. As best I can tell, the number used by the CRA (i.e., $24,879.15) is the total of the amounts for the Scotiabank account (i.e., $16,943.64) and the CIBC account (i.e., $7,935.51). It appears that, in preparing its Reply, particularly the summary of the Minister’s assumptions, the Crown has also used the incorrect total (i.e., $24,879.15) for 2011, rather than the correct total (i.e., $37,869.15).
+[10] I was not provided with any explanation as to why the amount used in the Minister’s assumptions was $24,879.15, and not $37,869.15. One explanation is that the auditor simply committed an error or an oversight when tabulating the Subject Deposits. Another explanation that occurs to me is that the Minister decided to include in Belca’s and Mr. Semenov’s respective incomes only those Subject Deposits made to Mr. Semenov’s personal Scotiabank account and his personal CIBC account, and not to include the Subject Deposits made to the BMO joint account. This view seems to be consistent with an analysis of the CRA’s Audit Report in respect of Mr. Semenov. [9] On page 2 of that report, the CRA showed the amount of the shareholder benefit derived in 2011 from Belca’s unreported income as being $35,257. It appears that this is the aggregate of the Subject Deposits to the Scotiabank account in the amount of $16,943.64 and the CIBC account in the amount of $7,935.51, plus certain entries, aggregating $10,377.84, in 2011 to Belca’s shareholder loan account in respect of Mr. Semenov (as will be discussed below [10] ). The foregoing amounts are tabulated as follows for 2011:
+Table 2
+Shareholder Benefit
+Amount
+Scotiabank Subject Deposits
+$16,943.64
+CIBC Subject Deposits
+7,935.51
+Subtotal
+$24,879.15
+Shareholder loan account entries
+10,377.84
+Total
+$35,256.99
+The above total of $35,256.99, when rounded to the nearest dollar, i.e. $35,257, is equal to the amount of the shareholder benefit for 2011 shown by the CRA on page 2 of its Audit Report. The Audit Report then went on to indicate that, when auditing Belca, the CRA found unidentified bank deposits that were “in the taxpayer’s personal accounts,” [11] which might suggest that the CRA was looking only at Mr. Semenov’s personal accounts, and not at the joint account of Mr. Semenov and Ms. Li. Thus, my review of the Reply and the Audit Report suggests that the amount of the shareholder benefit for which Mr. Semenov was reassessed for 2011 was limited to $35,257, which implies that the CRA did not include the BMO Subject Deposits, in the amount of $12,990, in computing his income for 2011.
+[11] Also of note is the Audit Report in respect of Belca. [12] On page 3 of that report, the CRA showed the amount of Belca’s unreported sales as being $35,257 for 2011 and $22,382 for 2012, which the CRA tabulated as follows:
+Table 3
+CRA’s description
+2011
+2012
+Unidentified deposits
+$24,879.00
+$19,930.00
+Shareholder loan account
+10,378.00
+2,452.00
+$35,257.00
+$22,382.00
+In discussing the unidentified deposits, the Audit Report explained that the bank deposit analysis was conducted “on the corporation’s business bank account as well as the shareholder’s personal bank accounts.” [13] It may be that, by referring to the shareholder’s personal bank accounts, the CRA was limiting its computation and tabulation to the bank accounts that were in his name alone, and was not including the BMO joint bank account. Accordingly, it might be possible that, in issuing the Reassessment for 2011, the CRA was of the view that the BMO Subject Deposits did not represent unreported sales of Belca.
+[12] In addition, one of the CRA auditors, Rita Leung, testified that she audited all of the bank accounts of Ms. Li, including the BMO joint account, and in comparing Ms. Li’s reported income to her bank accounts, did not find any discrepancy. [14] Thus, as best I can ascertain, when Ms. Leung conducted the bank deposit analysis, she reviewed the BMO joint account of Mr. Semenov and Ms. Li and made reference to that account in her summary table, but when she added the unidentified deposits that had been found in each account, she omitted the deposits in the BMO joint account. [15] Furthermore, in preparing the Audit Reports and the Penalty Recommendation Reports in respect Belca and Mr. Semenov, Ms. Leung appears not to have included the BMO Subject Deposits. Accordingly, it appears that Ms. Leung may have made an arithmetical error, may have inadvertently overlooked the BMO Subject Deposits when compiling her tabulation, or may have determined that neither Belca nor Mr. Semenov were to be reassessed in respect of the BMO Subject Deposits. If, in fact, Belca and Mr. Semenov were reassessed in respect of the BMO Subject Deposits, it is my view that those aspects of the 2011 Reassessment cannot stand, given that the Minister’s assumptions, as set out in the respective Replies, do not appear to have included the BMO Subject Deposits. If the CRA intended to reassess Belca and Mr. Semenov in respect of the BMO Subject Deposits, but did not do so, this Court cannot increase the amount of the 2011 Reassessment. [16]
+(2) Itemized Tabulation
+[13] The Subject Deposits to Mr. Semenov’s chequing account at Scotiabank in 2011 were: [17]
+Table 4
+Date
+Amount
+January 18, 2011
+$2,600.00
+January 19, 2011
+1,500.00
+January 25, 2011
+2,000.00
+January 31, 2011
+1,500.00
+February 22, 2011
+60.00
+March 8, 2011
+783.63
+March 14, 2011
+700.00
+March 14, 2011
+1,139.40
+March 24, 2011
+162.64
+March 28, 2011
+2,589.00
+April 6, 2011
+1,656.86
+April 13, 2011
+531.43
+September 10, 2011
+400.00
+November 22, 2011
+600.00
+December 16, 2011
+230.68
+December 24, 2011
+500.00
+Total
+$16,943.64
+[14] The Subject Deposits to Mr. Semenov’s CIBC chequing account in 2011 were: [18]
+Table 5
+Date
+Amount
+September 6, 2011
+$1,500.00
+September 19, 2011
+85.51
+October 4, 2011
+1,300.00
+October 11, 2011
+1,250.00
+November 2, 2011
+1,300.00
+December 15, 2011
+1,100.00
+December 28, 2011
+1,400.00
+Total
+$7,935.51
+[15] While it appears that the CRA, in reassessing Belca and Mr. Semenov, did not include the BMO Subject Deposits in computing their respective incomes for 2011, for the sake of completeness, I will mention those deposits here. The Subject Deposits to the BMO joint account of Mr. Semenov and Ms. Li in 2011 were: [19]
+Table 6
+Date
+Amount
+January 13, 2011
+$7,090.00
+June 7, 2011
+5,900.00
+Total
+$12,990.00
+[16] The Subject Deposits that were made to Mr. Semenov’s Scotiabank account in 2012 were: [20]
+Table 7
+Date
+Amount
+March 7, 2012
+$600.00
+March 26, 2012
+300.00
+April 25, 2012
+1,000.00
+July 10, 2012
+500.00
+Total
+$2,400.00
+[17] The Subject Deposits that were made to Mr. Semenov’s CIBC account in 2012 were: [21]
+Table 8
+Date
+Amount
+February 21, 2012
+$1,600.00
+March 14, 2012
+1,500.00
+March 22, 2012
+1,000.00
+March 22, 2012
+200.00
+April 11, 2012
+1,250.00
+April 23, 2012
+1,200.00
+May 1, 2012
+1,000.00
+June 4, 2012
+500.00
+June 7, 2012
+1,500.00
+July 16, 2012
+1,000.00
+August 28, 2012
+1,300.00
+September 19, 2012
+1,340.35
+October 5, 2012
+1,500.00
+November 29, 2012
+1,000.00
+December 27, 2012
+1,100.00
+Total
+$16,990.35
+[18] The CRA took the position that the Subject Deposits were made using payments from Belca’s customers, such that they represented unreported sales of Belca. As well, according to the CRA, by depositing those payments into his personal bank accounts, Mr. Semenov was appropriating Belca’s property, such that the Subject Deposits represented benefits conferred by Belca on him, so as to be taxable under subsection 15(1) of the ITA.
+IV. ANALYSIS
+A. Small Deposits
+[19] During his examination-in-chief, Mr. Semenov testified that in 2011 and 2012 all of the transportation services provided by Belca were of such a magnitude that it did not charge any fees less than $750, which corresponded to a minimum five-hour rental. [22] Mr. Semenov identified a number of the Subject Deposits that were sufficiently small that they supposedly would not have represented a payment made by a customer of Belca.
+[20] In 2011 and 2012, Belca had only one bank account, which was at Scotiabank. [23] It is my understanding that Belca used bank deposit books prepared by Davis + Henderson in order to deposit money into that account. One of those deposit books was entered into evidence. [24] That deposit book covers the period from March 7, 2012 to December 3, 2012. Deposit books covering the period from January 1, 2011 to March 6, 2012 and the period from December 4, 2012 to December 31, 2012 were not entered into evidence. The deposit book that was entered as an exhibit covers approximately nine months of a 24-month period. In other words, approximately 37% of the two-year period covered by the CRA audit is represented by the deposit book entered into evidence, while there is no deposit book in evidence in respect of the other 63% of that period.
+[21] I have reviewed Exhibit A-3, being the deposit book maintained by Belca for part of 2012, together with numerous deposit slips that have been stapled into that book. In that deposit book, I found entries for a number of deposited cheques in amounts less than $750, as follows:
+Table 9
+Date
+Description
+Amount
+March 31, 2012
+Civitan Inter [25]
+$460.00
+April 7, 2012
+Le Club Sport
+594.00
+April 19, 2012
+Brams 90
+400.00
+April 23, 2012
+SU ON Centre
+734.50
+May 10, 2012
+St. Cleslang
+480.14
+May 11, 2012
+St. Step. Com.
+334.00
+June 4, 2012
+Oxford Prop.
+480.25
+June 4, 2012
+Solid Gen. Cod.
+452.00
+June 28, 2012
+Thomas Fl.
+325.00
+July 10, 2012
+MS. Emerita
+200.00
+July 16, 2012
+Katz Gr.
+423.75
+August 13, 2012
+Proser JCC [26]
+100.00
+August 30, 2012
+Magic Bus Company
+542.40
+October 4, 2012
+IFTA [27]
+31.19
+October 9, 2012
+GMD SU
+381.37
+October 23, 2012
+Blyth Educ.
+452.00
+November 2, 2012
+QSU
+452.00
+November 8, 2012
+Gov. of Can.
+734.50
+November 22, 2012
+IFTA
+9.01
+November 28, 2012
+IFTA
+40.91
+December 3, 2012
+Computersh.
+452.00
+[22] As the above table illustrates, during the nine-month period covered by Exhibit A-3, Belca received a number of cheques each of whose amount was less than $750. I am prepared to acknowledge that some of those cheques, such as the cheques described as “IFTA,” do not represent cheques from customers. On the other hand, I am of the view that the $100 cheque from Proser JCC deposited on August 13, 2012 was connected to the $5,000 cheque from Proser JCC that was also deposited on the same day.
+[23] Apart from the $100 cheque from Proser JCC, the smallest cheque that is listed in Table 9, that appears to have been made by a customer, and that is recorded in the deposit book and on the attached deposit slips, is in the amount of $200. Accordingly, I am prepared to accept that any Subject Deposit less than $200 (rather than $750 as suggested by Mr. Semenov) did not represent unreported income. Those deposits (the “Small Deposits”) are set out below:
+Table 10
+Date
+Bank
+Amount
+February 22, 2011
+Scotiabank
+$60.00
+March 24, 2011
+Scotiabank
+162.64
+September 19, 2011
+CIBC
+85.51
+Total
+$308.15
+All of the Small Deposits were made in 2011. There were no deposits less than $200 in 2012. [28]
+B. Remaining Subject Deposits
+[24] After removing the Small Deposits from Table 1, the bank-by-bank aggregates of the deposits that remain for the Scotiabank and CIBC accounts are the following:
+Table 11
+Bank Account
+Amount (2011)
+Amount (2012)
+Scotiabank account
+16,721.00
+2,400.00
+CIBC account
+__7,850.00
+_16,990.35
+Total
+$24,571.00
+$19,390.35
+[25] While Mr. Semenov specifically addressed each of the Small Deposits in his examination-in-chief, I was disappointed that he did not specifically discuss each of the remaining Subject Deposits and provide me with the details of those deposits. He did not make any attempt to link a particular Subject Deposit with a specific non‑taxable source of money. His only comments about the Subject Deposits (other than the Small Deposits) were vague and generalized. In essence, he testified that from time to time in 2010, 2011 and 2012 he received money as loans, gifts or debt repayments from various family members and friends. However, he did not point to a particular date when he received such a non‑taxable amount and then connect that amount to a particular Subject Deposit.
+C. Comprehension and Memory of Witnesses
+[26] Mr. Li testified in Russian, with the assistance of an interpreter. Even with that assistance, I am not certain that he fully understood the intended connotations and nuances of the questions that were put to him. One exchange that illustrates my concern is the following, which occurred during direct examination:
+Q. Mr. Li, how are you related to the appellant, Andrei Semenov, if you’re related?
+A. From the first day of our arrival to Canada, we live together with my daughter and my son-in-law. That’s why I don’t have any claims against them. So it’s a good relationship – normal relation. [29]
+[27] During cross-examination, there was another exchange that causes me to wonder whether Mr. Li completely followed the proceedings:
+Q. … When was the first time you gave your son-in-law money?
+A. Well, after I run out of all the money brought here, so of course they did –– they never asked me about it. [30]
+[28] My purpose in quoting the above exchanges from the testimony of Mr. Li is not to be critical of his sincerity or to question his credibility, but rather to suggest that subtle distinctions may have been lost in the translation between English and Russian, and to illustrate my concern that, if he did not fully understand the two questions quoted above, there may have been other questions that he similarly did not understand.
+[29] Turning to Mr. Semenov, there were several occasions when he acknowledged that his memory of certain details was not precise or that he could not be certain about some points. [31] Hence, I am not fully confident that, as Mr. Semenov gave his testimony, his recollection of past events was precisely accurate.
+D. Money from Mr. Li
+(1) Personal Loan Contract
+[30] Mr. Semenov, Mr. Li (i.e., Mr. Semenov’s father-in-law) and Ms. Li (i.e., Mr. Semenov’s wife) all testified concerning the Personal Loan Contract signed on or about March 10, 2011 by Mr. Semenov as borrower and Mr. Li as lender. [32] They each stated that, even though the Contract refers to a loan of $15,000 in Canadian currency, the funds were actually advanced in US currency. [33] This loan was documented, and the fact that the loan was actually advanced is supported by the concurring and consistent testimonies of those three witnesses. Accordingly, I am prepared to acknowledge that Mr. Li loaned US$15,000 to Mr. Semenov on or about March 10, 2011 and that those funds were likely used by Mr. Semenov or Ms. Li to make some of the Subject Deposits to the Scotiabank account or the CIBC account in 2011.
+[31] Mr. Semenov testified that, based on his understanding of the US‑Canadian exchange rate, on March 10, 2011 US$1 was equal to approximately C$0.97. [34] Using Mr. Semenov’s evidence, it is my understanding that the Canadian‑currency equivalent of the US$15,000 loaned by Mr. Li to Mr. Semenov on March 10, 2011 was C$14,550 (i.e., $15,000 Ч 0.97).
+(2) Alleged Additional Advances
+[32] Although Mr. Semenov, Mr. Li and Ms. Li all testified that, after the initial advance of US$15,000, additional smaller amounts were advanced in various increments, there were inconsistencies in their respective testimonies concerning those increments. For instance, the amounts of those increments vary from witness to witness. Mr. Li testified that in 2010 he brought US$20,000 in cash from Kazakhstan to Canada. He also testified that, after the initial advance of US$15,000 on March 10, 2011, his daughter and son-in-law, “by part,” presumably meaning in increments, over the course of 2011 and 2012, “took everything,” [35] presumably referring to the remainder (i.e., US$5,000) of the US$20,000 that he had brought from Kazakhstan to Canada in 2010. He indicated that he advanced increments, perhaps in the amounts of $1,500 or $2,000, over the next two years after 2010. [36] Mr. Semenov testified initially that the additional advances were in increments of $1,000, $2,000 or $3,000, depending on what they needed. [37] Later in his testimony, Mr. Semenov stated that the amounts of the increments were “probably three or four, five,” [38] without specifying whether he was referring to $300, $400 or $500, or to $3,000, $4,000 or $5,000. According to Ms. Li, the additional amounts borrowed by her and her husband from her father were in smaller increments, such as $300, $500 or $1,000, depending on the situation. [39]
+[33] There was also a discrepancy between the evidence of Mr. Li and Mr. Semenov concerning the total amount loaned by the former to the latter. As noted above, Mr. Li indicated that in 2010 he brought with him from Kazakhstan to Canada US$20,000 and that his daughter and son-in-law subsequently borrowed all of that money (i.e., the initial advance of US$15,000 and additional smaller advances presumably totalling US$5,000). [40] On the other hand, Mr. Semenov testified that his father-in-law gave him “a lot more money than 15,000…. probably $30,000.” [41] Mr. Semenov indicated that $15,000 was loaned pursuant to the Personal Loan Contract and “a lot more money” was loaned or given without documentation. [42] He suggested that the total amount loaned was “probably double of [the] amount” set out in the Personal Loan Contract. [43]
+[34] There was some uncertainty concerning the timing of the trips made by Mr. Li when he returned to Kazakhstan. He testified that he travelled from Canada to Kazakhstan in 2010 and returned to Canada with US$20,000. [44] In her examination-in-chief, Ms. Li testified that, after her father came to Canada in 2005, he did not return to Kazakhstan. [45] When cross-examined, Ms. Li changed her testimony and stated that her parents returned to Kazakhstan in April 2010. [46]
+(3) Deposits in January 2011
+[35] In January 2011, four Subject Deposits were made to Mr. Semenov’s Scotiabank account, being $2,600 on January 18, $1,500 on January 19, $2,000 on January 25 and $1,500 on January 31, for a total of $7,600 in that month. [47] Near the end of his testimony, Mr. Semenov testified that the funds used to make those deposits had been loaned to him by Mr. Li. [48] Although there was a lack of clarity in his testimony, Mr. Semenov seemed to indicate that the $7,600 deposited in January 2011 was not part of the $15,000 that was the subject of the Personal Loan Contract. [49] When it was pointed out to him that he had previously testified that the first loan made by Mr. Li was the C$15,000 loan advanced in US currency in March 2011 pursuant to the Personal Loan Contract and that various lesser amounts were advanced thereafter, Mr. Semenov changed his testimony and stated that he had borrowed money from Mr. Li before March 2011, including money borrowed in 2010 to cover living expenses, but the first documented loan was in March 2011. [50] Mr. Semenov also stated that he had borrowed money from Mr. Li in 2009. [51] Mr. Semenov then went on to state that some of the $7,600 deposited in January 2011 was given to him by his wife from her salary. [52] As best I can tell, during the audit by the CRA, Mr. Semenov did not suggest that any of the Subject Deposits came from his wife’s salary, nor did he mention it earlier in his examination-in-chief. Furthermore, there is nothing in either Mr. Semenov’s or Belca’s Notice of Appeal to suggest that Ms. Li’s salary may have been the source of some of the Subject Deposits.
+[36] In explaining the reason for which the four Subject Deposits were deposited into the Scotiabank account in January 2011, Mr. Semenov stated that they were made in anticipation of a vacation that he and his family intended to take in February 2011. He was anxious to ensure that there would be sufficient money in that account to cover the mortgage payments that would be payable while he was on vacation. [53] I find that comment to be inconsistent with statements that Mr. Semenov made elsewhere in his testimony, when he stated that the mortgage payments were taken from the CIBC account. [54]
+(4) Finding
+[37] I acknowledge that Mr. Li generously assisted his daughter and son-in-law, Ms. Li and Mr. Semenov, from time to time by lending or giving money to them. As indicated above under subheading IV.D(1) “Personal Loan Contract,” I am prepared to acknowledge that C$14,550 (being equivalent to US$15,000) was loaned by Mr. Li to Mr. Semenov on or about March 10, 2011 and was the source of some of the Subject Deposits. However, by reason of the inconsistencies discussed above under subheadings IV.D(2) “Alleged Additional Advances” and IV.D(3) “Deposits in January 2011,” the evidence is not sufficient to prove on a balance of probabilities that money loaned by Mr. Li was the source of any additional Subject Deposits. However, that evidence may be sufficient to support a viable and reasonable hypothesis to the effect that the Subject Deposits had a non-taxable source, [55] which will be discussed below.
+E. Repayment of Brylev Loan
+(1) Alleged Repayments by Valeriy Brylev
+(a) Overview
+[38] The loan of $25,000 by Mr. Semenov to Igor Brylev was documented by means of a Personal Loan Agreement dated September 5, 1997. [56] One of the clauses in that agreement indicated that, to protect the lender (i.e., Mr. Semenov), Igor Brylev was providing a “co-signing guarantor,” being Valeriy Anatolyevich Brylev, who was described as the brother of the borrower, and who was also referred to in the agreement as the “signing guarantor ‘co‑borrower,’” notwithstanding that Valeriy did not actually sign the agreement. After Igor’s death, Valeriy apparently endeavored to satisfy his deceased brother’s obligation to Mr. Semenov. On two or three occasions, as explained below, Valeriy allegedly sent cash or one or more cheques to Mr. Semenov.
+[39] Mr. Semenov testified that on two occasions, once in 2003 or 2004 and again in 2011, his son, Dmitriy, travelled to Minsk, Belarus for hockey-related activities and met with Valeriy Brylev. On the first occasion, Valeriy gave to Dmitriy an envelope containing cash. Mr. Semenov testified that the amount of the cash was approximately US$6,000, although he also said US$5,000 at one point. [57] However, in one or more conversations that Mr. Semenov had with representatives of the CRA during the audit, he stated that he received repayment instalments from Valeriy Brylev, in the respective amounts of US$3,000 in cash in 2003, US$9,000 in cash in 2010 and C$12,990 in cheques in 2011. [58] It is noteworthy that, during the audit, Mr. Semenov told the CRA that the 2003 payment was in the amount of US$3,000, but (as noted above) he testified at the hearing that the amount was US$6,000 (or perhaps US$5,000). It is also noteworthy that, when Mr. Semenov testified, he did not mention the repayment in 2010. With respect to the 2011 repayment, Mr. Semenov testified that he received and deposited into his bank account a single cheque for approximately $13,000, [59] but (as indicated above) he previously told the CRA that he received cheques totalling C$12,990.
+[40] When Dimitriy Semenov testified, he stated that he carried envelopes containing cash from Valeriy Brylev in Minsk, Belarus to his father (i.e., Mr. Semenov) in Toronto in 2003 and 2010. [60] On the first occasion, in 2003, Dimitriy thought that the envelope probably contained around $3,000, although he did not count the money. [61] When testifying about the second, and final, occasion in 2010, when Dimitriy carried an envelope of cash to his father from Valeriy, Dimitriy did not indicate the amount of money in the envelope. [62]
+[41] Given the inconsistencies described above among the accounts given by Mr. Semenov during the audit and during his testimony at the hearing and the account given by Dimitriy Semenov, I have some concern about the reliability of the evidence concerning the loan repayments made by Valeriy Brylev on behalf of his deceased brother. Hence, I will discuss the three alleged loan repayments in further detail below.
+(b) Alleged Repayment in 2003
+[42] Even if I were to accept that Valeriy Brylev made a loan repayment on behalf of his deceased brother, Igor, in 2003, in the amount of US$3,000, US$5,000 or US$6,000 (depending on which evidence is to be accepted), those funds would have been received by Mr. Semenov approximately seven and a half years before the first of the taxation years in question in these Appeals. In my view, it is highly unlikely that cash received by Mr. Semenov in 2003 would have been the source of one or more of the Subject Deposits in 2011 or 2012.
+(c) Alleged Repayment in 2010
+[43] It is my understanding that, according to Dimitriy Semenov, the second alleged repayment (supposedly in the amount of US$9,000) by Valeriy Brylev occurred in the summer of 2010, which would have been four to six months before the beginning of 2011, which was the first of the two taxation years that are the subject of these Appeals. If that alleged repayment was the source of any of the Subject Deposits, Mr. Semenov would have needed to have held the money for several months before depositing it. Mr. Semenov did not provide any detailed evidence as to where he put this particular money when he received it, what he did with the money between mid-2010 and the date or dates in 2011 when it was supposedly deposited in a bank account, and which deposits were made with the money.
+[44] As noted above, in January 2011 four Subject Deposits (aggregating $7,600) [63] were made to the Scotiabank account. Although Mr. Semenov testified that the funds supposedly used to make those four deposits came from his father‑in-law or his wife (which explanations I have not accepted), in order to give Mr. Semenov the benefit of the doubt, I have considered whether the US$9,000 allegedly paid by Valeriy to Mr. Semenov in the summer of 2010 could have been the source of those four Subject Deposits in January 2011. However, if such was the case, it seems odd that there were four deposits to the Scotiabank account that month, rather than only one.
+[45] A further difficulty that I have is that each of the Subject Deposits in January 2011 was a round number (i.e., $2,600, $1,500, $2,000 and $1,500). Given that the alleged loan repayment by Valeriy in 2010 was in US currency, one would have expected that the Canadian-currency equivalent thereof would not have been a round number, but would have been a number reflecting the fact that the exchange rate most likely would not have resulted in the Canadian equivalent amount being a round number.
+(d) Alleged Repayment(s) in 2011
+[46] Notwithstanding that he had previously told the CRA auditor that he received three loan repayments from Valeriy Brylev, Mr. Semenov testified that he received only two repayments and that the second repayment was in 2011, when he received a personal cheque in the approximate amount of $13,000, which he deposited in one of his personal bank accounts. [64] However, in reviewing the Subject Deposits, I did not find any deposit that was in the amount of $13,000 or an amount approximately equal thereto.
+[47] If, however, several cheques (totalling $12,990) were provided by Valeriy Brylev to Mr. Semenov in 2011, as Mr. Semenov apparently told the CRA, [65] perhaps there was a connection between those cheques and the Subject Deposits in the amounts of $7,090 and $5,900 (totalling $12,990) made on January 13, 2011 and June 7, 2011 respectively to the BMO joint account. [66] During his examination-in-chief, Mr. Semenov seemed to suggest that this was the case, although he could not “guarantee it.” [67] Mr. Semenov’s testimony was as follows:
+MR. SEMENOV: … we [my wife and I] opened this [BMO joint] account just to –– in order to try to save some money. And I believe –– I believe I deposit –– these two amounts I believe I deposit from –– I cannot guarantee, but mostly from this person who returned for me loan for personal loan. I cannot guarantee it, but most likely.
+THE COURT: … Did you say these were amounts deposited as a personal loan that ––
+MR. SEMENOV: Yeah, it’s from ––
+THE COURT: –– you received or from a personal loan that was being repaid?
+MR. SEMENOV: Repaid from Igor Brylov [sic]. [68]
+[48] However, if Valeriy Brylev gave to Mr. Semenov two cheques in the respective amounts of C$7,090 and C$5,900 in 2011 and if those cheques were the source of the Subject Deposits in the same amounts made on January 13, 2011 and June 7, 2011 to the BMO joint account, the impact of those deposits on these Appeals may not be significant, given that, as explained above, it appears that the CRA did not include those two deposits in computing the amount of income for which Mr. Semenov and Belca were reassessed. [69] If the CRA auditor accepted Mr. Semenov’s assertion that cheques from Valeriy Brylev were used to make the two deposits in 2011 to the BMO joint account, that might explain why the CRA apparently did not include the BMO Subject Deposits in computing the amount of income for which Belca and Mr. Semenov were respectively reassessed for 2011.
+[49] Given that Mr. Semenov has stated in his testimony that, although he “cannot guarantee it,” he believes that the two deposits in 2011 to the BMO joint account were “most likely” made with money given to him by Valeriy Brylev in partial repayment of the loan previously advanced to Igor Brylev, [70] it follows that those funds (if actually paid by Valeriy Brylev to Mr. Semenov) could not have been the source of any of the other Subject Deposits.
+(2) Finding
+[50] For the reasons explained above, the evidence of the alleged loan repayments by Valeriy Brylev is not sufficient to satisfy Mr. Semenov’s burden of proving on a balance of probabilities that those repayments were the source of one or more of the Subject Deposits to the Scotiabank account or the CIBC account. However, that evidence may be sufficient to support a viable and reasonable hypothesis to the effect that the Subject Deposits had a non-taxable source, [71] which will be discussed below.
+F. Shareholder Loan Account
+[51] The CRA identified three amounts in 2011 and one amount in 2012 that were added by Belca to the shareholder loan account in respect of Mr. Semenov, without any indication that Mr. Semenov had paid those amounts to Belca. Those four credit entries to the shareholder loan account are tabulated below: [72]
+Table 12
+Date
+Description
+Amount
+March 28, 2011
+Shareholder contribution
+$4,000.00
+December 31, 2011
+Payment to worker
+5,360.00
+December 31, 2011
+Other journal entry
+1,017.84
+Total for 2011
+$10,377.84
+November 15, 2012
+Shareholder contribution
+$2,452.00
+Total for 2012
+$2,452.00
+The CRA treated those four credit entries as taxable benefits under subsection 15(1) of the ITA. Those amounts are discussed in more detail below.
+(1) Purported Shareholder Contributions
+[52] In March 2011 the amount of $4,000 was deposited to Belca’s account at Scotiabank, and in November 2012 the amount of $2,452 was deposited to the same account. Both deposits were recorded by Belca as shareholder contributions. The CRA could not find any information, including any withdrawal or transfer from Mr. Semenov’s personal bank accounts, to confirm that he personally was the source of those funds. Accordingly, the CRA treated each deposit as unreported business revenue of Belca and as a taxable shareholder benefit conferred by Belca on Mr. Semenov.
+[53] Rita Leung, one of the CRA auditors, testified on behalf of the Crown and explained that the CRA had assumed that Mr. Semenov appropriated some of Belca’s sales revenue, in the respective amounts of $4,000 in 2011 and $2,452 in 2012, then deposited the money representing that revenue in Belca’s bank account, and caused Belca to record the deposits as shareholder contributions. Accordingly, the CRA included each amount in the income of both Belca and Mr. Semenov. [73]
+[54] I have reviewed Belca’s Scotiabank deposit book for the period March 7, 2012 to December 3, 2012. [74] I did not see any deposit in the amount of $2,452 that was made on November 15, 2012 (the date shown in Table 12). However, a deposit in that amount was made on November 2, 2012. The entries in the deposit book show that on November 2, 2012, two cheques were deposited as follows:
+Table 13
+Description
+Amount
+QSU
+$452.00
+St. Nicol Cp. [75]
+2,000.00
+Total
+$2,452.00
+No explanation was provided by Ms. Leung for the difference in dates; however, it appears that the bank deposit may have been made on November 2, 2012, while the entry in the shareholder loan account was made as of November 15, 2012. As no deposit book for 2011 was put into evidence, I was unable to ascertain whether Belca deposited $4,000 to its Scotiabank account on or about March 28, 2011.
+[55] Mr. Semenov did not provide any evidence to explain the above two deposits or the entries in the shareholder loan account, or to refute the assumptions made by the CRA in respect of those deposits and entries. On the first day of the hearing, counsel for the Appellants referred to the four entries to the shareholder loan account, but he did not produce any evidence in respect of the $4,000 and $2,452 entries. [76] During his oral submissions, counsel for the Appellants suggested that there was an element of double counting in the CRA’s treatment of the $4,000 deposit and the $2,452 deposit. However, as I was not provided with any oral or documentary evidence (apart from Ms. Leung’s evidence) to explain the transactions that gave rise to the above two entries in the shareholder loan account, Mr. Semenov and Belca have failed to demolish the Minister’s assumptions in respect of those entries.
+(2) Payment to Worker
+[56] On December 31, 2011 the amount of $5,360 was credited by Belca to the shareholder loan account of Mr. Semenov. It appears that, when explaining this credit entry to the auditor, Mr. Semenov stated that he had made a payment of that amount on behalf of Belca to Francis (Frank) Shelton, who was a bus driver who worked for Belca. [77] Mr. Semenov testified that Mr. Shelton asked him to save some of the money that would otherwise be paid by Belca to him “almost every pay day or every month, let’s say” and then to pay him later. [78] Mr. Semenov also stated that “by the end of –– I believe before Christmas or whatever,” [79] Mr. Shelton asked Mr. Semenov for the money that had been held back from Mr. Shelton’s remuneration, and Mr. Semenov paid him. [80]
+[57] Mr. Semenov did not provide any other details of the arrangement. For instance, he did not explain whether Belca paid the entire amount of each invoice to Mr. Shelton, who then took some of that money and gave it to Mr. Semenov to be held by him until Mr. Shelton needed it, or whether Belca paid to Mr. Shelton an amount less than the full amount owing in respect of each invoice, and retained the balance. If the former situation occurred, it was Mr. Semenov who owed money to Mr. Shelton, such that, when Mr. Semenov made the payment on December 31, 2011, he would have been discharging his own liability to Mr. Shelton, and this would not have been something to be recorded in the shareholder loan account. If the latter situation occurred (i.e., if Belca had held back some of the remuneration owed to Mr. Shelton), it would have been Belca (and not Mr. Semenov) who made the subsequent payment to Mr. Shelton. Either way, there would have been no credit to the shareholder loan account. Perhaps a combination of the above two possibilities occurred (i.e., Belca held back a portion of Mr. Shelton’s remuneration and Mr. Semenov used his own money to pay Mr. Shelton). Mr. Semenov did not offer any indication of precisely what actually occurred. Furthermore, Mr. Semenov did not call Mr. Shelton to testify at the hearing of these Appeals.
+[58] In view of the concerns raised in the previous paragraph and the lack of evidence at the hearing in respect of the $5,360 payment to Mr. Shelton, Mr. Semenov has failed to prove on a balance of probabilities that the credit entry to the shareholder loan account (in respect of the $5,360 payment to Mr. Shelton) represented the payment by Mr. Semenov of a liability on behalf of Belca.
+(3) Other Journal Entry
+[59] As described by the CRA, on December 31, 2011, there was a journal entry recording a “debit to Sales deposits and credit to Cash account” in the amount of $1,017.84. [81] As Mr. Semenov did not provide the CRA with any information to show that he had actually paid the amount of $1,017.84 to Belca, the CRA treated the credit entry in that amount as representing a taxable benefit. During his testimony, Mr. Semenov did not provide any explanation of this particular entry. Therefore, he has not proven on a balance of probabilities that the Minister’s assumption in respect of that entry was incorrect.
+G. Other Shareholder Benefits
+[60] As indicated above, the CRA treated the Subject Deposits and the above entries to the shareholder loan account as benefits conferred by Belca on Mr. Semenov in his capacity as a shareholder, so as to be taxable under subsection 15(1) of the ITA. In addition to those amounts, the CRA also treated as shareholder benefits certain expenditures made by Belca in 2012 on behalf of Mr. Semenov, for purchases from the following merchants in the following amounts:
+Table 14
+Merchant
+Amount
+Browns
+$338.98
+Holt Renfrew
+207.02
+Hugo Boss
+79.09
+Total
+$625.09
+[61] Mr. Semenov did not provide any oral or documentary evidence concerning the above expenditures. Therefore, he has not proven on a balance of probabilities that the above items should not have been included in computing his income for 2012.
+H. Subcontractor Income
+[62] During the course of its audit, the CRA found that Belca had deducted, as an expense, the amount of $5,900 apparently paid by it in 2011 to Mr. Semenov in respect of invoices issued to Belca by him in his capacity as a subcontractor. In reviewing Mr. Semenov’s income tax return for 2011, the CRA found that the subcontractor income in the amount of $5,900 had not been reported by him. [82] Thus, when reassessing Mr. Semenov for 2011, as stated in subparagraph 12(t) of the Reply in respect of Mr. Semenov’s Appeal, the Minister assumed that, in 2011, Mr. Semenov, as a subcontractor, provided services to, and received remuneration from, Belca in the amount of $5,900, which he failed to report. Apart from the CRA’s documents contained in Exhibit A-1, Mr. Semenov did not provide any oral or documentary evidence in respect of this assumption concerning the $5,900 of subcontractor income. Accordingly, Mr. Semenov has failed to demolish this assumption.
+I. Advertising Expenses
+[63] In 2012 Belca purchased beverages from the Liquor Control Board of Ontario for a price of $1,623.75, and treated the entire expenditure as an advertising expense. It appears that the CRA applied subsection 67.1(1) of the ITA and allowed only 50% of that amount as a deductible expense, and disallowed the deduction of the other 50%.
+[64] Belca also treated as advertising expenses the payments made to the merchants, as set out in Table 14, above. The CRA disallowed those expenses, as well, resulting in total disallowed advertising expenses in 2012 as follows:
+Table 15
+Disallowed expense
+Amount
+50% of beverage cost
+$811.87
+Browns
+338.98
+Holt Renfrew
+207.02
+Hugo Boss
+___79.09
+Total
+$1,436.96
+[65] During the hearing, counsel for Mr. Semenov and Belca stated that it did not make economical sense to contest the disallowance of the deduction of the $1,437 (rounded) of advertising expenses. Accordingly, Belca conceded that those expenses were properly disallowed. [83]
+J. Concessions by the Crown
+[66] In subparagraphs 12(l) through (n) of the Reply in Mr. Semenov’s Appeal, the Crown stated that, in determining Mr. Semenov’s tax liability for 2012, the Minister assumed that the total of the Subject Deposits for that year was $19,390.35. Later in the Reply, the Crown advised that, in calculating the quantum of unreported sales for 2012 (and, hence, the amount to be included in Mr. Semenov’s income as a shareholder benefit for the purposes of the 2012 Reassessment), the Minister had inadvertently used the amount of $19,930, instead of the amount of $19,390. In other words, the amount of additional income included by the Minister in computing Mr. Semenov’s income for 2012 was excessive to the extent of $540 (i.e., $19,930 − $19,390).
+[67] In subparagraphs 8(n) through (p) of the Reply in Belca’s Appeal, the Crown stated that, in determining Belca’s tax liability for 2012, the Minister assumed that the total of the Subject Deposits for that year was $19,390.35. Later in the Reply, the Crown advised that, in calculating the quantum of unreported sales for 2012 (for the purposes of the 2012 Reassessment), the Minister had inadvertently used the amount of $19,930, instead of the amount of $19,390. In other words, the amount of additional income included by the Minister in computing Belca’s income for 2012 was excessive to the extent of $540 (i.e., $19,930 − $19,390).
+[68] During his oral submissions on the second day of the hearing of these Appeals, counsel for the Crown acknowledged the above errors committed by the Minister in reassessing Mr. Semenov and Belca, and conceded that the Appeals should be allowed to the extent of reducing the income of Mr. Semenov and the income of Belca for 2012, each to the extent of $540.
+K. Reassessments After Normal Reassessment Periods
+[69] As indicated above, the reassessments issued by the Minister to Mr. Semenov and Belca for their respective 2011 taxation years were issued after the normal reassessment periods in respect of those years. Subparagraph 152(4)(a)(i) of the ITA provides that the Minister may make a reassessment of tax, interest or penalties for a taxation year after a taxpayer’s normal reassessment period in respect of the year if the taxpayer has made a misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the tax return for that year. The burden is on the Crown to prove that Mr. Semenov and Belca each made a misrepresentation and that the misrepresentation was attributable to neglect, carelessness, wilful default or fraud. [84] In explaining this burden, the Federal Court of Appeal stated the following:
+Although the Minister has the benefit of the assumptions of fact underlying the reassessment, he does not enjoy any similar advantage with regard to proving the facts justifying a reassessment beyond the statutory period, or those facts justifying the assessment of a penalty for the taxpayer’s misconduct in filing his tax return. The Minister is undeniably required to adduce facts justifying these exceptional measures. [85]
+Accordingly, neither Mr. Semenov nor Belca is subject to an evidentiary burden requiring them to demolish the assumptions of fact made by the Minister, as set out respectively in paragraph 13 of the Reply in Mr. Semenov’s Appeal and in paragraph 9 of the Reply in Belca’s Appeal.
+(1) Reassessment of Belca
+[70] The Crown introduced a composite exhibit, consisting of copies of the Audit Report in respect of Belca, the Assessment After Normal (Re)Assessment Period Recommendation Report in respect of Belca (the “Subsection 152(4) Report”) and the Penalty Recommendation Report in respect of Belca. [86] In the Subsection 152(4) Report, the CRA noted that the Subject Deposits did not reconcile with the sales reported by Belca on its income tax return (without indicating whether this was the return for 2011 or 2012).
+[71] By means of the oral testimony of Rita Leung (who was one of the CRA auditors who conducted the audits of Belca and Mr. Semenov), the subsection 152(4) Report, the Audit Reports and the Penalty Recommendation Reports that she prepared in respect of Belca and Mr. Semenov, [87] the CRA has provided evidence of the Subject Deposits. As explained above, only some of the Subject Deposits (to the extent of $14,500) were shown to be derived from non-taxable sources, meaning that the remainder of the Subject Deposits may have represented sales revenue that Belca failed to report. This constitutes a misrepresentation for the purposes of subparagraph 152(4)(a)(i) of the ITA. [88] As Belca, through its director and officer (i.e, Mr. Semenov), was aware of the Subject Deposits, it is my view that the failure to report the sales income allocable to the taxable portion of the Subject Deposits was attributable to neglect, carelessness or wilful default.
+[72] In addition, the credit entries in Belca’s shareholder loan account in respect of Mr. Semenov, as discussed in paragraphs 51-59 above, also constituted unreported sales revenue. The CRA has provided evidence of those credit entries, which would have been made by Belca through its director, officer or employee. Hence, in my view, those credit entries constitute misrepresentations attributable to neglect, carelessness or wilful default.
+(2) Reassessment of Mr. Semenov
+[73] As stated above, Exhibit R-1 contains a copy of the Assessment After Normal (Re)Assessment Period Recommendation Report in respect of Belca. The Crown did not produce a copy of a similar report in respect of Mr. Semenov.
+[74] As noted above, the Audit Report in respect of Mr. Semenov indicated that in 2011 he worked as a subcontractor for Belca and, pursuant to invoices issued by him, received remuneration in the amount of $5,900, which he did not report on his 2011 income tax return. [89] Mr. Semenov did not give any evidence concerning his work or remuneration as a subcontractor, nor did he testify in respect of the invoices referenced in the Audit Report. Mr. Semenov’s failure to report that remuneration on his income tax return constituted a misrepresentation for the purposes of subparagraph 152(4)(a)(i) of the ITA. As Mr. Semenov was apparently the author of the invoices for the $5,900 of subcontractor income, his failure to report that income was due to neglect, carelessness or possibly wilful default.
+[75] As discussed above, only some of the Subject Deposits (to the extent of $14,550) were shown to be derived from non-taxable sources, meaning that the remainder of the Subject Deposits, as well as likely representing unreported sales revenue of Belca, likely also represented taxable shareholder benefits conferred by Belca on Mr. Semenov, which he failed to report. [90] As Mr. Semenov made at least some of the Subject Deposits in the respective bank accounts, I have concluded that, for the purposes of subparagraph 152(4)(a)(i) of the ITA, there was a further misrepresentation attributable to neglect, carelessness or possibly wilful default.
+L. Penalties
+(1) Principles
+[76] Although I have found that the Minister had the right to assess Mr. Semenov and Belca for the 2011 taxation year after their normal reassessment periods in respect of that year, that finding is not determinative of whether the penalties assessed against them under subsection 163(2) of the ITA may be sustained. As stated in Yunus:
+Moreover, the law is well settled: the type of conduct by a taxpayer that justifies the Minister reopening statute-barred years, under subparagraph 152(4)(a)(i) of the ITA, does not necessarily justify the imposing of penalties under subsection 163(2) of the ITA. In fact, the provisions of subsection 163(2) are penal in nature and call for a higher degree of culpability. [91]
+The above statement is consistent with the following comment in Venne:
+It will be noted that for the penalty [under subsection 163(2)] to be applicable there appears to be a higher degree of culpability required, involving either actual knowledge or gross negligence, than is the case under subsection 152(4) for reopening assessments more than four [now three] years old where mere negligence seems to be sufficient. [92]
+[77] Subsection 163(3) of the ITA states that the burden of establishing the facts justifying the assessment of a penalty under subsection 163(2) is on the Minister. This is a meaningful burden, as explained in the Boileau case:
+Indeed, the Appellant was unable to contradict the basic elements of the net worth assessments. However, in my view, this is not sufficient for discharging the burden of proof which lies on the Minister. To decide otherwise would be to remove any purpose to subsection 163(3) by reverting the Minister’s burden of proof back onto the Appellant….
+… In effect, subsection 163(3) requires evidence of the intent or gross negligence of the contravenor. This, in my view, should be done in a structured, clear and convincing manner. [93]
+As noted above, the Minister does not have the benefit of the assumptions of fact with regard to proving the facts justifying the assessment of a penalty. [94] Therefore, neither Mr. Semenov nor Belca is subject to an evidentiary burden requiring them to demolish the assumptions of fact made by the Minister, as set out respectively in paragraph 13 of the Reply in Mr. Semenov’s Appeal and in paragraph 9 of the Reply in Belca’s Appeal.
+[78] Caution should be exercised in approving the imposition of penalties under subsection 163(2) of the ITA:
+A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged…. Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer’s conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted. [95] [Footnotes omitted.]
+Thus, it is necessary to determine whether there is a viable and reasonable hypothesis that could lead to the benefit of the doubt being given to Mr. Semenov and Belca.
+(2) Penalty Assessed against Mr. Semenov
+[79] Ms. Leung recommended that penalties under subsection 163(2) of the ITA be assessed against Mr. Semenov for both 2011 and 2012, and her team leader and section leader concurred with that recommendation. However, when the Reassessments were processed and the notices of reassessment were issued, for reasons unknown to Ms. Leung, only the penalty for 2011, and not the penalty for 2012, was assessed. [96]
+[80] The analysis undertaken by the CRA in deciding to assess a penalty against Mr. Semenov was explained by Ms. Leung as follows:
+The reason why we apply the penalty is because, when we look at the shareholder’s income that they reported, the shareholder’s, during the audit period, his yearly income was under $20,000. If you look at the unreported income, it is over $20,000, so it was more than what he reported on the tax return, and it was a material amount.
+And, also, because he was the only person that do all the daily activities for the business and he does the deposit, he prepared the deposit, he do the invoicing, so we, we say that he ought to have known that he has this income.
+And, if you see that the unreported income that goes into his personal bank account, it happens, like, on a regular basis, almost like monthly, so, with regular activities like that, we, we, we [sic] would conclude that he ought to have known and he was negligent in that. [97]
+The above statement suggests that, in conducting its penalty analysis, the CRA focused on whether the circumstances pertaining to Mr. Semenov amounted to negligence, and not on whether those circumstances amounted to gross negligence. However, elsewhere in her testimony, Ms. Leung referred to “the gross negligence penalty” and indicated that it was the position of the CRA that Mr. Semenov “was grossly negligence [sic] in … unreporting [sic] his income.” [98]
+[81] Another concern arises by reason of Ms. Leung’s explanation of the CRA’s decision to assess Mr. Semenov in respect of the $2,452 entry in the shareholder loan account on November 15, 2012. When asked whether the CRA had any evidence that Mr. Semenov did, in fact “pull out” (presumably meaning “withdraw”) from his shareholder loan account the $2,452, Ms. Leung appears to have misunderstood the question and responded as follows:
+Because we cannot when he’s when he claimed that he booked the journal entry into the shareholder loan account, saying that he put $2,452 into the account, we will see whether it comes out from his personal bank account, that he actually took out from his own pocket, put into the business, but we were unable to identify that the money come out from his own bank account, so and his only source of income is from the business, so we are deeming that he took the money from the business, put it into the shareholder loan account. [99] [Emphasis added.]
+The approach taken by the CRA in “deeming” Mr. Semenov to have taken money from Belca may be sufficient to support the assessment of tax, in respect of which the Minister has the benefit of being able to make assumptions of fact, which the taxpayer is then required to demolish, but it is not sufficient to support a finding that a taxpayer received income that he failed to report, so as to be liable to a penalty, given that the Minister does not have the benefit of making assumptions to support the penalty. [100] Admittedly, the $2,452 entry to the shareholder loan account was in 2012, for which the Minister did not assess a penalty against Mr. Semenov. However, as will be explained below in discussing the approach taken by the CRA in assessing a penalty against Belca, it appears that the “deeming” approach may have been applied by the CRA to more than the $2,452 entry in the shareholder loan account.
+[82] The audit of Mr. Semenov and Belca was commenced by a CRA auditor other than Ms. Leung. That other auditor conducted the initial interview with Mr. Semenov. [101] That other auditor prepared an interview questionnaire, which was made available to Ms. Leung when the file was transferred from the other auditor to her. [102] That other auditor did not testify, nor was the interview questionnaire put into evidence. [103] During her cross-examination, Ms. Leung also referred to a letter that Mr. Semenov had sent to the CRA, in which, in responding to a question about how much cash he kept outside his bank account, he apparently stated “minimal.” [104] Like the interview questionnaire, that letter from Mr. Semenov was not put into evidence, nor was it made available to counsel for the Appellants when he made a request under the Privacy Act. [105]
+[83] The Audit Report in respect of Mr. Semenov states that the records that were examined by the CRA during the course of its audit were the T1 information from the CRA internal mainframe system, the T2 audit file and the working papers of The X Y Centre Limited (the “Centre”). [106] The X and the Y in the previous sentence refer to identifying words, which I have redacted, in the name of a taxpayer that was not Belca or Mr. Semenov and that was not related to Belca or Mr. Semenov. During her cross-examination, Ms. Leung acknowledged that the reference in the Audit Report to the Centre was a mistake and was intended to refer to Belca. [107] Ms. Leung explained that, when she prepared the Audit Report in respect of Belca, she was copying and pasting from the file maintained by the CRA in respect of the Centre. [108] It is likely that, in using the “copy and paste” method to draft the Audit Report, the CRA changed any references to the Centre in the original document so as to show the applicable factual information in respect of Belca and Mr. Semenov (apart from the reference to the Centre noted above). However, there is no certainty that such was the case.
+[84] For the reasons discussed above (which are summarized below), I am not persuaded that the Crown has proven on a balance of probabilities that Mr. Semenov, knowingly or under circumstances amounting to gross negligence, made, participated in, assented to or acquiesced in the making of a false statement or omission in his 2011 income tax return. Those reasons are:
+a) the Crown did not adduce all available evidence, including a copy of the interview questionnaire prepared by the auditor who interviewed Mr. Semenov and a copy of the letter that Mr. Semenov sent to the CRA;
+b) the CRA’s decision to impose penalties appears to have been based on deemed or assumed (rather than proven) unreported income; and
+c) there is a risk (perhaps remote) that, by copying and pasting from another taxpayer’s audit report, there may be errors in the Audit Report in respect of Mr. Semenov.
+[85] Furthermore, as noted above, the Farm Business Consultants case indicates that, if there are two viable and reasonable hypotheses, one of which justifies the assessment of a penalty and the other of which does not, the benefit of the doubt is to be given to the taxpayer and the penalty is to be cancelled. [109] It is the position of Mr. Semenov that the Subject Deposits were derived from loans by Mr. Li or from loan repayments by Valeriy Brylev. Although Mr. Semenov has proven on a balance of probabilities that only $14,550 of the Subject Deposits were derived from a loan by Mr. Li to Mr. Semenov, I am not satisfied that the remainder of the Subject Deposits constituted unreported income for the purposes of assessing penalties under subsection 163(2) of the ITA. The evidence was sufficient to persuade me that the position of Mr. Semenov is a viable and reasonable hypothesis concerning the source of the Subject Deposits, which leads me, for the purposes of subsection 163(2), to give the benefit of the doubt to Mr. Semenov. Accordingly, Mr. Semenov is not liable to the penalties assessed against him in respect of 2011.
+(3) Penalties Assessed Against Belca
+[86] The CRA assessed penalties under subsection 163(2) of the ITA against Belca for both 2011 and 2012.
+[87] In the Audit Report prepared by the CRA in respect of Belca, the auditor stated the following under the heading “Nature and Extent of Indirect Tests”:
+Bank deposits analysis and rough source and application of funds were performed. Rough Source and Application of funds revealed no discrepancy after taking into account the shareholder withdrawals. [110] [Emphasis added.]
+Under the heading “Unreported Sales” the auditor stated:
+Bank deposits analysis was conducted on the corporation’s business bank account as well as the shareholder’s personal bank accounts. The analysis involves looking at each deposit made during the audit period, deducting identified non-sales deposits (such as tax refunds, bank errors, etc), and compare the remaining deposits to the revenue reported on the income tax return. There is an immaterial discrepancy between the total revenues reported on the income tax return and the total sales deposits made to the corporation’s business bank account. However, the shareholder’s personal bank accounts revealed material discrepancy. Majority of the transactions were in rounded amounts and were evenly distributed throughout the year. [111] [Emphasis added.]
+[88] In the Penalty Recommendation Report prepared by the CRA in respect of Belca, the following is stated:
+Materiality of unreported sales is moderate compared to reported sales. However, the unreported sales were all deposited to the shareholder’s personal accounts. The amount of total unidentified deposits was material compared to the shareholder’s reported income on his T1 return. [112] [Emphasis added.]
+Based on the above excerpt from the Penalty Recommendation Report in respect of Belca, it appears that the materiality of the unreported sales identified by the CRA was moderate compared to the reported sales.
+[89] In the context of the penalties assessed against Belca under subsection 163(2) of the ITA, the following exchange occurred during the cross‑examination of Ms. Leung:
+Q. … I’m asking you what the basis is for the corporation’s gross negligence penalties when you’re saying in the report that there is no difference in the sales reported between the corporation and the bank account.
+A. … Because the shareholder’s only source of income is from this corporation, he doesn’t have any businesses, so, when monies goes into his account, that is, like, so it has to be from somewhere, so we are deeming it from the corporations. That’s why we are also applying penalty onto the corporation. [113] [Emphasis added.]
+In essence, Ms. Leung’s answer indicates that the Minister assumed that Belca had earned certain income, which is sufficient to support an assessment of income tax, but is not sufficient to support an assessment of a penalty. [114]
+[90] One of the facts that the Minister assumed in deciding to assess penalties against Belca was that Belca’s books and records for 2011 and 2012 were incomplete and inadequate. [115] One of the complaints that the CRA had about Belca’s books and records was that the source documents were sorted by month, but not bundled by category. [116] In her testimony, Ms. Leung stated that Belca, when initially requested by the CRA, did not organize the documents the way they should have been organized for the audit. [117] Another complaint that the CRA had was that some source documents were missing and the mileage log book was not maintained. [118] However, counsel for the Appellants pointed out that the motor vehicle expenses claimed by Belca were allowed in full at the appeals stage. [119]
+[91] In conducting its audit, the CRA did not perform any third-party analysis in respect of Belca’s customers. It appears that the CRA did not review the invoices issued by Belca to its customers, nor did the CRA ask any third parties about whether they had paid Belca by cheque or in cash. [120]
+[92] Given that:
+a) the Audit Report in respect of Belca determined that there was an immaterial discrepancy between the total revenues reported on Belca’s income tax returns and the total sales deposits made to its bank account;
+b) the Penalty Recommendation Report in respect of Belca stated that the materiality of unreported sales was moderate compared to reported sales;
+c) the CRA’s determination that Belca had unreported income was deemed or assumed, rather than proven;
+d) the CRA failed to produce the interview questionnaire prepared by the auditor who interviewed Mr. Semenov and the letter sent to the CRA by Mr. Semenov;
+e) the CRA’s concerns about the books and records of Belca were more organizational than substantive;
+f) the CRA did not conduct any third-party analysis to verify its assumptions concerning Belca’s unreported income; and
+g) the submission by the Appellants that the Subject Deposits were derived from loans by Mr. Li or from loan repayments by Valeriy Brylev is a viable and reasonable hypothesis, prompting me to give the benefit of the doubt to Belca; [121]
+I have concluded that the Crown has failed to prove that Belca knowingly, or under circumstances amounting to gross negligence, made, participated in, assented to or acquiesced in the making of a false statement or omission in its income tax returns for 2011 and 2012. Accordingly, Belca is not liable to the penalties assessed against it in respect of 2011 and 2012.
+V. CONCLUSION
+[93] For the reasons set out above, these Appeals are allowed and the Reassessments are referred back to the Minister for reconsideration and reassessment on the basis that:
+a) as conceded by the Crown, the respective amounts of Mr. Semenov’s income and Belca’s income for 2012 are to be reduced by the amount of the mathematical error committed and acknowledged by the Minister (i.e., $540);
+b) the Small Deposits (being the amounts of $60 deposited to the Scotiabank account on February 22, 2011, $162.64 deposited to the Scotiabank account on March 24, 2011, and $85.51 deposited to the CIBC account on September 19, 2011) are not to be included in computing Mr. Semenov’s or Belca’s income for 2011;
+c) if the Reassessments for 2011 included the amounts of $7,090 and $5,900 deposited on January 13, 2011 and June 7, 2011 respectively to the BMO joint account, the total of the Subject Deposits that may be treated by the Minister as unreported income of Mr. Semenov and Belca is limited to the amounts set out in the assumptions in the respective Replies, i.e., $24,879.15, less the amount of the exclusion specified in subparagraph e) below;
+d) if the Reassessments for 2011 did not include the amounts of $7,090 and $5,900 deposited on January 13, 2011 and June 7, 2011 respectively to the BMO joint account, those amounts are not to be included in computing the income of Mr. Semenov and Belca for the purposes of the new reassessments;
+e) the amount of $14,550, being the Canadian-currency equivalent of the amount of US$15,000 that was the subject of the Personal Loan Contract dated March 10, 2011 and that was loaned by Mr. Li to Mr. Semenov, is not to be included in computing Mr. Semenov’s or Belca’s income for 2011;
+f) the penalties imposed under subsection 163(2) of the ITA are not justified; and
+g) in all other respects the Reassessments are confirmed.
+[94] As success has been divided, I am not making any award as to costs.
+Signed at Ottawa, Canada, this 21st day of March 2018.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2018 TCC 58
+COURT FILE NO.:
+2016-2636(IT)I, 2016-2637(IT)I
+STYLE OF CAUSE:
+ANDREI SEMENOV AND HER MAJESTY THE QUEEN AND BELCA TOURS & COACH INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+April 7, 2017 and September 7, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+March 21, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Adam Serota
+Counsel for the Respondent:
+Kanga Kalisa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Adam Serota
+Firm:
+BRS Tax Lawyers LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c. 1 (5th supplement), as amended.
+[2] Transcript, April 7, 2017, p. 46, lines 9-16.
+[3] Ibid., p. 47, lines 4-9.
+[4] Ibid., p. 57, lines 6-8; Exhibit A-1, Tab 7, p. 1; and Exhibit R-1, fourteenth page.
+[5] Exhibit A-1, Tab 8. Although the Personal Loan Contract provided that the loan was to be denominated in Canadian currency, both Mr. Semenov and Mr. Li testified that the loan was actually advanced in US currency. In these Reasons, when discussing the Personal Loan Contract and the loans allegedly advanced by Mr. Li to Mr. Semenov, and in other situations where the context requires a distinction between Canadian and US currency, I will use “C$” to designate Canadian currency and “US$” to designate US currency. Elsewhere in these Reasons, I will simply use “$” to designate Canadian currency.
+[6] Exhibit A-1, Tab 9. This loan was denominated and advanced in Canadian currency.
+[7] Exhibit A-1, Tab 3 (2011) and Tab 4 (2012). There were no Subject Deposits to the BMO joint account in 2012.
+[8] Exhibit A-1, Tab 3.
+[9] Exhibit A-1, Tab 2.
+[10] See also the issue set out in subparagraph 2(c) above.
+[11] Exhibit A-1, Tab 2, p. 2.
+[12] Exhibit A-1, Tab 1.
+[13] Ibid., p. 3.
+[14] Transcript, September 7, 2017, p. 28, line 10 to p. 29, line 25.
+[15] Exhibit A-1, Tab 3.
+[16] Harris v MNR, [1965] 2 Ex. C.R. 653, ¶17; affirmed on other grounds, [1966] SCR 489; Rodgers v The Queen, 2004 TCC 171, ¶11; Petro-Canada v The Queen, 2004 FCA 158, ¶24, 65 & 68; Anonby v. The Queen, 2013 TCC 184, ¶28-30; Lubega-Matovu v The Queen, 2016 FCA 315, ¶26; and Murji v The Queen, 2018 TCC 7, ¶65.
+[17] Exhibit A-1, Tab 3, p. 3/5.
+[18] Exhibit A-1, Tab 3, p. 4/5.
+[19] Ibid.
+[20] Exhibit A-1, Tab 4, p. 1/5.
+[21] Exhibit A-1, Tab 4, p. 2/5.
+[22] Transcript, April 7, 2017, p. 56, lines 1-5.
+[23] Ibid., p. 69, lines 23-28.
+[24] Exhibit A-3.
+[25] This description and others in this table are reproduced as they appear in the deposit book. The descriptions in the deposit book are handwritten and some of them are difficult to read, such that they might not be reproduced correctly in the above table.
+[26] The entry in the deposit book for August 13, 2012 shows a cheque from Proser JCC in the amount of $5,000 and, immediately below that entry, another entry written unclearly as “II”, “11” or large ditto marks (i.e., "). For the purposes of the above table, I have construed that entry as being ditto marks, indicating that the $100 cheque was drawn by Proser JCC, as was the $5,000 cheque.
+[27] The acronym “IFTA” was not explained during the hearing. The reference to “IFTA” in the deposit book may be a reference to the International Fuel Tax Agreement, which I understand is a cooperative agreement among the Canadian provinces and most American states to make it easier for interjurisdictional carriers to report and pay taxes on the motor fuels that they use. See the Ontario Ministry Finance website under the heading “International Fuel Tax Agreement”.
+[28] On March 22, 2012 there was a $200 deposit to Mr. Semenov’s CIBC account. However, as Exhibit A-3 shows that there was a $200 cheque deposited on July 10, 2012, I am prepared to exclude only deposits that were less than, and not equal to, $200.
+[29] Transcript, April 7, 2017, p. 21, lines 21-26.
+[30] Ibid., p. 33, lines 12-16.
+[31] For instance, see Transcript, April 7, 2017, p. 66, lines 8-13 (“I’m not sure…. I don’t really remember”) & lines 22-25 (“I cannot guarantee it, but most likely”); p. 92, line 23 (“I cannot remember); p. 93, lines 13-14 (“I’m not sure”) & lines 24-25 (“But from where money come [to Mr. Li], I cannot guarantee it”); and p. 96, lines 16-17 (“I don’t know…. I’m not sure”).
+[32] Exhibit A-1, Tab 8.
+[33] Transcript, April 7, 2017, p. 35, lines 12-27; p. 82, lines 3-24; and p. 117, lines 5-7 & 13-18. However, it should be noted that, during her direct examination, Ms. Li initially stated that the $15,000 loan was advanced in US currency (ibid., p. 117, lines 5-7); then, upon being referred to a copy of the Personal Loan Contract, she stated that the $15,000 was advanced in Canadian currency (ibid., p. 117, lines 8-12), and then upon being asked a clarifying question by counsel for the Appellant, she stated that the loan advance was in US currency, after which it was exchanged for Canadian currency (ibid., p. 117, lines 13-18).
+[34] Ibid., p. 89, line 27 to p. 90, line 5. The Crown did not produce any evidence concerning the US–Canadian exchange rate on March 10, 2011. The Supreme Court of Canada has indicated that a court may properly take judicial notice of facts that are capable of immediate and accurate demonstration by resort to readily accessible sources of indisputable accuracy; see R. v Krymowski, (2005) 249 DLR (4th) 28 (SCC); The Queen v Find, 2001 SCC 32; and The Queen v Spence, 2005 SCC 71. Accordingly, as a means of confirming Mr. Semenov’s testimony, I am prepared to take judicial notice that the Bank of Canada reported that on March 10, 2011 the lowest spot rate for the US dollar was 0.97090000, the noon spot rate for the US dollar was 0.97310000 and the closing spot rate for the US dollar was 0.97560000 (see Table 176-0067 – Foreign Exchange Rate in Canada Dollars, Bank of Canada, Daily, CANSIM Database (Archived), http://www5.statcan.ca/cansim/a47#archived, accessed March 13, 2018), and that another currency-conversion website stated that on March 10, 2011 US$1 was equivalent to C$0.97300 (see https://www.exchange-rates.org/Rate/USD/CAD/3-10-2011, accessed December 29, 2017).
+[35] Transcript, April 7, 2017, p. 20, lines 3-14; and p. 24, lines 16-17.
+[36] Ibid., p. 24, lines 24-25.
+[37] Ibid., p. 80, lines 23-24.
+[38] Ibid., p. 92, line 13.
+[39] Ibid., p. 117, lines 1-4.
+[40] Ibid., p. 20, lines 3-14; and p. 24, lines 16-17.
+[41] Ibid., p. 92, lines 1-3. In his testimony, in this instance, Mr. Semenov used the word “gave,” rather than “loaned.”
+[42] Ibid., p. 92, lines 3-4.
+[43] Ibid., p. 92, lines 4-5.
+[44] Ibid., p. 20, lines 3-14.
+[45] Ibid., p. 117, lines 25-28.
+[46] Ibid., p. 123, lines 2-7.
+[47] Exhibit A-1, Tab 3, p. 1. As well, see Table 4 above.
+[48] Transcript, April 7, 2017, p. 91, lines 17-23.
+[49] Ibid., p. 91, line 24 to p. 92, line 5.
+[50] Ibid., p. 92, lines 6-28.
+[51] Ibid., p. 93, lines 1-3. Mr. Semenov seems to have been somewhat confused, as he suggested that the borrowing in 2009 was just after his parents-in-law came to Canada; however, Mr. Li testified that he came to Canada on November 30, 2005 (ibid., p. 18, line 17). Another point to note is that, if Mr. Li loaned money to Mr. Semenov in 2009, the source of those funds could not have been the US$20,000 that Mr. Li brought back from Kazakhstan in 2010.
+[52] Ibid., p. 93, lines 9-14. Ms. Li was employed at a rehabilitation clinic.
+[53] Ibid., p. 91, lines 8-16.
+[54] Ibid., p. 66, lines 3-4; and p. 98, lines 11-28.
+[55] See Farm Business Consultants Inc. v The Queen, [1994] 2 CTC 2450 at 2457, 95 DTC 200 at 205-206 (TCC), ¶28; aff’d, [1996] 2 CTC 200, 96 DTC 6085 (FCA).
+[56] Exhibit A-1, Tab 9.
+[57] Transcript, April 7, 2017, p. 49, line 17 to p. 50, line 10.
+[58] Exhibit A-1, Tab 1, p. 4; Tab 6, p. 4; and Tab 7, p. 4; and Exhibit R-1, p. 4.
+[59] Transcript, April 7, 2017, p. 50, lines 18-20. Mr. Semenov’s testimony did not indicate whether this amount was in Canadian or US currency.
+[60] Ibid., p. 105, line 22 to p. 106, line 12.
+[61] Ibid., p. 108, line 26 to p. 109, line 4.
+[62] Ibid., p. 110, lines 2-23.
+[63] Those four Subject Deposits were $2,600 on January 18, 2011, $1,500 on January 19, 2011, $2,000 on January 25, 2011 and $1,500 on January 31, 2011. See Table 4 above.
+[64] Transcript, April 7, 2017, p. 49, line 16; and p. 50, lines 18-20.
+[65] Exhibit A-1, Tab 1, p. 4; Tab 6, p. 4; and Tab 7, p. 4.
+[66] See Exhibit A-1, Tab 3, p. 2. See also Table 6 above.
+[67] Transcript, April 7, 2017, p. 66, line 14 to p. 67, line 4.
+[68] Ibid., p. 66, line 20 to p. 67, line 4.
+[69] See paragraphs 10-12 above.
+[70] Transcript, April 7, 2017, p. 66, line 25.
+[71] See Farm Business Consultants (TCC), supra note 55, ¶28.
+[72] Exhibit A-1, Tab 4, last page.
+[73] Transcript, September 7, 2017, p. 30, line 7 to p. 34, line 21.
+[74] Exhibit A-3.
+[75] This description is reproduced as it appears in the deposit book. The description in the deposit book is handwritten and difficult to read, such that it might not be reproduced correctly in the above table.
+[76] Transcript, April 7, 2017, p. 63, line 19 to p. 64, line 7.
+[77] It is not clear whether Mr. Shelton worked as an independent contractor or as an employee of Belca. On May 8, 2009, Mr. Shelton submitted to Belca a document entitled “Application for Employment,” the third page of which contained the phrase “In the event of employment, I understand that false or misleading information given in my application or interview(s) may result in discharge,” which seems to imply that Mr. Shelton was applying to be employed by Belca. As well, on the same day he signed a Consent, which stated, “I understand that Compliance with the Drug free [sic] Workplace Program is a term and condition of employment at the Company.” However, on August 15, 2009 Belca and Mr. Shelton entered into an Independent Contractor Agreement. Copies of the foregoing documents are contained in Exhibit A‑4. In these Appeals, nothing turns on whether Mr. Shelton was an employee or an independent contractor.
+[78] Transcript, April 7, 2017, p. 68, lines 3-6.
+[79] Ibid., p. 68, lines 10-11.
+[80] Ibid., p. 67, line 6 to p. 69, line 21.
+[81] Exhibit A-1, Tab 4, last page.
+[82] Exhibit A-1, Tab 2, p. 3.
+[83] Transcript, April 7, 2017, p. 133, line 23 to p. 134, line 16. Although counsel for Mr. Semenov and Belca, in making the above concession, did not say so, it would seem to follow that Mr. Semenov was, in essence, conceding that the aggregate price of the purchases at Browns, Holt Renfrew and Hugo Boss, which Belca paid on his behalf, was properly includable in computing his income. In any event, as noted above, Mr. Semenov did not provide any evidence in respect of those expenditures.
+[84] Yunus v The Queen, 2015 TCC 272, ¶85; Dao v The Queen, 2010 TCC 84, ¶32; and MNR v Taylor, [1961] CTC 211 at 214, 61 DTC 1139 at 1141 (Ex.).
+[85] Lacroix v The Queen, 2008 FCA 241, ¶26.
+[86] Exhibit R-1. Copies of the Audit Report and the Penalty Recommendation Report in respect of Belca are also found in Exhibit A-1, Tabs 1 and 7 respectively.
+[87] Exhibit A-1, Tabs 1, 2, 6 and 7.
+[88] As indicated in Yunus, supra note 84, ¶87, a discrepancy between income determined according to a cash flow analysis (which presumably includes a bank deposit analysis) and income reported on an income tax return is sufficient to enable a court to conclude that there was a misrepresentation.
+[89] Exhibit A-1, Tab 2, p. 3.
+[90] As noted above, a discrepancy between income determined according to a cash flow or bank deposit analysis and income reported on a tax return is sufficient to conclude that there was a misrepresentation; see Yunus, supra note 84, ¶87.
+[91] Yunus, supra note 84, ¶93. See also Dao, supra note 84, ¶39.
+[92] Venne v The Queen, [1984] CTC 223 at 226, 84 DTC 6247 at 6249 (FCTD).
+[93] Boileau v MNR, [1989] 2 CTC 2001 at 2005-2006, 89 DTC 247 at 250 (TCC). See also Lacroix, supra note 85, ¶27.
+[94] Lacroix, supra note 85, ¶26.
+[95] Farm Business Consultants (TCC), supra note 55, ¶28. See also Lacroix, supra note 85, ¶28.
+[96] Transcript, September 7, 2017, p. 38, lines 1-12.
+[97] Ibid., p. 14, lines 2-18.
+[98] Ibid., p. 48, lines 5-7.
+[99] Ibid., p. 32, lines 16-25.
+[100] Lacroix, supra note 85, ¶26.
+[101] Transcript, September 7, 2017, p. 23, lines 16-23.
+[102] Ibid., p. 24, lines 7-15.
+[103] Ibid., p. 23, lines 27-28; and p. 39, line 26 to p. 40, line 10.
+[104] Ibid., p. 40, lines 11-14.
+[105] Ibid., p. 40, lines 15-20.
+[106] Exhibit A-1, Tab 2, p. 2.
+[107] Transcript, September 7, 2017, p. 17, line 25 to p. 18, line 8; and p. 45, line 16 to p. 46, line 2.
+[108] Ibid., p. 46, line 3 to p. 47, line 3.
+[109] Farm Business Consultants, supra note 55, ¶28.
+[110] Exhibit A-1, Tab 1, p. 2.
+[111] Exhibit A-1, Tab 1, p. 3.
+[112] Exhibit A-1, Tab 7, p. 2 & 5.
+[113] Transcript, September 7, 2017, p. 20, line 25 to p. 21, line 6.
+[114] Lacroix, supra note 85, ¶26.
+[115] Reply to the Notice of Appeal in respect of Belca, p. 3-4, ¶8(j) and 9(a).
+[116] Exhibit A-1, Tab 1, p. 2.
+[117] Transcript, September 7, 2017, p. 16, lines 24-28.
+[118] Exhibit A-1, Tab 1, p. 2; and Transcript, September 7, 2017, p. 17, lines 1-5.
+[119] Ibid., p. 17, lines 6-8.
+[120] Ibid., p. 21, lines 7-17; and p. 42, lines 17-25.
+[121] See paragraph 85 above; and Farm Business Consultants, supra note 55, ¶28.

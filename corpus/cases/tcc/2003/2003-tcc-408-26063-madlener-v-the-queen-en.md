@@ -1,0 +1,280 @@
+---
+title: "Madlener v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26063/index.do"
+last_modified: "2003-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 408"
+citation2: ""
+neutral_citation: "2003 TCC 408"
+decision_date: "2003-06-17"
+language: "en"
+item_id: "26063"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4058
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:03:04.079000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "411868039be4b27b90c3b152d7ed7e506b8e715520309781068814a92d9a5a0c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Madlener v. The Queen
+
+- Citation: 2003 TCC 408
+- Decision date: 2003-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4058, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Madlener v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-17
+Neutral citation
+2003 TCC 408
+File numbers
+2002-4803(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4803(IT)I
+BETWEEN:
+ROBERT MADLENER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 30, 2003, at Calgary, Alberta
+By: The Honourable Judge Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Jinnouchi
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1993, 1994 and 1995 taxation years are dismissed.
+Signed at Ottawa, Canada, this 17th day of June, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+Citation: 2003TCC408
+Date: 20030617
+Docket: 2002-4803(IT)I
+BETWEEN:
+ROBERT MADLENER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. Madlener filed nil returns in 1993 and 1994, and reported $290 of interest income in 1995. As a result of an investigation by Canada Customs and Revenue Agency (CCRA) of Mr. Madlener's and his father's affairs, the Minister of National Revenue (the Minister) ultimately reassessed net business income/(loss) in the amount of ($1,224), $19,271 and $28,787, respectively, for Mr. Madlener's 1993, 1994 and 1995 taxation years. The Minister also assessed penalties pursuant to subsection 163(2) of the Income Tax Act (the Act). Mr. Madlener appeals the reassessments by way of the informal procedure, maintaining he had no business income in the years in question. Mr. Madlener was unable to prove that he had no business income.
+[2] Mr. Madlener clearly had what might commonly be called a "run-in" with CCRA. He spent the first hour of his testimony describing in considerable detail the many encounters with CCRA, starting in 1998 (three years after the years in issue), with representatives of CCRA, Mr. Wayne Culp in particular. The seizure of his records by several CCRA officials, escorted by the Royal Canadian Mounted Police, was an unsettling initial exposure to CCRA. The length of time it took for him to retrieve his records from CCRA was also clearly an annoyance to Mr. Madlener. While it is not difficult to imagine how a taxpayer might react negatively to an investigation, such subsequent events, in this particular case, were of no probative value regarding the issues before me. Mr. Madlener did eventually get all his records back. Now, with those records, he is still unable to prove he had no business income.
+[3] Mr. Madlener had been a small business operator for some years prior to 1993. He had dabbled in a number of enterprises. During the years in question he was involved with three businesses; first, a disc jockey service (DJ) known as Twilight Sounds; second, a security services business in connection with his father's company, Door & Jamb Security Can Ltd. (Door & Jamb); and third, the sale of computer-related items. In connection with the DJ business, Mr. Madlener maintained that it was carried on by his numbered company. The registration of the trade name, Twilight Sounds, was in Mr. Madlener's name personally. No corporate records were provided in the form of invoices, receipts, ledgers, financial statements or anything at all to support a corporate involvement.
+[4] With respect to the security systems business, the evidence was unclear as to exactly how Mr. Madlener operated. He was involved with the sale of a product known as Bolt Buddies, though the exact relationship with Door & Jamb was sketchy, especially as to how Mr. Madlener was paid. There was sufficient evidence to conclude however that some, if not all, payments in connection with this business were received by Mr. Madlener personally. He maintained the payments were also made on a corporate basis, though again no ledgers or records were provided to support this contention.
+[5] Mr. Culp, the CCRA investigator, shed some light on Mr. Madlener's activities. CCRA's review of Door & Jamb's officers, along with a review of Mr. Madlener's books, which Mr. Culp described as inadequate, led him to the conclusion that sales were simply not accounted for. According to Mr. Culp, Mr. Madlener's general ledger for Twilight Sounds, reflected accurately invoices in and out of Twilight Sounds' bank account, yet Mr. Madlener had several other bank accounts whose activities were not reflected in any ledger. Twilights Sounds' ledger was not produced.
+[6] CCRA ultimately made a proposal to Mr. Madlener in February 1999, reflecting an inclusion in income of unreported sales over the three years in question. No agreement was reached, and Mr. Madlener was assessed on the basis of revenue and expenses as set forth in Schedules 'A', 'B' and 'C' attached.
+[7] Mr. Madlener provided a summary sheet at trial refuting several of CCRA's calculations. He specifically made 10 claims:
+First: $12,561.87 of what CCRA included in unreported income, Mr. Madlener claimed was a loan from the Royal Bank. Mr. Culp confirmed that such amount had not been included in Mr. Madlener's income.
+Second: $19,544.95 represented insurance claims, according to Mr. Madlener. He provided a list of the various claims over the three years. Mr. Culp confirmed that approximately $17,000 of that total was acknowledged to have been insurance claims and had not been included in income. The balance had not been proven by receipts or other supporting documentation. No further documentation in support of this difference was produced at trial.
+Third: Mr. Madlener claimed there had been a family loan of $6,000, of which CCRA had only acknowledged $3,000. Mr. Culp confirmed that none of the full $6,000 had been included in income.
+Fourth: Mr. Madlener claimed agent payments of approximately $36,000. This was in connection with the sale of Bolt Buddies, the security system business in Door & Jamb. Mr. Culp confirmed that wherever CCRA could match payments with Mr. Madlener's records, credit was given to such payments, even though there was no further corroboration.
+Fifth: Mr. Madlener calculated there were $7,811 worth of legitimate expenses that were disallowed. He provided a listing of such expenses. Mr. Culp went through the list and confirmed the expenses had in fact been allowed, notwithstanding the lack, in some cases, of supporting materials.
+Sixth: Mr. Madlener indicated that $9,165 of receipted expenses were similarly not allowed. It appeared these expenses were related to a potential Bed and Breakfast venture, in which Mr. Madlener's wife had some involvement. Mr. Madlener provided correspondence from a law firm in 1993 confirming their advice had been sought by Mr. Madlener in regards to a development permit. No further evidence was given as to the actual operation of the Bed and Breakfast.
+Seventh: Mr. Madlener produced a summary of bank interest, municipal taxes and legal expenses totalling $35,244. It was unclear exactly what this related to, although there was some suggestion it was in connection with the Bed and Breakfast.
+Eighth: With respect to telephone expenses, Mr. Madlener claimed he was not given recognition for $1,462 of expenses. Mr. Culp explained that credit was given for all telephone expenses in the name Twilight Sounds, but none in Mr. Madlener's personal name.
+Ninth: Mr. Madlener claimed there were discrepancies of $1,794, which he simply referred to as Mr. Culp's mistakes. This appears to pertain to the doubling up of invoices for Mr. Madlener's disc jockey business. Mr. Madlener maintained that he would record phone messages in his receipt book about an upcoming gig, indicating his fee, but then would issue the actual fee receipt later. Mr. Culp viewed these receipts as representing the down payment and final payment. According to Mr. Madlener this resulted in the doubling up.
+Tenth: Mr. Madlener claimed computer expenses of $2,648. These were denied, as Mr. Culp indicated they appeared to pertain more to the reasonable costs of a home computer than in connection with any business of computer-related sales.
+[8] Mr. Madlener's evidence was that he did not prepare his own tax returns but simply took his ledger to his accountant to do the returns. The only returns in evidence were Mr. Madlener's personal returns for 1993, 1994 and 1995. In two of those years, the only entries were nil entries leading to a nil return. In one return, interest income of $290 was recorded. Mr. Madlener signed all three returns. There was no evidence of any corporate returns.
+[9] This case is simply driven by its facts. The first question to be determined is whether Mr. Madlener carried on business personally, or through the auspices of a corporate entity in 1993, 1994 and 1995. I was presented with no evidence of corporate books or accounts, no corporate financial statements, no corporate tax returns. Some receipted expenses that were allowed to Mr. Madlener, were in the name of Door & Jamb, Mr. Madlener's father's company. Mr. Madlener made no suggestion that he carried on business under that corporate entity. While Mr. Madlener stated that Twilight Sounds was a trade name of his numbered company, the only evidence was that the registration of the trade name was in his name personally. I have not been persuaded by Mr. Madlener that any business carried on by him in 1993, 1994 and 1995 was other than carried on personally.
+[10] The next question to address is what were Mr. Madlener's business income and losses for 1993, 1994 and 1995. The Respondent states, as set forth in Schedules 'A, 'B' and 'C', that the income and losses were ($1,224.46), $19,271.91 and $28,787.54, respectively. Mr. Madlener says the income and losses were zero, though his assertion in that regard was based on his view that a company carried on the business. Yet, as already indicated, he provided no information to show any corporate income or losses. Indeed, he provided a "Summary of Non-Income and Expenses" in which no mention was made of a company, and in which Mr. Madlener attempted to justify his assertions of no income or loss. These were the ten items alluded to earlier. I accept completely Mr. Culp's explanation of items 1, 2, 3, 4, 5, 8, 9 and 10. These are all items for which Mr. Madlener had already been given credit or for which Mr. Culp's explanation was a full, reasonable and acceptable explanation.
+[11] With respect to item 6, which appeared to be expenses related to a possible Bed and Breakfast venture, Mr. Madlener offered no credible explanation of whether that operation was carried on in 1993, 1994 and 1995. The evidence he tendered suggested it might be a possibility, but nothing more. There was no evidence of income, let alone the production of any plan or anything at all that might suggest he was operating a Bed and Breakfast business personally in 1993, 1994 and 1995.
+[12] With respect to item 7, Mr. Madlener presented a summary of tax, interest and legal costs. No supporting material was presented to confirm these numbers, and further no adequate explanation was given as to which business, if any, they related. I do not accept they represent legitimate business expenses.
+[13] Mr. Madlener's evidence was not credible. He professed to being a small businessman for many years, but purported to not understand the significance of filing in nil income tax returns. He claimed to have run businesses through a corporation, yet provided no evidence whatsoever of a corporate operation. He was indignant about his treatment at the hands of CCRA after 1998, and apparently bewildered that I could be more interested in his income in 1993, 1994 and 1995. His actions and his words do not support his contentions. This leads to a consideration of the penalties imposed pursuant to subsection 163(2).
+[14] Subsection 163(2) reads, in part, as follows:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) ...
+[15] In filing nil returns, did Mr. Madlener know the statements therein were false? I am satisfied the Crown has proven that Mr. Madlener did know the statements were false. He was in business in 1993, 1994 and 1995 - he knew he had business revenues. He professed to some belief, though I am not convinced even on this point, that his expenses may have exceeded those revenues. However, the tax returns are very clear that gross and net income are to be reported. He did neither. He knew what he was doing. In filing the returns as he did, he is clearly caught by subsection 163(2).
+[16] For these reasons, I dismiss Mr. Madlener's appeals.
+Signed at Ottawa, Canada, this 17th day of June, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+Schedule 'A'
+ROBERT MADLENER
+1993
+Revenue
+38,073.83
+5,865.47
+2,598.23
+46,537.53
+Expenses
+Accounting/Legal
+934.74
+Insurance
+320.75
+Advertising
+277.40
+Automotive
+1,293.98
+Bank Interest
+87.04
+Office Supplies
+188.72
+Materials
+13,601.08
+Telephone
+1,586.76
+Travel
+63.00
+CCA
+342.72
+Other
+1,214.84
+16,032.51
+Rent
+1,200.00
+Bank Interest
+0.60
+Total Expenses
+37,144.14
+Net Income
+9,393.39
+Less: Purchases of Bolt Buddies
+(10,617.85)
+Net Income
+* (1,224.46)
+* Minimum penalty applied pursuant to subsection 163(2)
+Schedule 'B'
+ROBERT MADLENER
+1994
+Revenue
+58,340.40
+3,413.41
+______-____
+61,753.81
+Expenses
+Accounting/Legal
+474.43
+Insurance
+1,037.35
+Advertising
+1,197.52
+Automotive
+1,068.44
+Bank Interest
+76.64
+Office Supplies
+508.62
+Materials
+14,004.41
+Telephone
+1,565.75
+CCA
+761.80
+Other
+2,386.94
+5,400.00
+Rent
+1,200.00
+Total Expenses
+29,681.90
+Net Income
+32,071.91
+Less: Purchases of Bolt Buddies
+(12,800.00)
+Net Income
+* 19,271.91
+* This amount is subject to subsection 163(2) penalties
+Schedule 'C'
+ROBERT MADLENER
+1995
+Revenue
+60,963.04
+2,590.23
+22,114.26
+85,667.53
+Expenses
+Accounting/Legal
+40.00
+Insurance
+842.25
+Advertising
+2,102.10
+Automotive
+1,645.74
+Bank Interest
+109.01
+Office Supplies
+930.14
+Materials
+11,951.91
+Telephone
+1,578.56
+Travel
+2,796.96
+CCA
+909.15
+Other
+465.09
+21,433.60
+8,000.00
+2,875.48
+Rent
+1,200.00
+Total Expenses
+56,879.99
+Net Income
+* 28,787.54
+* This amount is subject to subsection 163(2) penalties
+CITATION:
+2003TCC408
+COURT FILE NO.:
+2002-4803(IT)I
+STYLE OF CAUSE:
+Robert Madlener and Her Majesty the Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+May 30, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Campbell J. Miller
+DATE OF JUDGMENT:
+June 17, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

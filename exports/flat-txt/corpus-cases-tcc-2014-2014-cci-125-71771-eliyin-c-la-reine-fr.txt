@@ -1,0 +1,135 @@
+Title: Eliyin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71771/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-125-71771-eliyin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-05-14
+
+# Eliyin c. La Reine
+
+- Citation: 2014 CCI 125
+- Decision date: 2014-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5369, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eliyin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-14
+Référence neutre
+2014 CCI 125
+Numéro de dossier
+2012-719(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-719(IT)G
+ENTRE :
+MEHDI ELIYIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 janvier 2014, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Karen Truscott
+JUGEMENT
+L'appel à l'encontre de la nouvelle cotisation établie au titre de la Loi de l'impôt sur le revenu pour l'année d'imposition 2008 de l'appelant est rejeté.
+Les dépens sont adjugés à l'intimée.
+Signé à Toronto (Ontario), ce 14e jour de mai 2014.
+« V. A. Miller »
+La juge V. A. Miller
+Traduction certifiée conforme
+ce 19e jour d'août 2014.
+Yves Bellefeuille, réviseur
+Référence : 2014 CCI 125
+Date : 20140514
+Dossier : 2012-719(IT)G
+ENTRE :
+MEHDI ELIYIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] La question qui se pose dans le présent appel est de déterminer si l'appelant a réalisé un gain en capital imposable de 176 000 $ en 2008 par la vente d'un bien immobilier.
+[2] Ont témoigné l'appelant, qui a livré son témoignage par l'entremise d'un interprète, Erfan Eliyin, le fils de l'appelant, et James Roque, employé de l'Agence du revenu du Canada (l'« ARC ») qui a agi à titre de vérificateur dans la présente affaire.
+[3] Selon les documents déposés au bureau d'enregistrement des titres fonciers de la Colombie‑Britannique, l'appelant a acheté le bien‑fonds situé au 24258, 16e Avenue, à Langley, en Colombie‑Britannique (le « bien‑fonds ») le 27 octobre 2004 pour un montant de 648 000 $. Il a cédé le bien‑fonds à son fils Erfan Eliyin le 8 avril 2008, pour un montant de 1 000 000 $.
+[4] Il n'a pas été contesté que le gain de l'appelant était de 352 000 $.
+[5] L'appelant n'a pas fait état de la vente du bien‑fonds dans sa déclaration de revenus de 2008.
+[6] L'appelant a soutenu, tant dans son avis d'opposition que dans son avis d'appel, que le bien‑fonds était sa résidence principale et que le gain sur l'aliénation était exonéré d'impôt. Toutefois, à l'audition de l'appel, l'appelant a modifié sa thèse. Il ne soutenait plus que le bien‑fonds était sa résidence principale; il a plutôt déclaré avoir modifié le titre de propriété du bien‑fonds pour qu'il soit au nom de son fils, mais être demeuré le propriétaire bénéficiaire du bien‑fonds.
+[7] J'aborderai d'abord la thèse de l'appelant sur la question de savoir s'il a cédé la propriété en common law et la propriété bénéficiaire du bien‑fonds à son fils, pour ensuite déterminer si l'appelant a le droit de demander l'exemption pour résidence principale.
+La convention de fiducie
+[8] L'appelant affirme que le titre de propriété a été transféré à son fils afin que l'appelant puisse obtenir la valeur nette de son bien‑fonds. Il a produit un document intitulé « Trust Agreement » (« convention de fiducie ») du 8 avril 2008 signé par l'appelant et son fils Erfan. Le document était censé faire de l'appelant le propriétaire bénéficiaire du bien‑fonds et d'Erfan, le propriétaire inscrit. La dernière phrase du document est ainsi libellée : [TRADUCTION] « À tout moment, à la demande de Mahdi[1] Eliyin, Erfan Eliyin transférera le bien‑fonds sis au 24258, 16e Avenue, Langley (Colombie‑Britannique), selon les instructions. »
+[9] La convention de fiducie n'a pas été déposée au bureau d'enregistrement des titres fonciers. Selon Erfan, le document n'a pas été communiqué à la Banque de Montréal, qui lui a consenti le prêt hypothécaire pour l'achat du bien‑fonds. Il n'a pas non plus été divulgué à l'avocate de l'intimée avant l'audition de l'appel. Le seul témoignage que j'ai reçu concernant ce document provenait de l'appelant et de son fils Erfan, et j'estime que leur témoignage était intéressé.
+[10] De plus, selon l'acte de transfert du bien‑fonds, l'appelant a transféré tant le titre bénéficiaire que le titre en common law du bien‑fonds à Erfan le 8 avril 2008. Dans l'acte de transfert, il a reconnu que le domaine franc cédé à Erfan était en fief simple.
+[11] Par conséquent, je n'ai pas tenu compte de la convention de fiducie dans ma décision définitive concernant le présent appel.
+La résidence principale
+[12] Voici les témoignages que j'ai entendus concernant la question de savoir si le bien‑fonds était la résidence principale de l'appelant en 2008.
+[13] Lorsqu'il a acheté le bien‑fonds, l'appelant vivait au 2295, boul. Parkway, à Coquitlam, en Colombie‑Britannique. Il a dit qu'il n'avait pas vécu dans le logement du bien‑fonds en 2004 ou 2005. Il a loué le bien‑fonds en 2006 et a déclaré un revenu de location de 38 400 $ et des frais de location de 35 120,74 $ dans sa déclaration de revenus de 2006. Les frais déclarés par l'appelant comprenaient le montant total de l'intérêt hypothécaire, l'impôt foncier et les assurances pour l'année à l'égard du bien‑fonds. On ne m'a pas dit si l'appelant avait demandé la déduction pour amortissement pour le logement sis sur le bien‑fonds. L'appelant a également eu un locataire pendant six mois en 2007, ce qui n'a pas été indiqué dans sa déclaration de revenus de cette année-là. Il a déclaré que lui et son fils cadet avaient vécu dans le logement du bien‑fonds en 2007, mais il n'a pas précisé la durée de son séjour. Son fils cadet est atteint de sclérose en plaques, et ils ont constaté que le bien‑fonds était trop éloigné, de sorte qu'ils ont redéménagé à Coquitlam. L'appelant n'a produit aucun élément de preuve attestant qu'il avait résidé dans le logement en 2008.
+[14] L'appelant a produit les documents suivants indiquant que son adresse était celle du bien‑fonds : un permis du canton de Langley du 14 avril 2008, ses avis de cotisation pour les années 2006 et 2007, une lettre du canton de Langley du 20 avril 2010 confirmant que l'appelant s'était acquitté de ses obligations concernant le permis mentionné ci‑dessus, et une police d'assurance du 29 octobre 2004 au 29 octobre 2005 concernant la résidence située au bien‑fonds.
+[15] Le permis produit par l'appelant a été délivré par le canton de Langley pour la restauration du logement et de la grange situés sur le bien‑fonds. Selon le permis, les dommages au logement et à la grange étaient le résultat d'une activité illicite découverte au bien‑fonds au cours d'une inspection de la sécurité publique.
+[16] D'après le témoignage de l'appelant, l'assurance pour la période allant de 2005 à 2007 et la totalité des services publics concernant le bien‑fonds étaient au nom de Vince Sawden, qui vivait au palier inférieur du logement. Selon l'appelant, Vince Sawden n'était pas locataire, mais concierge du bien‑fonds.
+[17] Selon le témoignage de M. Roque, il a analysé les bases de données de l'ARC et constaté que, de 2004 à 2008, aucun des feuillets d'information (T3, T4, T4A, T4E, T5, T5007 et T5008) présentés à l'ARC par des tiers indépendants (Banque de commerce, Work Safe BC, gouvernement de la C.‑B. et TD Ligne verte) ne donnait l'adresse du bien‑fonds comme étant celle de l'appelant. Les feuillets d'information indiquaient que le 3150, impasse Dawson, Coquitlam, était l'adresse de l'appelant de 2004 à 2008 inclusivement.
+Analyse
+[18] Le bien‑fonds, d'une superficie de cinq acres, comprenait une résidence à deux paliers et deux granges. Le gain total de 325 000 $ issu de la vente de ce bien‑fonds n'est exonéré d'impôt que si l'appelant a établi que le bien‑fonds était sa résidence principale et que le terrain excédant un demi‑hectare était nécessaire à cet usage du bien‑fonds en tant que résidence.
+[19] La question est de savoir si l'appelant a établi que le logement sis au bien‑fonds était sa résidence principale.
+[20] L'article 54 de la Loi de l'impôt sur le revenu (la « Loi ») donne de « résidence principale » la définition suivante :
+« résidence principale » S'agissant de la résidence principale d'un contribuable pour une année d'imposition, bien — logement, ou droit de tenure à bail y afférent, ou part du capital social d'une société coopérative d'habitation acquise dans l'unique but d'acquérir le droit d'habiter un logement dont la coopérative est propriétaire — dont le contribuable est propriétaire au cours de l'année conjointement avec une autre personne ou autrement, à condition que :
+a) le contribuable étant un particulier autre qu'une fiducie personnelle, le logement soit normalement habité au cours de l'année par le contribuable, par son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait ou par un enfant du contribuable;
+[21] Pour que le bien‑fonds soit admissible comme résidence principale de l'appelant en 2008, les conditions suivantes doivent être respectées :
+a) l'appelant doit avoir été propriétaire du bien‑fonds en 2008;
+b) il doit avoir normalement habité le logement situé sur le bien‑fonds en 2008;
+c) il doit avoir désigné le bien‑fonds en tant que sa résidence principale en 2008;
+d) il doit avoir désigné le bien‑fonds en tant que sa résidence principale dans sa déclaration de revenus de 2008.
+[22] L'appelant n'a satisfait qu'à la première condition. Il n'y a aucun élément de preuve attestant qu'il vivait dans le logement situé sur le bien‑fonds en 2008.
+[23] Je ne dispose d'aucun élément de preuve me permettant de conclure que le logement situé sur le bien‑fonds était la résidence principale de l'appelant en 2008. L'appelant n'a pas désigné le bien‑fonds comme étant sa résidence principale dans sa déclaration de revenus. Il n'a pas produit d'avis écrit de son choix au titre du paragraphe 45(3) lorsqu'il a censément modifié l'usage du bien‑fonds, passant de bien en location à résidence principale.
+[24] Pour tous ces motifs, l'appel est rejeté, avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 14e jour de mai 2014.
+« V. A. Miller »
+La juge V. A. Miller
+Traduction certifiée conforme
+ce 19e jour d'août 2014.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2014 CCI 125
+NO DU DOSSIER DE LA COUR :
+2012-719(IT)G
+INTITULÉ :
+MEHDI ELIYIN ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 30 janvier 2014
+MOTIFS DU JUGEMENT :
+L'honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 14 mai 2014
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Karen Truscott
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Je constate que dans l'intitulé de l'affaire, dans l'avis d'appel, le nom de l'appelant était orthographié « Medhi », tandis qu'il a signé « Mahdi » sur l'avis d'appel.

@@ -1,0 +1,481 @@
+---
+title: "Manhue v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/309062/index.do"
+last_modified: "2018-04-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 71"
+citation2: ""
+neutral_citation: "2018 TCC 71"
+decision_date: "2018-04-17"
+language: "en"
+item_id: "309062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7465
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:50:20.214000+00:00"
+cases_cited_count: 36
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0325c12129c8ee00ca0e46d91c05e796f86a06751dc84800372dcbb54b74587"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Manhue v. The Queen
+
+- Citation: 2018 TCC 71
+- Decision date: 2018-04-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7465, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manhue v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-04-17
+Neutral citation
+2018 TCC 71
+File numbers
+2013-605(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-605(IT)G
+BETWEEN:
+NICHOLAS MANHUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 26, 2016 and September 8, 2017, at Toronto, Ontario
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Archie B. Palinka
+Counsel for the Respondent:
+Christian Cheong
+JUDGMENT
+The Appeal from the reassessment made under the Income Tax Act with respect to the 2009 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 17th day of April 2018.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2018 TCC 71
+Date: 20180417
+Docket: 2013-605(IT)G
+BETWEEN:
+NICHOLAS MANHUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to an Appeal by Nicholas Manhue against an assessment (the “Assessment”) of his 2009 taxation year, as set out in a Notice of Assessment dated December 30, 2010, which was issued by the Canada Revenue Agency (the “CRA”) on behalf of the Minister of National Revenue (the “Minister”). Mr. Manhue’s income tax return for 2009 was prepared by a representative of an organization known as Fiscal Arbitrators. That return reported a business loss in an amount approximately equal to the aggregate of his income for 2006 through 2009. Pursuant to the Assessment, the Minister disallowed the business loss and also imposed a penalty in the amount of $32,633.91 under subsection 163(2) of the Income Tax Act (the “ITA”). [1] Mr. Manhue did not object to or appeal from the denial of the business loss or the amount of income tax assessed by the Assessment, but he has objected to and appealed from the imposition of the penalty.
+II. ISSUE
+[2] The issue in this Appeal is whether Mr. Manhue is liable to a penalty pursuant to subsection 163(2) of the ITA. Thus, it is necessary to determine whether Mr. Manhue knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of, a false statement in his 2009 income tax return and related documents.
+III. FACTUAL BACKGROUND
+A. Overview
+[3] Mr. Manhue immigrated to Canada from Jamaica when he was 15 years old. He attended, and graduated from, high school in Ontario. [2]
+[4] Mr. Manhue was and is a hard worker. He held various summer jobs while in school. As well, during one of his years in high school, he worked the nightshift at a bakery, going to work each night at 11:00 p.m. and working until 7:00 a.m. the following morning, at which time he would go home, shower and then go to school. From 1988 to the time of the hearing, Mr. Manhue has worked for General Motors in Oshawa. [3]
+[5] Since he began working, Mr. Manhue has filed an income tax return each year. Over the years, those returns were prepared by various tax-return preparers hired by Mr. Manhue. [4] When it came time for Mr. Manhue to have his 2009 income tax return prepared, a friend at work referred him to Reuel McGann, who was a representative of Fiscal Arbitrators. [5]
+[6] During his cross-examination, Mr. Manhue explained his introduction to Fiscal Arbitrators as follows:
+Q. How did you become involved with Fiscal Arbitrators?
+A. A friend of mine from work introduced me to them because he did it with them for two years. And we were talking about it at work and he says, “Yeah, these guys did my taxes and I got good returns and there was no problems.” So he set up a meeting in Scarborough by his sister’s house and we met there and we met Mr. McGann there. And it was Mr. McGann, myself, his sister and his sister’s husband.
+Q. He told you it was good returns. Did he explain to you how he was able to ––
+A. No. He said this arbitration have did something, whatever they did, and he got a good return he says. And it wasn’t –– and he wasn’t audit[ed] or anything. He was … [sic]
+Q. Did he tell you how much he received?
+A. No he didn’t give me amount. No. [6]
+While it is not clear, it appears that, when Mr. Manhue used the phrase “good returns,” he may have been referring to tax refunds. [7]
+[7] Mr. Manhue developed a trust in Mr. McGann and Fiscal Arbitrators, even though Mr. McGann did not describe his credentials. [8] In part, it seems that Mr. Manhue’s trust was based on the fact that, when Mr. McGann went to the meeting in Scarborough, he wore a suit and carried a briefcase. [9] As well, Mr. Manhue appears to have relied on the testimonial of his friend, as explained in the following exchange:
+Q. And what had your friend told you or your co-worker, what had they told you about this program, if anything?
+A. Not much. All he said was, “These guys are good,” and he did his return two years in a row and it wasn’t a problem for him. [10]
+[8] It appears that Mr. Manhue was impressed by the name “Fiscal Arbitrators.” For instance, Mr. Manhue stated:
+By going with these guys, my knowledge is when I hear the name “arbitrators” or “tax arbitrators” or “fiscal”, I thought they are professional. [11]
+[9] After meeting with Mr. McGann, Mr. Manhue decided to use the services of Fiscal Arbitrators. He provided Mr. McGann with a $500 cheque (representing a portion of the tax-return preparation fee) [12] and provided Fiscal Arbitrators with copies of his T4 slips for 2006 through 2009. In due course, Fiscal Arbitrators prepared Mr. Manhue’s 2009 income tax return and mailed it to him for signature and filing with the CRA. The tax return was sent to him in duplicate, together with a set of instructions, entitled “Tax Completion Checklist.” [13]
+[10] In addition to providing Mr. Manhue with two copies of his 2009 income tax return, [14] Fiscal Arbitrators also sent him a Statement of Business or Professional Activities (Form T125) [15] and a Request for Loss Carryback (Form T1A), [16] as well as the above-mentioned checklist and an envelope within which to mail the signed return and accompanying documents to the CRA. [17] Mr. Manhue did not go through the income tax return page by page. Rather, he turned to the signing page, glanced at it and then signed it. [18] He also signed the Request for Loss Carryback without reviewing it. [19]
+[11] When the CRA reviewed Mr. Manhue’s 2009 income tax return, it concluded that the claimed business loss did not appear to be legitimate. Accordingly, the CRA issued the Assessment, which disallowed the loss and imposed a penalty under subsection 163(2) of the ITA. Mr. Manhue subsequently objected, the CRA confirmed the Assessment, and Mr. Manhue, with the assistance of Fiscal Arbitrators, commenced this Appeal.
+B. Testimony of Reuel McGann
+[12] Mr. McGann met twice with Mr. Manhue, once at the house of the sister of Mr. Manhue’s co-worker, and subsequently in a parking lot near Victoria Park (presumably Avenue) and another street referred to at different times as Ellesmere (presumably Road), [20] 401 (presumably Expressway), [21] and Birchmount (presumably Road). [22]
+[13] In his testimony, Mr. McGann was defensive, evasive and difficult to pin down. Mr. Palinka, counsel for Mr. Manhue, endeavoured to obtain from Mr. McGann an acknowledgment that Mr. Manhue called him or met with him to seek clarification of the entries in the income tax return and accompanying forms. At one point, it seems that Mr. McGann acknowledged that such a conversation occurred:
+Q. … if I put it to you that Mr. Manhue’s evidence is that he had questions about this whole process, about signing his signature, about the numbers that were on the document, and he called you, and you said, “Just follow the –– just follow the checklist, do what it says on the checklist”, would you agree with that?
+A. Yes. [23]
+When Mr. Palinka then asked a follow-up question to confirm that Mr. McGann had given such advice to Mr. Manhue, Mr. McGann gave a lengthy, rambling response that did not answer the question. [24] A few minutes later in the questioning, Mr. McGann seemed to back away from his earlier acknowledgment that he had had a conversation with Mr. Manhue about the latter’s questions concerning the signing of the income tax return:
+Q. … He [Mr. Manhue] called you, asked you these questions, and then he followed up and said, “Look, I need to meet with you, and we’re –– you have to walk me through this.” And that your response at that time was, “Look, just do what it says on the checklist, just do that, that’s what I did, it worked out, just follow the checklist.” That you dismissed that you –– that you assured him that this was okay. Would you agree with that?
+A. I don’t recollect, sorry. [25]
+[14] The above exchanges are interesting for two reasons. First, they illustrate the unreliability of Mr. McGann’s testimony. Second, after having listened to Mr. Manhue’s testimony, which was given after Mr. McGann’s testimony, I am not certain that Mr. Manhue actually contacted Mr. McGann with questions about the signing of the income tax return. Mr. Manhue described the process of signing his return as follows:
+A. … So when I get the package [containing the income tax return and related forms] back, I just –– were they satisfied? I just look for the “per”, where they said I had to sign, and I signed it up. And I put it back up, to fold it back and send it off.
+Q. Okay. Do you remember whether you signed that when you got it? Or did you call somebody or ––
+A. No. When I got it, I opened it and I go over this checklist. And then I turned the page and that’s where I signed it. [26]
+Thus, it seems that Mr. Manhue saw no need to speak to, or meet with, Mr. McGann about the signing of the tax return.
+[15] In questioning Mr. McGann, Mr. Palinka encountered difficulty in establishing whether Mr. McGann had a second meeting with Mr. Manhue, and, if so, why they met. When Mr. Palinka asked Mr. McGann about such a meeting, which apparently took place in a parking lot near Victoria Park and Ellesmere, Mr. McGann initially could not recall whether he met Mr. Manhue there, but imagined that he did. [27] A few minutes later in his testimony, Mr. McGann acknowledged that he met Mr. Manhue in a parking lot at Victoria Park and Ellesmere, [28] and, when Mr. Palinka later returned to this line of questioning, Mr. McGann continued to adhere to that acknowledgment. [29] As noted above, Mr. Palinka tried unsuccessfully to extract from Mr. McGann a further acknowledgment that the purpose of the second meeting was to resolve questions that Mr. Manhue had about signing the income tax return.
+[16] When Mr. Manhue testified, he stated that his second meeting with Mr. McGann occurred sometime after he had received from the CRA a letter dated June 9, 2010 and a business questionnaire, requesting information and documentation about the net business loss that Mr. Manhue had claimed on his 2009 income tax return. [30] Mr. Manhue forwarded the letter and the questionnaire to Fiscal Arbitrators. Subsequently, Mr. Manhue met with Mr. McGann in a parking lot outside a doughnut store at Victoria Park and 401. Mr. McGann provided Mr. Manhue with a letter, dated June 14, 2010, to be sent by Mr. Manhue to the CRA. [31]
+[17] After having considered the evidence of Mr. McGann and Mr. Manhue, I am of the view that the second meeting between those two individuals occurred in the context of Fiscal Arbitrators and Mr. Manhue responding to the CRA’s inquiries about the 2009 income tax return, which had already been filed by Mr. Manhue. There is no evidence to suggest that Mr. Manhue called or met with Mr. McGann, before signing and filing the return, to ask questions about such signing and filing.
+C. Testimony of Lawrence Watts
+[18] On the first day of the hearing of this Appeal, Mr. Palinka stated that he wanted to call as a witness Lawrence (Larry) Watts, who was the principal founder of Fiscal Arbitrators. Mr. Watts was then incarcerated, having been convicted of fraud and sentenced to serve six years in a federal penitentiary. [32] After the first day of the hearing, there was a lengthy delay, as Mr. Palinka endeavoured to locate Mr. Watts within the penitentiary system and make arrangements for him to testify via videoconference. After such arrangements had been made, and only a few weeks before the resumption of the hearing, Mr. Watts was released from the penitentiary on parole, which required new arrangements to be made for Mr. Watts’ attendance at the resumed hearing.
+[19] Mr. Watts’ testimony was neither helpful nor hurtful to Mr. Manhue’s case. Mr. Watts stated that he had never seen Mr. Manhue before the second day of the hearing, i.e., September 8, 2017, [33] nor did Mr. Watts ever communicate verbally with Mr. Manhue. [34] Mr. Watts was not previously aware that there was an allegation that Fiscal Arbitrators had prepared Mr. Manhue’s 2009 income tax return. [35] Mr. Watts explained that, when Fiscal Arbitrators was operating, he had digital records and paper records of its clients and the tax returns that had been prepared; however, all of those records had been seized and retained by the CRA, such that he had no way of ascertaining whether Mr. Manhue had been a client of Fiscal Arbitrators. [36] Mr. Watts did not know whether he personally had prepared Mr. Manhue’s 2009 income tax return, [37] or whether he had received the $500 cheque, made payable to Lawrence Watts, Trustee, which Mr. Manhue had given to Mr. McGann. [38] In fact, Mr. Watts would not even acknowledge that Fiscal Arbitrators had prepared Mr. Manhue’s 2009 income tax return. [39] To summarize, Mr. Watts stated that he had “no knowledge of anything to do with him [i.e., Mr. Manhue].” [40]
+[20] Mr. Watts explained that a two-stage process was used by Fiscal Arbitrators to seek compensation from its clients. An upfront fee of $500 was payable at the time that Fiscal Arbitrators was engaged. In addition, Fiscal Arbitrators was to receive a percentage of any tax refund obtained by the client. [41] As noted above, Mr. Watts said that he did not know whether he had received the $500 cheque from Mr. Manhue. [42]
+[21] Mr. Watts stated that he did not remember, and thus did not know, whether there was any supporting documentation in respect of the net business loss in the amount of $263,351.82 reported on Mr. Manhue’s 2009 income tax return. [43] Mr. Watts was not aware that Mr. Manhue had been reassessed and that a penalty had been levied. [44] Mr. Watts refused to acknowledge that Mr. Manhue had relied upon him to complete the 2009 income tax return accurately. [45]
+[22] On cross-examination, Mr. Watts stated that he did not prevent anybody, including Mr. Manhue, from reviewing a tax return prepared by Fiscal Arbitrators, although Mr. Watts qualified that response by indicating that it had not been determined that Mr. Manhue’s 2009 income tax return had been prepared by Fiscal Arbitrators. [46]
+IV. ANALYSIS
+A. Statutory Provisions
+[23] As Mr. Manhue is not disputing the amount of the penalty, for the purposes of this Appeal, the relevant portion of subsection 163(2) of the ITA is the following:
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement … in a return, form, certificate [or] statement … filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty….
+[24] Subsection 163(3) of the ITA places the burden of proof on the Minister in the case of this penalty:
+(3) Where, in an appeal under this Act, a penalty assessed by the Minister under this section … is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+B. False Statements
+[25] On lines 162 and 135 respectively on page 2 of his 2009 income tax return, Mr. Manhue reported gross business income in the amount of $86,757.09 and a net business loss in the amount of $263,351.82. [47] As Mr. Manhue had never operated a business, [48] those statements on his income tax return were false.
+[26] Attached to Mr. Manhue’s 2009 income tax return was a Statement of Business or Professional Activities (Form T2125), which showed gross business income, described as “RECEIPTS AS AGENT,” in the amount of $86,757.09, and expenses, described as “AMT TO PRINCIPAL FR AGENT,” in the amount of $350,108.91, resulting in a net business loss in the amount of $263,351.82. [49] As Mr. Manhue did not have a business, those statements were also false.
+[27] With his 2009 income tax return, Mr. Manhue submitted a Request for Loss Carryback (Form T1A), which showed a business loss in the amount of $263,351.82, and requested that $190,687.32 of that loss be carried back and applied to the three previous taxation years, as follows: [50]
+2006
+$52,272.32
+2007
+56,431.00
+2008
+81,984.00
+$190,687.32
+As Mr. Manhue did not have a business or a net business loss, the Request for Loss Carryback contained a false statement.
+C. Recent Appellate Jurisprudence
+[28] In its recent decision in Wynter, [51] the Federal Court of Appeal discussed the alternative requirements of subsection 163(2) of the ITA, i.e., knowledge or gross negligence, and the relationship of those requirements to wilful blindness. Some of the key principles enunciated in that case are set out below:
+12. The distinction between gross negligence – determined by an objective assessment of the comportment of the taxpayer – and wilful blindness – determined by reference to the taxpayer’s subjective state of mind – has a long history….
+13. A taxpayer is wilfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids, the truth. The concept is one of deliberate ignorance…. In these circumstances, the doctrine of wilful blindness imputes knowledge to a taxpayer…. Wilful blindness is the doctrine or mechanism by which the knowledge requirement under subsection 163(2) is met….
+16. … the law will impute knowledge to a taxpayer who, in circumstances that suggest inquiry should be made, chooses not to do so. The knowledge requirement is satisfied through the choice of the taxpayer not to inquire, not through a positive finding of an intention to cheat….
+17. … wilful blindness pivots on a finding that the taxpayer deliberately chose not to make inquiries in order to avoid verifying that which might be such an inconvenient truth. The essential factual element is a finding of deliberate ignorance, as it “connotes ‘an actual process of suppressing a suspicion’”….
+18. Gross negligence is distinct from wilful blindness. It arises where the taxpayer’s conduct is found to fall markedly below what would be expected of a reasonable taxpayer. Simply put, if the wilfully blind taxpayer knew better, the grossly negligent taxpayer ought to have known better.
+19. Gross negligence requires a higher degree of neglect than a mere failure to take reasonable care. It is a marked or significant departure from what would be expected. It is more than carelessness or misstatements….
+In assessing the penalties for gross negligence, the Minister must prove a high degree of negligence, one that is tantamount to intentional acting or an indifference as to whether the law is complied with or not….
+20. … while conceptually different, gross negligence and wilful blindness may merge to some extent in their application. A taxpayer who turns a blind eye to the truth and accuracy of statements made in their income tax return is wilfully blind, and is also grossly negligent. The converse is not, however, necessarily true. A grossly negligent taxpayer is not necessarily wilfully blind. [52]
+D. “Knowingly” Requirement
+[29] There was no evidence to indicate that Mr. Manhue had actual knowledge that his 2009 income tax return, his Statement of Business or Professional Activities and his Request for Loss Carryback contained false statements. Therefore, the issue becomes one of determining whether Mr. Manhue was wilfully blind. If Mr. Manhue is found to have been wilfully blind, knowledge of the false statements is imputed to him.
+E. Wilful Blindness (Imputed Knowledge)
+[30] In Torres, Justice C. Miller identified various principles to be applied in determining whether a taxpayer was wilfully blind:
+(a) Knowledge of a false statement can be imputed by wilful blindness.
+(b) The concept of wilful blindness can be applied to gross negligence penalties pursuant to subsection 163(2) of the [ITA]….
+(c) In determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+(d) To find wilful blindness there must be a need or a suspicion for an inquiry.
+(e) Circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights …, include the following:
+(i) the magnitude of the advantage or omission;
+(ii) the blatantness of the false statement and how readily detectable it is;
+(iii) the lack of acknowledgement by the tax preparer who prepared the return in the return itself;
+(iv) unusual requests made by the tax preparer;
+(v) the tax preparer being previously unknown to the taxpayer;
+(vi) incomprehensible explanations by the tax preparer;
+(vii) whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others.
+(f) The final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself. [53]
+In the context of this Appeal, I will now turn to a consideration of the above principles.
+(1) Education and Experience
+[31] As indicated above, Mr. Manhue immigrated to Canada from Jamaica when he was 15 years of age. He attended high school in Canada for four or five years, graduating from high school in 1980. [54] After high school, Mr. Manhue started a diploma program in Production at Centennial College, but dropped out after the first semester, for financial reasons. [55]
+[32] As noted above, in determining whether a taxpayer was wilfully blind, a court should consider the education and experience of the taxpayer. This suggests that there may be some level of education and experience below which it would not be appropriate to find that a particular taxpayer was wilfully blind. However, I am not aware of any case that has articulated what that level might be. In Torres, Justice C. Miller made the following statement:
+I question how an individual, regardless of the level of education, who has worked in Canada, paid taxes and benefited from all the country has to offer, can without question enter an arrangement where he or she claims fictitious business losses…. [56] [Emphasis in original.]
+The above statement suggests to me that, in the context of taxpayers who have claimed fictitious business losses, the “education and experience” bar is not to be set overly high.
+[33] In order to ascertain whether Mr. Manhue had the requisite level of education and experience in 2010, when he signed his 2009 income tax return, I have considered a number of other Fiscal Arbitrator cases concerning taxpayers whose educational attainment was something less than a college multi-year diploma or a university degree. Some of those cases are summarized below, beginning with the cases in which penalties under subsection 163(2) of the ITA were upheld, and then turning to cases where such penalties were cancelled.
+(a) Penalties Upheld
+[34] The Fiscal Arbitrator cases in which subsection 163(2) penalties were upheld, notwithstanding that the particular taxpayer had not completed a university degree or a college multi-year diploma, include the following:
+a) In Chénard, the taxpayer did not finish high school, and had been working since age 16. [57]
+b) In Torres, which was a composite decision dealing with six taxpayers, one of the taxpayers, Ansel Hyatali, had a grade 12 education and a welding certificate. [58]
+c) In Chartrand, the taxpayer had a grade 11 education. [59]
+d) In Spurvey, one of the taxpayers was a high school graduate and a trained registered practical nurse, and the other taxpayer had a grade 11 education and had been trained and certified as a tradesman in four different trades, although he never worked at any of them, working instead for Canadian Tire. [60]
+e) In Maynard, one of the taxpayers obtained a grade 12 education in Trinidad and subsequently took some drafting courses at Centennial College in Ontario, and the other taxpayer obtained a grade 12 education in Trinidad and later took some accounting courses at Durham College in Ontario. The trial judge indicated that both taxpayers had the equivalent of a high school education in Canada, supplemented by the post-secondary-school courses that they took. [61]
+f) In Ramlal, the taxpayer attended high school in Trinidad and Tobago until age 16, progressing to “Form 5” in school, which apparently was equivalent to grade 12 in Canada. [62]
+g) In Daszkiewicz, the taxpayer was educated in Poland and attended trade school in that country. [63]
+h) In Sledge, the taxpayer completed a high school education in the United States, but did not attend university. [64]
+i) In Wynter, the taxpayer obtained a grade 6 education in Jamaica, which appears to have been equivalent to a grade 10 education in Canada. [65]
+j) In De Gennaro, the taxpayer graduated from high school and subsequently attended college for two and a half years, but apparently did not complete a diploma program. [66]
+k) In Mayne, the taxpayer attended high school until grade 11. Although he did not finish high school, he subsequently went back to school to upgrade his math and English, and he also studied electronics at George Brown College and took a certificate course in microcomputer technology. [67]
+l) In Hogg, the taxpayer had a grade 12 education and worked in a foundry. [68]
+m) In Romaker, the taxpayer had a grade 13 education. [69]
+n) In Peck, the taxpayer graduated from high school and completed a five-month college course to obtain a certificate as a lab technician. [70]
+[35] In each of the above cases, the Court upheld the penalties that had been assessed under subsection 163(2) of the ITA. Thus, in none of those cases did the Court conclude that the particular taxpayer’s education and experience were deficient to the extent that it would not be appropriate to uphold the penalty that had been assessed.
+(b) Penalties Not Upheld
+[36] Several cases dealing with taxpayers who had limited education and who were ultimately not required to pay penalties under subsection 163(2) of the ITA are summarized below:
+a) In Lavoie, one of the taxpayers had a grade 6 education, and the other taxpayer had completed Secondary 1. They each had a very limited understanding of written and spoken English, which is the language in which the Fiscal Arbitrator promotional materials were presented, the promotional meeting was conducted and the tax returns were prepared. [71]
+b) In Anderson, the taxpayer remained in school until grade 9, which he failed. He left school at age 15 and began working. [72]
+c) In Kajtor, the taxpayer obtained a high school education in Romania, before immigrating to Canada. [73]
+[37] In my view, Mr. Manhue had significantly greater education than the taxpayers in Lavoie and Anderson and comparable education to that of the taxpayer in Kajtor. As well, as noted above, the taxpayers in Lavoie had a very limited understanding of English, which was the language in which the promotional materials were presented, the promotional meeting was held and the tax returns were prepared. In Anderson, the Court found that there were no flashing lights or red flags to which the taxpayer had turned a blind eye. [74] In Kajtor, the taxpayer, a family member and a friend had made several inquiries about the tax program and promoter in question, including one or more calls to the CRA and a police background check. [75]
+[38] Mr. Manhue had a basic understanding of the concept of a business and the concept of income. [76] As well, Mr. Manhue acknowledged that, when he signed his 2009 income tax return, he read the statement immediately above the signature line indicating that he was certifying that the information given on the return and in the attached documents was correct, complete and fully disclosed all his income, and the statement below the signature line indicating that it was a serious offence to make a false return. [77] At no time during his testimony did Mr. Manhue suggest that he did not understand the statements above and below the signature line on his income tax return.
+[39] It is my view that the education and experience of Mr. Manhue were not lacking to the point that he did not understand the requirement to file a truthful and correct income tax return.
+(2) Suspicion or Need for an Inquiry
+[40] For taxation years before 2009, Mr. Manhue had typically paid a fee in the range of $60 to $100 for the preparation of a tax return. [78] For taxation years before 2009, the average amount of the income tax refund received by Mr. Manhue each year was in the range of $700 to $800. [79]
+[41] The amount of the fee payable by Mr. Manhue to Fiscal Arbitrators for the preparation of his 2009 income tax return was $500 plus 10% of any tax refund obtained. [80] During his re-examination, Mr. Manhue explained why he was willing to pay more to Fiscal Arbitrators than to his previous tax preparers:
+Q. Why were you willing to pay them [Fiscal Arbitrators] more money? Did you think that they were better, and that they were going to do something more to help you? Or that they --
+A. No. Based on what my friend says, he got a big refund. And that’s why I pay the $500. I said, “Okay. If I am going to get a refund like you, then I didn’t mind paying the $500.” [81]
+[42] The question of whether Mr. Manhue would have had any suspicion that he should make inquiries about Fiscal Arbitrators is suggested by the following exchange during his cross-examination:
+Q. Did you see the amount of the –– did you see the amount of refund that you would be receiving?
+A. I’m sure – yes, I am pretty sure I saw it, yes.
+Q. Did you ever wonder how you would be entitled to this amount?
+A. That did cross my mind but, as I said, these guys –– to me, they’re professionals. So they should know what they’re doing.
+Q. So you didn’t ask them for an explanation?
+A. I –– no, sir. [82]
+[43] The fact that there was a large increase in the amount of the fee payable by Mr. Manhue for the preparation of his 2009 income tax return compared to the amounts paid in previous years and that there was a substantial increase in the amount of the expected tax refund should have created a suspicion on the part of Mr. Manhue, prompting him to inquire as to why and how the respective amounts of the fee and the refund could increase so dramatically. In fact, the comment given in the above exchange (“That did cross my mind but …”) indicates that Mr. Manhue likely did have such a suspicion. However, if I am wrong and if Mr. Manhue did not actually have a suspicion or see a need for an inquiry, I will consider whether there were any warning signs that should have alerted him to such a need.
+(3) Warning Signs
+(a) Magnitude of the Advantage
+[44] On page 2 of his 2009 income tax return, Mr. Manhue reported T4 employment income in the amount of $68,677.17, other employment income in the amount of $3,057.79, employment insurance and other benefits in the amount of $1,788.00, gross business income in the amount of $86,757.09 and a net business loss in the amount of $263,351.82. [83] Thus, the gross business income reported by Mr. Manhue was greater than the aggregate of all of the other income items reported by him. The net business loss that he reported was large enough to more than offset all of the income reported by him for 2009, with enough of the loss left over to be carried back for three years, so as to offset all of his income in 2006, 2007 and 2008. If the CRA had not discovered that the net business loss was fictitious, all of the income taxes withheld from his remuneration and otherwise payable for the four taxation years in question would have been refunded to him.
+[45] In Chénard, Justice Bédard made the following comment concerning a taxpayer who had engaged Fiscal Arbitrators to file adjustment requests for eight previous taxation years, so as to report net business losses in amounts sufficient to result in tax refunds for each of those years:
+These losses would have allowed the appellant to receive a full refund of all the income taxes paid over the course of the years in question…. In this case, the magnitude of the reported business losses is an overwhelming factor because, even with little formal education and even without understanding our tax system, a reasonable person could have easily questioned the legitimacy of these losses. [84]
+Much the same could be said about Mr. Manhue and the magnitude of the losses claimed by him.
+(b) Blatantness and Detectability of False Statement
+[46] Page 2 of Mr. Manhue’s 2009 income tax return contained six numerical entries under the heading “Total income”; the rest of the lines under that heading were left blank. Those six entries, with the applicable line numbers, are as follows: [85]
+Line
+Description
+Amount
+101
+Employment income
+68,677.17
+104
+Other employment income
+3,057.79
+119
+Employment Insurance and other benefits
+1,788.00
+162
+Gross business income
+86,757.09
+135
+Net business income
+–263,351.82
+150
+Total income
+–189,828.86
+The above six entries are spread out on page 2 of the return, such that each amount is readily visible and discernable. Mr. Manhue knew that he did not carry on a business in 2009, [86] so the entries on page 2 of the return showing gross business income and a net business loss would have been glaring and patently obvious. As well, the Statement of Business or Professional Activities (containing the entries “RECEIPTS AS AGENT” and “AMT TO PRINCIPAL FR AGENT”), which was likely filed with the return, would have been conspicuous and readily noticeable. Hence, the false statements in Mr. Manhue’s 2009 income tax return were blatant and readily detectable. [87]
+(c) Tax Preparer Acknowledgment
+[47] Box 490 on the signature page of Mr. Manhue’s 2009 income tax return contains spaces for the name, address and telephone number of the professional tax preparer who prepared the return. That information was not provided by Mr. McGann or by Fiscal Arbitrators. [88] Box 490 appears immediately to the right of the line where Mr. Manhue signed the return.
+[48] It seems that Mr. Manhue noticed that Box 490 was left blank on his 2009 income tax return. When he was asked, during cross-examination, whether it crossed his mind as to why the box was left blank, he replied that the corresponding box had been left blank in all of his previous income tax returns, so it was a regular thing for him. [89]
+(d) Unusual Requests by Tax Preparer
+[49] Mr. McGann and Fiscal Arbitrators made several unusual requests of Mr. Manhue, including the following
+a) Mr. McGann told Mr. Manhue that the fee charged by Fiscal Arbitrators for preparation of Mr. Manhue’s 2009 income tax return was $500 plus 10% of any refund received. [90] With respect to the payment of the $500, Mr. McGann requested that Mr. Manhue provide a cheque payable to “Lawrence Watts, Trustee.” [91]
+b) Mr. McGann requested that Mr. Manhue provide not only the latter’s T4 slip for 2009, but also his T4 slips for 2006, 2007 and 2008. [92]
+c) When Mr. Manhue received his 2009 income tax return from Fiscal Arbitrators, the return was accompanied by a Tax Completion Checklist. [93] Near the top of the checklist, beneath the heading “Signatures Required,” are the words “Put the word ‘Per:’ in front of all signatures.” [94] Notwithstanding that instruction, when Mr. Manhue flipped to the signing pages of his income tax return and his Request for Loss Carryback, he saw that the word “Per:” had already been written there by someone else. [95]
+d) One of the miscellaneous instructions in the checklist was “Direct all CRA inquiries to be written”. This instruction was expanded near the bottom of the checklist, where the following statement appeared:
+Please note that if you receive any verbal queries from CRA, your only response should be to direct them to put it in writing and send it to you. Any written queries from CRA should be forwarded to Fiscal Arbitrators to assist you in drafting a proper response. [96]
+Mr. Manhue testified that he understood the above instruction to mean that he was not to talk directly to CRA. [97]
+[50] While each of the above requests could have appeared to be quite innocuous to some observers, it is also possible that they may have seemed rather peculiar, particularly in their totality, to other observers. However, as Mr. Manhue’s testimony did not suggest that he found the above requests to be unusual, so as to call for further inquiry, I will not put any weight on those requests.
+(e) Previously Unknown Tax Preparer
+[51] Before 2009, Mr. Manhue had always hired someone to prepare his annual income tax return. Generally he hired someone who lived in the neighbourhood where he was living at the particular time, although, on occasion, he sometimes used a tax preparer recommended by one of his co-workers. [98] When it came time to prepare his 2009 income tax return, Mr. Manhue followed the recommendation of a friend at work, who introduced him to Mr. McGann and Fiscal Arbitrators. [99] As noted above, before 2009 Mr. Manhue typically paid a fee in the range of $60 to $100 for a yearly tax return. For 2009, Fiscal Arbitrators charged an upfront fee of $500 plus a percentage of any tax refund obtained.
+(f) Incomprehensible Explanation by Tax Preparer
+[52] In his testimony, Mr. Manhue did not tell of any incomprehensible explanations provided to him by Mr. McGann. At the meeting which Mr. Manhue attended at the house of his friend’s sister, Mr. McGann explained how Fiscal Arbitrators prepared tax returns, [100] but Mr. Manhue did not provide the Court with the substance of Mr. McGann’s explanation.
+(g) Conduct of Others, Warnings or Concerns
+[53] There was no evidence to suggest that Mr. Manhue was aware of anyone who declined to engage Fiscal Arbitrators, that he was warned against doing so himself, or that he was fearful of telling others about Fiscal Arbitrators. Rather, Mr. Manhue’s friend at work stated that he had used Fiscal Arbitrators for two years without any problem. [101]
+(4) Inquiry to Understand Tax Return
+[54] Mr. Manhue did not research Mr. McGann’s background to ascertain whether he was an accountant or whether the other staff of Fiscal Arbitrators had any particular credentials. [102] When Mr. Manhue received the 2009 income tax return for signature, he did not ask for an explanation concerning the indicated income tax refund, even though he wondered how he was entitled to a refund of that amount. [103] As Mr. Manhue did not look at page 2 of his income tax return, he was not aware that he was claiming a net business loss in the amount of $263,351.82, so he did not make any inquiries about it. [104]
+[55] It appears that Mr. Manhue looked at the first page of the Statement of Business or Professional Activities, [105] which accompanied his 2009 income tax return. He testified that “it didn’t make sense with all the numbers on it”; however, he did not ask anyone to clarify what the document or the numbers meant. [106] Near the end of his cross‑examination, Mr. Manhue acknowledged that, although he did not understand the mechanics of what Fiscal Arbitrators was doing so that he could obtain a tax refund, he did not try to obtain clarification from them. [107]
+(5) Summary
+[56] Some of the warning signs described in Torres were not present in Mr. Manhue’s situation. For instance, Mr. Manhue’s previous tax preparers had not completed Box 490 on the tax returns which they prepared for him, so Mr. Manhue saw nothing irregular in Fiscal Arbitrators leaving Box 490 blank on the 2009 income tax return. Similarly, there was no specific evidence to suggest that Mr. Manhue found any of the requests made by Fiscal Arbitrators to be particularly unusual or any of the explanations given by Fiscal Arbitrators to be incomprehensible. There was nothing in the conduct of Mr. Manhue’s friends and associates that may have alerted him to any concerns about Fiscal Arbitrators, nor did anyone warn him not to engage Fiscal Arbitrators.
+[57] On the other hand, there were several perceptible warnings signs that may have or should have put Mr. Manhue on his guard. After speaking with his friend at work, Mr. Manhue understood that his friend had obtained significant income tax refunds, and Mr. Manhue hoped to do so himself. Although Mr. Manhue had previously paid a relatively modest fee each year for preparation of his tax return, he was willing to pay an upfront fee approximately five to eight times greater than what he had previously paid, together with a percentage of any refund obtained, in the hopes of obtaining a sizable refund like his friend had obtained. Mr. Manhue did not understand the mechanism whereby he would obtain a tax refund, but he did not seek clarification. [108] When Mr. Manhue looked at the first page of the Statement of Business or Professional Activities, it did not make any sense with all the numbers on it, but he did not ask anyone to clarify what that document or those numbers meant. [109] When Mr. Manhue glanced at the 2009 income tax return, before he signed it, he wondered how he was entitled to such a refund, but he did not ask for an explanation. [110] It seems that he was suppressing a suspicion. [111]
+[58] Mr. Manhue was aware that he would be obtaining a refund of the income tax paid by him for 2006 through 2008 and the income tax withheld at source for 2009. [112] This would have been a tax advantage of significant magnitude. The entries on page 2 of Mr. Manhue’s 2009 income tax return that were used to facilitate the claiming of the large refunds for those four taxation years were blatant and readily detectible by anyone who may have chosen to look thoughtfully at that page.
+[59] When Mr. Watts testified, he stated that, once Fiscal Arbitrators had prepared an income tax return for a client and had sent the return to the client, he did not know what the client did with the return and, in particular, he did not know whether the client filed the return with the CRA. [113] During direct examination, Mr. Manhue was asked whether he had heard that statement during Mr. Watts’ testimony and whether he even considered that he should not file the income tax return sent to him by Fiscal Arbitrators. Mr. Manhue replied:
+I don’t see why not. My knowledge is I am paying you for a service, and I pay you this amount of money to do my taxes. So -- and once it has come back to me completed, the only thing I have to do is sign it and send it in because you guys are professional; that’s my understanding of it. [114] [Emphasis added.]
+By stating that he only needed to sign and mail the tax return completed by Fiscal Arbitrators, Mr. Manhue was, in a sense, acknowledging that he did not want to know the contents of the return. In essence, he was displaying deliberate ignorance and deliberately choosing not to make inquiries. [115] This constitutes wilful blindness, by reason of which, knowledge of the false statements in the return may be imputed to Mr. Manhue.
+F. “Gross Negligence” Requirement
+[60] Subsection 163(2) of the ITA may apply where a taxpayer makes a false statement under circumstances amounting to gross negligence. The Federal Court of Appeal has indicated that gross negligence requires a higher degree of neglect than a mere failure to take reasonable care. [116] It involves a high degree of negligence, tantamount to intentional acting or indifference as to whether the law is complied with or not. [117]
+[61] In the context of tort law, some courts have suggested that the term “gross negligence” is not susceptible of a clear definition. [118] It has been described as “very great negligence,” [119] or as conduct representing “a very marked departure from the standards by which responsible and competent people … habitually govern themselves.” [120]
+[62] A finding of negligence in tort law requires a duty of care owed by the defendant to the plaintiff. In tax law, an analysis of gross negligence also includes a consideration of duty, but of a different nature. By reason of the Canadian self-reporting and self-assessing tax system, taxpayers have a duty to ensure that their income and expenses are correctly reported. [121] The Supreme Court of Canada put it this way:
+49. … The process of tax collection relies primarily upon taxpayer self-assessment and self-reporting….
+51. It follows from the tax scheme’s basic self-assessment and self-reporting characteristics that the success of its administration depends primarily upon taxpayer forthrightness…. “The entire system of levying and collecting income tax is dependent upon the integrity of the taxpayer in reporting and assessing income. If the system is to work, the returns must be honestly completed.” [122]
+Thus, Mr. Manhue, like every Canadian taxpayer, was subject to a duty to report his income and expenses accurately and honestly.
+[63] As indicated above, wilful blindness may support a finding of gross negligence. [123] One of the reasons why there may be some overlap between wilful blindness and gross negligence is that three of the factors considered in Torres in determining wilful blindness are also factors to be considered in determining gross negligence:
+In drawing the line between “ordinary” negligence or neglect and “gross” negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer’s education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence. [124]
+G. Standard of Conduct
+[64] In tort law, an analysis of negligence requires a consideration of the “reasonable person” standard. In tax law, as stated by Justice Owen, “the objective standard against which the conduct of the [taxpayer] is measured … is the expected conduct of a reasonable person in the same circumstances as the [taxpayer].” [125] As noted above, in another Fiscal Arbitrator case, Justice Bédard said that, “even with little formal education and even without understanding our tax system, a reasonable person could have easily questioned the legitimacy of these losses [fabricated by Fiscal Arbitrators].” [126]
+[65] The jurisprudence has established that a taxpayer who signs an income tax return without first reviewing it is grossly negligent. [127] Justice Bowie stated the following:
+… [I]n respect of the gross negligence penalties under the Income Tax Act, the Appellant in his own evidence early on made it clear that he signed his returns for each of the four years under appeal without having paid the least attention to what income was included in them and what expenses were claimed in them…. [T]he Appellant [had] an onus to look at the completed return before signing it and filing it with the Minister. The declaration that the taxpayer makes when he signs that form is,
+I certify that the information given on this return and in any documents attached is correct, complete and fully discloses all my income.
+To sign an income tax return and make that certification without having even glanced at the contents of the return … is of itself, in my view, gross negligence that justifies the penalties. [128]
+[66] During his direct examination, in explaining the steps that he took when he received his completed income tax return from Fiscal Arbitrators, Mr. Manhue stated:
+And this [the Tax Completion Checklist, i.e., Exhibit A-2] was on the front, which tells you what to do when you get it. And, when I opened it, that’s what I did. I did not go through it, page by page, because it was like this thick…. I just look for the “per”, where they said I had to sign, and I signed it up. And I put it back up, to fold it back and send it off. [129]
+Similarly, Mr. Manhue signed the Request for Loss Carryback without first reviewing it. [130] Based on the jurisprudence referenced above, Mr. Manhue’s failure to review his 2009 income tax return and Request for Loss Carryback before signing them was indicative of gross negligence.
+[67] Mr. Manhue placed great trust in Fiscal Arbitrators, which he explained this way:
+To my knowledge, I trust these organizations and I thought that’s why I am paying the money, because these are professionals. I don’t know anything about filing taxes or tax laws or nothing like that. So I put my trust with these guys. [131]
+On account of the trust that he had placed in Fiscal Arbitrators, Mr. Manhue did not review his income tax return or Request for Loss Carryback before signing them, nor did he take any steps to confirm that the information in those documents was correct and complete. [132]
+[68] In Lauzon, Deputy Judge Masse recognized that in some situations reliance on a trusted advisor may negate a finding of wilful blindness. [133] However, he then went on to add an important qualification:
+… there is a significant body of jurisprudence to the effect that taxpayers cannot avoid penalties for gross negligence by placing blind faith and trust in their tax preparers without at least taking some steps to verify the correctness of the information supplied in their tax returns. Quite apart from wilful blindness, taxpayers who take no steps whatsoever to verify the completeness and accuracy of the information contained in their returns may thereby face penalties for gross negligence. [134]
+Like the taxpayer in Lauzon, [135] Mr. Manhue placed undue trust in Fiscal Arbitrators, and made no effort to verify the accuracy of his income tax return before signing it and filing it with the CRA. Accordingly, Mr. Manhue failed in his duty to ensure that his income and expenses for 2009 were correctly reported.
+V. CONCLUSION
+[69] For the reasons set out above, I have concluded that both the “knowingly” requirement and the “gross negligence” requirement of subsection 163(2) of the ITA have been satisfied. Therefore, this Appeal is dismissed.
+[70] In recent years, due to the downturn in the automotive sector, Mr. Manhue’s financial position has not been strong. During his testimony, he indicated that lately he has been in a cycle of working for a few months, and then being laid off for a few months, before being called back to work. Accordingly, I anticipate that the penalty assessed against him under subsection 163(2) of the ITA, together with the accrued interest, will be difficult for him to satisfy. Therefore, in exercising the discretion conferred by subsection 147(1) and paragraph 147(3)(j) of the Tax Court of Canada Rules (General Procedure) (the “Rules”), I have determined that it is not appropriate to award costs against Mr. Manhue. [136]
+Signed at Ottawa, Canada, this 17th day of April 2018.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2018 TCC 71
+COURT FILE NO.:
+2013-605(IT)G
+STYLE OF CAUSE:
+NICHOLAS MANHUE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 26, 2016 and September 8, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+April 17, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Archie B. Palinka
+Counsel for the Respondent:
+Christian Cheong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Archie B. Palinka
+Firm:
+Unifor Legal Services Plan
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985 c.1 (5thsupplement), as amended.
+[2] Transcript, September 8, 2017, p. 99, line 25 to p. 100, line 6.
+[3] Ibid., p. 100, line 6 to p. 101, line 17.
+[4] Ibid., p. 101, line 18 to p. 102, line 11. In the remainder of these Reasons, I will use the term “tax preparer,” rather than the term “tax-return preparer.”
+[5] Ibid., p. 104, lines 1-12.
+[6] Ibid., p. 143, line 15 to p. 144, line 4.
+[7] Elsewhere, Mr. Manhue stated “Based on what my friend says, he got a big refund.” Ibid., p. 161, lines 19-20.
+[8] Ibid., p. 104, lines 22-25.
+[9] Ibid., p. 104, lines 25-26.
+[10] Ibid., p. 104, line 28 to p. 105, line 5.
+[11] Ibid., p. 118, lines 17-19; see also p. 141, lines 8-11; and p. 150, lines 12-17.
+[12] Exhibit A-5.
+[13] Transcript, September 8, 2017, p. 114, line 1 to p. 118, line 14; and Exhibit A-2.
+[14] Exhibit A-6, Tab 2.
+[15] Exhibit A-6, Tab 1.
+[16] Exhibit A-6, Tab 3.
+[17] Transcript, September 8, 2017, p. 119, lines 1-20.
+[18] Ibid., p. 118, lines 15-23; and p. 147, lines 10-14.
+[19] Ibid., p. 150, line 28 to p. 151, line 6.
+[20] Transcript, September 26, 2016, p. 128, lines 8-16; and p. 133, lines 5-27.
+[21] Transcript, September 8, 2017, p. 129, lines 8-10.
+[22] Transcript, September 26, 2016, p. 132, line 17.
+[23] Ibid., p. 129, lines 21-27.
+[24] Ibid., p. 129, line 28 to p. 130, line 14.
+[25] Ibid., p. 134, lines 1-9.
+[26] Transcript, September 8, 2017, p. 118, lines 19-28.
+[27] Transcript, September 26, 2016, p. 128, lines 8-16.
+[28] Ibid., p. 133, lines 6-27. In describing the location of the parking lot, during this exchange, Mr. Palinka referred to “Victoria Trail”; however, based on all of the other references in the testimony of Mr. McGann and Mr. Manhue, I think that it was likely intended to be Victoria Park, rather than Victoria Trail.
+[29] Ibid., p. 138, lines 15-20. In asking the question at this point in the exchange, Mr. Palinka referred to both Victoria Trail and Victoria Park.
+[30] Exhibit A-6, Tab 4; and Transcript, September 8, 2017, p. 125, line 3 to p. 129, line 9.
+[31] Exhibit A-6, Tab 5; and Transcript, September 8, 2017, p. 127, line 10 to p. 129, line 28.
+[32] R. v Watts, 2016 ONSC 4843; Exhibit A-4.
+[33] Transcript, September 8, 2017, p. 91, lines 25-27; see also p. 139, line 27 to p. 140, line 2.
+[34] Ibid., p. 89, lines 21-23; and p. 91, lines 16-26.
+[35] Ibid., p. 41, lines 24-28; and p. 80, lines 24-28.
+[36] Ibid., p. 77, lines 17-20; and p. 81, line 9 to p. 82, line 4.
+[37] Ibid., p. 77, lines 8-16.
+[38] Ibid., p. 72, line 19 to p. 73, line 5. See Exhibit A-5.
+[39] Transcript, September 8, 2017, p. 80, lines 24-28; and p. 89, line 27 to p. 90, line 1.
+[40] Ibid., p. 89, lines 2-3.
+[41] Ibid., p. 46, line 17 to p. 49, line 15; p. 68, lines 16-24; and p. 74, line 25 to p. 75, line 17.
+[42] Ibid., p. 72, line 19 to p. 73, line 5.
+[43] Ibid., p. 80, lines 13-23.
+[44] Ibid., p. 86, lines 4-8.
+[45] Ibid., p. 87, lines 16-22.
+[46] Ibid., p. 89, line 24 to p. 90, line 6.
+[47] Exhibit A-6, Tab 2.
+[48] Transcript, September 8, 2017, p. 142, lines 2-4; p. 146, lines 11-13; and p. 152, lines 16-19.
+[49] Exhibit A-6, Tab 1.
+[50] Exhibit A-6, Tab 3.
+[51] Wynter v The Queen, 2017 FCA 195.
+[52] Ibid., ¶12-13 & 16-20. For certain of the statements made in paragraphs 13 and 17 of the above excerpt from Wynter, Justice Rennie cited R. v Briscoe, 2010 SCC 13, ¶21 & 23-24, and Sansregret v The Queen, [1985] 1 SCR 570, ¶24, and for certain of the statements made in paragraph 19 of the above excerpt, Justice Rennie cited Zsoldos v Canada (Attorney General), 2004 FCA 338, ¶21, and Venne v The Queen, 84 DTC 6247 at 6256 (FCTD).
+[53] Torres et al. v The Queen, 2013 TCC 380, ¶65; aff’d subnom Strachan v The Queen, 2015 FCA 60.
+[54] Transcript, September 8, 2017, p. 99, line 22 to p. 100, line 6.
+[55] Ibid., p. 162, line 20 to p. 163, line 12.
+[56] Torres, supra note 53, ¶77.
+[57] Chénard v The Queen, 2012 TCC 211, ¶7(b).
+[58] Torres, supra note 53, ¶49.
+[59] Chartrand v The Queen, 2015 TCC 298, ¶3 & 25.
+[60] Spurvey v The Queen, 2015 TCC 300, ¶4-5.
+[61] Maynard v The Queen, 2016 TCC 21, ¶3-4 & 33; aff’d, 2016 FCA 251.
+[62] Ramlal v The Queen, 2016 TCC 26, ¶2.
+[63] Daszkiewicz v The Queen, 2016 TCC 44, ¶2.
+[64] Sledge v The Queen, 2016 TCC 100, ¶2.
+[65] Wynter v The Queen, 2016 TCC 103, ¶5 & 18; aff’d, 2017 FCA 195.
+[66] De Gennaro v The Queen, 2016 TCC 108, ¶9 & 64.
+[67] Mayne v The Queen, 2016 TCC 212, ¶2.
+[68] Hogg v The Queen, 2017 TCC 231, ¶6.
+[69] Romaker v The Queen, 2017 TCC 241, ¶2 & 27.
+[70] Peck v The Queen, 2018 TCC 52, ¶5.
+[71] Lavoie et al. v The Queen, 2015 TCC 228, ¶17 & 23-25.
+[72] Anderson v The Queen, 2016 TCC 93, ¶5-6.
+[73] Kajtor v The Queen, 2018 TCC 6, ¶4 & 10.
+[74] Anderson, supra note 72, ¶93.
+[75] Kajtor, supra note 73, ¶5, 18, 20, 36, 37, 40-42 and 45.
+[76] Transcript, September 8, 2017, p. 146, line 23 to p. 147, line 3.
+[77] Ibid., p. 148, line 21 to p. 149, line 4.
+[78] Ibid., p. 142, line 5 to p. 143, line 7; and p. 145, line 26 to p. 146, line 1.
+[79] Ibid., p. 148, lines 3-6.
+[80] Ibid., p. 46, line 17 to p. 47, line 9; p. 49, lines 9-15; p. 108, lines 3-19; p. 113, line 26 to p. 114, line 4; p. 145, lines 23-25; and p. 161, line 20; and Transcript, September 26, 2016, p. 111, line 13 to p. 112, line 19; and p. 116, lines 24-27. Mr. McGann was not certain that 10% was the stipulated percentage.
+[81] Ibid., p. 161, lines 16-22.
+[82] Ibid., p. 147, lines 15-26.
+[83] Exhibit A-6, Tab 2, p. 2.
+[84] Chénard, supra note 57, ¶21.
+[85] Exhibit A-6, Tab 2, p. 4 (this is the number of the page in the exhibit, not the return).
+[86] Transcript, September 8, 2017, page 142, lines 2-4; page 146, lines 11-13; p. 150, line 6; and p. 152, lines 18-19.
+[87] For a discussion of the meaning of “blatant,” see Rowe v The Queen, 2017 TCC 122, ¶23, fn. 27.
+[88] Exhibit A-6, Tab 2, page 19. See also Transcript, September 8, 2017, p. 149, lines 8-14.
+[89] Ibid., p. 149, lines 15-22.
+[90] Ibid., p. 108, lines 3-5; and Transcript, September 26, 2016, p. 112, lines 5-17; and p. 116, lines 24-27.
+[91] Transcript, September 8, 2017, p. 106, line 19 to p. 108, line 16; Exhibit A-5.
+[92] Ibid., p. 151, lines 7-11; and p. 162, lines 5-11.
+[93] Exhibit A-2.
+[94] Ibid.; see also Transcript, September 8, 2017, p. 119, line 25 to p. 120, line 5.
+[95] Ibid., p. 114, line 21 to p. 115, line 9; and p. 117, lines 7-17.
+[96] Exhibit A-2.
+[97] Transcript, September 8, 2017, p. 123, lines 5-11.
+[98] Ibid., p. 101, line 21 to p. 103, line 28; and p. 142, lines 5-8.
+[99] Ibid., p. 104, lines 1-19.
+[100] Ibid., p. 104, lines 8-27.
+[101] Ibid., p. 104, lines 5-7; and p. 140, lines 5-9.
+[102] Ibid., p. 144, lines 5-14.
+[103] Ibid., p. 147, lines 19-26.
+[104] Ibid., p. 149, line 28 to p. 150, line 11.
+[105] Exhibit A-6, Tab 1.
+[106] Ibid., p. 151, line 19 to p. 152, line 1.
+[107] Ibid., p. 159, lines 5-15.
+[108] Ibid., p. 159, lines 5-15.
+[109] Ibid., p. 151, line 19 to p. 152, line 1.
+[110] Ibid., p. 147, lines 19-26.
+[111] Wynter, supra note 51, ¶17.
+[112] Ibid., p. 151, lines 7-11.
+[113] Ibid., p. 76, lines 3-5 & 12-15; p. 90, lines 7-12; p. 93, lines 4-12; p. 94, lines 4-8; p. 95, lines 10-25; p. 96, lines 7-22; and p. 97, lines 22-26. During Mr. Manhue’s direct examination, Mr. Palinka, in summarizing his recollection of the testimony given by Mr. Watts, personalized that testimony by indicating that Mr. Watts had stated that, when he sent the 2009 income tax return package to Mr. Manhue, he did not know and did not care what Mr. Manhue would do with it; see ibid., p. 123, line 23 to p. 124, line 4. I could not find in the transcript a place where Mr. Watts made such a comment with respect to Mr. Manhue specifically. To the contrary, I found several situations where Mr. Watts refused to acknowledge that Fiscal Arbitrators had prepared Mr. Manhue’s 2009 income tax return. The statements by Mr. Watts that are cited in this footnote were all made in a general context, rather than being specific to Mr. Manhue. However, I do not think that anything turns on Mr. Palinka, in posing the above question to Mr. Manhue, having a recollection of Mr. Watts’ testimony that was personalized to Mr. Manhue’s situation, when that testimony appears to have actually been given in a generalized context.
+[114] Ibid., p. 124, lines 7-12.
+[115] Wynter, supra note 51, ¶13 & 16-17.
+[116] Ibid., ¶19; and Melman v The Queen, 2017 FCA 83, ¶4.
+[117] Melman, supra note 116, ¶4; Wynter, supra note 51, ¶19; and Venne v The Queen, [1984] CTC 223, 84 DTC 6247 (FCTD), ¶37.
+[118] Lewis N. Klar, Tort Law, 5th ed. (Toronto: Thomson Carswell, 2012), p. 372; citing Holland v Toronto (City), [1927] SCR 242; (1926) 59 OLR 628 at 634 (SCC). See also Occhino v Winnipeg (City), (1988) 51 DLR (4th) 546 at 548 (Man. CA).
+[119] Allen M. Linden and Bruce Feldthusen, Canadian Tort Law, 10th ed. (Toronto: LexisNexis Canada Inc., 2015) p. 199; citing Kingston (City) v Drennan, (1897) 27 SCR 46 at 60; and Studer v Cowper, [1951] SCR 450 at 455.
+[120] Klar, supra note 118, p. 373; citing McCulloch v Murray, [1942] SCR 141 at 145.
+[121] Janovsky v The Queen, 2013 TCC 140, ¶24; see also R. v McKinlay Transport Ltd. et al., [1990] 1 SCR 627 at 636.
+[122] Jarvis v The Queen, 2002 SCC 73, ¶49 & 51. The statement within quotation marks in paragraph 51 of Jarvis is taken from Knox Contracting Limited et al. v. The Queen, [1990] 2 SCR 338 at 350.
+[123] Wynter, supra note 51, ¶20; see also Lauzon v The Queen, 2016 FCA 298, ¶8; and Strachan, supra note 53, ¶4.
+[124] DeCosta v The Queen, 2005 TCC 545, ¶11. Although DeCosta indicated that a taxpayer’s education and apparent intelligence are relevant in determining gross negligence, in Peck, supra note 70, ¶51, Justice Owen stated that “the objective nature of the gross negligence standard means that the personal attributes of the individual are not relevant unless the individual establishes that he or she is incapable of understanding the risk the individual has failed to avoid….”
+[125] Peck, supra note 70, ¶55.
+[126] Chénard, supra note 57, ¶21. See paragraph 45 above.
+[127] Hogg, supra note 68, ¶20; Lauzon v The Queen, 2016 TCC 71, ¶32, aff’d, Lauzon (FCA), supra note 123; Atutornu v The Queen, 2014 TCC 174, ¶12 & 21; Bhatti v The Queen, 2013 TCC 143, ¶23 & 30; Gélinas v The Queen, 2009 TCC 136, ¶11; Laplante v The Queen, 2008 TCC 335, ¶15.
+[128] Brown v The Queen, 2009 TCC 28, ¶20.
+[129] Transcript, September 8, 2017, p. 118, lines 13-16 & 20-23; see also p. 147, lines 10-14; and p. 150, lines 10-11.
+[130] Ibid., p. 150, line 28 to p. 151, line 6.
+[131] Ibid., p. 138, lines 24-28; see also p. 141, lines 6-13; p. 149, lines 4-6; and p. 151, lines 16-18.
+[132] Ibid., p. 149, lines 4-6; and p. 151, lines 16-18.
+[133] Lauzon (TCC), supra note 127, ¶33; aff’d (FCA), supra note 123.
+[134] Ibid. (TCC), ¶34. See also Chartrand, supra note 59, ¶39-47; and Brochu, 2011 TCC 75, ¶22.
+[135] Lauzon (TCC), supra note 127, ¶45; aff’d (FCA), supra note 123.
+[136] See Torres, supra note 53, ¶78; aff’d Strachan, supra note 53. My decision not to award costs against Mr. Manhue should not be seen as indicative as to how I might exercise the discretion under subsection 147(1) of the Rules in future cases involving taxpayers who used the services of Fiscal Arbitrators or similar tax preparers.

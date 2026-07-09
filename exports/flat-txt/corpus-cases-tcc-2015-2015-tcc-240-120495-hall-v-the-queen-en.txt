@@ -1,0 +1,205 @@
+Title: Hall v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/120495/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-240-120495-hall-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-10-13
+
+# Hall v. The Queen
+
+- Citation: 2015 TCC 240
+- Decision date: 2015-10-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2722, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-10-13
+Neutral citation
+2015 TCC 240
+File numbers
+2014-648(IT)G, 2014-776(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-648(IT)G
+BETWEEN:
+KENNETH WILLIAM HALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-776(IT)G
+BETWEEN:
+ARLENE DONNA HALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on August 20, 2015, at Prince George, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Jeff Watson
+JUDGMENT
+The Appeals from the assessments made under the Income Tax Act with respect to the Notice of Assessment bearing number 1504135, are dismissed.
+Signed at Ottawa, Canada, this 13th day of October 2015.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2015 TCC 240
+Date: 20151013
+Docket: 2014-648(IT)G
+BETWEEN:
+KENNETH WILLIAM HALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2014-776(IT)G
+BETWEEN:
+ARLENE DONNA HALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Kenneth Hall and Arlene Hall (the “Appellants”) were assessed on September 12, 2011 as directors of Petco Holdings Inc. (the “Company”) pursuant to section 227.1 of the Income Tax Act (the “Act”). The Appellants object to the assessments on three grounds:
+i. the Minister of National Revenue (the “Minister”) has been unable to prove that the amounts assessed accurately reflect the amounts actually owed by the Company for employee source deductions;
+ii. the Appellants ceased to be directors prior to September 12, 2009; and
+iii. the Appellants exercised due diligence in attempting to prevent the Company’s failure to remit source deductions.
+[2] Hall was the only witness for the Appellants. He testified that he was the decision-maker when it came to deciding what the Company should pay and what it could defer. Mrs. Hall looked to him for direction in that regard. She had no authority to make payments if Mr. Hall, as he put it, went down a different path.
+[3] The Company was in the alarm system business and had been for many years prior to the 2004 to 2005 taxation years, the years in which the Company failed to remit the source deductions at issue. In the late 1990’s, the Company built a new building, which ultimately caused greater expense than anticipated. Mr. Hall left me with the impression this was the beginning of the Company’s financial woes. By 2004, Mr. Hall acknowledged that the Company was not making the payments it should have been making, but in fact paid whoever would allow for the continued operation of the Company. The Halls were well aware in 2004 and 2005 of the Company’s financial problems specifically relating to source deduction remittances. This arose due to the Company’s cash flow difficulties. The Halls maxed out the mortgage on their residence to put money into the business. They cut their own salaries significantly, ultimately taking home less than their employees. They pushed their suppliers to the limit to the point that no credit was left with them.
+[4] Mr. Hall acknowledged that he decided to pay employees before he paid the Canada Revenue Agency (“CRA”). He suggested his dilemma was whether he should pay the CRA recognizing the directors’ liability, should he pay the employees, again recognizing potential directors’ liability and the harm the workers would suffer if he did not, or should he pay the Worker’s Compensation Board again recognizing directors’ liability, or should he make loan payments recognizing the Halls could possibly lose their home if he did not. He opted against paying the CRA on a timely basis, though the Company did make significant payments of $165,000 from September 2004 to April 2007 to North Central Bailiffs Ltd., the bailiff attempting to collect on writs issued pursuant to Federal Court certificates. I will discuss this in greater detail shortly.
+[5] Throughout 2004 and 2005, Mr. Hall was in regular communication with the CRA. The CRA actually would freeze the Company’s account and upon receiving a form of release from the Halls would unfreeze the account. One of the terms of the form of release that the CRA required the Halls, as directors, to sign was:
+I personally undertake not to use or rely on the fact of the agreement as an argument or grounds for defence in proceedings resulting from the application of the provisions of section 227.1 of the Income Tax Act.
+[6] The Halls provided this type of agreement to the CRA in January 2003 and again in February 2004. In the interim, the Company’s debt to the CRA for source deductions had increased not decreased. I find that the ongoing dialogue between Mr. Hall and the CRA was after default of payment, dealing with terms of repayment, not how to prevent future default. Whatever the arrangement with the CRA it was clearly not working.
+[7] Corporate assessments were issued on March 15, 2005 as follows:
+[8] Returning to the payments of $165,000 made by the Company to the bailiffs, it is not as clear as it might be where those payments went. Mr. Hall does not know. The two CRA collections officers who testified presumed such amounts were received and attributed to a GST debt the Company had accumulated. One collections officer, Mr. Devauld, swore in an affidavit that no amounts were received by the CRA from the bailiffs with respect to the Company’s payroll account between January 1, 2004 and December 31, 2008, yet goes on to state that during that time the Company’s payroll account was credited with the following payments:
+(a) on August 1, 2007, $16,689.87 was transferred from the GST account of Petco Holdings;
+(b) on August 1, 2007, $2,654.60 was received pursuant to a Requirement to Pay issued to Vernon Business Service;
+(c) on August 31, 2007, $14,000 was transferred from the GST account of Petco Holdings;
+(d) on November 26, 2007, $2,180.00 was transferred from the GST account of Petco Holdings Inc.; and
+(e) on March 31, 2008, $9,072.00 was received pursuant to a Requirement to Pay;
+(f) on July 29, 2008, $1,188.59 was received pursuant to a Requirement to Pay;
+(g) on August 8,2008, $1,158.94 was received pursuant to a Requirement to Pay;
+(h) on August 12, 2008, $1,317.03 was received pursuant to a Requirement to Pay;
+(i) on September 18, 2008, $1,991.45 was transferred from the GST account of Petco Holdings;
+(j) on September 24, 2008, $1,693.49 was received pursuant to a Requirement to Pay;
+(k) on December 9, 2008, $1,004.92 was paid by Petco Holdings to the Canada Revenue Agency.
+This totals approximately $53,000. It is noteworthy that the first payment represents funds transferred from the Company’s GST account, over $32,000 in total being transferred from the GST account.
+[9] Mr. Devauld’s affidavit also states:
+6. The Director’s liability assessments in these matters, in the amount of $107,064.31, are based upon Writ ITA-13652-05, issued on December 29, 2005, and includes the following amounts:
+(a) amounts assessed to Petco Holdings Inc. for the period of January 1 to December 31, 2004, including:
+i. federal tax of $31,669.86;
+ii. provincial tax of $12,034.40;
+iii. Canada Pension Plan contributions of $11,275.82;
+iv. Employment Insurance premiums of $4,373.25;
+v. penalties totalling $5,480.34; and
+vi. interest totalling $1,943.14;
+(b) amounts assessed to Petco Holdings Inc. for the periods of January, February, July, August and September 2005, including:
+i. federal tax of $1,911.13;
+ii. provincial tax of $726.22;
+iii. Canada Pension Plan contributions of $1,743.32;
+iv. Employment Insurance premiums of $960.93;
+v. penalties totalling $484.16; and
+vi. interest totalling $21.00; and
+(c) additional interest of $34,440.74 accrued between November 30, 2005 and September 12, 2011.
+[10] What is not clear to me is what payroll account was credited with $53,000 if not the amounts owing in 2004 and 2005.
+[11] The Federal Court of Canada issued a certificate and writ with respect to the Act file 13652-05 on December 29, 2005 and February 22, 2006, respectively, in the amount of $72,623.57. The writ has a note from the bailiff dated September 15, 2008 indicating “no further exigible goods”. There were, according to the collections officers, other certificates and writs which one officer suggested made it difficult to track all the payments received, whether or not through the bailiff, as to which account of the Company they were attributed. There was an earlier writ ITA-7393-06 dated June 21, 2001 for $44,668 and a writ ITA-4870-04 for outstanding payroll amount of $123,886 dated March 30, 2004. In an affidavit from Mr. Chris Johansen, a technical advisor in collections with the CRA, he states:
+9. the payroll account payments made by or on behalf of the Appellant during 2007 and 2008 totaled $47,294.88 paid, as per Schedule A, but I cannot determine which Writ they were applied against.
+10. On June 5, 2012 a CRA write-down of the Petco Holdings Inc. payroll was processed:
+ACCOUNT BALANCE: $332,401.85
+WRITE DOWN AMOUNT: $225,337.54
+BALANCE COLLECTIBLE: $107,064.31
+YEAR(S): 2001/2002/2003/2004/2005/2006/2007/2008
+Mr. Hall was clearly frustrated by the fuzziness surrounding this accountability.
+[12] After a seizure of assets in May 2007 the business was effectively closed. It appears it was a year, however, before the bailiff submitted remaining proceeds to the CRA and returned the writ unsatisfied.
+[13] In June 2009, the Halls were advised by their lawyer that the Company would be dissolved within a month. A notice of commencement of dissolution from the British Columbia Corporate Registry on June 2, 2009 indicates the Company is in the throes of dissolution. Specifically, the notice states:
+If, within one month after the date of this notice, the company fails to file all outstanding annual reports, a notice may be published on the Queen’s Printer Web site www.qplegaleze.ca. This notice will state that, at any time after the expiration of one month after the date of publication of the notice, the company will be dissolved, unless cause is shown to the contrary or a copy of an entered court order to the contrary is filed.
+…
+If you fail to file the annual reports or to request a delay in dissolution, and your company is dissolved under section 422, section 347 of the Act states the liability of every director, officer, liquidator and shareholder of a company that is dissolved continues and may be enforced as if the company has not been dissolved.
+[14] The Company was not, however, struck until September 14, 2009. The personal assessment against the Halls, as directors, was brought on September 12, 2011.
+Analysis
+[15] Are the Halls liable as directors pursuant to section 227.1 of the Act parts of which read:
+227.1(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+(2) A director is not liable under subsection 227.1(1), unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+(3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(4) No action or proceedings to recover any amount payable by a director of a corporation under subsection 227.1(1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+[16] I will deal first with Mr. Hall’s concern that the Federal Court of Canada’s certificate of December 29, 2005 is incorrect. His basis for this assertion is that he has never been provided with a detailed accounting as to what payments were applied to which writs, both GST and income tax. Indeed, he claims to have no information that the monies paid to Northern Central Bailiffs Ltd. ($165,000) were ever even received by the CRA. Mr. Hall is claiming that there is a possibility monies may have or should have been applied to the income tax withholding deficiency, significantly decreasing the outstanding amount of $72,623. Notwithstanding some lack of clarity from the CRA, there is no doubt considerable amounts were owed by Petco, considerable amounts were collected, yet considerable amounts remained unpaid. While Mr. Hall raises the possibility of funds collected by the bailiff should have gone to reduce the payroll amount for which he is now personally liable, I have no convincing evidence upon which to conclude the account has not properly been credited by the CRA. The Minister’s assumptions as to the amount owing under writ ITA-13652-05 have not been demolished.
+[17] Mr. Hall’s second argument is that he and Mrs. Hall resigned prior to September 14, 2009, the formal date of dissolution of the Company in British Columbia. Mr. Hall argues that he and Mrs. Hall should not be held to be directors during the period from July to September 2009 simply because the British Columbia Corporation Registry administration did not move as expediently as anticipated it should have. Mr. Hall implicitly asked the following – does a directorship end only on the formal date of dissolution? Does the Company’s existence depend on a registration that is in the throes of dissolution? Can the end of the one-month period referred to in the notice be considered the end of the directorships?
+[18] While these were all thoughtful concerns presented by Mr. Hall, the British Columbia Corporate Act in section 422 is explicit that the date of dissolution is the “date and time recorded in the corporate register as the date and time of dissolution”. That date was September 14, 2009. There is no basis for me to find otherwise. The personal assessments were brought on a timely basis.
+[19] I turn now to the due diligence defence found in subsection 227.1(3) of the Act.
+[20] Considerable case law has arisen in connection with the due diligence defence. There used to be a subjective/objective approach to determining the reasonableness of a director’s due diligence efforts. More recently the law has evolved to simply an objective standard that was explained in the Federal Court of Appeal decision of Buckingham v The Queen[1] as follows:
+37. Consequently, I conclude that the standard of care, skill and diligence required under subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act is an objective standard as set out by the Supreme Court of Canada in Peoples Department Stores.
+…
+52. Parliament did not require that directors be subject to an absolute liability for the remittances of their corporations. Consequently, Parliament has accepted that a corporation may, in certain circumstances, fail to effect remittances without its directors incurring liability. What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.
+…
+56. A director of a corporation cannot justify a defence under the terms of subsection 227.1(3) of the Income Tax Act where he condones the continued operation of the corporation by diverting employee source deductions to other purposes. The entire scheme of section 227.1 of the Income Tax Act, read as a whole, is precisely designed to avoid such situations. In this case, though the respondent had a reasonable (but erroneous) expectation that the sale of the online course development division could result in a large payment which could be used to satisfy creditors, he consciously transferred part of the risks associated with this transaction to the Crown by continuing operations knowing that employee source deductions would not be remitted. This is precisely the mischief which subsection 227.1 of the Income Tax Act seeks to avoid.
+57. Once the trial judge found as a matter of fact that the respondent’s efforts after February 2003 were no longer directed towards the avoidance of failures to remit, no successful defence under either subsection 227.1(3) of the Income Tax Act or subsection 323(3) of the Excise Tax Act could be sustained.
+[21] Mr. Hall argued he should not be saddled with this new more stringent test but that the objective/subjective test prior to Buckingham is what should govern his case, given that was the law in 2004 and 2005. I do not accept this proposition. Common law tests evolve. In any event, I do not believe reliance on an earlier enunciation of the test would assist Mr. Hall.
+[22] Have the Halls, as directors, simply condoned the continued operation of the Company by diverting source deductions to other purposes? I find they have. Where it is clear, as here, that it is the director himself, in Mr. Hall’s case, who made the decision to pay other creditors rather than remit the source deduction funds to the CRA, it is difficult to see exactly what steps such a director could have taken to meet the due diligence standard. This is not a situation of a director playing only the role of director, but the director is also the manager – the decision-maker. There are several examples of what the non-manager/director might do when cash flow is a problem and remittances are at issue:
+- instruct management to actively seek funding;
+- instruct management to establish separate accounts;
+- instruct management to trim expenses;
+- instruct management to lay-off employees;
+- obtain financial advice or assistance;
+- fire the financial officer or CEO;
+- devise a new business plan;
+- approach the CRA before default.
+These all presuppose that the directors have some ability to act, unlike in a situation such as in the case of Worrell v Canada[2] where it was found the bank had control over such decisions.
+[23] What can the director, who is also charged as manager with deciding who to pay when cash flow is a problem, do? This is more problematic. I do not intend to revert to any active versus passive director distinction as far as the test or standard to be met. The objective standard of how the reasonable director exercises his or her duty of care, diligence and skill is the same. But, it is simply an uncomfortable reality for the managing director that options are more limited: for example, it is unrealistic to expect such a director to fire himself.
+[24] Mr. Hall did seek other financing through personal loans and did cut back wages to himself and Mrs. Hall, but ultimately still opted to pay others to keep the business afloat. Also, those actions were instituted with a view to repay already failed remittances. So, obviously, these efforts did not prevent the failure. Are they sufficient to have met the duty of care, diligence and skill? What would the reasonable director have done differently? With the greatest respect to Mr. Hall, who struck me as an individual of integrity, who cooperated fully and helpfully after the defaults to see the CRA paid, and whose world has since collapsed around him, the reasonable director would have considered shutting the door and stopping the bleeding, or hiring new management. This is in hindsight easy to say and, perhaps getting to my earlier point, easier for the non-managing director to do.
+[25] Justice Boyle in the case of Deakin v The Queen[3] dealt with a similar situation and his comments are noteworthy in that regard:
+22. Based upon the facts of this case, nothing was done to prevent the failures to remit. The Deakins made informed and considered decisions to use the source deductions and GST in part to pay its suppliers and employees and only remitted a portion to CRA. The many earnest efforts of the Deakins to address the arrears cannot help in this case to establish a due diligence defence. For this reason, the appeals must be dismissed except to the extent of the concession made by the Crown at trial in respect of the dividend received from the bankrupt estate of Deatech in the amount of $23,316.99 which reduced the income tax source deduction arrears.
+23. Given the specific wording of the subsections and the Federal Court of Appeal’s comments in Buckingham, it appears somewhat difficult to imagine circumstances in which an informed and active owner-manager and director of a corporation will not be liable for unremitted employee source deductions and unremitted GST amounts. As mentioned above, the scope of the Worrell exception post-Buckingham remains to be developed in other cases than the Deakins’.
+24. Source deductions and GST remittances are required by law to be made by a business corporation. These are not the corporation’s own funds. The corporation has collected them from its employees and customers. Those employees and customers are given credit for these amounts once withheld and collected, even when not remitted. When owner-managers and directors decide to use these funds to keep their business afloat and support their investments, they are making all Canadian taxpayers invest involuntarily in a business and investment in which they have no upside. In doing so, shareholders and corporate decision-makers are investing or gambling with other people’s money. Directors should be aware of that when they cause or permit this to happen. The directors’ liability provisions of the legislation should be regarded by business persons as somewhat similar to a form of personal guarantee by the directors that can expose them to comparable liability for the amount involved. It is they who are deciding to invest the funds in their own business, for their own gain, not the government or people of Canada. They are doing so contrary to clear law and it appears appropriate as a policy matter that Parliament has legislated clearly that they will generally be responsible for such decisions and the loss resulting from them. In essence, if a corporation and its directors choose to unilaterally “borrow” from Canadian taxpayers and the public purse, Canadians get the benefit of security akin to personal guarantees of the directors.
+[26] While the Federal Court of Appeal has stated in Buckingham that “Parliament did not require that directors be subject to an absolute liability”, if a director is the very person who ultimately makes the decision to not make remittances to the Government, in favour of paying other creditors, it is difficult to perceive of an available due diligence defence. Such a director is assuming a personal liability.
+[27] Does a director, such as Mrs. Hall, who apparently followed Mr. Hall’s instructions escape liability? It is for Mrs. Hall to prove that she acted reasonably to prevent the failure. She knew the Company was in financial straits and, effectively, let Mr. Hall take the lead. This is not sufficient to escape liability.
+[28] The Appeals are dismissed.
+Signed at Ottawa, Canada, this 13th day of October 2015.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2015 TCC 240
+COURT FILE NO.:
+2014-648(IT)G and 2014-776(IT)G
+STYLE OF CAUSE:
+KENNETH WILLIAM HALL AND HER MAJESTY THE QUEEN AND ARLENE DOONA HALL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Prince George, British Columbia
+DATE OF HEARING:
+August 20, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+October 13, 2015
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Jeff Watson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2011 FCA 142.
+[2] [2001] 2 F.C. 203.
+[3] 2012 TCC 270.

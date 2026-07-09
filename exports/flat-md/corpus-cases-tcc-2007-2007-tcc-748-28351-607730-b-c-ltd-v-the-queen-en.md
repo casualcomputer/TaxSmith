@@ -1,0 +1,166 @@
+---
+title: "607730  B C  Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28351/index.do"
+last_modified: "2007-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 748"
+citation2: ""
+neutral_citation: "2007 TCC 748"
+decision_date: "2007-11-21"
+language: "en"
+item_id: "28351"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1936
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:31:47.036000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "be73fa3b5ee8a7e0b91e06aa3c32cc175622b1ffcb31c44400fcc938cd67eb80"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 607730  B C  Ltd v. The Queen
+
+- Citation: 2007 TCC 748
+- Decision date: 2007-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1936, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+607730 B C Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-21
+Neutral citation
+2007 TCC 748
+File numbers
+2007-38(GST)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-38(GST)I
+BETWEEN:
+607730 B.C. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 21, 2007 Victoria, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Duncan Morrison
+Counsel for the Respondent:
+Fiona Mendoza
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Excise Tax Act, notice of which bears the number A106677, is dismissed.
+Signed at Ottawa, Canada, this 17th day of December, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+Citation: 2007TCC748
+Date: 20071217
+Docket: 2007-38(GST)I
+BETWEEN:
+607730 B.C. LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, 607730 B.C. Ltd., is appealing Notice of Assessment No. A106677 made by the Minister of National Revenue pursuant to the Excise Tax Act.
+[2] The Minister assessed the Appellant for $17,005.28 in respect of its failure to remit that amount under a Requirement to Pay issued on May 15, 2003. As of that date, according to the Minister, the Appellant owed at least that amount to Grampian Construction Ltd. for renovation work that company had done for the Appellant. Pursuant to subsection 317(1) of the Act, the Minister issued a Requirement to Pay against Grampian's debtor, the Appellant, to recover Grampian's unremitted Goods and Services Tax:
+317.(1) Garnishment – If the Minister has knowledge or suspects that a particular person is, or will be within one year, liable to make a payment to another person who is liable to pay or remit an amount under this Part (in this subsection and subsections (2), (3), (6) and (11) referred to as the "tax debtor"), the Minister may, be notice in writing, require the particular person to pay without delay, if the moneys are payable immediately, an in any other case as and when the moneys become payable, the moneys otherwise payable to the tax debtor in whole or in part to the Receiver General on account of the tax debtor's liability under this Part.
+[3] The facts assumed by the Minister are set out in paragraph 8 of the Reply to the Notice of Appeal:
+a) Grampian was in the construction business;
+b) Grampian was registered under Part IX of the Act, effective October 17, 2000, and was assigned Goods and Services Tax ("GST") registration number 89173 4212 RT0001;
+c) Grampian was required to file quarterly GST returns and to make remittances on a quarterly basis;
+d) at all material times, all or substantially all of Grampian's supplies were taxable at the rate of 7 percent;
+e) Grampian filed quarterly GST returns for the reporting periods from June 1, 2001 to May 31, 2003 but Grampian failed to remit the net tax amounts with these returns, as detailed in Schedules "A" and "B";
+f) during the periods from June 1, 2001 to May 31, 2003, Grampian was required to remit net tax of $23,622.25 respecting GST collected under subsection 228(2) of the Act, but Grampian failed to remit net tax of $15,153.61 plus applicable penalty and interest during this period as require (the "Debt");
+g) prior to May 15, 2003, Grampian started major renovation work of the Olde England Inn, for the Appellant;
+h) on May 15, 2003, the Minister issued the Requirement which required the Appellant to pay not more than $33,897.55 that was owing to Grampian, directly to the Receiver General;
+i) on May 30, 2003, the Minister received from Grampian, seven post dated cheques totaling $23,005.28, drawn to the Appellant's account and made out to Grampian (the "Post Dated Cheques") as follows:
+Cheque Date
+Cheque Amount
+May 31, 2003
+$1,000.00
+June 14, 2003
+$1,000.00
+June 23, 2003
+$1,000.00
+July 12, 2003
+$3,000.00
+July 28, 2003
+$6,000.00
+August 9, 2003
+$5,000.00
+August 23, 2003
+$6,005.28
+j) payment in the amount of $6,000.00, of the Post Dated Cheques, was applied to the Debt;
+k) the Appellant stopped payment on three of the Post Dated Cheques totaling $17,005.28 as follows:
+Cheque Date
+Cheque Amount
+July 28, 2003
+$6,000.00
+August 9, 2003
+$5,000.00
+August 23, 2003
+$6,005.28
+l) the Appellant was required to pay $17,005.28 directly to the Receiver General; and
+m) the Appellant did not remit any other payment to the Receiver General in respect of the Requirement.
+[4] The issue is whether the Appellant "was liable to make a payment" to Grampian of $17,005.28, the total of the three post-dated cheques upon which the Appellant put a stop-payment after the Requirement to Pay had been issued.
+[5] The Appellant was represented by its principal, Duncan Morrison, who also testified at the hearing. The Crown called William Glennie, the principal of Grampian Construction Ltd.
+[6] I found Mr. Glennie's evidence more reliable than that of Mr. Morrison. Mr. Glennie gave his evidence clearly and directly. Mr. Morrison was less forthcoming, claiming on occasion that he could not recall amounts or what had been discussed with Mr. Glennie; on contentious points, he was somewhat evasive in his answers. His documentary evidence was equally weak: describing his system of records keeping for his various companies as "convoluted", he was candid in his testimony that he had not been very diligent in maintaining separate financial records for any of his companies, including the Appellant. His practice was to pay what he could from whichever account he could without worrying too much about invoices or amounts paid. This made difficult the Appellant’s task of proving it was not liable to Grampian for at least $17,005.28 – especially when coupled with Mr. Morrison's lapses in memory regarding certain key aspects of his dealings with Mr. Glennie and Grampian.
+[7] Mr. Morrison was the principal of other small companies which, like the Appellant, owned properties in Victoria. In the months (if not years) prior to the issuance of the Requirement to Pay, Grampian had done renovation work on these properties. The most extensive renovation project, however, was the Olde England Inn, a property owned by the Appellant. Mr. Morrison estimated the value of the work on the Olde England Inn as being in the "six figures", certainly over the $100,000 mark. The cost of the other projects both he and Mr. Glennie described as in the tens of thousands of dollars.
+[8] As the principals of their respective small corporations, Mr. Morrison and Mr. Glennie were in frequent contact regarding the renovation projects. Both were experiencing financial difficulties in the early months of 2003. Mr. Glennie was struggling to ensure that he had enough cash on hand to meet Grampian's bi-weekly payroll for the work crew, to pay the company's suppliers for the materials used in the Appellant's projects and to cover its tax remittances. On what Mr. Morrison himself admitted were "several occasions", the Appellant was unable to pay in full the amounts billed by Grampian. For his part, Mr. Glennie testified that to wring even partial payment from the Appellant, he would often have to chase Mr. Morrison down at one of his properties.
+[9] In the spring of 2003, with Grampian's debts mounting and after the Appellant's repeated failure to pay the amounts due to the company, Mr. Glennie was finally forced to stop work on the Appellant's projects. He met Mr. Morrison at one of the construction sites to confront him with his urgent need for payment. He explained that the Appellant's non-payment was causing him to fall behind in his obligations to his creditors, including Lumber World, the main supplier for the Appellant's Olde England Inn project and the Minister of National Revenue. I accept Mr. Glennie's evidence that at the time of their discussion the Appellant owed Grampian approximately $72,000. Unable to pay such a large amount at once, Mr. Morrison agreed to give Mr. Glennie what he could: a series of post‑dated cheques, totalling some $23,000 for the period May to August 2003. I also accept Mr. Glennie's testimony that the post-dated cheques were not accepted in full and final settlement of any amounts then owed by the Appellant or Mr. Morrison's other companies.
+[10] In July 2003, Mr. Morrison put a stop-payment on the last three of the post‑dated cheques. At the hearing, his explanation for doing so was that Grampian had failed to apply the post-dated cheques he had given Mr. Glennie to amounts owed to Lumber World. As a result, Lumber World registered a Builders' Lien[1] for $38,000 against the Appellant's property, the Olde England Inn. Mr. Morrison explained that he saw Grampian's failure to pay Lumber World for the materials used in the Appellant’s projects as a breach of contract and accordingly, decided to set-off the lien charge by putting a stop payment on the three outstanding post-dated cheques. As far as he was concerned, as of July 2003, the Appellant did not owe Grampian any more money.
+[11] Mr. Morrison's explanation struck me as one that had come to him well after the fact. It is inconsistent with his admission that he had known in early spring that Grampian was falling behind in the payment of its debts in general; specifically, that Grampian owed a significant amount to Lumber World and the CRA. He also knew full well that the Appellant’s failure to pay in full the amounts it owed Grampian was a contributing factor to Mr. Glennie's economic woes. Mr. Morrison wanted Grampian to keep working on the Olde England Inn, to the point that when Mr. Glennie personally ceased work on the project, Mr. Morrison asked him if the Appellant could employ directly some of Grampian’s workers. Further, given Mr. Morrison's description of the Appellant's haphazard methods of bill payment, it is hard to imagine him taking the unusual step of instructing Mr. Glennie to apply the post-dated cheques amounts specifically to the Lumber World debt. In any event, the Appellant did not produce sufficient documentation at the hearing to substantiate any genuine right of set off against Grampian in respect of the Lumber World debt.
+[12] The case boils down to this: the major project undertaken by Grampian was at the Appellant's property, the Olde England Inn. It was an extensive kitchen renovation and an upgrade of at least one floor of the guestrooms to make them more rentable. Grampian had three- to five-man crews working at the site for several months. Labour and materials valued at over $100,000 went into the project. The work on Mr. Morrison's other companies' projects were worth, at best, a tenth of the value of the renovations on the Appellant's property. The Appellant on "several occasions" failed to pay Grampian in full for its bi-weekly billings. The supplier, Lumber World, ultimately accepted from the Appellant $15,000 in full settlement of the $38,000 the Appellant owed for materials. Though some invoices[2] were produced, they were not helpful in showing what amounts were owed or paid by whom during the relevant period. The Appellant admits to have given Grampian post-dated cheques totalling some $23,000, leading to the obvious inference that it owed Grampian at least that amount during the relevant period. Finally, the Appellant did not provide the Court with books and records to establish that it did not owe Grampian $17,005.28.
+[13] In these circumstances, it is highly likely that the Appellant was "liable to make a payment" of at least $17,005.28 to Grampian in the one-year period following the issuance of the Requirement to Pay on May 15, 2003. In any event, it is the Appellant who bears the onus of showing that it was not liable to Grampian for that amount, as assumed by the Minister. Having failed to do so, the Appellant cannot succeed in its appeal; accordingly, the appeal from Notice of Assessment No. A106677 is dismissed.
+Signed at Ottawa, Canada, this 17th day of December, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC748
+COURT FILE NO.: 2007-38(GST)I
+STYLE OF CAUSE: 607730 B.C. LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Victoria, British Columbia
+DATE OF HEARING: November 21, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: December 17, 2007
+APPEARANCES:
+Agent for the Appellant:
+Duncan Morrison
+Counsel for the Respondent:
+Fiona Mendoza
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] Exhibit A-4.

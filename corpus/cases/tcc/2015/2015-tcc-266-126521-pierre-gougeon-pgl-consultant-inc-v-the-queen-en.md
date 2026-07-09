@@ -1,0 +1,232 @@
+---
+title: "Pierre Gougeon PGL Consultant Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/126521/index.do"
+last_modified: "2015-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 266"
+citation2: ""
+neutral_citation: "2015 TCC 266"
+decision_date: "2015-05-28"
+language: "en"
+item_id: "126521"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2680
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:20:59.700000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72ab57b5eebfae87e452110cb2564eaca38c53533d1ed6eba75a07a00a70e3b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pierre Gougeon PGL Consultant Inc. v. The Queen
+
+- Citation: 2015 TCC 266
+- Decision date: 2015-05-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2680, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pierre Gougeon PGL Consultant Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-05-28
+Neutral citation
+2015 TCC 266
+File numbers
+2014-1522(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1522(IT)I
+BETWEEN:
+PIERRE GOUGEON PGL CONSULTANT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 28, 2015, at Ottawa, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the appellant:
+Pierre Gougeon
+Counsel for the respondent:
+Kira Caceres
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act, dated
+March 8, 2012, in respect of the appellant's 2008 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 30th day of October 2015.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 22nd day of December 2015
+Michael Palles, Translator
+Citation: 2015 TCC 266
+Date: 20151030
+Docket: 2014-1522(IT)I
+BETWEEN:
+PIERRE GOUGEON PGL CONSULTANT INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant filed an appeal against a reassessment made by the Minister of National Revenue (the Minister) under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act), dated March 8, 2012, in respect of the appellant's 2008 taxation year.
+[2] Pursuant to the assessment dated March 8, 2012, the Minister denied the appellant an allowable business investment loss (ABIL) in the amount of $41,222.
+[3] The Minister relied on the following assumptions of fact in determining the appellant's tax liability. These assumptions are listed in paragraph 6 of the Reply to the Notice of Appeal:
+[translation]
+(a) according to the Minister's records, the appellant operates a consultancy firm specializing in office systems management;
+(b) according to the enterprise register (CIDREQ system), the appellant is a shareholder in Quadrisart Canada Inc. (Quadrisart);
+(c) Quadrisart was struck off ex officio by the enterprise registrar on June 4, 2010;
+(d) according to the Minister's records, the latest return filed by Quadrisart was for its year ending November 20, 2006;
+(e) Quadrisart did not carry on a business for the 2007 and 2008 taxation years;
+(f) on Quadrisart's balance sheet for 2006, the amount owing to the shareholder was $39,979, and the capital stock was $10,000, whereas no amount receivable from Quadrisart is recorded in the appellant's balance sheet;
+(g) Quadrisart went bankrupt on November 10, 2008;
+(h) the appellant is not a creditor in Quadrisart's bankruptcy;
+(i) at the objection stage, the appellant submitted a list of invoices totalling $82,443.70 and covering the period from December 19, 1998, to December 23, 2002, several of which are invoices in Quadrisart's name, which the appellant claims to have paid;
+(j) no documentation was filed in support of these expenses allegedly incurred by Quadrisart and allegedly paid by the appellant;
+(k) there were no debts owed to the appellant by Quadrisart at the end of the 2008 taxation year;
+(l) at the appeal stage, the appellant claimed
+(i) that it had a doubtful debt of $82,444 for the 2008 taxation year;
+(ii) that it had a bad debt of $82,444 for the 2008 taxation year;
+(m) the appellant did not include a debt in the amount of $82,444 in its income for the 2008 taxation year or for the preceding years.
+[4] Pierre Gougeon, the appellant's agent, testified at the hearing. Mr. Gougeon is a chartered accountant who keeps the books, prepares the financial statements and files the tax returns for the appellant and its wholly owned subsidiary, Quadrisart Canada Ltd. (Quad).
+[5] At the beginning of the hearing, Mr. Gougeon presented an organizational diagram of his businesses. According to the chart, Mr. Gougeon is the sole shareholder in Pierre Gougeon PGL Consultant Inc. (PGL or the appellant), which in turn is the sole shareholder in Quad. Mr. Gougeon is the president and a director of PGL, as well as the chief executive officer and a director of Quad.
+[6] The appellant operated a consultancy firm specializing in office systems management, and it managed Quad by determining its needs and taking care of its purchasing. Mr. Gougeon did not file the management contract governing the relationship between PGL and Quad. Quad was a manufacturer and distributor of frames and laminates.
+[7] PGL's fiscal years ended on March 31 of each year, while those of Quad ended on November 30 of each year.
+[8] Quad went bankrupt on November 10, 2008. According to the claims register kept by the trustee in bankruptcy, Quad's debts to PGL and Pierre Gougeon were not included in the list of claims. However, the names of certain suppliers did appear in the list of unsecured creditors. The following suppliers' names were on that list: Artistica, Cadres Verbec inc., Canadian Art Print, Finest Holding Inc., Fournitures de bureau Denis, Frameguild Supplies, Omega Moulding Co., Techni Scie DM, Torbram Electric Supplies, Total Electric Supply Limited and Wizard International. The unsecured creditors received nothing from Quad's bankruptcy.
+[9] During his testimony, Mr. Gougeon filed an accounting cash-flow diagram. This diagram shows that Mr. Gougeon advanced funds to PGL and paid some of Quad's accounts with suppliers, that he assigned his claims against Quad to PGL and that PGL also paid some of Quad's accounts with suppliers, such that PGL became a creditor of Quad in its own right.
+[10] It appears that this system was in operation from December 19, 1998, to October 22, 2002, since the expenses paid on behalf of Quad are limited to that period. From 2002 to 2008, it appears that Quad was financially independent or that it repaid all the expenses paid on its behalf during that period.
+[11] To establish the amount of the expenses payable to PGL by Quad, Mr. Gougeon filed the following documents:
+− a list of expenses payable by Quad, based on PGL's general ledger report (Exhibit A-4). This list includes the dates of the expenses, the names of the suppliers, the amounts of the expenses, the reference numbers in the general ledger (several of which are missing) and brief descriptions of the nature of the expenses. Expenses totalled $82,443.70 for the period from December 19, 1998, to October 22, 2002;
+− a list of Quad's suppliers, with the amounts of the expenses paid by or owed to PGL, which list was also based on PGL's general ledger report (Exhibit A-5). The total amount of the expenses was $82,443.70 after Quad's repayment of $7,543.03 to PGL;
+− a list of credit cards used to pay Quad's expenses, and the amounts paid using each of them (Exhibit A-9). Some of these cards are in PGL's name, while some are in Mr. Gougeon's own name. A sampling of statements for these credit cards shows that some of the invoices were paid on Quad's behalf by Mr. Gougeon personally and by PGL, but none of the statements filed concerned the period from December 19, 1998, to October 22, 2002. These statements date from after that period.
+[12] At the objection stage, Mr. Gougeon submitted another list of expenses paid on behalf of Quad, which was prepared by Mr. Gougeon on the basis of PGL's general ledger report for the period from December 19, 1998, to October 23, 2002. In addition to the information in the other lists, this version included the amounts repaid by Quad and the repayment dates:
+[translation]
+Repayment dates
+Amounts repaid to PGL
+March 22, 1999
+$288.10
+July 2, 1999
+$513.90
+February 2, 2000
+$1,416.11
+June 26, 2001
+$6,485.44
+July 19, 2001
+$486.56
+$9,190.11
+[13] The total of the repayments does not match the amount of $7,643.27 appearing in Exhibits A-5 and A-9.
+[14] Mr. Gougeon filed as documentary evidence PGL's balance sheet and statement of income and retained earnings for the fiscal year ending March 31, 2008, along with figures from the fiscal year ending March 31, 2007, for comparison. These financial statements are unaudited. On the balance sheet, an amount of $77,499 appears as a long-term investment in 2007, while an amount of 0 appears under the same heading for 2008. On the income statement, an amount of 0 appears under the heading [translation] "Write-off of long-term investment" in 2007, while an amount of $82,444 appears under this same heading for 2008.
+[15] Mr. Gougeon alleged that Quad was still in business in the 2006, 2007 and 2008 taxation years, and in support of his allegation, he filed Quad's annual tax returns for the reporting periods from December 1, 2006, to November 30, 2007.
+[16] Mr. Gougeon explained that the amounts due from Quad were recorded in PGL's books as a long-term asset because they were not paid within 30 days. As for Quad, the amounts owing to PGL were recorded in the books as long-term debts. The respondent filed PGL's balance sheets for the fiscal years from 1999 to 2002, 2006 and 2008, as well as Quad's balance sheets for the fiscal years 1999 2000, 2002, 2003, 2005 and 2006, which had been attached to the tax returns for these two companies.
+[17] PGL's long-term assets for the fiscal years ending March 31 in the years 1999 to 2002 and 2006 to 2008 were as follows:
+1999
+$1,000
+2000
+$11,000
+2001
+$65,532
+2002
+$65,532
+2003
+—
+2004
+—
+2005
+—
+2006
+$84,210
+2007
+$77,499
+2008
+0 (investment written off)
+[18] Quad's long-term debt for the fiscal years ending November 30 in the years 1999, 2000, 2002, 2003, 2005 and 2006 was as follows:
+1999
+$111,425
+2000
+$98,327
+2001
+—
+2002
+$57,893
+2003
+$65,588
+2004
+—
+2005
+$59,983
+2006
+$56,328
+2007
+— (no tax return filed)
+2008
+— (no tax return filed)
+Analysis [19] For a taxpayer to claim a deduction of any sort for a debt after it has been disposed of or when it has become a doubtful or bad debt, the taxpayer must first establish the debt's existence as well as the amount of the debt at the date of its disposition or at the date it became doubtful or bad.
+[20] In my opinion, the appellant has not shown, on a balance of probabilities, that it had a claim of $82,444 against Quad as at March 31, 2008. Evidence of the claim's existence is clearly insufficient in the circumstances.
+[21] Mr. Gougeon, an accountant by profession, did not submit the invoices that PGL paid on behalf of or for the benefit of Quad for the period from December 19, 1998, to March 31, 2008, nor did he file in evidence the management contract allowing PGL to manage Quad's business. The only evidence that Mr. Gougeon filed to prove that these invoices exist was a list of invoices supposedly paid by PGL for the period from December 19, 1998, to July 19, 2002. For the subsequent periods, from July 20, 2002, to March 31, 2008, no invoices or list of invoices was filed as for the previous period.
+[22] The only evidence that Mr. Gougeon filed as proof that PGL paid the invoices was credit card statements showing that invoices for supplies for Quad had been paid either by PGL or by him personally. These statements do not concern the period from December 19, 1998, to October 22, 2002, but simply establish that PGL continued to pay invoices for supplies for Quad after October 22, 2002. Mr. Gougeon also failed to provide any evidence that he assigned any claims to PGL after paying the invoices for supplies for Quad.
+[23] Mr. Gougeon did not provide any documentary evidence showing that Quad had paid back its debts to PGL. Mr. Gougeon referred to repayments totalling $7,643.27, whereas in Quad's books, the long-term debt went from $111,425 as at November 30, 1999, to $56,328 as at November 30, 2006. These figures show that Quad's repayments were much bigger than those indicated by Mr. Gougeon, and that he did not clearly identify the debts that Quad had paid back. Were they debts incurred before July 20, 2002, or after July 19, 2002?
+[24] Since PGL's claim was not included in the list of Quad's debts in bankruptcy, serious doubts continue to surround the very existence of PGL's claim as at November 10, 2008.
+[25] In the circumstances, it seems reasonable to me to demand more transparency from the appellant and its shareholder, its accountant, and to demand better evidence of the existence and amount of PGL's claim. A loss of the magnitude of this one claimed by the appellant cannot be granted solely on the strength of mere uncorroborated accounting entries.
+[26] In light of the preceding, even though there is no need to determine whether PGL's claim, if there is one, is capital in nature, or whether there was a doubtful or bad debt, it should be noted that the appellant has not shown that
+(a) the invoices for supplies for Quad were paid in the ordinary course of its business of moneylending;
+(b) its claim, if there is one, against Quad was a bad debt as at March 31, 2008, after efforts to collect it were unsuccessful;
+(c) its claim, if there is one, against Quad was included in computing its income for the 2008 taxation year or for a preceding taxation year.
+[27] For these reasons, the appeal from the reassessment dated March 8, 2012, is dismissed.
+Signed at Ottawa, Canada, this 30th day of October 2015.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 22nd day of December 2015
+Michael Palles, Translator
+CITATION:
+2015 TCC 266
+COURT FILE NO.:
+2014-1522(IT)I
+STYLE OF CAUSE:
+Pierre Gougeon PGL Consultant Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+May 28, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+October 30, 2015
+APPEARANCES:
+Agent for the appellant:
+Pierre Gougeon
+Counsel for the respondent:
+Kira Caceres
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

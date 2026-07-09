@@ -1,0 +1,227 @@
+---
+title: "Young Tile Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31009/index.do"
+last_modified: "2012-11-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 383"
+citation2: ""
+neutral_citation: "2012 CCI 383"
+decision_date: "2012-11-02"
+language: "fr"
+item_id: "31009"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4891
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:18:16.227000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0745e0e9fb846746139c4a1c10cf5490c9d071bec5457bb0296bf11d09422cf0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Young Tile Inc. c. M.R.N.
+
+- Citation: 2012 CCI 383
+- Decision date: 2012-11-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4891, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Young Tile Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-02
+Référence neutre
+2012 CCI 383
+Numéro de dossier
+2011-3523(EI), 2011-3524(CPP), 2011-3759(CPP)
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-3523(EI)
+ENTRE :
+YOUNG TILE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Young Tile Inc. 2011-3524(CPP) et Young Tile Inc. 2011-3759(CPP)
+le 19 octobre 2012, à Toronto (Ontario)
+Devant : L’honorable juge Randall Bocock
+Comparutions :
+Avocat de l’appelante :
+Me Dale Barrett
+Avocats de l’intimé :
+Me Thomas O’Leary
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté, et la décision du ministre du Revenu national rendue en vertu de l’article 91 de la Loi est confirmée.
+Signé à Ottawa (Canada), ce 2e jour de novembre 2012.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 6e jour de décembre 2012.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Dossier : 2011-3524(CPP)
+ENTRE :
+YOUNG TILE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Young Tile Inc. 2011-3523(EI) et Young Tile Inc. 2011-3759(CPP)
+le 19 octobre 2012, à Toronto (Ontario)
+Devant : L’honorable juge Randall Bocock
+Comparutions :
+Avocat de l’appelante :
+Me Dale Barrett
+Avocats de l’intimé :
+Me Thomas O’Leary
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de l’article 28 du Régime de pensions du Canada est rejeté, et la décision du ministre du Revenu national rendue en vertu de l’article 27 du Régime est confirmée.
+Signé à Ottawa (Canada), ce 2e jour de novembre 2012.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 6e jour de décembre 2012.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Dossier : 2011-3759(CPP)
+ENTRE :
+YOUNG TILE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Young Tile Inc. 2011-3523(EI) and Young Tile Inc. 2011-3524(CPP)
+le 19 octobre 2012, à Toronto (Ontario)
+Devant : L’honorable juge Randall Bocock
+Comparutions :
+Avocat de l’appelante:
+Me Dale Barrett
+Avocats de l’intimé :
+Me Thomas O’Leary
+Me Rishma Bhimji
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de l’article 28 du Régime de pensions du Canada est rejeté, et la décision du ministre du Revenu national rendue en vertu de l’article 27 du Régime est confirmée.
+Signé à Ottawa (Canada), ce 2e jour de novembre 2012.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 6e jour de décembre 2012.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Référence : 2012 CCI 383
+Date : 20121102
+Dossiers : 2011-3523(EI)
+2011-3524(CPP)
+2011-3759(CPP)
+ENTRE :
+YOUNG TILE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. La nature des appels
+[1] Il s’agit de trois appels portant sur la question souvent soumise à la Cour de savoir si des travailleurs exerçant des métiers de la construction sont des entrepreneurs indépendants liés par un contrat de services ou des employés liés par un contrat de louage de services. Deux des appels ont trait au Régime de pensions du Canada et un appel à la Loi sur l’assurance‑emploi, relativement à deux travailleurs de l’entreprise d’installation de carrelages de l’appelante.
+[2] L’appelante est une société de l’Ontario et est la propriété de Rudolph Young. L’appelante interjette appel de l’évaluation établie par le ministre à l’égard des cotisations de l’employeur au Régime de pensions du Canada relativement à des gains ouvrant droit à pension pour Ian Dixon ainsi que pour Stephen Rose aux termes de l’article 6 du Régime de pensions du Canada (le « Régime »), ainsi que de l’évaluation établie par le ministre à l’égard des cotisations de l’employeur à l’assurance‑emploi relativement à la rémunération assurable de Stephen Rose aux termes de l’article 5 de la Loi sur l’assurance‑emploi (la « Loi »). Les évaluations concernent chacune la même période allant du 1er janvier 2008 au 31 décembre 2009 (la « période des évaluations »).
+A. Les témoins
+[3] Les deux travailleurs, M. Rose et M. Dixon, ainsi que le propriétaire, M. Young, ont témoigné devant la Cour. Quoique leurs témoignages divergent sur certains points, la Cour conclut que M. Dixon, M. Rose et M. Young étaient généralement crédibles, mais, en ce qui a trait aux nuances ou au conflit concernant les déclarations factuelles sur les critères juridiques décisifs pertinents quant à la question à trancher, la cour préfère les témoignages de M. Rose, de M. Dixon (le frère par alliance de M. Young) et enfin de M. Young dans cet ordre de préférence.
+B. Le critère juridique
+[4] D’emblée, les avocats des parties ont convenu que les quatre facteurs juridiques essentiels à considérer relativement à la question d’employé/entrepreneur indépendant avaient été énoncés clairement dans l’arrêt Wiebe Door Services Ltd. v. The Minister of National Revenue[1]. Les quatre critères énoncés dans Wiebe Door font tous partie d’un même critère décrit comme un critère unique à quatre volets : le degré de contrôle dont jouit l’employé, la propriété des outils de travail, la possibilité de profit et/ou le risque de perte dans le cadre de la relation de travail.
+C. Les faits
+[5] En ce qui concerne la preuve relative aux quatre facteurs, la preuve et les conclusions factuelles peuvent se résumer ainsi. Les deux travailleurs, M. Dixon et M. Rose, ont déménagé à Calgary, en Alberta, afin d’y travailler pour l’appelante à installer des carrelages de plancher à différents endroits. M. Young, le directeur de l’appelante, établissait les travaux à exécuter de concert avec l’entrepreneur général principal (l’« entrepreneur principal »), s’occupait de toutes les communications avec l’entrepreneur principal, y compris de la circulation des renseignements. Les travailleurs collectivement exécutaient tout travail de réparation et corrigeaient tout travail fautif et ils étaient payés selon la quantité de carreaux posés sur la base d’un travail à la pièce. La paie était évaluée, calculée et distribuée par l’appelante à la seule discrétion de son directeur, M. Young. Il n’y avait pas d’ententes écrites entre les travailleurs et l’appelante. En ce qui concerne les outils de travail, hormis les petits outils personnels comme la truelle et le coupe‑carreaux portatif, tous les gros outils, les fournitures, les matériaux et articles semblables étaient fournis soit par l’appelante, soit par l’entrepreneur principal. Les travailleurs n’ont jamais demandé d’investir dans l’entreprise, et les parties, individuellement, n’étaient pas non plus sanctionnées ou davantage payées selon la qualité de leur travail, mais seulement selon la quantité de travail réalisé. L’entrepreneur principal identifiait tout travail de réparation et le confiait à l’appelante; puis tous les travailleurs exécutaient collectivement le travail de réparation de manière à corriger les défauts.
+[6] M. Dixon et M. Rose ont déclaré qu’il se pouvait que des déclarations T4 aient été produites relativement à leur paie, et aussi que les cotisations à l’organisme responsable de la sécurité des travailleurs aient été payées par l’appelante. Dans un témoignage révélateur, M. Rose a indiqué qu’il [traduction] « travaillait sur les heures de M. Young ». De plus, quoiqu’il ait constitué son entreprise en personne morale ou enregistré un nom commercial au cours de la période d’évaluation, M. Rose a déclaré que cela n’avait nullement changé sa relation de travail avec l’appelante. De même, ni M. Dixon, ni M. Rose ne déduisaient de dépenses d’entreprise et ils n’ont pas exposé à la Cour l’attribution de dépenses d’entreprise outre ce qu’il convient d’appeler leurs frais de subsistance. De plus, le directeur de l’appelante conduisait les travailleurs au travail et les en ramenait.
+II. L’argumentation de l’appelante
+[7] L’appelante a fait valoir à la Cour que le processus en deux étapes pour déterminer s’il existait un contrat de services ou un contrat de louage de services était défini dans la propre brochure de l’Agence du Revenu du Canada identifiée comme « RC 4100 ». Le processus en deux étapes requiert d’examiner l’intention des parties. L’appelante a déclaré que les parties avaient l’intention d’être des entrepreneurs indépendants, du fait qu’elles avaient convenu de payer leurs propres impôts. L’appelante a également soutenu qu’il existait entre l’appelante et les travailleurs une entente claire, qui traduisait leur intention d’être des entrepreneurs indépendants, chacun ayant convenu de [traduction] « payer ses propres impôts ».
+[8] De plus, l’appelante a déclaré que la deuxième étape consiste à examiner la [traduction] « véritable nature de la relation de travail ». L’appelante soutient que la relation de travail entre elle-même et les travailleurs reproduisait et reflétait celle qui existait entre l’appelante et l’entrepreneur principal en ce qui avait trait aux questions du contrôle, des outils de travail, de la possibilité de faire des profits et du risque de perte. L’appelante fait valoir qu’elle avait peu de contrôle, qu’elle devait remédier aux défauts, selon les directives, à la discrétion et sous le contrôle de l’entrepreneur principal qui surveillait le processus et le progrès de tout le travail. De même, l’appelante fournissait certains outils, mais non tous, et ces outils étaient d’ailleurs complétés par les outils fournis par l’entrepreneur principal. L’appelante n’encourait pas de risques d’investissement ou financiers importants et (de même qu’avec tous les travailleurs, bien qu’ils ne fissent pas cela) elle recrutait des travailleurs additionnels pour effectuer les tâches. La méthode de rémunération, quoique non scientifique, reposait sur le travail à la pièce de chaque travailleur et il en était ainsi entre l’entrepreneur principal et l’appelante. L’avocat de l’appelante soutient qu’il n’y a pas de justification juridique pour traiter la relation entre l’appelante et ses travailleurs différemment de la relation entre l’appelante et l’entrepreneur principal, laquelle était manifestement, elle-même, une relation d’entrepreneurs indépendants et de contrat de services. Par conséquent, c’est ainsi qu’il conviendrait de caractériser la relation entre l’appelante et ses travailleurs.
+[9] Les observations de l’intimé étaient davantage de nature juridique et suggéraient à la Cour d’examiner la véritable relation de la structure, comme cela est indiqué dans Wiebe Door. Aux paragraphes 33 et 34 de l’arrêt Lang c. M.R.N.[2], le juge en chef Bowman de la Cour a examiné un résumé de la jurisprudence applicable et a dit ce qui suit :
+[33] J’aimerais faire quelques observations au sujet du facteur « intention ». Premièrement, la Cour suprême du Canada n’a pas exprimé d’avis au sujet du rôle de l’intention. Dans l’arrêt Sagaz, il n’est pas fait mention de l’intention en tant que facteur. Deuxièmement, si l’intention des parties est un facteur, cette intention doit être partagée par les deux parties. S’il n’y a pas rencontre de volontés et si les parties ne sont pas d’accord, l’intention ne peut pas être un facteur. Troisièmement, si l’intention est un facteur permettant de décider si quelqu’un est un employé ou s’il est plutôt un entrepreneur indépendant, ce doit nécessairement être un facteur dans tous les cas où la question est pertinente. La Cour met habituellement l’accent sur la question plutôt stricte de savoir si une personne exerce un emploi assurable ou un emploi ouvrant droit à pension ou, en vertu de la Loi de l’impôt sur le revenu, si une personne est un employé aux fins de la déduction de certains types de dépenses ou quant à la façon d’établir son impôt. D’autre part, l’arrêt Sagaz portait sur la responsabilité du fait d’autrui. Si le critère est le même, l’intention subjective des parties contractantes quant à la nature de leur relation pourrait bien influer sur les droits de tiers, soit une préoccupation exprimée par le juge Evans dans les motifs qu’il a rendus en dissidence dans l’arrêt Royal Winnipeg Ballet.
+[34] Où cette série d’arrêts nous mène‑t‑elle? Il est possible de tirer quelques conclusions générales :
+a) Le critère à quatre volets énoncé dans l’arrêt Wiebe Door, tel qu’il a été confirmé dans l’arrêt Sagaz, est un facteur important dans tous les cas, y compris ceux qui viennent du Québec;
+b) La Cour d’appel fédérale a relégué le critère à quatre volets énoncé dans l’arrêt Wiebe Door au rang des « points de repère utiles », « pertinents et utiles lorsqu’il s’agit de déterminer quelles étaient les intentions des parties ». Cela est vrai tant au Québec que dans les provinces de common law;
+c) L’intégration en tant que critère n’entre plus en ligne de compte à toutes fins utiles. Les juges qui essaient de l’appliquer le font à leurs risques et périls;
+d) L’intention est un critère qui ne peut être ignoré, mais son poids n’est pas encore déterminé. Le poids à lui accorder varie d’un cas à l’autre : il peut être prédominant ou il peut être un critère de démarcation. La Cour suprême du Canada n’a pas tenu compte de ce critère. Si elle en tient compte, le jugement rendu en dissidence par le juge Evans dans l’arrêt Royal Winnipeg Ballet devra être pris en considération;
+e) Les juges de première instance qui omettent de tenir compte de l’intention risquent fort de voir leurs jugements annulés par la Cour d’appel fédérale. (Cependant, voir l’affaire Gagnon, dans laquelle l’intention n’a pas été prise en considération en première instance mais que la Cour d’appel fédérale a établie en se reportant aux critères énoncés dans l’arrêt Wiebe Door, que le juge de première instance avait appliqués. Comparer avec Royal Winnipeg Ballet, City Water et Wolf.)
+[10] L’intimé soutient que, étant donné l’absence d’une discussion, d’une entente écrite ou d’une autre preuve objective sur la nature de la relation, la seule entente que chaque partie devait [traduction] « payer ses propres impôts » concernait, au mieux, la forme plutôt que le fond et, au pire, ne comportait aucun élément clair quant à l’existence ne serait-ce que d’un simple accord consensuel entre les parties ayant l’apparence d’une intention d’agir légalement à titre d’entrepreneurs indépendants. De plus, l’intimé soutient que l’absence d’une entente (écrite ou autre) en l’espèce n’établit nullement une preuve d’intention.
+[11] Sur la question du contrôle, l’intimé soutient ce qui suit :
+a) en ce qui a trait à la question du paiement des services et à celle du calcul de la paie, les calculs de la rémunération n’ont jamais été montrés aux travailleurs et, de plus, les calculs se faisaient à la seule discrétion de l’appelante;
+b) l’appelante exerçait une surveillance constante sur les travailleurs et leur donnait elle‑même des directives et des instructions;
+c) les travailleurs donnaient manifestement la priorité (et peut-être l’exclusivité) à l’appelante pour leur prestation de services d’installation de carrelages;
+d) aucun travailleur n’était libre d’engager des sous‑traitants et de refuser d’accomplir des services ou de modifier la prestation, l’étendue et le moment de l’exécution des services, et ils devaient plutôt travailler selon les directives de l’appelante et l’horaire établi par elle.
+[12] En ce qui a trait aux outils et à l’équipement nécessaires au travail, il était de coutume dans le secteur que les employeurs ou les entrepreneurs aient aussi certains outils de base du métier en leur possession. En conséquence, la question de savoir si l’appelante était un employeur ou un entrepreneur indépendant ne peut en l’espèce être déterminée par ce facteur, puisqu’il s’appliquerait de la même façon à l’une ou l’autre caractérisation.
+[13] En ce qui concerne la possibilité de profits et le risque de perte, les travailleurs n’avaient pas la possibilité d’exploiter les marges de dépenses, de modifier leurs horaires pour d’autres travaux et d’embaucher des travailleurs additionnels en sous‑traitance. Aucune dépense d’entreprise n’était effectuée ni n’était déduite, qui aurait pu être gérée afin d’augmenter les marges bénéficiaires de chaque travailleur. Enfin, il n’y avait ni factures, ni tableaux de ventilation, ni calculs, ni rapprochements, mais simplement une rémunération versée à la discrétion du directeur de l’appelante. En conclusion, l’intimé soutient qu’aucune preuve n’a été présentée pour réfuter les hypothèses du ministre quant à l’existence d’une relation d’employé.
+III. Analyse et décision
+[14] L’argument de l’avocat de l’appelante quant à la similitude de la relation de l’appelante avec l’entrepreneur principal, bien qu’inédit, ne peut contrevenir à la décision limpide dans Wiebe Door, citée avec clarté et approbation par Lang. Le fait demeure que l’appelante contrôlait le nombre des travailleurs qu’elle engageait, les moyens utilisés pour exécuter les services et sa profitabilité finale en établissant les horaires, en donnant des directives et en exerçant le contrôle. Les travailleurs en cause étaient des employés de l’appelante, qui travaillaient selon les directives de l’appelante. Par exemple, l’établissement des horaires et les travaux de réparation étaient dirigés, contrôlés et autrement organisés par l’appelante. Les travailleurs travaillaient sous le contrôle de l’appelante, étaient conduits sur le lieu de travail et en étaient ramenés et étaient rémunérés entièrement dans le cadre du régime de rémunération de l’appelante, dans lequel le montant de la paie était distribué sans facture et sans réconciliation. Les salaires étaient distribués au même moment où l’appelante recevait des fonds de l’entrepreneur principal, et tout cela se produisait complètement à la discrétion de l’appelante, sans autre justification, négociation ou discussion avec les travailleurs.
+[15] L’absence de toute preuve démontrant l’intention mutuelle d’établir des contrats de service écrits ou même des ententes verbales de service, susceptibles d’être étayées, entre l’appelante et les travailleurs ainsi que l’absence de tout élément identifiable de contrôle significatif, de possibilité de profit, de risque de perte ou d’autres considérations de la part des travailleurs, pouvant démontrer une entente commerciale indépendante, ne contredisent en rien les hypothèses du ministre quant à une relation employeur‑employé. En résumé, non seulement les hypothèses du ministre sont‑elles raisonnables, mais elles sont entièrement étayées par les faits démontrés, conclusions factuelles pertinentes qui, toutes ensemble, donnent spontanément, dans l’esprit de la Cour, le statut d’employé aux travailleurs.
+[16] En conséquence, les appels sont rejetés.
+Signé à Ottawa (Canada), ce 2e jour de novembre 2012.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 6e jour de décembre 2012.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+RÉFÉRENCE : 2012 CCI 383
+NO DES DOSSIERS DE LA COUR : 2011-3523(EI)
+2011-3524(CPP)
+2011-3759(CPP)
+INTITULÉ : YOUNG TILE INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 19 octobre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Randall Bocock
+DATE DU JUGEMENT : Le 2 novembre 2012
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Dale Barrett
+Avocats de l’intimé :
+Me Thomas O’Leary
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Dale Barrett
+Cabinet : Barrett Tax Law
+Vaughan (Ontario)
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] 87 DTC 5025
+[2] 2007 CCI 547, 2007 DTC 1754

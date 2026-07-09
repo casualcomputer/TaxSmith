@@ -1,0 +1,231 @@
+---
+title: "Williams c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26397/index.do"
+last_modified: "2004-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 838"
+citation2: ""
+neutral_citation: "2004 CCI 838"
+decision_date: "2004-12-21"
+language: "fr"
+item_id: "26397"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3344
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:43:43.328000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "005e63a891690c8291685ba8ddfece891979bed3c2efc80820fab42f5c95e974"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Williams c. La Reine
+
+- Citation: 2004 CCI 838
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3344, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Williams c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-21
+Référence neutre
+2004 CCI 838
+Numéro de dossier
+2002-3018(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-3018(IT)G
+ENTRE :
+JOSEPH A. WILLIAMS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 23 novembre 2004 à Toronto (Ontario)
+Devant : L'honorable juge T. E. Margeson
+Comparutions :
+Avocates de l'appelant :
+Mes Louise R. Summerhill
+et Kay W. Leung
+Avocate de l'intimée :
+Me Carol Calabrese
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1996 et 1997 sont admis et les cotisations du ministre sont annulées.
+Les dépens sont accordés à l'appelant et seront taxés sur la base des dépens entre parties.
+L'appelant n'a droit à aucune autre mesure de redressement.
+Signé à Ottawa, Canada, ce 21e jour de décembre 2004.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 15e jour de décembre 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI838
+Date : 20041221
+Dossier : 2002-3018(IT)G
+ENTRE :
+JOSEPH A. WILLIAMS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Les parties ont convenu d'un exposé conjoint partiel des faits :
+[TRADUCTION]
+A. STRUCTURE DU GROUPE DE SOCIÉTÉS
+1. L'appelant exploitait un groupe de sociétés qui fabriquaient des produits de métal laminé. Le groupe comprenait Metal Shapes Manufacturing Inc. (« MSMI »), Metal Shapes Inc. (« MSI »), 1058522 Ontario Ltd. (« 105 »), 657708 Ontario Ltd. (« 657 ») et Proma International Inc. (« Proma International ») (collectivement le « groupe Metal Shapes »).
+2. MSMI fabriquait des produits de métal laminé.
+3. MSI était propriétaire et gestionnaire des biens immobiliers où MSMI exerçait ses activités.
+4. 657 était une société de portefeuille et détenait les actions de MSI et de MSMI.
+5. Le 14 février 1994, 105 a été constituée en société dans le but de faciliter la cristallisation de l'exonération des gains en capital de l'appelant. Par suite d'une restructuration interne, l'appelant a transféré des actions de 657 à 105 en vertu du paragraphe 85(1) de la Loi de l'impôt sur le revenu (la « Loi ») et a fait un choix suivant lequel le produit de la disposition équivalait à un montant qui lui permettait de cristalliser l'exonération de ses gains en capital.
+6. Le 17 février 1994 ou vers cette date, 105 a cédé ses actions de 657.
+7. Le 21 février 1994, l'appelant a échangé 9 650 actions ordinaires de 657 pour 500 000 actions spéciales de catégorie B, 5 580 actions spéciales de catégorie A et 1 000 nouvelles actions ordinaires de 657.
+8. Après la restructuration de 1994, l'appelant croyait qu'il détenait les actions de 105, laquelle détenait à son tour les actions de 657. L'annexe A ci‑jointe est un diagramme illustrant la structure des sociétés du groupe Metal Shapes telle que l'appelant la comprenait.
+9. Vers 1999, l'intimée a enclenché une vérification de l'appelant. Pendant la vérification, elle a décidé que la structure des sociétés du groupe Metal Shapes correspondait à ce qui est indiqué à l'annexe B.
+10. Les diverses sociétés du groupe Metal Shapes se faisaient régulièrement des avances pour faciliter les activités commerciales du groupe dans son ensemble.
+B. PROMA INTERNATIONAL
+11. En mars 1994, Proma Inc., un des fournisseurs du groupe Metal Shapes, a communiqué avec l'appelant pour lui offrir de lui vendre tous les éléments d'actif de Proma Inc. (l'« actif de Proma »).
+12. Le 25 mars 1994, MSI a acquis l'actif de Proma de Skovsbo Holdings Inc., créancier garanti de Proma Inc.
+13. L'appelant a constitué Proma International en société afin d'exploiter l'entreprise nouvellement acquise, qui a pris l'actif de Proma en location de MSI.
+14. Aucune action de Proma International n'a été émise lors de la constitution en société, car les comptables du groupe Metal Shapes souhaitaient étudier la manière de répartir comme il se doit les actions. Des poursuites ont été intentées peu après la constitution en société, de sorte qu'aucune action de Proma International n'a jamais été émise.
+15. Diverses sociétés du groupe Metal Shapes, dont 105, ont avancé des fonds à Proma International pour faciliter ses activités quotidiennes.
+16. En outre, la Banque CIBC a avancé des fonds à Proma International, avances qui étaient garanties par 105. L'appelant n'a garanti personnellement aucune de ces avances et on ne lui a pas demandé non plus de fournir de garanties. La Banque CIBC a libéré 105 de ses obligations de garantie le 8 mars 1996.
+17. Les grands livres de 105 pour l'exercice terminé le 31 mars 1996 montrent qu'il y a eu un prêt de 156 008,48 $ consenti par 105 à Proma International.
+18. Les grands livres de 105 pour l'exercice terminé le 31 mars 1997 montrent qu'il y a eu un prêt de 119 197,43 $ consenti par 105 à Proma International.
+19. Le ministre a établi une nouvelle cotisation à l'égard de l'appelant parce que celui‑ci aurait reçu un avantage relativement aux avances entre les sociétés au sein du groupe Metal Shapes.
+20. Le 3 novembre 2004, le ministre a admis que l'appelant n'avait pas reçu d'avantage relativement aux avances entre les sociétés consenties par MSI et MSMI.
+[2] Les parties ont également convenu que les seuls points qui restent à trancher par la Cour sont les suivants :
+A. Un avantage de 155 008,48 $ a‑t‑il été accordé à l'appelant pendant l'année d'imposition 1996 au sens du paragraphe 56(2) de la Loi de l'impôt sur le revenu (la « Loi »)?
+B. Un avantage de 119 197,43 $ a‑t‑il été accordé à l'appelant pendant l'année d'imposition 1997 au sens du paragraphe 56(2) de la Loi?
+[3] En plus de l'exposé conjoint partiel des faits, l'appelant a témoigné à l'audience. Il a déclaré qu'il était ingénieur en mécanique et qu'il connaissait bien les questions présentées à la Cour. Un groupe de sociétés dans lequel il jouait un rôle fabriquait des produits de métal laminé. Il a fait l'acquisition de Metal Shapes, entreprise en activité qui existait depuis les années 1950. Il était d'accord avec les faits décrits dans l'exposé conjoint partiel des faits.
+[4] La Banque Canadienne Impériale de Commerce (« CIBC ») est l'institution financière qui a fourni la totalité du financement principal au groupe. La banque demandait toujours des garanties réciproques de toutes les sociétés lorsqu'elles étaient mises sur pied. Elle exigeait aussi, à titre de garantie supplémentaire, une cession générale de tous les comptes clients et des stocks. L'appelant a indiqué que le document figurant à la pièce A‑1, onglet 7, était une garantie et subordination de réclamation type établie par la CIBC. Ce document proposait également la structure d'entreprise de 1058522 Ontario Ltd. (« 105 »). L'appelant n'a garanti personnellement aucune des dettes du groupe.
+[5] Les diverses sociétés du groupe se sont consenti des prêts à différentes occasions. Certaines d'entre elles n'avaient pas de compte bancaire libellé en dollars américains et pouvaient être tenues de régler des fournisseurs aux États‑Unis. Par conséquent, tous les comptes des États‑Unis passaient par Metal Shapes International Inc. Les fonds circulaient entre les diverses entités du groupe. Metal Shapes International Inc. touchait l'argent des clients américains, puis recevait des factures pour le travail effectué par les autres sociétés, et celles‑ci étaient alors payées.
+[6] Des prêts étaient consentis entre les différentes sociétés et comptabilisés dans les registres de chacune. Ces sommes étaient inscrites dans les journaux quotidiens et les grands livres. Elles étaient portées au grand livre à la fin de l'exercice.
+[7] Ce témoin avait peut‑être des sommes à recevoir au titre des dépenses qu'il avait engagées, mais il n'a jamais prêté d'argent à aucune des sociétés. Il n'a reçu non plus aucun prêt de la société, sauf il y a quelques années, pour l'achat d'une voiture, et ce prêt devait être remboursé sur plusieurs années. Il n'a contracté aucun autre prêt. Il n'a reçu aucun autre montant de ces sociétés sauf sous forme de salaire ou de prime.
+[8] Aucune des sociétés n'a déclaré de dividendes. Plus particulièrement, aucune action de Proma International Inc. (« Proma ») n'a jamais été émise. L'appelant a expliqué que le comptable à l'époque ne savait pas exactement quoi faire à ce sujet, de sorte que la question avait été mise de côté et qu'aucune mesure n'avait été prise.
+[9] Proma a été offerte au groupe, et les membres ont fait l'acquisition des éléments d'actif. Elle devait se charger de la mise en marché du groupe à l'échelle internationale et effectuer du travail pour le groupe. Les éléments d'actif de Proma ont été achetés par Metal Shapes Incorporated, c'est‑à‑dire que l'équipement a été acheté auprès du créancier garanti. Ces éléments d'actif ont ensuite été cédés à Proma.
+[10] L'appelant s'est reporté à l'entente d'acquisition des éléments d'actif figurant à la pièce A‑2, onglet 6. L'entreprise a versé un dollar pour les éléments d'actif et a pris en charge la totalité du passif. On a pris des dispositions pour financer l'acquisition. La banque a demandé des garanties réciproques, ce qui était la pratique normale. Aucune garantie personnelle n'a été demandée ni donnée.
+[11] Proma a été rentable avant la fin de sa première année d'existence, mais au milieu de la deuxième année, une des plus grosses entreprises avec qui elle faisait affaire a annulé une commande importante, un des employés de Proma mettait en marché le même produit en se servant des modèles de Proma et a accaparé certains des clients de celle‑ci, tandis qu'un important utilisateur de l'équipement de Proma a décidé de ne pas acheter l'équipement qu'il avait commandé. Ces trois événements ont épuisé tout le capital de Proma.
+[12] Skovsbo Holdings Inc. était un créancier garanti de Metal Shapes Inc. (« MSI ») et a repris les éléments d'actif en octobre 1995; la banque a demandé le remboursement des prêts. Le groupe a tenté de vendre les éléments d'actif de Proma et a essayé de trouver des investisseurs, mais ces efforts n'ont pas porté fruit. Une entente possible visant la vente de certains des avoirs aux employés n'a pas abouti non plus.
+[13] La CIBC a exigé de toutes les entreprises le remboursement du prêt de 155 008 $ et a décidé comment la dette devait être réglée. MSI était propriétaire de l'immeuble et a été tenue de contracter une nouvelle hypothèque et de verser l'argent à la banque au titre de la dette. Une fois que celle‑ci a été réglée, Proma et toutes les sociétés ont été dégagées de toute obligation envers la banque. La somme de 119 197 $ en litige a été inscrite au grand livre de 105.
+[14] À ce moment‑là, l'avenir de Proma était des plus incertains. Ce montant a été comptabilisé comme un prêt à Proma, mais celle‑ci n'a rien remboursé sur ce prêt. La société 105 était considérée comme le chef du groupe de sociétés ou la pointe de la pyramide, et il semblait plus logique d'inscrire le prêt de la banque par le truchement de cette société. La société 105 a aussi prêté de l'argent aux autres sociétés membres du groupe Metal Shapes, tel que l'indique le document de la pièce A‑1, onglet 12. L'appelant a précisé que le chiffre de 156 008,48 $ inscrit dans ce sommaire représentait la somme de 155 008 $ en litige plus 1 000 $ avancés par 105 à Proma et qui figurent dans le sommaire de BDO, pièce A‑1, onglet 12. On a demandé à l'appelant pourquoi 105 aurait prêté de l'argent aux autres sociétés du groupe. Il a répondu qu'il était raisonnable de le faire advenant que 105 ait de l'argent et que les autres sociétés en aient besoin pour poursuivre leurs activités. Si 105 n'avait pas consenti les prêts en question, il ne l'aurait pas fait lui‑même personnellement. Il ne l'a jamais fait. Si cet argent n'avait pas été prêté par 105 à Proma, il serait resté dans le compte de 105 jusqu'à ce qu'il devienne nécessaire pour aider les autres sociétés du groupe à régler leurs dépenses commerciales courantes.
+[15] Le groupe voulait faire croître les entreprises, alors on laissait les fonds dans le groupe au lieu d'emprunter de l'argent pour financer les acquisitions.
+[16] En contre‑interrogatoire, l'appelant a précisé que 105 avait été constituée en 1984. En 1996 et 1997, il en était l'unique actionnaire et administrateur et le président. Il prenait toutes les décisions. Il exploitait également les autres sociétés. La société 657708 Ontario Ltd. (« 657 ») était la société de portefeuille qui détenait les actions de toutes les autres sociétés.
+[17] L'appelant n'était pas d'accord avec l'interprétation de l'intimée au sujet de la structure du groupe Metal Shapes qui figure à l'annexe B de l'exposé conjoint partiel des faits. Son interprétation est donnée dans l'annexe A de cet exposé. Il s'agissait de la même structure que celle illustrée dans le document rédigé par les experts‑comptables BDO Dunwoody, daté du 14 septembre 1998 et figurant à l'annexe A‑1, onglet 9.
+[18] L'appelant affirme que ce n'était pas lui qui détenait 100 % des actions de 657, mais 105. Il savait que le ministre était d'un autre avis. Il avait adopté cette position parce qu'il discutait de la répartition des actions avec le comptable des sociétés et qu'on prenait les décisions en fonction de cette structure. La structure réelle était importante pour lui et pour la banque.
+[19] La banque estimait que 657 se trouvait à la tête de la pyramide et aurait fait de cette entité le principal emprunteur. En mars 1994, Proma s'est vu accorder une marge de crédit. Ce témoin en avait fait la demande. La marge était garantie par 105 et toutes les autres sociétés. C'est ce qu'on peut constater à la lecture de la lettre de la CIBC datée du 8 mars 1996, tel que l'indique la pièce A‑1, onglet 7.
+[20] L'appelant a admis qu'il avait pris la décision de faire en sorte que 105 donne la garantie. Aucune somme n'a été versée par Proma dans le cadre de cette opération. D'autres entreprises, y compris 105, ont pu avancer des fonds à Proma durant son existence. Les difficultés financières de Proma ont débuté en août ou en septembre 1995. C'était un problème de flux de trésorerie. En octobre 1995, elle avait cessé ses activités. Il était impossible qu'elle puisse poursuivre son exploitation. L'appelant a tenté de la vendre. À la fin de 1995, ces efforts s'étaient révélés vains. La CIBC a exigé le remboursement sur‑le‑champ en s'adressant à Proma, puis à 105 et aux autres sociétés du groupe, et elles ont effectué les paiements. Après le remboursement, la CIBC a libéré Proma de toutes les obligations contenues dans la garantie datée du 4 mars 1994 qui avait été signée par 105. Lorsque Proma a mis fin à ses activités, l'appelant n'a rien versé au titre de l'argent qu'elle devait. La CIBC a proposé la façon dont les fonds devaient être recueillis et versés. L'appelant n'est pas intervenu à ce sujet. Monsieur Tonn était le comptable et s'est occupé de toutes les opérations financières du groupe ainsi que des déclarations de fin d'exercice.
+[21] Lorsque Proma a cessé ses activités, les choses sont devenues des plus chaotiques pendant les derniers jours, de sorte qu'une bonne partie de l'information s'est perdue. En mars 1996, les prêts ont été imputés à Proma par 105 et les paiements ont été faits au nom de Proma. Les montants ont été versés aux autres entités, notamment la société de cautionnement et d'autres créanciers, après que Proma a cessé ses activités.
+[22] En réinterrogatoire, l'appelant a mentionné la somme de 155 008 $ versée par 105 au nom de Proma et qui figurait sur le relevé de rapprochement bancaire du mois de mars 1996 établi pour 105. Cette somme représentait les montants prélevés par la CIBC en vertu de la garantie signée par 105.
+[23] L'appelant a fait valoir qu'il ne pouvait pas voir où il avait tiré un avantage quelconque de ces opérations. Il n'a pas reçu d'argent et n'a bénéficié d'aucune remise d'une dette qu'il aurait pu contracter.
+[24] En réponse à une question de la Cour, l'appelant a expliqué que la banque ne lui avait jamais demandé de garantie personnelle et que ce n'était pas une condition que la banque avait fixée. La CIBC semblait satisfaite de la situation financière du groupe de sociétés.
+[25] Monty Smith était comptable agréé. Il était associé d'un cabinet d'experts‑comptables depuis 25 ans. Il connaissait bien les finances de l'appelant et celles des sociétés du groupe Metal Shapes au cours des trois dernières années et demie. Il s'est reporté au document de la pièce A‑1, onglet 10, qui renferme les écritures d'ajustement des journaux du groupe Metal Shapes en date du 28 septembre 1995. Le document avait trait au processus de cristallisation qui avait eu lieu en 1994. Il s'agissait des registres des divers prêts et transferts entre les sociétés. Monsieur Smith s'est reporté à l'onglet 11, au chiffre de 119 197,43 $, et a affirmé que c'était un prêt imputé à 105, qui avait été consenti auparavant.
+[26] Diverses sociétés du groupe ont avancé des fonds aux autres et ces fonds ont été remboursés dans certains cas. Il était au courant de ces avances. Les montants en litige dans la présente affaire avaient trait aux prêts reçus de Proma et qui ont été radiés parce qu'ils ne pouvaient être remboursés.
+[27] Il a confirmé que l'appelant n'avait jamais contracté de prêt à titre d'actionnaire d'aucune des sociétés ni reçu de dividendes d'aucune d'entre elles. La société 105 était fondamentalement une société de portefeuille constituée dans le cadre du processus de cristallisation qui avait eu lieu en 1994.
+[28] En contre‑interrogatoire, on lui a montré la pièce A‑1, onglet 11. Il a déclaré qu'il était responsable de ces écritures de journaux mais que celles‑ci avaient été faites au moment de la cristallisation. D'après ses informations, 657 ne détenait pas les actions.
+Arguments pour le compte de l'appelant
+[29] Durant les plaidoiries, l'avocate de l'appelant a déclaré qu'il était clair que les faits en l'espèce ne cadraient pas avec l'objet du paragraphe 56(2). Elle a cité les affaires Neuman c. M.R.N.[1] et McClurg c. Canada[2]. Il est clair selon ces arrêts que le paragraphe 56(2) porte sur le détournement de revenu, et la situation factuelle dans la présente affaire ne fait pas entrer cette disposition en jeu. Elle a concédé que, si les faits avaient été différents, le paragraphe aurait peut‑être pu s'appliquer dans une certaine mesure.
+[30] À la question « Y avait‑il un prêt? », elle a répondu par l'affirmative. Si les sommes en cause n'étaient pas des prêts, de quoi s'agissait‑il? L'appelant les considérait comme des prêts. Elles ont été comptabilisées par les comptables comme des prêts et figuraient dans les livres comptables de l'entreprise comme des prêts. Par conséquent, le paragraphe 56(2) ne s'applique pas.
+[31] L'avocate a également cité l'arrêt Fraser Companies, Limited c. La Reine[3]. Selon cette décision, si on demandait à une personne ordinaire de rattacher à une catégorie les opérations impliquant le versement de fonds en l'espèce, elle n'hésiterait pas à les décrire comme des « prêts » plutôt que comme des « paiements » ou des « transferts ».
+[32] Comme dans cette affaire, l'argent a été mis à la disposition de Proma par les sociétés, mais il était censé être remboursé. Voilà les caractéristiques d'un « prêt ». Il y a un emprunteur et un prêteur. En outre, l'avocate a repris un extrait de cet arrêt à la page 19 (D.T.C. : à la page 5059), où le juge de première instance s'exprime comme suit :
+À mon avis, le prêt, qu'on a reconnu tel, de Companies à Paper, est un contrat entre deux entités distinctes agissant dans le cours de leurs affaires, donc un contrat commercial. Ainsi que le juge en chef Thurlow l'indiquait, une transaction commerciale n'équivaut pas à la remise par Companies d'un profit à Paper au sens de l'art. 16(1) ou de son successeur, l'art. 56(2). Je réfère au prêt de 20 millions de dollars au singulier, même s'il a été fait en deux étapes, de manière à faciliter la tâche.
+C'était la situation factuelle de la présente affaire.
+[33] Concernant le deuxième point, si les sommes en cause ne constituaient pas un prêt, ce que prétend l'intimée, alors un avantage doit avoir été accordé pour que l'intimée ait gain de cause. Qu'était l'avantage? Où était l'intention d'accorder un avantage? Le seul argument que pourrait avancer l'intimée était que l'appelant avait profité de l'opération parce qu'il n'avait pas été obligé de garantir les prêts. Toutefois, ce n'est pas si simple. L'appelant n'a jamais financé ces entreprises, il n'a jamais donné de garantie personnelle, on ne lui a jamais demandé de le faire. Les opérations qui donnent lieu aux prêts ont fait partie des affaires normales du groupe. Au bout du compte, la banque a pris l'argent en vertu de la garantie. L'appelant n'a pas donné d'instructions pour qu'il en soit ainsi. Aucun avantage n'a été accordé à l'appelant en raison du transfert de fonds.
+[34] Il n'y avait aucune preuve indiquant que l'appelant a négocié avec la banque pour éviter de donner des garanties parce que le groupe de sociétés garantissait la dette. En outre, il n'y a jamais eu d'avantage réel pour Proma. Celle‑ci a simplement reçu le produit d'un prêt. Ce prêt existe toujours et pourrait encore être remboursé. Les fonds dont disposait 105 pourraient rester dans son compte pour toujours.
+[35] Ici, il faut déterminer non pas ce que l'appelant aurait pu faire, mais bien décider s'il a reçu ou non un avantage. Il n'a pas reçu d'avantage! La vraie question consiste à savoir ce qui s'est passé en examinant les faits.
+[36] L'opération indique clairement que des prêts ont été consentis. C'était conforme au mode de financement habituel de la société. Ces prêts faisaient partie de ce mode de financement. On n'a jamais tenté de transformer les transferts en prêts en modifiant leur nature d'origine. Il n'y a pas eu de détournement de revenu par l'entremise de l'appelant ou d'une autre partie suivant les instructions de l'appelant.
+[37] Dans les observations écrites, l'avocate a souligné qu'il s'agissait de prêts valides consentis par 105 à Proma. Ces prêts ont été faits conformément aux pratiques courantes de prêts entre les sociétés qui étaient régulièrement et fidèlement inscrits dans les livres comptables. Ce n'est pas parce que le groupe Metal Shapes a pu financer ses diverses entreprises au moyen de prêts entre les sociétés qu'il s'ensuit que l'appelant a reçu un avantage. Il n'y avait aucune preuve que l'appelant aurait eu à financer Proma si 105 n'avait pas consenti de prêts. L'appelant n'a pas détourné des fonds qu'il aurait reçus par ailleurs. Juridiquement, il n'avait aucun droit de recevoir personnellement les montants prêtés par 105 à Proma.
+[38] Les quatre conditions préalables à l'application du paragraphe 56(2) ne sont pas satisfaites.
+[39] Le paragraphe 56(2) est une disposition anti‑évitement conçue pour que le contribuable ne puisse se soustraire à l'impôt en détournant au profit d'une autre personne des fonds qu'il aurait reçus par ailleurs. Ce n'est tout simplement pas ce qui s'est passé ici.
+[40] La première condition n'est pas satisfaite, parce qu'il y avait un prêt. Un prêt ne constitue par un transfert de biens. Voir Dunkelman v. M.N.R.[4].
+[41] Les avances entre sociétés qui sont comptabilisées à titre de prêts sont généralement traitées comme des prêts par les tribunaux. Voir M.N.R. v. Stewart & Morrisson Ltd.[5].
+[42] Comme nous l'avons déjà mentionné, de nombreuses preuves indiquent que toutes les parties, y compris le vérificateur, considéraient les avances entre les sociétés comme des prêts. Il n'y avait aucune preuve que les montants inscrits dans le compte de prêts à l'actionnaire en 1996 et en 1997 étaient différents des autres prêts entre les sociétés faits au sein du groupe Metal Shapes.
+[43] L'avocate a concédé que l'appelant savait que le compte de prêts à l'actionnaire incluait un prêt consenti par 105 à Proma pendant l'année d'imposition 1997 de la société 105.
+[44] Quant à la troisième condition préalable, il n'y a eu aucun avantage accordé à l'appelant. Il n'y avait aucune intention de détourner une partie du revenu du contribuable. Une opération commerciale authentique, y compris un prêt entre sociétés, ne constitue pas un « avantage » au sens du paragraphe 56(2), comme il est précisé dans la décision Fraser Companies, précitée.
+[45] Les prêts en question étaient légitimes et visaient un but commercial valide. Ces sociétés étaient toutes des entités juridiques distinctes et avaient le droit de conclure des opérations et d'être traitées comme telles. Les prêts constituaient des opérations commerciales valides conclues de bonne foi dans le cours normal des affaires du groupe Metal Shapes et étaient conformes aux pratiques de financement habituelles du groupe.
+[46] Au sujet de la quatrième condition préalable à l'application du paragraphe 56(2), il n'y avait aucune preuve que l'appelant avait le droit de recevoir les fonds que 105 a prêtés à Proma. La condition d'existence de ce droit est compatible avec l'objet du paragraphe 56(2) selon l'arrêt Neuman, précité, à la page 788.
+[47] Dans le cas où le prêt n'aurait pas dû être consenti par 105 à Proma, aucune preuve ne laisse même croire que les fonds auraient été transférés à l'appelant. Le montant aurait pu être versé à l'appelant sous forme de dividende, mais l'appelant n'avait aucun droit juridique de toucher cet argent lorsqu'aucun dividende n'était déclaré. Rien n'aurait empêché 105 de retenir les fonds au sein de l'entreprise et de ne pas déclarer de dividende.
+[48] L'appelant a demandé que les appels soient admis du fait que le paragraphe 56(2) de la Loi ne permet pas de faire en sorte que les montants prêtés par 105 à Proma soient considérés comme des avantages qu'il a reçus. L'appelant demande aussi à se voir accorder les dépens de la présente action.
+Arguments pour le compte de l'intimée
+[49] Dans ses observations écrites et ses plaidoiries au nom de l'intimée, l'avocate a énoncé les quatre exigences ou conditions préalables qui doivent être satisfaites pour que le paragraphe 56(2) de la Loi entre en jeu :
+1. Il doit y avoir un paiement ou un transfert de biens à une personne autre que le contribuable (autre qu'un prêt);
+2. Le paiement ou transfert de biens doit être fait suivant les instructions ou avec l'accord du contribuable
+3. Le paiement ou transfert de biens doit se faire au profit du contribuable ou à titre d'avantage accordé à la personne à qui le paiement est fait;
+4. Le paiement ou transfert de biens doit viser un montant qui devrait être inclus dans le revenu du contribuable si ce dernier l'avait reçu au lieu de l'autre personne.
+[50] Elle a soutenu que les quatre conditions préalables avaient été satisfaites en l'espèce. Les montants avancés par 105 à Proma n'étaient pas des prêts bien qu'ils aient été comptabilisés comme tels dans les livres de 105. Même s'il n'y avait aucune trace dans les livres du paiement réel, en 1997, du montant de 119 197 $, les parties ont convenu qu'il y avait eu un paiement en espèces de 155 008 $ pendant l'année d'imposition 1996. Par conséquent, les deux montants constituent des paiements ou des transferts de biens conformes à la deuxième condition préalable.
+[51] Les paiements ne constituaient pas des prêts parce qu'il n'y a eu aucun accord de prêt entre les parties. Proma n'avait aucune obligation de rembourser les montants avancés et, au moment où les avances ont été faites, elle avait cessé ses activités, de sorte qu'il n'y avait aucune perspective implicite de remboursement. L'avocate a cité l'arrêt Davisson c. La Reine[6] à cet égard.
+[52] Comme nous l'avons mentionné plus tôt, l'intimée a fait valoir que le montant de 119 197 $ a été comptabilisé comme une avance faite par 105 à Proma pendant l'année d'imposition 1997 même s'il n'y avait aucun document prouvant l'existence d'un transfert véritable. Cependant, les écritures comptables reflètent les opérations et c'est la réalité des faits qui en établit la nature véritable. Les écritures comptables sont la preuve des faits réels. L'intimée s'est appuyée sur les arrêts Hickman Motors Ltd. c. La Reine[7] et Vander Nurseries Limited c. La Reine[8]. Conformément à ces décisions, l'inscription des avances dans les livres de 105 constitue la meilleure preuve de la vérité. La première condition a été satisfaite.
+[53] Les paiements ont été faits par 105 à Proma suivant les instructions de l'appelant ou avec son accord, parce que l'appelant était l'unique actionnaire et administrateur et le président de 105. À ce titre, il prenait toutes les décisions pour 105, y compris les décisions de nature financière. Ces paiements ne pouvaient avoir lieu qu'avec son accord ou suivant ses instructions.
+[54] En outre, les paiements ont été faits pour accorder un avantage à l'appelant en 1996 et 1997. Proma avait mis fin à ses activités. Par conséquent, même si 105 avait été liée à Proma, ce qui n'était pas le cas, 105 n'avait rien à gagner des avances même si Proma en profitait parce qu'elle était soulagée de ses difficultés financières d'alors. Cette situation suffisait à faire en sorte que la troisième condition préalable soit remplie.
+[55] La quatrième condition préalable, quant à elle, est satisfaite parce que si les paiements avaient été faits à l'appelant directement, sans obligation de remboursement, il aurait été tenu d'inclure ces montants dans son revenu conformément au paragraphe 15(1) de la Loi. Cette responsabilité fiscale de l'appelant n'aurait peut‑être pas entraîné une double imposition et, en conséquence, le paragraphe 56(2) de la Loi s'applique quand même.
+[56] L'avocate s'est reportée à l'affaire Neuman c. M.R.N., précitée, au paragraphe 53, à Winter c. La Reine[9] et à Peddle c. La Reine[10]. Les paiements en cause ne constituent pas un revenu de dividende et la question de la double imposition n'entre pas en jeu.
+[57] L'avocate a soutenu que les appels devaient être rejetés et que les cotisations du ministre devaient être confirmées.
+Analyse et décision
+[58] La Cour est d'avis qu'elle doit faire droit aux présents appels. La situation factuelle mise en lumière par les éléments de preuve ainsi que toute autre conclusion raisonnable que la Cour peut tirer de ces éléments de preuve ne justifient pas l'application du paragraphe 56(2).
+[59] Il est clair selon la preuve que les paiements en question ont été faits au sein du groupe Metal Shapes, conformément aux pratiques en vigueur concernant les prêts entre les sociétés. Ces opérations étaient régulièrement et fidèlement consignées dans les registres comptables des diverses sociétés. Le comptable des sociétés a témoigné en ce sens, et rien dans son contre‑interrogatoire ne pourrait jeter un doute sur ce qu'il avait à dire. Son témoignage reflétait cette situation.
+[60] La situation type à laquelle le paragraphe 56(2) devrait être appliqué est décrite dans l'affaire Neuman c. M.R.N., précitée. À la lumière de cette décision, il est facile de se rendre compte que ce paragraphe est censé s'appliquer lorsqu'un contribuable cherche à éviter de recevoir un bien qui deviendrait un revenu pour lui en essayant de faire transférer le bien à une autre personne. Cependant, l'avantage dont il est question est accordé au profit du contribuable donnant les instructions.
+[61] Il était énoncé dans ce jugement que, lorsqu'il existe un contrat commercial avec cette personne moyennant une contrepartie supplémentaire, aucun avantage n'est accordé. D'après les preuves produites dans la présente affaire, c'est cette même situation qui existe ici. Il n'y a aucun doute sur l'exactitude des comptes, aucun doute sur les registres et aucun doute sur le fait que le transfert de fonds entre les sociétés s'était effectué conformément à des pratiques commerciales normales et qu'il n'y avait rien de « clandestin » à ce sujet, ni même à propos du transfert des montants en cause dans le présent appel.
+[62] La situation en l'espèce est aussi semblable à celle qui est décrite dans l'affaire M.N.R. v. Stewart & Morrison Limited[11]. La Cour est convaincue que, dans le présent appel, 105 a obtenu et garanti un prêt bancaire en faveur de Proma, comme on peut le constater à la lumière du document de la pièce A‑1, onglet 7. La garantie et subordination de réclamation en faveur de la CIBC signée par 105 garantissait le remboursement à la banque, sans délai et sur demande, de toutes les dettes et de toutes les obligations de Proma envers la banque. La Cour est convaincue que les paiements en question ont été faits d'après cette garantie et subordination de réclamation, suivant les instructions de la banque.
+[63] Comme l'a déclaré l'appelant lui‑même dans son témoignage à l'audience, une fois que la banque a décidé de se prévaloir de sa garantie, l'appelant n'avait plus rien à dire sur les mesures prises par la suite, sur la façon dont les fonds seraient affectés ou sur les comptes qui seraient réglés. Tout relevait absolument du pouvoir discrétionnaire et du contrôle de la banque.
+[64] Il est difficile de dire dans les circonstances que le paiement ou le transfert du bien ont été faits « suivant les instructions ou avec l'accord du contribuable, à toute autre personne au profit du contribuable ou à titre d'avantage que le contribuable désirait voir accorder à l'autre personne […] ».
+[65] À ce moment, ni 105 ni le contribuable n'avaient plus aucun pouvoir. C'était la banque qui donnait des instructions au sujet des paiements. L'appelant et le groupe de sociétés étaient devenus de simples spectateurs, attendant que la dette de la banque soit remboursée avant que 105 et l'autre groupe de sociétés puissent être libérés de leur obligation. En fin de compte, c'est effectivement ce qui s'est produit.
+[66] L'extrait tiré de la décision Fraser Companies c. La Reine, précitée, citée par l'avocate de l'appelant est très éloquent à cet égard :
+L'homme de la rue, s'il avait à rattacher à quelque catégorie les deux transactions, l'une, celle du 28 janvier 1970, impliquant les 10 millions de dollars, l'autre, celle du 30 janvier 1970, entre Fraser Companies et Fraser Paper, n'hésiterait pas, à mon avis, à les décrire comme des « prêts » plutôt que comme des « paiements » ou des « transferts ». Companies mettait de l'argent à la disposition de Paper, mais s'attendait à être remboursée. Ce sont là les attributs d'un « prêt ». Il y a un emprunteur et un prêteur.
+[67] En l'espèce, l'emprunteur était évidemment Proma, le prêteur était la banque, et la caution, 105 et toutes les filiales. Même s'il n'y avait pas d'accords de prêt comme tels visant ces transferts de fonds, ces derniers étaient assujettis à la garantie et subordination de réclamation intervenue entre Proma, 105 et la CIBC. De toute évidence, les montants qui étaient transférés étaient liés à la dette contractée par 105 et Proma en vertu de la garantie et subordination de réclamation.
+[68] En l'absence de preuves supplémentaires, on pourrait se demander pourquoi des fonds auraient été avancés afin de régler les dettes de Proma après la cessation de ses activités. Toutefois, la banque contrôlait entièrement la gestion de la dette de Proma en vertu de la garantie et subordination de réclamation de 105. L'appelant n'avait certainement rien à voir là‑dedans et n'avait aucun pouvoir à ce sujet.
+[69] Quant aux conditions précises relatives à l'application du paragraphe 56(2) de la Loi, la Cour se prononce comme suit :
+1. Il n'y a eu aucun transfert de biens à une personne autre que le contribuable, parce que les paiements ont été faits en vertu de prêts contractés par le groupe de sociétés et par Proma envers la banque dans le cadre d'opérations commerciales normales conclues par les parties dans le cours normal des affaires, consignées dans les registres de la société et reflétant les relations normales entre un créancier et un débiteur.
+2. Cependant, si la Cour était dans l'erreur à cet égard et qu'une autorité supérieure était encline à conclure qu'il y a eu un paiement ou un transfert de biens, alors la Cour est convaincue que ce paiement n'a pas été fait suivant les instructions ou avec l'accord du contribuable parce que ce dernier, au moment du transfert, n'avait aucun pouvoir quel qu'il soit sur les opérations, même s'il était le principal actionnaire et un dirigeant des diverses entités. Toutes les mesures prises l'ont été suivant les instructions de la CIBC et en vertu du pouvoir que celle‑ci détenait conformément à la garantie et subordination de réclamation.
+3. La Cour est convaincue que, s'il y a eu un paiement ou un transfert de biens, ce n'était pas au profit du contribuable ou à titre d'avantage accordé à la personne à qui le paiement a été fait. Tout ce qui s'est passé dans cette affaire, c'est que la dette de Proma était remboursée suivant les instructions de la CIBC en raison de la garantie que celle‑ci détenait à l'égard du groupe de sociétés. Bien que le paiement de certains fonds ait pu avoir visé le règlement d'une dette de Proma à une époque où Proma semblait avoir cessé ses activités, la dette de cette dernière envers 105 et l'autre groupe de sociétés existait toujours, même s'il était peut‑être peu probable qu'elle rembourse jamais sa dette. Cette situation ne change en rien le fait que le paiement ne constituait pas un avantage accordé à l'appelant. L'appelant se trouvait exactement dans la même position qu'auparavant. Tout avantage accordé à Proma n'était pas un avantage réel en fin de compte parce que la société demeurait responsable des sommes payées en son nom.
+4. De toute manière, la Cour ne pourrait envisager d'avantage possible accordé au contribuable ou à Proma dans le contexte général du paragraphe 56(2).
+[70] Quant à la quatrième condition préalable, la Cour est convaincue que, selon une interprétation strictement technique de cet article, cette condition a peut‑être été satisfaite. Cependant, compte tenu de l'objet de cet article et du scénario décrit dans l'affaire Miller v. M.N.R.[12], la Cour éprouverait de grandes difficultés à conclure que cette condition a été respectée.
+[71] En fin de compte, ce que l'intimée tente de faire, c'est de pénaliser le contribuable chanceux qui se trouve dans la position enviable de jouer un rôle dans un groupe de sociétés dont la situation financière était si solide que l'institution prêteuse, la CIBC, n'a pas exigé que le particulier qui était actionnaire ou dirigeant garantisse personnellement les emprunts et était prête à accepter les garanties du groupe de sociétés. Le paragraphe 56(2) ne vise pas de telles situations. Il serait difficile pour la Cour d'interpréter ce paragraphe d'une manière aussi large pour y assujettir l'appelant qui se trouve dans la situation décrite par les éléments de preuve en l'espèce.
+[72] Les appels sont admis et les cotisations du ministre à l'égard des années encore en litige, soit 1996 et 1997, sont annulées.
+[73] L'appelant peut faire taxer ses dépens sur la base des frais entre parties.
+Signé à Ottawa, Canada, ce 21e jour de décembre 2004.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 15e jour de décembre 2005.
+Yves Bellefeuille, réviseur
+[1] [1998] 1 R.C.S. 770.
+[2] [1990] 3 R.C.S. 1020.
+[3] C.F. 1re inst., no T‑564‑77, 11 février 1981, notamment aux pages 15 à 18, 81 D.T.C. 5051, notamment aux pages 5058 et 5059.
+[4] 59 D.T.C. 1242 (C. de l'É.), à la page 1246.
+[5] 70 D.T.C. 6295 (C. de l'É.).
+[6] C.C.I., no 97‑2326(IT)G, 7 janvier 2000, 2000 D.T.C. 2140.
+[7] [1997] 2 R.C.S. 336, 97 D.T.C. 5363 (C.S.C.).
+[8] C.C.I., no 92-380(IT)G, 7 septembre 1994, [1994] 2 C.T.C. 2347, à la page 2355.
+[9] 90 DTC 6681 (C.A.F.), aux paragraphes 14 et 15.
+[10] [2004] DTC 2459 (C.C.I.), aux paragraphes 34-36.
+[11] 70 D.T.C. 6295 (C. de l'É.).
+[12] [1962] R.C. de l'É. 400, aux pages 414 et 415, [1962] C.T.C. 199, à la page 212.

@@ -1,0 +1,175 @@
+Title: LeBlanc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27591/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-274-27591-leblanc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-04-24
+
+# LeBlanc v. The Queen
+
+- Citation: 2007 CCI 274
+- Decision date: 2007-04-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 86, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+LeBlanc v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-24
+Référence neutre
+2007 CCI 274
+Numéro de dossier
+2006-1306(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1306(IT)I
+ENTRE :
+CARLYLE LEBLANC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 avril 2007 à Vancouver (Colombie‑Britannique).
+Devant : L’honorable Campbell J. Miller, juge
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Sara Fairbridge
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait qu’en l’an 2000, les dépenses d’entreprise de l’appelant s’élevaient à 1 909,81 $.
+Signé à Toronto (Ontario), ce 8e jour de mai 2007.
+« Campbell J. Miller »
+Juge Miller
+Référence : 2007CCI274
+Date : 20070508
+Dossier : 2006-1306(IT)I
+ENTRE :
+CARLYLE LEBLANC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Leblanc interjette appel sous le régime de la procédure informelle à l’encontre de la cotisation concernant son année d’imposition 2000, dans laquelle le ministre du Revenu national (le « ministre ») a refusé un montant de 4 783 $ au titre de pertes d’entreprise et un montant de 2 314 $ au titre de pertes d’entreprise reportées prospectivement. M. Leblanc se fonde fortement sur une entente qu’il affirme avoir conclue avec le ministère de la Justice et avec l’Agence du revenu du Canada (l’« ARC ») lors d’une audience tenue devant la Cour canadienne de l’impôt à l’égard de ses années d’imposition 1996 et 1997.
+[2] La présente affaire afflige clairement M. Leblanc depuis plusieurs années. M. Leblanc gagnait principalement sa vie comme mécanicien d’automobile, bien qu’entre le milieu des années 1990 et la fin du mois d’avril 2000, il ait tenté de se lancer dans la vente d’immeubles. Au mois d’octobre 2002, M. Leblanc a comparu devant le juge Rip (tel était alors son titre), à la Cour canadienne de l’impôt, à l’égard de dépenses d’entreprise se rapportant à ses activités immobilières pour les années 1996 et 1997. L’instruction n’a pas eu lieu parce que M. Leblanc, ainsi que l’avocat du ministère de la Justice, Me Grewal, et une agente de l’ARC, Mme Oliver, ont conclu un règlement à la porte du palais de justice. Lorsqu’ils ont comparu devant le juge Rip, ils l’ont informé de cette entente. Pour les années 1996 et 1997, le juge Rip a ordonné aux parties de poursuivre l’affaire en vertu du paragraphe 169(3) de la Loi de l’impôt sur le revenu (la « Loi »). Me Grewal a envoyé à M. Leblanc une lettre datée du 9 décembre 2002, avec les conditions sur lesquelles il y avait eu entente pour les années 1996 et 1997, lesquelles indiquaient notamment que l’appelant avait droit à une déduction pour amortissement de 85 p. 100 à l’égard de sa voiture, et qu’il pouvait augmenter les frais de bureau à domicile de façon qu’ils représentent 38 p. 100 des impôts fonciers payés et reporter prospectivement à l’année 1997 les pertes d’entreprise subies en 1996. M. Leblanc a signé cette lettre le 31 décembre 2002 et il a ensuite signé un désistement le 17 janvier 2003. M. Leblanc maintient que l’entente qui a été conclue avec le gouvernement s’appliquait aux années d’imposition 1998, 1999 et 2000.
+[3] Au mois d’octobre 2002, toutes les parties savaient que M. Leblanc avait mis fin à son entreprise à la fin du mois d’avril 2000. M. Leblanc a expliqué que, selon l’entente conclue avec le gouvernement, il n’avait pas à fournir de documents justificatifs pour les dépenses engagées en 1998, en 1999 et en l’an 2000, mais qu’il pouvait simplement énumérer toutes ses dépenses, qu’il s’agisse de dépenses d’entreprise ou de frais personnels, en indiquant certains pourcentages. M. Leblanc a appelé la chose une [traduction] « méthode de tiers ». Il affirmait que la plupart des catégories étaient déductibles à 100 p. 100, bien que les dépenses associées au téléphone résidentiel et à la promotion aient été déductibles dans une proportion de 50 p. 100 seulement et que toute autre dépense associée à la résidence, comme les frais de services publics et les impôts fonciers, aient été déductibles dans une proportion de 38 p. 100. M. Leblanc a indiqué avoir ensuite produit sur cette base ses déclarations pour les années 1998, 1999 et 2000. Pour l’année 2000, il a déduit les dépenses comme suit :
+REVENU BRUT
+0,00 $
+DÉPENSES
+Frais d’intérêt
+323,15 $
+Dépenses associées au véhicule
+956,23 $
+Frais de bureau
+1 994,76 $
+Téléphone, services publics
+705,92 $
+Téléphone cellulaire
+83,62 $
+Téléavertisseur
+16,53 $
+Frais de promotion
+702,90 $
+Dépenses totales
+4 783,11 $
+Utilisation de la résidence à des fins commerciales
+Assurances
+123,60 $
+Frais d’intérêt hypothécaire
+3 112,82 $
+Total
+3 236,42 $
+Montant reporté prospectivement d’une année antérieure
+33 129,79 $
+Montant associé à l’utilisation de la résidence à des fins commerciales disponible dans l’avenir
+36 366,21 $
+[4] L’intimée a produit une liste de toutes les dépenses de M. Leblanc, qu’il s’agisse de dépenses d’entreprise ou de frais personnels, pour les quatre premiers mois de l’année 2000. L’intimée a également produit des copies de certains reçus de téléphone et de services publics que M. Leblanc avait déjà fournis. Il était clair que le montant des dépenses d’entreprise que M. Leblanc avait déduit dans sa déclaration de l’an 2000 correspondait à la totalité des dépenses énumérées pour la période de quatre mois, mis à part les frais d’intérêt hypothécaire de 3 112 $ et les frais d’assurance de 123 $ qu’il a déclarés au titre de l’utilisation de la résidence à des fins commerciales, ces montants pouvant être déduits par la suite. L’explication que M. Leblanc a donnée pour déduire la totalité des dépenses, plutôt que le pourcentage dont il croyait avoir convenu, était qu’il devait simplement s’agir d’une erreur d’écritures.
+[5] M. Leblanc n’a fourni aucun autre document justificatif pour les dépenses de l’année 2000 qu’il avait déduites; il a affirmé avec insistance que telle n’était pas l’entente conclue avec le gouvernement.
+[6] M. Leblanc a trouvé que l’entreprise immobilière était difficile, au point qu’il a reconnu qu’il n’avait pas pu se concentrer sur cette entreprise d’une façon appropriée en l’an 2000. Il ne se rappelait pas si, au cours des quatre premiers mois de l’année 2000, avant qu’il eût mis fin à l’entreprise, il avait obtenu des mandats de vente. Il ne le croyait pas, mais il a dit qu’il avait peut‑être montré des maisons pour lesquelles d’autres agents s’étaient vu conférer des mandats. En l’an 2000, ses activités immobilières étaient certes limitées.
+[7] Dans sa réponse, l’intimée a invoqué deux arguments pour refuser les dépenses d’entreprise déduites par M. Leblanc : en premier lieu, M. Leblanc n’exploitait pas d’entreprise immobilière en l’an 2000 et, en second lieu, même s’il en exploitait une, les dépenses qu’il avait déduites étaient des frais personnels ou de subsistance, qu’il n’avait pas engagés en vue de gagner ou de produire un revenu. À l’instruction, l’intimée a reconnu que M. Leblanc exploitait encore l’entreprise immobilière au cours des quatre premiers mois de l’année 2000.
+[8] L’approche adoptée par M. Leblanc a été de demander à la Cour d’ordonner au gouvernement d’honorer l’entente qui avait censément été conclue au mois d’octobre 2002. Étant donné le temps que M. Leblanc a consacré à cette approche et le point jusqu’auquel il croit avoir été lésé par le gouvernement, j’examinerai d’abord cet aspect de l’affaire, même si je l’ai informé que son point de vue sur la question était plutôt différent du mien, puisque j’estime simplement que la cotisation relative à l’année d’imposition 2000, en ce qui concerne les dépenses de 4 783 $ et la perte reportée prospectivement de 2 314 $, est exacte.
+[9] Le seul élément de preuve que M. Leblanc a soumis au sujet de l’entente conclue avec le gouvernement était la transcription de l’audience tenue devant le juge Rip au mois d’octobre 2002, dans laquelle il était question des années d’imposition 1996 et 1997. Plus précisément, M. Leblanc se fonde sur le passage suivant[1] :
+[traduction]
+M. Leblanc : Je peux donc envoyer mes déclarations de 1998 et de 1999?
+Le juge : Vous ne l’avez pas encore fait?
+M. Leblanc : Eh bien, non, cela fait partie de la même entreprise. Je n’exerce plus cette activité, et je devais savoir quels étaient les chiffres finaux pour le report. De cette façon, nous convenons que tout ira bien. Mais il y avait – cela était basé sur des pourcentages acceptés et ainsi de suite, qu’il était impossible de connaître. Cela aurait pu –
+Le juge : Eh bien, avez‑vous convenu – y a‑t‑il eu une entente selon laquelle les pourcentages des années 1998 et 1999 seraient les mêmes que ceux des années antérieures?
+M. Leblanc : Je peux les produire de cette façon. Cela importe peu, parce que je vais être complètement dans le rouge de toute façon, et que je ne devrai pas d’impôt sur le revenu, mais que je serai dans le rouge dans tous les cas. Comme vous le savez, cela pose un problème depuis le début.
+[10] M. Leblanc a soutenu que la transcription n’était pas exacte et qu’une transcription l’aiderait d’une façon ou d’une autre. Avec égards, il n’est pas en mesure de me montrer clairement comment son souvenir de l’instance aurait permis de prouver la présumée entente. Je conclus que son témoignage sur ce point est embrouillé. Toutefois, il est clair que le juge Rip a demandé des renseignements au sujet des années 1998 et 1999 et que M. Leblanc a répondu, sans que Me Grewal le corrige, qu’il pouvait produire les déclarations de ces années‑là en se fondant sur les mêmes pourcentages. Cela rend de fait crédible la position avancée par M. Leblanc, à savoir qu’il y a eu une entente sur les pourcentages.
+[11] Toutefois, je ne suis toujours pas certain de ce qui a été convenu au sujet des années 1998, 1999 et 2000, et la chose demeure vague à mes yeux. Je ne dispose d’aucun témoignage de la part de Me Grewal ou de Mme Oliver. Je dispose des assertions de M. Leblanc, à savoir que l’ARC a convenu qu’aucun document justificatif ne serait nécessaire – une entente que je trouve fort suspecte. Enfin, M. Leblanc n’a pas témoigné au sujet du pourcentage qui s’appliquait à une catégorie donnée lorsqu’il a d’abord mentionné l’entente, mais il n’a présenté un témoignage sur ce point qu’une fois le contre‑interrogatoire terminé et après que je lui eus posé des questions au sujet de la nature de l’entente.
+[12] La conversation que M. Leblanc a eue avec Me Grewal et Mme Oliver avant de mettre un terme à la question des années d’imposition 1996 et 1997 devant le juge Rip a mené à une entente pour les années d’imposition 1996 et 1997 compte tenu de certains pourcentages. La chose a été confirmée dans la lettre du 9 décembre 2002 de Me Grewal. Je reconnais également que la conversation que M. Leblanc a eue avec Me Grewal et Mme Oliver se rapportait aux années 1998, 1999 et 2000 étant donné que les déclarations de ces années‑là n’avaient pas encore été produites. Toutefois, cette conversation ne constituait pas selon moi une entente, bien que je reconnaisse que M. Leblanc considérait peut‑être qu’il en était ainsi. Je considère la conversation que M. Leblanc a eue avec Me Grewal et Mme Oliver au mois d’octobre 2002 de la même façon que les conversations que les contribuables ont avec des représentants de l’ARC lorsqu’ils téléphonent pour demander conseil au sujet de la façon de produire leurs déclarations de revenus. Il s’agit tout simplement de conseils, et rien de plus. Il est à espérer que les représentants de l’ARC ont raison lorsqu’ils donnent ces conseils. S’ils n’ont pas raison, ce ne sont pas leurs conseils qui comptent, mais le droit tel qu’il est correctement interprété devant la présente cour.
+[13] Je ne suis pas convaincu que Me Grewal et Mme Oliver aient conclu une entente avec M. Leblanc au sujet de l’année d’imposition 2000. S’ils l’avaient fait, et s’ils avaient violé cette entente, M. Leblanc pourrait bien disposer d’un recours, mais non devant la présente cour. Je suis convaincu qu’ils ont discuté de la façon dont il pourrait produire ses déclarations pour ces années‑là, mais M. Leblanc ne m’a pas indiqué clairement les détails de cette discussion. Par conséquent, même si je concluais qu’ils ont donné des conseils inexacts (par exemple en disant qu’il n’était pas nécessaire de fournir des documents justificatifs), leurs conseils ne me lient pas lorsqu’il s’agit de déterminer l’exactitude de la cotisation relative à l’année 2000.
+[14] La conversation qui a eu lieu au mois d’octobre 2002 entre M. Leblanc d’une part et Me Grewal et Mme Oliver d’autre part me donne à entendre que le gouvernement était prêt à faire d’autres concessions, non seulement pour les années 1996 et 1997, mais aussi pour les années 1998, 1999 et 2000. Cela correspond à la concession que le gouvernement a faite à l’instruction qui a eu lieu devant moi, à savoir qu’en effet, M. Leblanc exploitait encore son entreprise au cours des quatre premiers mois de l’année 2000. Il reste à déterminer le montant des dépenses déduites par M. Leblanc qui n’étaient pas des frais personnels ou des frais de subsistance. Même si dans sa réponse, le gouvernement refusait toutes les dépenses compte tenu du fait qu’il s’agissait dans tous les cas de frais personnels, l’avocate du ministère de la Justice a reconnu que certaines dépenses se rapportaient peut‑être bien à l’entreprise chancelante de M. Leblanc. Cependant, elle a soutenu que M. Leblanc n’avait pas été en mesure de fournir de documents justificatifs en vue d’aider la Cour à répartir les dépenses entre les fins de l’entreprise et les fins personnelles. Et, en invoquant l’arrêt Njenga v. R.[2], l’avocate a soutenu que M. Leblanc est obligé de tenir des livres et des registres visant à lui permettre de justifier ses déductions. M. Leblanc a reconnu qu’au cours des quatre premiers mois de l’année 2000, il brassait moins d’affaires qu’auparavant. Il a également admis ne pas avoir présenté de documents justificatifs sauf la liste des dépenses, tirée des états bancaires se rapportant aux quatre premiers mois de l’année 2000. En outre, au lieu de se conformer à quelque entente qu’il croyait avoir conclue, M. Leblanc a en fait déduit la totalité de ses dépenses, en soutenant qu’il ne s’était peut‑être pas fondé sur les pourcentages convenus par suite d’une erreur d’écritures.
+[15] Compte tenu de tous ces facteurs, je conclus que M. Leblanc a de fait engagé les dépenses énumérées, qu’il avait établies à l’aide de ses documents bancaires : aucune documentation additionnelle n’est nécessaire. Ces dépenses représentent tant des frais personnels que des dépenses d’entreprise. Je conclus en outre qu’au cours des quatre premiers mois de l’année 2000, les activités commerciales de M. Leblanc étaient minimes et n’ont pas produit de revenu. Cela est passablement différent de ce qui s’était produit au cours des années antérieures, ses activités ayant généré un revenu de 35 000 $ en 1998 et de 30 000 $ en 1999. Or, les pourcentages de dépenses qui peuvent avoir été appropriés et raisonnables en 1996, 1997, 1998 et 1999 ne le sont peut‑être pas en l’an 2000. M. Leblanc a témoigné qu’il ne pouvait pas se concentrer sur l’entreprise en l’an 2000, qu’il n’avait pas obtenu de mandats de vente et qu’il avait peut‑être, ou qu’il n’avait peut‑être pas, montré des maisons dont la vente avait été confiée à d’autres agents.
+[16] M. Leblanc a droit à la déduction de dépenses raisonnables. J’attribue les dépenses comme suit :
+Véhicule :
+Compte tenu de ses activités limitées en l’an 2000, j’accorde les dépenses associées au véhicule dans une proportion de 25 p. 100, c’est‑à‑dire 239,06 $.
+Frais de bureau :
+Il s’agit des contrats de location d’ordinateur, d’assurance‑vie, de frais bancaires, de frais de système de sécurité et de meubles. Je ne dispose d’aucune preuve directe au sujet du point jusqu’auquel l’ordinateur était utilisé pour les besoins de l’entreprise, mais je suis prêt à reconnaître qu’il était dans une certaine mesure utilisé à cette fin. De plus, je ne dispose d’aucun élément de preuve me permettant d’établir un lien entre l’entreprise d’une part et l’assurance‑vie ou les meubles d’autre part. Il est logique de reconnaître que les frais bancaires et les frais associés au système de sécurité se rapportent dans une certaine mesure à l’entreprise de M. Leblanc. Somme toute, je suis prêt à accorder 50 p. 100 des frais de bureau que M. Leblanc a déduits, soit 997,38 $.
+Services publics
+Le gouvernement a antérieurement accepté un pourcentage de 38 p. 100 en 1996 et en 1997 comme représentant les dépenses associées à la maison qui se rapportaient à l’entreprise. Étant donné que le gouvernement a reconnu que M. Leblanc avait continué à exercer ses activités, quoique d’une façon restreinte, en l’an 2000, je suis prêt à accepter ce pourcentage, de sorte que les frais de services publics sont de 268,24 $.
+Téléphone cellulaire et téléavertisseur
+Je suis prêt à reconnaître que ces frais se rapportaient uniquement à l’entreprise et qu’ils sont déductibles à 100 p. 100, ce qui donne un montant de 83,62 $ et de 16,53 $.
+Frais de promotion
+Je suis prêt à accepter 25 p. 100 du montant que M. Leblanc a déduit, à savoir 175,72 $.
+Mis à part les frais d’intérêt, ces dépenses représentent environ 40 p. 100 de l’ensemble des dépenses déduites par M. Leblanc. Je suis donc prêt à accepter les frais d’intérêt associés aux cartes de crédit comme se rapportant dans une proportion de 40 p. 100 à l’entreprise, de sorte que la déduction admise est de 129,26 $.
+[17] Les totaux suivants sont donc accordés :
+Véhicule
+239,06 $
+Frais de bureau
+997,38 $
+Services publics
+268,24 $
+Téléphone cellulaire
+83,62 $
+Téléavertisseur
+16,53 $
+Frais de promotion
+175,72 $
+Frais d’intérêt
+129,26 $
+Total
+1 909,81 $
+[18] Il s’agit d’une approche rudimentaire dans un appel régi par la procédure informelle, reflétant la nature de la preuve et le fait que l’intimée a reconnu que certaines dépenses qui ont été déduites étaient fort probablement des dépenses d’entreprise.
+[19] Étant donné qu’aucune dépense de maison associée aux assurances et aux frais d’intérêt hypothécaire n’a été déduite pour l’entreprise en l’an 2000, je ne tire aucune conclusion à ce sujet. Enfin, en ce qui concerne la perte d’entreprise reportée prospectivement de l’année 1998, laquelle s’élève à 2 314 $, la seule preuve dont je dispose au sujet de la nature de cette perte est la déclaration de revenu de M. Leblanc de 1998 dans laquelle ce montant est déduit à titre de perte d’entreprise, le montant des dépenses s’élevant à 37 415 $. J’ai également à ma disposition une copie de la réponse de l’ARC à la demande fondée sur l’équité, admettant uniquement 16 455 $ pour les dépenses de cette année‑là. Il n’existe tout simplement pas suffisamment d’éléments de preuve pour me convaincre que M. Leblanc a subi en 1998 une perte d’entreprise de 2 314 $, qui peut être imputée à l’année 2000.
+[20] L’appel est admis et l’affaire est déférée au ministre pour nouvelle cotisation compte tenu du fait qu’en l’an 2000, les dépenses d’entreprise de M. Leblanc s’élevaient à 1 909,81 $.
+Signé à Toronto (Ontario), ce 8e jour de mai 2007.
+« Campbell J. Miller »
+Juge Miller
+RÉFÉRENCE : 2007CCI274
+No DU DOSSIER DE LA COUR : 2006-1306(IT)I
+INTITULÉ : CARLYLE LEBLANC
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 24 avril 2007
+MOTIFS DU JUGEMENT : L’honorable Campbell J. Miller
+DATE DU JUGEMENT : Le 8 mai 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Sara Fairbridge
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-3, page 6, ligne 11, jusqu’à la page 7, ligne 3, de la transcription de l’audience du 24 octobre 2002.
+[2] [1997] 2 C.T.C. 8 (C.A.F.).

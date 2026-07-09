@@ -1,0 +1,230 @@
+Title: Universal Contracting Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520926/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-48-520926-universal-contracting-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-05-11
+
+# Universal Contracting Inc. v. The Queen
+
+- Citation: 2022 TCC 48
+- Decision date: 2022-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4520, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Universal Contracting Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-05-11
+Neutral citation
+2022 TCC 48
+File numbers
+2019-117(GST)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-117(GST)G
+BETWEEN:
+UNIVERSAL CONTRACTING INC.
+Appellant
+and
+HER MAJESTY THE QUEEN
+Respondent
+Appeal heard October 4, 2021 at Toronto, Ontario
+Before: The Honourable Justice Bruce Russell
+Appearances:
+Counsel for the Appellant:
+Adam Z. Serota
+Counsel for the Respondent:
+Jesse Epp Fransen
+JUDGMENT
+Having read the parties’ partial consent to judgment, signed and filed September 28, 2021, copy attached;
+It is ordered that,
+The appeal of the two reassessments each raised December 13, 2018 pertaining to the Appellant’s GST yearly reporting periods ending June 30, 2014 and 2015 is allowed, without costs. The reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the following bases:
+1. the unreported sales of the Appellant will be reduced by:
+(a). $32,900 for the period ending June 30, 2014; and
+(b) $94,600 for the period ending June 30, 2015;
+2. the Appellant will be allowed additional input tax credits in the amounts of:
+(a). $635.88 for the period ending June 30, 2014; and
+(b). $646.88 for the period ending June 30, 2015;
+3. the gross negligence penalties will be deleted; and
+4. pursuant to the Court’s reasons for judgment regarding the alleged Mr. Vetro and Mr. Broadhead loans:
+(a). the amounts of $60,000 in the period ending June 30, 2014 and $55,000 in the period ending June 30, 2015, given to Mr. Angelo Volpe by Mr. Gordon Broadhead, were not taxable income to the Appellant; and
+(b). the amounts of $90,000 in the period ending June 30, 2014 and $60,000 in the period ending June 30, 2015, given to Mr. Angelo Volpe by Mr. Anthony Vetro, were not taxable income to the Appellant.
+Signed at Halifax, Nova Scotia this 11th day of May, 2022.
+“B. Russell”
+Russell J.
+Citation: 2022 TCC 48
+Date: May 11, 2022
+Docket: 2019-117(GST)G
+BETWEEN:
+UNIVERSAL CONTRACTING INC.
+Appellant
+and
+HER MAJESTY THE QUEEN
+Respondent
+REASONS FOR JUDGMENT
+Russell J.
+I. Introduction:
+[1] The appellant, Universal Contracting Inc. (UCI), appeals two reassessments raised December 13 2018 under the federal Excise Tax Act for yearly reporting periods ending June 30, 2014 and 2015.
+[2] These reassessments were of net tax (GST/HST collectible less ITCs) in the amounts of $37,748 and $41,347 for the respective 2014 and 2015 reporting periods, and gross negligence penalties. The Minister of National Revenue (Minister) assumed that during these reporting periods the appellant’s sole shareholder deposited UCI sales revenue into his personal bank account. The appellant denies this, including on the basis that many of the questioned deposits pertained to two personal loans, non-taxable, involving the appellant’s sole shareholder, Mr. Anthony Volpe.
+II. Issue:
+[3] Prior to the hearing the parties filed a partial consent to judgment, reflecting agreement as to all issues in this appeal, “save and [except] with respect to the decision of the Tax Court of Canada respecting the alleged Mr. Vetro and Mr. Broadhead loans”. [1] Evidence and argument at the hearing solely addressed this latter matter.
+[4] Appellant’s counsel stated at the hearing’s commencement that, “…the question before the Court… is whether or not these were legitimate loans, and whether the return of those loans are non-taxable deposits into the bank accounts.” [2] Similarly, respondent’s counsel stated:
+The only issue is these two remaining relatively large loans, and the question of, did the loans exist, and do the loans account for the deposits found by the Minister in the bank’s statements. Even if this Court were to find that the loans may or may not have existed, [there is the question of] whether or not they successfully demolished the assumption of the Minister with respect to the source of the deposits. [3]
+III. Evidence:
+a) Broadhead loan:
+[5] Four witnesses testified. All were called by the appellant. The first was Ms. K. Piccott, a marketing director. Her evidence was that she knew Mr. Volpe as having been a close friend and business partner of her former boyfriend, Mr. Gordon Broadhead, during the 2012 – 2018 period.
+[6] Ms. Piccott’s evidence was that during that period Mr. Broadhead was involved in a construction business and a mobile washing business. She does not know his current whereabouts. She said, “everything he did was conducted in cash” and that he typically would “handle large quantities of cash”. She testified also that Messrs. Volpe and Broadhead were “close knit”, and that Mr. Broadhead was “flighty”, “not consistent” and “hard to trust”. [4] She was not involved in Mr. Broadhead’s business interests. [5] She said the last time she saw the two men together was “at least five or six years ago”. [6]
+[7] The second witness testifying was Mr. Volpe. At all material times he had been the sole shareholder, director and employee of the appellant, UCI. UCI carried on small construction work, particularly interior retrofits for retail outlets including the LCBO, Tim Hortons and Carl’s Popcorn. [7] On occasion it engaged sub-contractors.
+[8] Mr. Volpe testified that Canada Revenue Agency (CRA) had conducted a GST/HST audit of UCI. The CRA auditor requested that Mr. Volpe produce his personal bank account statements, which he did. The auditor asked about various deposits made to his personal bank account. Mr. Volpe said some deposits shown on those statements reflected repayments of “business loans”, addressed below. Also, numerous deposits were in respect of the Broadhead and Vetro loans, also addressed below.
+[9] He had two personal accounts. The account relevant to this matter is the one he used for his general banking needs. The other was used for deposits of rental payments respecting two rental properties he owned. [8]
+[10] Mr. Volpe and his girlfriend, Ms. A. Patten, had contracted to purchase a house, yet to be constructed. The original closing date specified in their November 13, 2012 purchase and sale agreement was June 4, 2014. Subsequently the corporate vendor pushed back the closing date to October 2, 2014, then to January 30, 2015 and finally to March 31, 2015. [9]
+[11] In his general banking account Mr. Volpe saved funds needed for the downpayment for this house, due at the eventual closing. With that closing delayed, he sought to use some of that money to generate additional funds. Through a mortgage broker friend he loaned out amounts in the $10,000 - 20,000 range, realizing for each such loan biweekly gains in the $1,000 range. (These were not specified as having been cash loans or repayments.) This activity generated a number of deposits in the $20,000 - $30,000 range into his daily banking account. He testified that he not the appellant had made these short term loans. [10]
+[12] Mr. Volpe testified that he had known Mr. Broadhead for 15 years. They are no longer in contact. Recently Mr. Volpe unsuccessfully tried to locate him, speaking to Mr. Broadhead’s brother and mutual friends. No one knew where he was – suggestions included that he was “hiding out” or in witness protection.
+[13] Mr. Volpe testified that in 2014 at Mr. Broadhead’s request Mr. Volpe had loaned him money, on the understanding that for each advance, within two months Mr. Broadhead would have repaid Mr. Volpe. It seems the purpose of the loan was Mr. Broadhead’s purchase a 10 acre property for $440,000 (the Canal Road property). Mr. Volpe testified that the loan, “was unsecured because [Mr. Broadhead] was a friend, a family friend and we trusted each other”. [11]
+[14] Nevertheless, for some security at least Mr. Volpe’s requested that the agreement of purchase and sale dated April 1, 2014 (by which Mr. Broadhead bought the Canal Road property), was endorsed by both buyer (Mr. Broadhead) and vendor stating that if “any unforeseen accident” (apparently to Mr. Broadhead) occurred, Mr. Volpe “will [assume] the balance of the mortgage and take ownership.” [12]
+[15] All but the first of the six cheques advancing funds for the loan totalling $115,000 to Mr. Broadhead or his company were UCI cheques rather than personal cheques. Mr. Volpe explained that each of the five corporate cheques reflected shareholder equity he held in the appellant UCI, and that UCI’s accountant accounted for same at the end of each relevant UCI taxation year. [13] The respondent called no evidence, nor has asserted, to the contrary.
+[16] Exhibit A-6, entered without objection, is a statement electronically signed by Mr. Broadhead, dated July 1, 2017. It reads, “I, Gordon Broadhead (2198674 Ont. Ltd.) received the following six loans from Angelo Volpe (Universal Contracting Inc.) totaling the sum of $115,000.” The six loans are recited in the statement as being: (1) March 3, 2014 - $20,000; (2) March 13, 2014 - $40,000; (3) May 22, 2014 - $25,000; (4) June 30, 2014 - $3,000; (5) July 2, 2014 - $12,000; and (6) July 25, 2014 - $15,000. It concludes: “I, Gordon Broadhead, paid back all loans in full in cash within 4 weeks of receiving each loan. Total money repaid in cash - $115,000.” [14]
+[17] Mr. Volpe testified that this statement is true. [15]
+[18] Exhibit A-5, entered without objection, consists of a copy of Mr. Volpe’s personal cheque to Mr. Broadhead’s company for $20,000 dated February 27, 2014 and a one page “deposit account history” of his personal account showing the March 3, 2014 negotiation of that cheque. As well it includes three pages of “deposit account history” of the UCI bank account, showing negotiation of cheques for the amounts of $40,000 (May 13, 2014); $25,000 (May 23, 2014); $12,000 (July 3, 2014); $3,000 (July 15, 2014) and $15,000 (July 25, 2014). These six entries match the amounts noted in Mr. Broadhead’s above referenced written statement.
+[19] Mr. Volpe testified that the deposits into his daily banking account cannot be matched with Broadhead repayments, as Mr. Volpe had incoming cash from a number of other sources – Anthony Vetro (discussed below), his grandmother, his mother-in-law and other private sources he had borrowed from. And in particular, Mr. Volpe limited individual cash amounts deposited into his personal account to under $10,000. [16]
+[20] Mr. Volpe testified as to why he limited cash deposits to amounts under $10,000:
+Between the money I received from Anthony Vetro and money I received from Mr. Broadhead, when I would go to the bank to make the deposits, the first time I went with a large amount of cash, they kind of told me, it’s better if you make a deposit in smaller amounts, otherwise, you have to sign a declaration. That was the first time I learned of that process, and to save myself the aggravation, the paperwork, I just brought amounts that were less than $10,000 whenever I was going to deposit cash. If I was given $25,000 I would never deposit the entire amount. I would always try and deposit less than $10,000. [17]
+[21] Mr. Volpe testified that Mr. Broadhead repaid the loan totalling $115,000 in full, with each repayment made within two months of each advance being made. As noted, Mr. Volpe had paid the loan advances by cheques, and he wanted Mr. Broadhead to repay with cheques, for deposit into Mr. Volpe’s daily usage personal bank account. Mr. Volpe was not comfortable carrying large amounts of cash. But, Mr. Broadhead had insisted that he would only repay in cash. Mr. Volpe felt he had no choice but to accept the repayments in cash. [18]
+[22] Mr. Volpe said that ultimately his friendship with Mr. Broadhead ended. They had together purchased a cottage. Mr. Broadhead was to pay yearly fees for the property, but he had failed to do so. The property went into receivership and Mr. Broadhead declined to pay any fees arising therefrom. That was the last time Mr. Volpe dealt with him. [19]
+[23] Mr. Volpe testified also that Mr. Broadhead had not followed through on any business involvement that he had “kind of” promised Mr. Volpe (such as involvement in the truck mobile washing business), in lieu of paying interest on the $115,000 of loan advances. [20]
+[24] Also, Mr. Broadhead had not repaid Mr. Volpe a small loan of $5,000. Mr. Volpe became unwilling to loan money to Mr. Broadhead, causing growing agitation on the latter’s part. Ultimately this led to a threatening third party situation described by Mr. Volpe, requiring police protection both for himself and Mr. Broadhead. [21]
+[25] Mr. Volpe specifically testified that he had deposited Mr. Broadhead’s loan repayments into his personal bank account, it holding his savings for payment of the new house downpayment. [22] But as noted, the cash was deposited, blended with other cash receipts, in amounts less than $10,000.
+[26] Neither Mr. Broadhead nor his company ever worked for the appellant or vice versa. Mr. Volpe was clear that UCI claimed none of the Broadhead loan payments as business expenses. [23]
+[27] Mr. Volpe did not know in advance for how much the Broadhead loan would be. He did not mind making short term loans to Mr. Broadhead without interest as they were good friends. He could spare the money on a short term basis as the closing for his new house was being significantly delayed.
+[28] Mr. Volpe kept cheque stubs of the six loan advances he made to Mr. Broadhead and a note as to repayments. He did not keep that note, explaining - “the loan’s been paid, so there’s no reason for me to keep it.” [24]
+[29] Mr. Volpe was asked in cross-examination, “how often or how frequently did you make deposits to the bank”. He answered:
+A. It would vary because I had money being received from Mr. Broadhead. I had cash being received from Mr. Broadhead. I had cash being received from Mr. Vetro. As you know, we have discussed – I had some money, my cash my grandmother had given me. I had some cash my mother-in-law had given us to purchase our house. We had to borrow from all different sources. So, different cash coming in different amounts for the purchase of our home. I don’t go to the bank all at once but sometimes I would have 30,000 on me, or 20,000. The money was in the safe. I would take anywhere between five and 10,000, less than 10,000 out. When I was going to the bank or near the bank, I would go and deposit money.
+And as you can see from my bank statements, there was more frequent deposits closer to the time when the house was closing. You can see a lot more deposits at that time because I was running out of time, and I need the money in the account.
+Q. Right. But we’re not able to directly link the money from Mr. Broadhead to deposits. Is that right?
+A. There’s no way for me to link that, no. [25]
+b) Vetro loan:
+[30] Mr. Volpe testified also as to the other of the two alleged loans at issue, being the $150,000 loaned to him by Mr. Anthony Vetro. He said he has known Mr. Vetro for about 20 years. Mr. Vetro is a family friend, and they had worked together previously.
+[31] Mr. Volpe’s evidence was that Mr. Vetro had started out in the paving business, subsequently expanding into landscaping. Mr. Volpe had asked Mr. Vetro, “a good friend of mine”, for a loan to help Mr. Volpe in funding the downpayment he needed for his and Ms. Patten’s new home. [26]
+[32] He testified that Mr. Vetro agreed to help him out. Mr. Vetro’s loan was made by way of a series of cash advances, beginning with $25,000 advanced in April, 2013. Over the succeeding months the two would meet at various locations specified by Mr. Vetro for Mr. Volpe to receive Mr. Vetro’s several loan advances. These were usually at Mr. Vetro’s job sites or a particular coffee shop. Mr. Volpe said that Mr. Vetro, through his paving business, was often paid in cash.
+[33] Mr. Volpe made clear that he deposited the loaned cash into his daily banking account. He testified that his initial intent as to loan payback and interest for Mr. Vetro was that after the house purchase closed, he and Ms. Patten would wait for value to go up and then “pull some equity and pay [Mr. Vetro] back” including with interest of $5,000 or $10,000, depending on how long it would take for the house transaction to close. [27]
+[34] But as noted, closing of the house transaction was significantly delayed. Mr. Volpe testified that accordingly, Mr. Vetro suggested to him that he, Mr. Volpe, make personal referrals, including of former UCI clients, to Mr. Vetro for paving work, and subsequently also for landscaping work. The idea was that these referrals could substitute for repayment of the loan, rather than Mr. Volpe being paid referral fees. They agreed to do this and proceeded accordingly.
+[35] The new house closing finally occurred, in March 2015. Mr. Volpe testified that, “about two or three years ago” (2020 or 2019), Mr. Vetro advised him that “we’re all square”, given the many personal references Mr. Volpe had provided, from which Mr. Vetro had benefited. Also, Mr. Vetro received work through Mr. Volpe’s brother, who likewise was in landscaping. [28]
+[36] Mr. Volpe testified that, following the advice of his father and his mortgage broker friend, he and Ms. Patten had preferred to finance the remainder of the necessary downpayment at the closing for their new house by way of private loans, rather than by selling any of the three properties he already owned. He testified that he is happy that he still owns those properties, with their values having significantly increased. [29]
+[37] In cross-examination Mr. Volpe testified that he did not have with him his personal bank account statements or UCI bank account statements. (I note there was no suggestion Mr. Volpe had been earlier asked or had been served a subpoena duces tecum, to bring those bank documents. Also it seems the respondent would have had copies of these documents because CRA had requested and reviewed them in the course of its UCI audit, above referenced.)
+[38] Mr. Volpe testified that deposits shown on his personal bank account records would not match the amounts of loan advances, due to his practice of depositing cash irregularly and in less than $10,000 amounts.
+[39] Mr. Anthony Vetro was the third witness called by the appellant. He testified he had made the $150,00 loan to Mr. Volpe. He said a lot of customers paid him in cash for paving work in those years, between 2013 and 2015. He said, “[t]hat doesn’t mean it was illegal. It was just, I had cash. I didn’t deposit it.” [30]
+[40] He had met Mr. Volpe through Mr. Volpe’s father and came to know the entire Volpe family. He had never worked for UCI but had worked for Mr. Volpe personally. [31]
+[41] Mr. Vetro identified a solemn declaration he had signed June 13, 2017. It indicated that between April 2013 and September 2014 he had made to Mr. Volpe, “six (6) cash loans” totalling $150,000. They were in the amounts of $25,000 (April, 2013); $25,000 (May, 2013); $40,000 (June, 2013); $30,000 (July, 2014); $15,000 (August, 2014); and $15,000 (September, 2014).
+[42] Mr. Vetro said he, “felt comfortable dealing with [Mr. Volpe] because knowing him through his father, good people, good family, and there was – not worried about the funds coming back.” [32]
+[43] Asked if he had charged interest on the loan, Mr. Vetro responded:
+No. Basically, it was the acquaintance of Angelo because he was referring me to a lot of other contractors for other jobs, and I was - didn’t sell the jobs on my behalf, and also give him a commission for the jobs. It was basically – instead of paying him the commission I was deducting from what he owed me, because at one point, he couldn’t pay me back the money. So, the promise with all these jobs that I was going to be getting, that it was proper to do this. I was quite surprised because he did refer me a lot of work. Even at one point, even let’s say a year ago, he didn’t want anything from the job. Actually, he paid off the debt, and that’s because he was like an honour Italians, you know, I helped him out, so he didn’t want any more commission. So, there was no interest, no need for interest. [33]
+[44] Mr. Vetro said also that he got a few “big jobs” from Mr. Volpe’s brother who also was in the landscaping business; at least one in the summer of 2014. He said a “big job” was “…[l]ike $100,000. So, tentatively, I would give him five or ten percent commission for referring me the job, and I was deducting it from the totals.” [34]
+[45] Mr. Vetro elaborated:
+When the school projects was through his brother Christopher, he was doing quite a bit of work there. It was a private school, not a normal school, and there was a lot of asphalt work being done there. A lot of concrete work. It was quite nice. The family gave me a lot of work that way. You know, I was overwhelmed. I said, you know what, after all this was paid, I just thanked him, and then, the referrals still kept coming in... [35]
+[46] Mr. Vetro was asked how he had kept track of what remained owing, answering:
+Well, it’s in my head, but back in the days, it’s pretty simple. I was just doing one at a time. As you can see, the dates of the quantities, let’s say one job, I lent him 25,000, and then out of a few jobs, I would just get rid of that, one at a time. Not as a total because I didn’t have a total until years later because I lent him the money in a one-year span. [36]
+[47] Mr. Vetro said Mr. Volpe still refers work to him but does not want a commission. [37] He clarified that he had given the loan to Mr. Volpe, not his business. [38]
+[48] In response to a question whether Mr. Vetro had any documentary corroboration of his series of six loans to Mr. Volpe, Mr. Vetro frankly stated:
+Not really because at one time, I didn’t carry this type of paperwork. It was always in my mind. I didn’t want to write down, especially, it’s cash. It wasn’t illegal. It’s just that I didn’t want to write things down when it came to cash. He wasn’t like a person where I had to worry about. I considered the Volpe’s [sic] like a personal, like a family. [39]
+[49] In response to a further question, Mr. Vetro unhesitatingly acknowledged he could not independently recall the exact dates to the day, of his several loan advances to Mr. Volpe, identified in a solemn declaration he had sworn. But he knew the specified dates were at least approximately accurate. [40]
+[50] The aforementioned Ms. Amy Patten was the fourth and final witness that the appellant called. Ms. Patten is an elementary school teacher, and Mr. Volpe’s girlfriend, living in the house that they had together purchased. She explained that the purchase price of their house was $650,000 and she had paid $40,000 of the required downpayment with Mr. Volpe funding the rest. She recalled that Mr. Vetro had loaned Mr. Volpe cash (not a cheque), spread over several advances. She saw the cash, which Mr. Volpe stored in a safe and deposited in stages into his bank account.
+[51] The respondent Crown called no witnesses and entered no documentary evidence. To be clear, no one from CRA was called to testify. It should be noted that the appellant had entered into evidence three CRA single page audit working papers from 2016 and 2018 (Exs. A-1, A-2 and A-3). They reflected UCI bank deposit analyses and CRA Appeals adjustments, although absent any reference to or recognition of the Broadhead and Vetro loans.
+VI. Analysis:
+[52] As stated, the question for the Court’s consideration is whether the appellant UCI has established on a balance of probabilities that monies totalling $265,000 deposited into Mr. Volpe’s personal bank account did not constitute UCI taxable income. UCI’s case was that the deposited total of $265,000 was not UCI taxable income; rather it was a non-taxable total amount emanating from the $115,000 Broadhead and $150,000 Vetro loans.
+[53] Proof “on a balance of probabilities” is in Canada the standard of proof for civil cases. The applicability of this evidentiary standard in a tax civil litigation context is referenced by Webb J.A. in Sarmadi, 2017 FCA 131, paras. 63:
+Once all of the evidence is presented, the Tax Court judge should…determine whether the taxpayer has satisfied this burden [i.e., to prove, on a balance of probabilities, any facts…alleged by that taxpayer and…denied by the Crown]. If the taxpayer has, on the balance of probabilities, disproven the particular facts assumed by the Minister, based on all of the evidence, there is no burden to shift to the Minister to disprove what the Tax Court judge has determined that the taxpayer has proven. Either the taxpayer has disproven the assumed facts or he, she or it has not.
+[54] I find that each of the appellant’s witnesses testified credibly. These credible testimonies, referenced in some detail above, well substantiated the existence of the two asserted loans themselves, as well as the depositing of Broadhead loan repayments and Vetro loan advances together totalling $265,000.
+[55] There was no evidence significantly pointing otherwise. For example there was no evidence (nor ministerial assumptions) tending to identify work the appellant ICU had completed but had not been paid for. Nor was there evidence (nor ministerial assumptions) tending to indicate work expenses claimed by UCU for which ICU had received no payment.
+[56] The respondent makes the general assertion that several times in his testimony Mr. Volpe would reference himself when the context seemed clear that the meant his company, UCI. referenced himself when appearing to mean his company, UCI. In my view this tendency is not uncommon with persons untrained in law. I brought this to Mr. Volpe’s attention two or three times and each time Mr. Volpe would readily clarify. I read into this nothing curtailing Mr. Volpe’s credibility.
+[57] Considering the evidence as a whole, I find on a balance of probabilities that the appellant has disproved the ministerial assumption(s) that a total of $256,000 deposited into Mr. Volpe’s personal account constituted unreported sales of the appellant. On a balance of probabilities the appellant has established that $256,000 of the subject deposited funds pertained to the Broadhead and Vetro loans, and was not UCI sales income.
+[58] In so finding I reference the fact, established in cross-examination, that Mr. Volpe had not brought to Court his personal bank statements. I accept the appellant’s position that such evidence would have entirely lacked cogency as it could not identify specific sources of cash being deposited on the basis of matching amounts. The cash source(s) of each cash deposit would be non-traceable due to Mr. Volpe typically depositing cash from various personal and business loans and family gifts in varying increments less than $10,000. The respondent, which had seen these personal bank records at the time of CRA’s UCI audit, did not dispute this evidence – based logic.
+[59] The appellant UCI has succeeded in establishing, on a balance of probabilities, the existence of both of the Broadhead and Vetro loans, essentially as detailed in the oral evidence in this matter. They were informal loans, between friends, in a context Mr. Vetro referenced as, “honour Italians”. [41] Being informal loans, there was little corroborating documentation. But I do not view that as a bar to giving weight to the credible testimony establishing in some detail the existence of these two loans, particularly as confirmed by Messrs. Volpe and Vetro, and Ms. Patten.
+[60] The fact that Mr. Volpe did not keep books and records respecting these informal loans does not indicate failure by the appellant UCI in its keeping of proper books and records. Mr. Volpe of course is not the appellant.
+V. Conclusion:
+[61] I find that the Broadhead loan was an informal loan from Mr. Volpe to Mr. Broadhead, totalling $115,00. That amount was repaid in cash instalments to Mr. Vetro who over time deposited that cash into his personal account, in varied amounts under $10,000, blended with other personal cash receipts referenced herein. There was no evidence significantly indicating otherwise.
+[62] Likewise, I find that the Vetro loan was an informal loan made to Mr. Volpe by Mr. Vetro, advanced in cash instalments totalling $150,000. Mr. Volpe deposited that total amount of advances into his personal account, again in varied amounts less than $10,000, blended with other personal cash receipts referenced herein. Again, there was no evidence significantly indicating otherwise.
+[63] Accordingly the appeal will be allowed, without costs (as the parties have agreed), and the appealed reassessments referred back to the Minister for reconsideration and reassessment on the bases of the first three matters articulated in the above-referenced partial consent to judgment, and as to the fourth matter so articulated, in the following manner as proposed in the appellant’s written submissions:
+1) the amounts of $60,000 in the period ending June 30, 2014 and $55,000 in the period ending June 30, 2015, given to Mr. Volpe from Mr. Gordon Broadhead, were not taxable income to the appellant; and
+2) the amounts of $90,000 in the period ending June 30, 2014 and $60,000 in the period ending June 30, 2015, given to Mr. Volpe from Mr. Anthony Vetro, were not taxable income to the appellant.
+Signed at Halifax, Nova Scotia, this 11th day of May 2022.
+“B. Russell”
+Russell J.
+CITATION:
+2022 TCC 48
+COURT FILE NO.:
+2019-117(GST)G
+STYLE OF CAUSE:
+UNIVERSAL CONTRACTING INC. AND THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 4, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+May 11, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Adam Z. Serota
+Counsel for the Respondent:
+Jesse Epp Fransen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Adam Z. Serota
+Firm:
+BRS Tax lawyers LLP
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Partial Consent to Judgment dated September 28, 2022, para. 2 and para. 3, item 4.
+[2] Transcript, p. 8
+[3] Ibid., p. 10
+[4] Ibid., p. 18
+[5] Ibid., pp. 14-18
+[6] Ibid., p. 17
+[7] Ibid., pp. 20, 21
+[8] Ibid., pp. 24, 25
+[9] Exhibit A-8
+[10] Transcript, pp. 32, 33
+[11] Ibid., p. 36
+[12] Exhibit A-4 – Transcript,p. 37
+[13] Ibid., p. 53
+[14] Exhibit A-6 – Transcript, p. 49
+[15] Transcript, p. 41
+[16] Ibid.
+[17] Ibid., p. 59
+[18] Ibid., p. 41
+[19] Ibid., p. 34
+[20] Ibid., p. 37
+[21] Ibid., p. 42
+[22] Ibid., p. 47
+[23] Ibid., p. 50
+[24] Ibid., p. 77
+[25] Ibid., pp. 77-78
+[26] Ibid., p. 55
+[27] Ibid., p. 60
+[28] Ibid., pp. 60, 61
+[29] Ibid.
+[30] Ibid., p. 94
+[31] Ibid., p. 92
+[32] Ibid., p. 94
+[33] Ibid., pp. 94, 95
+[34] Ibid.
+[35] Ibid., p. 102
+[36] Ibid., p. 95
+[37] Ibid., p. 96
+[38] Ibid., pp. 98, 99
+[39] Ibid., p. 99
+[40] Ibid., p. 101
+[41] Transcript, p. 95

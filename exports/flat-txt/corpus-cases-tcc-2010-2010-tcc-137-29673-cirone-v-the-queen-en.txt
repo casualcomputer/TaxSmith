@@ -1,0 +1,147 @@
+Title: Cirone v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29673/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-137-29673-cirone-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-03-05
+
+# Cirone v. The Queen
+
+- Citation: 2010 TCC 137
+- Decision date: 2010-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6240, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cirone v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-05
+Neutral citation
+2010 TCC 137
+File numbers
+2008-3363(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3363(IT)G
+BETWEEN:
+ROCCHETTA M. CIRONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 1, 2010, at Toronto, Ontario,
+By: The Honourable Justice Brent Paris
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Amit Ummat
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant had additional deductible sales expenses of $1,186.91 in 2003 and $1,177.00 in 2004.
+The appeal from the reassessment made under the Act for the 2005 taxation year is dismissed.
+Signed at Ottawa, Canada, this 5th day of March, 2010.
+“Brent Paris”
+Paris J.
+Citation: 2010 TCC 137
+Date: 20100305
+Docket: 2008-3363(IT)G
+BETWEEN:
+ROCCHETTA M. CIRONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] These are appeals from reassessments of the Appellant’s 2003, 2004 and 2005 taxation years. The Appellant was employed during those years by Westside Cemeteries Limited to sell mausoleums and she was paid on a commission basis. She was reassessed by the Minister of National Revenue (the “Minister”) to disallow a portion of the sales expenses claimed as a deduction under paragraph 8(1)(f) of the Income Tax Act (the “ITA”). The Minister also disallowed the corresponding portion of the goods and services tax (“GST”) rebate claimed by the Appellant under section 253 of the Excise Tax Act (“ETA”) in relation to her sales expenses.[1]
+[2] The Minister disallowed the claimed expenses as follows:
+Taxation Year
+Claimed
+Allowed
+Disallowed
+2003
+$40,125
+$16,051
+$24,077
+2004
+$33,414
+$13,366
+$20,048
+2005
+$14,331
+$5,770
+$8,516
+The Minister also disallowed GST qualifying expenses as follows:
+Taxation Year
+Claimed
+Allowed
+Disallowed
+2003
+$37,367
+$5,979
+$31,388
+2004
+$31,299
+$5,008
+$26,291
+2005
+$13,588
+$2,201
+$11,657
+In reassessing the Appellant, the Minister assumed that the Appellant did not incur sales expenses or expenses qualifying for the GST rebate in excess of the amounts allowed.
+[3] At the hearing, the Appellant gave evidence that she worked selling mausoleums for Westside Cemeteries Ltd. until 2005, when she said her employment was terminated without notice. This caused her great emotional upset, and as a result, within a few months of losing her job, she threw out most of her records relating to her work at Westside. The discarded material included all of her tax records for her 2003 and 2004 taxation years. Therefore, when she was later audited in 2006 by the Canada Revenue Agency (the “CRA”), she was unable to supply receipts or vouchers for any of the expenses she had claimed for those two years.
+[4] At another point in her testimony, the Appellant said that she had been led to believe that her 2004 taxation year was closed before she threw out her records. At some time in 2005 (prior to the audit that resulted in the reassessments under appeal) she had been contacted by the CRA and asked to provide receipts to support her claims for medical expenses she had claimed in her 2004 tax return. She sent in the records, and on December 28, 2005, the CRA sent her a letter advising that it had completed the review of her 2004 return and that no adjustment was necessary. She said that she took this to mean that the CRA was satisfied that her return was correct and that she did not need to keep her records any longer.
+[5] I found this explanation somewhat confusing, because the timing of the CRA letter does not jibe with the Appellant’s earlier testimony that she threw out the records a couple of months after losing her job in May 2005. Also, as noted by counsel for the Respondent, the CRA letter advised the Appellant to retain the documents that were being returned with the letter.
+[6] The Appellant was able to supply her records pertaining to her expenses for her 2005 taxation year to the CRA auditor because she (the Appellant) had kept those records apart from the 2003 and 2004 records. After examining those documents the auditor disallowed approximately 60% of the claimed expenses for 2005.
+[7] The auditor testified at the hearing that a large part of the amounts claimed in 2005 were not supported by receipts. For example, $2,825 of the $4,592 claimed by Appellant for “supplies” was unvouchered. Also, no records or details were provided to support the claim for “referral fees” of $2,200. In the case of amounts reportedly expended on gifts given for promotional purposes, and on food and entertainment, no client names were furnished to the auditor to connect them with the Appellant’s employment.
+[8] In cross-examination, the Appellant conceded that she had claimed amounts incurred for hairstyling and Tylenol as sales expenses. The auditor’s proposal letter to the Appellant[2] also makes reference to amounts claimed by the Appellant for clothing, cleaning, passport fees, rent and “education” as sales expenses. Those amounts were not accepted by the auditor.
+[9] The auditor also reduced the Appellant’s 2005 car expenses to reflect 70% use of her vehicle for employment purposes rather than 90% as claimed. In attempting to calculate the amount of personal use of the vehicle the auditor looked at the distance driven between the Appellant’s home and her work, and also assumed that some additional mileage was in respect of personal errands. The Appellant was unable to provide any explanation of how the business use of the vehicle was determined.
+[10] Since the Appellant was unable to provide any records of expenses for 2003 and 2004, the auditor allowed the same proportion – 40% - of the total expenses claimed in those years as she had for 2005.
+[11] At the hearing, the Appellant produced some bank records and cancelled cheques which she said showed payments she made for referral fees and gifts to clients in 2003 and 2004. She also produced three sales advertisements (one from 2003 and two from 2005) which she had placed in magazines. She could not recall how much she had paid for the ads. Otherwise, the Appellant did not address any of the particular expenses disallowed by the auditor. She simply stated that she was an honourable and trustworthy person and that her tax returns had been prepared by a reputable accounting firm.
+Analysis
+[12] The Appellant bears the onus of proving that the facts upon which the Minister based the reassessments are wrong: Johnston v. Minister of National Revenue[3]. Therefore, in order to succeed, the Appellant is required to show that she incurred the disallowed expenses, and that they were incurred to earn income from her employment.
+[13] While the task of proving expenses is made more difficult where a taxpayer has not kept any records or receipts, it is still open for him or her to provide oral evidence relating to those expenses. If that evidence is found to be credible, a Court can allow the expenses in the absence of documentary proof. See Hickman Motors Ltd. v. The Queen[4] at paragraph 87:
+87 … Furthermore, where the ITA does not require supporting documentation, credible oral evidence from a taxpayer is sufficient notwithstanding the absence of records: Weinberger v. Minister of National Revenue (1964), 64 D.T.C. 5060 (Can. Ex. Ct.); Naka v. R. (1995), 95 D.T.C. 407 (T.C.C.); Page v. R. (1993), 95 D.T.C. 373 (T.C.C.).
+[14] In my view, some degree of precision regarding the type and amount of the expenditures claimed is required, along with information sufficient to connect the expenditures with the Appellant’s sales activities. The evidence provided by the Appellant falls far short of this standard. In her testimony, she provided almost no information relating to the specific expenses that were claimed except for certain referral fees and gifts. For the most part, she simply asks the Court to accept her word that she made the expenditures and that she did so to earn income.
+[15] Even for the 2005 taxation year, for which the Appellant presumably still had her records, no attempt was made to show that the amounts disallowed by the auditor were incorrect.
+[16] I find that only the referral fees and gifts of $1,186.91 in 2003 and $1,177.00 in 2004 have been proven by the Appellant. The purpose of these payments, as explained by her, was plausible and I accept that these amounts were paid for gifts to clients and to persons who brought clients to her. Furthermore, the amounts appear reasonable to me.
+[17] Since there was no evidence that the Appellant paid GST on the referral fees and since the making of a gift does not involve the acquisition of a service or property by the donor, none of the amounts which I have allowed as additional employment expenses are eligible for the GST rebate under section 253 of the ETA.
+[18] With respect to the three advertisements presented by the Appellant, I note that only one related to the 2003 year. I also note that the whole amount claimed by the Appellant for advertising in 2005 was allowed by the auditor. Since the overall amounts allowed for 2003 and 2004 were based on the results of the 2005 audit, it is logical to conclude that the Appellant has already been allowed an amount for advertising in those years. In any event, the Appellant could not say what she paid for the 2003 ad. As a result, no additional amount will be allowed in 2003.
+[19] For these reasons, the appeals for 2003 and 2004 are allowed in part and the reassessments for those taxation years are referred back to the Minister on the basis that the Appellant is entitled to deduct additional sales expenses of $1,186.91 in 2003 and $1,177.00 in 2004. The appeal for 2005 is dismissed. No costs are awarded.
+Signed at Ottawa, Canada, this 5th day of March, 2010.
+“Brent Paris”
+Paris J.
+CITATION: 2010 TCC 137
+COURT FILE NO.: 2008-3363(IT)G
+STYLE OF CAUSE: ROCCHETTA M. CIRONE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 1, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT : March 5, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Amit Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Pursuant to subsection 253(3) of the ETA, the GST rebate (including appeals from assessments concerning a rebate) are dealt with under the Income Tax Act.
+[2] Exhibit R-1, tab 8.
+[3] [1948] S.C.R. 486 (S.C.C.)
+[4] [1997] 2 S.C.R. 336, at paragraph 87.

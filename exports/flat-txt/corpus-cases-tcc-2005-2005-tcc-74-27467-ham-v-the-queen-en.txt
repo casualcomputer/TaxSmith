@@ -1,0 +1,172 @@
+Title: Ham v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27467/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-74-27467-ham-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-02-11
+
+# Ham v. The Queen
+
+- Citation: 2005 TCC 74
+- Decision date: 2005-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 128, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ham v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-11
+Neutral citation
+2005 TCC 74
+File numbers
+2004-1200(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1200(IT)I
+BETWEEN:
+SAM JIN HAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on January 13, 2005 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Thomas McRae
+Counsel for the Respondent:
+Craig Maw
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed to the extent of permitting the Appellant deductions for medical insurance premiums of $115 in 1999 and $1,380 in 2000 and by allowing the claimed salaries of the Appellant's five children with respect to the Appellant's insurance commission business only to the extent of one-half, that is to say a total of $3,800 in 1999 and a total of $17,400 in 2000, the whole in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of February, 2005.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2005TCC74
+Date: 20050211
+Docket: 2004-1200(IT)I
+BETWEEN:
+SAM JIN HAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The issue in these appeals is whether the Appellant is entitled to deduct certain expenses in the 1999 and 2000 taxation years.
+[2] As a result of reassessments dated May 20, 2003 and December 31, 2003, the Minister of National Revenue ("Minister") disallowed the following salary expenses allegedly paid to certain of the Appellant's children, in respect of the Appellant's insurance commission business, namely.
+1999
+2000
+Daughter Jeehon
+$ 2,400
+Daughter Jeehon
+$ 8,400
+Son Jeeho
+$ 5,200
+Son Jeeho
+$ 8,400
+Daughter Jihae
+$ 9,600
+Son Edwin
+$ 4,200
+Son Edward
+$ 4,200
+Total
+$ 7,600
+Total
+$ 34,800
+[3] The parties, at the outset, agreed that certain other expenses which had apparently been disallowed to the Appellant were to be allowed, namely medical insurance premium amounts of $115 in 1999 and $1,380 in 2000. The parties further agreed that the only remaining issue related to the disallowance of the above salaries and that there was no longer any dispute as to any of the salaries paid to the Appellant's wife and the salaries paid to the children in respect of a variety store business.
+[4] The reasons for the Minister's disallowance are based principally upon the following assumptions of fact in paragraph 8 of the Reply:
+(d) in his 1999 and 2000 taxation years, the Appellant did not pay his children the amounts of $7,600 and $34,800 respectively, he claimed as salaries and wages expenses in respect of his Insurance Business;
+...
+(h) in the 1999 taxation year, his children Jeehon, Jeeho, Jihae, Edwin and Edward were 21, 20, 18, 16 and 16 years of age;
+...
+(k) in the 1999 and 2000 taxation years, the Insurance Business had no employees;
+...
+(m) the disallowed salaries and wages expenses, if made or incurred, were not made or incurred for the purpose of earning commission income ... but were personal or living expenses of the Appellant;
+(n) the salaries and wages expenses disallowed by the Minister were not reasonable in the circumstances.
+[5] The Reply submits further:
+... the salaries and wages expenses disallowed by the Minister were not outlays or expenses incurred for the purpose of earning income from commissions, that the expenses were personal or living expenses of the Appellant, and that the Appellant was properly reassessed for the 1999 and 2000 taxation years, in accordance with paragraphs 18(1)(a) and 18(1)(h) and 118.2(2)(q) of the Act.
+... the disallowed expenses in respect of claimed salaries and wages are not reasonable in the circumstances and are not deductible pursuant to section 67 of the Act.
+[6] Other facts which led to the Minister's disallowances of the alleged salaries relate to the method of their payment. The details are seen in the following extract from the Notice of Appeal for the 1999 year.
+The Ham family has one family household bank account. The insurance business income is paid into this account. The children receive payment for wages by way of receiving money or direct benefits in lieu of money for personal expenditures which includes food, clothing, entertainment, their portion of household costs, tuition fees, transportation, vacations and various other expenditures. The children have requested this be done. The Ham family has a limited income, the children appreciate that the whole family has to work to be successful. Canada Revenue Agency may prefer a cheque to confirm its payment, the Ham's method is not less valid. ...
+[7] The same quote appears in the Notice of Appeal for the 2000 taxation year.
+[8] The Appellant submitted that the work of Jeehon and Jeeho in 1999 consisted of filing, prospecting and telemarketing, collection phone calls, banking, attending Korean cultural events to obtain business and data entry.
+[9] The Appellant further submitted that the work provided in the year 2000 by Jeehon, Edwin, Jihae and Jeeho consisted of filing, prospecting and telemarketing, collection phone calls, banking, attending Korean cultural events to obtain business, and data entry; and that the work of Edward in the year 2000 consisted of filing, prospecting and telemarketing and collection phone calls.
+[10] The Appellant also submitted as part of Exhibit A-1 unsigned letters reading as follows:
+To Whom It May Concern:
+During the 1999 and 2000 taxation years I earned wages of $5,200 and $8,400 from Sam Ham in performing my duties with respect to his insurance commission business. I received payment by way of receiving monies or payments made on my behalf for personal expenditures including food, clothing, entertainment, cigarettes, my portion of household costs, tuition - past and/or present, transportation, vacations, birthday and Christmas gifts, and various other expenditures.
+Yours truly,
+Jeeho Ham
+To Whom It May Concern:
+During the 1999 and 2000 taxation years I earned wages of $2,400 and $8,400 from Sam Ham in performing my duties with respect to his insurance commission business. I received payment by way of receiving monies or payments made on my behalf for personal expenditures including food, clothing, entertainment, my portion of household costs, tuition - past and/or present, transportation, vacations, birthday and Christmas gifts and various other expenditures.
+Yours truly,
+Jeehon Ham
+To Whom It May Concern:
+During the 2000 taxation year I earned wages of $4,200 from Sam Ham in performing my duties with respect to his insurance commission business. I received payment by way of receiving monies or payments made on my behalf for personal expenditures including food, clothing, entertainment, cigarettes, my portion of household costs, tuition - past and/or present, transportation, vacations, birthday and Christmas gifts and various other expenditures.
+Yours truly,
+Edward Ham
+To Whom It May Concern:
+During the 2000 taxation year I earned wages of $4,200 from Sam Ham in performing my duties with respect to his insurance commission business. I received payment by way of receiving monies or payments made on my behalf for personal expenditures including food, clothing, entertainment, cigarettes, my portion of household costs, tuition - past and/or present, transportation, vacations, birthday and Christmas gifts and various other expenditures.
+Yours truly,
+Edwin Ham
+To Whom It May Concern:
+During the 2000 taxation year I earned wages of $9,600 from Sam Ham in performing my duties with respect to his insurance commission business. I received payment by way of receiving monies or payments made on my behalf for personal expenditures including food, clothing, entertainment, my portion of household costs, tuition - past and/or present, transportation, vacations, birthday and Christmas gifts and various other expenditures.
+Yours truly,
+Jihae Ham
+[11] The Appellant also submitted a handwritten summary indicating the following hours and rates of pay.
+Jeehon - 1999 - 160 hours at $15 - total $2,400
+Jeehon - 2000 - 560 hours at $15 - total $8,400
+Jeeho - 1999 - 347 hours at $15 - total $5,200
+Jeeho - 2000 - 560 hours at $15 - total $8,400
+Jihae - 2000 - 960 hours at $10 - total $9,600
+Edward - 2000 - 420 hours at $10 - total $4,200
+Edwin - 2000 - 420 hours at $10 - total $4,200
+[12] Testimony was given by the Appellant and by the Appellant's three sons, namely Jeeho, Edwin and Edward. Although the Reply to the Notice of Appeal refers to a lack of T4 slips and a lack of children's income tax returns with respect to the salaries in question, the transcript of the evidence indicates these matters were ultimately rectified.
+Analysis and Conclusion
+[13] I find the following to be prime considerations.
+1. The Appellant has the burden of proving the reassessments wrong and the Appellant has the burden of demolishing or proving wrong the assumptions of fact contained in the Reply.
+2. There has been no explanation as to why the letters of the various children mentioned above were not signed but the three children who testified confirmed they worked the contemplated hours. However, it is difficult to understand why so many employees were required to carry out the same tasks and why so many hours were required. The two children who did not testify were away and could not appear at the hearing.
+3. The pooling of money consisting of alleged salaries and their application as described above leaves doubts as to whether the full amounts were actually paid and received.
+4. The Appellant and his children were not at arm's length and the Appellant's records and bookkeeping were deficient.
+5. Notwithstanding the foregoing, uncontradicted testimony shows that the children did some work and received some payments. I do not however, given all the circumstances consider the payments claimed to be wholly of the nature contemplated in paragraph 18(1)(a) of the Income Tax Act nor reasonable. I have consequently decided that the appeals are to be allowed to the extent of permitting the Appellant the deductions for medical insurance premiums of $115 in 1999 and $1,380 in 2000 and by allowing the claimed salaries of the Appellant's five children with respect to the Appellant's insurance commission business only to the extent of one-half, that is to say a total of $3,800 in 1999 and a total of $17,400 in 2000.
+Signed at Ottawa, Canada, this 11th day of February, 2005.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2005TCC74
+COURT FILE NO.:
+2004-1200(IT)I
+STYLE OF CAUSE:
+Sam Jin Ham v. H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 13, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+February 11, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Thomas McRae
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Thomas McRae
+Firm:
+Shibley Righton, LLP
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

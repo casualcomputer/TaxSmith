@@ -1,0 +1,295 @@
+---
+title: "Inco Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22843/index.do"
+last_modified: "2004-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 468"
+citation2: ""
+neutral_citation: "2004 CCI 468"
+decision_date: "2004-10-18"
+language: "fr"
+item_id: "22843"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2317
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:55:44.577000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d40f6febf085c8d4d419e3f281ddf1fb39c39d796dee752223ee84c1a8655d7e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Inco Limited v. The Queen
+
+- Citation: 2004 CCI 468
+- Decision date: 2004-10-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2317, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Inco Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-18
+Référence neutre
+2004 CCI 468
+Numéro de dossier
+2002-2695(IT)G
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2695(IT)G
+ENTRE :
+INCO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________________________________________
+Appel entendu les 15 et 16 juin à 2004 à Vancouver (Colombie-Britannique)
+Devant : L'honorable M.J. Bonner
+Comparutions :
+Avocats de l'appelante :
+Me Warren Mitchell
+Me Michael Colborne
+Avocat de l'intimée :
+Me Luther Chambers
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté avec dépens.
+Signé à Toronto, Ontario, ce 18e jour d'octobre 2004,
+« M.J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 27e jour de juin 2005.
+Sara Tasset
+Référence : 2004CCI468
+Date : 20041018
+Dossier : 2002-2695(IT)G
+ENTRE :
+INCO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner
+[1] Le présent appel fait suite à une cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 2000 de l'appelante.
+[2] Deux points étaient soulevés dans l'avis d'appel. Le premier a été réglé le 31 mai dernier à la suite d'une décision de la présente Cour rendue conformément à l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale). Le deuxième, qui doit être tranché ici, concerne la déduction, par l'appelante, d'un montant qui représente, selon l'appelante, une perte sur change qu'elle a réalisée lors du rachat pour annulation et du remboursement de certaines débentures qu'elle avait émises.
+[3] Les émissions des débentures en question étaient des transactions touchant au compte de capital. Elles étaient libellées en dollars américains. La devise américaine a pris de la valeur par rapport au dollar canadien entre la date où les débentures ont été émises et la date où elles ont été rachetées ou remboursées. L'appelante se fonde sur l'alinéa 20(1)f) de la Loi pour justifier sa déduction de la perte sur change qui aurait été réalisée. L'alinéa 20(1)f), qui s'applique malgré que l'alinéa 18(1)b) interdise la déduction de pertes en capital, permet une déduction dans le calcul du revenu lorsque l'émetteur d'un titre d'emprunt paie une certaine somme pour acquitter le principal de ce titre et que cette somme est supérieure au montant que l'émetteur a reçu lors de l'émission du titre. En règle générale, comme l'indique la note marginale, l'alinéa 20(1)f) permet une déduction à l'égard d'obligations, de débentures et d'autres titres d'emprunt qui ont été émis à rabais. Cependant, la déduction permise représente un montant calculé d'après une formule prescrite dans la Loi qui ne mentionne pas expressément les rabais sur émission, et c'est cette formule, dûment interprétée, qui doit régir l'issue du présent appel.
+[4] La formule prescrite à l'alinéa 20(1)f) limite le montant déductible en fonction (entre autres) du « principal » du titre. Le coeur du litige ici consiste à déterminer si, lorsque le titre est libellé dans une monnaie étrangère, l'équivalent en dollars canadiens du principal fluctue ou non avec la valeur du dollar canadien pendant la durée de vie du titre. L'appelante soutient que c'est le cas. En outre, selon l'appelante, le fait qu'elle n'ait pas acheté de dollars américains pour rembourser le prêt n'a aucune incidence. L'intimée n'est pas d'accord avec l'appelante sur ces deux points.
+[5] Une autre question est soulevée en ce qui concerne l'alinéa 20(1)f). Cette disposition permet la déduction d'une « somme payée au cours de l'année en acquittement du principal de quelque obligation, effet, billet [...] » . L'appelante affirme que le texte de la loi est assez large pour englober non seulement un remboursement direct d'obligations mais aussi le rachat des débentures sur le marché ouvert afin qu'elles soient annulées. L'intimée, adoptant une interprétation plutôt étroite du libellé de la disposition, fait valoir qu'une somme versée par un émetteur pour racheter une débenture qu'il a émise n'est pas payée « en acquittement du principal » du titre.
+[6] Il est utile à ce stade-ci de reproduire le texte de l'alinéa 20(1)f)[1] :
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+20(1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto :
+...
+f) Rabais sur émission de certains titres - une somme payée au cours de l'année en acquittement du principal de quelque obligation, effet, billet, hypothèque ou titre semblable émis par le contribuable après le 18 juin 1971 et sur lequel un intérêt a été déclaré payable, dans la mesure où la somme ainsi payée ne dépasse pas :
+(f) Discount on certain obligations - an amount paid in the year in satisfaction of the principal amount of any bond, debenture, bill, note, mortgage or similar obligation issued by the taxpayer after June 18, 1971 on which interest was stipulated to be payable, to the extent that the amount so paid does not exceed,
+(i) chaque fois que le titre a été émis pour une somme non inférieure aux 97 % de son principal et que le rendement du titre, exprimé en pourcentage annuel de la somme pour laquelle il a été émis (pourcentage annuel qui doit, si les conditions d'émission du titre ou les dispositions d'une convention y afférente donnaient à leur détenteur le droit d'exiger le paiement du principal du titre ou de la somme restant à rembourser sur ce principal avant l'échéance de ce titre, être calculé sur la base du rendement qui permet d'obtenir le pourcentage annuel le plus élevé possible soit à l'échéance du titre, soit sous réserve de l'exercice de tout droit de ce genre) ne dépasse pas les 4/3 de l'intérêt déclaré payable sur le titre, exprimé en pourcentage annuel :
+(i) in any case where the obligation was issued for an amount not less than 97 % of its principal amount, and the yield from the obligation, expressed in terms of an annual rate on the amount for which the obligation was issued (which annual rate shall, if the terms of the obligation or any agreement relating thereto conferred on its holder a right to demand payment of the principal amount of the obligation or the amount outstanding as or on account of its principal amount, as the case may be, before the maturity of the obligation, be calculated on the basis of the yield that produces the highest annual rate obtainable either on the maturity of the obligation or conditional on the exercise of any such right) does not exceed 4/3 of the interest stipulated to be payable on the obligation, expressed in terms of an annual rate on
+(A) du principal du titre, si aucune somme n'est payable sur le principal avant l'échéance du titre;
+(A) the principal amount of the obligation, if no amount is payable on account of the principal amount before the maturity of the obligation, or
+(B) de la somme restant à rembourser sur le principal du titre, dans les autres cas,
+(B) the amount outstanding from time to time as or on account of the principal amount of the obligation, in any other case,
+l'excédent du moins élevé du principal du titre et du total des sommes payées au cours de l'année ou d'une année antérieure en acquittement du principal de ce titre sur la somme pour laquelle le titre a été émis,
+the amount by which the lesser of the principal amount of the obligation and all amounts paid in the year or in any preceding year in satisfaction of its principal amount exceeds the amount for which the obligation was issued, and
+(ii) dans les autres cas, les 3/4 du moins élevé de la somme ainsi payée et de l'excédent du moins élevé du principal du titre et du total des sommes payées au cours de l'année ou d'une année d'imposition antérieure en acquittement du principal du titre sur la somme pour laquelle le titre a été émis;
+(ii) in any other case, 3/4 of the lesser of the amount so paid and the amount by which the lesser of the principal amount of the obligation and all amounts paid in the year or in any preceding taxation year in satisfaction of its principal amount exceeds the amount for which the obligation was issued;
+[7] À l'audition du présent appel, les parties ont déposé un exposé conjoint des faits. Le corps du document est rédigé comme suit[2] :
+[Traduction]
+1. Les parties s'entendent sur les faits énoncés ci-après pour les besoins du présent appel seulement.
+2. L'appelante est une grande société multinationale du secteur minier qui, à toutes les dates importantes dans le cadre du présent appel, était résidente du Canada et exerçait des activités minières à grande échelle au Canada et à l'étranger.
+3. Les débentures de 1989
+a) Autour de juin 1989, l'appelante a émis pour 150 000 000 $US de débentures à fonds d'amortissement portant intérêt au taux de 9,875 % par année et venant à échéance le 15 juin 2019 (les « débentures de 1989 » ).
+b) Les débentures de 1989 ont été émises en vertu d'un acte de fiducie daté du 29 juin 1989 conclu par l'appelante et la Bank of New York.
+c) Avant le 29 juin 1989, l'appelante a publié un prospectus et un prospectus supplémentaire relativement aux débentures de 1989. [...] Les annexes A et B sont des copies du prospectus et du prospectus supplémentaire, respectivement.
+d) Les débentures de 1989 ont été émises dans le cadre d'un appel public à l'épargne à un prix inférieur à leur valeur nominale, soit avec un rabais sur émission de 2,6 %, pour un total de 3 900 000 $US (le « rabais sur émission » ). Le montant que l'appelante a tiré de ce placement représentait donc 97,4 % de la valeur nominale des débentures, soit 146 100 000 $US au total (le « montant escompté » ).
+e) Aux fins de l'impôt sur le revenu, l'appelante a converti le rabais sur émission de 3 900 000 $US en 4 652 827 $CAN, selon le taux de change de 1,19305 en vigueur au moment de l'émission des débentures de 1989. Le montant avait été déduit par l'appelante à titre de frais d'émission visés à l'alinéa 20(1)e) de la Loi de l'impôt sur le revenu, à raison de 20 % par année, ou 930 565 $CAN, dans les années 1989 à 1993. Le ministre n'a pas contesté ces déductions lorsqu'il a établi les cotisations de l'appelante pour les années d'imposition 1989 à 1993.
+f) Après la déduction des honoraires de prise ferme de 1 312 500 $US (qui ne sont pas en litige), l'appelante s'est servie du produit net de l'émission des débentures de 1989 pour financer ses dépenses en immobilisations.
+g) Les conditions afférentes aux débentures de 1989 ne mentionnaient pas d'augmentation de la valeur nominale remboursable en dollars américains.
+h) Les conditions afférentes aux débentures de 1989 mentionnaient que la valeur nominale des débentures était remboursable seulement en dollars américains et ne renfermaient aucune disposition permettant à l'appelante de rembourser les débentures dans des monnaies autres que le dollar américain pour des montants équivalant aux montants stipulés en dollars américains ou permettant de couvrir le titre de l'appelante en dollars américains contre les fluctuations de change.
+i) L'intimée a calculé le rendement des débentures de 1989, comme l'indique l'annexe C [...]
+j) L'appelante n'a pas couvert la valeur nominale en dollars américains des débentures de 1989 contre une baisse perçue du dollar canadien par rapport au dollar américain.
+k) Puisque la valeur nominale en dollars américains des débentures de 1989 n'a pas été couverte en vertu des conditions qui s'y rattachaient contre une baisse perçue du dollar canadien par rapport au dollar américain, la valeur nominale en dollars canadiens s'établissait, sur le plan financier, à 178 957 500 $CAN au moment de l'émission des débentures (150 000 000 $US multipliés par le taux de change de 1,19305 en vigueur à la date de l'émission).
+l) Bien que l'appelante se soit protégée contre la plus-value perçue du dollar canadien par rapport au dollar américain en vue d'en réduire les effets potentiellement négatifs sur ses coûts de production futurs en dollars canadiens, elle n'a pas couvert le risque de baisse perçue de la valeur du dollar canadien par rapport au dollar américain afin d'en réduire les effets potentiellement négatifs sur le coût, en dollars canadiens, du remboursement ou du rachat des débentures de 1989.
+m) Parce que l'appelante touchait une partie importante de ses revenus en dollars américains qu'elle déposait dans des comptes bancaires libellés en dollars américains, elle disposait toujours de fonds suffisants en dollars américains pour rembourser ou racheter sur le marché ouvert les tranches des débentures de 1989 qu'elle souhaitait rembourser ou racheter et, par conséquent, a jugé qu'il était inutile de se protéger contre la moins-value perçue du dollar canadien par rapport au dollar américain en ce qui concerne les débentures de 1989.
+n) Selon les conditions qui y étaient rattachées, les débentures de 1989 étaient remboursables à partir d'un fonds d'amortissement le 15 juin de chaque année, à compter du 15 juin 2000 et jusqu'au 14 juin 2018 inclusivement, à 100 % de leur valeur nominale. Le versement annuel obligatoire au fonds d'amortissement s'élevait à 7 500 000 $US. L'appelante avait le choix d'effectuer un versement supplémentaire annuel au fonds d'amortissement pouvant aller jusqu'à 15 000 000 $US.
+o) Selon les conditions afférentes aux débentures de 1989, l'appelante avait aussi le choix de rembourser les débentures à tout moment à partir du 15 juin 1999 et jusqu'au 14 juin 2009 par un moyen autre que le fonds d'amortissement, en totalité ou en partie, à des prix de remboursement allant de 103,638 % à 100,364 % de la valeur nominale des débentures, puis à 100 % de la valeur nominale des débentures après cette date.
+p) Étant donné que ces primes de remboursement auraient été payables par l'appelante si elle avait exercé cette option de remboursement à l'égard des débentures de 1989, par un moyen autre que le fonds d'amortissement, l'appelante a racheté, entre le 21 février et le 9 mai 2000, une tranche de 29 120 000 $US des débentures de 1989 (le « montant du rachat » ), comme l'indique l'annexe D [...], sur le marché ouvert par l'entremise de divers courtiers pour un total de 29 012 850 $US (le « prix de rachat des débentures de 1989 » ), comme l'indique aussi l'annexe D [...] Suivant les instructions de l'appelante, ces débentures rachetées ont été annulées les 9, 10 et 11 mai 2000.
+q) Le 15 juin 2000, l'appelante a effectué des versements obligatoires et facultatifs au fonds d'amortissement en vue de rembourser une partie des débentures de 1989 ayant une valeur nominale totale de 22 500 000 $US (le « montant du remboursement » ) à 100 % de leur valeur nominale, comme l'indique l'annexe D [...].
+r) L'appelante a obtenu tous les montants en dollars américains dont elle avait besoin pour effectuer ces rachats et remboursements des débentures de 1989 au moyen de retraits sur son compte bancaire libellé en dollars américains et n'a jamais converti des dollars canadiens en dollars américains aux fins de ces rachats et remboursements.
+s) L'équivalent en dollars canadiens du montant du rachat, calculé d'après le taux de change en vigueur lors de l'émission, était de 34 741 616 $CAN (29 120 000 $US x 1,19305).
+t) L'équivalent en dollars canadiens du prix de rachat, calculé d'après le taux de change en vigueur aux diverses dates de rachat entre février et mai 2000, était de 42 943 971 $CAN, comme l'indique aussi l'annexe D [...]
+u) L'équivalent en dollars canadiens du montant du remboursement, calculé d'après le taux de change en vigueur lors de l'émission, était de 26 843 625 $CAN (22 500 000 $US x 1,19305), comme l'indique aussi l'annexe D [...]
+v) L'équivalent en dollars canadiens des versements au fonds d'amortissement, calculé d'après le taux de change en vigueur le 15 juin 2000, était de 33 284 023 $CAN (22 500 000 $US x 1,4793), comme l'indique aussi l'annexe D [...]
+4. Les débentures de 1992
+a) Autour du 17 juin 1992, l'appelante a émis pour 200 000 000 $US de débentures portant intérêt au taux de 9,6 % par année et venant à échéance le 15 juin 2022 (les « débentures de 1992 » ).
+b) Les débentures de 1992 constituent une nouvelle série de titres de dette régis par un acte de fiducie daté du 29 juin 1989, modifié et complété par un premier acte de fiducie supplémentaire daté du 31 mars 1992.
+c) Le 31 mars 1992, l'appelante a publié un prospectus relatif aux débentures de 1992. [...] L'annexe E est une copie de ce prospectus.
+d) Le 10 juin 1992, l'appelante a publié un prospectus supplémentaire relatif aux débentures de 1992. [...] L'annexe F est une copie de ce prospectus supplémentaire.
+e) Les débentures de 1992 ont été émises à leur valeur nominale de 200 000 000 $US dans le cadre d'un appel public à l'épargne.
+f) Après la déduction des honoraires de prise ferme de 1 750 000 $US et d'autres dépenses (tous des montants qui ne sont pas en litige), l'appelante s'est servie du produit net de l'émission des débentures de 1992 pour rembourser une dette à long terme libellée en dollars américains, constituée d'une dette bancaire à long terme à taux flottant, de billets à 11 % libellés en dollars américains et de versements au fonds d'amortissement relatif aux débentures à 12 3/8 % libellées en dollars américains.
+g) Les conditions afférentes aux débentures de 1992 ne mentionnaient pas d'augmentation de la valeur nominale remboursable en dollars américains.
+h) Les conditions afférentes aux débentures de 1992 mentionnaient que la valeur nominale des débentures était remboursable seulement en dollars américains et ne renfermaient aucune disposition permettant à l'appelante de rembourser les débentures dans des monnaies autres que le dollar américain pour des montants équivalant aux montants stipulés en dollars américains ou permettant de couvrir l'obligation de l'appelante en dollars américains contre les fluctuations de change.
+i) L'intimée n'a pas calculé le rendement des débentures de 1992, parce que ces débentures ont été émises au pair, et elle a jugé que le rendement calculé serait à peu près égal au taux d'intérêt ou au taux d'intérêt nominal de 9,6 %.
+j) L'appelante n'a pas couvert la valeur nominale en dollars américains des débentures de 1992 contre une baisse perçue du dollar canadien par rapport au dollar américain.
+k) Puisque la valeur nominale en dollar américains des débentures de 1992 n'a pas été couverte en vertu des conditions qui s'y rattachaient contre une baisse perçue du dollar canadien par rapport au dollar américain, la valeur nominale en dollars canadiens s'établissait, sur le plan financier, à 238 838 000 $CAN au moment de l'émission des débentures (200 000 000 $US multipliés par le taux de change de 1,1919 en vigueur à la date d'émission).
+l) Bien que l'appelante se soit protégée contre la plus-value perçue du dollar canadien par rapport au dollar américain en vue d'en réduire les effets potentiellement négatifs sur ses coûts de production futurs en dollars canadiens, elle n'a pas couvert le risque de baisse perçue de la valeur du dollar canadien par rapport au dollar américain afin d'en réduire les effets négatifs éventuels sur le coût, en dollars canadiens, du remboursement ou du rachat des débentures de 1992.
+m) Parce que l'appelante touchait une partie importante de ses revenus en dollars américains qu'elle déposait dans des comptes bancaires libellés en dollars américains, elle disposait toujours de fonds suffisants en dollars américains pour rembourser ou racheter sur le marché ouvert les tranches des débentures de 1992 qu'elle souhaitait rembourser ou racheter et, par conséquent, a jugé qu'il était inutile de se protéger contre la moins-value perçue du dollar canadien par rapport au dollar américain en ce qui concerne les débentures de 1992.
+n) Selon les conditions qui y étaient rattachées, les débentures de 1992 n'étaient pas remboursables avant le 15 juin 2002. À compter du 15 juin 2002 et jusqu'au 14 juin 2012, les débentures étaient remboursables au gré de l'appelante, en totalité ou en partie, à des prix de remboursement allant de 104,8 % à 100,48 % de la valeur nominale des débentures, puis à 100 % de la valeur nominale des débentures après cette date.
+o) Étant donné que les débentures de 1992 n'étaient pas remboursables avant le 15 juin 2002, l'appelante a racheté, entre le 3 mars et le 8 novembre 2000, un total de 21 692 000 $US des débentures de 1992 (le « montant du rachat » ), comme l'indique l'annexe D [...], sur le marché ouvert par l'entremise de divers courtiers pour un total de 21 269 708 $US (le « prix de rachat des débentures de 1992 » ), comme l'indique aussi l'annexe D [...] Suivant les instructions de l'appelante, ces débentures rachetées ont été annulées le 21 février 2001.
+p) L'appelante a obtenu tous les montants en dollars américains dont elle avait besoin pour effectuer ces rachats des débentures de 1992 au moyen de retraits sur ses comptes bancaires libellés en dollars américains et n'a jamais converti des dollars canadiens en dollars américains aux fins de ces rachats.
+q) L'équivalent en dollars canadiens du montant du rachat, calculé d'après le taux de change en vigueur lors de l'émission, était de 25 854 589 $CAN (21 692 000 $US x 1,1919).
+r) L'équivalent en dollars canadiens du prix de rachat, calculé d'après le taux de change en vigueur aux diverses dates de rachat entre mars et novembre 2000 était de 32 039 855 $CAN, comme l'indique aussi l'annexe D [...]
+s) Dans sa déclaration de revenus pour l'année d'imposition 2000, l'appelante a inscrit une perte de 20 828 019 $CAN qu'elle prétend avoir subie relativement aux débentures de 1989 et aux débentures de 1992, comme l'indique en détail l'annexe G [...] Elle a déclaré que cette perte était une perte en capital, mais elle n'a déduit aucun montant à ce titre durant cette année-là, parce qu'elle n'avait pas suffisamment de gains en capital.
+t) Cette perte de 20 828 019 $CAN représente le total des pertes de change que l'appelante prétend avoir subies lors du remboursement des débentures de 1989 et des débentures de 1992. Cette perte n'inclut pas le rabais sur émission relatif aux débentures de 1989 que l'appelante a déduit de son bénéfice, comme l'indique ci-dessus l'alinéa 3e).
+u) Ce montant de 20 828 019 $CAN représente un total de 14 642 753 $CAN au titre des débentures de 1989 et de 6 185 266 $CAN au titre des débentures de 1992, comme l'indique aussi l'annexe D [...]
+v) Le montant de 14 642 753 $CAN représente la somme de 8 202 355 $CAN relative au rachat, sur le marché ouvert, d'une tranche de 29 120 000 $US des débentures de 1989 et la somme de 6 440 398 $CAN relative au remboursement, au moyen du fonds d'amortissement, d'une tranche de 22 500 000 $US des débentures de 1989, comme l'indique l'annexe G [...].
+w) Ce montant de 6 185 266 $CAN découle du rachat par l'appelante, sur le marché ouvert, d'une tranche de 21 692 000 $US des débentures de 1992, comme l'indique l'annexe D [...].
+5. L'intimée ne croit pas que l'appelante ait subi des pertes sur change quelles qu'elles soient lors du remboursement partiel et des rachats sur le marché ouvert des débentures de 1989 ni lors du rachat, sur le marché ouvert, des tranches précisées des débentures de 1992.
+6. Cependant, si la Cour parvient à la conclusion que l'appelante a effectivement subi des pertes sur change totalisant 20 828 019 $CAN par suite du remboursement partiel et des rachats, sur le marché ouvert, des débentures de 1989 ainsi que des rachats, sur le marché ouvert, des débentures de 1992, comme le prétend l'appelante, les parties conviennent de ce qui suit :
+a) l'appelante a subi une perte totale de 14 387 621 $CAN par suite du rachat, sur le marché ouvert, de certaines tranches des débentures de 1989 et des débentures de 1992, comme l'indique l'annexe H [...]
+b) l'appelante a subi une perte de 6 440 398 $CAN par suite du remboursement d'une tranche des débentures de 1989, comme l'indique l'annexe I [...]
+7. Les parties au présent appel peuvent présenter en guise de preuves supplémentaires uniquement les témoignages d'experts recevables concernant l'emploi des termes « principal » et « rendement » dans l'industrie des finances et du commerce ainsi que les témoignages d'experts recevables concernant le traitement, dans l'industrie des finances et du commerce, des pertes sur change subies ou envisagées par des sociétés non américaines qui émettent des titres d'emprunt libellés en dollars américains.
+[8] L'intimée a présenté des éléments de preuve semblables à ceux qui sont décrits au paragraphe 7 de l'exposé conjoint des faits. L'avocat a déposé la déclaration de David Wayne Hoyle, expert possédant trente années d'expérience dans le secteur des services financiers. La déclaration a été déposée sur consentement et n'a pas été contestée par les avocats de l'appelante sauf en ce qui a trait à sa pertinence.
+[9] À mon avis, le témoignage concernant le sens reconnu du terme « principal » dans l'industrie la plus directement engagée dans la négociation de titres de dette peut nous aider à découvrir ce que le législateur avait à l'esprit quand il a employé le terme en question. Il est peu probable que le législateur utilise des termes qui ont un sens différent de celui que leur donnent ceux qui évoluent dans le domaine le plus directement touché par l'alinéa 20(1)f). Ce témoignage est pertinent, il aide la Cour et M. Hoyle est qualifié comme témoin.
+[10] Dans sa déclaration, M. Hoyle a souligné les points suivants[3] :
+[TRADUCTION]
+1. Dans l'industrie financière, quel sens donne-t-on au terme « principal » relativement aux titres d'emprunt émis par une société qui emprunte des fonds, notamment des débentures?
+■ C'est la valeur nominale de l'obligation ou de la débenture ou encore le montant à rembourser sur un prêt indépendamment des intérêts.
+2. À partir de quel moment l'émetteur d'une débenture et son acheteur considèrent-ils que le « principal » de la débenture existe?
+■ À partir du moment où la débenture est émise.
+3. À partir des faits présumés en l'espèce, quel montant l'industrie financière considérerait-elle comme le « principal » des débentures que l'appelante a émises en 1989 (les « débentures de 1989 » ) et en 1992 (les « débentures de 1992 » )?
+■ Débentures de 1989 - 150 000 000 $
+■ Débentures de 1992 - 200 000 000 $
+4. Selon les pratiques en vigueur et l'expérience dans l'industrie financière, le « principal » d'une débenture peut-il augmenter au-delà de la valeur nominale du titre lorsqu'il a été émis?
+■ En règle générale, la valeur nominale à payer sur la débenture ne peut augmenter au-delà du montant à rembourser.
+5. Quels facteurs expliquent que des débentures soient émises à un prix inférieur ou supérieur à leur valeur nominale?
+■ Le taux d'intérêt nominal offert sur la débenture peut être inférieur ou supérieur au taux d'intérêt en vigueur sur le marché, de sorte que le prix de la débenture deviendrait alors supérieur ou inférieur au pair.
+[11] Durant les plaidoiries, l'avocat de l'appelante a souligné que l'alinéa 20(1)f) permet une déduction complète, au sous-alinéa (i), si un critère relatif au rabais sur émission et un critère fondé sur le rendement sont respectés et une déduction partielle, au sous-alinéa (ii), si ces critères ne sont pas respectés; il a mentionné aussi que la déduction peut être utilisée seulement lors du remboursement et que le montant admissible pour la déduction complète ou partielle représentera le plus petit des montants suivants :
+(i) le principal du titre
+(ii) toutes les sommes payées en acquittement du principal du titre
+MOINS
+le montant pour lequel le titre a été émis.
+[12] Par conséquent, l'alinéa 20(1)f) nécessite le calcul de trois montants :
+(a) le principal du titre;
+(b) le montant pour lequel le titre a été émis;
+(c) toutes les sommes payées en acquittement du principal.
+[13] Les deux avocats ont convenu que, aux fins de l'impôt sur le revenu, tous les montants doivent être inscrits en dollars canadiens. À cet égard, les avocats ont cité l'affaire Alberta Gas Trunk Line c. Ministre du Revenu national[4] et Hope Gaynor v. Her Majesty The Queen5.Ils ont convenu tous deux que les montants dont il est question aux points (b) et (c) doivent être calculés au moyen de la conversion des dollars américains en dollars canadiens selon les taux de change en vigueur au moment où les débentures ont été émises et remboursées respectivement.
+[14] C'est au sujet de la date choisie pour la conversion du principal du titre que les avocats des deux parties n'étaient pas d'accord. Si les fluctuations des taux de change qui surviennent après l'émission d'un titre libellé en monnaie étrangère ont, comme l'affirme l'appelante, une incidence sur le principal du titre pour l'application de l'alinéa 20(1)f), alors la conversion du principal en dollars canadiens doit se fonder sur les taux de change en vigueur à la date où la débenture est rachetée ou remboursée et non pas, comme le prétend l'intimée, à la date de création de la dette6.
+[15] D'après l'avocat de l'appelante, pour interpréter le terme « principal » à l'alinéa 20(1)f) comme s'il désignait le principal à la date d'émission, il faut ajouter à la disposition des mots qui ne s'y trouvent pas. Je mentionne en passant que le fait d'assimiler le terme au principal à la date de remboursement, ce que l'appelante estime nécessaire, exige aussi qu'on ajoute des termes au texte législatif. Les arguments invoquant l'ajout inutile de mots n'aident donc ni l'une ni l'autre partie.
+[16] À l'appui de son argument suivant lequel la conversion du principal doit se faire à la date du remboursement, l'avocat de l'appelante se reporte à la définition du terme « principal » qu'on retrouve au paragraphe 248(1) :
+« principal » - S'agissant du principal d'une obligation donnée, la somme maximale ou la somme globale maximale, selon le cas, payable, d'après les conditions de l'obligation ou de toute convention y afférente, au titre de l'obligation, par celui qui l'a émise, autrement qu'au titre des intérêts ou d'une prime que verserait l'émetteur s'il exerçait son droit de racheter l'obligation avant l'échéance de celle-ci.
+[17] L'avocat a souligné que l'alinéa 20(1)f) ne précisait pas quand le principal du titre doit être calculé et que, dans les cas où la dette, comme en l'espèce, doit être remboursée en monnaie étrangère, la « somme maximale payable » dont il est question au paragraphe 248(1) ne peut, à cause des fluctuations des taux de change, être calculée tant et aussi longtemps que la dette n'est pas remboursée.
+[18] Selon cette interprétation de l'alinéa 20(1)f), l'avocat de l'appelante a fait valoir que le sous-alinéa 20(1)f)(ii) s'applique dans la présente affaire parce que le critère relatif au rabais sur émission n'est pas respecté. Le principal des débentures calculé au moyen des taux de change en vigueur lorsque la dette a été remboursée ou rachetée dépassait largement le prix d'émission. Par conséquent, l'avocat a déclaré que le montant déductible se calculait comme suit :
+Le moins élevé des deux montants
+entre la somme payée (108 267 849 $CAN
+et le principal
+(au moins 108 267 849 $CAN) 108 267 849 $CAN
+moins
+Prix d'émission 85 838 614 $CAN
+22 429 235 $CAN
+Montant déduit 1 601 216 $CAN
+20 828 019 $CAN
+13 512 308 $CAN
+[19] L'avocat de l'appelante soutenait que le calcul de la déduction prévue à l'alinéa 20(1)(f) en fonction d'un principal variable est conforme à l'intention du législateur (a) parce qu'elle permet la déduction du coût d'emprunt lorsque l'emprunt est libellé en monnaie étrangère et (b) parce que le moment où il faut déterminer si c'est le sous-alinéa 20(1)f)(i) ou le sous-alinéa 20(1)f)(ii) qui s'applique est reporté jusqu'au moment où la déduction peut être utilisée. Je souligne en passant qu'il n'est pas clair non plus, à première vue, que le législateur a eu l'intention, à l'alinéa 20(1)f), de permettre la déduction de montants autres que les rabais sur émission ou encore que les coûts afférents à la conversion de monnaies étrangères peuvent être avec raison considérés comme des coûts d'emprunt.
+[20] Finalement, l'avocat a affirmé que l'interprétation de l'alinéa 20(1)f) par l'intimée menait à un résultat absurde, soit que la somme versée en acquittement du principal dépasserait le principal lorsque, comme c'est le cas en l'espèce, la valeur du dollar canadien a baissé. À mes yeux, il n'y a pas de résultat absurde. Le principal est une chose. Ce qui est versé en acquittement de ce principal en est une autre. Dans la présente affaire, il ne peut s'agir que du coût exprimé en dollars canadiens du remboursement du principal, exprimé en dollars américains, et calculé selon le taux de change en vigueur à la date du remboursement.
+[21] L'avocat de l'intimée a adopté un point de vue assez différent des questions en litige. Dans ses observations, la première question à régler consiste à déterminer, en l'absence de toute conversion de dollars canadiens en dollars américains pour rembourser ou racheter les débentures, si l'appelante a subi ou non une perte de change déductible lors du rachat ou du remboursement d'une tranche de 22 500 000 $ des débentures de 1989. Voilà le versement dont il est fait mention au paragraphe 3(q) de l'exposé conjoint des faits et le seul paiement que l'avocat de l'intimée accepte à titre de « somme payée [...] en acquittement du principal » d'une débenture d'après les termes employés à l'alinéa 20(1)f).
+[22] La question suivante, selon l'intimée, était de savoir si l'appelante avait subi ou non une perte sur change par suite du rachat, sur le marché ouvert, d'une tranche de 29 012 850 $US des débentures de 1989 entre février et mars 2000 ainsi que par suite du rachat de la tranche de 21 269 708 $US des débentures de 1992 entre mars et novembre 2000. Il a affirmé encore une fois qu'il n'y avait eu aucune perte en l'absence de toute conversion de dollars canadiens en dollars américains aux fins de ces rachats.
+[23] L'avocat a fait valoir que le principal de la dette de l'appelante était fixé par les conditions afférentes aux débentures et que, en vertu de ces conditions, le principal ne pouvait augmenter après l'émission. Il a souligné également que l'équivalent du principal en dollar canadiens ne pouvait augmenter après l'émission. Par conséquent, la somme maximale payable au sens de l'article 248 en vertu des conditions afférentes aux débentures était fixée à la date d'émission et ne pouvait être considérée susceptible de changer en raison d'événements subséquents qui n'avaient pas été prévus dans les débentures elles-mêmes. Ce qui a augmenté, c'est la mesure en dollars canadiens des « sommes payées en acquittement du principal » . Selon lui, tout le fondement de la demande présentée par l'appelante en vertu de l'alinéa 21f) repose donc sur une confusion quant au sens du terme « principal » et de l'expression « somme payée [...] en acquittement du principal » utilisés dans la Loi.
+[24] Ensuite, l'avocat de l'intimée s'est tourné vers la question de savoir si les pertes de change, subies ou réalisées (i) par suite du remboursement de la tranche de 22 500 000 $ des débentures de 1989 et (ii) par suite du rachat sur le marché ouvert de débentures de 1989 et de 1992, étaient déductibles. Il a réitéré sa position, soit que l'alinéa 20(1)f) n'offre aucune déduction à l'appelante. Celle-ci était obligée, selon l'intimée, de s'appuyer sur les paragraphes 39(2) et 39(3) de la Loi pour pouvoir déduire les pertes sur change qu'elle aurait subies, le cas échéant.
+[25] Il y a lieu de souligner que les deux parties rejettent le raisonnement énoncé dans la décision rendue par notre cour dans l'affaire Imperial Oil Limited c. La Reine, 2004 CC1207, où le juge Miller a statué que [TRADUCTION] « le Parlement n'avait pas l'intention de rendre les pertes sur change déductibles en vertu de l'alinéa 20(1)f), car elles se rattachent au capital d'un emprunt » . Il s'est exprimé comme suit :
+[TRADUCTION]
+Non seulement l'application de la formule [énoncée à l'alinéa 20(1)f)] au moyen de la monnaie dans laquelle l'obligation est libellée, suivie de la conversion du résultat en dollars canadiens courants, est-elle la méthode la plus logique dans le sens usuel et grammatical, mais elle est aussi compatible avec tous les principes bien établis d'interprétation législative.
+[26] En toute déférence, je souscris à l'opinion du juge Miller suivant laquelle l'alinéa 20(1)f) ne permet pas la déduction de pertes sur change découlant de l'émission de titres d'emprunt libellés en monnaie étrangère7. Mon opinion repose toutefois sur des motifs légèrement différents de ceux qu'avait donnés mon collègue.
+[27] La demande de déduction de l'appelante en l'espèce se fonde sur la thèse suivante :
+(a) l'appelante a réalisé une perte sur change lors du rachat pour annulation ou du remboursement des débentures;
+(b) la perte est déductible en vertu de l'alinéa 20(1)f) de la Loi.
+[28] La perte que l'appelante veut déduire de son revenu est quelque peu difficile à cerner. Dans ses plaidoiries, l'avocat de l'appelante a décrit cette perte comme étant [TRADUCTION] « la perte sur change réalisée lors du rachat pour annulation ou du remboursement des débentures » . En supposant, sans conclure que c'est le cas, que le coût du rachat d'un titre d'emprunt équivaut, pour les besoins de l'alinéa 20(1)f), à une « somme payée [...] en acquittement du principal » et donc que l'ensemble de l'opération décrite par l'avocat constitue le remboursement d'une dette sous forme de débentures, l'origine de la perte que veut déduire l'appelante nous échappe encore. En 1989 et en 1992, l'appelante a emprunté des dollars américains. Elle en a déposé une partie dans ses comptes bancaires libellés en dollars américains, dans le premier cas, puis en a utilisé une autre partie pour rembourser une dette existante en dollars américains, dans le deuxième cas. En 2000, elle a obtenu les dollars américains nécessaires au rachat ou au remboursement des débentures de 1989 et de 1992 en effectuant des retraits sur son compte bancaire libellé en dollars américains. Je ne vois rien dans les faits qui justifierait de conclure que l'évolution de la valeur du dollar canadien par rapport au dollar américain pendant la durée de vie des débentures a entraîné une perte réalisée ou un coût quels qu'ils soient pour l'appelante.
+[29] Je ne crois pas que l'appelante a subi une perte parce qu'elle a remboursé exactement ce qu'elle avait emprunté. Lorsqu'un contribuable emprunte quelque chose, que ce soit cinq dollars canadiens, cinq dollars américains ou une tasse de sucre, et qu'il remet par la suite exactement la même chose qu'il avait empruntée, sans aucune opération intermédiaire, ni l'emprunteur ni le prêteur ne sont plus riches ou plus pauvres par suite de la transaction. Ce que l'appelante cherche à déduire, c'est une perte imaginaire. Il est impossible de croire que le législateur, lorsqu'il a édicté l'alinéa 20(1)f), a eu l'intention de permettre une déduction en l'absence d'une perte réalisée ou d'un coût. Pour parvenir à une autre conclusion, il faudrait supposer que le législateur avait l'intention, sans raison apparente, de créer une exception au régime général instauré par la Loi, lequel reconnaît les gains et les pertes en capital seulement lorsqu'ils sont réalisés lors de la disposition.
+[30] Je n'ai aucun doute que, pour les fins de l'impôt sur le revenu du Canada, les résultats financiers d'une transaction conclue par un contribuable doivent être inscrits en dollars canadiens. Dans l'affaire Hope Gaynor v. Her Majesty The Queen, précitée, qui a été longuement analysée par les deux avocats, la Cour d'appel fédérale a considéré la méthode appropriée pour calculer le gain en capital réalisé par la contribuable à la disposition d'actions qu'elle avait acquises avec des dollars américains et vendues pour une contrepartie libellée en dollars américains. La contribuable voulait soustraire le coût en dollars américains du produit réalisé en dollars américains puis convertir la différence en dollars canadiens au taux de change en vigueur au moment de la vente. La Cour a conclu que le gain faisait suite à une comparaison de deux montants, soit le produit de la disposition et le prix de base rajusté, et que l'équivalent en dollars canadiens de chacun devait être calculé au moyen des taux de change en vigueur à la date de la vente et de l'achat, respectivement. Je ne peux accepter l'argument suivant lequel le raisonnement énoncé dans l'affaire Gaynor exige la conversion du principal du titre, aux fins de l'alinéa 20(1)f), aux taux de change en vigueur à la date du remboursement. Aucune comparaison semblable à celle qui avait été nécessaire pour évaluer le gain de la contribuable dans l'affaire Gaynor n'est requise en l'espèce, car l'appelante a remboursé exactement ce qu'elle avait emprunté, ce qui n'a donné lieu à aucun gain ni à aucune perte.
+[31] À mon avis, le sens usuel du terme « principal » employé à l'alinéa 20(1)f) et le sens que lui donne l'industrie financière, d'après M. Doyle, sont parfaitement identiques. Le principal d'un titre correspond à sa valeur nominale. Ce principal existe dès que le titre est émis. En toute logique, la conversion, lorsqu'elle est nécessaire, s'effectue quand la valeur nominale est fixée. En outre, comme l'a soutenu l'avocat de l'intimée, la définition du terme « principal » figurant au paragraphe 248(1) exige que le principal d'une obligation soit déterminé « d'après les conditions de l'obligation » . Ces conditions ne varient pas. Elles sont établies lorsque le titre est émis. Puisque le principal du titre ne varie pas après l'émission, il n'existe aucune raison logique de conclure que le fait que ce principal soit libellé dans une monnaie étrangère rend l'équivalent en dollars canadiens variable. D'après moi, lorsque l'appelante avance que l'équivalent en dollars canadiens du principal libellé en dollars américains calculé à la date du remboursement constitue le principal aux fins de l'application de l'alinéa 20(1)f), elle confond deux concepts que le législateur considère distincts, soit le principal du titre et les sommes payées en acquittement de ce principal.
+[32] La Loi d'interprétation8dispose ce qui suit :
+12. Tout texte est censé apporter une solution de droit et s'interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet.
+L'alinéa 20(1)f) a pour objet de permettre la déduction, à l'intérieur de certaines limites, non pas de tous les coûts, qu'ils soient reliés de près ou de loin à un emprunt, mais plutôt des rabais sur émission qui sont étroitement reliés aux intérêts mais qui n'entrent pas dans la portée de l'alinéa 20(1)c) de la Loi. Dans l'ouvrage de M. Krishna, Fundamentals of Canadian Income Tax, 7e édition (Toronto, Carswell, 2002), on retrouve ce qui suit à la page 615 :
+[TRADUCTION]
+Les sociétés peuvent émettre des titres d'emprunt à leur valeur nominale, à escompte ou au-dessus du pair. Un escompte ou une prime reflète généralement des corrections économiques au taux d'intérêt nominal afin de le rendre conforme au taux réel du marché applicable à la date d'émission du titre.
+La définition de l'objet qui sous-tend l'alinéa 20(1)f) trouve confirmation dans la note marginale qui, bien qu'elle ne fasse pas partie du texte de loi9, peut néanmoins être utile10.
+[33] D'après l'appelante, le fait de rendre la déduction prévue à l'alinéa 20(1)f) dépendante d'un terme « variable » comme le « principal » au lieu d'une notion statique comme la « valeur nominale » était compatible avec le régime légal, car on permet alors la déduction du coût de l'emprunt lorsque le remboursement de la dette se fait dans une devise autre que le dollar canadien. Je ne suis pas d'accord avec cette thèse. Selon moi, les fluctuations de change n'ajoutent ni ne retranchent rien au coût de l'emprunt. L'argument a été souligné succinctement par le juge Templeman dans l'affaire Pattisonv. Marine Midland Ltd.11 comme suit :
+[TRADUCTION]
+[...] un profit peut être réalisé ou une perte subie si un emprunteur change la monnaie qu'il emprunte, mais ce profit ou cette perte découle de la transaction de change et non de l'emprunt.
+À mon avis, une interprétation de l'alinéa 20(1)f) qui assimile le principal à un montant qui fluctue avec les taux de change sur la durée de vie du titre élargirait la déduction de manière à inclure des sommes qui n'avaient jamais été envisagées par le législateur.
+[34] Dans les circonstances, il n'est pas nécessaire de se demander si la contrepartie versée pour le rachat d'un titre d'emprunt sur le marché ouvert par l'émetteur de ce titre constitue une somme payée en acquittement du principal du titre aux fins de l'alinéa 20(1)f).
+[35] Pour les raisons qui précèdent, cet aspect de l'appel est rejeté. L'appel est aussi rejeté sur le seul autre point qui a été réglé dans la décision rendue par notre cour à propos de la demande fondée sur l'article 58 et mentionnée au paragraphe 2. L'appel est donc rejeté avec dépens.
+Signé à Toronto, Ontario, ce 18e jour d'octobre 2004,
+« M.J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 27e jour de juin 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI468
+NO DU DOSSIER DE LA COUR :
+2002-2695(IT)G
+INTITULÉ DE LA CAUSE :
+Inco Limited et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Les 15 et 16 juin 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable M.J. Bonner
+DATE DU JUGEMENT :
+Le 18 octobre 2004
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Warren Mitchell
+Me Michael Colborne
+Avocat de l'intimée :
+Me Luther Chambers
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Warren Mitchell
+Cabinet :
+Thorsteinssons
+Toronto (Ontario)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général adjoint du Canada
+Ottawa, Canada
+[1] En vigueur en 2000.
+[2] Je n'ai pas reproduit les annexes. Ce n'était pas nécessaire pour les besoins des présents motifs.
+[3] Le témoignage de M. Hoyle se présentait sous forme de réponses à des questions que lui posait l'avocat.
+[4] [1972] R.C.S. 498.
+5 91 DTC 5288
+6 Aucune des deux parties, n'a proposé le recours à un taux de change en vigueur à une date quelconque entre l'émission et le remboursement ou le rachat.
+7 Sauf pour ce qui est du coût de la prime versée, le cas échéant.
+8 L.R.C. 1985, ch. I-21.
+9 Loi d'interprétation, article 14.
+10 R. c. Wigglesworth, [1987] 2 R.C.S. 541, au paragraphe 19.
+11 [1984] .C. 362, à la p. 372 (H.L.).

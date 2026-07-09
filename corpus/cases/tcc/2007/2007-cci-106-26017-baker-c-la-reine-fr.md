@@ -1,0 +1,390 @@
+---
+title: "Baker c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26017/index.do"
+last_modified: "2007-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 106"
+citation2: ""
+neutral_citation: "2007 CCI 106"
+decision_date: "2007-02-19"
+language: "fr"
+item_id: "26017"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3882
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:57:00.250000+00:00"
+cases_cited_count: 1
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff733a5fe5ee8240cd48a563bd2f88f12025d0a002c23b20864006dd0dda419d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Baker c. La Reine
+
+- Citation: 2007 CCI 106
+- Decision date: 2007-02-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3882, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baker c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-19
+Référence neutre
+2007 CCI 106
+Numéro de dossier
+2005-938(GST)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-938(GST)G
+ENTRE :
+BOBBY LEE BAKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1er novembre 2006, à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Robert Jodoin
+Avocat de l'intimée :
+Me Mario Laprise
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise (avis numéro 4-17-5004 daté du 16 avril 2004) pour la période allant du 1er janvier 1997 au 31 décembre 2000 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 19ième jour de février 2007.
+« Paul Bédard »
+Juge Bédard
+Référence : 2007CCI106
+Date : 20070219
+Dossier : 2005-938(GST)G
+ENTRE :
+BOBBY LEE BAKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le ministre du Revenu national, par le biais du ministre du Revenu du Québec (le « ministre » ), a établi une cotisation à l'égard de l'appelant en vertu de la Loi sur la taxe d'accise (la « Loi » ) car ce dernier avait omis de déclarer et de payer la taxe sur les produits et services ( « TPS » ) pendant la période allant du 1er janvier 1997 au 31 décembre 2000 (la « période pertinente » ).
+[2] Pendant la période pertinente, l'appelante exploitait une entreprise liée à la vente de véhicules reconstruits (l' « entreprise » ). En 1997 et 2000, l'appelant n'a pas tenu de registres liés à l'exploitation de son entreprise. De plus, les registres pour les années 1998 et 1999 étaient incomplets. Au moment où le ministre a effectué sa vérification, les documents, notamment les pièces justificatives (telles les factures de vente), liés à l'exploitation de l'entreprise pendant la période pertinente qui auraient permis au ministre d'établir les obligations et responsabilités de l'appelant aux termes de la Partie IX de la Loi, n'ont pas été mis à sa disposition lorsqu'il les a demandés. Seulement une partie des pièces justificatives liées aux achats effectués par l'appelant dans le cadre de l'exploitation de son entreprise ont été mises à la disposition du ministre[1].
+[3] L'appelant a déclaré les revenus bruts et les revenus nets suivants liés à l'exploitation de son entreprise pendant la période pertinente :
+1997
+1998
+1999
+2000
+Revenus bruts
+Nil[2]
+130 906 $[3]
+54 560 $[4]
+7 540 $[5]
+Revenus nets
+Nil
+23 661 $
+(11 358 $)
+7 540 $
+[4] En l'absence de renseignements nécessaires, la vérification des ventes de l'appelant a été fondée, en dernier recours, sur les dépôts bancaires effectués dans le seul compte de banque de l'appelant[6].
+[5] Ainsi, à l'aide de ces relevés bancaires, le ministre a compilé tous les dépôts de l'appelant pour chacune des années de la période pertinente et a retranché de ces dépôts à juste titre tous les éléments qui ne peuvent être considérés comme des ventes, tels les emprunts et les ristournes. Les dépôts nets comptabilisés ainsi par le ministre totalisent les sommes suivantes :
+1997
+1998
+1999
+2000
+Dépôts nets
+55 666,63 $
+200 010,45 $
+130 215,33 $
+98 831,04 $
+[6] Le ministre est arrivé à un montant total des ventes pour la période pertinente en additionnant le total des dépôts nets et en apportant les ajustements figurant aux tableaux préparés par le vérificateur et reproduits à l'annexe A ci-jointe.
+[7] Ainsi, pour l'année 1997, le ministre a établi que les dépôts nets de l'appelant totalisaient 55 666,63 $. Pour calculer les ventes de l'appelant pendant cette année, le ministre a soustrait de ces dépôts nets les montants suivants :
+i) les revenus d'emploi déclarés par l'appelant dans cette même année, soit 1 272,00 $;
+ii) 30 000,00 $ au titre de la règle du petit fournisseur.
+[8] Pour l'année 1998, le ministre a établi que les dépôts nets de l'appelant totalisaient 200 010,45 $. Pour en arriver au calcul du montant des ventes de l'appelant pendant cette année, le ministre a soustrait de ces dépôts nets les montants suivants :
+i) 130 906,54 $ au titre des revenus bruts déclarés par l'appelant dans cette même année (Pièce 1-4);
+ii) 2 093,46 $ au titre de la TPS déclarée par l'appelant dans cette même année;
+iii) 18 000,03 $. L'appelant a versé un montant de TPS lié à des ventes totalisant 148 906 $ pour la période du 1er janvier 1998 au 31 décembre 1998 alors que les ventes déclarées par l'appelant dans sa déclaration de revenus pour l'année d'imposition 1998 (Pièce 1-4) totalisaient 130 906,54 $. Le ministre a tenu compte de cet écart de 18 000,03 $ pour établir les ventes de l'appelant pendant cette année d'imposition.
+[9] Pour l'année d'imposition 1999, le ministre a établi que les dépôts nets de l'appelant totalisaient 103 215,33 $. Pour établir les ventes pendant cette année, le ministre a apporté les ajustements suivants :
+a) il a d'abord soustrait des dépôts nets les montants suivants :
+i) 54 660,00 $ au titre des revenus bruts déclarés par l'appelant dans cette année (Pièce 1-5);
+ii) 3 862,19 $ au titre de la TPS déclarée par l'appelant dans cette année;
+iii) 3 256,88 $ au titre de la TVQ déclarée par l'appelant dans cette année.
+b) il a ajouté aux dépôts nets la somme de 20 000,00 $ au titre des dépenses personnelles effectuées par l'appelant en argent comptant qui ne provenaient pas des comptes de banque de l'appelant. Cette dépense personnelle était liée au paiement par l'appelant d'une amende de 20 000,00$ qui lui avait été imposée pour avoir été reconnu coupable de vol de véhicules.
+[10] Enfin, pour l'année d'imposition 2000, le ministre a établi que les dépôts nets de l'appelant totalisaient 98 831,04 $. Pour établir les ventes de l'appelant pendant cette année, le ministre a apporté les ajustements suivants :
+a) il a d'abord soustrait des dépôts nets la somme de 7 540 $ au titre des revenus bruts déclarés par l'appelant dans cette année (Pièce 1-6);
+b) il a ensuite ajouté aux dépôts nets la somme de 8 500 $ au titre des achats effectués par l'appelant dans le cadre de l'exploitation de son entreprise, achats payés en argent comptant qui ne provenaient pas de son compte de banque.
+[11] Le ministre a ainsi établi les ventes de l'appelant dans le cadre de l'exploitation de son entreprise pendant la période pertinente à 234 732,35 $, 54 394,63 $, 49 010,42 $, 61 536,26 $ et 99 791,04 $ pour les années 1997, 1998, 1999 et 2000 respectivement.
+[12] Après avoir établi que les ventes totales de l'appelant dans le cadre de l'exploitation de son entreprise étaient de 234 732,35 $ pendant la période pertinente, le ministre a établi à 16 431,26 $ le montant total de TPS que l'appelant était tenu de percevoir sur le montant total des fournitures taxables.
+[13] À partir de la vérification des encaissements bancaires de l'appelant, le ministre a pu constater que des achats avaient été effectués par l'appelant dans le cadre de l'exploitation de son entreprise lesquels achats donnaient droit à des crédits de taxe sur les intrants ( « CTI » ). Ainsi, du montant de 16 431,26 $ montants total de TPS que l'appelant était tenu de percevoir sur le montant total des fournitures taxables pour la période pertinente, le ministre a soustrait une somme de 2 337,71 $ qu'il a accordée à titre de CTI. Le montant des ajustements apportés à la taxe nette déclarée fût donc établi au montant de 14 197,55 $, soit 16 431,26 $ desquels une somme de 2 233,71 $ fût soustraite, et c'est le montant qui a été cotisé. Selon le ministre, l'appelant serait donc redevable du montant des ajustements apportés à sa taxe nette déclarée pour la période pertinente, plus les intérêts (2 880,54 $) et les pénalités (6 383,90 $).
+[14] Voici les questions soulevées dans le présent litige :
+i) l'appelant a-t-il refuté la cotisation de TPS établie par le ministre?
+ii) l'appelant a-t-il droit de recevoir des CTI supplémentaires?
+iii) le ministre a-t-il établi les pénalités et les intérêts conformément aux articles 280 et 285 de la Loi?
+Preuve de l'appelant
+[15] La preuve de l'appelant reposait essentiellement sur son témoignage ainsi que sur le rapport et le témoignage de l'expert de l'appelant, monsieur Gérard Côté, C.G.A.
+Témoignage de l'appelant
+[16] La mémoire de l'appelant était défaillante et son témoignage peu crédible nous a appris peu de choses pertinentes, si ce n'est que la plupart des pièces justificatives liées à l'exploitation de son entreprise auraient été détruites lors de l'inondation de sa résidence. Il convient de souligner que l'appelant ne nous a rien appris quant aux circonstances liées à l'inondation de sa résidence. L'appelant n'a même pas cru bon de préciser la date de l'inondation. L'appelant aurait pu produire en preuve des documents liés à l'inondation, notamment une preuve de réclamation auprès de ses assureurs démontrant que l'inondation a eu lieu. Il ne l'a pas fait. L'appelant aurait pu appuyer ses allégations à l'égard de l'inondation en faisant témoigner des personnes indépendantes et crédibles. Il ne l'a pas fait. J'en conclus que cette preuve lui aurait été défavorable.
+[17] L'appelant a déposé en preuve le rapport de son expert, monsieur Gérard Côté, C.G.A., produit sous les cotes A-1 et A-2. Ce dernier a témoigné qu'il avait obtenu des renseignements de la Société d'assurance automobile du Québec ( « SAAQ » ) qui démontreraient que l'appelant et sa conjointe avaient effectué pendant la période pertinente les opérations suivantes :
+a) Achats de véhicules automobiles
+Par l'appelant
+Par la conjointe
+1997
+14
+1998
+41
+1
+1999
+10
+7
+2000
+7
+14
+Total
+72
+22
+b) Ventes de véhicules automobiles par l'appelant et sa conjointe
+1997
+17
+1998
+39
+1999
+14
+2000
+5
+Total
+75
+[18] Monsieur Côté a témoigné que l'appelant avait 5 véhicules automobiles en inventaire à la fin de la période pertinente et qu'il avait aussi conservé 23 véhicules automobiles pour la récupération de pneus.
+[19] Monsieur Côté a témoigné que le ministre aurait dû établir le prix de vente des 75 véhicules automobiles en question et le coût des 103 véhicules automobiles en question à partir des valeurs utilisées par la Société d'assurance automobile du Québec ( « SAAQ » ) pour déterminer les droits d'immatriculation, lesquels proviennent du Guide d'évaluation des automobiles et des camions légers publié par Hebdo Mag inc. (le « Guide » ). Monsieur Côté a précisé que la SAAQ établissait la valeur d'un véhicule d'occasion selon le plus élevé des deux montants suivants :
+i) le prix d'achat;
+ii) le prix de vente moyen en gros tel qu'il appert au Guide.
+[20] Monsieur Côté a indiqué lors de son témoignage que, si le ministre avait utilisé une telle méthode :
+a) les fournitures taxables de l'appelant auraient été de :
+i) 82 700 $ en 1997;
+ii) 274 107 $ en 1998;
+iii) 119 375 $ en 1999; et
+iv) 42 300 $ en 2000.
+b) les achats auraient totalisé :
+i) 51 200 $ en 1997;
+ii) 259 702 $ en 1998;
+iii) 64 315 $ en 1999;
+iv) 22 650 $ en 2000.
+[21] Monsieur Côté a estimé les coûts d'exploitation de l'entreprise de l'appelant à 15% de la valeur de ses achats, soit 7 680 $, 38 955 $, 9 647 $ et 3 397 $ pour les années 1997, 1998, 1999 et 2000 respectivement.
+[22] Monsieur Côté a estimé les frais de vente liés à l'exploitation de l'entreprise par l'appelant à 5% du coût de ses ventes, soit 4 135 $, 13 705 $, 5 968 $ et 2 115 $ pour les années 1997, 1998, 1999 et 2000 respectivement.
+[23] Monsieur Côté a ainsi établi le calcul de la taxe nette de l'appelant pour la période pertinente :
+1997
+1998
+1999
+2000
+Fournitures taxables
+82 700,00 $
+274 107,00 $
+119 375,00 $
+42 300,00 $
+Achats de véhicules
+51 200,00 $
+259 702,00 $
+64 315,00 $
+397 867,00 $
+Frais d'exploitation
+(15% des achats)
+7 680,00 $
+38 955,30 $
+9 647,25 $
+59 680,05 $
+Frais de vente
+(5% des ventes)
+4 135,00$
+13 705,35 $
+5 968,75 $
+25 924,10 $
+Total
+63 015,00 $
+312 362,65 $
+79 931,00 $
+483 471,15 $
+Taxe exigible
+1997
+1998
+1999
+2000
+TPS
+5 789,00 $
+19 187,49 $
+8 356,25 $
+2 961,00 $
+Crédits de taxe sur les intrants
+4 411,05 $
+21 865,39 $
+5 595,17 $
+1 971,38 $
+TPS à verser
+1 377,95 $
+(2 127,90 $)
+2 761,08 $
+989,63 $
+Analyse et conclusion
+[24] Le paragraphe 286(1) de la Loi énonce l'obligation de toute pesonne qui exploite une entreprise de tenir des registres suffisants pour permettre au ministre de déterminer les obligations, les responsabilités et les droits de cette personne en vertu de la Partie IX. Si les renseignements exigés ne sont pas adéquats ou disponibles, la Loi précise, au paragraphe 299(1), que le ministre n'est pas lié par les déclarations et peut établir sa propre cotisation. Comme les renseignements exigés n'étaient pas adéquats ou disponibles, le vérificateur, en dernier recours, a utilisé la méthode des dépôts bancaires pour établir les ventes de l'appelant liées à l'exploitation de son entreprise pendant la période pertinente en y apportant les ajustements nécessaires. Dans ces circonstances, cette approche était acceptable même nécessaire.
+[25] En l'espèce, l'appelant devait démontrer selon la prépondérance de probabilités, que les chiffres du ministre étaient erronés, et ce, par le biais de documents et de pièces justificatives ou encore par le témoignage de personnes indépendantes et crédibles. Il appartient au contribuable d'établir, selon la prépondérance des probabilités, que la cotisation est trop élevée en regard du droit applicable et des faits pertinents. Il ne suffit pas que le contribuable démontre qu'il est concevable que la cotisation est trop élevée. Le contribuable ne peut utiliser une autre méthode tout aussi arbitraire pour démontrer que le montant de la taxe nette établi par le ministre était trop élevé. D'ailleurs, je note que le montant des ventes établi par l'expert de l'appelant dépasse celui des ventes établi par le ministre par la méthode des dépôts bancaires, à laquelle il a apporté certains ajustements.
+[26] Pour établir la taxe nette de l'appelant, monsieur Côté a calculé les crédits de taxe sur les intrants au moyen d'une méthode purement arbitraire. Je rappelle que monsieur Côté a établi les CTI de l'appelant à partir du coût des achats de véhicules automobiles, soit du prix de vente moyen en gros tel qu'il appert au Guide des frais estimés d'exploitation de l'entreprise et des frais estimés de vente liés à l'exploitation de l'entreprise à partir d'une méthode toute aussi arbitraire et non pas à partir de pièces justificatives.
+[27] En vertu du paragraphe 169(1) de la Loi, les inscrits aux fins de la TPS qui font des fournitures taxables ont le droit de recevoir des CTI sur les achats de biens ou de services destinés à être utilisés dans le cadre de leurs activités commerciales. Ces demandes sont calculées sur une base d'auto-évaluation. L'alinéa 169(4)a) de la Loi exige des inscrits qu'ils obtiennent suffisamment de renseignements pour déterminer le montant des CTI pouvant être accordés avant de produire leurs déclarations. L'article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVQ) de la Loi (le « Règlement » ) prévoit la preuve nécessaire alors que le concept de pièces justificatives est défini à l'article 2 de la façon suivante :
+« Pièces justificatives » Document qui contient les renseignements exigés à l'article 3, notamment :
+a) une facture;
+b) un reçu;
+c) un bordereau de carte de crédit;
+d) une note de débit;
+e) un livre ou registre de comptabilité;
+f) une convention ou un contrat écrits;
+g) tout registre faisant partie d'un système de recherche documentaire informatisé ou électronique ou d'une banque de données;
+h) tout autre document signé ou délivré en bonne et due forme par un inscrit pour une fourniture qu'il a effectuée et à l'égard de laquelle il y a une taxe payée ou payable. (supporting documentation)
+[28] Le paragraphe 169(4) de la Loi et le Règlement sont clairs et les tribunaux ont adopté une position selon laquelle un inscrit n'a pas le droit de recevoir les CTI demandés avant d'avoir produit les pièces justificatives exigées. En l'espèce, l'appelant n'a pas déposé en preuve les pièces justificatives exigées et, par conséquent, il n'avait pas le droit de recevoir les CTI demandés.
+[29] Quant aux intérêts payables par l'appelant en application de l'article 280 de la Loi, je soulignerai tout simplement que le pouvoir de les annuler ne peut être exercé que par le ministre en vertu des dispositions de l'article 281.1 de la Loi et n'est pas sujet au contrôle de cette Cour.
+[30] Pour établir les pénalités applicables à l'appelant, le ministre s'est notamment fondé sur le paragraphe 280(1) de la Loi, qui prévoit ceci :
+280(1) Sous réserve du présent article et de l'article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l'expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6 % par année;
+b) des intérêts au taux réglementaire.
+[31] Les pénalités imposées en vertu de ce paragraphe tombent dans la catégorie des infractions de responsabilité stricte et peuvent être remises en cause si le contribuable a fait preuve de diligence raisonnable. La reconnaissance implicite du moyen de défense de la diligence raisonnable à l'égard de l'article 280 fait peser à l'inscrit la charge de prouver qu'il a fait preuve de diligence raisonnable en ce qui concerne le versement du montant correct de la TPS. En l'espèce, l'appelant n'a soumis aucune preuve à cet égard.
+[32] Quant à la pénalité imposée en vertu de l'article 285 de la Loi, je suis d'avis que l'intimée est celle à qui incombait le fardeau de la preuve de démontrer, selon la prépondérance des probabilités, que l'appelant a, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans ses déclarations de TPS et qu'ainsi l'imposition de la pénalité prévue à cet article 285 de la Loi était justifiée.
+[33] Je souligne à cet égard que la preuve a révélé que :
+i) madame Lise Tétrault avait avisé l'appelant le 13 janvier 1999 (Pièce 1-8) qu'il était nécessaire d'avoir un compte de banque détenu pour son entreprise et qu'il devait faire des factures pour chaque véhicule automobile vendu, avis qu'il n'a pas respecté;
+ii) l'appelant n'a tenu aucun registre pour les années 1997 et 2000 alors qu'il en avait tenu un pour les années 1998 et 1999;
+iii) l'appelant a produit un formulaire (Pièce 1-7) signé le 30 avril 2000 à l'effet qu'il avait cessé ses activités le 31 décembre 1999 alors que sa déclaration de revenu produite pour son année d'imposition 2000 indiquait que son revenu brut d'entreprise était de 7 540 $;
+iv) la déclaration de revenu produite par l'appelant pour son année d'imposition 1997 indiquait qu'il n'avait exploité aucune entreprise alors que la preuve en l'espèce a très clairement démontré le contraire;
+v) l'appelant n'avait pratiquement conservé aucune documentation justifiant le montant de TPS qu'il payait et les crédits de taxe sur les intrants qu'il demandait.
+[34] Ce sont là des éléments largement suffisants pour conclure que l'appelant a sciemment fait de faux énoncés pour les années visées par le présent appel.
+[35] Pour ces motifs, l'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 19ième jour de février 2007.
+« Paul Bédard »
+Juge Bédard
+ANNEXE A
+Bobby Lee Baker
+Analyse par la méthode des dépôts bancaires
+1997
+1998
+1999
+2000
+Dépôts folio11485 Caisse populaire de Valcourt (Annexe 1 à 4)
+55 666,63 $
+200 010,45 $
+103 215,33 $
+98 831,04 $
+Soustraire :
+Revenus d'emplois déclarés
+1 272,00 $
+Revenus bruts déclarés
+130 906,54 $
+54 560,00 $
+7 540,00 $
+TPS déclarée
+2 093,46 $
+3 862,19 $
+TVQ déclarée
+3 256,88 $
+Ajouter :
+Achats effectués en argent
+8 500,00 $
+Dépenses personnelles payées en argent (Amende)
+20 000,00 $
+Revenus non déclarés
+54 394,63 $
+67 010,45 $
+61 536,26 $
+99 791,04 $
+Achats accordés (Annexe 5)
+31 910,12 $
+Revenu net non déclaré
+54 394,63 $
+67 010,45 $
+61 536,26 $
+67 880,92 $
+Bobby Lee Baker
+Taxes
+1997
+1998*
+1999
+2000
+Revenus additionnels
+54 394,63 $
+49 010,42 $
+61 536,26 $
+99 791,04 $
+Petit fournisseur
+-30 000,00 $
+Sous total
+24 394,63 $
+49 010,42 $
+61 536,26 $
+99 791,04 $
+TPS (7%)
+1 707, 62 $
+3 430,73 $
+4 307,54 $
+6 985,37 $
+Intrants sur les achats (CTI)
+2 333,71 $
+TVQ (6,5%)
+1 696,65 $
+TVQ (7,5%)
+3 933,09 $
+4 938,28 $
+8 008,23 $
+Intrants sur les achats (RTI)
+1 019,21 $
+* Revenus additionnels pour l'année 1998
+Ventes pour lesquelles les
+taxes ont été remises 148 906,57 $
+TPS remise 10 423,46 $
+Ventes déclarées 130 906,54 $
+Ventes non déclarées 67 010,45 $
+Ventes non déclarées
+pour lesquelles les taxes C - (A - B)
+n'ont pas été remises
+67 010,45 $ - (148 906,57 $ - 130 906,54 $)
+Ventes taxables 49 010,42 $
+RÉFÉRENCE : 2007CCI106
+N º DU DOSSIER DE LA COUR : 2005-938(GST)G
+INTITULÉ DE LA CAUSE : BOBBY LEE BAKER ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Sherbrooke (Québec)
+DATE DE L'AUDIENCE : le 1er novembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 19 février 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Robert Jodoin
+Avocat de l'intimée :
+Me Mario Laprise
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Robert Jodoin
+Étude : JODOIN HUPPÉ AVOCATS, s.e.n.c.
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir Pièce 1-11
+[2] Voir Pièce 1-3
+[3] Voir Pièce 1-4
+[4] Voir Pièce 1-5
+[5] Voir Pièce 1-6
+[6] Voir l'analyse des dépôts bancaires à la Pièce 1-2

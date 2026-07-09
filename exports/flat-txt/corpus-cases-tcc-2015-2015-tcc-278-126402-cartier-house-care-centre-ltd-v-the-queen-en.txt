@@ -1,0 +1,257 @@
+Title: Cartier House Care Centre Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/126402/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-278-126402-cartier-house-care-centre-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-11-05
+
+# Cartier House Care Centre Ltd. v. The Queen
+
+- Citation: 2015 TCC 278
+- Decision date: 2015-11-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2677, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cartier House Care Centre Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-11-05
+Neutral citation
+2015 TCC 278
+File numbers
+2011-3420(GST)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-3419(GST)G
+BETWEEN:
+COURTYARD TERRACE ASSISTED LIVING RESIDENCE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of Cartier House Care Centre Ltd. 2011-3420(GST)G on December 10 and 11, 2014,
+at Vancouver, British Columbia.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Kimberley Cook
+Noah Sarna
+Counsel for the Respondent:
+Victor Caux
+Sara Fairbridge
+JUDGMENT
+The appeals from the assessments dated January 18, 2010 made under the Excise Tax Act for the periods of August 2, 2007 to October 31, 2007 and November 1, 2007 to June 30, 2009 is allowed in part, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of November 2015.
+“B.Paris”
+Paris J.
+Docket: 2011-3420(GST)G
+BETWEEN:
+CARTIER HOUSE CARE CENTRE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of Courtyard Terrace Assisted Living Residence Ltd. 2011-3419(GST)G
+on December 10 and 11, 2014,
+at Vancouver, British Columbia.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Kimberley Cook
+Noah Sarna
+Counsel for the Respondent:
+Victor Caux
+Sara Fairbridge
+JUDGMENT
+The appeals from the assessments dated January 18, 2010 made under the Excise Tax Act for the periods of August 1, 2007 to October 31, 2007 and November 1, 2007 to June 30, 2009 is allowed in part, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of November 2015.
+“B.Paris”
+Paris J.
+Citation: 2015 TCC 278
+Date: 20151105
+Dockets: 2011-3419(GST)G
+2011-3420(GST)G
+BETWEEN:
+COURTYARD TERRACE ASSISTED LIVING RESIDENCE LTD. and
+CARTIER HOUSE CARE CENTRE LTD.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] These appeals are from assessments under Part IX of the Excise Tax Act, R.S.C., 1985, c. E-15 (the “Act”) denying the appellants’ claims for refunds of GST paid in error. The reporting periods covered by the assessments against Courtyard Terrace Assisted Living Residence Ltd. (“CT”) are from August 2, 2007 to October 31, 2007 and from November 1, 2007 to June 30, 2009. The reporting periods covered by the assessments against Cartier House Care Centre Ltd. (“CH”) are from August 1, 2007 to October 31, 2007 and from November 1, 2007 to June 30, 2009.
+[2] Each appellant is a for-profit operator of a residence for seniors and each is a subsidiary of Park Place Senior Living Inc. (“Park Place.”)
+[3] The appellants are claiming refunds of GST paid in error on supplies of “homemaker services” provided by third-party contractors in the course of operating the residences. “Homemaker services” are exempt from GST pursuant to section 13 of Part II of Schedule V to the Act.
+[4] The amounts claimed by the appellants as GST paid in error are as follows:
+CT:
+August 2, 2007-October 31, 2007
+November 1, 2007-June 30, 2009
+$5,253.00
+$43,290.34
+CH:
+August 1, 2007-October 31, 2007
+November 1, 2007-June 30, 2009
+$13,051.00
+$82,362.52
+[5] The issues in these appeals are i) whether the services provided by the third-party contractors fall within the definition of “homemaker services” found in section 1 of Part II of Schedule V, and, if so, ii) whether certain of the remaining conditions for the exemption set out in section 13 of Part II of Schedule V have been met, and iii) whether certain non-exempt supplies made by the third party contractor to CH are incidental to a supply of exempt services.
+[6] The appeals were heard on common evidence. One witness, Mr. Rizwan Gehlen, Vice-President of Finance for Park Place, testified for the appellants.
+Facts [7] During the periods in issue, CH operated a 78 bed residential care home in Coquitlam, British Columbia known as Cartier House, and CT operated a 47 unit assisted living residence in Burnaby, British Columbia known as Courtyard Terrace.
+[8] Both assisted living and residential care facilities are regulated by the provincial government under the Community Care and Assisted Living Act, [SBC 2002] C. 75. Assisted‑living residences are required to register and residential care facilities must be licenced under that Act.
+[9] Individuals move to assisted living and residential care facilities because they are unable, due to age, infirmity or disability, to perform some or all of the activities of daily living on their own. Assisted living residences offer an intermediate step between home living and residential care and residents of assisted living facilities require fewer support services than those in residential care.
+[10] The units at Courtyard Terrace are made up of 36 bachelor suites and 11 one bedroom suites, all equipped with a kitchenette and an en-suite bathroom. There are also communal dining rooms where meals prepared by the staff are served, and a central lounge.
+[11] Cartier House provided private or semi-private furnished rooms to its residents, as well as communal dining rooms, an activity room, visiting lounges and patios.
+[12] Both CH and 639385 B.C. Ltd., (“639385”) a predecessor corporation to CT, entered into agreements with Fraser Health Authority (“FHA”) for the provision of certain services to residents living at Cartier House and Courtyard Terrace. The agreement between FHA and 639385 was entitled “Independent Living Agreement.” The agreement between FHA and CH was entitled “Service Contract and Provider Agreement for Residential Care Services” For ease of reference, I will refer to the agreement entered into between FHA and 639385 as the “FHA-CT Agreement” and the agreement between FHA and CH as the “FHA-CH Agreement.”
+[13] FHA is a regional health authority that was created pursuant to the B.C. Health Authorities Act, [RSBC 1996] C.180. FHA is responsible for the management of health care services in the region where the residences operated by the appellants are located.
+[14] As part of its mandate, FHA is authorized by the B.C. Minister of Health to enter into agreements with private operators to deliver services under the British Columbia Continuing Care Program. The agreements entered into with CH and CT were entered into under this authority. Those agreements fall under the British Columbia Continuing Care Act, [RSBC 1996] C.70, which prescribes certain health care services provided to persons with a frailty, acute or chronic illness or disability to be “continuing care.” Both “continuing care residential services” and “assisted living services” are prescribed as services to be provided under the Continuing Care Program.
+Courtyard Terrace [15] The FHA-CT Agreement was entered into on July 6, 2005 and provided that FHA would fund the delivery of personal support services and health services to 40 of the 47 residents of Courtyard Terrace. I will refer to the 40 residents covered by the Agreement as the “funded residents” and the remaining 7 private-pay residents as the “unfunded residents” . The admission of the funded residents to Courtyard Terrace was determined solely by FHA.
+[16] The FHA-CT Agreement sets out that CT would provide accommodation as well as “Hospitality Services” and “Health Services” to the funded residents and that FHA would fund the “Health Services” provided by CT to those residents. According to the definition of the term “Hospitality Services” in the Agreement, the Hospitality Services were not funded by FHA.
+[17] “Health Services” were defined in the Agreement as follows:
+“Health Services” means the services funded by FHA and provided to Tenants by the Independent Living Provider, including personal support, security, health assessment, medication management and social support, as more particularly identified in Schedule A;
+[18] “Hospitality Services” were defined as follows:
+“Hospitality Services” means the services not funded by FHA and provided by the Independent Living Provider to Tenants including social and recreational programs, meals, laundry, homemaking and related services, as more particularly described in Schedule A, Part 2;
+[19] The Health Services included assistance to funded residents with the activities of daily living including bathing, dressing, grooming, transferring, skin, nail and mouth care, feeding, washroom and medication assistance and incontinence management, emotional and social support, safety and emergency response assistance, and laundry of personal clothing if the residents were unable to do it.
+[20] The Hospitality Services included two meals per day, snacks and beverages, weekly laundry of bedding and towels and weekly housekeeping services within the resident’s unit. Housekeeping consisted of short daily cleaning and a more thorough weekly cleaning of the residents’ rooms.
+[21] FHA funded the Health Services that were provided under the FHA-CT Agreement based on a set number of “direct care hours” per funded resident per day. CT was required to provide quarterly reports to FHA showing the direct care hours provided to the funded residents. Those reports set out the number of workers providing the services and the hours they worked and divided the total hours by the number of funded residents and days to arrive at the direct care hours per resident per day.
+[22] CT was permitted to charge a “Base Rent” for the accommodation and the Hospitality Services and was required to obtain a monthly contribution from each funded resident equal to 70% of the resident’s after-tax income to a maximum of the Base Rent. CT was also required to obtain a rent subsidy for each low or moderate income funded resident of Courtyard Terrace from BC Housing.
+[23] Section 6.5 of the FHA-CT Agreement provided that if the amount of the resident contribution plus the BC Housing rent subsidy was less than the amount of the Base Rent, FHA would be required to pay CT the amount of the shortfall.
+[24] According to summaries prepared by CT, for 13 out of the 40 funded residents the monthly resident contribution combined with the BC Housing rent subsidy received was less than the Base Rent charged for that resident’s unit. Pursuant to the FHA-CT Agreement, this shortfall was made up by FHA. Therefore, while the FHA-CT Agreement provided that FHA would not fund the Hospitality Services for the residents, FHA was in fact funding a portion of those Hospitality Services for certain of the funded residents.
+[25] The FHA-CT Agreement provided that CT could use its own employees or independent contractors to provide the services to the residents of Courtyard Terrace.
+[26] All of the services provided by CT to the residents of Courtyard Terrace were performed by workers employed by Simpe “Q” Care Inc. (“SimpeQ”). Under an agreement between CT and SimpeQ dated February 28, 2006, SimpeQ agreed to provide care services, hospitality services and housekeeping services at Courtyard Terrace. The care services that SimpeQ provided were performed by home support workers, and Mr. Gehlen estimated that the home support workers spent about 85% of their time on those services. The remainder of their time was spent on the laundry and housekeeping services.
+[27] SimpeQ invoiced CT and charged GST on the services provided to CT. CT subsequently filed claims with the Minister for a rebate of tax paid in error.
+Cartier House [28] Under the FHA-CH Agreement, entered into on August 7, 2003, CH agreed to provide residential care services to 78 residents of Cartier House selected by FHA, and FHA agreed to provide funding for those services.
+[29] The residential care services provided to residents of Cartier House consisted of assistance with the activities of daily living including bathing, dressing, grooming, transferring, skin, nail and mouth care, meal preparation and feeding, washroom and medication assistance and incontinence management, emotional and social support, safety and emergency response assistance, laundry, housekeeping and assistance with treatments and medications.
+[30] The FHA funding for the residential care services provided by CH at Cartier House was determined annually and set out in a funding letter to CH. The funding of the services by FHA was based on a minimum number of direct care hours to be provided by CH. For the year ending March 31, 2008 CH provided approximately 2.32 hours of direct care per day to residents of Cartier House. For the year ending March 21, 2009 this figure was approximately 2.39 hours.
+[31] The residents of Cartier House were required to contribute to the cost of their care to a maximum of 80% of their after-tax income. The amount of their contribution was determined by FHA, collected by CH and deducted from the amounts to be paid by FHA.
+[32] The FHA-CH Agreement permitted CH to use contract staff or employees to provide the services. During the relevant periods, CH contracted with Health and Recreational Personnel Services Inc. (“HARPS”) to provide care aide services, housekeeping and laundry services and activity aide services at Cartier House. HARPS invoiced CH and charged GST on those services. CT subsequently filed claims with the Minister for a rebate of tax paid in error.
+[33] Generally speaking, the care aides performed all of the personal care services, which made up the bulk of the residential care paid for by FHA. The evidence showed that approximately 1.8 hours per day per resident were spent by the care aides performing the personal care services. The remainder of the direct care hours were performed by the housekeeping, laundry and activity aides. The housekeeping aides performed housekeeping in the residents’ rooms as well as common areas and nursing stations and offices. The laundry aides collected laundry from residents’ rooms, laundered it and returned it, and laundered linens used elsewhere in the facility, and the activity aides organized and animated social activities for the residents.
+Applicable Legislation [34] Section 165 of the Act imposes GST on “taxable supply.” The term “taxable supply” is defined in subsection 123(1) of the Act as a supply made in the course of commercial activity.
+[35] The definition of “commercial activity” in subsection 123(1) excludes the making of “exempt supplies,” which are those supplies set out in Schedule V to the Act. Part II of Schedule V exempts healthcare services. Section 13 of Part II of Schedule V exempts certain homemaker services.
+[36] Section 13 of Part II of Schedule V read as follows for the periods in issue:
+13. A supply of a homemaker service that is rendered to an individual in the individual’s place of residence, whether the recipient of the supply is the individual or any other person, where
+(a) the supplier is a government or municipality;
+(b) a government, municipality or organization administering a government or municipal program in respect of homemaker services pays an amount
+(i) to the supplier in respect of the supply, or
+(ii) to any person for the purpose of the acquisition of the service;
+or
+(c) another supply of a homemaker service rendered to the individual is made in the circumstances described in paragraph (a) or (b).
+[37] At the relevant time, “homemaker service” was defined in section 1 of Part II of Schedule V as follows:
+“homemaker service” means a household or personal service, such as cleaning, laundering, meal preparation and child care, that is rendered to an individual who, due to age, infirmity or disability, requires assistance.
+[38] Section 138 of the Act deems certain incidental supplies of property or services to form part of the dominant supply of property or services:
+138. For the purposes of this Part, where
+(a) a particular property or service is supplied together with any other property or service for a single consideration, and
+(b) it may reasonably be regarded that the provision of the other property or service is incidental to the provision of the particular property or service,
+the other property or service shall be deemed to form part of the particular property or service so supplied.
+[39] A rebate for tax paid in error is available under subsection 261(1) of the Act:
+261.(1)Where a person has paid an amount
+(a) as or on account of, or
+(b) that was taken into account as,
+tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) and (3), pay a rebate of that amount to the person.
+Issues 1) Did the services performed by the workers of SimpeQ and HARPS at Courtyard Terrace and Cartier House fall within the definition of “homemaking services” found in in section 1 of Part II of Schedule V to the Act?
+2) Were the supplies made by SimpeQ to CT and by HARPS to CH supplies of personnel services rather than supplies of “homemaking services”?
+3) Were the services supplied by SimpeQ and HARPS rendered to the residents of Courtyard Terrace and Cartier House in their place of residence?
+4) Was FHA administering a program in respect of homemaker services?
+5) Were the amounts paid by FHA to CT and CH paid for the purpose of acquiring the services supplied by SimpeQ and HARPS?
+6) Was the supply of the activity aide services by HARPS to CH deemed by section 138 of the Act to form part of the supply of care aide services by HARPS to CH?
+Meaning of “Homemaker Services” [40] The respondent argues that the ordinary meaning of the phrase “homemaker service” would be “a service that would assist someone with the domestic tasks of running a household”. She relies on the definition of the word “homemaker” found in the Oxford English Dictionary, 3rd ed. (Oxford University Press, 2014):
+1. A person who runs his or her own household; one skilled at domestic tasks; a housewife or househusband.
+2. N. Amer. A person employed to assist (esp. a sick, elderly; or disabled person) with domestic tasks. Also (and in earliest use) attrib., as homemaker service, etc.
+[41] The respondent submits that the reference to “personal services” in the definition of “homemaker service” would not include the type of personal care and health services performed by SimpeQ and HARPS workers which made up the bulk of the supplies in issue. Counsel says that according to the noscitur a sociis rule of statutory interpretation, the term “personal service” would be restricted to services similar in nature to the examples set out in the definition: cleaning, laundering, meal preparation and child care. The noscitur a sociis rule of interpretation provides that the meaning of a word in a statute may be determined by reference to associated words in the statute.
+[42] The respondent also submits that a recent amendment to Part II of Schedule V, which replaced the term “homemaker service” in section 13 with the term “home care service” and the corresponding addition of the definition of “home care service” to section 1, had the effect of broadening the application of section 13 to cover the personal care services like those supplied by SimpeQ and HARPS in these cases. The definition of “home care services” in section 1 of Part II of Schedule V reads:
+A household or personal care service, such as bathing, feeding, assistance with dressing or medication, cleaning, laundering, meal preparation and child care.
+[43] Counsel states that the clear effect of these changes was to expand the type of services qualifying for exemption from GST, as stated in the government document entitled “Economic Action Plan 2013”:
+The fact that the Act was specifically amended to expand the exemption to include such services as bathing, feeding and assistance with dressing and medication clearly indicates that these services were not exempt prior to the amendment.
+[44] The issue here is the meaning to be given to the term “personal service” found in the definition of “homemaker service.”
+[45] The rules governing the interpretation of tax statutes were set out by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. The Queen, 2005 SCC 54 at paragraph 10:
+It has been long established as a matter of statutory interpretation that "the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament": see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words plays a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[46] In my view, the plain and ordinary meaning of “personal service” would clearly encompass such services assistance with the activities of daily living such as were provided to the residents of Courtyard Terrace and Cartier House, due to their age, infirmity or disability. In fact, there is little that I can think of as more personal than those services. I find there is little ambiguity in the words “personal service” and that the ordinary meaning of those words must therefore play a dominant role in their interpretation.
+[47] I reject the respondent’s submission that meaning of the term “personal service” in the definition of “homemaker service” is restricted to services similar in nature to the examples that follow the term “household or personal service” in the definition. The use of specific examples after a general term in legislation does not restrict the meaning of the general term to cases similar to the specific examples. Rather, the presumption is that, in using the specific examples, Parliament intended to extend the meaning of the general term to things that would ordinarily have been seen as not falling within the general term. This principle of interpretation was discussed by the Supreme Court of Canada in National Bank of Greece v. Katsikonouris, [1990] 2 SCR 1029 at paragraphs 12 and 14:
+…Whatever the particular document one is construing, when one finds a clause that sets out a list of specific words followed by a general term, it will normally be appropriate to limit the general term to the genus of the narrow enumeration that precedes it. But it would be illogical to proceed in the same manner when a general term precedes an enumeration of specific examples. In this situation, it is logical to infer that the purpose of providing specific examples from within a broad general category is to remove any ambiguity as to whether those examples are in fact included in the category. It would defeat the intention of the person drafting the document if one were to view the specific illustrations as an exhaustive definition of the larger category of which they form a part…
+. . .
+As I have noted, the natural inference is that the drafter will provide a specific illustration of a subset of a given category of things in order to make it clear that that category extends to things that might otherwise be expected to fall outside it.
+[48] In my view, the noscitur a sociis rule is inapplicable in this case because it is normally applied when interpreting terms in a list: R. v. Daoust, 2004 SCC 6 at paragraph 60. Here, the words “personal service” are general words that are part of the term “household or personal service” which is followed by a list of examples. The term “household or personal service” is not part of the list of examples that follow that term.
+[49] In Daoust, the Supreme Court also found that the use of the word “or” to separate two terms in a statute indicated Parliament’s intent to distinguish the two terms, and that the noscitur a sociis rule was not applicable in that case. The Court said at paragraph 61:
+In the present case, the words “conceal” and “convert” are not part of a list. On the contrary, they are two distinct terms with distinct meanings. This is demonstrated by Parliament’s use of the expression “with intent to conceal or convert”, as the use of the word “or” shows an intent to distinguish the two terms from each other. For this reason, these two terms should not be read together, and the noscitur a sociis rule does not apply.
+[50] Here, the use of the word “or” between “household” and “personal” in the term “household or personal service” supports the view that Parliament intended to distinguish between household services and personal services and intended to include services beyond those ordinarily considered household services.
+[51] The fact that the exemption for homemaker services falls within Part II of Schedule V, which deals with health care services, is further contextual support for the conclusion that assistance provided to elderly or infirm persons with the activities of daily living would be included in the concept of “personal service.” It would also support the conclusion that the examples used in the definition of “homemaker service” –cleaning, laundering, meal preparation and child care – are included because they might not be otherwise thought of as health care services.
+[52] In so far as the exemption falls within Part II of Schedule V, it would also appear that the purpose of section 13 is to exempt personal services in the nature of health services such as assistance with the activities of daily living as well as household services.
+[53] Given my conclusion regarding the plain meaning of the words “personal service”, I attribute little interpretive weight to the subsequent amendment of section 13 of Part II to Schedule V or to the material in the “Economic Action Plan 2013” document cited by counsel. I agree with the following observations of Bowie, J. in Glaxo Wellcome Inc. v. The Queen, [1996] DTC 1159, affd [1998] 6638 (at page 1162) regarding the use of extrinsic materials in statutory interpretation:
+One must bear in mind that it is Parliament that passes legislation, and it is through the words of that legislation that Parliament speaks. An act of Parliament represents the collective will of Parliament. One cannot be certain that the same can be said of extrinsic materials. To attempt to determine the intent of a statutory provision by reference to a speech delivered by a member of the government, a speech that he or she may well not have written, or by technical or explanatory notes prepared by officials of the Department of Finance, or other budgetary materials, strikes me as a potentially dangerous course of action. Where a court strains to assign to reasonably comprehensible language an extended meaning that conforms to what it conceives, on the basis of extrinsic materials, to be what Parliament was seeking to achieve it runs the risk of crossing the line that separates the judicial from the legislative function.
+[54] I find that the interpretation proposed by the appellants is more consonant with the text, context and purpose of the definition of “homemaker service”.
+Did SimpeQ and HARPS supply homemaker services or personnel services to the appellants?
+[55] The respondent’s next argument was that the supplies made by SimpeQ to CT and by HARPS to CH were supplies of personnel or general staffing services rather than of homemaking services.
+[56] This submission however, is not supported by the evidence before me. The contracts between SimpeQ and CT and between HARPS and CH clearly provide for the supply of services including care services, hospitality services and housekeeping services. There is also the uncontradicted evidence of Mr. Gehlen that these services were provided by SimpeQ and HARPS. The respondent’s attempt to recharacterize the supplies as supplies of personnel services is therefore unfounded.
+Were the services rendered to individuals in their place of residence?
+[57] The opening wording of section 13 of Part II require that the homemaker services be rendered to an individual in the individual’s place of residence. The respondent admits that Courtyard Terrace and Cartier House were the sole place of residence of their residents, but argues that the services in issue were rendered in each of those facilities “as a whole”, while the place of residence of the residents was restricted to their individual suites in the case of Courtyard Terrace or to their rooms in the case of Cartier House.
+[58] Once again, there is little basis in the evidence on which to limit the spatial bounds of the residents’ residence as suggested by the respondent. The area beyond the units or rooms were either common areas for all residents and used exclusively by them as living space in the ordinary course of residing in Courtyard Terrace or Cartier House, or were areas such as kitchens, laundries or offices that were used entirely and directly to support and maintain the everyday needs and activities of the residents in using Courtyard Terrace or Cartier House as their place of residence. As I understood the evidence, both Courtyard Terrace and Cartier House were used solely as places of residence for the residents. Therefore, it seems artificial to distinguish between the residents’ units or rooms and the remainder of the premises when determining their place of residence.
+[59] I find, therefore, that the services in issue were provided to the residents in their place of residence, regardless of whether they were provided inside their units or rooms or in the other areas of the premises.
+Was FHA administering a program in respect of homemaker services?
+[60] Section 13 of Part II of Schedule V provides that in order for a supply of homemaker services to be exempt, the supplier of the services must be a government or municipality (paragraph 13(a)), or that a government, municipality or organization administering a program in respect of homemaker services pay an amount to the supplier (subparagraph 13(b)(i)) or that a government, municipality or organization administering a program in respect of homemaker services pay an amount to any person for the purpose of acquiring the homemaker services (subparagraph 13(b)(ii)).
+[61] Paragraph 13(a) is not applicable here because neither SimpeQ nor HARPS, the suppliers of the homemaker services, was a government or municipality. Subparagraph 13(b)(i) is not applicable because the payments for the supplies were made by CT and CH, neither of which was a government, municipality or organization administering a program in respect of homemaker services.
+[62] The respondent takes the position that the conditions in subparagraph 13(1)(b)(ii) are not met either, because FHA was not administering a program in respect of homemaker services and because the amounts paid to the appellants by FHA were not paid for the purpose of acquiring homemaker services.
+[63] The respondent maintains that the program operated by FHA under which payments were made to CT and CH was a program to provide health services and not homemaker services.
+[64] The respondent’s argument turns largely on the narrow interpretation of the term “homemaker service” which I have already rejected. Having concluded that the personal care services provided by CT and CH to the residents of Courtyard Terrace and Cartier House were “personal services” that fell within the definition of “homemaker services,” it would follow that the program pursuant to which FHA paid for those personal care services, i.e. the B.C. Continuing Care Program, would be a program “in respect of homemaker services.”
+[65] In my view, subparagraph 13(1)(b)(ii) does not require that the sole purpose of the program under which funding is provided be to fund homemaker services. In Nowegijik v. The Queen, [1983] 1 S.C.R. 29, the Supreme Court of Canada held at page 39 of that decision that the words “in respect of” were “words of the widest possible scope” and that the phrase “in respect of” is probably the widest of any expression intended to convey some connection between two related matters.
+[66] It is only necessary, then, to show some connection between the B.C. Continuing Care program and the provision of the homemaker services by SimpeQ and HARPS. Since the personal care services at Courtyard Terrace and the residential care services at Cartier Home (which I have found to qualify as homemaker services) were funded as part of the Continuing Care Program administered in part by FHA, I find that FHA was administering a government program in respect of homemaker services.
+Did FHA pay amounts to CT and CH for the purpose of acquiring the homemaker services?
+[67] The respondent says that the amounts paid by FHA to CT and CH were not paid for the specific purpose of acquiring homemaker services. In the case of CT, counsel says that the purpose of the payments was to acquire the Health Services, which were not homemaker services, and in the case of CH, that the purpose was to have CH operate Cartier House.
+[68] Since I have already found that the Health Services were homemaker services, the respondent’s argument in respect of CT cannot succeed. Insofar as CH is concerned, the operation of Cartier House would include the provision of the residential care services and therefore the payment by FHA to have CH operate Cartier House would also be for the purpose of acquiring those services. The FHA-CH Agreement also specifically provided that CH was entitled to utilize contracted staff to deliver the residential care services.
+[69] Furthermore, it is clear under the agreements that FHA paid CT and CH amounts for the purpose of the acquisition of the services in issue. Both agreements oblige FHA to pay amounts to CT and CH for the purpose of providing services to the residents of Courtyard Terrace and Cartier House. Section 7.1 of the FHA-CT Agreement required FHA to pay CT the “fees set forth on Schedule B” “for the Health Services”. Sections 3.4 and 7.5 of the FHA-CH Agreement provide that CH would provide residential care service to its residents and that FHA would pay for those services. According to the FHA-CH Agreement, the funds paid by FHA could only be utilized for the purpose of providing the residential care services.
+[70] While the entire cost of the homemaker services that CT contracted SimpeQ to provide and that CH contracted HARPS to provide may not have been borne by FHA in each case, it did pay an amount to each of them for the purpose of acquiring the homemaker services and therefore the requirements of subparagraph 13(b)(ii) of Part II have been met.
+[71] The respondent also submitted that a finding that FHA paid amounts to the appellants for the purpose of acquiring the homemaker services would have an adverse impact on the entitlement of charitable and non-profit operators of facilities like Courtyard Terrace or Cartier House to Public Service Body rebates under section 259 of the Act. The respondent said that to be a qualifying non-profit organization under that provision, funding it receives must fall within the definition of “government funding” set out in the Public Service Body Rebate (GST/HST) Regulations SOR/91-37. According to that definition, government funding is an amount of money provided for the purpose of financially assisting a person in carrying out the purposes of the person or as consideration for making property or services available for the consumption or use by other persons, where supplies of the property or services made by the particular person to such other persons are exempt supplies. According to counsel, if amounts paid by a regional health authority to a non-profit operator are found to have been paid for the purpose of the operator acquiring homemaker services, this purpose would preclude the amounts from being government funding as defined in the Regulations and therefore the non-profit operator would not be entitled to a PSB rebate.
+[72] On the basis of the limited argument presented by counsel on this point, I am not able to accept the respondent’s position. From my reading of Part II of Schedule V, supplies of accommodation and services made to residents of assisted living and residential care facilities would appear to be supplies of “institutional health services” “provided in a health care facility” and therefore exempt supplies by virtue of section 2 of Part II of Schedule V. As such, funds received by a non-profit operator of an assisted living or residential care facility from a grantor as consideration for making such property and services available for consumption or use by the residents of the facility would still fall within the definition of “government funding” in the Regulations and the non-profit operator’s eligibility for the rebate would not be affected.
+Single Supply
+[73] At the hearing, the appellants conceded that the supplies of the activity aide services to CH by HARPS were not supplies that qualify under section 13 of Part II of Schedule V as exempt supplies. The appellants submit, though, that those supplies should be deemed by section 138 of the Act to form part of a single exempt supply of the care aide services.
+[74] The appellants maintain that the activity aide services were provided together with the care aide services for a single consideration, since both types of supplies were invoiced together. The appellants also says the activity aide services were incidental to the care aide services since the activity aide services made up only 5.4% of the total hours billed by HARPS for the two types of services.
+[75] On this point, I agree with the respondent’s counsel that the method of invoicing the activity aide and care aide supplies does not result in those services being provided for a single consideration. It appears to me from the sample HARPS invoice entered into evidence that HARPS calculated the amount due from CH based on total hours worked by the activity aides and care aides. I infer that the total hours and fees for both types of aides were combined on the invoices because the hourly rate for all of those aides was the same. Therefore, the consideration for each category of worker would be determinable and separate amounts. This conclusion is also supported by the fact that the sample invoice refers to services of activity aides as well as care aides.
+[76] I also find that the activity aide services were not incidental to the care aide services. In my view, each kind of service was independent of the other and had value as a separate supply. The activity aides focused on social activities for the residents, while the care aides performed personal services and assisted residents with the activities of daily living.
+[77] Therefore, section 138 does not deem the activity aide services to form part of a single supply of care aide services.
+Conceded Items
+[78] At the hearing, the appellants conceded that claims for a rebate of GST paid in error on amounts paid by CT to SimpeQ for security services, heating systems repair services and for the services of the social and administrative coordinator should not be allowed.
+Conclusion
+[79] The appeals are allowed in part and the assessments are referred back to the Minister of National Revenue for reassessment in accordance with these reasons. The appellants are entitled to costs in each appeal in accordance with the Tariff. Since the appeals were heard on common evidence, there will be only one set of costs for the hearing.
+Signed at Ottawa, Canada this 5th day of November 2015.
+“B.Paris”
+Paris J.
+CITATION:
+2015 TCC 278
+COURT FILE NOs.:
+2011-3419(GST)G
+2011-3420(GST)G
+STYLE OF CAUSE:
+COURTYARD TERRACE ASSISTED LIVING RESIDENCE LTD., CARTIER HOUSE CARE CENTRE LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 10 and 11, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+November 5, 2015
+APPEARANCES:
+Counsel for the Appellants:
+Kimberley Cook
+Noah Sarna
+Counsel for the Respondent:
+Victor Caux
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Kimberley Cook
+Noah Sarna
+Firm:
+Thorsteinssons LLP
+Vancouver, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

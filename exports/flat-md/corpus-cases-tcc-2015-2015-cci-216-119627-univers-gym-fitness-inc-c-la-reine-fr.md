@@ -1,0 +1,241 @@
+---
+title: "Univers Gym Fitness Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/119627/index.do"
+last_modified: "2015-09-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 216"
+citation2: ""
+neutral_citation: "2015 CCI 216"
+decision_date: "2015-09-01"
+language: "fr"
+item_id: "119627"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2639
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:23:05.040000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae0460da07b26ba66e468925a1e4384a27e547b360b13f87ed9e78b3ea1a57bb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Univers Gym Fitness Inc. c. La Reine
+
+- Citation: 2015 CCI 216
+- Decision date: 2015-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2639, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Univers Gym Fitness Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-09-01
+Référence neutre
+2015 CCI 216
+Numéro de dossier
+2014-2465(GST)I
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-2465(GST)I
+ENTRE :
+L'UNIVERS GYM FITNESS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 29 juin 2015, à Québec (Québec).
+Devant : L'honorable juge Dominique Lafleur
+Comparutions :
+Représentant de l'appelante :
+Marcel Tremblay
+Avocat de l'intimée :
+Me Sylvain Lacombe
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 29 août 2013, pour la période du 1er janvier au 31 mars 2013, est rejeté conformément aux motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2015.
+« Dominique Lafleur »
+Juge Lafleur
+Référence : 2015 CCI 216
+Date : 20150901
+Dossier : 2014-2465(GST)I
+ENTRE :
+L'UNIVERS GYM FITNESS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+[1] Il s’agit d’un appel logé par L’univers Gym Fitness Inc. (l’« appelante ») à l’encontre d’une cotisation établie en vertu de la Partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15 (la « Loi »), dont l’avis est daté du 29 août 2013, couvrant la période du 1er janvier 2013 au 31 mars 2013 par laquelle le ministre du Revenu national (le « ministre ») a refusé la déduction d’un montant de 5 078,15 $ dans le calcul de la taxe nette de l’appelante aux fins de la taxe sur les produits et services (« TPS ») à l’égard de créances irrécouvrables pour les années 2009 à 2011 en vertu de la Loi. Après le dépôt de l’avis d’opposition de l’appelante, le ministre a confirmé la cotisation.
+[2] À l’audience, l’appelante était représentée par monsieur Marcel Tremblay, comptable. Monsieur Tremblay a témoigné, de même que l’une de ses employées, madame Monique Larouche, technicienne en comptabilité. Aucun dirigeant de l’appelante ne s’est présenté à l’audience.
+[3] Pour l’intimée, madame Émilie Thiffault, vérificatrice de l’Agence du revenu du Québec et madame Marlène Légaré, agente d’opposition de l’Agence du revenu du Québec, ont témoigné.
+I. Les faits [4] L’appelante est une société qui exploite un centre sportif depuis l’année 2004 et est inscrite aux fins de la TPS.
+[5] Madame Monique Larouche est employée depuis juillet 2012 par Tremblay & associés, une entreprise détenue par monsieur Marcel Tremblay, représentant de l’appelante. Elle fait la tenue de livres de l’appelante depuis décembre 2012. Elle consacre environ 16 heures par semaine au dossier de l’appelante. Avant l’arrivée de madame Larouche, il n’y avait pas de comptable dans les locaux de l’appelante. Lorsqu’elle se présente aux bureaux de l’appelante, madame Larouche effectue les tâches suivantes : vérification des nouveaux contrats, inscription des paiements mensuels, préparation des payes, préparation des déclarations de la TPS et de la taxe de vente du Québec (« TVQ ») et toutes autres tâches relatives à la comptabilité. Madame Larouche a confirmé qu’elle consacre environ deux heures par semaine au recouvrement des créances de l’appelante.
+[6] Madame Larouche a précisé qu’elle s’occupe également des paiements faits par les clients du centre sportif exploité par l’appelante. Ainsi, elle fait les inscriptions, ouvre les nouveaux comptes, fait les démarches pour les paiements préautorisés, analyse les relevés de banque indiquant les dossiers pour lesquels il y a refus de paiement ou opposition. Après avoir reçu cette liste, madame Larouche fait en sorte que le lecteur de puce électronique interdise au client qui est en défaut de payer son abonnement l’entrée au centre sportif. Madame Larouche fait inscrire au dossier du client la raison pour laquelle il ne peut avoir désormais accès au centre sportif et le montant qu’il doit payer pour remédier à la situation. Elle fait un suivi par appel téléphonique des clients qui ne se présentent plus au centre sportif; après deux ou trois défauts par le même client, madame Larouche précise que c’est le patron du centre sportif qui l’appelle pour tenter de régler la situation. Madame Larouche a affirmé que cette procédure est en place depuis l’année 2013 mais qu’elle ne peut témoigner sur les procédures en vigueur de 2009 à 2011. Lors de son contre‑interrogatoire, madame Larouche a reconnu qu’aucune lettre ni mise en demeure n’est envoyée aux clients en défaut de paiement. Aucune autre mesure n’est mise en place compte tenu des sommes minimales dues par chacun des membres fautifs.
+[7] Madame Larouche a préparé un document produit sous la cote A‑1 intitulé « Statistiques de recouvrement pour la période 2013‑2014 ». Ce document explique le pourcentage de recouvrement des comptes de l’appelante pour cette période.
+[8] Le représentant de l’appelante a présenté ensuite en liasse, sous la cote A‑2, des documents de 2010, 2011 et 2012 indiquant les suivis qui ont été effectués auprès des clients. Madame Larouche a expliqué à la Cour que ces documents proviennent de boîtes se trouvant dans les locaux de l’appelante. Elle ne connaît pas l’identité des personnes ayant préparé ces documents. Le procureur de l’intimée s’est opposé à la production de ces documents étant donné que les suivis concernent des actions prises par l’appelante avant l’arrivée de madame Larouche. De plus, le procureur de l’intimée a indiqué que les règles de prohibition du ouï‑dire doivent être appliquées afin de refuser la production de ces documents. En effet, le procureur de l’intimée ne peut contre‑interroger les personnes ayant préparé ces documents. À l’audience, j’ai pris ces documents sous réserve. Je reviendrai ci‑dessous sur l’objection du procureur de l’intimée.
+[9] Monsieur Tremblay a précisé que les actionnaires, administrateurs ou dirigeants de l’appelante ne sont pas venus témoigner aujourd’hui puisque ceux‑ci n’étaient pas au courant des méthodes de recouvrement des créances durant les années 2009 à 2011 et que, selon lui, leurs témoignages n’auraient été d’aucune utilité.
+[10] Madame Larouche a précisé par la suite que la méthode de facturation a changé depuis 2012. Auparavant, le contrat était facturé en totalité, peu importe la méthode de paiement choisie par le membre. Depuis 2012, le paiement est fait mensuellement et la TPS est également perçue mensuellement et versée par la suite.
+[11] Monsieur Tremblay a produit sous la cote A‑3 en liasse la liste des contrats impayés pour chacune des années 2009, 2010 et 2011. Ce document a été préparé par un informaticien engagé par l’appelante. Cette personne n’était pas présente à l’audience. Le procureur de l’intimée s’est opposé à la production de ce document pour les mêmes raisons que celles exposées ci‑dessus concernant les pièces déposées sous la cote A‑2. À l’audience, j’ai pris ce document sous réserve. Je reviendrai ci‑dessous sur l’objection du procureur de l’intimée.
+[12] Madame Larouche a confirmé dans le cadre de son témoignage que toutes les factures impayées se rapportant aux contrats sont indiquées dans le système informatique. Je dois noter cependant qu’aucune de ces factures n’a été produite à l’audience.
+[13] Finalement, madame Larouche a confirmé que c’est en examinant la pièce A‑3 qu’elle a déterminé en 2013 que les créances à l’étude étaient irrécouvrables. Elle a toutefois convenu qu’elle n’a pas examiné tous les contrats de 2009 à 2011 pour déterminer le montant des créances irrécouvrables.
+[14] Lors de son contre‑interrogatoire, madame Larouche a convenu qu’elle n’a pas travaillé sur le calcul du montant des créances irrécouvrables, elle n’a pas rempli le formulaire de déclaration de la TPS (puisque c’est monsieur Tremblay qui s’en est chargé) et elle ne sait pas si les sommes ayant trait à la TPS relatives à ces créances dites irrécouvrables ont été versées au ministre. De plus, madame Larouche a convenu qu’elle n’avait pas connaissance des états financiers de l’appelante et ne peut témoigner quant aux revenus reportés de 152 103 $ inscrits aux états financiers du 31 décembre 2012. Je reviendrai sur ce montant ci‑dessous.
+[15] Monsieur Marcel Tremblay a témoigné également à l’audience. Il a mentionné à la Cour que, lorsqu’il a accepté le mandat de l’appelante en 2013 ou à la fin de 2012, celle-ci ne disposait pas des services d’un comptable à l’interne. Selon lui, le système de gestion des ventes était acceptable et rien n’a été modifié à cet égard.
+[16] Il a précisé à la Cour que, tel qu’indiqué dans le document produit sous la cote A‑3, le total des sommes inscrites sous la rubrique Compte à recevoir de 17 964,08 $ pour 2009, de 17 142,16 $ pour 2010 et de 40 % de ce montant (80 272 $) pour 2010 sera considéré comme une créance irrécouvrable. Ainsi, c’est cette somme qu’il a utilisée pour remplir la demande de déduction de taxes pour créances irrécouvrables qui est en litige en l’espèce. Il a confirmé à la Cour que les sommes inscrites à titre de créances irrécouvrables n’ont jamais été recouvrées par l’appelante. Toutefois, lors de son contre‑interrogatoire, monsieur Tremblay a affirmé qu’il s’est fié aux chiffres fournis par l’informaticien, tels qu’indiqués sur le document A‑3, pour établir le montant des créances irrécouvrables; il a utilisé les chiffres tels qu’indiqués et a préparé la demande de déduction de TPS en litige en s’appuyant sur ceux-ci. Il a également convenu qu’il ne sait pas si ces sommes avaient été recouvrées; il a tenu pour acquis qu’aucune de ces sommes n’avait été payée et que les créances étaient toutes en souffrance.
+[17] Monsieur Tremblay a affirmé qu’il n’avait pas fait d’étude exhaustive des factures; il a ajouté que, selon lui, lorsqu’on se situe en 2013, les sommes impayées datant de 2009 peuvent être considérées comme irrécouvrables.
+[18] Monsieur Tremblay a ajouté que, puisque la méthode de facturation a été modifiée pour les années 2012 et suivantes, l’appelante n’aura plus de créances irrécouvrables puisque les montants dus sont payés mensuellement et la perception de la TPS se fait mensuellement également.
+[19] Monsieur Tremblay a indiqué que la radiation des créances irrécouvrables a été effectuée en portant une écriture aux livres comptables. Il a produit un document sous la cote A‑4 à l’audience intitulé « Liste des comptes avec transactions » pour les périodes se terminant le 31 mars 2013. Sur ce document, on peut voir trois inscriptions intitulées « créances douteuses » (avec codes de référence) et les sommes inscrites à côté de ces inscriptions sont 795,75 $, 759,34 $ et 3 523,06 $, respectivement, pour un total de 5 078,15 $. Il faut noter que ces sommes représentent la TPS et non pas le montant des créances irrécouvrables. Monsieur Tremblay a expliqué à la Cour que ce document ne représente qu’une page parmi 37 pages et que le document complet avait été envoyé à la vérificatrice du dossier. Ce document déposé sous la cote A‑4 est le compte de TPS inscrit dans le grand livre.
+[20] Monsieur Tremblay a expliqué à la Cour que les procédures de recouvrement mises en place par l’appelante sont des procédures normales dans ce type d’industrie. Il a ajouté qu’aucune autre mesure ne sera prise pour percevoir les sommes dues.
+[21] Monsieur Tremblay a ajouté que, puisqu’il a fait une mission d’examen et qu’il n’a pas préparé d’états financiers vérifiés, il n’a pas demandé à examiner les grands livres tenus par les anciens comptables de l’appelante. Il a confirmé à la Cour qu’il n’a jamais examiné les livres comptables des années 2009 à 2011 tenus par les anciens comptables de l’appelante. Il a tenu pour acquis que l’appelante avait une créance d’environ 52 000 $ au titre de services non rendus.
+[22] À cet égard, le paragraphe 3 de l’avis d’appel préparé par monsieur Tremblay indique ce qui suit :
+3. Au mois de janvier 2013 l’appelant changeait de firme comptable et cette dernière constatait une somme de 152 103 $ en revenus reportés inscrite aux états financiers au 31 décembre 2012. Cette somme représentait les contrats facturés déduits des ventes année après année pour lesquels les services n’avaient pas été rendus et que les paiements n’avaient pas été perçus. En 2012 les revenus reportés ont augmenté de 55 139 $ par rapport à l’année précédente, le tout tel qu’il appert d’une copie des états financiers produit par la firme Groupe Profisc au 31 décembre 2012 déposé au soutien du présent avis d’appel sous la cote R-2.
+[23] Monsieur Tremblay a expliqué à la Cour que ce montant de revenus reportés (152 103 $) a été ajouté aux revenus de l’appelante et il a été déterminé qu’une partie de ce montant, soit environ 52 000 $, était une créance irrécouvrable. Ce montant de 52 000 $ représente des services qui n’ont pas été rendus et pour lesquels les paiements n’ont pas été perçus par l’appelante.
+[24] Madame Émilie Thiffault a précisé à la Cour qu’elle a fait la vérification de la déclaration de taxes de l’appelante pour la période du 1er janvier 2013 au 31 mars 2013 en vertu de laquelle une déduction dans le calcul de la taxe nette pour créances irrécouvrables a été demandée et qui est en litige. Elle a demandé des explications à monsieur Tremblay sur les écritures intitulées « Créances douteuses ». Monsieur Tremblay n’a remis aucun document à la vérificatrice pour démontrer que les créances étaient irrécouvrables. De plus, monsieur Tremblay n’a pas été en mesure de démontrer que la TPS avait été remise et versée à l’égard de ces créances irrécouvrables. Monsieur Tremblay aurait plutôt affirmé à madame Thiffault qu’après 12 mois de retard, un compte en souffrance pouvait être considéré comme une créance irrécouvrable. Monsieur Tremblay aurait également déclaré à madame Thiffault que, puisque l’appelante avait changé de comptable en 2012, il ne pouvait lui donner aucun renseignement pour les années antérieures à 2013. De plus, monsieur Tremblay a confirmé à madame Thiffault que la seule méthode de recouvrement des créances impayées de l’appelante se faisait par communication téléphonique.
+[25] Le dernier témoin qui s’est présenté à la barre des témoins est madame Légaré, agente d’opposition. Madame Légaré a traité avec monsieur Tremblay en ce qui concerne la demande de déduction pour créances irrécouvrables aux fins du calcul de la TPS en litige. Monsieur Tremblay ne lui a fourni aucune copie des états financiers, des grands livres comptables, des déclarations de taxes pour les années 2009 à 2011 ni des contrats d’abonnement. Monsieur Tremblay ne lui a fourni aucun document justifiant ses calculs. Il ne lui a remis qu’un très court document comptabilisant les mauvaises créances. En ce qui concerne les mesures de recouvrement prises par l’appelante, monsieur Tremblay a précisé que celle-ci réclame ses créances par téléphone et qu’une personne passe environ 30 heures par semaine à tenter de recouvrer les sommes dues. De plus, Monsieur Tremblay n’a fourni à madame Légaré aucune preuve quant à la radiation des créances dans les livres comptables.
+II. Question en litige [26] L’appelante était‑elle justifiée de demander une déduction dans le calcul de sa taxe nette selon le paragraphe 231(1) de la Loi pour des créances irrécouvrables concernant les années d’imposition 2009, 2010 et 2011 dans sa déclaration de TPS couvrant la période du 1er janvier 2013 au 31 mars 2013?
+III. Thèse des parties [27] L’appelante prétend qu’elle a droit à la déduction pour créances irrécouvrables selon le paragraphe 231(1) de la Loi étant donné que les créances des années 2009 à 2011 constituent des créances irrécouvrables et qu’elle a radié ces créances de ses livres en 2013.
+[28] Selon l’intimée, les conditions d’application du paragraphe 231(1) de la Loi ne sont pas réunies en l’espèce, puisque les créances des années 2009 à 2011 ne constituent pas des créances irrécouvrables selon la Loi et que la preuve n’a pas été faite du montant desdites créances.
+IV. Question préliminaire : règles de preuve [29] Avant d’examiner la question en litige, je me dois de répondre aux objections soulevées par le procureur de l’intimée quant aux documents produits sous les cotes A‑1, A‑2 et A‑3.
+[30] La règle en matière d’administration de la preuve dans les instances devant la Cour qui sont régies par la procédure informelle est énoncée au paragraphe 18.15(3) de la Loi sur la Cour canadienne de l’impôt :
+18.15(3) Par dérogation à la loi habilitante, la Cour n’est pas liée par les règles de preuve lors de l’audition de tels appels; ceux‑ci sont entendus d’une manière informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité le permettent.
+[31] La Cour d’appel fédérale a examiné cette disposition dans l’arrêt Selmeci c. R., 2002 CAF 293. Elle a conclu que cette disposition de la Loi sur la Cour canadienne de l’impôt ne signifie pas qu’aucune règle de preuve n’est applicable dans le cadre de litiges régis par la procédure informelle, mais que le juge « a le pouvoir discrétionnaire de ne pas tenir compte des règles de preuve lorsqu’un appel est entendu selon la procédure informelle afin qu’il entende l’appel d’une manière aussi informelle et rapide que les circonstances et l’équité le permettent » (par. 4).
+[32] La Cour d’appel fédérale a discuté également de l’importance de la règle du ouï‑dire dans le cadre d’un litige régi par la procédure informelle devant la Cour canadienne de l’impôt :
+[6] La règle du ouï‑dire a une importance particulière dans notre système juridique et les problèmes créés par le ouï‑dire, que ce soit en matière criminelle ou en matière civile, sont constamment examinés (voir, par exemple, R. c. B. (K.G.), [1993] 1 R.C.S. 740 (C.S.C.), à la page 763; R. c. Starr, [2000] 2 R.C.S. 144 (C.S.C.), à la page 228, au paragraphe 159). On rencontre entre autres comme problèmes l'absence de serment ou d'affirmation solennelle, l'incapacité du juge des faits d'apprécier le comportement et la crédibilité du déclarant ou l'exactitude de la soi-disant déclaration et l'absence de contre-interrogatoire par la partie adverse au moment où la déclaration est faite. La principale raison justifiant l'exclusion des documents assimilables à du ouï-dire est que la fiabilité de la déclaration du témoin ne peut être adéquatement testée. Ainsi, dans les arrêts R. c. Khan, [1990] 2 R.C.S. 531 (C.S.C.), et R. c. Smith, [1992] 2 R.S.C. 915 (C.S.C.), la Cour suprême a statué qu'un juge du procès peut, en vertu d'une des exceptions à la règle d'exclusion du ouï-dire, s'il est convaincu qu'un élément de preuve est à la fois nécessaire et fiable, admettre cet élément de preuve même s'il s'agit d'un ouï-dire et même s'il est inadmissible.
+[7] Une des difficultés rencontrées par la partie qui répond à un élément de preuve qui lui est défavorable est que la procédure informelle prévue aux Règles de la Cour canadienne de l'impôt n'oblige pas les parties à dévoiler leur preuve documentaire avant le procès conformément à la procédure habituelle de communication des documents. Dans un procès tenu selon la procédure informelle, une partie peut essayer d'introduire une déclaration écrite d'une personne qui n'est pas présente devant la Cour. La partie adverse, qui est pour la première fois en présence de ce document, est alors privée de son droit d'en contre‑interroger l'auteur et, s'il n'y a pas un ajournement, peut se voir nier la possibilité de présenter adéquatement une preuve indépendante pour réfuter la déclaration, l'expliquer ou la remettre en contexte. Par conséquent, l'abolition totale de la règle du ouï‑dire dans un procès se déroulant selon la procédure informelle pourrait mener à des injustices graves, puisque toute conclusion du juge de la Cour de l'impôt quant à la fiabilité ou la valeur de la déclaration dans de telles circonstances serait fondée sur des hypothèses, puisque la déclaration n'aurait pas été vérifiée.
+[8] Le juge de la Cour de l'impôt ne peut cependant pas rejeter des éléments de preuve simplement parce qu'il s'agit de ouï‑dire et qu'ils ne seraient pas admissibles en vertu d'une des « exceptions », dont celle mentionnée dans l'arrêt Khan, précité. Selon le paragraphe 18.15(4), le juge de la Cour de l'impôt a toutefois un pouvoir discrétionnaire élargi et peut admettre un élément de preuve qui constitue du ouï‑dire même s'il n'était pas, par exemple, suffisamment nécessaire pour satisfaire au critère énoncé à l'arrêt Khan, précité, mais s'il était malgré tout pertinent et fiable. Le juge Sharlow a récemment fait remarquer dans l'arrêt Suchon c. La Reine., 2002 CAF 282 (C.A.F.), au paragraphe 32, que :
+Cela ne veut pas dire qu'un juge de la Cour de l'impôt, procédant suivant la procédure informelle, soit tenu d'accepter toute la preuve qui est présentée. Rien de tel n'est exigé. Cependant, ce serait une erreur de la part d'un juge de la Cour de l'impôt, dans le cadre de cette procédure, de rejeter un élément de preuve pour des motifs techniques sans examiner si, malgré les règles de preuve ordinaires ou les dispositions de la Loi sur la preuve au Canada, cet élément est suffisamment fiable et probant pour justifier son admission. En examinant cette question, le juge de la Cour de l'impôt devrait tenir compte d'un certain nombre de facteurs, y compris la somme en jeu dans l'affaire et le coût probable pour les parties de l'obtention d'une preuve plus formelle des faits.
+Ce pouvoir discrétionnaire vise avant tout à favoriser un procès équitable et rapide.
+[9] En édictant le paragraphe 18.15(4)[1], le législateur n'avait pas l'intention de proscrire les règles de preuve habituelles lorsqu'un procès se déroule suivant la procédure informelle. Au contraire, la disposition avait pour but de conférer aux juges de la Cour de l'impôt la flexibilité nécessaire pour qu'ils puissent entendre les appels d'une manière aussi informelle et rapide que les circonstances et l'équité le permettent (voir, par exemple, Ainsley c. Canada., [1997] A.C.F. No. 701). Les juges sont cependant en droit de refuser l'admission d'un élément de preuve qui constitue du ouï-dire s'ils sont d'avis que cette admission ne permettrait pas d'atteindre les objectifs de la loi énoncés au paragraphe 18.15(4).
+[33] La Cour d’appel fédérale a examiné le paragraphe 18.15(3) plus récemment dans l’arrêt Madison c. La Reine, 2012 CAF 80. Dans cette affaire, la contribuable avait porté en appel la décision du juge de la Cour ayant refusé d’admettre en preuve les notes prises par la contribuable au cours d’une conversation téléphonique. Le juge de la Cour n’avait pas admis ce document en preuve au motif qu’il constituait du ouï‑dire. La Cour d’appel fédérale en est venue à la conclusion suivante :
+[11] L'exclusion d'éléments de preuve pour l'unique motif qu'ils constituent du ouï‑dire sans vérification préalable de leur nécessité et de leur fiabilité constitue une erreur de droit (R. c. Khan, [1990] 2 R.C.S. 531 (C.S.C.) et R. c. Smith, [1992] 2 R.C.S. 915 (C.S.C.)). Mais surtout, en l'espèce, il y a erreur de droit lorsqu'il y a exclusion des éléments de preuve constituant du ouï‑dire dans le cadre d'une instance de la Cour de l'impôt régie par les règles de la procédure informelle sans que l'on ait d'abord examiné si ces éléments de preuve sont suffisamment fiables et probants pour justifier leur admission, compte tenu de la nécessité de favoriser une audience juste et expéditive (Selmeci c. Canada, 2002 CAF 293 (C.A.F.), au paragraphe 8). […]
+[34] Bien entendu, si le juge décide d’admettre une preuve par ouï‑dire, il devra par la suite en évaluer la valeur probante.
+[35] Les parties m’ont fait parvenir des observations écrites quant à l’admissibilité des documents produits sous les cotes A‑1, A‑2 et A‑3.
+[36] Selon le procureur de l’intimée, l’élément de nécessité n’est pas présent en l’espèce puisque l’absence des témoins n’est pas le résultat d’un décès, d’une maladie grave ou encore du fait que ce serait trop onéreux de faire assigner des témoins.
+[37] Toutefois, tel que souligné par la Cour d’appel fédérale dans les arrêts Selmeci et Madison, précités, le juge de la Cour saisi d’une affaire en procédure informelle peut accepter une preuve par ouï‑dire même si les critères de nécessité de l’arrêt Khan, précité, ne sont pas présents si, malgré tout, cet élément de preuve est fiable et probant (ou pertinent), ceci en vue de favoriser une audience juste et expéditive.
+[38] Donc, même si l’élément de nécessité n’est pas présent en l’espèce, je peux accepter le dépôt de documents si cet élément de preuve est fiable et probant (ou pertinent).
+[39] Plus particulièrement, en ce qui concerne les documents produits sous la cote A‑2, le procureur de l’intimée soutient que permettre le dépôt de ces documents pour prouver les créances ou les mesures de recouvrement prises ne peut être envisagé sans causer un préjudice sérieux à l’intimée; de plus, selon lui, ces documents ne respectent pas le degré de fiabilité requis par la jurisprudence.
+[40] Je dois donc déterminer si les documents produits en liasse sous la cote A‑2 sont fiables et probants (ou pertinents). À mon avis, le critère de fiabilité n’est pas respecté en l’espèce. Selon monsieur Tremblay, ces documents proviennent de boîtes trouvées dans les locaux de l’appelante; tel que mentionné ci‑dessus, aucun représentant de l’appelante n’est venu témoigner à l’audience pour expliquer la teneur de ces documents. Même dans une instance régie par la procédure informelle, je ne peux accepter le dépôt de ces documents en preuve.
+[41] En ce qui concerne les documents produits sous la cote A‑3, le procureur de l’intimée est d’avis que, puisqu’il ne peut contre‑interroger l’informaticien ni aucun représentant de l’appelante sur la provenance de ces documents, il est impossible de vérifier la fiabilité et la validité des renseignements qu’ils contiennent. De plus, selon lui, la valeur des informations est limitée puisque les documents ne portent pas de dates et qu’aucun contrat ou facture n’a été déposé à l’audience.
+[42] À l’audience, monsieur Tremblay a expliqué qu’il a utilisé les sommes indiquées dans ces documents pour remplir la demande de déduction de taxe en litige; toutefois, il n’a pas fait d’étude exhaustive des contrats et il a utilisé les chiffres tels quels. Il a même convenu en contre‑interrogatoire qu’il ne sait pas si ces créances ont été acquittées et il a tenu pour acquis qu’aucune de ces créances n’avait été payée à l’appelante au cours des années subséquentes et qu’elles étaient toutes en souffrance.
+[43] Je dois déterminer si les documents produits sous la cote A‑3 sont fiables et probants (ou pertinents). À mon avis, ces documents sont fiables et probants. Ces documents sont formés de trois documents distincts, un document pour chacune des années d’imposition 2009, 2010 et 2011. Ces documents indiquent sous forme de tableaux, pour chacune des années, le détail des contrats pour lesquels des sommes sont impayées, soit le nom du client et le numéro de facture, le détail des taxes à l’égard de chacun des contrats ainsi que les sommes impayées en regard de chacun des contrats. À la suite de chacun des tableaux préparés pour chacune des années, on trouve un sommaire des ventes totales, de la TPS et de la TVQ reçues, des sommes dues et des comptes à recevoir. Bien que l’informaticien ayant préparé ces documents ne soit pas venu témoigner à l’audience, je vais accepter le dépôt de ces documents dans le but de favoriser une audience juste et expéditive. Toutefois, dans le cadre de mon analyse, je devrai évaluer la valeur probante à donner aux documents produits sous la cote A‑3.
+[44] Finalement, le procureur de l’intimée a soutenu que le document produit sous la cote A‑1 n’était pas pertinent car il vise une période postérieure à la période en litige et que ce document constitue du ouï‑dire puisque les chiffres utilisés ont été colligés à partir de documents qui n’ont pas été déposés en preuve. Ce document a été préparé par madame Larouche et indique les statistiques de recouvrement des comptes de l’appelante pour la période de 2013 à 2014. À mon avis, ce document n’est pas pertinent puisqu’il ne fait que démontrer les taux de recouvrement des comptes de l’appelante pour une période postérieure au litige. Je suis donc d’avis de ne pas permettre le dépôt de ce document en preuve.
+V. Loi et analyse [45] En vertu du paragraphe 231(1) de la Loi, un fournisseur peut demander une déduction dans le calcul de sa taxe nette à l’égard des créances irrécouvrables :
+231. (1) Si un fournisseur a effectué une fourniture taxable, sauf une fourniture détaxée, pour une contrepartie au profit d’un acquéreur avec lequel il n’a aucun lien de dépendance, qu’il est établi que tout ou partie du total de la contrepartie et de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable et que le fournisseur radie cette créance de ses livres comptables à un moment donné, le déclarant de la fourniture peut déduire, dans le calcul de sa taxe nette pour la période de déclaration qui comprend ce moment ou pour une période de déclaration postérieure, le montant obtenu par la formule suivante :
+A × B/C
+où :
+A représente la taxe relative à la fourniture;
+B le total de la contrepartie, de la taxe et de la taxe provinciale applicable, qui demeure impayé relativement à la fourniture et qui a été radié à ce moment à titre de créance irrécouvrable;
+C le total de la contrepartie, de la taxe et de la taxe provinciale applicable relatives à la fourniture.
+(1.1) Le déclarant ne peut déduire un montant en application du paragraphe (1) relativement à une fourniture que si, à la fois :
+a) la taxe percevable relativement à la fourniture est incluse dans le calcul de la taxe nette indiquée dans la déclaration qu’il produit aux termes de la présente section pour la période de déclaration au cours de laquelle la taxe est devenue percevable;
+b) la totalité de la taxe nette à verser selon cette déclaration est versée.
+(3) En cas de recouvrement de tout ou partie d’une créance irrécouvrable pour laquelle une personne a déduit un montant en application du présent article, la personne est tenue d’ajouter, dans le calcul de sa taxe nette pour la période de déclaration qui comprend le moment du recouvrement, le montant obtenu par la formule suivante :
+A × B/C
+où :
+A représente le montant recouvré à ce moment;
+B la taxe relative à la fourniture à laquelle la créance se rapporte;
+C le total de la contrepartie, de la taxe et de la taxe provinciale applicable relatives à la fourniture.
+(4) Une personne ne peut demander une déduction en application du présent article au titre d’une créance irrécouvrable liée à une fourniture que si la déduction est demandée dans une déclaration qu’elle produit aux termes de la présente section dans les quatre ans suivant la date limite pour la production de sa déclaration visant la période de déclaration au cours de laquelle le fournisseur a radié la créance de ses livres comptables.
+[…]
+[46] Le paragraphe 231(1) de la Loi impose plusieurs conditions avant qu’une personne (le fournisseur) ne puisse demander une déduction en vertu de ce paragraphe :
+1- Le fournisseur doit avoir effectué une fourniture taxable pour une contrepartie.
+2- L’acquéreur de la fourniture ne doit pas avoir de lien de dépendance avec le fournisseur.
+3- Tout ou partie de la contrepartie ET de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable.
+4- Le fournisseur a radié la créance de ses livres comptables à un moment donné (ce moment donné doit être compris dans la période de déclaration dans laquelle la déduction est demandée ou être antérieur à la période de déclaration).
+5- La taxe percevable relativement à la fourniture est incluse dans le calcul de la taxe nette indiquée dans la déclaration que le fournisseur produit aux termes de la Loi pour la période de déclaration au cours de laquelle la taxe est devenue percevable.
+6- La taxe nette à verser selon la déclaration visée au point 5 ci‑dessus est versée en totalité au ministre.
+[47] Les motifs soulevés par l’intimée pour refuser d’octroyer la déduction de taxes en vertu du paragraphe 231(1) de la Loi sont que le montant des créances n’a pas été établi par l’appelante et que, de plus, ces créances ne constituent pas des créances irrécouvrables au sens de la Loi.
+Fourniture taxable pour une contrepartie ou montant des créances [48] Tel que mentionné par monsieur Tremblay et tel qu’indiqué au paragraphe 3 de l’avis d’appel, un montant de 152 103 $ figure aux états financiers du 31 décembre 2012 de l’appelante à titre de revenus reportés. Selon le témoignage de monsieur Tremblay, cette somme représente les contrats facturés déduits des ventes année après année pour lesquels les services n’ont pas été rendus et les paiements n’ont pas été perçus. Toujours selon monsieur Tremblay, ce montant au titre de revenus reportés a été ajouté aux revenus de l’appelante et il a été déterminé qu’une partie de ce montant, soit environ 52 000 $, représentait des créances irrécouvrables.
+[49] Ainsi, selon les prétentions de l’appelante, cette somme représente les montants dus en vertu de contrats pour lesquels les services n’ont pas été rendus par l’appelante; de plus, cette somme équivaut aux créances non perçues par l’appelante.
+[50] Selon la preuve soumise par l’appelante, lorsque les clients ne paient pas, les services de l’appelante ne sont pas rendus; en effet, la puce magnétique permettant l’entrée dans les locaux de l’appelante est désactivée. Ainsi, l’appelante ne fournit pas de services à ce moment. J’ai de la difficulté à comprendre que l’appelante a effectué une fourniture taxable dans ces cas particuliers.
+[51] Toutefois, en l’espèce, il n’est pas nécessaire que je réponde à cette question puisque je suis d’avis que l’appelante n’a pas réussi à prouver le montant des créances selon la prépondérance des probabilités.
+[52] Monsieur Tremblay a tenté de démontrer à l’audience le montant des créances qui, selon son appréciation, sont irrécouvrables. Pour faire cette démonstration, il a déposé à l’audience les documents sous la cote A‑3. Tel que mentionné précédemment, ces documents ont été préparés par un informaticien engagé par l’appelante. Il s’agit de trois documents distincts, un document pour chacune des années d’imposition 2009, 2010 et 2011. Ces documents indiquent sous forme de tableaux, pour chacune des années, le détail des contrats pour lesquels des sommes sont impayées, soit le nom du client et le numéro de facture, le détail des taxes à l’égard de chacun des contrats ainsi que les sommes impayées en regard de chacun des contrats. À la suite de chacun des tableaux préparés pour chacune des années, on trouve un sommaire des ventes totales, de la TPS et de la TVQ reçues, des sommes dues et des comptes clients.
+[53] À l’audience, monsieur Tremblay a expliqué à la Cour qu’il a employé les sommes indiquées dans ces documents pour remplir la demande de déduction de taxe en litige; toutefois, il a convenu ne pas avoir fait d’étude exhaustive des contrats et il a utilisé les chiffres tels quels. Il a même admis en contre‑interrogatoire qu’il ne sait pas si ces créances ont été payées par la suite, il a tenu pour acquis qu’aucune de ces créances n’avait été payée à l’appelante au cours des années subséquentes et que ces créances étaient toutes en souffrance.
+[54] Monsieur Tremblay a utilisé les chiffres des comptables précédents sans les vérifier, tout en présumant que ces chiffres étaient exacts.
+[55] À mon avis, il y a trop de questions en suspens quant aux documents produits sous la cote A‑3 pour que j’accepte ces documents à titre de preuve du montant des créances dites irrécouvrables. Je n’ai aucune preuve que les créances apparaissant sur les documents produits sous la cote A‑3 n’ont pas été payées au cours d’une année subséquente. Même monsieur Tremblay a convenu qu’il ne sait pas si ces sommes ont été payées dans une année subséquente; monsieur Tremblay a même dit qu’il s’est fié à ces documents sans poser de questions; il a même convenu ne pas avoir fait d’examen exhaustif des factures.
+[56] À plusieurs reprises, monsieur Tremblay a dit que la vérificatrice ne lui a pas demandé de fournir de documents précis. Il est de la responsabilité du contribuable de prouver qu’il a droit à une déduction. Il doit fournir aux autorités fiscales les documents qui permettront à celles‑ci de s’assurer que les conditions donnant droit à une déduction sont remplies.
+Tout ou partie de la contrepartie ET de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable [57] Une autre condition prévue au paragraphe 231(1) de la Loi qui est en litige est de savoir si tout ou partie de la contrepartie et de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable.
+[58] Cette question a été étudiée à maintes reprises par la jurisprudence.
+[59] Dans l’arrêt Rich c. R., 2003 CAF 38, 2003 CarswellNat 635, la Cour d’appel fédérale fait un résumé des critères applicables de façon générale pour effectuer cette détermination :
+[13] Je résumerais ainsi les facteurs qui, à mon sens, devraient en général être pris en compte lorsqu'on veut savoir si une créance est devenue irrécouvrable :
+1. l'historique et l'âge de la créance;
+2. la situation financière du débiteur, ses revenus et ses dépenses, gagne-t-il un revenu ou essuie-t-il des pertes?, sa trésorerie et son actif, son passif et les liquidités dont il dispose;
+3. l'évolution du chiffre d'affaires total par rapport aux années antérieures;
+4. l'encaisse, les comptes clients et autres disponibilités du débiteur à l'époque pertinente et par rapport aux années antérieures;
+5. les comptes fournisseurs et autres exigibilités du débiteur à l'époque pertinente et par rapport aux années antérieures;
+6. les conditions économiques générales ayant cours dans le pays, parmi l'ensemble des débiteurs et dans la branche d'activités du débiteur; et
+7. l'expérience antérieure du contribuable en matière de radiation de créances irrécouvrables.
+Cette liste n'est pas limitative et, selon les circonstances, un facteur ou un autre pourra prendre une importance accrue.
+[…]
+[14] Les perspectives de la société débitrice peuvent présenter un intérêt dans certains cas, mais les considérations premières seraient en général liées au passé ou au présent. S'il est établi qu'un événement se produira probablement dans l'avenir et que cet événement donne à penser que la créance sera recouvrable lorsqu'il surviendra, alors l'événement en question devra être pris en compte. Si les considérations futures ne sont que des conjectures, elles n'interviendront pas lorsqu'on se demandera si une créance exigible est recouvrable.
+[15] Il n'est pas nécessaire non plus pour un créancier d'épuiser tous les moyens possibles de recouvrement. Ce qu'il faut, c'est une évaluation honnête et raisonnable. D'ailleurs, lorsqu'une créance irrécouvrable est par la suite recouvrée en totalité ou en partie, la somme recouvrée est considérée comme un revenu de l'année du recouvrement.
+[…]
+[23] Cependant, il n'y a pas d'obligation légale de prendre des mesures proactives dans tous les cas. Le créancier ne sera tenu de prendre de telles mesures que s'il y a lieu de croire que le remboursement du prêt est envisageable. Tel sera évidemment le cas lorsque le ministre estime que le recouvrement est envisageable et que le contribuable ne fait rien en ce sens, ou pas suffisamment.
+[60] Dans la décision Davies c. R., [1998] G.S.T.C. 58 (C.C.I.), le juge Hamlyn de la Cour a refusé d'accorder un crédit de taxe sur les intrants à l'égard d'une créance irrécouvrable, notamment parce que l'appelant n'avait pas pris les mesures appropriées pour recouvrer le montant de cette créance :
+[13] La question de savoir si une créance est irrécouvrable donne lieu essentiellement à une détermination subjective, c'est-à-dire qu'il s'agit de savoir si l'appelant considérait la créance comme irrécouvrable. Dans tous les cas, cette détermination ne doit pas être forcée, et la conclusion doit être raisonnable, compte tenu des faits. À cette fin, l'appelant doit prouver à la Cour qu'il considérait le montant comme impossible à recouvrer.
+[…]
+[18] En particulier, l'appelant n'a guère pris de mesures pour essayer de recouvrer le montant des créances. Il a fait quelques appels téléphoniques et a écrit des lettres; en même temps, il exploitait sa franchise et a inscrit dans les livres de son entreprise les sommes (redevances) qu'il devait au franchiseur, et ce, au fur et à mesure. Il n'a pas tenté d'obtenir réparation en justice et n'a pas tenté non plus d'obtenir un règlement établissant une compensation entre les sommes que lui devait le franchiseur et les sommes que lui-même devait au franchiseur. Je trouve que la preuve est faible, que l'appelant n'a pas pris de mesures raisonnables pour déterminer si les créances étaient impossibles à recouvrer et qu'il ne s'est donc pas acquitté de la charge qui lui incombait de prouver que les créances étaient irrécouvrables.
+[61] Cette décision a été citée avec approbation dans la décision Paquin c. R., 2004 CarswellNat 3006, 2004 CCI 597.
+[62] Finalement, dans la décision Ministic Air Ltd. c. R., 2008 CCI 296, 2008 CarswellNat 3271, le juge Bowie de la Cour mentionne :
+[12] La question de savoir s'il a été établi qu'une créance est irrécouvrable est une question de fait. Il ne suffit pas que la créance soit depuis longtemps non réglée. Le contribuable doit avoir pris des mesures raisonnables en vue de recouvrer la créance, sans succès, et avoir conclu que la dette ne serait probablement pas payée. En l'espèce, il existe peu d'éléments de preuve au sujet des mesures réelles que l'appelante a prises en vue de recouvrer une créance précise. L'appelante a présenté une preuve d'une nature générale au sujet du fait que ses débiteurs ne voulaient pas payer leurs comptes, en particulier ceux à qui Garden Hill devait de l'argent. Comme on peut le comprendre, ils n'étaient pas prêts à payer leurs comptes à une personne morale dont les actions étaient presque toutes détenues par Garden Hill. À mon avis, les généralités dont étaient composés le témoignage de Mme Fraser et celui de M. Brotherston sur ce point n'étaient pas suffisantes. Les créances doivent être considérées comme irrécouvrables ou il doit être conclu qu'elles sont irrécouvrables sur une base individuelle; or, la preuve ne démontrait tout simplement pas qu'il en était ainsi. Mme Fraser a plutôt simplement décidé à un moment donné, après que la société eut mis fin à ses activités que toutes ses créances devaient être radiées.
+[63] Dans le cas de l’appelante, les critères de la décision Rich, précitée, mis à part l’historique et l’âge de la créance, sont difficilement applicables compte tenu du grand nombre de créances et des montants relativement peu importants de chacune des créances prise isolément.
+[64] Afin de conclure qu’une créance est irrécouvrable, je dois déterminer si le créancier a pris, sans succès, des mesures raisonnables en vue de recouvrer cette créance. À mon avis, l’appelante n’a pas présenté une preuve suffisante selon la prépondérance des probabilités me permettant de conclure qu’elle a pris de telles mesures en l’espèce.
+[65] Monsieur Tremblay a mentionné à plusieurs reprises que seul l’écoulement du temps justifiait que l’on considère une créance comme étant irrécouvrable. Je ne peux souscrire à cette thèse. En effet, il est clair que cet élément à lui seul n’est pas suffisant pour conclure qu’une créance est irrécouvrable.
+[66] Monsieur Tremblay a ajouté que la procédure de recouvrement utilisée était une procédure normale utilisée dans ce type d’industrie. Encore une fois, cette seule affirmation de la part de monsieur Tremblay ne me permet pas de conclure que les créances sont irrécouvrables.
+[67] Madame Larouche a expliqué à la Cour la procédure qu’elle a employée depuis la fin de l’année 2012 afin de percevoir les sommes dues à l’appelante. Madame Larouche consacre environ deux heures de travail par semaine pour tenter de faire payer les clients fautifs. Tout d’abord, elle désactive la puce magnétique permettant l’accès aux locaux de l’appelante et, par la suite, elle appelle le client débiteur. Après plus de deux échecs, le patron fait l’appel. Madame Larouche a admis que cette procédure est en place depuis l’année 2013 et elle n’a pu témoigner sur les procédures qui étaient en vigueur au cours des années 2009 à 2011. A‑t‑elle tenté de percevoir les créances datant de 2009, 2010 et 2011? Aucune preuve ne m’a été fournie à cet égard. Lors de son contre‑interrogatoire, madame Larouche a reconnu qu’aucune lettre ni mise en demeure n’était envoyée aux clients en défaut de paiement, alors qu’au paragraphe 5 de l’avis d’appel, l’appelante a indiqué que des lettres étaient envoyées aux débiteurs pour réclamer les sommes exigibles. Aucun dirigeant de l’appelante n’est venu témoigner à l’audience. Aucune preuve n’a été fournie quant aux procédures suivies pour recouvrer les créances datant de 2009, 2010 et 2011.
+[68] À mon avis, la preuve fournie par l’appelante ne me permet pas de conclure que les créances de 2009, 2010 et 2011 sont irrécouvrables.
+[69] L’appel est donc rejeté, sans frais.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2015.
+« Dominique Lafleur »
+Juge Lafleur
+RÉFÉRENCE :
+2015 CCI 216
+Nº DU DOSSIER DE LA COUR :
+2014-2465(GST)I
+INTITULÉ DE LA CAUSE :
+L'UNIVERS GYM FITNESS INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 29 juin 2015
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 1er septembre 2015
+COMPARUTIONS :
+Représentant de l'appelante :
+Marcel Tremblay
+Avocat de l'intimée :
+Me Sylvain Lacombe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le par. 18.15(3) de la Loi sur la Cour canadienne de l’impôt a remplacé le par. 18.15(4) auquel il est fait référence dans cette citation.

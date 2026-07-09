@@ -1,0 +1,655 @@
+Title: Hong Kong Style Café Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520901/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-9-520901-hong-kong-style-caf-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-02-11
+
+# Hong Kong Style Café Ltd. c. La Reine
+
+- Citation: 2022 CCI 9
+- Decision date: 2022-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4438, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hong Kong Style Café Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-02-11
+Référence neutre
+2022 CCI 9
+Numéro de dossier
+2017-2747(IT)G, 2017-2749(GST)G, 2017-2753(IT)G, 2017-2754(GST)G, 2017-3727(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2747(IT)G
+2017-2749(GST)G
+ENTRE :
+HONG KONG STYLE CAFÉ LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-2753(IT)G
+2017-2754(GST)G
+ET ENTRE :
+EMERALD SEAFOOD RESTAURANT LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-3727(IT)G
+ET ENTRE :
+DECADE CHUN PING OR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par voie d’observations écrites
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocats de l’appelante :
+Me Jehad Haymour
+Me Sophie Virgi
+Avocates de l’intimée :
+Me Valerie Meier
+Me Katherine Creelman
+Me Amanda Wall
+ORDONNANCE
+VU LA REQUÊTE déposée par l’appelante en radiation de certaines parties de la réponse;
+ET APRÈS lecture des documents déposés, contenant les observations et l’argumentation des avocats respectifs des appelantes et de l’intimée;
+ET APRÈS avoir publié ses motifs pour l’ordonnance à cette date;
+LA COUR ORDONNE :
+La requête en radiation de certaines hypothèses dans la réponse est rejetée;
+Les dépens relatifs à la présente requête seront réservés aux fins de détermination par le juge de première instance.
+Signé à Ottawa, Canada, ce 11e jour de février 2022.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 30e jour de novembre 2022.
+François Brunet, réviseur
+Référence : 2022 CCI 9
+Date : 20220211
+Dossier : 2017-2747(IT)G
+2017-2749(GST)G
+ENTRE :
+HONG KONG STYLE CAFÉ LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-2753(IT)G
+2017-2754(GST)G
+ET ENTRE :
+EMERALD SEAFOOD RESTAURANT LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2017-3727(IT)G
+ET ENTRE :
+DECADE CHUN PING OR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+I. INTRODUCTION
+[1] Les appelantes dans les présents appels dont l’instance est gérée déposent la présente requête en radiation de certaines hypothèses se trouvant dans la réponse du ministre.
+[2] La requête est présentée en application du paragraphe 53 des Règles de la Cour canadienne de l’impôt (procédure générale). Un extrait pertinent de cet article des Règles prévoit ce qui suit :
+53 (1) La Cour peut, à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+[…]
+c) constitue un recours abusif à la Cour;
+[...]
+[3] Le contexte sommaire de ces cotisations concerne trois sociétés qui exploitent des restaurants de cuisine asiatique à plusieurs endroits. Le ministre a établi les cotisations des appelantes aux fins d’obligations fiscales et de pénalités pour trois années et périodes d’impositions : 2006, 2007 et 2008 et les périodes de déclaration de TPS connexes. Le ministre fait valoir que les appelantes ont sous-déclaré des revenus et que l’actionnaire appelant, M. Or, s’est attribué des revenus de la société. Selon les hypothèses du ministre et d’autres motifs dans la réponse, les sociétés appelantes (« sociétés ») ont utilisé un logiciel de « zapping » (camouflage) pour supprimer ou éliminer des opérations enregistrées ou au comptant dans les registres d’un point de vente. Les sociétés ont utilisé le registre diminué des recettes sous-enregistrées pour déclarer un revenu, des fournitures et une TPS moins élevés. Cela aurait permis aux appelantes d’empocher les ventes au comptant « disparues ». En application du paragraphe 163(2) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1, et ses modifications (la « LIR ») et de l’article 285 de la Loi sur la taxe d’accise (L.R.C. 1985, ch. E-15), et ses modifications (la « LTA »), des pénalités ont aussi été imposées. Certaines années d’imposition et périodes de déclaration se situent en dehors de la période normale de nouvelle cotisation et le ministre s’appuie sur le paragraphe 152(4) de la LIR et l’article 298 de la LTA pour établir une cotisation en dehors de ces périodes.
+II. LES OBSERVATIONS DES PARTIES CONCERNANT LA REQUÊTE
+Les appelantes
+i) Arguments et observations générales
+[4] En général, les motifs des appelantes justifiant la présente requête peuvent se résumer de la façon suivante :
+i) La question en litige au cœur de la présente requête est la nécessité de déterminer les faits que l’intimée doit prouver dans les réponses aux avis d’appel [1] ;
+ii) Les cotisations du ministre sont principalement, si ce n’est uniquement, fondées sur l’utilisation d’un « nouvel algorithme non démontré », le programme d’analyse de la section de la vérification du commerce électronique « algorithme de la SVCE » ou « algorithme » [2] . Des admissions particulières de la part du vérificateur de la SVCE afin d’étoffer l’allégation selon laquelle les cotisations du ministre ont été établies exclusivement sur la base de l’algorithme de la SVCE. Par ailleurs, la seule connexion aux appelantes est les données brutes de points de vente obtenues pendant la vérification, analysées ensuite par le vérificateur au moyen de l’algorithme [3] . Autrement, le ministre ne peut justifier ses soi-disant montants en espèces non déclarés par renvoi à tout relevé bancaire ou autre information financière de l’une des appelantes [4] ;
+iii) L’algorithme, développé et utilisé exclusivement par les vérificateurs, fait que le ministre est la seule partie en pleine possession de tous les renseignements liés à cet algorithme de la SVCE, qui constitue le fondement factuel pour les cotisations [5] . Par conséquent, les appelantes ne sont pas en mesure de réfuter l’une ou l’autre des hypothèses de fait ou des conclusions factuelles dans les réponses liées à l’algorithme de la SVCE. Permettre que ces hypothèses demeurent nécessite que les appelantes réfutent les faits de l’algorithme du ministre au procès;
+iv) Pour cette raison, le ministre, et non les appelantes, doit assumer le fardeau de la preuve associé à l’algorithme et à l’analyse de la SVCE [6] ;
+v) Enfin, la présente requête présentée en application de l’article 53 n’est pas prématurée; une telle détermination à ce stade interlocutoire est justifiable, compte tenu des coûts et du préjudice indu qui pourraient découler de la nécessité de réfuter l’algorithme de la SVCE [7] ;
+ii) Le regroupement des hypothèses est contesté
+[5] Plus particulièrement, les appelantes contestent les hypothèses énumérées dans la réponse du ministre. Répéter minutieusement chaque paragraphe contesté au sein de chaque réponse n’est pas nécessaire pour comprendre les arguments regroupés des appelantes qui remettent en question les hypothèses structurées parmi les quatre appelantes. Plutôt, pour aider les présents motifs, l’annexe A est jointe. Dans l’annexe A, les groupes d’arguments peuvent s’inscrire dans la nature des hypothèses et des éléments de preuve assemblés regroupés des documents d’affidavit des appelantes. Dans les réponses des trois sociétés se trouvent les paragraphes réponses triés par type d’hypothèse, à leur tour mis en correspondance avec les motifs communs pour la radiation du paragraphe (« ensembles d’arguments ») et le fondement probatoire (« ensembles probatoires ») pour ce faire.
+[6] En général, les regroupements d’arguments sont triés et décrits de la façon suivante dans les ensembles d’arguments :
+Ensemble d’arguments no 1 faisant référence à l’algorithme de la SVCE et aux sources d’information
+L’hypothèse dans la réponse fait référence au système logiciel Profitek en général et non au système particulier utilisé par les appelantes [8] ;
+L’algorithme de la SVCE est la source d’information de l’hypothèse [9] ;
+Ni les appelantes ni leurs employés ne sont la source d’information sous-jacente à l’hypothèse [10] .
+L’ensemble d’arguments no II fait référence aux conclusions présumées émanant de l’algorithme de la SVCE plutôt qu’aux registres ou à la vérification physique des appelantes [11] .
+L’hypothèse est une conclusion de fait du vérificateur de la SVCE et du vérificateur de l’ARC fondée uniquement sur l’algorithme de la SVCE par l’application de l’algorithme aux données brutes de points de vente [12] ;
+Le seul lien entre l’hypothèse et les appelantes et l’établissement des nouvelles cotisations précédentes sont les données brutes de points de vente [13] ;
+L’hypothèse n’est pas fondée sur un examen des registres financiers par le vérificateur de l’ARC [14] .
+iii) Ensembles probatoires qui appuient la radiation des hypothèses
+[7] Les appelantes affirment que ces ensembles de preuve sont démontrés de façon fiable par les réponses données ci-dessous et font expressément mention dans chaque paragraphe de l’annexe A de la réponse de chacune des sociétés. Sous la forme d’affidavits, les appelantes font valoir que les ensembles probatoires ci-dessous donnés par le représentant de l’intimée au cours de l’interrogatoire préalable démontrent que les hypothèses en réponse camouflent simplement les données dérivées de l’algorithme de la SVCE :
+Ensemble probatoire no 1 : Admis par l’intimée à la pièce B – Réponses 93 et 98 de la requête, Pièce C – Transcription aux pages 238 à 249 [15] .
+Ensemble probatoire no 2 : Conclusions de fait rendues par le vérificateur de la SVCE et le vérificateur de l’ARC : Pièce B – Réponses 95a), 95b), 100a), 100b), 102a), 102b) de requête [16] .
+Ensemble probatoire no 3 : Conclusions de fait rendues par la SVCE en fonction seulement de l’application de la théorie de la SVCE aux données brutes des points de vente des appelantes : Pièce B – Réponses 95(c), 100(c) de la requête, Pièce C – Transcription aux pages 245, 246, 253, 254, 258-268, 275-283, 285, 286 [17] .
+Ensemble probatoire no 4 : Le seul lien à l’appelante dans la formulation de l’hypothèse factuelle à laquelle renvoie le paragraphe précisé et à l’établissement des nouvelles cotisations précédentes sont les données brutes des points de vente des appelantes : Pièce B – Réponses 95(d), 100(d) de la requête [18] .
+Ensemble probatoire no 5 : Les hypothèses n’étaient pas fondées sur un examen des registres financiers des appelantes par le vérificateur de l’ARC : Pièce B – Réponses 95(e), 100(e), 102(e) de la requête [19] .
+[8] Comme je l’ai indiqué, dans l’ensemble des appels des sociétés, les hypothèses essentielles tracées contre les ensembles d’arguments et les ensembles probatoires sont mieux décrites dans le tableau ci-joint sous l’annexe A des présents motifs de l’ordonnance. La cotisation établie à l’égard de M. Or utilise des hypothèses semblables regroupées, mais selon un format conséquent en raison de l’espèce d’avantage conféré à un actionnaire de sa cotisation. Il est difficile et superflu à l’objectif d’inclure complètement cette réponse dans l’annexe A, alors c’est fait partiellement. Quoi qu’il en soit, la preuve, l’analyse et les conclusions de la requête s’appliquent logiquement à partir des réponses des sociétés par rapport à la réponse de M. Or.
+L’intimée
+i) Les appelantes « assument » les faits contestés exposés par les hypothèses.
+[9] En réponse, l’intimée affirme que les hypothèses contestées ne relèvent pas de la connaissance exclusive ou particulière des faits par le ministre [20] . Par conséquent, les appelantes ont le fardeau de réfuter les présomptions du ministre en présentant des éléments de preuve contradictoires au procès [21] .
+[10] Plus particulièrement, l’intimée fait valoir que les appelantes ont la connaissance exclusive de la question de savoir si elles ont ou non supprimé des postes de leurs bases de données et si l’actionnaire, M. Or, s’est attribué ou non de l’argent comptant de ses restaurants [22] . Le fait que les travaux de vérification concernaient l’examen des dossiers électroniques des ventes, au lieu des dossiers papier des ventes, n’est pas un fondement pour radier les hypothèses de fait du ministre [23] .
+ii) La preuve contestée relève du juge au procès
+[11] L’intimée affirme qu’il est prématuré de déterminer le fardeau de la preuve, car il appartient au juge du procès de trancher la question après avoir bénéficié de tous les éléments de preuve dont la Cour est saisie [24] .
+iii) Le revenu déclaré des appelantes constitue l’essentiel du litige
+[12] L’intimée demande à la Cour de n’accorder aucun poids à la nécessité alléguée des appelantes d’engager des frais d’expertise coûteux pour réfuter l’utilisation de l’algorithme de la SVCE par les représentants du ministre [25] . En outre, si le juge de première instance accepte que la suppression de registres a eu lieu, les critiques à l’égard des travaux de vérification et de l’algorithme de la SVCE ne suffiront pas pour que les appelantes se soient acquittées de leur fardeau de preuve [26] . Les appelantes devront tout de même présenter des éléments de preuve pour convaincre le juge de première instance qu’il est plus probable qu’improbable que leurs revenus déclarés sont préférables à ceux utilisés par le ministre pour imposer les nouvelles cotisations [27] .
+III. LE DROIT
+Le fardeau de la preuve dans les appels en matière d’impôt sur le revenu
+[13] Les observations des deux parties se concentrent sur les hypothèses du ministre et à qui incombe le fardeau de la preuve concernant la question en litige présentée à la Cour de l’impôt. Le fardeau de la preuve dans les appels en matière d’impôt sur le revenu est quelque peu nuancé, mais il n’est pas tout à fait unique. D’aucuns estiment qu’il est substantiellement unique. Il ne fait aucun doute que cela alimente la mystique, mais cela en soi ne le rend pas ainsi. Récemment, des précisions supplémentaires ont été ajoutées. Dans l’arrêt Sarmadi, le sommaire en observation incidente le juge Webb prévoit souvent un examen très approfondi du droit concernant le fardeau de la preuve dans les appels en matière d’impôt sur le revenu [28] .
+63 Lorsque tous les éléments de preuve ont été présentés, le juge de la Cour de l’impôt devrait alors (et seulement alors) déterminer si le contribuable s’est acquitté de ce fardeau, le fardeau de la preuve. Si le contribuable a réfuté, selon la prépondérance des probabilités, les faits particuliers présumés par le ministre, en se fondant sur tous les éléments de preuve, aucun fardeau n’est déplacé sur le ministre de réfuter la preuve que le juge de la Cour de l’impôt a estimé avoir été établie par le contribuable. Soit le contribuable a réfuté les faits présumés, soit il ne l’a pas fait.
+[14] À l’occasion de la même affaire, le juge Stratas a invité les juges de la Cour de l’impôt à émettre des observations et à donner des perspectives sur la question [29] . Un an plus tard à l’occasion de l’affaire Morrison [30] , le juge Owen s’est dit en grande partie d’accord avec les opinions exprimées par le juge Webb dans l’arrêt Samardi et il a donné un autre aperçu du droit concernant le fardeau de la preuve dans les appels en matière d’impôt sur le revenu [31] . Le juge Owen a écrit avec beaucoup de verve :
+[72] Je commencerai par faire observer qu’il n’y a que deux fardeaux reconnus par le droit canadien, soit le fardeau de la preuve (que j’appellerai le « fardeau de persuasion ») et le fardeau de présentation. Dans l’arrêt R c. Fontaine, 2004 CSC 27 (« l’arrêt Fontaine »), une formation unanime de neuf juges de la Cour définit sommairement ces deux fardeaux aux paragraphes 10 à 12 :
+La question qui nous intéresse est la charge de présentation — et non la charge de persuasion [c’est-à-dire la charge de la preuve] — afférente à la défense d’automatisme avec troubles mentaux.
+La « charge de présentation » n’est pas la charge de la preuve. Elle détermine si une question doit être laissée au juge des faits, alors que la « charge de persuasion » détermine la façon de trancher la question.
+Ces deux questions sont fondamentalement différentes. La première est une question de droit; la seconde est une question de fait. [...] [La Cour souligne.]
+[73] La partie à laquelle incombe le fardeau de la preuve a la responsabilité de s’assurer qu’il y a suffisamment d’éléments de preuve de l’existence ou de l’inexistence d’un fait ou d’une question en particulier pour satisfaire au critère préliminaire pour ce fait ou cette question en particulier, mais n’est pas tenue de prouver quoi que ce soit en réalité. La question de savoir si le fardeau de la preuve est acquitté est une question de droit tranchée par le juge d’instance. Parmi les exemples courants où le fardeau de persuasion doit être acquitté, il y a le cas du demandeur sur requête en non-lieu du défendeur, le cas de la Couronne sur requête en verdict imposé de l’accusé et le cas de l’accusé dans le but de présenter certains moyens de défense positifs devant le juge des faits.
+[74] La partie à laquelle incombe le fardeau de persuasion doit prouver les faits à l’égard de la ou des questions en cause selon la norme de preuve civile ou pénale. La norme de preuve civile est toujours fondée sur la prépondérance des probabilités : F.H. c. McDougall, 2008 CSC 53 (« McDougall ») et Merck Frosst Canada Ltd. c. Canada (Santé), 2012 CSC 3 (« Merck Frosst ») au paragraphe 94.
+[75] Comme l’a observé le juge Webb dans l’arrêt Sarmadi, c’est le juge des faits qui détermine si le fardeau de persuasion est respecté à la conclusion de l’affaire (après que les éléments de preuve des deux parties eurent été versés au dossier). Dans l’arrêt Robins c. National Trust Co., [1927] A.C. 515 (« Robins »), le Conseil privé définit le rôle du fardeau de persuasion comme suit :
+[traduction] Toutefois, le fardeau de la preuve en tant que facteur déterminant de l’ensemble de l’affaire ne peut être invoqué que si le juge estime que les éléments de preuve en faveur et contre sont à ce point équilibrés qu’il ne peut en arriver à une conclusion certaine. Le fardeau de la preuve permettra alors de trancher la question. Mais si le juge, après avoir entendu et soupesé la preuve, tire une conclusion déterminante, la question du fardeau de la preuve n’est alors pas pertinente et n’a pas besoin d’être examinée davantage.
+[76] Le droit matériel détermine lequel des deux fardeaux, le cas échéant, incombe à une partie. Habituellement, la partie à laquelle incombe le fardeau de persuasion d’un fait ou d’une question doit également assumer le fardeau de la preuve pour ce fait ou cette question. Dans les actions civiles, le demandeur assume habituellement le fardeau de persuasion parce qu’il recherche la modification du statu quo.
+[77] Fait important, une fois que le fardeau de persuasion ou le fardeau de la preuve est attribué à une partie, ce fardeau n’est pas « déplacé » vers l’autre partie. Les auteurs SLB font le commentaire suivant à ce sujet :
+[traduction] La jurisprudence fait souvent référence au déplacement du fardeau de la preuve ou du fardeau de persuasion (juridique).
+À l’exception de l’application des présomptions de droit ou de dispositions législatives réfutables, ces fardeaux ne sont pas déplacés.
+À qui incombe le fardeau de la preuve dans les appels en matière d’impôt sur le revenu?
+[15] La partie à laquelle incombe le fardeau de persuasion doit prouver les faits à l’égard de la question en cause. En vertu de la règle générale dans d’autres affaires civiles, la partie qui allègue un fait particulier doit le démontrer [32] . Dans ces affaires civiles, la norme de preuve applicable selon laquelle les faits sont démontrés est la « prépondérance des probabilités » [33] . Le fardeau de la preuve est une question de fait [34] .
+Affaire(s) en matière d’hypothèse(s)
+[16] Sauf certaines exceptions, dans les appels en matière d’impôt sur le revenu, le fardeau de la preuve incombe au contribuable à l’égard de l’exactitude des cotisations (ou plus précisément, de démontrer l’inexactitude) de l’impôt sur le revenu contesté établi par le ministre dans la (nouvelle) cotisation [35] . Cela est conforme à la règle générale pour les affaires civiles, puisque le contribuable est celui qui conteste l’exactitude de la cotisation (le statu quo) [36] . Une fois que le fardeau de la preuve est attribué à une partie, ce fardeau n’est pas déplacé vers l’autre partie [37] .
+[17] En établissant une cotisation, le ministre peut se fonder sur des hypothèses de fait puisque le contribuable a généralement une connaissance particulière des faits pertinents. Toutefois, le ministre est tenu par certaines obligations en ce qui a trait à ses hypothèses de fait. Comme l’a observé le juge Létourneau dans l’arrêt Canada c. Anchor Pointe Energy [38] [souligné dans l’original] :
+27 Dans notre système fiscal fondé sur l’autodéclaration, le ministre émet des hypothèses de fait pour déterminer l’obligation fiscale du contribuable. Comme l’a dit le juge Rothstein, alors juge à la Cour d’appel fédérale, dans l’arrêt Canada c. Anchor Pointe Energy Ltd., précité, « [l]a Couronne a pour pratique de divulguer dans ses actes de procédure les hypothèses de fait sur lesquelles le ministre s’est fondé pour établir le montant de la dette fiscale »; voir le paragraphe 2. Pour reprendre les termes du juge en chef adjoint Bowman, maintenant juge en chef de la Cour canadienne de l’impôt, « ces hypothèses sont censées représenter une communication complète et honnête des faits sur lesquels le ministre du Revenu national s’est fondé en établissant la cotisation » : Holm et al. c. La Reine, 2003 DTC 755, paragraphe 9.
+28 Lorsque les hypothèses sont plaidées, les contribuables ont le fardeau initial de réfuter, selon la prépondérance des probabilités, les hypothèses de fait du ministre : voir Canada c. Anchor Pointe Energy Ltd., précité, paragraphe 2, Hickman Motors Ltd c. Canada [1997] 2 R.C.S. 336, paragraphe 92. Les hypothèses non plaidées n’ont pas d’effet sur le fardeau de la preuve, ni dans un sens, ni dans l’autre : voir La Reine c. Bowens, 96 DTC 6128, page 6129, Pollock c. La Reine, 94 DTC 6050 (CAF), page 6053.
+29 L’équité exige que les faits allégués comme hypothèses soient complets, précis, exacts et énoncés de façon honnête et franche afin que le contribuable sache bien clairement ce qu’il devra prouver : Canada c. Anchor Pointe Energy Ltd., précité, paragraphe 23, Holm et al. c. La Reine, précité, Canada c. Loewen, [2004] 4 R.C.F. 3, paragraphe 9. (C.A.F.), Grant c. La Reine et al., 2003 DTC 5160, page 5163, First Fund Genesis Corporation c. Sa Majesté la Reine, 90 DTC 6337, page 6340, Shaughnessy c. Sa Majesté la Reine, 2002 DTC 1272, paragraphe 13, Stephen c. Canada, [2001] A.C. I. no 250, paragraphe 6.
+Limites des hypothèses
+[18] La règle selon laquelle les hypothèses de fait formulées par le ministre lors de la cotisation de l’impôt sur le revenu du contribuable sont tenues comme étant vraies comprend trois grandes exceptions.
+[19] Premièrement, fondamental au présent appel est que le contribuable n’a pas une connaissance particulière des faits. Enc e qui concerne l’affaire Anchor Pointe, la question en litige était de savoir si le fardeau de la preuve incombait à la Couronne à l’égard des hypothèses de fait sur lesquelles le ministre se fondait pour ratifier ses nouvelles cotisations. Dans la réponse, le ministre avait inclus les hypothèses selon lesquelles l’achat de données sismiques par les prédécesseures n’a pas été effectué en vue de déterminer l’existence, la localisation, l’étendue ou la qualité d’un gisement de pétrole ou de gaz naturel et les données sismiques n’ont pas été utilisées à des fins d’exploration. Par conséquent, le ministre établissait une nouvelle cotisation à l’égard des coûts déclarés des données sismiques comme étant des « frais d’exploration au Canada » (« FEC »).
+[20] En formulant le fardeau de la preuve applicable (en l’espèce, l’expression utilisée était « la charge de la preuve »), le juge Létourneau a observé :
+35 Dans l’arrêt Les Voitures Orly Inc./Orly Automobiles Inc. c. La Reine, 2005 CAF 425, 2006 DTC 1114, au paragraphe 20, la Cour a réaffirmé dans les termes suivants l’importance de la règle :
+En résumé, nous ne trouvons aucun mérite aux prétentions de l’appelante selon lesquelles celle-ci n’a plus la charge de réfuter les hypothèses faites par le ministre. Nous souhaitons réaffirmer fermement et fortement le principe selon lequel le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement. L’attribution du fardeau de la preuve au contribuable repose sur un motif très simple et concret énoncé il y a plus de 80 ans dans les arrêts Anderson Logging Co. c. British Columbia, [1925] R.C.S. 45; Pollock c. Canada (Ministre du Revenu National) (1993), 161 N.R. 232 (C.A.F.); Vacation Villas of Collingwood Inc. c. Canada, (1996) 133 D.L.R. (4th) 374 (C.A.F.); Anchor Pointe Energy Ltd. c. Canada, 2003 CAF 294. Ce motif est qu’il s’agit de l’entreprise du contribuable. C’est lui qui sait comment et pourquoi son entreprise fonctionne comme elle le fait et pas autrement. Il connaît et possède des renseignements dont le ministre ne dispose pas. Il possède des renseignements qui sont à sa portée et sur lesquels il exerce un contrôle. Le système fiscal est fondé sur l’autocotisation. Tout renversement de la charge du contribuable de fournir et de rapporter les renseignements dont il a connaissance ou qu’il contrôle peut mettre en danger l’intégrité, le caractère contraignant et, par conséquent, la crédibilité du système. Ceci dit, nous reconnaissons que dans certaines circonstances le renversement du fardeau de la preuve peut être justifié, mais ce n’est pas le cas en l’espèce.
+36 Je conviens avec le juge Bowman, alors juge en chef adjoint de la Cour de l’impôt, qu’il peut y avoir des cas où les hypothèses de fait invoquées relèvent de la connaissance exclusive ou particulière du ministre et que la règle concernant le fardeau de la preuve peut avoir des conséquences inéquitables au point de justifier une mesure corrective : voir la décision Holm et al. c. La Reine, précitée, paragraphe 20.
+37 Cependant, à l’instar de l’affaire Voitures Orly Inc., ce n’est pas le cas en l’espèce. L’objectif de l’achat des données sismiques et l’utilisation ultérieure de ces données relèvent de la connaissance exclusive et particulière de l’intimée.
+[21] Par conséquent, l’équité exige que l’on ne fasse pas porter au contribuable le fardeau de réfuter une hypothèse factuelle précise formulée par le ministre. Par exemple, lorsque le ministre a la connaissance unique ou particulière du fait, la Couronne ne peut bénéficier de la véracité présumée du fait [39] .
+[22] Deuxièmement, si le ministre souhaite établir une nouvelle cotisation à l’égard d’un contribuable après la période normale de nouvelle cotisation, il incombe au ministre d’établir, selon la prépondérance des probabilités, que le contribuable a fait une présentation erronée des faits et que cette dernière est attribuable à la négligence, l’inattention ou l’omission volontaire [40] . Toutefois, si un contribuable ne demande pas au ministre de s’acquitter de son fardeau, le ministre n’a pas l’obligation de présenter une preuve démontrant qu’il était justifié d’établir la nouvelle cotisation en dehors de la période normale de nouvelle cotisation [41] .
+[23] Enfin, il existe des situations dans lesquelles le ministre cherche à établir certaines pénalités. Lorsque des pénalités sont imposées pour de faux énoncés ou des omissions, faits sciemment ou dans des circonstances équivalant à faute lourde, il incombe au ministre de prouver les faits appuyant l’imposition des pénalités [42] . Toutefois, le contribuable a toujours le fardeau de démolir les hypothèses du ministre appuyant la cotisation d’impôt. Même si le ministre portera le fardeau au procès dans les présents appels concernant la deuxième exception et la dernière, ces exceptions ne sont pas pertinentes en l’espèce.
+À quoi est confrontée la preuve prima facie?
+[24] Nonobstant ces exceptions, de façon générale, le ministre fera reposer sa cotisation sur une multitude de faits présumés; il revient au contribuable de les contester au procès. Cependant, le niveau exact ou l’étendue selon laquelle le contribuable doit convaincre la Cour pour avoir gain de cause en appel incarnent la tournure et le choix du contentieux fiscal : la norme du fardeau de la preuve civile par rapport à la norme « prima facie » potentiellement unique.
+[25] Le débat découle en grande partie des observations suivantes formulées par la juge L’Heureux-Dubé. Normalement pleinement référencée, la juge dans l’arrêt Hickman Motors [43] a observé :
+92 Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités: Dobieco Ltd. c. Minister of National Revenue, [1966] R.C.S. 95, et que, à l’intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve: Continental Insurance Co. c. Dalton Cartage Co., [1982] 1 R.C.S. 164; Pallan c. M.R.N., 90 D.T.C. 1102 (C.C.I.), à la p. 1106. En établissant des cotisations, le ministre se fonde sur des présomptions : (Bayridge Estates Ltd. c. M.N.R., 59 D.T.C. 1098 (C. de l’É.), à la p. 1101), et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486; Kennedy c. M.R.N., 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu’a utilisées le ministre, mais rien de plus : First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+[93] L’appelant s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie : Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.N.R., 82 D.T.C. 1679 (C.R.I.). En l’espèce, l’appelante a produit une preuve qui respecte non seulement la norme prima facie, mais, selon moi, une norme encore plus sévère. À mon avis, l’appelante a « démoli » les présomptions suivantes : a) la présomption de l’existence de « deux entreprises », en produisant une preuve claire de l’existence d’une seule entreprise; b) la présomption qu’il n’y a « aucun revenu », en produisant une preuve claire de l’existence d’un revenu. Il est établi en droit qu’une preuve non contestée ni contredite « démolit » les présomptions du ministre : voir par exemple MacIsaac c. M.R.N., 74 D.T.C. 6380 (C.A.F.), à la p. 6381; Zink c. M.R.N., 87 D.T.C. 652 (C.C.I.). Comme je l’ai déjà dit, aucune partie de la preuve produite par l’appelante en l’espèce n’a été contestée ni contredite. Par conséquent, à mon avis, l’appelante a « démoli » les présomptions sur l’existence de « deux entreprises » et sur le fait qu’il n’y a « aucun revenu ».
+94 Lorsque l’appelant a « démoli » les présomptions du ministre, le « fardeau de la preuve [...] passe [...] au ministre qui doit réfuter la preuve prima facie » faite par l’appelant et prouver les présomptions: Magilb Development Corp. c. La Reine, 87 D.T.C. 5012 (C.F. 1re inst.), à la p. 5018. Ainsi, dans la présente affaire, la charge est passée au ministre, qui doit prouver ses présomptions suivant lesquelles il existe « deux entreprises » et il n’y a « aucun revenu ».
+95 Lorsque le fardeau est passé au ministre et que celui-ci ne produit absolument aucune preuve, le contribuable est fondé à obtenir gain de cause : voir par exemple MacIsaac, précité, où la Cour d’appel fédérale a infirmé le jugement de la Division de première instance (à la p. 6381) pour le motif que le « témoignage n’a été ni contesté ni contredit, et aucune objection ne lui a été opposée ». Voir aussi Waxstein c. M.R.N., 80 D.T.C. 1348 (C.R.I.); Roselawn Investments Ltd. c. M.R.N., 80 D.T.C. 1271 (C.R.I.). Se reporter également à Zink, précité, à la p. 653, où, même si la preuve « échappait à la logique et présentait de graves lacunes de fond et de chronologie », l’appel du contribuable a été accueilli parce que le ministre n’a présenté aucune preuve quant à la source de revenu. Dans la présente affaire, je remarque que la preuve ne contient aucune « lacune » de ce genre. Par conséquent, puisque le ministre n’a produit absolument aucune preuve et que personne n’a soulevé le moindre doute quant à la crédibilité, l’appelante est fondée à obtenir gain de cause. [Non souligné dans l’original.]
+À la fin du procès, les meilleurs arguments, tout bien pesés, l’emportent
+[26] Même si ces observations sont à l’origine d’une jurisprudence partagée, elle enseigne généralement que ces observations n’étaient pas censées modifier la norme de preuve (c.-à-d. le contribuable doit prouver selon la prépondérance des probabilités que les faits présumés ne sont pas vrais) [44] .
+[27] Cela incarne la règle générale portant que le juge à apprécier toute la preuve sur la base de la prépondérance des probabilités, et après l’avoir entendue, déterminer si le fardeau de la preuve à l’égard d’une question en litige a été acquitté.
+IV. ANALYSE
+[28] Les appelantes affirment que le ministre a la connaissance unique et particulière de l’algorithme de la SVCE utilisé pour relever les postes manquants dans les données brutes des points de vente [45] . Elles font également valoir qu’il s’agit d’une hypothèse de fait explicite ou implicite concernant du revenu non déclaré ou des ventes manquantes. Par conséquent, la Cour doit accueillir la requête en radiation (avec autorisation de modification) de la réponse de l’intimée à l’égard des hypothèses du ministre concernant l’algorithme [46] . Sans mesure, les appelantes seront forcées d’engager des coûts importants pour réfuter l’algorithme de la SVCE [47] .
+[29] Plus précisément, les appelantes font valoir aux paragraphes 10, 11 et 21 de leur requête en radiation [non soulignés dans l’original] :
+[traduction]
+10. Cette demande n’est pas prématurée. Sans clarification à l’égard de cette question à cette étape du litige, il est impossible pour les appelantes de connaître les moyens qui leur seront opposés à l’audition des appels. Les appelantes seront forcées d’engager des coûts substantiels dans le cadre de la préparation du procès pour tenter de réfuter une théorie nouvelle et non encore éprouvée de la SVCE, peu importe ce que le juge qui préside pourrait conclure concernant le fardeau de la preuve sur les hypothèses contestées, ce qui cause un préjudice important aux appelantes.
+11. Plus particulièrement, si la Cour conclut que les appelantes sont tenues de réfuter les hypothèses contestées dans les réponses de l’intimée, les appelantes devront nécessairement retenir les services d’un témoin expert pour inverser la conception de la théorie nouvelle et non démontrée de la SVCE sur laquelle les hypothèses contestées sont fondées. Ces hypothèses non contestées ne sont pas des hypothèses relevant de la connaissance du contribuable, mais uniquement de la connaissance du ministre.
+[...]
+21. Le ministre est la seule partie au présent appel en pleine possession de toute information liée à cette théorie de la SVCE et analyse de la SVCE sur laquelle les cotisations du ministre sont fondées. Pour ce motif, il est « évident et manifeste »11 que le ministre doit plaider convenablement les hypothèses de fait et d’autres faits qu’il détient ou sur lesquels il s’appuiera afin de fournir aux appelantes des précisions sur les éléments qu’elles doivent réfuter et le fardeau au procès. Agir autrement soumettrait les appelantes au fardeau indu et possiblement insurmontable de réfuter une nouvelle théorie dont les appelantes n’ont pas la connaissance.
+[30] À un niveau élevé, les arguments des appelantes peuvent être résumés de la façon suivante :
+La SVCE a développé l’algorithme de la SVCE et a réalisé son analyse au moyen de l’algorithme [48] ;
+L’algorithme de la SVCE est ni prouvé ni démontré [49] ;
+Les hypothèses factuelles (suppression et modification de postes, attribution d’opérations en espèces à l’actionnaire, etc.) pour la cotisation sont dérivées de l’algorithme de la SVCE [50] ;
+Les vérificateurs de la SVCE n’ont pas analysé le logiciel Profitek utilisé par les appelantes [51] ;
+Le ministre n’a jamais trouvé de « zapper » dans l’un ou l’autre des restaurants (appareil ou logiciel qui permettrait à l’utilisateur de supprimer ou de modifier les données du système) [52] ;
+Les données des points de vente étaient la seule source d’information qui liait les appelantes à l’algorithme de la SVCE. Par conséquent, les représentants du ministre sont les seuls qui savent comment l’algorithme de la SVCE s’applique aux hypothèses et ils doivent être tenus de le démontrer [53] .
+[31] La cible des arguments des appelantes est l’algorithme de la SVCE. Toutefois, cela ne tient pas compte du fondement factuel de la cotisation : les postes manquants des données.
+[32] Les faits présumés du ministre, qui n’ont pas été prouvés ou réfutés catégoriquement à cette étape de la requête, peuvent être réduits aux « faits présumés essentiels » suivants :
+Les appelantes ont supprimé ou modifié des postes des bases de données de leur système [54] ;
+Les appelantes ont sous-déclaré leurs revenus en modifiant les bases de données et en payant en espèces certaines dépenses [55] ;
+L’appelant, M. Or, s’est attribué le revenu non déclaré [56] .
+Hypothèses, méthodologie et preuve
+[33] L’intimée ne nie pas que le ministre a la connaissance de l’algorithme de la SVCE. Elle affirme à bon droit que « bien que le ministre a la connaissance de l’algorithme (c.-à-d. processus) qu’il utilise pour estimer certaines des opérations supprimées, les appelantes devraient connaître et être en mesure de prouver leurs revenus réels et leur revenu net. » [57] .
+[34] En admettant cela, l’intimée établit une distinction clé entre : i) la méthode, l’analyse ou la preuve par laquelle le ministre a observé et estimé les postes manquants (c.-à-d. l’algorithme, étant le processus); ii) les faits présumés selon lesquels des postes sont manquants et que les appelantes ont supprimé ou manipulé les registres du système. Il est tout à fait du ressort du ministre de présumer que ce revenu était non déclaré, car il affirme par les hypothèses que des opérations ont été supprimées.
+[35] Les hypothèses et la preuve ont bien été délimitées par l’intimée. L’algorithme de la SVCE est (ou sera) un élément de preuve présenté par la Couronne pour illustrer comment les appelantes ont manipulé les registres de ventes, dont l’existence est divulguée par l’intimée dans ses actes de procédure et décrite dans les interrogatoires préalables. L’hypothèse sous-jacente selon laquelle les appelantes avaient sous-déclaré des revenus n’est pas modifiée par cet algorithme, mais elle sera démontrée par celui-ci. Par conséquent, l’algorithme de la SVCE est analogue à d’autres méthodes de vérification et à une preuve qui seraient utilisées dans le cadre d’une vérification de restaurant pour présumément déterminer le revenu non déclaré.
+[36] Les nouvelles techniques utilisées par les représentants du ministre associées aux méthodes concernant les cotisations de rechange se produisent fréquemment. Ce genre de techniques novatrices ont été examinées par la Cour. Dans la décision 9134-2485 Québec Inc. [58] , le ministre a établi une nouvelle cotisation aux fins de la TPS à l’égard de l’appelante, un restaurant, sur la base d’opérations manquantes dans ses registres. Dans cette affaire, le ministre a présumé que : i) les fournitures relatives aux activités commerciales de l’appelante étaient enregistrées à l’aide d’un logiciel avec lequel l’appelante pouvait utiliser un camoufleur de ventes, ou « zapper », afin d’effacer de ses fichiers comptables certaines fournitures taxables effectuées; ii) vu l’utilisation d’un camoufleur de ventes, les registres et les documents comptables de l’appelante étaient incomplets et imprécis, et de la TPS était due. Une vérificatrice et un technicien en informatique de l’Agence du Revenu du Québec (« ARQ ») ont analysé les données du système de vente du restaurant et ont conclu que l’appelante avait utilisé des « scripts » ou un programme informatique pour supprimer 7 307 factures établies pendant la période visée. En fin de compte, l’équipe de l’ARQ a pu récupérer 6 863 des factures effacées. On a supposé que les factures manquantes avaient aussi été supprimées et on a accédé à la TPS sur toutes les factures non déclarées, à la fois supprimées et manquantes.
+La numérisation des registres du contribuable et les méthodes d’analyse en évolution
+[37] Dans la décision Xue [59] , le ministre a établi une nouvelle cotisation à l’égard de M. et Mme Xue et leur société pour un revenu non déclaré et de la TPS non perçue sur des ventes de leur restaurant. La Couronne alléguait et présumait que les appelants avaient tous les deux sous-déclaré et attribué des ventes au comptant en supprimant des opérations du système de vente Profitek.
+[38] Largement analogue aux présents appels, le juge McPhee a écrit [60] [non souligné dans l’original] :
+36 À l’occasion de l’affaire Eisbrenner v. Canada (2020 FCA 93), la Cour d’appel fédérale a récemment examiné le fardeau de la preuve qui incombe à l’appelante devant la Cour de l’impôt. Il incombe à un contribuable de prouver les faits qu’il allègue dans son avis d’appel et qui sont niés par l’intimée.
+37 Il convient de noter que la capacité de l’intimée à invoquer les hypothèses formulées par le ministre est propre aux appels en matière d’impôt. Dans un tel cas, pour avoir gain de cause, le contribuable doit réfuter les hypothèses de fait qui nuisent à son appel. Dans la réponse produite en l’espèce, plusieurs hypothèses clés ont été établies et invoquées par l’intimée dans les éléments de preuve qu’elle a présentés. Peu d’hypothèses, voire aucune, n’ont été expressément visées par les éléments de preuve présentés par les appelants.
+38 De plus, les appelants soutiennent que le ministre a mal interprété les données du système POS. Dans ses actes de procédures, l’intimée a nié cette allégation. Les appelants n’ont présenté aucun élément de preuve, selon la prépondérance des probabilités, pour étayer cette position.
+39 En tant que juge qui préside, je m’attends à ce que des éléments de preuve soient produits pour réfuter ces hypothèses. Ces attentes ne sont pas des exigences auxquelles doit satisfaire un appelant. Dans plusieurs cas, un appelant peut réfuter des hypothèses par la présentation d’éléments de preuve que le juge en première instance ne s’attend pas à recevoir. Il va sans dire que, parmi les parties devant la Cour, c’est l’appelant qui connaît le mieux sa propre entreprise. Au procès, les appelants ont uniquement témoigné de façon intéressée, sans corroboration. Leurs témoignages étaient souvent contredits par divers documents commerciaux dont la Cour était saisie et, comme je l’ai déjà mentionné, dépourvus de toute vraisemblance.
+40 Les éléments de preuve présentés par les appelants, de même que le contre-interrogatoire mené par l’avocat des appelants, n’ont pas réussi à réfuter les hypothèses formulées dans les réponses7. Même en l’absence d’hypothèses, je serais arrivé aux mêmes conclusions que j’ai tirées en ce qui concerne le revenu non déclaré. Cette conclusion est fondée sur les éléments de preuve présentés par l’intimée au procès, obtenus le plus souvent à partir des documents commerciaux préparés dans le système Profitek.
+[39] Le juge McPhee reconnaît que le fait que le ministre invoque les données brutes des points de vente du système Profitek des appelants n’écarte pas la nécessité des appelantes à présenter des éléments de preuve pour contrer l’analyse de ces données par le ministre. Puisqu’il a été présumé que les registres de la base de données du système n’étaient pas fiables, les appelantes avaient besoin de présenter des éléments de preuve pour démontrer leur fiabilité ou pour expliquer les incohérences. Les appelantes n’étaient pas tenues de réfuter l’analyse de l’ARC des données brutes des points de vente; le rassemblement de la preuve concernant le revenu et les recettes exacts est la réponse appropriée.
+[40] La décision Lin [61] repose sur un contexte factuel semblable, examiné par notre Cour elle-même. Une cotisation a été établie à l’égard des restaurateurs de l’appelant pour des ventes non déclarées et de la TPS non perçue. L’hypothèse était que les contribuables avaient manipulé les données des points de vente utilisées pour déclarer les ventes des restaurants. En évaluant cela, j’ai mentionné [non souligné dans l’original] :
+[traduction]
+24 La SVI [section de la vérification informatique] a analysé les données du système de terminaux de point de vente en se servant d’un programme logiciel analytique capable de regrouper les données et de détecter les écarts. La SVI a réalisé ses analyses au cours des semaines suivantes, mettant ainsi en évidence des incohérences et des problèmes; les résultats des analyses ont été présentés dans un rapport remis aux vérificateurs.
+[...]
+30 La SVI a constaté des incohérences et des incompatibilités entre les renseignements contenus dans les rapports sur papier et ceux contenus dans les données du système de terminaux de point de vente. Par exemple, la copie sur papier de la facture no 20551 n’indiquait pas le même numéro de table que la copie électronique de la même facture. De plus, lorsque les copies sur papier portaient la mention « annulé par Wilson », les données du système de terminaux de point de vente indiquaient « S. O. ».
+31 Les factures avaient été renumérotées à l’aide d’un programme informatique. La SVI a expliqué que ces types de bris ne peuvent être produits manuellement. L’analyse indiquait aussi que les données et les registres remis à l’Agence étaient incomplets.
+[...]
+49 La SVI a extrait des données du système de terminaux de point de vente au cours de la [traduction] « phase de contact initial ». Un autre auditeur de la SVI a analysé les données et préparé le rapport sommaire. Comme il est d’usage, on a conservé une copie intacte des données brutes.
+[41] Les appelantes ont été appelées à présenter des éléments de preuve pour réfuter les faits présumés du ministre qui sous-tendent la cotisation ou à présenter des éléments de preuve pour réfuter, selon la prépondérance, que les faits allégués par le ministre concernant le revenu non déclaré et les ventes supprimées étaient incorrectes. La Couronne n’était pas tenue de prouver la mécanique ou le fonctionnement, comme tel, de l’analyse du ministre des données des points de vente derrière l’hypothèse. Selon une mesure semblable, les contribuables n’avaient pas besoin de renverser la conception de la technologie, ou de la comprendre. Les appelantes devaient simplement fournir leurs registres, éléments de preuve et dossiers de données pour contester les hypothèses [62] . Ces registres sont requis aux termes de la LIR [63] . La Cour examine la preuve concurrente et détermine selon la probabilité les ensembles de faits qui sont plus crédibles et fiables.
+[42] La technologie et le commerce avancent étape par étape à la fois pour le ministre et le contribuable. Cette progression est la principale distinction entre le présent appel et les affaires plus traditionnelles de vérification de restaurants. Anciennement, le ministre établissait une cotisation à l’égard d’un restaurant ou d’une taverne en fonction de techniques éprouvées : opérations papier, services de serviette, épuisement des stocks de bouteilles ou comptage d’ustensiles manquants pour présumer des ventes sous-déclarées. Plus souvent maintenant, comme c’est le cas en l’espèce, les hypothèses concernant les ventes sous-déclarées reposent sur les registres électroniques et sur leur exhaustivité et intégrité. Comme l’intimée a affirmé dans ses observations : [traduction] « le fait que les travaux de vérification dans les présents appels concernaient l’examen des registres électronique des ventes, plutôt que les registres papier des ventes, n’est pas un motif pour radier des hypothèses de fait ou pour une décision préliminaire selon laquelle le fardeau de la preuve ordinaire devrait être inversé ». [64] Cela n’est pas différent de l’appel où les appelants sont appelés à contester la vérification des factures, du comptage de serviettes, du comptage de bouteilles ou d’inventaire d’ustensiles en présentant leur preuve fondée sur l’exactitude, la crédibilité et la fiabilité des livres et registres du contribuable.
+[43] Les appelantes n’ont aucune obligation de prouver que l’algorithme de la SVCE est déficient ou n’est pas fiable. Plutôt, leur fardeau de preuve sera acquitté en réfutant les faits essentiels présumés du ministre par l’administration de la preuve au procès pour justifier, tout bien pesé, quels étaient les ventes, le revenu et le revenu à déclarer corrects. Sans vouloir télégraphier trop de suggestions et à titre d’exemples seulement, dans un procès de ce type ces « ensembles probatoires » concurrentiels comprennent (une combinaison d’anciennes et nouvelles techniques) : 1) le témoignage du témoin concernant l’intégrité des opérations; 2) les reçus des caisses enregistreuses, factures de cartes de crédit et livres des recettes; 3) les rapports quotidiens, hebdomadaires, mensuels inchangés des bases de données appuyant les revenus et les ventes déclarés; 4) le témoignage concernant l’exhaustivité des bases de données du système des appelantes. Aucune preuve de ce genre n’analyse ou n’inverse la conception de l’algorithme, l’analyse ou la théorie de la SVCE directement; ce genre de preuve déloge ou déplace l’algorithme en étant une preuve plus fiable et plus crédible influençant la décision de la Cour concernant l’exactitude des cotisations. Bref, si elle est assez convaincante pour satisfaire au seuil de la norme de preuve, cette preuve démolit les faits essentiels présumés du ministre.
+La nature prématurée de la requête
+[44] La décision de radier les faits essentiels présumés s’inscrit dans la décision des faits et des éléments de preuve que la Cours préfère. Le juge qui préside est mieux placé pour décider de cette appréciation des éléments de preuve après avoir bénéficié de tous les éléments de preuve présentés par les deux parties. Les appelantes produiront leur preuve au procès, ce qui acquittera ou non leur fardeau de la preuve contre l’ensemble d’hypothèses formulées par le ministre [65] . La radiation des hypothèses dérivées d’une preuve non présentées et les conclusions avec lesquelles l’appelant au dossier n’est pas d’accord ou qu’il conteste est une détermination prématurée et inappropriée à faire pour le juge des requêtes [66] .
+V. CONCLUSION, DÉPENS ET AUTRES QUESTIONS
+Résumé
+[45] La requête en radiation des hypothèses en litige est rejetée. Les dépens sont réservés et seront déterminés par le juge qui préside la présente affaire. Même si la requête des appelantes est rejetée, il ne s’agit pas d’une détermination ou d’une quelconque conclusion quant à la valeur probante de l’algorithme de la SVCE ou quant à la question de savoir si elle renforce ou appuie de manière satisfaisante les hypothèses du ministre et rejette les registres des appelantes. Ce genre de décision n’est pas du ressort d’un juge des requêtes, par conséquent, il est encore plus préférable de déférer la présente question en litige au juge de première instance.
+[46] Actuellement, les interrogatoires préalables sont terminés. Les projets de réponses modifiées ont été peaufinés pour représenter des hypothèses arithmétiques et méthodiques plus précises. Elles sont acceptées et elles seront signifiées et déposées par l’intimée, à moins que les appelantes élèvent par ailleurs des objections (ce qui n’est pas clair actuellement), dans les 30 jours suivant la date du présent jugement.
+[47] Sous réserve du paragraphe précédent concernant les projets de réponses modifiées, les parties devront presenter une demande conjointe à la Cour dans les 60 jours suivant la signification et le dépôt des réponses modifiées. Sur réception, la gestion des instances sera terminée et les appels seront inscrits pour l’audition.
+Signé à Ottawa, Canada, ce 11e jour de février 2022.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 30e jour de novembre 2022.
+François Brunet, réviseur
+ANNEXE A
+Les hypothèses de fait du ministre contestées par les appelantes, les motifs et la preuve par affidavit
+Sous-alinéa de la réponse du ministre à l’avis d’appel contesté par les appelantes
+Hypothèse(s) de fait tirée(s) de la réponse du ministre à l’avis d’appel [67]
+Motifs plaidés par les appelantes dans la requête en radiation (comme ils sont regroupés dans le paragraphe 7 des motifs de l’ordonnance)
+Ensemble probatoire présenté par les appelantes dans la requête en radiation (tel que catégorisé au paragraphe 8 des motifs de l’ordonnance) pour démolir l’hypothèse de fait
+Hong Kong Style Café Ltd [68]
+Emerald Seafood Restaurant Ltd. [69]
+Decade Chun Ping Or [70]
+28(q)
+28(q)
+-
+le système Profitek permet à un utilisateur de retirer ou supprimer des ventes au comptant de la base de données du système (une pratique communément appelée « zapping »)
+Premier ensemble d’arguments
+Ensemble probatoire no 1
+28(r)
+28(r)
+-
+plus précisément, le système Profitek peut être configuré pour permettre à un utilisateur de modifier ou manipuler les données de vente, comme la suppression ou l’omission d’opérations de vente complètes ou d’un produit alimentaire ou de boissons précis annexés à une opération de vente, ou la renumérotation d’une série d’opérations de vente
+Premier ensemble d’arguments
+Ensemble probatoire no 1
+28(s)
+28(s)
+-
+la fonction de zapping (le « zapper ») permet aux compagnies de sous-déclarer leurs revenus
+Premier ensemble d’arguments
+Ensemble probatoire no 1
+28(t)
+28(t)
+-
+Profitek enregistre chaque opération de vente avec un numéro d’opération unique
+Premier ensemble d’arguments
+Ensemble probatoire no 1
+28(u)
+28(u)
+-
+Profitek a aussi enregistré et numéroté les opérations supprimées ou annulées, de sorte que chaque entrée du système était numérotée
+Premier ensemble d’arguments
+Ensemble probatoire no 1
+28(v)
+28(v)
+-
+contrairement à une opération supprimée de façon ordinaire, pour laquelle ses données et son numéro d’opération restent dans la base de données de Profitek, une opération supprimée par le zapper supprime toutes ses données des champs de données principaux de Profitek, y compris son numéro d’opération et la somme payée aux sociétés
+Premier ensemble d’arguments
+Ensemble probatoire no 1
+28(w)
+28(w)
+-
+Profitek enregistrait habituellement chaque opération avec un numéro séquentiel consécutif
+Premier ensemble d’arguments
+Ensemble probatoire no 1
+28(x)
+28(x)
+-
+les sociétés ont configuré leur système Profitek pour qu’il attribue des numéros non séquentiels aux nouvelles opérations
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(y)
+28(y)
+-
+des numéros non séquentiels des opérations étaient utilisés pour qu’il soit difficile de détecter les opérations supprimées
+Premier ensemble d’arguments
+Ensemble probatoire no 1
+28(z)
+28(z)
+-
+les numéros d’opération non séquentiels ont été déterminés au moyen de l’algorithme suivant, appelé la méthode des 20 secondes :
+i) d’abord, l’algorithme regardait l’heure à laquelle la nouvelle opération avait été ouverte et utilisait le nombre de secondes affichées dans ce champ (par exemple, si la commande était ouverte à 11:36:14, il utilisait le numéro 14) pour arriver à une valeur entre 1 et 20 comme suit :
+a) si le chiffre des secondes se trouvait entre 1 et 20, il utilisait ce chiffre comme valeur;
+b) si le chiffre des secondes se trouvait entre 21 et 40, il soustrayait 20 de ce chiffre et utilisait cette valeur;
+c) si le chiffre des secondes se trouvait entre 41 et 59, il soustrayait 40 de ce chiffre et utilisait cette valeur;
+d) si le chiffre des secondes était 00, il utilisait 20 comme valeur;
+ii) ensuite, il ajouterait cette valeur à l’opération se trouvant immédiatement avant le numéro d’opération pour arriver au nouveau numéro d’opération
+Premier ensemble d’arguments
+Ensemble probatoire no 1
+28(aa)
+28(aa)
+-
+l’horloge informatique utilisée pour calculer le numéro de l’opération conservait l’heure exacte
+Premier ensemble d’arguments
+Ensemble probatoire no 1
+28(gg)
+28(gg)
+20(g), 20(h), 20(i)
+les sociétés achetaient et utilisaient le logiciel de suppression (zapping) pour retirer ou supprimer des registres des ventes au comptant de leur système de points de vente électronique (une pratique familièrement appelée « zapping »)
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 5
+*Pour M. Or, la conclusion de fait formulée par la SVCE était fondée uniquement sur l’application de la théorie de la SVCE aux données brutes du point de vente Hong Kong, aux données brutes du point de vente Emerald, ou aux données brutes du point de vente Tea Pot : Pièce C – transcription aux pages 312 à 319.
+-
+-
+20(j)
+M. Or avait connaissance que des opérations étaient camouflées dans les registres des points de vente des sociétés
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+28(nn)
+28(nn)
+-
+M. Or utilisait une partie de revenu non déclaré des sociétés pour payer certaines dépenses d’entreprises en espèces
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 5
+28(oo)
+28(oo)
+20(o)
+M. Or s’attribuait le revenu non déclaré restant des sociétés et la TPS associée
+Deuxième ensemble d’arguments
+Conclusions de fait formulées par le vérificateur de l’ARC : Pièce B – Réponse à la requête 95b)
+Ensemble probatoire no 5
+*Pour M. Or, la conclusion de fait formulée par la SVCE était fondée uniquement sur l’application de la théorie de la SVCE aux données brutes du point de vente Hong Kong, aux données brutes du point de vente Emerald, ou aux données brutes du point de vente Tea Pot : Pièce C – transcription aux pages 312 à 319.
+-
+-
+20(q)
+M. Or s’est attribué, mais il n’a pas déclaré, un revenu des sociétés des sommes illustrées dans l’annexe C de sa réponse
+Deuxième ensemble d’arguments
+La conclusion de fait formulée par la SVCE était fondée uniquement sur l’application de la théorie de la SVCE aux données brutes du point de vente Hong Kong, aux données brutes du point de vente Emerald, ou aux données brutes du point de vente Tea Pot : Pièce C – transcription aux pages 312 à 319.
+28(pp)
+28(pp)
+-
+M. Or et M. Lo créaient des rapports des montants des ventes quotidiennes des points de vente après avoir camouflé certaines opérations au comptant
+Deuxième ensemble d’arguments
+Conclusions de fait formulées par le vérificateur de l’ARC : Pièce B – Réponse à la requête 95b)
+Ensemble probatoire no 3
+Ensemble probatoire no 5
+28(rr)
+28(rr)
+-
+les registres sources comme les rapports quotidiens, les rubans de caisses, les reçus de vente et les totaux-z n’étaient pas conservés
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 5
+28(ss)
+28(ss)
+-
+les sociétés remettaient les renseignements à leur comptable externe selon les registres modifiés de Profitek aux fins de déclaration de revenus des sociétés dans leurs déclarations d’impôt sur le revenu et de TPS
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 5
+28(tt)
+28(tt)
+20(k)
+les sociétés préparaient leurs déclarations d’impôt sur le revenu et de TPS selon les registres de Profitek
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 5
+*Pour M. Or, la conclusion de fait formulée par la SVCE était fondée uniquement sur l’application de la théorie de la SVCE aux données brutes du point de vente Hong Kong, aux données brutes du point de vente Emerald, ou aux données brutes du point de vente Tea Pot : Pièce C – transcription aux pages 312 à 319.
+28(uu)
+28(uu)
+-
+les sociétés ne déclaraient pas dans leurs déclarations d’impôt sur le revenu et de TPS les revenus au comptant qu’elles avaient gagnés et supprimés de leurs registres Profitek
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 5
+28(vv)
+28(vv)
+-
+la méthode de numérotation des 20 secondes permet de prédire le prochain numéro que le système Profitek attribue à une opération en fonction du numéro d’opération se trouvant immédiatement avant le numéro d’opération et le chiffre des secondes associé à la nouvelle opération
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(ww)
+28(ww)
+-
+chaque fois que le prochain numéro d’opération du registre modifié de Profitek correspondait au prochain numéro prédit, les sociétés n’avaient pas supprimé d’opérations entre celles-ci
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(xx)
+28(xx)
+-
+chaque fois que la différence entre le prochain numéro d’opération du registre modifié de Profitek et le prochain numéro prédit était un ou plus, alors les sociétés avaient supprimé au moins une opération entre celles-ci
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(yy)
+28(yy)
+-
+le zapping était utilisé pour supprimer au moins :
+i) une opération chaque fois que la différence entre le numéro de la prochaine opération du registre modifié de Profitek et le prochain numéro était entre 1 et 20;
+ii) deux opérations chaque fois que la différence entre le numéro de la prochaine opération du registre modifié de Profitek et le prochain numéro était entre 21 et 40;
+iii) trois opérations chaque fois que la différence entre le numéro de la prochaine opération du registre modifié de Profitek et le prochain numéro était entre 41 et 60;
+[34(c), 35(c)] L’hypothèse est incorrecte.
+[32(bbbb), 32(oooo)] Admis par l’intimée à la pièce C – Transcription pages 278 et 279.
+28(zz)
+28(zz)
+-
+le zapping était utilisé pour supprimer des opérations au comptant du registre Profitek des sociétés pendant l’année d’imposition 2006
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Preuve no 5
+28(aaa)
+28(aaa)
+-
+le zapping était utilisé pour supprimer des opérations au comptant du registre Profitek des sociétés pendant l’année d’imposition 2007
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(bbb)
+28(bbb)
+-
+le zapping était utilisé pour supprimer des opérations au comptant du registre Profitek des sociétés pendant l’année d’imposition 2008
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(ccc)
+28(ccc)
+-
+en juin 2008, ou vers cette date, la société a commencé à camoufler des postes
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(ddd)
+28(eee)
+28(ddd)
+-
+le zapping a été utilisé pour supprimer au moins la valeur suivante des postes des registres Profitek des sociétés :
+(1) Pendant l’année d’imposition (« AI ») 2008 :
+(a) HK Style Café : 94 677 $
+(b) Emerald : 53 658 $
+(2) Entre le 1er octobre et le 31 décembre 2008 :
+(a) HK Style Café : 53 246 $
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(fff) 28(ggg) 28(hhh)
+28(eee) 28(fff) 28(ggg)
+-
+les sociétés ont gagné et omis de déclarer des revenus au comptant d’au moins les montants suivants, hormis la TPS, des opérations au comptant supprimées :
+(1) HK Style Café :
+(a) pendant l’AI 2006 : 649 340 $
+(b) pendant l’AI 2007 : 559 297 $
+(c) pendant l’AI 2008 : 461 790 $
+(2) Emerald :
+(a) pendant l’AI 2006 : 632 029 $
+(b) pendant l’AI 2007 : 453 672 $
+(c) pendant l’AI 2008 : 484 712 $
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(iii)
+28(hhh)
+-
+les sociétés ont gagné et omis de déclarer le revenu net suivant :
+(1) HK Style Café :
+(a) en 2006 : 141 302 $
+(b) en 2007 : 121 700 $
+(c) en 2008 : 100 489 $
+(2) Emerald :
+(a) en 2006 : 438 678 $
+(b) en 2007 : 315 893 $
+(c) en 2008 : 335 930 $
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(lll)
+28(kkk)
+-
+les sociétés ont fait des ventes selon les sommes illustrées dans la colonne « fournitures réelles » à l’annexe D de la présente réponse
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+28(mmm)
+28(lll)
+-
+pendant la période, les sociétés ont perçu et omis de remettre la TPS nette à l’égard de ses ventes au comptant non déclarées, tel qu’il est décrit dans l’annexe D de la présente réponse
+Deuxième ensemble d’arguments
+Ensemble probatoire no 2
+Ensemble probatoire no 3
+Ensemble probatoire no 4
+Ensemble probatoire no 5
+RÉFÉRENCE :
+2022TCC9
+NOS DES DOSSIERS DE LA COUR :
+2017-2747(IT)G; 2017-2749(GST)G; 2017-2753(IT)G; 2017-2754(GST)G; 2017-3727(IT)G
+INTITULÉ :
+HONG KONG STYLE CAFÉ LTD. ET SA MAJESTÉ LA REINE; EMERALD SEAFOOD RESTAURANT LTD. ET SA MAJESTÉ LA REINE; DECADE CHUN PING OR ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Requête par voie d’observations écrites
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 11 février 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Jehad Haymour Me Sophie Virgi
+Avocates de l’intimée :
+Me Valerie Meier Me Katherine Creelman Me Amanda Wall
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Observations écrites des appelantes [observations des appelantes], par. 55.
+[2] Observations des appelantes, par. 11 et 58.
+[3] Observations des appelantes, par. 62.
+[4] Observations des appelantes, par. 62.
+[5] Observations des appelantes, par. 58.
+[6] Observations des appelantes, par. 15 et 16.
+[7] Observations des appelantes, par. 10 et 56.
+[8] Requête en radiation [requête], al. 34a)(i), 35a)(i).
+[9] Requête, al. 34a)(ii), 35a)(ii).
+[10] Requête, al. 34a)(iii), 35a)(iii).
+[11] Dans les actes de procédure concernant spécifiquement l’appel de M. Or, M. Or est l’appelant. Essentiellement, les mêmes arguments sont avancés. Requête, par. 36.
+[12] Ce point est une combinaison de trois points allégués par l’appelante. Requête, al. 34b)(i), 34b)(ii), 34b)(iii), 35b)(i), 35b)(ii), 35b)(iii).
+[13] Requête, al. 34b)(iv), 35b)(iv).
+[14] Requête, al. 34b)(v), 35b)(v).
+[15] Requête, al. 32(cccc), 32(pppp).
+[16] Requête, al. 32(dddd), 32(eeee), 32(qqqq), 32(rrrr), 32(bbbbb), 32(ccccc).
+[17] Requête, al. 32(ffff), 32(ssss).
+[18] Requête, al. 32(gggg), 32(tttt).
+[19] Requête, al. 32(hhhh), 32(uuuu), 32(eeeee).
+[20] Réponse à la requête des appelantes présentée à la gestion des instances en radiation de certaines hypothèses des réponses, par. 10 [réponse à la requête].
+[21] Réponse à la requête, par. 15.
+[22] Réponse à la requête, par. 11.
+[23] Réponse à la requête, par. 10.
+[24] Réponse à la requête, par. 16.
+[25] Réponse à la requête, par. 17.
+[26] Réponse à la requête, par. 17.
+[27] Réponse à la requête, par. 17.
+[28] Sarmadi c Canada, 2017 CAF 131, par. 18 à 68 [Sarmadi]. L’examen du droit par le juge Webb a été confirmé par la même Cour plus récemment dans l’arrêt Eisbrenner c Canada, 2020 CAF 93 [Eisbrenner].
+[29] Sarmadi, par. 69 à 71.
+[30] Morrison c. La Reine, 2018 CCI 220 [Morrison], conf. par Eisbrenner, précité à la note 20.
+[31] Morrison, par. 72 à 77. Voir également la décision Grenon v. The Queen, 2021 CCI 30, aux paragraphes 177 à 179 dans laquelle le juge Smith adopte l’opinion du juge Webb à l’égard du droit concernant le fardeau de la preuve dans la mesure où il se rapporte aux hypothèses du ministre.
+[32] Commission ontarienne des droits de la personne c. Simpsons-Sears, [1985] 2 RCS 536, par. 28.
+[33] F.H. c. McDougall, 2008 CSC 53, Merck Frosst Canada Ltée c. Canada (Santé), 2012 CSC 3, par. 94.
+[34] R. c. Fontaine, 2004 CSC 27, par. 10 à 12.
+[35] R. v. Anderson Logging Co., [1925] R.C.S. 45, par. 9, conf. par [1926] A.C. 140, Johnston v. Minister of National Revenue, [1948] R.C.S. 486, par. 7, 9, 14, 19. Voir également Dobieco Ltd. v. Minister of National Revenue, [1966] R.C.S. 95.
+[36] Sopinka, Lederman, Bryant, The Law of Evidence in Canada [traduction] (Le droit de la preuve au Canada) (5e éd., 2018) [SLB], par. 5.62.
+[37] Ibid, par. 3.46. Voir également Morrison, précité à la note 22, aux paragraphes 77 à 97.
+[38] 2007 CAF 188 citée [Anchor Pointe].
+[39] Transocean Offshore Limited c. Canada, 2005 CAF 104, par. 34 et 35.
+[40] Loi de l’impôt sur le revenu, LRC (1985), ch. 1 (5e suppl.), alinéa 152(4)a)(i) [LIR].
+[41] Naguib c. Canada, 2004 CAF 40.
+[42] LIR, précité à la note 31, par. 163(2).
+[43] Hickman Motors Ltd. V. Canada [1997] 2 RCS 336, précité [Hickman Motors].
+[44] Sarmadi, par. 31 à 52, Morrison, par. 92 à 110. Voir également Vine (Succession) c. Canada, 2015 CAF 125, par. 25.
+[45] Requête en radiation, par. 19 et 44.
+[46] Requête en annulation, par. 44.
+[47] Requête en radiation, par. 10, 12 et 44.
+[48] Requête en radiation, par. 3.
+[49] Requête en radiation, par. 11 et 71.
+[50] Requête en radiation, par. 20.
+[51] Requête en radiation, par. 63 [réponse au fait 77 de la demande d’aveux].
+[52] Requête en radiation, par. 32(ppp).
+[53] Requête en radiation, par. 21.
+[54] Réponse à la requête, par. 11.
+[55] Réponse à la requête, note 11, par. 11.
+[56] Réponse à la requête, note 11, par. 11.
+[57] Réponse à la requête, note 11, par. 11.
+[58] 9134-2485 Québec Inc. c. La Reine, 2012 CCI 401.
+[59] Xue c. La Reine, 2020 CCI 72 [Xue].
+[60] Xue, précité.
+[61] Lin v. The Queen, 2020 TCC 26 [Lin].
+[62] Lin, par. 103,105,106,111 et 112.
+[63] LIR à l’article 232.
+[64] Réponse à la requête, par. 10.
+[65] Sarmadi, par. 63.
+[66] Kossow, par. 23.
+[67] Aux fins de représentation, les détails de l’hypothèse contestée (p. ex., la valeur monétaire, les ventes prétendument supprimées) ont été omis.
+[68] Requête en radiation, alinéa 9a).
+[69] Requête en radiation, alinéa 9b).
+[70] Requête en radiation, alinéa 9c).

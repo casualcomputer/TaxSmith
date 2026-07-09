@@ -1,0 +1,483 @@
+---
+title: "Arpeg Holdings Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27348/index.do"
+last_modified: "2006-11-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 593"
+citation2: ""
+neutral_citation: "2006 TCC 593"
+decision_date: "2006-11-03"
+language: "en"
+item_id: "27348"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 170
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:36:08.905000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b073f6791a374663653ea0ae5e4c115058d5c3c3be6ef9f4387294c7ee6e4cb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arpeg Holdings Ltd v. The Queen
+
+- Citation: 2006 TCC 593
+- Decision date: 2006-11-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 170, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arpeg Holdings Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-03
+Neutral citation
+2006 TCC 593
+File numbers
+2002-4490(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4490(IT)G
+BETWEEN:
+ARPEG HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4499(IT)G
+CHRISTOPHER G. MATHISEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4500(IT)G
+BERTHA M. MATHISEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4501(IT)G
+WILLIAM MATHISEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4502(IT)G
+P. ANNE MATHISEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4503(IT)G
+E. JANE RATCLIFFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4504(IT)G
+MARY McNEIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4505(IT)G
+BARBARA BELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 24, 25, 26, 27, and May 4, 2006
+at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellants:
+Alistair G. Campbell
+Counsel for the Respondent:
+Linda L. Bell
+____________________________________________________________________
+JUDGMENT
+It is ordered:
+a) the appeal by Arpeg Holdings Ltd. in respect of an assessment made under the Income Tax Act for the 1996 taxation year is dismissed;
+b) the appeal by Arpeg Holdings Ltd. in respect of assessments made under the Act for the 1997 and 1998 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Consent to Judgment filed and to increase the cost of acquisition of Class 10 property in 1997 by $10,000;
+c) the appeal by Bertha M. Mathisen in respect of an assessment made under the Act for the 1997 taxation year is dismissed;
+d) the appeal by Bertha M. Mathisen in respect of an assessment made under the Act for the 1998 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Consent to Judgment filed;
+e) the appeal by Christopher G. Mathisen in respect of assessments made under the Act for the 1997 and 1998 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Consent to Judgment filed;
+f) the appeals by William Mathisen, Barbara Bell, Mary McNeil, E. Jane Ratcliffe and P. Anne Mathisen in respect of assessments made under the Act for the 1997 and 1998 taxation years are dismissed; and
+g) the respondent is entitled to costs, with one set of counsel fees for all appeals.
+Signed at Toronto, Ontario, this 3rd day of November, 2006.
+"J. Woods"
+Woods J.
+Citation: 2006TCC593
+Date: 20061103
+Docket: 2002-4490(IT)G
+BETWEEN:
+ARPEG HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4499(IT)G
+CHRISTOPHER G. MATHISEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4500(IT)G
+BERTHA M. MATHISEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4501(IT)G
+WILLIAM MATHISEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4502(IT)G
+P. ANNE MATHISEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4503(IT)G
+E. JANE RATCLIFFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4504(IT)G
+MARY McNEIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-4505(IT)G
+BARBARA BELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+REASONS FOR JUDGMENT
+Woods J.
+[1] These are appeals in respect of assessments under the Income Tax Act issued to eight taxpayers - Arpeg Holdings Ltd. ("Arpeg") and seven members of the Mathisen family who are indirect shareholders of Arpeg (the "Shareholders"). The appeals were heard together on common evidence and relate to the 1996, 1997 and 1998 taxation years of Arpeg and the 1997 and 1998 taxation years of the Shareholders.
+[2] The assessments made a number of adjustments to the appellants' income. A substantial number of the items that were appealed have now been resolved and the questions that remain are:
+a) Did Arpeg file a valid waiver in respect of the 1996 taxation year?
+b) Did Arpeg overstate the cost of Class 10 assets acquired in the 1997 taxation year?
+c) What, if any, shareholder benefits were conferred on the Shareholders?
+[3] For the reasons below, the conclusions that I have reached are:
+a) the waiver filed on behalf of Arpeg for the 1996 taxation year is valid;
+b) Arpeg did not overstate the cost of Class 10 assets; and
+c) the amounts assessed in relation to shareholder benefits should not be reduced.
+I. Validity of Waiver
+[4] On July 20, 2000, Chris Mathisen, a vice president of Arpeg, signed a waiver for Arpeg's 1996 taxation year. If the waiver is valid, it would extend the time that the taxation year could be reassessed that otherwise would expire on September 15, 2000 pursuant to s. 152(4) of the Act. The subject matter of the waiver was a replacement property election that Arpeg had filed pursuant to s. 13(4) and 44(1) of the Act in respect of the sale of a property located at 1200 Homer Street, Vancouver.
+[5] On July 9, 2001, some ten months after the normal reassessment period had ended, a reassessment was issued for Arpeg's 1996 taxation year. The replacement property election that Arpeg had filed for that year was rejected on the basis that the property at 1200 Homer Street was a rental property, having been leased to Murchies Tea & Coffee Ltd. As a result, Arpeg was considered to have realized a capital gain of almost $2,000,000 and recapture of about $500,000 in respect of the sale.
+[6] Arpeg does not dispute the Minister's finding that 1200 Homer Street was a rental property and that it did not qualify for the replacement property election. The only challenge to the 1996 reassessment is that the waiver is invalid and therefore the reassessment is statute barred.
+[7] Arpeg challenges the validity of the waiver on two grounds. First, it submits that the waiver was not filed in the prescribed form because Chris Mathisen did not have the requisite corporate authority to execute the document. Alternatively, it submits that the auditor deliberately misled him as to the nature of the document and that the waiver is void under the doctrine of non est factum.
+[8] The questions, then, are whether Chris Mathisen had authority to sign the waiver and whether non est factum applies.
+A. Did Chris Mathisen have signing authority?
+[9] In considering whether Chris Mathisen had the authority to sign the waiver, I will begin by summarizing some of the relevant legal principles regarding an agent's authority to bind a corporation.
+[10] It is well-established that an agent has the power to act on behalf of a corporation if the agent has actual (express or implied) or apparent (ostensible) authority to do so: Canadian Laboratory Supplies Ltd. v. Engelhard Industries of Canada Ltd., [1979] 2 S.C.R. 787 (S.C.C.).
+[11] This is a judge-made principle and therefore subject to legislative modification. In Arpeg's case, the corporation is governed by the Company Act, R.S.B.C. 1996, C. 62, which does not modify the principle above, at least in so far as it is relevant to this appeal.
+[12] The difference between express, implied and ostensible authority was described by Lord Denning M.R. in Hely-Hutchinson v. Brayhead, Ltd., [1967] 3 All E.R. 98 (C.A.) (at p. 101 and 102):
+I need not consider at length the law on the authority of an agent, actual, apparent or ostensible. That has been done in the judgments of this court in the case of Freeman & Lockyer (a firm) v. BuckhurstParkProperties (Mangal) Ltd. It is there shown that actual authority may be express or implied. It is express when it is given by express words, such as when a board of directors pass a resolution which authorises two of their number to sign cheques. It is implied when it is inferred from the conduct of the parties and the circumstances of the case, such as when the board of directors appoint one of their number to be managing director. They thereby impliedly authorise him to do all such things as fall within the usual scope of that office. Actual authority, express or implied, is binding as between the company and the agent, and also as between the company and others, whether they are within the company or outside it.
+Ostensible or apparent authority is the authority of an agent as it appears to others. It often coincides with actual authority. Thus, when the board appoint one of their number to be managing director, they invest him not only with implied authority, but also with ostensible authority to do all such things as fall within the usual scope of that office. Other people who see him acting as managing director are entitled to assume that he has the usual authority of a managing director. But sometimes ostensible authority exceeds actual authority. For instance, when the board appoint the managing director, they may expressly limit his authority by saying he is not to order goods worth more than ₤500 without the sanction of the board. In that case his actual authority is subject to the ₤500 limitation, but his ostensible authority includes all the usual authority of a managing director. The company is bound by his ostensible authority in his dealings with those who do not know of the limitation. He may himself do the "holding-out". Thus, if he orders goods worth ₤1,000 and signs himself "Managing Director for and on behalf of the company", the company is bound to the other party who does not know of the ₤500 limitation [...]
+[13] The Crown acknowledges that Arpeg did not expressly authorize Chris Mathisen to sign the waiver. The question, then, is whether he had implied or ostensible authority to do so.
+[14] Based on the principles discussed in Hely-Hutchinson, Chris Mathisen would have implied authority if Arpeg could be said to have acquiesced in his signing documents of a similar nature to the waiver. If the corporation did not provide this implicit approval, he would nevertheless have apparent or ostensible authority if Arpeg permitted him to represent to the Canada Revenue Agency (the "Agency") that he had such authority and the Agency acted on this representation.
+[15] I turn now to the relevant facts.
+[16] Arne Mathisen was a doctor who, with his wife, Bertha (Peggy) Mathisen, incorporated Arpeg in 1957 for the purpose of acquiring a rental property in Vancouver, British Columbia. Over the years, the corporation's real estate holdings were gradually expanded and during the relevant period, Arpeg owned somewhere in the nature of eight residential and commercial rental properties.
+[17] In the 1980s the Mathisens implemented an estate freeze and Arpeg's shares were transferred to a holding corporation. The shares of that corporation were held by Arne, Bertha and their seven children.
+[18] Arne Mathisen was the president of Arpeg and it appears that he actively managed the business until shortly before his death on March 6, 1998. How Arpeg conducted business while he was president may not be directly relevant to the question before me because the waiver was signed more than two years after Arne Mathisen's death. However, it does provide a context for how Arpeg's business was conducted after he died.
+[19] Chris and Bill Mathisen, sons of Arne and Bertha, became active in the business in the early 1980s. They both have the title "vice president."
+[20] Chris Mathisen has a degree in business and assisted his father with the corporate and administrative side of the business, including accounting and money management. Since Chris had some training in tax, he took the lead on tax matters, including the decision to file the replacement property election. He was assisted in this by the corporation's bookkeeper who retired in the year 2000 at the age of 75. Arpeg did not generally use outside advisers for tax matters.
+[21] Bill Mathisen's role in the corporation was as property manager. He oversaw the rental of the buildings and their maintenance.
+[22] Upon Arne Mathisen's death on March 6, 1998, Bertha Mathisen assumed the office of president. She stayed informed of Arpeg's business affairs by daily phone calls from Chris and Bill and she came into the office once a week to sign cheques. Under the corporation's banking policy, only the president or two directors had the authority to sign cheques.
+[23] Arpeg's board of directors was comprised of seven persons, all members of the Mathisen family - Arne, Bertha, Chris, Bill and three daughters who took an interest in the business but were not actively involved in the day-to-day operations.
+[24] The picture that emerges from all the evidence is of a family-run business that, during Arne Mathisen's life, was managed by him with the assistance of Chris and Bill, and that, after his death, was managed by Chris and Bill with oversight by Bertha Mathisen. The board of directors also played an oversight role.
+[25] Based on the evidence presented, I would conclude that Chris Mathisen had implied authority to sign the waiver, but even if that were not the case I would conclude that he had apparent authority. Either finding is sufficient to conclude that the waiver is valid; however, I will detail my reasons for both findings below.
+[26] Dealing first with apparent authority, I find that Arpeg led the Agency to believe that Chris Mathisen had signing authority on tax-related documents.
+[27] Chris Mathisen was a director and vice-president of Arpeg. Although the corporation operated informally without strict division of duties, he was the officer that was clearly in charge of corporate affairs at the relevant time. This included dealing with the audit and tax matters generally. There was no evidence to suggest that the Agency was advised of any express limitation to the authority that he appeared to have by virtue of his role and responsibilities.
+[28] Further, after Arne Mathisen's death, Chris Mathisen signed both routine and significant tax-related documents that were submitted to the Agency on behalf of Arpeg, including the income tax returns.
+[29] By allowing Chris Mathisen to represent himself as the person in charge of tax-related matters, and allowing him to sign both formal and routine tax documents, Arpeg permitted Chris to represent to the Agency that he had the requisite corporate authority to sign the waiver. The Agency acted on this representation by accepting Chris Mathisen's signature on the waiver and deferring the issuance of the 1996 reassessment until after the normal reassessment period had ended.
+[30] I conclude, then, that if Chris Mathisen did not have implied authority to sign the waiver he certainly had apparent authority.
+[31] As noted above, I also find that he had implied authority. My reasons are as follows.
+[32] Bertha, Chris and Bill Mathisen each testified that the corporation had a longstanding policy of requiring that documents be signed by either the president or two directors. They also testified that the corporation overrode that policy by providing Chris Mathisen with specific authority to sign the 1997 and 1998 tax returns.
+[33] The Mathisens' testimony on this point was brief and vague. If this self-interested testimony were to be accepted without corroboration, I would require significantly more detailed testimony than was provided.
+[34] Further, Arpeg did not introduce any board resolutions or minutes of directors' meetings that would suggest that the board ever considered a general signing authority policy. Rather, Arpeg introduced a number of documents that were signed by two directors. Most of these are formal real estate documents such as leases and offers to purchase, which tend to show that two directors generally signed formal real estate documents. However, they do not establish a pattern regarding other types of documents.
+[35] Viewed as a whole, the evidence is insufficient to demonstrate that there was a policy in place that would limit the authority of Chris Mathisen to sign tax-related documents, such as the disputed waiver.
+[36] Before I leave this matter, I would make note of certain documents contained in the voluminous audit material that was introduced by the Crown.
+[37] In January 2001, Chris Mathisen signed a letter on behalf of Arpeg that purported to be a notice of objection to the proposed assessments at issue in this appeal (Ex. R1, Vol. 2, p. 48). The letter was premature because it was written before formal assessments were issued, but that is beside the point. For clarification, this letter is not relevant in considering whether the Agency relied on representations because it was signed several months after the waiver. However, it is relevant to the issue of implied authority because it is an illustration of a tax-related document that was signed on behalf of Arpeg by Chris Mathisen alone. Either the board of directors specifically authorized Chris Mathisen to file this purported notice of objection, of which there is no evidence, or Chris thought that he had the authority to sign it.
+[38] Secondly, the audit material contains corporate resolutions that remove Chris Mathisen as a director of Arpeg for a period of time. This is significant because one of the formal real estate documents that was introduced into evidence by Arpeg (Ex. A1, Vol. 2, Tab 7) was signed by Chris and Bill Mathisen in May 1997 when Chris Mathisen was not a director. This suggests that Arpeg was not as strict about signing authority as the witnesses suggest, even for formal real estate documents.
+[39] I have not given much weight to either of these circumstances because neither of them was raised at the hearing. I mention them, though, because they do provide some corroboration for my finding that Chris Mathisen had implied authority to sign the waiver.
+[40] Finally, I would comment on an argument made by counsel for Arpeg that the doctrine of apparent authority has no application to waivers because it only applies in the context of contracts. I do not think that this argument is supported by judicial decisions. Many of the cases involve disputes over contracts, but it does not follow that the principle is so limited. I refer, for example, to the following comment by Estey J. in Canadian Laboratory Supplies, supra, at p. 815:
+The manner in which a company can extend actual and apparent authority to an employee so as to be bound by the representations and actions of that employee is discussed by Diplock L.J. in the Freeman case [...]
+(Emphasis added)
+[41] For these reasons, I conclude that Chris Mathisen had the authority to sign the waiver on behalf of Arpeg.
+B. Does "non est factum" apply?
+[42] In the alternative, Arpeg submits that Chris Mathisen signed the form without knowing what it was, not through his own carelessness, but rather because the auditor tricked him into believing that the waiver was a routine document of little importance. Since the waiver fundamentally changed Arpeg's legal rights, it submits, the doctrine of "non est factum" (it is not a [valid] deed) should apply. In support, counsel referred to a decision of this Court, Karakas v. The Queen, 96 D.T.C. 1143 (T.C.C.). However, I would note that the facts in Karakas are materially different because the taxpayer in that case could not read or write.
+[43] I will begin by reviewing the history of the audit, which commenced in April 2000 as an audit of the 1997 and 1998 taxation years.
+[44] During the course of the audit, the auditor, Ed Eng, became concerned about the replacement property election on 1200 Homer Street and decided to expand the audit to include the 1996 taxation year for this issue only.
+[45] In July 2000, the auditor decided to seek a waiver of the normal reassessment period for the 1996 taxation year, which would end on September 15, 2000. He reasoned that the audit of the 1997 and 1998 taxation years would not be complete by then and that it would be desirable to deal with all audit adjustments at the same time. The auditor prepared a waiver form and Chris Mathisen signed it. The execution date on the form is July 20, 2000.
+[46] A reassessment of the 1996 taxation year was subsequently issued by notice of reassessment dated July 9, 2001, adjusting Arpeg's income to include capital gains and recapture from the sale of 1200 Homer Street.
+[47] According to Chris Mathisen's version of events, during the audit he had no idea that Mr. Eng was reviewing the replacement property election, or that the auditor was looking at the 1996 taxation year at all.
+[48] Chris testified that on the morning of July 20, 2000, he received a telephone call from Mr. Eng, during which Mr. Eng told him that he needed a form signed so that he could complete the audit. Chris Mathisen agreed. The auditor brought the form to Arpeg's office later that day. When the auditor arrived at Arpeg's office, the two men agreed over the intercom that Chris would come down to the lobby to sign the document, as they were both in a hurry. Chris Mathisen testified that he could not read the document because he did not bring his reading glasses with him and that he signed the form based on the auditor's representation that it was necessary for him to sign it "to complete the audit."
+[49] Arpeg submits that Mr. Eng's actions were a deliberate attempt to mislead Chris Mathisen as to the nature of the waiver.
+[50] Mr. Eng's testimony presented a slightly different version of events. Most importantly, he denied any intent to mislead.
+[51] Mr. Eng had no recollection of the telephone call to Chris Mathisen to discuss the waiver but he did have a vivid memory of attending at Arpeg's office to have the document signed. He stated that he bumped into Chris Mathisen on the street as both men were approaching Arpeg's office. The men agreed to sit down outside to have the waiver signed.
+[52] Even though Mr. Eng does not recall telephoning Chris Mathisen in advance, a telephone call is recorded in his audit notes. The notes reflect that a call took place on July 18, two days earlier than when Chris suggested.
+[53] The note also suggests that the discussion about the waiver was much more detailed than Chris Mathisen suggests. The entry for July 18 reads:
+July 18
+10:45
+Called TP. Advised that the 1996 taxation year is going statute-barred on Sept 15/97 and I am looking at the issue of the replacement property election. Advised that I can process the file now before the audit is completed or that a waiver can be signed by an authorized signing officer to keep the year opened and we can deal with all issues at one time. TP agreed. Agreed that I will come on Friday for him to sign.
+[54] Arpeg submits that this audit note was falsified by the auditor to cover up his trickery. In support, Arpeg suggests that there are two irregularities within the contents of the note. The first is that the statute bar date should read "Sept 15/00." The second is that the auditor is to bring it to Arpeg's office "Friday," whereas the execution date handwritten on the form is July 20, which was shown at the hearing to be a Thursday.
+[55] There was no entry in the audit notes concerning the meeting at which the waiver was signed. Mr. Eng was confronted on cross-examination about the discrepancy as to the signing date and did not know the reason why the audit note refers to Friday whereas the form indicates that it was signed on a Thursday.
+[56] I have no hesitation in concluding that Mr. Eng did not set out to intentionally mislead Chris Mathisen.
+[57] First of all, to the extent that there are discrepancies between the testimony of the two men, I prefer that of Mr. Eng. There is no compelling reason for Mr. Eng to need the waiver. From the auditor's perspective, the 1996 taxation year was going to be reassessed regardless of whether the waiver was signed. There was plenty of time for a reassessment to be issued within the normal reassessment period. And if anything, the waiver worked to Arpeg's advantage because it allowed Arpeg to make submissions before the assessment was issued, which is exactly what happened in the early part of 2001.
+[58] Second, it defies common sense that Mr. Eng would think that Chris Mathisen could be fooled as to the nature of this document. Mr. Eng would surely assume that the waiver would be read before it was signed. I also note that the title on the form attempts to alert the reader as to the nature of the document: "WAIVER IN RESPECT OF THE NORMALREASSESSMENT PERIOD."
+[59] I have also concluded that if Chris Mathisen did not understand the nature of the document, he has only himself to blame. Although it would have been preferable for Mr. Eng to have forwarded a draft of the waiver form to him in advance, Chris chose to sign it when Mr. Eng presented it to him.
+[60] Chris Mathisen testified that he did not read the form because he had forgotten his reading glasses. He was not cross-examined on this statement although he did not use glasses to read handwritten journal entries during his testimony. Assuming this testimony to be true, however, it is not a sufficient reason to sign the document before reading it. Even putting the facts in the most favourable light for Arpeg, Chris Mathisen was careless. When faced with the decision as to whether to sign the waiver form on July 20, he could have chosen not to sign the form on that day, or at all.
+[61] Counsel for Arpeg suggests that Chris Mathisen's version of events is plausible because the auditor acted in an underhanded manner by not revealing the focus of his audit investigations. As Mr. Eng himself admitted, his audit practice at the time was to not disclose to taxpayers what issues he was pursuing.
+[62] This does give credence to Chris Mathisen's testimony that he had not been aware that Mr. Eng was reviewing the 1996 taxation year. But, it is not probative of falsification and deliberate misrepresentation.
+[63] Arpeg's counsel also submits that the so-called irregularities with the July 18 audit note suggest that the note was fabricated. I do not agree. If anything, I would have thought that these irregularities support the view that the audit note was not carefully crafted after the fact.
+[64] Arpeg's submission with respect to non est factum is accordingly rejected.
+II. UCC of Class 10 assets
+[65] The Crown submits that Arpeg overstated the acquisition cost of Class 10 property by $10,000 in the 1997 taxation year.
+[66] In reviewing the capital cost allowance schedules attached to Arpeg's 1997 tax returns, the auditor noticed that there was an arithmetic error in the line item dealing with Class 10 property. The reassessments adjusted Arpeg's capital cost allowance claims for that year and the following year accordingly.
+[67] The relevant part of the line item for Class 10 property that is in dispute reads:
+2
+Undepreciated
+capital cost
+at the
+beginning
+of the year
+3
+Cost of
+acquisitions
+during
+the year
+4
+Adjustments
+6
+Undepreciated
+capital cost
+(column 2 plus
+column 3 plus
+or minus column 4
+minus
+column 5)
+7
+50% rule
+(deduct 1/2
+of the amount,
+if any, by
+which the net
+cost of acquisitions
+exceeds
+column 5)
+8
+Reduced undepreciated capital cost (column 6 minus column 7)
+9
+CCA
+rate
+%
+10
+Capital
+cost allowance (column 8 multiplied by column 9; or a lower amount)
+11
+Undepreciated capital cost at the end of the year (column 6 minus column 10)
+24,845.21
+10,149.50
+(1,237.25)
+43,757.46
+9,456.13
+34,301.33
+30%
+10,290.40
+33,467.06
+[68] It is apparent that there is an error in the schedule. The amount in column 6 for undepreciated capital cost should equal the aggregate of the previous columns but it does not.
+[69] The Crown submits that columns 3, 4, and 5 are correct and that column 6 is overstated by $10,000.
+[70] Arpeg submits that the error is in column 3, cost of acquisitions. It submits that this amount is understated by $10,000. If Arpeg is correct, then column 6 is correct.
+[71] The obstacle that the Crown faces is that its position is inconsistent with the amount in column 7, the 50 percent rule. Column 7 is consistent with Arpeg's position, that the cost of acquisitions is understated by $10,000.
+[72] There is also a weakness with Arpeg's position, namely that it has no supporting documentation for the cost of acquisitions.
+[73] In many cases, a lack of supporting documentation would be fatal. However, neither party spent much time on this relatively minor issue. As I stated at the outset, there were a great many items in dispute in these appeals and many of these were resolved prior to the hearing. Looking at the schedule as a whole, it seems more likely that Arpeg's position is the correct one. I have therefore decided to give Arpeg the benefit of the doubt.
+[74] I conclude, then, that Arpeg's cost of acquisitions of Class 10 property for the 1997 taxation year should be increased by $10,000.
+III. Shareholder benefits
+[75] Bertha Mathisen and six of her children, who are all indirect shareholders of Arpeg, were assessed for the 1997 and 1998 taxation years in respect of benefits allegedly conferred on them by Arpeg and a related corporation. In support of the assessments, the Crown relies on sections 15(1) and 246(1) and, in the alternative, section 6(1).
+[76] The purported benefits relate to the following assets made available for the Shareholders' personal use: tickets to entertainment events and club memberships, a yacht, three cabins in Whistler, British Columbia, and a home in Crescent Beach, British Columbia.
+[77] The Shareholders have conceded that, if there has been a benefit conferred, that it should be included in their incomes. The only question to be decided is the value, if any, of the benefit that has been conferred.
+[78] I will consider first the tickets and club memberships. During 1997 and 1998, Arpeg incurred expenditures of $45,217.08 and $42,222.93, respectively, on tickets to events such as the opera, symphony, basketball and hockey games, and on dues for memberships in clubs such as the Royal Vancouver Yacht Club, the Richmond Country Club and the Georgian Court.
+[79] For purposes of the reassessments, the Minister accepted that 30 percent of these expenditures were bona fide business expenses and he included the remaining 70 percent, $31,561.96 and $29,556.05, in computing the Shareholders' incomes. Because the Minister did not have any factual basis to allocate the expenses among the Shareholders, they were allocated in accordance with share ownership.
+[80] The Shareholders submit that there is a business purpose to all these expenditures. According to counsel's written submissions:
+[...] the Appellants submit that the expenses are in the nature of capital expenses which are incurred primarily for the purpose of preserving the existence of Arpeg by providing the individual Appellants with incentives to keep the company together. The benefits enjoyed by the individual Appellants are incidental to achieving the goal of maintaining Arpeg's existence.
+[81] The evidence to support the income-earning purpose was far from compelling. According to the testimony of Chris Mathisen, the board of directors thought that it was important for Arpeg to incur these expenses to keep the family together and committed to the corporation.
+[82] Counsel for the Shareholders submits that the reasoning of Bowman C.J. in International Colin Energy Corp. v. The Queen, [2003] 1 C.T.C. 2406 (T.C.C.)supports the finding that the expenditures have a business purpose.
+[83] I find this argument to be frivolous. The expenses incurred in International Colin Energy were merger expenses and did not have a personal element. The Chief Justice noted that the expenses were "patently [...] intended to improve the appellant's income."
+[84] The circumstances here are not at all analogous. The expenditures were for entertainment activities and as such were "patently" intended for the Shareholders' enjoyment. Any business connection is remote.
+[85] The Shareholders also dispute the income inclusion on procedural grounds. As noted above, the benefit was allocated among Shareholders based on their share ownership. During his testimony, the auditor acknowledged that he made no attempt to determine which Shareholder benefited from a particular expenditure. The Shareholders submit that the assessments are flawed because the allocation was arbitrary.
+[86] Counsel for the Shareholders referred to an excerpt from Hickman Motors Ltd. v. The Queen, [1998] 1 C.T.C. 213 (S.C.C.), at para. 96, which quotes from an earlier decision of this Court (Kamin v. The Queen, 93 D.T.C. 62 (T.C.C.)): "The Minister does not have carte blanche in terms of setting out any assumptions which suits his convenience." It is argued, then, that the Minister is not entitled to allocate the benefit arbitrarily.
+[87] I would note, first, that there was ample opportunity for the Shareholders to provide an allocation to the auditor before the assessments were issued and there was no suggestion that they had done so. This is not a matter of the Minister making assumptions simply for his own convenience. In these circumstances, I can see no reason to disturb the assessments simply because the allocation between the shareholders was arbitrary.
+[88] In any event, the passage from Hickman Motors above was taken out of context. Hickman Motors was not considering whether the Minister could make an arbitrary assessment. Rather, it addressed a situation in which taxpayers had adduced some evidence at trial and the Minister failed to provide any evidence in response. This is made clear at para. 96 and 97:
+96 In the present case, without any evidence, both the Trial Division and the Court of Appeal purported to transform the Minister's unsubstantiated and unproven assumptions into "factual findings", thus making errors of law on the onus of proof. My colleague Iacobucci J. defers to these so-called "concurrent findings" of the courts below, but, while I fully agree in general with the principle of deference, in this case two wrongs cannot make a right. Even with "concurrent findings", unchallenged and uncontradicted evidence positively rebuts the Minister's assumptions: MacIsaac, supra. As Rip T.C.J., stated in Gelber v. Minister of National Revenue, (1991), 91 D.T.C. 1030 (T.C.C.), at p. 1033, "[the Minister] is not the arbiter of what is right or wrong in tax law". As Brulé T.C.J., stated in Kamin, supra, at p. 64:
+the Minister should be able to rebut such [prima facie] evidence and bring forth some foundation for his assumptions.
+.....
+The Minister does not have a carte blanche in terms of setting out any assumption which suits his convenience. On being challenged by evidence in chief he must be expected to present something more concrete than a simple assumption. [Emphasis added.]
+97 In my view, the above statement is apposite in the present case: the respondent, on being challenged by evidence in chief, failed to present anything more concrete than simple assumptions and failed to bring forth any foundation. The respondent chose not to rebut any of the appellant's evidence. Accordingly, the respondent failed to discharge her onus of proof.
+[89] The Shareholders' submissions in respect of expenditures on tickets and entertainment events are therefore rejected.
+[90] I turn now to the other items - a 50-foot yacht, three cabins at Whistler, and a home at Crescent Beach.
+[91] There is no dispute between the parties as to the total number of days that each property was used in the relevant period, nor as to the proportion of time between personal and business use. These amounts were included in an agreed statement of facts and are summarized as follows:
+Total
+Use (Days)
+Business
+Use (Days)
+Personal
+Use (Days)
+Yacht
+25
+19
+6
+Whistler
+Properties
+76
+25
+51
+Crescent
+Beach
+60
+8
+52
+[92] Rather, the dispute relates to the method used to calculate the value of the shareholder benefits.
+[93] In the assessments, the Minister computed the amount of the benefits on a "cost of capital" approach, similar to that applied in Fingold v. The Queen, [1997] 3 C.T.C. 441 (F.C.A.) and Youngman v. The Queen, 90 D.T.C. 6322 (F.C.A).
+[94] The computation that the Minister made is described in the following excerpt from the Crown's written argument (para. 91). Although this passage relates to the yacht, the same method was used for the other properties.
+... [the auditor] obtained the cost of capital from the books and records of the corporation and took the average for the year from the opening and closing balances. He used the prescribed interest rate set out in Regulation 4300 and took the yearly average of that rate to calculate the rate of return on capital. He stated that he used the rates set out in regulation 4300 on the basis of the Agency's policy. He then applied the average rate of return to the average cost of capital to arrive at the total amount of expected return for each year. He adjusted the amount of the total benefit downward by the number of days that the yacht was used for business purposes. He then allocated the amount of the benefit to each Appellant based on each individual's percentage of use.
+[95] The aggregate amounts that were included in the Shareholders' incomes are set out in the table below. These amounts were allocated to the Shareholders in the percentages suggested by them. I note for the sake of clarity that the amount for the Whistler properties includes all three cabins.
+1997
+1998
+Yacht
+$15,222.66
+$18,315.66
+Whistler Properties
+$29,364.61
+$35,829.48
+Crescent Beach
+$32,885.00
+$38,603.00
+[96] The Shareholders submit that these amounts are far in excess of what is reasonable in the circumstances. They submit that the proper approach is to determine the benefit based on the rental value of the properties for the days that the properties were actually used by the Shareholders for personal purposes. Further, they suggest that benefits in relation to the Whistler and Crescent Beach properties should be reduced by maintenance expenses that were reimbursed to the corporations by Arne and Bertha Mathisen.
+[97] The amounts that result from the Shareholders' computation are set out in the following table.
+1997
+1998
+Yacht
+$3,396
+$3,396
+Whistler Properties
+nil
+nil
+Crescent Beach
+nil
+nil
+[98] These amounts are significantly lower than the assessed amounts. This is due in part to the fact that the actual use of the properties (for both business and personal purposes) was relatively small. In addition, the maintenance expenses that were paid by Arne and Bertha Mathisen in relation to the Whistler and Crescent Beach properties exceeded the benefit otherwise computed using the Shareholders' method.
+[99] I begin by setting out some of the facts in relation to each of the properties.
+[100] First, the yacht. In 1995, Arpeg purchased a 50-foot yacht for $214,000. Further expenditures were made and during the relevant period Arpeg had invested approximately $280,000 in the vessel. According to the parties' agreed facts, the yacht was used for only 25 days in each of 1997 and 1998; 19 of these were for business use and 6 were for personal use.
+[101] Second, the Whistler properties. On three separate occasions beginning in 1969 Arpeg purchased a share in Whistler Ski Lodges Ltd. Each share entitles Arpeg to the use of one cabin in Whistler and so Arpeg had the use of three cabins during the relevant period. The total capital invested in the Whistler properties is approximately $555,000. The cabins were used for a total of 76 days annually, 25 days for business use and 51 days for personal use.
+[102] Third, the Crescent Beach property. This is a large home that is used two months every summer by Bertha Mathisen. The capital invested in the home is approximately $584,000. The property was acquired many years ago by an affiliated corporation, Arpeg Farms Ltd., and it was originally the home on a working farm operated by Arne Mathisen. The farming operation was moved to a different site more than 25 years ago. According to the agreed statement of facts, the Crescent Beach property was used 8 days each year for business purposes.
+[103] In circumstances such as these, the principles to be applied are set out in Fingold and Youngman.
+[104] In Youngman, at p. 6325:
+In order to assess the value of a benefit, for the purposes of paragraph 15(1)(c), it is first necessary to determine what that benefit is or, in other words, what the company did for the shareholder; second, it is necessary to find what price the shareholder would have had to pay, in similar circumstances, to get the same benefit from a company of which he was not a shareholder.
+[105] The question then is: What did Arpeg and Arpeg Farms do for the Shareholders?
+[106] The Crown acknowledged some business use of the properties. I accept this but in order to succeed the Shareholders must establish that the amounts that have been assessed overvalue the benefit that Arpeg and Arpeg Farms have conferred on them. The Shareholders have failed to do this.
+[107] Arpeg and Arpeg Farms had together invested approximately $1,400,000 in the properties. What benefit from a business perspective did the corporations derive from this?
+[108] According to the evidence, the Whistler properties and the yacht were used to entertain employees and suppliers. It is necessary to consider how Arpeg would benefit from this and, unfortunately, there was very little evidence on that. Arpeg had very few employees - a bookkeeper, a secretary and four live-in managers at the residential apartment buildings. As for suppliers, it appears that they were persons who serviced the buildings such as plumbers and electricians. No evidence was led that convinces me that Arpeg derived a significant benefit from this.
+[109] As for the Crescent Beach property, the evidence of business use was even more tenuous. Chris Mathisen testified that they met with resident managers there. But his mother's testimony did not even go that far. Arpeg's counsel questioned her about the use of the summer home by persons other than family members. The following is an excerpt from her testimony:
+Q What other purposes -- who else might use the property? And by that, include the grounds as well.
+A Oh, the grounds, well, the tenants that we have there [on other properties on the grounds] and the Crescent Beach Swim Club use our pool in the summer, four mornings a week, from 9 to 12, to teach synchronized swimming, and they also use our tennis court for tournaments occasionally, and for their big fundraiser when there are, oh, 250 to 300 people there.
+[110] In view of the evidence as a whole, I find that the benefit to the corporations from the properties in the relevant taxation years is marginal.
+[111] The Shareholders suggest that an annual benefit of $3,396 for all these properties, allocated to the Shareholders based on personal use, is appropriate. I do not agree. This is completely out of line with the benefits that have been conferred. Applying the principles in Fingold and Youngman, I find that the benefits as calculated by the Minister are more appropriate. They represent an estimate of the cost of the properties to the corporations, less the cost reasonably attributable to business use. The evidence does not warrant allocating any of the cost to business use beyond the actual number of days that the properties were used for business purposes.
+[112] I turn now to the Shareholders' remaining arguments.
+[113] The Shareholders submit that the yacht was used primarily for business purposes and that it is not appropriate in these circumstances to assess a benefit based on availability for use. Counsel cited the following judicial decisions in support: Smith v. M.N.R., [1991] 2 C.T.C. 2143 (T.C.C.); Mid-West Feed Lot Ltd. v. M.N.R., [1987] 2 C.T.C. 2101 (T.C.C.); Houle v. The Queen, [1983] C.T.C. 406 (F.C.T.D.).
+[114] In my view, this argument must fail. The cases cited cannot be relied upon without taking into account Fingold and Youngman. Considering the evidence as a whole, I am compelled to conclude that the yacht was essentially a personal use asset. The evidence does not support a finding that Arpeg expended $280,000 on a yacht primarily for income-earning purposes. A benefit of $3,396 annually for the yacht, as suggested by the Shareholders, is completely unreasonable in the circumstances. The benefit as calculated by the Minister is a much more appropriate measure of what the Shareholders would have to pay a third party for this benefit.
+[115] In the alternative, the Shareholders submit that if a cost of capital approach is accepted for the yacht, it should be based on the yacht's original cost, $214,000, less an amount for depreciation.
+[116] I do not agree with this submission. It makes no sense to base the benefit on the original cost of the yacht and to ignore other capital amounts that Arpeg invested in the property. It also does not make sense to reduce the amount invested by depreciation. The theory of the cost of capital approach is that the corporation has invested a certain amount of capital and that this has an annual cost based on a reasonable rate of interest. A charge for depreciation is not relevant to this calculation.
+[117] As for the Whistler and Crescent Beach properties, the Shareholders submit that the properties form part of Arpeg and Arpeg Farm's real estate investment portfolio and that the benefit to Shareholders should accordingly be limited to the value of the actual personal use.
+[118] I accept that Arpeg and Arpeg Farms will likely benefit at some time in the future from an increase in the value of this real estate. However, I do not agree that this is a sufficient reason to value the benefit based on a rental value for the actual personal use. The properties have been held by the corporations for many years for the personal use of family members. They have never been rented out. The fact that the corporations will likely derive some benefit when the family decides to sell them does not mean that a substantial benefit has not been conferred in the meantime. I leave for another day the argument that the amount of the benefit should be discounted to take this factor into account. This argument was not advanced before me and there is not a sufficient evidentiary basis to determine an appropriate discount.
+[119] In relation to Crescent Beach alone, counsel further suggests that because the home was originally part of a working farm that it is inappropriate to apply a cost of capital approach.
+[120] I do not agree. While it may make some sense to have regard to original use if the property use has recently changed, it makes no sense to look at original use when the property has been held for its present use for over 25 years.
+[121] The Shareholders also submit that the benefit in relation to the Whistler and Crescent Beach properties should be reduced by the amount of maintenance expenses that were reimbursed to the corporations by Arne and Bertha Mathisen.
+[122] I do not agree. It may be appropriate to reduce the amount of the benefit by maintenance expenses that are reasonably attributable to business use. However, this was not argued and no evidence was given to substantiate a reasonable apportionment. In these circumstances, I do not think that it is appropriate to adjust the amount that the Shareholders have been assessed.
+IV. Disposition
+[123] In the result, the appeals will be allowed to the following extent:
+a) the appeal by Arpeg for the 1997 and 1998 taxation years will be allowed, and the assessments will be referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Consent to Judgment filed and to increase the cost of acquisition of Class 10 property in 1997 by $10,000;
+b) the appeal by Bertha M. Mathisen for the 1998 taxation year will be allowed, and the assessment will be referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Consent to Judgment filed; and
+c) the appeal by Christopher G. Mathisen for the 1997 and 1998 taxation years will be allowed, and the assessments will be referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Consent to Judgment filed.
+[124] In all other respects, the appeals are dismissed.
+[125] As for costs, the respondent was largely successful in these appeals and is entitled to costs, but only one set of counsel fees for all appeals.
+Signed at Toronto, Ontario, this 3rd day of November, 2006.
+"J. Woods"
+Woods J.
+CITATION:
+2006TCC593
+COURT FILE NO.:
+2002-4490(IT)G, 2002-4499(IT)G, 2002-4500(IT)G, 2002-4501(IT)G, 2002-4502(IT)G, 2002-4503(IT)G, 2002-4504(IT)G and 2002-4505(IT)G
+STYLE OF CAUSE:
+Arpeg Holdings Ltd. and Her Majesty the Queen, Christopher G. Mathisen and Her Majesty the Queen, Bertha M. Mathisen and Her Majesty the Queen, William Mathisen and Her Majesty the Queen, P. Anne Mathisen and Her Majesty the Queen, E. Jane Ratcliffe and Her Majesty the Queen, Mary McNeil and Her Majesty the Queen, and Barbara Bell and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+April 24, 25, 26, 27 and May 4, 2006
+REASONS FOR
+JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+November 3, 2006
+APPEARANCES:
+Counsel for the Appellants:
+Alistair G. Campbell
+Counsel for the Respondent:
+Linda L. Bell
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Alistair G. Campbell
+Firm:
+Legacy Tax + Trust Lawyers
+Vancouver, British Columbia
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,186 @@
+---
+title: "Monjazeb c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180248/index.do"
+last_modified: "2016-09-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 196"
+citation2: ""
+neutral_citation: "2016 CCI 196"
+decision_date: "2016-09-13"
+language: "fr"
+item_id: "180248"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2883
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:54:05.316000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ff043ee38dd8a096db63438712b11ddefdf28a1814b2316cd17f528eb331c30"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Monjazeb c. M.R.N.
+
+- Citation: 2016 CCI 196
+- Decision date: 2016-09-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2883, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Monjazeb c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-09-13
+Référence neutre
+2016 CCI 196
+Numéro de dossier
+2016-488(EI), 2016-489(CPP)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2016-488(EI)
+2016-489(CPP)
+ENTRE :
+SHAHROKH MONJAZEB,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+KEN BROWN,
+intervenant.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 30 août 2016, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Shannon Fenrich
+Pour l’intervenant :
+L’intervenant lui-même
+JUGEMENT
+Les appels en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi et du paragraphe 28(1) du Régime de pensions du Canada sont accueillis et la décision du ministre du Revenu national est annulée pour le motif que Shahrokh Monjazeb occupait un emploi assurable ouvrant droit à pension.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2016.
+« Campbell J. Miller »
+Juge C. Miller
+Référence : 2016 CCI 196
+Date : 20160913
+Dossiers : 2016-488(EI)
+2016-489(CPP)
+ENTRE :
+SHAHROKH MONJAZEB,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+KEN BROWN,
+intervenant.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Shahrokh Monjazeb, appelant, déclare avoir été employé de la société PCS Pacific Cabling Solutions Ltd. (« PCS ») pour la période en cause, du 1er janvier 2014 au 28 avril 2015 (la « période »), malgré le fait qu’il facturait des [traduction] « frais de conception de système, de soutien technique et de consultation en formation » à PCS deux fois par mois et qu’il percevait la TPS. M. Brown, le directeur de PCS, affirme que M. Monjazeb était un entrepreneur indépendant pendant la période, même si PCS lui accordait des congés annuels payés, lui versait un salaire de base plus commissions, et déposait la rémunération de M. Monjazeb directement sur son compte bancaire. Il s’agit d’une version intéressante de la question en litige stéréotypée pour déterminer si un travailleur est un employé ou un entrepreneur indépendant : habituellement, celui qui revendique l’existence de l’emploi tend à créer les attributs d’un emploi et, de la même façon, celui qui revendique l’existence d’un entrepreneur indépendant essaie de créer les attributs d’un entrepreneur indépendant, et non le contraire.
+[2] L’Agence du revenu du Canada (l’« ARC ») s’est d’abord rangée du côté de M. Monjazeb, déclarant le 12 août 2015 qu’il occupait un emploi assurable et ouvrant droit à pension sous les auspices de la Loi sur l’assurance-emploi (« LAE ») et du Régime de pensions du Canada (« RPC »). Cependant, après que PCS a interjeté appel de la décision, l’ARC a annulé la décision et a décidé, le 16 novembre 2015, que M. Monjazeb était un entrepreneur indépendant aux fins de la LAE et du RPC. M. Monjazeb interjette appel de cette décision.
+[3] Je note dès le début que le ministre de l’Emploi, du Tourisme et de la Formation et ministre responsable du Travail de la Colombie-Britannique a émis un avis de détermination en décembre 2015 concluant que M. Monjazeb était un employé faisant intervenir les dispositions de la Employment Standards Act (loi sur les normes d’emploi) de la Colombie-Britannique.
+[4] M. Monjazeb et M. Brown ont témoigné et, même s’il y avait quelques différences et points de vue importants, il y avait assez de similitudes et de cohérence pour obtenir les faits sur la relation de travail.
+[5] M. Monjazeb est ingénieur du son et témoigne d’un grand intérêt dans l’éducation dans ce domaine. Depuis le début des années 1990 en Colombie‑Britannique, il élabore des programmes de formation en électronique personnalisés. Au début, il offrait les programmes par l’intermédiaire d’une société, Hybrid Colleges Inc., qui est devenue insolvable en 2000. Ensuite, il a poursuivi sa carrière en tant qu’entreprise individuelle sous le nom d’Hybrid College International (« Hybrid »). Il exploitait également Hybrid Customs, qu’il qualifiait de filiale (en fait, elle fait également partie de son entreprise individuelle), qui vendait et installait des systèmes et des produits personnalisés. En termes simples, M. Monjazeb travaillait dans le secteur des systèmes de divertissement au foyer. Une autre branche de son entreprise individuelle était AV Supplies Importers (« AVSI »), par l’intermédiaire de laquelle il importait et distribuait des produits audiovisuels.
+[6] PCS vendait des systèmes de divertissement au foyer et du matériel accessoire aux distributeurs de ces systèmes. PCS n’était pas détaillant et ne faisait pas affaire directement avec le consommateur final. M. Brown, qui se qualifiait de propriétaire, de responsable des achats, de représentant des ventes, de directeur général et de superviseur de PCS, a d’abord connu M. Monjazeb comme client qui achetait des produits destinés à la revente par l’intermédiaire d’Hybrid Customs. En discutant, il a appris que M. Monjazeb avait une entreprise de formation qui formait les acteurs du secteur [traduction] « à comprendre et à apprendre à appliquer les notions essentielles de conception acoustique, à connaître la science appliquée se rapportant aux notions de conception de haut-parleurs et d’amplificateurs, aux principes et techniques avancés de conception acoustique architecturale, ainsi qu’aux systèmes de son ambiophonique haute définition multivoies » (tiré d’une des brochures de M. Monjazeb). M. Brown et M. Monjazeb étaient d’accord pour dire que PCS pouvait offrir une certaine valeur ajoutée aux nouveaux clients en les faisant assister aux cours offerts par Hybrid, l’entreprise de M. Monjazeb. En 2010, M. Monjazeb, toujours par l’intermédiaire d’Hybrid, a offert quelques programmes aux clients de PCS. M. Monjazeb a affirmé qu’idéalement, il devait avoir six étudiants, mais il donnait les formations avec moins d’étudiants (formation de quatre jours normalement). M. Monjazeb facturait PCS pour ces programmes par l’intermédiaire d’Hybrid. M. Monjazeb a fait référence à cette entente comme étant le contrat nº 1. Initialement, les programmes étaient offerts dans des hôtels, mais en 2012, PCS a construit un amphithéâtre dans ses installations à cette fin. M. Monjazeb a donné trois ou quatre formations par année jusqu’en 2013.
+[7] En juin 2013, leur relation n’était plus la même. C’est à partir de ce moment‑là que leur point de vue diverge. M. Brown soutient que M. Monjazeb cherchait à augmenter son revenu parce qu’il avait des difficultés financières. M. Brown a accepté de donner du travail à M. Monjazeb, à titre de soutien technique en conception de système pour son personnel des ventes. Il n’y avait pas de spécialiste en conception possédant les qualifications de M. Monjazeb au sein de PCS. Il n’y avait aucun contrat de travail écrit, mais ils ont décidé que M. Monjazeb travaillerait cinq jours par semaine. M. Brown considérait cette expertise supplémentaire comme un moyen d’améliorer ses ventes. Au début, M. Monjazeb n’avait aucune responsabilité liée aux ventes.
+[8] M. Monjazeb a affirmé que M. Brown lui avait demandé de se joindre à l’équipe et ne voulait pas qu’il soit un entrepreneur indépendant, à l’exception de la formation, qui serait maintenant une compétence exclusive de PCS. M. Monjazeb a mentionné qu’il se considérait comme un employé à temps plein en soutien technique.
+[9] Trois mois plus tard, un des vendeurs de PCS a démissionné et un poste s’est libéré au service des ventes. M. Monjazeb a demandé à s’occuper de quelques comptes. M. Brown a accepté et a offert cette possibilité à M. Monjazeb en lui assignant certains comptes. M. Brown considérait cela comme une « transformation », qui a commencé par la prestation d’un service de formation, auquel on a ajouté le soutien à la formation et à la conception, puis la vente. Pour M. Brown, il s’agissait d’une situation temporaire.
+[10] L’entente concernant les formations n’avait pas changé. PCS demandait toujours 800 $ ou 900 $ aux clients et M. Monjazeb demandait à PCS environ 500 $ par étudiant. PCS payait M. Monjazeb pour ces programmes offerts par Hybrid au moyen d’un chèque.
+[11] M. Brown et M. Monjazeb avaient décidé des conditions de rémunération à l’égard des tâches de soutien technique et de ventes, soit un salaire de base plus les commissions. Une commission de vente était versée directement à M. Monjazeb relativement aux comptes qui lui étaient assignés et qu’il gérait, et une commission de vente inférieure lui était versée lorsqu’il fournissait du soutien technique et du soutien en conception.
+[12] M. Monjazeb a indiqué qu’en juin 2013, M. Brown avait proposé qu’il demeure entrepreneur indépendant. Il devait donc envoyer une facture de ses honoraires toutes les deux semaines et prélever la TPS. Je retiens du témoignage des deux témoins qu’en fait, c’est M. Monjazeb qui a insisté pour cette forme de rémunération afin d’éviter les retenues à la source qui réduisaient son revenu. Cette entente s’est poursuivie à l’automne lorsque M. Monjazeb est devenu vendeur. Il a reconnu qu’il ne pouvait pas se permettre des retenues à la source. M. Brown a indiqué qu’il ne savait pas quoi faire et a poursuivi l’entente. Il a toutefois proposé à plusieurs reprises à M. Monjazeb qu’ils devaient officialiser le contrat d’emploi. M. Monjazeb a refusé. Enfin, en mars 2014, M. Brown a présenté une offre d’emploi écrite à M. Monjazeb. Elle mérite d’être reproduite :
+[13] M. Brown a allégué que cette offre n’avait pas été acceptée, et que si elle l’avait été, il aurait fait les retenues à la source appropriées. M. Monjazeb a affirmé que l’offre avait été acceptée puisque sa rémunération avait augmenté en conséquence. Cependant, M. Monjazeb a continué de facturer des frais à PCS par l’intermédiaire d’Hybrid et de prélever la TPS. Il était payé par dépôt direct, car selon M. Brown, c’était plus facile pour sa femme, qui s’occupait de la paie, de poursuivre de la même manière. En août 2013, M. Monjazeb a envoyé un courriel à M. Brown précisant ce qui suit : [traduction] « voici mes nouveaux renseignements bancaires pour le dépôt de la paie [...] ». M. Monjazeb n’a pas accepté l’horaire de travail de 8 h à 16 h 30 et a négocié pour commencer à 9 h. Il se rendait au bureau tous les jours et avait un bon rendement. Il a été le meilleur vendeur du mois à plusieurs reprises. Même s’il était clair que personne à PCS, ni même M. Brown, n’avait l’expertise de M. Monjazeb en conception, ce dernier s’est tourné vers M. Brown pour obtenir de l’aide pour la vente. M. Monjazeb a également obtenu des conseils sur le fonctionnement du système logiciel (GP) d’inventaire de PCS. Il se servait des ordinateurs de PCS pour utiliser le logiciel, essentiel à la tâche de vendeur.
+[14] M. Monjazeb n’effectuait pas certaines des tâches que les autres employés des ventes effectuaient, comme travailler dans l’entrepôt à l’occasion. De plus, il ne prenait pas une pause dîner d’une heure, il ne prenait que trente minutes.
+[15] M. Brown avait l’impression que M. Monjazeb cherchait toujours à augmenter sa rémunération parce qu’il avait l’impression qu’elle n’était jamais suffisante. M. Brown a essayé de l’aider comme il le pouvait, mais il devait respecter le bénéfice net de PCS. Toutefois, l’entreprise remboursait le kilométrage parcouru par M. Monjazeb et ses frais de téléphone cellulaire. De plus, lorsque M. Monjazeb a décidé qu’il voulait assister à une convention annuelle sur l’électronique à Las Vegas, M. Brown a remboursé une petite partie des dépenses, car M. Monjazeb a dit qu’il avait rencontré un client de PCS.
+[16] M. Brown essayait aussi d’être un [traduction] « homme bien », selon ses termes, en accordant des congés annuels payés à M. Monjazeb. Dans un courriel envoyé par Mme Brown et daté du 8 mai 2014, cette dernière confirme que le nombre total de jours de vacances pris du 3 juin 2013 au 2 mai 2014 était de 17 jours et demi. Elle a écrit :
+[traduction]
+Deux semaines de vacances équivalent à 10 jours à compter de votre date anniversaire du 3 juin 2013 au 3 juin 2014. Vous avez pris 17 jours et demi, donc en soustrayant les 10 jours auxquels les employés ont droit par année, vous avez pris 7 jours et demi supplémentaires sans que l’année soit terminée. Ken a accepté que vous remboursiez quatre de ces jours, à raison d’un jour par semaine au cours des quatre prochaines périodes de paie, deux jours à votre taux de paie précédent et deux jours à votre taux actuel.
+[17] PCS employait du personnel de vente et avait des agents des ventes contractuels. M. Brown a reconnu qu’il considérait M. Monjazeb davantage comme un agent, mais pas exactement comme les autres agents. M. Monjazeb ne pouvait pas vendre des produits concurrents par l’intermédiaire d’Hybrid, mais il a continué d’exercer des activités par l’intermédiaire d’AVSI. Il a indiqué qu’il le faisait en dehors des heures de travail de PCS. Il n’a réalisé aucune activité de conception par l’intermédiaire d’Hybrid pendant qu’il travaillait pour PCS.
+[18] Pendant la période, M. Monjazeb a continué à payer une adjointe, Mme Bertolo, pour l’aider dans les tâches administratives. Elle a toutefois affirmé qu’elle ne travaillait que quelques heures en fins de semaine et qu’elle s’occupait seulement de l’entreprise de formation. Elle ne pouvait pas remplacer M. Monjazeb à son travail à PCS. Il pouvait engager d’autres personnes pour offrir quelques-unes des formations, mais il ne croyait pas qu’il pouvait faire cela à l’égard de ses tâches de conception et de vente à PCS. M. Monjazeb considérait que le programme de formation qu’il offrait pour PCS était une entente distincte de ce qu’il croyait être son contrat d’emploi, qu’il appelait [traduction] « contrat nº 2 » avec PCS. Il a convenu que le volet formation était fourni à titre d’entrepreneur indépendant.
+[19] M. Monjazeb avait une carte professionnelle de PCS, sur laquelle figurait une adresse électronique de PCS et son poste, spécialiste en conception de systèmes et en soutien. Il avait également des cartes professionnelles d’Hybrid. M. Brown a indiqué qu’il donnait également des cartes professionnelles aux agents des ventes (c.-à-d. ceux qui ne faisaient pas partie du personnel des ventes). Les agents pouvaient vendre d’autres produits. M. Monjazeb sentait qu’il ne pouvait pas se servir de son nom commercial Hybrid pour vendre d’autres produits, même si, comme indiqué précédemment, il semble qu’il ait gagné un petit revenu par l’intermédiaire d’AVSI pendant qu’il travaillait à PCS.
+[20] M. Monjazeb a présenté plusieurs courriels afin de montrer la vraie nature de la relation de travail : par exemple, en janvier 2014, M. Brown a écrit à un client et lui a conseillé de communiquer avec [traduction] « notre Shahrokh Monjazeb [...] pour obtenir des renseignements sur les prix ». M. Monjazeb a nié qu’il pouvait décider de ses heures de travail et aller et venir à son bon vouloir. Il a expliqué qu’il devait être au travail de 9 h à 17 h. Il a présenté un courriel de M. Brown daté du 7 janvier 2014 et envoyé à un client, dans lequel on pouvait lire : [traduction] « Shahrokh sera au bureau à 9 h aujourd’hui ». M. Monjazeb a également présenté des courriels de M. Brown, dans lesquels il lui envoyait des feuilles de calcul budgétaires [traduction] « vous pouvez voir où vous vous situez tout au long de l’année ». M. Brown a également demandé à M. Monjazeb de lui présenter ses prévisions de ventes. Il était évident que M. Brown supervisait les ventes.
+Analyse [21] Comme dans tous les cas qui visent à déterminer si un travailleur est un employé ou un entrepreneur indépendant, la question principale est de savoir si le travailleur exploitait une entreprise pour son propre compte. La jurisprudence a évolué et elle offre des conseils sur la façon de débattre de cette question. La première étape est de déterminer qu’elle était l’intention des parties. Ensuite, il faut analyser les circonstances pour voir si elles correspondent à cette intention. Les facteurs traditionnels comme le contrôle, la propriété du matériel, le risque de pertes, les possibilités de profit, et la responsabilité en matière d’investissement et de gestion sont évalués dans cette analyse.
+[22] La difficulté en l’espèce, comme je l’ai soutenu au début, est que M. Monjazeb, qui veut que l’on établisse qu’il est employé, a refusé une formule de rémunération qui aurait entraîné des retenues à la source sur sa paie. D’un autre côté, M. Brown, qui insiste sur le fait que M. Monjazeb est toujours demeuré entrepreneur indépendant, accordait une indemnité de congé annuel et d’autres attributs propres à un employé. Selon moi, cette incongruité relève davantage de l’intention que de facteurs déterminants d’une manière ou d’une autre. La question en litige est d’autant plus confuse que M. Monjazeb reconnaît qu’il demeure entrepreneur indépendant tant que la disposition sur les programmes de formation est valide. Il a continué à engager une adjointe pour l’aider dans cette [traduction] « entreprise », une fin de semaine sur deux. Il est facile de comprendre pourquoi M. Brown considère tous les services offerts par M. Monjazeb comme équivalents.
+[23] Donc, l’intention, même si elle peut être comprise, contribue-t-elle à l’analyse? Je suis d’accord avec M. Brown que la relation s’est transformée, selon ses mots, pour passer d’une relation claire avec un entrepreneur indépendant à une sorte de relation hybride. Je reconnais que M. Brown voulait consolider la relation pour qu’elle devienne une relation d’emploi. Je retiens comme élément de preuve qu’il a fait cette offre à plusieurs occasions, dont une offre écrite officielle le 1er avril 2014. Je considère cette offre comme une reconnaissance par M. Brown que M. Monjazeb était, à maints égards, sauf en ce qui concerne les retenues à la source, déjà un employé, et que M. Brown avait besoin de solidifier cette position.
+[24] Même si M. Monjazeb dit qu’il a accepté l’offre d’avril 2014, il est évident qu’il ne l’a pas fait relativement à l’officialisation actuelle d’une relation d’emploi, puisqu’il a continué à insister pour envoyer des factures et prélever la TPS plutôt que d’accepter les retenues à la source habituelles d’un employé. Je ne peux que conclure au manque de clarté de l’intention mutuelle et que toute tentative d’invoquer l’intention pour établir la véritable relation de travail n’est pas utile. Franchement, il s’agit d’une conclusion que j’ai tirée dans plusieurs affaires visant à déterminer si un travailleur est un employé ou un entrepreneur indépendant. Il est plus facile de déterminer la relation en tenant compte des facteurs traditionnels confirmés par la Cour suprême du Canada dans la décision 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[1], que j’ai définis précédemment.
+Contrôle [25] Comme l’a souligné la Cour suprême du Canada, le contrôle est toujours un facteur et, effectivement, j’irais jusqu’à dire que dans la plupart des affaires, il s’agit du facteur le plus important. En examinant ce facteur, les tribunaux ont établi plusieurs éléments qui sont utiles :
+- la supervision pratique;
+- la formation;
+- la négociation des conditions;
+- la capacité de travailler ailleurs;
+- la capacité à engager un remplaçant;
+- la liberté d’aller et venir à son gré et d’établir son horaire.
+[26] Par souci de clarté, cette analyse ne porte pas sur la partie liée à la formation du travail de M. Monjazeb. Je conclus qu’elle est demeurée une partie distincte du travail fourni par M. Monjazeb, et ce dernier reconnaît que cette partie a été fournie à titre d’entrepreneur indépendant. Je vise à examiner le reste de son travail, qui se divise en deux catégories. Premièrement, le soutien technique qu’il fournissait aux autres vendeurs et pour lequel il touchait une commission de 2 %, si ce soutien entraînait une vente. Cet aspect constituait une petite partie de son travail. Deuxièmement, son travail de vendeur, dont la partie commission de sa rémunération équivalait à 6 % de la marge brute de ses ventes.
+[27] En ce qui concerne la supervision pratique, M. Brown a admis que ni lui ni personne d’autre à PCS n’avait l’expertise technique de M. Monjazeb pour superviser cet élément de son travail. Pour ce qui est de la partie plus importante de son travail, soit la vente, je conclus qu’il y avait une supervision notable de la part de M. Brown. Il faisait preuve de diligence pour suivre les activités de vente et exiger des prévisions. Je conclus également que M. Monjazeb demandait l’avis de M. Brown sur des questions relatives aux ventes. En outre, c’est M. Brown qui a assigné des clients à M. Monjazeb et, à vrai dire, certains des meilleurs clients de PCS en raison de l’expertise technique supplémentaire de M. Monjazeb. Je conclus que cet aspect du contrôle privilégie l’existence d’un emploi.
+[28] Même si M. Brown ne pouvait pas donner de formation technique, il pouvait apporter son aide relativement aux ventes et il l’a fait. Il a également formé M. Monjazeb à utiliser le système logiciel nécessaire pour conclure des ventes et en effectuer le suivi. Cela indique quelque peu l’existence d’un emploi.
+[29] Pour ce qui est de la négociation des conditions du contrat, il était évident que M. Monjazeb cherchait constamment à augmenter sa rémunération, mais c’est M. Brown, limité par la situation financière de PCS, qui a établi les pourcentages des commissions et le salaire, et qui a remboursé certaines dépenses, à sa discrétion. Je ne considère pas qu’il s’agisse de négociations entre deux entreprises, mais plutôt de négociations entre un employeur et un employé.
+[30] M. Monjazeb pouvait-il travailler ailleurs? Même s’il a continué à offrir des programmes de formation, mais seulement aux clients de PCS durant la période, il donnait ces formations à titre d’entrepreneur indépendant. Il a également continué à travailler un peu pour la filiale AVSI de son entreprise, mais a confirmé que ce travail ne faisait pas concurrence à PCS. Il estimait qu’il ne pouvait pas concurrencer PCS. Il travaillait à temps plein à PCS et cela limitait ce qu’il pouvait faire d’autre. Je conclus que cet élément de contrôle est neutre.
+[31] À l’égard du recours à un remplaçant, j’estime que M. Monjazeb n’aurait pas pu envoyer une autre personne à sa place pour effectuer les tâches pour lesquelles il avait été embauché, soit le soutien technique et la vente. Même s’il avait une adjointe, son travail n’avait rien à voir avec les ventes effectuées à PCS. Manifestement, cela évoque l’existence d’un emploi.
+[32] Pour ce qui est de la liberté d’aller et venir à son bon vouloir, je conclus que M. Monjazeb et M. Brown s’attendaient à ce que M. Monjazeb soit au travail de 9 h à 17 h. Il est vrai que M. Monjazeb ne prenait que trente minutes pour dîner, mais cette pause était dans le délai fixé par M. Brown. Le seul fait de disposer d’un temps limité pour dîner est révélateur de l’existence d’un emploi.
+[33] M. Brown souligne la décision unilatérale prise par M. Monjazeb d’assister à la convention CES à Las Vegas. Je reconnais que cela correspond à la liberté d’un entrepreneur indépendant, mais ce n’est arrivé qu’une seule fois et je ne crois pas que cela supplante l’exigence de présence quotidienne à PCS, qui constituait davantage un signe de l’existence d’un emploi.
+[34] Tout bien pesé, je conclus que le facteur de contrôle milite en faveur de l’existence d’un emploi.
+Propriété du matériel [35] Le matériel dont M. Monjazeb avait besoin pour remplir correctement sa fonction de vendeur était un ordinateur situé dans les bureaux de PCS avec un accès au système logiciel GP utilisé par PCS. Ce point de moindre importance appuie l’existence d’un emploi.
+Possibilité de bénéfices [36] Comme pour les autres employés des ventes, les possibilités de bénéfices de M. Monjazeb étaient liées à son entente au sujet des commissions, une entente qui s’applique selon les mêmes modalités aux employés des ventes et aux agents des ventes. Toutefois, l’intimé a fait valoir qu’en ayant accès aux clients de PCS, M. Monjazeb avait eu la possibilité d’élargir sa clientèle pour le volet formation de son entreprise et, à l’inverse, par l’intermédiaire de son entreprise de formation, il pouvait élargir sa clientèle pour le volet ventes de son travail. Aucun élément de preuve ne démontre que cela s’est produit. L’élément de preuve reposait sur le fait que les programmes de formation offerts pendant la période visée étaient limités aux clients de PCS. Je reconnais qu’il y a pu y avoir des croisements qui auraient pu augmenter son revenu, ce qui favorise l’existence d’une entreprise plutôt que d’un emploi.
+Risque de pertes [37] Je conclus que le risque de pertes que M. Monjazeb encourait était faible, voire inexistant. Le seul exemple de dépenses engagées unilatéralement qui pourraient appuyer le fait qu’il était à son compte est sa participation à la convention CES. Encore là, PCS lui a remboursé certaines dépenses. PCS a également remboursé d’autres dépenses accessoires, comme le téléphone et l’automobile. Tout bien pesé, je conclus que ce facteur milite davantage en faveur de l’existence de l’emploi que de l’entreprise.
+Responsabilité en matière d’investissement et de gestion [38] La responsabilité en matière d’investissement et de gestion semble être liée au volet formation de son travail. C’est pour ce volet qu’il a embauché des adjoints pour élaborer des programmes et avoir un soutien administratif. Je n’ai entendu aucun témoignage au sujet d’un investissement réalisé par M. Monjazeb dans PCS ou d’une participation à la gestion des ventes. Il s’agissait des activités de PCS.
+[39] L’analyse atteste la conclusion de l’existence d’un emploi, même si tous les facteurs ne pointent pas fortement dans cette direction, ils sont suffisants dans l’ensemble.
+[40] J’éprouve une grande sympathie à l’égard de M. Brown. Il était pris entre l’arbre et l’écorce. Un de ses travailleurs, je crois, avait réalisé qu’il était vraiment un employé, mais qui refusait d’officialiser ce statut en raison de l’incidence importante sur le revenu gagné, soit les retenues à la source. M. Brown a simplement laissé tomber. Il aurait pu insister sur la signature d’un contrat de travail et risquer de perdre un excellent vendeur, ou poursuivre l’entente relative à la facturation en « prétendant » que M. Monjazeb était entrepreneur indépendant. Je comprends qu’il soit ennuyeux pour M. Brown que M. Monjazeb change maintenant d’avis et revendique les avantages liés à l’emploi, avec l’impact financier qui en découle pour PCS. Or, je conclus que selon la loi, M. Monjazeb était un employé. Je conclus également qu’il est responsable de ce contentieux inutile et regrettable. Si je pouvais condamner aux dépens M. Monjazeb en faveur de PCS, je le ferais. Malheureusement, nos Règles ne le permettent pas.
+[41] J’accueille l’appel et annule la décision du ministre datée du 16 novembre 2015, pour le motif que M. Monjazeb était un employé au sens de la LAE et du RPC.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2016.
+« Campbell J. Miller »
+Juge C. Miller
+RÉFÉRENCE :
+2016 CCI 196
+NOS DES DOSSIERS DE LA COUR :
+2016-488(EI) et 2016-489(CPP)
+INTITULÉ :
+SHAHROKH MONJAZEB c. LE MINISTRE DU REVENU NATIONAL ET KEN BROWN
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 30 août 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 13 septembre 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Shannon Fenrich
+Pour l’intervenant :
+L’intervenant lui-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] 2001 CSC 59.

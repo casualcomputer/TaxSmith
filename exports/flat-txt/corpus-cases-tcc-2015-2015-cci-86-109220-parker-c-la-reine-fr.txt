@@ -1,0 +1,161 @@
+Title: Parker  c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109220/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-86-109220-parker-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-04-17
+
+# Parker  c. La Reine
+
+- Citation: 2015 CCI 86
+- Decision date: 2015-04-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2839, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parker c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-17
+Référence neutre
+2015 CCI 86
+Numéro de dossier
+2014-2538(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-2538(IT)I
+ENTRE :
+CHARLOTTE M PARKER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 27 janvier 2015, à Vancouver (Colombie‑Britannique).
+Devant : l’honorable juge B. Paris
+Comparutions :
+Avocate de l’appelante :
+Me Julia Lockhart
+Avocate de l’intimée :
+Me Natasha Wallace
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 17e jour d’avril 2015.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 29e jour de mai 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2015 CCI 86
+Date : 20150417
+Dossier : 2014-2538(IT)I
+ENTRE :
+CHARLOTTE M PARKER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Madame Parker interjette appel de la décision du ministre de lui refuser le montant pour conjoint et une partie fédérale du montant pour personnes handicapées transférée de son époux, Gregory Neil Parker, pour son année d’imposition 2011. Une nouvelle cotisation a été établie à l’égard de Mme Parker après que le ministre du Revenu national (le « ministre ») a refusé la déduction pour la résidence d’un membre du clergé demandée par M. Parker dans son année d’imposition 2011, ce qui avait augmenté son revenu net de 10 000 $.
+[2] En l’espèce, la Cour doit se prononcer sur les questions de savoir si M. Parker avait droit à la déduction pour la résidence d’un membre du clergé en application de l’alinéa 8(1)c) de la Loi de l’impôt sur le revenu (la « Loi ») et, dans la négative, si les prestations d’invalidité du Régime de pensions du Canada (le « RPC ») qu’il a reçues en 2011 devaient être incluses dans son revenu.
+Dispositions légales [3] Les passages pertinents de l’alinéa 8(1)c) de la Loi sont ainsi libellés :
+8(1) Éléments déductibles — Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+c) résidence des membres du clergé — lorsque le contribuable, au cours de l’année :
+(i) d’une part, est membre du clergé ou d’un ordre religieux ou est ministre régulier d’une confession religieuse,
+(ii) d’autre part :
+(A) soit dessert un diocèse, une paroisse ou une congrégation,
+(B) soit a la charge d’un diocèse, d’une paroisse ou d’une congrégation,
+(C) soit s’occupe exclusivement et à plein temps du service administratif, du fait de sa nomination par un ordre religieux ou une confession religieuse,
+le montant, n’excédant pas sa rémunération pour l’année provenant de sa charge ou de son emploi, égal :
+[…]
+(iv) soit au loyer et aux services publics qu’il a payés pour son lieu principal de résidence […] ou à la juste valeur locative d’une telle résidence […]
+[4] Les prestations du RPC sont incluses dans le revenu en vertu de l’alinéa 56(1)a) de la Loi, dont les passages pertinents sont libellés de la manière suivante :
+56(1) Sommes à inclure dans le revenu de l’année — Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) pension, prestations d’assurance‑chômage, etc. — toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+(i) d’une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède :
+[…]
+(B) une prestation prévue par le Régime de pensions du Canada ou par un régime provincial de pensions au sens de l’article 3 de cette loi […]
+Les faits [5] M. Parker est ministre du culte à l’église McKernan Baptist Church (l’« église »), à Edmonton depuis 1994. Il est en congé d’invalidité de longue durée, et n’a exercé aucune fonction de son emploi auprès de l’église depuis septembre 2005.
+[6] Selon son contrat de travail conclu avec l’église, M. Parker a obtenu une assurance invalidité de longue durée en vertu d’une police d’assurance collective. M. Parker a payé lui‑même les primes pour la garantie en cas d’invalidité de longue durée.
+[7] En janvier 2006, M. Parker a commencé à recevoir des prestations d’invalidité de longue durée (ILD) en vertu de la police. Aux termes de la police, il devait présenter une demande de prestations d’invalidité du RPC, et toute prestation reçue devait être appliquée à une réduction proportionnelle des prestations ILD découlant de la police.
+[8] À compter du 1er mars 2007, M. Parker a commencé à recevoir des prestations d’invalidité du RPC et ses prestations ILD ont en conséquence été réduites d’un montant égal.
+[9] En 2011, M. Parker a reçu des prestations d’invalidité du RPC de 11 239 $, qu’il a incluses dans sa déclaration de revenus pour 2011. M. Parker a demandé une déduction de 10 000 $ pour la résidence d’un membre du clergé et a ensuite déclaré un revenu net de 1 239 $.
+[10] Les prestations ILD de M. Parker n’ont pas été incluses dans son revenu parce qu’il avait lui‑même versé toutes les primes d’assurance.
+[11] Dans sa déclaration de revenus pour 2011, Mme Parker a demandé un montant pour conjoint de 8 843 $, compte tenu du fait que le revenu net de M. Parker était de 1 239 $. Elle a aussi demandé un montant fédéral pour personnes handicapées de 7 341 $ transféré de M. Parker.
+[12] Le ministre a établi une nouvelle cotisation à l’égard de M. Parker dans laquelle il a refusé la déduction pour la résidence d’un membre du clergé, compte tenu du fait que M. Parker n’avait reçu aucune rémunération provenant de son emploi auprès de l’église en 2011. Le ministre a estimé que la restriction énoncée à l’alinéa 8(1)c) de la Loi, après la clause (ii)(C) – selon laquelle le montant de la déduction du contribuable « n’excédant pas sa rémunération pour l’année provenant de sa charge ou de son emploi » – a fait en sorte que M. Parker n’avait droit à aucune déduction pour la résidence d’un membre du clergé.
+[13] Par suite de l’augmentation du revenu net de M. Parker, une nouvelle cotisation a été établie à l’égard de Mme Parker, dans laquelle sa demande de déduction du montant pour conjoint a été refusée et le montant fédéral pour personnes handicapées transféré de son époux a été réduit à 6 185 $, après soustraction d’un montant de 1 156 $.
+[14] À l’audience du présent appel, l’intimée a soulevé un argument supplémentaire pour justifier le refus de la déduction pour la résidence d’un membre du clergé. L’intimée soutient que M. Parker n’a satisfait à aucun des critères de « fonction ou d’objet » énoncés au sous‑alinéa 8(1)c)(ii) de la Loi et, en particulier, le fait qu’à aucun moment en 2011, M. Parker n’avait eu la charge d’un diocèse, d’une paroisse ou d’une congrégation.
+Thèse de l’appelante
+[15] L’appelante soutient d’abord que les prestations d’invalidité du RPC de M. Parker constituaient une rémunération provenant de l’emploi qu’il occupait auprès de l’église en 2011.
+[16] L’appelante avance ensuite que M. Parker satisfait à la condition énoncée au sous‑alinéa 8(1)c)(ii) de la Loi, à savoir qu’il « a la charge d’une congrégation », selon l’interprétation qu’il convient de donner à l’expression « avoir la charge ». Subsidiairement, l’appelante soutient que cette condition contrevient à l’article 15 de la Charte canadienne des droits et libertés et que l’alinéa 8(1)c) de la Loi devrait recevoir une interprétation atténuée afin de permettre à un membre du clergé handicapé d’avoir droit à la déduction pour la résidence des membres du clergé.
+[17] Subsidiairement encore, si la Cour devait conclure que les prestations d’invalidité du RPC ne constituent pas une rémunération provenant de l’emploi et que M. Parker n’a pas droit à la déduction pour la résidence des membres du clergé, l’appelante soutient que M. Parker n’est pas tenu d’inclure les prestations d’invalidité du RPC dans son revenu pour 2011 parce que le principe de la substitution s’applique et exige que les montants en question soient qualifiés de montants non imposables, étant donné qu’ils ont remplacé les prestations ILD qui n’étaient pas imposables entre ses mains.
+Analyse
+[18] Je me pencherai d’abord sur la position de l’appelante selon laquelle les prestations d’invalidité du RPC de M. Parker équivalaient à une rémunération provenant de l’emploi qu’il exerçait auprès de l’église en 2011.
+[19] L’appelante invoque la décision Shaw c. La Reine, 2010 CCI 210, de la Cour, à l’appui de la thèse selon laquelle le terme « rémunération » mentionné à l’alinéa 8(1)c) de la Loi doit recevoir une interprétation large.
+[20] Dans la décision Shaw, la contribuable avait demandé la déduction pour la résidence des membres du clergé alors qu’elle était en congé de maladie prolongé de son emploi d’aumônière. Pendant qu’elle était en congé, la contribuable avait reçu des prestations en vertu du régime d’assurance‑salaire de son employeur. La Cour était appelée à rechercher si le revenu tiré du régime s’assurance‑salaire constituait une rémunération provenant de l’emploi d’aumônière de la contribuable.
+[21] La juge Woods a conclu que « [v]u la vaste portée de cette définition », le terme « rémunération », « pourrait englober les avantages fournis par l’employeur, y compris le revenu provenant d’un régime d’assurance‑salaire » et que « [c]ompte tenu de l’objet de l’alinéa 8(1)c) de la Loi, il est raisonnable de donner une interprétation assez large à ce terme ». Elle a ensuite conclu qu’il y avait un lien entre les prestations provenant d’un régime d’assurance‑salaire et l’emploi de la contribuable parce qu’elles étaient versées au titre d’un contrat de travail de la contribuable.
+[22] En l’espèce, l’appelante soutient qu’il existe un lien suffisant entre l’emploi de son époux et les paiements du RPC pour me permettre de conclure que ces paiements constituaient une rémunération provenant d’un emploi. L’appelante affirme que les cotisations au RPC ont été payées au moyen du salaire de M. Parker pour des services fournis à l’église et que, par conséquent, ces services [traduction] « étaient essentiels à son admissibilité aux prestations d’invalidité du RPC ».
+[23] L’appelante soutient également qu’étant donné que les prestations du RPC ont remplacé une partie des prestations d’ILD de M. Parker, qui constituent, selon la décision Shaw, une rémunération provenant de son emploi auprès de l’église, les prestations du RPC constituent aussi une rémunération provenant de cet emploi.
+[24] Je ne puis souscrire aux arguments de l’appelante.
+[25] J’estime qu’il n’y a pas de lien suffisant entre l’emploi de M. Parker et le paiement des prestations d’invalidité du RPC qu’il a reçues pour qualifier ces prestations de rémunération provenant de son emploi auprès de l’église. Il y a lieu d’établir une distinction entre les faits de l’espèce et les faits dont la Cour était saisie dans l’affaire Shaw, où il a été conclu que les prestations d’assurance‑salaire (au paragraphe 20) avaient été versées au titre d’un contrat de travail de la contribuable.
+[26] En l’espèce, les prestations du RPC n’ont pas été versées par l’église au titre du contrat de travail de M. Parker. Le droit à des prestations du RPC n’est pas accordé par un employeur à un employé en contrepartie de services fournis par ce dernier, il est accordé en vertu d’un régime prévu par la loi. Le versement des cotisations au RPC en partie au moyen du revenu d’emploi de M. Parker et en partie pas son employeur, l’église, ne fait pas en sorte que les paiements d’invalidité du RPC constituent une prestation accordée par l’église.
+[27] En outre, contrairement encore une fois aux prestations d’assurance‑salaire reçues par la contribuable dans la décision Shaw, les prestations d’ILD reçues par M. Parker n’étaient pas des prestations accordées par son employeur parce que toutes les primes d’assurance ILD avaient été payées par M. Parker. Pour cette raison, elles ne devaient pas être incluses dans le revenu provenant de son emploi. Le fait que les prestations du RPC aient réduit le montant des prestations ILD de M. Parker n’indique pas, par conséquent, l’existence d’un lien entre les prestations d’invalidité du RPC et l’emploi de M. Parker auprès de l’église.
+[28] Par conséquent, je conclus que les prestations d’invalidité du RPC que M. Parker a reçues en 2011 ne constituaient pas une rémunération provenant de son emploi auprès de l’église au sens de l’alinéa 8(1)c) de la Loi.
+[29] Au vu de ma conclusion sur cette question et, étant donné que le montant de la déduction pour la résidence des membres du clergé est limité à la rémunération reçue par le contribuable dans l’année provenant de la charge ou de l’emploi, il n’est pas nécessaire que j’examine le reste des arguments présentés par les parties en ce qui concerne l’alinéa 8(1)c) de la Loi.
+[30] L’appelante soutient à titre subsidiaire que M. Parker n’était pas tenu d’inclure ses prestations d’invalidité du RPC dans son revenu par application du principe de la substitution. L’avocate de l’appelante affirme que les prestations du RPC ont remplacé les prestations ILD non imposables de M. Parker et doivent par conséquent bénéficier du même traitement fiscal que les prestations ILD.
+[31] Le principe de la substitution est utilisé pour déterminer si une somme accordée à titre d’indemnité ou en règlement d’un litige, qui est intrinsèquement neutre sur le plan fiscal, est imposable ou non. Selon ce principe, les conséquences fiscales du versement d’une somme à titre d’indemnité ou en règlement d’un litige dépendent de ce que la somme vise à remplacer : arrêt Tsiaprailis c. Canada, 2005 CSC 8, aux paragraphes 6 et 7, citant l’arrêt London & Thames Haven Oil Wharves Ltd. v. Attwooll (H.M. Inspector of Taxes), [1967] 2 All E.R. 124 (C.A.).
+[32] À mon avis, l’argument de l’appelante fondé sur le principe de la substitution doit être rejeté parce qu’il repose sur l’hypothèse selon laquelle les prestations du RPC reçues par M. Parker étaient des sommes neutres sur le plan fiscal de la nature d’un produit d’assurance. Je conclus qu’en l’espèce, les versements du RPC n’étaient pas neutres sur le plan fiscal ni ne s’apparentaient à un produit d’assurance.
+[33] L’alinéa 56(1)a) de la Loi porte expressément que les prestations d’invalidité du RPC sont incluses dans le revenu à titre d’[traduction] « autres revenus » et, par conséquent, elles ne sauraient être considérées comme neutres sur le plan fiscal.
+[34] En outre, pour les motifs exposés par le juge en chef Bowman (tel était alors son titre) dans la décision Watts c. La Reine, 2004 CCI 535, je conclus que le Régime de pensions du Canada n’est pas un régime d’assurance. Le juge en chef Bowman a formulé les observations suivantes aux paragraphes 17 et 18 de cette décision :
+[…] il est vrai que, lorsque le bénéficiaire de prestations du RCP est un employé, ce dernier et son employeur doivent payer des cotisations. Toutefois, je n’aurais pas cru que l’on puisse considérer le régime de sécurité sociale, dont le RPC fait intégralement partie au Canada, comme un régime d’assurance. Le terme « assurance » a été défini de différentes façons, mais je ne connais aucune définition qui engloberait un régime de pension géré par le gouvernement. […]
+Une assurance se définit essentiellement comme une entente contractuelle conclue entre un assuré et un assureur qui comprend l’obligation pour ce dernier de payer, moyennant le paiement de primes, une prestation en cas de la réalisation d’un événement dont l’éventualité est incertaine. Le régime prévu par la loi, administré par le RPC, ne contient aucun de ces éléments. Les paiements effectués en vertu de ce régime ne constituent donc pas un revenu afférent à une charge ou à un emploi comme l’indique l’alinéa 6(1)f) de la Loi de l’impôt sur le revenu. Au contraire, ces paiements sont imposables en tant que revenu par l’application de l’alinéa 56(1)a).
+[35] Enfin, même si le principe de la substitution avait été appliqué à l’égard des prestations du RPC de M. Parker, j’aurais conclu que celles‑ci ne visaient pas à remplacer des prestations ILD non imposables et que, par conséquent, elles n’auraient pas non plus été non imposables. Les prestations du RPC visent plutôt à remplacer la perte de revenus découlant de l’incapacité du bénéficiaire à travailler pour cause d’invalidité.
+[36] Par conséquent, je conclus que c’est à juste titre que les prestations d’invalidité du RPC de M. Parker ont été incluses dans son revenu pour son année d’imposition 2011.
+Conclusion
+[37] Pour les motifs exposés ci‑dessus, l’appel est rejeté.
+Signé à Vancouver (Colombie‑Britannique), ce 17e jour d’avril 2015.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 29e jour de mai 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2015 CCI 86
+No DU DOSSIER DE LA COUR :
+2014-2538(IT)I
+INTITULÉ :
+CHARLOTTE PARKER c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 27 janvier 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 17 avril 2015
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Julia Lockhart
+Avocate de l’intimée :
+Me Natasha Wallace
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Julia Lockhart
+Cabinet :
+McCarthy Tétrault S.E.N.R.L., s.r.l.
+Vancouver (Colombie‑Britannique)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

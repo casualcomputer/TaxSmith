@@ -1,0 +1,182 @@
+Title: Denis c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27960/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-304-27960-denis-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-05-02
+
+# Denis c. M.R.N.
+
+- Citation: 2003 CCI 304
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1808, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Denis c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-02
+Référence neutre
+2003 CCI 304
+Numéro de dossier
+2002-1180(EI), 2002-1341(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2002-1180(EI)
+2002-1341(EI)
+ENTRE :
+FRANCINE DENIS
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus le 11 mars 2003 à Québec (Québec),
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le Ministre sont confirmées selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de mai 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Référence : 2003CCI304
+Date : 20030502
+Dossiers : 2002-1180(EI)
+2002-1341(EI)
+ENTRE :
+FRANCINE DENIS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Ces appels ont été entendus sur preuve commune le 11 mars 2003 à Québec (Québec).
+[2] L'appelante interjette appel des décisions du ministre du Renenu national (le « Ministre »), selon lesquelles l'emploi exercé au cours des périodes en litige, soit du 22 février au 17 septembre 1999, du 22 mai au 22 septembre 2000 et du 25 juin au 28 septembre 2001 auprès de Gérard Lapointe, lequel s'est constitué en société en 1999 sous le nom de Gérard F. Lapointe Inc., le payeur, n'était pas assurable au motif qu'il existait un lien de dépendance entre elle et le payeur.
+[3] Le paragraphe 5(1) de la Loi sur l'assurance-emploi (la « Loi ») se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[4] Les paragraphes 5(2) et (3) de la Loi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[...]
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[5] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Article 251 : Lien de dépendance.
+(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de lien « personnes liées ».
+Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d'un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous‑alinéa (i) ou (ii);
+[...]
+[6] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir, selon la prépondérance de la preuve, que les décisions du Ministre sont mal fondées en fait et en droit. Chaque cas est un cas d'espèce.
+[7] En rendant ses décisions, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel dans le dossier 2002-1180(EI), lesquelles ont été admises ou niées:
+a) Le payeur, conjoint de fait de l'appelante, exploitait une entreprise offrant des services de plâtrerie et de peinture en bâtiment. (admis)
+b) Durant la période en litige, le payeur était l'unique propriétaire de l'entreprise; il s'est constitué en société en septembre 1999 sous le nom de « Gérard F. Lapointe Inc. ». (admis)
+c) Le payeur n'embauchait généralement que 2 personnes, incluant l'appelante et son frère (S. Denis). Occassionnellement, le payeur embauchait des employés supplémentaires sur de courtes périodes. (admis)
+d) L'appelante offre ses services au payeur depuis 14 ans. (admis)
+(e) L'appelante était propriétaire de l'immeuble où se situaient le bureau et l'entrepôt de l'entreprise du payeur; elle ne recevait aucune compensation du payeur pour l'utilisation de ces locaux. (nié)
+f) Les principales tâches de l'appelante consistaient à :
+· Répondre au téléphone.
+· Facturer les clients.
+· Préparer les payes.
+· S'occuper des comptes à recevoir, des comptes à payer et des comptes fournisseurs.
+· Faire les dépôts bancaires.
+· Faire les commissions requises. (admis)
+g) Le payeur embauchait un comptable de l'extérieur, payé à 100 $ par mois, pour revoir le travail de l'appelante, inscrire les données compilées manuellement par l'appelante à l'ordinateur, calculer les D.A.S. et préparer les divers rapports gouvernementaux. (admis)
+h) L'appelante n'avait aucun horaire de travail à respecter et ses heures n'étaient pas comptabilisées par le payeur. (nié)
+i) Durant la période en litige, l'appelante était prétendument rémunérée en argent liquide alors que les autres employés étaient payés par chèque. (nié)
+j) Durant la période en litige, il n'existe aucune preuve de la rémunération prétendument versée à l'appelante. (nié)
+k) L'appelante recevait une prétendue rémunération fixe de 450 $ par semaine et ce, sans égard aux heures réellement travaillées. (nié)
+l) Selon le journal des salaires du payeur de 1999, l'appelante aurait prétendument travaillé durant les semaines du 21 au 27 février, du 2 au 7 mai, du 23 au 29 mai et, par la suite de façon continue du 14 juin au 17 septembre alors qu'elle a rendu des services au payeur durant des semaines pendant lesquelles elle n'était pas inscrite au journal des salaires. (nié)
+m) La période prétendue d'emploi de l'appelante ne coïncide pas avec la période d'activités de l'entreprise. (nié)
+[8] Les présomptions de faits énoncées au paragraphe 5 de la Réponse à l'avis d'appel dans le dossier 2002-1341(EI) sont sensiblement les mêmes que celles énumérées ci-dessus.
+[9] L'appelante était la conjointe de fait de Gérard Lapointe, le payeur, alors qu'il exploitait une entreprise offrant des services de plâtrerie et de peinture de bâtiments. En septembre 1999, le payeur a formé une compagnie, dont il était l'unique actionnaire, sous le nom de Gérard F. Lapointe Inc.
+[10] Selon le journal des salaires du payeur (pièce A-4), l'appelante aurait travaillé en 1999 durant les semaines du 21 février au 27 février, du 2 au 7 mai, du 23 au 29 mai et du 14 juin au 17 septembre 1999. Selon les relevés d'emploi déposés en preuve, l'appelante aurait travaillé pour le payeur du 22 février au 17 septembre 1999 (pièce A-1), du 22 mai au 22 septembre 2000 (pièce A-2) et du 25 juin au 28 septembre 2001 (pièce A-3).
+[11] L'appelante offrait ses services au payeur depuis 14 ans. Ses principales tâches consistaient à répondre au téléphone, facturer les clients, préparer les paies, s'occuper des comptes à payer et des comptes des fournisseurs, faire les dépôts bancaires et faire les courses. De plus, selon le payeur, l'appelante faisait le ménage du bureau.
+[12] Le payeur a embauché un comptable à raison de 100 $ par mois pour revoir le travail de l'appelante, inscrire les données compilées manuellement par l'appelante dans l'ordinateur, calculer les déductions à la source et préparer les divers rapports gouvernementaux.
+[13] L'appelante était la propriétaire de l'immeuble dans lequel étaient situés le bureau et l'entrepôt de l'entreprise du payeur. Gérard Lapointe a confirmé qu'il ne payait pas de loyer à l'appelante mais qu'en guise de compensation il s'occupait des dépenses de chauffage, d'électricité et d'entretien.
+[14] Selon le payeur, l'appelante travaillait de 42 à 43 heures par semaine; si elle travaillait moins d'heures une semaine, elle les reprenait la semaine suivante.
+[15] Le bureau qu'occupait l'appelante était équipé d'un ordinateur, d'un téléphone, d'une calculatrice et d'un classeur, tous la propriété du payeur. L'ameublement du bureau, par contre, était la propriété de l'appelante.
+[16] Gérard Lapointe a déclaré qu'il payait l'appelante en argent comptant s'il ne pouvait pas se servir de sa marge de crédit et qu'il faisait de même pour les autres employés. Il a ajouté qu'il avançait de l'argent à l'appelante pendant et hors les périodes en litige et qu'il déduisait ces avances de son salaire et qu'elle a toujours été rémunérée pour son travail pour le payeur.
+[17] L'appelante se servait, à l'occasion, de son véhicule personnel pour faire des courses mais, selon le payeur, c'est lui qui payait l'essence.
+[18] En contre-interrogatoire, Gérard Lapointe a déclaré que l'appelante faisait le ménage du bureau : elle passait la balayeuse une fois par jour. Il affirme que l'ameublement du bureau appartenait à l'appelante ainsi que la machine à écrire, l'étagère et le pupitre mais que l'ordinateur était le sien.
+[19] Le payeur a déclaré qu'il ne savait pas si l'appelante avait fait du travail pour lui hors les périodes en litige. Il a ajouté qu'elle avait fait des courses au besoin mais ne pouvait en donner les détails.
+[20] Au registre des déboursés, déposé sous la cote I-1, il y est indiqué que le payeur a payé un « loyer bureau », le 1er novembre 1999 au montant de 500,00 $, le 25 novembre 1999 au montant de 200,00 $ et le 6 mars 2000 au montant de 400,00 $. D'après ce registre préparé par l'appelante, le loyer n'était pas payé sur une base régulière ou pour des montants égaux.
+[21] Gérard Lapointe a reconnu que l'écriture apparaissant sur plusieurs factures et soumissions déposées sous les cotes I-2 et I-3 était bien celle de l'appelante. Il est à noter que plusieurs de ces factures ont été préparées par l'appelante hors les périodes en litige. Il a reconnu également que l'appelante avait préparé le registre de déboursés (pièce I-1), et que plusieurs des entrées avaient été faites hors lesdites périodes.
+[22] Lyne Courcy, agente des appels auprès de l'Agence des douanes et du revenu du Canada, a communiqué par téléphone avec l'appelante le 23 janvier 2002 et suite à cet entretien téléphonique a complété deux rapports, un pour la période de 1999 et l'autre pour les périodes de 2000 et 2001. Dans son rapport pour les périodes de 2000 et 2001, l'agente des appels relate des renseignements additionnels tirés d'une des deux déclarations statutaires, soit celle du 30 octobre 2001, de l'appelante à France L. Beaulieu, agent du Développement des ressources humaines Canada (pièce I‑9). Lors de son témoignage, l'appelante a reconnu que les faits rapportés dans ces rapports représentaient la réalité.
+[23] Dans ses déclarations statutaires l'appelante a déclaré que l'entreprise engageait en moyenne deux employés, dont elle-même et le frère de Gérard Lapointe mais qu'occasionnellement, selon les besoins, d'autres employés étaient embauchés.
+[24] Elle a expliqué que ses tâches consistaient à répondre au téléphone, faire la facturation, payer les comptes des fournisseurs, faire les dépôts bancaires, faire les chèques et transcrire les soumissions au propre.
+[25] Selon ses déclarations elle oeuvrait 40 heures par semaine et n'inscrivait pas le nombre d'heures travaillées car elle était payée un salaire fixe de 450,00 $ par semaine. Elle a ajouté qu'il était possible qu'elle ait travaillé moins de 40 heures certaines semaines mais qu'elle remettait le temps la semaine suivante et qu'elle était payée par chèque ou en argent comptant.
+[26] Elle a admis qu'il était possible qu'elle ait travaillé pour le payeur hors les périodes en litige. Dans sa déclaration du 30 octobre 2001, elle a admis que les chèques de paie ne concordaient pas avec le livre des salaires en expliquant que le payeur lui avait prêté de l'argent en février ou en mars 2001 et que selon l'entente ce prêt devait être déduit de ses paies à l'été 2001. Par contre, l'appelante a déclaré qu'elle ne connaissait pas le montant exact du prêt.
+[27] En contre-interrogatoire, l'appelante a admis qu'elle avait préparé le registre des déboursés (pièce I-1), les factures (pièce I-2), la facturation des clients (pièce I-4), les relevés de taxes payées aux fournisseurs (pièce I-5) et les bordereaux de dépôts (pièce I-7). Un nombre impressionnant de documents a été préparé par l'appelante hors les périodes en litige.
+[28] Seuls quatre chèques de paie (pièce I-8) aux montants de 225 $, 300 $, 340 $ et 715,12 $ ont été déposés en preuve et à ce sujet l'appelante a expliqué que les autres paies lui avaient été remises en argent comptant.
+[29] Selon les rapports de l'agente des appels (pièce I-9), l'appelante a travaillé hors les périodes en litige sans être rémunérée. L'appelante a préparé un nombre impressionnant de documents pour les fins de l'entreprise pendant qu'elle n'était pas inscrite au livre des salaires.
+[30] Dans la cause Procureur général du Canada c. Jencan Ltd., [1998] 1 C.F. 187, le juge en chef Isaac de la cour d'appel fédérale s'est exprimé en ces termes :
+...Et, comme je l'ai déjà dit, l'obligation d'exercer un pouvoir discrétionnaire de façon judiciaire implique l'existence de motifs d'intervention spécifiques. La Cour de l'impôt est justifiée de modifier la décision rendue par le ministre en vertu du sous‑alinéa 3(2)c)(ii) - en examinant le bien-fondé de cette dernière - lorsqu'il est établi, selon le cas, que le ministre : (i) a agi de mauvaise foi ou dans un but ou un mobile illicites; (ii) n'a pas tenu compte de toutes les circonstances pertinentes, comme l'exige expressément le sous-alinéa 3(2)c)(ii); (iii) a tenu compte d'un facteur non pertinent.
+[31] Dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878, le juge Marceau de la Cour d'appel fédérale s'est exprimé ainsi :
+...La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[32] D'après les principes établis par la jurisprudence précitée, cette Cour doit se demander si les décisions du Ministre résultent d'un exercice approprié de son pouvoir discrétionnaire. La Cour doit exiger, dans un premier temps, que l'appelante fasse la preuve d'un comportement capricieux ou arbitraire du Ministre.
+[33] Aucune preuve n'a été présentée démontrant que l'appelante avait reçu un salaire, à l'exception de quelques chèques émis durant les périodes en litige. L'appelante a expliqué que sa rémunération lui était payée en argent comptant ou par chèque et que le payeur lui avait fait un prêt lequel était déduit de son salaire. L'appelante n'a pu dire à la Cour à combien s'élevait le montant de ce prêt et aucune mention n'en est faite au livre des déboursés. L'appelante n'est pas crédible sur ce point.
+[34] Tel qu'en fait foi la preuve documentaire, l'appelante complétait manuellement, à l'année longue, la tenue de livres; elle a donc travaillé bénévolement pour le payeur hors les périodes en litige. L'appelante a également fait des courses pour le payeur, hors les périodes en litige, sans être rémunérée.
+[35] Le payeur utilisait la propriété de l'appelante pendant les périodes en litige sans payer régulièrement de loyer pour l'espace occupé pour les fins de l'entreprise. L'explication donnée par Gérard Lapointe à ce sujet est qu'il payait les factures de chauffage et d'électricité ainsi que les frais d'entretien de la propriété mais il n'a produit aucun document comptable à cet effet.
+[36] Contrairement aux autres employés, l'appelante recevait des avances de salaire. D'ailleurs il n'existe aucun registre des sommes avancées ni des sommes déduites de ses paies.
+[37] Les conditions de travail n'auraient pas été semblables si l'appelante et le payeur n'avaient pas eu entre eux de lien de dépendance.
+[38] Compte tenu des circonstances, la Cour est convaincue que l'appelante n'a pas réussi à établir, selon la prépondérance de la preuve, que le Ministre a agi d'une façon capricieuse ou arbitraire.
+[39] L'emploi de l'appelante est exclu des emplois assurable au sens de l'alinéa 5(2)i) et le paragraphe 5(3) de la Loi.
+[40] En conséquence, les appels sont rejetés et les décisions du Ministre sont confirmées.
+Signé à Ottawa, Canada, ce 2e jour de mai 2003.
+« J.F. Somers »
+J.S.C.C.I.
+RÉFÉRENCE :
+2003CCI304
+No DU DOSSIER DE LA COUR :
+2002-1180(EI) et 2002-1341(EI)
+INTITULÉ DE LA CAUSE :
+Francine Denis et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 11 mars 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+le 2 mai 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me Jérôme Carrier
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Jérôme Carrier
+Étude :
+Rochon, Belzile, Carrier, Auger
+Québec (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

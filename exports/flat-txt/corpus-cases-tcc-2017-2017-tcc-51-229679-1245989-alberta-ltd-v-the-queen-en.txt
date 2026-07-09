@@ -1,0 +1,487 @@
+Title: 1245989 Alberta Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/229679/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-51-229679-1245989-alberta-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-03-31
+
+# 1245989 Alberta Ltd. v. The Queen
+
+- Citation: 2017 TCC 51
+- Decision date: 2017-03-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2293, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1245989 Alberta Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-03-31
+Neutral citation
+2017 TCC 51
+File numbers
+2013-3907(IT)G, 2013-3912(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-3907(IT)G
+BETWEEN:
+1245989 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal
+of Perry Wild ‑ 2013-3912(IT)G
+on January 27, 2016, at Winnipeg, Manitoba
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Jeff D. Pniowsky
+Counsel for the Respondent:
+Margaret McCabe and Justine Malone
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the determination made under the Income Tax Act for the 2008 taxation year is dismissed. One set of costs is awarded to the respondent.
+Signed at Ottawa, Canada, this 31st day of March 2017.
+“K. Lyons”
+Lyons J.
+Docket: 2013-3912(IT)G
+BETWEEN:
+PERRY WILD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal
+of 1245989 Alberta Ltd. – 2013-3907(IT)G
+on January 27, 2016, at Winnipeg, Manitoba
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Jeff D. Pniowsky
+Counsel for the Respondent:
+Margaret McCabe and Justine Malone
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the determination made under the Income Tax Act for the 2007 taxation year is dismissed. One set of costs is awarded to the respondent.
+Signed at Ottawa, Canada, this 31st day of March 2017.
+“K. Lyons”
+Lyons J.
+Citation: 2017 TCC 51
+Date: 20170331
+Docket: 2013-3907(IT)G
+BETWEEN:
+1245989 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-3912(IT)G
+AND BETWEEN:
+PERRY WILD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+I. Introduction [1] The Minister of National Revenue made determinations regarding the 2007 taxation year of Perry Wild and the 2008 taxation year of 1245989 Alberta Ltd. (“1245”). The Minister applied the General Anti-Avoidance Rule (the “GAAR”) in section 245 of the Income Tax Act (the “Act”)[1] to deny the increase in the paid-up-capital (“PUC”) from $110 to $595,264 (“tax benefit”) of Mr. Wild’s 2,337.5 Class E preferred shares of 1245 (“The Shares”) arising from transactions described below. The appeals were heard on common evidence.
+[2] Mr. Wild, P.W. Rentals Ltd. (“PWR”), Shilo Wild, Mr. Wild’s spouse, 1251237 Alberta Ltd. (“1251”) and 1245 are non-arm’s length parties. To protect PWR’s assets, the Wilds implemented a corporate reorganization. Amidst that series of transactions, the appellants engaged in avoidance transactions which resulted in the tax benefit. The avoidance transactions included transfers of Mr. Wild’s PWR Class A common shares (“PWR shares”) and subsequently transfers of PWR assets to the numbered companies in exchange for Mr. Wild and then PWR each receiving preferred shares of both 1251 (“Class C”) and 1245 (“Class E”) (collectively, Class C and Class E are the “Same Class”). He used his capital gains exemption against the capital gains from the disposition of his shares. The companies used corporate deductions against deemed dividends.
+[3] The respondent contends that the overall result of the appellants’ transactions was to circumvent the effects of the application of section 84.1 of the Act in a manner that frustrate or defeat its object, spirit and purpose by misusing subsection 89(1) in computing PUC resulting in share averaging on the issuance of the Same Class of shares to himself and then to PWR (“relevant provisions”). Alternatively, the transactions achieved an outcome that the relevant provisions were meant to prevent and/or defeat their underlying rationale. Consequently, the avoidance transactions resulted directly or indirectly in a misuse and abuse of the relevant provisions within the meaning of subsection 245(4) of the Act.
+[4] The appellants assert the central purpose of the reorganization was a non‑tax asset protection of PWR’s assets enabling PWR to transfer its assets to the two numbered companies and the assets would be leased back to PWR. The appellants concede the existence of the “tax benefit” and the “avoidance transactions” within the meaning of subsections 245(1) and 245(3), respectively, but deny there was abusive tax avoidance within the meaning of subsection 245(4) of the Act. They contend the relevant provisions were applied and operated to their intended effect. Subsection 89(1) involves basic math and section 84.1 was not circumvented.
+II. Issue [5] The appeal turns on whether the avoidance transactions misused and abused, within the meaning of subsection 245(4) of the Act, the relevant provisions so as to permit the Minister to apply the GAAR to deny the tax benefit by reducing the PUC to $110 of The Shares Mr. Wild held in 1245.
+III. Facts [6] The parties filed a Statement of Agreed Facts (“SoAF”), Exhibit A-1. It reads:
+STATEMENT OF AGREED FACTS
+The parties, through their respective solicitors, agree, for the purpose of this appeal only, and any appeal therefrom, that the following facts are true and that the documents contained in the joint book of documents are accurate copies of authentic documents. The parties are free to make submissions with respect to, and are not to be taken as agreeing to, the degree of relevance or weight to be attributed to these facts and documents.
+The parties are free to seek to introduce additional facts in evidence at trial, however, such facts may not be inconsistent with the facts herein, unless the parties agree.
+This agreement shall not bind the parties in any other action.
+1. P.W. Rentals Ltd. (“PWR”) is an Alberta corporation.
+2. PWR is an oil field rental company that supplies portable accommodations, commonly referred to as well site trailers, to the oil field sector.
+3. On March 1, 2003, Perry Wild and Shilo Wild each purchased 100 common shares of PWR from treasury.
+4. At all material times, Shilo Wild was Perry Wild’s spouse.
+5. On March 2, 2003, PWR redeemed the 100 common shares held by Shilo Wild with the result that at all material times Perry Wild was the sole shareholder of PWR.
+6. As of January 1, 2004 Perry Wild owned 110 Class A common shares of PWR with a fair market value (“FMV”) of $2,337,500, an ACB of $110 and a paid-up capital (“PUC”) of $110.
+7. In an effort to protect the assets of PWR, Perry and Shilo Wild implemented the corporate reorganization described below.
+8. 1245989 Alberta Ltd. (“1245”) was incorporated in Alberta on May 30, 2006 and on that date Perry Wild purchased 100 Class A common shares of 1245 for $100.
+9. 1251237 Alberta Ltd. (“1251”) was incorporated in Alberta on June 22, 2006 and on that date Shilo Wild purchased 100 Class A common shares of 1251 for $100.
+1st transfers: from Perry Wild and PWR to 1251
+10. On June 1, 2007, Wild transferred 16.4 Class A common shares of PWR to 1251 for 348.5 Class C preferred shares of 1251, pursuant to s. 85 of the Act, as follows:
+a. the FMV of the 16.4 Class A common shares of PWR transferred by Perry Wild was $348,500 and their ACB and PUC was $16.40;
+b. the redemption amount of the 348.5 Class C preferred shares of 1251 was $1,000 per share or $348,500;
+c. Perry Wild and 1251 elected for Perry Wild’s proceeds of disposition (“POD”) of the 16.4 Class A common shares of PWR, his ACB of the Class C preferred shares of 1251 and 1251’s ACB in respect of the 16.4 Class A common shares of PWR to be $129,000;
+d. Perry Wild reported a capital gain of $128,984 on the transfer of the 16.4 Class A common shares of PWR and claimed the capital gains exemption in the same amount pursuant to s. 110.6 of the Act with the result that no tax was payable on the gain, and
+e. the PUC of the 348.5 Class C preferred shares of 1251 that Perry Wild received in consideration for the 16.4 common shares of PWR was reduced to $16.40 (the PUC of the transferred PWR shares) by operation of s. 84.1 of the Act.
+11. On June 2, 2007, PWR transferred Class 8 equipment to 1251 for 348.5 Class C preferred shares of 1251 pursuant to s. 85 of the Act, as follows:
+a. the FMV of the Class 8 equipment transferred by PWR was $348,500 and its undepreciated capital cost was $256,279;
+b. the redemption amount of the 348.5 Class C preferred shares of 1251 was $1,000 per share or $348,500;
+c. PWR and 1251 elected for PWR’s POD and 1251’s ACB in respect of the Class 8 equipment transferred to be $256,279; and
+d. the ACB and the PUC of the 348.5 Class C preferred shares of 1251 received by PWR were both $256,279, the elected amount, by operation of sections 85(1) and 85(2.1) of the Act.
+12. Because Perry Wild had caused 1251 to issue Class C preferred shares to him on the rollover of the 16.4 common shares of PWR and then to issue the same class of shares to PWR on the rollover of the Class 8 equipment, the PUC of Perry Wild’s 348.5 Class C preferred shares of 1251 was increased to $128,148 and PUC of the 348.5 Class C preferred shares of 1251 received by PWR was reduced to a like amount as a result of subsection 89(1).
+1st corporate offsetting transactions
+13. On June 3, 2007, 1251 redeemed the 348.5 Class C preferred shares owned by PWR and issued a promissory note of $348,500 in favour of PWR.
+14. On June 4, 2007, PWR purchased/redeemed the 16.4 Class A common shares of PWR owned by 1251 and issued a promissory note of $348,500 in favour of 1251.
+15. On June 5, 2007, PWR and 1251 offset their respective $348,500 promissory notes against each other.
+2nd transfers: from Perry Wild and PWR to 1245
+16. On June 6, 2007, Perry Wild transferred the remaining 93.6 Class A common shares he held in PWR to 1245 for 1,989 Class E preferred shares of 1245 pursuant to s. 85 of the Act, as follows:
+a. the FMV of the 93.6 Class A common shares of PWR transferred by Perry Wild was $1,989,000 and their ACB and PUC were $93.60;
+b. the redemption amount of the 1,989 Class E preferred shares of 1245 issued to Perry Wild was $1,000 per share or $1,989,000;
+c. Perry Wild and 1245 elected for his POD of his shares of PWR, the ACB of the Class E preferred shares of 1245 he received and 1245’s ACB in respect of the 93.6 Class A common shares of PWR to be $621,000;
+d. Perry Wild reported a capital gain of $620,906 on the transfer of the 93.6 Class A common shares of PWR and claimed the capital gains exemption pursuant to s. 110.6 of the Act with the result that no tax was payable on the gain, and
+e. the PUC of the 1,989 Class E preferred shares of 1245 that Perry Wild received on the transfer was reduced to $93.6 (the PUC of the transferred PWR shares) by operation of s. 84.1 of the Act.
+17. On June 7, 2007 PWR transferred land and depreciable property to 1245 for the assumption of $613,738 of PWR debt and 1,826.242 Class E preferred shares of 1245 pursuant to s. 85 of the Act, as follows:
+a. the FMV of the land and depreciable property transferred by PWR was $2,439,980 and its cumulative undepreciated capital cost was $1,509,652;
+b. the redemption amount of the 1,826.242 Class E preferred shares of 1245 was $1,000 per share or $1,826,242;
+c. PWR and 1245 elected that PWR’s POD and 1245’s ACB in respect of the land and depreciable property was $1,509,652; and
+d. the ACB and PUC of the 1,826.242 Class E preferred shares of 1245 that PWR received in consideration for the land and depreciable property of PWR became $895,914 by operation of sections 85(1) and 85(2.1) of the Act.
+18. Because Perry Wild caused 1245 to issue Class E preferred shares to himself and to PWR, the PUC of Perry Wild’s 1,989 Class E preferred shares of 1245 was increased to $467,115.62 and the PUC of the 1,826.242 Class E preferred shares of 1245 received by PWR was reduced to a like amount as a result of subsection 89(1).
+2nd corporate offsetting transactions
+19. On June 8, 2007, 1245 redeemed the 1,826.242 Class E preferred shares owned by PWR and issued a promissory note of $1,826,242 in favour of PWR.
+20. On June 9, 2007, PWR purchased/redeemed 86 of the 93.6 Class A common shares of PWR owned by 1245 and issued a promissory note of $1,827,500 in favour of 1245.
+21. On June 10, 2007, PWR and 1245 offset their respective promissory notes against each other; an outstanding balance of $1,258 remained payable to 1245 by PWR;
+22. On June 11, 2007, Perry Wild transferred the 348.5 Class C preferred shares of 1251 he obtained, as set out in subparagraph 10 above, to 1245 for 348.5 Class E preferred shares of 1245, pursuant to s. 85 of the Act, as follows:
+a. the FMV of the 348.5 Class C preferred shares transferred by Perry Wild was $348,500, their ACB was $129,000 and their PUC was $128,148;
+b. the redemption amount of the Class E preferred shares of 1245 that Perry Wild received was $1,000 per share;
+c. Perry Wild and 1245 elected for Wild’s POD and 1245’s ACB in respect of the 348.5 Class C preferred shares of 1251 to be $129,000; and
+d. the PUC and ACB of the 348.5 Class E preferred shares of 1245 that Perry Wild received was $128,148.
+23. On June 12, 2007, 1251 purchased/redeemed the 348.5 Class C preferred shares of 1251 owned by 1245 and issued a promissory note of $348,500 in favour of 1245.
+24. On June 13, 2007 PWR split its 7.6 Class A common shares at a ratio of 13.158 to 1, resulting in 1245 owning 100 Class A common shares of PWR now held by 1245.
+25. As of June 13, 2007 Perry Wild owned 2,337.5 Class E preferred shares of 1245 with a FMV of $2,337,500, an ACB of $750,000 and PUC of $595,264.
+26. Perry Wild did not make any other capital contributions to PWR, 1251 or 1245 from January 1, 2004 to June 13, 2007.
+27. The foregoing transactions constituted a series of transactions, which series did result directly or indirectly in a tax benefit.
+28. The following transactions were avoidance transactions as that term is defined in subsection 245(3) of the Act:
+a. utilizing s. 85 of the Act, on June 1, 2007 Perry Wild transferred 16.4 common shares of PWR to 1251 for 348.5 Class C preferred shares of 1251 as described in paragraph 10 hereof; and
+b. utilizing s. 85 of the Act, on June 2, 2007, PWR at the direction of Perry Wild, transferred class 8 equipment to 1251 for 348.5 Class C preferred shares of 1251 as described in paragraph 11 and 12 hereof.
+29. The following transactions were also avoidance transactions as that term is defined in subsection 245(3) of the Act:
+a. utilizing s. 85 of the Act, on June 6, 2007 Perry Wild transferred 93.6 common shares of PWR to 1245 for 1,989 Class E preferred shares of 1245 as described in paragraph 16 hereof; and
+b. utilizing s. 85 of the Act, on June 7, 2007 Perry Wild transferred land, depreciable properties and debt of PWR to 1245 for 1,826.2420 Class E preferred shares of 1245 as described in paragraphs 17 and 18 hereof.
+[7] The undisputed facts are stated in the above SoAF. To provide some factual context, a brief overview of certain features is necessary here.
+[8] Having sought advice from tax planners, the Wilds implemented, as directed by Mr. Wild, a corporate reorganization to protect PWR’s assets and entered into a series of transactions with PWR, 1245 and 1251 as non-arm’s length parties. The series, including avoidance transactions, began upon incorporation of 1245 in May 2006 and ended on June 13, 2007.[2] The series resulted directly or indirectly in the tax benefit.
+[9] As part of that series, avoidance transactions, described in paragraphs 10, 11, 12, 16, 17, 18, 28 and 29 of the SoAF (“avoidance transactions”), were undertaken in 2007 by the appellants that resulted directly or indirectly in the tax benefit.[3] The avoidance transactions included the rollover of a portion of his PWR shares to 1251 on June 1 and the remaining portion of Mr. Wild’s PWR shares to 1245 on June 6 in exchange for Class C shares of 1251 and Class E shares of 1245. The avoidance transactions also included the rollover of most of PWR’s assets to the related numbered companies on June 2 and June 7 in exchange for PWR receiving the Same Class of shares Mr. Wild had already received from each of the numbered companies.[4]
+[10] Together, the June 1 and June 2 avoidance transactions with the application of subsection 89(1), triggered the share averaging within the Class C shares on June 2 that resulted in PUC:
+(a) increases to Mr. Wild’s Class C shares;
+(b) decreases to PWR’s Class C shares; and
+(c) PUC in the same amount for each of Mr. Wild and PWR.
+[11] Similar avoidance transactions were repeated on June 6 and June 7 that triggered the averaging on June 7 resulting in the PUC increase for Mr. Wild and corresponding decrease for PWR in their respective Class E shares.
+[12] The proceeds of disposition of Mr. Wild’s PWR shares and the numbered companies’ adjusted cost base (“ACB”) of property they received are equal to the amount elected by Mr. Wild and the numbered companies which resulted in capital gains against which his capital gains exemption was applied. On the cross‑redemption of the shares (of PWR owned by the numbered companies and vice versa), deemed dividends arose under subsection 84(3) and section 112 deductions were applied without tax consequences.
+[13] Before the series, Mr. Wild owned the PWR shares with an ACB of $110 and PUC of $110. After the series he owned The Shares in 1245 which had an ACB of $750,000 and PUC of $595,264 and most of PWR’s assets were owned by 1251 and 1245. The same fair market value (“FMV”) of $2,337,500 was maintained before and after the series.
+[14] At the hearing, each party filed read-ins from examinations for discovery of the opposing party; the respondent provided clarification of read-ins of her nominee. The respondent’s nominee agreed that there was nothing untoward in utilizing section 85 rollovers in the avoidance transactions. The respondent’s concerns are that the PUC grind in section 84.1 was counteracted by the averaging effect of the PUC because of the issuance of the Same Class of shares to Mr. Wild and then to PWR in a certain manner and sequence which created an artificial PUC increase in The Shares. Had the numbered companies issued a different class of shares to each of them, there would be no tax benefit to Mr. Wild.[5]
+[15] All references that follow to provisions are to the Act unless otherwise specified.
+IV. Parties’ positions Respondent
+[16] The respondent contends the appellants circumvented the effects of section 84.1, a specific anti-avoidance surplus stripping rule, by misusing the PUC calculation in subsection 89(1) that triggered the share averaging effect within the Same Class of shares. Alternatively, the avoidance transactions are abusive as they achieved an outcome that the relevant provisions were meant to prevent and/or defeat their underlying rationale. Utilizing the PUC calculation in subsection 89(1) is not in itself abusive, however, the manner in which it was used frustrated or defeated the object, spirit or purpose of the relevant provisions.
+[17] The respondent argued that applying the relevant provisions, as interpreted, to the facts to determine whether the avoidance transactions fall within or frustrate the underlying rationale shifts the focus to the overall result of the series which result in the tax benefit. This was accomplished by issuing the Same Class of shares to himself and then to PWR without any new injection of capital from him to PWR or 1245, shuffling the existing assets from PWR to 1251 and 1245 in a non-arm’s length arrangement and then applying his capital gains exemption and the corporate deductions with no tax consequences whilst maintaining the FMV of $2.3 million (from PWR to 1245).
+[18] According to the respondent, section 84.1 and the PUC scheme of the Act would be rendered meaningless if subsection 89(1) can be misused to artificially inflate PUC in shares, through share manipulation, as here.
+Appellants
+[19] The appellants’ position is the reorganization was for an asset protection objective to obviate risk. PWR would “spin out” its assets to the numbered companies and subsequently lease those assets to PWR. Amidst the reorganization, Mr. Wild engaged in the avoidance transactions to obtain the tax benefit. Subsection 89(1) is a formulaic provision involving the application of basic math in the computation of PUC and is not susceptible to abuse.[6]
+[20] The respondent’s approach, the appellants argued, is that section 84.1 has been abused not because it was avoided or circumvented but because the overall purpose of the transactions was a general surplus strip and she seeks to imbue section 84.1, indirectly, with such powers to offset allowable deductions under sections 110.6 and 112.
+[21] The appellants suggest the respondent’s position is misguided as it focuses on only half of the avoidance transactions, the share averaging effect, ignores the corresponding decrease in PUC, is silent on section 112 and advances a pre-Canada Trustco Mortgage Co. v Canada[7] position. The tax results are the consequence of the application of the relevant (and other) provisions that operated as intended and within the purposes of those provisions such that the avoidance transactions did not abuse any provisions of the Act.
+A. The GAAR Test [22] In determining whether the GAAR applies, the Supreme Court of Canada in Canada Trustco instructs that the following three‑step test is to be applied:
+17 The application of the GAAR involves three steps. The first step is to determine whether there is a “tax benefit” arising from a “transaction” under s. 245(1) and (2). The second step is to determine whether the transaction is an avoidance transaction under s. 245(3), in the sense of not being “arranged primarily for bona fide purposes other than to obtain the tax benefit”. The third step is to determine whether the avoidance transaction is abusive under s. 245(4). …[8]
+[23] This test was reiterated by the same Court in Lipson v The Queen[9] and Copthorne Holdings Ltd. v Canada.[10]
+[24] The appellants have the burden of refuting the first two steps and the Minister has the burden of persuasion under the third step to establish abusive tax avoidance.
+[25] The appellants concede Mr. Wild obtained the tax benefit.[11] However, in oral argument, they suggested the section 112 deduction is the provision associated with the tax benefit because it offsets gains and is the only reason the “PUC shift” works. The respondent countered she is not - nor would not - argue that section 112 was abused as it worked exactly as it should. Rather, she contends subsection 89(1) is the source of the tax benefit because he directed and obtained the PUC increases, involving non-arm’s length parties, through the issuance of the Same Class of shares to him and then PWR sequentially and in a certain manner that triggered the share averaging.
+[26] The Act integrates corporate and shareholder taxes on business income by imputing corporate taxes to shareholders at the personal level. The goal is to defer taxation of corporate surplus until it is distributed as a dividend to the individual shareholder. Section 112 provides a corporate deduction to facilitate the movement of corporate funds (inter-corporate dividends) between corporations to prevent distributions from being taxed at every level of the corporate structure.[12]
+[27] Issuing the Same Class of shares to PWR on June 2 (Class C) and June 7 (Class E) that had previously been issued to Mr. Wild, triggered the share averaging in each instance in computing PUC under subsection 89(1). If the Same Class of shares had not been issued to PWR, there would have been no averaging and no tax benefit. It is not alleged that section 112 has been abused nor is it referenced in subsection 89(1) and the appellants’ own written submissions acknowledge subsection 89(1) was relied on for the source of the tax benefit. Consequently, I find that subsection 89(1) is associated with the tax benefit that the appellants relied on which incorporates section 84.1 as part of the PUC computation and scheme.
+[28] Although the appellants concede the existence of the avoidance transactions within the meaning of subsection 245(3), they then claimed that these amounted to “bare” tax avoidance. Having made that concession, in my view, no further consideration is necessary as to the second step.
+[29] As to the third step, a two-stage abuse analysis is required to establish whether the avoidance transactions abused the relevant provisions. Firstly, interpreting the relevant provisions of the Act to determine the object, spirit or purpose and, secondly, determining whether the avoidance transactions fall within or frustrate the purpose of the relevant provisions.
+[30] In Canada Trustco, it was noted that while subsection 245(4) provides for “misuse” and “abuse”, these two determinations are not separate inquiries.[13] In the reasons to follow, the term “abuse” will be used as embracing both terms.
+[31] Various principles will be outlined before conducting the abuse analysis under the third step.
+B. Principles of abusive tax avoidance [32] The framework for a GAAR analysis was enunciated in Canada Trustco and reiterated in Lipson and Copthorne (the “trilogy”). Principles in determining whether an avoidance transaction results in abuse for the purpose of subsection 245(4) are found at paragraphs 44 to 62 in Canada Trustco; many of the principles are highlighted below.
+[33] In Copthorne, it was noted that “[t]axpayers are entitled to select courses of action or enter into transactions that will minimize their tax liability”. In Canada Trustco, the Court stated:
+61. A proper approach to the wording of the provisions of the Income Tax Act together with the relevant factual context of a given case achieve balance between the need to address abusive tax avoidance while preserving certainty, predictability and fairness in tax law so that taxpayers may manage their affairs accordingly. Parliament intends taxpayers to take full advantage of the provisions of the Act that confer tax benefits. Parliament did not intend the GAAR to undermine this basic tenet of tax law.
+[34] Tax planning per se is not abusive for the purposes of subsection 245(4).[14]
+[35] As noted in Lipson, “… a taxpayer will not be denied a tax benefit resulting from an avoidance transaction unless that transaction directly or indirectly results in the abuse and misuse of the provisions of the Act …” Hence, an avoidance transaction will be found to be abusive within the meaning of subsection 245(4) if “it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer.” Abusive tax avoidance will be established if the transaction frustrates or defeats those provisions.[15]
+[36] The interpretive approach in a GAAR analysis is referred to in the trilogy of decisions and described in Copthorne as:
+70 The object, spirit or purpose can be identified by applying the same interpretive approach employed by this Court in all questions of statutory interpretation - a "unified textual, contextual and purposive approach" (Trustco, at para. 47; Lipson v. Canada, 2009 SCC 1, [2009] 1 S.C.R. 3, at para. 26). While the approach is the same as in all statutory interpretation, the analysis seeks to determine a different aspect of the statute than in other cases. In a traditional statutory interpretation approach the court applies the textual, contextual and purposive analysis to determine what the words of the statute mean. In a GAAR analysis the textual, contextual and purposive analysis is employed to determine the object, spirit or purpose of a provision. Here the meaning of the words of the statute may be clear enough. The search is for the rationale that underlies the words that may not be captured by the bare meaning of the words themselves. However, determining the rationale of the relevant provisions of the Act should not be conflated with a value judgment of what is right or wrong nor with theories about what tax law ought to be or ought to do.
+[37] In a GAAR analysis, a textual, contextual and purposive interpretation is to be employed to determine the object, spirit or purpose of the relevant provision relied on for the tax benefit to ascertain the underlying rationale of the relevant provision having regard to the scheme of the Act and permissible extrinsic aids.[16]
+[38] The GAAR can only be applied to deny a tax benefit when the abusive nature of the transaction is clear. If not, the benefit goes to the taxpayer.[17]
+[39] In Copthorne, the Court indicated there is no general principle against a corporate reorganization and states:
+121 …Where corporate reorganization takes place, the GAAR does not apply unless there is an avoidance transaction that is found to constitute an abuse. Even where corporate reorganization takes place for a tax reason, the GAAR may still not apply. It is only when a reorganization is primarily for a tax purpose and is done in a manner found to circumvent a provision of the Income Tax Act that it may be found to abuse that provision. And it is only where there is a finding of abuse that the corporate reorganization may be caught by the GAAR.
+C. Analysis [40] In oral argument, appellants’ counsel debated that there are two types of abuse. First, where a taxpayer relied on a provision to provide a tax benefit and the provision was abused. Second, where a specific anti-avoidance rule is circumvented. He argued that as the Minister could not demonstrate that any provision ‘relied upon’ by the appellants was abused, the Minister must demonstrate that a specific tax avoidance provision has been ‘circumvented’ but could not do so.[18] He explained:
+… there's really two general headings of abuse, two types of abuse, and I'll get to the quote by the Supreme Court of Canada momentarily.
+There's abuse where you are improperly relying on provisions of the Act to gain a tax benefit, that’s one heading. So you look to the provisions that provide the tax benefit. And the Supreme Court of Canada says that’s the first and most important thing, where did the tax benefit come from? And you ascertain whether they've been abused. There's another category and that is where you've actually circumvented ‑‑ and I'm being very careful with these words ‑‑ circumvented the operation of a specific anti-avoidance provision. You've circumvented it. In other words, you've avoided a tax avoidance – anti‑tax avoidance provision.[19]
+[41] Respondent counsel responded that under the Canada Trustco analysis, there are three heads and “… the court needs to find that the abusive transaction falls within one of those three things and it may overlap. There may be two parts of these three tests that are held to be seen in the transactions and result in abusive tax avoidance.”[20]
+[42] The trilogy of decisions instructs that there are three types of abusive tax avoidance. Enunciated in Canada Trustco, the Court states:
+45 This analysis will lead to a finding of abusive tax avoidance when a taxpayer relies on specific provisions of the Income Tax Act in order to achieve an outcome that those provisions seek to prevent. As well, abusive tax avoidance will occur when a transaction defeats the underlying rationale of the provisions that are relied upon. An abuse may also result from an arrangement that circumvents the application of certain provisions, such as specific anti-avoidance rules, in a manner that frustrates or defeats the object, spirit or purpose of those provisions. …
+[43] Additionally, in Lipson and Copthorne, in referring to the three types of abuse, the Court added that “One or more of these possibilities may apply in a given case.” and “These considerations are not independent of one another and may overlap.”, respectively.[21]
+[44] In Copthorne, the Court found the transaction circumvented the parenthetical words in subsection 87(3) upon amalgamation of two entities and ultimately concluded the sale of shares circumvented those words and in the context of the series of which it was a part, achieved a result the section was intended to prevent, and therefore, defeated its underlying rationale.[22]
+[45] Essentially, “While the focus must be on the transaction, where it is part of a series, it must be viewed in the context of the series to enable the court to determine whether abusive tax avoidance has occurred.” such that “… whether a transaction is abusive will only become apparent when it is considered in the context of the series of which it is a part and the overall result that is achieved.”[23] The central question is whether the transactions were consistent with the purpose of the relevant provisions.[24]
+[46] In the present case, the Minister alleges that subsection 89(1) and section 84.1 were abused.
+1. Interpretation of relevant provisions to determine their object, spirit or purpose
+[47] With those principles in mind, I turn to the third step of the GAAR abuse analysis. The first stage begins with a textual, contextual and purposive analysis to determine the object, spirit or purpose of the relevant provisions that were relied upon for the tax benefit before determining whether the impugned transactions constitute abusive tax avoidance.[25]
+Subsection 89(1)
+[48] PUC is determined under subsection 89(1) which contains the definition of PUC. The relevant portion reads as follows:
+89.(1) … “paid-up capital” at any particular time means,
+(a) in respect of a share of any class of the capital stock of a corporation, an amount equal to the paid-up capital at that time, in respect of the class of shares of the capital stock of the corporation to which that share belongs, divided by the number of issued shares of that class outstanding at that time
+(b) in respect of a class of shares of the capital stock of a corporation,
+…
+(iii) where the particular time is after March 31, 1977, an amount equal to the paid-up capital in respect of that class of shares at the particular time, computed without reference to the provisions of this Act except subsections 51(3) and 66.3(2) and (4), sections 84.1 and 84.2, subsections 85(2.1), 85.1(2.1), 86(2.1), 87(3) and (9), 128.1(2) and (3), 138(11.7), 139.1(6) and (7), 192(4.1) and 194(4.1) and section 212.1.
+Text
+[49] The text indicates that in determining PUC, it is initially calculated in reference to the capital stock (i.e., stated capital) of a corporation in respect of a class of shares (or series).[26] The stated capital may then be adjusted by the provisions listed in subparagraph 89(1)(b)(iii) if the conditions are met. In discussing the text, in Copthorne, the Court states:
+75 This definition is unusual. It does not provide an express positive definition. Instead, it states that PUC shall be calculated initially “without reference to the provisions of this Act”. In practice this means that the PUC calculation begins with reference to the stated capital of a class of shares, determined under corporate law. This is explained in para. 2 of the Income Tax Interpretation Bulletin IT-463R2 “Paid-up Capital” (September 8, 1995):
+Since subparagraph (b)(iii) of the definition of “paid-up capital” provides that the amount of the paid-up capital of a class of shares is initially determined without reference to the provisions of the Income Tax Act, the calculation is based on the relevant corporate law rather than tax law. The amount calculated under corporate law is usually referred to as the “stated capital” of the class of shares.
+[50] Subsection 89(1) defines PUC by reference to a share or all shares in respect of the class of the capital stock of the corporation determined under the relevant corporate law.[27] The PUC calculation incorporates the presumption that shareholders within the class are to be treated equally.[28] Determination of the PUC of shares of the class is calculated by dividing the PUC of the class by the number of shares issued in that class. Therefore, all shareholders of the class have the same PUC regardless of the capital contribution made by each shareholder of that class.[29]
+Context
+[51] In a contextual analysis, other relevant provisions that are grouped or work together are to be examined to give effect to a “plausible and coherent plan” and permissible extrinsic aids to understand the context of the provision at issue.[30]
+[52] Interpretation of specific provisions cannot be separated from contextual considerations arising from other provisions of the Act which functions as a coherent whole with respect to the particular statutory scheme engaged by the transactions. The PUC scheme of the Act is part of the Act’s approach to taxation of corporate distributions. Subsection 89(1) is highlighted in Copthorne as incorporating other provisions that can reduce PUC (“PUC grind”) of the shares of a corporation in computing PUC as part of that scheme.
+[53] The calculation of PUC of the class can diverge from the stated capital of that class because of such reductions that can be made for tax purposes pursuant to the provisions listed in subparagraph 89(1)(b)(iii). That subparagraph includes sections 84.1 and 212.1, applicable to non-arm’s length situations if the requisite conditions are met, and subsection 85(2.1); these are anti-avoidance provisions. Subsection 87(3) is also included in the subparagraph and prevents the inflation of PUC on amalgamation; this was the key provision under consideration in Copthorne.
+Purpose
+[54] Parliament amended the definition of PUC in 1977. It chose corporate law principles to govern the computation of PUC to represent the funds invested in a company by a shareholder. The amount invested could be returned as a tax-free return of capital because the PUC was contributed from after-tax funds but any amount paid to a shareholder that exceeds PUC would be taxed as a dividend.[31]
+[55] I agree with the respondent that the purpose of the subsection 89(1) is to mirror the corporate law concept of stated capital, subject to the provisions listed in the Act that may subsequently make adjustments, to ensure that the PUC, calculated and averaged within the class, accurately represents and is restricted to the funds invested in the shares of the corporation by its shareholders.
+Section 84.1
+[56] The relevant part of section 84.1, again listed in paragraph 89(l)(b)(iii), reads:
+84.1 (1) Where after May 22, 1985 a taxpayer resident in Canada (other than a corporation) disposes of shares that are capital property of the taxpayer (in this section referred to as the “subject shares”) of any class of the capital stock of a corporation resident in Canada (in this section referred to as the “subject corporation”) to another corporation (in this section referred to as the “purchaser corporation”) with which the taxpayer does not deal at arm’s length and, immediately after the disposition, the subject corporation would be connected (within the meaning assigned by subsection 186(4) if the references therein to “payer corporation” and to “particular corporation” were read as “subject corporation” and “purchaser corporation” respectively) with the purchaser corporation,
+(a) where shares (in this section referred to as the “new shares”) of the purchaser corporation have been issued as consideration for the subject shares, in computing the paid-up capital, at any particular time after the issue of the new shares, in respect of any particular class of shares of the capital stock of the purchaser corporation, there shall be deducted an amount determined by the formula
+(A - B) × C/A
+where
+A is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of all shares of the capital stock of the purchaser corporation as a result of the issue of the new shares,
+B is the amount, if any, by which the greater of
+(i) the paid-up capital, immediately before the disposition, in respect of the subject shares, and
+(ii) subject to paragraphs 84.1(2)(a) and 84.1(2)(a.1), the adjusted cost base to the taxpayer, immediately before the disposition, of the subject shares,
+exceeds the fair market value, immediately after the disposition, of any consideration (other than the new shares) received by the taxpayer from the purchaser corporation for the subject shares, and
+C is the increase, if any, determined without reference to this section as it applies to the acquisition of the subject shares, in the paid-up capital in respect of the particular class of shares as a result of the issue of the new shares; …
+Text
+[57] From a textual review, section 84.1 applies to a non-arm’s length transfer of shares of one Canadian corporation to another corporation by an individual (resident in Canada, Mr. Wild) and the companies are connected immediately after the disposition of shares. It prevents the PUC of the newly-acquired shares (1251 and 1245) from exceeding the PUC of the subject shares (PWR) through the increase in PUC as a result of issuing new shares that would otherwise occur without reference to section 84.1. Where the conditions in section 84.1 are met, the PUC grind occurs to the shares issued by the purchaser corporation (1251 and 1245) to the amount of the PUC of the shares of the subject corporation (PWR).[32]
+Context
+[58] In the 1977 amendments, Parliament introduced sections 84.1 and 212.1, applicable to non-arm’s length transactions, because of concerns about corporate distributions.
+[59] Section 84.1 is contained in Subdivision (h) of Division B, Part I which includes the computation of PUC and the taxation of corporations residing in Canada and their shareholders.
+[60] In Copthorne, the PUC grind provisions, listed in subparagraph 89(1)(b)(iii) as part of the PUC scheme, are described mostly as intending to prevent the preservation of PUC in situations where bare reliance of stated capital would not achieve Parliament’s intended purpose: allowing tax-paid investment only as a return of capital without income inclusion. The Court notes:
+95 Section 89(1) incorporates by reference provisions which reduce the PUC of the shares of a corporation. They are colloquially referred to as “grinds”. For example, ss. 84.1 and 212.1 both grind PUC in non-arm's length transactions. These sections have been described as “anti-avoidance” provisions aimed at “dividend stripping” (Collins & Aikman Products Co. v. The Queen, 2009 TCC 299, 2009 D.T.C. 1179, at paras. 55 and 105, aff'd 2010 FCA 251, [2011] 1 C.T.C. 250) because such non-arm's length transactions may provide an opportunity for corporations to return funds in excess of the initial investment made with tax-paid funds to a shareholder as a non-taxable return of capital, rather than as a taxable dividend.
+96 The existence of such grinds is an indication that the subsections enumerated in s. 89(1) are mostly intended to prevent the preservation of PUC in instances where bare reliance on stated capital would not achieve Parliament's intended tax purpose of allowing only for a return of tax-paid investment without inclusion in income. …
+[61] Generally, sections 84, 84.1 and 212.1 and subsection 85(2.1) are designed to tax shareholders on any distributions of corporate surpluses. Albeit each provision involves different scenarios, the common textual thread is the aim to prevent a corporation from having its surpluses stripped.
+[62] Subsection 84(3) is a deeming provision that deals with amounts paid on share redemption; it applied in the present case. Illustrating the interplay of subsection 89(1) in the context of the PUC scheme, subsection 84(3) takes the PUC, determined under subsection 89(1), including adjustments required by subsection 87(3), and deems an amount paid in excess of the resulting PUC a dividend received by a shareholder and subject to tax. If payment on such redemption is less or equivalent to PUC, it is a non-taxable return of capital. Subsections 84(2) and (4) to (9) similarly deem dividends in various situations, restricted to Canadian residents, to ensure that corporate distributions are not capitalized to stated capital for distribution to a shareholder as a tax-free return of capital beyond the amount invested.
+[63] Section 212.1 provides for a PUC grind of shares issued by a purchaser corporation (or a deemed dividend) if the conditions are met. Since section 212.1 applies to a non-resident person who disposes of shares of a corporation resident in Canada to another such corporation, it is not relevant in these appeals. Notably, the 1985 amendments to section 84.1 were fashioned after section 212.1.
+[64] Subsection 85(2.1) applies where shares are issued on a transfer of property; paragraph 85(2.1)(a) will grind the PUC of the shares issued by the purchaser corporation if the conditions are satisfied. This also applied to transfers of PWR’s assets and limited PUC. There is no alleged abuse of this subsection but the appellants referred to it in their submissions. Briefly, subsection 85(2.1) only applies where subsections 85(1) or 85(2) have applied in respect of a disposition of property and to dispositions of property where sections 84.1 or 212.1 do not apply. Contextually, subsection 85(2.1) was introduced effective after November 1985, and is consequential to the introduction of the provisions relating to the capital gains exemption. The purpose is described as preventing the removal of taxable corporate surpluses as a tax-free return of capital thus limits the amount of PUC of the shares issued on a transfer of property.[33]
+Purpose
+[65] The purpose of section 84.1, the respondent argued, is to prevent the removal or conversion of taxable corporate surplus into a potential tax-free return of capital by way of non-arm’s length sale of shares by an individual shareholder resident in Canada from one corporation to another thereby preventing an increase in PUC.
+[66] The Department of Finance Technical Notes of May 1991 indicates:
+Section 84.1 is an anti-avoidance rule designed to prevent the removal of taxable corporate surplus as a tax-free return of capital through a non-arm’s length transfer of shares by an individual resident in Canada to a corporation.[34]
+[67] In the decision of Descarries v Canada,[35] Justice Hogan states “… that the object, spirit or purpose of section 84.1 of the Act is to prevent taxpayers from performing transactions whose goal is to strip a corporation of its surpluses tax‑free through the use of a tax-exempt margin or a capital gain exemption.” He observes that his view is consistent with that of the Minister of Finance upon introducing the proposed amendments to section 84.1 in 1985 during the introduction of the new capital gains exemption provisions. Paragraph 54 of Justice Hogan’s decision elaborates on this further and is attached as Appendix I to these reasons.
+Conclusion - object, spirit or purpose
+[68] I conclude that the object, spirit or purpose of: (a) subsection 89(1) is designed to compute PUC equally of shares within a class with reference to corporate law principles, subject to applicable adjustments listed in paragraph 89(1)(b)(iii), that represents the amount invested in the company shares by its shareholders; and (b) section 84.1, an anti-avoidance rule, is to prevent the removal of taxable corporate surplus as a tax-free return of capital through the use of the capital gains exemption (or tax-exempt margin), where there is a non‑arm’s length transfer of shares by an individual resident in Canada from one corporation to another and PUC in excess of the amount invested cannot be withdrawn tax free.
+2. Did the avoidance transactions defeat or frustrate the object, spirit or purpose of the relevant provisions?
+[69] This second stage of the abuse analysis is to examine the factual context to determine whether the avoidance transactions defeated or frustrated the object, spirit or purpose of the relevant provisions relied on by the appellants.
+[70] Mr. and Mrs. Wild owned the newly-incorporated companies 1245 and 1251, respectively. PWR, owned by Mr. Wild, rented equipment to the oil industry. He sought advice from tax planners to protect PWR’s assets for an asset protection objective. The Wilds implemented the reorganization with the series of transactions commencing on the incorporation of 1245 in May 2006 and ending on June 13, 2007. The appellants characterized this as a PUC shift to spin out PWR’s assets into 1251 and 1245. Ultimately, most of PWR’s assets were transferred to the numbered companies and later were leased back to PWR. Amidst the series, the appellants entered into the following avoidance transactions.
+June 1 - Mr. Wild transferred his 16.4 PWR shares to 1251 for 348.5 Class C shares issued by 1251 to him
+[71] Under the PUC computation pursuant to subsection 89(1), where an asset with a high FMV, the 16.4 PWR shares, is transferred to a company, 1251, the stated capital of 1251 goes up to $129,000.
+[72] Since the section 84.1 conditions were met, it applied to grind the PUC of the Class C (1251) shares issued to him to $1 per share. Accordingly, Mr. Wild received the Class C shares with a PUC of $16.40.
+June 2 - PWR transferred assets to 1251 for 348.5 Class C shares issued by 1251 to PWR
+[73] This avoidance transaction involved the transfer by PWR of some of its assets to 1251 in consideration for Class C shares PWR received; the assets had a FMV of $348,500 and an undepreciated capital cost (“UCC”) of $256,279. The consideration received by PWR was the Class C shares with a redemption amount of $1,000 per share totalling $348,500. The elected amount for PWR’s proceeds of disposition and 1251’s ACB was $256,279.
+[74] Subsection 85(2.1) applied to grind the PUC of the Class C shares to $256,279 (limits the amount that may be distributed as a tax-free return of capital to prevent surplus stripping).
+[75] Subsequently, the PUC of his Class C shares increased (from $16.40 to $128,148) and PWR’s Class C shares decreased (from $256,279 to $128,148) because of the averaging effect under subsection 89(1) which requires shareholders to have the same PUC; the PUC of the shares issued is adjusted to the same amount of $128,148 for each of Mr. Wild and PWR.[36]
+[76] Later, the PWR shares owned by 1251 and the Class C shares owned by PWR were redeemed, causing a deemed dividend to arise under subsection 84(3) and a section 112 deduction was claimed with no tax payable by PWR or 1251.
+June 6 - Mr. Wild transferred his remaining 93.6 PWR shares to 1245 for 1,989 Class E shares issued by 1245 to him
+[77] In this avoidance transaction, section 84.1 applied to grind down the PUC of the shares received by Mr. Wild in exchange for his remaining PWR shares. Again, under the PUC computation, where assets with a high FMV, the 93.6 PWR shares, are transferred to 1245, the stated capital of 1245 goes up. Here, the stated capital would have been $621,000. However, section 84.1 applied to restrict the PUC and reduced the Class E shares.
+June 7 - PWR transferred land, depreciable property and debt to 1245 for 1,826.242 Class E shares issued by 1245 to PWR
+[78] This last avoidance transaction follows similar steps to the June 2, 2007 transaction as it relates to Class E. Specifically, PWR transferred land, depreciable property and debt to 1245 for share consideration. The FMV of the land and the depreciable property was $2,439,980, having a UCC of $1,509,652. The consideration received was the assumption of debt and Class E shares with a redemption value of $1,000 per share, totalling $1,826,242. Subsection 85(2.1) applied to the transaction to reduce the PUC of the share to $895,914; the amount that could be distributed as a tax-free return of capital was limited to $895,914.
+[79] Again, the PUC of his Class E shares increased (from $93.60 to $467,115) and PWR’s Class E shares decreased (from $895,914 to $467,115) under the averaging effect under subsection 89(1); they end up with the same PUC.
+[80] Following this step, there was a cross-redemption of the shares of 1245 and PWR; this resulted in a deemed dividend under subsection 84(3) and a section 112 deduction was claimed with no tax payable by PWR or 1245.
+[81] The final step in the reorganization was to exchange the Class C for Class E shares using a section 85 rollover.[37] This results in Mr. Wild owning The Shares of 1245 (2,337.5 Class E shares) with a PUC of $595,264, representing the consolidation of the two PUC increases.
+[82] The appellants argued that subsection 89(1) is a formulaic mechanism with the limited purpose of computing PUC to average shares within a class based on corporate law and is not susceptible to abuse nor does it specify when circumstances are abusive. The purported “abuse” was the choice to issue the Same Class of shares to each of Mr. Wild and later PWR that culminated in the tax benefit. Share averaging applied as it should so that Mr. Wild and PWR had the same PUC for the Same Class of shares. They suggest the respondent was unable to establish that the object, spirit and purpose of subsection 89(1) has been abused or frustrated by the transactions and this amounts to legislative-gap filling.
+[83] Clearly, computing PUC according to the mechanism under subsection 89(1) is not in and of itself abusive. I disagree, however, that the subsection is not susceptible to abuse. Although the appellants referred to Canada Trustco principles, their basic math argument and general approach seemed to focus on the literal text of subsection 89(1) in isolation from the PUC scheme. The trilogy of decisions inform that whilst the text is to be considered, the heart of the analysis lies in the contextual and purposive interpretation of the provision in issue to find meaning that harmonizes the wording, object, spirit and provisions of the Act.[38] Reliance on the text without regard to the underlying rationale is misplaced even though it might be possible in some cases that the rationale would be no broader than the text itself.[39]
+[84] The appellants further argued that section 84.1 applied to grind the PUC therefore was not circumvented because “no one walked around” the section and the respondent is unable to show in what manner the object, spirit or purpose of section 84.1 was abused.
+[85] Combined, subsection 89(1) and section 84.1 deal with the computation of PUC involving the PUC grind where there is a non-arm’s length transfer of shares by an individual from one corporation to another. The definition of PUC in subsection 89(1) relies on stated capital as a base for the PUC calculation, with subsequent adjustments, as part of the PUC scheme of the Act. Together, these prevent the extraction of corporate surplus tax-free in such circumstances and preclude the return of an amount of capital tax-free in excess of an investor’s original contribution as noted in Copthorne and consistent with the PUC scheme.
+[86] In Desmarais v Canada, after describing the purpose of section 84.1 is to prevent a tax-free return of corporate surplus through a non-arm’s length transfer of shares by an individual, Justice Archambault concluded that Mr. Desmarais had stripped surpluses of an operating company.[40]
+[87] Similarly, in Descarries, another decision relied on by the respondent, Justice Hogan also describes that section 84.1 was enacted to prevent corporate surpluses being distributed tax-free through non‑arm’s length transfers of shares and when individual taxpayers attempt to use their capital gains exemption.[41] He notes section 84.1 operates in the following context and if applicable causes a PUC grind of the shares issued by the purchaser corporation:
+a) a taxpayer resident in Canada (transferor), other than a corporation, disposes of shares (the subject shares) of a corporation resident in Canada (the subject corporation);
+b) the subject shares are capital property to the taxpayer;
+c) the taxpayer transfers the subject shares to a corporation (purchaser corporation) with which the taxpayer does not deal at arm’s length; and
+d) the subject corporation is connected to the purchaser corporation immediately after the disposition.
+[88] Justice Hogan found that there were three transactions that permitted the appellants to indirectly distribute part of Oka’s business surpluses tax-free which abused section 84.1 because the appellants’ tax advisor had designed a complex tax plan specifically to frustrate the object, spirit or purpose of that provision.[42] The conclusion reached and key features in the Descarries decision are set out on Appendix II to these reasons. The parties in the present appeals draw different conclusions from the Descarries decision.
+[89] The respondent argued that while the avoidance transactions implemented in the present case are different in design, they were carried out with the same purpose or result in mind; the objective was to allow Mr. Wild to use his capital gains exemption in a manner that allows him to receive corporate distributions as tax-free return of capital rather than taxable dividends and in excess of the capital contribution he made. This was done in a manner that circumvents the effects of and/or defeats the application of section 84.1 and frustrates its underlying rationale as a specific anti‑avoidance provision designed to prevent the result achieved by misusing subsection 89(1) that triggered the share averaging.
+[90] The appellants argued that the transactions considered by Justice Hogan in Descarries were carried out in a surplus-stripping context.[43] They argued that this is not the context in which the transactions challenged by the Minister were carried out in the present case and observe that the Minister accepts that the reorganization was carried out to protect PWR’s assets. Finally, the appellants contend that Justice Hogan found that GAAR applied in the Descarries decision because the appellants had used their tax-free V-Day Value to offset a transitory capital gain that was generated for the sole purpose of allowing Descarries to receive tax-free returns of capital. There is no such direct or indirect link between the use by Mr. Wild of his capital gains exemption and the increase in the PUC of The Shares of 1245.
+[91] I disagree with the appellants’ analysis of the Descarries case. There are similarities between the avoidance transactions in the present case and those considered in Descarries that allow me to conclude that the avoidance transactions in the present case were, like Descarries, designed and implemented in a surplus-stripping context involving a complex plan. In my analysis, I have considered the interrelationship of the transaction steps, the combined tax effects of the avoidance transactions, section 84.1, a specific anti-avoidance rule that is relevant to the matter at hand, the context in which the avoidance transactions were implemented and the overall result.
+[92] The ”key features” of the transactions in the present case can be succinctly stated as follows:
+1. On June 1, 2007, Mr. Wild exchanged his (16.4) PWR shares for (348.5) Class C shares of 1251.
+This transaction gives rise to a capital gain. He uses his capital gains exemption with the result that no tax is paid. This is a key feature of the tax plan. A tax-free return of capital is possible if the avoidance transactions achieve both a tax-free increase in the ACB and PUC of the shares. Both occurred.
+2. On June 2, 2007, PWR transferred some assets to 1251 in consideration for Class C shares of 1251.
+This transaction results in an increase in the PUC of the shares held by Mr. Wild by virtue of the averaging effect of subsection 89(1). The ACB and the PUC of the shares of Mr. Wild must be increased without immediate tax consequences for him in order that Mr. Wild may benefit from tax-free returns of capital.
+Notably, PWR did not give up a valuable tax attribute (PUC of shares) by accepting shares that have a PUC per share less than their ACB. The subsequent redemption of these shares creates a larger tax-free intercorporate dividend. Mr. Wild, however, benefits from this feature of the tax plan.
+3. On June 6, 2007, Mr. Wild transferred his remaining 96.3 PWR shares to 1245 for Class E shares of 1245. On June 7, 2007, PWR transferred its remaining assets to 1245 also for Class E shares. These transactions creates the same tax results for Mr. Wild as those described relating to 1251.
+[93] Responses at the examination for discovery of Mr. Wild to questions put to him relating to the assets and issuance of the Same Class of shares were lacking. Excerpts of some of the read-ins are attached as Appendix III to these reasons. When asked “Why were these assets in particular transferred” to 1251, he said that was under the direction of the tax planner. When asked how the election amount (between him and 1251 for $129,000) was determined, he said he did not know as his tax planners decided that. Other responses surrounding the issuance of the Same Class of shares were that he did not know or assumed the tax planners did, or they “possibly” knew or they “directed” or “decided” a certain action to take place.
+[94] No plausible explanation was offered as to why he directed and PWR chose to accept the Same Class of shares previously issued to Mr. Wild. Had the Same Class of shares not been issued to PWR in the manner it did and after the Same Class had already been issued to Mr. Wild the previous day, there would have been no share averaging on June 2 and 7 and no increases in PUC for Mr. Wild.
+[95] PUC is computed at the corporate level, however, PUC is relevant to a shareholder on redemption or cancellation of shares or in a non-arm’s length sale of shares under section 84.1. A shareholder would typically demand a separate class of shares to avoid a potential negative impact on share value caused by averaging within a class.[44] Usually, a shareholder wants to retain the full PUC value because a corporation can return the PUC in the amount of the initial investment tax-free to a shareholder as it was made with after tax funds. Yet, here the decision was to issue the Same Class on two occasions triggering the share averaging under subsection 89(1).[45]
+[96] The strategy directed by Mr. Wild, facilitated by indifferent non-arm’s length parties (two of which were newly-created companies), resulted in a five thousand-fold increase in his PUC even though no new capital had been contributed by him to PWR nor 1245. To allow the increase in PUC, would enable payment, without liability for tax by Mr. Wild, of an amount in excess of his initial investment of $110. The overall result made it possible for Mr. Wild to indirectly withdraw part of PWR’s corporate earnings tax-free by using his capital gains exemption to offset a capital gain created as a direct effect of a non-arm’s length share for share exchange. PWR’s existing assets were merely shuffled from one corporate entity to another, leased back to PWR and a FMV of approximately $2.3 million was maintained with no tax consequences. I find that the key features of the appellants’ tax plan were carried out solely with surplus stripping in mind. The key features were not required for the alleged asset-protection objective. Based on the evidence, I find that the reorganization was primarily for the purpose of conveying the tax benefit to Mr. Wild.
+[97] The avoidance transactions achieved an outcome, and in the context of the series of which those were part, that section 84.1 was intended to prevent (individual shareholders in a non-arm’s length share for share exchange convert corporate distributions, that would otherwise be taxed as dividends, into exempt returns of capital by utilizing the capital gains exemption) and defeated its underlying rationale - and the underlying rationale of subsection 89(1) - by misusing the PUC calculation that triggered the share averaging effect.
+[98] It is clear from the key features of the plan the appellants took deliberate steps, in the context of the series, to defeat the application of section 84.1 and what it was intended to prevent by misusing subsection 89(1), and did so in a manner that defeats the object, spirit and purpose of section 84.1 and subsection 89(1). I am of the opinion that the avoidance transactions were applied in an abusive fashion.
+[99] The tax planners that designed the avoidance transactions in the present case relied on different provisions to achieve the desired surplus-stripping results. Albeit the route taken is different than that in Descarries, the result is the same. But for the application of the GAAR, the tax plan succeeded in achieving tax results that section 84.1 was enacted to prevent and defeats its underlying rationale.
+[100] While section 84.1 does not apply to prevent the tax results achieved by the avoidance transactions in the present case because of the appellants’ particular strategy and sequencing, the object, spirit and purpose of section 84.1 is clear. Individual taxpayers should not be allowed to use their capital gains exemption to strip corporate surpluses by entering into non-arm’s length transactions which are similar to those addressed in section 84.1 nor obtain excess PUC tax-free.
+[101] Legislation cannot be drafted that captures all eventualities and particular strategies. In adopting GAAR, Parliament recognized that specific anti-avoidance rules such as section 84.1 often proved to be ineffective in curtailing tax avoidance arrangements considered by Parliament to be abusive. Too many routes may be taken by the ingenuity of tax planners to be blocked by specific anti-avoidance rules such as section 84.1. GAAR was adopted to block abusive arrangements, amongst other things, and to close the gaps that sophisticated tax plans seek to exploit as here. The essence of which is captured as follows:
+Subsection 245(4) of the Act sets out the most significant limitation on the GAAR. As the Technical Notes explain, where a taxpayer carries out a transaction primarily to use the Act’s specific rules to obtain a tax benefit not intended by those rules or by the Act when read as a whole, the GAAR should apply. The Notes go on to state that “this would be the case even though the strict words of the relevant specific provisions may support the tax result sought by the taxpayer. Thus, where applicable, section 245 will override other provisions of the Act since, otherwise, its object and purpose would be defeated”. Moreover, a transaction that does not amount to a misuse of any specific provision may still be deemed abusive having regard to the Act as a whole.[46] (Footnotes omitted)
+[102] In Lipson, Justice LeBel, for the majority, observes that GAAR is a residual rule aimed at addressing the complexity of situations which “fall outside the scope” of specific anti-avoidance rules.[47]
+[103] Before concluding, I respectfully disagree that the decision of Nadeau v Canada[48] assists the respondent and that it is “almost identical to what took place here”. Nadeau predates Canada Trustco, therefore the Court did not have the benefit of the GAAR analysis framework. There was an injection of a $460,000 loan, backed by a guarantee, and interest was paid on the loan. Also, there was no transfer of assets as in the present case. Finally, a statement was made in Nadeau about a general anti-surplus stripping policy but the respondent confirmed that that position is not being advanced in the present case.
+[104] I conclude that the reorganization was undertaken primarily to obtain the tax benefit. I also conclude that key features of the non-arm’s length avoidance transactions, as part of and in the context of the series, achieved a result (extraction of corporate surplus indirectly and use of his exemption) that section 84.1 was intended to prevent and defeats its underlying rationale and did so by misusing the PUC computation in subsection 89(1) to trigger the share averaging thus artificially inflated the PUC in The Shares held by Mr. Wild without any new capital contribution made by him. Therefore, the transactions were undertaken in a manner that defeats the object, spirit and purpose of section 84.1 and 89(1) of the Act and were abusive avoidance transactions within the meaning of subsection 245(4).
+V. Conclusion [105] The Minister has persuaded me that the appellants engaged in abusive tax avoidance. For the foregoing reasons, I conclude that the above avoidance transactions were abusive within the meaning of subsection 245(4) of the Act thus defeated the object, purpose and spirit of section 84.1 and subsection 89(1) of the Act. The Minister properly applied the GAAR to deny the tax benefit.
+[106] The appeals for Mr. Wild’s 2007 taxation year and 1245’s 2008 taxation year are dismissed.
+[107] One set of costs is awarded to the respondent.
+Signed at Ottawa, Canada, this 31st day of March 2017.
+“K. Lyons”
+Lyons J.
+APPENDIX I
+Descarries at paragraph 54
+54. My description of the object, spirit or purpose of this provision is consistent with the presentation made by the Minister of Finance when he proposed amendments to section 84.1 in 1985 during his introduction of the new provisions concerning the capital gain exemption.
+Section 84.1 of the Act is an anti-avoidance rule to prevent the removal of the taxable surpluses of a corporation as a tax-free repayment of capital where there is a non-arm's length transfer of shares by an individual resident in Canada to a corporation. While the purpose of this provision is maintained, both the means by which it is achieved and its scope are being changed as a result of the introduction of the new lifetime capital gains exemption.
+Subsection 84.1(1) of the Act presently applies to deem an immediate capital gain or an adjusted cost base reduction on certain non-arm's length transfers of shares of a corporation resident in Canada to another corporation by a taxpayer resident in Canada other than a corporation. Since the net tax on dividends approximated the tax on capital gains, section 84.1 was designed to discourage the use by corporations of certain techniques for stripping surpluses known as "Valuation Day" strips.
+With the introduction of the capital gains exemption, the existing rules in subsection 84.1(1) are no longer appropriate since the gain on the share transfer may be exempt. Consequently, subsection 84.1(1) is being repealed and replaced by a rule that requires a paid-up capital reduction and, in certain circumstances, the immediate recognition of a dividend on certain non-arm's length transfers of shares to a corporation after May 22, 1985. For these purposes, the non-arm's length test currently contained in subsection 84.1(2) is being maintained. The basic rule under new subsection 84.1(1) is that the maximum amount that can be received by the transferor from the transferee corporation as proceeds in the form of any non-share consideration and the paid‑up capital of the share consideration is restricted to the greater of the paid-up capital of the transferred shares and what could be called the actual non-arm's length adjusted cost base to the transferor of the shares.
+New paragraph 84.1(1)(a) provides for a paid-up capital reduction for each class of shares of the purchaser corporation for which shares were issued as consideration for its acquisition of shares of another corporation. A paid-up capital reduction must be made in the event of an increase in the legal paid-up capital of the shares of the purchaser corporation arising as a result of the share transfer is more than the excess, if any, of the greater of the paid-up capital of the transferred shares and the adjusted cost base, as modified under new paragraph 84.1(2)(a) or (a.1), to the transferor of the transferred shares over the fair market value of any non-share consideration paid by the purchaser corporation as part of the purchase price for the transferred shares. The paid-up capital reduction is divided among the different share classes of the purchaser corporation on the basis of the legal paid-up capital increases occurring as a result of the share transfer.
+New paragraph 84.1(1)(b) treats the purchaser corporation as having paid a dividend to the transferor where the aggregate of the amount of the increase in the legal paid-up capital of its shares arising as a result of the share transfer and the fair market value of the non-share consideration given by it for the transferred shares exceeds the total of
+(a) the greater of the adjusted cost base, modified under new paragraph 84.1(2)(a) or (a.1) to the transferor of the transferred shares and the paid-up capital of the transferred shares, and
+(b) the total paid-up capital reductions required by paragraph 84.1(1)(a) to be made by the purchaser corporation.
+The excess is the amount that will be treated as a dividend.
+[Emphasis added.]
+APPENDIX II - Descarries
+Descarries involved a wind-up of the Oka business and the reduction of deemed dividends by virtue of capital losses generated from later redemptions that shielded capital gains.
+Key features of the transactions
+Exchange of OKA class A common shares for 617,466 preferred shares (“internal rollover”). The internal rollover was entered into to create a capital gain that later would be used to increase the PUC of the Holdco (9149) shares described below. The capital gain is later offset by a capital loss traceable to the tax-free V‑Day value of the shares (the “transitory capital gain”).
+The taxpayers then exchanged their shares in OKA for preferred shares of Holdco. The PUC of the Holdco shares is increased by an amount equal to the transitory capital gain.
+Holdco redeems its preferred shares. Part of the redemption proceeds are distributed as a tax-free return of capital. The share redemptions also had the effect of generating capital losses used to offset the transitory capital gain created on the internal rollover.
+Conclusion
+Justice Hogan concluded that GAAR applied because the appellants succeeded in using their V-Day Value to strip Oka’s surplus in a manner that frustrated the object, spirit or purpose of section 84.1.
+APPENDIX III
+Crown’s Read-ins of Mr. Wild’s answers
+Transcript of Examination for Discovery of Perry Stephen Wild dated March 13, 2015
+237 Q And if I could ask you to turn to tab 72. This is a T2057 Election on Disposition of Property by a Taxpayer to a Taxable Canadian Corporation. It’s three pages, correct?
+…
+242 Q Okay. And if you go to the third page, the last page, you will see that in one of the columns there is an agreed amount, and that agreed amount is $129,000, correct?
+A Yes.
+243 Q And that would result in an amount to be reported, the next column over, of $128,984, correct?
+A Correct.
+244 Q Who determined that that agreed amount would be $129,000?
+A MNP.
+245 Q Do you know how they came up with that number?
+A No, I don’t.
+246 Q Would you undertake to ask MNP how that number was determined, and advise us of their answer?
+COUNSEL FOR THE APPELLANT: We will take that under advisement.
+…
+251 Q If I can ask you to turn to tab 21. This is a list of the assets of P.W. Rentals that were transferred to 125 on June 2, 2007, correct?
+A Correct.
+252 Q Why were these assets in particular transferred?
+A That was under, MNP directed this, but they organized it.
+253 Q So they would know why these assets were transferred, as opposed to other assets?
+A Correct.
+254 Q Would you undertake to ask them how they determined that these assets would be transferred, and advise us of their answer?
+COUNSEL FOR THE APPELLANT: We will take that under advisement.
+…
+BY COUNSEL FOR THE RESPONDENT:
+255 Q Back on the record. And so in both of these transactions, the one on June 1, 2007, and this one on June 2, 2007, 125 exchanged Class C preferred shares, correct? They gave you Class C preferred shares for your common shares of PWR, and they gave P.W. Rentals Class C preferred shares –
+A Yes.
+256 Q -- in exchange for the assets?
+A Yes.
+257 Q Was any consideration given to having 125 issue different classes of shares?
+A Again, that was under the direction of MNP.
+258 Q Can you ask MNP whether they considered having 125 issue separate classes of shares, and advise of their answer?
+COUNSEL FOR THE APPELLANT: We will take that under advisement.
+…
+BY COUNSEL FOR THE RESPONDENT:
+259 Q Can you also ask them why they had 125, for why they recommended you have 125 issue the same class of shares, instead of different classes of shares, and advise of the answer?
+COUNSEL FOR THE APPELLANT: We will take that under advisement.
+…
+BY COUNSEL FOR THE RESPONDENT:
+261 Q 125’s authorized capital at that time consisted of Class C and Class D preferred shares, correct?
+A Yes.
+262 Q Okay. Now the asset protection motivation that you said underpins this whole reorganization wouldn’t have been impacted at all if 125 had issued separate classes of shares in the June 1st and June 2nd transactions, right?
+A Repeat the question?
+COUNSEL FOR THE APPELLANT: Can you answer that?
+THE WITNESS: No, I can’t.
+…
+267 Q Do you know why 125 issued the Class C preferred shares to you, and then to PWR before it redeemed –
+A No, I don’t.
+268 Q -- either of those sets of Class A shares?
+A No, I don’t.
+269 Q And you said before the order of this was recommended to you by MNP?
+A Yes.
+…
+BY COUNSEL FOR THE RESPONDENT:
+271 Q I am going to put it to you that your asset protection objective could have been achieved just as easily if 125 had redeemed one set of those Class C preferred shares before it issued both of them. Do you agree?
+A I don’t know.
+272 Q Would Myers Norris Penny know?
+A Possibly.
+273 Q Can you undertake to ask them, and advise us of the answer?
+COUNSEL FOR THE APPELLANT: We will take that under advisement.
+…
+CITATION:
+2017 TCC 51
+COURT FILE NO.:
+2013-3907(IT)G and 2013-3912(IT)G
+STYLE OF CAUSE:
+1245989 ALBERTA LTD. and HER MAJESTY THE QUEEN
+PERRY WILD and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+January 27, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+March 31, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Jeff D. Pniowsky
+Counsel for the Respondent:
+Margaret McCabe and Justine Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeff D. Pniowsky
+Firm:
+Thompson Dorfman Sweatman LLP
+Barristers and Solicitors
+Winnipeg, Manitoba
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC, 1985 c. 1 (5th Supp).
+[2] Transcript, read-in of examination of discovery of Perry Wild, lines 148 to 153
+[3] Paragraph 27, SoAF.
+[4] Class 8 equipment transferred to 1251. Class 1, Class 10, Class 45 transferred to 1245. Goodwill valued at $167,000 remained with PWR.
+[5] Transcript, read-in of examination of discovery of Kevin Navrot, lines 50 to 52 and 60 to 61.
+[6] The respondent provided examples in submissions where subsection 89(1) applied as intended and provided an example where there was no new injection of capital yet the tax attribute associated with the share was imbued with greater benefits. Thus would be abusive according to the respondent. Hearing Transcript, pages 100 to 104.
+[7] Canada Trustco Mortgage Co. v Canada, 2005 SCC 54, [2005] 2 SCR 601 [Canada Trustco].
+[8] Ibid at para 17.
+[9] Lipson v Canada, 2009 SCC 1, [2009] 1 SCR 3 [Lipson].
+[10] Copthorne Holdings Ltd. v Canada, 2011 SCC 63, [2011] 3 SCR 721 [Copthorne]. Involved the doubling of PUC in an amalgamation and sale of shares context.
+[11] To be a tax benefit, a transaction or series, of which the transaction is a part, it must result in “a reduction, avoidance or deferral of tax or other amount…payable” or “an increase in a refund of tax or other amount” and in either instance it could be under the Act or other relevant tax law. The transaction giving rise to the tax benefit must be an avoidance transaction within the meaning of subsection 245(3).
+[12] The respondent’s authorities indicate that “there has been an exemption for inter-corporate dividends since the beginning of federal income taxation in Canada in 1917”.
+[13] Canada Trustco, supra note 7 at para 43.
+[14] See Gwartz v Canada, 2013 TCC 86, 2013 DTC 1122.
+[15] Lipson, supra note 9 at para 25.
+[16] Copthorne, supra note 10 at paras 69 and 70.
+[17] Canada Trustco, supra note 7 at para 50 and Copthorne, supra note 10 at para 58.
+[18] Appellants’ Written Submissions at para 33.
+[19] Hearing Transcript, pages 40-41.
+[20] Hearing Transcript, page 115.
+[21] Copthorne, supra note 10 at para 72.
+[22] Copthorne, supra note 10 at paras 124 and 125.
+[23] Copthorne, supra note 10 at para 71.
+[24] Canada Trustco, supra note 7 at para 49.
+[25] Canada Trustco, supra note 7 at para 55.
+[26] Stated capital is the amount of consideration received by a corporation on the issuance of its shares.
+[27] The Alberta Business Corporations Act embodies the governing corporate law principles.
+[28] Respondent’s Written Submissions, para 86.
+[29] The averaging effect in the PUC definition applied to the shares of the class mirrors the approach of the stated capital accounts for corporations.
+[30] R. Sullivan, Sullivan on the Construction of Statutes (5th ed. 2008), at pp. 361 and 364.
+[31] Copthorne, supra note 10 at para 1.
+[32] Alternatively, an immediate taxable dividend to the transferor might occur under paragraph 84.1(1)(b).
+[33] Department of Finance, Technical Notes, subsection 85(2.1), (November, 1985).
+[34] Book of Authorities, Tab 19.
+[35] Descarries v Canada, 2014 TCC 75, 2014 DTC 1081 [Descarries].
+[36] The Class C shares, at a future step, will be exchanged for Class E shares and therefore, the Minister’s application of the GAAR only reduces the PUC of the Class E shares.
+[37] The Minister does not take issue with this transaction.
+[38] Canada Trustco, supra note 7 at para 39.
+[39] Copthorne, supra note 10 at para 111.
+[40] Desmarais v Canada, 2006 TCC 44, 2006 DTC 2376 [Desmarais]. At paragraph 32, Justice Archambault stated:
+32 … Parliament intended to prevent stripping of the surpluses of an operating company when the mechanism used for this stripping was similar to that used here by Mr. Desmarais. This was the mechanism he used to receive surpluses from an operating company free of tax following a transfer of the shares of this company to a holding company and, following redemption, out of the surpluses received from the operating company, of the shares issued in consideration of the shares of the operating company.
+[41] Descarries, supra note 35.
+As beneficiaries of the shares of the Oka business, they were to wind-up the Oka. The share attributes comprise of: FMV ($617,466), ACB ($361,658) and PUC ($25,100). A simple wind-up would have resulted in a deemed dividend of $592,000 equal to the FMV of the funds or property distributed less the PUC of the shares. They engaged in three transactions to obtain a more favourable tax result: (1) an internal rollover of Oka’s shares (to increase ACB of the shares); (2) transfer of Class A and B shares of Oka to 9149; (3) redemption of same shares by 9149; (3) redemption of same shares by 9149. Justice Hogan noted, “[h]ad it not been for the internal rollover, the paid-up capital of all of the shares of 9149 would have been limited to $92,040.” The capital losses generated as a result of the later redemptions shielded the capital gain realized on the subsection 85(1) transaction. He concluded that the subsection 84(2) deemed dividends (assessed by the Minister based on a distribution of property on wind-up) did not apply to the series of transactions nor did the GAAR apply in the context of subsection 84(2) (based on the decision in MacDonald v The Queen). The parties were asked for written submissions as to whether the series contravened the GAAR by offending section 84.1.
+[42] Descarries, supra note 35 at paras 53 and 59.
+[43] The appellants submitted that section 84.1 was circumvented because there was an increase in the PUC to an amount corresponding to the new ACB despite the effect of 84.1 such that GAAR was applied because “there is extra PUC not covered under 84.1.” Hearing Transcript, pages 77-81.
+[44] The example illustrated was where taxpayer A invests $100 and taxpayer B invests $200 for the same quantity (100) and class of shares in the same company. The averaging effect causes shareholders A and B to each have PUC of $1.50 for each share notwithstanding taxpayer B’s higher contribution.
+[45] Presumably the low PUC was not a concern to the companies because the section 112 corporate deduction was available.
+[46] Brian M. Studniberg, “Minding the Gap in Tax Interpretation: Does Specificity Oust the General Anti-Avoidance Rule Post-Copthorne?” (2012) 38:1 Queen’s LJ 209 at pages 215 and 216. Provides discussion of competing views.
+[47] Lipson, supra note 9 at paras 21, 26 and 47.
+[48] Nadeau v Canada, 99 DTC 324 [Nadeau]. The Court applied GAAR and upheld the Minister’s determination of a deemed dividend under subsection 84(3) on the redemption of the shares.

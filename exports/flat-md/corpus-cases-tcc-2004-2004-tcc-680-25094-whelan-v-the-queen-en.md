@@ -1,0 +1,221 @@
+---
+title: "Whelan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25094/index.do"
+last_modified: "2004-10-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 680"
+citation2: ""
+neutral_citation: "2004 TCC 680"
+decision_date: "2004-10-08"
+language: "en"
+item_id: "25094"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2503
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:56:53.727000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e633bf61c9d4a1e9c2eb01d610b8c3f1361d15f4e2e26f3cb0e4be4a86346225"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Whelan v. The Queen
+
+- Citation: 2004 TCC 680
+- Decision date: 2004-10-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2503, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whelan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-08
+Neutral citation
+2004 TCC 680
+File numbers
+2004-2554(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2554(IT)I
+BETWEEN:
+GREGORY WHELAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on September 3, 2004 at Saskatoon, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Patrick Loran
+Counsel for the Respondent:
+Lyle Bouvier
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2001 and 2002 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 8th day of October 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC680
+Date: 20041008
+Docket: 2004-2554(IT)I
+BETWEEN:
+GREGORY WHELAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier,J.
+[1] This appeal pursuant to the Informal Procedure was heard at Saskatoon, Saskatchewan on September 3, 2004. The Appellant was the only witness.
+[2] Paragraphs 10 to 20 of the Reply to the Notice of Appeal outline the matters in dispute. They read:
+10. The original Notices of Assessment for the 2001 and 2002 taxation years were dated and mailed to the Appellant on December 9, 2002 for 2001 and April 7, 2003 for 2002.
+11. In assessing the Appellant for the 2001 and 2002 taxation years, the Minister of National Revenue (the "Minister"):
+(a) allowed a deduction for support payments in the amount of $18,200.00 as claimed for 2001; and
+(b) reduced the deduction for support payments by $14,400.00 from $16,800.00 to $2,400.00, for 2002.
+12. In reassessing the Appellant for the 2001 and 2002 taxation years on October 2, 2003 the Minister:
+(a) reduced the deduction for support payments by $1,400.00 from $18,200.00 to $16,800.00, for 2001; and
+(b) increased the deduction for support payments by $13,000.00, from $2,400.00 to $15,400.00, for 2002.
+13. In reassessing the Appellant for the 2001 and 2002 taxation years on November 3, 2003, the Minister:
+(a) reduced the deduction for support payments by $14,400.000 (sic), from $16,800.00 to $2,400.00, for 2001; and
+(b) reduced the deduction for support payments by $14,4000.00 (sic), from $15,400.00 to $1,000.00, for 2002.
+14. The amount of $14,400.00 that was disallowed for each year as stated in paragraph 13 above was for child support that was paid in respect of the children of the marriage. The child support was disallowed as it was paid pursuant to an order made after April 1997.
+15. On January 8, 2004, the Appellant served on the Minister a Notice of Objection to the reassessments for the 2001 and 2002 taxation years dated November 3, 2004.
+16. By Notification of Confirmation dated March 19, 2004, the Minister confirmed the reassessments to the 2001 and 2002 taxation years dated November 3, 2003.
+17. In so reassessing the Appellant for the 2001 and 2002 taxation years and in so confirming the reassessments, the Minister made the following same assumptions of fact:
+(a) the Appellant and Dianne Whelan (the "former spouse") are the parents of five children of their marriage as follows:
+Alison Nicole Whelan, born July 10, 1985 ("Alison)
+Andrea Renee Whelan, born July 10, 1987 ("Andrea")
+August Gregory Whelan, born November 16, 1989 ("August")
+Ashley Marianne Whelan, born March 20, 1991 ("Ashley")
+Andrew Jonathan Michael Whelan, born June 10, 1993 ("Andrew")
+(b) the Appellant and the former spouse are divorced;
+(c) pursuant to a written agreement between the Appellant and the former spouse dated August 31, 1993 (the "Written Agreement"):
+(i) the Appellant agreed to pay the former spouse child support in respect of the children of the marriage in the amount of $1,200.00 per month commencing January 28, 1993; and
+(ii) the Appellant agreed to pay his share of the consolidated debt in the amount of $193.50 directly to the former spouse;
+(d) the child support required to be paid pursuant to the Written Agreement was in respect of the five children of the marriage as stated in paragraph 17(a) above;
+(e) pursuant to a judgment made in the Court of Queen's Bench, Judicial Centre of Saskatoon, on November 27, 1997 (the "Judgment"):
+(i) the former spouse was awarded custody of Andrea, August, Ashley and Andrew;
+(ii) the Appellant was awarded custody of Alison;
+(iii) the Appellant was required to pay to the former spouse child support in respect of the four children of the marriage in the amount of $1,200.00 per month commencing the first day of December, 1997; and
+(iv) the Appellant was required to pay to the former spouse spousal support in the amount of $200.00 per month commencing December 1, 1997;
+(f) pursuant to an Order made in the Court of Queen's Bench, Judicial Centre of Saskatoon, on November 24, 2000 (the "Order") it was ordered that the Judgment be amended to substitute paragraph 2(d) in the Judgment dealing with the issue of child support with the following paragraph:
+"d. The parties acknowledge and recognize a child support agreement entered into between them and dated August 31, 1993 which agreement was to have taken effect January 28, 1993 which provided that the Petitioner was to make child support payments on the first day of each month for so long as the children remain children of the marriage within the meaning of the Divorce Act. The parties acknowledge that all payments made since January 28, 1993 have been made pursuant to the provisions of that agreement and their intention that payments will continue in accordance with that agreement. This Judgment does not amend any of the child support provisions of that agreement.
+(g) pursuant to an amended judgment made in the Court of Queen's Bench, Judicial Centre of Saskatoon, on November 24, 2000 (the "Amended Judgment"), the Judgment was amended pursuant to the Order stated in paragraph 17(f) above;
+(h) on November 11, 2001, the former spouse filed a Notice of Appeal with the Tax Court of Canada;
+(i) the issue to be decided in the Notice of Appeal filed by the former spouse was whether child support payments received by the former spouse in the 1997, 1998 and 1999 taxation years were to be included into income;
+(j) on February 27, 2003, Justice D.W. Beaubier of the Tax Court of Canada issued his judgment in which he allowed the appeal of the former spouse and referred the reassessments back to the Minister of National Revenue for reconsideration and reassessment on the basis that the child support payments were not to be included into the income of the former spouse for the 1997, 1998 and 1999 taxation years;
+(k) in making his decision, Justice D.W. Beaubier held that the definition of "support amount" under subsection 56.1(4) of the Income Tax Act, R.S.C. 1985 (5th Supp.) c. 1, (the "Act") must be read to mean an amount payable or receivable per child. On the basis of this interpretation of the definition of "support amount", Justice D.W. Beaubier further reasoned that there was a "commencement day" within the meaning of the definition under subsection 56.1(4) of the Act since under the Written Agreement, the former spouse received a total support amount of $1,200.00 or $240.00 per month for each of the five children, while under the November 27, 1997 Judgment, the former spouse had custody of only four children and the support amount she received amounted to $300.00 per month per child.
+B. ISSUE TO BE DECIDED
+18. The issue to be decided is whether the Appellant is entitled to a deduction for child support claimed in the amount of $14,400.00 for the 2001 and 2002 taxation years.
+C. STATUTORY PROVISIONS RELIED ON AND RELIEF SOUGHT
+19. He relies on subsections 56.1(4) and 60.1(4) and paragraph 60(b) of the Act as amended for the 2001 and 2002 taxation years.
+20. He submits that there was a "commencement day" within the meaning of the definition under subsection 56.1(4) of the Act since under the Written Agreement the former spouse received a total support amount of $1,200.00 or $240.00 per month for each of the five children, while under the Amended Judgment, the former spouse had custody of only four children and the support amount she received amounted to $300.00 per month per child. Accordingly, he submits that the Appellant is not entitled to a deduction in respect of the child support disallowed in the amount of $14,400.00 for the 2001 and 2002 taxation years as child support payments made after the commencement date are not deductible pursuant to paragraph 60(b) of the Act.
+[3] None of the assumptions in paragraph 17 of the Reply to the Notice of Appeal were refuted by the evidence.
+[4] The original agreement between the husband and wife was filed as Exhibit A-1 and reads:
+AGREEMENT
+Agreed that Greg Whelan will pay Dianne Whelan a lump sum of $1,200. per month in order to provide child support.
+Agreed that this amount will be paid bi-monthly; the second and fourth Thursday of each month. This agreement will take effect on Thursday, January 28th, 1993.
+This agreement was reviewed August 31, 1993.
+Agreed that Greg Whelan will pay his share of the consolidated debt, ($193.50) directly to Dianne Whelen.
+It was agreed as well that this arrangement will be reviewed October 31, 1993.
+Signed: "Gregory Whelan"
+Gregory Whelan
+"Dianne Whelan"
+Dianne Whelan
+Date: "August 31st/93"
+It is not under seal and does not specify the names or number of children. In view of that, and based upon assumptions 17(a) and (e), the Court finds that on August 31, 1993 Gregory did not have custody of Alison Nicole Whelan, born July 10, 1985, until November 27, 1997, the date of the Judgment of Justice M.Y. Carter (Exhibit A-2) which awarded custody of Alison to Gregory (paragraph 2(b)) and which specified that the $1,200 per month "maintenance for the four children of the marriage ..." and continuing "... for so long as the children remain children of the marriage ..." (paragraph 2(d)).
+[5] On November 24, 2000, Laing, J. made an order, (Exhibit A-3), which reads:
+UPON hearing counsel for the Applicant and the Respondent and having read the Affidavits filed by the parties hereto, and the pleadings and proceedings had and taken in the within action and upon beings (sic) satisfied that the only reason that the amounts were included in the original Judgment was simply through inadvertence, I am satisfied the child support payments were intended to continue according to the terms of the Agreement of August 31, 1993 and that the Judgment should reflect this intention.
+THEREFORE IT IS ORDERED THAT:
+1. Pursuant to Queen's Bench Rule 343A, the Judgment in the within matter dated November 27, 1997 be amended to substitute the following paragraph 2d:
+d. The parties acknowledge and recognize a child support agreement entered into between them and dated August 31, 1993 which agreement was to have taken effect January 28, 1993 which provided that the Petitioner was to make child support payments on the first day of each month for so long as the children remain children of the marriage within the meaning of The Divorce Act. The parties acknowledge that all payments made since January 28, 1993 have been made pursuant to the provisions of that agreement and their intention that payments will continue in accordance with that agreement. This Judgment does not amend any of the child support provisions of that agreement.
+2. The issue of spousal support is adjourned to January 26, 2001.
+3. The Application for Variation by Ms. Whelan for variation of child support to reflect the guideline amounts is adjourned sine die to be returned on three days notice by either side.
+[6] It is noteworthy that Laing, J.'s order which is exhibited states that both parties' lawyers appeared before him. This fact is an important difference from my finding in paragraph [3] in this Appellant's former wife's case, Dianne Kim Whelan and the Queen 2002-32(IT)I in which I stated that "there is no clear evidence before this Court that the Appellant or her lawyer were served with the proceedings which led to the amendment" which is quoted in full in Exhibit A-3. Thus the evidence in this case is vitally different than the evidence in Dianne Kim Whelan's case.
+[7] Laing, J.'s order amends Carter, J's judgment to state that "this Judgment does not amend any of the child support provisions of that agreement." Reading that for what it says, the agreement (Exhibit A-1) does not refer to the number of children; it simply describes "a lump sum of $1,200 per month in order to provide child support." There is no reference to the number of children for whom the $1,200 is paid in the agreement (Exhibit A-1) or Laing, J.'s Order (Exhibit A-3).
+[8] Paragraph 56.1(4)(b) of the Income Tax Act reads:
+56.1(4) The definitions in this subsection apply in this section and section 56.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a natural parent.
+[9]"commencement day" at any time of an agreement or order means ...
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+[10](i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+[11] On the evidence before the Court the "child support provisions" of the agreement of August 31, 1993 were not amended; they remained $1,200. However, as described herein, the number of children in the custody of the recipient of child support fell from five to four. Therefore the annual amount per child changed from $2,880 per year to $3,600 per year on the date of Carter, J.'s Judgment, November 27, 1997 while the annual lump sum of child support paid by Gregory remained the same.
+[12] In Miller v. The Queen, [2003] DTC 1449, Mogan, J. stated in paragraphs 9, 10 and 11:
+[9] In the definition of "commencement day", this appeal falls under paragraph (b) because the basic order was not made after April 1997 but on November 15, 1996 (Exhibit R-1). There are four alternatives under paragraph (b). I will consider the first and the last alternative because they are easy to eliminate. If the payor and the payee execute a joint election filed with the Minister in a prescribed form they can elect a commencement day under subparagraph (b)(i). The Appellant and Lola Marie did not execute a joint election. Under subparagraph (b)(iv), the agreement or order can specify a day as the commencement day for the purpose of the Income Tax Act. There is no commencement day specified in the second order. Subparagraphs (b)(i) and (b)(iv) do not apply.
+[10] I am left with the two remaining subparagraphs (b)(ii) and (b)(iii):
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payor, the commencement day of the first such subsequent agreement or order, ...
+There is an obvious similarity between the provisions in (ii) and (iii) because (ii) states "to change the child support amounts" and (iii) states "to change the total child support amounts". Subparagraph (b)(ii) depends on an agreement or order being "varied" whereas subparagraph (b)(iii) depends on a subsequent agreement or order. In this appeal, we have what appears to be a variation because, in the second order, Madam Justice MacKenzie states:
+THIS COURT ORDERS that the order of the Honourable Judge Holmes made November 15, 1996 is varied as follows: (emphasis added)
+Assuming that the order of November 15, 1996 is only "varied", the Appellant is under subparagraph (b)(ii). The second order did not change the child support amounts payable per month per child. The terminology of the two orders is almost the same. The first order of November 1996 used the words "in the sum of $475 per month per child for a total of $1,425 per month". The second order stated "the sum of $475 per month per child for a total of $950 per month". It is perfectly obvious that, if one of the three children has dropped off as no longer a person in respect of whom child support is required, the aggregate amount is going to drop. But that is not what subparagraph (b)(ii) of the definition of "commencement day" is aimed at. Subparagraph (b)(ii) is aimed at whether the varied order will "change the child support amounts payable to the recipient".
+[11] In my view, subparagraph (b)(ii) applies only if a prior agreement or order is varied to change the amount payable per child. In the second order, because Heather (the oldest child) had reached a certain age, or level of education, or had married, or moved out, or whatever, the Appellant was no longer required to pay $475 per month for her after October 5, 1999. He was, however, required by the second order to continue to pay the precise same amount for each of the two younger children that he was ordered to pay by the prior court order of November 15, 1996. As I read the two court orders of November 15, 1996 and December 16, 1999, there is no commencement day with respect to the Appellant and the payments he made to his former wife in 1999, 2000 and 2001. Because there is no commencement day, his entitlement to deduct the monthly payments continues as it was before December 16, 1999.
+(emphasis added)
+[11] Using Mogan, J.'s analysis, these subparagraphs of 56.1(b) which are in question in this case are (ii) and (iii). Laing, J.'s November 24, 2000 order is nunc pro tunc to the judgment of Carter, J. made November 27, 1997.
+[14] This same matter was dealt with by my judgment in Dianne Kim Whelan v. The Queen, 2002-32(IT)I, in which paragraphs [5] to [9] inclusive read as follows:
+[5] The Forms of Order for child support in this case are similar (but not identical) to those for most such Court Orders. They order the monthly amounts to be paid to the Appellant. Subsection 56.1(4) refers to "amounts". The Court interprets the word "amounts" to refer to the monthly payments which are usual in such support Orders and which are which are made on a calendar year basis. However, subsection 56.1(4) refers to a total of individual "child" support amounts. The pre-April 1997 provisions dealt with five children in this case at $1,200 per month equals $240 per month per child. The November 24, 2000 amendment and the November 27, 1997 judgment dealt with four children at $1,200 per month equals $300 per child per month.
+[6] In the Court's view, subsection 56.1(4) must be read by individual "child". Therefore, the monthly payments for the child may vary, but if at the end of the year the total is the same for each individual child, there is no change.
+[7] In this case, however, the total per child changed to $300 times 12 equals $3,600 per year. That has to be the meaning of the Court Orders after April 1997, otherwise the Appellant would continue to receive $1,200 per month when she only had two children or just Andrew, who was born on June 10, 1993, in her custody and all of the other children had gone. Such a meaning is not logical and cannot be the meaning of the Court Orders or the application of subsection 56.1(4).
+In support of this interpretation, it should also be noted that the amending Order of November 24, 2000 refers to the plural "children". Despite its other phraseology, the word "children" in such a Court Order has to refer to the number of children then in the Appellant's custody, namely four.
+[8] As a result, the Court Orders of November 27, 1997 and November 24, 2000 constitute a change and a new Order after April 1997.
+[9] Therefore, the amounts received by the Appellant commencing December 1, 1997 are not to be included by her in computing her income.
+[15] Mogan, J.'s finding in the first sentence of paragraph [11] corresponds with my finding in Dianne Kim Whelan's case. That is, that subparagraph 56.1(4)(b)(ii) applies if the prior agreement is "varied to change the amount payable per child". That is what Carter, J.'s judgment did. Carter, J. reduced the number of children in Dianne's custody from five to four. The lump support amount remained the same - $1,200 per month. But Carter, J.'s judgment, read in total, increased the amount payable per child from $240 per month to $300 per month.
+[16] For this reason the appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 8th day of October 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC680
+COURT FILE NO.:
+2004-2554(IT)I
+STYLE OF CAUSE:
+Gregory Whelan v. The Queen
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+September 3, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+October 8, 2004
+APPEARANCES:
+For the Appellant:
+Patrick Loran
+Counsel for the Respondent:
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Patrick Loran
+Firm:
+McKercher, McKercher & Whitmore
+Saskatoon, Saskatchewan
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

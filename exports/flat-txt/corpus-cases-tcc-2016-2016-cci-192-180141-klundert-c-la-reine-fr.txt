@@ -1,0 +1,123 @@
+Title: Klundert c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180141/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-192-180141-klundert-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-09-07
+
+# Klundert c. La Reine
+
+- Citation: 2016 CCI 192
+- Decision date: 2016-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2880, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Klundert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-09-07
+Référence neutre
+2016 CCI 192
+Numéro de dossier
+2013-3531(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3531(IT)G
+ENTRE :
+ANN KLUNDERT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Avocat de l'appelante :
+Me Peter Blokmanis
+Avocates de l'intimée :
+Me Elizabeth (Lisa) McDonald
+Me Laura Zampano
+ORDONNANCE
+VU QUE l'intimée a présenté une requête visant à obtenir une ordonnance de reconsidération de l'adjudication des dépens dans le présent appel, aux termes du paragraphe 147(7) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »);
+ET VU QUE l'intimée a demandé que les dépens lui soient adjugés;
+ET VU QUE l'appelante s'est opposée à la requête;
+ET VU QUE la requête a été tranchée sur la base des observations écrites des parties, conformément à l'article 69 des Règles;
+ET VU les observations écrites des parties;
+LA COUR ORDONNE :
+1. l'intimée a obtenu gain de cause en grande partie dans le présent appel et les dépens lui sont adjugés;
+2. les parties n'ont pas demandé l'adjudication des dépens de la présente requête, et ceux‑ci ne sont pas adjugés.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2016.
+« V.A. Miller »
+La juge V.A. Miller
+Référence : 2016 CCI 192
+Date : 20160907
+Dossier : 2013-3531(IT)G
+ENTRE :
+ANN KLUNDERT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+La juge V.A. Miller
+[1] Le 26 mai 2016, j'ai rendu un jugement dans le présent appel. Bien que j'aie accueilli l'appel, je n'ai pas adjugé de dépens. Le 16 juin 2016, l'intimée a présenté une requête pour demander que je reconsidère ma décision quant à l'adjudication des dépens en vertu du paragraphe 147(7) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »).
+[2] Dans sa requête, l'intimée s'est fondée sur les motifs suivants :
+a) l'intimée a obtenu gain de cause en grande partie en appel, et l'adjudication des dépens devrait tenir compte de l'issue et du montant en cause;
+b) il existait des facteurs supplémentaires, notamment la complexité des questions en litige et le retard avant que l'audience n'ait lieu, qui justifient l'adjudication des dépens à l'intimée.
+[3] L'appelante s'est opposée à la requête. Elle a affirmé qu'étant donné que chaque partie a eu gain de cause en partie, chaque partie devrait supporter ses propres dépens.
+[4] La présente requête a été tranchée sur la base des observations écrites des parties, conformément à l'article 69 des Règles.
+[5] Je note que le jugement que j'ai rendu le 26 mai 2016 fait l'objet d'un appel.
+[6] Lors de l'audition de l'appel, l'intimée a demandé que l'appel soit rejeté avec dépens. Toutefois, après avoir rendu une décision sur le bien‑fondé de l'appel, je n'ai pas demandé aux parties de déposer d'observations supplémentaires sur les dépens.
+Analyse [7] Je suis d'avis que les observations de l'intimée concernant le retard et la complexité des questions en litige ne sont pas fondées.
+[8] Le présent appel a été interjeté le 20 septembre 2013. Il devait d'abord être entendu le 16 novembre 2015. L'appelante a demandé un ajournement, étant donné qu'elle avait retenu les services d'un nouvel avocat, et l'intimée a consenti à la demande. L'appel a été entendu le 3 février 2016, soit deux mois et demi après la première date fixée. Je conclus que l'appelante n'a pas tardé à poursuivre son appel.
+[9] L'avis d'appel de l'appelante soulevait les quatre questions suivantes :
+a) l'avis de cotisation ne lui a pas été envoyé par la poste en juin 1999;
+b) l'Agence du revenu du Canada (l'« ARC ») a pris des mesures de recouvrement inappropriées;
+c) la cotisation violait ses droits garantis par la Charte canadienne des droits et libertés;
+d) elle détenait les fonds qui lui avaient été transférés en fiducie pour son conjoint. À titre subsidiaire, s'il y avait eu un transfert, elle a versé une contrepartie pour le transfert.
+[10] La question relative à la Charte a été abandonnée au début de l'audience, et j'ai conclu que je n'étais pas régulièrement saisie des questions soulevées aux points a) et b) précités. Toutefois, je suis d'avis qu'une partie ne devrait pas être pénalisée quant aux dépens tout simplement parce qu'elle a soulevé des questions qu'elle a abandonnées ou pour lesquelles elle n'a pas obtenu gain de cause : RMM Canadian Enterprises Inc. c. La Reine, [1997] A.C.I. no 445 (QL) (C.C.I.), au paragraphe 5.
+[11] Je note que l'intimée n'a pas jugé que les questions soulevées aux points a) et b) étaient futiles ou insoutenables. Elle a fait témoigner un agent de recouvrement de l'ARC pour réfuter les prétentions de l'appelante à l'égard de ces questions.
+[12] L'appelante a réussi à démontrer qu'elle avait versé une contrepartie pour le transfert des fonds à son compte bancaire. Elle a présenté une preuve documentaire démontrant qu'elle avait payé des dépenses d'entreprise de son conjoint s'élevant à 3 614,51 $. L'appel a été accueilli pour ce motif.
+[13] Cependant, la position de l'intimée selon laquelle j'aurais dû tenir compte du montant en litige au moment de rendre ma décision concernant les dépens est fondée.
+[14] La cotisation établie contre l'appelante s'élevait à 959 403,03 $. Toutefois, au moment de l'audition du présent appel, le montant exigible en vertu de l'article 160 et le montant en litige s'élevait à 145 367,12 $.
+[15] Lorsque je tiens compte du montant en litige, je conclus que l'intimée a obtenu gain de cause en grande partie. Dans les circonstances, j'ai reconsidéré ma décision et j'adjuge les dépens à l'intimée.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2016.
+« V.A. Miller »
+La juge V.A. Miller
+RÉFÉRENCE :
+2016 CCI 192
+NO DU DOSSIER DE LA COUR :
+2013-3531(IT)G
+INTITULÉ :
+ANN KLUNDERT c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Requête présentée par voie d'observations écrites
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Valerie Miller
+DATE DE L'ORDONNANCE :
+Le 7 septembre 2016
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Peter Blokmanis
+Avocates de l'intimée :
+Me Elizabeth (Lisa) McDonald
+Me Laura Zampano
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Peter Blokmanis
+Cabinet :
+Blokmanis Legal Defence
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

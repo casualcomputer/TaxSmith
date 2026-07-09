@@ -1,0 +1,268 @@
+---
+title: "Shahmohammadian v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29336/index.do"
+last_modified: "2009-02-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 184"
+citation2: ""
+neutral_citation: "2009 TCC 184"
+decision_date: "2009-02-09"
+language: "en"
+item_id: "29336"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7045
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:35:20.694000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "712b1350036e3c5c5758b7b32bf0ca763ed840d2779f9331bff447ac2cdf4d50"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shahmohammadian v. M.N.R.
+
+- Citation: 2009 TCC 184
+- Decision date: 2009-02-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7045, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shahmohammadian v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-09
+Neutral citation
+2009 TCC 184
+File numbers
+2008-2993(CPP), 2008-2994(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Canada Pension Plan
+Decision Content
+Citation: 2009 TCC 184
+Dockets: 2008-2993(CPP);
+2008-2994(EI)
+BETWEEN:
+FARAHNAZ SHAHMOHAMMADIAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ATLAS TRAVEL & HOLIDAYS INC.,
+Intervener.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at
+Toronto ,
+Ontario
+, on February 9, 2009, be filed.
+“N. Weisman”
+Weisman D.J.
+Signed in
+Toronto ,
+Ontario
+, this 22nd day of April 2009.
+Court File Nos. 2008-2993(CPP)
+2008-2994(EI)
+TAX COURT OF CANADA
+IN RE: the
+Canada
+Pension Plan and the Employment Insurance Act
+BETWEEN:
+FARAHNAZ SHAHMOHAMMADIAN
+Appellant
+- and -
+THE MINISTER OF NATIONAL REVENUE
+Respondent
+- and -
+ATLAS TRAVEL & HOLIDAYS INC.
+Intervener
+ORAL REASONS OF THE HONOURABLE MR. JUSTICE WEISMAN
+in the Courts Administration Service,
+Federal Judicial Centre,
+180 Queen Street West
+,
+Toronto ,
+Ontario
+on Monday, February 9, 2009 at 4:12 p.m.
+APPEARANCES:
+Ms Farinaz Shahi (formerly Farahnaz Shahmohammadian) self-represented Appellant
+Mr. Ryan Clements (student-at-law) for the Respondent
+Ms Lorraine Edinboro
+Also Present:
+Mr. Michel Lortie Court Registrar
+Mr. Robert Lee Court Reporter
+A.S.A.P. Reporting Services Inc. © 2009
+200
+Elgin
+Street, Suite
+1105 130 King Street West, Suite 1800
+Ottawa ,
+Ontario
+K2P 1L5
+Toronto ,
+Ontario
+M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto
+,
+Ontario
+--- Upon commencing the Oral Reasons on Monday,
+February 9, 2009 at 4:12 p.m.
+JUSTICE WEISMAN: Farinaz Shahi appeals against two determinations by the respondent Minister of National Revenue (the “Minister”)that she was an independent contractor under a contract for services while engaged as a travel agent by the intervener, Atlas Travel & Holidays, from January 1, 2007 to December 31, 2007, which hereinafter will be referred to as the period under review.
+The rulings officer originally decided that the appellant was an employee under a contract of service during the period under review, but the Minister reversed that position upon appeal by Atlas Travel. The present appellant now takes issue with that earlier conclusion, appeals to this Court, and Atlas appears as intervener.
+In order to determine whether a worker was an employee under a contract of service or an independent contractor carrying on business on his or her own account during the period under review the total relationship between the parties must be examined, utilizing the four in one guidelines established by the Federal Court of Appeal in Wiebe Door Services Incorporated v. M.N.R., which is cited at (1986), 87 DTC 5025, namely, the right to control, the ownership of tools, and the worker
+' s chance of profit and risk of loss in her working relationship with the intervener.
+Adverting first to the control guideline, Exhibit R-1, which I believe the Registrar has, is the respondent
+' s book of documents. Tab 4 contains one of two contracts executed by the parties, and they are both executed, I believe, on the same day, which is May 7, 2006.
+Page 7, which is on page 48 of the respondent
+' s book of documents, has a list of the responsibilities of the inside sales administrator, who is the appellant before the Court. Without reading word for word the many responsibilities which extend to page 48 and right through to almost the whole of 49, it says that:
+"The consultant ... "
+-- namely the appellant, or the inside sales and administrator --
+" ... shall ... "
+-- which is directory, as opposed to may, which is discretionary:
+(a) solicit new accounts; (c) be aware of the standards and policies of the agency as may be provided in writing; (d)(i) direct any monies straight to the agency; (d)(ii), with reference to any promotional material, that it must identify only the agency."
+Paragraph (e) provides for one of several indemnities by the inside sales person of the appellant; (f) says that approval of any credit arrangements is required before the inside salesperson is allowed to finalize any such arrangements.
+Subparagraph (g): -There must be timely written reports detailing all solicitations and sales made or expected, and corporations and individuals visited.
+Subparagraph (h), the consultant has to confer with the appellant
+' s designated person or persons to determine and ascertain the current forecasts, problem areas requiring backup and monitoring of new accounts. Subparagraph (i) forbids them to deal with agency or house accounts, either existing or under negotiation. You are further not allowed to bind the agency by incurring expenses and they could not contract without agency consent, again, another indemnity if they defaulted in that clause.
+And (f), another indemnity: they have to indemnify the appellant if any Court such as myself holds the inside sales administrator to be an employee, despite agreement to the contrary.
+On page 78, there is a provision for the intervener to pay for the appellant
+' s business cards. I will interject here that I find that particular provision of no probative value, because there is jurisprudence, and I believe it is in Wolf, that virtually no weight is given by the courts to who pays for the business cards or such things as business cards.
+There is also a provision covering hotel cancellation fees. Whenever there was a loss that was a mistake of the consultant for which the consultant was responsible, they would be responsible for payment, reimbursing the intervener for that mistake. The evidence of the appellant was that she had a choice; she could either accept that sort of restrictive provision or quit. As a matter of fact, it was her testimony that as a result of her speaking up with reference to several issues, she was terminated.
+I concluded from the evidence that there was a considerable amount of control exercised by the intervener over the appellant by this agreement. Then, when I couple that with the evidence that I heard by the appellant, which was really not disagreed with in any major respect by the intervener, that the appellant had to abide by a schedule of shifts that she had possession, not only of a key to the premises, the business premises, but she had the security code, which is unusual for an independent contractor, that she had a duty to open and close the premises when she was either on the first shift or on the last shift, that the impression of control was reinforced.
+In the evidence covered by the appellant, I believe it was assumption 9(k) that she specifically demolished; it assumes that she could quote higher fees, or could discount. The evidence did not accord with that. The evidence that I accept is that she could certainly quote higher fees but, when it came to giving discounts, she would need the prior approval of the intervener. When I questioned the intervener in that regard, her evidence was less than clear as to what her cost was that was not to be exceeded by the commissioned salesperson. In any event, I was satisfied that the evidence demolished that assumption; there was sort of a one-way freedom, if I may refer to it as such.
+Now what is interesting from the legal point of view is that even with independent contractors, the law permits a certain amount of monitoring; one, just because they are an independent contractor, is not free to do whatever they want. The person engaging them has the right to monitor the quality of their work or that they in fact complied with the terms of the agreement.
+Then that brings us into this series of cases that says roughly that. You start with Charbonneau v. M.N.R., [1996] FCJ No. 1337, in the Federal Court of Appeal; one must not confuse controlling the worker with monitoring the result.
+The question that one such as myself has to bear in mind is that even though there are rules, are they rules that are necessary for the orderly running of this business or do they go over the line into the area of control? That indeed is the main issue that I watched as the evidence came in so far as the control issue was concerned.
+As I said, there was a series of cases. They start off which Charbonneau, but then you have City Water v. M.N.R., [2006] FCA 350, in the Federal Court of Appeal, which relies upon Livreur Plus Inc. v. M.N.R., [2004] FCJ No. 267. Livreur Plus Inc., in paragraph 19, says:
+"The Court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it."
+I think having a schedule of shifts is certainly reasonable, whether you are dealing with employees or independent contractors because the business day has to be covered by salespeople. Some people are going to have to take the early shift whether or not they like it and, other people, the late shift.
+The Québec Civil Code in Article 2099 speaks slightly different language. It says that the essence, the essential feature, of an employee is that they are in a relationship of subordination with the employer. I have always found that a useful addition to common-law principles when trying to decide whether or not a person is an employee or an independent contractor.
+The issue in this case, is there a relationship of subordination? -- I might say that that word first came to my attention in Charbonneau, which I have already quoted. I have decided that yes, I do think that the appellant in these proceedings was in a relationship of subordination with the intervener mainly because she was working inside, under the intervener
+' s roof, in the intervener
+' s business premises. She was not free to come and go as she pleased. She had these many contractual responsibilities. She had to actually open the shop if she was on that shift and she had to close it if she was on a late shift. While I have indicated that on the one hand it seems reasonable in order to run an orderly business where a client
+' s needs are met, whether they come in early in the morning or late at night, it nevertheless is indicative that there was a lack of independence in the appellant. There was a degree of subordination and therefore I conclude that the control factor on these facts tends to indicate that the appellant was an employee under a contract of service.
+The second criterion or guideline was the ownership of tools. Since the appellant was an inside salesperson, the intervener provided all the space and the tools and the desk and the telephones and the computer and its software and the specialized ticket-issuing software that she required to do her job. Indeed, there is evidence that she brought with her her headphones, her cell phone headset and her phone book. But there is no question that the bulk of the tools necessary to do the job were provided by the intervener.
+When I say provided, I have to go on and say that they were provided at a cost of 50 percent of the appellant
+' s commissions; in other words, she was paying for all those tools. It can in no way be said that the tools were something that was given to her by the payer which otherwise would indicate that she was an employee, it is very clear that because she paid heavily – 50 percent of her commissions – for the various services, including the tools, that the tools factor indicates that she was an independent contractor; briefly, employees do not have to pay for their desks and supplies.
+That brings me to the chance of profit. Since the appellant was a commissioned salesperson, clearly the more she sold the more she earned. She can enhance her earnings by sound management, by gaining a good reputation, by the use of expertise. By her knowledge of both the Turkish and Farsi languages, she could expand her client base. She could and indeed did advertise and she used her cellular phone even though she had access to the company phone, which leads to the inference that that was being used on weekends to contact her clients. All that indicates that she was in the position to profit by sound management, and profit in a business sense in that she could, by her efforts and sound management ensure that her business income exceeded her business expenses.
+Indeed, we have learned rather late in the proceedings, from Mr. Behman Mehdizadeh, that she was free to sell wholesale because it did not conflict with the interests of the appellant who only dealt in retail. So she could sell hotels or automobile rentals to other agents on a wholesale basis which, again, would enhance her chance of profit. The chance of profit factor indicates that she was an independent contractor.
+Risk of loss: I have already said that one must be careful as a payer in view of the law not to be too controlling because there is a risk of going over the line and having some finder of fact conclude that there was a relationship of subordination here rather than of independence. In a similar vein, the written agreement between the parties provides for numerous payments that had to be made by the appellant to the intervener starting, of course, with the 50 percent of her commissions, whether or not the appellant collected them from the customer or client; that is paragraph 5.9.
+In my view, that is rather a restrictive and onerous clause, but that is not really my interest at this stage. My interest is that it constitutes a risk of loss; she is bearing the burden by contract of bad debts, unusual for an employee.
+In her submissions, the appellant tried to establish that she, contrary to the Minister
+' s assumption in that regard, did not have the right to refuse to service any particular client and turn him or her over to another salesperson. The law is that the Minister
+' s assumptions are deemed to be true unless they are demolished by evidence given by the appellant, and there was nothing during the hearing that demolished that assumption. Therefore, I have to conclude that it was true.
+There are ramifications to that because this right of refusal is specifically referred to in cases such as Precision Gutters, at paragraph 27, where the Court says:
+"In my view, the ability to negotiate the terms of a contract entails a chance of profit and risk of loss in the same way that allowing an individual the right to accept or decline to take a job entails a chance of profit and a risk of loss."
+I might digress because my notes indicated that very early on in her evidence the appellant stated that she went into the office and she negotiated the contract that she ultimately signed. On the one hand she says it was negotiated, on the other hand, she says, "I had a choice either of taking it or of going elsewhere." But that admission, that it was negotiated, fits right in with paragraph 27 of Precision Gutters; when one negotiates a contract, that not only is a sign of independence but it also constitutes a chance of profit and a risk of loss. I believe that was assumption 9(v) that was not demolished.
+Similarly, assumption 9(w), she had expenses; there was no evidence demolishing that. Subparagraph 9(y) stands up, that she had to fix any errors that she made on her own time and expense, another risk of loss, as was paragraph 9(aa) – cheques returned for non‑sufficient funds. She bore the risk of that, which brings me to ; 671122
+Ontario
+Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No.61, Justice Major says:
+"In terms of a risk of loss or an opportunity for profit, Landow and AIM ... "
+-- which were the parties in
+Sagaz --
+" ... worked on commission on sales of Sagaz
+' s products. As such, the risk of loss and the opportunity for profit depended on whether AIM
+' s expenses (such as travel expenses) exceeded its commissions."
+Here we have the Supreme Court of Canada adverting specifically to commission salespersons, which the appellant was. This review of the various potential liabilities and actual expenses and the risk of loss that she had as a commissioned salesman all indicate that there was a substantial risk of loss, which points towards her being an independent contractor.
+The final factor that I am obliged to canvass is the total relationship between the parties. Before I do, I wanted to mention something about credibility. The appellant spent considerable time, as is her right, cross-examining the witness for the intervener. I would assess the tenor of virtually all the questions as an endeavour to impeach the witness
+' s credibility. However, the issues raised, rather than being of central importance so far as the four in one guidelines set down in Wiebe Door are concerned, they seemed to me to be more emotional issues that troubled the appellant, such as whether or not the desk fee was explicitly set out as an expense to the appellant in the agreement, or was it assumed to be part of the 50 percent deducted from her commissions and whether or not she used her cell phone on weekends, whether or not she was trained on ticketing by the intervener, whether it was four months after she started, or seven, when she took her vacation, the number of desks that there were and whether or not an outside agency would use them.
+My general conclusion was that line of cross-examination had the opposite effect to that intended by the appellant because Ms Mohajer, one of the two witnesses for the intervener, turned out to be very knowledgeable, to have a very good recall of events. She was fair in her testimony. Overall, the series of questions tended to enhance her credibility rather than detract from it.
+Let me now advert to the final relevant consideration which is really what the whole investigation of control and ownership of tools and chance of profit and risk of loss are in service of discovering, which is the total relationship of the parties.
+The first thing I would mention is that it, early on, was clear that the appellant filed her income tax return as an independent contractor, deducting business expenses. It turned out that she deducted a total of $8,781.50 from her business income; advertising, $368.00; meals and entertainment, $2,453.50; office expenses, $127.00; supplies, $159.00; auto expense, $2,193.00; phone expense, $772.00; other expenses, $2,709.00, being made up of clothing of $1,989.00, and then other expenses of $608.00, $112.00 for a computer and finally home expenses of $1,464.70.
+There are two things to be said about that. The first is it does not enhance one
+' s credibility when, on the one hand, they file income tax returns as an independent contractor and claim the benefit of deducting allowable amounts under the Income Tax Act and then, on the other hand, when they want to receive maternity benefits, they become an employee and apply for those benefits.
+But, more important, the jurisprudence indicates that when one files their income tax return as an independent contractor, as a person in business on their own account, that is an indication of their intention in the working relationship between them and the payer to be an independent contractor.
+I would quote paragraph 75 of Combined Insurance Co. of America v. M.N.R., [2007] FCJ No. 124. The fact that in her 2003 taxation year the respondent was regarded as a self-employed worker and at that time deducted from her income the expenses she had incurred is in my view indicative of her understanding of the contracts she had concluded with the appellant.
+Another factor in the total relationship is that the evidence is that she had clients of her own that she brought with her to the intervener when she changed positions. That is significant because she had people, in other words, who were loyal to her, which is goodwill in an accounting sense, and which she had the ability to enhance by sound management.
+I also note that very early on in her Notice of Appeal it was evident that she had a certain amount of -- when I say she, the appellant, had a certain amount of resentment at having to open the premises at 9:00 when she had the early shift, and lock them up -- I am sorry, open them at 8:00, when she had an early shift, and locking them up at 8:00 when had the late shift when, in her view, that was more of a duty of Ms Mohajer, who had the liberty of not getting up early in the morning or staying late at night to accomplish those tasks.
+The other piece of evidence that was of interest was the mystery with reference to two contracts, both executed by both parties, both dated the same day, but one having a very important clause, guaranteeing the appellant the thousand dollars a month salary and the other not.
+But I decided not to give any weight to that discrepancy because, as was pointed out in the evidence, her commissions were sufficient in the two years that she worked with the intervener that at no time did she complain or make an issue or go to any tribunal about this supposedly missing thousand dollars. I concluded that she abandoned it.
+In fairness to the appellant, the evidence did disclose two facts in the parties
+' relationship that were not consistent with the appellant being an independent contractor. The first was the letter dated December 20, 2007 from the intervener, Atlas, giving her $1,050.00, being two weeks
+' pay in lieu of notice. It is clear that independent contractors do not get pay in lieu of notice.
+That was partially explained by Ms Mohajer in her testimony, that there was a lot of confusion at that time and she was tired and it was a gesture of goodwill; it was two weeks before Christmas and she did not want to see the appellant go through that Christmas period with no funds. But, nevertheless, that is not something that enhances the intervener
+' s position. Indeed, she acknowledged in the box that she made a mistake.
+The other thing is the wording in the contract about which I queried the intervener; this is clause 5.1 in tab 4 of Exhibit 1. It talks about what the 50 percent is for. Item 1 is "source-deducted commissions collected." That phraseology intrigued me from the beginning because the position of the intervener is that she agreed from the beginning that there would be no deductions at source. The witness for the intervener explained that that is not what source deductions means; that source deductions have a different meaning in the airline industry than they do in tax law. While the common understanding in this Court is that source deductions refers to income tax and Canada Pension Plan contributions and employment insurance premiums, in the airline industry, it is talking about gross sales commissions less 50 percent source deductions for desks, et cetera; I was inclined to find that credible.
+As I say, while at first blush it did not look to be consistent with an independent contractor status, I was satisfied with the intervener
+' s explanation.
+In the result, the control factor in my view tends to indicate that the appellant was an employee; the tools, chance of profit and risk-of-loss factors indicate that she was an independent contractor. Three out of the four factors indicate that she was an independent contractor. As was the case in my decision in 126873 Ontario Ltd. (c.o.b. Autopark Superstore) v. M.N.R., [2007] TCC 442, I think the most important factors of all the Wiebe Door guidelines are the chance of profit and risk of loss, and they are so abundantly clear in this particular situation of a commission salesperson that they are to be given more weight in this case than the control factor.
+As we know in these proceedings the burden is on the appellant to demolish the assumptions contained in the Minister
+' s Reply to her Notice of Appeal. I found that only one was successfully demolished by the evidence, and that was 9(k), whether or not she could grant discounts without prior approval of the payer; the remaining assumptions were sufficient to support the Minister
+' s determinations.
+That finding is necessary as laid down by the Federal Court of Appeal in Jencan Ltd. Offhand, I do not have that citation. But if anybody really needs it, I can provide it. No, I do not have it.
+I have investigated all the facts with the parties and the witnesses called on the appellant
+' s behalf, and testified under oath for the first time, as well as the witnesses called on the intervener
+' s behalf, and I found no new facts and nothing to indicate that the facts inferred or relied upon by the Minister were unreal or incorrectly assessed or misunderstood.
+I find that the appellant was in business on her own account as a commissioned, inside travel agent. The Minister
+' s conclusions are accordingly objectively reasonable.
+As a result, I must dismiss both appeals and confirm the decisions of the Minister.
+The last comment I would like to make, with some pleasure, is with reference to Mr. Clements. Mr. Clements has conducted himself in this Court, and his demeanour and poise were commensurate with someone with many more years before the Bar than Mr. Clements has. It was a pleasure to listen to him. I congratulate you.
+I will recess Court till 9:30 on Wednesday morning.
+THE REGISTRAR: This hearing is now closed for today and will resume here again on Wednesday, at 9:30.
+--- Whereupon the hearing concluded at 5:03 p.m.
+I HEREBY CERTIFY THAT I have, to the best
+of my skill and ability, accurately recorded
+by Stenomask and transcribed therefrom, the
+foregoing proceeding.
+Robert Lee, Certified Court Reporter
+CITATION:
+2009 TCC 184
+COURT FILE NOS.:
+2008-2993(CPP)
+2008-2994(EI)
+STYLE OF CAUSE:
+Farahnaz Shahmohammadian and The Minister of National Revenue and Atlas Travel & Holidays Inc.
+PLACE OF HEARING:
+Toronto
+,
+Ontario
+DATE OF HEARING:
+February 9, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable
+N. Weisman , Deputy Judge
+DATE OF ORAL JUDGMENT:
+February 9, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Agent for the Intervener:
+Lorraine
+A. Edinboro and
+Ryan Clements (Student-at-Law)
+Azita Azin Mohajer
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of
+Canada
+Ottawa
+,
+Canada

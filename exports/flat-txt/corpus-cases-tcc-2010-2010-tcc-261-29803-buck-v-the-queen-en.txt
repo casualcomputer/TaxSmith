@@ -1,0 +1,116 @@
+Title: Buck v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29803/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-261-29803-buck-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-05-11
+
+# Buck v. The Queen
+
+- Citation: 2010 TCC 261
+- Decision date: 2010-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6609, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Buck v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-11
+Neutral citation
+2010 TCC 261
+File numbers
+2009-853(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-853(IT)I
+BETWEEN:
+DARRYL BUCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 26 and 27, 2010, and decision rendered orally
+on April 28, 2009, at North Bay, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Gregory J. Ducharme
+Counsel for the Respondent:
+Mélanie Sauriol
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2004 and 2005 taxation years are allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the benefits to be assessed to the Appellant under subsection 15(1) of the Act are $3,640 in 2004 and $7,790 in 2005.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada, this 11th day of May 2010.
+“E.A. Bowie”
+Bowie J.
+Citation: 2010 TCC 261
+Date: 20100511
+Docket: 2009-853(IT)I
+BETWEEN:
+DARRYL BUCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] I gave Judgment orally in this informal appeal on April 28, 2010. At that time, I invited the parties to make written submissions as to costs, which they have now done.
+[2] The Notice of Appeal put into question the reassessment of the Appellant under the Income Tax Act for the years 2004 and 2005. Specifically, it challenged the addition of the following amounts to the Appellant’s income:
+2004
+2005
+Automobile stand-by charge
+$4,757
+$4,757
+Automobile operating costs
+1,217
+1,432
+5,974
+6,189
+Wages paid to the appellant’s children (shareholder benefit)
+10,920
+23,370
+$16,894
+$29,559
+[3] The trial began on April 26, 2010. On Wednesday, Aril 21, the Appellant’s counsel advised the respondent’s counsel that the issue of automobile benefits would be abandoned at trial, and at the opening of the trial on April 26, he advised the Court accordingly. The matter proceeded with respect to the children’s wages (shareholder benefit) only, and was concluded on Tuesday, April 27. On April 28, I gave judgment reducing the benefit assessed to $3,640 for 2004 and $7,790 for 2005, a total of $11,430.
+[4] The appellant seeks costs, on the basis that he was successful to the extent of 66 2/3% of the amount of income at issue once the automobile benefit issue was no longer in contention. He goes on to argue that even if the automobile issue is taken into account, his degree of success is 49.2% and that is sufficient to entitle him to costs of the appeals.
+[5] The provision governing the awarding of costs in informal procedure income tax appeals is the Tax Court of Canada Act, section 18.26:
+18.26(1) The Court may, subject to the rules, award costs. In particular, the Court may award costs to the appellant if the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one half.
+18.26(2) …
+Section 2.1 defines the expression “the aggregate of all amounts”.
+2.1 For the purposes of this Act, “the aggregate of all amounts” means the total of all amounts assessed or determined by the Minister of National Revenue under the Income Tax Act, but does not include any amount of interest or any amount of loss determined by that Minister.
+[6] As is frequently the case, neither the assessments nor the returns filed by the Appellant are before me. As a result, the amounts of tax assessed by the Minister are not known to me. All that is known are the amounts of the benefits on which the reassessments are based, and the results of these appeals. All I can do in these circumstances is to assume that the reduction in tax assessed will be in the same proportion as the reduction of the benefits assessed.
+[7] In my view, the determination of the aggregate of all amounts in issue should be based on the pleadings as they stand at the opening of the hearing. On that basis, the amount added to the appellant’s income by the reassessment process was $46,453. The judgment reduces this by $22,860, which is 49.2%.
+[8] The appellant who seeks costs under subsection 18.26(1) has the onus of establishing that the reduction in the aggregate of all amounts in issue is more than one-half. I cannot reach that conclusion on the evidence before me. The parties shall each bear their own costs.
+Signed at Ottawa, Canada, this 11th day of May, 2010.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2010 TCC 261
+COURT FILE NO.: 2009-853(IT)I
+STYLE OF CAUSE: DARRYL BUCK and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: North Bay, Ontario
+DATE OF HEARING: April 26, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: May 11, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Gregory J. Ducharme
+Counsel for the Respondent:
+Mélanie Sauriol
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gregory J. Ducharme
+Firm: Wallace Klein Partners in Law LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

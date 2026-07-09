@@ -1,0 +1,185 @@
+Title: Flikkema v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27285/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-202-27285-flikkema-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-03-29
+
+# Flikkema v. The Queen
+
+- Citation: 2006 CCI 202
+- Decision date: 2006-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 892, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Flikkema v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-29
+Référence neutre
+2006 CCI 202
+Numéro de dossier
+2002-4683(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+2002-4683(IT)G
+ENTRE :
+MIKE FLIKKEMA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 22 mars 2006, à Niagara-on-the-Lake (Ontario)
+Devant : L'honorable juge E. A. Bowie
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Brianna Caryll
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est admis, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que le revenu de l'appelant doit être réduit de 2 151,83 $ et que l'impôt, l'intérêt et la pénalité à payer doivent être rajustés en conséquence. L'intimée a droit à ses dépens.
+Signé à Ottawa, Canada, ce 29e jour de mars 2006.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 18e jour de septembre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI202
+Date : 20060329
+Dossier : 2002-4683(IT)G
+ENTRE :
+MIKE FLIKKEMA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] La question en litige en l'espèce concerne l'impôt sur le revenu, l'intérêt et la pénalité établie en application du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ) que l'appelant doit payer. L'appelant a choisi de se représenter lui-même lors de l'audition de son appel, quoique je lui aie permis de se faire aider par sa femme, laquelle effectuait la tenue des documents financiers qu'il avait pour son entreprise pendant la période visée. Dans le cadre de son entreprise, l'appelant effectue l'achat, l'élevage et la vente d'oiseaux exotiques. L'année d'imposition visée par l'appel est l'année 1998. L'appelant et sa femme ont tous deux témoigné. L'enquêteur qui a établi la nouvelle cotisation visée par l'appel et l'agent des appels ont tous deux témoigné pour l'intimée.
+[2] Au début de l'audience, l'appelant a demandé que j'ajourne l'audience en faisant valoir qu'il était venu en pensant qu'il y aurait une rencontre avec l'avocate de l'intimée et non pas l'instruction de son appel et qu'il n'était donc pas prêt à présenter sa cause. J'ai refusé la demande d'ajournement, essentiellement pour les raisons indiquées au paragraphe 5 du jugement que j'ai rendu dans l'affaire Solomons c. La Reine[1] :
+Certains ajournements sont nécessaires dans l'intérêt de la justice pour cause de facteurs qui ne sont ni prévisibles, ni évitables. Les gens peuvent tomber malades, les témoins peuvent parfois justifier leur absence, d'autres procès peuvent empêcher les parties ou leur avocat de se présenter à l'heure fixée. Toutefois, il n'en est pas ainsi dans le cas présent. Je comprends qu'il y avait peut-être des négociations visant un règlement qui se sont poursuivies jusqu'à la fin de la semaine passée. Cela se produit souvent, mais il incombe aux parties et à leurs avocats d'être prêts à présenter leur cause à la date établie. C'est pour faciliter la tâche des avocats et des parties que cette cour fixe les dates des procès des mois à l'avance, afin de leur éviter d'avoir à comparaître très rapidement comme c'est le cas dans d'autres cours. Le revers de la médaille, c'est qu'ils doivent faire ce qu'il faut pour être prêts à la date fixée. Les parties qui décident de mener leurs propres affaires sans avocat dans l'espoir de parvenir à un règlement avant le procès s'exposent au risque d'avoir à comparaître sans avocat. Elles ne peuvent s'attendre à ce que la Cour leur accorde un ajournement, gaspillant ainsi les ressources de la Cour pour le temps alloué à leur cause, sous prétexte que les négociations en vue d'un règlement ont échoué. Cette cour a un arriéré considérable d'appels selon la procédure informelle qui attendent des dates d'audience à Toronto. On pourrait profiter de chaque journée gaspillée pour statuer sur trois ou quatre de ces affaires. La raison proposée par l'appelant pour demander l'ajournement de ce procès ne pèse pas lourd dans la balance, comparativement à l'intérêt public dans une utilisation efficace des ressources de la Cour, qui comprend notamment la fixation de dates d'audience pour les appelants dont la cause figure dans l'arriéré des affaires selon la procédure informelle. Je vais maintenant traiter du fond de l'affaire.
+Même si M. Flikkema n'a pas indiqué qu'il avait l'intention de retenir les services d'un avocat si l'audience était ajournée, sa position n'était pas différente de celle de M. Solomons : il n'était pas prêt à présenter sa cause, malgré le fait que plus de trois années s'étaient écoulées depuis le dépôt de son avis d'appel et que l'ordonnance fixant la date de l'audience avait été rendue il y a plus de trois mois.
+[3] En l'espèce, les éléments sur lesquels le ministre du Revenu national s'est fondé pour calculer le montant de revenu supplémentaire à inclure sont établis clairement dans les hypothèses invoquées. Je les reproduirai donc ci-dessous :
+[TRADUCTION]
+a) Au cours de l'année d'imposition 1998, l'appelant a exploité une entreprise d'importation et d'exportation d'oiseaux exotiques. L'entreprise était exploitée sous la raison sociale « Flikkema Aviaries » .
+b) Pour l'année d'imposition 1998, l'appelant a déclaré avoir tiré de son entreprise un revenu d'agriculture brut de 706 541 $ et un revenu d'agriculture net de 9 590 $.
+c) L'appelant a omis de déclarer un revenu supplémentaire net tiré de son entreprise de 65 319,46 $ pour l'année d'imposition 1998.
+d) Le revenu brut de 706 541 $ déclaré par l'appelant pour l'année d'imposition 1998 était constitué d'un montant de 301 453 $ attribué aux [TRADUCTION] « Oiseaux et marchandises » , et d'un montant de 405 088 $ attribué aux [TRADUCTION] « Oiseaux É.-U. » .
+e) Le revenu brut et les dépenses déclarés par l'appelant pour l'année d'imposition 1998 concordent avec les montants figurant aux relevés bancaires de deux comptes à la Banque Royale du Canada établis au nom de Flikkema Aviaries (les « comptes de la BRC » ). Un de ces comptes était en dollars canadiens et l'autre était en dollars américains.
+f) Les dépenses que l'appelant a déduites dans sa déclaration de revenus pour l'année d'imposition 1998 sont déductibles, et elles ont été accordées par le ministre.
+g) L'appelant possédait un autre compte bancaire au nom de Flikkema Aviaries à la Niagara Credit Union (le « compte à la NCU » ).
+h) Un revenu de 97 180,89 $ tiré de l'entreprise de l'appelant a été déposé dans le compte à la NCU au cours de la période allant du 5 janvier 1998 au 31 décembre 1998.
+i) Un total de 19 000 $ a été transféré du compte de la NCU au compte de la BRC en dollars canadiens en 1998, et ce montant a été inclus dans le revenu brut déclaré par l'appelant pour l'année d'imposition 1998.
+j) Les montants totalisant 12 861,43 $ qui ont été portés au débit du compte à la NCU au cours de l'année d'imposition 1998 se rapportent à l'entreprise de l'appelant et sont déductibles, en plus des dépenses que l'appelant a déduites dans sa déclaration de revenus pour l'année d'imposition 1998.
+k) Le montant de 65 319,46 $ restant constitue un revenu non déclaré de l'entreprise de l'appelant.
+l) Les dépenses dépassant les montants accordés par le ministre pour l'année d'imposition 1998, si elles ont été engagées ou effectuées, ne l'ont pas été en vue de tirer un revenu d'une entreprise ou d'un bien.
+m) Les montants portés au débit du compte à la NCU qui ne sont pas inclus dans les dépenses accordées par le ministre se rapportent à des frais personnels ou de subsistance de l'appelant.
+n) L'appelant a omis de présenter des reçus ou d'autres documents afin d'étayer de manière satisfaisante les dépenses dépassant celles déjà accordées.
+o) En omettant de déclarer un revenu de 65 319,46 $ pour l'année d'imposition 1998, l'appelant a, sciemment ou dans des circonstances équivalant à faute lourde dans l'exercice d'une obligation prévue à la Loi, fait un faux énoncé ou une omission dans sa déclaration de revenus produite pour l'année d'imposition 1998, ou y a participé, y a consenti ou y a acquiescé, de sorte que l'impôt fixé par la cotisation établie selon les renseignements fournis dans la déclaration de revenus de l'appelant produite pour cette année-là était inférieur à l'impôt effectivement exigible :
+Impôt effectivement exigible
+15 667,85 $
+Impôt à payer selon la déclaration
+(399 $)
+Différence
+16 066,85 $
+Pénalité égale à 50 %
+8 033,42 $
+p) En raison du faux énoncé ou de l'omission qu'il a fait concernant le revenu gagné, l'appelant est passible d'une pénalité de 8 033,42 $, qui a été imposée en application du paragraphe 163(2) de la Loi.
+[4] La preuve fournie par l'enquêteur peut être résumée de la façon suivante : il a appris que l'appelant avait un compte bancaire à la credit union grâce à une saisie de documents de l'appelant qui a été effectuée lors d'une enquête entreprise par Environnement Canada en 1999. Il a obtenu accès aux documents saisis en obtenant une ordonnance en vertu du paragraphe 490(1) du Code criminel. Son analyse de ce document bancaire l'a amené à tirer la conclusion énoncée aux alinéas 6h), i), j) et k) ci-dessus. Il a établi une nouvelle cotisation à l'égard de l'appelant en conséquence.
+[5] Les témoignages de l'appelant et de sa femme avaient pour but d'établir que même s'il y avait un compte à la credit union, le compte n'avait pas été ouvert pour dissimuler des revenus, mais pour recevoir des paiements de Mastercard, étant donné que ce service n'était pas offert par la Banque Royale, où les deux autres comptes se trouvaient. La thèse de l'appelant est qu'un montant de 72 362 $ a été déposé dans le compte à la credit union au cours de l'année, que des montants s'élevant à peu près à la même somme ont été payés au moyen de ce compte, dont un montant de 19 000 $ qui a été transféré à la Banque Royale et qui a donc déjà été inclus dans son revenu déclaré, et que le solde correspond à des montants qu'il a le droit de déduire au titre de dépenses déductibles dans le calcul de son revenu. Il fait donc valoir qu'il n'y avait pas lieu d'établir une nouvelle cotisation à son égard.
+[6] Lors de leurs témoignages ou de leurs argumentations, l'appelant et sa femme n'ont pas brossé un tableau structuré et cohérent des montants déductibles qui, selon eux, ont été payés au moyen du compte à la credit union. L'avocate de l'intimée a établi un document de travail dans lequel elle a cherché à définir les montants en litige. Il n'est pas contesté qu'un montant de 19 000 $ retiré du compte à la credit union a été transféré au compte de la Banque Royale et a donc été inclus dans le revenu déclaré dans la déclaration de M. Flikkema. L'analyse de l'enquêteur a porté ce dernier à accorder un montant de 12 861,43 $ au titre des dépenses payées au moyen du compte à la credit union. Monsieur Flikkema n'a pas contesté le résumé établi par Mme Caryll, lequel indiquait qu'il avait demandé les déductions supplémentaires suivantes pour des montants payés au moyen du compte :
+1.
+Frais de nourriture pour oiseaux
+11 750,00
+2.
+Taxe sur les importations
+878,62
+3.
+Ministre des Finances
+984,36
+4.
+Remboursement du prêt
+6 972,00
+5.
+Marge de crédit
+15 000,00
+6.
+Ampoules Durotest
+383,92
+Total
+Montant admis par l'enquêteur
+Transfert à la Banque Royale
+42 968,90
+12 861,43
+79 000,00
+74 830,33
+Selon cette analyse, le revenu déclaré par M. Flikkema serait trop élevé de quelque 2 468 $.
+[7] Malheureusement, la preuve n'appuie pas sa thèse, pour les raisons suivantes :
+(i) La preuve fournie par l'enquêteur, y compris le ruban de la calculatrice, me convainc que les dépôts effectués dans le compte à la credit union totalisaient en fait 97 299,05 $. Il a déduit 118,16 $ du montant déposé, étant donné que, selon lui, ce montant constituait de la taxe sur les produits et services perçue et non pas un revenu. Il a ainsi obtenu un montant de 97 180,89 $ et il a présumé que ce montant était un revenu tiré d'une entreprise (hypothèse 6h)). Monsieur Flikkema n'a pas donné d'explication au sujet du montant de 72 362 $ figurant dans son avis d'appel, mais il semble qu'il s'agirait simplement des dépôts effectués d'avril à décembre 1998.
+(ii) Les frais de nourriture pour oiseaux et la taxe sur les importations déduits totalisent 12 628,62 $. Madame Flikkema a présenté une liasse de factures et de déclarations de douane non totalisées qui, selon ses dires, justifient les déductions demandées. Toutefois, ces documents ne montrent pas que les paiements ont été effectués au moyen du compte à la credit union. Si la liasse de factures s'élevait en fait à 12 628,62 $, il n'y aurait quand même aucun moyen de vérifier si ce montant avait été inclus dans le montant de 402 338 $ que l'appelant a déduit au titre de dépenses engagées relativement aux oiseaux dans sa déclaration de revenus, comme on pourrait s'y attendre.
+(iii) Les éléments 4 et 5, soit le remboursement du prêt et la marge de crédit, totalisent 21 972 $. Le remboursement du prêt représente apparemment le total des montants portés au débit du compte à la credit union pour rembourser un prêt, mais rien n'est indiqué dans la preuve en ce qui concerne la raison du prêt, le principal, le taux d'intérêt et la ventilation de chaque versement entre le principal et l'intérêt. Rien ne me permet de conclure qu'une partie de ces versements est déductible. Le montant de 15 000 $ déduit pour la marge de crédit constitue un paiement forfaitaire, et il est plus que probable qu'il s'agissait d'un paiement de principal seulement, sans intérêt. Il ne fait aucun doute que la preuve ne permet pas d'établir qu'une partie de ce versement constituait de l'intérêt.
+Le montant de 984,36 $ figurant sous la rubrique « ministre des Finances » est composé de deux chèques, qui constituent la pièce A-2. Un des chèques était payable au gouvernement de l'Ontario pour un montant de taxe de vente provinciale de 659,12 $ et l'autre était payable au receveur général du Canada pour un montant de TPS de 325,24 $. Il est fort probable qu'il s'agissait de paiements relatifs à la taxe de vente provinciale et à la taxe sur les produits et services qui avaient été perçues et déposées dans le compte à la credit union. Ces montants n'auraient pas dû être inclus dans le revenu, et la cotisation devrait être réduite en conséquence.
+[8] L'appelant a mis l'accent sur la pièce A-3, notamment sur une analyse du compte à la credit union pour les mois de janvier, de février et de mars 1998, laquelle aurait été effectuée pour lui par une personne uniquement décrite comme étant un spécialiste en déclarations de revenus. Le but de cette analyse était de montrer que du montant de 25 954,81 $ qui avait été déposé dans ce compte pendant ces trois mois-là, la totalité, à l'exception de 1 375,98 $, avait été utilisée pour faire des paiements. Cette analyse pose problème parce qu'elle ne permet pas d'établir que les paiements ont été effectués aux fins de tirer un revenu de l'entreprise, et les chèques concernés n'ont pas été produits en preuve. Les chèques relatifs aux trois mois en question semblent avoir été perdus. Toutefois, selon la preuve dont j'ai été saisi, je ne peux tout simplement pas trancher la question de savoir si les chèques ont été perdus par Environnement Canada, par l'appelant ou par quelqu'un d'autre. Il est cependant clair qu'un montant de 1 064,85 $ correspondait à des dépenses engagées aux fins de contrôle vétérinaire et pour le paiement d'autres frais frontaliers. Ce montant doit donc également être déduit du revenu faisant l'objet de la cotisation, ainsi qu'un montant de 103,62 $ payé pour des frais bancaires. Les autres montants sont simplement décrits ainsi : [TRADUCTION] « remboursement du prêt » et [TRADUCTION] « total des chèques » . Les chèques non identifiés totalisent 20 255,21 $, et il est possible que certains de ces chèques aient été déposés dans le compte de la Banque Royale, mais si c'est le cas, les chèques ont été déposés lors de dépôts plus importants. Aucun dépôt précis ne correspond à un chèque tiré sur le compte à la credit union pendant la période visée.
+[9] Par conséquent, il semble que les montants suivants n'auraient pas dû être inclus dans la cotisation :
+Taxe de vente provinciale
+659,12 $
+TPS
+324,24 $
+Frais vétérinaires et autres frais frontaliers
+1 064,85 $
+Frais bancaires
+103,62 $
+Total
+2 151,83 $
+Il se peut fort bien qu'il y ait d'autres montants que M. Flikkema aurait le droit de déduire si seulement il disposait d'éléments de preuve lui permettant de justifier les dépenses et d'établir leur nature. Monsieur Flikkema reproche de façon véhémente aux fonctionnaires de l'Agence du revenu la perte des chèques payés relatifs à la période de janvier à mars qui ont été tirés sur la credit union, mais, comme je l'ai dit, je ne peux pas prendre de décision à cet égard en me fondant sur la preuve. Si les documents saisis ne lui ont effectivement pas tous été retournés, il aurait pu exercer certains recours, mais, apparemment, il n'a rien fait à ce moment-là. Ma compétence ne s'étend qu'à la cotisation visée par l'appel que je dois trancher en me fondant sur la preuve probante présentée lors de l'instruction.
+La question de la pénalité
+[10] Le ministre a établi une pénalité en application du paragraphe 163(2) de la Loi. La partie pertinente du paragraphe est rédigée ainsi :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité [...]
+[11] Il faut tenir compte de plusieurs facteurs pour décider si la pénalité est justifiée. Personne ne prétend que l'appelant avait volontairement dissimulé le revenu déposé dans le compte à la credit union. La question à trancher est plutôt de savoir si nous sommes en présence d'un grave manque de diligence qui correspond à une indifférence à l'égard de la question de savoir si la déclaration de revenus était exacte et qui a entraîné l'omission d'un montant de revenu d'environ 65 000 $ dans la déclaration. Il me semble que l'appelant et sa femme ne s'y connaissaient guère en matière de finances. Je crois comprendre que Mme Flikkema s'occupait de la plupart des aspects financiers de l'entreprise. Cet élément n'a pas vraiment été soulevé en preuve, mais d'après ce que j'ai vu et entendu, je conclus qu'aucun livre de comptes n'était tenu régulièrement pour l'entreprise en 1998. La déclaration de revenus de M. Flikkema a été établie par un spécialiste en déclarations de revenus. Dans son témoignage, M. Flikkema a déclaré qu'il a simplement signé la déclaration qu'on lui a dit de signer parce qu'il lui était impossible de savoir si la déclaration était exacte et qu'il aurait donc été inutile qu'il la lise. Monsieur Flikkema devait connaître l'existence du compte à la credit union. À tout le moins, il était tenu de fournir tous les documents pertinents à la personne établissant la déclaration. Il est évident qu'il n'a pas été tenu compte des relevés du compte à la credit union dans la déclaration produite. Que ce soit sa femme qui ait omis de donner tous les documents au spécialiste en déclarations de revenus ou que ce soit le spécialiste en déclarations de revenus qui ait, pour une raison ou pour une autre, omis de faire état des opérations à la credit union, selon moi, si M. Flikkema avait fait preuve de diligence normale, cette erreur aurait pu être évitée, même s'il n'y connaît rien dans le domaine des finances. Près de 100 000 $ ont été déposés dans le compte à la credit union, un montant de 19 000 $ a été transféré à un compte à la Banque Royale, et un revenu brut de presque 80 000 $ n'a pas été inclus dans la déclaration de l'appelant. Ce montant correspond à environ 10 % du revenu brut de l'appelant. Selon moi, le fait qu'il n'a pas mis en place un système comptable approprié, combiné avec le fait qu'il a omis d'examiner attentivement la déclaration et d'en discuter en détail avec le spécialiste en déclarations de revenus, équivalent à une indifférence complète à la question de savoir si tout son revenu avait été déclaré correctement. Cela constitue une faute lourde et justifie l'imposition de la pénalité.
+[12] Par conséquent, l'appel est admis seulement dans cette mesure. La nouvelle cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que le revenu de l'appelant doit être réduit de 2 151,83 $ et que l'impôt, l'intérêt et la pénalité à payer doivent être rajustés en conséquence. L'intimée a droit à ses dépens, étant donné que le succès de l'appelant est négligeable.
+Signé à Ottawa, Canada, ce 29e jour de mars 2006.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 18e jour de septembre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI202
+NO DU DOSSIER DE LA COUR :
+2002-4683(IT)G
+INTITULÉ DE LA CAUSE :
+Mike Flikkema c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Niagara-on-the Lake (Ontario)
+DATE DE L'AUDIENCE :
+Le 22 mars 2006
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+Le 29 mars 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Brianna Caryll
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+S/O
+Cabinet :
+S/O
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2003 CanLII 604, no 2000-3214(IT)G, 15 janvier 2003.

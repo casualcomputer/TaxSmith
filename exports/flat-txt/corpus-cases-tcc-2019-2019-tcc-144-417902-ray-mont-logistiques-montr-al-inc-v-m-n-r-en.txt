@@ -1,0 +1,258 @@
+Title: Ray-Mont Logistiques Montréal Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/417902/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-144-417902-ray-mont-logistiques-montr-al-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2019-06-28
+
+# Ray-Mont Logistiques Montréal Inc. v. M.N.R.
+
+- Citation: 2019 TCC 144
+- Decision date: 2019-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4384, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ray-Mont Logistiques Montréal Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-06-28
+Neutral citation
+2019 TCC 144
+File numbers
+2017-1476(EI)
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2017-1476(EI)
+BETWEEN:
+RAY-MONT LOGISTIQUES MONTRÉAL INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Ray-Mont Logistiques Montréal Inc. (2017-1478(CPP)) on September 25 and 26, 2018, at Montréal, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the appellant:
+Christopher R. Mostovac
+Maude Piché
+Counsel for the respondent:
+Gabriel Girouard
+Annie Laflamme
+JUDGMENT
+The appeal from the decision of the Minister of National Revenue under section 91 of the Employment Insurance Act dated February 24, 2017, is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 28th day of June 2019.
+“Guy R. Smith”
+Smith J.
+Docket: 2017-1478(CPP)
+BETWEEN:
+RAY-MONT LOGISTIQUES MONTRÉAL INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Ray-Mont Logistiques Montréal Inc. (2017-1476(EI)) on September 25 and 26, 2018, at Montréal, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the appellant:
+Christopher R. Mostovac
+Maude Piché
+Counsel for the respondent:
+Gabriel Girouard
+Annie Laflamme
+JUDGMENT
+The appeal from the decision of the Minister of National Revenue under section 27 of the Canada Pension Plan dated February 24, 2017, is allowed, referring the assessment back to the Minister for reconsideration and reassessment, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 28th day of June 2019.
+“Guy R. Smith”
+Smith J.
+Citation: 2019 TCC 144
+Date: 20190628
+Docket: 2017-1476(EI)
+2017-1478(CPP)
+BETWEEN:
+RAY-MONT LOGISTIQUES MONTRÉAL INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Smith J.
+I. INTRODUCTION
+[1] Ray-Mont Logistiques Montréal Inc. (hereinafter “Ray-Mont”) is appealing from a decision rendered by the Minister of National Revenue (hereinafter the “Minister”) on February 24, 2017, with respect to some of its workers (“the workers”). The period at issue in this case is indicated in Appendix A.
+[2] According to the Minister, these workers are employed in insurable employment under the relevant provisions of the Employment Insurance Act, S.C. 1996, c. 23 (“EIA”) and, for one worker only, under the Canada Pension Plan, R.S.C. 1985, c. C-8 (“CPP”).
+[3] For the reasons that follow, the appeal with respect to the EIA must be dismissed, and the appeal with respect to the CPP must be allowed in part.
+II. STATEMENT OF FACTS
+[4] Ray-Mont is a company that specializes in logistics services for exporting agri-food products such as grains and legumes to the world market. The company receives shipments delivered by truck or railcar from Western Canada and transloads them into sea containers at the Port of Montreal for delivery overseas.
+[5] The workers involved in this case are responsible for handling and transloading bags containing the various agri-food products. According to Ray-Mont, they are self-employed persons.
+[6] The Court heard testimony provided by several workers. It also heard the testimony of the director of operations and an individual who worked as a supervisor for Ray-Mont.
+Jonathan Dandenault
+[7] Mr. Dandenault has been director of operations for more than sixteen (16) years. As such, he is responsible for the salaried employees (who are involved in this case) and the so-called self-employed persons. He is responsible for preparing their schedules and ensuring that the company’s operations run smoothly.
+[8] Mr. Dandenault must ensure that the salaried employees complete the shifts indicated on the pre-established weekly schedule and that they perform their work as agreed. There is no full-time work for the workers given the seasonal nature of the business.
+i) Workers’ work schedule
+[9] As indicated above, workers are responsible for unloading bags and transloading them into containers. The director calculates the number of trucks or railcars in transit to determine the volume of work to be done by these workers.
+[10] The day before the shipments arrive, he emails or texts the workers to determine their availability and agree on what time they should start work: on the day shift or the evening shift, depending on when the shipments come in. The workers must then answer whether or not they want to do the work. If a worker is not available, Mr. Dandenault moves to the next worker on the list. According to him, workers are allowed to come to work after the suggested start time.
+ii) Work done by the workers
+[11] The workers are organized in teams: The “puller” pulls out the bags, and the “stacker” places or stacks the bags in the container, but the workers can switch jobs as they see fit. Transloading is a two-step operation, which involves removing the bags and transloading them to the containers.
+[12] The workers, who were called in the day before, show up in the company’s yard. Once on site, the director of operations (or his subordinate, the site supervisor) explains some of the client’s specifications, for example, covering the container walls with cardboard or placing silica gel bags in the container. As for the work method, the two-man teams decide how the work should be done. They only need to make sure that there is the right number of bags in each container.
+iii) Work tools
+[13] Few tools are needed to do the job: steel-toe boots, a reflective safety vest and gloves, depending on personal preference. Workers have their own step stools worth about $400 to $500 to do the work. They use this tool to stack the bags.
+[14] According to Mr. Dandenault, the only tool provided by Ray-Mont is a conveyor used to send the bags from the trucks or railcars to the container. This piece of equipment is too expensive for the workers. He acknowledges that no worker ever had to use his own conveyor.
+iv) Billing of work
+[15] Each team of workers receives the “loading sheet” for each delivery. The loading sheet indicates the number of bags to be transloaded and the number of containers. Workers are paid by the piece, i.e. according to the number of bags transloaded. The company sometimes also pays a premium for some jobs such as covering the walls of the container with cardboard, overtime to remove the packaging or if the work is done during the weekend.
+[16] According to Mr. Dandenault, the price per bag is determined with the worker. When the work is more difficult, the worker can negotiate an additional amount. To keep track of the number of bags transloaded, the worker can write the number on a separate sheet. Ray-Mont uses this document to prepare and check each team’s invoice at the end of the day. Once the work is completed, the supervisor signs the loading sheet to certify that the work was done properly and confirms the number of bags per container.
+v) Supervision of work
+[17] According to Mr. Dandenault, the workers are responsible for the quality of their work. For example, if the bags are transloaded to the wrong container, they must start over and are not entitled to additional remuneration.
+[18] He also says the workers can bring other people to help them. Thus, each worker works at his own pace. A worker can form a work team and take turns pulling and stacking during the shift.
+[19] He also says the workers must meet the company’s standards when they are in Ray-Mont’s yard. For example, they are required to wear a safety vest at all times in the yard.
+[20] Mr. Dandenault says the so-called self-employed workers work at the same time as the Ray-Mont employees. In fact, they work together. For example, the salaried employees move the containers for the workers to load them. He admits that the workers’ productivity is affected by the speed at which the employees work.
+Mario Dionne Raymond
+[21] Mr. Dionne Raymond was director of compliance from 2013 to 2016 and worksite supervisor. He is the principal shareholders’ cousin. His testimony was very succinct. As supervisor, he gave the workers the loading sheet with the number of bags to be transloaded. He followed up and made sure the information needed to prepare the invoice for each team was complete.
+Adelso De Jesus Da Costa
+[22] Mr. Da Costa has been a worker with Ray-Mont for over 10 years. He usually receives a phone call the night before the shift and reports to work the next day. The company decides how many bags are to be transloaded, and he is given the loading sheet that contains this information. He cannot start work without this sheet.
+[23] As for billing, he says he can negotiate an additional amount if the work takes longer for various reasons. He testified that a Ray-Mont employee is on site to act as an inspector and verify the work. He said that if the bags are not loaded correctly, he must redo his work. The supervisor checks whether the right number of bags has been loaded into the container.
+[24] Mr. Da Costa said he had already worked for a competitor. He said there was no conveyor, which meant he had to work harder.
+[25] On cross-examination, he said that because he had negotiated an additional amount the week before the hearing of this case, he had not had any work in three days. He said if he refuses a shift, there may be retaliation, and some supervisors may decide not to call him back for several days.
+Adipenza Bemboy
+[26] Mr. Bemboy has been working at Ray-Mont for almost 15 years, but he has also worked for a competitor. He said Ray-Mont gives him the loading sheet when he arrives and that, at the end of the day, an invoice is issued for the work he did that day. He says he tracks his work on another sheet to make sure the numbers are accurate.
+[27] He says work schedules can vary between workers. Generally, he gets a telephone call or text message to find out if he is available at a specific time. He generally agrees to work, but said he can decide whether or not to accept the work and that it is up to him.
+[28] He also said his shift is subject to change. He only works as a puller and does not always work with the same person. The length and time of the break can change depending on who his partner is. He said he paid for his own boots, gloves and safety vest.
+Alexis Garcia Quinteros
+[29] Mr. Quinteros has been working for Ray-Mont for five years. He started working with his father but, after a while, the supervisor started contacting him directly.
+[30] He said he accepted most of the shifts he was offered, with a few exceptions. He also said the supervisors were the ones who decided on the workers to be assigned to each shift.
+[31] Mr. Quinteros said that on one occasion, the workers got together to negotiate their remuneration. He said it was not a strike, but the work stopped for a moment.
+Antoine Raymond
+[32] Antoine Raymond is related to the Ray-Mont shareholders. He is the son of a shareholder and the brother of another shareholder. He started working part-time as a salaried employee. Because there was not enough full-time work, Ray-Mont gave him the opportunity to transition to transloading work.
+[33] According to him, transloading work involves greater uncertainty and some risk because he is no longer paid by the hour. However, he thinks it is worth it because he can make more money.
+[34] He learned how to do the work by observing the workers, but did not receive any additional training from Ray-Mont. The workers were the ones who taught him work techniques.
+Mohamed Maarouf
+[35] Mr. Maarouf is an appeals officer at the Canada Revenue Agency. He decides on the appeals he receives, i.e. he reviews the decision and the vouchers. He was the appeals officer assigned to the Ray-Mont case.
+[36] There is no reason to review his testimony because he made findings of fact and law that are the very subject of this matter.
+III. APPLICABLE LAW
+[37] As noted above, the issue at the heart of the case is whether the workers in question are self-employed, or whether there is an employee/employer relationship governed by a contract of employment.
+[38] Because the workplace is in Quebec, it is appropriate to review section 8.1 of the Interpretation Act, R.S.C. 1985, c. I-21, which recognizes the complementarity of Quebec civil law and federal law when the conditions are met. The section reads as follows:
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[39] The first provision that the Court must both interpret and apply in this matter is paragraph 5(1)(a) of the EIA, which stipulates the following:
+Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[40] The second provision that the Court must interpret and apply is paragraph 6(1)(a) of the CPP, which stipulates that pensionable employment is employment “in Canada that is not excepted employment.”
+[41] To determine whether there is “insurable employment” within the meaning of the EIA or pensionable employment under the CPP, the Court must take into account the relevant provisions of the Civil Code of Québec, CQLR c CCQ-1991 c.64 (C.C.Q.), in particular the following provisions:
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+. . .
+2085. A contract of employment is a contract by which a person, the employee, undertakes, for a limited time and for remuneration, to do work under the direction or control of another person, the employer.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+. . .
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to another person, the client, to carry out physical or intellectual work or to supply a service, for a price which the client binds himself to pay to him.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and, with respect to such performance, no relationship of subordination exists between the contractor or the provider of services and the client.
+[42] The concept of the complementarity of Quebec civil law and federal law was reviewed by the Federal Court of Appeal in Grimard v. Canada, 2009 FCA 47 (“Grimard”), where Létourneau J. stated (at paragraph 27) that “it would be wrong to believe that there is antinomy between the principles of Quebec civil law on this point and what has been referred to as common law criteria, that is to say, control, ownership of the tools, chance of profit, risk of loss, and integration of the worker into the business.”
+[43] Létourneau J. further stated that “Quebec civil law defines the elements required for a contract of employment or for services to exist. On the other hand, common law enumerates factors or criteria which, if present, are used to determine whether such contracts exist” (at paragraph 29). He concluded with the following:
+[43] In short, in my opinion there is no antinomy between the principles of Quebec civil law and the so‑called common law criteria used to characterize the legal nature of a work relationship between two parties. In determining legal subordination, that is to say, the control over work that is required under Quebec civil law for a contract of employment to exist, a court does not err in taking into consideration as indicators of supervision the other criteria used under the common law, that is to say, the ownership of the tools, the chance of profit, the risk of loss, and integration into the business.
+[Emphasis added]
+[44] The Court must consider whether there is a “contract of service” within the meaning of paragraph 5(1)(a) of the EIA. In other words, it must determine if there is a “contract of employment” under article 2085 of the C.C.Q. where the person in question undertakes “to do work under the direction or control of another person”, i.e. an employer.
+[45] In order to find that these are self-employed persons, as the appellant claims, the Court must be satisfied that the appellant was “free to choose the means of performing the contract” and that “(...) with respect to such performance, no relationship of subordination exist[ed]” within the meaning of article 2099 of the C.C.Q.
+[46] Article 1425 of the C.C.Q. provides that “in interpreting a contract”, the Court must consider “[t]he common intention of the parties.” Moreover, the Federal Court of Appeal has stated that this analysis is a two-step process. The Court must first consider the subjective intent of each party to the employment relationship and then perform an analysis to determine whether it is objectively consistent with that intent: 1392644 Ontario Inc. (Connor Homes) v. Canada (National Revenue), 2013 FCA 85 (“Connor Homes”).
+[47] To do this, the Court must adopt a multidimensional approach and a number of factors must be weighed. As the Supreme Court of Canada indicated in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59 (“Sagaz Industries”), the factors with the greatest impact are those established by the Federal Court of Appeal in Wiebe Door Services Ltd., v. Minister of National Revenue, [1986] 3 FC 553 (“Wiebe Door”). The Wiebe Door factors are an amalgamation of several criteria used in case law, including:
+the degree or absence of control exercised by the alleged employer;
+ownership of the tools;
+chance of profit and the risk of loss and liability;
+the integration of the alleged employees’ work into the alleged employers’ business.
+[48] The main purpose of the objective analysis of these factors is to determine whether the person providing the services is doing so as an employee or providing them as a self-employed person: Sagaz Industries, paragraph 47.
+[49] The appellant relied on the Entreprises Yvon Bessette Inc. c. Québec (Sous-ministre du Revenu), 2002 CanLII 12080 (QC CQ) decision where the appellant obtained a favourable judgment with respect to the determination of its workers’ status. The company is one of Ray-Mont’s competitors. In this case, the Court of Québec found that the material handlers were self-employed persons. Although the facts submitted were similar, this Court is not bound by this decision and must perform a thorough and independent analysis of the case before it.
+IV. ANALYSIS
+[50] According to case law, the Court must first consider “the common intention of the parties.” If it finds that the common intention was to establish “a contract of enterprise or for services” by which the workers were to “supply a service for a price”, in accordance with article 2098 of the C.C.Q., it must then analyze the factors listed above to determine that the workers were in fact “free to choose the means of performing the contract” and that “with respect to such performance, no relationship of subordination exist[ed]”, pursuant to article 2099 of the C.C.Q.
+[51] The contract between Ray-Mont and the workers was verbal, and no documents were filed with the Court to indicate otherwise.
+[52] It is clear that management distinguished between salaried employees and so-called self-employed persons. Mr. Dandenault often reiterated that the work was seasonal and depended on the volume of goods that needed to be transloaded. He dealt with this situation by contacting them as needed, often on the same evening or at the beginning of the week.
+[53] We must now ask whether Ray-Mont actually intended to retain the services of the workers under “a contract of enterprise or for services.” As indicated in the testimonies, each team of workers received a loading sheet before starting the work; the goods were transloaded in the presence of a supervisor, and Ray-Mont prepared the invoices for each team at the end of the day.
+[54] The analysis of the workers’ intentions is also problematic. They understood that they had to provide some of their own tools and that they were free to work for a competitor. They understood that there was no full-time work, that they would be called only when needed, that they would be paid by the piece, that they could sometimes negotiate a small supplement, train as a team, change roles as needed and sometimes be replaced by someone who was known to Ray-Mont. They agreed to these working conditions, but every worker’s testimony seems to suggest that they did not really understand the nature of the legal relationship that bound them to Ray-Mont.
+[55] Notwithstanding these difficulties, the issue before the Court is whether Ray-Mont and the workers “believed” that they were self-employed and independent and whether they acted accordingly: Royal Winnipeg Ballet v. Canada (Minister of National Revenue), 2006 FCA 87, paragraph 63.
+[56] Although there certainly is ambiguity, for the purposes of this analysis the Court finds only that the parties believed that they had established a “contract of enterprise or for services” as stipulated in article 2098 of the C.C.Q.
+[57] There remains the analysis of the objective reality of the employment relationship.
+i) Ownership of the work tools
+[58] The workers needed very few tools, all of which were portable. They could leave them in the lockers, if necessary. The stool could be left behind and was sometimes padlocked to the lockers.
+[59] Ray-Mont did not provide any clothing, but the workers had to follow safety standards and wear a reflective vest.
+[60] Ray-Mont provided the conveyor. It was a relatively heavy (and probably expensive) piece of equipment that was moved by the salaried employees as needed and made it easier to remove the goods from trucks or railcars. Without this tool, the work would have been much harder, slower and therefore less profitable for Ray-Mont and the workers.
+[61] Ultimately, while certainly not in itself conclusive, the Court is of the view that the analysis of this factor, in particular that few tools were required, supports the finding that there was an employee/employer relationship.
+ii) The chance of profit and the risk of loss
+[62] As summarized by Antoine Raymond who made the transition from salaried employee to transloading worker, there was some risk because he was not paid by the week, but it was worthwhile.
+[63] For example, the appellant issued more than a dozen invoices per worker, one of which (Exhibit A-1) indicated that a worker transloaded more than 5,000 bags and filled 10 containers in one day. He was paid by the piece and the pay for the day was about $332, which works out to $45 to $55 an hour. His teammate received the same amount. However, the amount per day could range from $227 (Exhibit A-8) to $498 (Exhibit A-7). In addition, workers could occasionally request a premium and “negotiate” with the supervisor.
+[64] It is apparent that each worker’s profit increased with the quantity of goods to be transloaded. A worker’s physical strength or how fast he worked could also increase his profit. However, it should be noted that the supervisor assigned a specific number of bags per team.
+[65] According to the appellant, the amounts paid to workers for a typical day’s work far exceeded the minimum wage. There was also the risk that if a worker made a mistake he would have to redo the work on his own time, but this was not a monetary loss.
+[66] The remuneration was based on an hourly rate that could vary between teams, which seems to suggest that they were self-employed persons. However, the risks involved were similar to those faced by a commission-based employee whose fate is linked to his ability to generate revenue through sales and commissions. The workers did not have any venture capital, and the only “investment” required to become a material handler was in the tools identified above.
+[67] The Court is of the view that the option to “negotiate” an additional amount was rather factitious or artificial and gave the workers a certain illusion of control. At any rate, the amounts were minimal.
+[68] The Court must consider the nature of the services provided, which essentially required some physical strength, willingness to work and a little skill. The workers did not receive any special training.
+[69] In Collingwood Physiotherapy Ltd. v. Minister of National Revenue, 2002 CarswellNat 316, the Court held that professionals, i.e. chiropractors, paid by a clinic under a fee-sharing arrangement, were independent contractors.
+[70] However, in Coathup v. M.N.R., 2017 TCC 54, the Court found that teachers giving private lessons to students in a music school were employees even though they received a percentage of the hourly rate paid by the students. The teachers’ income was based on the number of students and decreased if they lost students. Notwithstanding these facts, the Court held that the teachers had no chance of profit or risk of loss in the true sense of the term, because they did not have to invest money to earn income. The only way that they could increase their earnings was by working more hours, which according to the Court, “does not amount to a chance of profit” (paragraph 55).
+[71] The appellant acknowledges that, for all intents and purposes, the workers’ “profit” is based on the number of bags transloaded in a day. Paragraph 5(1)(a) of the EIA stipulates that employment is “insurable employment” when “the earnings are calculated by time or by the piece, or partly by time and partly by the piece.” The wording is unequivocal.
+[72] The Court is therefore of the opinion that the analysis of this factor supports the finding that there was an employee/employer relationship.
+iii) Integration of workers into the business
+[73] Given the seasonal nature of the work, the workers were only called when transloading work was available. They played an important role, but the company could still continue to provide its logistics services without them.
+[74] That said, when they were there during the high season, they worked very closely with the salaried employees who moved the trucks, the containers or the conveyor. There was therefore integration into the business even if the work was seasonal.
+[75] The analysis of the integration factor also suggests that there was an employee/employer relationship.
+iv) Degree of control and subordination
+[76] Factors relating to the degree of control exercised over workers are important in determining whether there is an employment or subordinate relationship: Romanza Soins Capillaires et Corporels Inc. v. M.N.R., 2015 TCC 328, at paragraph 38.
+[77] As indicated above, the workers showed up at the worksite if the director of operations (or the supervisor) had contacted them the day before. They could accept or refuse the work (or go to work for a competitor) but, according to their testimonies, they almost always accepted the work and the agreed time. One worker indicated that there could be retaliation if he did not accept a shift, and the supervisor could wait for a while before calling him back.
+[78] Work did not begin at the site without a loading sheet. They had to work with the salaried employees who moved the containers. They had to follow customer instructions on placing a product in the containers to protect the bags. In terms of the work method, they were free to form a team, switch jobs and so on, but the final work was verified. They could have someone replace them, but the operations supervisor was the one who contacted the replacements. There was a second loading sheet that was verified by the supervisor before it was sent to the accounting department to prepare each worker’s invoice.
+[79] The workers either pulled the bags out or stacked them, but it was essentially manual and physical work. To some extent, they were free to decide how to transload the bags, but it is difficult to conclude that they were really “free to choose the means of performing the contract” as stipulated in article 2099 of the C.C.Q. They could not start work without the loading sheet, and the operations manager or a supervisor was there during the shift.
+[80] The experienced workers had some freedom, but the Court was of the view that there was nevertheless a “relationship of subordination” in the performance of the work and that, for all intents and purposes, Ray-Mont’s “direction or control” was ubiquitous in the employment relationship.
+[81] Because the Court finds that there was a relationship of subordination, it must also find that the analysis of this factor suggests that there was an employee/employer relationship.
+[82] The analysis of the objective reality of the employment relationship, including the factors listed above, indicates that there was an employee/employer relationship. They were therefore not self-employed persons.
+V. CANADA PENSION PLAN
+[83] The remaining issue is that of the application of the Canada Pension Plan or “CPP.” The Minister claims that Santiago Armando Galeas is entitled to this pension for the period at issue because he was hired [translation] “under an agreement entered into in the Province of British Columbia.”
+[84] Subsection 4(4) of the CPP provides that, for the purposes of the Act, “a person shall be deemed to be employed in the province in which the establishment of his employer to which he reports for work is situated.”
+[85] However, according to the testimonial evidence, Mr. Galeas worked in Vancouver from 2011 to 2014 and thereafter at the head office in Montréal. He subsequently moved to Montréal. For purposes of the CPP, the period at issue would therefore be from January 1, 2013, to December 31, 2014.
+VI. CONCLUSION
+[86] For these reasons, the Court finds that the workers were employed in “insurable employment” for the period at issue under paragraph 5(1)(a) of the EIA and that Antoine Raymond, notwithstanding his non-arm’s length relationship, was employed in “insurable employment” under subsection 5(3) of the EIA.
+[87] The Court further finds that Santiago Armando Galeas was employed in pensionable employment under paragraph 6(1)(a) of the CPP for the period from January 1, 2013, to December 31, 2014.
+Signed at Ottawa, Canada, this 28th day of June 2019.
+“Guy R. Smith”
+Smith J.
+APPENDIX A
+The period at issue (the “period at issue”) for each worker is presented below:
+Antoine Raymond: January 1, 2013, to July 8, 2016
+Adelso De Jesus Acosta: January 1, 2013, to December 12, 2014
+Alexis Garcia Quinteros: January 1, 2013, to July 8, 2016
+Adimpenza Bemboy: January 1, 2013, to December 31, 2014
+Santiago Armando Galeas: January 1, 2013, to July 8, 2016
+CITATION:
+2019 TCC 144
+COURT FILE NOS.:
+2017-1476(EI) 2017-1478(CPP)
+STYLE OF CAUSE:
+RAY-MONT LOGISTIQUES MONTRÉAL INC. v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 25 and 26, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+June 28, 2019
+APPEARANCES:
+Counsel for the appellant:
+Christopher R. Mostovac
+Maude Piché
+Counsel for the respondent:
+Gabriel Girouard
+Annie Laflamme
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Christopher R. Mostovac
+Maude Piché
+Firm:
+Starnino Mostovac
+Montréal, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

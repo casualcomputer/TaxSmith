@@ -1,0 +1,272 @@
+Title: Lockwood Financial Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/488756/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-128-488756-lockwood-financial-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-11-18
+
+# Lockwood Financial Ltd. v. The Queen
+
+- Citation: 2020 TCC 128
+- Decision date: 2020-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4645, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lockwood Financial Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-11-18
+Neutral citation
+2020 TCC 128
+File numbers
+2016-4952(IT)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4952(IT)G
+BETWEEN:
+LOCKWOOD FINANCIAL LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 13 and 14, 2020, at Montreal, Quebec
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+Jean-François Poulin
+Sofia Guedez
+Counsel for the Respondent:
+Alain Gareau
+JUDGMENT
+The appeal from the Minister of National Revenue’s determination of a loss under the Income Tax Act concerning the Appellant’s taxation year ending on October 31, 2012 is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of November 2020.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Citation: 2020 TCC 128
+Date: 20201118
+Docket: 2016-4952(IT)G
+BETWEEN:
+LOCKWOOD FINANCIAL LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+St-Hilaire J.
+Introduction
+[1] This is an appeal from a determination of losses made under the Income Tax Act. [1] By notice of determination issued on January 22, 2015, the Minister of National Revenue (Minister) determined the Appellant’s non-capital loss and capital loss for its taxation year ending on October 31, 2012 to be $266,533 and $70,848 respectively.
+[2] The Appellant, Lockwood Financial Ltd. (Lockwood), is in the business of brokering financing and other transactions for reporting issuers, in particular, junior resource corporations. In return for its services, Lockwood receives finder’s fees payable in cash or in shares of its client corporations or a combination of the two.
+[3] Lockwood helped broker a farm-in agreement between its client Lion Energy Corp. (LEO) and Africa Oil Corp. (AOI). [2] Under the farm-in agreement, LEO received rights to an interest in petroleum blocks located in Kenya and Somalia in return for undertaking expenditures of at least $26,208,000 to develop the properties. The TSX Venture Exchange approved the farm-in agreement on March 15, 2010.
+[4] Although the appeal raises issues about the correctness of the determination of losses, this case is about the proper characterization (as being on account of business or capital) of various portions of the payments Lockwood received as finder’s fees for the farm-in agreement brokered between LEO and AOI, as well as the taxation year in which these amounts must be included in income.
+Burden of Proof and Evidence at Trial
+[5] It is well established that in tax appeals, the Appellant has the initial burden of disproving the Minister’s assumptions. In The Queen v Anchor Pointe Energy Ltd, the Federal Court of Appeal restated the principle succinctly as follows: “It is trite law that, barring exceptions, the initial onus of proof with respect to assumptions of fact made by the Minister in assessing a taxpayer’s tax liability and quantum rests with the taxpayer.” [3]
+[6] Mr. Kevin Torudag is the sole shareholder and director of Lockwood. He did not testify at the hearing. Before trial, [4] the Appellant requested an adjournment on the basis that Mr. Torudag was on a business trip in Africa. In its request for an adjournment, the Appellant stated: [TRANSLATION] “Mr. Torudag was the only important witness intended to be called for the hearing on February 13 and 14 . . . If this request were denied, the Appellant would suffer irreparable harm”. The Court denied the adjournment and the Appellant did not make arrangements to have Mr. Torudag attend to testify at the hearing, either in person or otherwise.
+[7] At the hearing, counsel for the Appellant advised the Court that he was prepared to proceed without Mr. Torudag’s testimony. Counsel submitted that there would be sufficient agreed-upon facts and sufficient documentary evidence before the Court to enable it to decide the issues. However, in light of the absence of witnesses for the Appellant, counsel for the Respondent opposed the introduction of certain documents into evidence, including the Allocation of Finders’ Fees agreement dated April 20, 2010. After some discussion, the parties agreed to the introduction of a portion only of the Allocation of Finders’ Fees agreement. [5] The farm-in agreement between LEO and AOI was not before the Court and neither was the finder’s fees agreement. I note that they were not part of the documents provided to the Canada Revenue Agency during the audit. [6]
+[8] During his submissions, counsel for the Appellant appeared to resent being in a position where the Respondent allegedly knew that the Appellant was at a disadvantage due to the lack of evidence. [7] I find that the Appellant was responsible for any gaps in the evidence required to support its position.
+[9] Counsel for the Respondent submitted that there was no evidence to show that the assumptions made by the Respondent were untrue and contended that this was sufficient to support the dismissal of the appeal.
+[10] Although the Appellant took issue with some of the Minister’s assumptions of fact, its counsel stated that the Appellant was challenging the assessment not on the basis of the assumptions per se, but rather on the consequences of these assumptions. [8] Relying on Pillsbury Canada Ltd v MNR, counsel for the Appellant argued that “even if the assumptions were justified, they do not of themselves support the assessment.” [9] I note that in Pillsbury, Justice Cattanach asserted that there were three avenues for challenging the Minister’s assumptions; the Appellant relies mainly on the third:
+The respondent could have met the Minister's pleading that, in assessing the respondent, he assumed the facts set out in paragraph 6 of the Notice of Appeal by:
+(a) challenging the Minister's allegation that he did assume those facts,
+(b) assuming the onus of showing that one or more of the assumptions was wrong, or
+(c) contending that, even if the assumptions were justified, they do not of themselves support the assessment. [10]
+[11] In light of the principles cited above, the Appellant has the burden of proving, on a balance of probabilities, that the facts assumed by the Minister are wrong or that, even if the assumptions are justified, they do not support the assessment.
+[12] Because the Appellant argued that the business income earned from brokering the farm-in agreement must be included in income in 2010 (and not in 2012, as reported in its return for that taxation year), I would add that the Appellant has the burden of proving the facts relied on to support this position. [11]
+[13] For the reasons provided below, I find that the Appellant has not successfully met its burden of proof.
+Facts Regarding the Allocation of the Finder’s Fee and its Tax Treatment by the Parties
+[14] In return for helping to broker the farm-in agreement between LEO and AOI, Lockwood was to receive a finder’s fee. The parties agree that, as payment for its services, the Appellant was to be paid in the following manner:
+i) Upon finalization of the Farm-in agreement, a first payment of $150,000 in cash and the issuance of 444,444 common shares of LEO with a fair market value of $100,000. [first portion of the finder’s fee]
+ii) The issuance, from time to time of a maximum of 833,333 common shares of LEO with a deemed value of $0.30 per share. [second portion of the finder’s fee] [12]
+[Comments added.]
+[15] Lockwood reported the first portion of the finder’s fee, an amount of $250,000, in its taxation year ending on October 31, 2010 (2010 taxation year).
+[16] Although there was no direct evidence on this, it appears that the second portion of the finder’s fee was to be paid when certain benchmarks were met with respect to the expenditures LEO was required to incur. [13] It appears that the finder’s fee payable to Lockwood was subject to a reduction if LEO did not meet its target of at least $26,208,000 in expenditures, but the Appellant did not lead any evidence on that at trial.
+[17] LEO eventually met the target amount of $26,208,000 in expenditures and Lockwood became entitled to receive in full its final payment of 833,333 shares of LEO. However, Lockwood did not receive payment in the form of LEO shares because, in June 2011, LEO and AOI entered into a plan of arrangement whereby AOI acquired all of LEO’s outstanding shares in exchange for shares of AOI, which resulted in LEO becoming a wholly owned subsidiary of AOI. Hence, LEO was no longer able to honour its agreement to pay the second portion of the finder’s fee in LEO shares.
+[18] Under the plan of arrangement, shares were exchanged at a ratio of 0.20 shares of AOI for every LEO share. Consequently, 833,333 common shares of LEO represented 166,666 common shares of AOI.
+[19] Lockwood initiated legal proceedings against AOI and, on June 15, 2012, the parties came to an agreement that provided for the issuance of 95,000 common shares of AOI “in full and final settlement of all obligations of AOI and LEO to Lockwood under the Allocation Agreement.” [14] At that time, the AOI shares had a fair market value (FMV) of $7.84 per share, hence a total value of $744,800 for the 95,000 shares.
+[20] Lockwood disposed of all of its 95,000 AOI shares between June 15, 2012 and October 31, 2012 for total proceeds of disposition of $821,828.
+[21] In reporting the proceeds from the disposition of its AOI shares, Lockwood reported its income for its taxation year ending October 31, 2012 as follows:
+business income of $250,000;
+capital gain of $571,828 calculated on the following basis:
+o proceeds of disposition of AOI shares: $821,828
+o adjusted cost base of the AOI shares: $250,000
+o capital gain: $821,828 - $250,000 = $571,828.
+[22] In determining Lockwood’s losses for its taxation year ending October 31, 2012, the Minister treated Lockwood’s proceeds from the disposition of its AOI shares as follows:
+business income of $744,800 calculated on the following basis:
+o FMV of AOI shares on June 15, 2012: $7.84 per share
+o FMV of 95,000 AOI shares: 95,000 X $7.84 = $744,800
+capital gain of $77,028 calculated on the following basis:
+o proceeds of disposition of AOI shares: $821,828
+o adjusted cost base of the AOI shares: $744,800
+o capital gain: $821,828 - $744,800 = $77,028.
+Issues
+[23] The core issue in this appeal concerns the proper characterization of part of the $821,828 received as proceeds of disposition of the 95,000 AOI shares, which were valued at $774,800 when they were issued to Lockwood in 2012. More specifically, the issue is whether Lockwood received business income in the amount of $774,800, with the $77,028 balance of the proceeds being a capital gain or whether it received business income in the amount of $250,000 and a capital gain of $571,828.
+[24] At trial, Lockwood also raised the issue of the timing of the inclusion of different components of the amount received in the form of AOI shares, and more specifically, the question whether business income ought to be included in the taxation year ending in 2010 or the taxation year ending in 2012.
+[25] I note that in determining Lockwood’s losses the Minister denied the deduction of legal fees and parking expenses. At trial, the Appellant withdrew its appeal regarding the deductibility of these expenses; hence, they are no longer at issue in this appeal.
+Summary of the Parties’ Positions
+The Appellant’s position
+[26] Only the second portion of Lockwood’s finder’s fee paid in AOI shares is at issue in these proceedings. Lockwood submits that the first $250,000 of the proceeds of disposition of the AOI shares was received for services rendered and is thus business income. Although Lockwood reported $250,000 in business income in its taxation year ending October 31, 2012 (2012 taxation year), it now takes the position that that amount was taxable in its 2010 taxation year and not in its 2012 taxation year. Lockwood’s basis for this position is that it had rendered all of its services in 2010, hence the second portion of the finders’ fees, in the amount of $250,000, was an amount receivable that it was required to include in its income for the 2010 taxation year pursuant to paragraph 12(1)(b) of the Act. The Appellant further submits that its right to receive payment for services rendered was precisely ascertainable in 2010, hence the $250,000 is an amount receivable within the meaning of paragraph 12(1)(b) of the Act. [15]
+[27] Lockwood is asking the Court to cancel the inclusion of the amount of $250,000 as business income in its income for the 2012 taxation year. Lockwood argues that the Canada Revenue Agency ratified its error and that the Court ought not to analyze the consequences of a finding that the amount was taxable in 2010 and that it may be too late to reassess its 2010 taxation year.
+[28] Lockwood submits that the remainder of the proceeds, $571,828, is a capital gain on the basis that it was disposing of capital property with an adjusted cost base of $250,000, the value of the services rendered being the cost of the AOI shares.
+The Respondent’s position
+[29] The Respondent’s position is that Lockwood became entitled in 2012 to receive the second portion of its payment for services rendered in brokering the farm-in agreement. The Respondent submits that Lockwood received AOI shares with a FMV of $744,800 on June 15, 2012 and that this amount is business income to be included in Lockwood’s income for the 2012 taxation year. The amount of $744,800 is the adjusted cost base of the AOI shares and the difference between this amount and the total proceeds of disposition of $821,828 is to be included as a capital gain in Lockwood’s income for its 2012 taxation year.
+[30] The Respondent takes the position that paragraph 12(1)(b) of the Act does not apply in the circumstances because Lockwood did not have an absolute right to the second portion of the finder’s fee. The Respondent submits that Lockwood’s receipt of full payment of the maximum amount of the finder’s fee was conditional on LEO reaching a target amount of expenditures and on obtaining the required approval from the securities regulator. The Respondent submits that there was no evidence at trial regarding whether the amounts were due. [16] In addition, the Respondent argues that the amount payable to Lockwood was uncertain as it depended on the target amount of expenditures being reached, and the value of the shares fluctuated over time. [17]
+Analysis
+[31] The Appellant raises the issue of the timing of the inclusion of an amount of $250,000 that it contends was received for services rendered, as well as the matter of the characterization of the balance of the amount received in the form of the AOI shares worth $744,800. Both parties agree that an amount of $250,000 is business income but they disagree on the timing of the inclusion. In addition, both parties agree that the difference of $77,028 between the proceeds of disposition of $821,828 and the FMV of the AOI shares in June 2012 is a capital gain to be included in Lockwood’s income for the 2012 taxation year. The parties disagree as to whether the entire amount of $744,800, i.e., the FMV of the AOI shares in June 2012, is business income.
+i. Assumptions and admitted facts
+[32] The starting point for analyzing the proper characterization of the payments Lockwood received is the Minister’s assumptions in paragraph 18e) of the Reply referred to earlier in these reasons and reproduced below for ease of reference. At trial, counsel for the Appellant accepted these assumptions as true. Again, paragraph 18e) reads as follows:
+18e) As payment, for its services, [the] appellant was to be paid in the following manner:
+i) Upon finalization of the Farm-in agreement, a first payment of $150,000 in cash and the issuance of 444,444 common shares of LEO with a fair market value of $100,000. [first portion of the finder’s fee]
+ii) The issuance, from time to time of a maximum of 833,333 common shares of LEO with a deemed value of $0.30 per share. [second portion of the finder’s fee]
+[Comments added.]
+[33] The payment agreement alluded to above refers to “common shares of LEO with a deemed value of $0.30 per share”. This value does not represent the fair market value of the LEO shares, which, according to paragraph 18e)i), above, appears to have been $0.225 per share when the Allocation Agreement was entered into. I note that there was no evidence introduced at trial regarding the fair market value of the LEO shares at any relevant time. Further, there was no evidence introduced regarding the basis for choosing $0.30 as the deemed value of the AOI shares.
+[34] It is also useful to reproduce the following other assumptions of fact found in paragraph 18 of the Reply, which counsel for the Appellant admitted as true at the hearing:
+g) In June 2011, LEO and AOI entered into a Plan [of] arrangement whereby AOI acquired all the outstanding shares of LEO by exchanging shares of AOI at a ratio of $0.20 [sic] [18] share of AOI for every share of LEO.
+i) LEO could not honor its obligation as all of its shares were now held by AOI.
+j) In virtue of the Plan [of] agreement of June 2011, 833,333 common shares of LEO represent 166,666 common shares of AOI.
+k) On June 15, 2012, AOI and the appellant entered into an agreement where the appellant was issued, in full and final settlement of all obligations of AOI and LEO to the appellant, 95,000 common shares of AOI.
+l) As of June 15, 2012, the fair market value of AOI common shares was of $7.84 per share.
+n) Through the course of its taxation year ending October 31, 2012, the appellant disposed of its 95,000 common shares for a total proceed[s] of disposition of $821,828.
+[35] In light of the Minister’s assumptions reproduced in paragraphs 32 and 34 above, and admitted as true by counsel for the Appellant, [19] I find that the second portion of the finder’s fee payable to Lockwood in the form of LEO shares was replaced with a payment of 95,000 AOI shares with a FMV of $744,800.
+[36] The Minister made the following assumptions in paragraphs 18h) and m) of the Reply:
+h) During its taxation year ending October 31, 2012, the appellant became entitled to receive its second payment from LEO i.e. issuance of 833,333 common shares of LEO.
+m) On June 15, 2012, the appellant received, for its services rendered in brokering the Farm-in agreement between AOI and LEO, a payment in AOI common shares, worth $744,800.
+At trial, counsel for the Appellant took issue with the use of the word “entitled” in paragraph 18h) and submitted that, even though the amount was “payable” in 2012, Lockwood was entitled to the payment in 2010. In addition, counsel for the Appellant admitted that Lockwood received shares of AOI with a FMV of $744,800 but denied that $744,800 was paid for services rendered. Rather, the Appellant submitted that only $250,000 was paid for services rendered.
+[37] In its Notice of Appeal, at paragraphs 17 and 18, the Appellant stated:
+17. The target amount of $26,208,000 of expenditures was eventually met, at some point in 2011 or 2012. [In paragraph 7 of the Reply, the Minister admitted that the target amount was reached but had no knowledge of and put in issue the time at which that occurred.]
+18. The Appellant thus became entitled to fully receive its final payment representing 833,333 shares of LEO. [Admitted in paragraph 8 of the Reply.]
+[Comments added.]
+ii. Year of inclusion and application of paragraph 12(1)(b)
+[38] Although both parties agree that the target amount of $26,208,000 in expenditures was eventually reached, there was no evidence at trial regarding the date at which that occurred.
+[39] At trial, counsel for the Appellant submitted that Lockwood had become “entitled” to receive its second payment from LEO in the form of 833,333 common shares of LEO in 2010, contrary to the Minister’s assumption of fact in paragraph 18h) of the Reply and contrary to the Appellant’s own statements in paragraphs 17 and 18 of the Notice of Appeal. The Appellant argued that it had a right to receive an amount of $500,000 from LEO and further that the right was ascertainable with precision in 2010, [20] hence the amount was “receivable” in 2010 although “payable” in 2012. [21]
+[40] In support of the Appellant’s position, counsel for the Appellant relied on paragraph 12(1)(b) of the Act, which provides as follows:
+12 (1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+. . .
+(b) any amount receivable by the taxpayer in respect of property sold or services rendered in the course of a business in the year, notwithstanding that the amount or any part thereof is not due until a subsequent year, unless the method adopted by the taxpayer for computing income from the business and accepted for the purpose of this Part does not require the taxpayer to include any amount receivable in computing the taxpayer's income for a taxation year unless it has been received in the year, and for the purposes of this paragraph, an amount shall be deemed to have become receivable in respect of services rendered in the course of a business on the day that is the earlier of
+(i) the day on which the account in respect of the services was rendered, and
+(ii) the day on which the account in respect of those services would have been rendered had there been no undue delay in rendering the account in respect of the services.
+[41] There is no definition of “amount receivable” in the Act and its use in paragraph 12(1)(b) has been considered in relatively few cases, none of which are directly on point.
+[42] In noting that there was no statutory definition of “receivable” in MNR v John Colford Contracting Company Ltd, [22] Kearney J. of the Exchequer Court asserted that one should seek to find the ordinary meaning of the word “receivable”, but found that the Shorter Oxford dictionary definition “contribute[d] little towards a solution” (page 441) and stated as follows:
+In the absence of a statutory definition to the contrary, I think it is not enough that the so-called recipient have a precarious right to receive the amount in question, but he must have a clearly legal, though not necessarily immediate, right to receive it. [23]
+[43] Although in earlier cases, the test appears to have been applied in income tax cases resulting from expropriation, it has been adopted and applied in several other cases, including Maple Leaf Mills Ltd v MNR, [24] Commonwealth Construction Co v The Queen [25] and The Queen v Huang & Danczkay Ltd. [26]
+[44] In Maple Leaf Mills, [27] the Supreme Court of Canada stated that it accepted the test expressed in Colford without question and wrote:
+This test is the one this Court has applied in income tax cases resulting from expropriations; for an amount to become receivable in any taxation years, two conditions must coexist:
+(1) a right to receive compensation;
+(2) a binding agreement between the parties or a judgment fixing the amount.
+The principle is to be found in The Minister of National Revenue v. Benaby Realties Limited [[1968] S.C.R. 12] and in Vaughan Construction Company Limited v. The Minister of National Revenue [[1971] S.C.R. 55]. In the case at bar, we are admittedly faced with a very different set of facts; still as to the guaranteed minimum income, the prescribed conditions exist: the right to receive that minimum income is not contested and the binding agreement between the parties stipulates the quantum thereof. [28]
+[Emphasis added.]
+[45] In applying the Colford test approved by the Supreme Court of Canada in Maple Leaf Mills to the circumstances of this case, it must be determined if and when Lockwood 1) had a right to receive compensation from LEO, and 2) had a binding agreement fixing the amount to be received from LEO.
+Right to receive compensation
+[46] As noted earlier, in Colford, the Exchequer Court found that for an amount to be receivable, the recipient must have “a clearly legal, though not necessarily immediate, right to receive it.” [29]
+[47] One of the issues in Colford concerned the timing of the inclusion in income of holdbacks payable to the company when the owner’s architect or engineer, as specified in the contract, had issued a certificate of completion of the entire construction project. Kearney J. found that the holdbacks did not take on the quality of a receivable until the work had been accepted by the architect. [30] He concluded that the condition precedent ceased to exist on the date of the architect’s certificate and that the holdbacks acquired the quality of a receivable on that date. The holdbacks had to be included in income in the taxation year in which they became a receivable and not the following year when they were actually received. [31]
+[48] In Commonwealth Construction, the appellant company submitted that amounts should not be included in its income in 1974 and 1975, the years they were received, because it did not have an unqualified right to those amounts because of an outstanding appeal which was finally settled in 1977. Urie J. of the Federal Court of Appeal found that the rights to “the amounts paid to it [the appellant company] in 1974 and 1975 were ‘absolute and under no restriction, contractual or [otherwise], as to [their] disposition, use or enjoyment’. They were not held subject to any specific and unfulfilled conditions.” [32] Urie J. acknowledged that the amounts, or part thereof, might have to be returned if the appeal were successful; however, that was a condition subsequent, which did not affect the unrestricted right to use the money until such a requirement came into existence as a result of the appeal judgment.
+[49] Regarding the effect of conditions on accrual income, Urie J. further stated as follows:
+As to the difference in effect of a condition precedent from a condition subsequent on the question of an accrual to income, the learned trial judge relied on a quotation from Meteor Homes Ltd v Minister of National Revenue, [1960] C.T.C. 419; 61 D.T.C. 1001 at 430-31; [1007–8] which substantiates the view which I expressed, supra:
+. . . Mertens, Law of Federal Income Taxation, Vol 2, c 12, p 127, considers “the problem of when items are . . . deductions to the taxpayer on the accrual basis”, and deals with it at p 132 in these terms:
+Not every contingency prevents the accrual of income: the contingency must be real and substantial. A condition precedent to the creation of a legal right to demand payment effectively bars the accrual of income until the condition is fulfilled, but the possible occurrence of a condition subsequent to the creation of a liability is not grounds for postponing the accrual. [33]
+[Emphasis added.]
+[50] Hence, an amount accrues to a taxpayer when conditions precedent are fulfilled and conversely does not accrue and is not receivable if conditions precedent remain unsatisfied.
+[51] The Federal Court of Appeal considered the meaning of “receivable” in Huang and, after asserting that the test was adopted without question in Maple Leaf Mills, wrote as follows: “Colford does not require that for an amount to be receivable, there be an immediate right to receive payment.” [34] In Huang, the Court found that the corporate taxpayer’s right to receive the amounts of the promissory notes and mortgages, arose from the limited partnerships making and signing the notes and mortgages, and “[w]ith these notes and mortgages being given, the right to receive the amounts in question became absolute.” [35]
+[52] The circumstances of this appeal are unlike those in Huang where the right to receive the amounts in question became absolute at the time of the signing of the promissory notes and mortgages and where the right of set-off did not convert these absolute obligations into contingent ones. [36] Also, unlike the circumstances in Commonwealth Construction, the amounts to be paid by LEO were not absolute and under no restriction, but rather, they were subject to a condition precedent.
+[53] According to the portion of the Allocation Agreement entered into evidence, Lockwood did not have an uncontested right to the payment of the second portion of the finder’s fee, this right being conditional on LEO meeting the expenditure target of $26,208,000. As mentioned earlier, there was no evidence at trial supporting the Appellant’s position that this condition precedent was fulfilled in 2010. Hence, the Appellant was unable to successfully challenge the Minister’s position that the condition was fulfilled in 2012. I find that Lockwood did not have “a right to receive compensation” in the form of the second portion of the finder’s fee in 2010; its right to receive this compensation cannot be said to have been “absolute and under no restriction.”
+A binding agreement fixing the amount
+[54] In Maple Leaf Mills, the Supreme Court of Canada explicitly stated that, for an amount to be receivable, two conditions must coexist, the second of which requires that there be a binding agreement between the parties (or a judgment) fixing the amount.
+[55] In Maple Leaf Mills, the appellant corporation had purchased a vessel that was under charter to another corporation. The vendors had agreed to reimburse Maple Leaf Mills Ltd. if there were deficiencies in the revenue from the charter corporation. The Supreme Court of Canada was called upon to consider the appropriate year in which to include amounts that arose under “indemnity agreements [that] guaranteed a specific income”. Unlike the situation in Maple Leaf Mills, there was no amount of guaranteed income in this case. There was a maximum but no minimum. As mentioned earlier, there was no evidence at trial regarding the moment when LEO reached the target amount of $26,208,000 in expenditures, nor was there any evidence of how not meeting certain benchmarks would have affected the payment of the finder’s fee.
+[56] In Commonwealth Construction, the Federal Court of Appeal also considered the question of the year in which amounts were properly to be included in income. The Federal Court of Appeal quoted from the decision in MNR v Benaby Realties Limited. [37] There the Supreme Court of Canada stated that “in the absence of a binding agreement between the parties or of a judgment fixing the compensation, the owner had no more than a right to claim compensation and there is nothing which can be taken into account as an amount receivable due to the expropriation” and that the Act “requires that profits be taken into account or assessed in the year in which the amount is ascertained”, and there could be no amount receivable “until the amount was fixed either by arbitration or agreement.” [38]
+[57] In West Kootenay Power and Light Co v Canada, [39] the Federal Court of Appeal held that unbilled revenue, i.e. the estimated price of delivered electricity not yet billed or “due”, was “receivable” because West Kootenay Power had a clear legal right to payment and the amounts were sufficiently ascertainable even if the exact amount due would only be known at the end of the customer’s billing cycle, which ended the following year. I note that the focus of the analysis in West Kootenay Power rests on the appropriate accounting method that provided the best match between West Kootenay Power’s income and expenses and a truer picture of its revenue. The Court found that the accrual method provided the best match and that paragraph 12(1)(b) of the Act did not prevent the use of the accrual method since the unbilled amounts could be reasonably estimated.
+[58] Unlike West Kootenay Power, Lockwood could not sufficiently ascertain the amount it would receive as the second portion of the payment of the finder’s fee in 2010 because it did not know if and when LEO would meet the expenditure benchmarks.
+Conclusion on the application of paragraph 12(1)(b) of the Act
+[59] Although both parties agree that the target amount of $26,208,000 in expenditures was eventually reached, there was no evidence at trial regarding the date at which that occurred. The second portion of the finder’s fees was not “receivable” in 2010, as argued by the Appellant, because Lockwood did not have a right to receive its compensation unless and until LEO made the minimum expenditures, and because the Allocation Agreement did not fix the amount that Lockwood might eventually receive. The Minister’s assumption that Lockwood became entitled to receive the second portion of its payment from LEO during its taxation year ending October 31, 2012 was not demolished by the Appellant. Therefore, I find that the second portion of the finder’s fee was not receivable, within the meaning of paragraph 12(1)(b) of the Act, in 2010.
+iii. Characterization of the payment received in the form of AOI shares
+[60] The above finding still leaves open the question of the appropriate characterization of the difference between $250,000 (the deemed value of the LEO shares Lockwood could receive as the second portion of the payment of the finder’s fee if and when the target amount of expenditures was met) and $744,800 (the value of the AOI shares that Lockwood received in 2012). The parties disagree on the appropriate amount to be used as the adjusted cost base of the AOI shares for the purpose of calculating the capital gain.
+[61] Lockwood argued that it received $250,000 as the second portion of its payment for “services rendered” in 2010. Lockwood submitted that when it received the AOI shares, which replaced the LEO shares specified as the form of the second portion of the payment under the Allocation Agreement, it received capital property. Counsel for the Appellant relied on the definition in section 54 of the Act, which provides that the “adjusted cost base” of capital property is the “cost” of the property to the taxpayer, and submitted that the AOI shares had a cost of $250,000, the amount Lockwood received for services rendered. In Lockwood’s view, any increase in the value of the shares received has nothing to do with the services rendered. Hence, the increase in value cannot be characterized as business income.
+[62] Counsel for the Respondent argued that when Lockwood became entitled to receive the second portion of the finder’s fee in 2012, it received AOI shares with a FMV of $744,800 “for services rendered”. Hence, the amount of $744,800 is business income and that amount is the adjusted cost base of the AOI shares such that the difference of $77,028 between the proceeds of disposition of the shares and the adjusted cost base is the only amount that is taxable as a capital gain.
+[63] Clearly, the 95,000 AOI shares given as payment pursuant to the settlement agreement between Lockwood and AOI were meant to replace the payment of the second portion of the finder’s fee, which was to be made in LEO shares. [40] Consequently, to determine the characterization of the payment received in AOI shares, the Court must determine the proper characterization of the payment in LEO shares under the Allocation Agreement.
+[64] What was Lockwood being paid for in the form of LEO shares under the Allocation Agreement? In answering that question, I find that Lockwood was being paid for the services rendered in brokering the farm-in agreement. Lockwood was being paid its finder’s fee. Although there was uncertainty as to the quantum and the timing of the second portion of the finder’s fee to be received under the Allocation Agreement, Lockwood knew that if and when LEO met its expenditure target, it could become entitled to a payment of 833,333 LEO shares for its services. I find that the payment of the 833,333 LEO shares would have been a payment to Lockwood for services rendered, hence it is business income.
+[65] The Appellant has not persuaded the Court that the purpose of the payment of 833,333 LEO shares would change if the value of the shares changed, a foreseeable consequence considering the nature of the Allocation Agreement. The LEO shares, whether valued at more or less than $250,000 when actually issued to Lockwood, would have been received as payment for services rendered. It follows that since the 95,000 AOI shares replaced the 833,333 LEO shares, the AOI shares valued at $744,800 were received for services rendered. Hence, the amount of $744,800 is taxable as business income in Lockwood’s taxation year ending October 31, 2012.
+[66] Section 54 of the Act provides that the adjusted cost base of capital property is the “cost” of the property to the taxpayer. The Act does not define “cost”, but the courts have found that “cost” means “the price that the taxpayer gave up in order to get the asset”. [41] The amount of $744,800 received for the services rendered thus becomes the adjusted cost base of the AOI shares received in 2012. That is the amount that the taxpayer gave up to acquire the shares. Since Lockwood disposed of all the AOI shares by October 31, 2012 for proceeds of $821,828, the difference of $77,028 between the proceeds and the adjusted cost base of the AOI shares is taxable as a capital gain in its taxation year ending October 31, 2012.
+V. Conclusion
+[67] I find that the amount of $744,800 received in the form of AOI shares in 2012 was received by Lockwood for services rendered and is taxable as business income. The balance of the proceeds of disposition, in the amount of $77,028, is taxable as a capital gain. Both amounts are taxable in Lockwood’s taxation year ending October 31, 2012.
+[68] The appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 18th day of November 2020.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+CITATION:
+2020 TCC 128
+COURT FILE NO.:
+2016-4952(IT)G
+STYLE OF CAUSE:
+LOCKWOOD FINANCIAL LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+February 13 and 14, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St-Hilaire
+DATE OF JUDGMENT:
+November 18, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Jean-François Poulin
+Sofia Guedez
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jean-François Poulin
+Sofia Guedez
+Firm:
+Ravinsky Ryan Lemoine, s.e.n.c.r.l.
+Montreal, Quebec
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c 1 (5th Supp) (the Act).
+[2] Lockwood shared the finder’s fees with Peninsula Merchant Syndications Corp., a corporation that participated in brokering the transaction.
+[3] The Queen v Anchor Pointe Energy Ltd, 2007 FCA 188 at para 35. The Federal Court of Appeal restated this principle in House v The Queen, 2011 FCA 234 at para 30.
+[4] The Appellant requested an adjournment on February 4, 2020. I note that the matter had been set down for trial on March 4, 2019.
+[5] Exhibit A-1, Tab 6, Allocation of Finders’ Fees agreement, portion only [sometimes herein referred to as the Allocation Agreement].
+[6] Exhibit A-2, Rapport du vérificateur, dated June 19, 2014 (Marina Makhles, auditor).
+[7] The Appellant’s counsel described the absence of its witness as a “handicap” (in French). See Transcript of the hearing, February 14, 2020 (volume 2), page 53, line 22 to page 54, line 3.
+[8] See Transcript of the hearing, February 14, 2020 (volume 2) at page 56.
+[9] Pillsbury Canada Ltd v MNR (1964), [1965] 1 Ex CR 676 at 686 [Pillsbury].
+[10] Ibid. See also The Queen v Loewen, 2004 FCA 146 at para 8: “The Minister's factual assumptions, as stated in the Crown's pleadings, are taken as fact unless they are disproved or it is established that the Minister did not make the assumptions that are said to have been made. The taxpayer has the onus of proving that the Minister's assumptions are not true or that they were not made. It is also open to the taxpayer to attempt to establish by argument that, even if the assumed facts are true, they do not justify the assessment as a matter of law: Johnston v. Minister of National Revenue, [1948] S.C.R. 486, [1948] C.T.C. 195, 3 D.T.C. 1182 (S.C.C.); Minister of National Revenue v. Pillsbury Holdings Ltd. (1964), [1965] 1 Ex. C.R. 676, [1964] C.T.C. 294, 64 D.T.C. 5184 (Can. Ex. Ct.).”
+[11] See Eisbrenner v The Queen, 2020 FCA 93 at para 47, leave to appeal to SCC requested: “As noted by the Supreme Court of Canada, the well-settled rule in civil cases is that the person who alleges must prove.”
+[12] This is the Minister’s assumption of fact at paragraph 18e) of the Reply. This assumption reflects the portion of the Allocation of Finders’ Fees agreement admitted into evidence, and at the hearing, the Appellant acknowledged that the Minister’s assumption in paragraph 18e) was true. The assumption also reflects part of paragraph 13 of the Notice of Appeal. However, at trial, counsel for the Appellant sought to amend paragraph 13 of the Notice of Appeal to indicate that the fee was payable by the issuance of 833,333 common shares of LEO “or other similar shares”. Counsel for the Respondent submitted that the amendment came a bit late but did not object to it other than to insist that the Appellant had the burden of proving paragraph 13. The amendment was allowed. I note that in paragraph 5 of the Reply, the Respondent states that she has no knowledge of and puts in issue the facts alleged in paragraph 13.
+[13] Part of paragraph 13 of the Notice of Appeal dealt with how the payments in shares were to be distributed on the basis of certain benchmarks regarding the expenditures to be made, but there was no evidence on this at trial.
+[14] Exhibit A-1, Tab 8, Settlement Agreement. Although a letter dated June 12, 2012 entered into evidence with the Settlement Agreement at Tab 8 refers to an attached allocation spreadsheet, the Appellant did not introduce the spreadsheet into evidence.
+[15] See Transcript of the hearing, February 13, 2020 (volume 1), page 132, lines 23-26: “déterminable avec précision en 2010.”
+[16] Transcript of the hearing, February 14, 2020 (volume 2), page 30, lines 11-16. I note that paragraph 12(1)(b) seeks to include an amount that was “receivable” notwithstanding that the amount may not be due until a subsequent year.
+[17] Transcript of the hearing, February 14, 2020 (volume 2), pages 31 and 37. In support of its position that the amounts payable by LEO to Lockwood were uncertain, the Respondent provided the following examples from the Notice of Appeal: i) the Appellant wrote that “[d]ue to the uncertainty surrounding the unpaid portion of the finder’s fees, the Appellant took a provision [sic: this is the French word for reserve] in respect of this amount for its October 31, 2010 and 2011 taxation year[s]” (at paragraph 16); ii) the Appellant stated that it “had no legal right to enforce payment from AOI” (at paragraph 21); and iii) the Appellant stated that “[t]he target amount of $26,208,000 of expenditures was eventually met, at some point in 2011 or 2012” (at paragraph 17). Regarding paragraph 16 of the Notice of Appeal, I note that the CRA auditor, Ms. Marina Makhles testified that, during the audit, Lockwood’s representatives told her that Lockwood had reported $250,000 for the second portion of the finders’ fees in 2010 but had taken an equal amount as a reserve due to the uncertainty of receiving the amount. At the hearing, counsel for the Appellant acknowledged that no reserve was in fact taken. Further, counsel for the Appellant acknowledged that there was no evidence to support an argument about the applicability of a reserve under section 20 of the Act and stated that he would not be making any arguments on that issue. See Transcript of the hearing, February 14, 2020 (volume 2), pages 21-22.
+[18] Although paragraph 18g) says “$0.20”, at trial, the Respondent indicated that she had meant to write 0.20.
+[19] Transcript of the hearing, February 13, 2020 (volume 1), pages 36-41.
+[20] Transcript of the hearing, February 13, 2020 (volume 1), page 132. After referring to the Allocation Agreement, which provided that “LEO will pay Lockwood the sum of $500,000”, counsel for the Appellant stated: “ce montant, non seulement était déterminable, mais il était déterminable avec précision en 2010.” I note that the Allocation Agreement provided that “LEO will pay Lockwood the sum of $500,000, subject to adjustment as set out above” and that not all of what was “set out above” was in the part of the agreement that was entered into evidence.
+[21] Transcript of the hearing, February 13, 2020 (volume 1), page 38.
+[22] MNR v John Colford Contracting Company Ltd, [1960] Ex CR 433 (appeal dismissed without reasons [1962] SCR viii) [Colford].
+[23] Ibid. at 441.
+[24] Maple Leaf Mills Ltd. v MNR, [1977] 1 SCR 558 [Maple Leaf Mills].
+[25] Commonwealth Construction Co v The Queen, [1984] CTC 338, 56 NR 309 (FCA) [Commonwealth Construction].
+[26] The Queen v Huang & Danczkay Ltd., [2000] 4 CTC 219, 2000 DTC 6549 (FCA) at para 14 [Huang].
+[27] Maple Leaf Mills, supra note 24.
+[28] Ibid. at 566-567.
+[29] Colford, supra note 22, at 441.
+[30] Ibid, at 443-444.
+[31] Ibid, at 444.
+[32] Commonwealth Construction, supra note 25, at 342 CTC, para 22 NR.
+[33] Ibid, at 342 CTC, para 23 NR.
+[34] Huang, supra note 26, at para 14.
+[35] Ibid at para 20.
+[36] Ibid at paras 20 and 22.
+[37] MNR v Benaby Realties Limited, [1968] SCR 12.
+[38] Commonwealth Construction, supra note 25, at 341 CTC, paras 18 and 19 NR.
+[39] West Kootenay Power and Light Co v The Queen, [1992] 1 FC 732 (FCA) [West Kootenay Power].
+[40] For a discussion of the surrogatum principle, see Tsiaprailis v R, 2005 SCC 8.
+[41] See The Queen v Stirling, [1985] 1 CTC 275 at 276, [1985] 1 FC 342 (FCA) at 343, wherein the Court found that the term “cost” means “the price that the taxpayer gave up in order to get the asset”. The Federal Court of Appeal approved of this definition in Coast Capital Savings Credit Union v The Queen, 2016 FCA 181 at para 31. See also Vern Krishna, Fundamentals of Canadian Income Tax (Toronto: Carswell, 2014), vol 1, ch 11 at 472-473: “The Act does not define the terms “capital cost” and “cost”. Hence, we interpret them according to their commercial usage. “Cost” refers to the price that the taxpayer gives up in order to acquire the property.”

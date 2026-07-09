@@ -1,0 +1,228 @@
+Title: Peter Cedar Products Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29424/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-463-29424-peter-cedar-products-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-09-23
+
+# Peter Cedar Products Ltd. c. La Reine
+
+- Citation: 2009 CCI 463
+- Decision date: 2009-09-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6976, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peter Cedar Products Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-23
+Référence neutre
+2009 CCI 463
+Numéro de dossier
+2006-2403(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2403(IT)G
+ENTRE :
+PETER CEDAR PRODUCTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de 596283 B.C. Ltd. (2006‑2404(IT)G) et d'Europa Cedar Corp. (2006‑2405(IT)G), les 18, 19 et 20 août 2009, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Avocats de l'appelante :
+Me Gordon S. Funt et
+Me Michelle Moriartey
+Avocate de l'intimée :
+Me Susan Wong
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des nouvelles cotisations relatives aux années d'imposition 2001, 2002 et 2003 de l'appelante sont accueillis, avec dépens, et les nouvelles cotisations sont annulées. L'appelante aura droit aux dépens (à l'exception des débours) fixés séparément et indépendamment des dépens fixés relativement à 596283 B.C. Ltd. et à Europa Cedar Corp. En conséquence, les dépens (à l'exception des débours) accordés à l'appelante seront fixés comme si aucuns dépens n'avaient été accordés à 596283 B.C. Ltd. et à Europa Cedar Corp. Le montant accordé au titre des débours de l'appelante sera fixé en fonction du montant des débours qui ont été exigés de l'appelante ou que cette dernière a payés.
+Signé à Vancouver (Colombie‑Britannique), ce 23e jour de septembre 2009.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 11e jour de décembre 2009.
+Yves Bellefeuille, réviseur
+Dossier : 2006-2404(IT)G
+ENTRE :
+596283 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Peter Cedar Products Ltd. (2006‑2403(IT)G) et d'Europa Cedar Corp. (2006‑2405(IT)G), les 18, 19 et 20 août 2009, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Avocats de l'appelante :
+Me Gordon S. Funt et
+Me Michelle Moriartey
+Avocate de l'intimée :
+Me Susan Wong
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des nouvelles cotisations relatives aux années d'imposition 2001, 2002 et 2003 de l'appelante sont accueillis, avec dépens, et les nouvelles cotisations sont annulées. L'appelante aura droit aux dépens (à l'exception des débours) fixés séparément et indépendamment des dépens fixés relativement à Peter Cedar Products Ltd. et à Europa Cedar Corp. En conséquence, les dépens (à l'exception des débours) accordés à l'appelante seront fixés comme si aucuns dépens n'avaient été accordés à Peter Cedar Products Ltd. et à Europa Cedar Corp. Le montant accordé au titre des débours de l'appelante sera fixé en fonction du montant des débours qui ont été exigés de l'appelante ou que cette dernière a payés.
+Signé à Vancouver (Colombie‑Britannique), ce 23e jour de septembre 2009.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 11e jour de décembre 2009.
+Yves Bellefeuille, réviseur
+Dossier : 2006-2405(IT)G
+ENTRE :
+EUROPA CEDAR CORP.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Peter Cedar Products Ltd. (2006‑2403(IT)G) et de 596283 B.C. Ltd. (2006‑2404(IT)G), les 18, 19 et 20 août 2009, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Avocats de l'appelante :
+Me Gordon S. Funt et
+Me Michelle Moriartey
+Avocate de l'intimée :
+Me Susan Wong
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation relative à l'année d'imposition 2002 de l'appelante est accueilli, avec dépens, et la nouvelle cotisation est annulée. L'appelante aura droit aux dépens (à l'exception des débours) fixés séparément et indépendamment des dépens fixés relativement à Peter Cedar Products Ltd. et à 596283 B.C. Ltd. En conséquence, les dépens (à l'exception des débours) accordés à l'appelante seront fixés comme si aucuns dépens n'avaient été accordés à Peter Cedar Products Ltd. et à 596283 B.C. Ltd. Le montant accordé au titre des débours de l'appelante sera fixé en fonction du montant des débours qui ont été exigés de l'appelante ou que cette dernière a payés.
+Signé à Vancouver (Colombie‑Britannique), ce 23e jour de septembre 2009.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 11e jour de décembre 2009.
+Yves Bellefeuille, réviseur
+Référence : 2009 CCI 463
+Date : 20090923
+Dossier : 2006-2403(IT)G
+ENTRE :
+PETER CEDAR PRODUCTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2006-2404(IT)G
+ET ENTRE :
+596283 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2006-2405(IT)G
+ET ENTRE :
+EUROPA CEDAR CORP.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige dans les présents appels est celle de savoir si les sociétés Europa Cedar Corp. (« Europa »), 596283 B.C. Ltd. (« 596 ») et Peter Cedar Products Ltd. (« Peter Cedar ») exploitaient des entreprises de prestation de services personnels en ce qui concerne les services fournis à Anglo American Cedar Products Ltd. (« Anglo ») par Patrick Guterres et Peter Laslo pour le compte de 596 et de Peter Cedar, respectivement, pendant les années d'imposition 2001, 2002 et 2003 de ces sociétés, et par Randy Engh pour le compte d'Europa pendant l'année d'imposition 2002 de cette société.
+[2] Le paragraphe 125(7) de la Loi de l'impôt sur le revenu (la « Loi ») définit ainsi l'expression « entreprise de prestation de services personnels » :
+« entreprise de prestation de services personnels » S'agissant d'une entreprise de prestation de services personnels exploitée par une société au cours d'une année d'imposition, entreprise de fourniture de services dans les cas où :
+a) soit un particulier qui fournit des services pour le compte de la société — appelé « employé constitué en société » à la présente définition et à l'alinéa 18(1)p);
+b) soit une personne liée à l'employé constitué en société,
+est un actionnaire déterminé de la société, et où il serait raisonnable de considérer l'employé constitué en société comme étant un cadre ou un employé de la personne ou de la société de personnes à laquelle les services sont fournis, si ce n'était de l'existence de la société, à moins :
+c) soit que la société n'emploie dans l'entreprise tout au long de l'année plus de cinq employés à temps plein;
+d) soit que le montant payé ou payable à la société au cours de l'année pour les services ne soit reçu ou à recevoir par celle-ci d'une société à laquelle elle était associée au cours de l'année.
+[3] Randy Engh, Patrick Guterres et Peter Laslo étaient des employés d'Anglo avant la réorganisation effectuée en 2000. Même si les particuliers étaient, avant la réorganisation, des employés d'Anglo, cela ne les empêchait pas de modifier leur situation et d'exploiter une entreprise qui fournissait des services à cette même société (Galaxy Management Ltd. c. La Reine, 2005 CCI 674).
+[4] Anglo était (et est toujours) une société de courtage qui achetait des bardeaux et des bardeaux de fente en cèdre de diverses scieries (dont certaines appartenaient à Anglo) et qui les vendait à divers clients. Anglo est devenue propriétaire des scieries qui lui appartenaient parce qu'elle avait prêté de l'argent à leurs propriétaires respectifs et que ceux‑ci avaient manqué à leur obligation de remboursement.
+[5] Randy Engh, Patrick Guterres et Peter Laslo composaient l'ensemble de l'équipe de vente d'Anglo. Non seulement étaient‑ils responsables des ventes des produits, mais ils étaient en outre chargés de trouver des sources de bardeaux et de bardeaux de fente en cèdre ainsi que de traiter avec les propriétaires des scieries en vue d'acheter ces bardeaux.
+[6] En 2000, on a procédé à une réorganisation. Les trois particuliers ont cessé d'être employés par Anglo. Patrick Guterres a constitué 596 en société et Peter Laslo a fait de même avec Peter Cedar. Randy Engh avait déjà une société (Europa). Ces trois sociétés par actions ont formé une société de personnes dénommée « Tyee Cedar Sales » (« Tyee »). Tyee a par la suite conclu avec Anglo une entente visant le poste d'agent des ventes qui prévoyait notamment que Tyee agirait comme [TRADUCTION] « représentante autorisée des ventes exclusivement pour le compte d'Anglo afin de commercialiser et de distribuer les produits de cette dernière, ainsi que les produits d'autres sociétés ». Tyee s'engageait également [TRADUCTION] « à aider Anglo en matière d'achat de biens et de services ».
+[7] De façon générale, Tyee devait assurer les mêmes services que les trois particuliers avaient antérieurement fournis. Toutefois, d'importants changements étaient apportés à la manière dont les services devaient être fournis et à la manière dont Tyee et chacune des sociétés devaient être rémunérées.
+[8] Avant la réorganisation — lorsque les trois particuliers étaient des employés d'Anglo —, si une scierie de cette dernière (c'est‑à‑dire une scierie dont Anglo était propriétaire directement ou à titre d'associée dans une société de personnes, ou une scierie à laquelle Anglo avait consenti un financement afin de permettre à son propriétaire d'acheter des billes pour les transformer) avait un produit à vendre, les particuliers étaient chargés de vendre ce produit. Après la réorganisation, les trois particuliers pouvaient négocier avec n'importe quelle scierie afin d'obtenir le meilleur prix possible. Dans les cas où une scierie n'appartenant pas à Anglo leur faisait un prix plus avantageux, la scierie d'Anglo avait le droit de leur offrir un prix équivalent, mais, si elle ne pouvait (ou ne voulait) pas le faire, ils avaient la possibilité de conclure l'affaire avec la scierie n'appartenant pas à Anglo. Les particuliers jouissaient donc d'une plus grande latitude et d'une plus grande maîtrise en matière d'achat de produits qu'avant la réorganisation.
+[9] Un facteur peut‑être plus important encore que le changement dans la façon dont les achats pouvaient être effectués est le fait que la rémunération a été modifiée. Avant la réorganisation, les particuliers recevaient une commission fondée uniquement sur le prix de vente du produit vendu. Après la réorganisation, les sommes payables à Tyee correspondaient à un pourcentage du profit brut majoré des économies réalisées par Anglo au titre des frais de transport (la part du profit brut croissait selon que le profit d'Anglo augmentait), des profits tirés de la cour à bois, des profits et des économies au titre des frais de transport liés à Sunset Forest Products (autre entreprise de courtage que l'un ou plusieurs des trois particuliers ont présentée à Anglo) ainsi que des ventes faites par D. Martin et T. Potts. Si une perte survenait, elle était également partagée entre Anglo et Tyee.
+[10] Randy Engh, Patrick Guterres et Peter Laslo ont affirmé qu'avant la réorganisation, ils éprouvaient une certaine frustration en raison des arrangements pris avec Anglo et souhaitaient que des changements soient apportés. Certains d'entre eux, voire les trois, étaient en outre sollicités par d'autres sociétés qui voulaient retenir leurs services.
+[11] Gerry Clark, le président d'Anglo, a déclaré qu'il savait que les concurrents de sa société cherchaient à convaincre ces particuliers de travailler pour eux. Il a ajouté qu'il se préoccupait de la baisse dans l'approvisionnement du matériel utilisé pour les produits de bardeaux et de bardeaux de fente en cèdre ainsi que de certaines obligations en matière d'indemnités de départ auxquelles Anglo pourrait faire face. C'est donc la volonté des trois vendeurs et d'Anglo d'apporter un changement important à la façon de procéder aux achats et aux ventes, à la relation existant entre eux et à la façon de fixer la rémunération qui était à l'origine de la réorganisation.
+[12] Selon la déclaration conjointe d'intention relative au choix de la société de personnes comme moyen de procéder à la réorganisation, on souhaitait que les trois particuliers travaillent ensemble et on souhaitait éviter qu'ils ne travaillent chacun pour soi. Manifestement, on a choisi de constituer une société de personnes parce qu'elle reflétait la mise en oeuvre d'un effort coopératif parmi les associés et qu'elle inciterait les trois particuliers à travailler de concert.
+[13] Au début de l'audience, les avocats des appelantes et l'avocate de l'intimée ont produit un exposé partiel conjoint des faits et de la question en litige pour chacun des appels. La question sur laquelle les avocats des appelantes et l'avocate de l'intimée se sont entendus est la même pour chaque appel et elle est libellée en ces termes : [TRADUCTION] « L'appelante exploitait‑elle une « entreprise de prestation de services personnels » au sens du paragraphe 125(7) de la Loi? »
+[14] Les avocats de chacune des parties ont également convenu dans le même document que [TRADUCTION] « si la question reçoit une réponse négative, l'appel devrait alors être accueilli et les nouvelles cotisations devraient être annulées [et] si la question reçoit une réponse affirmative, l'appel devrait alors être rejeté ».
+[15] Dans les exposés partiels conjoints des faits produits, on a reconnu que Randy Engh, Patrick Guterres et Peter Laslo étaient chacun, respectivement, actionnaire déterminé d'Europa, de 596 et de Peter Cedar. On ne prétend pas que l'alinéa c) ou l'alinéa d) de la définition de l'expression « entreprise de prestation de services personnels » s'applique à l'une ou l'autre de ces sociétés, et il ressort de la preuve que ces alinéas ne s'appliquent effectivement pas.
+[16] Les trois particuliers agissaient également à titre d'administrateurs d'Anglo. Comme l'a signalé le juge Rip (tel était alors son titre) dans la décision Taylor c. Ministre du Revenu national, no 86‑33(IT), 26 août 1988, [1988] 2 C.T.C. 2227, 88 D.T.C. 1571, un administrateur d'une société est, pour l'application de la Loi, un employé de cette société. L'avocate de l'intimée n'a pas fait valoir que les sociétés exploitaient une entreprise de prestation de services personnels tout simplement parce que les particuliers étaient des administrateurs d'Anglo, et donc des employés de celle‑ci. L'avocate de l'intimée a débattu la présente affaire sur le fondement que cela n'était pas suffisant pour répondre à la définition d'« entreprise de prestation de services personnels ». Je suis d'accord avec cette position.
+[17] La définition du terme « entreprise de prestation de services personnels » prévoit en partie ce qui suit :
+« entreprise de prestation de services personnels » S'agissant d'une entreprise de prestation de services personnels exploitée par une société au cours d'une année d'imposition, entreprise de fourniture de services dans les cas où :
+a) soit un particulier qui fournit des services pour le compte de la société — appelé « employé constitué en société » à la présente définition et à l'alinéa 18(1)p);
+[...]
+[...] et où il serait raisonnable de considérer l'employé constitué en société comme étant un cadre ou un employé de la personne ou de la société de personnes à laquelle les services sont fournis, si ce n'était de l'existence de la société [...]
+[18] Dans l'arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54, [2005] 2 R.C.S. 601, la Cour suprême du Canada a tenu les propos suivants :
+10. Il est depuis longtemps établi en matière d'interprétation des lois qu'« il faut lire les termes d'une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s'harmonise avec l'esprit de la loi, l'objet de la loi et l'intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L'interprétation d'une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s'harmonise avec la Loi dans son ensemble. Lorsque le libellé d'une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d'interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d'un sens raisonnable, leur sens ordinaire joue un rôle moins important. L'incidence relative du sens ordinaire, du contexte et de l'objet sur le processus d'interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d'une loi comme formant un tout harmonieux.
+[19] Il me semble que la mention selon laquelle il « serait raisonnable de considérer [...] comme étant un cadre ou un employé de la personne [...] à laquelle les services sont fournis » qui figure dans la définition du terme « entreprise de prestation de services personnels » doit être interprétée comme si elle signifiait qu'il « serait raisonnable de considérer l'employé constitué en société comme étant un cadre ou un employé » de cette personne lorsqu'il fournit les services pour le compte de la société. Une entreprise de prestation de services personnels est une entreprise qui fournit des services et qui est exploitée par une société. Il me semble donc que la question de savoir si la personne serait un employé (si ce n'était de l'existence de la société) doit être tranchée à la lumière des services qui ont été fournis par la société — et non sur le fondement de quelque autre service que le particulier pourrait fournir à titre d'employé et qui n'a aucun lien avec les services assurés par la société. La question de savoir si une entreprise est une entreprise de prestation de services personnels n'est pertinente que dans les cas où une société fournit des services et, par conséquent, la question à trancher est celle de savoir si la personne qui fournit les services eût été un employé si la société n'avait pas existé.
+[20] Le simple fait que la personne puisse par ailleurs être un employé (comme en l'espèce où les particuliers sont administrateurs d'Anglo) ne saurait être suffisant pour répondre à la définition d'entreprise de prestation de services personnels si les services en cause (soit les services fournis par la société) sont distincts des autres tâches de la personne à titre d'employé. Dans la présente affaire, la prestation des services d'achat et de vente était distincte des services que les trois particuliers fournissaient à titre d'administrateurs d'Anglo. Même si tous les particuliers étaient des employés d'Anglo par suite de leur situation d'administrateurs d'Anglo, la question de savoir s'ils étaient des employés en ce qui concerne les services d'achat et de vente fournis doit être tranchée de façon distincte, puisque les services en cause n'étaient pas les services qu'ils fournissaient à titre d'administrateurs. Il s'agit donc de savoir si les particuliers eussent été des employés d'Anglo, lorsqu'ils fournissaient ces services, si Europa, 596 et Peter Cedar n'avaient pas existé.
+[21] Il me semble que la question soulevée dans les présents appels peut être reformulée comme suit : si Europa, 596 et Peter Cedar n'existaient pas, Randy Engh, Patrick Guterres et Peter Laslo seraient‑ils des employés d'Anglo en ce qui touche les services de vente et d'achat qui étaient fournis à Anglo, ou exploiteraient‑ils une entreprise lorsqu'ils fournissaient ces services à Anglo? En l'espèce, s'ils exploitaient une entreprise, ce serait en qualité d'associés.
+[22] Les tribunaux ont dû, à maintes reprises, trancher la question de savoir si une personne est un employé ou un entrepreneur indépendant. Dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, [2001] A.C.S. 61 (QL), 2001 CSC 59 (« Sagaz »), de la Cour suprême du Canada, le juge Major s'exprime en ces termes :
+46. À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l'arrêt Stevenson Jordan, précité, qu'il peut être impossible d'établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d'apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l'opinion du juge MacGuigan lorsqu'il affirme — en citant Atiyah, op. cit., p. 38, dans l'arrêt Wiebe Door, p. 563 — qu'il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu'il soit encore utile de chercher à établir un critère unique permettant d'identifier les contrats de louage de services [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. De la même façon, il n'est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+47 Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[23] Comme l'a signalé le juge Major ci-dessus :
+La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte.
+Le contrôle
+[24] L'un des facteurs pertinents pour décider si un particulier est un employé est le contrôle que le payeur pourrait exercer à l'égard de cette personne. Dans la présente affaire, il semblerait que le degré de contrôle ne puisse suffire à étayer la conclusion selon laquelle les particuliers étaient des employés. Les trois particuliers décidaient qui serait présent au bureau à n'importe quel moment donné. Anglo voulait veiller à ce que quelqu'un soit présent au bureau, mais il appartenait aux trois particuliers de décider qui devait s'y trouver à tel ou tel moment. Les particuliers, et non Anglo, décidaient qui traiterait avec une scierie ou un client donné. Les particuliers, et non Anglo, décidaient qui exécutait quelles tâches et à quel moment ces tâches devaient être accomplies afin de fournir les services.
+[25] Dans l'affaire Direct Care In‑Home Health Services Inc. c. M.R.N., 2005 CCI 173, le juge Hershfield a formulé les observations suivantes en ce qui a trait au contrôle :
+11 Dans le cadre de l'analyse de ce facteur, il faut déterminer qui contrôle le travail et comment, quand et où il doit être effectué. S'il est jugé que le travailleur a le contrôle du travail une fois qu'il lui est confié, cela semble davantage indiquer que le travailleur est un entrepreneur indépendant, et s'il est jugé que l'employeur exerce un contrôle sur l'exécution du travail par le travailleur, cela laisse entendre qu'il y a une relation employeur‑employé. Toutefois, lorsque les travailleurs ont une spécialisation accrue, il se peut que ce critère soit considéré comme moins fiable. On accorde donc plus d'importance à la question de savoir si le service que le travailleur doit fournir dans le cadre de ses fonctions est simplement axé sur les « résultats »; c.‑à‑d. « voici une tâche précise — vous avez été engagé pour l'exécuter ». Dans un tel cas, il n'y a pas de lien de subordination, ce qui est une exigence fondamentale pour qu'il y ait une relation employé-employeur. De plus, il ne faut pas confondre le contrôle des résultats, qui peut être exigé à chaque fois qu'un travailleur est engagé pour fournir des services, avec le contrôle ou la subordination d'un travailleur.
+12 En l'espèce, la travailleuse pouvait refuser une affectation pour quelque raison que ce soit, ou même sans raison. [...]
+[Non souligné dans l'original.]
+[26] Dans l'affaire dont je suis saisi, le service à fournir était axé sur les résultats. Les trois particuliers accomplissaient les fonctions liées à l'achat et à la vente et bénéficiaient d'un degré de latitude et d'indépendance appréciable dans la prestation de ces services. Les particuliers, et non Anglo, négociaient ou fixaient le prix auquel les produits seraient achetés et vendus. Il ne semblait pas y avoir une relation de subordination entre Anglo et les trois particuliers; il serait plus précis de dire qu'ils travaillaient ensemble, chacun accomplissant une partie des fonctions exigées par l'entreprise de courtage qui était exploitée. À mon avis, ce facteur donne à penser que la relation serait de la nature d'une relation d'affaires et non d'une relation employeur‑employé si les trois sociétés par actions n'existaient pas.
+L'outillage
+[27] Les trois particuliers utilisaient les bureaux situés dans les locaux d'Anglo et chacun disposait en outre d'un bureau à domicile. Il est probable que les particuliers utilisaient le téléphone d'Anglo lorsqu'ils se trouvaient aux bureaux de cette dernière, et qu'ils utilisaient leur propre téléphone lorsqu'ils se trouvaient à leur domicile. Chaque particulier avait un véhicule dont il se servait pour exercer ses activités. Les particuliers rendaient visite aux exploitants des scieries sur les lieux de celles‑ci, soit dans des endroits éloignés. À lui seul, ce facteur n'indique fortement ni une relation employeur‑employé ni une relation d'affaires.
+Les assistants
+[28] Tyee avait un employé (Daryll Martin) pendant toute la période pertinente. Les particuliers (par l'intermédiaire de Tyee) engageaient donc leur propre assistant, ce qui donnerait à penser qu'ils exploitaient une entreprise et qu'ils n'étaient pas des employés d'Anglo. L'annexe relative à la rémunération jointe à l'entente visant le poste d'agent des ventes prévoyait qu'Anglo rembourserait à Tyee 75 pour 100 des coûts d'emploi directs versés pour la formation de M. Martin. À mon sens, il paraît simplement s'agir d'un paiement négocié entre Anglo et Tyee. Toutefois, comme la somme remboursée s'élève à 75 pour 100, cela réduit le poids qui devrait être accordé à ce facteur.
+Les risques financiers et la possibilité de profit
+[29] La rémunération consistait principalement en un pourcentage des profits bruts d'Anglo. Les efforts déployés par les trois particuliers pour négocier les prix d'achat et les prix de vente avaient une incidence directe sur les profits bruts d'Anglo, laquelle ne jouait aucun rôle dans la fixation de ces prix. Quel meilleur indice permettrait de penser qu'il y avait une possibilité de profit? Les membres de Tyee devaient également assumer ensemble les pertes susceptibles d'être subies, y compris les pertes liées à l'exploitation de la cour à bois. Après la réorganisation, les trois particuliers (par l'intermédiaire de leur société) couraient donc le risque de subir des pertes qui, avant la réorganisation, auraient été entièrement assumées par Anglo. À mon avis, les arrangements relatifs à la rémunération pris à la suite de la réorganisation justifient sans équivoque la conclusion selon laquelle, si les trois sociétés n'existaient pas, les trois particuliers fourniraient leurs services en vertu d'une entreprise.
+La responsabilité pour les mises de fonds et la gestion
+[30] La gestion des fonctions liées aux ventes et aux achats relevait de Tyee. Même si elle devait donner son approbation finale pour toutes les opérations, Anglo ne participait pas à la négociation ou à la fixation du prix d'achat des bardeaux et des bardeaux de fente en cèdre ni à la négociation ou à la fixation du prix de vente de ces produits. De même, elle n'avait pas à décider quel particulier traiterait avec l'acheteur ou le vendeur, et les particuliers pouvaient effectuer des achats hypothétiques pour le compte d'Anglo. Comme il est mentionné plus haut, les trois particuliers (par l'intermédiaire de Tyee) et Anglo travaillaient ensemble pour exploiter l'entreprise de courtage, Tyee et Anglo étant chacune responsable de la façon dont sa part de l'entreprise fonctionnait. Les particuliers étaient donc responsables des mises de fonds et de la gestion et cela donne à penser qu'ils fourniraient leurs services en vertu d'une entreprise et non à titre d'employés si les trois sociétés n'existaient pas.
+Autres facteurs
+[31] L'intimée a posé aux témoins plusieurs questions relatives à un régime de participation des employés aux bénéfices qu'avait établi Anglo et en vertu duquel chacun des particuliers a reçu des paiements après la réorganisation. Cependant, les bénéficiaires de la fiducie comprennent des employés d'Anglo. Bien que le terme [TRADUCTION] « employés » ne soit pas défini pour l'application de la fiducie, comme cette dernière a été établie à titre de régime de participation des employés aux bénéfices au sens de l'article 144 de la Loi, il me paraît raisonnable de penser que quiconque est un employé pour l'application de la Loi serait un employé pour l'application de cette fiducie. Comme il est mentionné ci‑dessus, puisque chacun des particuliers était également administrateur d'Anglo, chacun d'eux serait aussi un employé d'Anglo pour l'application de la Loi, ce qui pourrait expliquer pourquoi des paiements leur étaient versés en vertu de cette fiducie. En conséquence, l'existence de cette fiducie et le fait que les particuliers recevaient des paiements en vertu de celle‑ci ne permettent pas de conclure que, si les trois sociétés n'existaient pas, les particuliers seraient des employés en ce qui concerne la prestation des services d'achat et de vente des produits.
+[32] L'intimée a en outre posé aux témoins plusieurs questions touchant la police d'assurance vie que détenait Anglo sur la vie des particuliers. Cependant, il ressort clairement de la preuve que cette assurance était liée aux actions d'Anglo que détenait chaque particulier (ou sa société) et à l'obligation d'Anglo de racheter ces actions dans l'éventualité du décès de ce particulier. Le fait qu'Anglo détenait une assurance vie sur la vie des particuliers ne mène pas à la conclusion que, si les trois sociétés n'existaient pas, ces particuliers seraient des employés en ce qui concerne la prestation des services d'achat et de vente des produits.
+[33] L'intimée a également soulevé le fait que les particuliers employaient encore la raison sociale d'Anglo sur leur carte professionnelle. Dans la décision Flash Courier Services Inc. c. M.R.N., no 1999‑2239(EI), 14 avril 2000, [2000] A.C.I. no 235 (QL), le juge Rowe a conclu que les messagers étaient des entrepreneurs indépendants même s'ils portaient des uniformes et des cartes d'identité permettant de les identifier comme employés de la société Flash. Le juge Rowe a déclaré ce qui suit au paragraphe 21 :
+21 Dans les appels en l'espèce, on peut affirmer qu'un profane observant l'intervenant effectuer ses livraisons pendant une journée pourrait raisonnablement conclure que l'entreprise était celle de Flash. Toutefois, cela découlerait de l'entente de façade intervenue entre les parties. M. Paul n'avait pas installé de signe ni placé de renseignements sur le côté du véhicule afin d'indiquer qu'il en était le propriétaire-exploitant. Comme on l'a examiné ci‑dessus, les exigences en matière de sécurité constituaient la principale raison pour laquelle l'intervenant et d'autres messagers portaient un veston ou une chemise les identifiant comme membre de l'équipe de Flash. Cette dernière possédait les installations lui permettant de recevoir les appels des clients, d'envoyer les chauffeurs faire des ramassages et des livraisons, d'entreposer des colis et de s'occuper de l'administration et de la comptabilité pour rendre compte d'un revenu et d'une allocation convenable entre Flash et chaque messager conformément au pourcentage établi dans un contrat en particulier. [...]
+[34] Les cartes professionnelles utilisées par les trois particuliers ne faisaient pas état d'un titre ou d'un poste précis chez Anglo. Dans la présente affaire, les particuliers achetaient et vendaient des produits pour le compte d'Anglo et, comme il est signalé plus haut, ils travaillaient de concert avec Anglo pour acheter et vendre ces produits. Anglo veillait au financement et les trois particuliers veillaient à conclure des marchés. À mon avis, le fait que les trois particuliers se servaient de cartes professionnelles indiquant la raison sociale d'Anglo ne mène pas à la conclusion que, si les trois sociétés n'existaient pas, ces particuliers seraient des employés en ce qui concerne la prestation des services d'achat et de vente des produits.
+[35] Il existe un autre facteur important en l'espèce. Les trois particuliers et leur expert‑comptable ont tous affirmé, dans leur témoignage, que les bénéfices réalisés par Tyee devaient être divisés également entre les associés. Or, pour l'exercice se terminant le 31 décembre 2001, l'attribution des bénéfices ne consistait pas exactement en un partage en trois parts égales. En effet, les pourcentages versés aux particuliers cette année‑là s'élevaient à 31,3 pour 100, à 33,5 pour 100 et à 35,2 pour 100. Les pourcentages s'approchaient de 33,3 pour 100 pour chacun des associés, mais ne correspondaient pas exactement à ce chiffre. Cette situation découlait notamment du départ d'un des associés cette année‑là (ce particulier n'ayant donc pas reçu une rémunération pour l'année complète). L'écart était pour le reste attribuable au fait que les associés avaient simplement consenti à ce que des rajustements mineurs soient apportés à l'attribution des revenus. J'accepte les explications offertes et je conclus que la société de personnes était une société à parts égales, sous réserve des rajustements mineurs que les associés peuvent convenir d'apporter en matière d'attribution des revenus.
+[36] À mon sens, le fait que Tyee a été constituée en société à parts égales donne clairement à penser que les particuliers n'offraient pas leurs services à titre d'employés. Les employés gagnent chacun leur propre salaire ou commission. L'attribution en parts égales des bénéfices effectuée par Tyee confirme que ces particuliers exploiteraient une entreprise en commun à titre d'associés si les trois sociétés par actions n'existaient pas. Quel élément pourrait, mieux qu'une attribution des bénéfices en parts égales, indiquer qu'il y avait exploitation d'une entreprise en commun?
+Conclusion
+[37] J'estime donc que, pendant les années frappées d'appel, si Europa, 596 et Peter Cedar n'avaient pas existé, les trois particuliers n'auraient pas été des employés d'Anglo en ce qui touche la prestation, à celle‑ci, des services d'achat et de vente des produits, mais qu'ils auraient plutôt exploité une entreprise à titre d'associés de la société de personnes, Tyee, pour la prestation de ces services à Anglo. Ni Europa, ni 596, ni Peter Cedar n'exploitaient une entreprise de prestation de services personnels au sens du paragraphe 125(7) de la Loi lorsqu'elles fournissaient ces services pendant l'une ou l'autre des années visées par l'appel.
+[38] Par conséquent, les appels sont accueillis et les nouvelles cotisations sont annulées. Chacune des appelantes aura droit à ses dépens (à l'exception des débours) fixés séparément et indépendamment des dépens accordés aux autres appelantes. Les dépens (à l'exception des débours) accordés à une appelante seront donc fixés comme si aucuns dépens n'avaient été accordés à une autre appelante. Le montant accordé au titre des débours à chaque appelante sera fixé en fonction du montant des débours qui ont été exigés de cette appelante ou que celle‑ci a payés.
+Signé à Vancouver (Colombie-Britannique), ce 23e jour de septembre 2009.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 11e jour de décembre 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2009 CCI 463
+NOS DES DOSSIERS
+DE LA COUR : 2006‑2403(IT)G; 2006‑2404(IT)G; 2006‑2405(IT)G
+INTITULÉ : Peter Cedar Products Ltd. et Sa Majesté la Reine, et entre 596283 B.C. Ltd. et Sa Majesté la Reine, et entre Europa Cedar Corp. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Les 18, 19 et 20 août 2009
+MOTIFS DU JUGEMENT : L'honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 23 septembre 2009
+COMPARUTIONS :
+Avocats des appelantes :
+Me Gordon S. Funt et
+Me Michelle Moriartey
+Avocate de l'intimée :
+Me Susan Wong
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : Gordon S. Funt et Michelle Moriartey
+Cabinet : Fraser Milner Casgrain
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,283 @@
+---
+title: "Imoh  c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/73270/index.do"
+last_modified: "2014-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 258"
+citation2: ""
+neutral_citation: "2014 CCI 258"
+decision_date: "2014-08-26"
+language: "fr"
+item_id: "73270"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5211
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:46:55.098000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "91884dfd83e34c006e06e6c8664e246c43f318fe4e82cfb643b176e533a334b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Imoh  c. La Reine
+
+- Citation: 2014 CCI 258
+- Decision date: 2014-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5211, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Imoh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-08-26
+Référence neutre
+2014 CCI 258
+Numéro de dossier
+2013-4109(IT)I, 2013‑4405(IT)I
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013‑4109(IT)I
+ENTRE :
+DAVID ANELE IMOH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel
+d’Oladele Bello, dans le dossier no 2013‑4405(IT),
+le 14 juillet 2014, à Toronto (Ontario).
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Darren Prevost
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 2007, 2008 et 2009 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 26e jour d’août 2014.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 29e jour de février 2016.
+S. Tasset
+Dossier : 2013‑4405(IT)I
+ENTRE :
+OLADELE BELLO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+David Anele Imoh, dans le dossier no 2013‑4109(IT),
+le 14 juillet 2014, à Toronto (Ontario).
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Représentant de l’appelant :
+D.A. Shaw
+Avocat de l’intimée :
+Me Darren Prevost
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie sous le régime de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 26e jour d’août 2014.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 29e jour de février 2016.
+S. Tasset
+Référence : 2014 CCI 258
+Date : 20140826
+Dossier : 2013‑4109(IT)I
+ENTRE :
+DAVID ANELE IMOH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2013‑4405(IT)I
+ET ENTRE :
+OLADELE BELLO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lyons
+[1] David Anele Imoh et Oladele Bello, les appelants, interjettent appel du rejet par le ministre du Revenu national (le « ministre ») du crédit d’impôt pour dons de bienfaisance qu’ils ont chacun demandé en vertu de l’article 118.1 de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] M. Imoh prétend avoir fait des dons de bienfaisance totalisant 15 000 $, en espèces, à Revival Time Ministries (« Ministries ») pour chacune des années d’imposition 2007 et 2008 et des dons de bienfaisance totalisant 15 000 $, en espèces, à Revival Time Ministries International (« Revival ») pour l’année d’imposition 2009.
+[3] M. Bello prétend avoir fait des dons de bienfaisance totalisant 15 000 $, par chèque et en espèces, à Revival en 2009. À l’audience, M. Bello a fait savoir qu’il ne contestait plus la pénalité pour production tardive.
+[4] Les questions en litige dans ces appels sont celles de savoir si M. Imoh et M. Bello ont chacun fait des dons qui leur permettaient de demander des crédits d’impôt et, dans l’affirmative, si les reçus de don de bienfaisance qu’ils ont reçus de chacune des organisations contiennent les renseignements prescrits par l’article 3501 du Règlement de l’impôt sur le revenu (le « Règlement »).
+I. Dispositions législatives [5] L’article 118.1 de la Loi prévoit un crédit d’impôt pour les personnes qui font des dons à des organismes de bienfaisance reconnus. Le paragraphe 118.1(3) donne droit à un crédit d’impôt pour des dons faits à un organisme de bienfaisance enregistré. L’alinéa 118.1(2)a) est ainsi libellé :
+Pour que le montant admissible d’un don soit inclus dans le total des dons de bienfaisance, […] le versement du don doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[6] Le paragraphe 3501(1) du Règlement, reproduit ci‑dessous, énonce les exigences relatives aux reçus officiels de don de bienfaisance pour usage fiscal. :
+3501 (1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
+b) le numéro d’enregistrement attribué par le ministre à l’organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, la date ou l’année où il a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces :
+(i) la date où il a été reçu;
+(ii) une brève description du bien; et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) la date de délivrance du reçu;
+g) le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) celle des sommes ci‑après qui est applicable :
+(i) le montant du don en espèces;
+(ii) lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait;
+h.1) une description de l’avantage, le cas échéant, au titre du don et le montant de cet avantage;
+h.2) le montant admissible du don;
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons;
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
+L’alinéa a) est la disposition pertinente dans le cadre des présents appels. II. Preuve David Imoh
+[7] David Imoh a déclaré dans son témoignage que, en 2005, il avait fait un don de 6 000 $ à un organisme de bienfaisance sans lien avec Ministries ou Revival.
+[8] Il a connu Ministries et Revival par l’intermédiaire d’un ami, Gode Nkawala, qui lui a expliqué que leurs programmes de donation avaient notamment pour but d’aider les plus défavorisés et les hôpitaux et d’offrir des bourses d’études en Angola, en Afrique du Sud, au Kenya et au Zimbabwe.
+[9] M. Imoh a téléphoné à Daniel Mokwe et l’a rencontré au bureau d’Oakdale. Ce dernier lui expliqué plus en détail les programmes, en précisant qu’ils visaient à offrir de l’aide à [traduction] « toute l’Afrique », et ce, [traduction] « selon les besoins ». Peu de temps après cette rencontre, M. Imoh a été invité à un rassemblement social pour rencontrer les autres donateurs et on lui a remis des brochures.
+[10] Il a décidé de contribuer à cette cause. M. Imoh a affirmé avoir versé mensuellement des montants en espèces qui totalisaient 15 000 $, à Ministries, tant en 2007 qu’en 2008, et des montants en espèces qui totalisaient 15 000 $ à Revival en 2009, et avoir obtenu les reçus no 1032 et no 1689 de Ministries et le reçu no 022 de Revival (« les trois reçus »). Il appelait Daniel Mokwe régulièrement pour s’enquérir de la situation.
+[11] En 2009, il a reçu une lettre de l’Agence du revenu du Canada (ARC) qui lui demandait de fournir des reçus. Six mois plus tard, il a été informé que le reçu singulier qu’il avait obtenu pour chacune des années 2007, 2008 et 2009 n’était pas suffisant. Il a informé l’ARC que les dons avaient été faits en espèces et il a obtenu de Revival deux lettres, toutes les deux datées du 3 mai 2009, concernant les années d’imposition 2007 et 2008, qu’il a envoyées à l’ARC. Ces lettres donnaient une ventilation des dons totalisant 15 000 $, à raison de 1 250 $ par mois. Six mois plus tard, l’ARC l’a informé que les trois reçus et les deux lettres étaient insuffisants et elle a refusé ses demandes de crédit d’impôt. En 2011, l’ARC était en possession de tous ses documents.
+[12] M. Imoh a appris en 2012, en lisant un article de journal, que le statut d’organisme de bienfaisance de Revival Time Ministries Int. (« Revival Int. ») avait été révoqué.
+Oladele Bello
+[13] M. Bello a déclaré dans son témoignage qu’un ami lui avait présenté un comptable dénommé « George ». Ce dernier lui avait expliqué que Revival, par ses activités de bienfaisance, aidait les personnes défavorisées en Afrique occidentale. Par la suite, il a rencontré Dan, qui représentait Revival. M. Bello était impressionné et, [traduction] « par esprit de générosité », il a décidé de contribuer, en tant que donateur faisant un don pour la première fois, en 2009.
+[14] George tenait un registre, signé par M. Bello, qui détaillait les chèques de versements échelonnés et les dons en espèces qu’il avait faits en 2009[1].
+Mis à part le [traduction] « reçu officiel de don (reçu no 72) » daté du 31 décembre 2009 qui a été remis à M. Bello (le « reçu no 72 »), aucun autre reçu ne lui a été remis lorsqu’il a fait les dons. Le reçu indique qu’il s’agissait d’un don d’une valeur de 15 000 $ fait par « chèque ». Ce reçu, fait au nom de M. Bello par Revival, comportait l’adresse de M. Bello et l’adresse de Revival – 2357, avenue Finch Ouest, bureau 217, Toronto –, ainsi qu’un numéro d’enregistrement d’organisme de bienfaisance. Y figurait également l’adresse du site Web de l’ARC en ce qui concerne les organismes de bienfaisance.
+[15] Selon M. Bello, les relevés bancaires qu’il a fournis pour 2009 indiquent les opérations ci‑dessous qui se rapportent à sa demande de crédit d’impôt pour dons de bienfaisance.
+No de chèque ou retrait en espèces
+Montant
+9 janvier 2009
+54
+100 $
+12 janvier 2009
+53
+200 $
+20 janvier 2009
+99
+300 $
+1er avril 2009
+45
+300 $
+14 mai 2009
+89
+190 $
+3 septembre 2009
+en espèces
+5 000 $
+8 septembre 2009
+en espèces
+200 $
+guichet automatique
+Boivard
+8 septembre 2009
+en espèces
+300 $
+guichet automatique
+Dundas
+1er octobre 2009
+en espèces
+1 000 $
+Agence du revenu du Canada
+[16] M. Huenemoeder, chef d’équipe au groupe chargé de la vérification des organismes de bienfaisance à l’ARC depuis 12 ans, a témoigné relativement à la vérification de Revival Time Ministries Int., dont il a eu connaissance personnellement.
+[17] L’ARC a sélectionné Revival Time Ministries Int. aux fins de vérification[2]. En septembre 2008, les agents de l’ARC ont eu une première discussion avec Daniel Mokwe, qui les avait alors informés que les documents comptables de Revival avaient été perdus dans la reprise de possession d’une unité d’entreposage attribuable à une facture d’entreposage de 258 $. Revival n’était pas en mesure de vérifier si les documents comptables avaient été entreposés ou jetés. Six mois plus tard, l’ARC a reçu les documents comptables; leur validité était douteuse parce que Revival avait fourni des relevés bancaires falsifiés relativement aux revenus et aux dépenses.
+[18] Le premier doute ressortait des différences importantes observées dans les montants pour lesquels des reçus avaient été délivrés. Le montant total de 830 000 $ en dons pour lesquels des reçus avaient été délivrés ne concordait pas avec d’autres informations qui indiquaient que des reçus totalisant 1,6 ou 1,7 million de dollars avaient été délivrés en 2007. L’ARC voulait vérifier si ces montants avaient été déposés dans des comptes bancaires. Si l’on se fie aux relevés bancaires, des montants totalisant 1,8 ou 1,9 million de dollars recueillis en dons ont été déposés. Toutefois, les relevés bancaires de Revival étaient inhabituels et comportaient des irrégularités dans les dates. Par conséquent, l’ARC a sommé diverses banques de lui fournir des documents.
+[19] Les documents obtenus de l’une des banques montrent que, sur une période de deux ans, 3 000 $ seulement ont été reçus et déposés par Revival dans le compte bancaire. Or, les relevés bancaires fournis par Revival pour la même période montraient que des montants totalisant 2,5 millions de dollars avaient été déposés.
+[20] Pour déterminer s’il existait des éléments de preuve confirmant les paiements en espèces, les agents de l’ARC ont procédé à un échantillonnage des donateurs. Ils ont par la suite étendu leur analyse à 900 donateurs pour les années 2006 à 2008. Aucun des 900 donateurs avec lesquels l’ARC a communiqué n’a été en mesure de fournir des chèques oblitérés ou des éléments de preuve corroborant des dons en espèces.
+[21] M. Huenemoeder a reconnu lorsqu’il a été contre‑interrogé par M. Imoh que l’ARC autorisait les dons en espèces si une preuve suffisante était fournie pour les corroborer. Or, Revival n’avait fourni aucune confirmation ni vérification de ces dons à partir de ses documents comptables, et les donateurs n’ont pas non plus fourni de preuve suffisante.
+[22] M. Huenemoeder a affirmé que les relevés bancaires montraient que des frais avaient été acquittés par traites bancaires envoyées en Afrique ou payables à des groupes de musique reggae et à un conseiller municipal de Toronto. Revival a tenté de démontrer que des biens avaient été envoyés en Afrique, mais rien ne permettait de croire que les frais étaient liés à des activités de bienfaisance.
+[23] En réponse aux questions de M. Imoh au contre‑interrogatoire, M. Huenemoeder a déclaré qu’il avait rencontré Daniel Mokwe trois fois durant la vérification initiale lorsqu’il rassemblait les documents, et que, comme l’ARC avait obtenu des copies de reçus au printemps 2009, il n’y avait pas lieu de les montrer à Daniel Mokwe.
+[24] Daniel Mokwe jouait également un rôle au sein d’un autre organisme. L’ARC a sommé Daniel Mokwe de fournir des détails pour les années 2009 et 2010, mais il ne l’a pas fait. Son dossier a été soumis en vue de l’introduction d’une poursuite criminelle, mais il a fui le Canada avant que des accusations soient portées contre lui.
+[25] À compter du 8 janvier 2011, l’enregistrement de Revival Time Ministries Int. comme organisme de bienfaisance a été révoqué par le ministre pour un motif valable. La révocation a été contestée, mais la Cour d’appel fédérale a rejeté en fin de compte la requête et la Cour suprême du Canada a refusé l’autorisation de pourvoi.
+III. Analyse [26] Les dispositions de l’alinéa 118.1(2)a) de la Loi et du paragraphe 3501(1) du Règlement exigent qu’un don soit fait et qu’un reçu officiel contenant les renseignements prescrits soit délivré.
+[27] L’intimée soutient que ni M. Imoh ni M. Bello n’ont fourni de preuve suffisante pour établir qu’ils avaient bel et bien fait les dons qu’ils affirmaient avoir faits, et que ni l’un ni l’autre n’étaient en possession de reçus contenant tous les renseignements prescrits par la Loi et le Règlement.
+[28] Il incombe à M. Imoh et à M. Bello d’établir, selon la prépondérance des probabilités, qu’ils ont bel et bien fait les dons qu’ils affirment avoir faits. Pour les motifs exposés ci‑dessous, je conclus que les dons n’ont pas été réellement faits et que ni M. Imoh ni M. Bello n’ont réussi à s’acquitter du fardeau de la preuve.
+Des dons ont‑ils été faits?
+M. Imoh
+[29] M. Imoh a avancé qu’il avait la possibilité de faire des dons en espèces tous les mois et que les trois reçus montrent qu’il a fait des dons en espèces totalisant 15 000 $ pour chacune des années 2007, 2008 et 2009 et qu’ils contiennent tous les éléments requis par la Loi et le Règlement.
+[30] Il est vrai que M. Imoh avait la possibilité de faire des dons en espèces, comme le prévoit le Règlement. Toutefois, la Loi régit strictement les conditions d’admissibilité des déductions relatives à des dons de bienfaisance en exigeant qu’ils soient confirmés et vérifiables. Son témoignage ainsi que les trois reçus et les deux lettres de Ministries et de Revival constituaient la seule preuve offerte par M. Imoh pour établir qu’il avait fait des dons.
+[31] M. Huenemoeder a déclaré que les relevés bancaires fournis à l’ARC par Daniel Mokwe avaient été falsifiés et qu’il y avait des différences importantes dans les montants pour lesquels des reçus avaient été délivrés, qui ne pouvaient par ailleurs être validés dans les documents comptables. J’accepte son témoignage. Il a également affirmé qu’aucun des 900 donateurs n’avait été en mesure de fournir des chèques oblitérés ou d’autres éléments de preuve de paiement en espèces pour corroborer les dons, sauf un reçu singulier pour l’année du don, qui était semblable aux trois reçus présentés par M. Imoh.
+[32] Au cours de son témoignage, M. Imoh a expliqué que, à compter de décembre 2007, lorsqu’il est déménagé à Pickering, il se rendait en automobile au bureau de Revival, situé sur Oakdale Road, dans le nord‑ouest de Toronto, deux ou trois fois par mois pour faire des dons en espèces. Chaque fois, il lui fallait jusqu’à une heure pour s’y rendre. Parfois, il s’y arrêtait lorsqu’il se rendait faire son marché dans un magasin d’alimentation africain situé à proximité. Il a affirmé qu’il inscrivait son nom et le montant de son don sur un bordereau en papier qu’il insérait avec l’argent comptant dans une enveloppe qu’il remettait à Juliette au bureau de Revival. Juliette lui donnait un reçu (les « reçus individuels ») toutes les fois qu’il lui remettait sa contribution.
+[33] Je trouve que les explications de M. Imoh manquent de vraisemblance. Il est difficile de croire que, par suite d’un appel téléphonique et d’une brève rencontre avec Daniel Mokwe et d’un rassemblement social, il aurait fait don de sommes aussi importantes au cours d’une période de trois ans[3].
+[34] De plus, devant la Cour, M. Imoh a déclaré que Ministries et Revival n’étaient pas des organisations religieuses. Or, M. Huenemoeder a déclaré dans son témoignage, et je retiens sa déclaration, que Revival était enregistrée comme une œuvre de bienfaisance visant à promouvoir la religion. Je m’attendais à ce que M. Imoh connaisse le caractère de l’organisme auquel il souhaitait faire un don.
+[35] Il est important de souligner que M. Imoh n’a pas produit les reçus individuels – qui auraient été nombreux compte tenu de la période de trois ans – qu’il avait, a‑t‑il dit, obtenus de Juliette. J’ai tiré une conclusion défavorable du fait que M. Imoh n’a pas fait témoigner Juliette pour confirmer qu’il avait fait les dons en question.
+[36] M. Imoh a déclaré qu’il retirait l’argent nécessaire de la banque ou de différents guichets automatiques le jour précédant ou le même jour où il faisait un don. Aucun détail concernant les dates et les montants précis n’a été donné, outre le fait qu’il donnait entre 1 200 $ et 1 300 $ par mois. Il aurait pu fournir des documents bancaires détaillés pour corroborer les retraits habituels en espèces qu’il faisait de son compte trois fois par mois, mais il ne l’a pas fait. Je m’attendais à plus de vigilance de sa part compte tenu de l’importance des sommes en cause pendant une période de trois ans.
+[37] L’incompatibilité décrite ci‑après est un autre facteur justifiant le rejet du témoignage de M. Imoh. Les deux lettres qu’il a envoyées à l’ARC indiquent qu’il donnait 1 250 $ par mois. Devant la Cour, il a dit qu’il donnait de 1 200 $ à 1 300 $ par mois et il a expliqué que le montant de 1 250 $ dont il était question dans les deux lettres n’était pas exact, mais qu’il ne l’a pas contesté auprès de Revival parce que le montant total annuel de 15 000 $ était exact. Or, dans son avis d’appel, il déclare : [traduction] « j’ai fait des dons mensuels de 1 250 $ pendant 12 mois au total pour chacune des trois années d’imposition ». Si ce montant n’était pas exact, on ne pouvait s’attendre à ce qu’il soit repris et inclus dans l’avis d’appel déposé auprès de la Cour plusieurs années plus tard.
+[38] M. Imoh a dit avoir informé M. Nkawala au sujet de la tenue de l’audience, mais, la veille de l’instruction, M. Nkawala a décidé ne pas y être présent[4]. Je tire une conclusion défavorable du défaut de M. Nkawala de venir témoigner pour corroborer le témoignage de M. Imoh concernant les dons qu’il aurait faits.
+[39] Tout cela jette un doute sur la fiabilité de la preuve de M. Imoh. Pour cette raison, il n’a pas réussi à établir qu’il a fait des dons à Ministries en 2007 et en 2008 et à Revival en 2009.
+M. Bello
+[40] Le représentant de M. Bello a avancé que celui‑ci avait de bonne foi fait des dons totalisant 15 000 $ en 2009 à Revival, à titre d’église, et que, malgré les irrégularités relevées dans la tenue des livres comptables de cette dernière, il devrait avoir droit au crédit d’impôt pour don de bienfaisance[5].
+[41] Son affirmation ne concorde pas avec son témoignage selon lequel, durant toute l’année 2009, il se rendait au bureau de George pour lui remettre des chèques de versements échelonnés et, par la suite, des montants en espèces, qui totalisaient 15 000 $. Au cours du contre‑interrogatoire, il a reconnu qu’il libellait les chèques à l’ordre de George et n’avait jamais vu celui‑ci acheminer les dons à Revival, et qu’il n’avait aucune preuve montrant que les montants avaient été remis à Revival ou à Daniel Mokwe. Je suis d’avis que le fait de libeller des chèques à l’ordre de George et de lui donner de l’argent comptant n’équivaut pas à faire un don à une œuvre de bienfaisance. Cela est suffisant en soi pour me permettre de conclure que M. Bello n’a fait aucun don à Revival. Je vais néanmoins examiner les autres aspects de la preuve.
+[42] Le témoignage de M. Bello contredit les renseignements contenus dans son avis d’appel, qui indique que les chèques de versements échelonnés ont été libellés à l’ordre de Revival, et non à celui de George.
+[43] Au contre‑interrogatoire, lorsqu’on lui a demandé s’il avait des copies des chèques de versements échelonnés, M. Bello a affirmé que tous les chèques lui avaient été retournés par la banque. Il a expliqué qu’il n’avait pas conservé ces chèques parce que Revival lui avait remis le reçu no 72.
+[44] Le reçu indique qu’il s’agissait d’un don d’une valeur de 15 000 $ fait par « chèque ». Or, dans son témoignage, il a affirmé qu’il avait également fait des dons en espèces plus tard dans l’année. Outre le reçu no 72, daté de la fin de l’année, qui ne fait état d’aucun don en espèces, son avis d’appel ne donne nullement à penser que des dons en espèces ont été faits. L’avis d’appel fait plutôt état de chèques de versements échelonnés; un fait dont il avait déjà informé l’ARC dans une lettre datée du 18 juin 2012. Les contradictions rendent sa preuve peu fiable.
+[45] De plus, il n’a pas conservé de copies des chèques, il n’a pas obtenu de la banque de copies des images des chèques et il ne s’est pas efforcé d’obtenir une copie du registre pour corroborer les dons qu’il est censé avoir faits par chèque ou en espèces. Il est difficile de croire qu’il n’aurait pas pris ces mesures pour établir qu’il a fait ces dons, compte tenu du montant en question et surtout du fait qu’il était un donateur qui faisait des dons pour la première fois. Je tire une conclusion défavorable du fait qu’il n’a pas produit ces documents pour confirmer les dons qu’il est censé avoir faits.
+[46] Les relevés bancaires qu’il a produits à l’audience ne corroborent pas l’affirmation selon laquelle il a fait des dons par chèque, dont les versements étaient échelonnés. Trois des cinq chèques étaient datés du mois de janvier et trois des quatre montants en espèces ont été retirés en septembre; les dons étaient sporadiques et variaient de 100 $ (par chèque) à 5 000 $ (en espèces). Le total des montants figurant sur les relevés est largement inférieur à la somme de 15 000 $ déclarée. À défaut d’autres preuves, je ne suis pas convaincue que ces documents corroborent le témoignage de M. Bello concernant les dons qu’il est censé avoir faits à Revival.
+[47] Compte tenu de ce qui précède, du témoignage de M. Huenemoeder sur la falsification de documents par Revival et du fait que ni Revival ni les donateurs avec lesquels l’ARC a communiqué n’ont été en mesure de valider, de corroborer ou de prouver les dons en espèces, exception faite d’un reçu singulier semblable au reçu no 72, je conclus que la preuve de M. Bello n’est pas fiable. Je ne peux que conclure qu’il n’a pas démontré qu’il a fait des dons à Revival en 2009.
+[48] Compte tenu des conclusions qui précèdent, il n’y a pas lieu d’examiner la thèse secondaire de l’intimée selon laquelle les reçus que les appelants avaient obtenus de Ministries et de Revival ne sont pas des reçus provenant d’organismes « enregistrés auprès du ministre » et ne contenaient pas tous les renseignements prescrits à l’alinéa 3501(1)a) du Règlement.
+[49] Pour les motifs exposés précédemment, les appels sont rejetés.
+Signé à Toronto (Ontario), ce 26e jour d’août 2014.
+« K. Lyons »
+Lyons J.
+Traduction certifiée conforme
+ce 29e jour de février 2016.
+S.Tasset
+RÉFÉRENCE :
+2014 CCI 258
+Nos DES DOSSIERS DE LA COUR :
+2013‑4109(IT)I et 2013‑4405(IT)I
+INTITULÉS :
+DAVID ANELE IMOH et SA MAJESTÉ LA REINE
+OLADELE BELLO et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 juillet 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 26 août 2014
+COMPARUTIONS :
+Pour l’appelant
+David Anele Imoh:
+L’appelant lui‑même
+Représentant de l’appelant
+Oladele Bello
+D.A. Shaw
+Avocat de l’intimée :
+Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] Le comptable est décédé d’une crise cardiaque en novembre ou décembre 2012.
+[2] La pièce A‑1 établit que Revival Time Ministries International a fait l’objet d’une vérification. M. Huenemoeder a affirmé que Revival Time Ministries Int. a fait l’objet d’une vérification. Les deux appellations désignent probablement la même entité, que je vais appeler « Revival » à partir de maintenant.
+[3] M. Imoh n’a pas produit la brochure qu’il a obtenue lors du rassemblement social.
+[4] Il aurait été possible de procéder par assignation.
+[5] Sans avoir plaidé la question ni avoir présenté de preuve à l’appui, il a émis l’hypothèse que le statut d’organisme de bienfaisance de Revival n’avait pas nécessairement été révoqué de façon permanente. Il m’est inutile d’aborder cette question; je souligne que M. Huenemoeder a déclaré que le statut d’organisme de bienfaisance de Revival Int. avait été révoqué, et que, bien que cette décision ait été contestée devant la Cour d’appel fédérale, celle‑ci, agissant en tant qu’arbitre de dernier ressort, a rejeté la requête s’y rapportant.

@@ -1,0 +1,175 @@
+Title: Mbénar v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30340/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-246-30340-mb-nar-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-05-06
+
+# Mbénar v. The Queen
+
+- Citation: 2011 TCC 246
+- Decision date: 2011-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8044, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mbénar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-06
+Neutral citation
+2011 TCC 246
+File numbers
+2010-2528(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2528(IT)I
+BETWEEN:
+OUMAR MBÉNAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on February 14, 2011, at Québec, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-France Dompierre
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act on November 10, 2008, in respect of the 2004, 2005 and 2006 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of May 2011.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 23rd day of June 2011
+Margarita Gorbounova, Translator
+Citation: 2011 TCC 246
+Date: 20110506
+Docket: 2010-2528(IT)I
+BETWEEN:
+OUMAR MBÉNAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau, J.
+[1] These are appeals under the informal procedure from reassessments dated November 10, 2008, made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended, in respect of the 2004, 2005 and 2006 taxation years.
+[2] The issue is whether the Minister of National Revenue (the Minister) was justified in considering as capital expenditures the amounts of $53,821 for 2004, $41,885 for 2005 and $85,952 for 2006, which the appellant claimed as rental expenses.
+[3] The reassessments made on November 10, 2008 made the following corrections:
+2004
+2005
+2006
+Reported rental losses
+($45,418)
+($38,239)
+($74,091)
+Disallowed maintenance and repair expenses
+$44,899
+$41,885
+$85,952
+Disallowed professional fee expenses
+$8,922
+–
+–
+Allowed capital cost allowance
+$3,809
+$3,646
+$11,717
+Revised rental income
+$4,594
+$0
+$145
+[4] In making and confirming the reassessments, the Minister based himself on the following findings and assumptions of fact, stated in paragraph 6 of the Reply to the Notice of Appeal:
+[Translation]
+(a) The appellant is the sole owner of two rental buildings located at 2219, 2221 and 2225 Bardy Avenue and at 669 4th Avenue, in the Limoilou area of Québec; (admitted)
+(b) The dispute concerns only the building at the corner of Bardy Avenue and La Fontaine Street, purchased by the appellant on November 29, 2002, for $98,500; (admitted)
+(c) The building was built in 1953 and is made up of 4 units; (admitted)
+(d) There was no personal use of the building; (admitted)
+(e) The gross rental income attributable to the building was $22,261 for 2004, $22,085 for 2005 and $25,860 for 2006; (admitted for 2005 and 2006)
+(f) At the time of its purchase, the building had some major problems including an obsolete electrical system; large cracks, which made it impossible to insulate rooms and caused humidity in the building; defective sound‑proofing; railings that did not meet safety standards; and outdated windows and doors, which were not air-tight and allowed energy loss; (denied)
+(g) The building was to be completely rehabilitated between September 2004 and November 2005. The main repairs done are as follows:
+· The cracks in the foundation were repaired;
+· The vehicle parking was redone;
+· The front entrance of 2221 Bardy Avenue was demolished and rebuilt;
+· The electrical wiring and plumbing were completely redone;
+· The existing heating system was removed;
+· A new service room was built, including new electrical input and new water supply;
+· The roof and the exterior wall stonework were repaired;
+· Existing doors and windows were replaced;
+· Exterior balconies were repaired;
+· The interior was redesigned;
+· The damage done to the existing building resulting from repairing cracks and mechanical and electrical work was also repaired.
+(admitted)
+(h) During the renovations, the unit at 2221 Bardy Avenue was unoccupied for a period of two months between the end of September and beginning of November 2004. The units at 2225 Bardy Avenue and 1960 La Fontaine remained unoccupied for the entire renovation period. (denied)
+Only the occupant of 2219, whose unit needed less significant repairs, remained in the unit throughout the entire renovation period; (admitted)
+(i) The cost of the renovations was 1.75 times higher than the purchase price for the building; (no knowledge)
+(j) The amounts of $44,899 for 2004, $41,885 for 2005, and $85,952 for 2006 claimed by the appellant under the "maintenance and repairs" item were disallowed because they were capital expenditures; (admitted)
+(k) The consulting engineer's, architect's and notary's fees concerning the loan for renovations, totalling $8,922 for 2004, were also considered to be capital expenditures; (admitted)
+(l) The auditor also reconciled the amortization schedule for each building and granted the following deductions to the appellant as capital cost allowance: (admitted)
+2004
+2005
+2006
+2219-2225 Bardy
+$3,809
+$2,543
+$9,556
+669 4th Avenue
+$0
+$1,103
+$2,161
+Total
+$3,809
+$3,646
+$11,717
+[5] Paragraph 6(f) of the Reply to the Notice of Appeal was denied because the problems with the building were noticed not when it was purchased but rather within the year following the purchase. Paragraph 6(h) of the Reply to the Notice of Appeal was denied because the address of the unit mentioned in the first line was wrong: it was actually 2221 Bardy Avenue. In addition, the unit in question was unoccupied for 45 days, not two months. The second sentence of paragraph 6(h) was denied because those two units remained unoccupied not because of the renovations but because the tenant of 1960 La Fontaine provided a notice of resiliation of the lease on October 12, 2004, and the tenant of 2225 Bardy Avenue was evicted on November 15, 2004, for failure to pay rent.
+[6] The appellant testified at the hearing. He confirmed that he had purchased the building without a legal guarantee and without an inspection other than a cursory one by the real estate agent. He said that he had spoken to tenants who had allegedly told him that the building was fine. He paid $98,500 for the building although the municipal assessment was $101,000. At the time of purchase, the building was completely rented out. He also confirmed that the renovations were done between September 2004 and June 2005, that is, almost 2 years after the building had been purchased.
+[7] The appellant indicated that he had put out a call for tenders and that the selected bidder was supposed to do the work for $110,000. The appellant had to pay an additional $45,000 because of problems with the foundation. The same contractor did all of the work without changing the building’s structure or living space.
+[8] The building in question, which had been built in 1953, was in an advanced state of disrepair and unsafe for tenants because of fire hazards. The expert's report on the mechanical and electrical components by the engineering firm Genium dated October 20, 2003 (Exhibit 1-2), recommended, among other things, to completely replace the existing electrical system, replace the oil furnace and oil water heater and rehabilitate the electrical input. There were also humidity and mould problems in the building because the doors and windows were often steamed up. In addition, there were rodents in the building.
+[9] After the renovations, the municipal assessment for the building increased to $140,000 for the 2006 taxation year.
+Analysis
+[10] The issue is whether the expenditures made by the appellant for the renovations were current or capital in nature. There are no precise criteria for determining whether an expenditure is current or capital in nature. The issue must be examined based on the facts, the specific circumstances of the taxpayer and the nature of the expenditures.
+[11] In Johns-Manville Can. Inc. v. The Queen, [1985] 2 S.C.R. 46, Justice Estey of the Supreme Court of Canada quoted the following excerpt from British Insulated and Helsby Cables v. Atherton, [1926] A.C. 205, page 213:
+. . . where an expenditure is made, not only once and for all, but with a view to bringing into existence an asset or an advantage for the enduring benefit of a trade, I think that there is a very good reason (in the absence of special circumstances leading to an opposite conclusion) for treating such an expenditure as properly attributable not to revenue but to capital.
+[12] Based on the evidence, the expenditures that were deducted by the appellant were related to major renovations done in all parts of the building, inside and outside: foundation, insulation, roof, windows and doors, electrical, heating system, plumbing, parking lot, etc. In fact, it was a complete rehabilitation of a building that was in total disrepair and dangerous for the tenants.
+[13] The expenditures in question were significant, close to $175,000 in total, in comparison with the purchase price of the building, which was $98,500, that is, 1.75 times higher than the acquisition cost. Such expenditures cannot in any way be considered as being for minor repairs or regular maintenance. Those expenditures were made in order to provide a lasting benefit for the property so that the units can be rented out safely.
+Conclusion
+[14] For these reasons, I find that the reassessments made by the Minister according to which the expenditures made by the appellant were capital expenditures, were well founded in fact and in law.
+[15] The appeals are therefore dismissed.
+Signed at Ottawa, Canada, this 6th day of May 2011.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 23rd day of June 2011
+Margarita Gorbounova, Translator
+CITATION: 2011 TCC 246
+COURT FILE NO.: 2010-2528(IT)I
+STYLE OF CAUSE: Oumar Mbénar v. Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: February 14, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: May 6, 2011
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-France Dompierre
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

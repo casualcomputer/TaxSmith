@@ -1,0 +1,146 @@
+Title: Willis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25563/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-575-25563-willis-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-08-13
+
+# Willis v. The Queen
+
+- Citation: 2003 CCI 575
+- Decision date: 2003-08-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2462, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Willis v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-13
+Référence neutre
+2003 CCI 575
+Numéro de dossier
+2002-1848(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-1848(IT)I
+ENTRE :
+CLARA JOAN WILLIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+________________________________________________________________ Appel entendu sur preuve commune avec l'appel de Barrie A. Willis(2002-1847(IT)I) le 6 août 2003 à North Bay (Ontario).
+Devant : L'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Avocat de l'appelante :
+MeGregory J. DuCharme
+Avocate de l'intimée :
+MeJoanna Hill
+________________________________________________________________ JUGEMENT
+La Cour ordonne que l'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 soit admis avec dépens et que la cotisation soit déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que le lot 36 au plan 36M-561 était un bien en immobilisation pour l'appelante jusqu'au 1er janvier 1992 et est réputé, aux termes de l'alinéa 45(1)a) de la Loi de l'impôt sur le revenu, avoir fait l'objet d'une disposition pour un produit égal à sa juste valeur marchande à ce moment-là et, aussitôt après, avoir été acquis de nouveau à un coût égal à cette juste valeur marchande.
+Il ne sera retenu que les honoraires d'un seul avocat pour les deux parties.
+Signé à Victoria (Colombie-Britannique), ce 13e jour d'août 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 2e jour de juin 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-1847(IT)I
+ENTRE :
+BARRIE A. WILLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+________________________________________________________________ Appel entendu sur preuve commune avec l'appel de Clara Joan Willis(2002-1848(IT)I) le 6 août 2003 à North Bay (Ontario).
+Devant : L'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Avocat de l'appelant :
+MeGregory J. DuCharme
+Avocate de l'intimée :
+MeJoanna Hill
+________________________________________________________________ JUGEMENT
+La Cour ordonne que l'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 soit admis avec dépens et que la cotisation soit déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que le lot 36 au plan 36M-561 était un bien en immobilisation pour l'appelant jusqu'au 1er janvier 1992 et est réputé, aux termes de l'alinéa 45(1)a) de la Loi de l'impôt sur le revenu, avoir fait l'objet d'une disposition pour un produit égal à sa juste valeur marchande à ce moment-là et, aussitôt après, avoir été acquis de nouveau à un coût égal à cette juste valeur marchande.
+Il ne sera retenu que les honoraires d'un seul avocat pour les deux parties.
+Signé à Victoria (Colombie-Britannique), ce 13e jour d'août 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 2e jour de juin 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI575
+Date : 20030813
+Dossier : 2002-1848(IT)I
+ENTRE :
+CLARA JOAN WILLIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2002-1847(IT)I
+ENTRE :
+BARRIE A. WILLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman, C.C.I.
+[1] Les présents appels, qui ont été interjetés à l'encontre des cotisations établies pour l'année d'imposition 1999, ont été entendus ensemble. Les appelants sont des conjoints. En 1999, ils ont vendu un lot qui faisait partie d'une parcelle qu'ils avaient acquise en 1986. Ils considéraient que la vente était à titre de capital. Le ministre a considéré qu'elle était un projet comportant un risque de caractère commercial et qu'elle était donc à titre de revenu.
+[2] En 1986, les appelants ont conjointement acheté de l'Église Unie une parcelle de 3,63 acres (parcelle 7076) située juste derrière leur résidence principale de l'avenue Greenhill, à North Bay. Madame Willis avait un lien historique avec le terrain, puisque son grand-père en avait fait don à l'Église Unie. Les appelants avaient entendu dire qu'un projet immobilier allait être mis sur pied derrière eux et ce terrain devait former une zone tampon qui devait assurer leur intimité ou, comme l'a dit M. Willis, créer une « ceinture verte » . Je ne vois aucune raison de remettre en question la véracité de l'objectif avoué des appelants quant à l'acquisition du terrain. Ils étaient tous les deux des témoins dignes de foi. Ils ont acheté le terrain vers le mois de juin 1986 pour la somme de 45 000 $. La Couronne ne conteste pas le fait que le terrain était un bien en immobilisation pour les appelants lors de l'achat initial. En effet, pendant de nombreuses années après l'opération que je suis sur le point de décrire, ils l'ont utilisé à des fins personnelles pour faire du ski et de la randonnée ou entailler des érables pour produire du sirop.
+[3] Quelques mois après l'achat de ce terrain, un promoteur immobilier - Mayco Homes North Bay Limited ( « Mayco » ) - qui procédait à l'aménagement de la région a communiqué avec eux. Il craignait que le terrain des appelants bloque son accès à partir de l'avenue Greenhill par la voie d'un emplacement affecté à la construction d'une route, qui serait un prolongement du chemin Bryan vers la promenade Nottingham dans l'aménagement prévu. Toutefois, le promoteur immobilier ne pouvait pas tout simplement acheter suffisamment de terrain des appelants pour avoir l'accès nécessaire, puisque cela aurait nécessité une disjonction, ce qui était difficile à obtenir, voire impossible. Le plan suivant a donc été élaboré.
+[4] Le 2 septembre 1986, les appelants et Mayco ont conclu un accord par lequel les appelants vendaient à cette dernière l'ensemble de la parcelle 7076; en contrepartie, Mayco leur céderait les lots 34 à 40 de l'aménagement après l'enregistrement du plan de lotissement pour l'ensemble du terrain qui était aménagé (y compris la parcelle 7076) ainsi que la mise en place de tous les services prévus dans la convention de lotissement.
+[5] L'accord prévoyait également que Mayco devait rendre la parcelle aux appelants si le plan de lotissement n'était pas enregistré dans les deux ans suivant l'obtention de l'approbation du projet de plan ou le 21 décembre 1988, le premier des deux prévalant. Cela devait vraisemblablement permettre aux appelants de récupérer leur terrain en temps opportun.
+[6] Les appelants ont également convenu qu'aucun de leurs lots ne serait vendu avant le 30 décembre 1991. Aucune preuve n'a été présentée par Mayco, mais on peut supposer que celle-ci ne voulait pas de concurrence relativement à la vente des lots jusqu'à ce qu'elle ait eu l'occasion de vendre les siens. En fait, les appelants n'avaient aucune intention de vendre leurs lots de toute façon.
+[7] La vente de la parcelle 7076 à Mayco a été conclue le 19 mars 1987. La lettre de rapport que les avocats des appelants ont envoyée à ces derniers décrivait l'opération comme suit :
+[TRADUCTION]
+Le prix de vente était de 45 002 $; un acompte de 2 $ a été versé lors de la signature de la convention d'achat-vente. Le solde du prix d'achat, qui s'élève à 45 000 $, a été garanti par une hypothèque de premier rang que les acheteurs vous ont consentie sur le terrain visé. Cette hypothèque devait être remboursée en vous cédant sept lots de l'aménagement prévu qui comprend la parcelle 7076 dans le canton de Widdifield et Ferris.
+[8] Les sept lots ont été cédés aux appelants le 27 mai 1987. La restriction quant à la vente des lots par les appelants avant le 30 décembre 1991 a été intégrée dans l'acte de cession enregistré.
+[9] Le lot 38 du plan de lotissement se trouvait juste derrière la résidence principale des appelants sise avenue Greenhill. Certaines parties des lots 37 et 39 sont contiguës à leur résidence. Les lots 34, 35, 36 et 40 ne sont pas contigus à leur résidence. Tous les lots qui ont été cédés aux appelants étaient compris dans la parcelle d'origine 7076, sauf le lot 34.
+[10] De 1987 à 1992, les appelants ont continué à utiliser le terrain comme dans le passé pour faire du vélo ou du ski de fond et produire du sirop d'érable pour leur propre consommation.
+[11] En 1989 et 1990, quelques événements ont eu lieu et ont amené les appelants à reconsidérer certains de leurs objectifs à long terme. Leur plan initial était de garder le terrain, tel qu'ils l'avaient acquis à l'origine et tel qu'ils l'ont reçu loti de Mayco, à titre de « ceinture verte » pour une période indéterminée. En 1986 et 1987, quand ils ont acheté ou racheté le terrain, ils n'avaient aucune intention - primaire ou secondaire - de le vendre.
+[12] En 1989, Mme Willis a été atteinte d'un cancer et a subi un long traitement qui, si j'ai bien compris, s'est avéré efficace. En 1990, M. Willis a eu un grave accident et a subi plusieurs fractures. En 1991, ils ont fermé deux boutiques de cadeaux qu'ils possédaient et exploitaient. Monsieur Willis avait presque soixante ans, tandis que Mme Willis était au milieu de la cinquantaine.
+[13] Leurs problèmes de santé les ont amenés à réfléchir davantage sur leur propre mortalité. Néanmoins, cela ne les a pas poussés à faire quoi que ce soit pour vendre les lots. Ils ne les ont pas mis en vente et ils n'ont dit à personne que les lots étaient à vendre.
+[14] Toutefois, en 1992, M. Leo Finnigan a appris de son directeur de banque que les appelants possédaient certains lots et il leur a demandé de lui en vendre un. Ils ont refusé. Cependant, il a persisté et, en 1993, ils se sont ravisés et lui ont vendu un lot. Ils voulaient qu'il prenne le lot 34, mais il préférait le lot 40, et c'est celui-là qui lui a été vendu.
+[15] À la fin de l'automne 1994, M. Willis a placé un panneau sur le terrain indiquant que les lots étaient à vendre, sauf le lot 40, qui avait été vendu à M. Finnigan, ainsi que les lots 38 et 39, qui étaient contigus au terrain des Willis.
+[16] En avril 1995, ils ont vendu le lot 35, puis le lot 34 en septembre 1997. Le lot 36 a été vendu en 1999, et c'est cette vente qui fait l'objet des présents appels. Le lot 37 a été vendu en 2001.
+[17] Les appelants ont traité le gain tiré de la vente du lot 36 comme étant à titre de capital. Quant à la Couronne, elle soutient ce qui suit aux paragraphes 9(h), (i), (j) et (k) :
+[TRADUCTION]
+(h) le 2 septembre 1986, l'objet de l'achat initial a changé d'une immobilisation à un projet comportant un risque de caractère commercial en vue de réaliser un profit;
+(i) l'appelant et sa conjointe ont obtenu les sept lots aménagés visés au paragraphe 9(f) des présentes comme des biens en stock en vue de tirer et de produire un revenu d'entreprise;
+(j) le 2 septembre 1986, le prix de base rajusté du « lot 36 » était de 6 663,42 $;
+(k) le 2 septembre 1986, la juste valeur marchande du « lot 36 » était de 6 663,42 $;
+[18] L'avocat des appelants a reculé quelque peu de la position initiale qui avait été adoptée lors de la production des déclarations de revenu. Il soutient qu'il y a eu un changement d'intention le 1er janvier 1992; à ce moment-là, les lots sont devenus des biens en stock et il y a eu une disposition présumée à cette date à un prix égal à leur juste valeur marchande d'alors. Il demande que les appels soient admis, que les cotisations soient déférées au ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait qu'une disposition présumée a eu lieu le 1er janvier 1992, et que le ministre détermine la juste valeur marchande à cette date, ce qui donnerait lieu à un gain en capital en 1992 (qui ne peut être imposé maintenant puisque l'année 1992 est frappée de prescription) et constituerait le prix de base du terrain permettant de déterminer le bénéfice imposable en 1999 lorsque le lot 36 a été vendu.
+[19] C'est ce qui a été fait dans l'affaire Roos c. La Reine, C.C.I., no 92-297(IT)G, 16 décembre 1993, 94 D.T.C. 1094, où un changement d'usage à une date ultérieure à la date d'acquisition avait fait qu'une disposition était réputée avoir eu lieu aux termes de l'alinéa 45(1)a) de la Loi de l'impôt sur le revenu. La Cour a déclaré :
+Aucune preuve n'a été soumise en ce qui concerne la juste valeur marchande, et ce, à juste titre. Il aurait été prématuré de présenter une preuve à cet égard tant qu'il n'était pas déterminé si le terrain était initialement une immobilisation pour les appelants et, dans l'affirmative, si un changement d'usage avait eu lieu, et à quel moment. Cela est en conformité avec la décision de la Commission de révision de l'impôt dans l'affaire Dawd v. M.N.R. (précité).
+[20] Je vais d'abord me prononcer sur la position de la Couronne selon laquelle il y a eu un changement d'usage le 2 septembre 1986 et une conversion en biens en stock à cette date-là.
+[21] L'alinéa 45(1)a) porte qu'il y a une disposition réputée pour un produit égal à la juste valeur marchande au cas où il y a un changement d'usage, suivi aussitôt d'un rachat à un coût égal à la juste valeur marchande.
+[22] Dans ce cas, il y a eu une disposition réelle qui a commencé avec l'accord conclu par les appelants le 2 septembre 1986, lequel a été exécuté le 19 mars 1987, suivi d'un rachat réel le 27 mai 1987.
+[23] Je ne pense pas qu'il y ait eu un changement d'usage lorsque l'entente du 2 septembre 1986 a été signée; à mon avis, le terrain est demeuré une immobilisation de la date de son acquisition initiale jusqu'à sa vente à Mayco, et il n'a pas perdu cette caractéristique lorsque les sept lots ont été cédés aux appelants le 27 mai 1987.
+[24] Les appelants conservaient tout simplement leur terrain sous une autre forme; il est toujours resté une immobilisation. Même durant les années 1990, ils vendaient un lot tous les deux ans. Cette lenteur s'apparente mal aux activités commerciales d'une entreprise ou à un projet comportant un risque de caractère commercial. Ils ne faisaient pas de publicité (sauf en ce qui concerne l'unique panneau qui est resté sur le terrain pendant des années) et n'ont fait aucune autre démarche pour vendre le terrain.
+[25] À la suite de l'entente conclue avec Mayco en septembre 1986 et après lui avoir cédé le terrain, ils n'ont pas pris part à l'aménagement ou à la mise en place des services.
+[26] Même s'ils avaient eu l'intention à un moment donné de vendre les lots, cela n'aurait pas converti ce qui était manifestement une immobilisation en biens en stock.
+[27] Il est inutile que je renvoie en détail aux nombreuses décisions dans ce domaine du droit. Les avocats ont mentionné les deux énoncés bien connus du droit dans l'arrêt Happy Valley Farms Ltd. c. La Reine, 86 D.T.C. 6421, où le juge Rouleau avait récapitulé les critères habituels, et dans l'arrêt Racine, Demers et Nolin c. M.R.N., 65 D.T.C. 5098, où la règle de l'intention secondaire avait été exposée. Dans l'affaire Happy Valley Farms, le juge Rouleau a cité l'affaire M.N.R. v. Taylor, [1956-60] Ex. C.R. 3, [1956] C.T.C. 189, dans laquelle le président Thorson de la Cour de l'Échiquier s'était attardé de façon définitive sur la notion de projet comportant un risque de caractère commercial. Son analyse a été approuvée par la Cour suprême du Canada dans l'affaire Irrigation Industries Ltd. v. M.N.R., [1962] S.C.R. 346, 62 D.T.C. 1131.
+[28] Il n'est pas nécessaire de revenir sur les critères d'un projet comportant un risque de caractère commercial. Ils sont bien connus et n'ont certainement pas été réunis. Les appelants ont acquis un terrain de 3,6 acres qui est contigu à leur résidence principale pour en faire une ceinture verte de protection. Un promoteur immobilier leur a proposé d'acquérir le terrain en contrepartie de la cession d'une bonne partie de ce dernier sous forme de lots. Les appelants avaient une attitude entièrement passive. Sept lots leur ont été cédés en 1987 et, à la suite d'une offre spontanée, ils ont vendu un lot en 1993 après avoir eu des problèmes de santé traumatisants. Quelque temps après 1991, mais plus probablement en 1993 ou 1994, ils sont arrivés à la conclusion que la vie est trop imprévisible pour s'attacher éternellement à une immobilisation importante et ont jugé qu'ils devaient la vendre et jouir des années qui leur restaient. Ils ont gardé deux lots et en ont vendu cinq, à raison d'un lot tous les deux ans.
+[29] Si c'est un projet comportant un risque de caractère commercial, alors il diffère de tous ceux dont j'ai entendu parler depuis 40 ans.
+[30] Si l'avocat avait affirmé que le terrain n'avait jamais cessé d'être un bien en immobilisation, j'aurais eu de la difficulté à rejeter cet argument. Toutefois, je ne pense pas qu'il est convenable de rejeter l'aveu fait par l'avocat des appelants, selon lequel un changement d'usage s'est produit le 1er janvier 1992, donnant lieu à une disposition présumée pour un produit égal à la juste valeur marchande. Bien entendu, un aveu sur une question de droit ne lie pas la Cour (L.I.U.N.A. Local 527 Members' Training Trust Fund c. La Reine, C.C.I., no 91-1111(IT), 31 juillet 1992, 92 D.T.C. 2365), mais il s'agit d'un aveu sur une question de fait. Toutefois, étant donné que l'hypothèse de la Couronne relativement à un changement d'usage en 1986 a été totalement démolie, et puisque l'hypothèse que le terrain est resté un bien en immobilisation n'a pas été présentée par l'une des parties, je dois accepter l'aveu qu'un changement d'usage a eu lieu le 1er janvier 1992. Je suis conscient que cela sera peut-être plus avantageux pour les appelants qu'un gain en capital tiré de la vente du lot 36.
+[31] Les appels sont admis avec dépens et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que le lot 36 au plan 36M-561 était un bien en immobilisation pour les appelants jusqu'au 1er janvier 1992 et est réputé, aux termes de l'alinéa 45(1)a) de la Loi de l'impôt sur le revenu, avoir fait l'objet d'une disposition pour un produit égal à sa juste valeur marchande à ce moment-là et, aussitôt après, avoir été acquis de nouveau à un coût égal à cette juste valeur marchande.
+[32] Il ne sera retenu que les honoraires d'un seul avocat pour les deux parties.
+Signé à Victoria (Colombie-Britannique), ce 13e jour d'août 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 2e jour de juin 2005.
+Yves Bellefeuille, réviseur

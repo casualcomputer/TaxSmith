@@ -1,0 +1,132 @@
+Title: Traversy v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28271/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-566-28271-traversy-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-09-28
+
+# Traversy v. M.N.R.
+
+- Citation: 2007 TCC 566
+- Decision date: 2007-09-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2052, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Traversy v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-28
+Neutral citation
+2007 TCC 566
+File numbers
+2007-1620(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-1620(EI)
+BETWEEN:
+RAYMOND TRAVERSY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_____________________________________________________________
+Appeal heard on September 20, 2007, at Montréal, (Quebec).
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Annie Poirier
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act concerning the decision of the Minister of National Revenue is allowed and the decision of the Minister is vacated.
+Signed at Ottawa, Canada, this 28th day of September 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 15th day of October 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC566
+Date: 20070928
+Docket: 2007-1620(EI)
+BETWEEN:
+RAYMOND TRAVERSY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REAONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from a decision of the Minister of National Revenue (the Minister) that the Appellant was not employed in insurable employment from February 7, 2005, to January 7, 2006, by Transport Week N Inc. That decision was rendered on January 5, 2007.
+[2] The worker and employer are related within the meaning of the Income Tax Act. The payor’s sole shareholder, Dany Traversy, is the son of the worker, Raymond Traversy, the Appellant. The legal situation of related persons is not being challenged by the Appellant.
+[3] The Minister rendered his decision on the basis that it was reasonable to conclude that the Appellant and the payor would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. The circumstances of the facts on which the Minister relied to reach that conclusion are set out at paragraph 6 of the Reply to the Notice of Appeal (the Reply):
+(a) the payor, incorporated on June 25, 2002, operates a lumber transport business;
+(b) at the beginning of the period in issue, the payor had five trucks and only two at the end of the period;
+(c) the payor hired the Appellant to perform truck maintenance;
+(d) the Appellant’s main duties were as follows:
+− wash and clean trucks;
+− conduct visual inspections for prevention;
+− change oil and tires;
+− perform minor repairs;
+(e) the Appellant could also clean the payor’s garage which was also used by two other companies: 9152‑0213 Québec Inc., of which the sole shareholder was Yan Traversy, Appellant’s son, and Transport Mario Traversy Inc., of which the sole shareholder was Mario Traversy, Appellant’s son;
+(f) the Appellant claims that he recorded his hours of work and submitted them to Yan Traversy, who was in charge of the payor’s payroll, whereas Yan Traversy stated that the Appellant was on a fixed salary, regardless of the hours actually worked;
+(g) at the beginning of the period, the Appellant received $260 net per week and, after about four months, he was paid $160 net per week;
+(h) according to the Appellant, he worked between 20 and 40 hours per week whereas according to the payor’s version, he worked between 10 and 20 hours per week;
+(i) according to the versions obtained, the Appellant could work for $17 per hour, which was too much considering the payor’s financial situation, or for as little as $4.25, which is less than minimum wage in Quebec;
+(j) neither the payor nor the Appellant could not confirm the number of actual hours worked by the Appellant during the period in issue;
+(k) the Appellant rendered numerous services to the payor and accepted a 40% pay reduction as the payor was experiencing financial difficulties;
+(l) during the period in issue, the Appellant rendered services to the payor and to two other companies, to which he is related, without really taking into account the hours worked for each company;
+(m) the Appellant worked for the payor for 11 months; before and after that period, it was the payor who performed his duties.
+[4] Counsel for the Appellant, on his behalf, admitted paragraphs (a) to (e) and (m), stated that he was unaware of paragraphs (f), (h), (i) and (j) and denied paragraphs (g), (k) and (l).
+[5] The Appellant’s witness was Dany Traversy, President of Transport Week N inc. Monsieur Traversy stated that he started a lumber transport business in June 2002. He had one truck at the time. He then rented a few more trucks. At the beginning of 2005, the company had five trucks. He also had more employees. In 2006, the business went bankrupt.
+[6] From October 2004 to April 2005, the company leased a garage. After April 2005, the company leased a barn or storage building to park the trucks. Around May 2005, the company got rid of one or two trucks.
+[7] Two other brothers of Dany Traversy were in the same type of business, Yan Traversy, who owned 9152‑0213 Québec Inc. in St‑Cyrville de Wendover, and Mario Traversy, who owned Transport Mario Traversy Inc. in St‑Nicéphore. Yan Traversy was responsible for the employer’s company accounting.
+[8] Dany Traversy explains that he recruited the services of his father when the company acquired some five trucks, at the beginning of 2005. Before that, he was the one who performed truck maintenance but the task became too much for him and since he knew that his father was looking for work, he recruited his services for $170 per week.
+[9] The company’s payroll journal was produced as Exhibit A‑2 and the invoices for the services Raymond Traversy lent to Transport Mario Traversy Inc. were produced as Exhibit A‑1. Those invoices are dated from March 31, 2005, to May 5, 2005. The lending of services to another company explains the increase in the salary of Raymond Traversy from March 31, 2005, to April 30, 2005. In fact, according to the payroll journals, that salary went from $170 to $278 to $170 again, the original salary.
+[10] Raymond Traversy testified at the Respondent’s request. He presented himself as being without work. He explained that shortly before he was employed by his son’s company, Transport Week N Inc., he went to see a group, which he called Coalition. The purpose of the group was to help people aged 45 and over write their curriculum vitae. He is now 61 years old. He explained that he studied mechanics and welding but that he rather worked in the lumber sector during his active employment life. He is however familiar with mechanics and welding as they have always interested him. That allowed him to render adequate services to his son’s company. It was he who not only washed and cleaned the trucks but also lubricated the axles, changed the oil and inspected the engines to prevent breakage. Furthermore, his daily service provision allowed him to supervise the company’s premises and equipment.
+[11] Counsel for the Appellant argues that he did perform work. His work ended when the company ceased its activities. The salary was reasonable as it was not paid on an hourly basis but on service provision.
+[12] Counsel for the Respondent admits that work was performed. However, she argues that the remuneration paid and the terms and conditions were not reasonably similar to those that would have been granted to a non-related person. It was not normal, according to her, that the Appellant’s employment status remained the same when the number of trucks had decreased. Dany Traversy admitted that he did not control the Appellant’s hours.
+[13] In response, Counsel for the Appellant argues that he had no specific control over the hours because the employer trusted his employee and knew that the work was being performed. As for the decrease in the number of trucks, it does not necessarily entail a correlative decrease in work duties. The person must still attend the workplace and perform his or her duties.
+Analysis and conclusion
+[14] I understand that when there is employment between related persons, there is always some doubt as to the authenticity of the employment and its usefulness. There is also doubt as to the normalcy of the terms and conditions of the employment. They may be more favourable and sometimes less favourable than between non-related persons.
+[15] In this case, I see no systematic plan to use or abuse the employment insurance system, which brings me to attach more credibility to the testimonies of the worker and employer.
+[16] The Appellant’s services were required when the number of trucks used by the company was at its peak. The Appellant is not a young worker who would normally ask to be paid by the hour. He is retired or semi-retired. He accepted to be paid for services he provided on a regular basis, correctly but at his pace. The work was performed and performed well, which is what the employer wanted and needed. He did not dismiss the employee when he had fewer trucks, as he still needed someone’s services to oversee the maintenance of the trucks and exercise some supervision over the company’s automotive equipment and other. Could the employer have obtained the same type of service and at the same price from another non-related retired or semi-retired person? The Respondent did not provide me with any specific evidence that this was an out-of-the-ordinary situation for this category of employees.
+[17] The Minister based his conclusion on a normal hourly rate, on the absence of control over the hours and on the fact that the worker accepted a 40% reduction in his pay. At the hearing, this last point was explained and not retained by the Respondent.
+[18] What remains is the hourly rate and the absence of control over the hours. As I have already mentioned, we are dealing with a situation where the person is of a certain age. It is with regard to that category that one must consider what is normal.
+[19] There is no question that the service was rendered, that the Appellant worked at least the minimum hours stated, that is, 20 hours per week, and that the work was useful and necessary. I am of the opinion that in the circumstances of this case, there was no evidence of an out-of-the-ordinary situation. The decision of the Minister must therefore be vacated.
+[20] Accordingly, the appeal is allowed.
+Signed at Ottawa, Canada, this 28th day of September 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 15th day of October 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC566
+COURT FILE NO.: 2007-1620(EI)
+STYLE OF CAUSE: RAYMOND TRAVERSY AND M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 20, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: September 28, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Annie Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gilbert Nadon
+Firm: Ouellet, Nadon, Barabé, Cyr, de Merchant, Bernstein, Cousineau, Palardy, Gagnon, Tremblay, Leduc, Denis, Binsse‑Masse, Fortin‑Legris, Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

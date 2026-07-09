@@ -1,0 +1,633 @@
+---
+title: "Gervais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180239/index.do"
+last_modified: "2016-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 180"
+citation2: ""
+neutral_citation: "2016 CCI 180"
+decision_date: "2016-09-12"
+language: "fr"
+item_id: "180239"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2882
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:54:11.608000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6032bed9dcbb669ef1b7fc78cb736c652d054751e771bfae477abdbbfdd24029"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gervais c. La Reine
+
+- Citation: 2016 CCI 180
+- Decision date: 2016-09-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2882, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gervais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-09-12
+Référence neutre
+2016 TCC 180
+Numéro de dossier
+2010-70(IT)G, 2010-71(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Docket: 2010-71(IT)G
+BETWEEN:
+GUY GERVAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Lysanne Gendron (2010­70(IT)G), on March 31, 2016, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Camille Janvier
+Counsel for the Respondent:
+Mélanie Sauriol
+Josée Tremblay
+JUDGMENT
+The appeal filed under the Income Tax Act is dismissed for the attached reasons.
+With respect to costs, if the parties cannot come to an agreement before October 31, 2016, they will need to contact the Tax Court Registry, and I will hear their submissions on a date set by the Registry, or if they prefer, they can file written submissions in accordance with the guidelines that will be provided.
+Signed at Québec, Quebec, this 12th day of September, 2016.
+"Gaston Jorré"
+Jorré J.
+Docket: 2010-70(IT)G
+BETWEEN:
+LYSANNE GENDRON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Guy Gervais (2010­71(IT)G), on March 31, 2016, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Camille Janvier
+Counsel for the Respondent:
+Mélanie Sauriol
+Josée Tremblay
+JUDGMENT
+Based on the reasons that I rendered on April 23, 2014, the reasons rendered by the Federal Court of Appeal on January 6, 2016, and the attached reasons, the appeal of reassessments established under the Income Tax Act for the 2002, 2003 and 2004 taxation years is allowed, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is not taxable on the gain that she made by selling her shares of Vulcain Alarme inc. to BW Technologies Ltd. in October 2002. For the 2003 and 2004 taxation years, the Minister will need to reassess the minimum tax accordingly.
+With respect to costs, if the parties cannot come to an agreement before October 31, 2016, they will need to contact the Tax Court Registry, and I will hear their submissions on a date set by the Registry, or if they prefer, they can file written submissions in accordance with the guidelines that will be provided.
+Signed at Québec, Quebec, this 12th day of September, 2016.
+"Gaston Jorré"
+Jorré J.
+Citation: 2016 TCC 180
+Date: 20160912
+Dockets: 2010-71(IT)G
+2010-70(IT)G
+BETWEEN:
+GUY GERVAIS,
+LYSANNE GENDRON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+[1] The issue in dispute is whether the Minister of National Revenue was correct in applying the general anti-avoidance rule when assessing Guy Gervais. The general anti-avoidance rule is cited by the respondent in circumstances where the appellants used a plan which, apparently, is often referred to as a "half-loaf" in English.
+[2] In my reasons dated April 23, 2014, I allowed Lysanne Gendron’s appeal and dismissed Guy Gervais’s appeal. I also found that I did not need to consider the general anti-avoidance rule. In its January 6, 2016 decision, the Federal Court of Appeal granted Guy Gervais’s appeal and dismissed the respondent’s appeal in the case involving Lysanne Gendron. The Court of Appeal referred both matters to our Court to have the application of the general anti-avoidance rule examined and determined.[1]
+Simplified overview[2] [3] There is no dispute regarding the amounts at issue, and to simplify this overview, I will round off the numbers.
+[4] In early 2002, Mr. Gervais was a shareholder in a family business. Ms. Gendron, his spouse, was not a shareholder.
+[5] In the summer of 2002, an arm’s length company, BW Technologies Ltd., offered to buy the business, and the shareholders, Mr. Gervais and his brother Mario Gervais, accepted the offer to purchase before September 26, 2002.
+[6] On September 26, 2002, Mr. Gervais sold one million of his shares in the family business to Ms. Gendron for $1,000,000, the fair market value of the shares, and he elected to realize his gain by disposing of his shares,[3] which resulted in Ms. Gendron’s adjusted cost base being $1,000,000.
+[7] Ms. Gendron knew that the offer to purchase had been accepted before she became a shareholder, and at the time that she purchased the shares, she was intending to sell them a few days later.
+[8] Four days later, on September 30, 2002, Mr. Gervais gave gratuitously to Ms. Gendron one million of his shares,[4] and there was a rollover under subsection 73(1) of the Income Tax Act. As a result, he did not realize a gain, and Ms. Gendron was deemed to have acquired the shares at Mr. Gervais’s adjusted cost base, a minimal amount. For purposes of this overview, let us say this amount was $0.
+[9] Seven days after the gift, on October 7, 2002, Ms. Gendron sold all her shares in the family business to BW Technologies for the sum of $2,000,000.[5]
+[10] In her income tax return for the 2002 taxation year, Ms. Gendron included a capital gain in respect of the sale of shares. In calculating her gain, she applied the mechanism in subsection 47(1) of the Act. Consequently, she considered that the cost[6] of all of her shares[7] in the family business was $1,000,000. She made the following calculations in her return:[8]
+Proceeds of disposition
+$2,000,000
+Minus:
+Adjusted cost base
+($1,000,000)
+Capital gain
+$1,000,000
+Minus:
+Portion of the gain attributed to Mr. Gervais
+($500,000)[9]
+Ms. Gendron’s capital gain
+$500,000
+Ms. Gendron’s taxable capital gain
+$250,000
+Minus:
+Capital gain deduction
+($250,000)
+Final result
+$0
+[11] Consequently, Ms. Gendron paid no taxes on her disposition of the company’s shares and half of the gain was attributed to Mr. Gervais.
+[12] According to the Minister, this result does not comply with the Act, and the $250,000 taxable capital gain must be removed from Ms. Gendron’s income and added to Mr. Gervais’s income under the general anti-avoidance rule.
+Facts [13] Vulcain Alarme inc., a medium-sized family business, was sold in 2002.
+[14] In May or June 2002, when BW Technologies made the first offer to purchase the business, Mr. Gervais and his brother Mario were shareholders; Ms. Gendron was not a shareholder.
+[15] After certain transactions described below, on October 7, 2002, BW Technologies purchased the business from, among others, Mr. Gervais and Ms. Gendron.
+[16] In her income tax return for the 2002 taxation year, Ms. Gendron reported a taxable capital gain in respect of the sale of her shares in the business. She used the capital gain exemption.[10]
+[17] The Minister made a reassessment in respect of Ms. Gendron on the basis that her gain from the sale of shares was income, not a capital gain.
+[18] The Minister also reassessed Mr. Gervais, applying the general anti‑avoidance rule in order to include the taxable capital gain realized by Ms. Gendron in Mr. Gervais’s income.
+[19] The Minister conceded that he could not be correct in both appeals. It is now established that the Minister erred when assessing Ms. Gendron.
+[20] The Vulcain corporation is a family company started by Mr. Gervais’s father, Clément Gervais. Vulcain is, among other things, a manufacturer of toxic gas monitors. The monitors are most often used to measure carbon monoxide in parking garages.
+[21] When the business was first started, Mr. Gervais’s father and mother worked together, and the offices were in the basement of the family home.
+[22] At age 14, Mr. Gervais started working in the family business in the summers.
+[23] Mr. Gervais is an engineer by trade. After his studies at the École Polytechnique, he started working at the family business.[11]
+[24] In 1988, when he started working for the business, the company office moved from the basement of the family home to the garage; there were four employees including his father and him.[12]
+[25] When he started, the sales were around $750,000 to $800,000, 20% lower than the best year two years before that.
+[26] After that, the business grew significantly. The business moved from the garage to a 3,600-square-foot facility. In 2000, there were about 100 employees.
+Partial Agreements on the Facts [27] The parties filed Partial Agreements on the Facts. The facts are reproduced below.[13] To make the statement of facts more logical, I have also added some facts from evidence other than the Partial Agreements on the Facts; I have indicated the additions in footnotes.
+The parties agree that the facts listed below are true[14] [28] Vulcain was incorporated by Clément Gervais on February 29, 1968, under Part IA of the Quebec Companies Act.
+[29] Vulcain operated a business in the field of manufacturing toxic gas and explosives detectors.
+[30] On or about February 16, 1983, Guy Gervais acquired a common share of Vulcain for $10. Since then, the share capital of the corporation has been held by Clément Gervais and his three sons, Guy, Mario and Robert.
+[31] Guy Gervais and Lysanne Gendron were married in 1987.
+[32] In 1988, Guy Gervais became a director of Vulcain.
+[33] From 1968 until the outright sale of the Vulcain shares to BW Technologies in 2002, Vulcain share capital was always held by Clément Gervais and/or his sons.
+[34] On January 26, 2001, a unanimous agreement of Vulcain’s shareholders was signed by Clément Gervais, Mario Gervais and Guy Gervais.
+[35] In 2002, Guy Gervais was the sole director of Vulcain.
+[36] In 2002, BW Technologies presented an offer to purchase with the goal of acquiring Vulcain.
+[37] In May or June 2002, the appellants learned from an intermediary’s letter that a company wanted to purchase Vulcain. Soon after, they learned that it was BW Technologies in Calgary.[15]
+[38] Some time later, the president of BW Technologies came to visit the company.[16]
+[39] On June 12, 2002, a confidentiality agreement was signed between BW Technologies and Vulcain.
+[40] Several weeks after the visit of the president of BW Technologies, the appellants received an offer to purchase for approximately $7,500,000. The offer provided a two‑week period in which to respond to it and came at about the time when the appellants were getting ready to go on a trip to Maine.[17]
+[41] There was a non-binding offer to purchase signed on August 31, 2002, which was amended on September 26, 2002.[18]
+[42] The offer to purchase the entire share capital was accepted by Vulcain’s shareholders, Guy Gervais and Mario Gervais, before September 22, 2002.[19]
+[43] Lysanne Gendron was aware of the offer to purchase and knew that it had been accepted by the shareholders before she became a shareholder.[20]
+Modifications made to the share capital[21] [44] On August 26, 2002, Vulcain’s only two shareholders were Guy Gervais and Mario Gervais,[22] with the shares divided as follows:
+a) Guy Gervais held 790,000 common class A shares and 5,120 preferred class I shares; and
+b) Mario Gervais, Guy Gervais’s brother, held 200,000 common class A shares and 5,120 preferred class I shares.
+[45] On or about September 26, 2002, Guy Gervais converted his 790,000 common class A shares into 2,087,778 preferred class E shares and 4,168,192 common class B shares.
+[46] For the purposes of the Act, Guy Gervais elected to use the tax rollover mechanism set out in section 85 of the Act.
+[47] On or about September 26, 2002, Mario Gervais also converted his 200,000 common class A shares into 1,583,790 preferred class E shares.
+[48] The preferred class E shares included, among other things, the following rights, privileges and restrictions: non-voting, non-participating, preferential and non-cumulative monthly dividend of 1% per month calculated on the "redemption value" with preference over class A, B, F, and G shares, but after class D, H, I and J shares, redeemable at the request of the shareholder or by mutual consent.
+[49] On conversion, each of the class E and B shares had a fair market value of $1 per share.
+[50] On September 26, 2002, Vulcain authorized the transfer of 4,168,192 common class B shares held by Guy Gervais to 9120-9957 Québec inc.
+[51] On September 26, 2002, Guy Gervais transferred his 4,168,192 common class B shares to 9120-9957 Québec, a corporation in which he held all of the share capital.
+[52] For the purposes of the Act, Guy Gervais elected to use the tax rollover mechanism set out in section 85 of the Act with regard to this transfer.
+[53] Before September 26, 2002, Lysanne Gendron was not a shareholder in Vulcain.[23]
+[54] As shown in the document entitled [translation] "Share Purchase Agreement" dated September 26, 2002, Guy Gervais sold 1,043,889 preferred class E shares to Lysanne Gendron for $1,043,889.
+[55] The agreement sets out that Lysanne Gendron could not [translation] "assign her rights and obligations hereunder to any person without the prior consent of Guy Gervais to that effect."[24] Without Guy Gervais’s permission, Lysanne Gendron could not sell her shares to anyone other than BW Technologies.[25]
+[56] As shown in the share purchase agreement, Lysanne Gendron had to pay the purchase price by giving Guy Gervais a promissory note payable within five years with an annual interest of 4.5%.
+[57] Article 2.2 of the agreement provides for five equal payments of $208,777 on December 31, 2002, 2003, 2004, 2005 and 2006 plus interest (article 2.3). Lysanne Gendron made the payments.[26]
+[58] For the purposes of the Act, in his tax return for 2002, Guy Gervais chose not to take advantage of the provisions in subsection 73(1) of the Act. Consequently (for the purposes of the Act[27]):
+a) since the adjusted cost base of these shares is $43,889, Guy Gervais realized a capital gain of $1,000,000; and
+b) the adjusted cost base of the shares purchased by Lysanne Gendron was $1,043,889.
+[59] As shown in a notarial act dated September 30, 2002, Guy Gervais gave gratuitously to Lysanne Gendron 1,043,889 preferred class E shares.
+[60] For the purposes of the Act, Guy Gervais did not choose to have his transaction performed on September 30, 2002, be exempt from the application of subsection 73(1) of the Act. Consequently (for the purposes of the Act[28]):
+a) Guy Gervais is deemed to have disposed of shares for an amount equal to the adjusted cost base of the shares, namely, $43,889; and
+b) Lysanne Gendron is deemed to have acquired shares for an amount equal to the adjusted cost base of the shares, namely, $43,889.
+[61] From September 26 to October 7, 2002, Lysanne Gendron did not intend to keep the shares of Vulcain as an investment.[29]
+[62] From September 26 to October 7, 2002, Lysanne Gendron did not intend to hold the shares of Vulcain over the long term and was not planning to earn property income from them.[30]
+[63] Lysanne Gendron knew that she would not receive any dividends relative to the Vulcain shares during the period from September 26 to October 7, 2002.[31]
+[64] On September 26, 2002, Lysanne Gendron’s intention was to sell the Vulcain shares she held on or about October 7, 2002, when the contract to sell Vulcain’s entire share capital to BW Technologies would be signed[32].
+[65] When Lysanne Gendron bought the shares, she did not have the financial means to pay for the shares, but she could do so because she was going to resell the shares to BW Technologies[33].
+Sale of Vulcain shares to BW Technologies[34] [66] On or about October 7, 2002, BW Technologies acquired the entire share capital of Vulcain for a total of $7,850,000.
+[67] As shown in the contract of sale, the price was broken down as follows:
+a) $2,087,778 for 2,087,778 preferred class E shares held by Lysanne Gendron;
+b) $5,120 for 5,120 preferred class I shares held by Guy Gervais;
+c) $5,120 for 5,120 preferred class I shares held by Mario Gervais;
+d) $4,168,192 for 4,168,192 common class B shares held by 9120-9957 Québec; and
+e) $1,583,790 for 1,583,790 common class B shares held by Mario Gervais.[35]
+Guy Gervais’s and Lysanne Gendron’s tax returns[36] [68] In her income tax return for the 2002 taxation year, Lysanne Gendron established the average cost of 2,087,778 preferred class E shares at $1,087,778 ($1,043,889 + $43,889) by applying the mechanism provided in subsection 47(1) of the Act and reported a capital gain calculated as follows:
+Proceeds of disposition
+$2,087,778
+Adjusted cost base
+($1,087,778)
+Capital gain
+$1,000,000
+Expenses incurred for the disposition
+($13,809)
+Capital gain
+$986,191[37]
+Capital gain allocated to Guy Gervais
+($486,191)
+Capital gain after allocation
+$500,000
+Taxable capital gain
+$250,000
+Capital gain deduction
+($250,000)
+Net
+0
+[69] In his income tax return for the 2002 taxation year, Guy Gervais reported a capital gain calculated as follows:
+1st disposition/Lysanne Gendron/
+September 26, 2002
+Proceeds of disposition
+$1,043,889
+Adjusted cost base
+($43,889)
+Capital gain
+$1,000,000
+2nd disposition/gift to Lysanne Gendron/
+September 30, 2002
+Proceeds of disposition
+$43,889
+Adjusted cost base
+($43,889)
+Capital gain
+0
+Sale to BW Technologies
+Proceeds of disposition
+$5,120
+Adjusted cost base
+($5,120)
+Capital gain
+0
+Total capital gain
+$1,000,000
+Expenses incurred for the disposition
+($13,809)
+Capital gain
+$986,191
+Capital gain allocated to Guy Gervais
+$486,191
+Capital gain after allocation
+$1,472,382
+Provision requested
+($788,953)
+Capital gain
+$683,429
+Taxable capital gain
+$341,714
+Capital gain deduction
+($158,720)
+[70] In 2002, the maximum amount that Guy Gervais could claim as a capital gain deduction was $158,720, namely, the balance available in respect of this deduction.
+Adventure or concern in the nature of trade[38] [71] On September 26, 2002, Lysanne Gendron:
+a) knew the terms and conditions of the sale of the entire share capital of Vulcain to BW Technologies;
+b) knew the sale price that had been negotiated between BW Technologies and Vulcain and/or Vulcain’s shareholders;
+c) knew the time limit set for the sale of Vulcain’s shares to BW Technologies; and
+d) knew that a significant profit would be made from the sale of Vulcain’s shares and, specifically, the preferred shares.
+[72] The above paragraph is the last one from the Partial Agreements on the Facts.
+Other facts [73] Ms. Gendron had worked as a salaried employee at Vulcain since 1992, but she had had some involvement in the company before then.
+[74] Ms. Gendron was very active in the business. In the early 2000s, she was in charge of all of its management. Among other things, she was in charge of human resources at the New York and Toronto offices. She was constantly talking with Mr. Gervais about operations and about all of the important decisions that the business had to make.
+[75] When the business bought the shares of Mr. Gervais’s father, money had to be borrowed and securities given. Ms. Gendron agreed, among other things, to a hypothec on the family home as security.
+[76] Mr. Gervais testified that when they had made the decision to sell, they had decided to get advice from the law firm McCarthy Tétrault.[39]
+[77] He asked their legal counsel to do three things:[40]
+a) to advise them during the negotiations to ensure that their interests are protected;
+b) to advise them on the taxation aspects; and
+c) to advise them regarding Mr. Gervais’s wish to recognize Ms. Gendron’s contribution so that she may receive $1,000,000.
+[78] McCarthy Tétrault proposed the transaction structure and the appellants accepted it.[41]
+[79] Mr. Gervais and Ms. Gendron were both present at the meetings with McCarthy Tétrault.[42]
+Analysis The general anti-avoidance rule [80] The general anti-avoidance rule is set out in section 245 of the Act. We also need to consider subsection 248(10) of the Act. Section 245 and subsection 248(10) are appended for these reasons.
+[81] If we simplify section 245 by removing the portions of the text that are not relevant to this litigation, section 245 reads as follows:
+Definitions
+245(1) In this section,
+tax consequences to a person means the amount of income, taxable income . . ., tax . . . or any other amount that is relevant for the purposes of computing . . . taxable income, or taxable income . . . of this person or the tax . . .
+tax benefit means a reduction, avoidance or deferral of tax or other amount payable under this Act . . .
+. . .
+General anti-avoidance provision
+(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+Avoidance transaction
+(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit . . .;
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit,
+[unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit]
+Application of subsection (2)
+(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of . . .
+(i) this Act,
+. . .
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+Determination of tax consequences
+(5) . . . in determining the tax consequences to a person as is reasonable . . . in order to deny a tax benefit that . . .
+. . .
+(b) . . . any income . . . or . . . other amount or part thereof may be allocated to any person;
+. . .
+[82] If we continue to simplify and reorganize the text, the critical part of section 245 in the context of this appeal is:
+Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit.
+However, this rule does not apply if the transaction does not result in a misuse of the provisions of the Act.
+If the general anti-avoidance rule applies, in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit, an income or other amount may be allocated to a person.[43]
+Definitions
+Tax consequences to a person: his income, taxable income, tax or any other amount that is relevant for the purposes of computing the income.
+Tax benefit: reduction, avoidance or deferral of tax.
+Avoidance transaction: any transaction, or transaction that is part of a series of transactions, which would result in a tax benefit unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+[83] For our purposes, the general anti-avoidance rule can be summarized as follows:
+If a transaction
+1. Results in a tax benefit,
+2. The main purpose of the transaction is to obtain the benefit and
+3. The transaction is a misuse of the provisions of the Act
+The tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit.[44]
+[84] With respect to the facts, the burden is on the taxpayer to refute the Minister’s assumption that there is a tax benefit and an avoidance transaction.[45]
+[85] With respect to the issue of determining whether there was an abuse:
+65 . . . The taxpayer, once he or she has shown compliance with the wording of a provision, should not be required to disprove that he or she has thereby violated the object, spirit or purpose of the provision. It is for the Minister who seeks to rely on the GAAR to identify the object, spirit or purpose of the provisions that are claimed to have been frustrated or defeated, when the provisions of the Act are interpreted in a textual, contextual and purposive manner. The Minister is in a better position than the taxpayer to make submissions on legislative intent with a view to interpreting the provisions harmoniously within the broader statutory scheme that is relevant to the transaction at issue.[46]
+[86] The Minister’s obligation to demonstrate the existence of abuse can largely be described as a "burden of persuasion." As Chief Justice Bowman said in Evans v. The Queen:[47]
+. . . The words “burden of proof” of which the Supreme Court of Canada speaks may imply an evidentiary burden but primarily they impose a requirement that the Crown identify the object, spirit or purpose of the relevant legislation that is said to be frustrated or defeated. This might be described as a “burden of persuasion” although this is not the usual sense of the expression “burden of proof.” . . .[48]
+[87] The following three issues therefore need to be examined:[49]
+Was there a tax benefit?
+Was the transaction giving rise to the tax benefit an avoidance transaction?
+Was the avoidance transaction giving rise to the tax benefit abusive?
+[88] If I find that these three conditions are satisfied and the general anti-avoidance rule applies, I must determine the tax consequences to Mr. Gervais as is reasonable in the circumstances in order to deny a tax benefit that results from the transaction or from the series of transactions.
+First issue: Was there a tax benefit? [89] As we have seen in paragraph 81, the concept of a tax benefit is broadly defined.
+[90] In cases where a deduction is requested, the tax benefit will usually be evident.[50] However, in other cases:
+35 . . . the existence of a tax benefit can be established by comparison of the taxpayer’s situation with an alternative arrangement . . . If a comparison approach is used, the alternative arrangement must be one that . . . “might reasonably have been carried out but for the existence of the tax benefit” . . . By considering what a corporation would have done if it did not stand to gain from the tax benefit, this test attempts to isolate the effect of the tax benefit from the non-tax purpose of the taxpayer[51].
+Arguments of the parties [91] Mr. Gervais is of the opinion that there is no tax benefit in his favour. According to him, if there is a tax benefit, it was realized by Ms. Gendron who used her capital gains deduction as set out in subsection 110.6(2.1) of the Act. As a result, because it is Mr. Gervais’s return, and not Ms. Gendron’s, which has been reassessed based on the general anti-avoidance rule, Mr. Gervais believes that the assessment made under subsection 245(2) should be cancelled.
+[92] The respondent is of the opinion that the tax benefit arises from the fact that in the absence of the series of transactions at issue, Mr. Gervais would have been taxed on the sale of Vulcain’s entire share capital to BW Technologies, which he held on September 25, 2002, including the $250,000 taxable capital gain made by Ms. Gendron rather than Mr. Gervais. The tax benefit arises from the fact that Mr. Gervais did not pay tax on the $250,000 taxable capital gain.[52]
+Analysis [93] For the following reasons, I agree with the respondent that Mr. Gervais received a tax benefit. This is evident if we apply the comparative method set out by the Supreme Court of Canada.
+[94] Mr. Gervais had two different objectives: i) to sell his Vulcain shares, and ii) to give Ms. Gendron $1,000,000.
+[95] These objectives could easily have been achieved by simply selling his class E shares to BW Technologies and then giving Ms. Gendron $1,000,000. If Mr. Gervais had done this, he would have realized all the capital gain from the sale of the class E shares, and he would have included the taxable capital gain from the sale of the class E shares in his income tax return.[53]
+[96] It is clear that there is a tax benefit. Simply put, the tax benefit that Mr. Gervais received is that as a result of the plan,[54] he avoided being taxed on a $250,000 taxable capital gain.[55]
+Second issue: Was the transaction giving rise to the tax benefit an avoidance transaction? [97] As we have seen above,[56] an avoidance transaction is a transaction, or a transaction that is part of a series of transactions, that result in a tax benefit unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.[57]
+[98] The Supreme Court of Canada explained how to address this issue in Copthorne Holdings Ltd. v. Canada:[58]
+40 Where . . . the Minister assumes that the tax benefit resulted from a series of transactions rather than a single transaction, it is necessary to determine if there was a series, which transactions make up the series, and whether the tax benefit resulted from the series. . . . If any transaction within the series is not undertaken primarily for a bona fide non-tax purpose that transaction will be an avoidance transaction.
+41 The first consideration is whether there was a series that resulted in a tax benefit. As I will explain below, it will be necessary to consider when a transaction which is related to a common law series of transactions is part of a series of transactions as defined in s. 248(10) of the Income Tax Act. The second consideration is whether any of the transactions within the purported series is an avoidance transaction.
+. . .
+43 . . . this Court accepted that the scheme of the Act provides for an expansive approach to the series issue. The starting point is the common law series taken from English law where “each transaction in the series [is] pre-ordained to produce a final result” . . . This common law series is expanded by s. 248(10) of the Act which deems any “related transactio[n]” which is completed “in contemplation of” (i.e. “in contemplation of” the following series Trustco) a series to be part of that series. . . .
+[Emphasis added.]
+[99] If there are both tax and non-tax purposes to a transaction, it must be determined whether it was reasonable to conclude that the non-tax purpose was primary. An objective assessment of the relative importance of the driving forces of the transaction is sufficient.[59]
+Arguments of the parties [100] The appellants’ counsel maintains that exercising a choice cannot be considered an avoidance transaction within the meaning of subsection 245(3) of the Act. He also argues that to choose one transaction over another transaction, which would have achieved an equivalent outcome, but would have resulted in a higher amount of tax, does make the transaction an avoidance transaction.[60]
+[101] He also maintains that the transactions were performed to enable Ms. Gendron to benefit from the proceeds of the sale. In support of his argument, he notes that Ms. Gendron actively participated in developing Vulcain. He also points out that she used part of the funds that she received from the sale to purchase a condominium for her father and make personal investments. As a result, each transaction in the series had a bona fide purpose and, consequently, the general anti-avoidance rule should not apply.
+[102] The respondent argues that the transactions at issue constitute a series of transactions because they were "pre-ordained in order to produce a given result" with "no practical likelihood that the pre-planned events would not take place in the order ordained."[61] The respondent also maintains that each transaction performed in the series constituted an avoidance transaction:
+1. Reorganization of the share capital to create the class E non-voting, non-participating shares, whose transfer was limited;
+2. Sale and gift of these shares to Ms. Gendron;
+3. Choices made or not made by Mr. Gervais under subsection 73(1) of the Act;
+4. Use of the mechanism set out in subsection 47(1) of the Act to compute the gain made by Ms. Gendron;
+5. Ms. Gendron’s use of her capital gains deduction set out in subsection 110.6(2.1) of the Act.
+[103] She points out that the purpose of the series of transactions was to "maximize taxation"[62] on the sale of Mr. Gervais’s shares and that the transfer of the shares to Ms. Gendron was only a transitional step.
+Analysis [104] Because the alleged tax benefit results from a series of transactions, it is first necessary to identify the series of transactions at issue and then determine whether each transaction in the series was performed mainly for bona fide purposes.
+Series of transactions [105] I must therefore determine whether the steps of the plan at issue were "pre-ordained in order to produce a given result" [with] "no practical likelihood that the pre-planned events would not take place in the order ordained."[63]
+[106] Before proceeding with this analysis, I must determine which steps constitute a "transaction" within the meaning of subsection 245(2) of the Act. In this regard, I note the reorganization of share capital to create the class E shares, the sale of the first block of class E shares to Ms. Gendron, the gift of the second block of class E shares to Ms. Gendron and finally, Ms. Gendron’s sale of class E shares to BW Technologies.[64]
+[107] Ms. Gendron was aware of the offer to purchase, which she discussed with Mr. Gervais. Mr. Gervais and Ms. Gendron both participated in the meetings with McCarthy Tétrault, who prepared the plan. Before purchasing the class E shares, Ms. Gendron knew that she would soon resell them to BW Technologies. The share purchase agreement stipulated that she could not cede her shares to anyone but BW Technologies, without having obtained prior consent from Mr. Gervais. Everything was planned in advance.
+[108] I have no difficulty finding that the various transactions listed above were pre-ordained in order to produce a given result and that there was no practical likelihood that the pre-planned events would not take place in the order ordained. Therefore, there was obviously a series of transactions.
+[109] Before turning to the issue of whether there is an avoidance transaction, I will make the following comment. Tax considerations and choices were also involved in the various transactions identified. The choice allowed under subsection 73(1) of the Act was made in connection with the sale of the first block of shares so as to produce a capital gain for Mr. Gervais. Not exercising the choice allowed under subsection 73(1) of the Act regarding the second block of shares received by Ms. Gendron as a gift resulted in a rollover of the adjusted cost base. This triggered the application of subsection 47(1) of the Act, under which the adjusted base price of the two blocks of shares held by Ms. Gendron was combined after they were transferred. Subsequently, the sale of the two blocks of shares to BW Technologies triggered a $1,000,000 capital gain. As a result of that gain, a taxable capital gain of approximately $250,000[65] was attributed to Mr. Gervais pursuant to subsection 74.2(1) of the Act. Finally, Ms. Gendron eliminated the tax on her remaining capital gain by using her capital gains deduction under subsection 110.6(2.1) of the Act.[66]
+Avoidance transaction? [110] We now need to determine whether all the transactions in the series of transactions were performed for bona fide purposes. In this regard, the appellants argue that the main purpose of the plan was to allow Ms. Gendron to benefit from the proceeds of the sale of Vulcain to BW Technologies.
+[111] I am satisfied that Ms. Gendron contributed to the development of the business. I am also satisfied that Ms. Gendron benefited from the sale; she used the money from the sale to buy a condominium for her father and for various purchases in addition to making several personal investments. The plan also sought to "maximize taxation."[67]
+[112] There is a bona fide purpose: gifting $1,000,000 to Ms. Gendron in recognition of her contribution to the business. This purpose coexisted with the purpose of reducing taxes.
+[113] However, "[i]f any transaction within the series is not undertaken primarily for a bona fide non-tax purpose that transaction will be an avoidance transaction."[68] However, Mr. Gervais’s sale of shares to Ms. Gendron was not absolutely necessary in order to make a gift to Ms. Gendron[69] and, as a result, there is no bona fide purpose for this transaction.
+[114] This transaction, the sale of the shares to Ms. Gendron, was necessary only to obtain a tax benefit: preventing Mr. Gervais from having to pay tax on part of the capital gain. This benefit was obtained by transferring this same part of the capital gain to Ms. Gendron.[70]
+[115] As a result, there was an avoidance transaction.[71]
+Third issue: Was the avoidance transaction abusive? Applicable law [116] The last of the three issues is the most difficult: does the avoidance transaction that resulted in the tax benefit constitute an abuse in the application of the provisions of the Act? In Copthorne,[72] the Supreme Court of Canada stated:
+66 The GAAR is a legal mechanism whereby Parliament has conferred on the court the unusual duty of going behind the words of the legislation to determine the object, spirit or purpose of the provision or provisions relied upon by the taxpayer. While the taxpayer’s transactions will be in strict compliance with the text of the relevant provisions relied upon, they may not necessarily be in accord with their object, spirit or purpose. In such cases, the GAAR may be invoked by the Minister. The GAAR does create some uncertainty for taxpayers. Courts, however, must remember that s. 245 was enacted "as a provision of last resort" . . .
+67 A court must be mindful that a decision supporting a GAAR assessment in a particular case may have implications for innumerable "everyday" transactions of taxpayers. . . .
+68 For this reason, "the GAAR can only be applied to deny a tax benefit when the abusive nature of the transaction is clear" . . . The court’s role must therefore be to conduct an objective, thorough and step-by-step analysis and explain the reasons for its conclusion.
+69 In order to determine whether a transaction is an abuse or misuse of the Act, a court must first determine the "object, spirit or purpose of the provisions . . . that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids" . . . The object, spirit or purpose of the provisions has been referred to as the "legislative rationale that underlies specific or interrelated provisions of the Act" . . .
+70 The object, spirit or purpose can be identified by applying the same interpretive approach employed by this Court in all questions of statutory interpretation — a "unified textual, contextual and purposive approach" . . . While the approach is the same as in all statutory interpretation, the analysis seeks to determine a different aspect of the statute than in other cases. In a traditional statutory interpretation approach the court applies the textual, contextual and purposive analysis to determine what the words of the statute mean. In a GAAR analysis the textual, contextual and purposive analysis is employed to determine the object, spirit or purpose of a provision. Here the meaning of the words of the statute may be clear enough. The search is for the rationale that underlies the words that may not be captured by the bare meaning of the words themselves. However, determining the rationale of the relevant provisions of the Act should not be conflated with a value judgment of what is right or wrong nor with theories about what tax law ought to be or ought to do.
+71 Second, a court must consider whether the transaction falls within or frustrates the identified purpose . . . where it is part of a series, it must be viewed in the context of the series to enable the court to determine whether abusive tax avoidance has occurred. In such a case, whether a transaction is abusive will only become apparent when it is considered in the context of the series of which it is a part and the overall result that is achieved . . .
+72 The analysis will then lead to a finding of abusive tax avoidance: (1) where the transaction achieves an outcome the statutory provision was intended to prevent; (2) where the transaction defeats the underlying rationale of the provision; or (3) where the transaction circumvents the provision in a manner that frustrates or defeats its object, spirit or purpose . . . These considerations are not independent of one another and may overlap. At this stage, the Minister must clearly demonstrate that the transaction is an abuse of the Act, and the benefit of the doubt is given to the taxpayer.
+[Emphasis added.]
+[117] The first task is to interpret the provisions giving rise to the tax benefit to determine their object, spirit and purpose. The next task is to determine whether the avoidance transaction falls within or frustrates that purpose.[73]
+[118] The application of the general anti-avoidance rule therefore involves an overall analysis of a question of mixed fact and law. A textual, contextual and purposive approach must be adopted to interpret the provisions giving rise to the tax benefit. This interpretation is essentially a question of law but the application of the provisions is "necessarily fact-intensive."[74]
+[119] There is abusive tax avoidance when specific provisions of the Act are used to achieve an outcome that those provisions seek to prevent. Abuse will also occur when an arrangement is used to circumvent the application of certain provisions, such as anti-avoidance rules.[75]
+Arguments of the parties [120] The counsel for the appellants argues that the interaction of subsections 69(11) and 110.6(7) of the Act demonstrates that Parliament implicitly allows taxpayers to take advantage of certain tax consequences in the case of transfers between spouses.[76] In other words, he is of the opinion that Parliament has allowed gains to be split between spouses, and therefore, it is not abusive to proceed as Mr. Gervais and Ms. Gendron did.
+[121] The counsel for the respondent is of the opinion that the tax benefit arising from the series of transactions results in an abuse in the application of the attribution rules in subsections paragraphs 73(1), 74.2(1) and 74.5(1) of the Act. She also argues that the object and spirit of subsection 110.6(2.1) of the Act were violated.
+Analysis General principles [122] One of the fundamental principles of the Canadian tax system is the recognition of each taxpayer as a basic unit of taxation. The authors, Hogg, Magee and Li[77] wrote:
+[translation]
+Under the Act, the taxable unit is the "person," which includes individuals and corporations. Therefore, even if an individual generally considers his immediate family (usually his spouse and children) an economic unit in terms of resources and expenditures, the Act considers each family member a separate taxable unit. Thus, notwithstanding the anti-avoidance rules discussed later on, if a child is himself the owner of an asset, the income from the asset is part of the child’s taxable income and appears in the child’s income tax return. The Act does not consider the child’s income to be the parent’s income, even though the parents and children are obviously part of the same family. The same applies to family business entities, such as trusts and corporations: each entity is a separate taxpayer.
+[Emphasis added.]
+[123] This fact combined with the application of marginal tax rates often creates incentives for taxpayers to use planning techniques to split their income with their family members.[78]
+[124] In Neuman v. M.N.R.,[79] the Supreme Court of Canada recognized that there is no general scheme to prevent income splitting:
+35 A large part of my analysis will deal with a review of the holdings in McClurg. Before I turn to McClurg, however, I wish to make some observations to place the present debate into its proper perspective. First, s. 56(2) strives to prevent tax avoidance through income splitting; however, it is a specific tax avoidance provision and not a general provision against income splitting. In fact, “there is no general scheme to prevent income splitting” in the ITA (V. Krishna and J. A. Van Duzer, “Corporate Share Capital Structures and Income Splitting: McClurg v. Canada” (1992–93), 21 Can. Bus. L.J. 335, at p. 367). Section 56(2) can only operate to prevent income splitting where the four preconditions to its application are specifically met.[80]
+[Emphasis in the original.]
+[125] However, this principle is not without limits. In the presence of a provision to the contrary, income splitting will not be allowed.[81] This will be the case, for example, where specific anti-avoidance rules, such as attribution rules, have been circumvented in a manner that frustrates or defeats their object, spirit or purpose.[82]
+Object and spirit of statutory provisions [126] According to the teachings of the Supreme Court of Canada, the first task is to interpret the provisions giving rise to the tax benefit to determine their object, spirit and purpose.[83]
+[127] The provisions giving rise to the tax benefit in our case are subsections 73(1), 74.1(1), 74.5(1) and 47(1) of the Act.[84] These provisions will therefore have to be interpreted in light of their text, context and purpose. In this regard, subsections 73(1), 74.1(1) and 74.5(1) have already undergone detailed analysis by the Supreme Court in Lipson v. Canada.[85]
+[128] According to the Supreme Court, the purpose of subsection 73(1) of the Act is to facilitate interspousal transfers of property without triggering immediate tax consequences:
+31 The effect of s. 73(1) is to facilitate interspousal transfers of property without triggering immediate tax consequences (Tax Court judgment, at para. 21). This is an exception to the general rule that capital gains and losses are recognized when property is disposed of. According to Professor Vern Krishna:
+The rationale for permitting a taxpayer to rollover assets is that it is undesirable, and perhaps unfair, to impose a tax on transactions that do not involve a fundamental economic change in ownership, even though there may be a change in form or legal structure.
+(The Fundamentals of Canadian Income Tax (9th ed. 2006) at p. 1112)[86]
+[Emphasis added.]
+[129] In other words, subsection 73(1) of the Act allows tax deferral within the family unit, that is to say, between spouses or common-law partners. Thus, as long as an asset remains within the family unit, the realization of a capital gain or a capital loss can be deferred.[87] Conversely, in conjunction with other provisions of the Act, a gain or loss will generally be realized on a disposition outside the family unit.
+[130] The attribution rules set out in sections 74.1 to 74.5 of the Act are, for their part, anti-avoidance provisions whose purpose is to prevent spouses from reducing tax by taking advantage of their non-arm’s length status by splitting income with a spouse when transferring property between themselves:
+32 Finally, the attribution rules in ss. 74.1 to 74.5 are anti-avoidance provisions whose purpose is to prevent spouses (and other related persons) from reducing tax by taking advantage of their non-arm’s length status when transferring property between themselves. The most common example of such a benefit is one derived from income splitting, but it is not the only example. In Canada, the unit of taxation is the individual: “Each individual is a taxpayer in his or her own right” (Krishna, at p. 16; see also Thibaudeau v. Canada, [1995] 2 S.C.R. 627, at para. 93). Thus, s. 74.1(1) is designed to prevent spouses from benefiting from their non-arm’s length relationship by attributing, for tax purposes, any income or loss from property transferred to a spouse back to the transferring spouse.[88]
+[131] As to subsection 47(1) of the Act, I note that the purpose of this provision is to calculate an average adjusted cost base for identical properties that have been acquired at different times.[89] This provision also aims to simplify the calculation of the adjusted cost base, which makes it easier to calculate the capital gain on disposition of identical properties.
+Application of statutory provisions to the facts [132] Now that the object and spirit of the provisions have been identified, we need to determine whether the alleged avoidance transaction is consistent with that intent. According to the Supreme Court of Canada, abuse can occur in one of three ways:[90]
+1. The result of the avoidance transaction is an outcome that the provisions relied on seek to prevent.
+2. The avoidance transaction defeats the underlying rationale of the provisions relied on.
+3. The avoidance transaction circumvents certain provisions in a manner that frustrates the object, spirit or purpose of those provisions.
+[133] It is helpful at this point to keep in mind that:
+71 . . . where [the transaction] is part of a series, it must be viewed in the context of the series to enable the court to determine whether abusive tax avoidance has occurred. In such a case, whether a transaction is abusive will only become apparent when it is considered in the context of the series of which it is a part and the overall result that is achieved . . .[91]
+[134] When we consider subsections 73(1), 74.2(1) and 74.5(1) together, the scheme of the Act thus provides that when an individual transfers property to his or her spouse or common-law partner, the tax payable may[92] be deferred. If the tax is deferred, when the spouse or common-law partner disposes of the property, the taxable capital gain will be attributed to the individual who made the transfer.[93]
+[135] Here, we must consider all the circumstances surrounding the series: the transfer of the two blocks of class E shares, one of which was sold, the other gifted; the choice not to roll over the shares sold to Ms. Gendron; the choice to allow the rollover of the shares gifted to Ms. Gendron with the result that subsection 47(1) of the Act applied when Ms. Gendron sold her shares. Obviously this leads to an outcome that subsection 74.2(1) aims to prevent and defeats the purpose of subsection 74.2(1) and the scheme of the Act by avoiding the attribution of part of the taxable capital gain to Mr. Gervais, which normally would have occurred when Ms. Gendron sold her shares.
+[136] It follows that there is abuse in the application of the provisions of the Act and, consequently, subsection 245(2) applies.
+[137] Before concluding, I will make some comments on subsections 69(11) and 110.6(7) of the Act. These subsections are specific anti-avoidance provisions that do not apply in this situation. According to the appellants, there is no abuse because, according to these provisions, it is reasonable to conclude that Parliament chose to allow transfers between spouses such as those in dispute in this case.[94]
+[138] I cannot accept this argument. This reasoning is not consistent with the method of analysis recommended by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada.[95] The test established by the Supreme Court involves a textual, contextual and purposive interpretation of the provisions giving rise to the tax benefit. This interpretation must consider the Act "read as a whole."[96]
+[139] In addition, the purpose of subsection 69(11) of the Act is to limit the transfer of assets for less than fair market value to a person with whom the taxpayer was not affiliated to enable that person to subsequently realize a gain and use his tax consequences, such as capital losses, to reduce this gain. Parliament expressly excluded affiliated individuals such as Mr. Gervais and Ms. Gendron from the application of this provision.
+[140] Although an anti-avoidance provision may not be applicable in a given situation, this does not preclude the application of another anti-avoidance rule with a different object and purpose. In this case, the issue specifically involves a transfer of property between spouses, and the attribution rules are critical. Also, given Lipson, I do not see how I could find that the transfer here did not run counter to the object and the spirit of the Act.[97]
+[141] In this regard, I cannot conclude that an anti-avoidance provision, which is inapplicable elsewhere, can restrict the object and purpose of the attribution rules. When enacting subsections 69(11) and 110.6(7) of the Act, Parliament did not intend to invalidate subsection 74.2(1) in circumstances such as these.
+[142] Finally, the appellants argue that abuse cannot occur when a taxpayer elects to exercise a choice allowed under the Act. In the context of the general anti-avoidance rule, we must consider this choice in light of the scheme of the Act. In the context of the attribution rules, the purpose of the choice is to allow the taxpayer to decide whether or not to defer the realization of a capital gain—not to allow the taxpayer to avoid attribution. However, in this case, the choices were exercised in order to circumvent attribution. Thus, there was abuse.
+Conclusion Guy Gervais [143] Having found that Mr. Gervais enjoyed a tax benefit resulting from a series of transactions which included an abusive avoidance transaction, I find that the assessment based on the general anti-avoidance rule must stand.
+[144] Under the circumstances, it is reasonable to reallocate a $250,000 taxable capital gain to Mr. Gervais, because this would place Mr. Gervais in the situation that would have occurred in the absence of planning.
+[145] Mr. Gervais’s appeal is therefore dismissed.
+Lysanne Gendron [146] None of the parties suggested that it would be appropriate to amend the April 23, 2014, decision regarding Ms. Gendron’s case. I concur. A judgment will be rendered accordingly.[98]
+Signed at Québec, Quebec, this 12th day of September, 2016.
+"Gaston Jorré"
+Jorré J.
+Appendix
+Income Tax Act
+PART XVI
+Tax Avoidance
+Definitions
+245(1) In this section
+tax consequences to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount; (attribut fiscal)
+tax benefit means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty; (avantage fiscal)
+transaction includes an arrangement or event. (opération)
+General anti-avoidance provision
+(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+Avoidance transaction
+(3) An avoidance transaction means any transaction:
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+Application of subsection (2)
+(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+Determination of tax consequences
+(5) Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a) any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) any such deduction, exemption or exclusion, any income, loss or other amount or part thereof may be allocated to any person,
+(c) the nature of any payment or other amount may be recharacterized, and
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+Request for adjustments
+(6) Where with respect to a transaction (a) a notice of assessment, reassessment or additional assessment involving the application of subsection 245(2) with respect to the transaction has been sent to a person, or (b) a notice of determination pursuant to subsection 152(1.11) has been sent to a person with respect to the transaction, any person (other than a person referred to in paragraph (a) or (b)) shall be entitled, within 180 days after the day of sending of the notice, to request in writing that the Minister make an assessment, reassessment or additional assessment applying subsection (2) or make a determination applying subsection 152(1.11) with respect to that transaction.
+Exception
+(7) Notwithstanding any other provision of this Act, the tax consequences to any person, following the application of this section, shall only be determined through a notice of assessment, reassessment, additional assessment or determination pursuant to subsection 152(1.11) involving the application of this section.
+Duties of Minister
+(8) On receipt of a request by a person under subsection 245(6), the Minister shall, with all due dispatch, consider the request and, notwithstanding subsection 152(4), assess, reassess or make an additional assessment or determination pursuant to subsection 152(1.11) with respect to that person, except that an assessment, reassessment, additional assessment or determination may be made under this subsection only to the extent that it may reasonably be regarded as relating to the transaction referred to in subsection 245(6).
+. . .
+PART XVII
+Interpretation
+248 . . .
+Series of transactions
+(10) For the purposes of this Act, where there is a reference to a series of transactions or events, the series shall be deemed to include any related transactions or events completed in contemplation of the series.
+CITATION:
+2016 TCC 180
+COURT FILE NOS.:
+2010-71(IT)G
+2010-70(IT)G
+STYLE OF CAUSE:
+GUY GERVAIS,
+LYSANNE GENDRON,
+v. THE QUEEN
+PLACE OF HEARING:[99]
+Montréal, Quebec
+DATE OF HEARING:
+March 31, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+September 12, 2016
+APPEARANCES:
+Counsel for the Appellants:
+Serge Fournier
+Camille Janvier
+Counsel for the Respondent:
+Mélanie Sauriol
+Josée Tremblay
+SOLICITORS OF RECORD:
+For the Appellants:
+Serge Fournier
+Firm:
+BCF LLP
+Montréal, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] These appeals were heard on common evidence. The parties submitted two Partial Agreements on the Facts and two joint books of exhibits (Exhibits A-­1 and A-­2). The respondent also filed a corrected request to admit under rule 130 of the Tax Court of Canada Rules (General Procedure) as well as the response to the request to admit under rule 131 of the Rules (Exhibits I-­1 and I-­2). For the purposes of the general anti-avoidance rule issue, there is really no credibility issue or disagreement on the facts as to what can be directly proved. However, there is some debate as to what is to be inferred.
+Following the Federal Court of Appeal’s decision, an additional hearing was held on March 31, 2016.
+[2] Paragraphs 3 to 79 of these reasons are largely identical to paragraphs 3 to 80 of my reasons of April 23, 2014; however, there are a few changes that reflect the fact that the sole issue upon which I must now decide is the application of the general anti-avoidance rule. There are also a few minor corrections; for example, the figures presented in the tables in paragraphs 68 and 69 were corrected; this correction is explained in a footnote. A few minor changes were also made to make the text easier to read.
+[3] In other words, he elected not to avail himself of the provisions set out in subsection 73(1) of the Income Tax Act. As a result, there was no rollover.
+[4] This is the same class of shares as the shares that he sold to Ms. Gendron.
+[5] The fair market value of each share did not change between September 26, 2002, and October 6, 2002.
+[6] Her adjusted cost base. This paragraph is essentially the same as the corresponding paragraph in the Partial Agreements on the Facts.
+[7] The two million shares.
+[8] I continue to round the figures. This table is presented using the same format as the parties did in the Partial Agreements on the Facts (see paragraph 68 below) except that the figures were rounded and the disposition expenses incurred, about $13,000, were omitted.
+[9] Only half of the taxable capital gain can be attributed to Mr. Gervais, but as I explained in the previous note, I have used the same format as the one used in the Partial Agreements on the Facts.
+[10] Section 110.6 of the Act. Ms. Gendron claimed a $250,000 exemption. Mr. Gervais, for his part, claimed an exemption of $158,720, the exemption amount that he had not used up to that point.
+[11] In 1986 or 1987 (transcript dated August 20, 2012, pages 19 and 22).
+[12] In addition to Mr. Gervais and his father, there was a secretary and a travelling technician, who was an employee or a contractor (transcript dated August 20, 2012, page 22).
+[13] I combined the Partial Agreements on the Facts as far as possible to avoid duplication. I replaced the term "appellant" with the person’s name. A different numbering system was required.
+[14] This title is in the agreement.
+[15] Paragraph added.
+[16] Paragraph added; see transcript dated August 20, 2012, at pages 29 to 31.
+[17] Paragraph added; see transcript dated August 20, 2012, at pages 29 to 31.
+[18] Paragraph added; see the agreement of sale dated October 7, 2002, in Exhibit A-2, tab 56, paragraph 9.8, which discusses a "non‑binding offer to purchase (LOI)," that is, the offer dated August 31, 2002, and amended on September 26, 2002. I presume that LOI stands for "Letter of Intent."
+[19] Paragraph added; see Exhibits I-1 and I-2. The offer was accepted before September 22, 2002; see transcript dated August 20, 2012, at page 42.
+[20] Paragraph added; see Exhibits I-1 and I-2, and the transcript dated August 20, 2012, at page 73.
+[21] This title is in the agreement.
+[22] The company redeemed the father’s shares in three stages in 2001 and 2002, with the effect that as of 9 a.m. on August 26, 2002 (Exhibit A-1, tab 7), the father no longer held any shares in Vulcain. The father had held his shares through a company.
+[23] Paragraph added.
+[24] Paragraph added; see transcript dated August 20, 2012, at page 72, where it is admitted that in article 6.3 of the agreement, the terms "purchaser" and "seller" were reversed.
+[25] Paragraph added; see transcript dated August 20, 2012, at pages 72 and 73.
+[26] Paragraph added; see Exhibit A-2, at tabs 40 and 41.
+[27] The words in parentheses are found in the Agreement on the Facts in Ms. Gendron’s appeal, but not in the Agreement on the Facts in Mr. Gervais’s appeal. See paragraph 22 of each agreement. This is probably an accidental omission.
+[28] The words in parentheses are found in the Agreement on the Facts in Ms. Gendron’s appeal, but not in the Agreement on the Facts in Mr. Gervais’s appeal. See paragraph 24 of each agreement. This is probably an accidental omission.
+[29] Paragraph added; see Exhibits I-1 and I-2, as the paragraph was corrected at the hearing (transcript dated August 20, 2012, pages 82 and 83).
+[30] Paragraph added; see Exhibits I-1 and I-2.
+[31] Paragraph added; see Exhibits I-1 and I-2.
+[32] Paragraph added; see Exhibits I-1 and I-2.
+[33] Paragraph added; see the August 20, 2012 transcript, page 74.
+[34] This title is in the agreement.
+[35] Although the Agreements on the Facts mention 1,583,790 common class B shares held by Mario Gervais, it seems that it is instead 1,583,790 preferred class E shares; see, for example, tab 55 and tab 56 (pages 4 and 20 of the document) of Exhibit A-2.
+[36] This title is in the agreement.
+[37] The Partial Agreements on the Facts in Guy Gervais’s case indicates $989,191, the amount used in my reasons of April 23, 2014, but it must be a typo. The correct amount is $986,191. The same correction was made in paragraph 69. I take this opportunity to point out that this table and the table in paragraph 69 are from the Partial Agreements on the Facts. Actually, the format should be somewhat different because the taxable capital gain should be attributed rather than the capital gain.
+[38] This title is in the agreement.
+[39] BW Technologies’ offer to purchase arrived shortly before Mr. Gervais and Ms. Gendron were about to leave on a trip. During their vacation, they discussed the issue extensively: should they accept the offer? After they returned from their vacation, they decided to sell. After they decided to sell, they contacted McCarthy Tétrault. See the transcript dated August 20, 2012, pages 30 to 32.
+[40] Transcript dated August 20, 2012, pages 32 to 35 and 49.
+[41] Transcript dated August 20, 2012, pages 41, 42, 45 to 49 and 51 to 54.
+[42] Transcript dated August 20, 2012, pages 33 and 65.
+[43] When we examine the context and the English and French versions of the section, it is clear that "allocated to any person" includes another person.
+[44] As Rothstein J. said in paragraph 32 of the Supreme Court of Canada’s decision in Copthorne Holdings Ltd. v. Canada, 2011 SCC 63:
+Where a transaction is an avoidance transaction (a transaction that would result in a tax benefit and whose primary purpose was to obtain the tax benefit), the tax benefit resulting from the transaction will be denied. However, the tax benefit will not be denied if the avoidance transaction would not result in an abuse or misuse of the Income Tax Act.
+[45] See Copthorne, 2011 SCC 63, at paragraphs 34 and 35, and Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, at paragraph 63.
+It is worthwhile to keep in mind that in any civil case, any burden of proof issue is important only insofar as the tribunal can determine a fact based on the evidence provided.
+[46] Trustco Mortgage, 2005 SCC 54.
+[47] 2005 TCC 684, paragraph 35(e). See also Hogan J.’s decision in Descarries v. The Queen, 2014 TCC 75, at paragraph 46.
+[48] In paragraphs 68 to 72 of Copthorne, 2011 SCC 63, Rothstein J. explained how the Court must review the issue to determine whether there was abuse.
+[49] Copthorne, 2011 SCC 63, paragraph 33.
+[50] Trustco Mortgage, 2005 SCC 54, paragraph 20.
+[51] Copthorne, 2011 SCC 63. See also Trustco Mortgage, 2005 SCC 54, at paragraphs 18 to 20, and 34.
+[52] See paragraph 39 of the factum that the respondent filed with the Federal Court of Appeal. At my request, both parties respectively filed a copy of the memorandums of fact and law filed with the Federal Court of Appeal. At the March 31, 2016, hearing, the respondent seemed to attach importance not only to the splitting of the gain between Mr. Gervais and Ms. Gendron, but also to the fact that Ms. Gendron used her capital gains exemption to avoid paying tax on this gain (transcript, page 46). See note 55 below.
+[53] Another more complex option is that Mr. Gervais could have given Ms. Gendron $1,000,000 worth of class E shares a few days prior to the sale to BW Technologies without selling other class E shares to Ms. Gendron. In that case, Mr. Gervais would also have realized all the capital gain from the sale of the class E shares to BW Technologies.
+[54] This plan used the sale of Mr. Gervais’s class E shares to Ms. Gendron, the choice not to rollover the shares sold, the gift of shares with rollover of the adjusted cost base and the application of section 47 of the Act.
+[55] Because I find that Mr. Gervais received a tax benefit, i.e. the reduction of tax payable on a $500,000 capital gain, it is not necessary to decide whether Ms. Gendron’s use of the capital gains exemption could be considered a direct or indirect tax benefit for Mr. Gervais.
+[56] See paragraphs 80 to 82 above, i.e. subsections 245(1) and (3) and subsection 248(10) of the Act, respectively:
+(1) . . . includes an arrangement or event.
+. . .
+(3) An avoidance transaction means any transaction:
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit . . .;
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, . . .
+[unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit]
+. . .
+(10) For the purposes of this Act, where there is a reference to a series of transactions or events, the series shall be deemed to include any related transactions or events completed in contemplation of the series.
+[57] Copthorne, 2011 SCC 63, paragraph 39.
+[58] 2011 SCC 63. See also paragraphs 49 to 57.
+[59] Trustco Mortgage, 2005 SCC 54, paragraphs 27 to 35. See also Copthorne, 2011 SCC 63, at paragraph 59.
+[60] See the transcript dated March 31, 2016, pages 19 to 21.
+[61] Transcript dated March 31, 2016, pages 55 to 57.
+[62] Transcript dated March 31, 2016, page 59.
+[63] Trustco Mortgage, 2005 SCC 54, paragraph 25.
+[64] I do not need to decide whether the choices made or not made by Mr. Gervais constitute transactions. The analysis of whether this is an avoidance transaction would not change if I considered them as transactions. However, these choices are relevant to the third issue: is there abuse? Ms. Gendron’s application of subsection 47(1) of the Act is also relevant to this third issue.
+[65] More specifically $243,095.50.
+[66] The calculations made by the appellants in their tax returns are detailed in paragraphs 68 and 69 above.
+[67] The transcript contains references to [translation] "maximize taxation." In the context of all the evidence, it is clear that this means obtaining favourable tax treatment by trying to reduce taxes.
+[68] Copthorne, 2011 SCC 63, paragraphs 39 to 41, especially paragraph 40.
+[69] Why sell Ms. Gendron a block of shares when she would have to resell the shares a few days later at an identical price? There was no bona fide purpose for the transaction because Mr. Gervais could have simply given Ms. Gendron the $1,000,000 sum after the sale. See paragraph 95 and note 53 below.
+[70] Without this sale, in which the choice to exclude the sale from the rollover in subsection 73(1) of the Act was made, the adjusted cost base of the class E shares received as a gift would not have taken advantage of the cost deferral rules set out in subsection 47(1) of the Act and, as a result, the taxable capital gain on the shares transferred by gift would have been attributed in full to Mr. Gervais pursuant to subsection 74.2(1) of the Act.
+The situation here is similar to that in Copthorne, 2011 SCC 63, where there was, overall, a bona fide purpose, simplification and consolidation of the structure, but where one of the transactions, the sale of VHHC Holdings shares to Big City, constituted an avoidance transaction because the step was not necessary to achieve the actual objective. See, in particular, paragraphs 62 and 63 of Rothstein J.’s reasons in Copthorne, 2011 SCC 63.
+[71] I want to briefly examine the appellants’ assumption that the fact of choosing one transaction rather than another, which would have resulted in a higher tax, does not mean that the selected transaction is an avoidance transaction. (See pages 19 to 21 of the transcript dated March 31, 2016.) The appellants cite this Court’s decision in Spruce Credit Union v. The Queen, 2012 TCC 357, at paragraph 68. However, as the Federal Court of Appeal stated in Canada v. Spruce Credit Union, 2014 FCA 143, at paragraphs 60 to 62, paragraph 68 must be read in its context. In itself, the mere fact of choosing one transaction rather than another less advantageous for tax purposes does not make the transaction an avoidance transaction; that depends on the answer to the question of whether the transaction in question was "undertaken primarily for bona fide non-tax purposes."
+[72] 2011 SCC 63.
+[73] Trustco Mortgage, 2005 SCC 54, paragraph 43, and Copthorne, 2011 SCC 63, paragraphs 66 to 72.
+[74] Copthorne, 2011 SCC 63, paragraphs 66 to 72, and Trustco Mortgage, 2005 SCC 54, paragraph 44.
+[75] Trustco Mortgage, 2005 SCC 54, paragraph 45.
+[76] See Ken S. Skingle, The GAAR — Be Careful Out There!, 2004 Prairie Provinces Tax Conference (Toronto: Canadian Tax Foundation, 2004), 3:1-38, in the section regarding the William Berman case, appeal No. 2001­4131(IT)G of the Tax Court of Canada — an article written before the Supreme Court of Canada decision in Lipson v. Canada, 2009 SCC 1.
+[77] Peter W. Hogg, Joanne E. Magee and Jinyan Li, Principles of Canadian Income Tax Law, 8th Edition (Toronto, ON: Carswell, 2013).
+[78] Gwartz v. The Queen, 2013 TCC 86.
+[79] [1998] 1 SCR 770.
+[80] See also paragraph 36 of the judgment, as well as Hogan J.’s comments in Gwartz v. The Queen, 2013 TCC 86:
+53 . . .
+While Neuman predated the enactment of subsection 120.4, a broad policy in the ITA against income splitting, grounded in specific provisions of the ITA other than subsection 120.4, has not been recognized.
+[Emphasis added.]
+[81] Neuman, [1998] 1 S.C.R. 770, at paragraph 36.
+[82] Lipson, 2009 SCC 1, paragraph 32.
+[83] Trustco Mortgage, 2005 SCC 54, paragraph 44.
+[84] I need not consider whether there is abuse of subsection 110.6(2.1).
+[85] 2009 SCC 1.
+[86] Lipson, 2009 SCC 1.
+[87] Unless the taxpayer elects not to exercise the rollover provision.
+[88] Lipson, 2009 SCC 1.
+[89] Minister of Finance, explanatory notes, subsection 47(1), February 1995; Canada Tax Service — McCarthy Tétrault Analysis, 47 — Identical Properties.
+[90] Copthorne, 2011 SCC 63, paragraph 72, Trustco Mortgage, 2005 SCC 54, paragraph 45, and Lipson, 2009 SCC 1, paragraph 40.
+[91] Copthorne, 2011 SCC 63.
+[92] This triggers a rollover and, accordingly, a tax deferral, unless the individual who made the transfer elects not to exercise the rollover provision.
+[93] As the Supreme Court stated in Lipson, 2009 SCC 1, the object and spirit of the attribution rules specifically seek to prevent spouses from benefiting from their non-arm’s length relationship to reduce the tax payable.
+[94] See appellant Guy Gervais’s memorandum of fact and law before the Federal Court of Appeal, at paragraphs 54 to 59.
+The appellants cite Ken S. Skingle, The GAAR — Be Careful Out There!, 2004 Prairie Provinces Tax Conference (Toronto: Canadian Tax Foundation, 2004), 3:1-38. Mr. Skingle infers that because subsection 69(11) of the Act is limited to certain situations, it implies that in situations where subsection 69(11) does not apply, in particular between spouses, Parliament approves these interspousal transfers, which allows the beneficiary to apply for a deduction that would not otherwise be available to the beneficiary.
+[95] 2005 SCC 54.
+[96] Trustco Mortgage, 2005 SCC 54, paragraph 51.
+[97] Lipson, 2009 SCC 1, clearly demonstrates that the scheme of the Act provides that when a rollover occurs under subsection 73(1), the taxable capital gain of the spouse who received the property must be attributed to the spouse who made the transfer.
+[98] Logically, since the capital gain is reallocated to Mr. Gervais, it follows that Ms. Gendron did not use the capital gains deduction that she claimed in her income tax return for the 2002 taxation year.
+[99] Hearing following the January 6, 2016, decision of the Federal Court of Appeal (2016 FCA 1).

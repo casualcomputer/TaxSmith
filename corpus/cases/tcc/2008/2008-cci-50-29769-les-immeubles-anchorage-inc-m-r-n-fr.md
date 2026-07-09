@@ -1,0 +1,164 @@
+---
+title: "Les Immeubles Anchorage Inc M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29769/index.do"
+last_modified: "2008-02-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 50"
+citation2: ""
+neutral_citation: "2008 CCI 50"
+decision_date: "2008-02-05"
+language: "fr"
+item_id: "29769"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6515
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:11:00.445000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d7b761a322eea0038e3b35200c14b8fed6ca4001d71a325048923c9e9563fc4a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Immeubles Anchorage Inc M.R.N.
+
+- Citation: 2008 CCI 50
+- Decision date: 2008-02-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6515, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Immeubles Anchorage Inc M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-05
+Référence neutre
+2008 CCI 50
+Numéro de dossier
+2007-2360(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-2360(EI)
+ENTRE :
+LES IMMEUBLES ANCHORAGE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DIANE ÉMOND,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 décembre 2007, à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelante :
+Michael Mendelson
+Avocate de l’intimé :
+Me Christina Ham
+Pour l’intervenante :
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en application du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté, et la décision du ministre du Revenu national est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Montréal, Canada, ce 5e jour de février 2008.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 17e jour d’avril 2008.
+Aleksandra Koziorowska
+Référence : 2008CCI50
+Date : 20080205
+Dossier : 2007-2360(EI)
+ENTRE :
+LES IMMEUBLES ANCHORAGE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+DIANE ÉMOND,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel interjeté sous le régime de la Loi sur l’assurance‑emploi, L.C. 1996, ch. 23, modifiée (la « Loi »), à l’égard d’une décision du ministre du Revenu national (le « ministre ») voulant que, pendant la période du 1er janvier 2003 au 10 janvier 2004 (la « période »), Mme Diane Émond ait accumulé 1 855 heures d’emploi assurable.
+[2] La seule question en litige dans le présent appel consiste à déterminer le nombre d’heures assurables travaillées par Mme Émond pendant sa période d’emploi auprès de l’appelante. Par une lettre datée du 21 février 2007, le ministre a informé l’appelante qu’il avait été établi que Mme Diane Émond avait accumulé 1 855 heures assurables. Il précisait en outre qu’il s’était fondé sur les paragraphes 10(4) et 10(5) du Règlement sur l’assurance‑emploi, DORS/96‑332 (le « Règlement »), pour calculer ce nombre d’heures.
+[3] L’appelante n’est pas d’accord avec cette décision parce qu’elle estime que le nombre d’heures assurables de Mme Émond devrait être calculé en fonction du nombre réel d’heures travaillées par cette dernière, qui correspond à environ 720 heures au total.
+[4] L’avocate de l’intimé fait valoir que, pendant la période en cause, Mme Émond a travaillé 1 855 heures assurables au cours de 53 semaines de 35 heures, conformément aux dispositions des paragraphes 10(4) et 10(5) du Règlement, lesquels sont ainsi rédigés :
+10(4) Sauf dans les cas où le paragraphe (1) et l’article 9.1 s’appliquent, lorsque l’employeur ne peut établir avec certitude ni ne connaît le nombre réel d’heures d’emploi assurable accumulées par une personne pendant sa période d’emploi, la personne est réputée, sous réserve du paragraphe (5), avoir travaillé au cours de la période d’emploi le nombre d’heures d’emploi assurable obtenu par division de la rémunération totale pour cette période par le salaire minimum, en vigueur au 1er janvier de l’année dans laquelle la rémunération était payable, dans la province où le travail a été accompli.
+10(5) En l’absence de preuve des heures travaillées en temps supplémentaire ou en surplus de l’horaire régulier, le nombre maximum d’heures d’emploi assurable qu’une personne est réputée avoir travaillées d’après le calcul prévu au paragraphe (4) est de 7 heures par jour sans dépasser 35 heures par semaine.
+[5] Le ministre s’est appuyé sur les hypothèses suivantes pour rendre sa décision :
+a) Mme Émond travaillait pour l’appelante depuis cinq ans;
+b) Mme Émond a mentionné qu’elle n’avait pas l’obligation de remplir des feuilles de temps lorsqu’elle travaillait pour l’appelante;
+c) Mme Émond devait respecter les heures d’ouverture, à savoir du lundi au mercredi de 13 h à 20 h, le samedi et le dimanche de 13 h à 17 h, les jeudis et les vendredis étant des journées de congé;
+d) le ministre a demandé à l’appelante de lui fournir des documents montrant avec précision le nombre d’heures travaillées par Mme Émond;
+e) l’appelante ne consignait pas les heures de travail de Mme Émond;
+f) comme aucun document n’a été fourni par l’appelante et comme les parties ne s’entendaient pas, le ministre a établi les heures de travail de Mme Émond de la façon suivante :
+53 semaines à 35 heures par semaine = 1 855 heures.
+[6] Madame Émond a commencé à travailler pour l’appelante le 7 février 1999 à titre de représentante de commerce. L’appelante est un entrepreneur général et un promoteur dans le domaine de la construction de résidences à logement unique à Saint‑Basile‑le‑Grand. Le siège social de l’appelante était situé dans la Ville de Mont‑Royal.
+[7] Le bureau de vente de l’appelante était situé dans une maison‑témoin, laquelle était également à vendre. Mme Émond assumait notamment les fonctions suivantes :
+- répondre aux demandes de renseignements faites par téléphone;
+- fixer les rendez‑vous avec les clients potentiels et organiser les visites de la maison‑témoin;
+- fournir aux clients potentiels des renseignements sur le choix des matériaux, les options offertes, les prix, les délais de livraison, etc.;
+- surveiller la concurrence;
+- organiser les campagnes publicitaires et acheter le matériel publicitaire.
+Madame Émond n’était pas tous les jours présente à la maison‑témoin, mais on pouvait toujours communiquer avec elle au moyen de son téléphone cellulaire.
+[8] Madame Émond était rémunérée uniquement à la commission (soit 2 pour 100 du prix de vente au début et 3 pour 100 ultérieurement) avec des avances de 200 $ par semaine, lesquelles étaient déduites de la commission payable au titre de la vente suivante. L’appelante lui remboursait en outre ses frais de téléphone cellulaire et de cartes professionnelles ainsi que le coût des revues, des cartons publicitaires et du matériel publicitaire qu’elle achetait.
+[9] Au cours de 2003, Mme Émond n’a vendu que cinq (5) maisons et elle a gagné des commissions totalisant environ 20 000 $.
+[10] Comme l’appelante lui demandait de rendre compte de ses activités, Mme Émond notait sur un calendrier le nombre de visites qu’elle recevait chaque jour, les noms et numéros de téléphone d’acheteurs potentiels de même que tous les autres renseignements pertinents. Ce calendrier demeurait sur son bureau de sorte que le président de l’appelante, M. John Mendelson, pouvait le consulter à tout moment.
+[11] M. Michael Mendelson, vice‑président de l’appelante, est responsable des questions administratives et financières. Il a produit comme pièce A‑1 le calendrier en question, et il a affirmé pendant son témoignage qu’il s’agissait d’une source très fiable de renseignements concernant les activités de Mme Émond et le nombre d’heures que cette dernière avait réellement travaillées pendant l’année civile 2003. Il a déclaré que Mme Émond était une personne bien organisée et très méticuleuse. M. Mendelson a fait de nombreuses remarques au sujet des jours pendant lesquels il estimait, soit parce que le calendrier ne comportait pas de notes relatives au nombre de visites effectuées ces jours‑là, soit parce que les notes étaient d’ordre personnel, que Mme Émond n’avait pas travaillé. Il a terminé ses observations en concluant que, sur le fondement du calendrier, Mme Émond n’avait pas travaillé plus de 800 heures en 2003.
+[12] Dans son témoignage, Mme Émond a mentionné qu’elle ne remplissait jamais de feuilles de temps pour consigner le nombre réel d’heures qu’elle travaillait chaque jour pendant la période en cause, et que le calendrier ne constituait pas vraiment un compte‑rendu de ses activités, mais plutôt un document de travail personnel qui l’aidait à se souvenir des noms et numéros de téléphone des clients potentiels sérieux. Le calendrier ne faisait pas état de toutes les visites. Mme Émond a affirmé qu’elle calquait ses heures d’ouverture sur celles de leurs concurrents. Elle a ajouté qu’on lui permettait de substituer des jours de travail à d’autres. Elle a également souligné qu’à l’été 2003, elle avait emménagé en face de la maison‑témoin de l’appelante. À partir de sa nouvelle résidence, elle pouvait voir si un client regardait la maison‑témoin ou était garé dans la voie d’accès de la propriété. Mme Émond a en outre précisé qu’un écriteau affiché au bureau de vente annonçait qu’elle était disponible en tout temps pour un rendez‑vous.
+[13] Madame Émond a déclaré qu’elle avait travaillé pendant un nombre d’heures beaucoup plus élevé que les 15 heures par semaine dont fait état l’appelante. Elle devait souvent téléphoner à M. John Mendelson après 20 h pour fixer le prix de maisons auxquelles on voulait apporter des modifications. Il lui arrivait aussi à l’occasion de rencontrer des designers et des techniciens en architecture pour terminer ou simplement ramasser des plans. Mme Émond a en outre affirmé qu’elle recevait des appels téléphoniques et des visites de nombreux fournisseurs lorsque M. John Mendelson était absent du site de construction.
+[14] À la lumière des renseignements fournis et des documents produits pendant l’audition de l’appel, il m’est impossible de conclure qu’il existe un quelconque élément de preuve manifeste établissant le nombre réel d’heures travaillées par Mme Émond pendant la période en cause.
+[15] Compte tenu des conclusions qui précèdent, aucun élément de preuve ne montre non plus que « des heures [ont été] travaillées en temps supplémentaire ou en surplus de l’horaire régulier », comme le prévoit le paragraphe 10(5) du Règlement.
+[16] Par conséquent, le ministre a eu raison de calculer le nombre d’heures d’emploi assurable en conformité avec la formule énoncée au paragraphe 10(4) du Règlement. L’appel est rejeté.
+Signé à Montréal, Canada, ce 5e jour de février 2008.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 17e jour d’avril 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2008CCI50
+NO DU DOSSIER DE LA COUR : 2007-2360(EI)
+INTITULÉ DE LA CAUSE : Les Immeubles Anchorage Inc. et Le ministre du Revenu national et Diane Émond
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 13 décembre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 5 février 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+Michael Mendelson
+Avocate de l’intimé :
+Me Christina Ham
+Pour l’intervenante :
+L’intervenante elle-même
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,91 @@
+Title: Paquette v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29694/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-163-29694-paquette-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-03-19
+
+# Paquette v. The Queen
+
+- Citation: 2010 TCC 163
+- Decision date: 2010-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6199, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paquette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-19
+Neutral citation
+2010 TCC 163
+File numbers
+2009-1074(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1074(IT)I
+BETWEEN:
+JOANNE THÉRÈSE PAQUETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 8, 2010, at Ottawa, Canada.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Natasha Wallace
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the appellant’s 2005 taxation year is dismissed in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 19th day of March 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 163
+Date: 20100319
+Docket: 2009-1074(IT)I
+BETWEEN:
+JOANNE THÉRÈSE PAQUETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Ms. Paquette has appealed her 2005 taxation year in respect of approximately $18,000 of child support received from her ex‑husband, Kevin Mannion, in that year. That amount consists principally of arrears from prior years in respect of her son while he was attending university. Ms. Paquette complains that, given her very modest income, the arrears were taxed at a greater rate than they would have been had they been received on time or taxed in the years to which they relate. She also claims that since her income is so limited, and her income earning prospects are poor given her disabilities, the reassessment has given rise to a debt she will forever remain unable to pay.
+[2] Ms. Paquette was divorced from her ex‑husband in 1990. A 1995 Ontario court order last set the amount of child support payments payable to Ms. Paquette for their son and their daughter at $325 monthly each. While Mr. Mannion sought a court order in 2005 to retroactively terminate his child support obligation in respect of his son for years his son was in university, the ex‑husband’s application was unsuccessful and the 1995 court order remained unamended. Accordingly, all child support payments received by Ms. Paquette are properly required to be included in her income and the new child support régime applicable to court orders and agreements after April 1997 does not apply in this case.
+[3] I am therefore required to dismiss this appeal. This Court does not have any jurisdiction or discretion to grant this taxpayer or any other taxpayer any relief based on compassionate, economic, equitable, or other policy or similar grounds. It must apply the law as passed by Parliament.
+[4] However, I urge the Canada Revenue Agency (the “CRA”) to consider reassessing Ms. Paquette as appropriate to remove any additional tax burden payable because she received a lump sum amount of arrears which were subject to a higher effective tax rate than had they been received when due. I would also urge the CRA to consider allowing Ms. Paquette to make any available claim for the transfer of any unused tuition and education tax credits from her son or her daughter that might reduce her additional taxes payable as a result of this. As to Ms. Paquette’s ability to pay this debt, I must defer to the CRA’s collection policies and trust it will deal with her equitably having regard to her financial and personal circumstances.
+[5] The appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of March 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 163
+COURT FILE NO.: 2009-1074(IT)I
+STYLE OF CAUSE: JOANNE THÉRÈSE PAQUETTE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: February 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: March 19, 2010
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Natasha Wallace
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

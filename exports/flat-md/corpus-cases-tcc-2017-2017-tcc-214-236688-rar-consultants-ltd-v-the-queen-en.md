@@ -1,0 +1,248 @@
+---
+title: "RAR Consultants Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/236688/index.do"
+last_modified: "2017-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 214"
+citation2: ""
+neutral_citation: "2017 TCC 214"
+decision_date: "2017-10-31"
+language: "en"
+item_id: "236688"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2164
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:07:52.303000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "71ff584885843bca12354a608fec87a18a2c5deb9057a7794ac5bfbd98004bd3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# RAR Consultants Ltd. v. The Queen
+
+- Citation: 2017 TCC 214
+- Decision date: 2017-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2164, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+RAR Consultants Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-10-31
+Neutral citation
+2017 TCC 214
+File numbers
+2016-3076(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3076(IT)I
+BETWEEN:
+RAR CONSULTANTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Continuation of appeal on June 16, 2017, at Vancouver, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+Roger Georges Abou-Rached
+Counsel for the Respondent:
+Natasha Wallace
+AMENDED JUDGMENT
+IN ACCORDANCE with the Amended Reasons for Judgment attached, the appeal in respect of the penalties imposed by the Minister of National Revenue for failure to file T1134 foreign affiliate information returns in respect of IHI International Holdings Ltd. for the 2006, 2007, 2008, 2009, 2010 and 2011 taxation years is hereby dismissed, without costs.
+The Amended Judgment and the Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated October 31, 2017.
+Signed at Ottawa, Canada, this 21st day of February 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2017 TCC 214
+Date: 20180221
+Docket: 2016-3076(IT)I
+BETWEEN:
+RAR CONSULTANTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction
+[1] This appeal concerns penalties assessed against RAR Consultants Ltd. (“RAR Canada”) for failure to file foreign affiliate information returns under subsection 233.3(1) of Income Tax Act, RSC 1985, c.1, as amended (the “Act”).
+a) Undisputed Factual Background
+[2] Certain facts which follow are not in dispute. RAR Canada was a taxable resident in Canada during its 2006 through 2011 taxation years: August 1 through July 31 of each (the “penalty years”). RAR Canada held 28% of the issued and outstanding equity securities in a Bermudian company, IHI International Holdings Ltd. (“IHI Bermuda”) during the penalty years. RAR Canada did not file the alleged requisite T1134 foreign affiliate information returns (the “T1134 returns”) in respect of IHI Bermuda.
+[3] RAR Canada was also a late filer of its T-2 income tax returns. It first filed for the period covering the first five penalty years in 2011. It did so because it disagreed with an arbitrary assessment levied solely in respect of taxation year 2006, largely on account of unclaimed losses unknown to the Minister. With the taxpayer’s consent under subsection 152(4.2) of the Act, the Minister received and reviewed the filed, corporate tax returns and conducted a reassessment. Consent was necessary for 2006 because by the late date that returns for those five penalty years were filed, 2006 was statute barred. The T1134 non-filing penalties were levied in December of 2014 as a result of that subsequently taxpayer requested review accompanied by the requisite Ministerial assertion of misrepresentation under subsection 152(4).
+[4] Before 2011, times had been much better for RAR Canada, related companies and their principal, Mr. Abou-Rached. During the 1990’s, International Hi-Tech Industries Inc. (“IHI Canada”) was a very successful British Columbia operating company which manufactured and sold, domestically and abroad, advanced-engineered buildings and components. From 1993 to 1997, it refined its products and established licensing agreements with companies around the world. Domestically, RAR Canada distributed and licensed its products. It also developed and protected its intellectual property. For its efforts, RAR Canada was to receive certain consulting fees and royalties. These terms were outlined in a Canadian licence agreement dated March 16, 1992 among the Appellant, RAR Canada, Canadian High-Tech Manufacturing Ltd. and the principal, Mr. Abou-Rached.
+[5] Similarly, IHI Canada, RAR Canada and IHI Bermuda entered into a licence agreement for the rest of the world. As such, IHI Bermuda acquired a right to use and exploit the intellectual property everywhere save Canada. RAR Canada acquired and would maintain a 28% interest in IHI Bermuda.
+[6] The Securities and Exchange Commission (“SEC”) Annual Information form filed by US securities counsel, on behalf of IHI Canada, detailed the historical basis upon which RAR Consultants acquired and maintained its equity interest in IHI Bermuda as follows [with bracketed abbreviations added for consistency]:
+IHI-International [IHI Canada] arranged a private placement with RAR Consultants [RAR Canada], a company controlled by Mr. Rached [Mr. Abou-Rached], the President of the Corporation. The private placement involved the issuance of 14,000,000 of its Common Shares (the “Common Shares”) to RAR Consultants at a price of $0.04 per share for an aggregate purchase of $560,000. All of the shares of IHI-International [IHI Canada] held by the Corporation were issued at a price of $0.01 per share. Proceeds from the private placement were used for working capital purposes, and primarily for patient costs. As for December 31, 1998, $1,438,360 had been spent on patent filing and processing costs. The private placement was approved by the Corporation’s shareholders on a majority basis at a Special Meeting of shareholders held on March 19, 1997 and was accepted by the Vancouver Stock Exchange (“VSE”) on April 23, 1997. Consequently, Mr. Rached, through RAR Consultants [RAR Canada], directly holds 28% of the outstanding shares of IHI-International [IHI Canada].
+[7] This value of $560,000.00 was consistently reported by Canadian securities’ counsel for IHI Canada who confirmed the following [with bracketed abbreviations added for consistency]:
+January 14, 1997
+…
+… The private placement involves the issuance of 14,000,000 common shares (the “Shares”) to RAR [RAR Canada] at a price of $0.04 per share for an aggregate purchase price of $560,000.
+…
+… We have been advised by the Company [IHI Canada] that, as at September 30, 1996, $1,070,891 had been spent on patent prosecution costs. …
+…
+We have summarized the transaction above and submit that this transaction is fair and should be approved for the following reasons:
+… With respect to payment terms for the Shares, 11,5000,000 Shares will be issued as nil paid Shares and 2,500,000 Shares will be issued as fully paid shares. … RAR [RAR Canada] has agreed to pay for the 11,500,000 nil shares by the end of 1997.
+[8] After considerable success and reknown, the world-wide sale of (the 2011 taxation year ended on July 31, 2011) the product ultimately floundered for various reasons. On October 19, 2011, the Registrar of Companies for the government of Bermuda dissolved IHI Bermuda for failure to carry on business in a manner required by the laws of Bermuda. On December 6, 2012, the Supreme Court of British Columbia, upon application made by related companies to IHI Canada, petitioned IHI Canada into bankruptcy.
+b) Disputed Facts
+(i) Ownership of IHI Bermuda by RAR Canada
+[9] As of 1997, within SEC Form 20-F documents, (distinct from the Annual Information Return above) the identity of the controlling shareholders and controlling groups were as follows [bracketed abbreviations added for consistency]:
+The following table sets forth certain information regarding the ownership of the Common Stock [of IHI Canada] as of this Annual Report, by (i) any shareholder known to the Corporation to own beneficially more than 5% of the Common Stock and (ii) all the directors and officers as a group. On such date, 48,322,563 shares of Common Stock were outstanding.
+Identity of Person or Group Number of Shares Percentage of Class
+Roger A. Rached [Abou-Rached] ….. 26,995,503(1) 55.9%(1)
+RAR Consultants [RAR Canada] .….. 23,469,341(2) 48.6%(2)
+Directors and Officers as a Group ..... 27,102,403(3) 56.1%(3)
+(1) Includes 23,469,341 shares held by RAR Consultants, 21,684,960 of which are held in Escrow (See “Securities Held in Escrow”).
+RAR Consultants is 100% owned by Roger A. Rached.
+(2) Includes 21,684,960 Escrow Shares (see “Securities Held in Escrow”). RAR Consultants is 100% owned by Roger A. Rached.
+(3) this amount includes 3,526,162 shares held by Mr. Rached and the 23,469,341 shares held by RAR Consultants, 21,684,960 of which are held in Escrow (see “Securities Held in Escrow”). RAR Consultants is 100% owned by Roger A. Rached.
+(ii) Diminished value of RAR Canada’s cost of shares in IHI Bermuda
+[10] During the hearing, conflicting evidence and, afterwards, divergent written submissions were submitted regarding the value of RAR Canada investment in IHI Bermuda. At best, the extracted evidence of the Appellant was difficult to follow. A relevant partial summary follows.
+[11] The previously referenced SEC Form 20-F also reflects a “minority interest in loss of subsidiary” of $17,120.00 on a Summary of Financial Information Schedule. Further referenced in such document, concerning a consolidated statement of operations and deficit for IHI Canada, is a figure of $95,150.00 as “a gain on issue of treasury shares of subsidiary company”.
+[12] An explanatory note in the document also states the following [bracketed abbreviations added for consistency]:
+f) The Company’s [IHI Canada] wholly owned subsidiary IHI International Holdings Ltd. [IHI Bermuda] has completed the private placement of 14,000,000 common shares at $0.04 per share for total proceeds of $560,000. The placee is a private company controlled by a related party and after the completion of the private placement, the placee holds 28% of the issued and outstanding shares of IHI International Holdings Ltd.
+[13] Mr. Abou-Rached testified that the “placee” referred to above was RAR Canada and the subsidiary company referred to was IHI Bermuda.
+[14] In an undated balance sheet “reflective” of July 31, 2006, (RAR Canada’s 2006 year end), prepared by RAR Canada’s internal accountant Mr. Benzce, a full loss of $560,000.00 was taken on shares held by RAR Canada in IHI Bermuda. Other income statements and balance sheets did not reflect an expense relating to the alleged loss on investments.
+[15] In its December 6, 2010 proof of claim concerning the insolvency and bankruptcy of IHI Canada, RAR Canada claimed its royalties and consulting fees as an outstanding debt. Further, a letter was received by RAR Canada from the Bermuda corporate nominee for IHI Bermuda concerning its status. That letter indicates, as of January 27, 2011, that IHI Bermuda’s officers and directors had resigned on account of outstanding fees effective January 7, 2010.
+[16] Cumulatively, as seen below, RAR Canada claims this series of disclosures reflect $95,150.00 as the adjusted diminished cost of the foreign property held by RAR Canada in IHI Bermuda during each of the penalty years.
+c) Issues
+[17] To reiterate, there are two issues before the Court in this appeal:
+a) is the Minister of National Revenue (the “Minister”) statute barred from levying such penalties (the “statute barred issue”)?; and
+b) did RAR Canada fall within the requisite definitions and thresholds obligating it to file the T1134 returns (the “value threshold issue”)?
+II. The Statutory Provisions
+a) Ability of Minister to Assess under 152(4)(a)(i)
+[18] The Act provides as follows concerning assessment beyond the normal reassessment period:
+Assessment and reassessment
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or …
+b) Filing Threshold for Foreign Affiliate
+[19] The following excerpts from the “Act” are relevant to the value threshold issue:
+i) Definition of “foreign affiliate”:
+95 foreign affiliate, at any time, of a taxpayer resident in Canada means a non-resident corporation in which, at that time,
+(a) the taxpayer’s equity percentage is not less than 1%, and
+(b) the total of the equity percentages in the corporation of the taxpayer and of each person related to the taxpayer (where each such equity percentage is determined as if the determinations under paragraph (b) of the definition equity percentage in subsection 95(4) were made without reference to the equity percentage of any person in the taxpayer or in any person related to the taxpayer) is not less than 10%,
+ii) Obligation to file T1134 return
+[20] The following are the relevant extracts from the obligation to file a T1134 return.
+233.3(1) The definitions in this subsection apply in this section.
+reporting entity for a taxation year or fiscal period means a specified Canadian entity for the year or period where, at any time (other than a time when the entity is non-resident) in the year or period, the total of all amounts each of which is the cost amount to the entity of a specified foreign property of the entity exceeds $100,000. (déclarant)
+specified Canadian entity for a taxation year or fiscal period means
+(a) a taxpayer resident in Canada in the year […]
+specified foreign property of a person or partnership means any property of the person or the partnership that is
+… (c) a share of the capital stock of a non-resident corporation,
+(f) an interest in, or right with respect to, an entity that is non-resident,
+(g) indebtedness owed by a non-resident person,
+(h) an interest in, or for civil law a right in, or a right — under a contract in equity or otherwise either immediately or in the future and either absolutely or contingently — to, any property (other than any property owned by a corporation or trust that is not the person) that is specified foreign property, and
+but does not include […]
+Reporting entity
+233.4 (1) For the purpose of this section, reporting entity for a taxation year or fiscal period means
+(a) a taxpayer resident in Canada (other than a taxpayer all of whose taxable income for the year is exempt from tax under Part I) of which a non-resident corporation is a foreign affiliate at any time in the year;
+Returns respecting foreign affiliates
+(4) A reporting entity for a taxation year or fiscal period shall file with the Minister for the year or period a return in prescribed form in respect of each foreign affiliate of the entity in the year or period within 15 months after the end of the year or period.
+iii) Penalty for Failure to File T1134
+[21] If one is obligated to file T1134 returns, but fails to do so, the Act provides the following sanction:
+162(7) Failure to comply
+(7) Every person (other than a registered charity) or partnership who fails
+(a) to file an information return as and when required by this Act or the regulations, or
+(b) to comply with a duty or obligation imposed by this Act or the regulations
+is liable in respect of each such failure, except where another provision of this Act (other than subsection 162(10) or 162(10.1) or 163(2.22)) sets out a penalty for the failure, to a penalty equal to the greater of $100 and the product obtained when $25 is multiplied by the number of days, not exceeding 100, during which the failure continues.
+III. Analysis - - Statute Barred Issue
+a) Confusion in Pleadings
+[22] Firstly, an explanation of just how the issue of misrepresentation came to be relevant in this appeal is required because it relates to the Respondent’s ultimate submissions for costs in this informal procedure appeal. RAR Canada’s notice of appeal was not well prepared. It contained argument, evidence and opinion on the conduct of the CRA. It did not focus on the material facts, assessing position or issues in dispute. Shortly before the opening of the hearing, the Appellant’s representative, Mr. Abou-Rached, raised with Respondent’s counsel the issue of the T1134 penalties being beyond the normal reassessment period in respect of certain years. When the hearing opened, Respondent’s counsel raised the statute barred issue, drew the Court’s attention to the deficient pleadings and without argument, consented to Appellant’s right to amend the notice of appeal, acknowledged the issue was properly before the Court and agreed to lead evidence on that issue. Respondent’s counsel reserved her right to request costs for this confusion notwithstanding this appeal falls under the Court’s informal procedures.
+[23] As a result, the Court prompted Mr. Abou-Rached to make a motion to amend the notice of appeal and accepted it on consent. With the statute barred issue squarely before the Court, the Respondent proceeded to call its witness on the issue of misrepresentation, a CRA auditor, Mr. Wheatley.
+b) Alleged Misrepresentation in the Returns
+[24] Mr. Wheatley’s evidence convinced the Court that, on the requisite balance of probabilities, the Appellant had misrepresented its income in the return: Dryden v. Her Majesty The Queen, 2014 TCC 241 at paragraph 40. This included: two distinct counts of undisclosed income in all penalty years (described below), a failure to declare capital gains in two of the years (2006 and 2007) and the incorrect statement that Mr. Abou-Rached was sole shareholder of RAR Canada within the returns.
+[25] The first and third items were sufficient at law to provide the Minister with authority to open the statute barred years and levy the penalties in respect of all penalty years. The Court has specifically not dealt with the material issue of whether IHI Bermuda ought to have been disclosed in the returns as a foreign affiliate. Aside from the fact such an issue is circuitous, it is more appropriately dealt with below as the sole liability issue before the Court.
+c) Factual Findings of Misrepresentation in the Returns
+[26] The following constitutes the basis upon which the Court concluded there was the undeclared income in all penalty years. These two species of income were consulting fees and royalties.
+[27] IHI Canada had reported annually by way of publically filed documents with the Vancouver Stock Exchange (VSE). It stated therein that Mr. Abou-Rached provided consulting services to IHI Canada through RAR Canada. The amounts of the consulting fees earned were disclosed in those documents to be $18,000.00, $72,000.00, $72,000.00, $72,000.00 and $36,000.00 for each of the 2006 through 2010 taxation years, respectively. Similarly, there was royalty income for the same respective years: $9,918.00, $57,803.00, $41,389.00, $15,040.00 and $37,655.00.
+[28] With respect to the royalties and consulting fees, both Mr. Abou-Rached and his accountant, Mr. Benzce, offered a sincerely felt, but insufficient explanation for the non-reporting. They both stated that by the time the late filed corporate tax returns were submitted in late May 2011, IHI Canada was then bankrupt (November 10, 2010). Since the consulting fees and royalties had not been paid or at least paid in full (as disclosed by the Proof of Claim), they asserted that, retrospectively, when preparing the late returns in 2011, there was no need to report the unpaid fees as income.
+[29] This rationale for not reporting otherwise disclosed and documented income is not consistent with accurate, reflective and compliant reporting. It uses the recalcitrance of late filing to retroactively impute knowledge and certainty otherwise non-existent at the time the returns were statutorily due. These combined mental gymnastics likely encompass all three components of misrepresentation where usually only one of carelessness, neglect or wilful default is gleaned from the facts. Further, such an omission robs the Minister of the opportunity to evaluate and properly assess a taxpayer by reviewing a currently accurate state of affairs. Other accepted and transparent methods of accurately reporting the non or partial payment existed. Whatever appropriate method may have been chosen, the one followed was certainly not it. This resulted in a misrepresentation attributable to neglect, carelessness and/or wilful default.
+[30] Additionally, Mr. Abou-Rached factually was not the sole shareholder of RAR Canada by his own admission. However, he was reported precisely as such in schedule 50 of the T-2 corporate tax return for the 2006 taxation year and in all subsequent returns relevant to the penalty years.
+[31] On the issue of ownership, in its submissions, RAR Canada conceded that:
+“Yes, Roger [Mr. Abou-Rached] owned the company [RAR Canada] up to or about 1999-2000, after then [sic] his mother’s companies owned the Appellant.”
+[32] This misrepresentation, while likely unintended, still arises from carelessness. Elaborate corporate structures were established, presumably to isolate, protect and maximize real property, production assets and intellectual property. Mr. Abou-Rached was proud of the intricate and detailed organization involved. What he ought to have done, as well, was read carefully, before signing, Schedule 50 within the late file corporate tax returns for the penalty years. This would have ensured the returns accurately reflected that well planned and intricate structure. If he did read the returns, he did not notice the errors. This occurred notwithstanding that his review of the critical statute barred years occurred unrushedly some 6 years after the proper filing date. Although it need not be, this error is also quite consequential to the requirement of filing the T1134 returns. As can be seen from a cursory glance, the definitions of “foreign affiliate”, “reporting entity”, “equity percentages”, in turn informed by “affiliates” and “related parties” all form critical components in the determination of the requirement and threshold for filing the T1134 returns. A misstatement in the nature of the one made regarding foreign ownership could easily mislead the Minister. As such, it must be correct and accurate.
+IV. The T1134 Return Value Threshold Issue
+[33] Based upon a generous “reading in” of its written submissions, RAR Canada asserts, aside from the statute barred issue, that it was not required to file the T1134 returns for several reasons:
+a) there was no purpose or utility in doing so because the Minister already possessed the information to be detailed in any T1134 return;
+b) although a foreign affiliate, IHI Bermuda was dormant because RAR Canada, a reporting entity, had neither a cost amount of foreign property in excess of $100,000.00 nor received gross receipts in excess of $25,000.00; and/or
+c) in 1997, Mr. Abou-Rached was president, CEO, sole director and owner of RAR Canada. He was president and CEO and 55.9% owner of IHI Canada. IHI Canada owned 72% of IHI Bermuda, of which Mr. Abou-Rached was president, CEO and director. As a result, Mr. Abou-Rached held 70% ownership of IHI Bermuda thereby removing it from the definition of foreign controlled affiliate.
+[34] The Court will deal with each separate assertion in sequence.
+a) The information to be disclosed in the T1134 return was otherwise provided.
+[35] This basis of appeal cannot succeed for several reasons. First and foremost, there is nothing in the Act to indicate that Parliament intended to relieve a reporting entity from filing a T1134 return where the Minister could otherwise discover elsewhere the information from material or other returns on file. While there are certain exemptions for filing T1134 returns, there is no language, imputed or otherwise, which states “unless otherwise disclosed”, “save where constructively otherwise implicit” or “if not indirectly otherwise provided” within the filing provisions.
+[36] Secondly, the context of the section ensures that information filed is narrow, but specific in order to allow the Minister to determine precisely, in a relatively simple, single disclosure, if foreign income is earned or property is held in a foreign affiliate by a Canadian taxpaying entity. Compliance with the section is relatively easy and there is no filing fee. To suggest a disclosure buried elsewhere in a return or other document should suffice is not logical in the context. It is not an option: Stemijon v. Canada, 2011 DTC 5169; 2011 FCA 299 at paragraphs 48 and 49.
+[37] Lastly, the purpose of the section is to allow the Minister to properly track, interpret and assess the balance of information in a return while undertaking her tasks mandated under the Act. It is not the reverse as suggested by RAR Canada, namely, to determine if a taxpayer is a reporting entity during the course of assessing its returns of income.
+b) Was IHI Bermuda a dormant foreign affiliate?
+[38] At the heart of this asserted exemption argument is the definition of a “dormant” or “inactive” foreign affiliate. A reporting entity is exempt from filing a T1134 return in respect of its foreign affiliate where, in each otherwise required year, both the following situations subsist:
+i) the reporting entity’s cost amount of the relevant foreign property is less than $100,000.00; and
+ii) the reporting entity’s gross receipts are less than $25,000.00.
+[39] Since (i) and (ii) are conjunctive, both must be satisfied in order to render a foreign affiliate “dormant” and relieve the reporting entity of filing a T1134 return. Therefore, the factual determination remains: was the cost amount of RAR’s shares in IHI Bermuda less than $100,000.00.
+[40] To answer this question, the Court sorted through the various valuations concerning the shares held by RAR Canada in IHI Bermuda. In doing so, the Court is guided by the distinct sources of such information. Initially and for public purposes, the legal and accounting advisors of IHI Canada submitted disclosure documentation to both the SEC and the VSE in the 1990’s. These documents clearly disclosed the subscription price or cost for the shares which constitute the foreign property. The value was $560,000.00. This is in contrast to the sources of the alleged, subsequent diminished value. The subsequent value, was an arcane and contorted interpretation that a “gain” was really the new “cost” of the shares as asserted by Mr. Bencze and Mr. Abour-Rached. Conveniently, it was below $100,000.00. This does not suggest that 20 years after the fact, such a view of the value is not genuinely and retroactively held. However, the Court finds, from a plain reading of the public documents filed, that the consistent disclosure of the value or cost of the foreign property at $560,000.00 to be more likely the accurate value during the penalty years as opposed to the alternatively asserted amount of $95,150.00.
+[41] The Appellant’s submission remains that, even if the initial value was $560,000.00 in 1996 or 1997, there is evidence it had reasonably diminished to something below $100,000.00 in any of the penalty years. Again, such evidence of diminition of value is not as reliable as the initial cost value remaining unaltered. While financial difficulties certainly pre-dated IHI Bermuda’s dissolution and IHI Canada’s bankruptcy, the predominate evidence of diminished cost or value of shares was assembled in 2011 after and with the hindsighted benefit of the bankruptcy, dissolution, irrevocable non-payment or underpayment of royalties and consulting fees and the irrevocable winding-up of the engineered building empire once so promising.
+[42] On balance, the Court must prefer the evidence concurrently generated during the 1997 to 2010 period (the final relevant fiscal year end being July 31, 2011), rather than the post-facto assembled income statements and balance sheets coopered together in 2011 and thereafter. Many such financial statements are undated. Moreover, the impetus for producing such documents, so late in the day, arose primarily because of the 2006 arbitrary assessment of the Minister, in turn, necessitated by a failure to file timely returns. The Court may conjecture that the failure to currently file was possibly due to the non-existence of then currently prepared financial statements.
+[43] Such a gap between the time required to file tax returns and actually doing same also strikes at the heart of whether, in assessing the cost or value of the foreign property, RAR Canada, its officers and advisers engaged in a thoughtful, deliberate and engaged assessment of the value: Desmarais v. HMQ, 2013 TCC 356 at paragraph 37. The delay in preparing the financial statements, the number of revisions, even well after 2011 and just up to before the trial, and the uncertainty around the supporting documentation requires the Court to find that such an assertion of diminished value is less probable than the clear historical record created contemporaneously and submitted by third party professionals for public disclosure and reliance. Further, an erroneous view reasonably held is not an excuse under subsection 162(7) of the Act where based upon the wording there is no due diligence defence: Leclerc v. Her Majesty The Queen, 2010 TCC 99 at paragraph 18.
+[44] Since the Court has determined, on balance, that the value or cost of the specified property during the penalty years was $560,000.00, well above the minimum cost amount of the $100,000.00 prescribed exemption, a determination of the conjunctive second test concerning minimum gross receipts is unnecessary.
+c) IHI Bermuda is not a foreign affiliate
+[45] There was no reliable evidence that Mr. Abou-Rached owned, directly or indirectly, 70% of IHI Bermuda. Whatever is asserted in this regard, the evidence upon the bankruptcy of both Mr. Abou-Rached and IHI Canada and other proceedings before this very Court do not support and, in some cases, directly contradict this contention: Abou-Rached (in bankruptcy) 2002 BCSC 1022 (CanLii) at paragraphs 104 and 105; Supreme Court of British Columbia Order dated December 6, 2012 Court number: B101803, Estate number: 11-1432969; and, International Hi-Tech Industries Inc. v. HMQ, 2014 TCC 198 at paragraph 2. The assumptions of the Minister regarding ownership of IHI Bermuda by the Appellant, RAR Canada, remain unassailed and are most probably correct. And quite apart from this control issue, a defined foreign affiliate relationship existed during the penalty years.
+d) Conclusion
+[46] In conclusion, the Appellant was a reporting entity holding specified foreign property in a foreign affiliate for each of the penalty years. The cost amount of the foreign property exceeded $100,000.00. Therefore, the Appellant, RAR Canada, was required to file the T1134 returns for each penalty year. It did not do so and must bear the penalty.
+V. Costs
+[47] Respondent’s counsel has asked for costs. Section 10(2) of the Tax Court of Canada Rules (Informal Procedure) allows for such costs “only if the actions of the appellant unduly delayed the prompt and effective resolution of the appeal”. Respondent’s counsel asserts that RAR Canada’s conduct falls within that category.
+[48] There was disproportionality between the amount of time spent in hearing this appeal when compared to the $12,500.00 in penalties, plus interest, at issue. The Court believes the Appellant’s deficient pleadings contributed to the length of the hearing, which required two days plus subsequent written submissions. However, the pleading deficiencies did not “unduly” lengthen the hearing process. The testimony of the Respondent’s witness alone involved 5 years of tax returns, 15 detailed exhibits encompassing a two inch binder. In turn, the Respondent submitted considerable authorities and 13 pages of written submissions. A large section of that effort related to the statute barred issue. On that issue, the Minister bore the onus irrespective of the pleadings.
+[49] The Appellant’s witnesses, exhibits and submissions were proportional in response to the Crown’s evidence. Further, this Court’s informal procedure is meant to dispense with formality, artifice and normal sanction for inexperience and lack of courtroom prowess. In short, Mr. Abou-Rached, while admittedly unfamiliar and awkward with some procedures, attempted to undertake the hearing in a courteous, respectful and amenable fashion. The words “unduly” do not fit easily with such conduct. There shall be no costs.
+The Amended Judgment and Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated October 31, 2017.
+Signed at Ottawa, Canada, this 21st day of February 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2017 TCC 214
+COURT FILE NO.:
+2016-3076(IT)I
+STYLE OF CAUSE:
+RAR CONSULTANTS LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 16, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+February 21, 2018
+APPEARANCES:
+Agent for the Appellant:
+Roger Georges Abou-Rached
+Counsel for the Respondent:
+Natasha Wallace
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

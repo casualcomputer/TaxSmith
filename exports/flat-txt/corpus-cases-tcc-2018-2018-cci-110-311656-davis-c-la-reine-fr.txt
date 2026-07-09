@@ -1,0 +1,187 @@
+Title: Davis c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/311656/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-110-311656-davis-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-06-14
+
+# Davis c. La Reine
+
+- Citation: 2018 CCI 110
+- Decision date: 2018-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4754, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-14
+Référence neutre
+2018 CCI 110
+Numéro de dossier
+2016-1017(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1017(IT)G
+ENTRE :
+WILLIAM DAVIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 16 mars 2018, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelant :
+Me Al Tharani
+Avocat de l’intimée :
+Me Sebastian Budd
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joint, l’appel concernant l’année d’imposition 2013 est accueilli, pour le motif que l’appelant n’était pas résident canadien pendant la période pertinente, en particulier le 6 mai 2013, en application de l’alinéa 2b) de l’article IV de la Convention entre le Canada et les États-Unis d’Amérique en matière d’impôts sur le revenu et sur la fortune constituant l’annexe 1 de la Loi de 1984 sur la Convention Canada–États-Unis en matière d’impôts, S.C. 1984, ch. 20, dans sa forme modifiée.
+L’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation.
+Les dépens sont accordés à l’appelant conformément au tarif établi, sous réserve du droit des deux parties de présenter des observations à ce sujet dans les 30 jours suivant la date du présent jugement.
+Signé à Ottawa, Canada, ce 14e jour de juin 2018.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 2e jour de janvier 2019.
+Mario Lagacé, jurilinguiste
+Référence : 2018 CCI 110
+Date : 20180614
+Dossier : 2016-1017(IT)G
+ENTRE :
+WILLIAM DAVIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction
+[1] Normalement, les résidents d’un pays paient des impôts sur le revenu et reçoivent des avantages sociaux du Trésor de ce pays. La question de la résidence est au cœur du présent appel. L’appelant, M. Davis, affirme qu’il était résident des États-Unis d’Amérique (les États-Unis) et non du Canada lorsqu’il a effectué un retrait important de son compte d’épargne-retraite américain. Pour sa part, le ministre du Revenu national (le ministre) soutient qu’au moment du retrait, M. Davis était nouvellement redevenu résident du Canada et devait y payer de l’impôt sur le revenu sur le produit de son compte de retraite. Voilà ce qui est au cœur du litige dans le présent appel.
+II. Faits non contestés
+[2] Au début de l’audience, les parties ont déposé un exposé conjoint partiel des faits et certains autres faits n’ont pas été contestés pendant les témoignages. Jusqu’en décembre 2012, M. Davis travaillait dans l’État du Massachusetts, où il possède toujours une maison qu’il n’entretient toutefois plus depuis juillet 2013. M. Davis est actuellement détenteur d’une carte de résidence permanente des États-Unis (carte verte) venant à échéance en 2020.
+[3] Depuis le 31 octobre 2009, M. Davis possède également une maison avec sa petite amie près de Yarmouth, en Nouvelle-Écosse.
+[4] Les deux parties reconnaissent que l’appelant était résident des États-Unis au moins jusqu’au 9 avril 2013. M. Davis affirme toutefois qu’il était résident des États-Unis au moins jusqu’au 9 mai 2013, si ce n’est jusqu’au mois d’octobre de cette même année.
+[5] Au nord de la frontière, l’appelant a reçu une carte d’assurance-maladie de la Nouvelle-Écosse le 1er juin 2013, entrant rétroactivement en vigueur le 1er janvier 2013, alors que son permis de conduire de la Nouvelle-Écosse a été délivré le 1er octobre 2013.
+[6] Quelque temps après le 9 avril 2013, M. Davis a demandé à retirer 696 309,38 $ ($ US) de son fond de retraite 401(k) des États-Unis. Aux États-Unis, des impôts sur le revenu de 139 261,88 $ ($ US) et de 36 556,24 $ ($ US) ont été retenus, par le gouvernement fédéral et celui de l’État, respectivement. Après déduction d’un prêt indépendant en souffrance, M. Davis a reçu la somme de 495 325,03 $ (le « produit du 401(k) ») immédiatement après le 6 mai 2013, mais avant le 9 mai, date de son départ des États-Unis.
+[7] Dans sa déclaration de revenus T1 de 2013, M. Davis a déclaré un « revenu étranger net provenant d’une entreprise » de 727 136,44 $ et a demandé un crédit pour impôt étranger sur le revenu non tiré d’une entreprise de 265 026,30 $. Il a également déduit 338 831,18 $ à titre d’« autres déductions ». Il n’est pas contesté que la déclaration de revenus, nonobstant la franchise de sa divulgation, n’a pas été correctement remplie. Le ministre a d’abord refusé ces demandes de crédits et de déductions, mais a ensuite établi une nouvelle cotisation accordant des crédits pour impôt étranger de 176 609,30 $, tout en maintenant que le solde du produit du 401(k) reçu par M. Davis était assujetti à l’impôt sur le revenu canadien. Cette nouvelle cotisation du ministre se fondait sur le fait que M. Davis était résident canadien au moment de la réception de la somme, le 6 mai 2013 (la date de réception), puisque le ministre a déclaré dans sa ratification après opposition et a soutenu dans sa réponse que M. Davis est devenu résident canadien le 9 avril 2013. Bien entendu, si M. Davis n’était pas résident canadien à la date de réception, il n’avait pas à inclure le produit du 401(k) dans son revenu. Toutefois, s’il était résident canadien, il devait l’inclure.
+III. Thèses des parties et quelques remarques
+(a) L’appelant
+[8] M. Davis fait valoir plusieurs thèses. Il allègue premièrement qu’il n’était pas résident canadien à la date de réception. En effet, il n’est pas revenu au Canada et n’est pas redevenu résident avant le 9 mai 2013, date de son retour au Canada, soit trois jours après la réception du produit du 401(k).
+[9] Subsidiairement, M. Davis fait valoir que, s’il était résident canadien à la date de réception, il ne l’est pas devenu avant le 9 avril 2013 et que, même si c’était le cas, il est demeuré résident des États-Unis entre le 9 avril et le 9 mai 2013 et était, par conséquent, résident des deux pays. Il soutient qu’il a été dûment imposé aux États-Unis comme résident américain sur le produit du 401(k). Il plaide par ailleurs que le renvoi aux règles décisives de l’article IV de la Convention fiscale entre le Canada et les États-Unis [1] (la Convention) fait de lui un résident des États-Unis et non du Canada à la date de réception. À l’appui de cette thèse, il se fonde sur l’application de l’une des règles décisives de la Convention suivantes : i) le centre de ses intérêts vitaux; ii) le pays où il séjournait de façon habituelle.
+(b) L’intimée
+[10] Dans ses observations après présentation de la preuve et après avoir demandé des éclaircissements à l'audience, l’avocat de l’intimée a fait valoir que le fondement de la cotisation du ministre est en fait le contraire des allégations de l’appelant. Il soutient tout d’abord que M. Davis était résident canadien à la date de réception. En outre, s’il était également résident des États-Unis à ce moment-là, il a reçu des crédits d’impôt pour le montant d’impôt payé aux États-Unis. De plus, toute référence nécessaire aux règles décisives de l’article IV de la Convention fait de M. Davis un résident canadien puisqu’à la date de réception, le centre de ses intérêts vitaux se trouvait au Canada et le pays où il séjournait de façon habituelle était le Canada.
+(c) Autres observations factuelles relatives à la résidence dans des pays potentiellement concurrents :
+(i) Aux États-Unis
+[11] M. Davis a déménagé au Massachusetts en 2003, soit dix ans avant son retour au Canada. Il travaillait comme ingénieur de systèmes de technologie de l’information pour une grande société de placement. Le 31 décembre 2012, M. Davis a quitté cet emploi, car son service fermait et était transféré ailleurs aux États-Unis. Il n’a jamais plus travaillé aux États-Unis. Au cours de ses années d’emploi, il a épargné et investi dans son compte de retraite 401(k).
+[12] Ses opérations bancaires étaient effectuées aux États-Unis et il y a conservé une couverture d’assurance-maladie jusqu’au 30 juin 2013. M. Davis a tenté de vendre sa maison aux États-Unis pendant cette période. À un moment donné, il a été propriétaire de deux maisons dans l’État du Massachusetts, soit une à Marlborough et l’autre à Hudson. La maison de Marlborough a été mise aux enchères en décembre 2012, mais il n’a pas été déterminé clairement à quel moment la transaction a été définitivement conclue.
+[13] M. Davis possède toujours la maison située à Hudson, où il a vécu jusqu’à son retour au Canada en mai 2013. Son adresse américaine pour tout ce qui a trait à ses affaires aux États-Unis demeure son adresse à Hudson. M. Davis a reçu le produit de son 401(k) par service de messagerie à sa résidence de Hudson quelque temps après le 6 mai 2013, mais avant le 9 mai 2013. Des déductions ont été retenues aux fins de l’impôt fédéral américain, de l’impôt de l’État et de prêts en souffrance. M. Davis affirme qu’il a entrepris ses préparatifs de départ définitif des États-Unis après avoir reçu le produit de son 401(k) et qu’il est enfin retourné de façon définitive au Canada le 9 mai 2013. En passant la frontière, il a rempli les formulaires de douane relatifs au transport de titres négociables de plus de 10 000 $, tel que cela est exigé. Ces formulaires n’ont pas été présentés à l’audience.
+(ii) Au Canada
+[14] M. Davis a acheté une maison en région rurale près de Yarmouth, en Nouvelle-Écosse, en octobre 2009. C’est la petite amie de M. Davis qui a financé l'acompte. Entre ce moment et son retour en mai 2013, M. Davis se rendait fréquemment à sa maison, où il vit désormais seul depuis quelques années. Il n’est pas contesté que, pendant la période pertinente, M. Davis et sa petite amie entretenaient une relation platonique.
+[15] De 2009 à 2013, M. Davis a déménagé plusieurs biens de sa maison de Hudson à celle de Yarmouth. Il a témoigné de façon crédible que son intention avait toujours été de retourner au Canada et que tout reposait simplement sur [TRADUCTION] « ce qui ferait pencher la balance » en faveur de son retour définitif. Le passage à la frontière au petit matin du 9 avril 2013 est d’une importance cruciale. À 4 h, alors à la frontière, M. Davis a rempli un formulaire de déclaration douanière intitulé « Document de déclaration en détail des effets personnels », sur lequel il a indiqué : [TRADUCTION] « Je suis retourné au Canada pour y redevenir résident le 9 avril 2013. » Des « marchandises à suivre » sont également indiquées sur le formulaire.
+[16] M. Davis a rempli sa déclaration de revenus de 2013 à l’aide du logiciel « TurboImpôt ». Dans cette déclaration, il a aussi indiqué le 9 avril 2013 comme date de début de résidence au Canada. Cette même date a été utilisée dans la section « Si vous êtes devenu résident du Canada ou avez cessé de l’être aux fins de l’impôt en 2013, indiquez la date ». M. Davis ne connaissait pas bien le droit fiscal ni la comptabilité. Il a suivi les indications du logiciel et savait qu’il devait divulguer ses revenus et remplir sa déclaration de revenus du mieux qu’il pouvait. Il a divulgué en toute franchise la réception du produit de son 401(k), tout en indiquant l’écriture de compensation décrite précédemment dans la section sur les autres déductions. Si M. Davis n’était pas résident canadien à la date de réception, il n’avait pas à déclarer ce revenu. Quoi qu’il en soit, la déclaration de la déduction compensatoire était une erreur.
+IV. Droit applicable
+(a) La résidence au Canada en général
+[17] Un contribuable est résident du Canada s’il est réputé être résident aux termes de l’article 250 de la Loi de l’impôt sur le revenu (la « Loi ») ou s’il est résident habituel du Canada. Les dispositions du paragraphe 250(5) concernant les personnes « réputées non résidentes » sont potentiellement applicables à l’issue de cet appel et se lisent comme suit :
+Personne réputée résider au Canada
+250(1) Pour l’application de la présente loi, une personne est réputée, sous réserve du paragraphe (2), avoir résidé au Canada tout au long d’une année d’imposition si : […]
+Personne réputée non-résidente
+250(5) Malgré les autres dispositions de la présente loi [...], une personne est réputée ne pas résider au Canada à un moment donné dans le cas où, à ce moment, si ce n’était le présent paragraphe ou tout traité fiscal, elle résiderait au Canada pour l’application de la présente loi alors que, en vertu d’un traité fiscal conclu avec un autre pays, elle réside dans ce pays et non au Canada.
+[18] Par conséquent, il est pertinent de déterminer en premier lieu si M. Davis résidait de façon habituelle au Canada. Il n’y a aucun doute que M. Davis était résident canadien en ce qui concerne les revenus perçus après son retour et l’avocat de l’appelant le reconnaît. La question centrale est de déterminer quand ce retour a eu lieu. Sur ce point, un contribuable réside de façon habituelle à l’endroit où, dans sa routine établie, il vit régulièrement, normalement ou habituellement. Les critères pertinents pour établir la résidence d’un contribuable ont été bien définis dans la décision La Reine c. Reeder [2] .
+(b) Application de la Convention et des règles décisives
+[19] Le paragraphe IV(2) de la Convention fiscale entre le Canada et les États-Unis prévoit certaines règles décisives concernant la résidence [3] :
+2. Lorsque, selon les dispositions du paragraphe 1, une personne physique est un résident des deux États contractants, sa situation est réglée de la manière suivante :
+a) Cette personne est considérée comme un résident de l’État contractant où elle dispose d’un foyer d’habitation permanent; si elle dispose d’un foyer d’habitation permanent dans les deux États ou ne dispose d’un tel foyer dans aucun des États, elle est considérée comme un résident de l’État contractant avec lequel ses liens personnels et économiques sont les plus étroits (centre des intérêts vitaux);
+b) Si l’État contractant où cette personne a le centre de ses intérêts vitaux ne peut pas être déterminé, elle est considérée comme un résident de l’État contractant où elle séjourne de façon habituelle;
+c) Si cette personne séjourne de façon habituelle dans les deux États ou si elle ne séjourne de façon habituelle dans aucun des États, elle est considérée comme un résident de l’État contractant dont elle possède la citoyenneté; et
+d) Si cette personne possède la citoyenneté des deux États ou si elle ne possède la citoyenneté d’aucun d’eux, les autorités compétentes des États contractants tranchent la question d’un commun accord.
+V. Analyse et conclusions
+[20] Pour que les règles décisives de la Convention Canada–États-Unis s’appliquent, M. Davis doit avoir payé des impôts aux États-Unis parce qu’il y était résident. À cette fin, un relevé de déduction a été déposé lors de l’audience dans le but de démontrer que des impôts importants ont été déduits à la source du produit du 401(k) par les autorités fédérales américaines et l’État du Massachusetts. Cette méthode est semblable à la façon dont ces impôts auraient été perçus si cette sortie d’argent avait eu lieu au Canada et que M. Davis avait été résident canadien. M. Davis a également témoigné à propos de la déduction d’impôt aux États-Unis sur le produit de son 401(k). En outre, lors de la vérification, le ministre a accordé à M. Davis des crédits pour impôt étranger pour les sommes payées après avoir conclu qu’il était exclusivement résident canadien à partir du 9 avril 2013.
+[21] Quelle conclusion peut être tirée à l’égard de l’assujettissement à l’impôt de M. Davis dans ces deux pays? L’intimée n’a produit aucune preuve appuyant la thèse que M. Davis a été imposé autrement qu’à titre de résident des États-Unis, ce que M. Davis prétend manifestement qu’il était. Comme il a été mentionné, son relevé de déductions d’impôt pour le produit de son 401(k) fait clairement valoir qu’il était résident des États-Unis. Du côté canadien, il est indéniable que le ministre souhaite imposer M. Davis comme résident canadien. Il n’est pas nécessaire de traiter longuement du fardeau de la preuve. La Cour conclut que M. Davis a démontré qu’il a payé ses impôts sur le produit du 401(k) à titre de résident américain en 2013. Il s’est acquitté de son fardeau [4] pour cette allégation. Aucune contre-preuve n’a pas été présentée. L’intimée a d’ailleurs fondé ses observations finales sur le fait que l’appelant se trouvait dans une situation d’assujettissement à titre de résident des deux pays en question. Par conséquent, la Cour conclut qu’il est irréfutable que M. Davis a payé un impôt sur le revenu à titre de résident des États-Unis plutôt que sur la base d’une retenue d’impôt à laquelle sont assujettis les non-résidents.
+(a) La double résidence de M. Davis entraîne-t-elle l’application de la Convention?
+[22] Selon les faits présentés en preuve à la Cour, M. Davis était à la fois résident des États-Unis et du Canada. Les faits coexistants confirment l’avis de la Cour, qui juge que l’appelant a établi sa résidence au Canada le 9 avril 2013, mais qu’il n’avait pas encore quitté les États-Unis de façon irrévocable à la date de réception et, tout bien pesé, avant le 9 mai 2013. La double résidence ou la résidence concurrente est le problème même que la Convention tente de prévoir et de résoudre à l’aide de ses règles décisives. Les conclusions au soutien de cette double résidence sont les suivantes :
+(i) il menait deux « vies » parallèlement pendant la période pertinente, bien que l’une commençait et que l’autre s’achevait;
+(ii) la question de la conjointe n’est pertinente pour aucun des États;
+(iii) on retrouve une présence fiscale dans les deux États, ce qui nécessite une analyse plus approfondie;
+(iv) M. Davis possédait un foyer d’habitation permanent dans les deux pays pendant la période pertinente.
+(b) Application de la Convention
+[23] Lorsqu’il existe une double résidence et que cela forme le fondement de l’imposition, les règles décisives doivent être appliquées pour résoudre l’impasse. En tenant pour acquis que M. Davis avait une double résidence selon la Convention, chaque partie a soutenu que les règles décisives réglaient l’impasse en sa faveur. Puisque la Convention s’applique, la Cour doit à présent examiner ses dispositions. Le premier volet du critère est de savoir s’il y existe un foyer d’habitation permanent dans les deux pays. Sur le plan des faits, comme il a été mentionné, c’était la situation qui prévalait dans le présent appel et elle n’a pas été contestée.
+(i) Premier critère de la règle décisive au-delà du double foyer d’habitation permanent : le centre des intérêts vitaux
+[24] Dans le second volet du premier critère de la règle décisive, la question du centre des intérêts vitaux renvoie à un examen minutieux des liens personnels et économiques du contribuable avec chaque pays en question. Cet examen permet d’établir avec quel pays les liens économiques sont les plus étroits [5] .
+[25] M. Davis avait certains liens personnels et économiques aux États-Unis. La plus grande valeur de ses actifs accumulés est demeurée aux États-Unis jusqu’au 9 mai 2013. M. Davis est demeuré propriétaire d’une maison et avait encore des comptes de banque aux États-Unis. La famille de M. Davis vivait bien au Canada, mais en Alberta, qui est aussi loin de la Nouvelle-Écosse que du Massachusetts. Il n’avait plus d’emploi, mais ses actifs résiduels générés dans le cadre de son travail se trouvaient toujours aux États-Unis. Enfin, il était toujours couvert par un régime d’assurance-maladie et titulaire d’un permis de conduire valide aux États-Unis, au moins pendant la période pertinente.
+[26] Au Canada, M. Davis n’a ni maintenu de relation conjugale ni obtenu un emploi, et il n’a pas non plus rejoint sa province natale et sa famille. Il n’a pas reçu de carte d’assurance-maladie avant le 30 juin 2013 et n’a obtenu son permis de conduire de la province qu’en octobre de cette même année.
+[27] Par ailleurs, il est manifeste que M. Davis avait décidé de quitter les États-Unis et de ne plus y être résident; il reste à savoir à partir de quand. Il n’est pas possible de déterminer concrètement le centre de ses intérêts vitaux, du moins au moment de la date de réception, mais on peut conclure qu’il penche légèrement du côté des États-Unis. Par conséquent, la Cour doit examiner le critère suivant de la règle décisive, soit le pays où M. Davis séjournait de façon habituelle.
+ii) Second critère de la règle décisive : pays où une personne séjourne de façon habituelle
+[28] Pour établir le pays où une personne séjourne de façon habituelle, il faut d’abord définir la période de référence. Les deux parties reconnaissent que la date déterminante en ce qui concerne le revenu est la date de réception. La résidence à cette date de la personne ayant une double résidence au sens de la Convention est donc la date décisive. Répétons qu’il s’agit du 6 mai 2013. M. Davis n’était pas résident du Canada avant le 9 avril 2013 et n’était plus résident des États-Unis après le 9 mai 2013; la période dont il est question tourne autour du 6 mai 2013.
+[29] Dans la décision Lingle [6] , la juge Campbell fait le résumé suivant :
+[19] L’appelant affirme que, même si la conclusion que le juge Bell a tirée au sujet du Commentaire dans la décision Allchin est erronée et que le Commentaire est pertinent, il ne renferme rien qui permette de définir le séjour habituel comme étant l’endroit où le contribuable « séjourne le plus souvent ». Le Commentaire concernant le paragraphe IV(2) ne renferme pas de critère exigeant une comparaison entre la fréquence des séjours au Canada et aux États-Unis.
+[20] Les paragraphes pertinents, soit les paragraphes 16 à 20 du Commentaire concernant le paragraphe IV(2) du Modèle de l’OCDE, prévoient ce qui suit :
+16. L’alinéa b) établit un critère secondaire pour deux situations bien distinctes et différentes, à savoir :
+a) le cas où la personne physique dispose d’un foyer d’habitation permanent dans chacun des États contractants et où on ne peut déterminer celui de ces États où elle a le centre de ses intérêts vitaux;
+b) le cas où la personne physique ne dispose d’un foyer d’habitation permanent dans aucun des États contractants.
+Préférence est donnée à l’État contractant où la personne physique séjourne de façon habituelle.
+17. Dans la première situation visée, à savoir le cas où la personne physique dispose d’un foyer d’habitation permanent dans chacun des États, le fait du séjour habituel dans un État plutôt que dans l’autre apparaît donc comme la circonstance qui, en cas de doute quant à l’endroit où l’intéressé a le centre de ses intérêts vitaux, fait pencher la balance du côté de l’État où il séjourne le plus souvent. Doivent être pris en considération, à cet égard, les séjours faits par l’intéressé non seulement au foyer d’habitation permanent de l’État considéré mais aussi à tout autre endroit du même État.
+[…]
+19. En disposant que, dans les deux situations qu’il envisage, la préférence est donnée à l’État contractant où la personne physique séjourne de façon habituelle, l’alinéa b) ne précise pas sur quelle période doit avoir lieu la comparaison. La comparaison doit porter sur une période suffisamment longue pour permettre d’apprécier si la résidence dans chacun des deux États est habituelle et d’apprécier aussi la périodicité des séjours.
+[30] L’avocat de l’intimée a renvoyé à la décision Lingle. La Cour a longuement interrogé l’avocat sur ce renvoi. Un certain consensus s’est formé autour de l’opinion selon laquelle la fréquence des séjours détermine quantitativement le lieu où une personne séjourne de façon habituelle. La Cour d’appel fédérale, en renvoyant à un paragraphe différent de la décision Lingle, a confirmé la décision de la juge Campbell, en plus de préciser et d’étendre ainsi le critère [7] :
+[12] Même si la phrase en soi pouvait être jugée ambiguë, il ressort clairement des motifs dans leur ensemble et du paragraphe 30 que, au moment où la juge a formulé cette phrase, elle avait déjà conclu que l’appelant n’avait pas « séjourn[é] de façon habituelle » aux États-Unis « parce qu’il n’y vivait pas régulièrement, habituellement ou normalement » : voir paragraphe 30.
+[13] L’appelant allègue que le critère applicable pour déterminer si un contribuable a « séjourn[é] de façon habituelle » est de trouver où il est [TRADUCTION] « habituellement présent ». Il fonde son allégation sur une conclusion provisoire de M. J.F. Avery Jones qui, selon l’appelant, est actuellement un juge du First Tier Tax Tribunal du Royaume-Uni. [...]
+[14] La Cour de l’impôt a conclu que l’appelant « vivait régulièrement, normalement et habituellement au Canada » : voir le paragraphe 30 des motifs du jugement. Selon le critère même proposé par l’appelant, la Cour de l’impôt a conclu que l’appelant était habituellement présent au Canada, mais pas aux États-Unis.
+[31] Tout bien pesé, étant donné l’ensemble des faits et en appliquant ces instruments de mesure qualitatifs et quantitatifs, la Cour conclut que, jusqu’au 9 mai 2013 inclusivement, M. Davis séjournait de façon habituelle aux États-Unis. Il y vivait régulièrement, normalement et habituellement avant la date de réception et immédiatement après celle-ci. On ne peut peut-être pas affirmer la même chose après le 9 mai 2013, mais la date décisive encadrant la période pertinente est la date de réception, soit le 6 mai 2013, trois jours plus tôt. Avant cette date, l’inscription à l’effet contraire de la date du 9 avril 2013 dans les cases des formulaires et de la déclaration ne fait qu’étayer la thèse d’une bévue du contribuable et établit tout au plus la double résidence soulevant la question en litige sur laquelle la Cour a dû se pencher. Avant le 9 mai 2013, la résidence de M. Davis au Canada n’était qu’en préparation de son départ des États-Unis, où il a cessé définitivement d’être résident après le 9 mai 2013. En fonction des circonstances factuelles présentées à la Cour et de la fréquence, de la durée et de la régularité de son séjour [8] , M. Davis vivait de façon habituelle aux États-Unis avant le 9 mai 2013.
+VI. Conclusion et dépens
+[32] Dans cet appel unique sur le plan des faits, la Cour conclut que le 6 mai 2013, soit la date à laquelle il a reçu le produit de son 401(k), M. Davis séjournait de façon habituelle aux États-Unis et qu’il y a été imposé comme résident. À titre de personne ayant une double résidence au sens de la Convention, il était résident des États-Unis et non du Canada en application de la règle décisive prévue à l’alinéa 2b) de l’article IV de la Convention. Par conséquent, le revenu provenant du produit du 401(k) n’était pas imposable au Canada en application de la Loi.
+[33] Pour ces motifs, l’appel est accueilli. Les dépens sont accordés à M. Davis conformément au tarif établi, sous réserve du droit des deux parties de présenter des observations à ce sujet dans les 30 jours suivant la date des présents motifs.
+Signé à Ottawa, Canada, ce 14e jour de juin 2018.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 2e jour de janvier 2019.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 110
+Nº DU DOSSIER DE LA COUR :
+2016-1017(IT)G
+INTITULÉ :
+WILLIAM DAVIS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 mars 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 14 juin 2018
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Al Tharani
+Avocat de l’intimée :
+Me Sebastian Budd
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Al Tharani
+Cabinet :
+Barrett Tax Law
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Annexe 1 de la Loi de 1984 sur la Convention Canada–États-Unis en matière d’impôts, S.C. 1984, ch. 20, dans sa forme modifiée.
+[2] La Reine c. Reeder, [1975] A.C.F. no 400, 75 DTC 5160 (CF 1re inst.).
+[3] Convention entre le Canada et les États-Unis d’Amérique en matière d’impôts sur le revenu et sur la fortune, constituant l’annexe 1 de la Loi de 1984 sur la Convention Canada–États-Unis en matière d’impôts, S.C. 1984, ch. 20 (dans sa forme modifiée) [Convention Canada–États-Unis].
+[4] Hickman Motors Ltd. c. Canada, [1997] 2 RCS 336, au paragraphe 92. De plus, l’article 10 de l’exposé conjoint partiel des faits énonce que : [Traduction] « la totalité des fonds de retraite de l’appelant était imposable aux États-Unis ».
+[5] Trieste c. La Reine, 2012 CCI 91, au paragraphe 23.
+[6] Décision Lingle c. La Reine, 2009 CCI 435, aux paragraphes 19 et 20.
+[7] Arrêt Lingle c. Canada, 2010 CAF 152, aux paragraphes 12 à 14.
+[8] Arrêt Lingle, 210 CAF, au paragraphe 6.

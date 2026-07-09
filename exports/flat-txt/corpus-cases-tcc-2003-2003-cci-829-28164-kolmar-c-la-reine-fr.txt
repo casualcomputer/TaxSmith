@@ -1,0 +1,155 @@
+Title: Kolmar c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28164/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-829-28164-kolmar-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-11-07
+
+# Kolmar c. La Reine
+
+- Citation: 2003 CCI 829
+- Decision date: 2003-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2010, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kolmar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-07
+Référence neutre
+2003 CCI 829
+Numéro de dossier
+2003-886(IT)APP
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑886(IT)APP
+ENTRE :
+LOUISE KOLMAR,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue sur preuve commune avec la demande de
+1120733 Ontario Limited (2003‑885(IT)APP)
+le 3 octobre 2003 à Ottawa (Ontario)
+Devant : L’honorable juge Gerald J. Rip
+Comparutions
+Avocat de la requérante :
+Me Harold J. Feder
+Avocate de l’intimée :
+Me Jennifer Neill
+____________________________________________________________________
+ORDONNANCE
+Vu la demande d’ordonnance de prorogation du délai pour interjeter appel à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997 et 1998;
+Et vu les allégations des parties;
+La demande est rejetée.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 19 jour de mars 2004.
+Sylvie Sabourin, traductrice
+Dossier : 2003‑885(IT)APP
+ENTRE :
+1120733 ONTARIO LIMITED,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Demande entendue sur preuve commune avec la demande de
+Louise Kolmar (2003‑886(IT)APP) le 3 octobre 2003 à Ottawa (Ontario)
+Devant : L’honorable juge Gerald J. Rip
+Comparutions
+Avocat de la requérante :
+Harold J. Feder
+Avocate de l’intimée :
+Jennifer Neill
+____________________________________________________________________
+ORDONNANCE
+Vu la demande d’ordonnance de prorogation du délai pour interjeter appel à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1996, 1997 et 1998;
+Et vu les allégations des parties;
+La demande est rejetée.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 19 jour de mars 2004.
+Sylvie Sabourin, traductrice
+Référence : 2003CCI829
+Date : 20031107
+Dossier : 2003‑886(IT)APP
+ENTRE :
+LOUISE KOLMAR,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2003-885(IT)APP
+ET ENTRE :
+1120733 ONTARIO LIMITED,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Rip
+[1] Les présentes demandes présentées par Mme Louise Kolmar et 1120733 Ontario Limited conformément à l’article 167 de la Loi de l’impôt sur le revenu (« Loi ») visent à obtenir la prorogation du délai prévu pour le dépôt des avis d’appel. La demande de Mme Kolmar porte sur les années 1997 et 1998 et la demande de la société porte sur ses années d’imposition 1996, 1997 et 1998.
+[2] Le ministre du Revenu national a établi de nouvelles cotisations pour les années d’imposition 1997 et 1998 de Mme Kolmar par voie d’Avis de nouvelle cotisation datés du 6 novembre 2000. Un Avis d’opposition a été dûment déposé et le ministre a confirmé les nouvelles cotisations et a envoyé, par la poste, l’Avis de ratification à Mme Kolmar le 30 novembre 2001.
+[3] Par avis datés du 8 novembre 2000, le ministre a établi de nouvelles cotisations pour les années d’imposition 1996, 1997 et 1998 de 1120733 Ontario Limited. Un Avis d’opposition aux nouvelles cotisations a été signifié au ministre le 4 décembre 2000 et, le 30 novembre 2001, le ministre a confirmé les nouvelles cotisations et a envoyé, par la poste, un avis à la société.
+[4] Aucun appel n’a été interjeté à l’encontre des cotisations établies pour la société et Mme Kolmar dans les 90 jours à partir de la date d’envoi des Avis de ratification à chacune des requérantes.
+[5] Les demandes déposées par la société et Mme Kolmar pour obtenir l’autorisation d’interjeter les appels en retard portent la date du 28 février 2003, soit le dernier jour où une demande pouvait être déposée conformément à l’alinéa 167(5)a) de la Loi.
+[6] Le ministre s’oppose à ce que les demandes soient acceptées au motif que ni l’une ni l’autre des requérantes n’a démontré que sa demande a été déposée dès que les circonstances l’avaient permis, comme l’exige le sous‑alinéa 167(5)b)(iii).
+[7] Le ministre ne nie pas le fait que les requérantes n’ont pu ni agir ni charger quelqu’un d’agir en leur nom respectif dans les 90 jours de l’envoi des Avis de ratification conformément au paragraphe 169(1) ou que les requérantes ont véritablement eu l’intention d’interjeter appel à l’encontre des cotisations pertinentes dans ladite période de 90 jours.
+[8] Le litige entre les requérantes et le ministre porte sur la question de savoir si certaines dépenses liées à un véhicule automobile ont été engagées par la société, au cours des années d’imposition 1996 à 1998, aux fins de produire un revenu d’entreprise et, si ce n’était pas le cas, si la société avait conféré un avantage à Mme Kolmar, une actionnaire de la société : paragraphe 15(1).
+[9] Dans son affidavit, Mme Kolmar a décrit les faits qui ont conduit à la demande de la manière suivante :
+[traduction]
+3. Au début de décembre 2001, feu mon mari, Walter Kolmar, a communiqué avec notre avocat, Me Harold Feder, pour l’informer que la société et moi avions un litige avec l’Agence des douanes et du revenu du Canada (« ADRC ») à propos de dépenses automobiles rejetées et que nous souhaitions interjeter appel.
+4. Mon conjoint a alors commencé à rassembler tous les documents fiscaux pertinents aux appels. De la fin de septembre à la mi‑février, l’entreprise est extrêmement occupée, il n’a donc pas été en mesure de faire grand‑chose avant la fin de février.
+5. Le 7 mars 2002, j’ai demandé à l’ADRC une copie de l’Avis de ratification daté du 30 novembre 2001 lié à ma cotisation et je l’ai reçue.
+6. Jusqu’au moment de la réception de la copie de l’avis le 7 mars 2002, je n’avais pas réalisé que l’opposition liée à ma question fiscale avait été rejetée. En outre, j’avais mal compris que la date de la ratification pour la société était le 9 décembre 2001.
+7. Je suis informée, par Me Feder, et je crois vraiment qu’à cette date, soit le 7 mars 2002, il a informé mon mari que le délai pour interjeter les appels avait expiré et que, par conséquent, nous aurions besoin d’une prorogation. Mon mari a confirmé que nous souhaitions toujours interjeter les appels.
+8. Pendant toute l’année 2002, mon mari et Me Feder ont rassemblé les documents nécessaires pour évaluer correctement les appels et pour préparer les documents d’appel.
+9. Le processus était difficile et long en raison d’un certain nombre de facteurs. Les appels portaient sur trois années d’imposition dont la première remontait à plus de six années. Nous ne possédions pas les documents demandés par Me Feder. Nous avions travaillé avec trois comptables différents au cours de la période en litige. Celui qui avait le plus travaillé sur ces années a eu une crise cardiaque et un accident vasculaire cérébral à l’automne 2001 et n’était pas en mesure de nous aider.
+10. Tout au long de 2002, l’ADRC et le ministre des Finances de l’Ontario ont communiqué périodiquement avec nous à propos de l’état de nos comptes fiscaux. Nous les avons informés que ces questions faisaient l’objet d’un appel et les avons renvoyés à Me Feder pour de plus amples renseignements.
+11. Le 4 décembre 2002, mon mari est décédé soudainement d’une crise cardiaque.
+12. Peu de temps après, j’ai communiqué avec Me Feder pour le mettre au courant et lui demander conseil. Après discussion, j’ai confirmé que je souhaitais interjeter appel.
+13. Les appels ont été interjetés le 28 février 2003, accompagnés d’une demande de prorogation des délais pour interjeter les appels.
+[10] Lors du contre‑interrogatoire portant sur son affidavit, Mme Kolmar a déclaré qu’elle avait mal compris la question des délais. Elle a déclaré qu’elle pensait que des renseignements en plus de ceux fournis au ministre au cours des étapes de vérification et d’opposition étaient requis pour interjeter appel, et que son mari [traduction] « cherchait » ces renseignements avant son décès.
+[11] Mme Kolmar a déclaré qu’elle avait recommandé à Me Feder, son avocat, de déposer une demande de prorogation du délai en mars 2002. Elle était en communication avec le comptable qui avait eu une crise cardiaque et un accident vasculaire cérébral. Il était malade avant que les Avis de ratification ne soient envoyés à Mme Kolmar. [traduction] « Tout arrivait en même temps », a dit Mme Kolmar, et c’était pendant la période la plus occupée de l’année pour l’entreprise. Elle a déclaré qu’il n’y avait [traduction] « pas de temps pour rassembler les [choses] ».
+[12] Mme Kolmar a déclaré qu’elle ne sait pas ce qui est arrivé aux Avis de ratification initiaux qui lui avaient été envoyés, ainsi qu’à la société, par la poste le 30 novembre 2001.
+[13] Les dispositions pertinentes du paragraphe 167(5) prévoient ce qui suit :
+(5) Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit : […]
+[…]
+(iii) la demande a été présentée dès que les circonstances le permettaient, […]
+[14] L’avocat de la requérante a soutenu que les termes « la demande [sera] présentée dans l’année suivant [...] » de l’alinéa 167(5)b)(iii) devraient être interprétés comme signifiant que la demande doit être effectuée [traduction] « dès que les circonstances le permettaient, […] ». Les contribuables, dit-il, doivent avoir le temps de présenter une demande non pas simplement pour arrêter le compteur mais pour permettre d’évaluer correctement leurs droits. Le contribuable dispose de une année pour interjeter un appel [traduction] « en bonne et due forme »; il n’a pas besoin de [traduction] « se débarrasser » de la demande.
+[15] Je ne suis pas d’accord avec l’avocat de la requérante. Une fois que le ministre envoie un avis au contribuable par lequel il confirme la cotisation ou qu’il a établi une nouvelle cotisation après une opposition, le contribuable dispose de 90 jours à partir de la date d’envoi de l’avis pour interjeter appel devant la Cour : paragraphe 169(1). [Le contribuable peut également interjeter appel à l’encontre d’une cotisation si 90 jours se sont écoulés depuis le dépôt de l’avis d’opposition et que le ministre ne l’a pas informé qu’il avait annulé ou confirmé la cotisation ou la nouvelle cotisation.] Pendant cette période de 90 jours, le contribuable doit rassembler toutes ses forces, organiser sa documentation, obtenir des conseils juridiques, etc., pour élaborer un avis d’appel et le déposer devant la Cour. L’article 167 constitue une exception à l’article 169. Toutes les conditions prévues au paragraphe 167(5) doivent être remplies avant qu’une ordonnance de prorogation du délai pour interjeter appel ne puisse être rendue. Le contribuable doit démontrer, entre autres, qu’il n’a pu ni agir ni charger quelqu’un d’agir en son nom ou qu’il avait véritablement l’intention d’interjeter appel dans les 90 jours, mais qu’en raison d’une maladie grave, d’un accident ou d’un malheur ou qu’en raison d’un de ces contretemps inévitables qui surviennent dans la vie, il n’a pu ni agir ni charger quelqu’un d’agir ou de matérialiser son intention d’interjeter appel en temps voulu. Si un contribuable dépose un avis d’appel en retard, il doit agir avec diligence pour présenter une demande de prorogation du délai pour interjeter appel et pour déposer un avis d’appel. Il n’y a pas de zone de confort de une année pour présenter une demande. Lorsqu’il a promulgué l’article 167, le Parlement n’avait pas l’intention de proroger le droit d’appel de la cotisation d’un contribuable. Une telle interprétation enlèverait toute signification à l’article 169.
+[16] Il ne fait aucun doute qu’en raison de la maladie d’un comptable et du fait de devoir traiter avec deux autres comptables, il était difficile pour M. et Mme Kolmar de retrouver les documents nécessaires. Cependant, je ne peux me convaincre que Mme Kolmar et la société ont déposé leurs demandes dès que les circonstances l’ont permis. Premièrement, Mme Kolmar ne se souvient pas du moment où elle ou la société ont reçu les avis de ratification initiaux qui leur ont été envoyés par la poste, le 30 novembre 2001. Au début de décembre 2001, feu M. Kolmar a communiqué avec leur avocat, l’informant de l’existence d’un différend avec l’Agence des douanes et du revenu du Canada (« ADRC »). Il n’est pas déraisonnable d’assumer que cette communication avec son avocat découlait de la réception des avis de ratification. Ce n’est que le 7 mars 2002, après l’expiration des 90 jours alloués pour interjeter un appel, que Mme Kolmar a obtenu une copie de son avis de ratification. Elle avait compris que celui de la société portait la date du 9 décembre 2001.
+[17] Deuxièmement, la fonction des actes de procédure consiste à vérifier avec précision les questions sur lesquelles les parties en litige ne s’accordent pas et les points sur lesquels elles s’accordent. Il n’est pas nécessaire de divulguer, lors des actes de procédure, la preuve que la partie se propose d’utiliser pour étayer ses prétentions lors de l’audience. Il s’agit de fournir un aperçu adéquat de l’affaire[1]. Il semble que les requérantes se dépêchaient, après mars 2002, pas nécessairement pour élaborer les avis d’appel mais pour chercher des éléments de preuve. J’en conclus que, dans les circonstances de ces affaires, les renseignements nécessaires pour élaborer un solide avis d’appel étaient accessibles au moment du dépôt de l’avis d’opposition.
+[18] Troisièmement, je ne suis pas au courant de faits pertinents décrits dans les avis d’appel déposés avec les demandes qui aient été inconnus de Mme Kolmar et de la société lorsque M. Kolmar a communiqué la première fois avec leur avocat en décembre 2001.
+[19] Quatrièmement, il semble qu’aucun effort n’ait été fourni pour se renseigner auprès de l’ADRC quant aux documents en sa possession et qui pourraient être examinés par les requérantes afin d’élaborer leurs demandes et leurs avis d’appel de façon plus opportune.
+[20] Dans la décision Sa Majesté la Reine c. Arthur C. Pennington[2], le juge en chef Thurlow a déclaré qu’il lui semblait que la loi exige « que le contribuable fasse sa demande dès que, dans les circonstances de l’espèce, il peut raisonnablement être en mesure de préparer et de présenter une demande ». La Cour d’appel a accueilli la demande d’examen de la Couronne visant à annuler une décision de cette Cour.
+[21] Alors qu’en cas de doute, il est préférable qu’un litige entre un contribuable et la Couronne soit tranché sur ses mérites plutôt que sur un gain de cause de la Couronne en raison d’une prescription des délais au détriment du contribuable, on ne peut faire fi du libellé clair de la loi. Je ne suis pas convaincu que les circonstances ne permettaient pas aux requérantes de faire leurs demandes avant le début de 2003. Les demandes auraient pu être présentées beaucoup plus tôt.
+[22] Les demandes sont rejetées.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 19 jour de février 2004.
+Sylvie Sabourin, traductrice
+[1] D. B. Carson et I. H Dennis, Odgers' Principles of Pleading and Practice in Civil Actions in the High Court of Justice, 22e édition, London, Stevens & Sons Limited, 1981, p. 84.
+[2] C.A.F., no 253‑86, 30 janvier 1987 (87 DTC 5107).

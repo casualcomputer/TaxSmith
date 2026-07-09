@@ -1,0 +1,146 @@
+Title: Stojak v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28085/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-565-28085-stojak-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-08-14
+
+# Stojak v. M.N.R.
+
+- Citation: 2003 TCC 565
+- Decision date: 2003-08-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1670, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stojak v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-14
+Neutral citation
+2003 TCC 565
+File numbers
+2003-117(CPP)
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2003-117(CPP)
+BETWEEN:
+DIANNE STOJAK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 19, 2003 at Vancouver, British Columbia
+Before: The Honourable Justice Michael J. Bonner
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal will be allowed and the matter will be referred back to the Minister of National Revenue for reassessment accordingly.
+Signed at Ottawa, Canada, this 14th day of August 2003.
+"Michael J. Bonner"
+Bonner, J.
+Citation: 2003TCC565
+Date: 20030814
+Docket: 2003-117(CPP)
+BETWEEN:
+DIANNE STOJAK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, J.
+[1] Faxit Communications Inc. (Faxit) appealed under s. 27.1[1] of the Canada Pension Plan to the Minister of National Revenue (the "Minister") from an assessment made on the basis that Dianne Stojak was employed by Faxit under a contract of service during 2000, 2001 and 2002. The Minister confirmed the assessment. The Appellant then brought the present appeal under s. 28 of the Canada Pension Plan as a person affected by the Minister's decision. The sole issue is whether the Appellant was employed by Faxit under a contract of service or whether, as she contends, she worked for Faxit as a consultant under a contract for services.
+[2] The position of the Appellant as set out in her Notice of Appeal is:
+"I have never been an employee of Faxit Communications Inc. and have never worked under a contract for services (sic) with that organization. I have conducted invoiced work for Faxit Communications under a contract for hire through my educational and management consulting company, DS Educational Services. Thus I have reported this income as self-employed income.
+Since 1999 I have operated an educational and management consulting company and have done invoiced work under contract for hire with numerous firms, agencies and professional organizations. The income generated from this work has been reported as self-employed income and all subsequent monies owing to CCRA have been submitted annually with completed tax returns. I am in full control of my work, I set the hours and days of operation and conduct my work unsupervised. I own all my equipment and technology required to operate as a consultant and am solely responsible for profit and loss. The educational and management consulting business of DS Educational Services is solely my business and I operate this business completely from my home office."
+[3] The Respondent's position is that the Appellant was employed by Faxit in pensionable employment under a contract of service. It was based on the following findings of assumptions of fact:
+a) Faxit was incorporated in October, 1997 and operated an advertising business;
+b) 100% of the shares of Faxit are owned by Pat Stojak;
+c) Pat Stojak held the position of President of Faxit;
+d) Pat Stojak is the Appellant's spouse;
+e) Pat Stojak performed management and financial administration duties for Faxit;
+f) the Appellant performed management and financial administration duties for Faxit when needed or when Pat Stojak was absent;
+g) in addition to her management duties, the Appellant trained new employees of Faxit;
+h) Faxit sold advertising services to customers;
+i) Faxit broadcast its customers advertising via a fax modem to a database of fax numbers;
+j) Faxit established the rates that it charged its customers;
+k) Faxit hired other workers to sell advertising to prospective customers and to load the customer's ad into Faxit's computer database for broadcasting;
+l) Faxit paid the Appellant a flat monthly fee;
+m) the Appellant performed her duties for Faxit from Faxit's business location and from an office located in her home;
+n) the Appellant had signing authority on Faxit's bank account;
+o) the Appellant was required to report to Faxit in the performance of her management duties;
+p) the Appellant did not incur any expenses in the performance of her duties for Faxit; and
+q) Faxit was required to withhold Contributions from the remuneration paid to the Appellant.
+There was no serious challenge to the assumptions set out in paragraphs a) to d) and h) to k). I note that the relevance of j) is not clear and that paragraph q) is based on a conclusion which is very much in issue.
+[4] Evidence was given at the hearing of the appeal by the Appellant and by her husband, Patrick Thomas Stojak.
+[5] The Appellant's evidence was that she operates a business, DS Educational Services, providing management and consulting services to a number of clients one of which was Faxit. She produced statements of income and expense for the years 1999, 2000 and 2001. The revenues reported on those statements were said to be entirely from consulting. They were respectively, $6,560.60, $15,055.00 and $19,580.00. The Appellant produced a bundle of documents which appear to be invoices and records of payment generated by activity carried on under the name DS Educational Services. Payments to DS Educational Services were made by clients including the College of Dental Hygienists of British Columbia, the University of British Columbia and the Dental Hygienists Association. The invoices were on the letterhead of DS Educational Services and were issued to Faxit Communications Ltd. They claim payment for administrative, technical and training services which were billed at the rate of $50, $75 and $35 per hour respectively.
+[6] According to the Appellant, Faxit was in the business of broadcasting advertising on behalf of its customers. It did so by loading the customers' advertisements into its computers and broadcasting the advertisements to fax numbers contained in its database.
+[7] The Appellant testified that her work for Faxit involved establishing administrative communication systems and organizational analysis. The work was done pursuant to an oral contract between the Appellant and Faxit. The Appellant did not indicate when the contract was made nor did she furnish any details with regard to what was negotiated and when. The work for Faxit generated between $20,000 and $24,000 over a period of two to two and a half years. The Appellant said the fees charged to Faxit varied from month to month depending on the number of hours of work done. She did not, she said, receive any benefits from Faxit such as sick leave, vacation time or insurance coverage.
+[8] The Appellant stated that she had received a degree of Master of Education from the University of Victoria in November of 2000. Her specialty was leadership and administration. She regarded her education as a "tool" supplied by her in the performance of the contract with Faxit.
+[9] The Appellant stated that she hired and fired employees in the operation of the DS business. She said she operated the business from an office located in her home. She said that she performed 90% of the Faxit work from that home office. She claimed that she paid for supplies used in conducting the business and produced cash register tapes and other material indicating that payments were made for office supplies.
+[10] The Appellant asserted that she did her work for Faxit at times of her own choosing. The Appellant said that the number of hours worked per week varied from 2 to 20. She produced a schedule indicating that her attendance at school did not leave her with time to work for DS on any sort of regular predetermined basis.
+[11] The Appellant also produced invoices indicating that she purchased office equipment which she said was used in the operation of her business.
+[12] The nature of the work which the Appellant was engaged to do for Faxit was described in rather ambiguous terms. The Appellant said she was involved in organizational analysis and assessment and that she established administrative communication systems. She looked into what could be done to improve the manner in which the company operated. The description of the work on the invoices sent by DS to Faxit is also couched in enigmatic terms. The Appellant stated that she had "some involvement" in ensuring that employees understood the recommendations which she had made. She claimed that she was not otherwise involved in employee training. Further she said that she implemented systems to manage the collection of receivables. The Appellant's recommendations, none of which was produced, constituted the product which she was apparently expected to generate for Faxit. She pointed out that Faxit was not involved in the generation of the reports because it was she, not Faxit, who possessed expertise in organisational analysis. The Appellant denied that she was involved in the management of the business of Faxit.
+[13] Evidence was also given by the Appellant's spouse Patrick Thomas Stojak. He confirmed that the Appellant was retained by Faxit under an oral contract. He indicated that the contract called upon the Appellant to perform certain duties. Mr. Stojak described the nature of the work as structuring the organization and training and he added that she helped with the better collection of the receivables. He indicated that although he was out of town he continued to manage Faxit business by telephone and e-mail.
+[14] Mr. Stojak stated that the Appellant was not obliged to punch a clock and that she was entitled to work for others. He insisted that she was never offered employment by Faxit.
+[15] Mr. Stojak was somewhat vague regarding the manner in which the Appellant was obliged to provide her recommendations to Faxit. He said that the recommendations were "mostly verbal".
+[16] Mr. Stojak indicated that billing was discussed between himself and the Appellant and that once an amount was approved the Appellant was obliged to send an invoice to the company. He stated that the Appellant billed for hours spent working.
+[17] I have concluded, not without hesitation, that the evidence of the Appellant and Patrick Stojak was substantially truthful. Although the manner in which the Appellant gave her evidence seemed at times to be evasive, I have concluded that the Appellant's apparent reluctance to answer questions resulted from a desire to reiterate her position as often as possible and not from a reluctance to tell the truth.
+[18] The general description of contracts of service and contracts for services found in the reasons of Jackett, P. in Alexander v. M.N.R., 70 DTC 6006 at 6011 offers an insight which is helpful here:
+"... On the one hand, a contract of service is a contract under which one party, the servant or employee, agrees, for either a period of time or indefinitely, and either full time or part time, to work for the other party, the master or the employer. On the other hand, a contract for services is a contract under which the one party agrees that certain specified work will be done for the other. A contract of service does not normally envisage the accomplishment of a specified amount of work but does normally contemplate the servant putting his personal services at the disposal of the master during some period of time. A contract for services does normally envisage the accomplishment of a specified job or task and normally does not require that the contractor do anything personally. ..."
+[19] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, the authorities bearing upon the distinction between the two types of contract were reviewed. Major, J., speaking for the Court, expressed agreement with the "four-in-one" test set out in the reasons for judgment of MacGuigan, J.A. in Wiebe Door Services, [1986] 2 C.T.C. 200. At page 1005 of the decision in Sagaz, Major, J. stated:
+"Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non‑exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case."
+[20] In the present case much of the difficulty stems from the fact that the work done by the Appellant for Faxit was done under a rather ill-defined non arm's length oral agreement. The thrust of the Appellant's case is that Faxit retained her, not to put her services at the disposal of Faxit for any particular period of time but rather to investigate, analyse and produce a product in the form of recommendations with regard to various aspects of Faxit's business operations. I note that analytical work of the nature undertaken by the Appellant can be done just as readily by a person who has been engaged as an employee as by an independent contractor.
+[21] The Respondent assumed that Faxit paid the Appellant a flat monthly fee. That was not what happened. The Appellant invoiced Faxit each month. The invoices specified the number of hours worked in each of three categories and applied the rates respectively applicable to those categories. Billing on a time‑spent basis is entirely consistent with the performance of work by an independent contractor.
+[22] The evidence does not suggest that Faxit possessed any sort of control over the manner in which the Appellant's work was performed. The Appellant held a degree in a field which appears to have borne some relationship to work of the sort which she said she was called upon to do for Faxit. The evidence does not suggest that Mr. Stojak or any one else at Faxit had any expertise in the field. In such circumstances it seems unlikely that Faxit would have sought a contractual term retaining control over the manner in which the work was done. Although the absence of a right to control the manner in which the work was done is indicative of a contract for services, the test is of diminished weight in cases such of this where the worker possesses an expertise not shared by the person who has engaged him or her.
+[23] Ownership and use by the worker of tools and equipment required to carry out his or her work tends to support a conclusion that the worker is an independent contractor. In the present case, the Appellant produced records indicating that she bought equipment including a scanner, a CD writer and a filing cabinet. She performed the work for Faxit primarily from an office in her home using a computer which she owned either in whole or in part. She used supplies purchased at her expense. All of this supports the conclusion that she worked for Faxit as an independent contractor.
+[24] I note that the Appellant stated in evidence that she employed a helper and that she had fired the helper. Unfortunately, the Appellant did not indicate during her evidence whether the helper played any role in carrying out the consulting work for Faxit. The ambiguity of the evidence makes it impossible to apply this branch of the overall test.
+[25] The Appellant's position is supported to some extent by the fact that she did operate a consulting business of her own and invoiced Faxit on the letterhead of that business. The contract appears to have been formed in the course of the operation of the consulting business of which the Appellant was proprietor. There is no apparent reason why a person who operates a consulting business should accept work as an employee in the same field of endeavour.
+[26] The degree of financial risk undertaken by the Appellant in the circumstances of this case does not appear to have been great. She was after all compensated at hourly rates for work which does not seem to have entailed substantial incremental cost. Nevertheless, when the work for Faxit is viewed as part of the overall consulting activity it is evident that there was at least some measure of financial risk of the sort not normally encountered by an employee. When the circumstances are viewed comprehensively, it is, I think, evident that this is not a case in which the Appellant put her personal services at Faxit's disposal. Rather it is a case in which the Appellant agreed to undertake certain tasks for Faxit in the course of carrying on her business as an independent consultant. To use the language of the Sagaz case the Appellant performed services for Faxit as a person in business on her own account.
+[27] I have concluded that the appeal must be allowed. The matter will be referred back to the Minister for reassessment accordingly.
+Signed at Ottawa, Canada, this 14th day of August 2003.
+"Michael J. Bonner"
+Bonner, J.
+CITATION:
+2003TCC565
+COURT FILE NO.:
+2003-117(CPP)
+STYLE OF CAUSE:
+Dianne Stojak and M.N.R.
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 19, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Michael J. Bonner
+DATE OF JUDGMENT:
+August 14, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Reply to the Notice of Appeal indicates that the appeal to the Minister was brought under s. 27 of the Canada Pension Plan.

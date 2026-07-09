@@ -1,0 +1,201 @@
+Title: 630393 Saskatchewan Ltd. O/A Dove Home Care Services c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28140/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-731-28140-630393-saskatchewan-ltd-o-a-dove-home-care-services-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-10-15
+
+# 630393 Saskatchewan Ltd. O/A Dove Home Care Services c. M.R.N.
+
+- Citation: 2003 CCI 731
+- Decision date: 2003-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1659, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+630393 Saskatchewan Ltd. O/A Dove Home Care Services c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-15
+Référence neutre
+2003 CCI 731
+Numéro de dossier
+2002-4240(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑4240(EI)
+ENTRE :
+630393 SASKATCHEWAN LTD. S/N DOVE HOME CARE SERVICES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 1er octobre 2003 à Regina (Saskatchewan)
+Devant : L’honorable juge Beaubier
+Comparutions
+Représentante de l’appelante :
+Shannon Chapple
+Avocate de l’intimé :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée conformément aux motifs du jugement ci‑joints.
+Signé à Saskatoon (Saskatchewan), ce 15e jour d’octobre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Liette Girard, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑4241(CPP)
+ENTRE :
+630393 SASKATCHEWAN LTD. S/N DOVE HOME CARE SERVICES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 1er octobre 2003 à Regina (Saskatchewan)
+Devant : L’honorable juge Beaubier
+Comparutions
+Représentante de l’appelante :
+Shannon Chapple
+Avocate de l’intimé :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Saskatoon (Saskatchewan), ce 15e jour d’octobre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Liette Girard, traductrice
+Référence : 2003CCI731
+Date : 20031015
+Dossier : 2002‑4240(EI)
+ENTRE :
+630393 SASKATCHEWAN LTD. S/N DOVE HOME CARE SERVICES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+Intimé,
+ET ENTRE :
+Dossier : 2002‑4241(CPP)
+630393 SASKATCHEWAN LTD. S/N DOVE HOME CARE SERVICES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels ont été entendus ensemble sur preuve commune à Regina, en Saskatchewan, le 1er octobre 2003. Shannon Chapple, une infirmière autorisée et l’agente des opérations de l’appelante, a été le seul témoin.
+[2] Les détails de l’appel sont établis aux paragraphes 4 à 11 inclusivement de la Réponse à l’avis d’appel numéro 2002‑4240 (EI). Ils sont ainsi rédigés :
+[Traduction]
+4. En réponse à l’appel, le ministre a décidé que Elizabeth Beggs, Luce Delaurier, Christine Davies, Shriley Gentles, Jean Kerr, Andrea Muldridge et Rose Phillips n’étaient pas employées en vertu d’un contrat de louage de services, mais qu’elles occupaient un emploi assurable en vertu de l’alinéa 6g) du Règlement sur l’assurance‑emploi pour les périodes suivantes :
+Elizabeth Beggs
+Du 1er janvier 2001 au 16 juillet 2001
+Luce Delaurier
+Du 1er janvier 2001 au 5 juin 2001
+Christine Davies
+Du 1er janvier 2001 au 11 juin 2001
+Shriley Gentles
+Du 1er janvier 2001 au 5 juin 2001
+Jean Kerr
+Du 1er janvier 2001 au 4 juin 2001
+Andrea Muldridge
+Du 1er janvier 2001 au 30 avril 2001
+Rose Phillips
+Du 1er janvier 2001 au 4 juin 2001
+5. L’appelante a fait l’objet d’une évaluation, datée du 27 février 2002, notamment pour des cotisations d’assurance‑emploi d’un montant de 14 216,42 $ pour l’année 2001 en ce qui concerne les personnes énumérées à l’annexe « A » ci‑jointe et faisant partie de la Réponse à l’avis d’appel.
+6. L’appelante a interjeté appel auprès du ministre pour nouvel examen de l’évaluation de 2001.
+7. En réponse à l’appel, le ministre a confirmé l’évaluation pour l’année 2001 puisque les personnes énumérées à l’annexe « A » ci‑jointe et faisant partie de la Réponse à l’avis d’appel, (collectivement appelées « les travailleuses ») n’étaient pas employées en vertu d’un contrat de louage de services mais qu’elles occupaient un emploi assurable en vertu de l’alinéa 6g) du Règlement sur l’assurance‑emploi.
+8. En établissant ainsi l’évaluation à l’égard des travailleuses, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante exploite une entreprise de prestation de services de fournisseurs de soins de santé à ses clients à domicile, dans les hôpitaux et dans les institutions;
+b) l’appelante obtient des contrats avec des clients (ci‑après le « client ») afin de fournir les services du personnel soignant;
+c) l’appelante évalue et place le personnel qualifié;
+d) l’appelante impose des frais au client pour la prestation des services du personnel soignant;
+e) les travailleuses ont été embauchées en tant que fournisseurs de soins et leurs services comprenaient les soins infirmiers, lesquels étaient offerts par les travailleuses qui étaient des infirmières autorisées, et l’accompagnement, lequel était offert par les travailleuses qui n’avaient pas de formation spéciale;
+f) les travailleuses gagnaient un salaire horaire fixe;
+g) le salaire variait entre 8 $ et 22 $ l’heure, selon les titres et qualités des travailleuses;
+h) l’appelante fixait les taux de salaire des travailleuses;
+i) l’appelante payait les travailleuses;
+j) les services personnels des travailleuses étaient requis;
+k) le client ou une personne agissant au nom du client déterminait le type de soins dont le client avait besoin;
+l) le client ou une personne agissant au nom du client pouvait donner des ordres ou des instructions aux travailleuses;
+m) les services offerts par les travailleuses étaient assujettis à l’approbation du client ou d’une personne agissant au nom du client;
+n) certaines des travailleuses offraient leurs services à une clinique de méthadone;
+o) un conseil d’administration dirigeait les opérations de la clinique de méthadone;
+p) le conseil d’administration de la clinique de méthadone établissait les lignes directrices, les politiques et les procédures et pouvait donner des instructions et des ordres aux travailleuses;
+q) tous les instruments et l’équipement requis étaient fournis par le client ou l’établissement où se trouvait le client;
+r) les travailleuses n’engageaient pas de dépenses dans le cadre de leurs fonctions;
+s) les travailleuses n’avaient pas de chance de profit ni de risque de perte;
+t) l’appelante trouvait un emploi aux travailleuses afin qu’elles offrent leurs services au client;
+u) l’appelante agissait comme une agence de placement ou d’emploi;
+v) les travailleuses étaient sous la direction et le contrôle du client;
+w) l’appelante rémunérait les travailleuses;
+x) les salaires versés par l’appelante aux travailleuses sont expliqués en détail à l’annexe « B » jointe à la Réponse à l’avis d’appel et en faisant partie.
+B. QUESTIONS À TRANCHER
+9. Il s’agit de savoir si les travailleuses occupaient un emploi assurable pendant l’année 2001, en vertu de l’alinéa 6g) du Règlement sur l’assurance‑emploi.
+C. DISPOSITIONS LÉGISLATIVES, FONDEMENT ET REDRESSEMENT
+10. L’intimé se fonde sur le paragraphe 2(1) et l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi et l’alinéa 6g) du Règlement sur l’assurance‑emploi.
+11. Il soutient que les travailleuses occupaient un emploi assurable, pour l’année 2001, au sens de l’alinéa 6g) du Règlement sur l’assurance‑emploi puisque :
+a) l’appelante a placé les travailleuses dans un emploi afin qu’elles offrent leurs services au client;
+b) l’appelante agissait comme une agence de placement ou d’emploi;
+c) les travailleuses étaient sous la direction et le contrôle du client;
+d) l’appelante rémunérait les travailleuses.
+[3] Les hypothèses 8a), b), c), d), f), g), i), j), m), n), q), u) et w) n’ont pas été réfutées par la preuve.
+[4] La Cour est d’avis que l’ensemble du témoignage de Mme Chapple est vrai et elle l’accepte.
+[5] En particulier, elle a indiqué dans son témoignage que l’appelante et ses clients faisaient une distinction entre les travailleuses professionnelles, soient les infirmières autorisées (inf. aut.) et les infirmières auxiliaires autorisées (inf. aux. aut.), et ses autres travailleuses. Les travailleuses professionnelles étaient placées auprès de patients sans inspection ou directive de la part de l’appelante autres que les instructions contractuelles qu’elle recevait selon lesquelles les services d’une inf. aut. ou une inf. aux. aut. étaient requis. Ces exigences étaient acceptées comme le « type de service » (pièce R‑3) à être fourni, et les professionnelles placées auprès du client effectuaient l’entière évaluation des besoins du client sans la participation ou la supervision de l’appelante. Ces services professionnels étaient souvent payés par une certaine forme d’assurance‑maladie.
+[6] La majorité des patients étaient de niveau 3 ou 4 ou nécessitaient des soins palliatifs.
+[7] Les autres placements, soit ceux visant les aide‑infirmières, ne possédaient souvent pas de formation, sauf celle qu’offrait l’appelante. Elles ne détenaient pas de licence ni d’autres formes d’accréditation. Avant de les placer auprès d’un client, Mme Chapple évaluait personnellement les besoins et la situation du client et prescrivait les soins que la travailleuse devait offrir et concluait un contrat avec le client.
+[8] Mme Chapple a indiqué dans son témoignage que les taux de salaire des professionnelles étaient substantiellement plus élevés en raison de leurs titres et qualités et parce qu’elles n’étaient pas contrôlées par l’appelante ou le client. Au contraire, en tant que professionnelles, elles prenaient les décisions. La Cour considère que cela est vrai, parce qu’elles étaient habituellement chez le client et qu’elles n’étaient pas sous la direction d’un hôpital ou d’un médecin. Elles ont été embauchées de façon indépendante, et les rapports qu’elles présentaient à l’appelante et au service de santé régionale étaient des rapports professionnels et non ceux d’une personne suivant des directives. Cette conclusion établit une distinction entre ces professionnelles des infirmières autorisées dans les hôpitaux (Sheridan c. Canada, [1985] A.C.F. no 230 (C.A.F.)) et de celles contrôlées par le médecin d’un patient (Health Assist Registry of Toronto Inc. c. Canada [1996] A.C.I. no 203).
+[9] C’est à la lumière de ces conclusions que les autres hypothèses sont examinées de la façon suivante :
+8e) La question à trancher concerne l’identité de la personne qui a « embauché » les travailleuses : le client ou l’appelante. Apparemment, le client communique avec l’appelante pour obtenir les services d’une travailleuse appropriée, et l’appelante envoie la personne qui est disponible possédant les titres et qualités appropriés selon l’ordre de sa liste. Les non‑professionnelles sont évaluées. Le client paie l’appelante qui à son tour paie la travailleuse.
+8h) Les taux de salaire des professionnelles sont négociés entre l’appelante et ces dernières.
+8k) Lorsqu’une professionnelle est envoyée, cette dernière détermine le type de soins dont le client a besoin. Par ailleurs, Mme Chapple et le client déterminent le type de soins dont le client a besoin.
+8l) Les professionnelles ne reçoivent pas de directives ou d’instructions du client, mais les non-professionnelles en reçoivent.
+8o) Ce n’est pas vrai.
+8p) Cela est assujetti aux conclusions qui précèdent quant à la distinction entre les travailleuses professionnelles et les travailleuses non professionnelles.
+8r) Cela est faux dans la mesure où les uniformes, les honoraires et les autres frais professionnels ou de déplacement peuvent devoir être payés.
+8s) Cela est assujetti au point 8r).
+8t) Les travailleuses peuvent refuser des placements.
+8v) Cela est assujetti aux conclusions qui précèdent.
+8x) Le témoignage de Mme Chapple réfute le concept de « salaire » de cette hypothèse.
+[10] En utilisant les concepts présentés dans l’affaire Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (87 DTC 5025), la Cour conclut ce qui suit :
+Contrôle
+Les professionnelles n’étaient pas contrôlées. Les non‑professionnelles étaient contrôlées par l’appelante et le client.
+Outils
+L’appelante et le client ne fournissaient pas d’instruments. Les professionnelles possédaient les instruments dont elles avaient besoin dans le cadre de leurs fonctions professionnelles; les autres n’en avaient pas.
+Chance de profit, risque de perte
+Dans l’ensemble, le risque de perte consistait en un risque de ne pas être placé. Le profit consistait en ce qui était gagné par les professionnelles moins les dépenses normales.
+Intégration
+Soixante‑seize pour cent des personnes placées travaillaient ailleurs à plein temps. Ainsi, les travailleuses pouvaient aller et venir et n’étaient pas dépendantes de l’appelante, et cette dernière n’était pas dépendante des travailleuses. Chacune pouvait remplacer l’autre.
+[11] La question en litige dans les présents appels est la suivante :
+1. Dans le cadre de l’appel en matière d’assurance‑emploi, il s’agit de savoir si les travailleuses occupaient un emploi assurable en 2001 en vertu de l’alinéa 6g) du Règlement sur l’assurance‑emploi qui est ainsi rédigé :
+6. Sont inclus dans les emplois assurables, s'ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[…]
+g) l'emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l'agence, sous la direction et le contrôle de ce client, en étant rétribuée par l'agence.
+2. Dans le cadre de l’appel en matière du Régime de pensions du Canada, il s’agit de savoir si les travailleuses occupaient un emploi ouvrant droit à pension en 2001 en vertu de l’article 34 du Règlement sur Régime de pensions du Canada qui est ainsi rédigé :
+34. (1) Lorsqu'une personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d'un client de l'agence, et que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent, la fourniture des services est incluse dans l'emploi ouvrant droit à pension, et l'agence ou le client, quel que soit celui qui verse la rémunération, est réputé être l'employeur de la personne aux fins de la tenue de dossiers, de la production des déclarations, du paiement, de la déduction et du versement des contributions payables, selon la Loi et le présent règlement, par la personne et en son nom.
+(2) Une agence de placement comprend toute personne ou organisme s'occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération.
+[12] Ainsi, le Règlement diffère. La Cour conclut que l’appelante est responsable de payer les contributions visées par le Régime de pensions du Canada pour tous les placements en question selon l’article 34 cité.
+[13] Cependant, la Cour accepte le témoignage de Mme Chapple selon lequel les inf. aut. et les inf. aux. aut. n’étaient pas placées dans un emploi pour fournir des services à un client ou à l’agence ni n’étaient sous la direction du client ou de l’agence. L’appelante n’est donc pas responsable des cotisations d’assurance‑emploi les visant.
+[14] Ces questions sont renvoyées au ministre du Revenu national pour nouvel examen en conséquence.
+Signé à Saskatoon (Saskatchewan), ce 15e jour d’octobre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 22e jour de janvier 2004.
+Liette Girard, traductrice

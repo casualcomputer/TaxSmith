@@ -1,0 +1,182 @@
+Title: CRL Engineering Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/366252/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-65-366252-crl-engineering-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-03-27
+
+# CRL Engineering Ltd. c. La Reine
+
+- Citation: 2019 CCI 65
+- Decision date: 2019-03-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4316, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CRL Engineering Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-27
+Référence neutre
+2019 CCI 65
+Numéro de dossier
+2017-3016(IT)I, 2017-3018(IT)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3016(IT)I
+ENTRE :
+CRL ENGINEERING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+CRL Engineering Ltd. (2017-3018(IT)I),
+le 11 mai 2018 à Regina (Saskatchewan)
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Représentant de l’appelante :
+Raman Paranjape
+Avocat de l’intimée :
+Me David Smith
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel interjeté à l’égard de l’année d’imposition 2014 de l’appelante est accueilli, sans dépens, à la condition que le montant en litige ne soit pas réduit de plus de 25 000 $, conformément à l’article 18.1 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), c. T-2.
+L’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu de ce qui précède.
+Signé à Toronto (Ontario), ce 27e jour de mars 2019.
+« Guy R. Smith »
+Le juge Smith
+Dossier : 2017-3018(IT)I
+ENTRE :
+CRL ENGINEERING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de CRL Engineering Ltd. (2017-3016(IT)I), le 11 mai 2018 à Regina (Saskatchewan)
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Représentant de l’appelante :
+Raman Paranjape
+Avocat de l’intimée :
+Me David Smith
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel interjeté à l’égard de l’année d’imposition 2013 de l’appelante est accueilli, sans dépens, à la condition que le montant en litige ne soit pas réduit de plus de 25 000 $, conformément à l’article 18.1 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), c. T-2.
+L’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu de ce qui précède.
+Signé à Toronto (Ontario), ce 27e jour de mars 2019.
+« Guy R. Smith »
+Le juge Smith
+Référence : 2019 CCI 65
+Date : 20190327
+Dossiers : 2017-3016(IT)I
+2017-3018(IT)I
+ENTRE :
+CRL ENGINEERING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. Introduction
+[1] Il s’agit ici d’un appel à l’encontre des nouvelles cotisations établies par le ministre du Revenu national (le « ministre »), dans lesquelles il refuse la déduction réclamée par l’appelante pour des dépenses relatives à des activités de recherche scientifique et de développement expérimental (RS & DE) et les crédits d’impôt à l’investissement s’y rapportant, pour les années d’imposition 2013 et 2014.
+[2] La seule question en litige est de déterminer si les activités de l’appelante constituaient des activités de recherche scientifique et de développement expérimental, selon la définition du paragraphe 248(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985, c. 1 (5e suppl.) [la « Loi »].
+[3] Comme il a été souligné dans Zeuter Development Corporation c. La Reine, 2006 CCI 597, au paragraphe 20, cette question exige une analyse en deux volets. La première étape consiste à décider si les activités répondent à la définition d’activités de RS & DE. Si elles n’y répondent pas, l’appel doit être rejeté; cependant, s’il est déterminé que le projet dans son ensemble est admissible, les dépenses et les activités particulières doivent être examinées à la lumière des objectifs du projet.
+[4] Le paragraphe 248(1) contient la définition suivante :
+activités de recherche scientifique et de développement expérimental Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données. (scientific research and experimental development)
+[5] Comme l’a souligné le juge Hogan dans la décision 1726437 Ontario Inc. (AirMax Technologies) c. La Reine, 2012 CCI 376, au paragraphe 13, la définition prévue par la Loi est fondée sur un concept [traduction] « d’inclusion et d’exclusion », puisqu’elle inclut d’abord un large éventail d’activités de développement aux alinéas a) à d), suivies d’éléments qui sont exclus aux alinéas e) à k).
+[6] Dans la décision Northwest Hydraulic Consultants Limited c. Sa Majesté la Reine, 98 D.T.C. 1839, [1998] 3 C.T.C. 2520 (CCI) (« Northwest Hydraulics »), adoptée par la Cour d’appel fédérale dans l’arrêt R I S - Christie Ltd. c. Canada, [1999] 1 C.T.C. 132, 99 D.T.C. 5087 (CAF) (« RSI-Christie ») et dans l’arrêt CW Agencies Inc. c. Canada, 2001 CAF 393 (« CW Agencies »), le juge Bowman, tel était alors son titre, a énoncé les cinq critères suivants (résumés par la Cour d’appel fédérale dans l’arrêt C.W. Agencies, au paragraphe 17) pour faciliter l’analyse des activités de RS&DE :
+1. Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2. La personne qui prétend faire de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux?
+[7] On doit répondre par l’affirmative aux questions de ce « critère en cinq volets » : Lehigh Hanson Materials Limited c. La Reine, 2017 CCI 205, au paragraphe 37. En ce qui concerne le premier critère, le juge Bowman a précisé que l’expression « risque ou incertitude technologique » exigeait une incertitude qui « ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles » et que si « la résolution du problème est raisonnablement prévisible à l’aide de la procédure habituelle ou des études techniques courantes, il n’y a pas d’incertitude technologique ». L’expression « études techniques courantes » ferait référence « aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine » (au paragraphe 16).
+[8] En ce qui concerne le deuxième critère, le juge Bowman a indiqué (au paragraphe 16) qu’il comportait un processus en cinq étapes : i) l’observation de l’objet du problème; ii) la formulation d’un objectif clair; iii) la détermination et la formulation de l’incertitude technologique; iv) la formulation d’une hypothèse ou d’hypothèses destinées à réduire ou à éliminer l’incertitude; v) la vérification méthodique et systématique des hypothèses. Bien qu’il soit important de préciser l’« incertitude technologique » dès le début du projet, la détermination de nouvelles incertitudes technologiques au fur et à mesure que les recherches avancent, en ayant recours à une « méthode scientifique », fait partie intégrante du processus.
+[9] En ce qui concerne le troisième critère, le juge Bowman a précisé que « la créativité intuitive et même l’ingéniosité peuvent avoir un rôle crucial dans le processus », à condition que ces éléments existent dans le cadre de la méthode scientifique dans son ensemble, et que « [c]e qui peut sembler habituel et évident après coup ne l’était peut-être pas au début des travaux ». Ce qui est important, c’est « l’adoption de la méthode scientifique [...] dans son ensemble », en vue d’éliminer « une incertitude technologique au moyen de la formulation et de la vérification d’hypothèses innovatrices non vérifiées » (au paragraphe 16).
+[10] En ce qui concerne le quatrième critère, le juge Bowman a indiqué (au paragraphe 16) qu’il faisait référence à « un progrès en ce qui concerne la compréhension générale [...] pour les personnes qui s’y connaissent dans le domaine » et que « [l]e rejet, après l’essai d’une hypothèse, constitue néanmoins un progrès en ce sens qu’il élimine une hypothèse jusque là non vérifiée », ajoutant qu’il est possible que l’échec même renforce « le degré d’incertitude technologique ».
+[11] Le cinquième critère est inclus dans la notion de « méthode scientifique ». Une fois de plus, le juge Bowman a précisé qu’« un compte rendu détaillé des hypothèses, des essais et des résultats, doi[t] être fait, et ce, au fur et à mesure de l’avancement des travaux » (au paragraphe 16), même si la Loi et son règlement d’application ne le prévoient pas expressément. Cela semble évident, puisque l’expression « investigation systématique » apparaît au début de la définition.
+[12] Le juge Bowman a indiqué (au paragraphe 11) qu’en général « la recherche scientifique comporte des progrès graduels et, de fait, infimes. Les réussites spectaculaires sont rares et ne constituent qu’une partie infime des résultats de la RS & DE au Canada », avant de conclure que « [l]es stimulants fiscaux accordés à ceux qui se livrent à la RS & DE visent à encourager la recherche scientifique au Canada » et que la législation concernant pareils stimulants « s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet », conformément à l’article 12 de la Loi d’interprétation, L.R.C., 1985, c. I­21.
+II. Éléments de preuve
+[13] L’appelante est une firme d’ingénierie spécialisée dans le développement d’une technologie liée au transport public. Elle a été constituée en société en septembre 2009.
+[14] M. Raman Paranjape, directeur général de l’appelante, a témoigné à l’audience. Il détient un doctorat (Ph. D.) en génie et enseigne le génie des systèmes électriques à l’Université de Regina. Le directeur de l’exploitation de l’appelante, M. Craig M. Gelowitz, détient également un doctorat en génie. Il était présent durant toute l’audience, mais n’a pas témoigné.
+[15] L’appelante a commencé ses activités de RS & DE dès 2010 et elles étaient en cours durant les années d’imposition visées. L’appelante explique que ses activités portent sur un [traduction] « Modèle de prédiction de l’arrivée en temps réel des véhicules pour TransitLive (le « projet »). Elles visaient le développement d’un système internet faisant appel à des algorithmes et aux données du système mondial de localisation (« GPS ») pour fournir des données exactes en temps réel sur les bus du transport public.
+1. Existait-il un risque ou une incertitude technologique?
+[16] L’appelante a affirmé que le projet visait à [traduction] « mettre au point une plateforme de calcul multiple physiquement distribué et faisant appel à des systèmes de calcul universels pour créer, communiquer, intégrer, analyser et transmettre des données dynamiques, en temps réel, aux utilisateurs et aux administrateurs des réseaux de transport » et que l’incertitude technologique était liée à la question de savoir si « des systèmes de calcul autonomes reposant sur des unités de calcul universelles pourraient être déployés avec efficacité afin de fournir des renseignements exacts et en temps réel aux utilisateurs et aux administrateurs des réseaux de transport en situation réelle ». On a affirmé que l’utilisation de [traduction] « systèmes de calcul universels » à cette fin était ce qui créait [traduction] « une incertitude scientifique réelle ».
+[17] L’intimée allègue qu’il n’existait pas d’incertitude scientifique et que le projet comporte l’utilisation d’une technologie existante, soit un système mondial de localisation ou « GPS », et des études techniques courantes ou, comme il est mentionné à l’alinéa f) de la définition « la mise à l’essai normale des matériaux, dispositifs, produits ou procédés ».
+[18] Je souligne que l’appelante n’a pas fait référence à une disposition particulière de la définition d’activités de RS & DE, mais que l’alinéa b), mentionné précédemment, porte sur « la recherche appliquée [...] pour l’avancement de la science avec application pratique en vue » et que l’alinéa c) porte sur « le développement expérimental [...] dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère de ceux qui existent ». En outre, l’alinéa d) porte sur les « travaux entrepris [...] relativement aux travaux de génie, à la conception, à la recherche opérationnelle [...], lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada [...] et servent à les appuyer directement ». [Non souligné dans l’original.]
+[19] Tout bien pesé, j’estime que l’intimée a adopté une interprétation trop étroite de ces dispositions et des critères soulignés plus haut, et que les objectifs visés par l’appelante comportaient une incertitude suffisante durant les années visées. Si j’avais examiné les éléments de preuve en fonction des outils qui sont largement connus et auxquels ont accès les consommateurs et les utilisateurs des transports publics d’aujourd’hui, j’en serais probablement arrivé à une conclusion autre. Ainsi, je conclus que le projet de l’appelante comportait beaucoup plus que « le contrôle de la qualité ou la mise à l’essai normale [...] », éléments qui sont exclus aux termes de l’alinéa f) de la Loi, et qu’il existait « un risque ou une incertitude technologique ».
+2. L’appelante a-t-elle formulé une hypothèse visant expressément à réduire ou à éliminer cette incertitude technologique?
+[20] Une hypothèse peut être décrite comme une réponse provisoire et vérifiable à une question scientifique. Elle a été décrite comme « une supposition ou une explication provisoire en ce qui concerne un problème de nature inconnue » et « en règle générale, cette incertitude est résolue par un plan logique conçu pour observer et résoudre le problème hypothétique » : Maritime-Ontario Freight Lines Limited c. La Reine, 2003 CCI 674, au paragraphe 14 (« Maritime »).
+[21] L’appelante a expliqué que son [traduction] « hypothèse principale » portait sur la question de savoir si [traduction] « des systèmes de calcul autonomes reposant sur des unités de calcul universelles [pouvaient] être déployés avec efficacité afin de fournir des renseignements exacts et en temps réel aux utilisateurs et aux administrateurs des réseaux de transport en situation réelle ». L’intimée allègue que le projet comportait une série de tâches non apparentées et non connectées et qu’il n’existait pas d’hypothèse réelle.
+[22] Même si l’hypothèse semble formulée davantage comme une question que comme une hypothèse, j’estime que l’appelante avait « un plan logique conçu pour observer et résoudre le problème hypothétique » et que, par conséquent, le critère est satisfait.
+3. La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+[23] L’appelante indique qu’elle a installé et surveillé [traduction] « un ensemble d’unités de calcul sur des véhicules de transport [...] afin de voir comment le système pourrait fonctionner », et qu’elle a inclus diverses itérations d’un code afin de vérifier certains aspects du système d’exploitation, lequel était [traduction] « régulièrement mis à jour, afin d’évaluer des options successivement et progressivement plus complexes [...] et d’examiner les solutions de rechange ». L’appelante affirme que les activités menées constituaient une [traduction] « investigation progressive et systématique », et comportaient notamment des ajustements à la sous-hypothèse, suivis de nouveaux essais et d’une documentation.
+[24] Conformément aux arguments donnés plus haut, l’intimée a maintenu que les activités comportaient une série de tâches non apparentées, avec des [traduction] « buts techniques et des objectifs différents » qui ne pouvaient être considérées comme des activités de RS & DE. L’idée de base de cet argument était une fois de plus que les activités consistaient en « la mise à l’essai normale » de dispositifs ou processus.
+[25] Je ne suis pas d’accord et j’estime que l’appelante a appliqué la méthode scientifique et que ses activités étaient structurées de manière à éliminer une incertitude technologique grâce à la formulation et à l’essai de son hypothèse. Par conséquent, tout bien pesé, je conclus que l’appelante a satisfait à ce critère.
+4. Le processus a-t-il abouti à un progrès technologique?
+[26] L’appelante a affirmé que ses activités [traduction] « visaient à comprendre la nature et les caractéristiques de systèmes à calculs multiples universels et physiquement distribués dans un environnement hostile et exigeant ». Les résultats obtenus ont été publiés dans une revue savante (pièce A­2), même si l’appelante a concédé que ses activités de recherche étaient toujours en cours. Elle a affirmé que sa recherche servait de [traduction] « rampe de lancement à de nouvelles réalisations dans le calcul distribué ».
+[27] Comme il a été souligné précédemment, l’alinéa d) de la définition d’activités de RS & DE inclut « les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent. [Non souligné dans l’original.]
+[28] La ligne est nécessairement mince entre un « progrès technologique » ou une « amélioration, même légère » aux matériaux, dispositifs, produits ou procédés qui existent. Cela laisse croire que l’appelante n’a pas à prouver que ses activités étaient nouvelles, mais plutôt qu’elles constituaient une amélioration, même légère, à la technologie existante.
+[29] Tout bien pesé, je conclus que l’appelante a satisfait à ce critère.
+5. Des comptes rendus détaillés ont-ils été faits à mesure que les travaux avançaient?
+[30] Le témoin de l’appelante a expliqué que [traduction] « des instantanés du système ont été enregistrés chaque semaine et conservés dans un répertoire de documents » qui était accessible et régulièrement consulté. Il a aussi affirmé qu’un « wiki » a été utilisé pour [traduction] « consigner les données, méthodes, questions et résultats ». Les éléments de preuve documentaire, notamment les pièces A­1 et A­3, appuyaient le témoignage de M. Paranjape sur cette question.
+[31] Tout bien pesé, je conclus que l’appelante a satisfait à ce critère.
+III. Conclusion
+[32] En fonction des éléments de preuve testimoniale et documentaire présentée à l’audience, la Cour estime que l’appelante a satisfait au critère en cinq volets décrit dans la jurisprudence et qu’elle a mené des activités de RS & DE durant les années d’imposition visées.
+[33] Tout au long de la présente analyse, j’ai utilisé l’expression « tout bien pesé », afin d’indiquer que la Cour était convaincue que l’appelante avait réfuté les hypothèses du ministre. Cela rend simplement l’idée que le fardeau de la preuve incombe à l’appelante qui doit démontrer ce qu’elle avance, selon la prépondérance des probabilités, et non hors de tout doute raisonnable, qui constitue une norme plus élevée qui ne s’applique pas aux appels qu’entend notre Cour.
+[34] Par conséquent, les appels sont accueillis, à condition que, compte tenu du choix exprimé par l’appelante d’utiliser la procédure informelle, les montants en litige ne soient pas réduits de plus de 25 000 $ par année d’imposition, conformément à l’article 18.1 de la Loi sur la Cour canadienne de l’impôt, L.R.C. (1985), c. T-2.
+Signé à Toronto (Ontario), ce 27e jour de mars 2019.
+« Guy R. Smith »
+Le juge Smith
+RÉFÉRENCE :
+2019 CCI 65
+NOS DES DOSSIERS DE LA COUR :
+2017-3016(IT)I 2017-3018(IT)I
+INTITULÉ :
+CRL ENGINEERING LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Regina (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 11 mai 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 27 mars 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Raman Paranjape
+Avocat de l’intimée :
+Me David Smith
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

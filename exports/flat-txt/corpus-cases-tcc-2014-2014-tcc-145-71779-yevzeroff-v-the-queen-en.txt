@@ -1,0 +1,123 @@
+Title: Yevzeroff v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71779/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-145-71779-yevzeroff-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-05-13
+
+# Yevzeroff v. The Queen
+
+- Citation: 2014 TCC 145
+- Decision date: 2014-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5375, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yevzeroff v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-13
+Neutral citation
+2014 TCC 145
+File numbers
+2013-2836(GST)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-2836(GST)I
+BETWEEN:
+BERNARD YEVZEROFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 8, 2014 at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alisa Apostle
+JUDGMENT
+In accordance with the reasons delivered orally at the hearing (a copy of which is attached hereto), the appeal from the assessments made under Part IX of the Excise Tax Act for the periods July 1, 2010 to September 30, 2010, October 1, 2010 to December 31, 2010, April 1, 2011 to June 30, 2011 October 1, 2011 to December 31, 2011, by Notices of Assessment dated March 21, 2011, May 9, 2011, September 2, 2011 and February 22, 2012, respectively, is dismissed on the basis that the Minister of National Revenue correctly assessed the Appellant to disallow input tax credits in the amount of $2,614.36 for the periods.
+IT IS FURTHER ORDERED that the Appellant shall pay costs to the Respondent in the amount of $1,000 within 45 days from the date of this Judgment.
+Signed at Ottawa, Canada this 13th day of May 2014.
+“Patrick Boyle”
+Boyle J.
+Docket: 2013-2836(GST)I
+BETWEEN:
+BERNARD YEVZEROFF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+Let the attached edited transcript of the Reasons for Judgment delivered orally from the Bench at Toronto, Ontario on April 8, 2014 be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Ottawa, Canada this 13th day of May 2014.
+“Patrick Boyle”
+Boyle J.
+Citation: 2014 TCC 145
+Date: 20140513
+Docket: 2013-2836(GST)I
+BETWEEN:
+BERNARD YEVZEROFF
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Appeal heard and decision rendered orally from the Bench
+on April 8, 2014 at Toronto, Ontario.)
+Boyle J.
+[1] Mr. Yevzeroff's appeal today is in respect of input tax credits on GST for periods in 2010 and 2011, and includes some previously unclaimed ITCs from 2008 and 2009.
+[2] He had a prior appeal in front of Justice Lamarre, decided last year, dealing with the first quarter of 2011. The periods before me today are on either side of the period before Justice Lamarre.
+[3] The appeal today includes a number of Canada Post inputs, and a number of Beaches Paralegal inputs, that were already before Justice Lamarre in the 2013 decision.
+[4] Justice Lamarre dismissed the appeal, and was not satisfied that the taxpayer's activities were sufficiently commercial. She also thought his expenses were not reasonable, and were excessive relative to his activities.
+[5] In his appeal in front of Justice Lamarre, Mr. Yevzeroff also had an ITC claim for a software and support expense of approximately $50,000, that claim is not before me. However, he has, before me, made a comparable amount claim for ITC on vehicle expenses, of approximately the same amount as the Tarox International software and support ITC before Justice Lamarre. These automobile expenses were not before Justice Lamarre.
+[6] Unfortunately for Mr. Yevzeroff, I am dismissing his appeal. My reasons are not dissimilar to Justice Lamarre's. The evidence before me today still does not satisfy the Court that his tax representation activities is a commercial activity, as defined for ITC purposes.
+[7] His ITC claims, as made, are clearly excessive, an unreasonable amount relative to his very modest revenues from his tax representation activity.
+[8] Further, there are credibility concerns with the taxpayer and his documents. He denied he was the Ben Yevzeroff in a fax header, or that he had a fax machine, until it was pointed out to him that this same header appears on the Notice of Appeal he filed. Several documents misspell Yonge Street in the same manner as he did in his Notice of Appeal.
+[9] Further, it would be entirely inappropriate for me to allow the same Beaches Paralegal claim, and the same Canada Post claims, to be relitigated, much less to be decided in the taxpayer's favour. Mr. Yevzeroff's attempt to do so is an abuse of the process of this Court.
+[10] Further, the vehicle expense claim is entirely based upon a CRA published ITC allowance for those receiving tax free vehicle allowances. Mr. Yevzeroff is not such a person; he did not receive such an allowance. He used his own vehicle in his activity, he kept logs to the very kilometre, but he did not tell the Court what his vehicle expenses were.
+[11] Further, his ITC claim for a vehicle expense suggests he drove almost 40,000 kilometres in the two years for tax representation activities, and his input vehicle expenses were many times the approximately $2,500 of gross revenue generated by his tax representation activities in those periods.
+[12] To the extent invoices for the supplies weren’t before the Court, the taxpayer has not satisfied the prescribed information requirements for ITC claims in respect of those supplies.
+[13] For all of these reasons, Mr. Yevzeroff's appeal is dismissed. This is an informal appeal, however the Court is entitled to regulate its processes, including curtailing abuses of process, and awarding costs against those who seek to abuse our processes.
+[14] In the circumstances, I am awarding costs against Mr. Yevzeroff of $1,000 payable to the Respondent within 45 days.
+[15] Further, Mr. Yevzeroff, please be aware that if you try to relitigate this yet again, this Court has the power to bar you from filing anything further in this Court without leave of the Court.
+Signed at Ottawa, Canada this 13th day of May 2014.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2014 TCC 145
+COURT FILE NO.:
+2013-2836(GST)I
+STYLE OF CAUSE:
+BERNARD YEVZEROFF AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 8, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+May 13, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alisa Apostle
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

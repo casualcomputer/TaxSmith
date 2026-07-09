@@ -1,0 +1,120 @@
+Title: Burke v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520994/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-116-520994-burke-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-10-11
+
+# Burke v. The King
+
+- Citation: 2022 TCC 116
+- Decision date: 2022-10-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5796, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burke v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-10-11
+Neutral citation
+2022 TCC 116
+File numbers
+2020-1112(IT)I
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-1112(IT)I
+BETWEEN:
+TIMOTHY RAYMOND BURKE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion to quash the appeal in respect of the
+2011, 2012 and 2013 taxation years heard on October 5, 2022 at
+Ottawa, Ontario
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Grace Jothiraj
+JUDGMENT
+After having heard the Respondent’s motion to quash the Appellant’s appeal in respect of the 2011, 2012 and 2013 taxation years:
+THIS COURT ORDERS that the Appellant’s appeal with respect to the 2011, 2012 and 2013 taxation years be quashed.
+No costs are awarded.
+Signed at Ottawa, Canada, this 11th day of October 2022.
+“J.M. Gagnon”
+Gagnon J.
+Citation: 2022 TCC 116
+Date: 20221011
+Docket: 2020-1112(IT)I
+BETWEEN:
+TIMOTHY RAYMOND BURKE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Gagnon J.
+I. Introduction
+[1] The Appellant, Timothy Raymond Burke, has instituted an appeal under the informal procedure in respect of assessments made under the Income Tax Act for the 2011, 2012 and 2013 taxation years. The issue under appeal concerns withholding tax under Part XIII of the Income Tax Act on withdrawals from the Appellant’s Registered Retirement Savings Plan.
+[2] Before this Court is a preliminary motion brought by the Respondent for an order requesting that the appeals for the 2011, 2012 and 2013 taxation years be quashed.
+[3] The grounds for the Respondent’s motion are that the Appellant has not served on the Minister of National Revenue, pursuant to subsection 165(1) of the Income Tax Act, a valid notice of objection against the assessments, as required by subsection 169(1) of the Income Tax Act.
+[4] Subsection 169(1) of the Income Tax Act provides:
+169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been sent to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[5] In support of its position, the Respondent filed an affidavit of Peter Gabris, a Litigation Officer with the Canada Revenue Agency. The affidavit states in part:
+1. I am a Litigation Officer with the Canada Revenue Agency (the “Agency”) and as such have charge of the appropriate records and knowledge of the practice of the Agency.
+2. I have examined the records relating to the Appeal of TIMOTHY RAYMOND BURKE and as such have knowledge of the matters hereinafter deposed to.
+3. The Minister of National Revenue (the “Minister”) assessed the Appellant for the 2011, 2012, and 2013 taxation years and the Notices of Assessment were concurrently dated March 13, 2020. Attached hereto as EXHIBIT “A” to this affidavit are reproductions of said Notices of Assessment.
+[…]
+6. The 90th day following the mailing date of the Notices of Assessment for the 2011, 2012, and 2013 taxation years was June 11, 2020.
+7. After a careful examination and search of the records of the Agency, I have been unable to find that Notices of Objection with respect to the assessments for the 2011, 2012, and 2013 taxation years were received on or before June 11, 2020.
+8. One year after the last day for serving a Notice of Objection for the 2011, 2012, and 2013 taxation years was June 11, 2021.
+9. After a careful examination and search of the records of the Agency, I have been unable to find that an application for an extension of time within which to serve the Minister with Notices of Objection, with respect to the assessments for the 2011, 2012, and 2013 taxation years, has been received by the Agency.
+[6] Also in support of its position, the Respondent introduced into evidence a notice of assessment dated March 13, 2020 for each of the 2011, 2012 and 2013 taxation years. The Appellant admitted having received the assessments.
+Discussion
+[7] It is clear that an appeal may not be instituted under subsection 169(1) of the Income Tax Act unless a notice of objection has been served with the Minister of National Revenue. [1]
+[8] The Appellant was honest and transparent in exposing his position. He admitted not having served a notice of objection with the Minister of National Revenue. The only document he filed was a notice of appeal before the Tax Court of Canada. If he had known at the time, he would have complied with the applicable rules of the Income Tax Act and served a valid notice of objection. But unfortunately, he did not. Ignorance of the law is of no assistance in this case. [2]
+[9] The position the Appellant exposed combined with the position exposed by the Respondent leave no doubt on the absence of a valid notice of objection being served with respect to the assessments before this Court. This is fatal.
+[10] Therefore, considering the foregoing, I conclude that the appeal with respect to the 2011, 2012 and 2013 taxation years before this Court shall be quashed.
+[11] Each party shall bear their own costs in respect of this motion.
+Signed at Ottawa, Canada, this 11th day of October 2022.
+“J.M. Gagnon”
+Gagnon J.
+CITATION:
+2022 TCC 116
+COURT FILE NO.:
+2020-1112(IT)I
+STYLE OF CAUSE:
+TIMOTHY RAYMOND BURKE AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+October 5, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+October 11, 2022
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Grace Jothiraj
+COUNSEL OF RECORD:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See, e.g., Bormann v. The Queen, 2006 FCA 83.
+[2] See, e.g., Corporation de l'École Polytechnique v. Canada, 2004 FCA 127 and John Robertson v. Her Majesty the Queen, 2015 TCC 246.

@@ -1,0 +1,242 @@
+---
+title: "SIP Distribution Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30497/index.do"
+last_modified: "2011-09-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 423"
+citation2: ""
+neutral_citation: "2011 CCI 423"
+decision_date: "2011-09-13"
+language: "fr"
+item_id: "30497"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7237
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:38:24.457000+00:00"
+cases_cited_count: 11
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aafd9b00285bde33763a53448d15b7f182e215311c6d484aa9242368ba4638f4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# SIP Distribution Inc. c. M.R.N.
+
+- Citation: 2011 CCI 423
+- Decision date: 2011-09-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7237, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SIP Distribution Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-13
+Référence neutre
+2011 CCI 423
+Numéro de dossier
+2011-1452(EI), 2011-1453(CPP)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-1452(EI)
+ENTRE :
+SIP DISTRIBUTION INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec l’appel de
+SIP Distribution Inc. (2011-1453(CPP)),
+le 25 août 2011, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Peter McGee
+Avocat de l’intimé :
+Me Kristian DeJong
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de la Loi sur l’assurance-emploi de la décision rendue par le ministre du Revenu national le 8 avril 2011 est accueilli sans frais, et la décision du ministre est modifiée et elle portera qu’au cours de la période allant du 17 mars au 17 décembre 2008, Erin Hrushowy n’exerçait pas
+auprès de l’appelante un emploi assurable pour l’application de la Loi sur l’assurance-emploi.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour de novembre 2011.
+François Brunet, réviseur.
+Dossier : 2011-1453(CPP)
+ENTRE :
+SIP DISTRIBUTION INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec l’appel de
+SIP Distribution Inc. (2011-1452(EI)),
+le 25 août 2011, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Peter McGee
+Avocat de l’intimé :
+Me Kristian DeJong
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du Régime de pensions du Canada de la décision rendue par le ministre du Revenu national le 8 avril 2011 est accueilli sans frais, et la décision du ministre est modifiée et elle portera qu’au cours de la période allant du 17 mars au 17 décembre 2008, Erin Hrushowy n’occupait pas
+auprès de l’appelante un emploi ouvrant droit à pension pour l’application du Régime de pensions du Canada.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour de novembre 2011.
+François Brunet, réviseur.
+Référence : 2011CCI423
+Date : 20110913
+Dossiers : 2011-1452(EI)
+2011-1453(CPP)
+ENTRE :
+SIP DISTRIBUTION INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelante a interjeté appel de la décision rendue par le ministre du Revenu national selon laquelle, aux fins de la Loi sur l’assurance-emploi et du Régime de pensions du Canada, Erin Hrushowy était l’employée de l’appelante au cours de la période allant du 17 mars au 17 décembre 2008.
+[2] L’appelante est une filiale à cent pour cent de GreenWorks Building Supply Inc. L’appelante a été constituée à titre de distributeur en vue d’importer de grosses quantités de matériaux de construction et de les vendre ensuite à GreenWorks Building Supply Inc. et à d’autres détaillants. Les initiales « SIP » sont l’abréviation de « Sustainable Innovative Products ». Au moment où Erin Hrushowy fut embauchée, l’appelante voulait informer les milieux de l’architecture et du design au Canada que les produits qu’elle distribuait étaient disponibles.
+[3] Les fonctions d’Erin Hrushowy se rapportaient initialement à la commercialisation et à des projets, mais, avec le temps, Erin Hrushowy a assumé un plus grand nombre de fonctions administratives. Le bureau de l’appelante était petit. Seuls Peter McGee et Erin Hrushowy travaillaient au bureau et Peter McGee s’absentait du bureau pendant au moins vingt-cinq pour cent du temps. L’appelante ne faisait pas affaire avec le grand public.
+[4] La question de savoir si l’intéressé est employé ou s’il est plutôt entrepreneur indépendant a été examinée par la jurisprudence. Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. 61, 2001 CSC 59, (« Sagaz »), le juge Major, de la Cour suprême du Canada, a fait les observations suivantes :
+46 À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [TRADUCTION] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme – en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door, p. 563 – qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[TRADUCTION] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services [...] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[5] Dans l’affaire Royal Winnipeg Ballet c. Ministre du Revenu national, 2006 CAF 87, 2006 DTC 6323, les danseurs et la compagnie de ballet avaient une intention commune : les danseurs seraient embauchés à titre d’entrepreneurs indépendants. La Cour d’appel fédérale a examiné les faits pertinents de l’affaire compte tenu des facteurs énumérés dans l’arrêt Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 2 C.T.C. 200, 87 DTC 5025 (« Wiebe Door »). La majorité des juges de la Cour d’appel fédérale ont conclu que les faits pertinents, dans cette affaire‑là, ne changeaient pas les rapports prévus entre les danseurs et le Royal Winnipeg Ballet et que les danseurs étaient des entrepreneurs indépendants. Dans l’arrêt Royal Winnipeg Ballet, la juge Sharlow, de la Cour d’appel fédérale, a fait les observations suivantes au nom de la majorité des juges de la cour :
+[65] Le juge a retenu les facteurs énoncés ci-dessous pour effectuer l’analyse exposée dans l’arrêt Wiebe Door (il n’est pas suggéré qu’il a utilisé des facteurs non pertinents ou qu’il a omis de tenir compte de facteurs pertinents).
+. L’élément indispensable de l’expression artistique individuelle appartient nécessairement aux danseurs. Le RWB choisit les œuvres qui seront exécutées, décide de l’heure et du lieu des représentations et des répétitions, attribue les rôles, fournit la chorégraphie et dirige les représentations.
+. Les danseurs n’ont aucune responsabilité en matière de gestion ou d’investissement pour ce qui est du travail qu’ils effectuent pour le RWB.
+. Les danseurs n’assument pratiquement aucun risque financier pour le travail qu’ils effectuent pour le RWB pendant la saison pour laquelle ils ont été engagés. Cependant, le RWB ne les engage que pour une seule saison et ils n’ont aucune garantie d’être engagés à nouveau la saison suivante.
+. Les danseurs ont la possibilité de faire quelques bénéfices, même lorsqu’ils sont engagés par le RWB, dans la mesure où ils peuvent négocier une rémunération supplémentaire par rapport à celle que prévoit le Canadian Ballet Agreement. Cependant, l’essentiel de la rémunération versée par le RWB est basé sur l’ancienneté et il est rare qu’on s’écarte de ce barème.
+. La carrière d’un danseur est susceptible d’être gérée, en particulier à mesure que le danseur acquiert de l’expérience. Les danseurs engagés par le RWB ont une grande latitude lorsqu’il s’agit d’accepter des engagements avec d’autres compagnies de ballet, même s’ils doivent respecter des restrictions contractuelles importantes (la nécessité d’obtenir le consentement du RWB et l’obligation de se présenter comme étant engagés par le RWB).
+. Les danseurs payent de leur poche de nombreux frais liés à leur engagement par le RWB et leur carrière de danseur en général, mais le RWB est tenu de fournir les chaussons, les costumes, les collants, les perruques et certains autres articles nécessaires.
+. Il incombe aux danseurs de demeurer en bonne forme physique pour pouvoir exécuter les rôles qui leur sont attribués. Le RWB est toutefois tenu, en vertu du contrat, de fournir certains avantages liés à la santé et de prévoir des périodes de réchauffement.
+[66] Dans la présente affaire, comme dans la plupart des affaires d’ailleurs, le facteur du contrôle mérite une attention particulière. Il me semble que le RWB exerce un contrôle étroit sur le travail des danseurs, mais ce contrôle ne dépasse pas ce qu’exige la présentation d’une série de ballets pendant une saison de spectacles bien planifiée. Si le RWB devait présenter un ballet en ayant recours à des artistes invités pour tous les rôles principaux, le contrôle qu’exercerait le RWB sur les artistes invités serait le même que si tous ces rôles étaient exécutés par des danseurs engagés pour la saison. Si l’on accepte (comme on doit le faire) le fait qu’un artiste invité peut accepter un rôle au sein du RWB sans pour autant devenir son employé, il faut en déduire que le facteur du contrôle exercé doit être compatible avec le fait que l’artiste invité est un entrepreneur indépendant. Il s’ensuit donc qu’on ne peut raisonnablement considérer comme incompatible avec l’intention des parties d’attribuer aux danseurs le statut d’entrepreneur indépendant le contrôle exercé en l’espèce sur les danseurs.
+[67] Le même raisonnement s’applique à tous les facteurs, considérés dans leur ensemble, dans le contexte de la nature des activités qu’exerce le RWB et du travail qu’exécutent les danseurs engagés par le RWB. À mon avis, dans la présente affaire, la façon dont les parties interprétaient la nature de leur relation juridique est étayée par les clauses contractuelles et les autres faits pertinents.
+[6] Dans l’arrêt D.W. Thomas Holdings Inc. c. Ministre du Revenu national, 2009 CAF 371, la juge Layden-Stevenson a fait les observations suivantes au nom de la Cour d’appel fédérale :
+[5] Contrairement à ce que soutient l’appelante, la juge Miller a examiné la question de l’intention. En suivant la démarche énoncée dans l’arrêt Royal Winnipeg Ballet c. Canada (Ministre du Revenu national), [2007] 1 R.C.F. 35 (CAF), elle a examiné la preuve afin de déterminer si elle étayait l’intention de l’appelante et a conclu par la négative.
+[7] L’appelante soutient qu’elle avait convenu avec Erin Hrushowy que celle‑ci serait embauchée à titre d’entrepreneur indépendant. Voici un extrait du témoignage rendu par Erin Hrushowy lorsqu’elle a été interrogée par Peter McGee :
+[traduction]
+Q. D’accord. À l’alinéa 3a) du questionnaire, vous dites que la relation était une relation payeur-employée. Lorsque vous avez été embauchée, avez-vous convenu d’être embauchée à titre d’entrepreneur?
+R. Oui. Il a été question d’avoir sa propre entreprise et de travailler à forfait. Je ne crois pas qu’il ait été question d’entrepreneur indépendant à ce moment‑là. Nous en avons parlé. Il y a eu plusieurs discussions avant la conclusion de l’entente aux termes de laquelle je devais être embauchée par SIP. Et – oui, je dirais que lorsque j’ai été embauchée, telle était l’entente.
+Q. Par conséquent, pourquoi avez-vous dit, à l’alinéa 3a), qu’il s’agissait d’une entente entre un payeur et une employée? J’aimerais simplement le savoir. Je vous demande pourquoi, à l’alinéa 3a) du questionnaire, il est dit que la relation de travail était une relation payeur-employée, alors que vous venez de dire que vous étiez embauchée à forfait.
+R. Nous nous sommes également entendus pour faire le point, au bout de trois mois, sur la situation. Étant donné que l’entreprise en était à ses débuts, je me rappelle que vous avez dit que vous ne saviez pas exactement comment les choses allaient se passer, de sorte que nous allions procéder ainsi. Avec le temps, les choses ont changé, c’est ce que je pensais. Par conséquent, en fin de compte, le travail, chez SIP, était bien différent de ce dont nous avions initialement convenu.
+Q. Mais vous convenez que pendant un certain temps, le travail était sans aucun doute effectué à forfait?
+R. Pendant un certain temps. Mais je n’en suis pas certaine. Il n’y avait pas – la période au bout de laquelle cela aurait pu se passer n’était pas déterminée parce que, au bout de trois mois, nous ne nous sommes pas rencontrés afin de faire le point sur la situation. Il en a donc peut-être été ainsi pendant un certain temps. Mais en même temps –
+Q. Mais n’aviez-vous donc pas convenu, lorsque vous avez été embauchée, que vous alliez travailler à forfait?
+R. Au moment de l’embauchage? Oui.
+Q. Par conséquent, selon vous, cela a-t-il duré une minute, une semaine, ou trois mois, ou encore six mois? Pendant combien de temps? Je veux simplement – j’essaie de savoir où et quand ce dont vous aviez convenu a cessé de s’appliquer et où et quand votre relation est devenue une relation avec un employeur – pardon, la relation payeur-employée dont vous avez fait mention à l’alinéa 3a).
+R. Eh bien, je ne puis – je ne sais pas si je peux donner une réponse définitive sur ce point. Je ne puis donner une réponse claire et nette.
+[8] Voici un extrait de l’interrogatoire d’Erin Hrushowy par l’avocat de l’intimée :
+[traduction]
+Q. Vous avez déclaré lors de l’interrogatoire principal que vous aviez convenu d’agir à titre d’entrepreneur indépendant lorsque vous avez été embauchée. Quelle était votre intention lorsque vous avez été embauchée? Quelle était votre qualité selon vous?
+R. Initialement, lorsque nous avons eu cette conversation, au sujet de la question de l’« entrepreneur indépendant », les expressions « travailleur autonome » et « propriétaire de sa propre entreprise » m’étaient plus familières. Et je n’avais jamais auparavant travaillé en cette qualité. Par conséquent, Pete et moi avions en passant parlé de son expérience lorsqu’il s’était agi de faire cela, que c’était une fort bonne chose, de sorte que l’idée que j’étais – au départ, je ne comprenais pas bien ce qu’était un « travail à forfait ». Lorsque je travaillais auparavant, je travaillais à forfait, mais j’étais rémunérée, j’avais signé un contrat, les impôts étaient déduits, les cotisations à l’AE, au RPC, étaient déduites. Par conséquent, en travaillant à forfait, je croyais comprendre – avec SIP, que je serais au départ responsable des paiements. Et avec le temps, tout a commencé à se dérouler de plus en plus vite, et le rythme des jours et des communications en ce qui concerne – tout semblait changer. Et ensuite – bon, je vais m’arrêter. Je parle pour ne rien dire.
+Q. Vous avez mentionné que dans le contrat antérieur – vous aviez antérieurement conclu un contrat, mais vous avez ensuite mentionné que vous versiez les cotisations au RPC et à l’AE. Pourriez-vous nous en dire un peu plus?
+R. C’était – je travaillais pour Granville Island SCHL et il s’agissait d’un contrat temporaire dans le cadre duquel nous organisions une nouvelle manifestation, de sorte que j’ai travaillé pendant trois mois peut-être, et le contrat a été prorogé pour une période de deux semaines, mais c’était – cela ressemblait davantage à un travail temporaire. Je travaillais comme employée au cours de cette période, pour ainsi dire, une employée de la SCHL, ou j’étais considérée comme une employée.
+[9] Par la suite, Erin Hrushowy a déclaré ce qui suit :
+[traduction]
+R. C’est fort intéressant – il est difficile d’expliquer tout ce qui s’est passé. Pour résumer – pour résumer toute la dynamique et la façon dont les choses se sont pour ainsi dire transformées en autre chose.
+Au départ, il y avait toutes sortes d’intentions, et il a semblé que la situation a complètement changé, et c’est pourquoi – comme vous le savez, les gens se rappellent les choses différemment. Je ne me rappelle pas les choses de la même façon que Pete. Mais en fin de compte, après avoir parlé à un comptable – je ne savais pas comment faire la demande lorsqu’est venu le temps de payer les impôts. J’ai parlé à un comptable, et les choses ont commencé à aller dans ce sens. Je m’y perdais. Il n’y avait pas de déductions, de sorte qu’il a demandé pourquoi je faisais une demande à titre d’entrepreneur. Et j’ai répondu : « Eh bien, je ne le sais pas. C’est ce dont nous avons parlé. » Et c’est alors que ces critères ont été suivis.
+[Non souligné dans l’original.]
+[10] Erin Hrushowy aurait parlé à son comptable en 2009 de la préparation de sa déclaration de revenus de l’année 2008, soit après la période ici en cause. Je conclus que, selon toute vraisemblance, Erin Hrushowy a convenu, lorsque ses services ont été retenus, d’intervenir à titre d’entrepreneur indépendant. Par conséquent, l’intention réciproque était qu’elle interviendrait à titre d’entrepreneur indépendant. Je conclus également que cette entente a continué à s’appliquer pendant toute la période visée par l’appel. Lorsqu’elle a produit sa déclaration de revenus pour l’année 2008 (soit en 2009, après la période ici en cause et après avoir rencontré son comptable), Erin Hrushowy aurait déclaré son revenu d’une façon qui correspondait à la position qu’elle prenait alors à l’égard de la question de savoir si elle était une employée. Cela ne correspondrait pas nécessairement à l’entente à laquelle elle était arrivée avec l’appelante, au mois de mars 2008, lorsque ses services ont été retenus. Par conséquent, il me semble que sa déclaration de revenus (qui n’a pas été produite en preuve) ne m’aurait été d’aucune utilité pour répondre à la question dont je suis saisi.
+[11] Dans l’affaire Royal Winnipeg Ballet, les faits concernant les danseurs et les conditions de travail n’étaient pas suffisants pour modifier l’entente dont les parties avaient convenu. Par conséquent, il me semble qu’« en suivant la démarche énoncée dans l’arrêt Royal Winnipeg Ballet », les faits pertinents, dans la présente affaire, tels qu’ils sont établis à l’aide des facteurs énumérés dans les arrêts Wiebe Door et Sagaz, devraient indiquer d’une façon plus forte l’existence d’une relation employeur‑employée que ce n’était le cas dans l’affaire Royal Winnipeg Ballet, pour qu’Erin Hrushowy soit assimilée à une employée. Dans l’affaire Royal Winnipeg Ballet et en l’espèce, il y avait une intention de créer une relation d’entrepreneur indépendant plutôt qu’une relation employeur-employé.
+[12] En ce qui concerne le facteur « contrôle », il ressort des preuves, en l’espèce, que le degré de contrôle que l’appelante exerçait sur Erin Hrushowy aurait été moins important que celui que le Royal Winnipeg Ballet exerçait sur les danseurs. Dans l’arrêt Royal Winnipeg Ballet, la juge Sharlow a qualifié d’« étroit » le degré de contrôle que le Royal Winnipeg Ballet exerçait sur les danseurs. Comme la juge l’a fait remarquer dans cette décision :
+Le RWB choisit les œuvres qui seront exécutées, décide de l’heure et du lieu des représentations et des répétitions, attribue les rôles, fournit la chorégraphie et dirige les représentations.
+[13] Il me semble que le degré de contrôle, dans ce cas-ci, n’indique pas plus nettement qu’Erin Hrushowy était une employée que ce qui était le cas dans l’affaire Royal Winnipeg Ballet. Lorsque Peter McGee l’a interrogée, Erin Hrushowy a convenu avec celui-ci qu’il s’absentait du bureau pendant au moins 25 p. 100 du temps. Lorsque l’avocat de l’intimé l’a interrogée, Erin Hrushowy a déclaré :
+[traduction]
+Q. Et qui d’autre travaillait au bureau sur une base régulière?
+R. À part moi, il y avait – je travaillais surtout seule. Pete venait au bureau. Au cours d’une journée, il passait peut-être une heure ou deux le matin ou l’après-midi au bureau. Mais la plupart du temps, il n’y avait que moi.
+[14] Il me semble que la plupart du temps Erin Hrushowy était la seule personne au bureau. Dans l’arrêt City Water International Inc. c. Ministre du Revenu national, 2006 CAF 350, le juge Malone a fait les observations au nom de la Cour d’appel fédérale :
+[18] Un contrat d’emploi nécessite l’existence d’un rapport de subordination entre l’employé et l’employeur. La notion de contrôle est le facteur clé permettant de qualifier cette relation (voir D&J Driveway Inc. c. Canada (Ministre du Revenu national), 2003 CAF 453). City Water a également fait référence à l’arrêt Le Livreur Plus Inc. c. Canada (Ministre du Revenu national), 2004 CAF 68, où la Cour a appliqué le critère énoncé dans Wiebe Door pour déterminer si l’emploi de deux travailleurs était assurable selon la LAE. En examinant le critère contrôle, le juge Létourneau a déclaré au paragraphe 19 :
+[...] il ne faut pas [...] confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l’ouvrier chargé de les réaliser [...] Comme le disait notre collègue le juge Décary dans l’affaire Charbonneau c. Canada (Ministre du Revenu national - M.R.N) [...] « rares sont les donneurs d’ouvrage qui ne s’assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur. »
+En d’autres mots, contrôler la qualité du travail ne revient pas à contrôler son exécution par les travailleurs engagés pour le faire.
+[19] D’après mon analyse, la simplicité de la tâche ne peut en rien influer sur le contrôle et ne doit pas être prise en compte quand il s’agit d’établir l’existence ou non d’une certaine subordination. Par conséquent, le juge a commis une erreur de droit en concluant qu’il ne fallait attribuer que peu de valeur au critère contrôle en raison de la simplicité de la tâche exécutée par les travailleurs en entretien. En l’espèce, City Water trouvait les clients, mais laissait la prestation comme telle du service aux travailleurs en entretien sans exercer de supervision. Par conséquent, le critère contrôle laisse clairement entrevoir la possibilité qu’il s’agisse d’un contrat d’entreprise.
+[15] En l’espèce, Erin Hrushowy faisait l’objet de peu de supervision de la part de l’appelante, voire aucune. L’appelante exerçait donc fort peu de contrôle sur Erin Hrushowy. Le degré de contrôle exercé par l’appelante sur Erin Hrushowy était inférieur au degré de contrôle que le Royal Winnipeg Ballet exerçait sur les danseurs. De plus, le contrôle qui était exercé en l’espèce se rapportait à la qualité du travail. L’exemple qui a été fourni était celui où Peter McGee demandait à Erin Hrushowy, après que le prix du transport lui eut été donné, d’essayer de trouver une autre entreprise dont les frais de transport étaient inférieurs.
+[16] Erin Hrushowy a également déclaré qu’elle devait chaque jour être au bureau de 9 à 17 h pour répondre au téléphone. Toutefois, rien n’indiquait le nombre d’appels téléphoniques que l’appelante recevait chaque jour ou chaque semaine. De plus, il était uniquement possible d’accéder au bureau en passant par les locaux de GreenWorks Building Supply Inc., qui exploitait un magasin de détail. Or, il semble que le magasin de détail n’ouvrait qu’à 10 h et qu’Erin Hrushowy n’avait pas de clé. Puisqu’il n’y avait que deux personnes qui pouvaient être dans le bureau de l’appelante (Peter McGee et Erin Hrushowy), il me semble qu’Erin Hrushowy n’était pas tenue d’être au bureau chaque jour de 9 à 17 h puisqu’il semble qu’elle ne pouvait entrer dans le bureau qu’à 10 h si Peter McGee n’y était pas (ce qui arrivait souvent).
+[17] Il me semble également qu’Erin Hrushowy avait été embauchée en vue d’accomplir certaines tâches. Dans son témoignage, Peter McGee a déclaré :
+[traduction]
+[...] Et elle avait effectivement été embauchée pour commercialiser ces produits au Canada pour le compte de SIP Distribution, ce qui comportait la coordination d’un programme CRM avec les représentants, la coordination d’un envoi direct aux architectes et aux concepteurs avec Tugboat Media et, dans certains cas, l’exécution de graphiques.
+[18] Erin Hrushowy avait été embauchée en vue d’accomplir certaines tâches. Dans la décision Direct Care In-Home Health Services Inc. c. Ministre du Revenu national, 2005 CCI 173, le juge Hershfield a fait les observations suivantes au sujet du contrôle :
+[11] Dans le cadre de l’analyse de ce facteur, il faut déterminer qui contrôle le travail et comment, quand et où il doit être effectué. S’il est jugé que le travailleur a le contrôle du travail une fois qu’il lui est confié, cela semble davantage indiquer que le travailleur est un entrepreneur indépendant, et s’il est jugé que l’employeur exerce un contrôle sur l’exécution du travail par le travailleur, cela laisse entendre qu’il y a une relation employeur-employé. * Toutefois, lorsque les travailleurs ont une spécialisation accrue, il se peut que ce critère soit considéré comme moins fiable. On accorde donc plus d’importance à la question de savoir si le service que le travailleur doit fournir dans le cadre de ses fonctions est simplement axé sur les « résultats »; c.‑à‑d. « voici une tâche précise – vous avez été engagé pour l’exécuter ». Dans un tel cas, il n’y a pas de lien de subordination, ce qui est une exigence fondamentale pour qu’il y ait une relation employé-employeur*. De plus, il ne faut pas confondre le contrôle des résultats, qui peut être exigé à chaque fois qu’un travailleur est engagé pour fournir des services, avec le contrôle ou la subordination d’un travailleur*.
+[12] En l’espèce, la travailleuse pouvait refuser une affectation pour quelque raison que ce soit, ou même sans raison. [...]
+[Non souligné dans l’original.]
+(* indique un renvoi à une note de bas de page qui se trouve dans le texte original, mais qui n’a pas été inclus.)
+[19] Avec le temps, les tâches ont evalué, mais il semble clair qu’il s’agissait d’un engagement axé sur les tâches qui ne devait pas durer indéfiniment. Voici un extrait du témoignage qu’Erin Hrushowy a rendu lorsque Peter McGee l’a interrogée :
+[traduction]
+Q. Considériez-vous que le poste que vous occupiez était un poste à long terme?
+R. Non. Je ne le considérais pas – non, rien ne permettait de croire qu’il l’était, et rien ne permettait de croire qu’il ne l’était pas. Le travail se déroulait presque au jour le jour.
+[20] Il me semble donc que l’embauchage d’Erin Hrushowy en vue de l’exécution de certaines tâches, alors que la plupart du temps celle‑ci n’était pas supervisée, dans le cadre de dispositions prises, selon elle, [traduction] « au jour le jour », tend à indiquer qu’il s’agissait d’une relation d’entrepreneur indépendant plutôt que d’une relation employeur-employée.
+[21] Quant à la propriété des instruments de travail, il semble y avoir eu fort peu d’instruments dont Erin Hrushowy ait eu besoin afin d’accomplir les tâches qui lui étaient attribuées. Cela dit, ce facteur est peu utile en l’espèce.
+[22] Il ne semble pas qu’Erin Hrushowy ait pu embaucher d’autres travailleurs afin d’accomplir les tâches qui lui étaient attribuées. Dans l’affaire Royal Winnipeg Ballet, il n’avait pas été question de la possibilité pour les danseurs d’embaucher des assistants, mais il ne serait pas logique, semble‑t‑il, de soutenir que les danseurs pouvaient embaucher une personne pour les remplacer dans la production.
+[23] Quant à l’étendue des risques financiers et aux chances de profit, Erin Hrushowy était peu exposée à des risques financiers. Dans l’affaire Royal Winnipeg Ballet, les danseurs couraient peu de risques financiers, comme la Cour d’appel fédérale l’a reconnu.
+[24] En ce qui concerne les possibilités de profit, les danseurs du Royal Winnipeg Ballet pouvaient négocier une rémunération supplémentaire, mais la plupart étaient rémunérés selon une échelle préétablie. En l’espèce, le taux horaire qui aurait été accordé à Erin Hrushowy était fixé compte tenu du fait qu’elle intervenait à titre d’entrepreneur indépendant. Dans l’affaire Royal Winnipeg Ballet, les danseurs étaient autorisés à accepter des engagements auprès d’autres compagnies, à condition d’obtenir le consentement du Royal Winnipeg Ballet et de se présenter comme étant engagés par le Royal Winnipeg Ballet. En l’espèce, aucune restriction n’était imposée à Erin Hrushowy lorsqu’il s’agissait d’accepter d’autres engagements.
+[25] Dans l’affaire Royal Winnipeg Ballet, les danseurs n’avaient rien à voir avec la gestion ou les mises de fonds concernant leur travail auprès du Royal Winnipeg Ballet. En l’espèce, Erin Hrushowy n’avait rien à voir avec la gestion ou les mises de fonds concernant le travail qu’elle effectuait pour l’appelante.
+[26] L’avocat de l’intimé a soutenu que le critère de l’intégration devait être suivi. Il a cité les observations suivantes de l’ancien juge en chef Bowman dans la décision 3868478 Canada Inc. c. Ministre du Revenu national, 2006 CCI 444 :
+[17] Si le critère relatif à l’intégration a une quelconque signification, on pourrait penser que la fonction d’hygiéniste est une partie intégrante et essentielle de la pratique dentaire. Elle n’est ni extrinsèque ni accessoire à cette pratique. La facture que le dentiste envoie au patient comporte, dans le total qui y est inscrit, une somme visant les services fournis par l’hygiéniste. Le nettoyage et le détartrage des dents ainsi que les instructions données aux patients quant aux méthodes appropriées d’hygiène buccale font partie de la pratique dentaire au même titre que le fraisage et l’extraction. Si l’application du critère relatif à l’intégration est difficile, c’est que l’entrepreneur indépendant peut faire partie intégrante de l’organisation de l’entreprise tout autant qu’un employé.
+[27] Toutefois, dans une décision rendue par la suite dans l’affaire Lang c. Ministre du Revenu national, 2007 CCI 547, 2007 DTC 1754, l’ancien juge en chef Bowman a fait les observations suivantes :
+34 Où cette série d’arrêts nous mène-t-elle? Il est possible de tirer quelques conclusions générales :
+[…]
+c) L’intégration en tant que critère n’entre plus en ligne de compte à toutes fins utiles. Les juges qui essaient de l’appliquer le font à leurs risques et périls […]
+[28] Je ne suivrai donc pas le critère de l’intégration, lequel ne serait de toute façon pas concluant en l’espèce.
+[29] Par conséquent, je conclus que les faits pertinents se rapportant à l’engagement d’Erin Hrushowy par l’appelante, tels qu’ils sont établis au moyen des facteurs énoncés dans les arrêts Wiebe Door et Sagaz, ne sont pas plus révélateurs d’une relation employeur-employé que dans l’affaire Royal Winnipeg Ballet. En l’espèce, les faits pertinents se rapportant à l’engagement d’Erin Hrushowy par l’appelante indiquent plus l’existence d’une relation d’entrepreneur indépendant que l’existence d’une relation employeur-employé. Au cours de la période visée par l’appel, Erin Hrushowy intervenait donc à titre d’entrepreneur indépendant plutôt qu’à titre d’employée de l’appelante.
+[30] L’appel interjeté en vertu de la Loi sur l’assurance-emploi à l’égard de la décision rendue par le ministre du Revenu national le 8 avril 2011 est accueilli sans frais, et la décision du ministre est modifiée ainsi : au cours de la période allant du 17 mars au 17 décembre 2008, Erin Hrushowy n’exerçait pas auprès de l’appelante un emploi assurable pour l’application de la Loi sur l’assurance-emploi.
+[31] L’appel interjeté en vertu du Régime de pensions du Canada à l’égard de la décision rendue par le ministre du Revenu national le 8 avril 2011 est accueilli sans frais, et la décision du ministre est modifiée ainsi : au cours de la période allant du 17 mars au 17 décembre 2008, Erin Hrushowy n’occupait pas auprès de l’appelante un emploi ouvrant droit à pension pour l’application du Régime de pensions du Canada.
+Signé à Ottawa, Canada, ce 13e jour de septembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour de novembre 2011.
+François Brunet, réviseur
+RÉFÉRENCE : 2011 CCI 423
+Nos DES DOSSIERS DE LA COUR : 2011-1452(EI); 2011-1453(CPP)
+INTITULÉ : SIP DISTRIBUTION INC. ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 25 août 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 13 septembre 2011
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Peter McGee
+Avocat de l’intimé :
+Me Kristian DeJong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

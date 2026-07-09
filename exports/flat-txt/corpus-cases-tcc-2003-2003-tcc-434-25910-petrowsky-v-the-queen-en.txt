@@ -1,0 +1,103 @@
+Title: Petrowsky v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25910/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-434-25910-petrowsky-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-06-27
+
+# Petrowsky v. The Queen
+
+- Citation: 2003 TCC 434
+- Decision date: 2003-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3708, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Petrowsky v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-27
+Neutral citation
+2003 TCC 434
+File numbers
+2001-4495(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4495(IT)I
+BETWEEN:
+DARRELL PETROWSKY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 22, 2002 at Regina, Saskatchewan
+Before: The Honourable Judge L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Jinnouchi
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1998 and 1999 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, Canada, this 27th day of June 2003.
+"L.M. Little"
+J.T.C.C.
+Citation: 2003TCC434
+Date:20030627
+Docket: 2001-4495(IT)I
+BETWEEN:
+DARRELL PETROWSKY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Little, J.
+A. FACTS
+[1] The Appellant's appeals were heard in Regina, Saskatchewan on November 22, 2002.
+[2] Reasons for Judgment were issued on the 9th day of December 2002 allowing some of the items under appeal.
+[3] In a letter dated December 28, 2002 Ms. Anne Jinnouchi, counsel for the Respondent, requested clarification "on whether the Minister properly restricted the capital cost allowance in the 1998 and 1999 taxation years pursuant to subsections 1100(15) and 1100(17) of the Income Tax Regulations".
+[4] I have now had an opportunity to review the Court record and the questions raised by counsel for the Respondent. I have concluded that the Appellant is precluded from claiming capital cost allowance on the computer, the garage heater and the cellular telephone by virtue of Regulation 1100(15). I have therefore concluded that the comments contained in paragraphs 10 and 11 of the Reasons for Judgment should be eliminated.
+[5] In the course of reviewing the file I have concluded that the Appellant should be allowed to deduct the amount of $399.00 (amount paid for cellular phone) in determining his income for the 1998 taxation year.
+[6] The Appellant testified that he purchased the cellular phone for the snowmobile rental business. The Appellant said that he required a cellular phone to handle breakdowns of snowmobiles that had to be dealt with immediately. I have concluded that the cost of the cellular phone is a deductible business expense.
+Signed at Vancouver, Canada, this 27th day of June 2003.
+"L.M. Little"
+J.T.C.C.
+CITATION:
+2003TCC434
+COURT FILE NO.:
+2001-4495(T)I
+STYLE OF CAUSE:
+Darrell Petrowsky and
+Her Majesty the Queen
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATE OF HEARING:
+November 22, 2002
+AMENDED REASONS FOR
+JUDGMENT BY:
+The Honourable Judge L.M. Little
+DATE OF AMENDED JUDGMENT:
+June 27, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

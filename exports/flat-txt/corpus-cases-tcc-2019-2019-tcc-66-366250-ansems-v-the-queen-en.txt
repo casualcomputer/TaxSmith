@@ -1,0 +1,138 @@
+Title: Ansems v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/366250/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-66-366250-ansems-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-03-27
+
+# Ansems v. The Queen
+
+- Citation: 2019 TCC 66
+- Decision date: 2019-03-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4315, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ansems v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-03-27
+Neutral citation
+2019 TCC 66
+File numbers
+2017-745(IT)G, 2017-760(IT)G, 2017-764(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2019 TCC 66
+Date: 20190327
+Docket: 2017-745(IT)G
+BETWEEN:
+ANGELA ANSEMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-760(IT)G
+AND BETWEEN:
+RANDY ANSEMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2017-764(IT)G
+AND BETWEEN:
+ANSEMS FAMILY TRUST (2008),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the bench at
+Halifax, Nova Scotia on January 24, 2019)
+Graham J.
+[1] These appeals involve cascading assessments pursuant to section 160 of the Income Tax Act.
+[2] Randy and Angela Ansems are beneficiaries of the Ansems Family Trust (2008). The Trust is the sole shareholder of ITO Holdings Inc., which I will refer to as “Holdings”. In the period in question Holdings was the sole shareholder of a Nova Scotia company called ITO International Training Organization Inc., which I will refer to as “Velsoft”, and a Bahamian company called Velsoft International Inc., which I will refer to as “Barbados Co.”
+[3] The Minister of National Revenue reassessed Velsoft’s taxation year ending January 21, 2010. I will refer to this reassessment as the “Underlying Assessment”. Velsoft did not pay the amount assessed in the Underlying Assessment. The Minister assessed Holdings for that unpaid amount under section 160. Corresponding cascading section 160 assessments were issued against the Trust, Mr. Ansems, and Ms. Ansems. The Appellants have appealed those assessments.
+[4] The four tests that must be met for section 160(1) to apply were set out by the Federal Court of Appeal in Livingston v. The Queen. In simple terms those tests are that:
+1) there must have been a transfer of property;
+2) the transfer must have been made to a non-arm’s length person;
+3) the transfer must have been made for less than fair market value consideration; and
+4) the transfer must have been made by a person who owes tax under the Act in or in respect of the year the transfer was made or some prior year. If these tests are met, then the transferee is liable to pay an amount equal to the lesser of the amount owing to the Minister by the transferor in the shortfall in the consideration. At the time the Appellants were assessed, Velsoft owed $216,629 in tax, interest and penalties. The Appellants have each been assessed for that amount.
+[5] The Appellants accept that the first three tests were satisfied. The $382,100 dividend paid by Velsoft to Holdings in 2009 was a transfer of property for no consideration from a wholly-owned subsidiary to a parent. The $479,905 in dividends paid by Holdings to the Trust between 2009 and 2011 were transfers of property for no consideration from a wholly-owned subsidiary to its shareholder. Finally, the $239,953 that the Trust distributed to each of Mr. and Ms. Ansems between 2009 and 2011 were transfers of property for no consideration to beneficiaries who were not dealing at arm’s length with the Trust.
+[6] It is the fourth test that is in issue. The Appellants argue that the Underlying Assessment was made in error and thus that Velsoft did not owe any tax when it paid the dividends to Holdings. As a result, the Appellants argue that Holdings was not liable under section 160. The Trust’s liability under section 160 depends on Holdings being liable under section 160. Therefore, the Appellants argue that the Trust was not liable. Mr. and Ms. Ansems’ liability under section 160 depends on the Trust being liable under section 160. Therefore, the Appellants argue that Mr. and Ms. Ansems were not liable. In summary, the Appellants submit that unless the Underlying Assessment was correct, all of the cascading section 160 assessments must be adjusted. I agree. The key issue in these appeals is therefore whether the Underlying Assessment was correct or not.
+[7] The Underlying Assessment consists of three adjustments. The first adjustment is the denial of $44,248 in professional fees that Velsoft deducted. The second adjustment is the addition of $357,105 to Velsoft’s income. This amount represents the net income reported by Barbados Co. I will refer to this amount as the “Offshore Income”. The Minister made this adjustment on the basis that the business purportedly carried on by Barbados Co. was actually carried on by Velsoft. The third adjustment is the application of gross negligence penalties to the Offshore Income.
+[8] The evidence regarding the Underlying Assessment was less than fulsome. As a result, the question of who bears the burden of proving the Underlying Assessment is important. As set out by Justice Paris in Mignardi v. The Queen:
+Unless the facts concerning the underlying tax debt are exclusively or peculiarly within the knowledge of the Minister, the burden to prove that an underlying tax assessment is wrong will fall on the taxpayer seeking to challenge that assessment.
+[9] Mr. Ansems was a director of Velsoft, Barbados Co., and Holdings. He was also the trustee of the Trust. On cross-examination he testified that he was fully aware of the basis upon which Velsoft was assessed, he was fully involved with the audit of Velsoft, and he had personal and direct knowledge of all of the relevant information. On this basis I find that the burden of showing that the Underlying Assessment was wrong remains on Mr. Ansems in respect of his assessment.
+[10] Mr. Ansems was the sole trustee of the Trust. Accordingly, I find that the Trust has the same knowledge that he has and that the burden of showing that the Underlying Assessment was wrong remains on the Trust.
+[11] Ms. Ansems did not testify but she was present for each day of the hearing. While there is no evidence that she had any personal knowledge of the matters giving rise to the Underlying Assessment, there is no reason why I would conclude that she could not easily have accessed such information through Mr. Ansems. Accordingly, I find that Ms. Ansems also bears the burden of showing that the Underlying Assessment was wrong.
+[12] Despite having concluded that the Appellants generally bear the burden of proving that the Underlying Assessment was wrong, I must still consider whether there are any other factors that would shift that burden to the Respondent in respect of some or all of the amounts assessed.
+[13] The Respondent accepts that the denial of the professional fees was made outside of the normal reassessment period for Velsoft and thus that the Respondent bears the onus of proving that Velsoft made a misrepresentation attributable to carelessness, neglect or wilful default in deducting the professional fees. The Respondent may not rely on assumptions of fact to meet that burden.
+[14] Although the addition of the Offshore Income was made after the normal reassessment period, subparagraph 152(4)(b)(iii) gives the Minister an additional three years to reassess if the reassessment is made “as a consequence of a transaction involving the taxpayer and a non-resident person with whom the taxpayer was not dealing at arm’s length”. The Appellants accepted that the Offshore Income falls within this provision and thus that the burden of proving the assessment of the Offshore Income was wrong remains on the Appellants. The Respondent may therefore rely on the Minister’s assumptions of fact on that issue.
+[15] As set out above, the Underlying Assessment assessed gross negligence penalties in respect of the Offshore Income. The burden of proving that gross negligence penalties apply is always on the Respondent. The fact that the penalties were part of an Underlying Assessment does not alter that fact.
+[16] In summary, the Respondent bears the burden of proving that Velsoft made a misrepresentation attributable to carelessness, neglect or wilful default in deducting the professional fees. The Appellants bear the burden of proving that the Offshore Income should not have been assessed, and the Respondent bears the burden of proving that Velsoft was grossly negligent in failing to report the Offshore Income.
+[17] Having established who bears the burden in respect of each issue, I will now consider each of those issues.
+[18] I will turn first to the professional fees. Mr. Ansems testified that the $44,248 in denied professional fees related to a single invoice issued to Velsoft in December 2009 by the accounting firm WBLI.
+[19] By way of background, in 2007 Holdings owned 50 percent of Velsoft and Barbados Co., and the other 50 percent were owned by a holding company owned by a man named Jim Fitt. I do not have clear evidence of the name of that holding company, so I will call it “Fitt Co.”.
+[20] My understanding is that Holdings purchased Fitt Co.’s shares in 2008 through the use of a shotgun clause in a shareholder agreement and that Holdings was supposed to pay for the shares in monthly payments over five years. Mr. Ansems spoke as if he was the one responsible for making the payments rather than Holdings and as if the payments were being made to Mr. Fitt rather than Fitt Co., but given my understanding that Holdings ultimately owned a hundred percent of the shares of Velsoft, given that the Appellants did not enter any documents relating to the sale into evidence and given that Mr. Ansems, as many people do, had the habit of overlooking holding companies when describing transactions, I have assumed that the purchase price was actually payable by Holdings to Fitt Co. Nothing turns on the distinction.
+[21] In any event, Mr. Ansems testified that following the 2008 recession it became difficult to make the monthly payments. When Holdings began making only every second payment, Mr. Fitt involved his lawyers. The dispute ultimately resulted in all the shares of Velsoft and Barbados Co. being transferred to Fitt Co.
+[22] Mr. Ansems’ explanation for the work that WBLI performed was vague. My understanding is that the work related in some manner to the dispute over Holdings’ payment for Fitt Co.’s shares in Velsoft and Barbados Co., but it is unclear exactly what the work was. Mr. Ansems mentioned something about a threatened receivership but did not expand on the point. It appeared from Mr. Ansems’ testimony that Mr. Fitt had been the person instructing WBLI.
+[23] Without more details, Mr. Ansems’ description of the services that WBLI provided suggests that the invoice related not the business activities of Velsoft but rather to Fitt Co.’s attempts to collect funds owed to it by Holdings. I struggle to see how professional fees incurred to collect a debt arising from the disposition of capital property could be a business expense, let alone how it could be a business expense of the company whose shares had been sold.
+[24] I acknowledge that sometimes there are business expenses that a company must incur as a result of a dispute between its shareholders. However, the evidence before me does not suggest that that was the case in this situation.
+[25] A copy of the audit working paper in respect of the professional fees was entered into evidence as Exhibit J-1. The working paper was provided to Mr. Ansems as part of a proposal letter sent to him by the Minister. The working paper indicates that the auditor denied the deduction because of “insufficient documentation”. Mr. Ansems confirmed that he did not provide a copy of the invoice to the auditor during the audit. Mr. Ansems explained that Mr. Fitt had the original invoice and that Mr. Ansems had had difficulty obtaining a copy from WBLI. Mr. Ansems stated that he ultimately obtained a copy of the invoice and that he had it with him in court. However, the invoice was not entered into evidence.
+[26] The Respondent has asked that I draw an adverse inference from the Appellants’ failure to introduce the invoice into evidence and conclude that the invoice would not have supported the Appellants’ position. I find that it is appropriate to do so.
+[27] I would like to emphasize that, in reaching this conclusion, I have not relied on the description of the invoice set out on the fourth page of the audit report entered as Exhibit J-6. The domestic auditor who audited the professional fees was not called as a witness. Her description of that invoice is hearsay and as such I have not relied on it in reaching my conclusion.
+[28] Turning then to the Offshore Income. In reassessing Velsoft in respect of the Offshore Income, the Minister took the position that Barbados Co. was not carrying on business and that the net income purportedly earned by Barbados Co. was in fact earned by Velsoft. The Minister assumed that all of the major activities and functions related to producing the sales in question were performed by Velsoft, that those activities were performed in Canada, that the activities historically performed by Velsoft did not change once Barbados Co. was incorporated, and that very few of the activities and functions pertaining to producing the business’s sales were performed in the Barbados. I find that the Appellants have failed to demolish these assumptions.
+[29] The Appellants’ case largely rests on Mr. Ansems’ credibility. I did not find Mr. Ansems to be credible. Mr. Ansems’ testimony regarding the purported work done by Barbados Co. left me with more questions than answers. His testimony concerning background information stood in contrast to his testimony on the key issues. When describing background information, he provided extensive details and painted a full picture, but when it came to the key issues his testimony became noticeably sparser. Overall his testimony on the key issues is better characterized by its omissions than by its content. I was left with the distinct impression that Mr. Ansems told me only the information that he wanted me to know and that he regularly omitted information that would harm his position even when such omissions left a false impression of the overall facts. It is unusual to describe a witness as being evasive in his direct testimony, but at times I found Mr. Ansems to be so.
+[30] It should have been easy of the Appellants to explain how Velsoft had carried on business before Barbados Co. was incorporated and how that business changed after the incorporation but I was only provided with surface explanations. Clearly, Velsoft stopped reporting any income from sales to non-residents. Mr. Ansems explained that Velsoft laid off most of its employees and that Barbados Co. hired back approximately ten of those employees. All of these employees lived and worked in Canada. Mr. Ansems did not explain what the employees did for Velsoft before the introduction of Barbados Co., let alone how their roles changed after Barbados Co. was incorporated. I was left with the impression that Mr. Ansems preferred that I not understand what Barbados Co.’s purported Canadian employees did. Further, Mr. Ansems did not explain how Velsoft managed to continue to carry on its Canadian business with what appears to be only one employee who did bookkeeping and some shipping duties. It was as if he wanted me to believe that Canadian sales were self-generated and self-fulfilled but international sales required an entire team of employees.
+[31] Mr. Ansems’ explanation that some of the business’s products were created by independent contractors in other countries certainly created the impression of an international operation, but ultimately the location of third parties from whom the business acquired intellectual property tells me little about the operations of the business itself.
+[32] Despite the fact that Mr. Ansems was clearly the driving force behind the business, he failed to explain his own role in either operations or management either before or after the incorporation of Barbados Co. I was left with the distinct impression that he did not want me to consider his involvement.
+[33] Mr. Ansems repeatedly emphasized that a chartered accountant named Barry Skinner who resided in Barbados and was a director of Barbados Co. was the chief operating officer and acting chief financial officer of Barbados Co. but Mr. Ansems failed to actually describe anything material that Mr. Skinner did beyond hiring the Canadian payroll company that paid the Canadian workers, arranging a separate account with Velsoft’s courier company for the physical delivery of CDs from Canada to non-Canadian customers, sending money to pay that payroll and those shipping costs, and arranging for the periodic deposit of cheques to Barbados Co.’s bank account. At best the work that actually occurred in Barbados could be described as ancillary to the business. It would not be unreasonable to describe it as clerical work performed by employees of a consulting and accounting firm in which Mr. Skinner was a partner for the purpose of creating the impression that Barbados Co. was carrying on business. Mr. Ansems suggested that Mr. Skinner was responsible for managing the business’s operations but failed to explain what management functions he performed. There was certainly no evidence to suggest that Mr. Skinner did anything to manage the Canadian employees or to arrange the development of new products. Mr. Ansems had not met Mr. Skinner prior to this, yet Mr. Ansems failed to explain to me why he trusted Mr. Skinner, who presumably knew little or nothing about the business, to manage everything. He stated that Mr. Skinner made most of the key strategic decisions but did not provide any examples of what those decisions might have been. Ultimately, the fact that Mr. Skinner had the title of “chief operating officer” is not evidence that he was involved in operations.
+[34] I also note that the international auditor, Peter Christofi, testified that Mr. Ansems did not tell him that Mr. Skinner was the chief operating officer or acting chief financial officer during the audit. I found Mr. Christofi to be a credible witness. His evidence, combined with the lack of any documentation showing Mr. Skinner held those roles, undermines Mr. Ansems’ description of Mr. Skinner’s involvement.
+[35] Mr. Ansems also appeared to intentionally downplay the role of any assets owned by Velsoft in the business. He repeatedly mentioned servers run in the United States by third parties such as Microsoft and Amazon without explaining who owned the intellectual property or data that was on those servers, who maintained that property and data or what hardware the business’s employees used to access those servers. He brushed over a Nova Scotia-based server owned by Velsoft and was evasive when describing whether a server was located in Barbados. I find that one was not.
+[36] Mr. Ansems did not provide me with any clear explanation of how Barbados Co. gained access to the significant intellectual property that Velsoft had developed prior to the creation of Barbados Co. or how Velsoft was compensated for that access. This was key evidence. He agreed with Mr. Christofi’s findings that royalty fees were charged but he did not elaborate beyond that. He testified that Barbados Co. had developed 24 additional courses for sale to customers but did not provide any evidence showing that Barbados Co., as opposed to Velsoft, had directed and paid for their development and did not explain how Barbados Co. was compensated for Velsoft’s use of those courses.
+[37] Mr. Ansems testified that he had all of the documents that would demonstrate Barbados Co.’s activities. He spoke of licencing agreements, employment contracts, bank records, financial statements, general ledgers, and options to purchase intellectual property owned by Velsoft. Yet none of these documents was entered into evidence. I draw an adverse inference from the Appellants’ failure to do so and conclude that, if those documents had been entered into evidence, they would not have supported the Appellants’ position that the Offshore Income was earned by Barbados Co.
+[38] Based on all the foregoing I find that the Appellants have failed to prove that the Offshore Income was earned by Barbados Co.
+[39] Before moving to the penalties, I would like to state that, in reaching my conclusion, I have not relied on any of the notes that were entered into evidence describing interviews that Mr. Christofi conducted during his audit. The notes are hearsay. The individuals who were interviewed were not called as witnesses, nor was any reason for not calling them provided.
+[40] Turning then to the question of whether the gross negligence penalties should be applied to the Offshore Income. I am satisfied that Velsoft was grossly negligent in failing to report the Offshore Income. The amount of unreported income was substantial and was more than double the income reported by Velsoft. Mr. Ansems was fully aware of the Offshore Income and of Velsoft’s role in earning that income. The fact that Velsoft was given advice by accountants and lawyers on how to structure Barbados Co.’s operations does not alter my conclusion. Had Velsoft explained the advice that it was given and shown me that it followed that advice, my conclusion on the penalties might have been different. As it stands, I do not know what advice Velsoft received. Even if I were aware of that advice, since I do not know how the business operated, I would have no way of knowing whether that advice was followed.
+[41] Based on all of the foregoing the appeals are dismissed.
+Signed at Ottawa, Canada, this 27th day of March 2019.
+“David E. Graham”
+Graham J.
+CITATION:
+2019 TCC 66
+COURT FILE NOS.:
+2017-745(IT)G 2017-760(IT)G 2017-764(IT)G
+STYLES OF CAUSE:
+ANGELA ANSEMS v. THE QUEEN
+RANDY ANSEMS v. THE QUEEN
+ANSEMS FAMILY TRUST (2008) v. THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+January 22, 23 & 24, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF REASONS FOR JUDGMENT:
+March 27, 2019
+APPEARANCES:
+Counsel for the Appellant:
+M. Gerard Tompkins
+Counsel for the Respondent:
+Stan W. McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+M. Gerard Tompkins
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

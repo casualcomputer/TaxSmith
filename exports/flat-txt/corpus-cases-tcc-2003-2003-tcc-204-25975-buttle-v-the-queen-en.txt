@@ -1,0 +1,125 @@
+Title: Buttle v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25975/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-204-25975-buttle-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-04-03
+
+# Buttle v. The Queen
+
+- Citation: 2003 TCC 204
+- Decision date: 2003-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3773, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Buttle v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-03
+Neutral citation
+2003 TCC 204
+File numbers
+2002-577(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-577(IT)I
+BETWEEN:
+TERENCE W. BUTTLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on March 25, 2003, at Kingston, Ontario, by
+the Honourable Judge Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rosemary Fincham
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an Order pursuant to Rule 12 of the Tax Court of Canada Rules (General Procedure), abridging the time prescribed by Rule 67(6) for the filing and service of the Notice of Motion, quashing the appeal pursuant to Rule 58(3) of the Rules; and in the alternative, granting the Respondent an extension of time to file a Reply to Notice of Appeal;
+AND UPON reading the amended affidavit of David Young;
+AND UPON hearing what was alleged by the parties;
+IT IS HEREBY ORDERED THAT:
+1. The Respondent shall have 45 days from the date of this Order to file a Reply to the Notice Appeal; and
+2. The appeal is limited to the determination of the goods and services tax credit.
+Signed at Ottawa, Canada, this 3rd day of April, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+Citation: 2003TCC204
+Date: 20030403
+Docket: 2002-577(IT)I
+BETWEEN:
+TERENCE W. BUTTLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Miller J.
+[1] The Respondent brings a motion for an Order:
+(i) Pursuant to Rule 12 of the Tax Court Rules, abridging the time prescribed by Rule 67(6) for the filing and service of the Notice of Motion together with the Affidavit; and
+(ii) pursuant to Rule 58(3) of the Tax Court Rules, quashing the Appellant's appeal;
+(iii) in the alternative, granting the Respondent an extension of time to file his Reply to Notice of Appeal to 45 days from the date of the judgment on the present motion.
+[2] The grounds for the motion given by the Respondent are that:
+(a) the Minister of National Revenue (the Minister) issued a Notice of Assessment dated April 26, 2001 in regard to the 2000 taxation year of the Appellant;
+(b) the Notice of Assessment referred to in subparagraph (a) herein resulted in the assessment of nil federal and provincial tax;
+(c) in the assessment of April 26, 2001, the Minister reduced the Ontario Tax Credit (OTC) claimed by the Appellant from $827.74 to $273.74;
+(d) the OTC is a credit against Ontario tax and is granted under subsection 8(3) of the Ontario Income Tax Act;
+(e) the Minister issued a Notice of Redetermination dated August 10, 2001 with respect to the Goods and Services Tax Credit for the 2000 taxation year;
+(f) the Appellant did not file a Notice of Objection to the Notice of Redetermination indicated in subparagraph (e) herein as required by subsection 165(1) of the Income Tax Act (the Act);
+(g) the Tax Court of Canada has no jurisdiction to hear the Appellant's appeal when there is no tax in dispute; and
+(h) the Notice of Appeal filed December 28, 2001 in regard to the 2000 taxation year is not valid as the Appellant has not filed a Notice of Objection with respect to the Notice of Redetermination referred to in subparagraph (e) as required by subsection 169(1) of the Act.
+[3] The following facts are also relevant:
+(i) In the April 26, 2001 assessment notice, Canada Customs and Revenue Agency (CCRA ) wrote:
+In July, we will let you know the goods and services tax/harmonized sales tax (GST/HST) credit ...
+(ii) Mr. Buttle filed an objection on a timely basis to that notice;
+(iii) the "Notice of Redetermination" of August 10, 2001, stated:
+We have determined that you are not eligible to receive the GST/HST credit because your net family income exceeds $35,220.
+This letter is not titled a "Notice of Redetermination", nor does it anywhere indicate that Mr. Buttle must file an objection if he disagrees;
+(iv) On October 1, 2001, the Minister sent Mr. Buttle a Notice of Confirmation confirming the April assessment;
+(v) The Appellant filed an appeal of that confirmation on a timely basis.
+[4] At the hearing of the motion, it was clear that Mr. Buttle appreciated that this Court did not have jurisdiction on the issue of Ontario credits. It was also clear that he had objected from the outset to the Respondent's finding that his income, combined with his wife's, exceeded $35,220, as this resulted in the denial of the GST credit. The GST credit was always at issue.
+[5] I believe we got somewhat sidetracked at the hearing over a perceived procedural default in that Mr. Buttle did not file a formal objection to what the Respondent called the Notice of Redetermination. I have considered this position and have concluded that the correspondence of August 10, 2001, was not a notice requiring a response by way of a Notice of Objection, but was simply part of the April assessment, which indicated the GST credit answer would subsequently be provided to Mr. Buttle. The August 10 letter simply provided that answer. The Notice of Confirmation in October confirmed the assessment, which included the denial of the GST credit. Mr. Buttle has conformed with all procedural requirements and his appeal validly addresses the issue of the GST credit. He should have his day in Court to explain why he believes CCRA have miscalculated his income. For these reasons, I do not grant the Order to quash but extend time to the Respondent to file a Reply, limiting the issue to the determination of the GST credit.
+Signed at Ottawa, Canada, this 3rd day of April, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+CITATION:
+2003TCC204
+COURT FILE NO.:
+2002-577(IT)I
+STYLE OF CAUSE:
+Terence W. Buttle and Her Majesty the Queen
+PLACE OF HEARING:
+Kingston, Ontario
+DATE OF HEARING:
+March 25, 2003
+REASONS FOR ORDER BY:
+The Honourable Judge Campbell J. Miller
+DATE OF ORDER:
+April 3, 2003
+APPEARANCES:
+For the Appellant:
+Terence W. Buttle
+Counsel for the Respondent:
+Rosemary Fincham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,163 @@
+---
+title: "Atwill-Morin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144650/index.do"
+last_modified: "2016-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 127"
+citation2: ""
+neutral_citation: "2016 TCC 127"
+decision_date: "2016-05-20"
+language: "en"
+item_id: "144650"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3087
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:50:41.464000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "03653dbbe9bca7e9d732d1ea032a829ed88cd40326164e83df3498fad15646c0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Atwill-Morin v. The Queen
+
+- Citation: 2016 TCC 127
+- Decision date: 2016-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3087, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Atwill-Morin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-05-20
+Neutral citation
+2016 TCC 127
+File numbers
+2015-5150(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015‑5150(IT)G
+BETWEEN:
+DAVID ATWILL‑MORIN
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion determined by written representations at Ottawa, Ontario.
+Before: The Honourable Justice Lamarre, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Philippe‑Alexandre Otis
+Counsel for the Respondent:
+Simon Vincent
+ORDER
+Upon motion brought by the respondent under section 52 of the Tax Court of Canada Rules (General Procedure) to obtain particulars regarding the Notice of Appeal filed by the appellant;
+And after reviewing the written representations of the parties;
+The motion for particulars is dismissed.
+The respondent is ordered to file a Reply to Notice of Appeal within 60 days of the date of this order.
+Signed at Ottawa, Canada, this 20th day of May 2016.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Citation: 2016 TCC 127
+Date: 20160520
+Docket: 2015‑5150(IT)G
+BETWEEN:
+DAVID ATWILL‑MORIN
+Appellant
+and
+HER MAJESTY THE QUEEN
+Respondent
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Lamarre A.C.J.
+INTRODUCTION
+[1] The appellant is appealing before this Court an assessment made under section 160 of the Income Tax Act (ITA) by the Minister of National Revenue (Minister). The appellant bases his appeal mainly on the argument that the tax debt of the alleged transferor (company) is [translation] “non‑existent or much lower” than what the Minister submits. In this regard, the appellant submits that the burden of establishing the existence of the company’s tax debt rests with the Minister (Notice of Appeal, paragraphs 11d), 13, 14 and 15).
+[2] In its motion, the respondent (moving party) seeks particulars regarding the Notice of Appeal filed by the appellant. Specifically, the moving party is asking the appellant to clarify his position on the following points: the company’s tax debt, the taxation years that apply to the disputed assessments against the company, the relevant facts, the issues, and the statutory provisions and grounds relied on.
+[3] The moving party submits that it is unable to formulate a Reply to Notice of Appeal concerning the correctness of the company’s tax debt, because the appellant has identified no relevant facts, statutory provisions or grounds on this issue. [1]
+[4] The appellant opposes the motion. The appellant submits that the burden of establishing the existence and correctness of the company’s tax debt rests with the moving party. The appellant also argues that it is the Minister who knows the details and basis of the tax debt; he says that he does not and is therefore unable to provide the requested particulars with regard to the amounts claimed and the periods that apply to the tax debt. Moreover, the appellant says that since the company went bankrupt, he no longer has access to any information or documents that relate to the amounts claimed from the company by the Canada Revenue Agency (CRA). He submits that he tried and failed to obtain the necessary information from the Minister and is therefore currently unable to provide specific grounds for challenging the assessment against the company.
+[5] In rebuttal, the moving party submits additional written representations along with an affidavit detailing the factual basis of the underlying assessment. The affidavit also makes reference to the appellant’s involvement in the company’s business as a majority shareholder. The moving party also submits that the appellant received complete copies of the exhibits in its possession regarding the reassessments made against the company.
+[6] Lastly, the moving party is of the opinion that even though the issue of the burden of proof is not to be decided at this stage, the appellant must provide the relevant facts and grounds in support of his claim that the company’s tax debt is non-existent or lower than the amount established by the Minister. Moreover, the moving party argues that, in the circumstances, the burden of proof actually rests with the appellant, and, even if this were challenged, the respondent is entitled to demand to know the basis of the appeal before filing the Reply to Notice of Appeal.
+ANALYSIS
+Demand for particulars
+[7] Section 52 of the Tax Court of Canada Rules (General Procedure) (Rules) may be used to demand particulars before filing the Reply to Notice of Appeal. The Court may order particulars to be delivered if they are not within the knowledge of the party demanding them and they are necessary to enable the other party to plead. [2] Moreover, the scope of permissible requests for particulars is narrower at the pleading stage than later on in the litigation or during discovery. [3]
+[8] In Imperial Manufacturing Group, Mr. Justice Stratas of the Federal Court of Appeal provided a good summary of the basic principles that should guide a court seized with a demand for particulars in the context of civil litigation:
+[32] Courts grant motions for particulars of allegations in a statement of claim when defendants need them in order to plead. In short, the purpose of particulars is to facilitate the ability to plead. Put another way, without the particulars on an important point, the party cannot plead in response.
+[33] This is to be distinguished from discoveries and, in particular, what courts must consider before ordering a discovery witness to answer a question. There, the Court considers whether the information sought is relevant and material to the legal and factual issues in the proceeding and consistent with the objectives set out in Rule 3 of the Federal Courts Rules, S.O.R./98‑106. [4]
+[34] The appellants seem to have a discovery purpose in mind. They seem to be supporting their request for particulars on the basis that the information they seek is relevant and material to the legal and factual issues in the case. In paragraph 32 of their memorandum of fact and law, they submit that the provision of particulars will enable them “to appreciate the facts on which the case is founded and better understand [Decor Grates’] position.” But these matters are relevant to the propriety of information sought on discovery, not whether particulars in a statement of claim should be granted because a party needs them in order to plead.
+[35] . . . [Particulars] are not supplied because they will make a pleading better or more forceful. They are supplied because without them they cannot plead in response to an important point. [5]
+[9] Mr. Justice Bowman pointed out: “. . . where particulars are sought before pleading it must be for the purpose of enabling the opposite party to formulate an intelligent response. There is a fundamental difference between particulars required for the purpose of pleading and particulars needed for the purposes of trial.” [6]
+[10] The moving party submits that it is unable to formulate a Reply to Notice of Appeal with regard to the above-mentioned point without the requested information. [7] It submits that it would be [translation] “contrary to the Rules and unfair to allow the appellant to raise his arguments against the underlying assessments for the first time at trial.” It is also of the opinion that the order sought would [translation] “likely preclude pleadings amendments following examinations, as well as a debate, at trial, on the admissibility of the appellant’s arguments.” [8]
+[11] The issue, then, is whether the appellant can simply deny the correctness of the company’s tax debt by asserting that it is non-existent or much lower than the amount shown in the assessment against the appellant. Put another way, is it necessary, at the pleading stage, to require the delivery of additional particulars requested by the moving party?
+Assessment under section 160 of the ITA
+[12] A taxpayer assessed under a derivative assessment pursuant to section 160 of the ITA is free to challenge the correctness of the primary assessment against the transferor. This taxpayer is not bound by the assessment against the primary taxpayer (the transferor), even if the primary assessment is final for the latter. [9]
+[13] As for the burden of proof, as a general rule, the onus is on the taxpayer to demolish the assumptions of fact made by the Minister when determining the taxpayer’s tax liability. However, where the pleaded assumptions of fact are exclusively or peculiarly within the Minister’s knowledge, placing the onus of proof on the taxpayer could create unfair consequences that, in some cases, would justify a reverse onus. [10]
+[14] Essentially, this is a factual issue. [11] However, this issue must be addressed with by the judge who will hear the dispute on the merits and who will also have to decide any question of procedural fairness as to whether the appellant can argue a point that was not raised at the pleading stage.
+[15] For the purposes of the motion for particulars, the only consideration at this stage is whether the moving party needs the requested information to be able to formulate its reply. To quote Stratas J. again: “[Particulars] are not supplied because they will make a pleading better or more forceful. They are supplied because without them they cannot plead in response to an important point.” [12]
+[16] The moving party’s rebuttal contains a sufficient number of facts for me to conclude that it knows the case that it must answer in its reply. Moreover, it appears from the Notice of Appeal that, according to the appellant, the onus is on the Minister to establish the existence and correctness of the primary assessment against the company, and that it is not enough for the Minister to only file in evidence the primary assessment (see paragraph 15 of the Notice of Appeal). In the circumstances, I am of the view that the moving party does not need the particulars it seeks at this stage of the proceedings. Should the respondent require, for the purposes of the trial, more information on the basis of the issue raised by the appellant, it will be at liberty to question the appellant in this regard on discovery.
+[17] The motion for particulars is dismissed.
+“Lucie Lamarre”
+Lamarre A.C.J.
+CITATION:
+2016 TCC 127
+COURT FILE NO.:
+2015‑5150(IT)G
+STYLE OF CAUSE:
+DAVID ATWILL‑MORIN
+v. HER MAJESTY THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Associate Chief Justice Lucie Lamarre
+DATED:
+May 20, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Philippe‑Alexandre Otis
+Counsel for the Respondent:
+Simon Vincent
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+Philippe‑Alexandre Otis
+Firm:
+Starnino Mostovac
+Montréal, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Affidavit of Simon Vincent dated March 9, 2016, paragraph 3.
+[2] Physicians’ Services Inc. v. Cass, [1971] 2 O.R. 626 (Court of Appeal for Ontario).
+[3] Imperial Manufacturing Group Inc. v. Decor Grates Incorporated, 2015 FCA 100, paragraph 7.
+[4] This section corresponds to subsection 4(1) of the Rules.
+[5] Imperial Manufacturing, above.
+[6] Satin Finish Hardwood Flooring (Ontario) Ltd. v. Canada, [1995] T.C.J. No. 240 (QL), at paragraph 20, [1995] 2 C.T.C. 2440, 96 DTC 1402.
+[7] Affidavit of Simon Vincent, paragraph 3.
+[8] See the respondent’s rebuttal to the appellant’s representations, at paragraphs 38 and 39.
+[9] See Gaucher v. Canada, [2000] F.C.J. No. 1869 (QL), [2001] 1 C.T.C. 125, paragraphs 6 to 9 (FCA – Mr. Justice Rothstein); FMC Technologies Co. v. M.N.R., 2008 FC 871, [2009] 3 F.C.R. 48, paragraph 62 – affirmed on appeal, 2009 FCA 217.
+However, an agreement or judgment binding the company could bind the appellant if the requisites of the doctrine of res judicata are applicable; Tuccaro v. Canada, 2014 FCA 184.
+[10] Canada v. Anchor Pointe Energy Ltd., [2008] 1 F.C.R. 839, 2007 FCA 188, paragraph 36; Gestion Yvan Drouin Inc. v. The Queen, 2001 DTC 72, [2001] 2 C.T.C. 2315, paragraph 114 (TCC).
+[11] Mignardi v. The Queen, 2013 TCC 67, paragraph 41; Andrew v. The Queen, 2015 TCC 1, paragraphs 63 and 64.
+[12] Imperial Manufacturing Group, above, paragraph 35.

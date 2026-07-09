@@ -1,0 +1,209 @@
+---
+title: "Numa Technologies Corporation v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28282/index.do"
+last_modified: "2007-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 614"
+citation2: ""
+neutral_citation: "2007 TCC 614"
+decision_date: "2007-10-15"
+language: "en"
+item_id: "28282"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1866
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:37:52.093000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5a6c123b7a17ac3220b88ad0d3b7723be81591a3de18d5e62f563b5b3ce1667b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Numa Technologies Corporation v. M.N.R.
+
+- Citation: 2007 TCC 614
+- Decision date: 2007-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1866, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Numa Technologies Corporation v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-15
+Neutral citation
+2007 TCC 614
+File numbers
+2006-3131(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Old Age Security Act
+Decision Content
+Docket: 2006-3131(EI)
+BETWEEN:
+NUMA TECHNOLOGIES CORPORATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Numa Technologies Corporation (2006-3134(CPP)) on October 9, 2007
+at Saskatoon, Saskatchewan
+Before: The Honourable D.W. Beaubier, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Bernard Lau
+Counsel for the Respondent:
+Myra Yuzak
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario this 15th day of October, 2007.
+"D.W. Beaubier"
+Beaubier, D.J.
+Docket: 2006-3134(CPP)
+BETWEEN:
+NUMA TECHNOLOGIES CORPORATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Numa Technologies Corporation (2006-3131(EI)) on October 9, 2007
+at Saskatoon, Saskatchewan
+Before: The Honourable D.W. Beaubier, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Bernard Lau
+Counsel for the Respondent:
+Myra Yuzak
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario this 15th day of October, 2007.
+"D.W. Beaubier"
+Beaubier, D.J.
+Citation: 2007TCC614
+Date: 20071015
+Docket: 2006-3131(EI)
+2006-3134(CPP)
+BETWEEN:
+NUMA TECHNOLOGIES CORPORATION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, D.J.
+[1] These appeals were heard together on common evidence at Saskatoon, Saskatchewan on October 9, 2007. Bernard Lau, a director of the Appellant, testified for the Appellant. The Respondent called the alleged employee, Robert Nesdole (“the Worker”).
+[2] Paragraphs 10 and 11 of the Reply to Notice of Appeal in file 2006-3131(EI) set out the facts in dispute. They read:
+10. In response to the appeal, the Minister decided that the Worker was employed under a contract of service with the Appellant for the period June 20, 2005 to March 17, 2006.
+11. In so deciding as the Minister did, the Minister relied on the following assumptions of fact:
+(a) the Appellant was in the information technology business;
+(b) the Worker was hired as a sales person and his duties included marketing and selling the Appellant’s products and services, programming and online work for the Appellant’s clients;
+(c) the Worker and the Appellant entered into a written “contract employment agreement” which included the following:
+(i) the Worker agrees to represent and sell the Appellant’s IT products and services,
+(ii) the Worker agrees to promptly communicate all leads and orders to the Appellant,
+(iii) the Worker agrees to inform the sales manager of all problems within the sales territory,
+(iv) in no event shall the Worker represent a competitive company,
+(v) the Worker agrees to telephone the Appellant with reasonable frequency to discuss sales within the territory,
+(vi) the Appellant agrees to pay the Worker a monthly fee of $1,600.00,
+(vii) the Appellant agrees to provide the Worker with business cards, brochures, catalogs and product samples, and
+(viii) the Appellant agrees to set minimum monthly quotas;
+(d) the Worker earned a set wage of $1,600.00 per month;
+(e) the Worker could also earn a commission if his sales exceeded a set monthly quota;
+(f) the Appellant determined the Worker’s wage rates;
+(g) the Appellant determined the prices of the products and services;
+(h) the Appellant paid the Worker on a regular monthly basis;
+(i) the Appellant’s business hours were normally 9:00 AM and 5:00 PM, Monday to Friday;
+(j) the Worker normally worked during the Appellant’s business hours;
+(k) the Appellant provided the Worker with direction and instruction;
+(l) the Appellant exercised control over the Worker with regards to pricing;
+(m) the Appellant instructed the Worker on where to solicit clients;
+(n) the Appellant normally provided the Worker with a client list;
+(o) the Worker was required to promptly report to the Appellant regarding orders;
+(p) the Worker required the Appellant’s approval for any deals or proposals;
+(q) the Worker provided reports to the Appellant;
+(r) the Worker represented the Appellant while performing his services;
+(s) the Worker could not work for a competitor while performing services for the Appellant;
+(t) the Worker could not replace himself;
+(u) the Appellant provided the Worker with a work location including a desk, phone, computer printer, fax and office supplies;
+(v) the Appellant provided the Worker with business cards, brochures, catalogues and product samples;
+(w) the Worker provided his own vehicle;
+(x) the Worker incurred vehicle expenses;
+(y) expenses incurred by the Worker were comparable to employment expenses;
+(z) the Worker did not have a chance of profit or risk of loss;
+(aa) the Worker’s intent was to be an employee while performing services for the Appellant;
+(bb) the Worker did not have a trade or business name;
+(cc) the Worker did not charge the Appellant GST, and
+(dd) the Worker was not in business for himself while performing services for the Appellant.
+[3] All except the assumptions commented on were either established in evidence or were not refuted. The comments, by subparagraphs, are:
+11(c) The written “contract” was signed, but its terms and conditions were never adhered to by either party. Both have it somewhere but neither thought to bring a signed copy to the hearing.
+11(c)(v) This is true, but the worker was in the Appellant’s office every day that he worked.
+11(c)(vi) This was specified in their written “Contract Employment Agreement” (Exhibit R-1). But the worker never sold enough to qualify for the minimum $1,600 guaranteed, if his commissions were calculated. As a result, he was paid between $1,200 and $1,500 per month, depending on his earned commissions.
+11(c)(vii) This was the agreement, but none of this occurred.
+11(d) The worker never earned or received this “wage”.
+11(n) Sometimes he was given a client list; at other times, he was given a section of telephone book Yellow Pages.
+11(t) Both said the Worker could replace himself, subject to the replacement knowing the product line. The product line was all new technology and had to be learned “hands on” because the Appellant had no product brochures. Practically speaking, only an experienced worker of the Appellant could replace Mr. Nesdole.
+11(v) This never happened.
+11(y) This is not true. The Worker was to telephone small businesses and to go out in Saskatoon and sell the Applicant’s technological services. One was advertising time on a website; the others all required technological input from the Appellant’s staff. All required the Worker to go to the small business premises to sell the services. This was in his own vehicle, at his own expense.
+11(x), (j) and (k) The Worker’s sales record was poor. Because of the vehicle costs he did have a chance of profit or a risk of loss. On the evidence, the Worker was not a self-starting salesman or broker. He came into the office to start work between 9:00 a.m. and 10:00 a.m. and left between 3:00 p.m. and 4:00 p.m.. He had to be told where to reach clients and then handed a telephone book. The Appellant’s staff worked from 9:00 a.m. until 5:00 p.m., as strict minimal daily hours. There is no evidence that the Appellant was ever reprimanded for his own hourly conduct. He testified that, as a courtesy, he would telephone the Appellant on days that he was not coming in.
+11(aa) , (cc) and (dd) The Worker says he intended to be an employee. The Appellant intended him to be a contractor. He never earned enough to exceed $30,000 per year.
+[4] Based upon the material before the Court, the following must be determined:
+1. Control
+The Worker was not controlled like an employee. He did not work the hours of the Appellant’s employees and he was not reprimanded for his hours or for his time at the premises or his performance. There is no evidence that he was shown how to sell or directed beyond being given an occasional prospect list or the Yellow Pages. These were up to him; he was paid commissions based on his production.
+2. Tools
+The only tools the Worker had were a form of computer that could bring up the Appellant’s website and his own car. There is no evidence as to the ownership of the computer. The Court finds that the tools were contributed equally. The Worker did not even have cards from the Appellant. He held himself out to the public as an IT consultant, and not as an employee of the Appellant.
+3. Integration
+The Worker did not sell competitive products of the Appellant. But Mr. Lau is believed when he testified that the Worker had the right to sell other non-competitive IT products or services. The Worker was also a graduate student working towards his M.A. degree. In this respect, the unsigned Exhibit R-1 was not adhered to by the parties – on the crucial points the two of them did things together contrary to this alleged “agreement”. Both agree that something like it or that it was signed by the two of them. Exhibit A-1 is merely a self-serving document drawn up by Mr. Lau after the EI investigation began.
+4. Chance of Profit/Risk of Loss
+Based upon what the parties did and their intentions during the Period, the Worker had a real chance of profit and a risk of loss. He was free to perform his business activities as he chose and he did so. His vehicle expenses and depreciation were real and out of his pocket. He went out and solicited customers or not. He came into the office or communicated with it when and as he chose, without reprimand. He was paid per sale on a commission basis. But the sales had to be successful. If a refund was required, the Worker’s commission was reduced or lost to him.
+[5] On these facts, was the Worker in business for himself? He appeared in the Appellant’s premises almost daily. He was not directed or controlled like an employee. He supplied his own car which was a major tool. He had a genuine risk of profit or loss. He was not integrated into the Appellant’s operation the way that its employees were.
+[6] In the particular facts of this appeal, the Worker was in business for himself.
+[7] The appeals are allowed. The assessments are referred back to the Minister of National Revenue for reconsideration and reassessment and the determinations are varied in accordance with these Reasons.
+Signed at Toronto, Ontario this 15th day of October, 2007.
+"D.W. Beaubier"
+Beaubier, D.J.
+CITATION: 2007TCC614
+COURT FILE NO.: 2006-3131(EI) and 2006-3134(CPP)
+STYLE OF CAUSE: Numa Technologies Corporation v. M.N.R.
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: October 9, 2007
+REASONS FOR JUDGMENT BY: The Honourable D.W. Beaubier,
+Deputy Judge
+DATE OF JUDGMENT: October 15, 2007
+APPEARANCES:
+Agent for the Appellant:
+Bernard Lau
+Counsel for the Respondent:
+Myra Yuzak
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

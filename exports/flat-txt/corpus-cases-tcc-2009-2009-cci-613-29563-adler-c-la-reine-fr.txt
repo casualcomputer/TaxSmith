@@ -1,0 +1,171 @@
+Title: Adler c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29563/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-613-29563-adler-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-12-07
+
+# Adler c. La Reine
+
+- Citation: 2009 CCI 613
+- Decision date: 2009-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6320, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adler c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-12-07
+Référence neutre
+2009 CCI 613
+Numéro de dossier
+2009-1713(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1713(IT)I
+ENTRE :
+MORTON ADLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 19 novembre 2009, à Winnipeg (Manitoba).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Brendan Friesen
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 de l’appelant sont rejetés sans dépens.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 5e jour de février 2010.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 613
+Date : 20091207
+Dossier : 2009-1713(IT)I
+ENTRE :
+MORTON ADLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Il s’agit ici de savoir si l’appelant a le droit de déduire des frais afférents à un véhicule à moteur ainsi que des frais pour l’espace consacré au travail à domicile dans le calcul de son revenu d’emploi pour les années 2005 et 2006.
+[2] Il ressort clairement de la réponse que l’intimée a établi de nouvelles cotisations à l’égard de l’appelant en vue de refuser la demande de déduction que celui‑ci avait faite pour les frais afférents à un véhicule à moteur et pour les frais pour l’espace consacré au travail à domicile en se fondant sur le fait que l’appelant n’était pas tenu d’acquitter ces frais. L’intimée a également soulevé la question de savoir si l’appelant était tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits.
+[3] Dans son plaidoyer final, l’avocat de l’intimée a invoqué un motif additionnel à l’appui du rejet des dépenses. Il a fait valoir que les dépenses devaient être refusées par suite de l’application des dispositions du paragraphe 8(10) de la Loi de l’impôt sur le revenu (la « Loi »), qui prévoit ce qui suit :
+8(10) Un contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous‑alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenu pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+Le formulaire prescrit est le formulaire T2200 (dont une copie est jointe à l’annexe A des présents motifs).
+[4] Toutefois, ce motif ne figure nulle part dans la réponse. L’avocat de l’intimée a essayé de soutenir qu’étant donné que, dans la réponse, il était fait mention de l’article 8 de la Loi, il devait avoir le droit d’invoquer cette disposition. Toutefois, il ressort clairement de la réponse que tel n’était pas le fondement de la nouvelle cotisation. Le fait pertinent qui serait nécessaire pour que le paragraphe 8(10) de la Loi s’applique est que le formulaire prescrit n’a pas été joint à la déclaration de revenu de l’année. Il n’est fait mention de ce fait nulle part dans la réponse.
+[5] Il ne convient pas pour l’avocat de l’intimée d’invoquer, dans son plaidoyer final, une disposition particulière de la Loi comme fondement d’une nouvelle cotisation, alors que rien n’indique dans la réponse que la disposition particulière a servi de fondement à la nouvelle cotisation ou qu’il s’agissait d’un fondement subsidiaire à l’appui de la nouvelle cotisation.
+[6] L’article 6 des Règles de la Cour canadienne de l’impôt (procédure informelle) prévoit ce qui suit :
+6. (1) La réponse indique :
+a) les faits admis,
+b) les faits niés,
+c) les faits que l’intimée ne connaît pas et qu’elle n’admet pas,
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation,
+e) tout autre fait pertinent,
+f) les points en litige,
+g) les dispositions législatives invoquées,
+h) les moyens sur lesquels l’intimée entend se fonder,
+i) les conclusions recherchées.
+[7] Étant donné que l’application possible du paragraphe 8(10) de la Loi n’a pas été mentionnée dans la réponse comme motif que l’intimée avait l’intention d’invoquer, l’avocat de l’intimée aurait dû, selon la procédure appropriée, présenter une requête en vue de faire modifier la réponse avant le début de l’audience. Le fait d’aviser l’appelant que l’intimée présentera cet argument additionnel ne saurait remplacer une requête visant la modification de la réponse.
+[8] L’intimée ne peut pas non plus invoquer le paragraphe 152(9) de la Loi, qui prévoit ce qui suit :
+152(9) Le ministre peut avancer un nouvel argument à l’appui d’une cotisation après l’expiration de la période normale de nouvelle cotisation, sauf si, sur appel interjeté en vertu de la présente loi :
+a) d’une part, il existe des éléments de preuve que le contribuable n’est plus en mesure de produire sans l’autorisation du tribunal;
+b) d’autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[9] Dans l’arrêt Walsh c. La Reine, 2007 CAF 222, [2007] 4 C.T.C. 73, 2007 DTC 5441, le juge en chef Richard (tel était alors son titre), de la Cour d’appel fédérale, a fait les remarques suivantes au sujet du paragraphe 152(9) de la Loi :
+[18] Les conditions suivantes sont applicables lorsque le ministre veut invoquer le paragraphe 152(9) de la Loi :
+1) Le ministre ne peut pas inclure de transactions non comptées dans la nouvelle cotisation du contribuable.
+2) Le droit du ministre de proposer un autre argument à l’appui d’une cotisation est assujetti aux alinéas 152(9)a) et b), qui ont trait au préjudice causé au contribuable.
+3) Le ministre ne peut pas invoquer le paragraphe 152(9) pour établir une nouvelle cotisation au‑delà du délai prévu au paragraphe 152(4) de la Loi ou pour percevoir un impôt dépassant le montant de la cotisation contestée.
+[10] Il me semble que, outre les conditions susmentionnées, le ministre ne devrait pas pouvoir contourner l’équité procédurale en invoquant, à l’appui d’une nouvelle cotisation, dans le cadre de son plaidoyer final, un motif qui n’a pas été mentionné dans la réponse. L’équité procédurale exige que l’intimée, si elle avait voulu avancer un nouveau motif à l’appui de la nouvelle cotisation, aurait dû présenter une requête avant le début de l’audience en vue de faire modifier la réponse, de façon que le nouveau motif y soit mentionné. Selon moi, les dispositions du paragraphe 152(9) de la Loi ne devraient pas être interprétées comme dispensant une partie de l’exigence procédurale voulant que les actes de procédure soient modifiés en vue d’inclure un nouvel argument. Le paragraphe 152(9) de la Loi prévoit que le ministre peut proposer un autre argument, mais il me semble que pareil argument doit être avancé conformément aux règles de la Cour et conformément aux règles d’équité procédurale.
+[11] Dans la décision Ritonja c. La Reine, 2006 CCI 346, 2006 DTC 3140, le juge en chef Bowman (tel était alors son titre) a dit ce qui suit :
+[10] Permettre à l’intimée de faire valoir pour la première fois à l’instruction un tout nouveau moyen justifiant le refus de la déduction serait contraire au principe fondamental d’équité procédurale. Voir la décision Poulton v. Canada, 2002 2 C.T.C. 2405 qui a été confirmée par la Cour d’appel fédérale dans l’arrêt Burton v. The Queen, 2006 DTC 6133. Dans la décision Poulton, aux pages 2408 à 2410, j’ai exposé mon point de vue sur les moyens invoqués à la dernière minute par la Couronne à l’encontre des contribuables qui ne sont pas représentés par un avocat.
+[11] La veille de l’instruction, l’intimée a présenté des requêtes visant à modifier ses réponses afin d’ajouter aux sections C et D un renvoi à l’alinéa 6(1)b). La requête a été débattue au fond au début de l’instruction. J’ai rejeté la requête de l’intimée et j’ai donné des explications verbales assez détaillées à ce sujet. Voici un bref résumé de mes motifs.
+[12] Tant la Cour canadienne de l’impôt que la Cour d’appel fédérale se montrent habituellement assez libérales en ce qui a trait à l’autorisation de modifications. [...]
+[…]
+[16] Pourquoi n’ai‑je pas autorisé la modification en l’espèce, comme la Cour fédérale l’avait fait dans les arrêts susmentionnés? En fait, il y a toute une différence entre les grandes sociétés ouvertes et les multinationales qui ont accès aux services d’avocats chevronnés pour les défendre dans des causes mettant en jeu des millions de dollars, et les petits contribuables qui ne sont pas représentés par des avocats et dont le litige porte sur des montants relativement mineurs.
+[17] Selon les principes d’équité procédurale, dans les affaires régies par la procédure informelle, la Couronne ne devrait pas être autorisée à présenter à la dernière minute un tout nouvel argument à l’encontre d’un contribuable. Si les appelants avaient su dès le départ ou, à tout le moins, s’ils avaient appris dans un délai raisonnable avant l’instruction, que la Couronne comptait invoquer l’alinéa 6(1)b), ils auraient peut-être agi de façon entièrement différente et auraient pu présenter une preuve visant à réfuter l’allégation selon laquelle les montants constituaient des « allocations » au sens de l’alinéa 6(1)b) ou à démontrer qu’ils étaient soustraits à l’application de cette disposition par le paragraphe 6(6). Si j’avais fait droit aux requêtes de la Couronne et autorisé la modification, les appelants auraient eu parfaitement le droit de demander un ajournement, ce qui aurait retardé indûment le traitement des appels informels en l’espèce, qui portent sur un litige relativement mineur. Je ne saurais trop répéter à quel point il est important que la Cour veille, dans les affaires régies par la procédure informelle, à ce que le contribuable non représenté ne soit pas privé de l’application des principes d’équité procédurale.
+[18] J’admets volontiers qu’en rejetant la requête en modification de la Couronne, j’ai peut-être privé celle-ci de la possibilité d’invoquer ce qui pourrait être un argument fort valable. Cependant, le rejet des appels en l’espèce au détriment de la Couronne parce que celle-ci a commis une erreur et omis de citer une disposition qui aurait pu l’aider n’est pas une catastrophe, que ce soit au plan jurisprudentiel ou financier. Il est beaucoup plus important de veiller à ce que les contribuables non représentés au cours d’une affaire régie par la procédure informelle bénéficient pleinement de l’application des principes d’équité procédurale. Contraindre les appelants à étudier des dispositions aussi complexes que l’alinéa 6(1)b) et le paragraphe 6(6) la veille de l’instruction causerait un tort irréparable à l’administration de la justice.
+[11] En l’espèce, la Couronne n’a pas demandé une modification, et, pour les motifs exposés dans la décision Poulton, je ne l’aurais probablement pas approuvée. Cependant, le fait que la Couronne a invoqué à l’instruction un argument qui n’avait pas été exposé dans les actes de procédure ne la place pas dans une meilleure position que si elle avait présenté une requête en ajournement et que celle‑ci avait été rejetée.
+[12] Dans l’arrêt Burton c. La Reine, 2006 CAF 67, [2006] 2 C.T.C. 286, 2006 DTC 6133, le juge Rothstein (tel était alors son titre), de la Cour d’appel fédérale, a dit ce qui suit :
+[14] La question de savoir s’il y a lieu de permettre la modification d’un acte de procédure et s’il convient, en pareil cas, de suspendre l’audience ou de l’ajourner, relève, bien sûr, du pouvoir discrétionnaire de la Cour. D’après moi, le juge Bowman n’entendait pas sur ce point imposer des règles immuables. Je considère, par contre, qu’il précisait les considérations d’ordre pratique dont un juge de la Cour de l’impôt devrait tenir compte dans l’exercice de son pouvoir discrétionnaire en de telles circonstances.
+[…]
+[17] Les considérations pertinentes sont, premièrement, que les avantages imposables en cause en l’espèce s’élèvent à 6 348 $ pour l’année 2000 et à 4 801 $ pour l’année 2001. Le montant de l’impôt ne correspond, bien sûr, qu’à un pourcentage de ces sommes, environ 40 p. 100 selon l’appelant. Les sommes en question sont donc relativement peu élevées.
+[18] Deuxièmement, les années d’imposition en cause remontaient, à l’époque de l’audience, à environ quatre ou cinq ans.
+[19] Troisièmement, l’appelant n’est pas assisté d’un avocat. Il pouvait, à juste titre, s’attendre à ce que la cotisation se fonde effectivement sur la réponse initiale du ministre et limiter par conséquent sa préparation aux dispositions législatives invoquées par le ministre dans cette réponse. L’article 6 de la Loi de l’impôt sur le revenu prévoit un certain nombre d’exceptions ainsi que des exceptions à ces exceptions et le sens de cette disposition n’est donc pas parfaitement évident. L’erreur commise par le ministre en ne citant pas, dans sa réponse initiale, l’alinéa 6(1)l) n’était pas manifeste et l’appelant ne pouvait donc pas prévoir qu’il serait nécessaire d’y apporter une modification.
+[20] Compte tenu de ces diverses considérations, j’exercerais mon pouvoir discrétionnaire, pour refuser la modification de la réponse du ministre devant la Cour de l’impôt par l’ajout de l’alinéa 6(1)l) de la Loi de l’impôt sur le revenu. Comme elle ne peut être justifiée par aucune autre disposition de l’article 6 de la Loi, l’imposition à l’appelant des frais d’utilisation d’une automobile ne peut être maintenue.
+[13] En l’espèce, l’intimée n’a pas demandé que la réponse soit modifiée et elle ne devrait pas être placée dans une meilleure position que celle dans laquelle elle serait placée si une telle demande avait été faite. Il est loin d’être clair que l’intimée aurait eu l’autorisation de modifier la réponse à l’audience, si une telle demande avait été faite. Dans ce cas‑ci, le fait pertinent qui importe pour ce qui est de l’application du paragraphe 8(10) de la Loi est de savoir si l’appelant a joint le formulaire prescrit à sa déclaration de revenu. Il ne s’agit pas d’un fait dont seul l’appelant connaîtrait l’existence et l’intimée serait probablement tout aussi en mesure de faire savoir ce que l’appelant a joint ou a omis de joindre à sa déclaration de revenu. Il est possible dans ce cas‑ci que le vérificateur et l’agent des appels, à l’Agence du Revenu du Canada, aient décidé qu’il aurait été inéquitable d’établir une nouvelle cotisation à l’égard de l’appelant pour le motif que le formulaire T2200 n’avait pas été joint à la déclaration de revenu. Il est clairement dit, au haut du formulaire T2200 (qui a été rédigé par l’Agence du revenu du Canada) que « [l]’employé n’a pas à joindre ce formulaire à sa déclaration » et que, « [ce]pendant, il doit le conserver pour pouvoir le fournir sur demande ». Le formulaire ne peut pas servir à modifier la Loi et ne peut rien changer à la condition prévue par la loi selon laquelle le formulaire prescrit doit être joint à la déclaration de revenu, mais étant donné le libellé clair du formulaire, il semble inéquitable d’établir une nouvelle cotisation à l’égard de l’appelant pour le motif que le formulaire n’a pas été joint à sa déclaration de revenu. Les réponses auxquelles il n’a pas été répondu sur ce point (et auxquelles il faudrait répondre si la question en litige avait été plaidée de la façon appropriée) sont de savoir si le ministre peut renoncer à l’observation des conditions prévues au paragraphe 8(10) de la Loi et, dans l’affirmative, si le ministre a renoncé à l’observation des conditions prévues par cette disposition au moyen de formulaires imprimés dans lesquels il est clairement dit que l’employé n’a pas à joindre le formulaire prescrit à sa déclaration de revenu.
+[14] Dans ce cas‑ci, l’appelant a déduit des frais afférents à un véhicule à moteur et des frais pour l’espace consacré au travail à domicile dans le calcul de son revenu d’emploi. L’appelant travaillait pour Island Ink‑Jet Manitoba Ltd. Il était également l’unique actionnaire, dirigeant et administrateur d’Island Ink‑Jet Manitoba Ltd., qui s’occupait du remplissage de cartouches d’imprimantes depuis un comptoir, dans un centre commercial, à Winnipeg.
+[15] Le paragraphe 8(2) de la Loi prévoit ce qui suit :
+(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[16] Il faut donc décider si l’appelant satisfait aux conditions prévues à l’article 8 quant aux déductions demandées. Dans son avis d’appel ou au cours de l’audience, l’appelant n’a pas indiqué les dispositions du paragraphe 8(1) de la Loi sur lesquelles il se fondait pour demander une déduction au titre des frais afférents au véhicule à moteur et des frais pour l’espace consacré au travail à domicile. L’avocat de l’intimée a examiné les alinéas 8(1)h.1) et 8(1)i) de la Loi[1].
+[17] Les alinéas 8(1)h.1), et i) de la Loi prévoient (en partie) ce qui suit :
+8. (1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+h.1) dans le cas où le contribuable, au cours de l’année, a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi, les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+(ii) demandé une déduction pour l’année en application de l’alinéa f);
+[…]
+i) […] les sommes payées par le contribuable au cours de l’année au titre :
+[…]
+(ii) du loyer de bureau ou du salaire d’un adjoint ou remplaçant que le contrat d’emploi du cadre ou de l’employé l’obligeait à payer,
+(iii) du coût des fournitures qui ont été consommées directement dans l’accomplissement des fonctions de la charge ou de l’emploi et que le contrat d’emploi du cadre ou de l’employé l’obligeait à fournir et à payer,
+[Non souligné dans l’original.]
+[18] Un élément commun de ces dispositions est que, pour avoir le droit de demander la déduction, l’employé doit être tenu, en vertu de son contrat d’emploi, de payer les dépenses en question. L’alinéa 8(1)h.1) de la Loi prévoit également que l’employé doit être tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits. Le sous‑alinéa 8(1)i)(iii) de la Loi prévoit également que l’employé doit être tenu de fournir les fournitures dont il cherche à déduire le coût.
+[19] Il s’agit en l’espèce de savoir si l’appelant était tenu, en vertu de son contrat d’emploi, d’acquitter les frais qu’il engageait.
+[20] Dans l’arrêt La Reine c. Cival, [1983] 2 C.F. 830, la Cour d’appel fédérale a dit ce qui suit :
+Je suis disposé à admettre, pour les fins du présent appel, que M. Cival pouvait conclure avec son employeur un contrat, à titre individuel, portant sur un aspect de son emploi, bien qu’il fût régi par la convention collective, dans la mesure où le contrat n’était pas incompatible avec les dispositions de la convention. [Voir Re Nova Scotia Civil Service Commission and Nova Scotia Government Employees Association (1980), 24 L.A.C. (2d) 319.] À mon avis, l’entente conclue entre M. Cival et son employeur, si entente il y avait, était tout au plus ce qu’on appelle parfois un contrat unilatéral. [Voir S.M. Waddmas, The Law of Contracts, ch. 4, "Unilateral Contracts".] Cette entente prévoyait que son employeur s’engageait à lui rembourser, suivant un taux de millage donné, les dépenses faites pour utiliser son automobile dans l’exercice de ses fonctions. Je n’interprète pas cette entente comme la promesse faite par M. Cival d’utiliser son automobile dans l’exercice de ses fonctions et de payer lui‑même les dépenses, contre l’engagement de son employeur de les lui rembourser. En d’autres termes, je décrirais l’entente de la manière suivante : aucun contrat n’obligeait M. Cival à utiliser sa voiture pour son travail, ni à payer les frais en découlant; si au cours de l’année 1977, il avait refusé d’utiliser son automobile à cette fin, il n’aurait pu être poursuivi par son employeur pour inexécution de ce contrat. En conséquence, pour reprendre les termes du sous‑alinéa 8(1)h)(ii), il n’était pas tenu, en vertu de son contrat d’emploi, d’acquitter les frais de déplacement engagés par lui pour l’accomplissement des fonctions de son emploi. Cela suffit pour trancher l’appel.
+[Non souligné dans l’original.]
+[21] Dans un arrêt ultérieur, Hoedel v. Her Majesty The Queen, 86 DTC 6535, la Cour d’appel fédérale a dit ce qui suit :
+En toute déférence pour le juge de première instance, j’estime que le dossier ne lui permettait pas de tirer une telle conclusion. Le témoignage non contredit de l’appelant et celui de son supérieur, le sergent Forbes, démontrent à l’évidence selon moi que l’appelant avait l’obligation de prendre le chien avec lui lorsqu’il n’était pas de service. La raison d’être de cette disposition était, suivant le sergent Forbes, [traduction] « [...] de favoriser l’adaptation du chien ». Il a expliqué que l’adaptation du chien commençait à l’occasion d’un cours de dressage de douze semaines. Il était nécessaire de poursuivre le programme d’adaptation une fois le cours terminé. Le témoin a qualifié ce programme de processus permanent et a précisé que l’objectif était d’apprendre au chien à mieux répondre à son maître en éliminant [traduction] « l’instinct de meute » ou [traduction] « l’environnement de meute ». À la page 84 du dossier, le sergent Forbes a déclaré sans équivoque que le transport du chien en dehors des heures de travail était une des conditions d’emploi de l’appelant au sein de la D.C. Je suis incapable de dire, comme le juge de première instance, que le transport du chien ne constituait qu’un aspect secondaire du travail et non une condition d’emploi puisque l’inobservation de cette condition ne devait pas entraîner l’imposition de mesures disciplinaires. La preuve démontre tout à fait le contraire. Le sergent Forbes a affirmé que s’il ne s’était pas conformé aux instructions reçues, l’appelant aurait vraisemblablement subi une appréciation négative de son travail, appréciation qui aurait nui à son avenir au sein de la force policière. Il s’agit certainement d’une question très sérieuse qui comporte des conséquences très fâcheuses pour l’employé concerné. Lorsqu’on rapproche ce témoignage de celui que nous avons résumé ci-dessus au sujet de l’importance accordée à la présence constante du chien aux côtés du policier, je ne vois pas comment on pourrait conclure que la condition en litige ne constitue pas une « exigence » des fonctions de l’emploi de l’appelant. J’estime également que la preuve démontre que cette condition était habituellement et régulièrement « exigée ». J’ajouterais toutefois que même si, comme le juge de première instance l’a statué, en ne respectant pas l’obligation qui lui était faite de prendre le chien avec lui dans tous ses déplacements, « sa conduite ne lui aurait pas été reprochée par des mesures disciplinaires, mais plutôt dans l’évaluation annuelle de son rendement au sein de la D.C. » (page 48 du dossier), il n’en résulte nullement que ce transport ne constituait pas une fonction de l’emploi de l’appelant. Au contraire, si en n’accomplissant pas une tâche un employé s’expose à une évaluation négative de son employeur, il me semble que cela constitue une preuve convaincante que cette tâche fait partie des fonctions de son emploi.
+[Non souligné dans l’original.]
+[22] Par conséquent, il me semble que, pour satisfaire à l’exigence selon laquelle il est tenu d’acquitter les frais qu’il avait engagés, l’appelant doit établir qu’il en résulterait pour lui certaines conséquences préjudiciables s’il ne s’acquittait pas de son obligation. Dans ce cas‑ci, quelles seraient les conséquences si l’appelant refusait d’engager ces frais? Étant donné qu’il était l’unique dirigeant, administrateur et actionnaire de l’employeur, il semble évident que si l’appelant refusait d’engager les frais en question, il n’en résulterait pour lui aucune conséquence défavorable. On ne saurait concevoir que l’appelant, en sa qualité de président d’Island Ink‑Jet Manitoba Ltd., fasse en sorte que la société engage des poursuites contre lui pour rupture de contrat, qu’elle prenne des mesures disciplinaires ou qu’elle rédige une mauvaise évaluation du rendement. Il me semble donc que l’appelant a décidé de payer ces montants personnellement plutôt que de les faire payer par la société (directement ou au moyen d’un remboursement en sa faveur) et que l’appelant n’était pas tenu de le faire en sa qualité d’employé. L’appelant ne subirait aucune conséquence préjudiciable s’il ne payait pas personnellement les dépenses ou s’il n’accomplissait pas ses fonctions.
+[23] L’appelant n’a donc pas le droit de déduire les montants dont la déduction est demandée au titre des frais afférents à un véhicule à moteur ou des frais pour l’espace consacré au travail à domicile dans le calcul de son revenu d’emploi pour les années 2005 et 2006.
+[24] L’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 5e jour de février 2010.
+Marie-Christine Gervais, traductrice
+Annexe A
+RÉFÉRENCE : 2009 CCI 613
+No DU DOSSIER DE LA COUR : 2009-1713(IT)I
+INTITULÉ : MORTON ADLER
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 19 novembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 7 décembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Brendan Friesen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1]Étant donné que le revenu de l'appelant ne comprenait pas les commissions, l'alinéa 8(1)f) de la Loi ne s'applique pas.

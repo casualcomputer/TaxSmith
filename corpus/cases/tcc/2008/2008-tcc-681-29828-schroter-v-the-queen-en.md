@@ -1,0 +1,234 @@
+---
+title: "Schroter v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29828/index.do"
+last_modified: "2008-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 681"
+citation2: ""
+neutral_citation: "2008 TCC 681"
+decision_date: "2008-12-18"
+language: "en"
+item_id: "29828"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6570
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:32:20.140000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "832fec2bc50500dc55edc729c2b8b6198b841c9059aa389972df4073406ee772"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schroter v. The Queen
+
+- Citation: 2008 TCC 681
+- Decision date: 2008-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6570, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schroter v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-18
+Neutral citation
+2008 TCC 681
+File numbers
+2007-4762(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4762(IT)I
+BETWEEN:
+RICHARD G. SCHROTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Jim Johannsson (2008‑598(IT)I) on September 10, 11 and 15, 2008 at Edmonton, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 1998, 2002 and 2003 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the taxable benefit should exclude any component for goods and services tax.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 18th day of December 2008.
+“J. Woods”
+Woods J.
+Docket: 2008-598(IT)I
+BETWEEN:
+JIM JOHANNSSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Richard G. Schroter (2007‑4762(IT)I) on September 10, 11 and 15, 2008 at Edmonton, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2002 and 2003 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant did not receive a taxable benefit from the provision of a parking pass.
+The appellant is entitled to his costs, if any, and the Registry is directed to reimburse the Court’s filing fee.
+Signed at Toronto, Ontario this 18th day of December 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC681
+Date: 20081218
+Dockets: 2007-4762(IT)I
+2008-598(IT)I
+BETWEEN:
+RICHARD G. SCHROTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+JIM JOHANNSSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] In these appeals, two employees of TELUS Corporation dispute the inclusion in their income of a taxable benefit in regard to parking passes provided by their employer. Richard Schroter appeals assessments made under the Income Tax Act for the 1998, 2002 and 2003 taxation years. Jim Johannsson appeals assessments for the 2002 and 2003 taxation years.
+[2] There are two questions to be decided: (1) does the provision of a parking pass constitute a taxable benefit, and (2) if it does, what is the value of the benefit.
+[3] As a preliminary matter, I would mention that the appeals were scheduled to be heard on the same day but no one informed the self-represented appellants of this. Understandably, they were surprised to see each other on the morning of the hearing.
+[4] At the suggestion of counsel for the respondent, the appellants agreed to have their appeals heard together on common evidence. I reluctantly agreed to this because the appellants had not prepared for it. As it turned out, though, the appellants were both quite capable of handling the last minute change.
+[5] The evidence was heard over a three-day period and written submissions were subsequently received. I wish to thank the parties for the assistance provided by their written submissions.
+Audit History
+[6] The assessments at issue are among a large number that were issued to employees of TELUS who received parking passes.
+[7] An auditor who was involved in the assessment process testified at the hearing as to the background of the audit. Based on information provided by TELUS and after speaking to some employees, the auditor concluded that employees within the company’s payband 5 were automatically entitled to parking passes. The CRA decided to assess a benefit to these employees unless satisfactory evidence was provided that there was significant business use of a particular vehicle. Because TELUS did not have this information, the auditor invited the affected employees to provide it.
+[8] In 1998, the benefit was assessed at 100 percent of the value of the pass, unless evidence of business use was provided. In 2002 and 2003, the amount assessed was automatically reduced by 10 percent to take some business use into account. If satisfactory evidence of significant business use was provided, a further reduction was made, which varied depending on the amount of business usage.
+[9] Mr. Schroter was not able to satisfy the auditor of significant business usage and the benefit to him was assessed at 100 percent for 1998 and 90 percent for 2002 and 2003. Mr. Johannsson was able to demonstrate more than nominal business usage and the benefit to him was assessed at 75 percent.
+Post-audit history
+[10] Many of the TELUS employees who received assessments for parking passes filed objections. Because of the large numbers involved, it was decided to take a test case so that the Court could provide some guidance.
+[11] The first test case is commonly known as Chow v. The Queen (2001 DTC 164 (TCC)). It involved two taxpayers, both of whom were successful in their appeals. Unfortunately, the decision did not serve as a useful precedent because the circumstances of the two taxpayers were not sufficiently representative of all affected employees.
+[12] It was subsequently decided to take another test case with a larger group of employees. That decision, commonly known as Adler v. The Queen (2007 DTC 783, 2007 TCC 272), came before Deputy Judge Rowe and his decision was not appealed.
+Applicable legal principle
+[13] The relevant statutory provision is paragraph 6(1)(a) of the Act which provides in part:
+6. (1) Amounts to be included as income from office or employment. There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+(a) Value of benefits – the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, […]
+[14] From time to time, this Court has commented on the difficulty of determining whether a taxable benefit has been conferred on an employee in a particular case. In my view, the subject of free parking fits into the “difficult” category.
+[15] Recently, former Chief Justice Bowman stated in obiter in Rachfalowski v. The Queen, 2008 DTC 3626, 2008 TCC 258, that he doubted that parking was ever a taxable benefit.
+[16] Deputy Judge Rowe took a different view in Adler, and concluded that the provision of a parking pass to TELUS employees constituted a taxable benefit unless the advantage in a particular case accrued primarily to TELUS. (See Adler, at para. 75 and 76.)
+[17] For the vast majority of the taxpayers in Adler, it was determined that the parking passes were a taxable benefit, notwithstanding that some of the taxpayers had demonstrated business use of the vehicles. In only two of 16 cases did the Court find that there was not a benefit, and in one of those it was determined that the parking pass was not used by the employee.
+[18] With respect to the one taxpayer who used the pass but was found not to have received a taxable benefit, Rowe D.J. noted that it was significant that TELUS supplied this taxpayer with a vehicle for business use. At para. 102, the judge stated that there was “an understanding that [the taxpayer] use the Telus-supplied Honda for business purposes and that the free parking space was provided as an accessory to facilitate its efficient use.”
+[19] In these appeals, I consider that it is important to adopt the approach taken by the Tax Court of Canada in Adler. The Adler group of appeals was intended to provide guidance in respect of other TELUS employees. It is important that this Court adopt a consistent approach on this issue.
+[20] If the decision in Adler had been clearly wrong, I would have taken a fresh look. But in my view the conclusion in Adler was a reasonable one to take on a difficult issue. I think it should be followed.
+Richard Schroter
+[21] I will first consider the parking pass issued to Richard Schroter. The taxation years at issue are 1998, 2002 and 2003.
+[22] Mr. Schroter first received a parking pass in 1998 when he was promoted to the position of Director of Income Taxation for TELUS. Prior to the receipt of the pass, Mr. Schroter routinely took the bus to work.
+[23] The main thrust of Mr. Schroter’s submission is that TELUS did not provide the parking pass to him as a perk but in order to facilitate the overtime that would be required in his new position. At page 112 of the transcript of his cross‑examination, Mr. Schroter stated:
+When I was provided with the parking pass, my manager told me at the time that that was being provided to me so that it could allow me to do more work. And so that’s what my time sheets support, that that was a tool that allowed me to do that additional work.
+[24] If it is determined that TELUS provided the pass to Mr. Schroter in order to enable him to do more work, this would be sufficient to distinguish the facts from any of the 14 taxpayers in Adler who were found to have received a taxable benefit.
+[25] My conclusion on this issue, though, is that the evidence is not sufficient to establish that the manager provided the pass primarily for business reasons.
+[26] I do not doubt that Mr. Schroter had a conversation with his manager, T.K. McGillicuddy, Vice President, Taxation, about how the parking pass would facilitate the performance of his increased duties after his promotion. However, I am not satisfied that this was the main reason that the pass was given to Mr. Schroter.
+[27] I note, for example, that Mr. McGillicuddy had provided a letter to the CRA during the audit which suggests that all employees in payband 5, which included Mr. Schroter, were entitled to parking passes.
+[28] Mr. McGillicuddy wrote (Ex. R-4):
+Generally, parking was provided to employees in bands 5 and above, and to a limited number of employees below band 5 who had a particular need for it.
+[29] In order for Mr. Schroter to establish TELUS’ purpose in providing the pass, I think it was crucial for Mr. Schroter to have called Mr. McGillicuddy to provide evidence at the hearing. It is not sufficient in the circumstances to rely on Mr. Schroter’s testimony.
+[30] I have also considered whether, regardless of TELUS’ intent, the actual business use of the vehicle by Mr. Schroter is a sufficient basis to conclude that the parking pass is not a taxable benefit.
+[31] Mr. Schroter testified that his daily commute time was reduced by about one hour when he drove his own car as opposed to taking public transit. He also testified that he had conscientiously spent this additional hour at work rather than at home. All of this testimony was convincingly corroborated by supporting documentation.
+[32] This argument has some appeal from a common sense point of view, but in my view it would be contrary to Adler to find that the primary beneficiary of the pass was TELUS. Mr. Schroter’s decision to drive to work was essentially a matter of personal choice.
+[33] I refer to the findings of D.J. Rowe in Adler in relation to Douglas Alloway, at para. 112:
+[…] It is apparent Alloway worked hard in carrying out the onerous duties associated with his executive position but the better view of the evidence is that the use of the parking space was inextricably linked to personal choices made by him throughout the year rather than pursuant to any direction or requirement – either express of implied – on the part of his employer. Alloway admitted he considered the parking pass had enabled him to work overtime and to receive better raises and achieve promotion within Telus. As a result of Alloway’s decisions to use his vehicle for personal convenience and to facilitate working overtime or for direct business purposes and not billing for that usage, Telus received an ancillary benefit which even though not quantifiable on the evidence was far less than the lion’s share of the total benefit flowing from the provision of the pass. That main, primary benefit was received by Alloway and for that reason it is taxable.
+[34] In the result, I find that the provision of a parking pass to Mr. Schroter was a taxable benefit. I turn now to a consideration of the value of the benefit.
+[35] In Adler, there was no dispute about the value. It was determined based on the price of parking charged to the public in the underground garage used by TELUS employees in downtown Edmonton. The public could purchase a monthly pass for about $160, which included GST.
+[36] Mr. Schroter submits that this approach is wrong because it ignores the fact that there are alternative means of travel to work. These include taking the bus, or driving a personal vehicle and parking in a nearby, but less expensive, parking lot.
+[37] Mr. Schroter also submits that the Minister’s approach does not take into account the cost of operating a vehicle. He suggests that this cost eliminates any economic advantage to a parking pass as compared to public transit.
+[38] The approach suggested by Mr. Schroter looks at the cost saved rather than the value of what was received. This is not generally how the courts have approached the value issue. (See for example Mommersteeg v. The Queen, 96 DTC 1011 (TCC).)
+[39] However, the “cost-saved” approach suggested by Mr. Schroter was accepted in an obiter comment by the Federal Court of Appeal in McGoldrick v. The Queen, 2004 DTC 6407, 2004 FCA 189.
+[40] Mr. McGoldrick was an employee of a casino which provided free meals to staff in a cafeteria during their shifts. The employees were not allowed to bring food to work.
+[41] The appeal court upheld the Tax Court decision that the amount of the benefit should be based on the employer’s cost of providing the meals, but this was because there was a lack of evidence as to the cost saving to Mr. McGoldrick. In the course of their reasons, the Federal Court of Appeal accepted that the proper measure of the benefit is not what was actually received but what was saved. At paragraph 9, Malone J.A. stated:
+As a general rule, any material acquisition in respect of employment which confers an economic benefit on a taxpayer and does not constitute an exemption falls within paragraph 6(1)(a) […] In this case, the benefit is the money saved by the taxpayer in preparing a lunch or in making a food purchase from the casino vending machines while at work.
+(Emphasis added.)
+[42] Although I have reservations about the approach suggested in McGoldrick, I feel compelled to follow it.
+[43] The question is, then, what is the appropriate cost saving to Mr. Schroter.
+[44] In my view, it is not an appropriate comparator in this case to look at the cost of public transit or the cost of parking in another lot.
+[45] After his promotion in 1998, Mr. Schroter had increased responsibilities and duties and it was desirable that he work longer hours. From his perspective, the most effective way to accomplish this, without intruding on personal time, was to drive his vehicle and park in the TELUS building. I am not satisfied that there was an alternative that was as satisfactory to Mr. Schroter.
+[46] Finally, I would note that I do have some difficulty with the Minister’s calculation of the benefit which had a GST component to it. There was no argument before me on whether the value of the parking pass should include this component. As it is not a large amount, I have concluded that, in the context of this informal procedure appeal, it is appropriate to make an adjustment to the assessments to exclude the GST in computing the benefit. This conclusion could of course be revisited on another occasion. I understand that other TELUS employees currently have appeals pending in this Court.
+Jim Johannsson
+[47] Mr. Johannsson is a long-time employee of TELUS with experience in many areas of the company. The taxation years at issue in his appeal are 2002 and 2003, during which he held positions of Director of Consumer Strategy and Director of Marketing Operations.
+[48] As with Mr. Schroter, Mr. Johannsson testified that it was his understanding that TELUS provided the parking pass to him because he needed a vehicle for work. However, the circumstances that led this understanding are different from Mr. Schroter’s.
+[49] The relevant part of Mr. Johannsson’s cross-examination is reproduced below, at pages 212 and 218:
+Q. So, just to reiterate then, you applied for the pass, it was not given to you by anyone apart from your own application.
+A. I had to request it, that’s ..
+Q. You had to request it.
+A. And then it was actually, there was a fair bit of time between, as I recall, from the time I requested it to the time I actually received it.
+[…]
+Q. Do you know the process used in determining who got parking passes?
+A. I have questions about the process. I’m not a hundred percent sure. I’ve got an understanding of it, but my experience seems to be slightly different from what I understood the process to be or what the alleged process to be that I’ve seen contested by CRA.
+So, for example, you know, CRA alleges that the parking passes were awarded automatically on pay band 5, and my experience is not consistent with that. […] my experience at Telus consistently, through all of these years, has been more on the basis of need. You know, if you need the parking pass, you and your manager agree that there is a need and there’s a decision made whether or not it’s going to be granted.
+[50] In addition to this testimony, Mr. Johannsson provided a letter from his former supervisor which confirmed that he regularly needed transportation in the course of his duties.
+[51] I have concluded that TELUS did provide the parking pass to Mr. Johannsson not primarily as a perk but for business reasons. Although it would have been preferable for Mr. Johannsson’s supervisor to have been called as a witness and be subject to cross-examination, it is clear that TELUS led Mr. Johannsson to believe that the parking pass was provided on the basis of need because he had to apply for it. It would not be fair in the circumstances to find that TELUS’ decision was made on some other basis.
+[52] It may seem odd that TELUS would have a policy of automatically providing parking passes to employees in payband 5 and yet Mr. Johannsson, who was in that payband, was required to apply for one. Based on the evidence before me, however, this is not surprising because it appears that TELUS had not clearly communicated its policy to employees.
+[53] In the result, I find that the parking pass provided to Mr. Johannsson was provided primarily for business reasons and that Mr. Johannsson did not receive a taxable benefit.
+Conclusion
+[54] In the result, Mr. Schroter’s appeal will be allowed only to delete the GST component from the value of the parking pass. Mr. Johannsson’s appeal will be allowed in full.
+[55] As for costs, since Mr. Schroter was for the most part unsuccessful in his appeal there will be no order as to costs. Mr. Johannsson is entitled to his costs, if any, as well as a reimbursement of the Court’s filing fee.
+Signed at Toronto, Ontario this 18th day of December 2008.
+“J. Woods”
+Woods J.
+CITATION:
+2008TCC681
+COURT FILE NOS.:
+2007-4762(IT)I
+2008-598(IT)I
+STYLE OF CAUSE:
+Richard G. Schroter v.
+Her Majesty the Queen, and
+Jim Johannsson v.
+Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATES OF HEARING:
+September 10, 11 and 15, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J. Woods
+DATE OF JUDGMENT:
+December 18, 2008
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+n/a
+Firm:
+For the Respondent:
+John S. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

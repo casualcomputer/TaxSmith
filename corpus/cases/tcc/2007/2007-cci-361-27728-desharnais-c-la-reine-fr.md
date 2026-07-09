@@ -1,0 +1,217 @@
+---
+title: "Desharnais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27728/index.do"
+last_modified: "2007-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 361"
+citation2: ""
+neutral_citation: "2007 CCI 361"
+decision_date: "2007-06-18"
+language: "fr"
+item_id: "27728"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 479
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:33:53.830000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2532bb262f3810c2c7484a8beeaad28eb13c70d2748bfdee7ad85bf5ff5af890"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desharnais c. La Reine
+
+- Citation: 2007 CCI 361
+- Decision date: 2007-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 479, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desharnais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-18
+Référence neutre
+2007 CCI 361
+Numéro de dossier
+2004-2395(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2395(IT)I
+ENTRE :
+PIERRETTE G. DESHARNAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+LÉO PELLETIER,
+partie jointe.
+____________________________________________________________________
+Appels entendus le 14 mai 2007, à Québec (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelante :
+Me Jean-Philippe Trudel
+Avocate de l'intimée :
+Me Stéphanie Côté
+Pour la partie jointe :
+Léo Pelletier
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 à 2001, sont admis, sans frais, dans la mesure exprimée aux motifs du jugement ci‑joints, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon ces dits motifs.
+Signé à Ottawa, Canada, ce 18e jour de juin 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2007CCI361
+Date : 20070618
+Dossier : 2004-2395(IT)I
+ENTRE :
+PIERRETTE G. DESHARNAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+LÉO PELLETIER,
+partie jointe.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Les cotisations de l’appelante en appel sont pour les années 1998 à 2001.
+[2] Par une ordonnance de cette Cour, rendue le 9 novembre 2005, en vertu de l’article 174 de la Loi de l’impôt sur le revenu (la « Loi »), monsieur Léo Pelletier est une partie jointe à l’égard des cotisations pour les années d’imposition 1998 à 2001 et des cotisations projetées pour les années d’imposition 2002 et 2003.
+[3] La question commune en litige est de savoir si les sommes payées à madame Pierrette G. Desharnais par son ex-conjoint, monsieur Léo Pelletier, au cours de ces années, sont de la nature d’une pension alimentaire.
+[4] Il y a une autre question en litige mais, celle-ci ne concerne que l’appelante. Il s’agit de l’imposition de pénalités pour production tardive des déclarations de revenu.
+[5] En ce qui concerne le débat principal, c’est-à-dire l’inclusion de la pension alimentaire dans le calcul du revenu de l’appelante et la déduction du paiement de cette pension alimentaire dans le calcul du revenu du payeur, l’avocat de l’appelante a mentionné à la Cour, au début de l’audience, que l’appelante acceptait l’inclusion de la pension alimentaire dans une proportion de 60% du montant. Le 40% ne devait pas, être inclus dans le calcul du revenu de l’appelante, car selon l’avocat, cette dernière n’avait pas de discrétion à l’égard de ce montant. Il s’agissait d’un montant à être payé en paiement de l’hypothèque sur la résidence familiale.
+[6] La convention intérimaire en vertu de laquelle les paiements ont été faits a été produite comme pièce A‑1. Elle est en date du 29 juillet 1998.
+[7] Les articles 2, 3 et 7 sont importants. Ils se lisent comme suit :
+L’intimé versera à la requérante, de façon intérimaire, une pension alimentaire de $1,290.00 par mois jusqu’à ce qu’il soit statué de façon définitive sur la requête de la requérante;
+La requérante continuera de demeurer dans la résidence des parties à charge d’assumer les charges inhérentes au domicile (hypothèque, taxes, téléphone, chauffage, assurance) à l’exception des dépenses extraordinaires d’entretien;
+. . .
+La pension alimentaire sera versée aux 2 semaines dans les comptes et selon les modalités suivantes lors du versement de la paie de l’intimée;
+- $225.00, aux 2 semaines dans le compte épargne spécial à la Caisse populaire de Québec au numéro :38380
+- $370.00, aux 2 semaines dans le compte à la Caisse populaire de Ste‑Foy au numéro :815 20248 021294.
+[8] C’est sur la base de cet article 7 que l’appelante se fonde pour répartir la pension alimentaire de la manière proposée. Elle explique que le premier compte mentionné était le compte à partir duquel les paiements sur l’emprunt hypothécaire et les taxes foncières se faisaient. Il s’agissait d’un compte sans retrait. L’appelante produit à cet égard une lettre de la Caisse populaire Desjardins en date du 12 janvier 2007, pièce A‑4, qui se lit comme suit :
+La présente a pour but de vous confirmer que le compte d’épargne stable 38380-ES-l qui servait à payer les taxes éventuelles et au besoin le paiement d’hypothèque, était un COMPTE SANS RETRAIT, et ce, depuis décembre 1985. Les membres ne pouvaient avoir accès à cet argent, sauf pour payer les taxes.
+[9] Madame Johanne Carrier, une agente conseil à la Caisse populaire de Québec a témoigné à la demande de l’intimée. Elle a expliqué que ce compte avait été très peu utilisé et qu’il était, en effet, sans retrait. Toutefois, l’une ou l’autre des parties, à sa seule initiative et sans le consentement de l’autre, pouvait modifier cette condition.
+[10] En ce qui concerne l’article 7 de la convention intérimaire, monsieur Pelletier a relaté que c’était à la demande de l’appelante que cette clause avait été ajoutée à l’entente.
+[11] Il est admis que la résidence était la propriété des deux ex‑conjoints.
+[12] Peu de temps après la signature de l’entente intérimaire, madame Desharnais a fait appel au Ministère du revenu du Québec pour percevoir la pension alimentaire. Une lettre à cet égard lui a été envoyée le 23 octobre 1998, pièce A‑5, l’informant que, à compter du 1er novembre 1998, la pension alimentaire de 1 290 $ par mois lui sera payé en deux versements égaux de 645 $, soit le premier et le 16 de chaque mois, en vertu de la Loi facilitant le paiement des pensions alimentaires.
+[13] Je cite quelques paragraphes de cette lettre :
+Par la présente, nous désirons vous aviser que nous avons procédé à l’analyse de votre dossier relatif à la Loi facilitant le paiement des pensions alimentaires.
+Selon l’ordonnance rendue par le tribunal, nous constatons que votre pension alimentaire a été établie à 1 290,00 $ par mois, indexable à chaque année, à partir du 1er janvier 1999.
+. . .
+Suite à l’étude de votre dossier, il a été établi que votre situation nous autorise à effectuer de telles avances. Par conséquent, votre pension alimentaire vous sera versée de la façon suivante :
+- À compter du 1er novembre 1998, la pension alimentaire de 1 290,00 $ par mois vous sera payée en deux versements égaux de 645,00 $, soit le 1er et le 16 de chaque mois.
+. . .
+En terminant, veuillez noter que nous avons établi, selon les informations dont nous disposons dans nos dossiers, le montant de vos arrérages de pension alimentaire. En date du 31 octobre 1998, ils s’élevaient à 2 040,00 $. Ces sommes vous seront versées dès qu’elles auront été perçues.
+[14] C’est un fait admis que les dites sommes d’argent ont été versées par le Québec dans un compte personnel de l’appelante.
+[15] L’appelante n’a pas produit ses déclarations de revenu dans le délai prescrit pour les années 1998 à 2001. Les déclarations de revenu ont été établies par le ministre du Revenu national (le « Ministre ») pour chacune de ces années. Les cotisations sont datées du 31 janvier 2003. Pour les années d’imposition 1998, 1999 et 2001, une pénalité pour production tardive aux montants respectifs de 10,19 $, 214,20 $ et 140,78 $ a été imposée. Pour l’année d’imposition 2000, une pénalité pour défaut de produire une déclaration de revenu (récidive) au montant de 900,62 $ a été imposée. Pour l’année d’imposition 2000, le Ministre avait envoyé à l’appelante une mise en demeure de produire une déclaration.
+[16] À cet égard, l’appelante a déposé un certificat (pièce A-6) d’un médecin psychiatre attestant qu’elle est sous ses soins depuis le 19 décembre 2000 et que « ... le trouble dépressif et anxieux qui l’affecte depuis plusieurs années, que les événements traumatisants qu’elle a vécus au cours de celles‑ci ainsi que la présence d’un trouble de la personnalité qui l’amène à faire de la procrastination, soit à remettre à plus tard des choses qui doivent être faites, ont contribués à ce qu’elle ne produise pas dans les délais requis ses rapports d’impôt sur le revenu. »
+Arguments
+[17] L’avocat de l’appelante fait valoir que le payeur ne peut pas faire indirectement ce qu’il ne peut pas faire directement, c’est‑à‑dire déduire dans le calcul de son revenu les paiements relatifs à un emprunt hypothécaire.
+[18] L’avocate de l’intimée fait valoir que l’article 7 de l’entente intérimaire ne constitue qu’une modalité de paiement de la pension alimentaire et n’enlève nullement la discrétion de l’appelante relative à l’usage du montant payé.
+Analyse et conclusion
+[19] L’alinéa 56(1)b) et la définition de « pension alimentaire » au paragraphe 56.1(4) de la Loi se lisent comme suit :
+(1) Sommes à inclure dans le revenu de l'année -- Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+. . .
+b) Pension alimentaire [époux ou enfant] -- le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l'année d'une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu'il a incluse dans son revenu pour une année d'imposition antérieure;
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est légalement le père ou la mère d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+[20] Je suis d’avis, pour les raisons qui suivent, que la preuve a révélé que l’appelante, tout au cours des années en litige, avait discrétion quant à l’usage des sommes qui lui étaient payées par son ex-conjoint. Ces sommes étaient donc de la nature d’une pension alimentaire au sens de la définition ci-dessus.
+[21] À la lecture même de l’entente intérimaire, les dispositions concernant la pension alimentaire et le fait d’assurer les charges inhérentes au domicile énoncent des obligations bien distinctes. L’article 2 prévoit le paiement d’une pension alimentaire par l’ex-époux à la requérante. L’article 3 prévoit que la requérante peut continuer à demeurer dans la résidence des parties, mais c’est à elle d’en assumer les charges ordinaires. Les sommes versées en vertu de l’article 2 sont donc à l’entière disposition de l’appelante.
+[22] L’article 7 de l’entente entre les parties modifie-t-il cette discrétion? D’une part la preuve veut que le compte dans lequel devait être versé une partie du montant était un compte sans retrait. Mais d’autre part la preuve est à l’effet que chacune des parties pouvait enlever cette condition. De plus, les sommes perçues par le Québec pour l’appelante et versées à cette dernière l’ont été dans un compte de banque personnel de cette dernière. Ni l’ex-conjoint, ni l’appelante ne se sont préoccupés de cette variante avec l’article 7 de l’entente intérimaire. Ce qui démontre bien que cet article n’a jamais eu pour les parties le caractère limitatif et obligatoire que l’appelante voudrait maintenant lui attribuer.
+[23] L’avocat de l’appelante a fait valoir qu’un contribuable ne peut pas faire indirectement ce qu’il ne peut faire directement et que, de permettre à l’ex‑conjoint la déduction de la pension alimentaire en totalité lui permettrait de bénéficier d’une déduction pour les paiements hypothécaires. D’abord, ce n’est pas lui qui, selon l’entente intérimaire, avait la charge des paiements hypothécaires mais l’appelante qui résidait dans la propriété commune. Mais, de toute façon, il y a une disposition qui prévoit la déduction du paiement d’une pension alimentaire qui n’est pas une pension alimentaire pour enfants. Si l’ex‑conjoint a payé une telle pension alimentaire, il a le droit de la déduire en vertu de l’alinéa 60b) de la Loi. Il fait directement ce à quoi la Loi lui donne droit.
+[24] Considérons maintenant l’imposition des pénalités pour production tardive.
+[25] Les paragraphes 162(1) et 162(2) de la Loi se lisent comme suit :
+(1) Défaut de déclaration de revenu -- Toute personne qui ne produit pas de déclaration de revenu pour une année d'imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d'une pénalité égale au total des montants suivants :
+a) 5 % de l'impôt payable pour l'année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu'à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+(2) Récidive -- La personne qui ne produit pas de déclaration de revenu pour une année d'imposition selon les modalités et dans le délai prévus au paragraphe 150(1) après avoir été mise en demeure de le faire conformément au paragraphe 150(2) et qui, avant le moment du défaut, devait payer une pénalité en application du présent paragraphe ou du paragraphe (1) pour défaut de production d'une déclaration de revenu pour une des trois années d'imposition précédentes est passible d'une pénalité égale au total des montants suivants :
+a) 10 % de l'impôt payable pour l'année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 2 % de cet impôt impayé par le nombre de mois entiers, jusqu'à concurrence de 20, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[26] Le paragraphe 150(1), l’alinéa 150(1)d) et les paragraphes 150(1.1) et 150(2) de la Loi se lisent comme suit :
+150(1) Déclarations -- règle générale -- Sous réserve du paragraphe (1.1), une déclaration de revenu sur le formulaire prescrit et contenant les renseignements prescrits doit être présentée au ministre, sans avis ni mise en demeure, pour chaque année d'imposition d'un contribuable :
+...
+d) Particuliers -- dans le cas d'une autre personne :
+(i) au plus tard le 30 avril de l'année suivante, par cette personne ou, si celle-ci ne peut, pour quelque raison, produire la déclaration, par son tuteur, curateur ou autre représentant légal,
+(ii) au plus tard le 15 juin de l'année suivante, par cette personne ou, si celle-ci ne peut, pour quelque raison, produire la déclaration, par son tuteur, curateur ou autre représentant légal, dans le cas où elle est :
+A) un particulier qui a exploité une entreprise au cours de l'année, sauf si les dépenses effectuées dans le cadre de l'exploitation de l'entreprise représentent principalement le coût ou le coût en capital d'abris fiscaux déterminés, au sens du paragraphe 143.2(1),
+(B) au cours de l'année, l'époux ou conjoint de fait visé, au sens de l'article 122.6, d'un particulier auquel s'applique la division (A),
+(iii) si, au cours de l'année, la personne est l'époux ou conjoint de fait visé, au sens de l'article 122.6, d'un particulier auquel l'alinéa b) s'applique pour l'année, au plus tard le dernier en date du jour où elle serait tenue par ailleurs de produire sa déclaration et du jour qui tombe six mois après le décès du particulier;
+150(1.1) Exception -- Le paragraphe (1) ne s'applique pas à l'année d'imposition d'un contribuable dans les cas suivants :
+a) le contribuable est une société qui a été un organisme de bienfaisance enregistré tout au long de l'année;
+b) le contribuable est un particulier, sauf si, selon le cas :
+(i) un impôt est payable par lui pour l'année en vertu de la présente partie,
+...
+150(2) Mise en demeure de produire une déclaration – Toute personne, qu'elle soit ou non assujettie à l'impôt visé par la présente partie pour une année d’imposition et qu'une déclaration ait été produite ou non en vertu du paragraphe (1) ou (3), doit, sur mise en demeure du ministre, signifiée à personne ou envoyée sous pli recommandé, produire auprès du ministre, dans le délai raisonnable fixé par la mise en demeure, une déclaration de revenu pour l'année d’imposition y mentionnée, selon le formulaire prescrit et renfermant les renseignements prescrits.
+[27] Selon le paragraphe 150(1.1) de la Loi, un particulier n’est pas obligé de produire une déclaration de revenu s’il n’y a pas d’impôt payable par lui pour l’année.
+[28] Toutefois, le paragraphe 150(2) de la Loi prévoit la possibilité d’une mise en demeure de produire une déclaration qu’une personne soit ou non assujettie à l’impôt et qu’elle ait ou non produit une déclaration de revenu. Une telle mise en demeure a été faite à l’appelante pour l’année 2000
+[29] Pour les années en cause dans l’imposition de la pénalité pour production tardive, le revenu ajouté par le Ministre était à peu près uniquement composé de la pension alimentaire reçue de monsieur Léo Pelletier. La seule année où un autre montant substantiel a été ajouté est celui de l’année d’imposition 2000, où une somme provenant d’un régime enregistré d’épargne retraite, au montant de 7 052 $ a été encaissé. Sur cette somme encaissée, des déductions à la source au montant de 353 $ avaient été faites.
+[30] L’appelante contestait l’inclusion dans le calcul de son revenu du montant de pension alimentaire qui lui était payée par son ex-conjoint. Il n’y a pas eu de preuve que n’eût été ce montant, un impôt aurait été payable par l’appelante. Nous ne sommes pas ici en matière de revenus sciemment non déclarés. Je suis donc d’avis que l’appelante n’est pas sujette à l’imposition de la pénalité pour production tardive car je ne suis pas certaine que pour les années 1998, 1999 et 2001, qu’un impôt aurait été payable par elle. En ce qui concerne l’absence de réponse à la mise en demeure, j’accepte le certificat du médecin qui dit que l’appelante était en état de dépression ou de confusion mentale et incapable de voir correctement à ses affaires.
+[31] À la suite de l’audience, l’avocate de l’intimée, de son propre chef, a fait parvenir à la Cour une lettre accordant certaines déductions à l’appelante :
+C’est ainsi que l’intimée admet que l’appelante a droit aux déductions et crédits suivants :
+Quant à l’année 2000 :
+· Frais médicaux de 1368 $.
+· Frais de scolarité et montant relatif aux études de 457 $.
+· Dons admissibles de 5 $.
+Quant à l’année 2001 :
+· Frais de scolarité de 187 $.
+· Montant relatif aux études de 480 $.
+· Frais médicaux 470 $.
+· Dons admissibles de 5 $.
+[32] En conclusion, pour chacune des années en cause, l’appelante doit inclure la totalité de la pension alimentaire payée par son ex‑conjoint et celui‑ci peut déduire le même montant dans le calcul de son revenu pour chacune de ces années. L’imposition des pénalités pour production tardive et pour récidive est annulée. L’appel est accordé à cet égard ainsi qu’à l’égard des déductions décrites dans la lettre de l’avocate de l’intimée.
+Signé à Ottawa, Canada, ce 18e jour de juin 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2007CCI361
+Nº DU DOSSIER DE LA COUR : 2004-2395(IT)I
+INTITULÉ DE LA CAUSE : PIERRETTE G. DESHARNAIS c.
+SA MAJESTÉ LA REINE
+et LÉO PELLETIER
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 14 mai 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 18 juin 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jean-Philippe Trudel
+Avocate de l'intimée :
+Me Stéphanie Côté
+Pour la partie jointe
+Léo Pelletier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jean-Philippe Trudel
+Cabinet : Me Jean-Philippe Trudel, Avocat
+Québec (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

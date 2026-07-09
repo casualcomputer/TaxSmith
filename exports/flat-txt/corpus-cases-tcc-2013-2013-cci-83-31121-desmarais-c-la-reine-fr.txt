@@ -1,0 +1,143 @@
+Title: Desmarais c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31121/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-83-31121-desmarais-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-03-15
+
+# Desmarais c. La Reine
+
+- Citation: 2013 CCI 83
+- Decision date: 2013-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4770, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desmarais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-03-15
+Référence neutre
+2013 CCI 83
+Numéro de dossier
+2012-3792(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3792(IT)I
+ENTRE :
+JULEE DESMARAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er mars 2013, à Victoria (Colombie-Britannique)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Shankar Kamath
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles déterminations établies en vertu de la Loi de l’impôt sur le revenu pour les années de base 2008, 2009 et 2010 est accueilli sans frais, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles déterminations compte tenu du fait que l’appelante était le particulier admissible au titre de la Prestation fiscale canadienne pour enfants relativement à sa fille, pour les mois d’octobre et de novembre 2009, et qu’elle avait droit au crédit pour taxe sur les produits et services à l’égard de sa fille pour le trimestre commençant en octobre 2009.
+Signé à Halifax (Nouvelle-Écosse), ce 15e jour de mars 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 29e jour d’avril 2013.
+Marie-Christine Gervais, traductrice
+Référence : 2013 CCI 83
+Date : 20130315
+Dossier : 2012-3792(IT)I
+ENTRE :
+JULEE DESMARAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelante interjette appel des déterminations établies par le ministre du Revenu national (le « ministre »), selon laquelle l’appelante n’avait droit qu’à une partie de la Prestation fiscale canadienne pour enfants (la « PFCE ») et du crédit pour taxe sur les produits et services (le « CTPS ») relativement à ses trois enfants, pour les années de base 2008, 2009 et 2010.
+[2] L’appelante et son ex‑époux, Ronald Desmarais, se sont séparés en mars 2009. Ils vivent séparément depuis l’échec de leur mariage. L’appelante et son ex‑époux ont trois enfants : une fille et deux fils. Les garçons sont des jumeaux. Leur fille est née en février 1993 et, leurs fils, en juin 2001.
+[3] Après l’échec du mariage, l’appelante a reçu la PFCE et le CTPS pour ses trois enfants jusqu’au 20 mars 2012 et au 5 avril 2012, respectivement, puis le ministre l’a informée que les sommes auxquelles elle avait droit au titre de la PFCE et du CTPS avaient été recalculées et qu’elle devait rembourser les sommes qu’elle avait reçues en trop à ce titre.
+[4] Selon l’appelante, son ex‑époux avait communiqué avec l’Agence du revenu du Canada (l’« ARC ») en décembre 2011, laquelle avait établi les nouvelles déterminations en fonction des renseignements qu’il lui avait donnés.
+[5] L’appelante s’est opposée aux nouvelles déterminations, et le ministre ensuite a fait d’autres nouvelles déterminations à l’égard de la PFCE et du CTPS. Les dernières nouvelles déterminations se résument ainsi :
+a) L’appelante et son ex-époux avaient une entente de garde partagée pour la période allant de mai 2010 à mars 2011, et chacun avait droit à la moitié de la PFCE;
+b) Concernant sa fille, l’appelante n’était pas le particulier admissible au titre de la PFCE pour la période allant d’août à novembre 2009;
+c) Concernant ses fils, l’appelante n’était pas le particulier admissible au titre de la PFCE pour les périodes allant de juillet 2009 à avril 2010 et d’avril 2011 à juin 2012;
+d) En ce qui concerne le CTPS, les fils n’étaient pas des personnes à charge admissibles de l’appelante pour les périodes allant d’avril 2011 à juin 2011 et de juillet 2011 à juin 2012.
+[6] L’appelante, sa fille et son ex-époux ont témoigné à l’audience.
+[7] Il est ressorti clairement de la preuve des témoins que la relation entre l’appelante et son ex-époux était tendue et qu’elle continue de l’être. La preuve était contradictoire et elle est résumée ci-dessous.
+[8] Selon l’appelante, le véritable problème dans la présente affaire n’est pas le fait qu’elle s’occupait des enfants à plein temps pendant la période pertinente, mais plutôt le fait que son ex‑époux et elle s’étaient entendus après l’échec du mariage pour elle reçoive l’allocation familiale au lieu d’une pension alimentaire pour conjoint de son ex‑époux. Elle a affirmé que, lorsqu’elle avait quitté son époux, elle ne gagnait pas un revenu régulier parce qu’elle avait été [traduction] « femme au foyer » pendant neuf ans. Elle aurait eu le droit de recevoir une pension alimentaire pour conjoint et, avec le recul, elle constate qu’elle aurait dû demander à son ex‑époux de lui verser une pension alimentaire pour conjoint au lieu de conclure une entente avec lui.
+[9] L’appelante a utilisé le terme [traduction] « allocation familiale » pour parler de la PFCE et du CTPS.
+[10] À l’appui de sa preuve, l’appelante a présenté une lettre rédigée par Me Marie Morrison, l’avocate qui l’avait représentée devant la Cour provinciale de la Colombie-Britannique. La lettre avait été rédigée le 10 avril 2012 et était adressée à l’ARC. Une partie de la lettre est rédigée ainsi :
+[traduction]
+En outre, lors de sa comparution en cour pour l’instance en divorce le 28 juin 2011, M. Desmarais a confirmé à Mme Desmarais qu’il consentait à ce que ma cliente reçoive la Prestation fiscale pour enfants à l’égard des enfants en raison de son revenu peu élevé et de sa répugnance à verser une pension alimentaire pour enfants.
+[11] Pour ce qui est des enfants, l’appelante a mentionné que sa fille n’avait pas résidé avec son ex‑époux pendant toute la période allant d’août à novembre 2009. Elle n’avait demeuré avec lui qu’en septembre. Sa fille était au camp en juillet et en août et avait résidé avec l’appelante en octobre et en novembre 2009.
+[12] L’appelante a admis que son ex‑époux et elle avaient conclu une entente de garde partagée pour la période allant de mai 2010 à mars 2011. Elle a aussi témoigné qu’il y avait des périodes où des ordonnances judiciaires confiaient la garde exclusive des enfants à son ex-époux et lui donnaient un droit de visite supervisée. Cependant, ces ordonnances judiciaires n’ont pas été respectées et les enfants résidaient avec son ex‑époux 70 % du temps et avec elle 30 % du temps. Ce n’est que pendant la période allant du 18 mars 2011 au 30 avril 2011 que l’appelante n’avait pas vu ses fils, son ex‑époux ayant refusé qu’elle leur rende visite.
+[13] L’appelante a déclaré que, pendant la période allant de juillet 2009 à mars 2010, elle avait demeuré avec sa mère. Elle avait un de ses fils avec elle la plupart du temps et ils vivaient ensemble chez sa mère. L’appelante amenait ses fils à l’école, faisait leur repas du midi et les emmenait se faire couper les cheveux.
+[14] La fille de l’appelante a mentionné qu’elle était d’accord avec sa mère pour ce qui est de son témoignage. Elle a dit qu’elle avait résidé avec l’appelante en octobre et en novembre 2009, à la maison de ses grands‑parents.
+[15] M. Desmarais a nié qu’une entente avait été conclue entre l’appelante et lui en ce qui concerne la réception de la PFCE et du CTPS. Il a soutenu que l’appelante avait seulement un droit de visite supervisée à l’égard des enfants pendant les périodes allant de juillet 2009 à avril 2010 et d’avril 2011 à juin 2012. Il avait respecté les ordonnances judiciaires afin que la garde de ses enfants ne soit pas confiée au ministère des Services à l’enfant, à la famille et à la communauté (ministry of Child, Family, and Community Services).
+[16] M. Desmarais a soutenu que les jumeaux n’avaient jamais résidé avec l’appelante pendant la période où celle‑ci n’avait qu’un droit de visite supervisée à l’égard des enfants. Ils allaient chez l’appelante en visite, et il se peut que chacun d’eux y ait passé la nuit, mais cela ne se serait produit qu’à deux ou trois reprises au cours de la période.
+[17] Conformément aux ordonnances judiciaires, les jumeaux étaient inscrits au Kids Klub, un organisme qui fournit des soins et des services de consultation aux enfants. Les jumeaux fréquentaient le Kids Klub avant et après l’école pendant l’année scolaire et tous les jours pendant l’été. Selon M. Desmarais, il amenait les jumeaux au Kids Klub avant et après l’école et pendant l’été. Il allait aussi les chercher à la fin de leurs séances. Cet aspect de la preuve de M. Desmarais a été confirmé par un document du Kids Klub.
+[18] En ce qui concerne sa fille, il a mentionné que c’était lui qui en avait la garde lorsqu’elle était au camp pendant les mois de juillet et d’août 2009. Une fois le camp terminé, elle avait résidé avec lui jusqu’à la mi‑novembre 2009, puis elle avait décidé de résider avec l’appelante.
+[19] Un résumé des diverses ordonnances présenté à l’audience a révélé ce qui suit. En juin 2009, le directeur des Services à l’enfant, à la famille et à la communauté a conclu que les enfants devaient être protégés contre l’appelante. Elle avait quitté la résidence familiale et M. Desmarais y avait emménagé avec les enfants. Il avait résidé avec eux jusqu’au 13 avril 2010. Au cours de cette période, les ordonnances précisaient que les droits de visite de l’appelante à l’égard des enfants étaient laissés à la discrétion de M. Desmarais. Par une ordonnance datée du 13 avril 2010, les deux parents se sont vu accorder la garde partagée des enfants. Puis, dans une ordonnance provisoire datée du 5 avril 2011, il a été ordonné que M. Desmarais ait la garde exclusive provisoire des jumeaux et que l’appelante ait des droits de visite supervisée à l’égard des jumeaux, lesquels droits étaient laissés à la discrétion de l’ex‑époux. Une ordonnance datée du 7 avril 2011 confirmait l’ordonnance provisoire et précisait que les jumeaux seraient confiés à la province si l’une quelconque des dispositions de l’ordonnance de surveillance n’était pas respectée. Finalement, le 22 février 2012, il a été prévu que l’appelante pourrait visiter les jumeaux certains jours précis, et, le 13 juillet 2012, l’appelante et M. Desmarais se sont vu accorder la garde partagée des jumeaux.
+Analyse
+[20] Pour avoir droit à la PFCE, un particulier doit être un « particulier admissible » au sens de l’article 122.6 de la Loi de l’impôt sur le revenu (la « LIR »), dont voici le passage pertinent :
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge – qui :
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+(ii) est un parent ayant la garde partagée à l’égard de la personne à charge;
+[21] La question de savoir qui « assume principalement la responsabilité pour le soin et l’éducation » des enfants pendant la période pertinente est une question de fait. Il faut évaluer les critères prescrits énoncés à l’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement ») et tous les autres critères qu’il peut y avoir. Les critères énoncés à l’article 6302 sont les suivants :
+6302 Critères – Pour l’application de l’alinéa h) de la définition de « particulier admissible » à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[22] À mon avis, l’appelante n’a pas présenté suffisamment d’éléments de preuve pour établir que c’était elle qui assumait principalement la responsabilité pour le soin et l’éducation des jumeaux au cours de la période en question, que ce soit 30 % ou 50 % du temps. Après avoir examiné la preuve, j’ai conclu que M. Desmarais était le particulier admissible au titre de la PFCE à l’égard des jumeaux au cours de la période allant de juillet 2009 à avril 2010 et d’avril 2011 à juin 2012. Pour en arriver à cette conclusion, j’ai admis la preuve de l’appelante selon laquelle ses fils lui avaient rendu visite chez elle et y avaient passé la nuit à l’occasion. Cependant, cela ne signifie pas qu’ils ne résidaient plus avec M. Desmarais et qu’ils résidaient avec l’appelante. Le verbe « résider », tel qu’il est utilisé à l’article 122.6, a une connotation de résidence établie et habituelle : S.R. c La Reine, 2003 CCI 649, au paragraphe 12.
+[23] Je conviens avec M. Desmarais qu’il était le principal responsable des soins et le « particulier admissible » à l’égard de sa fille lorsqu’elle était au camp en juillet et en août 2009. Toutefois, j’admets que la fille a commencé à résider avec l’appelante en octobre et en novembre 2009 et que, par la suite, l’appelante a été le particulier admissible au titre de la PFCE à l’égard de sa fille jusqu’à ce que celle‑ci ait 18 ans en février 2011.
+[24] Je suis également d’avis que l’appelante et M. Desmarais s’étaient entendus pour que l’appelante reçoive la PFCE et le CTPS au lieu d’une pension alimentaire pour conjoint. Néanmoins, l’article 122.6 ne comporte aucune disposition permettant aux parties de conclure une entente qui l’emporterait sur une conclusion relative à l’admissibilité à la PFCE.
+[25] Lorsqu’un enfant réside avec plus d’un parent, le paragraphe 122.5(6) de la LIR permet aux parties de conclure une entente concernant la réception du CTPS : Fraser c La Reine, 2010 CCI 23. Dans les circonstances du présent appel, la question de la double résidence ne se posait pas pour les jumeaux au cours des périodes allant de juillet 2009 à avril 2010 et d’avril 2011 à juin 2012, et le paragraphe 122.5(6) ne s’applique pas.
+[26] Aucune disposition de la LIR ne permettrait aux parties de s’entendre pour substituer la PFCE et le CTPS au versement d’une pension alimentaire pour conjoint.
+[27] L’appel est accueilli compte tenu du fait que l’appelante était le particulier admissible au titre de la PFCE à l’égard de sa fille pour les mois d’octobre et de novembre 2009 et le particulier admissible au titre du CTPS à l’égard de sa fille pour le trimestre commençant au mois d’octobre 2009.
+Signé à Halifax (Nouvelle-Écosse), ce 15e jour de mars 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 29e jour d’avril 2013.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2013 CCI 83
+NO DU DOSSIER DE LA COUR : 2012-3792(IT)I
+INTITULÉ : JULEE DESMARAIS c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 1er mars 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 15 mars 2013
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Shankar Kamath
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

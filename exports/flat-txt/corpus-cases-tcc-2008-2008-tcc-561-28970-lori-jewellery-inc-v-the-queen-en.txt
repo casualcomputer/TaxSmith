@@ -1,0 +1,165 @@
+Title: Lori Jewellery Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28970/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-561-28970-lori-jewellery-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-10-03
+
+# Lori Jewellery Inc. v. The Queen
+
+- Citation: 2008 TCC 561
+- Decision date: 2008-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6780, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lori Jewellery Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-03
+Neutral citation
+2008 TCC 561
+File numbers
+2007-4325(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-4325(GST)I
+BETWEEN:
+LORI JEWELLERY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal called for hearing on September 15, 2008 at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Costa A. Abinajem
+Counsel for the Respondent:
+Bonnie Boucher
+____________________________________________________________________
+JUDGMENT
+The appeal from the re-assessment made under the Excise Tax Act, notice of which is dated March 13, 2007 and bears number GB061240755181, is dismissed.
+Signed at Ottawa, Canada, this 3rd day of October 2008.
+V.A. Miller, J.
+Citation: 2008TCC561
+Date: 20081003
+Docket: 2007-4325(GST)I
+BETWEEN:
+LORI JEWELLERY INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] This is an appeal from a Notice of Reassessment dated March 13, 2007 which was issued pursuant to the Excise Tax Act (“the Act”) for the period August 1, 2002 to July 31, 2004 (“the period”).
+[2] The Appellant was assessed for the period by Notice dated April 6, 2006 wherein the Minister of National Revenue (the “Minister”) increased Goods and Services Tax (“GST”) in the amount of $2,171.51; denied Input Tax Credits (“ITC’s”) in the amount of $18,565.06 and assessed late remittance penalties and interest. On reassessment the Minister allowed additional ITC’s in the amount of $1,734.39.
+[3] The Appellant has only appealed the disallowance of ITC’s.
+[4] The Appellant was represented by Costa Abinajem of Alpha-Omega Accounting & Services Inc. Mr. Abinajem, a public accountant, has been the Appellant’s accountant since 1997. He prepared and filed the GST returns for the Appellant for the period under appeal.
+[5] At the beginning of the hearing Mr. Abinajem stated that the Reply to Notice of Appeal (the “Reply”) had been filed beyond the 60 day time period and therefore the assumptions in the Notice of Appeal are assumed to be true.
+[6] The Reply was filed 6 days late.
+[7] The relevant statutory provision which deals with the situation when a reply is not filed on time is subsection 18.3003(2) of the Tax Court of Canada Act which reads:
+Where reply not filed in time (2) The Minister of National Revenue may file a reply to a notice of appeal after the period referred to in subsection (1) and, where the Minister does not file the reply within the sixty day period or within the extension of time consented to by the person who has brought the appeal or granted by the Court, the allegations of fact contained in the notice of appeal are presumed to be true for the purposes of the appeal.
+[8] The presumption created in subsection 18.3003(2) is a rebuttable one and its effect is to shift the onus of proof.[i] Consequently, the Respondent had the burden of bringing evidence to rebut the presumed facts in the Notice of Appeal and to establish the assumptions upon which the assessment was made.
+[9] Wendy Lai, the Appeals Officer who worked on the Appellant’s file testified on behalf of the Respondent.
+[10] There were very few facts alleged in the Notice of Appeal. The presumed facts that the Respondent had to address were:
+a) The Appellant’s claim for ITC’s was in accordance with the Act.
+b) The Appeals Officer who allowed additional ITC’s on reassessment did not decrease the penalty and interest in the reassessment and she has refused to issue a new reassessment to correct her mistake.
+[11] The Appellant is a corporation which operates a retail jewellery business.
+[12] Ms Lai stated that the Appellant filed an annual return for the period ending July 31, 2003 and quarterly returns for the periods ending October 31, 2003, January 31, 2004, April 30, 2004 and July 31, 2004.
+[13] Ms. Lai explained how she dealt with the Notice of Objection filed by the Appellant. She reviewed the auditor’s report and working papers and ascertained that the auditor had disallowed ITC’s on the basis of his reconciliation of the Appellant’s General Ledger with the ITC’s claimed on the tax returns. The auditor had found that there were more ITC’s claimed in the returns than shown in the General Ledger and he disallowed the excess. He allowed all ITC’s shown in the General Ledger.
+[14] Ms. Lai also reviewed the General Ledger and the returns filed by the Appellant. She agreed with the auditor’s conclusion.
+[15] She stated that she asked Mr. Abinajem (the “agent”) how he calculated the ITC’s that were recorded in the returns. She was informed that very often he received bunches of invoices; some invoices were current and some were old. He added the ITC’s on the invoices and entered the sum on the GST return.
+[16] The agent did not present Ms. Lai with any of the invoices that he used in preparing the GST returns. He could not identify the ITC’s claimed in the returns that were in respect of a prior period.
+[17] Ms. Lai testified that the agent did give her old invoices which he said had never been claimed. He further submitted a list of these ITC’s to her. Ms. Lai checked the list against the invoices and allowed the ITC’s for those items that had invoices. She did not allow those items that were only supported by cancelled cheques nor did she allow ITC’s for 2000 and 2001 as these years were outside the audit period. She stated that she relied on subsection 296(2) of the Act to make her decision.
+[18] There was no evidence concerning the documentation that was given to support the ITC’s for 2000 and 2001.
+[19] The list of ITC’s given to Ms. Lai totaled $5,127.27. The items supported by documentation which she allowed totaled $1,468.85. She also allowed all items less than $20 which sum was $265.54. The additional ITC’s allowed on objection were $1,734.39. Within this list there was a claim for ITC’s that totaled $1,352.89 where Papissian Jewellery was the supplier. These ITC’s had been previously claimed and allowed in accordance with the General Ledger.
+[20] With respect to the adjustment for the penalty and interest which had not been included in the Notice of Reassessment dated March 13, 2007, Ms. Lai explained that she had made an error. The reassessment should have included a credit for the penalty and interest as a result of the additional ITC’s which were allowed. She stated that shortly after March 2007, the procedure for issuing reassessments within the Canada Revenue Agency (“CRA”) changed and she could no longer issue reassessments. However her error has been corrected by a credit adjustment made to the Appellant’s account.
+[21] The Minister reduced the penalties and interest in the amount of $238.86 and $96.06 respectively. The reduction was made on August 24, 2007 effective April 6, 2006. I find that the second issue raised by the Appellant has been satisfactorily resolved.
+[22] Mrs. Hasmig Papissian, who was described as the owner of the Appellant, and the agent testified on behalf of the Appellant.
+[23] It was the Appellant’s position that CRA was given 90% of the documentation for the ITC’s and it should have accepted that the remaining 10% of the amount claimed for ITC’s was correct. The Appellant also stated that CRA has the ability to check the data on the invoices by accessing the supplier’s account.
+[24] The relevant statutory provisions are:
+169(4) Required documentation -- A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed;
+Input Tax Credit Information (GST/HST) Regulations
+2. In these regulations,
+"supporting documentation" means the form in which information prescribed by section 3 is contained, and includes
+(a) an invoice,
+(b) a receipt,
+(c) a credit-card receipt,
+(d) a debit note,
+(e) a book or ledger of account,
+(f) a written contract or agreement,
+(g) any record contained in a computerized or electronic retrieval or data storage system, and
+(h) any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable;
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+(A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+(B) the total (referred to in this paragraph as the "total tax rate") of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+(C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient's name, the name under which the recipient does business or the name of the recipient's duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+296(2) Where, in assessing the net tax of a person for a particular reporting period of the person, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable credit”) would have been allowed as an input tax credit for the particular reporting period or as a deduction in determining the net tax for the particular reporting period if it had been claimed in a return under Division V for the particular reporting period filed on the day that is the day on or before which the return for the particular reporting period was required to be filed and the requirements, if any, of subsection 169(4) or 234(1) respecting documentation that apply in respect of the allowable credit had been met,
+(b) the allowable credit was not claimed by the person in a return filed before the day notice of the assessment is sent to the person or was so claimed but was disallowed by the Minister, and
+(c) the allowable credit would be allowed, as an input tax credit or deduction in determining the net tax for a reporting period of the person, if it were claimed in a return under Division V filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that return only because the period for claiming the allowable credit expired before that day,
+the Minister shall take the allowable credit into account in assessing the net tax for the particular reporting period as if the person had claimed the allowable credit in a return filed for the period.
+[25] Subsection 169(4) requires that a registrant must be able to submit sufficient evidence in such form as to enable the ITC’s that are claimed to be determined. This includes any information that is prescribed by section 3 of the Input Tax Credit Information (GST/HST) Regulations. It has been held that these technical requirements are mandatory. See Helsi Construction Managemnt Inc. v. R., [2001] GSTC 39 (TCC) where Associate Chief Bowman, as he then was, stated:
+The main reason for the disallowance was that the suppliers' GST numbers were not shown on the invoices. This is a requirement under section 3 of the Input Tax Credit Information Regulations. While there may be some justification in certain cases for treating technical or mechanical requirements as directory rather than mandatory (for example see Senger-Hammond v. R., [1997] 1 C.T.C. 2728) that is not so in the case of the GST provisions of the Excise Tax Act.
+[26] Justice Bowie also concluded that the requirements of subsection 169(4) were mandatory and that they should be strictly enforced. In Key Property Management Corporation v. The Queen, [2004] GSTC 32 (TCC) at paragraph 14 he stated the reason for his conclusion as follows:
+The amount of information that a registrant must obtain in support of a claim for an ITC under these Regulations increases as the consideration for the supply increases, and the requirements at each level are quite specific. Counsel for the Appellant seemed to take the position that the oral evidence of Mr. Krauel should be an adequate substitute for compliance with the specific requirements of the Act and the Regulations. I reject any such proposition. It is well known that any value added system of taxation is potentially vulnerable to abuse, and that one of the most vulnerable aspects is in connection with claims for input tax credits. The whole purpose of paragraph 169(4)(a) and the Regulations is to protect the consolidated revenue fund against both fraudulent and innocent incursions. They cannot succeed in that purpose unless they are considered to be mandatory requirements and strictly enforced. The result of viewing them as merely directory would not simply be inconvenient, it would be a serious breach of the integrity of the statutory scheme.[4]
+[27] Ms. Lai’s testimony and the exhibits filed by the Respondent have rebutted the presumed fact that the Appellant’s claim for ITC’s was in accordance with the Act. The Appellant did not have the documentation to support the amount of ITC’s claimed in the returns. At the audit and appeals stage, the Appellant thought that the CRA should have investigated other taxpayers to help the Appellant substantiate its claim for ITC’s. This is not CRA’s role or responsibility. It is the Appellant’s duty to keep the records to support its claim and to meet the requirements of subsection 169(4) of the Act.
+[28] At the hearing of the appeal the Appellant tendered several exhibits which consisted of cancelled cheques and invoices. The agent stated that these documents had never been given to the CRA and had never been claimed. He relied on the decision in Byrnes, 2007-625(GST)I to assert that the documents tendered as exhibits should be accepted by the court and that Ms. Lai should have considered the documentation given for 2000 and 2001.
+[29] I have compared the Appellant’s exhibits with both the auditor’s and Ms. Lai’s working papers. I have concluded that the exhibits formed part of the documentation given to Ms. Lai. I have also concluded that all ITC’s with proper documentation had been previously allowed either by the auditor or by Ms. Lai.
+[30] The decision in Byrnes does not assist the Appellant with its claim for additional ITC’s for the prior periods 2000 and 2001. In that case the ITC claimed had been fully documented. In the present appeal there were documents only for the 2000 year and it is my opinion that the documentation was inadequate to support additional ITC’s. As well, there was no evidence whether these amounts were claimed and allowed or disallowed in a prior period. I found that the Appellant’s records were in complete disarray.
+[31] In conclusion, the evidence tendered by the Respondent established that the reassessment was correct. The onus shifted to the Appellant to show an error in the Minister’s reassessment.
+[32] I have considered the documents and the testimony provided by Ms. Hasmig Papissian and the agent and I have concluded that the documents did not satisfy the requirements of subsection 169(4) of the Act and the Regulations. The Appellant has not shown that the reassessment was incorrect.
+[33] The appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of October 2008.
+V.A. Miller, J.
+CITATION: 2008TCC561
+COURT FILE NO.: 2007-4325(GST)I
+STYLE OF CAUSE: LORI JEWELLERY INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 15, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: October 3, 2008
+APPEARANCES:
+Agent for the Appellant:
+Costa A. Abinajem
+Counsel for the Respondent:
+Bonnie Boucher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[i] Kosowan v. M.N.R., [1989] 1 C.T.C. 2044 (TCC)

@@ -1,0 +1,84 @@
+Title: Lewko v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28549/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-615-28549-lewko-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-10-15
+
+# Lewko v. The Queen
+
+- Citation: 2007 TCC 615
+- Decision date: 2007-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1082, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lewko v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-15
+Neutral citation
+2007 TCC 615
+File numbers
+2006-1613(GST)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2007TCC615
+Date: 20071015
+Docket: 2006-1613(GST)G
+BETWEEN:
+GLEN LEWKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on October 9, 2007 at Saskatoon, Saskatchewan
+Before: The Honourable D.W. Beaubier, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Owen B. Griffiths
+Counsel for the Respondent:
+Karen Janke
+____________________________________________________________________
+REASONS FOR ORDER AND ORDER
+Beaubier, D.J.
+[1] This Notice of Motion by the Respondent’s counsel was filed on September 28, 2007 to strike out or dismiss the Appellant’s Amended Notice of Appeal. The original Notice of Appeal was filed on December 1, 2005. The Amendment (#II) was filed on February 9, 2007. Both appeal a Notice of Decision dated November 21, 2005 on Assessment #68940 dated April 14, 2005, Excise Tax Act (#68940).
+[2] Based upon the Amended Notice of Appeal and the material filed in support of this Notice of Motion, the purported appeals respecting Assessments #3502 and #17986 are dismissed.
+[3] Respecting Assessment #68940, Respondent’s Motion is correct that the Amended Notice of Appeal II does not comply with the Tax Court of Canada Rules (General Procedure) and recite the material facts upon which the Appellant will rely in this appeal.
+[4] However, this can be remedied by an amendment following the Rules, and the Respondent’s difficulties can be remedied by costs, all without embarrassment, prejudice or a loss of rights to anyone.
+[5] Therefore:
+1. The Appellant’s counsel shall have 10 days from the date of this Order in which to file and serve on the Respondent’s counsel a “Further Amended Notice of Appeal”.
+2. The Respondent’s counsel shall have 21 days after receipt of the “Further Amended Notice of Appeal” in which to file a Reply thereto.
+3. The foregoing dates are peremptory.
+4. In view of the original Notice of Appeal, its amendment, the correspondence by the Respondent’s counsel to the Appellant’s counsel concerning these documents and the need for a Reply and this Motion, costs are ordered against the Appellant in the amount of $1,000 to be paid forthwith and in any event, to be delivered to the Respondent’s counsel with the “Further Amended Notice of Appeal”.
+Signed at Toronto, Ontario this 15th day of October, 2007.
+"D.W. Beaubier"
+Beaubier, D.J.
+CITATION: 2007TCC615
+COURT FILE NO.: 2006-1613(GST)G
+STYLE OF CAUSE: Glen Lewko v. The Queen
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: October 9, 2007
+REASONS FOR ORDER BY: The Honourable D.W. Beaubier,
+Deputy Judge
+DATE OF ORDER: October 15, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Owen B. Griffiths
+Counsel for the Respondent:
+Karen Janke
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Owen B. Griffiths
+Firm: Amicus Law Associates
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
